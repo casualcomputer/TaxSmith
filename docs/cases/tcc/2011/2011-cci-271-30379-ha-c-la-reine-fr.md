@@ -1,0 +1,297 @@
+---
+title: "Ha c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30379/index.do"
+last_modified: "2011-06-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 271"
+citation2: ""
+neutral_citation: "2011 CCI 271"
+decision_date: "2011-06-06"
+language: "fr"
+item_id: "30379"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7897
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:49:58.632000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a73e54d71e1ecd65df857fd86aa15e3eb2a6cfebb1e7e504d9830d7f64ea5b8d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ha c. La Reine
+
+- Citation: 2011 CCI 271
+- Decision date: 2011-06-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7897, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ha c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-06
+Référence neutre
+2011 CCI 271
+Numéro de dossier
+2007-3006(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3006(IT)G
+ENTRE :
+LONG HA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+Long Ha (2007-3007(GST)I))
+du 15 au 19 novembre 2010, à Victoria (Colombie-Britannique).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelant :
+Me B. Rory Morahan
+Avocats de l’intimée :
+Me Raj Grewal
+Me Andrew Majawa
+JUGEMENT
+L’appel relatif aux nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1999, 2000, 2001, 2002, 2003 et 2004 est accueilli, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que les montants suivants sont à soustraire des revenus non déclarés :
+Année d’imposition 2000
+a) le virement de 6 200 $ de l’épouse de l’appelant;
+b) le prêt de 13 000 $ reçu de Binh A. Mac;
+c) la somme de 9 043,87 $ du REER, retirée dans le cadre du Régime d’accession à la propriété;
+d) les sommes de 956,13 $ et de 8 000 $, qui ont été appliquées deux fois dans les calculs de la valeur nette;
+e) l’avance de 681 $ sur la carte Visa.
+Année d’imposition 2001
+a) le virement de 1 400 $ de l’épouse de l’appelant.
+Année d’imposition 2003
+a) le produit d’assurance de 32 824,85 $.
+L’intimée a eu gain de cause en grande partie dans les présents appels et elle a droit à ses dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 6e jour de juin 2011.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 2e jour de septembre 2011.
+Mario Lagacé, jurilinguiste
+Dossier : 2007-3007(GST)I
+ENTRE :
+LONG HA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+Long Ha (2007-3006(IT)G))
+du 15 au 19 novembre 2010, à Victoria (Colombie-Britannique).
+Devant : L’honorable juge Valerie Miller
+Comparution :
+Avocat de l’appelant :
+Me B. Rory Morahan
+Avocats de l’intimée :
+Me Raj Grewal
+Me Andrew Majawa
+JUGEMENT
+L’appel relatif à la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise pour la période du 1er janvier 2000 au 31 décembre 2003 est accueilli, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs ci-joints.
+Signé à Halifax (Nouvelle-Écosse), ce 6e jour de juin 2011.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 2e jour de septembre 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2011CCI271
+Date : 20110606
+Dossiers : 2007-3006(IT)G
+2007-3007(GST)I
+ENTRE :
+LONG HA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V. A. Miller
+[1] Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de l’obligation fiscale de l’appelant en se fondant sur la méthode de la valeur nette et a inclus dans le revenu les montants de 91 232 $, de 50 125 $, de 64 540 $ et de 66 596 $ pour les années 2000, 2001, 2002 et 2003, respectivement. L’année d’imposition 2004 de l’appelant a fait l’objet d’une nouvelle cotisation en vue d’inclure un revenu d’intérêt de 1 920 $, et ses années d’imposition 1999, 2000, 2002, 2003 et 2004 ont fait l’objet d’une nouvelle cotisation en vue de rejeter un report de pertes autres qu’en capital de 2 499 $, de 11 694 $, de 2 296 $, de 9 740 $ et de 11 068 $, respectivement. Les années d’imposition 2000 et 2001 de l’appelant ont fait l’objet d’une nouvelle cotisation au-delà de la période normale de nouvelle cotisation, conformément au sous-alinéa 152(4)a)(i) de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] L’appelant a également fait l’objet d’une cotisation pour non-versement d’un montant de TPS de 19 074,51 $ pour la période du 1er janvier 2000 au 31 décembre 2003, conformément à la Loi sur la taxe d’accise (la « LTA »).
+[3] Les avocats des deux parties ont convenu que l’audience porterait principalement sur les calculs de la valeur nette faits dans le cadre de l’appel en matière d’impôt sur le revenu et que la décision rendue dans cet appel-là entrerait en ligne de compte dans la décision relative à l’appel en matière de TPS. Ils ont convenu que l’appelant avait sous-estimé son revenu d’entreprise dans chacune des années en question et que le point en litige était le montant de ce revenu non déclaré.
+[4] Le 8 juin 2002, l’appelant a été intercepté et interrogé par le personnel de sécurité de l’Aéroport international de Vancouver. Il avait en sa possession un montant en espèces de 40 000 $. L’affaire a été soumise à la Gendarmerie royale du Canada (la « GRC ») et même si cette dernière n’avait pas assez d’informations pour saisir cette somme, les explications de l’appelant à propos de la source de l’argent ne l’ont pas convaincue. La GRC a ensuite transmis l’affaire à l’Agence du revenu du Canada (l’« ARC »), qui a passé en revue les déclarations de revenus de l’appelant et a conclu que les montants de revenu déclarés n’étaient vraisemblablement pas suffisants pour qu’une personne puisse subvenir à ses propres besoins et économiser le montant de 40 000 $ que possédait l’appelant. Aucun document n’étant disponible, l’appelant a fait l’objet d’une nouvelle cotisation fondée sur la méthode de la valeur nette.
+[5] Les calculs de la valeur nette ont été basés sur une analyse de dépôts bancaires, des états bancaires, des demandes de prêt hypothécaire et des relevés hypothécaires. L’annexe des dépenses personnelles a été calculée à partir d’informations de Statistique Canada en vue d’estimer les coûts relatifs à une personne seule.
+[6] Durant la période, l’appelant a déclaré son revenu total comme suit :
+Année d’imposition
+1999
+2000
+2001
+2002
+2003
+2004
+Revenus de location nets
+1 755 $
+1 720 $
+1 717 $
+1 714 $
+Revenus de pêche / d’entreprise nets
+16 712 $
+4 817
+Revenus d’emploi
+3 800
+9 000
+11 000
+Prestations d’assurance-emploi
+9 499 $
+3 645
+4 202
+7 020
+6 955
+Revenus d’intérêts
+219
+Total
+9 499 $
+20 357 $
+5 957 $
+10 337 $
+17 956 $
+19 669 $
+[7] Au cours des années en question, l’appelant a travaillé comme cueilleur de salal et comme pêcheur. Il a admis ne pas avoir déclaré la totalité de son revenu dans ces années-là, mais il a dit que le revenu non déclaré était nettement inférieur au montant de la nouvelle cotisation que le ministre avait établie. Dans la réponse produite auprès de la Cour, l’appelant a indiqué que le revenu non déclaré s’élevait à 7 255 $, à 21 733 $, à 16 703 $ et à 10 297,26 $ en 2000, 2001, 2002 et 2003, respectivement. À l’audition des présents appels, l’avocat de l’appelant a fait savoir que le revenu non déclaré s’élevait à 3 668 $, à 6 609 $, à 3 469 $ et à 6 915 $ dans les années contestées consécutives. À son avis, les calculs de la valeur nette étaient inexacts, et ce, pour un certain nombre de raisons, dont les suivantes :
+a) les différences culturelles entre le mode de vie adopté par l’appelant et par sa famille;
+b) la cotisation fondée sur la valeur nette s’appliquait en fait à deux personnes (Long Ha et son épouse);
+c) l’appelant a reçu de nombreux prêts de la part d’amis et de membres de sa famille au cours des années en question; il fallait soustraire ces prêts des calculs de la valeur nette;
+d) l’épouse de l’appelant détenait une fiducie présumée ou résultoire à l’égard de tous les comptes et tous les éléments d’actif entrant dans les calculs de la valeur nette; de ce fait, après le calcul indiqué au paragraphe c) ci-dessus, il fallait diviser le solde de moitié;
+e) le degré d’instruction de l’appelant et sa capacité de gagner de l’argent ne cadraient pas avec le revenu qu’alléguait le ministre;
+f) il ne fallait pas prendre en compte les éléments d’actif acquis avant 2000 dans les calculs de la valeur nette, car ils ne reflétaient pas le revenu gagné en 2000;
+g) le coût des appareils ménagers et du mobilier que l’appelant avait achetés n’était pas excessif; ce coût cadrait avec son revenu.
+[8] De l’avis de l’intimée, la cotisation fondée sur la valeur nette était trop faible, car l’appelant n’avait pas révélé l’existence d’éléments d’actif et de dépenses qui auraient majoré de 39 741,06 $ le revenu total non déclaré. Ce n’est qu’aux stades de l’opposition et de l’interrogatoire préalable de l’appel que ces éléments d’actif et ces dépenses ont été révélés. Au soutien de sa position, l’intimée a soumis une analyse de la valeur nette qui incluait les éléments d’actif et les dépenses additionnels[1]. L’avocat de l’intimée a fait valoir de plus que, à l’audition du présent appel, l’appelant avait révélé l’existence de montants supplémentaires de 35 000 $ d’éléments d’actif et de 10 000 $ de dépenses, et que ces montants auraient haussé la cotisation de 45 000 $. L’avocat de l’intimée a reconnu que la Cour ne pouvait pas majorer le montant de la cotisation, mais, a-t-il fait valoir, l’appelant est tenu de montrer l’existence d’erreurs ou de sources non imposables d’un montant supérieur à 84 741,06 $ avant qu’il soit possible de réduire sa cotisation.
+[9] La position de l’intimée au sujet de la somme de 84 741,06 $ est inexacte. Un examen des calculs de la valeur nette a révélé qu’une partie de cette somme figurait dans l’annexe des dépenses personnelles sous la mention [traduction] « Retraits bancaires non identifiés ». Le montant total de ces retraits, dans les calculs de la valeur nette, s’élevait à 141 904,07 $. Je ne puis donc pas me fonder sur les déclarations de l’intimée selon lesquelles la somme de 84 741,06 $ ne figure pas dans les calculs de la valeur nette.
+[10] L’avocat de l’intimée a raison de dire que la Cour ne peut pas majorer le montant d’une cotisation. Cependant, souscrire à l’argument de l’avocat reviendrait à majorer la cotisation et à permettre au ministre de porter en appel sa propre cotisation. Le principe qu’a énoncé le juge Thurlow, dans la décision Harris c. Le ministre du Revenu national[2], à savoir que le ministre ne peut pas interjeter appel de sa propre cotisation, s’applique en l’espèce. Au paragraphe 17 de la décision, le juge Thurlow a déclaré ce qui suit :
+[TRADUCTION]
+Lorsqu’un contribuable interjette appel devant la Cour, la question fondamentale à trancher est de savoir si la cotisation est trop élevée. Cela peut dépendre des montants qui peuvent être déduits dans le calcul du revenu et de ceux qui ne le peuvent pas, mais, à mon avis, on statue sur ces questions seulement dans le but de tirer une conclusion relativement à la question fondamentale. La loi ne permet pas au ministre d’appeler de la cotisation devant la Cour, et comme dans les circonstances en l’espèce le refus de la déduction du montant de 775,02 $ et l’autorisation de la déduction du montant de 525 $ entraîneraient une augmentation de la cotisation, le renvoi de l’affaire au ministre à cette fin aurait pour effet d'augmenter la cotisation et donc essentiellement d’accueillir un appel interjeté devant la Cour par le ministre.
+[11] L’appelant a fait état de plusieurs raisons pour lesquelles la cotisation fondée sur la valeur nette est inexacte. Je vais maintenant traiter de chacun de ces points.
+[12] L’appelant a retenu les services d’une comptable, Mme Janice Cross, pour résumer les divers documents bancaires. Je n’ai accordé aucun poids à la pièce A2, c’est-à-dire les résumés de comptes bancaires qu’elle a établis. En contre‑interrogatoire, Mme Cross a admis que ses résumés contenaient des inexactitudes. De plus, je ne me suis pas reportée aux relevés bancaires de l’épouse de l’appelant, car ces documents n’ont pas été admis en preuve à l’audition des présents appels. L’intimée avait demandé ces relevés à l’interrogatoire préalable, mais ils n’ont jamais été produits.
+[13] L’avocat de l’appelant a affirmé que les différences culturelles entre le mode de vie que son client et sa famille avaient adopté n’entraient pas en ligne de compte dans le calcul de la valeur nette. L’appelant n’a produit aucune preuve documentaire à l’appui de cette affirmation.
+[14] L’avocat de l’appelant a fait valoir que les relevés de la valeur nette concernaient en fait l’appelant et son épouse. Cependant, Mme Cathy Sundberg, vérificatrice auprès de l’ARC, a déclaré que la cotisation fondée sur la valeur nette ne concernait pas l’appelant et son épouse parce que l’appelant avait indiqué dans ses déclarations de revenus qu’il était célibataire. Ce n’est qu’un certain temps après l’établissement des nouvelles cotisations que le ministre a découvert que l’appelant était marié et que, durant les années en question, il avait vécu en compagnie de son épouse et de ses trois enfants.
+[15] L’appelant est d’avis que son épouse a contribué aux dépenses personnelles ainsi qu’à l’acquisition des éléments d’actif. Cependant, il n’a pas appelé cette dernière à témoigner à l’audition des présents appels, et je tire une inférence défavorable de cette omission[3]. De plus, il ressort de la preuve que l’épouse de l’appelant a touché des prestations d’aide sociale entre 1994 et 2001. Sur ses demandes d’aide sociale, elle a déclaré que son revenu était nul, qu’elle était célibataire, et qu’elle payait un loyer à son propriétaire. La vérité était qu’elle vivait en compagnie de l’appelant et que, en 2000 et en 2001, c’est lui qui était propriétaire de la maison.
+[16] M. Michael Aldridge, gestionnaire auprès du ministère du Développement social de la Colombie-Britannique, a dit que les fausses déclarations de l’épouse de l’appelant avaient permis à cette dernière de toucher le double des paiements d’aide sociale auxquels elle avait droit.
+[17] Quoi qu’il en soit, il existe une preuve[4] que l’épouse de l’appelant a viré la somme de 6 200 $ et de 1 400 $ dans le compte de la Banque Toronto-Dominion de son époux en 2000 et 2001, respectivement. Ces montants seront déduits des calculs des cotisations fondées sur la valeur nette. Je signale que les virements ont pris fin au même moment à peu près que celui où l’épouse a cessé de toucher des prestations d’aide sociale.
+[18] L’appelant estime de plus que les éléments d’actif acquis avant 2000 ne devraient pas entrer dans les calculs de la valeur nette. Cependant, dans les appels en matière fiscale, une analyse de la valeur nette sert à estimer le revenu d’un appelant. Il est nécessaire de tenir compte des éléments d’actif détenus avant les années en question. Dans la décision Ramey c. R.[5], le juge Bowman, de la Cour canadienne de l’impôt, a décrit de quelle façon est calculée une cotisation fondée sur la valeur nette. Voici ce qu’il a déclaré, au paragraphe 6 de la décision :
+Estimer le revenu annuel d’un contribuable à partir de la valeur de son actif net est une méthode insatisfaisante et imprécise. C’est un instrument grossier que le ministre doit utiliser en dernier ressort. Une cotisation d’actif net repose sur une comparaison de l’actif net du contribuable, à savoir la valeur de l’actif moins le passif au début d’une année, avec son actif net à la fin de l’année. À la différence ainsi obtenue, on ajoute les dépenses qu’il a engagées pendant l’année. Le montant obtenu est réputé être le revenu du contribuable, sauf preuve contraire. Ces cotisations peuvent être inexactes dans une mesure indéterminée, mais elles sont valables jusqu’à preuve de leur inexactitude. Il est quasi impossible de les contester à la pièce. La seule façon vraiment efficace de les contester est de procéder à une reconstitution complète du revenu du contribuable pour l’année. Un contribuable dont les registres comptables et le mode de déclaration de revenus sont dans un tel fouillis que la cotisation d’actif net s’impose est souvent l’artisan de son propre malheur.
+[19] La cotisation fondée sur la valeur nette n’incluait que deux éléments d’actif et un élément de passif : une maison que l’appelant avait acquise en 2000 et l’hypothèque grevant cette maison, ainsi que les soldes en fin d’année apparaissant dans les comptes bancaires de l’appelant. Ce dernier a souscrit aux montants indiqués sous la rubrique des éléments d’actif et sous celle des éléments de passif. Il a toutefois exprimé l’avis que l’acompte de 68 795,17 $ qui avait servi à acheter la maison se composait d’emprunts et d’économies.
+[20] L’appelant a appelé six témoins, qui ont déclaré qu’ils lui avaient soit donné, soit prêté de l’argent pendant les années en cause. Il y a eu des contradictions dans leurs témoignages et dans celui de l’appelant; en fin de compte, la question de savoir si je considère la preuve comme digne de foi ou non dépendra de ma conclusion quant à la crédibilité. Pour rendre une décision fondée sur la crédibilité, je garde à l’esprit les propos qu’a faits, au paragraphe 13, le juge en chef Bowman dans la décision Faulkner c. MRN[6] :
+Le pouvoir et l’obligation d’établir des conclusions relatives à la crédibilité est l’une des plus lourdes responsabilités d’un juge de première instance. Le juge doit exercer cette responsabilité avec soin et après mûre réflexion puisqu’une conclusion défavorable de la crédibilité suppose que l’une des parties ment sous la foi du serment. Vouloir mettre un terme rapidement à une affaire ne peut être une excuse justifiant le mauvais usage de ce pouvoir. La responsabilité qui repose sur le juge d’un procès qui doit tirer des conclusions relatives à la crédibilité doit être particulièrement rigoureuse si l’on considère que l’on ne peut pratiquement pas en appeler de telles conclusions.
+[21] Lors de l’examen des éléments de preuve produits, je puis retenir la totalité ou une partie du témoignage d’un témoin ou ne rien en retenir, ou retenir certains éléments du témoignage d’un témoin et en rejeter d’autres. Pour l’évaluation de la crédibilité, je puis prendre en compte les contradictions ou les faiblesses relevées dans le témoignage des témoins. Je puis prendre en considération le sens général du témoignage. C’est-à-dire que ce témoignage, si on le considère d’une manière sensée, donne-t-il à penser que la preuve est impossible ou hautement improbable[7]?
+[22] J’ai conclu que l’appelant n’était pas digne de foi. Son récit a changé chaque fois qu’il l’a relaté. Quand il a été intercepté à l’Aéroport international de Vancouver, il a dit aux autorités que la somme de 40 000 $ qu’il avait en sa possession était le fruit de son emploi de pêcheur ainsi que d’une entreprise de restauration. Le 12 décembre 2004, il a été interrogé par M. Brad Anderson, vérificateur auprès de l’ARC, et il a dit que la somme de 40 000 $ provenait de ses économies, de la cueillette de salal et d’amis qui lui avaient prêté quelques centaines de dollars. À l’audition de l’appel, l’appelant a exprimé l’avis que le montant de 40 000 $ se composait de 35 300 $ de prêts ou de cadeaux qu’on lui avait faits.
+[23] Le 14 avril 2000, l’appelant a acheté une maison à Campbell River au prix de 159 000 $. Il a fait l’achat en versant un acompte de 68 795,17 $ et en finançant le solde. Lors de son entrevue avec Brad Anderson, le 12 décembre 2004, l’appelant a déclaré que l’acompte provenait de son REER et de ses économies. Il a ajouté qu’il avait travaillé de 1980 à 2000 et économisé beaucoup d’argent. Il n’avait pas emprunté d’argent pour cet achat, pas plus qu’il n’avait touché un héritage ou réalisé des gains à la loterie. À l’audition du présent appel, il a exprimé l’avis que la majeure partie de l’acompte était constituée de sommes prêtées par des amis, d’argent de son épouse et de gains au jeu. Il y a eu de nombreuses autres contradictions dans le témoignage de l’appelant, et j’en parlerai plus loin dans ma décision.
+Les témoins de l’appelant
+[24] Les témoins que l’appelant a appelés étaient Binh A. Mac, Phat Minh Ly, Hung Kiev Giang, Huong Thuy Nguyen, Manh Van Vu et Tran Thi Van.
+[25] Mme Binh A. Mac a déclaré qu’elle avait prêté à l’appelant la somme de 13 000 $ en mars 2000, en se fondant sur l’amitié qu’il y avait entre ses parents et l’appelant. Elle ignorait pourquoi il avait besoin de cet argent, et elle n’avait aucun document prouvant que l’argent qu’elle lui avait donné était en fait un prêt. Cependant, l’appelant a produit des copies sur microfiches du recto et du verso de plusieurs chèques que Binh A. Mac avait établis à son nom les 7, 9 et 12 mars 2000. Le montant de ces chèques totalisait 13 000 $. Selon Binh A. Mac, l’appelant s’était présenté à son domicile à trois occasions distinctes pour prendre les chèques. Elle a déclaré qu’elle avait établi chacun des chèques à la date qui y était inscrite. L’appelant a toutefois déclaré que les trois chèques lui avaient été remis à une seule et même occasion.
+[26] Binh A. Mac a déclaré avoir remis les chèques en personne à l’appelant et que ce dernier avait convenu de rembourser le prêt dans un délai de six mois ou un an. À l’audience, tant Binh A. Mac que l’appelant ont convenu que ce dernier n’avait pas remboursé le prêt. Cependant, à l’interrogatoire préalable, il avait déclaré l’avoir fait en 2005.
+[27] Contrairement aux arguments de l’intimée, à l’audience aucune preuve n’a été produite qui m’aurait permis de conclure que Binh A. Mac conservait l’argent de l’appelant ou que ce dernier contrôlait le compte au nom de Binh A. Mac. Même s’il y a eu des contradictions entre le témoignage de Binh A. Mac et celui de l’appelant, le témoignage de Binh A. Mac n’a pas été ébranlé en contre‑interrogatoire. Je suis persuadée que l’appelant a établi qu’il avait reçu un prêt de 13 000 $ de Binh A. Mac en 2000.
+[28] Phat Minh Ly et l’appelant ont déclaré que, en août 2003, le premier des deux a prêté à l’autre la somme de 10 000 $ pour acheter un condominium à Burnaby (C.-B.). Je n’ai toutefois accordé aucun poids au témoignage de Phat Minh Ly. Aucun document ne l’étayait. Son témoignage contredisait celui que l’appelant avait fait à l’interrogatoire préalable, où il avait déclaré que les 10 000 $ étaient de l’argent à lui dont il s’était servi pour verser un acompte sur le condominium :
+[traduction]
+592 Q C’est donc comme un chèque certifié ou une traite bancaire, et ce sont vos 10 000 $?
+R Je me rappelle qu’il s’agit de mes 10 000 $. Parce que je me rappelle que j’avais quelques milliers de dollars, que j’avais gagné le reste au casino ce jour-là et que je les avais amenés.
+[29] L’acompte de 10 000 $ pour l’achat du condominium n’a pas été révélé aux vérificateurs de l’ARC, et il ne fait pas partie de la cotisation fondée sur la valeur nette. Cependant, si j’ai fait référence à cette preuve, ce n’est que pour montrer les contradictions présentes dans le témoignage de l’appelant. J’ai conclu que ce témoignage était tout à fait indigne de confiance.
+[30] Hung Kiev Giang et l’appelant se sont rencontrés à Calgary, où ils ont travaillé ensemble dans une pizzeria pendant cinq ou six ans. Le témoin est un cuisinier de pizza et il est au service d’une pizzeria depuis dix-huit ans. Selon son témoignage, en août 2002, il a remis à l’appelant 20 000 $ en espèces, en vingt liasses de 1 000 $ chacune. En contre-interrogatoire, l’appelant a reconnu que c’était la seule fois où il avait reçu une somme d’argent comptant aussi élevée. Il a soutenu que cette somme lui avait été remise en deux liasses en juin 2002. Lors de l’interrogatoire préalable, l’appelant a déclaré que la somme de 20 000 $ en espèces lui avait été remise en quatre liasses de 5 000 $ chacune. (Cette somme de 20 000 $ faisait censément partie des 40 000 $ que l’appelant avait sur lui au moment de son interception à l’Aéroport international de Vancouver.)
+[31] À l’invraisemblance du témoignage de Hung Kiev Giang s’ajoute le fait que, en 2002, l’appelant vivait en compagnie de son épouse et de ses trois enfants et qu’il avait déclaré un revenu de 19 580 $. Il avait censément emprunté la somme de 20 000 $ sur ses diverses cartes de crédit et, pourtant, il n’avait aucun document pour confirmer ses dires.
+[32] En 2001, l’appelant a acheté une Honda Prélude neuve au prix d’environ 32 000 $. À l’interrogatoire préalable, il a déclaré que l’argent dont il s’était servi pour l’achat de ce véhicule était entièrement le sien. Il n’avait rien emprunté à des amis pour payer le véhicule. Il a déclaré avoir payé le prix d’achat au moyen d’un chèque de 15 000 $ et d’une somme d’argent comptant de 5 000 $ ou 6 000 $ (somme qu’il avait toujours sous la main) et avoir réglé le solde avec sa carte de crédit.
+[33] À l’audience, l’appelant a déclaré qu’il avait emprunté la somme de 8 000 $ en argent comptant de Manh Van Vu pour acheter la Honda Prélude. M. Vu a souscrit à ce témoignage, mais a confondu les faits. Il a déclaré avoir prêté la somme de 8 000 $ en argent comptant au mois de mars ou d’avril 2002.
+[34] Le revenu de 1998 à 2002 que M. Vu a déclaré était minime, et l’avocat de l’appelant lui a demandé si une part quelconque des fonds qu’il avait prêtés à l’appelant découlait de revenus non déclarés. M. Vu a répondu qu’il économisait son argent et qu’il [traduction] « remplissait sa déclaration de revenus chaque année ». J’ai conclu que cet homme n’était pas digne de foi, et je ne crois pas qu’il a prêté à l’appelant la somme de 8 000 $. Les revenus qu’il a déclarés étaient de 809 $, de 4 496 $, de 13 980 $, de 7 014 $ et de 10 953 $ dans les années successives de 1998 à 2002.
+[35] Même si l’existence de la Honda Prélude n’a pas été révélée à l’ARC lors de la vérification et si ce véhicule n’apparaît pas comme un élément d’actif dans les calculs de la valeur nette, une partie de son prix (15 006,75 $) est incluse dans le Sommaire des dépenses personnelles, sous la rubrique [traduction] « Retraits bancaires non identifiés » en 2001.
+[36] Huong Thuy Nguyen est la belle-fille de l’appelant. Elle a déclaré qu’en 2002, alors qu’elle était âgée de 14 ou 15 ans, elle avait prêté à l’appelant la somme de 500 $ en argent comptant. Il n’existe aucun document qui confirme qu’elle détenait la somme de 500 $, et encore moins qu’elle l’avait prêtée à l’appelant.
+[37] Tran Thi Van est la belle-sœur de l’appelant et, selon son témoignage, elle lui a remis la somme de 500 $ en espèces comme cadeau, en mai ou en juin 2002. Le cadeau provenait censément de ses économies et il a été donné pour aider l’appelant à acheter des médicaments pour sa mère en Chine.
+[38] Aucune preuve corroborante convaincante n’a été présentée à l’appui du témoignage de Tran Thi Van. Le revenu qu’elle a déclaré était minime. De 1998 à 2002, inclusivement, le seul revenu qu’elle a déclaré a été des prestations d’aide sociale, qui n’ont pas dépassé la somme de 13 000 $ par année. Elle se souvenait censément d’avoir donné 500 $ à l’appelant, mais elle a eu de la difficulté à se rappeler d’autres faits survenus en 2002 ou 2003. À l’interrogatoire préalable, l’appelant a déclaré que sa belle-sœur avait obtenu les fonds d’amis et de membres de la famille.
+Autres prêts
+[39] L’appelant a allégué avoir reçu un prêt de 10 000 $ de Van Cong Nguyen, ainsi que des gains de jeu de Pham Du Xuan en mars 2000. Aucun document ne confirmait qu’il s’agissait d’un prêt. La preuve faisait état d’un virement du compte de Van Cong Nguyen à celui de l’appelant. Le motif de ce virement est inconnu; ni Van Cong Nguyen ni Pham Du Xuan n’ont été appelés à témoigner. Je n’ai que le témoignage intéressé de l’appelant sur ces transactions, et j’ai déjà conclu que son témoignage n’était pas fiable.
+REER
+[40] En mars 2000, l’appelant a présenté une demande dans le cadre du Régime d’accession à la propriété en vue de retirer 9 043,87 $ de son REER. Selon la preuve, sa demande a été accueillie. Cette somme est à soustraire du revenu non déclaré en 2000.
+Montants indiqués en double
+[41] De la même façon, la somme de 956,13 $ est à soustraire du revenu non déclaré en 2000, car elle a été comptée en double. Elle était contenue dans la traite bancaire de 10 000 $ qui a été tirée sur le compte que l’appelant avait à la banque CIBC, et le montant a été versé dans le compte qu’il avait à la banque Toronto‑Dominion (« TD ») le 9 mars 2000.
+[42] Le 3 mars 2000, l’appelant a retiré la somme de 8 000 $ de son compte de la banque CIBC et l’a déposée dans son compte de la banque TD. Ce montant a été inclus deux fois dans les calculs relatifs à la valeur nette.
+Avance sur la carte Visa
+[43] Le 3 mars 2000, l’appelant a obtenu une avance de 681 $ sur sa carte de crédit. Il ne s’agit pas d’un revenu gagné dans l’année, et cette somme doit être soustraite du revenu non déclaré pour 2000.
+Produit de l’assurance
+[44] En octobre 2003, l’appelant a reçu de l’Insurance Corporation of British Columbia la somme de 32 824,85 $, en règlement de la perte totale de la Honda Prélude. Cette somme n’était pas une rentrée imposable et n’aurait pas dû être incluse dans les calculs relatifs à la valeur nette pour 2003. Elle doit être supprimée de l’annexe 4.
+Fiducie implicite
+[45] L’avocat de l’appelant a fait valoir que l’épouse de son client détenait une fiducie implicite ou résultoire sur tous les comptes et tous les éléments d’actif entrant dans les calculs de la valeur nette. Il est possible que cela soit vrai, comme il est possible que cela soit faux. Cependant, par cet argument fondé sur l’existence d’une fiducie implicite, l’appelant tente de fractionner son revenu avec celui de son épouse. Il n’est pas question ici d’une instance en matière matrimoniale ou d’enrichissement sans cause. La cotisation fondée sur la valeur nette n’a pas été établie en fonction de la personne qui possédait en fin de compte les éléments d’actif au moment de la dissolution du mariage, mais de la personne qui détenait le revenu qui a financé leur acquisition.
+Dépenses personnelles
+[46] Outre le montant qui a déjà été accueilli, l’appelant a été incapable de me convaincre que l’estimation des dépenses personnelles était inexacte. Mme Cathy Sundberg a déclaré que les moyennes de Statistique Canada qui avaient servi à déterminer les dépenses personnelles étaient celles qui s’appliquaient à un ménage composé d’une seule personne, alors que l’appelant avait subvenu aux besoins de son épouse et de ses trois enfants pendant les années visées par l’appel.
+[47] Mme Helen Uren, enquêteure au service du ministère du Développement social, s’est présentée au domicile de l’appelant en 2001. Elle a déclaré que l’appelant et son épouse possédaient un téléviseur à grand écran, des divans en cuir et des appareils ménagers en acier inoxydable. Le mode de vie de l’appelant n’était pas austère, comme il aurait voulu que la Cour le croie.
+[48] Les somme utilisées pour le logement, les paiements relatifs à un camion et les paiements liés aux prêts étaient des montants réels.
+Pertes autres qu’en capital
+[49] L’appelant a exploité un restaurant appelé « Shanghai Restaurant » en 1997 et en 1998. Dans son avis d’appel, il a déclaré avoir subi des pertes autres qu’en capital de 35 786 $ et de 19 875 $ en 1997 et 1998. À l’audience, il a dit qu’il n’avait pas perdu d’argent lors de l’exploitation de son restaurant. Il a ajouté qu’il atteignait le seuil de rentabilité.
+[50] Dans la réponse à l’avis d’appel, l’intimée a admis que l’appelant avait droit à des pertes autres qu’en capital en 1999 et 2000. Cette admission est contraire à la preuve produite à l’audience, et je ne suis pas liée par elle[8]. Dans les circonstances de l’espèce, c’est l’appelant lui-même qui a produit la preuve pertinente. Le ministre a rejeté à bon droit les pertes autres qu’en capital.
+Paragraphe 152(4)
+[51] Au vu de la preuve qui m’a été présentée, je n’ai aucune difficulté à conclure que le ministre était justifié d’ouvrir les deux années frappées de prescription pour l’appelant. Ce dernier a gagné en 2000 et en 2001 des revenus dont il n’a pas fait état dans ses déclarations de revenus. Il n’a pas expliqué de manière crédible la différence entre les revenus qu’il avait inscrits dans ses déclarations de revenus pour 2000 et 2001 et les revenus obtenus au moyen de l’analyse de la valeur nette.
+[52] L’appelant a demandé à un comptable d’établir ses déclarations de revenus pour chacune des années visées par l’appel. En contre-interrogatoire, il a reconnu ne pas avoir fourni à son comptable des informations sur les revenus qu’il avait tirés de la cueillette de salal. Je conclus que l’appelant a fait une fausse déclaration, imputable à une omission volontaire, au moment de produire ses déclarations de revenus pour 2000 et 2001.
+Conclusion
+[53] Les appels sont accueillis et les sommes suivantes sont à soustraire des revenus non déclarés :
+Année d’imposition 2000
+a) le virement de 6 200 $ de l’épouse de l’appelant;
+b) le prêt de 13 000 $ reçu de Binh A. Mac;
+c) la somme de 9 043,87 $ du REER, retirée dans le cadre du Régime d’accession à la propriété;
+d) les sommes de 956,13 $ et de 8 000 $, appliquées deux fois dans les calculs de la valeur nette;
+e) l’avance de 681 $ sur la carte Visa.
+Année d’imposition 2001
+a) le virement de 1 400 $ de l’épouse de l’appelant.
+Année d’imposition 2003
+a) le produit d’assurance de 32 824,85 $.
+[54] L’appel interjeté en vertu de la LTA est accueilli, conformément aux présents motifs.
+[55] L’intimée a obtenu gain de cause en bonne partie dans les présents appels, et elle a droit à ses dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 6e jour de juin 2011.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 2e jour de septembre 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011CCI271
+Nos DES DOSSIERS DE LA COUR : 2007-3006(IT)G
+2007-3007(GST)I
+INTITULÉ : LONG HA c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Du 15 au 19 novembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 6 juin 2011
+COMPARUTIONS :
+Avocat de l’appelant :
+Me B. Rory Morahan
+Avocats de l’intimée :
+Me Raj Grewal
+Me Andrew Majawa
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me B. Rory Morahan
+Cabinet : Morahan & Company
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce R-2.
+[2] [1964] C.T.C. 562 (R.C.É.).
+[3] Ohayon c. La Reine, 2010 CCI 25, au paragraphe 29.
+[4] Pièce A-4, onglet 3.
+[5] [1993] 2 C.T.C. 2119 (CCI).
+[6] 2006 CCI 239.
+[7] Nichols c. R, 2009 CCI 334, aux paragraphes 22 et 23.
+[8] Hammill c. La Reine, 2005 CAF 252, au paragraphe 31.

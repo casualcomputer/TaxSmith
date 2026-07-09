@@ -1,0 +1,212 @@
+---
+title: "Bourgault Industries Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25802/index.do"
+last_modified: "2006-08-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 449"
+citation2: ""
+neutral_citation: "2006 CCI 449"
+decision_date: "2006-08-04"
+language: "fr"
+item_id: "25802"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3812
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:50:37.388000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ce84062b5c996da791ec63d882336f91e1f0798cef6396b853aa0adb6fbd0f06"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bourgault Industries Ltd. v. The Queen
+
+- Citation: 2006 CCI 449
+- Decision date: 2006-08-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3812, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bourgault Industries Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-08-04
+Référence neutre
+2006 CCI 449
+Numéro de dossier
+2002-4913(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4913(IT)G
+ENTRE :
+BOURGAULT INDUSTRIES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 16 janvier 2006, à Toronto (Ontario)
+Devant : L'honorable juge Judith Woods
+Comparutions :
+Avocats de l'appelante :
+Me Joseph M. Steiner
+Me Derek Leschinsky
+Avocats de l'intimée :
+Me Jeff Pniowsky
+Me Julien Bedard
+________________________________________________________________
+JUGEMENT
+La Cour ordonne que l'appel interjeté à l'encontre d'une cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 soit rejeté.
+L'intimée a droit aux dépens.
+Signé à Ottawa, Canada, ce 4e jour d'août 2006.
+« J. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 29e jour de juin 2007.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI449
+Date : 20060804
+Dossier : 2002-4913(IT)G
+ENTRE :
+BOURGAULT INDUSTRIES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Au milieu des années 1990, la société Bourgault Industries Ltd. a introduit deux actions en contrefaçon de brevet devant la Cour fédérale du Canada contre sa principale concurrente, la société Flexi‑Coil Ltd. (ci‑après « Flexi‑Coil »). Après que la Cour fédérale eut déclaré la Flexi‑Coil responsable dans l'une des actions, les deux actions ont fait l'objet d'un règlement qui prévoyait le paiement d'une somme forfaitaire de 6 000 000 $.
+[2] La question que soulève le présent appel est de savoir si le paiement effectué en vertu du règlement représente un revenu ou une rentrée de capital pour l'appelante. Si le paiement constitue une rentrée de capital, les parties sont d'accord pour dire que la somme d'argent représente un gain en capital.
+[3] L'appel vise l'année d'imposition 2000 de l'appelante, laquelle a pris fin le 31 octobre 2000.
+I. Les faits
+A. Généralités
+[4] L'appelante, qui est établie à St. Brieux, en Saskatchewan, fabrique et distribue de grands outils agricoles tels que des cultivateurs et des semoirs. Elle mène la plupart de ses activités commerciales dans l'Ouest du Canada, mais elle a aussi des clients aux États‑Unis et en Australie.
+[5] L'appelante met un point d'honneur à fabriquer des produits à la fine pointe de la technologie issus de sa propre recherche scientifique et technique.
+[6] La technologie conçue par l'appelante est généralement protégée par des brevets. Le président de l'appelante, M. Gerard Bourgault, a témoigné que la société avait obtenu plus de 70 brevets et qu'elle avait en plus 40 brevets en instance.
+[7] Les actions en contrefaçon entamées contre la Flexi‑Coil visent les technologies qui entrent dans la fabrication d'un pulvérisateur et d'un remblayeur. Il s'agit d'outils qui s'attachent à un tracteur et que le fermier utilise après le semis. L'appelante commercialisait des produits qui intégraient ces technologies sous les noms de [TRADUCTION] « remblayeur à battants articulés » et de [TRADUCTION] « pulvérisateur à pliage automatique ».
+[8] Les brevets protégeant les technologies « remblayeur à battants articulés » et « pulvérisateur à pliage automatique » ont été accordés à l'appelante ou à des sociétés auxquelles elle a succédé le 18 décembre 1990 et le 18 août 1992 respectivement.
+[9] Bien que les brevets soient accordés pour une durée de 20 ans, la durée de vie utile des brevets en cause était de cinq à dix ans. Le pulvérisateur à pliage automatique n'était plus vendu en 1996. Le remblayeur à battants articulés a commencé à être remplacé par un meilleur produit en 1998, et les ventes pour cette année‑là avaient chuté de plus de moitié par rapport à celles des quelques années antérieures.
+B. Les actions en contrefaçon
+[10] La Flexi‑Coil fabrique et vend elle aussi de l'équipement agricole dans l'Ouest du Canada et elle est la principale concurrente de l'appelante. La société Flexi‑Coil est environ deux fois plus grande que l'appelante. L'établissement principal de la Flexi‑Coil est situé à Saskatoon, en Saskatchewan.
+[11] À peine l'appelante avait‑elle commencé à vendre le remblayeur à battants articulés et le pulvérisateur à pliage automatique que la Flexi‑Coil s'est mise à vendre des produits semblables, alors même que les technologies n'étaient pas encore brevetées.
+[12] Après avoir envoyé à la Flexi‑Coil des demandes de mettre fin à ses activités, qui sont restées sans effet, l'appelante a introduit deux actions en contrefaçon contre la Flexi‑Coil devant la Cour fédérale du Canada.
+[13] Les demandes, qui ont été introduites le 9 février 1994 relativement au brevet qui protégeait le remblayeur à battants articulés et le 14 novembre 1995 relativement au brevet qui protégeait le pulvérisateur à pliage automatique, portaient que la Flexi‑Coil avait fabriqué et vendu des outils agricoles en violation de ces deux brevets.
+[14] L'appelante a sollicité certains redressements en raison des contrefaçons qui auraient été commises, y compris des injonctions et des [TRADUCTION] « dommages‑intérêts ou, subsidiairement, la reddition des comptes des profits de la défenderesse, au choix de la demanderesse ».
+[15] L'action visant le remblayeur à battants articulés est la seule qui a franchi l'étape de la communication préalable. Lors du procès, l'appelante a déposé auprès de la Cour fédérale un mémoire dans lequel elle exposait les grandes lignes de sa réclamation subsidiaire visant l'obtention de dommages‑intérêts, qui étaient décrits comme étant des bénéfices et des redevances perdus, ou la reddition des comptes des bénéfices réalisés par la Flexi‑Coil.
+[16] Des extraits du mémoire sont reproduits ci‑dessous :
+[TRADUCTION]
+4.0 Dommages‑intérêts
+4. La demanderesse a droit à des dommages‑intérêts dans la mesure où ils constituent un dédommagement juste et équitable de toute perte subie par la demanderesse en raison de la contrefaçon commise par la défenderesse. En conséquence, la demanderesse aura droit aux bénéfices perdus sur les ventes qu'elle aurait réalisées n'eût été la contrefaçon. Pour les ventes que la demanderesse n'aurait pas pu réaliser, la demanderesse a droit à une redevance.
+[Non souligné dans l'original.]
+5.0 Reddition des comptes
+15. La reddition des comptes constitue une réparation en equity qui peut être accordée à la discrétion de la Cour. Le fondement de la réparation est que la défenderesse, en raison de sa conduite fautive, a reçu illicitement des bénéfices qui devaient revenir à la demanderesse. La réparation a pour objet la restitution des bénéfices qui ont effectivement été réalisés à leur propriétaire légitime. Le montant des bénéfices est égal au total du revenu brut tiré des ventes de produits contrefaits, duquel sont retranchées les dépenses légitimes, plus les intérêts rapportés par les placements effectués avec ces bénéfices. La réparation comprend les bénéfices réalisés par la défenderesse par l'intermédiaire de filiales ou de sociétés affiliées.
+[Non souligné dans l'original.]
+[17] Le procès portant sur le remblayeur à battants articulés a été instruit par le juge Campbell de la Cour fédérale, qui a rendu son jugement dans cette affaire le 27 février 1998. Dans les motifs du jugement publiés à (1998) 80 C.P.R. (3d) 1, no T‑2413‑95, le juge a décidé que la Flexi‑Coil avait en effet contrefait le brevet qui protégeait le remblayeur à battants articulés et, dans le dernier paragraphe de ses motifs, il a accordé à l'appelante :
+[...] outre les dommages‑intérêts ou le redressement subsidiaire de la comptabilisation des profits, les redressements demandés, savoir le jugement déclaratoire, l'injonction, la remise, les intérêts postérieurs au jugement ainsi que les dépens de la présente action.
+[18] La décision a été confirmée en appel (86 C.P.R. (3d) 221, no A‑125‑98), et la demande d'autorisation d'appel devant la Cour suprême du Canada a été rejetée.
+[19] L'ordonnance du juge de première instance ne traitait pas du montant des dommages‑intérêts ni du montant de la reddition des comptes des bénéfices, puisque ces questions devaient faire l'objet d'une audience distincte. À la suite de la décision, cependant, l'appelante a opté pour la reddition des comptes des bénéfices réalisés par la Flexi‑Coil.
+[20] Avant que la Cour fédérale n'entende des arguments au sujet du montant, les deux actions ont fait l'objet d'un règlement. Les négociations qui ont abouti au règlement ont été menées en vertu d'un processus de médiation supervisé par un juge de la Cour fédérale, qui s'est déroulé peu de temps après que la Flexi‑Coil avait épuisé ses droits d'appel dans l'action qui visait le remblayeur à battants articulés.
+[21] Le procès‑verbal du règlement, signé le 5 octobre 2000, traitait de plusieurs questions relatives aux deux brevets, y compris l'accord par lequel la Flexi‑Coil acceptait de payer 6 000 000 $ à l'appelante au plus tard le 4 décembre 2000.
+[22] L'appelante a aussi accepté de concéder à la Flexi‑Coil des licences d'utilisation des technologies brevetées. Cependant, les licences étaient sans valeur puisque les technologies étaient périmées au moment du règlement. Au cours des plaidoiries qui ont été faites devant moi, les parties ont convenu que les 6 000 000 $ étaient attribuables en totalité à la contrefaçon et qu'aucune partie de ce montant n'était attribuable aux licences.
+[23] À la conférence de médiation tenue devant la Cour fédérale, l'appelante a déposé un mémoire pour chacune des actions, lequel exposait dans ses grandes lignes la mesure de redressement qu'elle sollicitait.
+[24] Dans le mémoire portant sur l'action qui visait le remblayeur à battants articulés, l'appelante a décrit la mesure de redressement sollicitée comme étant la reddition des comptes des bénéfices réalisés par la Flexi‑Coil. Le paragraphe 6 du mémoire est ainsi rédigé :
+[TRADUCTION]
+Depuis que le juge Campbell a rendu sa décision, la demanderesse a opté pour la reddition des comptes des bénéfices réalisés par la défenderesse. En conséquence, les questions qui restent à trancher en l'espèce sont les suivantes :
+i) Quel est le montant total des bénéfices réalisés par la défenderesse lors de la vente des remblayeurs contrefaits?
+ii) À quelle somme a droit la demanderesse au titre des bénéfices générés par les ventes de cultivateurs et de semoirs pneumatiques réalisées par la défenderesse, en tant qu'éléments de systèmes d'ensemencement à passe unique?
+[25] Dans le mémoire portant sur l'action qui visait le pulvérisateur à pliage automatique, l'appelante a demandé soit des dommages‑intérêts ou la reddition des comptes des bénéfices réalisés par la Flexi‑Coil, et a fixé la valeur de ces deux mesures de redressement au montant des bénéfices réalisés illicitement par la Flexi‑Coil. Le paragraphe 17 du mémoire est ainsi rédigé :
+[TRADUCTION]
+Pour les besoins de la conférence de règlement des litiges, des calculs ont été effectués pour que soit établie une estimation des bénéfices réalisés par la défenderesse et des dommages‑intérêts auxquels a droit la demanderesse en fonction du nombre de produits vendus par la défenderesse [...]
+[26] Le montant de 6 000 000 $ sur lequel les parties se sont finalement entendues est sensiblement inférieur à la somme d'argent demandée par l'appelante. Monsieur Bourgault a témoigné que l'appelante avait consenti à une réduction considérable du montant essentiellement parce que la Flexi‑Coil éprouvait des difficultés financières à l'époque. Il a dit que le montant convenu n'avait rien à voir avec les bénéfices perdus par l'appelante ou les bénéfices réalisés illicitement par la Flexi‑Coil.
+C. Déclaration du paiement effectué en vertu du règlement
+[27] Aux fins d'établissement de ses états financiers, l'appelante a comptabilisé les 6 000 000 $ en tant que produit des ventes générales. Selon une note afférente aux états financiers, elle l'aurait fait pour protéger le caractère confidentiel du montant conformément à une ordonnance judiciaire.
+[28] Aux fins d'imposition, l'appelante a déclaré les 6 000 000 $ en tant que gain en capital. Le gain a été déclaré pour l'année d'imposition 2000, soit l'année où le règlement a été conclu, et une réserve équivalant aux quatre cinquièmes du montant total a été demandée parce que la somme forfaitaire n'a été reçue que l'année d'imposition suivante. L'intimée ne conteste pas ce traitement s'il est décidé que la somme forfaitaire est une rentrée de capital.
+D. Faits supplémentaires
+[29] Selon le témoignage fait par M. Bourgault au cours du procès qui portait sur le remblayeur à battants articulés, quatre concurrents de l'appelante, y compris la Flexi‑Coil, ont commencé à vendre des produits semblables au remblayeur à battants articulés peu après qu'il a été mis sur le marché par l'appelante. Une autre société s'est mise à concurrencer l'appelante plus tard.
+[30] À l'audition du présent appel, M. Bourgault a témoigné que les autres concurrents étaient de petites entreprises et qu'ensemble ils détenaient au plus une part de 20 pour cent du marché. Il a aussi affirmé qu'il pensait que le pulvérisateur à pliage automatique n'avait aucun autre concurrent.
+[31] Ce témoignage était au coeur de l'argument de l'appelante selon lequel les actes de la Flexi‑Coil avaient essentiellement réduit à néant la valeur des brevets. Bien qu'il aurait été utile d'obtenir une corroboration indépendante du témoignage intéressé de M. Bourgault au sujet de la part de marché détenue par les concurrents, l'intimée n'a pas vraiment contesté ce témoignage, et je l'accepte.
+II. La question en litige
+[32] La question à trancher est de savoir si la somme de 6 000 000 $ qu'a reçue l'appelante a la nature d'un revenu ou d'une rentrée de capital.
+III. Analyse
+[33] Pour décider si un paiement effectué en vertu d'un règlement représente un revenu ou une rentrée de capital pour le destinataire, le principe généralement appliqué est appelé le « principe de la substitution ». Il porte que la somme d'argent payée en vertu d'un règlement aura le même caractère que le droit qui fait l'objet du règlement : R. c. Tsiaprailis, [2005] 1 R.C.S. 113, [2005] 2 C.T.C. 1 (C.S.C.).
+[34] Le principe de la substitution a été décrit récemment ainsi par le juge Sharlow dans l'arrêt Transocean Offshore Ltd. c. La Reine, 2005 CAF 104, 2005 D.T.C. 5201 (C.A.F.), au paragraphe 50 :
+[...] il faut, pour répondre à cette question, appliquer la règle jurisprudentielle, parfois appelée « principe de la substitution », voulant que le traitement fiscal d'un paiement en guise de dommages‑intérêts ou de règlement soit le même que celui de l'objet du paiement. Un montant versé à titre de règlement ou de dommages‑intérêts est donc un revenu s'il est versé en compensation d'un loyer futur [...] Et c'est une rentrée de capital s'il s'agit d'une compensation pour la diminution du capital du destinataire [...]
+[35] L'intimée soutient qu'en l'espèce le droit faisant l'objet du règlement représente des bénéfices — soit les bénéfices que l'appelante a perdus en raison de la conduite fautive de la Flexi‑Coil, ou les bénéfices réalisés par la Flexi‑Coil qui devaient être restitués si l'appelante optait pour la reddition des comptes des bénéfices. Dans l'un ou l'autre de ces cas, affirme l'intimée, la somme d'argent reçue a le caractère d'un revenu conformément à la décision Donald Hart Ltd. v. M.R.N., [1959] C.T.C. 268, de la Cour de l'Échiquier du Canada.
+[36] L'appelante, de son côté, prétend que la conduite de la Flexi‑Coil l'a empêché de bénéficier pleinement des brevets et que le droit faisant l'objet du règlement a la nature d'une rentrée de capital. L'appelante soutient qu'elle a été obligée de concurrencer la Flexi‑Coil comme si elle n'avait eu aucun brevet.
+[37] L'appelante soutient que sa position est appuyée par diverses décisions qui traitent des règlements consensuels dans le contexte des transactions en matière de propriété intellectuelle. Les avocats de l'appelante ont notamment renvoyé aux arrêts suivants : Westfair Foods Limited c. La Reine, no A‑47‑91, 91 D.T.C. 5625 (C.A.F.), Canadian Industries Ltd. c. M.R.N., no A‑237‑77, 80 D.T.C. 6163 (C.A.F.), R. c. Canadian General Electric Company Limited, no A‑688‑82, 87 D.T.C. 5070 (C.A.F.), Steinberg Inc. c. M.R.N., no 88‑620(IT), 92 D.T.C. 1478 (C.C.I.), et BP Canada Energy Resources Company c. La Reine, no 2000‑5160(IT)G, 2002 D.T.C. 2110 (C.C.I.).
+[38] Bien que le raisonnement suivi dans ces décisions soit utile, en fin de compte, le jugement rendu dans chaque cause dépend grandement des faits qui y sont particuliers.
+[39] La principale question à trancher en l'espèce est de savoir si le paiement de 6 000 000 $ avait pour objet de dédommager l'appelante des pertes découlant de la diminution de la valeur de ses brevets. Pour les motifs qui suivent, j'ai conclu que le paiement n'a pas la nature d'un dédommagement pour les brevets, mais plutôt pour les bénéfices.
+[40] Une des failles que présente, à mon avis, l'argument de l'appelante est qu'il n'est pas clair que la conduite de la Flexi‑Coil a eu pour effet de diminuer même un tant soit peu la valeur des brevets. L'avocat de l'intimée soutient qu'un acte de contrefaçon ne peut causer préjudice à un brevet parce qu'un brevet est un droit accordé par la loi que seul le Parlement peut abolir. Cet argument me semble bien fondé.
+[41] Les droits dont dispose un inventeur de demander un brevet sont conférés par la Loi sur les brevets. La loi accorde au titulaire du brevet le droit exclusif d'exploiter la technologie brevetée pendant un nombre d'années donné et d'obtenir des dommages‑intérêts ou la reddition des comptes des bénéfices en cas de contrefaçon du brevet. La conduite d'un contrefacteur ne peut priver le titulaire du brevet des droits en question. Au contraire, la conduite du contrefacteur concrétise ces droits.
+[42] De plus, une contrefaçon a généralement pour conséquence d'éroder une partie des bénéfices tirés par le titulaire du brevet de l'exploitation de la technologie brevetée. Et, en l'espèce, il est clair, à la lumière des mémoires déposés lors des actions en contrefaçon, que l'appelante demandait soit un dédommagement pour les bénéfices qu'elle avait perdus ou la reddition des comptes des bénéfices réalisés par la Flexi‑Coil.
+[43] Il est vrai que les préjudices subis par un titulaire de brevet peuvent dans certaines circonstances particulières excéder les bénéfices perdus. En l'espèce, M. Bourgault a témoigné que la conduite de la Flexi‑Coil avait aussi causé préjudice à la relation d'affaires qu'avait l'appelante avec ses clients et donc à son achalandage.
+[44] Si la conduite de la Flexi‑Coil cause préjudice à l'achalandage de l'appelante, celle‑ci peut introduire une demande en dommages‑intérêts à l'encontre de la Flexi‑Coil pour être indemnisée des préjudices subis. Or, rien ne prouve que l'appelante l'a fait. Il n'est pas raisonnable, dans les circonstances de l'espèce, d'attribuer le règlement à autre chose que les bénéfices qui ont été réclamés.
+[45] Je remarque également qu'au moment où le règlement a été conclu, les droits de l'appelante relativement à l'action qui visait le remblayeur à battants articulés s'étaient cristallisés. Ces droits se limitaient à la reddition des comptes des bénéfices réalisés par la Flexi‑Coil. Dans la mesure où les 6 000 000 $ sont attribuables à cette action et non à l'action qui visait le pulvérisateur à pliage automatique, le droit faisant l'objet du règlement constitue clairement les bénéfices qui ont été réalisés illicitement par la Flexi‑Coil.
+[46] L'avocat de l'appelante a soutenu que la preuve déposée devant la Cour qui porte sur la nature du paiement est contradictoire et que celui‑ci ne constitue pas nécessairement un dédommagement pour les bénéfices perdus. L'avocat de l'appelante a invoqué le fait que le paiement avait été convenu par suite de marchandages et qu'il n'avait rien à voir avec une réelle restitution de bénéfices.
+[47] Étant donné que le procès‑verbal du règlement signé le 5 octobre 2000 n'indiquait pas quel préjudice le paiement de 6 000 000 $ devait compenser, tout ce qu'un tribunal est en mesure de faire est de statuer sur le droit qui fait l'objet du règlement en tenant compte de tous les faits et de toutes les circonstances qui entourent l'affaire. En l'espèce, la preuve la plus importante provient des mémoires relatifs aux actions en contrefaçon qui ont été déposés par l'appelante et dont des extraits sont reproduits ci‑dessus. Ces documents donnent à penser que les dommages‑intérêts sollicités se rapportaient à des bénéfices.
+[48] De plus, le fait que les parties sont arrivées à un compromis et qu'elles ont convenu d'un montant qui n'a rien à voir avec les bénéfices ne change pas la nature du droit qui fait l'objet du règlement.
+[49] L'avocat de l'appelante soutient également que, si l'arrangement avait été consensuel, un paiement fait par la Flexi‑Coil aurait eu la nature d'une rentrée de capital.
+[50] Je ne suis pas d'accord. Si l'utilisation qu'a faite la Flexi‑Coil de la technologie brevetée avait été consensuelle, l'arrangement aurait eu la nature d'une licence, et l'appelante aurait eu droit à des redevances. En règle générale, un paiement forfaitaire effectué en guise de redevances est un revenu.
+[51] Pour ces motifs, j'en viens à la conclusion que la somme de 6 000 000 $ payée par la Flexi‑Coil à l'appelante a le caractère d'un revenu. L'appel sera rejeté, et l'intimée aura droit aux dépens.
+Signé à Ottawa, Canada, ce 4e jour d'août 2006.
+« J. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 29e jour de juin 2007.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2006CCI449
+Nº DU DOSSIER DE LA COUR :
+2002-4913(IT)G
+INTITULÉ :
+Bourgault Industries Ltd. et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 16 janvier 2006
+MOTIFS DU JUGEMENT :
+L'honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 4 août 2006
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Joseph M. Steiner
+Me Derek Leschinsky
+Avocats de l'intimée :
+Me Jeff Pniowsky
+Me Julien Bedard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Joseph M. Steiner
+Cabinet :
+Osler, Hoskin & Harcourt LLP
+Toronto (Ontario)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

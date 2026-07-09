@@ -1,0 +1,140 @@
+---
+title: "MacDonald v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26612/index.do"
+last_modified: "2003-07-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 478"
+citation2: ""
+neutral_citation: "2003 CCI 478"
+decision_date: "2003-07-10"
+language: "fr"
+item_id: "26612"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3587
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:59:55.460000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "91f7d13b35b527988d66a92e0ef6c74ceccecd70b5ab2dee9b366981fe5caf8d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# MacDonald v. The Queen
+
+- Citation: 2003 CCI 478
+- Decision date: 2003-07-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3587, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacDonald v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-10
+Référence neutre
+2003 CCI 478
+Numéro de dossier
+2003-487(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-487(IT)I
+ENTRE :
+KEVIN A. MacDONALD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 7 juillet 2003 à Winnipeg (Manitoba)
+Devant : L'honorable juge en chef adjoint D. G. H. Bowman
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Derwin Petri, stagiaire en droit
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 sont rejetés.
+Signé à Winnipeg (Manitoba), ce 10e jour de juillet 2003.
+« D. G. H. Bowman »
+Juge en chef adjoint Bowman
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Liette Girard, traductrice
+Référence : 2003CCI478
+Date : 20030710
+Dossier : 2003-487(IT)I
+ENTRE :
+KEVIN A. MacDONALD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Les présents appels sont interjetés à l'encontre de cotisations pour les années d'imposition 1999 et 2000 de l'appelant. La question en litige concerne la déductibilité des paiements de pension alimentaire pour enfants versés par lui à son ex-conjointe durant ces années.
+[2] L'appelant et son épouse se sont mariés en 1987 et ont eu deux enfants qui sont nés en 1988 et en 1992. Ils se sont séparés en 1994 et ont divorcé en 1997. Ils ont conclu un accord de séparation le 10 avril 1995 en vertu duquel l'appelant était tenu de verser le montant de 325 $ par mois pour chaque enfant. Les enfants vivaient avec l'épouse.
+[3] En mai 1998, le fils aîné, Marc, est venu vivre avec l'appelant et, sur les conseils de son avocat, l'appelant a cessé de verser les paiements à son épouse.
+[4] Sur demande de l'appelant, par ordonnance datée du 16 juin 1999 et signée le 14 décembre 1999, la Cour supérieure de justice de l'Ontario a ordonné que l'appelant verse à son ex-conjointe le montant de 235 $ par mois à compter du 1er mai 1998 pour l'entretien du plus jeune fils, Michael. Elle a également ordonné qu'il verse des arrérages de 3 200 $.
+[5] L'appelant a déduit les montants de 4 400 $ et de 4 200 $ dans le calcul de son revenu pour 1999 et 2000, respectivement. Il semble que ce soit le montant de 2 820 $ payé en vertu de l'ordonnance signée le 14 décembre 1999, plus une partie des arrérages de 3 200 $ ordonnés par la Cour.
+[6] M. MacDonald a indiqué dans son témoignage qu'il n'a pas été informé par l'Agence des douanes et du revenu du Canada ou son propre avocat qu'en vertu de nouvelles règles qui sont entrées en vigueur le 1er mai 1997, les paiements effectués après la « date d'exécution » n'étaient pas déductibles par le payeur ni imposable pour le bénéficiaire. J'accepte qu'il n'était pas au courant de l'effet global des règles, mais cela ne modifie malheureusement pas cet effet.
+[7] En vertu de l'alinéa 60b), les pensions alimentaires qui sont déductibles sont déterminées par la formule A-(B+C).
+L'alinéa 60b) est ainsi rédigé :
+Peuvent être déduites dans le calcul du revenu d'un contribuable pour une année d'imposition les sommes suivantes qui sont appropriées :
+[...]
+b) Pension alimentaire - le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l'année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d'imposition antérieure;
+Essentiellement, A est le montant payé et B est le montant devenu payable aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement. Ce n'est pas pertinent en l'espèce.
+[8] La « date d'exécution » d'un accord ou d'une ordonnance est définie à l'article 56.1 de la Loi de l'impôt sur le revenu de la façon suivante :
+« date d'exécution » - « date d'exécution » Quant à un accord ou une ordonnance :
+a) si l'accord ou l'ordonnance est établi après avril 1997, la date de son établissement;
+b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l'accord ou de l'ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l'accord ou l'ordonnance, ou dans toute modification s'y rapportant, pour l'application de la présente loi.
+[9] L'ordonnance du 14 décembre 1999 est ainsi rédigée :
+[traduction]
+La Cour ordonne ce qui suit :
+1. Le requérant, Kevin MacDonald, le père, paiera à l'intimée, Brenda MacDonald, la mère, pour l'entretien de l'enfant Michael Andrew MacDonald né le 10 juillet 1992, le montant de 235 $ par mois à compter du 1er mai 1998 et le premier jour de chaque mois par la suite.
+2. Les arrérages au 1er juin 1999 sont fixés au montant de 3 200 $, moins les paiements supplémentaires déjà effectués par l'entremise du Bureau des obligations familiales.
+3. La résidence principale de l'enfant Marc Allan MacDonald né le 11 mars 1988 sera celle du requérant, Kevin MacDonald, à compter du 1er avril 1998, sous réserve d'un droit de visite raisonnable à l'intimée, Brenda MacDonald, sur préavis raisonnable.
+4. Aucuns dépens.
+5. À moins que l'ordonnance de pension alimentaire ne soit retirée du bureau du directeur du Bureau des obligations familiales, elle sera exécutée par le directeur, et les montants dus en vertu de l'ordonnance de pension alimentaire seront versés au directeur, qui les paiera à la personne à qui ils sont dus. Une ordonnance de déduction de pension alimentaire sera émise.
+La question qui me préoccupe est celle de savoir si nous sommes en présence d'une nouvelle ordonnance à laquelle l'alinéa a) de la définition de « date d'exécution » s'applique, auquel cas la date d'exécution est le 16 juin 1999 ou le 14 décembre 1999, ou d'une modification de l'accord de 1995, auquel cas le sous-alinéa 60b)(ii) de la définition s'appliquerait. L'ordonnance ne fait pas référence à un accord antérieur. Néanmoins, je crois que l'interprétation la plus juste est que nous sommes en présence d'une modification de l'accord de 1995. Je suis d'avis que cette interprétation est implicite dans l'ordonnance. Notamment, les arrérages semblent être calculés à partir du nouveau montant de 235 $ par mois (14 mois x 234 = 3 290 $, montant qui, selon l'appelant, a été arrondi à 3 200 $). Selon cette interprétation, à quel moment se situe donc la date d'exécution? L'avocat de l'intimée a prétendu qu'il s'agissait du 1er mai 1998, le jour mentionné dans l'ordonnance.
+[10] S'il s'agit de l'interprétation correcte, de toute évidence les paiements effectués après cette date font partie de la composante B de la formule et n'entraînent aucune déduction. Prenons l'hypothèse selon laquelle la date d'exécution est le 14 décembre 1999 en raison de l'alinéa a) de la définition ou parce que, selon notre interprétation du sous-alinéa b)(ii) de la définition, les paiements effectués en vertu de l'ordonnance devaient l'être à la date où l'ordonnance a été signée. Selon l'une ou l'autre hypothèse, les paiements n'auraient de toute façon pas été déductibles.
+[11] L'appel est rejeté.
+Signé à Winnipeg (Manitoba), ce 10e jour de juillet 2003.
+« D. G. H. Bowman »
+Juge en chef adjoint Bowman
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Liette Girard, traductrice

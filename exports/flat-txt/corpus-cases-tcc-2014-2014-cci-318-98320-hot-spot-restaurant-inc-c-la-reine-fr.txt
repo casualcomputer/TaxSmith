@@ -1,0 +1,492 @@
+Title: Hot spot restaurant inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/98320/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-318-98320-hot-spot-restaurant-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-10-27
+
+# Hot spot restaurant inc. c. La Reine
+
+- Citation: 2014 CCI 318
+- Decision date: 2014-10-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5255, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hot spot restaurant inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-10-27
+Référence neutre
+2014 CCI 318
+Numéro de dossier
+2008-1347(IT)G, 2008-1348(IT)G, 2008‑2038(IT)G, 2008-2039(IT)G, 2008‑2040(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1348(IT)G
+ENTRE :
+HOT SPOT RESTAURANT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de la Succession de Peter Danakas (2008‑1347(IT)G), de Voula Danakas (2008‑2038(IT)G), de Mia Weinkauf (2008‑2039(IT)G) et de Jason Weinkauf (2008‑2040(IT)G),
+le 22 octobre 2012, du 2 au 5 décembre et du 9 au 12 décembre 2013, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelante :
+Me Lawrence J. Litman
+Avocat de l’intimée :
+Me John Krowina
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 1996, 1998, 1999, 2000 et 2001 de l’appelante sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte de ce qui suit :
+1) Pour les années d’imposition 1998 et 1999, les pertes autres que des pertes en capital de l’appelante étaient les pertes qu’elle avait déclarées dans sa déclaration de revenus, tel qu’elle avait été produite.
+2) Le solde du groupe des pertes autres que des pertes en capital de l’appelante était de 18 850 $ au début de son année d’imposition 1996.
+3) Les pertes autres que des pertes en capital de l’appelante seront d’abord appliquées à son année d’imposition 1996 et ensuite, dans la mesure où il demeure un solde dans le groupe, à ses années d’imposition 2000 et 2001, respectivement.
+Toutes les pénalités pour faute lourde imposées à l’appelante sont annulées.
+Les dépens sont adjugés à l’appelante.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2014.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 8e jour de mai 2015.
+Mario Lagacé, jurilinguiste
+Dossier : 2008-1347(IT)G
+ENTRE :
+LA SUCCESSION DE PETER DANAKAS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de Hot Spot Restaurant Inc. (2008‑1348(IT)G), de Voula Danakas (2008‑2038(IT)G), de Mia Weinkauf (2008‑2039(IT)G) et de Jason Weinkauf (2008‑2040(IT)G),
+le 22 octobre 2012, du 2 au 5 décembre et du 9 au 12 décembre 2013, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelante :
+Me Lawrence J. Litman
+Avocat de l’intimée :
+Me John Krowina
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 1998 et 1999 de Peter Danakas sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que le revenu imposable de M. Danakas pour chacune de ces années d’imposition était le revenu déclaré dans sa déclaration de revenus, tel qu’elle avait été produite.
+Toutes les pénalités pour faute lourde imposées à M. Danakas sont annulées.
+Les dépens sont adjugés à l’appelante.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2014.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 8e jour de mai 2015.
+Mario Lagacé, jurilinguiste
+Dossier : 2008-2038(IT)G
+ENTRE :
+VOULA DANAKAS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de la Succession de Peter Danakas (2008‑1347(IT)G), de Hot Spot Restaurant Inc. (2008‑1348(IT)G), de Mia Weinkauf (2008‑2039(IT)G)
+et de Jason Weinkauf (2008‑2040(IT)G),
+le 22 octobre 2012, du 2 au 5 décembre et du 9 au 12 décembre 2013, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelante :
+Me Lawrence J. Litman
+Avocat de l’intimée :
+Me John Krowina
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 1997, 1998 et 1999 de l’appelante sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte de ce qui suit :
+1) Pour les années d’imposition 1997 et 1999, le revenu imposable de l’appelante était le revenu déclaré dans sa déclaration de revenus, tel qu’elle avait été produite.
+2) Pour l’année d’imposition 1998, le revenu imposable de l’appelante était le montant déclaré dans sa déclaration de revenus, plus 4 314 $.
+Toutes les pénalités pour faute lourde imposées à l’appelante sont annulées.
+Les dépens sont adjugés à l’appelante.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2014.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 8e jour de mai 2015.
+Mario Lagacé, jurilinguiste
+Dossier : 2008-2039(IT)G
+ENTRE :
+MIA WEINKAUF,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de la Succession de Peter Danakas (2008‑1347(IT)G), de Hot Spot Restaurant Inc. (2008‑1348(IT)G), de Voula Danakas (2008‑2038(IT)G)
+et de Jason Weinkauf (2008‑2040(IT)G),
+le 22 octobre 2012, du 2 au 5 décembre et du 9 au 12 décembre 2013, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelante :
+Me Lawrence J. Litman
+Avocat de l’intimée :
+Me John Krowina
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 1997, 1998 et 1999 de l’appelante sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que le revenu imposable de l’appelante pour chacune de ces années d’imposition était le revenu déclaré dans sa déclaration de revenus, tel qu’elle avait été produite.
+Toutes les pénalités pour faute lourde imposées à l’appelante sont annulées.
+Les dépens sont adjugés à l’appelante.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2014.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 8e jour de mai 2015.
+Mario Lagacé, jurilinguiste
+Dossier : 2008-2040(IT)G
+ENTRE :
+JASON WEINKAUF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de la Succession de Peter Danakas (2008‑1347(IT)G), de Hot Spot Restaurant Inc. (2008‑1348(IT)G), de Voula Danakas (2008‑2038(IT)G)
+et de Mia Weinkauf (2008‑2039(IT)G),
+le 22 octobre 2012, du 2 au 5 décembre et du 9 au 12 décembre 2013, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelant :
+Me Lawrence J. Litman
+Avocat de l’intimée :
+Me John Krowina
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 1998 et 1999 de l’appelant sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que le revenu imposable de l’appelant pour chacune de ces années d’imposition était le revenu déclaré dans sa déclaration de revenus, tel qu’elle avait été produite.
+Toutes les pénalités pour faute lourde imposées à l’appelant sont annulées.
+Les dépens sont adjugés à l’appelant.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2014.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 8e jour de mai 2015.
+Mario Lagacé, jurilinguiste
+Référence : 2014 CCI 318
+Date : 20141027
+Dossier : 2008-1348(IT)G
+ENTRE :
+HOT SPOT RESTAURANT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2008-1347(IT)G
+LA SUCCESSION DE PETER DANAKAS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2008-2038(IT)G
+VOULA DANAKAS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2008-2039(IT)G
+MIA WEINKAUF,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2008-2040(IT)G
+JASON WEINKAUF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] Le ministre du Revenu national (le « ministre ») a établi des cotisations à l’égard des appelants pour avoir omis de déclarer des revenus importants dans leurs déclarations de revenus.
+[2] Il y a cinq appelants en l’espèce : Stavroula Danakas (« Voula »); la succession de son défunt époux, Peter Danakas (« Peter »); la fille de Voula et de Peter, Metaxia Weinkauf (« Mia »); l’époux de Mia, Jason Weinkauf (« Jason ») (collectivement désignés les « particuliers appelants ») et Hot Spot Restaurant Inc. (« Hot Spot »). Pour des raisons de cohérence avec les témoignages qui ont été livrés à l’audience, je désignerai chaque appelant particulier par son prénom.
+[3] Voula, Mia et Jason ont témoigné pendant les neuf jours de l’audience. M. Peter Danakas est décédé en octobre 2005. Le frère de Voula, Leo Georgopoulos, et le père de Jason, Richard Weinkauf, ont également témoigné pour les appelants. Enfin, j’ai entendu le témoignage de M. Philip Szysky, comptable, qui a fourni de nombreux services à Hot Spot et aux particuliers appelants durant la période pertinente.
+[4] J’ai estimé que tous les témoins des appelants étaient crédibles.
+[5] L’intimée a appelé deux témoins : M. Steve Button, vérificateur à l’Agence du revenu du Canada (l’« ARC »), et M. Darryl Dreger. Celui‑ci était un agent d’exécution à l’ARC, qui avait dirigé l’enquête menée contre Hot Spot et les particuliers appelants. C’est lui qui avait préparé les calculs précis qui constituent le fondement des nouvelles cotisations dont la Cour est saisie.
+[6] Le témoignage de M. Dreger était axé sur les feuilles de calcul qu’il avait utilisées pour calculer le revenu qui n’aurait pas été déclaré par les appelants. Comme nous le verrons plus loin, j’ai un certain nombre de préoccupations concernant les calculs de M. Dreger et l’absence d’éléments de preuve à l’appui de certains de ces calculs.
+Résumé des faits [7] Hot Spot exploite un restaurant/bar sportif (le « restaurant ») à Regina. Le restaurant est situé au-dessus d’une salle de quilles.
+[8] La possession d’actions de Hot Spot se présente de la manière suivante :
+• Mia – 30 pour 100
+• La soeur et le beau‑frère de Mia – 40 pour 100
+• Voula – 30 pour 100
+[9] Dans son témoignage, Voula a déclaré qu’elle détenait les actions de Hot Spot pour le compte de son fils John, qui est handicapé[1]. Pendant la période pertinente, Voula et Mia étaient les administratrices de Hot Spot[2].
+[10] En dépit de la possession d’actions de Hot Spot et du fait que Voula et Mia étaient les seuls administrateurs de la société, il ressort clairement de la preuve dont je dispose que Peter était l’âme dirigeante de Hot Spot. Il prenait toutes les décisions financières, commerciales et de gestion en ce qui concerne la société et l’exploitation du restaurant.
+[11] Le 15 ou le 16 juillet 1996, la salle de quilles située en dessous du restaurant a pris feu. L’incendie a causé des dommages importants au restaurant, entraînant sa fermeture jusqu’au 1er février 1997[3]. Les appelants ont alors connu des moments difficiles. Peter, Voula et Mia n’ont eu aucune source de revenus pendant cette période[4].
+[12] En novembre 1996, Mia et Jason ont eu un enfant. Jason a commencé à travailler au restaurant à sa réouverture en février 1997.
+[13] En 2001, un vérificateur de l’ARC, qui effectuait une vérification de Hot Spot relativement à la TPS, a renvoyé le dossier à l’unité des enquêtes spéciales de l’ARC[5]. M. Dreger a attribué le dossier à une enquêteuse de l’ARC, Mme Leannee Hesse.
+[14] Le 9 octobre 2002, l’ARC a opéré une perquisition et effectué une saisie de documents dans les locaux de Hot Spot, aux domiciles des particuliers appelants et au bureau de M. Szysky. Dans son témoignage, M. Dreger a déclaré que l’ARC avait obtenu presque tous les documents comptables de Hot Spot au cours de la perquisition et de la saisie. Il a déclaré ce qui suit : [traduction] « Il manquait très peu de documents[6] ».
+[15] Les appelants ont fait l’objet de nouvelles cotisations au titre de la Loi de l’impôt sur le revenu (la « Loi ») en septembre et en octobre 2003 (les « premières nouvelles cotisations »). En outre, en octobre 2003, la Couronne a porté des accusations criminelles pour évasion fiscale contre Hot Spot et contre les particuliers appelants. M. Dreger a ensuite repris l’enquête de l’ARC.
+[16] En 2004, M. Dreger a établi le revenu de Hot Spot et des particuliers appelants.
+[17] Les parties ont conclu une transaction en matière pénale concernant les accusations criminelles. Le 18 avril 2006, une déclaration de culpabilité a été prononcée contre Hot Spot. La Couronne a suspendu les accusations portées contre les particuliers appelants[7].
+[18] Le 5 octobre 2006, les documents obtenus par l’ARC au cours de la perquisition et de la saisie de 2002 ont été retournés aux particuliers appelants et à Hot Spot. L’ARC a retourné les dossiers de M. Szysky le 21 août 2007[8].
+[19] L’ARC a établi de nouvelles cotisations à l’égard de Peter Danakas le 3 octobre 2003, de Hot Spot le 14 février 2008 et des trois particuliers appelants survivants le 18 mars 2008 (les « deuxièmes nouvelles cotisations »).
+[20] Le ministre a établi de nouvelles cotisations à l’égard de Voula et de Mia relativement à leurs années d’imposition 1997, 1998 et 1999 ainsi qu’à l’égard de Peter et de Jason concernant leurs années d’imposition 1998 et 1999. Le ministre a établi les deuxièmes nouvelles cotisations à l’égard des particuliers appelants en fonction de calculs de la valeur nette effectués par M. Dreger. Le ministre a décidé que les quatre particuliers appelants avaient collectivement omis de déclarer des revenus de plus de 380 000 $ dans leurs déclarations de revenus. Comme on le verra plus loin, il a attribué la plupart de ces prétendus revenus à Voula et à Mia.
+[21] Le ministre a également établi des cotisations à l’égard de Hot Spot pour des revenus non déclarés pour son année d’imposition se terminant le 31 mars 1998 (l’« année d’imposition 1998 ») et pour son année d’imposition se terminant le 31 mars 1999 (l’« année d’imposition 1999 »). Ce revenu non déclaré était supérieur à 340 000 $. L’ARC n’a pas effectué de calcul de la valeur nette pour Hot Spot[9]. M. Dreger a utilisé les documents comptables de Hot Spot qui avaient été saisis pour calculer son revenu imposable[10].
+[22] Les appelants ne souscrivent pas aux nouvelles cotisations établies. Ils soutiennent qu’après sept mois d’une fermeture due à l’incendie, le restaurant n’est redevenu rentable que dans son année d’imposition 2000. Ils affirment que toute augmentation de la valeur nette ayant eu lieu avant 2000 découlait de prêts obtenus de membres de la famille et d’amis, d’un partage de succession et de paiements importants effectués au titre de deux réclamations d’assurance.
+Questions préliminaires Déclaration de culpabilité [23] L’avocat de l’intimée a avisé la Cour, au début de l’audience, que l’intimée ne croyait que ni le principe de l’autorité de la chose jugée ni celui de la préclusion découlant d’une question déjà tranchée s’appliquaient relativement à la déclaration de culpabilité de Hot Spot. Après avoir examiné la transcription de la procédure relative à la détermination de la peine[11], je souscris à l’avis de l’intimée.
+[24] La déclaration de culpabilité de Hot Spot était fondée sur un règlement et n’a aucune incidence sur les présents appels. L’avocat de l’appelante a déclaré lors des procédures de détermination de la peine que Hot Spot estimait que le montant du revenu non déclaré qui était allégué était absurde. Il a laissé entendre que la transaction en matière pénale avait permis d’éviter les coûts d’un long procès et d’abandonner les accusations portées contre les particuliers appelants[12].
+Les calculs de la valeur nette [25] M. Dreger a effectué un seul calcul de la valeur nette pour Peter et Voula. Les éléments du calcul sont les suivants[13] :
+− Il a d’abord calculé le total de l’actif et le total du passif de Peter et de Voula pour chacune de leurs années d’imposition allant de 1996 à 1999. Le total du passif pour chaque année a été soustrait du total de l’actif pour l’année donnée afin d’obtenir une valeur nette pour l’année. L’augmentation ou la diminution de la valeur nette d’une année à l’autre a ensuite été calculée.
+− Les dépenses personnelles annuelles de Peter et de Voula ont été ajoutées à l’augmentation ou à la diminution de la valeur nette.
+− Il a ensuite effectué un certain nombre de rajustements pour obtenir un revenu annuel estimatif du couple. Les seuls rajustements importants étaient composés de l’ajout de 7 168 $ concernant la liquidation en 1997 d’un compte de REER de Peter, d’un don de 20 000 $ que Peter avait fait à Mia en 1999 relativement à un apport qu’il avait fait à un compte de prêt de l’actionnaire et de la soustraction de 3 159 $ représentant un remboursement d’impôt reçu par Voula en 1997.
+− Par après, il a comparé le revenu annuel estimatif qu’il avait calculé au revenu total de Voula, de Peter et de leur fils à charge John qu’ils avaient déclaré dans leurs déclarations de revenus. La différence a été considérée comme un revenu non déclaré de Peter et de Voula.
+− M. Dreger a ensuite soustrait de ce prétendu revenu non déclaré des éléments particuliers de revenus non déclarés qu’il a pu dégager. Par exemple, pour 1997, il a déduit des revenus non déclarés provenant d’un REER de Peter. M. Dreger a considéré le solde, qui s’élevait à 258 595 $ pour les années pertinentes, comme un montant provenant de Hot Spot que Voula et Peter s’étaient approprié.
+− M. Dreger a réparti la prétendue appropriation de 258 595 $ entre Voula et Peter. Il a d’abord réparti les montants en tenant compte du fait qu’ils constituaient des paiements que Hot Spot avait, à son avis, faits en faveur de Voula ou de Peter, ou des dépenses qu’il croyait être des paiements effectués par Hot Spot pour le compte de Voula ou de Peter (les « appropriations déterminées »). Pour les trois années en cause, les appropriations déterminées totalisaient 74 257 $, dont 59 459 $ ont été mis sur le compte de Voula.
+− Tout montant qui n’a pas fait l’objet d’une répartition en tant qu’appropriation déterminée a été considéré comme une appropriation non déterminée provenant de Hot Spot (les « appropriations non déterminées »). Au total, cela s’élevait à 184 337 $. M. Dreger a mis sur le compte de Voula la totalité des appropriations non déterminées de 184 337 $, à l’exception de 100 $, qu’il a attribués à Peter.
+[26] M. Dreger a effectué un calcul semblable de la valeur nette pour Mia et Jason. M. Dreger a imputé à Mia toutes les appropriations non déterminées établies dans ce calcul[14].
+Erreur importante dans le calcul de la valeur nette [27] M. Dreger a effectué un seul calcul de la valeur nette pour Peter et Voula et a ensuite tenté de répartir le résultat entre les deux contribuables. Cela aurait été acceptable s’il avait fondé la répartition sur une analyse des divers éléments inclus dans le calcul de la valeur nette. À mon avis, cela n’a pas été fait en ce qui concerne les prétendues appropriations provenant de Hot Spot, qui comprenaient plus de 95 % du prétendu revenu non déclaré. À mon avis, le fait de mettre sur le compte de Voula près de 100 % des appropriations non déterminées est particulièrement troublant. Les éléments de preuve versés au dossier n’étayent pas une telle répartition.
+[28] Avant et pendant la période pertinente, Voula a passé le plus clair de son temps à fournir du soutien à sa famille, en particulier à son fils John, qui est lourdement handicapé. Voula a expliqué que John avait besoin de soins constants; on ne pouvait pas le laisser seul. En outre, Voula consacrait de nombreuses heures à divers organismes de bienfaisance et à diverses entités à but non lucratif.
+[29] Bien qu’elle ait détenu le titre de présidente, Voula avait un rôle limité dans l’exploitation de Hot Spot. Elle effectuait certains dépôts bancaires, faisait les courses et accomplissait certains travaux manuels. Elle ne participait ni à la gestion ni aux affaires financières de Hot Spot. Peter prenait et exécutait toutes les décisions concernant l’exploitation de Hot Spot[15].
+[30] Si on se reporte à l’annexe A de la réponse, qui est le résumé des cotisations de Voula, celle‑ci a déclaré qu’elle n’avait aucune idée de ce dont il était question dans le résumé lorsque celui‑ci renvoyait aux trois formes d’appropriations alléguées : [traduction] « Paiements reçus de Hot Spot », [traduction] « Dépenses personnelles payées par Hot Spot » et [traduction] « Appropriations en espèces selon la valeur nette ». Dans son témoignage, elle a déclaré qu’elle n’avait reçu aucun paiement en espèces de la part de Hot Spot[16]. Elle a fait la déclaration suivante : [traduction] « Tous ces chiffres doivent cacher quelque chose d’autre parce que l’argent n’est jamais venu jusqu’à moi personnellement, et je n’en ai jamais vu la couleur[17] ».
+[31] La preuve dont je dispose étaye le témoignage de Voula. Peter était l’âme dirigeante de Hot Spot et, à l’exception de certains fournisseurs payés par Mia, il envoyait tous les paiements que Hot Spot effectuait à des tiers.
+[32] L’intimée ne m’a renvoyé à aucun élément de preuve qui démontrait que Hot Spot avait versé à Voula une quelconque partie des appropriations non déterminées de 184 337 $.
+[33] Je ne comprends pas comment l’ARC, après avoir mené une enquête approfondie à l’égard de Hot Spot et analysé ses documents comptables pendant trois ans, avait pu mettre sur le compte de Voula toutes les appropriations non identifiées. Celle‑ci n’avait tout simplement pas les moyens d’effectuer une aussi importante appropriation. Si en réalité un tel montant a été approprié à ce moment‑là, selon la preuve dont je dispose, une partie importante aurait dû être mise sur le compte de Peter, non sur celui de Voula. En conséquence, un seul calcul de la valeur nette effectué a fait en sorte qu’un montant important du prétendu revenu a été mis par erreur sur le compte de Voula.
+[34] M. Dreger a déclaré dans son témoignage qu’il avait attribué le montant à Voula pour la simple raison qu’elle était [traduction] « l’actionnaire de la société[18] ». Il ne s’agit pas d’un fondement raisonnable pour l’allocation effectuée. Tout d’abord, Voula ne détenait que 30 pour 100 des actions de Hot Spot et elle les détenait pour le compte de son fils John. Bien plus important, l’ARC devait savoir, après avoir examiné en profondeur les affaires de l’appelante, que Voula intervenait très peu dans les affaires de Hot Spot et que Peter était l’âme dirigeante de la société.
+[35] L’allocation arbitraire des appropriations non identifiées à Voula a gravement porté atteinte à la crédibilité des calculs de la valeur nette.
+Erreur importante dans le calcul du revenu non déclaré de Hot Spot [36] Le calcul effectué par l’ARC concernant le revenu de Hot Spot pour ses années d’imposition 1998 et 1999 comporte aussi une erreur importante.
+[37] Comme je l’ai mentionné précédemment, le ministre a établi une cotisation de 340 000 $ à l’égard de Hot Spot pour un revenu non déclaré pour ses années d’imposition 1998 et 1999. Environ 290 000 $ des 340 000 $ étaient composés des prétendus montants que les particuliers appelants s’étaient appropriés en provenance de Hot Spot[19].
+[38] Je ne vois aucun inconvénient à ce que le ministre inclue les appropriations alléguées dans le revenu de Hot Spot. Il ressort de la preuve dont je dispose que Hot Spot était l’unique source de revenus des particuliers appelants. Toutefois, la méthode utilisée pour effectuer la répartition est extrêmement dommageable pour l’intimée.
+[39] L’intimée a produit en tant que pièce R65 le calcul du montant de 290 000 $ effectué par l’ARC. Le problème que pose le calcul est que l’ARC a pris les montants que les particuliers appelants se seraient appropriés sur 36 mois (1997, 1998 et 1999) et les a inclus dans le calcul du revenu de Hot Spot pour 24 mois (les années d’imposition 1998 et 1999).
+[40] M. Dreger a déclaré dans son témoignage que, comme cela ressort de la pièce R65, le montant inclus dans l’exercice 1998 de Hot Spot était composé de tous les montants que les particuliers appelants se seraient appropriés dans l’année civile 1997 et de 3/12 des montants qu’ils se seraient appropriés dans l’année civile 1998. En bref, les montants qui auraient fait l’objet d’appropriations sur 15 mois ont été inclus dans le calcul du revenu de Hot Spot pour son exercice de 12 mois se terminant le 31 mars 1998.
+[41] Selon M. Dreger, la même méthode a été suivie pour l’année d’imposition se terminant le 31 mars 1999. C’est ce qui se dégage de la pièce R65, qui montre que le montant inclus correspond à 9/12 des montants qui auraient fait l’objet d’une appropriation dans l’année civile 1998 et de tous les montants qui auraient fait l’objet d’une appropriation dans l’année civile 1999. Cela a fait en sorte que des montants qui auraient été appropriés sur 21 mois ont été inclus dans le calcul du revenu de Hot Spot pour la période de 12 mois se terminant le 31 mars 1999.
+[42] L’intimée n’a pas expliqué à la Cour pourquoi des revenus pour 36 mois ont été inclus dans une période de 24 mois pour Hot Spot. Manifestement, cela n’est pas conforme aux dispositions de la Loi.
+[43] Cette allocation excédentaire remet en question la crédibilité des autres hypothèses émises par l’ARC pour effectuer ses calculs. En conséquence, la crédibilité des calculs effectués a été gravement atteinte, y compris les calculs de la valeur nette pour les particuliers appelants et le revenu non déclaré de Hot Spot qui a été calculé.
+Provenance des fonds [44] Une des questions clés liées à la preuve en l’espèce est l’origine des fonds que les particuliers appelants ont utilisés pour subvenir à leurs besoins pendant la période pertinente. L’intimée soutient que les particuliers appelants se sont approprié l’argent de Hot Spot. Les particuliers appelants affirment qu’ils ont reçu l’argent des sources suivantes :
+− prêts consentis par des membres de la famille et par des amis;
+− partage d’une succession familiale;
+− paiements obtenus au titre de deux polices d’assurance.
+[45] Selon le témoignage de Voula et de Mia, après l’incendie, Hot Spot n’a produit aucun revenu. Elles ont décrit de façon détaillée les difficultés financières auxquelles les deux familles ont été confrontées après l’incendie. Elles ont expliqué que les familles ont utilisé toute somme d’argent recueillie auprès de tiers pour continuer à faire tourner l’entreprise et pour payer leurs dépenses personnelles. Voula a ainsi décrit cette période :
+[traduction]
+Selon mon souvenir – et je [...] me rappelle que je regardais dehors en pleurant – nous devions fermer pendant près d’un an, et nos deux familles, ma – la famille de Mia et ma famille n’avions aucun revenu, nous avons donc hypothéqué tout ce que nous pouvions hypothéquer et, pour être honnête avec vous, le plus douloureux a été de voir ma fille Mia retourner les vêtements de son bébé pour pouvoir acheter de la préparation pour nourrissons. Pour notre part, nous devions acheter des médicaments pour notre fils handicapé qui coûtaient à l’époque, je crois, 700 $ ou quelque chose comme ça. Nos deux foyers et nos deux familles essayaient ensemble de surmonter les moments difficiles.[20]
+[46] J’ai entendu le témoignage de Voula, de Mia, de Jason, de Leo Georgopoulos et de Richard Weinkauf relativement à l’argent que les deux familles avaient reçu de tiers. Après avoir examiné l’ensemble des éléments de preuve dont je disposais, j’ai conclu que les familles avaient reçu des paiements importants provenant de tiers.
+[47] J’ai conclu qu’entre le moment de l’incendie de Hot Spot en 1996 et la fin de 1999, Voula avait reçu 107 614 $ composés des éléments suivants :
+− Prêt de 7 800 $ consenti par son frère Leo Georgopoulos le 14 novembre 1996[21];
+− Prêt de 13 000 $ consenti par sa cousine Maria Damianakou le 10 janvier 1997[22];
+− Prêt de 11 000 $ consenti par son frère Leo Georgopoulos en mars 1997[23];
+− Prêt de 8 300 $ consenti par son frère Leo Georgopoulos le 19 janvier 1998[24];
+− Prêt de 8 000 $ consenti par son ami Kiki Tsoukala en février 1998[25];
+− Prêt de 15 000 $ consenti par son frère Leo Georgopoulos en mai 1999[26];
+− Un montant de 44 514 $[27] provenant du partage de la succession des parents de Voula le 27 juillet 1999[28].
+[48] Peter est décédé en octobre 2005. Bien que certains éléments de preuve m’aient été présentés concernant des montants que des tiers lui avaient fournis, je ne pense pas avoir eu des éléments de preuve concernant tous les montants qu’il avait reçus. Il était le chef de la famille et, selon la preuve dont je dispose, après l’incendie du restaurant, il avait pris l’initiative de recueillir des fonds pour aider les deux familles et l’entreprise[29]. Après avoir examiné les éléments de preuve versés au dossier, j’ai conclu qu’entre le moment de l’incendie en 1996 et la fin de 1999, Peter avait reçu au moins 140 834 $ provenant de tiers. Ce montant est composé des éléments suivants :
+− Paiement totalisant 51 834 $ en règlement de polices d’assurance de la London Life en 1996[30];
+− Réception en 1997 d’un paiement de 49 000 $ en règlement d’une réclamation d’assurance[31];
+− Prêts d’environ 10 000 $ consentis par un ami proche, Tom Roditis, dans chacune des années 1997, 1998 et 1999[32];
+− Prêt de 4 000 $ consenti par son frère, Constantin Danakas, dans chacune des années 1997 et 1998 ainsi que de 2 000 $ en 1999[33].
+[49] En bref, Voula et Peter ont reçu au moins 248 448 $ de tiers entre juin 1996 et la fin de 1999. L’ARC n’a pas tenu compte de ces montants pour effectuer les calculs de la valeur nette.
+[50] J’ai conclu qu’entre le moment de l’incendie en 1996 et la fin de 1999, Mia avait reçu un montant de 197 500 $ provenant de tiers, un don de 12 000 $ fait par Peter et Voula en 1997 [34] et un cadeau de mariage de 6 000 $ offert par Peter et Voula en 1998[35]. Les paiements suivants ont été reçus de tiers :
+− Dons totalisant 10 000 $ reçus en 1997 au baptême de sa fille[36];
+− Cadeau de mariage de 10 000 $ reçu en 1998 de son oncle Leo Georgopoulos[37];
+− Cadeaux de mariage de 25 000 $ reçus en 1998 de divers tiers[38];
+− Dons d’environ 28 500 $ reçus en 1998 de Voula et de Peter à leur 40e anniversaire de mariage qui ont été donnés à Mia et à Jason[39];
+− Règlement de 9 000 $ reçu par Mia en 1998 et provenant de l’Association canadienne des automobilistes[40];
+− Réception en 1999 d’un paiement de 90 000 $ en règlement d’une réclamation liée à une police d’assurance[41];
+− Paiement de 15 000 $ en 1999 provenant de la succession de ses grands‑parents maternels[42];
+− Don de 10 000 $ reçu de ses grands‑parents paternels en 1999[43].
+En outre, Richard Weinkauf, le père de Jason, a consenti à celui‑ci un prêt de 10 000 $ en 1997[44].
+[51] En résumé, Mia et Jason ont reçu 207 500 $ de tiers ainsi que 18 000 $ de Peter et de Voula entre juin 1996 et la fin de 1999. L’ARC n’a pas tenu compte de cette somme pour effectuer les calculs de la valeur nette.
+Les cotisations établies à l’égard des particuliers appelants [52] J’examine maintenant les cotisations établies à l’égard de chacun des particuliers appelants. J’examinerai d’abord la nouvelle cotisation établie à l’égard de Voula.
+[53] Comme je l’ai mentionné précédemment, l’ARC a effectué un seul calcul de la valeur nette pour établir le revenu non déclaré de Peter et de Voula. Elle a ensuite tenté de répartir le résultat entre les deux contribuables, la majeure partie du revenu non déclaré qui a été calculé ayant été attribué à Voula[45].
+[54] L’ARC a établi que Peter et Voula avaient un revenu non déclaré de 264 116 $ dans les années d’imposition 1997, 1998 et 1999. De ce montant, l’ARC a déterminé que 258 595 $ étaient des appropriations provenant de Hot Spot[46].
+[55] Voula a affirmé catégoriquement qu’elle ne s’était approprié aucuns fonds provenant de Hot Spot. Elle a déclaré dans son témoignage que l’argent circulait en sens inverse. Les deux familles avaient d’abord utilisé les fonds reçus de tiers pour payer leurs dépenses personnelles et avaient ensuite affecté le solde à Hot Spot. Voula a signalé que tout montant que les familles avaient reçu de Hot Spot représentait un remboursement de prêts que les deux familles avaient consentis à la société.
+[56] Le témoignage de Voula est étayé par les états financiers de Hot Spot qui montrent que des montants dus à des personnes liées (Peter, Voula et Mia) sont passés de 165 123 $ le 31 mars 1996 (quelque trois mois avant l’incendie) à 272 991 $ le 31 mars 1997, à 370 193 $ le 31 mars 1998, et à 403 550 $ le 31 mars 1999[47]. Il s’agissait d’une augmentation de 238 427 $ sur trois ans, dont 215 574 $ représentaient des avances consenties par Peter et Voula[48].
+[57] Je reconnais que Voula et Peter ont reçu 59 634 $ provenant des paiements faits par des tiers en 1996. Je ne peux pas déterminer la partie de ce montant que Peter et Voula ont dépensé en 1996 et celle qu’ils ont dépensée en 1997. J’ai estimé que 50 pour 100 avaient été dépensés en 1996 et que 50 pour 100 avaient été dépensés en 1997. Cette répartition est fondée sur le fait que l’incendie a eu lieu en juillet 1996 et que l’ARC a établi que les dépenses personnelles de Voula et de Peter étaient de 58 971 $ en 1997. Les dépenses personnelles de Peter et de Voula pour six mois seraient d’environ 50 pour 100 de 58 971 $ ou 29 485 $.
+[58] En résumé, lorsque l’ARC a calculé la valeur nette, elle n’a pas tenu compte des paiements de 218 631 $ que Peter et Voula avaient reçus de tiers[49]. Cela ramène à 45 485 $ le revenu non déclaré de Peter et de Voula que l’ARC a calculé pour les trois années en question.
+[59] Comme je l’examinerai sous peu, je ne puis admettre que Peter et Voula avaient un revenu non déclaré de 45 485 $ dans ces années. Toutefois, j’accepte, compte tenu des éléments de preuve dont je dispose, le fait que Voula avait un revenu non déclaré de 8 395 $ en 1998. Les 8 395 $ représentent un revenu non déclaré, tiré des obligations d’épargne du Canada que Voula aurait reçu en 1998[50]. Cependant, Voula aura aussi droit à une déduction pour 1998 de 4 081,06 $ que le ministre a désigné comme étant des [traduction] « frais financiers non déduits[51] ». Au vu des éléments de preuve versés au dossier, je ne crois pas que Voula se soit approprié quelques fonds que ce soit de Hot Spot.
+[60] J’examine maintenant les nouvelles cotisations établies à l’égard de Mia et de Jason.
+[61] L’ARC a également procédé à un seul calcul de la valeur nette pour déterminer le revenu net combiné de Mia et de Jason[52]. Elle a ensuite réparti le résultat entre les deux contribuables, et a attribué à Mia la plus grande partie du revenu non déclaré qui a été calculé[53].
+[62] L’ARC a établi que Mia et Jason avaient un revenu non déclaré de 121 607 $ dans les années d’imposition 1997, 1998 et 1999. Elle a déterminé que, de ce montant, 121 594 $ étaient des appropriations provenant de Hot Spot[54].
+[63] Dans son témoignage, Mia a déclaré qu’elle ne s’était approprié aucuns fonds de Hot Spot. Elle a déclaré que la société n’avait pas d’argent que l’on pouvait s’approprier. Selon son témoignage, Hot Spot était dans une situation financière tellement précaire que la société n’était pas en mesure de verser un salaire à Mia. Celle-ci prêtait à la société tout ce qu’elle avait comme fonds et se faisait ensuite rembourser lorsque la société avait du liquide. Par ailleurs, Hot Spot payait certaines dépenses personnelles de Mia et les portaient ensuite à son compte de prêt de l’actionnaire.
+[64] Mia a donné une description colorée des difficultés financières de Hot Spot. Elle a expliqué comment elle se rendait chaque jour à la banque pour vérifier les soldes des comptes bancaires de Hot Spot. Elle comparait ensuite les soldes avec les montants de tous les chèques en circulation. Si Hot Spot avait besoin d’argent pour couvrir ces chèques, elle déposait tout l’argent qu’elle avait et allait ensuite voir son père (Peter) pour s’enquérir des fonds dont il disposait. Elle a fait la déclaration suivante [traduction] : « Le problème qui se posait pour nous pendant ces trois années, c’est que nous vivions au jour le jour, nous n’avions aucune idée de ce dont nos lendemains seraient faits[55]. » Elle a aussi expliqué comment Jason utilisait ses propres fonds pour acheter de l’alcool pour le restaurant parce que le fournisseur d’alcool n’acceptait pas les chèques de Hot Spot. Par la suite, Hot Spot remboursait à Jason le montant des achats d’alcool[56].
+[65] Comme je l’ai mentionné précédemment, l’ARC n’a pas tenu compte, lorsqu’elle a procédé aux calculs de la valeur nette, du montant de 207 500 $ que Mia et Jason avaient reçu de tiers pendant les années pertinentes. Les 207 500 $ excèdent le revenu non déclaré de 121 607 $ que le ministre a calculé pour les années d’imposition 1997, 1998 et 1999. En conséquence, le calcul de la valeur nette, après la prise en compte du montant de 207 500 $ reçu de tiers, donne lieu à une conclusion selon laquelle il n’y a eu aucun revenu non déclaré.
+[66] Compte tenu de la preuve dont je disposais, j’ai conclu que Mia et Jason ne s’étaient approprié aucun montant de Hot Spot pendant les années pertinentes.
+[67] Je me penche maintenant sur les nouvelles cotisations établies à l’égard de Peter. En se fondant sur le calcul de la valeur nette, le ministre a établi une cotisation de 12 551 $ à l’égard de Peter pour des revenus non déclarés pour ses années d’imposition 1998 et 1999.
+[68] Il ressort de la preuve dont je dispose que Peter a versé des sommes importantes à Hot Spot. Les documents financiers de Hot Spot montrent que les prêts consentis par Peter à Hot Spot avaient augmenté et qu’ils étaient passés de 149 210 $ le 31 mars 1996 à 265 313 $ le 31 mars 1999[57]. Cela est compatible avec les témoignages de Voula et de Mia selon lesquels Hot Spot avait eu des difficultés financières pendant cette période et qu’elle avait survécu en utilisant les fonds fournis par la famille.
+[69] À mon avis, Peter ne s’est approprié aucuns fonds de Hot Spot, mais il a plutôt versé des fonds à la société. Tout paiement fait par Hot Spot en faveur de Peter n’était simplement qu’un remboursement d’une partie des prêts que ce dernier avait consentis à Hot Spot. Pendant la période pertinente, les fonds que Peter avait prêtés à Hot Spot dépassaient largement les remboursements de ces prêts que Hot Spot avait effectués.
+[70] Je reconnais que le calcul de la valeur nette effectué à l’égard de Peter et de Voula, après le rajustement concernant les fonds reçus de tiers, montre néanmoins l’existence d’un revenu non déclaré de 45 485 $ pour Peter et Voula. Toutefois, le calcul de la valeur nette concernant Mia et Jason fait état de fonds excédentaires d’environ 86 500 $ qui, selon le témoignage de Mia, ont été utilisés pour financer les activités de Hot Spot. En outre, au vu des erreurs importantes que comportent les calculs de la valeur nette relativement à l’attribution arbitraire de revenus à Voula et de l’omission de tenir compte des paiements provenant de tiers, je ne suis pas disposé à accorder quelque poids que ce soit à ces calculs. J’ai plutôt examiné l’ensemble de la preuve dont je disposais et j’ai conclu qu’aucun des particuliers appelants ne s’était approprié des fonds de Hot Spot.
+[71] Ma conclusion selon laquelle les particuliers appelants ne se sont pas approprié de fonds de Hot Spot est conforme aux données financières de Hot Spot. Les états financiers de Hot Spot pour chacune de ses années d’imposition 1995, 1996, 1997, 1998, 1999 et 2000[58] font état des chiffres d’affaires bruts suivants pour chaque exercice :
+- Exercice se terminant le 31 mars 1996 ‑ 410 682 $
+- Exercice se terminant le 31 mars 1997 ‑ 212 815 $
+- Exercice se terminant le 31 mars 1998 ‑ 500 787 $
+- Exercice se terminant le 31 mars 1999 ‑ 531 044 $
+- Exercice se terminant le 31 mars 2000 ‑ 566 289 $
+[72] Le ministre a accepté le revenu déclaré dans la déclaration de revenus de Hot Spot pour l’exercice se terminant le 31 mars 1996[59], et a accepté la déclaration de revenus pour l’exercice de Hot Spot se terminant le 31 mars 1997, tel qu’elle avait été produite[60].
+[73] Les états financiers de Hot Spot montrent que, entre le 1er mars 1997 (peu de temps après la réouverture de Hot Spot) et le 31 mars 2000, les ventes de Hot Spot ont augmenté d’environ 6 pour 100 par exercice. L’ARC a établi des cotisations en se fondant sur le fait que, par suite des appropriations qui auraient été faites par les particuliers appelants, les ventes de Hot Spot avaient en réalité augmenté de 290 632 $ supplémentaires[61] entre le 1er janvier 1997 et le 31 décembre 1999, soit 96 877 $ par année civile.
+[74] Si je devais accepter les calculs effectués par l’ARC, cela voudrait dire qu’une fois que le restaurant avait rouvert ses portes après une fermeture de sept mois consécutive à l’incendie, les ventes annuelles de Hot Spot avaient augmenté d’environ 45 pour 100[62]. En outre, les calculs du ministre donnent également lieu à des augmentations de ventes annuelles subséquentes d’environ 25 pour 100. La preuve dont je dispose n’étaye pas une augmentation aussi importante des ventes de Hot Spot.
+[75] Il ressort de la preuve produite que la fermeture du restaurant pendant sept mois a entraîné de graves difficultés financières pour Hot Spot. J’ai déjà examiné les éléments de preuve présentés par Mia et Voula. M. Szysky a aussi parlé des difficultés que Hot Spot avait éprouvées après sa réouverture. Il a souligné qu’après une fermeture de sept mois, le restaurant devait reconstituer sa clientèle dans un marché concurrentiel. Dans son témoignage, il a déclaré qu’ils vendaient des ailes de poulet à un prix inférieur à leur coût, qu’ils offraient des pizzas gratuitement et qu’ils essayaient d’inciter des équipes sportives à venir au restaurant après leurs matchs[63]. Il n’est tout simplement pas raisonnable de conclure que, dans une telle conjoncture du marché, Hot Spot était capable d’augmenter ses ventes de 45 pour 100 dans sa première année d’exploitation suivant l’incendie ou de 25 pour 100 dans les années subséquentes.
+[76] À mon avis, l’augmentation annuelle de six pour cent consignée dans les états financiers de Hot Spot est compatible avec les éléments de preuve dont je dispose. Ma conclusion sur ce point vient étayer davantage mon autre conclusion selon laquelle les particuliers appelants ne s’étaient pas approprié de fonds de Hot Spot.
+Les cotisations établies à l’égard de Hot Spot [77] Hot Spot interjette appel de la décision du ministre selon laquelle elle n’avait pas déclaré la totalité de ses revenus pour ses années d’imposition 1998 et 1999. Hot Spot interjette également appel de la décision du ministre de lui refuser des montants qu’elle avait déduits pour ses années d’imposition 1996, 2000 et 2001 relativement à des pertes autres que des pertes en capital qu’elle avait subies dans d’autres années d’imposition.
+[78] J’examinerai d’abord la décision du ministre selon laquelle Hot Spot avait omis de déclarer des revenus de 340 000 $ relativement à ses années d’imposition 1998 et 1999.
+[79] Environ 290 000 $ des 340 000 $ consistaient en de prétendus revenus non déclarés des particuliers appelants[64]. Selon l’intimée, étant donné que Hot Spot était la seule source de fonds pour les particuliers appelants, les 290 000 $ devaient être des revenus non déclarés de Hot Spot[65].
+[80] Étant donné que j’ai conclu que les particuliers appelants ne s’étaient approprié aucuns fonds de Hot Spot, cette partie du revenu non déclaré sera éliminée.
+[81] Le solde de la cotisation établie de 340 000 $ avait été calculé en fonction de l’examen des documents comptables de Hot Spot effectué par M. Dreger. Sur la base de cet examen, le ministre a supposé, lors de l’établissement de la cotisation à l’égard de Hot Spot, que celle‑ci avait un revenu supplémentaire non déclaré de 55 786 $ dans son année d’imposition 1998 et qu’elle avait surestimé son revenu de 2 160 $ (avant l’ajout du prétendu revenu non déclaré des particuliers appelants) pour son année d’imposition 1999.
+[82] La Cour n’est appelée à se prononcer que sur le prétendu revenu non déclaré de 55 786 $ pour l’année d’imposition 1998 de Hot Spot. Le ministre a supposé que les 55 786 $ comprenaient les éléments suivants :
+− Revenus du tiroir‑caisse non déclarés ‑ 29 210 $
+− Autres revenus non déclarés ‑ 7 570 $
+− Rentrées de fonds non déclarés concernant des retours de
+bouteilles ‑ 15 602 $
+− Demande en trop au titre de dépenses en coût des ventes ‑ 3 404 $[66]
+[83] En outre, le prétendu revenu non déclaré de 29 210 $ du tiroir‑caisse de la caisse enregistreuse a été réparti dans les catégories suivantes :
+− Ventes non déclarées effectuées par la maison et figurant sur les rubans du tiroir-caisse ‑ 1 521 $
+− Revenus non déclarés figurant sur les rubans du tiroir‑caisse et qui n’ont pas été consignés au journal des ventes ‑ 26 744 $
+− Revenu non déclaré qui ne figure ni au journal des ventes ni sur les rubans du tiroir‑caisse par rapport aux montants déclarés ‑ 946 $[67].
+[84] La Cour d’appel fédérale a formulé les observations suivantes dans l’arrêt Newmont Canada Corporation c. Canada[68] :
+En matière fiscale, le contribuable a le fardeau initial de démolir les hypothèses du ministre. Le contribuable s’acquitte de ce fardeau lorsqu’il présente une preuve prima facie démontrant que les hypothèses du ministre sont erronées. Lorsque le contribuable a établi une preuve prima facie, le fardeau de la preuve passe alors au ministre, qui doit démontrer l’exactitude de ses hypothèses selon la prépondérance des probabilités. Si le ministre ne présente aucune preuve satisfaisante, le contribuable a gain de cause (Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, aux paragraphes 92 à 95; House c. Canada, 422 N.R. 144, aux paragraphes 30 et 31.
+[85] Après avoir examiné l’ensemble de la preuve dont je disposais, j’ai conclu que Hot Spot avait présenté une preuve prima facie démontrant qu’elle avait déclaré toutes ses ventes et tous ses revenus pour son année d’imposition 1998 dans ses déclarations de revenus telles qu’elles avaient été produites. En d’autres termes, Hot Spot a présenté une preuve pour démolir l’hypothèse du ministre selon laquelle elle avait omis de déclarer des revenus de 55 786 $.
+[86] Dans son témoignage, Mia a déclaré que Hot Spot avait inscrit dans ses documents comptables toutes les ventes figurant sur les rubans du tiroir‑caisse de la caisse enregistreuse. Elle a souligné que cela devait être le cas, étant donné que les rubans du tiroir‑caisse étaient comparés aux reçus[69] à tous les jours. Elle a expliqué que Hot Spot effectuait un rapprochement quotidien des ventes. Le rapprochement était effectué sur une feuille intitulée [traduction] « État de rapprochement des Stats Cocktails and Dreams », au moyen des rubans du tiroir‑caisse de la caisse enregistreuse, des feuilles de temps quotidiennes des serveuses, des relevés de paiements effectués et des relevés faisant état de paiements par Visa, MasterCard et carte bancaire. Tous les documents concernant une journée donnée étaient joints ensemble avec une bande élastique[70].
+[87] Malheureusement, les jeux complets de documents joints ensemble n’ont pas été présentés à la Cour. Il ressort clairement de la preuve dont je dispose que l’ARC a obtenu les jeux complets de documents joints ensemble lorsqu’elle a saisi les documents comptables de Hot Spot[71]. J’ai entendu des témoignages contradictoires en ce qui concerne la question de savoir si l’ARC avait retourné les documents en question à Hot Spot. J’accepte la preuve de l’intimée selon laquelle l’ARC avait retourné à Hot Spot les documents saisis le 5 octobre 2006, soit quatre ans après leur saisie[72].
+[88] J’accepte également les témoignages de Mia et de Jason selon lesquels l’ARC avait retourné les documents dans un tel état que Hot Spot ne pouvait pas les utiliser dans le présent appel. Jason et Mia ont déclaré dans leur témoignage que les fonctionnaires de l’ARC avaient laissé les boîtes contenant les documents dans la rue, à l’extérieur du restaurant. En outre, l’ARC n’a fourni à Hot Spot aucune forme d’index mentionnant le contenu des boîtes en particulier. Mia croit que les boîtes ne contenaient pas tous les documents de Hot Spot.
+[89] L’ARC a effectué des photocopies des documents saisis avant de les retourner à Hot Spot. L’intimée a déposé certains de ces documents auprès de la Cour. Diverses personnes ont témoigné quant à l’authenticité de certains de ces documents. Toutefois, il y avait divers documents que des témoins ne pouvaient pas identifier. Je n’ai pas autorisé la production de ces documents en preuve en l’espèce. De plus, un certain nombre de photocopies n’était pas lisible.
+[90] Après avoir examiné les documents lisibles qui ont été produits en preuve, je crois qu’il manque de nombreux documents pertinents. Plus particulièrement, des jeux complets de documents joints ensemble qui constituent le rapprochement des ventes quotidiennes n’ont pas été présentés à la Cour. L’intimée a fourni à la Cour une partie des documents, tels que des copies des rubans du tiroir‑caisse quotidiens de la caisse enregistreuse, mais je n’ai pas reçu d’autres documents importants faisant partie des liasses, tels que les états de rapprochement quotidiens des ventes de Hot Spot. Je ne sais pas trop pourquoi l’intimée n’a pas fourni tous les documents qui faisaient état du rapprochement quotidien.
+[91] Mia a livré, de manière constante, un témoignage détaillé relativement aux activités de Hot Spot et à l’enregistrement de ses ventes. À mon avis, le témoignage de Mia en ce qui concerne les éléments suivants présente une preuve prima facie démontrant que Hot Spot enregistrait toutes ses ventes :
+− le fonctionnement de la caisse enregistreuse;
+− la manière dont les ventes réelles réalisées par le restaurant étaient consignées sur les rubans du tiroir‑caisse;
+− l’utilisation des rubans du tiroir‑caisse pour effectuer les rapprochements quotidiens des ventes;
+− l’utilisation des rapprochements quotidiens des ventes pour enregistrer les ventes;
+− les jours de fermeture du restaurant.
+[92] En outre, ce témoignage, pris ensemble avec les témoignages suivants, constitue une preuve prima facie établissant que Hot Spot avait déclaré dans ses déclarations de revenus toutes ses ventes et tous ses revenus pour son année d’imposition 1998 :
+− Le témoignage de Mia selon lequel :
+• Les seuls chiffres fiables figurant sur les rubans du tiroir‑caisse étaient ceux des [traduction] « lectures cumulatives de la caisse » que Hot Spot utilisait pour effectuer les rapprochements quotidiens des ventes. Les chiffres utilisés par l’intimée, c’est‑à‑dire les [traduction] « lectures du total général », ne rendaient pas compte exactement des ventes de Hot Spot[73];
+• Les ventes du bar d’en bas étaient consignées à la caisse enregistreuse utilisée pour calculer les ventes quotidiennes[74];
+• En 1998 et en 1999, le restaurant n’était pas ouvert les dimanches[75];
+• Hot Spot ne vendait pas de cigarettes ni ne tirait de revenus des tables de billard ou des jeux vidéo[76].
+− Le témoignage de Phil Szysky selon lequel :
+• Il effectuait un rapprochement entre les livres comptables de Hot Spot et ses relevés bancaires pour s’assurer que toutes les opérations qui étaient effectuées au moyen des comptes bancaires de Hot Spot étaient enregistrées dans ses livres comptables[77];
+• Il enregistrait les montants concernant les retours de bouteilles comme un crédit à valoir sur le coût des produits vendus[78];
+• À la fin de l’exercice 1998, il a réduit le montant enregistré en tant qu’« autres revenus » pour faire en sorte que le total des ventes enregistrées dans les livres comptables de Hot Spot ne soit pas supérieur aux rentrées de fonds[79].
+[93] Étant donné que Hot Spot a présenté une preuve prima facie établissant qu’elle avait déclaré tous ses revenus dans ses déclarations de revenus, le fardeau de la preuve passe maintenant à l’intimée, à qui il incombe de fournir les éléments de preuve démontrant que, selon la prépondérance des probabilités, Hot Spot a omis d’inclure dans ses déclarations de revenus un montant de 55 786 $ figurant à la pièce R36.
+[94] L’intimée ne s’est pas acquittée du fardeau de la preuve qui lui incombait.
+[95] L’intimée s’est principalement fondée sur les documents de travail de M. Dreger. On ne m’a pas renvoyé aux documents comptables de Hot Spot que M. Dreger avait utilisés pour effectuer ses calculs.
+[96] À l’appui de ses calculs mentionnés à la pièce R36, M. Dreger m’a renvoyé à divers documents de travail qu’il avait utilisé pour calculer les chiffres figurant à la pièce R36. Par exemple, pour les [traduction] « revenus non déclarés du tiroir‑caisse qui ne sont pas inscrits au journal des ventes », il m’a présenté quatre documents de travail séparés (Pièces R39, R41, R42 et R43). Ce qu’il ne m’a pas montré, ce sont les documents comme tels qui constituent le fondement de ses calculs.
+[97] Par exemple, il souligne aux pièces R39, R41, R42 et R43, des jours précis pour lesquels il pense que les ventes figurant sur les rubans du tiroir‑caisse de la caisse enregistreuse de Hot Spot n’ont pas été enregistrées dans ses documents comptables. Toutefois, il ne m’a pas présenté les rubans du tiroir‑caisse en question et plus important encore, il ne m’a pas renvoyé au calcul effectué concernant le rapprochement des ventes pour l’un ou l’autre de ces jours, même si, pour un certain nombre des jours mentionnés aux pièces R39, R41, R42 et R43, Hot Spot avait enregistré des ventes dans son journal des ventes[80].
+[98] L’intimée me demande d’accepter les calculs effectués par M. Dreger sans me fournir quelque élément de preuve que ce soit à l’appui de ces calculs. Manifestement, l’intimée avait les éléments de preuve, étant donné que M. Dreger a déclaré que l’ARC avait saisi presque tous les documents comptables de Hot Spot.
+[99] Je ne suis pas disposé à accorder quelque poids que ce soit aux calculs effectués par M. Dreger en l’absence des éléments de preuve à l’appui. En outre, comme je l’ai mentionné précédemment, la crédibilité des calculs de M. Dreger a été sérieusement minée durant l’audience.
+[100] Pour les motifs exposés ci‑dessus, j’ai conclu que les ventes et les revenus de Hot Spot ont été correctement déclarés dans ses déclarations de revenus telles qu’elles ont été produites.
+Reports prospectifs des pertes [101] La question suivante que la Cour doit analyser est le montant des reports prospectifs des pertes que Hot Spot pouvait déduire pour ses années d’imposition 1996, 2000 et 2001.
+[102] Le ministre a formulé une hypothèse selon laquelle le solde de Hot Spot pour ce qui est du groupe de ses pertes autres que des pertes en capital au début de l’année d’imposition 1996 était de 18 850 $. À mon avis, l’appelant n’a pas présenté d’éléments de preuve pour démolir cette hypothèse.
+[103] En outre, les éléments de preuve présentés par l’intimée, tels qu’ils sont résumés à la pièce R78, démontrent, selon la prépondérance des probabilités, que le solde du groupe des pertes autres que des pertes en capital de Hot Spot au 31 mars 1995 était de 18 850 $. Ces chiffrent concordent avec les documents de travail de M. Szysky et les déclarations de revenus produites par Hot Spot.
+[104] Le ministre a accepté que Hot Spot avait subi des pertes de 24 012 $ pour son exercice se terminant le 31 mars 1997. La Cour a conclu que Hot Spot avait subi des pertes de 75 816 $ et de 41 323 $ pour ses exercices se terminant le 31 mars 1998 et le 31 mars 1999, respectivement. L’appelante a informé la Cour du fait que les pertes en question seront d’abord appliquées à son exercice se terminant le 31 mars 1996 et ensuite à ses revenus gagnés dans ses exercices se terminant le 31 mars 2000 et le 31 mars 2001, respectivement.
+Pénalités pour faute lourde [105] Les pénalités pour faute lourde imposées à chacun des appelants seront annulées. Seul Voula a omis de déclarer des revenus. Elle a omis de déclarer des revenus nets de 4 314 $. Les témoignages ont fait peu de cas des obligations d’épargne du Canada. À mon avis, l’intimée ne s’est pas acquittée du fardeau de la preuve qui lui incombait de démontrer les faits justifiant l’imposition de la pénalité pour faute lourde au titre du paragraphe 163(2) de la Loi relativement aux revenus non déclarés tirés des obligations d’épargne du Canada.
+Décision [106] Pour les motifs exposés ci‑dessus, les appels interjetés par chacun des particuliers appelants sont accueillis, avec dépens en faveur des appelants.
+[107] Les nouvelles cotisations datées du 18 mars 2008 concernant les années d’imposition 1997 et 1999 de Voula Danakas sont déférées au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que le revenu imposable de l’appelante pour chacune des années d’imposition en question était le revenu déclaré dans sa déclaration de revenus telle qu’elle avait été produite.
+[108] La nouvelle cotisation datée du 18 mars 2008 concernant l’année d’imposition 1998 de Voula Danakas est déférée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que le revenu imposable de l’appelante pour cette année d’imposition était le montant déclaré dans sa déclaration de revenus plus 4 314 $.
+[109] Les nouvelles cotisations datées du 18 mars 2008 établies à l’égard des années d’imposition 1997, 1998 et 1999 de Metaxia Weinkauf sont déférées au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que le revenu imposable de l’appelante pour chacune des ces années d’imposition était le revenu qu’elle avait déclaré dans sa déclaration de revenus telle qu’elle avait été produite.
+[110] La nouvelle cotisation datée du 3 octobre 2003 établie à l’égard de l’année d’imposition 1998 de Jason Weinkauf et la nouvelle cotisation datée du 18 mars 2008 concernant son année d’imposition 1999, sont déférées au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que le revenu imposable de l’appelant pour chacune de ces années d’imposition était le revenu qu’il avait déclaré dans sa déclaration de revenus telle qu’elle avait été produite.
+[111] Les nouvelles cotisations datées du 3 octobre 2003 concernant les années d’imposition 1998 et 1999 de Peter Danakas sont déférées au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que le revenu imposable de M. Danakas pour chacune de ces années d’imposition était le revenu qu’il avait déclaré dans sa déclaration de revenus telle qu’elle avait été produite.
+[112] Les nouvelles cotisations établies à l’égard des années d’imposition 1996, 1998, 1999, 2000 et 2001 de Hot Spot sont déférées au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que les pertes subies par l’appelante pour chacune de ses années d’imposition 1998 et 1999 étaient les pertes qu’elle avait déclarées dans sa déclaration de revenus telle qu’elle a été produite. Le solde du groupe des pertes autres que des pertes en capital de Hot Spot au début de son année d’imposition 1996 était de 18 850 $. Les pertes de Hot Spot seront d’abord appliquées à son année d’imposition 1996 et ensuite, dans la mesure où il demeure un solde dans le groupe, à ses années d’imposition 2000 et 2001, respectivement.
+[113] Toutes les pénalités pour faute lourde imposées à l’un ou l’autre des appelants sont annulées.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2014.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 8e jour de mai 2015.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2014 CCI 318
+No DU DOSSIER DE LA COUR : 2008-1348(IT)G, 2008-1347(IT)G, 2008‑2038(IT)G, 2008-2039(IT)G, 2008‑2040(IT)G
+INTITULÉ : HOT SPOT RESTAURANT INC c. SA MAJESTÉ LA REINE, LA SUCCESSION DE PETER DANAKAS c. SA MAJESTÉ LA REINE, VOULA DANAKAS c. SA MAJESTÉ LA REINE, MIA WEINKAUF c. SA MAJESTÉ LA REINE, JASON WEINKAUF c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATES DE L’AUDIENCE : Le 22 octobre 2012, du 2 au 5 décembre et du 9 au 12 décembre 2013
+MOTIFS DU JUGEMENT : L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT : Le 27 octobre 2014
+COMPARUTIONS :
+Avocat des appelants :
+Me Lawrence J. Litman
+Avocat de l’intimée :
+Me John Krowina
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Lawrence J. Litman
+Saskatoon (Saskatchewan)
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Témoignage de Voula Danakas, transcription à la page 45.
+[2] Ibid., à la page 243.
+[3] Témoignage de Jason Weinkauf, transcription aux pages 287 et 288.
+[4] Témoignage de Voula Danakas, transcription aux pages 76 et 143.
+[5] Témoignage de Darryl Dreger, transcription à la page 991.
+[6] Témoignage de Darryl Dreger, transcription à la page 997.
+[7] Pièces R34 et R35; témoignage de Darryl Dreger, transcription à la page 1001.
+[8] Pièces R6 et R13.
+[9] Pièce R36.
+[10] Témoignage de Darryl Dreger, transcription à la page 997.
+[11] Transcription de la procédure de détermination de la peine dans la décision Her Majesty the Queen v. Hot Spot Restaurant Inc., qui a été rendue le 18 avril 2006. Pièce R35.
+[12] Ibid., à la page 7.
+[13] Pièces R67 et R66.
+[14] Pièces R70 et R66.
+[15] Voir par exemple, le témoignage de Voula Danakas, transcription aux pages 48, 60 et 70.
+[16] Ibid., aux pages 161, 162, 163, 171 et 172.
+[17] Ibid., à la page 164.
+[18] Témoignage de Darryl Dreger, transcription à la page 1111.
+[19] Voir l’annexe B de la réponse.
+[20] Témoignage de Stravoula Danakas, transcription, 22 octobre 2012, à la page 56.
+[21] Pièce A45. Voir aussi le témoignage de Leo Georgopoulos, transcription, aux pages 521 à 526.
+[22] Pièce A1.
+[23] Pièce A4. Voir aussi le témoignage de Leo Georgopoulos, transcription, aux pages 521 à 526.
+[24] Pièce A45. Voir aussi le témoignage de Leo Georgopoulos, transcription, aux pages 521 à 526.
+[25] Pièce A3; témoignage de Stravoula Danakas, transcription, à la page 127.
+[26] Pièce A5.
+[27] 9 000 000 drachmes, au taux de change de 0,004946. Le taux de change est une moyenne des taux calculés sur les trois sites Web suivants : www.fxtop.com. www.oanda.com et www.xe.com.
+[28] Pièce A2; témoignage de Stravoula Danakas, transcription aux pages 123 et 124.
+[29] Voir par exemple, le témoignage de Stravoula Danakas, transcription, aux pages 141 à 143.
+[30] Pièce A50, à la page 7. Témoignage de Stravoula Danakas, transcription, à la page 141.
+[31] Pièce A50, à la page 2. Témoignage de Stravoula Danakas, transcription, à la page 142.
+[32] Pièce A50, à la page 5. Témoignage de Stravoula Danakas, transcription, aux pages 138 et 139.
+[33] Pièce A50, à la page 5, témoignage de Stravoula Danakas, transcription, à la page 140.
+[34] Témoignage de Mia Weinkauf, transcription, à la page 402.
+[35] Témoignage de Jason Weinkauf, transcription, à la page 321 et témoignage de Mia Weinkauf, transcription, à la page 403.
+[36] Témoignage de Jason Weinkauf, transcription, à la page 320 et témoignage de Mia Weinkauf, transcription, à la page 402.
+[37] Témoignage de Leo Georgopoulos, transcription, à la page 527 et témoignage de Mia Weinkauf, transcription, à la page 403.
+[38] Témoignage de Jason Weinkauf, transcription, à la page 321 et témoignage de Mia Weinkauf, transcription, aux pages 402 et 525.
+[39] Témoignage de Jason Weinkauf, transcription, à la page 322 et témoignage de Mia Weinkauf, transcription, à la page 403.
+[40] Témoignage de Jason Weinkauf, transcription, aux pages 322 et 355 et témoignage de Mia Weinkauf, transcription, à la page 403.
+[41] Témoignage de Jason Weinkauf, transcription, à la page 325 et témoignage de Mia Weinkauf, transcription, à la page 403.
+[42] Témoignage de Jason Weinkauf, transcription, à la page 323 et témoignage de Mia Weinkauf, transcription, à la page 403.
+[43] Témoignage de Jason Weinkauf, transcription, à la page 326 et témoignage de Mia Weinkauf, transcription, à la page 403.
+[44] Témoignage de Richard Weinkauf, transcription, à la page 539 et témoignage de Jason Weinkauf, transcription, à la page 320.
+[45] Pièces R66 et R67.
+[46] Pièce R66.
+[47] Pièces A19, A20, A21 et A22.
+[48] Pièce A48.
+[49] 248 448 $ – (50 % de 59 634 $).
+[50] Pièce R66.
+[51] Ibid.
+[52] Pièce R70.
+[53] Pièce R66, à la page 2.
+[54] Ibid.
+[55] Témoignage de Mia Weinkauf, transcription aux pages 405 et 406.
+[56] Témoignage de Mia Weinkauf, transcription à la page 407.
+[57] Pièce A48.
+[58] Pièces A19, A20, A21, A22 et A23.
+[59] Un rajustement a été effectué par le ministre pour les pertes que Hot Spot a tenté d’appliquer afin de réduire ses impôts. Voir le témoignage de Darryl Dreger, transcription, aux pages 1222 à 1224.
+[60] Témoignage de Darryl Dreger, transcription, à la page 1224.
+[61] Pièce R65.
+[62] ((500 787 $ + 96 877 $) – 410 682$)/410 682 $.
+[63] Témoignage de Phil Szysky, transcription, aux pages 957 et 958.
+[64] Annexe B de la réponse.
+[65] Témoignage de Darryl Dreger, transcription, à la page 1091.
+[66] Réponse, au paragraphe 13r); pièce R36.
+[67] Pièce R36.
+[68] 2012 CAF 214, au paragraphe 63.
+[69] Témoignage de Mia Weinkauf, transcription, à la page 461.
+[70] Ibid., à la page 579.
+[71] Pièce R7.
+[72] Pièce R6.
+[73] Voir par exemple, le témoignage de Mia Weinkauf, transcription, à la page 417.
+[74] Ibid., aux pages 421, 564 et 565.
+[75] Ibid., aux pages 421 et 422.
+[76] Ibid., aux pages 513 et 710.
+[77] Témoignage de Phil Szysky, transcription, à la page 774. Voir aussi la pièce R7, à la page 3, qui montre des relevés bancaires saisis par l’ARC.
+[78] Ibid., aux pages 784 à 786.
+[79] Ibid., aux pages 942 à 944; pièce R30, à la page 29.
+[80] Voir la pièce A38, aux pages 9 et 13.

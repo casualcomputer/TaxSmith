@@ -1,0 +1,230 @@
+---
+title: "Cayer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22432/index.do"
+last_modified: "2007-03-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 136"
+citation2: ""
+neutral_citation: "2007 TCC 136"
+decision_date: "2007-03-15"
+language: "en"
+item_id: "22432"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2223
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:18:14.618000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6f769e65de8a50443b2f007838d19599dde1efa522d26439bb8af780ab1913b6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cayer v. The Queen
+
+- Citation: 2007 TCC 136
+- Decision date: 2007-03-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2223, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cayer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-15
+Neutral citation
+2007 TCC 136
+File numbers
+2005-1351(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1351(IT)G
+BETWEEN:
+BRIDGETTE CAYER,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on December 5, 6 and 7, 2006 at Ottawa, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Kenneth Bickley
+Counsel for the Respondent:
+Ronald MacPhee
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2001 and 2002 taxation years are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of March 2007.
+"Diane Campbell"
+Campbell J.
+Citation: 2007TCC136
+Date: 20070315
+Docket: 2005-1351(IT)G
+BETWEEN:
+BRIDGETTE CAYER,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+CampbellJ.
+[1] This is an appeal in respect to assessments under the Income Tax Act (the "Act") for the Appellant's 1999, 2000, 2001 and 2002 taxation years.
+[2] At the outset of the hearing, the Appellant agreed to withdraw her appeal in respect to the 1999 and 2000 taxation years. Therefore, this appeal concerns the 2001 and 2002 taxation years. The result is that only two issues remain:
+- Whether the Appellant's profits from the sale of three residential properties should be characterized as income from business and taxable under subsection 9(1), or as capital gains and exempt as principal residences by virtue of paragraph 40(2)(b); and
+- If the profits are characterized as income from business, whether penalties charged under subsection 163(2) are appropriate in the circumstances.
+[3] If I find that the Appellant's profits constitute income from business, the parties have agreed that the assessed profit amounts should be adjusted as follows:
+2001
+2002
+Original profit assessment
+$166,329
+$121,616
+Adjusted profit assessment
+$125,541
+$86,547
+Characterization of the profits
+[4] Whether property sales will be income from business or exempt capital gains is purely a question of fact. To make that determination, all of the surrounding circumstances must be reviewed.
+[5] The Appellant is a single mother of three. Other than a few rare exceptions, she has not been employed for twenty-some years. The primary source of income, which she reported on her tax returns from 1993 to 2002, was social assistance. It would appear that she is now receiving provincial disability support.
+[6] Despite this limited reported income, the Appellant has been buying, building or renovating, and then selling properties valued at between $300,000 and $400,000. This appeal deals specifically with three such properties, bought and sold over a period of twenty-six months: 38 Balding Crescent in Kanata ("Balding"), 19 Stonecroft Terrace in Kanata ("Stonecroft") and 35 Franklin Cathcart Crescent in Stittsville ("35 Franklin"). However, these three transactions cannot be viewed in isolation. They must be understood in the context of related events that occurred both before and after this period.
+[7] From the late 1980s until the early 1990s, the Appellant and her husband owned a construction company, Brickton Construction Inc. ("Brickton"). They were each 50% shareholders and, at least initially, they were both directors. It is not clear from the evidence whether the Appellant continued to hold that corporate office, or any other, throughout the life of the corporation.
+[8] During its existence, Brickton built and sold somewhere in the neighbourhood of seven homes. However, Brickton never reported any income and in the early 1990s, the corporation was audited by the Canada Revenue Agency ("CRA"). Because no records were kept, the CRA issued assessments against the Appellant and her husband for appropriation of the corporation's profits.
+[9] It would appear that the Appellant's husband was responsible for the physical construction activities of the corporation, while the Appellant handled the administrative duties. The Appellant suggested that her role was very minimal, stating that "All I -- I was trying to, as I said, was organize whatever receipts my ex-husband brought home" (transcript p. 193, lines 10-11). However, I am not convinced by the Appellant's assertions and I believe that her statements were merely attempts to downplay her role in Brickton. The CRA auditor, Gaétan Lafleur, testified that the Appellant was the "contact person" (transcript p. 500, line 8 and p. 513, line 5) and was "involved in both the maintenance of the company's records and had sufficient knowledge of her records and their relationship to her return" (Ex. A-3, p. 469). Despite the fact that she did not swing a hammer, I conclude that, as a shareholder and director of Brickton, she was actively engaged with her husband in building residential properties for sale.
+[10] In 1993, Brickton ceased operations and the Appellant and her husband separated. Over the next seven years, the Appellant continued her real estate activities and on her own bought and sold five residential properties.
+[11] At the time of her separation, she owned 10 Holly Ridge Crescent in Stittsville. She sold it in September 1994 for $320,000, after owning it for a year and a half, because "it was my marital home, and we were split up" (transcript p. 221, line 1) and "I couldn't carry it myself" (transcript p. 223, line 2).
+[12] She then purchased 14 Fourth Avenue in Stittsville, in September 1994 for $220,000 because she wanted "a home for my children to live in, that they could go to the same school they were in, and didn't feel like their lives were being so disrupted" (transcript p. 225, lines 3-6). She sold it in September 1996 for $227,000 because "I couldn't afford it" (transcript p. 82, line 13) and "I felt kind of odd about being on Fourth Avenue, because I was the only single parent around the area, and I didn't feel comfortable there" (transcript p. 84, lines 2-4).
+[13] She then purchased 28 Sherring Crescent in Kanata, in November 1996 for approximately $160,000 because "It was a smaller house. More affordable to me" (transcript p. 83, lines 21-22) and "because my sister lived there, and my mother was closer in Bells Corners. It was less expensive than what I was carrying now" (transcript p. 225, lines 9-11). She sold it in November 1997 for $202,500 because of "my brother-in-law offering me this lot up the road, and saying he would help me build a home" (transcript p. 225, line 25 to p.226, line 1).
+[14] Before the sale of 28 Sherring Crescent, she purchased the lot at 78 Sherring Crescent in Kanata for $55,000 in September 1997, where she built her first home subsequent to the separation from her husband. She sold it for $275,500 on September 26, 2000 claiming that "I felt uncomfortable living there" (transcript p. 227, lines 6-7) because of disputes with her neighbours, saying that "over the 3 years I never spoke to him, and it was just difficult living beside him. I had had enough of it" (transcript p. 93, lines 18-20) and that "I really didn't want anything to do with him. I just wanted to leave" (transcript p. 94, lines 23-24). She claimed that she left that property "thinking that eventually I would like to build another property" (transcript p. 228, lines 15-16). (emphasis added)
+[15] We are now at the period of time under appeal. The following table details the chronology of the three relevant transactions.
+Balding
+Stonecroft
+35 Franklin
+Date of purchase agreement
+27-Aug-2000
+10-Sep-2000
+13-Sep-2001
+Date of closing
+27-Sep-2000
+7-Nov-2000
+1-Oct-2001
+Purchase price
+$324,300
+$49,500
+$46,000
+Date of building permit
+n/a
+21-Nov-2000
+10-Sep-2001
+Occupancy date
+n/a
+29-Mar-2001
+17-Jan-2002
+Date listed for sale
+24-Oct-2000
+8-Jun-2001
+26-Apr-2002
+Date of sales agreement
+1-Nov-2000
+22-Aug-2001
+12-Jun-2002
+Date sold
+30-Mar-2001
+2-Nov-2001
+15-Oct-2002
+Saleprice
+$395,000
+$335,000
+$338,000
+[16] I will deal first with Balding. The Appellant claims that she was under pressure to find a new property. She said "I had a very short closing on the house. The people were from out of town who bought Sherring. I had a very limited time in which to buy. There was very little on the market at the time. I even looked into renting. The rentals were phenomenal. So, I wanted to stay in the same area of schools for my children, and that was the only house that was available." (transcript p. 96, line 23 to p. 97, line 5) Further, she said "It was more than I could afford when I bought it. But, since there was nothing else -- " (transcript p. 98, lines 9-10).
+[17] She immediately started to make extensive renovations to Balding including changing the flooring, replacing the kitchen counters and painting the walls. She claimed "I had intention, yes, of staying there" (transcript p. 230, lines 24-25), "Not for life" (transcript p. 231, line 5), "I wasn't sure how long. But, I certainly wasn't intending to move in and move out" (transcript p. 231, lines 10-11). When counsel questioned her concerning statements she made on examination for discovery specifically when she stated "I never had the intention of staying there" (transcript p. 235, lines 6-7), the Appellant responded "I should have worded this differently. It was never my intention of staying there forever, because I wanted to build another home" (transcript p. 235, lines 23-25).
+[18] Looking at the chronology, she purchased Balding on September 27, 2000, renovated it, and then listed the property for sale on October 24, 2000, less than one month later. She stated that it was "more expensive than I could handle. It costs -- my mortgage was high, and it wasn't really to my taste. It was big. It had a big walkout basement" (transcript p. 99, lines 12-15).
+[19] In reality, she had already signed a purchase agreement for the Stonecroft lot on September 10, 2000, well before she had moved into Balding. Once she had secured a buyer for Balding, she immediately began the construction of Stonecroft. In planning the layout for Stonecroft, the Appellant said she considered the fact that her boyfriend Rodney Phillips would be moving in with her, and modified the plans to accommodate Mr. Phillips' two daughters. They moved into the completed home at the end of March 2001.
+[20] In June 2001, Mr. Phillips moved out, and according to the Appellant this prompted her to list Stonecroft for sale. She said "I put the house the up for sale because I just wanted to get out of there. I felt very ashamed in the little area I was in" (transcript p. 108, lines 11-13). She also said "I had been missing my son because he was gone. He was at school in Stittsville" (transcript p. 108, lines 9-10) and "I just wanted to go back to Stittsville so my kids could all be in school together. I had always felt very upset that he -- we were divorced, it didn't mean that my children had to be divorced from each other either" (transcript p. 108, lines 16-21).
+[21] She sold Stonecroft on November 2, 2001. Part of the purchase agreement was a one-year "Builders Warranty" (Ex. R-1, tab 31) which stipulated that as the builder, the Appellant warranted the property against certain defects including the foundation, wiring and plumbing.
+[22] In the meantime, she purchased the 35 Franklin lot on September 13, 2001 and started construction shortly thereafter. By Christmas 2001, apparently the Appellant and Mr. Phillips had reconciled. She claimed they again began discussing how their families could live together and they decided that the house was not quite suitable. "So, we looked at -- wondered if we could change that house that I had just built and make the upstairs bigger to accommodate all of our children, which would be every weekend definitely five, and most of the time four" (transcript p. 119, lines 12-16).
+[23] She purchased the lot across the street at 39 Franklin Cathcart Crescent ("39 Franklin") on March 8, 2002. She said "I decided -- well, we actually, but it was my idea to build a house, the same plan, but making those changes so that we could live there as a family with all of our children" (transcript p. 121, lines 9-12). She then listed 35 Franklin for sale on April 26, 2002.
+[24] On May 22, 2002, she also listed the vacant lot at 39 Franklin for sale. The Appellant characterized the listing of this property as a marketing strategy that would assist in the sale of 35 Franklin but that it was not actually for sale. However, the realtor's evidence clearly contradicted the Appellant's evidence when he testified that 39 Franklin was listed for sale and in fact could be sold. The listing for 39 Franklin referred to the builder as "Cayer Const." and described the property as "New home to be built. To see model (also for sale MLS # 518949) call L.A. Builder will customize to purchaser's specifications - will also build a bungalow if desired. Wonderful opportunity to design your own dream home on a quiet cres close to walking trails" (Ex. R-1, tab 40). She testified that all of these tactics, including the use of a corporate name to sell the property, were marketing strategies suggested by her realtor.
+[25] On October 15, 2002, she sold 35 Franklin. Again, part of the purchase agreement was a one-year "Builders Warranty" (Ex. R-1, tab 27) which stipulated that as the builder, the Appellant warranted the property against certain defects including the foundation, wiring and plumbing.
+[26] The Appellant moved into the newly constructed home, on the formerly vacant lot at 39 Franklin on October 16, 2002. On January 10, 2003, less than three months later, she agreed to sell this property. Again, part of the purchase agreement was a one-year "Builders Warranty" (Ex. R-1, tab 55) which stipulated that as the builder, the Appellant warranted the property against certain defects including the foundation, wiring and plumbing. Although 39 Franklin is not one of the properties at the heart of this appeal, it does demonstrate the Appellant's continuing real estate activities and provides yet another example of the contradictory nature of her testimony when compared to other witnesses.
+[27] Between the summer of 2002 and early 2003, the Appellant agreed to purchase three more lots on Franklin Cathcart Crescent:
+(1) 58 Franklin - she agreed to purchase the property on August 16, 2002 (Ex. R-1, tab 45) and still owns it, although it too has been previously listed for sale;
+(2) 31 Franklin - she agreed to purchase the property on January 31, 2003, however the sale was not completed because she assigned the contract to a third party on April 30, 2003 (Ex. R-1, tab 60); and
+(3) 44 Franklin - she agreed to purchase the property on February 5, 2003 and still owns this "investment" (transcript p. 281, line 3).
+[28] In addition to all of the foregoing circumstances, it is noteworthy that the Appellant, who had a real estate license, was, according to Laura Schwartz's evidence, a successful salesperson for Tamarack Developments Corporation for approximately 13 months. She described the Appellant as being very good in the business as she was able to sell several lots which were difficult to sell. It is also interesting that the Appellant provided builders warranties on Stonecroft, 35 Franklin and 39 Franklin for a time period, I believe, of one year. According to the realtor's evidence it was to enable her to compete in selling her properties with builders in the neighbourhood. However, several of the purchasers gave evidence that they did call upon the Appellant in respect to these warranties. Lastly, it is quite telling that, based on the Appellant's previous real estate activities and experience, Mr. Phillips testified that he wanted to be involved in a construction business with her.
+[29] The case most regularly cited as authority in this area is Happy Valley Farms Ltd. v. The Queen, [1986] 2 C.T.C. 259, 86 DTC 6421 (F.C.T.D) ("Happy Valley"). In 2003, the Federal Court of Appeal affirmed, in Isaaks v. The Queen, [2003] 4 C.T.C. 183, 2003 DTC 5494 (F.C.A.), that this authority is still valid. Happy Valley suggests that there are six factors to consider when attempting to distinguish between capital gains and income in the context of a "principal residence" claim under paragraph 40(2)(b) of the Act:
+- the nature of the property sold,
+- the length of time the property was owned,
+- the frequency or number of other similar transactions,
+- the amount of work or effort expended on the property,
+- the reason why the property was sold, and
+- the taxpayer's intentions at the time the property was acquired.
+[30] The nature of the property sold - All the properties were either built or refurbished in new development areas where properties were turning over quickly and all properties appeared to contain features that would appeal to prospective buyers. This factor supports the Respondent's position that the Appellant was engaged in the business of selling properties for profit.
+[31] The length of time the property was owned - The three homes were owned for a very short period of time. However, what is even more telling is the amount of time between the possession or occupancy date when the Appellant could actually move into the properties and the date that she listed them for sale: Balding - four weeks, Stonecroft - ten weeks, and 35 Franklin - fourteen weeks. Further, when you consider how these purchases overlap each other, it is clear they were never intended to be held for any great length of time. In my view, these extremely short periods of time are critical here, as they are indicative of business inventory, not principal residences.
+[32] The frequency or number of other similar transactions - As a director of Brickton, the Appellant had been involved in the construction of at least seven residential properties for sale. Following that, in less than ten years, she bought eleven properties. As for the three properties in this appeal, it is certainly noteworthy that all three properties had similar characteristics. They were all high-end residential homes, worth between $300,000 and $400,000, located in new, desirable neighbourhoods. They all had very similar features, such as hardwood floors, nine foot ceilings and solid wood cabinetry. I also cannot ignore the fact that she purchased five lots on Franklin Cathcart Crescent. Two of the houses she built on that street used almost the identical building plan and were sold for the exact same amount. The Appellant suggests that this similarity is explained simply because they were all built according to her personal taste. In my view, the houses were all similar because she insisted upon incorporating highly marketable features for quick resale in order to maximize her returns.
+[33] The amount of work or effort expended on the property - The Appellant claimed that any effort she expended on the properties was to make them more suitable for her and her family's requirements. She said that each home that she built was tailored uniquely to her tastes. For example, she suggested that she chose vivid paint colours to match her furniture and linen, which would not necessarily be attractive to potential buyers (Appellant's Notice of Appeal, paragraph 13). However, in his testimony the purchaser of 35 Franklin described "primarily a variety of different earth tone-type colours, greens and tans, and yellows and browns, and things like that" (transcript p. 373, lines 6-8) and denied that there were any "shockingly eccentric" rooms (transcript p. 373, lines 9-10). As well, by her own admission, the Appellant used a number of different marketing strategies to sell her properties. She gave builders warranties to the purchasers of her properties. She said that she listed both 35 and 39 Franklin at the same time as a strategy to sell 35 Franklin. She used the name "Cayer Construction" since other houses for sale in the neighbourhood were being sold by builders. Whether the idea to do these things came from her, her realtor or the purchasers' realtors is, in my view, irrelevant. She agreed to adopt the strategies in an attempt to sell her properties. Her choices in designing and selling the properties all indicate an intention to appeal to a large market, for the purpose of maximizing her returns.
+[34] The reason why the property was sold - The Appellant suggested a number of different reasons for why she sold the properties: too big, too small, too expensive, too far, and too emotional, to name a few. I am not convinced by her self-serving testimony in this regard. She moved into the properties because she believed this was the only way she could sell them without running afoul of the new home warranty program: "If I build a home, I would have to live in it" (transcript p. 255, lines 1-2). She moved out of them once she had secured a buyer. While there may be small grains of truth in her convenient excuses, in my view, and in light of the evidence as a whole, they were not the primary reasons why she sold the properties. She sold the properties because she was in the business of selling residential properties.
+[35] The taxpayer's intentions at the time the property was acquired - The Appellant suggested that her purpose in buying all these properties was to make a home for her children. This contention defies all logic when you consider that she listed the properties for sale after four, ten and fourteen weeks. She also used lines of credit to pay for these projects, which required only payments on the interest, not on the principal. In my view, this makes it quite clear that she never entertained any long-term plans to remain in these properties except for a brief sojourn while making plans to resell. When questioned about repayment of the loans, she said that "it was just cheaper for me to be -- and easier for me to handle it at that time" (transcript p. 246, lines 22-23). In reality, this short-term financing kept her overhead low while anticipating a quick resale. I must conclude that her primary intention in buying these properties was to sell them at a profit as soon as she could.
+[36] These facts are clear and there can be no other conclusion. The Appellant was engaged in the business of selling residential properties. Her profits from the sale of Balding, Stonecroft and 35 Franklin should be characterized as income from business.
+Gross negligence penalties
+[37] Subsection 163(2) permits the Minister to impose a penalty on a taxpayer who has either knowingly, or under circumstances amounting to gross negligence, made, participated in, assented to or acquiesced in the making of, a false statement or omission on an income tax return. The classic case for determining whether a taxpayer has acted in a way to warrant an assessment under subsection 163(2) is Venne v. The Queen, [1984] C.T.C. 223, 84 DTC 6247 (F.C.T.D.) ("Venne").
+[38] In interpreting subsection 163(2), courts have consistently held that "there appears to be a higher degree of culpability required, involving either actual knowledge or gross negligence" (Venne at paragraph 6). This is so because "the sub-section in question is a penal provision and it must be interpreted restrictively so that if there is a reasonable interpretation which will avoid the penalty in a particular case that construction should be adopted" (Venne at paragraph 34).
+[39] I conclude that penalties are appropriate in this case and the reasons are numerous. The Appellant's history and involvement with a previous CRA audit exposed her to the potential tax consequences that can arise in property sales from not properly reporting. She failed to report sales commissions earned at Tamarack Developments Corporation from April to July 1999 and intentionally attempted to conceal this income by requesting that her commissions be paid by one cheque made out to her father which she cashed through his account. She failed to report further commission income in 2000 received from Monarch Homes. She failed to declare income earned on the purchase and sale of shares of Unique Broadband Systems. She did not pay real property taxes until she was required to do so when properties sold. All of these actions, in addition to her former criminal conviction for welfare fraud, point to the Appellant's penchant to earn income but not to pay taxes.
+[40] Further, in giving her testimony, the Appellant was consistently inconsistent and generally tried to blame any discrepancies on other people. There are many instances where in the evidentiary documentation she describes herself as a builder, contractor or self-employed. These documents included the builders warranties, an MLS listing, the occupancy and building permits, banking documentation for vehicle purchases and a direct trading account application. In a number of these documents she listed her income as $70,000 yearly and $7,500 monthly. All of this occurred while the Appellant was receiving social assistance. It is remarkable that the Appellant could expect to come to Court in light of this evidence and ask that I accept her testimony that she is not a builder.
+[41] This is just part of what I would characterize as a pattern of avoidance at best, deception at worst. No one act in this long list has any greater weight than any other. It is when they are all viewed together with the evidence as a whole, that the pattern of intentional and deceptive behaviour is revealed. When asked whether she knew there were tax issues surrounding the building and selling of these homes, she responded "No, not on the way I was doing this" (transcript p. 342, line 14). In my view the Appellant acted intentionally, deliberately and strategically in her attempts to conceal her profits on these properties from the CRA and thus gross negligence penalties under subsection 163(2) are appropriate.
+Disposition
+[42] The Appellant's profits from the sale of Balding, Stonecroft and 35 Franklin will be characterized and treated as income from business and therefore taxable under subsection 9(1). This is clearly a text book case for the imposition of penalties. The Appellant was "flipping" properties and moving her children from property to property within short periods of time in a thinly disguised attempt to conceal her business activities in order to avoid paying taxes.
+[43] The appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 15th day of March 2007.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2007TCC136
+COURT FILE NO.:
+2005-1351(IT)G
+STYLE OF CAUSE:
+Bridgette Cayer and
+Her Majesty the Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATES OF HEARING:
+December 5, 6 and 7, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+March 15, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Kenneth Bickley
+Counsel for the Respondent:
+Ronald MacPhee
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Kenneth Bickley
+Firm:
+Barnes Sammon LLP
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,180 @@
+---
+title: "St. Benedict Catholic Secondary School Trust v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/488005/index.do"
+last_modified: "2020-11-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 109"
+citation2: ""
+neutral_citation: "2020 TCC 109"
+decision_date: "2020-11-02"
+language: "en"
+item_id: "488005"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4640
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:01:42.154000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "148ae5124805a81dc704e935cb3654f5e6ca698677d64a1db5f1c005583d6cdd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# St. Benedict Catholic Secondary School Trust v. The Queen
+
+- Citation: 2020 TCC 109
+- Decision date: 2020-11-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4640, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St. Benedict Catholic Secondary School Trust v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-11-02
+Neutral citation
+2020 TCC 109
+File numbers
+2018-3416(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-3416(IT)G
+BETWEEN:
+ST. BENEDICT CATHOLIC SECONDARY SCHOOL TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 2, 2020, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Justin Kutyan
+Kristen Duerhammer
+Counsel for the Respondent:
+Diana Aird
+Anne Shirley LeBel
+JUDGMENT
+The appeal from the Minister of National Revenue’s reassessments under the Income Tax Act concerning the Appellant’s 2014, 2015 and 2016 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of November 2020.
+“Robert Hogan”
+Hogan J.
+Citation: 2020 TCC 109
+Date: 20201102
+Docket: 2018-3416(IT)G
+BETWEEN:
+ST. BENEDICT CATHOLIC SECONDARY SCHOOL TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Overview
+[1] The Appellant, St. Benedict Catholic Secondary School Trust (“St. Benedict”), appeals from the reassessments of income tax for the 2014, 2015 and 2016 taxation years.
+[2] The Appellant is a trust whose sole beneficiary is the Waterloo Catholic District School Board. The Appellant has a taxation year ending on December 31. In filing its tax returns for the 1997 through 2003 tax years, the Appellant claimed capital cost allowance (“CCA”) for Class 13 depreciable property (the “Class 13 Property”). The Minister of National Revenue (the “Minister”) issued notifications that no tax was payable (“Nil Assessments”) in respect of the Appellant’s 1997 to 2003 taxation years. The Appellant reported non-capital losses (“NCLs”) for each of those taxation years (the “1997 to 2003 NCLs”).
+[3] In filing its tax returns for the 2014, 2015 and 2016 taxation years, the Appellant sought to deduct the remaining balance of the 1997 to 2003 NCLs. The Minister reassessed the Appellant because the 2014, 2015 and 2016 taxation years were beyond the time that the losses could be carried forward. The Appellant accepts that the 1997 to 2003 NCLs have expired. However, the Appellant now says it incurred a loss in 2017 that can be carried back to offset the additional income tax assessed for the 2014, 2015 and 2016 taxation years.
+[4] In 2017 the Appellant disposed of the Class 13 Property, which was St. Benedict’s interest in the St. Benedict Catholic Secondary School and surrounding land, for proceeds of disposition of $1. The Appellant alleges that it realized a terminal loss of $3,491,899 in connection with the disposition of this property. The NCL that the Appellant now seeks to carry back is wholly attributable to the terminal loss claimed by the Appellant.
+[5] The Appellant calculated the terminal loss at issue using an adjusted undepreciated capital cost (“UCC”) balance of $3,491,900. The Minister claims that the UCC balance of the Class 13 Property was only $679,683 at the relevant time because the Appellant claimed CCA deductions that totalled $5,664,069 for the Class 13 Property when it filed its tax returns for the 1997 through 2003 taxation years (the “Initial CCA Claim”).
+[6] The Appellant does not dispute that it made the Initial CCA Claim. Instead the Appellant contends that it is entitled to unilaterally adjust its Initial CCA Claim downwards by $2,812,217 (the “Adjustment”) because the Minister issued the Nil Assessments for all relevant taxation years.
+II. Statement of Agreed Facts
+[7] The facts are not in dispute in this appeal. The parties’ statement of agreed facts is reproduced below for ease of reference.
+III. Issue
+[8] The issue in this appeal is whether the Appellant can unilaterally adjust its Initial CCA Claim downwards to increase the amount of the terminal loss for its 2017 taxation year. If the Appellant is entitled to make the Adjustment, the Appellant’s appeal should be allowed. If not, the Appellant’s appeal should be dismissed.
+IV. Position of the Parties
+A. Appellant’s Submissions
+(1) The Appellant observes that a taxpayer may choose to deduct all or part of the CCA available for a taxation year subject to the maximum amount available to be claimed. The Appellant alleges that the rules that govern the CCA regime were drafted to provide the utmost flexibility. The rules were meant to accommodate the adjustment of initial CCA claims in the circumstance described above.
+(2) The Appellant observes that it is well established that a nil assessment does not fix the components of a taxpayer’s income or taxable income. Therefore, a taxpayer is not bound by the CCA deductions claimed in tax returns filed for taxation years that involve nil assessments. According to the Appellant, CCA claims are only fixed by an assessment or a loss determination.
+B. Position of the Respondent
+(1) Unsurprisingly the Respondent defends the contrary view. According to the Respondent, the formula provided in the Income Tax Act (“the Act”) to calculate a terminal loss requires a taxpayer to take into account all CCA claimed in respect of prior taxation years. That requirement is imposed by the definition of “total depreciation”, which refers to an “amount deducted by the taxpayer under paragraph 20(1)(a)… in computing the taxpayer’s income for taxation years ending before that time”.
+V. Analysis
+[9] For the reasons that follow, I disagree with the Appellant’s position.
+[10] The definition of “UCC” is at the heart of the CCA regime. This definition is based on a formula provided to determine the UCC balance of depreciable property of a prescribed class at a particular time.
+[11] The formula takes into account the factors that affect the determination of the UCC balance at a particular time. Simplified, the UCC balance is the amount by which the capital cost of depreciable property of the class exceeds the sum of (i) the CCA claimed in prior taxation years, and (ii) the proceeds of disposition of properties up to their original capital cost. [1]
+[12] The UCC balance is used to set the maximum amount of CCA that may be claimed by a taxpayer in respect of the property for a particular taxation year.Because a taxpayer determines how much CCA is deducted in a year, the formula used to determine the UCC balance is based on the amount deducted by the taxpayer under paragraph 20(1)(a) before that time. In this regard, variable E of the formula refers to “the total depreciation allowed to the taxpayer… before that time”. In turn, the expression “total depreciation” is defined as “the total of all amounts each of which is an amount deducted by the taxpayer under paragraph 20(1)(a) in computing the taxpayer’s income” for the year.
+[13] Schedule 8 tracks the CCA that a taxpayer deducts as well as the remaining UCC balance. A taxpayer must file Schedule 8 with their annual income tax return to track the CCA deducted in respect of a year.
+[14] Once a taxpayer claims a deduction for CCA under paragraph 20(1)(a), variable E of the formula operates on a purely mechanical basis. The amount of CCA deducted by a taxpayer on a discretionary basis is automatically subtracted from the UCC balance at the end of the particular taxation year.
+[15] A terminal loss is determined by taking into account the same factors used to determine the UCC balance of depreciable property at a particular time. Simplified, a terminal loss arises when the total CCA claimed by a taxpayer, is less than the actual decline in value of all of the property of the class, determined when the last property of the class has been sold.
+[16] Under the CCA regime, Parliament conferred on the Appellant discretion to fix the amount of its Initial CCA Claim. The Appellant exercised its discretion when it filed its tax returns for the 1997 through 2003 taxation years. The exercise of discretion entails the possibility of risks and rewards. I surmise that the Appellant weighed the pros and cons when it made its Initial CCA Claim. The Appellant chose to claim, for most of the taxation years at issue, the maximum CCA available presumably because the Appellant anticipated that it would use the 1997 to 2003 NCLs within the carry-forward period. The Appellant have would gained a timing benefit had this been the case.
+[17] Things have not worked out as expected. The Appellant has been prejudiced by its choice because the 1997 to 2003 NCLs expired before they could be fully used. It now seeks to adjust its Initial CCA Claim after the fact. This is not the result that Parliament intended. What the taxpayer proposes appears to me to be unilateral retroactive tax planning.
+[18] The Appellant claims that there is no tax leakage in the above scenario, that the CCA regime operates as intended, and that it benefits from the CCA in the same way as it would have had it been left in the CCA pool in the first place. This is not true because it ignores the impact of the loss carry-forward limitations. When losses expire, they are forfeited. In such a case, taxpayers lose the benefit of all expenses, whether discretionary or not, which make up the balance of the NCL that has expired.
+[19] The Appellant’s interpretation of the law, if correct, has broad implications under the Act. The Act provides for a number of special regimes that allow expenses to be accumulated and deducted in a manner similar to CCA. [2] Like CCA, expenses are accumulated in a pool and are deducted on a discretionary basis. Expenses can be carried forward indefinitely subject to the application of the change of control restrictions. Under these regimes, taxpayers are afforded discretion to regulate their income. Like the CCA regime, once a taxpayer chooses to claim an expense as a deduction in the calculation of income, the amount reduces the balance of the expenses that remain to be deducted in the future. In all of these cases, the Minister is advised of the amount that a taxpayer has chosen to deduct in both the tax return and the relevant schedule filed by the taxpayer in respect of the year.
+[20] Under the Appellant’s theory, a taxpayer could claim the maximum amount of all discretionary deductions that are calculated on a pool basis each year to maximize the amount of losses available for carry-forward. [3] If the carry-over period expires, a taxpayer could unilaterally pick and choose which discretionary deductions would be adjusted downward to avoid the impact of this rule. Presumably, in such a case, taxpayers would seek to restore deductions that are subject to the quickest write-off in the future. Scientific research and experimental development deductions are a good candidate because the amount of expenses that are reversed and returned to the pool would be fully deductible the following year. This result would be extremely difficult for the Canada Revenue Agency to audit. As a matter of effective tax administration of our self-assessment system, I have difficulty imagining that Parliament intended such a result.
+[21] The Appellant cites a number of cases in support of its position. A closer look at the context in which these cases were decided is merited here.
+[22] In Aallcann [4] the Court recognized that a taxpayer may dispute the nature of revenue received that was relevant to the determination of a loss carry-forward from an earlier taxation year. On this point, Judge Bowman held:
+In the absence of a binding loss determination under subsection 152(1.1), it is open to a taxpayer to challenge the Minister’s calculation of a loss for a particular year in an appeal for another year where the amount of the taxpayer’s taxable income is affected by the size of the loss that is available for carry forward under section 111. [5]
+[Emphasis added]
+[23] In Aallcann, the matter concerned the proceeds received from the sale of a contract. The taxpayer claimed that the proceeds were received on capital account. The Minister assessed on the basis that the amount was an income receipt.
+[24] The determination of the nature of a gain is a mixed question of fact and law. Colloquially speaking, once the facts are determined, a receipt is what it is under the law.
+[25] Both parties acknowledge that the Appellant correctly computed the amount of its Initial CCA Claim. The Minister was advised of the Appellant’s choice in this regard when the Appellant filed its tax returns for the relevant taxation years. The sole issue here is whether the Appellant can unilaterally adjust its Initial CCA Claim for the purpose of increasing its terminal loss.
+[26] The Appellant also relies on the decision in Clibetre Exploration Ltd. v. Canada, 2003 FCA 16. The Appellant claims that the facts of the case are similar to the facts at hand.
+[27] In that case, Clibetre requested that expenses that were deducted by it as ordinary expenses be treated as Canadian exploration expenses (“CEE”).
+[28] The taxation year at issue was 1996. The expenses were deducted by the taxpayer in the determination of losses subject to a seven-year carry-forward limitation. The losses could not be used to offset Clibetre’s 1996 taxable income. By treating the expenses as CEE, the expenses would be added to the CEE pool, increasing the amount that could be deducted at any time. The Tax Court Judge decided that Clibetre could not treat the expenses as CEE because doing so would have required a reassessment of the taxation years for which the losses arose. Those taxation years were beyond the normal limitation period.
+[29] On appeal, the Federal Court of Appeal (“FCA”) decided otherwise on the basis that “the taxable income and thus the tax payable for each of those years would be nil whether the expenses for the year are claimed as deductions in computing a non-capital loss, or treated as Canadian exploration expenses”. Procedurally, the FCA decided that there was no statutory bar to treating the expenses as CEE.
+[30] Although not directly stated, it is implicit from the FCA reasons that the issue as to whether or not expenses qualify as CEE is a mixed question of fact and law. Once the facts are established, it is simply a matter of statutory interpretation to determine whether an expense falls within that category. The fact that the taxpayer treated the expenses as ordinary expenses is irrelevant to that determination. In other words, expenses are CEE or not depending on whether they fall within the definition of “CEE” provided for in the Act. If they do, the expenses are accumulated in a pool and deducted on a discretionary basis. Clibetre stands for the proposition that neither the taxpayer nor the Minister is bound by a mistake made regarding the tax treatment of expenses.
+[31] As a final observation on that case, I believe the outcome would have been different had the taxpayer properly included the expenses in the CEE pool at the outset and then claimed a deduction from the pool. This was not done. Unlike this case, it is clear from the facts that the taxpayer did not treat the expenses as such.
+[32] In conclusion, after review, I am of the opinion that all of the cases cited by the Appellant are factually distinct from and not germane to the issue at hand.
+[33] Lastly, the Respondent observes that the Act provides that tax elections cannot be unilaterally vacated, amended or changed by taxpayers. There are specific provisions in the Act that prescribe when and how such actions may be taken. The Appellant argues that the Act is, at best, silent on how claims for discretionary deductions such as CCA may be varied and that in this light, therefore, an inference should be drawn that taxpayers are free to make such changes provided they do not have an impact on the amount of income tax payable by a taxpayer for a prior year. My interpretation of the relevant provisions and the CCA regime as a whole does not allow me to draw such an inference.
+VI. Conclusion
+[34] For all of these reasons, the Appellant’s appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 2nd day of November 2020.
+“Robert Hogan”
+Hogan J.
+CITATION:
+2020 TCC 109
+COURT FILE NO.:
+2018-3416(IT)G
+STYLE OF CAUSE:
+ST. BENEDICT CATHOLIC SECONDARY SCHOOL TRUST AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 2, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+November 2, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Justin Kutyan
+Kristen Duerhammer
+Counsel for the Respondent:
+Diana Aird
+Anne Shirley LeBel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Justin Kutyan
+Kristen Duerhammer
+Firm:
+KPMG Law LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Once recapture is triggered, the balance is restored at zero.
+[2] See for example: Scientific Research and Experimental Development, subsection 37(1); Cumulative Canadian Oil and Gas Property Expense, subsection 66.4(5); Cumulative Canadian Exploration Expense, subsection 66.1(6); and Cumulative Canadian Development Expense, subsection 66.2(5) of the Act. In all of these cases, a taxpayer must file a separate schedule and form that tracks the balance of the pool after a deduction is claimed in the computation of income. Once expenses are properly added to a pool as required under the Act, the expenses lose their specificity. In many cases, expenses that are accumulated in a pool include both capital and current expenses. The amount claimed by the taxpayer in a given year is based on the balance of the particular pool built up over time. It is not determined by reference to the nature of the expense (capital or income) or the specific time when the expenses were added to the pool, unlike the case where the last-in, first-out or first-in, first-out method is applied. This is very different from the treatment of ordinary business expenses under the Act.
+[3] When losses expire, nil assessments have been issued by the Minister as in the case at hand.
+[4] Aallcann Wood Suppliers Inc. v. The Queen, [1994] 94 DTC 1475 (TCC).
+[5] Aallcann Wood Suppliers Inc v. The Queen, 94 DTC 1475 (TCC) at p.1476.

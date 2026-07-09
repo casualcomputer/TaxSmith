@@ -1,0 +1,180 @@
+---
+title: "Application of GST/HST to Other Taxes, Duties, and Fees"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-5/application-gst-hst-other-taxes-duties-fees.html
+last_modified: 2021-06-16
+---
+# Application of GST/HST to Other Taxes, Duties, and Fees
+
+GST/HST Memorandum 3.5 April 2016
+
+This memorandum cancels and replaces GST/HST Policy Statement P-190, *The meaning of the word "imposed" in section 154 of the Excise Tax Act*.
+
+This memorandum explains how the GST/HST applies to other taxes, duties, and fees, payable by a recipient of a supply of property or a service, or payable or collectible by the supplier, in respect of the supply.
+
+All legislative references in this publication are to the *Excise Tax Act* (the Act) unless otherwise specified. The information in this publication does not replace the law found in the Act and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the Act or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1.4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [www.revenuquebec.ca](http://www.revenuquebec.ca/en/default.aspx) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1-855-666-5166.
+
+**GST/HST Rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in participating provinces at the following rates: 13% in Ontario, New Brunswick and Newfoundland and Labrador, 14% in Prince Edward Island and 15% in Nova Scotia. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, see [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of contents
+
+- [Overview](#_Toc443987733)
+
+- [Meaning of significant terms](#_Toc443987734)
+
+- [Taxes, duties, and fees payable in respect of the supply](#_Toc443987735)
+
+    - [Federal taxes, duties, and fees](#_Toc443987736)
+
+    - [Provincial levies which are not prescribed, payable by the recipient](#_Toc443987737)
+
+    - [Prescribed provincial levies payable by the recipient](#_Toc443987738)
+
+    - [Provincial levies payable by the supplier](#_Toc443987739)
+
+    - [Provincial levies collectible by the supplier](#_Toc443987740)
+
+    - [Amounts collected on account of or in lieu of a provincial levy](#_Toc443987741)
+
+## Overview
+
+1. Section 165 imposes GST/HST on every recipient of a taxable supply made in Canada, calculated at the applicable rate, on the value of the consideration paid or payable for the supply, except where the supply is a zero-rated supply. Generally, under the Act, the value of the consideration paid or payable for a taxable supply by a recipient includes all input costs incurred in the making of the supply. These costs may include taxes, duties, and fees which were either imposed on the supplier who then passed the cost on to the recipient in the price of the supply, or are paid or payable directly by the recipient in respect of that supply.
+
+2. Section 154 provides greater certainty that taxes, duties, and fees imposed by the federal, provincial, or territorial governments and payable by a supplier or recipient in the supply chain of the property or services are generally included in the value of the consideration for a supply.
+
+3. In addition, section 154 provides that certain provincial taxes, duties, and fees will be excluded from the value of consideration for a supply where the taxes, duties, or fees are payable by the recipient of the supply. The provincial taxes, duties, and fees that are excluded from the consideration payable for a supply for GST/HST purposes are prescribed by the *Taxes, Duties and Fees (GST/HST) Regulations*(the Regulations).
+
+4. Any tax, duty, or fee payable earlier in the supply chain, for example, by a manufacturer or importer who passes those costs on to a "supplier" (in the context of the use of the term "supplier" in section 154), would be included in the value of the consideration for the supply made by that particular supplier for purposes of calculating the GST/HST.
+
+5. Determining the application of section 154 to a tax, duty, or fee requires a review of the legislation which imposes that tax, duty, or fee to establish how that tax, duty, or fee is imposed.
+
+## Meaning of significant terms
+
+6. Under subsection 123(1), "consideration" includes "any amount that is payable for a supply by operation of law".
+
+7. Under subsection 123(1), a "recipient" of a supply of property or a service "means
+
+1. where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+
+2. where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+
+3. where no consideration is payable for the supply,
+
+    1. in the case of a supply of property by way of sale, the person to whom the property is delivered or made available,
+
+    2. in the case of a supply of property otherwise than by way of sale, the person to whom possession or use of the property is given or made available, and
+
+    3. in the case of a supply of a service, the person to whom the service is rendered,
+
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply".
+
+8. Subsection 154(3) provides that if a person is deemed to be the recipient of a supply for purposes of the GST/HST in respect of which another person would be the recipient of the supply if the deeming did not apply, for purposes of section 154, the recipient of the supply will be that other person.
+
+9. "Non-participating province" means the provinces of Quebec, Manitoba, British Columbia, Saskatchewan, Alberta, as well as the Northwest Territories, Yukon, and Nunavut. Note that British Columbia was a participating province from July 1, 2010 until March 31, 2013.
+
+10. "Participating province" means a province that has harmonized its provincial sales tax with the GST to implement the HST. Participating provinces include New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, and Prince Edward Island, but do not include the Nova Scotia offshore area or the Newfoundland offshore area except to the extent that offshore activities are carried on in that area.
+
+11. "Provincial levy", for the purposes of section 154, means "a tax, duty, or fee imposed under an Act of the legislature of a province in respect of the supply, consumption or use of property or a service". For GST/HST purposes, this would include a tax, duty, or fee imposed under an Act or law of the Northwest Territories, Yukon or Nunavut.
+
+12. For purposes of the Regulations, the "general sales tax rate" of a province means, with respect to a participating province, the tax rate for the province specified in the Act, and with respect to a non-participating province, the rate of tax set out in the particular province’s retail/sales tax legislation.
+
+13. For purposes of the Regulations, the "specified tax rate" of a province means "the rate that is the greater of:
+
+- 12%, and
+
+- the general sales tax rate of the province plus 4%."
+
+## Taxes, duties, and fees payable in respect of the supply
+
+14. The provisions of section 154 describe the application of the GST/HST to taxes, duties, and fees and clarify when federal taxes, duties, and fees or provincial levies are included or excluded from the consideration payable for a taxable supply.
+
+### Federal taxes, duties, and fees
+
+15. Generally, a federal tax, duty, or fee imposed under an Act of Parliament that is payable or collectible by a supplier or payable by a recipient in respect of a supply of property or services (or in respect of the production, importation, consumption, or use of property or services), other than the GST/HST, will be included in the consideration charged for that supply.
+
+### Provincial levies which are not prescribed, payable by the recipient
+
+16. The value of the consideration for a supply of property or services on which the GST/HST is calculated will include a provincial levy, where that levy is payable by the recipient of the supply and is paid in respect of the supply, unless the levy falls within one of the provincial levies prescribed by the Regulations.
+
+### Prescribed provincial levies payable by the recipient
+
+17. Generally, provincial levies prescribed by the Regulations include general provincial retail sales taxes, land transfer taxes and certain other provincial sales taxes. A prescribed provincial levy is only excluded from the value of the consideration for a supply of property or services on which the GST/HST is calculated if the provincial levy is calculated as a percentage of the value or price of the property or services, and is payable by the recipient of the supply.
+
+18. In addition, a provincial levy is only prescribed under the Regulations if it does not exceed the specified tax rate. If the provincial levy exceeds the specified tax rate, the provisions of subsection 154(2) apply to include the provincial levy payable by a recipient in the value of the consideration for the supply of property or services on which the GST/HST is calculated.
+
+### Provincial levies payable by the supplier
+
+19. A provincial levy that is payable by the supplier either in respect of a supply of property or services or in respect of the consumption or use of the property or services, which the supplier recovers, usually by embedding the provincial levy in the cost of the property or services being supplied, is included in the value of the consideration for the supply made by the supplier to a recipient. This will be the case even if the tax, duty, or fee is prescribed by the Regulations.
+
+### Provincial levies collectible by the supplier
+
+20. A provincial levy that is collectible by the supplier either in respect of a supply of property or services or in respect of the consumption or use of the property or services, is included in the value of the consideration for the supply unless the provincial levy is payable by the recipient of the supply and is a prescribed provincial levy.
+
+### Amounts collected on account of or in lieu of a provincial levy
+
+21. In addition, any other amount collectible by a supplier, either in respect of a supply of property or services or in respect of the consumption or use of the property or services, that is equal to or is collectible on account of or in lieu of a provincial levy, is included in the value of the consideration for the supply unless the amount is payable by the recipient of the supply and the provincial levy is a prescribed provincial levy.
+
+A contractor in Manitoba enters into a contract with a homeowner in Manitoba to supply and install kitchen cabinets. The contractor purchases all the required materials for $5,000 and pays $400 in provincial sales tax (8% PST) and $250 in GST (for a total of $5,650). The contractor claims an input tax credit to recover the $250 GST paid on the materials, reducing the total cost of the materials to the contractor to $5,400. The amount charged for the contractor’s labour is $1,000.
+
+The contractor’s final invoice to the homeowner for the supply and installation of the kitchen cabinets is as follows:
+
+Materials (including $400 PST [$5,000 × 8%])
+
+$5,400
+
+Total consideration for supply and install service
+
+The $400 in PST paid by the contractor and included in the material cost portion of the invoice to the homeowner is a cost incurred by the contractor to complete the contract. Since the 8% sales tax levied under the provincial legislation was payable by the contractor (the supplier) and is passed on as an input cost, the 8% PST is included in the consideration for the supply of the provision and installation of kitchen cabinets on which the contractor is required to calculate the GST.
+
+#### Example 2
+
+A Saskatchewan resident purchases a coffee table from a furniture retailer in Saskatchewan for $1,000. At the time of sale, the purchaser pays the retailer:
+
+Saskatchewan’s provincial sales tax, imposed by subsection 5(1) of the Provincial Sales Tax Act, is payable by the purchaser/recipient of the table. The provincial sales tax is prescribed in the Regulations as it is included in the definition of "general sales tax rate", is calculated as a percentage of the price of the table, is payable by the recipient of the table, and does not exceed the specified tax rate set out in the Regulations. Therefore, in accordance with section 154, the GST is calculated on the consideration payable for the coffee table exclusive of the Saskatchewan PST.
+
+#### Example 3
+
+A non-participating province’s waste diversion legislation creates a regulatory framework under which a tire manufacturer is required to pay stewardship fees to a waste diversion organization equal to $4.80 for every tire it supplies.
+
+The tire manufacturer supplies 100 tires in the non-participating province to a tire retailer for $90 per tire. The manufacturer’s invoice to the retailer includes $9,000 ($90 × 100) for the tires, plus an additional $480 ($4.80 × 100) which is separately identified as a stewardship fee and represents the cost to the manufacturer of the stewardship fee that was paid by the manufacturer to the waste diversion organization.
+
+As the stewardship fee is a "provincial levy" for purposes of section 154 that is imposed on and payable by the manufacturer (that is, the supplier) on its supply of the tires, under subsection 154(2), this fee is included in the consideration for the supply of the tires by the manufacturer to the retailer. Note that as the stewardship fee is imposed on the manufacturer, it is a cost to the manufacturer that it chooses to pass on and would be included in the consideration for the supply of tires even in the absence of section 154, whether or not this amount is separately identified on the manufacturer’s invoice to the retailer.
+
+The amount payable by the retailer to the manufacturer is $9,954, which is itemized on the invoice to the retailer as follows:
+
+The tire retailer then sells 4 tires in the non-participating province to a customer for $130 per tire. The retailer’s invoice to the customer includes $520 ($130 × 4) for the tires and an additional $19.20 ($4.80 × 4) which it separately lists as a stewardship fee representing the cost to the retailer of the stewardship fee passed on by the manufacturer and paid by that retailer to the manufacturer. The customer pays a total of $566.16, which is itemized on the final invoice to the customer as follows:
+
+As the stewardship fee imposed under the provincial legislation is not payable by the supplier of tires (that is, the retailer) or the recipient (that is, the customer), section 154 does not apply to the amount identified as the stewardship fee; that amount is simply an input cost of the retailer that the retailer has chosen to pass on in the price charged to the customer, regardless of whether or not this amount was separately identified on the retailer’s invoice to the customer. Accordingly, under the Act, the amount identified by the retailer as a "stewardship fee" on the invoice forms part of the consideration for the tires and is subject to the GST.
+
+#### Example 4
+
+A carbon tax is imposed by provincial legislation on the supply of fuels such as gasoline, diesel, natural gas, heating fuel, propane, and coal sold in the province. The province is a participating province with an HST rate of 13%. This carbon tax is payable by purchasers/recipients of such products in the province and is collectible by suppliers at the time the fuel is purchased.
+
+A motor vehicle owner in the province purchases 30 litres of gasoline. Before the application of the carbon tax and the HST, the base price for the gasoline is 90 cents per litre (other provincial and federal taxes normally charged on gasoline are ignored for the purposes of this example). The carbon tax levied on the purchase of gasoline is $0.065 per litre. For the 30 litres of gasoline, the driver pays a total of $32.71 calculated as follows:
+
+The carbon tax is a provincial levy as defined in subsection 154(1) and is payable by the purchaser/recipient in respect of the supply of gasoline. Since the carbon tax levied by the provincial legislation is not prescribed in the Regulations, the carbon tax is not a prescribed provincial levy for the purposes of section 154. The amount of the carbon tax is included in the consideration payable for the supply of the gasoline upon which the supplier will calculate the HST.
+
+## Further information
+
+All **GST/HST technical publications** are available on the CRA website at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications.html).
+
+To make a **GST/HST** **enquiry**by **telephone**:
+
+- for **general GST/HST enquiries,** call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1-800-567-4692** or visit their website at [www.revenuquebec.ca](http://www.revenuquebec.ca).
+
+If you are a **selected listed financial institution**(whether or not you are located in Quebec) and require information on the **GST/HST**or the**QST**, go to [www.cra.gc.ca/slfi](http://www.cra.gc.ca/slfi) or
+
+- for **general GST/HST or QST enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST or QST enquiries**, call **GST/HST Rulings** **SLFI** at **1-855-666-5166**

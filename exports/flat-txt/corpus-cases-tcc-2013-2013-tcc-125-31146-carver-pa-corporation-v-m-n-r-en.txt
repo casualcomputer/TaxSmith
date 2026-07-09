@@ -1,0 +1,199 @@
+Title: Carver PA Corporation v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31146/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-125-31146-carver-pa-corporation-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2013-04-19
+
+# Carver PA Corporation v. M.N.R.
+
+- Citation: 2013 TCC 125
+- Decision date: 2013-04-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4736, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carver PA Corporation v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-04-19
+Neutral citation
+2013 TCC 125
+File numbers
+2011-2773(EI), 2011-3219(CPP)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2011-2773(EI)
+BETWEEN:
+CARVER PA CORPORATION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of Carver PA Corporation (2011‑3219(CPP)) on October 25, 2012 and February 5, 2013
+at Edmonton, Alberta
+Before: The Honourable N. Weisman, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+James Yaskowich
+Counsel for the Respondent:
+Adam Gotfried
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the assessment of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 19th day of April 2013.
+"N. Weisman"
+Weisman D.J.
+Docket: 2011-3219(CPP)
+BETWEEN:
+CARVER PA CORPORATION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of Carver PA Corporation (2011‑2773(EI)) on October 25, 2012 and February 5, 2013
+at Edmonton, Alberta
+Before: The Honourable N. Weisman, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+James Yaskowich
+Counsel for the Respondent:
+Adam Gotfried
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the assessment of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 19th day of April 2013.
+"N. Weisman"
+Weisman D.J.
+Citation: 2013 TCC 125
+Date: 20130419
+Dockets: 2011-2773(EI)
+2011-3219(CPP)
+BETWEEN:
+CARVER PA CORPORATION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Weisman, D.J.
+[1] The appellant Carver PA Corporation (“Carver”) has expertise in the area of industrial maintenance and operations. Suncor Energy Services Inc. (“Suncor”) retained Carver to solve a problem it was having with the freezing of its underground hydrant pipes in the oil sands of Alberta. Carver, in turn, engaged Faisal Mahmood (“Mahmood”), a mechanical engineer with experience working on pipelines in Saudi Arabia, to be its expert consultant on the project.
+[2] The Minister of National Revenue (“the Minister”) assessed Carver for unpaid Employment Insurance premiums and Canada Pension Plan contributions pursuant to the Employment Insurance Act[1] (“the Act”) and the Canada Pension Plan[2] (“the Plan”) on the remuneration it admittedly paid Mahmood for work done by him for Suncor between September 28, 2009 and February 12, 2010.
+[3] Carver appeals these assessments on the grounds that it was not a placement or employment agency, that it did not place Mahmood in employment under the direction and control of Suncor, and that his working relationship with Suncor was neither a contract of service nor analogous thereto within the meaning of the Employment Insurance Act[3] and Regulations[4] and the Canada Pension Plan[5] and Regulations[6] which provide as follows.
+The Statutory Provisions:
+Employment Insurance Act:
+5. (5) The Commission may, with the approval of the Governor in Council and subject to affirmative resolution of Parliament, make regulations for including in insurable employment the business activities of a person who is engaged in a business, as defined in subsection 248(1) of the Income Tax Act.
+Employment Insurance Regulations
+6. Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment:
+[…]
+(g) employment of a person who is placed in that employment by a placement or employment agency to perform services for and under the direction and control of a client of the agency, where that person is remunerated by the agency for the performance of those services.
+Insurable Earnings and Collection of Premiums Regulations[7]
+7. Where a person is placed in insurable employment by a placement or employment agency under an arrangement whereby the earnings of the person are paid by the agency, the agency shall, for the purposes of maintaining records, calculating the person’s insurable earnings and paying, deducting and remitting the premiums payable on those insurable earnings under the Act and these Regulations, be deemed to be the employer of the person.
+Canada Pension Plan
+7. (1) The Governor in Council may make regulations for including in pensionable employment
+[…]
+(d) the performance of services for remuneration if it appears to the Governor in Council that the terms or conditions on which the services are performed and the remuneration is paid are analogous to a contract of service, whether or not they constitute a contract of service;
+[…]
+Canada Pension Plan Regulations
+34. (1) Where any individual is placed by a placement or employment agency in employment with or for performance of services for a client of the agency and the terms or conditions on which the employment or services are performed and the remuneration thereof is paid constitute a contract of service or are analogous to a contract of service, the employment or performance of services is included in pensionable employment and the agency or the client, whichever pays the remuneration to the individual, shall, for the purposes of maintaining records and filing returns and paying, deducting and remitting contributions payable by and in respect of the individual under the Act and these Regulations, be deemed to be the employer of the individual.
+(2) For the purposes of subsection (1), “placement or employment agency” includes any person or organization that is engaged in the business of placing individuals in employment or for performance of services or of securing employment for individuals for a fee, reward or other remuneration.
+The Facts:
+[4] Mr. Sam Mraiche (“Mraiche”), President of the appellant, testified that Carver maintains a roster of subject matter experts in the various fields it services. It has systems in place and people the world over seeking the expert best qualified to solve its clients’ problems. These systems include their own database, Workopolis, and personal networking at conferences and trade shows.
+[5] Carver noted Mahmood’s résumé on Workopolis and, by an Independent Contractor Agreement made as of the 4th day of September 2009, engaged him to work on Suncor’s pipeline problem. Prior to Mahmood being so retained, Carver arranged a conference call between its recruiter Mike Eldassouki, Mahmood and Mike Mesallmy (“Mesallmy”) of Suncor to explain to Mahmood the technical aspects of the problem and issues Suncor was having. While Mahmood was free to decline Carver’s proposed placement with Suncor, he proceeded to negotiate a compensation rate of $55 per hour with Carver, which subsequently invoiced Suncor $139 per hour for Mahmood’s services.
+[6] Mahmood was flown to Fort McMurray, Alberta, where Suncor’s base plant was located. Suncor bore the cost of his food and lodging at its Borealis camp facility and defrayed his travel expenses, including a monthly flight back to his home in New Brunswick. Suncor’s Mesallmy was named in the Independent Contractor Agreement between the appellant and Mahmood as the person Mahmood was to report to at Suncor. This agreement now described Mahmood as a “Pipeline Systems Reliability Engineer”.
+[7] Mesallmy was himself a mechanical engineer like Mahmood, however Mesallmy lacked Mahmood’s expertise in the use of the computer software required to simulate the various climactic conditions undergone by Suncor’s hydrant pipelines. Mesallmy and Mahmood worked together at Suncor’s Fort McMurray plant and their offices were adjacent to each other.
+[8] In his testimony, Mahmood described his job and working relationship with Mesallmy. Using his computer software, he simulated various environmental conditions to ascertain how heat is transferred from ground to pipeline, how long it takes to freeze the whole pipeline, the causes of the freezing and what could be done to remedy it.
+[9] Mahmood recounted that he had to meet with Mesallmy on a daily basis to discuss the status of the simulations. Mesallmy would evaluate the quality and reliability of Mahmood’s work and direct Mahmood as to what to do next, although he lacked the expertise in simulation software to tell him how to do it as aforesaid.
+Analysis:
+[10] This fact situation gives rise to three legal issues, the resolution of which will determine the result of these appeals. Was the appellant acting as a placement or employment agency in placing Mahmood with Suncor during the period under review; if so, was Mahmood placed under Suncor’s direction and control within the meaning of the relevant regulations; and did the terms and conditions of Mahmood’s working relationship with Suncor constitute a contract of service or were they analogous thereto?
+Placement or Employment Agency:
+[11] It is trite law that the term “employment” in Regulation 6.(g) under the Act includes a business, trade or occupation and does not solely designate a master and servant relationship.[8] It does not matter whether the worker involved is an employee or an independent contractor. Both are included in insurable employment by this Regulation. The same does not apply under the Plan and its Regulations which require that the terms or conditions of the placement constitute a contract of service or are analogous thereto.
+[12] The appellant contends that it was not a placement or employment agency because it provided Suncor with a package of consulting services which included Mahmood’s expertise as well as that of the appellant itself, which was known to be expert in the field of systems and inventory management support. Moreover, under its Consulting Agreement with Suncor, Carver was also required to supply and furnish “…all labour, new materials, tools, professional services, supervision and equipment necessary for the satisfactory performance, and completion of the following project: Inventory Management and Support.”[9]
+[13] The phrase “placement or employment agency” is defined in the Regulations for the purposes of the Plan, but there is no comparable definition in the Act or its Regulations. In OLTCPI Inc. v. M.N.R.[10] (“OLTCPI”) and again in Pro Pharma Contract Selling Services Inc. v. M.N.R.[11], I determined that the definition found in the Plan was equally applicable to proceedings under the Act.
+[14] Counsel for the appellant urges me to adopt the definition “an organization engaged in matching requests for work with requests for workers” that some Judges have used in cases heard under both the Act and the Plan.[12]
+[15] I prefer to apply the definition found in the Plan to appeals under the Act because the cases cited above disregard the definition contained in subsection 34.(2) of the Plan. This provision must surely be applicable to cases decided under subsection 34.(1) of the Plan. If that is so, it follows that the same definition should be applied equally in proceedings under the Act to achieve as much consistency as possible between two provisions intended to address the same situation.
+[16] Having said that, Supreme Tractor is helpful in distinguishing between a placement or employment agency and those payers who provide their clients with distinct services that include a worker. In Supreme Tractor, the subcontractor provided a grader and an operator to its client for $65 per hour, $17 of which was for the operator and the balance for the supply and maintenance of the grader.
+[17] In the matter before me, the appellant relies on Supreme Tractor in support of its position that, by contract, it was obligated to provide a basket of consulting services to Suncor and was, therefore, not caught by the Regulations under the Act or the Plan.
+[18] This position is problematic for several reasons. The Consulting Agreement between Carver and Suncor is Exhibit A-6 in these proceedings. Its title aside, nowhere does this Agreement specifically provide for the supply of consulting services by Carver to Suncor. In actual fact, the most the appellant did was to periodically enquire of Mesallmy and Mahmood how the project was going; this, however, was merely by way of “quality control” as described by Mraiche. Carver does agree to supply and furnish Suncor with all labour, materials, tools, professional services, supervision and equipment necessary for the satisfactory performance and completion of the project, as aforesaid. There is no evidence before me, however, that Carver supplied Suncor with anything other than a highly-skilled worker in the person of Mahmood. In this regard, the following pithy exchange between counsel for the Minister and Mraiche is revealing:
+(Mr. Gotfried) Q. So there’s nothing in this Agreement that has any money going from Suncor to Carver for anything other than the time that the workers worked or travel of the workers or accommodation of the workers.
+(Mr. Mraiche) A. Well, I don’t know what else they would be paying me for.[13]
+[19] As in OLTCPI, Carver charged Suncor only for Mahmood’s time. This distinguishes this fact situation from that in Supreme Tractor where both the grader and an operator were supplied to, and paid for, by the client as a distinct service.
+[20] I accordingly find that the appellant qualifies as a placement or employment agency during the period under review, within the meaning of the Regulations under both the Act and the Plan.
+Direction and Control:
+[21] Mahmood was a highly skilled and specialized mechanical engineer. His knowledge of the necessary simulating computer software exceeded that of Mesallmy, the person he reported to at Suncor. In these circumstances, the jurisprudence establishes that Mesallmy will be found to direct and control Mahmood if he could tell Mahmood what to do, although not how or the means by which it was to be done.[14]
+[22] Carver considered itself the project manager of the efforts to resolve Suncor’s pipeline problem. Paragraph 12.1 of the Consulting Agreement provides: “… The Consultant (Carver) shall retain control or direction of the manner and method of the performance of the Work under this Agreement and Suncor shall have the right of supervision merely as to the results of the Work. …”. Paragraph 3(c) of the Independent Contractor Agreement in turn provides: “The parties agree that the Corporation (Carver) shall direct the Contractor (Mahmood) only as to the results to be achieved from the provision of Services by the Contractor, and not as to the detailed manner or method of achieving such results. …”.
+[23] Thus, all parties were well aware of what had to be done, i.e. solve Suncor’s pipeline problem. The manner and/or method was reserved by agreement to Carver and then to Mahmood. Suncor’s role is supposed to be limited to merely supervising the results.
+[24] On the other hand, the Independent Contractor Agreement specifically designates Mesallmy of Suncor as the person Mahmood is to report to. It therefore becomes relevant to look further into the working relationship between Mahmood and Mesallmy to see if the latter’s role was, in fact, merely supervising the result of the work or was something more.
+[25] The work on Suncor’s problem with the freezing of its underground pipes required close collaboration between Mesallmy and Mahmood, both mechanical engineers. They occupied adjacent offices and Mahmood would regularly report the progress of his simulations to Mesallmy, who then not only provided Mahmood with the shifting parameters of the project, but decided what course the simulations should take at any given time. Mahmood considered Mesallmy his boss or manager.
+[26] This scenario is similar to that in OLTCPI, where the Director of Nursing of a facility for senior citizens required a dietician placed there by the appellant placement agency to do more than ensure compliance with the requirements of the Ministry of Health. She had to meet with the facility administrator, develop programs, and generate weight change, high-risk resident and site visit reports. The Federal Court of Appeal found that this constituted direction and control of the worker within the meaning of the placement agency regulations under the Act and the Plan, and dismissed the appeals.[15]
+[27] In my view, the fact that Mesallmy decided what course Mahmood’s simulations were to pursue establishes that Mesallmy did more than merely supervise the result of Mahmood’s work. Mesallmy, and therefore Suncor directed and controlled Mahmood, who was in a subordinate position to them.
+Analogous to a Contract of Service:
+[28] Mahmood was clearly not a party to any contract of service either with Carver or Suncor. The question then becomes whether the terms or conditions of his placement with Suncor were analogous to one. This requires that the working relationship between Mahmood and Suncor be subjected to the analysis mandated by the Federal Court of Appeal in Wiebe Door Services Ltd. v. M.N.R. (“Wiebe Door”).[16]
+Control:
+[29] I note that under Wiebe Door, the control guideline requires that the payer have the right to control the worker.[17] Suncor had no such right. Its control over Mahmood was de facto. This must be sufficient for the purposes of Regulation 34.(1) under the Plan. Otherwise, independent contractors who are placed in employment with clients by placement agencies could never be found to have terms or conditions of employment that are analogous to a contract of service. This is clearly not the legislative intent. The control factor accordingly indicates that Mahmood’s working relationship with Suncor was analogous to a contract of service.
+Tools:
+[30] Mahmood provided the essential software which had the capacity to simulate the various stresses acting upon underground pipelines that were subject to varying climactic conditions. In addition, the evidence is that he supplied his own computer when the one originally provided by Suncor for security purposes proved to lack the power necessary to process Mahmood’s software. The office and premises in which Mahmood worked are not considered tools since he would have had to use these facilities no matter what his working relationship with Suncor.[18] The tools factor accordingly indicates that Mahmood’s working relationship with Suncor was not analogous to a contract of service.
+Chance of Profit and Risk of Loss:
+[31] Mahmood advised Carver that he would not accept the position offered by Suncor for less than $100,000 per annum. Carver succeeded in securing this sum on his behalf. Mahmood’s ability to negotiate his rate of remuneration, and his right to decline offers of employment as aforesaid, both inherently constitute a chance of profit and a risk of loss.[19] The profit and loss factor also indicates that Mahmood’s working relationship with Suncor was not analogous to a contract of service.
+[32] Three of the four Wiebe Door guidelines indicate that Mahmood’s working relationship with Suncor was not analogous to a contract of service within the meaning of Regulation 34.(1) under the Plan.
+Intent:
+[33] The Independent Contractor Agreement between Carver and Mahmood expresses the clear intent that Mahmood be an independent contractor. The evidence indicates that the tripartite relationship between Carver, Mahmood and Suncor was consistent with this intent. The parties’ intention is accordingly entitled to be given weight.[20]
+Assumptions:
+[34] Counsel for the Minister conceded that the appellant could discharge the onus of rebutting the Assumptions contained in the Minister’s Replies to the Notices of Appeal in these proceedings. These Replies allege that there was a master and servant relationship between Carver and Mahmood. They were based on Mahmood’s erroneous responses to the questionnaire he completed at the request of the Canada Revenue Agency. The hearing therefore proceeded on the Minister’s alternative position under the Act’s Regulation 6.(g) and the Plan’s Regulation 34.(1), both of which were duly pleaded in the Minister’s Replies. There was no surprise or unfairness in this as the appellant was well aware of the case it had to meet.
+Result:
+[35] In the result, I find that Carver was a placement or employment agency during the period under review within the meaning of subparagraph 6.(g) under the Act, that it remunerated Mahmood, and placed him in employment with Suncor under its direction and control.
+[36] The result is different as far as Regulation 34.(1) under the Plan is concerned. While Carver was a placement or employment agency as defined in subparagraph 34.(2) of the Regulations, the terms and conditions of Mahmood’s working relationship with Suncor did not constitute a contract of service and were not analogous thereto.
+[37] I have investigated all the facts with the parties and the witnesses called on their behalf to testify under oath for the first time. I have found no new facts and no indication that the facts inferred or relied upon by the Minister were unreal or were incorrectly assessed or misunderstood with reference to the appeal under the Act. The opposite applies with reference to the appeal under the Plan. Accordingly, the Minister’s decision is objectively reasonable under the Act, but not the Plan.
+[38] The appeal under the Act is dismissed and the Minister’s assessment confirmed. The appeal under the Plan is allowed and the Minister’s assessment vacated. Success being divided, each party shall bear their own costs of these proceedings.
+Signed at Toronto, Ontario, this 19th day of April 2013.
+"N. Weisman"
+Weisman D.J.
+CITATION: 2013 TCC 125
+COURT FILE NOS.: 2011-2773(EI); 2011-3219(CPP)
+STYLE OF CAUSE: Carver PA Corporation and The Minister of National Revenue
+PLACE OF HEARING: Edmonton, Alberta
+DATES OF HEARING: October 25, 2012 and February 5, 2013
+REASONS FOR JUDGMENT BY: The Honourable N. Weisman, Deputy Judge
+DATE OF JUDGMENT: April 19, 2013
+APPEARANCES:
+Counsel for the Appellant:
+JamesYaskowich
+Counsel for the Respondent:
+Adam Gotfried
+COUNSEL OF RECORD:
+For the Appellant:
+Name: James Yaskowich
+Firm: Felesky Flynn LLP
+Edmonton, Alberta
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] S.C. 1996, c. 23.
+[2] 1985, c. C-8 as amended.
+[3] SOR/96-332 as amended.
+[4] SOR/96-332 as amended.
+[5] R.S.C., 1985, c. C-8.
+[6] C.R.C., c. 385
+[7] SOR/97-33 as amended.
+[8] R. v. Scheer Ltd., [1974] S.C.R. 1046; Martin Service Station Ltd. v. Canada (1977), 2 S.C.R. 996; Sheridan v. Canada, [1985] F.C.J. No. 230.
+[9] Consulting Agreement, para. 2.1.
+[10] 2008 TCC 470 at paras. 11-12.
+[11] 2012 TCC 60 at para. 41.
+[12] Computer Action Inc. v. M.N.R., [1990] T.C.J. No. 101 (Bonner J.); Silverside Computer Systems Inc. v. M.N.R., [1997] T.C.J. No. 38 (Watson J.); Supreme Tractor Services Ltd. v. M.N.R., [2001] T.C.J. No. 580 (Porter J.) (“Supreme Tractor”); Dataco Utility Services Ltd. v. M.N.R., [2001] T.C.J. No. 372 (Porter J.); Big Sky (Lundle) Drilling Inc. v. M.N.R. [2002] T.C.J. No. 16 (Porter J.).
+[13] Transcript, October 25, 2012, page 105, lines 6-11
+[14] 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. No. 61 at para. 55.
+[15] [2010] F.C.J. No. 379
+[16] (1986), 87 D.T.C. 5025 (F.C.A.).
+[17] Hennick v. M.N.R., [1995] F.C.J. No. 294.
+[18] Wolf v. Canada, [2002] F.C.J. No. 375, at para. 84 (“Wolf”)
+[19] Precision Gutters Ltd. v. M.N.R., [2002] F.C.J. No. 771 at para. 27
+[20] Royal Winnipeg Ballet v. M.N.R., [2006] F.C.J. No. 339 at para. 64; Wolf, supra, at para. 71.

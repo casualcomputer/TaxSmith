@@ -1,0 +1,207 @@
+---
+title: "Barrett v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29834/index.do"
+last_modified: "2010-06-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 298"
+citation2: ""
+neutral_citation: "2010 TCC 298"
+decision_date: "2010-06-04"
+language: "en"
+item_id: "29834"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6576
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:18:07.023000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8d74ca4b7daf82be736dfcf94c5b94b937a2df7fc3f6b00e675a215a4d2cac66"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Barrett v. The Queen
+
+- Citation: 2010 TCC 298
+- Decision date: 2010-06-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6576, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barrett v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-04
+Neutral citation
+2010 TCC 298
+File numbers
+2005-36(GST)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-36(GST)G
+BETWEEN:
+DAVID A. BARRETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 14, 2008 and January 26, 2009,
+at Toronto, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the Appellant:
+Peter D. Stephens
+Counsel for the Respondent:
+Brent E. Cuddy
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal from the assessment made under section 323 of the Excise Tax Act, notice of which is dated September 8, 2003 and bears number 50180, is allowed and the assessment is vacated.
+The Appellant is awarded costs in accordance with Tariff B of the Tax Court of Canada Rules (General Procedure).
+Signed at Ottawa, Ontario, this 4th day of June 2010.
+"Gaston Jorré"
+Jorré J.
+Citation: 2010 TCC 298
+Date: 20100604
+Docket: 2005-36(GST)G
+BETWEEN:
+DAVID A. BARRETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction
+[1] The goods and services tax (the “GST”) legislation creates a deemed trust with respect to GST collected[1] and requires that corporate directors exercise due diligence in seeing to it that companies remit net GST collected.[2] If they fail to exercise due diligence, directors may be held liable for the unremitted net tax.
+[2] The Appellant appeals from a director’s liability assessment of some $128,000 pursuant to section 323 of the Excise Tax Act (the “ETA”).
+[3] There are certain conditions before a director may be held liable. This case turns solely on one of those conditions. Pursuant to paragraph 323(2)(a) of the ETA a director is not liable unless:
+(a) a certificate for the amount of the corporation’s liability . . . has been registered in the Federal Court . . . and execution for that amount has been returned unsatisfied in whole or in part;
+[4] In this case, it is not disputed that a certificate has been registered nor is the Appellant’s status as a director disputed. No due diligence defence is alleged.[3]
+[5] The Appellant’s position is that, in this case, the requirement that “. . . execution . . . has been returned unsatisfied . . .” has not been complied with.
+[6] The Appellant and his spouse started and operated together a company called Creative Promotions Limited in 1975. The Appellant ran the sales and marketing side of the business while his spouse ran the financial side of the business.
+[7] The business ceased operations in 1995 at the same time as the Appellant’s marriage was coming apart. The Appellant and his spouse subsequently divorced.
+Appellant’s position
+[8] It will be useful at this point to outline the Appellant’s position. The Appellant argues that the Canada Revenue Agency (the “CRA”) and the sheriff were insufficiently diligent in collecting the debt: collection action against the corporation took far too long; had action been taken quickly enough there were ample funds in the company bank account to pay the debt; when action was taken insufficient effort was made to find assets and, when the actual execution took place, it was too perfunctory. Accordingly, the Appellant submits that the execution carried out does not meet the requirements of paragraph 323(2)(a) of the ETA.
+Timeliness
+[9] Events did unfold slowly. The periods for which amounts of net GST were not remitted started in October 1993 and ended in March 1995. The debt was only certified in the Federal Court in October 1998. The sheriff was directed to execute the writ in October 2000, the writ was returned unsatisfied in November 2000 and the assessment in issue was dated September 8, 2003.
+[10] However, the Minister was not inactive in this period as indicated by the testimony of the Respondent’s two witnesses and, among other things, according to assumption 11q) in the Respondent’s reply, which assumption was not contradicted:
+[B]etween March 17, 1993 and September 28, 2001, the Minister issued no less than 33 Statements of Account for the Corporation’s GST liability, to the Corporation’s business address and the Appellant’s residential address.
+[11] The Appellant led evidence that as of March 31, 1995, Creative Promotions had over $230,000 in cash at the bank and, valued at cost, some $270,000 in stocks and bonds whereas liabilities were under $175,000. The Appellant testified that in 1998 there would still have been enough assets in the company to pay the GST liability although he could only provide generalizations as to what funds were left and when the assets might have been used up.
+[12] Although the Appellant testified that his spouse took care of the financial side, both he and his spouse had access to the bank account.[4] As to what became of the assets of the corporation after operations ceased, not only did the Appellant’s spouse take some of the funds,[5] but the Appellant also stated:[6] “1995 until today is 14 years. During that time I university-educated four children, and I went through a divorce, which took care of what was left.” The Appellant also invested about $20,000 in a friend’s business. Thus he and his children benefited from part of the corporation assets still available after March 31, 1995.
+[13] Whether or not the company had enough assets to cover the GST liability if the Minister had moved to seize corporate assets in 1998 does not affect the Appellant’s liability, nor does the fact that collection efforts were slow. It must be recalled that it is the company’s obligation to pay the liability and the Appellant’s obligation as director to see to it that the liability is paid. There is no doubt that the period in question was a very difficult one in the Appellant’s life but that does not change his responsibilities as director.
+[14] The only time limits that apply to the Minister’s actions here are those specifically set out in the ETA.[7] There are many time limits in the ETA but the only one that could be applicable here is in subsection 323(5) which says that no one may be assessed for director’s liability more than two years after one has ceased to be a director. There is no suggestion that the Appellant ceased to be a director more than two years prior to the director’s liability assessment made against him.
+[15] Accordingly, there is no merit to the claim that the assessment should be overturned because the Minister acted too slowly.
+Extent of collective efforts
+[16] Whether or not “. . . execution . . . has been returned unsatisfied . . .” is essentially a question of fact as stated by Bowman C.J. in Miotto v. The Queen:[8]
+42 Whether an execution is completed is essentially a factual determination. The execution of a writ of fieri facias requires reasonable efforts on the part of the bailiff. It does not require perfection. . . .
+[17] It is clear that, in looking at what constitutes reasonable efforts, one must not only consider the actions of the sheriff but the actions of the creditor, the Respondent, in directing the sheriff.[9] Put another way, in determining whether reasonable efforts were made, one examines the entire process of execution, a process which includes the steps taken by the CRA in searching for assets and in determining the instructions to give to the sheriff as well as the actions of the sheriff.
+[18] Were the efforts reasonable? Two collections officers testified, Hilda Kopli and Jack Rizkallah. Mr. Rizkallah’s involvement was in 2003 well after the sheriff’s nulla bona report in November 2000. There were a number of collections officers over the life of the collections file.
+[19] During their evidence, there was reference to the contents of an electronic diary and a docket. As I understand it, these are used to record the steps taken in the course of collection. Copies of these records were not produced.[10] They might well have demonstrated more collection efforts than were in evidence. They might also have had the effect of clarifying some evidence.
+[20] It is useful at this point to describe what the sheriff actually did.
+[21] By letter dated October 31, 2000, Ms. Kopli directed the sheriff to register the writ of seizure and sale[11] in the sheriff’s office and in the land titles office. She also directed the sheriff to enforce the writ at one address on Lakeshore Boulevard and levy on the Appellant and his spouse the full amount of the writ.
+[22] At this time, the Appellant was the sole director.
+[23] Ms. Kopli obtained the address from a motor vehicle search for the Appellant and believed he was there.
+[24] According to the sheriff’s report of November 21, 2000,[12] two sheriff officers went to the address on November 2, 2000:
+. . . It is an apartment complex (residential). Reception attempted to contact the occupants but to no avail. Patricia Barrett is listed as the contact for said address. A business card was left with Reception for Patricia Barrett but as of this time no call back has been received. No goods or chattels were observed and a Nulla Bona report is forwarded.
+[25] Ms. Kopli was satisfied with this because she was expecting a nulla bona report.[13]
+[26] She took no further steps after this and, as a result of a reorganization, the file was transferred to another collections officer.
+[27] The actions described in the last six paragraphs, by themselves, might be described as perfunctory and would not constitute “reasonable efforts”. The question becomes whether, when one looks not only at the actions of the sheriff but also at the preceding efforts of the collections officers, the totality of those actions constitutes “reasonable efforts”.
+[28] It is important to note that while a sheriff acting under a writ of seizure and sale may use reasonable force to enter premises, other than a dwelling, he or she may only do so if he or she believes on reasonable and probable grounds that there is property liable to be taken in execution on the premises. In the case of a dwelling the sheriff may only use force to enter pursuant to a court order; the court order will only be granted if the court is satisfied that there are reasonable and probable grounds.[14]
+[29] What then were the steps taken apart from the certification of the debt? Based on the testimony of Ms. Kopli, the following occurred apart from certification, the issue of the writ and the return of execution by the sheriff:
+(a) Based on the diary entries, there had been conversations with the Appellant before she took over the file.
+(b) The diary indicated that in 1995 the Appellant had stated that the company had no assets and no money to pay the liability.
+(c) It also indicated the company ceased operations in 1995.
+(d) Ms. Kopli did a personal property search to see if she could locate any company assets.
+(e) In September 2000, she sent a director’s liability letter to the Appellant’s home address which letter was returned on October 23, unclaimed.
+(f) She sent it to the Appellant’s address that she had found by doing a motor vehicle search. She did not use the address as shown on the Appellant’s personal income tax return because mail had been returned from that address leading her to conclude that the address was invalid.
+(g) Ms. Kopli further testified that she found in the files that the company no longer had its own address apart from its owners. She did not send the letter to the last corporate address available on file because that address was the former personal residence of the Barretts and because the diary showed that it had been up for sale in 1997; she assumed that by then it had been sold.[15] For the same reason she did not send the sheriff there.
+(h) She also searched for a bank account for a new company operated by the Appellant in the hope that it was still using the bank account of Creative Promotions.[16] She found that the new company had its own bank account.
+(i) Ms. Kopli did not do a search for a bank account for Creative Promotions and did not know if any collections officer before her had done so.[17]
+(j) Ms. Kopli also found that a writ of execution had previously been returned unsatisfied with respect to Creative Promotions’ source deductions liability.
+[30] Mr. Rizkallah became involved in July 2003 after the writ was returned unsatisfied. He was the collections officer at the time the assessment in issue was made. The key part of his testimony is with regard to whether there was a search for a bank account.
+[31] His testimony was that he saw that an earlier officer on the file, Mr. Stein, had found a bank account and discovered that there was a minimal amount in it. While he did not remember the amount, it could have been something like $9.[18] This occurred before Mr. Rizkallah took over the file but he did not know when.
+Analysis
+[32] To sum up, the key steps taken leading up to the direction to the sheriff were:
+(a) talking to the Appellant who stated there were no assets;
+(b) learning that the business ceased operations in 1995;
+(c) searching for personal property;
+(d) deciding where to send the sheriff and, in the course of this, determining from the file that the company no longer had a separate address of its own;
+(e) determining that a previous writ of execution for source deductions had been returned unsatisfied; and
+(f) possibly, the discovery of a bank account that had a very small amount of money in it (this occurred, but on the evidence it is impossible to know if it occurred before or after the sheriff was sent out).
+[33] Were the efforts made to execute the writ reasonable? As I indicated above execution is a process and one must look at the entire process to determine whether the efforts of the CRA and the sheriff were reasonable in the circumstances.
+[34] I am satisfied it was reasonable for Ms. Kopli to send the sheriff to the address she found through the motor vehicle search given that she had reasons to think the other addresses were invalid.
+[35] Much was made by the Appellant of the fact that the collections officers took account of the Appellant’s statement that there were no assets left in the company in their decision-making process as to what steps to take.
+[36] While one would expect a collections officer to consider carefully such a statement made by a director and co-owner, the Appellant could reasonably be expected to know if the company had assets and I am satisfied that it was reasonable for the collections officers to consider the statement in the circumstances given, among other considerations, the time that had passed since the company ceased operations.[19]
+[37] One would normally expect that using information contained in CRA files to look for bank accounts would be a step in the process of execution, especially since the CRA will frequently have some indication of a taxpayer’s financial institution.
+[38] In the absence of such a search for a bank account, considering the other steps in evidence, I would find that it was not reasonable to stop the process of execution at the point where it ended.
+[39] If the evidence had established that the search for the bank account had occurred before the sheriff had been sent out, given the statement by the Appellant, the failure of the bank account search and the personal property search to turn up any meaningful property, as well as the length of time since Creative Promotions ceased operations, I would have found that it was reasonable to decide not to ask the sheriff to take any further steps after November 21, 2000. I would also have concluded that the steps taken constituted reasonable efforts to execute the writ. However it was not established that the search for the bank account occurred prior to the return of the writ.[20]
+[40] I considered whether it would be good enough that the search for the bank account took place after the return of the writ but prior to the assessment of the Appellant.
+[41] Had the sheriff been directed to take further steps after November 21, 2000 and prior to the assessment, there is no question that those steps would be considered in determining whether reasonable efforts had been made. Given that execution is a process, one could argue that should also be the case for additional collection efforts by the CRA that do not involve the sheriff so long as such steps are prior to the assessment.
+[42] I have concluded that such an approach is not what paragraph 323(2)(a) of the ETA requires. The legislator did not write in paragraph 323(2)(a) that “reasonable collection efforts must have been made” prior to a director’s liability assessment; the legislator wrote that execution must be returned unsatisfied. Since the CRA may proceed to assess directors upon the return of the writ, it is clear that the said paragraph envisages that execution is complete at that point in time. Accordingly, the “reasonable efforts” must be completed at the return of the writ.
+Conclusion
+[43] Consequently, on the evidence before me, reasonable efforts were not made prior to the return of the writ and the condition of paragraph 323(2)(a) was not met. Accordingly, the appeal will be allowed and the assessment vacated.
+Signed at Ottawa, Ontario, this 4th day of June 2010.
+"Gaston Jorré"
+Jorré J.
+CITATION: 2010 TCC 298
+COURT FILE NO.: 2005-36(GST)G
+STYLE OF CAUSE: DAVID A. BARRETT v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: May 14, 2008 and January 26, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: June 4, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Peter D. Stephens
+Counsel for the Respondent:
+Brent E. Cuddy
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Peter D. Stephens
+Firm: Mills & Mills
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Excise Tax Act, R.S., 1985, c. E-15, section 222.
+[2] Ibid., section 323.
+[3] The amount assessed and in issue is $128,696.47 and the assessment in dispute is dated September 8, 2003.
+[4] Transcript of January 26, 2009, page 13.
+[5] Ibid., page 14.
+[6] Ibid., page 11.
+[7] See the decision of Bowman A.C.J. (as he then was) in Datacalc Research Corp. v. R., [2002] 2 C.T.C. 2548, at paragraph 10.
+[8] 2008 TCC 128.
+[9] As is illustrated in the last two sentences of paragraph 41 of Miotto, where Bowman C.J. considers the actions of the collections officer as well as the bailiff.
+[10] Potentially they could have been produced under one of the provisions for records of the Canada Evidence Act or of section 335 of the ETA. Perhaps the various collection efforts could have been pleaded as part of the Minister’s assumptions or basis for the director’s liability assessment. However, that was not the case here — possibly because the Appellant’s notice of appeal, filed on behalf of the Appellant by an agent before the Appellant retained counsel, focused on timeliness and not on reasonableness of the efforts.
+[11] The letter is at Tab 8 of Exhibit R-1. The writ issued by the Federal Court on October 6, 1998 was for $81,564.90 plus penalty of 6% per year and interest at the prescribed rate (Exhibit R-1, Tab 7, page 26).
+[12] Exhibit R-1, Tab 9, page 34.
+[13] Transcript of January 26, 2009, page 65.
+[14] Execution Act, R.S.O. 1990, c. E.24, as amended.
+[15] As mentioned above, mail to the address in the personal income tax return had been returned. The corporate address she had on St. George Street was the former personal residence of the Appellant and his wife which, according to the diary, was put up for sale in 1997. See the transcript of January 26, 2009, page 70, line 10, to page 71, line 24; page 93, line 14, to page 96, line 11; page 99, line 23, to page 100, line 9.
+[16] Ibid., page 62, lines 14-22; page 76, lines 4-22; page 92, line 1, to page 93, line 13.
+[17] Ibid., page 77, lines 2-14; page 78, lines 10-22; page 79, lines 7-24; page 89, lines 8-16.
+[18] Ibid., page 149, line 13, to page 151, line 1. Because of costs involved, the CRA does not issue requirements to pay to banks for minimal amounts (ibid., page 126, lines 10-20).
+[19] I note that the Appellant did not dispute having made such a statement even though he could have been recalled by his counsel. What matters here is not the truth of the statement but the fact it was made since the statement is a consideration in assessing the reasonableness of the efforts made in executing the writ. No objection was made at the hearing to the evidence of the statement — the witnesses’ recollection of a diary entry.
+[20] Without going into a long analysis of onus, I would simply comment that, in the circumstances of this case, given the evidence and given that the Respondent is best placed to prove the collection steps it took, in the course of the hearing it became necessary for the Respondent to show reasonable efforts to execute the writ.

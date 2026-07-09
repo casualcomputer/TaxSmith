@@ -1,0 +1,133 @@
+Title: Van Le v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30391/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-292-30391-van-le-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-06-06
+
+# Van Le v. The Queen
+
+- Citation: 2011 TCC 292
+- Decision date: 2011-06-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7850, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Van Le v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-06
+Neutral citation
+2011 TCC 292
+File numbers
+2010-2765(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2765(IT)I
+BETWEEN:
+TU VAN LE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 6, 2011 at Windsor, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Joanna Hill
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeals from the reassessments made under the Income Tax Act that denied the Appellant’s claims for tax credits for charitable donations for 2005, 2006 and 2007 are dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 16th day of June, 2011.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2011TCC292
+Date: 20110616
+Docket: 2010-2765(IT)I
+BETWEEN:
+TU VAN LE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The Appellant was reassessed to deny the tax credits that he had claimed in relation to the charitable donations identified by the Appellant in his tax returns for the following years:
+Year
+Organization
+Amount
+2005
+CanAfrica International Foundation
+$14,500
+2006
+CanAfrica International Foundation
+$17,000
+2007
+Triumphant Church of Christ International
+$15,000
+Total:
+$46,500
+[2] The main issue in this appeal is credibility and whether the Appellant made any gift to the organizations listed above. It is not sufficient for the Appellant to simply state that he received the above receipts. In the Reply to the Notice of Appeal it is stated that one of the assumptions that was made was that the Appellant did not make any donation to any registered charity (including those listed above) in any of these years. The Appellant therefore had the initial onus of proving on a balance of probabilities (i.e. that it is more likely than not), that this assumption was not correct.
+[3] The Appellant’s story is that one day in 2005 one or more individuals (whom the Appellant did not know and he does not recall their names) came to his three bedroom house. The Appellant had not asked them to come to his house. They simply appeared at his door. He decided to give them all of the furnishings, clothing, electronic equipment and all of the other household items that were in the house except one bed and the dishes. The individual (or individuals) left his house after the first meeting and returned about three hours later with a truck and took all of these goods. In addition to all of these goods the Appellant also gave them $3,000 in cash which he just happened to have in the house[1]. The individuals, on the same day in 2005, also gave him three receipts for “charitable donations” in the amounts, for the years and in the names of the organizations listed above. The Appellant indicated that at one time he did have a list of what was taken and the “appraisal” amounts but he has lost this list. It also appears that the Appellant knew very little if anything about the “charitable organizations”. He stated that the individuals who came to his house identified the organization that they were representing but he does not recall what organization they had indicated that they were representing. He also stated during his testimony that it was the same organization for the receipts for all three years yet it seems clear that it was one organization for the first two years and another organization for the third year.
+[4] The first explanation provided by the Appellant during his testimony (before being cross-examined) to explain why he would give away almost all of his belongings was that he was planning to sell these items as he was moving. He, in fact, did move. He moved from 511 Wellington Avenue, Windsor, Ontario to 461 Wellington Avenue, Windsor, Ontario. It does not seem to me that a move of a few metres to another place on the same street would warrant a sale or the giving away of all (or almost all) of one’s belongings. He would not even have to cross the street to move the items from one place to the other as both places would be on the same side of the street.
+[5] Another explanation provided by the Appellant was that he and his wife were splitting up and she had moved out. If she had moved out, why did he move to 461 Wellington Avenue? The Appellant stated that he owned the property located at 511 Wellington Avenue, and that he did not own the property located at 461 Wellington Avenue. Why would he move from a house that he owned to a place where he presumably had to pay rent? There was no indication that he had to sell the property located at 511 Wellington Avenue.
+[6] The Appellant and his wife had two children who were born in 1982 and 1987. In 2005, they would have been 23 years old and 18 years old. The Appellant stated that in 2005 the children lived with him for part of the time and lived with their mother part of the time. Some of the items that the Appellant stated that he gave away were items that had been bought for the children. The Appellant stated that he was enraged with his wife so he gave almost everything away. He stated that she had moved out and did not want any of the items in the house. This does not explain why he would give away his items and items that were his children’s.
+[7] In relation to the onus of proof, Justice Rothstein, writing on behalf of the Supreme Court of Canada, in F.H. v. McDougall, [2008] 3 S.C.R. 41 stated that:
+(4) The Approach Canadian Courts Should Now Adopt
+40 Like the House of Lords, I think it is time to say, once and for all in Canada, that there is only one civil standard of proof at common law and that is proof on a balance of probabilities. Of course, context is all important and a judge should not be unmindful, where appropriate, of inherent probabilities or improbabilities or the seriousness of the allegations or consequences. However, these considerations do not change the standard of proof. …
+…
+44 …. As Lord Hoffmann explained in In re B at para. 2:
+If a legal rule requires a fact to be proved (a "fact in issue"), a judge or jury must decide whether or not it happened. There is no room for a finding that it might have happened. The law operates a binary system in which the only values are zero and one. The fact either happened or it did not. If the tribunal is left in doubt, the doubt is resolved by a rule that one party or the other carries the burden of proof. If the party who bears the burden of proof fails to discharge it, a value of zero is returned and the fact is treated as not having happened. If he does discharge it, a value of one is returned and the fact is treated as having happened.
+In my view, the only practical way in which to reach a factual conclusion in a civil case is to decide whether it is more likely than not that the event occurred.
+45 To suggest that depending upon the seriousness, the evidence in the civil case must be scrutinized with greater care implies that in less serious cases the evidence need not be scrutinized with such care. I think it is inappropriate to say that there are legally recognized different levels of scrutiny of the evidence depending upon the seriousness of the case. There is only one legal rule and that is that in all cases, evidence must be scrutinized with care by the trial judge.
+46 Similarly, evidence must always be sufficiently clear, convincing and cogent to satisfy the balance of probabilities test. But again, there is no objective standard to measure sufficiency. In serious cases, like the present, judges may be faced with evidence of events that are alleged to have occurred many years before, where there is little other evidence than that of the plaintiff and defendant. As difficult as the task may be, the judge must make a decision. If a responsible judge finds for the plaintiff, it must be accepted that the evidence was sufficiently clear, convincing and cogent to that judge that the plaintiff satisfied the balance of probabilities test.
+47 Finally there may be cases in which there is an inherent improbability that an event occurred. Inherent improbability will always depend upon the circumstances. As Baroness Hale stated in In re B, at para. 72:
+Consider the famous example of the animal seen in Regent's Park. If it is seen outside the zoo on a stretch of greensward regularly used for walking dogs, then of course it is more likely to be a dog than a lion. If it is seen in the zoo next to the lions' enclosure when the door is open, then it may well be more likely to be a lion than a dog.
+48 Some alleged events may be highly improbable. Others less so. There can be no rule as to when and to what extent inherent improbability must be taken into account by a trial judge. As Lord Hoffmann observed at para. 15 of In re B:
+Common sense, not law, requires that in deciding this question, regard should be had, to whatever extent appropriate, to inherent probabilities.
+It will be for the trial judge to decide to what extent, if any, the circumstances suggest that an allegation is inherently improbable and where appropriate, that may be taken into account in the assessment of whether the evidence establishes that it is more likely than not that the event occurred. However, there can be no rule of law imposing such a formula.
+(5) Conclusion on Standard of Proof
+49 In the result, I would reaffirm that in civil cases there is only one standard of proof and that is proof on a balance of probabilities. In all civil cases, the trial judge must scrutinize the relevant evidence with care to determine whether it is more likely than not that an alleged event occurred.
+[8] That the Appellant would not only give away almost all of his household items (which the Appellant claims had a fair market value of $43,500) to strangers who appeared one day at his door but would also give them $3,000 in cash when the Appellant did not even know what “charitable organization” he was “donating” the items to, is a highly improbable event. With only the illogical and inconsistent testimony of the Appellant in relation to these events, it seems to me that it is more likely than not that these events did not occur. The Appellant’s explanation of what happened and why it occurred simply stretches his credibility to the point of disbelief. I do not accept that the Appellant made any gift of cash or other property to either the CanAfrica International Foundation or the Triumphant Church of Christ International in 2005. Since there was no testimony of any cash or other property that was given by the Appellant to these organizations in 2006 or 2007, there is no basis for any finding that any cash or other property was given by the Appellant to either one of these organizations in 2006 or 2007. Therefore I find that the Appellant did not make any gift of cash or other property to either one of these organizations in 2005, 2006 or 2007.
+[9] The Respondent’s theory is that the Appellant purchased the charitable donation receipts. Both of the organizations identified above have had their registration as a registered charity revoked (the CanAfrica International Foundation on September 8, 2007 and the Triumphant Church of Christ International on June 6, 2009). The President of CanAfrica International Foundation was charged with fraud in relation to the issuance of false donation receipts and he pleaded guilty to these charges on December 15, 2008. At the time of his guilty plea it was stated that the amount of false donation receipts that he had provided to other taxpayers was in the order of $21.4 million. As a result of further reviews by the Canada Revenue Agency it appears that the amount may be as high as $39 million.
+[10] The investigator for the Canada Revenue Agency who testified at the hearing was not familiar with the Appellant’s case but had been involved in the investigation of CanAfrica International Foundation. She stated that the general scheme was to sell a “charitable donation” receipt for 10% of its face amount. In the Appellant’s case, since he received “charitable donation” receipts totalling $46,500, this would mean that the selling price would have been $4,650 (assuming that the Appellant bought them for 10% of their face amount). This would have been more than the $3,000 that the Appellant claimed to have paid in cash.
+[11] While the Respondent’s theory of what happened is more plausible than the Appellant’s story, the Appellant is not claiming that he was entitled to a tax credit for a charitable donation based on the version of events as described by the Respondent. In any event, it does not seem to me that the Appellant would have made a gift if he would have purchased a charitable donation receipt for 10% (if he paid $4,650) of the amount for which the receipt was issued or 6.5% (if he paid $3,000) of the amount for which the receipt was issued.
+[12] In The Queen v. Friedberg, [1992] 1 C.T.C. 1, 135 N.R. 61, 92 D.T.C. 6031, Justice Linden of the Federal Court of Appeal stated that:
+4 The Income Tax Act does not define the word “gift”, so that the general principles of law with regard to gifts are utilized by the courts in these cases. As Mr. Justice Stone explained in The Queen v. McBurney, [1985] 2 C.T.C. 214, 85 D.T.C. 5433, at page 218 (D.T.C. 5435): “The word gift is not defined in the statute. I can find nothing in the context to suggest that it is used in a technical rather than its ordinary sense.” Thus, a gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor (see Heald, J. in The Queen v. Zandstra, [1974] C.T.C. 503, 74 D.T.C. 6416, at page 509 (D.T.C. 6420)). The tax advantage which is received from gifts is not normally considered a “benefit” within this definition, for to do so would render the charitable donations deductions unavailable to many donors.
+[13] If a person pays $3,000 (or $4,650) for a receipt that is to be issued for $46,500, this would not be a gift.
+[14] Justice Campbell also dismissed the taxpayers’ appeals in relation to amounts that were “donated” to CanAfrica International Foundation in Tuar v. The Queen, 2010 TCC 236, 2010 DTC 1173 and Scott v. The Queen, 2010 TCC 237.
+[15] In any event, the Appellant’s appeal was based on his story that he “donated” $46,500 ($3,000 in cash and $43,500 in goods) in 2005 to strangers who appeared at his door and who represented charities about which the Appellant apparently knew very little. Even if I were to accept that the Appellant made this gift (which I do not accept), the absence of an appraisal report would mean that the Appellant could not succeed in relation to the amount claimed for the goods. The tax credit for a donation by an individual to a charitable organization is provided in subsection 118.1(3) of the Income Tax Act and is based on the individual’s total gifts. The definition of “total gifts” in subsection 118.1(1) of the Act provides that one of the limiting amounts is the individual’s total charitable gifts. The definition of “total charitable gifts” also in subsection 118.1(1) of the Act provides that it is based on the fair market value of the gift (or gifts). Without any evidence with respect to the fair market value of the items, the Appellant cannot succeed in any event in relation to the $43,500 claimed for the goods.
+[16] As a result the Appellant’s appeals in relation to the reassessments that denied the Appellant’s claims for tax credits for charitable donations for 2005, 2006 and 2007 are dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 16th day of June, 2011.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2011TCC292
+COURT FILE NO.: 2010-2765(IT)I
+STYLE OF CAUSE: TU VAN LE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: June 6, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: June 16, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Joanna Hill
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant first stated that he withdrew the money from the bank but later stated that he had the cash in the house.

@@ -1,0 +1,153 @@
+---
+title: "Thompson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30923/index.do"
+last_modified: "2012-08-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 294"
+citation2: ""
+neutral_citation: "2012 TCC 294"
+decision_date: "2012-08-14"
+language: "en"
+item_id: "30923"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7419
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:13:29.052000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5febfefe4ff6ffceacf278ede3ca5d5d6041cb6317343a3605367654a6d7d4db"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Thompson v. The Queen
+
+- Citation: 2012 TCC 294
+- Decision date: 2012-08-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7419, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thompson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-08-14
+Neutral citation
+2012 TCC 294
+File numbers
+2007-2429(IT)I, 2007-845(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2429(IT)I
+BETWEEN:
+MARINA THOMPSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent
+and
+Docket: 2007-845(IT)I
+HAROLD THOMPSON
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application brought before
+The Honourable Justice Campbell J. Miller
+____________________________________________________________________
+ORDER
+The application by the Appellants for reinstatement of their appeals pursuant to section 18.21 of the Tax Court of Canada Act is dismissed.
+Signed at Ottawa, Canada, this 14th day of August 2012.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2012 TCC 294
+Date: 20120814
+Docket: 2007-2429(IT)I
+BETWEEN:
+MARINA THOMPSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2007-845(IT)I
+HAROLD THOMPSON
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+C. Miller J.
+[1] Ms. Marina Thompson and Mr. Harold Thompson have applied to have their appeals reinstated pursuant to s.18.21 of the Tax Court of Canada Act (the "Act"). The facts surrounding the applications have been set out in the Respondent’s Written Submissions as follows:
+Facts
+6. The history of these appeals is set out in the Affidavits of Denis Desloges, Court files: 2007-2429(IT)I and 2007-845(IT)I, both sworn on December 13, 2011 and both filed with the Court on December 15, 2012 in support of the Motion.
+7. This is the second time that the appellants’ appeals have been dismissed because they failed to appeal for a hearing. On May 9, 2011, the appellants failed to appear for a Status Hearing and their appeal were dismissed.
+8. On June 17, 2011 and June 18, 2011, the appellants requested that their appeals be reinstated by way of letters sent to the Court. The respondent did not oppose this request. The Court reinstated the appeals and ordered that the appellants each file an amended notice of appeal by July 15, 2011.
+9. The appellants did not file their amended notices of appeal by the deadline imposed by the Court Order and the respondent filed a motion to have the appeals dismissed for delay.
+10. On August 29, 2011, the appellants appeared before Justice Bédard in Sault Ste. Marie, Ontario for the hearing of the Motion. At the hearing, they indicated that they wished to argue Constitutional issued including Aboriginal rights. Justice Bédard ordered the appellants to file an amended notice of appeal by September 15, 2011, and to file and serve a Notice of Constitutional Question not later than November 4, 2011. In addition, the respondent was ordered to file and serve a motion, if any, that the appeals be heard under the Tax Court of Canada Rules (General Procedure) not later than December 15, 2011.
+11. On September 14, 2011, the appellants filed their amended notices of appeal.
+12. On September 22, 2011, the respondent filed the replies to the amended notices of appeal and served the appellants separately with letters reminding them of the November 4, 2011 deadline to file a Notice of Constitutional Question.
+13. The appellants did not file their Notices of Constitutional Question by the November 4, 2011 deadline imposed by the Court.
+14. On November 9, 2011, counsel for the respondent received a letter from both appellants where they indicated that their Notices of Constitutional Questions were due on November 10, 2011.
+15. Respondent’s counsel wrote to the appellants by letter dated November 16, 2011 and indicated that only the Tax Court had the ability to grant extensions of time. The appellants were provided with the Court’s toll-free telephone number.
+16. The respondent filed a Notice of Motion requesting a telephone conference call with the parties and the Court to determine the appellants’ intentions with respect to their appeals, particularly in pursuing the constitutional issues, and to amend the August 31, 2011 Order to allow the respondent an extension of time to file and serve a motion, if any, that the appeals be heard under the Tax Court of Canada Rules (General Procedure).
+17. This motion was scheduled to be heard in Sault Ste. Marie on July 12, 2012. The appellants did not appear. Their appeals were dismissed and a Judgment was issued indicating such.
+[2] On July 19, 2012 Ms. Marina Thompson wrote to the Court:
+This letter is regarding the attached letter written July 5th, 2012.
+The attached letter was to be emailed to the Tax Court before our court date but because of miscommunication between my son and myself this letter was never sent. When I had enquired about the letter my son said he had emailed it, when, in fact, he, had referred, that he had emailed the letter to me and not to the Tax Court.
+It wasn’t until I asked my son if he had heard from the Tax Court yet regarding the letter that I found that the attached letter had never been sent and was still sitting in my email box.
+I’ve attached the letter to this letter and hope that my mistake can be rectified.
+[3] Attached to her letter was the following letter dated July 5th, 2012:
+Regarding the Order of May 22, 2012 requesting our presence to have our case heard in Sault Ste. Marie, on Thursday July 12, 2012. We are respectfully asking for an extension.
+Recently during the month of June has been a very trying time as my Father passed away and dealing with the family arrangements and so forth have been very time consuming. As well myself and my Mother did not receive our correspondence in a timely fashion as I was in and out of town I was unaware of this letter being sent priority mail, and only received in late June via regular mail. This did not allow myself and my Mother to prepare for our case, so we could defend our taxation rights to the best of our ability. We have also did not have ample time to coordinate our efforts with those members who we are sharing a similar defense with.
+[4] Section 18.21 of the Act permits an appellant whose appeal has been dismissed for failure to appear, to apply to be reinstated. Section 18.21 of the Act reads:
+(1) Where an appellant does not appear on the day fixed for the hearing, or obtain an adjournment of the hearing, of an appeal, the Court shall, on application by the respondent and whether or not the appellant has received notice of the application, order that the appeal be dismissed, unless the Court is of the opinion that circumstances justify that the appeal be set down for hearing at a later date.
+(2) An appellant whose appeal has been dismissed pursuant to subsection (1) may apply to have the order of dismissal set aside and the appeal set down for hearing
+(3) The Court may set aside an order of dismissal made under subsection (1) where
+(a) it would have been unreasonable in all the circumstances for the appellant to have attended the hearing; and
+(b) the appellant applied to have the order of dismissal set aside as soon as circumstances permitted the application to be brought but, in any event, not later than one hundred and eighty days after the day on which the order was mailed to the appellant.
+[5] The Appellants have acted swiftly to make their applications so it is only whether they meet the requirement of s.18.21(3)(a) of the Act that is in issue: was it unreasonable in all the circumstances for the Appellants to have attended Court on July 12, 2012.
+[6] While the Respondent raises the fact that this is the second time the Appellants have had to bring this application, and that also the Appellants have failed to do all things necessary to prosecute their appeals in a timely fashion, the Appellants’ first hurdle to overcome is that set out in s.18.21(3)(a) of the Act. They have not satisfied me that it would have been unreasonable for them to attend on July 12, 2012.
+[7] Having gone through this procedure previously, the Appellants were well aware of the importance of appearing at the scheduled time. It is insufficient to rely on a mistaken belief that they contacted the Court beforehand in seeking an adjournment. Surely, not having received any acknowledgment from the Court regarding the adjournment request they believed they had made, should have set off some alarms. Even a call to the Court in the days leading up to the July 12, 2012 hearing would have quickly brought the mistake to light. It is not unreasonable to expect such a minimal level of inquiry in the circumstances. No, I can only conclude that Ms. Marina Thompson and Mr. Harold Thompson are not prepared to diligently pursue their appeals. They have not provided sufficient justification for their absence on July 12, 2012 and in the circumstances it would not have been unreasonable for them to have attended.
+[8] This application is dismissed.
+Signed at Ottawa, Canada, this 14th day of August 2012.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2012 TCC 294
+COURT FILE NO.: 2007-2429(IT)I and 2007-845(IT)I
+STYLE OF CAUSE: MARINA THOMPSON AND HER MAJESTY THE QUEEN AND HAROLD THOMPSON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: n/a
+DATE OF HEARING: n/a
+REASONS FOR ORDER BY: The Honourable Justice Campbell J. Miller
+DATE OF ORDER: August 14, 2012
+APPEARANCES:
+n/a
+COUNSEL OF RECORD:
+For the Appellant: n/a
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

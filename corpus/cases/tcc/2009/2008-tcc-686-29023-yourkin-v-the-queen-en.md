@@ -1,0 +1,116 @@
+---
+title: "Yourkin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29023/index.do"
+last_modified: "2009-01-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 686"
+citation2: ""
+neutral_citation: "2008 TCC 686"
+decision_date: "2009-01-21"
+language: "en"
+item_id: "29023"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6861
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:40:35.167000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e8e739f834a6f19871ea13f3808e5eaa58ffb18985b88a9ba740a216a9aa0364"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Yourkin v. The Queen
+
+- Citation: 2008 TCC 686
+- Decision date: 2009-01-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6861, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yourkin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-21
+Neutral citation
+2008 TCC 686
+File numbers
+2008-1152(IT)I
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008TCC686
+Docket: 2008-1152(IT)I
+BETWEEN:
+WALTER T. YOURKIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at Toronto, Ontario on November 4, 2008)
+Margeson J.
+[1] The sole issue before the Court is well set out in the Notice of Appeal which has been canvassed here today, and that is whether or not the Appellant is entitled to claim spousal support payments of $13,587 as a deduction for income for the 2005 and 2006 taxation years.
+[2] There are two arguments made by counsel for the Respondent today for dismissal of this case, one is the res judicata argument and the other is the argument on the basis of the facts.
+[3] With respect to the argument of res judicata the Court is satisfied that the cases referred to by counsel for the Respondent are applicable here. The judgments of Justices McArthur and Paris on the facts themselves are basically the same as in this matter before the Court today. The only difference might be the amounts that were involved, but the facts were the same.
+[4] The basic argument is whether or not the judgment of Justice Walsh is binding upon this Court and whether this Court can over turn it. If it is binding on this Court then, of course, there is no basis for the Appellant to make the argument that he is entitled to deductions.
+[5] The Court is satisfied that res judicata does apply here. It is satisfied, on the basis of the Supreme Court decision, that all the conditions precedent to res judicata have been met.
+[6] The case of Angle v. M.N.R., [1975] 2 S.C.R. 248, was a decision of the Supreme Court of Canada and it sets out what the requirements are for res judicata being applied. The factors that must be considered in estoppel are discussed.
+[7] The Court is satisfied that the same question has been decided twice by this Court. The judicial decision which is said to create the estoppel is final. The Court is satisfied that neither the judgments of Justices McArthur nor Paris were appealed and so those judgments are final. Three, that the parties to the judicial decision or their privies were the same persons as the party to the proceedings in which the estoppel is raised. The Court is satisfied that that applies here too.
+[8] On the basis of the issue of estoppel, the Court finds that it applies and the issue that is before the Court today has already been decided. The Appellant cannot be successful and on that basis the Court dismisses the appeals and confirms the Minister’s assessment.
+[9] Secondly, if the Court is wrong and some other Court should decide that the issue of estoppel does not apply; this Court has to consider the merits of the case. On the basis of the merits of the case, the Court is satisfied that the Appellant has not made out a good case, he has not satisfied the Court that the Minister was wrong in making the assessment that he did. That finding hinges entirely on the fact that before the Court today, introduced by the Appellant as Exhibit A-3, is a Judgment of the Ontario Court (General Division), dated January 13, 1997 and on the front of it says:
+THIS MOTION made by the parties for Judgment in accordance with Minutes of Settlement.
+[10] The Court also cited the statutes upon which it was relying. In Exhibit A‑3, page 2 of the Judgment, more importantly, it says:
+THIS COURT ORDERS pursuant to the Family Law Act that spousal support shall be paid or payable on the following terms:
+a. Subject to what is set out below, the obligation of the defendant to pay the plaintiff spousal support shall terminate as of January 1, 1997.
+[11] That Order has not been struck down and no application has been made to have it struck down. Whether the Appellant can still do it or not is another question, not for this Court. If the Appellant had any argument about the correctness of that Order, he should have appealed that Order.
+[12] This Court has no jurisdiction to strike down that Order. See R. v. Wilson, [1983] 2 S.C.R. 594:
+It has long been a fundamental rule that a court order, made by a court having jurisdiction to make it, stands and is binding and conclusive unless it is set aside on appeal or lawfully quashed.
+That is the Order that the Appellant is talking about here that was made on January 13, 1997. If he wishes to strike that down, he will have to make application to a Court of competent jurisdiction. This Court is not that Court.
+[13] Again, in R. v. Wilson, supra:
+It is also well settled in the authorities that such an order may not be attacked collaterally and a collateral attack may be described as an attack made in proceedings other than those whose specific object is the reversal, variation, or nullification of the order or judgment.
+[14] That is what Mr. Yourkin would have to do, to make an application before a court of competent jurisdiction to strike down the order that he is complaining about. His argument is that the order is not in accordance with the Minutes of Settlement because he did not sign them, but the judgment itself, which I cannot go behind on the basis of that Supreme Court of Canada decision, sets out quite clearly that it was in accordance with the Minutes of Settlement and that it was by consent, both of those things Mr. Yourkin argues against.
+[15] Consequently, the end result is that the Court will have to dismiss these appeals and confirm the Minister’s assessment on both basis, one on the issue of res judicata and secondly on the merits of the case.
+Signed at New Glasgow, Nova Scotia, this 21st day of January 2009.
+“T. E. Margeson”
+Margeson J.
+CITATION: 2008TCC686
+COURT FILE NO.: 2008-1152(IT)I
+STYLE OF CAUSE: WALTER T. YOURKIN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 4, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice T. E. Margeson
+DATE OF WRITTEN REASONS
+FOR JUDGMENT: January 21, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sonia Singh
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

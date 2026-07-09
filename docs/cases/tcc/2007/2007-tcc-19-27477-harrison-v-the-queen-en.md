@@ -1,0 +1,237 @@
+---
+title: "Harrison v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27477/index.do"
+last_modified: "2007-01-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 19"
+citation2: ""
+neutral_citation: "2007 TCC 19"
+decision_date: "2007-01-15"
+language: "en"
+item_id: "27477"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 36
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:29:10.367000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bd4a486dbef5dd7f695730407a131acad42d37e4e9194988663974e252cc5cfc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Harrison v. The Queen
+
+- Citation: 2007 TCC 19
+- Decision date: 2007-01-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 36, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Harrison v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-01-15
+Neutral citation
+2007 TCC 19
+File numbers
+2006-238(IT)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-238(IT)I
+BETWEEN:
+GORDON HARRISON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+___________________________________________________________________
+Appeals heard on November 21, 2006, at Toronto, Ontario
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kandia Aird
+__________________________________________________________________
+JUDGMENT
+The appeals from reassessments of tax made under the Income Tax Act for the 2001, 2002 and 2003 taxation years are dismissed.
+Signed at Ottawa, Canada, this 15th day of January, 2007.
+"A.A. Sarchuk"
+Sarchuk D.J.
+Citation: 2007TCC19
+Date: 20070115
+Docket: 2006-238(IT)I
+BETWEEN:
+GORDON HARRISON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sarchuk D.J.
+[1] In reassessing the Appellant for the years in issue, the Minister of National Revenue disallowed the deduction of business losses of $12,102.89, $14,584.63 and $10,090.28, and the business use of home expenses in the amounts of $3,840.57, $4,333.23 and $3,976.41 in the calculation of his income for the 2001, 2002 and 2003 taxation years. A brief outline of the facts leading to the assessments in the taxation years in issue is warranted.
+[2] The Appellant was a high school mathematics teacher and retired in 1994. In addition to teaching, he wrote The Pattern & The Prophecy: God's Great Code,[1] which he described as a biblical analysis and took him some seven years to complete. It was published in 1995 by Isaiah Publications[2] and, he said, approximately 9,000 copies of the book were printed in small lots and sold during the period 1995 to 2000. Since then, it has been out of print. With respect to the foregoing, the Appellant reported gross business income and claimed business losses in the years 1994 to 2000 as follows:
+Taxation Year
+Gross Revenue
+Net Business Loss
+1994
+$nil
+$5,727
+1995
+1,453
+10,769
+1996
+23,627
+16,515
+1997
+26,638
+nil
+1998
+19,234
+232
+1999
+11,361
+11,733
+2000
+3,020
+11,166
+[3] In the three taxation years in issue, the Appellant reported gross business income, costs of sales and expenses including capital cost allowance, and business losses from Isaiah Publications as follows:
+Taxation Year
+2001
+2002
+2003
+Gross Business Income
+$50.85
+$110.00
+$2,300.00
+Cost of Sale
+656.11
+-0-
+-0-
+Gross Profit
+(605.26)
+110.00
+2,300.00
+Expenses
+Maintenance & repairs
+193.84
+-0
+-0-
+Motor vehicle expenses
+5,756.57
+6,130.59
+4,351.96
+Office expenses
+422.37
+1,304.89
+1,413.20
+Legal, accounting
+220.50
+229.00
+235.00
+Other expenses
+1,883.55
+3,377.86
+2,505.53
+Capital cost allowance
+3,020.80
+3,652.29
+3,884.59
+Total Expenses
+11,497.63
+14,694.63
+12,390.28
+Net Loss
+(12,102.89)
+(14,584.63)
+(10,090.28)
+[4] The Appellant testified that in order to promote his book, he attended bookseller's conventions, did radio interviews, attended literary luncheons, and so forth. As well, he had a website following the completion of his first book, The Pattern and The Prophecy, and effected a number of sales through it. He also made specific reference to the amount of $2,300 received in 2003, as part payment by Theologos Publications for "the Chinese translation rights".[3] He added that the translation is now available online in Chinese, and that once approval is received from the Chinese Government, the publishing company will print a paper edition of the book, which he says will earn him a percentage of the sales.
+[5] The Appellant conceded that the contract with Theologos provided him with no guarantee of publication, and therefore, any profits which might be earned on those sales are totally contingent in nature. Notwithstanding the foregoing, the Appellant maintains that with respect to this book, alterations will be made, it will be reprinted and will be reestablished in the market. His optimism is based, in good measure, on information obtained through the Internet which indicated that in all secondhand bookstores around the world, only nine copies of the first book were available (several in Europe) and were priced from $37.00 to $173.00.[4] Such popularity, he said, warrants a reissue, and he expects to make a profit on the reprint of the first book.
+[6] The Appellant further testified that during the taxation years in issue, he completed a second book, The Nightingales of Heraclitus: Shared Ideas of Art, Science and Nature.[5] This book, he said, was written "to make a profit" and to "communicate the power of ideas". He conceded that no publishing company has shown an interest in this new book, and that he personally paid for the printing of 100 copies which, when sold, provided him with enough funds to have another 100 printed, and some 40 or 50 of these have been sold.
+[7] In his concluding argument, the Appellant made reference to paragraph 7 of IT 504R-2, which reads:
+7 In the case of an artist or writer, it is possible that a taxpayer may not realize a profit during his or her lifetime but still have a reasonable expectation of profit. However, in order to have this "reasonable expectation of profit" the artistic or literary endeavors, as the case may be, of the artist or writer must be carried on in a manner such that, based on the criteria in 5 above, they may be considered for income tax purposes to be the carrying on of a business rather than, for example, a hobby.
+and to the following comments with respect thereto by Bowman J. in LeBlanc v. The Queen:[6]
+It should not be the role of this Court or of the government to make the situation even more difficult for persons like Mr. LeBlanc, who is attempting conscientiously and in good faith to develop the arts in Canada.
+The Appellant maintains that the latter comment related directly to Leblanc's case for the music industry, and for his case, the publishing industry, and submitted that:
+I believe I have demonstrated I have conscientiously enriched the arts in Canada. I have two wonderful books out, a third and fourth in production, and I believe I've established from my Chinese contract I expect huge profits from the reissue of the first book which has a tremendous sales record, and an appreciating value on the Internet. I can certainly make a profit in my lifetime and erase some of these previous losses incurred from plowing all the money back into the company with the expectation of make a profit and realizing I have presented something worthwhile to a Canadian audience.
+Respondent's position
+[8] The Respondent's position is that the Appellant did not have a business in the years in issue. There was, counsel argued, clearly a personal element to the pursuit undertaken by him and noted that he admitted that "he was very passionate about the subject matter that he was working on", and had been so for a long time and intended to continue on that basis into the future.
+[9] Counsel conceded that a personal element is not fatal to the existence of a business. However, in the present case, there was an absence of commerciality with respect to the manner in which the Appellant undertook his ventures. Specific reference to the profit and loss experience of the Appellant's venture demonstrated that since its inception in 1995 to the present date, the Appellant continues to report significant losses. Looking at that factor alone, counsel argued that one would be hard-pressed to find the existence of a badge of trade or an indicator of commerciality.
+[10] With reference to the Appellant's intended course of action, counsel submitted that it is difficult to see where the profit potential exists given his current status, and his proposed sales efforts for the future. More specifically, counsel made reference to the mainland Chinese publication and the Appellant's belief that there was a potential for a great deal of revenue, and contends that this was nothing more than a speculative assertion based on a number of contingent factors, all of which were questionable. It was also noted that the agreement was executed in 1999 and there has been no sign that Theologos Publications will be able to obtain the necessary I.S.B.N.'s from China, failing which it would not be published in mainland China as planned. Taking these factors into account, counsel submitted that the Minister's conclusion that the objective standards of businesslike behavior have not been met are correct and accordingly, the appeals should be dismissed.
+Conclusion
+[11] The issue in these appeals is whether the book-writing activity of the Appellant constituted a source of income. In a recent decision, Stewart v. Canada,[7] the Supreme Court of Canada concluded that the "reasonable expectation of profit" concept "should not be accepted as the test to determine whether a taxpayer's activities constitute a source of income". In so doing, the Court recommended the following approach to determine whether the book-writing activities of the Appellant constituted a source of income:
+48. In our view, the determination of whether a taxpayer has a source of income, must be grounded in the words and scheme of the Act.
+49 TheAct divides a taxpayer's income into various sources. Under the basic rules for computing income in s. 3, the Act states:
+3 The income of a taxpayer for a taxation year for the purposes of this Part is his income for the year determined by the following rules:
+(a) determine the aggregate of amounts each of which is the taxpayer's income for the year ... from a source inside or outside Canada, including, without restricting the generality of the foregoing, his income for the year from each office, employment, business and property;
+With respect to business and property sources, the basic computation rule is found in s. 9:
+9(1) Subject to this Part, a taxpayer's income for a taxation year from a business or property is his profit therefrom for the year.
+(2) Subject to section 31, a taxpayer's loss for a taxation year from a business or property is the amount of his loss, if any, for the taxation year from that source computed by applying the provisions of this Act respecting computation of income from that source mutatis mutandis.
+50 It is clear that in order to apply s. 9, the taxpayer must first determine whether he or she has a source of either business or property income. As has been pointed out, a commercial activity which falls short of being a business, may nevertheless be a source of property income. As well, it is clear that some taxpayer endeavours are neither businesses, nor sources of property income, but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+(ii) If it is not a personal endeavour, is the source of the income a business or property?
+The first stage of the test assesses the general question of whether or not a source of income exists; the second stage categorizes the source as either business or property.
+51 ...
+52 The purpose of this first stage of the test is simply to distinguish between commercial and personal activities, and, as discussed above, it has been pointed out that this may well have been the original intention of Dickson J.'s reference to "reasonable expectation of profit" in Moldowan. Viewed in this light, the criteria listed by Dickson J. are an attempt to provide an objective list of factors for determining whether the activity in question is of a commercial or personal nature. These factors are what Bowman J.T.C.C. has referred to as "indicia of commerciality" or "badges of trade": Nichol, supra, at p. 1218. Thus, where the nature of a taxpayer's venture contains elements which suggest that it could be considered a hobby or other personal pursuit, but the venture is undertaken in a sufficiently commercial manner, the venture will be considered a source of income for the purposes of the Act.
+53 ...
+54 It should also be noted that the source of income assessment is not a purely subjective inquiry. Although in order for an activity to be classified as commercial in nature, the taxpayer must have the subjective intention to profit, in addition, as stated in Moldowan, this determination should be made by looking at a variety of objective factors. Thus, in expanded form, the first stage of the above test can be restated as follows: "Does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?" This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+55 The objective factors listed by Dickson J. in Moldowan, at p. 486, were: (1) the profit and loss experience in past years; (2) the taxpayer's training; (3) the taxpayer's intended course of action; and (4) the capability of the venture to show a profit. As we conclude below, it is not necessary for the purposes of this appeal to expand on this list of factors. As such, we decline to do so; however, we would reiterate Dickson J.'s caution that this list is not intended to be exhaustive, and that the factors will differ with the nature and extent of the undertaking. We would also emphasize that although the reasonable expectation of profit is a factor to be considered at this stage, it is not the only factor, nor is it conclusive. The overall assessment to be made is whether or not the taxpayer is carrying on the activity in a commercial manner. However, this assessment should not be used to second-guess the business judgment of the taxpayer. It is the commercial nature of the taxpayer's activity which must be evaluated, not his or her business acumen.
+[12] I am satisfied that the evidence before the Court establishes that the Appellant's venture contains a number of elements which clearly reflect the existence of a personal pursuit. Accordingly, it was incumbent on the Appellant to establish that his predominant intention was to make a profit from the activity and, more importantly, that the activity was carried out in a sufficiently commercial manner.
+[13] In the course of his testimony, the Appellant reiterated his belief in the marketability of the first book. This perception is totally inconsistent with the fact that the five or six publishers approached by the Appellant with respect to that book failed to show any interest whatsoever, which led to the Appellant's publication of the book himself. It is fair to conclude that the Appellant must have been aware that the result would be an absence of distribution channels, without which, marketing the product would be most difficult, as indeed it was. I do not ignore the existence of the Chinese venture, but almost seven years have passed since the agreement was signed, and aside from the fact that the book is available online in that language, there is nothing tangible to support the Appellant's belief that at some point of time, a Chinese edition will be available and that substantial revenue would be generated.
+[14] With respect to the second book, The Nightingales of Heraclitus, the situation was repeated in that no publisher has shown any substantial interest in the product and his own efforts have resulted in the sale of a paltry 150 books. Nonetheless, the Appellant insists that he will sell this book on the Internet, albeit conceding that self-publication and personal distribution would incur a substantial amount of expenses related to travel, delivery and so forth.
+[15] The Appellant's optimism with respect to his books is not supported by the facts. In his Notice of Appeal, he described The Nightingales of Heraclitus as being:
+... modeled on Jared Diamond's phenomenal best seller, Guns, Germs, and Steel, which has sold 120,000 to date in just Canada. My potential for profit here is huge.
+I note that Diamond was awarded the Pulitzer Prize for the book referred to by the Appellant. As well, he previously had written another award-winning book, The Third Chimpanzee, and more recently, one entitled Collapse - How Societies Choose to Fail or Succeed, which has also been highly acclaimed. In my view, the Appellant's optimism is not supported by the facts, and his approach to marketing has led to substantial losses incurred in every year since 1994. Furthermore, there is virtually no evidence before the Court to warrant a conclusion that matters will change.
+[16] The Appellant's sales record and substantial losses since 1994, as well as his plans for the future fall far short of establishing that the commercial nature of the activity in issue was carried out by him in accordance with objective standards of businesslike behavior. For the foregoing reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 15th day of January, 2007.
+"A.A. Sarchuk"
+Sarchuk D.J.
+CITATION: 2007TCC19
+COURT FILE NO.: 2006-238(IT)I
+STYLE OF CAUSE: GORDON HARRISON AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 21, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT: January 15, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kandia Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1.
+[2] Isaiah Publications was a business name registered by the Appellant.
+[3] Exhibit A-3. The agreement was executed on June 1st, 1999.
+[4] Exhibit A-4. What the Appellant failed to mention is that the prices include standard shipping costs to Canada.
+[5] Exhibit A-2.
+[6] [2002] T.C.J. No. 70.
+[7] [2002] 2 S.C.R. 645.

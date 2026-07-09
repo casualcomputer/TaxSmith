@@ -1,0 +1,176 @@
+Title: Les Séchoirs à Bois René Bernard Ltée c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28592/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-139-28592-les-s-choirs-bois-ren-bernard-lt-e-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-04-03
+
+# Les Séchoirs à Bois René Bernard Ltée c. M.R.N.
+
+- Citation: 2008 CCI 139
+- Decision date: 2008-04-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1059, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Séchoirs à Bois René Bernard Ltée c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-03
+Référence neutre
+2008 CCI 139
+Numéro de dossier
+2007-3530(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-3530(EI)
+ENTRE :
+LES SÉCHOIRS À BOIS RENÉ BERNARD LTÉE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 25 février 2008 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocat de l'intimé :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi est accueilli et la décision du ministre du Revenu national est annulée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour d’avril 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008CCI139
+Date : 20080403
+Dossier : 2007-3530(EI)
+ENTRE :
+LES SÉCHOIRS À BOIS RENÉ BERNARD LTÉE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel d’une décision au terme de laquelle le ministre du Revenu national (le « ministre ») a déterminé que le travailleur, monsieur Daniel Bernard, exerçait un emploi assurable auprès de la compagnie Les Séchoirs à Bois René Bernard Ltée, du 1er janvier 2004 au 9 juin 2005, en vertu d’un contrat de louage de services, et ce, bien que l’emploi était exclu en principe en vertu de l’alinéa 5(2)i) de la Loi sur l’assurance‑emploi (la « Loi »).
+[2] En rendant la décision dont il est fait appel, le ministre s’est appuyé sur les présomptions de fait suivantes :
+5. […]
+a) l’appelante a été constituée en société le 30 septembre 1974; (admis)
+b) l’appelante exploitait une entreprise de rabotage ou planage de bois, elle possédait 23 séchoirs, 2 bouilloires et des planeurs; (admis)
+c) l’appelante était en exploitation à l’année longue; (admis)
+d) l’appelante avait un chiffre d’affaires d’environ 4 à 5 millions par année; (admis)
+e) l’appelante employait une quarantaine d’employés; (admis)
+f) le travailleur rendait des services à l’appelante depuis 1986; (admis)
+g) le travailleur était responsable des services de gestion de personnel et de production de l’appelante; (admis)
+h) les tâches du travailleur consistaient à s’occuper de la gestion du personnel, de l’équipement de production, des achats, de la maintenance des équipements et de la vente de « rip »; (admis)
+i) le travailleur œuvrait au bureau de l’appelante; (nié)
+j) le travailleur œuvrait généralement du lundi au vendredi de 8 h à 16 h 30 : (nié)
+k) le travailleur était rémunéré 810 $ à chaque semaine pour une semaine de 44 heures; (nié)
+l) le travailleur avait un salaire annuel de 42 930 $; (admis)
+m) le travailleur prenait deux semaines de vacances durant les vacances de la construction; (nié)
+n) l’appelante avait un droit de contrôle sur le travailleur; (admis)
+6. […]
+a) L’actionnaire unique de l’appelante était Placement René Bernard Inc. (admis)
+b) Les actionnaires de Placements René Bernard Inc. avec des actions votantes étaient :
+René Bernard
+Gestion Michel Bernard Inc
+Placements Éric Bernard Inc
+9071-4635 Québec Inc.
+(admis)
+75 % des actions
+11,11 % des actions
+11,11 % des actions
+2,78 % des actions
+c) L’actionnaire de 9071-4635 Québec Inc. est le travailleur avec 75 % des actions votantes et l’épouse du travailleur avec 25 % des actions votantes. (admis)
+d) René Bernard est le père du travailleur, de Michel Bernard et de Éric Bernard. (admis)
+e) Le travailleur est lié par les liens du sans à un groupe de personne qui contrôlent l’appelante. (admis)
+7. […]¸
+a) selon les registres d’Emploi-Québec, les salaires versés pour des postes semblables aux tâches occupées par le travailleur, variaient entre 34 000 $ et 51 000 $; (nié)
+b) André Audet, un chef mécanicien de l’appelante avec 35 10 ans d’expérience, recevait un salaire annuel de 58 264 $ mais il travaillait 50 heures par semaine; (nié)
+c) en 2004, le travailleur n’a pas reçu de boni de l’appelante, mais une rémunération additionnelle de 9 100 $ de 9019‑4747 Québec Inc. (société dont le travailleur est actionnaire majoritaire qui s’occupe de transport de bois) et un dividende de 5 000 $ de 9071‑4635 Québec Inc.; (nié)
+d) la rémunération du travailleur était raisonnable; (nié)
+e) les modalités d’emploi correspondaient à ce que l’on retrouve chez un employé non lié, le travail effectué sur les lieux de l’appelante, durant les heures d’ouverture de l’entreprise et les responsabilités étaient proportionnelles à l’expérience acquise au fil des ans; (nié)
+f) un lien de subordination existait entre l’appelante et le travailleur; (nié)
+g) le travailleur était au service de l’appelante depuis une vingtaine d’années; (admis)
+h) le travailleur œuvrait à l’année longue pour l’appelante; (admis)
+i) la durée du travail du travailleur était raisonnable; (nié)
+j) le travail du travailleur était nécessaire et important pour la bonne marche de l’entreprise de l’appelante; (admis)
+k) le travailleur était à l’emploi de l’appelante depuis 1986 de sorte que son expertise et ses responsabilités ont augmenté avec les années, un étranger aurait acquis la même expérience que le travailleur; (nié)
+l) les modalités, la nature et l’importance du travail du travailleur étaient raisonnables. (nié)
+[3] Après avoir pris en considération les présomptions de fait susmentionnées, le ministre a conclu qu’il était raisonnable, de croire compte tenu de toutes les circonstances, que l’appelante et le travailleur auraient conclu un contrat de travail à peu près semblable s’ils n’avaient pas eu un lien de dépendance.
+[4] Seul Daniel Bernard a témoigné au soutien de l’appel. Il a expliqué avoir commencé très jeune à travailler pour l’appelante et qu’il a exercé son travail durant plusieurs années comme étudiant. Il a expliqué avoir exécuté la majorité des travaux à faire dans le cadre de l’exploitation de l’entreprise.
+[5] Bien qu’il ait fait des études universitaires (baccalauréat en géographie) dans un domaine n’ayant rien à voir avec la vocation de l’entreprise, il a décidé d’abandonner ses études au moment où elles étaient pratiquement terminées, seule sa thèse restant à faire, pour se consacrer entièrement à la gestion de l’entreprise.
+[6] Il a expliqué que l’entreprise avait connu certains problèmes à cause d’employés non fiables. Il a ainsi assumé un certain nombre de responsabilités de manière à pouvoir bien contrôler la situation en terme de gestion.
+[7] Il a ensuite déclaré que les activités de l’entreprise se déroulaient sur trois sites différents. Les opérations de sciage avaient lieu à un endroit séparé d’une soixantaine de kilomètres des deux autres endroits où étaient situés les séchoirs.
+[8] Selon les périodes, l’entreprise avait jusqu’à une quarantaine d’employés sur sa liste de paye. Les activités de sciage se déroulaient sur deux quarts de travail, un quart de travail avait trait au sciage du pin, et celui de la nuit au sciage de l’épinette.
+[9] Ses deux frères avaient chacun la responsabilité d’un quart de travail.
+[10] Daniel Bernard a affirmé qu’il était en disponibilité sept jours par semaine, 24 heures sur 24, puisque sa présence pouvait être requise en tout temps, notamment pour le séchage, étant donné l’importance des bouilloires qui devaient faire l’objet d’une attention constante. Il a mentionné qu’un système de caméras avait été installé de manière à ce qu’il puisse, de la maison ou d’ailleurs avec Internet notamment, veiller au bon fonctionnement des installations en tout temps. Il a aussi indiqué que, même absent, il communiquait avec le personnel de l’entreprise tous les jours pour s’enquérir de la situation.
+[11] Les activités de séchage se déroulaient sur deux sites, l’un regroupant 18 séchoirs et l’autre 5 séchoirs. Le site ayant 18 séchoirs fonctionne avec une bouilloire alimentée avec des copeaux, alors que le site ayant 5 séchoirs est alimenté au gaz naturel. Il s’agit là de procédés particulièrement sophistiqués et exigeant une attention et des soins très particuliers et constants, ce qui explique et justifie l’installation d’un système d’alarme et d’un réseau de caméras.
+[12] Daniel Bernard était responsable de l’embauche et, à l’occasion, du congédiement. Il bénéficiait d’une grande autonomie pour toutes les décisions liées à la bonne gestion. Toutefois, il a admis que les décisions importantes d’achat de matériel étaient prises en consultation avec ses frères.
+[13] Il a indiqué avoir également des intérêts dans une compagnie de transport. Il consacrait environ 10 % de son temps à cette compagnie. Le reste de son temps disponible était consacré aux activités de l’appelante.
+[14] Daniel Bernard a expliqué qu’il recevait un salaire annuel de 42 903 $ pour le travail qu’il exécutait pour le compte de l’appelante.
+[15] Il a aussi affirmé que quatre ou cinq travailleurs non liés à l’appelante touchaient un salaire annuel supérieur au sien.
+[16] À la lumière de ce témoignage, il appert que certaines présomptions de fait ont été totalement réfutées. Je fais notamment référence aux faits mentionnés aux alinéas 5 j) et k) à l’effet que le travailleur travaillait généralement du lundi au vendredi de 8 h à 16 h 30 et était rémunéré 810 $ à chaque semaine pour une semaine de 44 heures.
+[17] Par ailleurs, le ministre a allégué à l’alinéa 7 d) que la rémunération du travailleur était raisonnable. Toutefois, à l’alinéa 7 b), le ministre a soutenu qu’un autre employé recevait un salaire annuel de 58 264 $ pour 50 heures de travail alors que le travailleur en l’espèce recevait un salaire de 42 930 $ pour 44 heures de travail.
+[18] On peut également lire dans les présomptions de fait que, selon les registres d’Emploi-Québec, les salaires versés pour des postes semblables aux tâches occupées par le travailleur variaient entre 34 000 $ et 51 000 $.
+[19] Il s’agit là d’une affirmation qui n’a pas été appuyée par aucun élément de preuve. D’autre part, il aurait été intéressant de savoir ce que l’on entendait par « des postes semblables aux tâches occupées par le travailleur ».
+[20] Ce sont là quelques éléments auxquels un poids important a été accordé et qui ne correspondaient en aucune façon à la preuve soumise devant la Cour.
+[21] En effet, comment le ministre en est-il venu à conclure que la rémunération pour la prestation de travail décrite par Daniel Bernard était raisonnable? La comparaison à laquelle s’est livré le ministre me semble traduire un manque de rigueur évident.
+[22] Ce sont là des éléments qui me permettent de conclure que l’analyse a été viciée par la prise en considération d’éléments n’ayant aucun fondement dans la réalité. Est-il quand même raisonnable de conclure que l’appelante et le travailleur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance?
+[23] Il a été établi que les deux frères de Daniel Bernard, lesquels s’occupaient chacun d’un quart de travail, l’un lié au sciage du pin et l’autre de l’épinette, avaient un salaire somme toute comparable à celui de Daniel. L’emploi des frères de Daniel Bernard était exclu des emplois assurables étant donné qu’ils détenaient chacun 40 % des actions de la compagnie. Pour sa part, Daniel n’en possédait que 12 %.
+[24] Lorsque des actionnaires ayant un lien de dépendance entre eux, ce qui comprend les travailleurs de la société dans laquelle ils détiennent des actions, font l’objet d’une décision relative à l’assurabilité de leur emploi, il m’apparaît important de prendre en considération les paramètres de situations semblables où il n’était aucunement question d’un lien de dépendance.
+[25] À cet effet, je m’exprimais, dans la décision 9022-0377Québec Inc., (Évasion Sport D.R.) c. M.R.N., 2004-37319(EI), 2005 CCI 474, comme suit aux paragraphes 51 à 59 inclusivement :
+51 La comparaison ne m'apparaît pas totalement pertinente étant donné que Pierre Deschênes ne possédait aucune action dans l'entreprise. Ce qu'une société demande et exige de ses actionnaires qui occupent un emploi dans le cadre des activités commerciales, après avoir accepté les modalités de l'emploi, n'a rien à voir avec le traitement réservé, offert ou accepté par quelqu'un qui ne possède aucune action dans la société.
+52 Lorsque des actionnaires ayant ou non un lien de dépendance entre eux décident d'avoir une politique salariale pour les actionnaires-travailleurs, qui est très mesquine ou généreuse, très permissive ou très contraignante, cela n'a rien à voir avec les conditions de travail des autres employés.
+53 Si des actionnaires-travailleurs ont accepté des conditions, que cela les avantage ou les désavantage face aux autres travailleurs de la société, cela n'a rien à voir avec l'existence d'un lien de dépendance. La seule question pertinente est de savoir s'il y a eu travail, rémunération, pouvoir d'intervention et contrôle de la société sur un ou tous les actionnaires-travailleurs? Si oui, il y a contrat de travail. En présence d'une situation concernée par l'exclusion prévue à l'alinéa 5(2)i) de la Loi, la comparaison du travail doit se faire entre un actionnaire-travailleur n'ayant aucun lien de dépendance, et non pas avec les autres employés ne possédant aucune action, et cela, même le statut d'actionnaire et le statut de travailleur sont deux statuts fondamentaux distincts.
+54 Prétendre le contraire aurait pour effet de créer une grave incohérence à l'endroit de toutes les P.M.E. où les actionnaires qui n'ont pas de lien de dépendance entre eux décident de prévoir une politique particulière pour les actionnaires‑travailleurs. N'étant pas assujettis à l'exercice d'un pouvoir discrétionnaire, étant donné l'absence de lien de dépendance entre eux, ils verraient leur entente de travail jugée assurable et ce, même si leurs conditions de travail étaient extrêmement différentes de celles des autres travailleurs de la même entreprise.
+55 La très grande autonomie dont les actionnaires-travailleurs jouissent dans le cadre de l'exécution de leur travail, l'importance de l'emploi, le salaire substantiellement inférieur ou supérieur des actionnaires-travailleurs par rapport aux autres travailleurs, l'absence totale de vacances ou la possibilité de prendre des vacances sans avis d'une durée dépassant celle des autres employés et ainsi de suite, sont tous des éléments que les actionnaires-travailleurs n'ayant pas de lien de dépendance ne peuvent invoquer pour se soustraire à l'obligation de payer des cotisations au motif que leur entente de travail n'est pas un véritable contrat de louage de services.
+56 Le législateur a expressément prévu la question du travail exécuté par des personnes qui détiennent des actions dans l'entreprise pour laquelle elles travaillent. Il s'agit de l'alinéa 5(2)b) de la Loi, qui prévoit que le travail exécuté par un actionnaire‑travailleur, propriétaire de plus de 40 % des actions avec droit de vote, est automatiquement exclu des emplois assurables.
+57 Le statut du actionnaire-travailleur détenant moins de 40 % des actions avec droit de vote est reconnu par la Loi. Conséquemment, lorsqu'une ou des comparaisons sont nécessaires dans le cadre d'un dossier où il existe un lien de dépendance, l'analyse et les comparaisons doivent se faire entre travailleurs ayant la ou les mêmes qualités et la qualité d'actionnaire ne peut être occultée de l'analyse.
+58 Lorsqu'une personne investit dans un domaine dans lequel elle n'a pas ou elle a peu de connaissances et que ses co-actionnaires ont compétence et expertise, il est plus que normal de s'en remettre à eux pour la bonne gestion de l'entreprise.
+59 Il devient alors fondamental pour cette personne de disposer de certains outils de contrôle ou d'intervention. En l'espèce, Denis Coiffier, outre les droits que lui conférait sa part de 40 % d'actions, a probablement été le promoteur de la convention des actionnaires qui lui fournissait un élément additionnel pour s'assurer de la bonne marche de l'entreprise et de la viabilité de son investissement.
+[26] À cet effet, je n’ai pas changé d’approche.
+[27] En cette matière, les règles ou les normes devant nous guider dans le cadre de l’exercice qui consiste à faire des comparaisons sont particulières ; en effet, bien qu’une personne cumule deux statuts à l’intérieur d’une entreprise, soit celui de travailleur et celui d’actionnaire et qu’il faille distinguer les deux statuts, il n’en demeure pas moins que les attentes, les objectifs et les préoccupations d’un travailleur‑actionnaire peuvent être différents de ceux d’un travailleur non‑actionnaire sans pour autant modifier la nature du contrat de travail. Un contrat de travail regroupe trois éléments. Une prestation de travail, un lien de subordination et une rémunération.
+[28] Or, une rémunération peut varier en fonction des personnes. Il n’est pas anormal ni déraisonnable pour une personne d’accepter un salaire inférieur à la norme, et ce, pour différentes raisons, allant du désir de prendre de l’expérience, du milieu, de l’ambiance, du contexte, de la flexibilité, de la réputation, et ainsi de suite. Or, un lien de dépendance entre les parties à un contrat de travail peut avoir un effet pervers dans le sens où on attribuera au lien de dépendance les particularités du contrat de travail pourtant possible entre des parties sans lien de dépendance.
+[29] Bien que les avantages, désavantages, bénéfices et inconvénients hors norme soient plus répandus dans les relations de travail où il y a un lien de dépendance, cela ne veut pas pour autant dire qu’il s’agit là d’une situation exclusive à ce genre de relations de travail.
+[30] En effet, lorsque des personnes créent une société, elles peuvent très bien convenir entre elles des conditions de travail qui, de l’extérieur, peuvent sembler bizarres ou tout au moins particulières. Il s’agit normalement de conditions de travail allant d’inférieures à très inférieures à ce qui pourrait exister normalement sur le marché du travail.
+[31] Ces personnes peuvent avoir des motifs très légitimes d’agir ainsi. À titre d’exemple, il suffit de référer à une situation où, à la suite de la création d’une nouvelle entreprise, les actionnaires sans lien de dépendance conviennent d’une rémunération minimale malgré une prestation de travail largement supérieure tant en heures qu’en matière de responsabilités, à la norme et ce, dans le but de solidifier les assises financières de la nouvelle entreprise.
+[32] En l’espèce, le statut de Daniel Bernard actionnaire à 20 % et travailleur, était différent de celui de ses frères étant donné que le dividende était payé en proportion de la participation des frères dans le capital-actions
+[33] Toutefois, lorsqu’un travailleur actionnaire accepte des conditions inférieures, désavantageuses ou très particulières, il doit y avoir une explication raisonnable. Cette exigence s’applique tant au travailleur-actionnaire sans lien de dépendance avec ceux qui contrôlent la société qu’au travailleur‑actionnaire ayant un lien de dépendance.
+[34] En l’espèce, il m’apparaît tout à fait déraisonnable d’imaginer un tiers acceptant des conditions de travail à peu près semblables à celles de Daniel Bernard.
+[35] En effet, il occupait un poste stratégique dans l’entreprise, il accumulait de nombreuses heures de travail et ses conditions de travail étaient manifestement plus exigeantes que celles de ses deux frères.
+[36] Malgré toutes ces particularités, Daniel Bernard ne pouvait espérer comme rémunération indirecte qu’un bénéfice proportionnel à sa participation étant donné qu’il ne détenait que 20 % des actions.
+[37] Dans un contexte familial, une telle situation était peut‑être acceptable, mais s’il n’y avait pas eu de lien de dépendance le travailleur aurait manifestement été beaucoup plus exigeant, notamment au niveau du salaire.
+[33] Pour ces raisons, j’annule la détermination et je conclue que le travail est exclu des emplois assurables en vertu de l’alinéa 5(2)i) de la Loi.
+Signé à Ottawa, Canada, ce 3e jour d’avril 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2008CCI139
+Nº DU DOSSIER DE LA COUR : 2007-3530(EI)
+INTITULÉ DE LA CAUSE : LES SÉCHOIRS À BOIS RENÉ BERNARD LTÉE ET M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : Le 25 février 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 3 avril 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocat de l'intimé :
+Me Alain Gareau
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Nom : Me Jérôme Carrier
+Cabinet : Lévis (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

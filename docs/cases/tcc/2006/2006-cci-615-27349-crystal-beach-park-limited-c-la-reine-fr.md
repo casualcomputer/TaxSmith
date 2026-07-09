@@ -1,0 +1,205 @@
+---
+title: "Crystal Beach Park Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27349/index.do"
+last_modified: "2006-11-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 615"
+citation2: ""
+neutral_citation: "2006 CCI 615"
+decision_date: "2006-11-10"
+language: "fr"
+item_id: "27349"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 171
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:34:39.179000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5dc670ec9ab9ef8f1b34e50a8eaea788da10d17318d747951fd739bdef4d0ca1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Crystal Beach Park Limited c. La Reine
+
+- Citation: 2006 CCI 615
+- Decision date: 2006-11-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 171, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Crystal Beach Park Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-10
+Référence neutre
+2006 CCI 615
+Numéro de dossier
+2001-970(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-970(IT)G
+ENTRE :
+CRYSTAL BEACH PARK LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 17 octobre 2006 à Toronto (Ontario).
+Devant : l’honorable juge G. Sheridan
+Comparutions :
+Avocate de l’appelante :
+Me Leigh Somerville Taylor
+Avocat de l’intimée :
+Me Shatru Ghan
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’appelante afin d’obtenir une ordonnance accordant des dépens plus élevés que ceux prévus au tarif B de l’annexe II;
+Après avoir lu les documents produits et avoir entendu les observations faites par les avocats;
+La requête de l’appelante est rejetée conformément aux motifs de l’ordonnance ci‑joints.
+Chaque partie assume ses propres dépens afférents à la présente requête.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 5e jour de février 2008.
+Maurice Audet, réviseur
+Référence : 2006CCI615
+Date : 20061110
+Dossier : 2001-970(IT)G
+ENTRE :
+CRYSTAL BEACH PARK LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Sheridan
+[1] Par sa requête, l’appelante, Crystal Beach Park Limited, demande à la Cour de prendre l’une ou l’autre des mesures suivantes :
+[TRADUCTION]
+(a) Ordonner que les dépens de la présente affaire soient fixés à 53 592,31 $, à savoir : (1) la somme prévue au tarif B de l’annexe II pour les services d’avocats rendus jusqu’à la date de l’offre de règlement faite le 2 décembre 2003 par l’appelante; (2) la moitié d’une indemnité substantielle pour les services d’avocats rendus par la suite; et (3) tous les débours engagés;
+(b) Donner les directives suivantes à l’officier taxateur : (1) l’intimée doit payer les dépens conformément au tarif B de l’annexe II jusqu’au 2 décembre 2003, date à laquelle l’appelante a présenté une offre de règlement; (2) l’intimée doit payer des dépens supérieurs à ceux prévus par le tarif, dans la mesure où la Cour l’estime approprié, compte tenu de l’ensemble des circonstances, au titre des services d’avocats rendus après le 2 décembre 2003; et (3) l’intimée rembourse à l’appelante tous les débours qu’elle a engagés;
+(c) Donner pour directives à l’officier taxateur de prendre en considération des facteurs autres que ceux prévus à l’article 154 des Règles de la Cour canadienne de l’impôt (procédure générale), y compris, nommément : la complexité de l’affaire, tant sur le plan du droit que des faits; l’issue de l’affaire; la conclusion tirée par la juge présidant l’instruction voulant que l’intimée ait fait valoir que le ministre avait formulé certaines hypothèses de fait alors que la Cour a décidé, à l’instruction, que celles‑ci n’avaient pas réellement été émises par le ministre; ainsi que les offres de règlement non acceptées de l’appelante, lesquelles lui étaient toutes moins favorables que le jugement.
+Elle demande en outre à la Cour de prendre l’une ou l’autre des mesures suivantes :
+(d) Ordonner que les dépens de la présente requête soient adjugés à l’appelante sur une base procureur‑client, plus la TPS;
+(e) Accorder les autres réparations et rendre les autres directives que la Cour estime justes.
+[2] L’appelante invoque ce qui suit au soutien de sa requête :
+[TRADUCTION]
+(a) Lorsqu’elle a accueilli l’appel de l’appelante, la juge Sheridan a adjugé les dépens à cette dernière sans savoir qu’elle avait présenté des offres de règlement et sans avoir eu le bénéfice de prendre connaissance des observations formulées par les avocats relativement aux dépens.
+(b) L’appelante a tenté de résoudre l’appel et de circonscrire les questions en litige tout au long de l’instance, notamment de la façon suivante : elle a demandé que certains actes de procédure fassent l’objet de modifications et de précisions afin d’expliciter les questions en litige, elle a tenté d’obtenir des aveux et elle a présenté trois offres de règlement par écrit avant les étapes importantes de l’instance. Ces offres étaient toutes plus avantageuses pour l’intimée que le jugement rendu, mais aucune n’a été acceptée.
+(c) En l’absence de directives de la Cour, l’officier taxateur pourrait ne prendre en considération que les facteurs prévus à l’article 154 des Règles de la Cour canadienne de l’impôt (procédure générale), à savoir les sommes en cause, l’importance des questions en litige, la complexité de celles‑ci et la charge de travail.
+(d) Il existe des facteurs, autres que ceux prévus à l’article 154 des Règles, qui sont pertinents au regard de la présente instance et qui ont eu pour effet d’augmenter les frais engagés par l’appelante dans le cadre du présent appel.
+(e) Les articles 147, 154 et 157 ainsi que le tarif B de l’annexe II des Règles de la Cour canadienne de l’impôt (procédure générale).
+[3] Les dispositions applicables de l’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale) sont reproduites ci‑dessous :
+Règles générales
+147. (1) Sous réserve des dispositions de la Loi, la Cour a entière discrétion pour adjuger les frais et dépens aux parties à une instance, pour en déterminer la somme, pour les répartir et pour désigner les personnes qui doivent les supporter.
+[...]
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+(5) Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+a) adjuger ou refuser d’adjuger les dépens à l’égard d’une question ou d’une partie de l’instance particulière,
+b) adjuger l’ensemble ou un pourcentage des dépens taxés jusqu’à et y compris une certaine étape de l’instance,
+c) adjuger la totalité ou partie des dépens sur une base procureur‑client.
+[4] Selon la règle générale, les dépens sont ceux prévus par le tarif. La Cour a toutefois le pouvoir discrétionnaire d’adjuger des dépens plus élevés que ceux fixés par le tarif lorsque des circonstances exceptionnelles le justifient.
+[5] En l’espèce, l’appelante affirme qu’une adjudication de ce genre est justifiée et elle invoque, en particulier, mes conclusions relatives au témoignage du vérificateur, ses efforts pour circonscrire les questions en litige et ses offres de règlement. Selon l’avocat de l’intimée, rien ne justifie une adjudication des dépens supérieure au tarif. Si je prends en considération les facteurs énoncés au paragraphe 147(3), je suis convaincue que la thèse de l’intimée est la bonne.
+[6] Les sommes en cause, l’importance des questions en litige, la charge de travail et la complexité des questions en litige ne suffisent pas à justifier une adjudication additionnelle de dépens.
+[7] Bien que l’appelante ait obtenu gain de cause dans ses appels et que l’issue de l’instance lui soit plus favorable que ce que proposaient ses offres de règlement, l’article 147, contrairement aux règles de certaines autres juridictions, ne prévoit pas que le prononcé d’un jugement plus avantageux que l’offre de règlement écrite doit donner lieu à des dépens sur une base procureur‑client à partir de la date de l’offre[1]. Par conséquent, si elle veut justifier des dépens additionnels pour cette raison, l’appelante a le fardeau de prouver que la conduite de l’intimée à cet égard est visée par au moins un des critères prévus au paragraphe 147(3). Or, à la lumière de l’ensemble des circonstances de la présente affaire, je ne vois rien d’inopportun dans la décision de l’intimée de refuser les offres de règlement de l’appelante. Même si, à strictement parler, l’appelante a présenté trois offres, la première et la deuxième étaient identiques. La première offre a été faite alors que l’appelante tentait de modifier son avis d’appel, demande que l’intimée a vigoureusement contestée. La troisième offre avait pour effet de retirer les deux premières[2] et d’ajouter à la portée de celles‑ci puisqu’on tentait de régler une autre année d’imposition, laquelle n’était pas frappée d’appel. Je ne suis pas convaincue que le rejet des offres de règlement par l’intimée justifie la Cour d’exercer son pouvoir discrétionnaire et d’adjuger des dépens plus élevés.
+[8] L’appelante avance que les réponses de l’intimée à ses demandes de précisions et d’admissions ont inutilement prolongé l’instance. Les demandes d’admissions et de précisions sont des étapes courantes de n’importe quelle instance. Dans les circonstances particulières du présent appel, je ne suis pas convaincue que la présentation de telles demandes par l’appelante ou les réponses qui y ont été données par l’intimée fondent la Cour à adjuger des dépens plus élevés. Il importe de garder à l’esprit que la présente instance n’a pas progressé de façon particulièrement rationnelle : il suffit de regarder l’état des actes de procédure modifiés pour apprécier les difficultés qu’ont éprouvées les deux parties à faire valoir leurs arguments. Cela tient peut‑être au fait que l’appelante et l’intimée ont toutes deux changé d’avocat après l’introduction de l’instance.
+[9] L’appelante soutient que, comme je suis arrivée à la conclusion que le ministre n’a pas émis certaines des hypothèses alléguées dans la réponse à l’avis d’appel, cet acte équivaut à une conduite « répréhensible » justifiant l’adjudication de dépens supérieurs à ceux prévus par le tarif. L’appelante s’appuie sur la décision Scavuzzo v. Canada[3], dans laquelle le juge en chef Bowman mentionne :
+g) Il y a une distinction essentielle entre le fait d’alléguer des hypothèses qui sont fausses et le fait d’arguer que le ministre a allégué des hypothèses de fait qu’il n’a pas réellement faites. Dans la présente affaire, le ministre a présumé à tort que Jack Scavuzzo était administrateur. L’argument était fondé sur une fausse hypothèse sur laquelle le ministre s’était fondé au moment de prendre des mesures. C’était l’hypothèse, et non l’acte de procédure, qui était fausse. Le fait d’arguer que le ministre a fait des hypothèses de fait qu’il n’a pas réellement faites est répréhensible et doit être sanctionné dans l’adjudication des dépens. Toutefois, cela n’est pas ce qui s’est produit dans la présente affaire[4].
+[10] Certes, le ministre doit respecter scrupuleusement son obligation d’alléguer des faits qui constituaient réellement des hypothèses au moment où il a établi la cotisation. Bien que j’accepte l’assertion de l’appelante voulant que l’intimée ait agi de façon « répréhensible » en ce qui concerne l’hypothèse irrégulièrement alléguée, je ne crois pas que la remarque incidente du juge en chef signifie que, dans de telles circonstances, la partie appelante a automatiquement droit à des dépens additionnels. De plus, les circonstances en l’espèce sont fort différentes de celles de la décision Scavuzzo; dans la présente affaire, le manquement du ministre à ses obligations n’a pas placé l’appelante dans la « situation […] infernale[5] » où s’est retrouvé M. Scavuzzo.
+[11] Cela ne veut pas dire que le manquement du ministre était sans conséquences. Comme l’avocate de l’appelante l’a signalé dans ses observations, j’ai exposé dans mes motifs du jugement les contrecoups du fait que l’intimée a allégué des hypothèses que le ministre n’avait pas réellement émises :
+[26] Counsel for the Respondent argued that exactly such a connection existed between Tiburzi and Gelder: " --- they have trusted each other. Worked in harmony for years until 22nd of November, and they had a common interest. Business interest. And so that was a group of persons according to [Vina-Rug] and Buckerfield (sic)". This is essentially a restatement of the words appearing in assumption 19(dd) of the Amended Reply to the Notice of Appeal:
+(dd) Prior to the spring of 1989 Davis Tiburzi and Robert Gelder were long time business associates and land developers developing land acting as a team in the United States.
+[27] Normally, the appellant has the burden of rebutting the Minister's assumptions and proving the merits of its position. In the present case, however, counsel for the Appellant argued that not only did the evidence not support the above allegations but that the Minister had not, in fact, relied on assumption 19(dd) in making his reassessments.
+[28] With both points, I must say I am inclined to agree. Turning first to the statements in paragraph 19(dd), Mr. Kubarakos was questioned extensively on the steps he took in conducting his audit in 1997. As can be seen from his evidence as set out below, at the time of the audit, he did not turn his mind to the nature of the relationship between Tiburzi and Gelder:
+Q. The Minister -- the statement of fact here is prior to the spring of 1989 -- this is in paragraph 19 (dd). Do you have that?
+A. Yes.
+Q. The statement is:"Prior to the spring of 1989 Davis Tiburzi and Robert Gelder were long time business associates and land developers developing land acting as a team in the United States." And that wasn't really in your mind at all, was it? When you did your audit that wasn't an issue?
+A. No.
+Q. You never thought of these fellows as long-time business associates.
+A. That's what Mr. Gelder told me, that he knew Mr. Tiburzi for fifteen, twenty years and they had some dealings before. I don't know what kind of dealings, but at that time that kind of information was irrelevant to me.
+Q. It wasn't in your mind?
+A. It wasn't important to me at all.
+Q. Okay. Did you think of Mr. Gelder as a land developer? You knew he was in the building supply business, didn't you?
+A. Yes, that's what he told me.
+Q. And you didn't think that Tiburzi and Gelder were a team in any sense, did you?
+A. They had some dealings before.
+Q. Did you think of them, that they were some kind of a team? That wasn't in your mind in 1997 when you were doing this audit, was it? Was it?
+A. Again, they had some dealings. Now whether they were a team or not, it was irrelevant at that time.
+Q. That wasn't in your mind when you did your reassessment?
+A. No. No.
+[29] The Minister's obligations in the pleading of assumptions was considered extensively by Rip, J. in Anchor Pointe Energy Ltd. v. Canada. In upholding Mr. Justice Rip's decision to strike out the assumptions not actually made by the Minister, the Federal Court of Appeal held that:
+The pleading of assumptions gives the Crown the powerful tool of shifting the onus to the taxpayer to demolish the Minister's assumptions. The facts pleaded as assumptions must be precise and accurate so that the taxpayer knows exactly the case it has to meet. There is no reason why the requirement for precision and accuracy does not apply to the Crown accurately stating the circumstances in which the assumptions arose, that is, on the assessment, reassessment or confirmation. For these reasons, I think Rip J. was correct when he found paragraphs 10(q), (r) and (z) to be inaccurate and struck them from the Reply. [Anchor Pointe Energy Ltd. v. Canada, 2003 F.C.A. 294 at paragraph 23; Bowens v. Canada, [1996] 2 C.T.C. 120 (F.C.A.); Pollock v. Canada (M.N.R.), (1993) 3 C.C.P.B. 307 (F.C.A.).]
+[30] Given that the Minister did not assume the statement made in paragraph 19(dd), the Appellant is relieved of the burden it would otherwise have of "demolishing" such allegations. [Footnotes from Reasons for Judgment not included.][6]
+[12] Comme il ressort sans équivoque des motifs du jugement que j’ai énoncés plus haut, cette situation a également affaibli la valeur probante du témoignage de l’unique témoin de l’intimée :
+[5] … George Kubarakos, the auditor and designated officer for the Canada Revenue Agency at examination for discovery, was called for the Crown. I was less impressed with his testimony. His answers were reluctantly given and often struck me as contrived to ensure their consistency with the Minister's position.[7]
+[13] À la lumière des éléments susmentionnés et comme j’ai eu amplement l’occasion d’entendre et d’observer les avocats et les témoins au cours des trois journées d’audition des présents appels, je ne suis pas convaincue qu’il existe un quelconque motif me justifiant d’exercer mon pouvoir discrétionnaire d’adjuger des dépens plus élevés que ceux prévus au tarif. La requête de l’appelante est rejetée et chaque partie assume ses propres dépens afférents à la présente requête.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 5e jour de février 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2006CCI615
+NO DU DOSSIER DE LA COUR : 2001-970(IT)G
+INTITULÉ DE LA CAUSE : CRYSTAL BEACH PARK LIMITED c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 17 octobre 2006
+MOTIFS DE L’ORDONNANCE PAR :
+DATE DE L’ORDONNANCE : Le 10 novembre 2006
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Leigh Somerville Taylor
+Avocat de l’intimée :
+Me Shatru Ghan
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom : Me Leigh Somerville Taylor
+Cabinet : Fitzsimmons & Company Toronto (Ontario)
+Pour l’intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Miller v. The Queen, [2003] 1 C.T.C. 2455, 2003 D.T.C. 6 (C.C.I.); Lyons v. R., [1995] T.C.J. No. 1111 (C.C.I.).
+[2] Diefenbacher v. Young, 22 O.R. (3d) 641.
+[3] [2006] 2 C.T.C. 2457.
+[4] Précitée, au paragraphe 6.
+[5] Précitée, au paragraphe 9e).
+[6] 2006CCI183, aux paragraphes 26 à 30.
+[7] Précitée, à la page 5.

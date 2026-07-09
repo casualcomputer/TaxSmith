@@ -1,0 +1,204 @@
+---
+title: "Forest c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27636/index.do"
+last_modified: "2007-04-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 200"
+citation2: ""
+neutral_citation: "2007 TCC 200"
+decision_date: "2007-04-03"
+language: "en"
+item_id: "27636"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 392
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:14:14.393000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2857c2d167c06878904ad7682c1e9372219a443ffabc893dc03a09015b5366d0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Forest c. La Reine
+
+- Citation: 2007 TCC 200
+- Decision date: 2007-04-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 392, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Forest c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-03
+Neutral citation
+2007 TCC 200
+File numbers
+2004-4619(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4619(IT)G
+BETWEEN:
+MARC FOREST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 14, 2006, at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valérie Tardif
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 3rd day of April 2007.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 19th day of February 2008.
+François Brunet, Revisor
+Citation: 2007TCC200
+Date: 20070403
+Docket: 2004-4619(IT)G
+BETWEEN:
+MARC FOREST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] In December 2003, the Appellant and Ville de Shawinigan ("the City") signed a settlement and release ("the Settlement Agreement") reproduced in the attached Appendix A. In consideration of the commitments made by the City under the Settlement, including a promise to pay the Appellant the sum of $152,968.75 ("the Settlement Amount"), the Appellant, among other things, gave the City his resignation from his position as assistant clerk and dropped a psychological harassment lawsuit. The Minister of Revenue of Canada ("the Minister") included the Settlement Amount in computing the Appellant's income for the 2003 taxation year, and considered it a retiring allowance. The Appellant submits that the Settlement Amount was related to his dropping of the psychological harassment lawsuit and was unrelated to his resignation; thus, in his submission, it should not be included in computing his income for the 2003 taxation year.
+Facts
+[2] Just before the merger of the municipalities of the Centre‑Mauricie area (which included the town of Shawinigan-Sud), the Appellant was clerk and director of personnel for the town of Shawinigan-Sud. On September 5, 2001, the Government of Quebec issued an Order in Council amalgamating the seven municipalities of Centre‑Mauricie into a new city known from that point onward as Ville de Shawinigan. In the Order in Council, the Government of Quebec appointed five people to a transition committee. The committee posted vacancy announcements for executive positions in the new City, including city clerk, legal affairs advisor and human resources director. The Appellant applied for these three positions but was unsuccessful. At the end of the process, the transition committee wrote a letter declaring the Appellant a surplus executive, and the committee assigned him to the position of assistant clerk, which he held until December 2003. After that, he filed three complaints with the labour commissioner‑general's office under section 72 of the Cities and Towns Act, R.S.Q. c. C‑19. Essentially, the Appellant alleged that he was dismissed by the transition committee. He said that he was penalized by the application of the plans that were intended to integrate the officials and employees of the municipalities affected by the merger. He alleged that the appointment process used by the transition committee was improper and thus, that the committee's decision not to appoint him to one of the three positions, and to appoint him as assistant clerk instead, without his having applied for that position, entitled him to a remedy under section 72 of the Cities and Towns Act. On May 9, 2002, labour commissioner Claude Gélinas dismissed the Appellant's three complaints on the basis that he did not have jurisdiction to hear them. On June 5, 2002, the Appellant brought a motion before the Quebec Superior Court[1] to set aside this decision. In his judgment dated November 9, 2002, Justice Raymond W. Pronovost granted the Appellant's motion.[2] On June 26, 2003, the Quebec Court of Appeal reversed Justice Pronovost's judgment.[3] On June 26, 2003, the Supreme Court of Canada dismissed the application for leave to appeal from the Quebec Court of Appeal's decision, with costs.
+[3] On November 11, 2003, the Appellant filed an amended motion to institute proceedings[4] in which he claimed from the City, inter alia, moral damages ($100,000) and exemplary damages ($100,000) for having violated his fundamental rights, including his right to honour, respect, dignity and reputation, by continuously harassing him over a 15‑month period commencing in January 2002 ("the harassment lawsuit").
+[4] In December 2003, the Appellant and the City signed the Settlement Agreement. In consideration of the commitments made by the City and stipulated in the Settlement Agreement, including the payment of the Settlement Amount, the Appellant
+i) resigned from his position of assistant clerk;
+ii) abandoned the two actions that were pending on the date of the Settlement, that is to say, the harassment lawsuit and a conditional workers' compensation claim filed on or about November 6, 2003; and
+iii) released the City, its mayor, councillors, employees, officers, agents, directors, assigns and mandataries, fully and finally, from any past, present or future actions or causes of action before the courts, quasi-judicial tribunals or administrative tribunals by reason of his employment with the City or the termination of such employment.
+[5] The Ville de Shawinigan's position from a taxation standpoint was that it paid the Appellant a retiring allowance of $152,968.75 in 2003.[5]
+[6] The only issue for determination is whether the amount of $152,968.75 received from the City in 2003 constitutes a retiring allowance or moral damages.
+The law
+[7] "Retiring allowance" is defined as follows in subsection 248(1) of the Income Tax Act ("the Act"):
+"retiring allowance" means an amount (other than a superannuation or pension benefit, an amount received as a consequence of the death of an employee or a benefit described in subparagraph 6(1)(a)(iv)) received:
+(a) on or after retirement of a taxpayer from an office or employment in recognition of the taxpayer's long service, or
+(b) in respect of a loss of an office or employment of a taxpayer, whether or not received as, on account or in lieu of payment of, damages or pursuant to an order or judgment of a competent tribunal.
+by the taxpayer or, after the taxpayer's death, by a dependant or a relation of the taxpayer or by the legal representative of the taxpayer;
+[8] Subparagraph 56(1)(a)(ii) of the Act reads:
+56. (1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(a) any amount received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of,
+. . .
+(ii) a retiring allowance, other than an amount received out of or under an employee benefit plan, a retirement compensation arrangement or a salary deferral arrangement,
+Analysis
+[9] Firstly, the purpose of paying the Settlement Amount must be determined based on the evidence adduced. In this regard, the Court must address the following question: was the Settlement Amount, or a part thereof, paid to the Appellant in consideration of his commitment to resign from his position as assistant clerk or his dropping of the harassment lawsuit? The answer to this question is important. Indeed, my holding, in the event that the evidence shows that the Settlement Amount was related to the dropping of the harassment lawsuit and unrelated to the Appellant's resignation, would be that the Settlement Amount is not a retiring allowance, and, moreover, that the Settlement Amount should not be included in the Appellant's income for the 2003 taxation year. By contrast, should the evidence show that the Settlement Amount was related to the Appellant's resignation from his position as assistant clerk, I would find that the Settlement Amount is a retiring allowance within the meaning of subsection 248(1) of the Act and would therefore have to be included in the Appellant's income for the 2003 taxation year under subparagraph 56(1)(a)(ii) of the Act.
+[10] I emphasize that the Settlement Agreement is silent with respect to the payment of the Settlement Amount. Indeed, the Settlement Agreement makes no connection between the Settlement Amount and any particular commitment on the Appellant's part. The amount is actually a comprehensive allowance paid to the Appellant in exchange for several commitments made by him.
+[11] The Appellant submits that he has shown, on a balance of probabilities, that the entire Settlement Amount was related to his commitment to drop his harassment lawsuit. The Appellant believes that he has discharged the burden of persuasion by providing uncontradicted testimony in this regard. It is true that the Appellant was not contradicted by other witnesses. However, the Appellant must understand that his testimony is clearly contrary to the documentary evidence, that is to say, the Settlement Agreement.
+[12] It is plausible that the City paid the Appellant a part of the Settlement Amount in exchange for his dropping the harassment lawsuit. However, in my view, it is implausible that the City paid no portion of the Settlement Amount to the Appellant in consideration of his resignation as an employee. Why would the parties, who were represented by counsel, have taken the trouble to stipulate expressly, in section 5 of the Settlement Agreement, that [TRANSLATION] "in consideration of the commitments made herein by the City, Forest tenders his resignation . . ."? Why did the parties see fit to add, in section 8 of the Settlement Agreement, that [TRANSLATION] "in consideration of the fulfilment of the commitments made by the City, Forest acknowledges that he will no longer have an employment relationship with the City . . ."? The language of the Settlement Agreement leaves no room for interpretation: at least a part of the Settlement Amount, if not all of it, was paid by the City to the Appellant in consideration of his resignation from his employment. Since the Appellant has not persuaded me that the entire Settlement Amount that he was paid was related solely to his abandonment of the harassment lawsuit, and since the evidence that he has tendered before me does not enable me to determine clearly which part of the allowance is related to this commitment, I find that the entire Settlement Amount is a retiring allowance within the meaning of subsection 248(1) of the Act and must therefore be included in computing the Appellant's income for his 2003 taxation year under subparagraph 56(1)(a)(ii) of the Act.
+[13] For these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 3rd day of April 2007.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 19th day of February 2008.
+François Brunet, Revisor
+Appendix A
+[TRANSLATION]
+CANADA
+PROVINCE OF QUEBEC
+DISTRICT OF SAINT-MAURICE
+No.: 410-17-000175-039
+BJ 0534
+MARC FOREST
+(hereinafter "FOREST")
+AND
+VILLE DE SHAWINIGAN
+(hereinafter "THE CITY")
+_________________________
+SETTLEMENT AND RELEASE
+________________________________________________________
+WHEREAS Forest has filed complaints against the City with the Commission des relations du travail (File Nos. CQ-1011-5254, CP 1010‑8933, CQ-1010-9905 and CQ-1011-0488) and instituted judicial review proceedings in Superior Court (410‑05‑001428‑028) which proceeded up through the Court of Appeal (200‑09‑004295‑025) and the Supreme Court of Canada (CSC 29710);
+WHEREAS Forest commenced an action in damages against the City in Superior Court (File No. 410-17-000175-039);
+WHEREAS Forest filed a conditional workers' compensation claim with the CSST on or about November 6, 2003;
+WHEREAS Forest has just begun working for another employer;
+AND WHEREAS, by this Agreement, the parties wish to settle all their disputes and grievances;
+NOW THEREFORE, THE PARTIES AGREE AS FOLLOWS:
+1. The preamble is an integral part of this Agreement.
+2. In consideration of this Agreement, the City shall pay to or for the benefit of Forest, no later than December 31, 2003, the sum of $165,000 (gross), in accordance with the terms and conditions set out below:
+(a) $12,031.25, including taxes, directly to his attorneys as judicial costs and extrajudicial fees; and
+(b) the remainder, being $152,968.75, less the requisite statutory source deductions, to the order of Charles‑Grenon & Dion, Attorneys, In Trust.
+3. In addition, and in consideration of this Agreement, the City and/or its attorneys shall renounce the claim or collect from Forest of the memoranda of costs due pursuant to the decisions made by the Court of Appeal and Supreme Court.
+4. In addition, the City shall pay Forest, no later than December 31, 2003, the vacation allowances and other days owed to him (a total of seven (7) weeks).
+5. In consideration of the fulfilment of the commitments made herein by the City, Forest tenders his resignation, which shall be effective on the date of signing hereof.
+6. In addition, subject to the fulfilment of the commitments made herein by the City, Forest personally, and on behalf of his assigns, hereby fully, finally and definitively releases the City as well as its Mayor, councillors, employees, officers, agents, directors, assigns and mandataries, from any past, present or future action or cause of action before any court, quasi-judicial tribunal or administrative tribunal by reason of his employment with the City, the termination of his employment with the City, or such other circumstances as are contemplated in the proceedings referred to herein, and, without restricting the generality of the foregoing, from any claim for principal, interest and costs of any salary, vacation pay, severance pay, pay in lieu of notice, notice, overtime, employment-related expenses, or other amount that could be owed to him pursuant to any applicable memorandum, contract, agreement or legislation, as well as any remuneration or benefit arising directly or indirectly from his employment or the termination thereof and any damage of any nature whatsoever that could result therefrom.
+7. The full, final and definitive release referred to in the preceding paragraph is given by Forest without prejudice to any right that he might have to file a counterclaim against any action that Louise Panneton might commence against him.
+8. In consideration of the fulfilment of the commitments made by the City, Forest acknowledges that he shall no longer have any employment relationship with the City, and he renounces any right to reinstatement, and confirms that all proceedings, complaints and claims referred to in the preamble hereof are completely abandoned, without costs, and that the parties' respective counsel are mandated to declare that they are settled out of court. Moreover, Forest acknowledges that all benefits and perquisites of his employment with the City come to an end upon the signing hereof.
+9. The amounts to be paid to Forest hereunder are paid without any admission of liability whatsoever by the City, but rather, in order to terminate the disputes and prevent any further disputes.
+10. The City fully, finally and definitively releases Forest from, and renounces any claim against him for, any amount based on any present, past or future cause of action in relation to the employment relationship that existed between the parties.
+11. It is understood that in accordance with the usual rules of the City's pension plan, Forest may, on the date of signing hereof, transfer the amounts that he has accrued under the plan.
+12. Forest acknowledges that the payments to be made under paragraphs 2 and 4 hereof are at his express request, and declares that he shall be personally responsible for any taxation, assessment, objection, or other tax-related decision made by any competent authority in respect of the said payments, and to be personally responsible for any request for reimbursement or any claim, complaint, penalty or assessment by the Minister of Revenue of Quebec, the Attorney General of Quebec or their agents, or by the Receiver General for Canada, Human Resources Development Canada or any competent authority, that could be due or payable as a result of the payment of these amounts, and, consequently, Forest holds the City harmless against any claim, assessment, complaint, penalty, objection, or other decision, and from the consequences thereof, and shall hold the City indemnified against any claim in this regard and assume all costs associated therewith.
+13. The City and Forest agree not to harm each other's reputation, directly or indirectly, by means of actions, speech, writings or otherwise, in connection with the disputes and the employment relationship that existed between the parties.
+14. Except for the purpose of enforcing this Agreement, and subject to the laws that are in force, the parties agree, as of the date of signing hereof, to keep the terms of this Agreement, and the tenor of the discussions that gave rise to this Agreement, confidential.
+15. This Agreement constitutes a transaction within the meaning of article 2631 of the Civil Code of Québec.
+16. The parties acknowledge that they have read and understood all the paragraphs and clauses of this Settlement Agreement and declare that they are satisfied with them.
+17. The parties acknowledge that they have received all the assistance necessary to inform themselves of the consequences of signing this Settlement Agreement, and declare that they understand its meaning and scope clearly.
+IN WITNESS WHEREOF, THE PARTIES HAVE SIGNED:
+AT SHAWINIGAN, AT TROIS-RIVIÈRES,
+this 22nd day of December 2003 this 17th day of January 2004
+CHANTAL DOUCÉE MARC FOREST___________
+Duly authorized by the City Marc Forest
+AT TROIS-RIVIÈRES, AT SHAWINIGAN,
+this 17th day of January 2004 this 29th day of December 2003
+JOLI-CŒUR, LACASSE & ASSOCIÉS CHARLES GRENON__________
+Joli-Cœur, Lacasse, Geoffrion, Jetté St-Pierre LLP CHARLES GRENON & DION
+CITATION: 2007TCC200
+COURT FILE NO.: 2004-4619(IT)G
+STYLE OF CAUSE: Marc Forest and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: September 24, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: April 3, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valérie Tardif
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Exhibit A-2.
+[2] See Exhibit I-1, tab 3.
+[3] See Exhibit I-1, tab 4.
+[4] See Exhibit A-3.
+[5] See Exhibit I-1, tab 8.

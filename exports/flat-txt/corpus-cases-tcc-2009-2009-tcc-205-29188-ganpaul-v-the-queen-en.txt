@@ -1,0 +1,110 @@
+Title: Ganpaul v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29188/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-205-29188-ganpaul-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-04-21
+
+# Ganpaul v. The Queen
+
+- Citation: 2009 TCC 205
+- Decision date: 2009-04-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6684, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ganpaul v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-21
+Neutral citation
+2009 TCC 205
+File numbers
+2008-3252(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3252(IT)I
+BETWEEN:
+TYRONE GANPAUL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 14, 2009 at Toronto, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sherry Darvish
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessment made under the Income Tax Act for the 2005 taxation year is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was an independent contractor.
+The filing fee of $100 shall be refunded to the Appellant.
+Signed at Ottawa, Canada, this 21st day of April, 2009.
+“G. A. Sheridan”
+Sheridan, J.
+Citation: 2009TCC205
+Date: 20090421
+Docket: 2008-3252(IT)I
+BETWEEN:
+TYRONE GANPAUL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Mr. Tyrone Ganpaul, is appealing the reassessment of the Minister of National Revenue in which the Minister assessed his 2005 income on the basis that he was an employee rather than an independent contractor. The Minister also disallowed any claim for business expenses.
+[2] The Appellant has the onus of proving that the facts upon which the Minister based his decision were incorrect. The Appellant and the Appeals Officer responsible for his objection to the reassessment, Mr. Arun Nanthakumaran, testified at the hearing; both were credible witnesses.
+[3] Mr. Nanthakumaran was candid in his testimony that in deciding the Appellant was an employee, he relied solely on the information contained in the Canada Revenue Agency file regarding the Appellant’s reassessment. According to the material on file, the CRA had requested additional information from the Appellant, including the completion of the department’s standard form questionnaire geared towards determining whether he had been an employee or independent contractor. Although he noted that the Appellant had been granted a 30-day extension of time to produce the information, Mr. Nanthakumaran testified that he saw nothing on the file to show that the Appellant had ever provided the information requested; as a result, he confirmed the reassessment.
+[4] The Appellant insisted at the hearing that he had sent the information, including the completed questionnaire[1], twice: once in April 2008 after he had been granted the 30-day extension and again, in September 2008 after he received the Notice of Confirmation. Mr. Nanthakumaran confirmed the Appellant’s testimony that upon receipt of the Notice of Confirmation, he had been called by the Appellant, puzzled about the decision and asking why his information had not been considered. Mr. Nanthakumaran referred him to the official who had made the request, but at that point, whether or not that information had been sent or received was no longer of any consequence because the issuance of the Notice of Confirmation had put an end to the Notice of Objection process.
+[5] The Appellant’s only recourse, then, was to appeal to the Tax Court of Canada. Whether the Appellant was providing his services as an employee or an independent contractor of Sweet Valley Food Corporation depends on the facts reviewed in light of the four-fold test developed in Wiebe Door Services Ltd. v. Minister of National Revenue[2] and applied by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[3]:
+[47] Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[6] As counsel for the Respondent correctly submitted, the jurisprudence is clear that no one factor has precedence[4]; rather, they are intended to provide a framework for the analysis of the particular facts of each case.
+[7] The Appellant is a gentleman with many years of experience in the marketing, production and packaging of sugar for the retail market. In addition to his expertise, the Appellant’s primary asset is an extensive database of suppliers and customers in the sugar industry.
+[8] In 2002, he had been providing consulting services to Sweet Valley Foods Ltd.[5]; in June 2004, that company was taken over by a business known as the “Monaco Group”. A new company, Sweet Valley Food Corporation, was incorporated and became part of that conglomeration. From a practical point of view, Sweet Valley Food Corporation carried on essentially the same business as had Sweet Valley Foods Ltd.
+[9] So, too, the Appellant’s role with the new company continued as before. Just as he had done prior to the transition, at Sweet Valley Food Corporation he was responsible for overseeing the marketing and packaging process. Although there was an increase in his remuneration, the change was in quantum, not mode of payment. When consulting for Sweet Valley Foods Ltd., he received a fee of $5,000 per month; with Sweet Valley Food Corporation, it was agreed that he would be paid $100,000 per year in monthly increments of $8,333. I accept the Appellant’s evidence that he negotiated this change because he had mortgaged his home to invest in the new company and needed a fixed monthly payment to cover his obligations under the mortgage. It is not unusual for a consultant to be paid a fixed monthly fee for his services; it is not, in itself, determinative of employee status.
+[10] Turning, then, to the consideration of the evidence under the four-fold test, the Minister argued that the Appellant was under the “control” of Sweet Valley Food Corporation. Counsel for the Respondent characterized the Appellant as a “professional employee”, one who exercises a greater degree of autonomy over how he performs his employment but is nonetheless, subordinate to a superior. In support of the Minister’s position, she pointed to the fact that the Appellant had to “report” to the principal of Sweet Valley Food Corporation at regular board meetings; that he was required to work 30-40 hours per week; and that he was not providing his services to any other party during the period he was at Sweet Valley Food Corporation.
+[11] In my view, however, the Appellant’s evidence shows that he reported as an advisor, providing strategic advice to Sweet Valley Food Corporation within the scope of his consulting mandate; that is not the same as an employee who must account to a supervisor for the proper performance of tasks assigned. By contrast, the purpose of the Appellant’s reports to the principal of Sweet Valley Food Corporation was to provide his specialized information regarding suppliers, customers and the sugar packaging process. As for his hours of work, the Appellant estimated that he worked 30 to 40 hours per week depending on the demands of the project at any given time: during busy phases, he testified, he might work much longer hours, including weekends. Regardless of the hours actually worked, the fact remains that it was the Appellant who set his schedule. Where he worked was also up to him: he often worked from home, other times on site or visiting customers and suppliers and sometimes, at the headquarters of Sweet Valley Food Corporation. Sweet Valley Food Corporation was interested in the results he produced, not in how he achieved them.
+[12] As for tools, the Respondent argued that because the Appellant had access to an office and a computer at Sweet Valley Food Corporation, the company supplied his “tools”. In fact, the “office” was one room with a work table that was available for use by anyone who needed it. The Appellant used the Sweet Valley Food Corporation computer to input into the company’s system the information that he had been mandated to provide; for example, data needed to regulate the production schedule. His specialized marketing and production information, including his contacts database, he maintained on his laptop. Other than some casual help and, from time to time, his wife’s assistance, the Appellant did not need others for the performance of his contact with Sweet Valley Food Corporation because what he was providing was his own specialized expertise and advice.
+[13] As for chance of profit/risk of loss, the Respondent submitted that neither of these factors were present in the Appellant’s circumstances: he received a fixed monthly income that did not fluctuate with Sweet Valley Food Corporation’s fortunes; his remuneration did not change according to the number of hours actually worked; if a project took more time than anticipated, he did not incur a loss; and finally, he did not have to answer to complaints from Sweet Valley Food Corporation’s customers.
+[14] The weakness of the Respondent’s argument is that it blurs the distinction between the Appellant’s contract to provide advice and information to Sweet Valley Food Corporation with Sweet Valley Food Corporation’s own contractual obligations to its customers. It was not part of the Appellant’s mandate to account to Sweet Valley Food Corporation customers if the company failed to meet a delivery deadline. If, on the other hand, the Appellant had failed to provide his consulting services to Sweet Valley Food Corporation, no doubt the company could have taken steps against him for that default. The fact that his salary did not fluctuate with the time actually spent on such duties is not, in itself, indicative of employee status. As the Appellant put it, “time is money”; time he invested in a project that did not bring results was time (and thus, profits) lost on other potentially successful pursuits.
+[15] That leaves the fourth element, the degree to which the Appellant was integrated into the business of Sweet Valley Food Corporation. The Respondent’s argument that the Appellant was well-integrated into Sweet Valley Food Corporation began with the fact that the Appellant’s role with that company remained the same as his former role at Sweet Valley Foods Ltd. Counsel for the Respondent also pointed to his admission that he was a director of the company and had signing authority and further, that he had had no other clients while with Sweet Valley Food Corporation.
+[16] The Appellant agreed that the nature of his relationship with Sweet Valley Food Corporation was the same as at Sweet Valley Foods Ltd. but contended that his status at both companies had been that of independent contractor. As for his signing authority, I accept as reasonable his explanation that it was limited to Sweet Valley Food Corporation’s first contract; it was a large order from an important customer. At that early stage, it was agreed the Appellant should have signing authority on employees’ hours and payroll as part of his duties for overseeing the production process. When that project was completed, his signing authority ceased. As for being a director of Sweet Valley Food Corporation, I accept his evidence that his name had been registered as such without his consent or knowledge. However, even if he had willingly occupied that office, that factor alone would not tip the scales in favour of his having been an employee. He had no long-term commitment to the company as evidenced by his having terminated his contract with Sweet Valley Food Corporation, without notice and at his discretion, in 2006. Finally, while the Appellant admitted that he had had no clients during his contract with Sweet Valley Food Corporation, he was nonetheless, tilling the soil for future opportunities throughout that period.
+[17] Further support for the conclusion that the Appellant was providing his services to Sweet Valley Food Corporation as an independent contractor lies in the Minister’s own assumptions[6] that Sweet Valley Food Corporation had made no deductions from the Appellant’s fees for Canada Pension Plan, employment insurance or income tax; and in his testimony and the answers given at paragraph 13 of the questionnaire that he incurred expenses in the performance of his contract with Sweet Valley Food Corporation for travel, gas and the like. I also accept his evidence that he was reimbursed by the company for “one-off” purchases such as parts needed on an urgent basis during the production process.
+[18] All in all, I am satisfied that the Appellant was an independent contractor. The appeal is allowed and referred back to the Minister for reconsideration and reassessment on that basis.
+Signed at Ottawa, Canada, this 21st day of April, 2009.
+“G. A. Sheridan”
+Sheridan, J.
+CITATION: 2009TCC205
+COURT FILE NO.: 2008-3252(IT)I
+STYLE OF CAUSE: TYRONE GANPAUL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 14, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: April 21, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sherry Darvish
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-2.
+[2] [1986] 2 C.T.C. 200 (F.C.A.).
+[3] [2001] 2 S.C.R. 983.
+[4] Above, at paragraph 48.
+[5] As it turned out, in 2003 the Appellant had successfully challenged a ruling by the Minister that he had been working for Sweet Valley Foods Ltd. as an employee. However, as counsel for the Respondent correctly argued and as was explained to the Appellant at the hearing, the Minister is not bound in subsequent years by a decision made in a former year.
+[6] Reply to the Notice of Appeal at paragraphs 9(d)-(g).

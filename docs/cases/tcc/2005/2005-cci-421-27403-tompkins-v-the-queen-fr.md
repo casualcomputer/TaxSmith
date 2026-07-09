@@ -1,0 +1,211 @@
+---
+title: "Tompkins v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27403/index.do"
+last_modified: "2005-07-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 421"
+citation2: ""
+neutral_citation: "2005 CCI 421"
+decision_date: "2005-07-14"
+language: "fr"
+item_id: "27403"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 193
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:45:59.986000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7bd387e9a0f7714e5594c6df6254de3d6b960d3c91799c43b159bc1f5fcd5910"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tompkins v. The Queen
+
+- Citation: 2005 CCI 421
+- Decision date: 2005-07-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 193, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tompkins v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-07-14
+Référence neutre
+2005 CCI 421
+Numéro de dossier
+2005-467(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-467(IT)I
+ENTRE :
+DANIEL TOMPKINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus à Edmonton (Alberta) le 17 juin 2005.
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Leslie Akst
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés contre les cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2001 et 2002 sont admis sans dépens, et les cotisations sont renvoyées au ministre du Revenu national pour qu'il les réexamine et qu'il en établisse de nouvelles en application des motifs de jugement ci-annexés.
+Signé à Ottawa, Canada, ce 14e jour de juillet 2005.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 20e jour de décembre 2005
+Joanne Robert, traductrice
+Référence : 2005CCI421
+Date : 20050714
+Dossier : 2005-467(IT)I
+ENTRE :
+DANIEL TOMPKINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L'appelant et son épouse sont propriétaires d'une ferme (la ferme) qu'ils exploitent à Carvel, en Alberta.
+[2] Lorsque l'appelant a commencé à exploiter sa ferme en 1990, il était propriétaire d'environ 280 acres. En 1995, la superficie des terres qu'il possédait ou qu'il louait totalisait approximativement 1 100 acres dont 800 acres servaient à la culture.
+[3] L'appelant a fait l'élevage de bovins à viande et d'autres animaux sur sa ferme jusqu'en 2001, année où les bovins ont été vendus. La ferme de l'appelant produisait aussi du canola, de l'orge et du foin. L'appelant vendait à divers clients les céréales en trop qui ne servaient pas aux animaux de la ferme.
+[4] Lorsque l'appelant a rempli ses déclarations de revenus pour les années d'imposition 2001 et 2002, il a déclaré des pertes agricoles nettes de 76 646,07 $ et de 69 493,51 $ comme suit :
+2001
+2002
+Revenu agricole brut
+92 752,75 $
+73 555,92 $
+Total des dépenses agricoles
+(131 728,82 $)
+(115 275,43 $)
+Déduction pour amortissement
+(37 670 $)
+(27 774 $)
+Pertes agricoles nettes
+(76 646,07 $)
+(69 493,51 $)
+[5] Dans des avis de nouvelle cotisation datés du 11 mars 2004, le ministre du Revenu national (le ministre) a ramené le montant des pertes agricoles nettes à 57 829 $ pour 2001 et à 53 435 $ pour 2002 de la manière suivante :
+2001
+2002
+Revenu agricole brut
+94 982,75 $
+82 569,92 $
+Total des dépenses agricoles
+(115 141,75 $)
+(108 230,92 $)
+Déduction pour amortissement
+(37 670 $)
+(27 774 $)
+Pertes agricoles nettes
+(57 829 $)
+(53 435 $)
+[6] Les rajustements que constituait la réduction du montant des pertes agricoles nettes pour les années 2001 et 2002 dans les nouvelles cotisations datées du 11 mars 2004 s'appuyaient sur les raisons suivantes :
+a) les frais de représentation que voulait déduire l'appelant et qui s'élevaient à 2 892 $ pour 2001 et à 2 722 $ pour 2002 représentaient le coût de cartes d'abonnement aux parties de hockey disputées par les Oilers d'Edmonton. Le ministre a déterminé que le coût de ces cartes d'abonnement constituait une dépense personnelle de l'appelant et non une dépense engagée en vue de tirer un revenu de la ferme;
+b) le ministre a déterminé que les frais de rénovation de la maison de l'appelant pour l'année d'imposition 2001 (8 507 $) étaient une dépense personnelle plutôt qu'une dépense engagée en vue de tirer un revenu de la ferme;
+c) la déduction des frais de réparation de l'automobile appartenant au fils de l'appelant, qui s'élevaient à 1 083 $ pour 2001 et à 966 $ pour 2002, a été refusée puisque ces dépenses n'avaient pas été engagées en vue de tirer un revenu de la ferme;
+d) l'achat de bottes à embout d'acier au cours de l'année d'imposition 2001 était une dépense personnelle de l'appelant ou du fils de l'appelant plutôt qu'une dépense engagée en vue de tirer un revenu de la ferme;
+e) le revenu et les dépenses ont fait l'objet d'autres rajustements qui ne sont pas contestés dans ces appels.
+[7] L'appelant a déposé un avis d'opposition aux nouvelles cotisations établies pour les années d'imposition 2001 et 2002. L'avis a été reçu le 3 juin 2004. L'appelant y a indiqué, entre autres choses, les éléments suivants :
+a) les frais de rénovation de la maison représentaient une dépense agricole ou sinon, la déduction pour amortissement établie en fonction de la superficie en pieds carrés de la maison utilisée aux fins de l'entreprise, qui s'élevait à 2 250 $ en 2001 et à 2 025 $ en 2002, devrait être admise;
+b) la déduction des frais de représentation devrait être admise;
+c) les frais de réparation de l'automobile du fils de l'appelant représentaient un salaire « en nature » ;
+d) l'appelant n'avait demandé la déduction d'aucun salaire pour ses enfants. La déduction de salaires de 6 800 $ pour 2001 et de 6 000 $ pour 2002 devrait être admise;
+e) la déduction du coût des bottes à embout d'acier devrait être admise.
+[8] En réponse à l'avis d'opposition pour les années d'imposition 2001 et 2002, le ministre a confirmé la cotisation d'impôt dans un avis daté du 12 novembre 2004.
+B. QUESTION EN LITIGE
+[9] La question en litige est la suivante :
+a) L'appelant a-t-il le droit de déduire les dépenses décrites dans le paragraphe [7] ci-dessus pour les années d'imposition 2001 et 2002.
+C. ANALYSE ET CONCLUSION
+Frais de représentation
+[10] L'appelant a témoigné qu'il a payé une carte d'abonnement aux parties de hockey disputées par les Oilers d'Edmonton , et que son ami, M. Vern Kibblewhite, en a payé une aussi. L'appelant et M. Kibblewhite se sont entendus pour partager les cartes, M. Kibblewhite utilisant les deux cartes pour assister à un match à domicile sur deux et l'appelant utilisant les deux cartes pour assister aux matchs à domicile restants. L'appelant a également témoigné qu'il utilisait les cartes d'abonnement pour divertir les clients de la ferme, c'est-à-dire qu'il invitait les clients de la ferme à des parties de hockey. L'appelant a fourni une liste des clients qu'il avait invités. L'appelant a indiqué que ces clients achetaient du boeuf, du porc, des céréales et du foin à la ferme (pièce A-1).
+[11] J'accepte le témoignage de l'appelant en ce qui concerne les frais de représentation. L'appelant pourra déduire les montants suivants :
+2001
+2002
+1 446 $
+1 366 $
+(50 % de 2 892 $)
+(50 % de 2 722 $)
+(Remarque : Selon le paragraphe 67.1(1) de la Loi de l'impôt sur le revenu (la Loi), l'appelant n'a pas le droit de déduire le coût de la carte qu'il a utilisée personnellement pour assister aux parties de hockey.)
+Frais de rénovation de la maison
+[12] L'appelant a demandé la déduction des montants suivants à titre de dépenses relatives à la rénovation de la maison :
+Rampe en chêne d'un escalier en colimaçon
+945 $
+Armoires et tablettes
+4 545 $
+Tapis et pose du tapis
+2 296 $
+Moulures aux fenêtres et recouvrement mural
+992 $
+[13] L'appelant a témoigné qu'il se servait de sa cuisine pour rencontrer divers clients de la ferme. L'appelant a aussi témoigné que les armoires et les tablettes étaient nécessaires au rangement des vêtements et des outils utilisés dans l'exploitation de la ferme.
+[14] J'ai conclu que l'appelant devrait pouvoir déduire le montant de 4 545 $ qu'il a payé pour les armoires et les tablettes lorsqu'il détermine son revenu pour l'année d'imposition 2001.
+[15] J'ai conclu que les montants de 945 $, de 2 296 $ et de 992 $ susmentionnés représentent des dépenses personnelles non déductibles.
+Salaires versés aux enfants
+[16] Lorsque l'appelant a produit ses déclarations de revenus pour les années d'imposition 2001 et 2002, il n'a demandé aucune déduction pour des dépenses payées à l'égard de ses enfants.
+[17] Lorsque l'appelant a déposé un avis d'opposition aux nouvelles cotisations établies pour les années d'imposition 2001 et 2002, il prétendait que les salaires suivants devraient être déductibles dans le calcul des dépenses de la ferme :
+2001
+6 800 $
+2002
+6 000 $
+(Voir pièce A-2.)
+[18] L'appelant a témoigné que son épouse et ses enfants l'aidaient dans l'exploitation de la ferme. L'appelant a aussi témoigné qu'il payait parfois diverses dépenses pour le compte de ses enfants plutôt que de leur verser un « salaire » .
+[19] Je suis persuadé, d'après le témoignage de l'appelant, que les enfants travaillaient à la ferme. Cependant, l'appelant n'a pas produit de registres assez complets pour appuyer les montants qu'il a tenté de déduire au titre de salaires versés aux enfants.
+[20] J'ai conclu que l'appelant a le droit de déduire les montants suivants :
+1. Salaire versé à David
+13 juin 2001 160 $
+26 juillet 2001 100 $
+17 septembre 2001 1 000 $
+9 octobre 2001 200 $
+8 novembre 2001 190 $
+Total 1 650 $
+(Voir pièce A-3.)
+2. Automobile achetée à Mathew 1 000 $
+(Voir pièce A-4.)
+3. Automobile achetée à David 1 800 $
+(Se reporter à la pièce A-4)
+4. École de conduite pour Mathew 344,83 $
+(Voir pièce A-6.)
+5. Chèque à la Banque de Montréal
+27 août 2001 1 500 $
+(Voir pièce A-8.)
+[21] L'appelant a témoigné qu'il a encaissé ce chèque pour verser un salaire à ses enfants.
+[22] Je ne suis pas convaincu d'après la preuve produite que d'autres déductions devraient être admises au titre de salaires versés par l'appelant à ses enfants. À cet égard, j'ai conclu que des dépenses telles la réparation de la bicyclette de son fils Chris au montant de 84,10 $ relève davantage d'une dépense personnelle qu'une personne engagerait pour son enfant que d'un salaire qu'elle lui verserait. D'autres dépenses que l'appelant voulait déduire au titre de salaires s'apparentent à la dépense engagée pour réparer la bicyclette.
+Coût des bottes à embout d'acier
+[23] L'avocate de l'intimée a reconnu avant l'audience que la déduction devrait être admise.
+[24] Les appels interjetés contre les cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2001 et 2002 sont admis sans dépens, et les cotisations sont renvoyées au ministre du Revenu national pour qu'il les réexamine et qu'il en établisse de nouvelles au motif que le ministre reçoit l'ordre de faire les rajustements précités.
+Signé à Ottawa, Canada, ce 14e jour de juillet 2005.
+« L. M. Little »
+Le juge Little.
+Traduction certifiée conforme
+ce 20e jour de décembre 2005
+Joanne Robert, traductrice

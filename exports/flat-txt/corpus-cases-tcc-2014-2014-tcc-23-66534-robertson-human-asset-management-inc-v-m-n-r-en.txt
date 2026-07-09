@@ -1,0 +1,344 @@
+Title: Robertson Human Asset Management Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66534/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-23-66534-robertson-human-asset-management-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2014-01-20
+
+# Robertson Human Asset Management Inc. v. M.N.R.
+
+- Citation: 2014 TCC 23
+- Decision date: 2014-01-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5996, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robertson Human Asset Management Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-01-20
+Neutral citation
+2014 TCC 23
+File numbers
+2012-1075(EI), 2012-1076(CPP), 2012-1294(EI), 2012-1295(CPP), 2012-1296(EI), 2012-1297(CPP)
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2012-1075(EI)
+BETWEEN:
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DEBORAH KOSTIALIK,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Robertson Human Asset Management Inc. 2012-1076(CPP),
+2012-1294(EI), 2012-1295(CPP), 2012-1296(EI), 2012-1297(CPP)
+on March 26-27-28, 2013, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Robert A. Betts
+Counsel for the Respondent:
+Mindy Caterina-Neufeld
+Lesley L’Heureux
+For the Intervenor:
+The Intervenor herself
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the Minister of National Revenue’s Notice of Assessment dated May 16, 2011 made under the Employment Insurance Act for the 2007, 2008 and 2009 years is dismissed and the decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 20th day of January 2014.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2012-1076(CPP)
+BETWEEN:
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DEBORAH KOSTIALIK,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Robertson Human Asset Management Inc. 2012-1075(EI),
+2012-1294(EI), 2012-1295(CPP), 2012-1296(EI), 2012-1297(CPP)
+on March 26-27-28, 2013, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Robert A. Betts
+Counsel for the Respondent:
+Mindy Caterina-Neufeld
+Lesley L’Heureux
+For the Intervenor:
+The Intervenor herself
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the Minister of National Revenue’s Notice of Assessment dated May 16, 2011 made under the Canada Pension Plan for the 2007, 2008 and 2009 years is dismissed and the decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 20th day of January 2014.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2012-1294(EI)
+BETWEEN:
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Robertson Human Asset Management Inc. 2012-1075(EI),
+2012-1076(CPP), 2012-1295(CPP), 2012-1296(EI), 2012-1297(CPP)
+on March 26-27-28, 2013, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Robert A. Betts
+Counsel for the Respondent:
+Mindy Caterina-Neufeld
+Lesley L’Heureux
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the Minister of National Revenue’s ruling under the Employment Insurance Act that Jackie Harris was employed with the Appellant in insurable employment for the period from January 1, 2010 to September 3, 2010 is dismissed and the decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 20th day of January 2014.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2012-1295(CPP)
+BETWEEN:
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Robertson Human Asset Management Inc. 2012-1075(EI),
+2012-1076(CPP), 2012-1294(EI), 2012-1296(EI), 2012-1297(CPP)
+on March 26-27-28, 2013, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Robert A. Betts
+Counsel for the Respondent:
+Mindy Caterina-Neufeld
+Lesley L’Heureux
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the Minister of National Revenue’s ruling under the Canada Pension Plan that Jackie Harris was employed with the Appellant in pensionable employment for the period from January 1, 2010 to September 3, 2010 is dismissed and the decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 20th day of January 2014.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2012-1296(EI)
+BETWEEN:
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Robertson Human Asset Management Inc. 2012-1075(EI),
+2012-1076(CPP), 2012-1294(EI), 2012-1295(CPP), 2012-1297(CPP)
+on March 26-27-28, 2013, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Robert A. Betts
+Counsel for the Respondent:
+Mindy Caterina-Neufeld
+Lesley L’Heureux
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the Minister of National Revenue’s ruling under the Employment Insurance Act that Jennifer Paton was employed with the Appellant in insurable employment for the period from May 12, 2010 to March 18, 2011 is dismissed and the decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 20th day of January 2014.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2012-1297(CPP)
+BETWEEN:
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Robertson Human Asset Management Inc. 2012-1075(EI),
+2012-1076(CPP), 2012-1294(EI), 2012-1295(CPP), 2012-1296(EI)
+on March 26-27-28, 2013, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Robert A. Betts
+Counsel for the Respondent:
+Mindy Caterina-Neufeld
+Lesley L’Heureux
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the Minister of National Revenue’s ruling under the Canada Pension Plan that Jennifer Paton was employed with the Appellant in pensionable employment for the period from May 12, 2010 to March 18, 2011 is dismissed and the decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 20th day of January 2014.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2014TCC23
+Date: 20140120
+Docket: 2012-1075(EI)
+BETWEEN:
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DEBORAH KOSTIALIK,
+Intervenor,
+Docket: 2012-1076(CPP)
+AND BETWEEN:
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DEBORAH KOSTIALIK,
+Intervenor,
+Docket: 2012-1294(EI)
+AND BETWEEN:
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2012-1295(CPP)
+AND BETWEEN:
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2012-1296(EI)
+AND BETWEEN:
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2012-1297(CPP)
+AND BETWEEN:
+ROBERTSON HUMAN ASSET MANAGEMENT INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The question to be determined in these appeals is whether Instructors who worked for the Appellant were independent contractors or employees. In each appeal, the Minister of National Revenue (the “Minister”) found that the Instructors were employees. Appeals 2012-1075(EI) and 2012-1076(CPP) relate to assessments dated May 1, 2011 in which the Minister found that the Appellant’s Instructors were engaged with the Appellant in insurable and pensionable employment in 2007, 2008 and 2009. The assessments related to 32 Instructors. Appeals 2012-1294(EI) and 2012-1295(CPP) relate to rulings in which the Minister found that Jackie Harris was engaged by the Appellant in insurable and pensionable employment for the period January 1, 2010 to September 3, 2010. Appeals 2012-1296(EI) and 2012-1297(CPP) relate to rulings in which the Minister found that Jennifer Paton was engaged by the Appellant in insurable and pensionable employment for the period from May 12, 2010 to March 18, 2011.The appeals were heard on common evidence.
+[2] The witnesses for the Appellant were Linda Robertson, Jurgen Schoenefeld and Tommy Wong. Renee Lowe, Jacqueline Harris, Jennifer Paton, Sarah Gamm and Debbie Gwilt testified on behalf of the Respondent. The Intervenor, Deborah Kostialik also testified.
+[3] The Appellant was incorporated in 2000 and Linda Robertson and her spouse each own fifty per cent of its shares.
+[4] During the period, the Appellant consisted of two divisions, a Human Resources and Recruitment Division and a Career Assets Division. These appeals relate to the Career Assets Division of the Appellant which operated seven private career colleges (the “Colleges”) in Southern Ontario. They were located in Hamilton, Mississauga, Oshawa, Scarborough, St. Catharines, Toronto and Woodbridge.
+[5] The Appellant’s students were adults who had been injured on the job and required retraining. Prior to late 2010, students were referred to the Appellant by disability management companies (the “Clients”) such as Cascade Disability Management, Sibley and Associates and RCS Disability Management which had contracts with the Workplace Safety & Insurance Board (“WSIB”). The disability management companies assigned a Vocational Rehabilitation Consultant (“VRC”) to each student to determine his/her vocational goals. The VRCs then referred the student to the Appellant and requested a proposal for an educational program that would allow the student to attain his/her vocational goals.
+[6] After the referral, the Appellant assessed the student’s academic standing by using the Canadian Adult Achievement Test (“CAAT”). It then sent a written proposal to its Client with the student’s CAAT score and the recommended programs for the student. The proposal was very detailed. It contained the student/teacher ratio for each class; the length of each class per day; the number of days per week and the number of weeks that the student had to attend at the Appellant’s College. It included the required hours of homework and finally it included the total cost of the proposed programs. Once the Client accepted the proposal, it forwarded a sponsorship letter to the Appellant which confirmed the training to be provided to the student and the College which the student would attend. The sponsorship letter also required the Appellant to send monthly attendance records and progress reports; and, to give immediate notification of any barriers that might affect the student’s timely completion of the program.
+[7] Between 2007 and 2010, the number of students enrolled with the Appellant fluctuated; but, at its height, it had 70 to 120 students enrolled at a time. In late 2010, WSIB phased out the use of the disability management companies and the Appellant contracted with WSIB directly.
+[8] The Appellant offered both academic and vocational programs. The student/teacher ratio was 3:1 for the academic courses and 5:1 for the vocational courses.
+[9] All programs offered by the Appellant were accelerated learning and involved self-directed learning. There was continuous enrolment so that each class could potentially have students at different levels and at different places within the curriculum. The students were usually taught individually for 45 minutes and they then worked alone for the rest of the class.
+[10] The Appellant hired individuals in one of four positions, namely, Program Manager, Centre Managers, Senior Instructors and Instructors.
+[11] The Program Manager was an employee who was responsible for managing the Centre Managers; overseeing the Colleges; and, fulfilling the duties of a Centre Manager when no Centre Manager was available to manage a College.
+[12] The Centre Managers were employees. They were responsible for overseeing the operations and administration of a specific College. They managed the programs within their College and were also responsible for business development. They had to meet with the Clients and students. They supervised the Senior Instructors and it is my view that they were responsible for supervising the Instructors as well. I will discuss this further in my analysis.
+[13] The Senior Instructors were employees who performed some of the same duties performed by the Instructors. However, they were in training to learn the Appellant’s business so that they could become Centre Managers. During the period in issue, there were three Senior Instructors.
+[14] The Instructors, who are the workers at issue in these appeals, were hired to teach the students. They signed a contract with the Appellant called “Independent Contractor Agreement – Training Instructor”. One of its terms was that the Instructor acknowledged and agreed that he/she was an independent contractor.
+[15] All individuals engaged as Instructors had either studied to be a teacher or, as in the case of Deborah Kostialik, had expertise teaching in a particular field.
+[16] A brief description of each witness’ role with the Appellant follows:
+(a) Linda Robertson is the President and CEO of the Appellant; and, during the years in issue, she was its directing mind.
+(b) Jurgen Schoenefeld is a semi-retired teacher who worked as an Instructor with the Appellant at its College in Oshawa from November 2008 until December 2011. During this period, he also operated a business called Canadian Scholastic Achievement League which offered online academic contests to schools. He taught mathematics, English, computer literacy, customer service and job search training with the Appellant.
+(c) Tommy Wong is a retired high school teacher having taught in the public school system for 31 years where he taught mathematics, science and alternative education. He was hired by the Appellant in September 2008 and he taught at its Scarborough and Oshawa Colleges. With the Appellant, he taught mathematics, computers and customer service.
+(d) Deborah Kostialik intervened in these appeals. She described herself as a teacher, facilitator and trainer. She worked as an Instructor with the Appellant from July 2006 until June 2011 at its College in St. Catharines and she taught computer applications, customer service, accounting and office administration. Prior to working with the Appellant, she had started a consulting business and while she taught with the Appellant, she continued to operate her consulting business. At the same time, she was also on the faculty of the Niagara College of Applied Arts & Technology as a part-time professor.
+(e) Renee Lowe was hired by the Appellant in January 2007 as an Instructor at its Oshawa College. She had graduated from a private college and was licensed to teach Kindergarten to grade 8. With the Appellant, she taught ESL, math and English. In January 2008, she became the Centre Manager at the Appellant’s Mississauga College and in 2010 she became the Program Manager for the Appellant.
+(f) Jacqueline Harris has her Bachelor of Education. She was hired as an Instructor in October 2009 to teach computers, medical administration and job search training at its Oshawa College. Sometime in 2010, Ms. Harris became a Senior Instructor with the Appellant. She stopped working with the Appellant in September 2010.
+(g) Jennifer Paton has her Bachelor of Education. She worked as an Instructor with the Appellant from April 2010 until January 2011 at its Oshawa College. She taught academic upgrading, customer service, job search training program and computers.
+(h) Sarah Gamm has her Bachelor of Education and she was an Instructor with the Appellant from July 2009 to December 2011. At various times during this period, she taught at the St. Catha rines College and then at the Hamilton College. She taught math, English, ESL, computers, customer service, office administration and Dragon Speaking.
+(i) Debbie Gwilt was hired by the Appellant as the Centre Manager for its Oshawa College. In August 2010, she assumed responsibility for the Appellant’s Scarborough College as well. She was paid an annual salary of $45,000 plus commission. Her employment with the Appellant was from January 2010 until November 2010.
+[17] To determine whether the Instructors were employees or independent contractors while employed by the Appellant, it is necessary to determine if the Instructors were performing their services as persons in business on their own account: 671122 Ontario Ltd v Sagaz Industries Canada Inc, [2001] 2 SCR 983. The intention of the parties is important and I will use the factors from Wiebe Door Services Ltd v MNR, [1986] 3 FC 553(FCA) to analyze the work relationship between the Instructors and the Appellant with a view to ascertaining whether their working relationship was consistent with their intention. The factors from Wiebe Door are control, ownership of tools, chance of profit and risk of loss.
+Intention
+[18] Jurgen Schoenefeld, Tommy Wong and Deborah Kostialik testified that they intended to work with the Appellant as independent contractors. However, Jacqueline Harris, Jennifer Paton and Sarah Gamm stated that they did not understand the meaning of the term independent contractor. Although they may not have understood the full meaning of the term “independent contractor”, they were made aware that no deductions for taxes would be taken from their wages and they could deduct the expenses incurred in providing their services.
+[19] All of the Instructors signed a contract with the Appellant in which they acknowledged that they would be engaged as independent contractors and not employees of the Appellant. It is my view that all of the Instructors intended to be independent contractors.
+Control
+[20] When the Instructors were hired, they were given an orientation session in which they were shown the facility where they would teach; they read the Appellant’s Policies and Procedures Manual and signed an acknowledgement that they agreed to its terms and conditions; they signed a New Instructor Check List which they were required to follow; and, they were trained on fire safety procedures and the various processes they had to follow. These processes included the reports the Instructors had to complete on a daily, weekly and monthly basis.
+[21] With respect to the Policies and Procedures Manual, the Instructors agreed that all issues concerning the students, their programs and the Colleges were to be directed to the Program Coordinator. Renee Lowe, Debbie Gwilt and Sarah Gamm confirmed that the Appellant was in charge of the students’ programs. When Renee Lowe was Program Manager she told the Instructors when there would be changes in a student’s program and what those changes would be. As an example, when a student was not achieving at the required level, it was Renee Lowe and not the Instructor who decided the changes to be made to the student’s program.
+[22] The Instructors’ teaching schedules and class size were set by the Centre Manager based on the number of students referred to the Appellant. The Instructors were not consulted when additional students were placed in their class.
+[23] The Appellant required the Instructors to submit a daily attendance sheet for the students; weekly updates with respect to each student’s progress; and, monthly progress reports which recorded the class hours, assignments, quiz and test results, topics covered, and students’ strengths and challenges. According to Jacqueline Harris, she was sometimes told what to write in the monthly reports (See exhibit R-2, tab 2A).
+[24] The Instructors were given a binder which contained the curriculum and guidelines for each course they taught. Although they were expected to prepare their own lesson plans for the courses, the Instructors were required to follow the guidelines. If they wanted to deviate from the course guidelines, they had to get approval from the Program Manager. The guidelines for the vocational courses were detailed to the point that they allowed the Instructor very little flexibility in how to teach the courses. However, all witnesses, except Jacqueline Harris, stated that the Appellant did not tell them how to teach. They testified that they relied on their training and experience to prepare lesson plans to teach their students.
+[25] It is my view that it is normal when one is engaged for his expertise that he is allowed to use this expertise in performing his duties. The fact that the Instructors prepared lesson plans to teach their students does not influence the decision whether they were employees or independent contractors.
+[26] The Instructors were required to give homework to the students unless the Program Manager or Linda Robertson told them otherwise.
+[27] The Instructors had weekly progress meetings with the Centre Managers. Debbie Gwilt stated that she had a meeting each Monday morning with each of the Instructors. Although, Debbie Kostialik stated that she objected to weekly meetings when she was asked to attend, I note that she stated that she attended the meetings because Linda Robertson asked her to attend.
+[28] No Instructor testified that he/she received a written performance review. However, I have concluded that the Appellant did review the Instructors’ performance and did supervise the Instructors. My conclusion is based on the following evidence:
+(a) Linda Robertson testified that the Instructors were the service providers of the Appellant’s services and the Appellant evaluated them on how they conducted the services and how the students progressed.
+(b) Debbie Gwilt testified that one of her duties as Centre Manager was to sit in the Instructors’ classes to audit the Instructors on their use of the whiteboard and their interaction with their students but she was given so many tasks to complete that she did not have time to audit them.
+(c) Renee Lowe testified that when she was a new Instructor she was audited by the Centre Manager. Also, when she was a Centre Manager she was required to audit the new Instructors during their first month of teaching. Thereafter, she was required to audit the Instructors every quarter.
+(d) According to Renee Lowe, the audit consisted of a checklist which had been prepared by the Appellant. It included such things as effective use of whiteboard, strengths, challenges and general comments. She stated that she reviewed the checklist and her comments with the Instructor after the audit.
+(e) The Job Description for the Centre Manager listed “management of site teachers” as one of the Centre Manager’s responsibilities (See exhibit A-1, page 393).
+[29] If an Instructor was going to be absent, he/she could not hire a replacement teacher. He/she notified the Appellant and the other Instructors who taught with them. It was ultimately the Appellant who determined who would replace the absent Instructor.
+[30] When an Instructor wanted to take vacation, he/she had to give the Appellant two weeks notice so that a replacement could be arranged.
+[31] The Instructors were not required to work a minimum number of hours on a weekly basis. When they were interviewed they stated their preferred hours of work; that is, whether they were available in the morning or the afternoon or the entire day. After they were hired, the Instructors were expected to be available at the time they had chosen. I realize that both Jurgen Schoenfeld and Debbie Kostialik stated that they could have refused to take a student if they were not available. However, this did not answer the question whether they could refuse work with the Appellant at a time that they said they would be available. Renee Lowe stated that if an Instructor refused to take students during the hours they said they would be available, the Appellant would not give any further work to that Instructor.
+[32] However, the evidence was that the Appellant would consult with the Instructor when a teaching assignment became available outside of the hours that they initially agreed to be available. The Appellant usually accommodated the Instructors requests.
+[33] Some of the Instructors were asked to perform a number of non-teaching duties for the Appellant. If a College did not have a Centre Manager, one of the Instructors was given a key to the College and was asked to open and close the College. The Instructor also had to turn off the coffee maker, check the water cooler, turn off the portable heaters, restart the computers, turn off the computer monitors, turn off all the lights and lock the exterior door. The Instructor was paid at her regular rate for performing these duties.
+[34] According to the contract between the Appellant and the Instructors, the Instructors were permitted to work with third parties provided those third parties did not compete with the Appellant.
+[35] It is the Appellant’s position that its Clients dictated the subjects to be taught to the students; how many hours of instruction were to be given to the students and the total duration of the instruction. As a result, both the Appellant and the Instructors were controlled by the Appellant’s Clients. In support of its position, counsel for the Appellant relied on the decision in R.B. Cormier Management Consultants Ltd v Canada (Minister of National Revenue), [1989] TCJ No.419.
+[36] R B Cormier Management Consultants Ltd is factually distinguishable from the present appeals. In that case, the workers used a manual which was prepared by the government and Judge Baryluk found that it really was a list of specifications imposed on Cormier. In the present appeal, the Clients did not dictate the subjects to be taught to the students; how many hours of instruction were to be given to the students and the total duration of the instruction. Rather, the Appellant proposed these terms based on its assessment of the students’ academic standing and their vocational goals. When the Clients accepted the proposal made by the Appellant, it included these terms in the sponsorship letter. The Appellant was required to adhere to the sponsorship letter in order to receive the funding agreed to for each student. I agree that a student’s program could only be extended with the approval of the Appellant’s Client because this would involve a cost that had to be paid by the Client. However, based on the evidence presented in these appeals, it is my view that the Clients did not control the Instructors in their duties.
+[37] It is my view that the control factor points to the Instructors being employees of the Appellant.
+Ownership of Tools
+[38] The Appellant supplied the Instructors with the students, the classrooms, the desks, the chairs, the instructors’ binder, and all supplies which the Instructors required to teach their classes. Although Linda Robertson and Deborah Kostialik stated that the paper and pens in the classrooms were supposed to be used only by the students, all other witnesses gave contrary evidence.
+[39] Some Instructors used their own teaching aids and equipment. However, this was not a requirement of their contract.
+[40] The ownership of tools factor is more indicative of an employee/employer relationship.
+Chance of Profit
+[41] During the period under appeal, the Instructors were paid between $15 and $20 per hour. To receive their pay, they had to complete timesheets and then invoice the Appellant on a biweekly basis. The form for both the timesheets and the invoices were provided by the Appellant. Their pay was deposited into their bank accounts.
+[42] According to the witnesses, the hourly rate of pay was not negotiated; it was offered by the Appellant and accepted by the Instructors.
+[43] The Instructors had no chance of profit from their relationship with the Appellant. This factor favours a finding that the Instructors were employees.
+Risk of Loss
+[44] No witness gave evidence which would indicate that the Instructors had a risk of financial loss. They did not have to invest in anything related to the fulfillment of their contract with the Appellant.
+Replacements
+[45] If an Instructor was going to be absent, he/she could not hire his/her own replacement. It was the Appellant who determined who would replace the absent Instructor.
+Conclusion
+[46] When I consider all of the factors, I conclude that the Instructors were not in business on their own account. Although the parties may have intended that the Instructors be engaged by the Appellant as independent contractors, the terms of their relationship, when analyzed against the Wiebe Door factors, do not support their intention.
+[47] The appeals are dismissed.
+Signed at Ottawa, Canada, this 20th day of January 2014.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2014TCC23
+COURT FILE NO.: 2012-1075(EI)
+2012-1076(CPP)
+2012-1294(EI)
+2012-1295(CPP)
+2012-1296(EI)
+2012-1297(CPP)
+STYLE OF CAUSE: ROBERTSON HUMAN ASSET MANAGEMENT INC. AND
+M.N.R. AND
+DEBORAH KOSTIALIK
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 26, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: January 20, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Robert A. Betts
+Counsel for the Respondent:
+Mindy Caterina-Neufeld
+Lesley L’Heureux
+For the Intervenor:
+The Intervenor herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Robert A. Betts
+Firm: Beard Winter LLP
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,154 @@
+Title: BMLex Avocats Inc. c. Le Roi
+Source: https://norma.lexum.com/tcc-cci/decisions/fr/item/521645/index.do
+Corpus path: corpus/cases/tcc/2026/2026-cci-107-521645-bmlex-avocats-inc-c-le-roi.md
+Document type: case_law
+Last modified: 2026-06-02
+
+# BMLex Avocats Inc. c. Le Roi
+
+- Citation: 2026 CCI 107
+- Decision date: 2026-06-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5555, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+BMLex Avocats Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2026-06-02
+Référence neutre
+2026 CCI 107
+Numéro de dossier
+2025-213(GST)I
+Juges et Officiers taxateurs
+Ryan Rabinovitch
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2025-213(GST)I
+ENTRE :
+BMLEX AVOCATS INC.
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu le 9 mars 2026, à Montréal (Québec).
+Devant : l’honorable juge Ryan P. Rabinovitch
+Comparutions :
+Avocat de l’appelante :
+Me Andrey Mutchnik
+Avocat de l’intimé :
+Me Alexandra Pinard
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise à l’égard de l’appelante pour sa période de déclaration se terminant le 30 juin 2023 est rejeté, sans dépens.
+Signé ce 2e jour de juin 2026.
+« Ryan Rabinovitch »
+Le juge Rabinovitch
+Référence : 2026 CCI 107
+Date : 20260602
+Dossier : 2025-213(GST)I
+ENTRE :
+BMLEX AVOCATS INC.
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Rabinovitch
+I. INTRODUCTION : [1] L’appelante exploite une entreprise de fourniture de services juridiques. Le montant total de ses acomptes provisionnels de TPS pour sa période de déclaration se terminant le 30 juin 2023 s’élevait à 3 837,40 $, soit quatre versements trimestriels de 959,35 $. Selon Revenu Québec, l’appelante lui doit 185,05 $ d’intérêts en raison de son défaut d’effectuer ces versements dans les délais requis.
+[2] À la date d’échéance de ses acomptes provisionnels pour 2023, l’appelante disposait d’un solde créditeur auprès de Revenu Québec d’un montant de 15 084,62 $, résultant d’un trop-perçu sur ses acomptes provisionnels pour sa période de déclaration se terminant le 30 juin 2019. L’appelante semble avoir délibérément créé ce solde créditeur et l’avoir laissé en place afin de ne pas avoir à verser d’acomptes provisionnels au cours des années suivantes (c’est-à-dire pour qu’il serve de paiement de ces acomptes provisionnels). En conséquence, elle estime que la cotisation établie par Revenu Québec à son égard est sans fondement.
+II. ANALYSE : 1. Compétence de la Cour : [3] Le premier point à examiner en l’espèce est l’argument de l’intimé selon lequel cette Cour n’est pas compétente pour entendre le présent appel, au motif que celui-ci porte sur la question de savoir si une dette fiscale a été payée. Je ne partage pas son avis sur ce point.
+[4] La compétence conférée à la Cour par l’article 12 de la Loi sur la Cour canadienne de l’impôt consiste à entendre les appels en vertu de la partie IX de la Loi sur la taxe d’accise (« LTA »). L’article 306 de la LTA stipule quant à lui qu’un appel est interjeté à l’égard d’une « cotisation », et l’alinéa 296(1)c) de la LTA autorise l’établissement d’une cotisation pour déterminer le montant des « pénalités et intérêts payables par une personne [mes soulignements] » en vertu de la partie II de la LTA. Il est vrai que cette Cour a jugé que sa compétence se limitait à l’examen de la validité et/ou de l’exactitude du montant d’une cotisation, par opposition à la question de savoir si le montant d’une cotisation a été payé ou non. L’objet du présent recours n’est toutefois pas simplement de déterminer si une cotisation a été payée, mais plutôt de procéder à cette détermination en vue d’établir si les intérêts fixés par Revenu Québec ont été correctement calculés. La Cour a jugé à maintes reprises qu’elle était compétente pour trancher cette dernière question[1].
+[5] Je note que l’intimé a cité l’affaire Emcon c. R. (« Emcon »)[2] à l’appui de sa position. Dans cette cause, le contribuable avait versé des acomptes provisionnels d’impôt sur le revenu excédentaires pour 2004 et avait demandé au ministre, dans sa déclaration de revenus de 2004, d’imputer le solde créditeur qui en résultait sur ses acomptes de 2005. Le ministre s’est exécuté, mais uniquement à compter du 3 juin 2005, soit la date à laquelle il a émis une cotisation pour 2004, et a donc estimé que des intérêts s’étaient accumulés sur les acomptes provisionnels du contribuable pour 2005 jusqu’à cette date. Le contribuable a fait valoir que le ministre aurait dû imputer le solde créditeur à compter de la date à laquelle les paiements en question avaient été effectués, conformément à l’article 221.2 de la Loi de l’impôt sur le revenu (« LIR »), qui dispose que le ministre « peut », « à la demande » d’un contribuable, affecter rétroactivement un paiement effectué par ce contribuable au titre d’une obligation fiscale à une autre obligation fiscale. La juge Lyons a conclu que la Cour n’avait pas le pouvoir de contraindre le ministre à appliquer l’article 221.2, car le pouvoir qu’il confère est discrétionnaire. Je souscris bien sûr à cette conclusion[3]. Néanmoins, je ne pense pas que l’arrêt Emcon empêche cette Cour de se pencher sur cet appel, car l’appelante ne s’appuie pas sur l’article 221.2 en l’espèce, ni ne demande à la Cour de contrôler l’exercice d’un pouvoir discrétionnaire par Revenu Québec. Comme nous le verrons plus loin, l’argument de l’appelante est simplement que la dette donnant lieu aux intérêts en cause a été acquittée automatiquement et de plein droit avant même que ces intérêts n’aient pu commencer à courir.
+2. Fondement de l’appel : a. Jurisprudence pertinente : [6] En ce qui concerne le fond du présent appel, je commencerai par noter que les tribunaux se sont historiquement montrés assez hostiles à l’argument selon lequel un contribuable n’est pas tenu d’effectuer des paiements au moment et de la manière exigés par la législation fiscale canadienne simplement parce qu’il a droit à un remboursement au titre d’une autre dette ou d’une période antérieure. Les seules exceptions à cet égard concernent des cas où le contribuable a expressément demandé que son remboursement soit affecté au paiement de la dette en question. Ainsi, par exemple :
+Dans l’affaire La Reine c. Lamothe[4], le juge Wells de la Cour suprême de l’Ontario a jugé qu’un employeur avait commis une infraction au titre de l’article 131 de la LIR (le prédécesseur de l’article 238 de la LIR) en omettant de verser les retenues à la source sur les salaires versés à ses employés, même s’il avait produit une déclaration de revenus dans laquelle il avait demandé un remboursement supérieur au montant de ces retenues à la source. Selon le juge Wells, il n’existait aucun droit de compensation à l’égard de la Couronne en common law, et même si tel n’avait pas été le cas, le paragraphe 47(1) de la LIR (qui a précédé le paragraphe 153(1)) imposait au contribuable une obligation positive de prélever ou de retenir les retenues à la source, et de les « verser » au receveur général du Canada. Il s’agissait d’une obligation positive spécifique qui devait être respectée.
+Dans l’affaire Montclair Radio & Refrigeration Supply Inc. c. Ministre du Revenu national[5], le juge St-Onge a jugé qu’un contribuable n’avait droit à aucune réduction des intérêts dus au titre de l’impôt sur le revenu qu’il n’avait pas payé pour l’année d’imposition 1965 au motif qu’il avait droit à un remboursement de taxe d’accise au moment où l’impôt était exigible.
+Dans l’affaire Smith c. Ministre du Revenu national (« Smith »)[6], un contribuable a effectué un versement d’acomptes provisionnels d’impôt sur le revenu le 31 mars 1988, dans l’intention de couvrir son impôt pour 1987 et d’affecter tout excédent à ses acomptes provisionnels pour 1988. Le contribuable a ensuite envoyé au ministre une lettre l’informant de ses intentions le 18 mai 1988. Le ministre a accédé à la demande du contribuable, mais n’a appliqué le trop-perçu à ses acomptes provisionnels de 1988 qu’à compter de la date à laquelle son avis de cotisation pour 1987 a été émis. Le juge Margeson a rejeté l’argument du contribuable selon lequel son trop-perçu pour 1987 aurait dû être crédité à compter du 31 mars 1988 (c’est-à-dire la date à laquelle le trop-perçu est survenu), de sorte que le contribuable n’avait aucun intérêt à payer. Cela dit, il a estimé que le trop-perçu aurait dû être crédité à compter du 25 mai 1988, date à laquelle le ministre a reçu la lettre contenant les instructions claires du contribuable à cet égard.
+Dans l’affaire George c. Canada[7], la juge Lamarre-Proulx a jugé qu’un contribuable n’avait droit à aucune réduction des intérêts imposés au titre de l’impôt sur le revenu dû pour son année d’imposition 1988 au simple motif que le ministre lui devait un remboursement pour son année d’imposition 1987 au moment où son paiement pour 1988 était exigible. Elle a noté qu’en droit civil québécois, il n’est pas possible de procéder à une compensation à l’égard d’une dette due par la Couronne, principe qui est aujourd’hui consacré à l’article 1672(2) du Code civil du Québec (« CCQ »)[8].
+Dans l’affaire Koenig c. R. (« Koenig »)[9], un contribuable a déposé une déclaration de revenus modifiée pour son année d’imposition 1993 le 1er mai 1995. Le contribuable a déclaré des pertes d’entreprise supplémentaires dans cette déclaration et s’attendait donc à recevoir un remboursement. En conséquence, il a joint à la déclaration modifiée des instructions demandant au ministre d’imputer ce remboursement sur son impôt sur le revenu pour 1995, qui était exigible ce jour-là (c’est-à-dire le 1er mai 1995). Le ministre a donné suite à ces instructions, mais seulement à compter du 15 août 1995, date à laquelle l’année 1994 a été cotisée, et a donc pris la position que le contribuable lui devait trois mois et demi d’intérêts. Le juge Archambault a accueilli l’appel du contribuable au motif que le paiement du montant dû à l’égard de 1995 devait être considéré comme ayant eu lieu lorsque les instructions du contribuable ont été transmises.
+Dans l’affaire Murgesco c. R.[10], un contribuable a fait valoir qu’il n’aurait pas dû se voir imposer des intérêts sur l’impôt sur le revenu dû pour son année d’imposition 1997, car il avait effectué des paiements excédentaires au cours des années d’imposition précédentes qui auraient dû être imputés sur sa dette fiscale de 1997.
+Dans l’affaire Fuerth c. R.[11], un contribuable qui s’attendait à devoir des impôts pour ses années d’imposition 1998 et 1999 a envoyé au ministre un chèque d’un montant de 4 000 $ le 30 avril 1999 sans fournir d’instructions quant à la manière dont il devait être appliqué. Lorsque le contribuable a produit tardivement ses déclarations de revenus de 1998 et 1999 en 2006, le ministre a considéré les 4 000 $ comme un paiement sur sa dette fiscale de 1998 et lui a accordé un remboursement de 2 565,80 $. Il a ensuite établi un avis d’imposition de 1 419,64 $ pour 1999, ainsi qu’une pénalité pour défaut répété de produire une déclaration. Le contribuable a fait valoir que le ministre aurait dû imputer le remboursement de 1998 sur ses impôts à payer pour 1999 au lieu de lui envoyer un remboursement, et que le montant de la pénalité imposée devrait être ajusté en conséquence. Le juge Miller n’était pas d’accord, déclarant :
+Il n’incombait pas à l’ARC d’affecter la somme de 2 565,80 $ au compte de l’appelante pour l’année d’imposition 1999 si l’appelante ne l’avait pas demandé expressément. Lorsqu’elle a fait son paiement, l’appelante avait le devoir de dire au ministre ce qu’il fallait faire avec l’argent. De même, lorsque l’appelante a produit sa déclaration de revenus pour 1998, elle avait le devoir d’indiquer au ministre d’affecter tout remboursement à son année d’imposition 1999[12].
+[7] Il me semble que le principe général qui sous-tend ces décisions est qu’il incombe au contribuable de veiller à ce que ses obligations fiscales soient respectées. Les autorités fiscales ne sont pas des institutions financières, ne tiennent pas de « compte bancaire » global pour le contribuable et ne sauraient être contraintes de gérer les paiements à partir de ce compte pour le contribuable.
+b. Arguments spécifiques soulevés par l’appelante : [8] Le premier argument avancé par l’appelante repose sur la distinction entre le terme « verser », utilisé dans la version française du paragraphe 237(1) de la LTA (la disposition imposant l’obligation d’effectuer des acomptes provisionnels et le terme « payé » figurant au paragraphe 280(2) de la LTA.[13]
+[9] Le paragraphe 237(1) se lit comme suit :
+L’inscrit dont la période de déclaration correspond à un exercice ou à une période déterminée selon le paragraphe 248(3) est tenu de verser au receveur général, au cours du mois qui suit chacun de ses trimestres d’exercice se terminant dans la période de déclaration, un acompte provisionnel égal au montant suivant :
+a) sauf en cas d’application de l’alinéa b), le quart de sa base des acomptes provisionnels pour la période de déclaration;
+b) le montant déterminé selon le paragraphe (5) [mes soulignements].
+[10] Le paragraphe 280(2), pour sa part, énonce que :
+[…] [L]a personne qui n’a pas payé la totalité d’un acompte provisionnel payable en application du paragraphe 237(1) dans le délai qui y est précisé est tenue de payer, sur l’acompte impayé, des intérêts calculés au taux réglementaire pour la période commençant le lendemain de l’expiration de ce délai et se terminant au premier en date des jours suivants :
+(a) le jour où le total de l’acompte et des intérêts est payé;
+(b) le jour où la taxe au titre de laquelle l’acompte est payable est à verser au plus tard [mes soulignements].
+[11] L’appelante semble admettre qu’elle n’a pas respecté son obligation de verser les montants requis dans les délais prescrits au paragraphe 237(1). Elle affirme toutefois les avoir versés en 2019 et soutient que cela a donné lieu à un « paiement » en 2023, lorsque les acomptes provisionnels en question sont devenus exigibles. À l’appui de cet argument, l’appelante invoque l’article 1553 du CCQ, qui dispose que « [p]ar paiement on entend non seulement le versement d’une somme d’argent pour acquitter une obligation, mais aussi l’exécution même de ce qui est l’objet de l’obligation ». Bien qu’elle n’ait pas remis de somme d’argent en 2023, l’appelante soutient que le montant qu’elle devait a néanmoins été payé cette année-là.
+[12] À mon avis, cet argument soulève une difficulté fondamentale, car il repose, en fin de compte, sur la compensation. L’appelante a effectué un paiement à l’intimé en 2019. À supposer que ce paiement ne puisse être qualifié de paiement anticipé des obligations de l’appelante au titre des versements de 2023 — point sur lequel je reviendrai ci-après — la meilleure situation dans laquelle l’appelante pourrait se trouver serait celle de créancière vis-à-vis de Revenu Québec en 2023. Par conséquent, la seule façon pour l’appelante de s’acquitter de son obligation de payer ses acomptes provisionnels en 2023 sans effectuer de versement supplémentaire serait que son solde créditeur soit imputé sur cette obligation par voie de compensation. Or, comme il a été indiqué ci-dessus, le CCQ ne permet pas à un contribuable d’invoquer la compensation contre la Couronne. De plus, l’article 318 de la LTA et le paragraphe 155(1) de la Loi sur la gestion des finances publiques[14] permettent à la Couronne de compenser les montants qui lui sont dus par les montants qu’elle doit à un contribuable, mais ne confèrent aucun droit symétrique au contribuable. Ainsi, même si le CCQ restait muet sur ce point, je serais amené à conclure que le législateur n’avait pas l’intention de permettre aux contribuables de faire valoir un argument de la nature de celui invoqué par l’appelante[15].
+[13] Je suis conscient que les tribunaux semblent avoir reconnu une exception aux principes qui précèdent lorsque le contribuable donne des instructions précises pour qu’un remboursement soit affecté au paiement d’une autre dette fiscale (voir par exemple, les affaires Smith et Koenig, mentionnées ci-dessus). Or, l’appelante n’a pas prétendu avoir donné de telles instructions à Revenu Québec et n’a pas fait valoir, lors de l’audience, que son appel devait être accueilli pour ce motif.
+[14] Le deuxième argument de l’appelante est que le paiement de ses acomptes provisionnels pour 2023 a eu lieu en 2019, au motif qu’en s’abstenant de demander un remboursement pour 2019, elle a en réalité prépayé ses obligations futures de versement. Cet argument doit également être rejeté.
+[15] L’article 1554 du CCQ stipule que « tout paiement présuppose une obligation ». Cette règle a été interprétée comme consacrant le principe de bon sens selon lequel une obligation ne peut être acquittée avant d’être née, et que les obligations soumises à une condition suspensive ne peuvent donc faire l’objet d’un paiement anticipé[16]. L’article 237 de la LTA précise que l’obligation de verser des acomptes provisionnels ne s’applique qu’aux inscrits et que le montant de ces acomptes correspond, de façon très générale, au quart du moins élevé de la taxe nette d’un contribuable pour sa période de déclaration précédente et de sa taxe nette pour la période de déclaration à laquelle les acomptes se rapportent. À mon avis, l’existence de l’obligation de payer des acomptes provisionnels est donc subordonnée à deux conditions suspensives – à savoir que le contribuable soit un inscrit au cours de la période de déclaration en cause et qu’il ait de la taxe nette pour sa période de déclaration précédente – ainsi qu’à une condition résolutoire, soit que le contribuable ait de la taxe nette pour la période de déclaration à laquelle se rapportent les acomptes. Il s’ensuit que l’obligation de l’appelante de payer ses acomptes provisionnels pour sa période de déclaration de 2023 ne pouvait naître, au plus tôt, qu’au début de cette période[17].
+[16] Par ailleurs, même s’il avait été possible pour l’appelante de prépayer ses acomptes provisionnels de 2023 en 2019, il m’aurait fallu davantage d’informations pour déterminer si les gestes qu’elle a posés en 2019 pouvaient raisonnablement être qualifiés de paiements anticipés. Par exemple, il serait pertinent à cet égard de savoir si l’appelante a transmis ses paiements de 2019 à Revenu Québec au moyen d’un bordereau de paiement ou par voie électronique et si ce bordereau ou le site bancaire utilisé à cette fin précisait que ces paiements visaient sa période de déclaration se terminant le 30 juin 2019, le cas échéant. Dans l’affirmative, il n’aurait pas été raisonnable, à mon sens, de les qualifier de paiements anticipés. Et même dans la négative, la jurisprudence examinée ci-dessus donne à penser que l’appelante aurait dû donner des instructions plus précises pour atteindre son objectif.
+[17] Le troisième argument de l’appelante concerne l’application du paragraphe 280(3) de la LTA. Cette disposition vise à permettre à un contribuable de compenser tout intérêt de retard sur les acomptes provisionnels par des intérêts théoriques ou « compensateurs » payables sur les acomptes versés en avance ou en excédent, qui sont réputés courir au même taux que les intérêts payables sur les acomptes versés en retard. L’appelante fait valoir que ses acomptes provisionnels excédentaires de 2019 constituent des acomptes versés en avance et/ou en excédent aux fins de cette règle. Je ne partage pas cet avis.
+[18] Le paragraphe 280(3) se lit comme suit :
+Malgré le paragraphe (2), le total des intérêts payables par une personne pour la période commençant le premier jour d’une période de déclaration pour laquelle un acompte provisionnel de taxe est payable et se terminant le jour où la taxe au titre de laquelle l’acompte est payable doit être versée ne peut dépasser l’excédent éventuel du montant visé à l’alinéa a) sur le montant visé à l’alinéa b) :
+(a) les intérêts qui seraient payables par la personne aux termes du paragraphe (2) pour la période si aucun montant n’était payé par elle au titre des acomptes provisionnels payables au cours de la période;
+(b) le total des montants dont chacun représente les intérêts au taux réglementaire applicable aux intérêts à payer au receveur général, calculés sur un acompte provisionnel de taxe payé pour la période commençant le jour de ce paiement et se terminant le jour où la taxe au titre de laquelle l’acompte est payable doit être versée [mes soulignements].
+[19] L’expression « la période » à l’alinéa 280(3)b) prête quelque peu à confusion. On peut l’interpréter, d’une part, comme une simple référence au moment où les intérêts commencent et cessent de courir. D’autre part, elle pourrait indiquer que ces intérêts ne courent que sur les acomptes provisionnels versés pour la période de déclaration en cause (auquel cas, l’argument de l’appelante ne saurait être retenu). La première interprétation me semble découler plus naturellement des termes employés, et le reste de la disposition tend à confirmer qu’il s’agit de celle voulue par le législateur. Les paragraphes 280(1), 280(1.1) et 280(2), le préambule du paragraphe 280(3) ainsi que le paragraphe 280(7) font tous référence à la « période commençant » un jour donné et se terminant un autre jour pour décrire la période pendant laquelle courent les intérêts visés.
+[20] Cela dit, je ne peux toujours pas souscrire à l’interprétation générale donnée au paragraphe 280(3) par l’appelante. Premièrement, elle aboutit à deux résultats très incohérents que le Parlement ne peut, à mon avis, avoir voulus. Si l’appelante avait raison, les acomptes provisionnels versés à temps et pour le montant exact au cours d’une période de déclaration généreraient des intérêts compensateurs dans les périodes subséquentes. De plus, tant ces acomptes provisionnels que ceux versés en avance ou en excédent généreraient des intérêts compensateurs susceptibles d’être utilisés indéfiniment, car la disposition ne contient aucune formulation excluant la prise en compte des intérêts compensateurs déjà appliqués dans une période antérieure. Deuxièmement, il ressort clairement des notes techniques relatives au paragraphe 280(3) que celui-ci visait à reproduire le mécanisme prévu au paragraphe 166(2.2) de la LIR[18]. Or, le paragraphe 166(2.2) indique expressément que les intérêts compensateurs ne sont générés que par les acomptes provisionnels versés pour l’année fiscale en cause. En effet, l’alinéa 162(2.2)b) de la LIR (l’équivalent de l’alinéa 280(3)b) de la LTA) fait référence aux intérêts qui seraient payables en vertu du paragraphe 164(3) de la LIR sur un remboursement accordé « pour l’année » conformément au paragraphe 164(1) de la LIR si aucun impôt sur le revenu n’était payable pour cette année. Le paragraphe 164(1) définit quant à lui ce remboursement par référence à tout « excédent de paiement pour l’année », lui-même défini au paragraphe 164(7) de la LIR en fonction des montants versés au titre de l’obligation fiscale du contribuable « pour l’année ». À la lumière de ces éléments, il m’apparaît que l’omission de préciser que les acomptes provisionnels visés à l’alinéa 280(3)b) doivent être des acomptes versés pour la période en cause était vraisemblablement un oubli attribuable à la confusion engendrée par l’emploi de l’expression « pour la période » après les mots « acompte d’impôt ». Cette formulation aura sans doute conduit le rédacteur à croire (à tort, il faut l’admettre) que la restriction avait déjà été énoncée.
+[21] Le dernier argument de l’appelante porte également sur le paragraphe 280(3) de la LTA et n’est, en réalité, qu’une variante des arguments déjà examinés relativement au paragraphe 280(2). En substance, pour les mêmes raisons qui l’amènent à soutenir que ces acomptes provisionnels pour 2023 ont été « payés » soit en 2019, soit en 2023, l’appelante fait valoir que ces paiements devraient générer des intérêts compensateurs aux fins du paragraphe 280(3). Tel qu’indiqué ci-dessus, je ne considère pas que les acomptes provisionnels de l’appelante aient été payés en 2019 ou 2023. Son dernier argument fondé sur le paragraphe 280(3) ne peut donc pas être accepté.
+III. CONCLUSION : [22] Pour toutes les raisons susmentionnées, l’appel est rejeté. Étant donné que l’affaire était régie par les règles de procédure informelle, aucuns dépens ne sont adjugés.
+Signé ce 2e jour de juin 2026.
+« Ryan Rabinovitch »
+Le juge Rabinovitch
+RÉFÉRENCE :
+2026 CCI 107
+No DU DOSSIER DE LA COUR :
+2025-213(GST)I
+INTITULÉ :
+BMLEX AVOCATS INC. c.
+SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 9 mars 2026
+MOTIFS DU JUGEMENT :
+L’honorable juge Ryan P. Rabinovitch
+DATE DU JUGEMENT :
+Le 2 juin 2026
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Andrey Mutchnik
+Avocat de l’intimé :
+Me Alexandra Pinard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Andrey Mutchnik
+BMLex Avocats Inc.
+442, rue St-Gabriel, bur. 100
+Montréal (Québec) H2Y 2Z9
+Pour l’intimé :
+Marie-Josée Hogue
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Voir par exemple Moledina c. R., 2007 CCI 354, Wright c. R., 2005 CCI 485 et 1455257 Ontario Inc. c. La Reine, 2020 CCI 64.
+[2] 2008 CCI 501.
+[3] Cela est clairement exact, en particulier à la lumière de la décision de la Cour suprême dans l’affaire Dow Chemical Canada ULC c. Canada, 2024 CSC 23.
+[4] [1958] C.T.C. 201.
+[5] [1968] Tax A.B.C. 585.
+[6] [1991] 1 C.T.C. 2362.
+[7] [1993] 1 C.T.C. 2478.
+[8] Il stipule que « [l]a compensation ne peut être invoquée contre l’État, mais celui-ci peut s’en prévaloir. »
+[9] [1997] 2 C.T.C. 3077.
+[10] 2007 CCI 176.
+[11] 2007 CCI 588.
+[12] Ibid., par. 5.
+[13] Un seul et même terme (« pay » / « paid ») est employé dans la version anglaise des paragraphes 237(1) et 280(2).
+[14] Le paragraphe 155(1) de la Loi sur la gestion des finances publiques prévoit que « [l]e ministre compétent responsable du recouvrement d’une créance soit de Sa Majesté du chef du Canada, soit de Sa Majesté du chef d’une province s’il s’agit d’impôts provinciaux visés par une entente entre le Canada et la province en vertu de laquelle le Canada est autorisé à percevoir les impôts pour le compte de la province, peut autoriser, par voie de déduction ou de compensation, la retenue d’un montant égal à la créance sur toute somme due au débiteur ou à ses héritiers par Sa Majesté du chef du Canada. »
+[15] Il y a également lieu de préciser que la compensation ne pouvait s’appliquer que de plein droit en l’espèce, aucune entente n’ayant été conclue entre les parties. L’article 1673 du CCQ prévoit toutefois que cela ne peut se produire que lorsque les deux obligations en cause sont certaines, liquides et exigibles. Compte tenu du fonctionnement de la formule énoncée à l’article 237, le montant de la dette de l’appelante au titre de l’acompte de 2023 n’était pas certain avant la fin de son exercice 2023.
+[16] Benoît Moore, Code civil du Québec : Annotations - Commentaires, 10e édition (2025) (commentaires sur l’article 1554 CCQ) et Didier Lluelles et Benoît Moore, Droit des obligations, 3e édition, 2018, au par. 2635. Voir également Industries Perron Inc. c. R., 2011 CCI 433 aux paragraphes 21 à 24.
+[17] Même si l’on pouvait considérer que l’obligation de l’appelante de payer ses acomptes provisionnels de 2023 « existait » en 2019, je ne peux admettre qu’il ait été possible de s’acquitter de cette obligation avant que son montant ne puisse être déterminé.
+[18] Ils indiquent :
+Le paragraphe 280(3) prévoit un mécanisme de compensation qui limite le montant total des intérêts et des pénalités exigibles relativement aux acomptes provisionnels. Les intérêts et pénalités appliqués en vertu du paragraphe 280(2) ne sont payables que dans la mesure où ils dépassent l’intérêt, majoré de 6 %, calculé sur les trop-perçus ou les acomptes provisionnels antérieurs. Cette règle est semblable au mécanisme de compensation applicable aux acomptes d’impôt prévus en vertu de la Loi sur l’impôt sur le revenu [mes soulignements].

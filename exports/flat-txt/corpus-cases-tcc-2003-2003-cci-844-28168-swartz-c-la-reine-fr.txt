@@ -1,0 +1,140 @@
+Title: Swartz c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28168/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-844-28168-swartz-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-11-19
+
+# Swartz c. La Reine
+
+- Citation: 2003 CCI 844
+- Decision date: 2003-11-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2014, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Swartz c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-19
+Référence neutre
+2003 CCI 844
+Numéro de dossier
+2003-1682(IT)APP
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003‑1682(IT)APP
+ENTRE :
+JEFFREY SWARTZ,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Demande entendue le 14 octobre 2003 à Toronto (Ontario)
+Devant : L’honorable juge Georgette Sheridan
+Comparutions
+Avocat du requérant :
+Me Joel Lipchitz
+Avocat de l’intimée :
+Me John Grant
+____________________________________________________________________
+ORDONNANCE
+Considérant que la demande d’une ordonnance de prorogation du délai dans lequel un appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1995 peut être faite;
+La Cour ordonne que le délai dans lequel un appel peut être interjeté soit prorogé jusqu’à la date de la présente ordonnance et que l’Avis d’appel, déposé avec la présente demande, soit réputé être un appel valide interjeté à la date de la présente ordonnance si un droit de dépôt approprié est versé au greffe le 19 décembre 2003 ou avant cette date.
+Signé à Ottawa, Canada, ce 19e jour de novembre 2003.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 27e jour de février 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI844
+Date : 20031119
+Dossier : 2003‑1682(IT)APP
+ENTRE :
+JEFFREY SWARTZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Il s’agit d’une demande en vue d’obtenir une prorogation du délai pour interjeter un appel en vertu des Règles de la Cour canadienne de l’impôt (procédure générale) à l’encontre d’un Avis de nouvelle cotisation établi à l’égard du requérant pour l’année d’imposition 1995.
+[2] En établissant ces nouvelles cotisations, le ministre a refusé les déductions qu’a réclamées le requérant à l’égard de certaines dépenses d’entreprise et pertes en capital pour l’année d’imposition en cause qui s’élèvent à environ 100 000 $ et 75 000 $ respectivement.
+QUESTION EN LITIGE
+[3] La question en litige consiste à savoir si le requérant a satisfait aux exigences énoncées au paragraphe 167(5) de la Loi de l’impôt sur le revenu qui permettent d’accorder une ordonnance de prorogation du délai dans lequel il peut interjeter un appel pour l’année d’imposition 1995.
+[4] L’alinéa 167(5)a) ou le sous‑alinéa 167(5)b)(iv) ne sont pas en litige parce que l’intimée a reconnu que le requérant avait déposé sa demande dans le délai prescrit et parce que l’appel est raisonnablement fondé. Cependant, l’intimée conteste que le requérant ait réuni les autres conditions énoncées aux sous‑alinéas 167(5)b)(i), b)(ii) et b)(iii) de la Loi.
+DISPOSITIONS LÉGISLATIVES
+[5] Le paragraphe 167(5) de la Loi énonce les conditions pour faire droit à une demande de prorogation du délai pour interjeter appel. Il est ainsi formulé :
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+FAITS
+[6] Les dates pertinentes relativement à la nouvelle cotisation établie pour l’année d’imposition 1995 sont les suivantes :
+Le 2 octobre 2000
+Réception de l’Avis de nouvelle cotisation
+Le 22 janvier 2001
+Dépôt de l’Avis d’opposition
+Le 27 décembre 2001
+Réception de l’Avis de ratification
+Le 20 avril 2002
+Envoi de la « lettre d’appel » du requérant à l’ADRC
+Le 26 avril 2002
+Réception de la réponse de l’ADRC au requérant
+Le 1er juillet 2002
+Envoi par la poste de l’Avis d’appel et du droit de dépôt au greffe de la C.C.I.
+Le 23 mars 2003
+Réception par le greffe de la C.C.I. de l’Avis d’appel et du droit de dépôt
+Le 25 mars 2003
+Le greffe du C.C.I. communique avec le requérant concernant l’obligation de déposer une demande de prorogation du délai pour interjeter appel et lui indique que le délai est le 27 mars 2003
+Le 27 mars 2003
+Dépôt de la demande de prorogation du délai
+[7] Le requérant est un dentiste. Il était le seul témoin que les deux parties à la présente demande ont appelé à témoigner. À un certain moment, vers le milieu des années 1990, le requérant a tenté de vendre son cabinet. Pour des raisons qui n’ont pas été tout a fait expliquées clairement à l’audience, la vente a échoué entraînant pour le requérant une dizaine d’années de désastre fiscal. Il a finalement perdu son cabinet et sa propriété et risquait de faire faillite. Il ne disposait d’aucune ressource pour obtenir des conseils juridiques et comptables. De plus, outre toutes ces difficultés, le requérant et son épouse ont appris la nouvelle que cette dernière était enceinte.
+[8] Le requérant a expliqué qu’il négociait avec l’ADRC depuis dix ans, notamment avec les services de recouvrement. Selon le requérant, la vente ratée de son cabinet a gravement compromis sa capacité à rassembler les documents nécessaires pour appuyer les demandes qu’il déposait devant l’ADRC.
+ANALYSE
+[9] C’est à l’égard de ce contexte factuel que l’on doit tenir compte de chacun des critères qui font l’objet d’un litige, notamment :
+I. par. 167(5)
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel
+[…]
+[10] Selon la prépondérance des probabilités, la preuve est suffisante pour démontrer que, pendant la période de 90 jours suivant l’Avis de ratification daté du 27 décembre 2001, le requérant « n’a pu ni agir ni charger quelqu’un d’agir en son nom ». Lorsqu’il a décrit certains détails relativement aux répercussions que la vente ratée de son cabinet a eues sur sa vie, le requérant a témoigné que les livres de paie et des états des dépenses se rapportant à l’année en cause avaient été [Traduction] « volés » et « égarés ». Il a indiqué que, puisqu’il lui était impossible d’accéder aux bureaux de son ancien cabinet, il lui avait été difficile de rassembler tous les documents nécessaires pour contester la nouvelle cotisation établie pour l’année d’imposition 1995. Pendant ce temps, ses difficultés financières et personnelles continuaient à tourbillonner autour de lui. Il a témoigné qu’entre le mois de décembre 2001 et le mois de juillet 2002, il avait été incapable de réfléchir aussi clairement qu’en temps normal, expliquant qu’il était dans un état d’esprit « confus » et se rappelant qu’il avait l’impression d’être « perdu dans le temps ».
+[11] Je suis convaincue qu’en raison de ces nombreuses pressions fiscales, professionnelles et personnelles exercées sur le requérant pendant cette période, il n’a effectivement « pu ni agir ni charger quelqu’un d’agir en son nom » pour interjeter appel dans le délai de 90 jours suivant l’Avis de ratification, tel qu’il est prévu au sous‑alinéa 167(5)(i). Puisque les dispositions législatives exigent que le requérant ne satisfasse que l’une ou l’autre des conditions énoncées au sous‑alinéa 167b)(i), il n’est pas nécessaire que la Cour tienne compte de la deuxième condition « il avait véritablement l’intention d’interjeter appel ».
+II. alinéa 167(5)b)
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande, [...]
+[12] Dans l’affaire Meer c. Canada, [2001] A.C.I. no 321, le juge Hershfield a énoncé les critères dont il faut tenir compte lorsqu’il s’agit de déterminer si les conditions dudit paragraphe sont réunies :
+[20] […] L’avocate de l’intimée a soutenu que la condition selon laquelle l’octroi de la prorogation devait être juste et équitable dans les circonstances constituait un critère distinct, qui devait être respecté si l’on voulait qu’il soit fait droit à la demande. Cette condition figure au paragraphe 167(5) en tant que critère distinct. Toutefois, la condition découle des raisons et des circonstances de la demande. Les raisons et les circonstances en l’espèce ne donnent lieu à aucune prétendue injustice. On n’a pas soutenu en l’espèce qu’il y avait eu un acte criminel, que l’on avait fait preuve de mauvaise foi ou qu’un préjudice avait été causé. Je ne peux trouver aucune affaire – et l’avocate de l’intimée ne m'en a pas présenté – à l’appui de sa thèse ou montrant une situation où toutes les autres conditions qui doivent être remplies avant de faire droit à la demande sont respectées et où il a été décidé qu’il n’est toujours pas juste et équitable d’y faire droit. Le fait de faire droit à la demande ne compromettra pas la nouvelle cotisation, mais son bien‑fondé sera examiné. Dans ces circonstances, il m’apparaît inéquitable de ne pas appliquer le principe établi dans l’affaire Seater c. R., [1997] 1 C.T.C. 2204 [...]
+[13] Je conclus que ce même raisonnement s’applique aux faits de l’affaire en l’espèce et que le requérant a réuni les conditions énoncées au sous‑alinéa 167(5)b)(ii).
+III. alinéa 167(5)b)
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+[…].
+[14] Le sous‑alinéa 167(5)b)(iii) met l’accent sur le délai dans lequel la demande de prorogation du délai pour interjeter appel a été déposée. La phrase clé est la suivante : « […] dès que les circonstances le permettaient ».
+[15] Dans l’affaire en l’espèce, le requérant a témoigné qu’il s’était rendu compte qu’il devait présenter une demande de prorogation du délai dans lequel il devait interjeter appel à l’encontre de la nouvelle cotisation établie pour l’année d’imposition 1995 le 25 mars 2002, soit à peine deux jours avant le délai final. L’élément catalyseur de cette soudaine prise de conscience a été l’appel téléphonique qu’il a reçu du greffe de la Cour canadienne de l’impôt pour l’informer que l’on venait tout juste de recevoir son prétendu Avis d’appel et qu’il lui était nécessaire d’obtenir une ordonnance en vertu de l’article 167 avant que son Avis d’appel puisse être déposé.
+[16] Le requérant a témoigné qu’il avait envoyé par le poste les documents en question près d’il y a neuf mois, soit le 1er juillet 2002. En contre‑interrogatoire, le requérant a expliqué qu’il ne s’était pas inquiété du fait que le greffe de la Cour canadienne de l’impôt ne lui avait pas fait parvenir de réponse entre le 1er juillet 2002 et le 25 mars 2003 parce qu’il n’avait jamais eu affaire avec la Cour auparavant. De plus, pendant cette période, il était encore très préoccupé à se débattre pour assurer sa survie financière et, notamment, à tenter de reprendre ses activités professionnelles. Enfin, il a expliqué qu’au cours de cette période, les agents de recouvrement à l’ADRC avaient cessé de le « harceler » pour obtenir des paiements, un fait qui [selon le requérant] correspondait aux méthodes qu’employait l’ADRC lorsqu’un contribuable interjetait un appel. Quant à savoir pourquoi il ne s’est pas rendu compte ou pourquoi il ne s’était pas soucié du fait qu’il n’avait reçu aucun chèque annulé délivré pour couvrir le droit de dépôt de 400 $, il a expliqué qu’en raison de ses moyens financiers qui étaient toujours limités, il avait opté pour un compte de chèques dont les frais bancaires étaient moins coûteux, mais dont les services étaient réduits. Selon les modalités de ce compte bancaire, la banque lui délivrait un relevé mensuel mais qui ne dressait pas la liste des chèques annulés. Pendant cette période, certains montants de « 400 $ » ont, à l’occasion, figuré dans ces relevés, mais le requérant n’a pas été en mesure, seulement à partir du relevé, de dire ce que chacun de ces montants représentait. Ainsi, pendant cette période relativement calme, le requérant ne s’est pas soucié de vérifier l’état d’avancement de son appel déposé devant la Cour.
+[17] Dans l’affaire Meer, précitée, le savant juge a émis l’observation suivante concernant les circonstances qu’un requérant peut raisonnablement faire valoir :
+L’expression « dès que les circonstances le permettent » n’exclut pas qu’il soit possible d’établir des priorités en ce qui concerne ce qui peut raisonnablement être fait dans un délai précis. La question qui a été formulée dans l’affaire Pennington c. M.R.N. revient à se demander ce à quoi on peut raisonnablement s’attendre dans les circonstances. Il n’est pas nécessaire de se fonder sur une inondation, un emprisonnement ou une hospitalisation pour soutenir que les circonstances ne permettaient pas la présentation de la demande. Il s’agit d’un domaine où la discrétion est grande. Il est raisonnable d’empêcher que l’œuvre de toute une vie, qu’un intérêt financier ou que des entreprises ne s’effondrent et de remédier à la situation avant de pouvoir dire à juste titre que les circonstances permettent la présentation d’une demande de prorogation du délai pour interjeter appel.
+[18] Compte tenu de toutes les circonstances énoncées ci-dessus, je me sens contrainte d’admettre que ce n’est que le 25 mars 2003 que le requérant a su qu’il devait présenter une demande en vue d’obtenir une ordonnance de prorogation du délai pour interjeter appel. La preuve selon laquelle il n’avait su qu’à cette date que le délai pour présenter sa demande était sur le point d’expirer n’a pas été réfutée.
+[19] Immédiatement après avoir été mis au courant de ce fait, le requérant a communiqué avec un comptable que lui avait recommandé un ami, soit M. Joel Lipchitz. Le requérant a chargé M. Lipchitz de déposer la demande, ce qui a été fait deux jours plus tard, juste à temps pour respecter le délai du 27 mars 2003. Par conséquent, je conclus que le requérant a démontré que la demande a été présentée « dès que les circonstances le permettaient ». La dernière condition a donc été satisfaite.
+CONCLUSION
+[20] La jurisprudence appuie le principe selon lequel, il est préférable, sauf s’il s’agit de circonstances extrêmes, qu’un appel soit jugé quant à son fond plutôt que de le voir rejeté en raison d’une question de procédure. Dans l’affaire Seater c. Canada., [1996] A.C.I. no 1363, le juge McArthur déclare ceci :
+D’une manière générale, il vaut mieux faire en sorte que la cause d’un contribuable soit jugée sur le fond que de faire en sorte qu’elle soit rejetée parce que n’ont pas été respectés des délais prévus dans la Loi. Les tribunaux doivent chercher à rendre une décision juste et équitable au vu de l’ensemble des faits.
+[22] Une somme considérable était en jeu dans l’affaire en l’espèce. La preuve a clairement montré que le requérant, peut-être en partie en raison de son propre fait, était plongé dans un grand désarroi tout au long de la période en question. Comme l’a fait valoir l’avocat de l’intimée, bien qu’une personne ayant la même expérience que le requérant dans ce domaine et devant traiter avec l’ADRC ait pu mieux faire face à ses difficultés, j’admets le témoignage du requérant selon lequel « [il a fait] ce qu’il a pu étant donné les circonstances ». Bien qu’il ait omis d’interjeter appel dans le délai prescrit, pendant ce temps, il se débattait pour assurer sa survie financière afin d’éviter la faillite et de reprendre ses activités professionnelles. Dès qu’il a été mis au courant du délai pour déposer un appel, il a agi immédiatement. L’intimée n’a jamais contesté le fait que l’appel du requérant était raisonnablement fondé.
+[23] Pour tous ces motifs, la demande est admise et le requérant ne dispose que d’un délai de 30 jours à partir de la date de la présente ordonnance pour déposer son Avis de cotisation à l’encontre la cotisation et payer le droit de dépôt approprié.
+Signé à Ottawa, Canada, ce 19e jour de novembre 2003.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 27e jour de février 2004.
+Nancy Bouchard, traductrice

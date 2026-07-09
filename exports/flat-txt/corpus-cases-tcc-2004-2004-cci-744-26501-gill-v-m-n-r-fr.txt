@@ -1,0 +1,165 @@
+Title: Gill v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26501/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-744-26501-gill-v-m-n-r-fr.md
+Document type: case_law
+Last modified: 2004-11-08
+
+# Gill v. M.N.R.
+
+- Citation: 2004 CCI 744
+- Decision date: 2004-11-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3249, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gill v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-08
+Référence neutre
+2004 CCI 744
+Numéro de dossier
+2004-825(EI)
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-825(EI)
+ENTRE :
+SURINDER PAL KAUR GILL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 10 août 2004 à Kelowna (Colombie-Britannique)
+Devant : L'honorable Campbell J. Miller
+Comparutions :
+Avocat de l'appelante :
+Me G.M. Andy Advani, c.r.
+Avocat de l'intimé :
+Me Gavin Laird
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est accueilli, et la décision rendue par le ministre du Revenu national à la suite de l'appel dont il a été saisi conformément à l'article 91 de la Loi est annulée compte tenu du fait que l'appelante exerçait un emploi assurable au sens de l'alinéa 5(1)a) de la Loi au cours de la période allant du 26 mai 2003 au 31 juillet 2003, alors qu'elle était une employée de Balraj Singh Gill.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2004.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 7e jour de juillet 2005.
+Sara Tasset
+Référence : 2004CCI744
+Date : 20041108
+Dossier : 2004-825(EI)
+ENTRE :
+SURINDER PAL KAUR GILL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Dans une lettre datée du 23 février 2004, l'Agence du revenu du Canada ( « ARC » ) informait l'appelante, Mme Surinder Gill, de ce qui suit : [TRADUCTION] « Nous avons déterminé que l'emploi n'était pas assurable pour les raisons suivantes : votre entente de travail ne constituait pas un contrat de louage de services. » Mme Gill conteste cette détermination en appel parce qu'elle a effectivement travaillé pour M. Balraj Gill du 26 mai 2003 au 31 juillet 2003 dans le cadre d'un contrat de louage de services. L'intimé prétend que le témoignage de l'appelante, où elle affirme avoir travaillé 10 heures par jour pendant 70 jours, n'est tout simplement pas crédible. L'intimé a fait valoir que Mme Gill a dû nécessairement conclure une entente afin de majorer son nombre d'heures de travail et ne pouvait donc pas avoir travaillé en vertu d'un contrat de louage de services.
+[2] Le seul point à trancher consiste à décider si Mme Gill a travaillé du 26 mai 2003 au 31 juillet 2003 en vertu d'un contrat de louage de services.
+Faits
+[3] Mme Gill a épousé BaljetSingh Gill en janvier 1999 puis a émigré de l'Inde pour s'installer à Osoyoos, au Canada, en mars 1999. Elle a travaillé par intermittence dans des entreprises d'emballage de fruits à Oliver, en 2000, en 2001 et en 2002. En mai 2003, elle a présenté une demande afin de travailler dans les vergers de M. Balraj Gill; cette demande a été acceptée et Mme Gill a commencé à travailler le 26 mai 2003. Elle n'a aucun lien de parenté avec M. Balraj Gill. Mme Gill était enceinte de six mois à cette époque. Elle habitait à peu de distance en voiture des vergers de M. Balraj Gill. Selon Mme Gill, sa tâche consistait à éclaircir et à cueillir les fruits. C'était à son avis un travail léger. Ses réponses dénotaient une bonne connaissance du travail dans les vergers. Elle a déclaré dans son témoignage qu'elle faisait principalement des journées de 10 heures, parfois 11, commençant à 5 ou 6 h le matin pour terminer à 16 ou 18 h le soir. Elle a soutenu qu'elle a suivi cet horaire chaque jour jusqu'au 31 juillet. Elle a accouché le 3 août 2003, deux semaines avant la date prévue.
+[4] M. Balraj Gill indiquait à ses employés à la fin de la journée ou au début du travail, le lendemain, le verger auquel ils étaient affectés ce jour-là. Mme Gill a précisé qu'elle prenait deux pauses rémunérées par jour, mais que la demi-heure de dîner n'était pas payée. Elle se considérait comme une bonne travailleuse. M. Balraj Gill a confirmé cette affirmation : il a décrit l'appelante comme étant la meilleure employée qu'il ait jamais engagé.
+[5] Pendant que Mme Gill travaillait, son autre enfant était confié aux soins de son époux et, parfois, de la grand-mère de son époux. La grand-mère n'est pas venue témoigner au procès parce qu'elle était à l'hôpital. M. Brian Lundgren, l'agent de l'ARC qui a fait enquête dans le dossier de Mme Gill, a interviewé la grand-mère, sans savoir qu'elle était la grand-mère, et on lui a laissé entendre que celle-ci ne connaissait pas Mme Gill et qu'elle ne gardait pas son enfant. Cette entrevue très brève s'est déroulée avec un interprète, un membre de la famille. Je trouve inusité qu'une grand-mère affirme ne pas connaître la mère de son arrière petite-fille. Bien qu'elle ne se soit pas présentée à l'audience, je ne suis pas prêt à tirer une conclusion défavorable de cette preuve et je n'accorde non plus aucun poids au témoignage de M. Lundgren suivant lequel la grand-mère lui aurait dit, par l'entremise d'un interprète, qu'elle ne connaissait pas l'appelante et qu'elle ne gardait pas sa fille non plus. Je conclu que quelque chose s'est perdu dans la traduction.
+[6] Mme Gill comptabilisait ses heures et présentait son relevé à M. Balraj Gill à peu près toutes les deux semaines. L'employeur tentait de transmettre régulièrement l'information sur les heures travaillées à une comptable indépendante, Mme Suzan Kassian. Mme Kassian a confirmé qu'elle recevait ces renseignements de M. Balraj Gill, mais pas toujours aux deux semaines. Elle a également confirmé qu'elle s'occupait du livre de paye de M. Balraj Gill, habituellement toutes les deux semaines, se fiant aux documents qu'il pouvait lui avoir remis ou à ses directives orales, les documents arrivant ensuite plus tard. Mme Gill a touché trois payes pendant l'été :
+Date
+Montant
+Période visée
+9 juin 2003
+1 096,44 $
+du 25 mai au 7 juin
+11 juillet 2003
+2 192,88 $
+du 8 juin au 5 juillet
+11 août 2003
+1 992,09 $
+du 6 juillet au 31 juillet
+Les chèques oblitérés ont été présentés en preuve pour confirmer les paiements. Mme Kassian a déclaré qu'elle préparait habituellement les chèques afin que M. Balraj Gill les signe. Elle recevait à l'occasion des horaires écrits à la main étayant les heures travaillées après avoir préparé les chèques. Je conclus que ces trois chèques ont été préparés suivant les directives orales de M. Gill.
+[7] Mme Kassian s'est reportée à cinq documents informatiques imprimés intitulés [TRADUCTION] « Tableaux sur disquette - retenues à la source sur les salaires réguliers en vigueur le 1er janvier 2003 » . Un de ces documents portait la date du 9 juin 2003 et renferme un sommaire indiquant comment a été calculé le chèque de 1 096,44 $ daté du 9 juin versé à Mme Gill; deux documents étaient datés du 11 juillet et comportaient un sommaire indiquant comment le chèque de 2 192,88 $ a été calculé; deux autres documents, datés du 11 août, renfermaient aussi un sommaire indiquant le calcul du montant de 1 992,09 $.
+[8] Mme Kassian a passé en revue de façon détaillée les heures travaillées par les 16 employés de M. Balraj Gill en 2003. Il n'est pas nécessaire de revoir le tout avec autant de détails. Je constate simplement que quelques autres travailleurs ont aussi fait des semaines de 70 heures, mais Mme Gill semble avoir été la seule à le faire constamment, semaine après semaine, selon les registres auxquels s'est reportée Mme Kassian.
+[9] Mme Gill a eu 15 rendez-vous médicaux durant la période de trois mois où elle a travaillé pour M. Balraj Gill. Ces rendez-vous avaient lieu principalement à Penticton ou à Osoyoos. Aucun témoin n'a précisé à quelle heure du jour les rendez-vous étaient fixés, mais je remarque dans le sommaire manuscrit des heures de Mme Gill qu'il y a quelques jours où elle a fini de travailler à 15 h 30 ou 16 h, trois jours où elle a pris une pause de 2 heures dans la journée et un jour où elle n'a commencé son travail qu'à 11 h le matin.
+[10] M. Lundgren a témoigné pour l'intimé. Il travaille à la section des fraudes de l'assurance-emploi. Il a été saisi du dossier de Mme Gill en raison du nombre excessif d'heures de travail déclarées. M. Lundgren s'est présenté au bureau de Mme Kassian le 10 septembre 2003. Il a déclaré dans son témoignage que l'examen des registres de Mme Kassian ne contenaient alors que les noms de six employés de M. Balraj Gill : celui de Mme Gill ne figurait pas dans la liste.
+Analyse
+[11] Il faut déterminer si Mme Gill était une employée exécutant des services dans le cadre d'un contrat de louage de services. Le cas échéant, son activité peut être considérée comme un emploi assurable. L'intimé soutient que Mme Gill n'exécutait pas des services dans le cadre d'un contrat de louage de services mais en vertu d'une entente visant à majorer son nombre d'heures de travail pour qu'elle puisse avoir droit à des prestations de maternité au titre du régime d'assurance-emploi. L'intimé s'appuie sur deux hypothèses qui figurent dans la réponse à l'avis d'appel :
+[TRADUCTION]
+5q) le nombre d'heures de travail de l'appelante a été exagéré;
+5r) M. Gill et l'appelante se sont entendus pour que le relevé d'emploi délivré contienne un nombre d'heures suffisant afin de permettre à l'appelante d'avoir droit à des prestations de maternité au titre du régime d'assurance-emploi.
+[12] En vue de déterminer s'il y avait un contrat de louage de services, je propose de suivre le processus suivant. Tout d'abord, je vais évaluer si les heures de travail de Mme Gill ont été exagérées. Si ce n'est pas le cas, la question est réglée : Mme Gill travaillait dans le cadre d'un contrat de louage de services. Dans le cas où les heures ont été majorées, je dois décider si l'appelante avait conclu ou non une entente à cette fin avec M. Gill pour pouvoir toucher des prestations d'assurance-emploi. Ensuite, je me demanderai si ces circonstances m'amènent à conclure que l'entente était factice et qu'il ne pouvait donc pas y avoir de contrat de louage de services.
+[13] L'intimé a laissé entendre au procès que la présente affaire tourne uniquement autour d'une question de crédibilité. Si je ne crois pas que Mme Gill a travaillé les heures qu'elle a déclarées, je dois rejeter son appel. Comme je l'ai montré en exposant les points en litige, l'approche de l'intimé laisse de côté la possibilité que Mme Gill ait pu exagérer ses heures mais qu'elle ait quand même travaillé pour M. Gill dans le cadre d'un contrat de louage de services, quoique pour un nombre d'heures inférieur aux heures pour lesquelles elle a été réellement rémunérée.
+[14] Je traiterai premièrement des heures de travail de Mme Gill. Est-ce que je crois que Mme Gill a travaillé dans les vergers de M. Balraj Gill pour cueillir des fruits à l'été 2003? Oui, je le crois. Elle a montré une connaissance du travail de cueillette et d'éclaircissement qui ne laisse aucun doute dans mon esprit quant au fait qu'elle ait une expérience pratique de ce travail. J'accepte les témoignages de M. Balraj Gill et de l'appelante suivant lesquels Mme Gill travaillait dans les vergers de M. Balraj Gill à l'été 2003.
+[15] Cependant, a-t-elle travaillé les heures qu'elle a déclarées? Sur quoi l'intimé s'appuie-t-il pour affirmer que le nombre d'heures de travail de Mme Gill est exagéré?
+a) Aucun autre employé n'a travaillé un nombre d'heures qui s'approchait des heures travaillées par Mme Gill. Pourtant, M. Gill a déclaré que Mme Gill était sa meilleure employée. Il ne serait pas extraordinaire que le meilleur employé soit parmi les premiers du peloton. Personne n'a fait valoir qu'un autre travailleur puisse être motivé à faire autant d'heures pour avoir droit à des prestations.
+b) M. Lundgren a été incapable de trouver des registres corroborant les heures travaillées par Mme Gill quand il s'est présenté au bureau de Mme Kassian en septembre. Il n'a trouvé que des preuves relatives à six employés, car les registres de Mme Kassian n'étaient pas complets pour le mois d'août. Mme Kassian a précisé qu'il n'était pas rare qu'elle reçoive des instructions orales puis les documents écrits afférents peu de temps après.
+c) Mme Gill en était au dernier trimestre de sa grossesse. Il est difficile de saisir complètement les nuances et l'insistance dans les réponses données par l'entremise d'un interprète. Les conclusions relatives à la crédibilité, délicates même dans le meilleur des cas, le deviennent encore plus lorsqu'on doit passer par un interprète tout d'abord pour poser la question puis pour recevoir la réponse. Cette difficulté est encore exacerbée par les moeurs, l'étiquette, les coutumes sociales et les comportements acceptables dans des cultures différentes. Par exemple, la réponse de Mme Gill, lorsqu'elle dit que passer 10 heures par jour à cueillir des fruits en juillet dans le Sud de la Colombie-Britannique constituait un « travail léger » , a été accueillie par le commentaire suivant dans les observations écrites de l'intimé :
+[TRADUCTION]
+Réponse
+« L'appelante s'est présentée à l'audience avec une histoire qui défie tout et qui revient à dire 'Vous devez me croire'. »
+(Je suppose que l'intimé voulait dire plutôt « qui défie tout entendement » .)
+Toutefois, une telle incrédulité découle-t-elle d'un ensemble de croyances plus courantes chez l'homme blanc nord-américain que chez l'appelante enceinte, nouvellement immigrée de l'Inde? Ce commentaire de ma part ne vise pas à critiquer qui que ce soit mais seulement à souligner que tous ceux d'entre nous qui travaillons dans le système de justice devons être sensibles aux différences entre les cultures, les races et les deux sexes. La crédibilité ne peut être déterminée par le recours à des notions de ce qui est raisonnable à mes yeux à moi, sans tenir compte de ce que d'autres communautés pourraient juger raisonnable. Le défi tient à ce que croient effectivement les membres des autres communautés.
+d) Mme Gill a eu 15 rendez-vous médicaux à Penticton, à Osoyoos et à Kelowna. Plusieurs inscriptions dans le sommaire manuscrit des heures de travail de Mme Gill confirmeraient qu'elle a pris du temps pendant la journée pour certains rendez-vous. Il n'y avait pas 15 inscriptions, par contre.
+e) Il n'y a eu aucune corroboration des dires de l'appelante de la part de gardiennes. Comme je l'ai déjà dit, je n'accorde aucune force probante au témoignage de M. Lundgren relativement à sa conversation avec la grand-mère.
+[16] Quelles preuves portent à croire que les heures de travail n'ont pas été exagérées?
+a) Le témoignage de Mme Gill indiquant qu'elle a travaillé ces heures-là;
+b) Le témoignage de M. Balraj Gill indiquant que Mme Gill a travaillé ces heures-là;
+c) Le témoignage de M. Balraj Gill indiquant que Mme Gill était sa meilleure employée;
+d) Les documents justificatifs émanant de M. Balraj Gill et de Mme Kassian qui confirment les heures de travail de Mme Gill;
+e) Les copies des retenues à la source tirées des tableaux sur disquette datés du 9 juin, du 11 juillet et du 11 août;
+f) Les chèques annulés prouvant que Mme Gill a reçu une rémunération correspondant au nombre d'heures de travail déclarées à trois reprises au cours de l'été.
+[17] La position de l'intimé est la suivante : si Mme Gill a menti ne serait-ce que pour une seule heure de travail, elle ne peut alors être jugée digne de foi, et je dois conclure qu'il n'y avait pas de contrat réel de louage de services. Je suis convaincu que, s'il y a eu une exagération, elle a été relativement mineure comparativement au nombre d'heures élevé pendant lesquelles Mme Gill, à mon avis, a travaillé dans les vergers de M. Gill à l'été 2003. Ma seule préoccupation en ce qui concerne l'impossibilité d'être totalement convaincu de l'exactitude des heures travaillées par Mme Gill découle de l'absence de preuves entourant les congés pris pour les rendez-vous médicaux. Par exemple, rien ne démontre qu'elle s'est rendue chez son médecin dans la soirée. Ses heures ne pourraient autrement confirmer un si grand nombre de déplacements pour les rendez-vous - quand y est-elle allée?
+[18] Avant d'examiner les conséquences de cette conclusion, je dois compléter le processus en me demandant si M. Balraj Gill s'est entendu ou non avec Mme Gill pour majorer ses heures travaillées. La seule preuve offerte par l'intimé en vue d'appuyer cette prétention est le fait que la visite de M. Lundgren au bureau de Mme Kassian en septembre 2003 n'a permis de découvrir aucun registre relatif à Mme Gill. Pourtant, j'ai constaté qu'il existe des fichiers informatiques datés de juin, juillet et août et que des chèques ont été émis à l'ordre de Mme Gill et encaissés par celle-ci en juin, juillet et août. Tout bien pesé, le témoignage de M. Lundgren ne suffit pas à m'amener à conclure qu'il y avait une entente entre M. Balraj Gill et Mme Gill en vue de majorer les heures de travail, ce que les deux nient. Par conséquent, s'il y a eu une exagération du nombre d'heures, ce n'était pas à la suite d'une entente entre l'employeur et l'employé. Dans ces circonstances, la relation entre l'employeur et l'employé est-elle rendue factice? Je ne le crois pas.
+[19] L'intimé s'est appuyé sur les arrêts Klein c. M.R.N.[1], Castonguay c. M.R.N.[2] et Polusny c. M.R.N.[3] pour justifier la thèse suivant laquelle, si la relation est factice, il n'y a aucun contrat de louage de services. Aucune de ces décisions ne concorde toutefois exactement avec la situation dont je suis saisi ici. Dans l'affaire Klein, il fallait savoir si l'appelant avait même travaillé - il est clair qu'il n'y aurait pas de contrat s'il n'y avait pas de travail. Dans le cas de Mme Gill, je suis convaincu qu'elle a bien travaillé pour M. Gill à l'été 2003.
+[20] La Cour d'appel fédérale s'est simplement exprimée comme suit dans l'affaire Castonguay :
+[...] Cette question n'était pas, comme il l'a supposé, de savoir si le contrat intervenu entre la requérante et son prétendu employeur était un contrat d'entreprise ou de louage de services; c'était plutôt de déterminer si le contrat de travail ayant censément existé entre ces parties était réel ou simulé.
+Elle ne s'attarde pas à déterminer si une divergence entre les heures réellement travaillées et celles qui sont déclarées aux fins de l'assurance-emploi rend un contrat de travail factice. L'affaire Polusny portait sur l'absence totale de registres corroborant la période d'emploi, et cette question est tout à fait différente.
+[21] Je ne suis pas convaincu qu'une exagération des heures travaillées par un employé rend un contrat de travail factice au point où il n'y a plus de contrat de travail, sauf dans les cas où cette exagération dénature le fondement même du contrat; par exemple, si une personne prétend avoir travaillé mais ne peut absolument pas le prouver, alors elle n'a tout simplement pas travaillé. Dans une telle éventualité, il n'y aurait pas de raison qu'un contrat existe.
+[22] L'intimé n'a pas envisagé qu'il y ait pu avoir un contrat de louage de services pour un nombre d'heures moindre. Selon la détermination du ministre du Revenu national et le point soulevé en l'espèce, c'était tout ou rien. De fait, tout ce qu'on m'a demandé de décider dans la présente affaire c'est si Mme Gill a travaillé pour M. Gill dans le cadre d'un contrat de louage de services à l'été 2003. J'ai conclu que c'était effectivement le cas. On ne m'a pas demandé d'établir le nombre d'heures travaillées. En conséquence, la question n'est pas complètement réglée.
+[23] Le véritable enjeu ici, c'est le droit de Mme Gill à des prestations de maternité. J'ai conclu que la décision du ministre suivant laquelle l'appelante n'avait pas exercé un emploi assurable était erronée. Elle avait exercé un emploi assurable en 2003 dans le cadre d'un contrat de louage de services. Son droit à des prestations découle du nombre d'heures travaillées. L'article 6 de la Loi sur l'assurance-emploi définit un « prestataire de la première catégorie » comme étant un prestataire qui remplit les conditions requises et a exercé un emploi assurable pendant au moins 600 heures. L'intimé soutient, indépendamment du fait que la décision du ministre ne mentionne pas les heures, que j'ai compétence pour établir le nombre d'heures travaillées : les articles 90, 91 et 103 de la Loi justifieraient cette conclusion. Pourtant, l'intimé affirme par ailleurs que je ne suis pas en mesure d'exercer cette compétence parce qu'aucune preuve crédible n'a été avancée pour étayer un nombre d'heures moins élevé. Je ne suis pas d'accord.
+[24] L'appelante prétend avoir travaillé 705 heures. Les preuves m'amènent à la conclusion qu'elle a travaillé un nombre d'heures un peu inférieur à ce total, mais quand même de loin supérieur à 600 heures. Je fais donc droit au présent appel et j'annule la décision du ministre en concluant que Mme Gill a exercé un emploi assurable dans le cadre d'un contrat de louage de services pendant au moins 600 heures au cours de la période allant du 26 mai 2003 au 31 juillet 2003.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2004.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 7e jour de juillet 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI744
+NO DU DOSSIER DE LA COUR :
+2004-825(EI)
+INTITULÉ DE LA CAUSE :
+Surinder Pal Kaur Gill et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Kelowna (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+10 août 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable Campbell J. Miller
+DATE DU JUGEMENT :
+8 novembre 2004
+COMPARUTIONS :
+Avocat de l'appelante :
+Me G.M. Andy Advani, c.r.
+Avocat de l'intimé :
+Me Gavin Laird
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me G.M. Andy Advani, c.r.
+Cabinet :
+Advani Law Office
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1986] A.C.F. no 675.
+[2] 1986 Carswell 1145.
+[3] [1990] A.C.I. no 508.

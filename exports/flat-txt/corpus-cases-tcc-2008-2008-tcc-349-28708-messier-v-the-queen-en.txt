@@ -1,0 +1,228 @@
+Title: Messier v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28708/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-349-28708-messier-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-06-11
+
+# Messier v. The Queen
+
+- Citation: 2008 TCC 349
+- Decision date: 2008-06-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1466, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Messier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-11
+Neutral citation
+2008 TCC 349
+File numbers
+2007-3624(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3624(IT)I
+BETWEEN:
+JEAN-CLAUDE MESSIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Pierre Messier
+(2007‑4570(IT)I) on June 5, 2008, at Montréal, Quebec
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act (ITA) for the 2005 taxation year is dismissed and the assessment is confirmed on the basis that the amount of $15,000 received by the Appellant in the course of the 2005 taxation year constitutes income from an office, which is taxable under the terms of paragraph 3(a) and section 5 of the ITA and the definition of the word "office" in section 248 thereof.
+Signed at Ottawa, Canada, this 11th day of June 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 23rd day of July 2008.
+Brian McCordick, Translator
+Docket: 2007-4570(IT)I
+BETWEEN:
+PIERRE MESSIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Jean‑Claude Messier (2007‑3624(IT)I)
+on June 5, 2008, at Montréal, Quebec
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act (ITA) for the 2005 taxation year is dismissed and the assessment is confirmed on the basis that the amount of $15,000 received by the Appellant in the course of the 2005 taxation year constitutes income from an office, which is taxable under the terms of paragraph 3(a) and section 5 of the ITA and the definition of the word "office" in section 248 thereof.
+Signed at Ottawa, Canada, this 11th day of June 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 23rd day of July 2008.
+Brian McCordick, Translator
+Citation: 2008TCC349
+Date: 20080611
+Dockets: 2007-3624(IT)I
+2007-4570(IT)I
+BETWEEN:
+JEAN-CLAUDE MESSIER and
+PIERRE MESSIER,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] These appeals were heard on common evidence under the informal procedure. Both Appellants are challenging the assessments by which the Minister of National Revenue ("the Minister") included in each of their respective incomes for the 2005 taxation year an amount of $15,000 that they apparently received for their services as liquidators of the succession of their uncle Raoul Messier, who died on March 21, 2005.
+[2] The Appellants acknowledge that they were liquidators of Raoul Messier's succession and that they each received the sum of $15,000 on May 18, 2005. However, what they contest is the taxation of that amount. They consider it to be a particular legacy that their uncle bequeathed to them in his will, not remuneration for services rendered.
+[3] It does not appear to be contested that, if the amount is indeed remuneration for the performance of the duties of their office as liquidators of the succession, it is taxable in their hands. Indeed, in an old decision, the Supreme Court of Canada held that the additional remuneration received by a legatee for the performance of his duties as testamentary executor (the office called "liquidator" in the new Civil Code of Québec ("Civil Code") was taxable under the terms of the Income Tax Act (ITA) (see MacKenzie Estate v. Canada, [1937] S.C.R. 192).
+[4] Such remuneration would be taxable under paragraph 3(a) and section 5 of the ITA and under the definition of "office" contained in section 248 of the ITA. Those provisions read as follows:
+SECTION 3: Income for taxation year
+The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer’s income for the year determined by the following rules:
+(a) determine the total of all amounts each of which is the taxpayer’s income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer’s income for the year from each office, employment, business and property,
+SECTION 5: Income from office or employment
+(1) Subject to this Part, a taxpayer’s income for a taxation year from an office or employment is the salary, wages and other remuneration, including gratuities, received by the taxpayer in the year.
+SECTION 248: Definitions
+(1) In this Act,
+. . .
+"office" means the position of an individual entitling the individual to a fixed or ascertainable stipend or remuneration and includes a judicial office, the office of a minister of the Crown, the office of a member of the Senate or House of Commons of Canada, a member of a legislative assembly or a member of a legislative or executive council and any other office, the incumbent of which is elected by popular vote or is elected or appointed in a representative capacity and also includes the position of a corporation director, and "officer" means a person holding such an office;
+[5] Under the Civil Code, the duties of a liquidator do indeed constitute an office for which the liquidator may be entitled to remuneration if he or she is already an heir and the testator provides for remuneration. The applicable provisions of the Civil Code are articles 783 et seq.:
+CHAPTER II – LIQUIDATOR OF THE SUCCESSION
+SECTION I - DESIGNATION AND RESPONSIBILITIES OF THE LIQUIDATOR
+783. Any person fully capable of exercising his civil rights may hold the office of liquidator.
+A legal person authorized by law to administer the property of others may hold the office of liquidator.
+784. No person is bound to accept the office of liquidator of a succession unless he is the sole heir.
+785. The office of liquidator devolves of right to the heirs unless otherwise provided by a testamentary disposition; the heirs, by majority vote, may designate the liquidator and provide the mode of his replacement.
+786. A testator may designate one or several liquidators; he may also provide the mode of their replacement.
+A person designated by a testator to liquidate the succession or execute his will has the quality of liquidator whether he was designated as administrator of the succession, testamentary executor or otherwise.
+787. A person designated by a testator to liquidate the succession or execute his will has the quality of liquidator whether he was designated as administrator of the succession, testamentary executor or otherwise.
+If one of the liquidators is prevented from acting, the others may perform alone acts of a conservatory nature and acts requiring dispatch.
+788. The court may, on the application of an interested person, designate or replace a liquidator failing agreement among the heirs or if it is impossible to appoint or replace the liquidator.
+789. The liquidator is entitled to the reimbursement of the expenses incurred in fulfilling his office.
+He is entitled to remuneration if he is not an heir; if he is an heir, he may be remunerated if the will so provides or the heirs so agree.
+If the remuneration was not fixed by the testator, it is fixed by the heirs or, in case of disagreement among the interested persons, by the court.
+790. The liquidator is not bound to take out insurance or to furnish other security guaranteeing the performance of his obligations, unless the testator or the majority of the heirs demand it or the court orders it on the application of any interested person who establishes the need for such a measure.
+If a liquidator required to furnish security fails or refuses to do so, he forfeits his office, unless exempted by the court.
+791. Any interested person may apply to the court for the replacement of a liquidator who is unable to assume his responsibilities of office, who neglects his duties or who does not fulfil his obligations.
+During the proceedings, the liquidator continues to hold office unless the court decides to designate an acting liquidator.
+792. Where the liquidator is not designated, delays to accept or decline the office or is to be replaced, any interested person may apply to the court to have seals affixed, an inventory made, an acting liquidator appointed or any other order rendered which is necessary to preserve his rights. These measures benefit all the interested persons but create no preference among them.
+The costs of inventory and seals are chargeable to the succession.
+793. Acts performed by a person who, in good faith, believed he was liquidator of the succession are valid and may be set up against all persons.
+[6] In the case at bar, the question that arises is whether the amount of $15,000 that each of the Appellants received constitutes remuneration for the performance of the duties of their office (a remunerative legacy) or, rather, a particular legacy (a mere liberality) in which case the amount received would not be taxable because it would not be income from an office within the meaning of section 5 of the ITA.
+[7] The best guidance in drawing this distinction is the testator's intent, as expressed in the provision of the will. Here is what one author has stated on the subject:
+[TRANSLATION]
+How does one distinguish between a remunerative legacy and a mere liberality contained in a particular legacy? The testator's intent, as expressed in the provision of the will, remains the best guide, and it is only if the terms are worded carefully and precisely that this intent can be understood clearly.[56] [1]
+____________________________
+56. M. Roy, "Chronique testamentaire – La rémunération de l’exécuteur testamentaire" (1983) 5 R.P.F.S. 206-207.
+[8] Another author writes:
+[TRANSLATION]
+Consequently, in interpreting the provisions of the will as a whole, a certain amount of caution must be exercised with respect to the compensation of testamentary executors. The testator's intent is very important in this regard, and it is only through careful drafting that this intent will emerge clearly from the terms used in a will that provides for such remuneration.
+For example, a specific legacy of $1,000 to an executor cannot be considered remuneration if the provisions of the will as a whole do not appear to refer to the executor's office. Rather, one would have to conclude that the legacy in question was merely a particular legacy that stems from a truly gratuitous intent to give. The situation is different if the will provides that the executor is entitled to a fee of $1,000 for work done as an executor. Even if the amount is not characterized as a fee, the fact that the testator intended to condition the payment upon acceptance of the office of executor would show that gratuitous intent was wholly lacking.
+. . . . the provision of the will remains the sole writing capable of distinguishing between a remunerative legacy and mere liberality expressed in the form of a particular legacy. . .[2]
+[9] In the instant case, the two Appellants are among 15 universal legatees of the succession of Raoul Messier. The will also provides for a whole series of particular legacies to nieces and nephews by marriage, and to various public institutions.
+[10] In Article V of the will (Exhibit A‑4), the two Appellants are designated liquidators of the succession. Article V reads:
+[TRANSLATION]
+ARTICLE V
+LIQUIDATOR
+1. DESIGNATION
+I designate the said Jean-Claude and Pierre MESSIER as liquidators of my succession, and, if one of them should die, refuse to act or become legally incapable of acting, the remaining liquidator may act alone.
+Should it be impossible to replace my liquidator as stated hereinabove, my legatees, by majority vote, shall make such replacement by notarial deed en minute, provided that they have all attained the age at which they may take their share and that none of them has been declared incapable; otherwise, the court may, upon an application by an interested party, appoint a liquidator.
+2. RESIGNATION
+My liquidator may, at any time, even after liquidation has begun, resign his office providing he renders an account of his administration, and such resignation is evidenced by notarial deed en minute. The cost of rendering account shall be borne by the succession.
+3. LIQUIDATOR'S REMUNERATION
+For the services to be rendered to my succession, whether in liquidating my succession or in administering the whole or part of the property thereof, my liquidator shall, upon submission of supporting documents, be entitled to the reimbursement of his expenses, travelling costs and loss of salary.
+Each of my liquidators shall receive, for fulfilling the duties of his office, a legacy in the amount of fifteen thousand dollars ($15,000), which may be collected from the succession capital.
+4. PARTITION
+My liquidator shall have the full power to carry out the partition of my succession whether in money or in kind.
+He may carry out the composition, evaluation and allotment of shares alone and under the terms and conditions that he deems fair and reasonable.
+Notwithstanding what is stipulated in my said Will, my liquidator may, as required to ensure the proper administration of my succession, defer the partition of the succession property in whole or in part.
+5. ALIENATION
+My liquidator may, alone, alienate by onerous title all my movable and immovable property, encumber it with real rights or change its destination, and perform all acts which are necessary or useful, including all manner of investments.
+However, he shall not alienate property bequeathed as a particular legacy to a legatee of full age who is fully capable, but shall execute the delivery of such legacy as soon as conveniently possible, subject to the provisions pertaining to the reduction of particular legacies.
+6. FULL ADMINISTRATION
+My liquidator shall be charged with the full administration of the property of my succession.
+7. RELEASE
+My liquidator may grant releases with or without consideration.
+8. LEGATEES WHO ARE NOT YET OF REQUISITE AGE OR ARE INCAPABLE OR UNDER PROTECTIVE SUPERVISION
+My liquidator shall have the administration of all the property bequeathed herein to legatees who are not yet of requisite age, or are incapable or under protective supervision.
+He shall deliver to each legatee their respective share at the time that they have attained the age of majority or when such incapacity has ceased. In the interval, my liquidator shall administer each of my said legatee's shares and may use the income or even encroach on the capital, if necessary, for such legatee's maintenance, support, education or other needs.
+Until final delivery of each of my legatees' shares, my liquidator shall act as administrator charged with the full administration of the property of others.
+However, my liquidator may terminate his administration in respect of a legatee who is under protective supervision, or is incapable and has a homologated mandate in the event of incapacity, by effecting remittance and rendering accounts to the legatee's tutor, curator or mandatary.
+[11] Paragraph 3 of Article V specifically provides for the liquidator's remuneration. The liquidator is entitled not only to be reimbursed for his services to the succession, but also, to $15,000 in compensation for fulfilling the duties of his office.
+[12] The Appellants submit that since the will states that the amount is [TRANSLATION] "a legacy", it does not constitute remuneration, but, rather, a particular legacy or a mere liberality. In my opinion, the Appellants' position does not reflect the testator's intent. The particular legacies are specifically set out in Article III of the will (Exhibit A‑4).
+[13] The amount of $15,000 allotted to each Appellant is referred to in Article V under the heading "Liquidator's Remuneration". In addition, the testator clearly states that [TRANSLATION] "[e]ach of my liquidators shall receive, for fulfilling the duties of his office, a legacy in the amount of fifteen thousand dollars ($15,000). [Emphasis added.]
+[14] Moreover, Marielle Gagné, the notary who drafted this will, acknowledged in her testimony that the Appellants would not have been entitled to this amount if they had renounced the duties of their office. It is true that she testified that, in her view, the testator, Raoul Messier, was very grateful to his two nephews (the Appellants) and that he probably wanted to give them an additional gift. She also said that if the Appellants had renounced their responsibilities as liquidators, the other legatees would undoubtedly have agreed to give each of them $15,000.
+[15] In my opinion, these last comments made by Ms. Gagné are mere assumptions, and do not reflect what is set out in the will.
+[16] Ms. Gagné said that she usually employs different terminology where the testator wishes to remunerate the liquidator. She gave the following examples (Exhibit A‑3):
+[TRANSLATION]
+For the services rendered to my succession by my liquidator, whether in liquidating my succession or in administering the whole or part of the property thereof, my liquidator shall be entitled, in addition to the reimbursement of his expenses, travelling costs and loss of salary, to a remuneration of ______ dollars ($ ).
+As a token of my gratitude for the services to be rendered to my succession, whether in liquidating my succession or in administering the whole or part of the property thereof, my liquidator shall be entitled, in addition to the reimbursement of his expenses, travelling costs and loss of salary, to the sum of ____ hundred dollars ($ ____), which shall be indexed according to the inflation rate as established by Statistics Canada, the reference year being 2008.
+Any person, other than my spouse, who acts as liquidator, shall receive the sum of _______ for fulfilling the duties of his office. Should there be more than one executor, the said amount shall be shared equally by them.
+My liquidator shall not be remunerated for the services to be rendered to my succession, whether in liquidating my succession or in administering the whole or part of the property thereof; however, he shall be entitled to the reimbursement of his expenses, travelling costs and loss of salary.
+[17] A reference was also made to the will of Albertine Messier, Raoul Messier's sister, which was also prepared by Ms. Gagné. Under the heading [TRANSLATION] "Liquidator's Remuneration", the following is stated:
+3. LIQUIDATOR'S REMUNERATION
+For the services to be rendered to my succession, whether in liquidating my succession or in administering the whole or part of the property thereof, my liquidator shall, upon submission of supporting documents, be entitled to the reimbursement of his expenses, travelling costs and loss of salary.
+If the said Jean-Claude and Pierre Messier act as liquidators, they shall receive, for fulfilling the duties of their office, a legacy in the amount of ten thousand dollars ($10,000) each, which may be collected from the succession capital.
+. . .
+[18] Albertine Messier died in 1999, and the Appellants each received $10,000 under the above provision of the will. The Minister later reassessed the Appellants on the same basis as the instant matter, but, at the objection stage, the Minister ultimately agreed to consider the amount as a legacy (Exhibit A-1, Document F).
+[19] The Minister is not bound by a previous decision of one of its officials, if that decision was erroneous. (For example, see Brenda G. Klassen v. The Queen, 2007 FCA 339, at paragraph 27.)
+[20] In my opinion, Ms. Gagné's testimony cannot serve to put a different gloss on a testamentary provision which in my view speaks for itself. One the one hand, Ms. Gagné says that Raoul Messier's intent was to make a particular legacy, and that, if this had not been the case, she would have drafted differently the clause by which $15,000 is bequeathed to each of the Appellants.
+[21] At the same time, she acknowledges that if the Appellants had refused to act as liquidators, they would not have been entitled to $15,000 each under the will. The other legatees' consent would have been required in such an event.
+[22] Thus, Ms. Gagné implicitly acknowledges that the amount of $15,000 was bequeathed to each Appellant for fulfilling the duties of their office, which is what is clearly stated in the will. Unlike remuneration for the fulfilment of the duties of an office, a particular legacy does not entail any obligation or responsibility for a legatee.
+[23] In my view, the will is clear enough in stating that the testator bequeaths $15,000 to each of the Appellants for their services to the succession, despite the use of the words [TRANSLATION] "a legacy", which follow the reference, at paragraph 3 of Article V of the will, to the fulfilment of the duties of their office.
+[24] Given the way in which the will is drafted, I find that the amount of $15,000 received by each Appellant during the 2005 taxation year constitutes income from an office, which is taxable under the terms of paragraph 3(a), section 5, and the definition of "office" in section 248 of the ITA.
+[25] For these reasons, the appeals are dismissed and the assessments are confirmed.
+Signed at Ottawa, Canada, this 11th day of June 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 23rd day of July 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC349
+COURT FILE NOS.: 2007-3624(IT)I
+2007-4570(IT)I
+STYLES OF CAUSE: JEAN-CLAUDE MESSIER v.
+HER MAJESTY THE QUEEN
+PIERRE MESSIER v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: June 5, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: June 11, 2008
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] François Vaillancourt, La liquidation des successions : aspects non contentieux (Cowansville, Quebec: Yvon Blais, 1994), at page 21, paragraph 2.3.4.
+[2] Maurice Roy, "Chronique testamentaire – La rémunération de l’exécuteur testamentaire" (1983) 5 R.P.F.S. 203, at page 206.

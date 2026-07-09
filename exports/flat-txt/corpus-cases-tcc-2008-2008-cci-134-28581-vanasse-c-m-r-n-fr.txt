@@ -1,0 +1,167 @@
+Title: Vanasse c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28581/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-134-28581-vanasse-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-03-10
+
+# Vanasse c. M.R.N.
+
+- Citation: 2008 CCI 134
+- Decision date: 2008-03-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1048, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vanasse c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-03-10
+Référence neutre
+2008 CCI 134
+Numéro de dossier
+2006-3710(EI)
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-3710(EI)
+ENTRE :
+NICOLE VANASSE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 1er février 2008, à Montréal (Québec).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l'appelante :
+Me Gilbert Nadon
+Avocate de l'intimé :
+Me Nancy Dagenais
+____________________________________________________________________
+JUGEMENT
+L’appel en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi concernant la décision rendue par le ministre du Revenu national en date du 27 octobre 2006 concernant l’assurabilité de l’emploi de l’appelante pour les périodes en litige est rejeté et la décision du ministre est confirmée.
+Signé à Ottawa, Canada, ce 10e jour de mars 2008.
+« B. Paris »
+Juge Paris
+Référence : 2008CCI134
+Date : 20080310
+Dossier : 2006-3710(EI)
+ENTRE :
+NICOLE VANASSE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L’appelante interjette appel de la décision du ministre du Revenu national (le « ministre ») rendue en vertu de la Loi sur l’assurance‑emploi (la « Loi ») le 27 octobre 2006. Le ministre a décidé que l’emploi exercé par l’appelante auprès de 9058‑5399 Québec Inc. (le « payeur ») était un emploi exclu en vertu de l’alinéa 5(2)i) de la Loi pour les périodes suivantes :
+Du 6 décembre 1999 au 31 mars 2000
+Du 11 décembre 2000 au 6 avril 2001
+Du 24 décembre 2001 au 19 avril 2002
+Du 23 décembre 2002 au 18 avril 2003
+Du 22 décembre 2003 au 30 avril 2004
+Du 13 décembre 2004 au 6 mai 2005
+[2] L’alinéa 5(2)i) de la Loi stipule que « l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance » n’est pas un emploi assurable. Il n’est pas contesté que l’appelante et le payeur avaient un lien de dépendance entre eux.
+[3] Toutefois, en appliquant l’alinéa 5(2)i), le ministre peut tenir compte de l’exception prévue à l’alinéa 5(3)b) de la Loi qui se lit comme suit :
+5(3) Pour l’application de l’alinéa (2)i) :
+. . .
+l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[4] En l’espèce, le ministre a décidé qu’il n’était pas raisonnable de conclure que l’appelante et le payeur auraient conclu un contrat à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[5] Les présomptions de fait sur lesquelles le ministre s’est fondé en rendant sa décision sont énoncées au paragraphe 7 de la Réponse à l’avis d’appel. Le procureur de l’appelante a admis la plupart de ces faits, comme suit :
+a) le payeur a été constitué en société le 22 décembre 1997, mais le commerce était en exploitation depuis 1988; (admis)
+b) sous la raison sociale « Le relais de la station », le payeur exploitait un bar et une salle de réception; (admis)
+c) le payeur est ouvert à l’année mais la période la plus achalandée (sic) est de décembre à avril avec la clientèle des motoneigistes; (admis)
+d) les heures d’ouverture du payeur les jours d’hiver et tous les samedis et les dimanches de l’année, étaient de 10 h à 23 h, les autres jours, le payeur ouvrait de 16 h à 23 h; (admis avec explication)
+e) les revenus bruts et déficits du payeur s’établissaient ainsi :
+année
+revenus
+déficits
+1999
+144 236 $
+-34 318 $
+2000
+149 956 $
+-34 506 $
+2001
+164 497 $
+-39 144 $
+2002
+n/a
+- 758 $
+2003
+157 058 $
+-11 463 $ (admis)
+f) selon les déclarations trimestrielles de TPS du payeur de 2001 à 2005, les ventes variaient de 22 451 $, soit les plus faibles à l’automne 2003 à 54 070 $, soit les plus élevés à l’hiver 2005; (admis)
+g) l’appelante travaillait comme gérante pour le payeur; (admis)
+h) les tâches de l’appelante consistaient à établir les horaires des serveuses et à les superviser, à faire l’inventaire, à faire les commandes et les commissions, à faire le ménage et à faire la comptabilité, les payes et les dépôts bancaires; (admis avec explication)
+i) l’appelante avait une procuration et elle pouvait signer seule les chèques du payeur; (admis)
+j) l’appelante travaillait pour le commerce depuis 15 ans; (admis)
+k) Jacques Vanasse travaillait à temps plein pour une autre entreprise et il consacrait du temps au payeur selon ses disponibilités; (admis)
+l) le 24 août 2005, l’appelante, dans une déclaration signée à un représentant de Développement des ressources humaines Canada indiquait que : « Normalement, je fais 40 heures par semaine sur 5 jours du lundi au vendredi. »; (admis)
+m) le 30 août 2005, Jacques Vanasse déclarait à un représentant de l’intimé que l’appelante faisait souvent plus de 40 heures par semaine; (admis)
+n) l’appelante touchait un salaire de 450 $ par semaine jusqu’en 2002 et 475 $ par après; (admis)
+o) l’appelante était rémunérée uniquement pendant les mois d’hiver; (admis)
+p) le 5 avril 2000, le payeur remettait à l’appelante un relevé d’emploi qui indiquait comme premier jour de travail le 6 décmebre 1999 et comme dernier jour de travail le 31 mars 2000 et le nombre d’heures assurables étaient de 680 et la rémunération assurable était de 7 956 $; (admis)
+q) le 11 avril 2001, le payeur remettait à l’appelante un relevé d’emploi qui indiquait comme premier jour de travail le 11 décembre 2000 et comme dernier jour de travail le 6 avril 2001 et le nombre heures assurables étaient de 680 et la rémunération assurable était de 8 109 $; (admis)
+r) le 25 avril 2002, le payeur remettait à l’appelante un relevé d’emploi qui indiquait comme premier jour de travail le 24 décembre 2001 et comme dernier jour de travail le 19 avril 2002 et le nombre heures assurables étaient de 680 et la rémunération assurable était de 8 109 $; (admis)
+s) le 24 avril 2002, le payeur remettait à l’appelante un relevé d’emploi qui indiquait comme premier jour de travail le 23 décembre 2002 et comme dernier jour de travail le 18 avril 2003 et le nombre heures assurables étaient de 680 et la rémunération assurable était de 8 559,50 $; (admis)
+t) le 5 mai 2004, le payeur remettait à l’appelante un relevé d’emploi qui indiquait comme premier jour de travail le 22 décembre 2003 et comme dernier jour de travail le 30 avril 2004 et le nombre heures assurables étaient de 760 et la rémunération assurable était de 9 566,50 $; (admis)
+u) le 11 mai 2005, le payeur remettait à l’appelante un relevé d’emploi qui indiquait comme premier jour de travail le 13 décembre 2004 et comme dernier jour de travail le 6 mai 2005 et le nombre heures assurables étaient de 940 et la rémunération assurable était de 10 573,50 $; (admis)
+v) en réalité, l’appelante travaillait pour le payeur à l’année longue à accomplir les mêmes tâches; (nié)
+w) les heures de travail de l’appelante n’étaient pas enregistrées, ni rémunérées pendant les 8 mois de ses prétendues mise à pied; (admis avec explication)
+x) le 19 octobre 2006, l’appelante, dans une déclaration à un représentant de l’intimé déclarait qu’elle travaillait bénévolement pour le payeur de 7 à 10 heures par semaine durant ses périodes de chômage; (admis)
+y) les relevés d’emploi de l’appelante ne sont pas conformes à la réalité quant aux périodes de travail ni quant aux heures réellement travaillées; (nié)
+z) une personne, sans lien de dépendance, n’aurait pas eu des modalités d’emploi, une rémunération et une durée d’emploi similaires à celles de l’appelante. (nié)
+[6] En ce qui concerne le paragraphe 7(d), la preuve révèle qu’en plus des heures d’ouverture indiquées, l’établissement du payeur (Le relais de la station) pourrait rester ouvert jusqu’à entre minuit et 3 h en hiver et ouvrait à 15 h le vendredi en été.
+[7] En plus des tâches indiquées au paragraphe 7(h) qu’elle accomplissait, l’appelante devait compter les recettes dans la caisse des serveuses chaque matin et leur préparer les caisses pour la journée à venir, remplir les réfrigérateurs de bière, faire la tenue des livres et vider la machine de vidéopoker.
+[8] En hiver, elle devait aussi rentrer du bois et allumer le poêle, et pelleter la neige des galeries à l’extérieur du bar.
+[9] En ce qui a trait au travail accompli par l’appelante pour le payeur à l’extérieur de ses périodes d’emploi, l’appelante a admis qu’elle faisait plus ou moins les mêmes tâches à l’année longue, mais qu’en été, ces tâches prenaient beaucoup moins de temps. Elle dit avoir travaillé 40 heures par semaine du lundi au vendredi en hiver, alors qu’en été elle effectuait entre 30 minutes et une heure de travail par jour pour le payeur. Elle a expliqué que le ménage du bar était plus léger en été. Par exemple, elle n’avait à laver le plancher qu’une fois par semaine en été et non pas tous les jours comme en hiver (à cause de la neige), et elle n’avait pas à allumer le poêle. Puisque le bar était moins fréquenté en été et les heures d’ouverture étaient restreintes, il y avait moins de travail à faire. En été, il n’y avait que trois serveuses, en hiver il y en avait quatre. En été, le bar vendait moins de bière et d’alcool qu’en hiver, ce qui diminuait le temps que l’appelante prenait pour faire les commandes, compter les ventes et remplir les réfrigérateurs. Il en allait de même pour la tenue des livres et la comptabilité. Elle a, d’ailleurs, confirmé que le travail qu’elle a fait pour le payeur en dehors de ses périodes d’emploi n’était pas rémunéré.
+[10] Selon madame Melissa Lesage, qui a travaillé comme serveuse pour le payeur de septembre 2000 à mai 2002 et de septembre 2002 à mai 2003, l’appelante a travaillé au moins trois heures par jour chez le payeur, sept jours par semaine en été. Elle a dit que l’appelante arrivait le matin vers 8 h et ne partait pas avant 11 h, et revenait pour aider les serveuses pendant les périodes achalandées. Elle a également témoigné que l’appelante travaillait pour le payeur sept jours par semaine en hiver. Les fins de semaine, l’appelante faisait les mêmes tâches que la semaine entre 8 h et 11 h, et aidait avec le service, si nécessaire, les samedis et dimanches après‑midi, qui étaient les périodes les plus occupées. Madame Lesage a dit que, pour sa part, elle a été payée à l’heure, et que le payeur l’a payée pour toutes les heures qu’elle a travaillées.
+Position de l’appelante
+[11] Le procureur de l’appelante a d’abord cité la décision de la Cour d’appel fédérale, dans Légaré c. Canada (ministre du Revenu national), [1999] A.C.F. no 878 (C.A.F.) (QL), où la Cour s’est prononcée dans les termes suivants quant au rôle de cette Cour dans un appel d’une décision du ministre comme celle à l’étude:
+(4) La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[12] Le procureur de l’appelante soutient que le ministre a erré en arrivant à sa conclusion en l’espèce parce qu’il a tenu compte du travail accompli par l’appelante pour le payeur en dehors des périodes d’emploi. Il a cité la décision de la Cour d’appel fédérale dans l’arrêt Théberge c. Canada (ministre du Revenu national), 2002 CAF 123, où la Cour a dit :
+[19] Ce que fait un prestataire en dehors de la période pendant laquelle il exerce un emploi que le ministre reconnaît être un emploi assurable peut être pertinent aux fins, par exemple, de vérifier son état de chômage, de calculer le montant de ses prestations ou d'établir sa période de chômage. Aux fins, toutefois, de l'application de l'exclusion prévue à l'alinéa 3(2)c) de la Loi, ce que fait le prestataire en dehors de sa période d'emploi sera de peu de pertinence lorsqu'il n'est pas allégué, comme en l'espèce, que le salaire versé pendant la période d'emploi tenait compte du travail accompli en dehors de cette période, que le demandeur avait inclus dans les heures consacrées à son emploi assurable des heures de travail qu'il avait effectuées en dehors de la période ou encore que du travail accompli en dehors de sa période d'emploi avait été inclus dans le travail accompli pendant sa période d'emploi. Il me paraît aller de soi, ce que confirme la preuve, que dans le cas d'entreprises familiales consacrées à du travail saisonnier, le peu de travail qu'il reste à faire en dehors de la période active est généralement fait, sans rémunération, par les membres de la famille. Exclure un emploi saisonnier, dans une entreprise familiale agricole, au motif que la traite des vaches continue à l'année, c'est à toutes fins utiles priver d'assurance-chômage les membres de la famille qui se qualifient en travaillant pendant la période active et c'est ignorer les deux caractéristiques principales d'une telle entreprise, soit son caractère familial et son caractère saisonnier.
+[20] Un prestataire n'a pas à demeurer complètement inactif pendant qu'il reçoit des prestations. Aux termes de l'article 10 de la Loi, des prestations sont payables pour chaque « semaine de chômage » comprise dans la période de prestations et une « semaine de chômage » est une semaine pendant laquelle il n'effectue pas une semaine entière de travail. Aux termes du paragraphe 15(2) de la Loi, un prestataire peut recevoir une rémunération pour une partie d'une semaine de chômage et cette rémunération ne sera déduite de ses prestations que si elle dépasse vingt-cinq pour cent du taux de ses prestations hebdomadaires. Il est par ailleurs acquis que le travail véritablement bénévole n'affecte pas l'état de chômage d'un prestataire (Bérubé c. Canada (Emploi et Immigration), (1990) 124 N.R. 354 (C.A.F.)). Je note aussi qu'en vertu du paragraphe 43(3) du Règlement sur l'assurance-chômage, le prestataire exerçant un emploi dans l'agriculture n'est pas censé travailler une semaine entière pendant la période allant du 1er octobre au 31 mars s'il prouve qu'il a consacré si peu de temps à son travail que cela ne l'aurait pas empêché d'accepter un emploi à plein temps. Je comprends que ces dispositions ne s'appliquent pas en matière d'assurabilité proprement dite, mais elles n'en font pas moins partie de la toile de fond.
+[21] Revenant au cas sous étude, le fait que le demandeur ait travaillé sans rémunération de dix à quinze heures chaque semaine en dehors de la saison active et pendant qu'il recevait des prestations indique peut-être qu'il n'aurait point effectué ce travail non rémunéré s'il n'avait pas été le fils de son employeur. Ce n'est toutefois pas là le travail qui nous intéresse et le juge a erré en en tenant compte en l'absence de toute indication que l'emploi assurable en litige était sujet à des modalités spéciales attribuables à la prestation de services en dehors de la période d'emploi.
+[13] Le procureur de l’appelante a fait valoir que la décision dans Théberge a été suivie par la Cour d’appel dans Aspiro c. Canada (ministre du Revenu national), 2000 CANLII 15255 (C.A.F.) et Chouinard c. Canada (ministre du Revenu national), 2003 CAF 338. Le procureur de l’appelante a aussi fait valoir que le travail fait sans rémunération par l’employé dans l’affaire Théberge était régulier et prenait au moins 10 heures par semaine, comme c’était le cas de l’appelante. Finalement, il maintient que rien dans la preuve ne révèle que les modalités, la rémunération ou la durée du travail étaient autres que ce que l’on trouverait dans un contrat de travail conclu entre les parties sans lien de dépendance.
+Analyse
+[14] À la lumière des faits admis et en preuve, l’appelante ne m’a pas convaincu que la décision du ministre ne paraît pas toujours raisonnable. À mon avis, le travail fait par l’appelante pour le payeur sans rémunération en dehors des périodes d’emploi est un fait dont le ministre a le droit de tenir compte en évaluant la relation entre les parties. Dans l’arrêt Malenfant c. Canada (ministre du Revenu national), 2006 CAF 226, la Cour d’appel fédérale a limité la portée de sa décision dans Théberge aux circonstances où l’entreprise du payeur est saisonnière et purement familiale. La Cour a dit :
+[11] Quant à la ratio decidendi de l'arrêt Théberge, je ne crois pas qu'elle soit applicable en l'espèce. Il ne s'agissait pas ici, comme dans l'affaire Théberge, d'une entreprise purement familiale saisonnière. L'entreprise pour laquelle l'appelante travaillait opérait à l'année et employait aussi des personnes qui n'étaient pas liées par un lien de dépendance. En outre, le traitement de ces autres personnes était en règle générale différent de celui reçu et accepté par l'appelante et ne pouvait s'expliquer autrement que par le lien de dépendance de cette dernière avec le payeur. Rien de tel n'existait dans l'affaire Théberge. Enfin, il n'y avait pas dans l'affaire Théberge, comme c'est ici le cas, d'heures substantielles de bénévolat effectuées durant les périodes de travail rémunéré.
+[15] En l’espèce, il est clair que le payeur exploitait son bar à l’année longue, même s’il y avait une baisse d’activités en été. Les activités du payeur restaient quand même importantes en été, avec des heures d’ouverture sept jours sur sept. De plus, en été, le payeur employait trois personnes non liées par des liens de dépendance avec lui. Il ne s’agit pas ici d’une entreprise purement saisonnière et familiale.
+[16] Quant aux affaires Aspiro et Chouinard, aussi citées par le procureur de l’appelante, il semble que les payeurs étaient là aussi des entreprises purement familiales et saisonnières.
+[17] Par ailleurs, je suis persuadé que l’étendue du travail fait par l’appelante pour le payeur chaque été était beaucoup plus substantielle qu’elle le prétendait. J’accepte le témoignage à cet effet de madame Lesage, un témoin désintéressé, qui a dit que l’appelante travaillait au moins trois heures par jour sept jours par semaine en été sans compter l’aide qu’elle fournissait au besoin pendant les périodes de pointe. Madame Lesage a aussi dit que l’époux de l’appelante (qui était aussi l’unique actionnaire du payeur) travaillait très peu dans l’entreprise, même les fins de semaine, au contraire de ce que l’appelante prétendait.
+[18] L’appelante, dans sa contre‑preuve, n’a pas contredit le témoignage de madame Lesage. D’ailleurs, j’ai de la difficulté à croire que l’appelante aurait pu accomplir en une heure par jour en été la majorité des tâches qui lui prenaient huit heures par jour en hiver, vu que les activités de l’entreprise du payeur étaient toujours importantes en été. Finalement, l’appelante n’a pas présenté d’autres témoins pour appuyer ses dires.
+[19] Pour ce qui est de la rémunération, il incombait à l’appelante de démontrer que son salaire était raisonnable compte tenu des circonstances. La preuve révèle que, pendant ses périodes d’emploi, l’appelante travaillait 40 heures par semaine du lundi au vendredi et au moins six heures de plus les samedis et dimanches. La preuve révèle aussi qu’elle recevait un salaire fixe de 475 $ par semaine. Il n’est pas clair si le montant de son salaire tenait compte d’une charge de travail au-delà de 40 heures par semaine, et au-delà de cinq jours par semaine ou si le montant était égal à ce que le payeur aurait eu à payer à un employé sans lien de dépendance. Aucune preuve sur ce point n’a été présentée. L’appelante n’a donc pas réussi à prouver que la rémunération qu’elle a reçue était raisonnable dans les circonstances.
+[20] Pour tous ces motifs, après l’examen de toute la preuve, la conclusion du ministre en l’espèce me paraît toujours raisonnable. L’appel est donc rejeté.
+Signé à Ottawa, Canada, ce 10e jour de mars 2008.
+« B. Paris »
+Juge Paris
+RÉFÉRENCE : 2008CCI134
+Nº DU DOSSIER DE LA COUR : 2006-3710(EI)
+INTITULÉ DE LA CAUSE : NICOLE VANASSE c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Montréal (Québec )
+DATE DE L’AUDIENCE : le 1e février 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge B. Paris
+DATE DU JUGEMENT : le 10 mars 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Gilbert Nadon
+Avocate de l'intimé :
+Me Nancy Dagenais
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Gilbert Nadon
+Cabinet : Ouellet, Nadon & Associés
+Montréal (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

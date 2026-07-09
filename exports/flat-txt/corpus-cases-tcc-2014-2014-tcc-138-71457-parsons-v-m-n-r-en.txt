@@ -1,0 +1,104 @@
+Title: Parsons v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71457/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-138-71457-parsons-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2014-05-07
+
+# Parsons v. M.N.R.
+
+- Citation: 2014 TCC 138
+- Decision date: 2014-05-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5300, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Parsons v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-05-07
+Neutral citation
+2014 TCC 138
+File numbers
+2013-3143(EI)
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2013-3143(EI)
+BETWEEN:
+LEWIS PARSONS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on April 14, 2014, at St. John's, Newfoundland
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Devon E. Peavoy
+JUDGMENT
+The appeal is dismissed, without costs, and the decision of the Minister is confirmed.
+Signed at Ottawa, Canada, this 7th day of May 2014.
+"Diane Campbell"
+Campbell J.
+Citation: 2014 TCC 138
+Date: 20140507
+Docket: 2013-3143(EI)
+BETWEEN:
+LEWIS PARSONS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] This appeal concerns the sad saga of two individuals who had been friends since the mid-1980s but parted ways in 2012 when they had a falling out over property transfers and employment issues. They continue to live on adjacent properties although the face-to-face meeting, at the hearing of this appeal, was the first time in several years that they had any interaction.
+[2] This is an unusual employment insurance case. Even after hearing at length from both the Appellant and Randy Dawe, the owner of Maple Leaf Oil Distributors Limited ("the payor"), I am still uncertain of what exactly occurred between these two individuals. I am certain, however, that the truth lies somewhere in that grey area between the two stories that each of them related in Court.
+[3] The Respondent determined that the Appellant was not engaged in insurable employment with the payor within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (the "Act") for the period January 2, 2012 to March 9, 2012 ("the period"). The payor was not an intervenor in this appeal. Mr. Dawe appeared as a witness for the Respondent, after he was subpoenaed.
+The Evidence of the Appellant, Lewis Parsons [4] Mr. Parsons and Mr. Dawe entered into a real estate deal in June, 2011 in which Mr. Parsons agreed to sell to Mr. Dawe a corner lot from the larger parcel of land that he owned. Mr. Dawe built a house on this corner lot and this is where he resides today. The purchase price was $20,000 for the land. Mr. Parsons contends that he worked for Randy Dawe, the owner of the corporate payor. The payor also owned the Silverwood Inn Motel in Bay Roberts, Newfoundland. Mr. Parsons testified that he and Mr. Dawe had a verbal agreement in which the Appellant performed painting and other odd jobs at the hotel based on a forty-five hour week at the rate of $13 per hour.
+[5] According to Mr. Parsons, part of the agreement to sell a lot of land to Mr. Dawe was that it would be in exchange for Mr. Dawe employing him during the period under appeal. Their payment method was novel. Mr. Dawe gave the Appellant his personal credit card and, according to his evidence on cross‑examination, he had permission to use the card in whatever manner he wanted to. Mr. Parsons used the card to make purchases, for example televisions sets, on behalf of the payor for the hotel and also used this card to purchase building materials for a building he was erecting on his own property which was adjacent to the land he agreed to sell to Mr. Dawe. The evidence also indicated that Mr. Dawe used this same credit card to make purchases for the house he was in the process of building on the land that he was purchasing from the Appellant. At the end of the month, when the statements arrived, they apparently sorted out which of the purchases each was responsible for and Mr. Dawe would get credit against the $20,000 purchase price that he owed the Appellant for the land. Mr. Parsons stated that at the end of the day he received between $9,000 to $10,000 in cash against the purchase price with the balance being credited in respect to the monetary amount of the building materials that Mr. Parsons had purchased for his own use on Mr. Dawe's credit card. He testified that there were no pay stubs and that he did not receive a record of employment from the payor. The Appellant testified that his work schedule was flexible because he could work whenever he wanted to. He never tracked his hours in writing. He had personal knowledge that deductions were made in respect to his wages because he took them to the bank himself and returned the stamped bank documents to Mr. Dawe. According to the Appellant, these two individuals discussed a second property purchase subsequent to the period under appeal in which Mr. Dawe would purchase a second lot adjacent to the first one that he bought from the Appellant. However, this deal never materialized.
+The Evidence of Randy Dawe [6] The payor, during the period, performed bookkeeping for a small number of people, as well as some construction work and also operated the Silverwood Inn Motel. These two individuals had been friends for many years. Mr. Dawe wanted to build a house. They entered into an Agreement of Purchase and Sale (Exhibit R‑3) dated June 23, 2011. Mr. Dawe did not have the cash of $20,000 to purchase the land from Mr. Parsons. Mr. Parsons agreed that Mr. Dawe could pay the purchase price partly by cash payments and partly by supplying Mr. Parsons with some of the building materials for a house that he was also erecting on his property.
+[7] Mr. Dawe confirmed in his testimony that the evidence given by the Appellant respecting the use of the credit card was correct. He also stated that the Appellant did not abuse the use of his credit card. He did not agree, however, with the Appellant's evidence that the purchase of this land was conditional upon Mr. Dawe employing the Appellant. An Addendum dated October 3, 2011 to the Agreement of Purchase and Sale dated June 23, 2011 was entered as Exhibit R‑4. Between June, 2011 and October, 2011, each individual continued to build homes and were back and forth as usual. Mr. Dawe testified that the Appellant continued to use his credit card. Sometime after October, the Appellant returned the card to Mr. Dawe and went to Ontario, returning in early January, 2012. Mr. Dawe then returned the credit card to the Appellant for a second time because he did not have the balance of the cash to pay the Appellant for the land. However, he then went on to state that he felt that in early January, 2012 he had paid all of the $20,000 for the property either by cash or through the credit card purchases made by the Appellant. When he requested that the Appellant return the credit card, Mr. Parsons did so. However a few days later, the Appellant indicated that he had a few more purchases to make and that he would like to use the card again. When asked why he would return the card again to the Appellant to use when he felt that the $20,000 had been paid, he stated that the two were still friends and that they had agreed to share the rebate on the materials, even though Mr. Dawe did not think that the Appellant was entitled to any of the rebate. The card was apparently returned to Mr. Dawe for a 10-day period, in which the Appellant made two more purchases for himself.
+[8] In late September or early October, 2011, Mr. Dawe testified that the Appellant initiated talk of selling a second lot of land to him and indicated that he would give Mr. Dawe a "good deal". Mr. Dawe's evidence was that he told the Appellant that he needed help finishing his house and that if he actually performed work for him/his company and accepted a cheque, he would purchase this second property although he was not really interested in it. They never got to the point in their discussions of pinpointing a purchase price. Mr. Dawe stated that they were never able to come to an agreement on this employment arrangement. Mr. Dawe's evidence is that until January 22, 2012, the Appellant never worked for him and that he hired someone else to help him with the house that he was building. He then went on to state that the Appellant did in fact work for him for 7 to 10 days in the first part of February, 2012. He testified that this would have been insurable employment time but that it was subsequent to the period under appeal. He stated that the Appellant owed him money due to the additional two purchases that the Appellant made on the credit card in January, 2012.
+Analysis [9] What, if any, conclusions can I make based on the evidence before me? I have two long-term friends who live next door to each other but are now no longer on speaking terms. They did make an agreement concerning the property purchase by Mr. Dawe for $20,000 as evidenced by the Agreement of Purchase and Sale and the Addendum. They were both building houses next to each other during this timeframe. They had an unusual method for the payment of the purchase price, involving the use of Mr. Dawe's credit card, which enabled the Appellant to purchase building materials for his own house and Mr. Dawe to off‑set those amounts against the $20,000 which he owed the Appellant. There were discussions and maybe a deal struck concerning Mr. Dawe employing the Appellant to assist him with handyman work at the hotel and building Mr. Dawe's house. Whatever the arrangement was, it soured to the extent that the Appellant has refused to execute a deed of conveyance to the property upon which Mr. Dawe built his house and this is now the subject of separate litigation in the Newfoundland courts.
+[10] Their recollection, of what occurred between them in respect to an employment arrangement, was so dissimilar that one questions whether they were recalling the same period of time. The Appellant is adamant that they reached a verbal agreement, respecting the period under appeal, in which Mr. Dawe employed him as a handyman for approximately 40 to 45 hours weekly at a rate of $13 per hour. He thought he was delivering his deductions to the bank periodically and returned stamped bank documents to Mr. Dawe. On the other hand, Mr. Dawe claims that there never were any discussions between them concerning employment in respect to the period under appeal. He admitted that amounts for deductions were taken to the bank by the Appellant but that the amounts related to Mr. Dawe's employment with the payor. I question, however, why the Appellant was completing this task unless he was doing handyman tasks for Mr. Dawe. I have no evidence, either oral or documentary, that supports that any amount was actually paid to the Appellant as wages. There were no cancelled cheques, no record of employment and nothing in the credit card statements that suggest wages were paid. Nor do I have anything concrete in the evidence before me that would permit me to conclude that work was performed. Work may have been performed but it is just as plausible that it may not have been. It may also be that it was an artificial arrangement as the Respondent assumed in the Reply. Mr. Dawe's evidence was that any potential employment occurred only when the Appellant offered to sell him the second piece of property but that the Appellant never showed up for work although he expected a pay cheque. In any event, this is subsequent to the period under appeal. I have such contradictory evidence before me that I cannot draw conclusions. The evidence of each witness was so tainted with the emotional past history and breakdown of a friendship over a period of several years, that I do not accept either witnesses' version of events as completely credible. Somewhere between their stories, the truth remains buried. Although it was not raised during the hearing, I suspect the root of many of the issues between these parties can be found in the following statement added, almost as an afterthought, at the end of Mr. Parsons' Notice of Appeal: "This problem is a personal problem with him and I regarding his girlfriend".
+[11] At the time of drafting the Reply to the Notice of Appeal, the Minister had few facts upon which to base its assumptions of fact due to the lack of participation by both parties in the appeal process. Mr. Dawe testified that he ignored requests from Canada Revenue Agency and refused to complete a questionnaire forwarded to him. In fact, he admitted that he only opened the correspondence enclosing the questionnaire earlier in the same week that the hearing was scheduled to occur. The Respondent counsel admitted in submissions that the facts in the Reply in this appeal were truly "assumptions". Mr. Dawe was probably subpoenaed by the Respondent in the anticipation that he would assist the Court in establishing the true factual matrix that existed between these two individuals at the time. However, Mr. Dawe's testimony simply emphasized the truly divergent and vague recall of events that occurred between them. Since I am unable to draw any conclusions from the web of stories I heard and since the evidence of neither witness was convincing, the Minister's assumptions of fact have not been demolished. The appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 7th day of May 2014.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2014 TCC 138
+COURT FILE NO.:
+2013-3143(EI)
+STYLE OF CAUSE:
+LEWIS PARSONS and THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+St. John's, Newfoundland
+DATE OF HEARING:
+April 14, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+May 7, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Devon E. Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

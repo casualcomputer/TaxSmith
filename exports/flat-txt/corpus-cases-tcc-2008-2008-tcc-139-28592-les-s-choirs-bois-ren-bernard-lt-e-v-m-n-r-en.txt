@@ -1,0 +1,185 @@
+Title: Les Séchoirs à Bois René Bernard Ltée v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28592/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-139-28592-les-s-choirs-bois-ren-bernard-lt-e-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-04-03
+
+# Les Séchoirs à Bois René Bernard Ltée v. M.N.R.
+
+- Citation: 2008 TCC 139
+- Decision date: 2008-04-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1059, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Séchoirs à Bois René Bernard Ltée v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-03
+Neutral citation
+2008 TCC 139
+File numbers
+2007-3530(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-3530(EI)
+BETWEEN:
+LES SÉCHOIRS À BOIS RENÉ BERNARD LTÉE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 25, 2008, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Alain Gareau
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 3rd day of April 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 21st day of May 2008.
+Brian McCordick, Translator
+Citation: 2008TCC139
+Date: 20080403
+Docket: 2007-3530(EI)
+BETWEEN:
+LES SÉCHOIRS À BOIS RENÉ BERNARD LTÉE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a decision in which the Minister of National Revenue ("the Minister") determined that the worker, Daniel Bernard, held insurable employment under a contract of service with Les Séchoirs à Bois René Bernard Ltée from January 1, 2004 to June 9, 2005, even though the employment was, in principle, excluded under paragraph 5(2)(i) of the Employment Insurance Act ("the Act").
+[2] The Minister relied on the following assumptions of fact in making the decision under appeal:
+[TRANSLATION]
+5. . . .
+(a) The Appellant was incorporated on September 30, 1974. (admitted)
+(b) The Appellant operated a wood planing business and owned 23 kilns, two boilers and planers. (admitted)
+(c) The Appellant operated year‑round. (admitted)
+(d) The Appellant had sales of about $4 to $5 million a year. (admitted)
+(e) The Appellant employed about 40 employees. (admitted)
+(f) The worker had worked for the Appellant since 1986. (admitted)
+(g) The worker was in charge of the Appellant's personnel management and production departments. (admitted)
+(h) The worker was responsible for personnel management, the production equipment, purchases, the maintenance of equipment and the sale of shavings. (admitted)
+(i) The worker worked at the Appellant’s office. (denied)
+(j) The worker generally worked Monday to Friday from 8:00 a.m. to 4:30 p.m.. (denied)
+(k) The worker was paid $810 a week for 44 hours of work. (denied)
+(l) The worker’s annual salary was $42,930. (admitted)
+(m) The worker took two weeks of vacation during the construction holidays. (denied)
+(n) The Appellant had a right of control over the worker. (admitted)
+6. . . .
+(a) The Appellant’s sole shareholder was Placement René Bernard Inc. (admitted)
+(b) The shareholders of Placements René Bernard Inc. with voting shares were:
+René Bernard
+Gestion Michel Bernard Inc
+Placements Éric Bernard Inc
+9071-4635 Québec Inc.
+(admitted)
+75% of the shares
+11.11% of the shares
+11.11% of the shares
+2.78% of the shares
+(c) The shareholders of 9071‑4635 Québec Inc. were the worker, who owned 75% of the voting shares, and the worker’s wife, who owned 25% of the voting shares. (admitted)
+(d) René Bernard is the father of the worker, Michel Bernard and Éric Bernard. (admitted)
+(e) The worker is related by blood to a group of persons that controls the Appellant. (admitted)
+7. . . .
+(a) According to Emploi‑Québec records, salaries paid for positions similar to the worker’s varied between $34,000 and $51,000. (denied)
+(b) André Audet, one of the Appellant’s chief engineers with 35 10 years of experience, had an annual salary of $58,264, but he worked 50 hours a week. (denied)
+(c) In 2004, the worker did not receive a bonus from the Appellant but was paid an additional $9,100 by 9019‑4747 Québec Inc. (in which he was the majority shareholder and which was responsible for transporting wood) and a $5,000 dividend by 9071‑4635 Québec Inc.. (denied)
+(d) The worker’s remuneration was reasonable. (denied)
+(e) The terms and conditions of the employment corresponded to those of an unrelated employee, the work was done on the Appellant’s premises during the company’s business hours and the worker’s responsibilities were commensurate with the experience he had acquired over the years. (denied)
+(f) A relationship of subordination existed between the Appellant and the worker. (denied)
+(g) The worker had worked for the Appellant for about 20 years. (admitted)
+(h) The worker worked for the Appellant year‑round. (admitted)
+(i) The duration of the worker’s work was reasonable. (denied)
+(j) The worker’s work was necessary and important to the smooth operation of the Appellant’s business. (admitted)
+(k) The worker had been employed by the Appellant since 1986, so that his expertise and responsibilities increased over the years; a stranger would have acquired the same experience as the worker. (denied)
+(l) The terms and conditions and the nature and importance of the worker’s work were reasonable. (denied)
+[3] After considering the above‑mentioned assumptions of fact, the Minister concluded that, having regard to all the circumstances of the employment, it was reasonable to think that the Appellant and the worker would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[4] Only Daniel Bernard testified in support of the appeal. He explained that he had started working for the Appellant when he was very young and had worked for several years while he was in school. He explained that he had performed most of the work to be done in operating the business.
+[5] Although he went to university in a field that had nothing to do with the company's line of business (bachelor's degree in geography), he decided to quit school when he was almost done and only his thesis remained so he could devote himself completely to managing the business.
+[6] He explained that the business had had some problems due to unreliable employees. He therefore took on a number of responsibilities so he could control the situation properly from a management perspective.
+[7] He further testified that the activities of the business took place at three different sites: the sawing operations were carried out at a location about 60 kilometres away from the two places where the kilns were located.
+[8] Depending on the period involved, the business had up to about 40 employees on its payroll. Sawing activities were carried out during two shifts: one shift was for pine and the night shift was for spruce.
+[9] His two brothers were each responsible for one shift.
+[10] According to Daniel Bernard, he was on call seven days a week, 24 hours a day, since his presence might be required at any time, especially for drying, given the importance of the boilers, which had to be watched constantly. He testified that a camera system had been installed so he could make sure, from home or elsewhere by Internet, inter alia, that the facilities were operating properly at all times. He also stated that, even when he was away, he contacted the business' staff every day to inquire about the situation.
+[11] Drying activities took place on two sites, one with 18 kilns and the other with 5 kilns. The site with 18 kilns operated with a boiler fed by wood chips, while the site with 5 kilns was fuelled by natural gas. The processes were highly sophisticated and required very special attention and care on a constant basis, which explains why an alarm system and camera network were installed.
+[12] Daniel Bernard was responsible for hiring and occasionally for dismissing employees. He enjoyed considerable autonomy in making all decisions related to sound management. However, he admitted that important decisions on the purchase of equipment were made in consultation with his brothers.
+[13] He testified that he also had an interest in a transportation company and devoted about 10 percent of his time to that company. The rest of the time he had available was devoted to the Appellant's activities.
+[14] Daniel Bernard explained that his annual salary for the work he did for the Appellant was $42,903.
+[15] He also stated that the annual salaries of four or five workers unrelated to the Appellant were higher than his own.
+[16] In light of this testimony, certain assumptions of fact appear to have been completely rebutted. I am referring in particular to the facts set out in subparagraphs 5(j) and (k), which state that the worker generally worked Monday to Friday from 8:00 a.m. to 4:30 p.m. and was paid $810 a week for 44 ­hours of work.
+[17] Moreover, the Minister alleged in subparagraph 7(d) that the worker's remuneration was reasonable. However, in subparagraph 7(b), the Minister submitted that another employee had an annual salary of $58,264 based on 50 hours of work, whereas the worker was paid $42,930 for 44 hours of work.
+[18] The assumptions of fact also state that, according to Emploi‑Québec records, salaries paid for positions similar to the worker's varied between $34,000 and $51,000.
+[19] No evidence was provided to support this assertion. Furthermore, it would have been interesting to know what was meant by "positions similar to the worker's".
+[20] These are a few elements to which significant weight was attached and which in no way corresponded to the evidence adduced before the Court.
+[21] How did the Minister reach the conclusion that the remuneration paid for the work described by Daniel Bernard was reasonable? It seems to me that the comparison made by the Minister reflects an obvious lack of rigour.
+[22] I can conclude from this that the analysis was flawed because elements that had no basis in reality were taken into consideration. Is it nonetheless reasonable to conclude that the Appellant and the worker would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length?
+[23] It has been established that Daniel Bernard's two brothers, who were each responsible for one shift (one for the sawing of pine and the other for the sawing of spruce), had salaries that were, all things considered, comparable to Daniel's salary. The employment of Daniel Bernard's brothers was excluded from insurable employment because they each owned 40 percent of the company's shares. Daniel owned only 12 percent.
+[24] When a decision is made on the insurability of the employment of shareholders who are not dealing with one another at arm's length, including shareholders who work for the company whose shares they own, I believe it is important to consider the parameters of similar situations in which an arm's length relationship did exist.
+[25] In this regard, I stated the following in 9022‑0377 Québec inc. (Évasion Sports D.R.) v. M.N.R., 2004‑3731(EI), 2005 TCC 474, at paragraphs 51‑59 inclusive:
+51 I do not find the comparison totally relevant because Pierre Deschênes did not have any shares in the business. What a company demands and requires from its shareholders holding employment in its commercial activities, after having agreed to the terms and conditions of employment, has nothing to do with the salary reserved, offered or agreed to by anyone without any shares in the company.
+52 When shareholders in an arm’s length or non‑arm’s length relationship decide to have a salary policy for the shareholders‑workers, be it stingy or generous, very permissive or very restrictive, it has nothing to do with the other employees’ conditions of employment.
+53 If shareholders‑workers agreed to the conditions, whether the conditions place them at an advantage or disadvantage vis‑à‑vis other company employees, it has nothing to with the existence of a non‑arm’s length relationship. The only relevant question is whether or not there was work, remuneration, power of intervention and control of the company over one or all of the shareholders‑workers. If so, a contract of employment exists. In an exclusion as set forth in paragraph 5(2)(i) of the Act, a comparison of the work must be made between a shareholder‑worker in an arm’s length relationship, and not with other employees who have no shares, even if shareholder status and worker status are fundamentally different.
+54 To argue the contrary would create a serious inconsistency with respect to all SMEs where shareholders who are dealing with each other at arm’s length decide to have a particular policy for shareholders‑workers. Without being subject to the exercise of discretionary power, given the absence of a non‑arm’s length relationship, their work agreement would be deemed insurable, even if their conditions of employment were extremely different from those of other workers in the same company.
+55 The very high level of autonomy shared by the shareholders‑workers in the performance of their work, the significance of the employment, the substantially lower or higher salary of the shareholders‑workers with relation to the other workers, the total absence of vacation or opportunity to take vacation without greater notice than that of other employees, and so forth, are all elements that shareholders‑workers dealing with each other at arm’s length cannot invoke to exclude themselves from the obligation to pay premiums on the ground that their work agreement is not a true contract of service.
+56 Parliament made an express stipulation on the issue of work performed by shareholders employed in their business. It appears in paragraph 5(2)(b) of the Act, which stipulates that the work performed by a shareholder‑worker or an owner of more than 40% of voting shares is automatically excluded from insurable employment.
+57 The status of a shareholder‑worker with less than 40% of voting shares is recognized under the Act. Consequently, where one or more comparisons are required in a case where a non‑arm’s length relationship exists, an analysis and comparisons must be carried out between workers working in the same capacity or capacities, and the shareholder capacity cannot be concealed from the analysis.
+58 When a person invests in an area in which he or she has no or little knowledge and his or her co‑shareholders have the skill and expertise, it is completely natural to leave it to them to ensure sound management of the business.
+59 It therefore becomes essential for that person to have some tools of control or intervention. In this case, Denis Coiffier, in addition to the rights conferred upon him through his 40% portion of shares, was probably the instigator of the shareholder agreement that provided him with an additional element to ensure the smooth operation of the company and the viability of his investment.
+[26] I have not changed my approach to this matter.
+[27] There are specific rules or standards that must guide us in the exercise of making comparisons; although a person may be both a worker and a shareholder in a business and although those two statuses must be distinguished, the fact remains that the expectations, objectives and concerns of a worker who is a shareholder may differ from those of a worker who is not a shareholder without this changing the nature of the contract of employment. A contract of employment has three components: the performance of work, a relationship of subordination and remuneration.
+[28] Remuneration may vary depending on the person involved. It is not unusual or unreasonable for a person to accept a salary that is below the norm for various reasons, such as a desire to gain experience, the setting, the atmosphere, the context, flexibility or reputation. Where the parties to a contract of employment have a non‑arm's length relationship, this may have a perverse effect, since the contract's specific characteristics may be attributed to that relationship even where such a contract could have been entered into by parties dealing with each other at arm's length.
+[29] Although advantages and disadvantages that are outside the norm are more common in working relationships in which the parties are not dealing with each other at arm's length, this does not mean that such a situation is exclusive to that type of working relationship.
+[30] When people establish a company, they may very well agree on conditions of employment that may seem from the outside to be strange or at least unusual. Such conditions are generally inferior or very inferior to those that normally exist in the labour market.
+[31] Such people may have very legitimate reasons for their actions. For example, one need only refer to a situation in which, after a new company is created, the shareholders in an arm's length relationship agree on minimal remuneration in order to strengthen the new company's financial foundations, even though their work involves many more hours and responsibilities than the norm.
+[32] In the instant case, Daniel Bernard's status as a shareholder with 20 percent of the shares and as a worker was different from that of his brothers, since the dividend was paid in proportion to each brother's share of the capital stock.
+[33] However, where a worker‑shareholder accepts inferior, disadvantageous or very unusual conditions, there must be a reasonable explanation. This requirement applies whether the worker‑shareholder is dealing with those in control of the company at arm's length or not.
+[34] In the instant case, I think it would be completely unreasonable to imagine that a third party would accept conditions of employment substantially similar to those of Daniel Bernard.
+[35] He held a strategic position in the business, he worked many hours and his conditions of employment were obviously more demanding than those of his two brothers.
+[36] Despite all these special characteristics, the only indirect remuneration he could hope for was a benefit in proportion to his investment, since he owned only 20 percent of the shares.
+[37] Such a situation may have been acceptable in a family context. However, if an arm's length relationship had existed, the worker would obviously have been much more demanding, particularly with regard to his salary.
+[33] For these reasons, I vacate the determination and find that the work is excluded from insurable employment under paragraph 5(2)(i) of the Act.
+Signed at Ottawa, Canada, this 3rd day of April 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 21st day of May 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC139
+COURT FILE NO.: 2007-3530(EI)
+STYLE OF CAUSE: LES SÉCHOIRS À BOIS RENÉ BERNARD LTÉE AND M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: February 25, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: April 3, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jérôme Carrier
+Firm: Lévis, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

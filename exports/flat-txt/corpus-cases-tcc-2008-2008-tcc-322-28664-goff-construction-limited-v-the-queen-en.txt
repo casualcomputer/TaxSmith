@@ -1,0 +1,183 @@
+Title: Goff Construction Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28664/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-322-28664-goff-construction-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-05-28
+
+# Goff Construction Limited v. The Queen
+
+- Citation: 2008 TCC 322
+- Decision date: 2008-05-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1128, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goff Construction Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-28
+Neutral citation
+2008 TCC 322
+File numbers
+2004-4143(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4143(IT)G
+BETWEEN:
+GOFF CONSTRUCTION LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 23, 2008, at Toronto, Ontario,
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Margaret Nixon and David Muha
+Counsel for the Respondent:
+Brianna Caryll
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1999 taxation year is dismissed. Costs are awarded to the Respondent.
+Signed at Calgary, Alberta, this 28th day of May 2008.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2008TCC322
+Date: 20080528
+Docket: 2004-4143(IT)G
+BETWEEN:
+GOFF CONSTRUCTION LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Goff Construction Limited (“Goff”) appeals the reassessment of the Minister of National Revenue of its 1999 taxation year. The Minister included in Goff’s income an amount of $400,000 which Goff received as damages in the settlement of a lawsuit. Goff maintains the settlement amount was on capital account as it represented compensation for capital expenditures, and relying on the surrogatum principle, was therefore a non-taxable capital receipt. The Respondent relied on the principle of symmetry and argued that because the settlement amount replaced costs that the Appellant had deducted, it necessarily must fall into income. The Appellant countered that the capital expenditures were only made deductible by the application of paragraph 20(1)(cc) of the Income Tax Act, and that should not alter the character of the settlement amount as capital.
+[2] The parties helpfully provided an Agreed Statement of Facts which is worth repeating in its entirety.
+The parties to this proceeding admit, for the purposes of this proceeding only, the truth of the following facts:
+A. Background
+1. The Appellant is a corporation resident in Canada for the purposes of the Income Tax Act (Canada) (the “Act”). At all material times, the Appellant was controlled and operated by members of the Goff family.
+2. From the time of the Appellant’s incorporation in 1959 until the early 1970s, the Appellant carried on a land development and construction business. Since the early 1970s, the Appellant has carried on an investment business, consisting mainly of the rental of buildings previously constructed by it, the earning of income from investments and the holding of land previously acquired by it. In the years ended September 30, 1992, 1993, 1994, 1995 and 1996, the Appellant’s income consisted primarily of interest income from its investment business (generally, from marketable securities). In the year ended September 30, 1999, the Appellant’s main business was the earning of management and consulting fees.
+B. Agreement to Sell Vacant Land
+3. In October 1987, the Appellant entered into an agreement of purchase and sale (the “Agreement”) to sell 17.6 acres of vacant land in the City of Woodstock, in the County of Oxford (the “Subject Lands”) to 572257 Ontario Limited (the “Purchaser”). The Agreement was conditional on the Purchaser obtaining, at the Purchaser’s expense, rezoning of the Subject Lands for commercial use and any required amendment to the Official Plan of the County of Oxford.
+4. In September 1988, Mr. Richard Arblaster and his law firm, Aird & Berlis (the “Defendants”), on behalf of the Purchaser and the agent for the project proposed to be developed on the Subject Lands, submitted to the County of Oxford applications to amend the application zoning by-law and the Official Plan. The applications were rejected,1 and the Purchaser and the agent instructed the Defendants to file a referral request to the Minister of Municipal Affairs and an appeal to the Ontario Muncipal Board (the “OMB”) with respect to the Official Plan amendment and zoning by-law, respectively. The Appellant did not instruct or retain the Defendants with respect to taking these actions.
+C. The OMB Hearing
+5. On April 30, 1992, following a 52-day hearing (the “OMB Hearing”), the OMB decided against the proposed development of the Subject Lands by the Purchaser and held all parties that the Defendants purported to represent to be jointly and severally liable for costs on a solicitor and client basis (which amount was ultimately determined to be $1,350,000). The OMB concluded that solicitor and client costs were warranted on the basis that the conduct of the Defendants and the parties purportedly represented by the Defendants was “clearly unreasonable and akin to the abuses of process intended by the words ‘frivolous’ or ‘vexatious’,” and resulted in a “vastly and needlessly prolonged hearing”.
+6. Since the Defendants had represented in the course of the OMB Hearing that the Appellant was both their client and an applicant at the hearing, the Appellant was held to be jointly and severally liable for the cost award.
+D. The OMB Rehearing
+7. Following the decision at the OMB Hearing, the Appellant retained legal counsel and brought an application under the Ontario Municipal Board Act to have the cost award against it reduced or eliminated (the “OMB Rehearing”) on the basis that it had no involvement in or control over the conduct of the OMB Hearing.
+8. The Appellant was largely successful at the OMB Rehearing. In a written decision dated February 24, 1995, the OMB reduced the Appellant’s liability to $135,000 (10% of the total cost award), which amount was paid by the Appellant. The Appellant incurred significant time and expense in achieving this result, including its cost of retaining legal counsel to conduct the OMB Rehearing.
+9. In filing its tax returns and computing its income for tax purposes for the 1992 to 1997 taxation years, the Appellant deducted the cost award it paid to the OMB and the expenditures it made in seeking to have the cost award against it reduced or eliminated (in the years that such expenditures were incurred) as follows:
+Year
+Reported Income
+Total Expenses
+OMB Expenses (incl. in Total Expenses
+1992
+$140,106
+$139,975
+$57,9432
+1993
+$53,421
+$190,794
+$68,7993
+1994
+$38,571
+$269,045
+$225,8624
+1995
+$46,623
+$334,938
+$283,6375
+1996
+$38,281
+$50,633
+$20,7986
+1997
+$32,822
+$98,838
+$4,8807
+Total
+$661,919
+10. For the 1992 to 1997 taxation years, the Appellant’s deduction of the OMB expenditures reduced its taxable income in the year of the relevant expenditure and/or gave rise to non-capital losses, a portion of which were carried back and forward to reduce the Appellant’s taxable income in other taxation years, in accordance with the provisions of the Act.
+E. The Statement of Claim
+11. In August 1996, the Appellant filed a statement of claim against the Defendants (the “Statement of Claim”) claiming, inter alia, damages in the amount of $635,000 resulting from the Defendants’ false or negligent representations that they acted for the Appellant or, in the alternative, the Defendants’ negligence in carrying out the duties and responsibilities owed by a solicitor to a client.
+12. Paragraph 1 of the Statement of Claim provides that the Appellant claimed: (a) damages in the amount of $135,000, which was paid by or on behalf of the Appellant as costs pursuant to the decision of the OMB at the OMB Hearing; (b) damages in the amount of $500,000 for all expenses (including but not limited to legal fees) incurred by the Appellant in seeking to have the cost award against it eliminated or reduced; (c) pre‑judgment and post-judgment interest in accordance with the provisions of the Courts of Justice Act, R.S.O. 1990, c. C-43, as amended; (d) costs of the action on a solicitor and client basis together with Goods and Services Tax thereon; and (e) such other relief as to the court seemed just. The claim for damages of $500,000 was an estimate of the costs (primarily legal fees) that were incurred by the Appellant in seeking to have the cost award against it reduced or eliminated.
+F. The Settlement
+13. In March 1999, the Appellant reached a settlement with the Defendants. The Appellant agreed to accept a payment of $400,000 in damages (the “Settlement Amount”) from the Defendants in exchange for a full and final release of the Defendants (the “Settlement Agreement”) from any and all actions or claims arising out of, or in any way related to, the decision made at the OMB Hearing, any subsequent hearings or appeals and the Statement of Claim.
+14. The Settlement Agreement does not make any reference to the cost award or the expenses incurred by the Appellant in seeking to have the cost award against it reduced or eliminated, and it does not provide for an allocation of the Settlement Amount among these or any other items.
+15. The Appellant did not include the Settlement Amount in computing its income for tax purposes.
+G. The Reassessment
+16. By notice of reassessment dated July 7, 2003, the Minister of National Revenue (the “Minister”) reassessed the Appellant for its taxation year ended September 30, 1999 to include the Settlement Amount in the Appellant’s income. On August 23, 2004, the Minister varied the reassessment dated July 7, 2003 by permitting the Appellant to apply non‑capital losses from other taxation years to offset a portion of the reassessed income.
+17. The Minister issued the reassessment on the basis that the Settlement Amount was income from a business pursuant to subsection 9(1) of the Act or, alternatively, that the Settlement Amount was income from an unenumerated source pursuant to section 3 of the Act. The Minister has since abandoned his position that the Settlement Amount was income from an unenumerated source pursuant to section 3 of the Act.
+______________
+1 Because the sale of the Subject Lands was conditional on the rezoning permission, the sale did not proceed. The Appellant sold the Subject Lands in later taxation years and reported the sales on capital account in accordance with the Act.
+2 41% of total expenses.
+3 36% of total expenses.
+4 84% of total expenses.
+5 85% of total expenses. This amount included the OMB costs award of $135,000.
+6 41% of total expenses.
+7 5% of total expenses.
+[3] The issue is whether the damages of $400,000 is to be taxed as income. The parties agree this is a clash of the surrogatum principle and the principle of symmetry in the Act. I prefer however to look at this case as an opportunity to clarify the surrogatum principle for tax purposes. Is the surrogatum priniciple a principle by which the tax treatment of the damages or settlement payment is:
+(i) dependent upon the capital or income nature of the payment it is intended to replace; or
+(ii) to be the same as the tax treatment of whatever the payment is intended to replace?
+[4] Depending on how you define the surrogatum principle, the answer will be either taxable or non-taxable. To be clear, if the surrogatum principle relates to the tax treatment of the payment to be replaced, in this case the legal expenses and OMB costs of $135,000, which were deducted for tax purposes, then, applying the principle such payments should now be included in income. If, on the other hand, the surrogatum principle relates only to the nature of the payment as capital or income, then there is an argument that the legal costs and $135,000 OMB costs were in fact in the nature of capital (only deductible as a result of the application of paragraph 20(1)(cc)), and consequently, the settlement amount likewise should be considered capital and therefore not on income account and not taxable.
+[5] The Appellant’s argument in favour of the latter approach to the application of the surrogatum principle is a clever, intriguing and perhaps even logical argument, but it fails to acknowledge that the surrogatum principle is a tax principle – it does not operate in a vacuum. It is a principle to apply to ensure appropriate tax treatment, not to engage in an esoteric exercise of distinguishing income from capital simply for the sake of the distinction. The distinction is meant to have a tax impact.
+[6] The starting point for the analysis is the recent Supreme Court of Canada case of Tsiaprailis v. R.[1] Justice Charron described the surrogatum principle as follows:
+…the tax treatment of the item will depend on what the amount is intended to replace.
+[7] She goes on to cite the authors Hogg, Magee and Li in the Principles of Canadian Income Tax Law, 4th edition. In their latest edition (6th)[2], those authors describe the principle as follows (which is not dissimilar from the earlier edition):
+A person who suffers harm caused by another may seek compensation for (a) loss of income, (b) expenses incurred, (c) property destroyed, or (d) personal injury, as well as punitive damages. For tax purposes, damages or compensation received, either pursuant to a court judgment or an out-of-court settlement, may be considered as on account of income, capital, or windfall to the recipient. The nature of the injury or harm for which compensation is made generally determines the tax consequences of damages.
+Under the surrogatum principle, the tax consequences of a damage or settlement payment depend on the tax treatment of the item for which the payment is intended to substitute:91 (emphasis added)
+Where, pursuant to a legal right, a trader receives from another person, compensation for the trader’s failure to receive a sum of money which, if it had been received, would have been credited to the amount of profits (if any) arising in any year from the trade carried on by him at the time when the compensation is so received, the compensation is to be treated for income tax purposes in the same way as that sum of money would have been treated if it had been received instead of the compensation.
+…
+The recovery of an expense is not income, unless the expense was deducted.
+______________
+91 This principle was articulated by Diplock L.J. in London & Thames Haven Oil Wharves Ltd. v. Attwooll, [1966] 3 All E.R. 145; reversed [1967] 2 All E.R. 124 134 (C.A.). It has been adopted and applied by the Federal Court of Appeal in Manley, note 92, below, and Schwartz, note 29.
+[8] The Appellant argued that the deductibility of legal expenses and OMB costs is not relevant as it is simply the nature of those payments which is important. The nature of the legal costs and OMB costs were capital expenditures captured by paragraph 20(1)(cc). The Respondent did not dispute this characterization and I accept it without going into detail of the Appellant’s argument. The deductibility of these amounts pursuant to paragraph 20(1)(cc) indeed highlights that these are capital expenditures, but subjected to special treatment by virtue of that particular section permitting their deduction.
+[9] It is important to bear in mind that at issue before me is the recovery of expenses, not a direct loss of profits. Cases cited by Appellant’s counsel dealing with lost profits, for example, the case of Prince Rupert Hotel (1957) Ltd. v. Canada[3], are not persuasive. The Appellant did however raise two cases, Coughlan v. R.[4] and Ipsco Inc. v. R.[5] to support the proposition that notwithstanding legal expenses may be deducted, it is the characterization of the payment as capital that is determinative of the tax treatment to be applied to the settlement amount. I am not persuaded these cases stand for that proposition.
+[10] In Coughlan, Justice Bowie was dealing with a damage award of approximately $2.9 million for the loss of indemnity and $493,000 for the loss of insurance benefits. Only in the alternative was it argued that if such damages could be viewed as a reimbursement of legal costs, should the Court look to their capital nature as opposed to looking at whether such legal costs had been deducted. Justice Bowie did comment on the reimbursement of legal expenses but found the damages were not such, but were damages for failure to maintain insurance and to indemnify. He indicated though that given the capital nature of those amounts, it was surprising the Crown would have permitted the deduction of the legal expenses. He did not have to face the issue of the recovery of legal expenses properly deducted.
+[11] Similarly in Ipsco, the issue before Justice Rowe was whether a $4.8 million receipt for damages, clearly on capital account, should have gone to reduce the amount of capital cost allowance available on the capital item in question. Ipsco treated the $4.8 million as a non-taxable receipt. The Minister deducted it from the capital cost of the asset in question on the basis it constituted proceeds of disposition. Justice Rowe found the amount was paid in respect of additional construction and installation costs, not recovery of legal expenses, though Justice Rowe did state that “in accepting the deduction for legal fees, it seems the Minister bobbled the ball”. He found there was no specific deduction to reduce the capital cost of an asset (such as subsection 13(7.1) of the Act).
+[12] Neither of these cases stand for the proposition that recovery of properly deductible legal expenses are not taxable by application of the surrogatum principle, though Justice Rowe’s finding that the settlement amount was a non‑taxable capital receipt does not recognize the tax consequences of reducing the capital cost of the asset in question. In effect, he engaged the surrogatum principle to identify the damages as capital, and could find no specific deduction to adjust the undepreciated capital cost accordingly. This was not the case of recovery of legal expenses.
+[13] The Appellant went on to distinguish its position from that of the Appellant in the case of Mohawk Oil Co. v. R.[6], where a taxpayer sought to be made whole by including compensation for lost profits. The Federal Court of Appeal found the settlement was partly taxable as income and partly as capital gain. Goff never sought compensation for lost profits. As I indicated earlier, this is a recovery of expense issue and not a direct lost profits issue.
+[14] Goff paid a significant amount in legal fees to reduce the OMB costs awarded against it to $135,000. These amounts go to the capital of Goff’s business on the basis the costs award related to a disposition of capital property and legal expenses related to preserving a capital asset (money). I do not disagree. The only thorny issue to tackle is where capital expenditures, such as those before me, are deductible, how is the surrogatum principle to be applied? The case law referred to by the Appellant does not persuade me that the authors Hogg, Magee and Li have got it wrong. The tax consequences of a settlement payment depend on the tax treatment of the item for which the payment is intended to substitute. Where, as here, the amount is recovery of expenditures, as opposed to lost profits, one must look to the tax treatment of those expenditures. In this case, those expenditures were properly deducted for tax purposes and consequently, applying the surrogatum principle, the settlement amount should fall into income. This principle should not be extended to rely upon deductions improperly made as would have been the case in both Coughlan and Ipsco. Two wrongs should indeed not make a right.
+[15] This conclusion is not a conclusion that the settlement amount was compensation for current expenses; it is a conclusion that the settlement amount was compensation for deductible capital expenditures.
+[16] I believe that as a judge-made tax principle, the surrogatum principle must relate to tax treatment, not just to the nature of the payment, though in most cases the two will go hand-in-hand. This case happens to involve a situation of a capital expenditure receiving income treatment by a provision of the Income Tax Act permitting its deductibility. The surrogatum principle should apply to assist in reaching a tax result in accordance with the tax legislation, not to encourage a result of either windfall at one end of the spectrum, or double taxation at the other end. The surrogatum principle should apply to maintain tax neutrality of damages.
+[17] For these reasons, I dismiss the appeal with costs to the Respondent.
+Signed at Calgary, Alberta, this 28th day of May 2008.
+“Campbell J. Miller”
+C. Miller J.
+CITATION: 2008TCC322
+COURT FILE NO.: 2004-4143(IT)G
+STYLE OF CAUSE: GOFF CONSTRUCTION LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 23, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: May 28, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Margaret Nixon and David Muha
+Counsel for the Respondent:
+Brianna Caryll
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Margaret Nixon
+Firm: Stikeman Elliott LLP
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2005] 1 S.C.R. 113.
+[2] (Toronto: Thomson Carswell, 2007).
+[3] [1995] 2 C.T.C. 212 (F.C.A.).
+[4] 2001 DTC 719 (T.C.C.).
+[5] 2002 DTC 1421 (T.C.C.).
+[6] [1992] 1 C.T.C. 195 (F.C.A.).

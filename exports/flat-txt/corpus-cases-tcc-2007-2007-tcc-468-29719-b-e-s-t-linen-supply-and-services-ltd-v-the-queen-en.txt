@@ -1,0 +1,120 @@
+Title: B.E.S.T. Linen Supply And Services Ltd v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29719/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-468-29719-b-e-s-t-linen-supply-and-services-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-04-04
+
+# B.E.S.T. Linen Supply And Services Ltd v. The Queen
+
+- Citation: 2007 TCC 468
+- Decision date: 2007-04-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6496, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+B.E.S.T. Linen Supply And Services Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-04
+Neutral citation
+2007 TCC 468
+File numbers
+2005-2022(GST)G
+Judges and Taxing Officers
+Brent Paris
+Decision Content
+Court File No. 2005-2022 (GST)G
+TAX COURT OF CANADA
+IN RE: Income Tax Act
+BETWEEN:
+B.E.S.T. LINEN SUPPLY AND SERVICES LTD.
+Appellant
+- and -
+HER MAJESTY THE QUEEN
+Respondent
+[OFFICIAL ENGLISH TRANSLATION]
+Decision and Reasons given by Paris J.
+Courts Administration Service,
+200 Kent Street,
+Ottawa, Ontario
+Wednesday, April 4, 2007 at 4:00 p.m.
+A.S.A.P. Reporting Services Inc. 8 2007
+200 Elgin Street, Suite 1004 130 King Street West, Suite 1800
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5X 1E3
+(613) 564-2727 (416) 861-8720
+Ottawa, Ontario
+--- The decision and reasons of Paris J. were handed down on April 4, 2007 at 4:00 p.m.
+PARIS J.: These are the reasons in the matter of B.E.S.T. Linen Supply and Services Ltd. v. The Queen 2005-2022(GST)G.
+This is an appeal from a reassessment under Part IX of the Excise Tax Act by which the Minister of National Revenue (the Minister) made adjustments to the amount payable by the Appellant under the Act for the period from April 1, 2000, to October 31, 2003.
+These adjustments included $9,738.72 in GST that, according to the Minister’s calculations, the Appellant had failed to collect and report in relation to sales of used linen between July 13, 2001, and October 14, 2002. This is the amount at issue in this matter.
+Although the Appellant also referred to a refused ITC amount in his amended Notice of Appeal, counsel for the Appellant confirmed that this amount was no longer at issue. In any case, no evidence was filed pertaining to refused ITC.
+The Appellant claimed that the used linen supplies in question were zero-rated supplies according to subsection 165(3) of the Act because the purchasers of the property exported it from Canada.
+Schedule 6 of the Act deals with zero-rated supplies and section 1 of Part V of Schedule 6 sets out that the following are zero-rated:
+1. A supply of tangible personal property (other than an excisable good) made by a person to a recipient (other than a consumer) who intends to export the property where
+. . .
+(e) the person maintains evidence satisfactory to the Minister of the exportation of the property by the recipient.
+In this case, the evidence given by the Appellant during the audit of used linen exportation was not found satisfactory by the Minister. The presumptions of fact used by the Minister in his assessment are found in paragraph 19 of the amended reply to the amended Notice of Appeal.
+In his assessment of the Appellant, the Minister relied on, but not exclusively, the following findings and presumptions of fact, as set out in paragraph 19 of the Reply to Notice of Appeal:
+[TRANSLATION]
+(a) the Appellant is a registrant for the purposes of Part IX of the ETA;
+(b) the Appellant’s fiscal year begins on April 1 and ends on March 30 of the following year;
+(c) the Appellant did not keep accounting records in the adequate form and with the relevant information necessary to determine its obligations under Part IX of the ETA during the period in question;
+(d) the Appellant operates, in Canada - in Quebec to be more specific – a service that cleans and rents bed sheets, pillowcases, bath towels, tablecloths, uniforms etc. (hereinafter referred to as the bedding) for hotels, restaurants, etc.;
+(e) when the bedding is too worn or damaged and, therefore, no longer meets the clients’(hotels and restaurants) quality standards, the Appellant supplies by sale said worn or damaged bedding to third parties, such as clothing and linen recycling companies;
+(f) during the period in question, the Appellant supplied by sale, in Canada, worn or damaged bedding for total consideration of $315,464.68, broken down as follows: $194,868.32 during its fiscal year ending March 31, 2002, and $120,606.36 for its fiscal year ending March 31, 2003;
+(g) not all of said supplies made by the Appellant mentioned in the preceding sub-paragraph are invoiced, and when they are, the identity of the purchasers is not indicated in a way that makes it possible to adequately identify them;
+(h) the Appellant also supplied by sale 510 used barrels during its fiscal year ending March 31, 2003, for consideration of $5,100.00 – 200 barrels on August 5, for consideration of $2,000 to an unknown purchaser, according to the invoice prepared by the Appellant, but who is alleged to be WETIPP (NIG.) LTD according to paragraph 5 of the amended Notice of Appeal, and 300 barrels on October 14, 2002, for consideration of $3,100.00 to KRAZNIAC IMPORT;
+(i) the purchasers of said worn or damaged bedding or said used barrels took delivery in Canada, i.e. the Appellant did not itself ship the goods supplied to the purchasers outside of Canada, nor did it hire a public carrier, to send the goods supplied to the purchasers outside of Canada, inasmuch as said goods were apparently exported from Canada after the Appellant had made the supply to said purchasers;
+(j) the Appellant did not collect the GST on its supplies by sale of the worn or damaged bedding or the 510 used barrels acquired by the purchasers, and the purchasers did not pay GST to the Appellant;
+(k) the Appellant did not provide any evidence of exportation by the purchasers that was satisfactory to the Minister, whether in reasonable time or not after having taken delivery from the Appellant of all or part of the worn or damaged bedding or the 510 barrels supplied by the Appellant by sale;
+(l) the amount of GST not collected by the Appellant for supplies by sale of worn or damaged bedding or the used barrels is $22,440.22, i.e. 7% of $320,574.68 ($315,474.68 + $5,100.00), amount which the Appellant did not include in the calculation of the net tax that it reported to the Minister for the period at issue; and
+(m) the Appellant therefore owes the Minister the amount of $26,164.15 in adjustments (including the previously mentioned amount of $22,440.22, this amount of $22,440.22 including the amount of $12,701.50 [7% of $181,450.00 ($24,750 + $46,600 + $110,100)] which is contested) made to its net tax reported for the period in question, plus the net interest and the penalty.
+The evidence reveals that the Appellant operates a business in Quebec and Ontario as described in paragraph 19(1) of the Reply to Notice of Appeal and that, in its operations, it sold quantities of used linen that no longer met its clients’ requirements.
+Mr. Raffoul, the Appellant’s principal, testified that there was no market for the used linen in Canada, but that the Appellant had started selling it to foreign companies in 2000. A certain Mr. Ahmed had been introduced to him as a purchaser or agent for foreign companies, to wit, Wetipp, a Nigerian company, and Krazniak, a Bosnian company.
+Over a period of about three years, the Appellant sold a quantity of linen to Mr. Ahmed, who was acting on behalf of Wetipp and Krazniak. The Appellant issued Mr. Ahmed a hand-written receipt, prepared by Mr. Raffoul, for each sale. Copies of these receipts were filed with the Court as Exhibits A-8.1, A-8.12, and A-9.1 through 9.10.
+On these receipts, Mr. Raffoul wrote the name "Ahmed" and "Cash Sale" or "Cash Sale" or "Ahmed Nigéria" or "Cash sale offshore company" or "Vezna Krazniak Bosnia cash sale for recycling in Bosnia" or other variations on the same theme.
+There was no receipt showing the address of the purchaser or any other information to identify this purchaser.
+Mr. Raffoul testified that Mr. Ahmed paid in cash. He said that the goods were for export and that in that case there was no GST exigible on the sales.
+Mr. Raffoul said he telephoned Revenu Québec and was given confirmation that he was not obliged to collect the GST on these sales.
+Mr. Ahmed picked up the goods from the Appellant with a container that he filled himself or had filled with the help of employees that he brought with him.
+The evidence also reveals that all of the sales to Mr. Ahmed were reported by the Appellant in its financial statements and for income tax purposes.
+During the GST/QST audit, the auditor asked the Appellant for evidence that the used linen sold to Mr. Ahmed between July 13, 2001, and October 31, 2002, had been exported. The auditor was looking for written proof beyond the copies of invoices supplied to Mr. Ahmed.
+The Appellant made efforts to obtain additional evidence of the exports and submitted two letters from Wetipp and Krazniak to the auditor. However, the auditor did not accept these letters as adequate evidence of exportation.
+The first letter, from Wetipp, only referred to purchases made by Wetipp from the Appellant prior to the sales under review.
+The second letter, from Krazniak, referred to purchases made from the Appellant between 2000 and 2001 in the amount of $110,100 (according to the letter) "For the purpose to be resold outside Canada." The dates of the sales and the amounts did not correspond with the handwritten invoices presented to the auditor.
+The Appellant did not submit any other evidence of exportation of goods to the auditor prior to the issuance of the Notice of Reassessment.
+After the notice of reassessment was issued, the Appellant received three bills of lading from Wetipp and Krazniak showing the used linen exports. The three bills of lading are dated November 19, 2001, August 30, 2002, and October 18, 2002.
+The Appellant also received a letter from Wetipp date June 1, 2006, which provided certain invoices pertaining to the used linen sales that took place on August 12, 2000, October 13, 2000, February 10, 2001 and March 24, 2001.
+Wetipp also said in its letter,
+Following our telephone conversation, these are the copies of your invoices and this is to confirm to you that the merchandise bought from B.E.S.T. Linen Supply and Services was received by us in the same shape and form, used, stained as when they were delivered and were not modified.
+These documents were given to counsel for the Respondent during the litigation.
+The Appellant claimed that all of the evidence provided to the Minister is evidence of the exportation of the goods sold to Wetipp and Krazniak and that these sales were therefore zero-rated supplies. The Appellant claimed that the Minister, by refusing to accept this evidence, failed to consider the relevant facts in exercising his discretion under section 1 in Part V of Schedule 6 of the Act. Counsel for the Appellant submitted that the auditor accepted that the goods had been exported from Canada but was looking for documentary evidence of this fact.
+He referred to this Court’s decision in Rockwood Motor Products v. The Queen [2005] G.S.T.C. 84, in which Chief Justice Bowman allowed the appeal in similar circumstances.
+Counsel for the Appellant also claimed that the requests for evidence made by the auditor were satisfied and, in light of the totality of the evidence, the Court should arrive at the conclusion that the goods in question were exported.
+Finally, and alternatively, the Appellant was seeking cancellation of the penalties imposed under section 281 of the Act given the efforts made by the Appellant to comply with section 1 in Part V of Schedule 6.
+The general rule is set out in subsection 142(1) of the Act:
+For the purposes of this Part, subject to sections 143, 144 and 179, a supply shall be deemed to be made in Canada if
+(a) in the case of a supply by way of sale of tangible personal property, the property is, or is to be, delivered or made available in Canada to the recipient of the supply.
+The GST is payable by the purchaser of a supply made in Canada and collectible by the supplier pursuant to subsections 165(1), 168(1) and 221(1) of the Act. In the case of a zero-rated supply, the rate is set at 0% by subsection 165(3) of the Act. As previously indicated, zero-rated supplies are listed in Schedule 6 of the Act and the relevant provision for exports is Part V of the Schedule.
+The Minister’s decision that the evidence of exportation is not satisfactory is a discretionary decision. In Uranus Auto Sales v. The Queen [2002]G.S.T.C. 39, this Court held that the Minister is the only person who can decide whether or not the evidence of exportation provided by a taxpayer is satisfactory. The Court cannot intervene unless the evidence demonstrated that, in reaching his decision, the Minister took into account extraneous factors, failed to take into account relevant facts, violated a legal principle or acted in bad faith.
+The evidence does not prove, as claimed by the Appellant, that the Minister ignored both of the letters from Wetipp and Krazniak, and the bills of lading. It is clear that the Minister considered them and analysed them, eventually rejecting them for the reasons clearly detailed by counsel for the Respondent in his arguments. I accept his arguments concerning the inconsistencies between these documents and the sales at issue.
+As concerns the invoices themselves, the lack of details, such as the purchaser’s address, and often even the name of the purchaser, justified the Minister’s refusal to accept them as evidence of exportation.
+There was also no evidence that the Minister based his decision on irrelevant factors or that he acted in bad faith, or that he violated a principle of law.
+Given this conclusion, the Court has no right to intervene in this case.
+I also reject the hypothesis that the auditor accepted that the goods had been exported. The evidence does not support this argument and the Rockwood decision is not applicable.
+Finally, the Appellant cannot be successful with a due diligence defence against the application of the penalty under section 281 of the Act. Even if Mr. Raffoul did contact Revenu Québec to find out whether or not the Appellant had to collect the GST and the QST on these sales, that in itself is not sufficient to establish a due diligence defence.
+In Stafford, Stafford and Jakeman v. Canada [1995], G.S.T.C. 7, Bowman J. stated:
+Due diligence involves more than merely accepting, without more, some oral advice that an assessor with the Department of National Revenue may have given them.
+In Wong v. The Queen [1996] G.S.T.C. 73, the Court said,
+Due diligence is nothing more than the degree care that a reasonable person would take to ensure compliance with the Act. It does not require perfection or infallibility. It does, however, require more than a casual inquiry of an official in the Tax Department.
+In conclusion, the Appellant has not successfully demonstrated that the Court could intervene in the Minister’s decision that the evidence of exportation provided by the Appellant was not satisfactory. Yet the Respondent consented to the assessment being referred back to the Minister for reconsideration and reassessment, on the basis that the sale of 280 barrels in October 2002, for $2,800 was a zero-rated supply. This results in a GST reduction of $196. The appeal is allowed only for the purpose of taking this concession into account.
+Given the Appellant’s very limited success in this matter, costs are awarded to the Respondent.
+[oral decision and reasons concluded at 4:15 p.m.]
+Translation certified true
+On this 9th day of January 2008
+Monica F. Chamberlain, Reviser

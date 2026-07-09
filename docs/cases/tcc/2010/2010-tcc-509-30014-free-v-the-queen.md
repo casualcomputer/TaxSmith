@@ -1,0 +1,141 @@
+---
+title: "Free v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30014/index.do"
+last_modified: "2010-10-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 509"
+citation2: ""
+neutral_citation: "2010 TCC 509"
+decision_date: "2010-10-12"
+language: "en"
+item_id: "30014"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7684
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:58:18.985000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3eef5b7e24c58fb1b04759f6602d00a22f6fd54b0b950930d719fba397734da1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Free v. The Queen
+
+- Citation: 2010 TCC 509
+- Decision date: 2010-10-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7684, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Free v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-12
+Neutral citation
+2010 TCC 509
+File numbers
+2010-309(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-309(IT)G
+BETWEEN:
+DAVID FREE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on August 24, 2010, at Toronto, Ontario
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Daniel R. Lyons
+Counsel for the Respondent:
+Khashayar Haghgouyan
+____________________________________________________________________
+ORDER
+UPON motion by the Respondent for an Order that the Appellant deliver particulars within a specified time pursuant to section 52 of the Tax Court of Canada Rules (General Procedure) and for an extension of time within which to file and serve a Reply to the Notice of Appeal;
+UPON reading the materials filed and hearing counsel for the parties;
+IT IS ORDERED THAT the motion is granted as follows:
+1. The Appellant will provide the Respondent with a particulars including a breakdown of the amount of income, inclusions and deductions used by him to calculate the amount of income reported in his tax returns for the 2005 and 2006 taxation years by November 12, 2010;
+2. The Respondent shall file and serve a Reply to the Notice of Appeal by January 12, 2011; and
+3. The Respondent is entitled to costs in the amount of $350, inclusive of H.S.T., payable forthwith.
+Signed at Ottawa, Canada, this 13th day of October, 2010.
+“C.H. McArthur”
+McArthur J.
+Citation: 2010 TCC 509
+Date: 20101012
+Docket: 2010-309(IT)G
+BETWEEN:
+DAVID FREE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+McArthur J.
+[1] This motion brought by the Respondent is for an Order requiring the Appellant to deliver particulars within a specified time pursuant to section 52 of the Tax Court of Canada Rules (General Procedure), and for an extension of time within which to file and serve a Reply to the Notice of Appeal to 60 days after an Order is made in respect of this motion.
+[2] The grounds for the motion are:
+(a) the Appellant has failed to satisfy the Respondent’s Demand for Particulars served on the Appellant on May 28, 2010; and
+(b) the Notice of Appeal as filed does not provide sufficient particulars to which the Respondent may reply in its pleadings.
+[3] The affidavit of Samantha Hurst, co-counsel on behalf of the Respondent, includes the following in paragraph 5:
+5. I verily believe that the Respondent is unable to plead intelligently in its Reply because the allegations of fact contained in the Notice of Appeal under “Material Facts Relied Upon” are not sufficiently explicit to determine the exact nature of the questions to be tried. More specifically:
+a) While paragraphs 26 and 28 of the Notice of Appeal contain general assertions on which the Appellant relies in support of his legal position, these statements are not supported by any of the facts alleged in paragraphs 7 to 23 of the Notice of Appeal; and
+b) By failing to provide the Respondent with a breakdown of the amount of income, inclusions and deductions used by the Appellant to calculate the amount of “income reported in his tax returns as filed” (paragraph 26 of the Notice of Appeal) and the disallowed “net business losses” (paragraph 28 of the Notice of Appeal) for the relevant years the Appellant has undermined the Respondent’s ability to address in an intelligent manner the central question of the deductibility of the expenses incurred by the Appellant
+[4] Paragraphs 26 and 28 of the Appellant’s Notice of Appeal state:
+26. The Appellant’s income in each year of the Assessed Period was the income reported in his tax returns as filed for the Assessed Years.
+...
+28. Because of this erroneous assumption, the Minister erred in disallowing net business losses of $67,338 in 2005 and $61,353 in 2006.
+[5] The motion is brought pursuant to section 52 of the Rules which reads:
+52. Where a party demands particulars of an allegation in the pleading of an opposite party, and the opposite party fails to supply them within thirty days, the court may order particulars to be delivered within a specified time.
+[6] The Appellant’s counsel states that the primary issue in the appeal is whether the Appellant was an independent contractor or an employee of the Municipality of Meaford in 2005 and 2006. The Appellant’s counsel stated that the Minister can simply deny paragraph 28 of the Notice of Appeal and that there is no need to put the Appellant to the expense of identifying the nature and amounts of the expenditures at this time.
+[7] It appears that the Appellant’s objection to this motion is that the cost associated with providing the Respondent with the information required is unnecessary at this time, particularly when it will be provided during discovery. Counsel repeated this three of four times.
+[8] The Minister’s counsel stated that the appeals deal with the deductibility of expenses and a competent Reply to the Notice of Appeal cannot be made without having a breakdown of the claimed expenses in the total amounts of $67,338 in 2005 and $61,353 in 2006.
+[9] I agree with the Respondent that the facts referred to in paragraphs 7 to 23 of the Notice of Appeal are of little assistance in determining the specifics of the Appellant’s position. The purpose of the Notice of Appeal and Reply is to clearly disclose the facts upon which both parties are relying. The Appellant admits that the breakdown of the expenses claimed will have to be provided during discovery, leaving me at a loss as to why it was not provided now.
+[10] Therefore, the motion is granted, with costs. The Appellant shall provide the Respondent with a breakdown of the amount of income, inclusions and deductions used by the Appellant to calculate the amount of “income reported in his tax returns as filed” (paragraph 26 of the Notice of Appeal) and the disallowed “net business losses” (paragraph 28 of the Notice of Appeal) for the relevant years by November 12, 2010.
+[11] The Respondent is entitled to costs in the amount of $350, inclusive of H.S.T., payable forthwith, and the Respondent shall file and serve a Reply to the Notice of Appeal by January 12, 2011.
+Signed at Ottawa, Canada, this 13th day of October 2010.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2010 TCC 509
+COURT FILE NO.: 2010-309(IT)G
+STYLE OF CAUSE: DAVID FREE and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 24, 2010
+REASONS FOR ORDER BY: The Honourable Justice C.H. McArthur
+DATE OF ORDER: October 13, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Daniel R. Lyons
+Counsel for the Respondent:
+Khashayar Haghgouyan
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Daniel R. Lyons
+Firm: Payne Law
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

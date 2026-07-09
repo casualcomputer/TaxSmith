@@ -1,0 +1,219 @@
+---
+title: "Christian v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29978/index.do"
+last_modified: "2010-09-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 458"
+citation2: ""
+neutral_citation: "2010 TCC 458"
+decision_date: "2010-09-14"
+language: "en"
+item_id: "29978"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6461
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:01:09.745000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1bb8a48046f73dd664ed9f2b96cc18de905dbe24258019b7c1e97c4c9734574f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Christian v. The Queen
+
+- Citation: 2010 TCC 458
+- Decision date: 2010-09-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6461, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Christian v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-09-14
+Neutral citation
+2010 TCC 458
+File numbers
+2008-2227(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2227(IT)G
+BETWEEN:
+RENÉE CHRISTIAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 14, 2009, at London, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Tanis Halpape
+____________________________________________________________________
+JUDGMENT
+The appeal of the reassessment dated July 28, 2008, made under the Income Tax Act, for the 2006 taxation year is allowed in part, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment to allow the deduction of $1,999.50 for moving expenses, all in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of September 2010.
+"Réal Favreau"
+Favreau J.
+Citation: 2010 TCC 458
+Date: 20100914
+Docket: 2008-2227(IT)G
+BETWEEN:
+RENÉE CHRISTIAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal of a reassessment dated July 28, 2008, made under the Income Tax Act, R.S.C. 1985 (5th Supp.), c. 1 , as amended (the “Act”), for the 2006 taxation year, in which the appellant claimed moving expenses in the amount of $56,148.
+[2] The Minister of National Revenue (the "Minister") initially assessed the Appellant's tax liability for the 2006 taxation year by a notice of assessment dated August 27, 2007 disallowing all moving expenses claimed by the Appellant because they were not supported by receipts or other acceptable documents.
+[3] By notice of reassessment dated April 10, 2008, the Minister reassessed the Appellant’s tax liability for the 2006 taxation year and allowed a $19,364 deduction for moving expenses.
+[4] By another notice of reassessment, dated July 28, 2008, the Minister again reassessed the Appellant’s tax liability for the 2006 taxation year and allowed an additional $10,000 deduction for moving expenses. At that time, the following moving expenses were allowed:
+- Commission paid on sale of old residence
+- Legal fees
+- Atlas (transportation of household effects)
+- Meals and accommodation (8 days)
+Total
+$17,842
+$ 589
+$ 9,084
+$ 1,847
+$29,364
+[5] At the opening of the hearing, the Respondent conceded the following moving expenses:
+- One month's storage
+- Travel costs (other than accommodation and meals)
+- Meals and accommodation while travelling
+- Temporary living expenses (accommodation)
+- Temporary living expenses (meals)
+- Paid to UPS in the course of selling the old residence
+Total
+$ 144.45
+$ 706.00
+$ 447.00
+$2,298.88
+$ 811.96
+$ 206.52
+$4,614.81
+[6] During the hearing, the Respondent also conceded an amount of $566.46 paid for the geodetic survey carried out with respect to the sale of the old residence.
+[7] As a result of all the concessions and adjustments described above, the amounts still at issue before the Court are the following:
+- For transportation and storage of household effects
+- For meals and accommodation while travelling
+- Temporary living expenses (accommodation)
+- For selling costs in respect of old residence
+- For costs for purchase of new residence
+Total
+$ 1,036.90
+$ 1,999.50
+$ 4,550.88
+$9,152.54
+$8,476.40
+$25,216.22
+[8] Another issue raised by the Appellant was whether or not the Minister properly credited a payment of $13,989.62 made by the Appellant on the filing of her 2006 income tax return. The question of the jurisdiction of the Court to make that determination was raised by the Respondent.
+[9] There is no dispute that the Appellant, a self-employed taxpayer carrying on the business of selling cosmetics for Mary Kay, relocated and was allowed to deduct moving expenses incurred in 2006 in respect of that relocation, since it was admitted that the relocation was an "eligible relocation" as defined in section 248 of the Act.
+[10] The definition of " moving expenses" is found in subsection 62(3) of the Act; the relevant portions of that definition are the following:
+(3) Definition of "moving expenses" ─ In subsection (1), "moving expenses" includes any expense incurred as or on account of
+(a) travel costs (including a reasonable amount expended for meals and lodging), in the course of moving the taxpayer and members of the taxpayer’s household from the old residence to the new residence,
+(b) the cost to the taxpayer of transporting or storing household effects in the course of moving from the old residence to the new residence,
+(c) the cost to the taxpayer of meals and lodging near the old residence or the new residence for the taxpayer and members of the taxpayer’s household for a period not exceeding 15 days,
+(d) . . .
+(e) the taxpayer’s selling costs in respect of the sale of the old residence,
+(f) where the old residence is sold by the taxpayer or the taxpayer's spouse or common-law partner as a result of the move, the cost to the taxpayer of legal services in respect of the purchase of the new residence and of any tax, fee or duty (other than any goods and services tax or value-added tax) imposed on the transfer or registration of title to the new residence,
+(g) . . .
+(h) . . .
+but, for greater certainty, does not include costs (other than costs referred to in paragraph (f)) incurred by the taxpayer in respect of the acquisition of the new residence.
+[11] The use of the word "includes" in subsection 62(3) of the Act means that the list is not exhaustive. It has also been recognized that the words "moving expenses" must be construed in their ordinary and natural sense in their context in the particular statute (Storrow v. R., 1978 CarswellNat 253, 78 DTC 6551 (F.C.T.D.)). Furthermore, the amount deductible under section 62 of the Act must be reasonable in the circumstances, as required by section 67 of the Act.
+Costs for transportation and storage of household effects
+[12] The disputed amount in respect of the costs for the transportation and storage of household effects is $1,036.90. The Minister has allowed the deduction of $9,228.45 and disallowed the excess amount because the period of storage of the household effects was too long.
+[13] During her testimony, the Appellant explained that her household effects had to remain in storage until such time as she could move into her new residence on December 19, 2007. The construction of the new residence, located at 7794 Talbot Trail, Blenheim, started in the fall of 2006 and was terminated at the end of 2007. During the construction, she had to live in hotels, and that explains why her household effects remained in storage for a long period of time. The amount claimed as a deduction in this respect included only that portion of the expenses that was incurred in 2006.
+[14] The Minister has allowed all transportation costs for the household effects and has allowed one month of storage. I consider that as being reasonable in the circumstances. The decision to acquire a new residence which took more than a year to build was the Appellant's personal choice and I do not see any reason why Canadian taxpayers should bear the cost of that personal choice.
+Meals and accommodation while travelling
+[15] The disputed amount in respect of the claim for meals and accommodation while travelling is $1,999.50. The Minister has allowed all travel costs (other than meals and accommodation), namely $1,223 for accommodation and $1,071 for meals for a total of $2,294.
+[16] In her testimony, the Appellant explained that it took her 10 days to drive 3,154 km (the distance between Edmonton and Blenheim) with her two children, aged 10 and 7 years, and that it took her a few extra days because she had had health problems. She provided some supporting medical receipts.
+[17] The Minister accepted the claim for 7 nights, which represent 400 km per day and 4 hours of driving per day. The excess amount claimed was refused because there was some leisure time included in the claim (for example, 4 nights in Wisconsin and three days in a water park).
+[18] The amount that has been accepted by the Minister for meals represents a flat rate of $17 a meal, up to a maximum of $51 per day per person, without receipts. This was based on meal and vehicle rates used by the Canada Revenue Agency ("CRA") to calculate travel expenses for 2006.
+[19] Considering the distance travelled, the fact that the Appellant was driving alone with her two young children and that she had health problems, I find that 10 days for travel was reasonable in the circumstances. Furthermore, the amount claimed for meals ($1,571.36) closely approximates the amount arrived at under the formula used by the CRA.
+Temporary living expenses (accommodation)
+[20] The disputed amount in respect of the claim for temporary living expenses (accommodation) is $4,550.88. The Minister has accepted an amount of $2,298, which represents 13 days and is within the 15-day maximum period allowed by paragraph 62(3)(c) of the Act. This statutory requirement allows of no exceptions and must be met. The Minister has accepted the claim for those expenses supported by receipts that were incurred while the Appellant stayed in the London area.
+Selling costs for old residence – other selling costs
+[21] The disputed amount in respect of the selling costs for the old residence (other selling costs) is $9,719 of which $8,395.10 represents writ interest and $1,323.90 represents freight/post, waste removal and closing costs and costs for repairs (floor touch-up before the residence was listed for sale). The Minister disallowed the latter expenses because no receipts were submitted by the Appellant.
+[22] Mr. Christos Daras, the Appellant’s spouse, from whom the Appellant was separated, testified at the hearing to explain what the writ interest was. The $24,627 writ was a lien on the residence resulting from a tax debt owed by him to the CRA. The Appellant became jointly and severally liable with him with respect to the above-mentioned writ, pursuant to the subsection 160(1) of the Act, when he transferred to her his share of the residence on December 20, 2001 for a consideration that was less than fair market value.
+[23] The Appellant submits that the Minister did not have the statutory authority to charge and collect interest because paragraph 160(1)(e) sets a limit on liability. The Appellant is only liable for any amount owing by the transferor of the property up to and including December 20, 2001.
+[24] The Appellant further submits that she had no choice but to pay the writ interest in order to be able to sell her residence.
+[25] The respondent’s counsel submits that the payment of the writ interest was not directly related to the move and constituted a personal liability similar to mortgage interest.
+[26] The disputed outlays in respect of the sale of the old residence, that is, the other selling costs, were not, in my opinion, moving expenses in the natural and ordinary meaning of that expression and were not directly and solely related to the move.
+[27] In Séguin v. R., 1997 CarswellNat 2392, 97 DTC 5457, the Federal Court of Appeal, in disallowing the deduction of mortgage interest expenses incurred by Mr. Séguin on his former house until its sale, stated the following:
+8 According to the ordinary meaning of the words used, the provision includes those expenses incurred for physically moving, changing one’s residence, and certain other expenses directly related to the actual move and resettlement, and not some amount intended to compensate for accessory damages that are unrelated to the actual move to and resettlement in the new residence. Thus, it excludes the interest expenses on the old residence that do not pertain directly to the physical move of the taxpayer and his family, but instead pertain to the bank loan he took out on his old residence.
+[28] In my opinion, the writ interest cost is comparable to interest expenses relating to the old residence. The Appellant is not entitled to deduct as moving expenses a payment of interest . As stated by Justice Collier in Storrow, supra, "Only outlays incurred to effect the physical transfer of the taxpayer, his household, and their belongings to the new residence are deductible" (par. 14 in fine).
+[29] In this appeal, this Court only has to consider the deductibility of the writ interest cost as a moving expense. No decision as to whether or not the Minister had the statutory authority to charge the Appellant interest and collect that interest from her can be made as that was not raised as an issue in this appeal and is not before me.
+[30] The other expenses claimed with respect to the sale of the old residence are not deductible as moving expenses either because they are not supported by receipts (e.g., freight/post) or were incurred in preparation for the move (e.g., repair costs) rather than being actual moving expenses as contemplated by subsection 62(3) of the Act.
+Costs for purchase of new residence
+[31] The disputed amount in respect of the claim for the costs related to purchasing a new residence is $8,476.40, which represents the following expenses:
+- Damage deposit
+- Permit fee
+- Permit fee servicing
+- Public Utilities Commission fee
+- Single fee, water
+- Permit fee (new septic system)
+Lower Thames fee - conservation authority
+$1,000.00
+$4,919.40
+$60.00
+$ 140.00
+$1,087.00
+$1,120.00
+$ 150.00
+Those outlays are not deductible because they are costs not referred to in paragraph 62(3)(f) of the Act. Subsection 62(3) in fine provides, for greater certainty, that deductible moving expenses do not include costs (other than costs referred in paragraph (f)) incurred by the taxpayer in respect of the acquisition of the new residence.
+[32] Paragraph 62(3)(f) provides that, where the old residence is sold by the taxpayer, the cost to the taxpayer of legal services in respect of the purchase of the new residence and of any tax, fee or duty (other than any goods and services tax or value‑added tax) imposed on the transfer or registration of title to the new residence is included in the definition of "moving expenses".
+[33] The outlays referred to in paragraph 31 above were fees incurred in respect of the acquisition of the new residence but were neither costs of legal services nor fees or duties imposed on the transfer or registration of title to the new residence.
+[34] The last issue raised by the Appellant concerns a payment of $13,989.62 made on the filing of her 2006 tax return, which payment, according to her, has not been credited to her. The Respondent's counsel argued that the said amount was in fact credited to her and that, in any event, this Court does not have jurisdiction to deal with this accounting issue.
+[35] In Miller et al. v. The Queen, 2007 DTC 680, Justice Margeson of this Court made it clear that ruling on accounting issues regarding a debt owed is different from a determination of the liability giving rise to the debt and that the determination of a debt owed to the Crown falls within the jurisdiction of the Federal Court and not of this Court. I share the view of Justice Margeson in that there is no right of appeal from a statement of account, as a statement of account is not an assessment, and in that the "balance unpaid", even if included in a notice of assessment or reassessment, is not a matter that is subject to appeal under the provisions of the Act, as it is the result of the assessment or reassessment but not a component of the assessment of tax, interest and penalties.
+[36] Consequently, the Court is satisfied that it has no jurisdiction in respect of the accounting issue raised by the Appellant.
+[37] For the reasons set out above, the appeal of the reassessment for the 2006 taxation year is allowed in part, without costs, and the matter is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to a moving expenses deduction of $1,999.50 for meal and accommodation costs incurred while travelling.
+Signed at Ottawa, Canada, this 14th day of September 2010.
+"Réal Favreau"
+Favreau J.
+CITATION: 2010 TCC 458
+COURT FILE NO.: 2008-2227(IT)G
+STYLE OF CAUSE: Renée Christian v. Her Majesty the Queen
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: December 14, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: September 14, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Tanis Halpape
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

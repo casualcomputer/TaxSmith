@@ -1,0 +1,123 @@
+---
+title: "Webster v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27032/index.do"
+last_modified: "2005-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 804"
+citation2: ""
+neutral_citation: "2005 CCI 804"
+decision_date: "2005-12-21"
+language: "fr"
+item_id: "27032"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 642
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:11:41.987000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0e84f93b15ad69c40d9ad4ed4c93b60a182029ea1eb99322c1bc4bac86410fab"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Webster v. The Queen
+
+- Citation: 2005 CCI 804
+- Decision date: 2005-12-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 642, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Webster v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-21
+Référence neutre
+2005 CCI 804
+Numéro de dossier
+2001-2060(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI804
+Date : 20051221
+Dossier : 2001-2060(IT)G
+ENTRE :
+ARTHUR WEBSTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE ET ORDONNANCE
+Le juge D. W. Beaubier
+[1] Les présentesrequêtes ont été entendues le 19 décembre 2005 par voie de conférence téléphonique. Les voici :
+1. Un avis de requête aux termes de l'article 58 des Règles, daté du 8 décembre 2005 et présenté par l'avocate de l'intimée, visant à radier l'un des éléments suivants :
+a) la « question incidente » , décrite au paragraphe 7 du mémoire de l'appelant comme [TRADUCTION] « un véritable cas de préclusion » , à savoir que le ministre du Revenu national (le « MRN » ), par l'intermédiaire du Ministry of Children and Families (ministère des Enfants et de la famille) de la Colombie-Britannique, a fait valoir que les [TRADUCTION] « prestations sociales ne sont pas incluses dans le revenu du contribuable selon l'alinéa 81(1)h) » de la Loi de l'impôt sur le revenu, que le contribuable s'est fondé sur cela pour l'établissement de ses déclarations de revenus (à son détriment) et que [TRADUCTION] « le ministre est préclus d'élever le montant des cotisations » . Et, à titre subsidiaire, le fait que les lettres et les observations du ministre constituent une décision au sens du par. 18.1 de la Loi sur les Cours fédérales, de sorte que la Cour n'a pas compétence;
+b) le prétendu avis d'appel modifié, qui a été déposé avec des modifications sans l'autorisation de la Cour ou le consentement de l'intimée.
+2. Un avis de requête, daté du 9 décembre 2005 et présenté par l'avocat de l'appelant, visant à radier divers paragraphes énoncés par l'intimée dans une réponse à la demande d'aveux de l'appelant, pour des directives supplémentaires, et pour [TRADUCTION] « l'attribution de dépens spéciaux, payables sans délai quelle que soit l'issue de la cause » .
+[2] La requête en radiation de l'intimée a été traitée en premier.
+[3] La « question incidente » de l'appelant, comme il est indiqué dans la réponse et la réponse modifiée, concerne la préclusion découlant d'une question déjà tranchée. Il y a plusieurs décisions judiciaires canadiennes déclarant que la préclusion ne s'applique pas à la Couronne, et plusieurs ont été citées par l'avocate de l'intimée. À cet égard, le résumé effectué par le juge Bowman dans la décision Goldstein c. La Reine, no 94-840(IT)I, 1er mars 1995, à la page 11, 96 D.T.C. 1029, à la page 1034, est suffisant :
+[...] aucune préclusion ne peut se poser lorsque de telles déclarations ne sont pas conformes au droit.
+Pour ce motif, le moyen subsidiaire fondé sur la préclusion figurant dans l'avis d'appel et l'avis d'appel modifié est radié.
+[4] De plus, le moyen subsidiaire de l'appelant selon lequel [TRADUCTION] « les lettres et les observations du ministre constituent une décision [...] » qui [TRADUCTION] « [...] lie l'intimée » est aussi radié pour la même raison que celle indiquée par le juge Bowman, et plus particulièrement parce que dans les documents soumis à la Cour, ces lettres et observations ne constituent pas une décision selon le sens qui est donné à ce terme dans la Loi de l'impôt sur le revenu et dans le Règlement.
+[5] En raison de ces décisions, la Cour conclut ce qui suit en se servant des numéros de paragraphe figurant dans l'avis de requête de l'avocat de l'appelant :
+4. L'alinéa 3a) de la réponse est correct. La question de savoir si un paiement est un « paiement prescrit » est une question de droit et la question sera tranchée en fonction des faits et du droit qui seront déterminés par le juge qui présidera l'audience.
+5. Pour le moment, Arthur Webster est le seul à savoir si les enfants étaient liés à lui. L'alinéa 3b) de la réponse est correct selon le dossier actuel.
+6. L'alinéa 3c) est une question de droit basée sur les faits et le droit sur lesquels se prononcera le juge qui présidera l'audience en ce qui concerne la question de savoir si des paiements d' « allocation familiale » ont été reçus.
+8. Il appartient au juge qui présidera l'audience de déterminer la signification en droit contractuel des prétendus « contrats » conclus par l'appelant et le Ministry of Social Services (ministère des Services sociaux) de la Colombie-Britannique. La réponse est valide en ce qui concerne l'alinéa 1d).
+9. La réponse relative à l'alinéa 1e) est correcte. La question en litige est de savoir si tout ou partie des paiements que l'appelant a reçus ont été versés pour lui ou pour les enfants.
+10. La question de savoir si les « paiements » ont été normalement effectués en fonction des ressources, des besoins et des revenus est également une question qui devra être tranchée par le juge qui présidera l'audience. Le démenti figurant dans la réponse est valide. Ces « paiements » peuvent avoir été normalement effectués sur la base de fausses déclarations ou bien de quelque chose de complètement différent.
+11. Il est également juste de nier l'alinéa 1g) si les « paiements » n'ont pas été effectués dans le cadre d'un programme légal. C'est le juge qui présidera l'audience qui devra trancher la question.
+12 et 13.
+Dans la réponse, l'autorité des documents M-75 et M-95 est niée. Il s'agit d'une réponse valide, étant donné que dans la demande d'aveux, le document M-75 est décrit comme une [TRADUCTION] « décision formelle du directeur des impôts » et que le document M-95 n'y est pas mentionné.
+[6] Par conséquent, la requête de l'avocat de l'appelant est rejetée.
+[7] Les dépens pour les deux requêtes sont adjugés à l'intimée, la Reine, quelle que soit l'issue de la cause.
+Signé à Saskatoon (Saskatchewan), ce 21e jour de décembre 2005.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 3e jour d'octobre 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2005CCI804
+NO DU DOSSIER DE LA COUR : 2001-2060(IT)G
+INTITULÉ DE LA CAUSE : Arthur Webster c. La Reine
+LIEU DE L'AUDIENCE : Victoria (Colombie-Britannique)
+DATE DE L'AUDIENCE : Le 19 décembre 2005
+MOTIFS DE L'ORDONNANCE : L'honorable juge D. W. Beaubier
+DATE DE L'ORDONNANCE : Le 21 décembre 2005
+COMPARUTIONS :
+Avocat de l'appelant :
+Me D. Laurence Armstrong
+Avocate de l'intimée :
+Me Lisa Macdonell
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom : Me D. Laurence Armstrong
+Cabinet :
+Armstrong Nikolich
+Avocats
+Victoria (Colombie-Britannique)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

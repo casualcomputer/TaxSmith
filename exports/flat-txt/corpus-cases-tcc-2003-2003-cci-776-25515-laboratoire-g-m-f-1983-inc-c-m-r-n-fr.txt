@@ -1,0 +1,236 @@
+Title: Laboratoire G.M.F (1983) Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25515/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-776-25515-laboratoire-g-m-f-1983-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-11-12
+
+# Laboratoire G.M.F (1983) Inc. c. M.R.N.
+
+- Citation: 2003 CCI 776
+- Decision date: 2003-11-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2373, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laboratoire G.M.F (1983) Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-12
+Référence neutre
+2003 CCI 776
+Numéro de dossier
+2002-4802(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-4802(EI)
+ENTRE :
+LABORATOIRE G.M.F. (1983) INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+RENÉ COMEAU
+intervenant.
+____________________________________________________________________
+Appel entendu le 1er octobre 2003 à Montréal (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Michel Messier
+Avocat de l'intimé :
+Me Philippe Dupuis
+Pour l'intervenant :
+L'intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 12e jour de novembre 2003.
+« Alain Tardif »
+Juge Tardif
+Référence : 2003CCI776
+Date : 20031112
+Dossier : 2002-4802(EI)
+ENTRE :
+LABORATOIRE G.M.F. (1983) INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+RENÉ COMEAU
+intervenant.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de l'appel d'une détermination en date du 4 octobre 2002. Aux termes de cette décision, l'intimé a déterminé que le travail exécuté par l'intervenant, monsieur René Comeau, pour le compte et bénéfice de la compagnie Laboratoire G.M.F. (1983) Inc., au cours de la période allant du 1er janvier 2001 au 1er février 2002, était un travail assurable.
+[2] Dans un premier temps, l'appelante a fait valoir que monsieur Comeau n'avait pas la capacité légale pour initier quelque démarche que ce soit relativement à l'assurabilité du travail exécuté, étant donné qu'il n'avait pas la saisine de ses biens, des suites de la cession de ses biens.
+[3] Selon l'appelante, l'intervenant n'avait plus la capacité légale d'initier quelque procédure que ce soit, ayant des incidences sur son patrimoine. Il aurait dû, toujours selon l'appelante, faire intervenir ou avoir la permission du syndic pour entamer des demandes relatives à l'assurabilité du travail exécuté.
+[4] Dans un premier temps, je disposerai de cette question préliminaire :
+· Le paragraphe 71(2) de la Loi sur la faillite et l'insolvabilité ( « L.F.I. » ) prévoit :
+Lorsqu'une ordonnance de séquestre est rendue, ou qu'une cession est produite auprès d'un séquestre officiel, un failli cesse d'être habile à céder ou autrement aliéner ses biens qui doivent, sous réserve des autres dispositions de la présente loi et des droits des créanciers garantis, immédiatement passer et être dévolus au syndic nommé dans l'ordonnance de séquestre ou dans la cession, et advenant un changement de syndic, les biens passent de syndic à syndic sans transport, cession, ni transfert quelconque.
+Certes, un failli perd la saisine de ses biens. Il ne devient pas, pour autant, totalement inhabile. Il conserve ses droits personnels ainsi que la capacité d'intenter des recours afin de conserver ou faire valoir ses droits personnels. De plus, le failli conserve la saisine des biens qui ne sont pas dévolus au syndic. Les biens dévolus au syndic sont :
+[...]
+c) tous les biens, où qu'ils soient situés, qui appartiennent au failli à la date de la faillite, ou qu'il peut acquérir ou qui peuvent lui être dévolus avant sa libération;
+d) les pouvoirs sur des biens ou à leur égard, qui auraient pu être exercés par le failli pour son propre bénéfice (paragraphe 67(1) L.F.I.).
+· Les biens insaisissables, au Québec, sont énumérés au Code de procédure civil, principalement à l'article 553 de ce code.
+[...]
+7. Les prestations accordées au titre d'un régime complémentaire de retraite auquel cotise un employeur pour le compte de ses employés, les autres sommes déclarées insaisissables par une loi régissant ces régimes ainsi que les cotisations qui sont ou doivent être versées à ces régimes;
+[...]
+11. Les traitements, salaires et gages bruts, pour les 7/10 de ce qui excède une première portion, elle-même insaisissable:
+a) de 180 $ par semaine, plus 30 $ par semaine pour chaque personne à charge, à compter de la troisième, si le débiteur pourvoit aux besoins de son conjoint, s'il a charge d'enfant ou s'il est le principal soutien d'un parent; ou
+b) de 120 $ par semaine, dans les autres cas.
+· Les prestations d'assurance-emploi sont incluses dans « les traitements, salaires et gages bruts » prévus au paragraphe 553(11) du Code de procédure civil. En plus, en vertu de la L.F.I., ces traitements, salaires ou gages ne sont pas automatiquement inclus dans le patrimoine attribué aux créanciers du failli. Le paragraphe 68(3) est à l'effet suivant :
+Le syndic fixe, conformément aux normes applicables et compte tenu des charges familiales et de la situation personnelle du failli, le montant que celui-ci doit verser à l'actif de la faillite, en avise le séquestre officiel par écrit et prend les mesures indiquées pour que le failli s'exécute.
+· Finalement, il m'apparaît important de rappeler le contenu de l'article 42(1) de la Loi de l'assurance-emploi, qui se lit comme suit :
+Incessibilité et obligation de rembourser les prestations et de payer les pénalités
+42 (1) Incessibilité des prestations
+42 (1) Sous réserve des paragraphes (2) et (3), les prestations ne peuvent être cédées, grevées, saisies ni données en garantie et toute opération en ce sens est nulle.
+[5] En l'espèce, non seulement le failli avait pleinement droit d'intervenir dans le présent appel, il était également pleinement justifié d'initier une procédure devant conduire à une détermination quant à l'assurabilité du travail qu'il avait exécuté. Il s'agissait là d'un droit personnel n'ayant rien à voir avec la faillite.
+[6] Quant à la capacité légale de monsieur Comeau, tant au niveau des démarches initiées pour déterminer l'assurabilité du travail effectué qu'au niveau de son intervention dans le présent dossier, je conclus que monsieur Comeau était totalement justifié de faire seul les démarches visant à obtenir une détermination quant à l'assurabilité de son travail; il pouvait également intervenir à titre personnel au présent appel.
+[7] Le travail exécuté par l'intervenant Comeau au cours de la période allant du 1er janvier 2001 au 1er février 2002, était-il un travail assurable ?
+[8] L'appelante a soutenu que le travail n'était pas assurable, en ce qu'il ne rencontrait pas les critères édictés par la jurisprudence; selon l'appelante, il n'y avait pas de relation employeur-employé puisqu'elle n'avait eu aucun pouvoir de contrôle sur les faits et gestes de monsieur Comeau défini comme travailleur autonome exploitant sa propre entreprise.
+[9] De son côté, l'intimé a soutenu qu'il avait bel et bien existé une relation employeur-employé en ce que les principaux critères, à savoir pouvoir de contrôle, chance de profits, risque de pertes, propriété des outils et intégration, commandaient une telle décision.
+[10] La preuve a fait ressortir que monsieur Comeau et l'appelante avaient vécu une période de grande tension des suites de la rupture de la relation économique qui existait entre eux depuis plusieurs années.
+[11] L'intervenant Comeau était vendeur des produits mis en marché par l'appelante depuis 1997. Il semble qu'à un moment donné, l'appelante ait initié certains changements dans la façon dont le travail de vendeur devait être exécuté et ce, dans le but de faire de ce vendeur salarié un travailleur autonome.
+[12] L'appelante a fait valoir que l'intervenant avait lui-même décidé de couper tout lien avec les opérations de vente des produits qu'elle distribuait et ce, pour la majeure partie de la période en litige.
+[13] Elle a aussi soutenu que l'intervenant avait été un vendeur autonome pour la majeure partie de la période en litige admettant toutefois que l'intervenant avait été salarié pour une période d'environ trois semaines, vers la fin de la même année dans le cadre d'un poste, créé de toute pièce pour ce dernier, dans le télé-marketing. Le poste aurait été aboli après trois semaines, l'intervenant refusant de travailler pour un salaire horaire de 14.
+[14] Durant la majeure partie du temps couvert par la période en litige, l'intervenant a reçu des prestations d'assurance-maladie qu'il a remises à l'appelante en contrepartie de quoi, elle lui a versé un montant comparable à celui reçu à titre de commission avant le congé de maladie.
+[15] Cette période a été parsemée de problèmes et de difficultés; les parties se sont reprochées divers griefs non-fondés suivant les versions en présence.
+[16] Monsieur Cléroux, représentant de l'appelante, a beaucoup insisté sur le fait que dans son évaluation, Comeau avait exploité sa propre entreprise lors de la période en litige laquelle avait, selon lui, pris fin à la demande de l'intervenant au tout début de la période en litige, des suites d'un arrêt de travail dicté par la maladie.
+[17] Quelque temps avant le début de la période en litige, l'appelante a cautionné l'intervenant Comeau pour un montant de 23 088 $. Pour des raisons médicales, l'intervenant a cessé ses activités de vendeur à la fin de janvier ou début février 2001.
+[18] Comment expliquer que l'appelante ait accepté d'agir comme caution de l'intervenant très peu de temps avant ce qu'elle a qualifié de rupture définitive ?
+[19] Comment expliquer que l'appelante ait accepté de bonifier considérablement les prestations d'assurance-maladie que recevait l'intervenant après la rupture ?
+[20] Comment expliquer que l'appelante ait accepté de créer un nouveau poste au sein de l'entreprise pour venir en aide à quelqu'un qui avait coupé tout lien avec elle et qui, au surplus, avait agi d'une manière abusive et déraisonnable selon sa propre appréciation ?
+[21] La réponse de l'appelante : « Pour des motifs humanitaires » . C'est là une explication très peu convaincante, d'autant plus qu'il ne s'agissait pas de gestes isolés découlant d'une quelconque spontanéité. Il s'agissait de décisions prises par des hommes d'affaires en plein contrôle de la situation.
+[22] L'appelante a insisté pour prétendre que son comportement avait été motivé et guidé par de généreuses préoccupations humanitaires. Ce sont là des prétentions assez audacieuses, eu égard au nombre d'écrits et surtout au contenu non-équivoque quant à la qualité de la relation qui existait.
+[23] Les personnes responsables de l'administration de l'appelante étaient des hommes d'affaires d'expérience dont la préoccupation était et devait être la recherche maximale de rentabilité. Ils se sont montrés accommodants dans le but de garder à leur emploi l'intervenant qui avait sans doute été un actif pour l'entreprise.
+[24] L'appelante voudrait occulter de la preuve le contenu de plusieurs écrits dont la portée est déterminante quant à l'assurabilité du travail exécuté par Comeau. Je fais notamment référence entr'autre aux pièces suivantes : (pièces A-3, A-4, I-1, I-4 et A-8). Il y a lieu de reproduire le contenu de ces pièces justificatives :
+(pièce A-3)
+Suite à l'assemblée tenue le 4 août 2000, nous constituons que certaines directives données n'ont pas été respectées
+Conséquemment, nous devons agir en sorte que ces directives soient attribuées.
+1. Vous êtes tenus de fournir à GMF un rapport de route indiquant : l'heure, la date, le nom du client et ce toutes les semaines;
+2. Vous devez fournir 28 heures de travail/semaines, soit de 8hres a.m. (1er client) à 4 heures p.m.
+ex.: 28 hres = 100% salaire
+14 hres = 50% salaire
+3. Les téléphones à vos clients devront être inscrits à l'endos du rapport;
+4. Si vous ne travaillez pas une journée, veuillez l'indiquer et en donner la raison, et aviser le bureau;
+Les conséquences d'une non-rentablité entraîneront un changement de rémunération.
+N.B. Pas de rapport de route = pas de commission
+(signature) : René Comeau
+31-01-01
+(pièce A-4)
+Suite à votre demande de prestation d'assurance salaire, Laboratoire GMF consent à vous accorder un prêt de 563 $ par semaine à compter du 8 mars 2001, ce montant étant basé sur votre revenu tel qu'il apparaît sur votre T-4 pour l'année 2000.
+Toutefois, il est clairement entendu que tous les chèques qui vous seront versés par l'assurance devront être rendus intégralement et sans exception à Laboratoire GMF Inc. Le manquement de vous conformer à cette condition entraînera automatiquement la résiliation de cette entente.
+Le montant qui diffère entre la somme versée par l'assurance, soit environ les 2/3 de 563 $ et celui versé par Laboratoire GMF Inc. sera absorbé par Laboratoire GMF Inc.
+Cette entente est pour une durée maximale de 26 semaines à compter du 8 mars 2001 et pourra être réévaluée sans engagement aucun de la part de Laboratoire GMF.
+Vous admettez avoir pris connaissance et compris les conditions stipulées dans la présente.
+En foi de quoi, vous avez signé ce 8e jour de mars 2001.
+(signature) (signature)
+Claude Cléroux René Comeau
+pour : Laboratoire GMF Inc.
+(Je souligne.)
+(pièce I-1)
+St-Hyacinthe, le 4 août 2000.
+À TOUS LES REPRÉSENTANTS
+LABORATOIRE G.M.F.
+Débutant le 11 août 2000, vous devrez remettre à Laboratoire G.M.F. un rapport de route ainsi qu'une scédule de travail à toutes les semaines
+Cette directive a pour but d'éviter de payer des commissions aux représentants quand les clients de la Clinique n'ont pas été visités.
+Débutant le 11 septembre 2000, si un client de la Clinique est sur votre rapport et n'a pas été visité, il n'y aura pas de commission payée au représentant.
+RAPPORT : nom du client ou de la ferme
+Ville ou Village
+Date de la visite
+Si, vous n'avez pas travaillé une journée (ex : Lundi) veuillez l'inscrire sur votre rapport. Si, vous êtes en vacances, veuillez l'inscrire également.
+Veuillez prendre note que ces directives seront appliquées dès le 11 septembre 2000.
+Pour toute autre information, n'hésitez pas à me contacter.
+M. André Sauvageau
+C.C. Tous les représentants
+(pièce I-4)
+26-10-01
+Rappel
+sur lieu de travail pour garder harmonie dans bureau
+moi René Comeau je m'engage
+l. Plus de médisence [sic] sur qui se soit ou propos négatif
+2. Problème familial ou personnel restera chez-moi
+3. Faire aucun acte non compétitif ou divulgation renseignement sur la compagnie
+Si pour raison ou une autre je ne peux remplir une de ces trois conditions pour garder harmonie du bureau. Je ne serai plus permis de travailler dans bureau de la compagnie Laboratoire G.M.F.
+Signé à St-Hyacinthe 7485 Duplessis
+GAETAN SARRAZIN
+Directeur Général
+_____________
+René Comeau
+Employé
+26/10/01 René refusé signé [sic]
+(pièce A-8)
+7485, rue Duplessis
+Saint-Hyacinthe (Québec) J2S 8B1
+[...]
+St-Hyacinthe le 31 janvier 2002
+M. René Comeau
+1125 Boul. Casavant apt 6
+St-Hyacinthe Qc
+J2S 7J4
+Monsieur,
+La présente pour vous informer qu'à compter de ce jour, vos services ne sont plus requis au sein de notre compagnie.
+Dû à une nouvelle orientation, la compagnie GMF en est venue à entériner cette décision.
+Nous informons notre assureur et lui demandons d'élider votre nom de la liste des assurés éligibles à notre régime d'assurance collective auquel vous pourrez continuer d'adhérer, si vous le souhaiter, mais à vos charges personnelles.
+Claude Cléroux
+pour
+Laboratoire GMF
+[25] Non seulement l'appelante avait le pouvoir de contrôler, elle a effectivement bel et bien exécuté son pouvoir de réprimande tout en rappelant son ultime pouvoir de congédiement. À cet égard, je me permets de reproduire le contenu des paragraphes 11 et 12 de l'avis d'appel :
+11. Le 31 janvier 2001, l'appelante, exaspérée par des demandes répétées de M. Comeau et surtout par la mollesse de ses réponses, en tant que débiteur, lui fait signer un engagement qui sera invoqué au soutien des présentes, pour qu'il commence à fournir les efforts dans son entreprise et ainsi rendre un peu de considération pour les avantages qui lui ont été consenties; ce document était destiné à fouetter M. Comeau, qui avait de bien belles paroles, mais sans plus et il est allégué que ce document a été signé par M. Comeau sans une volonté réelle de vouloir l'honorer, suivant les faits révélés ci-après; il est allégué que l'appelante, en tant que créancière, était justifiée d'agir ainsi et que l'intimé n'a pas voulu même aborder la question de la faillite de M. Comeau pour le motif que cela ne semblait pas cadrer dans son analyse, d'où son geste de l'occulter tout simplement;
+12. Quelques semaines plus tard, M. Comeau approche l'appelante pour lui faire part qu'il souffrirait d'une maladie psychologique grave qui l'empêcherait, entre autres, de se concentrer et de conduire une automobile et il informe l'appelante qu'il met un terme à son entreprise de façon définitive et il implore l'appelante de l'aider de l'aider encore une fois et celle-ci y consent en convenant d'une entente du 8 mars 2001, qui sera invoquée à la présente, croyant qu'elle se devait d'aider M. Comeau encore une fois étant donné la maladie alléguée; l'appelante allait vivre de façon cruelle l'adage qui veut que la générosité engendre l'ingratitude;
+(Je souligne.)
+[26] La relation juridique entre l'intervenant Comeau et l'appelante était bel et bien une relation d'employeur-employé rencontrant et répondant entièrement aux exigences et critères édictés par la jurisprudence pour être déterminée assurable.
+[27] La relation employeur-employé est d'ailleurs tout à fait conforme aux faits suivants :
+· les cartes d'affaires de l'intervenant étaient payées par l'entreprise de l'appelante;
+· l'intervenant avait un casier à son nom dans les locaux de l'appelante;
+· il avait la possibilité d'utiliser un bureau aux quartiers généraux de l'appelante et d'y faire des appels interurbains aux frais de cette dernière;
+· il devait préparer des comptes-rendus pour être rémunéré - il obtenait des rapports hebdomadaires préparés par l'appelante;
+· il avait l'obligation d'accomplir et d'exécuter un nombre d'heures de travail minimum par semaine;
+· il avait et pouvait suivre des cours de formation organisés par l'appelante;
+· l'appelante fournissait le matériel publicitaire;
+· l'appelante a payé un généreux boni à l'intervenant;
+· l'intervenant a bénéficié de l'accompagnement d'un représentant de l'appelante lors des visites et sollicitations de certains clients;
+[28] Tous ces faits s'inscrivent dans la logique retenue par l'intimé pour conclure à l'assurabilité du travail litigieux. Le fait que l'appelante définisse l'intervenant comme travailleur autonome n'est aucunement pertinent. La jurisprudence a souvent rappelé que l'intention ou le désir d'une partie quant à la définition d'une relation économique n'était pas un élément déterminant pour décider si un travail était assurable ou non.
+[29] Seuls les faits et la façon dont le travail a été exécuté sont pertinents pour décider de l'assurabilité d'un travail. En l'espèce, la prépondérance de la preuve est à l'effet que l'intervenant Comeau, lors de la période en litige, était assujetti à l'autorité et au contrôle de l'appelante. Le travail exécuté l'a été dans un contexte tel qu'il s'agissait bel et bien d'un travail assurable.
+[30] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 12e jour de novembre 2003.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2003CCI776
+No DU DOSSIER DE LA COUR :
+2002-4802(EI)
+INTITULÉ DE LA CAUSE :
+Laboratoire G.M.F. (1983 Inc. et MNR
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 1er octobre 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 12 novembre 2003
+COMPARUTIONS :
+Pour l'appelante :
+Pour l'intervenant :
+Me Michel Messier
+René Comeau
+Pour l'intimé :
+Me Philippe Dupuis
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Ville :
+Me Michel Messier, Avocat
+Saint-Jean sur Richelieu (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

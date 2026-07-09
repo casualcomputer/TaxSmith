@@ -1,0 +1,253 @@
+Title: Merrins v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26526/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-470-26526-merrins-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-07-28
+
+# Merrins v. The Queen
+
+- Citation: 2005 TCC 470
+- Decision date: 2005-07-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3209, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Merrins v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-07-28
+Neutral citation
+2005 TCC 470
+File numbers
+2004-2898(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2898(IT)I
+BETWEEN:
+HUGH MERRINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+By: The Honourable D.G.H. Bowman, Chief Justice
+Written Submissions:
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Michael Ezri
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2000 and 2001 taxation years are dismissed.
+Signed at Ottawa, Canada this 28th day of July, 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2005TCC470
+Date: 20050728
+Docket: 2004-2898(IT)I
+BETWEEN:
+HUGH MERRINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals are from reassessments for the appellant's 2000 and 2001 taxation years. The case proceeded on the basis of written arguments without the appearance of the parties.
+[2] The appellant is and was at the relevant time a resident of Ireland. During the years in question the appellant had three sources of income, all of which originated from Canada and two of which were exempt from tax under the Canada-Ireland Income Tax Agreement, 1967[1] ("Treaty"). The dispute in this case arises out of the alleged taxation of this treaty-exempt income.
+[3] The facts and issues in these appeals are virtually identical to those raised by the same appellant in Merrins v. R., [2002] 4 C.T.C. 2085 (T.C.C.), a case which dealt with the appellant's 1998 taxation year. In Merrins, Justice Rip carefully considered the issues and rendered a decision that was subsequently upheld by the Federal Court of Appeal, [2003] 4 C.T.C. 259. The appeals before me deal with the appellant's 2000 and 2001 taxation years, and thus warrants an independent review of the facts and issues.
+[4] During the taxation years in question, the appellant's world income was as follows:
+2000 2001
+Superannuation payments $ 9,241.08 $ 9,472.00
+Canada Pension Plan ("CPP") payments 6,929.26 6,313.00
+Old Age Security ("OAS") payments 5,079.51 5,232.00
+Total $ 21,249.85 $ 21,017.00
+[5] As the appellant is a non-resident, the above sources of income are subject to withholding taxes under Part XIII of the Income Tax Act.[2] However, in each of the taxation years in question the appellant made a section 217 election to have his tax liability on these amounts determined instead under Part I of the Act.
+[6] Two broad issues arise:
+1) How should the appellant's tax be assessed in the absence of a section 217 election? Although the appellant in fact filed a section 217 election it assists in the analysis to consider the result if he had not.
+2) What is the effect on the appellant's assessment of filing a section 217 election?
+The following subsidiary issues arise in the context of these two issues:
+(a) Are the appellant's OAS payments a "pension" under Article XI of the Treaty such that they are exempt from tax?
+(b) If the appellant's income is assessed under Part XIII of the Act, can he claim the non-refundable tax credits under section 118 in Part I of the Act?
+(c) If the appellant's income is assessed pursuant to an election under section 217 of the Act, is he also able to claim that the terms of the Treaty apply?
+(d) Is the appellant entitled to the pension credit under subsection 118(3) of the Act?
+I will deal with each of these subsidiary issues in the context of the two primary questions.
+1. How should the appellant's tax be assessed in the absence of a section 217 election?
+[7] Under Part XIII, a non-resident person is liable to pay a 25 percent withholding tax on certain types of Canadian source income. This tax generally applies to passive income sources, including superannuation and pension benefits. The provision that is relevant for the present case is paragraph 212(1)(h), which reads:
+212(1) Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to the non-resident person as, on account or in lieu of payment of, or in satisfaction of,
+[...]
+(h) - a payment of a superannuation or pension benefit, other than
+[...]
+(iii.2) an amount referred to in paragraph 110(1)(f) to the extent that the amount would, if the non-resident person had been resident in Canada throughout the taxation year in which the amount was paid, be deductible in computing that person's taxable income or that of the spouse or common-law partner of that person,
+[...]
+[8] Paragraph 212(1)(h) applies to all three of the appellant's sources of income and thus all three sources are subject to a 25 percent withholding tax.[3]
+[9] Subparagraph 212(1)(h)(iii.2) does not assist the appellant. Subparagraph 110(1)(f)(i) permits a deduction for "an amount exempt from income tax in Canada because of a provision contained in a tax convention or agreement with another country that has the force of law in Canada". However, subparagraph 212(1)(h)(iii.2) specifies that this is only to the extent that the amounts would have been deductible "if the non-resident person had been resident in Canadathroughout the taxation year". The tax exemption for pension amounts provided for in the Treaty is only available to a "resident of Ireland", which the Treaty defines as "any person who is resident in Ireland for the purposes of Irish tax and not resident in Canada for the purposes of Canadian tax" (Article II(1)(e)). Therefore, if the appellant had been "resident in Canada throughout the taxation year" the Treaty would not have been available to him. Accordingly, I do not think that subparagraph 212(1)(h)(iii.2) is available to the appellant to reduce the amounts that are to be included as superannuation or pension benefits under paragraph 212(1)(h).
+[10] Many non-residents have the benefit of a tax treaty between Canada and their country of residence. Unless provided otherwise, in the event of a conflict between a provision of a treaty and a provision of the Act, generally the treaty prevails.[4]
+[11] In the present case, the appellant can benefit from the Treaty between Canada and Ireland, the relevant portions of which read as follows:
+Article VI
+1. The rate of Canadian tax on income (other than income from carrying on business in Canada or from performing duties in Canada) derived from sources within Canada by a resident of Ireland shall not exceed 15 percent.
+[...]
+Article XI
+1. Any pension or annuity derived from sources within Canada by an individual who is a resident of Ireland shall be exempt from Canadian tax.
+[...]
+3. The term "pension" means periodic payments made in consideration of past services.
+[...]
+[12] The Treaty overrides subsection 212(1) of the Act in two ways: first, it reduces the rate of withholding tax from 25 percent to 15 percent; and second, it exempts "pension" payments from taxation. For the purposes of the Treaty a pension is defined as "periodic payments made in consideration of past services". While this would include the appellant's superannuation and CPP payments; according to Justice Rip in Merrins, it does not include his OAS payments. Justice Rip wrote:
+[14] ... the eligibility for OAS is not related to the performance of past services, but rather that it is related to age and residency requirements.
+[...]
+[16] In the appeal at bar the appellant's eligibility for OAS is based on the fact that he is over 65 years old and that prior to becoming a non-resident he had resided in Canada for at least 20 years after the year in which he turned 18. Therefore the appellant's OAS payments are not made in consideration for past services such that it would qualify as a pension pursuant to Article XI of the Canada-Ireland Treaty and be tax exempt.
+[13] Since the Treaty exempts the appellant's superannuation and CPP benefits, only his OAS payments are subject to withholding tax under section 212, and then, only at the Treaty reduced tax rate of 15 percent. As a result, the appellant's tax liability in 2000 and 2001 under Part XIII is $761.92 ($5,079.51 x 15%) and $784.80 ($5,232.00 x 15%) respectively.
+[14] To further reduce this tax liability, the appellant argues that he is entitled to claim the Part I non-refundable tax credits, in particular the basic personal credit, the age credit and the pension credit. This is not so for two reasons. First, subsection 214(1) prohibits deductions of any kind from the tax payable pursuant to section 212. Second, the preamble to subsections 118(1), (2) and (3) makes it clear that the non-refundable tax credits are only available to offset tax payable under Part I (Merrins, at paras. 7 to 10).
+2. What is the effect of the section 217 election on the appellant's tax?
+[15] Under subsection 217(2), a non-resident taxpayer can opt out of Part XIII withholding taxes and instead have his taxes calculated under Part I of the Act. The appellant made such an election for each of his 2000 and 2001 taxation years by filing an income tax return (TI-General) for the year.
+[16] Before moving on to how this 217 election works, it would be helpful to review how Part I normally applies to non-residents.
+[17] Under Part I of the Act, Canadian residents are liable for tax on their "taxable income" for the year (subsections 2(1) and (2)). A Canadian resident's taxable income is his income determined under Part I in accordance with Division B less the deductions permitted under Division C.
+[18] Non-residents, on the other hand, are liable for tax under Part I only if certain conditions are met, and then, only on certain types of income. Subsection 2(3) provides that a non-resident person is liable for tax under Part I only if, at any time in the year or a previous year, he or she was employed in Canada, carried on a business in Canada or disposed of a taxable Canadian property. In addition, a non-resident is liable for tax on only the "taxable income earned in Canada" ("TIEC") for the year. A non-resident's TIEC for the year is determined in accordance with Division D. Section 115 of Division D lists the various amounts that must be included in calculating the non-resident's TIEC.[5] Not included in this list are certain types of passive income that are normally subject to tax under Part XIII, such as superannuation and pension benefits. Which brings me back to the section 217 election.
+[19] Under subsection 217(2) a non-resident can elect to have his tax liability with respect to certain amounts determined under Part I rather than under Part XIII. Non-resident taxpayers typically make this election where their tax liability will be lower if calculated under Part I because of the assortment of deductions and credits available under that Part. The amounts that are eligible for this election are described under subsection 217(1) and are collectively called "Canadian benefits". All three of the appellant's sources of income are considered "Canadian benefits" and thus all are eligible for the election.
+[20] When a section 217 election is made, certain important conditions apply. For example, paragraph 217(3)(b) stipulates how the non-resident's TIEC for the year will be determined. Paragraph 217(3)(b) provides that:
+217(3) Where a non-resident person elects under paragraph (2)(b) for a taxation year, for the purposes of Part I
+[...]
+(b) the person's taxable income earned in Canada for the year is deemed to be the greater of
+(i) the amount that would, but for subparagraph (ii), be the person's taxable income earned in Canada for the year if
+(A) paragraph 115(1)(a) included the following subparagraph after subparagraph (i):
+"(i.1) the non-resident person's Canadian benefits for the year, within the meaning assigned by subsection 217(1),", and
+(B) paragraph 115(1)(f) were read as follows:
+"(f) such of the other deductions permitted for the purpose of computing taxable income as can reasonably be considered wholly applicable to the amounts described in subparagraphs (a)(i) to (vi)."; and
+(ii) the person's income (computed without reference to subsection 56(8)) for the year minus the total of such of the deductions permitted for the purpose of computing taxable income as can reasonably be considered wholly applicable to the amounts described in subparagraphs 115(1)(a)(i) to (vi).
+[21] Thus, broadly speaking, paragraph 217(3)(b) deems the non-resident's TIEC to be the greater of the following two amounts:
+(i) his TIEC for the year as determined under Division D plus his "Canadian benefits" (subparagraph 217(3)(b)(i)); and
+(ii) his (world) income for the year (subparagraph 217(3)(b)(ii)).
+[22] Subparagraph 217(3)(b)(i) provides that a non-resident's TIEC for the year is to be determined in accordance with Division D (i.e. the usual way in which a non-resident's income is determined under Part I).[6] However for the purposes of this subparagraph section 115 of Division D is modified so that the non-resident's Canadian benefits are included in his TIEC for the year (clause 217(3)(b)(i)(A)). The purpose of this modification is obvious: it is the method through which amounts that are normally taxed under Part XIII are brought under Part I.
+[23] Within the context of subparagraph 217(3)(b)(i), the non-resident also has access to all the deductions that are available under Division D. In particular, the following:
+115(1)(d) ... to the extent that they relate to amounts included in computing the amount determined under any of paragraphs (a) to (c), the deductions permitted by any of paragraphs 110(1)(d) to (d.2) and (f) and subsection 100.1(1), ...,
+[...]
+(f) such of the other deductions permitted for the purpose of computing taxable income as can reasonably be considered wholly applicable to the amount described in subparagraph (a)(i) to (vi) (as amended by clause 217(3)(b)(i)(B).
+Subparagraph 110(1)(f)(i) provides:
+110(1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such of the following amounts as are applicable:
+[...]
+(f) ... any amount that is
+(i) an amount exempt from income tax in Canada because of a provision contained in a tax convention or agreement with another country that has the force of law in Canada,
+[...]
+to the extent that it is included in computing the taxpayer's income for the year;
+[24] In this case, the Minister assessed the appellant's TIEC under subparagraph 217(3)(b)(i) to be $5,079.51 in 2000 and $5,232.00 in 2001. These amounts represent the appellant's income that is not treaty-exempt, namely his OAS payments.
+[25] Subparagraph 217(3)(b)(ii) is much broader than subparagraph (i): it takes into account the non-resident's world-wide income. This would include not only the amounts determined under subparagraph 217(3)(b)(i) (namely, Canadian sources that are taxable under Part I and Canadian sources that are taxable under Part XIII but eligible for the section 217 election) but also all other amounts such as the amounts that are not eligible for the section 217 election, foreign income and treaty-exempt income.
+[26] In this case, the Minister assessed the appellant's TIEC under subparagraph 217(3)(b)(ii) to be $21,249.85 in 2000 and $21,017.00 in 2001. These amounts represent all three of the appellant's sources of income. Since the appellant's TIEC is deemed to be the greater of the amounts determined under subparagraphs 217(3)(b)(i) and (ii), the Minister determined the appellant's TIEC for the 2000 and 2001 taxation years to be $21,249.85 and $21,017.00 respectively.
+[27] Respondent's counsel provided the following rationale for taking treaty-exempt income into consideration when a section 217 election is made:[7]
+The purpose of section 217 of the Act is to permit a non-resident to pay tax on non-treaty exempt income, computed under Part I of the Act where non-refundable tax credits are available to reduce the tax payable. Treaty exempt income is only included in computing income under section 217 to ensure that a proper amount of tax is paid on the sources of income that Parliament is entitled to tax. (Ministry of Finance, Technical Notes s. 217).
+[28] Section 217 exists purely for the benefit of non-residents who are subject to a higher level of tax under Part XIII than they would be if they were resident in Canada and subject to tax under Part I. However, to ensure that a non-resident is taxed at a level that is consistent with the level he would be taxed at if he were resident in Canada, section 217 provides that his world income be taken into consideration (as would be the case with a Canadian resident).[8]
+[29] Of course, a non-resident's world income often includes amounts that are not normally subject to tax under Part I, such as foreign income, treaty-exempt income or other amounts that are not eligible for the section 217 election (collectively "non-taxable amounts"). Although these non-taxable amounts are taken into consideration to ensure the appropriate level of tax is imposed on the taxable amounts, the non-taxable amounts themselves are not supposed to be subject to tax. For this reason, subsection 217(6) provides a special tax credit that is intended to offset that portion of the Part I tax that is attributable to these non-taxable amounts. Subsection 217(6) reads as follows:
+217(6) In computing the tax payable under Part I for a taxation year by a non-resident who elects under paragraph (2)(b) for the year, there may be deducted the amount determined by the formula
+A × [(B - C) / B]
+where
+A is the amount of tax under Part I that would, but for this subsection, be payable by the person for the year;
+B is the amount determined under subparagraph (3)(b)(ii) in respect of the person for the year; and
+C is the amount determined under subparagraph (3)(b)(i) in respect of the person for the year.
+[30] In accordance with section 217, the Minister reassessed[9] the appellant for taxes under Part I as follows:[10]
+2000 2001
+Superannuation benefits $ 9,241.08 $ 9,472.00
+CPP payments 6,929.26 6,313.00
+OAS payments 5,079.51 5,232.00
+Net world income per s. 217(3)(b)(ii) $ 21,249.85 $ 21,017.00
+Part I tax rate 17% 16%
+Part I tax $ 3,612.33 $ 3,362.72
+Non-refundable tax credits per s. 118[11] (1,829.00) (1,764.00)
+Part I tax before s. 217(6) adjustment 1,783.33 1,598.72
+S. 217(6) adjustment (1,357.00) (1,200.00)
+Sub-total 426.33 398.72
+Non-resident surtax (48% of sub-total)[12] 204.67 191.38
+Net tax $ 631.00 $ 590.10
+The subsection 217(6) tax adjustments were calculated as follows:
+2000 2001
+[1] Net world income per s. 217(3)(b)(ii) $ 21,249.85 $ 21,017.00
+[2] Taxable income per s. 217(3)(b)(i) (5,079.51) (5,232.00)
+[3] Sub-total $ 16,170.34 $ 15,785.00
+Part I tax before s. 217(6) adjustment $ 1,783.33 $ 1,598.72
+Line [3] divided by line [1] 76% 75%
+S. 217(6) adjustment (tax attributable
+to line [3]) $ 1,357.00 $ 1,200.00
+[31] For the 2000 and 2001 taxation years the appellant's net tax liability under Part I was $631.00 and $590.10 respectively. This is lower than what his tax liability would have been under Part XIII ($761.92 and $784.80 in 2000 and 2001 respectively).
+[32] The appellant takes issue with the Minister's reassessments on the basis that his treaty-exempt income was subject to tax that was not fully offset by the special credit provided for under subsection 217(6). The following are the appellant's calculations:
+2000 2001
+Superannuation benefits $ 9,241.08 $ 9,472.00
+CPP payments 6,929.26 6,313.00
+Treaty exempt income $ 16,170.34 $ 15,785.00
+Part I tax rate 17% 16%
+Part I tax on treaty exempt income[13] $ 2,748.90 $ 2,525.60
+S. 217(6) adjustment (1,546.21) (1,200.00)
+Net tax on treaty exempt income $ 1,202.69 $ 1,325.60
+[33] According to the appellant, the special credit under subsection 217(6) compensates for only about one-half of the tax levied on his treaty-exempt income. To remedy this problem, the appellant requests that either his treaty-exempt income be excluded from his TIEC (under paragraph 217(3)(b)) or that the subsection 217(6) adjustments be increased so that they equal the tax levied against the treaty-exempt income (i.e. $2,748.90 and $2,525.60 respectively).
+[34] While I see the appellant's point, with respect, I do not agree with his conclusions. Indeed, I do not have the power to make the adjustments he requests.
+[35] In both of the appellant's 2000 and 2001 taxation years the section 217 election allowed him to benefit from non-refundable tax credits that would not otherwise be available to him and as a result his tax liability was reduced. The effect of bringing the appellant's treaty-exempt amounts into income was merely to increase the rate of tax levied on his taxable income. The special tax credit provided for under subsection 217(6) fully offset that portion of the tax liability which was attributable to the treaty-exempt income. Accordingly, the appellant has received the full benefit available under the Treaty.
+[36] With respect to the pension credit under subsection 118(3), Justice Rip in Merrins wrote:
+[37] Subsection 118(8) defines for the purpose of subsection 118(3) "pension income" which is eligible for the pension credit. Subsection 118(8) excludes from the definition "pension income" OAS, CPP and amounts included in income that would otherwise be "pension income" but which the taxpayer has taken a deduction for under another provision of the Act. The relevant portion of subsection 118(8) reads:
+For the purposes of subsection (3), "pension income" and "qualified" pension income" received by an individual do not include any amount that is
+(a) the amount of a pension or supplement under the Old Age Security Act or of any similar payment under a law of a province;
+(b) the amount of a benefit under the Canada Pension Plan or under a provincial pension plan as defined in section 3 of that Act;
+. . .
+(d) the amount, if any, by which
+(i) an amount required to be included in computing the individual's income for the year
+exceeds
+(ii) the amount, if any, by which the amount referred to in subparagraph (i) exceeds the total of all amounts deducted by the individual for the year in respect of that amount; or
+. . .
+[38] Subsection 118(8) clearly states that OAS and CPP are not "pension income". Therefore the appellant is not entitled to the credit with respect to these two items.
+[39] When electing to be taxed under section 217 of the Act a taxpayer may still claim the "additional deductions" on line 256 of T1-General for treaty exempt income. In the present appeal the figure claimed at line 256 is $15,031.56, which includes a deduction of $9,023.28 for superannuation income.
+[40] In the appeal at bar the appellant has taken a deduction, on line 256 of his T1-General, pursuant to paragraph 110(1)(f) for his superannuation income that is exempt by virtue of the Canada-Ireland Treaty. As such his superannuation income which would normally be eligible for a pension credit is not eligible and the credit is accordingly denied.
+[41] At first blush it appears as though the appellant is being improperly denied the pension credit with respect to his superannuation income because the deduction of his superannuation income (claimed on line 256 of his tax return) does not figure into the calculation of the appellant's tax payable in schedule 1 of his tax return. However, pursuant to subsection 217(6) of the Act the appellant received a tax adjustment of $1,015.00. The tax adjustment effectively credits tax calculated under section 217 of the Act on treaty exempt income.
+[37] In his 2000 and 2001 income tax returns, the appellant again deducted his CPP and superannuation payments pursuant to subparagraph 110(1)(f)(i), and again he received a tax credit pursuant to subsection 217(6) which effectively offset the tax calculated with respect to that treaty-exempt income. Accordingly, the appellant is not entitled to the pension credit provided for under subsection 118(3).
+[38] The appeals are dismissed.
+Signed at Ottawa, Canada this 28th day of July, 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2005TCC470
+COURT FILE NO.:
+2004-2898(IT)I
+STYLE OF CAUSE:
+Hugh Merrins v.
+Her Majesty The Queen
+PLACE OF HEARING:
+DATE OF HEARING:
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT:
+July 28, 2005
+WRITTEN SUBMISSIONS:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Michael Ezri
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] S.C. 1966-1967, Part II, c. 75.
+[2] R.S.C. 1985 (5th Supp.), c. 1.
+[3] OAS and CPP payments are considered "pension benefits" for the purposes of the Act. Subsection 248(1) defines "superannuation or pension benefit" as including "any amount received out of or under a superannuation or pension fund or plan ...". Since "pension fund" is not defined in the Act, this definition is not very helpful. However, it is evident from the provisions of the Act that Parliament intended OAS and CPP to be classified as pensions for the purposes of the Act. For example, prior to 1996 paragraph 212(1)(h) read:
+(h) - a payment of a superannuation or pension benefit, other than
+(i) a pension or supplement under the Old Age Security Act or a similar payment under a law of a province,
+(ii) a benefit under the Canada Pension Plan or a provincial pension plan as defined in section 3 of that Act,
+[...]
+This provision presumes that OAS and CPP payments are pension benefits and then expressly excludes them from section 212 withholding tax. This language is similar to that used in paragraph 118(8)(b). See also paragraph 56(1)(a), which includes OAS and CPP payments as pension benefits, and the language used in subsections 56(2) and (4), section 74.1 and subsection 180.2(2).
+[4] Part II, paragraph 5(2) of the Canada-Ireland Income Tax Agreement Act, 1967, reads:
+"In the event of any inconsistency between the provisions of this Part, or the Agreement, and the operation of any other law, the provisions of this Part and the Agreement prevail to the extent of the inconsistency."
+[5] For example, income from employment performed in Canada (s. 115(1)(a)(i)); income from business carried on in Canada (s. 115(1)(a)(ii)); and taxable capital gains from the disposition of taxable Canadian property (s. 115(1)(a)(iii) and 115(1)(b)). Section 115 also permits the deduction of certain losses and deductions that are related to these amounts.
+[6] On a T1-General, this would be the non-resident's "taxable income" found on line 260.
+[7] Respondent's Written Submissions at para. 26.
+[8] Prior to 1997 section 217 only took into account the non-resident's Canadian source income. As a result, pension income was often subject to a lower rate of tax in the hands of a non-resident who elected under section 217 to have Part I apply than in the hands of a Canadian resident with the same level of world-wide income. To ensure "fair taxation of all pension recipients", the 1996 Budget amended section 217 so that "the pensions of non-resident pension recipients would be taxed on the basis of world-wide income". The amendments were intended to eliminate the "tax benefit" that was "unavailable to Canadian residents". (Minister of Finance Paul Martin, Budget in Brief, March 6, 1996.) This intention was confirmed in the December 6, 1996 Explanatory Notes to these amendments, which read:
+Section 217 is amended, for the 1997 and subsequent taxation years, to provide that in determining the Part I tax rate that applies where a non-resident elects under the section, the non-resident's non-Canadian income (and Canadian-source income subject to Part XIII but not eligible for the section 217 election) is taken into consideration. This will not mean that Canada will tax that other income under Part I, but only that the foreign income may increase the rate of tax that applies to the non-resident's Canadian-source Part I income.
+[9] This refers to the final reassessments dated September 22, 2003 for the appellant's 2000 taxation year and August 15, 2003 for his 2001 taxation year.
+[10] Data from the Minister's Reply, para. 7, and Schedules B and C to the Reply.
+[11] This amount includes the basic personal tax credit (s. 118(1)(c)) and the age credit (s.118(2)), but does not include the pension credit (s. 118(3)).
+[12] Subsection 120(1) imposes a surtax on amounts not earned in a province which approximates the amount of provincial taxes that would normally be payable.
+[13] Exclusive of the 48% surtax under subsection 120(1).

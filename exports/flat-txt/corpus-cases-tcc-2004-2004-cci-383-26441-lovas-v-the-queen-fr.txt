@@ -1,0 +1,86 @@
+Title: Lovas v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26441/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-383-26441-lovas-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-05-21
+
+# Lovas v. The Queen
+
+- Citation: 2004 CCI 383
+- Decision date: 2004-05-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3192, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lovas v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-21
+Référence neutre
+2004 CCI 383
+Numéro de dossier
+2003-1982(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI383
+Date : 20040521
+Dossier : 2003-1982(IT)I
+ENTRE :
+ROLAND LOVAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Révisés à partir des motifs rendus à l'audience à
+Toronto (Ontario), le 6 janvier 2004)
+Le juge Woods
+[1] Roland Lovas a interjeté appel à l'encontre d'une cotisation fiscale pour l'année d'imposition 2000 relativement à une indemnité obtenue en règlement d'une poursuite fondée sur un congédiement injustifié. M. Lovas a reçu un chèque de 25 000 $ qui, selon le procès-verbal de règlement, devait constituer un paiement net. L'employeur a versé 5 541,07 $ au titre de retenues d'impôt à la source ainsi que d'autres sommes au titre des cotisations au Régime de pensions du Canada et à l'assurance-emploi.
+[2] Dans sa déclaration de revenus, M. Lovas a inclus dans le calcul de son revenu brut le montant correspondant à la somme du paiement de 25 000 $ et des paiements versés au titre des retenues à la source. Même si aucun élément de preuve n'établit le montant de la somme imposée par le ministre, il semble que ce dernier ait accepté la somme déclarée par M. Lovas à titre de revenu brut.
+[3] L'appel interjeté par M. Lovas se fonde sur deux moyens :
+1. Il soutient que l'employeur n'a pas effectué des retenues d'impôt suffisantes et que c'est contre ce dernier, et non contre lui, que le ministre devrait introduire une procédure fondée sur cette omission.
+2. Selon lui, comme les retenues d'impôt à la source étaient insuffisantes, la somme qui aurait dû être déduite à titre de retenue à la source devrait être ajoutée au montant du revenu brut inscrit dans la déclaration.
+[4] En ce qui concerne le premier moyen, j'estime ne pas avoir compétence en matière de recouvrement de l'impôt payable et il m'est donc impossible d'accorder la réparation demandée par M. Lovas. Il lui faudrait s'adresser à un autre tribunal à cet égard, peut-être à la Cour fédérale du Canada. Il semble toutefois y avoir une certaine confusion quant à la question de savoir s'il existe réellement un montant d'impôt payable au titre de l'action pour congédiement injustifié, et je crois que M. Lovas devrait, à ce propos, s'adresser à l'avocat de l'intimée ou à toute autre représentant de l'ADRC que ce dernier désignera.
+[5] Quant au second moyen, je ne pense pas qu'il serait opportun d'augmenter le montant du revenu brut. Cette question n'est pas vraiment distincte du premier point soulevé puisque M. Lovas paraît demander que ce qu'il estime être le montant exact d'impôt payable soit obtenu de son ancien employeur. Comme je l'ai déjà signalé, je n'ai pas compétence pour accorder cette réparation; je refuse donc d'augmenter le revenu brut de M. Lovas et, par conséquent, le montant d'impôt payable.
+[6] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 21e jour de mai 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+Jacques Deschênes, LL.B.
+RÉFÉRENCE :
+2004CCI383
+NO DU DOSSIER DE LA COUR :
+2003-1982(IT)I
+INTITULÉ DE LA CAUSE:
+Roland Lovas c. La Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 6 janvier 2004
+MOTIFS DU JUGEMENT PAR :
+Mme la juge Woods
+DATE DES MOTIFS DU JUGEMENT :
+Le 21 mai 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me A'Amer Ather
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

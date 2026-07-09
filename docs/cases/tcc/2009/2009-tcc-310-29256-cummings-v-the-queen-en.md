@@ -1,0 +1,198 @@
+---
+title: "Cummings v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29256/index.do"
+last_modified: "2009-06-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 310"
+citation2: ""
+neutral_citation: "2009 TCC 310"
+decision_date: "2009-06-05"
+language: "en"
+item_id: "29256"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6996
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:13:27.441000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3964519c8ed6431c63a8ea322865dadec2536e1d065c34915adf26594cbf9b20"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cummings v. The Queen
+
+- Citation: 2009 TCC 310
+- Decision date: 2009-06-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6996, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cummings v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-06-05
+Neutral citation
+2009 TCC 310
+File numbers
+2007-1059(IT)G
+Judges and Taxing Officers
+James K. Hugessen
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1059(IT)G
+BETWEEN:
+ROBERT CUMMINGS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 25 and 26, 2009, at Vancouver, British Columbia
+Before: The Honourable James K. Hugessen
+Appearances:
+Counsel for the Appellant:
+Kim Hansen
+Counsel for the Respondent:
+Robert Carvalho
+____________________________________________________________________
+JUDGMENT
+The appeal of reassessment made under the Income Tax Act for the 2000 taxation year is dismissed with costs.
+Signed at Ottawa, Canada, this 5th day of June 2009.
+“James K. Hugessen”
+Hugessen D. J.
+Citation: 2009 TCC 310
+Date: 20090605
+Docket: 2007-1059(IT)G
+BETWEEN:
+ROBERT CUMMINGS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hugessen D. J.
+[1] This is an appeal pursuant to paragraph 169(1)(b) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (the Act). The Appellant appealed reassessments issued by the Minister for the 2000 and 2004 taxation years in respect of losses accruing to the Appellant arising from investments in a limited partnership. The appeal in respect of the year 2004 was subsequently abandoned and is no longer in issue.
+FACTS
+[2] The parties have filed with the Court a Statement of Agreed Facts. In addition some evidence was heard but it added little to what was revealed in the documents. Those facts which are relevant to my analysis are as follows.
+[3] At all times relevant to this appeal, the Appellant owned units in a tax shelter limited partnership (the Norfolk Partnership, herein “Norfolk”). The general partner of Norfolk is Norfolk GP. Pursuant to subsection 165(1.15) of the Act, Norfolk GP was also the “Designated Partner” of Norfolk. (Under subsection 165(1.15) of the Act, the Designated Partner of a partnership is vested with certain rights on behalf of all members of a partnership. This includes the sole right to object to assessments made in respect of the partnership.
+[4] For the taxation year ending December 31, 2000, the Appellant was allocated, and claimed on his personal income tax a proportionate share of Norfolk’s partnership losses.
+[5] The Norfolk Partnership was involved in the production of films and television shows with other limited partnerships including the Sentinel Hill Alliance Equicap Millennium Limited Partnership (the Sentinel Hill Partnership), and Glenelg 2000-1 Master Limited Partnership (Glenelg-1) and Glenelg 2000-2 Master Limited Partnership (Glenelg-2). All of these partnerships were “associated” in the sense that they had common promoters.
+[6] The Minister, acting through the Canada Revenue Agency (the CRA) conducted an audit of Norfolk, as well as the Sentinel Hill and Glenelg Partnerships in respect of losses claimed for the 2000 taxation year. The auditor of the Norfolk partnership was the witness Mr. Chan.
+[7] During the course of March 2004, counsel for the CRA and the Norfolk, Sentinel Hill and Glenelg Partnerships engaged in settlement discussions to resolve adjustments proposed by the CRA arising from the audit. This resulted in a letter “agreement” signed by both counsel dated March 31, 2004. The text of that letter is as follows:
+March 31, 2004
+Mr. Neil H. Harris
+Goodmans LLP
+Barristers & Solicitors
+250 Yonge Street
+Suite 2400
+Toronto, Ontario
+M5B 2M6
+Dear Mr. Harris:
+Re: Sentinel Hill Alliance Equicap Millennium
+Limited Partnership (the “Partnership”)
+We refer to your settlement letter of March 29, 2004, and your covering letter of the same date, and subsequent discussions. We confirm the agreement reached that follows, but before doing so, we do mention to you that it has been our firm position throughout that we cannot, and have not communicated to you any information including possible assessing positions regarding the treatment of other taxpayers involved in potentially similar transactions. You have understood and agreed with this position, although we are aware that you emphasized the importance from your perspective that similar principles be applied to other transactions.
+The Canada Revenue Agency (“CRA”) has agreed to make determinations of the income and loss of the Partnership (“Sentinel Hill 2000”) and its related production services limited partnership (the “PLPs”) for their 2000 and 2001 taxation years in respect of production services transactions carried out by the Partnership and the PLPs, on the following basis:
+1. Except as set out below, the losses realized by the Partnership and the PLPs will be allowed as claimed by each of them in respect of their 2000 and 2001 taxation years.
+2. Fees paid by the PLPs to various movie and television production studios, totaling approximately $55.8 million in 2000, will be accorded Class 14 treatment and deductible under paragraph 20(1)(a) of the Income Tax Act (Canada) (the “Act”) on the following basis:
+Taxation Percentage
+Year Deductible
+2000 20
+2001 20
+2002 15
+2003 15
+2004 15
+2005 5
+2006 5
+2007 5
+________
+TOTAL 100
+3. With respect to the total remaining fees claimed by the Partnership and the PLPs in their 2000 taxation years of approximately $109 million in the aggregate:
+1. $55,494,000 of Management fees will be allowed as claimed.
+2. $40 million of the aggregate of the amounts claimed as Producer Referral Fees and financing Fees will be disallowed.
+4. With respect to the 2001 taxation year for the Partnership and the PLPs, the deductibility of the Management Fee will be treated on a basis consistent with the treatment set out in paragraph 3 above. The Financing Fee will be disallowed by the amount of $14,250,000.
+5. Based upon the issuance of notices of determination pursuant to subsection 152(1.1) of the Act in accordance with paragraphs 1 to 4 above, the Partnership and the PLPs will not pursue their rights to appeal such determinations and, accordingly, will not file Notices of Objection to such determinations pursuant to section 165 of the Act.
+6. CRA agrees to make determinations of the income or loss of the two Glenelg Limited Partnerships and the Norfolk Master Limited Partnership (or assessments of individual investors should determinations not be possible), on the basis consistent with paragraphs 1 to 4 above provided that the production services transactions carried out by these partnerships and their related production services limited partnerships were substantially similar to the transactions carried out by the Partnership and the PLPs; the CRA has the right to audit to determine if the transactions are substantially similar. The aforementioned Partnerships and or investors will not object or appeal.
+7. The Partnership and the PLPs will not seek any interest waiver with respect to determinations of the income and loss for their 2000 and 2001 taxation years in respect of production services transactions carried out by the Partnership and the PLPs determinations.
+8. Any determinations of the income and loss of Sentinel Hill Partnerships and related production services limited partnerships (the “PLPs”) for their 1998 and 1999 taxation years in respect of production services transactions carried out by the Partnership and the PLPs, remain with the Appeals Division of the CRA, to be determined through the normal process.
+And it is agreed that any assessments or determinations of the income and loss of any “2001” Sentinel Hill Partnership and related production services limited partnerships (the “PLPs”) for their 2001 and following taxation years in respect of production services transactions carried out by the Partnership and the PLPs, remain open to audit by the CRA.
+Kindly approve and fax back to Ian MacGregor (613) 941-1221 as soon as possible.
+Yours truly,
+Ian S. MacGregor
+Assistant Deputy Attorney General
+Tax Law Services
+Accepted by: Dated:
+Neil H. Harris March 31, 2004
+[8] It is common ground that the date of the letter March 31, 2004, was the last day by which the CRA could issue a determination pursuant to subsection 152(1.4) of the Act.
+[9] On the same day, shortly after the settlement letter was issued and signed by both parties, the CRA issued and posted a determination for the Norfolk Partnership.
+[10] About a month later on April 29, 2004, a Ms. Chadwick, representing the promoters of Sentinel Hill and the other partnerships got in touch with Mr. Chan, the auditor for CRA, to advise that she had discovered an error in the determinations. The amount was relatively minor in the overall scale of these transactions and amounted to an expense of approximately $230,000 too much having been allowed to the taxpayer. Mr. Chan in his evidence readily admitted the error and, since the time for the determination had expired, he found another, if somewhat irregular, way if not of correcting the error but of arriving at an approximately similar overall result. There is no issue on this appeal concerning Mr. Chan's actions.
+[11] On June 24, 2004, Norfolk filed an objection to the March 31st determination in respect of the Norfolk Partnership. The objection was subsequently “withdrawn” on November 10, 2004 and the Minister shortly thereafter confirmed the determination on November 26, 2004.
+[12] On August 22, 2005, the CRA issued Notices of Reassessment against the Appellant in respect of the 2000 and 2004 taxation years in order to give effect to the March 31, 2004 determination in respect of the Norfolk Partnership. Further reassessments against the Appellant (the Final Reassessments) were issued on May 30, 2006. On August 30, 2006, the Appellant served the CRA with a Notice of Objection to the Final Reassessments and in due course appealed to this Court. As earlier indicated, the appeal in respect of the 2004 taxation year has now been withdrawn.
+THE POSITIONS OF THE PARTIES AND THE ISSUES
+[13] As indicated, the appellant had claimed his share of the partnership expenses in his return for the year 2000 and had initially been assessed on that basis. The “normal reassessment period”, defined in subsection 152(3.1) of the Act, had expired prior to the August 25, 2005 reassessment of the Appellant’s 2000 taxation year because more than three years had elapsed since the date of the initial assessment. The Minister’s right to reassess, if it exists, can therefore only be in virtue of the operation of paragraph 152(1.7)(b):
+152. (1.7) Where the Minister makes a determination under subsection 152(1.4) or a redetermination in respect of a partnership,
+(a) …
+b) notwithstanding subsections 152(4), 152(4.01), 152(4.1) and 152(5), the Minister may, before the end of the day that is one year after the day on which all rights of objection and appeal expire or are determined in respect of the determination or redetermination, assess the tax, interest, penalties or other amounts payable and determine an amount deemed to have been paid or to have been an overpayment under this Part in respect of any member of the partnership and any other taxpayer for any taxation year as may be necessary to give effect to the determination or redetermination or a decision of the Tax Court of Canada, the Federal Court of Appeal or the Supreme Court of Canada.
+152. (1.7) Les règles suivantes s’appliquent lorsque le ministre détermine un montant en application du paragraphe (1.4) ou détermine un montant de nouveau relativement à une société de personnes :
+a) …
+b) malgré les paragraphes (4), (4.01), (4.1) et (5), le ministre peut, avant la fin du jour qui tombe un an après l’extinction ou la détermination des droits d’opposition et d’appel relativement au montant déterminé ou déterminé de nouveau, établir les cotisations voulues concernant l’impôt, les intérêts, les pénalités ou d’autres montants payables et déterminer les montants réputés avoir été payés, ou payés en trop, en vertu de la présente partie relativement à un associé de la société de personnes et à tout autre contribuable pour une année d’imposition pour tenir compte du montant déterminé ou déterminé de nouveau ou d’une décision de la Cour canadienne de l’impôt, de la Cour d’appel fédérale ou de la Cour suprême du Canada.
+[14] The appellant's position is that his right to object to the Minister’s determination of March, 31, 2004, was waived by paragraph 6 of the settlement letter of the same date. Accordingly, the appellant’s rights to object to the determination had “expired or were determined” on that date and the reassessment made August 22, 2005, was more than one year later and out of time.
+[15] The Minister’s position is that the appellant did not unconditionally waive all his rights to object or appeal in the March 31, 2004 letter and that such waiver was only effective provided that the redetermination with respect to Norfolk was made on a “basis consistent with paragraphs 1 to 4” of the settlement letter. It is argued that this proposition is demonstrated by the fact that an objection to the determination was in fact made on Norfolk’s behalf and was dealt with by the Minister in the months following March 2004. The one year period set out in paragraph 152(1.7)(b) accordingly did not start to run until the appellant's rights to appeal the Minister’s confirmation of the determination (said to be one year and 90 days after the date of such confirmation).
+ANALYSIS
+[16] To the extent that it is necessary to decide the point, I do not agree with the construction placed by the appellant on the words of paragraph 152(1.7)(b). It is his view that because his rights of objection and appeal had been waived by Norfolk in the March 31, 2004 letter those rights had expired and been determined by that waiver. But the evidence is clear, and the internal logic of the text of the letter itself confirms this, that the “settlement letter” was prior in time to the Minister’s determination of the same date. It is difficult to see how a right of objection or appeal can be said to have “expired” or been “determined” before it has ever even come into existence which manifestly could not have happened until the determination itself had been issued.
+[17] The purpose of paragraph 152(1.7)(b) is clearly to extend the time in which the Minister may reassess in the given circumstances. That extension is triggered not by the Minister himself but by the taxpayer’s own action or inaction in objecting or appealing the Minister’s moves (in this case the determination) or in failing to do so. If the taxpayer objects or appeals the Minister’s time for reassessing is extended to one year after the time when that objection or appeal is determined; if the taxpayer does nothing, the Minister’s time for reassessment is extended to one year after the last day on which the taxpayer could have acted.
+[18] While the English version of the statute uses the verb “expire” the French text uses the noun “extinction”. This carries with it the same notion of time sensitivity although slightly different: what has expired has done so because of the passage of time; what is extinct is something which has previously existed but now exists no more. In neither case, however, would we talk of something expiring or becoming extinct if that thing had never come into being in the first place.
+[19] By the same token, I am satisfied that when the text (in both languages) speaks of rights of objection or appeal being “determined” it is referring not to the mere procedural right to launch an appeal but rather to the substantive right which is the basis thereof. Only the Act itself creates and lays down the procedures for objection and appeal which are accordingly effectively immutable and “determined” in advance; when an objection or appeal is launched, however, the various bodies named in the Act (including this Court) are empowered to “determine” and decide the substantive rights asserted. And it is only after that has happened that both parties know what their respective rights are and the Minister can assess or reassess the tax due. That, of course, may be many years after the Minister would, but for the text of paragraph 152(1.7)(b), have lost any right to reassess.
+[20] But whatever may be the reach of the words of paragraph 152(1.7)(b), I am satisfied that the words of paragraph 6 of the March 31, 2004 letter did not have the effect contended for them by the appellant. That letter is referred to by both parties, and in the text of the document itself, as a “settlement” and as an “agreement”. While it is common ground and I accept that the normal rules of the interpretation of contracts should apply and that the Court’s task is to search out what the parties intended by the words they used read in their total context, it is important to bear in mind that, despite appearances, the letter is not a contract in any ordinary sense of the word. It does not bind the Minister who is under a statutory obligation to assess tax in accordance with the facts as he understands them and with the terms of the Act. (See Cohen v. Queen, 80 DTC 6250, (FCA)).
+[21] And since the Minister cannot be held to the terms of his “agreement” neither can the taxpayer. The words of former Chief Justice Bowman in Consoltex Inc. v. Canada, 97 DTC 724, are apt.
+The result of the decision in Cohen is that the Minister is free to repudiate any agreement that he has made with respect to the manner in which he assesses a taxpayer. It follows necessarily that a taxpayer who has made a deal with the Minister is equally free to do so. Any conclusion that the Minister is not bound by agreements but the taxpayer is would be wholly unacceptable as a matter of principle. Binding agreements must be premised upon mutuality and reciprocity of obligations between the parties. There can obviously be no agreement where one party is bound and one is not.
+[22] Does this mean then that the letter agreement of March 31, 2004, is simply to be treated as void and a nullity? I think not. It was negotiated by experienced and senior tax counsel and it is repugnant to think that they would knowingly have signed a meaningless scrap of paper. Furthermore, there is an obvious public interest to be served in encouraging the parties to any litigation to settle their differences without going to the expense (much of it borne by the public purse) of a trial and this is arguably even more compelling a consideration in litigation involving income tax. Within the constraints imposed by the rationale of the Cohen case, the Court should strive to encourage and give effect to settlements freely arrived at by the parties to tax litigation. Fortunately, in my view, the means of doing so are not difficult to find. Settlements of this kind, and this one is no exception, commonly involve a waiver by the taxpayer of his rights to appeal. Such waivers are specifically permitted by the Act and there is nothing to prevent them being made subject to conditions.
+[23] Thus, in my view, the Court can and should read the provisions of paragraph 6 of the March 31, 2004 letter in this case in a way which will give them meaning and effect in law as being a waiver by the taxpayer subject to the stated condition that the CRA will issue a determination “on the basis consistent with paragraphs 1 to 4 above”.
+[24] Furthermore, this seems to have been the construction which was placed on the March 31, 2004 letter by both Norfolk and the Minister. In the Notice of Objection filed by the former the operative paragraphs of the Notice set forth the grounds of the objection as follows:
+4. The Determination was purportedly issued by the CRA in accordance with a negotiated settlement agreement entered into between the CRA and the Partnership on March 31, 2004 (the “Agreement”).
+5. The Determination does not however, accurately represent the terms of the Agreement.
+[25] The Minister, for his part, also treated the objection in the normal way and not as being, as the appellant now argues, “void ab initio”.
+[26] Thus, while I do not find the letter to be difficult to interpret in such a way as to give it meaning and validity, any possible ambiguity would be resolved by the conduct of the parties to it in the months immediately following its date. The evidence of such conduct is largely documentary but to the extent that it relies on the evidence of witnesses called by the Minister and objected to by the appellant, those objections, having been reserved by me, are now dismissed.
+[27] Thus, the appellant, who had no rights of objection or appeal in respect of the March 31, 2004 determination (those rights belonging exclusively to and having been exercised by Norfolk GP) was bound by the results of that determination. Norfolk’s rights of objection were determined when the Minister issued his confirmation on November 26, 2004, and it did not exercise its further rights of appeal therefrom. The very existence of those rights, however, whether or not they were exercised, has the effect of even further extending the period within which the Minister could issue his reassessment. The Minister’s reassessment of the appellant’s tax for the 2000 year on August 22, 2005, was accordingly well within the time limit set by paragraph 152(7.4)(b) and the appeal must be dismissed.
+[28] The appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 5th day of June 2009.
+“James K. Hugessen”
+Hugessen D.J.
+CITATION: 2009 TCC 310
+COURT FILE NO.: 2007-1059(IT)G
+STYLE OF CAUSE: ROBERT CUMMINGS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 25 and 26, 2009
+REASONS FOR JUDGMENT BY: The Honourable James K. Hugessen
+DATE OF JUDGMENT: June 5, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Kim Hansen
+Counsel for the Respondent:
+Robert Carvalho
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Kim Hansen
+Firm: Kim Hansen Law Corporation
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

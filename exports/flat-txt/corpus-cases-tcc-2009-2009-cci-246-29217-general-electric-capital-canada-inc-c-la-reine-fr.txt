@@ -1,0 +1,145 @@
+Title: General Electric Capital Canada Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29217/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-246-29217-general-electric-capital-canada-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-04-30
+
+# General Electric Capital Canada Inc. c. La Reine
+
+- Citation: 2009 CCI 246
+- Decision date: 2009-04-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7018, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+General Electric Capital Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-30
+Référence neutre
+2009 CCI 246
+Numéro de dossier
+2006-1385(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2006-1385(IT)G
+2006-1386(IT)G
+ENTRE :
+CAPITAL GÉNÉRALE ÉLECTRIQUE DU CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 30 avril 2009, à Toronto (Ontario).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l’appelante :
+Me Al Meghji
+Me Neil Paris
+Avocats de l’intimée :
+Me Craig Maw
+Me Naomi Goldstein
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’appelante afin d’obtenir, en application de l’article 7 de la Loi sur la preuve au Canada et de l’article 65 des Règles de la Cour canadienne de l’impôt (procédure générale), une ordonnance lui permettant d’interroger plus de cinq témoins experts à l’audition des appels, si cette permission est requise;
+Et après avoir entendu les observations formulées par les parties;
+La requête est accueillie et l’appelante est autorisée à appeler jusqu’à concurrence de huit témoins experts à l’audition des appels.
+Signé à Ottawa, Canada, ce 7e jour de mai 2009.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 22e jour de juin 2009.
+Hélène Tremblay, traductrice
+Référence : 2009 CCI 246
+Date : 20090507
+Dossiers : 2006-1385(IT)G
+2006-1386(IT)G
+ENTRE :
+CAPITAL GÉNÉRALE ÉLECTRIQUE DU CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Hogan
+Contexte factuel
+[1] L’appelante a déposé une requête afin d’obtenir une ordonnance lui permettant de présenter le témoignage de huit témoins experts à l’audition des appels qu’elle a interjetés des cotisations établies à son égard par le ministre du Revenu national. Ces cotisations rejettent les déductions demandées par l’appelante au titre de commissions de garantie qu’elle a versées à sa société mère pendant ses années d’imposition 1996, 1997, 1998, 1999 et 2000, et ajoutent des retenues d’impôt en conséquence sous le régime de la partie XIII de la Loi de l’impôt sur le revenu.
+[2] L’avocat de l’appelante, Me Meghji, soutient que cette dernière devrait uniquement être tenue de présenter une preuve prima facie du fait qu’elle a des raisons légitimes d’appeler les trois témoins experts supplémentaires à témoigner et qu’il pourrait m’être utile d’entendre cette preuve d’expert à l’instruction. Selon Me Meghji, sa cliente a présenté une preuve par affidavit non contredite sur ces deux points. Il fait valoir, avec une certaine insistance, que l’intimée embrouille la Cour en soulevant des questions qui intéressent l’admissibilité de la preuve à l’instruction et non le bien‑fondé de l’affaire dont je suis actuellement saisi. Il s’est engagé à ce que les témoignages rendus par chacun des témoins ne soient pas redondants et il accepte de devoir respecter cet engagement. En outre, il signale que l’intimée, au moment de contester la requête, a allégué qu’elle subirait un préjudice mais que, contrairement à l’appelante, elle n’a pas produit de preuve, que ce soit sous forme d’affidavit ou autrement, établissant la nature du préjudice qui lui sera causé si je fais droit à la requête. Enfin, Me Meghji reconnaît que l’article 7 de la Loi sur la preuve au Canada (la « LPC ») restreint à cinq le nombre de témoins experts que peut appeler chaque partie relativement à l’affaire, et non à cinq experts par question soulevée comme le laisse entendre un certain courant jurisprudentiel contradictoire. La première règle impose une norme plus rigoureuse.
+[3] L’intimée conteste la requête parce qu’il n’y a qu’un seul point à trancher à l’instruction et que les trois experts supplémentaires seront tous appelés à témoigner précisément sur la même question. De plus, l’intimée avance qu’elle n’a que récemment été informée de l’intention de l’appelante d’appeler plus de cinq témoins experts à témoigner. Elle allègue qu’elle subira un préjudice si j’accueille la requête puisque ses avocats devront alors passer les trois semaines qui restent avant l’instruction à examiner les trois rapports d’expert supplémentaires plutôt que de préparer la présentation de la preuve de l’intimée. Elle affirme en outre qu’elle croyait, lorsqu’elle a consenti à la date fixée pour l’instruction et à la période réservée pour l’audition, que l’appelante ne citerait que cinq témoins experts.
+Question en litige
+[4] En résumé, je dois trancher la question de savoir s’il s’agit d’une affaire où il convient d’exercer le pouvoir discrétionnaire que me confère l’article 7 de la LPC et de permettre que l’appelante fasse entendre jusqu’à concurrence de huit témoins experts à l’instruction.
+Analyse
+[5] L’article 7 de la LPC prévoit qu’au plus cinq témoins experts peuvent être appelés à témoigner de chaque côté sans la permission de la Cour. Cette disposition est ainsi rédigée :
+Lorsque, dans un procès ou autre procédure pénale ou civile, le poursuivant ou la défense, ou toute autre partie, se propose d’interroger comme témoins des experts professionnels ou autres autorisés par la loi ou la pratique à rendre des témoignages d’opinion, il ne peut être appelé plus de cinq de ces témoins de chaque côté sans la permission du tribunal, du juge ou de la personne qui préside.
+[6] Dans l’arrêt R. c. D.D.[1], la Cour suprême du Canada a signalé que la prolifération d’opinions d’expert pouvait entraver la possibilité pour les parties à un litige d’avoir accès au système judiciaire. Elle s’est exprimée en ces termes :
+[…] la preuve d’expert exige un temps considérable et est onéreuse. Les litiges modernes ont causé une prolifération d’opinions d’expert de valeur douteuse. On n’insistera jamais assez sur l’importance des coûts pour les parties et le fardeau qui pèse lourdement sur les ressources judiciaires. Lorsqu’on laisse le champ libre à l’admission de la preuve d’expert, le procès a tendance à dégénérer en « un simple concours d’experts, dont le juge des faits se ferait l’arbitre en décidant quel expert accepter » […]
+[7] À la lumière de ce qui précède, quels sont les facteurs dont je dois tenir compte pour bien exercer le pouvoir discrétionnaire conféré à l’article 7? Cette disposition est muette sur ce point mais, selon moi, il était de l’intention du législateur que la question soit tranchée en fonction de chaque cas. J’estime que le critère proposé par la Cour d’appel fédérale et le Comité des règles des Cours fédérales (le « Comité ») est utile à l’examen de ce genre de requêtes. Le Comité mentionne ce qui suit :
+[traduction]
+Comité des règles des Cours fédérales
+Témoins experts devant les Cours fédérales
+MISE À JOUR
+Le 16 mars 2009
+[…]
+(10) Question 10 : Limite quant au nombre d’experts
+L’article 7 de la Loi sur la preuve au Canada2 limite à cinq le nombre d’experts qui peuvent être appelés à témoigner, sauf si la Cour permet que d’autres experts soient appelés à témoigner. Le Comité des règles des cours fédérales a accepté la recommandation qui consiste à rendre explicite dans les Règles le pouvoir de la Cour d’exercer sa discrétion, ainsi que les facteurs qui seraient pertinents à l’exercice de ce pouvoir. Les facteurs recommandés pour considération par la Cour sont :
+(a) la nature du litige, son importance pour le public et la nécessité de préciser le droit;
+(b) le nombre et la complexité ou la nature technique des questions en litige;
+(c) les coûts probables par rapport au montant en litige.
+Le Comité a également accepté la recommandation du sous‑comité de modifier le paragraphe 400(3) des Règles de manière à ce qu’il prévoie des conséquences quant aux dépens si un expert témoigne inutilement lors de l’instruction.
+Toutes les décisions susmentionnées ont été prises pour élaborer une première ébauche des modifications des Règles proposées afin de faciliter les prochaines consultations auprès des membres de la profession et des parties. Les modifications proposées feront l’objet d’une publication préalable dans la Partie I de la Gazette du Canada et les commentaires qui seront reçus sur le contenu de ces modifications seront examinés tant par le sous‑comité que par le comité plénier.
+2 L.R.C. 1985, ch. C-5.
+[8] En ce qui concerne le premier point, il s’agit en l’espèce de la première affaire qui, à ma connaissance, intéresse l’application d’une norme relative à un lien de dépendance à des commissions de garantie versées entre parties liées. Dans le domaine financier, on a souvent recours aux conventions de garantie entre parties liées pour atténuer les risques courus par les prêteurs.
+[9] Quant au deuxième point, les parties reconnaissent que la méthode du prix de marché comparable ne peut s’appliquer en l’espèce. Elles pourraient donc se voir dans l’obligation d’utiliser à la place des méthodes d’évaluation et d’appréciation complexes pour présenter leur preuve. Même s’il n’y a, en définitive, qu’une seule question en litige devant la Cour, chacune de ces différentes approches pourrait constituer une sous‑question devant être prise en compte à l’instruction. J’emploie le terme « pourrait » parce que la question de l’admissibilité de la preuve d’expert n’est pas matière à examen à ce stade‑ci de l’instance.
+[10] À titre d’exemple, la solvabilité du garant et du bénéficiaire de la garantie pourrait avoir une incidence sur l’établissement du prix. La cote de solvabilité que le bénéficiaire de la garantie pourra obtenir avec, plutôt que sans, la garantie pourrait être pertinente. La situation du compte capital du bénéficiaire à l’époque pourrait aussi être pertinente. Il s’agit d’une question technique compliquée. Les difficultés financières d’AIG Assurance montrent que même les intervenants importants de l’industrie peuvent tirer les mauvaises inférences quant au risque qu’ils décident d’assumer et omettre d’exiger la prime appropriée dans les circonstances. Depuis quelque temps, les agences de notation sont vivement critiquées pour leur façon d’effectuer les notations. Nombreux sont ceux qui estiment que la méthode utilisée a permis, à tort, d’accorder des notes élevées à des emprunteurs qui ont rapidement éprouvé de graves difficultés financières.
+[11] L’avocat de l’appelante a fourni à l’audience un engagement selon lequel la preuve présentée par les témoins experts supplémentaires ne sera pas redondante. Il a promis de respecter cet engagement à l’instruction, et j’obligerai l’appelante à le respecter aussi pour ne pas faire perdre le temps de la Cour. Je m’attends à ce que les avocats de l’intimée fassent également preuve de vigilance à cet égard.
+[12] L’avocat de l’intimée soutient que le fait qu’il n’a eu connaissance de l’intention de l’appelante d’éventuellement citer jusqu’à huit témoins uniquement quatre semaines avant le début de l’instruction pourrait nuire à sa préparation en vue de l’audience. Il avait l’impression que l’appelante limiterait à cinq le nombre de ses témoins experts.
+[13] Je conviens avec l’avocat de l’intimée que la meilleure façon de procéder pour demander la permission de faire entendre des témoins experts supplémentaires consiste à présenter la requête à cet effet avant que la date de l’instruction ne soit fixée. À tout le moins, l’avocat ayant l’intention de présenter une telle requête doit informer son confrère de cette possibilité bien avant la fixation de la date de l’instruction. Cela étant dit, si l’intimée, comme elle l’allègue, est prise au dépourvu, rien ne l’empêche de déposer une requête, étayée d’une preuve par affidavit suffisante, afin d’obtenir le report de l’audition des appels. Si l’existence d’un préjudice est établie au moment de l’audition de cette requête, la Cour pourrait alors probablement accorder un délai supplémentaire.
+[14] J’estime en outre particulièrement utiles les observations formulées par le Tribunal canadien des droits de la personne dans la décision Alliance de la fonction publique du Canada et la Commission canadienne des droits de la personne c. Ministre du Personnel du Gouvernement des Territoires du Nord‑Ouest[2] quant à la façon d’exercer correctement le pouvoir judiciaire discrétionnaire dans des affaires comme celle dont je suis saisi :
+4 L’arrêt Mohan énonce certains principes généraux pertinents. La preuve d’expert a pour objet d’aider un organisme ayant le pouvoir de rendre la justice à se prononcer sur les faits entourant une affaire. Elle aide en fournissant au juge des faits les renseignements et conclusions toutes faites qui débordent le cadre de leur expérience. Il s’ensuit que les experts ont un rôle spécial dans les litiges faisant appel à une preuve statistique ou scientifique. Il s’agit dans chaque cas de se demander si le témoignage est « nécessaire » pour trancher les points en litige. Toutefois, le critère de la nécessité est appliqué de façon relativement souple et on ne doit pas y accorder une importance exagérée. Au paragraphe 24, le juge Sopinka fait également remarquer qu’un procès ne devrait pas devenir « un simple concours d’experts, dont le juge des faits se ferait l’arbitre en décidant quel expert accepter ».
+5 Il est important de distinguer les questions découlant d’une demande de permission pour appeler des témoins de celles qui découlent de l’admissibilité de leur témoignage. La ligne de démarcation est forcément floue, mais il convient particulièrement d’attendre que le témoin soit cité avant de se prononcer sur les questions ayant trait à la pertinence et à la recevabilité de son témoignage. À ce stade de la procédure, il s’agit simplement de se demander si la partie qui demande la permission a des motifs raisonnables d’appeler les témoins. À cet égard, un tribunal ne doit pas oublier qu’une partie a le droit de fournir une réplique complète à la preuve présentée.
+6 L’avocat de l’intimé a semblé adopter la position voulant que la question pertinente consiste à se demander si le témoignage envisagé aurait un effet important en ce qui touche un point litigieux particulier. Nous sommes d’accord avec cette interprétation. Le tribunal n’est pas en mesure de déterminer à ce stade de la procédure si un témoin qu’on veut citer est digne de foi; il ne peut que déterminer si son témoignage pourrait logiquement contribuer à la défense. Il suffit donc de pouvoir dire raisonnablement que le témoignage de l’expert est nécessaire pour trancher une des questions de fait. Cela exclut les témoignages qui minent l’équité de la procédure ou qui retardent indûment son déroulement.
+[Non souligné dans l’original.]
+[15] Si la preuve d’expert produite par l’appelante est redondante, l’avocat de l’intimée pourra s’opposer à ce que le témoignage de ces témoins soit entendu. Enfin, si la preuve est redondante et que l’instruction est inutilement prolongée de ce fait, il s’agira d’un facteur pertinent que l’avocat de l’intimée pourra invoquer à l’audience relative aux dépens à la fin de l’instruction.
+[16] Pour toutes ces raisons, j’accueille la requête de l’appelante et je permets à cette dernière d’appeler jusqu’à concurrence de huit témoins experts à l’audition des appels.
+Signé à Ottawa, Canada, ce 7e jour de mai 2009.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 22e jour de juin 2009.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2009 CCI 246
+NOS DES DOSSIERS DE LA COUR : 2006-1385(IT)G, 2006-1386(IT)G
+INTITULÉ : Capital générale électrique du Canada Inc. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 30 avril 2009
+MOTIFS DE L’ORDONNANCE : L’honorable juge Robert J. Hogan
+DATE DE L’ORDONNANCE : Le 7 mai 2009
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Al Meghji
+Me Neil Paris
+Avocats de l’intimée :
+Me Craig Maw
+Me Naomi Goldstein
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Noms : Me Al Meghji
+Me Neil Paris
+Me Joseph M. Steiner
+Cabinet : Osler, Hoskin & Harcourt LLP Toronto (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2000 CSC 43, [2000] 2 R.C.S. 275, au paragraphe 56.
+[2] (2001), 41 C.H.R.R. D/177 (T.C.D.P.), dossier du Tribunal no T470/1097, le 27 août 2001.

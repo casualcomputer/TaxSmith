@@ -1,0 +1,389 @@
+---
+title: "Gillen c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/234287/index.do"
+last_modified: "2017-08-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 163"
+citation2: ""
+neutral_citation: "2017 CCI 163"
+decision_date: "2017-08-30"
+language: "fr"
+item_id: "234287"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2189
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:24:10.077000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7e28137404b624f13a0b7a5944a590d2dcf50edc907ff624000cf90d37b47b65"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gillen c. La Reine
+
+- Citation: 2017 CCI 163
+- Decision date: 2017-08-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2189, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gillen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-08-30
+Référence neutre
+2017 CCI 163
+Numéro de dossier
+2014-2991(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-2991(IT)G
+ENTRE :
+DON GILLEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 23, 24, 25 et 27 janvier 2017
+à Saskatoon (Saskatchewan).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelant :
+Me Kurt Wintermute
+Avocate de l’intimée :
+Me Brooke Sittler
+JUGEMENT
+Conformément aux motifs du jugement ci-joints :
+1. L’appel interjeté relativement à la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 de l’appelant est rejeté.
+2. Les dépens sont adjugés à l’intimée.
+Signé à Antigonish (Nouvelle‑Écosse), ce 30e jour d’août 2017.
+« S. D’Arcy »
+Le juge D’Arcy.
+Traduction certifiée conforme
+ce 18e jour de septembre 2018.
+Mario Lagacé, jurilinguiste
+Référence : 2017 CCI 163
+Date : 20170830
+Dossier : 2014-2991(IT)G
+ENTRE :
+DON GILLEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] Le ministre a établi une nouvelle cotisation à l’égard de l’année d’imposition 2008 de l’appelant de manière à refuser sa déduction relativement au gain en capital qu’il avait réalisé lors de la disposition d’actions de Devonian Potash Inc. (« Devonian ») [1] . La disposition a été effectuée par GDC Potash Holdings Limited Partnership (la « Société en commandite »).
+[2] L’appelant a interjeté appel de la nouvelle cotisation. La seule question dont la Cour est saisie est de savoir si les conditions énoncées au sous‑alinéa 110.6 (14)f)(ii) de la Loi de l’impôt sur le revenu (la « Loi ») étaient respectées lorsque Devonian a émis des actions en faveur de la Société en commandite. Plus précisément, la question est de savoir si Devonian a émis ces actions en faveur de la Société en commandite dans le cadre d’une opération ou d’une série d’opérations dans laquelle la Société en commandite a disposé, en faveur de Devonian, de biens qui représentaient la totalité, ou presque, des éléments d’actif utilisés dans une entreprise exploitée activement par la Société en commandite ou ses associés.
+[3] Trois personnes ont témoigné pour l’appelant, soit lui-même, M. Bruce Carson, dont la fiducie familiale était l’un des commanditaires de la Société en commandite, et M. Milton Holter, qui a fourni des services à l’égard du projet de potasse qui est au cœur du présent appel.
+I. L’exposé sommaire des faits
+[4] L’appelant a grandi dans une ferme de Dodsland, en Saskatchewan. Il a travaillé dans le secteur des services pétroliers de 1984 à 1990. En 1990, il s’est lancé dans le secteur de la production pétrolière. Il a déclaré que l’entreprise avait trait principalement à l’achat de puits de pétrole marginaux. Il a exploité cette entreprise par l’intermédiaire de deux sociétés par actions distinctes : General Resources Inc. et Kinderock Resources Ltd. (« Kinderock »). L’appelant était propriétaire de la totalité des actions de General Resources Inc. et de 50 p. 100 des actions de Kinderock. Son épouse possédait les actions restantes de Kinderock.
+[5] Tout en poursuivant ses activités dans le secteur de la production de pétrole, l’appelant s’est familiarisé avec les droits miniers en propriété franche et avec les droits miniers de la Couronne. À un moment donné, l’appelant s’est intéressé aux droits miniers relatifs à la potasse.
+[6] En 2005 ou en 2006, l’appelant a investi 200 000 $ dans une entreprise appelée Athabasca Potash. Il a fait cet investissement après avoir constaté une augmentation spectaculaire de l’utilisation de la potasse dans le monde entier, en particulier dans la production d’engrais. Il a disposé de ses actions dans Athabasca Potash en 2007, lorsque l’entreprise s’est inscrite en bourse. Cet investissement semble avoir été très fructueux.
+[7] L’appelant croyait que les prix de la potasse continueraient d’augmenter. Par conséquent, à l’été 2007, il a commencé à envisager l’acquisition de permis de la province de la Saskatchewan qui l’autorisait à faire la prospection de potasse dans certaines régions de la province (les « permis d’exploration des gisements de potasse »). Il a passé en revue une publication intitulée AccuMap qui contient des données historiques de forage sur tous les puits ayant été forés en Saskatchewan. L’appelant a fait remarquer qu’il avait été abonné [TRADUCTION] « par intermittence » à cette publication depuis 1992 ou 1993 [2] . À l’époque pertinente pour les besoins du présent appel, il utilisait un abonnement souscrit par Kinderock pour la période du 1er mars 2007 au 28 février 2008 [3] .
+[8] Il a utilisé AccuMap pour déterminer les endroits où l’exploration des gisements de potasse avait eu lieu dans les années 1960 et quelles zones spécifiques étaient actuellement disponibles pour l’exploration. Il s’est rendu à Regina dans le but d’examiner des carottes conservées par le gouvernement de la Saskatchewan et a finalement déterminé les zones qu’il souhaitait explorer [4] .
+[9] Kinderock a alors commencé à prendre des mesures pour acquérir les permis d’exploration des gisements de potasse. L’appelant a expliqué que Kinderock avait engagé les dépenses pertinentes, puisqu’elle disposait des ressources financières nécessaires.
+[10] En septembre 2007, Kinderock a retenu les services de M. Brian Reilly pour aider l’appelant dans le processus de demande de permis [5] .
+[11] Le 4 octobre 2007, M. Reilly et l’appelant se sont rendus à Regina et ont déposé, au nom de Kinderock, quatre demandes distinctes de permis d’exploration des gisements de potasse (les « premières demandes de permis ») auprès du gouvernement de la Saskatchewan. Quatre demandes distinctes étaient requises, puisque Kinderock demandait des permis d’exploration des gisements de potasse en vue de sonder 340 960 acres [6] et que les demandes individuelles ne pouvaient pas dépasser 100 000 acres.
+[12] Les premières demandes de permis étaient appelées KP361, KP362, KP363 et KP364 [7] . Au moment de présenter les demandes, Kinderock a payé, pour chaque demande, des frais de demande de 100 $, un dépôt de 2 000 $ et des frais de location de 0,50 $ l’acre. Comme il a été mentionné précédemment, les quatre demandes couvraient 340 960 acres, ce qui a donné lieu à des frais de location de 170 480 $
+[13] Le 12 octobre 2007, Kinderock a retenu les services de M. Milt Holter à titre de consultant pour qu’il la conseille relativement à ses demandes de permis. L’appelant a décrit M. Holter comme une personne ayant une connaissance approfondie des gisements de potasse en Saskatchewan [8] .
+[14] L’appelant a expliqué qu’il voulait créer une équipe de gestion chargée d’aider dans le projet de potasse. Il a d’abord parlé à M. Brad Devine. M. Devine était un représentant de joueurs de hockey que l’appelant avait rencontré en faisant affaire avec le représentant de son fils, un hockeyeur. M. Devine avait auparavant travaillé à titre de vice-président de la société d’investissement Scotia McLeod. M. Devine a informé l’appelant qu’il aimerait participer au projet. M. Devine aurait suggéré à l’appelant d’envisager de greffer M. Bruce Carson à l’équipe [9] .
+[15] M. Carson est comptable agréé. Il a travaillé pour le cabinet comptable international KPMG (et pour ses cabinets prédécesseurs) de 1981 (en tant que fiscaliste à partir de 1984) à 1995 et de 1999 jusqu’à sa semi-retraite en 2008. De 1995 à 1999, M. Carson a travaillé pour un certain M. Pinder, un représentant de joueurs de hockey qui était aussi très actif dans l’industrie pétrolière et gazière. C’est durant cette période qu’il a rencontré M. Devine [10] .
+[16] Une réunion a été organisée entre l’appelant, M. Carson et M. Devine (la « première réunion du groupe »). Les témoignages étaient contradictoires en ce qui a trait au moment où la réunion a eu lieu. Bien que l’appelant ne se souvienne pas de la date exacte de la réunion, il a déclaré lors du contre-interrogatoire que la réunion avait eu lieu après le 12 octobre 2007, soit la date à laquelle il avait retenu les services de M. Holter, et avant le 17 octobre 2007, soit la date à laquelle Kinderock avait demandé d’autres permis d’exploration des gisements de potasse [11] .
+[17] M. Carson a déclaré que la première réunion du groupe avait eu lieu le 10, le 11 ou le 12 octobre 2007. Il a expliqué que, le 17 octobre, il avait lu un reportage au sujet d’un navire russe amarré au port de Churchill. Apparemment, c’était la première fois depuis très longtemps que le port était utilisé pour l’importation de produits au Canada. M. Carson a ajouté que le produit importé était un engrais qui, selon les nouvelles, était importé par un groupe d’acheteurs appelé Farmers of North America. M. Carson s’en souvient, parce qu’il avait une réunion prévue le 18 ou le 19 octobre avec les frères Jim et Jason Mann, qui, apparemment, dirigeaient Farmers of North America. Comme nous le verrons, la réunion avec MM. Jim et Jason Mann a déclenché un enchaînement de faits qui ont finalement conduit à la vente des actions de Devonian.
+[18] M. Carson croyait que sa rencontre avec MM. Jim et Jason Mann avait eu lieu entre une semaine et dix jours après sa première rencontre avec l’appelant. Cela signifierait que sa première rencontre avec l’appelant a eu lieu entre le 8 et le 12 octobre 2007.
+[19] Je souscris au témoignage de l’appelant sur ce point. Bien qu’il ait eu de la difficulté à se souvenir de la date exacte de la première réunion du groupe, il a toujours déclaré que c’était après que Kinderock avait retenu les services de M. Holter. Autrement dit, c’était après le 12 octobre 2007. À la lumière du témoignage de M. Carson, la réunion semble s’être déroulée plus près du 12 octobre que du 17 octobre 2007.
+[20] L’appelant a affirmé que la rencontre avec M. Carson et M. Devine s’était bien passée. Il l’a décrite comme [TRADUCTION] « une réunion chaleureuse, propice à des liens d’affaires [12] ». M. Carson a présenté un témoignage similaire. Il a déclaré que l’appelant avait décrit l’éventuel projet d’exploitation des gisements de potasse et qu’il avait souligné qu’il cherchait à constituer une équipe.
+[21] L’appelant et M. Carson ont déclaré que les trois personnes n’avaient pas conclu d’entente écrite à ce moment-là. Cependant, ils avaient convenu que M. Carson [TRADUCTION] « organiserait une structure [13] ». M. Carson a relaté dans son témoignage qu’il avait accepté la tâche de structurer le projet du point de vue de l’entreprise et de la propriété. Après avoir conçu la structure et obtenu l’approbation de l’appelant et de M. Devine, il devait prendre les mesures nécessaires pour mettre la structure en place [14] .
+[22] M. Carson a souligné qu’on ne lui avait pas demandé de contribuer financièrement lors de la réunion, mais il avait accepté de verser une telle contribution après que le groupe eut décidé de la façon dont ils allaient procéder pour mobiliser des capitaux [15] .
+[23] Le 17 octobre 2007, Kinderock a déposé sept autres demandes de permis d’exploration des gisements de potasse (les « deuxièmes demandes de permis »). Les deuxièmes demandes de permis étaient appelées KP365, KP366, KP367, KP368, KP369, KP370 et KP371, et elles couvraient environ 647 000 acres. Kinderock a payé les frais de demande, les dépôts et les frais de location exigés. Les frais de location s’élevaient à environ 320 000 $ [16] .
+[24] Comme je l’ai déjà mentionné, M. Carson a eu une réunion le 18 ou le 19 octobre 2007 avec MM. Jim et Jason Mann. Le but de la réunion était de vendre les services fiscaux de KPMG. Au cours de la réunion, M. Jason Mann a demandé à M. Carson s’il connaissait quelqu’un qui avait une mine de potasse à vendre. M. Carson a répondu qu’il ne connaissait personne ayant une mine à vendre, mais qu’il connaissait un groupe possédant des permis d’exploration des gisements de potasse. Apparemment, les frères Mann étaient intéressés par les permis, et M. Carson a accepté de parler avec l’appelant et M. Devine pour voir s’ils souhaitaient rencontrer les frères Mann [17] . M. Carson s’est entretenu avec l’appelant et M. Devine au début de novembre, et, comme je l’expliquerai sous peu, une rencontre avec MM. Jim et Jason Mann a eu lieu au début de décembre 2007.
+[25] Au début de novembre 2007, l’appelant, M. Carson et M. Devine ont tenu une deuxième réunion (la « deuxième réunion du groupe »). M. Carson a présenté sa proposition de structure lors de cette réunion. Il a déclaré que son conseil était de mettre en place une entreprise [TRADUCTION] « exclusive », ou nouvelle, pour détenir les permis d’exploration des gisements de potasse. Il ne voulait pas utiliser Kinderock, car celle-ci avait d’autres éléments d’actif.
+[26] Cependant, il a également conseillé au groupe de commencer en tant que partenariat. Il a dit à l’appelant et à M. Devine que, s’ils mettaient correctement en œuvre la structure, ils pourraient, une fois constitués en société, conserver leur capacité de se prévaloir de l’exonération des gains en capital sans [TRADUCTION] « être assujettis à la détention du titre durant deux ans ». Il a également suggéré que le groupe utilise une [TRADUCTION] « structure combinant une société de personnes et une fiducie familiale » qui permettrait la participation de membres de leurs familles [18] .
+[27] L’appelant et M. Devine ont accepté la structure. M. Carson a ensuite communiqué avec l’avocat de l’appelant, Me Paul Grant, et il lui a demandé de créer une nouvelle société par actions. La nouvelle société par actions, Devonian, a été constituée le 22 novembre 2007. L’appelant était le seul actionnaire de Devonian, son épouse et lui étaient les seuls dirigeants, et l’appelant ainsi que son fils étaient les seuls administrateurs [19] .
+[28] Le 21 novembre 2007, le gouvernement de la Saskatchewan a annulé les demandes KP364 et KP371 et a remboursé à Kinderock les frais de location qu’elle avait déjà payés pour ces deux demandes (les « demandes annulées ») [20] .
+[29] M. Carson a déclaré que, au début de décembre 2007, l’appelant, M. Carson et M. Devine avaient rencontré MM. Jim et Jason Mann [21] . Selon l’appelant, il n’y a rien de particulier à signaler au sujet de la réunion [22] . M. Carson a dit que, après que l’appelant eut décrit le projet, MM. Jason et Jim Mann les avaient informés qu’ils parleraient avec quelqu’un qui représentait certains investisseurs russes pour voir s’ils souhaitaient rencontrer l’appelant, M. Carson et M. Devine. La semaine suivante, Jason ou Jim Mann leur ont donné des nouvelles et ils ont fixé une réunion pour le 22 décembre 2007 [23] .
+[30] Le 7 décembre 2007, l’appelant, M. Carson et M. Devine ont rencontré l’avocat, Me Paul Grant, afin de mettre en place la structure de M. Carson (la « troisième réunion du groupe »). M. Carson a affirmé qu’ils avaient informé Me Grant de ce dont ils avaient besoin pour leur structure, à savoir des fiducies familiales, une société en commandite et une convention de transfert d’éléments d’actif à Devonian. Me Grant a reçu des instructions pour préparer les documents requis [24] .
+[31] Me Grant a ensuite préparé les documents requis. On ne m’a pas dit la date à laquelle les parties avaient effectivement signé les documents; cependant, chacun des documents porte la mention indiquant qu’il est fait [TRADUCTION] « le 7e jour de décembre 2007 ou [TRADUCTION] « le 7 décembre 2007 ». Bien que les parties aient pu signer les documents en même temps, les documents relatifs aux fiducies familiales auraient dû entrer en vigueur en premier, étant donné que les fiducies familiales sont les commanditaires de la Société en commandite. Le contrat de société en commandite serait le prochain document à entrer en vigueur, puisque la Société en commandite devrait être constituée avant que la convention de transfert d’éléments d’actif puisse être conclue.
+[32] On m’a fourni l’un des contrats de fiducie familiale, soit le contrat qui a créé la fiducie familiale Gillen [25] . Toutefois, M. Carson a affirmé que M. Devine et lui avaient conclu des contrats de fiducie pratiquement identiques. Je désignerai ces deux fiducies par les noms de fiducie familiale Carson et de fiducie familiale Devine, respectivement.
+[33] Comme je l’ai mentionné précédemment, le contrat de fiducie établissant la fiducie familiale Gillen a été fait le 7e jour de décembre 2007. L’appelant est le fiduciaire de la fiducie familiale Gillen. L’appelant, son épouse et ses deux fils sont les bénéficiaires du capital et du revenu de la fiducie.
+[34] M. Carson a déclaré que, outre lui-même, les bénéficiaires de la fiducie de la famille Carson étaient son épouse, ses enfants et leurs conjoints [26] .
+[35] L’autre contrat pertinent est le contrat de société en commandite. Il a également été fait le 7 décembre 2007. Le contrat a été conclu entre Kinderock, à titre de commanditée, et trois commanditaires : la fiducie familiale Gillen, la fiducie familiale Devine et la fiducie familiale Carson [27] .
+[36] L’article 2.1 du contrat de société en commandite stipule que la société de personnes a été constituée le 7 décembre 2007. L’article 2.4 stipule que sa seule activité consiste à acquérir, posséder, gérer, exploiter et/ou mettre en valeur des biens et des ressources en potasse dans la province de la Saskatchewan ou ailleurs. Cet article permet également à la société d’investir dans des sociétés par actions et dans d’autres entités engagées dans l’industrie de la potasse [28] .
+[37] L’article 3.3 stipule qu’en date du 7 décembre 2007, 3 000 parts de la Société en commandite, au total, avaient été émises en faveur des fiducies familiales de la façon suivante :
+- la fiducie familiale Gillen – 2 000 parts
+- la fiducie familiale Devine – 300 parts
+- la fiducie familiale Carson – 700 parts.
+[38] La Société en commandite a émis chaque part au prix de 1 $, ce qui signifie que le capital total de la société de personnes était de 3 000 $. De plus, la fiducie familiale Gillen détenait deux tiers des parts [29] .
+[39] L’article 2.9 du contrat de société en commandite est intitulé « Pre-registration, Expenses and Liabilities » [« Pré-enregistrement, frais et responsabilités »]. Il vise la gestion de certaines dépenses engagées par Kinderock avant la formation de la société de personnes [30] .
+[40] Le troisième contrat pertinent est intitulé « Subscription and Roll-Over Agreement » [« Convention de souscription et de roulement »] (la « convention de souscription »). Cette convention a été conclue entre Devonian et la Société en commandite.
+[41] L’article 2.1 prévoit la souscription, par la Société en commandite, de 999 actions de Devonian (les « actions de Devonian ») au prix de souscription de 675 000 $ (le « prix de souscription »). Il est ainsi libellé :
+[TRADUCTION]
+Sous réserve des stipulations de la présente convention, le souscripteur [la Société en commandite] souscrit et accepte d’acheter auprès de la société par actions [Devonian], et la société par actions [Devonian] convient de vendre et d’émettre au souscripteur [la Société en commandite], neuf cent quatre-vingt-dix-neuf (999) actions [de Devonian] (les « actions achetées ») au prix de souscription global de six cent soixante-quinze [mille] (675 000 $) dollars (le « prix de souscription ») [31] .
+[42] L’article 2.2 de la convention de souscription prévoit le paiement par la Société en commandite du prix de souscription de 675 000 $ pour les actions de Devonian. Il comprend deux volets.
+[43] L’alinéa a) de l’article 2.2 prévoit que la Société en commandite transfère à Devonian, à la date de clôture, tous les permis d’exploration des gisements de potasse qui ont été délivrés à la Société en commandite à la date de clôture ou avant cette date ainsi que toutes les demandes en traitement et à l’égard desquelles les permis d’exploration des gisements de potasse n’ont pas encore été délivrés à la [TRADUCTION] « date de clôture ».
+[44] Le terme « Applications » [« demandes »] est défini à l’alinéa 1.1d) de la convention de souscription comme signifiant les demandes de permis d’exploration des gisements de potasse énumérées à l’annexe A du contrat, lesquelles comprennent toutes les premières demandes de permis et toutes les deuxièmes demandes de permis autres que la demande KP371 (qui a été annulée). Le mot est défini comme incluant toutes les demandes supplémentaires qui peuvent être faites en remplacement des premières demandes de permis et des deuxièmes demandes de permis, ou se rapportant autrement à l’une ou l’autre des terres visées par ces demandes. Je ferai référence aux demandes, ainsi qu’elles sont définies à l’article 1.1, comme les « demandes achetées ».
+[45] J’emploierai l’expression « permis achetés » pour désigner les permis d’exploration des gisements de potasse liés aux demandes achetées (et mentionnés à l’article 2.2).
+[46] L’expression « Closing Date » [« date de clôture »] est définie à l’alinéa 1.1i) de la convention de souscription comme étant la date à laquelle le premier des permis achetés est délivré ou toute autre date convenue par les parties.
+[47] L’alinéa b) de l’article 2.2 fait référence à la Société en commandite qui exécute et/ou fournit – ou engage des professionnels et autres fournisseurs de services appropriés pour le faire – tous les services d’ingénierie, géologiques et/ou autres travaux, études, rapports, levés, renseignements et autres services nécessaires à la préparation et/ou au dépôt des demandes achetées ou autrement nécessaires ou souhaitables pour l’obtention des permis achetés, et tous les autres services nécessaires à la constitution et à l’organisation de Devonian et/ou à l’administration de l’entreprise et des affaires de Devonian, jusqu’à la date de clôture (les « services achetés ») [32] .
+[48] M. Carson a affirmé avoir déterminé le prix d’achat des actions de 675 000 $ en fonction de l’argent dépensé pour les demandes achetées et de l’acquisition d’autres éléments d’actif ainsi que de son estimation de la valeur économique des demandes achetées et des permis achetés le 7 décembre 2007 [33] .
+[49] L’article 6.2 précise que, à la date de clôture, la Société en commandite n’est tenue d’effectuer que les transferts relatifs aux permis achetés qui ont été délivrés par le gouvernement de la Saskatchewan. La Société en commandite accepte d’effectuer des transferts à l’égard des permis achetés restants une fois qu’ils ont été délivrés par le gouvernement [34] .
+[50] M. Carson a expliqué pourquoi la Société en commandite n’avait pas transféré la propriété légale des demandes achetées à Devonian le 7 décembre 2007, date d’entrée en vigueur de la convention. Il a déclaré que la loi pertinente de la Saskatchewan ne prévoyait pas le transfert de propriété des demandes de permis d’exploration des gisements de potasse. Il a fait remarquer que, si la Société en commandite avait tenté de transférer les demandes, celles-ci auraient été annulées, et de nouvelles demandes auraient dû être déposées [35] .
+[51] Toutefois, le 7 décembre 2007, la Société en commandite a transféré à Devonian, aux termes de l’article 2.3 de la convention de souscription, la propriété effective des demandes achetées et des permis achetés, tout en conservant le titre de propriété des demandes achetées et des permis achetés en fiducie au bénéfice de Devonian. Je reviendrai sur cet article plus en détail sous peu.
+[52] Selon l’appelant, entre le moment où Kinderock a présenté les premières demandes de permis et celui où la Société en commandite a été constituée, Kinderock a engagé des dépenses à l’égard des demandes et du projet potentiel d’exploration des gisements de potasse [36] . Il a également renvoyé la Cour à l’achat de données sismiques relativement au projet d’exploration des gisements de potasse. Une facture de 103 251,04 $ relative à des données sismiques a été émise le 21 novembre 2007. Le fournisseur a émis la facture au nom de Kinderock [TRADUCTION] « pour Devonian Potash Inc. » [37] . Kinderock a payé la facture [38] .
+[53] En contre-interrogatoire, l’appelant a confirmé que l’entente concernant les données sismiques était intervenue entre DS Seismic et Devonian. Il a ajouté que les importantes données sismiques de nature physique se rapportant à la facture n’ont pas été obtenues avant la fin d’avril 2008, après que les actions de Devonian eurent été vendues à un tiers [39] .
+[54] Le 22 décembre 2007, l’appelant ainsi que MM. Carson, Devine et Holter ont rencontré les frères Mann et M. Igor Medge, qui représentait certains investisseurs russes potentiels. L’appelant a déclaré que les parties avaient discuté du potentiel des zones couvertes par les permis d’exploration des gisements de potasse prévus. L’appelant ne pensait pas que la discussion mènerait à un investissement futur. Les parties n’ont pas prévu de réunion de suivi [40] .
+[55] Les parties ont continué à engager des dépenses après la formation de la Société en commandite le 7 décembre et le transfert du droit de bénéficiaire dans les demandes achetées et les permis achetés à Devonian. Il est difficile de déterminer qui a réellement engagé les dépenses. Certaines factures ont été établies au nom de Kinderock, d’autres au nom de General Resources Inc., l’entreprise mentionnée précédemment qui appartenait entièrement à l’appelant, et d’autres au nom de Devonian [41] . Je n’ai pas reçu de documents comptables ou d’états financiers de Kinderock, de la Société en commandite ou de Devonian. Certaines de ces dépenses se rapportaient à des services rendus par M. Holter. M. Holter a déclaré qu’il ne connaissait pas grand-chose de l’évolution générale de Devonian, mais que, finalement, [TRADUCTION] « l’essentiel du travail était effectué sous la bannière de Devonian Potash » [42] .
+[56] En janvier et février 2008, l’appelant a participé à des réunions avec des investisseurs potentiels à Calgary, à Saskatoon et à Vancouver. L’appelant a fourni à la Cour une copie de la présentation faite à Vancouver. Le document renvoie systématiquement à Devonian [43] .
+[57] Le 8 janvier 2008, la fiducie familiale Gillen a transféré à diverses personnes 77 des parts qu’elle détenait dans la Société en commandite. L’appelant a précisé que les unités avaient été transférées soit à des personnes avec lesquelles il avait travaillé dans le passé, soit à des personnes qu’il espérait voir participer dans Devonian [44] .
+[58] Le 14 février 2008, Kinderock a déposé deux nouvelles demandes de permis d’exploration des gisements de potasse. L’appelant a souligné que ces deux demandes remplaçaient la demande KP364, qui faisait partie des premières demandes de permis et, comme il a été mentionné précédemment, qui figurait à l’annexe A de la convention de souscription comme l’une des demandes achetées [45] .
+[59] Le 15 février 2008, la Société en commandite a reçu une offre d’achat des actions de Devonian. L’offre provenait d’une société à numéro (la « Société à numéro »). L’appelant a relaté dans son témoignage que MM. Jim Mann, Jason Mann et Igor Medge étaient les têtes dirigeantes de la Société à numéro. Il a déclaré que l’offre était inattendue [46] .
+[60] Les parties ont ensuite entamé des négociations, auxquelles l’appelant n’a pas participé. M. Devine, qui avait l’expérience de la négociation d’opérations importantes, a mené les négociations. M. Carson a également participé aux négociations. Finalement, les parties ont convenu que la Société à numéro achèterait toutes les actions en circulation de Devonian pour un prix de vente de 15 millions de dollars, avec un dépôt non remboursable de un million de dollars [47] .
+[61] Les parties ont conclu une convention d’option d’achat d’actions datée du 15 février 2008 (la « convention d’achat d’actions »). La convention a été conclue entre l’appelant, Kinderock et la Société à numéro [48] . La Société en commandite n’était pas partie à la convention, puisque, à ce moment-là, Devonian ne lui avait pas émis d’actions. À l’époque, l’appelant était le seul actionnaire de Devonian, quoique cette dernière ait été tenue d’émettre des actions à la Société en commandite après que le gouvernement de la Saskatchewan eut délivré les permis achetés.
+[62] La convention d’achat d’actions comprend les éléments suivants :
+- Une énonciation indiquant que Kinderock avait présenté les demandes de permis (c.‑à‑d. les demandes achetées).
+- L’article 2.1, qui accorde à la Société à numéro une option exclusive d’achat de la participation de l’appelant dans Devonian pour 15 millions de dollars. L’article 4.20 autorise l’émission d’actions de Devonian en faveur de la Société en commandite, conformément à la convention de souscription, pourvu que les nouveaux actionnaires conviennent que ces nouvelles actions seront incluses dans les actions assujetties à l’option de 15 millions de dollars.
+- L’article 3.2, qui prévoit que l’option sera réputée avoir été exercée une fois que tous les permis (c.‑à‑d. les permis achetés) auront été délivrés par le gouvernement de la Saskatchewan [49] .
+[63] Selon l’article 2.5 de la convention d’achat d’actions, Kinderock est tenue de prendre toutes les mesures nécessaires pour s’assurer que les permis achetés seront délivrés au nom de Devonian avant le transfert des actions de Devonian à la Société à numéro.
+[64] Le 31 mars 2008, le gouvernement de la Saskatchewan a délivré les permis achetés KP361, KP365, KP367, KP368, KP369 et KP370 [50] .
+[65] La Société en commandite a ensuite signé un acte de vente en date du 31 mars 2008 en faveur de Devonian. L’acte de vente transfère le titre de propriété dans les [TRADUCTION] « éléments d’actif achetés » à Devonian pour la contrepartie prévue dans la convention de souscription [51] . Le 31 mars 2008, Devonian a émis un certificat d’actions au nom de la Société en commandite pour 999 actions ordinaires de Devonian [52] . L’appelant a ensuite délivré un avis à la Société à numéro, conformément à l’article 4.20 de la convention d’achat d’actions, relativement à l’émission de ces actions, et la Société en commandite a émis à la Société à numéro une reconnaissance selon laquelle elle respecterait les conditions de la convention d’achat d’actions [53] .
+[66] Le 9 avril 2008, le gouvernement a délivré les permis KP362, KP363 et KP366. Il a ensuite délivré le permis modifié KP366A, remplaçant le permis KP366, le 15 avril 2008 [54] .
+[67] Le 15 avril 2008, Kinderock a transféré tous les permis délivrés, qui constituaient collectivement les permis achetés, à Devonian [55] . La Société à numéro a alors acheté, le 25 avril 2008, les actions de Devonian, conformément à la convention d’achat d’actions [56] .
+[68] Dans ses déclarations de revenus pour la période de déclaration de 12 mois se terminant le 31 décembre 2008, la Société en commandite a déclaré un gain de 14 386 399 $ découlant de la disposition des actions de Devonian [57] . Elle a classé cette disposition comme une disposition d’actions admissibles de petite entreprise. Un montant de 9 221 643,32 $ du gain a été attribué à la fiducie familiale Gillen [58] .
+[69] Dans sa déclaration T3 pour l’année d’imposition de 12 mois se terminant le 31 décembre 2008, la fiducie familiale Gillen a déclaré un gain en capital de 9 221 643 $ et un gain en capital imposable de 4 610 821 $ provenant de la disposition d’actions admissibles de petite entreprise qu’elle avait acquises en 2007 [59] . La fiducie a réparti la totalité du gain en capital à ses bénéficiaires et elle a indiqué que les bénéficiaires pouvaient déduire la totalité du gain en capital imposable [60] . La fiducie a réparti le gain en capital de la façon suivante :
+- 3 110 821,66 $ à l’appelant;
+- 3 110 821,66 $ à l’épouse de l’appelant;
+- 1 500 000 $ au fils de l’appelant, Steven Gillen;
+- 1 500 000 $ au fils de l’appelant, Darren Gillen.
+II. Le droit
+[70] Le paragraphe 110.6(2.1) de la Loi prévoit qu’une personne qui réside au Canada a droit à une déduction bonifiée pour gains en capital qui peut être utilisée pour réduire les gains en capital résultant de la disposition d’actions admissibles de petite entreprise.
+[71] Le paragraphe 110.6(1) de la Loi contient la définition d’une action admissible de petite entreprise, dont les passages pertinents aux fins du présent appel, sont ainsi libellés :
+« action admissible de petite entreprise » S’agissant d’une action admissible de petite entreprise d’un particulier (à l’exception d’une fiducie qui n’est pas une fiducie personnelle) à un moment donné, action du capital-actions d’une société qui, à la fois :
+a) au moment donné, est une action du capital-actions d’une société exploitant une petite entreprise, action dont le particulier, son époux ou conjoint de fait ou une société de personnes liée au particulier est propriétaire,
+b) tout au long de la période de 24 mois qui précède le moment donné, n’est la propriété de nul autre que le particulier ou une personne ou société de personnes qui lui est liée,
+c) tout au long de la partie de la période de 24 mois qui précède le moment donné, où l’action est la propriété du particulier ou d’une personne ou société de personnes qui lui est liée, est une action du capital-actions d’une société privée sous contrôle canadien et dont plus de 50 % de la juste valeur marchande de l’actif est attribuable à des éléments visés aux sous-alinéas (i) ou (ii) :
+(i) des éléments utilisés principalement dans une entreprise que la société ou une société qui lui est liée exploite activement, principalement au Canada,
+[…]
+[Non souligné dans l’original.]
+[72] L’alinéa b) de la définition prévoit que, tout au long de la période de 24 mois qui précède la disposition des actions, les actions admissibles de petite entreprise ne doivent avoir été la propriété de nul autre que le particulier ou une personne ou société de personnes qui lui est liée (la « règle de la période de propriété de 24 mois »).
+[73] L’alinéa 110.6(14)f) contient une règle déterminative qui s’applique aux actions émises par la trésorerie d’une petite entreprise admissible. C’est une règle anti-évitement destinée à empêcher les particuliers de contourner la règle de la période de propriété de 24 mois. Cet alinéa est ainsi libellé :
+Pour l’application de la définition de action admissible de petite entreprise au paragraphe (1) :
+[...]
+f) les actions émises après le 13 juin 1988 par une société en faveur d’une personne ou société de personnes donnée sont réputées avoir été la propriété, immédiatement avant leur émission, d’une personne qui n’était pas liée à la personne ou société de personnes donnée, sauf si les actions ont été émises :
+(i) soit en contrepartie d’autres actions,
+(ii) soit dans le cadre d’une opération ou d’une série d’opérations dans laquelle la personne ou société de personnes donnée a disposé, en faveur de la société, de biens qui représentent :
+(A) soit la totalité, ou presque, des éléments d’actif utilisés dans une entreprise exploitée activement par cette personne ou par les associés de cette société de personnes,
+(B) soit une participation dans une société de personnes dont la totalité, ou presque, des éléments d’actif sont utilisés dans une entreprise exploitée activement par les associés de la société de personnes;
+(iii) soit en paiement d’un dividende en actions;
+[…]
+[Non souligné dans l’original.]
+[74] Comme nous l’avons souligné précédemment, la question dont est saisie la Cour est l’application du sous-alinéa 110.6(14)f)(ii) aux 999 actions émises par Devonian à la Société en commandite.
+III. Les thèses des parties
+[75] L’intimée soutient que les actions de Devonian ne sont pas des actions admissibles de petite entreprise, puisque les conditions du sous‑alinéa 110.6(14)f)(ii) n’ont pas été respectées. Par conséquent, conformément à l’alinéa 110.6(14)f), les actions sont réputées avoir appartenu, immédiatement avant leur émission à la Société en commandite, à une personne qui n’était pas liée à la Société en commandite. Par conséquent, les conditions de la règle de la période de propriété de 24 mois ne sont pas respectées.
+[76] L’avocate de l’intimée a soutenu que le sous-alinéa 110.6(14)f)(ii) ne s’applique pas, parce que la Société en commandite n’a jamais eu d’éléments d’actifs qu’elle aurait pu utiliser dans ses activités commerciales déclarées. L’avocate a soutenu que la Société en commandite avait été créée le 7 décembre 2007 et que, dès sa création, elle avait conclu la convention de souscription. Par conséquent, la convention de souscription, en particulier l’article 2.3, a été appliquée immédiatement après la création de la Société en commandite. Il en est résulté que la Société en commandite a immédiatement vendu à Devonian les droits de bénéficiaire dans les éléments d’actif achetés, laissant la Société en commandite sans droit, titre ou intérêt à l’égard des éléments d’actif achetés.
+[77] L’intimée reconnaît que la barre pour déterminer si une entité exerce une activité commerciale est très peu élevée et elle ne conteste pas que la Société en commandite ait pu exploiter activement une entreprise après le 7 décembre 2007. Toutefois, elle a soutenu que la Société en commandite n’avait pas utilisé les éléments d’actif achetés dans une entreprise qu’elle exploitait activement avant leur transfert à Devonian le 7 décembre 2007.
+[78] L’appelant a soutenu que les conditions du sous-alinéa 110.6(14)f)(ii) étaient respectées, puisque les éléments d’actif achetés étaient utilisés dans une entreprise exploitée activement par les associés de la Société en commandite. En outre, la Société en commandite a disposé des éléments d’actif achetés à Devonian dans le cadre d’une série d’opérations dans lesquelles elle a disposé de la totalité, ou presque, des éléments d’actif utilisés dans l’entreprise exploitée activement par les associés.
+[79] La thèse de l’appelant est exposée dans son mémoire et elle peut se résumer ainsi :
+- À partir du moment où les premières demandes de permis ont été faites le 4 octobre 2007 jusqu’au moment où les actions de Devonian ont été transférées à la Société à numéro, soit le 25 avril 2008, une entreprise a été exploitée activement, et ce, en tout temps, conformément à la division 110.6(14)f)(ii)(A).
+- L’appelant, M. Carson et M. Devine ont commencé à exploiter une entreprise en tant que société en nom collectif au moment de la première réunion du groupe, peu après le 12 octobre 2007. Il fait valoir que Kinderock faisait partie de cette société en nom collectif.
+- Voici ce que l’appelant déclare au paragraphe 24 de son mémoire : [TRADUCTION] « Cette société en nom collectif, qui associe Kinderock ainsi que MM. Don Gillen [l’appelant], Bruce Carson et Brad Devine, chacun en leur qualité de fiduciaire pour leur fiducie familiale respective, a été officiellement constituée en société en nom collectif le 7 décembre 2007, connue sous le nom de GDC Potash Holdings Limited Partnership [la Société en commandite], qui sera continuée sous forme de société en commandite. »
+- Au paragraphe 27 de son mémoire, l’appelant note : [TRADUCTION] « Avant le 7 décembre 2007, les associés de GDC [la Société en commandite], soit Kinderock, MM. Don Gillen, Bruce Carson et Brad Devine, exploitaient une entreprise en tant que société en nom collectif. Après le 7 décembre 2007, l’entreprise a été exploitée par les mêmes associés sous la forme de GDC [la Société en commandite], encore que MM. Don Gillen, Bruce Carson et Brad Devine aient agi à titre de fiduciaires de leurs fiducies familiales respectives. »
+- La Société en commandite a continué à exploiter l’entreprise après le 7 décembre 2007.
+- Lorsque la Société en commandite a été constituée le 7 décembre 2007, elle a acquis une entreprise déjà exploitée activement.
+- Après le 7 décembre 2007, la Société en commandite a conservé un intérêt en common law à l’égard des éléments d’actif achetés ainsi qu’un droit de bénéficiaire à l’égard des actions de Devonian, et a donc continué d’exploiter l’entreprise jusqu’au 31 mars 2008, date à laquelle le titre de propriété des éléments d’actif achetés a été transféré à Devonian et où Devonian a émis les actions de Devonian à la Société en commandite.
+- Étant donné que la convention de souscription était un contrat à exécuter, l’article 2.3 de cette convention ne constitue pas une disposition inconditionnelle du droit de bénéficiaire de la Société en commandite à l’égard des éléments d’actif achetés. Devonian n’avait pas de créance recouvrable en justice à l’égard des éléments d’actif achetés jusqu’à ce que les actions de Devonian aient été émises.
+- Pour ces raisons, la Société en commandite a exploité l’entreprise d’octobre 2007 au 31 mars 2008.
+IV. L’application du droit aux faits
+[80] Je ne souscris pas à l’argument de l’appelant; il ne reflète pas les faits qui ont été portés à ma connaissance, notamment en ce qui concerne les activités de la Société en commandite.
+[81] Je commencerai par exposer mes conclusions factuelles relativement aux faits survenus le 7 décembre 2007.
+[82] En premier lieu, les trois fiducies familiales ont été constituées à cette date. Cela ressort clairement du contrat de fiducie établissant la fiducie familiale Gillen (pièce A‑19), qui stipule que le contrat est conclu le 7e jour de décembre 2007. En outre, conformément à la déclaration de fiducie contenue au paragraphe 7 du contrat de fiducie, le constituant de la fiducie (M. Devine) demande au fiduciaire (l’appelant) de détenir les éléments d’actif et le revenu de la fiducie [TRADUCTION] « à compter de la date du présent contrat de fiducie », soit le 7 décembre 2007 [61] .
+[83] Comme je l’ai mentionné précédemment, M. Carson a déclaré que M. Devine et lui avaient conclu des contrats de fiducie pratiquement identiques.
+[84] En me fondant sur les éléments de preuve dont je dispose, j’ai conclu que la Société en commandite avait été constituée le 7 décembre 2007, immédiatement après l’entrée en vigueur des trois fiducies familiales. C’est ce qu’a déclaré l’appelant au paragraphe 7 de son avis d’appel et ce qu’a admis l’intimée dans sa réponse. De plus, l’article 2.1 du contrat de société en commandite stipule que la Société en commandite a été constituée le 7 décembre 2007 [62] .
+[85] Comme question de fait, la Société en commandite n’aurait pas pu être constituée avant le 7 décembre 2007, puisque trois de ses quatre associés, soit les fiducies familiales, n’ont vu le jour que le 7 décembre 2007.
+[86] L’appelant semble prétendre que la Société en commandite est la continuation d’une société en nom collectif constituée par l’appelant, M. Carson, M. Devine et Kinderock au moment de la première réunion du groupe. Cela ne correspond pas aux faits dont je suis saisi.
+[87] Le contrat de société en commandite stipule que la Société en commandite est une nouvelle société de personnes qui a été créée le 7 décembre 2007; il ne fait pas référence à la Société en commandite comme étant la continuation d’une société de personnes existante.
+[88] L’appelant, M. Carson et M. Devine n’étaient pas des associés de la Société en commandite. Le contrat de société en commandite indique clairement que les seuls partenaires sont Kinderock et les trois fiducies familiales. M. Carson, M. Devine et l’appelant ont signé le contrat de société en commandite, non pas à titre personnel, mais plutôt en tant que fiduciaires pour leur fiducie familiale respective.
+[89] En outre, il ne me semble pas clair que Kinderock, l’appelant, M. Carson et M. Devine ont formé une société en nom collectif au moment de la première réunion ou à quelque moment que ce soit avant le 7 décembre 2007. L’appelant a déclaré que la première réunion [TRADUCTION] « était propice à des liens d’affaires » avec M. Carson et M. Devine. En outre, d’après les éléments de preuve mis à ma disposition, s’ils devaient faire affaire ensemble, ce serait selon une structure conçue par M. Carson. Ce n’est que lors de la deuxième réunion du groupe que M. Carson a présenté la structure. Il a choisi une structure intégrant des fiducies familiales et une société en commandite, et non pas une structure intégrant une société en nom collectif.
+[90] Immédiatement après la constitution de la Société en commandite, celle-ci a vendu à Devonian, aux termes de la convention de souscription, les éléments d’actif achetés, pour une contrepartie de 675 000 $. J’ai déjà traité des clauses pertinentes de la convention de souscription, en particulier les articles 2.1, 2.2, 2.3 et 6.2.
+[91] Selon les articles 2.1 et 6.1 de la convention de souscription, Devonian consent en fait à payer pour les éléments d’actif achetés une contrepartie de 675 000 $ sous la forme des 999 actions de Devonian. Devonian accepte de payer cette contrepartie en émettant des certificats d’actions pour les actions de Devonian à la date de clôture, c’est-à-dire la date à laquelle le gouvernement délivre le premier permis acheté.
+[92] Puisque, sous le régime législatif de la Saskatchewan, la Société en commandite ne pouvait pas transférer le titre de propriété des demandes achetées à Devonian, les parties ont convenu que la Société en commandite transférerait, à compter du 7 décembre 2007, la propriété effective des éléments d’actif achetés à Devonian et détiendrait le titre de propriété des demandes achetées, et tout autre élément d’actif acheté, en tant que nue‑fiduciaire pour Devonian.
+[93] Cela est précisé à l’article 2.3 de la convention de souscription, qui est ainsi libellé :
+[TRADUCTION]
+À compter de la date des présentes [le 7 décembre 2007] et jusqu’à la date de clôture, le vendeur [la Société en commandite] détient et, par les présentes, reconnaît et déclare qu’il détient les demandes [les demandes achetées] et tous les autres éléments d’actif achetés [les permis achetés et les services achetés] qui existent maintenant ou qui découlent de l’exécution de ses obligations aux termes de l’article 2.2, au profit de l’acheteur [Devonian] et à titre de fiduciaire et de mandataire de celui‑ci, et que le vendeur [la Société en commandite] n’a aucun droit, titre ou intérêt à l’égard de l’un ou l’autre de ces éléments d’actif achetés, sauf le droit de recevoir les actions achetées conformément aux modalités de la présente convention, et le vendeur [la Société en commandite] reconnaît et accepte également que, agissant en cette qualité de fiduciaire et de mandataire, il détient le titre de propriété des éléments d’actif achetés, sous réserve des instructions de l’acheteur [Devonian] en tant que mandant et personne ayant la propriété effective de ceux-ci, et il ne doit pas, de quelque façon que ce soit, transporter, consentir une sûreté ou autrement grever d’une charge quelconque ou conclure des opérations touchant les éléments d’actif achetés, sauf en conformité avec les directives de l’acheteur [Devonian], et il doit transporter, consentir une sûreté ou autrement grever d’une charge quelconque ou conclure des opérations touchant les éléments d’actif achetés selon les directives de l’acheteur [Devonian] [63] .
+[Non souligné dans l’original.]
+[94] Dans l’arrêt Covert et autres c. Ministre des Finances de la Nouvelle‑Écosse [64] , la Cour suprême du Canada a fait référence au sens de « propriétaire bénéficiaire » [personne ayant la propriété effective] comme l’a formulé le juge de première instance, qui a déclaré que l’expression signifiait [TRADUCTION] « véritable propriétaire ou propriétaire réel » du bien. La Cour suprême (page 784) a cité une décision antérieure du juge de première instance (MacKeen Estate v. Minister of Finance of Nova Scotia (1977), 36 A.P.R. par. 72) :
+[TRADUCTION]
+Il me semble que le sens courant de l’expression « propriétaire bénéficiaire » [personne ayant la propriété effective] est celui de véritable propriétaire ou propriétaire réel du bien. Le bien peut être enregistré à un autre nom ou détenu en fiducie pour le véritable propriétaire, mais le « propriétaire bénéficiaire » [la personne ayant la propriété effective] est celui qui, en dernier ressort, exerce les droits de propriété sur le bien.
+[95] Comme l’a souligné le juge en chef adjoint Rip (tel était alors son titre) dans la décision Prévost Car Inc. c. La Reine [65] , le propriétaire bénéficiaire [la personne ayant la propriété effective] est le véritable propriétaire qui a la jouissance de tous les attributs du droit de propriété et qui assume toutes les obligations qui en découlent, sans avoir aucun compte à rendre à quiconque, y compris le propriétaire légal, concernant ce qu’il fait de ce bien.
+[96] À mon avis, l’article 2.3 de la convention de souscription stipule clairement qu’au 7 décembre 2007, Devonian était le véritable propriétaire des demandes achetées et de tout permis acheté en découlant et que la Société en commandite n’avait aucun droit, titre ou intérêt à l’égard de ces éléments d’actif. En d’autres termes, la Société en commandite a vendu inconditionnellement les demandes achetées et tout permis acheté en découlant à Devonian le 7 décembre 2007.
+[97] Ma conclusion de fait concorde avec la convention d’achat d’actions, une convention conclue le 15 février 2008 avec un tiers sans lien de dépendance. À l’article 4.14 de cette convention, les parties à celle-ci (dont l’appelant) reconnaissent que Devonian est la personne ayant la propriété effective des demandes achetées et des permis achetés. L’article 4.14 de la convention d’achat d’actions est ainsi libellé :
+[TRADUCTION]
+Les seuls éléments d’actif de la société par actions [Devonian] sont les demandes de permis [les demandes achetées]. La société par actions [Devonian] est la personne ayant la propriété effective de ces demandes de permis et, à la date de clôture, est le propriétaire légal et la personne ayant la propriété effective de ces demandes de permis (ou des permis délivrés au titre de celles-ci [les permis achetés]), franches et quittes de toute charge, de toute réclamation, de tout grèvement ou de tout privilège, quels qu’ils soient [66] .
+[98] De plus, comme je l’ai déjà mentionné, M. Carson a affirmé que la juste valeur marchande des éléments d’actif achetés avait été déterminée en date du 7 décembre 2007. On peut déduire qu’il croyait que c’était la date à laquelle la Société en commandite avait vendu à Devonian les éléments d’actif achetés.
+[99] Étant donné que la Société en commandite a été créée le 7 décembre 2007 et qu’elle a vendu à Devonian, à la même date, les éléments d’actif achetés, elle doit avoir acquis les éléments d’actif le 7 décembre 2007.
+[100] À la lumière des éléments de preuve dont je dispose, je conclus que la Société en commandite a acquis de Kinderock les éléments d’actif achetés, y compris les demandes achetées, le 7 décembre 2007. Ma conclusion concorde avec la déclaration de revenus de 2008 de la Société en commandite; il est mentionné à la page 15 de cette déclaration que la Société en commandite a acquis, le 7 décembre 2007, les permis d’exploration des gisements de potasse, qui comprendraient les demandes achetées.
+[101] On m’a fourni fort peu d’éléments de preuve relativement à cette vente.
+[102] L’avocat de l’appelant a soutenu, au paragraphe 30 de son mémoire, que le 7 décembre 2007, la Société en commandite avait donné une contrepartie à Kinderock relativement aux demandes achetées en acceptant de rembourser cette dernière pour tous les coûts engagés en lien avec les demandes de permis. Je souscris à son argument sur ce point.
+[103] Cette entente est attestée par les instructions que la Société en commandite a données à son avocat de payer à Kinderock, à même le produit de la vente des actions de Devonian aux termes de la convention d’achat d’actions, toutes les sommes qui lui étaient dues pour les demandes [les demandes achetées] et les dépenses connexes, comme le prévoit le contrat de société en commandite et la convention de souscription [67] .
+[104] En résumé, le 7 décembre 2007, la Société en commandite a acquis les demandes achetées et les permis achetés et a immédiatement vendu ces éléments d’actif à Devonian.
+[105] Je ne souscris pas à l’argument de l’appelant selon lequel Kinderock a présenté les premières demandes de permis ou les deuxièmes demandes de permis au nom de la Société en commandite. Kinderock a présenté les deux séries de demandes le 4 octobre 2007 et le 17 octobre 2007 respectivement. J’ai pris connaissance de l’alinéa a) de l’article 2.9 du contrat de société en commandite, qui stipule que Kinderock a présenté les demandes achetées au nom de la Société en commandite. À mon avis, cette stipulation ne reflète pas ce qui s’est réellement passé. Il s’agit d’une déclaration intéressée faite par des parties ayant un lien de dépendance dans le but, je présume, d’obtenir un certain résultat quant à l’impôt sur le revenu.
+[106] La Société en commandite n’existait pas au moment où Kinderock a présenté ces demandes. Elle a été créée le 7 décembre 2007. En outre, l’utilisation d’une société en commandite a été envisagée pour la première fois au début de novembre 2007, lorsque M. Carson a présenté sa proposition de structure à l’appelant et à M. Devine lors de la deuxième réunion du groupe. C’était après que Kinderock eut présenté les premières demandes de permis et les deuxièmes demandes de permis. En fait, l’appelant a rencontré M. Carson pour la première fois lors de la première réunion du groupe, qui a été tenue après que Kinderock eut présenté les premières demandes de permis. À la lumière des éléments de preuve portés à ma connaissance, je conclus que Kinderock a présenté les premières demandes de permis et les deuxièmes demandes de permis pour son propre compte, et non pour celui d’une autre partie.
+V. L’application du sous-alinéa 110.6(14)f)(ii)
+[107] Je dois déterminer si les 999 actions émises par Devonian à la Société en commandite le 31 mars 2008 l’ont été dans le cadre d’une opération ou d’une série d’opérations dans laquelle la Société en commandite a disposé, en faveur de Devonian, de biens qui représentaient la totalité, ou presque, des éléments d’actif utilisés dans une entreprise exploitée activement par les associés de la Société en commandite.
+[108] La première étape consiste à déterminer quels sont les biens dont la Société en commandite a disposé en faveur de Devonian.
+[109] Les biens en question sont décrits à l’article 2.2 de la convention de souscription : ce sont les demandes achetées et les permis achetés. J’ai conclu précédemment que la Société en commandite avait vendu les demandes achetées et tout permis acheté en découlant à Devonian le 7 décembre 2007, soit le jour où les parties avaient conclu la convention de souscription.
+[110] L’appelant semble alléguer que des biens supplémentaires ont été transférés au titre de l’alinéa 2.2b) de cette convention. Comme je l’ai mentionné précédemment, cette clause exige en premier lieu que la Société en commandite fournisse – ou engage des professionnels et autres fournisseurs de services appropriés à fournir – certains rapports, études, levés, renseignements précisés et d’autres services nécessaires à la préparation et/ou au dépôt des demandes achetées ou autrement nécessaires ou souhaitables pour l’obtention des permis achetés. Le deuxième élément exige que la Société en commandite fournisse les services nécessaires ou souhaitables relativement à la constitution et à l’organisation de Devonian et/ou à l’administration de l’entreprise et des affaires de Devonian, jusqu’à la date de clôture.
+[111] À mon avis, la clause ne prévoit pas la disposition de biens utilisés par la Société en commandite dans une entreprise exploitée activement. Elle fait référence principalement aux services. Toutefois, elle prévoit la production de certains rapports et études concernant la présentation des demandes achetées. Selon les éléments de preuve qui m’ont été présentés, Kinderock a fourni au gouvernement de la Saskatchewan les documents requis relativement aux demandes achetées au moment où elle a présenté les premières demandes de permis et les deuxièmes demandes de permis, respectivement le 4 octobre 2007 et le 17 octobre 2007. En d’autres termes, aucun rapport ne devait être déposé le 7 décembre 2007 ou après cette date.
+[112] En ce qui concerne les permis achetés, d’après les éléments de preuve dont je dispose, Kinderock a pris des mesures pour s’assurer que les permis étaient délivrés au nom de Devonian, mais rien dans la preuve qui m’a été présentée n’appuie la prétention que cela concernait le transfert de rapports ou d’autres biens à Devonian à compter du 7 décembre 2007.
+[113] J’ai reçu très peu d’éléments de preuve concernant les éléments d’actif détenus par Devonian le 7 décembre 2007, ou entre le 7 décembre 2007 et le moment où Devonian a émis 999 de ses actions en faveur de la Société en commandite.
+[114] On m’a remis une lettre de l’avocat de Devonian datée du 25 avril 2008, adressée aux avocats de la Société à numéro [68] , qui indique que les états financiers de Devonian au 31 mars 2008 constituent l’une des pièces jointes à la lettre, mais on ne m’a pas fourni une copie de ces états financiers. En fait, je n’ai pas reçu d’états financiers se rapportant à l’une ou l’autre des parties concernées, notamment Devonian et la Société en commandite. De tels états financiers auraient fourni une preuve circonstancielle des éléments d’actif détenus par la Société en commandite et Devonian au cours de la période pertinente ainsi que du moment de l’acquisition et/ou de la disposition de ces éléments d’actif.
+[115] La meilleure preuve dont la Cour dispose quant aux éléments d’actif détenus par Devonian au cours de la période pertinente est l’article 4.14 de la convention d’achat d’actions, qui est libellé ainsi : [TRADUCTION] « Les seuls éléments d’actif de la Société par actions sont les demandes de permis [les demandes achetées] [69] . » Cela confirme ma conclusion de fait selon laquelle les seuls biens acquis par Devonian aux termes de la convention de souscription étaient les demandes achetées et le droit à tout permis acheté.
+[116] Comme je l’ai déjà mentionné, l’avocat de l’appelant a soutenu que, étant donné que la convention de souscription était un contrat à exécuter, l’article 2.3 de la convention de souscription ne constitue pas une disposition inconditionnelle du droit de bénéficiaire de la Société en commandite à l’égard des éléments d’actif achetés. Devonian n’avait pas de créance recouvrable en justice à l’égard des éléments d’actif achetés jusqu’à ce que les actions de Devonian aient été émises.
+[117] L’appelant semble prétendre, en se fondant sur la distinction entre véritable propriété effective et propriété effective dans le contexte d’un contrat à exécuter, que la Société en commandite, qui a conservé le titre de propriété des éléments d’actif achetés, était autorisée à les utiliser dans une entreprise exploitée activement par elle entre le 7 décembre 2007 et la date de clôture de la convention de souscription.
+[118] Je ne souscris pas à son argument.
+[119] En premier lieu, indépendamment de l’effet d’un contrat à exécuter, comme je l’ai précédemment constaté, la Société en commandite, conformément à l’article 2.3 de la convention de souscription, a transféré sans équivoque la propriété effective des demandes achetées à Devonian le 7 décembre 2007. Ce fait est reconnu par l’appelant dans la convention d’achat d’actions, en particulier dans son article 4.14 dont il a été question précédemment.
+[120] Bien que les parties aient élaboré la convention d’achat d’actions comme une option d’achat des actions de Devonian appartenant à l’appelant, la Société à numéro est réputée avoir exercé l’option dès que le gouvernement de la Saskatchewan a délivré tous les permis achetés [70] . À mon avis, la Société à numéro, un investisseur averti représenté par un important cabinet d’avocats canadien, n’aurait accepté d’acheter les actions de Devonian pour 15 millions de dollars que si, au moment où la convention d’achat d’actions a été conclue, Devonian était la personne ayant la propriété effective et inconditionnelle des demandes achetées et de tout permis acheté ayant été délivré. Comme l’indique l’article 4.14 de la convention d’achat d’actions, les demandes achetées étaient les seuls éléments d’actif de Devonian au moment de la convention.
+[121] L’appelant cite un arrêt rendu en 1892 par la Cour suprême du Canada, Harris v. Robinson [71] (arrêt « Harris »), à l’appui de la proposition selon laquelle il existe une distinction entre le véritable titre en equity et le titre en equity dans un contrat à exécuter. Il cite les commentaires suivants, tirés de la page 401 de cet arrêt :
+[TRADUCTION]
+[…] On dit parfois, en termes vagues, qu’un acheteur, aux termes d’un contrat à exécuter, a un titre en equity, mais la distinction, quant au titre en equity, entre ses droits aux termes d’un tel contrat avant le paiement du prix d’achat et un véritable titre en equity est bien marquée [...] Bien que ses droits aux termes d’un tel contrat soient incomplets en raison du non-paiement de son prix d’achat, un acheteur a un droit incontestable de céder son contrat, mais il ne peut pas vendre le terrain lui-même et ne peut en être appelé le propriétaire en equity.
+[122] L’appelant semble faire fi de la théorie communément appelée [TRADUCTION] « théorie de la rétroactivité ». Dans la décision Clem v. Hants-Kings Business Development Centre Ltd. [72] , aux paragraphes 15 à 17 [73] , le juge MacDonald, alors juge en chef adjoint de la Cour suprême de la Nouvelle‑Écosse a distingué l’arrêt Harris de l’affaire devant lui, au motif que l’opération en cause dans l’affaire Harris n’avait pas été effectuée et que la convention de vente n’avait pas été conclue, tandis que le transport définitif dans l’affaire dont était saisi le tribunal de la Nouvelle‑Écosse avait été réalisé selon les modalités du contrat. Par conséquent, la Cour suprême de la Nouvelle‑Écosse a conclu (au paragraphe 17) que la théorie de la rétroactivité s’appliquait et que le vendeur détenait le terrain en fiducie pour l’acquéreur depuis la date de la convention : [TRADUCTION] « En d’autres termes, bien que la relation fiduciaire entre le vendeur et l’acheteur puisse être douteuse avant la clôture, une fois la convention conclue, la relation fiduciaire est consolidée rétroactivement. On a appelé cela la “théorie de la rétroactivité” (relation-back theory). »
+[123] Dans le présent appel, les opérations aux termes de la convention de souscription ont été effectuées. Par conséquent, la relation fiduciaire, dans le contexte d’un contrat à exécuter, a été consolidée à la date de clôture, rétroactivement à la date à laquelle la convention a été conclue, soit le 7 décembre 2007.
+[124] Quoi qu’il en soit, comme je l’ai déjà mentionné, la Société en commandite a transféré inconditionnellement à Devonian, le 7 décembre 2007, la propriété effective des demandes achetées et des permis achetés.
+[125] En résumé, les demandes achetées et les permis achetés étaient les seuls éléments d’actif dont la Société en commandite a disposé en faveur de Devonian au cours de la période pertinente.
+[126] La deuxième étape de l’application du sous-alinéa 110.6(14)f)(ii) consiste à déterminer si les demandes achetées et les permis achetés constituaient la totalité, ou presque, des éléments d’actif utilisés dans une entreprise exploitée activement par les associés de la Société en commandite.
+[127] Je conviens avec l’intimée que, bien que la Société en commandite ait pu avoir exploité activement une entreprise après le 7 décembre 2007, elle n’a pas utilisé les demandes achetées et les permis achetés dans le cadre de cette entreprise.
+[128] La Société en commandite a acquis les demandes achetées et les permis achetés auprès de Kinderock le 7 décembre 2007, puis a vendu immédiatement les mêmes biens à Devonian. Dans une telle situation, on ne peut affirmer que la Société en commandite a utilisé les demandes achetées et les permis achetés dans une entreprise exploitée activement. Par conséquent, le sous-alinéa 110.6(14)f)(ii) ne s’appliquait pas, puisque la Société en commandite n’a pas disposé de la totalité, ou presque, des éléments d’actif qu’elle utilisait dans une entreprise exploitée activement.
+[129] Pour les motifs qui précèdent, l’appel est rejeté avec dépens en faveur de l’intimée.
+Signé à Antigonish (Nouvelle‑Écosse), ce 30e jour d’août 2017.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 18e jour de septembre 2018.
+Mario Lagacé, jurilinguiste
+DOSSIER :
+2017 CCI 163
+NO DU DOSSIER DE LA COUR :
+2014-2991(IT)G
+INTITULÉ :
+DON GILLEN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+SASKATOON (SASKATCHEWAN)
+DATE DE L’AUDIENCE :
+LES 23, 24, 25 et 27 JANVIER 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT :
+Le 30 août 2017
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Kurt Wintermute
+Avocate de l’intimée :
+Me Brooke Sittler
+AVOCATS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Kurt Wintermute
+Cabinet :
+MacPherson Leslie & Tyerman LLP
+Saskatoon (Saskatchewan)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Comme il en sera question, l’appelant a reçu un remboursement de capital d’une fiducie familiale à l’égard de la disposition d’actions.
+[2] Transcription en date du 23 janvier 2017, aux pages 16 et 17 ainsi qu’aux pages 27 et 28.
+[3] Pièce A-59.
+[4] Transcription en date du 23 janvier 2017, aux pages 27 à 31.
+[5] Transcription en date du 23 janvier 2017, aux pages 33 à 35.
+[6] Voir la pièce A-1.
+[7] Voir les pièces A-1, A-2, A-3 et A-4.
+[8] Voir les pièces A-61 à A-63 et la transcription en date du 23 janvier 2017, aux pages 55 à 59.
+[9] Transcription en date du 23 janvier 2017, aux pages 61 à 63.
+[10] Transcription en date du 24 janvier 2017, aux pages 178 et 179.
+[11] Transcription en date du 24 janvier 2017, aux pages 76 à 80.
+[12] Transcription en date du 24 janvier 2017, à la page 88.
+[13] Transcription en date du 23 janvier 2017, aux pages 63 et 64; transcription en date du 25 janvier 2017, à la page 6.
+[14] Transcription en date du 24 janvier 2017, à la page 183.
+[15] Transcription en date du 24 janvier 2017, à la page 182.
+[16] Voir les pièces A-1, A-7 à A-12 et A-14 (pour les frais de location associés au permis KP371) et la transcription en date du 23 janvier 2017, aux pages 65 à 75.
+[17] Transcription en date du 24 janvier 2017, aux pages 184 et 185.
+[18] Transcription en date du 24 janvier 2017, aux pages 188 et 189.
+[19] Pièces A-17, A-18; transcription en date du 23 janvier 2017, aux pages 86 à 90.
+[20] Pièces A-13 à A-16.
+[21] Transcription en date du 24 janvier 2017, à la page 187; en date du 25 janvier 2017, à la page 5. L’appelant a mentionné que la réunion s’était tenue à la fin d’octobre, puis, en contre-interrogatoire, il a déclaré qu’il ne se souvenait pas du moment exact; cela aurait pu être au début de novembre. J’ai souscrit au témoignage de M. Carson sur ce point.
+[22] Transcription en date du 23 janvier 2017, aux pages 84 et 85.
+[23] Transcription en date du 24 janvier 2017, aux pages 187 et 188.
+[24] Transcription en date du 24 janvier 2017, à la page 193.
+[25] Pièce A-19.
+[26] Transcription en date du 24 janvier 2017, à la page 192.
+[27] Pièce A-20.
+[28] Pièce A-20, à la page 6.
+[29] Pièce A-20, à la page 9.
+[30] Pièce A-20, à la page 8.
+[31] Pièce A-21, à la page 4.
+[32] Pièce A-21, aux pages 4 et 5.
+[33] Transcription en date du 24 janvier 2017, à la page 218.
+[34] Pièce A-21, aux pages 10 et 11.
+[35] Transcription en date du 25 janvier 2017, à la page 13.
+[36] Voir par exemple les pièces A-66, A-67 et A-68.
+[37] Pièce A-64.
+[38] Transcription en date du 23 janvier 2017, aux pages 91 et 92.
+[39] Transcription en date du 24 janvier 2017, aux pages 167 à 170.
+[40] Transcription en date du 23 janvier 2017, aux pages 140 à 145. Voir également la transcription en date du 24 janvier 2017, aux pages 201 à 203, pièces A-69 à A-72.
+[41] Pièces A-69, A-71, A-83, A-84, A-86 à A-89, A-97 à A-105, A-107 et A-108 ainsi que le témoignage de l’appelant : transcription en date du 23 janvier 2017, aux pages 83 à 89, 94 à 108, 133 à 180, 134 à 139 et 182 à 188; transcription en date du 24 janvier 2017, aux pages 7 à 23.
+[42] Transcription en date du 25 janvier 2017, à la page 43.
+[43] Pièce A-93, il est fait mention de Devonian aux pages 33, 42 et 43 notamment.
+[44] Pièce A-22, transcription en date du 23 janvier 2017, aux pages 188 à 193.
+[45] Pièces A-5, A-6; transcription en date du 23 janvier 2017, aux pages 206 à 213.
+[46] Transcription en date du 23 janvier 2017, aux pages 196 à 199.
+[47] Pièce A-24; le dépôt non remboursable est prévu à l’article 3.5.
+[48] Pièce A-24.
+[49] Cela ne comprend pas les permis à délivrer à la suite des demandes de permis déposées le 14 février 2008 en remplacement de la demande de permis annulée KP364.
+[50] Pièces A-26, A-29, A-31, A-32, A-33 et A-34.
+[51] Pièce A-42. L’appelant a déclaré dans son témoignage que la date devrait être le 31 mars 2008; l’année 2007 avait été inscrite par erreur.
+[52] Pièce A-43.
+[53] Pièces A-44 et A-45.
+[54] Pièces A-27, A-28 et A-30.
+[55] Pièce A-48.
+[56] Pièces A-49 à A-52.
+[57] Pièce A-110, à la page 14.
+[58] Pièces A-111 et A-113.
+[59] Pièce A-114, à la page 5.
+[60] Pièce A-114, aux pages 6 et 11.
+[61] Pièce A-19, aux pages 1 et 3.
+[62] Pièce A-20, à la page 6.
+[63] Pièce A-21, à la page 5. Le dernier paragraphe de l’article 2.2 définit les éléments d’actif achetés comme étant les demandes achetées, les permis achetés et les services achetés.
+[64] [1980] 2 R.C.S. 774, 41 N.S.R. (2d) 181.
+[65] 2008 CCI 231 (conf. par 2009 CAF 57, [2010] 2 R.C.F. 65), aux paragraphes 98 et 100.
+[66] Pièce A-24, à la page 9.
+[67] Pièce A-46.
+[68] Pièce A-47.
+[69] Pièce A-24, à la page 9.
+[70] Pièce A-24, aux pages 5 et 6.
+[71] (1892), 21 S.C.R. 390, 1892 CanLII 14.
+[72] 2004 NSSC 114.
+[73] Citée avec approbation par la Cour d’appel de la Nouvelle‑Écosse dans l’arrêt McIsaac v. Royal Bank of Canada, 2015 NSCA 12, 380 DLR (4th) 528; l’autorisation de pourvoi à la Cour suprême du Canada a été refusée.

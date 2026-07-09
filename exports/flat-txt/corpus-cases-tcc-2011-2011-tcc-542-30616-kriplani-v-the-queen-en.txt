@@ -1,0 +1,157 @@
+Title: Kriplani v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30616/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-542-30616-kriplani-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-11-28
+
+# Kriplani v. The Queen
+
+- Citation: 2011 TCC 542
+- Decision date: 2011-11-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7110, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kriplani v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-11-28
+Neutral citation
+2011 TCC 542
+File numbers
+2010-959(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-959(IT)I
+BETWEEN:
+USHA KRIPLANI,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+____________________________________________________________________
+Appeal heard on July 13, 2010, at Toronto, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Agent for the appellant:
+Chandru Kriplani
+Counsel for the respondent:
+Ernesto Caceres
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal from the assessment made under the Income Tax Act for the 2005 taxation year is dismissed without costs.
+Signed at Ottawa, Ontario, this 28th day of November 2011.
+“Gaston Jorré”
+Jorré J.
+Citation: 2011 TCC 542
+Date: 20111128
+Docket: 2010-959(IT)I
+BETWEEN:
+USHA KRIPLANI,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+[1] The only issue in this appeal is whether a loss of $5,951 in respect of the sale of shares in the 2005 taxation year was on income account, as claimed by the appellant, or on capital account, as assessed by the respondent.[1]
+[2] For health reasons the appellant was unable to attend the hearing and was represented by her husband who also testified.[2]
+[3] During part of 2005 the appellant was employed on contract by IBM Canada Ltd. as a training coordinator on a full-time basis, five days a week. It took her about an hour to commute to work in each direction.
+[4] The appellant knew that her contract would be terminated in a short while. It is not entirely clear, but it appears that the contract employment lasted for about four or five months.
+[5] The appellant’s husband testified that during 2005 she engaged in a part‑time business trading in shares in U.S. corporations on her own account and she incurred a loss which she deducted from other income. She did not seek to trade on behalf of other people.
+[6] The activity in relation to shares bore no relation to the appellant’s employment.
+[7] During 2005 there were 19 trades consisting of 17 share sales and two option sales. The appellant also purchased shares 16 times and purchased one option.[3]
+[8] At least 12 of the stocks sold were held for relatively short periods ranging from eight days to just under four months.[4] It is not clear how long the other stocks sold were held; it appears that two stocks were held throughout the year without being sold.[5]
+[9] Many but not all of the stocks were large well-established companies. Among the 18 stocks held in the course of the year were Coca-Cola, Disney, Johnson & Johnson, Eli Lilly, McDonald’s, Microsoft, Motorola, Pfizer, Symantec, Tiffany, Time Warner and Walmart.
+[10] The appellant’s husband also testified that the appellant would read various publications and Internet sites for information about business and the market. The appellant would also watch business television and speak to knowledgeable persons to get personal guidance. The appellant did not have formal training regarding the stock market.
+[11] It is not clear how much time the appellant spent on this trading activity.
+[12] The trading account was a margin account and the evidence does not show whether the appellant in fact used any credit from the broker.[6] The appellant did claim of $568 in interest expense in relation to the shares. This interest expense was incurred on a line of credit.[7]
+[13] The appellant first acquired shares in 1999. From 1999 to 2005 she had the following number of share trades and reported the following net result:
+Year
+Number of Trades
+Result Reported
+1999
+16
+$14,651 capital gain
+2000
+34
+($17,034) capital loss
+2001
+30
+$372 capital gain
+2002
+1
+$1,405 capital gain
+2003
+0
+―
+2004
+7
+($5,382) capital loss
+2005
+19
+($5,951) other deduction on income account
+[14] The position of the appellant is that she was engaged in a part-time business of trading in shares in 2005.
+[15] The position of the Minister is that the shares were an investment and the loss was on capital account.
+[16] Clearly, the level of activity is modest in terms of transactions. The evidence does not disclose that the appellant had a particular level of knowledge that was beyond that acquired by many investors nor does the evidence disclose time spent that would go beyond that of many investors.
+[17] Some money was borrowed and therefore there is some degree of leveraging. We do not know how much; there is nothing in the evidence to suggest that it is high enough to make the stock purchases clearly speculative in nature.
+[18] It is clear that the appellant is not in the business of trading securities in the same sense as a professional stock trader.
+[19] However, one should also ask whether the appellant’s activities amount to an adventure in the nature of trade.
+[20] The key in answering such a question is to know the person’s intention. While stated intention has some significance, the intention is primarily evaluated by examining the appellant’s conduct by looking to a variety of factors.
+[21] With respect to this question the answer is less clear-cut. While the factors I have just described[8] tend to point in the direction of an investment, there are three other factors that need to be considered.
+[22] First, most of the shares bought were of major dividend paying companies. There appears to be a tendency to view such an asset as somewhat more likely to be an investment asset.[9]
+[23] Second, a good majority of the sales involved stocks held for relatively short periods of time, a few days to four months. By itself, such a pattern is strongly suggested of transactions on income account given that when shares are held for short periods of time the only way to make any significant return is by turning the shares to account and selling them.[10]
+[24] However, this not true of all the shares.
+[25] Overall, the evidence relating to 2005 is relatively close to the line.
+[26] Apart from the table set out above, the evidence provides no real information regarding the share purchases and sales from 1999 to 2004. In particular, there is no information as to what may or may not have changed in 2005 as compared to prior years.[11]
+[27] This leads to the third and final additional factor that needs to be considered.
+[28] In Rajchgot v. The Queen,[12] Rip J., as he then was, said:
+37 . . . While prior income tax filing may not be determinative they can be indicative of a taxpayer's intention. There should be some consistency in reporting share transactions. When a taxpayer all of a sudden changes from reporting transactions from capital to income account or from income to capital account there should be some evidence of the shares' changes in status. . . .
+[29] The Federal Court of Appeal upheld the decision. Noël J.A. states:
+5 A taxpayer who wants to change his reporting status in circumstances where it becomes more tax efficient to do so bears a heavy onus. In this case, the Tax Court Judge held that this onus has not been met. . . .[13]
+[30] In the present case, the appellant has filed from 1999 to 2004 on the basis that share transactions were on capital account. That is indicative of intention and there is nothing in the evidence here that would lead to a conclusion that circumstances had changed in a way that resulted in the 2005 share transactions being on income account.
+[31] This last factor clearly tips the overall picture to one where one must conclude that the transactions were on capital account.
+[32] I regret, but I am obliged to dismiss the appeal.
+Signed at Ottawa, Ontario, this 28th day of November 2011.
+“Gaston Jorré”
+Jorré J.
+CITATION: 2011 TCC 542
+COURT FILE NO.: 2010-959(IT)I
+STYLE OF CAUSE: USHA KRIPLANI v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 13, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: November 28th, 2011
+APPEARANCES:
+Agent for the appellant:
+Chandru Kriplani
+Counsel for the respondent:
+Ernesto Caceres
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] The original version of these reasons is in English.
+[2] I pointed out to the appellant’s husband that there were risks in the proceedings without the testimony of the appellant. Because of the circumstances, the appellant wished to proceed anyway.
+[3] In one case where shares of the same company were purchased on the same day in two different transactions, I have treated that as one purchase.
+[4] See Exhibit R-1 at Tab 10, pages 21 and 22; in one case, Tiffany, one half of the shares were held for three months whereas the other half of the shares were bought before the beginning of the year.
+[5] See Exhibit R-1 at Tab 10, page 25, where one sees that Cisco and Intel shares were held at the beginning of the year. On pages 21 and 22, the listing of purchases and sales, neither of those two companies appears.
+[6] The only information available on this is in Exhibit R-1, at Tab 10, pages 25 and 29, where the appellant is shown as having positive cash balances as of the end of January 2005 and the end of December 2005; at page 24, it shows that on December 31, 2004 the appellant had a $170 debt owing to the broker.
+[7] See Exhibit R-1, at Tab 10, pages 16 and 23. We do not know the extent to which the line of credit was used during the year; the only information we have is that the outstanding balance on January 1, 2006 was $12,952.
+[8] The modest number of transactions, the lack of knowledge beyond that acquired by many investors and the absence of evidence of a significant degree of leveraging.
+[9] See for example the Supreme Court of Canada decision in Irrigation Industries Ltd. v. M.N.R., [1962] S.C.R. 346, where the majority appears to view shares as inherently an investment. However, later cases do not go so far. On this, as well as more generally on the characterization of transactions as either on income or on capital account, see The Fundamentals of Income Tax Law, “Income vs. Capital Gains”, Vern Krishna, Chapter 7, Part II, No. 1, Carswell, 2009 (Tax Partner Main, 2011 – Release 9).
+[10] The potential return, other than by sale, from shares held for a short time is quite small even if the stocks are ones regularly paying dividends. Any dividend return on shares held for a short period will be reduced by transaction costs.
+[11] I note, for example, that in respect of 2003 we know only that no sales occurred. We do not know if the appellant held shares throughout the year that she owned at the beginning of the year or if the appellant bought shares in the course of the year.
+[12] 2004 TCC 548.
+[13] 2005 FCA 289.

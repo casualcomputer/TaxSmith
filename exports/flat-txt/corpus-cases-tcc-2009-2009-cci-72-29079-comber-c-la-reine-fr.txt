@@ -1,0 +1,124 @@
+Title: Comber c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29079/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-72-29079-comber-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-02-05
+
+# Comber c. La Reine
+
+- Citation: 2009 CCI 72
+- Decision date: 2009-02-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6825, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Comber c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-05
+Référence neutre
+2009 CCI 72
+Numéro de dossier
+2006-502(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-502(IT)G
+ENTRE :
+EDWARD COMBER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Devant : L’honorable juge G. A. Sheridan
+Avocat de l’appelant :
+Me Paul E. Trenker
+Avocat de l’intimée :
+Me Gatien Fournier
+____________________________________________________________________
+ORDONNANCE
+VU la demande présentée par l’intimée afin d’obtenir, en application de l’article 160 des Règles de la Cour canadienne de l’impôt (procédure générale), une ordonnance enjoignant à l’appelant de fournir un cautionnement pour dépens;
+Et après avoir examiné les documents produits par les parties, y compris la déclaration sous serment de Paule Chamberland et la déclaration sous serment d’Edward Comber;
+Conformément aux motifs de l’ordonnance ci‑joints, la demande de l’intimée est rejetée et les dépens seront adjugés par le juge présidant l’instruction.
+Signé à Ottawa, Canada, ce 5e jour de février 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 26e jour de mars 2009.
+D. Laberge, LL.L.
+Référence : 2009CCI72
+Date : 20090205
+Dossier : 2006-502(IT)G
+ENTRE :
+EDWARD COMBER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Sheridan
+[1] L’intimée présente une demande afin d’obtenir une ordonnance en application de l’article 160 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), enjoignant à l’appelant de fournir un cautionnement pour dépens de 27 499,98 $.
+[2] L’article 160 des Règles est ainsi rédigé :
+Applicabilité
+160. S’il semble que l’appelant réside à l’étranger, la Cour peut, à la demande de l’intimée, donner des directives appropriées portant sur le cautionnement pour dépens.
+[…]
+[3] L’appelant a interjeté appel des nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») à l’égard de ses années d’imposition 1997 à 2001. Comme la période normale de nouvelle cotisation applicable aux années d’imposition 1997, 1998[1] et 1999 est expirée, ces années ne peuvent faire l’objet d’une nouvelle cotisation que si le ministre respecte les critères fixés au paragraphe 152(4) de la Loi de l’impôt sur le revenu. Les nouvelles cotisations sont datées du 5 mai 2005. Un an avant cette date, soit le 4 mai 2004, l’intimée a demandé, et obtenu, une « ordonnance conservatoire » (jeopardy order)[2] autorisant notamment la saisie des biens de l’appelant au Canada [traduction] « relativement à la dette fiscale de [l’appelant][3] ». Le 23 juin 2004, cette ordonnance a été modifiée pour restreindre les mesures de recouvrement prises par le ministre aux années qui n’étaient pas frappées de prescription, soit 2000 et 2001. À la suite de ces ordonnances, le ministre a recouvré environ 343 000 $ au titre de la dette fiscale de l’appelant. C’est dans ce contexte que le ministre demande maintenant à la Cour de rendre une ordonnance portant sur le cautionnement pour dépens en application de l’article 160.
+[4] Au paragraphe 15 de ses observations écrites, l’intimée soutient qu’une ordonnance de cette nature doit être prononcée pour les raisons suivantes :
+[traduction]
+a) l’appelant réside ailleurs qu’au Canada, ressort où le jugement de la Cour peut être exécuté;
+b) l’intimée ne pourra recouvrer les dépens.
+[5] L’appelant demande avec insistance à la Cour de rejeter la demande de l’intimée compte tenu des facteurs suivants :
+[traduction]
+a. L’appelant a emporté tous ses biens en Ontario et l’intimée les a saisis. [À première vue, l’article 160 des Règles ne s’applique à l’appelant qu’en théorie. Malgré le fait qu’il réside à l’étranger, ses biens se trouvent en Ontario.]
+b. L’intimée a saisi la somme de 343 000,00 $ au titre d’une dette qui n’a pas fait l’objet d’une décision judiciaire. Cette décision ne sera rendue que dans le cadre du présent appel.
+c. La somme saisie couvre déjà les années qui ne sont pas, à première vue, frappées de prescription.
+d. Quant aux années qui sont frappées de prescription, on pourrait considérer que la thèse avancée par l’appelant s’apparente davantage à celle d’un demandeur qu’à celle d’un défendeur [puisque la charge de la preuve incombera à l’intimée]; il ne paraît donc pas opportun d’invoquer l’article 160 des Règles.
+e. L’appelant est complètement démuni à cause du présent litige qui l’oppose à l’intimée.
+f. Il existe un traité sur les mesures d’exécution en matière fiscale entre le Canada et les États‑Unis[4].
+[6] L’appelant admet qu’il réside actuellement à l’étranger; en conséquence, l’intimée est soustraite à son obligation[5] d’établir qu’elle satisfait au critère préliminaire auquel est assujetti l’exercice du pouvoir discrétionnaire de la Cour suivant l’article 160. Il ne reste qu’à décider s’il est « approprié » pour la Cour de rendre pareille ordonnance.
+[7] Après avoir examiné les documents produits et, en particulier, les déclarations sous serment déposées par les parties, je ne suis pas convaincue qu’il est nécessaire, ni approprié, de rendre une ordonnance en application de l’article 160. Tous les biens de l’appelant ont été saisis en 2004. La déclaration sous serment de Paule Chamberland[6] donne l’impression que l’intimée vient juste d’apprendre que l’appelant réside actuellement en Californie. Or, selon la déclaration sous serment produite par l’appelant, l’intimée s’est appuyée sur des allégations voulant qu’il ait déménagé aux États‑Unis pour étayer sa demande d’ordonnance conservatoire en 2004. Les déclarations sous serment à l’appui présentées par l’intimée n’accompagnaient pas les ordonnances conservatoires jointes comme pièces à la déclaration sous serment de l’appelant mais, de façon générale, le fait de résider à l’étranger peut éventuellement justifier le prononcé d’une ordonnance conservatoire. Quoi qu’il en soit, la pièce « D » jointe à la déclaration sous serment d’Edward Comber révèle que l’Agence des douanes et du revenu du Canada était informée depuis au moins septembre 2006 de l’adresse de l’appelant en Californie et de la possibilité que ce dernier réside aux États‑Unis. Je ne vois pas quel intérêt avait l’intimée à insister sur le moment où elle a eu connaissance du changement du lieu de résidence de l’appelant mais, en définitive, cela n’a pas contribué à étayer son argument voulant qu’il soit approprié de rendre une ordonnance fondée sur l’article 160.
+[8] Selon la déclaration sous serment non contredite de l’appelant, la somme de 343 000 $ saisie en vertu de l’ordonnance conservatoire est suffisante pour acquitter sa dette possible au titre des deux années d’imposition qui, à première vue, peuvent faire l’objet d’une nouvelle cotisation de la part du ministre.
+[9] Enfin, l’examen de l’avis d’appel montre que l’appelant a, à première vue, une cause d’action raisonnable. La saisie de tous ses biens au Canada par l’intimée a contribué dans une certaine mesure à protéger les recours du ministre dans l’attente de la résolution des questions en litige. Toutefois, par suite de cette saisie, l’appelant se retrouve complètement démuni et il doit s’en remettre à un membre de sa famille pour le financement du litige qui l’oppose à l’intimée[7]. Rendre l’ordonnance demandée par l’intimée risquerait de priver l’appelant du seul moyen qui lui reste pour contester les nouvelles cotisations établies par le ministre et pour recouvrer les sommes que ce dernier a saisies en prévision de l’établissement de ses nouvelles cotisations. Ce fait revêt une importance particulière dans le contexte d’une affaire fiscale où, en raison de l’inversion du fardeau de la preuve, la partie appelante se trouve en réalité dans l’obligation de se défendre contre l’établissement, par le ministre, de la nouvelle cotisation initiale. Je suis en outre d’accord avec l’appelant lorsqu’il fait observer que, comme elle assume le fardeau de prouver que le ministre a le droit d’établir une nouvelle cotisation relativement aux années d’imposition frappées de prescription, l’intimée se trouve en pratique dans la situation de partie appelante. Dans ces circonstances, l’intimée ne peut invoquer sa situation théorique de « partie intimée » pour demander le prononcé d’une ordonnance fondée sur l’article 160 en ce qui a trait aux années d’imposition 1997, 1998 et 1999.
+[10] Tout compte fait, je ne suis pas convaincue qu’il serait approprié, au sens de l’article 160 des Règles de la Cour canadienne de l’impôt (procédure générale), de donner des directives portant sur le cautionnement pour dépens. La requête de l’intimée est rejetée et les dépens seront adjugés par le juge présidant l’instruction.
+Signé à Ottawa, Canada, ce 5e jour de février 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 26e jour de mars 2009.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2009CCI72
+No DU DOSSIER DE LA COUR : 2006-502(IT)G
+INTITULÉ : Edward Comber et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+DATE DE L’AUDIENCE :
+MOTIFS DE L’ORDONNANCE : L’honorable juge G. A. Sheridan
+DATE DE L’ORDONNANCE : Le 5 février 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Paul E. Trenker
+Avocat de l’intimée :
+Me Gatien Fournier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Paul E. Trenker
+Cabinet : Wallace Klein Partners in Law LLP
+Pour l’intimée: John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Des avis de ratification relatifs aux années d’imposition 1997 et 1998 ont subséquemment été délivrés le 7 novembre 2005.
+[2] Article 225.2 de la Loi de l’impôt sur le revenu.
+[3] Pièce « B » de la déclaration sous serment d’Edward Comber.
+[4] Observations écrites de l’appelant, paragraphe 17.
+[5] Warren Industrial Feldspar Co. Ltd. v. Union Carbide Canada Ltd., [1986] O.J. no 2364 (H.C.J. Ont.), paragraphe 23.
+[6] Dossier de requête de l’intimée, onglet 2, paragraphe 3.
+[7] Déclaration sous serment d’Edward Comber, paragraphe 20.

@@ -1,0 +1,168 @@
+Title: Thorlakson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28015/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-576-28015-thorlakson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-09-27
+
+# Thorlakson c. La Reine
+
+- Citation: 2007 CCI 576
+- Decision date: 2007-09-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1601, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thorlakson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-27
+Référence neutre
+2007 CCI 576
+Numéro de dossier
+2005-4472(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4472(IT)G
+ENTRE :
+DEAN R. THORLAKSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+CAROLYN THOMPSON,
+partie jointe en vertu de l’art. 174
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 septembre 2007, à Kelowna (Colombie-Britannique)
+Devant : L’honorable juge Valerie A. Miller
+Comparutions :
+Avocat de l’appelant :
+Me Kenneth J. Ihas
+Avocat de l’intimée :
+Me John Gibb-Carsley
+Avocat de Carolyn Thompson:
+Me Howard F. Peet
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 27e jour de septembre 2007.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 29e jour d’octobre 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI576
+Date : 20070927
+Dossier : 2005-4472(IT)G
+BETWEEN:
+DEAN R. THORLAKSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+CAROLYN THOMPSON,
+partie jointe en vertu de l’art. 174.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V. A. Miller
+[1] Le 2 février 2007, la Cour a rendu une ordonnance en vertu de l’article 174 de la Loi de l’impôt sur le revenu (la « Loi ») en vue que Carolyn Thompson (l’« ex‑épouse ») soit constituée comme partie à l’appel de Dean Thorlakson. La présente décision répond donc aux questions posées dans la demande fondée sur l’article 174 et à la question sur laquelle porte l’appel de Dean Thorlakson.
+[2] La question en litige est de savoir si l’appelant peut demander une déduction de 30 800 $ à titre de pension alimentaire pour conjoint pour l’année d’imposition 2003 conformément à l’alinéa 60b) de la Loi et si, inversement, l’ex‑épouse doit inclure le montant de 30 800 $ dans son revenu conformément à l’alinéa 56(1)b) de la Loi.
+[3] Le ministre du Revenu national (le « ministre ») a refusé la déduction de 30 800 $ demandée par l’appelant. L’ex‑épouse n’a pas inclus le montant dans son revenu. Pour établir la nouvelle cotisation, le ministre s’est fondé sur les faits énoncés au paragraphe 11 de la réponse à l’avis d’appel (la « réponse »), qui est rédigé ainsi :
+[traduction]
+11. Lorsqu’il a établi la nouvelle cotisation à l’égard de l’appelant au moyen d’avis datés du 5 avril 2005 et du 29 septembre 2005, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) les faits énoncés et admis ci‑dessus;
+Accord de séparation
+b) l’appelant et Carolyn Thorlakson (ci‑après « Mme Thorlakson ») vivent séparés depuis le 1er septembre 2000;
+c) l’appelant et Mme Thorlakson ont conclu un accord de séparation daté du 1er novembre 2002 (l’« accord de séparation »);
+Pension alimentaire pour conjoint
+d) selon l’accord de séparation, l’appelant était tenu de verser une pension alimentaire pour conjoint à Mme Thorlakson s’élevant à 30 800 $ pour l’année d’imposition 2003, payable au moyen de quatre versements trimestriels le 1er janvier, le 1er avril, le 1er juillet et le 1er octobre;
+e) l’accord de séparation n’exigeait pas que l’appelant établisse une rente pour le versement de la pension alimentaire pour conjoint à Mme Thorlakson;
+f) l’appelant n’a pas versé de pension alimentaire à Mme Thorlakson en 2003;
+g) l’appelant n’a versé aucun montant à Mme Thorlakson pour subvenir à ses besoins en 2003.
+[4] L’appelant, un travailleur indépendant, son ex‑épouse, une conseillère en gestion de patrimoine, et M. Jay Christensen, un conseiller en planification financière, ont témoigné.
+[5] Les faits suivants ne sont pas contestés. L’appelant et son ex‑épouse se sont mariés le 19 octobre 1996. Ils vivent séparés depuis le 1er septembre 2000. Ils ont conclu un accord de séparation (l’« accord ») le 1er novembre 2002. Ils ont tous les deux obtenu des avis juridiques indépendants concernant l’accord et ont signé une attestation à cet effet.
+[6] Les paragraphes 27 à 30 de l’accord prévoyaient la pension alimentaire pour conjoint suivante :
+[traduction]
+PENSION ALIMENTAIRE POUR CONJOINT
+27. Les parties conviennent que Dean versera à Carolyn une pension alimentaire pour conjoint de 30 800 $ par année pour la période du 1er janvier 2002 au 31 décembre 2005, laquelle pension sera payable périodiquement les 1er janvier, 1er avril, 1er juillet et 1er octobre de la période. Pour la période du 1er janvier 2006 au 31 décembre 2007 inclusivement, Dean convient de verser à Carolyn une pension alimentaire pour conjoint de 18 000 $ par année, laquelle sera elle aussi payable trimestriellement les 1er janvier, 1er avril, 1er juillet et 1er octobre de la période. Pour la période du 1er janvier 2008 au 31 décembre 2008 inclusivement, Dean convient de verser à Carolyn une pension alimentaire pour conjoint de 15 000 $ par année; laquelle sera elle aussi payable trimestriellement les 1er janvier, 1er avril, 1er juillet et 1er octobre de la période. Le dernier versement sera versé le 1er octobre 2008, date à laquelle Dean se sera entièrement acquitté de son obligation de verser une pension alimentaire pour conjoint.
+28. Les parties conviennent que les versements de pension alimentaire susmentionnés seront inclus dans le revenu de Carolyn et déduits du revenu de Dean.
+29. Les parties conviennent que les versements susmentionnés représentent un règlement complet et définitif pour toute inégalité dans la division des biens familiaux entre les parties, qu’ils constituent une compensation suffisante pour tout désavantage économique que Carolyn avait subi en raison du mariage, et qu’ils lui donnent pleinement la possibilité de devenir complètement autonome.
+30. Les parties conviennent que, à l’exception de ce qui est prévu dans le présent accord, aucune d’elles ne demandera de pension alimentaire pour conjoint maintenant ou à quelque moment que ce soit dans le futur, et que le présent accord et toutes ses modalités peuvent être invoqués en réponse à une telle demande qui pourrait être effectuée à quelque moment que ce soit dans le futur.
+[7] Les témoignages ont permis de révéler que, lors de la négociation de l’accord, l’ex‑épouse avait dit qu’elle craignait que l’appelant ne verse pas la pension alimentaire pour conjoint dans les délais. Elle était également préoccupée par le fait qu’elle dépendait financièrement de l’appelant et de sa famille. En 2002, l’ex‑épouse travaillait à temps partiel à la Banque de Montréal, prenait soin de ses enfants et étudiait en vue de l’obtention d’un baccalauréat en administration des affaires. Son salaire annuel était d’environ 19 000 $. Elle a proposé de recevoir un supplément de revenu qui lui permettrait d’avoir un revenu annuel moyen d’environ 50 000 $ pour les huit prochaines années. Elle a demandé que la pension alimentaire pour conjoint soit versée au moyen d’un paiement forfaitaire. L’appelant a rejeté sa demande, étant donné qu’il voulait avoir droit à la déduction pour paiements périodiques.
+[8] Pour éloigner les préoccupations de l’ex‑épouse et pour satisfaire l’appelant, il a été convenu que la pension alimentaire serait versée au moyen d’une rente qui serait financée par l’appelant. L’ex‑épouse a rencontré Jay Christensen pour discuter de la rente, et il a été décidé que l’appelant achèterait la rente auprès de la Financière Manuvie. Le 25 novembre 2002, l’ex‑épouse a demandé deux rentes auprès de la Financière Manuvie. L’appelant a payé pour l’achat des polices d’assurance au moyen d’un chèque de 136 678,99 $ daté du 29 novembre 2002 émis au nom de la Financière Manuvie et tiré sur le compte de Timber Investments Ltd.
+[9] Les éléments de preuve documentaire ont révélé que l’ex‑épouse avait demandé deux rentes certaines à terme. Elle était la rentière, la propriétaire et la bénéficiaire des polices. Elle a désigné ses fils comme bénéficiaires au titre des polices et l’appelant comme fiduciaire des bénéficiaires. La police d’assurance, qui est pertinente pour l’année d’imposition 2003, garantissait une rente pour une période de trois ans et six mois, laquelle rente serait versée au moyen de paiements de 7 700 $ effectués chaque trimestre pour la période commençant le 1er janvier 2003 et se terminant le 1er octobre 2005. Conformément à la police d’assurance, les paiements ont été effectués par dépôt direct dans le compte bancaire de l’ex‑épouse. De plus, l’ex‑épouse a reçu de la Compagnie d'Assurance‑Vie Manufacturers un T4A pour l’année d’imposition 2003 dans lequel figurait un revenu d’intérêt de 794,52 $ tiré de la rente.
+[10] L’appelant a témoigné qu’il n’avait pas discuté avec le conseiller financier qui avait établi la rente et qu’il n’avait pas vu de documents relatifs à la rente avant le début de l’instance.
+[11] Les dispositions pertinentes de la Loi sont l’alinéa 56(1)b), le paragraphe 56.1(4) et l’alinéa 60b), qui sont rédigés ainsi :
+56(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+b) Pension alimentaire – le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a reçue après 1996 et avant la fin de l'année d'une personne donnée dont il vivait séparé au moment de la réception de la pension,
+B le total des montants représentant chacun une pension alimentaire pour enfants que la personne donnée était tenue de verser au contribuable aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a reçue de la personne donnée après 1996 et qu'il a incluse dans son revenu pour une année d'imposition antérieure;
+56.1(4) Les définitions qui suivent s'appliquent au présent article et à l'article 56.
+[…]
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+60. Peuvent être déduites dans le calcul du revenu d'un contribuable pour une année d'imposition les sommes suivantes qui sont appropriées :
+[…]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l'année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d'imposition antérieure;
+OBSERVATIONS
+[12] L’appelant affirme que la Cour devrait seulement tenir compte de l’accord pour décider si les montants payés à l’ex‑épouse étaient des montants de pension alimentaire au sens de la définition figurant au paragraphe 56.1(4) de la Loi. Il dit que la rente était seulement le moyen utilisé pour payer la pension alimentaire.
+[13] Il s’est fondé sur la décision rendue dans McKimmon c. Canada (Ministre du Revenu national – M.R.N.), [1990] 1 C.F. 600, pour faire valoir que la nature de l’obligation mentionnée au paragraphe 27 de l’accord était celle d’une pension alimentaire périodique. Il a affirmé que les modalités de l’accord montraient l’intention des parties lors de l’exécution de l’accord. Finalement, il s’est fondé sur Ostrowski c. Canada, [2002] A.C.F. no 1123, et Pouzar c. Canada, [2007] A.C.I. no 205, pour la proposition selon laquelle la Cour doit considérer le fondement de l’obligation de paiement (l’accord) séparément des modalités du paiement effectué dans les faits (la rente).
+[14] Pour conclure, l’avocat de l’appelant a fait valoir que le montant de 30 800 $ était à recevoir aux termes d’un accord écrit et que le fait que les versements sont effectués ou reçus par l’intermédiaire d’un tiers ne fait pas en sorte que les versements ne sont pas déductibles lorsque les époux sont d’accord pour qu’ils le soient. (Arsenault c. Canada, [1995] A.C.I. no 241 (C.C.I.))
+[15] L’intimée affirme que le versement que la Cour doit analyser est le versement effectué par l’appelant à la Financière Manuvie. L’avocat de l’intimée a indiqué que le versement était un paiement forfaitaire et non pas un versement de pension alimentaire. De plus, il a allégué que le paiement effectué pour acheter la rente était un transfert de capitaux dans un flux de rentrées. Pour conclure, l’intimée s’est fondée sur les motifs du juge Linden de la Cour d’appel fédérale dans l’arrêt Friedberg v. Her Majesty the Queen, 92 DTC 6031 (dont le jugement a été confirmé par la Cour suprême du Canada, [1993] 4 C.S.C. 285), lequel a formulé les commentaires suivants à la p. 6032 :
+En droit fiscal, la forme a de l’importance. Une simple intention subjective, en l’espèce comme dans d’autres instances en matière fiscale, ne suffit pas en soi à modifier la caractérisation d’une opération aux fins de l’impôt. Lorsqu’un contribuable prend certaines dispositions formelles à l’égard de ses affaires, il peut s’ensuivre d’importants avantages fiscaux, quand bien même ces dispositions seraient prises principalement dans le but d’éviter des impôts (voir La Reine c. Irving Oil, 91 D.T.C. 5106, le juge Mahoney, J.C.A.). Toutefois, si un contribuable omet de prendre les mesures formelles appropriées, peut‑être que des impôts devront être payés. S’il n’en était pas ainsi, Revenu Canada et les tribunaux se livreraient à des exercices interminables pour établir les intentions véritables derrières ces opérations. Les contribuables et la Couronne chercheraient à restructurer des opérations après coup afin de profiter de la législation fiscale ou d’amener les contribuables à payer des impôts qu’ils pourraient autrement ne pas avoir à payer. Bien que la preuve de l’intention puisse parfois aider les tribunaux à clarifier des marchés, elle est rarement déterminante. En résumé, la preuve d’une intention subjective ne peut servir à « rectifier » des documents qui s’orientent clairement vers une direction précise.
+En se fondant sur ce qui précède, l’avocat de l’intimée a soutenu que ce n’est pas ce que l’appelant avait l’intention de faire, mais plutôt ce qu’il avait fait qui était pertinent pour ce qui est de la caractérisation du versement.
+ANALYSE
+[16] Je ne souscris pas à la position de l’appelant. Même si l’accord stipule que l’appelant ferait des paiements périodiques à l’ex‑épouse, les éléments de preuve documentaire et les témoignages montrent que l’appelant a effectué un paiement forfaitaire de 136 678,99 $ en 2002 pour permettre à son ex‑épouse d’obtenir deux rentes. La Cour ne peut pas faire abstraction des opérations qui ont réellement eu lieu et ne tenir compte que de l’intention des parties, comme le montre l’accord. En fait, l’ex‑épouse a témoigné qu’elle avait toujours voulu que la pension alimentaire soit versée sous forme de paiement forfaitaire afin de ne pas avoir à l’inclure dans son revenu. L’appelant doit être imposé en fonction de la façon dont il a organisé ses affaires, et non pas en fonction de la façon dont il aurait pu organiser ses affaires.
+[17] L’appelant était représenté par un avocat lorsqu’il a négocié et signé l’accord et lorsqu’il a accepté de financer l’achat des rentes pour son ex‑épouse. Il était également représenté par un avocat lorsqu’il a été établi comment il financerait l’achat des rentes. Son obligation de payer de l’impôt ne dépend pas de l’accord conclu entre lui et son ex‑épouse, elle dépend de l’application des dispositions pertinentes de la Loi. (Ouellet v. The Queen (2000), 55 DTC 3688)
+[18] Dans ses observations, l’avocat de l’appelant s’est fondé sur les décisions rendues dans Ostrowski et Pouzar pour appuyer sa position. Dans les deux cas, le fondement de l’obligation de verser une pension alimentaire était une ordonnance de la cour qui prévoyait des paiements périodiques. Dans Ostrowski, la cour a ordonné que les paiements soient effectués à l’avance pendant qu’il y avait encore de l’argent disponible, et dans Pouzar, la cour a ordonné que l’époux achète une rente pour effectuer les paiements périodiques. En l’espèce, l’accord ne fait pas mention de la rente. Je ne suis pas d’avis que les paiements seraient déductibles s’il avait été fait mention de la rente dans l’accord, je ne dis cela que pour établir une distinction entre ces cas et le présent appel.
+[19] Dans ses observations, l’avocat de l’appelant n’a renvoyé qu’à deux dispositions de la Loi – la définition de pension alimentaire au paragraphe 56.1(4) et l’alinéa 56(1)b) pour ce qui est du montant à inclure dans le revenu. Ces dispositions de la Loi ne peuvent pas être analysées séparément. Il y a corrélation entre les alinéas 56(1)b) et 60b), et dans les circonstances de l’espèce, l’alinéa 60b) est très pertinent.
+[20] L’appelant ne peut déduire un montant en application de l’alinéa 60b) que s’il s’agissait d’un paiement payable périodiquement et aux termes d’une ordonnance de la cour ou d’un accord écrit. Le montant de 136 678,99 $ payé par l’appelant en 2002 n’était pas une pension alimentaire. Il ne s’agissait pas d’un montant payable périodiquement. Par conséquent, le montant n’est pas déductible en application de l’alinéa 60b), et l’ex‑épouse n’est pas tenue d’inclure le montant de 30 800 $ dans son revenu pour l’année d’imposition 2003.
+[21] Je conclus, à contrecœur, que l’appel doit être rejeté. Je dis à contrecœur parce que les parties avaient convenu que les versements seraient déductibles par l’appelant et à inclure dans le revenu de l’ex‑épouse. Toutefois, l’accord prévoyant le versement d’une rente à l’ex‑épouse constituait une modification fondamentale non seulement de la forme de l’opération, mais aussi de son contenu.
+[22] L’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 27e jour de septembre 2007.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 29e jour d’octobre 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2007CCI576
+NO DU DOSSIER : 2005-4472(IT)G
+INTITULÉ : Dean R. Thorlakson c. SMR
+et Carolyn Thompson
+LIEU DE L’AUDIENCE : Kelowna (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 10 septembre 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 27 septembre 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Kenneth J. Ihas
+Avocat de l’intimée :
+Me John Gibb-Carsley
+Avocat de Carolyn Thompson :
+Me Howard F. Peet
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom : Me Kenneth J. Ihas
+Cabinet : Petraroia Langford Rush LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

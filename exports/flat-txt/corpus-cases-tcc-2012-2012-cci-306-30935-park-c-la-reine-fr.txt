@@ -1,0 +1,255 @@
+Title: Park c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30935/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-306-30935-park-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-08-29
+
+# Park c. La Reine
+
+- Citation: 2012 CCI 306
+- Decision date: 2012-08-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7431, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Park c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-08-29
+Référence neutre
+2012 CCI 306
+Numéro de dossier
+2009-2659(IT)G
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2659(IT)G
+ENTRE :
+JI-HWAN PARK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 mars 2012, à Victoria (Colombie-Britannique)
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocats de l’appelant :
+Me George F. Jones, c.r.
+Me Gavin Laird
+Avocat de l’intimée :
+Me Matthew W. Turnell
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est accueilli avec dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour d’août 2012.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 4e jour de décembre 2012.
+François Brunet, réviseur
+Référence : 2012 CCI 306
+Date : 20120829
+Dossier : 2009-2659(IT)G
+ENTRE :
+JI-HWAN PARK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hershfield
+[1] L’appelant interjette appel de la cotisation établie par le ministre du Revenu national (le « ministre ») pour l’année d’imposition 2007.
+[2] Dans le calcul de son revenu pour l’année d’imposition 2007, l’appelant a déclaré un revenu d’emploi de 158 189 $, soit le montant qu’il a reçu à titre d’officier dans les Forces canadiennes (l’« employeur »). L’appelant a par la suite sollicité l’autorisation du ministre, en vertu du paragraphe 110.2 (2) de la Loi de l’impôt sur le revenu (la « Loi »), en vue de demander une déduction pour un paiement forfaitaire de 102 297 $ reçu en 2007. Ce paragraphe, ainsi que l’article 120.31, permet l’étalement du revenu pour les paiements forfaitaires admissibles.
+[3] L’appelant soutient qu’il a droit au mécanisme d’étalement du revenu compte tenu du fait que le paiement forfaitaire qu’il a reçu en 2007 était un montant admissible au sens du paragraphe 110.2(1) de la Loi.
+[4] Le ministre a conclu que le paiement forfaitaire en question n’était pas un montant admissible; la demande de l’appelant a donc été refusée. Ainsi, la cotisation initiale qui l’empêche de bénéficier du régime d’étalement du revenu demeure inchangée.
+[5] L’appelant s’est opposé à la cotisation et le ministre a ratifié celle-ci en se fondant sur les hypothèses de fait suivantes :
+[traduction]
+a) […]
+b) l’appelant travaillait pour le ministère de la Défense nationale (l’« employeur ») à titre de réserviste;
+c) en postulant le service régulier, l’appelant a été accepté à un échelon de rémunération inférieur;
+d) l’employeur a modifié sa politique de paiement à la suite de décisions défavorables dans un certain nombre de griefs formulés par des employés;
+e) l’appelant a reçu le paiement forfaitaire en 2007 à la suite de la modification de la politique de l’employeur;
+f) l’appelant n’a pas déposé un grief contre son employeur concernant son paiement rétroactif;
+g) l’appelant n’a pas reçu le paiement forfaitaire en raison d’un grief;
+h) l’appelant n’a pas reçu le paiement forfaitaire en exécution d’une ordonnance ou d’un jugement d’un tribunal compétent, d’une sentence arbitrale ou d’un contrat par lequel il a été mis fin à une procédure judiciaire;
+i) l’appelant a gagné un revenu d’emploi de 158 189 $ en 2007.
+Questions en litige et dispositions législatives
+[6] Il faut rechercher si le paiement forfaitaire est un montant admissible au sens du paragraphe 110.2(1), ce qui permettrait à l’appelant de déduire le montant et de calculer à nouveau l’impôt qu’il a à payer en fonction du mécanisme d’étalement du revenu suivant le paragraphe 110.2(2).
+[7] Voici les dispositions pertinentes de la Loi :
+110.2 [Paiements forfaitaires] –
+(1) Définitions – Les définitions qui suivent s’appliquent au présent article et à l’article 120.31.
+« année d’imposition admissible » Quant à un montant admissible reçu par un particulier, l’année d’imposition qui remplit les conditions suivantes :
+a) elle s’est terminée après 1977 et avant l’année au cours de laquelle le particulier a reçu le montant admissible;
+b) il s’agit d’une année tout au long de laquelle le particulier a résidé au Canada;
+c) elle ne s’est pas terminée dans une année civile au cours de laquelle le particulier a fait faillite;
+d) elle ne fait pas partie d’une période d’établissement de la moyenne, au sens de l’article 119 en son état applicable à l’année d’imposition 1987, conformément à un choix fait par le particulier en vertu de cet article mais non révoqué.
+« montant admissible » Montant reçu par un particulier au cours d’une année d’imposition (sauf la partie du montant qu’il est raisonnable de considérer comme étant reçue à titre ou en paiement intégral ou partiel d’intérêts) qui est inclus dans le calcul de son revenu pour l’année et qui représente l’un des montants suivants, sauf dans la mesure où le particulier peut déduire pour l’année, en application des alinéas 8(1)b), n) ou n.1), 60n) ou o.1) ou 110(1)f), un montant relatif au montant ainsi inclus :
+a) un montant qui, à la fois :
+(i) est reçu en exécution d’une ordonnance ou d’un jugement d’un tribunal compétent, d’une sentence arbitrale ou d’un contrat par lequel le payeur et le particulier mettent fin à une procédure judiciaire,
+(ii) est :
+(A) soit inclus dans le calcul du revenu du particulier tiré d’une charge ou d’un emploi,
+(B) soit reçu à titre ou en règlement total ou partiel de dommages-intérêts pour la perte d’une charge ou d’un emploi du particulier;
+b) une prestation de retraite ou de pension (sauf une prestation visée à la division 56(1)a)(i)(B)) reçue au titre ou en paiement intégral ou partiel d’une série de paiements périodiques (à l’exclusion de paiements qui auraient autrement été effectués au cours de l’année ou d’une année d’imposition postérieure);
+c) un montant visé à l’alinéa 6(1)f), au sous-alinéa 56(1)a)(iv) ou à l’alinéa 56(1)b);
+d) un montant ou une prestation visés par règlement.
+« partie déterminée » Quant à une année d’imposition admissible, la partie d’un montant admissible reçu par un particulier qui se rapporte à l’année, dans la mesure où le particulier était en droit, au cours de l’année, de la recevoir.
+(2) Déduction pour paiements forfaitaires – Peut être déduit dans le calcul du revenu imposable d’un particulier (sauf une fiducie) pour une année d’imposition le total des montants représentant chacun la partie déterminée d’un montant admissible qu’il a reçu au cours de l’année, si ce total s’établit à 3 000 $ ou plus.
+120.31 [Moyenne des] paiements forfaitaires –
+(1) Définitions – Les définitions figurant au paragraphe 110.2(1) s’appliquent au présent article.
+(2) Montant ajouté à l’impôt payable – Est ajouté dans le calcul de l’impôt payable en vertu de la présente partie par un particulier pour une année d’imposition donnée le total des montants représentant chacun l’excédent éventuel du montant visé à l’alinéa a) sur le montant visé à l’alinéa b) :
+a) l’impôt hypothétique payable par le particulier pour une année d’imposition admissible à laquelle se rapporte une partie déterminée d’un montant admissible qu’il a reçu et à l’égard de laquelle un montant est déduit en application de l’article 110.2 dans le calcul de son revenu imposable pour l’année donnée;
+b) l’impôt payable en vertu de la présente partie par le particulier pour l’année d’imposition admissible.
+(3) Impôt hypothétique payable – Pour l’application du paragraphe (2), l’impôt hypothétique payable par un particulier pour une année d’imposition admissible, déterminé aux fins du calcul de son impôt payable en vertu de la présente partie pour une année d’imposition (appelée « année de réception » au présent paragraphe) au cours de laquelle il a reçu un montant admissible, correspond à la somme des montants suivants :
+a) l’excédent éventuel du montant visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+(i) le montant qui correspondrait à l’impôt payable en vertu de la présente partie par le particulier pour l’année d’imposition admissible si le total des montants, représentant chacun la partie déterminée relative à cette année d’un montant admissible reçu par le particulier avant la fin de l’année de réception, était pris en compte dans le calcul de son revenu imposable pour l’année d’imposition admissible,
+(ii) le total des montants représentant chacun un montant, relatif à un montant admissible reçu par le particulier avant l’année de réception, qui a été inclus par l’effet du présent alinéa dans le calcul de l’impôt hypothétique payable en vertu de la présente partie par le particulier pour l’année d’imposition admissible;
+b) si l’année d’imposition admissible s’est terminée avant l’année d’imposition précédant l’année de réception, un montant égal au montant qui serait calculé à titre d’intérêts payables sur le montant déterminé selon l’alinéa a) s’il était ainsi calculé, à la fois :
+(i) pour la période ayant commencé le 1er mai de l’année suivant l’année d’imposition admissible et s’étant terminée immédiatement avant l’année de réception,
+(ii) au taux prescrit qui est applicable dans le cadre du paragraphe 164(3) pour la période.
+[8] Ces dispositions illustrent la complexité d’un style de rédaction visant une approche méthodologique précise axée sur la répartition de l’incidence fiscale de certains paiements forfaitaires, mais leur objectif est simple. Dans un système à taux d’imposition marginal, si l’on impose un paiement forfaitaire dans l’année où il est reçu, cela ne peut donner lieu à un impôt à payer supérieur que si le paiement était reçu et imposé selon le principe de l’échelonnement. Dans certains cas, et seulement dans certains cas, le législateur permet d’éviter ce résultat. En pareil cas, le montant forfaitaire est retiré du revenu dans l’année où il a été reçu et est réparti sur les années auxquelles il se rapporte. Un impôt théorique est alors calculé sur cette base pour chacune des années sur lesquelles le revenu a été échelonné. Le total de tous les montants ainsi calculés de façon théorique (plus les intérêts qui seraient courus si le montant d’impôt théorique était effectivement à payer dans l’année à laquelle se rapporte la partie de la somme forfaitaire) est ensuite ajouté à l’impôt à payer dans l’année où le montant forfaitaire a été reçu.
+[9] C’est le régime de l’étalement que l’appelant veut appliquer au calcul de son impôt à payer dans l’année visée.
+[10] Les complexités de formulation mises à part, il s’agit simplement de savoir si le paiement forfaitaire reçu par l’appelant en 2007 était un « montant admissible ». Ce ne sont pas tous les montants forfaitaires reçus qui entrent en ligne de compte pour le régime d’étalement du revenu que ces dispositions permettent. Pour être considéré comme admissible, le montant doit être :
+[…] reçu en exécution d’une ordonnance ou d’un jugement d’un tribunal compétent, d’une sentence arbitrale ou d’un contrat par lequel le payeur et le particulier mettent fin à une procédure judiciaire.
+[11] L’intimée soutient que le montant reçu par l’appelant en l’espèce n’était pas « en exécution » de l’une des directives nécessaires énoncées dans cette disposition. Il n’y avait aucune ordonnance ni aucun jugement d’un tribunal compétent, aucune sentence arbitrale ni aucune procédure judiciaire à laquelle serait attribuable le montant reçu. En reconnaissant qu’une procédure de règlement des griefs pourrait se définir comme une procédure judiciaire, l’intimée soutient, ainsi qu’il est indiqué dans les hypothèses du ministre énoncées ci-dessus, que le droit au paiement rétroactif en l’espèce ne découlait pas du dépôt d’un grief contre l’employeur, mais plutôt d’une modification des politiques de l’employeur relatives aux échelons de rémunération.
+[12] L’appelant soutient qu’il a déposé un grief qui a été réglé à toutes fins pratiques lorsque l’employeur a répondu à sa demande. En outre, il fait valoir que le paiement forfaitaire qu’il a reçu reflétait une directive ou une ordonnance d’un tribunal compétent.
+[13] L’appelant a témoigné à l’audience. Il exerce actuellement les fonctions d’officier de la logistique navale au sein des Forces canadiennes. Son grade est lieutenant de la Marine. Il était le seul témoin à comparaître. Je conclus qu’il a témoigné de façon honnête et équitable.
+[14] Avant de participer en 2001, en tant qu’élève-officier, au Programme de formation des officiers de la Force régulière des Forces canadiennes, il était soldat dans les Forces de réserve. La participation à ce programme s’est traduite par une diminution de son taux de rémunération par rapport à celui qu’il touchait comme soldat.
+[15] D’autres réservistes, dans des circonstances similaires, ont contesté leur baisse de rémunération qu’ils jugeaient injuste; à la suite de ces contestations, l’employeur a reconnu qu’il ne pouvait offrir un taux de rémunération pour le poste d’élève‑officier inférieur à celui que les réservistes touchaient avant leur participation au programme de formation. Par conséquent, l’appelant a envoyé un courriel au Groupe du recrutement des Forces canadiennes (le « GRFC ») sollicitant la révision de sa rémunération.
+[16] L’appelant a été avisé qu’il devait présenter une demande officielle de révision dans une note de service et obtenir l’approbation de son commandant. La demande adressée au GRFC a été présentée officiellement dans une note de service et son commandant a appuyé la demande. Le GRFC a rendu sa décision le 7 mai 2007 et approuvé le paiement forfaitaire versé à l’appelant pour tenir compte du rajustement de sa rémunération depuis son enrôlement en tant qu’élève-officier.
+[17] Également, l’appelant a présenté à l’audience un dossier de courriers électroniques qui était rempli d’anachronismes militaires que les parties ont gracieusement [traduction] « traduits » à mon intention dans un document de consentement déposé après la tenue de l’audience.
+[18] Ce que les courriels semblent révéler ne vise pas seulement les divers groupes opérationnels qui doivent être informés des décisions concernant les opérations militaires et le personnel militaire, mais aussi la nécessité d’inclure et d’informer une chaîne hiérarchique de commandement. Par exemple, une copie d’une demande de renseignements auprès du GRFC a été envoyée à l’attention du : directeur général – Finances au Quartier général de la Défense nationale, à Ottawa//directeur – Traitement des comptes, soldes et pensions//chef adjoint – Personnel militaire au Quartier général de la Défense nationale à Ottawa ‑--. Il y avait aussi des avis d’information à l’intention du Directeur général – Carrières militaires au Quartier général de la Défense nationale et d’autres groupes. En outre, il est fait référence à la directive du sous-ministre adjoint (Ressources humaines – Militaire), en date de juillet 2005, qui pourrait bien être la source qui a permis de régler les griefs susmentionnés en reconnaissant l’obligation de l’employeur de voir à l’application d’un échelon de rémunération supérieur. Ou encore, comme l’intimée l’affirmerait, la directive pourrait bien être la source qui tient compte des précisions apportées à la politique par l’employeur. Quoi qu’il en soi, le choix du moment pour la publication de cette [traduction] « directive » semble correspondre au moment où, selon l’intimée, il y a eu modification de la politique. Néanmoins, il incombe au ministre d’éclaircir les processus décisionnels de la chaîne de commandement et il ne s’est pas exprimé à ce sujet.
+Observations de l’appelant
+[19] L’appelant explique que les dispositions relatives à l’étalement des paiements forfaitaires visés sont de nature réparatrice et qu’elles doivent donc être interprétées de manière large et libérale pour qu’elles atteignent leur objectif. L’appelant invoque l’arrêt R. c. 974649 Ontario Inc;[1] l’article 12 de la Loi d’interprétation[2] et l’arrêt Bell Express Vu Limited Partnership c. Rex[3].
+[20] L’appelant affirme que le GRFC est un tribunal compétent et en formulant cette observation, il recommande que j’adopte le sens du terme « tribunal », ainsi qu’il est défini de façon très large au paragraphe 2(1) de la Loi sur les Cours fédérales[4]. Ce terme est défini ainsi dans le paragraphe :
+« office fédéral » Conseil, bureau, commission ou autre organisme, ou personne ou groupe de personnes, ayant, exerçant ou censé exercer une compétence ou des pouvoirs prévus par une loi fédérale ou par une ordonnance prise en vertu d’une prérogative royale, à l’exclusion de la Cour canadienne de l’impôt et ses juges, d’un organisme constitué sous le régime d’une loi provinciale ou d’une personne ou d’un groupe de personnes nommées aux termes d’une loi provinciale ou de l’article 96 de la Loi constitutionnelle de 1867.
+[21] L’appelant fait valoir qu’en utilisant cette définition, la Cour fédérale statue régulièrement sur des demandes de contrôle judiciaire en se fondant sur la décision d’un seul décideur administratif qui détient un pouvoir relativement limité. Par exemple, dans la contexte fiscal, la Cour fédérale statue souvent, du moins c’est ce qui est soutenu par l’appelant, sur une demande de contrôle judiciaire présentée en vertu du paragraphe 18.1(2) de la Loi sur les Cours fédérales relativement à une décision d’un agent de l’ARC, qui porte sur une demande d’allègement du montant des intérêts ou des pénalités.
+[22] En outre, l’appelant s’appuie sur l’arrêt Bozzer c. La Reine[5], où la Cour d’appel fédérale a statué sur une demande de contrôle judiciaire, présentée en vertu du paragraphe 18.1(2) de la Loi sur les Cours fédérales, relativement à la décision d’un agent de l’ARC qui porte sur une demande d’allègement d’un contribuable. Malgré l’absence des attributs d’un tribunal ou d’un organisme quasi judiciaire, l’agent de l’ARC a été assimilé, par définition, à un « office fédéral ».
+[23] L’appelant a également fait référence à la décision rendue en 2010 par la Cour suprême du Canada dans l’arrêt Canada (Procureur général) c. TeleZone Inc.[6]. Par cet arrêt, la Cour suprême a conclu, en faisant référence à la définition d’« office fédéral », que les décideurs fédéraux visés vont du Premier ministre et des organismes les plus importants jusqu’au garde-frontière et au douanier locaux, et englobent tous ceux qui se situent entre ces deux extrêmes.
+[24] En défendant la pertinence de cette définition large, dans le contexte de la Loi, l’appelant fait référence à la décision du juge Kelen de la Cour fédérale (Section de première instance) dans Canada (Commissaire à l’information du Canada) c. Canada (Défense nationale)[7]. Dans cette affaire, la Cour fédérale a statué que la présomption voulant que le législateur ait l’intention d’uniformiser les expressions joue non seulement dans le cadre d’une même loi, mais également entre les différentes lois[8].
+[25] La Cour suprême du Canada, qui a entendu l’affaire[9], a confirmé la décision du juge Kelen, au motif que l’analyse de celui-ci sur ce point n’était entachée d’aucune erreur.
+[26] Il est soutenu que l’application de la définition d’« office fédéral » donnée par la Cour fédérale est particulièrement appropriée, étant donné qu’elle va dans le sens d’un assouplissement qui est compatible avec la nature de l’article 110.2 de la Loi, qui est lui-même une disposition d’allégement et qui doit être interprété d’une manière large et libérale.
+[27] L’appelant fait valoir que personne n’a soutenu, ou produit d’élément de preuve portant que le GRFC a excédé ses pouvoirs en revoyant l’historique de la rémunération de l’appelant et en rendant, finalement, sa décision. En effet, rien qu’en rendant sa décision, le GRFC était clairement [traduction] « censé » exercer les pouvoirs conférés sous le régime d’une loi fédérale et était ainsi visé par la définition d’« office fédéral » énoncée dans la Loi sur les Cours fédérales.
+[28] L’appelant soutient aussi que l’expression « office fédéral » se pose dans le contexte du droit administratif. Par conséquent, les autorités qui doivent être assimilées à des tribunaux susceptibles de contrôle doivent correspondre aux tendances actuelles du droit administratif. Cette tendance est illustrée dans l’arrêt Dunsmuir c. Nouveau-Brunswick[10], où la Cour suprême du Canada a reconnu que la jurisprudence Nicholson c. Haldimand-Norfolk Regional Board of Commissioners of Police[11] marquait le retour au Canada d’une conception moins rigide de la justice naturelle au Canada. La jurisprudence Dunsmuir enseigne que les pouvoirs administratifs sont exercés par toutes sortes de décideurs administratifs en matière d’évaluation des demandes de contrôle judiciaire.
+[29] Dans l’arrêt Dunsmuir, la Cour suprême emploie les termes « décideur » et « tribunal administratif » de manière souple, comme en témoigne le paragraphe 50, où, encore une fois, dans le cadre d’une procédure en contrôle judiciaire, elle dit qu’il ne fait aucun doute que la norme de la décision correcte doit continuer de s’appliquer pour favoriser les décisions justes en n’acquiesçant pas au raisonnement du décideur. Dans ce même paragraphe, la Cour suprême poursuit en disant que, dès le départ, la cour doit rechercher si la décision du tribunal administratif était la bonne.
+[30] L’appelant fait aussi observer que, par la jurisprudence Dunsmuir, la Cour suprême n’a pas mis l’accent sur les formalités ou les procédures analogues à celles d’un tribunal employées par l’entité administrative dans le processus décisionnel. En outre, et quoi qu’il en soit, il a signalé qu’il y avait un degré de formalité en l’espèce comme en témoigne le fait que le groupe de recrutement a exigé que l’appelant présente une demande officielle et qu’il a rendu sa décision par écrit[12].
+[31] L’appelant soutient aussi que le GRFC n’était pas seulement un tribunal, mais un tribunal « compétent ». Il est soutenu que le groupe de recrutement tient compte des paramètres généraux du paragraphe 17(1) de la Loi sur la défense nationale[13], qui est ainsi libellé :
+Les Forces canadiennes sont formées des unités et autres éléments constitués par le ministre ou sous son autorité.
+[32] L’appelant affirme aussi que le pouvoir exercé par le groupe de recrutement est autorisé par la « tradition du service » qui est habilitée par l’article 49 de la Loi sur la défense nationale, lequel s’énonce ainsi :
+Tout pouvoir ou compétence conféré à un officier ou militaire du rang — aussi bien pour les actes qu’il accomplit ou constate que pour ceux qui le concernent — peut être exercé par un autre officier ou militaire du rang que les règlements ou la tradition du service habilitent à cet égard.
+[33] Encore une fois, l’appelant soutient qu’il n’y a eu aucune déclaration selon laquelle la décision du GRFC ne relevait pas de sa compétence et donc, par définition, la décision qu’il a rendue était celle d’un « tribunal compétent ».
+[34] L’appelant soutient également que si une conclusion différente est justifiée par le labyrinthe du fonctionnement interne de la hiérarchie militaire ou encore, de la hiérarchie de tout autre ministère ou direction générale, il incombe à l’intimée de le prouver.
+[35] L’appelant fait aussi valoir que même si la décision du GRFC peut ne pas sembler être une ordonnance ou un jugement, donner un sens strict à ces termes ne serait pas compatible avec une définition large de l’expression « office fédéral ». Quoi qu’il en soit, la décision écrite d’un tribunal peut être qualifiée de « jugement » et l’a été. Par exemple, la Cour suprême du Canada est allée dans ce sens dans l’arrêt Québec (Commission des droits de la personne et des droits de la jeunesse) c. Maksteel Québec Inc.[14].
+[36] Encore une fois, en ce qui concerne la Loi sur les Cours fédérales, cela indique que, suivant le paragraphe 18.1(2) de la Loi, l’ordonnance d’un « office fédéral » correspond à une décision.
+Observations de l’intimée
+[37] L’intimée soutient que la partie pertinente de la définition d’un « montant admissible » prévoit que le montant doit avoir été reçu en exécution de l’une des trois options énoncées à l’alinéa a)(i) de cette définition au paragraphe 110.2(1) :
+a) une ordonnance ou un jugement d’un tribunal compétent;
+b) une sentence arbitrale;
+c) un contrat par lequel le payeur et le particulier mettent fin à une procédure judiciaire.
+[38] L’intimée soutient que le « tribunal compétent » est le tribunal auquel une loi fédérale ou provinciale confère le pouvoir de rendre une ordonnance ou un jugement. L’intimée invoque la décision Bates v. The Queen[15], au paragraphe 19.
+[39] Il est de plus allégué qu’une « sentence arbitrale » doit découler d’un processus d’arbitrage réel ou d’un processus d’arbitrage officiel. Qui plus est, il est allégué qu’un contrat mettant fin à une « procédure judiciaire » ferait généralement référence à un règlement amiable résultant d’une procédure judiciaire autorisée par la loi. La thèse de l’intimée repose sur le fait allégué que l’appelant n’était pas partie à une ordonnance ou à un jugement rendu par un tribunal compétent, à une sentence arbitrale ou à un règlement relatif à une poursuite judiciaire. Il est soutenu que celui-ci a reçu le montant à la suite d’une clarification de la politique de son employeur à l’égard des services antérieurs.
+[40] L’intimée reconnaît qu’il y avait une incertitude concernant l’établissement du taux de rémunération pour les personnes comme l’appelant qui passaient des forces de réserve aux forces régulières. Il est admis qu’une telle incertitude touchent de nombreux membres des Forces et que, à la suite d’un certain nombre de griefs déposés par d’autres membres des Forces canadiennes, le ministère de la Défense nationale a apporté des précisions à sa politique et, par la suite, l’appelant a reçu le paiement forfaitaire.
+[41] L’intimée soutient que l’appelant veut que l’expression anglaise « pursuant to » (« en exécution » dans la version française de la Loi) soit interprétée de façon large pour signifier [traduction] « en raison de ». L’intimée fait observer que cette interprétation large est inappropriée compte tenu des faits de l’espèce et de l’application des principes d’interprétation des lois.
+[42] En ce qui concerne les principes d’interprétation des lois, l’intimée invoque les conclusions tirées par la Cour suprême du Canada dans l’arrêt Hypothèques Trustco Canada c. R.[16]. Dans cet arrêt, la Cour suprême du Canada a fait observer, au paragraphe 10, que lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. Dans tous les cas, le juge doit chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+[43] Il est allégué que le sens clair et courant de l’expression anglaise « pursuant to » (« en exécution » dans la version française de la Loi) signifie que le montant doit être payé en conformité avec les modalités de l’une des trois options susmentionnées ou selon ces modalités.
+[44] Il est de plus allégué que l’expression anglaise « pursuant to » (« en exécution » dans la version française de la Loi) signifie, en règle générale, [traduction] « à la suite de, conformément à, conforme à; en conformité avec ». Le Black’s Law Dictionary (9e éd.) définit ainsi l’expression anglaise « pursuant to » :
+[traduction]
+1. Conformément à; en conformité avec, en application de […]
+2. Tel qu’il est autorisé par; en vertu de […]
+[45] Ces définitions exigent que le sens clair et courant de l’expression anglaise « pursuant to » (« en exécution » dans la version française de la Loi) soit considéré comme étant plus restrictif et circonscrit que les autres expressions possibles telles que [traduction] « en raison de » ou « par suite de ». L’expression anglaise « pursuant to » (« en exécution » dans la version française de la Loi) appelle un lien direct entre le montant reçu et l’ordonnance, la sentence arbitrale ou la procédure juridique. Il est allégué que l’emploi d’une expression plus restrictive traduit l’intention du législateur de limiter les cas dans lesquelles les paiements forfaitaires doivent reposer sur la méthode de l’étalement.
+[46] De plus, l’intimée se fonde sur la décision de la Cour suprême du Canada dans Minister of National Revenue c. Armstrong[17]. En l’espèce, les trois juges qui ont rédigé les motifs ont convenu que le paiement visé, à savoir un paiement forfaitaire, n’a pas été fait en exécution d’une ordonnance ou d’un jugement dans une action en divorce ou en séparation. Comme l’explique le juge Locke, à la page 449 :
+[traduction]
+[…] L’on ne saurait […] prétendre à juste titre que cette somme forfaitaire a été payée, pour reprendre les termes employés dans la loi, conformément au jugement de divorce. Il est vrai que le versement a été effectué en conséquence de l’obligation, imposée par le jugement, de subvenir aux besoins de l’enfant, mais ce cas précis n’est pas visé par la disposition en cause. [En italique dans l’original.]
+[47] De même, le juge en chef Kerwin fait l’observation suivante à la p. 447 :
+[traduction]
+[…] La question est de savoir si elle a été versée conformément à une ordonnance ou à un jugement, et non si elle a été versée en raison d’une obligation juridique imposée ou contractée. […]
+[48] Il est soutenu que va dans le même sens la Cour d’appel fédérale par l’arrêt R. c. Melford Developments Inc.[18]. L’intimée fait également référence à la version française de la Loi où les termes « en exécution » sont employés pour rendre « pursuant to ».
+[49] Il est soutenu que l’expression « en exécution » utilisée dans la version française de la disposition en question est plus restrictive que l’expression « conformément à », qui figure dans d’autres dispositions de la Loi. La version française de cette disposition semble indiquer qu’il y a un lien de causalité direct entre le paiement du montant et l’ordonnance, la sentence ou le règlement amiable. En conséquence, la déclaration de l’appelant selon laquelle « pursuant to » dans la version anglaise doit être interprétée de manière libérale contredit le sens ordinaire des mots utilisés dans la version française.
+[50] L’intimée invoque la décision rendue par la Cour suprême du Canada dans l’arrêt Schreiber c. Canada (Procureur général)[19] où il a été conclu que lorsqu’une des deux versions, anglaise ou française, possède un sens plus large que l’autre, le sens commun aux deux favorise le sens le plus restreint ou limité[20].
+[51] L’intimée examine également les arguments fondés sur une interprétation contextuelle ainsi qu’une interprétation téléologique de la disposition en question. Contextuellement, il doit y avoir un lien direct entre le montant forfaitaire reçu et l’ordonnance ou le jugement, la sentence arbitrale ou un règlement sur lequel se fonde le contribuable. La personne qui a droit à l’étalement doit être la même qui était partie à la résolution du différend. Contextuellement, il est en outre soutenu que la définition d’un « montant admissible » ne doit inclure que les paiements se rapportant à certains types de paiements qui ont été déterminés expressément par le législateur, y compris les prestations de pension de retraite, les montants de pensions alimentaires pour conjoint ou pour enfants, les prestations d’assurance‑emploi, etc. Ces types de paiements illustrent l’idée que l’étalement du montant forfaitaire n’est pas possible dans tous les cas où un paiement forfaitaire est reçu.
+[52] Une interprétation téléologique peut être tirée du Budget de 1999 qui comprenait « Le plan budgétaire de 1999 », un document produit par le ministère des Finances et déposé par le ministre des Finances. Ce document décrit ainsi les paiements forfaitaires rétroactifs :
+un revenu d’une charge ou d’un emploi, ou un revenu de cessation d’une charge ou d’un emploi, reçu en vertu d’une décision judiciaire, d’une sentence arbitrale ou du règlement d’une poursuite.
+[53] Les propositions législatives et notes explicatives qui ont suivi le Budget et qui ont été publiées en septembre 1999 confirment cette explication de l’objet. Plus précisément, le document énonce ce qui suit :
+Un montant admissible est constitué du principal de certains montants inclus dans le revenu, à savoir les pensions alimentaires au conjoint ou aux enfants, les prestations de retraite qui seraient autrement payables périodiquement, les prestations d’assurance-emploi et les prestations versées dans le cadre de régimes d’assurance-salaire. Est également un montant admissible le revenu tiré d’une charge ou d’un emploi (ou reçu par suite de la cessation d’une charge ou d’un emploi) en exécution d’un jugement d’un tribunal, d’une sentence arbitrale ou d’un contrat mettant fin à une procédure judiciaire[21].
+[Non souligné dans l’original.]
+[54] Enfin, l’intimée soutient que le groupe de recrutement ne peut être assimilé à un tribunal compétent étant donné qu’il n’a pas la compétence juridique donnée par une loi fédérale ou provinciale de rendre une ordonnance ou un jugement et qu’il n’est pas un tribunal administratif ayant la compétence juridique nécessaire pour trancher les différends. Le thème commun qui se dégage des trois situations pouvant faire en sorte qu’un paiement forfaitaire est un « montant admissible » est que celui-ci doit être reçu conformément au résultat ou à la résolution d’un contentieux au plein sens du terme. En l’espèce, il est soutenu qu’il n’y a pas et n’y a pas eu de contentieux au plein sens du terme.
+Analyse
+[55] Vu la question en litige, la Cour est appelée à rechercher si :
+a) Le GRFC est-il un tribunal compétent? Et si la réponse est affirmative,
+b) le paiement a-t-il été reçu en exécution d’une ordonnance rendue par ce tribunal?
+[56] Les deux parties ont présenté d’excellentes observations à l’égard de ces deux questions, mais aucune des sources invoquées n’est concluante en l’espèce. Néanmoins, je conclus que le GRFC doit être assimilé à un tribunal compétent et que le paiement a été reçu en exécution d’une ordonnance de ce tribunal.
+[57] En ce qui concerne ces deux questions, je retiens les thèses de l’appelant. Ils sont pertinents et bien appuyés par la jurisprudence, et ils s’harmonisent parfaitement avec une interprétation des dispositions en question qui visent clairement à réduire un taux marginal d’imposition défavorable dans les cas où les versements du revenu tiré d’un emploi de l’année écoulée ont été corrigés par un processus qui ne peut résulter que d’un contentieux ou d’un grief qui a été véritablement résolu par le recours à un mode officiellement reconnu de règlement des conflits ou des griefs. L’appelant avait déposé un grief qui a été résolu par le recours à un processus de règlement officiellement reconnu, qui a donné lieu à la décision d’une autorité reconnue par la loi.
+[58] Plus précisément, sur la question de savoir si le GRFC est un tribunal, je reconnais que le sens de « tribunal » doit, dans le contexte de la définition d’un « montant admissible » et pour l’application des articles 110.2 et 120.31, ne pas être moins général que la définition donnée au paragraphe 2(1) de la Loi sur les Cours fédérales. Même si le principe de l’application de l’uniformisation des expressions d’une loi à une autre ne peut en soi être un argument convaincant pour considérer le sens d’un mot rigoureusement défini dans un texte législatif mais non défini dans un autre comme s’appliquant au deuxième, c’est en l’espèce un argument que je trouve persuasif.
+[59] Le GRFC est clairement intervenu ou est causé être intervenu en tant que tribunal administratif responsable au regard de l’octroi du redressement demandé par l’appelant. Le fait que ce dernier se fonde sur les arrêts Bozzer et TeleZone confirme que ni l’absence d’attributs judiciaires ni la hiérarchie de l’autorité ne sont décisives lorsqu’il s’agit de déterminer le niveau de pouvoir requis pour constituer un « tribunal ». Si un garde‑frontière peut être un « tribunal » aux fins du droit administratif, le GRFC peut être un « tribunal » aux fins des articles 110.2 et 120.31 de la Loi. En outre, le fait que l’appelant se fonde sur la jurisprudence Dunsmuir n’est pas étranger à mon accueil favorable à sa thèse portant que, comme dispositions d’allègement, les articles 110.2 et 120.31 doivent viser toutes sortes de décideurs administratifs.
+[60] Je retiens également la thèse que le GRFC est un « tribunal compétent ». Encore une fois, bien que les arguments de l’intimée à cet égard soient plus convaincants, l’appelant a établi prima facie que le GRFC était compétent pour statuer sur la question. Je relève non seulement les renvois aux courriels envoyés à la chaîne de commandement qui a pris acte du « grief » de l’appelant et qui, ainsi, a pris part au processus décisionnel, mais aussi le fait que l’appelant a invoqué l’article 49 de la Loi sur la Défense nationale. Les forces armées sont un monde en soi. Ce qui se passe au niveau du GRFC pourrait bien être considéré comme ayant été autorisé par la loi ou, en termes plus simples, l’article 49 de la Loi sur la Défense nationale pourrait bien habiliter le GRFC, en tant que « tribunal compétent », à rendre l’ordonnance ou le jugement qui a donné lieu au versement du montant en question à l’appelant.
+[61] De plus, je conviens avec les avocats de l’appelant que le fardeau s’est déplacé à ce stade-ci vers l’intimée. Le monde des forces armées ne peut être mieux compris, expliqué ou soutenu que par l’intimée. Je n’ai pas entendu d’arguments de la part de l’intimée qui répond aux observations de l’appelant relativement à la compétence ou au pouvoir du GRFC de rendre une décision, une ordonnance ou un jugement exigeant que le montant soit versé à l’appelant.
+[62] En effet, l’intimée, à ce stade, se fonde sur un argument bien formulé et solide, à savoir que le paiement n’a pas été fait « en exécution » d’une ordonnance ou d’un jugement selon lequel l’employeur a mis fin à une « procédure judiciaire ».
+[63] Toutefois, l’intimée admet qu’un grief constitue une « procédure judiciaire ». Cette concession ne doit pas être mis à mal ou contesté par la Cour. Il est conforme aux dispositions d’allégement considérées.
+[64] Malgré cette admission, l’intimée soutient que l’appelant n’a pas déposé un « grief ». Selon l’intimée, le droit au paiement de l’appelant résulte d’un changement à la politique qui a été causé par des griefs déposés antérieurement par d’autres dans des cas semblables à celui de l’appelant.
+[65] L’intimée établit un subtil distinguo en ce qui concerne la procédure qui doit être reconnue comme une « procédure judiciaire » au sens plein de cette expression. Encore une fois, il est difficile ici de comprendre, dans le contexte des forces armées, ce que pourrait être une procédure de règlement des « griefs », ce qui soulève des questions concernant la partie qui a le fardeau de la preuve. L’intimée n’a été d’aucune aide à cet égard et je suis donc enclin à conclure que la demande officielle présentée en l’espèce était un grief qui doit être traité de la même manière que le ministre traite les autres griefs réglés par une autorité compétente, comme je l’ai constaté en l’espèce.
+[66] En outre, et fait plus important en l’espèce, il existe un lien très clair entre les « griefs » reconnus, déposés par d’autres, leur règlement et le traitement d’une demande officielle de l’appelant ayant trait à une décision qui ne contestait pas les décisions rendues à l’égard de ces griefs antérieurs. La plupart des décisions s’appuient sur des précédents. Qu’un décideur s’appuie sur un précédent ne modifie pas une décision quant à la conformité à une politique.
+[67] À mon avis, il est tout simplement inacceptable que les dispositions en question de la Loi soient interprétées de manière à exiger la promotion de certaines mesures officielles en matière de règlement des litiges avant qu’elles n’accordent le redressement qu’elles sont censées consentir. Cela est particulièrement vrai lorsqu’il y a un lien étroit entre le règlement d’une réclamation antérieure et la réclamation formulée par une autre partie dans des circonstances analogues. La question n’est pas la formalité des mesures prises, mais plutôt si la réclamation est fondée sur un droit. Dans ce contexte, les procédures judiciaires peuvent commencer par le dépôt d’une réclamation, une lettre d’avocat incluant une proposition de réclamation ou la lettre d’un plaignant établissant le bien-fondé d’une réclamation. Si cette dernière approche aboutit à un règlement par une autorité compétente, cela suffit pour conclure que la « procédure judiciaire » a pris fin. Le règlement rapide d’un contentieux ne doit pas être trop facilement considéré comme faisant obstacle à un traitement fiscal qui prolonge le contentieux par des blocages juridiques formalistes.
+[68] La « demande » officielle en l’espèce ne recherchait pas la conformité à une politique. Il s’agissait d’une réclamation fondée sur l’affirmation d’un droit établi par les enseignements antérieurs des tribunaux compétents. La reconnaissance du droit par un tribunal compétent a mis fin à la réclamation. Cela suffit à mon avis.
+[69] Pour ces motifs, l’appel est accueilli avec dépens.
+Signé à Ottawa, Canada, ce 29e jour d’août 2012.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 4e jour de décembre 2012.
+François Brunet, réviseur
+RÉFÉRENCE : 2012 CCI 306
+NO DU DOSSIER DE LA COUR : 2009-2659(IT)G
+INTITULÉ : JI-HWAN PARK c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Victoria (Colombie-Briannique)
+DATE DE L’AUDIENCE : Le 26 mars 2012
+MOTIFS DU JUGEMENT : L’honorable juge J.E. Hershfield
+DATE DU JUGEMENT : Le 29 août 2012
+COMPARUTIONS :
+Avocats de l’appelant :
+Me George F. Jones, c.r
+Me Gavin Laird
+Avocat de l’intimée :
+Me Matthew W. Turnell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom et cabinet : George F. Jones, c.r.
+Horne Coupar, Barristers & Solicitors
+3e étage, 612, rue View
+Victoria (Colombie-Britannique) V8W 1J5
+Nom et cabinet : Gavin Laird
+Laird & Company
+12165, chemin Harris, bureau 204
+Pitt Meadows (C.-B.), V3Y 2E9
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2001 CSC 81.
+[2] L.R.C. (1985), ch. I-21.
+[3] 2002 CSC 42.
+[4] L.R.C. (1985), ch. F-7.
+[5] 2011 CAF 186.
+[6] 2010 CSC 62.
+[7] 2008 CF 766.
+[8] Paragraphe 76.
+[9] 2011 CSC 25.
+[10] 2008 CSC 9.
+[11] [1979] 1 R.C.S. 311.
+[12] L’intimée n’a pas contesté l’affirmation selon laquelle la décision transmise par courrier électronique était par écrit.
+[13] L.R.C. (1985), ch. N-5.
+[14] 2003 CSC 68. Voir le paragraphe 5.
+[15] 98 DTC 1919 (C.C.I.).
+[16] 2005 CSC 54.
+[17] [1956] S.C.R. 446.
+[18] [1981] 2 C.F. 627 (CAF). Voir le paragraphe 21.
+[19] 2002 CSC 62.
+[20] Paragraphe 56.
+[21] Propositions législatives et notes explicatives concernant l’impôt sur le revenu, septembre 1999, p. 88-89.

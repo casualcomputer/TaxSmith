@@ -1,0 +1,178 @@
+---
+title: "Kosma-Kare Canada Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110782/index.do"
+last_modified: "2015-07-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 182"
+citation2: ""
+neutral_citation: "2015 TCC 182"
+decision_date: "2015-07-15"
+language: "en"
+item_id: "110782"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2643
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:15:55.836000+00:00"
+cases_cited_count: 10
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d4e3925fe72820f02918fda9063613acb7cec9bf3e9e1b453285741cf4083645"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kosma-Kare Canada Inc. v. The Queen
+
+- Citation: 2015 TCC 182
+- Decision date: 2015-07-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2643, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kosma-Kare Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-07-15
+Neutral citation
+2015 TCC 182
+File numbers
+2011-3056(GST)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-3056(GST)G
+BETWEEN:
+KOSMA-KARE CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Before: The Honourable Associate Chief Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Louis-Frédérick Côté
+Counsel for the respondent:
+Martine Bergeron
+JUDGMENT
+Considering the judgment I rendered on January 14, 2014, confirming the assessment made by the Minister of Revenue of Quebec on March 3, 2011, under Part IX of the Excise Tax Act (ETA) for the taxation periods between April 1, 2006, and June 30, 2010;
+Considering that that judgment was appealed from and that, in a judgment dated October 8, 2014, the Federal Court of Appeal (FCA) dismissed the appeal “except with regard to the penalty and the assessment for the April 2006 to February 2007 taxation period” and referred the appeal back to our Court for it to re-examine those two issues;
+And considering each party’s written submissions regarding these two issues;
+I reiterate the decision that I rendered in my judgment dated January 14, 2014, more specifically, with respect to the two issues that were submitted to me as per the FCA decision: the penalty imposed under section 285 of the ETA is confirmed and the appeal from the assessment under Part IX of the ETA, notice of which is dated March 3, 2011, in respect of the April 2006 to February 2007 taxation periods is again dismissed pursuant to subsection 298(4) of the ETA, in accordance with the attached Reasons for Judgment.
+The respondent is entitled to her costs.
+Signed at Ottawa, Canada, this 15th day of July 2015.
+“Lucie Lamarre”
+Lamarre A.C.J.
+Translation certified true
+On this 15th day of December 2015
+François Brunet, revisor
+Citation: 2015 TCC 182
+Date: 20150715
+Docket: 2011-3056(GST)G
+BETWEEN:
+KOSMA-KARE CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre A.C.J.
+Introduction [1] The appellant has appealed from a decision I rendered on January 14, 2014, to the Federal Court of Appeal. In a judgment dated October 8, 2014 (2014 FCA 225), the Federal Court of Appeal referred the matter back to this Court in order for it to again address the imposition of the penalty under section 285 of the Excise Tax Act (ETA) and with the application of subsection 298(4), which makes it possible to assess after the time limit prescribed by the ETA.
+[2] Justice Gauthier, who wrote the Reasons on behalf of the Federal Court of Appeal, ruled that the appellant’s appeal should be dismissed except with regard to the penalty and the assessment for the April 2006 to February 2007 taxation period (statute-barred period). Writing for the entire Court, Justice Gauthier made the following comments:
+[10] Kosma-Kare is further challenging the judge’s conclusions confirming the imposition of a penalty under section 285 of the Act. It also submits that the respondent did not meet its burden to establish that it could assess it outside the normal period under subsection 298(4) of the Act for the April 2006 to February 2007 period.
+[11] The judge described the correct test for disposing of the two issues at paragraph 74 of her reasons. However, according to Kosma-Kare, she erred in how she applied them.
+[12] Her reasons with respect to the penalty and the application of subsection 298(4) of the Act are brief (paragraph 76). The judge writes that Kosma‑Kare, despite the warning it received from the ARQ in 2005, agreed to work with people with no concern as to whether they had work permits or a social insurance number, thinking that the blame would be placed on the agencies with which it was working. According to the judge, this demonstrates complete indifference towards the Act and amounts to gross negligence. In this regard, she cites the decision of Justice Strayer in Venne v. Canada (Minister of National Revenue), [1984] F.C.J. No. 314 (QL), 1984 CarswellNat 210, 84 D.T.C. 6247 (Venne).
+[13] First, the respondent admitted that the Act does not deal with the duty to pay employees minimum wage any more than it requires them to obtain work permits. Then, contrary to Justice Strayer’s approach in Venne, the judge did not explain the link she established between Kosma-Kare’s false statement or omission (the only issue discussed at the hearing before us was the name and business number of the supplier or the intermediary Kosma-Kare had to declare under the Regulations) and the failure to comply with other legislation concerning work permits and the minimum wage.
+[14] This is a palpable and overriding error since nothing else in the decision justifies the conclusion that Kosma-Kare committed gross negligence directly related to a false statement or omission within the meaning of section 285 of the Act.
+[15] Similarly, in dealing with the application of subsection 298(4) of the Act, the judge also failed to clarify the link she established between Kosma-Kare’s wilful blindness to the worker’s illegal status and its alleged misrepresentations. At no time did the judge indicate on what basis Kosma-Kare was aware or should have been aware, had it not been for its neglect, carelessness or wilful default, that 9167 and 9199 were not service suppliers or were not acting as intermediaries under the Regulations.
+[16] In the circumstances, the judge’s two conclusions in this respect must be set aside. The appeal will therefore be dismissed except with regard to the penalty and the assessment for the April 2006 to February 2007 taxation period. The matter will be referred back to the TCC for redetermination of these two issues. Given the mixed outcome, each party shall bear its own costs.
+[3] Moreover, the Federal Court of Appeal ruled that the appellant had not made a prima facie case that the Minster’s assumptions were erroneous (para. 8 of the decision).
+[4] Thus, this Court is only called upon to re‑determine whether the facts, as shown by the evidence, support a ruling that the penalty imposed under section 285 of the ETA was warranted and that the Minister was entitled to make a reassessment for the period from April 1, 2006, to February 28, 2007, under subsection 298(4) of the ETA. More specifically, the Court is called upon to explain the link that it established between the appellant’s false statement or omission regarding suppliers for the purposes of the GST and its failure to comply with non‑taxation legislation dealing with work permits and minimum wage.
+Appellant’s position [5] The appellant submits that the respondent did not discharge her burden of establishing the factors justifying the penalty imposed under section 285 as well as the reassessment made under subsection 298(4) of the ETA.
+[6] In its written submissions, the appellant argued that it had no obligation to investigate under the ETA and that it is not a [Translation] “tax police”. Therefore, it did not have to investigate 9167‑4523 Québec Inc. (9167) and 9199‑9201 Québec Inc. (9199).
+[7] The appellant referred to Airport Auto Ltd. v. The Queen, 2003 TCC 683, and a Court of Québec case, Systèmes intérieurs GPBR Inc. c. l’Agence du revenu du Québec, 2013 QCCQ 12689 (on appeal to the Court of Appeal of Québec). Counsel for the appellant also referred to Pépinière A. Massé Inc. v. The Queen, 2011‑3900(GST)G (on appeal to the Federal Court of Appeal).
+[8] In addition, the appellant submits that the interpretation and the application of tax statutes cannot depend on the morality of a taxpayer’s conduct (see Canadian Imperial Bank of Commerce v. The Queen, 2013 FCA 122). Thus, it argues that evaluating a taxpayer’s morality or conduct is irrelevant for ruling on the right to recover GST as an input tax credit (ITC) and that a discussion of the issue of morality is also irrelevant as to the application of section 285 and subsection 298(4) of the ETA.
+Respondent’s position [9] The respondent submits that the penalty imposed under section 285 of the ETA is warranted. For the respondent, our Court’s findings of fact clearly show that the appellant was wilfully blind regarding several clues that the names on the invoices were false.
+[10] The respondent argues that a clear link exists between the appellant’s proven wilful blindness and its false statements, namely, the fact that it produced invoices containing false names (and registration numbers) of suppliers.
+[11] The respondent submits that the conditions for applying subsection 298(4) of the ETA are met and that the assessment for the period from April 1, 2006, to February 28, 2007, is therefore not statute-barred. According to the respondent, the degree of negligence required by subsection 298(4) of the ETA is lower than the degree of negligence needed to justify the imposition of the penalty provided for section 285 of the ETA.
+Analysis [12] Under section 285 of the ETA, a penalty may be imposed on a person for knowingly, or under circumstances amounting to gross negligence, making or participating in, assenting to or acquiescing in the making of a false statement or omission in a return or other document relating to a reporting period or transaction.
+[13] Since Canada (Attorney General) v. Villeneuve, 2004 FCA 20, the law is settled: the phrase “gross negligence” can encompass wilful blindness. In that case, the Federal Court of Appeal stated the following:
+[6] With respect, I think the judge failed to consider the concept of gross negligence that may result from the wrongdoer’s willful blindness. Even a wrongful intent, which often takes the form of knowledge of one or more of the ingredients of the alleged act, may be established through proof of willful blindness. In such cases the wrongdoer, while he may not have actual knowledge of the alleged ingredient, will be deemed to have that knowledge.
+[14] Wilful blindness arises where a person who has become aware of the need to seek information declines to seek it because he or she would prefer not to know the truth. The law will impute knowledge to a taxpayer who, in circumstances that dictate or strongly suggest that an inquiry should be made with respect to his or her tax situation, refuses or fails to commence such an inquiry without proper justification (Panini v. The Queen, 2006 FCA 224, 2006 DTC 6450, paragraphs 42-43).
+[15] In Torres v. The Queen, 2013 TCC 380, this Court concluded, at paragraph 65, that “[k]nowledge of a false statement can be imputed by wilful blindness”.
+[16] In Lacroix v. The Queen, 2008 FCA 241, the Federal Court of Appeal made the following comments at paragraph 32:
+. . . There may be circumstances where the Minister would be able to show direct evidence of the taxpayer’s state of mind at the time the tax return was filed. However, in the vast majority of cases, the Minister will be limited to undermining the taxpayer’s credibility by either adducing evidence or cross‑examining the taxpayer. Insofar as the Tax Court of Canada is satisfied that the taxpayer earned unreported income and did not provide a credible explanation for the discrepancy between his or her reported income and his or her net worth, the Minister has discharged the burden of proof on him within the meaning of subparagraph 152(4)(a)(i) and subsection 162(3) [sic].[1]
+[17] The Court is called upon to justify the conclusion that the appellant has committed gross negligence directly related to a false statement or omission. It must explain the link between the appellant’s false statement or omission regarding the suppliers’ names and registration numbers that it gave in order to claim ITCs and the failure to comply with non-taxation legislation.
+[18] Subsection 169(4) of the ETA requires that a registrant be able to present sufficient information to claim ITCs. That information includes the information prescribed by section 3 of the Input Tax Credit Information (GST/HST) Regulations (Regulations).
+[19] It is worth recalling the comments made by the Federal Court of Appeal in Systematix Technology Consultants Inc. v. Canada, 2007 FCA 226, [2007] F.C.J. No. 836 (QL), where Justice Sexton stated the following:
+[4] We are of the view that the legislation is mandatory in that it requires persons who have paid GST to suppliers to have valid GST registration numbers from those suppliers when claiming input tax credits.
+[20] In this case, the appellant made false statements with respect to the name and registration number of the supplier or intermediary that it had to declare under the Regulations. The Court must determine whether that misrepresentation was attributable to gross negligence.
+[21] As was established, all of the evidence indicates that the appellant did not act in good faith and that it indirectly participated in an illegal scheme (paragraph 60 of the TCC judgment). The appellant derived benefits from the scheme in the sense that it profited from underpaying illegal workers (paragraphs 58 and 69 of the TCC judgment).
+[22] In my view, the appellant committed gross negligence in the performance of its obligations under the ETA because it was wilfully blind.
+[23] Indeed, I believe that the appellant, in the circumstances, should have been aware of the need for some inquiry about the suppliers it did business with in order to provide the information needed and to meet the requirements of the ETA and the Regulations. The evidence adduced in this case shows the following, among other things: (1) the appellant was not concerned about the agencies’ name changes (for example, it did not inquire into the existence of articles of incorporation for the various entities when the agencies’ names changed, unlike the situation in Pépinière A. Massé, cited by the appellant); (2) it did not heed the ARQ’s warning; (3) it did not think it important to sign the contract with Mr. Chioda when he began to do business with it again in 2008, and signed that agreement only during the ARQ’s audit, two years after the fact; (4) we add that the appellant was not completely unaware that 9167 and 9199 had neither the capacity nor the legal attributes to act as a placement agency or as an intermediary (paragraphs 68 and 69 of the TCC judgment). The appellant failed to act in a way that would enable it to correctly identify its suppliers and to provide valid registration numbers. Indeed, the appellant did not act in all innocence. In my view, the appellant’s conduct exceeds the threshold of mere negligence.
+[24] In the light of the foregoing, the appellant’s knowledge that the supplier with which it did business did not comply with other legislation dealing with work permits and workers’ wages was an additional serious clue that 9167 and 9199 were not real placement agencies or the intermediaries of such agencies. Yet, the appellant chose to look the other way. The workers’ illegal status and the failure to comply with minimum wage legislation were just some factors among others that supported a finding that there were irregularities relating to the suppliers the appellant dealt with.
+[25] In acting that way, the appellant knew or ought to have known that the information provided in the supporting documents filed for the purposes of claiming ITCs contained false statements. In that regard, the appellant was indifferent as to whether the ETA was complied with or not. In my view, such conduct is sufficient to conclude that there was gross negligence justifying the imposition of the applicable penalties. The case law is clear: knowledge of a false statement may be inferred from wilful blindness.
+[26] Similarly, with respect to applying subsection 298(4) of the ETA, the appellant should have known, had it not been for its neglect, carelessness or wilful default, that 9167 and 9199 were not service providers and were not acting as intermediaries under the ETA and the Regulations. The failure to comply with other legislation concerning work permits and minimum wage was another indication that the invoice providers were possibly not real service providers. The appellant’s conduct shows that it did not exercise a sufficient degree of due diligence to enable it to provide the information required by the ETA and the Regulations. The respondent showed that the appellant made a misrepresentation that was attributable to neglect, carelessness or wilful default.
+[27] With respect to the appellant’s argument that it is not obliged to investigate under the ETA, I am of the view that the situation in this case is different from the situation in the cases to which it referred. I have concluded in my reasons that the appellant’s good faith was not established, and I am of the view that it is impossible for me to find that the appellant was an innocent victim of a false invoicing scheme (as was apparently the case in Pépinière A. Massé Inc., which is currently on appeal before the Federal Court of Appeal).
+[28] As stated above, when there is an issue of gross negligence, the taxpayer’s conduct should be considered, especially if it must be determined whether the taxpayer was wilfully blind. The particular circumstances of each case should be taken into account to assess the taxpayer’s conduct. I reiterate: wilful blindness arises where a person who has become aware of the need for some inquiry declines to make the inquiry because he or she prefers not to know the truth. That is precisely what happened in this case. The appellant took no reasonable measures to ensure that it provided the information required by the ETA and the Regulations, despite the circumstances. The appellant preferred to remain ignorant and [Translation] “look the other way”. No specific duty to investigate was imposed on the appellant. However, I consider that, in this case, it became necessary for it to find out the identity of its suppliers when it knew that the circumstances dictated that it inquire into the situation in order to fulfill its obligation to provide accurate information when claiming ITCs under the ETA and the Regulations.
+[29] In regard to the appellant’s argument on the relevance of the morality of a taxpayer’s conduct in tax matters, I would reiterate that I did not refer to any immoral conduct by the appellant in my reasons. I ruled on the appellant’s conduct in order to establish that it was indifferent with respect to complying with the ETA. I had to rule on this to establish the ARQ’s right to assess beyond the normal reassessment period and to impose a penalty.
+[30] In the light of the foregoing, I am of the view that the Minister was correct in imposing a penalty under section 285 and that he was justified in making an assessment after the expiration of the normal reassessment period under subsection 298(4) of the ETA.
+[31] I thus confirm the decision that I rendered in my judgment dated January 14, 2014, and the appeal is dismissed with respect to the two issues that were submitted to me on the basis of the Federal Court of Appeal’s decision.
+Signed at Ottawa, Canada, this 15th day of July 2015.
+“Lucie Lamarre”
+Lamarre A.C.J.
+Translation certified true
+On this 15th day of December 2015
+François Brunet, revisor
+CITATION:
+2015 TCC 182
+COURT FILE NO.:
+2011-3056(GST)G
+STYLE OF CAUSE:
+KOSMA-KARE CANADA INC. v.
+HER MAJESTY THE QUEEN,
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+February 17, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Associate Chief Justice Lucie Lamarre
+DATE OF JUDGMENT:
+July 15, 2015
+APPEARANCES:
+Counsel for the appellant:
+Louis-Frédérick Côté
+Counsel for the respondent:
+Martine Bergeron
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Louis-Frédérick Côté
+Firm:
+Spiegel Sohmer
+Montréal, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Subparagraph 152(4)(a)(i) and subsection 163(2) of the Income Tax Act are provisions that are equivalent to subsection 298(4) and section 285 of the ETA.

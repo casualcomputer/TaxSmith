@@ -1,0 +1,159 @@
+Title: Scott v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520987/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-131-520987-scott-v-the-king-en.md
+Document type: case_law
+Last modified: 2022-11-01
+
+# Scott v. The King
+
+- Citation: 2022 TCC 131
+- Decision date: 2022-11-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4509, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scott v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-12-08
+Neutral citation
+2022 TCC 131
+File numbers
+2021-1371(IT)I
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-1371(IT)I
+BETWEEN:
+CAROLE SCOTT,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on September 15, 2022 at North Bay, Ontario.
+Before: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Hubert-Martin Cap-Dorcelly
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal with respect to whether the Appellant is a “shared-custody parent” and therefore is entitled to one half of the Canadian Child Benefit for the March 2018 to August 2019 period is disallowed. There will be no costs awarded to either party.
+Signed at Ottawa, Canada this 1st day of November 2022.
+“R. MacPhee”
+MacPhee J.
+Citation: 2022 TCC 131
+Date: 20221208
+Docket: 2021-1371(IT)I
+BETWEEN:
+CAROLE SCOTT,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+MacPhee J.
+[1] This is an appeal dealing with the Canada Child Benefit. The Appellant, Carol Scott, is appealing a determination made by the Minister of National Revenue (Minister) that she was not a shared-custody parent for the March 2018 to August 2019 period for the purpose of determining her eligibility for the Canada Child Benefit (CTB) Income Tax Act, R.S.C. 1985, c.1 (5th Supp.) (Act).
+[2] Under the Act, subject to certain conditions, individuals who are shared-custody parents of a child are each entitled to one-half of the CTB Credit.
+Preliminary Issue
+[3] The appeal before the Court relates to child tax benefits under both federal and Ontario legislation. This Court has no jurisdiction with respect to Ontario legislation. The Ontario Child Tax Benefits part of the appeal will be quashed.
+Facts
+[4] The Appellant and her ex-spouse are divorced. They had two children together. They will be referred to as the daughters. In 2018, the daughters were 16 and 12 years old.
+[5] Pursuant to a court order from the Ontario Court of Justice, Sudbury dated May 11, 2015 the Appellant and her ex spouse shared custody of their girls. In general terms, the parents were to have the girls on a week on, week off basis.
+[6] Initially the terms of the Family Court order were adhered to by all the parties [1] . What is also not in dispute is that sometime on or before September 2019, both daughters began living full time with their father. The Appellant states that this occurred in Sept 2019, when she moved away from her daughter’s hometown. She did this in part, to make life easier for her daughters.
+[7] The Respondent argues that in early 2018, and no later than March 2018, both daughters began residing full time with their father.
+[8] The evidence at trial was rarely specific, either in terms of the living arrangements for each daughter, nor for the time periods each of the daughters spent with the Appellant.
+[9] Three witnesses testified at trial. Their evidence, as it relates to my decision, is reviewed below.
+Appellant’s testimony
+[10] Much the Appellant’s testimony dealt with various family disputes and difficulties she has experienced raising the daughters in a shared custody arrangement.
+[11] In 2016, the Appellant had a son, with a different partner. Her son has Down’s syndrome. Because of her work schedule and the lack of childcare available, the Appellant relied heavily upon her daughters in the 2018 and 2019 years to assist with childcare for her son. This required one or both of her daughters to attend at her home most days of the week.
+[12] The Appellant relies, in part, upon this arrangement to support her argument that her daughters resided with her, as a shared custodial parent, through 2018 and 2019.
+[13] The Appellant also provided some documentation to support her claim of shared custody. Much of the documentation she relied upon I have given very little weight.
+[14] One document, from the girl’s family health team, stated that the younger of the daughters resided with her father, no mention is made of the older daughter. These notes also indicate that her daughters did not want to stay with the Appellant. These notes appeared at times to be contradictory and did not assist the Appellant.
+[15] In the body of the notes, there is a reference from a nurse indicating that she spoke with both daughters, who stated they lived with their father for the time in question. The documents, after various back and forth between the health team and the Appellant, eventually concluded that the health team was unable to conclude at what date the girls began residing with their father full time.
+[16] The Appellant also entered into evidence correspondence from the daughter’s dentist’s office indicating that the address on record for the girls is hers. Correspondence from the school board indicated the girls resided with both their mother and father. Finally, a note from a neighbour was filed to support the Appellant’s argument that joint custody occurred until September 2019. This note was lacking in specifics, but the writer did indicate that she believed the daughters rotated between both their parent’s homes for the year in question.
+[17] The Appellant acknowledges that her older daughter moved out of the home at various times in 2018 and 2019. However, she claims her older daughter always came back to her home. As for the younger daughter, the Appellant simply testified that her daughter resided with her at least 50% of the time up to September 2019.
+[18] In cross-examination, the Appellant admitted that an inappropriate incident (the incident) occurred between one of her daughters and the father of her son (who was residing in the family home between 2016 and 2018, but not continuously). Because of this incident, which occurred in September 2016, the male individual was told to leave the family home. However, he was allowed to return to the family home a few months later. In January 2018, he left the Appellant’s home for good.
+[19] This incident plays a large role in how events unfolded subsequently.
+[20] The Appellant’s oldest daughter testified next. She was twenty years old at the time of trial. I found her testimony to be the most reliable of all the evidence provided. Unlike either the Appellant or her ex husband, she appeared to have no animosity to any of the parties. I accept that her intention was to describe what truly happened in the family living arrangement.
+[21] Although sometimes hazy on dates, the daughter attempted to be as specific as her recollections allowed.
+[22] She stated that the incident left both her and her sister shaken. She initially reacted by being very rude to her mom’s partner while he was in her mother’s home.
+[23] She testified that she moved to her father’s house prior to January 2018. She states her younger sister also moved to her father’s home “a few months after January 2018”. She later stated that her younger sister moved with her father some time in 2018.
+[24] The Appellant’s ex-spouse also testified. He testified that the daughters lived on an equal basis with him and the Appellant for a period, pursuant to the court order. This lasted up to 2018. In 2018, the living situation changed for the daughters, by their choice. Both of the daughters moved into his home on a full time basis. He also testified that the incident was very traumatic for the youngest daughter, and it lead to her residing solely with him, sometime in early 2018.
+[25] The father did provide some compelling evidence to support his recollections. He stated that on numerous occasions the Appellant contacted the Children’s Aid Society (the CAS) because of her concerns over the daughter’s living conditions in his home. He stated that the CAS never found any problems. However, because of their frequent visits, the CAS was able to confirm that the daughters lived at his home full time. A letter dated December 5, 2019 from the CAS office in Sudbury confirms that the daughters were living at his home full time since “approximately February 2018”.
+[26] I have reviewed this letter with section 18.15(3) of the Tax Court of Canada Act [2] in mind. Under subsection 18.15(3), I have a broad discretion to hear evidence, including hearsay evidence. I accept the CAS letter as relevant and reliable evidence to the issue before the Court.
+[27] At the conclusion of all the evidence provided, I found the Appellant provided very few details in support of the contention that the daughters were residing with her in a joint custody arrangement for the period in question.
+Analysis
+[28] The CCB is a tax-free monthly payment to families to assist them in raising children under 18 years of age. A separate benefit is payable for each child. Payments occur over 12 months, beginning in July and ending the following year in June. The amount of the CCB is determined based on a parent’s income, the number of children for which the benefit is claimed and the age of the children. The CCB phases out with increasing income levels, thereby targeting low and middle-income families.
+[29] The legislation employs a number of defined terms. An “eligible individual” in respect of a “qualified dependent” will receive the CCB if his or her “adjusted income” was low enough in the relevant “base taxation year”.
+[30] The question in this matter is whether the appellant was an eligible individual.
+[31] Broadly speaking, “eligible individuals” fall into three categories:
+(a) If the parents are cohabiting, the female parent is deemed the “eligible individual” and receives the full amount of the CCB.
+(b) If the parents are separated and one parent primarily fulfils the responsibility for the care and upbringing of the child, then that parent is the “eligible individual” and he or she receives the full amount of the CCB.
+(c) If the parents are separated and they are “shared-custody parents”, they are both “eligible individuals” and each receives half of the full amount of the CCB.
+[32] The Appellant argues she is a shared custody parent for the period before the Court.
+Shared-Custody Parent
+[33] As set out above, when parents are “shared-custody parents”, they are both considered “eligible individuals”. The application of the formula in subsection 122.61(1.1) of the Act results in each of them receiving 50% of the CCB.
+[34] “Shared-custody parent” is defined as follows:
+Shared-custody parent . . . an individual who is one of the two parents of the qualified dependant who
+(a) are not at that time cohabitating spouses or common-law partners of each other,
+(b) reside with the qualified dependant either
+(i) at least 40% of the time in the month in which the particular time occurs, or
+(ii) on an approximately equal basis, and
+(c) primarily fulfil the responsibility for the care and upbringing of the qualified dependant when residing with the qualified dependant, as determined in consideration of prescribed factors.
+[35] There are three components to this definition: the parents must not be cohabitating, the child must reside with the parent and the parent must primarily fulfill the responsibility for the care and upbringing of the child while the child is residing with him or her.
+[36] I will not focus on the “care and upbringing test”. The Respondent argues that the daughters were not residing with the Appellant during the March 2018 to September 2019 period thus making the Appellant ineligible for the CTB benefit.
+Residing with the parent
+[37] In order to meet the residing with the parent test, the parent must reside with the child either:
+(a) at least 40% of the time in the month in which the particular time occurs, or
+(b) on an approximately equal basis.
+[38] The Appellant was not very convincing in claiming that the daughters resided with her on an equal basis. It is important to note that the CCB is paid on a child-by-child basis. As a result, eligibility is determined on a similar basis and a parent may be an “eligible individual” in respect of one child but not in respect of another.
+[39] Based on the following evidence, I do not accept that either of the daughters were residing with their mother as much as 40% of the time as of early 2018:
+(i) The evidence of the oldest daughter. As noted above, I found her to be unbiased and her testimony was largely uncontested. She was clear that as of early 2018 she did not reside with her mother. She also stated that her sister did not reside with her mother as of early 2018 (and later she said this cessation occurred sometime in 2018). Both daughters, in 2018, moved their belongings to their father’s home, and spent their nights with him. Her evidence is logical and corroborated by the timing of the incident. The daughters were troubled that the Appellant’s ex-boyfriend was allowed back into their mother’s home while they resided there. This, in part, led them to reside with the father on a full time basis in early 2018.
+(ii) The Appellant’s evidence lacked specifics as to when the daughters resided with her. She was clear that the daughters attended her home on a daily basis, but provided very little evidence as to them residing in her home in the period before the Court.
+(iii) The ex-spouse’s testimony supported the Respondent’s position. He was clear that the daughters were greatly affected by the incident, and as a result resided with him after the incident on a full time basis. His evidence was that this occurred in early 2018. As noted above, I do find the correspondence from the CAS compelling, in support of the fact that the daughters resided with their father on a full time basis as of early 2018.
+[38] Unfortunately for the Appellant, where the evidence is clear, it supports that the daughters no longer resided with the Appellant, commencing in early 2018. I accept that the daughters attended the Appellant’s home on an almost daily basis, both to care for their younger half brother, as well as to visit with their mother. Nevertheless, I also accept that they would then return to their father’s home where they kept their belongings and resided.
+[39] Therefore, I must disallow the appeal.
+These Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated November 1, 2022.
+Signed at Ottawa, Canada this 8th day of December 2022.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2022 TCC 131
+COURT FILE NO.:
+2021-1371(IT)I
+STYLE OF CAUSE:
+CAROLE SCOTT AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+North Bay, Ontario
+DATE OF HEARING:
+September 15, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+DATE OF AMENDED
+REASONS FOR JUDGMENT:
+November 1, 2022
+December 8, 2022
+APPEARANCES:
+Counsel for the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Hubert-Martin Cap-Dorcelly
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In Nixon v Nixon, 2014 CarswellSask 601 (Sask QB), the court held that the determination of whether parents are shared-custody parents is a question of taxpayer behaviour and is not determined solely by the terms of a separation agreement. Therefore, I must look beyond the separation agreement, as to what truly occurred.
+[2] Tax Court of Canada Act, RSC, 1985, c T-2. 18.15(3) of the Tax Court of Canada Act states that the Court is not bound by any legal or technical rules of evidence, thus giving me a broad discretion to accept proposed evidence, this discretion is to be applied while ensuring fairness for all parties before the Court.

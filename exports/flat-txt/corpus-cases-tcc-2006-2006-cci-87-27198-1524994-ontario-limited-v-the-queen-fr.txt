@@ -1,0 +1,240 @@
+Title: 1524994 Ontario Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27198/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-87-27198-1524994-ontario-limited-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-02-15
+
+# 1524994 Ontario Limited v. The Queen
+
+- Citation: 2006 CCI 87
+- Decision date: 2006-02-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1001, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1524994 Ontario Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-15
+Référence neutre
+2006 CCI 87
+Numéro de dossier
+2002-4946(GST)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002‑4946(GST)G
+ENTRE :
+1524994 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu à London (Ontario), les 26 et 27 octobre 2005.
+Devant : l'honorable juge C. H. McArthur
+Comparutions :
+Avocat de l'appelante :
+Me David Thompson
+Avocat de l'intimée :
+Me Boyd Aitken
+________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 20 février 2001, pour la période allant du 1er août 1997 au 30 avril 2000, est accueilli avec dépens et la cotisation est annulée.
+Signé à Ottawa, Canada, ce 15e jour de février 2006.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 30e jour d'avril 2008.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI87
+Date : 20060215
+Dossier : 2002‑4946(GST)G
+ENTRE :
+1524994 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s'agit d'un appel interjeté en vertu de la partie IX de la Loi sur la taxe d'accise pour la période de déclaration allant du 1er août 1997 au 30 avril 2000. La question à trancher est celle de savoir si les services fournis par l'appelante (la « personne morale ») et deux médecins sont des fournitures exonérées en vertu de la partie II de l'annexe V de la Loi. Le ministre du Revenu national a établi une cotisation de 31 686 $ à l'égard de l'appelante pour la taxe sur les produits et services découlant d'un contrat conclu par les docteurs Hugh Rooney et James Campbell (les « médecins »), l'appelante et Brian Field.
+[2] L'appelante, 1524994 Ontario Limited, est une remplaçante de 722592 Ontario Limited, personne morale qui avait été constituée le 31 juillet 1987 en vue d'exploiter l'entreprise appelée The Audiology Clinic of Southwestern Ontario (la « clinique »). Le 31 juillet 2002, l'appelante et 722592 Ontario Limited ont fusionné. Brian Field est le principal responsable de l'appelante et de la clinique.
+[3] Au début de l'audience, l'appelante a reconnu qu'elle ne poursuivait pas les questions mentionnées à l'alinéa 16c) de la réponse à l'avis d'appel à l'égard des crédits de taxe sur les intrants. La seule hypothèse en litige est énoncée à l'alinéa 16b), qui est rédigé comme suit :
+[TRADUCTION]
+b) pendant la période pertinente, l'appelante effectuait des fournitures aux docteurs Rooney et Campbell, à savoir la location d'un immeuble et de matériel ainsi que des services de gestion;
+De plus, le ministre a imposé des pénalités, mais il n'en a pas parlé durant l'audience.
+[4] L'appelante effectuait des examens en matière d'audiologie (les « tests auditifs ») sous le nom commercial susmentionné. Elle appartenait à Brian Field et était exploitée par lui. Monsieur Field a été, en Ontario, l'un des premiers à ouvrir et à exploiter, par l'entremise de la personne morale, une clinique séparée de tout bureau de médecin ou d'un hôpital. La clinique employait son propre personnel, composé de trois ou quatre employés, notamment un aide‑comptable, une réceptionniste et un audiologiste autorisé à exercer sa profession en Ontario.
+[5] En Ontario, l'audiologie est réglementée par la législation provinciale. Monsieur Field est un audiologiste agréé et il est membre de l'Ordre des audiologistes et des orthophonistes de l'Ontario. La clinique et M. Field fournissaient, pour l'essentiel, des services à des patients que leur adressaient des médecins de London et des environs. Le Régime d'assurance‑santé de l'Ontario (le « RASO ») offrait une protection uniquement à l'égard des tests auditifs demandés par des médecins et administrés sous la supervision de médecins. Pour contourner cette exigence, la clinique et M. Field ont conclu une entente datée du 11 novembre 1989[1] avec deux médecins de famille qui avaient leur cabinet de l'autre côté du couloir par rapport à la clinique.
+[6] Brian Field était un témoin impressionnant, même si les dispositions qu'il a prises avec les médecins ne méritent pas d'éloges. Après six années d'études, il a commencé à exercer la profession d'audiologiste au milieu des années 1980. Il importe de noter que c'est lui qui a ouvert la clinique, et non les médecins. L'entente pertinente conclue par les parties est datée du 11 novembre 1989. Les dispositions de l'entente concernant la location prévoyaient que les médecins loueraient de la personne morale, sur une base mensuelle, les locaux utilisés pour l'exploitation d'une clinique d'audiologie, ainsi que tout le matériel y afférent, moyennant le paiement d'un montant de 5 000 $, payable le 20e jour de chaque mois. L'entente de location a été modifiée au mois de février 1992, mais cela ne change rien aux faits pertinents, si ce n'est que le loyer mensuel est passé à 6 000 $, réparti comme suit : 1 000 $ pour la location des locaux et 5 000 $ pour la location du matériel. À cause de l'importance qu'elle a dans la présente décision, l'entente initiale datée du 11 novembre 1989 est reproduite en entier à l'annexe « A ».
+[7] L'entente visait à permettre de facturer au RASO les services d'audiologie que la clinique fournissait aux patients renvoyés par les docteurs Campbell et Rooney ainsi que par d'autres médecins, et de payer les montants reçus du RASO par les deux médecins. Les frais d'audiologie[2] sont exempts de la TPS. Le RASO ne payait les frais d'audiologie que pour les services fournis par un médecin ou sous la supervision d'un médecin[3].
+[8] L'entente prévoyait notamment que les locaux et le matériel de la clinique étaient loués aux deux médecins aux fins de l'exploitation d'une clinique d'audiologie. Elle prévoyait en outre que M. Field serait un employé des deux médecins et fournirait des services d'audiologie aux patients que les médecins lui renvoyaient. C'était la clinique qui devait s'occuper de la gestion de l'entreprise d'audiologie. L'entente stipulait également que les deux médecins recevraient chaque année 12 000 $ à l'égard des montants facturés au RASO pour le compte de la clinique.
+[9] Les aides‑comptables des parties ont essayé de tenir une comptabilité conforme à l'entente en vue d'inclure des frais de gestion et le loyer. C'était en fait une fiction. En réalité, les médecins touchaient chaque mois 1 000 $ pour traiter les frais de l'appelante aux fins du paiement par le RASO. Tous les paiements relatifs aux services d'audiologie reçus du RASO, lesquels s'élevaient en tout à plus de 10 000 $ par mois, étaient remis à l'appelante, moins le montant mensuel de 1 000 $ qui allait aux médecins. Telle était la portée de l'entente. Monsieur Field n'était pas un employé des médecins. Les locaux et le matériel n'étaient pas réellement loués. Il n'était pas prévu qu'il y aurait location et il n'y en avait pas. Il n'y avait pas de services de gestion ou de consultation qui étaient fournis. La preuve présentée par le docteur Rooney et par M. Field n'a pas été contredite sur ce point.
+[10] Voici un exemple du tableau que les médecins envoyaient chaque mois à la clinique[4] :
+[TRADUCTION]
+TABLEAU DES DÉBOURS ASSOCIÉS AUX MONTANTS REÇUS DU RASO
+Le Dr H. Rooney
+Meridian Hearing Centre
+205‑440, chemin Boler
+London (Ontario)
+N6K 4L2
+OPÉRATIONS POUR LES MOIS DE : JUIN‑JUILLET
+Montant brut versé par le RASO
+9 291,30 $
+Moins : frais de consultation et services administratifs
+550,00 $
+Solde payable à Meridian Hearing Centre
+8 741,30 $
+L'appelante informait le cabinet du docteur Rooney des montants mensuels facturés pour les services d'audiologie (tests auditifs) et le cabinet du docteur Rooney facturait le même montant au RASO et versait ensuite à la clinique le montant reçu du RASO après avoir déduit les frais d'administration. Je conclus que les médecins agissaient en fait à titre de mandataires de l'appelante quant à ses relations avec le RASO.
+[11] Le paragraphe 123(1) de la Loi définit l'expression « fourniture exonérée » comme suit :
+123(1) Les définitions qui suivent s'appliquent à l'article 121, à la présente partie et aux annexes V à X.
+[...]
+« fourniture exonérée » Fourniture figurant à l'annexe V.
+L'annexe V, partie II – Services de santé, comprend les dispositions suivantes :
+7. La fourniture effectuée par un praticien d'un des services suivants rendus à un particulier :
+[...]
+g) services d'audiologie;
+Position de l'appelante
+[12] L'appelante fournissait des services d'audiologie qui sont exonérés de la TPS. L'entente conclue par l'appelante et les médecins n'était pas une entente de location, ni un contrat d'emploi et de prestation de services ou une entente de gestion, et elle ne devait jamais l'être. L'appelante fournissait un service exonéré. L'entente a été préparée uniquement afin de satisfaire aux exigences du RASO aux fins de la facturation. L'appelante a fait valoir que le rapport juridique qui existe à l'égard d'un contribuable et la nature commerciale véritable de l'entreprise d'un contribuable doivent être respectés; l'arrêt Singleton c. Canada[5] a été mentionné. Il a également été fait mention de l'arrêt Bronfman Trust c. La Reine[6], tel qu'il a été cité dans l'arrêt Singleton, ainsi que de la décision Sussex Square Apartments Ltd. c. La Reine[7], à l'appui de la thèse selon laquelle il faut interpréter l'entente pour déterminer le rapport juridique véritable existant entre les parties.
+Position de l'intimée
+[13] L'avocat de l'intimée déclare que, si les montants versés à l'appelante par les médecins étaient des frais de location et de gestion, ces montants ne seraient pas exonérés de la TPS. Les rapports juridiques véritables créés selon l'entente figurant à l'annexe « A » décrivent clairement l'opération et il ne faut rien changer à cette description. L'avocat mentionne le passage souvent cité de la décision R. c. Friedberg[8], dans lequel le juge Linden dit ce qui suit :
+En droit fiscal, la forme a de l'importance. Une simple intention subjective, en l'espèce comme dans d'autres instances en matière fiscale, ne suffit pas en soi à modifier la caractérisation d'une opération aux fins de l'impôt. [...]
+[14] L'avocat a également mentionné les remarques du juge en chef McLachlin, de la Cour suprême du Canada, dans l'arrêt Shell Canada ltée c. La Reine[9], en particulier lorsqu'elle cite des passages de l'arrêt Bronfman Trust selon lequel on ne peut pas se fonder sur la réalité économique d'une situation pour justifier une nouvelle qualification des rapports juridiques véritables établis. L'avocat mentionne ensuite les remarques du juge Major dans l'arrêt Singleton et déclare que l'appelante ne peut pas choisir à sa guise les dispositions qu'elle veut, ou ne veut pas, en vue de répondre à ses besoins actuels. L'appelante ne peut pas dire qu'il existe un contrat obligatoire valide qui s'applique au RASO, mais non au fisc.
+Analyse
+[15] L'appelante affirme que je dois déterminer le rapport juridique véritable des parties, sans tenir compte du rapport dont l'entente fait état. Les deux avocats ont mentionné l'arrêt Shell Canada, précité, dans lequel le juge en chef McLachlin a dit ce qui suit :
+39 Notre Cour a statué à maintes reprises que les tribunaux doivent tenir compte de la réalité économique qui sous‑tend l'opération et ne pas se sentir liés par la forme juridique apparente de celle‑ci : Bronfman Trust, précité, aux pp. 52 et 53, le juge en chef Dickson; Tennant, précité, au par. 26, le juge Iacobucci. Cependant, deux précisions à tout le moins doivent être apportées. Premièrement, notre Cour n'a jamais statué que la réalité économique d'une situation pouvait justifier une nouvelle qualification des rapports juridiques véritables établis par le contribuable. Au contraire, nous avons décidé qu'en l'absence d'une disposition expresse contraire de la Loi ou d'une conclusion selon laquelle l'opération en cause est un trompe‑l'oeil, les rapports juridiques établis par le contribuable doivent être respectés en matière fiscale. Une nouvelle qualification n'est possible que lorsque la désignation de l'opération par le contribuable ne reflète pas convenablement ses effets juridiques véritables : Continental Bank Leasing Corp. c. Canada, [1998] 2 R.C.S. 298, au par. 21, le juge Bastarache.
+L'appelante met l'accent sur le fait que la façon dont le ministre désigne la présente opération n'en reflète pas convenablement les effets juridiques véritables.
+[16] Dans l'affaire Singleton, le contribuable était associé dans un cabinet d'avocats. Il avait emprunté à la banque un montant de 300 000 $ qu'il avait déposé auprès de son cabinet d'avocats. Le même jour, il avait payé le même montant pour acheter une maison et il avait contracté un nouvel emprunt au moyen d'une hypothèque sur sa maison. La Cour suprême du Canada a statué qu'il faut tenir compte de l'utilisation directe qui est faite de l'argent emprunté et non de l'objectif qui a amené le contribuable à structurer l'emprunt comme il l'a fait. La Cour suprême a ajouté qu'il faut donner effet au rapport juridique et le considérer d'une façon indépendante. Elle a conclu que le rapport juridique existant entre l'appelant et la banque était celui qui existait entre l'emprunteur et le prêteur en vertu d'un contrat juridiquement obligatoire.
+[17] Dans les arrêts Shell et Singleton, la Cour suprême a dit qu'il faut déterminer le rapport juridique véritable existant entre les parties et lui donner effet. En l'espèce, il a été donné effet à certaines dispositions de l'entente, mais non à d'autres.
+[18] Premièrement, il est évident que l'entente n'indiquait pas le rapport dominant ou global existant entre les parties. Il ressort clairement de la preuve fournie par M. Field (pour le compte de sa personne morale) et par le docteur Rooney qu'ils n'ont jamais eu l'intention de créer un contrat de location des locaux et du matériel et un contrat d'emploi. Or, ces trois éléments constituent l'objet majeur de l'entente; les parties n'y ont jamais donné suite et n'ont jamais eu l'intention d'y donner suite. Il ne m'est pas difficile de conclure que l'entente relative à la location et l'entente relative à l'emploi n'étaient pas des contrats juridiquement obligatoires. L'entente de location sans lien de dépendance que M. Field a conclue pour le compte de sa personne morale à l'égard des locaux comportait plus de 30 pages.
+[19] Au premier paragraphe de la réponse à l'avis d'appel, le ministre admet le fait énoncé au paragraphe 39 de l'avis d'appel, à savoir que [TRADUCTION] « M. Field n'était pas, pendant la période pertinente, un employé des Drs Campbell et Rooney ». De plus, dans une lettre adressée à l'Agence des douanes et du revenu du Canada en date du 8 mars 2002[10] et confirmée dans son témoignage, le docteur Rooney a fait les remarques suivantes, qui se passent de commentaires :
+[TRADUCTION]
+Monsieur Field, par l'entremise de sa personne morale 722952 Ontario Limited (la personne morale), a fourni des services à des patients sous la forme de tests diagnostiques dans le domaine de l'audiologie.
+La relation que M. Field entretenait avec moi était en tout temps celle d'un entrepreneur indépendant. Je n'ai jamais exercé de contrôle sur M. Field. Je ne me suis jamais présenté aux locaux de la personne morale afin de fournir des services. La personne morale, ou M. Field, administrait les tests et accomplissait les actes nécessaires au moment et à l'endroit que la personne morale fixait en consultant directement les patients. Je ne possède pas les compétences techniques requises afin d'effectuer les tests diagnostiques nécessaires.
+Je n'ai pas fourni de matériel à M. Field; c'est plutôt la personne morale qui le fournissait directement. Les locaux et le matériel servant à l'administration des tests que la personne morale effectuait pour fournir ces services n'ont jamais été en ma possession ou sous mon contrôle. Monsieur Field et sa personne morale assumaient tout risque de perte découlant de leur obligation de fournir le matériel et les employés, d'assurer les frais généraux, et ainsi de suite, moyennant le paiement d'un montant calculé en fonction des honoraires que je recevais du RASO.
+La contrepartie que la personne morale recevait pour fournir aux patients des services d'audiologie représentait un transfert des honoraires que je recevais du régime provincial des services de santé. Mon cabinet facturait directement à l'Assurance-santé de l'Ontario les services que M. Field et sa personne morale fournissaient aux patients. En outre, M. Field et sa personne morale rendaient ces services aux patients en vertu d'un contrat conclu avec moi‑même. L'entente conclue par la personne morale et moi‑même établit que les montants reçus par la personne morale correspondaient simplement à une part déterminée des honoraires que je recevais du RASO.
+[20] De toute évidence, le docteur Rooney n'a jamais fourni de services aux patients dans les locaux de l'appelante. Il n'a jamais utilisé le matériel ou les locaux et ne les a jamais eus en sa possession. Il n'avait pas la formation voulue pour assurer les services. Les frais que le docteur Rooney a payés à l'appelante se rapportaient aux services d'audiologie, et ses services aux patients représentaient simplement un transfert à l'appelante des honoraires reçus du RASO. Tel était le rapport juridique existant entre les parties, rapport qu'il faut respecter. Les médecins agissaient à titre de mandataires de l'appelante en remettant les montants reçus du RASO (moins un montant mensuel de 1 000 $ afin de couvrir les frais de tenue de livres) pour les services d'audiologie que l'appelante fournissait aux patients.
+[21] Les remarques suivantes que le juge Bowman a faites dans la décision Sussex Square Apartments, et que la Cour d'appel fédérale a confirmées[11], s'appliquent également aux présentes circonstances. Voici ce que le juge a dit :
+27 Dans l'affaire Continental Bank of Canada et al. v. The Queen, 94 DTC 1858, à la page 1871, j'ai résumé ainsi mon opinion de la doctrine de la primauté de la substance sur la forme :
+Le principe qu'il faut dégager de ces précédents est simplement qu'on ne peut changer aux fins de l'impôt sur le revenu la nature essentielle d'une opération en lui donnant un nom différent. C'est le véritable rapport juridique, et non le nom qu'on lui donne, qui importe. Inversement, le ministre ne peut pas dire au contribuable : « Vous avez utilisé une structure juridique mais vous avez obtenu le même résultat économique que celui que vous auriez obtenu si vous aviez employé une autre structure. Par conséquent, je ne tiendrai pas compte de la structure que vous avez utilisée et je vais vous traiter comme si vous aviez employé l'autre structure ».
+28 Une fois qu'il est déterminé que les rapports juridiques sont ce qu'ils sont censés être, le tribunal doit leur donner effet. J'estime que les rapports juridiques dans la présente affaire sont valables, lient les intéressés et sont réels. Ils n'étaient certainement pas des trompe‑l'oeil.
+En l'espèce, il faut donner effet au rapport juridique existant entre les parties.
+[22] Premièrement, le paragraphe 1 de l'entente crée‑t‑il un contrat de location juridiquement obligatoire? La section de l'entente initiale qui porte sur la location des locaux et du matériel ne comporte que six lignes. Parmi de nombreuses autres dispositions de location habituelles, l'entente n'énonce pas qui doit payer les frais de possession tels que les taxes professionnelles, les services publics, les assurances et l'entretien. Elle n'indique pas en quoi consiste le matériel ni qui doit en assurer l'entretien. Le paragraphe 1 ne crée pas de contrat de location juridiquement exécutoire.
+[23] Même si la question n'a pas été débattue, je ne crois pas que la situation existant entre les parties soit un trompe‑l'oeil. Les deux parties ont fait une divulgation aux agents du RASO avant de conclure l'entente. L'appelante fournissait de précieux services aux patients et les intentions du docteur Rooney étaient louables, en ce sens qu'il croyait en l'existence, dans la communauté, d'un besoin pour les services de l'appelante. Son associé et lui ont agi à titre d'intermédiaires en vue de permettre au RASO de payer les services exonérés de l'appelante. Les médecins ne fournissaient pas de services d'audiologie; c'était l'appelante qui en fournissait. Les médecins n'étaient que des mandataires. Tel est le rapport juridique véritable.
+[24] Pour les motifs susmentionnés, l'appel est accueilli avec dépens. Les services fournis par l'appelante étaient des services exonérés et l'appelante n'a pas omis de percevoir et de verser la TPS. Comme il en a ci‑dessus été fait mention, l'appelante n'a pas cherché à recouvrer les crédits de taxe sur les intrants demandés. Aucune pénalité ne s'appliquera.
+Signé à Ottawa, Canada, ce 15e jour de février 2006.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 30e jour d'avril 2008.
+Yves Bellefeuille, réviseur
+ANNEXE « A »
+[TRADUCTION]
+ENTENTE conclue le 11 novembre 1989
+ENTRE :
+LE DOCTEUR JAMES CAMPBELL et
+LE DOCTEUR HUGH ROONEY, du centre médical Boler
+(ci‑après respectivement appelés « le Dr Campbell » et « le Dr Rooney »)
+et
+BRIAN FIELD, audiologiste
+(ci‑après appelé « M. Field »)
+et
+722952 ONTARIO LIMITED, faisant affaires sous la raison sociale The Audiology Clinic of Southwestern Ontario
+(ci‑après appelée « la société »)
+ATTENDU que le Dr Campbell et le Dr Rooney sont des médecins exerçant leur profession au centre médical Boler, 305, chemin Boler, à London, comté de Middlesex;
+ATTENDU que M. Field est un audiologiste exerçant sa profession à London, comté de Middlesex;
+ET ATTENDU que les parties veulent conclure une entente faisant état de la relation qui existe entre elles;
+À ces causes, LA PRÉSENTE ENTENTE VISE À ATTESTER qu'en contrepartie de la somme de UN DOLLAR (1 $) et des engagements mutuels énoncés dans les présentes, les parties s'entendent par les présentes sur les dispositions suivantes :
+1. La société loue par les présentes au Dr Campbell et au Dr Rooney les locaux utilisés pour l'exploitation d'une clinique d'audiologie ainsi que tout matériel y afférent, sur une base mensuelle, pendant la durée de la présente entente, pour la somme mensuelle de CINQ MILLE DOLLARS (5 000 $) payable au plus tard le 20e jour de chaque mois, ce montant étant imputable au mois précédent.
+2. Il est par les présentes convenu que M. Field sera employé par le Dr Campbell et par le Dr Rooney sur une base non exclusive en vue de fournir des services d'audiologiste aux patients renvoyés à la clinique d'audiologie. Le salaire de M. Field s'élèvera à MILLE DOLLARS (1 000 $) par mois, payable au plus tard le 20e jour de chaque mois, ce montant étant imputable au mois précédent.
+3. La société exploitera et gérera la clinique, et sera notamment responsable de la tenue des dossiers professionnels et des dossiers des patients, de l'organisation des rendez‑vous des patients, de la préparation des rapports et de la gestion générale des affaires courantes de la clinique. La société préparera toutes les factures de la clinique pour les services couverts par le RASO et soumettra ces factures au Dr Campbell et au Dr Rooney pour que ceux‑ci les approuvent et les présentent au RASO.
+4. Il est convenu que la société est autorisée à employer d'autres audiologistes pour le compte du Dr Campbell et du Dr Rooney et que ces audiologistes seront des employés du Dr Campbell et du Dr Rooney. Le salaire de tout audiologiste ainsi embauché sera déduit des frais de consultation et de gestion payés à la société.
+5. Le Dr Campbell et le Dr Rooney retiendront collectivement un montant correspondant à 10 p. 100 (10 %) des honoraires pour les services couverts par le RASO que la clinique fournira aux patients en contrepartie des services de consultation et d'administration qu'ils fourniront. Ce montant s'élèvera au plus à DOUZE MILLE DOLLARS (12 000 $) pour chaque période de douze mois au cours de la durée de l'entente. Des 90 p. 100 (90 %) restants des montants versés par le RASO, le Dr Campbell et le Dr Rooney déduiront ensuite le salaire de M. Field et les retenues de l'employeur et de l'employé sur le salaire de M. Field ainsi que le loyer mensuel de 5 000 $, et ils verseront le reste, s'il en est, à la société au titre des frais de consultation et de gestion.
+6. Les parties conviennent par les présentes que seuls les montants facturés au RASO par la clinique sont visés par l'entente et que la société et M. Field ne seront pas tenus de rendre compte au Dr Campbell ou au Dr Rooney des autres montants qu'ils auront reçus.
+7. Il est convenu qu'au cas où les montants facturés au RASO au cours d'un mois particulier ne soient pas suffisants pour payer à la société les frais de location de 5 000 $ conformément à la présente entente, une fois que le Dr Campbell et le Dr Rooney auront déduit le montant correspondant à 10 p. 100 (10 %) des montants facturés pour le mois et le salaire de M. Field, le montant du loyer sera réduit du montant manquant.
+8. Il est entendu que les critères fondamentaux énoncés par le RASO à l'égard du paiement des honoraires applicables aux services d'audiologie sont les suivants :
+(i) L'audiologiste qui fournit les services aux patients doit être un employé du médecin;
+(ii) Les services de l'audiologiste doivent être fournis dans des locaux et à l'aide de matériel appartenant au médecin ou loués par le médecin;
+(iii) Le médecin doit participer à l'élaboration des critères concernant la qualité et la nature du service fourni aux patients et doit veiller directement à ce que le matériel soit entretenu d'une façon appropriée de façon régulière et continue et à ce que la tenue des dossiers des patients soit conforme à la norme professionnelle applicable;
+(iv) Le médecin doit participer au processus d'interprétation des résultats des tests.
+La présente entente est destinée à être conforme à ces dispositions et doit être interprétée de façon à donner effet à cette intention. Afin d'assurer l'observation des critères susmentionnés, les parties conviennent que le Dr Campbell et le Dr Rooney inspecteront régulièrement les locaux de la clinique d'audiologie et qu'ils surveilleront et examineront les méthodes employées par M. Field et par la clinique d'audiologie en général, pour tout ce qui a trait aux documents relatifs au RASO, aux consultations et au matériel en général, et plus précisément aux dossiers des patients. De plus, au moins une inspection annuelle des locaux et des documents sera effectuée par un médecin exerçant la profession d'oto‑rhino‑laryngologiste, qui fera part de ses constatations à toutes les parties concernées. Il est prévu que le docteur Ralph Ruby se chargera initialement de cette tâche. En outre, un rapport complet sera préparé par la clinique d'audiologie pour tous les tests administrés aux patients; une copie de ce rapport sera transmise au médecin traitant et un double sera conservé en permanence dans le dossier du patient à la clinique d'audiologie.
+9. Il est convenu qu'au cas où M. Field serait atteint d'une invalidité et qu'aucun remplaçant ne soit embauché par la société pour le compte des médecins, l'application de la présente entente sera suspendue jusqu'à ce que M. Field reprenne ses activités ou jusqu'à ce qu'un remplaçant soit embauché.
+10. La présente entente continuera à s'appliquer d'une année à l'autre tant qu'il n'y sera pas mis fin conformément au paragraphe 11 des présentes. Les conditions contenues dans les présentes pourront être révisées par toutes les parties sur une base annuelle ou à tout autre moment nécessaire, par suite de changements et des procédures, pratiques ou règlements du RASO, de l'association appelée Ontario Medical Association ou de tout autre organisme gouvernemental ou professionnel ayant compétence sur la conduite des affaires des médecins et audiologistes en Ontario.
+11. La présente entente prendra fin dès que surviendra l'un des événements suivants :
+(i) le décès de M. Field;
+(ii) le décès du Dr Campbell et du Dr Rooney;
+(iii) la réinstallation du cabinet de M. Field ou de celui du Dr Campbell et du Dr Rooney;
+(iv) la faillite de M. Campbell, du Dr Rooney, du Dr Field ou de la société;
+(v) le refus du RASO de payer les montants qui lui sont facturés conformément à la présente entente;
+(vi) la signification d'un préavis écrit de six mois de l'intention de résilier la présente entente par M. Campbell, par le Dr Rooney, par le Dr Field ou par la société.
+EN FOI DE QUOI les parties aux présentes ont apposé leurs signatures et leurs sceaux à la date susmentionnée.
+SIGNÉ, SCELLÉ ET DÉLIVRÉ
+)
+722952 ONTARIO LIMITED
+en présence de
+)
+par :
+)
+« Signature »
+)
+« Signature »
+Témoin
+)
+Président autorisé à lier la société
+« Signature »
+)
+« Signature »
+Témoin
+)
+LE DR JAMES CAMPBELL
+« Signature »
+)
+« Signature »
+Témoin
+)
+LE DR HUGH ROONEY
+« Signature »
+)
+« Signature »
+Témoin
+)
+BRIAN FIELD
+RÉFÉRENCE : 2006CCI87
+No DU DOSSIER DE LA COUR : 2002‑4946(GST)G
+INTITULÉ : 1524994 Ontario Limited c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : London (Ontario)
+DATES DE L'AUDIENCE : Les 26 et 27 octobre 2005
+MOTIFS DU JUGEMENT : L'honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 15 février 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me David Thompson
+Avocat de l'intimée :
+Me Boyd Aitken
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : David Thompson
+Cabinet Thompson, Corbett
+Pour l'intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Ontario)
+[1] Pièce A‑1, onglet 1.
+[2] Le libellé anglais de la Loi utilise le terme « audiological », terme qui ne figure pas dans le dictionnaire Canadian Oxford Dictionary.
+[3] Au cours des dernières années, la législation concernant le RASO a été modifiée en vue de prévoir que le RASO paie uniquement les frais d'audiologie demandés par un oto‑rhino‑laryngologiste.
+[4] Pièce R‑1, onglet 5.
+[5] [2001] 2 R.C.S. 1046.
+[6] [1987] 1 R.C.S. 32.
+[7] 99 D.T.C. 443, no 97‑620(IT)G, 18 décembre 1998 (C.C.I.).
+[8] 92 D.T.C. 6031, no A‑65‑89, 5 décembre 1991 (C.A.F.).
+[9] [1999] 3 R.C.S. 622.
+[10] Pièce A‑1, onglet 8.
+[11] [2000] 4 C.T.C. 203, no A‑40‑99, 14 septembre 2000 (C.A.F.).

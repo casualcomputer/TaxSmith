@@ -1,0 +1,189 @@
+---
+title: "Jennings c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109214/index.do"
+last_modified: "2015-04-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 96"
+citation2: ""
+neutral_citation: "2015 CCI 96"
+decision_date: "2015-04-17"
+language: "fr"
+item_id: "109214"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2864
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:35:41.438000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a31aed7efb10f068bbc7aa3a94f867c5c6d916d2ffc7f0d79a833bc92a2afe64"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jennings c. La Reine
+
+- Citation: 2015 CCI 96
+- Decision date: 2015-04-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2864, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jennings c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-04-17
+Référence neutre
+2015 CCI 96
+Numéro de dossier
+2014-3694(IT)I, 2014-3695(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-3694(IT)I
+ENTRE :
+RICHARD JENNINGS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+Madeleine Jennings le 15 avril 2015, à Ottawa (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelant :
+Me Dean E. Blachford
+Avocate de l’intimée :
+Me Gabrielle White
+JUGEMENT
+L’appel interjeté à l’égard d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 est accueilli, et la cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelant a droit à la déduction qu’il a demandée relativement à des dépenses ayant trait à un changement de zonage pour un bien de location.
+Les dépens sont adjugés à l’appelant, un seul mémoire de frais étant accordé au titre des honoraires d’avocats pour les appels entendus ensemble.
+Signé à Ottawa (Ontario), ce 17e jour d’avril 2015.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 28e jour de mai 2015.
+Marie-Christine Gervais, traductrice
+Dossier : 2014-3695(IT)I
+ENTRE :
+MADELEINE JENNINGS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+Richard Jennings le 15 avril 2015, à Ottawa (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelante :
+Me Dean E. Blachford
+Avocate de l’intimée :
+Me Gabrielle White
+JUGEMENT
+L’appel interjeté à l’égard d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 est accueilli, et la cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelante a droit à la déduction qu’elle a demandée relativement à des dépenses ayant trait à un changement de zonage pour un bien de location.
+Les dépens sont adjugés à l’appelante, un seul mémoire de frais étant accordé au titre des honoraires d’avocats pour les appels entendus ensemble.
+Signé à Ottawa (Ontario), ce 17e jour d’avril 2015.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 28e jour de mai 2015.
+Marie-Christine Gervais, traductrice
+Référence : 2015 CCI 96
+Date : 20150417
+Dossier : 2014-3694(IT)I
+ENTRE :
+RICHARD JENNINGS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2014-3695(IT)I
+ET ENTRE :
+MADELEINE JENNINGS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Richard et Madeleine Jennings interjettent appel à l’encontre de cotisations établies en vertu de la Loi de l’impôt sur le revenu dans lesquelles ils se sont vu refuser les déductions qu’ils demandaient à l’égard de dépenses effectuées relativement à une question de zonage pour un bien de location. Au total, les dépenses s’élèvent à 13 464,26 $ pour les frais afférents à une demande de changement de zonage et à 7 686,26 $ pour les honoraires d’expert‑conseil connexes.
+[2] La question à trancher est de savoir si les dépenses sont imputables au revenu, tel que le prétendent les appelants, ou imputables au capital, tel que le prétend l’intimée.
+Contexte [3] En 1987, les appelants ont acheté un bien résidentiel à Ottawa qui comportait trois logements locatifs, dont un au sous‑sol. Le bien a été acheté uniquement à titre de bien de location. Les appelants ont pris en charge les trois tenances.
+[4] Lorsqu’ils ont acheté le bien, les appelants se sont fondés sur un rapport de zonage de la Ville d’Ottawa (la « Ville ») qui semblait donner à penser qu’il n’y avait pas de violation des règlements de zonage.
+[5] Six ans plus tard, en 1993, les appelants ont reçu un avis de violation des règlements de zonage de la Ville. La nature de la violation alléguée était énoncée dans une lettre (pièce R‑1), de la manière suivante :
+[traduction]
+[…] l’usage antérieur du bien, en tant que duplex non conforme, n’est également plus autorisé, étant donné que le bâtiment a été converti en habitation comportant trois logements sans que les autorisations préalables nécessaires aient été obtenues. La seule façon de régulariser le bien en tant qu’habitation convertie de trois logements ou en tant que duplex serait de présenter une demande de changement de zonage afin que les usages en question soient autorisés […]
+[6] À la surprise des appelants, la Ville estimait que le bien ne pouvait avoir qu’un seul logement locatif selon les règlements en vigueur. Il semble que la violation alléguée a eu lieu lorsque le sous‑sol a commencé à être loué, ce qui s’est produit avant que les appelants ne deviennent propriétaires du bien.
+[7] Peu de temps après, les appelants ont présenté une demande de changement de zonage [traduction] « pour régulariser le bien en tant qu’habitation convertie de trois logements » (pièce R‑2). Dans la demande, les appelants mentionnaient que, depuis 1980, le bien avait été assujetti à l’impôt foncier en tant que bâtiment comportant trois logements, et que la Ville les avait avisés que le bien jouissait de droits non conformes.
+[8] L’examen de la demande a été retardé pendant plusieurs années, et ce, indépendamment de la volonté des appelants, et le maintien de l’usage actuel du bien a été autorisé pendant cette période parce qu’une demande était en suspens.
+[9] Les appelants ont dû présenter une nouvelle demande en 2010, ce qu’ils ont fait avec l’aide d’un expert‑conseil en aménagement. Les dépenses en cause ont trait aux frais afférents à cette demande et aux honoraires connexes versés à l’expert‑conseil en aménagement.
+[10] La demande a été approuvée en 2010, et un règlement de zonage a été adopté pour l’usage du bien en tant que duplex. Selon les règlements municipaux de l’époque, cela a permis au bien d’avoir aussi un [traduction] « logement secondaire », ce qui qualifiait aussi le logement au sous‑sol.
+Analyse [11] La question à trancher est de savoir si les dépenses afférentes au zonage supportées en 2010 sont des dépenses courantes ou des dépenses en capital. Il n’y a pas de critère évident dans un tel cas – chaque affaire dépend des faits qui lui sont propres. En l’espèce, la question qui se pose est de savoir si les dépenses sont des dépenses ordinaires supportées pour les besoins de la gestion du bien ou bien s’il s’agit de dépenses extraordinaires visant à obtenir un avantage durable.
+[12] Les appelants allèguent essentiellement que les dépenses sont des dépenses courantes parce que le changement de zonage n’a pas étendu leur usage du bien.
+[13] Il est soutenu que les appelants avaient le droit d’utiliser le bien en tant que duplex en 1987 et que le règlement de zonage a garanti ce droit en 2010. La qualification du logement au sous‑sol avait trait à un usage autorisé par un règlement municipal en vigueur et ne faisait pas partie de la demande. Du point de vue des appelants, ces dépenses leur ont permis de prévenir la perte de leur droit d’utiliser le bien comme ils l’avaient toujours fait.
+[14] Je tiens tout d’abord à souligner que la qualification des dépenses à titre de dépenses courantes ou de dépenses en capital ne devrait pas reposer sur les subtilités des droits en common law afférents au bien. C’est la nature des dépenses d’un point de vue pratique qui doit primer (Johns-Manville Canada Inc. v. The Queen, 85 D.T.C. 5373, à la page 5383).
+[15] Selon la preuve, que j’accepte, les appelants ont présenté une demande de changement de zonage en 1993, puis en 2010, parce que, selon eux, il s’agissait de la meilleure façon de s’occuper de l’avis de violation des règlements de zonage, et suivant les conseils d’un expert.
+[16] D’un point de vue pratique, les appelants faisaient ce qu’il fallait selon les besoins pour assurer la conformité avec les règlements de la Ville. Il s’agissait d’une activité qui faisait partie intégrante de la gestion quotidienne du bien de location. La question de la conformité aux règlements de zonage s’est posée à partir du moment où ils ont fait l’acquisition du bien, en 1987, et ce, jusqu’à ce que la demande de changement soit enfin approuvée, en 2010. Je comprends que les appelants ont essayé d’éviter d’avoir à présenter une nouvelle demande en 2010, mais la Ville avait exigé qu’ils passent par un nouveau processus.
+[17] Tout au long de la période, l’usage du bien n’a pas changé.
+[18] À mon avis, les dépenses devraient être considérées comme des dépenses ordinaires supportées relativement à la gestion quotidienne du bien de location. Il est vrai que les dépenses se traduiront vraisemblablement par un avantage à long terme en ce sens que le bien est maintenant clairement conforme aux règlements municipaux en vigueur. Toutefois, je ne pense pas que cela devrait faire pencher la balance et faire en sorte que les dépenses soient considérées comme des dépenses en capital non déductibles.
+[19] Les appels seront accueillis et les dépens seront adjugés aux appelants, un seul mémoire de frais étant accordé au titre des honoraires d’avocats.
+Signé à Ottawa (Ontario), ce 17e jour d’avril 2015.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 28e jour de mai 2015.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2015 CCI 96
+NOS DES DOSSIERS DE LA COUR :
+2014-3694(IT)I
+2014-3695(IT)I
+INTITULÉ :
+RICHARD JENNINGS c. SA MAJESTÉ LA REINE
+MADELEINE JENNINGS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 15 avril 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Judith Woods
+DATE DES JUGEMENTS :
+Le 17 avril 2015
+COMPARUTIONS :
+Avocat des appelants :
+Me Dean E. Blachford
+Avocate de l’intimée :
+Me Gabrielle White
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Dean E. Blachford
+Cabinet :
+Susan G. Tataryn Professional Corporation
+Ottawa (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,115 @@
+Title: Stasiw v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30880/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-254-30880-stasiw-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2012-07-13
+
+# Stasiw v. M.N.R.
+
+- Citation: 2012 TCC 254
+- Decision date: 2012-07-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7410, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stasiw v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-13
+Neutral citation
+2012 TCC 254
+File numbers
+2010-202(EI)
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2010-202(EI)
+BETWEEN:
+STEPHAN STASIW,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+FLEMING'S OUTFITTERS INC.,
+Intervenor.
+____________________________________________________________________
+Appeal heard on May 30, 2012, at Thunder Bay, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Neil Goodridge
+For the Intervenor:
+Terry Huber
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister of National Revenue is varied on the basis that the Appellant’s insurable hours and earnings from May 18, 2008 to September 29, 2008 are 760 hours and $19,950 respectively, the whole in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of July 2012.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2012 TCC 254
+Date: 20120713
+Docket: 2010-202(EI)
+BETWEEN:
+STEPHAN STASIW,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+FLEMING'S OUTFITTERS INC.,
+Intervenor.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The issue in this appeal is whether the Minister of National Revenue properly calculated the insurable hours and insurable earnings accumulated by Stephan Stasiw while he worked for Fleming’s Outfitters Inc. (the “Payer”), a fishing and hunting outfitter operating in the Region of Thunder Bay, for a period of time in 2008.
+[2] By letter dated September 21, 2009, the Respondent informed the Appellant and the Payer that it had been determined that the Appellant was employed under a contract of service during the periods from May 25, 2008 to May 31, 2008, June 22, 2008 to June 28, 2008 and August 1, 2008 to September 29, 2008 (the “Period”) pursuant to paragraph 5(1)(a) of the Employment Insurance Act (the “EIA”). According to the Respondent, the Appellant accumulated 280 insurable hours pursuant to sections 9.2 and 10(1) of the Employment Insurance Regulations (the “EIR”) and $5,800 of insurable earnings pursuant to subsection 2(1) of the Insurable Earnings and Collection of Premiums Regulations (the “IECPR”) during the period. The Respondent determined that the Appellant earned $550 per week plus board and lodging valued at $450 per week for each of the total of seven weeks that he was employed. According to the Respondent, the Appellant worked approximately 40 hours per week.
+[3] The Respondent’s calculation of the insurable earnings and hours of the Appellant was based on information gathered from the Appellant and Terence R. Huber, the sole shareholder and the representative of the Payer, each of whom had differing views of this matter. The Appellant claims he worked for the Payer from May 18, 2008 to October 2, 2008 for a salary of $600 per week plus board and lodging valued at $450 as he had done in the prior year.
+[4] The Payer, acting as an intervenor in the appeal, now admits that the Appellant was present at the hunting and fishing camp towards the end of May and intermittently thereafter until October 2008, when he left the camp with the Payer’s pickup truck for Thunder Bay on the pretext of purchasing replacement parts for a generator.
+[5] The evidence shows that the Appellant abandoned the truck in Thunder Bay and did not subsequently return. The parties offered conflicting views on why this happened. The Appellant explained that he had agreed to go to Thunder Bay to pick up replacement parts for the generator as part of a strategy to leave his employer, who to that point had failed to pay most of the wages he was owed. According to the Appellant, the car which he used for transportation to the fishing camp had broken down and he was reliant on the Intervenor for transportation to and from the camp. The request that he go to pick up parts in Thunder Bay was the Appellant’s first opportunity in some time to leave the Payer’s employ. He abandoned the truck in Thunder Bay and did not return to the camp because he believed that the prospects that he would be paid the wages owed to him were nil.
+[6] Mr. Huber claims that the Appellant has a serious drinking problem and that he abandoned the truck after a bout of binge drinking. This caused Mr. Huber considerable inconvenience because the generator used to produce electricity for the remote camp was injecting diesel fuel into the engine oil, which necessitated oil changes every three hours. According to Mr. Huber, he had to leave the camp in the care of an elderly worker in order to recover his pickup truck in Thunder Bay.
+[7] In light of these conflicting versions of the Appellant’s work history, the Respondent picked out facts garnered from both parties, leaving it up to this Court to ultimately sort out the truth.
+[8] After careful consideration of the evidence, I find that the Appellant worked from May 18, 2008 to September 29, 2008, 40 hours per week, for insurable earnings of $600 per week, plus board and lodging valued at $450 per week, for a total of $1050 per week.
+[9] Mr. Huber vehemently denies this and suggests instead that the Appellant was sojourning at the camp for the greater part of the summer with his girlfriend. According to Mr. Huber, the Appellant worked at best four weeks during the summer and early fall season.
+[10] I do not find Mr. Huber’s evidence reliable. It is hard to imagine that the Payer would have tolerated the Appellant’s presence at the camp for the full season if the latter was not working and was constantly drinking. Mr. Huber admitted during his examination in chief that he bought the Appellant a used car so that he could use parts from it to repair his vehicle, which had broken down. Mr. Huber’s demeanour at trial did not leave me with the impression that he would be inclined to show generosity to someone down on his luck. I have difficulty believing that Mr. Huber would have bought the car if, as he suggested the Appellant was simply sojourning at the camp with his girlfriend free of charge and bothering the Payer’s clients when he was drinking.
+[11] In addition, Mr. Huber denies that the Appellant worked for the Payer in the month of August 2008, yet the Payer’s accountant prepared a record of employment showing that the Appellant did work in that month.
+[12] I do not doubt that the Appellant had a drinking problem, but the evidence suggests that the Payer accepted this behaviour because, as Mr. Huber testified, it was difficult to find temporary seasonal workers to work at the Payer’s remote fishing and hunting camp.
+[13] The evidence is consistent with the Appellant’s version of the facts, namely that he worked at the camp for the same period as he had worked there the year before for the Payer and in prior years for the former owners. His performance may have been inconsistent, but the Payer could have fired him and asked him to leave the camp. The Payer cannot, after the fact, determine that the Appellant, by his behaviour, forfeited his wages for work performed because of his decision to abandon the Payer’s truck in Thunder Bay.
+[14] The appeal is allowed on the basis that the Appellant’s insurable hours and earnings from May 18, 2008 to September 29, 2008 are as follows:
+(a) Insurable Hours: 760 hours
+(Number of weeks from May 18, 2008 to September 29, 2008
+X hours worked per week) = 19 X 40 = 760 hours.
+(b) Insurable Earnings: $19,950
+(Number of weeks worked from May 18, 2008 to September 29, 2008 X weekly earnings) = 19 X $1050 = $19,950.
+Signed at Ottawa, Canada, this 13th day of July 2012.
+“Robert J. Hogan”
+Hogan J.
+CITATION: 2012 TCC 254
+COURT FILE NO.: 2010-202(EI)
+STYLE OF CAUSE: STEPHAN STASIW v. M.N.R. AND FLEMING'S OUTFITTERS INC.
+PLACE OF HEARING: Thunder Bay, Ontario
+DATE OF HEARING: May 30, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: July 13, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Neil Goodridge
+For the Intervenor:
+Terry Huber
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,177 @@
+Title: Jfj Agency Inc c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28494/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-83-28494-jfj-agency-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-02-06
+
+# Jfj Agency Inc c. M.R.N.
+
+- Citation: 2008 CCI 83
+- Decision date: 2008-02-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1291, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jfj Agency Inc c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-06
+Référence neutre
+2008 CCI 83
+Numéro de dossier
+2007-1569(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-1569(EI)
+ENTRE :
+JFJ AGENCY INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+JFJ Agency Inc., (2007-1570(CPP)), le 14 janvier 2008,
+à Winnipeg (Manitoba)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelante :
+Me Ross A. McFayden
+Avocate de l’intimé :
+Me Meghan Riley
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la détermination selon laquelle Michael Mooney exerçait un emploi assurable aux fins de la Loi sur l’assurance‑emploi (la « LAE ») pendant la période du 1er janvier 2002 au 14 février 2006 est rejeté sans dépens.
+L’appel interjeté à l’encontre de la détermination selon laquelle Linda Casson exerçait un emploi assurable aux fins de la LAE pendant la période du 1er janvier 2002 au 31 mars 2005 est rejeté sans dépens.
+Les appels interjetés à l’encontre de la détermination selon laquelle Maureen Purpur, Shawna‑Lynn Skrudland et Karleen Small exerçaient un emploi assurable aux fins de la LAE sont accueillis sans dépens, et pour ces trois personnes, la question est déférée au ministre du Revenu national pour qu’il établisse des nouvelles déterminations et des nouvelles cotisations en partant du principe que Maureen Purpur et Shawna‑Lynn Skrudland n’exerçaient pas un emploi assurable aux fins de la LAE pendant la période du 1er janvier 2004 au 31 décembre 2004 et que Karleen Small n’exerçait pas un emploi assurable aux fins de la LAE pendant la période du 1er janvier 2002 au 31 décembre 2002.
+Signé à Halifax (Nouvelle‑Écosse), ce 6e jour de février 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 28e jour de février 2008.
+Hélène Tremblay, traductrice
+Dossier : 2007-1570(CPP)
+ENTRE :
+JFJ AGENCY INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+JFJ Agency Inc., (2007-1569(EI)), le 14 janvier 2008,
+à Winnipeg (Manitoba)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelante :
+Me Ross A. McFayden
+Avocate de l’intimé :
+Me Meghan Riley
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la détermination selon laquelle Michael Mooney exerçait un emploi ouvrant droit à pension aux fins du Régime de pensions du Canada (le « RPC ») pendant la période du 1er janvier 2002 au 14 février 2006 est rejeté sans dépens.
+L’appel interjeté à l’encontre de la détermination selon laquelle Linda Casson exerçait un emploi ouvrant droit à pension aux fins du RPC pendant la période du 1er janvier 2002 au 31 mars 2005 est rejeté sans dépens.
+L’appel interjeté à l’encontre de la détermination selon laquelle Bryce Matlashewski exerçait un emploi ouvrant droit à pension aux fins du RPC pendant la période du 1er janvier 2002 au 7 mars 2006 est rejeté sans dépens.
+Les appels interjetés à l’encontre de la détermination selon laquelle Maureen Purpur, Shawna‑Lynn Skrudland et Karleen Small exerçaient un emploi ouvrant droit à pension aux fins du RPC sont accueillis sans dépens, et pour ces trois personnes, la question est déférée au ministre du Revenu national pour qu’il établisse des nouvelles déterminations et des nouvelles cotisations en partant du principe que Maureen Purpur et Shawna‑Lynn Skrudland n’exerçaient pas un emploi ouvrant droit à pension aux fins du RPC pendant la période du 1er janvier 2004 au 31 décembre 2004 et que Karleen Small n’exerçait pas un emploi ouvrant droit à pension aux fins du RPC pendant la période du 1er janvier 2002 au 31 décembre 2002.
+Signé à Halifax (Nouvelle‑Écosse), ce 6e jour de février 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 28e jour de février 2008.
+Hélène Tremblay, traductrice
+Référence : 2008CCI83
+Date : 20080206
+Dossiers : 2007-1569(EI) et 2007-1570(CPP)
+ENTRE :
+JFJ AGENCY INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’appelante interjette appel de la détermination selon laquelle Michael Mooney, Linda Casson, Maureen Purpur, Shawna‑Lynn Skrudland et Karleen Small exerçaient un emploi assurable aux fins de la Loi sur l’assurance‑emploi (la « LAE ») et selon laquelle Michael Mooney, Linda Casson, Bryce Matlashewski, Maureen Purpur, Shawna‑Lynn Skrudland et Karleen Small exerçaient un emploi ouvrant droit à pension aux fins du Régime de pensions du Canada (le « RPC ») pendant certaines périodes.
+[2] La période en cause dans l’appel à l’encontre de la détermination concernant Maureen Purpur et Shawna‑Lynn Skrudland est du 1er janvier 2004 au 31 décembre 2004, et la période en cause dans l’appel à l’encontre de la détermination concernant Karleen Small est du 1er janvier 2002 au 31 décembre 2002. Au début de l’audience, l’avocate de l’intimé a confirmé que l’intimé convenait que les appels concernant Maureen Purpur, Shawna‑Lynn Skrudland et Karleen Small devaient être accueillis, étant donné que l’intimé était d’avis que ces trois personnes n’exerçaient pas un emploi assurable aux fins de la LAE et qu’elles n’exerçaient pas non plus un emploi ouvrant droit à pension aux fins du RPC pendant les périodes susmentionnées.
+[3] La question à trancher en l’espèce est donc de savoir si Michael Mooney, Linda Casson et Bryce Matlashewski travaillaient auprès de JFJ Agency Inc. en tant qu’employés ou en tant qu’entrepreneurs indépendants. Les périodes en cause ne sont pas les mêmes pour Michael Mooney, pour Linda Casson et pour Bryce Matlashewski, et même si la détermination aux fins du RPC pour chacun d’entre eux est visée par l’appel, le statut de seulement deux de ces personnes aux fins de la LAE est visé par l’appel.
+[4] Les périodes visées par l’appel ainsi que la loi applicable dans chacun des cas sont énoncées ci‑dessous :
+Particulier :
+Michael Mooney
+Linda Casson
+Bryce Matlashewski
+Période visée par l’appel :
+du 1er janvier 2002 au 14 février 2006
+du 1er janvier 2002 au 31 mars 2005
+du 1er janvier 2002 au 7 mars 2006
+Loi applicable :
+LAE et RPC
+LAE et RPC
+RPC
+[5] Aux fins de la LAE, l’intimé a conclu que Bryce Matlashewski n’exerçait pas un emploi assurable auprès de JFJ Agency Inc. compte tenu du fait qu’il entretenait un lien de dépendance avec JFJ Agency Inc. Cette conclusion n’est pas visée par l’appel. Bryce Matlashewski est le neveu de Scott Johnson. Scott Johnson est le président de JFJ Agency Inc.
+[6] JFJ Agency Inc. est une petite entreprise exploitée principalement au Manitoba. Elle représente divers fournisseurs de boissons alcoolisées. En raison de la loi provinciale, toutes les ventes de boissons alcoolisées doivent être faites à la Société des alcools du Manitoba (la « SAM ») qui, elle, vend les boissons alcoolisées directement aux consommateurs ou aux restaurants, bars‑salons et autres entreprises qui vendent de telles boissons. JFJ Agency Inc. ne pouvait pas vendre de boissons alcoolisées. Elle pouvait seulement inciter ses clients à commander auprès de la SAM les boissons vendues par les fournisseurs qu’elle représentait.
+[7] Chacune des personnes susmentionnées avait été embauchée par JFJ Agency Inc. pour briguer des ventes auprès de diverses sources. Michael Mooney avait été embauché pour augmenter les ventes de marques représentées par JFJ Agency Inc. dans le marché des détenteurs de permis, y compris les restaurants et les boîtes de nuit. Linda Casson avait été embauchée pour augmenter les ventes des vins représentés par JFJ Agency Inc. De son côté, Bryce Matlashewski avait été embauché pour augmenter les ventes faites auprès des établissements fréquentés par une clientèle d’étudiants d’université. Chacune de ces personnes avait reçu une formation de JFJ Agency Inc., surtout afin d’apprendre à connaître les marques des produits.
+[8] Chacune de ces trois personnes établissait son propre horaire. Dans les trois cas, le montant qui était payé à la personne était fondé sur une estimation des commissions générées par les ventes de produits prévues à la suite des efforts déployés par la personne. Micheal Mooney était la seule personne visée par un contrat écrit. Les modalités concernant l’embauche de Linda Casson et de Bryce Matlashewski étaient essentiellement les mêmes que les modalités concernant l’embauche de Michael Mooney, à l’exception du taux de rémunération, qui était différent pour chaque personne.
+[9] Le contrat conclu avec Michael Mooney date du 12 juin 2000. Ce contrat prévoyait notamment que le montant payé à Micheal Mooney serait de 36 000 $ par année. Il devait être payé le 15e et le 30e jour de chaque mois. Le contrat prévoyait aussi qu’il avait droit à une prime annuelle en fonction d’un incitatif sur lequel toutes les parties au contrat s’étaient entendues, et ce montant était décrit comme représentant [traduction] « 10 % du salaire annuel ». Pendant la période en cause, Micheal Mooney recevait 36 000 $ par année et même s’il a bel et bien reçu des primes, il n’a jamais reçu le montant maximal prévu au contrat.
+[10] L’entente prévoyait également que les dépenses relatives à l’essence utilisée à des fins professionnelles ainsi qu’à l’entretien normal du véhicule seraient remboursées à Micheal Mooney. Peu de temps après que ses services aient été retenus, JFJ Agency Inc. lui a fourni une fourgonnette, étant donné qu’on jugeait que son propre véhicule n’était pas fiable. La fourgonnette fournie à Micheal Mooney par JFJ Agency Inc. était peinte principalement aux couleurs d’une publicité de produits représentés par JFJ Agency Inc.
+[11] Il était également prévu dans l’entente que Michael Mooney aurait droit à cinq semaines de congé payé et qu’il devait avoir un bureau à domicile et être équipé d’un ordinateur. Il devait présenter des relevés d’appels quotidiens le 15e et le 30e jour de chaque mois. D’ailleurs, la présentation de relevés d’appels quotidiens était exigée pour chacune des trois personnes.
+[12] Aucun véhicule n’était fourni à Linda Casson et elle recevait une rémunération moins importante que celle de Michael Mooney. Elle était payée entre 750 $ et 800 $ chaque deux semaines. Les attentes en matière de ventes potentielles étaient moins élevées pour Linda Casson que pour Micheal Mooney. Il n’y avait aucune indication concernant le nombre de semaines de vacances auxquelles elle avait droit. Linda Casson recevait un remboursement pour les dépenses relatives à l’essence et à l’entretien de son véhicule.
+[13] Bryce Matlashewski était payé 120 $ par semaine. Il était copropriétaire d’un autobus scolaire remis à neuf qui était peint principalement aux couleurs d’une publicité d’un produit représenté par JFJ Agency Inc. La peinture de l’autobus avait été payée par JFJ Agency Inc. ou par une des entreprises qu’elle représentait. Bien que ce ne soit pas très clair, il semble que Bryce Matlashewski recevait de JFJ Agency Inc. un remboursement pour les dépenses relatives à l’essence et à l’entretien de son véhicule.
+[14] L’avocat de l’appelante a fondé sa position sur l’arrêt de la Cour suprême du Canada 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] A.C.S. 61, 2001 C.S.C. 59, dans lequel le juge Major a indiqué ce qui suit :
+46 À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l'arrêt Stevenson Jordan, précité, qu'il peut être impossible d'établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [TRADUCTION] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d'apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l'opinion du juge MacGuigan lorsqu'il affirme – en citant Atiyah, op. cit., p. 38, dans l'arrêt Wiebe Door, p. 563 – qu'il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[TRADUCTION] [N]ous doutons fortement qu'il soit encore utile de chercher à établir un critère unique permettant [page 1005] d'identifier les contrats de louage de services [...] La meilleure chose à faire est d'étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s'appliquent pas dans tous les cas et n'ont pas toujours la même importance. De la même façon, il n'est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+47 Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[15] Scott Johnson, président de JFJ Agency Inc., Michael Mooney et Bryce Matlashewski sont les seules personnes qui sont venues témoigner à l’audience. Linda Casson n’a pas témoigné à l’audience. Il y a eu des témoignages contradictoires en ce qui a trait à l’intention de JFJ Agency Inc. et de Michael Mooney quant au statut de ce dernier en tant qu’employé ou entrepreneur indépendant. Scott Johnson a affirmé que chacune des personnes travaillait comme entrepreneur indépendant. De son côté, Michael Mooney a affirmé que dans sa déclaration de revenus, il a déclaré ses revenus comme des revenus d’emploi. Linda Casson n’a pas témoigné et Bryce Matlashewski n’a pas indiqué si son intention était d’être un employé ou un entrepreneur indépendant, alors ni l’un ni l’autre n’a précisé son intention sur ce point.
+[16] Je conclus donc qu’il n’existait aucune intention commune indiquant que ces personnes avaient été embauchées en tant qu’entrepreneurs indépendants. En ce qui concerne Michael Mooney, une importante question se pose en raison de la rémunération qu’il recevait. Le contrat conclu avec lui prévoyait une rémunération de 36 000 $ par année. Ce montant est supérieur à la limite pour petit fournisseur prévue dans la Loi sur la taxe d’accise (la « LTA »). Il n’y a cependant rien dans le contrat au sujet de la TPS. Michael Mooney avait abordé la question de la TPS dans ses discussions avec Scott Johnson et ce dernier l’avait informé qu’il n’avait pas à percevoir la TPS. Ceci serait le cas si Michael Mooney était un employé de JFJ Agency Inc., mais pas s’il était un entrepreneur indépendant, étant donné que la contrepartie totale annuelle pour ses services dépassait la limite pour petit fournisseur.
+[17] Si Michael Mooney avait été un entrepreneur indépendant qui recevait 36 000 $ ou plus par année, à un certain moment, il n’aurait plus été considéré comme un petit fournisseur au sens de l’article 148 de la LTA et la contrepartie pour la fourniture de ses services n’aurait plus été exclue du calcul de la TPS payable relativement à la fourniture (article 166 de la LTA). Il aurait donc été tenu de s’inscrire aux fins de l’article 240 de la LTA, de percevoir la TPS sur le montant reçu de JFJ Agency Inc. en application de l’article 221 de la LTA, de produire une déclaration en application de l’article 238 de la LTA et de verser la taxe nette en application de l’article 228 de la LTA. Le fait que JFJ Agency Inc. a omis d’aborder la question de la TPS soulève certaines préoccupations quant à sa véritable intention au moment de retenir les services de Michael Mooney.
+[18] L’avocat de l’appelante s’est aussi fondé sur la décision Qureshi v. M.N.R., [1992] 1 C.T.C. 2370, 92 DTC 1150, dans laquelle il a été conclu que l’appelant était un entrepreneur indépendant. Dans cette décision, l’appelant « a travaillé principalement dans les provinces Maritimes à titre de directeur des ventes et de directeur régional des ventes ». À titre de directeur des ventes, il supervisait les chefs d’équipe chargés de surveiller les voyageurs de commerce qui faisaient la vente d’encyclopédies à domicile. L’appelant dans cette décision avait engagé des dépenses allant de 11 870 $ en 1982 à 40 138 $ en 1984. Dans sa décision, le juge Tremblay a formulé les commentaires suivants :
+Le fait que la compagnie (qu'il s'agisse de Collier ou de Grolier) a payé le loyer du bureau et a fourni le mobilier de base et le service téléphonique (paragr. 3.05), qu'elle avait une structure de rémunération fixe en vertu de laquelle l'appelant était payé, qu'elle se réservait le droit d'approuver en dernier lieu toutes les ventes (paragr. 3.19) et qu'elle disposait de l'exclusivité des services de l'appelant (paragr. 3.20) peut donner l'impression que l'appelant était un employé. Toutefois, ces faits ne sont pas assez importants pour contrebalancer l'absence de contrôle sur la conduite de l'appelant de même que le risque financier; éléments qui étaient liés de très près à la plupart des dépenses engagées par l'appelant en faveur de son personnel.
+[19] En l’espèce, les seules dépenses qui ont été engagées par les personnes et qui n’ont pas été remboursées par JFJ Agency Inc. étaient les frais relatifs à leurs ordinateurs personnels et à leurs téléphones cellulaires et, dans le cas de Bryce Matlashewski, le coût du pistolet agrafeur et du ruban adhésif. Michael Mooney a confirmé que l’ordinateur qu’il avait acheté était pour son domicile, ce qui signifie qu’il devait être utilisé à d’autres fins que pour les activités qu’il menait auprès de JFJ Agency Inc. Rien n’indique clairement le pourcentage de temps passé à l’ordinateur pour les activités concernant JFJ Agency Inc. Bryce Matlashewski a affirmé qu’il utilisait un ordinateur qui avait été acheté par sa famille. Rien non plus n’indique clairement le pourcentage de temps que passait chaque personne au téléphone cellulaire à mener des activités pour JFJ Agency Inc.
+[20] Dans O’Connor c. M.R.N., [2006] A.C.I. n° 502, le juge a conclu que la personne, qui avait été embauchée pour s’occuper de ventes de vin en Alberta, était un entrepreneur indépendant. Cependant, dans cette décision, la personne n’était payée qu’en fonction des ventes réelles (comme le prévoit la Alberta Gaming & Liquor Commission). Elle a « payé toutes les dépenses afférentes à sa voiture, à son téléphone cellulaire, à son espace d’entreposage, à son hébergement et à ses déplacements » et avait donc un plus grand risque de subir une perte que les personnes en l’espèce.
+[21] Dans B.L.R. Safety & First Aid Inc. c. M.R.N., [1992] A.C.I. n° 785, le juge a conclu que des représentants commerciaux étaient des employés et non des entrepreneurs indépendants.
+[22] Dans l’arrêt Sagaz, la Cour suprême du Canada a souligné que « [l]a question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte ». En l’espèce, l’appelante n’a pas réussi à prouver que Michael Mooney, Linda Casson et Bryce Matlashewski travaillaient tous à leur propre compte. Il ressort clairement de la preuve que chacune de ces personnes travaillait auprès de JFJ Agency Inc.
+[23] Quant au critère du degré de contrôle, chaque personne était libre d’établir son horaire de travail et de déterminer le moment où elle communiquerait avec les clients ou les clients potentiels. Toutefois, n’importe quel représentant commercial doit avoir une certaine souplesse pour ce qui est d’établir lui‑même son horaire, étant donné que son travail est régi par ses clients et le moment où ces derniers sont disposés à le rencontrer. La liste des clients existants et des clients potentiels a été établie par JFJ Agency Inc. avec l’aide de la personne à laquelle la liste se rapportait. Il existait une certaine part de subordination parce que chaque personne était tenue de produire des relevés d’appels quotidiens pour recevoir sa paie. Par conséquent, je conclus que le critère du degré de contrôle ne permet pas de faire pencher la balance de façon définitive d’un côté ou de l’autre.
+[24] Chacune des personnes travaillait à domicile et se rendait régulièrement aux bureaux de JFJ Agency Inc. pour aller chercher du matériel promotionnel, pour aller porter des relevés d’appels ou pour participer à des réunions. Ceci correspond à un statut d’employé. Dans le monde du travail actuel, les employés n’ont pas nécessairement à travailler sur place dans les bureaux de l’employeur. Dans le cas de représentants commerciaux, qu’ils soient des employés ou des entrepreneurs indépendants, de par la nature de leur travail, ils doivent passer beaucoup plus de temps chez les clients que sur les lieux de travail de l’employeur ou du payeur.
+[25] Il semble que chaque personne utilisait trois outils de travail : un téléphone cellulaire, un véhicule et un ordinateur. Chacune d’entre elles avait payé son propre téléphone, mais rien dans la preuve ne vient indiquer le pourcentage d’utilisation attribuable aux activités menées pour JFJ Agency Inc. et aux appels personnels. JFJ Agency Inc. fournissait un véhicule à Michael Mooney, et soit JFJ Agency Inc., soit une des entreprises qu’elle représentait, avait payé pour faire peindre l’autobus utilisé par Bryce Matlashewski. Les frais engagés pour l’utilisation des véhicules à des fins commerciales étaient remboursés à chacune des personnes. Michael Mooney utilisait l’ordinateur familial, ce qui revient à dire que d’autres membres de sa famille l’utilisaient aussi. Bryce Matlashewski utilisait un ordinateur payé par sa famille. Par conséquent, je conclus que le critère de la propriété des instruments de travail, tout bien pesé, permet d’établir qu’il existait une relation employeur‑employé.
+[26] Rien dans la preuve n’indique qu’une de ces trois personnes a embauché elle‑même un assistant ou aurait été en mesure de le faire. Il semble logique que chacune de ces trois personnes ait été embauchée à titre personnel pour accomplir les tâches de vente qui lui étaient confiées. Par conséquent, ces personnes n’auraient pas pu embaucher d’assistant sans d’abord obtenir le consentement de JFJ Agency Inc.
+[27] Chaque personne était payée un montant fixe. Seul Michael Mooney a affirmé avoir reçu des primes en plus du montant fixe. Cependant, le fait de recevoir des primes peut tout de même correspondre à un statut d’employé. Il y avait peu ou pas de possibilité de bénéfices au‑delà du salaire fixe. Il n’y avait aucun risque de perte, étant donné que JFJ Agency Inc. n’a jamais essayé de recouvrer quelque montant que ce soit comme paiement en trop si les commissions ne se concrétisaient pas comme prévu. Si les activités d’une personne ne généraient pas les ventes prévues, JFJ Agency Inc. la congédiait. Ceci est également le cas d’employés qui ne sont pas assez productifs et qui risquent de perdre leur emploi.
+[28] Les dépenses engagées par les personnes étaient minimes. En ce qui concerne les téléphones cellulaires, le pourcentage d’utilisation attribuable aux activités menées pour JFJ Agency Inc. et aux appels personnels n’est pas clairement établi.
+[29] En l’espèce, un autre facteur vient appuyer l’existence d’une relation employeur‑employé. JFJ Agency Inc. fournissait des cartes professionnelles à chacune des personnes. Ces cartes comportaient le nom, l’adresse et autres coordonnées de JFJ Agency Inc. Aucune copie de ces cartes n’a été présentée en preuve. Le président de JFJ Agency Inc. et deux des personnes visées sont venues témoigner. Aucune de ces personnes n’a présenté une copie de ces cartes professionnelles après que l’avocate de l’intimé a soulevé la question lors du contre‑interrogatoire du premier témoin. Je tiens donc pour acquis que les cartes devaient comporter le nom de JFJ Agency Inc., ainsi que le nom de chaque personne, sans indiquer que la personne en question n’était pas un employé de JFJ Agency Inc. Il semble logique de penser que quelqu’un qui reçoit une telle carte comportant le nom d’une personne donnée ainsi que l’adresse et autres coordonnées de JFJ Agency Inc. présumerait que la personne en question est un employé de JFJ Agency Inc. Comme JFJ Agency Inc. fournissait ces cartes aux personnes visées, elle doit reconnaître qu’elle les présentait comme des employés.
+[30] Par conséquent, je conclus que Michael Mooney, Linda Casson et Bryce Matlashewski étaient des employés de JFJ Agency Inc. et qu’ils exerçaient donc un emploi ouvrant droit à pension aux fins du RPC pendant les périodes respectives établies précédemment, et que Michael Mooney et Linda Casson exerçaient un emploi assurable aux fins de la LAE pendant les périodes respectives établies précédemment.
+[31] Par conséquent également, les appels interjetés à l’encontre de la détermination selon laquelle Michael Mooney, Linda Casson et Bryce Matlashewski exerçaient un emploi ouvrant droit à pension aux fins du RPC pendant les périodes respectives établies précédemment, et selon laquelle Michael Mooney et Linda Casson exerçaient un emploi assurable aux fins de la LAE pendant les périodes respectives établies précédemment sont rejetés, sans dépens.
+[32] Les appels concernant Maureen Purpur, Shawna‑Lynn Skrudland et Karleen Small sont accueillis, sans dépens, et pour ces trois personnes, la question est déférée au ministre du Revenu national pour qu’il établisse de nouvelles déterminations et de nouvelles cotisations en partant du principe que Maureen Purpur et Shawna‑Lynn Skrudland n’exerçaient pas un emploi assurable aux fins de la LAE ni un emploi ouvrant droit à pension aux fins du RPC pendant la période du 1er janvier 2004 au 31 décembre 2004 et que Karleen Small n’exerçait pas un emploi assurable aux fins de la LAE ni un emploi ouvrant droit à pension aux fins du RPC pendant la période du 1er janvier 2002 au 31 décembre 2002.
+Signé à Halifax (Nouvelle‑Écosse), ce 6e jour de février 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 28e jour de février 2008.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2008CCI83
+Nos DES DOSSIERS : 2007-1569(EI) et 2007-1570(CPP)
+INTITULÉ : JFJ AGENCY INC. ET M.R.N.
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 14 janvier 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 6 février 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Ross A. McFayden
+Avocate de l’intimé :
+Me Meghan Riley
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Ross A. McFayden
+Cabinet : Thompson Dorfman Sweatman LLP
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

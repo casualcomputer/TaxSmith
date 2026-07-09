@@ -1,0 +1,177 @@
+Title: Glogowski v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26409/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-59-26409-glogowski-v-m-n-r-fr.md
+Document type: case_law
+Last modified: 2004-01-15
+
+# Glogowski v. M.N.R.
+
+- Citation: 2004 CCI 59
+- Decision date: 2004-01-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3356, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glogowski v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-15
+Référence neutre
+2004 CCI 59
+Numéro de dossier
+2003-822(EI)
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-822(EI)
+ENTRE :
+YORKE GLOGOWSKI,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu avec l'appel de Yorke Glogowski (2003-823(CPP))
+le 2 décembre 2003 à Kelowna (Colombie-Britannique)
+Devant : M. le juge Sheridan
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Bruce Senkpiel
+__________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision du ministre est annulée.
+Signé à Québec (Québec), ce 15e jour de janvier 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Dossier : 2003-823(CPP)
+ENTRE :
+YORKE GLOGOWSKI,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu avec l'appel de Yorke Glogowski (2003-822(EI))
+le 2 décembre 2003 à Kelowna (Colombie-Britannique)
+Devant : M. le juge Sheridan
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Bruce Senkpiel
+_______________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision du ministre est annulée.
+Signé à Québec (Québec), ce 15e jour de janvier 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Référence : 2004CCI59
+Date : 20040115
+Dossiers : 2003-822(EI)
+2003-823(CPP)
+ENTRE :
+YORKE GLOGOWSKI,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sheridan
+[1] M. Glogowski interjette appel des décisions rendues par le ministre selon lesquelles l'emploi de jardinier qu'il occupait en 2002 n'était pas un emploi assurable au sens de la Loi sur l'assurance-emploi ou un emploi ouvrant droit à pension au sens du Régime de pensions du Canada. Les appels ont été entendus ensemble, sur preuve commune, à Kelowna (Colombie-Britannique). M. Glogowski a témoigné pour son compte. Le ministre n'a appelé aucun témoin.
+[2] Yorke Glogowski est un jardinier qui travaille dans la vallée de l'Okanagan. Lui et sa conjointe de fait, Christine Holt, sont les locataires aux termes d'un bail daté du 9 février 2002, conclu avec Elizabeth Halvax, la locatrice. Ce bail, qui était en vigueur du 1er mars 2002 au 31 octobre 2002, permettait aux locataires d'utiliser une serre destinée à la culture de concombres anglais, un verger de 1,5 acre ainsi que des outils et de l'équipement agricoles.
+[3] Pendant la saison 2002, M. Glogowski a travaillé dans le verger et dans la serre du 1er juin au 30 septembre. Les produits récoltés étaient vendus sous le nom de CY Produce, les lettres « CY » signifiant « See why [our produce is better!] » ou [TRADUCTION] « Voyez pourquoi [nos produits sont les meilleurs!] » . M. Glogowski a indiqué dans son témoignage que les travailleurs reçoivent généralement des paiements forfaitaires, et non un salaire fondé sur un taux horaire, dans l'industrie. Le salaire versé pour le type de travail horticole et maraîcher qu'il faisait variait de 2 500 à 3 000 $ par mois. Mme Holt a fixé le début de la journée de travail de M. Glogowski à 5 h, mais elle l'a laissé décider de l'heure à laquelle il finissait en fonction de ce qu'il y avait à faire. M. Glogowski travaillait généralement de 10 à 12 heures par jour environ, 6 jours par semaine. Chaque mois, après avoir reçu le paiement du distributeur pour les produits CY Produce vendus, Mme Holt remettait à M. Glogowski 2 500 $ en espèces (déduction faite des avances, le cas échéant), après quoi ce dernier signait un talon de paye attestant le paiement. Mme Holt versait les sommes qu'elle retenait sur le salaire de M. Glogowski au titre du RPC et de l'AE et préparait un « État de la rémunération payée » (formule T4). Elle était inscrite comme l'employeur sur ce document.
+[4] Partie I : Questions relatives au Régime de pensions du Canada, à la Loi sur la sécurité de la vieillesse et à la Loi sur l'assurance-emploi
+1. M. Glogowski était-il un associé ou un employé?
+Le ministre fait valoir que M. Glogowski était un associé de Mme Holt et que, de ce fait, il ne pouvait pas être son employé. C'est ce que le bail prouve de façon convaincante, selon lui. L'existence d'une société de personnes est une question mixte de fait et de droit qui dépend de toutes les circonstances. Lorsqu'elle statue sur cette question, la Cour peut tenir compte d'une multitude de facteurs : l'apport des parties à l'entreprise commune sous forme de numéraire, de biens, de travail, de connaissances, d'habiletés ou d'autres éléments; le droit de propriété conjointe dans l'objet de l'entreprise; le droit mutuel de contrôle ou de gestion de l'entreprise; la production de déclarations de revenus à titre de société de personnes et les comptes bancaires conjoints[1].
+La Cour est convaincue que M. Glogowski a prouvé, comme il devait le faire, qu'il n'était pas un associé de CY Produce. Premièrement, le fait qu'il a assumé certaines obligations lorsqu'il a signé le bail ne suffit pas en soi à en faire un associé de Mme Holt. De plus, son témoignage selon lequel il n'avait aucun droit aux profits semble témoigner de l'absence d'une société de personnes. À la fin de chaque mois, M. Glogowski avait droit uniquement à son salaire de 2 500 $, indépendamment des ventes de produits réalisées pendant cette période. Les produits étaient payés directement à Mme Holt, jamais à M. Glogowski. Ce dernier a indiqué dans son témoignage que le compte de banque était au nom de Mme Holt seulement. Aucune déclaration de revenus n'a été produite pour une société de personnes. Compte tenu de l'ensemble de la preuve, il est tout à fait contraire au bon sens de dire que M. Glogowski était un associé de CY Produce. La première prétention du ministre doit donc être rejetée.
+2. M. Glogowski était-il lié par un contrat d'entreprise ou par un contrat de louage de services?
+Le ministre fait valoir subsidiairement que, même si M. Glogowski n'est pas un associé, il n'est pas un « employé » , c'est-à-dire une personne qui « s'adonnait à un emploi ouvrant droit à pension » au sens du Régime de pensions du Canada et de la Loi sur la sécurité de la vieillesse[2]. Il incombe à M. Glogowski de réfuter l'hypothèse du ministre selon laquelle il était un entrepreneur indépendant. Pour ce faire, il doit démontrer, suivant la prépondérance des probabilités, qu'il a travaillé dans la serre et dans le verger en tant qu'employé en vertu d'un contrat de louage de services.
+Le ministre soutient que M. Glogowski travaillait en vertu d'un contrat d'entreprise et non en vertu d'un contrat de louage de services, et il demande à la Cour d'appliquer la « règle comprenant quatre critères » élaborée par la Cour d'appel fédérale dans l'arrêt Wiebe Door Services Ltd. v. M.N.R.[3] pour déterminer le statut de M. Glogowski. Cette règle comporte les critères suivants :
+1. le degré, ou l'absence, de contrôle exercé par le prétendu employeur;
+2. la propriété des instruments de travail;
+3. les possibilités de bénéfice et les risques de perte;
+4. l'intégration des travaux effectués par le prétendu employé dans l'entreprise de l'employeur présumé.
+[5] Comme la Cour d'appel fédérale l'a reconnu dans l'arrêt Wolf c. Canada[4], il est plus facile de dresser la liste des critères que de les appliquer avec précision à un ensemble de faits, en particulier dans le cas d'une petite entreprise toute simple comme CY Produce. Examinons maintenant chacun de ces critères.
+1) Degré, ou absence, de contrôle exercé par le prétendu employeur
+[6] C'est Mme Holt qui a créé CY Produce. Peu de temps après qu'elle l'a fait, elle s'est rendu compte qu'elle ne pouvait pas faire fonctionner l'entreprise toute seule et M. Glogowski a commencé à travailler dans la serre et dans le verger. À l'origine, ce dernier voulait se trouver un emploi semblable ailleurs dans la vallée, mais ses recherches ont été vaines. M. Glogowski a indiqué dans son témoignage que c'est Mme Holt qui a décidé qu'il commencerait à travailler à 5 h et qui lui a permis de terminer sa journée de travail dès qu'il avait exécuté ses tâches pour la journée. Comme il était un jardinier expérimenté, il devait savoir ce qu'il avait à faire sans que Mme Holt n'ait à le superviser quotidiennement. Il ne fait aucun doute que M. Glogowski n'avait pas un horaire aussi soigneusement établi et des fonctions aussi clairement définies que la personne qui accueille la clientèle dans un Wal-Mart ou le commis au courrier de l'ADRC. Ce n'est pas la norme dans son domaine de travail. Cela l'empêche-t-il d'être un employé? La Cour conclut que non. Il ressort clairement de la preuve présentée que Mme Holt exerçait un contrôle sur le travail effectué par M. Glogowski.
+2) Propriété des instruments de travail
+[7] À titre de colocataires, M. Glogowski et Mme Holt avaient un droit identique à l'utilisation des « instruments de travail » mentionnés (mais non décrits) dans le bail. Aucune preuve n'a cependant été présentée concernant les instruments qui étaient nécessaires ou qui étaient effectivement utilisés dans le cadre du travail, ou les instruments qui pouvaient appartenir à M. Glogowski ou qui pouvaient avoir été fournis par lui ou, le cas échéant, par Mme Holt. En résumé, la Cour ne disposait d'aucun élément de preuve utile eu égard à ce critère de l'arrêt Wiebe Door.
+3) Possibilités de bénéfice et risques de perte
+[8] Comme il a été mentionné précédemment, M. Glogowski n'avait droit à aucune part des profits réalisés ni à rien d'autre que son salaire mensuel de 2 500 $. Le ministre soutient cependant que M. Glogowski courait des « risques de perte » parce qu'il avait signé le bail et qu'il était responsable conjointement des paiements de loyer. Si l'on donne à ces termes leur sens général, on pourrait dire que, à cause des obligations qui lui incombaient en vertu du bail, M. Glogowski pouvait être responsable des paiements de loyer devant être versés à la locatrice, Mme Halvax. Le fait d'avoir signé le bail ne changeait rien, cependant, à son droit de recevoir chaque mois une somme de 2 500 $ de Mme Holt pour l'exécution des tâches convenues. Par conséquent, la Cour n'est pas convaincue que le fait qu'il fût responsable conjointement avec Mme Holt envers la locatrice lui faisait courir des « risques de perte » au sens de l'arrêt Wiebe Door.
+4) Intégration des travaux effectués par le prétendu employé dans l'entreprise de l'employeur présumé
+[9] Reconnaissant les difficultés que pose l'application de ce critère de la règle de l'arrêt WiebeDoor, l'avocat du ministre demande à la Cour de prendre en considération le critère utilisé par la Cour suprême du Canada dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[5], où le juge Major a transformé le critère de l'intégration en posant la question fondamentale suivante : « À qui appartient l'entreprise? » En d'autres termes, M. Glogowski effectuait-il son travail de jardinage pour son propre compte ou pour son employeur[6]? Dans le premier cas, M. Glogowski est lié par un contrat d'entreprise; dans le deuxième, par un contrat de louage de services.
+[10] M. Glogowski est un jardinier expérimenté qui n'avait pas besoin que son employeur surveille tout ce qu'il faisait. Comme il était le seul travailleur de l'entreprise à travailler dans la serre et dans le verger, son travail était important pour la production des produits de CY. Cela étant dit, ses fonctions auraient pu être exercées par un autre employé aussi compétent embauché par Mme Holt. M. Glogowski a indiqué dans son témoignage qu'il n'avait aucune autre attribution à part ces fonctions. La Cour est convaincue que M. Glogowski a établi, comme il devait le faire, qu'il exécutait ses fonctions à titre d'employé travaillant en vertu d'un contrat de louage de services. Par conséquent, l'emploi qu'il a occupé pendant la période en cause ouvre droit à pension.
+[11] Partie II : Questions relatives à la Loi sur l'assurance-emploi seulement
+Pour avoir gain de cause, M. Glogowski a un autre obstacle à franchir sous le régime de la Loi sur l'assurance-emploi. Les dispositions suivantes de cette loi sont pertinentes en l'espèce :
+Loi sur l'assurance-emploi
+2. (1) Définitions - Les définitions qui suivent s'appliquent à la présente loi.
+[...]
+« emploi » Le fait d'employer ou l'état d'employé.
+« emploi assurable » S'entend au sens de l'article 5.
+« employeur » Sont assimilés à un employeur une personne qui a été employeur, de même que, du point de vue de la rémunération qu'il en tire, le particulier promoteur ou coordonnateur d'un projet visé à l'alinéa 5(1)e).
+[...]
+5. (1) Sens de « emploi assurable » - Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+(2) Restriction - N'est pas un emploi assurable :
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Personnes liées - Pour l'application de l'alinéa (2)i) :
+[...]
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[12] L'alinéa 5(3)a) prévoit que la question de savoir si des parties ont ou non entre elles un lien de dépendance doit être déterminée conformément à l'article 251 de la Loi de l'impôt sur le revenu. Les passages suivants de cette disposition sont pertinents :
+Article 251. Lien de dépendance
+(1) Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de « personnes liées » . Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l'union de fait ou de l'adoption;
+[...]
+[13] Les parties reconnaissent que M. Glogowski et Mme Holt étaient des conjoints de fait à l'époque pertinente. En conséquence, ils sont réputés avoir entre eux un « lien de dépendance » aux termes de l'article 251.
+[14] Lorsqu'un employé et un employeur sont réputés avoir entre eux un lien de dépendance suivant l'alinéa 5(2)i), le ministre a le pouvoir discrétionnaire, en vertu de l'alinéa 5(3)b), de décider s'il est raisonnable ou non de conclure qu'un employé et un employeur n'ayant pas de lien de dépendance auraient conclu entre eux un contrat de travail à peu près semblable dans les mêmes circonstances. Dans le cas de M. Glogowski, le ministre a décidé, sur la foi des hypothèses formulées dans la réponse, qu'il n'était pas raisonnable de conclure qu'un employé et un employeur n'ayant pas de lien de dépendance auraient conclu entre eux un contrat de louage de services à peu près semblable à celui passé entre M. Glogowski et Mme Holt.
+[15] C'est cette décision que M. Glogowski porte en appel en l'espèce. L'avocat du ministre a porté à l'attention de la Cour l'arrêt Her Majesty the Queen and Bayside Drive-In[7], où la Cour d'appel fédérale a indiqué qu'une analyse en deux étapes devait être effectuée dans le cadre d'un appel visant une décision fondée sur l'alinéa 5(3)b) :
+première étape : déterminer si le ministre a exercé correctement son pouvoir discrétionnaire;
+deuxième étape : si la Cour conclut que le ministre n'a pas exercé correctement son pouvoir discrétionnaire, déterminer si, compte tenu de toutes les circonstances décrites dans la Loi, il est raisonnable de conclure que le contrat de travail passé entre l'employeur et l'employé ayant un lien de dépendance est à peu près semblable à celui que des personnes sans lien de dépendance auraient conclu.
+[16] Il incombe à M. Glogowski d'établir, suivant la prépondérance des probabilités, que des parties n'ayant pas de lien de dépendance entre elles auraient conclu un contrat à peu près semblable à celui qu'il a passé avec Mme Holt. Il faut, à cette fin, qu'il démontre que le ministre n'a pas exercé correctement son pouvoir discrétionnaire :
+a) soit en agissant de mauvaise foi ou en s'appuyant sur un objectif ou un motif inapproprié;
+b) soit en ne tenant pas compte de toutes les circonstances pertinentes, contrairement à ce qui est expressément prévu à l'alinéa 5(3)b);
+c) soit en tenant compte d'un facteur non pertinent.
+[17] Lorsqu'elle examine la manière dont le ministre a exercé le pouvoir discrétionnaire qui lui est conféré par la loi, la Cour peut tenir compte des faits mis de l'avant lors de l'audition de l'appel. La Cour est convaincue que M. Glogowski a démontré que le ministre n'a pas exercé correctement le pouvoir discrétionnaire qui lui est conféré à l'alinéa 5(3)b) en réfutant les hypothèses suivantes sur lesquelles la décision du ministre était fondée :
+a) M. Glogowski était un associé de Mme Holt [hypothèse 4(l)];
+b) CY Produce ne versait pas à M. Glogowski un salaire ou une rémunération préétablis [hypothèse 4(m)];
+c) le travail de M. Glogowski n'était ni supervisé ni contrôlé par CY Produce [hypothèse 4(o)];
+d) subsidiairement, M. Glogowski n'était pas lié à CY Produce par un contrat de louage de services [hypothèse 4(p)].
+[18] Le ministre n'a pas exercé correctement son pouvoir discrétionnaire car il n'a pas tenu compte de toutes les circonstances pertinentes ou il a pris en considération des facteurs qui n'étaient pas pertinents. Ayant ce premier obstacle, M. Glogowski doit convaincre la Cour que le contrat de louage de services qu'il a passé avec Mme Holt était « à peu près semblable » à celui que des personnes sans lien de dépendance auraient conclu.
+[19] Selon le ministre, M. Glogowski ne peut pas avoir gain de cause car un employé n'ayant pas de lien de dépendance avec l'employeur n'aurait pas signé le bail comme il l'a fait. La Cour a déjà indiqué que le contrat de louage de services en vertu duquel M. Glogowski était employé était conforme aux normes de l'industrie au regard de tous les autres aspects : les heures de travail, le mode de rémunération, le montant de la rémunération et le moment où celle-ci était versée, ainsi que la liberté dont M. Glogowski disposait dans son travail. Ce contrat aurait pu être imposé sans modification majeure à un employé n'ayant pas de lien de dépendance avec son employeur.
+[20] La seule question à trancher est de savoir si le fait d'avoir cosigné le bail fait en sorte que M. Glogowski ne peut pas être considéré comme un employé. Selon la Cour, ce n'est pas le cas. La preuve n'indiquait pas que M. Glogowski devait signer le bail pour pouvoir être embauché. C'est la locatrice, Elizabeth Halvax, qui a insisté pour qu'il signe le bail, et non son employeur, Mme Holt. La Cour ne dispose pas d'éléments de preuve permettant de savoir ce qui aurait pu arriver si M. Glogowski avait refusé de signer le bail. Peut-être Mme Halvax n'aurait-elle pas consenti le bail, auquel cas Mme Holt n'aurait pas été en mesure d'embaucher M. Glogowski - ou quelqu'un d'autre - pour faire le travail. La preuve n'indiquait pas cependant que M. Glogowski devait signer le bail pour être embauché par Mme Holt. Dans son témoignage, qui n'a pas été contesté, M. Glogowski a dit que Mme Holt [TRADUCTION] « [...] pouvait embaucher qui elle voulait pour faire le travail » . Il a ajouté qu'il avait accepté de travailler pour CY Produce uniquement parce qu'il n'avait pas pu se trouver un emploi ailleurs. Par conséquent, la Cour est convaincue que le contrat de travail passé entre M. Glogowski et Mme Holt est à peu près semblable à celui qu'un employeur et un employé n'ayant pas de lien de dépendance auraient conclu entre eux.
+[21] Pour les motifs exposés ci-dessus, la Cour estime que l'emploi occupé par M. Glogowski pendant la période en cause était un emploi assurable et qu'il ouvrait droit à pension. La Cour accueille les appels et annule les décisions du ministre.
+Signé à Québec (Québec), ce 15e jour de janvier 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de décembre 2004.
+Jacques Deschênes, traducteur
+[1] Continental Bank of Canada v. R., [1998] 4 C.T.C. 119 (C.S.C.); Pedwell v. R., 2000 D.T.C. 6405 (C.A.F.).
+[2] 2. (1) « emploi » L'accomplissement de services aux termes d'un contrat de louage de services ou d'apprentissage, exprès ou tacite, y compris la période d'occupation d'une fonction.
+6. (1) Ouvrent droit à pension les emplois suivants : a) l'emploi au Canada qui n'est pas un emploi excepté [...].
+[3] 87 D.T.C. 5025 (C.A.F.).
+[4] [2002] C.A.F. 96.
+[5] [2001] A.C.S. no 61.
+[6] Market Investigations, Ltd. v. MSS, [1968] 3 All E.R. 732, confirmé par la Cour suprême du Canada dans 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] A.C.S. no 61.
+[7] 218 N.R. 150.

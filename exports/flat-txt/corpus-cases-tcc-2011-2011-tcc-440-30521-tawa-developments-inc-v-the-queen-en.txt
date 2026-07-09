@@ -1,0 +1,325 @@
+Title: Tawa Developments Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30521/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-440-30521-tawa-developments-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-09-22
+
+# Tawa Developments Inc. v. The Queen
+
+- Citation: 2011 TCC 440
+- Decision date: 2011-09-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7322, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tawa Developments Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-09-22
+Neutral citation
+2011 TCC 440
+File numbers
+2009-2464(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2464(IT)G
+BETWEEN:
+TAWA DEVELOPMENTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 2, 2011, at Edmonton, Alberta.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+James Yaskowich
+Michael Dolson
+Counsel for the Respondent:
+Margaret McCabe
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2004 taxation year is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 22nd day of September 2011.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2011 TCC 440
+Date: 20110922
+Docket: 2009-2464(IT)G
+BETWEEN:
+TAWA DEVELOPMENTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. INTRODUCTION
+[1] The Appellant is appealing from a reassessment issued with respect to its taxation year ended December 31, 2004.
+[2] The issue is whether the Minister of National Revenue (the “Minister”) erred when he denied a dividend refund under subsection 129(1) of the Income Tax Act (Canada) (the “Act”) with respect to the 2004 taxation year and reduced the Appellant’s refundable dividend tax on hand (RDTOH) in the circumstances described below.
+II. FACTUAL BACKGROUND
+[3] The Appellant was a Canadian-controlled private corporation (CCPC) resident in Canada during the years at issue. During the relevant time, the Appellant carried on a commercial rental property and commercial real estate business.
+[4] During its 2004 taxation year, the Appellant received dividends in the amount of $321,414 from 553943 Alberta Ltd. (“553943”), which was a corporation connected with the Appellant in 2004.
+[5] In filing its 2004 income tax return, the Appellant reported a Part IV, subsection 186(1) income tax liability in the amount of $107,138 arising from the receipt of the dividends from 553943. In its 2004 income tax return the Appellant also reported the payment of taxable dividends in the amount of $321,414 to its shareholders who were not corporations connected to the Appellant. In filing its 2004 income tax return, the Appellant claimed a dividend refund in the amount of $107,138 under subsection 129(1). The Minister initially calculated the dividend refund amount to be $106,773. The Minister’s counsel now concedes that this amount should be $107,138.
+[6] The Appellant’s 2004 taxation year ended on December 31, 2004. The Appellant’s 2004 income tax return was received by the Minister on or about January 15, 2008. The Minister denied the dividend refund and neither paid it to the Appellant nor applied it to the Appellant’s 2004 income tax liability. As a result, the Appellant was assessed as having an outstanding income tax balance. The basis for the Minister’s denial of the dividend refund was the Appellant’s late filing of its 2004 income tax return.
+[7] For the Appellant’s 2005 taxation year, the Minister reduced the Appellant’s RDTOH balance by the amount of the claimed-but-denied dividend refund of $107,138.
+III. PARTIES’ POSITIONS
+Appellant’s Position
+[8] In its written argument and its oral submissions at trial, the Appellant argued that the Minister erred in denying it the dividend refund under subsection 129(1) and that the Tax Court should order the issuance of the dividend refund on the following grounds:
+(a) in circumstances where a taxpayer corporation has paid a dividend to non-connected persons, subsection 129(1) automatically generates a dividend refund;
+(b) the late filing of the income tax return was cured by the Minister’s acceptance of the return;
+(c) a filed return permits the Minister to issue a refund, because a late filing of a return is similar to a late election or designation, or to an amendment of a return, the validity of all of which has been upheld by caselaw, such as the Federal Court of Appeal decision in The Queen v. Nassau Walnut Investments Inc.[1] and this Court’s decision in Lussier v. The Queen;[2]
+(d) there is no provision in the Act that would deny a refund in the context of a late filing, such as subsection 166.1(7) concerning the denial of an application for an extension of time to file an objection to an assessment;
+(e) the preamble of subsection 129(1), which makes it a condition that an income tax return be filed within three years of the end of the taxation year, is only a rebuttable inference;
+(f) to deny a dividend refund in the Appellant’s circumstances would result in double taxation and be contrary to the policy of integration.
+[9] The Appellant’s counsel further argued that should the Court find that the Appellant is not entitled to a dividend refund:
+(a) if there is no refund under subsection 129(1), there can be no reduction of the RDTOH under paragraph 129(3)(d);
+(b) the modern approach to statutory interpretation suggests that the Act is to be read in its grammatical and ordinary sense and harmoniously with its object and with the intention of Parliament;
+(c) the Department of Finance’s Technical Notes on section 129[3] suggest that dividends do not exist until they are paid; the same approach should be used with the notion of refunds;
+(d) the ordinary meaning of dividend involves payment and receipt and so does the ordinary meaning of refund;
+(e) the correct meaning of the term “dividend refund” must respect the ordinary meaning of the word “refund”;
+(f) when considered in the context of other provisions of the Act, having regard to the intentions of Parliament, the ordinary meaning of the phrase “dividend refund” cannot be anything other than an amount received, receivable or credited; any other meaning would create absurdity and internal incoherence.
+Minister’s Position
+[10] In her written argument and her oral submissions at trial, the Minister’s counsel argued that the Minister was correct in denying the Appellant the dividend refund on account of the late filing by the Appellant because:
+(a) the three-year time limitation for filing prescribed in subsection 129(1) is clear and unambiguous;
+(b) the rigidity of a similar limitation period contained in subsection 152(4), which sets out the period within which the Minister may reassess a taxpayer, has been confirmed by the Federal Court of Appeal in Canadian Marconi Co. v. Canada;[4]
+(c) the correctness of the denial of a dividend refund owing to the late filing of the taxpayer’s income tax return was confirmed by the Federal Court of Appeal in Ottawa Air Cargo Centre Ltd. v. R.[5]
+[11] At trial, the Minister’s counsel further argued that the amount of the “dividend refund” should be deducted from the RDTOH, even if the refund was not made, because:
+(a) a dividend refund is not defined as an amount “payable”;
+(b) the Federal Court of Appeal in Bulk Transfer Systems Inc. v. R.[6] held that the RDTOH is not a credit against taxes, does not operate in the same way as a tax credit and does not play a role in the computation of tax;
+(c) the definition of RDTOH does not require that the dividend refund be “received” by the taxpayer;
+(d) the RDTOH is a notional account wherein a corporation’s refund amounts accumulate on an annual basis to become the defined “RDTOH” for the year;
+(e) the purpose of section 129 was to help achieve the integration of corporate and shareholder tax on corporate income and also to ensure that shareholders do not defer tax on their dividend income;
+(f) section 129 was enacted in 1972 as part of the Carter Commission and White Paper income tax reforms; these reforms aimed, inter alia, at limiting the period of time during which dividends would need to be paid to shareholders in order for them to qualify for dividend tax credits, and, concurrently, at limiting the amount of outstanding tax refund claims against the government;
+(g) the amendments in paragraph 129(3)(d) have changed the dividend refund amount from a cumulative amount calculated over the corporation’s prior years to an annual amount from the corporation’s preceding taxation year; this is important in illustrating the purpose of that provision;
+(h) the decision in Bulk Transfer Systems, above, says that RDTOH is not a credit against taxes and does not operate in the same way as a tax credit.
+IV. ANALYSIS
+[12] Dividend refunds to private corporations are governed by section 129 of the Act. Subsection 129(1) directs the determination as to where, in what amount and when a dividend refund may be made:
+129. (1) Dividend refund to private corporation -- Where a return of a corporation's income under this Part for a taxation year is made within 3 years after the end of the year, the Minister
+(a) may, on sending the notice of assessment for the year, refund without application an amount (in this Act referred to as its "dividend refund" for the year) equal to the lesser of
+(i) 1/3 of all taxable dividends paid by the corporation on shares of its capital stock in the year and at a time when it was a private corporation, and
+(ii) its refundable dividend tax on hand at the end of the year; and
+(b) shall, with all due dispatch, make the dividend refund after sending the notice of assessment if an application for it has been made in writing by the corporation within the period within which the Minister would be allowed under subsection 152(4) to assess tax payable under this Part by the corporation for the year if that subsection were read without reference to paragraph 152(4)(a).
+[13] This subsection requires that, in order to qualify for a dividend refund, the private corporation have paid taxable dividends on its capital stock in the taxation year and have a positive balance in its RDTOH account at the end of the year, as the dividend refund amount is to be the lesser of one-third of the taxable dividends paid in the year and the balance in the RDTOH account at the end of the year.
+[14] Before the dividend refund for a taxpayer corporation can be determined, however, it must be ascertained that subsection 129(1) is operative in the corporation’s case. Subsection 129(1) contains a preamble which makes the subsection applicable only where the taxpayer corporation has filed its income tax return for the taxation year within three years after the end of that taxation year.
+[15] If the three-year filing condition is satisfied and the remaining requirements are met, paragraph 129(1)(a) permits the Minister to make a dividend refund on sending the notice of assessment, without the corporation having to make a special application for the dividend refund. Where, presumably, the refund has not been made, paragraph 129(1)(b) provides that, if a written application for the dividend refund is made to the Minister within the period in which the Minister is permitted to assess the taxpayer under subsection 152(4), the Minister shall make the dividend refund.
+[16] Subsection 129(2) allows the Minister to apply the dividend refund to the taxpayer corporation’s outstanding tax liability, instead of making the refund:
+129
+. . .
+(2) Application to other liability -- Instead of making a refund that might otherwise be made under subsection 129(1), the Minister may, where the corporation is liable or about to become liable to make any payment under this Act, apply the amount that would otherwise be refundable to that other liability and notify the corporation of that action.
+[17] The provision that governs general income tax refunds, which is contained in subsection 164(1), also contains in its preamble a timing condition requiring that an income tax return be filed within three years after the end of the taxation year:
+164. (1) Refunds -- If the return of a taxpayer's income for a taxation year has been made within 3 years from the end of the year, the Minister
+(a) may,
+(i) before sending the notice of assessment for the year, where the taxpayer is, for any purpose of the definition "refundable investment tax credit" (as defined in subsection 127.1(2)), a qualifying corporation (as defined in that subsection) and claims in its return of income for the year to have paid an amount on account of its tax payable under this Part for the year because of subsection 127.1(1) in respect of its refundable investment tax credit (as defined in subsection 127.1(2)), refund all or part of any amount claimed in the return as an overpayment for the year . . .
+(b) shall, with all due dispatch, make the refund referred to in subparagraph (a)(iii) after sending the notice of assessment if application for it is made in writing by the taxpayer within the period within which the Minister would be allowed under subsection 152(4) to assess tax payable under this Part by the taxpayer for the year if that subsection were read without reference to paragraph 152(4)(a).
+[18] While a late application for a refund is provided for in subsection 164(1.5), that provision is only applicable to individual taxpayers and testamentary trusts. There is no late filing provision with respect to corporate taxpayers’ applications for dividend refunds or general income tax refunds.
+[19] Dividend refunds are distinguishable from general refunds of overpaid tax, but the similarities in the amendments of the provisions dealing with those two types of refunds are notable. When section 129 was enacted in 1972, the filing limitation period in both subsection 129(1) and subsection 164(1) was four years, and when the Act was amended in 1985, that period was changed to the current three years in each section.
+[20] The dividend refund mechanism described in subsection 129(1) is relatively straightforward. The author of Taxation of Corporations, Partnerships and Trusts,[7] suggests that where a preamble to a provision contains a condition and that condition is not satisfied by the affected subject, the provision loses its applicability to that subject:
+. . . [W]hen learning how to read the Income Tax Act . . . it can be helpful to keep in mind that its drafters tend to follow certain well-established patterns. Once the reader becomes familiar with these patterns, he or she will often be able to do a preliminary assessment of whether a particular provision has application in a specific circumstance, without the need to examine the entire provision in detail. Several such patterns are discussed below.
+(i) Preambles
+In determining the application of a section, where one of the conditions in its preamble is not met, it makes no sense to read further. Consider the preamble to subsection 85(1).
+85. (1) Transfer of property to corporation by shareholders [rollover] -Where a taxpayer has, in a taxation year, disposed of any of the taxpayer’s property that was eligible property to a taxable Canadian corporation for consideration that includes shares of the capital stock of the corporation, if the taxpayer and the corporation have jointly elected in prescribed form and in accordance with subsection (6), the following rules apply . . .
+The conditions precedent to the application of subsection 85(1) are as follows:
+- a taxpayer has in a taxation year;
+- disposed of any of the taxpayer’s property that was eligible property;
+- to a taxable Canadian corporation;
+- for consideration that includes shares of the corporation; and
+- the taxpayer and the corporation have jointly elected in prescribed form and in accordance with subsection (6) . . .
+If the property disposed of is not “eligible property”, read no further – one of the conditions precedent to the application of subsection 85(1) is not satisfied and the provision is not operative. . . .[8]
+[21] The Minister’s counsel relies on the Tax Court’s 2007 general procedure decision Ottawa Air Cargo, above, which was affirmed by the Federal Court of Appeal and which confirmed that where a dividend refund is not made and an application within the time specified in paragraph 129(1)(b) is not submitted by the taxpayer, the taxpayer is out of time to apply for such a refund. In Ottawa Air Cargo, the taxpayer corporation treated its dividend income as capital gains and sought no refund of Part IV tax (tax on taxable dividends received by corporations). Justice Lamarre held:
+37 The appellant did not make an application in writing for such a refund within the period within which the Minister would be allowed under subsection 152(4) to assess tax payable under Part I, as required by paragraph 129(1)(b). Indeed, when the Minister assessed the appellant for Part IV tax with respect to deemed dividends, the appellant chose to reduce the resulting liability to a nominal amount through the application of losses thereto. No refund of Part IV tax was sought pursuant to subsection 129(1) of the Act and indeed no refund was given to the appellant. It is now too late to seek one.[9]
+[22] In 3735851 Canada Inc. v. The Queen,[10] Justice Woods held that the Tax Court has no jurisdiction over subsection 164(1) tax refund issues where the issue is the late filing of an income tax return.
+[23] In 864936 Ontario Ltd. v. Canada,[11] Judge O’Connor (as he then was) held that a dividend refund does not arise and cannot be determined until an income tax return is filed and, more precisely, until the Minister assesses the taxpayer. The question in 864936 Ontario was whether the Minister, by virtue of holding the appellant’s RDTOH account, was at all times during such holding a creditor of the appellant and, as such, had no entitlement to charge interest on the appellant’s outstanding tax liabilities. It was held that the Minister only became a creditor after the appellant had provided all the requisite information about its RDTOH components (on the initial filing of its income tax return, the appellant had failed to give such required information) and, more precisely, when the Minister completed his assessment of the appellant’s RDTOH:
+The appellant corporation came into existence as the result of the November 1, 1989 amalgamation of two predecessor corporations known as 607654 Ltd. and 607655 Ltd. Both of these predecessor corporations had refundable dividend tax on hand ("RDTOH") at the amalgamation date. The appellant filed its first corporate tax return with a fiscal year ending on February 28, 1990 and filed its final tax return with a fiscal year ending on March 26, 1990. The aforementioned tax returns were both initially assessed on September 21, 1990. Since 654 Ltd. failed to submit the required information upon the initial filing of its October 31, 1989 tax return, the $73,359.58 RDTOH balance of 607654 Ltd. was not transferred to the appellant's RDTOH account until 607654 Ltd.'s reassessment on November 29, 1990, which was subsequent to the September 21, 1990 assessment date for the appellant's first tax return. The Minister was not in a position to increase the appellant's RDTOH account and issue the proper dividend refund for the March 26, 1990 fiscal period at the initial assessment date of September 21, 1990. The reassessment of the appellant's March 26, 1990 return of income occurred on April 1, 1992, and the full refundable dividend then became available for application to the balance of taxes owing with respect to the fiscal period ending February 28, 1990. The appellant's outstanding balance of taxes with respect to the February 28, 1990 fiscal period was not paid until April 1, 1992, the date of reassessment of the March 26, 1990 fiscal period, when the additional dividend refund became available for application to the balance of taxes owing for the prior fiscal period. The appellant was charged arrears interest with respect to the fiscal period ending February 28, 1990 for the period that taxes for that period remained unpaid (i.e., from September 22, 1990 to the reassessment date of April 1, 1992). The appellant submitted that there should have been no interest charged for the period September 22, 1990 to April 1, 1992 because during that time the Minister was in fact a debtor to the appellant if the final determination of the refundable dividend was considered. In effect, the appellant stated that there was an offset as of September 21, 1990.
+HELD:
+Notwithstanding that no offset was allowable, it was clear from subsection 152(1) that the Minister must determine the refund provided for in section 129 with "all due dispatch". It appeared from the evidence that the Minster was in a position to correctly establish the ultimate refundable dividend which made the appellant a creditor rather a debtor on November 29, 1990. The Minister should have determined the refund and reassessed within two months of the latter date. Accordingly, interest was chargeable from September 22, 1990 to January 29, 1991. Appeal allowed in part. [12]
+[Bold and underscore emphasis added.]
+[24] Similarly, with respect to tax refunds, Judge Rip (as he then was), stated in his 1991 decision Munich Reinsurance Co. (Canada Branch) v. M.N.R.,[13] that a right to a refund of an overpayment of tax arises not when the overpayment is made, but rather when a tax return is filed:
+48 Subsection 164(1) provides a mechanism for the Minister to refund an overpayment of tax. The Minister may refund an overpayment of tax for the year when mailing the notice of assessment for the year or later, and shall make the refund subsequent to the mailing of the notice on application by a taxpayer within a time period. Thus by filing a tax return within a specified period, the taxpayer acquires an enforceable right against the Minister for any amount of money he has overpaid in tax. While this right is undoubtedly property, it is important to note that the right to a refund does not arise at the time an overpayment of any tax instalment is made but it arises on the day a return is filed. As section 164 makes clear, a refund is not due and payable until a return is filed. The opening words of subsection 164(1) read:
+If the return of a taxpayer's income for a taxation year has been made within 3 years from the end of the year . . .[14]
+[Bold and underscore emphasis added.]
+[25] The Minister’s jurisdiction to issue a refund is governed by subsection 129(1), which makes it a condition that a tax return for the taxation year be filed within three years after the end of that year. The limitation of the Court’s jurisdiction was affirmed by the Federal Court of Appeal in the Ottawa Air Cargo case, where the taxpayer was found to have been out of time to apply for a dividend refund. Here, the Appellant missed the required filing deadline, which made the dividend refund provision in subsection 129(1) inoperative in its case and the refund unobtainable.
+[26] The Appellant’s statement that the late filing in the context of subsection 129(1) was cured by the Minister’s acceptance of its late return is not correct, because there is no provision in the Act which limits the time for filing a return. The cases of Canada v. Nassau Walnut Investments Inc.[15] and Lussier v. R.[16] relied on by the Appellant are not helpful to it. In Nassau Walnut, the issue was one of entitlement to subsequently file a designation of particular income while Lussier was concerned with an actual subsequently-filed designation. These cases are distinguishable from the facts in the Appellant’s case, because neither designation provision contains a filing limitation period and, in each case, the subsequent application was treated as an amendment of previously‑filed income tax returns, which appear to have been filed on time. Although a designation and an application for a dividend refund may lead to the issuance of refunds, the purposes of the relevant provisions are distinct.
+[27] I now turn to the second issue: whether the Appellant’s RDTOH account should be reduced by the amount of the dividend refund that it failed to obtain. The definition of, or formula for determining, a corporation’s RDTOH is contained in subsection 129(3). That provision reads as follows:
+129.
+. . .
+(3) Definition of "refundable dividend tax on hand" - In this section, "refundable dividend tax on hand" of a corporation at the end of a taxation year means the amount, if any, by which the total of
+(a) where the corporation was a Canadian-controlled private corporation throughout the year, the least of
+(i) the amount determined by the formula
+A – B
+where
+A is 26 2/3% of the corporation's aggregate investment income for the year, and
+B is the amount, if any, by which
+(I) the amount deducted under subsection 126(1) from the tax for the year otherwise payable by it under this Part
+exceeds
+(II) 9 1/3% of its foreign investment income for the year,
+(ii) 26 2/3% of the amount, if any, by which the corporation's taxable income for the year exceeds the total of
+(A) the least of the amounts determined under paragraphs 125(1)(a) to (c) in respect of the corporation for the year,
+(B) 25/9 of the total of amounts deducted under subsection 126(1) from its tax for the year otherwise payable under this Part, and
+(C) 10/4 of the total of amounts deducted under subsection 126(2) from its tax for the year otherwise payable under this Part, and
+(iii) the corporation's tax for the year payable under this Part determined without reference to section 123.2,
+(b) the total of the taxes under Part IV payable by the corporation for the year, and
+(c) where the corporation was a private corporation at the end of its preceding taxation year, the corporation's refundable dividend tax on hand at the end of that preceding year
+exceeds
+(d) the corporation's dividend refund for its preceding taxation year.
+[28] The specific issue in this appeal is whether the term “dividend refund” in paragraph 129(3)(d) represents a dividend refund that was actually paid or credited against outstanding taxes, or whether it is a notional amount that arises even where no refund was actually made.
+[29] The Act provides no definition of “dividend refund” other than that contained in paragraph 129(1)(a), which states that it is an “amount . . . equal to the lesser of” two figures, as follows:
+129(1) . . .
+(a) may, on sending the notice of assessment for the year, refund without application an amount (in this Act referred to as its "dividend refund" for the year) equal to the lesser of
+(i) 1/3 of all taxable dividends paid by the corporation on shares of its capital stock in the year and at a time when it was a private corporation, and
+(ii) its refundable dividend tax on hand at the end of the year;
+[Bold and underscore emphasis added.]
+[30] Canada’s Interpretation Act[17] provides a starting point, but not a definitive solution for the construction of statutory provisions. It emphasizes that, in the interpretation of a statute, the focus should be on the attainment of a provision’s purpose:
+12. Every enactment is deemed remedial, and shall be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objects.[18]
+[31] Over the years, the courts in Canada have espoused several approaches to statutory construction. The modern approach to statutory construction, which involves a textual, contextual and purposive analysis, or, more precisely, which looks at the grammatical and ordinary sense of a provision with reference to its entire context, its purpose and the intention of Parliament, was described in the Supreme Court of Canada decision Canada Trustco Mortgage Co. v. Canada.[19] The unanimous court provided an overview of the history of the approaches to statutory interpretation and further added that the Act must be interpreted in such a way as to achieve consistency, predictability and fairness:
+10 It has been long established as a matter of statutory interpretation that "the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament": see 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, at para. 50. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. . . .
+11 As a result of the Duke of Westminster principle (Commissioners of Inland Revenue v. Duke of Westminster, [1936] A.C. 1 (H.L.)) that taxpayers are entitled to arrange their affairs to minimize the amount of tax payable, Canadian tax legislation received a strict interpretation in an era of more literal statutory interpretation than the present. There is no doubt today that all statutes, including the Income Tax Act, must be interpreted in a textual, contextual and purposive way. However, the particularity and detail of many tax provisions have often led to an emphasis on textual interpretation. Where Parliament has specified precisely what conditions must be satisfied to achieve a particular result, it is reasonable to assume that Parliament intended that taxpayers would rely on such provisions to achieve the result they prescribe.
+12 The provisions of the Income Tax Act must be interpreted in order to achieve consistency, predictability and fairness so that taxpayers may manage their affairs intelligently. As stated at para. 45 of Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622:
+[A]bsent a specific provision to the contrary, it is not the courts' role to prevent taxpayers from relying on the sophisticated structure of their transactions, arranged in such a way that the particular provisions of the Act are met, on the basis that it would be inequitable to those taxpayers who have not chosen to structure their transactions that way. [Emphasis added.]
+See also 65302 British Columbia, at para. 51, per Iacobucci J. citing P. W. Hogg and J. E. Magee, Principles of Canadian Income Tax Law (2nd ed. 1997), at pp. 475-76:
+It would introduce intolerable uncertainty into the Income Tax Act if clear language in a detailed provision of the Act were to be qualified by unexpressed exceptions derived from a court's view of the object and purpose of the provision.[20]
+[32] In Canada Trustco, the Supreme Court also stated that where a provision contains words with unequivocal meaning, the ordinary meaning of those words plays a dominant role, and that where, on the other hand, the words may support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role and the focus shifts towards the Act’s harmonious whole:
+10 . . . When the words of a provision are precise and unequivocal, the ordinary meaning of the words play [sic] a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.[21]
+[33] The ordinary meaning of the word “refund” favours the Appellant’s position. For example, Black’s Law Dictionary defines the word “refund” as follows:
+refund, n.
+1. The return of money to a person who overpaid, such as a taxpayer who overestimated tax liability or whose employer withheld too much tax from earnings. 2. The money returned to a person who overpaid. 3. The act of refinancing, esp. by replacing outstanding securities with a new issue of securities.[22]
+[34] The Dictionary of Canadian Law defines the word “refund” as follows:
+REFUND. n.
+The restitution or return of a sum received or taken; reimbursement. Generally involves return of money from one party to another.[23]
+[35] The Dictionary of Canadian Law defines the words “refund of tax” as follows:
+REFUND OF TAX.
+The amount of (a) an overpayment of tax paid under the Income Tax Act or collected pursuant to an agreement entered into under section 7 of the Federal-Provincial Fiscal Arrangements and Federal Post-Secondary Education and Health Contributions Act; (b) a payment to an individual by virtue of an agreement referred to in paragraph (a) that is other than a refund of an overpayment of tax paid or collected; (c) an overpayment of unemployment insurance premiums paid under the Unemployment Insurance Act; or (d) an overpayment of contributions paid under the Canada Pension Plan, and any interest paid on any of those overpayments or payments. Tax Discounting Act, R.S.C. c. T-3, s. 2.[24]
+However, this definition would be distinguishable from that of a dividend refund. In the 2005 Federal Court of Appeal decision Bulk Transfer Systems, above, on which the Respondent relies, Justice Noël, with whom the rest of the panel concurred, confirmed that a “dividend refund” is neither “tax” nor “an amount deemed to have been paid or to have been an overpayment”. [25]
+[36] Canada Tax Words, Phrases & Rules defines the term “refund” as follows:
+REFUND
+. . .
+‘In the Concise Oxford Dictionary of Current English, 8th edition, the word “refund” is defined to mean “pay back (money or expenses)”. On the other hand, that dictionary defines the word “reimburse” to mean “1. repay (a person who has expended money). 2. repay (a persons [sic] expenses).” Accordingly, the only significant difference is what the Federal Court of Appeal stated it to be in Canada Safeway Ltd., supra, that is, in order for there to be a “reimbursement” there must necessarily have been outlays or expenses by the taxpayer who is subsequently reimbursed by another party. Accordingly, there are three parties involved. On the other hand, a “refund” involves only two parties: the taxpayer, who paid something and to whom that amount is now refunded by another party. Thus, a “refund” resembles the principle of restitution of prestations in civil law, which is found in article 1699 of the Civil Code of Quebec. In the instant case, the amounts received by the appellant cannot be anything other than a “refund”, as the Minister returned to it all the charges and interest that it had paid in error.’
+Source – Bois Aisé de Roberval Inc. v. R., [1999] 4 C.T.C. 2161 D.T.C. 380 (Fr.), per McArthur, at 2170, 385.
+. . .
+‘What then is the meaning of the word refund as used in the section? The primary meaning of the word is “to pour back”, but it is in my opinion equivalent to “repayment”. . . .
+Source – Eastern Trust Co. v. Royal Bank of Canada, [1950] C.T.C. 216 . . .[26]
+[37] The context of the dividend refund provisions in section 129 is that of the issuance of refunds. While it is, more specifically, a dividend refund that is involved, it is, nevertheless, a refund. It is expected to work to the advantage of the taxpayer corporation. While the section 129 provisions do impose stringent conditions on how a corporation may qualify for a dividend refund, they are achievable conditions and do not make the dividend refund mechanism punitive. If, however, the term “dividend refund” is found to represent an amount that was never refunded but which still diminished the corporation’s RDTOH balance, then the term “dividend refund” would become equivalent to the word “penalty”, that would make section 129 punitive, which would be contrary to the general nature of refunds.
+[38] A purposive analysis of the provision, in the light of its legislative history, also favours the Appellant’s position. The dividend refund and RDTOH program was first enacted in 1972 as part of the broad taxation reforms that followed the 1966 findings of the Royal Commission on Taxation (Carter Commission) and the recommendations made in response in the 1969 White Paper. Not all of the recommendations stemming from the Carter Commission’s findings were implemented; however, one of main legislative changes that were implemented was a commitment to fully integrate corporate and shareholder taxation, which was a pressing issue.[27] Prior to 1972, the Act offered shareholders a dividend tax credit for a part of the corporation’s taxes, but that credit fell well short of compensating for the tax the corporation had paid on its pre-distribution profits. There was thus substantial double taxation. The enactment of section 129 was part of the changes that were to help eliminate the double taxation and to help effect integration.
+[39] The 1972 tax reform was arrived at by a very winding road. The reports of the House of Commons and Senate Committees that, from the late 1960s to 1972, analyzed and debated the 1966 Carter and 1969 White Paper recommendations reveal that the recommendations faced opposition and that the final results of the reform were significantly different from the various recommendations.
+[40] The Minister’s counsel relies heavily on the White Paper’s proposal to limit to two and a half years the period of time in which dividends would have to be paid in order to qualify a shareholder to receive dividend tax credits.[28] However, the Minister’s counsel appears to be unaware that this proposal, like numerous others in the reform process, remained unimplemented.
+[41] To illustrate, in September 1970, the report of the Standing Senate Committee on Banking, Trade and Commerce entitled Report on the White Paper Proposals for Tax Reform noted the apparent objection to the integration program, in particular because the program proposed a requirement that dividends be paid within two and a half years after the end of the year of receipt of the corporation’s earnings, failing which the shareholders would lose their dividend credit:[29]
+1. . . . Practically every taxpayer heard before your Committee strongly objected to the integration system, and even the limited number who were in favour of such proposals stressed that substantial modifications would be required in the proposed system in order to make it acceptable.
+2. . . . The proposals complicate matters further by staledating tax credits [dividends required to be paid out within 2 1/2 years of the receipt of corporate income] and by drawing a distinction, artificial in the opinion of your Committee, between widely-held corporations and closely-held corporations. Under the White Paper all corporations would be required to maintain complicated creditable tax accounts, detailed not only as to amount but also as to age.
+3. The main thrust of the these proposals would introduce into Canada a system where corporations through their boards of directors would be subject to the pressure of shareholders for increased distribution of dividends so that creditable tax would not be staledated. In the process corporate management and directors would not be in a position to determine objectively the long range needs of the corporation that they administer.[30]
+[42] In its January 28, 1970 proceedings, the Senate Standing Committee on Banking, Trade and Commerce discussed the “staledating” concept and compared it with a similar provision in the former Income War Tax Act, which had enabled the Minister to force the payment of dividends:
+Years ago, in the old Income War Tax Act we had the famous section 13 dealing with the ability of the Minister of National Revenue to cause corporations to distribute dividends if they were being unduly withheld and for no good cause.[31]
+Apparently, that provision was repealed because the Minister was not able to efficiently determine which corporations required their profits for expansion and which corporations were simply “greedy”.[32]
+[43] I.H. Asper, in his book The Benson Iceberg: A critical analysis of the White Paper on tax reform in Canada[33] commented on the unworkability of the “staledating” approach:
+The problem is augmented even more by the new and extremely important “staledating” concept. It provides that if the dividends (in either cash or stock) are not paid out within two and one-half years after the year-end in which the profits have been earned, the shareholders will not get the tax credit. These tax-paid corporate earnings will become staledated. Dividends paid out of staledated surplus will bear full personal income tax with no credits whatsoever. The tax results could be quite spectacular.
+The government believes this time limit is necessary for a number of reasons. Firstly, if there were no time limit, shareholders could accumulate tax credits or, as the White Paper calls it, “creditable tax,” for years and then suddenly exercise their dividend rights and claim their tax credit all in one year. The government believes this would create difficulties for the Revenue Department in projecting its annual income flow. Also, it believes that if the accumulations were allowed, people could sell their shares in companies to shareholders in low tax brackets who, by using the accumulated tax credits, could in effect bail out the accumulated surplus in the company and get sufficient tax refunds from the federal government to almost pay for the shares of the corporation.
+However, the two-and-one-half year rule is arbitrary and unfair, particularly inasmuch as the top personal tax rates will still be at the 70% and 80% level during the first few years of the system; and to force shareholders to take dividends in order to avoid staledating, and to have them taxed at more than 50% is inconsistent with the philosophy of the whole system.
+[44] The “staledating” concept discussed above is very similar to the “staledating” concept that the Respondent argues is embedded in subsection 129(1) and the definition of RDTOH.
+[45] The dividend refund program was first enacted in 1972, when numerous changes to the Act were made. The Minister’s Corporate Tax Guide for the year 1972 (the “Guide”) provides some very helpful guidance with respect to the interpretation of the term “dividend refund”. The Guide clearly states that the term “dividend refund” contained in paragraph 129(3)(d) represents “amounts previously refunded” and that they are “dividend refunds made”:
+This publication outlines the 1972 changes in income tax legislation as they affect corporations. Its purpose is to provide some preliminary guidelines to assist officers of corporations and their advisers in understanding the basic changes in taxation concepts and the new terminology.
+. . .
+DISTRIBUTIONS OF EARNINGS OF PRIVATE CORPORATIONS
+2.073 The new rules for the taxation of the income of private corporations earned after 1971 are designed to achieve two basic objectives, which are
+(1) that income earned by a private corporation is not subject to tax at the corporate level at rates substantially lower than rates imposed on income earned directly by individuals, and
+(2) that, in general, the total tax payable by a private corporation and its individual shareholders after income is distributed is no greater than the tax that would have been payable if the shareholders had personally received the income. This objective pertains to investment income, and to income from active business which is subject to the small business deduction.
+. . .
+Refundable Dividend Tax
+2.079 When a private corporation pays taxable dividends it will be eligible for a refund of certain corporate taxes previously paid. As mentioned in paragraph 2.063 the Part IV tax paid is refundable. The total amount available for refund (refundable dividend tax) however, is not restricted to only Part IV tax. The refundable dividend tax on hand is composed of the aggregate of
+(a) all of the Part IV tax paid in respect of dividends received, and
+(b) a maximum of 25 percentage points of the Part I tax paid in respect of other investment income, both Canadian and foreign
+less
+(c) amounts previously refunded.
+2.080 The amounts in (a) and (b) determined in respect of a particular taxation year are, in effect, placed in a refundable dividend tax account and the account is reduced by any dividend refunds made.[34]
+[Bold and underscore emphasis added.]
+[46] Sections 2.079 and 2.080 of the French version of the Guide are worded in part as follows:
+DISTRIBUTIONS DES GAINS DES CORPORATIONS PRIVÉES
+[…]
+Impôt remboursable au titre de dividendes
+2.079 […] L’impôt en main, remboursable au titre de dividendes, se compose de la totalité
+a) de l’ensemble de l’impôt de la Partie IV payé pour les dividendes reçus, et
+b) d’un maximum de 25 points de pourcentage de l’impôt de la Partie I payé pour les autres revenus de placements, tant canadiens qu’étrangers
+moins :
+c) les montants précédemment remboursés.
+2.080 Les montants indiqués aux alinéas a) et b) déterminés pour une année d’imposition donnée sont, en effet, placés dans un compte d’impôt remboursable au titre de dividendes d’où sont déduits tous les remboursements de dividendes effectués.
+[Bold and underscore emphasis added.]
+[47] The Guide was endorsed by the Department of National Revenue’s Interpretation Bulletin IT‑61, which was published in the Canada Gazette on September 16, 1972:
+5. The new rules relating to the taxation of corporations and the taxation of distributions of corporate earnings to their shareholders are set out at length in the “Corporate Tax Guide” issued by the Department of National Revenue. . . .
+. . . Where there is a need for explanation of the tax treatment of corporations generally . . . reference should be made to the Corporate Tax Guide.
+. . .
+Published under the authority of the Deputy Minister of National Revenue for Taxation.[35]
+[Bold and underscore emphasis added.]
+[48] The RDTOH formula has changed since 1972, but not fundamentally. Some of the rates and figures have been amended; there was likewise a period during which the formula called for the historical aggregates of the component figures. Now, the formula involves figures from two years (the current year’s income and taxes, and the previous year’s RDTOH and dividend refund), but because the formula involves only addition and subtraction and because the balance gets carried over each year, it essentially represents the same amount as an aggregate historical balance would. Therefore, the Minister’s original 1972 instructions on the operation of section 129 are still very helpful.
+[49] According to the Respondent’s position, the term “dividend refund” refers to a notional amount because Parliament intended that amounts credited to a taxpayer’s RDTOH account become staledated three years after the end of the taxation year in which they are earned. The purpose is to avoid a large build-up of potential dividend refunds that can be triggered at any time at the sole discretion of taxpayers. I note, however, that the Respondent’s interpretation, in most cases, does not achieve this result. According to the Respondent, the notional amount of the “dividend refund” is the lesser of the amounts set out in subparagraphs 129(1)(a)(i) and (ii) respectively, namely, the taxable dividend and the RDTOH balance at the end of the year. A corporation could avoid the staledating of its account by deferring the payment of taxable dividends to its shareholders. For example, had the Appellant, in the instant case, paid a taxable dividend of $321,414 for the first time in its 2008 taxation year (which is more than three years beyond the 2004 taxation year when Part IV tax was credited to its RDTOH account), it would be entitled to a dividend refund provided it filed its tax return within three years after its 2008 taxation year.
+[50] Under the Respondent’s interpretation, a corporate taxpayer would suffer a reduction of its RDTOH balance only if it paid a taxable dividend in a year and filed a tax return more than three years after the end of that year, which is a punitive result compared to the treatment given to taxpayers that defer dividend payments.
+V. CONCLUSION
+[51] A textual analysis leads to the following conclusions. Because subsection 129(1) contains an unambiguous condition that a tax return be filed within a prescribed time, where that condition is not met subsection 129(1) does not come into play and the dividend refund cannot be determined. The condition contained in the preamble to subsection 129(1) is no different than the remaining conditions contained in that subsection, such as the condition that the corporation be a private corporation and that it has paid a dividend in the taxation year. If those conditions are not met, subsection 129(1) does not come into play either and the “dividend refund” is likewise indeterminable. The ordinary definitions of the word “refund” imply a repayment.
+[52] In my opinion, the term “refund” unambiguously evokes the receiving of a benefit. The Respondent’s position that an unrefunded “refund” may represent a “deemed” or “notional refund” is not supported by a textual, contextual and purposive analysis of the provision. For these reasons, the Appellant’s RDTOH
+balance is not reduced by the amount of $107,138.
+Signed at Ottawa, Canada, this 22nd day of September 2011.
+“Robert J. Hogan”
+Hogan J.
+CITATION: 2011 TCC 440
+COURT FILE NO.: 2009-2464(IT)G
+STYLE OF CAUSE: TAWA DEVELOPMENTS INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: May 2, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: September 22, 2011
+APPEARANCES:
+Counsel for the Appellant:
+James Yaskowich
+Michael Dolson
+Counsel for the Respondent:
+Margaret McCabe
+COUNSEL OF RECORD:
+For the Appellant:
+Name: James Yaskowich
+Michael Dolson
+Firm: Felesky Flynn
+Edmonton, Alberta
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Queen v. Nassau Walnut Investments Inc., 97 DTC 5051 (FCA).
+[2] Lussier v. The Queen, 2000 DTC 1677 (TCC).
+[3] Appellant’s Brief of Fact and Law, para. 39.
+[4] [1991] 2 C.T.C. 352, 1991 Carswell IV at 533.
+[5] 2007 TCC 193, [2007] 3 C.T.C. 2577, 2007 Carswell IV at 869 (affirmed by 2008 FCA 54).
+[6] 2005 FCA 94, [2005] 2 C.T.C. 87, 2005 Carswell IV at 633 (affirming 2004 TCC 130, 2004 DTC 2401).
+[7] Norman C. Tobias, Taxation of Corporations, Partnerships and Trusts, 3d ed. (Thomson Carswell: Scarborough, Ont., 2006).
+[8] Ibid, at pp. 12-13.
+[9] See footnote 5.
+[10] 2010 TCC 24, 2010 DTC 1048.
+[11] [1993] 2 C.T.C. 2951, headnote.
+[12] Ibid.
+[13] 1991 Carswell IV at 679, [1992] 1 C.T.C. 2004.
+[14] Ibid.
+[15] [1997] 2 F.C. 279, [1998] 1 C.T.C. 33.
+[16] [2000] 2 C.T.C. 2147.
+[17] R.S.C. 1985, c. I-21.
+[18] Ibid.
+[19] 2005 SCC 54, [2005] 25 S.C.R. 601.
+[20] Ibid.
+[21] Ibid.
+[22] Black’s Law Dictionary, 9th ed, at p. 1394.
+[23] Daphne A. Dukelow, The Dictionary of Canadian Law, 3rd ed. (Scarborough, Ontario: Thomson Carswell, 2004), at pp. 1090-1091.
+[24] Ibid., at p. 1091.
+[25] Footnote 6, above, at paras. 13, 27-39.
+[26] Marc Jolin, ed., Canada Tax Words, Phrases & Rules, Vol. 1 (Toronto: Carswell, 2009) at p. R‑18.
+[27] Howard J. Kellough and Peter E. McQuillan, Taxation of Private Corporations and Their Shareholders, 3rd ed. (Toronto: Canadian Tax Foundation, 1999) at 2:3.
+[28] Respondent’s Written Submissions; also trial transcript.
+[29] The staledating concept is described nicely by I.H. Asper in The Benson Iceberg: A critical analysis of the White Paper on tax reform in Canada (Toronto: Clarke, Irwin & Company Limited, 1970) at pp. 30-134.
+[30] Standing Senate Committee on Banking, Trade and Commerce, Report on the White Paper Proposals for Tax Reform, September 1970 (Ottawa: Queen’s Printer for Canada, 1970) at pp. 30, 31.
+[31] Proceedings of the Senate Standing Committee on Banking, Trade and Commerce, January 28, 1970 at S:22.
+[32] Ibid.
+[33] Footnote 29, above, at pp. 30-31.
+[34] National Revenue, Taxation, Corporate Tax Guide (undated; addresses the 1972 changes in income tax legislation).
+[35] Department of National Revenue Taxation, Interpretation Bulletin IT-61, “Income Tax Act – Corporations that were Personal Corporations under the Income Tax Act prior to 1972”, August 16, 1972, published in the Canada Gazette, September 16, 1972, at pp. 2658-2663.

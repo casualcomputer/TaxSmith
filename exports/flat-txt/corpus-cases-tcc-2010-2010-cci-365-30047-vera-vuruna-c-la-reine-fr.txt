@@ -1,0 +1,188 @@
+Title: Vera Vuruna c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30047/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-365-30047-vera-vuruna-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-10-28
+
+# Vera Vuruna c. La Reine
+
+- Citation: 2010 CCI 365
+- Decision date: 2010-10-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7701, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vera Vuruna c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-28
+Référence neutre
+2010 CCI 365
+Numéro de dossier
+2009-3320(GST)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-3320(GST)I
+ENTRE :
+VERA VURUNA,
+STEVO VURUNA,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 juin 2010, à Toronto (Ontario)
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Représentants des appelants :
+Predrag Jurovicki
+Davorin Jurovicki
+Avocat de l’intimée :
+Me Darren Prevost
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise et datée du 1er juin 2007 à l’égard de la période allant du 1er février 2000 au 31 décembre 2005 est rejetée conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 28e jour d’octobre 2010.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 20e jour de décembre 2010.
+Hélène Tremblay, traductrice
+Référence : 2010 CCI 365
+Date : 20101028
+Dossier : 2009-3320(GST)I
+ENTRE :
+VERA VURUNA,
+STEVO VURUNA,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Les appelants contestent la nouvelle cotisation datée du 1er juin 2007 établie par le ministre du Revenu national (le « ministre ») en vertu de la Loi sur la taxe d’accise (la « Loi ») à l’égard de la période allant du 1er février 2000 au 31 décembre 2005.
+[2] L’Agence du revenu du Canada (l’« ARC ») a inscrit les appelants aux fins de la taxe sur les produits et services (la « TPS ») le 16 octobre 2006. La date d’entrée en vigueur de l’inscription est le 1er février 2000. Dans une lettre datée du 20 octobre 2006, l’ARC a demandé aux appelants de produire des déclarations de TPS pour les périodes s’étant terminées entre le 1er février 2000 et le 31 décembre 2005.
+[3] Les appelants ont initialement produit les déclarations de TPS suivantes :
+Pour la période s’étant terminée
+Date de production
+Le 31 décembre 2000
+Le 6 novembre 2006
+Le 31 décembre 2001
+Le 6 novembre 2006
+Le 31 décembre 2002
+Le 12 février 2007
+Le 31 décembre 2003
+Le 6 novembre 2006
+Le 31 décembre 2004
+Le 6 novembre 2006
+Le 31 décembre 2005
+Le 6 novembre 2006
+[4] Les appelants ont produit une déclaration néant pour la période s’étant terminée le 31 décembre 2000.
+[5] Par des avis de cotisation datés du 22 mai 2007, le ministre a établi la taxe nette des appelants en fonction des déclarations produites pour la période s’étant terminée le 31décembre 2001 et pour la période allant du 1er janvier 2003 au 31 décembre 2005. De plus, par un avis de cotisation daté du 23 mai 2007, le ministre a également établi la taxe nette des appelants en fonction de la déclaration produite pour la période s’étant terminée le 31 décembre 2002.
+[6] À la suite d’une vérification visant les appelants, le ministre a conclu que l’inscription aux fins de la TPS n’aurait dû entrer en vigueur que le 1er janvier 2003.
+[7] Par un avis de nouvelle cotisation daté du 1er juin 2007, le ministre a augmenté la taxe nette exigible de l’appelant de 11 726,96 $ (soit 11 775,28 $ moins un rajustement administratif de 48,32 $ pour 2001, réduisant à néant le solde pour cette période) pour la période allant du 1er janvier 2001 au 31 décembre 2005. Dans ce même avis de nouvelle cotisation, le ministre a imposé des pénalités pour versement tardif à l’égard des périodes s’étant terminées les 31 décembre 2003, 2004 et 2005 respectivement, et a imposé des pénalités sur acomptes provisionnels à l’égard des périodes s’étant terminées les 31 décembre 2004 et 2005 respectivement.
+Conclusions préliminaires
+[8] Je tiens dès le départ à souligner que je suis d’avis qu’aucun appel valide ne peut être interjeté pour ce qui est des périodes s’étant terminées le 31 décembre 2000 et le 31 décembre 2001. Il en est ainsi parce qu’aucun avis d’opposition valide n’a été déposé à l’égard de ces deux périodes, ce qui est exigé par l’article 306 de la Loi, étant donné qu’aucune cotisation de la taxe n’a été établie, ce qui est exigé par l’article 301 de la Loi, et aussi étant donné que la période s’étant terminée le 31 décembre 2000 n’est pas comprise dans la nouvelle cotisation visée par l’appel.
+[9] Lorsqu’il a établi le montant de taxe nette exigible des appelants pour la période allant du 1er janvier 2002 au 31 décembre 2005, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a. pendant toutes les périodes en cause, Vera Vuruna et Stevo Vuruna étaient époux;
+b. pendant toutes les périodes en cause, Stevo Vuruna conduisait un camion de transport pour la société Whitelaw Trucking Inc.;
+c. Mme Vuruna a déclaré une partie du revenu net d’entreprise tiré des services de conduite;
+d. pendant toutes les périodes en cause, M. et Mme Vuruna s’étaient associés pour constituer une société de personnes quant aux services de conduite (la « société de personnes »);
+e. Whitelaw Trucking Inc. était située à Woodstock (Ontario);
+f. la société de personnes n’exploitait pas un camion de transport dont elle était propriétaire;
+g. la société de personnes n’assumait pas la responsabilité pour la prestation de services de transport de marchandises;
+h. Whitelaw Trucking Inc. assumait la responsabilité pour la prestation de services de transport de marchandises et était donc le transporteur;
+i. la société de personnes fournissait des services de conduite à Whitelaw Trucking Inc.;
+j. la société de personnes ne fournissait pas de services de transport de marchandises;
+k. la société de personnes a été inscrite aux fins de la TPS le 1er janvier 2003;
+l. la société de personnes est un déclarant annuel;
+m. la société de personnes était un petit fournisseur au cours de la période s’étant terminée le 31 décembre 2002;
+n. la société de personnes n’a déclaré aucune TPS pour la période pendant laquelle elle a été un petit fournisseur;
+o. la société de personnes a gagné 32 100 $ en revenu brut pendant la période s’étant terminée le 31 décembre 2002;
+p. la société de personnes était tenue de s’inscrire aux fins de la TPS en date de 2003;
+q. les activités commerciales de la société de personnes comportaient la réalisation de fournitures taxables pendant la période allant du 1er janvier 2003 au 31 décembre 2005 seulement;
+r. le taux de TPS applicable aux fournitures taxables était de 7 %;
+s. la société de personnes a réalisé des fournitures taxables s’élevant à 40 078 $, à 61 854 $ et à 64 201 $ pendant les périodes s’étant terminées les 31 décembre 2003, 2004 et 2005 respectivement;
+t. la société de personnes n’a ni perçu ni déclaré de TPS relativement à ces fournitures taxables réalisées pendant les périodes s’étant terminées les 31 décembre 2003, 2004 et 2005 respectivement;
+u. la société de personnes était tenue de percevoir et de verser la TPS s’élevant à 2 805,46 $, à 4 329,78 $ et à 4 494,07 $ pour les périodes s’étant terminées les 31 décembre 2003, 2004 et 2005 respectivement;
+v. la société de personnes a déclaré avoir payé de la TPS, relativement à des dépenses faites dans le cadre de ses activités commerciales, s’élevant à 97,65 $ pendant la période s’étant terminée le 31 décembre 2002;
+w. la société de personne n’a pas droit au crédit de taxe sur les intrants pour les périodes au cours desquelles elle était un petit fournisseur;
+x. la société de personnes était tenue de verser la taxe nette due au plus tard le 30 avril de chaque année après la fin de la période pour les périodes de déclaration s’étant terminées entre le 1er janvier 2003 et le 31 décembre 2005;
+y. la société de personnes était tenue de payer des acomptes provisionnels dans un délai d’un mois suivant la fin de chaque trimestre d’exercice pour les périodes de déclaration s’étant terminées entre le 1er janvier 2004 et le 31 décembre 2005.
+[10] Je tiens à souligner que les appelants n’ont pas nié les hypothèses de fait énoncées aux alinéas 16a) à 16h) de la réponse à l’avis d’appel.
+[11] M. Don Eltom, président de Whitelaw Trucking Inc., Mme Juanita Mary Florence Ferguson, signataire autorisé pour Whitelaw Trucking Inc., ainsi que M. Nicolas Prsa, un vérificateur en TPS et en impôt sur le revenu auprès de l’ARC, étaient les seuls témoins.
+[12] Il ressort clairement des éléments de preuve fournis par les appelants (c.‑à‑d. le témoignage de leurs témoins et la pièce A-1) que :
+(i) pendant toutes les périodes en cause, Stevo Vuruna conduisait un camion de transport à titre de sous‑traitant de Whitelaw Trucking Inc. et livrait des pièces d’automobiles de l’Ontario vers le Texas, aux États-Unis;
+(ii) pendant toutes les périodes en cause, Whitelaw Trucking Inc. était propriétaire du camion de transport que conduisait Stevo Vuruna.
+Points en litige
+[13] Les questions à trancher sont de savoir si le ministre a à juste titre :
+a. établi la cotisation de TPS au montant de 11 629,31 $ pour la période allant du 1er janvier 2003 au 31 décembre 2005;
+b. refusé d’accorder le crédit de taxe sur les intrants de 97,65 $ demandé pour la période s’étant terminée le 31 décembre 2002;
+c. imposé des pénalités pour versement tardif s’élevant à 1 407,31 $ pour la période allant du 1er janvier 2003 au 31 décembre 2005;
+d. imposé des pénalités sur acomptes provisionnels s’élevant à 229,24 $ pour la période allant du 1er janvier 2004 au 31 décembre 2005.
+Observations des appelants
+[14] Essentiellement, M. Predrag Jurovicki soutient que les appelants fournissaient des services de transport de marchandises à l’étranger, que ses fournitures étaient donc détaxées suivant la partie VII de l’annexe VI de la Loi et que, par conséquent, il n’était tenu ni de percevoir ni de verser la TPS s’élevant à 11 629,31 $ pour la période allant du 1er janvier 2003 au 31 décembre 2005. Étonnamment, M. Davorin Jurovicki (l’autre représentant des appelants) soutient que, pendant toutes les périodes en cause, Stevo Vuruna était un employé de Whitelaw Trucking Inc. et que, pour cette raison, il n’était tenu ni de percevoir ni de verser la TPS s’élevant à 11 629,31 $ pour la période allant du 1er janvier 2003 au 31 décembre 2005.
+Analyse et conclusion
+[15] Étant donné que les appelants n’ont nié aucune des hypothèses de fait énoncées aux alinéas 16a) à h) de la réponse à l’avis d’appel et qu’il est ressorti clairement de la preuve présentée par ces derniers que pendant toutes les périodes en cause, M. Vuruna conduisait un camion de transport à titre de sous‑traitant pour Whitelaw Trucking Inc., les appelants doivent comprendre que je ne peux accepter l’observation formulée par leur représentant voulant que, pendant toutes les périodes en cause, M. Vuruna était un employé de Whitelaw Trucking Inc. et n’était donc tenu ni de percevoir ni de verser un montant de TPS s’élevant à 11 629,31 $ pour la période allant du 1er janvier 2003 au 31 décembre 2005.
+[16] Je tiens aussi à souligner que les appelants soutiennent que les fournitures étaient des fournitures détaxées au sens de l’article 6 de la partie VII de l’annexe VI de la Loi. Par conséquent, la fourniture des appelants devait être conforme à l’article 6, qui est rédigé en ces termes :
+La fourniture d’un service de transport de marchandises relativement au transport d’un bien meuble corporel d’un endroit au Canada à un point à l’étranger, si la valeur de la contrepartie de la fourniture est d’au moins 5 $.
+[17] Le terme « service de transport de marchandises » est défini au paragraphe 1(1) de la partie VII de l’annexe VI en ces termes :
+« service de transport de marchandises » Service de transport d’un bien meuble corporel, y compris :
+a) un service de livraison du courrier;
+b) tout autre bien ou service fourni à l’acquéreur du service de transport en question par la personne qui fournit celui-ci, dans le cas où le bien ou le service fait partie du service de transport en question, ou y est accessoire, indépendamment du fait que des frais distincts soient exigés pour ce bien ou service.
+N’est pas un service de transport de marchandises le service, offert par le fournisseur d’un service de transport de passagers, qui consiste à transporter les bagages d’un particulier dans le cadre d’un tel service.
+[18] « Transporteur » est défini ainsi au paragraphe 123(1) de la Loi :
+« transporteur » Personne qui fournit un service de transport de marchandises au sens du paragraphe (1) de la partie VII de l’annexe VI.
+[19] Il est accepté que, bien qu’ils ne soient pas déterminants, les avis administratifs ont une certaine importance et peuvent être pris en compte par la Cour. Il est également accepté que les notes techniques, bien qu’elles ne soient pas non plus déterminantes, peuvent aussi être prises en compte.
+[20] Dans la publication de l’ARC, Nouvelles sur l’accise et la TPS/TVH, no 61, été 2006, il est indiqué ce qui suit :
+Camionnage − services de chauffeurs
+Dans l’industrie du transport routier, les services de camionnage sont habituellement fournis par des camionneurs entrant dans une des trois catégories suivantes : les propriétaires-exploitants, les chauffeurs indépendants ou les employés d’un transporteur. Le reste de l’article explique l’application de la TPS/TVH à chacune de ces catégories.
+Propriétaires-exploitants
+Lorsqu’un propriétaire-exploitant conclut des ententes avec un transporteur afin de fournir des services de transport de marchandises à l’aide de ses propres camions, ces services de transport de marchandises seront détaxés (c.-à-d. assujettis à la taxe au taux de 0 %) si le propriétaire-exploitant satisfait à la définition de transporteur. Un transporteur s’entend d’une personne qui assure la responsabilité de fournir un service de transport de marchandises.
+Lorsqu’un propriétaire-exploitant n’assure pas la responsabilité de fournir un service de transport de marchandises, il n’est pas un transporteur aux fins de l’application de la TPS/TVH. Le propriétaire-exploitant offre plutôt un service de conduite. Une telle fourniture est assujettie à la taxe au taux de 6 % (TPS) ou de 14 % (TVH) lorsque les services sont fournis par un inscrit aux fins de la TPS/TVH. Les services de chauffeurs consistent en des intrants d’entreprise utilisés par le transporteur.
+Chauffeurs indépendants
+Lorsqu’un chauffeur indépendant n’utilise pas son propre camion et qu’il n’assure pas la responsabilité de fournir un service de transport de marchandises, il ne fournit pas un service de transport de marchandises aux fins de la TPS/TVH; il offre un service de conduite. La fourniture d’un service de conduite est taxable au taux de 6 % ou de 14 % lorsqu’il est fourni par un inscrit aux fins de la TPS/TVH. Les services de chauffeurs consistent en des intrants d’entreprise utilisés par le transporteur.
+Employés d’un transporteur
+Lorsqu’un transporteur recourt aux services de ses employés pour conduire ses camions, le salaire versé à ces employés n’est pas assujetti à la TPS/TVH.
+[21] Dans les notes explicatives du projet de loi C‑62 (la loi portant sur la TPS), on énonce ce qui suit au sujet de la définition de « transporteur » :
+Ce terme désigne une personne qui fournit un service de transport de marchandises. Aucune limite n’est fixée quant au nombre de transporteurs dont les services peuvent être retenus pour effectuer un transport donné de marchandises. De même, une personne n’est nullement tenue de fournir effectivement un service de transport de marchandises pour être considérée comme un transporteur : pour être un transporteur, une personne doit seulement assumer une responsabilité au titre de la fourniture d’un service de transport de marchandises.
+[22] Je suis aussi d’avis qu’un camionneur qui n’utilise pas son propre camion et qui n’assume pas la responsabilité au titre de la fourniture d’un service de transport de marchandises ne peut pas être considéré comme fournissant un service de transport de marchandises.
+[23] En l’espèce, M. Vuruna n’utilisait pas son propre camion et n’assumait pas la responsabilité au titre de la fourniture d’un service de transport de marchandises. Par conséquent, il ne fournissait pas un service de transport de marchandises à Whitelaw Trucking Inc. Il fournissait simplement des services de conduite à Whitelaw Trucking Inc., et ses services constituaient des intrants de cette entreprise.
+[24] Étant donné que M. Vuruna fournissait des services de conduite et non des services de transport de marchandises, ses services ne constituaient pas une fourniture détaxée, au sens de la partie VII de l’annexe VI de la Loi. Il était donc tenu de percevoir et de verser un montant de TPS s’élevant à 11 629,31 $ pour la période allant du 1er janvier 2003 au 31 décembre 2005. La cotisation établie à l’égard de M. Vuruna s’élevant à 11 629,31 $ pour la période en cause a donc été établie à bon droit, en application du paragraphe 165(1) de la Loi. Vu que l’appelant n’a pas versé la TPS pour les périodes de déclaration entre le 1er janvier 2003 et le 31 décembre 2005 selon les modalités et dans le délai prévus au paragraphe 228(2) de la Loi, le ministre a eu raison d’imposer des pénalités pour versement tardif en application du paragraphe 280(1) de la Loi, tel qu’il était libellé pendant la période en cause. Étant donné que l’appelant n’a pas payé tous les acomptes dus pour les périodes de déclaration s’étant terminées le 31 décembre 2004 et le 31 décembre 2005 selon les modalités et dans le délai prévus au paragraphe 237(1) de la Loi, le ministre a aussi eu raison d’imposer des pénalités sur acomptes provisionnels en application du paragraphe 280(2) de la Loi, tel qu’il était libellé pendant la période en cause.
+[25] Conformément à ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 28e jour d’octobre 2010.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 20e jour de décembre 2010.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2010 CCI 365
+No DU DOSSIER DE LA COUR : 2009-3320(GST)I
+INTITULÉ : VERA VURUNA, STEVO VURUNA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 17 juin 2010
+MOTIFS DU JUGEMENT PAR : L’honorable juge Paul Bédard
+DATE DU JUGEMENT : Le 28 octobre 2010
+COMPARUTIONS :
+Représentants des appelants :
+Predrag Jurovicki
+Davorin Jurovicki
+Avocat de l’intimée :
+Me Darren Prevost
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Canada)

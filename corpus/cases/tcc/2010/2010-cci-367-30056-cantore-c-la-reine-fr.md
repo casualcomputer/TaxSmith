@@ -1,0 +1,264 @@
+---
+title: "Cantore c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30056/index.do"
+last_modified: "2010-07-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 367"
+citation2: ""
+neutral_citation: "2010 CCI 367"
+decision_date: "2010-07-14"
+language: "fr"
+item_id: "30056"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7692
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:48:16.616000+00:00"
+cases_cited_count: 3
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9513c26acef2e245c559d454c6d7ef8ef0e945b4aa1b39c88c2d38d0862023fe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cantore c. La Reine
+
+- Citation: 2010 CCI 367
+- Decision date: 2010-07-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7692, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cantore c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-07-14
+Référence neutre
+2010 CCI 367
+Numéro de dossier
+2007-3451(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3451(IT)G
+ENTRE :
+VICTOR CANTORE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 26 novembre 2009 et le 19 mars 2010, à Montréal (Québec)
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l'appelant :
+Me Philippe-Alexandre Otis
+Avocate de l'intimée :
+Me Christina Ham
+JUGEMENT
+L'appel interjeté à l'égard des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2001, 2002 et 2003 est accueilli, les dépens sont accordés à l'appelant, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 14e jour de juillet 2010.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 3e jour de novembre 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 367
+Date : 20100714
+Dossier : 2007-3451(IT)G
+ENTRE :
+VICTOR CANTORE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+Introduction
+[1] Par des avis de nouvelle cotisation datés du 10 mai 2007, le ministre du Revenu national (le « ministre ») a augmenté la dette fiscale de l'appelant pour les années d'imposition 2001, 2002 et 2003 en y ajoutant des revenus non déclarés. Le ministre a utilisé la méthode des dépôts pour ajouter aux revenus de l'appelant des sommes de 98 261 $ pour 2001, de 83 107 $ pour 2002 et de 55 411 $ pour 2003 au titre de revenus non déclarés.
+[2] En l'espèce, les questions à trancher sont les suivantes :
+a) L'appelant est‑il redevable de l'impôt sur le revenu additionnel déterminé par le ministre relativement aux revenus non déclarés de 98 261 $ pour 2001, de 83 107 $ pour 2002 et de 55 411 $ pour 2003?
+b) L'appelant est‑il passible, en application du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi »), de pénalités pour les années d'imposition en cause?
+Contexte factuel
+[3] De 1992 à 2000, l'appelant était conseiller en placement inscrit chez RBC Dominion Valeurs mobilières (« RBC DVM »). Au début de l'année 2000, il a quitté RBC DVM pour se joindre à une entreprise spécialisée dans la technologie. Après l'éclatement de la bulle Internet, l'appelant a entrepris de lancer sa propre société de capital de risque, Cantore Capital Inc. (« Cantore Capital »).
+[4] Cantore Capital devait lever des capitaux pour de petites et moyennes entreprises auprès d'investisseurs avertis. En général, les émetteurs versaient à Cantore Capital une commission représentant 10 % des capitaux qu'elle réunissait pour eux.
+[5] L'appelant a déclaré avoir reçu des nouvelles déconcertantes au sujet de sa santé au mois de novembre 2001; il a fait l'objet d'un diagnostic de mélanome malin, soit l'un des quelques types de cancer de la peau qui peuvent être mortels. Son médecin lui a dit que le pronostic quant à un rétablissement complet n'était pas bon et que le risque de mortalité au cours des sept années à venir était de 75 %. Vers la même époque, l'appelant s'est séparé de son épouse, ce qui a mené à un divorce en 2003. L'appelant a expliqué que ces deux événements l'avaient fortement déprimé. Il a peu à peu mis fin à ses activités de capital de risque pour se concentrer à lutter contre le cancer et à maintenir d'étroites relations avec ses enfants. Il affirme que, par conséquent, Cantore Capital et lui‑même ont gagné peu ou pas de revenu en 2002 et en 2003. Selon l'appelant, l'exercice 2001 correspondait à la première année d'exploitation de Cantore Capital. Le bénéfice réalisé cette année‑là était peu élevé.
+[6] La preuve montre que l'appelant a produit une déclaration de revenus personnelle pour son année d'imposition 2001. Dans cette déclaration, il a déclaré un revenu net de location tiré de deux biens locatifs lui appartenant et un salaire brut de 50 000 $ que Cantore Capital lui avait versé. L'appelant n'a pas produit de déclarations de revenus personnelles pour les années d'imposition 2002 ou 2003 à cause de son état de santé et de ses problèmes conjugaux. Ce manquement a amené l'Agence du revenu du Canada (l'« ARC ») à mener une vérification à l'endroit de l'appelant pour les années d'imposition 2001, 2002 et 2003.
+[7] Au stade initial de l'établissement des nouvelles cotisations, la vérificatrice de l'ARC a utilisé la méthode des dépôts pour conclure que l'appelant n'avait pas déclaré les revenus suivants :
+2001
+2002
+2003
+Revenu net déclaré
+52 488 $
+—
+—
+Revenu non déclaré
+482 533 $
+250 299 $
+117 616 $
+Revenu net
+535 021 $
+250 299 $
+117 616 $
+[8] La vérificatrice a examiné un seul des comptes bancaires personnels de l'appelant et elle a supposé que chaque dépôt représentait une source de revenu non déclaré.
+[9] La preuve révèle que la méthode des dépôts employée au stade initial de l'établissement des nouvelles cotisations a donné une représentation peu fiable des revenus de l'appelant. L'appelant a déposé un avis d'opposition aux nouvelles cotisations. À la suite de déclarations qui ont été faites pour le compte de l'appelant, les revenus non déclarés de l'appelant ont été réduits de la façon suivante :
+2001
+2002
+2003
+Revenu net déclaré
+52 488 $
+—
+—
+Revenu non déclaré
+98 261 $
+83 107 $
+55 411 $
+Revenu net
+150 749 $
+83 107 $
+55 411 $
+[10] Les revenus non déclarés de l'appelant ont donc été rabaissés d'environ 80 % (384 272 $) pour son année d'imposition 2001, d'environ 67 % (167 192 $) pour son année d'imposition 2002 et, finalement, d'environ 52 % (62 205 $) pour son année d'imposition 2003.
+Analyse
+[11] Selon un principe bien établi en droit fiscal canadien, le ministre peut utiliser des méthodes de rechange pour déterminer le revenu d'un contribuable lorsque celui‑ci ne produit pas de déclarations de revenus ou ne tient pas des livres et des registres comptables fiables qui peuvent être examinés lors d'une vérification effectuée par l'ARC. Les deux méthodes les plus fréquemment utilisées sont communément appelées la méthode de l'avoir net et la méthode des dépôts. Le vérificateur qui utilise la méthode de l'avoir net calcule d'abord les actifs nets du contribuable (l'actif moins le passif) au début de la période pertinente. Il effectue le même calcul pour la fin de la période pertinente. Il est présumé que l'augmentation de l'avoir net, plus le coût de la vie estimatif pour le contribuable et les personnes à sa charge, moins le revenu déclaré du contribuable et de son conjoint, le cas échéant, représentent les revenus non déclarés du contribuable.
+[12] La méthode des dépôts est fondée sur une analyse de tous les dépôts effectués dans l'ensemble des comptes bancaires du contribuable. Le ministre suppose que les dépôts constituent des revenus imposables. Le revenu net est calculé en soustrayant les fonds virés entre les comptes bancaires du contribuable ainsi que les sommes empruntées par le contribuable. La Cour a reconnu que la méthode des dépôts est une méthode de vérification de rechange appropriée[1].
+[13] Dans l'article « Anatomy of a Net Worth Assessment », David E. Graham souligne que la méthode de l'avoir net donne souvent une représentation plus fiable du revenu du contribuable que la méthode des dépôts :
+[TRADUCTION]
+En général, l'analyse des dépôts ne constitue pas une méthode de calcul du revenu aussi précise que l'évaluation de l'avoir net. Il se peut que l'analyse des dépôts n'accorde pas assez d'importance à la provenance des sommes déposées dans les comptes bancaires (ce qui entraînerait une surimposition). De même, il se peut que l'analyse des dépôts ne tienne pas compte des sommes qui n'ont jamais été déposées dans les comptes bancaires (ce qui donnerait lieu à une sous‑imposition). Les contribuables qui font l'objet d'une analyse des dépôts devraient s'assurer que les fonds virés entre leurs comptes bancaires ne soient pas traités comme des dépôts[2].
+[Non souligné dans l'original.]
+[14] En l'espèce, la vérificatrice de l'ARC a omis d'examiner tous les comptes bancaires de l'appelant, et ce, même si les documents bancaires relatifs au compte qu'elle a examiné indiquaient que l'appelant virait souvent des fonds entre ses divers comptes bancaires. Cela a entraîné une grave erreur : la vérificatrice a traité comme des revenus bruts les fonds virés dans le compte qu'elle avait examiné à partir d'autres comptes de l'appelant ou qui provenaient d'emprunts bancaires effectués par l'appelant. À l'audience, j'ai signalé qu'une estimation plus fiable du revenu du contribuable aurait été obtenue si la vérificatrice avait utilisé la méthode de l'avoir net ou si elle avait tenu compte de tous les dépôts effectués dans tous les comptes bancaires de l'appelant et n'avait pas tenu compte des virements provenant d'autres comptes ou des emprunts bancaires. La méthode des dépôts aurait ainsi seulement pris en compte les opérations effectuées entre l'appelant et d'autres parties. La vérificatrice n'a pas témoigné à l'audience et il m'est impossible de savoir si le raccourci qu'elle a employé était justifié.
+[15] Néanmoins, la méthode que l'ARC a utilisée ne modifie pas le fardeau juridique qui incombe à l'appelant en l'espèce. Dans les appels de nature fiscale, c'est le contribuable qui a le fardeau de réfuter la cotisation[3], la preuve à présenter étant celle de la prépondérance des probabilités[4]. Le contribuable s'acquitte du fardeau initial de « démolir » les hypothèses précises du ministre s'il présente au moins une preuve prima facie : Kamin c. Canada, no 84‑1149(IT), 2 décembre 1992, [1992] A.C.I. no 714 (QL) (C.C.I.), Goodwin c. M.R.N., 82 D.T.C. 1679 (C.R.I.). Le principe juridique est bien établi : une preuve non contestée et non contredite permet de « démolir » les hypothèses du ministre. Lorsque le contribuable a « démoli » les hypothèses du ministre, la charge passe au ministre, qui doit réfuter la preuve prima facie établie par le contribuable et prouver les hypothèses. Lorsque la charge est passée au ministre et que celui‑ci ne présente pas le moindre élément de preuve, le contribuable aura gain de cause[5].
+[16] Le principe fondamental qui se dégage de l'arrêt Hickman est que, pour réfuter une hypothèse émise par le ministre, il suffit que le contribuable présente une preuve prima facie. Le contribuable réussit à le faire lorsqu'il présente une preuve crédible et non contredite sur le point en litige particulier. Si le contribuable le fait, le ministre doit présenter une contre‑preuve, à défaut de quoi il perdra[6].
+[17] Dans l'article intitulé « Onus of Proof and Ministerial Assumptions: The Role and Evolution of Burden of Proof in Income Tax Appeals », les auteurs donnent ce qui constitue, à mon avis, un résumé exact des règles applicables au fardeau juridique qui incombe aux contribuables dans les appels de nature fiscale :
+[TRADUCTION]
+6) Si la Couronne prétend que, pour établir la cotisation, le ministre s'est fondé sur des hypothèses de fait précises, le contribuable doit :
+a) soit prouver, selon la prépondérance des probabilités, que le ministre ne s'est pas fondé sur ces hypothèses de fait;
+b) soit démontrer que les hypothèses de fait énoncées par le ministre ne sont pas pertinentes;
+c) soit démolir les hypothèses de fait du ministre.
+7) La « démolition » des hypothèses de fait énoncées par le ministre exige tout simplement la présentation d'une preuve prima facie démontrant que ces hypothèses ne sont pas exactes.
+[...]
+9) Lorsque le contribuable a présenté une preuve prima facie permettant de réfuter les hypothèses du ministre, la charge de la preuve et la norme de preuve redeviennent celles qui s'appliquent normalement en matière civile[7].
+[18] En l'espèce, l'appelant doit soit présenter une preuve prima facie qui démolit les hypothèses sur lesquelles le ministre s'est fondé pour établir les nouvelles cotisations, ce qui ferait passer la charge de la preuve au ministre, soit démontrer, selon la prépondérance des probabilités, que les dépôts traités comme un revenu brut par le ministre ne provenaient pas d'une source de revenus, y compris de gains en capital. Toutefois, lorsque la vérificatrice prend un raccourci grossier pour des raisons qui ne sont toujours pas expliquées devant la Cour, cela influera sur le type de preuve que l'appelant devra soumettre pour s'acquitter du fardeau juridique. En l'espèce, l'intimée n'a pas examiné tous les comptes bancaires de l'appelant pour veiller à éliminer les virements faits entre ses comptes. Il suffit donc que l'appelant démontre que les dépôts effectués dans le compte bancaire particulier que l'ARC a analysé ont été effectués au moyen de virements de fonds provenant d'autres comptes de l'appelant. La raison est liée à la nature des hypothèses émises par le ministre. En effet, dans ce cas‑ci, le ministre a supposé que tous les dépôts effectués dans l'unique compte bancaire du contribuable qu'il a décidé d'analyser provenaient de sources de revenus externes. L'appelant peut démontrer le contraire en prouvant qu'un dépôt donné provenait de fonds détenus dans un autre compte bancaire. En règle générale, un virement de fonds entre les comptes bancaires d'un contribuable ne peut pas constituer un revenu. En l'espèce, la preuve d'un pareil virement serait suffisante pour constituer une preuve prima facie qui démolirait l'hypothèse du ministre selon laquelle un dépôt particulier constituait un revenu brut. La charge passerait alors au ministre, qui serait tenu de présenter une preuve pour établir que les fonds virés de l'autre compte constituaient un revenu brut non déclaré. Si le ministre avait analysé tous les comptes de l'appelant et s'il avait éliminé tous les dépôts pouvant être rattachés à des virements de fonds entre les comptes bancaires de l'appelant, ce dernier aurait alors dû démontrer que les dépôts ne provenaient pas de sources de revenus.
+[19] L'appelant a témoigné qu'il était l'unique employé de Cantore Capital. La société réunissait des capitaux pour ses clients en ciblant des personnes bien nanties qui étaient réputées être des investisseurs avertis du fait qu'elles avaient les moyens d'investir au moins 150 000 $ dans des placements privés. Cantore Capital était une petite entreprise qui n'était pas connue dans le monde du capital de risque en 2001. Elle devait prouver à ses clients éventuels qu'elle était en mesure de réunir des capitaux. Elle le faisait en acceptant d'avancer des fonds qui devaient être remboursés à l'aide du produit de l'offre de placement privé qu'elle soumettait pour le compte de l'émetteur. L'appelant a expliqué qu'il devait avancer des fonds à Cantore Capital à même ses épargnes personnelles, détenues sous la forme de titres négociables, afin de fournir à la société un fonds de roulement suffisant pour financer ses avances initiales. Au moment de la clôture du placement privé, Cantore Capital recouvrait les sommes avancées et remboursait les avances consenties par l'appelant en sa qualité d'actionnaire.
+[20] L'appelant a produit des relevés préparés par son conseiller en placement montrant qu'au début de l'année 2001, l'appelant possédait des titres négociables d'une valeur de 361 152 $. Ces relevés montrent également que la valeur des titres négociables que l'appelant détenait dans ses comptes n'était plus que d'environ 75 256 $ à la fin de l'année 2003. Cet élément de preuve corrobore le témoignage de l'appelant selon lequel il avait été obligé d'utiliser ses épargnes personnelles pour couvrir les besoins en fonds de roulement de Cantore Capital au cours de sa phase de démarrage et pour financer ses dépenses personnelles au cours des exercices 2001 et 2002, après avoir eu des problèmes de santé et des problèmes conjugaux.
+[21] L'appelant a produit d'autres éléments de preuve afin de corroborer son témoignage à ce sujet. Il a produit des états financiers non vérifiés de Cantore Capital et des documents renfermant une analyse des opérations du compte des avances de l'actionnaire au cours de la période en cause. Par exemple, ces documents montrent que des fonds ont été crédités au compte des avances de l'actionnaire de Cantore Capital à trois reprises au cours de l'exercice 2001 et que ces sommes totalisaient 128 553,40 $. Des sommes s'élevant à 72 129,98 $ ont été retirées de ce compte, de sorte qu'il restait un solde net dû à l'appelant de 56 423,42 $ à la fin de l'année d'imposition 2001.
+[22] L'appelant a produit une preuve documentaire corroborante semblable au sujet de son année d'imposition 2002. Cette preuve montre que le compte des avances de l'actionnaire de Cantore Capital a été ramené de 56 423,42 $ à la fin de l'année 2001 à 6 953,63 $ à la fin de l'année 2002, soit une réduction totale de 49 469,79 $ en 2002. En d'autres termes, Cantore Capital a remboursé 49 469,79 $ à l'appelant, comme en témoigne la réduction du solde du compte des avances de l'actionnaire.
+[23] L'avocate de l'intimée soutient qu'il faut donner peu de poids aux états financiers et aux déclarations de revenus de Cantore Capital parce que ces documents ont été produits tardivement et que l'ARC ne les a pas vérifiés. Il est vrai que les deux types de documents ont été préparés bien après la date limite de production des déclarations de revenus de Cantore Capital, mais la preuve montre que l'ARC a eu accès à ces documents dès mars 2009. J'ai suspendu l'audition de la présente espèce le 26 novembre 2009 afin de permettre à l'ARC d'examiner les états financiers et les déclarations de revenus et de voir si les parties pouvaient arriver à une entente au sujet de l'effet des opérations dans le compte des avances de l'actionnaire de Cantore Capital au cours de la période pertinente et au sujet de la valeur probante des états financiers, lesquels indiquent une baisse des titres négociables détenus par l'appelant. L'audience a repris le 19 mars 2010. En tout, l'ARC a disposé de 12 mois pour vérifier les états produits par l'appelant.
+[24] L'intimée n'a produit aucun élément de preuve pour mettre en doute la valeur probante des documents en question ou pour contester le témoignage de l'appelant. Par conséquent, bien que la preuve ne soit pas parfaite à cet égard, j'ai conclu que l'appelant a établi, selon la prépondérance des probabilités, que des dépôts de 69 000 $ effectués dans son compte bancaire personnel au cours de son année d'imposition 2001 étaient attribuables au remboursement des prêts de l'actionnaire par Cantore Capital. De même, j'ai conclu que Cantore Capital a versé 48 000 $ à l'appelant en 2002 à titre de remboursement des avances de l'actionnaire. Par conséquent, les revenus non déclarés déterminés par l'ARC à cet égard ont été surestimés de 69 000 $ pour 2001 et de 48 000 $ pour 2002.
+[25] L'appelant a présenté une preuve testimoniale crédible pour établir qu'il avait reçu un chèque de 6 000 $ de Stéphane Chouinard en remboursement d'un prêt. L'appelant avait déposé ce chèque dans son compte bancaire personnel en 2001. L'intimée n'a pas réfuté cette preuve. Par conséquent, le revenu non déclaré de l'appelant pour l'année d'imposition 2001 a été surestimé de 6 000 $ à cet égard.
+[26] Nadia Brenhouse a témoigné avoir prêté à l'appelant, un ami personnel et un ami de famille, une somme de 15 000 $ en 2002. L'appelant a confirmé que cette somme avait été déposée dans son compte bancaire personnel en 2002. Selon moi, Mme Brenhouse était un témoin fort crédible. J'ai donc conclu que l'ARC avait surestimé le revenu de l'appelant pour 2002 de 15 000 $ à cet égard.
+[27] La preuve montre également que l'appelant a reçu un prêt de 6 000 $ de Carlo Borrelli en 2002 et que l'ARC a erronément traité ce prêt comme une source de revenu non déclaré.
+[28] Enfin, l'appelant a présenté des éléments de preuve pour démontrer que les nouvelles cotisations établies par l'ARC ne tenaient pas compte du fait que les sommes suivantes, déposées dans son compte bancaire au cours de la période en cause, étaient des virements non imposables provenant de sa carte de crédit et de ses autres comptes bancaires :
+Année d'imposition 2001
+Virement d'un compte en dollars américains
+14 775,36 $
+Virement bancaire par téléphone
+7 813,00 $
+TOTAL
+22 588,36 $
+Année d'imposition 2002
+Virement d'un compte de courtage
+5 240,00 $
+Année d'imposition 2003
+Retrait d'une avance de fonds sur carte de crédit
+5 000,00 $
+Avance de fonds sur une carte de crédit Citibank
+7 000,00 $
+Virement d'un compte en dollars américains
+6 914,00 $
+Virement bancaire par téléphone
+9 571,10 $
+Virement d'un compte bancaire
+1 000,00 $
+Virement bancaire par téléphone
+1 326,40 $
+Virement bancaire par téléphone
+6 604,00 $
+TOTAL
+37 415,50 $
+[29] De plus, au début de l'audience, l'intimée a admis que les revenus de l'appelant avaient été surestimés de 1 508,80 $ pour 2002 et de 2 800,94 $ pour 2003 relativement à un certain nombre de petits dépôts.
+[30] L'appelant n'a pas réussi à établir, selon la prépondérance des probabilités, qu'il avait droit à des rajustements autres que ceux qui sont décrits ci‑dessus relativement à ses années d'imposition 2001, 2002 et 2003.
+[31] Après avoir tenu compte de tous les rajustements susmentionnés, le revenu non déclaré de l'appelant est le suivant :
+2001
+2002
+2003
+Revenu additionnel déterminé dans la nouvelle cotisation
+98 261,00 $
+83 107,00 $
+55 411,00 $
+Remboursement d'avances de l'actionnaire
+(69 000,00 $)
+(48 000,00 $)
+Remboursement d'un prêt — S. Chouinard
+(6 000,00 $)
+Prêt — N. Brenhouse
+(15 000,00 $)
+Prêt — C. Borrelli
+(6 000,00 $)
+Virements bancaires et avances sur carte de crédit
+(22 588,36 $)
+(5 240,00 $)
+(37 415,50 $)
+Rajustements admis par l'ARC
+__________
+(1 508,80 $)
+(2 800,94 $)
+Revenu non déclaré pour l'année
+672,64 $
+7 358,20 $
+15 194,56 $
+[32] Finalement, compte tenu du grand nombre de rajustements que j'ai admis à l'égard des revenus non déclarés déterminés par l'ARC, j'ai conclu que l'intimée n'a pas réussi à établir, selon la prépondérance des probabilités, l'existence de circonstances qui justifieraient l'imposition de pénalités en vertu du paragraphe 163(2) de la Loi.
+Conclusion
+[33] Pour ces motifs, l'appel est accueilli, les dépens sont accordés à l'appelant, et l'affaire est déférée au ministre pour nouvel examen et nouvelles cotisations conformément aux présents motifs.
+Signé à Ottawa, Canada, ce 14e jour de juillet 2010.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 3e jour de novembre 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 367
+No DU DOSSIER DE LA COUR : 2007‑3451(IT)G
+INTITULÉ : Victor Cantore c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATES DE L'AUDIENCE : Le 26 novembre 2009 et le 19 mars 2010
+MOTIFS DU JUGEMENT : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 14 juillet 2010
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Philippe-Alexandre Otis
+Avocate de l'intimée :
+Me Christina Ham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Philippe-Alexandre Otis
+Cabinet : Starnino Mostovac
+Montréal (Québec)
+Pour l'intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Voir, par exemple, Khullar Au Gourmet International Ltd. c. La Reine, 2003 CCI 383, et 2868‑2656 Québec inc. c. La Reine, 2003 CCI 277, conf. par 2004 CAF 388. Dans Khullar, la vérification était basée sur des dépôts bancaires effectués dans les comptes de la société. La Cour n'a pas fait expressément mention de la méthode des dépôts, mais elle a parlé de la « valeur nette modifiée ». Quoi qu'il en soit, les faits de l'affaire indiquent que la méthode des dépôts avait effectivement été employée : le contribuable ne disposait pas de registres fiables et la vérificatrice était arrivée au total des ventes en additionnant le total des dépôts et en soustrayant les fonds virés aux trois comptes bancaires (lesquels représentaient des dépôts provenant des marges de crédit de l'appelante), certains rajustements et des marchandises retournées.
+[2] David E. Graham, « Anatomy of a Net Worth Assessment », 2007 British Columbia Tax Conference (Vancouver, Association canadienne d'études fiscales, 2007), 11:1‑55, à la page 50.
+[3] Johnston c. M.R.N., [1948] R.C.S. 486, page 489.
+[4] Robert G. Kreklewetz et Vern Vipul, « Net Worth (and Other Estimated) Assessments », Association canadienne d'études fiscales, Tax for the Owner‑Manager, janvier 2006, vol. 6, no 1, pages 4 à 6.
+[5] Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, paragraphes 92 à 95. Le juge L'Heureux‑Dubé a accueilli l'appel en matière fiscale; le juge McLachlin a rédigé des motifs distincts pour accueillir l'appel, et les juges La Forest et Major y ont souscrit. Le juge Iacobucci, dissident, aurait rejeté l'appel, et les juges Sopinka et Cory ont souscrit à ses motifs dissidents.
+[6] William Innes et Hemamalini Moorthy, « Onus of Proof and Ministerial Assumptions: The Role and Evolution of Burden of Proof in Income Tax Appeals », (1998) Canadian Tax Journal, vol. 46, no 6, page 1187, à la page 1208.
+[7] Ibid., page 1210.

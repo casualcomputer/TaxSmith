@@ -1,0 +1,225 @@
+---
+title: "Coupe de Vêtements Zurek Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26443/index.do"
+last_modified: "2004-03-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 77"
+citation2: ""
+neutral_citation: "2004 TCC 77"
+decision_date: "2004-03-23"
+language: "en"
+item_id: "26443"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3194
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:40:21.226000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "df276f590a053a100b9897e4b4f42b423710208b162f5420858586f33ffb867b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Coupe de Vêtements Zurek Inc. c. La Reine
+
+- Citation: 2004 TCC 77
+- Decision date: 2004-03-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3194, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coupe de Vêtements Zurek Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-23
+Neutral citation
+2004 TCC 77
+File numbers
+1999-1967(IT)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC77
+Date: 20040323
+Dockets: 1999-1967(IT)G
+1999-1968(IT)G
+BETWEEN:
+COUPE DE VÊTEMENTS ZUREK INC.,
+JEAN ZUREK,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on June 20, 2003, at Montréal, Quebec, and amended for greater clarity.)
+Archambault J.
+[1] Coupe de vêtements Zurek Inc. ("Vêtements Zurek") and Mr. Jean Zurek are appealing from the assessments made by the Minister of National Revenue (the "Minister") under the Income Tax Act (the "Act") for the 1996 taxation year.
+[2] The issues at bar are as follows. With respect to Vêtements Zurek, the Minister disallowed the deduction of expenses totalling $113,571 in the computation of its income, representing the payments made to three subcontractors (the "three subcontractors"): Confection P.T.P. (P.T.P.), $7,100; Hakara Pres (H.P.), $103,371; and, Confection K.V.D. (K.V.D.), $3,100. The Minister also issued a penalty under subsection 163(2) of the Act. With respect to Mr. Zurek, the Minister included the sum of $113,571 in his income, under subsection 15(1) of the Act, as appropriation of funds. He also issued a penalty pursuant to subsection 163(2) regarding this sum.
+The facts
+[3] At the outset of the hearing, counsel for the Appellants admitted some facts set out in each amended Reply to the Notice of Appeal. In the case of Vêtements Zurek, the facts are set out in the following paragraphs of section 6:
+(a) the Appellant works in the field of clothing cutting;
+(b) it leases fairly large premises which contain five cutting tables, three electric cutting scissors, and a fusing machine;
+(c) the Appellant's shareholders are Jean Zurek, holding 75% of the shares (225 common shares) and Patrick Zurek, holding 25% of the shares (75 common shares). Patrick Zurek is the son of Jean Zurek;
+(d) Jean Zurek manages the Appellant's operations and Patrick Zurek handles transportation;
+(e) Jean Zurek stated that, during the 1996 taxation year, the Appellant had only one employee;
+(f) the Appellant's financial statements for the financial year ended December 31, 1996, show wage expenses in the amount of $10,243;
+(l) all of the invoices from subcontractors for the expenses at issue were paid by certified cheque signed by the Appellant [or Patrick Zurek].[1]
+[4] In the case of Mr. Zurek, the facts are set out in the following paragraphs of section 6:
+(a) Coupe de vêtements Zurek Inc. (hereinafter the "company") operates in the field of clothing cutting;
+(b) it leases fairly large premises which contain five cutting tables, three electric cutting scissors, and a fusing machine;
+(c) the Appellant's shareholders are Jean Zurek, holding 75% of the shares (225 common shares) and Patrick Zurek, holding 25% of shares (75 common shares). Patrick Zurek is the son of the Appellant;
+(d) the Appellant manages the company's operations and Patrick Zurek handles transportation;
+(e) the Appellant stated that, during the 1996 taxation year, the company had only one employee;
+(f) the Appellant's financial statements for the financial year ended December 31, 1996, show wage expenses in the amount of $10,243;
+(l) all of the invoices from subcontractors for the expenses at issue were paid by certified cheque signed by the Appellant [or Patrick Zurek][2].
+[5] The evidence presented at the hearing revealed the following facts. Vêtements Zurek has operated a fabric cutting business since approximately 1992; the fabric and patterns are provided by its clients. Mr. Jean Zurek is the President of Vêtements Zurek, and he has been a cutter for more than forty years. In addition to marking and cutting for Vêtements Zurek, he manages the business, and, among other things, signs the cheques. However, he works only part-time at the business; in 1996, he spent 10 to 15 hours per week, or two to three hours per day, at Vêtements Zurek. The balance of his time, 25 hours, was spent operating a restaurant in which he has a 50% interest. This restaurant incurred losses for each of the years from 1996 to 1998; his share of the losses was $5,710 in 1996, $9,248 in 1997, and $9,000 in 1998.
+[6] Mr. Zurek's wages from Vêtements Zurek are regular. He earned employment income of $25,200 in 1994, and $18,000 in 1995. He earned no employment income in 1996. Mr. Zurek stated that he lived on his savings that year, because he had no other established source of income. In 1997, his employment income from Vêtements Zurek was $14,999. He had no income in 1998. It should be noted that Mr. Zurek reported some interest income for the 1992 to 1996 taxation years, ranging from $1,137 in 1996 to $4,805 in 1993.
+[7] Patrick Zurek, born in 1969, works on a full-time basis for Vêtements Zurek, although in 1996, he earned no income, and he received only an allowance for his vehicle, which he did not include in his income (he also did not include some rental income). His duties included preparing invoices to the manufacturers who are clients of Vêtements Zurek. He also handled the payment of invoices from subcontractors. Except for two cheques dated in July 1996, all of Vêtements Zurek's cheques filed with the Court were signed by Patrick Zurek, namely, the cheques payable to subcontractors and to the owner of the building leased by Vêtements Zurek.
+[8] In 1996, Vêtements Zurek had a workshop on Louvain Street in Montréal. This workshop measured 10,000 square feet. The monthly rent, as set out in the lease, was $3,000. However, the rent paid in 1996 was only approximately $2,000. This workshop contained five work tables, three electric cutting scissors, a fusing machine, a fabric spreader, and a fabric drill.
+[9] Vêtements Zurek has approximately 15 or 16 clients who are manufacturers, including Point Zero and Sport Collection. Vêtements Zurek provides these manufacturers with detailed invoices, which specify the quantity of and unit price for the cuts to be made, and the pattern number.
+[10] Its clients also include Gramar, a company that operates a cutting business and contracts out its surplus work to Vêtements Zurek. Gramar paid Vêtements Zurek $66,994 in 1996, which represents 39% of Vêtements Zurek's sales figures for the year. Unlike the invoices Vêtements Zurek submits to manufacturers, its invoices to Gramar are not detailed. They do not identify a pattern number, quantity, or unit price. They simply describe the type of garment cut and the total price. The figures on these invoices are generally rounded off. Nine of the eleven invoices are for $5,000 or nearly $5,000. In his testimony, Mr. Jean Zurek stated that 1996 had been a difficult year. Vêtements Zurek's contracts were more complex and not profitable. He explained that the lack of profitability was due to the fact that Vêtements Zurek earned $18 per hour for the cuts, whereas its base cost was $15, plus 20% to 25% for employee benefits. However, the payment received by Vêtements Zurek was calculated on a piecework basis rather than an hourly rate.
+[11] Vêtements Zurek's sales figures decreased from 1994 to 1996, and it incurred the following losses:
+Sales Figures
+Profits (Losses)
+1994
+$402,632
+($4,859)
+1995
+$272,418
+($6,877)
+1996
+$170,730
+($14,363)
+[12] During these years, Vêtements Zurek had wage expenses, including directors' wages, and expenses for payments to subcontractors:
+Wages
+Payments to subcontractors
+Directors
+Other employees
+1994
+$69,900
+$81,135
+$148,995
+1996 [sic]
+$35,257
+$33,257
+$113,420
+1996
+0
+$10,243
+$124,961
+[13] It appears that in 1996, the $10,243 salary was paid to an employee who worked during a substantial part of the year. According to Mr. Zurek, he and his son also worked at cutting. Upon analysis of the payments made to subcontractors, the evidence shows that there were four subcontractors. Firstly, Mr. Yipi provided services in January 1996 (as he did in 1995). Mr. Zurek stated that Mr. Yipi had wound up his operations in January 1996 and that he knew his address. The payments made to Mr. Yipi were not disallowed as a deduction by the Minister.
+[14] With respect to the payments made to the three subcontractors, Mr. Zurek stated that the three subcontractors were represented by a Mr. Vichard; he could not specify whether this was his first or last name. According to him, Vichard was the businessperson who operated the three subcontractors. Unlike the situation with Mr. Yipi, Mr. Zurek (or his son) did not know Vichard's address. All he knew was his telephone number and that of his brother. Mr. Zurek stated that he had visited the workshop of one of the subcontractors on Parc Street on one occasion. He claimed that he met Vichard when he was working for one of Vêtements Zurek's clients, Casadawa. Vichard allegedly contacted him and offered him an attractive sum for cutting work. According to Mr. Zurek, his son Patrick was present during the negotiations with Vichard.
+[15] Like the Vêtements Zurek invoices submitted to Gramar, the invoices to the three subcontractors were not detailed; they contained no pattern number, quantity, or unit price. They simply indicated the type of garment cut and the extended price. In general, these invoices contained rounded-out figures. During cross-examination, Mr. Zurek was unable, at first, to correlate the invoices sent to Vêtements Zurek's clients with the subcontractor invoices. An analysis of the invoices and bank statements enables this correlation. Vêtements Zurek's bank statements show that, on January 23, 1996, a cheque for $5,696 from Gramar was deposited, and that Vêtements Zurek wrote a cheque for $5,500 payable to Mr. Yipi on the same day.
+[16] A correlation was also made in at least three instances between Vêtements Zurek and its three subcontractors. An exact price correlation was made in two instances and a nearly exact correlation was made in the third. As we will see later, there is not necessarily a correlation with the work performed. With respect to price, Vêtements Zurek's bank accounts show that the deposit of a cheque for $8,546.63 from Gramar was made on July 11, 1996, and that a certified cheque for the same amount, $8,546.63, was drawn on July 12. Another cheque from Gramar for $5,697.75 was deposited on October 16, 1996, and Vêtements Zurek wrote a certified cheque for the same amount, $5,697.75, payable to H.P. The final example I would like to point out is the cheque for $5,697 from Gramar, deposited on April 18, 1996, and on the same day, Vêtements Zurek made out a certified cheque for $5,726 to H.P. The three invoices for the payments made to H.P. do not provide the same description of cuts as those described in the invoices sent to Gramar. The invoice sent to Gramar, which corresponds with the first cheque for $8,546.63, describes the cutting of pants, vests, blazers, and skirts, whereas the H.P. invoice describes the cutting of vests, blouses, and 14 samples. The second invoice sent to Gramar, which corresponds with the cheque for $5,697.75, describes the cutting of pants, blouses, skirts, and jumpers, whereas the H.P. invoice describes the cutting of "body," blouses, and pants. Finally, the third invoice sent to Gramar, which corresponds with the cheque for $5,697, describes the cutting of vests, pants, blouses, and dresses, whereas the H.P. invoice describes the cutting of pants and blouses.
+[17] The explanation Mr. Zurek gave during his testimony is that Vichard was free to describe whatever he wanted to on his invoices. It is important to note that Mr. Zurek did not deny the existence of the correlation between the H.P. invoices and the Gramar invoices. For example, he did not say that this was not the same order.
+[18] These figures and these three examples show that the price charged to Gramar by Vêtements Zurek is the same as the price it paid to H.P. This raises the following question: How does Vêtements Zurek make a profit? Mr. Zurek responded that he earned a 10% profit on the services provided by the three subcontractors. His explanation as to how he arrived at this percentage was relatively strained and confusing, but it can apparently be summarized as follows: he would have the three subcontractors perform more work, specifically, 10% more cuts, than he could invoice his clients for.
+[19] All of the invoices submitted by the three subcontractors were filed at the hearing, and additional comments are necessary. Firstly, with respect to the invoices from P.T.P., dated February 6 and 12, 1996, the name "P.T.P." is entered by hand, whereas the name that initially appeared on the invoice was K.V.D., which was crossed out and replaced with P.T.P. Thus, the GST number that appears on the invoice is that of K.V.D. Mr. Zurek acknowledged in his testimony that these invoices had not been issued in February 1996. They had been issued at a later date, at the request of the accountant, because they were missing. The accountant likely pointed out that there were two certified cheques payable to P.T.P. for the month of February 1996, for which no corresponding invoices existed.
+[20] Moreover, 43 invoices from H.P. were issued for the period beginning February 13, 1996, and ended December 2, 1996. Those issued prior to June 13, 1996, are not numbered consecutively. Those issued for the period beginning June 13 and ended November 4, 1996, all contain consecutive invoice numbers; these are all the numbers from 218278 to 218300, except for 218298. It appears that the handwriting on these invoices is that of the same person, using the same pen. As indicated in the working papers of the auditor who analyzed Vêtements Zurek's accounts with the Caisse populaire du Quartier-Chinois, H.P. deposited a number of cheques from clients throughout 1996, on a regular basis. The numerous deposits indicate that H.P. did not have only one client during the period beginning June 13 and ended November 4, 1996. Having only one client could have explained the consecutively numbered invoices. According to Mr. Zurek, the only possible explanation for this situation is that his supplier, H.P., used a separate invoice book for each client. However, as I noted earlier, from February to June, the invoices issued by H.P. were not consecutively numbered.
+[21] It should also be noted that the invoices from H.P. and K.V.D., beginning on April 15, which start with invoice number 169195, were issued, in all likelihood, by one person, using the same pen. With respect to the invoices issued prior to April 15, 1996, they appear to be written out by someone other than the person I just mentioned, yet this handwriting is strangely similar to the one that appears on the invoices that Vêtements Zurek sent to its clients. These invoices can be divided into two groups: the invoices issued from February 13 to March 18, numbered 268023 to 268231, written in blue ink, and those issued from March 25 to April 9, numbered 268238 to 268243, written in black ink. The last two invoices from H.P. are from December 1996; invoice 169328 is dated December 2, and invoice 169329 is dated December 9. It is interesting to note that one invoice with an earlier number, 169326, is dated May 21, 1996, and is a part of a series of eight invoices beginning April 15, with invoice number 169195, and ended, as I noted, on May 21.
+[22] Finally, the last two invoices for the period were issued by K.V.D. and are dated December 16 and 20, 1996. It is interesting to note that the numbers on these invoices are inverted, that is, the December 16 invoice is numbered 869814, and the December 20 invoice is numbered 869804. I also note that the invoices issued in February 1996, supposedly by P.T.P., to which I referred earlier, also bear invoice numbers that are part of the same sequence found in December 1996 for K.V.D. These are numbers 869803 and 869821. I also note that they appear to have been issued by one person, using the same pen.
+[23] According to Mr. Jean Zurek, Vichard would come to pick up bolts of fabric and patterns from Vêtements Zurek's workshop. Vichard would collect 10 to 75 bolts containing 50 to 60 metres of fabric. The value of these fabrics ranged from $2 to $4 per metre; 50 bolts containing 50 metres at $3 per metre would be worth $7,500. Using the maximum figures, 75 bolts containing 60 metres worth $4 per metre represents a value of $18,000. According to Mr. Zurek, Vichard would come by himself most of the time, but on occasion, he came with the truck driver, whose name Mr. Zurek did not know. Vichard would issue a receipt, but Mr. Zurek did not keep any of them; the receipts were no longer useful once the cut fabric was returned. Because Vêtements Zurek did not know Vichard's address, nor that of the three subcontractors, and it did not know where the bolts of fabric were being transported to, Mr. Zurek acknowledged that, in the circumstances, he was at risk of not being able to locate his supplier. However, Vichard required that he be paid by certified cheque. Where Vêtements Zurek did not have sufficient funds in its bank account, the cheques from manufacturers or from Gramar were deposited on the same day or the previous day, as seen above, to cover the certified cheque.
+[24] According to Mr. Jean Zurek, Vichard would come two or three times per week to check whether there was any work; sometimes, Vichard would call. According to Mr. Zurek, Vichard's work ended in February 1997. It appears to me that he gave three different explanations for the termination of the relationship. He indicated that he had stopped doing business with Vichard because there was no more work. On another occasion, he indicated that he stopped dealing with Vichard, because things were better without him, and more money was made because the cuts were easier and simpler. And in yet another instance, he stated that he had given Vêtements Zurek to Patrick.
+[25] The Respondent's evidence involves the work of the Minister's various auditors. This evidence revealed the facts that led the Minister to show interest in the cases of Mr. Zurek and Vêtements Zurek. Firstly, it was noted that major expenses for subcontractors had been incurred in 1996, the invoices were not detailed (unlike the invoices issued by Vêtements Zurek to its clients), and all the payments made to the three subcontractors were by certified cheque which were immediately cashed.
+[26] In April 1997, during the first meeting between the Minister's auditor and Mr. Zurek, Mr. Zurek stated that he did not know the name or address of his subcontractors. He then identified Vichard, who he claimed was a Chinese truck driver with whom he did business. When the auditor informed him that he was at risk of having the deduction for the payments made to these three subcontractors disallowed, Mr. Zurek called Vichard on the telephone in the presence of this auditor. When Vichard learned that Mr. Zurek was in the company of an auditor, he said that he was busy and that he would have to call him back, which he never did. Mr. Zurek stated that he was not in contact with Vichard again. The auditor indicated that he attempted to call Vichard back, with no success; the telephone number provided by Mr. Zurek was no longer in service.
+[27] The other steps taken by this auditor and other auditors, namely the ministère du Revenu du Québec ("MRQ") auditors, revealed that the three subcontractors could not be located, either because they were non-existent or because they had not carried out any activities at the addresses obtained from various records. Specifically with regard to H.P., the Canada Customs and Revenue Agency ("CCRA") and the MRQ GST and QST records indicated that H.P. was a business owned by Mr. Hakara Pres. The business was registered on December 18, 1995, and the registrant's file was closed on March 9, 1998. This registrant's business was described as a garment-making business; the registrant did not, however, file a GST return. The address for H.P. was listed as 2285 Hogue Street, Unit 304, Saint-Laurent. The building's custodian told an MRQ auditor in April 1997 that H.P. had not operated a business from this address. Other attempts to locate the premises from which H.P. could have carried on its activities were also unsuccessful.
+[28] According to RAPID, the Minister's database of taxpayer income tax returns, Mr. Hakara Pres had no business income from 1993 to 1995; income from social assistance and employment insurance is shown for these years. Mr. Pres did not file an income tax return for 1996. The MRQ's records for 1996 show the same information. These records show income from social assistance for 1995. The payroll source deduction service ("PSD") has no record of an employer named H.P. According to the MRQ's anti-tax evasion office, H.P. was considered an "accommodator."
+[29] A verification with the parity committee on the application of provincial decrees enacting the terms and conditions of employment of workers in the garment manufacturing industry yielded no results. H.P. was an unknown business.
+[30] A verification with the Caisse populaire du Quartier-Chinois provided the following information. A certificate of registration with the Inspector General of Financial Institutions ("IGIF") was discovered. According to the certificate, Hakara Pres had been operating a garment manufacturing business since December 18, 1995, and his address was 2285 Hogue Street, Unit 304, Saint-Laurent. Although Hakara Pres was identified as the owner of this business on the certificate submitted to the Caisse populaire, the sole cheque-signing authority for the business was a Mr. Li. H.P.'s account was opened on December 18, 1995, and closed on December 24, 1996. Records showed deposits totalling $7.4 million, of which approximately 90% were certified cheques. Cash withdrawals totalled $4.7 million. A total of $374,000 in cheques were payable to H.P. The registration with the IGIF was cancelled on October 8, 1997.
+[31] According to the statements of the Société de l'assurance automobile du Québec ("SAAQ") [Quebec automobile insurance corporation], Mr. Pres had not owned a vehicle since 1995. One of the auditors contacted Mr. Pres' sister, Stella, who told him that her brother was not involved in the clothing industry, that he no longer lived with her, and that he was now living with his girlfriend. Stella gave the auditor the friend's telephone number. The auditor, however, was unable to contact Mr. Pres.
+[32] Research on K.V.D. revealed the following information. According to the CCRA's registers, the person registered for the purposes of the GST was a Mr. Vuthy To. The registration took place in December 1996, and a GST return was not filed. According to the RAPID database, Mr. To did not have any business income. For the 1993 to 1995 taxation years, he had slips relating to employments in the fields of decorating, food service, and garage operations. For 1995, he had a T4 slip showing a sum of $3,000 and social assistance payments. An income tax return was not filed for 1996; however, it appears that Mr. To received social assistance that year. According to Mr. To's former girlfriend, he had not operated a business, and his work did not involve the clothing industry. The bank statement issued by the Caisse Populaire du Quartier-Chinois shows that the signing authority for the K.V.D. account was also Mr. To.
+[33] The auditors' research with respect to P.T.P. showed the following information. According to the bank accounts located at the National Bank, ScotiaBank, and CIBC, the accounts were opened beginning on December 14, 1995, and closed on November 30, 1996. The signing authorities for cheques drawn on the accounts at these three banks were Sorm Han, who declared bankruptcy in 1996 according to the RAPID data, and Mr. Lan Hung. The total of the deposits made to these bank accounts was $9.3 million, $1.3 million of which was deposited in August 1996. Cash withdrawals made on the same day the cheques were deposited, or the next day, totalled $8.8 million. There were no records of payments for overhead expenses such as electricity, rent, or telephone. According to the CCRA and MRQ records, P.T.P. was not a GST or QST registrant. However, a business called Confection Belle Han Sorm was registered in November 1995, in Mr. Sorm Han's name. I stress again that the GST number appearing on the invoices issued by P.T.P. was K.V.D.'s GST registration number.
+[34] The auditors were able to identify 11 addresses that could have a relation with P.T.P. These addresses were essentially residential or industrial addresses. With respect to the industrial addresses, research showed that, in each case, there was no lease binding the owner of the premises with P.T.P. during the relevant period. Moreover, in some instances, the premises at issue were vacant. The parity committee on information was able to provide some information about P.T.P., but there was only one entry, made in March 1996, respecting a subcontractor, involving the sum of $4,300. An MRQ investigator confirmed that Mr. Sorm Han had been found guilty ex parte of criminal offences committed between December 1995 and November 1996, involving input tax credits that had been claimed illegally.
+[35] The Minister's auditor indicated that the assessments at issue had been made on the following basis: the deduction for any amounts paid to the three subcontractors by Vêtements Zurek were disallowed, because these three subcontractors were considered "accommodators," and it was thought that their invoices were false invoices. He concluded that Mr. Jean Zurek had appropriated all the funds allegedly paid to the three subcontractors, because Mr. Zurek provided him with all the information relating to these three subcontractors, and Mr. Zurek appeared to be in a position of control. He noted specifically that Mr. Zurek did not appear to represent anyone else. It should be noted that the Replies to the Notice of Appeal show that, among the facts assumed by the Minister, Jean Zurek had signed all the cheques on behalf of Vêtements Zurek, and he directed the operations of this business. The auditor indicated that penalties had been issued because Vêtements Zurek had claimed a deduction for expenses relating to services it had not received, and the invoices supporting these expenses were false. He also issued penalties to Mr. Zurek, because Mr. Zurek had appropriated amounts remitted to the alleged subcontractors; thus, he had withdrawn money from Vêtements Zurek without paying income taxes.
+Analysis
+[36] Firstly, I will recall the rules respecting the burden of proof, because they explain, in part, each party's failure. The onus of showing that the income tax amounts required were not owing was on Vêtements Zurek and Mr. Zurek; they were required to disprove the facts assumed by the Minister. In this case, the Minister assumed the following key facts: no work had been given to subcontractors, and false invoices, which the Minister deemed to be "accommodating" invoices, were purchased. Jean Zurek was responsible for the administration of Vêtements Zurek, and he had signed all the cheques. Jean Zurek had received cash from "accommodators" and, therefore, had appropriated funds from Vêtements Zurek. With respect to the penalties issued under subsection 163(2) of the Act, a penalty is applicable where a taxpayer knowingly, or under circumstances amounting to gross negligence, makes a false statement or omission, and the onus of establishing this fact is on the Respondent. It was, therefore, the duty of the Respondent to establish specifically that services had not been rendered by the subcontractors.
+[37] I will address the first issue, namely, the disallowed deduction of payments made to the three subcontractors. In this case, Vêtements Zurek was required to demonstrate that it had, in fact, subcontracted work and that it had paid the sum of $113,571 to three subcontractors for work done on its behalf. Unfortunately for Vêtements Zurek, it failed to do so. The evidence it submitted was insufficient to persuade the Court that, on the balance of probabilities, this sum had been paid for work done on its behalf. Essentially, the only evidence in support of the fact that Vêtements Zurek truly paid the amount for which the deduction was disallowed was provided by Mr. Zurek. There was no witness to corroborate his testimony. Specifically, his son Patrick did not testify, even though, in my view, he was most often in contact with Vichard. According to Mr. Zurek, Patrick was present during the initial negotiations. Patrick's signature appears on all but two cheques. Patrick worked at the business on a full-time basis, whereas Jean Zurek worked for only 10 to 15 hours per week. Moreover, the testimony of the employee who worked for Vêtements Zurek in 1996 could have been heard. This employee could have confirmed seeing Vichard coming to pick up the bolts of fabric and returning the cut-out garments. The absence of these two witnesses lead me to perceive a negative inference, namely, that their testimony would have been adverse to the case of the Appellants. In this respect, I rely on the case law established in Huneault v. The Queen, 98 DTC 1488, at page 1491, in which my colleague, Lamarre J., cites some decisions and one author:
+[. . .]
+I would recall here the comments contained in The Law of Evidence in Civil Cases, by Sopinka and Lederman, which were cited by Judge Sarchuk of this Court in Enns v. M.N.R., 87 D.T.C. 208, at 210:
+In The Law of Evidence in Civil Cases, by Sopinka and Lederman, the authors comment on the effect of failure to call a witness and I quote:
+In Blatch v. Archer, (1774), 1 Cowp. 63, at p. 65, Lord Mansfield stated:
+"It is certainly a maxim that all evidence is to be weighed according to the proof which it was in the power of one side to have produced, and in the power of the other to have contradicted."
+The application of this maxim has led to a well-recognized rule that the failure of a party or a witness to give evidence, which it was in the power of the party or witness to give and by which the facts might have been elucidated, justifies the court in drawing the inference that the evidence of the party or witness would have been unfavourable to the party to whom the failure was attributed.
+In the case of a plaintiff who has the evidentiary burden of establishing an issue, the effect of such an inference may be that the evidence led will be insufficient to discharge the burden.
+[38] In support of this statement, Sarchuk J. cites Lévesque v. Comeau, 1970 S.C.R. 1010. At page 1012 of this Supreme Court of Canada decision, Pigeon J. writes:
+[. . .]
+Appellant Lola [sic] Levesque's expert examined her for the first time more than a year after the accident, and after she had consulted several doctors and undergone different examinations in the meantime. She alone could bring before the Court the evidence of those facts and she failed to do it. In my opinion, the rule to be applied in such circumstances is that a Court must presume that such evidence would adversely affect her case.
+[39] In addition to the absence of corroboration of Mr. Jean Zurek's testimony, I noted a number of contradictions in his testimony. Some of them involve the reference I made above with respect to the explanation for the termination of the business relationship with Vichard. It appears to me more likely that the business relationship with him was terminated because the tax authorities showed interest in Vêtements Zurek's subcontractors at the time. In fact, an auditor went to the Hogue Street premises in April 1997 to obtain information about H.P. It can, therefore, be assumed that the investigation had been ongoing for some time.
+[40] In addition to these contradictions, Mr. Zurek's testimony contained unlikely or evasive responses, which I shall reiterate. Firstly, Mr. Zurek was unable to correlate the cheque deposits with the invoices from the three subcontractors and Gramar, and the description of the cutting work done for Gramar is different from the description of the work done by H.P. I recall that Mr. Zurek did not deny the correlation that may have existed between the invoices, aside from the description of the cutting work performed. Bolts of fabric worth up to $18,000 were given to a person whose full name and address was unknown to Mr. Zurek. Also, there are explanations for the lack of profitability, which were based on the assertion that payments were made on an hourly basis, whereas, actually, all the work performed by Vêtements Zurek was paid on a piecework basis, according to the evidence I heard. Finally, there is Mr. Zurek's strained and confusing description of how he established a 10% profit.
+[41] Furthermore, the evidence is insufficient, in my view, owing to the very suspicious nature of the documentary evidence filed with the Court. Obviously, I am referring to the invoices from the three subcontractors. Firstly, Mr. Zurek admitted that the invoices from P.T.P. were back-dated. Moreover, I have the clear impression that the invoices from the three subcontractors were not issued at the time the cut garments were delivered, but some time afterwards, and all at once. The following facts lead me to such a conclusion: the invoices are numbered consecutively from June to November 1996; the order of the invoice numbers for the last two K.V.D. invoices issued in December 1996 is inverted, and invoices used in December 1996 are numbered according to the same series as the invoices used in May 1996; the fact that the invoices for April to December were written by the same person, using the same pen; and the fact that the handwriting on the invoices prior to April 1996 is similar to the handwriting that appears on the invoices issued by Vêtements Zurek to its clients, which gives the impression that the invoices from the three subcontractors could have been issued by the person who issued the invoices for Vêtements Zurek's clients.
+[42] Obviously, there is also the lack of correlation between the description of the cutting work done for Gramar and that provided by H.P. Added to this is the fact that the invoices from the three subcontractors provided generic information rather than details, and the fact that the figures appearing in these invoices were rounded off, unlike those in the invoices that appeared to be legitimate and that were sent to Vêtements Zurek's various manufacturer-clients. Not only does this evidence fail to persuade the Court that these invoices from subcontractors are bona fide, but, on the contrary, they appear, in all respects, to be false invoices.
+[43] In addition to the general comments on the Appellants' testimonial and documentary evidence, the Respondent provided evidence in support of the non-existence of the businesses of Mr. Pres and Mr. To, who, according to the testimony gathered by the auditors, were not involved in the clothing industry. These are the two individuals who were carrying on business under the name of H.P. and K.V.D. Finally, there is the criminal conviction of Mr. Han, who operated P.T.P.
+[44] Therefore, the evidence as a whole has failed to persuade me that, on the balance of probabilities, Vêtements Zurek made the payments at issue to the subcontractors during 1996.
+[45] I will now address the second issue, namely, Mr. Jean Zurek's appropriation of funds. Before analyzing the relevant facts, I would like to reiterate the steps taken by the auditor to conclude that Jean Zurek appropriated the funds. It is true that it is a matter of practice for the Minister to state, in his Reply to the Notice of Appeal, the facts he has assumed. It is also true that the burden of proof rests with the taxpayer, who must disprove the facts assumed by the Minister in making his assessments. This is the rule, because the taxpayer is in the best position to refute or disprove these facts. However, it is important to note that, where the Minister assumes certain facts, there must be a reasonable basis for these facts; he cannot simply fabricate facts that suit his purpose. He must rely on the facts he was able to observe during his audit. The facts assumed may stem from direct evidence, or, as nothing prevents it, circumstantial evidence.
+[46] In this case, the assumption of facts whereby Jean Zurek appropriated funds from the "accommodators" does not seem reasonable, for a number of reasons. This "accommodation" would certainly have required a payment to the "accommodators." Thus, a portion of the sums at issue would not have been collected by Mr. Zurek. However, and this is a more important fact, it is not reasonable to infer that only Jean Zurek would have appropriated property from Vêtements Zurek and that Patrick would not have. Moreover, it appears illogical to me to consider Mr. Zurek the only person to have appropriated property simply because he is the person who provided the auditor with the information relevant to the relationships between Vêtements Zurek and its subcontractors. What could have been reasonable is an inference whereby an appropriation took place because Jean Zurek managed everything, he was in a position of control, and he could have made the appropriation without the knowledge of the other shareholder. In this case, the evidence showed that Patrick Zurek was the person most often in contact with Vichard. Patrick signed all the cheques except for two in July 1996; it is reasonable to believe that Patrick was on vacation during that time. Patrick was the one who worked on a full-time basis for Vêtements Zurek, whereas his father spent only 10 to 15 hours per week at this business. Also, Patrick was with his father during the negotiations with Vichard. Therefore, in this case, the facts cited in support of the assessment have certainly been disproved, in part, based on the evidence.
+[47] I point out that an appropriation could reasonably have been made on the basis of the interest of each of the two shareholders in Vêtements Zurek, that is, distributed 75/25. An appropriation distributed on an equal basis would also have been possible, given that Patrick worked in the business on a full-time basis and his father spent only 10 to 15 hours per week there. This fact could have mitigated the significance of the distribution of shares between father and son in a proportion of 75 to 25. I note that an explanation could have helped Jean Zurek's case. In fact, he could have explained that the amounts were paid to employees or bona fide subcontractors under the table to reduce his production costs, but he did not provide such evidence. Only the representative from the Caisse populaire du Quartier-Chinois suggested this possibility.
+[48] The evidence on the whole did not persuade me that, on the balance of probabilities, Jean Zurek did not benefit from at least a portion of the cash paid to the three subcontractors. However, given the unreasonable nature of the steps taken by the auditor to allocate all the sums paid to the three subcontractors to Jean Zurek, for which a deduction was disallowed, I feel that the amount added to the income of Jean Zurek must be reduced by at least half. This figure appears to me to be a reasonable amount in the circumstances.
+[49] With respect to the penalties, I believe that the Respondent did not successfully establish that, on the balance of probabilities, Vêtements Zurek and Jean Zurek knowingly, or under circumstances amounting to gross negligence, made a false statement in their income tax returns. For me to conclude that they did so, the Respondent would have had to persuade me that the payment was not made in consideration of work from which Vêtements Zurek did not profit. Thus, it is possible that the money was used to pay workers who performed work for Vêtements Zurek under the table. I am not satisfied that Jean Zurek and his son, Patrick, could have performed all the work themselves; counsel for the Respondent agreed that they could not have done this work. Even if they did, it is possible, as counsel raised in her arguments, that the cash paid to the three subcontractors could have been used to pay Jean and Patrick Zurek for their services under the table.
+[50] In the circumstances, it is difficult to be satisfied that Vêtements Zurek obviously claimed a deduction to which it was not entitled. Therefore, I cannot conclude that a false statement was made knowingly or in circumstances amounting to gross negligence.
+[51] With respect to the penalty imposed in relation to the appropriation by Jean Zurek, the same approach must be taken. In this case, the Respondent's evidence did not persuade me that the amounts at issue were necessarily remitted to Jean Zurek, in the same way as the evidence did not persuade me that Jean Zurek did not receive this money. There is no evidence of unexplained deposits in his bank accounts. It is possible that the money was, in fact, used to pay workers other than Jean Zurek under the table. Finally, I cannot be sure of the sharing of the appropriation that may have occurred between Jean and Patrick. The burden of proof regarding penalties was on the Respondent, and the Respondent failed to discharge this burden.
+[52] For all these reasons, the appeals are allowed without costs, and the assessments are referred back to the Minister for reconsideration and reassessment, on the basis that the penalties must be deleted and the amount to be added to the income of Jean Zurek as appropriation is $56,785.
+Signed at Québec, Quebec, this 23rd day of March 2004.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 30th day of November, 2004.
+Colette Dupuis-Beaulne, Translator
+CITATION:
+2004TCC77
+COURT FILE Nos.:
+1999-1967(IT)G
+1999-1968(IT)G
+STYLE OF CAUSE:
+Coupe de vêtements Zurek Inc.
+and The Queen
+and Jean Zurek and The Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+June 16 and 17, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Pierre Archambault
+DATE OF JUDGMENT:
+June 27, 2003
+DECISION RENDERED ORALLY:
+June 20, 2003
+WRITTEN REASONS FOR JUDGMENT:
+March 23, 2004
+APPEARANCES:
+Counsel for the Appellants:
+Bertrand Forget
+Counsel for the Respondent:
+Valérie Tardif
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Bertrand Forget
+Firm:
+Forget Tremblay
+St-Eustache, Québec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This paragraph was amended by adding the text in square brackets for the purposes of the admission.
+[2] This paragraph was amended by adding the text in square brackets for the purposes of the admission.

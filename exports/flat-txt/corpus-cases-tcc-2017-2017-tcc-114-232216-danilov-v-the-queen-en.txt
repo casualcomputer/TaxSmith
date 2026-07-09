@@ -1,0 +1,170 @@
+Title: Danilov v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/232216/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-114-232216-danilov-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-06-20
+
+# Danilov v. The Queen
+
+- Citation: 2017 TCC 114
+- Decision date: 2017-06-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2091, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Danilov v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-06-20
+Neutral citation
+2017 TCC 114
+File numbers
+2016-2360(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-2360(IT)I
+BETWEEN:
+PAVEL DANILOV,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 22, 2017, at Hamilton, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John Maskine
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2014 taxation year is dismissed, without costs, for the attached reasons for judgment.
+Signed at Ottawa, Ontario, this 20th day of June 2017.
+“Gaston Jorré”
+Jorré J.
+Citation: 2017 TCC 114
+Date: 20170620
+Docket: 2016-2360(IT)I
+BETWEEN:
+PAVEL DANILOV,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction [1] The issue in this appeal is whether the Appellant is entitled to deduct $74,566 in legal fees in computing his business income for the 2014 taxation year. The legal fees in question were incurred with respect to a lawsuit that began in 2012 and which was still ongoing at the time of hearing of this appeal.
+[2] There is a subsidiary procedural issue which I shall deal with at the end of these reasons.
+The Facts[1] [3] The only witness was the Appellant.
+[4] The Appellant testified that he and his spouse sponsored the immigration of his mother‑in‑law and father‑in‑law. Prior to their arrival in Canada, the in‑laws sold all their property in Russia and sent the money, an amount of approximately $260,000, to Canada. Also prior to the arrival of the in‑laws, an agreement was reached over the telephone that the money was to be invested by the Appellant for the purpose of generating a lifetime income for the in‑laws.
+[5] Subsequently, the agreement was reduced to writing. The terms are as follows:[2]
+Loan/Activity Agreement between Family Members
+AGREEMENT made this 14-th day of June, 2008, in Toronto by and between, Pavel Danilov, DOB . . ., SIN . . ., hereinafter referred as the “Borrower”, Valentin Nikityuk, DOB . . ., SIN . . . and Alla Nikityuk, DOB . . ., SIN . . . hereinafter referred to as the “Lenders”.
+The Lenders lend the money (the Loan) with the purpose of receiving life time financial support from The Borrower in the form of interest investment income.
+The Borrower accepts the Loan, invests it, and provides life time financial support for the Lenders in the form of interest investment income.
+1. LOAN
+By the time of signing of this Agreement the Lenders already transferred to the personal US Dollar account of Pavel Danilov at TD Canada Trust, part by part, overall amount of 260802.71 US dollars (see TD Canada Trust statement in Appendix 1), which has been converted to Canadian dollars and formed the main loan amount 263586.91 CAD (the “Principal Sum”). The Principal Sum can be increased insignificantly after this Agreement signed, if at some point The Lenders have extra cash and The Borrower agrees to accept and invest it.
+The statements reflecting the current status of the Loan should be attached to this Agreement on December 31 of each year during the life time support period and signed by both sides.
+2. PURPOSE
+The Borrower shall use the Principal Sum for the investment purposes at his discretion.
+The Borrower shall provide interest income on the outstanding principal balance of the loan calculated annually to make the Lenders’ total taxable income minimal but enough to cover all mandatory living expenses, such as, but not limited to: household expenses, automobile expenses, insurance premiums, etc.
+Annual interest investment income shall be paid on a schedule verbal agreed between the Lenders and the Borrower in the form of direct deposits to the Lenders’ Personal Banking Account specified below. The schedule must provide cash flow necessary to cover ahead of time all mandatory monthly living expenses.
+3. REPAYMENT
+The repayment of the principal amount of said loan has not been specified in this Agreement as the purpose of the above said loan for The Lenders is to generate life time support income.
+The Borrower has the right to make complete or partial repayments of the remaining principal amount in case of
+1. At some point both sides agree that The Borrower will cover part or all mandatory living expenses of The Lenders from other sources and therefore the annual income of The Lenders can be reduced without reducing quality of life of The Lenders.
+2. The repayment gives The Borrower an opportunity to reduce mandatory monthly living expenses of The Lenders without reducing quality of life of The Lenders.
+[6] As we can see above, under the second heading “Purpose”, it is stated that the Appellant may invest the loan at his discretion.
+[7] While I am going to refer to the agreement as the loan agreement, I am not entirely sure that is an accurate characterization of the nature of the agreement given that on its face the agreement does not require repayment although it permits repayment of the capital sum of the loan.
+[8] The Appellant’s spouse is not a borrower. Her only connection to the loan agreement is that she signed as a witness.
+[9] The Appellant was employed full‑time at all times relevant to the appeal and he also had a proprietorship. The proprietorship developed automated software for trading stocks, options and currencies.
+[10] The Appellant decided to invest the sum borrowed from his in‑laws in his proprietorship. The money was used to fund trading with the software.
+[11] The loan agreement makes no mention whatsoever of the proprietorship.
+[12] At some point relations broke down between the Appellant and his spouse and the mother‑in‑law and father‑in‑law.
+[13] In early 2012, there was an exchange of correspondence between a paralegal acting on behalf of the in‑laws and a law firm acting on behalf of the Appellant and his spouse.[3] The first letter dated February 23 from the law firm to the paralegal refers to the in‑laws seeking to receive $1,400 per month from the Appellant and his spouse.
+[14] The second letter dated March 1 is from the paralegal to the law firm and demands that the in-laws’ money be returned forthwith or, alternatively, that a support amount of $3,000 per month be paid to the in‑laws together with certain additional sums. In addition, the letter demands that the Appellant and his spouse provide information with respect to the investments.
+[15] There is also a letter dated April 23 from the paralegal to the law firm that, among other things, alleges that the in­‑laws had been promised $24,900 a year.
+[16] In 2012 the Appellant and his spouse sued the Appellant’s in‑laws as well as a third individual and a local YMCA association. While the original statement of claim is not in evidence, the amended statement of defence and counterclaim of the in‑laws is.[4]
+[17] According to the Appellant, he and his spouse brought the lawsuit against the in‑laws for breaking the sponsorship agreement and the loan agreement causing the plaintiff severe financial damages; similarly, according to the Appellant, the claim against the third individual and the YMCA was brought because they encouraged the in‑laws to breach the sponsorship agreement and the loan agreement.
+[18] The amended statement of defence replies to the plaintiffs’ claim in paragraphs 35 to 37; it alleges, among other things, that the defendants caused no damages to the Appellant and his spouse.
+[19] In the counterclaim, the in-laws sue the plaintiff and his spouse alleging a variety of things. For instance, they allege that they reasonably believed that the money was to be used to acquire a risk‑free investment earning 10% a year. They seek various remedies including substantial damages.
+Analysis [20] The essence of the Appellant’s case is the following: the money he borrowed was used by his trading business and therefore the legal expenses to prevent a return of those funds are properly deductible in computing his income for the year because the business could not operate without the funds.
+[21] The following provisions of the Income Tax Act (Act) are relevant to this appeal:
+9(1) Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+. . .
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+. . .
+(h) personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer’s business;
+[22] Paragraph 18(1)(a) is the most important in this case. It limits deductible expenses only to those made for the purpose of gaining or producing income; further, such expenses are deductible only to the extent that they are made for such a purpose. Paragraph 18(1)(h) is also important because it clearly states that personal expenses are not deductible.
+[23] The Respondent brought to my attention two decisions which discuss the application of paragraphs 18(1)(a) and (h). The first is the decision of the Supreme Court of Canada in Symes v. Canada, [1993] 4 S.C.R. 695. The second is the decision of Justice Lamarre, as she then was, in Leduc v. The Queen, 2005 TCC 96. After reviewing the relevant portions of Symes, Justice Lamarre summarizes key considerations in applying paragraph 18(1)(a) as follows:
+16 Thus, in order to be deductible as business expenses, the expenses in question must have been incurred “for the purpose of gaining or producing income from the business” within the meaning of paragraph 18(1)(a) of the ITA. The purpose of a particular expenditure is ultimately a question of fact to be decided with due regard for all the circumstances (Symes, supra, paragraph 68). Iacobucci J. referred to some factors to consider in answering such a question. Thus, it may be relevant to consider whether a deduction is ordinarily allowed as a business expense by accountants. That could indicate whether a particular kind of expenditure is widely accepted as a business expense (Symes, supra, paragraph 69). Similarly, it may be relevant to consider whether the expense is one normally incurred by others involved in the taxpayer's business (Symes, supra, paragraph 69). It may also be relevant to consider whether a particular expense would have been incurred if the taxpayer was not engaged in the pursuit of business income. If indeed such is the case, there is a strong inference that the expense has a personal purpose (Symes, supra, paragraph 70).
+17 It may also be helpful to resort to a “business need” test. Would the need exist apart from the business? If a need exists even in the absence of business activity, then an expense incurred to meet the need would traditionally be viewed as a personal expense (Symes, supra, paragraph 73).
+[24] In that particular case, the appellant, a lawyer, sought to deduct legal expenses incurred in defending himself in criminal proceedings relating to sexual assault charges because it was possible that as a result of the criminal proceedings he might at a future date lose his licence to practice law. Justice Lamarre concluded that:
+18 . . . the legal expenses incurred by the appellant to defend himself in the criminal proceedings relating to the sexual assault charges laid against him are personal expenditures. They do not constitute expenses normally incurred by others involved in the appellant’s profession. It can also be inferred from the evidence that if the appellant had not been engaged in his professional activities, he would nonetheless have paid the legal fees to defend himself before the courts against the criminal charges. These factors, analyzed in the context of the circumstances of this case, suggest that the legal expenses at issue cannot be classified as business expenses . . . .
+[25] I note that there is no hard and fast set of factors to consider.
+[26] Before applying these considerations, I shall begin with the following two observations.
+[27] First, I failed to see any basis upon which one could say that the original lawsuit, which was started by the Appellant and his spouse, against the in‑laws is in any way “for the purpose of gaining or producing income from the” Appellant’s proprietorship. There is nothing in the evidence to suggest that there is any link between the sponsorship agreement and the business. In addition, I am unable to see, based on the evidence before me, how at that point one could say that the in‑laws were in breach of the loan agreement. The evidence in front of me is that they had provided the money to the Appellant and that, through the efforts of a paralegal that they retained, they were attempting to obtain greater monthly payments or the return of their money as well as an accounting for the funds provided; there is no breach by the in‑laws at that point in time.
+[28] Thus, that portion of the lawsuit reflected in the original statement of claim is not in any way related to the Appellant’s business. To that extent the legal expenditures are personal expenditures falling within paragraph 18(1)(h) of the Act.
+[29] Secondly, insofar as the Appellant’s spouse is a plaintiff in the original statement of claim and a defendant in the counterclaim and given that the Appellant’s business is a proprietorship in which his spouse has no interest, there is simply no way that that portion of the lawsuit relates to the Appellant’s business. Again, to the extent the legal expenditures relate to the Appellant’s spouse as a defendant, those expenditures are personal expenditures falling within paragraph 18(1)(h) of the Act.
+[30] I now turn to the remaining portion of the lawsuit, the counterclaim, insofar as it relates to the Appellant.
+[31] It is worth emphasizing the fact that, whatever the Appellant’s intended use of the money from the loan prior to using it for his business, nothing in the agreement specifies that the money is to be invested in the Appellant’s proprietorship.[5] The money only went into the Appellant’s business as a result of his decision to use it in that business and as a result of his implementation of the decision; that decision and that action are separate from the loan agreement.
+[32] It is also worth noting that the Appellant was not in the business of investing money for others; the loan arrangement was a private family arrangement.
+[33] Are the legal costs of defending the remaining portion of the lawsuit deductible? Let us consider this in terms of the kind of considerations described in Symes and Leduc, above.
+[34] Is this kind of expense one normally incurred by people in such a business? Undoubtedly, the answer is no since it is one clearly related to particular family arrangements in this case.
+[35] More importantly, the litigation is not directly linked to the business because the money was not loaned for investment in the business. Having agreed in a private family arrangement to invest the money, the Appellant would have had to defend the action in any event. This is seen most clearly if one imagines a situation where A, who is not in the business of investing other peoples’ money, as a favour to his friend B, agrees to invest a sum on behalf of B without any restriction on the nature of the investment. If subsequently a dispute arises, A’s legal expenses would fail the test in paragraph 18(1)(a); the result does not change because A decides to take the money and invest it in his own new proprietorship to, for example, subdivide and sell land.
+[36] Thus, the legal expenses, even to the extent that they relate to the counterclaim insofar as it relates to the Appellant, are not deductible.
+[37] The litigation as a whole is in relation to private family arrangements between the Appellant and the Appellant’s spouse, on one hand, and his in-laws, on the other hand and both paragraphs 18(1)(a) and (h) of the Act apply to prevent the deduction.
+[38] Accordingly, the appeal must be dismissed.[6] Before concluding, I should deal briefly with a procedural issue raised by the Appellant.
+Late Service of the Reply to the Notice of Appeal on the Appellant [39] The Appellant sought to have the Minister of National Revenue’s reply struck out because it was late. On examination, it turned out that the reply was filed with the Court within the 60‑day period provided for in subsection 18.16(1) of the Tax Court of Canada Act. However, the reply was not served on the Appellant within the five‑day period provided for in subsection 6(2) of the Tax Court of Canada Rules (Informal Procedure). Apparently, the reply was mailed to the wrong address, seemingly the previous address of the Appellant.
+[40] When the reply is not filed on time with the Court, there is a sanction provided for in subsection 18.16(4) of the Tax Court of Canada Act and, unless a time extension is granted to the Minister pursuant to that subsection, “the allegations of fact contained in the notice of appeal are presumed to be true for the purposes of the appeal”.
+[41] There is no sanction provided for failing to serve the reply in a timely manner.[7]
+[42] I would note that I am satisfied that the Appellant suffered no prejudice from the late receipt.[8]
+[43] In these circumstances, there is no consequence that should flow from the Appellant’s late receipt of the reply. Finally, I would note that even if the “allegations of fact contained in the notice of appeal” had been “presumed to be true for the purposes of the appeal” that would have had no practical consequence given that the facts of the case are quite clear from the evidence before the Court.
+Conclusion [44] For the above reasons, the appeal is dismissed without costs.
+Signed at Ottawa, Ontario, this 20th day of June 2017.
+“Gaston Jorré”
+Jorré J.
+CITATION:
+2017 TCC 114
+COURT FILE NO.:
+2016-2360(IT)I
+STYLE OF CAUSE:
+PAVEL DANILOV v. THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+February 22, 2017
+DATE OF RECEIPT OF TRANSCRIPT OF HEARING:
+March 22, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+June 20, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John Maskine
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I would just note that there is no dispute that the legal fees in question were paid. The only issue is their deductibility. There is also no dispute that the loan referred to was made. According to the Appellant, in December 2014 the Appellant and his spouse started a second lawsuit against the same defendants but no legal costs relating to that second lawsuit are included in the legal costs claimed here.
+[2] See Tab 5 of Exhibit A‑1.
+[3] See Tab 16 of Exhibit A‑1.
+[4] See Tab 17 of Exhibit A-1.
+[5] Indeed the use of the words “interest investment income” twice above the heading “Loan” in the loan agreement suggests something rather different from investing in the Appellant’s proprietorship.
+[6] As a result, it is not necessary to consider whether paragraph 18(1)(b) would have prevented the deduction.
+[7] See also paragraph 8 of the decision of Justice V.A. Miller in Scott v. The Queen, 2015 TCC 9.
+[8] For two reasons: First, although I asked the Appellant if he suffered any prejudice as a result of the late receipt, he did not indicate any; when asked if he would have gone out and retained counsel he answered that he would not have. See the transcript at pages 54 to 61. Secondly, although the Appellant asserted that he only received the reply two weeks before the hearing, the Court’s electronic file (Appeals System Plus) shows a letter as having been sent to the Appellant on September 27, 2016, over four and a half months prior to the hearing; the letter says that a copy of the reply was attached.

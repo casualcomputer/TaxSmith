@@ -1,0 +1,530 @@
+Title: Rudolph v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29392/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-452-29392-rudolph-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-09-11
+
+# Rudolph v. The Queen
+
+- Citation: 2009 TCC 452
+- Decision date: 2009-09-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6883, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rudolph v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-11
+Neutral citation
+2009 TCC 452
+File numbers
+2004-3357(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3357(IT)G
+BETWEEN:
+DOUGLAS G. RUDOLPH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 22, 23 and 24, 2009, at Halifax, Nova Scotia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John P. Bodurtha and Devon E. Peavoy
+____________________________________________________________________
+JUDGMENT
+The appeal in relation to the reassessment of the Appellant’s 1998 taxation year is allowed, without costs, and the reassessment of the Appellant’s 1998 taxation year is vacated.
+The appeal in relation to the reassessment of the Appellant’s 1999 taxation year is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) the amount of $11,270 is not to be included in the Appellant’s income for 1999 as standby charges and operating cost benefits; and
+(b) in determining the amount payable by the Appellant to Gravel Ridge Investments Inc. (“Gravel Ridge”) in 1999 that was not repaid within the time period as set out in subsection 15(2.6) of the Income Tax Act, the following credits to the shareholders loan account that had not been accepted are to be allowed as credits to the shareholders loan account and reduce the amount payable by the Appellant to Gravel Ridge as of the date of the credits:
+Item Reference
+Date of the Credit
+Amount
+A
+November 16, 1998
+$5,500
+B
+December 8, 1998
+$33,000
+C
+December 11, 1998
+$7,500
+E
+December 31, 1998
+$25,000
+G
+January 13, 1999
+$2,750
+H
+January 13, 1999
+$5,000
+I
+January 21, 1999
+$6,230
+J
+February 19, 1999
+$16,000
+L
+June 17, 1999
+$150,000
+M
+June 29, 1999
+$74,000
+N
+October 28, 1999
+$10,000
+O
+March 3, 2000
+$200,000
+Q
+April 13, 2000
+$7,500
+R
+June 20, 2000
+$29,000
+S
+July 14, 2000
+$5,000
+Additional Credit:
+May 30, 1999
+$249,975
+Total:
+$826,455
+Signed at Ottawa, Canada, this 11th day of September, 2009.
+“Wyman W. Webb”
+Webb J.
+Citation: 2009TCC452
+Date: 20090911
+Docket: 2004-3357(IT)G
+BETWEEN:
+DOUGLAS G. RUDOLPH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant was reassessed to include $1,104,427 in his income in 1999 pursuant to subsection 15(2) of the Income Tax Act (the “Act”). This reassessment arose as a result of the Canada Revenue Agency (the “CRA”) not accepting a number of credits that the Appellant had applied against his shareholders loan account (which resulted in the Appellant owing $1,104,427 to Gravel Ridge Investments Inc. (“Gravel Ridge”) and which was not repaid within the time period as set out in subsection 15(2.6) of the Act). The issue in this case is whether any of the credits that have not been accepted as valid reductions in the amount that the Appellant owed the company should be accepted and therefore reduce the liability of the Appellant to Gravel Ridge. There is also an additional issue with respect to a credit that the Appellant claims was corrected by a subsequent journal entry.
+[2] The Appellant was also reassessed for 1998 to include $10,237 in his income for standby charges and operating cost benefits. For 1999 he was reassessed to include $11,270 in his income for standby charges and operating cost benefits. At the commencement of the hearing the Respondent acknowledged that these amounts were not to be included in the Appellant’s income and therefore the reassessment of the Appellant’s 1998 taxation year is vacated and the amount of $11,270 is not to be included in the Appellant’s income for 1999 as standby charges and operating cost benefits.
+[3] The remaining issue at the hearing was whether some of the credits to the shareholders loan account of the Appellant that were not accepted by the CRA should be recognized as reducing the liability of the Appellant to Gravel Ridge. Several of the credits that were not accepted by the CRA are set out in a letter from the Appellant dated January 31, 2006. After the commencement of the hearing counsel for the Respondent acknowledged that a number of these credits were now being accepted by the Respondent. The Appellant read these into the record at the start of the second day of the hearing. These credits reduce the Appellant's income for 1999 by the amount thereof. The credits that were accepted by the Respondent are the following:
+Item Reference
+Date of the Credit
+Amount
+A
+November 16, 1998
+$5,500
+B
+December 8, 1998
+$33,000
+C
+December 11, 1998
+$7,500
+E
+December 31, 1998
+$25,000
+G
+January 13, 1999
+$2,750
+H
+January 13, 1999
+$5,000
+I
+January 21, 1999
+$6,230
+J
+February 19, 1999
+$16,000
+M
+June 29, 1999
+$74,000
+O
+March 3, 2000
+$200,000
+R
+June 20, 2000
+$29,000
+S
+July 14, 2000
+$5,000
+Total:
+$408,980
+[4] The Appellant, at the hearing, addressed the following credits identified in the letter dated January 31, 2006:
+Item Reference
+Date of the Credit
+Amount
+F
+$70,000
+K
+May 30, 1999
+$500,000
+L
+June 17, 1999
+$150,000
+N
+October 28, 1999
+$10,000
+P
+April 7, 2000
+$80,300
+Q
+April 13, 2000
+$7,500
+Total:
+$817,800
+[5] The item identified as D in the letter dated January 31, 2006 (a credit for $10,000 dated December 17, 1998) was not accepted by the CRA and the Appellant stated that he was not pursuing his claim for this credit.
+[6] The credits in issue are credits applied against the shareholders loan account of the Appellant with Gravel Ridge. In general in order to justify the credit to this account the Appellant would need to demonstrate that he either increased the assets of Gravel Ridge by the amount of the credit or decreased the liabilities of Gravel Ridge by the amount of the credit. Simply showing that the journal entry was made is not sufficient.
+[7] In Trudel-Leblanc v. The Queen, 2003 DTC 257, 2004 DTC 3188, [2005] 2 C.T.C. 2361, Justice Tardif stated that:
+27 ... Too often, some accounting and tax professionals have a tendency to assume that the facts should be shaped by accounting entries whereas, in reality, the figures should reflect the facts, not the contrary.
+[8] In VanNieuwkerk v. The Queen, 2003 TCC 670, [2004] 1 C.T.C. 2577, Associate Chief Justice Bowman (as he then was) stated that:
+6 ... It has been said on many occasions in this Court that accounting entries do not create reality. They simply reflect reality. There must be an underlying reality that exists independently of the accounting entries…
+[9] It is the underlying reality that will determine whether the Appellant has reduced the amount that he owed to Gravel Ridge. His liability to Gravel Ridge is not reduced simply by making a journal entry. His liability to Gravel Ridge will be reduced if he transferred assets to Gravel Ridge or he reduced the liabilities of Gravel Ridge.
+[10] The Appellant described the business of Gravel Ridge as follows:
+MR. RUDOLPH: Gravel Ridge was a company that was set up to basically seek companies to purchase with high upside. They bought and sold receivables. They basically did everything in relation to business consulting and the purchase and sale of business. Anything business related, Gravel Ridge was involved in it.
+[11] When Gravel Ridge was formed there were four shareholders. The Appellant was one of these four shareholders. While he was the controlling shareholder in the beginning he ceased to be the controlling shareholder as the number of shareholders increased. The Appellant stated that at the end there were maybe six or seven or even eight shareholders. It is not clear why the Appellant would not know the number of shareholders of Gravel Ridge. The Appellant did not identify any of the other shareholders of Gravel Ridge. It is not clear whether the appellant was the controlling shareholder of Gravel Ridge in 1999 however the Appellant's role with Gravel Ridge was described by him as “the person who was responsible for seeking the business and facilitating all the deals”.
+F – Credit for $70,000
+[12] The Appellant described the background to this credit as follows:
+MR. RUDOLPH: A-4, the seventy thousand dollar bank draft. Gravel Ridge had been contracted by a company in Sackville, Davis and Davis. They were a personal empowerment company and Gravel Ridge was to handle all the consulting and to help the company raise some bridge capital.
+As has been my history, Your Honour in my whole career, often things are done with a handshake. And when I say that I'll go good on something I do even if the market conditions don't allow it to be done right away, I'm still responsible for it.
+So I had raised or helped to raise some bridge funds for this company. There was a company by the name of Front-Line Investments that put seventy thousand dollars on the table. And basically the agreement was if the company could not repay then I would have to be responsible for the money.
+[13] Initially the Appellant stated that he had guaranteed to Front-Line Investments Ltd. the repayment of the money that it had advanced to Davis and Davis. Later the Appellant stated that Gravel Ridge and he had guaranteed the repayment of this money. There are two issues that arise in relation to this credit. Did the Appellant personally pay the $70,000 to Front-Line Investments Ltd.? If the Appellant did personally make this payment, did the payment of $70,000 to Front-Line Investments Ltd. reduce the liability of Gravel Ridge by this amount?
+[14] The Appellant produced three documents in support of his argument for the credit:
+(a) an unsigned Factoring Agreement between the Appellant and K & K Marsh Consultants Incorporated (“K & K Marsh”) dated January 11, 2001 (which, according to the Appellant, reflected the source of the funds used to pay the $70,000 to Front-Line Investments Ltd. on January 29, 1999);
+(b) a copy of a bank statement from the Royal Bank for 2110956 Nova Scotia Limited for the period from January 29, 1999 to February 26, 1999 in which over 90% of the information is redacted; and
+(c) a copy of a bank draft dated January 29, 1999 payable to Front-Line Investments Ltd. for $70,000.
+[15] Since the payment to Front-Line Investments Ltd. which purportedly gave rise to the credit in the shareholders loan account was made on January 29, 1999, the Factoring Agreement dated almost two years later (January 11, 2001) could not have reflected the source of funds used to pay Front-Line Investments Ltd.
+[16] The mostly redacted account statement (which only had one item that was not redacted – a reference to a cheque for $70,000) only shows that 2110956 Nova Scotia Limited had issued a cheque for this amount. Since the date was redacted as well, it is impossible to determine when the cheque was issued.
+[17] The bank draft does not identify the purchaser of the bank draft. Although it is impossible to read the first part of the reference on the bank draft, the Appellant stated that the reference written on the bank draft was “D G R Accounting Services”, which was the sole proprietorship of the Appellant. This does not confirm the purchaser of the bank draft - it only provides a reference. However since the amount ($70,000) matches the amount of the cheque ($70,000) shown on the account statement for 2110956 Nova Scotia Limited, and since it was the Appellant’s evidence that this bank statement was related to the bank draft, it appears to me that 2110956 Nova Scotia Limited paid Front-Line Investments Ltd., not the Appellant. The Appellant stated that he had borrowed the money personally, transferred the money to 2110956 Nova Scotia Limited and then effectively withdrew the money from 2110956 Nova Scotia Limited. If the Appellant owed the money to Front-Line Investments Ltd. and had borrowed the money to pay Front-Line Investments Ltd., why would the Appellant flow the money in and out of 2110956 Nova Scotia Limited?
+[18] As a result I am not satisfied that the Appellant personally paid $70,000 to Front-Line Investments Ltd. However, even if the Appellant did personally pay this amount to Front-Line Investments Ltd., it is not at all clear how this reduced the liability of Gravel Ridge. The Appellant initially referred to the guarantee as one provided by him personally. If he provided the guarantee, then Gravel Ridge would not have been liable and his payment of his personal obligation would not reduce the liabilities of Gravel Ridge.
+[19] The Appellant later stated that Gravel Ridge had also guaranteed this payment. There was no written documentation to support this guarantee and it was confirmed, as stated by the Appellant, by a handshake. No one from Front-Line Investments Ltd. was called by the Appellant to testify to confirm that Gravel Ridge was also liable. The funds for the bridge financing for Davis and Davis went directly from Front-Line Investments Ltd. to Davis and Davis. It is not clear whether the representatives of Front-Line Investments Ltd. were even aware of the involvement, if any, of Gravel Ridge in arranging this financing.
+[20] The Appellant called three witnesses (in addition to himself). The Appellant called the CRA auditor, Keith Marsh (one of the clients of Gravel Ridge) and Henry Rudolph (the Appellant’s brother).
+[21] Keith Marsh clearly stated during his testimony that his dealings were with the Appellant. During cross examination of Keith Marsh, the following exchange took place:
+Q. Yeah. And I just want you to be careful when you use your language with me, because Douglas Rudolph and Gravel Ridge Investments are two different legal entities. So ---
+A. Okay. Well -- okay. I -- all my dealings were with Douglas Rudolph. Gravel Ridge is a vehicle that I learned that Doug uses as part of his investments.
+[22] It is not clear when Mr. Marsh learned that Gravel Ridge was the vehicle that the Appellant was using. It does appear however that the Appellant was not clear with Mr. Marsh during his dealings with him that Gravel Ridge was actually the company that was involved. There is no reason to believe that the Appellant was any clearer when dealing with the representatives of Front-Line Investments Ltd. and therefore there is nothing to suggest that the representatives of Front-Line Investments Ltd. were even aware of the existence of Gravel Ridge. The evidence presented is insufficient to establish that Gravel Ridge was liable to Front-Line Investments Ltd. for $70,000.
+[23] The bridge financing was advanced by Front-Line Investments Ltd. directly to Davis and Davis who defaulted on the loan. Without a guarantee provided by Gravel Ridge, there is nothing to indicate that Gravel Ridge would be liable to Front-Line Investments Ltd. The only evidence of this guarantee of Gravel Ridge was the statement of the Appellant that Gravel Ridge had guaranteed the payment (which was only made after the initial statement by the Appellant that he was personally responsible). Given Mr. Marsh’s testimony that his dealings were with the Appellant and with no evidence to suggest that the Appellant was any clearer in dealing with Front-Line Investments Ltd., it seems to me that the guarantee provided by the handshake of the Appellant was made by the Appellant and not by Gravel Ridge.
+[24] As a result, the Appellant cannot succeed in relation to his claim for this credit of $70,000 related to the payment to Front-Line Investments Ltd.
+K – Credit for $500,000
+[25] This credit relates to guarantees that the Appellant stated that he had provided by executing a promissory note for $250,000 dated May 31, 1999 to K & K Marsh and another promissory note for $250,000 dated May 31, 1999 to Sirah Consulting Limited (“Sirah”). The Appellant had stated that he and those with whom he was dealing would refer to a promissory note as a guarantee. To date no payments have been made to K & K Marsh or Sirah under these promissory notes.
+[26] These promissory notes relate to the acquisition of shares of a numbered company – 2485969 Nova Scotia Limited. K & K Marsh was one of the investors in this numbered company. Keith Marsh and his wife are the shareholders of K & K Marsh.
+[27] The following exchange took place between the Appellant and Keith Marsh in relation to this:
+Can you tell the Court, in approximately May 1999, what business may have transpired between Gravel Ridge Investments, owned by myself partially, and K&K Marsh Consultants, owned by yourself and your wife?
+A. Yeah. In 1999 it was in the early stages of my knowing you and we were in -- we were doing several meetings, doing investments and transactions. I can't be specific about any particular one, but there were several that went on.
+Q. Okay. That's great. Thank you.
+At the end of May K&K Marsh agreed to buy shares of a numbered company, 2485969 Nova Scotia Limited. Can you recall for the Court the cost of that acquisition of those shares, please?
+A. As I said, there were several at the time. To the best of my memory, that one was two hundred and fifty thousand.
+Q. Yes. Thank you. The two hundred and fifty thousand dollars ($250,000.00), the -- at the time was Gravel Ridge Investments indebted to your company, K&K Marsh Consultants, for approximately that amount of money on any one particular deal?
+A. Can I -- could you rephrase? So that I understand -- "indebted." Do you mean does that company owe me the money?
+Q. Yes. Did Gravel Ridge owe money to K&K Marsh Consultants?
+A. Yes.
+Q. And did Gravel Ridge -- was it a considerable amount of money or a small amount of money?
+A. It was a considerable amount of money.
+Q. Thank you. When the agreement was entered, was there anything special or any additional security that K&K Marsh may have requested when this deal took place?
+A. Yes. We wanted a personal guarantee.
+Q. And from whom did you want the personal guarantee?
+A. From the person who we were talking to, Mr. Rudolph, yourself.
+[28] Keith Marsh described the guarantee as follows:
+THE WITNESS: The guarantee was that the two hundred and fifty thousand dollars ($250,000.00) that we invested as part of the group -- we all invested the same money -- that that capital would be guaranteed. So if the investments didn't materialize as was suggested, that we would have an initial capital return of two hundred and fifty thousand.
+[29] In an e-mail from the Appellant to Keith Marsh dated May 21, 1999, the proposed deal was described as follows:
+Investment in shell – 2485969 Nova Scotia Limited
+Keith, Gary & Grant pay $250K each to purchase 25% (75% in total) of shell 2485969 Nova Scotia Limited.
+The $250K is deferred – if by the end of 5 years each shareholder hasn’t received $500K in annual draws (consulting and dividends) from the shell, the $250K shares will be repurchased.
+The company at present will derive income from two methods:
+1) Consulting fees from placement of money from the $150K clubs or the $75K clubs;
+2) Promotion of the leasing concept – direct sales, franchise sales and royalties.
+The shareholders will receive funds in two different ways:
+1) Net income above $200K will be evenly distributed to the four shareholders as consulting fees;
+2) The $200K will be $164K after tax and these funds will be distributed as dividends.
+- The original amount of $250K will continue to have deductible interest.
+Keith, general info for you. I’m meeting with Richard early next week to finalize share structure.
+Doug
+[30] The e-mail suggests that each shareholder would receive $500,000 in annual draws. In a separate document (which was introduced by Keith Marsh as a document he had received from the Appellant) there is a reference to $500K after 5 years and an annual return on investment of 81.88%. This document also states that:
+These funds are for purchase of shell, no funds are [sic] put in back to company.
+[31] It is not clear what is meant by “no funds are put in back to company”. No explanation of this was provided. In the line above the part referred to above, there is a reference to a $250,000 investment by each of Gary, Grant and Keith and an investment of $0 by Doug.
+[32] Keith Marsh described the proposed investment as follows:
+A. We were putting money together to make up a capital of one million dollars that Mr. Rudolph was going to use for investments, of which one was going to be the leasing.
+[33] A copy of a letter dated October 4, 2007 from the solicitor[1] for the Appellant to counsel for the Respondent was introduced as an Exhibit. Among the documents attached to this letter were the following:
+(a) an unsigned agreement dated June 30, 1999 between Rodney Mullen (as the vendor) and K & K Marsh (as the purchaser) which stated that Rodney Mullen owned 50 common shares of 2485969 Nova Scotia Limited and the purchase price for 25 of these shares was to be $1[2];
+(b) a copy of an unsigned agreement dated June 30, 1999 between Rodney Mullen (as the vendor) and Sirah (as the purchaser) which stated that Rodney Mullen owned 50 common shares of 2485969 Nova Scotia Limited and the purchase price for 25 of these shares was to be $1;
+(c) a copy of an agreement dated June 30, 1999 that appears to be signed by the Appellant on behalf of Gravel Ridge in which it is stated that Gravel Ridge agrees to sell 25 common shares of 2485969 Nova Scotia Limited to 3030267 Nova Scotia Limited for $1.
+[34] Since these agreements were sent by the solicitor for the Appellant to counsel for the Respondent these were presumably the agreements related to the acquisition of the shares of 2485969 Nova Scotia Limited. The purchase price of $1 for the shares of 2485969 Nova Scotia Limited to be acquired by each investor is consistent with this company being a shell company. Therefore it seems to me that the shares of 2485969 Nova Scotia Limited were purchased for $1 and the $250,000 was contributed to 2485969 Nova Scotia Limited as a contribution of capital or as a shareholder loan.
+[35] The Appellant stated that Gravel Ridge had sold shares of 2485969 Nova Scotia Limited to one of the investors (3030267 Nova Scotia Limited) for $250,000 (which would mean that the other two investors would have paid $250,000 each to Rodney Mullen). However this is not consistent with the description of 2485969 Nova Scotia Limited as a shell company or the agreements attached to the letter from the solicitor for the Appellant including the agreement that appears to be signed by the Appellant on behalf of Gravel Ridge indicating that the shares of 2485969 Nova Scotia Limited were sold by Gravel Ridge to 3030267 Nova Scotia Limited for $1 or the description of Keith Marsh in relation to the proposed pooling of $1 million in capital to make investments. It also does not seem logical that a shell company would be purchased from other shareholders for $750,000 (the total of the investment amount by Gary, Grant and Keith) when a new company could be incorporated for a small fraction of this amount.
+[36] As well if the shares would have been sold by Rodney Mullen for $250,000 for 25 shares ($500,000 for 50 shares) and by Gravel Ridge for $250,000 for 25 shares, it would seem logical that an agreement of purchase and sale for these shares reflecting this purchase price would have been prepared. The only agreements submitted were the unsigned agreements stating a purchase price of $1 and the one agreement signed by Gravel Ridge with the same $1 purchase price for shares of 2485969 Nova Scotia Limited. If $500,000 would have been paid to Rodney Mullen and $250,000 to Gravel Ridge, how would 2485969 Nova Scotia Limited (which was described as a shell company) have the capital to invest in the concept leasing business (which was to be one of the businesses to be carried on by 2485969 Nova Scotia Limited) or any other enterprise? From the description of the concept leasing business that was provided it appears that this was to be a new business venture and not an existing operating business.
+[37] As a result I find that the shares of 2485969 Nova Scotia Limited were acquired by K & K Marsh and Sirah for $1 and each investor was to contribute $250,000 to 2485969 Nova Scotia Limited as a contribution of capital or as a shareholder loan.
+[38] K & K Marsh did not have $250,000 in cash. In order to fund this investment, K & K Marsh used the amount payable to it by Gravel Ridge (which included an interest bonus on this debt to increase the amount to $250,000). The Appellant stated as follows:
+MR. RUDOLPH: That's the deal that we've been discussing, the two hundred and fifty thousand dollars and at that time the balance that Gravel Ridge owed K&K Marsh from this summary was two hundred and thirty-three thousand zero twenty‑nine thirty two.
+It was agreed between Mr. Marsh and myself that Gravel Ridge would offer an interest bonus. It would move that amount to two hundred and fifty thousand dollars so that K&K Marsh would have the money to cover off the share agreement with 2485969 Nova Scotia Limited.
+So at that time, Your Honour, it was agreed that -- and there is a third party involved and I'm trying to keep things simple -- it was agreed that Gravel Ridge Investments no longer owed K&K Marsh two hundred and fifty thousand dollars.
+They were getting the benefit of the shares valued at two hundred and fifty thousand dollars in 2485969 Nova Scotia Limited and there was a performance clause with that company. But the issue became and the issue that's before the Court if I ask Your Honour to refer to Respondent's Book I, Tab 7, page 2.
+Halfway down the page approximately you'll see May 30th, '99, K&K Marsh Consultants, share two hundred and fifty thousand dollars. All that happened, Your Honour, is that Mr. Marsh on behalf of K&K Marsh Consultants agreed with myself on behalf of Gravel Ridge that Gravel Ridge no longer owed K&K Marsh any money.
+And the reason they no longer owed K&K Marsh any money was because I immediately assumed that debt with a promissory note/bank or a personal guarantee so that no matter what went on in the future K&K Marsh Consultants always had me personally on the hook for the two hundred and fifty thousand dollars as Mr. Marsh testified yesterday. And it remains to this day.
+[39] However it seems to me that the reason why Gravel Ridge no longer owed $250,000 to K & K Marsh was that K & K Marsh had converted that debt into shares of 2485969 Nova Scotia Limited (or shares and debt of this company). It does not seem to me that the deal was that K & K Marsh would have both the shares of the numbered company (with its proposed returns of 81.88% annually) and the debt of $250,000.
+[40] The numbered company did not perform as anticipated and by letter dated June 1, 2002, the Appellant, as President of 2485969 Nova Scotia Limited stated in a letter to the other investors as follows:
+Re: Purchase and Sale Agreement dated June 30, 1999
+This letter is to inform you that the company could not meet the conditions as outlined in the above agreement. The market saturation of used vehicles has been detrimental to our “Concept Leasing Strategy”.
+Pursuant to the above agreement, I have instructed our lawyer to cancel the share certificates issued to you.
+[41] This letter, written June 1, 2002, suggests that it was not until then that it was determined that 2485969 Nova Scotia Limited would not be able to meet the conditions set out in the agreement dated June 30, 1999.
+[42] By letter dated December 31, 2003 the Appellant wrote to Keith Marsh and his wife and stated as follows:
+Please accept this letter as notification, that as a condition of our verbal agreement, our group will be reacquiring the shares that you hold of 2485969 Nova Scotia Limited.
+The purchase price will be equal to your original cost of Two Hundred and Fifty Thousand Dollars ($250,000).
+I intend to affect this purchase by December 31, 2004.
+[43] It seems to me that K & K Marsh simply converted the amount that was payable by Gravel Ridge to K & K Marsh ($250,000 after the interest bonus) into shares of 2485969 Nova Scotia Limited and the Appellant personally guaranteed the return of this amount to K & K Marsh if the numbered company did not meet the required conditions. K & K Marsh needed $250,000 to fund its obligation in relation to the acquisition of the shares of 2485969 Nova Scotia Limited. Since the shares were acquired for $1, the $250,000 must have been part of the working capital requirements for this company and contributed to this company as a capital contribution in relation to the shares or as a shareholder loan. It appears that K & K Marsh satisfied its obligation to contribute $250,000 by transferring to 2485969 Nova Scotia Limited the amount that was payable to K & K Marsh by Gravel Ridge. As a result, the $250,000 was no longer owing by Gravel Ridge to K & K Marsh but was then owing to 2485969 Nova Scotia Limited.
+[44] This appears to be the logical conclusion from the statements that K & K Marsh was to contribute $250,000 to 2485969 Nova Scotia Limited (as part of the $1 million pool of capital), the reference in the above letter from the Appellant dated December 31, 2003 to the cost of $250,000 for the shares of 2485969 Nova Scotia Limited, and the references by the Appellant and Keith Marsh to K & K Marsh using the amount that was payable to it by Gravel Ridge to fund this obligation. There was no evidence to indicate whether this amount had been paid by Gravel Ridge to 2485969 Nova Scotia Limited.
+[45] Therefore, at the time that K & K Marsh acquired its investment in 2485969 Nova Scotia Limited, the liability of Gravel Ridge was not reduced but the amount was simply payable to a different person (2485969 Nova Scotia Limited).
+[46] There is nothing to indicate that Gravel Ridge had also guaranteed the repayment of the $250,000 to K & K Marsh. Even if Gravel Ridge had also guaranteed the return of $250,000 to K & K Marsh if the investment did not materialize, the execution by the Appellant of the promissory note dated May 31, 1999 does not justify the credit as the Appellant has not made any payments under the note. If Gravel Ridge had made such a guarantee, then Gravel Ridge would presumably still be liable under the guarantee as K & K Marsh has not received any portion of its $250,000 back.
+[47] As a result the execution by the Appellant of the promissory note dated May 31, 1999 (which the Appellant stated was in effect a guarantee) did not reduce the liability of the Appellant to Gravel Ridge and will not reduce the amount that has been included in the Appellant’s income pursuant to subsection 15(2) of the Act.
+[48] The balance of the $500,000 credit is related to Sirah, another investor in 2485969 Nova Scotia Limited. The only difference between the facts related to Sirah and K & K Marsh is that Sirah appears to have contributed some cash (in addition to the amount that was payable by Gravel Ridge to Sirah).
+[49] The Appellant introduced a schedule indicating that Gravel Ridge owed Sirah $98,532.50 as of May 30, 1999 as a result of three separate factoring agreements. Two of the factoring agreements were introduced into evidence. Each factoring agreement identified Gravel Ridge as the Vendor and Sirah as the Purchaser and stated that the Purchaser was buying the receivables listed in Schedule “A”, but no Schedule “A” was attached. The agreements also provided that the Vendor (Gravel Ridge) agreed to pay the initial purchase price plus the return on investment on the due date. The following were the amounts owing by Gravel Ridge to Sirah based on this schedule:
+Date of the Factoring Agreement
+Purchase Price (Amount borrowed by Gravel Ridge)
+Interest
+Amount Payable by Gravel Ridge on May 30, 1999
+Annual Interest as a percentage of the amount borrowed by Gravel Ridge
+February 12, 1999
+$28,500
+$ 5,082.50
+$33,582.50
+61%
+March 8, 1999
+$30,000
+$ 4,150.00
+$34,150.00
+61%
+March 19, 1999
+$27,500
+$ 3,300.00
+$30,800.00
+61%
+$86,000
+$12,532.50
+$98,532.50
+[50] When expressed as an annual rate of interest, the interest rate appears high.
+[51] Gravel Ridge was also indebted to 3027416 Nova Scotia Limited in the amount of $200,400. One of the shareholders of this company (who owned 50% of the shares of this company) also owned the shares of Sirah and he directed that $100,000 of the amount owing to 3027416 Nova Scotia Limited be used to fund $100,000 of the amount required to invest in 2485969 Nova Scotia Limited.
+[52] As a result, the following amounts payable by Gravel Ridge were used to fund the investment of Sirah in 2485969 Nova Scotia Limited:
+Amount payable to Sirah:
+$98,532.50
+Amount payable to 3027416 Nova Scotia Limited
+$100,000.00
+$198,532.50
+[53] The balance of $250,000 - $198,532.50 = $51,467.50 was paid by Sirah in two cheques – one for $18,500 on June 3, 1999 and the balance of $32,967.50 on June 4, 1999. Presumably both of these amounts were transferred to 2485969 Nova Scotia Limited since Sirah was to contribute $250,000 to 2485969 Nova Scotia Limited.
+[54] As with K & K Marsh, the amounts payable by Gravel Ridge appear to have been used to fund (in this case, part of) the $250,000 investment amount that Sirah was to pay to 2485969 Nova Scotia Limited. Although it is not entirely clear, it appears that Sirah and 3027416 Nova Scotia Limited simply assigned their collective right to receive $198,532.50 from Gravel Ridge to 2485969 Nova Scotia Limited. As a result the $198,532.50 would then be payable by Gravel Ridge to 2485969 Nova Scotia Limited. Sirah paid its required investment by assigning its receivable (that was payable by Gravel Ridge), by causing 3027416 Nova Scotia Limited to assign its receivable (that was payable by Gravel Ridge) to 2485969 Nova Scotia Limited and by contributing the balance in two cheques. This seems to be the logical conclusion from the evidence of the Appellant.
+[55] As a result the debt of Gravel Ridge was not extinguished but simply was now payable to 2485969 Nova Scotia Limited and Sirah owned shares in this company. The Appellant had simply provided a guarantee that if the investment did not materialize he would pay Sirah $250,000. The Appellant stated that the reference to a promissory note was interchangeable with a guarantee. The execution of the promissory note by the Appellant on May 31, 1999 did not relieve Gravel Ridge of its obligation to pay $198,532.50 to 2485969 Nova Scotia Limited and does not justify a credit of $250,000 to the shareholders loan account.
+[56] Even if Gravel Ridge had also guaranteed the return of $250,000 to Sirah if the investment did not materialize, simply executing the promissory note does not justify the credit as the Appellant has not made any payments under the note. If Gravel Ridge had made such a guarantee, then Gravel Ridge would presumably still be liable under the guarantee as Sirah has not received any portion of its $250,000 back.
+[57] As a result the Appellant cannot succeed in relation to his claim for a credit of $500,000 (consisting of the two separate credit amounts of $250,000 each) related to the promissory notes for $250,000 each executed by the Appellant in favour of K & K Marsh and Sirah and dated May 31, 1999.
+L – Credit for $150,000
+[58] Both the Appellant and his brother testified in relation to this credit. Henry Rudolph (the Appellant’s brother) and the Appellant both stated that Henry Rudolph sold shares of Town Delivery Services to 3028683 Nova Scotia Limited for $400,000 which was paid as follows:
+Paid to Henry Rudolph by cheques:
+$ 204,000
+Paid to 2485969 Nova Scotia Limited as a consulting fee:
+$ 46,000
+Balance payable to Henry Rudolph:
+$ 150,000
+[59] The Appellant stated that Henry Rudolph had gifted this balance payable of $150,000 to the Appellant and that he in turn had transferred this right to receive $150,000 to Gravel Ridge (who used this receivable to purchase shares in 3028683 Nova Scotia Limited – the company that purchased the shares of Town Delivery Services from Henry Rudolph). The Appellant’s brother repeatedly confirmed that he was gifting the amount to his brother but he also stated that:
+THE WITNESS: Conditions. Some day, I guess, it was going to be repaid, hopefully.
+…
+Q. Okay. And you testified that you expect to be repaid this hundred and fifty thousand dollar ($150,000.00) amount?
+A. Some day when he can do it I'm sure he will.
+Q. And at present has he made any payment in relation to the hundred and fifty thousand dollars ($150,000.00)?
+A. No.
+[60] These statements indicate that it may have been a loan and not a gift. However for the purposes of this appeal nothing turns on whether Henry Rudolph lent the Appellant this property or gave him this property. In either case, it would appear that this property (the right to receive $150,000 from 3028683 Nova Scotia Limited) was transferred from Henry Rudolph to the Appellant. The position of the Respondent is that since no cash exchanged hands, there could not be a gift or a transfer. However it seems to me that a person can gift any property which would include a right to receive a payment.
+[61] In Hickman Motors Ltd. v. Her Majesty the Queen, [1997] S.C.J. No. 62, Justice L’Heureux-Dubé of the Supreme Court of Canada made the following comments in relation to an Appellant's onus of “demolishing” the Minister’s assumptions:
+92 It is trite law that in taxation the standard of proof is the civil balance of probabilities: Dobieco Ltd. v. Minister of National Revenue, [1966] S.C.R. 95 (S.C.C.), and that within balance of probabilities, there can be varying degrees of proof required in order to discharge the onus, depending on the subject matter: Continental Insurance Co. v. Dalton Cartage Ltd., [1982] 1 S.C.R. 164 (S.C.C.); Pallan v. Minister of National Revenue (1989), 90 D.T.C. 1102 (T.C.C.) at p. 1106. The Minister, in making assessments, proceeds on assumptions (Bayridge Estates Ltd. v. Minister of National Revenue (1959), 59 D.T.C. 1098 (Can. Ex. Ct.), at p. 1101) and the initial onus is on the taxpayer to “demolish” the Minister's assumptions in the assessment (Johnston v. Minister of National Revenue, [1948] S.C.R. 486 (S.C.C.); Kennedy v. Minister of National Revenue (1973), 73 D.T.C. 5359 (Fed. C.A.), at p. 5361). The initial burden is only to “demolish” the exact assumptions made by the Minister but no more: First Fund Genesis Corp. v. R. (1990), 90 D.T.C. 6337 (Fed. T.D.), at p. 6340.
+93 This initial onus of “demolishing” the Minister's exact assumptions is met where the Appellant makes out at least a prima facie case: Kamin v. Minister of National Revenue (1992), 93 D.T.C. 62 (T.C.C.); Goodwin v. Minister of National Revenue (1982), 82 D.T.C. 1679 (T.R.B.). In the case at bar, the Appellant adduced evidence which met not only a prima facie standard, but also, in my view, even a higher one. In my view, the Appellant “demolished” the following assumptions as follows: (a) the assumption of “two businesses”, by adducing clear evidence of only one business; (b) the assumption of “no income”, by adducing clear evidence of income. The law is settled that unchallenged and uncontradicted evidence “demolishes” the Minister's assumptions: see for example MacIsaac v. Minister of National Revenue (1974), 74 D.T.C. 6380 (Fed. C.A.), at p. 6381; Zink v. Minister of National Revenue (1987), 87 D.T.C. 652 (T.C.C.). As stated above, all of the Appellant's evidence in the case at bar remained unchallenged and uncontradicted. Accordingly, in my view, the assumptions of “two businesses” and “no income” have been “demolished” by the Appellant.
+94 Where the Minister's assumptions have been “demolished” by the Appellant, “the onus shifts to the Minister to rebut the prima facie case” made out by the Appellant and to prove the assumptions: Magilb Development Corp. v. Minister of National Revenue (1986), 87 D.T.C. 5012 (Fed. T.D.), at p. 5018. Hence, in the case at bar, the onus has shifted to the Minister to prove its assumptions that there are “two businesses” and “no income”.
+95 Where the burden has shifted to the Minister, and the Minister adduces no evidence whatsoever, the taxpayer is entitled to succeed: see for example MacIsaac, supra, where the Federal Court of Appeal set aside the judgment of the Trial Division, on the grounds that (at pp. 6381-2) the “evidence was not challenged or contradicted and no objection of any kind was taken thereto”. See also Waxstein v. Minister of National Revenue (1980), 80 D.T.C. 1348 (T.R.B.); Roselawn Investments Ltd. v. Minister of National Revenue (1980), 80 D.T.C. 1271 (T.R.B.). Refer also to Zink v. Minister of National Revenue, supra, at p. 653, where, even if the evidence contained “gaps in logic, chronology and substance”, the taxpayer's appeal was allowed as the Minster failed to present any evidence as to the source of income. I note that, in the case at bar, the evidence contains no such “gaps”. Therefore, in the case at bar, since the Minister adduced no evidence whatsoever, and no question of credibility was ever raised by anyone, the Appellant is entitled to succeed.
+96 In the present case, without any evidence, both the Trial Division and the Court of Appeal purported to transform the Minister's unsubstantiated and unproven assumptions into “factual findings”, thus making errors of law on the onus of proof. My colleague Iacobucci J. defers to these so-called “concurrent findings” of the courts below, but, while I fully agree in general with the principle of deference, in this case two wrongs cannot make a right. Even with “concurrent findings”, unchallenged and uncontradicted evidence positively rebuts the Minister's assumptions: MacIsaac, supra. As Rip T.C.J., stated in Gelber v. Minister of National Revenue (1991), 91 D.T.C. 1030 (T.C.C.), at p. 1033, “[the Minister] is not the arbiter of what is right or wrong in tax law”. As Brulé T.C.J., stated in Kamin, supra, at p. 64:
+the Minister should be able to rebut such [prima facie] evidence and bring forth some foundation for his assumptions.
+…
+The Minister does not have a carte blanche in terms of setting out any assumption which suits his convenience. On being challenged by evidence in chief he must be expected to present something more concrete than a simple assumption. [Emphasis added by Justice L’Heureux Dubé.]
+[62] Following the testimony of the Appellant and his brother in relation to the gift / transfer of the $150,000 receivable by Henry Rudolph to the Appellant, then to Gravel Ridge and then to 3028683 Nova Scotia Limited for shares, the only evidence adduced by the Respondent was that the auditor did not accept this credit because the $150,000 was not paid in cash. The auditor for the CRA testified as follows:
+A. 302 ‑‑ let me see if I have this number right ‑‑ 3028683 Nova Scotia Limited was going to be the share purchaser of Henry Rudolph's trucking company's shares that he owned personally.
+The agreement was that those shares were worth four hundred thousand dollars ($400,000), that 3028683 would have to have proceeds or cash put into its bank account to cover the payment of the two hundred and four thousand to Henry Rudolph and forty-six thousand to 248 in relation to ‑‑ the 248 company in relation to some kind of fees associated with the arrangement.
+And a hundred and fifty thousand of those proceeds was to remain in the bank account of 3028683 as per the request of Henry Rudolph, and that was an arrangement made to ‑‑ because some of the other shareholders of 3028683, they would not invest in this trucking company unless Gravel Ridge Investments put money in and was at risk as well.
+So, as part of this whole arrangement it was agreed that Henry would leave a hundred and fifty thousand in to provide for that but he ‑‑ the hundred and fifty thousand was to be gifted to Doug personally first and in order for him to get the credit it was for ‑‑ to allow for Gravel Ridge Investments to acquire a hundred and fifty thousand worth of treasury shares of 3028683 to fulfil the arrangement with these other parties.
+Q. Okay. So, that was your understanding. What did you want to see in order to verify that Mr. Rudolph was entitled to this hundred and fifty thousand dollar ($150,000) credit?
+A. In order to confirm this arrangement I would require the bank statements of 3028683 Limited to confirm that four hundred thousand dollars ($400,000) was in its bank account as at the transaction date and that ‑‑ so that two hundred and fifty thousand would be provided as payment to Henry Rudolph and 248, the 248 company, and that a hundred and fifty thousand remained in the bank account of 3028683 to provide for the ‑‑ to complete the gifting which ‑‑ again the gifting to Doug which he is really providing to Gravel Ridge Investments to allow it to acquire shares of this company to meet this obligation.
+This ‑‑ I'll put it to you this way. This appears to simplify a series of cheques being written. The hundred and fifty thousand in proceeds could have been paid to Henry Rudolph, he could have wrote a cheque to Doug Rudolph, Doug Rudolph could have wrote a cheque to Gravel Ridge Investments and Gravel Ridge Investments could have wrote a cheque to 3028683 to allow it to acquire those treasury shares of a hundred and fifty thousand, but this shortened it all, if you will.
+Q. Right. Okay. So, why ‑‑ maybe you can take what you've just said and tell us why you needed to see four hundred thousand dollars ($400,000) in the ‑‑‑
+A. In order to ‑‑‑
+Q. ‑‑‑ 302 company.
+A. Sorry. To ensure that the transactions are what they say they are, there has to be four hundred thousand dollars' ($400,000) worth of these proceeds in 3028683, so ‑‑ and that two hundred and fifty were paid out not to Doug personally, but to complete the gifting there has to be a hundred and fifty thousand that remains in the bank account of 3028683 at that time.
+[63] The right of Henry Rudolph to receive $150,000 from 3028683 Nova Scotia Limited is a property that can be gifted. This right to receive this amount could be gifted (or lent) whether 3028683 Nova Scotia Limited had $150,000 in cash or in other assets. The Respondent did not challenge the valuation of this right and upon the Appellant leading evidence the Respondent did not rebut that evidence but put forward the proposition that the gift could only occur if 3028683 Nova Scotia Limited had $150,000 in cash. It was the right to receive payment of $150,000 that was gifted, not the cash. As a result the Appellant is entitled to succeed in relation to this credit for $150,000.
+N – Credit for $10,000
+[64] The Appellant provided two different explanations for this credit – one during discovery examinations and another at the hearing. At the discovery examination the Appellant stated that:
+Q. The next item is item N.
+A. Yes.
+Q. And this is an amount for $10,000
+A. Right. Yeah, and unfortunately what I was referring to about the –about the timing, this - this company was the investment club, and one of the payments that we had made to the gentleman in New Brunswick would have been made personally by me, and this would have just been a reimbursement of those funds. So basically what I did, as I’ve stipulated in the explanation, instead of having the company write the cheque to me and then me write the cheque to Gravel Ridge, I just asked them to make the cheque payable to Gravel Ridge, and I just increased my shareholder - so cash got debited and the shareholder loan got credited. And keep in mind, John, that after we've gone through all of this..."
+…
+Q. Now, in terms of the third party you’re referring to, these are the quarry people up in New Brunswick. Is that who you’re referencing?
+A. Well – oh, yeah, I’m referring to the investment Club that when we went up – some of the money that was paid to these guys came from my own pocket. So it was just reimbursed.
+…
+A. Yeah, the 10,000. It’s just part of the 35,111 deposit,.
+Q. On the bank statement here, yeah.
+…
+A. This is money that – with the investment club with that deal that was structured, I would have given these guys some of my own money. So this was just the investment club reimbursing me that $10,000, and instead of them writing a cheque to me and then me writing the cheque to Gravel Ridge, I just had them write the cheque to Gravel Ridge to repay funds owed to me as a reimbursement.
+[65] At the hearing he stated as follows:
+MR. RUDOLPH: Thank you. If I could ask Your Honour to go back to the Respondents Book I, Tab 7 again please. We are on page 3. And just about a quarter of the way down, we're looking for October 28th, 1999 Your Honour.
+And it says 3028683 Re: Jen. Cheque 5, J294 and there's a credit of ten thousand dollars. So that is the item that we have in question that I've added to my shareholder account.
+What was happening at the time, Your Honour, 3028683 Nova Scotia Limited was buying into a physiotherapy clinic that was being set up by Jennifer Williamson. And knowing Ms. Williamson for a long time and being intimately involved with all parties what Gravel Ridge did, Your Honour, if we go one page earlier and we're looking at the bottom of the page the third line item up, you will notice August 20, 1999.
+And it says "Advance, Jennifer Williamson, cheque 288, Journal 240" for five thousand dollars.
+…
+MR. RUDOLPH: Okay. So Your Honour, that was five thousand dollars that Gravel Ridge paid to Ms. Williamson as part of the buy-in for the physio clinic on behalf of 3028683. And if you flip the page, Your Honour, to page 3 ---
+HIS HONOUR: Okay, they were buying on behalf of 302, why was there a debit to your shareholder loan account?
+MR. RUDOLPH: At the time Your Honour, 302 probably didn't have the money in the account. So Gravel Ridge on behalf of 302 made the first advance to Ms. Williamson.
+Or at the time, Your Honour, it could have been a deal that Gravel Ridge -- that personally I was going to do. And then when I talked to the other members of 3028683 it may have been agreed that they all wanted to be involved.
+So 302 would actually do the buy in as opposed to Doug Rudolph personally. And Your Honour I apologize to the Court but after ten years I'm not exactly sure which one of those would be the correct response. So again Your Honour on page 2 at the bottom of -- sorry, Your Honour, Respondents Book I, Tab 7, page 2 at the bottom three items up we've got the advance to Jennifer Williamson for five thousand.
+And again I note this was -- even though the cheque was written by Gravel Ridge investments the cheque was debited to the shareholder account. It was never put in as an expense to the company or an asset of the company of Gravel Ridge Investments.
+It went against my shareholder account as if Doug Rudolph was drawing the money. And then Your Honour if we flip the page and go to page 3 and we look at five items down we'll see September 27th, 1999 entry. September - 2/'99, Jennifer Williamson, cheque 304, J268, another five thousand dollar debit to my shareholder account.
+So Ms. Williamson has received ten thousand dollars from Gravel Ridge Investments but the ten thousand dollars came -- sorry, the ten thousand dollars from Gravel Ridge Investments was debited to my shareholder account.
+And Your Honour, if we go down just ten or 11 items and we come back to the October 28th, 3028683 Re: Jen, cheque 5, 294 for ten thousand, that is the Exhibit A-10 that you have in front of you. That is 3028683 reimbursing that ten thousand dollars.
+But since the debits came from my shareholder account and I would have requested the company write the cheque -- sorry, I would have requested that 3028683 Nova Scotia Limited write the cheque to Gravel Ridge what I'm suggesting, Your Honour, is that since the two debits came from my shareholder account that the ten thousand dollar credit should go to my shareholder account as well.
+Your Honour, I have nothing else on that item.
+[66] The common ground for the two explanations is that the $10,000 represented a reimbursement to which the Appellant was entitled. A copy of the cheque from 3028683 Nova Scotia Limited payable to Gravel Ridge for $10,000 was introduced as an exhibit.
+[67] Since the journal entry in question refers to “3028683 Re: Jen” it seems more likely than not that the $10,000 related to the proposed deal with Jennifer Williamson. The credit was small compared with the amount included in the Appellant’s income (less than 1% of the $1,104,427 that was added to the Appellant’s income) and with the number of deals that the Appellant was working on it seems that he could easily have been mistaken at discovery.
+[68] I accept the Appellant’s explanation provided at the hearing and I will allow this credit of $10,000 to reduce the amount payable by the Appellant to Gravel Ridge. It appears that 3028683 Nova Scotia Limited was repaying the amount of $10,000 that had been charged to his shareholders loan account (and presumably should have been debited to a loan account for this company).
+P – Credit for $80,300
+[69] The Appellant submitted an unsigned factoring agreement together with mostly redacted bank records to support the Appellant’s testimony that Norman and Jan Bayers had advanced $118,000 to Gravel Ridge on July 12, 1999. I accept that Gravel Ridge borrowed $118,000 from the Bayers in 1999. The Appellant’s explanation for the $80,300 credit was that Norman and Jan Bayers had agreed to reimburse the Appellant in the amount of $80,300 for expenses that the Appellant had incurred in relation to a quarry project in New Brunswick. The Appellant’s explanation was in part as follows:
+….
+What we had decided was that they were very interested in the quarry project. I met with them on several occasions and explained everything that had been done and what the plan was. And they agreed that they would like to participate in that venture that I was doing personally.
+That the members of 3028683 Nova Scotia Limited were involved with. There was another company Your Honour, I think it was 3028051 Nova Scotia Limited. I had some family members involved, I had some friends involved. A lot of people were very excited about it.
+So what I'm going to reference, Your Honour, to is Respondents Book I, page 3 where we had just talked about Kingsway Materials, if you go down just a little bit farther Your Honour you'll notice an entry for 7 April, '00 to correct note adjustment J92 and eighty thousand three hundred dollars.
+What was agreed between myself and the Bayers was very simple. Eighty thousand three hundred dollars that was owed to them by Gravel Ridge Investments would be removed from the books of Gravel Ridge Investments, no longer be due from or Gravel Ridge Investments would be indebted to them in that amount.
+The shareholder loan was credited for eighty thousand three hundred and Mr. and Mrs. Bayers were now participating in this venture, kind of a collective venture, Your Honour, that a lot of people were involved in and excited about.
+[70] However there was no document signed by the Bayers confirming that $80,300 of the amount payable to them by Gravel Ridge was to be transferred to the Appellant nor did either Norman or Jan Bayers testify during the hearing. It appears that the original factoring agreement was in writing so why would an assignment of the amount payable not also be in writing? It seems to me that the other shareholders of Gravel Ridge would want to know that Gravel Ridge no longer owed the Bayers $80,300. The Appellant stated that he did many deals by a handshake including this deal with the Bayers. If a significant amount of debt ($80,300) is transferred from one creditor to another creditor of Gravel Ridge, it seems to me that it would be very important to hear from the person who is transferring the debt. Without hearing from Norman or Jan Bayers or having anything in writing from them, the Appellant cannot succeed in relation to this claim. The journal entry is not proof that the debt was transferred.
+Q - Credit for $7,500
+[71] The Appellant stated that this reflected a payment of $7,500 that the Appellant made personally to Avon Bayers as partial payment of the amount that Gravel Ridge owed to Avon Bayers. A copy of the personal cheque of the Appellant payable to Avon Bayers for $7,500 was introduced as an exhibit. The Appellant has satisfied the onus on him with respect to this claim and therefore the Appellant will be entitled to the credit for $7,500 in determining the amount payable by him to Gravel Ridge.
+Additional Submissions with respect to a credit for $250,000
+[72] The Appellant raised an additional submission in relation to a credit for $250,000 that had been denied. This was not raised by the Appellant in the letter dated January 31, 2006 however this letter does include the following near the end of the letter:
+The supporting documentation represents shareholder deposits of $1,236,780.07. There are more, however, this amount is greater than the amount added to my personal income for 1999.
+[73] The Notice of Appeal filed by the Appellant is brief. The part of the Notice of Appeal that addresses the issue of the shareholder loan amounts included in income consists of the following:
+The auditor has stated I received a loan or incurred debt from/with a corporate entity of $1,104,427 that should be added to my 1999 income. This amount represented funds that I deposited to the account myself. Funds were deposited to the business account and then withdrawn as needed. The company did not generate enough revenue or increase it’s debt to support the auditor’s findings. The auditor, in his calculations, added the draws from the bank account but did not include the majority of the deposits made. I provided all original documentation but the decision was confirmed. There was no information to support that these amounts were anything other than the same amounts deposited and withdrawn and the decision was still confirmed.
+I respectfully submit that there should be no addition to my 1999 income, given the documentation supporting my deposits – which were ignored by the auditor – were for an amount greater than the amount used by the auditor.
+[74] It is clear from the evidence presented at the hearing that the issue in this case related to the denial of the credits to the shareholders loan account and that not all of the credits in issue arose as a result of deposits that had been made by the Appellant. It is also clear that the Respondent did not object to the Appellant raising issues with respect to credits that did not arise as a result of deposits that were made. The Respondent did not deny that this credit of $250,000 had been denied. The only objection raised by the Respondent was that the Appellant had not raised the issue related to this credit earlier.
+[75] In “The Law of Civil Procedure” by Williston and Rolls, it is stated at page 638 that:
+A party is bound by his pleadings and his case is confined to the issues raised by the pleadings. The consequence of failure to raise a matter in the pleadings may be that the point will not be open at the trial or on appeal.
+[76] In “Canadian Civil Procedure Law” by Abrams and McGuiness, it is stated at page 366 that:
+5.10 Case law around the Commonwealth takes a fairly standard view of the function of pleadings, and the limitations that they impose on the availability of relief. As noted above, in general, the purpose of pleadings is: to define the issues in dispute, to give notice to the other side of the case to be met; to inform the court of the matters in issue; to provide a permanent record of the issues raised; and to define the scope of discovery.
+[77] The Notice of Appeal filed by the Appellant does indicate that the issue relates to the failure of the CRA auditor to “include the majority of the deposits made”. As noted, although the Appellant referred to “deposits” it is clear that the issue is related to the failure of the CRA auditor to include the credits to the shareholders loan account, not all of which related to deposits that were made by the Appellant. The Respondent would be aware that this credit was one of the credits that had been denied.
+[78] As a result in my opinion, the Appellant can raise the issue of this additional credit.
+[79] The Appellant at the hearing introduced into evidence an e-mail that he received on June 22, 2009 (after the hearing had commenced) from Grant Veroba. Mr. Veroba’s e-mail address, the subject and the name of the attachment were all redacted.
+[80] In my opinion no weight can be given to this e-mail. Most of the comments relate to the personal guarantee provided by the Appellant. However, the personal guarantee provided by the Appellant to Grant Veroba’s company was not related to any credit that was in dispute and in relation to which the Appellant provided any evidence or made any submissions. The statements in the e-mail related to the purchase of shares in 2485969 Nova Scotia Limited would have to be subjected to cross examination before any weight could be given to them. There is a reference to a share purchase agreement and a purchase price of $250,000 but the only agreement that was admitted into evidence indicates that the purchase price for the shares was $1. Redacting the e-mail address does not assist the Appellant. As a result, no weight will be given to this e-mail.
+[81] The Appellant’s position is that the credit for $250,000 was adjusted (corrected) by a subsequent debit to the shareholders loan account for $249,975. The first entry (J130 - which gave rise to a credit to the shareholder’s loan account) was made on May 30, 1999 and reflected a debit to accounts receivable of $250,000 and a credit to “due to shareholder” of $250,000. The explanation was “Share ? Nova Scotia Limited”. The Appellant stated that ? Nova Scotia Limited was 2485969 Nova Scotia Limited and that when he made the entry he knew it was a numbered company but did not know the number.
+[82] The second entry (J338) was made on June 30, 1999 and reflected a debit to investments of $25, a debit to “due to shareholder” of $249,975 and a credit to investment of $250,000. The entry indicated that it was “to record sale of shares in 2485969 Nova Scotia Limited”.
+[83] The Appellant’s explanation for the two entries was as follows:
+MR. RUDOLPH: Gravel Ridge was indebted to all three of these companies. As we've -- as I've given evidence specifically for Sirah and K&K Marsh Consultants the number was two hundred and fifty thousand dollars in relation to this transaction. Also indebted to Mr. Veroba.
+Mr. Veroba was going to buy shares -- or sorry, Mr. Veroba's company 3030267 actually bought their shares from Gravel Ridge. Mr. Marsh and Mr. Sweetman bought shares from another party.
+So if you look at -- if we're back on that tab 7, page 3 -- sorry, page 2 of Respondents Book I, the three two fifties were entered so that everyone was being treated the same way. The guarantees, the deal, the shares everything was great.
+And I'm expecting, Your Honour, because the adjusting entry was the 30th and that's the date that the share issues were done by the lawyer, I'm suggesting that I was -- I may have been reminded or I may have forgotten or I made an error with the entry that Mr. Veroba's company 3030267 was actually buying the shares from Gravel Ridge Investments.
+What that meant, Your Honour, is that Gravel Ridge actually had to show the income, the revenue for the sale of those shares. So what we're looking at and yesterday we talked about Exhibit A-2 which Your Honour do you still have A-2 there somewhere?
+HIS HONOUR: I have A-2 yes.
+MR. RUDOLPH: So in Exhibit A-2 the two journal entries in question, the journal 130 and the journal 338 it wasn't a reversal. It was a correction. It had to accurately reflect in the company's books what had transpired.
+And what had transpired was that Gravel Ridge had actually sold the shares and Gravel Ridge, you'll notice Your Honour the second entry J338 you'll see twelve ninety-four investment twenty-seven forty due the shareholder and forty forty investment.
+That forty forty account that's a revenue account. So the transaction was being corrected to accurately reflect the two hundred and fifty thousand dollar revenue from the sale of the shares. So in correcting them the guarantee had to be treated a little bit differently with Mr. Veroba in that he didn't have a full two hundred and fifty thousand dollars owed to him by Gravel Ridge Investments at the time or owed to his company, 3030267 Nova Scotia Limited.
+And he was the only one of the parties -- or sorry, Your Honour -- 3030267 was the only one of the parties that was buying the shares in 2485969 Nova Scotia Limited from ---
+…
+3030267 actually purchased their shares from Gravel Ridge Investments where K&K Marsh and Sirah had purchased their shares from another party. So the deal with 3030267 is just a little bit different.
+So all I was doing was correcting to accurately reflect what had actually happened. And what happened was 3030267 bought the shares in Gravel Ridge had to incur the revenue.
+So effectively they owned the shares -- sorry, effectively Gravel Ridge Investments owned the shares of 2485969, sold them to Mr. Veroba's company, 30302 -- excuse me, Your Honour just bear with me one second. It's 30302 -- sorry, Your Honour, 3030267 Nova Scotia Limited.
+So and accurately reflecting the credit of two fifty to the shareholder account had to be adjusted down to the two forty-nine nine seventy-five Your Honour and the reason that it was only adjusted and left twenty-five dollars is that Gravel Ridge had to show on the books that the twenty-five shares that they were selling to 3030267 actually had some value and at that time the shares are usually just given a nominal value of a dollar because they're no par value common stock.
+So what I did was I debited the shareholder account for two forty-nine nine seventy-five. And left the twenty-five dollars in the investment account that would represent Gravel Ridge at one point in time acquiring the shares.
+So then in A-2 Your Honour at the bottom, all I did is put them together and said what the actual reflection inside the company's books of what happened was is that Mr. Veroba's company, 3030267 owed Gravel Ridge Investments two hundred and fifty thousand dollars for the purchase of the shares.
+Gravel Ridge was showing that the original share cost to be twenty-five dollars because obviously all of the work and the concept greasing and all of the other strategies that Gravel Ridge had put forth the net credit to the shareholder account is now twenty-five dollars and the company had to record four -- sorry the company had to record -- sorry, Your Honour -- Gravel Ridge Investments had to record in its books account forty forty for revenue of the two hundred and fifty thousand dollars from the sale.
+[84] As noted above, I find that 25 shares of 2485969 Nova Scotia Limited were sold by Rodney Mullen to K & K Marsh for $1, 25 shares of 2485969 Nova Scotia Limited were sold by Rodney Mullen to Sirah for $1, and 25 shares of 2485969 Nova Scotia Limited were sold by Gravel Ridge to 3030267 Nova Scotia Limited for $1. Therefore it seems to me that the credit to the shareholders loan account for $250,000 dated May 30, 1999 was not correct and did not reflect reality. Also journal entry J338 dated June 30, 1999 did not reflect reality as Gravel Ridge did not sell its shares of 2485969 Nova Scotia Limited to 3030267 Nova Scotia Limited for $250,000. However the only issue in this case is whether the Appellant should be entitled to the credit dated May 30, 1999 or any part of this credit.
+[85] Since the credit of $250,000 recorded on May 30, 1999 had been corrected by the Appellant (by the June 30, 1999 entry to the extent of $249,975) it should not have been denied by the CRA auditor. A denial of this credit would result in the reversal of this credit twice – once by journal entry J338 and again by denying this credit.
+[86] It seems to me that the proper way to deal with this would be to reverse both entries (J130 and J338) and reflect a sale of shares of 2485969 Nova Scotia Limited by Gravel Ridge for $1. However, since the only issue raised in this Appeal is related to the credits that were denied, this is the only issue that I can address and since it seems to me that it would not be appropriate to deny the credit dated May 30, 1999 as it was subsequently corrected by the Appellant, the Appellant is entitled to succeed in relation to this credit except that the amount of the credit should be $249,975 since the correcting entry only debited the shareholders loan account in the amount of $249,975.
+Conclusion
+[87] The appeal in relation to the reassessment of the Appellant’s 1998 taxation year is allowed, without costs, and the reassessment of the Appellant’s 1998 taxation year is vacated.
+[88] The appeal in relation to the reassessment of the Appellant’s 1999 taxation year is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) the amount of $11,270 is not to be included in the Appellant’s income for 1999 as standby charges and operating cost benefits; and
+(b) in determining the amount payable by the Appellant to Gravel Ridge in 1999 that was not repaid within the time period as set out in subsection 15(2.6) of the Act, the following credits to the shareholders loan account that had not been accepted are to be allowed as credits to the shareholders loan account and reduce the amount payable by the Appellant to Gravel Ridge as of the date of the credits:
+Item Reference
+Date of the Credit
+Amount
+A
+November 16, 1998
+$5,500
+B
+December 8, 1998
+$33,000
+C
+December 11, 1998
+$7,500
+E
+December 31, 1998
+$25,000
+G
+January 13, 1999
+$2,750
+H
+January 13, 1999
+$5,000
+I
+January 21, 1999
+$6,230
+J
+February 19, 1999
+$16,000
+L
+June 17, 1999
+$150,000
+M
+June 29, 1999
+$74,000
+N
+October 28, 1999
+$10,000
+O
+March 3, 2000
+$200,000
+Q
+April 13, 2000
+$7,500
+R
+June 20, 2000
+$29,000
+S
+July 14, 2000
+$5,000
+Additional Credit:
+May 30, 1999
+$249,975
+Total:
+$826,455
+Signed at Ottawa, Canada, this 11th day of September, 2009.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2009TCC452
+COURT FILE NO.: 2004-3357(IT)G
+STYLE OF CAUSE: DOUGLAS G. RUDOLPH AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: June 22, 23 and 24, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: September 11, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John P. Bodurtha and Devon E. Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant, up to the week before the hearing, had been represented by counsel. At the commencement of the hearing on Monday, June 22, 2009, counsel for the Appellant made a motion to be removed as counsel of record. This motion had been filed on Friday, June 19, 2009. The Appellant indicated his agreement with this motion as he stated that he could not afford to pay his counsel. The motion was granted and the Appellant represented himself at the hearing.
+[2] In each agreement the consideration is described as “$1.00 and other good and valuable consideration”. It does not seem to me that a person selling shares for $250,000 would describe the consideration as “$1.00 and other good and valuable consideration” in the agreement of purchase and sale which would mean that essentially all of the consideration would be unspecified and only described by a vague reference to other good and valuable consideration.

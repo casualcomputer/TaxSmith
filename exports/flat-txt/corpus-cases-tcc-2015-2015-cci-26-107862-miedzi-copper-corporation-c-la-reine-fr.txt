@@ -1,0 +1,159 @@
+Title: Miedzi Copper Corporation c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/107862/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-26-107862-miedzi-copper-corporation-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-02-03
+
+# Miedzi Copper Corporation c. La Reine
+
+- Citation: 2015 CCI 26
+- Decision date: 2015-02-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2742, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Miedzi Copper Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-02-03
+Référence neutre
+2015 CCI 26
+Numéro de dossier
+2013-4274(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-4274(GST)I
+ENTRE :
+MIEDZI COPPER CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 6 mai 2014 à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Avocat de l’appelante :
+Me Timothy W. Clarke
+Avocat de l’intimée :
+Me Zachary Froese
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies au titre de la Loi sur la taxe d’accise, pour les périodes de déclaration se terminant le 31mars 2011 et les périodes de déclaration subséquentes, jusqu’au 30 septembre 2012 est accueilli, sans dépens, compte tenu du fait que l’appelante a droit à des crédits de taxe sur les intrants supplémentaires de 47 909,07 $ pour ces périodes.
+Signé à Vancouver (Colombie‑Britannique), ce 3e jour de février 2015.
+« B.Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 26e jour de juin 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2015 CCI 26
+Date : 20150203
+Dossier : 2013-4274(GST)I
+ENTRE :
+MIEDZI COPPER CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Le présent appel porte sur une nouvelle cotisation établie au titre de la partie IX de la Loi sur la taxe d’accise (la « LTA »), dans laquelle le ministre du Revenu national (le « ministre ») a refusé l’octroi de crédits de taxe sur les intrants (les « CTI ») de 47 909,07 $ demandés par la société Miedzi Copper Corporation (la société « Miedzi ») pour les périodes de déclaration se terminant le 31 mars 2011 et les périodes de déclaration subséquentes, jusqu’au 30 septembre 2012.
+[2] Miedzi est une société de portefeuille qui exploite une entreprise d’exploration minière par l’entremise d’un certain nombre de filiales étrangères. Elle détient la totalité des actions d’une société luxembourgeoise qui, elle, détient la totalité des actions de six sociétés d’exploration minière en Pologne.
+[3] La société Miedzi a demandé pour les périodes pertinentes, des CTI de 165 708,18 $ en vertu des paragraphes 186(1) et (3) de la LTA pour la Taxe de vente harmonisée (la « TVH ») qu’elle a payée sur les services de gestion, professionnels et géologiques.
+[4] En l’absence du paragraphe 186(1) de la LTA, une société de portefeuille ne pourrait pas demander des CTI. Le paragraphe 169(1) de la LTA exige que le bien ou les services sur lesquels la taxe donnant lieu aux CTI est payée soient acquis pour consommation, utilisation ou fourniture dans le cadre des activités commerciales de la société, et le fait de détenir des actions d’une autre société ne constitue pas une activité commerciale au sens de la définition de cette expression formulée dans la LTA. Toutefois, lorsque certaines conditions énoncées au paragraphe 186(1) de la LTA sont remplies, une société de portefeuille est réputée exercer des activités commerciales, et peut ainsi demander des CTI.
+[5] Le paragraphe 186(3) permet l’application du paragraphe 186(1) de la LTA aux différents niveaux de sociétés liées.
+[6] Les paragraphes 186(1) et (3) de la LTA sont ainsi libellés :
+186(1) Personnes morales liées [CTI pour des sociétés de portefeuille] —
+Sous réserve du paragraphe (2) et pour le calcul de son crédit de taxe sur les intrants, une personne morale mère qui acquiert, importe ou transfère dans une province participante, à un moment donné, un bien ou un service est réputée l’avoir acquis, importé ou transféré dans la province pour utilisation dans le cadre de ses activités commerciales dans la mesure où il est raisonnable de considérer qu’elle l’a ainsi acquis, importé ou transféré dans la province pour consommation ou utilisation relativement à des actions du capital-actions d’une autre personne morale qui lui est liée à ce moment, ou à des créances contre cette autre personne, si les conditions suivantes sont réunies :
+a) la personne morale mère est un inscrit qui réside au Canada;
+b) au moment où la taxe relative à l’acquisition, à l’importation ou au transfert devient payable, ou est payée sans être devenue payable, par la personne morale mère, la totalité, ou presque, des biens de l’autre personne morale sont des biens qu’elle a acquis ou importés la dernière fois pour consommation, utilisation ou fourniture par celle-ci exclusivement dans le cadre de ses activités commerciales.
+[...]
+(3) Actions détenues par des personnes morales — Pour l’application du présent article, dans le cas où, à un moment donné, la totalité, ou presque, des biens d’une personne morale sont des biens qu’elle a acquis ou importés pour consommation, utilisation ou fourniture exclusive dans le cadre de ses activités commerciales, toutes les actions du capital-actions de la personne morale qui sont la propriété d’une autre personne morale qui lui est liée, ainsi que toutes les dettes qu’elle a envers cette autre personne morale, sont réputées être, à ce moment, des biens que l’autre personne morale a acquis pour utilisation exclusive dans le cadre de ses activités commerciales.
+[7] En l’espèce, la Cour doit uniquement établir si les services acquis par la société, à l’égard desquels elle a demandé les CTI qui ont été refusés, répondaient aux conditions énoncées au paragraphe 186(1) de la LTA, à savoir s’il pouvait être « raisonnable de considérer qu’elle l[es] a […] acquis […] pour consommation ou utilisation relativement à des actions du capital‑actions [de sa filiale luxembourgeoise] ou à des créances [contre sa filiale luxembourgeoise] ». L’issue de l’affaire dépendra de l’interprétation, large ou étroite, qui sera réservée à l’expression « relativement à » qui figure au paragraphe 186(1) de la LTA.
+Les faits [8] En l’espèce, les faits ne sont pas contestés. Le directeur financier de la société Miedzi, Martin Rip, a livré son témoignage et il était le seul témoin à l’audience.
+[9] La société Miedzi est une inscrite aux fins de la TPS résidant au Canada et ayant son siège social à Vancouver. Sa seule activité consiste à détenir des actions de la société Miedzi Copper Luxembourg S.à.r.l. (la société « Luxco »). La société Miedzi est l’unique actionnaire de la société Luxco.
+[10] La société Luxco détient la totalité des actions de six entreprises d’exploration minière (les sociétés « Opcos ») résidant en Pologne. Elle n’exerce aucune autre activité. Les sociétés Opcos possèdent des propriétés minières en Pologne à des fins d’exploration et d’exploitation, et ont commencé des travaux d’exploration sur certaines de ces propriétés.
+[11] La société Miedzi finançait les activités des sociétés Opcos en accordant des prêts à la société Luxco que celle‑ci utilisait pour consentir des prêts aux sociétés Opcos. À la fin de chaque année, les prêts contractés par la société Luxco auprès de la société Miedzi étaient convertis en des actions privilégiées à rachat obligatoire de la société Luxco et qui étaient données à la société Miedzi.
+[12] La société Miedzi a obtenu les fonds lui permettant de consentir les prêts à la société Société Luxco en effectuant un placement privé. Le placement consistait en deux tranches de 50 millions de dollars chacune. M. Rip a estimé que, jusqu’à la date d’audience, la société Miedzi avait consenti environ 29 millions de dollars pour des travaux d’exploration minière effectués par les sociétés Opcos ou pour leur compte.
+[13] La société Miedzi n’avait aucun employé ni n’avait de bureaux propres à elle. Toutes ses activités étaient exercées à Vancouver par des particuliers et par certaines sociétés d’experts‑conseils dont les services étaient fournis à la société Miedzi sur une base contractuelle par la société Lumina Asset Management Inc. (la société « LAM ») à partir des bureaux de celle‑ci.
+[14] La société LAM facturait ses services à la société Miedzi en fonction du temps qu’avaient consacré les personnes qui avaient fourni des services à la société Miedzi et facturait à celle‑ci les services d’experts‑conseils qui lui avaient été fournis ainsi que les dépenses effectuées pour son compte.
+[15] La société Miedzi a aussi effectué certaines dépenses pour son propre compte, y compris :
+- les frais juridiques que la société Miedzi a supportés pour sa constitution en personne morale, pour le placement privé, pour des services d’établissement et de présentation de rapports, pour des conseils relatifs aux questions de la TVH soulevées en l’espèce, pour des conseils concernant la convention d’actionnaires, le régime d’options d’achat d’actions et les modifications connexes apportées aux dispositions;
+- les frais de comptabilité pour l’établissement des déclarations de revenus canadiennes, pour la vérification des états financiers, pour des conseils concernant les obligations de la société Miedzi en matière de déclaration de revenus et en ce qui a trait à la vérification relative à la TVH;
+- des frais divers : téléphone cellulaire, stationnement, repas et services de messagerie;
+- les frais d’enregistrement du nom du domaine Web;
+- les frais d’hébergement à l’hôtel lors de la conférence de l’Association canadienne des prospecteurs et entrepreneurs.
+[16] La société Miedzi a demandé des CTI concernant tout le montant de la TVH qu’elle a payé pour les périodes en cause, compte tenu du fait que tous les services et biens ont été acquis pour consommation ou utilisation relativement aux actions de la société Luxco ou aux créances qu’elle a contre elle.
+[17] Le ministre a refusé une partie des CTI demandés en ce qui concerne les services de gestion fournis par la société LAM, ainsi que tous les CTI demandés relativement aux éléments énoncés au paragraphe 15.
+La thèse de l’appelante [18] L’appelante soutient que le législateur voulait que le paragraphe 186(1) de la LTA s’applique à titre de règle de transparence pour permettre qu’une société de portefeuille puisse demander des CTI qu’une société sous‑jacente aurait pu demander si elle avait directement supporté les coûts des services ou des biens.
+[19] L’avocat de l’appelante affirme que les sociétés Opcos auraient pu demander des CTI pour les frais de gestion, les frais juridiques et de comptabilité ainsi que pour les charges diverses si elles les avaient directement supportés et que la possibilité pour la société Miedzi de demander des CTI est précisément l’objet visé par le paragraphe 186(1) de la LTA.
+[20] L’avocat de l’appelante soutient que tous les services en cause ont été acquis pour utilisation relativement aux actions de la société Luxco ou aux créances détenues contre elle, étant donné que l’unique activité que la société Miedzi exerçait était de détenir les actions ou de l’entité luxembourgeoise ou de lui prêter de l’argent.
+[21] Selon une interprétation conjointe du paragraphe 186(1) et du paragraphe 186(3) de la LTA la société Miedzi est réputée exercer directement les activités commerciales des sociétés Opcos et est autorisée à demander les CTI.
+[22] L’avocat de l’appelante s’est fondé sur la décision Stantec Inc. c. Sa Majesté la Reine, 2008 CCI 400, de la Cour, qui a été confirmée en appel, dans laquelle l’appelante, une société de portefeuille, réclamait des CTI concernant des services associés à l’inscription de ses actions à la Bourse de New York. L’inscription était exigée dans le contexte de l’acquisition par l’appelante des actions d’une société non liée qu’elle voulait fusionner avec une de ses filiales en propriété exclusive. L’appelante a soutenu que les services relatifs à l’inscription avaient été acquis relativement aux actions de la société visée ou aux créances contre elle au sens du paragraphe 186(1) de la LTA. La Cour a souscrit à l’argument de l’appelante selon lequel l’expression « relativement à » figurant à cette disposition devrait recevoir une interprétation large.
+[23] En se fondant sur la décision Stantec, l’appelante soutient que le paragraphe 186(1) de la LTA [traduction] « ne vise pas à limiter ou à restreindre de quelque façon que ce soit la capacité d’une société de portefeuille de demander des crédits de taxe sur les intrants lorsque la filiale aurait manifestement le droit de les demander ».
+[24] L’avocat de l’appelante affirme aussi qu’il existe un lien encore plus étroit entre les frais juridiques supportés pour le placement privé, les actions de la société Luxco et les créances contre celle‑ci étant donné que les fonds obtenus grâce au placement ont été prêtés ou étaient destinés à être prêtés à la société Luxco et ont été convertis en des actions de Luxco. En outre, les investisseurs n’auraient pas investi des fonds relativement au placement privé si la société Miedzi n’avait pas respecté les exigences en matière fiscale ou en droit des sociétés en général.
+La thèse de l’intimée
+[25] Selon l’intimée, les coûts contestés sont les coûts organiques de la société Miedzi qui n’étaient pas liés à la possession des actions et qui ne peuvent raisonnablement pas être considérés comme étant liés aux actions de la société Luxco. L’avocat de l’intimée a soutenu que la société Miedzi aurait supporté ces dépenses, peu importe l’activité exemptée qu’elle exerçait.
+[26] La société Miedzi a choisi d’organiser ses affaires d’une certaine manière et une des conséquences de son recours à la structure de société de portefeuille est que la société mère exerce une activité exemptée en vertu de la LTA et, par conséquent, elle ne peut réclamer les CTI correspondants à chaque dépense qu’elle supporte.
+[27] L’avocat de l’intimée soutient que l’expression « relativement à » ne peut pas être interprétée sans que l’on examine le contexte dans lequel elle est utilisée. Ce contexte comprend les expressions restrictives « dans la mesure où » et « il est raisonnable de considérer » visant à limiter les coûts qui pourraient être réclamés à titre de CTI.
+[28] Dans la mesure où il peut être raisonnable de considérer que la société mère a ainsi acquis les biens ou services particuliers, ou qu’elle les a ainsi importés dans la province, pour consommation ou utilisation relativement aux actions ou aux dettes.
+[29] L’utilisation des expressions restrictives susmentionnées indique que le législateur n’avait pas l’intention que la totalité des coûts puisse être réclamée à titre de CTI simplement parce qu’une partie de ces coûts pouvait être liée à la détention d’actions dans une filiale. Il faut donc établir une distinction entre les coûts qui sont liés aux actions et les coûts qui ne le sont pas. L’avocat de l’intimée a estimé aussi que, si le législateur avait voulu que tous les coûts d’une société mère qui détient des actions dans une filiale soient admissibles, il aurait précisé que la détention d’actions dans une société liée est une activité commerciale.
+[30] La Cour doit donc examiner s’il existe une relation réelle entre la dépense en cause et les actions de la filiale.
+[31] À titre subsidiaire, il incombe à l’appelante de démontrer quelles sont les dépenses qui sont liées à la détention d’actions dans les filiales.
+Analyse
+[32] Dans la décision Stantec, la Cour a conclu que l’expression « relativement à », au paragraphe 186(1) de la LTA, devrait recevoir une interprétation large et que le lien entre la consommation ou l’utilisation du service ou du bien et les actions de la filiale n’avait pas à être de la nature d’un lien direct ou d’un lien de nature substantielle. Aux paragraphes 14 et 15 de la décision Stantec, le juge Campbell Miller a formulé les observations suivantes :
+L’expression « raisonnable de considérer relativement à » a une portée fort étendue. La Cour suprême du Canada a examiné l’expression « relativement à » dans l’arrêt Slattery (Syndic de) c. Slattery, laquelle porte à croire qu’il y a lieu d’adopter une vue large plutôt qu’étroite, en établissant un lien entre deux questions. Lorsque les mots « raisonnable de considérer » mènent à cette approche générale, j’arrive à la conclusion inévitable selon laquelle il n’en faudrait pas beaucoup pour établir un lien entre l’acquisition des services d’inscription et les actions de Keith Companies ou de Stantec California.
+Il existe sans aucun doute un lien étroit entre les services d’inscription et les actions de Stantec – il s’agissait des actions mêmes qui étaient inscrites, mais ce lien n’a pas à être d’une nature primordiale ou substantielle ou de la nature d’un lien direct. L’idée que comporte l’expression « relativement à » n’est pas une idée de prédominance et encore moins d’exclusivité.
+[33] Les observations susmentionnées, quoi qu’elles visent les exigences énoncées au paragraphe 186(1) de la LTA, étaient également applicables au critère mentionné au paragraphe 186(2) de la LTA, qui exige que l’acquisition d’un service soit « liée à » l’acquisition réelle ou projetée par la société des actions d’une autre société.
+[34] L’interprétation de l’expression « relativement à » faite par la Cour a été confirmée en appel. Aux paragraphes 14 à 17 des motifs de son jugement, la Cour d’appel fédérale a formulé les observations suivantes :
+Le juge de la Cour de l’impôt a examiné l’ensemble des circonstances entourant l’opération en tenant compte de l’objet du paragraphe en question dans le contexte de l’ensemble des dispositions applicables. [...]
+La quatrième condition préalable est remplie si les services fournis en vue de l’inscription à la Bourse (que Stantec avait obtenus en vue d’inscrire et de négocier ses propres actions au New York Stock Exchange) se rapportent à l’acquisition. L’appelante soutient qu’au moment des faits, les services ne se rapportaient pas aux actions de Keith ou des filiales de Stantec.
+Le juge de la Cour de l’impôt a tenu compte de l’arrêt Slattery (Syndic de) c. Slattery, [1993] 3 R.C.S. 430, dans lequel la Cour suprême du Canada a examiné l’expression « relativement à ». Se fondant sur l’interprétation de la Cour suprême, le juge de la Cour de l’impôt a expliqué que le lien qui existait entre les services d’inscription et les actions de Keith ou de Stantec California n’avait pas à être de nature primordiale et encore moins de nature exclusive. Il a conclu que les services d’inscription avaient été acquis pour que Stantec puisse conclure le marché en vue de détenir toutes les actions de la société résultant de la fusion de Keith et de Stantec California. Cette analyse était axée sur le contexte.
+Le juge Miller a conclu qu’il était « facile et raisonnable de considérer que ces services ont été acquis relativement aux actions de Keith Companies ou de Stantec California ou aux actions de la société fusionnée, c’est‑à‑dire, l’investissement par Stantec dans sa nouvelle acquisition ». Nous ne pouvons détecter aucune erreur manifeste et dominante dans cette conclusion de fait.
+[35] En l’espèce, la société Miedzi ne fait que détenir les actions de la société Luxco. Elle ne fait que détenir ces actions et prêter de l’argent à la société Luxco. En ce sens, on peut dire que toutes les activités de la société Miedzi ont trait aux actions de la société Luxco ou aux créances contre elle. Par conséquent, il existe un lien évident entre les services administratifs, juridiques et de gestion en cause et les actions de la société Luxco ou les créances contre elle. La société Miedzi n’aurait pas acquis ces services si elle n’avait pas détenu des actions de la société Luxco et ne lui avait pas consenti des prêts.
+[36] Je souscris à l’argument de l’avocat de l’appelante selon lequel l’intention du législateur était de faire du paragraphe 186(1) de la LTA une disposition de transparence et que cet objectif ne serait pas atteint si l’on devait adopter l’interprétation restrictive de la disposition proposée par l’intimée.
+[37] L’appel est par conséquent accueilli et l’affaire est déférée au ministre pour qu’il procède à de nouvelles cotisations en tenant compte du fait que l’appelante a droit à des CTI supplémentaires de 47 909,07 $ pour les périodes visées par l’appel. Étant donné que le montant en litige est supérieur à 7000 $, aucuns dépens ne sont adjugés.
+Signé à Vancouver (Colombie‑Britannique), ce 3e jour de février 2015.
+« B.Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 26e jour de juin 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE :
+2015 CCI 26
+No DU DOSSIER DE LA COUR :
+2013-4274(GST)I
+INTITULÉ :
+MIEDZI COPPER CORPORATION c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 6 mai 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 3 février 2015
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Timothy W. Clarke
+Avocat de l’intimée :
+Me Zachary Froese
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Timothy W. Clarke
+Cabinet :
+Moodys Gartner Tax Law LLP
+Vancouver (Colombie‑Britannique)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

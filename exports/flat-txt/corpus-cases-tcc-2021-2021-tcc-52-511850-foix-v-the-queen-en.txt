@@ -1,0 +1,321 @@
+Title: Foix v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/511850/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-52-511850-foix-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-08-16
+
+# Foix v. The Queen
+
+- Citation: 2021 TCC 52
+- Decision date: 2021-08-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4464, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Foix v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-08-16
+Neutral citation
+2021 TCC 52
+File numbers
+2017-3809(IT)G, 2017-3810(IT)G, 2017‑3811(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3809(IT)G
+BETWEEN:
+MICHEL FOIX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 14, 2020, at Montreal, Quebec
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Dominic C. Belley
+Nicolas Benoit-Guay
+Counsel for the Respondent:
+Michel Lamarre
+JUDGMENT
+The appeal against the reassessment under the Income Tax Act for the 2012 taxation year is dismissed with costs.
+Costs are awarded to the respondent. The parties shall have 30 days from the date hereof to reach an agreement on costs, failing which the parties shall have a further 30 days to file written submissions on costs. Each party will have a further 15 days thereafter to file any responding submissions. Any such submissions shall not exceed 15 pages in length initially, and 10 pages for responding submissions. If the parties do not advise the Court that they have reached an agreement and no submissions are received from the appellants, costs shall be awarded in the amount set out in the Tariff to the Rules of the Tax Court of Canada (General Procedure).
+Signed at Ottawa, Canada, this 16th day of August, 2021.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 15th day of February 2022.
+François Brunet, Revisor
+Docket: 2017-3810(IT)G
+BETWEEN:
+NICOLAS SOUTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 14, 2020, at Montreal, Quebec
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Dominic C. Belley
+Nicolas Benoit-Guay
+Counsel for the Respondent:
+Michel Lamarre
+JUDGMENT
+The appeal against the reassessment under the Income Tax Act for the 2012 taxation year is dismissed with costs.
+Costs are awarded to the respondent. The parties shall have 30 days from the date hereof to reach an agreement on costs, failing which the parties shall have a further 30 days to file written submissions on costs. Each party will have a further 15 days thereafter to file any responding submissions. Any such submissions shall not exceed 15 pages in length initially, and 10 pages for responding submissions. If the parties do not advise the Court that they have reached an agreement and no submissions are received from the appellants, costs shall be awarded in the amount set out in the Tariff to the Rules of the Tax Court of Canada (General Procedure).
+Signed at Ottawa, Canada, this 16th day of August, 2021.
+“Patrick Boyle”
+Boyle J.
+Docket: 2017-3811(IT)G
+BETWEEN:
+SONIA LEBEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 14, 2020, at Montreal, Quebec
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Dominic C. Belley
+Nicolas Benoit-Guay
+Counsel for the Respondent:
+Michel Lamarre
+JUDGMENT
+The appeal against the reassessment under the Income Tax Act for the 2012 taxation year is dismissed with costs.
+Costs are awarded to the respondent. The parties shall have 30 days from the date hereof to reach an agreement on costs, failing which the parties shall have a further 30 days to file written submissions on costs. Each party will have a further 15 days thereafter to file any responding submissions. Any such submissions shall not exceed 15 pages in length initially, and 10 pages for responding submissions. If the parties do not advise the Court that they have reached an agreement and no submissions are received from the appellants, costs shall be awarded in the amount set out in the Tariff to the Rules of the Tax Court of Canada (General Procedure).
+Signed at Ottawa, Canada, this 16th day of August, 2021.
+“Patrick Boyle”
+Boyle J.
+Citation: 2021 TCC 52
+Date: 20210816
+Dockets: 2017-3809(IT)G
+2017-3810(IT)G
+2017-3811(IT)G
+BETWEEN:
+MICHEL FOIX, NICOLAS SOUTY, SONIA LEBEL,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Boyle J.
+I. OVERVIEW
+[1] The issues in these appeals are whether certain amounts received by Messrs. Foix and Souty, and by a Souty family trust of which Ms. Lebel (Mr. Souty’s spouse) was a beneficiary, for the sale of shares owned by them or by the family trust to an unrelated party, are deemed to be dividends received by them under subsection 84(2) of the Income Tax Act (Canada) (the “Act”), or in the alternative under section 84.1 of the Act. Ms. Lebel has also appealed against consequential reassessments in respect of 2013 to 2016.
+[2] These share sales followed a reorganization of the shareholdings and the capital structure of the appellants’ direct and indirect interests in the operating company Watch4Net Solutions Inc. (“W4N”) and the sale of W4N’s principal business assets to EMC. The purchaser was EMC Corporation of Canada (“EMC Canada”), the Canadian subsidiary of the US public EMC Corporation (“EMC”).
+[3] Mr. Souty sold his W4N shares to EMC Canada. Mr. Foix sold his shares of his holding company Virtuose Informatique Inc. (“Virtuose”), which owned W4N shares, to EMC Canada. The Souty family trust sold its W4N shares to EMC Canada. Once EMC Canada acquired all of the shares of Virtuose and all of the shares of W4N directly or indirectly via Virtuose, EMC Canada, Virtuose and W4N were amalgamated as EMC Canada (“Amalgamated EMC Canada”).
+[4] The relevant transactions all occurred between late April 2012 and June 1, 2012. The amounts received for the share sales in question were $800,450 for Mr. Souty, $800,000 for Mr. Foix, and the family trust received $2,481,412, which the trust distributed to its beneficiaries, all of whom were related, including the amounts detailed below to Ms. Lebel.
+[5] At the time in question, the main activity of W4N was the exploitation of its proprietary software, Automated Performance Grapher (APG), to its business clients. W4N also did some software development, installation and maintenance, as well as IT advisory services.
+[6] EMC had been interested in acquiring W4N’s APG software since at least 2006 and had approached W4N on several occasions to formally express its interest in acquiring APG or W4N. EMC had its own comparable software product, IT Performance Reporter (ITPR), but APG was considered a more desirable product.
+[7] Prior to these transactions, all of the shares of W4N were controlled equally by Messrs. Foix and Souty and persons related to them.
+[8] In order for subsection 84(2) to apply:
+(i) Funds or property of W4N must have been “distributed or otherwise appropriated in any manner whatever”
+(ii) “to or for the benefit of its shareholders”
+(iii) “on the winding-up, discontinuance or reorganization of its business.”
+[9] It is not disputed that subsection 84(2) will apply to the amounts in question if these three conditions are met.
+[10] In addition, it is not disputed that section 84.1 will apply to the amounts in question if the selling shareholders of W4N did not deal at arm’s length with EMC Canada at the time the share purchase price was paid.
+[11] If the amounts received as consideration for the sale of the shares are not deemed to be dividends as a result of either section 84 or 84.1, there is no dispute that the capital gains the appellants reported qualified for the capital gains exemptions claimed.
+[12] The respondent has not taken the position that any other anti-avoidance provision of the Act or principles may be applied in support of the disputed reassessments.
+II. THE APPELLANTS’ WITNESSES
+[13] The appellants’ witnesses in this proceeding were Nicolas Souty and Michel Foix, along with Marcel Thibodeau, W4N’s external accountant since it was incorporated in 2000. Messrs. Foix and Souty were obligated to stay on with W4N (Amalgamated EMC Canada) after the sale for a brief transitional period to ensure a smooth turnover. No one else from EMC or Amalgamated EMC Canada testified. This has an impact on both the nature and quality of the evidence as it relates to (i) the EMC group’s participation in the negotiations and structuring of the complex structure of connected transactions, (ii) the arm’s length characterization of the relationship between the W4N group and the EMC group, and (iii) how and the extent to which Amalgamated EMC Canada carried on the former W4N business when EMC owned APG and the other purchased business assets.
+[14] Specifically, the Court was left with significant doubts with respect to the reliability of some key parts of the evidence regarding (i) EMC’s intentions, (ii) EMC’s role in how the proposed transaction evolved between EMC’s initial November 2011 offer and the structure agreed to in late April or May of 2012, (iii) EMC’s interest in moving from the Share Purchase Agreement structure it originally proposed and drafted to the final hybrid Asset and Share Purchase Agreement structure, (iv) EMC’s interest (or alleged disinterest) in the pre-acquisition reorganization of the shareholdings and capital structure of W4N, and (v) the extent to which, and how, Amalgamated EMC Canada continued to carry on key aspects of the business formerly carried on by W4N.
+[15] No satisfactory reason was given in this case to explain the absence of any witnesses from the EMC group, even though the Court was told it continues to carry on its significant business globally, including in Canada. In RMM Canadian Enterprises v. Canada, [1997] T.C.J. No. 302, 97 D.T.C. 302 (“RMM Equilease”), another subsection 84(2) case, former Chief Justice Bowman wrote at paragraph 17: “It is of significance that no one from RMM was called as a witness to rebut the obvious inference from the admitted or proved facts.” While the Court stops short of drawing any specific adverse inferences against the appellants with respect to these factual issues on the basis of their failure to call any witness from the EMC group, adequate corroboration (not merely the absence of inconsistency) by written documents to which EMC or EMC Canada was a party takes on a very much heightened role in the Court’s factual findings.
+[16] Messrs. Foix and Souty are of the view that they can adequately and sufficiently speak to the intentions and actions of the parties to the transactions before, during and after the transactions in question. At the same time, they submit that they dealt at arm’s length with those parties. In a case such as this, it becomes even more important that their testimony regarding their other parties be tested against the objective evidence.
+[17] This concern is further heightened by the fact that Mr. Foix was difficult and evasive during his cross-examination, and there was a noticeable change in his tone in answering questions. For example, Mr. Foix would not acknowledge that EMC’s initial letter of interest gave the shareholders the express right to withdraw excess cash from W4N before closing. Also, on a number of occasions during cross‑examination, Mr. Foix would comment on the quality of the evidence rather than answering the question asked.
+[18] Key parts of the testimony of Messrs. Foix and Souty were not consistent with the key Asset and Share Purchase Agreement each signed. For example, it is simply not credible that after the EMC letter of interest was agreed to, the parties only negotiated the total sale price and not the withdrawal of excess cash from W4N as claimed by Messrs. Foix and Souty. Mr. Foix claimed to not know or understand why the Pre-Closing Reorganization and Prior Reorganization was even referenced in the draft Share Purchase Agreement or in the Asset and Share Purchase Agreement. Mr. Souty also denied that EMC or EMC Canada approved or consented to the Prior Reorganization.
+[19] Mr. Thibodeau, W4N’s accountant, was not close enough to the negotiations or to EMC to be of much assistance in this regard. He did explain that the Prior Reorganization was an exhibit to the final agreement because the buyers needed to understand and be comfortable with it; he confirmed the same with respect to the Pre-Asset Closing Reorganization.
+III. THE FACTS
+Watch4Net W4N
+[20] Messrs. Souty and Foix met while both were doing consulting work for Videotron. Together they incorporated W4N in 2000.
+[21] At all relevant times prior to the sale in question, all of the shares of W4N were directly or indirectly owned or controlled by Mr. Souty, Mr. Foix and their family trusts and holding companies.
+[22] Nicolas Souty and Sonia Lebel married in 2003. Ms. Lebel was one of the beneficiaries of Fiducie Familiale Souty 2007 (“Fiducie Souty”), along with other members of the Souty family. Fiducie Souty was controlled by Nicolas Souty who had the discretion to terminate its trustees in his sole discretion and to replace them.
+[23] Mr. Foix had incorporated Virtuose years earlier for different purposes, but at the time of the 2012 sale of its shares by him to EMC Canada, Virtuose was simply the holding company for his W4N shares.
+[24] W4N’s initial business in 2000 was that of a computer consulting service (“societé de services-conseils informatique”) and Messrs. Souty and Foix were its only employees. They had clients that included Videotron and Hydro Quebec. Its field included computer security (“sécurité informatique.”) Its maintenance services were partnered with third-party suppliers to whom it subcontracted its clients’ work. W4N also sold licensed software such as Symantec, SMARTS and Infovista to its clients, who might also buy supporting maintenance and other services for it from W4N.
+[25] Mr. Foix focussed on sales, client relations and human resources, while Mr. Souty focussed more on the technical and software aspects of the business.
+[26] By 2006, W4N had about 10 employees and were doing software services work for the Jean Coutu group. It was about that time that W4N developed its APG performance measurement software. Once W4N had developed APG, it believed APG was more open and flexible in the collection, analysis and presentation of tracked data than its major competitors. That was also about the time when W4N added integrators to its staff in addition to developers and advisors. Integrators are more focussed on finding and developing custom solutions for clients’ software needs.
+[27] It was in September 2006 that EMC first approached W4N interested in buying the company for US$3–5M. Messrs. Foix and Souty knew that EMC was a giant in the industry and had acquired the SMARTS software in 2004. They rejected the approach believing the price range was much too low.
+[28] In 2009–2010, W4N became even more global in its business reach, with the establishment of companies and offices in Germany and England to better serve clients in Europe, Asia and Africa. In addition to its APG business, W4N also provided specialized counselling services pertaining to integration, formation, structuring and analyses of client needs.
+[29] By 2011, W4N had grown to 50 employees and its 2012 turnover was about $15M.
+EMC
+[30] EMC is a very large American public corporation with 30,000 employees globally at a time when W4N had about 20 employees. EMC Canada is a Canadian subsidiary of EMC.
+[31] EMC bought SMARTS in 2004. W4N continued to offer SMARTS sub-licences to clients even after the development of the APG software. EMC was a licensed reseller of W4N’s APG since about 2005–07. EMC had its own similar software ITPR which W4N believed had lesser functionality than its own APG.
+Sale to EMC and EMC Canada
+[32] In September 2006, EMC expressed its interest in acquiring W4N, and proposed a value in the range of US$3–5M. This approach was turned down by Messrs. Souty and Foix. They believed the valuation was far too low. The written letter of interest indicated EMC intended to next prepare a “definitive post‑acquisition business plan relating to the Company [W4N].”
+[33] In October 2010, W4N gave Canaccord Genuity a financial advisor mandate to find strategic financing alternatives, including possible share or asset transactions, in the $30M range. W4N’s turnover was $11M at that time. This mandate specifically provided that W4N would pay a lesser commission to Canaccord Genuity if EMC was the buyer/financier.
+[34] In November 2011, EMC offered to buy an exclusive APG licence from W4N in exchange for royalties on EMC’s future revenues from APG, which EMC would rebrand as its own and license to others as an EMC product. A few weeks later, EMC offered to buy W4N from Messrs. Foix and Souty and persons/entities related to them. Messrs. Souty and Foix proposed a sale price of US$60–67M.
+[35] By the end of January 2012, a price of US 50M was agreed to by the parties, and a written Letter of Interest dated January 20, 2012, (“LOI”) for a share deal at US$50M was prepared by EMC. The letter was accepted and agreed to by Mr. Foix on behalf of W4N on January 23, 2012. This LOI expressly includes the term: “We have agreed that the Company [W4N] may distribute (in a manner that will not be reflected as an expense on any post-Closing income statement of the Company or EMC) excess cash to its stockholders prior to Closing, provided that the Company retains a mutually agreed upon amount of net working capital as of the Closing…”. The evidence does not allow me to find whether or not this was an EMC suggestion or a W4N request in the post-November discussions and/or negotiations.
+[36] Mr. Foix said that, after January, he was not involved with the transaction but focussed on maintaining W4N’s business, attending to client and sales functions.
+[37] EMC prepared a first draft of a Share Purchase Agreement in March 2012. This detailed agreement contemplated and permitted a Pre-Closing Reorganization, which was expressly excluded from the sellers’ Absence of Changes obligations under Article 4.6. The Pre-Closing Reorganization was to be set out in Schedule 9.1 to the agreement but was blank and left “to be discussed” in this draft. The Pre-Closing Reorganization documents were to be provided to the buyer per Article 9.1(r). The defined terms in this agreement included: Excess Cash Amount, Closing Cash Target Amount, Closing Cash Balance and Estimated Closing Cash Balance. It provided for a post-closing reconciliation for the difference between the target amount and the actual amount at closing. This draft agreement prepared by EMC raises serious doubts about the appellants’ testimony that EMC was not interested or involved in the share and capital reorganization of W4N by its shareholders prior to closing its purchase. Comparable provisions regarding W4N’s excess working capital remained in the Asset and Share Purchase Agreement that was finally signed and closed.
+[38] Messrs. Souty and Foix testified that around April 2012, EMC proposed to them to change the share deal to a hybrid purchase of W4N’s intellectual property, primarily being APG, followed by a purchase of the shares of W4N. They both testified that this structural change was requested by EMC and its lawyers and accountants. Mr. Souty said there was an email from EMC toward the end of April proposing these changes. Mr. Foix said there were multiple emails with EMC confirming the changed structure was EMC’s suggestion. No such email, nor any other document, was offered in evidence to corroborate that testimony. The evidence does not allow me to find that the revised hybrid asset and share sale structure was proposed by the EMC group. This testimony raises further concerns about the reliability and credibility of the appellants’ two key witnesses.
+[39] EMC wrote a letter dated April 16, 2012, to Mr. Foix as a key employee which still referred to the share purchase described in the LOI. The purpose of this letter was to confirm that, as a key employee, he would continue to work for EMC for a six‑month transition period, following the acquisition to help assure a smooth transition from W4N to EMC. Both Messrs. Foix and Souty said Mr. Foix left after three months of his transition period. Mr. Souty was also named as a key employee in the March draft agreement; presumably a similar letter agreement was prepared for his transition period though it was not offered in evidence. Messrs. Foix and Souty both resigned as directors and officers of W4N before it was amalgamated into EMC Canada. Mr. Souty stayed on with EMC or EMC Canada for an additional two years.
+[40] An execution copy of the final signed hybrid Asset and Share Purchase Agreement dated as of May 24, 2012, was offered in evidence. No other documents explaining why or demonstrating how the parties went from a share purchase transaction to a hybrid asset and share purchase transaction were offered in evidence.
+[41] According to the Prior Reorganization documents and closing agenda, these transactions were completed between April 24 and May 30, 2012. The Asset and Share Purchase Agreement is not dated but is “as of” May 24, 2012; these transactions were completed on May 30–31, 2012. EMC Canada, Virtuose and W4N were amalgamated on June 1, 2012, as Amalgamated EMC Canada.
+[42] The Prior Reorganization steps are set out in Exhibit C of the Asset and Share Purchase Agreement. This is reproduced as Appendix hereto. A 16-page detailed closing agenda for this capital reorganization was also in evidence as an exhibit to the Asset and Share Purchase Agreement.
+[43] Pursuant to the Asset and Share Purchase Agreement, the purchased assets were purchased by EMC and included all of W4N’s assets and property of any kind other than specific excluded assets, and specifically included all of W4N’s intellectual property (which would include APG), customer and other business contracts, the shares of W4N’s operating subsidiaries in Germany and England, as well as all of the goodwill associated with W4N’s business. The excluded assets were: machinery and equipment, furnishings and supplies, inventory, accounts receivable, prepaid expenses, permits other than those relating to intellectual property, books and records other than those relating to the purchased assets, claims, and cash and cash equivalents. EMC also assumed the liabilities associated with the purchased assets. While the recitals to the agreement describe the purchased business as the supply of “software that reports on the performance and monitors the performance of networks, data centres and cloud infrastructures and that provides analytics with respect to such performance,” the purchased assets are all of W4N’s business assets, not just those relating to that line of business. This agreement is clear that W4N did not keep its other lines of business such as non-APG related services conseils, maintenance, installation etc. and own them when the W4N shares were purchased by EMC Canada immediately following EMC’s purchase of the assets.
+The particular payments in issue
+[44] The specific amounts reassessed to each of the appellants are as follows:
+(i) Mr. Foix was reassessed with respect to the sale by him of one Class A share and 760,000 Class C shares of Virtuose to EMC Canada on May 31, 2012, for $800,000.
+(ii) Mr. Souty was reassessed with respect to the sale by him of 400 Class D shares and 800,000 Class E shares of W4N to EMC Canada on May 31, 2012, for $800,450.
+(iii) Ms. Lebel was reassessed in respect of the sale by Fiducie Souty of 38 Class F shares of W4N to EMC Canada for a promissory note of $2,481,412 on May 30, 2012, which was paid on May 31, 2012. Ms. Lebel’s 2012 reassessment is in respect of the amount of the capital gain on this sale attributed to her by Fiducie Souty in 2012 being $375,000 and the capital distribution to her from Fiducie Souty of $1,215,705 reflecting the non-taxable portion of the capital gain. [1]
+The Asset and Share Purchase Agreement
+[45] Section 2 of the Asset and Share Purchase Agreement (along with the Transaction Escrow Agreement attached thereto) details the sale of the W4N business assets to EMC and the purchase by EMC Canada of the shares of W4N and of Virtuose. The relevant provisions of this Section are as follows:
+(i) The Class F shares in question are sold by Fiducie Souty on May 30, 2012, effective at 23:30 for a promissory note issued by EMC Canada (one of the Fiducie Share Notes).
+(ii) EMC’s $19,750,000 promissory note (the Balance Note) in respect of part of its $44,050,000 purchase price for the W4N business assets (the Total Asset Consideration) is delivered to the Transaction Escrow Agent on May 30, 2012, at the same time.
+The Balance Note defined in this agreement is EMC’s $19,750,000 promissory note issued to W4N in respect of part of EMC’s $44,050,000 purchase price for the W4N business assets (the Total Asset Consideration). This promissory note is a cash equivalent owned by W4N as a result of selling its operating business assets. This agreement does not provide for its payment. However, Section 11 of the Transaction Escrow Agreement provides that the Transaction Escrow Agent is to pay the full Transaction Escrow Amount to the Sellers and is to mark the Balance Note cancelled and return it to EMC Canada once EMC Canada owned all of the W4N shares on May 31, 2012, effective at 00:30, the day before the amalgamation on June 1, 2012. This was put to the appellants but no satisfactory explanation or reason for this was given.
+(iii) At the same time, EMC and/or EMC Canada collectively wire transferred to the Transaction Escrow Agent on May 30, 2012, funds representing the amount of the EMC Canada promissory note held by Fiducie Souty (included in Fiducie Consideration) and the purchase price payable by EMC Canada to Mr. Souty for his Class D and E shares of W4N and to Mr. Foix for his Class A and C shares of W4N (included in Total Final Share Consideration).
+(iv) W4N’s business assets were purchased by EMC on May 30, 2012, at 23:45.
+(v) On May 31, 2012, at 00:15, EMC Canada acquired shares of W4N from W4N’s shareholders sufficient to give EMC Canada control of W4N.
+(vi) On May 31, 2012, at 00:30 upon the Final Closing:
+Mr. Foix’s Class A and C shares and Mr. Souty’s Class D and E shares (included in Final Shares) are sold to EMC Canada.
+The Fiducie Share Notes are paid by the Transaction Escrow Agent to the holders including Fiducie Souty and the notes are cancelled.
+The Transaction Escrow Agent pays the Total Final Share consideration including the amounts in issue payable to Messrs. Foix and Souty.
+The post-divestiture post-amalgamation business of W4N/EMC Canada
+[46] EMC purchased W4N’s most valuable business asset, APG, along with most of its other assets and other intellectual-property-related assets. This asset was then part of EMC’s business and it was exploited globally by EMC directly and through its worldwide subsidiaries, including the former W4N subsidiaries in England and Germany.
+[47] The Virtuose and W4N shares were purchased by EMC Canada and these three corporations were then amalgamated as Amalgamated EMC Canada on June 1, 2012. Following the amalgamation, what remained of W4N’s business became part of Amalgamated EMC Canada’s business, and Amalgamated EMC Canada could no longer exploit APG globally, even though it was permitted by EMC to license APG to its Canadian customers, and Amalgamated EMC Canada could continue to carry on related maintenance, installation and advisory services.
+[48] W4N’s principal and most valuable business assets were all sold to EMC with the result that W4N effectively sold its business assets to EMC and neither W4N or EMC Canada had any business assets with which it could continue to carry on its business as usual and in the same manner.
+[49] The appellants’ evidence is very scanty and lacking in detail and specifics regarding these arrangements such as how EMC exploited APG after it bought it, Amalgamated EMC Canada’s access rights to APG and the other former business assets of W4N, and how and the extent to which Amalgamated EMC Canada continued to carry on the non-APG aspects of W4N’s pre-acquisition business or integrated these into EMC Canada’s business format. Messrs. Souty and Foix testified that little had changed and much of that business continued to be carried on. Messrs. Foix and Souty were to be kept on by EMC/EMC Canada for a transitional period of six months. Mr. Foix left after only three months. No one else was called by the appellants to corroborate any of this, nor was any written evidence offered to confirm, expand upon, or provide specifics about the situation.
+[50] The only activity of Virtuose prior to the sale had been to hold shares of W4N as a holding company for Mr. Foix. Once EMC Canada, Virtuose and W4N amalgamated, this activity ceased to be performed by Amalgamated EMC Canada.
+IV. LAW & ANALYSIS
+Subsection 84(2)
+Distribution on winding-up, etc.
+84(2) Where funds or property of a corporation resident in Canada have at any time after March 31, 1977 been distributed or otherwise appropriated in any manner whatever to or for the benefit of the shareholders of any class of shares in its capital stock, on the winding-up, discontinuance or reorganization of its business, the corporation shall be deemed to have paid at that time a dividend on the shares of that class equal to the amount, if any, by which
+(a) the amount or value of the funds or property distributed or appropriated, as the case may be,
+exceeds
+(b) the amount, if any, by which the paid-up capital in respect of the shares of that class is reduced on the distribution or appropriation, as the case may be,
+and a dividend shall be deemed to have been received at that time by each person who held any of the issued shares at that time equal to that proportion of the amount of the excess that the number of the shares of that class held by the person immediately before that time is of the number of the issued shares of that class outstanding immediately before that time.
+Distribution lors de liquidation, etc.
+84(2) Lorsque des fonds ou des biens d’une société résidant au Canada ont, à un moment donné après le 31 mars 1977, été distribués ou autrement attribués, de quelque façon que ce soit, aux actionnaires ou au profit des actionnaires de tout catégorie d’actions de son capital-actions, lors de la liquidation, de la cessation de l’exploitation ou de la réorganisation de son entreprise, la société est réputée avoir versé au moment donné un dividende sur les actions de cette catégorie, égal à l’excédent éventuel du montant ou de la valeur visés à l’alinéa a) sur le montant visé à l’alinéa b):
+a) le montant ou la valeur des fonds ou des biens distribués ou attribués, selon le cas;
+b) le montant éventuel de la réduction, lors de la distribution ou de l’attribution, selon le cas, du capital versé relatif aux actions de cette catégorie;
+chacune des personnes qui détenaient au moment donné une ou plusieurs des actions émises est réputée avoir reçu à ce moment un dividende égal à la fraction de l’excédent représentée par le rapport existant entre le nombre d’actions de cette catégorie qu’elle détenait immédiatement avant ce moment et le nombre d’actions émises de cette catégorie qui étaient en circulation immédiatement avant ce moment.
+[51] The Federal Court of Appeal in Canada v. MacDonald, 2013 FCA 110 wrote about the requirements of subsection 84(2) and the scope of the factors that must be taken into account by the courts when sapplying that subsection:
+[17] A plain reading of the text [of subsection 84(2)] reveals several elements that are necessary for its application: (1) a Canadian resident corporation that is (2) winding-up, discontinuing or reorganizing; (3) a distribution or appropriation of the corporation’s funds or property in any manner whatever; (4) to or for the benefit of its shareholders.
+…
+[21] In my view, a textual, contextual and purposive analysis of subsection 84(2) leads the Court to look to: (i) who initiated the winding-up, discontinuance or reorganization of the business; (ii) who received the funds or property of the corporation at the end of that winding-up, discontinuance or reorganization; and (iii) the circumstances in which the purported distributions took place. This approach is consistent with the jurisprudence interpreting this provision and provides the consistency of approach with respect to subsection 84(2) spoken to by both parties to this appeal.
+…
+[24] The Supreme Court of Canada’s main concern with the transactions in that case [Smythe] was that, “when the old company transferred its assets to the new company, the total consideration should have been received by the old company” rather than by the shareholders of the old company (at page 72). In holding that the predecessor to subsection 84(2) “clearly applied,” the Court again looked at the circumstances of the transactions at the end of the winding-up to conclude that the transactions were artificial and that their sole purpose was “to distribute or appropriate to the shareholders the ‘undistributed income on hand’ of the old company” (at page 69).
+…
+[52] An earlier version of subsection 84(2) was examined by the Exchequer Court and the Supreme Court of Canada in Merritt v. MNR, 1941 Exchequer C.R. 175; affirmed at SCC 1942 CSR 269. The Supreme Court agreed with the comment of the Exchequer Court wrote at paragraph 8:
+The purpose of s. 19(1) is, on the discontinuance of the business of a corporation and on a distribution in any form of its property among its shareholders, to tax as a dividend that portion of such property as is represented by undistributed income then on hand, just as if such income had been distributed in the form of dividends to shareholders in each taxation period as earned. That is a matter apart from what may be the capital position of the corporation.
+[53] In RMM Equilease former Chief Justice Bowman wrote the following, in paragraph 22:
+The words “distributed or otherwise appropriated in any manner whatever on the winding-up, discontinuance or reorganization of its business” are words of the widest import, and cover a large variety of ways in which corporate funds can end up in a shareholder’s hands. See Merritt (supra); Smythe et al. v. M.N.R., 69 D.T.C. 5361 (S.C.C.).
+(underlining added)
+[54] He added at paragraph 19:
+One cannot deny or ignore the sale. Rather, one must put it in its proper perspective in the transaction as a whole. The sale of EL’s shares and the winding-up or discontinuance of its business are not mutually exclusive. Rather they complement one another. The sale was merely an aspect of the transaction described in subsection 84(2) that gives rise to the deemed dividend. … I do not think that the brief detour of the funds through RMM stamps them with a different character from that which they had as funds of EL distributed or appropriated to or for the benefit of EC. Nor do I think that the fact that the funds that were paid to EC by RMM were borrowed from the bank and then immediately repaid out of EL’s money is a sufficient basis for ignoring the words “in any manner whatever.”
+Were funds or property “distributed or otherwise appropriated in any manner whatever to or for the benefit of” W4N’s shareholders?
+[55] In Merritt, the Supreme Court also agreed with the following comment of the Exchequer Court in paragraph 7:
+Neither do I entertain any doubt that there was a distribution of the property of the Security Company among its shareholders, in the sense contemplated by s. 19(1) of the Act, under the terms of the Agreement after its ratification by the shareholders of the Security Company. It is immaterial, in my opinion, that the consideration received by the appellant for her shares happened to reach her directly from the Premier Company and not through the medium of the Security Company.
+[56] To similar effect is a Supreme Court of Canada case, Smythe v. MNR, [1970] S.C.R. 64. Smythe also involved a transfer of the assets from a particular corporation to another corporation as did Merritt. The Court in Smythe approved of its approach in Merritt as to the requirement for the existence of a distribution and held then that subsection 81(1), another precursor to subsection 84(2), clearly applied.
+[57] In MacDonald, the FCA wrote the following:
+[24] The Supreme Court of Canada’s main concern with the transactions in that case [Smythe] was that, “when the old company transferred its assets to the new company, the total consideration should have been received by the old company” rather than by the shareholders of the old company (at page 72). In holding that the predecessor to subsection 84(2) “clearly applied”, the Court again looked at the circumstances of the transactions at the end of the winding-up to conclude that the transactions were artificial and that their sole purpose was “to distribute or appropriate to the shareholders the ‘undistributed income on hand’ of the old company” (at page 69).
+…
+[27] Justice Bowman, as he then was, determined that RMM was an “instrumentality” used to effect the distribution of property to the shareholder, EC, and stated his conclusion with respect to subsection 84(2) in very clear terms at page 308 (my underlining):
+The words “distributed or otherwise appropriated in any manner whatever on the winding-up, discontinuance or reorganization of its business” are words of the widest import, and cover a large variety of ways in which corporate funds can end up in a shareholder’s hands. See Merritt (supra); Smythe et al. v. M.N.R., 69 D.T.C. 5361 (S.C.C.). They were unquestionably received on the winding-up or discontinuance of EL’s business and it is impossible to say that the funds that found their way into EC’s hands were not on any realistic view of the matter EL’s funds, notwithstanding the brief intervention of the bank and RMM.
+…
+[29] In this case, at the end of the winding up, all of PC’s money (net of the $10,000 compensation to the accommodating brother-in-law) ended up through circuitous [2] means in the hands of Dr. MacDonald, the original and sole shareholder of PC who was both the driving force behind, and the beneficiary of, the transactions. In my view, the only reasonable conclusion is that subsection 84(2) applies, as the Crown contends.
+[58] Courts have generally taken a fungible approach to cash and cash equivalents owned by a company in indirect, structured, simultaneous and inter-related; they can then characterize such amounts as indirect distributions upon the discontinuance, winding-up or reorganization for purposes of subsection 84(2) and its predecessors. In Canada v. Vaillancourt-Tremblay, 2010 FCA 119 (affirming a holding of Judge Favreau of this Court, at 2009 TCC 6) the Federal Court of Appeal held that this approach did not extend to newly issued securities of a public company never owned by the company being discontinued, wound up or reorganized.
+[59] On all of the facts of this case, and given the language of subsection 84(2) and how it has been interpreted and applied in the case law, it is clear that some of W4N’s “funds or property” was “distributed or otherwise appropriated” in some manner “to or for the benefit of” its shareholders.
+[60] EMC either agreed or offered to allow W4N’s shareholders to withdraw W4N’s excess cash quite early on in the discussions and negotiations. I find that in the context of this acquisition, the reference to excess cash and the related terms in the Asset and Share Purchase Agreement pertain to cash or cash equivalents, investments, etc., that are surplus to the operation of W4N’s business. The Prior Reorganization was provided for in some detail in the Asset and Share Purchase Agreement and that agreement detailed these amounts.
+[61] I find that the effect of this was that EMC and EMC Canada had to approve both the Prior Reorganization’s steps and the amount of excess cash that could be withdrawn by W4N’s shareholders without being adjusted for at closing. This is consistent with the Pre-Closing Reorganization concepts in the earlier draft Share Purchase Agreement, which supports the finding that this was the intention throughout. This is also consistent with the testimony of W4N’s accountant. Further, it is consistent with EMC group’s first draft Share Purchase Agreement, which says the Pre-Closing Reorganization steps are “to be discussed.” In view of my finding that the Prior Reorganization had to be acceptable to the EMC group, I reject the appellants’ attempts in testimony to suggest otherwise.
+[62] I find that the structure of the Prior Reorganization transactions forming part of the sale transactions and facilitating the withdrawal of excess cash indirectly from W4N for the benefit of its shareholders, was initiated and led by Messrs. Foix and Souty and their advisers.
+[63] As in RMM/Equilease, EMC and EMC Canada, and their purchase of the business assets and shares of W4N, were the instrumentalities through which W4N’s funds or property were distributed to or for the benefit of its shareholders following the Prior Reorganization. This is so even though in this case they were not merely instrumentalities to achieve these ends in the transactions. It hardly matters that EMC and EMC Canada had other very substantive interests in closing the Asset and Share Purchase Agreement. That does not preclude them being recognized and characterized as instrumentalities for the purposes of the indirect distribution or appropriation.
+[64] Clearly, excess cash in W4N funded and was indirectly distributed in a roundabout manner to the appellants in a manner somewhat similar to the arm’s length sale transactions in Merritt. This is so even if the Balance Note issues are not considered. [3]
+Did such distribution or appropriation occur “on the winding-up, discontinuance or reorganization of” W4N’s business?
+[65] In Merritt the Supreme Court also agreed with the following comment of the Exchequer Court in paragraph 7:
+I entertain no difficulty over the construction to be given the words “winding-up, discontinuance or reorganization,” as used in s. 19(1) of the Act. In construing those words we must look at the substance and form of what was done here. In the case In re South African Supply and Cold Storage Company, Buckley J. had to consider whether or not there had been a winding-up “for the purpose of reconstruction or amalgamation,” and he said “that neither the word reconstruction nor the word amalgamation has any definite legal meaning. Each is a commercial and not a legal term, and, even as a commercial term has no exact definite meaning.” I think that would be equally true of the words of s. 19(1) which I have just mentioned.
+(underlining added)
+[66] The Supreme Court in Smythe also approved of its approach in Merritt to the requirement for there to be a winding-up, discontinuance or reorganization.
+[67] In reversing the decision of this Court in MacDonald, the FCA wrote:
+[28] The winding-up of the business of a corporation is a process. The judge here recognized in his decision that “‘on the winding up’ as used in subsection 84(2) refers to a course of events that are part of the winding-up process” (reasons, at paragraph 84). He further specifically determined that “the sale of the shares here does not exist in a vacuum: each transaction, from beginning to end, was entered into and completed in contemplation of each other” (reasons, at paragraph 109). And yet, he concluded that subsection 84(2) did not apply. In my respectful view, the judge erred in focusing exclusively on the legal character of the various transactions in the series, which led him to fail to give effect to the statutory phrase “in any manner whatever.” His interpretation is not consistent with Merritt, Smythe, or RMM.
+[68] In Kennedy v. MNR, [1972] C.T.C. 429 Justice Cattanach of the Federal Court, in considering a predecessor of subsection 84(2), wrote at paragraphs 45 to 49:
+In subsection 81(1) the word “reorganization” is used in association with the words “winding-up” and “discontinuance.” Both of those words contain an element of finality. The company is ended. It is therefore logical to assume that the word “reorganization” presupposes the conclusion of the conduct of the business in one form and its continuance in a different form.
+In The Shorter Oxford Dictionary, 3rd ed, at page 1704, the word “reorganization” is defined as “a fresh organization” and the verb “reorganize” is defined as “to organize anew.”
+In the circumstances of the present case there has been no “fresh” organization. The same company continued the same business in the same manner and in the same form. The only difference was that by reason of the sale of its premises the Company operated the same business from the same premises which were rented by it rather than being owned by it.
+This was merely the sale by the Company of a capital asset which did not result in the end of the business of the Company. It might have bought other premises from which to carry on its business, but it chose to continue its business from the rented premises it had owned formerly. Obviously, this would not affect the conduct of its business per se but only the manner in which the Company held the premises from which it conducted its business.
+In my view this is not a “reorganization” of the business in a commercial sense nor in the sense of the word as contemplated in section 81(1).
+[69] In McMullen v. The Queen, 2007 TCC 16, the Associate Chief Justice Lamarre of this Court, at paragraphs 18–19 based her reasoning on the descriptions of the word “reorganization” propounded in Merritt, Smythe and Kennedy.
+[70] In Descarries v. The Queen, 2014 TCC 75 Justice Hogan of this Court considered, and based his reasoning on the very same case law, but found as a fact that the business activities of the company in question continued as usual and its format remained the same for almost two years after the alleged distribution (paragraphs 32–34).
+[71] Regard may also be had to the 2003 Canadian Tax Foundation article “Public Company Non-Butterfly Spinouts” by Messrs. Suarez and Ahmed wherein much of this case law is discussed at pages 32:22 to 32:23.
+[72] On all of the facts of this case, and given the language of subsection 84(2) and how it has been interpreted and applied by the courts, it is clear that the distribution or appropriation found to have occurred in the W4N transactions occurred at the time of the reorganization of W4N’s business, having regard to how the word “reorganization” has been interpreted and applied by the courts.
+[73] The transactions concluded in accordance with the Asset and Share Purchase Agreement, including the Prior Reorganization, were a process over the course of about five weeks by which W4N reorganized its business (and its capital structure) through a series of transactions all of which were completed in contemplation of the other. Following the sale of W4N’s business assets to EMC and W4N’s shares to EMC Canada, and the amalgamation of W4N into Amalgamated EMC Canada, the former W4N business of Amalgamated EMC Canada was carried on in a very different form than it was when Messrs. Foix and Souty controlled W4N. That EMC continued to use the purchased business assets in perhaps a similar manner is not relevant to this analysis. Subsection 84(2) addresses a single corporation, W4N, which became Amalgamated EMC Canada. I find that, after the sale of its assets and its shares, W4N’s business could not and did not continue as usual in Amalgamated EMC Canada. In any event, I am unable on the evidence presented to find on a balance of probabilities that EMC continued W4N’s business in the same manner, form or format as it had been carried on previously by W4N.
+V. CONCLUSION
+[74] The amount of the payments in question were distributed or appropriated by the W4N shareholders for their benefit and in their chosen manner. This occurred as part of the process of a reorganization of W4N’s business when its key business assets and its shares were sold. For these reasons, subsection 84(2) applies to the amounts in question in these appeals which must be dismissed.
+[75] Given this Court’s holding that subsection 84(2) applies so that the amounts in question are deemed to be dividends, and given this Court’s concern about the absence of evidence that seems to be available from the EMC group, it is unnecessary, and would be perhaps unwise, to decide whether W4N and EMC Canada were non‑arm’s length for the purposes of section 84.1 at the time in question.
+[76] The appeals are dismissed with costs.
+[77] Costs are awarded to the respondent. The parties shall have 30 days from the date hereof to reach an agreement on costs, failing which the parties shall have a further 30 days to file written submissions on costs. Each party will have a further 15 days thereafter to file any responding submissions. Any such submissions shall not exceed 15 pages in length initially, and 10 pages for responding submissions. If the parties do not advise the Court that they have reached an agreement and no submissions are received from the appellants, costs shall be awarded in the amount set out in the Tariff to the Rules of the Tax Court of Canada (General Procedure).
+Signed at Ottawa, Canada, this 16th day of August, 2021.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 15th day of February 2022.
+François Brunet, Revisor
+Appendix
+Exhibit C
+Prior Reorganization
+Steps:
+1. Termination of the Company’s Unanimous Shareholders Agreement
+2. Amendment of the articles of the Company to modify its share capital
+3. Incorporation of Gestion Foix
+4. Incorporation of Gestion Souty
+5. Distribution by the trustees of Fiducie Foix of 262 Company Class A Shares to Gestion Foix
+6. Distribution by the trustees of Fiducie Souty of 262 Company Class A Shares to Gestion Souty
+7. Purchase for cancellation by the Company of 38 Company Class A Shares held by the trustees of Fiducie Foix in exchange for 38 Company Class F Shares
+8. Purchase for cancellation by the Company of 38 Company Class A Shares held by the trustees of Fiducie Souty in exchange for 38 Company Class F Shares
+9. Sale by Souty to Gestion Souty of 3,200,000 Company Class B Shares in exchange for 3,200,000 Class A Preferred Shares of Gestion Souty
+10. Purchase for cancellation by the Company of 3,200,000 Company Class B Shares held by Gestion Souty in exchange for 3,200,000 Company Class C Shares
+11. Purchase for cancellation by the Company of 4,000,000 Company Class B Shares held by Virtuose in exchange for 4,000,000 Company Class C Shares
+12. Sale by Foix to Gestion Foix of 80 Class A Shares of Virtuose in exchange for 3,200,000 Class A Preferred Shares of Gestion Foix
+13. Purchase for cancellation by Virtuose of 80 Class A shares of Virtuose held by Gestion Foix in exchange for 3,200,000 Class C Shares of Virtuose
+14. Successive increases of the stated capital account of the Company Class A Shares
+15. Sale by Gestion Foix to Virtuose of 262 Company Class A Shares in exchange for 1,000 Class D Shares of Virtuose
+16. Successive increases of the stated capital account of the Company Class C Shares
+17. Corresponding successive increases of the stated capital account of the Class C Shares of Virtuose
+CITATION:
+2021 TCC 52
+COURT FILE NO.:
+2017-3809(IT)G, 2017-3810(IT)G,
+2017-3811(IT)G
+STYLE OF CAUSE:
+MICHEL FOIX, NICOLAS SOUTY, SONIA LEBEL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+September 14, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+August 16, 2021
+APPEARANCES:
+Counsel for the Appellant:
+Dominic C. Belley
+Nicolas Benoit-Guay
+Counsel for the Respondent:
+Michel Lamarre
+COUNSEL OF RECORD:
+For the Appellant:
+Names:
+Dominic C. Belley
+Nicolas Benoit-Guay
+Firm:
+Norton Rose Fulbright Canada
+Montreal, Quebec
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The rest was allocated and/or distributed by the trust to other beneficiaries related to Mr. Souty. The other beneficiaries have been similarly reassessed.
+[2] Circuitous might more properly be translated as “detourné”, not “tortueux” as per the Court’s official translation.
+[3] As noted above, it appears that the Balance Note owned by W4N was cancelled without payment to it by the issuer EMC, and the entire Transaction Escrow Amount was then paid to the Sellers.

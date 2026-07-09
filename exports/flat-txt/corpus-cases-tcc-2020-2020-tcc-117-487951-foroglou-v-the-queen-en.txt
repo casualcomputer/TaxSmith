@@ -1,0 +1,184 @@
+Title: Foroglou v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/487951/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-117-487951-foroglou-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-10-29
+
+# Foroglou v. The Queen
+
+- Citation: 2020 TCC 117
+- Decision date: 2020-10-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4639, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Foroglou v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-10-29
+Neutral citation
+2020 TCC 117
+File numbers
+2017-1117(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-1117(IT)G
+BETWEEN:
+JASON FOROGLOU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion determined by written submissions
+Before: The Honourable Justice David E. Graham
+Participants:
+Counsel for the Appellant:
+Duane R. Milot
+Igor Kastelyanets
+Counsel for the Respondent:
+Priya Bains John Chapman Sandra Tsui
+ORDER
+The Appellant’s motion is denied.
+Costs of $525 in respect of this motion are awarded to the Respondent, payable forthwith.
+The parties shall provide the Court with dates for the completion of the remaining steps in the litigation on or before December 11, 2020.
+Signed at Ottawa, Canada, this 29th day of October 2020.
+“David E. Graham”
+Graham J.
+Citation: 2020 TCC 117
+Date: 20201029 Docket: 2017-1117(IT)G
+BETWEEN:
+JASON FOROGLOU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] Jason Foroglou claimed donation tax credits in respect of gifts that he claims to have made through a tax shelter known as the Global Learning Gifting Initiative (“GLGI”). The Minister of National Revenue reassessed Mr. Foroglou to deny those credits. He has appealed those denials.
+[2] There were tens of thousands of other taxpayers who claimed donation tax credits in respect of gifts purportedly made to GLGI. The Crown took two lead cases to trial. Mr. Foroglou did not choose to be bound by those lead cases. In a decision reported as Mariano v. The Queen (“Mariano”), [1] Justice Pizzitelli dismissed the appeals. He found, among other things, that the appellants “did not have the donative intent to make any of their gifts, did not own or transfer the property that is the subject matter of the gift in kind . . . and that the Program was a sham”. [2]
+A. Relief Sought
+[3] Mr. Foroglou has brought a motion seeking the following relief:
+a) an order that the Respondent pay $2,216,636 in costs to him in advance in any event of the cause;
+b) in the alternative, an order that his appeal be held in abeyance until the Minister issues Notices of Confirmation to all taxpayers who received GLGI reassessments and objected to those reassessments; and
+c) lump sum costs of $16,950 in respect of his motion.
+B. Payment of Interim Costs
+[4] Mr. Foroglou seeks an order that the Respondent pay $2,216,636 in costs to him in advance in any event of the cause. Such costs are referred to as interim costs. Mr. Foroglou seeks these costs either pursuant to the common law test set out by the Supreme Court of Canada in British Columbia (Minister of Forests) v. Okanagan Indian Band (“Okanagan”) [3] or pursuant to the Tax Court’s general power to award costs pursuant to subsection 147(1) of the Tax Court of Canada Rules (General Procedure) (the “Rules”).
+Interim Costs Pursuant to the Common Law Test
+[5] In Okanagan, the Supreme Court was clear that an interim costs award should only be granted in “rare and exceptional circumstances”. [4] The Court set out the following three criteria that must be met to justify an interim costs award: [5]
+1. The party seeking interim costs genuinely cannot afford to pay for the litigation, and no other realistic option exists for bringing the issues to trial — in short, the litigation would be unable to proceed if the order were not made.
+2. The claim to be adjudicated is prima facie meritorious; that is, the claim is at least of sufficient merit that it is contrary to the interests of justice for the opportunity to pursue the case to be forfeited just because the litigant lacks financial means.
+3. The issues raised transcend the individual interests of the particular litigant, are of public importance, and have not been resolved in previous cases.
+[6] The Supreme Court of Canada revisited the issue of interim costs awards in Little Sisters Book and Art Emporium v. Canada (Commissioner of Customs and Revenue). [6] The majority emphasized that the Court’s decision in Okanagan “applies only to those few situations where a court would be participating in an injustice — against the litigant personally and against the public generally — if it did not order [interim] costs to allow the litigant to proceed.” [7]
+[7] The Tax Court was asked to consider interim costs awards in two previous appeals. [8] Both involved the Indian Act. In both cases, the Court concluded that the cases were neither rare nor exceptional.
+[8] The Respondent accepts that the Tax Court has the power to award interim costs in a “rare and exceptional” case that meets the Okanagan criteria. Mr. Foroglou submits that his appeal meets the Okanagan criteria. I disagree. I will focus my analysis on the third Okanagan criterion.
+[9] I do not see the public importance in Mr. Foroglou’s appeal. I acknowledge that there are still approximately 17,000 taxpayers whose GLGI reassessments have not been resolved. While this is a significant number of taxpayers, the question is not whether the issues under appeal affect a significant number of people or even whether the issues are important to a significant number of people, but rather whether they are of public importance.
+[10] The issues raised in Mr. Foroglou’s appeal could hardly be described as being of public importance let alone being so important that failing to force the Respondent to fund the litigation would cause the Court to participate in an injustice. To be blunt, the issues involve the effectiveness of a tax avoidance scheme entered into by individuals who sought to profit by obtaining tax refunds as a result of “gifts” that they purportedly made to various charities. [9] In essence, the Respondent asserts that Mr. Foroglou paid $72,500 out of his own pocket for which he received $485,001 in donation receipts. [10] The issues in Mr. Foroglou’s appeal are personal financial issues resulting from his personal financial choices. They are not issues of public importance.
+[11] Furthermore, this litigation involves matters that have been considered before. The GLGI program has already been considered by this Court in Mariano. Justice Pizzitelli found against the taxpayers on four separate grounds. In addition, Mariano is not the first charitable donation scheme to have been considered by the courts. Similar schemes through which taxpayers “donated” a small sum of money or property in return for a much larger tax refund have been coming before the courts for decades. [11]
+[12] Mr. Foroglou has every right to try to convince a trial judge that his case is different than Mariano. Mariano only considered the GLGI program as it was structured in 2004 and 2005. Mr. Foroglou participated from 2005 to 2011. Therefore, most of the years in which he was involved have not been considered by the Court. Mr. Foroglou will have every opportunity to present to the trial judge who ultimately hears his appeal any facts that have not been previously considered or issues that have not been previously raised. There is, however, no matter of public importance that would require the Canadian public to finance Mr. Foroglou’s doing so.
+[13] Mr. Foroglou argues that the courts have recognized that interim costs awards “protect disadvantaged litigants against their better funded opponents” by “leveling the playing field”. He refers to family law cases such as Green v. Whyte [12] as examples of how family law courts have leveled the playing field. The types of interim costs awards described in Green v. Whyte were specifically provided for by the Family Law Rules (Ontario). [13] Those rules state that “The court may make an order that a party pay an amount of money to another party to cover part or all of the expenses of carrying on the case, including a lawyer’s fees”. [14] This rule has been interpreted as modifying the third criterion of the Okanagan test in matrimonial litigation in order to ensure both a level playing field between spouses and equality of the spouses in preparing for and attending trial. [15] I do not find these procedures from the family law context to be helpful for three reasons. First, no such provisions exist in the Rules. Second, the considerations of equity that arise in a dispute between spouses are not present in the tax context. Third, the Crown will always be a better funded opponent than the taxpayer. Adopting such a rule would render the third Okanagan criterion meaningless in every tax appeal. [16]
+[14] Based on all of the foregoing, I find that Mr. Foroglou does not meet the third Okanagan criterion. The Respondent raised many concerns regarding the first and second Okanagan criteria and the overarching requirement of a “rare and exceptional” case. Given my conclusion on the third criterion, there is no need for me to address these concerns.
+Interim Costs Pursuant to Subsection 147(1)
+[15] Mr. Foroglou argues that, if I do not find that an interim costs award should be made under the criteria in Okanagan, then I should nonetheless use my broad discretion under subsection 147(1) of the Rules to make such an award. In my view, subsection 147(1) does not give me that discretion.
+[16] There is nothing in the Income Tax Act, the Tax Court of Canada Act or the Rules that explicitly provides that the Court has the discretion to award interim costs. This is not because Parliament did not turn its mind to the question of the public financing of personal tax disputes. The Tax Court of Canada Act specifically provides that the Crown shall pay the costs of tax appeals regardless of the outcome of those appeals in two specific circumstances. The first is when the Minister applies to move an appeal from the informal procedure to the general procedure. [17] The second is when the Crown appeals an informal procedure decision to the Federal Court of Appeal. [18] Outside of those specific circumstances, the Court’s power to award interim costs lies in its general power to award costs. That power is broad. It does not, however, entitle the Court to ignore the common law established by the Supreme Court of Canada.
+[17] If I am wrong and I do have discretion to award interim costs in a situation where the Okanagan criteria are not met, then I am unwilling to exercise that discretion. In simple terms, Mr. Foroglou is asking me to order the Canadian public to pay for his personal litigation. He has requested $2,216,636 in interim costs to allow him to dispute just under $200,000 in federal and provincial tax. [19] No rational taxpayer would ever agree to pay more than eleven times the amount of tax in dispute to fight a one-off appeal. A rational taxpayer would look at his or her chances of winning and make a determination of the maximum amount that it made economic sense to pay. If litigating within that budget meant abandoning certain arguments or making certain concessions, he or she would do so. If it were impossible to conduct the litigation within that budget, he or she would either seek a settlement or abandon the appeal. Mr. Foroglou is not just asking the Crown to pay for litigation that no rational taxpayer would ever take on, he is asking the Crown to do so whether he wins or loses. He is litigating an appeal where every indication is that he faces a serious uphill battle, yet he expects the public to pay for it. Costs of $491,137 were awarded to the Crown following its victory in Mariano, [20] yet Mr. Foroglou wants me to award costs of more than four times that amount to him whether he wins or loses. I can see no reason why I would order such a payment.
+[18] If Mr. Foroglou succeeds in his appeal, he can use the criteria set out in subsection 147(1) to convince the trial judge to award costs to him at that time. In the meantime, he will have to fund his own litigation.
+[19] Based on all of the foregoing, I deny Mr. Foroglou’s motion for an interim costs award.
+C. Holding Appeal in Abeyance Pending Confirmation of Objections
+[20] There are approximately 17,000 taxpayers who received a GLGI reassessment, objected to that reassessment, did not agree to be bound by the outcome in Mariano and have not yet had their objections confirmed by the Minister of National Revenue. [21] I will refer to these objections as the “GLGI Objections” and the reassessments underlying them as the “GLGI Reassessments”.
+[21] Mr. Foroglou does not want to proceed with his appeals until the Minister has confirmed all of the GLGI Reassessments. He acknowledges that I do not have the jurisdiction to order the Minister to actually confirm the reassessments. Therefore, he would like me to hold his appeal in abeyance until the Minister does so. He argues that forcing his appeals to go ahead before the GLGI Reassessments have been confirmed would be extremely prejudicial.
+[22] I can understand why Mr. Foroglou wants the Minister to confirm the GLGI Reassessments. He would like to have a pool of other taxpayers whom he could potentially recruit to work with him and share his costs. He does not know the names of the taxpayers who have filed GLGI Objections and has no way of discovering those names. [22] It is only when taxpayers file appeals with the Court that Mr. Foroglou can try to recruit them to his cause.
+[23] Paragraph 169(1)(b) of the Income Tax Act allows a taxpayer who has filed an objection to appeal directly to the Court if 90 days have elapsed and the Minister has neither confirmed his or her objection nor reassessed. The Respondent submits that taxpayers with GLGI Objections have not taken advantage of this provision because they do not want their objections to move forward. Mr. Foroglou submits that these taxpayers have not used this option because they are not aware that it is available. I believe that both parties are correct.
+[24] It is likely that many taxpayers with GLGI Objections may not be aware of the option to appeal directly to the Court or, if they are aware of it, may not fully understand it. However, it is equally likely that other taxpayers with GLGI Objections are aware that they could appeal but are quite happy to have their objections sit at CRA Appeals. There are several reasons why this may be the case.
+[25] Taxpayers may not be in a rush to resolve their GLGI Objections because they want to avoid the financial risks of appealing. A taxpayer who appeals to the Tax Court and loses may have costs awarded against him or her. If he or she instead leaves his or her objection sitting at CRA Appeals, he or she can have someone else make arguments on his or her behalf at no additional cost. Even if a taxpayer with an objection sitting at CRA Appeals agrees to be bound by a test case, he or she may not face costs if that test case fails. When Justice Pizzitelli awarded costs in Mariano, he shared those costs among the taxpayers with appeals who had agreed to be bound. He did not, however, share the costs among taxpayers who had not yet appealed to the Court but still agreed to be bound.
+[26] Taxpayers with GLGI Objections may also have other financial reasons for not appealing. Subsection 225.1(2) of the Income Tax Act generally prevents the Minister from collecting any tax or interest reassessed while an objection to that reassessment remains outstanding and for 90 days thereafter. Interest continues to accrue on the debt at the prescribed rates but no collection action can be taken. Because of this restriction, having an objection languish at CRA Appeals for years may sometimes make financial sense. If a taxpayer believes that he or she will ultimately win, then he or she does not care that interest is accruing. There is no cost to putting the problem off until tomorrow. At the same time, if a taxpayer believes that he or she will ultimately lose, he or she may have other, more pressing financial concerns and be quite happy to prevent the Minister from collecting for as long as possible.
+[27] Taxpayers with GLGI Objections may also be holding out for another settlement offer. The Minister has previously made settlement offers to taxpayers with GLGI Objections. Many taxpayers accepted these offers, but clearly none of the remaining 17,000 taxpayers did. From the Notices of Appeal that have since been filed by some taxpayers who did not accept the offer, it is clear that at least some of them now wish that they had accepted the Minister’s offer and would be prepared to settle if the Minister were to make the same offer to them again. [23]
+[28] All of the above demonstrates that there are many different reasons why a given taxpayer with a GLGI Objection may not have taken advantage of his or her right to appeal directly to this Court. These taxpayers can by no means be described as being either a unified group or a group with common goals.
+[29] Ultimately, whether taxpayers with GLGI Objections do not want to appeal or are unaware that they can appeal, the result is the same. They are not appealing and it appears that they will not appeal until the Minister forces them to do so by confirming their reassessments.
+[30] Mr. Foroglou argues, in essence, that if the Minister can sit and wait and other taxpayers can sit and wait, he too should be allowed to sit and wait. He should not be forced to move his appeal forward until the Minister or the other taxpayers move the GLGI Objections forward.
+[31] The Respondent submits that the Minister is not simply sitting and waiting. I agree. The Minister is doing something. She is just doing it remarkably slowly.
+[32] The Minister confirmed 170 of the GLGI Reassessments between June 25 and September 12, 2019. [24] There is no indication that any additional reassessments were confirmed between September 13, 2019 and January 30, 2020. Therefore, in the space of approximately seven months, the Minister confirmed only 1% of the outstanding GLGI Reassessments. At that rate, the Minister will still be confirming GLGI Reassessments 58 years from now. [25] In written submissions filed in January, the Respondent indicated that the Minister intended “to consider the objections of approximately 300 taxpayers in the coming months”. [26] Even if the Minister confirmed 300 GLGI Reassessments every three months, she would still be confirming reassessments 14 years from now. [27]
+[33] CRA Appeals is in the business of processing objections. Every objection takes time to process but an objection relating to an issue that has already been determined by this Court in a test case should be easier to process. There should be economies of scale involved in processing a large number of virtually identical objections. [28] The Minister clearly thought that the GLGI Reassessments arose out of “substantially similar transactions or occurrences or series of transactions or occurrences” or she would not have attempted to bind Mr. Foroglou and 17,000 other taxpayers with GLGI Objections through an application under section 174 of the Act. Based on all of the foregoing, I find that the GLGI Objections remain outstanding because the Minister is choosing to process them at a very slow rate.
+[34] Mr. Foroglou submits that the Minister is acting in this manner because she is trying to win through attrition. He says that the Minister is choosing to confirm the GLGI Reassessments at a slow trickle so that she can ensure that each new taxpayer is placed in the same precarious financial situation that Mr. Foroglou finds himself in — unable to fund large litigation without the support of a critical mass of other appellants that as yet do not exist. Mr. Foroglou further argues that the Minister is trying to ensure that this critical mass is never achieved by pushing every appeal that trickles into Court to trial as quickly as possible in the hope that the underfunded appellants in those appeals will either abandon their appeals or, as has been the case with all GLGI appeals heard post-Mariano, represent themselves with no success. [29]
+[35] I certainly agree that there must be some reason why the Minister is choosing not to move forward with the GLGI Objections. She would not want to leave the GLGI Objections outstanding indefinitely. Ultimately, the goal of reassessing taxpayers is to collect the reassessed taxes. Until the Minister confirms the GLGI Objections, she is prevented from doing that by subsection 225.1(2).
+[36] It may be, as Mr. Foroglou alleges, that the Minister is confirming the GLGI Reassessments at a slow trickle and then pushing for them to move to trial quickly in order to gain a strategic advantage against those taxpayers who are already in Court. It is certainly easier to run numerous small trials against unprepared, underfunded taxpayers than it is to win one or more larger trials against groups of organized appellants. That said, the Minister has already won a trial against a group of well funded, organized appellants in Mariano. Presumably she does not doubt her ability to do so again.
+[37] It may also be that the Minister is overwhelmed by the possibility of having to deal with 17,000 appeals and is delaying confirming the objections in the hope of finding some alternative means of resolving matters. The Minister certainly attempted, albeit imprudently, to resolve all 17,000 objections at once using an application under section 174.
+[38] In the end, it does not matter what the Minister’s motivation is for not confirming the GLGI Objections. Even if the Minister is adopting a strategy of litigation through attrition, I am unwilling to grant Mr. Foroglou’s motion and hold his appeals in abeyance. As set out above, Mariano has already addressed the GLGI program. Justice Pizzitelli thoroughly reviewed it and found numerous flaws. Mr. Foroglou could have agreed to be bound by the outcome in Mariano. He could have accepted the settlement offer made by the Minister, an offer that would have left him better off than the outcome in Mariano. He chose not to do either of these things. In making that choice, he took the chance that he would end up in exactly the position in which he now finds himself. In reality, he is in the same position in which any taxpayer finds himself or herself before the Court. Like every other taxpayer, he has to finance his own litigation. The potential cost of his litigation is admittedly higher than for most appeals, but that cost is higher because he made the choice to participate in a very complex tax shelter and not to involve himself in the lead case that was defending that tax shelter.
+[39] I would be far more sympathetic to Mr. Foroglou’s plight if there had not already been a decision on a lead case. In the absence of such a decision, I could see that holding Mr. Foroglou’s appeal in abeyance pending the establishment of a lead case might be an appropriate outcome.
+[40] Based on all of the foregoing, I deny Mr. Foroglou’s motion to have his appeal held in abeyance.
+D. Costs of the Motion
+[41] Costs of this motion are awarded to the Respondent. The Respondent seeks costs in accordance with the Tariff for a Class B appeal. That appears reasonable in the circumstances. The issues in the motion were neither complex nor novel. Both parties conducted themselves in an efficient manner. Costs of $525 are awarded to the Respondent, payable forthwith.
+E. Unnecessary Delays to the Litigation
+[42] In a case management call held in December 2019, I expressed concern that the Respondent had not been up-front with Mr. Foroglou about the rate at which the Minister planned to confirm the GLGI Reassessments. I stated that it appeared to me that, as a result of the Respondent’s actions, Mr. Foroglou’s appeal had been unnecessarily delayed. Had the Respondent been up-front when this issue was first raised in June 2019, Mr. Foroglou could have brought his motions then, instead of waiting until February 2020.
+[43] I advised Mr. Foroglou that if he wanted to seek costs in respect of this delay, he should do so when he brought his motions. Mr. Foroglou did not seek such costs in his motions. It is not my role to award costs that a party is not seeking. [30] Accordingly, I will not be awarding any costs in respect of this issue. Mr. Foroglou is free to seek these costs from the trial judge who ultimately hears his appeal.
+F. Next Steps
+[44] Considering all of the foregoing, I see no reason why Mr. Foroglou’s appeals should not now proceed. The parties are each ordered to provide the Court with dates for the completion of the remaining steps in their respective litigation on or before December 11, 2020.
+Signed at Ottawa, Canada, this 29th day of October 2020.
+“David E. Graham”
+Graham J.
+CITATION:
+2020 TCC 117
+COURT FILE NO.:
+2017-1117(IT)G
+STYLE OF CAUSE:
+JASON FOROGLOU v. THE QUEEN
+DATE OF HEARING:
+Motion determined by written submissions
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+October 29, 2020
+PARTICIPANTS:
+Counsel For the Appellant:
+Duane R. Milot
+Igor Kastelyanets
+Counsel for the Respondent:
+Priya Bains John Chapman Sandra Tsui
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Duane R. Milot
+Igor Kastelyanets
+Firm:
+Milot Law
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2015 TCC 244.
+[2] Mariano at para. 146.
+[3] 2003 SCC 71.
+[4] Okanagan at para. 1.
+[5] Okanagan at para. 40.
+[6] 2007 SCC 2 (“Little Sisters”).
+[7] Little Sisters at para. 5.
+[8] Roberts v. The Queen, 2011 TCC 205 and Robertson v. The Queen, 2011 TCC 83.
+[9] See Mariano at para. 49.
+[10] Reply to Mr. Foroglou's Notice of Appeal, para. 14 and Affidavit of Li Hua Huang dated July 29, 2020, para. 7.
+[11] See for example Langlois v. The Queen, 2000 CarswellNat 3241 (FCA); The Queen v. Malette, 2004 FCA 187; Nash v. The Queen, 2005 FCA 386; Klotz v. The Queen, 2005 FCA 158; Nguyen v. The Queen, 2008 TCC 401; Russell v. The Queen, 2009 TCC 548; Maréchaux v. The Queen, 2010 FCA 287 (leave to appeal to the SCC refused, 2011 CarswellNat 1911 [2011] 2 SCR viii); Kossow v. The Queen, 2013 FCA 283; Bandi v. The Queen, 2013 TCC 230; The Queen v. Berg, 2014 FCA 25; The Queen v. Castro, 2015 FCA 225, leave to appeal to SCC refused, 2016 CarswellNat 1067, [2016] 1 SCR vii; Glover v. The Queen, 2015 TCC 199; Cassan v The Queen, 2017 TCC 174; Miller v. The Queen, 2019 TCC 204; Markou v The Queen, 2019 FCA 299 (leave to appeal to the SCC refused, 2020 CarswellNat 1486); Roher v. The Queen, 2019 FCA 313, leave to appeal to the SCC refused, 2020 CarswellNat 1394; and Eisbrenner v. The Queen, 2020 FCA 93.
+[12] 2017 ONSC 4760.
+[13] Family Law Rules, O.Reg. 114/99.
+[14] This rule was found in subsection 24(12) when Green v. Whyte was decided but has since been moved to subsection 24(18).
+[15] Agresti v. Hatcher, 2004 CanLII 8311 (ON SC), at paras. 17 and 18.
+[16] A similar observation was made by Justice Tardif in Robertson v. The Queen, at para. 46.
+[17] Tax Court of Canada Act, subsection 18.11(6).
+[18] Tax Court of Canada Act, section 18.25.
+[19] Affidavit of Li Hua Huang dated July 29, 2020, para. 7.
+[20] Mariano v. The Queen, 2016 TCC 161.
+[21] Respondent's Written Submissions dated January 30, 2020, at para. 6.
+[22] Morrison v. The Queen, 2016 FCA 256.
+[23] I note that, in light of the decision in Mariano, the principled settlement rule may prevent the Minister from making settlement offers to taxpayers on the same terms that she may have offered previously.
+[24] Respondent’s Written Submissions dated January 30, 2020, at para. 20.
+[25] 170 objections in 7 months = 24.28571 objections per month. At that rate, it will take 700 months to deal with all 17,000 objections.
+[26] Respondent's Written Submissions dated January 30, 2020, at para. 29.
+[27] 300 objections in 3 months = 100 objections per month. At that rate, it will take 170 months to deal with all 17,000 objections.
+[28] I acknowledge that certain taxpayers with GLGI Objections may also be objecting to other issues and that those objections may take more time to process, but the challenges of those objections arise from something other than the GLGI issues.
+[29] Appeals were discontinued or withdrawn in Prastawa (2017-453(IT)I and 2017-454(IT)I), Patel (2017-449(IT)I), Lee (2016-921(IT)I, Mathuik (2018-3779(IT)I) and Campbell (2015-2722(IT)I). Appeals were dismissed in DiLena (2019 TCC 260), Wiegers (2019 TCC 260), Jourdine-Tapper (2016-1402(IT)I), Girmay (2019 TCC 288), Forester (2016-1289(IT)I) and Tudora (2020 TCC 11).
+[30] Kibalian v. The Queen, 2019 FCA 160.

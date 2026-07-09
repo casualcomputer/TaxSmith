@@ -1,0 +1,229 @@
+Title: Godon c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30597/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-42-30597-godon-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-07-18
+
+# Godon c. La Reine
+
+- Citation: 2007 CCI 42
+- Decision date: 2007-07-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7595, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Godon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-07-18
+Référence neutre
+2007 CCI 42
+Numéro de dossier
+2004-4442(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4442(IT)G
+ENTRE :
+PATRICK GODON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+__________________________________________________________________
+Appel entendu le 28 septembre 2006, à Trois-Rivières (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me François Daigle
+Avocate de l'intimée :
+Me Johanne M. Boudreau
+__________________________________________________________________
+JUGEMENT MODIFIÉ
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997, 1998 et 1999 est accueilli sans frais et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que les dépenses personnelles et les revenus non déclarés sont modifiés tel qu'il est indiqué au paragraphe 11, selon les motifs du jugement ci-joints.
+Quant aux pénalités, j’en confirme le bien‑fondé; elles devront toutefois être modifiées en conformité avec les nouvelles cotisations.
+Signé à Ottawa, Canada, ce 22e jour d'octobre 2007.
+« Alain Tardif »
+Juge Tardif
+Référence : 2007CCI42
+Date : 20071022
+Dossier : 2004-4442(IT)G
+ENTRE :
+PATRICK GODON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Tardif
+[1] Il s'agit d'un appel relatif aux années d'imposition 1997, 1998 et 1999 en vertu de la Loi de l'impôt sur le revenu (la « Loi »). Les cotisations ont été établies par la méthode de l'avoir net.
+[2] Les questions en litige sont les suivantes :
+a) l'appelant a-t-il omis d'inclure dans son revenu le montant de 52 575,07 $ pour l'année d'imposition 1997, de 28 401,21 $ pour l'année d'imposition 1998 et de 5 678,29 $ pour l'année d'imposition 1999?
+b) le ministre a-t-il dûment émis les nouvelles cotisations des années d'imposition 1997 et 1998 au-delà de la période normale de nouvelle cotisation conformément au paragraphe 152(4) de la Loi de l'impôt sur le revenu?
+c) l'appelant est-il passible de la pénalité imposée par le ministre conformément au paragraphe 163(2) de la Loi de l'impôt sur le revenu pour chacune des années d'imposition en litige?
+[3] Pour établir et ratifier les cotisations et les pénalités concernant les années d'imposition 1997, 1998 et 1999, le ministre du Revenu national (le « ministre ») s’est fondé sur les hypothèses de fait suivantes :
+20. [...]
+a) l'appelant a notamment un fils nommé Gabriel Godon qui est né au mois de juillet 1998.
+b) pendant les années d'imposition en litige l'appelant détenait une participation de 50 % d'une entreprise de vente de véhicules d'occasion située à Trois‑Rivières. Ladite entreprise opérait sous la raison sociale des Automobiles G.G.R. enr.
+c) le frère de l'appelant, Steven Godon, détenait également une participation de 50 % dans l'entreprise opérant sous la raison sociale des Automobiles G.G.R. enr.
+d) pendant les années d'imposition en litige l'appelant détenait seul ou en copropriété plusieurs immeubles à revenu.
+e) le ministre a procédé à une vérification de l'appelant par la méthode de l'écart par avoir net.
+f) l'appelant avait un avoir net de 42 381,71 $ au 31 décembre 1996, de 76 672,99 $ au 31 décembre 1997, de 86 500,90 $ au 31 décembre 1998 et de 74 315,41 $ au 31 décembre 1999, le tout tel qu'étayé au tableau intitulé « Bilan personnel » et des feuilles explicatives y afférentes joints comme annexe B afin de faire partie intégrante de la présente réponse et des faits tenus pour acquis par le ministre pour établir et ratifier les nouvelles cotisations pour les années d'imposition en litige.
+g) l'appelant a encouru des dépenses personnelles de l'ordre de 30 538,21 $ pour l'année d'imposition 1997, de 29 998,71 $ pour l'année d'imposition 1998 et de 30 276,76 $ pour l'année d'imposition 1999, le tout tel qu'étayé aux « Feuilles de dépenses personnelles » jointes comme annexe C afin de faire partie intégrante de la présente réponse et des faits tenus pour acquis par le ministre pour établir et ratifier les nouvelles cotisations pour les années d'imposition en litige.
+h) le revenu total pour avoir net de l'appelant était de 66 375,33 $ pour l'année d'imposition 1997, de 41 215,75 $ pour l'année d'imposition 1998 et de 18 492,73 $ pour l'année d'imposition 1999, le tout tel qu'étayé au tableau intitulé « Calcul de l'écart par avoir net » joint comme annexe A afin de faire partie intégrante de la présente réponse et des faits tenus pour acquis par le ministre pour établir et ratifier les nouvelles cotisations pour les années d'imposition en litige.
+i) l'appelant a déclaré un revenu de 13 800,26 $ pour l'année d'imposition 1997, de 12 936,18 $ pour l'année d'imposition 1998 et de 12 814,54 $ pour l'année d'imposition 1999.
+j) l'appelant avait des revenus non‑déclarés de 52 575,07 $ pour l'année d'imposition 1997, de 28 401,21 $ pour l'année d'imposition 1998 et de 5 678,19 $ pour l'année d'imposition 1999.
+21. [...]
+a) les faits énoncés aux alinéas a) à j) du paragraphe 20 de la présente.
+b) le revenu non-déclaré établi par la méthode de l'écart par avoir net est important par rapport au revenu déclaré dans chacune des années d'imposition en litige, le tout tel qu'étayé ci-dessous :
+Année d'imposition
+Revenu déclaré
+Revenu non-déclaré
+additionnel
+1997
+13 800,26 $
+52 575,07 $
+1998
+12 936,18 $
+28 401,21 $
+1999
+12 814,54 $
+5 678,19 $
+c) l'appelant effectuait sa propre comptabilité journalière, il effectuait ses propres dépôts bancaires et il s'occupait personnellement de payer ses dépenses tant personnelles que d'entreprise.
+d) les déclarations de revenus de l'appelant pour les années d'imposition en litige étaient préparées par des professionnels spécialisés qui étaient en mesure de renseigner l'appelant à l'égard de l'étendue précise de ses obligations en vertu de la Loi de l'impôt sur le revenu.
+e) l'appelant signait ses propres déclarations de revenus.
+f) l'appelant connaissait le contenu de ses déclarations de revenus.
+g) l'appelant connaissait l'existence de revenus qu'il ne déclarait pas.
+[4] Au début de l'audience, l'intimée a indiqué qu'à la suite d'une révision du dossier dans le cadre de la préparation du procès, elle était arrivée à la conclusion que les montants des revenus non déclarés devaient être réduits; quant aux dépenses personnelles, elles étaient également modifiées.
+[5] Les corrections sont décrites au paragraphe 11 des présents motifs du jugement. L'intimée a demandé la permission de déposer une réponse modifiée à l'avis d'appel pour expliquer et justifier les changements réduisant les revenus.
+[6] Si la demande avait été acceptée, l'intimée aurait dû assumer le fardeau de la preuve inhérent aux changements.
+[7] Même si le fait d’accepter que la réponse à l’avis d’appel soit modifiée changeait le fardeau de la preuve quant aux nouveaux éléments, l'appelant s'est énergiquement opposé à ce que la réponse soit modifiée, au motif qu'il était pris au dépourvu et qu'il ne pouvait, de ce fait, faire valoir adéquatement ses droits si on acceptait le dépôt d’une réponse modifiée à l'avis d'appel.
+[8] Il n'a également pas présenté de requête pour obtenir un ajournement, ajoutant qu'il était prêt à procéder à partir de la réponse originale à l'avis d'appel.
+[9] Compte tenu des motifs de l’opposition au dépôt de la réponse modifiée à l'avis d'appel, j’ai donné gain de cause à l’appelant et ainsi refusé la requête demandant la permission de déposer une réponse modifiée à l'avis d'appel.
+[10] L'intimée, à qui incombait le fardeau de la preuve pour les éléments faisant l'objet de modifications, n'a évidemment pu faire une telle preuve quant aux éléments nouveaux.
+[11] En conséquence, les parties ont procédé suivant les règles habituelles, à savoir que le fardeau de la preuve incombait à l'appelant quant aux cotisations à l'origine de l'appel et à l'intimée, quant aux pénalités. Même si la permission de modifier a été refusée, je reproduis les modifications souhaitées, étant donné qu'il s'agit d'un aveu ayant un effet favorable pour l'appelant.
+Revenus indiqués dans la cotisation
+Année d'imposition
+Montants révisés
+52 575,07 $
+28 401,21 $
+5 678,19 $
+1997
+1998
+1999
+46 406,67 $
+13 552,77 $
+4 132,96 $
+Dépenses indiquées dans la cotisation
+Année d'imposition
+Montants révisés
+30 538,21 $
+29 998,71 $
+30 276,76 $
+1997
+1998
+1999
+23 182,78 $
+24 794,63 $
+24 886,90 $
+[12] Seul l'appelant a témoigné à l’appui de son appel. Son témoignage est très simple à résumer. Il a affirmé avoir commencé à travailler très jeune et, dès lors, s’être intéressé à des activités de plusieurs genres, allant de la construction à la vente d'automobiles.
+[13] Le dossier de l'appelant a fait l'objet d'une vérification très sommaire, voire bâclée; en effet, la preuve a démontré que les données à l'origine des cotisations avaient été réunies lors d'une courte entrevue à Québec au bureau des vérificateurs.
+[14] Certes, lors de l'opposition, l'appelant pouvait compléter son dossier et fournir tous les faits, renseignements, documents ou chiffres à l'appui de sa contestation et de ses prétentions; il n'y a donc pas lieu de s'attarder plus longuement sur la qualité du travail à l'origine de la cotisation, d'autant plus que nous évoluons dans un régime fondé sur l'autocotisation. Un tel régime oblige le contribuable à fournir tous les renseignements permettant une analyse et une vérification rapide et efficace.
+[15] L’appelant s'est aussi intéressé très jeune à l'immobilier. Ainsi, il a fait l'acquisition, avec son frère, de plusieurs immeubles. De façon générale, lui et son frère achetaient des immeubles nécessitant des réparations qu'ils effectuaient afin de donner une plus grande valeur à ces immeubles.
+[16] Il s’agissait généralement d'immeubles nécessitant des réparations vendus par des institutions financières qui en avaient repris la possession. Les immeubles étaient réparés ou rénovés grâce à un prêt qui, dans certains cas, couvrait la totalité du prix d'acquisition, mais aussi le coût des réparations.
+[17] L’appelant a aussi affirmé qu'il vivait d'une manière très modeste et que ses dépenses étaient très faibles, puisqu'il vivait avec sa mère. Quoiqu’il soit père d'un jeune enfant, il a soutenu qu'il ne payait strictement rien pour son enfant, qui vivait avec la mère à un endroit différent de celui où il restait. Il a toutefois admis dans son avis d'appel que ses dépenses se chiffraient à 18 000 $ par année.
+[18] Selon la preuve documentaire produite, constituée principalement d'actes notariés, l'appelant obtenait des prêts couvrant soit la totalité du prix d'achat, soit, dans certains cas, des montants supérieurs au prix d'achat, ce qui lui permettait de faire certaines réparations augmentant la valeur des immeubles acquis.
+[19] Les nombreuses transactions ont effectivement démontré que l'appelant et son frère étaient actifs dans le marché immobilier. La preuve a aussi démontré que l'appelant pouvait emprunter facilement des montants importants, dont l'utilisation n'a pas toujours été très détaillée, si ce n'est que les sommes empruntées servaient généralement à faire des réparations ou des améliorations aux immeubles acquis.
+[20] Un des éléments importants de l'actif pris en compte par l'intimée était une motocyclette. L'appelant a expliqué les faits entourant l’acquisition de sa moto de marque Harley Davidson, qui avait une valeur de 20 000 $ selon le ministre, alors que, selon l'appelant, la moto avait une valeur d'environ 5 500 $.
+[21] Pour étayer la valeur de 5 500 $, l'appelant a produit une lettre de son assureur dont le contenu est ce qui suit (pièce A-1) :
+LUSSIER
+Cabinet d'assurances et services financiers inc.
+Le 4 février 2003,
+M. Patrick Godon
+[...]
+POUR FAIRE SUITE À TA DEMANDE, LA PRÉSENTE EST POUR
+T'INFORMER QUE POUR TON 1997 HARLEY DAVIDSON, ARTISANAL,
+NO SERIE : 2SAAQ19705140084, NOUS POUVONS LE COUVRIR POUR
+UNE VALEUR MAXIMUM DE 6,902 $
+[...]
+[22] L'appelant a affirmé que la faible valeur s'expliquait du fait qu'il s'agissait d'une moto reconstruite avec différentes pièces dépareillées et pour la plupart usagées; pour ces raisons, selon l'appelant, la valeur de la moto correspondait essentiellement à la valeur totale des composantes usagées utilisées et évaluées à plus ou moins 5 000 $.
+[23] En d'autres termes, la valeur de la moto n'a jamais excédée la somme de la valeur des composantes. L’appelant a d'ailleurs affirmé avoir revendu les pièces pour un montant d'environ 5 000 $, après avoir constaté que la reconstruction n'avait pas donné le résultat souhaité.
+[24] Après avoir affirmé avoir vendu la moto en question, l'appelant s'est ravisé pour reconnaître qu'il possédait toujours le « frame », soit la charpente ou le squelette de la moto en question, élément très important puisque le certificat d'enregistrement de la Société de l'assurance automobile y est rattaché, ce qui fait qu’il est toujours le propriétaire enregistré de la moto, ou plutôt d'une partie de celle-ci.
+[25] Lors d'une demande d'emprunt à une caisse populaire, l'appelant a lui‑même attribué une valeur de 21 000 $ à cette moto (pièce I‑1, onglet 8, p. 3). Il est donc facile de comprendre comment l'intimée s'y est prise pour établir la valeur de la moto à 20 000 $.
+[26] L’appelant a expliqué qu'il ne fumait pas et avait un régime de vie nécessitant des revenus très modestes. L'appelant n'a fait aucune preuve détaillée du montant dont il avait besoin pour ses dépenses personnelles.
+[27] Père d'un enfant, il a affirmé n'avoir jamais contribué à ses divers besoins financiers, ni fait aucun paiement de pension alimentaire à la mère.
+[28] La preuve a cependant établi qu'il était manifestement préoccupé et fort intéressé par le bien‑être et par les besoins de son enfant, puisqu'il avait ouvert un compte bancaire à son nom. Je ne l'ai donc pas cru lorsqu'il a affirmé qu'il ne contribuait pas aux divers besoins de son enfant.
+[29] En effet, le fait que l'appelant ait pris l'initiative d'ouvrir un compte bancaire au nom de l’enfant témoigne de son intérêt et de sa préoccupation pour le bien de son enfant, réalité tout à fait contradictoire avec l'affirmation voulant qu'il n'assumait aucune dépense pour les besoins de son enfant.
+[30] En effet, une telle préoccupation et un tel intérêt sont tout à fait incompatibles avec un désintéressement total aux besoins quotidiens de l'enfant. D'ailleurs, s'il s'était agi du seul aspect douteux ou non vraisemblable des explications de l'appelant, j'aurais peut-être été plus réceptif, mais le témoignage de l'appelant a démontré qu'il n'avait aucune difficulté à soumettre une version des faits qui l'avantageait, et cela, même si cela était douteux, boiteux et invraisemblable.
+[31] Quant aux dépenses personnelles de l'appelant, elles ont été établies selon les données qu'il a lui‑même fournies lors de l'entrevue au début de la vérification, qui ont été complétées par des données publiées par Statistique Canada.
+[32] À cet égard, l'appelant a essentiellement fait valoir qu'il ne fumait pas, qu’il avait des dépenses réduites au minimum, étant donné qu'il payait un tiers des frais de logement, et qu'il ne payait rien pour son fils.
+Analyse
+[33] Pour établir la valeur d'un bien, il existe plusieurs approches; celle qui consiste à fixer le montant qu'un acheteur sans obligation d'acheter doit débourser pour en faire l'acquisition d’un propriétaire sans obligation de vendre est sans doute la meilleure. C'est d'ailleurs là la définition de la valeur réelle d'un bien de quelque nature que ce soit.
+[34] En matière de motos, d’autos, de bateaux, de V.T.T. et de V.R., il existe également divers guides qui se fondent sur les montants obtenus lors de nombreuses ventes, en général aux enchères. De telles publications n'ont évidemment pas une fiabilité à toute épreuve, mais donnent tout de même une certaine indication. La valeur de véhicules dépend également en très grande partie de leur état, mais aussi de leur usure; il est donc essentiel de bien décrire l'état du véhicule pour en déterminer la valeur véritable à l’aide de ces guides, qui font surtout état de valeurs moyennes.
+[35] En matière de motos, et particulièrement lorsqu'il s'agit de la célèbre marque « Harley Davidson », il existe un autre marché, soit celui des véhicules transformés ou modifiés où, encore là, il devient plus difficile d'établir une valeur puisque le nombre d'acheteurs potentiels est évidemment réduit.
+[36] En l'espèce, pour établir la valeur réelle de la moto, la Cour doit trancher sur la foi d'une preuve plutôt verbale et incomplète; chose certaine, la règle de la meilleure preuve n'a manifestement pas constitué une grande préoccupation pour l'appelant qui, je le rappelle, avait le fardeau de la preuve.
+[37] L'appelant a lui‑même donné des informations tout à fait contradictoires, soit une lettre d'un courtier d'assurances qui a manifestement fixé arbitrairement la valeur assurable, ce qui est fort différent de la valeur réelle, et la valeur que l'appelant a lui‑même attribuée à la moto lors d'une demande d'emprunt à une caisse populaire.
+[38] Il est exigeant de satisfaire au fardeau de la preuve. Il ne suffit pas d'exprimer sa désapprobation et d’affirmer une chose différente qui favorise sa position et défavorise ce qui a été déterminé. La règle de la meilleure preuve est sans doute la façon idéale de relever un fardeau de la preuve.
+[39] En l'espèce, la moto constituait un élément fort important de l’actif. Pour contester la valeur attribuée et basée sur un fondement fort acceptable, soit l’évaluation donnée par l'appelant lui‑même lors d'une demande de crédit, il aurait fallu présenter une preuve plus convaincante que de simples affirmations. De plus, il existe en cette matière différentes façons d'établir d'une manière fiable la valeur d'un bien, notamment grâce à des spécialistes ayant la compétence nécessaire pour établir la valeur aux fins de l’assurance.
+[40] Je vois mal comment un assureur peut lui-même établir la valeur d’un bien assurable sans l'intervention d'un évaluateur compétent. Comment peut-il émettre une opinion du genre de celle reproduite à la pièce A-1? Chose absolument certaine, il ne s'agit aucunement de la meilleure preuve, d'autant plus que la personne qui signe le document n'a pas témoigné pour expliquer ou justifier son évaluation.
+[41] Pour toutes ces raisons, je fixe la valeur de la moto à 20 000 $, conformément à l'évaluation à laquelle l'appelant a lui‑même souscrit lors de la déclaration qu'il a dûment signée, et qu’il a confirmé de nouveau comme étant exacte à une date ultérieure lors d'une nouvelle demande de crédit à l'institution financière.
+[42] L'appelant a fait valoir que ses dépenses personnelles étaient minimes, parce qu'il habitait avec son frère et sa mère, partageant ainsi toutes les dépenses déjà peu importantes en trois. Il a également affirmé qu'à l'époque visée par les cotisations, il était le père d'un jeune enfant pour lequel il ne payait pas de pension alimentaire et n'assumait aucune dépense liée à sa garde et à son entretien.
+[43] Au paragraphe 7 de son avis d'appel, il a néanmoins fait l'admission suivante :
+7. Les dépenses personnelles du contribuable sont évaluées par l'Appelant à 18 000 $ annuellement pour les années en cause;
+[44] Le présent appel ne fait pas exception à ce qui semble être devenu une véritable règle en matière de contestation d'une cotisation établie par la méthode de vérification de rechange dite « selon l’avoir net ».
+[45] En effet, l'appelant, après avoir consacré la majeure partie de son énergie à pour démontrer certains manquements, voire même, en espèce, certaines erreurs, voudrait se voir récompensé par l'annulation pure et simple de la cotisation.
+[46] En d'autres termes, les plaideurs, dont en l'espèce le représentant de l'appelant, semblent tenir pour acquis que la preuve d'une erreur ou de l'absence de rigueur dans le traitement d'un dossier est en soi un élément suffisant pour obtenir l'annulation pure et simple d'une cotisation établie par la méthode de l'avoir net.
+[47] Notre régime fiscal repose sur le principe de l'autocotisation. Ainsi, la charge fiscale de tout contribuable est établie selon la déclaration de tous ses revenus, desquels doivent être soustraits tous les montants et dépenses admissibles prévus par la Loi, telles toutes dépenses effectuées dans le but de gagner un revenu.
+[48] Le contribuable est d’abord et avant tout responsable d’établir ses revenus. Pour satisfaire à cette obligation fondamentale, il a le devoir d'être vigilent et ordonné et d’être en mesure de produire une déclaration conforme à ses véritables revenus et d’avoir en sa possession tous les éléments, renseignements ou documents pertinents.
+[49] Or, le calcul des revenus et des dépenses admissibles sous-entend nécessairement la mise en place d'un système comptable permettant de calculer avec précision les revenus imposables qui doivent être déclarés. Si on agit autrement, on risque d’avoir des ennuis et des inconvénients, dont la responsabilité ne peut être imputée qu'à soi-même.
+[50] Lors d'une vérification fiscale, événement prévisible pour tout contribuable, toute personne doit être en mesure de justifier et d'expliquer l'exactitude de ses revenus déclarés et faire la preuve de la cohérence entre son actif et les revenus déclarés.
+[51] Pour faire une telle démonstration ou satisfaire à un tel fardeau de la preuve, les « peut‑être », les « je ne me souviens pas » et les « à peu près » ne sont pas très indiqués. Chose certaine, ce n'est pas là la façon de satisfaire à un fardeau de la preuve.
+[52] Tout contribuable a l'obligation de conserver toutes les pièces justificatives pour ses revenus. S'il manque à cette obligation, il risque de faire face à de réelles difficultés s'il veut contredire une cotisation, aussi arbitraire soit‑elle, d'ailleurs souvent établie par une méthode alternative en raison de l'impossibilité de procéder par l'approche traditionnelle.
+[53] En effet, lors d'une vérification, lorsque les chiffres disponibles soulèvent à leur simple lecture de sérieux doutes quant à leur véracité ou lorsque le contribuable n'est pas en mesure de fournir des explications cohérentes, vraisemblables et étayées par des documents appropriés, le vérificateur pourra, à ce moment, recourir à une méthode alternative, notamment la méthode de l'avoir net.
+[54] Si la méthode retenue produit un résultat erroné ou invraisemblable selon le contribuable, il pourra toujours, au moment de la présentation du projet de cotisation, au stade de l'opposition, et enfin devant le tribunal, faire la preuve de la disponibilité de toutes les informations et des documents pertinents pour permettre la révision de son dossier par la méthode traditionnelle.
+[55] En l'espèce, l'appelant reproche à l'intimée de ne pas avoir consacré suffisamment d'efforts à l’établissement de la cotisation à l'origine de l'appel. Je reconnais que la personne responsable du dossier a de toute évidence pris des raccourcis et tiré des conclusions un peu hâtives, lesquelles étaient d'ailleurs inexactes, puisque les fondements de la cotisation ont fait l'objet d'une révision à la baisse après l’examen de certains documents.
+[56] Après que j’ai accueilli l'objection et refusé le dépôt de la réponse modifiée à l'avis d'appel, l'intimée a essentiellement affirmé que les revenus non déclarés étaient inférieurs à ceux indiqués dans la cotisation. Étant donné la conséquence sur la cotisation, il y a lieu de considérer les réductions comme étant un aveu au profit de l'appelant.
+[57] Cet aveu n'est évidemment pas suffisant pour conclure que l’appelant a relevé le fardeau de la preuve. Il a admis avoir des dépenses personnelles de 18 000 $ au paragraphe 7 de son avis d'appel, ajoutant qu'il s'agissait là d'une évaluation tout à fait arbitraire n'ayant fait l'objet d'aucune analyse en profondeur des diverses composantes. De plus, je ne crois pas l'appelant lorsqu'il affirme qu'il n'a pas contribué aux dépenses liées au soin de son enfant.
+[58] Je retiens donc comme raisonnable le montant attribué par le ministre pour les dépenses personnelles.
+[59] L'écart entre les revenus indiqués dans la cotisation et les revenus déclarés est considérable. D'ailleurs, l'écart entre les revenus déclarés et l'aveu quant aux dépenses personnelles est aussi fort important, au point que ce seul élément justifie le bien‑fondé des pénalités.
+[60] Les sources de revenu de l'appelant étaient nombreuses; il devait avoir un minimum d'organisation et de discipline pour déterminer correctement ses revenus. Manifestement, la déclaration de ses revenus ne constituait pas une grande préoccupation.
+[61] Si une photo représente l'équivalent de mille mots, la comparaison des revenus déclarés avec le montant des dépenses personnelles admises produit un résultat éloquent et certainement convaincant quant à l'impossibilité mathématique de conclure au bien‑fondé des prétentions de l'appelant, qui affirme avoir déclaré la totalité de ses revenus.
+[62] Pour expliquer les écarts, l'appelant a affirmé que la différence entre son revenu et ses dépenses personnelles provenait des nombreux emprunts dont la preuve a fait état.
+[63] L'appelant s’exprime bien, est fort intelligent et est totalement en mesure de comprendre les exigences de la Loi de l'impôt sur le revenu quant à ses revenus et dépenses.
+[64] L’appelant n'a-t-il pas reconnu avoir dépensé plus ou moins 18 000 $ avec des revenus de plus ou moins 13 000 $, soit un écart de 5 000 $, montant considérable eu égard aux revenus et aux dépenses?
+[65] Une personne ayant un sens pratique élémentaire aurait compris qu'il s'agissait là de quelque chose d'invraisemblable. Or l'appelant, à cet égard, est et était une personne qui devait savoir que cela était invraisemblable. Malgré cette évidence, il a signé ses déclarations.
+[66] Le fardeau de la preuve reposait sur l'appelant quant aux cotisations. L'appelant a-t-il satisfait au fardeau de la preuve? L'appelant a principalement fait valoir que la valeur attribuée à l'un des éléments de son actif, à savoir la moto, était totalement inexacte et considérablement exagérée.
+[67] Pour étayer ses prétentions, il a soumis une preuve déficiente n'ayant aucune valeur probante, d'autant plus que cette preuve était en totale contradiction avec sa propre évaluation lors d'une demande d'emprunt à la caisse populaire.
+[68] L'intimée a elle‑même réduit le montant des revenus non déclarés de l'appelant et des dépenses, ce qui réduit la cotisation à l'avantage de l'appelant. Je prends acte de ces aveux et j'ordonne que le dossier fasse l'objet d'une nouvelle cotisation en tenant compte du fait que les revenus non déclarés pour les années 1997, 1998 et 1999 et les dépenses personnelles pour ces mêmes années devant être pris en compte pour les cotisations sont ceux indiqués au paragraphe 11.
+[69] Quant aux pénalités, j’en confirme le bien‑fondé; encore là, elles devront toutefois être révisées en fonction des nouvelles cotisations.
+[70] Pour toutes ces raisons, je fais droit à l'appel étant donné que les aveux réduisent la cotisation dont il est fait appel; l’affaire est donc déférée au ministre pour nouvel examen et nouvelles cotisations en tenant compte du fait que les dépenses personnelles et les revenus non déclarés sont ceux indiqués au paragraphe 11. Le tout sans frais.
+Signé à Ottawa, Canada, ce 22e jour d'octobre 2007.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2007CCI42
+Nº DU DOSSIER DE LA COUR : 2004-4442(IT)G
+INTITULÉ DE LA CAUSE : Patrick Godon et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Trois-Rivières (Québec)
+DATE DE L'AUDIENCE : le 28 septembre 2006
+MOTIFS DE JUGEMENT PAR : l'honorable juge Alain Tardif
+DATE DU JUGEMENT MODIFIÉ : le 22 octobre 2007
+COMPARUTIONS :
+Avocat de l'appelant :
+Me François Daigle
+Avocate de l'intimée :
+Me Johanne M. Boudreau
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom : Me François Daigle
+Cabinet : Heenan Blaikie
+Ville : Trois-Rivières (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

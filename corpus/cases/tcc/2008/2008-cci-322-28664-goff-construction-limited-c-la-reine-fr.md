@@ -1,0 +1,225 @@
+---
+title: "Goff Construction Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28664/index.do"
+last_modified: "2008-05-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 322"
+citation2: ""
+neutral_citation: "2008 CCI 322"
+decision_date: "2008-05-28"
+language: "fr"
+item_id: "28664"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1128
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:42:47.066000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3e38c9fb05652571f44f5e638e40c6ef6db24a23262bece742169b2c7c7d4502"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Goff Construction Limited c. La Reine
+
+- Citation: 2008 CCI 322
+- Decision date: 2008-05-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1128, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goff Construction Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-28
+Référence neutre
+2008 CCI 322
+Numéro de dossier
+2004-4143(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4143(IT)G
+ENTRE :
+GOFF CONSTRUCTION LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 23 avril 2008, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocats de l’appelante :
+Mes Margaret Nixon et David Muha
+Avocate de l’intimée :
+Me Brianna Caryll
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1999 est rejeté. Les dépens sont adjugés à l’intimée.
+Signé à Calgary (Alberta), ce 28e jour de mai 2008.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 7e jour de janvier 2009
+Mario Lagacé, jurilinguiste
+Référence : 2008CCI322
+Date : 20080528
+Dossier : 2004-4143(IT)G
+ENTRE :
+GOFF CONSTRUCTION LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Goff Construction Limited (« Goff ») interjette appel de la nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») pour son année d’imposition 1999. Le ministre a inclus dans le revenu de Goff un montant de 400 000$ que Goff avait reçu au titre de dommages‑intérêts dans le cadre d’un règlement survenu à la suite d’une poursuite judiciaire. Goff prétend que le montant du règlement était imputable au capital étant donné qu’il représentait un dédommagement pour des dépenses en capital et que, compte tenu du principe de la substitution, il s’agissait donc d’une rentrée de capital non imposable. L’intimée a invoqué le principe de la symétrie et a soutenu que, étant donné que le montant du règlement remplaçait des coûts que l’appelante avait déduits, ce montant devait donc nécessairement faire partie du revenu. L’appelante a rétorqué que les dépenses en capital étaient uniquement déductibles en application de l’alinéa 20(1)cc) de la Loi de l’impôt sur le revenu (la « Loi ») et que cela ne devrait pas changer le caractère de capital du montant du règlement.
+[2] Les parties ont soumis un exposé conjoint des faits fort utile qu’il vaut la peine de reproduire au complet.
+[traduction]
+Les parties à la présente instance admettent, pour les besoins de l’instance seulement, l’exactitude des faits ci‑après énoncés :
+A. Historique
+1. L’appelante est une société résidant au Canada pour l’application de la Loi de l’impôt sur le revenu (Canada) (la « Loi »). Pendant la période pertinente, l’appelante était contrôlée et exploitée par des membres de la famille Goff.
+2. Depuis sa constitution en personne morale, en 1959, jusqu’au début des années 1970, l’appelante s’occupait d’aménagement de biens‑fonds et de construction. Depuis le début des années 1970, l’appelante exploite une entreprise de placement, consistant principalement à louer des bâtiments qu’elle a antérieurement construits, à gagner un revenu de placement et à détenir des biens‑fonds qu’elle a antérieurement acquis. Au cours des années qui ont pris fin les 30 septembre 1992, 1993, 1994, 1995 et 1996, le revenu de l’appelante était principalement composé de revenus en intérêts tirés de son entreprise de placement (en général, des titres négociables). Au cours de l’année qui a pris fin le 30 septembre 1999, l’entreprise principale de l’appelante consistait à gagner des honoraires de gestion et de consultation.
+B. Entente concernant la vente de terrains non bâtis
+3. Au mois d’octobre 1987, l’appelante a conclu une convention d’achat‑vente (la « convention ») en vue de vendre à 572257 Ontario Limited (l’«acheteur ») 17,6 acres de terrains non bâtis, situés à Woodstock, comté d’Oxford (les « biens‑fonds en question »). La convention était assortie de la condition selon laquelle l’acheteur devait obtenir, à ses frais, un changement de zonage pour que les biens‑fonds en question puissent être affectés à des fins commerciales et obtenir toute modification nécessaire du plan officiel du comté d’Oxford.
+4. Au mois de septembre 1988, M. Richard Arblaster et son cabinet d’avocats, Aird & Berlis (les « défendeurs »), pour le compte de l’acheteur et du mandataire aux fins du projet d’aménagement des biens‑fonds en question, ont soumis au comté d’Oxford des demandes en vue de faire modifier le règlement de zonage et le plan officiel. Les demandes ont été rejetées1 et l’acheteur et le mandataire ont demandé aux défendeurs de présenter une demande de renvoi au ministre des Affaires municipales et d’interjeter appel devant la Commission des affaires municipales de l’Ontario (la « CAMO ») au sujet de la modification du plan officiel et des règlements de zonage respectivement. L’appelante n’a pas donné d’instructions aux défendeurs et n’a pas retenu les services des défendeurs pour qu’ils prennent ces mesures.
+C. L’audience devant la CAMO
+5. Le 30 avril 1992, à la suite d’une audience qui a duré 52 jours (l’«audience devant la CAMO »), la CAMO s’est prononcée à l’encontre du projet d’aménagement des biens‑fonds en question par l’acheteur et a tenu toutes les parties censément représentées par les défendeurs solidairement responsables des dépens sur la base avocat‑client (montant qui a en fin de compte été fixé à 1 350 000 $). La CAMO a conclu que l’octroi des dépens sur la base avocat‑client était justifié pour le motif que la conduite des défendeurs et des parties censément représentées par les défendeurs était « clairement déraisonnable et assimilable aux abus de procédure envisagés par les mots « frivole » ou « vexatoire », et qu’elle avait inutilement occasionné une « audience beaucoup trop longue ».
+6. Étant donné que les défendeurs avaient affirmé, dans le cadre de l’audience devant la CAMO, que l’appelante était leur cliente et une demanderesse à l’audience, l’appelante a été tenue solidairement responsable du paiement des dépens.
+D. La nouvelle audience devant la CAMO
+7. À la suite de la décision rendue lors de l’audience devant la CAMO, l’appelante a retenu les services d’un avocat et a présenté une demande en vertu de la Loi sur la Commission des affaires municipales de l’Ontario pour obtenir la réduction ou la suppression des dépens adjugés contre elle (la « nouvelle audience devant la CAMO ») pour le motif qu’elle n’avait pas pris part à l’audience devant la CAMO ou qu’elle n’avait exercé aucun contrôle sur la conduite de l’audience devant la CAMO.
+8. L’appelante a en bonne partie eu gain de cause lors de la nouvelle audience devant la CAMO. Dans une décision rendue par écrit le 24 février 1995, la CAMO a ramené l’obligation de l’appelante à 135 000 $ (soit 10 p. 100 du total des dépens), montant que l’appelante a payé. L’appelante a consacré énormément de temps et d’argent à obtenir ce résultat, et elle a notamment engagé des frais pour retenir les services d’un avocat aux fins de la conduite de la nouvelle audience devant la CAMO.
+9. En produisant ses déclarations de revenus et dans le calcul de son revenu à des fins fiscales pour les années d’imposition 1992 à 1997, l’appelante a déduit comme suit le montant qu’elle avait versé à la CAMO au titre des dépens et les dépenses qu’elle avait engagées en cherchant à faire réduire ou supprimer le montant des dépens adjugés contre elle (au cours des années où ces dépenses avaient été engagées) :
+Année
+Revenu déclaré
+Total des dépenses
+Dépenses se rattachant à la CAMO (incluses dans le total des dépenses)
+1992
+140 106 $
+139 975 $
+57 943 $2
+1993
+53 421 $
+190 794 $
+68 799 $3
+1994
+38 571 $
+269 045 $
+225 862 $4
+1995
+46 623 $
+334 938 $
+283 637 $5
+1996
+38 281 $
+50 633 $
+20 798 $6
+1997
+32 822 $
+98 838 $
+4 880 $7
+Total
+661 919 $
+10. Pour les années d’imposition 1992 à 1997, la déduction des dépenses se rattachant à la CAMO que l’appelante a effectuées avait pour effet de réduire son revenu imposable au cours de l’année où la dépense pertinente était engagée ou de donner lieu à des pertes autres qu’en capital, qui ont en partie été reportées sur des années antérieures ou sur des années ultérieures afin de réduire le revenu imposable de l’appelante au cours d’autres années d’imposition, conformément aux dispositions de la Loi.
+E. La déclaration
+11. Au mois d’août 1996, l’appelante a déposé contre les défendeurs une déclaration (la « déclaration ») dans laquelle elle demandait entre autres des dommages‑intérêts au montant de 635 000 $ résultant des fausses assertions ou des assertions négligentes des défendeurs, selon lesquelles ils agissaient pour son compte ou, subsidiairement, du fait que les défendeurs avait fait preuve de négligence en s’acquittant des tâches et obligations qu’un avocat a envers un client.
+12. Le premier paragraphe de la déclaration dit que l’appelante demandait : a) des dommages‑intérêts de 135 000 $, montant qui a été payé par l’appelante ou pour le compte de l’appelante au titre des dépens, découlant de la décision rendue par la CAMO lors de l’audience devant la CAMO; b) des dommages‑intérêts au montant de 500 000 $ pour toutes les dépenses (y compris les honoraires juridiques) que l’appelante avait engagées en cherchant à faire supprimer ou à faire réduire le montant des dépens adjugés contre elle; c) des intérêts avant et après jugement conformément aux dispositions de la Loi sur les tribunaux judiciaires, L.R.O. ch. C-43, dans sa forme modifiée; d) les dépens de l’action sur la base avocat‑client ainsi que la taxe sur les produits et services y afférente; et e) toute autre mesure de redressement que la cour estime juste. La demande de dommages‑intérêts au montant de 500 000 $ représentait une estimation des coûts (principalement des honoraires juridiques) que l’appelante avait engagés en cherchant à faire réduire ou à faire éliminer le montant des dépens adjugés contre elle.
+F. Le règlement
+13. Au mois de mars 1999, l’appelante a conclu un règlement avec les défendeurs. L’appelante a convenu d’accepter des défendeurs un paiement de 400 000 $ au titre des dommages‑intérêts (le « montant du règlement ») en échange d’une quittance finale et complète en faveur des défendeurs (l’« entente relative au règlement ») à l’égard de toute action ou demande découlant de la décision rendue lors de l’audience devant la CAMO, ou de toute audience ou de tout appel subséquents et de la déclaration, ou se rattachant de quelque façon à cette décision, ainsi qu’à ces audiences ou appels et à cette déclaration.
+14. Dans l’entente relative au règlement, il n’est pas fait mention de l’adjudication des dépens ou des dépenses que l’appelante avait engagées en cherchant à faire réduire ou à faire supprimer le montant des dépens adjugés contre elle, et la répartition du montant du règlement entre ces éléments ou d’autres éléments n’est pas indiquée.
+15. L’appelante n’a pas inclus le montant du règlement dans le calcul de son revenu aux fins de l’impôt sur le revenu.
+G. La nouvelle cotisation
+16. Par un avis de nouvelle cotisation daté du 7 juillet 2003, le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de l’appelante pour son année d’imposition qui avait pris fin le 30 septembre 1999 en vue d’inclure le montant du règlement dans le revenu de l’appelante. Le 23 août 2004, le ministre a modifié la nouvelle cotisation datée du 7 juillet 2003 en permettant à l’appelante d’imputer des pertes autres qu’en capital d’autres années d’imposition en vue de compenser une partie du revenu ayant fait l’objet de la nouvelle cotisation.
+17. Le ministre a établi la nouvelle cotisation compte tenu du fait que le montant du règlement constituait un revenu tiré d’une entreprise conformément au paragraphe 9(1) de la Loi, ou, subsidiairement, que le montant du règlement constituait un revenu tiré d’une source non énumérée conformément à l’article 3 de la Loi. Le ministre a depuis lors abandonné cette position, à savoir que le montant du règlement constituait un revenu tiré d’une source non énumérée conformément à l’article 3 de la Loi.
+______________
+1 Parce que la vente des biens-fonds en question était assortie d’une condition concernant une autorisation aux fins d’un changement de zonage, la vente n’a pas eu lieu. L’appelante a vendu les biens-fonds en question au cours d’années d’imposition ultérieures et a déclaré les ventes comme étant imputables au capital conformément à la Loi.
+2 41 p. 100 du total des dépenses.
+3 36 p. 100 du total des dépenses.
+4 84 p. 100 du total des dépenses.
+5 85 p. 100 du total des dépenses. Ce montant comprenait les dépens de 135 000 $ adjugés par la CAMO à l’encontre de l’appelante.
+6 41 p. 100 du total des dépenses.
+7 5 p. 100 du total des dépenses.
+[3] Il s’agit de savoir si les dommages‑intérêts de 400 000 $ doivent être imposés à titre de revenu. Les parties conviennent qu’il y a un conflit entre le principe de la substitution et le principe de la symétrie dans la Loi. Toutefois, je préfère considérer l’affaire comme présentant une possibilité de clarifier le principe de la substitution aux fins de l’impôt. Le principe de la substitution est‑il un principe par suite duquel le traitement fiscal du montant des dommages‑intérêts ou du règlement :
+(i) dépend de la nature du paiement (à savoir s’il est imputable au capital ou au revenu) que ce montant vise à remplacer?
+(ii) doit être le même que le traitement fiscal de ce que le montant vise à remplacer?
+[4] Selon la définition donnée du principe de la substitution, la réponse sera que le montant en question est imposable ou qu’il ne l’est pas. En fait, si le principe de la substitution vise le traitement fiscal du paiement à remplacer, soit en l’espèce les frais juridiques et les dépens de 135 000 $ adjugés par la CAMO à l’encontre de l’appelante, lesquels ont été déduits aux fins de l’impôt, ces montants devraient maintenant être inclus dans le revenu selon ce principe. Si, d’autre part, le principe de la substitution vise uniquement la nature du paiement, à savoir s’il est imputable au capital ou au revenu, il est alors possible de soutenir que les frais juridiques et les dépens de 135 000 $ adjugés par la CAMO étaient de fait de la nature du capital (c’est‑à‑dire qu’ils étaient uniquement déductibles par suite de l’application de l’alinéa 20(1)cc)), et par conséquent, le montant du règlement devrait lui aussi être considéré comme imputable au capital plutôt qu’au revenu, de sorte qu’il n’est pas imposable.
+[5] L’argument de l’appelante en faveur de la dernière approche concernant l’application du principe de la substitution est un argument habile, curieux et peut‑être même logique, mais il n’est pas tenu compte du fait que le principe de la substitution est un principe fiscal – ce principe ne s’applique pas dans le vide. Il s’agit d’un principe à appliquer afin d’assurer un traitement fiscal approprié, et non en vue de se lancer dans un examen ésotérique visant à établir une distinction entre le revenu et le capital simplement pour le plaisir. La distinction doit avoir des conséquences fiscales.
+[6] Le point de départ de l’analyse est la décision que la Cour suprême du Canada a récemment rendue dans l’arrêt Tsiaprailis c. R.[1], où la juge Charron a décrit le principe de la substitution comme suit :
+[...] le traitement fiscal dépend de ce que la somme vise à remplacer.
+[7] La juge cite ensuite les auteurs Hogg, Magee et Li, dans l’ouvrage intitulé Principles of Canadian Income Tax Law, 4e édition. Dans leur dernière édition (la 6e)[2], ces auteurs décrivent le principe comme suit (description qui n’est pas très différente de celle figurant dans l’édition antérieure) :
+[traduction]
+Quiconque subit un préjudice causé par une autre personne peut demander un dédommagement pour a) la perte de revenu, b) les dépenses engagées, c) les biens détruits ou d) le préjudice corporel subi, ainsi que des dommages‑intérêts exemplaires. À des fins fiscales, les dommages-intérêts ou le dédommagement reçus à la suite d’une décision judiciaire ou d’une entente à l’amiable peuvent être considérés comme étant payés au titre du revenu, du capital ou d’un avantage inattendu en faveur du bénéficiaire. La nature du préjudice à l’égard duquel le dédommagement est versé permet habituellement de déterminer les conséquences fiscales occasionnées par les dommages‑intérêts.
+Suivant le principe de la substitution, les conséquences fiscales liées aux dommages‑intérêts ou aux paiements faits à la suite d’un règlement sont tributaires du traitement fiscal réservé à l’objet que le paiement vise à remplacer :91
+[Je souligne.]
+Chaque fois qu’un commerçant reçoit, en vertu d’un droit, de quelqu’un d’autre, une indemnité au lieu d’une somme d’argent qui aurait été comptabilisée dans les profits réalisés au cours d’une année, dans le commerce qu’il exploitait à l’époque où il a reçu l’indemnité, il y a lieu de traiter cette indemnité aux fins de l’impôt de la même manière que la somme d’argent l’aurait été si l’indemnité ne l’avait pas remplacée.
+[...]
+Le recouvrement d’une dépense ne constitue pas un revenu, à moins que cette dépense n’ait été déduite.
+______________
+91 Ce principe a été défini par lord Diplock dans l’arrêt London & Thames Haven Oil Wharves Ltd. v. Attwooll, [1966] 3 All E.R. 145; infirmé [1967] 2 All E.R. 124, 134 (C.A.). La Cour d’appel fédérale l’a adopté et appliqué dans les arrêts Manley, note 92, ci‑dessous, et Schwartz, note 29.
+[8] L’appelante a soutenu que la déductibilité des frais juridiques et des dépens établis par la CAMO n’est pas pertinente étant donné que c’est simplement la nature de ces paiements qui importe. Les frais juridiques et les dépens établis par la CAMO étaient de la nature de dépenses en capital, englobées à l’alinéa 20(1)cc). L’intimée n’a pas contesté cette caractérisation et je l’accepte sans examiner en détail l’argument de l’appelante. La déductibilité de ces montants conformément à l’alinéa 20(1)cc) indique de fait qu’il s’agit de dépenses en capital, mais des dépenses assujetties à un traitement spécial du fait que cette disposition particulière permet leur déduction.
+[9] Il est important de se rappeler que la question dont je suis saisi se rapporte au recouvrement de frais, et non pas à un manque à gagner direct. Les décisions citées par l’avocat de l’appelante portant sur un manque à gagner, comme Prince Rupert Hotel (1957) Ltd. v. Canada[3], ne sont pas convaincantes. Toutefois, l’appelante a invoqué deux décisions, Coughlan v. R.[4], et Ipsco Inc. v. R.[5], à l’appui de la thèse selon laquelle, même si les frais juridiques peuvent être déduits, c’est la caractérisation du paiement comme étant imputable au capital qui détermine le traitement fiscal à appliquer au montant du règlement. Je ne suis pas convaincu que ces décisions étayent cette thèse.
+[10] Dans Coughlan, le juge Bowie était saisi d’une affaire dans laquelle des dommages‑intérêts d’environ 2,9 millions de dollars pour perte d’indemnisation et de 493 000 $ pour perte d’indemnités d’assurance avaient été accordés. On n’a fait valoir que subsidiairement, dans l’hypothèse où ces dommages‑intérêts pouvaient être considérés comme un remboursement des frais juridiques, que la Cour devrait se demander s’ils étaient de la nature du capital, par opposition à la question de savoir si ces frais juridiques avaient été déduits. Le juge Bowie a fait certaines remarques au sujet du remboursement des frais juridiques, mais il a conclu que les dommages‑intérêts n’avaient pas été accordés à ce titre, mais par suite de l’omission de maintenir une assurance et d’accorder une indemnité. Le juge a cependant mentionné que, étant donné la nature de capital de ces montants, il était surprenant que la Couronne eût permis la déduction des frais juridiques. Le juge n’avait pas à examiner la question du recouvrement de frais juridiques à juste titre déduits.
+[11] De même, dans l’affaire Ipsco, le juge Rowe était saisi de la question de savoir si un montant de 4,8 millions de dollars reçu au titre de dommages‑intérêts, lequel était clairement imputable au capital, aurait dû servir à réduire le montant de la déduction pour amortissement qu’il était possible d’effectuer sur l’immobilisation en question. Ipsco avait traité les 4,8 millions de dollars à titre de rentrée d’argent non imposable. Le ministre avait déduit ce montant du coût en capital du bien en question pour le motif qu’il représentait le produit de la disposition. Le juge Rowe a conclu que le montant avait été payé à l’égard des coûts supplémentaires de construction et d’installation, et non en vue du recouvrement de frais juridiques, mais il a cependant dit qu’« [e]n acceptant la déduction de frais juridiques, il semble que le ministre ait cafouillé ». Le juge a conclu à l’inexistence d’une déduction précise visant à réduire le coût en capital d’un bien (comme la déduction prévue au paragraphe 13(7.1) de la Loi).
+[12] Aucune de ces deux décisions n’étaye la thèse selon laquelle le montant recouvré pour des frais juridiques qui peuvent à juste titre être déduits n’est pas imposable en application du principe de la substitution, quoique la conclusion tirée par le juge Rowe, à savoir que le montant du règlement était une rentrée d’argent non imposable, ne tienne pas compte des conséquences fiscales de la réduction du coût en capital du bien en question. De fait, le juge a appliqué le principe de la substitution afin d’identifier les dommages‑intérêts à titre de capital, et il n’a pu trouver aucune déduction précise permettant de rajuster le coût en capital non amorti en conséquence. Il ne s’agissait pas du recouvrement de frais juridiques.
+[13] L’appelante a ensuite fait une distinction entre sa position et celle de l’appelante dans l’affaire Mohawk Oil Co. v. R.[6], où un contribuable avait cherché à obtenir une réparation en incluant un dédommagement pour manque à gagner. La Cour d’appel fédérale a conclu que le règlement était en partie imposable en tant que revenu et en partie en tant que gain en capital. Goff n’a jamais cherché à être dédommagée d’un manque à gagner. Comme il en a ci‑dessus été fait mention, il s’agit d’une question de recouvrement de frais et non d’une question de manque à gagner direct.
+[14] Goff a versé un montant élevé au titre des frais juridiques afin de faire réduire à 135 000 $ les dépens que la CAMO avait adjugés à son encontre. Ces montants se rapportent au capital de l’entreprise de Goff compte tenu du fait que l’adjudication des dépens se rapportait à la disposition d’une immobilisation et que les frais juridiques se rapportaient à la préservation d’une immobilisation (à savoir de l’argent). Je suis d’accord. La seule question épineuse à aborder est de savoir comment il faut appliquer le principe de la substitution lorsque des dépenses en capital telles que celles qui sont ici en cause sont déductibles. La jurisprudence citée par l’appelante ne me convainc pas que les auteurs Hogg, Magee et Li se soient trompés. Les attributs fiscaux d’un paiement effectué dans le cadre d’un règlement dépendent du traitement fiscal de l’élément que le paiement vise à remplacer. Lorsque, comme c’est ici le cas, le montant en question se rapporte au recouvrement de dépenses, par opposition à un manque à gagner, il faut examiner le traitement fiscal de ces dépenses. En l’espèce, ces dépenses ont été à juste titre déduites aux fins de l’impôt et, par conséquent, si le principe de la substitution est appliqué, le montant du règlement doit faire partie du revenu. La portée de ce principe ne devrait pas être élargie de façon à s’appliquer à des déductions qui ont été effectuées d’une façon inappropriée comme cela aurait été le cas dans les affaires Coughan et Ipsco. En effet, deux déductions inappropriées ne devraient pas s’additionner pour en faire une bonne.
+[15] Cette conclusion ne veut pas pour autant dire que le montant du règlement constituait un dédommagement pour des dépenses courantes; cela veut plutôt dire que le montant du règlement constituait un dédommagement pour des dépenses en capital déductibles.
+[16] Je crois que, en tant que principe fiscal fondé sur la jurisprudence, le principe de la substitution doit se rapporter au traitement fiscal, et non pas simplement à la nature du paiement, même si dans la plupart des cas les deux vont de pair. Dans la présente affaire, une dépense en capital a été traitée comme étant imputable au revenu par suite d’une disposition de la Loi de l’impôt sur le revenu permettant de la déduire. Le principe de la substitution devrait s’appliquer en vue d’aider à arriver à un résultat fiscal conforme à la législation fiscale, et non pas en vue d’encourager un résultat qui donne lieu à un gain fortuit à une extrémité du spectre, ou à une double imposition à l’autre extrémité. Le principe de la substitution devrait s’appliquer afin de maintenir la neutralité fiscale des dommages‑intérêts.
+[5] Pour ces motifs, je rejette l’appel, les dépens étant adjugés à l’intimée.
+Signé à Calgary (Alberta), ce 28e jour de mai 2008.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 7e jour de janvier 2009
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2008CCI322
+No DU DOSSIER DE LA COUR : 2004-4143(IT)G
+INTITULÉ : GOFF CONSTRUCTION LIMITED
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 23 avril 2008
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 28 mai 2008
+COMPARUTIONS :
+Avocats de l’appelante :
+Mes Margaret Nixon et David Muha
+Avocate de l’intimée :
+Me Brianna Caryll
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Margaret Nixon
+Cabinet : Stikeman Elliott LLP
+Toronto (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [2005] 1 R.C.S. 113.
+[2] (Toronto : Thomson Carswell, 2007).
+[3] [1995] 2 C.T.C. 212 (C.A.F.).
+[4] 2001 DTC 719 (C.C.I.).
+[5] 2002 DTC 1421 (C.C.I.).
+[6] [1992] 1 C.T.C. 195 (C.A.F.).

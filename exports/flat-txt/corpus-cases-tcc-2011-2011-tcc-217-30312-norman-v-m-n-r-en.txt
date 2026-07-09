@@ -1,0 +1,114 @@
+Title: Norman v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30312/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-217-30312-norman-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2011-04-19
+
+# Norman v. M.N.R.
+
+- Citation: 2011 TCC 217
+- Decision date: 2011-04-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8080, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Norman v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-04-19
+Neutral citation
+2011 TCC 217
+File numbers
+2010-2938(CPP)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Canada Pension Plan
+Decision Content
+Dockets: 2010-2938(CPP)
+2010-2939(EI)
+BETWEEN:
+DOUGLAS NORMAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 13, 2011 at Edmonton, Alberta
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Joan Bone
+Counsel for the Respondent:
+Mary Softley
+____________________________________________________________________
+JUDGMENT
+The appeal, with respect to decisions of the Minister of National Revenue made under the Employment Insurance Act and the Canada Pension Plan that Kevan Simms was engaged in insurable and pensionable employment with the appellant during the period from June 1 to September 8, 2009, is allowed, and the decisions are vacated. Each party shall bear their own costs.
+Signed at Ottawa, Ontario this 19th day of April 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 217
+Date: 20110419
+Dockets: 2010-2938(CPP)
+2010-2939(EI)
+BETWEEN:
+DOUGLAS NORMAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] In this appeal under the Employment Insurance Act and the Canada Pension Plan, Douglas Norman is challenging decisions of the Minister of National Revenue that Kevan Simms (the “Worker”) was engaged by him as an employee. The appellant submits that the Worker was an independent contractor.
+[2] The period at issue is from June 1 to September 8, 2009.
+[3] The legal principles to be applied in a case such as this are well known. At their core, it is necessary to determine whether the Worker was in business for himself. The factors from the often cited Wiebe Door decision, control, chance of profit, risk of loss, and ownership of tools, should be among the factors considered. Further, if the parties have a mutual intention that their relationship be one of independent contractor or employment, this will govern provided that the relationship is consistent with this intent.
+Analysis
+[4] The appellant operates a roofing business as a sole proprietorship. The roofing jobs are done in teams of approximately two to seven people. The Worker was in high school at the relevant time and worked for the appellant during the summer.
+[5] The business is organized on the basis that all members of the team are independent contractors. The appellant testified that he wishes to avoid as much paperwork as possible. The team members understand that they are responsible for obligations relating to income tax, Canada Pension Plan and GST.
+[6] The business operations are generally consistent with this intent. In particular:
+(a) The team members are not under any commitment to work exclusively for the appellant or to work on any particular job.
+(b) The work generally comes from a small number of contractors that are well known to the appellant and the other senior workers. The appellant selects the roofing jobs from among the requests that he has.
+(c) A team approach is taken to the performance of the jobs. The team members generally participate in the decision-making on the job site.
+(d) Each worker receives an hourly wage that varies depending on his experience. The team members then share equally in the remaining net profit earned on each job.
+(e) The tools are purchased by the appellant but are part of the expenses that are shared equally. The team members are free to use these tools in other jobs.
+[7] It is clear in my view that most team members are not engaged as employees. Their intent is very clear, and the working conditions have been established to be consistent with it.
+[8] The question that remains is whether the Worker is in a different category. The difficulty arises because the Worker is young, inexperienced and had a low level job. Counsel for the respondent suggests that the hallmarks of an independent contractor relationship are not present because of this.
+[9] I would agree with the respondent that the Worker was in a different position than the senior team members. He was junior man on the team and his ability to participate in the general decision-making was quite limited.
+[10] Although the Worker’s position was different, he also was an independent contractor in my view. I will first consider some of the assumptions made by the Minister. Many of the assumptions were rebutted by the testimony of the Worker, who was the respondent’s own witness.
+[11] The Minister assumed that the appellant provided transportation for the Worker to the jobsites. Based on the Worker’s testimony, I accept that this assumption has been rebutted.
+[12] Second, the Minister assumed that the Worker was instructed as to his hours and days of work. The Worker testified that he generally had freedom not to work on a particular job, except where it was a large job. He also indicated that there would not be consequences if he did not arrive at the jobsite at the start time that the team had agreed upon. This assumption has also been rebutted.
+[13] Third, the Minister assumed that the appellant instructed and supervised the Worker. The nature of the job undertaken by the Worker did not require much supervision. His tasks were narrowly defined – ripping off shingles and cleaning up the jobsite. The Worker testified that he received general instructions at the beginning of the job but after that there was no supervision. This assumption was also rebutted by the respondent’s witness.
+[14] Fourth, the Minister assumed that the Worker was paid a set hourly wage. The Worker testified that he had received large bonuses, which increased his pay on average from his hourly rate of $16 to over $21. The Worker was not aware of the precise calculations of the bonus, but he knew that the bonus depended on what was earned on the particular job. The assumption has been rebutted.
+[15] Fifth, the Minister assumed that the Worker’s intent was employment. His testimony clearly indicated otherwise.
+[16] I asked the Worker whether he had applied for employment insurance benefits in relation to his work for the appellant. He testified that he had, but only because a case manager had urged him to do so even though the Worker believed that he did not qualify.
+[17] Counsel for the respondent submits that the appellant had the ability to control how the work was done given the Worker’s lack of experience and that the profit element was not important because the Worker had little influence over how much profit was earned.
+[18] These arguments have some merit, but in my view it is putting the bar too high. The appellant operates a long-established business which has been clearly organized to avoid entering into employment relationships with team members. In my view, the appellant has taken sufficient steps to enable the relationship with the Worker to be on the same footing as the other team members.
+[19] The appeal will be allowed, and the decisions of the Minister that Kevan Simms was engaged in insurable and pensionable employment will be vacated. Each party shall bear their own costs.
+Signed at Ottawa, Ontario this 19th day of April 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 217
+COURT FILE NOS.: 2010-2938(CPP)
+2010-2939(EI)
+STYLE OF CAUSE: DOUGLAS NORMAN and THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: April 13, 2011
+REASONS FOR JUDGMENT BY: Hon. J.M. Woods
+DATE OF JUDGMENT: April 19, 2011
+APPEARANCES:
+Agent for the Appellant:
+Joan Bone
+Counsel for the Respondent:
+Mary Softley
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

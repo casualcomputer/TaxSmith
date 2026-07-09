@@ -1,0 +1,176 @@
+Title: Grant v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/232379/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-121-232379-grant-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-06-22
+
+# Grant v. The Queen
+
+- Citation: 2017 TCC 121
+- Decision date: 2017-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2097, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grant v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-06-22
+Neutral citation
+2017 TCC 121
+File numbers
+2014-1399(IT)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-1399(IT)G
+BETWEEN:
+CHRISTOPHER GRANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 2, 2017, at Sudbury, Ontario and Judgment and Reasons for Judgment rendered by way of telephone conference on June 22, 2017 at Montreal, Quebec.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Steven D. Leckie
+JUDGMENT
+The appeal from the Notice of Assessment dated May 14, 2012, made pursuant to section 227.1 of the Income Tax Act, R.S.C. 1985, c. 1, (5th Suppl., as amended) for the liability of RII Holdings Inc. for federal income tax withheld at source from the wages and salaries paid to its employees during the 2005 and 2006 taxation years, together with penalties and interest thereon, is hereby dismissed without costs, in accordance with the attached reasons for Judgment.
+Signed at Montreal, Quebec, this 22nd day of June 2017.
+“Guy Smith”
+Smith J.
+Citation: 2017 TCC 121
+Date: 20170622
+Docket: 2014-1399(IT)G
+BETWEEN:
+CHRISTOPHER GRANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT rendered by way of telephone conference on June 22, 2017 at Montreal, Quebec.
+Smith J.
+[1] This is an appeal from a Notice of Assessment made pursuant to section 227.1 of the Income Tax Act (the “Act”) from the liability of RII Holdings Inc. (the “Corporation”) for federal income tax deducted at source from its employees’ wages and salaries as set out in a Notice of Assessment dated May 14, 2012 and Notice of Confirmation dated January 10, 2014.
+[2] The Corporation made an assignment in bankruptcy on August 1, 2006 and the Appellant was assessed for the unpaid balance of the source deductions together with penalties and interest in the amount of $66,865.44.
+[3] The Appellant challenges the Notice of Assessment on the basis of the following alternative arguments:
+1. that the Minister failed to file a proper proof of claim with the trustee in bankruptcy, contrary to paragraph 227.1(2)(c) of the Act;
+2. that he exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances, in accordance with subsection 227.1(3) of the Act;
+3. that he was assessed more than two years after the last ceased to be a director of the Corporation, contrary to subsection 227.1(4) of the Act; and finally
+4. that the Minister failed to issue a Notice of Assessment “with all due dispatch”, contrary to subsection 152(1) of the Act.
+[4] I will add that the Appellant also raised the issue of financial hardship at the outset of the hearing. The Court declined to consider evidence or hear submissions on that issue on the basis that the Tax Court of Canada is not a court of equity and that its role and jurisdiction is to determine the validity and correctness of an assessment based on the relevant provisions of an Act and the facts giving rise to a taxpayer’s statutory liability.
+The Relevant Facts
+[5] The Appellant was the only witness. He indicates that he was the majority shareholder and director of the Corporation. There were also three other companies whose primary role was to hold real estate but the Corporation dealt with all the source deductions.
+[6] The Appellant explained that in late 2005 and early 2006, the Corporation ran into serious financial difficulties and there was a falling out with a private investor, a certain Ms. Kivela, who also held security over the assets of the Corporation and the other debtor companies. She had invested approximatively $3.0 million dollars. On June 15, 2006, an interim receiver was appointed by the Superior Court of Ontario. Its role was to monitor the affairs of the Corporation and in particular, as confirmed in the Reasons for Judgment included in Tab 4 of the Joint Book of Documents, it was authorized to review all disbursements and cheques.
+[7] The Appellant explained that he retained the services of a trustee in bankruptcy, being Surgeson Carson Associates Inc., to advise him and this lead to preparation and filing of a Notice of Intent to file a Proposal. This had the effect of a stay of proceedings under the Bankruptcy and Insolvency Act.
+[8] Ultimately, the Appellant was unable to fulfill the Proposals and consequently the Corporation became bankrupt effective August 1, 2006. A first meeting of creditors was held on August 26, 2006 at which time the Appellant met with the Canada Revenue Agency (the “CRA”) collection representative, Ms. Dombroskie. They discussed the amounts owed to CRA and both felt confident that this would be paid given all the assets of the Corporation. At this meeting, a new trustee in bankruptcy was appointed, being Christopher Crupi and Associates Inc. Thereafter, CRA collections issued a proof of claim on August 28, 2006 addressed to the first trustee in bankruptcy. It is not known if this proof of claim was delivered to the new trustee in bankruptcy. In any event, a revised or amended proof of claim was filed with the second trustee in bankruptcy approximately 11 months later, on July 24, 2007.
+[9] According to a document filed as Exhibit A‑2, being a Report dated April 28, 2015 by BDO as Guardian Trustee of the Estate of Christopher Crupi and Associates Inc., there were approximately $5.0 million dollars of debts including approximately $1.6 million unsecured and $3.3 million secured as well as $47,000 preferred, being the CRA claims.
+[10] I will add that this document corroborates the Appellant’s version of facts as to the change of trustee in bankruptcy on August 26, 2006. It also corroborates the filing of a Proposal on June 29, 2006. It confirms moreover, that all real property was transferred to the mortgagee pursuant to a final order of foreclosure and that the Court appointed receiver‑manager took possession and control of the cash in the bank, the accounts receivable, the machinery and equipment, such that there was no equity available to the bankrupt estate.
+[11] As noted above, the Appellant was the only witness. It is obvious to the Court that he has a vested interest in the outcome of this proceeding. As usual the Court must be alert to testimony that is self‑serving and uncorroborated. On balance, I found that the Appellant was a credible witness who provided a full, fair and frank review of the facts. Where he was unable to answer questions, I find that it was merely due to the passage of time or the inherent complexity of the situation and events. Moreover, I find that his testimony was by and large corroborated by the documents included in the Joint Book of Documents, notably the reports prepared and signed by BDO as well as the Reasons for Judgment of Justice Hackland of the Superior Court of Ontario.
+Legislative context
+[12] Before turning to the Appellant’s arguments, I would like to quickly review the legislative context. Subsection 227(1) of the Act refers to a person’s obligation to deduct or withhold taxes and subsection 227(4) provides that the amounts so deducted are to be held in trust for “Her Majesty the Queen for payment to Her Majesty in the manner and at the time provided for under the Act.”
+[13] In the decision of Barrett v. The Queen, 2012 FCA 33, Justice Dawson reviewed a similar provision under the Excise Tax Act where GST was deemed to be held in trust for the Crown. She explained (para. 34) that a director’s liability is not in respect of an ordinary debt. Rather it is an obligation in respect of monies collected from third parties and held in trust in respect of third parties obligations under the Act.
+[14] Madam Justice Dawson explained (para. 35) that as to the nature of the director’s relationship to the corporate tax debtor, by virtue of his or her office, a director is presumed to be aware of both the corporation’s obligation to remit monies held in trust and the corporation’s ability to pay. A director is further presumed to have the legal authority to direct the corporation to remit the amounts in issue.
+1. “With all due dispatch”
+[15] I will now review each ground of appeal in reverse order commencing with the Appellant’s argument that the Minister failed to assess him “with all due dispatch”, contrary to subsection 152(1) of the Act.
+[16] The Appellant notes that it has now been almost 11 years since the date of bankruptcy. He states that he was not made aware of his liability for source deductions until almost six years after the date of bankruptcy. He takes the position that this lapse of time is inordinate and unreasonable and that it does not meet the statutory test of having been issued “with all due dispatch”.
+[17] I note that the expression “with all due dispatch” appears in subsection 152(1) in relation to the Minister’s obligation to examine a taxpayer’s return of income for a taxation year. It therefore it assumes that an income tax return has been filed. Secondly, the same expression appears in subsection 165(3) of the Act in relation to the Minister’s obligation to review and reconsider an assessment where a taxpayer has filed a Notice of Objection. Again, it assumes the filing of a document by the taxpayer.
+[18] The Appellant has referred to a number of cases on the meaning of the expression “with all due dispatch” but I do not intend to review those cases on the basis that both subsections 152(1) and 165(3) are located in Division 1 of the Act dealing with “Returns, Assessments, Payments and Appeals” while subsection 227(1) is located in Division XV dealing with “Administration and Enforcement”. I note moreover that while subsection 227.1(1) is the charging provision, subsection 227(10) provides that: “The Minister may at any time assess any amount payable”.
+[19] A plain reading of the words “at any time” suggest there is no limitation period for the issuance of a notice of assessment against a director, save for the two year limitation period that I will review below.
+[20] And thus, I accept the Respondent’s position that the words “with all due dispatch”, as set out in section 152(1) of the Act, have no bearing on this analysis. As a result, that argument must be rejected.
+2. Two year limitation
+[21] The Appellant argues that the Minister issued a Notice of Assessment more than two years after he last ceased to be a director following the bankruptcy of the corporation on August 1, 2006. He argues that the trustee in bankruptcy assumed full responsibility over the affairs of the Corporation.
+[22] In response to this argument, I will say that while it is true that in the context of a bankruptcy, all the assets and undertakings of the Corporation devolve to the trustee in order to ensure an orderly disposition or liquidation of the assets of the bankrupt for the benefit of creditors, the fact remains that corporations are governed by their enabling legislation, in this case the Ontario Business Corporations Act (the “OBCA”).
+[23] The Act does not address the election and removal of directors. That matter is dealt in the OBCA. More specifically, a director ceases to hold office upon death, or if he himself becomes bankrupt or if he resigns or is removed from office by a resolution of the shareholders. None of these situations arise in this particular case and the Appellant has admitted that he did not sign or deliver a letter of resignation. He merely assumed that he was no longer a director of the Corporation as of the date of bankruptcy.
+[24] This situation was addressed squarely by the Federal Court of Appeal in the decision of Kalef v. The Queen, 1994 N.R. 39, where the Court found that Mr. Kalef had not ceased to be a director by virtue of the appointment of a trustee in bankruptcy. At paragraph 15 of the decision, Justice McDonald had this to say:
+(…) While it may be open to Parliament to expressly deviate from the principles of corporate law for the purposes of the Income Tax Act, I do not think such an intention should be imputed. Given the silence of the Income Tax Act, I think the guidance of the applicable corporate legislation, in this case the Ontario Business Corporations Act, should be taken. A director cannot and should not obtain the benefits of incorporation under the Ontario Business Corporations Act without accepting the responsibilities as well. (…)
+[25] The Appellant argues that his situation is factually different since he was forced off the properties and denied access by the trustee in bankruptcy. I am not swayed by this argument and find that the Appellant’s situation is in fact typical of most directors of bankrupt companies. More importantly, I note that the assessment in question relates to amounts due to Her Majesty the Queen which arose prior to the date of bankruptcy.
+[26] On the basis of the evidence before me, I conclude that the Appellant was still a director of the Corporation when the Notice of Assessment was issued in May 2012. As a result, I must also reject this argument.
+3. Due diligence
+[27] I now turn to the so‑called due diligence defence set out in subsection 227.1(3) of the Act.
+[28] The Appellant did not specifically refer to this argument, but I find that it is implicit in his Notice of Appeal. In any event, the matter was also raised in the Reply.
+[29] Turning to the specifics of this case, the Appellant indicated that the Corporation was waiting for a rather large refund of ITC’s under the Excise Tax Act (the “ETA”) as well as a refund for a SR&ED tax credit, but few details were provided. He also indicated that he had arranged for the filing of a Proposal under the Bankruptcy and Insolvency Act to allow the Corporation to reach an arrangement with creditors and continue its operations. Although most of the Appellant’s testimony refers to events that transpired in mid‑2006, I note from a review of the Notice of Assessment that the amounts in question actually arose in 2004, 2005 and 2006.
+[30] The most recent decision to have dealt with this question is Buckingham v. The Queen, 2011 FCA 142. It specifically dealt with subsection 227.1(1) of the Act. I quote from paragraph 33, where Justice Mainville indicated that:
+(…) the burden is on the directors to prove that the conditions required to successfully plead such a defence have been met. (…) The directors must thus establish that they exercised the degree of care, diligence and skill required “to prevent the failure”. The focus of these provisions is clearly on the prevention of failures to remit.
+[My Emphasis.]
+[31] As this decision points out, the primary focus will be on the preventative measures taken by a director, but that does not end the analysis. The statutory provision also uses the words “in comparable circumstances” suggesting that it is also necessary to analyse a director’s liability in the context of a corporation facing serious financial difficulties. At paragraph 52 of this decision, Justice Mainville indicates:
+Parliament did not require that directors be subject to an absolute liability for the remittances of their corporations. Consequently, Parliament has accepted that a corporation may, in certain circumstances, fail to effect remittances without its directors incurring liability. What is required is that the directors establish that they were specifically concerned with the tax remittances (…)
+[My Emphasis.]
+[32] In other words, a director would have to adduce evidence to establish that he turned his attention to the required remittances.
+[33] The Appellant’s evidence was that he was waiting for certain tax refunds to pay the remittances and secondly, that he filed the Proposals to avert the Corporation’s bankruptcy.
+[34] On balance, I find that the Court has insufficient evidence and is unable to conclude that the Appellant discharged his statutory duty of care. In particular, I find that very little if any evidence was adduced for 2004, 2005 and early 2006 when the remittances were due.
+[35] Consequently, I must reject this argument as well.
+4. Proof of claim
+[36] I turn now to the issue of the filing of a valid proof of claim but before turning to the arguments raised by the Appellant, I will take a more detailed look at subsection 227.1(2). It provides that a director is not liable under subsection 227.1(1), being the charging provision, unless the Minister has satisfied the preconditions set out in paragraphs (a), (b) or (c). Those paragraphs operate disjunctively; in other words only one can apply. In this instance, we are dealing with paragraph (c). It has two components:
+1. that the person (or in this case the Corporation) that was subject to the obligation to withhold pursuant to subsection 227(1), has filed an assignment in bankruptcy; and secondly
+2. that the Minister has filed a proof of claim with the trustee in bankruptcy within six months from the date of bankruptcy.
+[37] As explained by the FCA in Worrell v. The Queen, [2001] 1 C.T.C. 79, a director’s liability “does not crystallize until the conditions prescribed in subsection 227.1(2) have been satisfied”. But as will be seen below, subsequent decisions of the FCA that are binding on this Court, have held that subsection 227.1(2) is directory in nature. It is therefore relevant to consider section 166 of the Act, which provides as follows:
+166. An assessment shall not be vacated or varied on appeal by reason only of any irregularity, informality, omission or error on the part of any person in the observation of any directory provision of this Act.
+[38] The Respondent has referred to two decisions of the Federal Court of Appeal. The first one is Kyte v. The Queen, [1997] 2 C.T.C. 14. It dealt with paragraph 227.1(2)(a) of the Act. The taxpayer argued that the amount set out in the certificate filed with the Federal Court was incorrect and that the Minister had failed to adduce evidence to prove that this arose as a result of “any irregularity, informality, omission or error” as set out in section 166 of the Act. That provision had not been pleaded, but the Federal Court of Appeal found that the error in question was nonetheless in respect of a directory provision of the Act and that the trial judge was entitled to rely on section 166. The Federal Court of Appeal pointed out that the amount owing in many cases will be fluid and therefore that the requirement to set out the exact amount in the Certificate was directory only.
+[39] The second decision was Moriyama v. The Queen, 2005 FCA 207. In that case, the taxpayer was a director of a bankrupt company. At issue was his liability for unpaid GST. I note that the applicable provisions of the Excise Tax Act mirror the provisions of the Act.
+[40] The taxpayer raised several arguments including that the Minister had failed to file a proof of claim within six months from the date of bankruptcy. It appears from the facts that an original proof of claim had been filed on time but that additional amounts became due in the months just prior to the bankruptcy and were included in a second proof of claim filed with the trustee in bankruptcy over 12 months after the date of bankruptcy.
+[41] The taxpayer argued that the requirement to prove the loss within six months was mandatory and that the failure by the Minister to meet the deadline meant he was not liable as a director for the amounts set out in the second proof of claim. Relying on the decision of Kyte, which I have described above, the trial judge concluded that the subject provision was directory and that the late filing of an amended proof of claim was not fatal. The Federal Court of Appeal agreed.
+i) Delivery of a signed proof of claim to Appellant
+[42] The Appellant alleges that the Minister failed to provide him with a copy of the proof claim within six months from the date of bankruptcy and that the proof of claim attached to the Notice of Assessment and Notice of Confirmation was not signed or sworn. I note that the obligation to prove a claim involves the completion of a prescribed form under subsection 124(2) of the Bankruptcy and Insolvency Act. It is essentially a statutory declaration as to the amounts owed. It is clear that it must be signed by a representative of the creditor and sworn before a Commissioner of Oaths.
+[43] Before concluding on that tissue, I will address a related preliminary issue raised at the hearing. The Respondent introduced a Joint Book of Documents. While I have no reason to doubt that the Appellant agreed to its contents, it was clear from his testimony that he had never seen the complete signed and sworn version of the Proof of Claim which appeared at Tab 1. He indicated that he had made several requests for a signed version and that none had been provided.
+[44] This situation was particularly troublesome in light of Rule 89 of the Tax Court of Canada Rules (General Procedure) which provides that unless a document is produced by a party it shall not be used in evidence by that party except with leave of the Court.
+[45] I find that this situation is not unlike the decision of this Court in Walsh v. The Queen, 2009 CCI 557, where Justice Sheridan treated a letter from the Sherriff as required by paragraph 227.1(2)(a) as inadmissible on the basis that it had not been included in the Respondent’s List of Documents and had not been produced until the date of hearing.
+[46] In this instance, counsel for the Respondent took the position that the signed version had been delivered as part of the productions. The Court record indicates that the Appellant was initially represented by counsel and that in November 2015 he elected to act in person. Under the circumstances, we can speculate that the signed proof of claim was likely produced and provided to the Appellant’s former counsel but we have no evidence of that, other than counsel’s representations as an officer of the Court.
+[47] Having reviewed the Court record, I note that the Respondent’s List of Documents includes a reference to the CRA proof of claim of August 28, 2006. I also note that it includes a Notice to Inspect that provides that all documents can be inspected and copied by appointment, between certain hours of the day at a given address in Ottawa. If neither the Appellant, nor his former counsel had ever seen the signed proof of claim, I can only conclude that they failed to avail themselves of the opportunity to inspect and copy the original documents.
+[48] On that basis, and on the basis of counsel for the Respondent’s representations as an officer of the Court that the signed proof of claim was made available as part of the productions, I have concluded that it was admissible as evidence.
+[49] Having reached this conclusion as to the admissibility of the signed proof of claim, I find that there is nothing in the statutory language contained in paragraph 227.1(2)(c) that requires delivery of a signed proof of claim to the Appellant as a director. That said, I will add that the Appellant’s testimony was that he had met the CRA representative at the first meeting of creditors. Although both assumed that there would be sufficient assets to pay the outstanding claim, I find that nothing prevented the Appellant from following up with Ms. Dombroskie, or her successor, to verify and ensure that this had in fact been done.
+[50] Moreover, and although it may have been unrealistic in the months that followed the bankruptcy, there was nothing to prevent the Appellant from following up or concluding an arrangement with CRA. I mention this because subsection 227.1(6) of the Act provides that a director may pay the outstanding amount and assume the preference that is accorded to the Crown in a bankruptcy.
+ii) Delivery of proof of claim to the trustee in bankruptcy
+[51] I now turn to the issue of the delivery of the initial proof of claim. As was made evident at the hearing, Surgeson Carson Associates Inc. assisted the Appellant in the preparation of a Notice of Intention to file a Proposal and, when that failed, called a first meeting of creditors for August 26, 2006. At that meeting, the creditors elected to substitute the first trustee for a new trustee, being Christopher Crupi and Associates Inc., as they were authorized to do by virtue of section 14 of the Bankruptcy and Insolvency Act.
+[52] The Appellant’s position is that CRA’s representative, Ms. Dombroskie, was at the meeting and that she was aware of the change of trustee. The Appellant’s testimony on this issue is uncontested.
+[53] Ms. Dombroskie nevertheless prepared a cover letter and proof of claim dated two days after the first meeting of creditors and addressed it to Surgeson Carson although they were no longer the trustees. In the absence of further testimony, either by Ms. Dombroskie or some other CRA representative, the Court can only speculate as to whether the proof of claim was later forwarded to the new trustee, either by Ms. Dombroskie when she realized her error, or by the first trustee as a professional courtesy. In the end, there is an obvious gap in the evidence and the Court can only speculate as to what transpired. The Appellant argues that as a result of this error, it can be said that the Minister has not met the requirement that a proof of claim be forwarded to the trustee in bankruptcy within six months and that accordingly, the assessment should be vacated.
+[54] I find that sending the proof of claim to the first trustee was indeed an error. However, on the basis of the wording of section 166 of the Act, I find that the Court cannot vacate the assessment. I find that this conclusion is consistent with the authorities noted above and in particular with the Federal Court of Appeal’s conclusion that paragraphs 227.1(2)(a), (b) and (c) are directory.
+[55] I will add that even if I am wrong in reaching this conclusion, it is not disputed that a second proof of claim was sent to the substituted trustee in bankruptcy approximately 11 months after the date of bankruptcy. I find that the decision of Moriyama v. The Queen, cited above, is authority for the proposition that this was a valid proof of claim and that the requirements of paragraph 227.1(2)(c) were met, again given the directory nature of that provision.
+iii) The amounts set out in the initial proof of claim changed
+[56] The Appellant claims that the amounts set out in the initial proof of claim differ from those set out in the second proof of claim and that his liability should be limited to the initial amounts. Of course the Appellant has also argued that the first proof of claim was invalid.
+[57] In any event, with respect to the additional amounts for 2005 and 2006, it may be that CRA was unable to initially ascertain the amounts owed until it had an opportunity to review the salaries paid to determine the appropriate amount of withholding taxes. The other amounts were for penalties and interest.
+[58] As indicated by the Federal Court of Appeal in Kyte v. The Queen, noted above, there may be discrepancies as the amounts owed for source deductions may be fluid. On the basis of that decision, I conclude that nothing turns on the fact that the amounts owing changed between the date of the initial proof of claim and the second proof of claim.
+Conclusion
+[59] This effectively deals with the arguments raised by the Appellant. For all the foregoing reasons, the appeal must be dismissed.
+[60] I hasten to add that even though this Court has concluded on the correctness of the Notice of Assessment, it is also of the view that this might be an appropriate case for the Minister to consider a waiver of the penalties and interest on the basis of what I would characterize as an unacceptable processing delay on the part of CRA as well as the obvious mismanagement of the bankrupt estate by the second trustee whose files were seized by Order of the Superintendent of Bankruptcy and transferred to BDO Canada Limited as Guardian Trustee for final disposition.
+[61] Regrettably, this Court does not have jurisdiction over the waiver of penalties and interest and the Appellant would have to raise this matter directly with the Minister, if he so chooses.
+[62] All circumstances considered, I exercise my discretion not to award costs.
+Signed at Montreal, Quebec, this 22nd day of June 2017.
+“Guy Smith”
+Smith J.
+CITATION:
+2017 TCC 121
+COURT FILE NO.:
+2014-1399(IT)G
+STYLE OF CAUSE:
+CHRISTOPHER GRANT v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Sudbury, Ontario
+DATE OF HEARING:
+June 2, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT RENDERED BY WAY OF TELEPHONE CONFERENCE:
+June 22, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Steven D. Leckie
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

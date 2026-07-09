@@ -1,0 +1,506 @@
+---
+title: "Rattai v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/482926/index.do"
+last_modified: "2020-07-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 55"
+citation2: ""
+neutral_citation: "2020 TCC 55"
+decision_date: "2020-07-17"
+language: "en"
+item_id: "482926"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4599
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:08:00.840000+00:00"
+cases_cited_count: 13
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5f7763d216291490aabe498709df4164575e16c55861b9919e646af6d17c921b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rattai v. The Queen
+
+- Citation: 2020 TCC 55
+- Decision date: 2020-07-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4599, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rattai v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-07-17
+Neutral citation
+2020 TCC 55
+File numbers
+2016-967(IT)G, 2016-968(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-967(IT)G
+BETWEEN:
+DANIEL RATTAI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Cynthia Rattai – 2016-968(IT)G on May 27, 2019 to May 29, 2019, at Calgary, Alberta
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Duane R. Milot
+Anna Malazhavaya
+Counsel for the Respondent:
+E. Ian Wiebe
+JUDGMENT
+The appeal from the assessment under the Income Tax Act for the 2010 taxation year is allowed and the assessment is vacated.
+Costs are awarded to the appellant in accordance with Tariff.
+Signed at Nanaimo, British Columbia, this 17th day of July, 2020.
+“K. Lyons”
+Lyons J.
+Docket: 2016-968(IT)G
+BETWEEN:
+CYNTHIA RATTAI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Daniel Rattai – 2016-967(IT)G on May 27, 2019 to May 29, 2019, at Calgary, Alberta
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+James Rhodes
+Counsel for the Respondent:
+E. Ian Wiebe
+JUDGMENT
+The appeal from the assessment under the Income Tax Act for the 2010 taxation year is allowed and the assessment is vacated.
+Costs are awarded to the appellant in accordance with Tariff.
+Signed at Nanaimo, British Columbia, this 17th day of July, 2020.
+“K. Lyons”
+Lyons J.
+Citation: 2020 TCC 55
+Date: 20200717
+Docket: 2016-967(IT)G
+BETWEEN:
+DANIEL RATTAI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2016-968(IT)G
+AND BETWEEN:
+CYNTHIA RATTAI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lyons J.
+[1] Daniel Rattai and Cynthia Rattai appeal the penalties assessed by the Minister of National Revenue (the “Minister”) under subsection 163(2) of the Income Tax Act (the “Act”). The penalties are in respect of fictitious business losses and fictitious capital losses (the “Losses”) reported in income tax returns in their names for the 2010 taxation year (the “Returns”), prepared and filed by DeMara Consulting Inc. (“DeMara”). The fictitious business losses resulted in claims for refunds in the 2010 taxation year (“2010”) and requests for such losses to be carried back to the three preceding years which would have generated refunds in those years. The fictitious capital losses would have resulted in net capital losses.
+[2] The appellants contend they did not review, approve or sign the 2010 Returns filed by DeMara, nor knew that it was claiming fictitious Losses in the Returns. Thus, they submit they were not knowingly or grossly negligent and that the Minister should not have imposed the penalties.
+[3] The nature of the Losses is similar to those claimed by a larger group of individuals whose income tax returns were also prepared and filed by DeMara for their clients.
+I. ISSUE
+[4] The issue is whether each appellant is liable to a penalty (the “penalties”) pursuant to subsection 163(2) of the Act. I must therefore determine whether the appellants knowingly or under circumstances amounting to gross negligence made or participated in, assented to or acquiesced in the making of false statements in the Returns filed by DeMara.
+[5] The appeals were heard on common evidence and the appellants testified on their own behalf. Robert Larkin, a Canada Revenue Agency (“CRA”) appeals officer assigned to the appellants’ objections, testified on behalf of the respondent. These are common reasons for judgment for both appeals. To the extent that the facts and circumstances differ between Mr. and Mrs. Rattai, these will be differentiated in these reasons.
+II. FACTS
+[6] The appellants graduated from high school in 1980, married in 1986, raised four children, and separated in 2015.
+[7] Mr. Rattai was employed as a power engineer spanning twenty years. Mrs. Rattai was a receptionist and bookkeeper for seven years commencing in 1985. From 2005 until 2012 she was a financial services administrator.
+[8] The appellants started buying residential rental properties in Medicine Hat, Alberta, around 1987 with the purpose of earning rental income. Between 2010 to 2013, they had acquired 16 houses. Four were owned personally, with the remaining properties owned by their corporations incorporated in 2002. [1] The appellants held equal shareholdings in Dancin Holdings Incorporated (“Holdings”). Holdings then incorporated and held shares in two other corporations. [2] Mr. Rattai was the president of Holdings and the appellants were directors of their three corporations.
+Preparation and processing of returns with former accountants
+[9] Over the years, various accountants prepared the appellants’ tax returns. Except for one accountant, all were located in Medicine Hat. Each year Mr. Rattai gathered information from his den and gave it to the accountant to prepare the returns. [3] Their expenses were placed on credit cards held in their personal names. Their standard practice in dealing with their former accountants when their returns were ready was to meet with the accountant to review, discuss, sign their returns, sign an authorization for filing with CRA and then pay the accountant for services before the accountant filed the returns with CRA (“standard practice”). On signing the return, Mr. Rattai said he was confirming to the best of his knowledge that the returns reflected accurate income for the year.
+[10] Between 1992 to 2002, Michelle Winger, a certified management accountant who largely prepared personal tax returns and did some bookkeeping, prepared the appellants’ personal tax returns. Mrs. Rattai was working with Ms. Winger on and off but did not want to prepare hers and her husband’s tax returns. The appellants met with Ms. Winger who explained the returns to them. The standard practice was followed.
+[11] Attending a monthly Real Estate Investment Network group meeting in Calgary with like-minded investors until 2007, they learned about rental property and became aware of Merrilyn Reid, a certified general accountant. In 2002, the appellants hired Ms. Reid. She assisted them with incorporation and prepared their personal and corporate tax returns and corporate statements for 2002 to the 2007 taxation years. [4] They took the documentation to Ms. Reid’s bookkeeper whom put the information together for Ms. Reid to prepare their tax returns. Mrs. Rattai reviewed the completed return to ensure accuracy and met with Ms. Reid. She charged approximately $2,000 for each corporate return. Their subsequent chartered accountants, Schwab & Company (“Schwab”), charged in excess of $2,000. Each accountant charged between $200 to $300 for the preparation of each of their personal tax returns.
+Unfiled 2010 returns prepared by Schwab
+[12] Schwab prepared and filed the appellants’ corporate and personal tax returns with CRA for 2008 and 2009. It also prepared their corporate and personal tax returns for 2010 and filed the corporate returns but not their personal tax returns (“unfiled returns”). Mr. Rattai had reviewed his unfiled return, Mrs. Rattai had not. She presumed the unfiled returns had been prepared in early 2011. However, Mr. Rattai stated that they got their information in late. The unfiled returns are dated November 16, 2011.
+DeMara
+[13] DeMara promoted “The Remedy” program to clients (“members”) in an effort to reduce taxes payable to nil. It prepared and filed income tax returns for members and their spouses. All members were subject to the same process. Finalization of membership required listening to recorded calls and live question and answer calls. If members agreed to the information during the calls, a Member Kit (the “kit”) was sent to members consisting of a variety of documents for completion. The Member Information Sheet (“MIS”) was completed by a member with detailed personal and contact information which was given to DeMara, authorizing DeMara to prepare the members’ and spouses’ income tax returns using that information. [5] Members signed a Confidentiality and Non-Disclosure Agreement with DeMara. Once the kit was completed, members would sign Form T1013, Authorizing or Cancelling a Representative, authorizing DeMara to be a representative when dealing with CRA (“T1013 Authorization”).
+[14] Other information to complete The Remedy came from the members. They were required to provide to DeMara copies of documents specified on its list titled Documents Required for Remedy (the “List”). These comprise personal living expenses and personal debt/financing obligations ultimately claimed as deductions on their income tax returns. Using a business number provided by CRA, T5 and T5008 slips were created by DeMara for such expenses and financing obligations.
+DeMara authorized to prepare the appellants’ 2010 tax returns
+[15] Mr. Rattai acknowledged in cross-examination that he had listened to DeMara’s pre-recorded information session and knew it was “private and confidential and may not be shared or given out to anyone without our express consent.” This is referenced in DeMara’s August 5, 2011 email to him which also notes that this is the first step in The Remedy process.
+[16] After listening to that session, on August 31, 2011, Mr. Rattai informed DeMara, “…I want to become a member, please send me a package.” [6] At trial, he agreed a package was the next step in his participation with DeMara but claimed he did not know nor remember what the package was. His March 4, 2012 email to DeMara indicates, “Package Received #2”. Preceding that email, DeMara had sent two emails to him in 2011 which indicate a kit was attached to each email.
+[17] The MIS sent to Mr. Rattai served as an authorization for DeMara to prepare the appellants’ income tax returns as illustrated in the following excerpt from the MIS: [7]
+I authorize DeMara Consulting Inc. to prepare my income tax return (including spouse and family if applicable) based on the information I provide with this Member registration. I understand that my tax return will be prepared with the full knowledge that a full CRA audit is possible and that the information provided is current and accurate to the best [of] my knowledge.
+[18] Mrs. Rattai surmised that the appellants had agreed in early to mid-2011 that DeMara would prepare their 2010 personal tax returns. It was hired and authorized (per the MIS) as their representative in 2012. Mr. Rattai recommended to his wife that she engage DeMara as her representative. When the respondent suggested to Mr. Rattai that he spoke with DeMara in early 2011 but did not fully retain it until 2012, he initially responded he did not recall. Eventually, he agreed with that. The Returns filed in March 2013 indicate DeMara as the “tax preparer”. They were “still utilizing” DeMara as their “Tax Service Provider” up to July 2014 when Ms. Beilstein was hired. [8]
+DeMara authorized to file Returns
+[19] At trial, the appellants objected to a number of documents sought to be entered into evidence by the respondent. I reserved rulings only on CRA computer-generated printouts titled Client Other Party System, Retrieve Auth Rep Info and Business Number System, Retrieve Notice History (collectively, “CRA printouts”); these pertain to authorization of a representative and application for a business number, respectively. [9]
+[20] The appellants argued that the CRA printouts should not be admitted into evidence because they do not have any signed documents or forms nor correspondence flowing between the appellants and DeMara or between DeMara and CRA showing the appellants authorized DeMara as their representative or that they requested business numbers from CRA. They contend the printouts are insufficient and merely show that DeMara filed authorizations and business numbers were issued. Mrs. Rattai submitted that the T1013 Authorization should be produced showing her signature. They assert the probative value will be outweighed by the prejudicial effect from this Court accepting or considering the CRA printouts.
+[21] Earlier in the proceedings, the appellants had testified they could not recall reviewing or signing a T1013 Authorization. However, when asked by the respondent if in 2012 Mr. Rattai authorized DeMara to be his representative with CRA, he initially said yes it was possible. When he was queried as to whether the authorization involved filling out the T1013 Authorization, he said he did not recall.
+[22] Mr. Larkin was confused in his testimony when he said that the T1013 Authorization had been updated to CRA’s records on January 10, 2012 (suggesting Mrs. Rattai had signed such authorization). It was established in cross-examination that the authorization form that he testified to having reviewed was a RC-59 form to file T5008 forms, not a T1013 Authorization.
+[23] Mrs. Rattai said she did not sign a request for a business number in 2012 or make a request through DeMara. When Mr. Rattai was asked about the form “requesting for a business number (BN-required information)” and if it was the form referred to in the March 4, 2012 email, he said he never filled out the form. When redirected to the question, he said he did not know if that was the case. It was later put to him that a business number was registered in his name in 2012 with CRA, to which he responded he did not know.
+[24] Given the appellants’ inability to recall, Mr. Rattai’s response, the confusion and the erroneous submission regarding the absence of correspondence for the application for a business number, the CRA printouts would provide some evidence with other evidence to prove facts in issue in the appeals. These would assist the Court in weighing matters and in its determination and assessment of credibility. On balance, the probative value outweighs the prejudicial effect. The CRA printouts are admitted into evidence as Exhibits R24, R25, R27 and R28.
+[25] Mr. Larkin explained that CRA has separate departments responsible for requests for T1013 Authorization for a representative and requests for business numbers when requests come in. From CRA’s perspective, DeMara was acting on the appellants’ behalf, thus such authorization was not in question. Once a request is made for a business number, the respective department issues the number. That department enters information into the system, including dates, attached to the account by the social insurance number; it can then generate a printout. The printout for the authorizations shows when the request was received and accepted by CRA.
+[26] Shortly before the hearing, Mr. Larkin had reviewed CRA’s system records and made a comparison with the CRA printouts to see if the information was consistent; he confirmed there were no discrepancies. Although he was unable to say who signed or submitted the requests, the respective CRA printouts indicate that DeMara was authorized as a representative of the appellants and that business numbers were issued in the appellants’ names on the dates indicated as follows:
+Mr. Rattai
+Authorized representative
+April 4, 2012
+[BLANK]
+Business number
+April 6, 2012
+Mrs. Rattai
+Authorized representative
+February 22, 2012
+[BLANK]
+Business number
+February 22, 2012
+[BLANK]
+Business number
+March 2, 2012
+[27] It is clear from Mr. Rattai’s email exchange with DeMara in March 2012, which predated the issuance of his business number on April 6, 2012, that DeMara was involved in the application for his business number, issued two days after CRA had accepted DeMara as his authorized representative. I find that the appellants had authorized DeMara as their representative with CRA and that DeMara either acted on the appellants’ behalf in directly applying for business numbers or assisted them in that regard. The dates of acceptance and issuance, respectively, are set out in paragraph 26 of these reasons. The payment made by Mr. Rattai in March 2013, in paragraph 45 of these reasons, served as confirmation of these authorizations, consistent with the admissions in their pleadings that DeMara was the appellants’ representative at the time of filing the Returns. [10]
+DeMara filed T5 and T5008 Summaries and information slips with CRA
+[28] Identified as the appellants’ representative on the T5 Summary Return of Investment Income and T5008 Summary Return of Securities Transactions (the “Summaries”) for each appellant, DeMara prepared and filed same with CRA NCR on September 14, 2012 with the accompanying T5 slips, Statement of Investment Income, and T5008 slips, Statement of Securities Transactions (the “information slips”). When sent to CRA, Mr. Larkin said the information slips are inputted into CRA’s system and an option screen. Affidavits filed by the appellants show the T5008 stamped as received by the mailroom at the National Capital Region of CRA, as confirmed by Mr. Larkin in his testimony. [11]
+[29] During his review, Mr. Larkin had looked at the Summaries and information slips that had been filed several months in advance of the Returns. This did not strike him as unusual because there is a legal obligation on the issuer of information slips to send these to CRA by a certain due date. On closer scrutiny, he observed that the Summaries were unusual in that personal receipts were being used to create the information slips.
+DeMara filed the Returns with fictitious Losses
+[30] On March 15, 2013, DeMara sent the Returns, as the appellants’ authorized representative, to CRA for filing. According to the appellants’ pleadings, DeMara reported the following in the Returns: [12]
+[BLANK]
+Mr. Rattai
+Mrs. Rattai
+Total income
+($371,628)
+($512,758)
+Net business losses
+$482,258
+$580,941
+Capital losses
+$481,858
+$580,539 [13]
+[31] Included in the Total income are the amounts of $84,011 and $63,183 for employment income, respectively. In examining the Returns for 2010, Mr. Larkin noted that for each appellant the Total income is in a negative amount, and refunds of $25,674 and $13,172 were claimed for Mr. and Mrs. Rattai, respectively.
+[32] The business losses reported, Mr. Larkin explained, are reported on Form T2125, Statement of Business or Professional Activities (the “Statement”), filed with each Return. These losses consist of interest paid of $481,858 and $580,941.06 (“Interest”) for Mr. and Mrs. Rattai, respectively, with the additional amount of $400 (for each appellant) as legal, accounting and other professional fees. Each Statement indicates the operation of a “Consulting” business with no revenue realized.
+[33] Mr. Larkin identified the Request for Loss Carryback forms, in the appellants’ names and included in the Returns, which were made for each appellant for the business losses to be distributed in 2007, 2008 and 2009 to reduce taxes in those years (“Requests”); he examined these in his review. [14] References to the Returns in these reasons will include such Requests unless otherwise specified.
+[34] When he conducted his review, Mr. Larkin reviewed the T5 Summary and the T5008 Summary, each stamped “CRA Copy”, with related information slips and understood the latter to be reporting transactions (the “Summaries with CRA Copy and related information slips”). He was unsure if these were included in the Returns or submitted later.
+[35] As clients of DeMara, Mr. Larkin understood that the appellants would have provided all receipts they had, including those for personal expenses (“receipts”), and then DeMara created the information slips as if these were business expenses. The T5 slips totalled $481,858.36 and $580,541 (on the T5 Summaries) for Mr. and Mrs. Rattai, respectively. These purport to be interest paid by the appellants, as payers, to third parties as the recipients. [15]
+[36] Also included in each Return is Schedule 3 which reported the capital losses. Mr. Larkin understood that they were reporting these losses arising from the disposition of securities on the T5008 slips which purport to show the appellants as recipients of amounts in respect of security dispositions involving the identical third parties in the T5 slips. [16] In cross-examination, he was asked about one T5008 slip issued to CRA. He understood this to mean that Mr. Rattai paid an amount to CRA in 2010 as an expense. Similarly, CRA is described as the recipient of the T5 slip reflecting it earned investment income from Mr. Rattai. He agreed that when receiving the T5 slips it did not have typical content.
+[37] Mr. Larkin had compared Schedule 3 to the Statement that shows “Interest” in the same amount plus $400 for legal, accounting and other professional fees that amounts to the business loss. [17] Thus, the T5 and T5008 slips filed do not constitute interest paid in a business nor the disposition of securities, respectively.
+[38] In 2010, Mr. Rattai held credit cards with Desjardins Visa, ATB and possibly CitiFinancial, and Mrs. Rattai held cards with Hudson’s Bay, CIBC, TD Canada Trust and Sears but does not recall dealing with the National Bank of Canada. She held a chequing account and line of credit with CIBC and a bank account and mortgages with TD Canada Trust. The corporate accounts were held at HSBC Bank of Canada, a business chequing account, and MCAP Mortgage Servicing Centre and Merix Financial, mortgage accounts. These account numbers are included in the information slips attached in the Affidavits and the CRA copies in the Returns.
+[39] The appellants admitted they never operated a consulting business, thus did not incur business losses. There were no dispositions of securities, thus they did not incur capital losses.
+DeMara’s March 11, 2013 email and Attachments
+[40] Mr. Rattai claims he never saw nor recalls receiving or reviewing DeMara’s March 11, 2013 email (“2013 email”), and attachments sent to him regarding “Daniel and Cindy Rattai - 2010 Remedy Tax Package”. [18] He did not see these until the discovery process. I reject Mr. Rattai’s evidence that he did not receive nor review the 2013 email and Attachments. The 2013 email and other email exchanges Mr. Rattai had with DeMara were produced by him as part of the satisfaction of answers to undertakings given by him during the discovery process.
+[41] In the 2013 email under the subheading “T1 summary (remedy)” for each appellant, it highlights parts of the content of the Returns that DeMara planned to file with CRA once DeMara received the “processing contribution request” (that is, payment) from the appellants. The email states, in part:
+Hi Daniel & Cindy,
+Please find attached the following in respect to your 2010 remedy:
+1. T1 summary (remedy) - for Daniel:
+Refund:
+• The highlighted Refund highlighted indicates the estimated refund you should receive from CRA if this was the first filing for 2010.
+• Please keep in mind that if you have previously received a refund from CRA, the amount on this form will be less the amount previously received.
+• If you have previously made payments to CRA for a balance owing, that amount should be refunded and is not included in the amount shown on this form
+[…]
+2. Request for Loss Carryback/Carryforward - for 2007, 2008 & 2009
+• The yellow highlighted years are carrybacks which are the excess credits from the remedy filed. The credits can be used for up to 3 years carried back, reducing your taxable income to zero if there are enough credits.
+• This may result in refunds from taxes already paid to CRA during those years.
+• The green highlighted amount is the carryforward credits available to be carried forward to future remedy years
+3. T1 Summary (Remedy) - for Cindy:
+Refund:
+[…]
+4. Request for Loss Carryback/Carryforward – for 2007, 2008 & 2009
+[…]
+5. 2010 processing contribution request
+• Once this has been received we will file your remedy to CRA
+• Once we have filed your return(s) to CRA, we are not able to track it’s progress and CRA does NOT provide updates voluntarily. If you have not received your NOA/NOR from CRA within 5 months of us filing your return(s) to CRA, please contact us and we will in turn contact CRA and request an update.
+[42] Two of the attachments are documents titled 2010 Tax Return Summary and a Request for Loss Carryback prepared by DeMara for each appellant, each marked “CLIENT COPY” (“Attachments”). The Attachments contain DeMara’s proposed filings as reflected in the Returns.
+[43] The 2010 Tax Return Summary [19] prepared by DeMara shows the net business loss of $482,258.36, and a refund of $25,674.17 is highlighted. The 2013 email states, “The Highlighted Refund highlighted indicating the estimated refund you should receive from CRA if this was the first filing for 2010.”
+[44] The Request for Loss Carryback is virtually identical to the one included in the Return. [20]
+Payment
+[45] An invoice was issued the same date as the 2013 email (“Invoice”), addressed to “Member: Dan & Cindy Rattai” for “Processing contribution and tax amendments for 2010 – For Daniel” and “Payable to DeMara”. [21] Mr. Rattai indicated he did not recall the Invoice nor recalled paying DeMara. Mrs. Rattai, however, was unequivocal that her husband had paid $400 for each of them, but could not recall when that occurred.
+[46] A Receipt was issued, dated March 13, 2013, indicating the “Contribution received” from both appellants regarding Number: M/C- 2010 Remedies (the “Receipt”). It relates to the process contribution payment referenced in paragraph 5 of the 2013 email as the last step in the process before filing the Returns. This accords with DeMara’s stipulation of “Payment required before filing” in the MIS. The $400 amount is on the Statement filed with each Return and is referenced in DeMara’s November 1, 2011 email as the amount for filing The Remedy with CRA. [22]
+[47] In argument, the appellants had suggested that the Invoice and/or the Receipt might be for something other than for payment for the preparation and filing of the Returns. That is not supported by the evidence. The Invoice was issued. Mr. Rattai then paid DeMara (as confirmed by his wife) per the last step in the process before filing and in compliance with DeMara’s stipulation of payment before filing. The Receipt is dated two days before DeMara sent the Returns to CRA. I find that the Invoice is for preparation and filing of the Returns and the Receipt, which I infer included the $400 for the preparation and filing fees for each appellant, and is clearly in recognition of the payment of the Invoice. Payment before filing also conforms with one part of the appellants’ standard practice.
+Other emails between Mr. Rattai and DeMara
+[48] Questions were put to Mr. Rattai in cross-examination about the following email exchanges between him and DeMara.
+[49] On September 1, 2011, the day after Mr. Rattai informed DeMara he wished to become a member, DeMara sent an email to him that states:
+[…]
+Please find attached our newest member kit/forms required for completion for a file with DeMara Consulting Inc. The forms can be faxed, mailed or dropped off at the office, along with all documents/receipts.
+If a couple is filling out the paperwork, the individual with the highest earnings may complete the forms for the process, however, we may need to get the other spouse to complete some forms, as well. [23]
+[50] Mr. Rattai denied a kit was attached to that email. Similarly worded to that email is the second email dated November 1, 2011. He testified he did not listen to the recording to guide members in filling out the documents attached in the kit in the second email nor recalled reviewing or filling in the documentation. He does not recall reviewing or filling out the Business Consent Form nor recalls reviewing the documents titled Authorization to Release Personal Tax Information to a Third Party and Frequently Asked Questions.
+[51] DeMara had indicated to him, “When we request a Business Number (BN #), we enter ‘Consulting’ as the business type. The only thing we need to know from you is what type of consulting; it is usually based on the type of work you do/have done […].” While he may not have filled in documentation, it is obvious from his March 4, 2012 email to DeMara that he had reviewed the business number document and DeMara was planning to fill in the document as it relates to the document titled Requesting for a Business Number (BN) – REQUIRED INFORMATION. This is captured in his March 4, 2012 email to DeMara, in which he states:
+Hi Manda
+When we sent are [our] material to you we sent are 2010 tax returns, which were completed but not sent in, can they get all the information off those tax returns or do we need to send mortgage statements, utilities, etc also. plus you sent me a form- requesting for a business number (BN) - required information, it has please confirm your consulting type, which would be either -- real estate marketing consultant or just marketing consultant which ever works best. […] [24]
+[52] Mr. Rattai was unable to explain what he meant by his comments in that email when he selected the type of business entity to be entered on the application form for the business number even though no business existed per the appellants’ admissions.
+[53] DeMara’s response to Mr. Rattai on March 5, 2012 makes it obvious that he would not have been able to finalize membership to authorize DeMara to prepare their tax returns without reviewing the documents in the kit, providing it with the requested information and complying with its requirements and process. In addressing his initial query, DeMara responded it still required all of the documents as noted in its List, not only for calculation but as back-up for The Remedy filing. The types of documents listed on the List that a member is required to provide include personal expenses to claim as business expenses on their tax returns which are reported on T5 slips created by DeMara to complete The Remedy. I found Mr. Rattai to be evasive in his responses on this and on other points during his testimony.
+CRA
+[54] The Returns were selected for review by CRA audit. Each appellant received a letter from CRA dated October 2, 2013 (“October 2013 letters”) in which it indicated that it was reviewing the requests for the Losses in Returns and attached a questionnaire for completion, seeking supporting documentation. [25] No information was provided to CRA. Five months later, CRA sent proposals letters to the appellants to disallow the Losses and impose federal penalties pursuant to subsection 163(2). Mr. Rattai said he did not recall but said it is possible he received the proposal letters. [26]
+[55] Without response from the appellants, the Minister assessed them in accordance with the proposal letters to deny the Losses claimed in the Returns. Federal penalties were also imposed in the amounts of $99,217.00 and $120,271.60 for Mr. and Mrs. Rattai, respectively. Mr. Larkin indicated that the option C printouts show the Returns were filed on March 19, 2013 and assessed on May 30, 2014. He had checked the CRA system to ensure the printouts were accurate in these matters. [27]
+[56] After unsuccessfully attempting to contact DeMara regarding the October 2013 letters, around July 2014 the appellants hired Irene Beilstein at Evident Tax Alternatives, recommended to them by Marcel. Ms. Beilstein’s suggestion to request CRA reverse the tax filings in the Returns was accepted by the appellants. She filed Notices of Objections dated July 30, 2014 with CRA. [28] The next day she filed the T1 Adjustment Requests (“T1 Adjustments”) in which she asked CRA to disregard the Returns filed so that the Tl Adjustments would constitute new returns.
+[57] On the T1 Adjustments form, Mr. Larkin said the column described as “previous amount” reflects the amount(s) reported on the Return by DeMara and the new amount requested by Ms. Beilstein. These request that the Losses be reduced to nil and reductions to total income from ($371,628) to $110,155 and from ($512,758) to $67,707 for Mr. and Mrs. Rattai, respectively. [29]
+[58] Mr. Larkin reviewed the appellants’ objections, copies of the Returns with related documents in his file and the T1 Adjustments to determine if the appellants made false statements in the Returns knowingly or were grossly negligent.
+[59] In examination-in-chief, Mr. Larkin identified the Returns in the appellants’ names filed by DeMara and confirmed he had reviewed these as an appeals officer as part of the file he received. CRA’s normal process for late-filed returns was followed. A stamp was placed on the first page (“WTC”) and the last page (stamped received March 19, 2013, with a penalty) on each Return. Satisfied with the explanation, given the appellants’ admissions in their pleadings that DeMara had filed false Returns and noting the unusual features, these were entered into evidence. [30]
+[60] When asked in cross-examination if the Return in Mr. Rattai’s name had been taken apart and possibly documents inserted into it, Mr. Larkin said he did not know. Invariably, he said he works from the copy of the tax return in the file assigned to him, which is what he did. I found Mr. Larkin to be a credible witness.
+[61] Mr. Larkin acknowledged that:
+a) the language in the certification box on page 5 of the Return refers to the information on and any document attached is correct, complete and fully discloses all his income;
+b) similar language is found in the Request and the T5008 Summary;
+c) neither the Return nor the documents included were signed or initialled by Mr. Rattai; and
+d) a shipping label shows that DeMara sent a package to CRA, Winnipeg Tax Centre on March 15, 2013.
+[62] All references to provisions that follow are to the Act.
+III. ANALYSIS
+Law
+[63] Pursuant to subsection 163(3), the Minister has the burden of proving the facts justifying the assessment of the penalty against a taxpayer under subsection 163(2).
+[64] The relevant part of subsection 163(2) reads:
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement […] in a return, form, certificate, [or] statement […] ([…] a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty […]
+[65] The Federal Court of Appeal in Wynter v Canada, 2017 FCA 195, 2017 CarswellNat 5049 (“Wynter”) discussed the distinction between knowledge and gross negligence and the interplay of these requirements to wilful blindness within the meaning of subsection 163(2). [31] The governing principles are summarized below.
+Knowledge requirement
+[66] Knowledge of a false statement in a return can be actual, through an intention to cheat, or can be imputed to the taxpayer by a finding of wilful blindness through the choice of the taxpayer not to inquire. [32]
+[67] Wilful blindness pivots on a finding that the taxpayer deliberately chose not to make inquiries to avoid verifying that which might be an inconvenient truth thus was deliberately ignorant. [33] Deliberate ignorance, the Court notes, connotes suppression of a suspicion. The Court set out the wilful blindness test as follows:
+13 A taxpayer is wilfully blind in circumstances where the taxpayer becomes aware of the need for inquiry but declines to make the inquiry because the taxpayer does not want to know, or studiously avoids, the truth. The concept is one of deliberate ignorance: […] In these circumstances, the doctrine of wilful blindness imputes knowledge to a taxpayer: […] [34]
+[68] Wilful blindness engages a subjective determination. As such, personal attributes (subjective belief or personal characteristics) of the taxpayer may be considered in determining whether a taxpayer is wilfully blind. If there is a finding of wilful blindness, knowledge is imputed, thereby satisfying the knowledge requirement under subsection 163(2). [35]
+Gross negligence
+[69] Subsection 163(2) also applies where a taxpayer makes a false statement under circumstances amounting to gross negligence.
+[70] As articulated by Justice Strayer in Venne v The Queen,[1984] C.T.C. 223, 84 D.T.C. 6247 at paragraph 37:
+“Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[71] A finding of gross negligence requires proof of a high degree of negligence. Thusly, it can arise “[…] where the taxpayer’s conduct is found to fall markedly below what would be expected of a reasonable taxpayer” and “requires a higher degree of neglect than a mere failure to take reasonable care” [36] or is a marked or significant departure from what would be expected.
+[72] Whether a high degree of negligence exists or not, it engages an objective determination such that personal attributes of the taxpayer are not to be factored into the analysis. [37] In Peck v the Queen, 2018 TCC 52, 2018 CarswellNat 970 (“Peck”), Justice Owen articulates this as “the objective standard against which the conduct of the [taxpayer] is measured […] is the expected conduct of a reasonable person in the same circumstances as the [taxpayer]” against whom the penalty is assessed. [38] The only exception to that standard is if the taxpayer is incapable of understanding the obligation not to make a false statement or omission in their income tax return.
+Wilful Blindness can lead to Gross Negligence
+[73] Although distinct, gross negligence and wilful blindness may merge to some extent in their application such that gross negligence can result from a taxpayer’s wilful blindness. [39] The converse is not, however, necessarily true. A grossly negligent taxpayer is not necessarily wilfully blind. [40]
+Preliminary matter
+[74] I will first address a preliminary matter raised by the appellants. They submitted that the existing two-element test under subsection 163(2), established in the jurisprudence, should be modified to a three-element test. Assuming I understood the wording of test proposed by the appellants, they suggest as follows:
+a) Is there a false statement?
+b) Is there is a false statement under circumstances knowingly or amounting to gross negligence?
+c) Did the appellants participate in making the false statement under circumstances amounting to gross negligence, knowingly or by wilful blindness?
+[75] I disagree. The Court in Strachan v Canada, 2015 FCA 60, 2015 D.T.C. 5044 (“Strachan”) recently affirmed the two-element test in Torres v R, 2013 TCC 380, 2014 D.T.C. 1028 (“Torres”). [41] In differentiating between “knowingly or wilful blindness” as the appellants propose in paragraph (c), that runs counter to the guiding principles in Wynter in that wilful blindness, once found, imputes knowledge. Apart from that, the proposed test fails to fully capture the wording in the legislation. For example, “assented to” and “return” are not included.
+[76] Two elements must be established under subsection 163(2) for a finding of liability for a penalty:
+a) a false statement (or omission) in a return; and
+b) knowledge or gross negligence in the making of, participating in, assenting to or acquiescing in the making of that false statement (or omission) in a return.
+[77] The respondent’s position is that the information in the Returns is false and the facts demonstrate that the appellants chose to ignore the warning signs and therefore were wilfully blind. Alternatively, they were grossly negligent.
+[78] With the foregoing test and principles in mind, I now turn to consider if the respondent proved, firstly, that a false statement was made in each of the Returns and, secondly, if the appellants knew about it or were grossly negligent.
+A. False statements
+[79] As to the first element of subsection 163(2), the appellants argued that they neither approved, consented to or participated in the preparation of the Returns nor made false statements in the Returns that included the claims for Losses nor approved or consented to DeMara filing them. Further, they did not make, participate in, assent to or acquiesce in filing of the Returns, therefore, were not involved in making of a false statement.
+[80] I must first determine whether the respondent proved that there was a false statement in each of the Returns.
+[81] It emerged during cross-examination of Mr. Larkin that the copy of the Return in Mr. Rattai’s name that had been presented to prove the false statements (and previously thought to have been a copy of the Return filed by DeMara) was incomplete and not actually a copy of the Return filed by DeMara. When asked about missing pages, he said he did not recall if the two pages were missing from the Return when he reviewed the file assigned to him nor did he recall seeing any notes on the auditors file about the missing pages. When asked if he agreed that there is no way of knowing whether the missing pages were filed originally, he disagreed and said that the printouts contain numbers in the fields, which means the missing pages would have been filed as part of the Return. He then said there is no way of verifying whether the numbers were in the Return as filed by DeMara. He described one of the missing pages as providing all forms of income. I find that the fundamental flaw is that the Return is incomplete and is not a true copy of the Return filed by DeMara and cannot be relied on by the respondent in support of her case as it places into question what was reported by DeMara.
+[82] I note that the missing page provides totals for each type of income which is then aggregated as the total income. Linked to each type of income are typically other documents included in the tax return. For example, net business income would have been reported on line 135 of one of the missing pages and is reflected (in more detail) on the Statement. [42] These usually reconcile but, given the number reported is incapable of verification without the missing page, that presents a major difficulty for the respondent in being able to prove the first element of subsection 163(2).
+[83] The inability to verify reported income on one of the missing pages provides little comfort even where, as here, the Statement is also included in the Return and provides information about the Losses. Also, while the appellants made an admission in their pleadings regarding DeMara having filed the Losses, they also allege they were not aware of nor involved in the preparation of the Returns nor recognize these and first saw same during the discovery process. Was the admission premised on the Return with or without the missing pages or something else? Given the nature of the debate (what was reported in the Return by DeMara), a true copy of the Return that DeMara filed needs to be produced, especially where penalties might attach and is quantified based on the number reported.
+[84] Generally, a true copy of an original document usually suffices for evidentiary purposes. Missing pages in a tax return or a “copy of a copy” does not constitute a true copy. The latter was mere speculation on the part of Mr. Larkin based on what he described as notations on the first page.
+[85] As to markings (strokes and zeros) on the Return identified by Mr. Larkin, he said he never marks returns and made the supposition, although he could not be sure, that the markings were from part of the initial intake process. Markings is a shorthand way, he said, for disallowing such amounts. Absent a satisfactory explanation for such markings, it seems to me such markings run the risk of being unable to identify what was actually filed by a taxpayer. Mr. Larkin agreed that the Summaries are stamped as “CRA Copy”. He did not know whether these formed part of the Return as filed by DeMara, whom applied such stamp (that is, CRA or others) or when such copies were made. It was possible that the stamp on the first page of the Return used to say “CRA Copy”.
+[86] Despite my finding regarding Mr. Rattai that the respondent is unable to meet the first element, I will nevertheless consider what I would have found and concluded regarding Mr. Rattai on the premise that the Return in his name was complete and concordant with other information in the Return, such as the Statement, and will do so in making a determination regarding Mrs. Rattai as she has no missing pages in her Return.
+[87] There is no question in my view that the reported Losses in both Returns are manifestly false.
+[88] The fact is that DeMara was the appellants’ authorized representative. In the Return in Mrs. Rattai’s name that DeMara prepared and filed, for example, it shows as reported on line 135, on page 3, fictitious net business income of “(580,941.06)” even though no business existed. There are other amounts and types of losses referred to in paragraph 30 of these reasons for both appellants. [43] The same comments apply with respect to Mr. Rattai except the quantum reported is different. [44] The T1 Adjustments filed reaffirmed and reiterated existence of false statements (Losses) reported by DeMara in the Returns. [45]
+[89] Before DeMara filed the Returns, it applied for business numbers for the appellants on their behalf and used such numbers on the Summaries. Mr. Rattai had provided DeMara with the receipts which were used by DeMara to calculate the Losses claimed.
+[90] Payment of the Invoice, which Mrs. Rattai was aware of, positioned DeMara to file the Returns with CRA. I find that the payment to DeMara signalled not only the appellants’ authorization to DeMara as their representative but also provided their approval and consent to the proposed filings by DeMara of the Returns that are reflected and mirrored in the 2013 email and Attachments sent to Mr. Rattai. After payment, DeMara then filed the Returns per the process agreed to between DeMara and the appellants in pursuit of The Remedy. Permitting DeMara with her approval and consent - activated by the payment - to file the Return containing the Losses, even though no basis existed, meets the first element that false statements were made in the Return for Mrs. Rattai. Except for the flaw in Mr. Rattai’s case, I would have made the same finding regarding his situation.
+[91] I will now determine whether on a balance of probabilities the respondent proved that the appellants deliberately chose to ignore the false statements, without further inquiry, because they strongly suspected that the inquiries would have provided them with the knowledge that the statements were false. Again, with respect to Mr. Rattai I will approach it on the basis of what I would have found but for the flaw.
+Knowledge
+[92] As to the second element of subsection 163(2), it will only be satisfied if the appellants made false statements (or an omission) in a return knowingly or in circumstances amounting to gross negligence. Thus, a penalty may arise where there is either a finding of knowledge or a finding of gross negligence.
+[93] The appellants’ key position throughout is that since they did not see, review or sign the Returns, and as such, they did not know and were not grossly negligent.
+i. Actual
+[94] Reviewing the 2013 email and Attachments - which mirrored the content of the Returns that DeMara filed - would amount to actual knowledge of false statements in the Returns once filed. However, Mr. Rattai claims he did not recall or review the email. Given that, I will consider whether he was willfully blind. Since no evidence was proffered to support a finding of actual knowledge with respect to Mrs. Rattai, I will consider whether she was willfully blind.
+ii. Imputed
+[95] As previously noted, knowledge will be imputed where the circumstances suggest that an inquiry should be made but the taxpayer deliberately ignored that in order to avoid, or does not want to find out, the truth which connotes suppression of a suspicion.
+[96] The Federal Court of Appeal in Strachan endorsed the Torres decision in which Justice C. Miller drew various principles to be applied in determining whether a taxpayer is wilfully blind and can be summarized as:
+[…]
+c) In determining wilful blindness, consideration must be given to the education and experience of the taxpayer.
+d) To find wilful blindness, there must be a need or a suspicion for an inquiry.
+e) Circumstances that would indicate a need for an inquiry prior to filing, or flashing red lights […] include factors at paragraphs (i) to (vii).
+f) The taxpayer makes no inquiry of the tax preparer to understand the return, nor makes any inquiry of a third party, nor the CRA itself.
+[97] The respondent’s position is that the appellants were willfully blind pursuant to the Torres framework.
+[98] In response, the appellants’ primary position is that the framework does not apply because the appellants neither reviewed, approved nor signed the Returns. Specifically, since the Returns were unsigned and they did not see the 2013 email and Attachments, the test has no application. Further, they reasoned that using such factors to impute wilful blindness onto them who have not taken positive actions to make a false statement lowered the threshold for the test which requires a higher degree of probability. Thus, the test in Torres involving “flashing red lights” has no application in their circumstances. [46]
+[99] Even if the test applies, they submitted that the facts do not establish that the appellants were wilfully blind and each “flashing red light” can be interpreted in two ways. Further, Torres is distinguishable. Mrs. Rattai adopted the same arguments and added that she was unaware of what transpired, trusted her husband and conducted her own due diligence.
+Opportunity to review
+[100] Mr. Rattai submitted he did not review DeMara’s work product and had no opportunity to review the Returns. Had he seen the Returns, he would have questioned these. There is no evidence that he reviewed and therefore approved of the content of the Return set out in the 2013 email and Attachments. Since he did not see either the Return or the email, he says he should be given the benefit of the doubt.
+[101] The fact is the 2013 email and Attachments were received by him four days before DeMara sent the Returns to CRA; these reflected the Losses in the Returns that DeMara proposed to file with CRA. Mr. Rattai had provided it with the receipts for personal expenses, described on DeMara’s List, which ultimately were used by DeMara to calculate and quantify the Losses claimed in the Returns. Mrs. Rattai testified she did not provide any documents on the List but her husband gave it whatever documentation it needed. He also selected the type of business consultancy as “either real estate marketing consultant or just marketing consultant which ever works best” even though no business existed. He clearly knew early on it was planning to take the position he was carrying on business. His evidence was not credible.
+[102] In my view, the opportunity to review presented itself to Mr. Rattai upon receiving the 2013 email and Attachments that spelled out DeMara’s proposed filing position mirrored in the Returns. Sending these documents, I infer, was the arrangement the appellants had with DeMara to provide the appellants with the opportunity to review what it proposed in advance of the filing of the Returns. DeMara was paid within two days of receiving the 2013 email and two days before DeMara sent the Returns to CRA.
+[103] I have less difficulty with Mrs. Rattai’s submission that she never had the opportunity to review the Return in her name. It appears that she was not involved in the communications with DeMara and no evidence was presented that shows she saw the 2013 email and Attachments, thus is consistent with her evidence she never saw anything prepared by it.
+Unsigned Returns
+[104] The appellants submitted that signing a tax return is a crucial act that allows a taxpayer to confirm the information in his or her return. Therefore, they say the absence of their signatures on the Returns suggests that they did not authorize DeMara to file these documents.
+[105] I agree that signing a tax return is the norm and signing a return is confirmation of the information in the return. I also agree with both parties that the present case is not a normal situation involving a normal filing of normal income tax returns.
+[106] As the appellants note, authenticity of signatures has been a central feature in considering whether penalties should be upheld under subsection 163(2). In the decision of Boateng v Her Majesty the Queen, 2017 CarswellNat 7260 (“Boateng”), Justice D’Arcy examined the signatures on returns and forms and compared those with certain documents. [47] That, combined with the taxpayer’s overall credibility, resulted in a finding that the signatures were likely forged. Notably, the authenticity of signatures was not examined in isolation.
+[107] In the present case, it is the absence of signatures on the Returns, not forged signatures, that is of a concern. Also, credibility is in issue regarding Mr. Rattai. On those bases alone, the present case is distinguishable from Boateng.
+[108] In Mahdi v the Queen, 2018 TCC 149, [2018] 6 C.T.C. 2156 (“Mahdi”), Justice Bocock found that both taxpayers’ signatures were forged or non-existent on their returns and found that it was important to examine the signatures as an element in conjunction with the other factors under the Torres framework. [48]
+[109] A holistic approach, therefore, is to be taken to examine problematic signatures, or lack thereof, combined with other factors. Although problems with a taxpayer’s signature are indicative, they are not determinative of whether or not a taxpayer is liable for a penalty.
+[110] What if someone decides, for whatever reason, not to sign their return and files it or has someone file it for them? Mr. Larkin acknowledged that neither of the Returns had been signed. He then said that typically any time CRA saw DeMara as the tax preparer, there was never a signature accompanying it.
+[111] Unsigned documents was a prevalent theme in the present appeals. Not signing documents, it seems, was part of the strategy when participating with DeMara in its process in pursuit of The Remedy. The last step in the process before filing the Returns, as noted in paragraph 5 of the 2013 email, was payment. [49] No mention is made about signing the Returns or how that would be accomplished prior to filing the Returns. I would infer that part of the arrangement Mr. Rattai had with DeMara was that Returns need not be signed and that the 2013 email and Attachments, with the proposed filing position, served to provide them with the ability to review, in advance of filing, what would mirror the content of the Returns upon filing.
+[112] The sequencing of the 2013 email, Invoice, payment, issuance of the Receipt and filing occurred in quick succession. The Returns were sent by DeMara directly from its location in Vernon, British Columbia, to CRA Winnipeg, with the appellants located in Alberta. It appears that Mr. Rattai saw no need to follow their standard practice in dealing with DeMara in paying without reviewing and signing income tax returns. Once payment was made to DeMara, I find it signalled the appellants’ approval and certification of the filing position as if the appellants had signed the Returns, in the normal course, and thereby authorized DeMara to file the Returns as reflected in the email and Attachments.
+[113] I observe that in DeMara’s November 1, 2011 email to Mr. Rattai, it indicates that $400 is charged for filing if the member chooses not to sign the MIS. The appellants paid $400 each. Also, the T1 Adjustments filed with CRA were not signed by the appellants or Ms. Beilstein despite certification being sought on that document as to correct and complete information.
+[114] As to the appellants’ submission that Torres is distinguishable factually, determining wilful blindness requires an assiduous review of the facts specific to each taxpayer’s own circumstances. [50] The appellants’ contention that the size of the penalty could be a distinguishing feature as between the cases is misplaced. Quantum of a penalty is a function of the percentage of the amount improperly claimed. Nor do I accept that seeking to rectify the situation after the fact by filing Tl Adjustments to reverse what DeMara did is relevant in such circumstances.
+[115] Turning now to the first consideration in the application of the Torres framework. In determining wilful blindness, consideration must be given to the education and experience of the taxpayer.
+B. Education and experience
+[116] The appellants assert that they are laypersons in tax, are unsophisticated, with Mr. Rattai having a college degree and Mrs. Rattai having held a position as a receptionist, cleaning, categorizing and adding up expenses.
+[117] In Manhue, Justice Sommerfeldt noted that, where taxpayers have claimed fictitious business losses, the education and experience bar is not overly high.
+[118] After high school, Mr. Rattai enrolled at Medicine Hat College in a two-year course with four levels. In 1984, he obtained a diploma in power engineering and is licensed as a power engineer. In 1985, he was employed by Alberta Gas Chemicals for one year before being laid off (“AGC”). Except for a plant shutdown between the latter part of 2001 to early 2002, between 1987 to 2003 he was re-employed by AGC, this time as a power engineer, and performed water tests and treatments, maintained equipment and ran the plant. [51] Between 2003 to 2008, he managed his and his spouse’s rental properties. He then returned to the workforce employed by Goodyear Tires for two years as a power engineer until November 2010 when he joined Methanex (formerly AGC) as a third-class engineer.
+[119] In 1983, Mrs. Rattai obtained a Business Administration diploma from Medicine Hat College after completing courses in basic accounting, marketing, economics, communications, computer sciences and the basics of tax reporting. Since then to 1985 she attended university in pursuit of, but without finalizing, a commerce degree; she took several business and accounting courses. [52]
+[120] In 1985, Mrs. Rattai was a receptionist, filed documents and cleaned at Allwest Compressor Services, and since then was a bookkeeper for several organizations. Mr. Rattai confirmed that, because of her education, she worked as a bookkeeper. The following year she sold clothing at home parties. Between 1992 to 1998, she worked as a receptionist, filed documents, prepared billings and typed invoices for Ms. Winger. Mrs. Rattai also assisted the accounting technicians with tasks such as sorting and adding up farmers’ receipts and provided a little help with preparation of tax returns. She became pregnant and later worked at Sears catalogue department. As the secretary and treasurer of their corporations, and when she was not working and raising their children, she did very little other than gather information for her husband regarding the rental properties.
+[121] Between 1999 to 2002, Mrs. Rattai worked full-time at Medicine Hat Community Housing Society where she assisted clients, prepared rent calculations, collected cash, made bank deposits and reconciled the bank account. [53] From then until 2005, she raised their children and worked on their rental properties. In 2005, she commenced employment with Cypress View Foundation as a financial services administrator. [54] Around 2012 she was promoted to Finance Manager, responsible for budgeting, bank reconciliation and completion and updating of government forms. [55]
+[122] Except for a five-year period where he operated their rental property operations with his wife, Mr. Rattai has worked since the 1980s. Between 2010 and 2013, he was responsible for family finances (paid bills and banking) and for their rental properties; he arranged for loans, seven mortgages, insurance, advertised, rented, maintained and collected rent for the rental properties, filed documentation in the den in their home and did the bookkeeping.
+[123] Both had filed income tax returns since the 1980s. Initially, H & R Block prepared Mr. Rattai’s personal tax returns and Mrs. Rattai’s mother prepared hers. Other than that, the appellants have always used professional tax preparers over a lengthy period of time. Together, they reviewed their corporate tax returns with the accountants.
+[124] The appellants had encountered CRA and the tax system in respect of previous tax filings involving charitable donations and denial of a business loss for Mr. Rattai. He became involved in the medical COIP donations, as they knew someone that was involved and they wanted to help people in Africa to access affordable medication. He was reassessed by the Minister for the 2006 to 2009 taxation years and was denied the following amounts claimed in his returns:
+in 2008, a net business loss of $92,808 through Synergy and the resulting non-capital loss carried back from that year to 2007 and 2006, which he did not recall, in the amounts of $44,556 and $30,718,respectively; and
+in 2009, a charitable donation in the amount of $30,000 regarding a COIP donation which he said was to help people with Aids in Africa.
+[125] When asked by the respondent whether she was reassessed to deny charitable donations for COIP claimed in the amounts of $30,216 and $11,900 in her tax returns for the 2009 and 2008 taxation years, respectively, Mrs. Rattai was initially unable to remember numbers. After some obfuscation in answering the question pertaining to 2009, eventually she agreed with the respondent that she was denied that amount on reassessment and, though she could not recall exactly being reassessed to deny a charitable donation of $11,900 in 2008 to COIP, she agreed it roughly lined up with her recollection.
+[126] Responding to a question subsequently put by her counsel, she said they attended a seminar at Medicine Hat Lodge, decided to help out, signed up, paid money, included amounts in their tax returns, received a refund and deduced from receiving a refund it must be legitimate. She recalls CRA letters indicating the amounts pertaining to COIP are not allowed but does not recall if CRA asked for the refund to be returned and therefore surmises CRA is still looking into the “investigation”. Since there was some question as to the status of these matters from previous years, I attribute no weight to this evidence.
+[127] Mrs. Rattai was savvy enough to deal with any questions in discussions with accountants. She knew the accounting designations and was familiar with income and expenses and where these are reported on a tax return. Mr. Rattai would make notations on the receipts for their rental operations.
+[128] In my view, they had a certain level of sophistication. Their educational attainment, work experience, success in their rental operations, familiarity with tax aspects and intelligence suggest they clearly had the capacity and ability to be able to understand the strategy DeMara promoted. Even if that was an issue, there was no evidence that they sought clarification. They were fully aware they could not deduct business losses as they were not operating a business. They clearly understood the obligation to file truthful and accurate income tax returns.
+C. Suspicion or need to make an inquiry
+[129] The fact that Mr. Rattai received the 2013 email summarizing the Requests for Loss Carryback for 2007, 2008 & 2009 and the refunds showing large increases plus the Attachments would have warranted a need for an inquiry upon receipt of same, especially since both testified there were no bases for the Losses.
+[130] A comparison of his unfiled return prepared by Schwab, which Mr. Rattai reviewed, with the 2013 email Attachment, 2010 Tax Return Summary, prepared by DeMara, shows both reported the same amount for Mr. Rattai’s employment income, yet only the Attachment shows net “Self-employment income” of ($482,258.36). Additionally, his unfiled return shows total income reported of $110,629, whereas DeMara’s Attachment reported total income of ($371,628). These items should have prompted Mr. Rattai to inquire as to the large disparities.
+[131] Mrs. Rattai was aware that Mr. Rattai had paid DeMara yet had not seen anything from DeMara, contrary to their standard practice. This would have been a warning signal to Mrs. Rattai.
+[132] I will now determine if there were other warning signs that would have prompted the appellants to inquire further.
+D. Circumstances that would indicate a need for inquiry before filing
+i. Magnitude of the advantage
+[133] The magnitude of the advantage, the appellants submitted, was not a factor because they did not see, review, discuss, approve, participate in the preparation nor sign the Returns.
+[134] Mr. Rattai lacks credibility. He tended to downplay his involvement with and sought to distance himself from his dealings with DeMara. Not infrequently, he could not recall certain details or documents or said he did not see them. At times, his responses were convoluted, evasive, inconsistent and certain things simply did not add up. Again, he received the email but alleges he did not recall nor open the 2013 email that represented the proposed filings which would have given him the opportunity to review in advance of filing the Return. Instead, he chose not to open the email, and thus deliberately ignored it.
+[135] Mrs. Rattai had a tendency at times to purport to present herself to be more naïve and less experienced than I believe her to be. Sometimes she tended to obfuscate, there were gaps in her evidence and she tended to wash her hands of the situation. That said, she was generally more straightforward in her responses.
+[136] Mr. Rattai had informed DeMara in his email to them of March 4, 2012 that his choice would be a consultant in either real estate or marketing consultancy “which ever works best.” Consulting was reported in the Statement in each Return. During his testimony he said he could not recall and was unsure what he meant by his email.
+[137] While the appellants profess that until the fall of 2013 they were oblivious to DeMara having filed the Returns, they were unable to provide a coherent rationale at the hearing as to their follow-up with DeMara. Mr. Rattai had stated that nothing happened for a long time and he called DeMara about the status of their tax returns. It said it was busy and assured him their 2010 tax returns were fine. When asked further, the appellants then said they said they were busy, unconcerned, forgot and they always received refunds. Initially, Mr. Rattai claimed he “got busy”. He then said there was no tax owing nor was he overly concerned. Mrs. Rattai commented this was not “huge” on her priority list as she worked full-time, raised children, trusted her husband, forgot about it and suggested they always received refunds.
+[138] I reject their explanations. Even if busy, it would have taken the appellants little time to comply with their obligation to report their income, especially since their unfiled returns had been prepared as early as November 2011. It also seems that Mr. Rattai had filed most of his previous returns on time except for 2000 to 2002, 2006 and 2008, and those filed had resulted in debit and refund assessments.
+[139] The fact is the filing deadline had long passed. The 2013 email coincided with the Invoice; payment ensued and two days after the date on the Receipt, DeMara sent the Returns to CRA. The sequencing is hardly coincidental. It is more plausible that they were aware that the Returns had been filed by DeMara in March 2013, having paid in advance of filing and having reviewed and discussed either the 2013 email and content and/or the Returns. This is consistent with their 20-year standard practice to only pay after those things were done but prior to filing.
+[140] The Losses reported in the Returns were significant and disproportionate to Mr. Rattai’s total income reported, largely from employment, which in past years was taxable. Yet, in 2010, a large refund is claimed and a Request to carry back business losses in the three preceding years would have resulted in refunds. Such disparity should have caused him to question the content of the Return. Even if he did not know the specific content of the Return, the magnitude of the advantage generated by the Losses and the refunds reflected in the 2013 email and Attachments, in my view, should have led him to question DeMara’s filing The Remedy.
+[141] Since Mr. Rattai did not recall nor review the 2013 email and Attachments, it seems unlikely Mrs. Rattai would have reviewed these. This was not put to her in cross-examination, nor is there any evidence linking her to having seen these, as they were sent directly to her husband.
+ii. Blantantness of false statements- readily detectable
+[142] Since there was no consulting business, the 2013 email Attachments should have been a flashing red light for Mr. Rattai as he would typically report largely employment income. He had decades of experience such that the Losses and refunds would have made it obvious for him to have been able to readily detect the false statements made on the Attachment regarding the Request (that mirrored the Request in the Return). There were sufficient flashing red lights in the 2013 email to prompt him to inquire about DeMara’s filing Remedy before payment was made to DeMara.
+[143] Given the previous comments with respect to the 2013 email, this is not applicable as it relates to Mrs. Rattai.
+iii. Tax preparer does not acknowledge preparing return
+[144] This factor is not applicable as DeMara identifies itself as the tax preparer, provides its contact information on the Returns and provides other documentation acknowledging preparation of the Returns.
+iv. Tax preparer makes unusual requests
+[145] DeMara made a number of unusual requests of Mr. Rattai. He was asked to listen to pre-recorded messages, keep The Remedy private and confidential, confirm the type of business and provide “required” information for a business number. The appellants acknowledged that no previous tax preparer had asked Mr. Rattai to listen to pre-recorded messages nor placed such restrictions on him.
+[146] DeMara sent a business consent form, for completion, as part of the kit in November 2011 to finalize Mr. Rattai’s membership. Other unusual forms include the Specialized Tax Chart, the Documents Required for Remedy and the Serenity Bound Society-Member Form. All of which were unusual and would have called for further inquiry.
+[147] Mrs. Rattai did not participate in the pre-recorded session and assumed it was a feature of DeMara’s tax planning service.
+v. Previously unknown tax preparer
+[148] Before engaging DeMara, the appellants had used accountants and professional tax preparers to prepare and file their personal tax returns; all except one were located in Medicine Hat.
+[149] Neither of the appellants knew DeMara until they spoke with Marcel, a power engineer, operator, Mr. Rattai’s supervisor and his trusted friend of 25 years, whom introduced DeMara to Mr. Rattai in the spring of 2011. Marcel described DeMara to the appellants as tax planning experts who were professional accountants, including former CRA officials, who knew tax laws and provided services to high-profile clientele. They accepted his recommendation even though Marcel did not have an accounting or tax background, nor did they speak with an accountant, financial advisor or tax professional.
+[150] DeMara contacted Mr. Rattai, told him what it could do for the appellants and had a discussion about reviewing their 2010 tax returns as he knew that DeMara’s services included the preparation of tax returns.
+vi. Incomprehensible explanation by tax preparer
+[151] The appellants suggested that their interest in approaching DeMara was for the purpose of tax planning as it was not offered by others. Yet, they were unable to adequately explain the services DeMara offered nor provided the Court with the substance of DeMara’s explanation regarding the purported tax planning.
+[152] Even their individual understanding of what that entailed was not in alignment. Initially, Mr. Rattai stated that tax planning meant that DeMara would review expenses for 2010 to see if deductions were missed by Schwab. Later when asked by his counsel, “What, if any, tax planning assistance do you think it could provide your corporations?” he responded, “Just do better and help tax plan for retirement.” At another point, he said he thought The Remedy meant DeMara was just doing tax planning. Mrs. Rattai’s understanding of “tax planning for the future” meant succession planning for their children and dealing with Holdings as she did not know why it held no properties.
+[153] Instead of tax planning, they enlisted DeMara’s assistance to prepare their personal tax returns for 2010 to report income. I fail to see how that amounts to tax planning opportunities for the future regarding Holdings and succession planning. It does not add up. I reject their evidence that they had pursued DeMara for tax planning for the future. I infer it is more plausible that it would have been because of refunds generated over a four-year period.
+vii. Others do not do it or the taxpayer is warned against it or the taxpayer is fearful of telling others
+[154] This factor is not applicable. The appellants relied on Marcel’s assurances.
+E. Taxpayer makes no inquiry of the tax preparer to understand the return
+[155] Upon receipt of the 2013 email, he chose to ignore it (even though he said he had been waiting to hear back from DeMara regarding the status of their tax returns). He did not make any inquiries of DeMara about its proposed filing, nor took any steps to verify the completeness and accuracy of that information.
+[156] Other than the appellants being told by Marcel about DeMara’s purported expertize and his research online or reviews, Mr. Rattai agreed that he did not ask a tax advisor to review the kit or forward the 2013 email to anyone to review the information or contact CRA.
+Summary
+[157] Mr. Rattai presented himself as a careful individual who claims to have researched and asked questions regarding DeMara prior to engaging it and followed a long-held standard practice in dealing with tax preparers. Given that, it is difficult to see how he could then claim that he took no part in reviewing or approving the Return and paying DeMara without receiving anything in exchange.
+[158] Had it not been for the flaw, I would have found Mr. Rattai to be wilfully blind. While a couple of the warning signs in Torres were absent, (iii) and (vii), multiple ones should have alerted him to make inquiries. For example, the 2013 email and Attachments showed the Losses, sizeable refunds for 2010 and for the three preceding years, which reflected the proposed filing position mirrored in the Return to be filed. These would have been an advantage of significant magnitude that were blatant and readily detectable, even from a cursory glance, inviting an inquiry. His tendency, Mr. Rattai explained, was to look at some but not all emails. He either did not want to know or avoided the truth regarding the filing position that shows the Losses to be reported. Had he wanted to open the 2013 email before payment, he had that option. Instead, he deliberately ignored the contents of that email and paid DeMara, which he claims he could not remember, without opening the 2013 email, which he also could not recall nor remember reviewing. That means, contrary to their standard practice, he paid without receiving anything in exchange. Typically, they would review, sign and then pay. Essentially, he deliberately chose not to make inquiries, which constitutes wilful blindness such that knowledge of the false statements in the Return would be imputed to him.
+[159] While I have some reservations about aspects of Mrs. Rattai’s testimony, on a balance I am unable to clearly conclude that she was wilfully blind regarding the 2010 Return. The warning signs were largely not applicable. She relied on the information her husband obtained and shared with her, trusted him and his judgment, spoke with him a lot and spoke with Marcel. Periodically, she asked her husband if and when the returns were ready. She said his response would be they are working on it. She stated, “And then you’d get busy and you’d forget about it. And then I’d say, Hey, what about the 2010 tax returns? And he’s like, Okay, I’ll phone them.”
+[160] The key difficulty is that no evidence was presented to show that Mrs. Rattai had seen or was aware of the 2013 email and the Attachments sent directly to her husband that contained the proposed filing position, nor was she cross-examined on that. Mr. Rattai dealt with DeMara directly and was a member. Mrs. Rattai never provided DeMara with documents from the List. She had not seen anything that DeMara prepared and was unaware of what transpired. Her reaction to the CRA October 2013 email seemed to be one of genuine surprise.
+Gross negligence
+[161] As noted, subsection 163(2) may also apply where a taxpayer makes a false statement under circumstances amounting to gross negligence. It requires a high degree of negligence, tantamount to intentional acting or indifference as to whether the law is complied with or not.
+[162] As reaffirmed by the Court in Wynter, a “[…] taxpayer who turns a blind eye to the truth and accuracy of statements made in their income tax return is wilfully blind, and is also grossly negligent.”
+[163] In Manhue v. The Queen, 2018 TCC 71, 2018 D.T.C. 1062 (“Manhue”), Justice Sommerfeldt notes that in tax law, because of the self-assessing and self-reporting system in Canada, an analysis of gross negligence includes a consideration of duty to report income and expenses accurately and honestly. [56]
+[164] Likewise, the appellants were subject to the duty to report on those bases.
+[165] Had it not been for the flaw in Mr. Rattai’s Return, I would have found him to be grossly negligent given he had received the 2013 email with the proposed filing position but took no steps to do anything other than pay. I would have found his conduct to have fallen below the standard of a reasonable person in the same circumstances as him and would have amounted to a marked and substantial departure from the conduct of a reasonable person in the same circumstances.
+[166] A reasonable person would have:
+a) taken steps to open and review the 2013 email and Attachment to verify the correctness of the information regarding the proposed filing positioned mirrored in the Return to be filed;
+b) queried the description of the income and expenses culminating in the Losses claimed and the refunds sought; and
+c) would have questioned why business losses were even included when no business existed.
+[167] Thus, he would have failed in his duty to ensure that he had correctly reported his income and expenses.
+[168] I would have concluded that Mr. Rattai made false statements in his 2010 Return under circumstances amounting to gross negligence pursuant to subsection 163(2) of the Act because of lack of evidence regarding the email.
+[169] I do not find that Mrs. Rattai made false statements in her 2010 Return under circumstances amounting to gross negligence pursuant to subsection 163(2) of the Act.
+IV. CONCLUSION
+[170] Based on the foregoing reasons, I have concluded that neither the knowledge nor gross negligence requirements of subsection 163(2) of the Act have been satisfied for either appellant.
+[171] The appellants’ appeals for the 2010 taxation year are allowed. Costs are awarded to each appellant in accordance with the Tariff.
+Signed at Nanaimo, British Columbia, this 17th day of July, 2020.
+“K. Lyons”
+Lyons J.
+CITATION:
+2020 TCC 55
+COURT FILE NO.:
+2016-967(IT)G and 2016-968(IT)G
+STYLE OF CAUSE:
+DANIEL RATTAI AND HER MAJESTY THE QUEEN; CYNTHIA RATTAI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+May 27 to May 29, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K. Lyons
+DATE OF JUDGMENT:
+July 17, 2020
+APPEARANCES:
+Counsel for the Appellant,
+Daniel Rattai:
+Duane Milot and
+Anna Malazhavaya
+Counsel for the Appellant,
+Cynthia Rattai:
+James Rhodes
+Counsel for the Respondent:
+E. Ian Wiebe
+COUNSEL OF RECORD:
+For the Appellant, Daniel Rattai:
+Name:
+Duane R. Milot
+Anna Malazhavaya
+Firm:
+Milot Law
+Toronto, Ontario
+For the Appellant, Cynthia Rattai:
+Name:
+James Rhodes
+Firm:
+Taxation Lawyers
+Kitchener, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The four properties are: 424 Dundee St.; 609 Clay Avenue; 819 – 3rd Street; and 1126 Elm Street.
+[2] Since seven mortgages were held in their personal capacity, their bank raised concerns and their lawyer recommended that they incorporate because of liability issues. Dancin Ventures Incorporated owned ten properties and Jortay Ventures Incorporated owned two.
+[3] Typically, T4, other T slips, his income, receipts for rental expenses, statements (mortgage, utilities, personal bank and insurance allocable to the rental properties and pertaining to the home office) and donation receipts.
+[4] Except for Mr. Rattai’s tax return for 2007, prepared by Liberty Tax Group.
+[5] Exhibit R20.
+[6] Email to DeMara, Chiara Perina, dated August 31, 2011, Exhibit R2.
+[7] Other documents in the kit comprise: Specialized Tax Chart; Concepts for Specialized Tax Remedy; Instruction Sheet for completing forms; Credit Card Payment Form; Request for a Business Number – Sole Proprietorship; Consulting Type Form; Business Consent Form RC59; Authorization to Release Information to 3rd Party; and FAQ’s. Exhibit A1, Tab 7.
+[8] Exhibit R18, Letter September 26, 2015 to CRA.
+[9] Tabs 27, 28, 31 and 32.
+[10] Appellants’ pleadings indicate DeMara as their representative coinciding when the Returns were filed.
+[11] Exhibits A2 and A3, page 0009. An affidavit was filed for each appellant on consent.
+[12] Copy of the T1 General Return, Exhibit R15 for Mrs. Rattai. Fresh Notices of Appeal, paragraphs 17 and 19, respectively.
+[13] The fictitious capital losses would have resulted in net capital losses in the amounts of $240,929 and $290,269.50, respectively.
+[14] Fresh Amended Notices of Appeal, paragraphs 17 and 19, respectively.
+[15] Third parties for Mr. Rattai: CRA, Desjardins-Visa, ATB Financial, Medicine Hat – The Gas City, HSBC Bank of Canada, Citi Financial Canada, MCAP-Mortgage Servicing Centre, Merix Financial. Third parties for Mrs. Rattai: CRA, Sears Canada Inc. TD Canada Trust, CIBC, Hudson Bay Company, HSBC Bank of Canada, National Bank of Canada. Of note, the totals reported on T5008 slips correspond with the Interest on the Statement and the amount on Schedule 3 shows a minor difference.
+[16] Exhibits R13 and R14.
+[17] Schedule 3 for Mrs. Rattai shows a $2 difference.
+[18] Exhibits R6 and R7, Undertakings numbers 12, 13, 15, 16, 17, 23, 25 and 28.
+[19] Exhibit A1, Tab 1 and Exhibit R6 - 2010 Tax Return Summary. This has the identical title to the document prepared by Schwab (as page 1) in the unfiled returns. While the format and content for each 2010 Tax Return Summary are similar in some respects, the content differs in other respects.
+[20] This Attachment has a handwritten notation “Credits” and in the top left hand corner it indicates “Client Rattai Daniel …Printed 2013/01/24 19:03”. The version in the Return indicates “CRA Rattai Daniel… Printed 2013/01/24 19:03”. It seems DeMara, as the tax preparer, printed these such that the former version ended up in the Attachment to the email as client copy and the latter ended up in the Return for CRA filing.
+[21] Exhibit R7, Invoice March 11, 2013 Number 2010-Daniel, marked Client’s Copy.
+[22] Other fees are explained. See also the Specialized Tax Chart.
+[23] Exhibit R11.
+[24] Exhibit R4, Mr. Rattai’s March 4, 2012 email to DeMara, Ms. Perina.
+[25] Exhibits R8 and R12.
+[26] Exhibit R9. CRA letters, March 4, 2014.
+[27] Exhibits R23 and R26.
+[28] Exhibits R10 and Tab 17.
+[29] Exhibits R14 and R16.
+[30] Exhibits R13 and R15, Copies of T1 General Income Tax Returns for 2010. The appellants had objected.
+[31] Paragraphs 12 to 20. The Court notes that gross negligence is determined from an objective assessment, whereas wilful blindness is determined from a subjective perspective. See also Peck v the Queen, 2018 TCC 52, 2018 CarswellNat 970.
+[32] The Court highlighted that a positive finding of an intention to cheat is not a consideration in a finding of wilful blindness.
+[33] Wynter, paragraphs 13 and 17.
+[34] The Court cited R. v. Briscoe, 2010 SCC 13, [2010] 1 S.C.R. 411 (S.C.C.), paragraphs 21, 23 and 24, and Sansregret v The Queen, [1985] 1 SCR 570, paragraph 24.
+[35] Wynter, paragraphs 13 and 16.
+[36] Melman v Canada, 2017 FCA 83, 2017 D.T.C. 5053 (“Melman”).
+[37] Wynter, paragraphs 18 and 19. The Court cited Zsoldos v Canada (Attorney General, 2004 FCA 338, para. 21 which refers to Venne v The Queen, 84 DTC 6247 (Fed. T.D. at 6256). See also Melman at para. 4.
+[38] Paragraphs 55 and 51.
+[39] In Villeneuve v. R, 2004 FCA 20. See also Manhue, paragraph 63, regarding overlap of both.
+[40] Wynter v R., 2016 TCC 103 affirmed in Wynter v Canada, 2017 FCA 195, paragraph 20.
+[41] Torres, paragraph 58. Nor do I read the decision in Boateng as supportive of a three-pronged test as suggested by the appellants. In Saunders v the Queen, 2019 TCC 39, 2019 D.T.C. 1038, para. 36 (“Saunders”), Justice D’Arcy identifies only two conditions.
+[42] Under subsection 163(2), a return can include a form, certificate or statement.
+[43] Fresh Notice of Appeal, paragraph 19.
+[44] Fresh Notice of Appeal, paragraph 17.
+[45] Exhibits R14 and R16.
+[46] 2013 TCC 380. Peck and Saunders. Admittedly, these decisions do not refer to Torres, as noted by the appellants. However, there is nothing in these decisions that suggest the factors are not applicable.
+[47] Boateng, paras 24, 33 to 37. The comparisons revealed inconsistencies between the signatures on various documents and spelling mistakes in the taxpayer’s own surname in the signatures. The issue turned on whether the document in question was a copy of the document actually signed by the taxpayer.
+[48] Paragraphs 59, 62, 67 and 68. Despite authenticity issues and in some instances, missing signatures on returns, one individual was found to be wilfully blind.
+[49] The stipulation of payment before filing is also in the MIS and accords with the appellants’ standard practice.
+[50] Torres involved the Fiscal Arbitrators program with lower penalties and the taxpayers went to presentations, received pamphlets and engaged in unusual activities such as buying back the social security number and using “Per” on the Request for Loss Carryback. As in Torres, Mr. Rattai listened to a presentation via recordings, he received pamphlets and requested and received a package/kit.
+[51] After the plant shut down, he was employed for six months at Suffield military base as an operator checking heating boilers in buildings on site.
+[52] Universities of Lethbridge and Montana. Courses: psychology, sociology, marketing and statistics.
+[53] It had 500 social housing rental units and several seniors’ buildings.
+[54] She was tasked with accounts payable, payroll and would input information (hours from employee time sheets and contractors invoices) into QuickBooks. It generated cheques for mailing out, T4 slips, and she assisted her boss who prepared financial statements.
+[55] A non-profit organization providing 250 seniors with housing.
+[56] Justice Sommerfeldt discusses the concept of duty under tort law and tax law and relies on the decision of the Supreme Court of Canada in Jarvis v the Queen, 2002 SCC 73, [2002] 3 S.C.R. 757, 49 and 5l.

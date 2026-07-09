@@ -1,0 +1,146 @@
+Title: Truong c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30191/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-72-30191-truong-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-02-07
+
+# Truong c. La Reine
+
+- Citation: 2011 CCI 72
+- Decision date: 2011-02-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7732, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Truong c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-07
+Référence neutre
+2011 CCI 72
+Numéro de dossier
+2009-667(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-667(IT)I
+ENTRE :
+HI TRUONG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 juin et le 29 novembre 2010 à Winnipeg (Manitoba)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Melissa Danish
+____________________________________________________________________
+JUGEMENT
+En ce qui a trait aux cotisations établies en application de la Loi de l’impôt sur le revenu à l’égard des années 2002, 2003, 2004 et 2005 :
+1. l’appel interjeté à l’encontre des années d’imposition 2002 et 2003 est rejeté;
+2. l’appel interjeté à l’encontre des années d’imposition 2004 et 2005 est accueilli, et les cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en partant du principe que le revenu doit être réduit de 30 968 $ et de 10 967 $, respectivement, et que les pénalités imposées à l’égard de ces deux années d’imposition doivent être annulées.
+Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 7e jour de février 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 25e jour de mars 2011.
+Hélène Tremblay, traductrice
+Référence : 2011 CCI 72
+Date : 20110207
+Dossier : 2009-667(IT)I
+ENTRE :
+HI TRUONG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Le présent appel porte sur les cotisations fondées sur l’avoir net établies à l’égard de Hi Truong en application de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2002, 2003, 2004 et 2005. Les questions à trancher sont celles de savoir : (1) si le revenu a été correctement déterminé; (2) si les années d’imposition 2002 et 2003 sont frappées de prescription; (3) s’il est justifié d’imposer des pénalités pour faute lourde.
+[2] M. Truong s’est représenté lui‑même à l’audience, avec l’aide d’un interprète, et il a été le seul à témoigner pour son compte. Guy LeBlanc, un vérificateur de l’Agence du revenu du Canada (l’« ARC »), a témoigné au nom de l’intimée.
+[3] Pendant la période en cause, l’appelant était employé à temps plein à titre de contrôleur de moulages auprès d’Ancast Industries et gagnait un salaire annuel d’environ 40 000 $.
+[4] L’ARC a lancé une vérification des affaires de l’appelant après qu’on l’ait informée que ce dernier vivait au-dessus de ses moyens. Au cours de son enquête, l’ARC a constaté que l’appelant avait été arrêté en 2005 et déclaré coupable de possession de marijuana dans le but d’en faire le trafic. Aucun revenu n’avait été déclaré de cette activité.
+[5] Suivant une analyse de l’avoir net de l’appelant et de sa copine, Thua Tran, une nouvelle cotisation a été établie à l’égard de l’appelant. Des sommes additionnelles ont été ajoutées dans le calcul de son revenu pour les années d’imposition 2002 à 2005, soit 22 100 $, 20 504 $, 30 968 $ et 10 967 $, respectivement. De plus, des pénalités fédérales pour faute lourde s’élevant à 2 431 $, à 2 324 $, à 3 445 $ et à 1 206 $ ont été imposées.
+Analyse
+[6] Tout d’abord, je tiens à souligner qu’il était raisonnable de la part du ministre d’entreprendre une analyse de l’avoir net dans ce cas‑ci. Compte tenu de la déclaration de culpabilité pour trafic de drogues, il est raisonnable de s’attendre à ce que l’appelant ait peut-être gagné des revenus qu’il n’aurait pas déclarés.
+[7] Je tiens aussi à souligner qu’il semble que l’ARC ait été prudente et minutieuse dans son analyse de l’avoir net. Contrairement à bien des analyses de l’avoir net effectuées par l’ARC, on n’a pas utilisé des chiffres estimatifs pour déterminer les dépenses personnelles. On a plutôt analysé des transactions réelles en fonction de recherches de registres financiers et de titres fonciers. Il ne s’agit pas là d’une méthode infaillible, mais l’analyse semble avoir été menée méticuleusement.
+[8] Pour contester avec succès les cotisations établies à son égard, l’appelant doit présenter des témoignages détaillés et cohérents ainsi que des preuves à l’appui, dans la mesure du possible, afin d’expliquer l’augmentation évidente de son avoir net.
+[9] Cela vaut aussi pour les questions à l’égard desquelles le fardeau de la preuve incombe au ministre (les pénalités et les années possiblement frappées de prescription) étant donné qu’on peut raisonnablement supposer que l’appelant avait des revenus non déclarés : Lacroix c. La Reine, 2008 CAF 241, 2009 DTC 5029.
+[10] L’appelant a contesté plusieurs éléments des cotisations : (1) l’inclusion de l’avoir net de sa copine; (2) l’hypothèse selon laquelle un bien situé au 1313, avenue Selkirk, était un bien locatif; (3) l’hypothèse selon laquelle un bien situé au 6, impasse Cirrus, était un bien locatif; (4) l’exclusion de prêts obtenus de parents; (5) l’exclusion de gains au casino.
+[11] Chacun de ces éléments est examiné de façon distincte ci‑dessous.
+[12] Avant de procéder à cet examen, je tiens à formuler un commentaire général au sujet du témoignage de l’appelant. En général, les explications que l’appelant a fournies étaient extrêmement brèves et n’étaient appuyées par aucun élément de preuve. De plus, à certains moments, l’appelant n’a pas été honnête dans son témoignage. Par exemple, l’extrait ci‑dessous de la transcription révèle que l’appelant a nié la déclaration de culpabilité dont il avait fait l’objet jusqu’à ce qu’on lui en présente des preuves.
+[traduction]
+Q […]
+Et je crois comprendre, M. Truong, que vous avez plaidé coupable à l’accusation de possession, l’accusation 5(2) pour possession de drogue dans le but d’en faire le trafic, c’est bien cela?
+R Non.
+[…]
+Q Vous dites que vous n’avez pas plaidé coupable à cette accusation?
+R (EN ANGLAIS) Non.
+Q Je vais vous montrer la copie d’un résumé d’ordonnance. Je consulte la deuxième page du document que je viens de vous remettre, M. Truong. Vous conviendrez que vous avez plaidé coupable à l’accusation de possession de marijuana dans le but d’en faire le trafic et que la Couronne a suspendu l’accusation suivant le paragraphe 7(1) pour production de marijuana, c’est exact?
+R (EN ANGLAIS) Oui.
+[13] J’examine maintenant les questions soulevées par l’appelant. La première question porte sur Mme Tran, la copine de ce dernier. L’appelant soutient que l’analyse de son avoir net ne devrait pas tenir compte de Mme Tran parce qu’elle et lui n’étaient pas époux et n’habitaient pas ensemble pendant une grande partie de la période visée par les cotisations.
+[14] Je n’admets pas cette affirmation.
+[15] Tout d’abord, peu importe si l’appelant et Mme Tran habitaient séparément, ils étaient liés de près. Mme Tran avait deux filles, et l’appelant a admis qu’il était le père d’au moins une d’entre elles.
+[16] Ensuite, on n’a donné aucune explication raisonnable de la façon dont Mme Tran subvenait à ses besoins et aux besoins de ses enfants. Les revenus qu’elle a déclarés aux fins de l’impôt étaient très modestes, soit moins de 50 000 $, au total, pour les quatre années d’imposition en cause. L’appelant a seulement admis avoir payé l’acompte sur leur maison. On n’a donné aucune explication de la façon dont Mme Tran payait ses autres dépenses personnelles.
+[17] À défaut d’éléments probants venant expliquer la façon dont il était subvenu aux besoins de Mme Tran et de ses filles, il est tout indiqué de tenir compte de cette dernière dans l’analyse de l’avoir net.
+[18] La deuxième question porte sur un bien situé au 1313, avenue Selkirk, qui était inscrit au nom de Mme Tran.
+[19] Lorsqu’il a établi les cotisations, le ministre a tenu pour acquis qu’en 2002, l’appelant avait acheté ce bien comme bien locatif avec un acompte de 15 394 $ et qu’en 2005, il l’avait vendu et avait ainsi réalisé un gain de 8 345 $.
+[20] L’appelant soutient que le bien situé sur l’avenue Selkirk était en fait la résidence de Mme Tran et non un bien locatif. L’appelant admet avoir payé l’acompte pour le bien, mais dans son témoignage, il a affirmé qu’il n’assumait ni les paiements d’hypothèque ni les autres dépenses liées au bien.
+[21] Compte tenu de l’ensemble de la preuve, je ne suis pas convaincue que les hypothèses du ministre en ce qui a trait au bien de l’avenue Selkirk sont erronées.
+[22] Tout d’abord, le témoignage de l’appelant concernant le bien de l’avenue Selkirk a été très bref. De plus, Mme Tran n’avait pas inscrit le 1313, avenue Selkirk, comme étant son adresse domiciliaire dans une demande de crédit envoyée en 2003 (R-3, onglet 18). Elle avait plutôt inscrit l’avenue Burrows (la résidence de l’appelant) comme adresse. En outre, comme il a été mentionné ci‑dessus, il semble que les revenus de Mme Tran n’étaient pas suffisants pour subvenir à ses besoins et aux besoins de ses enfants dans la maison de l’avenue Selkirk.
+[23] La prochaine question porte sur le bien situé au 6, impasse Cirrus.
+[24] Le ministre a tenu pour acquis que pendant la période visée par la vérification, ce bien était un bien locatif et a été vendu à perte d’une somme de 33 000 $ en 2004.
+[25] L’appelant soutient que ce bien ne devrait pas être inclus dans l’analyse de son avoir net parce qu’il en détenait seulement le titre foncier et l’hypothèque pour le compte d’un amie qui n’avait pas les ressources financières pour effectuer la transaction. L’appelant a affirmé qu’il n’a assumé aucune dépense relative à ce bien.
+[26] Ce témoignage est corroboré par certains éléments de preuve.
+[27] Plus précisément, l’appelant a présenté en preuve la lettre de compte rendu de l’avocat portant sur la vente du bien situé au 6, impasse Cirrus. Cette lettre vient appuyer dans une certaine mesure l’assertion que le bien a été transféré moyennant une contrepartie égale au solde impayé de l’hypothèque. En outre, je souligne que l’adresse postale pour l’envoi des états du compte hypothécaire était le 6, impasse Cirrus. Ce fait vient appuyer le témoignage de l’appelant selon lequel les propriétaires bénéficiaires se chargeaient de payer l’hypothèque.
+[28] Bien que la preuve pourrait être plus probante, à mon avis, elle suffit dans le contexte d’un appel entendu sous le régime de la procédure informelle. Par conséquent, j’accepte la version de l’appelant des faits relatifs au bien situé du 6, impasse Cirrus.
+[29] La dernière question à trancher est celle de savoir de quelle façon cela sera reflété dans le calcul de l’avoir net. L’appelant n’a présenté aucune observation sur cette question.
+[30] Le calcul de l’avoir net est assez complexe et le détail de ce calcul se trouve dans deux reliures comportant 42 onglets. Étant donné les circonstances, il serait indiqué de faire des rajustements approximatifs à l’analyse de l’avoir net. J’ai envisagé la possibilité de déférer la question au ministre pour qu’il procède à un nouveau calcul, mais j’ai finalement décidé autrement, par soucis d’opportunité.
+[31] Le rajustement que j’apporterai vise à réduire le revenu de la somme de la perte qui, selon l’hypothèse du ministre, a été subie à la vente du bien en 2004. Cette somme de 33 000 $ avait été incluse, au titre de dépense personnelle, dans le calcul de l’avoir net pour l’année 2004. Les revenus de l’appelant pour cette année‑là s’en seraient trouvés augmentés (R-2, onglet 5).
+[32] La prochaine question porte sur les prêts de parents. Dans son témoignage, l’appelant a affirmé avoir reçu des prêts d’une tante, d’un oncle et d’un cousin afin de pouvoir acheter sa résidence principale, située au 38, Desna Place.
+[33] Des traites bancaires datées de 2004 et s’élevant à 12 000 $ ont été présentées comme preuve à l’appui des prêts de la part de l’oncle et de la tante. Pour ce qui est du prêt obtenu du cousin, l’appelant a essayé de présenter une lettre de celui‑ci, mais j’ai refusé d’admettre celle‑ci en preuve parce qu’elle était peu fiable.
+[34] J’accepte le témoignage de l’appelant au sujet des traites bancaires. Son revenu sera donc réduit de la somme de 12 000 $.
+[35] Les rajustements relatifs au bien du 6, impasse Cirrus, ainsi qu’aux traites bancaires représentent au total 45 000 $. Ces deux rajustements concernent l’année d’imposition 2004, pour laquelle le ministre avait majoré les revenus de l’appelant de seulement 30 968 $. Étant donné que le montant des rajustements est plus important que le montant des revenus, je propose que le solde soit porté à la majoration des revenus faite à l’égard de l’année 2005 au montant de 10 967 $. Par conséquent, les ajouts faits aux revenus pour les années 2004 et 2005 seront entièrement renversés. Les pénalités imposées à l’égard de ces années seront aussi annulées.
+[36] Dans son témoignage, l’appelant a aussi affirmé avoir des gains de jeu, mais il n’a pas été en mesure de quantifier ses gains nets. Aucune preuve n’a été présentée à l’appui de cette affirmation, et il n’existe aucun fondement raisonnable me permettant de conclure que ce témoignage était fiable. Aucun rajustement ne sera donc apporté relativement aux gains de jeu.
+[37] Pour ce qui est des pénalités pour faute lourde et de la question de la prescription à l’égard des années 2002 et 2003, je conclus que les cotisations étaient exactes étant donné qu’aucun revenu n’avait été déclaré concernant les activités criminelles et qu’on ne m’a présenté aucune explication satisfaisante justifiant l’augmentation de l’avoir net au cours de ces années.
+[38] Par conséquent, l’appel interjeté à l’encontre des années d’imposition 2002 et 2003 est rejeté, et l’appel interjeté à l’encontre des années d’imposition 2004 et 2005 est accueilli.
+[39] Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 7e jour de février 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 25e jour de mars 2011.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2011 CCI 72
+No DU DOSSIER DE LA COUR : 2009-667(IT)I
+INTITULÉ : HI TRUONG c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATES DES AUDIENCES : Les 28 juin et 29 novembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 7 février 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Melissa Danish
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

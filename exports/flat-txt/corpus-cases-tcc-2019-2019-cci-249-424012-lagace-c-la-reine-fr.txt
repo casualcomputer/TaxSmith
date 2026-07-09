@@ -1,0 +1,143 @@
+Title: Lagace c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/424012/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-249-424012-lagace-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-11-05
+
+# Lagace c. La Reine
+
+- Citation: 2019 CCI 249
+- Decision date: 2019-11-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4271, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lagace c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-11-05
+Référence neutre
+2019 CCI 249
+Numéro de dossier
+2018-2162(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-2162(IT)I
+ENTRE :
+MELANIE LAGACE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+Appel entendu le 29 octobre 2019
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Représentant de l’appelante :
+James A. Deacur
+Avocat de l’intimée :
+Me Michael Ding
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie aux termes de la Loi de l’impôt sur le revenu pour l’année d’imposition 2015 est accueilli en partie, sans dépens, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa (Ontario), ce 5e jour de novembre 2019.
+« Patrick Boyle »
+Le juge Boyle
+Référence : 2019 CCI 249
+Date : 20191105
+Dossier : 2018-2162(IT)I
+ENTRE :
+MELANIE LAGACE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] En 2015, Mme Lagace travaillait comme directrice nationale au Canada, supervisant le personnel et les activités de vente au Canada d’une grande multinationale qui fabriquait des instruments et des produits dentaires et dont le siège social était situé à Chicago. L’appel interjeté par Mme Lagace auprès de notre Cour porte sur certaines dépenses d’employé qui lui ont été refusées relativement à ce qui suit :
+1. L’embauche de son époux, Ronald Lagace, à titre d’adjoint
+2. Des frais de comptabilité et de tenue de livres
+3. Des frais d’automobile
+4. Des fournitures utilisées dans le cadre de son travail
+[2] L’appelante a choisi d’interjeter appel selon la procédure informelle de notre Cour, et elle a limité sa demande au montant maximal admissible au titre de cette procédure.
+[3] En sa qualité de directrice nationale pour une société basée à Chicago qui n’avait pas de bureau au Canada, mais comptait des représentants, négociants et clients partout au Canada, l’appelante était appelée à voyager beaucoup et régulièrement tout au long de l’année.
+[4] En 2015, le revenu d’emploi de Mme Lagace s’est élevé à un peu moins de 200 000 $; elle a déclaré des dépenses d’emploi de plus de 80 000 $, dont près de la moitié était liée aux fonctions d’adjoint de son mari. Mme Lagace n’était pas rémunérée à la commission.
+[5] Son employeur lui a remis un formulaire T2200 pour l’année 2015, comme cela est généralement requis pour la déclaration des dépenses d’emploi. L’appelante a aussi produit en preuve une lettre de son employeur datée de décembre 2014, qui accompagnait un formulaire T2200 révisé pour l’année 2012. Le formulaire T2200 pour l’année 2015 précise que Mme Lagace doit engager des dépenses pour ses déplacements partout au Canada et qu’elle consacre 80 % de son temps hors de son bureau à domicile. Mme Lagace a eu droit à une allocation d’automobile et ses frais de trajet liés à l’emploi lui ont été remboursés. Le formulaire précise en outre que des frais de déplacement de près de 100 000 $ ont été portés directement au débit de son employeur par carte de crédit ou autre méthode similaire, et que des frais de déplacement remboursables totalisant plus de 8 000 $ lui ont été remboursés sur présentation d’une preuve de paiement. Il y est aussi indiqué que son contrat de travail exigeait qu’elle embauche un adjoint et qu’elle paie les fournitures de bureau.
+[6] Dans la lettre qui accompagnait le formulaire T2200 pour l’année 2012, le contrôleur général indique que Mme Lagace [traduction] « doit superviser les activités d’un certain nombre de représentants commerciaux. Si Mme Lagace estime avoir besoin d’un administrateur ou d’une autre assistance pour s’acquitter de ses fonctions, c’est à elle de prendre la décision. Cependant, conformément à la politique de l’entreprise, nous n’assumons pas les dépenses liées à l’embauche d’un adjoint. Nous avons modifié le formulaire T2200 (copie ci-jointe) pour refléter le fait que Melanie Lagace emploie quelqu’un pour l’assister dans son travail. Nous avons ainsi modifié la réponse qui figurait à la question 9, sous “embaucher un adjoint ou un remplaçant?”, en remplaçant “Non” par “Oui” ». [Non souligné dans l’original.]
+[7] La lettre précise également que [traduction] « l’entreprise assume tous les frais de déplacement, de repas et de représentation. Ces montants ne sont pas inclus dans le feuillet T4 de Mme Lagace, car ils ont été payés directement par nous. Il convient de préciser que tous les autres coûts, autres que les montants déclarés à l’encadré 6 (déplacements) et à l’encadré 5 (utilisation d’un véhicule), sont à la charge de Mme Lagace ». [Non souligné dans l’original.]
+[8] Aucun élément de preuve ne laisse croire que la situation était différente en 2015, et aucune autre explication n’a été fournie par l’employeur, ni par Mme Lagace ou son mari, à l’appui ou à l’encontre de cette lettre.
+Paiement des dépenses liées à un adjoint
+[9] Le sous-alinéa 8(1)i)(ii) de la Loi de l’impôt sur le revenu autorise une déduction pour le « salaire » versé à un adjoint, si ce paiement est exigé par le contrat d’emploi du contribuable. Le terme « salaire » est défini au paragraphe 248(1) comme étant un revenu que tire un contribuable d’une charge ou d’un emploi. La demande de Mme Lagace ne peut être accueillie, car son époux n’était pas son employé. Mme Lagace a versé à son époux une rémunération horaire à l’acte, qu’il a déclarée comme un revenu de profession libérale à l’égard duquel il a demandé la déduction de près de 75 % de ses dépenses et il a payé la TPS/TVH. Aucun montant n’a été retenu au titre de l’impôt sur le revenu, du Régime de pensions du Canada ou de l’assurance-emploi sur la rémunération qui lui a été versée.
+[10] Cette demande soulève d’autres problèmes :
+1. Mme Lagace n’était pas tenue d’embaucher un adjoint. Or, dans l’affaire Blott c. La Reine, 2018 CCI 1, notre Cour a conclu, aux paragraphes 14 à 17 et à la jurisprudence qui y est citée, qu’il s’agit d’une exigence prescrite par la loi.
+2. Mme Lagace n’a jamais versé la somme déclarée à son époux. Les deux avaient un compte conjoint unique duquel chacun pouvait retirer des sommes et dans lequel pouvaient être effectués des dépôts pour l’un ou l’autre. Cela n’est pas considéré comme un paiement dans des circonstances normales, comme l’explique le juge C. Miller dans Blott, aux paragraphes 11 et 13.
+3. Je ne suis pas du tout convaincu, à la lumière des éléments de preuve présentés, que le travail fait par M. Lagace au taux horaire de 75 $ – qui consistait en des tâches de bureau et de secrétariat, en la préparation de présentations Excel et PowerPoint à partir des données et renseignements obtenus de Mme Lagace, de son employeur ou de ses représentants commerciaux, ainsi qu’en le transport, aller-retour, de Mme Lagace à l’aéroport – puisse de quelque manière être qualifié de raisonnable. Mme Lagace a indiqué qu’elle avait besoin des services de son époux parce qu’elle n’avait suivi aucun programme officiel d’études ou de formation; cependant, la quasi-totalité des neuf catégories de services offerts par son époux consistaient en du travail de bureau ou de secrétariat ou en des tâches administratives, ou consistaient à la conduire ou à aller chercher ou livrer des colis.
+4. M. Lagace n’a pu expliquer pourquoi le nombre total d’heures facturées en 2015 ne correspondait pas au nombre d’heures indiquées sur ses relevés trimestriels et relevés de facturation présentés à son épouse. Seule une très faible proportion des heures facturées sur ses relevés mensuels a pu être expliquée.
+Je note également que M. Lagace a déclaré qu’il avait dû dépenser près des trois quarts de ces sommes pour gagner ce revenu; cependant, Mme Lagace n’a pu décrire quelles dépenses son époux avait dû engager pour faire son travail, et elle était persuadée qu’il s’agissait d’une erreur.
+Frais de comptabilité
+[11] L’alinéa 8(1)i) ne permet pas à un employé de déduire des frais de comptabilité ou de tenue de livres. Bien que ces frais puissent être déductibles au titre de l’alinéa 8(1)f), cette disposition ne s’applique qu’aux employés dont la rémunération consiste, en partie du moins, en des commissions; elle ne peut donc pas s’appliquer à Mme Lagace. Pour ce motif, l’appel interjeté par Mme Lagace, relativement au montant de 4 850 $ réclamé à titre d’honoraires versés à Sean Scott Reid, ne peut être accueilli.
+[12] Là encore, la demande de Mme Lagace soulève d’autres préoccupations :
+1. Mme Lagace a décrit ces services comme consistant à gérer régulièrement les écritures sur ses dépenses, tout au long de l’année, ce qui lui a permis de produire ses déclarations de revenus. Cependant, un employé ne peut déduire de tels frais de comptabilité ou de tenue de livres.
+2. De plus, la brève description des services dans le rapport ne semble pas concorder avec la description qu’en fait Mme Lagace. On les décrit [traduction] « comme des services exigés pour reconstituer les états financiers de 2015 […] conformément aux modalités de la lettre de mission ». [Non souligné dans l’original.]
+3. La facture est datée du 31 décembre 2015. En général, les employés ne peuvent déduire que les dépenses qui ont été payées.
+4. Aucune TPS/TVH n’a été perçue sur cette facture, et aucun numéro d’inscription aux fins de la TPS/TVH n’y figure.
+Frais d’automobile
+[13] Les frais d’automobile contestés sont liés au carburant, aux frais de réparation et d’entretien, ainsi qu’aux droits de stationnement et de péage. Une partie des frais de réparation et d’entretien déclarés, ainsi que la totalité des droits de stationnement, ont été admis après contestation. Durant son témoignage, Mme Lagace a estimé que 90 % de l’utilisation de son véhicule était liée à son travail, mais qu’elle utilisait très peu le véhicule de son mari pour son travail.
+Carburant :
+[14] Les éléments de preuve sont insuffisants pour pousser plus loin l’analyse des frais de carburant. Aucun reçu n’a été présenté à l’appui. Le livre comptable présenté est peu fiable, voire inexact, et les distances parcourues ne sont pas exactes; de plus, ni la contribuable ni la Cour ne peuvent savoir avec certitude si les distances indiquées dans le tableur sont exprimées en milles ou en kilomètres. Qui plus est, les distances indiquées dans le livre diffèrent de celles utilisées par son employeur pour le remboursement des distances parcourues pour son travail. Il est impossible de calculer la différence, s’il en est, entre les frais de fonctionnement de Mme Lagace et les frais de déplacement que son employeur lui a remboursés.
+Réparations et entretien :
+Le seul élément refusé qui est soulevé est une demande portant sur un montant d’environ 3 000 $, lié à l’achat d’un programme d’entretien prolongé auprès du concessionnaire Ford lorsque Mme Lagace a acheté son véhicule en 2015. Cependant, le formulaire de demande de contrat de services Ford, qui a été présenté en preuve, ne précise pas quels services sont couverts, et aucune des cases représentant les programmes offerts n’a été cochée pour indiquer le programme choisi. Je ne sais pas quels services sont couverts par les différents programmes (Protection de base, Protection Extra ou Protection étendue), ni même si c’est l’un de ces trois programmes qui a été choisi. Je ne sais pas non plus quelle proportion peut être considérée comme relevant de l’entretien normal et ce qui relève davantage de la garantie prolongée. De plus, il me paraît étrange qu’une personne paie 3 000 $ pour un programme d’entretien prolongé de cinq ans ou 100 000 kilomètres, alors que cette personne parcourt presque 50 000 kilomètres par année. Un tel programme ne lui offrirait qu’une protection de deux ans pour les services ou garanties couverts. Aucune explication n’a été fournie à ce sujet. Dans les circonstances, j’accepte que la moitié de ce montant soit déductible à 90 %, ce qui représente une déduction de 1 350 $.
+Droits de péage :
+[15] Dans son appel, Mme Lagace réclamait 3 671 $ en droits de péage payés sur l’autoroute 407. Cependant, les factures relatives à cette autoroute qui ont été présentées pour l’année 2015 totalisent 4 197 $, et la différence n’a pas été expliquée. Durant son témoignage, Mme Lagace a déclaré que pratiquement tous les déplacements sur l’autoroute 407 étaient liés à son travail étant donné qu’elle utilise peu cette autoroute dans sa vie personnelle comme elle habite à Uxbridge. Dans les circonstances, j’admets en déduction 90 % du montant de 4 197 $, soit 3 780 $.
+Fournitures :
+[16] Mme Lagace a présenté un tableau, avec reçus à l’appui, faisant état de ses dépenses en fournitures pour l’année 2015; après suppression d’une répétition qui semble accidentelle, ces dépenses totalisent 1 860 $. Ce montant devrait être déductible.
+Conclusions
+1. Aucun montant n’est admis en déduction relativement aux dépenses déclarées pour l’adjoint.
+2. Aucun montant n’est admis en déduction relativement aux frais de comptabilité ou de tenue de livres déclarés.
+3. Des déductions de 1 350 $ au titre d’un programme d’entretien prolongé, et de 3 780 $ relativement aux droits de péage payés sur l’autoroute 407, sont autorisées, pour un total de 5 130 $ au poste des frais d’automobile.
+4. Une déduction de 1 860 $ est autorisée pour les dépenses déclarées au poste des fournitures de bureau pour l’année 2015.
+Signé à Ottawa (Ontario), ce 5e jour de novembre 2019.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+Ce 8e jour de novembre 2019
+Lionbridge
+RÉFÉRENCE :
+2019 CCI 249
+NO DU DOSSIER DE LA COUR :
+2018-2162(IT)I
+INTITULÉ :
+MELANIE LAGACE c. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 29 octobre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 5 novembre 2019
+COMPARUTIONS :
+[en blanc]
+Représentant de l’appelante :
+James A. Deacur
+Avocat de l’intimée :
+Me Michael Ding
+AVOCATS INSCRITS AU DOSSIER :
+[en blanc]
+Pour l’appelante :
+James A. Deacur
+Cabinet :
+Associate Tax Consultants Inc.
+Concord (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Ontario)

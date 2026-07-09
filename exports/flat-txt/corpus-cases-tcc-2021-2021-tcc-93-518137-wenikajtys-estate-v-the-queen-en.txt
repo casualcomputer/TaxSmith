@@ -1,0 +1,121 @@
+Title: Wenikajtys (Estate) v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/518137/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-93-518137-wenikajtys-estate-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-12-13
+
+# Wenikajtys (Estate) v. The Queen
+
+- Citation: 2021 TCC 93
+- Decision date: 2021-12-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4426, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wenikajtys (Estate) v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-12-13
+Neutral citation
+2021 TCC 93
+File numbers
+2020-1029(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-1029(IT)I
+BETWEEN:
+THE ESTATE OF MALGORZATA Z. WENIKAJTYS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on November 9, 2021, at Montreal, Quebec
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the appellant:
+Joseph Turski
+Counsel for the respondent:
+Éliane Mandeville
+JUDGMENT
+The appeal from the reassessment made pursuant to the Income Tax Act on July 20, 2019, for the 2018 taxation year is dismissed without costs.
+Signed at Ottawa, Canada, this 13th day of December 2021.
+"Patrick Boyle"
+Boyle J.
+Citation: 2021 TCC 93
+Date: 20211213
+Docket: 2020-1029(IT)I
+BETWEEN:
+THE ESTATE OF MALGORZATA Z. WENIKAJTYS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Boyle J.
+(1) The appeal filed by the estate of Malgorzata Z. Wenikajtys deals with amounts that the Régime de retraite des fonctionnaires de la Ville de Montréal was to pay the estate following Ms. Wenikajtys's death. Her widower, Mr. Turski, who is also the liquidator of the estate, represented her very competently in discussions with the Canada Revenue Agency (CRA) and in this Court.
+(2) The pension plan was to pay the estate an amount after Ms. Wenikajtys's death. However, a new Quebec law on the reorganization of municipal civil servants' pension plans prohibited the payment. As a result, the payment was only made more than 36 months after her death. The issue is whether the tax payable by the testamentary trust in respect of this amount is the tax applicable to a "graduated rate estate".
+(3) As the name suggests, a "graduated rate estate" is subject to federal tax at the same graduated rates that apply to an individual in the year at issue. The tax ranges from 15% to 33%. The taxable income of other trusts is generally taxed at the maximum rate. If the appellant estate is subject to graduated rate taxation in respect of the amount at issue, the tax payable will be approximately one half of the tax if the estate is subject to the fixed rate of 33%.
+(4) A testamentary trust ceases to be subject to graduated rate taxation 36 months after the death of the individual. The Quebec Act to foster the financial health and sustainability of municipal defined benefit pension plans (MDBPP Act), which was enacted after Ms. Wenikajtys's death, provided that the pension plan could only pay 20% of the amount payable to the estate after the province's reorganization of municipal civil servants' pension plans. According to the evidence, the payment was not delayed because the terms of the pension plan could have reduced the amount, but was postponed pending a decision on whether the members of the pension plan should pay part of the reorganization costs. More than three years after Ms. Wenikajtys's death, it was decided that civil servants would not pay any part of the reorganization costs, and the pension plan then paid the full amount it owed the estate.
+(5) The definition of the term "graduated rate estate" provided in subsection 248(1) of the Income Tax Act (the ITA) reads as follows:
+Definitions
+248(1) In this Act,
+. . .
+graduated rate estate, of an individual at any time, means the estate that arose on and as a consequence of the individual’s death if
+(a) that time is no more than 36 months after the death,
+. . .
+(6) Under subsection 104(2) of the ITA, trusts are taxed the same way as individuals. Graduated tax rates that apply to individuals are outlined in subsection 117(2). However, paragraph 122(1)(a) stipulates that, as a general rule, trusts are subject to the maximum personal income tax rate for the year. One of the exceptions to this rule is that graduated rate estates are taxed at the same graduated rates as individuals.
+(7) Ms. Wenikajtys died in January 2014. She was 53 years old and left behind her husband and sons. Later in 2014, the National Assembly of Quebec enacted the MDBPP Act. The amount to be paid to the estate by the pension plan was established in January 2015. The MDBPP Act and the subsequent reorganization did not change this amount. In June 2018, it was finally decided that civil servants who worked during the same years as Ms. Wenikajtys did would not have to pay for reorganization costs. The pension plan then paid the full amount it had withheld since 2015.
+(8) The plan set the amount to be paid in 2015, less than a year after Ms. Wenikajtys's death, but it was only able to make the payment more than 36 months later due to the provincial law. Mr. Turski submitted several reasons why this amount should be subject to graduated rate taxation.
+(9) I would like to congratulate Mr. Turski for his clear, succinct, and well-organized presentation of the relevant facts and his understanding of the issue of the 36-month period. The fact that the CRA never referred him to the definition of "graduated rate estate" in the ITA certainly made his task more difficult. The Notice of Reassessment did not explain why the tax had been increased. The CRA letter dated October 31, 2019, indicated that the 36-month period for the estate to be entitled to graduated rate taxation had elapsed. However, it did not refer to any provisions of the ITA, any CRA publications, or another source of information that the estate could have consulted. The CRA's January 7, 2020, reply to the estate's objection referred to an incorrect provision of the ITA and did not explain that the ITA defines the term "graduated rate estate". The CRA's February 7, 2020, ratification letter also referred to an incorrect provision of the ITA and did not provide the definition of the term. This is unfortunate. I hope these are not the CRA's usual service standards for responding to letters, questions, and objections because they confuse taxpayers and are inefficient, which in turn is not helpful for the Department of Justice and the Court. However, the last sentence of the Attorney General of Canada's reply indicated that the ITA defines the term "graduated rate estate" and referred to the right provision, subsection 248(1).
+(10) The estate's first argument was that the amount to which the estate was entitled and that was finally paid in 2018 had been set in 2015, i.e., during the 36-month period. The second argument followed from the first. The amount to be paid did not and could not change. The reason that part of this amount was not paid was not that the amount could have been reduced, but that the deceased civil servants might have had to pay part of the reorganization costs. Unfortunately, in general, the ITA sets personal income tax, and therefore trust and estate taxes, based on when an amount is paid or received, not when it is due or payable. The ITA does not include any exceptions that could apply in this case. The estate received the amount in 2018. It must therefore be added to the income for that year.
+(11) The estate's third argument was that there was no valid reason for the 36-month rule to apply. The more than three-year delay was completely beyond the estate's control and was not the result of an investment or a decision by Ms. Wenikajtys or the estate. The delay arose from a legitimate decision by the National Assembly, which was entitled to act unilaterally, and in fact did so after Ms. Wenikajtys's death. The estate quickly filed a claim. It could not make a claim because the debtor was a pension plan for municipal civil servants in Quebec. Mr. Turski argued that there must surely be an exception because the more than 36-month delay was the result of a unilateral act. He said the result in this case was inappropriate and unreasonable. His wife's circumstances were not those intended to be addressed by the 36-month rule. He argued that the result was unfair because it increased the tax payable from 15% to 33% on a small amount, i.e., less than $15,000.
+(12) I agree with Mr. Turski that given his wife's circumstances, the 36-month rule and the resulting tax increase do not seem appropriate, reasonable, or fair given general tax policy. I also agree that his wife's circumstances are highly unlikely to raise the concerns that led the Department of Finance and the National Assembly to adopt the 36-month rule. However, the task for this Court is to enforce the relevant law; it cannot refuse to enforce it for reasons of fairness or justice. As Mr. Justice Rothstein of the Federal Court of Appeal stated in Chaya v. The Queen, 2004 FCA 327:
+[4] The applicant says that the law is unfair and he asks the Court to make an exception for him. However the Court does not have that power. The Court must take the statute as it finds it. It is not open to the Court to make exceptions to statutory provisions on the grounds of fairness or equity. If the applicant considers the law unfair, his remedy is with Parliament, not with the Court.
+(13) Mr. Justice Sharpe of the Ontario Court of Appeal made a similar point in his book Good Judgment: Making Judicial Decisions, at page 127:
+I would be very concerned about a judge who has never felt compelled to decide a case in a way that goes against the judge's personal views. That is simply an unpleasant but familiar part of the job. We are prepared to put our personal views to one side because that is what we have promised and because, at the end of the day, we must accept that it is necessary to tolerate occasional outcomes that we personally regard as wrong or unjust in order to preserve the overarching ideal of a legal order that exists separately and independently from the personal views of judges.
+(14) For these reasons, the Court must dismiss the appeal. Although the appellant could not succeed in this Court, Ms. Wenikajtys's estate could appeal under the Financial Administration Act. The appellant could thus take into account the comments of Rothstein J. and apply to the legislature for relief. Subsection 23(2) of the Act reads as follows:
+(2) The Governor in Council may, on the recommendation of the appropriate Minister, remit any tax or penalty, including any interest paid or payable thereon, where the Governor in Council considers that the collection of the tax or the enforcement of the penalty is unreasonable or unjust or that it is otherwise in the public interest to remit the tax or penalty.
+(15) Had the CRA flagged the existence of the 36-month rule and provided the estate with a clearer and more comprehensive explanation of the rule, after ratification, the estate may have applied for a remission order instead of addressing this Court. The Minister of National Revenue and the Governor in Council, that is, the Cabinet, are entirely responsible for remission orders. The CRA has established a procedure that taxpayers can follow to ask the Minister to recommend remission. If the Minister agrees with Mr. Turski and me that in this case the application of the 36-month rule appears to produce an unfair and unreasonable result, and that the public interest that led to the adoption of the rule does not apply in this case—and I hope the Minister agrees—then the Minister will ask Cabinet to approve the remission order. The Court has no role in this procedure for which the Minister and the Governor in Council are entirely responsible. They may well be aware of other factors that neither party has brought to the attention of the Court.
+(16) The appeal is dismissed.
+Signed at Ottawa, Canada, this 13th day of December 2021.
+"Patrick Boyle"
+Boyle J.
+CITATION:
+2021 TCC 93
+COURT FILE NO.:
+2020-1029(IT)I
+STYLE OF CAUSE:
+THE ESTATE OF MALGORZATA Z. WENIKAJTYS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+November 9, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+December 13, 2021
+APPEARANCES:
+Agent for the appellant:
+Joseph Turski
+Counsel for the respondent:
+Éliane Mandeville
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

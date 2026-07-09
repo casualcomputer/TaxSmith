@@ -1,0 +1,268 @@
+---
+title: "Estate of Lily Bullard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26439/index.do"
+last_modified: "2004-04-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 294"
+citation2: ""
+neutral_citation: "2004 TCC 294"
+decision_date: "2004-04-13"
+language: "en"
+item_id: "26439"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3190
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:36:28.173000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ce93788cc71b6baad1276149ba160b38994c767e3dcfc343af1bdce735049de0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Estate of Lily Bullard v. The Queen
+
+- Citation: 2004 TCC 294
+- Decision date: 2004-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3190, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Estate of Lily Bullard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-13
+Neutral citation
+2004 TCC 294
+File numbers
+2002-95(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-95(IT)G
+BETWEEN:
+ESTATE OF LILY BULLARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 5. 2004 at Vancouver, British Columbia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+J. Andre Rachert
+Counsel for the Respondent:
+Ron D.F. Wilhelm
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1997 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of April 2004.
+"Diane Campbell"
+Campbell, J.
+Citation: 2004TCC294
+Date: 20040413
+Docket: 2002-95(IT)G
+BETWEEN:
+ESTATE OF LILY BULLARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell, J.
+[1] This is an appeal of the income tax assessment in respect to the Estate of Lily Bullard for the 1997 taxation year.
+[2] The issue is simply whether the Appellant filed a valid capital gains election form with the 1994 return which would entitle the Appellant to the capital gains exemption pursuant to subsection 110.6(19) of the Income Tax Act (the "Act").
+[3] There were no witnesses called. Counsel for the Appellant and Respondent submitted a Statement of Agreed Facts and each presented legal argument in respect to the issue. As the Statement of Agreed Facts provides the background to this issue, I have reproduced the statement in its entirety:
+1. Lily Bullard ("Mrs. Bullard") owned a property located at 1826 West 63rd Avenue in Vancouver, British Columbia (the "Property") from January 1, 1972 to October 1, 1997.
+2. The original cost to Mrs. Bullard of the Property on January 1, 1972 was $50,000.
+3. The Property was Mrs. Bullard's principal residence from January 1, 1972 to August 31, 1990.
+4. Mrs. Bullard began renting out the Property on September 1, 1990.
+5. Mrs. Bullard reported rental revenue respecting the Property in her 1990 income tax return, and was allowed to deduct from that revenue various claimed amounts including capital cost allowance.
+6. The Property underwent a change in use from a principal residence to a rental property on September 1, 1990.
+7. The fair market value of the Property on September 1, 1990 was $348,000.
+8. The fair market value of the Property on February 22, 1994 was $565,000.
+9. Mrs. Bullard claimed the Property as her principal residence in her 1994 income tax return.
+10. Mrs. Bullard included with her 1994 income tax return a typewritten note (the "Note") claiming an election under subsection 45(2) of the Income Tax Act (the "Act") respecting the Property, with the goal of applying the principal residence exemption to it during the years of 1990 to 1993.
+11. Mrs. Bullard included with her 1994 income tax return a Form T2091 respecting the Property, with the goal of claiming a principal residence exemption under paragraph 40(2)(b) of the Act.
+12. On the Form T2091, the following was recorded respecting the Property:
+(a) 22 as the total number of years that it was designated as Mrs. Bullard's principal residence;
+(b) $50,000 as the adjusted cost base;
+(c) $546,800 as the deemed proceeds of disposition;
+(d) $496,800 as the capital gain; and
+(e) nothing as the gain under paragraph 40(2)(b) of the Act.
+13. In 1994 the prescribed form for a taxpayer to elect to use up her remaining enhanced capital gains deduction under subsection 110.6(19) of the Act was the Form T664.
+14. Mrs. Bullard included with her 1994 income tax return a Form T664 respecting the Property (the "Form").
+15. On the Form, the following was recorded respecting the Property:
+(a) $50,000 as the adjusted cost base;
+(b) $546,800 as the designated proceeds of disposition;
+(c) nothing as the elected capital gain; and
+(d) $0 as the total elected capital gains under the heading of "other properties", which included the Property.
+16. In 1994, Mrs. Bullard's son Richard had power of attorney respecting her affairs due to her mental condition.
+17. It is presently unknown, but probable, that Richard Bullard signed and dated the Form on Mrs. Bullard's behalf.
+18. According to the Form the elected gain would have been $496,800 and both Mrs. Bullard's annual gains limit and cumulative gains limit for 1994 would have been 75% of that, meaning $372,600.
+19. In 1994 the balance of Mrs. Bullard's available enhanced capital gains deduction was $75,000.
+20. Mrs. Bullard sold the Property on October 1, 1997 for $436,996.
+21. Mrs. Bullard claimed a capital loss of $88,004 in her 1997 income tax return respecting the Property, on the basis that:
+(a) its cost was $525,000; and
+(b) the proceeds of disposition respecting it were $436,996.
+22. On June 8, 1998 the Minister of National Revenue (the "Minister") initially assessed Mrs. Bullard's 1997 taxation year as filed.
+23. Mrs. Bullard died on June 5, 1999.
+24. In early 2001, the Appellant claimed a net capital loss carry-forward respecting the 1997 sale of the Property in the date of death return.
+25. As a result, the Minister began an audit of Mrs. Bullard's 1997 taxation year.
+26. By the time of that audit, the Minister no longer had Mrs. Bullard's original 1994 income tax return, with enclosures, in her possession.
+27. During the course of that audit:
+(a) the Minister advised the Appellant that the Minister did not accept the Form as a valid election under subsection 110.6(19) of the Act;
+(b) the Minister conducted an appraisal of the Property's fair market values as of September 1, 1990 and February 22, 1994;
+(c) the Appellant and Minister agreed that the fair market value of the Property on September 1, 1990 was $348,000; and
+(d) on February 14, 2001, the Appellant sent to the Minister a second Form T664 respecting the Property (the "Second Form").
+28. On the Second Form, the following was recorded respecting the Property:
+(a) $348,000 as the adjusted cost base;
+(b) $546,800 as the designated proceeds of disposition;
+(c) $198,800 as the capital gain before reduction;
+(d) $113,600 as the reduction for non-qualifying real estate; and
+(e) $85,200 as the elected capital gain.
+29. The Second Form was neither dated nor signed by Mrs. Bullard or Richard Bullard.
+30. On June 4, 2001, the Minister reassessed Mrs. Bullard's 1997 taxation year to deny the claimed capital loss respecting the disposition of the Property in that year, and assess a gain of $88,996 on the basis that:
+(a) the fair market value of the Property on September 1, 1990, at the time of its change in use to a rental property, and thus its cost was $348,000; and
+(b) the proceeds of disposition respecting the Property were $436,996.
+31. On July 10, 2001, the Appellant objected to the Minister's reassessment of Mrs. Bullard's 1997 taxation year.
+32. On October 11, 2001, the Minister confirmed the reassessment of Mrs. Bullard's 1997 taxation year.
+The Legislation
+[4] The facts of this case involve two types of election: a subsection 45(2) election and a subsection 110.6(19) election. Where a taxpayer has disposed of capital property in a taxation year, the capital gain, if any, is determined in accordance with paragraph 40(1)(a) of the Act. However, the gain on the disposition of a taxpayer's principal residence is exempt pursuant to paragraph 40(2)(b), provided the residence has qualified as a principal residence and has been so designated for the relevant years after 1971. Form T2091 is to be filed when a taxpayer elects a principal residence exemption pursuant to paragraph 40(2)(b).
+[5] Where there is a change in use of a property, paragraph 45(1)(a) deems there to be a disposition of the property followed by an immediate reacquisition at a cost equal to the property's fair market value. Subsection 45(2) provides a means for the taxpayer to elect and avoid this change of use rule contained in paragraph 45(1)(a), so that the property will continue as the taxpayer's designated principal residence, without immediate tax consequences.
+[6] Subsection 45(2) of the Act states:
+For the purposes of this subdivision and section 13, where subparagraph (1)(a)(i) or paragraph 13(7)(b) would otherwise apply to any property of a taxpayer for a taxation year and the taxpayer so elects in respect of the property in the taxpayer's return of income for the year under this Part, the taxpayer shall be deemed not to have begun to use the property for the purpose of gaining or producing income except that, if in the taxpayer's return of income under this Part for a subsequent taxation year the taxpayer rescinds the election in respect of the property, the taxpayer shall be deemed to have begun so to use the property on the first day of that subsequent year.
+[7] Subsection 45(2) permits a taxpayer, following a change in use of a principal residence, to elect to deem that the change of use has not occurred and to defer any gain to a later year. A property can qualify as a taxpayer's principal residence for up to four taxation years while a subsection 45(2) election remains in force.
+[8] A taxpayer may make an election under subsection 45(2) by filing a signed letter stating that the change in use to the property is deemed not to have been made. The letter should be filed with the taxpayer's return for the year in which the change in use occurred. Interpretation Bulletin IT-120R6 (July 17, 2003) states that the subsection 45(2) election is to be made by letter filed with the taxpayer's return. Justice Sarchuk in Lo v. Canada, [1995] T.C.J. No. 1504 confirmed that the proper way to make this election is by signed letter.
+[9] Until February 22, 1994 taxpayers were entitled to a lifetime capital gains exemption of $100,000.00 (expressed as a $75,000.00 deduction under subsection 110.6(3)). When this exemption was eliminated, Parliament introduced subsection 110.6(19) which permitted taxpayers to make a special election in respect to capital property acquired and still owned prior to February 22, 1994. This election is referred to as the final capital gains exemption election ("final capital gains election").
+[10] The relevant portion of Subsection 110.6(19) states:
+Subject to subsection (20), where an individual (other than a trust) or a personal trust (each of which is referred to in this subsection and subsections (20) to (29) as the "elector"), elects in prescribed form to have the provisions of this subsection apply in respect of
+(a) a capital property (other than an interest in a trust referred to in any of paragraphs (f) to (j) of the definition "flow-through entity" in subsection 39.1(1)) owned at the end of February 22, 1994 by the elector, the property shall be deemed, except for the purposes of sections 7 and 35 and subparagraph 110(1)(d.1)(ii),
+(i) to have been disposed of by the elector at that time for proceeds of disposition equal to the greater of
+(A) the amount determined by the formula
+A - B
+where
+A is the amount designated in respect of the property in the election, and
+B is the amount, if any, that would, if the disposition were a disposition for the purpose of section 7 or 35, be included under that section as a result of the disposition in computing the income of the elector, and
+(B) the adjusted cost base to the elector of the property immediately before the disposition, and
+(ii) to have been reacquired by the elector immediately after that time at a cost equal to
+[...]
+(C) [...] the lesser of
+(I) the designated amount, and
+(II) the amount, if any, by which the fair market value of the property at that time exceeds the amount determined by the formula
+A - 1.1B
+where
+A is the designated amount, and
+B is the fair market value of the property at that time;
+[...]
+[11] This special election allows the taxpayer to elect to utilize any remaining amount of the lifetime capital gains exemption so that it would not be lost for all time. The final capital gains election requires a taxpayer to designate a capital property and to elect a value for that property using Form T664. The provision then deems that the taxpayer has disposed of and reacquired the designated capital property at that elected value. Any resulting gain from this deemed disposition will give rise to a taxable capital gain which may be offset by the taxpayer's remaining lifetime exemption. Since the taxpayer is deemed to have acquired the property at the newly elected value, when there is an actual disposition of this property in the future, the gain at that time will be offset against the elected amount rather than the original cost and the future gain. Therefore the tax payable will be reduced. Limitations are placed on the elected value of the property. The disposition value selected by the taxpayer must not be more than the fair market value of the property on February 22, 1994 or less than the adjusted cost base ("ACB") on February 22, 1994. If it is less than the ACB the election will be invalid as this would create a capital loss. An election in excess of the fair market value will be valid but may be subject to penalties.
+[12] Subsection 110.6(20) sets out three conditions, one of which must be satisfied in order for a capital gains election to be valid under subsection 110.6(19).
+[13] The relevant portion of subsection 110.6(20) states:
+Subsection (19) applies to a property or to a business, as the case may be, of an elector only if
+(a) where the elector is an individual (other than a trust),
+(i) its application to all of the properties in respect of which elections were made under that subsection by the elector or a spouse of the elector and to all the businesses in respect of which elections were made under that subsection by the elector
+(A) would result in an increase in the amount deductible under subsection (3) in computing the taxable income of the elector or a spouse of the elector, and
+(B) in respect of each of the 1994 and 1995 taxation years,
+(I) where no part of the taxable capital gain resulting from an election by the elector is included in computing the income of a spouse of the elector, would not result in the amount determined under paragraph (3)(a) for the year in respect of the elector being exceeded by the lesser of the amounts determined under paragraphs (3)(b) and (3)(c) for the year in respect of the elector, and
+(II) where no part of the taxable capital gain resulting from an election by the elector is included in computing the income of the elector, would not result in the amount determined under paragraph (3)(a) for the year in respect of a spouse of the elector being exceeded by the lesser of the amounts determined under paragraphs (3)(b) and (3)(c) for the year in respect of the spouse,
+(ii) the amount designated in the election in respect of the property exceeds 11/10 of its fair market value at the end of February 22, 1994, or
+(iii) the amount designated in the election in respect of the business is $1.00 or exceeds 11/10 of the fair market value at the end of February 22, 1994 of all the eligible capital property owned at that time by the elector in respect of the business; [...]
+The Facts as They Relate to the Relevant Provisions
+[14] On September 1, 1990 the Appellant's property, which to that date had been her principal residence, underwent a change in use when it became a rental property (paragraph 4 of the Statement of Agreed Facts). In her 1990 return she reported rental revenue and deducted various claimed amounts including capital cost allowance (paragraph 5 of the Statement of Agreed Facts).
+[15] In 1994, the Appellant's accounting firm attempted to file a subsection 45(2) election so that this property would be the Appellant's principal residence and the principal residence exemption would apply to it for the years 1990 to 1993 (paragraphs 9 and 10 of the Statement of Agreed Facts). Her 1994 tax return included a typewritten unsigned note which claimed this election pursuant to subsection 45(2) for the property for four years (1990 to 1993).
+[16] Also included with the Appellant's 1994 tax return was form T2091, which was filed for the purpose of electing a principal residence exemption pursuant to paragraph 40(2)(b). This form contained a declaration that the property had been used as a principal residence for 22 years, that is, 1972 to 1994. This form listed the ACB at $50,000.00, the deemed proceeds of disposition at $546,800.00 and the capital gain at $496,800.00, with the gain under paragraph 40(2)(b) left blank.
+[17] Included in the 1994 tax return was another form, T664, which is the prescribed form under subsection 110.6(19). Its purpose was to permit the Appellant to elect to use her final capital gains exemption. Form T664 listed the ACB at $50,000.00, designated proceeds at $546,800.00, and total elected capital gain on other properties was listed at zero. The other designated areas on the form were left blank. The 1994 return was assessed as filed. When the property was sold in 1997, the Appellant claimed a capital loss of $88,004.00 in her 1997 tax return. The loss was not used in 1997. Mrs. Bullard died in 1999. In 2001 the Appellant claimed a net capital loss carry forward in respect to this 1997 sale. The Minister conducted an audit at this point and determined the 1994 election under subsection 110.6(19) was invalid. In February 2001, a second form T664 was submitted pursuant to subsection 110.6(19). This form contained revised amounts.
+Position of the Appellant
+[18] The Appellant's position is that it should qualify for the election pursuant to subsection 110.6(19) because the Form T664 filed with the 1994 return is valid and effective.
+[19] The Appellant submits that an election under subsection 110.6(19) is valid where the following requirements are met:
+(1) one of the three conditions contained in paragraph 110.6(20)(a) are met, and
+(2) the election is filed in the prescribed form (T664) with all substantive fields on that form properly completed.
+[20] The Appellant argues that these two requirements are met. Firstly, the condition in subparagraph 110.6(20)(a)(i) has been fulfilled. The Appellant reviewed the calculations involved in this provision and argued that the two components of this paragraph were satisfied because:
+(a) as the Appellant had not used any of her available exemption, the election resulted in an increase in the $100,000.00 capital gains exemption under subsection 110.6(3), and
+(b) as the annual gains limit and cumulative gains limit are equal to the taxable capital gain/exemption amount, the election does not result in the lesser of the annual gains limit and cumulative gains limit exceeding the balance of the exemption.
+[21] The Appellant argues that the Respondent used the erroneous ACB from the first form T664 filed in 1994 to calculate these limits and then determined that the Appellant did not meet the requirements of subsections 110.6(19) and 110.6(20). If the true ACB had been used in making the calculations pursuant to subsection 110.6(20), then the limits and the amount calculated pursuant to paragraph 110.6(3)(a) of the Act would be equivalent. Where all three amounts are equivalent the requirements of subsection 110.6(20) are met. The Appellant argues that it is improper for the Respondent to rely on an erroneous ACB in these calculations under paragraph 110.6(20)(a), when the Respondent has agreed with the Appellant that the true ACB of the property is another amount. The Appellant relied on the cases of Champagne v. R., [2003] 3 C.T.C. 2318 and Coastal Construction and Excavating Limited v. Her Majesty the Queen [1996] 3 C.T.C. 2845 to argue that the Respondent's approach here was inconsistent with the approach taken by the Minister in these former cases and that in using an erroneous ACB the Respondent was relying on an error in a statute barred year to deny the Appellant the subsection 110.6(19) election in a non-statute barred year.
+[22] Secondly, the Appellant argues that the other requirement for a valid election is fulfilled because the taxpayer has filed the prescribed form with all of the substantive fields properly and accurately completed. It is the Appellant's position that subsection 110.6(19) contemplates the inclusion of the following two key substantive components or fields in the form T664:
+(1) the amount elected by the taxpayer, the designated proceeds, which is required for the deemed disposition and reacquisition to occur, and
+(2) the designation of property by the taxpayer.
+Changes to these substantive fields would certainly amount to amendments to the form, not simply corrections. The remaining fields in the form are non-substantive and changes to these fields would be corrections only. The two substantive fields were properly completed in the first T664 form filed in 1994. The designated amount was listed at $546,800.00 and the property was designated as "per T2091". However the form T664 included an incorrect ACB of $50,000.00. Because the ACB is not an elected amount, it is a non-substantive field on the form. The only reason the ACB is included is to prevent the taxpayer from claiming a capital loss. The second T664 form filed in 2001 contained the correct ACB of $348,000.00. The Appellant referred to this change on the second T664 in 2001 as "inconsequential" because substituting the correct ACB ($348,000.00) for the incorrect ACB ($50,000.00) amounts to a correction only and not an amendment. All non-elected amounts on the T664 are simply calculations based on the correct ACB and the elected designated proceeds amount. These non-substantive fields, including the ACB amount, are simply included for the Minister's convenience. To support this position, that all fields on T664 are non-substantive except for the two proposed by the Appellant, section 32 of the Interpretation Act, R.S.C. 1985, c.11 (1st Supp.) s. 32, was relied upon. The Appellant also referred to R. v. Langlois (1991), 35 M.V.R. (2d) 71, which listed the factors that should be examined when determining whether a deviation on a form invalidates it.
+[23] In summary, according to the Appellant's argument, using the incorrect ACB in the 1994 T664 form is not a substantive deviation because it did not affect the elected amounts under subsection 110.6(19). It is not fatal to the validity of the form because it does not affect the substance of the election. Substituting the true ACB in the 2001 T664 form is simply a correction to the first form and not an amendment. The property was described and the designated amount is clear. Therefore the two substantive fields in the 1994 form are completed and the election was made. The ACB is not part of the election. By correcting the ACB the Appellant is not engaging in retroactive tax planning.
+Position of the Respondent
+[24] The Respondent's position is that the subsection 110.6(19) election is incomplete and invalid based on the errors contained in the form. As a result the Appellant does not qualify for the capital gains deduction under this section and has therefore realized a capital gain on the 1997 sale of the property.
+[25] The Respondent argues that both the election under subsection 45(2) and the election under subsection 110.6(19) are invalid. The subsection 45(2) election is invalid because the taxpayer made a choice to report rental income and to claim certain deductions including capital cost allowance in 1990 and this prevents the Appellant in 1994 electing to designate the property as a principal residence.
+[26] The Respondent claims that the Appellant's attempt to complement the subsection 45(2) election with the 1994 T664 form under the subsection 110.6(19) election also failed. According to the wording of subsection 110.6(19), a taxpayer elects in prescribed form to have the subsection apply in its entirety. This is contrary to the Appellant's argument that a taxpayer elects an amount as the proceeds of disposition under the section. The Respondent argues that all of the prescribed figures are necessary to calculate a gain under the subsection. Therefore the taxpayer must include the ACB on the form so that the Minister will know if the ACB is greater than the designated amount. As an example the Respondent cites clause 110.6(19)(a)(i)(B), which sets the proceeds of disposition at the ACB, if it is greater than the designated amount, to prevent a taxpayer from electing to trigger a loss. This makes the ACB amount a substantive item on the form.
+[27] Form T664 requires that a taxpayer complete more than a figure for the designated proceeds of disposition amount. The 1994 T664 form omitted a number of amounts, including the non-qualifying real estate amount and the elected capital gain amount. These amounts are substantive and the failure to include them in the 1994 T664 form means the Minister could not accept this form because it did not satisfy the conditions of subsections 110.6(19) and (20).
+[28] The second T664 form filed in 2001 contains the missing amounts and the true ACB but cannot be accepted as it was filed beyond the date for submitting amended forms. In addition these figures are not merely corrections, as the Appellant contends, but amount to amendments filed beyond the prescribed period.
+[29] In summary the first form T664 was not a proper election in prescribed form, as certain amounts are missing and a change to the ACB amount is substantive. The second T664 form is a failed late-filed election.
+Analysis
+[30] Counsel for both the Appellant and Respondent were in agreement on the facts in this case. Counsel also agree on the correct ACB value of the property. Whether the correct ACB value can be used to determine the calculations pursuant to subsections 110.6(19) and 110.6(20) depends on the validity of the election forms. The problem here arises because accountants clearly failed to properly complete the forms required by these provisions. They made a decision in 1990, when Mrs. Bullard began renting her residential property, to claim rental income and claim certain amounts including capital cost allowance. They continued to treat the residence as a rental unit from 1990 to 1993, and did not file a change of use election under subsection 45(2) to claim the principal residence exemption. In February 1994, the accountants had a change of heart and attempted to file this election pursuant to subsection 45(2) to insulate and protect the Appellant's gain on the property. They filed a short unsigned typewritten note indicating the Appellant was electing under subsection 45(2) to have the property continue as her principal residence for the years 1990, 1991, 1992 and 1993. The accountants also included a form T2091 to calculate a claimed principal residence exemption which included the years 1990 through 1993.
+[31] This note, together with form T2091, represent a failed attempt by the accountants to return to the years 1990 to 1993 to claim a principal residence exemption for a property which they quite clearly treated as a rental property. Tab 15 of the Hearing Record contained correspondence dated April 11, 2001 from Parkes & Moysey, the accounting firm, to CCRA which admitted:
+We agree ... that the subsection 45(2) election made for this property is not valid and a change of use occurred effective September 1, 1990 resulting in a deemed disposition on that date at the property's fair market value.
+Quite apart from this admission, I find the attempt in 1994 to elect pursuant to subsection 45(2) invalid and of no effect because it was simply late filed. Subsection 45(2) refers to a taxpayer electing in respect of a property in that taxpayer's return of income for the year... (emphasis is mine). This imposes a responsibility on the taxpayer to make a choice or a decision in that year. When she did not make this election in her return for 1990, she is prevented from doing so at a later date due to the wording of subsection 45(2). In other words, the Respondent contends that the Appellant is prevented from making this election because the property was treated as a rental between 1990 and 1993. However I conclude that this election fails because the wording of subsection 45(2) demands that a taxpayer make the choice and file the election for that year and she did not. If the Appellant had properly filed an election in 1990, to elect the property for the principal residence exemption, but continued to treat the property as a rental property including a claim for capital cost allowance, I believe the election would be valid but she simply would have been reassessed at some point and prevented from making the rental deductions.
+[32] In addition to the attempted subsection 45(2) election supported by a note and form T2091, the accountants next attempted to file an election (Form T664) under subsection 110.6(19). This would enable Mrs. Bullard to use up any remaining capital gains deduction which would otherwise disappear in 1994. I believe the accounting firm filed a form T664 under subsection 110.6(19) because they knew that their attempt at a subsection 45(2) election would be unsuccessful. If it had been successful, the gain to the residence would have been zero in 1994 and therefore completely protected.
+[33] Subsection 110.6(19) refers to a taxpayer electing in prescribed form to have the provisions of the Act apply. According to subsection 248(1) of the Act the term "prescribed" is defined as:
+(a) in the case of a form, the information to be given on a form or the manner of filing a form, authorized by the Minister,
+This definition implies that when a taxpayer makes the choice to elect, the taxpayer must give information on a form authorized by the Minister. There may be very serious tax consequences to a taxpayer when a choice is made to elect or not elect under this provision. In a self-assessing system, the responsibility falls on a taxpayer's shoulder to ensure that the election is completed to the extent that the form will readily comply with the provision, without unnecessary second-guessing by the Minister. It is up to the taxpayer to complete the form in such a way that it will be clear to the Minister what the taxpayer intends.
+[34] The 1994 form T664 designated the Appellant's property, and specified the adjusted cost base at $50,000.00, the fair market value as at February 22, 1994 at $546,800.00, with designated proceeds at $546,800.00. All other areas on this form were either left blank or listed at zero value. The question is whether this form contained sufficient information to conclude that it was in prescribed form for the subsection to apply, which would enable the Appellant to claim the capital gains deduction under subsection 110.6(19). Both the Appellant and Respondent agree that the listed ACB of $50,000.00 is the incorrect amount and they both agree that the correct amount that should have been listed was $348,000.00. I do not accept the Appellant's submissions that the ACB is analogous to something as basic as a taxpayer's SIN number. The ACB is clearly an important figure on this form and is not an inconsequential figure as the Appellant suggests. It is part of the substantive information required for the correct completion of the form. While the Appellant is correct that the ACB amount is not an elected amount which a taxpayer chooses, it is determinative in respect to the elected capital gain amount and may be determinative of any penalties under subsections 110.6(22) and (28). The taxpayer's choice of the ACB figure is a vital piece of information on this form. This is information that the taxpayer has, not the Minister, and it is up to the taxpayer to ensure that the correct amount is obtained and included on the form. Tab 14 of the Hearing Record contains correspondence dated February 14, 2001 from the accounting firm to CCRA and also the revised T664 form. The entire correspondence is devoted to a recalculation of the ACB of the property sold in 1997. The calculations were based on the correct ACB and resulted in significant changes to the figures contained in the 1994 T664 form. These changes go to the heart of the form and cannot be characterized as anything but vital and substantive information which must be supplied by a taxpayer to the Minister.
+[35] The Appellant argued that the form contains only two substantive fields, the property designation and the designated proceeds. These are two of the substantive fields but the form contemplates additional calculations which are substantive and which are clearly not "inconsequential". If one looks at the form and its intent, a taxpayer is electing a capital gain against which a capital gain's deduction may be applied. This necessarily implies more than a property designation and an amount for designated proceeds. For example, where the proceeds of disposition are greater than the designated amount, clause 110.6(a)(i)(B) sets the proceeds of disposition at the ACB. Of course this ensures that a taxpayer does not elect to trigger a capital loss. It is simply a logical deduction to conclude that a taxpayer must be vigilant that the correct ACB is included on the form so that the Minister is not left to second-guess the tax treatment chosen by the taxpayer.
+[36] This form also left blank the amount respecting the reduction for non-qualifying real estate. One is left again to second guess whether the taxpayer intended zero to apply or some other amount. How was the Minister to know if the taxpayer intended some portion of the gain to be in respect to non-qualifying real estate? A non-qualifying portion is calculated with reference to the gain, multiplied by the number of months the property was owned between February 22, 1992 and February 22, 1994, divided by the total number of months the property was owned. This is a mathematical formula for which the taxpayer must supply the figures and information. If the election form is missing some or all of this information, the Minister cannot be expected to know or guess at these figures. On the second form T664 filed in 2001, there was in fact a non-qualifying portion completed with a resulting amount of $113,800.00 included. The non-qualifying real estate figure is clearly a substantive item in the form because it is a significant factor in the calculation of the elected capital gain.
+[37] Some of the remaining fields on the 1994 T664 form are either left blank or completed with zero. The Step 2 calculation of elected capital gains (both flow through entities and other properties) is listed at zero while the Step 3 calculation of elected taxable capital gains (both flow through entities and other properties) is listed at zero. The Respondent pointed out that it was unclear whether the accountants were referencing these figures to their attempted subsection 45(2) election, which if it had been successful, would have exempted the gain as a principal residence exemption.
+[38] In the end, one is simply left to speculate whether the Appellant meant the elected capital gain to be zero or $496,800.00 (based on the 1994 form which included figures of an ACB of $50,000.00 and designated proceeds of $546,800.00).
+[39] The limited information contained in this form makes it invalid. The Minister cannot be expected to speculate and assume. It is up to the taxpayer to elect in prescribed form for the provisions of this subsection to apply and that means the inclusion of sufficient and accurate information so that the Minister knows the taxpayer's intended tax treatment by reference to this form.
+[40] Both the Appellant and Respondent referred to section 32 of the Interpretation Act and from my understanding of each of their references, they agree that this section basically states that defects in form are acceptable but defects in substance are not. They disagree however on which information in the T664 is substantive. I firmly believe that this section is meant to ensure that a form will remain valid where the deficiency relates to form only. However for the reasons given, the defects here go to the very heart of form T664 and affect it substantively. Where all or some of the necessary and substantive elements on a prescribed form are missing, or incorrectly stated by a taxpayer, the form will be considered invalid and ineffective under the appropriate provision.
+[41] The second T664 form filed in 2001 cannot be used to correct the substantive failures in the 1994 T664 form, quite apart from the fact that it was neither dated nor signed. This second form was again an attempt by accountants to amend in substantive ways their failed 1994 form. The Appellant argued that this 2001 form merely corrected the 1994 form. The changes in the figures contained in the second form go far beyond mere corrections. The second form used the correct ACB of $348,000.00, contained a capital gain before reduction of $198,800.00 (because of the mathematical calculations), contained a figure of $113,600.00 for the non-qualifying real estate figure, and contained an elected taxable capital gain of $63,900.00 under Step 4. All of the above information was different from the information contained in the first form and all of this information is substantive. In addition, this second form in 2001 is filed well beyond the limitation periods. As Justice Rip pointed out in Stuart Estate v. R., [2003] 3 C.T.C. 2232 (TCC), the means to revoke or amend an election are restrictive and rigid. The first form could not be validated by this second form in 2001, as it attempts to make amendments, not corrections, to the 1994 form, years after the period to do so has expired.
+[42] For these reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada this 13th day of April 2004
+"Diane Campbell"
+Campbell, J.
+CITATION:
+2004TCC294
+COURT FILE NO.:
+2002-95(IT)G
+STYLE OF CAUSE:
+Estate of Lily Bullard
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+March 5, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice
+Diane Campbell
+DATE OF JUDGMENT:
+April 13, 2003
+APPEARANCES:
+Counsel for the Appellant:
+J. Andre Rachert
+Counsel for the Respondent:
+Ron D.F. Wilhelm
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+J. Andre Rachert
+Firm:
+Dwyer Tax Lawyers
+Victoria, British columbia
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

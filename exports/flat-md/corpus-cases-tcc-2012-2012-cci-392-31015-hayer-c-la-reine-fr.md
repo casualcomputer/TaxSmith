@@ -1,0 +1,153 @@
+---
+title: "Hayer c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31015/index.do"
+last_modified: "2012-11-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 392"
+citation2: ""
+neutral_citation: "2012 CCI 392"
+decision_date: "2012-11-08"
+language: "fr"
+item_id: "31015"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4897
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:17:17.882000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fe2158307509816a29189e938b2751ede0c1f8aabd28ec50caa5d4a39c66e122"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hayer c. La Reine
+
+- Citation: 2012 CCI 392
+- Decision date: 2012-11-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4897, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hayer c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-11-08
+Référence neutre
+2012 CCI 392
+Numéro de dossier
+2011-2961(CPP)
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2011-2961(CPP)
+ENTRE :
+SURINDER HAYER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 7 juin 2012 et le 24 octobre 2012 et jugement rendu oralement le 26 octobre 2012, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelante :
+M. Praveen K. Vohora
+Avocat de l’intimée :
+Me Devi Ramachandran
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté, sans dépens, et la décision du ministre du Revenu national est confirmée conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2012.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 11e jour de janvier 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2012 CCI 392
+Date : 20121108
+Dossier : 2011-2961(CPP)
+ENTRE :
+SURINDER HAYER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] L’appelante a interjeté appel de la décision du ministre du Revenu national (le « ministre ») à l’égard d’un avis d’évaluation daté du 14 avril 2011 et établi pour l’appelante relativement à des cotisations versées au Régime de pensions du Canada (le « RPC ») pour les années d’imposition 2009, 2010 et 2011. Le ministre a établi que ces cotisations versées au RPC étaient payables relativement à des services qu’un certain nombre de travailleurs, qui étaient des chauffeurs de taxi, avaient fournis à l’appelante.
+La question en litige
+[2] La Cour est appelée à déterminer si les travailleurs en question occupaient auprès de l’appelante un emploi ouvrant droit à pension pour l’application du Régime de pensions du Canada (le « Régime ») durant ces années d’imposition. La question sous‑jacente que je dois examiner pour rendre une décision est de savoir si les travailleurs étaient au service de l’appelante en tant qu’employés ou en tant qu’entrepreneurs indépendants.
+[3] En l’espèce, la Cour n’est saisie qu’à l’égard des cotisations ouvrant droit à pension, étant donné que la rémunération assurable est régie par la disposition spéciale prévue à l’alinéa 6e) du Règlement sur l’assurance‑emploi concernant les chauffeurs de taxi et qu’elle n’a pas fait l’objet d’un appel. Le Régime ne prévoit pas de dispositions similaires.
+[4] J’ai entendu la preuve de l’appelante selon laquelle elle exploitait une entreprise individuelle sous son nom, mais qu’en fait, elle ne savait pas grand-chose des activités quotidiennes de l’entreprise, étant donné que c’est son époux, Kewal S. Hayer, qui s’occupait des activités quotidiennes. L’époux de l’appelante a donc fourni la plupart des éléments de preuve en ce qui concerne les activités de l’entreprise.
+[5] M. Hayer a témoigné qu’il avait exploité une entreprise de taxis à partir de 2000, mais qu’en 2007, une fusion avait eu lieu entre son entreprise et Kelowna Cabs. M. Hayer paie mensuellement des cotisations et des frais d’assurance à Kelowna Cabs et, en contrepartie, Kelowna Cabs fournit les services de répartition à ses cinquante‑huit actionnaires, dont l’appelante. Les actionnaires ont un nombre de taxis variable, mais l’appelante n’exploite que deux taxis. Kelowna Cabs vérifie les antécédents des chauffeurs et vérifie s’ils ont les permis de chauffeur et les permis exigés par la Ville de Kelowna pour exploiter un taxi.
+[6] Chaque chauffeur est désigné par un numéro d’identification précis, et M. Hayer a expliqué que Kelowna Cabs peut, au moyen de son système informatique, retracer l’itinéraire de chaque chauffeur, estimer le montant d’argent qu’il a récolté et connaître son rythme de déplacement. L’appelante pouvait comparer les renseignements enregistrés dans le système de répartition de Kelowna Cabs avec les feuilles de route fournies par les chauffeurs.
+[7] L’appelante engageait habituellement six chauffeurs et les périodes de travail étaient de dix heures. Chaque chauffeur remplissait des feuilles de route sur lesquelles étaient indiquées des précisions concernant les passagers qui prenaient le taxi. L’appelante fournissait ces feuilles de route, qui étaient conservées dans le taxi, ainsi que des enveloppes, des stylos, des agrafes et une calculatrice. Les chauffeurs avaient également la responsabilité d’inclure dans ces enveloppes les recettes dues à l’appelante relativement à l’argent comptant ou aux paiements par cartes de crédit reçus ainsi que les feuilles de route, lesquelles étaient délivrées à l’appelante à la fin de chaque période de travail. Le montant total des recettes était réparti dans une proportion de quarante/soixante pour cent. Le chauffeur recevait quarante pour cent, y compris la taxe de vente harmonisée (la « TVH »).
+[8] L’appelante fournissait les véhicules que les chauffeurs conduisaient. Ces véhicules étaient équipés de systèmes GPS et de terminaux pour cartes de crédit. Selon le témoignage de M. Hayer, les chauffeurs ne recevaient aucune instruction quant à l’endroit où ils devaient stationner les taxis dans la ville de Kelowna durant leur période de travail, sauf dans la mesure où M. Hayer devait veiller à ce que le service soit assuré lors d’événements spéciaux et à ce que les horaires des chauffeurs soient établis pour desservir l’aéroport. L’appelante payait les frais annuels nécessaires pour avoir le droit d’utiliser la station de taxis de l’aéroport.
+[9] L’appelante demandait aux chauffeurs de signer un contrat de deux pages intitulé [traduction] « Entente chauffeur – exploitant » (l’« entente ») dans lequel les chauffeurs s’engageaient à respecter les règles de Kelowna Cabs et à payer à l’appelante soixante pour cent de tous les gains bruts. Une clause de l’entente stipulait qu’il était de la responsabilité des chauffeurs de verser les cotisations au RPC relativement à leurs gains.
+[10] L’appelante s’est fondée sur le témoignage d’un ancien chauffeur, Gilles Laferriere, qui avait été au service de l’appelante pendant deux ans, ainsi qu’à celui de l’agente des appels et de l’examinatrice des fiducies. L’ancien chauffeur de taxi a déclaré que, même si l’appelante s’adressait toujours à lui en tant qu’entrepreneur indépendant, il était traité comme un employé et croyait qu’il était un employé. Il a ajouté que M. Hayer lui fournissait son horaire de travail sans lui laisser l’occasion de donner son avis quant à sa disponibilité. Bien que M. Hayer ne donnait aucune instruction concernant le lieu où M. Laferriere devait travailler à Kelowna durant sa période de travail, il était informé lorsqu’il devait travailler à l’aéroport. M. Laferriere a également ajouté que lorsque le véhicule devait être au garage pour réparations durant sa période de travail, M. Hayer lui payait 10 $ l’heure pendant qu’il attendait que le véhicule soit réparé. M. Hayer avait la charge des frais d’entretien et de réparation du véhicule ainsi que des frais de carburant. M. Hayer lui avait fourni une carte pour payer le carburant à une station précise, et il utilisait cette carte durant ses périodes de travail. M. Laferriere fournissait un article, à savoir un téléphone cellulaire. Les cartes de visite, qui étaient conservées dans le taxi, étaient fournies par Kelowna Cabs et portaient le logo de cette entreprise. Elles étaient utilisées en tant que reçu du client.
+Le droit
+[11] L’arrêt de principe dans ce domaine est celui rendu par la Cour suprême du Canada dans l’affaire Sagaz Industries (plus précisément connu sous le nom de 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59). Selon le juge Major, aucun critère universel ne permet de déterminer de façon concluante si une personne est un employé ou un entrepreneur indépendant. Comme il l’a précisé au paragraphe 46 des motifs du jugement, la relation globale qu’entretiennent les parties doit être examinée. Au paragraphe 47, le juge Major a confirmé que les facteurs suivants, établis dans l’arrêt Wiebe Door, continuaient à s’appliquer : le contrôle, la propriété des instruments de travail, la possibilité de profit et le risque de perte; il a aussi formulé la question centrale qu’il faut se poser, à savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte (voir l’arrêt Wiebe Door Services v. Minister of National Revenue (1986), 87 D.T.C. 5025 (C.A.F.)). L’importance respective des facteurs établis dans Wiebe Door dépend des faits et des éléments de preuve particuliers de l’affaire et un ou plusieurs facteurs peuvent aboutir à un résultat neutre.
+[12] Dans des décisions plus récentes, les tribunaux ont également tenu compte de l’intention des parties. L’intention sera un facteur à considérer dans l’ensemble de la relation de travail, à condition qu’il y ait un accord des volontés entre les parties et qu’elles envisagent leur relation de la même manière. En l’absence d’un tel accord, l’intention ne sera pas un facteur à considérer. En l’espèce, il n’y avait pas d’intention commune entre les parties. Le chauffeur se considérait comme un employé, alors que l’appelante croyait que les chauffeurs étaient des entrepreneurs indépendants. L’intention n’est donc pas un facteur à considérer. Même le contrat ne renfermait pas de clause mentionnant précisément que les chauffeurs étaient des employés ou des travailleurs indépendants. Le titre de l’entente mentionnait plutôt l’appelante comme la « propriétaire » et le travailleur comme « le chauffeur ».
+[13] J’ai entendu le témoignage d’un seul travailleur, bien qu’un certain nombre d’entre eux aient été engagés au cours des années visées par l’appel. Selon l’examinatrice des fiducies, il était difficile de confirmer l’identité de nombreux conducteurs parce qu’ils étaient désignés dans certains cas par leurs prénoms seulement et que tous ne joignaient pas les renseignements concernant leur numéro d’assurance sociale. Dans les cas où l’examinatrice avait eu des renseignements concernant des adresses ou des numéros d’assurance sociale, elle avait essayé de faire le rapprochement entre les renseignements qu’elle avait et les renseignements se trouvant dans le système informatique de l’Agence du revenu du Canada (l’« ARC »).
+[14] L’agente des appels a déclaré qu’elle avait parlé à un chauffeur, lequel n’est plus. Selon son témoignage et les notes que l’agente avait prises à l’époque, le défunt chauffeur avait confirmé à l’agente une grande partie des éléments de preuve produits par le chauffeur qui a été appelé par l’intimée. Le défunt chauffeur avait confirmé à l’agente des appels que M. Hayer fournissait les véhicules et les feuilles de route, qu’un pourcentage des recettes devait être remis à l’appelante, qu’il devait se conformer à l’horaire de travail établi par l’appelante, qu’il recevait quarante pour cent des gains bruts, qu’il devait verser la TPS/TVH sur ce pourcentage et qu’il recevait des instructions quant à l’endroit où il devait travailler à Kelowna durant sa période de travail. Je crois que ce genre de preuve, bien qu’elle soit de seconde main, répond aux critères de fiabilité et de nécessité. Son incidence dépend de l’importance relative que je peux finalement décider de lui accorder. Toutefois, même si cette preuve appuie celle du seul chauffeur qui a témoigné, j’ai conclu que la preuve fournie par les témoins présents devant la Cour était fiable et qu’elle était suffisante pour décider que ces chauffeurs étaient, en fait, des employés et non des entrepreneurs indépendants.
+Le contrôle
+[15] Selon les témoignages de l’époux de l’appelante et du chauffeur, c’est l’appelante qui établissait l’horaire de travail, lequel dictait les heures de travail pour la journée et le moment de la journée où le chauffeur devait être disponible pour travailler. En fait, M. Hayer a témoigné qu’un chauffeur devait avoir une période de travail de dix heures au complet et qu’il n’était pas autorisé à choisir de travailler un nombre d’heures réduit durant cette période de travail. Bien que les chauffeurs aient eu un certain contrôle sur les secteurs de Kelowna où ils travaillaient durant leur période de travail, il est ressorti de la preuve que l’appelante établissait l’horaire de travail des chauffeurs en alternance pour desservir l’aéroport et assurer le service lors d’événements spéciaux. Selon le chauffeur, si son horaire prévoyait qu’il devait travailler dans le secteur de Westbank, il lui était interdit d’aller dans la ville même de Kelowna.
+[16] M. Hayer a déclaré qu’il considérait que les chauffeurs jouissaient d’une complète autonomie en ce qui concerne leurs périodes de travail, parce qu’ils décidaient quels clients aller chercher et reconduire et, finalement, le montant d’argent qu’ils gagneraient. Toutefois, il a également déclaré qu’il était en mesure de retracer les déplacements des chauffeurs pendant toute une période de travail en comparant leurs feuilles de route avec les données générées par le système de suivi informatisé des numéros d’identification des chauffeurs tenu par Kelowna Cabs. Cela pouvait être fait pour vérifier pourquoi un chauffeur avait des recettes inférieures à celles des autres. Bien que M. Hayer ait déclaré n’avoir fait cette comparaison qu’une seule fois en raison d’une plainte, il est clairement démontré que l’appelante avait le « droit » ultime de contrôler les chauffeurs en utilisant cette méthode. L’importance réside dans le « droit de contrôle » de ces chauffeurs plutôt que dans le contrôle réel qui était exercé sur eux. Un code vestimentaire avait été adopté par Kelowna Cabs, et l’appelante avait exigé que ses chauffeurs le respectent. M. Hayer et le travailleur ont tous deux admis qu’il était interdit aux chauffeurs de travailler pour des sociétés concurrentes tant qu’ils étaient au service de l’appelante. Finalement, lorsque le chauffeur n’était pas disponible, il ne pouvait pas engager un remplaçant, étant donné qu’il s’agissait d’une décision qui revenait entièrement à l’appelante. Ce facteur milite en faveur d’une relation employeur‑employé.
+Les instruments de travail
+[17] L’élément d’actif principal est le véhicule. L’appelante fournissait le véhicule équipé d’un système GPS, de feuilles de route, d’une calculatrice, etc. Les chauffeurs ne louaient ni ne prenaient à bail les véhicules qu’ils utilisaient. Le chauffeur a déclaré qu’il utilisait son propre téléphone cellulaire pour communiquer avec les clients et avec l’appelante, mais qu’il ne fournissait rien d’autre, sauf qu’il devait avoir son permis de chauffeur de taxi. En outre, l’appelante payait les frais d’entretien et de réparation ainsi que l’assurance. Même le carburant était fourni par l’appelante au moyen d’une carte d’essence pour des stations‑service précises, choisies par l’appelante. Manifestement, ce facteur milite fortement en faveur d’une relation employeur‑employé.
+La possibilité de profit ou le risque de perte
+[18] Les possibilités de réaliser des profits supplémentaires étaient minimes pour les chauffeurs. L’appelante avait établi la répartition des recettes dans une proportion de soixante/quarante pour cent. La preuve ne laisse pas entrevoir l’existence d’une quelconque négociation à cet égard et, en fait, selon M. Hayer, tous les chauffeurs gagnaient approximativement la même chose. Je souscris aux observations de l’intimée selon lesquelles le travail à la commission n’est pas le critère décisif. La possibilité de réaliser des profits était minime pour les chauffeurs, parce que les périodes de travail étaient préétablies et, parfois, le lieu. La preuve, considérée dans son ensemble à cet égard, milite encore une fois, selon la prépondérance des probabilités, en faveur d’une relation employeur‑employé, plus particulièrement par le fait que les chauffeurs étaient tenus de fournir leurs services exclusivement à l’appelante. De même, les chauffeurs couraient un risque de perte minime, si un tel risque existait, étant donné que même toute augmentation de prix du carburant était entièrement supportée par l’appelante. Les chauffeurs n’avaient aucun investissement et ne supportaient aucune dépense. Même lorsque le véhicule était au garage pour réparations, si c’était durant la période de travail d’un chauffeur, l’appelante payait 10 $ l’heure pour couvrir la perte de recettes durant cette période de travail à cause de l’immobilisation du taxi. Encore une fois, ce facteur appuie ma conclusion selon laquelle les parties entretenaient une relation employeur‑employé.
+[19] L’intimée a présenté un certain nombre de décisions dans son recueil de doctrine et de jurisprudence, et l’appelante s’est fondée, dans une large mesure, sur les motifs rendus par le juge Boyle dans la décision Labrash c. M.R.N., 2010 CCI 399, [2010] A.C.I. no 309. Bien que l’appelante ait soutenu que les faits dont je suis saisi sont comparables à ceux de l’affaire Labrash, il y a des différences importantes qui doivent être signalées. Premièrement, le juge Boyle a conclu, dans la décision Labrash, qu’il existait entre les parties, une interprétation commune de leur relation. En conséquence, il a accordé un poids considérable à ce facteur. En l’espèce, il n’y avait pas d’intention commune et, par conséquent, j’ai considéré ce facteur comme étant neutre. De plus, et bien plus important, il n’était pas interdit aux chauffeurs, dans la décision Labrash, de conduire un taxi pour d’autres sociétés alors que, en l’espèce, les travailleurs devaient exercer l’activité de chauffeur de taxi exclusivement pour l’appelante. Finalement, il semble que, selon les motifs de la décision Labrash, les chauffeurs bénéficiaient d’une grande souplesse relativement à leurs périodes de travail, étant donné qu’ils pouvaient décider de travailler plus tard ou durant une période de travail de nuit prévue et pouvaient accepter à l’avance des périodes de travail précises.
+[20] Il est également possible d’établir une distinction entre l’espèce et la décision 1022239 Ontario c. M.R.N., 2004 CCI 615, [2004] A.C.I. no 455, dans laquelle la juge Woods a conclu que les chauffeurs de taxi étaient des entrepreneurs indépendants relativement aux gains ouvrant droit à pension, compte tenu du fait que le degré de contrôle exercé par les chauffeurs était beaucoup plus élevé qu’en l’espèce et que les chauffeurs ne recevaient aucune instruction quant à l’endroit où ils devaient accomplir leur travail.
+Résumé
+[21] En résumé, l’application des facteurs approuvés par la Cour suprême du Canada dans l’arrêt Sagaz Industries m’amène à conclure que tous les facteurs, dans une mesure plus ou moins large, militent en faveur du fait que les chauffeurs ont été engagés en tant qu’employés et non en tant qu’entrepreneurs indépendants. Bien que l’appelante ait semblé affirmer que c’était Kelowna Cabs qui établissait les règles concernant les chauffeurs, elle était actionnaire de Kelowna Cabs. Les ententes avaient été conclues entre l’appelante et les chauffeurs et ces derniers étaient engagés pour fournir certains services selon les règles existantes et établies de Kelowna Cabs.
+[22] Lorsque je pose la question centrale formulée par le juge Major dans l’arrêt Sagaz Industries « À qui appartient l’entreprise? », je dois conclure que l’entreprise appartient à l’appelante. Les chauffeurs avaient très peu de contrôle, ils ne fournissaient pas d’instruments de travail, ils n’avaient aucun investissement dans l’entreprise et la possibilité de profit ou le risque de perte était minime pour eux. Du point de vue d’un chauffeur, l’entreprise appartenait à l’appelante et en fin de compte, lorsqu’un chauffeur partait ou qu’il était congédié, il ne prenait rien avec lui, pas même une partie de la clientèle.
+[23] Pour ces motifs, l’appel est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2012.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 11e jour de janvier 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2012 CCI 392
+No DU DOSSIER DE LA COUR : 2011-2961(CPP)
+INTITULÉ : SURINDER HAYER c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATES DE L’AUDIENCE : Le 7 juin 2012 et le 24 octobre 2012
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 8 novembre 2012
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Praveen K. Vohora
+Avocat de l’intimée :
+Me Devi Ramachandran
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

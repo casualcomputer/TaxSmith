@@ -1,0 +1,300 @@
+Title: Truong c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/218732/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-22-218732-truong-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-02-08
+
+# Truong c. La Reine
+
+- Citation: 2017 CCI 22
+- Decision date: 2017-02-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2348, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Truong c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-02-08
+Référence neutre
+2017 CCI 22
+Numéro de dossier
+2013-2653(IT)G, 2013-2654(GST)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2013-2653(IT)G
+2013-2654(GST)G
+ENTRE :
+THANH TRUC TRUONG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 7, 8 et 9 décembre 2016, à Toronto (Ontario).
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocate de l’appelante :
+Me Sunita D. Doobay
+Avocat de l’intimée :
+Me Laurent Bartleman
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu, LRC (1985), ch. 1, dans sa forme modifiée (la « LIR ») pour les années d’imposition 2005, 2006, 2007 et 2008 ainsi que des nouvelles cotisations établies en vertu de la Loi sur la taxe d’accise, LRC (1985), ch. E-15, telle que modifiée (la « LTA ») pour les périodes de déclaration prenant fin le 31 décembre des années 2005, 2006, 2007 et 2008 sont, par les présentes, rejetés.
+Les appels interjetés sous le régime de la LIR pour l’année d’imposition 2009 et sous le régime de la LTA pour la période de déclaration prenant fin le 31 décembre 2009 sont accueillis, dans la mesure où le revenu non déclaré de l’appelante est inférieur de 4 800 $ à celui que le ministre a fixé. En conséquence, pour ce qui est de l’année d’imposition 2009 et de la période de déclaration prenant fin le 31 décembre 2009, l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+Les pénalités que le ministre du Revenu national a imposées sous le régime de la LIR et de la LTA sont confirmées, sous réserve de la nouvelle cotisation susmentionnée, établie pour l’année d’imposition et la période de déclaration de 2009.
+Les dépens sont adjugés à l’intimée, sous réserve du droit de l’une ou l’autre des parties de présenter des observations supplémentaires dans les 30 jours suivant la date du présent jugement.
+Signé à Ottawa, Canada, ce 8e jour de février 2017.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+Ce 23e jour d’août 2018.
+François Brunet, réviseur
+Référence : 2017 CCI 22
+Date : 20170208
+Dossiers : 2013-2653(IT)G
+2013-2654(GST)G
+ENTRE :
+THANH TRUC TRUONG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Introduction
+a) La cotisation de valeur nette
+[1] L’appelante, Mme Truong, conteste de nouvelles cotisations pour revenu non déclaré établies en vertu de la Loi de l’impôt sur le revenu, LRC (1985), ch. 1, dans sa forme modifiée (la « LIR ») et pour montant de taxe sur les produits et services non versé et connexe établies en vertu de la Loi sur la taxe d’accise, LRC (1985), ch. E‑15, dans sa forme modifiée (la « LTA ») (l’« appel relatif à la TPS »). La nouvelle cotisation sous-jacente que le ministre du Revenu national (le « ministre ») a établie en vertu de la LIR pour chacune des années d’imposition 2005 à 2009 était fondée sur une autre cotisation de valeur nette. Pour déterminer la cotisation de valeur nette, diverses sources d’information ont été analysées : les comptes bancaires de Mme Truong, ses achats de biens immeubles, ses achats de véhicules automobiles, ses pertes de jeu moins les sommes prêtées par son petit ami, ses gains de jeu, ses dépenses et ses pertes d’entreprise ainsi que son revenu déclaré. Ce calcul de la valeur nette a résulté en une cotisation de revenu non déclaré et de TPS dont les montants ainsi que les années d’imposition et les périodes de déclaration applicables sont indiqués dans le tableau qui suit (les revenus non déclarés sont les moins élevés parmi les deux revenus suivants : les revenus non déclarés selon l’état de la valeur nette ou les revenus non déclarés selon l’avis de nouvelle cotisation, le tout à l’avantage de l’appelante) :
+Années visées par l’appel
+Revenus non déclarés
+Fournitures taxables non déclarées pour la période de déclaration prenant fin le 31 décembre
+Montant de TPS non déclaré et percevable
+2005
+112 685,00 $
+127 529,80 $
+8 343,07 $
+2006
+38 909,00 $
+47 935,53 $
+2 925,64 $
+2007
+524 852,00 $
+628 874,97 $
+31 838,21 $
+2008
+417 636,00 $
+455 912,88 $
+20 935,85 $
+2009
+588 427,00 $
+617 849,23 $
+29 421,39 $
+Totaux
+1 682 509,00 $
+1 878 102,41 $
+92 184,99 $
+[2] De plus, le ministre a également imposé des pénalités pour faute lourde sous le régime de la LIR et de la LTA pour chacune des années visées par les nouvelles cotisations.
+b) Le fondement de l’appel
+[3] L’appel est interjeté pour deux motifs généraux. Premièrement, l’avocate de Mme Truong affirme que la cotisation de valeur nette est viciée, car certains biens ou certaines dépenses personnelles qu’on lui a attribués ne lui appartenaient pas, mais appartenaient plutôt à d’autres personnes. Deuxièmement, le revenu imposable, qui a résulté en une majoration de la cotisation de valeur nette de Mme Truong, découlait de sources de fonds non imposables.
+[4] Pour ce qui est des erreurs concernant les actifs et les dépenses que contient la cotisation de valeur nette, l’avocate de Mme Truong affirme ce qui suit :
+(i) les pièces concernant ses activités de jeu ne sont pas fiables et exacts quant aux sommes d’argent qu’elle a dépensées et perdues dans les casinos (les « comptes rendus de jeu inexacts »);
+(ii) certains biens que le ministre lui a attribués ne lui appartenaient pas (les « biens en fiducie »);
+(iii) le ministre a attribué à Mme Truong personnellement des revenus d’entreprise et des actifs d’entreprise qui appartenaient à une entreprise non « contrôlée » par elle, mais par d’autres personnes (les « biens d’entreprises attribués erronément »).
+[5] En ce qui concerne les sources non imposables de fonds comptés par erreur comme imposables, il est affirmé que :
+(i) les cadeaux reçus de son petit ami excédaient les montants par ailleurs crédités par le ministre (les « prêts majorés »);
+(ii) Mme Truong a emprunté de l’argent auprès de sa famille et d’amis (les « prêts familiaux »);
+(iii) elle a réalisé d’autres gains de jeu qui n’étaient pas des sources de fonds non imposables (les « gains de jeu »).
+II. Les faits
+[6] Voici un résumé des témoignages que les témoins ont faits au cours du procès de trois jours. Les faits proviennent de leurs témoignages concernant les activités de Mme Truong et ses affaires financières, et les faits relatifs à la cotisation de valeur nette sont tirés des éléments de preuve et des documents concernant l’appel interjeté sous le régime de la LIR et l’appel relatif à la TPS.
+a) Les témoins au procès
+[7] L’avocate de l’appelante a cité six personnes à témoigner. Le petit ami de Mme Truong, George Chiu, a été interrogé et a témoigné au sujet des biens en fiducie, des actifs d’entreprise attribués erronément, des prêts majorés et des gains de jeu. La sœur de Mme Truong a témoigné au sujet des pièces concernant le jeu inexactes, des biens en fiducie, des prêts majorés, des prêts familiaux et des gains de jeu. Des questions ont été posées au neveu de Mme Truong et celui-ci a témoigné au sujet des prêts majorés, des pièces inexactes concernant le jeu, des actifs d’entreprise attribués erronément et des gains de jeu. Deux des amies de Mme Truong ont principalement témoigné au sujet des prêts familiaux et des gains de jeu.
+[8] L’intimée a cité un témoin. Mme Davis est la vérificatrice de l’Agence du revenu du Canada (l’« ARC ») qui a procédé à la vérification, a recueilli auprès de tierces personnes des renseignements sur les finances et les biens et a établi la première cotisation de valeur nette.
+b) Les preuves concernant les revenus, les biens, les pertes et les activités commerciales de Mme Truong au cours des années visées par l’appel
+[9] Les activités de Mme Truong au cours des années visées par l’appel ont été établies au moyen des éléments de preuve et des documents connexes. En voici un résumé.
+[10] À l’audience, Mme Truong n’a produit aucun livre ni registre concernant ses activités commerciales. Les activités qu’elle a menées au cours des périodes pertinentes ont donc été dégagées, imputées et circonscrites à partir des témoignages de vive voix, de la preuve documentaire de l’intimée ainsi que des documents commerciaux et officiels de tierces parties. Plus précisément, les documents de base qui suivent ont été produits séparément en preuve et constituent les renseignements qui ont été utilisés dans le cadre de la cotisation de valeur nette et sur lesquels sont fondés les présents motifs :
+(i) les déclarations de revenus T1 générales pour chaque année d’imposition, sauf l’année 2008, pour laquelle une cotisation initiale du ministre a été produite;
+(ii) divers registres de parcelle immobilière, factures de services d’utilité publique, documents d’enregistrement immobilier, chèques faits à des comptes en fiducie d’avocats et réponses à des questions concernant des cotisations de taxes municipales relativement aux biens immobiliers recensés dans l’état de la valeur nette des biens de Mme Truong;
+(iii) des rapports de recherche de véhicule automobile et des rapports d’évaluation concernant les véhicules automobiles recensés dans la cotisation de valeur nette de Mme Truong;
+(iv) des relevés de gains ou de pertes dans des casinos, des lettres d’accompagnement, des chèques payables à l’ordre de Mme Truong et des analyses de voyage ou d’opérations provenant de casinos que Mme Truong fréquentait;
+(v) des relevés de comptes bancaires, des imprimés de comptes rendus d’opération, des relevés de cartes de crédit et des certificats de dépôt à terme, des cartes de signature pour toutes les cartes de crédit, des demandes de crédit personnelles, des comptes bancaires et des placements attribués à Mme Truong dans l’état de la valeur nette des biens de cette dernière.
+Les activités de jeu
+[11] Mme Truong a commencé à fréquenter régulièrement divers casinos en 2005, des casinos situés partout en Ontario, ainsi qu’au Québec et dans l’État de New York. D’après les présences consignées dans les relevés de gains ou de pertes et les analyses de voyage ou d’opérations, Mme Truong fréquentait les casinos plusieurs fois par semaine et au moins une douzaine de fois par mois. En général, pour les joueurs, dans de telles activités, [traduction] « les chances favorisent la maison de jeu ». À en juger par les relevés de gains ou de pertes que les divers casinos ont produits, Mme Truong n’a ni déjoué les chances ni réfuté le dicton.
+[12] Mme Truong, sa sœur, son amie et son neveu ont déclaré que son petit ami, du moins après que Mme Truong et lui eurent commencé à se fréquenter à la fin de 2006, finançait ses expéditions au moyen de [traduction] « sacs Ziploc remplis d’argent comptant ». La sœur de Mme Truong a témoigné qu’elle se servait de la carte de joueur de Mme Truong pour cacher [traduction] « à [son] époux » les visites qu’elle faisait dans les casinos. Le neveu de Mme Truong a déclaré avoir fréquenté les casinos, mais sans y jouer. L’amie de Mme Truong a déclaré que les relevés de gains ou de pertes et les cartes de joueur (décrites ci-après) ne rendaient pas exactement compte des activités de jeu d’une personne parce que d’autres personnes que Mme Truong pouvaient s’en servir et que, de ce fait, les données d’utilisation enregistrées sur les cartes étaient peu fiables. Le petit ami de Mme Truong a déclaré qu’il ne remettait de l’argent à Mme Truong que par chèque et, quant à cela, uniquement pour acheter des biens, comme des biens immobiliers.
+Les activités commerciales de Mme Truong
+[13] Au cours des périodes visées par l’appel, Mme Truong a possédé et exploité plusieurs entreprises. Au cours de l’année 2007, elle a exploité un restaurant vietnamien à Kitchener, appelé Saigon by Night. Elle était assistée dans cette entreprise par son neveu. Son petit ami lui donnait des conseils en matière de publicité, d’activités de promotion, de fournitures et de prix. Cette entreprise a finalement fermé ses portes. En 2008, une nouvelle entreprise semblable, Angel’s Kitchen, a vu le jour à Milton, en Ontario. Contrairement à la première entreprise, celle-ci a eu plus de succès, mais elle a aussi fini par fermer ses portes vers 2011. Bien que ce fait ne soit pas pertinent à l’égard des années visées par l’appel, Mme Truong a par la suite ouvert un salon de manucure-pédicure.
+L’augmentation des biens au cours des années visées par l’appel
+[14] Mme Truong a confirmé avoir fait faillite en 2002. Elle a de plus déclaré qu’entre 2002 et 2005, elle n’a pas eu d’économies, de biens ou de sources de revenus importants. Après cette période, les biens, l’argent comptant et les placements de Mme Truong ont augmenté et se sont multipliés. Les détails sont exposés sous diverses rubriques ci-après. Mme Truong a été incapable, lors de l’interrogatoire principal ou du contre-interrogatoire, d’indiquer avec précision les dates, les prix d’achat ou la valeur des biens contenus dans la cotisation de valeur nette, mais elle a toutefois confirmé que l’état de la valeur nette des biens était le reflet exact des biens qu’elle avait possédés au cours de chaque période pertinente quant à l’appel interjeté sous le régime de la LIR et l’appel relatif à la TPS. Bien qu’elle ait soutenu en contre-interrogatoire que les dettes étaient génériquement inexactes, lors de ce contre-interrogatoire et en réplique, elle n’a produit aucune précision ni aucun montant au sujet de dettes supplémentaires.
+[15] En résumé, il est possible de résumer comme suit la croissance des biens et de la valeur nette de 2005 à 2009 :
+Année
+Total cumulatif des biens personnels
+Total des biens commerciaux
+Total des dettes
+Augmentation annuelle de la valeur nette
+Augmentation cumulative de la valeur nette (arrondie)
+2005
+21 926 $
+---------
+---------
+20 459,59 $
+22 000 $
+2006
+44 707,21 $
+---------
+437,17 $
+22 343,14 $
+44 000 $
+2007
+685 829,08 $
+16 415,89 $
+367 111 $
+290 863,93 $
+367 000 $
+2008
+1 604 551,09 $
+152 180,52 $
+365 271,85 $
+1 056 325,79 $
+1 391 000 $
+2009
+2 015 488,53 $
+---------
+299 801,42 $
+324 227,35 $
+1 715 000 $
+Une nouvelle relation amoureuse à la fin de 2006
+[16] En novembre 2006, Mme Truong a rencontré M. Chiu et tous deux sont devenus intimes. Selon les preuves, il est clair que ce dernier, son nouveau petit ami, était et est toujours un homme d’affaires très prospère. À partir du début de 2007, Mme Truong a souvent fréquenté des casinos en compagnie de son petit ami. Il n’est pas controversé que ce dernier a donné à Mme Truong la somme de 1 722 000 $ au moyen de divers chèques, virements de fonds automatiques et traites bancaires en 2007, 2008 et 2009. Ces donations ont été soustraites par l’ARC de la cotisation de valeur nette. Ces sommes constituaient une part importante des revenus de M. Chiu au cours de ces années, et les trois quarts de ses revenus, soit 1 200 000 $ à eux seuls, ont été donnés à Mme Truong en 2008. Selon les témoins, ces donations avaient servi à faire l’acquisition de biens immobiliers ainsi que de biens commerciaux et personnels.
+Les achats de biens immobiliers
+[17] Mme Truong a commencé à acheter des biens immobiliers en 2007. Elle a acheté une maison à Kitchener en juillet 2007, au prix de 490 000 $; cette maison était grevée d’une hypothèque de 367 000 $. En octobre 2008, Mme Truong a acheté un bien agricole situé près de Dundalk, en Ontario, au prix de 540 000 $, sans hypothèque et sans dette. En 2008, elle a vendu sa maison de Kitchener, a fait l’acquisition de deux biens à Milton et a fait un dépôt sur un troisième, soit un montant total de 173 000 $ en mises de fonds pour ces trois biens immobiliers.
+Les comptes et les activités bancaires
+[18] Mme Truong détenait un certain nombre de comptes bancaires présentant un volume d’activités considérable. Pendant les cinq années visées par la cotisation de valeur nette, elle a retiré pour près de 655 000 $ en argent comptant, par tranches de plus de 1 000 $. Elle a également accumulé à titre personnel plus de 200 000 $ en dépôts à terme et, à la fin de décembre 2009, pour 58 000 $ d’argent comptant. À la fin de 2007 et 2008, respectivement, ses comptes commerciaux affichaient des soldes au comptant de 16 400 $ et de 152 000 $.
+Les automobiles
+[19] Mme Truong a également fait l’acquisition de plusieurs automobiles au cours des années visées par l’appel. Elle a commencé l’année 2005 avec une automobile. En 2007, elle a fait l’achat d’un véhicule utilitaire sportif de marque BMW de l’année 2002, d’une valeur de 23 250 $. En 2008, elle a fait l’acquisition d’un autre véhicule valant 28 000 $ et, en 2009, une Acura MDX de 2009 a été achetée, au prix de 52 451 $, le tout sans sûretés ou sans dette.
+c) La nécessité de la cotisation de valeur nette et la méthode suivie
+Les revenus non déclarés
+[20] La vérificatrice de l’ARC a souligné que l’absence de livres et de registres était la raison fondamentale pour laquelle la cotisation subsidiaire avait été établie à l’endroit de Mme Truong. Dans sa cotisation de valeur nette, l’ARC a calculé l’augmentation de la valeur nette des biens de Mme Truong par rapport à ses dettes en prenant l’année 2004 comme année de base et en poursuivant l’analyse jusqu’à la dernière année visée par l’appel interjeté sous le régime de la LIR, soit l’année 2009.
+[21] Pour combler ce présumé manque d’informations, l’ARC a émis des demandes péremptoires de communication de renseignements (les « DPCR ») aux banques, aux créanciers hypothécaires et aux casinos avec lesquels Mme Truong faisait principalement affaire, ainsi qu’aux vendeurs de divers biens meubles. L’ARC a également fait des recherches dans les registres publics ainsi que dans les bases de données fédérales et provinciales, en recourant, au besoin, à des DPCR.
+[22] Par conséquent, un état des actifs a été établi pour les années visées par l’appel interjeté sous le régime de la LIR. Cet état comprenait les sources pertinentes d’augmentation des actifs : les dépôts faits dans les comptes bancaires, les certificats de placement achetés, les achats de biens personnels, les retraits au comptant par tranches d’au moins 1 000 $, les véhicules automobiles achetés et vendus, les biens immobiliers (tant les achats que les mises de fonds) et les virements faits dans les comptes en fiducie d’avocats pour les achats de biens immobiliers. De la même façon, les dettes compensatoires ont été soustraites : les dettes de carte de crédit, ainsi que les autres dettes et hypothèques à payer.
+[23] Il a fallu faire d’autres ajustements relativement au présent appel. Pour ce qui est des ajouts, des dépenses personnelles d’environ 124 000 $, 126 000 $, 359 000 $, 551 500 $ et 607 700 $, suivies au moyen de dépenses par carte de crédit et de pertes de jeu, etc., ont été ajoutées à la valeur nette pour chacune des années visées par l’appel, soit de 2005 à 2009, respectivement.
+[24] En revanche, les cadeaux reçus du petit ami de Mme Truong (dans la mesure où il existait des preuves des montants ou que le petit ami avait reconnus ces montants de manière crédible) et les gains que Mme Truong avaient réalisés dans les casinos ont été soustraits des augmentations de la valeur nette, car ils représentaient des sources de fonds non imposables. Les donations de son petit ami s’élevaient à 1 722 000 $, une somme qui lui a été incontestablement donnée au cours des trois dernières années visées par l’appel. Les gains réalisés dans les casinos s’élevaient à environ 16 800 $, 100 500 $ et 14 500 $ en 2005, 2006 et 2007, respectivement. Ces gains ont été établis à partir des relevés de gains ou de pertes reçus des quatre sociétés de casinos représentant les six casinos que Mme Truong avait fréquentés en Ontario, au Québec et dans l’État de New York. Il n’y a eu des pertes nettes dans les casinos qu’en 2008 et en 2009.
+Le montant de TPS attribué et non déclaré à percevoir
+[25] En appliquant le chiffre de revenus non déclarés, formé d’une augmentation normalisée au cours des années visées par l’appel, un calcul a été fait pour inférer les revenus bruts et extrapoler ce chiffre de manière à obtenir une valeur pour les fournitures et la taxe connexe à payer sous le régime de la LTA. Ces fournitures taxables non déclarées se rapportaient aux entreprises que Mme Truong avait exploitées. Un ajustement concordant a été fait aux fournitures taxables pour les sommes d’argent liées aux dépenses personnelles ainsi que pour les déductions concernant les sources de fonds non imposables. Ces calculs ont permis de déterminer la contrepartie totale reçue pour les fournitures taxables, et ce, pour chacune des années visées par l’appel (transformées en une période de déclaration de TPS) et un pourcentage de taxe par ailleurs exigible pour le montant de TPS non déclaré à percevoir. C’est de cette façon qu’a été établie la cotisation de TPS concernant les périodes de déclaration connexes qui correspondaient aux années visées par l’appel interjeté sous le régime de la LIR.
+d) La cotisation de valeur nette « viciée »
+[26] Comme il a été expliqué, l’appelante n’a pas soutenu que la cotisation de valeur nette était inutile. Cependant, son avocate a plaidé dans l’avis d’appel ou fait valoir dans ses observations que certains éléments de preuve avaient été produits afin de mettre en doute la validité de la cotisation de valeur nette ainsi que la méthode suivie pour l’établir. Ces erreurs comprenaient les suivantes : les comptes rendus de jeu inexacts, les biens en fiducie et les biens commerciaux attribués erronément. De plus, Mme Truong avait reçu des fonds de sources non imposables qui n’avaient pas été inclus dans la cotisation de valeur nette : les prêts majorés, les prêts familiaux et les gains de jeu.
+Les comptes rendus de jeu et les gains de jeu inexacts
+[27] Mme Truong, sa sœur, son neveu et deux amies ont déclaré qu’il était possible que les cartes de joueur de casino, qui retraçaient les achats de jetons de casino, les encaissements et les [traduction] « paiements en argent comptant », soient inexactes. Premièrement, ce n’était pas toutes les opérations d’une personne précise qui étaient tracées. Les achats ou les encaissements de jetons de casinos pouvaient aussi être faits en argent comptant, sans utilisation de la carte. Deuxièmement, il était possible que des opérations non effectuées par le détenteur de la carte soient tracées si une autre personne s’en servait. Par exemple, d’autres personnes pouvaient utiliser la carte en achetant ou en encaissant leurs propres jetons. Troisièmement, les cartes de joueur de casino pouvaient être manipulées sans qu’il y eût une opération quelconque. Dans les casinos, les préposés au jeu et les superviseurs rehaussaient souvent la valeur des achats et des ventes pour accorder plus de faveurs gratuites : des consommations, de la nourriture et des chambres d’hôtel.
+[28] Par ailleurs, les casinos ne pouvaient garantir l’exactitude des cartes. Au sujet des relevés de gains ou de pertes, l’avocate de Mme Truong a fait valoir que chaque casino ne donnait aucune garantie quant à l’exactitude de ces documents. Dans la présente affaire, la sœur de Mme Truong a déclaré qu’elle se servait souvent de la carte de joueur de Mme Truong pour éviter que son propre époux soit au courant des fréquents voyages qu’elle faisait au casino. Si la sœur de Mme Truong avait gagné, elle avait peut-être pris de l’argent comptant et n’avait peut-être pas porté les gains au crédit de la carte de joueur. Par contre, les paris placés apparaîtraient sur la carte, et cela indiquerait artificiellement une perte.
+Les biens commerciaux et les biens en fiducie attribués erronément
+[29] Mme Truong a déclaré que son petit ami contrôlait les entreprises (entreprises individuelles et sociétés de personnes) pour lesquelles, même si elle en était la propriétaire ou une actionnaire, on lui avait attribué l’augmentation de la valeur nette du bien dans la cotisation de valeur nette. Quant aux revenus d’entreprise non communiqués il a été implicitement soutenu que c’était le petit ami qui avait reçu ces fonds et la valeur des biens, et non Mme Truong. Aucun élément de preuve n’a été produit à l’audience au sujet de biens en fiducie par ailleurs désignés dans l’avis d’appel modifié comme des biens en fiducie légalement enregistrés au nom de Mme Truong, mais appartenant à d’autres personnes.
+Les prêts majorés
+[30] Le petit ami de Mme Truong a déclaré qu’il ne lui avait pas fait plus de donations que les montants indiqués dans les virements bancaires et les chèques, sauf peut-être de temps à autre une carte d’anniversaire contenant un montant d’argent comptant plus ordinaire. En contradiction avec ce témoignage, Mme Truong, sa sœur et son neveu ont déclaré que le petit ami remettait à Mme Truong des [traduction] « sacs Ziploc » remplis d’argent comptant. Ces sommes s’ajoutaient au montant de 1 722 000 $ déjà considéré par le ministre comme une source de fonds non imposables. Nulle valeur précise n’a été produite pour l’argent comptant, mais le neveu de Mme Truong a estimé qu’il était devenu « assez habile » pour deviner la valeur de l’argent présent dans les sacs en se fiant à l’épaisseur des billets de 50 et de 100 dollars qui s’y trouvaient. Il a soutenu qu’il transférait souvent les « sacs Ziploc » entre le petit ami et sa petite amie de manière à ce que les entreprises continuent à fonctionner. Lors de la vérification, le neveu de Mme Truong a aussi établi et fait signer par le petit ami deux reconnaissances générales de cadeaux supplémentaires faits à Mme Truong. L’une des lettres n’était pas datée et ne spécifiait aucun montant ni aucune année. L’autre faisait état de donations, en 2007, de 109 000 $, dont 73 000 $ par chèques ou par traites bancaires. Au procès, le petit ami, M. Chiu, a nié avoir fait d’importants cadeaux en argent comptant et a ajouté que, par conséquent, les lettres étaient inexactes.
+Les prêts familiaux
+[31] L’amie de Mme Truong a déclaré qu’elle lui prêtait souvent des tranches de 5 000 $, de 7 000 $ ou de 10 000 $ pour l’aider à régler son [traduction] « problème de casino ». Ces prêts étaient de courte durée et s’étendaient habituellement sur une période de deux à trois semaines. Mme Truong les remboursait toujours. En décembre 2005 (vers la fin de la première année d’imposition sous le régime de la LIR), un prêt précis, d’un montant de 10 000 $, lui a été fait. L’amie de Mme Truong n’a pas pu se souvenir du moment exact où il a été remboursé. Nulle documentation n’était tenue sur les sommes prêtées. En contre‑interrogatoire, il lui a été demandé d’expliquer pourquoi nulle documentation n’était tenue. Elle a répondu que le fait de tenir de tels documents lui aurait causé des difficultés à transférer de l’argent à ses propres parents à l’étranger.
+e) La connaissance qu’avait Mme Truong de ses affaires
+[32] Mme Truong a déclaré qu’elle savait peu de choses, voire rien, à propos des montants de revenu qui étaient déposés dans ses comptes bancaires ou des dépenses qui en sortaient. Bien qu’elle ait confirmé, directement ou implicitement, l’exactitude des éléments d’actif et de passif indiqués dans l’état de la valeur nette, elle a continué d’affirmer qu’elle n’avait pas pris part aux opérations ayant donné lieu aux montants indiqués ou qu’elle avait droit à titre bénéficiaire aux biens pertinents. Son petit ami contrôlait les entreprises et lui disait comment les exploiter. Son comptable, lui aussi choisi par son petit ami, établissait toutes les déclarations d’impôt sur le revenu et de TPS. Son neveu l’aidait à compter l’argent comptant et à faire les dépôts bancaires pour au moins une des entreprises, et peut‑être les deux.
+[33] Le petit ami de Mme Truong a indiqué que celle-ci exploitait ses entreprises et que lui-même exploitait sa propre chaîne nationale de restaurants. Le comptable n’a pas témoigné. Le neveu de Mme Truong avait donné un coup de main pour la première entreprise de restauration [traduction] « dans ses temps libres », mais, à l’époque pertinente, il étudiait à plein temps. Dans le cas du second restaurant, son neveu était aussi présent à l’occasion.
+[34] La vérificatrice de l’ARC a déclaré n’avoir reçu de Mme Truong aucun document ou registre pertinent, hormis les déclarations de revenus produites tardivement et les renseignements reçus d’entités tierces à la suite d’une DPCR.
+[35] Dans le questionnaire de l’ARC qu’elle a rempli, Mme Truong a laissé de nombreux renseignements en blanc et n’a pas produit d’explications plausibles qui auraient contribué à donner une certaine vraisemblance aux renseignements financiers. Mme Truong a déclaré qu’elle n’avait pas rempli ce document. Elle avait déclaré des revenus d’entreprise nets (les pertes sont indiquées entre parenthèses) de 6 500 $, de 6 100 $, de (29 896 $), de (34 329 $) et nuls dans chacune des années d’appel s’étendant de 2005 à 2009. L’état de valeur nette attribue à Mme Truong, pour chacune de ces années, un revenu de plus de 112 000 $, de 38 000 $, de 524 000 $, de 417 000 $ et de 588 000 $. Mme Truong a contesté sa signature apposée sur l’une des déclarations de revenus visées par l’appel interjeté sous le régime de la LIR. Mais elle a déclaré que, sinon, elle avait effectivement signé les déclarations de revenus et de TPS initiales, quoique sans les avoir lues au préalable.
+III. Les dispositions législatives applicables
+A. Les cotisations de valeur nette
+[36] Le ministre a le droit d’établir subsidiairement une cotisation à l’endroit d’un contribuable en vertu du paragraphe 152(7) de la LIR et de dispositions analogues figurant au paragraphe 299(1) de la LTA. Le contribuable a le droit de contester une telle cotisation de trois façons :
+(i) contester sa nécessité ou la méthode choisie au départ;
+(ii) contester des aspects précis du montant fixé, la méthode suivie ou des éléments inclus;
+(iii) produire des éléments de preuve au sujet des sources non imposables de revenus que le contribuable a reçus.
+[37] Ces trois méthodes sont exposées dans un certain nombre de décisions, et elles l’ont été récemment à l’occasion de l’affaire Golden c. La Reine, 2009 CCI 396, 2009 DTC 1273, aux paragraphes 11 et 12, où le juge Boyle a observé :
+[11] Dans le cas de la cotisation fondée sur l’avoir net, le contribuable peut contester la nécessité de celle-ci ou faire valoir la méthode la plus appropriée pour calculer le revenu d’une source donnée. En l’espèce, ce n’est pas ce que fait le contribuable. Lorsqu’il conteste effectivement la nécessité d’une cotisation ou la méthode de calcul, il doit réussir à démontrer à la satisfaction de la Cour, documents, registraires et autres éléments de preuve crédibles à l’appui, quels sont ses revenus tirés de la source ou des sources en cause. En l’espèce, le contribuable n’a pas fait cette démonstration ni établi les fondements de sa preuve à cet égard.
+[12] Pour le contribuable, le seul autre choix est de contester des aspects précis des calculs de la cotisation fondée sur l’avoir net.
+B. Les pénalités
+[38] Le paragraphe 163(2) de la LIR dispose :
+(2) Faux énoncés ou omissions Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité […]
+[39] Le paragraphe 298(4) de la LTA prévoit des pénalités semblables pour la personne qui a fait un faux énoncé ou une omission sciemment ou dans des circonstances équivalant à faute lourde.
+[40] Pour ce qui est de l’imposition de pénalités à la personne ayant sciemment omis de déclarer des renseignements, la Cour doit déterminer, selon la prépondérance des probabilités, que Mme Truong savait qu’elle avait reçu des revenus non déclarés ou qu’elle avait perçu des montants de TPS et avait omis de les déclarer.
+[41] Pour ce qui est de la faute lourde, le critère est légèrement plus nuancé. A l’occasion de l’affaire Venne c. R., [1984] 84 DTC 6247 (C.F. 1re inst.) CTC 223, le juge Strayer, tel était alors son titre, a conclu que la « faute lourde » signifiait ceci :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi.
+[42] Toute décision d’imposer de telles pénalités est directement liée aux éléments de preuve que l’on soumet à la Cour dans n’importe quelle affaire, et elles dépendent entièrement des circonstances, des faits et des questions en litige. C’est au ministre qu’il incombe de faire la preuve de la connaissance requise ou de la faute lourde, et ce, en fonction de la norme de la prépondérance des probabilités. Comme il a été signalé plus tôt, la faute lourde inclut l’aveuglement volontaire envers le respect de la loi.
+IV. Observations, analyse et conclusions
+a) Les observations
+Mme Truong
+[43] Pour rappel, l’avocate de Mme Truong soutient que la cotisation de valeur nette est viciée parce il a été produit des éléments de preuve dont il ressort: (i) qu’elle n’inclut pas les sources de fonds non imposables que constituent les biens en fiducie, les prêts majorés, les prêts familiaux et les gains de jeu, (ii) qu’elle ne tient pas compte des comptes rendus de jeu inexacts, et (iii) qu’elle inclut des biens commerciaux que l’on a attribués erronément à Mme Truong et qui, en réalité, étaient sous le contrôle de son petit ami.
+[44] L’avocate de Mme Truong n’a pas produit d’observations portant spécifiquement sur la question des pénalités, vraisemblablement parce que l’on ferait droit aux appels et qu’il n’y aurait pas de revenus non déclarés ou de TPS non déclarée à percevoir.
+L’intimée
+[45] L’avocat de l’intimée a soutenu que même si les faits étaient denses et qu’ils portaient sur cinq années d’imposition, l’appel proprement dit n’était pas complexe sur le plan juridique. En bref, il a soutenu que la cotisation de valeur nette était nécessaire et appropriée, car Mme Truong n’avait pas produit de documents ou de renseignements commerciaux ou d’une autre nature. Deuxièmement, à part un rajustement de 2 400 $ qui est devenu évident lors du témoignage de la vérificatrice de l’ARC, Mme Truong n’a fait état d’aucun élément de fait susceptible de constituer un élément de preuve des montants de prêts majorés, des montants de gains de jeu, des montants ou de la description des biens en fiducie, des montants des biens commerciaux attribués erronément ou des montants de prêts familiaux. En bref, pour contester la cotisation subsidiaire du ministre, Mme Truong est tenue de produire une contre-preuve précise. De l’avis de l’intimée, il n’y en a tout simplement pas eu.
+b) Analyse
+La cotisation subsidiaire
+[46] Les cotisations subsidiaires, qu’elles soient établies au moyen d’une analyse des dépôts, d’une évaluation de la valeur nette ou d’autres techniques, ne sont pas des expériences scientifiques et, cela étant, elles sont intrinsèquement inexactes [1] . Il est nécessaire d’en établir lorsqu’un contribuable a omis de produire des déclarations de revenus, a produit des déclarations manifestement déficientes ou omet de fournir les livres et les registres qui répondent aux demandes de production ou aux déclarations produites. Mme Truong, dans certains cas, a produit ses déclarations tardivement ou a produit des déclarations manifestement déficientes. Elle ne tenait aucun livre ni registre, n’en a produit aucun lors de la vérification et n’en a produit aucun au procès. Elle a exploité plusieurs entreprises, possédé cinq biens immobiliers et tenu divers comptes bancaires au cours de la période pertinente. Il était à la fois nécessaire et approprié d’établir une cotisation subsidiaire. Le manque de documents, de renseignements et de livres a créé le vide qui a obligé le ministre à établir une cotisation subsidiaire. L’appelante n’a ni contesté cette nécessité ni proposé une autre méthode [2] .
+[47] Étant responsable du vide qui avait appelé l’établissement de la cotisation subsidiaire, Mme Truong a eu à l’audience une autre possibilité de répondre aux nouvelles cotisations établies sous le régime de la LIR et relatives à la TPS; de soulever une contestation qui aurait rendu peu fiable ou inexact le revenu gagné que le ministre lui avait attribué, ainsi que le montant de TPS correspondant qu’il fallait percevoir. Pour ce faire, il fallait des éléments de preuve explicatifs. Ils étaient nécessaires pour expliquer les augmentations évidentes de richesse et les revenus subsidiairement fixés par le ministre, qui étaient nettement disproportionnés par rapport aux revenus déclarés et la TPS perçue [3] . Mme Truong a reconnu que la valeur des actifs était exacte. De plus, l’augmentation qui lui était attribuée excluait déjà des prêts d’un montant d’environ 1,7 million de dollars et d’autres gains de jeu d’un montant d’environ 131 000 $. Pour les années 2005 et 2006, Mme Truong n’a pas reçu ces montants parce qu’elle n’entretenait pas encore une relation sérieuse avec son petit ami et n’avait pas commencé à jouer beaucoup. Pourtant, nul élément de preuve n’a été produit en vue de contester la cotisation subsidiaire, relativement à ces deux premières années visées par l’appel.
+[48] À part la flagrante erreur de calcul de 2 400 $, en 2009, Mme Truong n’a pas montré que la cotisation du ministre était, d’une façon particulière, viciée ou suspecte. La preuve du ministre, soit la cotisation de valeur nette, est la seule qui a été produite devant la Cour au sujet des revenus de Mme Truong pendant les périodes en cause. De vagues affirmations, des contestations incohérentes au sujet des éléments de preuve concrets de la part de parties intéressées et liées et l’absence de preuve documentaire ne sauraient réfuter les documents convaincants de tierces parties, les témoignages désintéressés et les conclusions logiques qui font partie intégrante de la cotisation subsidiaire du ministre, laquelle est fondée sur des documents de tiers et est étayée par des témoignages clairs au procès. Mme Truong n’a produit aucun élément de preuve au sujet des biens en fiducie, des prêts familiaux compensatoires ou des biens commerciaux attribués erronément.
+Les donations supérieures
+[49] Certains exemples de ce contraste sautent clairement aux yeux de la Cour. Pour ce qui est des donations supérieures, Mme Truong ou son neveu n’ont jamais dit combien d’argent supplémentaire elle avait reçu de son petit ami, à part les [traduction] « sacs Ziploc » d’argent, impossibles à quantifier. Le petit ami de Mme Truong, ayant déjà admis avoir fait des donations ou des prêts d’une valeur de 1,7 million de dollars, a confirmé à maintes reprises que l’argent avait été transféré par virement de fonds automatique ou par chèque, et non en argent comptant. Comme il avait déjà admis avoir fait les généreuses donations, la Cour a conclu que son témoignage sur l’ampleur des donations n’était pas intéressé.
+Les comptes rendus de jeu et les gains de jeu inexacts
+[50] Dans le même ordre d’idées, l’avocate de Mme Truong a contesté les documents de base reçus des casinos au motif qu’ils sous-estimaient et surestimaient à la fois les montants joués, gagnés ou perdus. Pour ce qui est de l’inexactitude des comptes rendus de jeu, aucun élément de preuve subsidiaire n’a été produit. Nul autre montant gagné n’a été avancé (ce qui aurait fait augmenter les sources de fonds non imposables), pas plus que les montants perdus (ce qui aurait tendu à établir que les fonds en jeu étaient supérieurs) ou les montants joués (ce qui tendrait à démontrer une variation possible de la valeur nette). Cependant, l’avocate de Mme Truong a soutenu au contraire que, d’une part, Mme Truong avait eu des gains supérieurs à ceux dont faisaient état les comptes rendus mais que, d’autre part, elle avait aussi joué moins d’argent que ce qu’indiquaient les comptes rendus. Et là encore, à part le fait qu’il n’y ait aucun élément de preuve allant dans un sens ou dans l’autre, la norme de preuve applicable est la prépondérance des probabilités. Tout compte fait, bien qu’elle ne soit peut-être pas parfaite [4] , les preuves produites en l’espèce sous-estiment tout aussi facilement l’ampleur de la croissance de l’avoir net que celle de la réduction de l’avoir. La vérification de l’ARC dans ce secteur des jeux de hasard, à l’instar des autres, répondait à la norme de la probabilité. Cette fiabilité n’a pas été contestée par des éléments de preuve contraires.
+[51] Enfin, il y a peu de cohérence entre la version de Mme Truong, en tant que personne peu instruite, sans emploi et en faillite, et la situation financière qui ressort de ses affaires financières reconnues. Mme Truong a admis avoir possédé, pendant toute la période en cause, un portefeuille de biens immobiliers, d’automobiles, de certificats de placement et d’entreprises, et elle faisait chaque année des voyages de jeu valant des centaines de milliers de dollars. Nulle explication n’a été produite quant aux sources non imposables des fonds qu’elle a reçus ou gagnés au-delà de la somme de près de deux millions de dollars en fonds non imposables que le ministre a portée à son crédit.
+[52] Pour ces raisons, les appels sont rejetés. L’unique élément de preuve fiable que l’on a présenté à la Cour au sujet du revenu de Mme Truong et de sa dette de TPS pour les années visées par l’appel est la cotisation subsidiaire du ministre. Comme il a été signalé, c’est ce tableau qui est ressorti de l’audience, incontesté et non critiqué.
+Les pénalités
+[53] L’avocate de Mme Truong n’a présenté aucune observation directe à propos des pénalités. Il incombe néanmoins au ministre d’établir que Mme Truong, sciemment ou dans des circonstances équivalant à faute lourde, a fait un faux énoncé ou une omission dans ses déclarations de revenus et de TPS applicables.
+[54] Mme Truong a déclaré qu’elle n’avait aucune formation scolaire, à part des études primaires faites au Vietnam. Elle a immigré au Canada en 2000. À l’audience, elle a témoigné et a suivi le procès par l’entremise d’un interprète. Ces facteurs sont souvent pris en compte dans les appels relatifs à des pénalités, où le facteur principal et fondamental est le manque d’instruction du contribuable et son isolement par rapport au milieu juridique et commercial canadien [5] .
+[55] Vu les preuves, Mme Truong n’est pas une nouvelle arrivante un peu perdue, ignorante de la manière dont le « système » fonctionne. Elle avait reçu d’un petit ami des donations d’une valeur de plus de 1,7 million de dollars. Elle pariait d’importantes sommes d’argent plusieurs fois par semaine dans divers casinos situés un peu partout en Ontario, au Québec et dans l’État de New York. En termes d’actifs, elle avait fait l’acquisition de plusieurs maisons et d’un bien agricole. Sur le plan commercial, elle avait lancé, possédé ou exploité plusieurs entreprises, fait l’acquisition de plusieurs automobiles de luxe, détenu des comptes bancaires multiples et à buts variables et investi ses économies excédentaires dans des certificats de placement garanti. Au vu de cette preuve admise, on ne peut pas dire qu’elle était peu instruite ou isolée.
+[56] Pour ce qui est de sa connaissance de ces activités, elle a soutenu que c’était son petit ami, son neveu ou le comptable indiqué qui étaient responsables à tour de rôle, ou de façon interchangeable, selon le cas, des concepts, de l’exploitation, de la préparation et de l’exécution des entreprises, des éléments d’actif, des activités et des documents qui étaient à l’origine des nouvelles cotisations et des pénalités. Son petit ami et son neveu ont nié un tel degré de participation, du moins au point de détourner, déterminer ou gérer le gros des entreprises, des éléments d’actif, des activités et de la production des déclarations de Mme Truong. De plus, le comptable n’a pas témoigné. Mme Truong a dit ne pas avoir examiné ses déclarations de revenus ou de TPS avant de les signer.
+[57] Dans son témoignage, Mme Truong a confirmé que l’augmentation de sa valeur nette, telle qu’exposée dans l’état de la valeur nette établi par l’ARC, était exacte. Elle a indiqué de plus que chaque année était exacte. Elle a simplement contesté l’état de ses dettes en général. Elle n’a présenté aucun élément de preuve documentaire ou testimonial précis pour confirmer l’existence d’un écart par rapport aux éléments de preuve documentaires sous-jacents qui faisaient état de ses avoirs, de ses placements et de ses entreprises. Elle possédait ces avoirs et ces entreprises. Elle a déclaré qu’elle voulait être riche. Pour qu’il soit possible d’annuler les cotisations et de contester les preuves qui ont été produites au sujet de ses fausses déclarations ou de son indifférence, ses explications en réfutation doivent être présentées et dignes de foi. Elles n’ont été ni l’une ni l’autre [6] .
+[58] Un autre signe de la connaissance qu’avait Mme Truong des affaires est sa déposition, lors du réinterrogatoire, à propos des comptes rendus de jeu. Cette déposition a également été instructive pour la Cour, pour ce qui était de la question de son degré de compréhension en matière commerciale, un point qui est pertinent en matière de pénalités. Elle a pu expliquer, avec une relative facilité, des notions que la Cour, l’interprète et d’autres personnes entendaient vraisemblablement pour la première fois : les [traduction] « cartes de joueur », les « jeux cotés » et les « relevés de gains ou de pertes », entre autres termes. Ce témoignage faisait nettement contraste avec les dénis de compréhension concernant des réponses données lors des interrogatoires préalables et avec leur différence par rapport au témoignage fait au procès. Ces divergences concernaient l’exactitude des relevés de gains et de pertes, le contenu de diverses déclarations de revenus et les déclarations incohérentes sur les prêts majorés. Devant de telles contradictions, la crédibilité de Mme Truong s’est évaporée.
+[59] Ces lacunes importantes sur le plan de la crédibilité se situent au cœur de la connaissance ou, à tout le moins, de l’aveuglement volontaire et de sa sous‑catégorie, l’indifférence au respect de la loi [7] .
+[60] Indépendamment de l’incohérence de Mme Truong quant à son peu de connaissance ou d’appréciation de ses affaires, les éléments de preuve du ministre au sujet de la connaissance ou de la faute lourde étaient fouillés, fondés sur des sources et éclairés. Cette cohérence documentaire a été établie au moyen de dossiers de tiers et de documents sous-jacents qui constataient les titres de propriété. Ces preuves ont été établies par l’entremise de la vérificatrice de l’ARC, dans le cadre d’un témoignage de vive voix. Ces éléments de preuve de l’intimée, émanant de deux sources, ont permis d’établir que Mme Truong avait fait preuve d’insouciance à l’égard du respect de ses obligations juridiques et avait été gravement négligente sur le plan de la tenue de livres et de registres ainsi que sur celui de la production de ses déclarations. Mme Truong a admis ne pas avoir passé en revue ou lu ses déclarations de revenus et de TPS avant que celles-ci soient produites.
+[61] Une fois que le ministre a constitué ce dossier, Mme Truong, dans son témoignage, n’a pas réfuté les faits entourant sa connaissance réelle ou son aveuglement volontaire. Elle a plutôt renforcé les fondements de ces deux aspects, que le ministre avait établis au départ. L’admission de l’exactitude factuelle de l’état de la valeur nette, de l’état des avoirs et des documents sous-jacents qui en sont la preuve procure à la Cour le fondement initial qui lui permet de conclure, vu l’ampleur de la différence entre, d’une part, les revenus déclarés et, d’autre part, la valeur nette et les activités commerciales admises, que Mme Truong a omis sciemment de déclarer des revenus et des montants de TPS perçus. Une fois que cela a été établi, en réplique, Mme Truong n’a donné aucune explication vraisemblable ou digne de foi au sujet de l’ampleur, de la constance et de la durée de cette différence. On ne peut s’empêcher de conclure que la contribuable a produit de fausses déclarations de revenus ou a produit des déclarations dans des circonstances assimilables à une faute lourde [8] . Pour cette raison, les pénalités sont justifiées et elles seront maintenues.
+V. Sommaire et dépens
+a) Un fondement restreint pour faire droit à l’appel
+[62] Pour ce qui est des appels interjetés sous le régime de la LIR, comme l’a reconnu et mentionné l’avocat de l’intimée à l’audience, la cotisation relative à l’année d’imposition 2009 sera réduite de 4 800 $. Cela représente l’effet de la double inscription d’un gain de 2 400 $ dans un casino, qui a été inscrit comme une perte. Cette perte a été ajoutée au revenu, le faisant ainsi augmenter de 2 400 $. Dans une approche méthodologique constante que suit par ailleurs l’ARC, cette somme aurait dû être déduite des revenus pour l’année 2009. Cela pourrait aussi avoir un effet corrélatif sur l’appel relatif à la TPS pour la période prenant fin le 31 décembre 2009.
+[63] À part ce rajustement, conformément aux motifs qui précèdent, les appels sont rejetés et les pénalités sont confirmées.
+b) Les dépens
+[64] Les dépens sont adjugés à l’intimée, conformément au tarif, sous réserve du droit de l’une ou l’autre des parties de présenter des observations supplémentaires par écrit dans les 30 jours suivant la date du présent jugement.
+Signé à Ottawa, Canada, ce 8e jour de février 2017.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+Ce 23e jour d’août 2018.
+François Brunet, réviseur.
+RÉFÉRENCE :
+2017 CCI 22
+Nos DES DOSSIERS DE LA COUR :
+2013-2653(IT)G
+2013-2654(GST)G
+INTITULÉ :
+THANH TRUC TRUONG ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Les 7, 8 et 9 décembre 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 8 février 2017
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Sunita D. Doobay
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Sunita D. Doobay
+Cabinet :
+TaxChambers LLP
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Golden c. La Reine, 2009 CCI 396, au paragraphe 17.
+[2] Golden, au paragraphe 11.
+[3] Molenoar c. Canada, 2004 CAF 349, au paragraphe 4 (au sujet du fardeau du contribuable); Mathur c. R, [2004] 4 CTC 2779, au paragraphe 20, décision citant elle-même SDC c. R., [1997] GSTC 103 (CCI), à la page 103 (au sujet du fardeau du contribuable dans les cotisations de valeur nette relatives à la TPS).
+[4] Guibord c. La Reine, 2010 CCI 420, au paragraphe 17, décision citant elle-même Bigayan c. SMR, [2000] 1 CTC 2229.
+[5] Altamimi c. La Reine, 2007 CCI 553, au paragraphe 45; Bandula c. La Reine, 2013 CCI 282, aux paragraphes 44 et 45.
+[6] HSU c. Canada, 2001 CAF 240, au paragraphe 31 (le contribuable est le mieux placé pour corriger le dossier); Morreau c. R., 2003 CAF 475 (des preuves documentaires et de vive voix, lorsqu’elles sont dignes de foi et présentées, peuvent permettre de s’acquitter du fardeau).
+[7] Venne c. R, précitée, au paragraphe 7.
+[8] Lacroix c. Canada, 2004 CAF, au paragraphe 30.

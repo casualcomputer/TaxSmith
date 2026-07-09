@@ -1,0 +1,187 @@
+---
+title: "Tjelta v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/235318/index.do"
+last_modified: "2017-09-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 187"
+citation2: ""
+neutral_citation: "2017 TCC 187"
+decision_date: "2017-09-25"
+language: "en"
+item_id: "235318"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2206
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:10:42.770000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f8e82ff94d1857258af03a07431ca4ce30083c5bbe98d69088ab22dafcd3fbcc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tjelta v. The Queen
+
+- Citation: 2017 TCC 187
+- Decision date: 2017-09-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2206, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tjelta v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-09-25
+Neutral citation
+2017 TCC 187
+File numbers
+2015-1968(GST)I, 2015-2017(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2015-1968(GST)I
+2015-2017(IT)G
+BETWEEN:
+JOHN TJELTA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on July 4 and 5, 2017, at Edmonton, Alberta
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+Neil T. Mather
+Counsel for the Respondent:
+Margaret McCabe
+JUDGMENT
+The Appellant’s appeals of directors’ liability assessments issued against him under the Income Tax Act and the Excise Tax Act in respect of amounts owed by Empire International Service Rigs Inc. are dismissed.
+Costs are awarded to the Respondent in respect of the income tax appeal. No costs are awarded in respect of the GST appeal.
+Signed at Ottawa, Canada, this 25th day of September 2017.
+“David E. Graham”
+Graham J.
+Citation: 2017 TCC 187
+Date: 20170925
+Dockets: 2015-1968(GST)I
+2015-2017(IT)G
+BETWEEN:
+JOHN TJELTA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] John Tjelta was a director of a company named Empire International Service Rigs Inc. Empire failed to remit over $400,000 in GST and payroll withholdings. As a result, the Minister of National Revenue assessed Mr. Tjelta as a director under sections 227.1 of the Income Tax Act and 323 of the Excise Tax Act. Mr. Tjelta has appealed from those assessments.
+[2] Mr. Tjelta does not dispute that Empire owes the taxes, nor does he argue that he was duly diligent in fulfilling his role as a director. His only argument is that the preconditions for a directors’ liability assessment set out in paragraphs 227.1(2)(a) and 323(2)(a) have not been met. Those paragraphs provide that a director is not liable unless “a certificate for the amount of the corporation's liability…has been registered in the Federal Court…and execution for that amount has been returned unsatisfied in whole or in part”. Mr. Tjelta acknowledges that the appropriate certificate was registered in Federal Court but questions whether the Minister made a good faith attempt to determine and seize Empire’s assets.
+[3] In Barrett v. The Queen, [1] the Federal Court of Appeal stated that paragraph 323(2)(a), and, by extension, paragraph 227.1(2)(a), does not impose an obligation on “the Minister to take reasonable steps to search for assets of a corporate debtor”. [2] Mr. Tjelta acknowledges that there was therefore no obligation on the Minister to take reasonable steps to search out Empire’s assets.
+[4] However, in Barrett, the Federal Court of Appeal held that there was, nonetheless, a requirement that the Minister act in good faith when determining that the precondition has been met. Mr. Tjelta asserts that the Minister did not act in good faith. Mr. Tjelta submits that he informed the Minister that there were assets available to seize and that the Minister failed to act on that information.
+[5] I find that the Minister acted in good faith. I will first describe the steps that the Canada Revenue Agency took and then describe my reasons for concluding that those steps were taken in good faith.
+Steps Taken by the CRA
+[6] Empire was in the business of manufacturing and refurbishing oilfield equipment. In August 2011, Empire was in debt to its landlord for slightly more than it was in debt to the CRA. The landlord retained a civil enforcement agency licenced by the province of Alberta to seize Empire’s property. The agency was named Stewart Belland & Assoc. Inc. Stewart Belland & Assoc., in turn, instructed a bailiff named Robert Parry to affect the seizure.
+[7] Stewart Belland & Assoc. is owned by Lyle Stewart. The Respondent called both Mr. Stewart and Mr. Parry as witnesses. I found them both to be credible.
+[8] On August 26, 2011, Mr. Parry arrived at Empire’s property. Mr. Tjelta quickly called the CRA. He knew that Empire owed significant money to the CRA. He also knew that he was potentially liable for those funds as a director. He testified that he wanted the CRA to act to protect its interests.
+[9] On the day of the seizure, Mr. Tjelta ended up speaking to a CRA collections officer named Gordon Beatty. Mr. Beatty was not Empire’s regular collections officer. He was assigned to handle the file effective from the date of the seizure. The Respondent called Mr. Beatty as a witness. I found Mr. Beatty to be a credible witness.
+[10] Mr. Beatty asked Mr. Tjelta to send him a copy of the Warrant given to him by Mr. Parry. Mr. Tjelta did so. Mr. Tjelta also, either at that time or later, provided Mr. Beatty with a copy of the Notice of Seizure of Personal Property that Mr. Parry had prepared following the seizure.
+[11] On the day of the seizure, Mr. Beatty immediately took a number of steps to protect the CRA’s interests. He drew up certificates for Empire’s debts to the CRA, arranged to have those certificates registered in Federal Court, obtained writs of seizure and sale for the debts and registered those writs against Empire’s property in Alberta’s personal property registry. Remarkably, Mr. Beatty managed to register the CRA’s interest before the landlord registered its interest.
+[12] Mr. Parry ultimately left Empire’s assets with Empire on the basis of a bailee’s undertaking that he had obtained from Mr. Tjelta.
+[13] Within days of the seizure, Mr. Tjelta had a conversation with Mr. Beatty in which Mr. Beatty explained the steps that he had taken to secure the CRA’s interest. Mr. Beatty also advised Mr. Tjelta that the CRA had a deemed trust over Empire’s assets and would therefore have first priority on the proceeds of any assets that were sold by Stewart Belland. Thus, the CRA would be paid in priority to the landlord. Mr. Beatty clarified that the deemed trust would not apply to either the penalties and interest that had been assessed against Empire or the employer portion of EI and CPP payments.
+[14] Mr. Tjelta believes that, at this point, he gave Mr. Beatty a verbal list of Empire’s assets. Mr. Tjelta did not provide Mr. Beatty with any documentary evidence supporting Empire’s ownership of those assets or their fair market value. The following are the key assets that Mr. Tjelta described to Mr. Beatty:
+a) Rig: a piece of equipment called a slant service rig worth $1,000,000 that Empire was building for a company called Central Alberta Well Service Corp. (“CWC”);
+b) Pump Trucks: two pump trucks whose value Mr. Tjelta did not describe; and
+c) Other Assets: other significant pieces of equipment worth between $390,000 and $400,000. [3]
+[15] Given my conclusion that the Minister acted in good faith, it is not necessary for me to determine the precise assets owned by Empire when the seizure occurred or their fair market value. It is sufficient to find that Mr. Tjelta informed Mr. Beatty that Empire had large physical assets with significant value. [4]
+[16] Mr. Tjelta testified that he asked Mr. Beatty to seize these assets. Mr. Beatty testified that the CRA could not have seized the assets. He explained that, once the assets had been seized by Stewart Belland & Assoc., the CRA could not step in and “seize-over” the assets. Mr. Beatty clarified that, once seized, the assets were held by Stewart Belland & Assoc. on behalf of all creditors, not just the landlord, and thus there was no need to take any further actions.
+[17] On September 1, 2011, the landlord changed the locks on Empire’s premises.
+[18] On September 5, 2011, Mr. Tjelta informed Mr. Beatty that he had heard that Stewart Belland & Assoc. was releasing the rig to CWC despite the fact that Empire still owned the rig because CWC had not paid Empire in full.
+[19] On September 6, 2011, Mr. Tjelta spoke to Mr. Stewart. Mr. Tjelta told him that Empire still owned the rig and that Stewart Belland & Assoc. should therefore not release it to CWC. Mr. Tjelta drove by Empire’s property later that day and saw that the rig was, nonetheless, being removed.
+[20] Mr. Tjelta and Mr. Beatty had a number of other conversations in the days that followed. Mr. Beatty testified that Mr. Tjelta told him that various assets were being released to third parties and that, as a result, he had spoken to Mr. Stewart to find out what was going on. Mr. Beatty testified that Mr. Stewart had confirmed that certain assets had been released but assured him that that had only occurred after Stewart Belland & Assoc. had determined that the assets belonged to third parties. Mr. Beatty specifically asked Mr. Stewart about the rig. He testified that Mr. Stewart had informed him that CWC had bought and paid for the rig and that, accordingly, Stewart Belland & Assoc. had allowed CWC to take it. These statements are hearsay and I do not accept them as being proof of either the ownership of the rig or what happened to it. I do, however, accept that, after his conversation with Mr. Stewart, Mr. Beatty had reason to believe that Mr. Tjelta’s concerns were unfounded and that Mr. Stewart was handling Empire’s assets appropriately. Mr. Beatty testified on cross-examination that he did not ask Stewart Belland & Assoc. to produce a bill of sale for the rig. He explained that the CRA would not normally ask for such documents as they would rely on the civil enforcement agency to do their job.
+[21] Mr. Stewart testified that he recalled speaking to an individual at CWC about the rig and stated that CWC ultimately provided sufficient documentation to satisfy Stewart Belland & Assoc. that CWC owned the rig. On cross-examination, Mr. Stewart testified that he does not recall Mr. Tjelta telling him that the rig had not been fully paid for. He acknowledged that his file did not contain a bill of sale for the rig nor did it contain a release signed by Empire allowing the rig to be released to CWC. However, he explained that Empire was given an opportunity to object to the seizure and the release of property and failed to do so. He noted that Mr. Tjelta and his father both filed personal objections seeking to have their rights as alleged secured creditors recognized but that no objections were filed by Empire.
+[22] Mr. Beatty testified that he spoke to someone else at Stewart Belland & Assoc. on one other occasion but he cannot recall either that person’s name or what they discussed.
+[23] Mr. Beatty testified on cross-examination that he had sent a notification to the landlord advising them that the CRA had priority over any money the landlord received. Mr. Beatty was somewhat evasive when asked whether he followed up with the landlord to see if they had actually received any money. I find that he did not.
+[24] On September 15, 2011, Mr. Beatty issued requirements to pay to Empire’s bank and to a third party that owed Empire money.
+[25] On September 16, 2011, Mr. Beatty asked Mr. Tjelta to provide him with an accounts receivable list for Empire and a list of its work in progress. Mr. Tjelta provided Mr. Beatty with that information on September 23 and Mr. Beatty issued further requirements to pay on that day. One of those requirements to pay was issued to CWC.
+[26] Mr. Beatty testified that the CRA received less than a few hundred dollars from any of these requirements to pay.
+[27] It is unclear what ultimately happened to the assets seized by Stewart Belland & Assoc. Mr. Tjelta testified that they were not returned to him. They certainly did not remain on the property. Mr. Stewart testified that Stewart Belland & Assoc. never received instructions from the landlord to sell any assets. He does not know what happened to the assets. Mr. Stewart explained that, had any assets been sold, his firm would then have taken steps to determine creditor priorities and to ensure that creditors had the ability to object to the proposed distribution of proceeds. Mr. Stewart did not know whether the landlord had sold the assets. Mr. Stewart guessed, based on his experience, that the landlord may have struck a deal with Empire to take assets in exchange for the arrears of rent but he has no evidence of that.
+[28] In 2013, Mr. Beatty came to the conclusion that Empire was not going to pay its debt to the CRA. Accordingly, he decided to assess Mr. Tjelta. He explained that, in order to satisfy the preconditions in paragraphs 227.1(2)(a) and 323(2)(a), he believed that he needed to have a bailiff actually attempt seizure on the CRA’s writ as opposed to on the landlord’s warrant. Accordingly, the CRA retained a civil enforcement agency named Consolidated Civil Enforcement Inc. to attempt to seize Empire’s assets. Having received no proceeds as a result of the previous seizure, the CRA did not expect to receive anything from the second seizure. They were not disappointed. The writ was returned nulla bona. It is this second failed seizure that the Respondent submits satisfies the precondition that the execution be unsatisfied in whole or in part. The bailiff who executed the seizure was named Jamie Chitolie. The Respondent called Mr. Chitolie as a witness. I found Mr. Chitolie to be a credible witness. I find that the execution of the writ was not satisfied either in whole or in part.
+Did the Minister act in good faith?
+[29] As set out above, the Federal Court of Appeal stated in Barrett that the Minister must act in good faith when attempting to satisfy a writ. The parties have different views of what that requirement entails. I will first determine what the Federal Court of Appeal meant when it stated that the Minister must act in good faith. I will then determine whether the Minister has met that test in this case.
+[30] The Respondent submits that there is no question what the Federal Court of Appeal meant in Barrett when the Court referred to the Minister acting in good faith. The Respondent points out that the Court specifically stated that it was an “obligation on the part of the Minister to act without any ulterior or improper motive”. [5] I agree with the Respondent.
+[31] Mr. Tjelta submits that I should use the definition of good faith adopted by Justice Sommerfeldt in his recent decision in Ploughman v. The Queen. [6] In addressing an alternative argument, Justice Sommerfeldt relied upon the following definition of good faith: “honesty of intention, and freedom from knowledge of circumstances which ought to put the holder on inquiry”. [7]
+[32] I am not prepared to use the definition from Ploughman. Ploughman dealt with third party civil penalties under section 163.2 of the Income Tax Act. More specifically, it dealt with the provisions of subsection 163.2(6) which provide for a defence to the penalties if a taxpayer has acted in good faith. As a result, Justice Sommerfeldt was interpreting a subsection that specifically used the words “good faith”. In the circumstances, he needed to determine what Parliament meant when it used those words. I am not in the same position as Justice Sommerfeldt. I am not being called upon to interpret what Parliament meant when it used the words “good faith”. Parliament did not use those words in either paragraph 227.1(2)(a) or paragraph 323(2)(a). I am being called upon to interpret what the Federal Court of Appeal meant when it used the words in Barrett. Since the Federal Court of Appeal specifically stated what it meant, I do not feel it is necessary for me look any further than that statement. Please note that my unwillingness to adopt Justice Sommerfeldt’s interpretation should in no way be understood to indicate that I disagree with it.
+[33] Based on all of the foregoing, I conclude that to satisfy the precondition in paragraphs 227.1(2)(a) and 323(2)(a), the Respondent must show that the Minister acted without any improper or ulterior motive. I find that the Respondent has done so.
+[34] Mr. Beatty took the information that Mr. Tjelta provided to him and acted on it to protect the CRA’s interests. While it is possible that Mr. Beatty could have done more to ensure that the CRA collected from Empire, Barrett clearly establishes that my role is not to look at what the CRA could have done or whether the steps taken by the CRA were reasonable, but rather to simply look at whether the CRA acted in good faith. There is no evidence to suggest that they did not. There is no evidence that Mr. Beatty acted with any improper or ulterior motive. In fact, the evidence suggests quite the opposite. Mr. Beatty acted promptly to secure the CRA’s position, took further steps to attempt to collect from Empire’s customers and, when informed by Mr. Tjelta that assets were being removed, followed up with Stewart Belland & Assoc. to find out what was happening. Mr. Beatty put the CRA in a position to ensure that, if Stewart Belland & Assoc. received any proceeds from the seized property, the CRA would be in a position to be paid first.
+[35] It appears from Mr. Tjelta’s evidence that Mr. Beatty was not always available when Mr. Tjelta called him, that Mr. Beatty did not always return his calls, or did not return them promptly, and that Mr. Beatty did not respond to his emails. I was, however, left with the distinct impression that Mr. Tjelta viewed Mr. Beatty as acting for Empire and expected him to respond to his phone calls and emails and take steps on Empire’s behalf in the way that a lawyer acting for Empire would have. That expectation was unrealistic. Mr. Beatty’s job was to protect the CRA’s interests, not Empire’s or Mr. Tjelta’s interests.
+[36] I note that Mr. Tjelta did not take any steps on behalf of Empire to formally object to the seizure of the assets in question nor did he take any steps on behalf of Empire against either the landlord or CWC. It was as if Mr. Tjelta was expecting the CRA to do these things on Empire’s behalf.
+[37] I understand Mr. Tjelta’s frustration with what has occurred. It is clear to me that Empire had assets, including the rig, that were seized by Stewart Belland & Assoc. and yet were neither sold nor returned to Empire. Something has happened to those assets. It is possible that Mr. Tjelta’s estranged father, who was also a director of Empire, may have struck a deal with the landlord whereby Empire gave the landlord some or all of the assets in satisfaction of the rent. It is also possible that the landlord may simply have sold the assets and kept the money without informing Stewart Belland & Assoc. what it had done. However, whatever happened to the assets, the CRA acted in good faith based on the information available to them at the time. When advised by Mr. Tjelta that assets existed, Mr. Beatty made inquiries of Mr. Stewart and satisfied himself that Stewart Belland & Assoc. was dealing with the assets appropriately. Any failure on the part of Mr. Beatty to look behind Mr. Stewart’s advice cannot be attributed to a lack of good faith. Ultimately, if Mr. Tjelta believes that the landlord has improperly taken Empire’s assets, he is free to pursue the landlord using the preference made available to him under subsections 227.1(6) and 323(7). Similarly, to the extent that he feels his father dealt with the assets inappropriately, Mr. Tjelta is free to seek indemnification from his father under subsections 227.1(7) and 323(8).
+[38] In the event that I am wrong and I should have used the interpretation of good faith from Ploughman, I would still find that the Minister acted in good faith. The Ploughman interpretation would have required the Minister to have an honest intention and to be free from knowledge of circumstances which ought to have put the holder on inquiry. There was no evidence that would support the position that the Minister’s intentions were not honest. While there was certainly evidence that Mr. Beatty was given information which ought to have put him on inquiry, there was also evidence that clearly indicated that he took steps as a result of being put on such inquiry to satisfy himself that Stewart Belland & Assoc. was properly handling the matter. In asking me to consider whether that was enough, Mr. Tjelta is effectively asking me to consider whether Mr. Beatty acted with due diligence as opposed to whether he acted in good faith. That is exactly the type of inquiry that Barrett makes it clear I am not to conduct.
+Conclusion
+[39] Based on all of the foregoing, the appeals are dismissed. One set of costs is awarded to the Respondent in respect of the income tax appeal. No costs are awarded in respect of the GST appeal as it was under the informal procedure.
+Signed at Ottawa, Canada, this 25th day of September 2017.
+“David E. Graham”
+Graham J.
+Schedule “A” - Assets Owned By Empire
+[40] Had it been necessary for me to determine the ownership and fair market value of the assets described by Mr. Tjelta, I would have reached the following conclusions:
+a) Rig: Based on Mr. Tjelta’s evidence and the documentary evidence presented, I would have found that, by August 26, 2011, CWC had paid 90% of the purchase price for the rig. It still owed Empire approximately $100,000. [8] Pursuant to CWC’s contract with Empire, CWC was not entitled to receive delivery of the rig until all payments were made. While Mr. Tjelta repeatedly described the rig as being worth $1,000,000, I find that it was worth no more than $100,000 as that is the highest price that the most likely buyer (CWC) would have had to pay to acquire it. Even if CWC had not been interested in purchasing the rig, an informed third party purchaser would have negotiated a side deal with CWC to take over CWC’s contract with the result that Empire would still have received no more than the $100,000 that it was owed.
+b) Pump Trucks: The evidence regarding the pump trucks was confusing. Mr. Tjelta indicated that Empire owned two pump trucks when the seizure occurred but he did not testify what the value of those trucks was nor did he provide any documentary evidence that they were owned by Empire or how much Empire had paid to acquire them. Mr. Tjelta testified on cross-examination that a pump truck was owned by CWC and that CWC had paid a deposit to Empire to have equipment installed on it but he did not explain whether CWC owed Empire additional money for that work or, if so, how much. Since Mr. Tjelta testified that that pump truck was owned by CWC, it is unclear to me whether that truck was something different than the two pump trucks that he described Empire as owning. This ambiguity leaves me uncertain whether the other pump truck was also owned by CWC and was in Empire’s possession for the purpose of having the rig installed on it. In the circumstances, I would not have assigned any value to the pump trucks as Mr. Tjelta did not convince me that Empire owned them.
+c) Other Assets: I am prepared to accept that these pieces of equipment were owned by Empire in August 2011. Mr. Tjelta testified that these pieces of equipment were, in total, worth $390,000 to $400,000. [9] Other than his oral evidence, Mr. Tjelta did not provide any proof of their fair market value. It appears to me that Mr. Tjelta was overly optimistic in his valuation of the assets. He appears to have valued the assets using the normal retail market and to have failed to consider the fact that, at the time the assets were to be valued, they had already been seized. Had the assets been sold it would have been to satisfy either Empire’s tax debts or its debts to its landlord. Either way, the market into which the assets would have been sold would not have been the normal retail market but rather the distressed sale auction market with its associated price uncertainties, fees and expenses. Absent evidence as to the price that would have come from that market and some collaboration of the normal market values used by Mr. Tjelta, I would have applied a steep discount and assigned the assets the values that I was comfortable would not exceed what they would have fetched under auction. Had it been necessary for me to do so, I would have concluded that they were worth no more than $200,000.
+[41] Based on all of the foregoing, had it been necessary for me to do so, I would have concluded that, as of the date of the seizure, Empire had assets worth no more than $300,000.
+CITATION:
+2017 TCC 187
+COURT FILE NOS.:
+2015-1968(GST)I
+2015-2017(IT)G
+STYLE OF CAUSE:
+JOHN TJELTA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+July 4 and 5, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+September 25, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Neil T. Mather
+Counsel for the Respondent:
+Margaret McCabe
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Neil T. Mather
+Firm:
+Mather Law
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2012 FCA 33.
+[2] Barrett at para. 36.
+[3] Mr. Tjelta referred to a JIMCO 550 Drawworks, a CAT IT24F loader, a paint booth and a large tent .
+[4] Had it been necessary for me to do so, I would have found that Empire had no more than $300,000 in assets at the time of the seizure. My reasons for reaching that conclusion are set out in Schedule “A”.
+[5] Barrett at para. 38.
+[6] 2017 TCC 64.
+[7] Ploughman at para. 68 quoting from the BCCA decision in MacAlpine v. T.H. 1991 CarswellBC 136.
+[8] 10% of the $1,000,000 purchase price. Exhibit A-1, pgs. 3 and 27.
+[9] Mr. Tjelta valued the JIMCO 550 Drawworks at $200,000, the CAT IT24F loader at $60,000 to $70,000, the paint booth at $80,000 and the large tent at $50,000.

@@ -1,0 +1,166 @@
+Title: Thibault v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27120/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-13-27120-thibault-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-01-10
+
+# Thibault v. The Queen
+
+- Citation: 2007 CCI 13
+- Decision date: 2007-01-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 924, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thibault v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-01-10
+Référence neutre
+2007 CCI 13
+Numéro de dossier
+2006-903(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-903(IT)I
+ENTRE :
+KIMBERLEY TODD THIBAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 20 octobre 2006, à Winnipeg (Manitoba)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Ainslie Schroeder
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont accueillis sans dépens, et les cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que le ministre doit effectuer les rajustements mentionnés dans les motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 10e jour de janvier 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 5e jour de juin 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI13
+Date : 20070110
+Dossier : 2006-903(IT)I
+ENTRE :
+KIMBERLEY TODD THIBAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L’appelant réside dans la ville de Winnipeg.
+[2] Lorsque l’appelant a produit sa déclaration de revenus pour l’année d’imposition 2002, il a déclaré avoir gagné un revenu de 6 342 $ en tant que travailleur contractuel. L’appelant a également déclaré avoir tiré un revenu de 6 931 $ de la vente de rallonges de cheveux et de photographies.
+[3] Lorsque l’appelant a produit sa déclaration de revenus pour l’année d’imposition 2003, il a déclaré un revenu d’emploi de 4 444 $.
+[4] Le ministre du Revenu national (le « ministre ») a établi des avis de cotisation pour les années d’imposition 2002 et 2003 le 24 juillet 2003 et le 14 juin 2004, respectivement, et les cotisations ont été établies en fonction des déclarations de revenus telles qu’elles avaient été produites.
+[5] Des fonctionnaires du ministre ont effectué une vérification de la situation fiscale de l’appelant, et, le 5 mai 2005, des avis de nouvelle cotisation ont été établis pour les années d’imposition 2002 et 2003.
+[6] Dans les avis de nouvelle cotisation, le ministre a ajouté les éléments suivants :
+[traduction]
+2002
+2003
+- Revenu tiré de l’entreprise de rallonges de cheveux
+7 298 $
+- Dépôts dans le compte bancaire personnel
+10 446 $
+5 196 $
+- Dépôts dans des comptes à l’égard desquels l’appelant avait une procuration
+1 953 $
+______
+Revenu supplémentaire
+19 697 $
+5 196 $
+[7] Le ministre a également imposé des pénalités en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »).
+B. POINTS EN LITIGE
+[8] Les questions en litige sont les suivantes :
+a) L’appelant a‑t‑il sous‑évalué son revenu d’emploi net de 19 697 $ et de 5 196 $ pour les années d’imposition 2002 et 2003, respectivement, comme l’a établi le ministre?
+b) Le ministre a‑t‑il établi les pénalités à juste titre en application du paragraphe 163(2) de la Loi?
+C. ANALYSE ET DÉCISION
+I. Revenu tiré des rallonges de cheveux
+[9] L’appelant a indiqué dans son témoignage qu’il avait calculé le revenu qu’il avait tiré de la vente de rallonges de cheveux et que son comptable avait déclaré comme revenu le montant ainsi établi.
+[10] Pour établir les nouvelles cotisations, le vérificateur de l’Agence du revenu du Canada (l’« ARC ») a évalué combien de sacs de cheveux l’appelant avait achetés. Il avait été informé qu’il fallait deux sacs de cheveux pour produire une rallonge de cheveux. Il a par la suite calculé le nombre de rallonges de cheveux que l’appelant avait vendues, puis il a multiplié par 350 $ le nombre de rallonges produites par l’appelant afin de calculer le revenu tiré de cette activité. (Remarque : L’appelant a dit qu’il fallait parfois plus de deux sacs de cheveux pour produire une rallonge.)
+[11] Le vérificateur a conclu que l’appelant avait vendu des rallonges de cheveux à 40 personnes au coût de 350 $ chacune, ce qui représentait un revenu total de 40 x 350 $ ou bien de 14 000 $. (Remarque : L’appelant a dit qu’il n’avait exploité cette entreprise qu’en 2002.)
+[12] L’appelant a dit qu’il engageait des dépenses d’environ 200 $ pour chaque rallonge de cheveux produite afin de couvrir le coût des cheveux et divers autres coûts, et qu’il avait donc engagé des dépenses d’environ 8 000 $. L’appelant a dit qu’il avait déclaré un revenu de 6 200 $.
+II. Dépôts dans le compte bancaire personnel
+2002 2003
+10 446 $ 5 196 $
+[13] L’appelant a dit qu’en 2002 il avait essayé d’établir une entreprise dans le cadre de laquelle il prenait des photos de mannequins et envoyait les photos à divers magazines aux États‑Unis.
+[14] L’appelant a dit que si les magazines américains utilisaient les photos des mannequins, ils lui envoyaient un chèque. Par la suite, l’appelant déposait le chèque dans son compte bancaire et donnait la moitié du montant qu’il avait reçu au mannequin.
+[15] Le vérificateur a établi que, au cours de l’année d’imposition 2002, l’appelant avait déposé des chèques totalisant 10 446 $ dans son compte bancaire personnel.
+[16] Le vérificateur a établi que, au cours de l’année d’imposition 2003, l’appelant avait déposé 5 196 $ dans son compte bancaire personnel.
+III. Dépôts dans des comptes à l’égard desquels l’appelant avait une procuration
+[17] L’appelant a dit que lorsqu’il prenait des photos de mannequins, il demandait aux mannequins de signer une procuration afin de pouvoir déposer l’argent qu’il recevait des magazines américains dans son compte bancaire. L’appelant a dit que, selon l’entente qu’il avait avec les mannequins, il pouvait garder la première moitié du paiement qu’il recevait et envoyer l’autre moitié au mannequin. L’appelant a dit que les mannequins voyageaient souvent et qu’il devait souvent envoyer la moitié de l’argent à des mannequins qui travaillaient à l’extérieur de Winnipeg.
+______________________________
+______________________________
+[18] À mon avis, au paragraphe 38 de l’arrêt Hayes v. Canada, 2005 DTC 5373, le juge Rothstein (alors juge de la Cour d’appel fédérale) a formulé les commentaires suivants à juste titre au sujet du rôle d’un juge de la Cour de l’impôt :
+Le rôle traditionnel des tribunaux est de déterminer les faits et d’interpréter le droit, pour ensuite appliquer le droit aux faits. L’interprétation des lois doit être guidée par la maxime, souvent citée, énoncée par E.A. Driedger dans Construction of Statutes, 2e éd. 1983, à la page 87 :
+[traduction]
+Aujourd’hui il n’y a qu’un seul principe ou solution : il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur.
+[19] J’ai examiné attentivement la preuve dont j’ai été saisi, de même que les observations de l’appelant et de l’avocate de la Couronne, et j’ai tiré les conclusions suivantes :
+1. Revenu tiré des rallonges de cheveux – 7 298 $
+[20] Je ne suis pas convaincu que le vérificateur a calculé correctement le revenu que l’appelant a tiré de la fabrication et de la vente de rallonges de cheveux. Par exemple, le vérificateur ne semble pas avoir déterminé de façon appropriée les dépenses engagées par l’appelant pour l’achat de sacs de cheveux. Compte tenu du témoignage sous serment non contredit de l’appelant, j’accueillerai l’appel sur ce point.
+2. Dépôts dans le compte bancaire personnel 2002 – 10 446 $
+2003 – 5 196 $
+[21] L’appelant a dit qu’au cours des années visées, il n’avait pas gagné assez d’argent pour payer ses factures et que sa mère l’avait donc aidé financièrement. L’appelant a présenté en preuve des chèques totalisant 6 900 $ que sa mère lui avait remis (pièce A‑2). L’avocate de l’intimée a indiqué que, à l’exception d’un chèque de 750 $ de sa mère, aucun des dépôts effectués dans le compte bancaire de l’appelant ne correspondaient aux chèques que l’appelant avait reçus de sa mère. (Remarque : Pour l’établissement de la nouvelle cotisation, le vérificateur n’a pas inclus dans son revenu le chèque de 750 $ de sa mère.) L’appelant a indiqué qu’il avait utilisé bon nombre des chèques qu’il avait reçus de sa mère pour payer son propriétaire – l’hôtel Balmoral. L’appelant a également témoigné que certains des chèques déposés dans le compte bancaire provenaient de paiements qu’il avait reçus des magazines américains.
+[22] Compte tenu du témoignage de l’appelant, je ne suis pas convaincu que l’appelant s’est complètement acquitté du fardeau de prouver que le vérificateur avait tort. J’ai conclu que l’appelant est tenu d’inclure dans son revenu 50 % des montants établis par le vérificateur :
+Revenu supplémentaire
+2002 – 50 % de 10 446 $ ou 5 223 $ 5 223 $
+2003 – 50 % de 5 196 $ ou 2 598 $ 2 598 $
+[23] Pour arriver à cette conclusion, je constate que l’appelant a admis qu’il n’avait pas tenu de registres comptables appropriés. Je constate également que l’appelant a témoigné qu’il avait divers registres comptables dans son ordinateur, mais que son ordinateur était tombé en panne et qu’il avait perdu lesdits registres.
+3. Dépôts dans des comptes à l’égard desquels l’appelant avait une procuration – 1 953 $
+[24] Comme je l’ai mentionné ci‑dessus, l’appelant a dit qu’il avait donné aux mannequins la moitié des montants qu’il avait reçus des magazines américains. De plus, l’appelant a dit qu’il avait engagé des dépenses pour cette activité.
+[25] J’accepterai la preuve présentée par l’appelant sur ce point.
+[26] Comme je l’ai mentionné ci‑dessus, l’appelant a admis qu’il n’avait pas conservé les registres comptables et les reçus appropriés. J’ai conclu que les pénalités doivent être imposées en application du paragraphe 163(2) de la Loi concernant le revenu supplémentaire établi ci‑dessus.
+[27] L’appel est accueilli sans dépens, et le ministre doit effectuer les rajustements susmentionnés.
+Signé à Vancouver (Colombie‑Britannique), ce 10e jour de janvier 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 5e jour de juin 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2007CCI13
+NO DU DOSSIER :
+2006-903(IT)I
+INTITULÉ :
+Kimberley Todd Thibault c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Winnipeg (Manitoba)
+DATE DE L’AUDIENCE :
+Le 20 octobre 2006
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 10 janvier 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Ainslie Schroeder
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

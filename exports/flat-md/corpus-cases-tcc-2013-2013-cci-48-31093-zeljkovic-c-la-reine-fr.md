@@ -1,0 +1,252 @@
+---
+title: "Zeljkovic c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31093/index.do"
+last_modified: "2013-02-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 48"
+citation2: ""
+neutral_citation: "2013 CCI 48"
+decision_date: "2013-02-12"
+language: "fr"
+item_id: "31093"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4679
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:29:30.288000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f198a3fca3a1114f5cf15d8c6bd0c3fd71916499a581675f1c79a279f565580b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zeljkovic c. La Reine
+
+- Citation: 2013 CCI 48
+- Decision date: 2013-02-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4679, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zeljkovic c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-02-12
+Référence neutre
+2013 CCI 48
+Numéro de dossier
+2011-3996(IT)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3996(IT)I
+ENTRE :
+LJUPKO ZELJKOVIC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Sladjana Zeljkovic (2012-310(IT)I)
+les 29 et 30 novembre 2012, à Hamilton (Ontario).
+Devant : L’honorable juge suppléant Rommel G. Masse
+Comparutions :
+Représentant de l’appelant :
+M. Stevan Cenic
+Avocat de l’intimée :
+Me Tokunbo C. Omisade
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006 et 2007 sont rejetés, sans dépens.
+Signé à Montréal (Québec), ce 12e jour de février 2013.
+« Rommel G. Masse »
+Juge suppléant Masse
+Traduction certifiée conforme
+ce 27e jour de mars 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+Dossier : 2012-310(IT)I
+ENTRE :
+SLADJANA ZELJKOVIC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Ljupko Zeljkovic (2011-3996(IT)I)
+les 29 et 30 novembre 2012, à Hamilton (Ontario).
+Devant : L’honorable juge suppléant Rommel G. Masse
+Comparutions :
+Représentant de l’appelante :
+M. Stevan Cenic
+Avocat de l’intimée :
+Me Tokunbo C. Omisade
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006 et 2007 sont rejetés, sans dépens.
+Signé à Montréal (Québec), ce 12e jour de février 2013.
+« Rommel G. Masse »
+Juge suppléant Masse
+Traduction certifiée conforme
+ce 27e jour de mars 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2013 CCI 48
+Date : 20130212
+Dossier : 2011-3996(IT)I
+ENTRE :
+LJUPKO ZELJKOVIC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2012-310(IT)I
+SLADJANA ZELJKOVIC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+[1] Les présents appels ont été entendus ensemble à Hamilton, en Ontario, les 29 et 30 novembre 2012.
+[2] Les appelants interjettent appel de nouvelles cotisations de l’impôt sur le revenu pour leurs années d’imposition 2006 et 2007. Les nouvelles cotisations, datées du 11 octobre 2011 pour Ljupko Zeljkovic et du 8 novembre 2011 pour Sladjana Zeljkovic, concernent des revenus qui n’auraient pas été déclarés et des déductions de dépenses d’entreprise qui ont été refusées à l’égard de ces années‑là. Deux sociétés de personnes de camionnage sont en cause comme on le verra plus loin.
+[3] Au départ, il y avait un bon nombre d’éléments en litige entre les appelants et l’intimée. Toutefois, à l’issue de longues discussions qui ont eu lieu entre M. Cenic, le représentant des appelants, et Me Omisade, l’avocat de l’intimée, le nombre d’éléments en litige a été réduit à six. Cela a été très utile pour la Cour, et je remercie M. Cenic et Me Omisade pour l’esprit de collaboration dont ils ont fait preuve.
+Les dispositions applicables
+[4] Les dispositions applicables de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (la « Loi ») sont les suivantes :
+9(1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+[…]
+12(1) Sont à inclure dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien, au cours d’une année d’imposition, celles des sommes suivantes qui sont applicables :
+[…]
+x) un montant (à l’exclusion d’un montant prescrit) reçu par le contribuable au cours de l’année pendant qu’il tirait un revenu d’une entreprise ou d’un bien :
+(i) soit d’une personne ou d’une société de personnes (appelée « débiteur » au présent alinéa) qui paie le montant, selon le cas :
+(A) en vue de tirer un revenu d’une entreprise ou d’un bien,
+[…]
+(iv) soit à titre de remboursement, de contribution ou d’indemnité ou à titre d’aide, sous forme de prime, de subvention, de prêt à remboursement conditionnel, de déduction de l’impôt ou d’indemnité, ou sous toute autre forme, à l’égard, selon le cas :
+(A) d’une somme incluse dans le coût d’un bien ou déduite au titre de ce coût,
+(B) d’une dépense engagée ou effectuée,
+dans la mesure où le montant, selon le cas :
+(v) n’a pas déjà été inclus dans le calcul du revenu du contribuable ou déduit dans le calcul, pour l’application de la présente loi, d’un solde de dépenses ou autres montants non déduits, pour l’année ou pour une année d’imposition antérieure,
+[…].
+96(1) Lorsqu’un contribuable est un associé d’une société de personnes, son revenu […] pour une année d’imposition, ou son revenu imposable gagné au Canada pour une année d’imposition, selon le cas, est calculé comme si :
+a) la société de personnes était une personne distincte résidant au Canada;
+b) l’année d’imposition de la société de personnes correspondait à son exercice;
+c) chaque activité de la société de personnes (y compris une activité relative à la propriété de biens) était exercée par celle-ci en tant que personne distincte, et comme si était établi le montant :
+[…]
+(ii) de chaque revenu et perte de la société de personnes afférents à chacune des autres sources ou à des sources situées dans un endroit donné,
+pour chaque année d’imposition de la société de personnes;
+[…]
+230(1) Quiconque exploite une entreprise et quiconque est obligé, par ou selon la présente loi, de payer ou de percevoir des impôts ou autres montants doit tenir des registres et des livres de comptes (y compris un inventaire annuel, selon les modalités réglementaires) à son lieu d’affaires ou de résidence au Canada ou à tout autre lieu que le ministre peut désigner, dans la forme et renfermant les renseignements qui permettent d’établir le montant des impôts payables en vertu de la présente loi, ou des impôts ou autres sommes qui auraient dû être déduites, retenues ou perçues.
+Contexte factuel
+[5] Les appelants, Ljupko Zeljkovic (l’« époux »), et Sladjana Zeljkovic (l’« épouse ») sont mariés. L’époux est propriétaire à 50 % d’une société de personnes exploitant une entreprise de camionnage faisant affaire sous le nom de Red Star Trucking (la société « Red Star »). Il exploite cette entreprise avec un associé appelé Bogdan Jovicic. L’époux et l’épouse sont également associés d’une société de personnes qui exploite une autre entreprise de camionnage faisant affaire sous le nom de nom de S & B Trucking (qui tire son nom du prénom des deux enfants des appelants et est appelée ci‑après « S & B »). La participation de l’époux dans cette société de personnes est de 80 % et celle de l’épouse est de 20%.
+[6] Comme je l’ai déjà mentionné au début de l’audience, le représentant des appelants et l’avocat de l’intimée ont mené des discussions qui ont été très utiles et qui ont permis de réduire le nombre de points en litige. Il n’y a que six points en litige, et ceux‑ci sont énoncés et surlignés dans le tableau suivant :
+Red Star
+S & B
+Rajustement
+2006
+2007
+Part de l’époux (50 %)
+2006
+Part de l’époux (80 %)
+Part de l’épouse (20 %)
+Revenu non déclaré
+Dépenses surévaluées
+Essence
+Location
+8 749 $
+5 627 $
+6 623 $
+2 178 $
+7 686 $
+8 902 $
+3 117 $
+7 665 $
+2 494 $
+6 132 $
+623 $
+1 533 $
+Total
+24 376 $
+8 801 $
+16 588 $
+10 782 $
+8 626 $
+2 156 $
+[7] Il ne fait aucun doute que les appelants sont des gens honnêtes et très travailleurs qui font de leur mieux pour gagner leur vie dans un domaine exigeant et où la concurrence est très vive. Ils ont, en tout temps, fait preuve d’un grand esprit de collaboration à l’égard de l’Agence du revenu du Canada (l’« ARC ») durant le processus de vérification. Ils ont fait ce qu’ils ont pu pour fournir des documents à l’appui de leur prétention selon laquelle il n’y a pas de revenus qu’ils n’ont pas déclarés et qu’ils n’ont pas surévalué leurs dépenses. En l’espèce, c’est essentiellement le caractère suffisant des documents qu’ils ont fournis à l’ARC qui est en question. Ils ont fourni à la Cour une série de documents à l’appui de leurs arguments et ces documents ont été déposés sous les cotes A‑1 à A‑7. Il sera fait référence à ces documents lorsque cela sera nécessaire.
+[8] Mme Hongbo (Alice) Zhang est vérificatrice à l’ARC. C’est elle qui s’est occupée des nouvelles cotisations établies à l’égard des appelants. Elle s’est présentée à l’audience munie de tous ses documents de travail afin d’aider la Cour à comprendre comment elle était arrivée à ses conclusions. Ces documents de travail (pièce R‑2) sont très détaillés et démontrent qu’elle a fait une analyse très complète des documents financiers des appelants pour arriver aux conclusions qu’elle a tirées. Le témoignage de Mme Zhang, étayé par ses documents de travail, fournit une preuve très convaincante du bien‑fondé de la position de l’intimée.
+[9] J’examinerai la preuve de l’intimée relativement à chacune des sociétés de personnes.
+S & B
+1) Revenu non déclaré
+[10] Mme Zhang a procédé à une analyse des dépôts bancaires, analyse qui a permis de comparer les dépôts bancaires aux revenus que les appelants avaient déclarés. Elle a relevé deux dépôts bancaires : un dépôt de 1 488,14 $ effectué le 25 septembre 2006 et un autre dépôt de 1 831,47 $ effectué le 28 septembre 2006. Ces dépôts totalisaient 3 319,61 $. Lorsqu’elle a déduit de ce montant la taxe sur les produits et services (la « TPS ») qui y est associée, et il est resté une somme de 3 117 $, nette de TPS. Mme Zhang soutient que ce montant correspond à un revenu non déclaré. Lorsqu’elle a demandé aux appelants à quoi se rapportait ce montant, ils lui ont répondu qu’il s’agissait d’un remboursement des coûts supportés relativement à la garantie sur l’entretien du camion. Les appelants lui ont fourni un relevé provenant de la banque HSBC pour prouver le paiement effectué à la société Expressway Truck, située à Waterloo, concernant la facture no 112692 (pièce A‑2). Les appelants lui ont précisé qu’ils n’avaient jamais demandé la déduction du coût relatif à la garantie sur l’entretien à titre de dépense et que, par conséquent, ils ne devraient pas avoir à déclarer à titre de revenu le remboursement lié à la portion non expirée de la garantie. Toutefois, Mme Zhang a établi que la dépense concernant la garantie avait déjà été incluse dans les frais d’entretien ainsi que cela ressort du grand livre général des appelants, à l’écriture de journal no 78 (page 2, document de travail no 1001, onglet 9, pièce R‑2; élément 1, page 1, document de travail no 84, onglet 8, pièces R‑2 et R‑3). Mme Zhang a expliqué qu’elle a procédé ainsi parce que cette dépense avait été initialement passée en charge, et que tout remboursement devait donc être réintégré dans le revenu.
+2) Frais d’essence
+[11] En ce qui concerne les frais d’essence de 7 665 $, Mme Zhang a additionné les montants figurant sur tous les reçus pour essence (documents de base originaux) que les appelants avaient fournis, et le total était de 77 640,30 $. Toutefois, les appelants ont demandé une déduction de 85 305,29 $ pour frais d’essence – soit une différence de 7 664,99 $ (élément 2, document de travail no 7050, onglet 15, pièce R‑2). Les appelants ont ensuite fourni d’autres reçus à l’appui de leur demande de déduction (pièce A‑1 et élément 2, document de travail no 84, onglet 8, pièce R‑2). Mme Zhang a comparé a comparé ces reçus au carnet de route du camion pour savoir où se trouvait le camion au moment où l’essence avait été achetée et elle déterminé que le véhicule en question n’était pas à l’endroit où l’essence avait été achetée, mais qu’en réalité, il était aux États‑Unis ou hors service. Il ressort de l’examen du carnet de route du camion que l’heure et l’emplacement figurant sur les reçus d’essence ne correspondaient pas à l’heure et à l’emplacement consignés dans le carnet de route du camion. Par exemple, il est mentionné sur un reçu d’essence que l’essence avait été achetée à Milton, le 22 août 2006 à 22 h 25, alors que le camion se trouvait à ce moment‑là en Illinois, aux États‑Unis. Par conséquent, Mme Zhang a refusé le montant de 7 665 $ déduit pour frais d’essence, étant donné qu’il ne pouvait pas être confirmé au moyen des documents qui avaient été fournis. Elle n’était pas convaincue que les frais déduits concernaient S & B.
+Red Star
+1) Revenu non déclaré pour 2006
+[12] Pour l’année d’imposition 2006, Mme Zhang a établi que le montant de 8 749 $ était un revenu non déclaré. La part de l’époux relativement à ce montant est de 4 375 $. Là encore, Mme Zhang a effectué une analyse des dépôts bancaires afin de calculer ce montant. Les calculs qu’elle a effectués figurent dans le document de travail no 1001, onglet 9, pièce R‑2. Mme Zhang a vérifié chaque dépôt fait dans le compte d’affaires de Red Star et elle a trouvé un dépôt non identifié de 9 317,40 $, ou de 8 749 $, net de TPS. L’époux l’a avisée qu’il s’agissait d’un remboursement relatif à une garantie effectué par la Express Trucking Company. Elle a établi qu’en septembre 2006, l’entreprise avait retourné un vieux camion, parce que les frais de réparations et d’entretien pour ce camion étaient trop élevés. Les associés ont ensuite acquis un nouveau camion. Selon Mme Zhang, les paiements concernant la garantie étaient inclus dans les paiements de location mensuels concernant le vieux camion et ces paiements étaient alors déduits à titre de dépenses d’entreprise. Lorsque le vieux camion a été retourné pour être remplacé par un nouveau camion, la garantie n’était pas systématiquement transférable au nouveau camion, et la société de vente de camions avait alors remboursé le solde relatif à la garantie; ainsi, ce remboursement devrait être inclus dans le revenu. Le revenu non déclaré est donc de 8 749 $ et Mme Zhang a établi une cotisation à l’égard de ce montant en conséquence.
+2) Revenu non déclaré pour 2007
+[13] Le même genre d’analyse a été effectué pour 2007 et, là encore, l’analyse des dépôts bancaires a fait ressortir un revenu non déclaré de 6 623 $. Ce montant se rapportait à deux chèques reçus de la société de vente de camions pour des services de camionnage fournis par Red Star. Un chèque de 2 432,93 $ a été déposé le 4 avril 2007 et un autre chèque de paie de 4 190,09 $ a été déposé le 12 avril 2007. Ceci donne un montant total de 6 623,02 $. Ces deux dépôts n’ont pas été inclus dans le revenu. Des précisions à cet égard se trouvent à la page 6, du document de travail no 1001, onglet 9, pièce R‑2.
+3) Déductions pour 2006 concernant la location
+[14] Mme Zhang a ensuite précisé à la Cour la raison pour laquelle elle avait refusé la déduction de 15 627 $ (la part de l’époux étant de 7 814 $) au titre des paiements de location pour 2006. Les précisions à cet égard se trouvent aux pages 3 et 4 du document de travail no 7050, onglet 15 de la pièce R‑2. Il est également fait mention des renseignements figurant à la page 10 du document de travail no 84, onglet 8 de la pièce R‑2. Mme Zhang a effectué une analyse des relevés bancaires concernant les retraits. En 2006, Red Star a déduit 46 252,73 $ au titre des paiements de location. Selon Mme Zhang, le total des paiements de location effectués, nets de TPS, était de 30,626.10 $, et ce montant a été accepté comme étant une déduction faite à juste titre. Il subsistait donc un montant de 15 627 $ non étayé. Elle a expliqué qu’il y avait deux contrats de location pour l’année; un allant de janvier à août pour le premier camion (ce contrat a été résilié prématurément) et un autre allant d’août à décembre pour le second camion. En août 2006, Red Star a prématurément résilié le premier contrat de location et a conclu un autre contrat de location pour le second camion. Aucun paiement de location n’a été fait pour avril et pour août, toutefois, deux paiements ont été faits en mai (le paiement du 1er mai est attribué au mois d’avril). En outre, lorsque le vieux camion a été retourné, Red Star a obtenu un crédit de 11 330 $ au titre de la location, crédit qui n’a pas été inclus dans le revenu. Les appelants ont soutenu qu’ils avaient payé ce montant à titre de versement comptant, mais Mme Zhang n’a trouvé aucune preuve du décaissement de ce montant lors de la vérification qu’elle a effectuée. Elle a demandé aux appelants de fournir une preuve quelconque du fait qu’il y avait eu une sortie de fonds, mais les appelants n’ont présenté aucun élément de preuve satisfaisant justifiant qu’ils avaient réellement payé ce montant. En conclusion, les paiements de location ont été surévalués de 15 627 $.
+4) Déductions pour 2007 concernant la location
+[15] Pour l’année d’imposition 2007, Mme Zhang a refusé des déductions de 2 178 $ au titre des frais de location. Là encore, elle a effectué une analyse qui consistait à examiner les retraits bancaires et à les comparer aux paiements prétendument faits. Le total des paiements de location déduits s’élevait à 25 584,92 $; toutefois, un examen des documents bancaires a seulement pu confirmer le paiement de 23 406,96 $; il subsistait donc une différence de 2 178 $ dont la déduction a été refusée. Les précisions sur ce point figurent aux pages 8, 9 et 10 du document de travail no 7050, onglet‑15, pièce R‑2.
+L’analyse
+[16] La Cour suprême du Canada nous enseigne, dans l’arrêt Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, que le ministre se fonde sur des présomptions pour établir des cotisations et que la charge initiale de démolir les présomptions formulées par le ministre est imposée au contribuable. Le contribuable s’acquitte de cette charge initiale lorsqu’il présente une preuve prima facie qui démolit les présomptions du ministre. Enfin, lorsque le contribuable s’est acquitté de son fardeau de preuve initial, le fardeau de la preuve passe au ministre, qui doit alors réfuter la preuve prima facie faite par le contribuable et prouver les présomptions. Une preuve prima facie est établie, lorsque des éléments de preuve étayent l’existence d’un fait, et ce, jusqu’à preuve du contraire. Dans la décision Stewart c. Canada (Ministre du Revenu national – M.R.N.), [2000] A.C.I. no 53, le juge Cain a fait observer, au paragraphe 23, qu’ « Une preuve prima facie est celle qui est étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la cour doit l’accepter si elle y ajoute foi, à moins qu’elle ne soit contredite ou que le contraire ne soit prouvé. […] » Dans l’arrêt Voitures Orly Inc. c. Canada, 2005 CAF 425, [2005] A.C.I. no 2116, la Cour d’appel fédérale a fait les observations suivantes, au paragraphe 20 : « le fardeau de la preuve imposé au contribuable ne doit pas être renversé à la légère ou arbitrairement. […] » compte tenu du fait que « […] il s’agit de l’entreprise du contribuable. […] » La Cour a également précisé, dans le même arrêt, que c’est le contribuable qui « […] sait comment et pourquoi son entreprise fonctionne comme elle le fait et pas autrement. […] Il possède des renseignements qui sont à sa portée et sur lesquels il exerce un contrôle. […] »
+[17] Dans un régime fiscal fondé sur l’autocotisation comme celui du Canada, il incombe au contribuable de conserver des documents dans la forme et renfermant les renseignements qui permettent d’établir le revenu, les déductions et le montant des impôts payables. C’est ce que prescrit l’article 230 de la Loi. Lorsque l’ARC effectue une vérification à l’égard d’une entreprise, il appartient à cette entreprise de justifier auprès du vérificateur, et en fin de compte auprès de la Cour, le revenu gagné ainsi que toute déduction demandée à l’égard de ce revenu. Cela ne peut être fait que par la tenue de registres détaillés, y compris tous les documents de base, faisant état des revenus gagnés et des dépenses supportées. À cet égard, l’arrêt Njenga v. The Queen, 96 D.T.C. 6593, [1997] 2 C.T.C. 8 (C.A.F.) peut certainement être considéré comme une mise en garde. Dans cet arrêt, la contribuable cherchait à obtenir des déductions qui lui avaient été refusées au moment de l’établissement de nouvelles cotisations. Le juge de la Cour canadienne de l’impôt avait conclu que la contribuable devait être en mesure de produire des documents au soutien de ses prétentions. Il avait conclu que les reçus que la contribuable avait présentés « ne val[ai]ent pas cher » (au paragraphe 2). Le juge a également conclu que le témoignage de Mme Njenga n’était pas crédible et que celle‑ci était suffisamment au courant des exigences fiscales pour savoir qu’elle devait fournir des documents. Dans un bref jugement rendu oralement, le juge MacDonald a fait les observations suivantes, au paragraphe 3 :
+Le système fiscal est fondé sur l’autocontrôle. Il est d’intérêt public que la charge de prouver le fondement des déductions et des réclamations repose sur le contribuable. Le juge de la Cour de l’impôt a statué que les personnes comme la requérante doivent être en mesure de produire toutes les informations et justifications permettant d’appuyer les réclamations qu’elles font. Nous sommes d’accord avec cette conclusion. Mme Njenga, à titre de contribuable, a la responsabilité de justifier ses affaires personnelles d’une manière raisonnable. Des reçus écrits par elle-même et des allégations sans preuve ne sont pas suffisants.
+Par conséquent, lorsque le contribuable ne peut pas étayer, au moyen d’une preuve documentaire, le revenu gagné et les dépenses déduites de ce revenu, l’obligation fiscale du contribuable est établie en conséquence.
+[18] En l’espèce, les appelants n’ont pas fourni de preuve documentaire satisfaisante pour réfuter les conclusions tirées par Mme Zhang. Les conclusions concernant les revenus non déclarés et les déductions refusées n’ont pas été contestées avec succès au moyen d’une preuve documentaire convaincante et digne de foi. Les appelants ne se sont pas acquittés du fardeau de la preuve qui leur incombait.
+Conclusion
+[19] En conclusion, après avoir examiné tous les éléments de preuve et les principes qu’il convient d’appliquer, je ne suis pas convaincu que les appelants se sont acquittés du fardeau de la preuve qui leur incombait. Même si la preuve était suffisante pour permettre aux appelants de s’acquitter du fardeau de la preuve initial qui leur incombait, je conclurais alors que la preuve présentée par l’intimée est plus que suffisante pour étayer sa position.
+[20] Par conséquent, les deux appels sont rejetés.
+Signé à Montréal (Québec), ce 12e jour de février 2013.
+« Rommel G. Masse »
+Juge suppléant Masse
+Traduction certifiée conforme
+ce 27e jour de mars 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2013 CCI 48
+Nos DES DOSSIERS DE LA COUR : 2011-3996(IT)I
+2012-310(IT)I
+INTITULÉS : LJUPKO ZELJKOVIC c.
+SA MAJESTÉ LA REINE;
+SLADJANA ZELJKOVIC c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATES DE L’AUDIENCE : Les 29 et 30 novembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge suppléant Rommel G. Masse
+DATE DU JUGEMENT : Le 12 février 2013
+COMPARUTIONS :
+Représentant des appelants :
+M. Stevan Cenic
+Avocat de l’intimée :
+Me Tokunbo C. Omisade
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : s/o
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

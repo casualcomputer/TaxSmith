@@ -1,0 +1,166 @@
+Title: CanHorizon Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100766/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-19-100766-canhorizon-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2015-01-23
+
+# CanHorizon Inc. v. M.N.R.
+
+- Citation: 2015 TCC 19
+- Decision date: 2015-01-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2800, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CanHorizon Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-01-23
+Neutral citation
+2015 TCC 19
+File numbers
+2014-2087(EI)
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2014-2087(EI)
+BETWEEN:
+CANHORIZON INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+LIHUA ZHENG,
+Intervenor.
+Appeal heard on November 28, 2014, at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+Enming Wang
+Counsel for the Respondent:
+Tony Cheung
+Heather Thompson (student-at-law)
+For the Intervenor:
+The Intervenor herself
+JUDGMENT
+The appeal is dismissed, without costs, and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of January 2015.
+“Diane Campbell”
+Campbell J.
+Citation: 2015 TCC 19
+Date: 20150123
+Docket: 2014-2087(EI)
+BETWEEN:
+CANHORIZON INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+LIHUA ZHENG,
+Intervenor.
+REASONS FOR JUDGMENT
+Campbell J.
+Facts [1] This is an appeal of the decision of the Minister of National Revenue (the “Minister”) in which the ruling by the CPP/EI Rulings Officer was confirmed. That ruling determined that Lihua Zheng (the “Worker”) was not engaged in insurable employment with the Appellant because they were not dealing with each other at arm’s length within the meaning of paragraph 5(2)(i) of the Employment Insurance Act (the “Act”). The Minister concluded that the parties would not have entered into a substantially similar work relationship if they had been dealing with each other at arm’s length. The period under appeal is from December 1, 2012 to December 31, 2013.
+[2] The Appellant is an incorporated company engaged, since its inception on July 3, 2002, in the business of providing information technology consulting services by way of web-based training. The Worker’s husband, Enming Wang, is the sole shareholder of the corporation and he controlled all of the day-to-day corporate business activities and operations. The Worker and Mr. Wang married on May 13, 2011 and the Worker immigrated to Canada from China on May 1, 2012. Mr. Wang owned a property in Mississauga, Ontario, which was the couple’s personal residence as well as the business address and location of the Appellant company. It was from this same property that the Worker performed all of her work-related duties.
+[3] Prior to coming to Canada, the Worker owned and operated her own marketing technology business in China. She has two post-graduate degrees, one in chemical engineering and one in human resource management. The evidence suggested that the Worker had a broad range of contacts as a ‘head hunter’ in China, totalling 800,000 to 1 million names on her contact list. In 2012, the Appellant corporation pursued an additional business activity, which included the recruitment of Chinese students to Canadian colleges. Although the Respondent contended that the Appellant created the recruitment position specifically for the Worker upon her arrival in Canada, Mr. Wang, on behalf of the Appellant, argued that the company had been involved in preparatory work in this area prior to her arrival, as early as 2010. The Worker was hired, pursuant to a verbal agreement, to act as a student recruiter and liaison with Chinese students and their families. The Worker was provided some training and eventually she maintained the Appellant’s website, distributed promotional pamphlets and assisted Chinese students with applications.
+[4] The Appellant did not actively seek candidates to fill this position by conducting interviews or making job postings in the market. Mr. Wang testified that the company would be unable to attract qualified individuals to this position because they would not work the hours, that the Worker was required to put in, in order to accommodate the time difference between Canada and China. They were also unlikely to accept the same base salary that the Appellant paid the Worker. Any individual hired for the position would be required to speak fluent Chinese and to have an understanding of the unique requirements of Chinese students.
+[5] The evidence did not pinpoint the exact commencement date of the Worker’s employment. The best that can be gleaned from the testimony and the documentation was that it occurred sometime in either November or December of 2012. The Record of Employment (“ROE”) indicated that the Worker’s first day of work was December 1, 2012. However, Mr. Wang testified that he thought the date should have been November 1, 2012.
+[6] The Appellant owned the computer and cell phone that the Worker used in her work-related duties. The Appellant paid the costs related to the phone account as well as all necessary supplies.
+[7] All of the Worker’s duties were performed at the personal residence at Cambourne Crescent in Mississauga. She worked approximately 8 hours per day, for 40 hours weekly, but she determined which hours in her day she would work in order to complete her duties. No record was kept of those hours. However, the Respondent pointed out that, in correspondence dated March 1, 2014 from Mr. Wang to the Appeals Officer (Exhibit R-1, Tab 7), Mr. Wang clarified that although the Worker had agreed to a 40 hour work week, she sometimes put in more hours. Mr. Wang stated that the Worker was not required to work overtime and was not paid for those hours, except to the extent it could result in additional commissions if more students were recruited.
+[8] Although the Appeal Questionnaire (Exhibit R-1, Tab 6) listed the Worker’s daily hours as 7:00 a.m. to 10:00 a.m., 1:00 p.m. to 3:00 p.m. and 7:00 p.m. to 10:00 p.m., Mr. Wang testified that those hours were flexible in order to accommodate clients in China. For example, the Worker might be required to work until 2:00 a.m. but could start her duties later the following morning.
+[9] The Appellant paid the Worker a monthly base salary of $2,000. Mr. Wang testified that the Worker was to also receive 40 percent of any commission paid by the schools as a result of placements. Both Mr. Wang and the Worker stated that there was no documentation to support their agreement respecting the split of commissions and that, during the period under appeal, as well as up to the date of the hearing, the Worker had never received any payment in this regard. Neither the Appellant’s nor the Worker’s Questionnaire made any reference to this commission split. While the Respondent contended that the Worker was paid substantially less than education consultants were earning in the Toronto area, Mr. Wang testified that the Worker was not proficient in the English language and this would be a handicap to her earning the salary equivalent of an education consultant. In addition, he stated that it ignored their verbal agreement concerning the commission split. He stated that the company paid a low rate of pay because the business was new and the monthly base salary of $2,000 was all that the company could afford.
+[10] The Respondent assumed that the Worker’s pay was delayed occasionally due to the Appellant’s cash flow problems and that the Appellant’s financial position, at any given time, dictated that frequency and timing of the Worker’s payments. Mr. Wang agreed that the Worker’s salary was irregular and delayed on a few occasions due to cash flow problems and tight profit margins. He admitted that he was busy working on other projects and that, although he could have paid on time, he “… didn’t pay much attention to that.” (Transcript, page 17). Mr. Wang also stated that “Sometimes I am a little loose in writing cheques for her pay.” (Transcript, page 44). He admitted that he did not worry about delaying the Worker’s payments because she was his spouse. Mr. Wang testified that “If she was a different person, a stranger, then I would pay … I would not let another person wait for two months.” (Transcript, page 71).
+[11] Two ROEs were submitted into evidence (Exhibit R-1, Tabs 3 and 4). The commencement date on the first ROE was listed as December 1, 2012, with a termination date of January 31, 2013. The commencement date on the second ROE was listed as April 1, 2013. During the period between February and April, 2013, the Worker spent some time in China for a holiday. However, while in China, she attended an education fair in Shanghai on behalf of the Appellant, although the Appellant was not employing or paying for the Worker’s services.
+[12] Mr. Wang clarified that, although the employment insurance application and both ROEs indicated the vacation was from February 1 to March 31, it was in fact from March 1 to April 30. Both Mr. Wang and the Worker testified that, although she did some work for the Appellant attending the education fair and making some contacts, the trip was primarily a holiday.
+[13] The Worker was not paid for November, 2013. Mr. Wang could not provide any explanation for this and was uncertain whether the payments made to the Worker on January 29, 2014 and February 19, 2014 were for November, 2013 rather than for January, 2014. As noted in her ROE, the Worker’s last day of work was December 31, 2013. However, the evidence remained unclear as to whether she continued to work for the Appellant during January, 2014. The Respondent contended that she continued to work for the Appellant on a volunteer basis after the birth of her baby in February, 2014. The evidence supports that she had some involvement after her departure for maternity leave. Mr. Wang testified that, since she possessed the network of contacts in China, she still received communications from potential clients. They both testified that she would refer those individuals to Mr. Wang to complete the follow up.
+[14] No replacement was hired when the Worker left on her maternity leave because, according to Mr. Wang, he could not locate a qualified replacement. The Respondent contended that no qualified person would accept the employment on the same terms that the Worker had accepted. At another point in his testimony, Mr. Wang submitted that he did not hire a replacement because he no longer needed one as the Appellant now had all the contact information from the Worker.
+Issue [15] The issue is whether the Minister’s determination, that the Worker was not engaged in insurable employment because it was excluded pursuant to paragraph 5(2)(i), was reasonable. The Appellant bears the burden to establish, on a balance of probabilities, that the Minister’s determination cannot be substantiated in the circumstances of the appeal.
+Analysis [16] The applicable provisions of the Act provide that:
+5. (2) Excluded employment – Insurable employment does not include
+…
+(i) employment if the employer and employee are not dealing with each other at arm’s length
+5. (3) Arm’s length dealing – For the purposes of paragraph 2(i)
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[17] Section 251 of the Income Tax Act states the following concerning “related persons”:
+251. (1) Arm’s length – For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm’s length;
+…
+(2) Definition of “related persons” – For the purpose of this Act, “related persons”, or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or common-law partnership or adoption;
+(b) a corporation and
+(i) a person who controls the corporation, if it is controlled by one person,
+(ii) a person who is a member of a related group that controls the corporation, or
+(iii) any person related to a person described in subparagraph (1) or (ii); and
+…
+[18] The role of this Court in deciding appeals of this nature has been thoroughly reviewed and discussed in prior jurisprudence. At paragraphs 11 and 12 of my reasons in Porter v M.N.R., 2005 TCC 364, [2005] TCJ No. 266, I reviewed this Court’s decisions as well as those of the Federal Court of Appeal, particularly Légaré v Canada, [1999] FCJ No. 878. In that decision, at paragraph 4, Justice Marceau explained the test to be applied in reviewing the Minister’s determination under paragraph 5(3) as follows:
+… The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister’s so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was “satisfied” still seems reasonable.
+[19] In Birkland v M.N.R., 2005 TCC 291, [2005] TCJ No. 195, Justice Bowie summarized prior jurisprudence and concluded, at paragraph 4, that:
+… This Court’s role, as I understand it now, following these decisions, is to conduct a trial at which both parties may adduce evidence as to the terms upon which the Appellant was employed, evidence as to the terms upon which persons at arm’s length doing similar work were employed by the same employer, and evidence relevant to the conditions of employment prevailing in the industry for the same kind of work at the same time and place. Of course, there may also be evidence as to the relationship between the Appellant and her employer. In the light of all that evidence, and the judge’s view of the credibility of the witnesses, this Court must then assess whether the Minister, if he had had the benefit of all that evidence, could reasonably have failed to conclude that the employer and a person acting at arm’s length would have entered into a substantially similar contract of employment. That, as I understand it, is the degree of judicial deference that Parliament’s use of the expression “… if the Minister of National Revenue is satisfied …” in paragraph 5(3)(b) accords to the Minister’s opinion.
+[20] At paragraph 13 of my reasons in Porter, I summarized the role and function of the Court when hearing appeals of this nature as follows:
+[13] In summary, the function of this Court is to verify the existence and accuracy of the facts relied upon by the Minister, consider all of the facts in evidence before the Court, including any new facts, and to then assess whether the Minister’s decision still seems “reasonable” in light of findings of fact by this Court. This assessment should accord a certain measure of deference to the Minister.
+[21] There is no dispute that the Appellant and the Worker are related pursuant to section 251 of the Income Tax Act. The Appellant corporation, which is the Worker’s employer/payor, is wholly owned and controlled by her husband, Enming Wang. As such, the Appellant and Worker are deemed not to be dealing with each other at arm’s length. Paragraph 5(2)(i) excludes such work relationships from insurable employment unless the Minister deems that the parties are dealing with each other at arm’s length because, having regard to the circumstances of the employment, the Minister is satisfied that it would be reasonable to conclude that the parties would have entered into a substantially similar contract of employment had they been dealing with each other at arm’s length. In considering the circumstances of the employment, the Minister must consider the remuneration paid to the Worker, the terms and conditions of the employment relationship, its duration and the nature and importance of the work performed.
+[22] Applying the principles from the jurisprudence, the onus is upon the Appellant to establish new or additional facts that were either not before the Minister when the determination was made or that were before the Minister but were misunderstood.
+[23] After reviewing the factors that the Minister used in arriving at the determination respecting the Worker’s employment, as well as any new facts which the Appellant introduced at the hearing, I must conclude that the Minister’s determination was reasonable in the circumstances.
+[24] With regard to the Worker’s remuneration, it was admitted that the Worker was not paid on a regular basis because she was his spouse. This was due to cash flow problems in the company. Mr. Wang admitted that he would not have been able to withhold payment of salary if the Worker had not been his spouse. Mr. Wang also admitted that occasionally the Worker was not paid at all for some duties she performed both within and outside the period under appeal. The Worker was paid below market rates and certainly not in accordance with her skills and experience. Although the Appellant contended that commission payments would boost her base salary, there was no evidence before me, except the oral testimony, to support any obligation on the part of the Appellant to pay a portion of commission receipts to the Worker. In addition, as of the date of the hearing, the Worker had never been in receipt of any such payment.
+[25] With respect to the terms and conditions of the Worker’s employment, she worked irregular hours, which were possible because she worked out of their personal residence. She did not track her hours nor did she receive overtime or any other form of compensation for additional hours that she worked.
+[26] With respect to the nature and importance of the work, although Mr. Wang argued that the company embarked on the new business activity of student recruitment prior to the Worker’s arrival in Canada, there was nothing in the documentation to support this contention. The evidence suggests that the company was financially unable to support such a venture based on the admission of cash flow problems, irregular pay and below-market pay rate. This leads to an inference that the position was introduced to provide employment to the Worker upon her arrival in Canada, as the Respondent contended. In addition, the Appellant was unable to hire a replacement worker when Ms. Zheng left on maternity leave. Mr. Wang indicated that no one, other than his spouse, would be willing to accept similar terms of employment.
+Conclusion [27] The Appellant did not introduce any new facts that were not before the Minister when the determination was made, nor is there any evidence that would support my interference with the Minister’s finding based on a misunderstanding by the Minister of the facts on which the determination was based. Consequently, based on all of the evidence that was before me, I have not been persuaded that the Minister’s decision was unreasonable. There is nothing to warrant any conclusion to the contrary.
+[28] The appeal is dismissed, without costs, because I am satisfied that the Minister’s conclusion, that the parties would not have entered into a substantially similar contract of employment had they been dealing at arm’s length, was reasonable.
+[29] I have some brief comments to make respecting arguments made by Mr. Tony Cheung during the final submissions. The Respondent’s case was conducted by Heather Thompson, a student-at-law with the Department of Justice. However, Mr. Cheung addressed the Worker’s status as an employee at the outset of final submissions by Ms. Thompson.
+[30] At paragraph 20 of the Reply to the Notice of Appeal, the Respondent stated the following:
+He [the Minister] submits that there was no dispute regarding the issue of whether the Worker was employed under a contract of service with the Appellant, within the meaning of paragraph 5(1)(a) of the EIA, during the Period. Both parties agree, for the purpose of this appeal, that the Worker was engaged under a contract of service with the Appellant during the Period.
+[31] This is clearly an admission made by the Respondent and contained within the pleadings. In addition, at page 25 of the transcript, Ms. Thompson referred to this admission in the following remarks:
+MS. THOMPSON: Your honour, whether or not she was an employee is not in dispute by the Minister. This is irrelevant.
+In making this remark, Ms. Thompson was likely, and rightly so, relying on the contents of the Reply. However, at page 107 of the transcript, after Mr. Cheung’s submissions, she appeared to back away from her prior statement:
+MS. THOMPSON: … There is perhaps an issue as to whether she was an employee …
+As a student-at-law given the task of conducting the case, Ms. Thompson no doubt felt compelled to follow her principal’s confusing and clearly erroneous shift in tactics and approach to the appeal.
+[32] Mr. Cheung suggested that there were three possible outcomes with respect to this hearing:
+(a) the appeal is dismissed on the basis that the Minister’s determination was reasonable, in which case there is no need for a trial de novo;
+(b) the appeal is allowed on the basis that the Worker and the Appellant would have entered into a substantially similar contract if they had been dealing at arm’s length and therefore she was engaged in insurable employment; or
+(c) it is determined that the Worker was an independent contractor and not an employee.
+[33] My conclusion in this appeal, to dismiss the matter based on the facts known to the Minister in making the determination as well as the evidence presented in Court, did not require that I advance to a second stage inquiry. However, if I had reached a different conclusion in the first step, I would have been bound by the admission made by the Respondent in its pleadings as well as in this Court. In fact, the Reply, at paragraph 20, not only contains an admission but also references an agreement between the parties concerning the status of the Worker as an employee (and not therefore an independent contractor). Mr. Cheung suggested that, if I concluded that the Minister’s decision was unreasonable given the circumstances, I would then have to either continue the matter in court at a later date to hear submissions, on the issue of whether the Worker was an employee or an independent contractor, or solicit submissions from the parties in writing or by telephone on this issue. Basically, Mr. Cheung was suggesting that I reopen the hearing in some manner. He referred to the decision by Justice Woods in Khaila v M.N.R., 2013 TCC 370, [2013] TCJ No. 325, in support of his submission that there was no guidance on how to approach the trial de novo issue.
+[34] Although some cases have suggested a contrary approach, as noted by Justice Woods in Khaila, she followed Justice Bowie’s decision in Birkland. I refer counsel to my recent decision in Payne v M.N.R., 2014 TCC 178, [2014] TCJ No. 132, in which I discussed this very issue, including the decision in Khaila, and reiterated the approach I have adopted, as well as many other judges, in such cases. Even without the Respondent’s admission respecting the employee status, Mr. Cheung’s approach would potentially lead to an absurd result where parties could be required to re-attend court to reopen the matter at some point in the future before the Judge that is seized with the appeal, rather than continuing to the second step analysis forthwith based on all of the evidence before the presiding Judge.
+[35] There was no motion to amend the Reply. There was never any indication during the course of the proceedings, until the submissions stage, that the Worker’s status as an employee was at issue. The sole issue was whether the Worker and the Appellant would have entered into a substantially similar contract had they been dealing at arm’s length, such that the Worker was engaged in insurable employment. Counsel cannot allow pleadings into court containing admissions and references to agreements on what is potentially an issue in employment insurance cases and then decide toward the end of the hearing that they have had a change of heart and that somehow they are entitled to change that approach. This is particularly distasteful when the Appellant is self‑represented. It is a departure from common sense that goes against the grain of what is procedurally fair and just.
+Signed at Ottawa, Canada, this 23rd day of January 2015.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2015 TCC 19
+COURT FILE NO.:
+2014-2087(EI)
+STYLE OF CAUSE:
+CANHORIZON INC. and M.N.R. and LIHUA ZHENG
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 28, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+January 23, 2015
+APPEARANCES:
+Agent for the Appellant:
+Enming Wang
+Counsel for the Respondent:
+Tony Cheung
+Heather Thompson (student-at-law)
+For the Intervenor:
+The Intervenor herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

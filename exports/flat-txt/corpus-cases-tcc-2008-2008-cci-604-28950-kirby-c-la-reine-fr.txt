@@ -1,0 +1,121 @@
+Title: Kirby c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28950/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-604-28950-kirby-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-11-05
+
+# Kirby c. La Reine
+
+- Citation: 2008 CCI 604
+- Decision date: 2008-11-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1390, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kirby c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-05
+Référence neutre
+2008 CCI 604
+Numéro de dossier
+2007-4903(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2007-4903(IT)I
+2007-4904(GST)I
+ENTRE :
+JOHN KIRBY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à London (Ontario) le 21 octobre 2008.
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelant :
+Me Paul Golian (stagiaire en droit)
+Avocate de l’intimée :
+Me Suzanie Chua
+____________________________________________________________________
+JUGEMENT L’appel concernant les cotisations fondées sur la responsabilité des administrateurs établies en vertu de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise est accueilli, et les cotisations sont annulées. L’appelant a droit aux dépens conformément au tarif.
+Signé à Toronto (Ontario), ce 5e jour de novembre 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 29e jour de décembre 2008.
+Sara Tasset
+Référence : 2008CCI604
+Date : 20081105
+Dossiers : 2007-4903(IT)I
+2007-4904(GST)I
+ENTRE :
+JOHN KIRBY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 30 octobre 2008.)
+Juge Woods
+[1] Qu’il soit consigné au dossier que les présents motifs sont rendus oralement dans l’affaire John Kirby et Sa Majesté la Reine.
+[2] John Kirby est un avocat qui exerce le droit à Sarnia (Ontario), et il a interjeté appel de deux cotisations fondées sur la responsabilité des administrateurs établies à son égard, soit l’une pour des retenues à la source d’impôt sur le revenu s’élevant à 6 332,91 $ et l’autre pour des versements de TPS s’élevant à 9 545,84 $.
+[3] Les appels ont été entendus sous le régime de la procédure informelle de la Cour, et M. Kirby, qui a témoigné pour son propre compte, était représenté par Paul Golian, stagiaire en droit au cabinet de M. Kirby.
+[4] Je me pencherai à présent sur le contexte factuel.
+[5] Les cotisations ont été établies à l’égard de M. Kirby parce qu’il était un administrateur de la société 811349 Ontario Limited. En fait, il était l’unique administrateur et l’unique actionnaire de la société, que j’appellerai ci-après 811.
+[6] 811 a été constituée en société le 27 janvier 1989. Je ne crois pas ce que fait soit très important, mais je le mentionne parce qu’il contredit l’hypothèse énoncée dans la réponse à l’avis d’appel, selon laquelle 811 aurait été constituée en société en 1996. Je fonde cette conclusion de fait voulant que l’année de la constitution en société soit 1989 sur la pièce R-1 déposée par la Couronne.
+[7] Je passe maintenant à des faits plus pertinents. Les arrangements qui nous intéressent ont commencé en 1992. Cette année-là, M. Kirby a conclu une entente verbale avec M. Lee Zeytinoglu en vue de l’exploitation conjointe d’une salle de bingo exploitée au profit d’organismes de bienfaisance à Sarnia. Il semble que M. Zeytinoglu est un homme d’affaires bien établi à Sarnia.
+[8] Selon l’entente, qui n’a jamais été mise par écrit, une société dont M. Zeytinoglu était propriétaire devait être propriétaire de la salle de bingo et la louer à une société de personnes qui exploiterait l’entreprise. La société de personnes comptait deux associés, à savoir M. Zeytinoglu et 911833 Ontario Limited. La société à numéro, ci-après appelée 911, a été constituée en société par M. Kirby pour détenir sa participation dans la société de personnes, et M. Kirby était l’unique actionnaire de 911.
+[9] Toujours dans le cadre de l’entente, la société de personnes a fait appel à 811 pour gérer l’entreprise pour le compte des associés.
+[10] Dans le cadre ses fonctions de gestion, 811 a obtenu une licence d’exploitation de jeux de hasard, a engagé des employés et a inscrit l’entreprise aux fins de la TPS et des retenues à la source.
+[11] La société de personnes, gérée par 811, a exploité la salle de bingo pendant une dizaine d’années, et, à l’automne 2004, M. Kirby a décidé de se retirer de l’entreprise en raison des difficultés entraînées par une nouvelle loi anti-tabac.
+[12] M. Kirby n’étant pas parvenu à une entente satisfaisante avec M. Zeytinoglu dans des délais raisonnables concernant son retrait de l’entreprise, il a, en décembre 2004, unilatéralement mis fin aux activités de l’entreprise après avoir donné un préavis à son associé.
+[13] Peu après, M. Zeytinoglu a décidé de reprendre l’entreprise, et il semblerait qu’il en est toujours propriétaire à ce jour.
+[14] Il n’est pas contesté qu’il y a des retenues à la source et des versements de TPS impayés en ce qui concerne l’exploitation de la salle de bingo. Le litige porte essentiellement sur les mesures prises par le ministre pour établir une cotisation à l’égard de 811 pour ces retenues et versements impayés plutôt que d’établir une cotisation à l’égard des associés qui étaient propriétaires de l’entreprise.
+[15] Si les associés étaient responsables des retenues d’impôt à la source, comme M. Kirby le prétend dans son avis d’appel, alors M. Kirby partagerait la responsabilité éventuelle avec M. Zeytinoglu. Si, par contre, 811 était responsable des retenues et versements, comme la Couronne le prétend, alors M. Kirby, en tant qu’administrateur de 811, pourrait être la seule personne tenue responsable.
+[16] Malheureusement, il y a très peu d’éléments de preuve sur lesquels je peux me fonder pour déterminer si le ministre a eu raison d’établir une cotisation à l’égard de 811 pour le défaut d’effectuer les retenues d’impôt et les versements de TPS. Même si les nouvelles cotisations établies à l’égard de 811 sont réputées exactes, la jurisprudence donne à penser que M. Kirby peut les contester dans son appel concernant sa responsabilité à titre d’administrateur.
+[17] L’impression que j’ai eue à l’audience est que la Couronne ne s’est pas concentrée sur cette question et que l’appelant n’a pas traité de la question en détail dans la preuve parce qu’il ne comprenait pas le fondement de la cotisation établie à l’égard de 811.
+[18] Le problème que pose le présent appel est que les réponses ne donnent pas le fondement factuel selon lequel il a été déterminé que 811 était responsable des retenues et des versements. Il était important que M. Kirby ait cette information dans les réponses pour qu’il puisse fournir des éléments de preuve pertinents à savoir qui, de 811 ou des associés, était responsable. Il était particulièrement important que les réponses donnent cette précision, vu que M. Kirby avait dit dans son avis d’appel que les associés devraient être tenus principalement responsables des retenues et versements.
+[19] Dans les circonstances, la Couronne devrait avoir le fardeau d’établir les faits qui étayent les cotisations établies à l’égard de 811. Le principe juridique qui devrait être appliqué est énoncé dans l’arrêt Roll c. La Reine de la Cour d’appel fédérale. Essentiellement, il faut déterminer si 811 avait le pouvoir de faire les retenues et les versements. La preuve n’établit pas que 811 avait effectivement ce pouvoir. Au contraire, certains éléments de preuve fournis par M. Kirby indiquent que M. Zeytinoglu devait signer tous les chèques. Je conclurais que la Couronne ne s’est pas déchargée de son fardeau et que les cotisations doivent être annulées pour ce motif.
+[20] Avant de terminer, j’aimerais mentionner brièvement une autre question de procédure.
+[21] Les réponses de la Couronne ont été déposées plusieurs mois en retard, et, dans ce cas-ci, la Couronne a le fardeau de réfuter les faits allégués dans l’avis d’appel. Aucune des parties n’était au courant de cette inversion du fardeau de la preuve jusqu’à ce que je soulève la question à l’audience. Ce n’était pas une situation idéale vu que l’appelant s’était sans doute préparé en pensant qu’il avait le fardeau de la preuve. Quoi qu’il en soit, il n’a pas été nécessaire que je me penche sur la question de savoir si la Couronne s’était déchargée de son fardeau de façon satisfaisante parce que j’ai conclu que les cotisations devaient être annulées pour d’autres motifs.
+[22] Par conséquent, les appels seront accueillis et les cotisations seront annulées. L’appelant a droit à ses dépens conformément au tarif.
+Signé à Toronto (Ontario) ce 5e jour de novembre 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 29e jour de décembre 2008.
+Sara Tasset
+RÉFÉRENCE : 2008CCI604
+NOS DES DOSSIERS : 2007-4903(IT)I
+2007-4904(GST)I
+INTITULÉ : JOHN KIRBY ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 21 octobre 2008
+MOTIFS DU JUGEMENT : L’honorable juge J. Woods
+DATE DU JUGEMENT : Le 5 novembre 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Paul Golian (stagiaire en droit)
+Avocate de l’intimée :
+Me Suzanie Chua
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Paul Golian (stagiaire en droit)
+Cabinet : D. John Kirby
+Sarnia (Ontario)
+Pour l’appelant : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

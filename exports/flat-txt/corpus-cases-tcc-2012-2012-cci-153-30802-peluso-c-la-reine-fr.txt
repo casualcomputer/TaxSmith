@@ -1,0 +1,414 @@
+Title: Peluso c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30802/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-153-30802-peluso-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-05-11
+
+# Peluso c. La Reine
+
+- Citation: 2012 CCI 153
+- Decision date: 2012-05-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7546, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peluso c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-05-11
+Référence neutre
+2012 CCI 153
+Numéro de dossier
+2010-1013(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1013(IT)G
+ENTRE :
+ROBERT PELUSO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Joanne Peluso (2010‑1016(IT)G), 9136‑9702 Québec Inc. (2010‑1017(IT)G), Gestion Jonquière 412 Inc. (2010‑1042(IT)G), Rosanne Beraznik (2010‑1044(IT)G), Rosemary Peluso (2010‑1046(IT)G), et Hyman Beraznik (2010‑1047(IT)G),
+les 11 et 12 avril 2012, à Montréal (Québec).
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Avocat de l'appelant :
+Me Marc-Antoine Deschamps
+Avocat de l'intimée :
+Me Pascal Tétrault
+________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies à l'égard des années d'imposition 2005 et 2006 sont rejetés, avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Montréal (Québec), ce 11e jour de mai 2012.
+« Gaston Jorré »
+Le juge Jorré
+Traduction certifiée conforme
+ce 17e jour de septembre 2012.
+Yves Bellefeuille, réviseur
+Dossier : 2010-1016(IT)G
+ENTRE :
+JOANNE PELUSO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Robert Peluso (2010‑1013(IT)G), 9136‑9702 Québec Inc. (2010‑1017(IT)G), Gestion Jonquière 412 Inc. (2010‑1042(IT)G), Rosanne Beraznik (2010‑1044(IT)G), Rosemary Peluso (2010‑1046(IT)G), et Hyman Beraznik (2010‑1047(IT)G),
+les 11 et 12 avril 2012, à Montréal (Québec).
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Avocat de l'appelante :
+Me Marc-Antoine Deschamps
+Avocat de l'intimée :
+Me Pascal Tétrault
+________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies à l'égard des années d'imposition 2005 et 2006 sont rejetés, avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Montréal (Québec), ce 11e jour de mai 2012.
+« Gaston Jorré »
+Le juge Jorré
+Traduction certifiée conforme
+ce 17e jour de septembre 2012.
+Yves Bellefeuille, réviseur
+Dossier : 2010-1017(IT)G
+ENTRE :
+9136-9702 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Robert Peluso (2010‑1013(IT)G), Joanne Peluso (2010‑1016(IT)G), Gestion Jonquière 412 Inc. (2010‑1042(IT)G), Rosanne Beraznik (2010‑1044(IT)G), Rosemary Peluso (2010‑1046(IT)G), et Hyman Beraznik (2010‑1047(IT)G),
+les 11 et 12 avril 2012, à Montréal (Québec).
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Avocat de l'appelante :
+Me Marc-Antoine Deschamps
+Avocat de l'intimée :
+Me Pascal Tétrault
+________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies à l'égard des années d'imposition 2005 et 2006 sont rejetés, avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 11e jour de mai 2012.
+« Gaston Jorré »
+Le juge Jorré
+Traduction certifiée conforme
+ce 17e jour de septembre 2012.
+Yves Bellefeuille, réviseur
+Dossier : 2010-1042(IT)G
+ENTRE :
+GESTION JONQUIÈRE 412 INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Robert Peluso (2010‑1013(IT)G), Joanne Peluso (2010‑1016(IT)G), 9136‑9702 Québec Inc. (2010‑1017(IT)G), Rosanne Beraznik (2010‑1044(IT)G), Rosemary Peluso (2010‑1046(IT)G), et Hyman Beraznik (2010‑1047(IT)G),
+les 11 et 12 avril 2012, à Montréal (Québec).
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Avocat de l'appelante :
+Me Marc-Antoine Deschamps
+Avocat de l'intimée :
+Me Pascal Tétrault
+________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies à l'égard des années d'imposition 2006 et 2007 sont rejetés, avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 11e jour de mai 2012.
+« Gaston Jorré »
+Le juge Jorré
+Traduction certifiée conforme
+ce 17e jour de septembre 2012.
+Yves Bellefeuille, réviseur
+Dossier : 2010-1044(IT)G
+ENTRE :
+ROSANNE BERAZNIK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Robert Peluso (2010‑1013(IT)G), Joanne Peluso (2010‑1016(IT)G), 9136‑9702 Québec Inc. (2010‑1017(IT)G), Gestion Jonquière 412 Inc. (2010‑1042(IT)G), Rosemary Peluso (2010‑1046(IT)G), et Hyman Beraznik (2010‑1047(IT)G),
+les 11 et 12 avril 2012, à Montréal (Québec).
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Avocat de l'appelante :
+Me Marc-Antoine Deschamps
+Avocat de l'intimée :
+Me Pascal Tétrault
+________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies à l'égard des années d'imposition 2005 et 2006 sont rejetés, avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 11e jour de mai 2012.
+« Gaston Jorré »
+Le juge Jorré
+Traduction certifiée conforme
+ce 17e jour de septembre 2012.
+Yves Bellefeuille, réviseur
+Dossier : 2010-1046(IT)G
+ENTRE :
+ROSEMARY PELUSO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Robert Peluso (2010‑1013(IT)G), Joanne Peluso (2010‑1016(IT)G), 9136‑9702 Québec Inc. (2010‑1017(IT)G), Gestion Jonquière 412 Inc. (2010‑1042(IT)G), Rosanne Beraznik (2010‑1044(IT)G), et Hyman Beraznik (2010‑1047(IT)G),
+les 11 et 12 avril 2012, à Montréal (Québec).
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Avocat de l'appelante :
+Me Marc-Antoine Deschamps
+Avocat de l'intimée :
+Me Pascal Tétrault
+________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies à l'égard des années d'imposition 2005 et 2006 sont rejetés, avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 11e jour de mai 2012.
+« Gaston Jorré »
+Le juge Jorré
+Traduction certifiée conforme
+ce 17e jour de septembre 2012.
+Yves Bellefeuille, réviseur
+Dossier : 2010-1047(IT)G
+ENTRE :
+HYMAN BERAZNIK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Robert Peluso (2010‑1013(IT)G), Joanne Peluso (2010‑1016(IT)G), 9136‑9702 Québec Inc. (2010‑1017(IT)G), Gestion Jonquière 412 Inc. (2010‑1042(IT)G), Rosanne Beraznik (2010‑1044(IT)G), et Rosemary Peluso (2010‑1046(IT)G),
+les 11 et 12 avril 2012, à Montréal (Québec).
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Avocat de l'appelant :
+Me Marc-Antoine Deschamps
+Avocat de l'intimée :
+Me Pascal Tétrault
+________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies à l'égard des années d'imposition 2005 et 2006 sont rejetés, avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 11e jour de mai 2012.
+« Gaston Jorré »
+Le juge Jorré
+Traduction certifiée conforme
+ce 17e jour de septembre 2012.
+Yves Bellefeuille, réviseur
+Référence : 2012 CCI 153
+Date : 20120511
+Dossier : 2010-1013(IT)G
+ENTRE :
+ROBERT PELUSO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-1016(IT)G
+ET ENTRE :
+JOANNE PELUSO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-1017(IT)G
+ET ENTRE :
+9136-9702 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-1042(IT)G
+ET ENTRE :
+GESTION JONQUIÈRE 412 INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-1044(IT)G
+ET ENTRE :
+ROSANNE BERAZNIK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-1046(IT)G
+ET ENTRE :
+ROSEMARY PELUSO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-1047(IT)G
+ET ENTRE :
+HYMAN BERAZNIK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] Il s'agit ici de savoir si certaines parcelles de terrain détenues par deux sociétés en commandite ont été converties de biens en stock à des biens en immobilisation, donnant ainsi lieu à des gains en capital plutôt qu'à un revenu au moment de leur disposition, au cours des années d'imposition 2005 et 2006[1].
+Quel changement d'affectation a pour effet de convertir un bien en stock en un bien dont la disposition donne lieu à un gain en capital?
+[2] Il est utile au départ d'énoncer les types de biens qui peuvent donner lieu à un gain en capital. D'une façon générale, il y a trois types de biens dont la disposition donne lieu à un gain en capital[2] :
+1. Un placement, par exemple un centre commercial qui est détenu à titre de placement à long terme pour en tirer un revenu;
+2. Une immobilisation appartenant à une entreprise, par exemple l'usine d'un fabricant de voitures et le bien-fonds sur lequel l'usine est située;
+3. Dans le cas d'un particulier, un bien que celui‑ci détient pour son usage personnel, comme un chalet.
+[3] Par conséquent, les dispositions des biens-fonds en cause donneront lieu à un gain en capital s'il est démontré que ces biens-fonds ont manifestement été convertis de biens en stock à un usage donnant lieu à un gain en capital.
+[4] Un tel changement exige « une initiative claire et sans équivoque témoignant » du changement[3].
+Les faits
+[5] La première société en commandite en cause est la Meander Limited Partnership. Les ventes de biens-fonds de Meander touchent tous les appelants.
+[6] La seconde société en commandite en cause est la JR Investments Limited Partnership. Les ventes de biens‑fonds de JR touchent uniquement Joanne Peluso et Rosanne Beraznik.
+[7] Les appelants ont cité comme témoins M. Steven Taylor, un constructeur qui traitait avec Meander, et M. Hyman Beraznik; l'intimée a cité M. Jean‑Guy Boilard, responsable de la gestion quotidienne de l'aménagement des biens-fonds de Meander.
+[8] À une exception près, la preuve n'est pas réellement controversée. Cette exception, qui se rapporte au moment où une décision a été prise, n'influe pas sur le résultat. Par conséquent, j'énoncerai simplement les faits sans examiner la preuve.
+[9] Il n'est pas contesté que les biens‑fonds en question ont tous été initialement acquis à titre de biens en stock.
+[10] La société Cliffton Group Inc. gérait les deux sociétés en commandite.
+[11] La société Cliffton exerce ses activités depuis une trentaine d'années; elle s'occupe principalement de l'acquisition et de la gestion d'immeubles commerciaux produisant un revenu à titre de placement à long terme. La propriété des immeubles est détenue par l'intermédiaire d'autres entités juridiques, la société Cliffton assurant la gestion des immeubles; les autres entités versent des frais de gestion à la société Cliffton, dont le siège social est situé à Montréal.
+[12] Les immeubles sont principalement des centres commerciaux, quoiqu'ils aient également compris des immeubles industriels et des locaux à bureaux.
+[13] Monsieur Hyman Beraznik et Mme Joanne Peluso gèrent conjointement la société Cliffton. M. Beraznik était le principal responsable du financement et de l'acquisition des immeubles. Ces deux personnes possèdent des dizaines d'années d'expérience dans ce domaine.
+[14] Au cours de son existence, la société Cliffton ne s'est occupée de l'acquisition et de l'aménagement de biens-fonds en vue de les revendre que dans trois cas.
+[15] Le premier bien‑fonds était situé à Laval (Québec). Le deuxième était celui qui était détenu par la société en commandite JR Investments, dans l'arrondissement Charlesbourg, à Québec. Le troisième était détenu par la société en commandite Meander dans l'arrondissement Les Rivières, à Québec.
+[16] Les deux premiers projets se rapportaient aux activités de location de centres commerciaux de la société Cliffton. Dans les deux cas, les biens-fonds étaient adjacents à un centre commercial appartenant à la société Cliffton ou situés près d'un centre commercial appartenant à cette société; la société voulait aménager les biens‑fonds de façon que des quartiers résidentiels soient créés près de ses centres commerciaux, ce qui aurait pour effet d'augmenter les ventes aux centres commerciaux ainsi que leur rentabilité.
+La société en commandite Meander[4]
+[17] Dans le cas de Meander, il n'y avait pas de lien avec les centres commerciaux. Lorsque le projet de JR était sur le point d'achever, M. Jean‑Guy Boilard, qui avait géré ce projet, a proposé le projet Meander à la société Cliffton.
+[18] La société Cliffton a finalement décidé d'acheter les biens‑fonds pour le compte d'une entité devant être constituée. La propriété a été transférée à la société en commandite Meander.
+[19] On avait l'intention d'aménager les biens‑fonds qui avaient été achetés en les raccordant aux services publics et en vendant des lots à des constructeurs. La chose devait être accomplie en plusieurs phases.
+[20] Il ressort fort clairement des témoignages des trois témoins qu'il a été très difficile de procéder à la première phase et de livrer aux constructeurs des lots avec services publics aux dates stipulées dans les contrats.
+[21] Les difficultés découlaient en bonne partie de la décision de la ville d'exiger que tous les câbles soient enfouis. Il s'agissait d'une nouvelle exigence.
+[22] Lorsque l'on a communiqué avec Hydro‑Québec, la société a fait savoir qu'elle n'avait pas installé de câbles souterrains depuis plusieurs années et qu'elle ne pouvait pas exécuter ces travaux dans le délai requis.
+[23] Les frais d'aménagement étaient donc beaucoup plus élevés que ce qui avait été prévu, ce qui a suscité un grand nombre de difficultés et beaucoup de stress. Ainsi, il fallait parfois louer des génératrices; il a fallu installer, à grands frais, des câbles électriques extérieurs temporaires; certains propriétaires ont été obligés d'emménager sans avoir d'électricité, et d'autres, sans avoir de ligne téléphonique; certains acheteurs ont également été obligés de rester à l'hôtel pendant un certain temps.
+[24] Bref, les bénéfices ne représentaient que le quart environ de ce qui avait été prévu, et ce, sans prendre en compte les frais auxquels pourrait donner lieu un litige concernant la première phase, lequel est encore en instance.
+[25] La preuve montre tout à fait clairement qu'à cause de ces difficultés, la société en commandite Meander a décidé de ne pas procéder aux autres phases.
+[26] Cette décision a été prise au plus tôt en août 2004 et au plus tard en décembre 2004[5].
+[27] Quelle était cette décision? Il s'agissait de la décision de ne pas procéder aux autres phases une fois la première phase achevée. Lors de l'interrogatoire principal, M. Beraznik a déclaré fort clairement qu'au début du mois de décembre, juste avant de prendre des vacances, il n'avait pas encore décidé ce que la société en commandite Meander ferait ensuite.
+[28] Lors du réinterrogatoire, M. Beraznik a indiqué qu'à ce moment-là, il n'avait pas parlé à son associée, Mme Joanne Peluso, mais que s'ils s'étaient parlé, ils auraient probablement convenu de vendre les biens‑fonds. M. Beraznik a également déclaré qu'ils auraient peut‑être envisagé d'autres possibilités, comme une coentreprise avec une autre partie, aux fins de l'aménagement de biens locatifs, ou une coentreprise avec une autre partie, qui ferait qu'ils fourniraient les biens‑fonds, alors que l'autre partie s'occuperait de tous les travaux, et notamment du raccordement aux services publics.
+[29] Lorsque, au début du mois de décembre, M. Beraznik a informé M. Boilard qu'il était mis fin au projet, M. Boilard a demandé ce qu'il allait faire, s'il allait vendre. Ils ont également discuté de la valeur possible des biens‑fonds. M. Beraznik a fait savoir qu'ils pourraient discuter plus à fond de la question après ses vacances.
+[30] Peu de temps après être parti en vacances, M. Beraznik a reçu trois messages de son bureau au sujet de personnes qui avaient téléphoné. Il a fait savoir qu'il les rappellerait une fois arrivé à San Francisco.
+[31] Monsieur Beraznik a appelé les trois personnes en question, depuis San Francisco. Les trois appels se rapportaient à l'achat possible des biens‑fonds de Meander devant faire partie de la phase 2. Au cours des appels, il a été question des prix possibles. M. Beraznik a dit à toutes ces personnes qu'il y songerait si elles faisaient une offre.
+[32] Monsieur Beraznik a ensuite appelé Mme Peluso; ils ont convenu de prendre une décision une fois les offres faites.
+[33] Deux offres ont été faites avant le retour de M. Beraznik de San Francisco; Mme Peluso a commencé à examiner ces offres. En fin de compte, ils ont décidé d'accepter l'offre d'une société à dénomination numérique qui, comme ils l'ont par la suite appris, appartenait à M. Stéphan Huot.
+[34] Meander a accepté cette offre le 17 décembre 2004[6].
+[35] Peu de temps après, les constructeurs qui avaient soumis l'autre offre ont intenté des poursuites contre Meander, ce qui a eu pour effet de retarder la conclusion de la vente de la phase 2. La Cour supérieure du Québec et, à la fin du mois de mai 2008, la Cour d'appel du Québec ont rendu des jugements en faveur de Meander.
+[36] Au cours d'une conversation que M. Beraznik avait eue avec M. Huot, lorsqu'ils étaient au palais de justice à cause de la poursuite, M. Huot a informé M. Beraznik qu'il voulait acheter tous les biens‑fonds de Meander.
+[37] Il a été convenu que M. Huot achèterait les biens‑fonds en diverses étapes et qu'étant donné qu'il devait payer comptant, les ventes s'échelonneraient sur un certain nombre d'années.
+[38] En conséquence, Meander a accepté, le 4 mai 2005, une offre d'achat pour ce qui devait être la phase 3; l'acte de vente concernant la phase 4 est daté du 15 août 2006[7].
+[39] Meander n'a jamais confié la vente des biens‑fonds à un courtier.
+[40] Les états financiers de Meander concernant l'année 2004 indiquent simplement que les ventes de biens-fonds sont imputables au revenu, alors que dans les états financiers concernant les années 2005 et 2006, une distinction est faite entre les [TRADUCTION] « ventes de biens‑fonds — aménagement », lesquelles correspondent aux ventes de lots de la première phase, et le [TRADUCTION] « gain réalisé lors de la vente » des biens‑fonds qui étaient initialement destinés à des phases autres que la première phase. Selon la note 1 jointe aux états financiers concernant l'année 2006 : [TRADUCTION] « En 2005, la société en commandite a abandonné ses activités d'aménagement de biens‑fonds, sauf pour achever le projet déjà en cours, et elle vend les autres biens‑fonds en bloc[8]. »
+[41] Selon M. Beraznik, le comptable a fait cette distinction entre les biens‑fonds de la première phase et les autres biens‑fonds, dans les états financiers des années 2005 et 2006, après avoir suivi un cours sur les changements d'affectation.
+Analyse : Meander
+[42] Pendant leur argumentation, les appelants ont notamment fait valoir que des terrains vagues pouvaient passer des stocks à une affectation donnant lieu à un gain en capital au moment de la disposition. L'intimée n'a pas soutenu le contraire et je reconnais qu'il est possible de faire passer un terrain vague des stocks à une affectation qui donnera lieu à un gain en capital[9].
+[43] Les faits ne démontrent pas qu'il y a eu changement d'utilisation des biens‑fonds, qui seraient passés des stocks à une utilisation donnant lieu à un gain en capital au moment de la disposition des biens‑fonds en question, c'est‑à‑dire des biens‑fonds autres que les biens‑fonds de la première phase.
+[44] Aucun élément de preuve ne montre que les biens‑fonds soient devenus un placement. Aucun élément de preuve ne montre que les biens‑fonds soient devenus des immobilisations devant être utilisées par l'entreprise.
+[45] Il a clairement été décidé de mettre fin aux autres travaux d'aménagement; aucune mesure et aucune décision n'ont été prises pour que quelque chose d'autre soit fait avant les ventes. On pourrait peut‑être dire qu'il y a eu un « changement de projet », mais il ne s'agit pas d'un changement d'affectation du genre qui donnerait lieu à un gain en capital au moment de la disposition.
+[46] Il y a simplement eu vente en bloc des biens‑fonds en cause dans chaque phase.
+[47] Les principes que la Cour d'appel fédérale a énoncés dans l'arrêt Edmund Peachey Ltd. c. La Reine[10] s'appliquent clairement à ces faits.
+[48] Dans l'affaire Edmund Peachey, une terre agricole, connue sous le nom de ferme Codlin, avait été acquise en 1956 afin d'être aménagée en lots résidentiels avec services publics. En 1960, une demande de changement de zonage avait été présentée pour que le zonage passe d'agricole à résidentiel, mais, en 1961, le zonage est passé à une utilisation industrielle, ce qui empêchait tout aménagement résidentiel. La société Edmund Peachey avait donc renoncé à son projet d'aménagement de la ferme Codlin et, d'une façon plus générale, avait décidé de mettre peu à peu fin aux autres activités de construction d'habitations.
+[49] Rien d'autre n'a été fait à l'égard de la ferme Codlin et, en 1971, la ferme a été vendue à la suite d'une offre non sollicitée, soit la première offre reçue pour cette terre agricole.
+[50] La Cour d'appel fédérale a conclu que la disposition était imputable au revenu parce que rien n'avait été fait en vue de changer l'affectation en une affectation qui donnerait lieu à un gain en capital lorsque le bien‑fonds ferait par la suite l'objet d'une disposition. La cour a notamment dit ce qui suit :
+[La cour a cité le passage suivant de la décision rendue par le président Jackett (tel était alors son titre) dans l'affaire Les Entreprises Chelsea Limitée c. Ministre du Revenu national, [1970] C.T.C. 598, 70 D.T.C. 6379 :]
+[TRADUCTION] À mon avis, en face d'une telle entreprise, aussi longtemps qu'elle continue de posséder du terrain faisant partie du stock d'origine de la compagnie, on peut raisonnablement supposer que l'entreprise n'a pas été liquidée, faute de preuve d'une initiative quelconque prise dans le but de la liquider, comme par exemple lorsque la compagnie retire le terrain de l'entreprise et le consacre à une autre construction destinée à servir d'immobilisations pour une autre entreprise.
+C'est à mon avis une définition correcte de la Loi, et c'est à juste titre que le juge de première instance s'en est inspiré. Comme le savant juge de première instance, j'estime qu'une initiative claire et sans équivoque témoignant d'un changement d'intention serait nécessaire pour modifier le caractère du terrain d'un actif engagé à une immobilisation — et que rien, dans les circonstances de la cause ne révèle une semblable initiative concrète et délibérée. Aucune preuve écrite n'indiquait la mise en oeuvre de la nouvelle intention, le terrain n'a pas été affecté à une autre utilisation. Nous n'avons ici que l'intention exprimée par l'appelante de posséder désormais le terrain à titre d'immobilisation. Cela n'est pas suffisant à mon avis pour transformer le produit de sa vente d'un actif engagé en produit d'une vente d'immobilisation.
+(J'ai souligné le passage de la décision Les Entreprises Chelsea Limitée.)
+[51] En l'absence d'un changement d'affectation du bien‑fonds donnant lieu, au moment de la disposition, à un gain en capital, il ressort clairement des principes énoncés dans l'arrêt Edmund Peachey que la disposition du bien-fonds en question continue à être imputable au revenu; une simple vente en bloc du stock, comme c'est ici le cas, ne transforme pas le gain tiré de la disposition d'un gain de la nature d'un revenu en un gain en capital[11].
+[52] Si la société en commandite Meander avait établi une coentreprise avec une autre société ou avec une autre société de personnes en vue d'aménager des biens locatifs sur les biens‑fonds et si elle avait ensuite, à un moment donné, à cause d'événements survenus dans l'intervalle, disposé d'une partie des biens‑fonds faisant partie de la coentreprise, il se pourrait bien, eu égard aux circonstances, que la disposition soit imputable au capital. Une telle situation est fort différente de celle qui existe en l'espèce[12].
+[53] Les appelants ont insisté sur la façon dont le bien‑fonds en question était traité dans les états financiers et sur le fait que les ventes résultaient d'offres non sollicitées.
+[54] La question de savoir si la disposition d'un bien donnera lieu à un gain de la nature d'un revenu ou à un gain en capital dépend de la raison pour laquelle il a été acquis ou, lorsqu'il est question d'un changement d'affectation, de l'existence d'un changement d'affectation. En déterminant la raison de l'acquisition d'un bien ou l'existence d'un changement d'affectation, les tribunaux tiennent compte non seulement de l'intention déclarée, mais aussi de toutes les circonstances, notamment afin de savoir s'il existe une preuve objective confirmant l'intention déclarée[13].
+[55] C'est dans ce contexte que des facteurs tels que des offres non sollicitées ou la façon dont un bien est traité dans les états financiers peuvent être pris en considération aux fins de l'évaluation de la nature du bien. Le fait qu'une offre ne soit pas sollicitée et le fait que le bien soit traité d'une façon particulière dans les états financiers ne peuvent pas en tant que tels avoir pour effet de convertir un bien qui fait partie du stock en un bien qui donnera lieu à un gain en capital au moment de sa disposition[14].
+[56] Par conséquent, le gain que Meander a réalisé était imputable au revenu[15].
+La société en commandite JR Investments
+[57] La question qui se pose dans le cas de la société en commandite JR se rapporte à la vente de quatre parcelles de terrain à Charlesbourg, et plus précisément :
+· une vente, en 2005, à la Fondation de la faune, pour la somme de 180 000 $;
+· une vente, en 2006, au Centre Jardin Hamel, pour la somme de 58 500 $;
+· une vente, en 2006, à Développement de la capitale, pour la somme de 401 315 $;
+· une seconde vente, en 2006, à Développement de la capitale, pour la somme de 360 000 $.
+[58] La société Cliffton avait aménagé les biens‑fonds à Charlesbourg pendant de nombreuses années. Comme je l'ai déjà expliqué, on avait au départ cherché à augmenter le nombre de personnes habitant à proximité d'un des centres commerciaux de la société, ce qui devait aider à augmenter les ventes du centre commercial[16]. La plupart des biens‑fonds que la société en commandite avait vendus à Charlesbourg étaient composés de lots avec services publics et ils étaient déclarés en tant qu'éléments du revenu.
+[59] Les quatre lots dont il a ci‑dessus été fait mention ont été déclarés au titre d'un gain en capital.
+[60] La société en commandite voulait aménager la première parcelle en question, mais elle n'a pas pu le faire et la parcelle a été vendue à la Fondation de la faune. Ce bien‑fonds n'avait pas de services publics.
+[61] Quant au bien‑fonds vendu au Centre Jardin Hamel, il a été découvert à un moment donné que le centre de jardinage utilisait une petite parcelle triangulaire de terrain appartenant à la société en commandite depuis plusieurs années. À la suite de certaines négociations, la société en commandite avait vendu le terrain au centre de jardinage pour un montant correspondant au montant de l'évaluation municipale. Il s'agissait également d'un bien‑fonds sans services publics.
+[62] Enfin, les deux ventes à Développement de la capitale étaient également des ventes de biens‑fonds sans services publics.
+Analyse concernant les biens-fonds de JR
+[63] Les principes applicables sont les mêmes que ceux dont j'ai déjà fait mention dans le cas de Meander[17].
+[64] Les quatre ventes en question n'étaient peut‑être pas des ventes habituelles de lots avec services publics, mais il n'y a rien dans la preuve qui donne à entendre qu'à un moment donné, ces lots devaient être détenus à titre de placements ou qu'ils devaient par ailleurs passer du stock à un type d'affectation de nature à produire un gain en capital lorsqu'ils feraient l'objet d'une disposition.
+[65] Le simple fait que les parcelles en question ont été vendues sans services publics n'a pas en soi pour effet de convertir ces ventes en ventes produisant des gains en capital.
+Conclusion[18]
+[66] Pour ces motifs, les appels sont rejetés avec dépens.
+Signé à Montréal (Québec), ce 11e jour de mai 2012.
+« Gaston Jorré »
+Le juge Jorré
+Traduction certifiée conforme
+ce 17e jour de septembre 2012.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2012 CCI 153
+Nos DES DOSSIERS DE LA COUR : 2010‑1013(IT)G, 2010-1016(IT)G, 2010‑1017(IT)G, 2010‑1042(IT)G, 2010‑1044(IT)G, 2010‑1046(IT)G, 2010‑1047(IT)G
+INTITULÉS : ROBERT PELUSO c. LA REINE
+JOANNE PELUSO c. LA REINE
+9136‑9702 QUÉBEC INC. c. LA REINE
+GESTION JONQUIÈRE 412 INC. c. LA REINE
+ROSANNE BERAZNIK c. LA REINE
+ROSEMARY PELUSO c. LA REINE
+HYMAN BERAZNIK c. LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATES DE L'AUDIENCE : Les 11 et 12 avril 2012
+MOTIFS DU JUGEMENT : L'honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 11 mai 2012
+COMPARUTIONS :
+Avocat des appelants :
+Me Marc-Antoine Deschamps
+Avocat de l'intimée :
+Me Pascal Tétrault
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Marc-Antoine Deschamps
+Cabinet : Morency Société d'avocats
+Montréal (Québec)
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Sauf dans le cas de Gestion Jonquière 412 Inc., pour laquelle les années d'imposition sont les années 2006 et 2007.
+[2] Voir Principles of Canadian Income Tax Law (septième édition), Peter W. Hogg, Joanne E. Magee et Jinyan Li, à 11.1(b), reproduit dans Tax Partner Main (2012 – publication 3).
+[3] Voir la décision de la Cour d'appel fédérale dans Edmund Peachey Ltd. c. La Reine, no A‑458‑78, 10 janvier 1979, [1979] A.C.F. no 2 (QL) :
+[...] Le passage dont il s'est inspiré, extrait du jugement du président Jackett (fonction qu'il remplissait alors) est ainsi rédigé :
+[TRADUCTION] À mon avis, en face d'une telle entreprise, aussi longtemps qu'elle continue de posséder du terrain faisant partie du stock d'origine de la compagnie, on peut raisonnablement supposer que l'entreprise n'a pas été liquidée, faute de preuve d'une initiative quelconque prise dans le but de la liquider, comme par exemple lorsque la compagnie retire le terrain de l'entreprise et le consacre à une autre construction destinée à servir d'immobilisations pour une autre entreprise.
+C'est à mon avis une définition correcte de la Loi, et c'est à juste titre que le juge de première instance s'en est inspiré. Comme le savant juge de première instance, j'estime qu'une initiative claire et sans équivoque témoignant d'un changement d'intention serait nécessaire pour modifier le caractère du terrain d'un actif engagé à une immobilisation — et que rien, dans les circonstances de la cause ne révèle une semblable initiative concrète et délibérée. Aucune preuve écrite n'indiquait la mise en oeuvre de la nouvelle intention, le terrain n'a pas été affecté à une autre utilisation. Nous n'avons ici que l'intention exprimée par l'appelante de posséder désormais le terrain à titre d'immobilisation. Cela n'est pas suffisant à mon avis pour transformer le produit de sa vente d'un actif engagé en produit d'une vente d'immobilisation.
+Cette approche a été suivie par le juge Rothstein (tel était alors son titre) dans Succession de George Duthie c. La Reine, no T‑359‑92, 18 mai 1995, [1995] A.C.F. no 770 (QL) (C.A.F.), et, plus récemment, par le juge Sheridan dans Bodine c. La Reine, 2010 CCI 426, paragraphes 47 et 48.
+[4] Rien ne dépend : i) de la participation exacte des différents appelants dans la société en commandite Meander; ii) de l'interposition de la fiducie Hyman Beraznik dans le cas de M. Beraznik ou de l'existence de la société Développement Les Méandres inc., qui agissait à titre de prête‑nom (voir l'onglet 37 de la pièce A‑2, page 4, à l'alinéa 4.1a)). On peut en faire abstraction sans danger.
+[5] Le moment où cette décision a été prise est le seul point litigieux. M. Beraznik a témoigné avoir dit à M. Boilard, en août 2004, que celui‑ci devrait convaincre Meander pour qu'elle procède aux autres phases; M. Beraznik ne voulait pas faire encore une fois l'expérience qu'il venait de vivre. En septembre, les résultats financiers de Meander ont été connus; ils étaient fort décevants. M. Boilard a continué à discuter avec la ville de phases additionnelles et à fournir de nouvelles prévisions au sujet des coûts; il a également continué à engager certains frais peu élevés pour le compte de Meander. Il y a eu des discussions continues entre M. Beraznik et M. Boilard; selon ce que M. Beraznik a dit, au cours de ces discussions, M. Boilard n'avait pas voulu accepter d'abandonner les autres phases. Enfin, au tout début du mois de décembre, juste avant de partir en vacances, M. Beraznik a catégoriquement informé M. Boilard que tout était terminé; ils allaient mettre fin à l'aménagement des biens‑fonds après la première phase. Selon la note 1 jointe aux états financiers de Meander pour l'exercice ayant pris fin le 31 décembre 2006 (voir la pièce A‑2, onglet 62, page 3) : [TRADUCTION] « En 2005, la société en commandite a cessé ses activités d'aménagement de biens‑fonds, sauf pour achever le projet en cours, et elle vend le reste des biens‑fonds en bloc. » Étant donné la conclusion à laquelle je suis arrivé sur ce point, je n'ai pas à décider exactement à quel moment cette décision a été prise, mais, si je devais le faire, puisqu'il y a eu certaines activités continues de peu d'importance pour ce qui est de l'exécution des phases postérieures à la première phase, j'aurais conclu qu'il a été mis fin à ces autres phases en décembre 2004.
+[6] Voir la dernière page de l'onglet 42, pièce A‑2.
+[7] Voir les onglets 45, 46, 48 et 49 de la pièce A‑2.
+[8] Voir la pièce A‑2, onglet 60, pages 2 et 3, onglet 61, page 2, et onglet 62, pages 2 et 3. Nous ne savons pas à quel moment ces états ont été préparés, mais les états financiers sont normalement préparés peu de temps après la fin de l'exercice.
+[9] Étant donné la conclusion que j'ai tirée pour d'autres raisons, je n'ai pas à analyser plus à fond cette question. Toutefois, je tiens à faire remarquer que la décision rendue par la majorité des juges (les juges Major, L'Heureux‑Dubé et Sopinka) dans l'arrêt Friesen c. Canada, [1995] 3 R.C.S. 103, paragraphes 20 à 24, semble donner à entendre que les stocks ne peuvent pas être convertis. Les juges minoritaires (les juges Iacobucci et Gonthier) étaient d'avis contraire : voir le paragraphe 136.
+[10] Précité.
+[11] C'est ce que montrent les décisions Sunrise Park Development Limited c. Ministre du Revenu national, 5 octobre 1981, [1981] C.T.C. 2863 (C.R.I.), et R. c. Randall Park Development Ltd., no T‑131‑78, 27 novembre 1978, [1978] C.T.C. 826, 78 D.T.C. 6545 (C.F. 1re inst.). Dans l'affaire Randall Park, un bien‑fonds de 400 acres avait été acquis en 1966 en vue d'être aménagé. En 1969, la fusion de la région dans laquelle le bien‑fonds était situé avec la ville de Halifax avait donné lieu à un zonage qui empêchait l'aménagement, et le bien‑fonds avait été vendu en bloc en 1973. La Cour fédérale a dit ce qui suit :
+À la lumière des faits que je viens de résumer très brièvement, j'estime que le terrain de Spryfield, pendant qu'il appartenait à la défenderesse, était de même nature qu'une marchandise en stock et que le produit de sa vente était de même nature que le produit de vente d'une marchandise. La défenderesse ne l'a pas acquis en vue d'y établir une usine ou d'en tirer un loyer. Il ne constituait pas un simple placement de fonds inemployés. Son acquisition s'inscrivait dans le cadre de l'activité commerciale de la défenderesse. Il ne représentait à aucun moment un bien d'immobilisation, c'est-à-dire quelque chose qui ne soit pas une marchandise. Certes, sa vente n'était pas typique des opérations commerciales normales de la défenderesse, à savoir la vente des lotissements à bâtir, et ressemblait plutôt à la vente en bloc de marchandises en stock, mais rien en l'espèce ne différencie cette vente de la vente commerciale d'une marchandise qui n'était plus destinée à l'usage pour lequel elle avait été achetée. [...]
+La défenderesse soutient qu'à cause de cet empêchement, le terrain avait en quelque sorte perdu son caractère de marchandise ou de bien productif de revenu pour acquérir le caractère d'un bien d'immobilisation. Les projets de la défenderesse n'ayant pas été approuvés par le comité de planification urbaine, il est possible que le bien en question ait acquis une nature différente de celle qui avait été envisagée ou escomptée par la défenderesse, mais rien, à mon avis, ne permet de conclure que son caractère de marchandise ou de bien productif de revenu ait jamais changé.
+Je note que dans l'affaire Jodare Ltd. c. La Reine, no T‑4530‑81, 10 janvier 1986, [1986] 1 C.T.C. 250, le bien‑fonds en question, la parcelle C, avait été acquise, en 1966, par une société de personnes appartenant aux appelantes, Rice Holdings Company. Selon certains éléments de preuve, bon nombre de travaux avaient été exécutés de 1966 à 1973 en vue de la construction de maisons en rangée et d'immeubles d'habitation. En 1973, il avait été décidé de suspendre les travaux parce que les loyers courants du marché étaient insuffisants pour soutenir les rentrées de fonds nécessaires. En 1974, le bien‑fonds a été vendu. De toute évidence, si les loyers ne suffisaient pas, le projet était un projet locatif, soit un placement, et non un projet en vue de la vente de lots. (Je note que Rice Construction, une société différente mais liée, avait initialement acquis le bien-fonds à des fins différentes, dans l'intention de construire et de revendre un immeuble industriel. Toutefois, la décision rendue dans l'affaire Jodare portait sur la nature du bien‑fonds appartenant à Rice Holdings.)
+[12] La décision Watkins c. Ministre du Revenu national, no 83‑1079, 10 mai 1985, [1985] 2 C.T.C. 2023, illustre une telle situation. Dans la décision Watkins, la Cour a conclu que les habitations qui avaient été construites en vue d'être vendues avaient en réalité fait l'objet d'un changement d'affectation en vue de constituer un placement; elles avaient été conservées en vue d'être louées et elles avaient été louées pendant quatre à six ans. Par suite de certaines circonstances, il avait ensuite été décidé de vendre les habitations.
+[13] Dans ce cas‑ci, il n'y avait même pas d'intention déclarée quant à un changement d'affectation qui donnerait lieu à un gain en capital au moment de la disposition du bien.
+[14] Dans ce cas‑ci, les états financiers correspondent à ce que le contribuable croyait comprendre, après que le comptable eut suivi un cours. Il n'y a rien dans l'affaire Jacobson Holdings Ltd. c. La Reine, no T‑2005‑83, 28 novembre 1985, [1986] 1 C.T.C. 87, qui donne à entendre que les états financiers ne constituent pas simplement l'un des facteurs à prendre en considération.
+Les appelants ont soutenu que [TRADUCTION] « la nature non sollicitée des offres peut avoir pour effet de convertir un élément de stock en une immobilisation dans les affaires immobilières où les contribuables s'occupent d'aménagement immobilier » : voir le résumé écrit du droit et de la jurisprudence des appelants. À l'appui, les appelants citent la décision Woodbine Developments Ltd. c. La Reine, no T‑1010‑83, 9 novembre 1984, [1984] C.T.C. 616. Or, je ne puis rien trouver dans la décision Woodbine qui aille aussi loin que ce que les appelants affirment. Dans l'affaire Woodbine, il n'était pas question de changement d'affectation; il s'agissait de savoir quelle était la nature des sept biens‑fonds qui avaient été acquis entre les années 1973 et 1976 et qui avaient été vendus entre les années 1976 et 1979 — cinq biens‑fonds ayant été vendus en 1979. Selon mon interprétation des faits, à l'exception d'un des biens‑fonds en cause, la société Woodbine avait acheté des biens‑fonds sur lesquels des immeubles étaient situés ou y avait fait construire des immeubles; elle avait acquis les biens‑fonds dans l'intention de tirer un revenu de placement sous la forme de loyers et, à l'exception du seul bien‑fonds qui était un terrain vague, les biens‑fonds avaient de fait été loués. La cour a reconnu que les biens‑fonds avaient été acquis en vue de générer un revenu de placement; le fait que les offres faites étaient non sollicitées constituait une preuve compatible avec les autres éléments de preuve indiquant que les biens‑fonds avaient été acquis à des fins de placement.
+[15] Étant donné la conclusion que j'ai tirée, je n'ai pas à traiter de la question de savoir si le paragraphe 23(1) de la Loi de l'impôt sur le revenu s'applique dans le cas où il y a eu changement d'affectation à des fins de placement (par exemple, en construisant et en louant des habitations).
+Toutefois, je tiens à faire les remarques suivantes, portant sur un autre point. Le paragraphe 23(1) est libellé ainsi :
+23(1) Lorsque, lors de la disposition d'une entreprise ou d'une partie quelconque d'une entreprise ou après en avoir disposé, ou lors de la cessation de l'exploitation d'une entreprise ou d'une partie quelconque d'une entreprise ou après avoir cessé de l'exploiter, un contribuable a vendu la totalité ou une partie des biens qui étaient à porter à l'inventaire de l'entreprise, les biens ainsi vendus sont réputés, pour l'application de la présente partie, avoir été vendus par lui dans le cadre de l'exploitation de l'entreprise.
+Même si la jurisprudence ne m'amenait pas à tirer la conclusion à laquelle je suis arrivé, il m'est difficile de concevoir comment la simple vente de biens‑fonds en bloc, comme c'est ici le cas, pourrait ne pas être visée par le texte clair du paragraphe 23(1), de sorte que la disposition est imputable au revenu.
+[16] La société en commandite JR n'était pas le propriétaire initial des biens‑fonds; elle en est devenue propriétaire à la suite de certaines difficultés financières. Cela n'a aucune pertinence en l'espèce.
+[17] Je tiens encore une fois à renvoyer à la décision R. c. Randall Park Development Ltd., ci‑dessus mentionnée à la note de bas de page 11.
+[18] Étant donné la conclusion à laquelle je suis arrivé, je n'ai pas à examiner certaines autres questions de droit secondaires qui se poseraient uniquement s'il y avait eu changement d'affectation.

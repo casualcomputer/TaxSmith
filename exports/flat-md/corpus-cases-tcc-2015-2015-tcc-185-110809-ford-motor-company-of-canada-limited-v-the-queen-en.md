@@ -1,0 +1,183 @@
+---
+title: "Ford Motor Company of Canada Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110809/index.do"
+last_modified: "2015-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 185"
+citation2: ""
+neutral_citation: "2015 TCC 185"
+decision_date: "2015-07-16"
+language: "en"
+item_id: "110809"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2642
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:15:48.748000+00:00"
+cases_cited_count: 18
+cases_citing_count: 16
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cd75d82bf49e896294922418a82fb365fbbd050d4eebaf90962ead0100db3f95"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ford Motor Company of Canada Limited v. The Queen
+
+- Citation: 2015 TCC 185
+- Decision date: 2015-07-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2642, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ford Motor Company of Canada Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-07-16
+Neutral citation
+2015 TCC 185
+File numbers
+2012-1779(GST)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2015 TCC 185
+Date: 20151001
+Docket: 2012-1779(GST)G
+BETWEEN:
+FORD MOTOR COMPANY OF CANADA, LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER ON COSTS
+Boyle J.
+[1] These reasons are in respect of a costs award regarding my decision in Ford Motor Company of Canada, Limited 2012-1779(GST)G issued in February of this year. The Crown’s motion to strike was dismissed. In the main decision I awarded costs in favour of the wholly successful Appellant and gave the parties 30 days to agree on the amount, failing which they had a further 30 days to file written submissions. The parties have been unable to reach an agreement and their written submissions have been received.
+[2] On the contested one day motion it was essentially the Crown’s position that, with respect two of the three issues raised in the Amended Notice of Appeal, the portions of the Objection dealing with these did not reasonably or sufficiently describe any issue or question, such that nothing whatsoever could be raised in the Notice of Appeal to this Court with respect thereto.
+[3] In paragraphs 57 to 59 and 70 of my earlier reasons on the motion to strike, I held that:
+(i) the evidence wholly satisfied me that objectively the Minister of National Revenue (the “Minister”) should have, and subjectively the Minister did, understand from the Appellant’s Notice of Objection that the two particular issues which had been specifically raised during the audit giving rise to the impugned reassessment were being objected to; and
+(ii) I was wholly satisfied that the two issues raised in the Amended Notice of Appeal were clearly the same two particular issues that were reasonably and sufficiently described in the Notice of Objection.
+[4] I went on in paragraph 68 to reject the idea that determinative lists identifying each individual input transaction for which an unclaimed input tax credit (ITC) was requested and each individual foreign currency denominated input were required, as that would exceed the level of reasonable and sufficient detail required for the Minister to reasonably recognize or understand the issues objected to.
+[5] In paragraph 73 I observed that this appeared to be a case of the Crown trying to use the specified corporation rules opportunistically, as a sword against a taxpayer appellant, notwithstanding that the clear purpose and design of the rules are to protect and shield the fisc.
+I. The Court’s approach to costs [6] In Spruce Credit Union v. The Queen,[1] I extensively canvassed the approach of this Court and the Federal Court of Appeal with respect to the awarding of costs under this Court’s Rules. The relevant provisions of Rule 147 are appended hereto.
+[7] A summary of the approach to be taken to awarding costs in the Tax Court of Canada follows:
+1) The Court has jurisdiction to award solicitor/client costs. As a general rule, costs on a solicitor/client basis are only to be awarded in appropriate cases where there has been reprehensible, scandalous or outrageous conduct on the part of a party. Even in such circumstances, an award of solicitor/client costs is not automatic but remains discretionary.[2]
+2) The Court has broad discretion in fixing costs, provided it is always exercised prudently not capriciously,[3] on a principled basis,[4] and after hearing from the parties. It is not an exact science, nor is it an accounting exercise.[5]
+3) The Court’s approach to fixing costs should be compensatory and contributory, not punitive nor extravagant. The proper question is: What is the Court’s estimate of the losing party’s appropriate contribution to the successful party’s costs of pursuing the appeal in which his or her position prevailed.[6]
+4) The Court is not bound to defer to the Tariff absent unusual or exceptional circumstances of misconduct or malfeasance.[7] The Court should always follow a principled approach to determine the losing party’s appropriate contribution to the successful party’s costs in the particular circumstances of the proceeding. This includes considering and weighing all relevant circumstances, including those enumerated in the Rules which are relevant in the particular circumstances of the case.
+5) The acts of a party and events prior to the commencement of the legal proceeding may, in appropriate circumstances, be considered in awarding costs. The amount of costs awarded cannot exceed costs incurred after beginning to prepare the notice of appeal.[8]
+6) The successful party’s actual costs may be considered and taken into account in appropriate circumstances.[9] So too may the unsuccessful party’s actual, approximate or estimated costs.[10]
+7) “Traditionally the degree of indemnification represented by partial indemnity costs has varied between 50% and 75% of solicitor and client or substantial indemnity costs” per Justice D. Campbell in Zeller Estate v. The Queen, 2009 TCC 135 after referring to Mark Orkin, The Law of Costs, 2nd ed., vol 1 (Aurora: Canada Law Book, 2008) at 2-3. There are similar references in Dickie v. The Queen, 2012 TCC 327 (Pizzitelli J) (affirmed by the Federal Court of Appeal 2014 FCA 40), and in Spruce Credit Union.
+8) As stated by the now Chief Justice of this Court in Velcro, the factors in Rule 147(3) of this Court are the key consideration in its determination of cost awards, in determining if the Tariff would reflect an appropriate amount, and in fixing the appropriate amount.
+II. Rule 147(3) Considerations [8] The Appellant asks for costs fixed at $50,000 for this motion without prejudice to its right to seek costs in respect of any resolution of the remaining similar motions to strike brought by the Crown in related Ford Canada appeals.
+[9] The Crown’s position is that there was no reprehensible, scandalous or outrageous conduct on its part and that there is therefore no basis for a departure from the Tariff.
+[10] The Appellant was wholly successful in defending the Respondent’s motion to strike very substantial portions of its Amended Notice of Appeal. The Appellant was awarded costs in my main reasons on the motion to strike. No settlement offers were made, nor could any have reasonably been expected in the circumstances. No experts were called. Paragraphs (a), (d) and (i.1) of Rule 147(3) therefore do not factor into my decision on the appropriate amount of costs to be awarded to the Appellant in these circumstances.
+(a) The amount at issue; and (b) The importance of the issues [11] The Appellant and a number of the related Ford Canada companies have a total of 13 similar GST/HST appeals before this Court involving years between 1996 and 2008. These 13 appeals involve 36 distinct issues involving approximately $37 million of tax, interest and penalties. The Respondent moved to strike 31 of these 36 issues, including the two in the main motion to strike involved herein, on the basis of the specified corporation rules. These involve approximately $33 million or 90% of the total tax and interest and penalties before this Court.
+[12] In this specific matter, the Respondent sought to prevent the Appellant from ever arguing the merits of claims involving approximately $2.3 million of tax and assessed interest. This would be in the $5 million range once post-reassessment interest is considered.[11]
+[13] Given this, it was entirely reasonable and appropriate for the Appellant to take each of the Respondent’s motions very seriously, and vigorously and fully defend its right to have its appeal heard by this Court on the merits. In the context of preparing for and arguing this particular motion it was surely correct to work on the assumption that the decision on this motion, while not formally a lead or test case, should provide the framework to lead to the resolution of the other 12 related motions to strike brought by the Respondent. The submissions filed make it clear that this was indeed underway following the main decision.
+(c) The volume of work (which includes consideration of the actual costs incurred); and (d) The complexity of the issues [14] Ford Canada’s estimated costs (to date of the written submissions) in defending the 13 Crown motions to strike is estimated at over $300,000. It prepared and filed 10 affidavits in respect of these motions, one of which related to the motion decided. The estimated cost for these 10 affidavits was slightly in excess of $100,000. As only one affidavit was used on this particular motion, I will assume that affidavit cost $10,000. It was a lengthy affidavit, tracking and detailing each issue from Audit to Objection to Decision on Objection to Notice of Appeal and Amended Notice of Appeal, and had detailed schedules attached.
+[15] The estimated actual costs of preparing for and attending the January hearing of this motion, and the related motion which was adjourned, was approximately $91,500. Approximately, $53,000 of this can be allocated to this motion and the remainder to the motion which was adjourned partway through the hearing.
+[16] The Appellant’s aggregate costs of preparing the affidavit used on this motion and preparing and attending to the hearing of this motion are therefore approximately $63,000.
+[17] The hearing lasted a full day, most of which related to this motion. The issues and arguments were well and thoroughly presented to the Court. The Court’s reasons dismissing the Crown’s motion to strike run 46 pages.
+[18] The amount of work required of the Appellant to prepare for the hearing was significantly increased because of the Respondent’s failure to file any written submissions or other advance notice of the arguments she intended to make. While this may not always be a requirement, in this case Respondent’s counsel clearly and unequivocally committed at least twice to file written submissions in a January 2013 case management conference.[12] She committed to do it closer to the hearing date of the motions. The case management judge, Justice Woods, stressed that notice of arguments was expected “well enough in advance”, to which Respondent’s counsel agreed. Appellant’s counsel reminded Respondent’s counsel in the six weeks before the hearing date. The Respondent’s reply was that there was no requirement to file written submissions, but she hoped to file hers seven days before the hearing. When Appellant’s counsel followed up with her again in the week before the hearing, her reply was that while she normally prefers to file something prior to the hearing, it is not always feasible, and this turned out to be one of those instances. No further explanation or apology was given to the Court.
+[19] This failure by Respondent’s counsel meant that the Appellant could not prepare and file responding written submissions. This necessarily and reasonably led to the Appellant having to be fully prepared to support and argue in response to all of the possible arguments that could flow from the general grounds set out in the Notice of Motion. Some of the possible arguments were undoubtedly more complex than others and more complex than the ones actually advanced at the hearing. This failure also contributed to the length of the hearing day.
+(e) The conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding; (f) The denial or the neglect or the refusal of any party to admit anything that should have been admitted; (g) Whether any state of the proceedings was (i) improper, vexatious or unnecessary, or (ii) taken through negligence, mistake or excessive caution. [20] The Respondent’s disappointing failure to file written representations in any form providing advance notice of argument(s) to be raised is described above. Case Management is an important part of this Court’s trial process. Commitments made by counsel at Case Management Conferences do not require Orders and should not be taken lightly. This was not the result of oversight or an unanticipated last minute crisis or emergency. This does not reflect at all well on the Respondent. It is a significant consideration in considering costs.
+[21] Additional considerations that fall generally under these headings are that in my main reasons on the motion to strike I concluded:
+(i) The jurisprudence on the specified corporation rules and the essentially similar large corporation rules in the Income Tax Act was consistent, clear and recent, and was largely from the Federal Court of Appeal; (ii) The evidence that the Minister understood what was objected to and was able to respond to it was also entirely clear and consistent from the evidence; (iii) The Respondent was trying to use the specified corporation rules opportunistically as a sword and not as the protective shield they were intended and designed to be. III. Conclusion [22] Based upon this Court’s principled approach to generally following Rule 147 concerning costs, I am satisfied that the Tariff amount would be inappropriate, insufficient, and unsatisfactory in these circumstances.
+[23] In the circumstances of this motion, and given the considerations and concerns set out above, I would place the appropriate counsel fee cost contribution for the Respondent to pay to the Appellant at $40,000 payable in any event of the cause. This reflects about 63% of the Appellant’s estimated aggregate costs allocable to this motion. That is towards the middle of the traditional range described by Orkin and others. I feel that well reflects the extent and nature of the concerns and considerations raised in this case.
+[24] This costs order reflects only the costs award appropriate to this motion. It is without prejudice to any claims for costs on the other motions as they are resolved.[13]
+[25] I am also awarding an additional amount of costs in favour of the Appellant for attending to the Court’s resolution of this costs award on the motion to strike. The Respondent’s virtually entire submission on costs was that there was no basis for enhanced costs beyond Tariff as there was no reprehensible, scandalous or outrageous conduct on the part of the Crown in the litigation. As described above, a significant number of decisions have made it very clear that the Tariff is not, and was not intended to be, the default cost amount absent, unusual or exceptional circumstances of misconduct or malfeasance.[14] It is not acceptable for the Crown to simply recite that tired old phrase, clearly taken out of context upon a proper review, without even acknowledging the considerable jurisprudence to the contrary, much less actually seeking to challenge it. I can assume this may have been a significant part of the reason the parties could not agree on costs and had to come back to this Court. In the circumstances, I am fixing costs in respect of the resolution of this costs award at 75% of the Appellant’s reasonable actual costs incurred seeking to resolve the issue of costs since the date of the Order on the Motion to Strike. If the parties cannot agree on what that amount should be, they may contact the Court so that I may fix that amount for them also.
+This Amended Reasons for Order is issued in substitution of the Reasons for Order dated July 16, 2015.
+Signed at Ottawa, Canada, this 1st day of October 2015.
+“Patrick Boyle”
+Boyle J.
+APPENDIX
+COSTS
+GENERAL PRINCIPLES
+147.(1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+[…]
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+[…]
+CITATION:
+2015 TCC 185
+COURT FILE NO.:
+2012-1779(GST)G
+STYLE OF CAUSE:
+FORD MOTOR COMPANY OF CANADA, LIMITED AND THE QUEEN
+AMENDED REASONS FOR ORDER BY:
+The Honourable Justice Patrick Boyle
+DATE OF AMENDED REASONS FOR ORDER:
+October 1st, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Robert G. Kreklewetz
+John G. Bassindale
+Counsel for the Respondent:
+Catherine M.G. McIntyre
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert G. Kreklewetz
+John G. Bassindale
+Firm:
+Miller Kreklewetz LLP
+24 Duncan Street, 3rd Floor
+Toronto, Ontario, M5V 2B8
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2014 TCC 42. The Crown withdrew its appeal to the Federal Court of Appeal of the costs order in Spruce Credit Union.
+[2] See, for example, McGorman v. The Queen, 99 DTC 591, Canderel Limited v.The Queen, 94 DTC 1426, Bruhm v. The Queen, 94 DTC 1400, and the cases referred to therein.
+[3] Sommerer v. The Queen, 2011 TCC 212, Jolly Farmer Products Inc. v. The Queen, 2008 TCC 693.
+[4] Lau v. The Queen, 2004 FCA 10 and Landry v.The Queen, 2010 FCA 135.
+[5] Consorzio Del Prosciutto Di Parma v. Maple Leaf Meats Inc., 2002 FCA 417.
+[6] See Consorzio, Velcro Canada Inc. v. The Queen, 2012 TCC 273 (Rossiter ACJ), General Electric Capital Canada Inc. v. R., 2010 TCC 490 (Hogan J), Sommerer (C. Miller J), Teelucksingh v. The Queen, 2011 TCC 253 (Miller J), Jolly Farmer Products Inc. (Boyle J), Aird v. Country Park Village Property (Mainland) Ltd., 2004 FC 945, [2004] F.C.J. No. 1153.
+[7] See Consorzio, Velcro, General Electric, Sommerer, Blackburn Radio Inc. v. The Queen, 2013 TCC 98 (Woods J), Daishowa-Marubeni International Ltd. v. The Queen, 2013 TCC 275 (C. Miller J), Spruce Credit Union, O’Dwyer v. The Queen, 2014 TCC 90 (Bocock J), The Queen v. Repsol Canada Ltd., 2015 TCC 154 (C. Miller J).
+[8] Martin v. The Queen, 2014 TCC 50 (FCA).
+[9] Consorzio.
+[10] Velcro.
+[11] Another of the Crown’s 31 motions was set down to be heard together with this one. It was called before me together with this one but the parties agreed to adjourn it to allow this one to be fully presented by the parties on the hearing day and to be decided by the Court first.
+[12] The Notices of Appeal were initially filed in 2012 and the Crown’s motions were initially filed in late 2012.
+[13] I note the Appellant has a further $90,000 of costs for the affidavits in the remaining 12 Crown motions to strike, and incurred a further almost $39,000 preparing for and attending the other motion called which was adjourned by me.
+[14] Even if it were, the Respondent’s failure to file written representations giving advance notice of its arguments, having committed to the Case Management Judge and the Appellant to do so, would warrant some serious consideration in the circumstances.

@@ -1,0 +1,140 @@
+Title: Boily v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27539/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-473-27539-boily-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-08-12
+
+# Boily v. The Queen
+
+- Citation: 2005 TCC 473
+- Decision date: 2005-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 101, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boily v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-12
+Neutral citation
+2005 TCC 473
+File numbers
+2004-4653(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4653(IT)I
+BETWEEN:
+MARIO BOILY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 22, 2005, at Nicolet, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nancy Dagenais
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of August 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 13th day of February, 2006.
+Garth McLeod, Translator
+Citation: 2005TCC473
+Date: 20050812
+Docket: 2004-4653(IT)I
+BETWEEN:
+MARIO BOILY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] The Appellant filed a Notice of Appeal following the issuance of a Notice of Assessment on April 14, 2004, and its confirmation on September 7, 2004, following a Notice of Objection.
+[2] The Minister of National Revenue ("the Minister") added $2,000 to the Appellant's taxable income because he did not repay this amount under the Lifelong Learning Plan (LLP).
+[3] The facts set out in the Reply to the Notice of Appeal, and corrected at the hearing at the request of the Respondent, explain the assessment quite adequately. Those facts are as follows:
+[TRANSLATION]
+(a) In June 2000, the Appellant withdrew $10,000 from his Registered Retirement Savings Plan (RRSP) under the Lifelong Learning Plan (LLP).
+(b) In January 2001, the Appellant withdrew $10,000 from his RRSP under the LLP.
+(c) In the course of the 2003 taxation year neither the Appellant nor his spouse was enrolled full-time in a designated educational institution.
+(d) The Appellant did not, either in the 2003 taxation year or the first 60 days of the 2004 taxation year, designate an amount, as prescribed, in repayment of RRSP contribution.
+[4] The Appellant admitted to all the facts. He essentially argued that he was always concerned about his duty to make the required repayment in accordance with the provisions of the Income Tax Act ("the Act").
+[5] Since there seems to have been some ambiguity or confusion regarding the year in which he had to begin repayment, and since this was the case despite the fact that section 146.02 of the Act very clearly provides that repayment must begin in the fourth year of the participation period, it is appropriate to reproduce the text of section 146.02 of the Act and subsection 118.6(2):
+Lifelong Learning Plan
+146.02. Definitions:
+[. . .]
+"participation period" of an individual means each period
+(a) that begins at the beginning of a calendar year
+(i) in which the individual receives an eligible amount, and
+[. . .]
+"repayment period"of an individual for a participation period of the individual in respect of a person designated under paragraph (b) of the definition "eligible amount" means the period, if any, within the participation period
+(a) that begins
+[. . .]
+(ii) at the beginning of the fourth calendar year within the participation period, if subparagraph (i) does not apply and the person would not be entitled to claim an amount under subsection 118.6(2) in respect of at least three months in each of the third and fourth calendar years within the participation period, if that subsection were read without reference to paragraph (b) of the description of B in that subsection.
+[. . .]
+118.6(2)
+(2) Education credit.
+[. . .]
+(a) $400 is multiplied by the number of months in the year during which the individual is enrolled in a qualifying educational program as a full-time student at a designated educational institution, and
+[. . .]
+[6] The confusion or ambiguity resulted from the Notice of Assessment pertaining to the 2002 taxation year and dated March 24, 2003. That Notice of Assessment contains the following:
+[TRANSLATION]
+2003 Lifelong Learning plan (LLP) Statement of Account
+Total withdrawals
+Minus: Total repayments, cancellations and income inclusions
+Repayable balance remaining
+Your 2003 required repayment:
+Amount (B) divided by 10 (the number of years you have left to repay)
+$20,000
+$ 0
+$20,000
+(B)
+$ 0
+[7] The Appellant then contacted two different persons at the Canada Customs and Revenue Agency (CCRA) who allegedly confirmed, in clear terms, that he had nothing to repay for the 2003 taxation year. He even asked for both their names: Lorraine Houle Mallet and Aurélien Turcotte.
+[8] Since the applicable provisions of the Act are worded clearly, it is difficult to understand how the CCRA representatives could have managed to mislead the Appellant.
+[9] What is more, the Appellant says that, after checking a Lifelong Learning Plan guide, he himself came to the conclusion that the first repayment had to be made in 2003. He says that this made him hesitant upon seeing the number 0 in the box marked [TRANSLATION] "Your 2003 required repayment: Amount (B) divided by 10 (the number of years you have left to repay) $0"
+[10] This is when he contacted the authorities to clarify the situation. He claims that the individuals he consulted confirmed that there was nothing to repay for 2003.
+[11] Did these CCRA employees mislead the Appellant? Unfortunately, it is not possible to answer this question because the evidence did not identify exactly what information the Appellant provided. Was there some indication that his spouse was still in school? This is a determinative fact, assuming that she was appropriately enrolled.
+[12] I find it most surprising that the people responsible for informing the public made such a patent and perhaps even gross error, since the Appellant himself noticed, on a mere reading of a guide, that he was required to make a repayment.
+[13] In any event, even if the evidence showed unambiguously that a patent error was committed, this would not be sufficient for the Court to set aside the assessment, which was made in accordance with the provisions of the Act.
+[14] For this reason alone, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 12th day of August 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 13th day of February, 2006.
+Garth McLeod, Translator
+CITATION: 2005TCC473
+COURT FILE NO.: 2004-4653(IT)I
+STYLE OF CAUSE : Mario Boily and Her Majesty the Queen
+PLACE OF HEARING: Nicolet, Quebec
+DATE OF HEARING: June 22, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+REASONS FOR JUDGMENT: August 12, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nancy Dagenais
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

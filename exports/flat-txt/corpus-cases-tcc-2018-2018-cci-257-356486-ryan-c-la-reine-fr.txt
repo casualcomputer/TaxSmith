@@ -1,0 +1,140 @@
+Title: Ryan c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/356486/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-257-356486-ryan-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-12-18
+
+# Ryan c. La Reine
+
+- Citation: 2018 CCI 257
+- Decision date: 2018-12-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4988, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ryan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-12-18
+Référence neutre
+2018 CCI 257
+Numéro de dossier
+2016-1645(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-1645(IT)I
+ENTRE :
+JENNIFER LYN RYAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+Intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 2 octobre 2018, à Yarmouth (Nouvelle-Écosse)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Rhonda Lemphers
+JUGEMENT
+CONFORMÉMENT aux motifs de jugement ci-joints, l'appel concernant l'avis de confirmation daté du 18 février 2016 pour l'année d'imposition 2013 de l'appelante est accueilli, sans qu'aucuns dépens ne soient adjugés, et la question est renvoyée au ministre du Revenu national pour réexamen et nouvelle cotisation, l'appelante ayant droit à une somme de 4 310,58 $ à titre de déduction pour pension alimentaire pour époux.
+Signé à Ottawa, Canada, ce 18e jour de décembre 2018.
+« R. S. Bocock »
+Juge Bocock
+Référence : 2018CCI257
+Date : 20181218
+Dossier : 2016-1645(IT)I
+ENTRE :
+JENNIFER LYN RYAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+Intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Juge Bocock
+[1] Le ministre a refusé à l’appelante (« Mme Ryan ») la déduction pour les paiements de pension alimentaire pour époux pour l’année d’imposition 2013. En octobre, novembre et décembre de la même année, Mme Ryan a versé la somme de 1 436,86 $, pour un total de 4 310,58 $, à son ex-conjoint, un M. B. Il n'y a pas de différend quant aux montants, au statut du payeur ou du bénéficiaire ou à toute autre insuffisance réglementaire ou légale, sauf sur un point. Le ministre affirme que les montants réclamés à titre de déduction pour conjoint n’ont pas été versés au cours de l’année d’imposition ou de l’année d’imposition précédente en vertu d’une ordonnance du tribunal.
+[2] Les hypothèses précises du ministre dans la réponse étaient les suivantes.
+Au moment d’établir et de maintenir la cotisation, le ministre s’est appuyé sur les faits suivants :
+a) L’appelante et S.B., son conjoint de fait, se sont séparés en octobre 2013 et vivent séparés depuis;
+b) au cours de l’année d’imposition 2013, l’appelante a versé à son ex-conjoint de fait un montant mensuel de 1 436,86 $ pour les mois d’octobre, de novembre et de décembre 2013, pour un montant total de 4 310,58 $ (les « montants de pension alimentaire » de 2013);
+c) le 5 mars 2015, la Cour suprême de la Nouvelle-Écosse a rendu une ordonnance pour faire appliquer un règlement convenu par les parties le 7 novembre 2014;
+[3] Les faits sont généralement incontestés. À partir du témoignage direct et du contre-interrogatoire de Mme Ryan et des documents produits, la Cour résume les faits comme suit.
+[4] L’ex-conjoint de fait de Mme Ryan était récalcitrant à l’idée de déterminer les conditions de la séparation, de se présenter devant le tribunal, de donner des instructions à son avocat et même de ramasser ses paiements. Ces techniques d’obstruction peuvent avoir été liées à son désaccord ou à sa contestation du processus, mais aussi à son caractère dilatoire. Le retard a eu des conséquences. La relation s’est rompue en 2013. Mme Ryan a payé consciencieusement, conformément aux instructions de son avocat, les montants de la pension alimentaire en 2013 et en 2014 avant la conclusion d’une entente. Elle l’a fait afin que ces paiements soient admissibles à une pension alimentaire pour époux lorsqu’une ordonnance ou un accord judiciaire serait conclu l’année suivante, en 2014.
+[5] Les choses ne se sont pas déroulées comme prévu. Comme les procédures ont traîné en longueur, l’ex-partenaire n’a même pas assisté en personne à une conférence de règlement obligatoire le 7 novembre 2014. En fin de compte, son propre avocat l’a amené au téléphone, a lu les modalités du règlement à toutes les parties et au juge et a obtenu l’accord enregistré de l’ex-conjoint. Sur la base de cette entente, Mme Ryan a procédé à l’obtention de fonds pour les paiements supplémentaires prévus par l’entente, à l’exécution de divers actes fonciers et à l’établissement d’une date de clôture le 15 décembre 2014. Son ex-conjoint ne s’est pas présenté de nouveau.
+[6] En fin de compte, le recours aux tribunaux de droit de la famille était nécessaire, pour reprendre les mots du ministre, pour [traduction] « faire appliquer un règlement convenu par les parties le 7 novembre 2014 ». Cette ordonnance d’exécution était datée du 5 mars 2015 (l’ordonnance de mars 2015). À ce titre, le ministre suppose que l’arrêté de mars 2015 et sa date sont les documents essentiels et opérants aux fins de l’interprétation des paragraphes 56.1(4) et 60.1(3). Le ministre n’a fait aucune supposition quant à l’existence de l’accord ou à d’autres aspects de celui-ci, sauf en ce qui concerne l’alinéa 6c) ci-dessus. Mme n’a pas été en mesure de produire une version écrite du « règlement convenu » découlant de l’enregistrement des modalités convenues, qui ont été établies et convenues à la réunion de règlement du 7 novembre 2014.
+[7] La législation pertinente, en l’occurrence le paragraphe 56.1(4) de la Loi de l’impôt sur le revenu, LRC 1985, C1 (« Loi »), se lit ainsi :
+56.1(4).
+[ ]
+pension alimentaire Montant payable ou à recevoir à titre d’allocation
+périodique pour subvenir aux besoins du bénéficiaire
+[...] et
+si le bénéficiaire est [...] le conjoint de fait du payeur [...] et
+le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent
+ou d'un accord écrit;
+60.1(3) Pour l’application du présent article et de l’article 60, lorsqu’un accord écrit ou l’ordonnance d’un tribunal compétent, établi à un moment d’une année d’imposition, prévoit qu’un montant payé avant ce moment et au cours de l’année ou de l’année d’imposition précédente est considéré comme payé et reçu au titre de l’accord ou de l’ordonnance, les présomptions suivantes s’appliquent :
+a) le montant est réputé avoir été payé au titre de l’accord ou de l’ordonnance;
+Définitions
+(4) Les définitions figurant au paragraphe 56.1(4) s’appliquent au présent article et à l’article 60.
+[8] Les autorités ont examiné cet article à maintes reprises. Dans le contexte d’une entente, une simple confirmation de paiement avec une date d’entrée en vigueur rétrospective ne suffit pas en l’absence d’une mention précise du paiement préalable et d’une caractérisation des montants comme ayant été payés et reçus en vertu de l’entente : Nagy c R, 2003 CCI 282, aux paragraphes 6, 7 et 8.
+[9] Une entente qui doit être conclue rétroactivement ne peut pas remonter plus loin que l’année en cours ou l’année qui a précédé sa création, et même alors, l’intention des deux parties de permettre la déduction du montant pour conjoint doit être claire : Witzke c Sa Majesté la Reine, 2008 CCI 596, aux paragraphes 7 et 16.
+[10] Toutefois, l’existence d’un accord écrit ne doit pas nécessairement reposer sur des structures formalistes; en même temps, la preuve de son existence doit être davantage que de simples chèques et reçus indiquant le paiement : Connor c Sa Majesté la Reine, 2009 CCI 319, au paragraphe 16, renvoyant lui-même à Fortune c Sa Majesté la Reine, 2007 CCI 20.
+a) l’effet de l’ordonnance de mars 2015
+[11] Très différente du [traduction] « règlement convenu », dont il sera question ci-après, l’ordonnance de mars 2015 ne peut à elle seule rendre déductibles les montants de pension alimentaire pour conjoint en 2013. Une telle limitation temporelle est claire et sans ambiguïté : Witzke, précité. L’hypothèse du ministre concernant l’arrêté de mars 2015 n’a pas été démolie. Il convient de noter qu’aucune hypothèse n’a été formulée au sujet d’une entente quelconque.
+b) le « règlement convenu » du 7 novembre 2014 : suffisant ou non?
+[12] Ce qui distingue le présent appel, dans les faits, c’est le règlement convenu au dossier par l’ex-conjoint et Mme Ryan au sujet des montants de pension alimentaire de 2013. Cela se reflète dans les paragraphes suivants du décret de mars 2015 faisant référence à ce « règlement ».
+[traduction]
+ET APRÈS que les parties aient conclu un règlement pour régler tous les droits et intérêts que les parties peuvent avoir l’une contre l’autre, maintenant et dans l’avenir, le 7 novembre 2014 devant l’honorable juge Stewart de notre Cour, après une conférence de règlement tenue le même jour;
+ET APRÈS que la Cour ait conclu qu’un tel règlement lie les parties;
+5. QUE Mme Ryan voie porter à son crédit à titre de pension alimentaire pour conjoint pour les mois d’octobre, novembre et décembre 2013 un montant de 1 436,86 $ par mois.
+6. QUE Mme Ryan voie porter à son crédit à titre de pension alimentaire pour conjoint
+pour les mois de janvier à octobre 2014
+un montant de 1 436,86 $ par mois.
+7. QUE Mme Ryan voie porter à son crédit un montant de 980,50 $ à titre de pension alimentaire pour conjoint pour décembre 2014.
+[13] Dans ses observations au tribunal de la famille avant la délivrance de l’ordonnance de mars 2015, l’avocate de Mme Ryan a présenté les observations écrites suivantes à la juge Suzanne Hood :
+[traduction]
+Le 5 novembre 2014, l’affaire a fait l’objet d’une conférence de règlement. …. [S]on avocat [...] était présent et était en communication constante avec M. B. tout au long de la journée pendant la conférence de règlement. La conférence de règlement a duré presque toute la journée, et le règlement a été conclu à la fin de la journée. Le juge Stewart a demandé que M. B. assiste à la lecture de la conférence de règlement au dossier, par téléphone, afin qu’il puisse confirmer qu’il était d’accord avec le règlement conclu. M. B. a confirmé, aux fins du compte rendu, qu’il était d’accord avec tous les points du règlement.
+[14] Toutes les modalités du règlement ont été reflétées dans le dossier d’une cour supérieure, tel que convenu par l’ex-conjoint et confirmé comme reflétant une entente exécutoire ainsi consignée par le juge. Ce principe est appuyé par le juge qui a finalement rendu l’ordonnance de mars 2015 rendant le règlement exécutoire. Le formalisme n’est pas nécessaire. Par déduction, il fallait qu’un règlement convenu soit consigné par écrit dans la transcription ou le procès-verbal des délibérations de 2014. S’il n’y en avait pas eu, la juge (un autre juge que le juge de la conférence de règlement) ne l’aurait pas appliqué, parce qu’elle n’en aurait pas connu les modalités ou n’aurait pas été à l’aise avec l’acceptation de celui-ci par les deux ex-conjoints. L’ordonnance de mars 2015 a rendu exécutoires les modalités connues du règlement convenu en novembre 2014. L’exécution est distincte de la commémoration et de l’acceptation des modalités, et elle a été ultérieure à celles-ci.
+[15] Ces faits uniques satisfont aux dispositions du paragraphe 56.1(4) qui prévoit « un montant payable [...] à titre d’allocation périodique pour subvenir aux besoins [...] aux termes [...] d’un accord écrit ». Comme cette entente a été conclue en 2014, elle respecte le paragraphe 60.1(3) en ce qu’elle remonte à 2013, ce qui permet de déduire les montants de pension alimentaire convenus et versés pour subvenir aux besoins du conjoint au cours de cette année d’imposition.
+[16] L’appel est accueilli, sans qu'aucuns dépens ne soient adjugés.
+Signé à Ottawa, Canada, ce 18e jour de novembre 2018.
+« R. S. Bocock »
+Juge Bocock
+RÉFÉRENCE :
+2018TCC257
+No DU DOSSIER DE LA COUR :
+2016-1645(IT)I
+INTITULÉ :
+JENNIFER LYN RYAN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Yarmouth (Nouvelle-Écosse)
+DATE DE L’AUDIENCE :
+Le 2 octobre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 18 décembre 2018
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Rhonda Lemphers
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

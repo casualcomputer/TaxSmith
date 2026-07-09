@@ -1,0 +1,370 @@
+Title: Baker c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26017/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-106-26017-baker-c-la-reine-en.md
+Document type: case_law
+Last modified: 2007-02-19
+
+# Baker c. La Reine
+
+- Citation: 2007 TCC 106
+- Decision date: 2007-02-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3882, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Baker c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-02-19
+Neutral citation
+2007 TCC 106
+File numbers
+2005-938(GST)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-938(GST)G
+BETWEEN:
+BOBBY LEE BAKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION] ____________________________________________________________________
+Appeal heard on November 1, 2006, at Sherbrooke, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Robert Jodoin
+Counsel for the Respondent:
+Mario Laprise
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under the Excise Tax Act (notice number 4‑17-5004 dated April 16, 2004) for the period from January 1, 1997, to December 31, 2000, is dismissed with costs.
+Signed at Ottawa, Canada, this 19th day of February 2007.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 8th day of February 2008.
+Erich Klein, Revisor
+Citation: 2007TCC106
+Date: 20070219
+Docket: 2005-938(GST)G
+BETWEEN:
+BOBBY LEE BAKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Minister of National Revenue, through the Quebec Minister of Revenue (the “Minister”), issued an assessment against the appellant under the Excise Tax Act (the “Act”) because the appellant had failed to report and pay the goods and services tax (“GST”) during the period from January 1, 1997, to December 31, 2000 (the “relevant period”).
+[2] During the relevant period, the appellant operated a business involving the sale of rebuilt vehicles (the “business”). In 1997 and 2000, the appellant did not keep records relating to the operation of his business. In addition, the records for 1998 and 1999 were incomplete. When the Minister did his audit, the documents, in particular the supporting documentation (such as sales invoices), pertaining to the operation of the business during the relevant period, which documents would have enabled the Minister to establish the appellant’s obligations and responsibilities under Part IX of the Act, were not made available to the Minister when he requested them. Only part of the supporting documentation relating to purchases made by the appellant in the operation of his business was made available to the Minister. [1]
+[3] The appellant declared the following gross revenues and net revenues from the operation of his business during the relevant period:
+1997
+1998
+1999
+2000
+Gross revenue
+Nil[2]
+$130,906[3]
+$54,560[4]
+$7,540[5]
+Net revenue
+Nil
+$23,661
+($11,358)
+$7,540
+[4] In the absence of the necessary information, the audit of the appellant’s sales was based, as a last resort, on the bank deposits made to the appellant’s only bank account. [6]
+[5] Thus, using these bank statements, the Minister compiled all of the appellant’s deposits for each year of the relevant period and rightly deducted from the deposits all of the amounts that cannot be considered to represent sales, such as loans and rebates. The total net deposits so calculated by the Minister are as follows:
+1997
+1998
+1999
+2000
+Net deposits
+$55,666.63
+$200,010.45
+$130,215.33
+$98,831.04
+[6] The Minister arrived at a total sales amount for the relevant period by adding the total net deposits and making the adjustments appearing in the tables prepared by the auditor and reproduced in Schedule A attached hereto.
+[7] Thus, for 1997, the Minister determined that the appellant’s net deposits totalled $55,666.63. To calculate the appellant’s sales for that year, the Minister deducted the following amounts from these net deposits:
+(i) the employment income declared by the appellant for the same year, i.e., $1,272.00;
+(ii) $30,000.00 under the small supplier rule.
+[8] For 1998, the Minister determined that the appellant's net deposits totalled $200,010.45. To calculate the appellant’s sales for that year, the Minister subtracted the following amounts from these net deposits:
+(i) $130,906.54 representing the gross revenue declared by the appellant for the same year (Exhibit 1-4);
+(ii) $2,093.46 representing the GST declared by the appellant for the same year;
+(iii) $18 000.03. The appellant paid a GST amount corresponding to sales totalling $148,906 for the period from January 1, 1998, to December 31, 1998, while the sales declared by the appellant in his income tax return for the 1998 taxation year (Exhibit 1-4) totalled $130,906.54. The Minister took into account this difference of $18,000.03 in establishing the appellant’s sales during that taxation year.
+[9] For the 1999 taxation year, the Minister determined that the appellant’s net deposits totalled $103,215.33. To determine the sales for that year, the Minister made the following adjustments:
+(a) he first subtracted the following amounts from the net deposits:
+(i) $54,660.00 representing the gross revenue declared by the appellant for that year (Exhibit I-5);
+(ii) $3,862.19 representing the GST reported by the appellant for that year;
+(iii) $3,256.88 representing the QST reported by the appellant for that year.
+b) he added to the net deposits the sum of $20,000 representing a personal expense paid by the appellant in cash that did not come from the appellant’s bank account. This personal expense was related to the appellant’s payment of a fine of $20,000 that he had incurred for being found guilty of vehicle theft.
+[10] Finally, for the 2000 taxation year, the Minister determined that the appellant’s net deposits totalled $98,831.04. To determine the appellant’s sales for that year, the Minister made the following adjustments:
+(a) he first subtracted from the net deposits the sum of $7,540 representing the gross revenue declared by the appellant for that year (Exhibit 1‑6);
+(b) he then added to the net deposits the sum of $8,500 representing the purchases made by the appellant in the operation of his business, which purchases were paid for in cash that did not come from his bank account.
+[11] The Minister thus determined the appellant’s sales from the operation of his business during the relevant period to be $234,732.35, that is, $54,394.63, $49,010.42, $61,536.26 and $99,791.04 for the years 1997, 1998, 1999 and 2000 respectively.
+[12] After determining that the appellant’s total sales from the operation of his business were $234,732.35 during the relevant period, the Minister calculated the total amount of GST that the appellant was required to collect on the total amount of taxable supplies to be $16,431.26.
+[13] From the audit of the appellant’s bank deposits, the Minister was able to see that in the operation of his business the appellant had made purchases that entitled him to input tax credits (“ITC”). So the Minister subtracted an amount of $2,337.71 that he allowed as ITCs from the total GST amount of $16,431.26 that the appellant was required to collect on the total of the taxable supplies for the relevant period. The amount of the adjustments to the net tax reported was therefore established at $14,197.55, i.e., $16,431.26 less $2,233.71, and this is the amount that was assessed. According to the Minister, the appellant therefore owed the amount of the adjustments made to his net tax reported for the relevant period, plus interest ($2,880.54) and penalties ($6,383.90).
+[14] The following are the questions raised in this case:
+(i) Did the appellant refute the GST assessment made by the Minister?
+(ii) Was the appellant entitled to receive additional ITCs?
+(iii) Did the Minister assess the penalties and interest in accordance with sections 280 and 285 of the Act?
+Appellant’s evidence
+[15] The appellant’s evidence was essentially based on his own testimony as well as on the report and testimony of his expert witness, Gérard Côté, CGA.
+Appellant’s testimony
+[16] The appellant’s memory was faulty and his implausible testimony did not tell us much of any relevance, apart from the fact that most of the supporting documents related to the operation of his business were apparently destroyed when his residence was flooded. It should be pointed out that the appellant did not tell us anything regarding the circumstances of the flooding of his residence. He did not even see fit to specify the date of the flood. The appellant could have filed as evidence documents pertaining to the flooding, such as a proof of claim submitted to his insurers showing that the flooding took place. He did not do so. The appellant could have supported his allegations concerning the flood by calling independent and credible witnesses. He did not do so. I conclude from this that such evidence would have been unfavourable to him.
+[17] The appellant presented as evidence the report of his expert witness, Gérard Côté, CGA, filed as Exhibits A-1 and A‑2. Mr. Côté testified that he had obtained information from the Société d’assurance automobile du Québec (“SAAQ”) showing that the appellant and his spouse had made during the relevant period the following transactions:
+(a) Vehicle purchases
+Appellant
+Spouse
+1997
+14
+1998
+41
+1
+1999
+10
+7
+2000
+7
+14
+Total
+72
+22
+(b) Vehicle sales by the appellant and his spouse
+1997
+17
+1998
+39
+1999
+14
+2000
+5
+Total
+75
+[18] Mr. Côté testified that the appellant had 5 vehicles in inventory at the end of the relevant period and that he had also kept 23 vehicles to salvage the tires.
+[19] Mr. Côté testified that the Minister should have established the sale price of the 75 vehicles in question and the cost of the 103 vehicles in question on the basis of the values used by the SAAQ for the purpose of determining licensing fees, which values are taken from the Guide d’évaluation des automobiles et des camions légers (car and light truck evaluation guide) published by Hebdo Mag inc. (the “Guide”). Mr. Côté pointed out that the SAAQ establishes the value of a used vehicle as being the higher of the two following amounts:
+(i) the purchase price;
+(ii) the average wholesale selling price shown in the Guide.
+[20] Mr. Côté indicated in his testimony that, if the Minister had used that method:
+(a) The appellant’s taxable supplies would have totalled:
+(i) $82,700 in 1997;
+(ii) $274,107 in 1998;
+(iii) $119,375 in 1999; and
+(iv) $42,300 in 2000.
+(b) The purchases would have totalled:
+(i) $51,200 in 1997;
+(ii) $259,702 in 1998;
+(iii) $64,315 in 1999;
+(iv) $22,650 in 2000.
+[21] Mr. Côté estimated the operating costs of the appellant’s business at 15% of the value of his purchases, i.e. $7,680, $38,955, $9,647 and $3,397 for 1997, 1998, 1999 and 2000 respectively.
+[22] Mr. Côté estimated the selling costs related to the operation of the appellant’s business at 5% of his sales, i.e., $4,135, $13,705, $5,968 and $2,115 for 1997, 1998, 1999 and 2000 respectively.
+[23] Mr. Côté calculated as follows the appellant’s net tax for the relevant period:
+1997
+1998
+1999
+2000
+Taxable supplies
+$82,700.00
+$274,107.00
+$119,375.00
+$42,300.00
+Vehicle purchases
+$51,200.00
+$259,702.00
+$64,315.00
+$397,867.00
+Operating costs
+(15% of purchases)
+$7,680.00
+$38,955.30
+$9,647.25
+$59,680.05
+Selling costs
+(5% of sales)
+$4,135.00
+$13,705.35
+$5,968.75
+$25,924.10
+Total
+$63,015.00
+$312,362.65
+$79,931.00
+$483,471.15
+Tax due
+1997
+1998
+1999
+2000
+GST
+$5,789.00
+$19,187.49
+$8,356.25
+$2,961.00
+Input tax credits
+$4,411.05
+$21,865.39
+$5,595.17
+$1,971.38
+GST payable
+$1,377.95
+($2,127.90)
+$2,761.08
+$989.63
+Analysis and conclusion
+[24] Subsection 286(1) of the Act sets out the obligation of every person who carries on a business to keep sufficient records to allow the Minister to determine the obligations, liabilities and rights of the person under Part IX. If the required information is not adequate or available, the Act specifies at subsection 299(1) that the Minister is not bound by any return and may make his own assessment. Since the information in the present case was not adequate or available, the auditor, as a last resort, used the bank deposit method to establish the appellant's sales related to the operation of his business during the relevant period and made the necessary adjustments. Under the circumstances, this approach was acceptable, indeed necessary.
+[25] In this case, the appellant had to demonstrate, on a balance of probabilities, that the Minister’s numbers were erroneous, doing so through the use of supporting documentation or through the testimony of independent and credible witnesses. It is incumbent on the taxpayer to establish, on a balance of probabilities, that the assessment is too high in light of the applicable law and the pertinent facts. It is not enough for the taxpayer to demonstrate that it is conceivable that the assessment is too high. The taxpayer cannot use another, equally arbitrary method, to demonstrate that the amount of net tax assessed by the Minister was too high. Moreover, I note that the sales amount established by the appellant’s expert is greater than that established by the Minister using the bank deposit method and making certain adjustments.
+[26] To establish the appellant’s net tax, Mr. Côté calculated the input tax credits using a purely arbitrary method. I would point out that Mr. Côté established the appellant’s ITCs on the basis of the cost of vehicle purchases, i.e., the average wholesale price as it appears in the Guide, the estimated operating costs of the business and the estimated selling costs related to operating the business, determined using an equally arbitrary method and not based on supporting documentation.
+[27] Under subsection 169(1) of the Act, GST registrants that make taxable supplies are entitled to receive ITCs on the purchase of goods or services that are to be used in their business activities. ITC claims are calculated on a self-evaluation basis. Paragraph 169(4)(a) of the Act requires that, before filing their returns, registrants obtain sufficient information to determine the amount of ITCs that can be granted. Section 3 of the Input Tax Credit Information (GST/HST) Regulations made under the Act (the “Regulations”) sets out the necessary evidence, while the concept supporting documentation is defined at section 2 as follows:
+“supporting documentation” means the form in which information prescribed by section 3 is contained, and includes
+(a) an invoice,
+(b) a receipt,
+(c) a credit-card receipt,
+(d) a debit note,
+(e) a book or ledger of account,
+(f) a written contract or agreement,
+(g) any record contained in a computerized or electronic retrieval or data storage system, and
+(h) any other document validly issued or signed by a registrant in respect of a supply made by the registrant in respect of which there is tax paid or payable. (pièce justificative)
+[28] Subsection 169(4) of the Act and the Regulations are clear and the courts have adopted the position that a registrant is not entitled to receive the ITCs claimed before the required supporting documentation has been filed. In this case, the appellant did not produce as evidence the required supporting documentation and, therefore, he was not entitled to receive the ITCs claimed.
+[29] As for the interest payable by the appellant under section 280 of the Act, I will simply point out that the power to cancel such interest can only be exercised by the Minister under the provisions of section 281.1 of the Act and is not subject to review by this Court.
+[30] To establish the penalties applicable to the appellant, the Minister relied, in particular, on subsection 280(1) of the Act, which provides as follows:
+280(1) Subject to this section and section 281, where a person fails to remit or pay an amount to the Receiver General when required under this Part, the person shall pay on the amount not remitted or paid
+(a) a penalty of 6% per year, and
+(b) interest at the prescribed rate,
+computed for the period beginning on the first day following the day on or before which the amount was required to be remitted or paid and ending on the day the amount is remitted or paid.
+[31] The penalties imposed under this subsection relate to offences that fall under the category of strict liability offences and these penalties can be challenged if the taxpayer exercised due diligence. As a result of the implicit acknowledgement of the due diligence defence with regard to section 280, the registrant has the burden of proving that he or she has exercised due diligence with respect to the payment of the correct GST amount. In this case, the appellant has not submitted any evidence in that respect.
+[32] As for the penalty imposed under section 285 of the Act, I am of the opinion that the respondent had the burden of proving, on a balance of probabilities, that the appellant, knowingly, or under circumstances amounting to gross negligence, made a false statement or an omission in his GST returns and that the assessment of the penalty prescribed in section 285 of the Act was therefore justified.
+[33] I will point out in this regard that the evidence revealed that:
+(i) Lise Tétrault had notified the appellant on January 13, 1999 (Exhibit 1-8) that he had to have a bank account for his business and that he had to issue invoices for each vehicle sold, but he disregarded the notice so given;
+(ii) the appellant kept no books for 1997 and 2000, but did keep books for 1998 and 1999;
+(iii) the appellant filed a form (Exhibit 1-7), signed on April 30, 2000, indicating that he had ceased his operations on December 31, 1999, while his tax return filed for his 2000 taxation year indicated that his gross business income was $7,540;
+(iv) the tax return filed by the appellant for his 1997 taxation year indicated that he had not operated any business, yet the evidence in this case very clearly demonstrated the opposite;
+(v) the appellant had kept practically no documentation justifying the amount of GST that he paid and the input tax credits that he claimed.
+[34] These facts are more than sufficient grounds for concluding that the appellant knowingly made false statements for the years concerned in this appeal.
+[35] For these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 19th day of February 2007.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 8th day of February 2008.
+Erich Klein, Revisor
+SCHEDULE A
+Bobby Lee Baker
+Analysis using the bank deposit method
+1997
+1998
+1999
+2000
+Deposits folio 11485 Caisse populaire de Valcourt
+(Schedules 1 to 4)
+$55,666.63
+$200,010.45
+$103,215.33
+$98,831.04
+Subtract:
+Employment income declared
+$1,272.00
+Gross revenue declared
+$130,906.54
+$54,560.00
+$7,540.00
+GST declared
+$2,093.46
+$3,862.19
+QST declared
+$3,256.88
+Add:
+Purchases made in cash
+$8,500.00
+Personal expenses paid in cash (fine)
+$20,000.00
+Undeclared revenue
+$54,394.63
+$67,010.45
+$61 536.26
+$99,791.04
+Purchases allowed (Schedule 5)
+$31,910.12
+Undeclared net income
+$54,394.63
+$67,010.45
+$61,536.26
+$67,880.92
+Bobby Lee Baker
+Taxes
+1997
+1998*
+1999
+2000
+Additional revenue
+$54,394.63
+$49,010.42
+$61,536.26
+$99,791.04
+Small supplier
+-$30,000.00
+Subtotal
+$24,394.63
+$49,010.42
+$61,536.26
+$99,791.04
+GST (7%)
+$1,707.62
+$3,430.73
+$4,307.54
+$6,985.37
+Inputs on purchases (ITC)
+$2,333.71
+QST (6.5%)
+$1,696.65
+QST (7.5%)
+$3,933.09
+$4,938.28
+$8,008.23
+Inputs on purchases (ITR)
+$1,019.21
+* Additional revenue for 1998
+Sales for which taxes
+were remitted $148,906.57
+GST remitted $10,423.46
+Declared sales $130,906.54
+Undeclared sales $67,010.45
+Undeclared sales
+for which taxes C - (A - B)
+were not remitted
+$67,010.45 - ($148,906.57- $130,906.54)
+Taxable sales $49,010.42
+CITATION: 2007TCC106
+COURT FILE NO.: 2005-938(GST)G
+STYLE OF CAUSE: BOBBY LEE BAKER v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: November 1, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: February 19, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Robert Jodoin
+Counsel for the Respondent:
+Mario Laprise
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Robert Jodoin
+Firm: JODOIN HUPPÉ AVOCATS, s.e.n.c.
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Exhibit 1-11.
+[2] See Exhibit 1-3.
+[3] See Exhibit 1-4.
+[4] See Exhibit 1-5.
+[5] See Exhibit 1-6.
+[6] See analysis of the bank deposits in Exhibit 1-2.

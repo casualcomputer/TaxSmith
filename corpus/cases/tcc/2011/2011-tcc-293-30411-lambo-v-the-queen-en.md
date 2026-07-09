@@ -1,0 +1,181 @@
+---
+title: "Lambo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30411/index.do"
+last_modified: "2011-06-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 293"
+citation2: ""
+neutral_citation: "2011 TCC 293"
+decision_date: "2011-06-08"
+language: "en"
+item_id: "30411"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7938
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:32:44.424000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b9cab59193b08c4e710e53b6cc671cbbbad4baa65ea526eea349a75998cc0a47"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lambo v. The Queen
+
+- Citation: 2011 TCC 293
+- Decision date: 2011-06-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7938, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lambo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-08
+Neutral citation
+2011 TCC 293
+File numbers
+2011-278(IT)APP
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-278(IT)APP
+BETWEEN:
+FOLASADE LAMBO,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on April 12, 2011 at Calgary, Alberta
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Adam Gotfried
+____________________________________________________________________
+ORDER
+The application for an extension of time to file Notices of Objection in respect of the 2005 and 2006 taxation years is allowed, without costs, in accordance with the attached Reasons for Order.
+Signed at Vancouver, British Columbia, this 8th day of June 2011.
+“L.M. Little”
+Little J.
+Citation: 2011 TCC 293
+Date: 20110608
+Docket: 2011-278(IT)APP
+BETWEEN:
+FOLASADE LAMBO,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+A. FACTS
+[1] The Applicant and her husband currently reside in Vulcan, Alberta.
+[2] When the Applicant filed her income tax returns for the 2005 and 2006 taxation years, she claimed employment expenses and charitable donations.
+[3] The Minister of National Revenue (the “Minister”) reassessed the Applicant for the 2005 and 2006 taxation years by Notices of Reassessment dated August 24, 2009 and the expenses and charitable donations that were claimed by the Applicant were denied.
+[4] On June 9, 2010, the Applicant served Notices of Objection with respect to the 2005 and 2006 taxation years.
+[5] By letter to the Applicant dated December 21, 2010, the Minister said:
+(a) the Applicant had not filed her objection within 90 days from the mailing date of the Notice of Reassessment (dated August 24, 2009), or one year of the due date for filing her returns; and
+(b) pursuant to subsection 166.1(7) of the Income Tax Act (the “Act”), she had not made an application for an extension within one year of the expiration of the time limit for serving a Notice of Objection.
+[6] On January 5, 2011, the Applicant served an Application for an extension of time within which to file Notices of Objection.
+B. ISSUE
+[7] The issue is whether the Applicant should be granted an extension of time within which to file Notices of Objection for the 2005 and 2006 taxation years.
+C. ANALYSIS AND DECISION
+[8] I heard the Application in Calgary, Alberta, on April 12, 2011. During the hearing, a number of points came up which indicated that there were some unusual facts.
+[9] Counsel for the Respondent filed an Affidavit of Sandra Osberg, sworn on April 5, 2011 (the “Affidavit”). Mrs. Osberg is an Appeals Officer with the Canada Revenue Agency (the “CRA”). The Affidavit contained a number of Exhibits hereinafter referred to as “Exhibits (and the letter designated) of the Affidavit”.
+[10] The Notices of Reassessment for the 2005 and 2006 taxation years were issued by the Minister on August 24, 2009 (Exhibits A and B of the Affidavit).
+[11] The Applicant said that she and her husband had moved from Brampton, Ontario to Vulcan, Alberta in September, 2008, i.e., approximately 11 months before the Notices of Reassessment were issued.
+[12] The Notices of Reassessment were sent by the Minister to 21 Cadillac Crescent, Brampton, Ontario on August 24, 2009. As noted, this was the former home of the Applicant in Brampton. The Applicant moved to Vulcan, Alberta in September, 2008.
+[13] The Applicant said that she never received copies of the Notices of Reassessment, dated August 24, 2009, until she met with her accountant in Vulcan, Alberta on June 9, 2010.
+[14] The Applicant said that Notices of Objection to the Reassessments were sent by the accountant in Vulcan, Alberta, to the Sudbury office of the CRA on June 9, 2010.
+[15] The stamps on the forms indicate that the Sudbury Office of the CRA received the Notices of Objection on June 9, 2010. The Sudbury office of the CRA then sent the Notices of Objection to the Appeals Division of the Burnaby Fraser office in Surrey, British Columbia. The stamps on the two Notices indicate that the Notices of Objection were received by the Burnaby Fraser office of the CRA some 6 weeks later, i.e., July 30, 2010 (Exhibits C and D of the Affidavit).
+[16] By an unsigned letter dated June 17, 2010, the “Chief of Appeals” in the Western Intake Center of the CRA office in Surrey wrote to the Applicant. The letter from the Chief of Appeals said:
+This is to inform you that we have received your objection. As soon as your objection is assigned, an officer will contact you or your authorized representative.
+…
+(Exhibit E of the Affidavit)
+(Note: This letter was addressed to the Applicant at her home in Vulcan, Alberta and there is no indication that a copy of the letter was sent by the CRA to the Applicant’s authorized representative, i.e., Grant, Krystalowich & Bennett, of Vulcan, Alberta, the firm which filed the Notices of Objection in June 2010.)
+[17] A letter dated December 21, 2010 from the Burnaby Fraser office of the CRA stated:
+You did not file your objection within 90 days from the mailing date of the Notice of Reassessment, dated August 24, 2009, or one year of the due date for filing your return. Therefore, we cannot accept it under the “Income Tax Act.”
+Furthermore, we cannot grant you an extension of the time for filing your objection. According to Subsection 166.1(7) of the Income Tax Act you must make an application for an extension within one year of the expiration of the time limit for serving a “Notice of Objection.”
+…
+(Exhibit F of the Affidavit)
+[18] It should be noted that the letter from the Chief of Appeals in Surrey was sent to the Applicant on June 17, 2010. However, as indicated in paragraph [15] above, the stamps on the Notices of Objection indicate that the Burnaby Fraser Tax Office of the CRA in Surrey did not receive the Notices of Objection until July 30, 2010.
+[19] The Applicant said that she did not receive any letters or phone calls from “officials” of the CRA about the Notices of Objection that had been filed during the months of June to November, 2010 until she received the letter from Mr. Grewal.
+[20] According to my calculations, the 90-day period for filing Notices of Objection would expire on November 22, 2009, i.e., 90 days from August 24, 2009. However, November 22, 2009 was a Sunday and the deadline was Monday, November 23, 2009. The one-year period after November 23, 2009 would expire on November 23, 2010. In other words, the Minister’s officials did not advise the Applicant shortly after June 17, 2010 that she should file an application to extend the time to file Notices of Objection. The Minister’s officials waited until the time for filing an Application to extend the time within which to file Notices of Objection had expired, i.e., after November 23, 2010, and then advised the Applicant that she was too late to apply for an extension of time within which to file Notices of Objection.
+[21] There is a second point to consider: The Applicant testified that she was back in Ontario in August, 2009 and she met with her former accountant in Toronto – Paul Omorogieva – to discuss her tax position for the 2005 and 2006 taxation years. She said that her former accountant phoned the CRA offices in Toronto in her presence and on her behalf and was told that the CRA had issued Notices of Reassessment for her 2005 and 2006 taxation years. When the accountant received this information from the CRA, he told the Applicant to file Notices of Objection. She said that she signed the Notices of Objection forms in the accountant’s office and the accountant told the Applicant that he would file the Notices of Objection with the CRA at the following address:
+Canada Revenue Agency
+Technology Centre
+875 Heron Road
+Ottawa, ON K1A 1B1
+[22] In Exhibit G of Mrs. Osberg’s Affidavit, there is a copy of a letter from Diane Krystalowich (the Applicant’s accountant in Vulcan, Alberta) addressed to Mr. Grewal. The accountant’s letter says:
+We are attaching a copy of a Notice of Objection dated August 17, 2009 filed by Mrs. Lambo’s accountant in Ontario. …
+However, the Affidavit of Mrs. Osberg that is in my file does not contain a copy of the Notices of Objection which were filed by the Applicant on August 17, 2009.
+[23] Counsel for the Respondent said that the Notices of Objection that were filed on August 17, 2009 were not accepted by the CRA. (Note: Sandra Osberg, the CRA official who testified for the Respondent, said that the Notices of Objection which were dated August 17, 2009 were never received by the CRA. Mrs. Osberg also said:
+… the reassessment date was August 24th, 2009. If we had -- if we had received that, we would have sent her out a notice saying that it preceded the Notice of Reassessment and was invalid and that she would have to file another one.
+(Transcript, page 65, lines 2 to 8)
+[24] The Applicant maintains that her accountant in Toronto filed Notices of Objection on August 17, 2009. The Applicant also said that she had conversations with the Collections Section (Transcript, page 59, lines 9 to 16).
+[25] However, Mrs. Osberg said that she only referred to the file of the Appeals Section and she did not check the collection diary notes (Transcript, page 60, lines 3 to 5).
+[26] It can be seen that there is a conflict between the testimony of the Applicant and the testimony of Mrs. Osberg regarding the Notices of Objection dated August 17, 2009.
+[27] While it may not be necessary for the purpose of this Application to rely upon the Notices of Objection dated August 17, 2009, I accept the testimony of the Applicant on this point.
+[28] There are a number of Court decisions involving an Application to extend the time within which to file a Notice of Objection.
+[29] In Aztec Industries Inc. v The Queen, 95 D.T.C. 5235, the taxpayer applied for an extension of time and alleged that it had not received the Notice of Assessment. In that case, Justice Hugessen, for a unanimous Federal Court of Appeal, held that the burden of proving the existence of the Notice and the date of its mailing falls on the Minister. It is the Minister alone who has the knowledge of those facts and the means of proving them. The mailing of the Notice “starts the clock ticking against the taxpayer”, however, in this case, the Minister failed to adduce evidence to prove that the Notices had been issued and mailed.
+[30] In 236130 British Columbia Ltd. v The Queen, 2005 TCC 770, [2005] T.C.J. No. 599, Justice Bell of the Tax Court relied upon Aztec Industries as authority for the proposition that the onus is on the Minister “to establish that the reassessments were mailed on a timely basis to the proper address”. He later quoted from the reasons of Justice Thurlow in Scott v M.N.R., 60 D.T.C. 1273 (Exchequer Court of Canada), as follows:
+... Parliament never intended that such a notice could be given effectively by the "mailing" of it to a taxpayer at some wrong or fictitious address, and I find nothing in the statute to suggest that Parliament intended that a taxpayer should be bound by a notice of an assessment upon the posting of a notice thereof addressed to him elsewhere than at his actual address or at an address which he has in some manner authorized or adopted as address for that purpose.
+... In the present case, the notice of re-assessment which was put in the mail on May 28, 1957, while directed to the Appellant, was not directed to his actual address nor was it directed to either of the addresses stated in his 1952 income tax return. ... In my opinion, such a mailing or sending was not a valid mailing or sending of a notice within the meaning of s.46(2) of the Act, and it follows that the re-assessment was not made within the four year period limited by s.46(4).
+[31] In Rick Pearson Auto Transport Inc. v The Queen, [1996] G.S.T.C. 44, Justice Bowman (as he then was) dealt with an application to extend the time to file a Notice of Objection pursuant to section 303 of the Excise Tax Act. Justice Bowman looked to Aztec Industries and found that the Minister had failed to meet its burden to prove that the assessment had been mailed on the date alleged.
+[32] Khan v The Queen, 2009 TCC 248, [2009] T.C.J. No. 181, dealt with an application by the Crown to quash an appeal because it was filed after the deadline to appeal had expired. In that case, there was doubt as to whether the Minister had mailed the notices of reassessment to the correct address, and there was insufficient evidence to conclude that the notices were mailed to the address which the taxpayer had provided. Relying on Aztec Industries, Justice Boyle of the Tax Court found that the Crown must demonstrate that the 1-year and 90-day period had started to run. Because the Crown had failed to prove the notices were mailed to the taxpayer, its motion to quash the appeal was denied.
+[33] I have concluded that the reasoning of the Courts in Aztec Industries Inc., 236130 British Columbia Ltd., Rick Pearson Auto Transport and Khan applies in this case. In my opinion, Counsel for the Respondent did not establish that the Notices of Reassessment had been sent by the CRA to the proper mailing address of the Applicant. Furthermore, it should be noted that the Applicant, with the assistance of her accountant, filed Notices of Objection for the 2005 and 2006 taxation years on August 17, 2009. These Notices were filed when her accountant told her that officials of the CRA had issued Notices of Reassessment for the 2005 and 2006 taxation years.
+[34] In addition, the Applicant was advised in an unsigned letter from the Chief of Appeals of the CRA dated June 17, 2010, that they had received the Notices of Objection and that “an officer will contact you or your authorized representative”. As noted, no contact was ever made by an officer of the CRA until it was too late for the Applicant to file an Application.
+[35] Mr. Grewal of the CRA wrote to the Applicant on December 21, 2010 and told her that she was out of time. (Note: If CRA officials had contacted the Applicant shortly after June 17, 2010, she would have been aware of the one year deadline of November 23, 2010. However, CRA officials waited approximately four weeks after the deadline had passed and then told the Applicant that she was too late to apply for an extension.)
+[36] In these unusual facts, I believe that it would be unconscionable for the Minister to refuse to grant the Applicant an extension of time within which to file Notices of Objection for the 2005 and 2006 taxation years.
+[37] I have reached this conclusion for the following reasons:
+1. The Applicant demonstrated her attempt to dispute the Notices of Reassessment for the 2005 and 2006 taxation years by filing Notices of Objection on August 17, 2009 and also by filing Notices of Objection on June 9, 2010;
+2. The Applicant was misled by the unsigned letter from the Chief of Appeals when he advised her on June 17, 2010 that “an officer will contact you or your authorized representative”;
+3. No contact was made by CRA officials until Mr. Grewal advised the Applicant by letter dated December 21, 2010 that she was too late to file an Application to extend the time; and
+4. Furthermore, the CRA sent the Notices of Reassessment, issued on August 24, 2009, to the wrong address in Brampton, Ontario, when the Applicant had moved to Vulcan, Alberta approximately 11 months earlier.
+[38] I believe that the Applicant has satisfied the requirement of subsection 166.1(7) of the Income Tax Act.
+[39] I have therefore concluded that the Application to extend the time within which to file Notices of Objection should be granted and the Notices of Objection filed on June 9, 2010 should be accepted as valid Notices of Objection.
+Signed at Vancouver, British Columbia, this 8th day of June 2011.
+“L.M. Little”
+Little J.
+CITATION: 2011 TCC 293
+COURT FILE NO.: 2011-278(IT)APP
+STYLE OF CAUSE: FOLASADE LAMBO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: April 12, 2011
+REASONS FOR ORDER BY: The Honourable Justice L.M. Little
+DATE OF ORDER: June 8, 2011
+APPEARANCES:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Adam Gotfried
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

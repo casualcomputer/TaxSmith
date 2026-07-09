@@ -1,0 +1,251 @@
+---
+title: "9103-9438 Québec Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25917/index.do"
+last_modified: "2004-07-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 466"
+citation2: ""
+neutral_citation: "2004 CCI 466"
+decision_date: "2004-07-06"
+language: "fr"
+item_id: "25917"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3715
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:15:41.797000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "605b82680eb45aa6099e329ffc1620375948465a20776076d293933872b4c745"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9103-9438 Québec Inc. c. La Reine
+
+- Citation: 2004 CCI 466
+- Decision date: 2004-07-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3715, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9103-9438 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-06
+Référence neutre
+2004 CCI 466
+Numéro de dossier
+2003-4112(GST)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-4112(GST)I
+ENTRE :
+9103-9438 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 23 mars 2004 à Chicoutimi (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Paul Guimond
+Avocate de l'intimée :
+Me Ghislaine Thériault
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis porte le numéro 144251659RT, est daté du 31 janvier 2003 et vise la période du 1er mai au 31 juillet 2002, est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs ci-joints.
+Signé à Edmundston, Nouveau-Brunswick, ce 6e jour de juillet 2004.
+« François Angers »
+Juge Angers
+Référence : 2004CCI466
+Date : 20040706
+Dossier : 2003-4112(GST)I
+ENTRE :
+9103-9438 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit d'un appel relatif à une cotisation émise le 31 janvier 2003 et établie en vertu du paragraphe 191(3) de la Loi sur la taxe d'accise (la « Loi » ). Cette cotisation, dont l'avis porte le numéro 144251659RT, vise la période du 1er mai au 31 juillet 2002.
+[2] L'appelante, soit la société 9103-9438 Québec Inc. ( « 9103 » ), a acheté un immeuble situé au 272, rue du Séminaire, à la ville de Saguenay, le 4 décembre 2001 au coût de 125 000 $. Cet immeuble, qui était une ancienne école, comprend trois étages et un sous-sol. Deux de ces étages ont été rénovés en grande partie pour constituer des logements. La partie rénovée comprend donc six logements de quatre pièces et demie et deux de deux pièces et demie.
+[3] Les travaux ont été effectués par Construction Richard et Fils Inc., une société liée à 9013. Ils ont été achevés en grande partie au début de l'été 2002 et la première location se fit le 1er juillet de la même année.
+[4] Étant donné qu'il s'agissait ici d'un vieil édifice, 9103 a reçu une subvention de 100 000 $ pour couvrir une partie du coût des rénovations de l'immeuble dans le cadre du Programme de revitalisation des vieux quartiers financé par la ville de Saguenay et la Société d'habitation du Québec. La subvention a servi à ce que les experts ont qualifié de normalisation, c'est-à-dire rendre l'immeuble conforme aux normes actuelles de construction et ce, en raison de l'âge de l'édifice.
+[5] Les parties ne contestent pas que les activités de 9103 font en sorte qu'en vertu du paragraphe 191(3), elle a fourni à elle-même un immeuble d'habitation à logements multiples et devait donc à ce moment, soit le 1er juillet 2002, établir une autocotisation en se basant sur la juste valeur marchande de l'immeuble. Pour les fins des présents motifs, je reproduis ci-après le paragraphe 191(3) de la Loi :
+191(3) Pour l'application de la présente partie, lorsque les conditions suivantes sont réunies :
+a) la construction ou les rénovations majeures d'un immeuble d'habitation à logements multiples sont achevées en grande partie,
+b) le constructeur, selon le cas :
+(i) transfère à une personne, qui n'est pas l'acheteur en vertu du contrat de vente visant l'immeuble, la possession d'une habitation de celui-ci aux termes d'un bail, d'une licence ou d'un accord semblable conclu en vue de l'occupation de l'habitation à titre résidentiel,
+(i.1) transfère à une personne la possession d'une habitation de l'immeuble aux termes d'une convention prévoyant :
+(A) d'une part, la fourniture par vente de tout ou partie du bâtiment faisant partie de l'immeuble,
+(B) d'autre part, la fourniture par bail du fonds faisant partie de l'immeuble ou la fourniture d'un tel bail par cession,
+(ii) étant un particulier, occupe lui-même à titre résidentiel une habitation de l'immeuble,
+c) le constructeur, la personne ou un particulier locataire de celle-ci ou titulaire d'un permis de celle-ci est le premier à occuper à titre résidentiel une habitation de l'immeuble après que les travaux sont achevés en grande partie,
+le constructeur est réputé :
+d) avoir effectué et reçu, par vente, la fourniture taxable de l'immeuble le jour où les travaux sont achevés en grande partie ou, s'il est postérieur, le jour où la possession de l'habitation est transférée à la personne ou l'habitation est occupée par lui;
+e) avoir payé à titre d'acquéreur et perçu à titre de fournisseur, au dernier en date de ces jours, la taxe relative à la fourniture, calculée sur la juste valeur marchande de l'immeuble ce jour-là.
+[6] La question en litige consiste donc à déterminer la juste valeur marchande de l'immeuble le 1er juillet 2002. Il s'agit d'un immeuble construit en 1912 et qui a servi d'école jusqu'à l'achat par 9103. Il a une superficie de 3 444 pieds carrés par étage et repose sur un terrain de 16 925 pieds carrés. Cet immeuble est situé dans un vieux secteur de la ville de Chicoutimi et il bénéficie de tous les services et avantages qu'accorde un quartier ayant de bons services.
+[7] Chacune des parties a fait témoigner un évaluateur agréé. Celui de l'appelant, monsieur Pierre Doré, a préparé deux évaluations. La première a été complétée avant que les travaux de rénovation soient exécutés. Il a utilisé à cette fin les estimés des coûts de rénovation prévus. Cette évaluation a été faite dans le but de permettre à 9103 de faire une demande de financement auprès d'institutions financières. La deuxième évaluation a été faite dans le but de répondre au présent litige et, étant donné que l'évaluation est postérieure aux rénovations, il a été possible d'utiliser des chiffres plus concrets.
+[8] Monsieur Doré est évaluateur agréé depuis 1987. Il a été associé d'une société d'évaluation conseil dans la région du Saguenay jusqu'en 2004. Il est maintenant évaluateur municipal pour la ville de Saguenay. La société 9103 a retenu ses services pour produire le premier rapport afin d'appuyer la demande de financement faite dans le but de rénover deux étages et de les convertir en logements, tel que décrit ci-haut. Pour ce faire, monsieur Doré a utilisé le plan de construction et le coût prévu des travaux. Il a conclu à une juste valeur marchande de 465 000 $ pour l'immeuble en utilisant les trois méthodes reconnues en évaluation immobilière, soit les méthodes du coût, de la parité et du revenu. Ces méthodes ont produit des évaluations de 489 000 $, 466 900 $ et 462 000 $ respectivement.
+[9] Son deuxième rapport (pièce A-1) a été préparé pour les fins du présent litige et de la question à trancher. La juste valeur marchande a donc été établie en date du 1er juillet 2002, en utilisant des données beaucoup plus concrètes en raison du fait que les rénovations étaient complétées et que leur coût était déterminé. La juste valeur marchande de l'immeuble a donc été évaluée à 425 000 $; l'auteur de l'évaluation a utilisé les trois mêmes méthodes reconnues afin d'obtenir ce montant. Les méthodes ont donné les résultats suivants : une juste valeur marchande de 429 000 $ selon la méthode du coût, de 425 500 $ selon la méthode de parité et de 410 000 $ selon la méthode du revenu. Selon monsieur Doré, il se doit de prendre en considération ces trois méthodes d'évaluation reconnues afin de pouvoir émettre une opinion sur la juste valeur marchande d'un immeuble. Son rapport est bien documenté et comporte tous les éléments pertinents. On y constate certains facteurs pertinents, tel le fait que l'évaluation municipale à l'achat était de 246 500 $, alors que le prix d'achat n'était que de 125 000 $.
+[10] Monsieur Doré a apporté des précisions, dans son témoignage, sur chacune des méthodes qu'il a utilisées. Il est toutefois opportun de reproduire la conclusion de son rapport, que l'on retrouve aux pages 54, 55 et 56 :
+CORRÉLATION ET VALEUR FINALE
+La corrélation constitue l'étape finale du processus d'évaluation et consiste à vérifier les indications fournies par chacune des méthodes d'évaluation afin de minimiser les écarts s'il y a lieu.
+Sommaire des résultats selon les différentes méthodes d'évaluation :
+COÛT
+429 000 $
+PARITÉ
+425 500 $
+REVENU
+410 000 $
+La méthode du coût de remplacement déprécié, qui est un moyen de preuve indirecte est utilisée lorsqu'il est impossible d'employer la méthode de parité ou celle du revenu comme élément de mesure de la valeur d'un immeuble.
+L'utilisation de cette méthode repose sur plusieurs données subjectives, entre autres, la dépréciation, qui augmentent les risques d'erreur et, sur une complexité d'ajustements qui affectent la réponse finale de cette approche.
+Pour ces raisons, nous sommes d'avis que la valeur marchande obtenue par cette méthode devra se corroborer avec les deux autres méthodes d'évaluation.
+La méthode de parité est une méthode qui vise essentiellement à prédire le prix de vente le plus probable d'une propriété en la comparant à une autre du même type.
+Cette méthode, en plus d'être un moyen de preuve directe, demeure un outil très employé par les acheteurs et les vendeurs puisqu'elle reflète leurs propres comportements sur le marché.
+Dans ce dossier, elle nous a permis d'analyser certaines indications de l'activité considérant le genre de propriété à évaluer et l'utilisation des transactions analysées. Dans le tableau de l'analyse, nous constatons qu'il y a faiblesse du marché représentatif pour une propriété comme celle à évaluer. Toutefois, les comparables retenues rendent les conclusions de cette dernière fiable.
+Le résultat obtenu est représentatif de la valeur marchande du sujet et corrobore avec les autres méthodes d'évaluation.
+La méthode du revenu consiste à capitaliser le revenu net annuel normalisé d'un immeuble au taux de capitalisation découlant du marché pour en indiquer la valeur marchande.
+Il va de soi qu'un immeuble produisant des revenus doit être analysé en fonction de ceux-ci. Il tiendra compte de la rentabilité de ce dernier et il capitalisera le revenu net par un taux provenant du marché.
+Nous avons analysé le sujet de cette façon également en choisissant la méthode de capitalisation soit celle du flux monétaire (Elwood Abrégé).
+À cause du type de propriété, nous croyons que la valeur obtenue par l'approche du revenu constitue le meilleur indice de sa valeur marchande. Cependant, la valeur obtenue par la méthode de parité est également un bon indicateur de la valeur marchande compte tenu que cette méthode est un moyen de preuve directe. Par conséquent, nous concluons à une valeur marchande de 425 000 $ après rénovations soit la tendance centrale des valeurs obtenues par les différentes méthodes analysées.
+CERTIFICATION
+Nous certifions par la présente :
+Avoir visité et inspecté la propriété sous étude et considéré tous les facteurs pertinents pouvant affecter la valeur de cette propriété.
+N'avoir aucun intérêt présent ou futur dans la propriété sous étude et déclare que le montant de nos honoraires n'est aucunement relié aux valeurs estimées.
+Que les données recueillies lors de l'enquête, demeurent sujettes aux conditions limitatives contenues dans ce rapport.
+Avoir agi au meilleur de nos connaissances et croyances.
+Nous concluons à une valeur marchande définitive en date de juillet 2002 de :
+425 000 $
+La proportion de la valeur marchande attribuable à la partie commerciale est estimée à 35%, soit la tendance centrale obtenue par la superficie utilisée (37.5%) par la partie commerciale versus la superficie totale, et par la source des revenus locatifs (32.3%) provenant du commercial versus les revenus totaux.
+[11] Parmi les précisions qu'a données monsieur Doré, on retrouve des commentaires que je trouve pertinents en l'espèce, tel que celui que lors de rénovation, contrairement à la construction, il y a souvent des imprévus et qu'il faut considérer le prix de la démolition avant celui de la reconstruction. Dans la méthode du revenu, certaines dépenses qui doivent être faites lors d'une rénovation n'auront pas l'effet d'augmenter les revenus. En l'espèce, la normalisation de l'immeuble, que la subvention a servi à payer, n'aura pas d'effet sur les revenus. Monsieur Doré insiste pour dire que la juste valeur marchande est une notion plus vaste que la simple notion du coût dans le cas de la rénovation d'un vieil immeuble. En l'espèce, il réfère aussi aux grands espaces communs et aux deux escaliers aux deux extrémités de l'immeuble pour justifier, en partie, une désuétude fonctionnelle dans sa méthode du coût.
+[12] Selon monsieur Doré, la méthode du revenu est la plus importante pour l'immeuble en question. Il s'agit d'un vieil immeuble et on doit prendre en considération le fait que certaines réparations devront être faites sans pour autant augmenter les revenus. De plus, il faut prendre en considération la vocation commerciale et résidentielle de l'édifice dans l'utilisation des méthodes de la parité et du revenu.
+[13] Les coûts réels de la rénovation se chiffrent à environ 366 000 $. Madame Nadia Potvin a témoigné que la totalité de cette somme n'a pas servi uniquement à refaire les deux étages en question. Une partie de cet argent a servi à la partie commerciale de l'immeuble, dont des travaux liés à l'électricité, la plomberie, la cage d'escalier, le système de ventilation qui, à lui seul, a coûté 50 000 $, la mécanique et les coûts de démolition.
+[14] De son côté, l'intimée a fait témoigner à titre d'expert en évaluation immobilière monsieur Gilles Vézina, qui compte 23 ans d'expérience à ce titre. Il est à l'emploi du ministre du Revenu du gouvernement du Québec et prépare de telles expertises. Il soutient que dans la détermination de la juste valeur marchande d'un bien immobilier, la fin et le but sont excessivement importants. Selon monsieur Vézina, il faut aller chercher la meilleure valeur dans le contexte d'une loi donnée. Son évaluation, en l'espèce, a donc été faite en vue d'établir la juste valeur marchande aux fins fiscales relativement à la taxe sur les produits et services. La Loi considère que le constructeur a vendu et racheté l'immeuble à sa juste valeur marchande. Puisqu'il s'agit d'un immeuble à usage mixte, il a préparé son évaluation de sorte que la fourniture à être taxée soit distincte et aucunement accessoire à l'autre usage.
+[15] Il a donc fait son calcul de la juste valeur marchande en utilisant le coût réel de transformation pour l'ensemble des huit logements sans la valeur contributive du terrain et des parties existantes du vieux bâtiment, telles que les fondations, les murs extérieurs, la structure, le toit, etc. Il considère, par la suite, la valeur contributive du terrain et du bâtiment existant comme étant 20% du coût total de transformation des logements. Je vais reproduire ses calculs et sa conclusion :
+Calcul de la juste valeur marchande
+Le coût réel de transformation pour l'ensemble des huit (8) logements est de 366 039,25 $ sans la valeur contributive du terrain et de ses parties existantes du vieux bâtiment telles que les fondations, les murs extérieurs, la structure, le toit, etc.
+Dans le calcul de la JVM, il faut considérer la valeur contributive des deux éléments, soit le terrain et le bâtiment existant. Nous estimons cette valeur contributive à 20% du coût total de transformation des logements.
+- Coûts réels de construction des logements
+366 039,25 $
+- Valeur contributive pour la partie logement, du terrain et de la construction existante (366 039,25 $ x 20%)
+73 207,85 $
+439 247 10 $
+- Profits du promoteur 4% (439 247,10 $ x .04)
+17 569,88 $
+456 816,98 $
+Valeur arrondie à :
+456 800 $
+Approche par la méthode économique ou du revenu
+Revenu potentiel brut :
+6 logements à 690 $/mois =
+4 140 $
+2 logements à 300 $/mois =
+600
+4 740 $ x 12 = 56 880 $
+Le multiplicateur du revenu brut potentiel est estimé à 8.0, considérant que les logements sont loués par un organisme public. Le bail est à long terme pour l'ensemble des logements et les pertes pour la non-location et les mauvaises créances, sont pratiquement nulles.
+Indicateur de la valeur :
+56 880 $ x 8.0 = 455 040 $
+Valeur arrondie à 455 000 $
+Conclusion
+Devant de pareils résultats je suis d'opinion que la juste valeur marchande de la partie transformée en logements locatifs, est de 456 800 $. Ce montant correspond à celui qu'aurait dû débourser une personne qui aurait fait appelle à un constructeur non lié pour acquérir cet immeuble résidentiel une fois terminé.
+[16] Il a utilisé le coût réel de construction des logements selon l'information obtenue du représentant de l'appelante. La juste valeur marchande établie inclut la taxe sur les produits et services (TPS) et la taxe de vente du Québec.
+[17] Dans son deuxième rapport, il a fait certains rajustements visant certains frais associés à la partie considérée non rénovée et rajuste sa valeur à 460 200 $, sans pour autant modifier sa conclusion antérieure sur la juste valeur marchande.
+[18] Il a aussi établi le coût de reproduction à 467 800 $ et pour y arriver, il a ajouté la moitié de la subvention de 100 000 $ comme coût excédentaire dû à la conservation de l'architecture extérieure et aux exigences des normes de construction.
+[19] Monsieur Vézina a aussi établi une juste valeur marchande selon la méthode du revenu. Il est arrivé à des valeurs de 446 698 $ ou de 454 576 $, selon qu'il ait utilisé les loyers réels de l'immeuble ou les loyers économiques. Dans le calcul basé sur les revenus réels, monsieur Vézina a additionné la moitié de la subvention de 100 000 $ et a utilisé un taux hypothécaire de 7,25% et un taux de rendement des fonds de 7,5%. Le deuxième montant a été obtenu en utilisant les loyers économiques basés sur les données de l'APCHQ, publiés dans la revue Québec Habitation de novembre et décembre 2001. Ces loyers économiques sont plus élevés que les loyers réels de l'immeuble. Il ne me semble pas que la subvention de 100 000 $ ait été prise en considération dans la détermination de la juste valeur marchande de l'immeuble avec la méthode des loyers économiques. Finalement, monsieur Vézina a jugé que la méthode de la parité n'était pas appropriée pour déterminer la juste valeur marchande de l'immeuble.
+[20] Il y a donc entre les deux experts une différence d'approche en ce sens que celui de l'appelante a pris en considération les trois méthodes reconnues en leur accordant respectivement le poids qu'elles méritent pour en arriver à la juste valeur marchande de 425 000 $, incluant les taxes. Il soustrait de ce montant la proportion attribuable à la partie commerciale de l'immeuble, soit 35%, dans le but d'établir la valeur de la fourniture pour les fins du calcul de la TPS. De son côté, l'expert de l'intimée a uniquement utilisé la méthode du coût basée sur le coût réel des rénovations plus un pourcentage de la valeur contributive de l'immeuble et un profit de 4% à l'entrepreneur pour établir une juste valeur marchande de 456 800 $, incluant les taxes. Cette juste valeur marchande est, selon sa conclusion, celle de la partie transformée en logements locatifs et établit la valeur de la fourniture aux fins du calcul de la TPS. La difficulté que pose ces deux approches réside dans le fait que la valeur établie par l'expert de l'intimée pour la transformation des deux étages en logements est plus élevée de 31 800 $ par rapport à la juste valeur marchande de tout l'immeuble selon l'expert de l'appelant.
+[21] Si je compare maintenant les évaluations des deux experts selon la méthode du coût seulement, l'appelante et l'intimée ont respectivement suggéré une juste valeur marchande de 429 000 $ et 467 800 $. Essentiellement, la différence entre les deux évaluations tient au fait que l'expert de l'intimée a inclus dans ses calculs la moitié de la subvention. À mon avis, bien que la subvention ait permis à l'appelante d'effectuer des rénovations à moindre coût, son influence sur la valeur marchande d'un tel immeuble est minimale au motif que sans de telles subventions, il serait impossible de rentabiliser un tel projet et permettre la location de ces logements à un taux compétitif. En fait, il serait presque impossible de songer à rénover ces vieux immeubles sans la possibilité d'obtenir de telles subventions.
+[22] Les notes explicatives sur le projet de loi C-25 publiées par le ministre des Finances du Canada concernant le paragraphe 191(3) se lisent comme suit :
+Les paragraphes 191(3) et (4) énoncent la règle de fourniture à soi-même dans le cas d'un immeuble d'habitation à logements multiples, par exemple un immeuble de rapport, ainsi que d'une adjonction à un tel immeuble, respectivement. [...] Le constructeur est tenu de verser la TPS/TVH calculée sur la juste valeur marchande de l'immeuble ou de l'adjonction.
+[23] Les définitions des expressions « juste valeur marchande » et « rénovations majeures » au paragraphe 123(1) de la Loi se lisent comme suit :
+« juste valeur marchande » Juste valeur marchande d'un bien ou d'un service fourni à une personne, abstraction faite de la taxe exclue de la contrepartie de la fourniture en application de l'article 154.
+« rénovations majeures » Fait l'objet de rénovations majeures le bâtiment qui est rénové ou transformé au point où la totalité, ou presque, du bâtiment qui existait immédiatement avant les travaux, exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planchers, du toit et des escaliers, a été enlevée ou remplacée, dans le cas où, après l'achèvement des travaux, le bâtiment constitue un immeuble d'habitation ou fait partie d'un tel immeuble.
+[24] Notre cour s'est penchée dans plusieurs décisions sur le sens de l'expression « juste valeur marchande » et sur l'utilisation de la méthode du coût dans l'application du paragraphe 191(3) de la Loi. Ces décisions n'écartent pas l'utilisation des deux autres méthodes lorsque les circonstances sont appropriées. Je reproduis ci-après des passages pertinents de certaines de ces décisions.
+[25] Dans l'affaire Charleswood Legion Non-Profit Housing Inc. c. Canada, [1998] A.C.I. no 503 (Q.L.), le juge Archambault de cette cour résume le sens de l'expression « juste valeur marchande » :
+40 Il serait utile d'établir le sens de « juste valeur marchande » qui a été adopté par les tribunaux. Dans le jugement Re Mann Estate, [1972] 5 W.W.R. 23, à la page 27, confirmé par [1973] CTC 561 (C.A.C.B.), confirmé par [1974] CTC 222 (C.S.C.), nous lisons cette définition : [TRADUCTION] « la « juste valeur marchande » est le plus haut prix disponible exprimé en termes monétaires qu'un vendeur consentant peut obtenir pour l'immeuble dans un marché libre et sans contrainte de la part d'un acheteur avisé et consentant agissant sans lien de dépendance » .
+[26] Dans l'affaire Timber Lodge Ltd. c. Canada, [1994] A.C.I. no 934 (Q.L.), le juge Taylor de cette cour croit qu'il ne faut pas écarter du revers de la main la méthode du coût. Le juge Taylor voit difficilement comment il est possible que la juste valeur marchande d'un immeuble presque neuf soit inférieure au coût réel de cet immeuble (par exemple, le coût des rénovations) lorsque l'amortissement de l'immeuble n'est pas encore un facteur dont il faut tenir compte. Les pertes ultérieures ne peuvent donc pas être prises en considération immédiatement dans l'évaluation de la juste valeur marchande de l'immeuble en question. La Cour a écrit :
+[...] La difficulté que j'ai, cependant, est celle d'éliminer dans les deux rapports la méthode du coût, encore que je comprenne les justifications qu'ils ont invoquées. Le fait est que dans le cas de ces deux immeubles, la construction était terminée à la date même où l'évaluation était requise. Bien sûr, il serait peu ou pas utile de restructurer un montant afin d'obtenir des « coûts de remplacement ou de reproduction » , et cela ne serait d'aucune utilité. Toutefois, le fait d'éliminer, d'ignorer ou de dénigrer l'utilité, pour les besoins d'une évaluation, du coût réel total qui s'était accumulé au cours de la construction et qui avait atteint son point culminant ce jour-là (no 144 Maypoint, 31 mars 1991, et no 148 Maypoint, 31 juillet 1991) fait que je suis profondément en désaccord avec le résultat obtenu. Dans les centaines de rapports et d'opinions d'évaluateurs qui m'ont été soumis au fil des ans, je ne me souviens d'aucun dont la date pertinente coïncidait exactement avec la fin de la construction, et les calculs de coûts totaux qui en résultaient. À mon avis, en l'absence de toute différence directe et incontestable dans le montant du coût, celui-ci devrait aussi servir de valeur et, en fait, de juste valeur marchande.
+[...]
+[...] La juste valeur marchande doit avant tout être juste, et des montants de 490 000 $ pour chaque immeuble sont peu crédibles quand le coût réel est le point de départ, et que rien n'est exigé pour l'amortissement, etc. Une autre façon de montrer clairement une telle diminution radicale de valeur serait peut-être de déposer des états financiers certifiés, montrant des pertes continues pendant un certain temps, par rapport au maximum des loyers qu'il est possible d'obtenir, mais même cela serait sérieusement mis en doute. Cela, bien sûr, ne pourrait se produire qu'à une date ultérieure, et non pas à la date d'achèvement des travaux de construction. Aucun de ces renseignements, ou aucun renseignement qui puisse même y ressembler, n'a été présenté à l'audience. Les montants d'évaluation que l'intimée a fixés, même s'ils sont eux-mêmes douteux, n'ont pas été contestés sérieusement par les rapports de l'appelante.
+[27] Dans l'affaire Charleswood Legion Non-Profit Housing Inc., précitée, le juge Archambault de cette cour a suivi les conclusions du juge Taylor dans l'affaire Timber Lodge Ltd. en précisant que la juste valeur marchande d'un immeuble équivaut à son coût moins les éléments improductifs tels les dépassements de coût. La Cour a écrit :
+46 Je pense que les deux experts n'auraient pas dû laisser de côté la méthode du coût. Dans des circonstances comme celles en l'espèce, la juste valeur marchande devrait être très proche du coût payé par les appelantes parce que les deux immeubles étaient tout à fait neufs à la date d'évaluation pertinente. C'est la méthode qu'a suivie mon collègue le juge Taylor dans Timber Lodge Limited v. The Queen, [1994] G.S.T.C. 73. Nous n'avons pas dans ce cas à faire de rajustements compte tenu de la dépréciation économique, ce qui aurait été le cas si les évaluations avaient été faites plusieurs années après la construction des immeubles. [...]
+47 Il peut y avoir des circonstances spéciales dans lesquelles une partie des frais de construction d'un immeuble peuvent ne pas être pris en compte dans sa juste valeur marchande. Par exemple, s'il y avait eu des dépassements de coût et d'autres éléments improductifs pendant la construction, le coût d'un tel immeuble pourrait être au-dessus de sa juste valeur marchande. [...]
+[28] Toujours dans l'affaire Charleswood Legion Non-Profit Housing Inc., le juge Archambault a précisé que le choix de la méthode d'évaluation de la juste valeur marchande d'un immeuble varie selon le type d'immeuble à évaluer. Par exemple, la méthode du revenu convient aux immeubles à revenu locatif. La Cour a écrit :
+44 Pour choisir la bonne méthode servant à établir la juste valeur marchande d'un immeuble, il faut tenir compte de la nature de l'immeuble et chaque cas doit être évalué selon les faits qui lui sont propres. Dans le présent cas, il s'agit d'évaluer des immeubles sans but lucratif et non des immeubles locatifs à but lucratif. À mon avis, la méthode du revenu ne convient pas dans le cas d'immeubles locatifs sans but lucratif parce qu'aucun revenu ne peut être obtenu de tels immeubles. Le même raisonnement s'applique pour la méthode comparative directe. Les immeubles qui ont servi à la comparaison dans ce cas en particulier étaient des immeubles locatifs à but lucratif. Je pense qu'il est juste de supposer que les acheteurs de ces immeubles locatifs auraient tenu compte du rendement de leur investissement au moment d'accepter le prix qu'ils ont payé pour ces immeubles. À mon avis donc, les éléments comparables utilisés ne convenaient pas. On ne peut comparer des immeubles locatifs à but lucratif avec des immeubles locatifs sans but lucratif. Cette méthode ne pourrait être utilisée que si on trouvait d'autres immeubles locatifs sans but lucratif. Or, aucun élément de preuve à cet effet n'a été produit devant la Cour.
+[29] Le juge Archambault a donc conclu au paragraphe 49 que « la juste valeur marchande des deux immeubles en question ne doit pas dépasser leur coût et ne devrait pas être inférieure au montant des emprunts hypothécaires ayant servi à financer leur acquisition » .
+[30] Dans l'affaire Sira Enterprises Ltd. c. Canada, [2000] A.C.I. no 804 (Q.L.), le juge Margeson de cette cour confirme que l'évaluateur ne peut pas faire fi de la méthode du coût dans l'évaluation de la juste valeur marchande d'un immeuble :
+76 Dans la présente espèce, on a expressément demandé à l'évaluateur de l'intimée pourquoi il avait omis de prendre en compte la méthode du coût en déterminant quelle était la juste valeur marchande à l'époque où les immeubles étaient prêts à être occupés. La seule tentative d'explication a été qu'il avait déjà conclu que la technique du revenu et la technique fondée sur les ventes comparables étaient les meilleures méthodes et qu'il n'avait pas pris en compte la technique du coût. Il a bel et bien dit que les ventes comparables utilisées étaient vraiment comparables, mais la preuve indiquait bel et bien que des facteurs différaient quand on examinait les immeubles qui sont considérés en l'espèce et les biens comparables qui avaient été utilisés. De l'avis de la Cour, ce n'était pas une raison suffisante pour faire carrément fi de la méthode du coût.
+[31] Le juge Margeson souligne également les lacunes de la méthode de la parité (ou méthode des ventes comparables) :
+82 C'est, bien sûr, une faiblesse de la méthode fondée sur les ventes comparables, car il est évidemment impossible de trouver des ventes vraiment comparables, et en l'espèce l'évaluateur de l'intimée a bel et bien admis qu'il lui avait fallu parcourir une certaine distance par rapport à l'emplacement des immeubles en cause pour trouver d'autres immeubles qu'il considérait comme comparables.
+[32] Dans l'affaire Pinelli c. Canada, [1998] A.C.I. no 583 (Q.L.), le juge McArthur de cette cour a estimé qu'un juge pouvait déterminer lui-même la juste valeur marchande d'un immeuble, même s'il ne doit pas se contenter d'adopter un chiffre qui soit un compromis entre la juste valeur marchande suggérée par l'appelante et celle suggérée par l'intimée :
+19 Pour en arriver à une valeur, je fais mienne la déclaration maintes fois citée du juge Walsh dans l'arrêt Succession de feu Bibby c. La Reine, C.F., 1re inst., no T-3587-82, 17 mars 1983, à la page 19 (83 DTC 5148 à la page 5157), où l'on peut lire ce qui suit :
+Bien qu'il ait été souvent jugé qu'un tribunal ne devait pas, après avoir étudié tous les témoignages d'expert et autres preuves, se contenter d'adopter un chiffre qui soit un compromis entre les chiffres proposés par les parties au procès, il a aussi été dit que le tribunal pouvait, lorsqu'il ne jugeait pas la preuve d'un expert totalement satisfaisante ou concluante et les ventes comparables particulièrement valables, se faire sa propre opinion sur l'évaluation à condition que toute la preuve contradictoire soit toujours étudiée de façon soigneuse. Le chiffre auquel le tribunal parvient ne doit pas nécessairement être celui qu'a suggéré l'expert ni celui que les parties souhaitent voir adopter.
+[33] Lorsqu'il s'agit de déterminer la valeur marchande d'un immeuble, cette valeur doit correspondre à la définition de la juste valeur marchande. Il faut aussi que la méthode servant à établir la juste valeur marchande tienne compte de la nature de l'immeuble. Les décisions reproduites ci-haut établissent clairement que dans le cas de la construction d'un immeuble neuf, la méthode du coût semble la plus appropriée puisque la juste valeur marchande d'un immeuble ne doit pas normalement dépasser son coût. Toutefois, lorsqu'il s'agit de la rénovation de deux étages pour les transformer en logements et qu'il s'agit d'un vieil immeuble historique qui n'est pas conforme aux exigences d'aujourd'hui, il est plus que probable, comme c'est le cas en l'espèce, que le coût de telles rénovations dépasse de beaucoup la juste valeur marchande de l'immeuble. Dans de telles circonstances, l'utilisation de la méthode du coût, à mon avis, n'est pas appropriée puisqu'il s'agit, selon le paragraphe 191(3), d'établir la juste valeur marchande de l'immeuble et non des rénovations des deux étages.
+[34] Les notes explicatives du ministre des Finances du Canada disent clairement que le paragraphe 191(3) de la Loi demande l'évaluation de la juste valeur marchande de l'immeuble en entier. À mon avis, la méthode utilisée par l'expert de l'intimée ne reflète pas la juste valeur marchande de l'immeuble en entier. Son évaluation est concentrée sur le coût des rénovations des deux étages aux fins du calcul de la TPS alors que le calcul doit se faire sur la juste valeur marchande de l'immeuble en entier.
+[35] Dans un cas comme celui en l'espèce, où il y a transformation de deux étages seulement en logements, et qu'il s'agit d'un vieil édifice où l'évaluation des coûts de rénovation est à risque, il me paraît approprié d'avoir recours à la moyenne des trois méthodes d'évaluation utilisées par l'expert de l'appelante. Je vais donc souscrire à la juste valeur marchande établie par l'expert de l'appelante et conclure que la juste valeur marchande de l'immeuble au 1er juillet 2002 est de 425 000 $, taxes incluses.
+[36] Aux fins d'établir maintenant la valeur de la fourniture taxable de la partie de l'immeuble servant d'immeuble d'habitation, il faut se référer aux directives du paragraphe 136(2) de la Loi, qui précisent ce qui suit :
+136(2) Fourniture combinée d'immeubles - Pour l'application de la présente partie, dans le cas où la fourniture d'un immeuble comprend deux catégories de biens, visées respectivement aux alinéas a) et b), les biens de chaque catégorie sont réputés être des biens distincts et être l'objet de fournitures distinctes et aucune des fournitures n'est accessoire à l'autre :
+a) un immeuble qui est, selon le cas :
+(i) un immeuble d'habitation,
+(ii) un fonds, un bâtiment ou une partie de bâtiment qui fait partie d'un immeuble d'habitation ou dont il est raisonnable de s'attendre à ce qu'il en fasse partie,
+(iii) un parc à roulottes résidentiel;
+b) d'autres immeubles qui ne font pas partie de l'immeuble visé à l'alinéa a).
+[37] Il y a donc, dans l'immeuble en question, des biens qui ne satisfont pas à la définition d'un immeuble d'habitation. Il faut donc, aux fins d'établir la fourniture taxable, établir une proportion permettant de faire cette distinction. L'expert de l'appelante a estimé la proportion attribuable à la partie commerciale à 35% d'après la proportion de la superficie de la partie commerciale relativement à la superficie totale et d'après la proportion des revenus locatifs provenant de la partie relativement aux revenus totaux. J'accepte donc que cette proportion de l'immeuble en question aux fins de la catégorie des biens taxables est de 65% de la juste valeur marchande de l'immeuble.
+[38] L'appel est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, selon les motifs ci-avant mentionnés.
+Signé à Edmundston, Nouveau-Brunswick, ce 6e jour de juillet 2004.
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2004CCI466
+No DU DOSSIER DE LA COUR :
+2003-4112(GST)I
+INTITULÉ DE LA CAUSE :
+9103-9438 Québec Inc. et Sa Majesté la reine
+LIEU DE L'AUDIENCE :
+Chicoutimi, Québec
+DATE DE L'AUDIENCE :
+le 23 mars 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge François Angers
+DATE DU JUGEMENT :
+le 6 juillet 2004
+COMPARUTIONS :
+Pour l'appelante :
+Me Paul Guimond
+Pour l'intimée :
+Me Ghislaine Thériault
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Paul Guimond
+Étude :
+Mes Girard, Allard et associés
+Chicoutimi (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

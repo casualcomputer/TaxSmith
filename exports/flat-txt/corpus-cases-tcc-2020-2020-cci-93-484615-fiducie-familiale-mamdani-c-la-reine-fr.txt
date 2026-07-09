@@ -1,0 +1,413 @@
+Title: Fiducie familiale Mamdani c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/484615/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-93-484615-fiducie-familiale-mamdani-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-08-27
+
+# Fiducie familiale Mamdani c. La Reine
+
+- Citation: 2020 CCI 93
+- Decision date: 2020-08-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4557, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fiducie familiale Mamdani c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-08-27
+Référence neutre
+2020 CCI 93
+Numéro de dossier
+2017-3741(IT)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3741(IT)G
+ENTRE :
+FIDUCIE FAMILIALE MAMDANI
+appelante
+et
+SA MAJESTÉ LA REINE
+intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 23 avril 2019, à Calgary (Alberta).
+Devant : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Avocats de l’appelante :
+Jehad Haymour, Sophie Virji
+Avocate de l’intimée :
+Sonia Bellerive
+JUGEMENT
+L’appel est rejeté avec dépens.
+Les parties disposent d’un délai de 30 jours suivant la date du jugement pour parvenir à un accord sur les dépens et en informer la Cour, à défaut de quoi l’intimée disposera alors d’un délai de 30 jours pour déposer des observations écrites sur les dépens et l’appelante disposera encore d’un délai de 30 jours pour déposer une réponse écrite. Les observations des parties ne devront pas dépasser cinq pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord et qu’elles ne déposent pas d’observations dans les délais applicables, les dépens seront adjugés à l’intimé, conformément au tarif B.
+Signé à Vancouver (Colombie-Britannique), ce 27e jour d’août 2020.
+« D. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 30e jour de novembre 2020.
+François Brunet, réviseur
+Référence : 2020 CCI 93
+Date : 20200827
+Dossier : 2017-3741(IT)G
+ENTRE :
+FIDUCIE FAMILIALE MAMDANI
+appelante
+et
+SA MAJESTÉ LA REINE
+intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Le présent appel concernait deux questions connexes relatives à un transfert de biens assujetti au paragraphe 160(1) de la Loi de l’impôt sur le revenu (la LIR) [1] :
+a) Doit-on prendre en considération le montant de l’impôt sur le revenu payable par le bénéficiaire du transfert en raison de la réception du bien transféré pour décider de sa juste valeur marchande, aux fins du sous-alinéa 160(1)e)(i) de la LIR?
+b) Notre Cour doit-elle répudier une jurisprudence de la Cour d’appel fédérale, l’arrêt Gilbert [2] ?
+[2] Le présent appel a été introduit au nom de la fiducie familiale Mamdani (la fiducie) en réponse à l’avis de cotisation no 3768191, délivré le 15 avril 2016 par l’Agence du revenu du Canada (l’Agence), au nom du ministre du Revenu national (le ministre).
+II. LES FAITS
+[3] Est en cause une fiducie familiale entre vifs établie le 8 février 1999 qui était, et continue d’être, résidente de l’Alberta, au Canada. Riaz Mamdani est le seul administrateur de la fiducie. Parmi les bénéficiaires de la fiducie, il y a Riaz Mamdani, son épouse (Zainool Mamdani) et leurs enfants, petits-enfants, parents, frères et sœurs, nièces et neveux. Tous les bénéficiaires de la fiducie visés par le présent appel résident en Alberta, au Canada. En 2000, 2001 et 2002, la fiducie détenait la totalité des actions émises dans le capital de Global Equity Fund Ltd. (Global), une société privée canadienne, dont l’année d’imposition se termine le 30 septembre.
+[4] Au cours de la période 2000-2002, Global était, aux fins du paragraphe 160(1) de la LIR, tenue de payer une ou plusieurs sommes aux termes de la LIR. Les 30 septembre 2000, 2001 et 2002, Global a versé des dividendes imposables à la fiducie s’élevant respectivement à 2 733 984 $, à 743 000 $ et à 25 400 $. Chaque fois que Global versait l’une des sommes de dividendes susmentionnées, la somme que Global était tenue de payer aux termes de la LIR au cours ou à l’égard de l’année d’imposition en question ou de toute année d’imposition antérieure dépassait le montant du dividende.
+[5] Dans son avis d’appel, la fiducie a admis ce qui suit : [traduction]
+a) pendant les années d’imposition en question, la fiducie avait un lien de dépendance avec Global;
+b) la fiducie a reçu des dividendes de Global à des moments où Global était tenue de payer une ou plusieurs sommes aux termes de la LIR;
+c) chaque fois que Global a versé un dividende à la fiducie en 2000, 2001 et 2002, l’obligation correspondante de Global relativement à la LIR dépassait le montant du dividende en question [3] .
+La fiducie n’a versé aucune contrepartie à Global pour les dividendes versés en 2000, 2001 et 2002; ainsi la seule question à résoudre dans le présent appel concerne la juste valeur marchande des dividendes au moment où ils ont été versés par Global à la fiducie.
+[6] À l’audience, Kim Moody, comptable de la fiducie, a déclaré que, lors de la préparation des déclarations de revenus pour 2000, 2001 et 2002 de la fiducie, et de Riaz et Zainool Mamdani, il avait envisagé différents scénarios afin de décider si la fiducie devait inclure la totalité du montant de chaque dividende dans ses revenus ou s’il était souhaitable d’en attribuer une partie à un ou plusieurs de ses bénéficiaires [4] . Il a témoigné que, si les seuls revenus de la fiducie en 2000, 2001 et 2002 étaient les dividendes imposables en question et qu’aucune partie de ces dividendes n’était attribuée aux bénéficiaires, le montant total de l’impôt sur le revenu fédéral et provincial indiqué dans trois déclarations d’impôt sur le revenu fictives (comme il les a appelées), qui ont été produites en preuve, aurait été payable par la fiducie [5] . En contre-interrogatoire, M. Moody s’est rendu compte que, lors de la préparation des déclarations fictives, il avait négligé certaines pertes et déductions dont la fiducie pouvait se prévaloir, de sorte que les montants de l’impôt hypothétique figurant dans les déclarations fictives étaient légèrement supérieurs à ce qu’ils auraient été si ces pertes et déductions avaient été prises en compte. Plus tard dans l’instance, l’avocat de la fiducie a soumis à la Cour un document indiquant la somme totale de l’impôt sur le revenu fédéral et provincial qui aurait été payable par la fiducie si elle n’avait pas attribué une partie des dividendes à ses bénéficiaires et si elle avait pris en compte les pertes et autres déductions disponibles. Dans l’hypothèse où aucune partie des dividendes n’a été attribuée par la fiducie à ses bénéficiaires, les montants de l’impôt hypothétique calculés par M. Moody sont indiqués dans le tableau A ci-dessous. Les sommes d’impôt indiquées dans les déclarations fictives figurent dans la colonne intitulée [traduction] « Impôt hypothétique à payer par la fiducie » (c.-à-d., la deuxième colonne à partir de la droite). Les sommes révisées, après avoir pris en compte les pertes et autres déductions dont la fiducie pouvait se prévaloir, figurent dans la colonne intitulée « Impôt hypothétique révisé à payer par la fiducie » (c.-à-d., la colonne de droite).
+Tableau A
+Année
+Dividendes
+Impôt hypothétique à payer par la fiducie
+Impôt hypothétique révisé à payer par la fiducie
+2000
+2 733 984,00 $
+814 066,15 $
+806 312,56 $
+2001
+743 000,00
+178 939,17
+146 969,25
+2002
+25 400,00
+6 117,17
+2 323,17
+Total
+3 502 384,00 $
+999 122,49 $
+955 604,98 $
+[7] Après avoir reçu le dividende de 2 733 984 $ le 30 septembre 2000, la fiducie a remis 100 000 $ à Riaz Mamdani et 300 000 $ à Zainool Mamdani. Après avoir reçu le dividende imposable de 743 000 $ le 30 septembre 2001, la fiducie a remis 174 179 $ à Riaz Mamdani et 174 179 $ à Zainool Mamdani. Après avoir reçu le dividende imposable de 25 400 $ le 30 septembre 2002, la fiducie en a remis 4 094 $ à Riaz Mamdani, mais n’a rien versé à Zainool Mamdani [6] . L’impôt sur le revenu fédéral et provincial total payé par la fiducie, Riaz Mamdani et Zainool Mamdani relativement aux dividendes est indiqué ci-dessous.
+Tableau B
+Année
+Dividendes
+Impôt payé par la fiducie
+Impôt payé par Riaz
+Impôt payé par Zainool
+Impôt total
+2000
+2 733 984 $
+686 160 $
+29 081 $
+85 345 $
+800 586 $
+2001
+743 000
+66 241
+40 674
+30 546
+137 461
+2002
+25 400
+16 335
+0
+S.O.
+16 335
+Total
+3 502 384 $
+768 736
+69 755
+115 891 $
+954 382 $ [7]
+III. PREUVE D’EXPERT
+[8] Lors de l’audition du présent appel, l’avocat de la fiducie a invité Douglas D. Welsh, CPA, CA, EEE, de Welsh Valuation Inc. à témoigner à titre d’expert concernant la juste valeur marchande des dividendes versés par Global à la fiducie. L’avocate de la Couronne s’est opposée à l’admission de cette preuve; cependant, pour les motifs expliqués ci-dessous, j’ai autorisé M. Welsh à témoigner et j’ai admis son rapport d’évaluation des calculs en preuve [8] .
+[9] L’avocate de la Couronne a soutenu que le témoignage d’opinion de M. Welsh n’était ni pertinent ni nécessaire. Elle a soutenu que, compte tenu d'une jurisprudence de la Cour d’appel fédérale, l’arrêt Gilbert, il n’est pas nécessaire de rechercher si l’obligation fiscale d’un bénéficiaire de dividendes doit être prise en considération dans la détermination de la juste valeur marchande du dividende, de sorte que la preuve n’est pas pertinente, car elle entraverait l’exercice par la Cour de sa mission judiciaire. Elle a en outre soutenu que la seule question qui se pose dans le présent appel est une question de droit, c’est-à-dire savoir si la jurisprudence Gilbert dicte l’issue de l’appel. Selon la Couronne, la preuve d’expert est inutile, car elle n’aiderait pas la Cour à trancher cette question de droit [9] .
+[10] Comme je le résume ci-dessous, l’avocat de la fiducie a soutenu qu'est erronée la jurisprudence Gilbert rendue par la Cour d’appel fédérale. Si cette thèse est correcte, il serait important d’obtenir une preuve d’expert quant à la juste valeur marchande des dividendes payés par Global à la fiducie, ce qui pourrait (du moins selon la fiducie) comprendre une analyse de l’incidence, s’il y a lieu, de la réception des dividendes payés par Global à la fiducie et de l’obligation fiscale qui en résulte pour cette dernière et ses bénéficiaires sur la détermination de la juste valeur marchande de ces dividendes. Je reconnais que, si la jurisprudence Gilbert est correcte, le témoignage de M. Welsh n’est pas nécessaire. Toutefois, si la jurisprudence Gilbert ne joue pas en l’espèce, notre Cour a besoin de l’assistance d’un expert pour déterminer la juste valeur marchande des dividendes versés par Global à la fiducie. Par excès de prudence, et après avoir effectué une rapide analyse mentale des coûts et des avantages, j’ai décidé qu’il valait mieux opter pour l’audition des témoignages d’experts, plutôt que de ne pas les exclure.
+[11] Le témoignage de M. Welsh se résume en six questions, et leurs réponses correspondantes, tirées de son rapport, comme indiqué en partie ci-dessous :
+[traduction]
+Question A : Sachant que l’impôt fédéral et provincial, dont les sommes figurent dans le tableau 2 [10] , serait payable à échéance sur le dividende imposable de l’année 2000 de 2 733 984 $ devant être reçu le 30 septembre 2000, quel est le montant maximum qu’un actionnaire sans lien de dépendance (en d’autres termes une fiducie) paierait le 30 septembre 2000 pour une source de revenus de dividende imposable de 2 733 984 $?
+Réponse : [...] Par conséquent, en résumé et selon l’hypothèse exposée à la question A, l’actionnaire sans lien de dépendance (en d’autres termes une fiducie) peut payer et une société sans lien de dépendance peut accepter une somme comprise entre 1 919 918 $ et 1 936 159 $ [...] au 30 septembre 2000, pour les 2 733 984 $ de la source de revenus de dividendes de l’année 2000, si la fiducie a choisi de conserver les fonds.
+Question B : En quoi la réponse à la question A changerait-elle si cet actionnaire sans lien de dépendance (en d’autres termes une fiducie) savait qu’il pouvait réduire ses impôts fédéraux et provinciaux en répartissant les revenus de la manière indiquée dans le tableau 1 [11] ci-dessus et en sachant que les bénéficiaires paieraient les impôts mentionnés dans le tableau 1?
+Réponse : [...] Par conséquent, en résumé et selon les hypothèses exposées à la question B, l’actionnaire sans lien de dépendance (en d’autres termes une fiducie) peut payer et une société sans lien de dépendance peut accepter une somme comprise entre 1 933 398 $ et 1 949 370 $ [...] au 30 septembre 2000, pour les 2 733 984 $ de la source de revenus de dividendes, en présumant un taux d’imposition et des caractéristiques fiscales similaires à ceux de la fiducie familiale Mamdani.
+Question C : Sachant que les impôts fédéraux et provinciaux équivalant aux sommes indiquées dans le tableau 2 seraient payables à échéance sur le dividende imposable de 2000 [12] [sic] de 743 000 $ devant être reçu le 30 septembre 2001, quel est le montant maximum qu’un actionnaire sans lien de dépendance (en d’autres termes une fiducie) paierait le 30 septembre 2001 pour une source de revenus de dividendes imposables de 743 000 $, en supposant que le flux de revenu de dividendes complet serait conservé dans la fiducie?
+Réponse : [...] Par conséquent, en résumé et selon l’hypothèse exposée à la question C, l’actionnaire sans lien de dépendance (en d’autres termes une fiducie) peut payer et une société sans lien de dépendance peut accepter une somme comprise entre 564 061 $ et 565 940 $ [...] au 30 septembre 2001, pour les 743 000 $ de la source de revenus de dividendes de 2001, si la fiducie a choisi de conserver les fonds.
+Question D : En quoi la réponse à la question C changerait-elle si cet actionnaire sans lien de dépendance (en d’autres termes une fiducie) savait qu’il pouvait réduire ses impôts fédéraux et provinciaux en répartissant les revenus de la manière indiquée dans le tableau 1 ci-dessus et en sachant que les bénéficiaires paieraient les impôts mentionnés dans le tableau 1?
+Réponse : [...] Par conséquent, en résumé et selon les hypothèses exposées à la question D, l’actionnaire sans lien de dépendance (en d’autres termes une fiducie) peut payer et une société sans lien de dépendance peut accepter une somme comprise entre 605 539 $ et 606 982 $ [...] au 30 septembre 2001, pour les 743 000 $ de la source de revenus de dividendes de 2001, en présumant un taux d’imposition et des caractéristiques fiscales similaires à ceux de la fiducie familiale Mamdani.
+Question E : Sachant que les impôts fédéraux et provinciaux équivalant aux sommes indiquées dans le tableau 1 seraient payables à échéance sur le dividende imposable de 2002 de 25 400 $ devant être reçu le 30 septembre 2002, quel est le montant maximum qu’un actionnaire sans lien de dépendance (en d’autres termes une fiducie) paierait le 30 septembre 2002 pour une source de revenus de dividendes imposables de 25 400 $, en supposant que le flux de revenu de dividendes complet serait conservé dans la fiducie?
+Réponse : [...] Par conséquent, en résumé et selon l’hypothèse exposée à la question E, l’actionnaire sans lien de dépendance (en d’autres termes une fiducie) peut payer et une société sans lien de dépendance peut accepter une somme comprise entre 19 283 $ et 19 345 $ [...] au 30 septembre 2002, pour les 25 400 $ de la source de revenus de dividendes de 2002, si la fiducie a choisi de conserver les fonds.
+Question F : En quoi la réponse à la question E changerait-elle si cet actionnaire sans lien de dépendance (en d’autres termes une fiducie) savait qu’il pouvait réduire ses impôts fédéraux et provinciaux en répartissant les revenus de la manière indiquée dans le tableau 1 ci-dessus et en sachant que les bénéficiaires paieraient les impôts mentionnés dans le tableau 1?
+Réponse : [...] Par conséquent, en résumé et selon les hypothèses exposées à la question F, l’actionnaire sans lien de dépendance (en d’autres termes une fiducie) peut payer et une société sans lien de dépendance peut accepter une somme comprise entre 9 065 $ et 9 231 $ [...] au 30 septembre 2002, pour les 25 400 $ de la source de revenus de dividendes de 2002, en présumant un taux d’imposition et des caractéristiques fiscales similaires à ceux de la fiducie familiale Mamdani [13] .
+[12] En somme, M. Welsh a fondé son évaluation sur l’hypothèse voulant qu’une société qui est sur le point de produire une déclaration, ou qui vient de produire une déclaration de dividende peut vendre cette source de revenus de dividende imposable à un actionnaire sans lien de dépendance. Au cours de son témoignage, M. Welsh a reconnu que, au cours de ses 26 années d’expérience en tant qu’évaluateur d’entreprise agréé, il n’avait jamais vu de vente d’une source de revenus de dividendes imposables ni évalué une telle source de revenus avant la présente mission.
+[13] J’ai admis le témoignage et le rapport de M. Welsh en preuve; toutefois, je ne suis pas convaincu que l’approche qu’il a retenue soit la bonne méthode pour déterminer la juste valeur marchande d’un dividende aux fins de l’article 160 de la LIR. Il me semble que, si une société a déclaré un dividende, il appartient au détenteur de l’action sur laquelle le dividende a été déclaré [14] , de sorte que la société n’est pas en mesure de vendre ce dividende à quelqu’un d’autre. Par contre, si la société n’a pas encore déclaré de dividende alors qu’elle prétend vendre le flux de revenus du dividende, elle ne vend pas réellement un dividende (parce que le dividende n’est pas encore déclaré), mais vend autre chose.
+[14] La thèse de la fiducie repose sur la définition de la « juste valeur marchande », telle qu’elle a été consacrée par les jurisprudences Henderson Estate et Bank of New York et Nash (qui sont analysées ci-dessous). Cette définition repose sur une vente réalisée dans le cadre du déroulement normal des affaires dans un marché n’étant pas soumis à des pressions inhabituelles et étant constitué d’acheteurs disposés à acheter et des vendeurs disposés à vendre, qui n’ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d’acheter ou de vendre. Selon mon interprétation, M. Welsh et l’avocat de la fiducie ont présumé qu’un dividende pouvait être acheté et vendu sur un tel marché. Bien que tel puisse être le cas, je ne suis pas convaincu que le droit des sociétés et les facteurs fiscaux applicables à la déclaration, au paiement et à la réception d’un dividende, soient ceux que supposait M. Welsh.
+[15] J’ai exploré avec M. Welsh plusieurs scénarios comportant des bénéficiaires de dividendes dans différentes situations fiscales afin de comprendre son opinion. M. Welsh semblait reconnaître que la juste valeur marchande d’un dividende pouvait fluctuer en fonction de la situation fiscale de l’actionnaire bénéficiaire [15] . On peut illustrer ce concept en prenant l’exemple d'une société privée avec cinq actionnaires égaux, à savoir un particulier dans la tranche d’imposition la plus élevée, un particulier dans la tranche d’imposition la plus basse, un particulier avec des reports de pertes substantiels, une société de portefeuille admissible à une déduction aux termes du paragraphe 112(1) de la LIR, et une entité exonérée d’impôt, chaque actionnaire détenant 20 % des actions émises de la société et chaque actionnaire recevant, de la société, un dividende de 1 000 $. Selon l’opinion de M. Welsh, la juste valeur marchande de chacun des 1 000 $ de dividendes ne serait pas nécessairement la même. Plus précisément, en raison de l’impôt à payer (ou non) par les actionnaires respectifs, dans certains cas, selon M. Welsh, la juste valeur marchande du dividende serait inférieure à 1 000 $. Par exemple, il semblerait, selon l’approche retenue par M. Welsh, que la juste valeur marchande du dividende payé au particulier dans la tranche d’imposition la plus élevée serait inférieure à la juste valeur marchande du dividende payé à l’entité exonérée d’impôt, même si le montant de chaque dividende est de 1 000 $.
+[16] Comme expliqué ci-dessous, je suis d’avis que l’issue du présent appel doit être déterminée conformément à la jurisprudence Gilbert. Cependant, si la jurisprudence Gilbert ne s’appliquait pas, je ne pense pas que l’avis d’évaluation donné par M. Welsh représente la bonne méthodologie pour évaluer les dividendes versés par Global à la fiducie.
+IV. QUESTION EN LITIGE
+[17] Les deux questions posées dans le paragraphe introductif des présents motifs portent sur le même point, à savoir si, aux fins du sous-alinéa 160(1)e)(i) de la LIR, l’impôt sur le revenu fédéral et provincial payable par la fiducie et par Riaz Mamdani et Zainool Mamdani, au titre des dividendes versés par Global à la fiducie les 30 septembre 2000, 2001 et 2002 respectivement, peuvent être pris en considération pour déterminer la juste valeur marchande des biens transférés par Global à la fiducie (en d’autres termes les dividendes versés par Global à la fiducie).
+V. DISCUSSION
+A. Article 160
+[18] En 2000, 2001 et 2002, les dispositions du paragraphe 160(1) de la LIR étaient rédigées comme suit :
+160(1) Lorsqu’une personne a [...] transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) [s.o.],
+b) [s.o.],
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) [s.o.],
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) [s.o.] [...] [16]
+[19] Dans l’arrêt Livingston, la Cour d’appel fédérale a résumé ainsi les critères à appliquer lors de l’examen du paragraphe 160(1) de la LIR :
+Étant donné la signification claire des termes du paragraphe 160(1), les critères dont dépend le déclenchement de son application se révèlent évidents :
+1) L’auteur du transfert doit être tenu de payer des impôts en vertu de la Loi au moment de ce transfert.
+2) Il doit y avoir eu transfert direct ou indirect de biens au moyen d’une fiducie ou de toute autre façon.
+3) Le bénéficiaire du transfert doit être :
+i. soit l’époux ou conjoint de fait de l’auteur du transfert au moment de celui-ci, ou une personne devenue depuis son époux ou conjoint de fait;
+ii. soit une personne qui était âgée de moins de 18 ans au moment du transfert;
+iii. soit une personne avec laquelle l’auteur du transfert avait un lien de dépendance.
+4) La juste valeur marchande des biens transférés doit excéder la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert [17] .
+[20] Dans l’arrêt Livingston, la Cour d’appel fédérale a également signalé que l’objet du paragraphe 160(1) de la LIR consiste à empêcher le contribuable de transférer ses biens à une personne avec qui il a un lien de dépendance afin de faire échec aux efforts déployés par l’Agence pour percevoir l’argent qui est dû au ministre [18] .
+[21] Le paragraphe 160(1) de la LIR ne prévoit pas l’exercice d’un pouvoir discrétionnaire judiciaire. Dans la décision Bleau, le juge Archambault a observé :
+Si toutes les conditions prévues à l’article 160 sont réunies, la Cour doit appliquer cet article et n’a pas d’autre choix que de confirmer la cotisation [19] .
+B. La jurisprudence Gilbert
+[22] Comme susmentionné, l’avocat de la fiducie a soutenu que je devais répudier la jurisprudence Gilbert de la Cour d’appel fédérale, principalement au motif qu’aucune preuve d’expert ou factuelle n’avait été présentée au juge de première instance dans cette affaire pour étayer un calcul de la juste valeur marchande des dividendes et que la Cour d’appel fédérale n’a pas procédé à l’interprétation légale requise du concept de la « juste valeur marchande ». L’avocat de la fiducie a également fait valoir que la Cour d’appel fédérale avait commis une erreur dans l’arrêt Gilbert en observant que la détermination de la juste valeur marchande devait être évaluée entre les mains du cédant [20] .
+[23] En ce qui concerne l'affaire Gilbert, au cours de deux années d’imposition, à un moment où elle avait une dette fiscale en souffrance, une société dont les actions étaient détenues à parts égales par M. et Mme Gilbert, leur a versé des dividendes. M. et Mme Gilbert ont déclaré les dividendes dans leurs déclarations de revenus respectives et, bien que cela ne soit pas indiqué dans les motifs du juge de première instance, il appert qu’ils ont probablement payé l’impôt requis relativement à ces dividendes. Par la suite, le ministre a établi une cotisation visant M. et Mme Gilbert en vertu du paragraphe 160(1) de la LIR.
+[24] Le juge de première instance a conclu que le paiement des dividendes constituait un transfert de propriété, pour lequel aucune contrepartie n’était donnée par les actionnaires, de sorte qu’il était assujetti au paragraphe 160(1). Toutefois, en déterminant la juste valeur marchande des dividendes « au moment du transfert » (en reprenant l’expression employée au sous-alinéa 160(1)e)(i) de la LIR), le juge de première instance a observé :
+34. Qu’en est-il de la juste valeur marchande d’un dividende? Doit-elle être diminuée de l’impôt payable par le bénéficiaire du dividende comme le soutient l’avocat des appelants?
+[...]
+36. [...] Selon l’avocat, la juste valeur marchande est le prix le plus probable qu’une personne pourrait obtenir sur un marché concurrentiel libre et que sur un tel marché, la juste valeur marchande d’un dividende serait le montant du dividende déduit de l’impôt payable.
+37. La définition de juste valeur marchande proposée par l’avocat me semble correcte, si je me rapporte à la définition de cette expression dans le Dictionnaire de droit québécois et canadien, Hubert Reid, 2e éd., Wilson & Lafleur, elle se lit ainsi :
+Prix le plus élevé qui puisse être obtenu sur un marché libre, lorsque les parties à une transaction sont bien informées, prudentes et indépendantes l’une de l’autre et qu’aucune d’elles n’est forcée de conclure la transaction.
+[...]
+39. Peut-on appliquer la notion de juste valeur marchande à un dividende? Dans un cas de transfert sujet à l’application de l’article 160 de la Loi, il me faut expressément prendre en compte que l’article 160 de la Loi parle de la juste valeur marchande du bien transféré. Dans cette perspective, en me fondant sur la notion de valeur marchande, quel serait le prix le plus élevé qu’un émetteur de dividende pourrait obtenir d’un tiers acquéreur. Il me semble que la réponse ne peut être qu’il s’agit du montant du dividende moins l’impôt à payer sur ce dividende [21] .
+[25] En appel, la Cour d’appel fédérale a infirmé la décision du juge de première instance :
+17. Je passe maintenant à la deuxième question. Selon le sous-alinéa 160(1)e)i) de la Loi, le bénéficiaire et l’auteur d’un transfert sont solidairement responsables du paiement d’une dette fiscale pour un montant égal à « l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien ».
+18. Dans Nash c. Canada, 2005 CAF 386, notre Cour retenait la définition de la « juste valeur marchande » élaborée par le juge Cattanach de la Cour fédérale dans Succession Henderson et Bank of New York c. M.R.N (1973), 73 D.T.C. 5471, à la page 5476 (confirmé par cette Cour dans [1975] A.C.F. no 1973), à savoir :
+le prix le plus élevé que le propriétaire d’un bien peut raisonnablement s’attendre à en tirer s’il le vend de façon normale et dans le cours ordinaire des affaires, le marché n’étant pas soumis à des pressions inhabituelles et étant constitué d’acheteurs disposés à acheter et des vendeurs disposés à vendre, qui n’ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d’acheter ou de vendre. J’ajouterais que cette définition comprend un marché libre de toutes restrictions, où le prix est établi par le jeu de la loi de l’offre et de la demande entre des acheteurs et des vendeurs avertis et désireux d’acheter et de vendre.
+19. En outre, dans Hewett c. Canada, [1997] A.C.F. no 1541 (QL), notre Cour concluait que la juste valeur marchande d’un bien devait être évaluée entre les mains de l’auteur du transfert et que la valeur d’un bien transféré devait être la même dans le patrimoine de l’auteur du transfert que dans celui du bénéficiaire.
+20. En l’instance, le bien transféré est un dividende d’un montant de 55 000 $ reçu par chacun des intimés. En appliquant la définition de la juste valeur marchande acceptée par notre Cour dans l’affaire Nash, précitée, j’en viens à la conclusion que la juste valeur marchande versée au bénéficiaire du transfert pour les fins de l’article 160 est de 55 000 $ pour chacun des intimés.
+21. C’est donc ce montant qui doit-être cotisé, soit le montant que le ministre aurait pu saisir entre les mains de la société si le transfert n’avait pas eu lieu. Il me semble que cette conclusion est la seule possible compte tenu du fait que l’évaluation de la valeur marchande doit se faire en considérant que le bien se trouve toujours entre les mains de l’auteur du transfert, soit la Société. Cette conclusion est conforme à l’article 160 de la Loi dont le but est d’empêcher un contribuable de transférer ses biens afin de contourner la cotisation d’impôts non payés par le Ministre.
+22. En outre, je suis satisfait que les conséquences fiscales pour les intimés résultant du transfert ne sont nullement pertinentes quant à la détermination de la juste valeur marchande.
+23. Par conséquent, à mon avis, la juge Lamarre Proulx a commis une erreur en décidant que la juste valeur marchande d’un dividende est le montant du dividende diminué de l’impôt à payer sur ce dividende [22] .
+[26] Dans sa critique de l’analyse de la Cour d’appel fédérale dans l’arrêt Gilbert, l’avocat de la fiducie a observé :
+[traduction] En toute déférence, l’analyse de la CAF ne peut tenir vu la définition même de la « juste valeur marchande » à laquelle la CAF a fait référence. La CAF a reconnu la définition de la juste valeur marchande, qui exige de déterminer le prix le plus élevé auquel des acheteurs et des vendeurs sans lien de dépendance arriveraient sur « un marché libre de toutes restrictions, où le prix est établi par le jeu de la loi de l’offre et de la demande entre des acheteurs et des vendeurs avertis et désireux d’acheter et de vendre ». Cependant, la Cour d’appel fédérale a ensuite ignoré le fondement même de cette définition et a déclaré que la juste valeur marchande « devait être évaluée entre les mains de l’auteur du transfert ». [23] [Renvois omis.]
+[27] En examinant l’observation susmentionnée de l’avocat de la fiducie, il me semble que des défis et des difficultés surgissent lorsque l’on tente d’appliquer la définition de la « juste valeur marchande » consacrée par les arrêts Succession-Henderson et Nash relativement à un dividende versé par une société à un actionnaire. Comme signalé ci-dessus, selon le témoignage de M. Welsh, une société qui a déclaré un dividende à ses actionnaires ne peut pas vendre ce même dividende à une autre personne. Si la société, avant de déclarer un dividende, vend la source de revenus qui serait autrement représentée par le dividende (une fois déclaré), la société ne vend pas réellement un dividende. Par conséquent, je me demande s’il existe une « façon normale » de vendre un dividende, si une société qui a déclaré un dividende à un actionnaire, avant de le payer, vendrait, « dans le cours ordinaire des affaires », le dividende à un autre actionnaire (ou à un tiers, d’ailleurs), et s’il existe effectivement « un marché libre de toutes restrictions » pour ce dividende [24] . À cet égard, la juge de première instance dans l’arrêt Gilbert a noté qu’elle n’avait pu trouver ni aucune jurisprudence ni aucune doctrine portant sur la juste valeur marchande d’un dividende [25] . De même, M. Welsh a déclaré qu’il n’avait jamais vu une situation dans laquelle un dividende avait été vendu par une société qui était sur le point de payer le dividende à ses actionnaires.
+[28] Cette incertitude nécessite de déterminer le moment auquel la juste valeur marchande d’un dividende doit être établie aux fins du sous-alinéa 160(1)e)(i) de la LIR.
+C. Moment de la détermination de la juste valeur marchande
+[29] Pour tenter de déterminer le moment auquel la juste valeur marchande des biens transférés doit être établie, il convient de noter que le sous-alinéa 160(1)e)(i) de la LIR fait référence à « la juste valeur marchande des biens au moment du transfert [...] ». Il ressort de texte que la juste valeur marchande du bien ne doit pas être déterminée à un moment ultérieur au moment du transfert du bien.
+[30] La décision Hewett portait sur un cas dans lequel un mari, ayant une dette fiscale importante, a transféré son droit sur la résidence familiale à son épouse sans contrepartie, ce qui a finalement abouti à une cotisation aux termes du paragraphe 160(1) de la LIR. En examinant la détermination de la juste valeur marchande de l’intérêt transféré, le juge McArthur a observé :
+[traduction]
+49. J’ai examiné attentivement les observations de l’avocat de l’appelante concernant la signification de l’expression « juste valeur marchande », telle qu’elle figure à l’article 160. La juste valeur marchande doit-elle être interprétée comme étant la juste valeur marchande du bien entre les mains du cédant ou du cessionnaire? [...]
+51. Pour déterminer l’intention du législateur, il est utile de se pencher sur l’objet de l’alinéa 160(1)e). Cette disposition vise à empêcher une personne, telle que le mari dans le cas présent, ayant une obligation fiscale importante, de faire échec à la demande du ministre en transférant ses actifs ou ses intérêts dans des biens à un époux à un prix faible ou nul. La demande du ministre visait le mari et non l’appelante.
+52. Il s’ensuit que le ministre peut se retourner contre les intérêts financiers du mari qui a transféré son capital dans la maison alors qu’il était endetté envers l’intimé. [26]
+[31] La Cour d’appel fédérale a observé en confirmant cette décision :
+Nous convenons avec le juge de la Cour de l’impôt que le but de l’article 160 de la Loi de l’impôt sur le revenu est d’empêcher un contribuable de faire échec à la réclamation par le ministre des impôts non payés en transférant ses biens à son conjoint, ou à certaines autres personnes, pour une contrepartie minimale ou nulle. À notre avis, cela signifie que les « biens » dont il est question dans l’article doivent être des biens du contribuable que le ministre aurait pu saisir si le transfert n’avait pas eu lieu. En l’espèce, il s’agissait du droit de copropriété dans la résidence familiale que détenait le contribuable immédiatement avant la cession à son épouse [27] . [Renvoi omis.]
+[32] Dans la décision Bergeron, le juge Tardif a observé :
+Je crois que la JVM doit être appréciée dans les secondes précédant le transfert du bien, c’est-à-dire avant que le bien ne fasse partie du patrimoine du cessionnaire. Telle interprétation m’apparaît d’ailleurs conforme à l’esprit de la disposition prévue par l’article 160 de la Loi [28] .
+[33] Le juge Tardif a ensuite observé :
+D’ailleurs la responsabilité fiscale d’un cessionnaire concerné par l’article 160 se limite essentiellement à la valeur ajoutée à son patrimoine découlant du transfert [29] .
+Ainsi, le juge doit déterminer la valeur ajoutée au patrimoine du cessionnaire résultant du transfert. L’alinéa 82(1)a) de la LIR est utile pour effectuer cette détermination dans le cadre d’un dividende; les passages pertinents de cette disposition étaient rédigés comme suit en 2000, 2001 et 2002, lorsque les dividendes en question ont été versés :
+82(1) Le total des sommes ci-après est à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+a) [...] de la somme visée [...]
+(ii) l’excédent éventuel du montant visé à la division (A) sur le total visé à la division (B) :
+A) le total des sommes que le contribuable reçoit au cours de l’année de sociétés résidant au Canada au titre ou en paiement intégral ou partiel de dividendes imposables, [Non souligné dans l’original.]
+Commentant la division 82(1)a)(ii)(A), ainsi que l’alinéa 12(1)j) de la LIR, la juge de la Cour d’appel fédérale a observé :
+Le résultat clair de l’application combinée de l’alinéa 12(1)j) et de la division 82(1)a)(ii)(A) de la Loi de l’impôt sur le revenu est que ces dividendes sont imposables uniquement lorsqu’ils sont reçus, plutôt que lorsqu’il s’agit simplement d’une somme à recouvrer [30] .
+Selon la Loi et la jurisprudence Banner, l’obligation de payer l’impôt sur un dividende naît lorsque le dividende est reçu. En d’autres termes, l’obligation de payer l’impôt sur le dividende prend naissance alors que le dividende a déjà été reçu par le cessionnaire (en d’autres termes l’actionnaire) et lui appartient. Le montant avant impôt reçu constitue « la valeur ajoutée au patrimoine [du cessionnaire] en raison du transfert [c.-à-d., le paiement du dividende] », aux fins de l’application du principe consacré par la décision Bergeron.
+[34] Dans la décision Larochelle, le juge Tardif est revenu sur la même question et a repris la position qu’il avait prise précédemment (dans la décision Bergeron), bien que dans un langage plus imagé :
+39. En matière de transfert de biens visés par les dispositions de l’article 160 de la Loi, il existe une autre préoccupation, soit celle quant au moment où la J.V.M. d’un bien doit être établie.
+40. À cet égard, les tribunaux ont clairement reconnu, comme je l’ai dit dans l’affaire Bergeron c. La Reine, [...] que le moment du transfert est semblable au moment précis où se produit le déclic d’un appareil photo et que l’évaluation doit se faire eu égard à la situation lors des secondes qui précèdent ce déclic.
+41. Cette nuance est importante en ce qu’elle permet de comprendre que la valeur du bien transféré doit être la même dans le patrimoine du cédant que dans celui du bénéficiaire. En d’autres termes, la J.V.M. du bien qui fait l’objet d’un transfert assujetti à l’article 160 de la Loi doit être la même et ne peut pas être modifiée.
+42. Il s’agit là d’une exigence fondamentale [...] [31]
+Dans les décisions Bergeron et Larochelle, le juge Tardif s’est penché sur les circonstances où un cédant pourrait imposer des restrictions sur les biens transférés, de sorte que ces biens auraient une valeur moindre entre les mains du cessionnaire qu’ils en avaient entre les mains du cédant. Néanmoins, à mon avis, les principes qu’il a énoncés, tels qu’ils sont exposés ci-dessus, valent lorsque le bien transféré est un dividende versé par une société à un actionnaire.
+[35] Pour conclure cette partie de l’analyse, je reviens à l’arrêt Gilbert, dans lequel la Cour d’appel fédérale a déclaré que lorsque, aux fins du paragraphe 160(1) de la LIR, le bien transféré est un dividende, le montant qui doit être évalué en application de ce paragraphe est « le montant que le ministre aurait pu saisir entre les mains de la société si le transfert n’avait pas eu lieu » [32] . Par conséquent, « évaluation de la valeur marchande doit se faire en considérant que le bien se trouve toujours entre les mains de l’auteur du transfert [...] » et en ignorant « les conséquences fiscales » (c.-à-d., les obligations fiscales) pour le cessionnaire [33] . L’appelante ne m’a pas convaincu que la Cour d’appel fédérale a fait erreur en rendant la jurisprudence Gilbert. Non seulement je souscris à la doctrine professée par la Cour d’appel fédérale dans l’arrêt Gilbert, mais je suis lié par cette jurisprudence. Il ne m’appartient pas d’adopter une approche différente pour trancher le présent appel.
+D. Thèse de la double imposition
+[36] L’avocat de la fiducie a soutenu qu’en appliquant le paragraphe 160(1) de la LIR au montant total du dividende, qui a déjà été inclus, aux termes du paragraphe 82(1) de la LIR, dans le calcul du revenu de la fiducie, il y a double imposition. Toutefois, le paragraphe 160(1) n’est pas une disposition d’imposition ou de taxation, mais plutôt une disposition de recouvrement de l’impôt, comme l’a expliqué le juge Rip (tel était son titre) dans la décision Algoa Trust, comme suit :
+[traduction]
+41. L’article 160 a pour objet de déjouer la tentative d’un contribuable d’éviter le paiement de l’impôt qui serait autrement payable aux termes de la Loi en transférant des biens disponibles par ailleurs pour satisfaire à l’obligation à l’un des trois groupes de personnes, y compris une personne avec laquelle il avait un lien de dépendance [...]
+49. Le paragraphe 160(1) n’est pas une disposition d’inclusion du revenu. Elle se trouve dans la section I de la partie I de la Loi où, entre autres, sont définies les procédures et les exigences en matière de déclaration, de cotisation, de paiement et d’appel. Le paragraphe 160(1) est inclus avec plusieurs dispositions, à partir de l’article 153 à l’article 163.1, concernant le paiement de l’impôt. La capacité du ministre à recouvrer les montants dus aux termes de la loi peut être sérieusement compromise lorsqu’un débiteur cède des biens à une autre personne en échange d’une contrepartie nulle ou insuffisante [34] .
+Ainsi, le paragraphe 160(1), le législateur ne prévoit pas d’imposition, il constitue simplement un outil de recouvrement de l’impôt dû par un cédant; le cessionnaire n’est donc pas soumis à une double imposition.
+[37] Néanmoins, vu une observation incidente dans la décision Bleau, on peut être séduit par l’argument de la double imposition de la fiducie. Dans une note de bas de page de sa décision dans cette décision, le juge Archambault a noté que, lorsque le paragraphe 160(1) a été appliqué à un montant qui avait été reçu par un contribuable et qui constituait également un avantage imposé aux termes du paragraphe 15(1) de la LIR, il était troublant que madame Bleau ait été à la fois imposée en vertu du paragraphe 15(1) et « maintenant tenue de remettre cette somme au ministre, en raison de l’article 160, en paiement de l’impôt dû » par le débiteur fiscal. Le juge Archambault a affirmé qu’une fois que Mme Bleau aurait payé le montant de la cotisation établie en vertu de l’article 160, elle devait avoir droit à une déduction afin de neutraliser l’impôt qu’elle avait déjà versé en application du paragraphe 15(1). Le juge Archambault a reconnu que la LIR ne prévoit pas une telle déduction, a invité le législateur à modifier la LIR soit modifiée pour assurer un traitement équitable et dit qu’il souhaiterait qu’un arrangement administratif puisse être trouvé de façon à neutraliser ce qu’il a appelé l’effet abusif qui résulte de l’application de l’article 15 et de l’article 160 au même paiement [35] .
+[38] Il semble qu’un argument similaire ait été soulevé par les appelants à l'occasion de l'affaire Parihar, mais il n’a pas été retenu par la Cour. Le juge Bocock a plutôt conclu qu’un actionnaire qui a fait l’objet d’une cotisation en vertu du paragraphe 15(1) de la LIR peut également faire l’objet d’une cotisation en vertu du paragraphe 160(1) de la LIR compte tenu des objets différents visés par chacune de ces dispositions. Le juge Bocock a également noté (sans mentionner l'observation du juge Archambault dans la note de bas de page susmentionnée) que, dans l’affaire Bleau, le juge Archambault avait jugé que le paragraphe 160(1) pouvait s’appliquer au montant transféré malgré le fait que le même montant ait déjà été imposé en vertu du paragraphe 15(1) [36] .
+[39] Dans la décision de première instance dans l’affaire Gilbert, la juge Lamarre Proulx a noté qu’en droit fiscal américain, dans des circonstances quelque peu similaires, lorsque l’équivalent américain de notre paragraphe 160(1) est appliqué et qu’un contribuable est tenu de remettre à l’Internal Revenue Service une somme qu’il a déjà incluse dans son revenu, le contribuable peut déduire une perte (vraisemblablement, pour reconnaître le montant qui a été précédemment imposé aux termes de l’Internal Revenue Code) [37] . Cette observation de la juge Lamarre Proulx n’est d’aucune utilité à la fiducie, car la LIR n’a pas de disposition correspondante (bien qu’elle devrait peut-être en avoir une, comme l’indique le juge Archambault).
+[40] En résumé, bien que l’application des paragraphes 82(1) et 160(1) de la LIR peut créer des difficultés pour la fiducie, la LIR ne contient [38] malheureusement pas de disposition permettant d’y remédier [39] .
+VI. CONCLUSION
+[41] Pour les motifs précités, le présent appel est rejeté.
+[42] La Couronne a droit aux dépens. Les parties disposent d’un délai de 30 jours suivant la date du jugement concernant le présent appel pour parvenir à un accord sur les dépens et en informer la Cour, faute de quoi la Couronne disposera alors d’un délai de 30 jours pour déposer des observations écrites sur les dépens, après quoi la fiducie disposera d’un délai de 30 jours pour déposer sa réponse par écrit. Les observations des parties ne devront pas dépasser cinq pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord et qu’elles ne déposent pas d’observations dans les délais applicables, les dépens seront adjugés à la Couronne, conformément au tarif B.
+Signé à Vancouver (Colombie-Britannique), ce 27e jour d’août 2020.
+« D. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 30e jour de novembre 2020.
+François Brunet, réviseur
+Annexe A
+Tableau 1 – Résumé des dividendes payés et des impôts sur le revenu qui en résultent (certains dividendes sont reversés aux bénéficiaires)
+Année
+Dividende total
+Dividende conservé dans la fiducie
+Impôt sur le revenu payé par la fiducie
+Dividende attribué à Riaz Mamdani
+Impôt sur le revenu payé par Riaz Mamdani
+Dividende attribué à Zainool Mamdani
+Impôt sur le revenu payé par Zainool Mamdani
+Total de l’impôt sur le revenu payé par les bénéficiaires et la fiducie
+2000
+2 733 984 $
+2 333 984 $
+686 160 $
+29,40 %
+100 000 $
+29 081
+29,08 %
+300 000 $
+85 345 $
+28,45 %
+800 586 $
+29,28 %
+2001
+743 000
+394 642
+66 241
+16,79 %
+174 179
+40 674
+23,25 %
+174 179
+30 546
+17,54 %
+137 461
+18,50 %
+2002
+25 400
+21 306
+16 335
+76,67 %
+4 094
+-
+0,00 %
+0
+-
+0,00 %
+16 335
+64,31 %
+Total
+3 502 384 $
+2 749 932 $
+768 736 $
+278 273 $
+69 755 $
+474 179 $
+115 891 $
+954 382 $
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+27,95 %
+[EN BLANC]
+25,07 %
+[EN BLANC]
+24,44 %
+[EN BLANC]
+Tableau 2 – Sommaire des dividendes versés et des impôts sur le revenu qui en découlent (en supposant que tous les dividendes sont conservés dans la fiducie et qu’aucun dividende n’est versé aux bénéficiaires)
+Année
+Dividende total, dont la totalité est conservée dans la fiducie
+Impôt sur le revenu payé par la fiducie
+2000
+2 733 984 $
+814 066 $
+29,78 %
+2001
+743 000
+178 939
+24,08 %
+2002
+25 400
+6 117
+24,08 %
+Total
+3 502 384 $
+999 122 $
+[EN BLANC]
+[EN BLANC]
+28,53 %
+RÉFÉRENCE :
+2020 CCI 93
+Nº DU DOSSIER DE LA COUR :
+2017-3741(IT)G
+INTITULÉ :
+FIDUCIE FAMILIALE MAMDANI c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 23 avril 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT :
+Le 27 août 2020
+COMPARUTIONS :
+Avocats de l’appelante :
+Jehad Haymour, Sophie Virji
+Avocate de l’intimée :
+Sonia Bellerive
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Jehad Haymour, Sophie Virji
+Cabinet :
+Bennett Jones LLP
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e supplément), dans sa version modifiée.
+[2] Canada c. Gilbert, 2007 CAF 136; infirmant 2005 CCI 672.
+[3] Avis d’appel, aux paragraphes 38 à 40.
+[4] Voir le paragraphe 104(6) de la LIR :
+[5] Pièces A-2 (pour l’année d’imposition 2000), A-3 (pour l’année d’imposition 2001) et A-4 (pour l’année d’imposition 2002).
+[6] La pièce A-1 est un document qui a été préparé par l’avocat de la fiducie et est intitulé [traduction] « Exposé des faits admis par l’intimée ». Ce document fait état de l’interprétation de l’avocat de la fiducie à l’égard des faits qui ont été admis par la Couronne en réponse à une [traduction] « Demande d’admission » qui a été signifiée par l’avocat de la fiducie à l’avocate de la Couronne et qui fait également partie de la pièce A-1.
+[7] Ibid.
+[8] Pièce A-8. L’avocate de la Couronne n’a pas contesté les compétences de M. Welsh en tant qu’expert en évaluation.
+[9] Transcription, à la p. 53, aux lignes 7 à 12.
+[10] Tableau 2 du rapport de M. Welsh figurant à l’annexe A.
+[11] Tableau 1 du rapport de M. Welsh figurant à l’annexe A.
+[12] À la page 3 du rapport de M. Welsh (c.-à-d. la pièce A-8), le dividende en question est correctement présenté comme le [traduction] « Dividende imposable en 2001 de 743 000 $ devant être reçu le 30 septembre 2001 ». À la page 13 du rapport, où la réponse à la question C est donnée, le dividende n’est pas présenté comme il se doit, comme indiqué ci-dessus. J’estime qu’il s’agit d’une erreur typographique, qui n’a aucune incidence sur mon analyse ou ma décision.
+[13] Pièce A-8, aux pages 11 à 16.
+[14] Douglas S. Ewens, « Company Law Considerations Relating to Corporate Actions and Reorganizations », Report of Proceedings of the Twenty-Eighth Tax Conference, rapport de la conférence de 1976 (Toronto : Canadian Tax Foundation, 1977), 224 pages, aux pages 235 et 237, fn. 100.
+[15] Transcription, de la page 133, à la ligne 24, à la page 134, à la ligne 13.
+[16] Le 1er janvier 2001, une modification a été apportée à l’alinéa 160(1)a) de la LIR afin de remplacer « époux » par « époux ou conjoint de fait ». Toutefois, cette modification n’a aucune pertinente quant au présent appel.
+[17] Canada c. Livingston, 2008 CAF 89, au paragraphe 17.
+[18] Ibid, au paragraphe 18. Voir également Canada c. Addison & Leyen Ltd., [2007] 2 RCS 793, 2007 CSC 33, au paragraphe 9, infirmant l’arrêt 2006 CAF 107, et citant le paragraphe 92 de celui-ci; Wannan c. Canada, 2003 CAF 423, au paragraphe 3; et Canada c. 594710 British Columbia Ltd., 2018 CAF 166, aux paragraphes 3, 98 et 120.
+[19] Décision Bleau c. La Reine, 2006 CCI 36, paragraphe 23; confirmé par 2007 CAF 61. Voir également Woodland c. La Reine, 2009 CCI 434, au paragraphe 28; Bernier c. La Reine, 2010 CCI 85, au paragraphe. 15; Parihar c. La Reine, 2015 CCI 52, au paragraphe 27; et Gentile Holdings Ltd. v. The Queen, 2020 CCI 29, au paragraphe 9.
+[20] Observations écrites de l’appelante, à la page 1, au paragraphe 5.
+[21] Gilbert (CCI), précité, note 2, aux paragraphes 34, 36 et 37 et 39.
+[22] Gilbert (CAF), précité, note 2, aux paragraphes 16 à 23.
+[23] Observations écrites de l’appelante, au paragraphe 35.
+[24] Les trois phrases entre guillemets dans la phrase ci-dessus sont tirées de la définition de « juste valeur marchande » exposée dans Henderson Estate and Bank of New York, telle que citée ci-dessus, au paragraphe 18 de l’arrêt Gilbert (CAF).
+[25] Gilbert (CCI), précité, note 2, au paragraphe 38.
+[26] Hewett v. The Queen, [1996] 2 CTC 2560, 97 DTC 561 (CCI), aux paragraphes 49, 51 et 52.
+[27] Hewett v. The Queen, [1998] 1 CTC 106, 98 DTC 6003, 32 RFL (4th) 174 (CAF), au paragraphe 2.
+[28] Bergeron c. La Reine, 2003 CCI 286, au paragraphe 47.
+[29] Ibid, au paragraphe 49.
+[30] Banner Pharmacaps NRO Ltd. c. Canada, 2003 CAF 367, paragraphe 6.
+[31] Larochelle c. La Reine, 2004 CCI 360, aux paragraphes 39 à 42.
+[32] Gilbert (CAF), précité note 2, au paragraphe 21.
+[33] Ibid., aux paragraphes 21 et 22.
+[34] Algoa Trust v. The Queen, [1993] 1 CTC 2294, 93 DTC 405 (CCI), paragraphes 41 et 49.
+[35] Bleau, précité note 19, note de bas de page 9. Dans la version publiée de cette décision sous la référence [2008] 1 CTC 2178, cette note figure comme étant la note de bas de page 10. La Cour d’appel fédérale a confirmé la décision du juge Archambault, mais ne s’est pas prononcée sur l’argument de la double imposition.
+[36] Parihar, précitée note 19, au paragraphe 45.
+[37] Gilbert (CCI), précitée note 2, au paragraphe 35.
+[38] Un autre arrêt, Duplessis c. Canada, 2016 CAF 264, confirmant 2013-2191(IT), dans le contexte d’une cotisation établie aux termes du paragraphe 160(1), engendrait apparemment suffisamment de difficultés pour susciter la sympathie de la Cour d’appel fédérale. Dans cette affaire, une société, croyant avoir droit à des remboursements de dividendes aux termes du paragraphe 129(1) de la LIR (bien qu’elle n’ait pas produit ses déclarations d’impôt dans le délai requis de trois ans), a versé des dividendes à son actionnaire. Les remboursements de dividendes ont ensuite été refusés et l’actionnaire a fait l’objet d’une cotisation aux termes du paragraphe 160(1). L’actionnaire a fait valoir qu’il était tenu de payer des impôts et des pénalités d’un montant correspondant à 77 % des dividendes, que cela constituait une double imposition et que, en raison de la théorie de l’intégration, il avait droit à un redressement. Bien que favorable à la situation de l’actionnaire, la Cour d’appel fédérale a rejeté son appel, déclarant que la théorie de l’intégration ne peut pas annuler une disposition claire de la LIR. Voir les paragraphes 3 à 5 de cette décision.
+[39] À l’instar du juge Archambault, je suis d’avis que la LIR devrait être modifiée de manière à inclure une disposition corrective pour traiter les situations où une somme est incluse dans le revenu d’un contribuable aux termes du paragraphe 15(1), du paragraphe 82(1) ou d’une autre disposition de la LIR, et est ensuite perçue du même contribuable, aux termes du paragraphe 160(1) de la LIR, pour régler la dette fiscale de la personne de qui le contribuable a reçu la somme en question. Malheureusement, comme il n’existe actuellement pas de disposition de ce type dans la LIR, je ne peux pas accorder une telle mesure. Cependant, à l’instar du juge Archambault dans l’affaire Bleau, je ne serais pas opposé à ce que le ministre décide d’un recours administratif qui pourrait être offert à la fiducie.

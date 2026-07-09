@@ -1,0 +1,174 @@
+---
+title: "Benoît c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26185/index.do"
+last_modified: "2005-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 135"
+citation2: ""
+neutral_citation: "2005 CCI 135"
+decision_date: "2005-02-16"
+language: "fr"
+item_id: "26185"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3918
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:14:16.043000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a2520f05c9de9bff25ee7f668a5f1da5d3721463dcfb53e24b581f5602f5bdd2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Benoît c. La Reine
+
+- Citation: 2005 CCI 135
+- Decision date: 2005-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3918, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Benoît c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-16
+Référence neutre
+2005 CCI 135
+Numéro de dossier
+2001-3739(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-3739(IT)G
+ENTRE :
+PIERRE BENOIT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 8 septembre 2004 à Montréal (Québec)
+Devant : L'honorable juge Brent Paris
+Comparutions :
+Avocat de l'appelant :
+Me Jacques Renaud
+Avocat de l'intimée :
+Me Susan Shaughnessey
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1997 est admis, avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de février 2005.
+« Brent Paris »
+Juge Paris
+Référence : 2005CCI135
+Date : 20050216
+Dossier : 2001-3739(IT)G
+ENTRE :
+PIERRE BENOIT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Il s'agit d'un appel d'un avis de nouvelle cotisation en date du 13 juillet 1998 émise par le ministre du Revenu national (le « Ministre » ) relatif à l'année d'imposition 1997. La question en litige est à savoir si l'appelant a droit au report de pertes nettes en capital au montant de 33 750 $ qu'il prétend avoir subie en 1992.
+[2] Ces reports de pertes n'avaient pas été faits au moment où l'appelant a produit sa déclaration de revenu relatif à l'année en litige puisqu'il pensait avoir droit à une déduction pour gains en capital égale au montant des gains en capital pour cette année. Pourtant, le Ministre, par ledit avis de nouvelle cotisation, a réduit la déduction pour gains en capital et l'appelant, en conséquence, cherche à réduire ses gains en capital en reportant des pertes nettes en capital.
+[3] L'appelant prétend avoir subi une perte en capital de 45 000 $ en 1992 suite à des investissements qu'il a faits dans une entreprise d'élevage de chevaux de saut. Il veut reporter le montant de la présumée perte en capital admissible, soit 75 pour cent de 45 000 $ à titre de perte en capital nette à son année d'imposition 1997.
+[4] Le Ministre a refusé la demande de l'appelant puisque, à son avis, l'appelant n'a pas démontré qu'il a subi en 1992 une ou des perte(s) résultant de la disposition d'une créance ou d'un autre droit de recevoir une somme acquise par l'appelant en vue de tirer un revenu d'une entreprise ou d'un bien au sens du sous-alinéa 40(2)g)(ii) de la Loi de l'impôt sur le revenu (la « Loi » ).
+La preuve
+[5] L'appelant est homme d'affaires à Montréal. Par le biais de sa société de portefeuille « Hôtel Nelson Inc. » , il exploite un restaurant avec 135 employés. À un certain moment avant l'automne de 1990, il a fait la connaissance de monsieur René Corneiller qui dressait des chevaux de saut et participait à des compétitions équines. L'appelant était au courant du fait que M. Corneiller avait gagné plusieurs compétitions et était impressionné par ses talents dans ce domaine. À l'automne 1990, il a proposé à M. Corneiller de former avec lui une entreprise d'élevage de chevaux et de compétition. Il était entendu, selon l'appelant, qu'il fournirait le capital nécessaire et que M. Corneiller fournirait le talent et la main-d'oeuvre. Aucun contrat écrit n'a été rédigé, mais l'appelant a indiqué que leur intention était de mettre sur pied une société dans laquelle ils seraient actionnaires égaux. Selon l'appelant, son but était de tirer des bénéfices de l'entreprise à partir de prix gagnés.
+[6] L'appelant avait aussi rencontré le comptable de M. Corneiller qui lui avait indiqué que certains de ses clients avaient investi dans les opérations de celui-ci, à savoir les chevaux et les compétitions, et que c'était une bonne occasion.
+[7] L'appelant a déclaré avoir commencé à investir du capital dans l'entreprise par un chèque de 15 000 $ en date du 9 septembre 1990 payable à l'ordre de « Corban Enrg. » . Il a fait un autre paiement de 5 000 $ à Corban Enrg. par chèque daté du 9 novembre 1990. Sur le premier chèque il a inscrit l'annotation « pour achat Twist & Shout 50% paiement final » et sur le deuxième chèque il y est indiqué « pour achat 50% Twist & Shout » . Il a expliqué que ces paiements représentaient l'achat d'un demi-intérêt dans un cheval au nom de Twist & Shout dont M. Corneiller était le propriétaire. Ce cheval devait par la suite être transféré à la société que lui et M. Corneiller escomptaient incorporer à cette époque.
+[8] Pourtant, au lieu de créer une nouvelle société, l'appelant et M. Corneiller se sont servis d'une société existante en veilleuse dont l'appelant possédait toutes les actions. Selon un extrait du Registraire des Entreprises (Système CIDREQ), le nom de la société a été changé à « Les Écuries Corben » ( « Les Écuries » ). L'appelant ne pouvait dire s'il y a eu transfert d'actions à M. Corneiller.
+[9] Le 20 décembre 1990 l'appelant et M. Corneiller ont obtenu une marge de crédit au montant de 25 000 $ afin de financer leur entreprise. Ils ont aussi ouvert un compte de banque au nom de Les Écuries. Un montant de 22 000 $ a été transféré de la marge de crédit au compte de la société. Ce montant devait servir, en partie, à acheter un cheval d'un vendeur dans le Vermont et, de plus, à rencontrer les dépenses d'entreprise encourues par la société.
+[10] Le site des opérations de Les Écuries était une étable adjacente à la résidence de M. Corneiller à Sutton (Québec). L'appelant a déclaré qu'il avait visité les lieux à deux reprises et avoir vu des chevaux qu'il croyait appartenir à Les Écuries. Les dates de ces visites n'ont pas été mentionnées.
+[11] Pourtant, les seuls états du compte bancaire de Les Écuries déposés en preuve ont démontré peu d'activité commerciale pour la période de janvier à mars 1991 et au début d'août 1991 l'appelant a réalisé que l'entreprise se révélait une perte totale. Il semblerait que M. Corneiller est tombé malade et ne pouvait plus s'occuper des chevaux. À ce moment, l'appelant a entrepris des démarches pour que sa société Hôtel Nelson Inc. émette un chèque de 25 000 $ à M. Corneiller pour rembourser la marge de crédit, ce qui a été fait le 9 août 1991.
+[12] Par la suite, l'appelant ne voulait rien savoir de l'entreprise et n'a pas essayé de récupérer les pertes qu'il avait subies. Plus tard, il a appris que M. Corneiller était décédé.
+[13] Au cours d'une vérification de la société Hôtel Nelson Inc. en 1994, on a découvert que la société avait inclus le paiement de 25 000 $ fait à M. Corneiller par l'appelant pour rembourser la marge de crédit dans ses dépenses d'entreprise. Vu que le montant servait à acquitter une dette personnelle de l'appelant, le vérificateur a refusé la dépense à la société et ajouté ce montant au revenu de l'appelant au titre de bénéfice d'actionnaire. Suite à ces événements, l'appelant, par l'intermédiaire de ses représentants, a cherché à déduire ses pertes relatives à Les Écuries dans le calcul de son revenu pour l'année d'imposition 1992. À l'appui de cette demande, les représentants de l'appelant ont produit des déclarations de revenu pour Les Écuries pour les années se terminant le 31 décembre 1991 et 1992. Les états financiers joints aux déclarations révélaient des dépenses de 21 492 $ contre aucun revenu en 1991 et des dépenses de 375 $ contre aucun revenu en 1992. Les seuls actifs consistaient en une somme de 94 $ en argent comptant et des prêts à un directeur au montant de 4 050 $. Quant au passif, il consistait en un montant de 25 067 $ dû à un administrateur et qui ne portait pas d'intérêts. L'appelant n'avait toutefois pas connaissance des renseignements contenus dans ces documents.
+[14] Selon le témoignage de René Paradis, vérificateur à l'Agence du revenu du Canada et responsable du dossier de l'Hôtel Nelson Inc lors de la vérification en 1994, les représentants de l'appelant ont présenté les deux chèques libellés au nom de Corban Enreg. (les mêmes chèques déposés en preuve en l'espèce) à l'appui de la demande de perte au nom de l'appelant personnellement. À cette époque, les représentants ont indiqué que l'appelant avait investi les 20 000 $ dans une entreprise en nom collectif qui s'appelait Corban Syndicate et ont fourni un exemplaire des états financiers de cette société pour l'exercice financier se terminant le 31 décembre 1990.
+[15] La procureure de l'intimée a aussi déposé une copie des faits et des motifs soumis à l'appui de l'avis d'opposition signifié au nom de l'appelant relatif à l'avis de nouvelle cotisation en litige où il y est indiqué au paragraphe 1 :
+Aux [sic] cours des années 1990 à 1992, monsieur Pierre Benoit (ci-après appelé « l'opposant » ) a fait des investissements dans une société en nom collectif (Corban Enrg) et dans une compagnie privée (Les Écuries Corben inc.);
+La Loi
+[16] Les dispositions pertinentes sont l'alinéa 39(1)b) et le sous-alinéa 40(2)g)(ii) de la Loi qui, en l'espèce, se lisent comme suit :
+Sens de gain en capital et de perte en capital.
+39(1) Pour l'application de la présente loi :
+[...]
+b) une perte en capital subie par un contribuable, pour une année d'imposition, du fait de la disposition d'un bien quelconque est la perte qu'il a subie au cour de l'année, déterminée conformément à la présente sous-section ... du fait de la disposition d'un bien ...
+40 (2) Restrictions.
+[...]
+g) est nulle la perte subie par un contribuable et résultant de la disposition d'un bien, dans la mesure où elle est :
+(ii) une perte résultant de la disposition d'une créance ou d'un autre droit de recevoir une somme, sauf si la créance ou le droit a été acquis par le contribuable en vue de tirer un revenu (qui n'est pas un revenu exonéré) d'une entreprise ou d'un bien, ou en contrepartie de la disposition d'une immobilisation en faveur d'une personne avec qui le contribuable n'avait aucun lien de dépendance,
+[17] En d'autres mots, la Loi prévoit qu'une perte en capital découlant de la disposition d'une créance est réputée nulle, à moins que la créance ait été acquise en vue de tirer un revenu d'une entreprise ou d'un bien.
+Analyse
+[18] Je propose de traiter séparément les montants payés par l'appelant à Corban Enrg. de ceux qu'il a avancés à Les Écuries.
+[19] Dans le cas des premiers montants, il faut tout d'abord déterminer si l'appelant a démontré, selon la prépondérance de la preuve, qu'ils donneraient lieu à une créance quelconque qui aurait pu être le sujet d'une disposition telle que requise par le paragraphe 39(1) de la Loi cité plus haut.
+[20] Le procureur de l'appelant prétend que les paiements de 15 000 $ et de 5 000 $ représentaient des participations dans le capital-actions de Les Écuries. Selon lui, ces paiements devaient servir à l'achat d'un cheval (Twist & Shout) qui par la suite devait être transféré à la société lors de son incorporation. Dans cette optique, les paiements constituaient un investissement dans la société.
+[21] Pourtant, la preuve concernant ces deux chèques est problématique. Je ne suis pas satisfait que l'appelant a démontré qu'il a acquis une créance par ces paiements. À tout événement, il est loin d'être clair que ces fonds ont été investis dans Les Écuries. Certains éléments de preuve contredisent cette prétention. Premièrement, l'appelant n'a pas expliqué la raison pour laquelle il a versé ces montants à Corban Enrg vu qu'il croyait que M. Corneiller était propriétaire du cheval Twist & Shout. Il n'y avait aucune suggestion que l'appelant l'achetait de Corban Enrg.
+[22] De plus, je note que la prétention de l'appelant, jusqu'au moment de la signification de son avis d'appel, semble avoir été que les montants ont été payés pour acquérir une participation dans Corban Enrg. Des représentations à cet effet ont aussi été faites au vérificateur en 1994. Cependant, lors de son interrogatoire au préalable, l'appelant a confirmé qu'il n'a jamais été membre de cette société en nom collectif et ne connaissait rien de celle-ci (pièce I-1, page 36, question 167). Dans les états financiers déposés en preuve, le nom de l'appelant n'apparaît pas sur la liste des membres de Corban Enrg. Il est à noter que la nature des événements survenus aurait due être plus claire dans la mémoire de l'appelant à ce moment, en 1994, que lors de l'audition de la cause sous étude.
+[23] À la lumière de tous ces éléments contradictoires, je n'accepte pas le témoignage de l'appelant quant à ses intentions vis-à-vis ces paiements. En l'absence d'autres preuves à l'effet qu'il a obtenu une créance suite aux paiements qu'il a faits en vue de tirer un revenu d'un bien ou d'une entreprise, je suis d'avis que cet aspect de l'appel doit être rejeté.
+[24] Pour ce qui est du montant de 25 000 $ déboursé par Hôtel Nelson Inc. pour payer la marge de crédit de la société Les Écuries, j'accepte que le paiement était fait au nom de l'appelant. Le Ministre en a présumé autant en ajoutant le montant au revenu de l'appelant personnellement pour l'année 1991.
+[25] De plus, il est évident que le but de l'appelant, en fournissant les avances originales à Les Écuries à partir de la marge de crédit, était de capitaliser la société. Il reste à décider si les avances ont été faites en vue de tirer un revenu.
+[26] La procureure de l'intimée, pour sa part, a suggéré que l'appelant ne pouvait avoir le but requis parce que l'entreprise de la société n'avait pas la capacité de générer des bénéfices qui auraient pu, par la suite, être répartis entre les actionnaires.
+[27] Contrairement à l'argument de l'intimée, il ne me semble pas qu'un contribuable doive démontrer qu'une société dans laquelle il investit a une expectative raisonnable de profit afin d'éviter que sa perte de l'investissement ne soit présumée nulle. C'est le but du contribuable en investissant qui importe et non pas son sens des affaires.
+[28] Pourtant, en déterminant si un contribuable est motivé par l'espoir de tirer un revenu d'une entreprise ou d'un bien, tel que mandaté par le sous-alinéa 40(2)g)(ii), la Cour peut tenir compte de l'aspect commercial de l'entreprise du contribuable lorsqu'il y a un élément personnel ou une motivation personnelle rattachée à cette entreprise (voir Rich c. La Reine, [2003] C.F. 493, paragraphe 10, précité). Là où un tel élément est présent, la Cour doit se satisfaire que le comportement du contribuable s'accorde tout de même avec les standards commerciaux acceptés afin de conclure que sa motivation était celle de tirer un revenu (voir Stewart c. La Reine, [2002] 2 R.C.S. 645 au paragraphe 55).
+[29] En l'espèce, le seul élément personnel allégué par le Ministre à l'égard de la participation de l'appelant dans Les Écuries était un faible pour les chevaux. L'appelant, pour sa part, a démenti cette suggestion et a déclaré qu'il n'avait pas monté les chevaux à l'étable de Les Écuries. Je ne suis pas convaincu qu'il existe, dans les faits, un élément personnel à l'investissement par l'appelant dans Les Écuries et pour cette raison il n'est pas nécessaire de procéder à un examen de l'aspect commercial de l'investissement.
+[30] Pour décider si il s'agissait du but ou de l'un des buts de l'appelant requis par le sous-alinéa 40(2)g)(ii) de la Loi, le test à appliquer est celui décrit par Iaccobucci, J. dans l'affaire Symes c. La Reine, [1993] 4 R.C.S. 695 à la page 736 :
+Comme dans d'autres domaines du droit, lorsqu'il faut établir l'objet ou l'intention des actes, on ne doit pas supposer que les tribunaux se fonderont seulement, en répondant à cette question, sur les déclarations du contribuable, ex post facto ou autrement, quant à l'objet subjectif d'une dépense donnée. Ils examineront plutôt comment l'objet se manifeste objectivement, et l'objet est en définitive une question de fait à trancher en tenant compte de toutes les circonstances.
+[31] Dans les circonstances de ce cas, je conclu que le but de l'appelant en capitalisant Les Écuries était de gagner un revenu sous forme de dividendes. J'accepte son témoignage à l'effet qu'il s'attendait à des bénéfices découlant de sa participation dans la société et je note ce qu'a déclaré la Cour d'appel fédérale dans l'arrêt Byram c. Canada, [1999] A.C.F. no 92 au paragraphe 22 où il était aussi question de savoir si une perte subie par un contribuable était présumée nulle en vertu du sous-alinéa 40(2)g)(ii) :
+Il existe un lien direct entre, d'une part, les actionnaires d'une société et, d'autre part, les gains futurs de la société et les dividendes qu'elle versera. Lorsqu'un actionnaire fournit une garantie ou un prêt sans intérêt à la société dans le but de lui fournir du capital, il existe assurément un lien entre le contribuable et le revenu futur éventuel [Voir Gordon c. Sa Majesté la Reine, 96 D.T.C. 1554 (C.C.I.) à la page 1558]. Lorsqu'un prêt est consenti en vue de gagner un revenu sous forme de dividendes, ce lien est suffisant pour que soit remplie la condition liée au but fixée par le sous-alinéa 40(2)g)(ii).
+[32] Les déclarations de l'appelant quant à son intention de tirer un revenu n'ont pas été contredites. Au contraire, elles ont été confirmées par le comportement de l'appelant, tel la mise sur pied de la société, l'investigation auprès du comptable de M. Cornellier et ses visites à l'étable.
+[33] Je conclus par conséquent que l'appelant avait l'intention requise pour que sa perte au montant de 25 000 $ ne soit pas réputée nulle. Il s'ensuit que l'appelant était en droit de reporter une perte nette en capital de 1992 à 1997 au montant de 18 650 $.
+[34] Pour tous ces motifs, l'appel est accueilli en partie avec dépens.
+Signé à Ottawa, Canada, ce 16e jour de février 2005.
+« B. Paris »
+Juge Paris
+RÉFÉRENCE :
+2005CCI135
+No DU DOSSIER DE LA COUR :
+2001-3739(IT)G
+INTITULÉ DE LA CAUSE :
+Pierre Benoit et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 8 septembre 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Brent Paris
+DATE DU JUGEMENT :
+Le 16 février 2005
+COMPARUTIONS :
+Pour l'appelant :
+Me Jacques Renaud
+Pour l'intimée :
+Me Susan Shaughnessey
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Jacques Renaud
+Étude :
+Renaud Brodeur
+Montréal (Québec)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

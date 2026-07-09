@@ -1,0 +1,191 @@
+---
+title: "Stoikos v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27347/index.do"
+last_modified: "2006-11-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 631"
+citation2: ""
+neutral_citation: "2006 TCC 631"
+decision_date: "2006-11-22"
+language: "en"
+item_id: "27347"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 169
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:33:37.958000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "294fde3782d0e6a557e9ab3d9ded9dd57e9dc8a6abf04a73faa9d91c83c5568e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stoikos v. The Queen
+
+- Citation: 2006 TCC 631
+- Decision date: 2006-11-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 169, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stoikos v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-22
+Neutral citation
+2006 TCC 631
+File numbers
+2005-4479(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-4479(IT)I
+BETWEEN:
+WILLIAM STOIKOS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 6, 2006 and judgment rendered
+from the bench on November 9, 2006 at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Agent for the Appellant:
+Brian Cloney
+Counsel for the Respondent:
+Donna Dorosh
+Saba Zarghami (Student-at-Law)
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2004 taxation year is dismissed for the reasons set out in the attached Reasons for Judgment delivered from the bench on November 9, 2006.
+Signed at Ottawa, Canada, this 22nd day of November 2006.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2006TCC631
+Date: 20061122
+Docket: 2005-4479(IT)I
+BETWEEN:
+WILLIAM STOIKOS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered from the bench on
+November 9, 2006 at Toronto, Ontario)
+Hershfield J.
+[1] The Appellant appeals a reassessment of his 2004 taxation year. The Minister denied a deduction claimed by the Appellant in the amount of $27,800.00. The Appellant claimed the deduction pursuant to paragraph 60(b) of the Income Tax Act in respect of a lump sum support payment made to his former spouse in December 2004 in that amount, namely $27,800.00.
+[2] The issue in this appeal comes down to whether this payment qualified as a "support amount" as defined in subsection 56.1(4).
+[3] The factual background of this appeal is as follows:
+· The Appellant and his former spouse separated on December 1, 2001, because of a breakdown of their marriage.
+· From the date of separation to the date of an Interim Order made by the Ontario Superior Court of Justice (Family Court) on June 22, 2004, the Appellant made no spousal support payments. There was no agreement, written or oral, for support payments until the making of the Interim Order.
+· The Interim Order provided that the Appellant pay his former spouse the amount of $1,100.00 per month, commencing July 15, 2004.
+· The Appellant made the payments pursuant to the Interim Order from July to December 2004. These payments totalled $6,600.00. The Appellant's deduction of such amount under paragraph 60(b) was accepted by the Minister. Such claim is not the subject of this appeal.
+· A full and final settlement was reached on December 22, 2004. Final Minutes of Settlement were fully executed by that date. The Minutes consent to the Family Court granting a final order on the following terms:
+1. The Respondent shall pay retroactive, periodic, monthly spousal support to the Applicant as follows:
+a. for the month of December 2001, periodic monthly
+spousal support of $ 800.00
+b. for 2002, 12 months of $800.00 periodic monthly
+spousal support totalling $ 9,600.00
+c. for 2003, 12 months of $900.00 periodic monthly
+spousal support totaling $10,800.00
+d. for 2004, 6 months (January to June) of $1,100.00
+periodic monthly spousal support totalling $ 6,600.00
+Total of Retroactive Periodic Monthly Spousal Support
+Payable by Respondent $27,800.00
+2. This retroactive, periodic, monthly spousal support shall be paid by the Respondent to the Applicant by December 31, 2004;
+3. For the months of July, August, September, October, November and December of 2004, the Temporary Order of the Honourable Justice Steinberg dated June 22, 2004, has provided that the Respondent pay $1,100.00 (Eleven Hundred Dollars) per month periodic monthly spousal support to the Applicant;
+4. For the next five years, from January 1, 2005, until December 1, 2009, the Respondent shall pay a fixed amount of $1,100.00 (Eleven Hundred Dollars) per month periodic monthly spousal support to the Applicant. This fixed amount of monthly spousal support shall not be subject to review or variation by either of the parties in the future, despite any future material change or variation in their respective circumstances, financial or otherwise.
+· On December 22, 2004, the Appellant paid to his former spouse the amount of $27,800.00 pursuant to the Final Minutes of Settlement. There is no evidence to suggest that there was a final order of the Family Court incorporating the consent agreement by that time. That is, it cannot be asserted that the payment was made pursuant to an order.
+· The Appellant continued to make periodic payments after December 2004 pursuant to the Final Minutes of Settlement.
+[4] Paragraph 60(b) of the IncomeTax Act provides for a deduction in respect of the total of all amounts each of which is an amount determined by the formula A - (B + C). In the case at bar the only relevant component of this formula is the A amount, which is defined as follows:
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid ... .
+Accordingly, the starting point for determining the allowable deduction is the determination of whether the amount is a "support amount".
+[5] The relevant part of the definition of "support amount" is set out in subsection 56.1(4), which reads as follows:
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement.
+[6] The Appellant argued that because the amounts payable under the Final Minutes of Settlement were for retroactive periodic monthly spousal support from December 2001 to June 22, 2004, such amounts were amounts payable on a periodic basis and were in arrears or must be treated in the same manner as arrears are treated.
+[7] The Appellant relied on Pyne v. The Queen, [2003] 1 C.T.C. 2300 (T.C.C.), in which the taxpayer had been ordered to pay support to his former spouse. The support payments fell into arrears, and a second order was issued pursuant to which the taxpayer made two lump sum payments for accumulated support arrears. The Court in Pyne held the lump sum payments were deductible under paragraph 60(b). It is not necessary for me to comment further on this case as it does not assist the Appellant. The facts are clearly distinguishable.
+[8] The Appellant argued as well that the ongoing payments made after 2004 pursuant to the Final Minutes of Settlement, underline that the lump sum payments (argued to be in arrears) cannot be seen as capital in nature since it was not a payment to extinguish a right.
+[9] The Respondent argued that the payment on December 22, 2004 cannot be treated as a payment of arrears since throughout the period covered by the December lump sum payment there was no order or written agreement to make such payment on account of spousal support. In effect, the Respondent argues that the Court has no authority to effect retroactive spousal support for tax purposes.
+[10] The Respondent relies on Aceti v. M.N.R., 92 DTC 1893 (T.C.C.) and Nagel v. Canada [2004] 1 C.T.C. 2842 (T.C.C.).
+[11] As well, the Respondent argued that the payment could not be regarded as periodic and must be regarded as a capital payment as discussed in McKimmon v. M.N.R. [1990] 1 F.C. 600 (F.C.A.).
+Analysis
+[12] The Respondent's reliance on Aceti is based on Justice Rip's finding in that case that an agreement made in August 1988 with an effective date of March 1988 and purporting to commence periodic payments as of January 1988, could not render periodic payments made between May and August 1988 as payments made pursuant to a written agreement. He held that a written agreement must exist before it can be said that payments were made pursuant to it. Further, with respect to a lump sum payment of $9,000.00 made in September 1988 on account of the payor's obligation to make periodic maintenance payments from January 1988 through April 1988, Justice Rip found that an agreement made in August of 1988, with an effective date of March 1988, could not render a subsequent payment as payable, or payable under an agreement, with respect to periods prior to entering into the agreement.
+[13] In effect, Justice Rip refused to accept that an agreement can have retroactive effect in this context.
+[14] I have a concern with the Aceti case given that the subject provisions of the Act, namely paragraph 60(b) and related provisions as they read for the 1988 taxation year, have been repealed and replaced. Support amounts are now defined as amounts "receivable under an order of a competent tribunal or under a written agreement". In the case at bar the subject amounts were, when paid, paid under the Final Minutes of Settlement and ostensibly meet the requirements of the new provisions. That the subject amount was determined in respect of obligations for months pre-dating the agreement does not mean that they were not payable and receivable under the Final Minutes of Settlement when paid on December 22, 2004.
+[15] The Respondent argues that even if I am correct in this conclusion, the payment is still a lump sum capital payment as characterized in McKimmon. It was neither payable other than as a capital lump sum nor payable on a periodic basis.
+[16] I agree that this remains an issue. Indeed the circumstances here do seem to suggest that a proper characterization of the subject payment is of a capital nature. While McKimmon looked at installments of a lump sum payment, it is helpful in more general terms in determining the character of a payment. In that context I suggest that the Appellant's former spouse had a right to petition for support. She did so, and recognition of her entitlement to past support, payable essentially forthwith, was capital in nature. While the support claim is personal and not assignable, it seems likely that the entitlement to the lump sum for past support obligations is no longer personal once it is prescribed as payable under the Final Minutes of Settlement. That is, at the time the amount was paid, it was an assignable obligation, which is not characteristic of spousal support payments. This, in my view, is the best test to apply in the circumstances of this case as amongst the ones considered in McKimmon.
+[17] However, that is not the end of the matter. There is an exception to the characterization of lump sum payments as capital payments. This exception relates to arrears. The concept of arrears is not a legislated one but arises from the case of R. v. Sills, [1985] 2 F.C. 200 (F.C.A.).
+[18] In Sills, the Court held that an amount payable on a periodic basis maintains its character as a periodic payment even if several such amounts are paid late in a single lump sum. That is, lump sum payments for amounts that are in arrears can still be "periodic" payments under paragraph 60(b).
+[19] This is the case unless the lump sum payment does more than satisfy arrears. For example, if it extinguishes rights to future support payments, then the payment will generally be characterized as capital.[1]
+[20] The Respondent argued that arrears cannot arise prior to the order or agreement that creates them. The argument is analogous to the findings of Justice Rip in Aceti, but in this case is not dependent on the wording of the subject provisions of the Act since the argument relates to the common law in respect of arrears.
+[21] The Appellant still relies on the Final Minutes of Settlement as having retroactive effect. The Final Minutes of Settlement do not stipulate a fixed amount for past support. It stipulates varying monthly maintenance obligations retroactively as periodic obligations. It does not extinguish any ongoing obligations. It is not prescribed as being payable as a lump sum. They are prescribed as periodic payment obligations that have become past due or in arrears by virtue of the retroactivity of the Final Minutes of Settlement.
+[22] In spite of the Appellant's arguments on this point, I cannot conclude that the Final Minutes of Settlement created a retroactive obligation to pay support that became immediately in arrears upon the signing of the Minutes. Indeed this was the finding of the Federal Court of Appeal in Peterson v. R. (sub nom. Tossell), 2005 D.T.C. 5365.[2] Peterson even went further and found that even if there was a timely final Decree of Divorce incorporating such Final Minutes of Settlement, the result would be the same.
+[23] Before referring further to Peterson it is helpful to refer to the express power of the Family Court of Ontario to make retroactive orders since in that case the order incorporating the Final Minutes of Settlement had been issued prior to the support payment under appeal being made. Under the Family Law Act of Ontario, R.S.O. 1990, Chapter F-3, a Superior Court of Justice may grant an order for support payments in respect of periods pre-dating the order. Sections 33 and 34 of that Act provide as follows:
+Order for support
+33. (1) A court may, on application, order a person to provide support for his or her dependants and determine the amount of support.
+Powers of court
+34. (1) In an application under section 33, the court may make an interim or final order,
+. . .
+(f) requiring that support be paid in respect of any period before the date of the order;
+[24] Paragraph 34(1)(f) is arguably authority for the Ontario Superior Court of Justice to incorporate retroactive support payments on the terms set out in the Final Minutes of Settlement in the case at bar. Authorities such as Dale v. M.N.R. [1997] 2 C.T.C. 286 (F.C.A.) suggest that such retroactive court orders can be given effect for tax purposes. This line of cases was not addressed at the hearing. They need not have been as the case at bar does not deal with a court order. Still, it is interesting to note that the findings in Dale are arguably not consistent with Peterson, which found that a court order for retroactive support payments can only be seen as creating a new obligation.
+[25] In any event, in Peterson, the Federal Court of Appeal considered whether a $36,000 lump sum payment referred to in Minutes of Settlement and the subsequent court order was intended to be arrears for child support. The Court stated at paragraph 36:
+... a written agreement or court order cannot be interpreted as obliging a person to pay arrears of child support unless, at the time the written agreement or court order is made, there is (1) an express or implied recognition of a pre-existing obligation to pay child support for a prior period, (2) an express or implied recognition of a complete or partial breach of that obligation, resulting in arrears of child support, and (3) an obligation set out in the written agreement or court order to pay the arrears in whole or in part.
+[26] In the case at bar, the Appellant cannot argue that there was recognition of a pre-existing obligation to pay support. The acknowledged facts are that there was no such obligation established until the making of the Interim Order, which dealt only with future payments. Without evidence that the retroactive payment obligation reflected some reality that existed during the period being dealt with on a retroactive basis, even an order providing for retroactive payments cannot in itself imply recognition of a pre-existing support obligation or the existence of arrears of support. There is no such evidence before me. As stated, when the parties signed the December 2004 settlement, there were no pre-existing obligations for the Appellant to pay support to his former spouse prior to the Interim Order. The Final Minutes of Settlement simply created that obligation for the first time albeit on a retroactive basis. As in Peterson, the obligation to pay support was a new obligation which, as stated in Peterson at paragraph 42, is the converse of an obligation to pay arrears.
+[27] To conclude, Peterson is a persuasive and binding authority in the case at bar where support obligations are retroactively imposed under an agreement. For these reasons, I find that the payment of $27,800.00 was not a payment of arrears of spousal support. It was a lump sum payment in the nature of capital. On that basis, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 22nd day of November 2006.
+"J.E. Hershfield"
+Hershfield J.
+CITATION:
+2006TCC631
+COURT FILE NO.:
+2005-4479(IT)I
+STYLE OF CAUSE:
+William Stoikos and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 6, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+November 22, 2006
+APPEARANCES:
+Agent for the Appellant:
+Brian Cloney
+Counsel for the Respondent:
+Donna Dorosh
+Saba Zarghami (Student-at-Law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See, for example, M.N.R. v. Armstrong, [1956] S.C.R. 446 and Trottier v. M.N.R., [1968] S.C.R. 728. On the other hand, in Ostrowski v. R., 2002 FCA 299, 2002 DTC 7209 the Federal Court of Appeal found that lump sums paid in advance to satisfy forthcoming periodic payment obligations were "periodic payments".
+[2] This decision of the Federal Court of Appeal was not cited by the parties but is clearly an authority of relevance.

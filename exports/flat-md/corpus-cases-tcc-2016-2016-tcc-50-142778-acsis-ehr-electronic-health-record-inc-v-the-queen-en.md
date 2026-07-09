@@ -1,0 +1,145 @@
+---
+title: "ACSIS EHR (Electronic Health Record) Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/142778/index.do"
+last_modified: "2016-02-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 50"
+citation2: ""
+neutral_citation: "2016 TCC 50"
+decision_date: "2016-02-26"
+language: "en"
+item_id: "142778"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3025
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:57:37.964000+00:00"
+cases_cited_count: 4
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "960914baa48f3b42c05b08faaec0a54bb906cbc89d90e769e9ae550233d947cd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# ACSIS EHR (Electronic Health Record) Inc. v. The Queen
+
+- Citation: 2016 TCC 50
+- Decision date: 2016-02-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3025, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+ACSIS EHR (Electronic Health Record) Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-02-26
+Neutral citation
+2016 TCC 50
+File numbers
+2012-4645(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2016 TCC 50
+Date: 20160226
+Docket: 2012-4645(IT)G
+BETWEEN:
+ACSIS EHR (ELECTRONIC HEALTH RECORD) INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS RESPECTING SUBMISSIONS ON COSTS
+Campbell J.
+[1] The Appellant filed a Notice of Motion on November 26, 2015 pursuant to Rule 147(7) of the Tax Court of Canada Rules (General Procedure) (the “Rules”), seeking an increased award of costs.
+[2] The appeal was heard over a three day period, April 8, 9 and 10, 2015, in Halifax. On October 27, 2015, I allowed the Appellant’s appeal, with costs, on the basis that its expenditures were incurred for Scientific Research and Experimental Development (“SR&ED”) and it was entitled to claim the corresponding investment tax credits. The Appellant is now requesting increased costs representing 95 percent of all invoiced fees and disbursements from May 2, 2014 onward, with costs prior to May 2, 2014 to be calculated according to the tariff.
+[3] The Appellant brings this motion based primarily on the ground that it made two settlement offers, the first offer being made on May 2, 2014 and the second on March 11, 2015, both of which the Respondent rejected.
+[4] The Respondent proposes that any award of increased costs should be limited to no more than 50 percent of the Appellant’s fees plus disbursements for the period from May 2, 2014.
+[5] Section 18.26 of the Tax Court of Canada Act provides that this Court may vary awards of costs from that prescribed by the tariff and singles out the existence of written settlement offers as a factor to consider in exercising its discretion to award increased costs. Subsection 147(3) of the Rules sets out the factors that this Court may consider in reviewing an award of costs:
+147. […]
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+[6] Although a settlement offer is only one of the factors to be considered under Rule 147(3), it has gained significant importance where the Court is considering an award of solicitor/client costs. In the context of civil litigation, the principles, underlying a costs award, have been expanded as reflected in the following statement:
+26. Traditionally the purpose of an award of costs within our “loser pay” system was to partially or, in some limited circumstances, wholly indemnify the winning party for the legal costs it incurred. However, costs have more recently come to be recognized as an important tool in the hands of the court to influence the way the parties conduct themselves and to prevent abuse of the court’s process. Specifically, the three other recognized purposes of costs awards are to encourage settlement, to deter frivolous actions and defences, and to discourage unnecessary steps that unduly prolong the litigation. See Fellowes, McNeil v. Kansa General International Insurance Co. (1997), 37 O.R. (3d) 464 at 467 and 472 (Ont. Ct. Gen. Div.).
+27. In British Columbia (Minister of Forests) v. Okanagan Indian Band, [2003] 3 S.C.R. 371 at paras. 25 and 26, LeBel J. discussed the natural evolution of the law in recognizing these policy objectives:
+As the Fellowes and Skidmore [infra] cases illustrate, modern costs rules accomplish various purposes in addition to the traditional objective of indemnification. An order as to costs may be designed to penalize a party who has refused a reasonable settlement offer [.] … Costs can also be used to sanction behaviour that increases the duration and expense of litigation, or is otherwise unreasonable or vexatious. In short, it has become a routine matter for courts to employ the power to order costs as a tool in the furtherance of the efficient and orderly administration of justice.
+Indeed, the traditional approach to costs can also be viewed as being animated by the broad concern to ensure that the justice system works fairly and efficiently. Because costs awards transfer some of the winner’s litigation expenses to the loser rather than leaving each party’s expenses where they fall (as is done in jurisdictions without costs rules) they act as a disincentive to those who might be tempted to harass others with meritless claims. And because they offset to some extent the outlays incurred by the winner, they make the legal system more accessible to litigants who seek to vindicate a legally sound position. These effects of the traditional rules can be connected to the court’s concern with overseeing its own process and ensuring that litigation is conducted in an efficient and just manner. In this sense it is a natural evolution in the law to recognize the related policy objectives that are served by the modern approach to costs.
+(1465778 Ontario Inc. v 1122077 Ontario Ltd., [2006] OJ No. 4248 (ONCA))
+[7] The more prominent role that the factor of settlement offers has been given is also reflected in recent decisions of this Court: Langille v The Queen, 2009 TCC 540, [2009] TCJ No. 429, and Donato v The Queen, 2010 TCC 16, 2010 DTC 1049. The more modern approach to costs awards and settlement offers is reflected as well in the statutory authority granted under Rule 147(3.1), which provides that an appellant who makes an offer and obtains a judgment more favourable than the terms of the offer will be entitled to “substantial indemnity costs” subsequent to the date of the offer. In addition, subsection 147(3.5) of the Rules provides that “substantial indemnity costs” means 80 percent of solicitor and client costs.
+[8] The Appellant’s first settlement offer was by letter dated May 2, 2014. The Respondent did not bother to reply until March 11, 2015, almost 10 months later. As I understand from the submissions of both parties, the Respondent did not even acknowledge receipt of this offer during that 10 month period. When the Respondent did respond, it simply refused the Appellant’s offer without an attempt to make a counter offer. Shortly after the Respondent’s refusal, the Appellant, by letter dated March 16, 2015, made a second offer. The Respondent declined this offer on March 20, 2015 and countered by advising it would consent to the Appellant’s discontinuance of the appeal on a without costs basis.
+[9] The Appellant submits that its May 2, 2014 settlement offer satisfies each of the statutory conditions for awarding solicitor and client costs as set out in the Rules and based on the relevant jurisprudence, the award should be 95 percent of the costs incurred after the date of this offer or, in the alternative, no less than 80 percent of its solicitor/client costs.
+[10] The Respondent’s proposal respecting an award of increased costs, that would limit it to 50 percent of the fees, is well below the minimum threshold provided by Rule 147(3.5). By such a proposal, I assume, although it is not specifically stated, that the Respondent is advancing the position that the Appellant’s offers were unable to be accepted due to the legal disability of the Respondent to do so and to engage in the process. At paragraph 14 of the Written Submissions of the Respondent, dated December 15, 2015, it argued that, in respect to its refusal of the offers without making a counter offer to the Appellant, “[t]he Appellant’s inability to provide substantial enough documentation to support their claims that the work they were conducting met the criteria for SR&ED put the Respondent at a legal disability.”
+[11] Assessments are to be made on a principled basis and the results of settlement offers must be those that legislation would allow. As such, there is a statutory duty for the Minister of National Revenue (the “Minister”) to assess tax payable, based on the facts as the Minister finds them, in accordance with the law as the Minister understands it. It follows that the Minister has no authority to implement a compromise settlement that is not in accordance with the facts and the law (Galway v MNR, 74 DTC 6355). However, the Minister is able to consent to a judgment designed to implement an agreement of the parties as to how the assessment of tax liability should have been made by application of the law to the true facts. Although the Respondent submitted that the issue in the appeal concerned a “yes-no” question as to whether the activities met the criteria for SR&ED (paragraph 15 of the Written Submissions of the Respondent), my reasons made it clear that my conclusions were based on both oral and documentary evidence. The Appellant was successful, but not on the sole basis of a conclusion of law for which there was only one answer. In fact, the Appellant’s settlement offers were for amounts of qualifying expenses that were less than the total amount of qualifying expenses that were in issue.
+[12] I conclude that there is nothing in this appeal that would have prevented the Respondent from engaging in the negotiation process which the Appellant initiated on May 2, 2014, almost one year prior to the commencement of the hearing of the appeal. In support of its project, the Appellant engaged in a number of different activities which it claimed to be SR&ED. The Respondent claimed that it did not make a settlement offer in part due to inadequate documentation. The Appellant made two different settlement offers, each of which were for amounts that were less than the total amount of qualifying expenses that were in issue. It is for these very reasons that the Respondent should have engaged in the negotiation process in anticipation that it was open to this Court to weigh both the oral and documentary evidence, which is what occurred. There was room to negotiate as to quantum of qualifying expenses which distinguishes the present appeal from others (CIBC World Markets Inc. v Canada, 2012 FCA 3, [2012] FCJ No. 30).
+[13] Apart from the factor of settlement offers, the Appellant was wholly successful and the amounts in issue were significant to the Appellant’s business activities. Both of these factors support an enhanced award of costs. However, while the successful resolution of the issues was important to the Appellant, the importance of the issues in this appeal as they relate to the general state of the law was minimal. My conclusion was based primarily on findings of fact and therefore this factor alone either does not support an increased award or is of neutral significance. In comparison to other similar appeals involving research and development activities, I believe the volume of work would be comparable. Such activities tend to be highly technical and necessitate intensive preparation. Although the Respondent suggests that the Appellant relied on four witnesses in order to compensate for inadequate documentation, the opposing argument remains just as valid: that the Appellant had to rely on its witnesses to provide explanation of the activities and its documentation. The Respondent also argued that, since the Appellant spent a considerable amount of time on preparation of its proposed expert, who at the commencement of the hearing I disqualified, this should not be a factor for an increased costs award. However, the Court’s qualification of an expert is one of the uncertainties of the litigation process and one of the decisions that counsel make in preparing the client’s appeal.
+[14] I am of the view that an award of enhanced costs in the amount of 95 percent of the invoiced fees for the period from May 2, 2014 to present is reasonable in the circumstances. This conclusion is based primarily on the Appellant’s demonstrated willingness to negotiate a settlement, the reasonableness of those proposals, the Respondent’s refusal to participate in any meaningful manner in the settlement negotiation process and the eventual success of the Appellant’s appeal.
+[15] I am, therefore, directing that the Appellant be awarded costs equivalent to 95 percent of its invoiced fees and disbursements from May 2, 2014 to the date of the filing of the within submissions, together with normal tariff costs for a wholly-successful litigant with respect to all matters prior to May 2, 2014.
+[16] I have one final comment in respect to the Respondent’s treatment of the invoices, payable by the Appellant, that were attached as exhibits to the Affidavit submitted with the Notice of Motion. The Respondent, in its response to the Appellant’s motion, at paragraphs 32 to 35, submitted that these invoices contained insufficient detail to determine if one or more counsel conducted the work or what the hourly rate was or the amount of time spent on each task. I wholeheartedly agree with the Respondent that these invoices were insufficient for the purposes of adequately supporting such a motion. This would have affected the percentage of the costs award if the Respondent had not then gone on, in its submissions, to request that the Appellant file with the Court more detailed invoices. On January 27, 2016 and pursuant to the Respondent’s request, the Appellant filed those detailed invoices. At a minimum, the Respondent should have objected to the subsequent filing of more detailed invoices. If this motion had been heard in Court and not by way of written submissions, I would not have allowed an adjournment in order that the Appellant could rectify its supporting documents.
+Signed at Ottawa, Canada, this 26th day of February 2016.
+Campbell J.
+CITATION:
+2016 TCC 50
+COURT FILE NO.:
+2012-4645(IT)G
+STYLE OF CAUSE:
+ACSIS EHR (Electronic Health Record) INC. and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+April 8, 9 and 10, 2015
+REASONS RESPECTING SUBMISSIONS ON COSTS BY:
+The Honourable Justice Diane Campbell
+DATE OF REASONS RESPECTING SUBMISSIONS ON COSTS:
+February 26, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Bruce S. Russell, Q.C.
+Megan Seto
+Counsel for the Respondent:
+Dominique Gallant
+Andrea MacNevin (student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Bruce S. Russell, Q.C.
+Megan Seto
+Firm:
+McInnes Cooper
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

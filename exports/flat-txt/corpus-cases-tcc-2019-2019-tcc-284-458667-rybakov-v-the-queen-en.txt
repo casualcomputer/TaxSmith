@@ -1,0 +1,148 @@
+Title: Rybakov v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/458667/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-284-458667-rybakov-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-12-19
+
+# Rybakov v. The Queen
+
+- Citation: 2019 TCC 284
+- Decision date: 2019-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4296, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rybakov v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-12-19
+Neutral citation
+2019 TCC 284
+File numbers
+2018-4468(GST)G
+Judges and Taxing Officers
+Siobhan Monaghan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2018-4468(GST)G
+BETWEEN:
+ANDREY RYBAKOV,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2018-4469(GST)G
+AND BETWEEN:
+YULIA RYBAKOVA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion of the Appellants, in writing, filed on October 15, 2019
+Discussion by conference call on December 3, 2019
+Further written submissions of the Appellant filed
+on December 13, 2019
+Before: The Honourable Justice K.A. Siobhan Monaghan
+Participants:
+Counsel for the Appellant:
+Bobby B. Solhi
+Bhuvana Sankaranarayanan
+Counsel for the Respondent:
+Katie Beahen
+ORDER
+WHEREAS the Appellants each filed a motion, in writing on October 15, 2019 seeking the following relief:
+Having a portion of the judgment of this Court dated October 4th, 2019 [the “judgment”], specifically, the portion of the judgment ordering that the Appellant amend the Amended Notice of Appeal in this matter [the “Amendment Order”], suspended in accordance with paragraph 172(2)(b) of the Rules, until the Federal Court of Appeal decides an appeal of the Judgment on its merits.
+AND WHEREAS counsel for the Respondent, by letter dated October 15, 2019, has consented to the Appellants’ motions;
+AND WHEREAS at the request of counsel for the Appellants during a conference call held on December 3, 2019, an Order was issued allowing the Appellants to make further written submissions which were filed on December 13, 2019;
+NOW THEREFORE it is ordered that the Order of this Court dated October 4, 2019, except such parts of said Order as have already been complied with, shall be stayed pending the outcome of the appeal of said Order to the Federal Court of Appeal.
+Signed at Ottawa, Canada, this 19th day of December 2019.
+“K.A. Siobhan Monaghan”
+Monaghan J.
+Citation: 2019 TCC 284
+Date: 20191219
+Docket: 2018-4468(GST)G
+BETWEEN:
+ANDREY RYBAKOV,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2018-4469(GST)G
+AND BETWEEN:
+YULIA RYBAKOVA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Monaghan J.
+I. INTRODUCTION
+[1] The Appellants have brought a motion seeking a stay of a portion of the Order of this Court dated October 4, 2019 because said Order has been appealed to the Federal Court of Appeal. The October 4, 2019 Order was issued following the Appellants’ application for judgment in default.
+[2] The application for judgment in default was denied. However, the October 4, 2019 Order issued following the hearing of that application also required (i) the Appellants to amend their amended notices of appeal to conform with Form 21(1)(a) and (ii) the Respondent to file the reply to each amended notice of appeal within 45 days following the Appellants’ service of the amended notices of appeal on the Respondent, in the manner provided for in the October 4, 2019 Order. Among the Appellants’ eight grounds of appeal is that this Court made an error of law in granting the Respondent an extension of time for filing the reply to the Appellants’ amended notices of appeal.
+[3] The Appellants’ assertion that the replies were late was the basis of their application for judgment in default. On that application, the Respondent disagreed that the replies were late. However, in the event that this Court agreed that the replies were not filed in time, the Respondent sought an extension of the time within which to file the replies. The Appellants objected to that request because the Respondent did not file a notice of motion in accordance with Rules 44(1)(b) and 65. In my reasons for the October 4, 2019 Order, I agreed with the Respondent that the replies were not late and that the Respondent did not need an extension of time. However, I went on to state that if I was wrong, I would exercise my discretion to grant the Respondent an extension of time to file the replies. Whether I was mistaken to conclude the replies were not late, and to grant an extension of time if I was, are two of the decisions under appeal.
+II. STAY OF AN ORDER
+[4] Rule 172(2)(b) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) permits this Court to suspend the operation of an order [1] of this Court on motion of a party. In this case, the Respondent has consented to the Appellants’ stay application. However, despite the Respondent’s consent, to succeed the Appellants must satisfy the test outlined in RJR- MacDonald Inc. v Canada (Attorney General). [2] This requires that the Appellants establish:
+That there is a serious issue to be determined;
+That failure to grant the requested order is likely to cause irreparable harm; and
+That the balance of convenience favours retaining the status quo until the legal issue has been disposed of.
+III. SERIOUS ISSUE TO BE DETERMINED
+[5] The threshold for seriousness is low. The judge considering the application must be “satisfied that the application is neither vexatious nor frivolous”. [3] Essentially, I must be satisfied that the matter is not destined to fail. [4] As I stated in my reasons for the Order dated October 4, 2019, the case is not typical. It involves the interaction of the informal and formal procedure Rules and a reassessment following the institution of an appeal. I am satisfied that there is a serious issue to be determined and accordingly that the first requirement of the RJR-MacDonald test has been satisfied.
+IV. IRREPARABLE HARM
+[6] In several cases the Federal Court of Appeal has decided that irreparable harm can be established where a denial of the stay application would render the appeal moot. The Appellants assert that without a stay they will suffer irreparable harm because if they are required to amend their amended notices of appeal, with the result that the Respondent is required to file the replies, before the Federal Court of Appeal has rendered its decision in the appeal of the October 4, 2019 Order, the appeal of that Order is moot.
+[7] While the Appellants’ Notice of Motion for the stay states they are seeking the “suspension of the portion of the judgment ordering that the Appellant[s] amend the Amended Notice of Appeal,” in my view no irreparable harm arises because of the requirement to file the amendments to the amended notice of appeal. While the Appellants have appealed my conclusions regarding their amended notices of appeal, in my view it is difficult to see how a notice of appeal amended in accordance with my October 4, 2019 Order disadvantages the Appellants except as to cost. Those aspects of the October 4, 2019 Order are related to whether judgment in default should have been granted, one of the remedies that the Appellants seek on appeal. Were the amendments to the amended notice of appeal made in compliance with the October 4, 2019 Order, the Federal Court of Appeal nevertheless could decide the Appellants should have judgment in default. [5] I see no irreparable harm if the Amended Notices of Appeal are amended in compliance with that Order.
+[8] However, on appeal, the Federal Court of Appeal also is being asked to find (i) that I was incorrect in concluding that the replies were not late, and (ii) that, in the circumstances, I should not have agreed to extend the time for filing the replies. I am satisfied that were the replies filed, that aspect of the appeal may be moot. Accordingly, the Appellants have met the second requirement of the RJR-MacDonald test.
+V. BALANCE OF CONVENIENCE
+[9] Under the third branch of the RJR-MacDonald test, the judge is required to determine which of the parties would suffer greater harm from the grant or refusal of the requested stay. In this case, the Respondent has consented to the stay. Presumably, the Respondent agrees it is not prejudiced and will not suffer greater harm than the Appellants would were the stay not granted.
+[10] I am satisfied that the balance of convenience tips in favour of granting the stay, largely for the same reasons that I have concluded that the second branch of the RJR-MacDonald test is met. That is, the Respondent has no significant cost from a stay of the October 4, 2019 Order. On the other hand, if the October 4, 2019 Order is not stayed, at least a part of the Appellants’ appeal of that Order may be rendered moot.
+VI. CONCLUSION
+[11] I have decided it is not appropriate in these circumstances to stay only that part of the October 4, 2019 Order that grants the Respondent an extended time to file the replies. To do so would be to effectively grant the Respondent a significantly longer period for filing the replies than is provided in the October 4, 2019 Order or in the Rules when measured from the filing of the Amended Notices of Appeal. Therefore, for the above reasons, I have decided to stay all aspects of the October 4, 2019 Order that have not already been complied with. [6]
+Signed at Ottawa, Canada, this 19th day of December 2019.
+“K.A. Siobhan Monaghan”
+Monaghan J.
+CITATION:
+2019 TCC 284
+COURT FILE NO.:
+2018-4468(GST)G
+2018-4469(GST)G
+STYLE OF CAUSE:
+ANDREY RYBAKOV v. HER MAJESTY THE QUEEN
+YULIA RYBAKOVA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+Motion of the Appellants, in writing, filed on October 15, 2019
+Discussion by conference call on December 3, 2019
+Further written submissions of the Appellant filed on December 13, 2019
+REASONS FOR ORDER BY:
+The Honourable Justice K.A. Siobhan Monaghan
+DATE OF ORDER:
+December 19, 2019
+PARTICIPANTS:
+Counsel for the Appellant:
+Bobby B. Solhi
+Bhuvana Sankaranarayanan
+Counsel for the Respondent:
+Katie Beahen
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Bobby B. Solhi
+Firm:
+Borden Ladner Gervais LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Rule 172(2)(b) refers to a judgment but the definition of judgment in Rule 2 states it includes an order.
+[2] (1994) 1 S.C.R. 311.
+[3] Ibid at para. 55.
+[4] Canada (Superintendent of Bankruptcy) v. MacLeod 2010 FCA 84 at para 11.
+[5] Under the Federal Courts Act, on appeal of a decision of this Court, the Federal Court of Appeal may give the decision that should have been given.
+[6] The parties have complied with the part of the October 4, 2019 Order concerning submissions on costs.

@@ -1,0 +1,180 @@
+Title: Guillemette c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26097/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-278-26097-guillemette-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2004-04-19
+
+# Guillemette c. M.R.N.
+
+- Citation: 2004 TCC 278
+- Decision date: 2004-04-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4158, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guillemette c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-19
+Neutral citation
+2004 TCC 278
+File numbers
+2003-1395(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2003-1395(EI)
+2003-1394(EI)
+BETWEEN:
+HENRI GUILLEMETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence on December 3, 2003
+in Trois-Rivières, Quebec
+Before: The Honourable Deputy Justice S. J. Savoie
+Appearances:
+Counsel for the Appellant:
+Claude Traversy
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeals are dismissed and the decisions by the Minister are confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 19th day of April 2004.
+"S. Savoie"
+Savoie D.J.
+Translation certified true
+on this 25th day of October 2004.
+Ingrid B. Miranda, Translator
+Citation: 2004TCC278
+Date: 20040419
+Dockets: 2003-1395(EI)
+2003-1394(EI)
+BETWEEN:
+HENRI GUILLEMETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] These appeals were heard on common evidence in Trois-Rivières, Quebec, on December 3, 2003.
+Docket 2003-1395(EI):
+[2] On September 23, 2002, the Appellant asked the Minister of National Revenue (the "Minister") to make a determination as to whether the Appellant had held insurable employment from September 20, 1999 to July 14, 2000, from August 7, 2000 to July 13, 2001, and from July 30, 2001 to May 31, 2002, while he worked for Couvertures F P Inc., the Payor, within the meaning of the Employment Insurance Act (the "Act").
+[3] In a letter dated February 11, 2003, the Minister informed the Appellant of his decision that the employment was not insurable because it did not meet the requirements of a contract of service. Thus, there was no employer-employee relationship between the Appellant and the Payor during the periods at issue.
+Docket 2003-1394(EI):
+[4] On September 23, 2002, the Appellant asked the Minister to make a determination as to whether he had held insurable employment from August 23, 1999 to May 12, 2000, and from September 11, 2000 to May 11, 2001, while he worked with D. Simoneau Inc., the Payor, within the meaning of the Act.
+[5] In a letter dated February 11, 2003, the Minister informed the Appellant of his decision that the employment was not insurable because it did not meet the requirements of a contract of service. Thus, there was no employer-employee relationship between the Appellant and the Payor during the periods at issue.
+[6] In rendering his decisions, the Minister relied upon the following presumptions of fact:
+Docket 2003-1395(EI):
+[TRANSLATION]
+(a) The Payor, incorporated on December 10, 1996, operates a roof assembly business. (admitted)
+(b) During the periods at issue, Michel Pouliot and Gérald Fleury were equal shareholders in the Payor. (admitted)
+(c) The Appellant is a bookkeeper by profession. After losing his
+full-time job in 1999, he offered his bookkeeping services to several businesses, including the Payor. (denied)
+(d) During the periods at issue, the Appellant provided services to the Payor for one week per month. (denied)
+(e) Usually, the Payor would contact the Appellant a few days in advance to determine his availability and to make arrangements for an entire week. (denied)
+(f) The Appellant provided his services at the Payor's place of business; he generally used an empty office on the Payor's premises. (admitted)
+(g) When working for the Payor, the Appellant did the following tasks: bookkeeping, remittances to government, preparing QST and GST returns. (admitted)
+(h) Initially, the Payor agreed, at the Appellant's request, to pay him $600 for each week he was called to work; in 2000, his compensation reached $720 per week. (denied)
+(i) The Payor did not record the working hours of the Appellant. (denied)
+(j) The Appellant was allowed to modify his working hours, as long as he met the regulatory deadlines. (denied)
+(k) The Appellant estimates that he spent approximately 40 hours working for the Payor per month. (admitted)
+(l) The Appellant did not receive any employee benefits from the Payor. (denied)
+(m) During the periods at issue, the Appellant also provided bookkeeping services to other Payors. (denied)
+(n) The Payor did not exercise control over the work performed by the Appellant and was only interested in the final product of the services provided. (denied)
+Docket 2003-1394(EI):
+[TRANSLATION]
+(a) The Payor, incorporated on May 18, 1998, operates a wood mouldings manufacturing business. (admitted)
+(b) During the periods at issue, Daniel Simoneau and Manon Blanchet were equal shareholders in the Payor. (admitted)
+(c) The Appellant is a bookkeeper by profession. After losing his
+full-time job in 1999, he offered his bookkeeping services to several businesses, including the Payor. (denied)
+(d) During the periods at issue, the Appellant provided on-call services to the Payor. (denied)
+(e) Whenever Ms. Blanchet, director of the Payor, was behind schedule, she would call the Appellant and offer him work for a week, approximately 40 hours. (denied)
+(f) Ms. Blanchet used to contact the Appellant a week in advance so he could make himself available for a whole week. (admitted)
+(g) The Appellant provided his services at the Payor's place of business; he generally used an empty office on the Payor's premises. (admitted)
+(h) When working for the Payor, the Appellant did the following tasks: bookkeeping; remittances to government; preparing QST and GST returns; preparing cheques for suppliers and preparing bank deposits. (partially admitted)
+(i) The Payor agreed, at the Appellant's request, to pay him $600 for each week they called him to work. (denied)
+(j) The Appellant estimates that he spent approximately 40 hours working for the Payor per month. (admitted)
+(k) The Appellant did not receive any employee benefits from the Payor. (admitted with particulars)
+(l) During the period at issue, from August 23, 1999 to May 1, 2001, the Appellant only worked six weeks, once every three to five months. (admitted)
+(m) During the period at issue, the Appellant also provided bookkeeping services to other Payors. (denied)
+(n) The Payor did not exercise any control over the work of the Appellant and was only interested in the final product of the services provided by the Appellant. (denied)
+[7] In making his determinations, the Minister relied upon paragraph 5(1)(a) of the Act to hold that the Appellant's employment was not insurable. Paragraph 5(1)(a) reads as follows:
+Subject to subsection (2), insurable employment is:
+(a) employment in Canada by one or more Employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+[8] According to the well-known decision Wiebe Door Services Ltd. v. Canada [1996] 3 F.C. 553, case law has established a series of tests that may be used in determining issues such as the cases at bar, namely:
+1. The degree of control exercised of the worker's work;
+2. The ownership of work tools;
+3. The chance of profit and the risk of loss;
+4. The integration of the worker's work into the Payor's business.
+[9] Décary J.A. of the Federal Court of Appeal, in Charbonneau v. Canada (Minister of National Revenue, M.N.R.) [1996] F.C.J. No. 1337, has stated the following with respect to these tests:
+The tests laid down by this Court in Wiebe Door Services Ltd. v. M.N.R. . . . - on the one hand, the degree of control, the ownership of the tools of work, the chance of profit and risk of loss, and on the other, integration - are not the ingredients of a magic formula. They are guidelines which it will generally be useful to consider, but not to the point of jeopardizing the ultimate objective of the exercise, which is to determine the overall relationship between the parties. The issue is always, once it has been determined that there is a genuine contract, whether there is a relationship of subordination between the parties such that there is a contract of employment (art. 2085 of the Civil Code of Québec) or, whether there is not, rather, such a degree of autonomy that there is a contract of enterprise or for services (art. 2098 of the Code). In other words, we must not pay so much attention to the trees that we lose sight of the forest - a particularly apt image in this case. The parts must give way to the whole.
+[10] I shall now examine the evidence before this Court in light of these established tests.
+Docket 2003-1395(EI)
+1. The Control Test
+[11] The Appellant accomplished his tasks in the Payor's office: he had to be present during office hours. The Appellant would receive a telephone call from the Payor to ask whether he was available for work. The Worker decided whether or not he would go to the Payor's premises as requested. He always worked a 40-hour block. The evidence has established that the Payor did not exercise any control over the Appellant's hours of work. The Payor was only concerned with the results. It was important for the Payor that remittances to government be paid in a timely fashion. The Payor did not mind when, for any reason, the Appellant worked one week, or another. The Payor's secretary was in charge of invoicing, as well as the payroll and the deposits. The Payor placed an office at the disposal of the Appellant every time he worked for him: it was not always the same office. He was to use whatever office was available at the moment. At the hearing, the Payor was unable to state whether the Appellant had received holiday pay. The circumstances outlined clearly show the Payor's lack of control over the Appellant.
+2. The Ownership of the Tools
+[12] The Payor supplied the Worker with all the tools he needed to accomplish his tasks. The Worker only needed paper, pencils and a calculator.
+3. The Chance of Profit and the Risk of Loss
+[13] The evidence appears ambiguous with respect to the Appellant's remuneration: in both cases, it was established that the Appellant's salary was $15 per hour, including the expenses incurred by the Appellant. However, this ambiguity does not affect the determination. The Appellant received a salary of $600 or $720 for a 40-hour block, depending on whether he was paid $15 or $18 per hour. He did not receive any allowance for travelling or for meals. The Appellant testified that the amount he received included all his expenses.
+4. The Integration Test
+[14] The Appellant's work, although necessary to the business, did not constitute an integral part of the business. The work could have been sub-contracted. The Appellant had been laid off at very busy times, and had started work again two or three and a half weeks later. Since the Appellant works only one week a month, the Minister concluded that it was not a real termination. The Appellant referred to the Payor as his client when speaking with the eligibility officer. The Appellant also provides services to other Payors, such as 9108-2537 Québec Inc., Transports AR, and D. Simoneau Inc.
+[15] The Appellant is a bookkeeper by profession, although he does not hold any certificate or degree. He works for different Payors, doing the same type of tasks. The appeals officer in this case points out that the Worker's Records of Employment were issued to make him eligible for benefits, not due to a lack of work. The appeals officer concluded that the Payor was not really terminating the services of the Appellant, since the latter would go back to work after the termination. Therefore, the Minister submits that there was no actual termination.
+Docket 2003-1394(EI)
+[16] In light of the above-mentioned tests, the Court must now determine the insurability of the Appellant's work for the Payor, D. Simoneau Inc. The Payor, manufactures wood mouldings used for houses or for furniture. This corporation hires between 14 and 20 persons. As at April 30, 2002, it had sales figures of $ 649,000. Manon Blanchet and Daniel Simoneau are the only two shareholders in the Payor. During the periods at issue, the Payor retained the services of the Appellant, Henri Guillemette, as a bookkeeper.
+1. The Control Test
+[17] The Appellant performed his work in the Payor's office: he had to be present during office hours. In this case, as in the other one, the Payor would call the Appellant to ask him if he was available for work. The Appellant decided whether or not to go, and this was always a 40-hour block.
+[18] In this particular case, as in the other one, the Payor did not exercise any control over the Appellant's hours of work; the Payor's only requirements were the results and ministerial deadlines. The evidence shows that the Appellant could work 36 hours one week, and work 42 hours another week. Therefore, he managed his own working hours. If he needed to postpone or change a working day, he was free to do so. He did not record his time and there was no register for this purpose. The other factory workers had to punch in. Manon Blanchard, shareholder of the Payor, exercised some control over the Appellant with respect to the results. The latter had no specific office in the Appellant's workplace. He used whatever office was available on each particular day. Since the Appellant did his bookkeeping work by hand and the Payor had just computerized his bookkeeping, he was terminated. He was replaced by another accountant, Jean-Yves Blanchet, who was self-employed.
+2. The Ownership of the Tools
+[19] The Appellant only needed some paper, pencils and a calculator to accomplish his tasks and the Payor provided such supplies.
+3. The Chance of Profit and the Risk of Loss
+[20] The Worker received a salary of $600 per week, for a 40-hour block. However, the evidence also established that he could have received a $720 weekly salary, depending on whether he was paid at an hourly rate of $15 or $18. In any event, the exact amount of his remuneration did not in any way change the circumstances of the employment, with respect to the present examination. The Appellant did not receive any holiday pay, or any paid vacation; he was not paid for statutory holidays and did not receive any employee benefits. He was liable for all the expenses he incurred and he told the investigators that the amounts he was paid included all his expenses.
+4. The Integration Test
+[21] The evidence has established that the work of the Appellant did not constitute an integral part of the business, even though the work was necessary for the business. The Minister has concluded that the work could have been
+sub-contracted. The Payor used the services of the Appellant only when it needed to do so. He worked "on call". The Payor told the insurability officer that they telephoned the Appellant approximately one week in advance so he could arrange his schedule [TRANSLATION] "since we knew he had other clients." The Appellant was also free to postpone or to change any workday. It was shown that even though the Payor's sales slowed down during the fall, the Appellant nevertheless came back to work during that period, while during the spring, when sales were at their highest, he would stop working. The evidence shows that when the Appellant was not working for the Payor, Manon Blanchet did the work. Moreover, the Minister demonstrated that the Appellant was free to work for other Payors without restriction. The evidence has then revealed that the Appellant worked for Couvertures FP Inc. for a number of years, as well as for Transports AR. It was also proven that the Appellant prepared tax returns for friends. This caused the Minister to conclude that the Records of Employment were issued to make the Appellant eligible for employment insurance benefits and that his eligibility was not necessarily justified by lack of work.
+[18] In both dockets examined, the circumstances of the Appellant's employment are very similar. The same issues arise in both cases:
+1. Does a Worker who works in an employer-employee relationship have the freedom to choose whether or not he will go to work?
+2. Would the Appellant agree to work without receiving any of the employee benefits usually granted by employers to their employees, or paid statutory holidays or holiday pay?
+3. Would a real employer agree to his employer's work being under the control of a third party, and not his, the third party here being the government authorities in charge of establishing the deadlines with which the Worker had to comply?
+4. In a real employer-employee relationship, would the employer agree to the Worker controlling his own schedule or modifying his own schedule?
+5. Would the employer agree to his employee regularly working for other employers, even his competitors?
+[19] The answer to these questions leads us to the inevitable conclusion that the work of the Appellant in both appeals under examination, is that of a Worker working for his own business, rather than for his employer's.
+[20] We should remember the principles established by case law in circumstances similar to the present matter.
+[21] In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc. [2001] 2 S.C.R. 983, Major S.C.J., endorsed the opinion of MacGuigan J.A. when he stated in Wiebe Door Services Ltd., supra:
+. . . The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+[22] Major J. continued as follows:
+. . . I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations. . . . The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[22] Moreover, in the decision Standing c. Canada (Minister of National Revenue) [1992] F.C.J. No. 890, Stone J.A. of the Federal Court of Appeal put it this way:
+. . . Regardless of what may have been the Tax Court's appreciation of the Wiebe Door test, what was crucial to it in the end was the parties [sic] own post facto characterization of the relationship as that of employer/employee. There is no foundation in the case law for the position that such a relationship may exist merely because the parties choose to describe it to be so regardless of the surrounding circumstances when weighed in the light of the Wiebe Door test. . . .
+[23] Under similar circumstances, McArthur J. of this Court wrote in Mireault v. Canada (Minister of National Revenue)[1996] T.C.J. No. 636 as follows:
+. . . The control exercised over an independent or self-employed contractor applies only to the result and is generally sporadic and ad hoc in nature: it is never continuous.
+. . .
+The Appellant in the instant case had the power to decide for whom and when she wanted to work. It was her business; she was independent.
+[24] Examining the facts in light of the control test, this Court drew on Charbonneau, supra, where Marceau J.A. stated:
+Supervision of the work every second day and measuring the volume every two weeks do not, in this case, create a relationship of subordination, and are entirely consistent with the requirements of a contract of enterprise. It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker.
+[25] The Appellant asked this Court to reverse the Minister's decision. However, examination of the evidence in light of the established principles does not justify the intervention of this Court.
+[26] The Appellant had the burden to prove, on a balance of probabilities, that the facts relied on by the Minister were false. In both dockets at bar, the Appellant did not discharge this duty.
+[27] In such circumstances, it is worth quoting Pratte J.A. in Elia v. Canada (Minister of National Revenue), [1998] F.C.J. No. 316:
+Contrary to what the judge believed, he therefore could have intervened and should have intervened if, as he asserted, the evidence established that the Minister's decision was unreasonable. However, it seems to us that the judge's assertion is also inaccurate and based on an error of law, since the judge did not take into account the well-settled rule that the allegations in the reply to the notice of appeal, in which the Minister states the facts on which he based his decision, must be assumed to be true as long as the appellant has not proven them false.
+[28] This Court must conclude that the decisions of the Minister respecting both appeals are well founded.
+[29] Therefore, the appeals are dismissed and the decisions of the Minister with respect to the two matters are confirmed.
+Signed at Grand-Barachois, New Brunswick, this 19th day of April 2004.
+"S. Savoie"
+Savoie D.J.
+Translation certified true
+on this 25th day of October 2004.
+Ingrid B. Miranda, Translator

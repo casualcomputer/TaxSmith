@@ -1,0 +1,324 @@
+Title: Grimard c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28353/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-755-28353-grimard-c-la-reine-en.md
+Document type: case_law
+Last modified: 2007-10-12
+
+# Grimard c. La Reine
+
+- Citation: 2007 TCC 755
+- Decision date: 2007-10-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1938, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grimard c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-12
+Neutral citation
+2007 TCC 755
+File numbers
+2006-1438(IT)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1438(IT)G
+BETWEEN:
+MICHEL GRIMARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on October 12, 2007 at Sherbrooke, Quebec.
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1995, 1996, 1997 and 1998 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of December 2007.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 30th day of April 2008.
+Erich Klein, Revisor
+Citation: 2007TCC755
+Date: 20071220
+Docket: 2006-1438(IT)G
+BETWEEN:
+MICHEL GRIMARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Archambault J.
+[1] Michel Grimard is appealing from the assessments made by the Minister of National Revenue (Minister) for the 1995, 1996, 1997 and 1998 taxation years (relevant period). At the audit stage, the Minister disallowed all the expenses claimed by Mr. Grimard in computing his professional income, except professional dues for 1995, 1996 and 1997. At the objection stage, the Minister allowed the professional dues for 1998 and convention expenses for 1995 and 1996. The expenses at issue here are as follows:
+Description of expenses
+1995
+1996
+1997
+1998
+Office rent
+$11,280
+$11,280
+$11,280
+$11,280
+Stationery, stamps, telephone, office expenses
+$1,878
+$1,803
+$1,850
+$1,920
+Travel
+$4,986
+$5,127
+$4,943
+$5,028
+[2] To justify disallowing these expenses, the Minister argues that they were incurred for the purpose of gaining or producing income from employment and that their deduction is therefore prohibited by virtue of subsections 8(1), (2) and (10) of the Income Tax Act (Act). In the alternative, even if the expenses were incurred for the purpose of gaining or producing income from a business, the Minister argues that they would not be allowable under paragraph 18(1)(h) of the Act because they were personal or living expenses.
+Factual Background
+[3] Mr. Grimard is a physician who has held a specialist's certificate in community health since 1981. This specialty encompasses a number of fields, including public, environmental and occupational health. Mr. Grimard also has master's and doctoral degrees in biophysics and physiology applied to the effects of the environment on human health.
+[4] Mr. Grimard worked as a medical assessor for the Commission d'appel en matière de lésions professionnelles (CALP) from 1991 to 1998 and for the Commission des lésions professionnelles (CLP) until 1999. The CLP inherited the CALP's powers, duties and responsibilities in 1998. The CALP and the CLP (board) are administrative tribunals whose function is to resolve disputes related to decisions of the Commission de la santé et de la sécurité du travail (CSST). According to section 368 of the Act respecting industrial accidents and occupational diseases (AIAOD) as it read at the relevant time, the board was made up of not fewer than 12 commissioners, including a president appointed by the government, whose term of office was no more than five years (section 368 AIAOD). The president was responsible for the administration and general management of the board (section 377 AIAOD). The president could appoint full‑time assessors whose function was to advise and sit with the commissioners (section 378 AIAOD). The president could also, in order to "expedite the business of the board", appoint part‑time or temporary assessors and determine their fees (section 380 AIAOD). The second paragraph of section 380 provided that such assessors were not "members of the personnel" of the board.
+[5] In general, Mr. Grimard's services were provided under a written contract that was for a fixed term, usually two years. The first contract covered the period from April 15, 1991, to April 14, 1993. The contract[1] in effect at the start of the relevant period and which was dated November 8, 1993, read as follows:
+[TRANSLATION]
+CONTRACT
+BETWEEN:
+Commission d'appel en matière de lésions professionnelles, having its head office at 900 Place d'Youville, Quebec City, Quebec, G1R 3P7, here acting through and represented by its president, Freddy Henderson,
+(hereinafter the "CALP"):
+AND:
+Michel Grimard, medical specialist, residing at . . . Sherbrooke, Quebec, J1H 3R5,
+(hereinafter the "contractor").
+WHEREAS the CALP retained the contractor to provide his professional services under an initial written contract covering the period from April 15, 1991, to April 14, 1993, inclusive.
+. . .
+WHEREAS the parties hereby confirm the verbal contract they entered into for the period from April 15 to September 15, 1993.
+THE PARTIES AGREE AS FOLLOWS:
+1. OBJECT OF CONTRACT
+The CALP retains the contractor, who agrees to provide his professional services to the CALP for the purpose of acting as a medical assessor under the Act respecting industrial accidents and occupational diseases (R.S.Q., c. A‑3.001) in accordance with this contract.
+The contractor undertakes to provide his professional services exclusively to the CALP in all matters and cases coming under the Act respecting industrial accidents and occupational diseases and the Act respecting occupational health and safety (R.S.Q., c. S‑2.1).
+2. CONTRACTOR'S OBLIGATIONS
+The contractor undertakes to
+(a) deal in a professional manner with the cases assigned to him and, more specifically but without limiting the generality of the foregoing, examine and analyze the cases, applying his knowledge and professional skills;
+(b) advise the commissioner responsible for the case;
+(c) sit with the commissioner during the hearing of an appeal and, if necessary, during a preliminary meeting;
+(d) conduct specific research relating to certain content and issues in his field of competence;
+(e) prepare reference documents for his area of activity.
+3. TERM
+This contract shall take effect on September 16, 1993, and terminate on September 15, 1995, inclusive.
+4. REMUNERATION
+4.1 In consideration of services rendered, the CALP undertakes to pay the contractor annual remuneration of $116,756 corresponding to professional fees based on forty (40) hours a week.
+4.2 The contractor shall invoice the CALP for his fees every fourteen (14) days, and the CALP undertakes to pay him on receipt of the invoice.
+5. STATUTORY HOLIDAYS AND NON‑WORKING DAYS
+The contractor shall be entitled to be paid for the statutory holidays and non‑working days provided for in the public service.
+6. VACATION
+As of the effective date of this contract, the contractor shall be entitled to annual vacation at the rate of one and two‑thirds (1 2/3) days per month of continuous service, up to a maximum of twenty (20) working days for each period of twelve (12) months of continuous service.
+7. CHANGES TO THE BENEFITS PROVIDED FOR IN CLAUSES 4, 5 AND 6
+The CALP may change the remuneration or benefits provided for in clauses 4, 5 and 6 to take account of Order in Council 1369‑93 on the taking of unpaid leave and the implementation of alternative measures in public bodies, which was made by the Conseil exécutif on September 29, 1993.
+The CALP shall apply Order in Council 1369‑93[2] to the contractor in the same way it applies that Order in Council to its personnel appointed and paid under the Public Service Act (R.S.Q., c. F‑3.1.1), as if he were part of that personnel.
+8. EXPENSES
+The CALP undertakes to reimburse the contractor for the travel and living expenses he incurs while performing his duties, in accordance with Order in Council 2500‑83 of November 30, 1983, as amended.
+9. MOTOR VEHICLE
+The contractor must possess a motor vehicle for the travel required by his duties.
+10. CONFLICT OF INTEREST
+The contractor agrees to avoid any situation that would create a conflict between his personal interest and the CALP's interest, except with regard to his obligations under this contract. If such a situation arises, the CALP may, in its discretion, resiliate the contract immediately, without notice.
+11. CONFIDENTIALITY
+The contractor undertakes not to reveal or disclose, without proper authorization, anything he learns in the performance of his work under this contract.
+12. COPYRIGHT
+The work done by the contractor under this contract and any product, document or information tool resulting therefrom shall be owned wholly and exclusively by the CALP.
+Any assignment of copyright under this contract or any waiver of copyright by the contractor in favour of the CALP shall be deemed to be included in the remuneration provided for in clause 4.
+13. RESILIATION
+Either party may resiliate this contract by giving three (3) months' notice prior to the termination of this contract. If the contract is resiliated, the CALP shall pay the contractor the amounts, costs and disbursements corresponding to the services rendered up to the resiliation date.
+14. NOTICE
+To be valid and binding on the parties, any notice required under this contract shall be given in writing and sent by registered mail, in which case it shall be deemed to have been received on the third (3rd) day after it was mailed. Such notice may also be given by bailiff or courier and shall then be deemed to have been received on the day it was delivered.
+. . .
+[Emphasis added.][3]
+[6] While acknowledging that all or almost all of his income came from the board, Mr. Grimard stated that he had provided professional consulting services to the Brotherhood of Locomotive Engineers (Brotherhood) (Exhibit A‑1, Tab 4) and to patients claiming disability benefits from insurance companies such as Mutual of Omaha (Exhibit A‑1, Tab 2). However, Mr. Grimard admitted that he sometimes did such work gratis. Moreover, the only evidence filed during the hearing that showed he was paid for his professional services had to do with an amount of $683 he received on February 9, 1999, for services provided to the Brotherhood in connection with the Railway Medical Rules Review (Exhibit A‑1, Tab 4). Mr. Grimard admitted that he had never invoiced the Régie de l'assurance‑maladie for professional services he had provided as a physician during the relevant period.[4] All of his professional income for the 1995, 1996 and 1997 taxation years came from the board, as shown by his tax returns and the T4As prepared by the board.[5]
+[7] Since Mr. Grimard and his family lived in Sherbrooke and he had to perform his work largely in Montreal, he rented an apartment in Montreal, where he stayed while working there. He returned to Sherbrooke every weekend. The disallowed office expenses were for this apartment, and the disallowed travel expenses were for the travelling he did between Sherbrooke and Montreal. When he had to go anywhere else in Quebec for his work, his expenses were reimbursed by the board.
+[8] On March 31, 1998, during an audit by Quebec's Ministère du Revenu (department), the board was informed that its part‑time assessors were employees according to the standards in section 1 of the Act respecting the Québec Pension Plan and that the appropriate source deductions had to be made, retroactive to January 1998.[6]
+[9] The board accepted this directive from the department. The board's president then appointed Mr. Grimard a [translation] "casual medical specialist" as of July 23, 1998.[7] However, on the part of the form dealing with working conditions, the employee status shown for Mr. Grimard is that of [translation] "full‑time employee".[8] According to Mr. Grimard, he did not become a member of the board's personnel until that date, and he was then paid a regular salary fixed in accordance with the collective agreement in force in the public service. The board also began withholding at source the amounts required for income tax and the mandatory premiums and contributions collected from the salaries of public servants (health insurance, employment insurance, union dues, etc.). It prepared Mr. Grimard’s T4 slip, indicating thereon that his employment income was $57,640.71 (Exhibit I‑1, Tab 4). Mr. Grimard included that amount as employment income in his 1998 tax return. However, he reported the $53,702 received from the board in 1998, prior to his appointment of July 23, 1998, as gross income from self‑employment, that is, professional income.
+[10] The department subsequently issued notices of reassessment for 1995, 1996 and 1997 disallowing all the deductions — apart from the professional dues —previously allowed on the assumption that Mr. Grimard was self‑employed. Mr. Grimard appealed to the Court of Quebec, and Judge Raoul Barbe rendered a decision on July 9, 2003, holding that Mr. Grimard had been an employee of the CALP during those three taxation years.[9] In rendering that decision, Judge Barbe analyzed the four main tests generally recognized in common law cases, namely: control, ownership of tools, the chance of profit and risk of loss and the worker's integration into the business. The Quebec Court of Appeal affirmed that decision on March 23, 2005, finding not only that the trial judge's analysis was meticulous, that his conclusion was correct and that Mr. Grimard was therefore an employee, but also that the travel expenses and expenses for the rented premises in Montreal could not be applied to reduce his taxable income and would not have been deductible even if he had been considered self‑employed. The Quebec Court of Appeal wrote the following[10]:
+[TRANSLATION]
+. . . The Montreal premises were not an office or workplace but rather a pied‑à‑terre, a second residence, and expenses for transportation between the two residences cannot be characterized as expenses incurred for his work or to produce income. Indeed, the rented premises in Montreal did not generate any additional income for the appellant. All of his income came from the work done in the office provided by the CALP and wherever he had to go at the CALP's expense.
+[11] The department informed the Minister of its conclusion on the status of the board's part‑time assessors. During his testimony, the Minister's appeals officer confirmed that he had relied on the Quebec Court of Appeal judgment in making his decision with respect to Mr. Grimard.
+[12] Following the department's decision to treat him as an employee, like all the other part‑time assessors, and to disallow the deduction of the costs of his Montreal apartment and his travel between Sherbrooke and Montreal, Mr. Grimard realized that he could not afford to hold that employment with the board in Montreal. He found new employment with the CSST in Sherbrooke in the spring of 1999.
+Analysis
+[13] The main issue is whether the limiting provisions of section 8 of the Act apply[11] because the income received from the board was income from employment and not from a business. Subsection 248(1) defines "employment" as follows:
+248(1) In this Act,
+"employment" means the position of an individual in the service of some other person (including Her Majesty or a foreign state or sovereign) and "servant" or "employee" means a person holding such a position;
+[Emphasis added.]
+[14] In defining what constitutes a "position . . . in the service of some other person", the courts have generally found that there must be an employer‑employee relationship (see, inter alia, Guérin v. M.N.R., 52 DTC 118, at page 120). Since the Act does not define this relationship, it is appropriate to refer to the law governing the contractual relationship between a worker and a payer to determine whether an employer‑employee relationship exists. This approach is moreover consistent with section 8.1 of the Interpretation Act:
+Property and Civil Rights
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province's rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+[Emphasis added.]
+[15] The Quebec legislative provisions that are most relevant in determining the existence of such a relationship are the provisions of the Civil Code of Québec (Civil Code or C.C.Q.) on contracts of employment, which, in Quebec, must be distinguished from contracts for services. The provisions in question are articles 2085, 2086, 2098 and 2099 C.C.Q.:
+Contract of employment
+2085 A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+2086 A contract of employment is for a fixed term or an indeterminate term.
+Contract of enterprise or for services
+2098 A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+2099 The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[Emphasis added.]
+[16] An analysis of these provisions of the Civil Code makes it clear that there are three essential requirements for a contract of employment to exist: (i) performance of work by the employee; (ii) remuneration for that work paid by the employer; and (iii) a relationship of subordination. What clearly distinguishes a contract for services from a contract of employment is the existence of a relationship of subordination, that is, the fact that the employer has a right of direction or control over the worker.
+[17] In their writings, authors have considered the concept of a right of "direction or control" and its reverse side, the "relationship of subordination". Robert P. Gagnon wrote the following:[12]
+[TRANSLATION]
+(c) Subordination
+90 — Distinguishing factor — The most significant feature characterizing a contract of employment is the subordination of the employee to the person for whom he works. It is by this feature that a contract of employment can be distinguished from other onerous contracts which also involve the performance of work for the benefit of another person for a price, such as a contract of enterprise or a contract for services under articles 2098 ff C.C.Q. Thus, while the contractor or the provider of services "is free", under article 2099 C.C.Q., "to choose the means of performing the contract" and while between the contractor or the provider of services and the client "no relationship of subordination exists . . . in respect of such performance," it is a characteristic of a contract of employment, subject to its terms and conditions, that the employee personally performs the work agreed upon under the employer’s direction and within the framework established by the employer.
+. . .
+92 — Concept — Historically, the civil law first developed a so-called strict or classical concept of legal subordination that was used as a test for the application of the principle of the civil liability of a principal for injury caused by the fault of his agents and servants in the performance of their duties (art. 1054 C.C.L.C.; art. 1463 C.C.Q.). This classical legal subordination was characterized by the immediate control exercised by the employer over the performance of the employee’s work in respect of its nature and the means of performance. Gradually, it was relaxed, giving rise to the concept of legal subordination in a broad sense. The diversification and specialization of occupations and work techniques often mean that the employer cannot realistically dictate regarding, or even directly supervise, the performance of the work. Thus, subordination has come to be equated with the power given a person, accordingly recognized as the employer, of determining the work to be done, overseeing its performance and controlling it. From the opposite perspective, an employee is a person who agrees to be integrated into the operating environment of a business so that it may receive benefit of his work. In practice, one looks for a number of indicia of supervision that may, however, vary depending on the context: compulsory attendance at a workplace, the fairly regular assignment of work, imposition of rules of conduct or behaviour, requirement of activity reports, control over the quantity or quality of the work done, and so on. Work in the home does not preclude this sort of integration into the business.
+[Emphasis added.]
+[18] It should be noted that the distinguishing feature of a contract of employment is not the employer's actual exercise of direction or control (strict or classical concept) but the employer's right to exercise it (broad concept). In Gallant v. Canada (Department of National Revenue), [1986] F.C.J. No. 330 (QL), Pratte J.A. of the Federal Court of Appeal stated the following:
+. . . The distinguishing feature of a contract of service is not the control actually exercised by the employer over his employee but the power the employer has to control the way the employee performs his duties. . . .
+[Emphasis added.]
+[19] Moreover, in Groupe Desmarais Pinsonneault & Avard Inc. v. Canada (M.N.R.), 2002 FCA 144, (2002), 291 N.R. 389, Noël J.A. wrote:
+5. The question the trial judge should have asked was whether the company had the power to control the way the workers did their work, not whether the company actually exercised such control. The fact that the company did not exercise the control or that the workers did not feel subject to it in doing their work did not have the effect of removing, reducing or limiting the power the company had to intervene through its board of directors.
+[Emphasis added.]
+[20] Mention should also be made of the following commentary of the Minister of Justice on article 2085 C.C.Q., which accompanied the draft Civil Code and which I quoted at page 2:26 of an article I wrote (my article) entitled "Contract of Employment: Why Wiebe Door Services Ltd. Does Not Apply in Quebec and What Should Replace It"[13]:
+[TRANSLATION]
+This article restates the rule enacted by article 1665(a) C.C.L.C. The definition contained in the new article establishes more clearly the difference between a contract of employment and a contract for services or contract of enterprise. The sometimes fine line between the two kinds of contracts has caused difficulties both in the scholarly literature and in the case law.
+The definition indicates the essentially temporary nature of a contract of employment, thus enshrining the first paragraph of article 1667 C.C.L.C., and highlights the chief attribute of such a contract: the relationship of subordination characterized by the employer's power of control, other than economic control, over the employee with respect to both the purpose and the means employed. It does not matter whether such control is in fact exercised by the person holding the power; it also is unimportant whether the work is material or intellectual in nature.
+[Emphasis added.]
+[21] In my opinion, the Civil Code rules governing contracts of employment are not the same as the common law rules, and this means that it is not appropriate to apply common law decisions like Wiebe Door Services Ltd. v. Minister of National Revenue, [1986] 3 F.C. 553 (F.C.A.), and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, 2001 SCC 59.[14] In the common law, "there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. . . . The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account."[15] Major J. wrote the following in Sagaz:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non‑exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[Emphasis added.]
+[22] There are numerous common law decisions in which the courts have held that the "control" factor is neutral and therefore not conclusive. In the common law, it is thus possible to conclude that a contract of employment exists without making any finding of fact regarding the existence of a right of control or direction.
+[23] In Quebec, unlike in the common law, the central question is whether there is a relationship of subordination, that is, a power of control or direction. To determine that a contract is a contract of employment or a contract for services, as the case may be, a court has no choice but to make a finding as to the presence or absence of a relationship of subordination. This was the approach taken by Létourneau J.A. of the Federal Court of Appeal in D & J Driveway,[16] in which he found that there was no contract of employment; he based that conclusion on the provisions of the Civil Code and, in particular, on his finding that there was no relationship of subordination, which he described as "the essential feature of the contract of employment".[17]
+[24] In addition to D & J Driveway, I would note the decision of the Federal Court of Appeal in 9041‑6868 Québec Inc. v. Canada (Minister of National Revenue), 2005 FCA 334, [2005] F.C.J. No. 1720 (QL). Décary J.A. wrote the following at paragraphs 2‑3[18]:
+2 With respect to the nature of the contract, the judge's answer was correct, but, in my humble opinion, he arrived at it incorrectly. He did not say anything about the provisions of the Civil Code of Québec, and merely referred, at the end of his analysis of the evidence, to the common law rules stated in Wiebe Door Services Ltd. v. Canada (Minister of National Revenue), [1986] 3 FC 533 (FCA) and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983. I would hasten to point out that this mistake is nothing new and can be explained by the vacillations in the case law, to which it is now time to put an end.
+3 When the Civil Code of Québec came into force in 1994, followed by the enactment of the Federal Law - Civil Law Harmonization Act, No. 1, SC 2001, c. 4 by the Parliament of Canada and the addition of section 8.1 to the Interpretation Act, R.S.C., c. I‑21 by that Act, it restored the civil law of Quebec to its rightful place in federal law, a place that the courts had sometimes had a tendency to ignore. On this point, we need only read the decision of this Court in St‑Hilaire v. Canada, [2004] 4 FC 289 (FCA) and the article by Mr. Justice Pierre Archambault of the Tax Court of Canada entitled "Why Wiebe Door Services Ltd. Does Not Apply in Quebec and What Should Replace It", recently published in the Second Collection of Studies in Tax Law (2005) in the collection entitled The Harmonization of Federal Legislation with Quebec Civil Law and Canadian Bijuralism, to see that the concept of "contract of service" in paragraph 5(1)(a) of the Employment Insurance Act must be analyzed from the perspective of the civil law of Quebec when the applicable provincial law is the law of Quebec.
+[Emphasis added.]
+[25] After quoting the comments of Robert P. Gagnon that I have reproduced above, particularly with regard to the indicia of supervision that enable one to establish the existence of a relationship of subordination, Décary J.A. added the following at paragraph 12 of his reasons:
+It is worth noting that in Quebec civil law, the definition of a contract of employment itself stresses "direction or control" (art. 2085 C.C.Q.), which makes control the actual purpose of the exercise and therefore much more than a mere indicator of organization, as Mr. Justice Archambault observed at page 2:72 of the article cited supra.
+[Emphasis added.]
+[26] I would also point out the following comments made by Picard J. of the Quebec Superior Court in 9002‑8515 Québec inc.,[19] which I quoted at paragraph 121, page 2:82 of my article:
+[TRANSLATION]
+15 In order for there to be a contract of enterprise, there must be no relationship of subordination, and the Agreement contains several elements showing a relationship of subordination. A sufficient number of indicia exists in this case of a relationship of authority.
+[Emphasis added.]
+[27] Finally, it should be noted that the courts rightly recognize that the parties' intention regarding the nature of a contract they enter into is an important factor in characterizing that contract. However, the following qualifications set out at pages 2:62‑2:65 of my article are necessary:
+[97] Even if the contracting parties have manifested their intention in their written or oral contract or if their intention can be inferred from their conduct, this does not mean that the courts will necessarily view it as determinative. As Décary J.A. indicated in Wolf, supra, performance of the contract must be consistent with this intention. Thus, the fact that the parties have called their contract a "contract for services" and have stipulated both that the work will be done by an "independent contractor" and that there is no employer‑employee relationship does not necessarily make the contract a contract for services. It could in fact be a contract of employment. As article 1425 C.C.Q. states, one must look to the real common intention of the parties rather than adhere to the literal meaning of the words used in the contract. The courts must also verify whether the conduct of the parties is consistent with the statutory requirements for contracts. According to Robert P. Gagnon:
+[TRANSLATION]
+91 — Factual assessment — Subordination is verified by reference to the facts. In that respect, the case law has always refused to simply accept the parties' description of the contract:
+In the contract, the distributor himself acknowledges that he is working on his own account as an independent contractor. There is no need to return to this point, since doing so would not alter the reality; furthermore, what one claims to be is often what one is not. [Emphasis added.]
+[98] In D & J Driveway, Létourneau J.A. of the Federal Court of Appeal wrote:
+2 It should be noted at the outset that the parties' stipulation as to the nature of their contractual relations is not necessarily conclusive and the Court which has to consider this matter may arrive at a contrary conclusion based on the evidence presented to it: Dynamex Canada Inc. v. Canada, [2003] 305 N.R. 295 (F.C.A.). However, that stipulation or an examination of the parties on the point may prove to be a helpful tool in interpreting the nature of the contract concluded between the participants. [Emphasis added.]
+[99] Judges may therefore recharacterize the contract so that its name reflects reality. In France, the recharacterization of a contract results from the application of the reality principle.[20] The Cour de cassation has adopted an approach similar to the Canadian one:
+[TRANSLATION]
+Whereas the existence of an employment relationship depends neither on the expressed will of the parties nor on the name they have given to their agreement but rather on the factual conditions in which the workers' activity is performed. . . .
+[100] In my opinion, this verification that the actual relationship and the parties' description of it are consistent is necessary when interpreting contracts of employment since the parties may have an interest in disguising the true nature of the contractual relationship between the payer and the worker. Experience shows, in fact, that some employers, wanting to reduce their fiscal burden with respect to their employees, sometimes decide to treat them as independent contractors. This decision can be made either at the outset of the contractual relationship or later on. Similarly, some employees could have an interest in disguising their contract of employment as a contract for services because the circumstances are such that they do not foresee that they will need employment insurance benefits and they want to eliminate their employee contributions to the employment insurance program, or they desire more freedom to deduct certain expenses in computing their income under the Income Tax Act.
+[101] Since the EIA generally authorizes the payment of employment insurance benefits only to employees who lose their employment, the courts must be on the alert to unmask false self‑employed workers. The courts must also ensure that the employment insurance fund, which is the source of these benefits, receives premiums from everyone who is required to pay them, including false self‑employed workers and their employers.
+[References omitted.]
+[Emphasis added.]
+[28] It now remains to apply these legal principles to the relevant facts of these appeals. The first issue to be dealt with is what the parties' intention was with regard to the nature of their contract. To begin with, the contract does not expressly state whether it is a contract for services or a contract of employment. If the terms of the contract itself are considered, it becomes apparent that some of them tend to indicate the existence of a contract for services. Thus, paragraph 4 of the contract refers to remuneration corresponding to professional fees. As well, under paragraph 4.2, Mr. Grimard was to invoice the board for his fees every 14 days, and the board undertook to pay those fees on receipt of the invoice.
+[29] However, other provisions of the contract are more consistent with a contract of employment. Thus we see that Mr. Grimard was entitled to be paid even for certain days on which he did not work, including the statutory holidays and non‑working days provided for in the public service.[21] He was entitled to four weeks of vacation. According to the contract of November 8, 1993, he was subject to Order in Council 1369‑93 on unpaid leave, which applies to "employees" of public bodies, in the same way as the [translation] "personnel appointed and paid under the Public Service Act . . . as if he were part of that personnel".
+[30] The board considered Mr. Grimard to be a self‑employed worker since no taxes were withheld when his fees were paid. As well, the board's payroll accounting for contract workers was separate and distinct from its payroll system for its employees (see Exhibit A‑10). Mr. Grimard too believed that he was a self‑employed worker, since, on his tax returns, he entered the fees he received from the board prior to July 23, 1998, as gross income from a business.
+[31] The matter of what the parties' intention may have been raises the question of what understanding the parties may have had of the difference between a contract for services and a contract of employment. As we have seen, the "distinguishing factor" in a contract of employment, as compared with a contract for services, is the employer's right to exercise direction and control over the employee's work. Did the parties think about "the essential feature of the contract of employment" and what distinguishes such a contract from a contract for services? It is not enough for parties to state that they want to enter into a contract for services; it must be their intention that the provider of services be free to choose the means of performing the contract and that the work be performed without direction or control by the payer.[22]
+[32] From the testimony of Mr. Levasseur, the head of the board's legal division, that the board did not consider this aspect of the contract. The board was interested in hiring assessors on contract in order to facilitate recruitment and free itself from certain administrative constraints that are imposed when permanent employees are hired and thereupon become full-fledged public servants. The Treasury Board must authorize the creation of such positions. It would seem that the hiring of contract workers allows public bodies to get around this constraint. Mr. Levasseur admitted that he had also not concerned himself with the tax consequences of considering Mr. Grimard a self‑employed worker.
+[33] The other benefit to the board of hiring assessors on contract (described as "part‑time" assessors) was that it could terminate the contract after two years or even on three months' notice, while the situation was quite obviously very different for permanent employees with job security. During his testimony, Mr. Levasseur acknowledged that job security was the major difference between permanent employees and contract workers.
+[34] To illustrate the fact that trying to distinguish between a contract of employment and a contract for services can easily be confusing for people, reference can be made to the following question counsel for the department asked Mr. Grimard at page 14 of the transcript of his examination out of Court (Exhibit I‑1, Tab 17): [translation] ". . . did you have a contract of employment?", to which Mr. Grimard replied that he did. On the next page, counsel for the department referred to a copy of Mr. Grimard's [translation] "contracts of employment", and Mr. Grimard did not correct the expression used by counsel. And yet the contracts being referred to were those existing between Mr. Grimard and the board during the relevant period.
+[35] In my opinion, little weight should be given here to the understanding the two parties may have had of the nature of their contract at the time they entered into it. They never specifically contemplated whether Mr. Grimard was to be free to choose the means of performing his contract or whether he was to work without direction or control by the board.
+[36] In any event, as the courts have stated many times, the fact that the parties characterize their contract as a contract for services does not necessarily mean that it is one. One must look at their conduct to determine the true nature of their contractual relationship. In France, this is referred to as the application of the "reality principle". Here, I have no hesitation in concluding, as indeed did the Court of Quebec and the Quebec Court of Appeal, that the parties' interpretation is not in keeping with reality: by its true nature, the contract in question is a contract of employment rather than a contract for services. The board had a right of direction or control over Mr. Grimard, and he provided his services under the board's direction or control. There was thus a relationship of subordination between him and the board.
+[37] The following directives applicable to assessors are evidence that this right of direction or control over Mr. Grimard was exercised. The directives are set out in a document (work description) entitled Le rôle du commissaire found on the board's Internet site.[23] The preamble states that assessors must perform their duties in accordance with the provisions of their Code of Ethics, which came into force on May 24, 1986. Among those provisions is one requiring an assessor to "keep up his knowledge and professional skills so that they meet the requirements of his work and assure the quality thereof".[24] Under section 4 of that Code, an assessor must "refrain from participating in the proof and hearing of an appeal . . . where reasonable apprehension of partiality could result, in particular, from his . . . personal, family, social, work or business relations with one of the parties". In his testimony, Mr. Grimard acknowledged that this Code of Ethics, which he had not read at the time, would have allowed any party who had been in contact with him to file a complaint with the president of the board. Thus, there was a mechanism for controlling his work.[25] The work description states that assessors take part in the decision‑making process in accordance with their respective role.[26] Paragraph 22(2) of the document states that assessors discharge their duties [translation] "under the authority of commissioners". Moreover, section 3 of the document sets out a number of directives concerning the work to be performed by assessors and the way they are to perform it[27]:
+[TRANSLATION]
+. . .
+SECTION 3 GENERAL ROLE OF ASSESSORS
+22. Assessors shall
+1. sit with commissioners and advise them on any question of a medical, professional or technical nature;
+2. discharge their duties under the authority of commissioners in the decision‑making process;
+3. foster the development of the knowledge and skills needed to assess questions of a medical, professional or technical nature so that commissioners and conciliators can become more autonomous;
+4. participate in activities that help maintain a high level of quality and consistency in decision making.
+23. Assessors shall discharge their duties with the utmost integrity, impartiality and objectivity and shall make themselves available.
+24. Assessors shall respect the role of commissioners during the evidence and hearing and while the decision is reserved.
+25. Assessors shall advise commissioners and shall not act as experts for the parties, as examiners or as decision makers.
+26. Assessors shall be understanding and open‑minded regarding the role and particular viewpoints of members.
+27. Assessors shall respond to members' requests for medical, professional or technical information.
+28. Assessors shall be open‑minded during discussions on matters of controversy within the scientific community.
+29. Assessors shall familiarize themselves with the relevant provisions of the Act respecting industrial accidents and occupational diseases and the regulations thereunder. They shall have a good command of the medical component of the Scale of Bodily Injuries Regulation.
+30. Assessors shall know the specific role of an administrative tribunal.
+31. Assessors shall be familiar with the CLP's inquiry powers and its limitations as well as the concept of judicial notice. They shall be familiar with the guidelines on the role of experts.
+[Emphasis added.]
+[38] There is no doubt that, because of his level of expertise, Mr. Grimard had considerable autonomy in performing his work, which consisted in using his medical expertise to answer the questions submitted to him by the board. There is nothing surprising about this. Staff physicians in hospitals and local community service centres have such autonomy, as do salaried lawyers in the public service, in corporate legal departments and in private firms. The Minister's salaried experts in immovable property and business appraisal may be added to this list. However, it is clear that the board's right of direction or control was exercised when the coordinator in the assessors' office regularly assigned cases to the board's assessors, including Mr. Grimard, and did so, moreover, without consulting them beforehand. During the relevant period, there were about 15 medical assessors, two of whom the board considered permanent employees. Mr. Grimard's schedule was dictated by the board's needs.
+[39] During a typical week, Mr. Grimard went to the board's premises where hearings were held. Generally speaking, two cases were heard in the morning and two more in the afternoon. On the aforementioned premises, Mr. Grimard had an office equipped with all the tools he needed to do his work. Before a hearing began, there could be a short meeting with the commissioner responsible for the case. Mr. Grimard's role was to assist the commissioner in analyzing the medical evidence presented to the board. The commissioner defined the issues on which the assessors' opinion was requested. For example, the commissioner might ask for Mr. Grimard's opinion on the claimant's elbow pain but not the back pain, even if both of these issues were going to be debated before the board. If the hearing of an appeal was cancelled, the assessors' coordinator assigned Mr. Grimard another case to hear with a commissioner. When I asked him to compare the work he did as an employee starting in July 1998 with the work he had done before that date, he confirmed that there was no difference as regards the performance of his duties. The only difference was in certain fringe benefits to which he was entitled, in particular group insurance.
+[40] It must be added, moreover, that, when he was receiving his remuneration in the form of fees, the board tried to take account of the fringe benefits that were not received by "contract workers" like him but "permanent employees" did receive. For example, since the board did not contribute to the contract workers' pension fund, it increased their remuneration by the amount of the contribution it would have made to the pension fund if the contract workers had been considered permanent employees of the board. However, as Mr. Grimard pointed out, this arrangement was less advantageous for the contract workers, since permanent employees would be entitled to "defined" pension benefits, that is, an indexed pension amount normally calculated on the basis of their salary. Mr. Grimard, who received an additional amount of remuneration, could only contribute to his registered retirement savings plan, which could not assure him the same level of benefits when he retired.
+[41] Moreover, there is no doubt that Mr. Grimard had to provide his services personally and could not ask another physician to replace him in providing those services unless that physician was also an assessor for the board. The contract contained an exclusivity clause covering all matters coming under the AIAOD and the Act respecting occupational health and safety.
+[42] In addition to the direct evidence that the board exercised its right of direction and control over Mr. Grimard, there are also indicia — that is, presumptions of fact — concerning the existence of this right, which arise out of the board's general supervision of the work performed by Mr. Grimard. It is clear from the board's organization chart that the assessors' work is an integral part of the board's machinery. The assessors' office is directly under the president of the board (Exhibit I‑1, Tabs 18 and 19). It should also be pointed out that Mr. Grimard provided his services to the board continuously, on a full‑time basis, for about eight years, from 1991 to 1999. He was paid for 40 hours a week throughout the year. During the relevant period, all (or nearly all) the services provided by him were provided to the board, his employer. He had four weeks of annual leave and the same statutory holidays as permanent employees of the public service. I know of no contractors who are paid by their clients during four weeks of vacation and when absent due to illness.
+[43] Furthermore, Mr. Grimard provided his services at the board's offices or in the other places where the board sat. During the entire year, he had an office in which the board provided all the tools he needed to do his work. It is true that he could study his cases at his apartment in Montreal if he wished, but this was not required for the performance of his duties.
+[44] In addition, Mr. Grimard's conduct was not that of a contractor who was a party to a contract for services and who was running his own business. The contract under which he was hired provided that he had to possess a motor vehicle for the travel that might be required by his duties. In my opinion, such a requirement is contrary to article 2099 C.C.Q., which provides that a contractor or provider of services must be "free to choose the means of performing the contract". During the relevant period, Mr. Grimard worked for just one payer, the board. All the expenses he incurred while performing his duties were reimbursed to him, in particular those he incurred when he travelled between Montreal and St‑Jérôme or between Montreal and Abitibi. He was given an office and everything he needed to do his work. Under the AIAOD, no judicial proceedings could be brought against him for any act done in good faith in the performance of his duties as an assessor for the board. He did not need to be covered by a liability insurance policy.[28] Mr. Grimard's work during the relevant period was no different than that of the other assessors who were employees of the board or the work he himself did as an employee starting in July 1998.
+[45] It is true that Mr. Grimard, who lived in Sherbrooke, had to travel to Montreal to perform his duties as a medical assessor for the board, and this required him to rent an apartment there. Had it not been for those duties, he would not have had to incur accommodation expenses in Montreal and expenses for travel between Sherbrooke and Montreal. On the other hand, the courts have consistently held that the costs of travel between a person's residence and that person's place of business or that person's employer's place of business are personal expenses that may not be deducted in computing income from employment or from a business (see the decision of the Quebec Court of Appeal in Mr. Grimard's case (paragraph 10, supra)). I can readily understand that Mr. Grimard would probably not have accepted the work with the board if he had known that he could not deduct his accommodation and travel expenses. It is possible that his employer misled him and thus caused him harm. However, fault, if any, and the resulting damage must be proved in a court of competent jurisdiction. This Court's jurisdiction is limited to applying to the relevant facts the provisions of the Act in force at the relevant time. In my opinion, Mr. Grimard was an employee of the board during the relevant period, even though he did not have all the benefits enjoyed by permanent employees of the public service. Many employees do not have the job security that government employees have. One need only think of all the employees who have no collective agreement.
+[46] Finally, although under section 380 of the AIAOD "part‑time" or "temporary" assessors were not considered members of the board's personnel, this does not change my legal conclusion that Mr. Grimard was an employee for the purposes of the Civil Code and that the fees paid by the board constituted employment income for the purposes of the Act. Section 380 of the AIAOD did not provide that part‑time or temporary assessors were deemed not to be "employees" (within the meaning of article 2085 C.C.Q.) of the board. As well, nothing in the AIAOD indicates that the general provisions of the ordinary law, namely, the provisions of the Civil Code, are not applicable in this case. For the purposes of the Public Service Act, it is clear that the board did not consider Mr. Grimard an employee having the benefits arising under that Act. This is why he was paid on a fee basis and his contract was only for a limited term of two years. However, the fact that employment is for a fixed term does not prevent a contract of employment from existing. On the contrary, it is of the essence of a contract of employment that a person undertakes for a "limited period" to do work.[29] Article 2086 C.C.Q. states that a contract of employment is for a fixed term or an indeterminate term. In my opinion, the determination of whether a contract of employment exists must be based on the tests laid down in the ordinary law, that is, in Quebec, the requirements of the Civil Code of Québec.
+[47] For all these reasons, Mr. Grimard's appeals are dismissed.
+Signed at Ottawa, Canada, this 20th day of December 2007.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 30th day of April 2008.
+Erich Klein, Revisor
+CITATION: 2007TCC755
+COURT FILE NO.: 2006-1438(IT)G
+STYLE OF CAUSE: MICHEL GRIMARD v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: October 12, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: December 20, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit I‑1, Tab 13.
+[2] This Order in Council, dated September 29, 1993, concerning the "taking of unpaid leave and the implementation of alternative measures in public bodies" applies "to public bodies and to their employees . . ." (s. 1 of the Order in Council).
+[3] For services rendered after September 15, 1995, a new contract containing essentially the same terms was signed on September 12, 1995, for the period from September 18, 1995, to September 19, 1997. Another contract was signed on July 10, 1997, for the period from September 20, 1997, to September 19, 1999. The main difference between these contracts and the one dated November 8, 1993, is that the later contracts do not include article 7 from the first contract. However, the remuneration remained the same throughout the relevant period.
+[4] Admission of subparagraph 17(y) of the Reply to the Notice of Appeal.
+[5] Exhibit I‑1, Tabs 1, 2, 3 and 23.
+[6] Letter from Jacques P. Bourassa of the Source Deductions and Tax Audit Directorate, Exhibit I‑1, Tab 16.
+[7] According to a casual personnel employment form of the board’s filed as Exhibit A‑­1, Tab 7.
+[8] The same form showed Mr. Grimard's marital status as single, whereas in his tax returns he reported that he was married (Exhibit I‑1, Tabs 1 to 4).
+[9] Court of Quebec docket no.: 500‑02‑087518‑002.
+[10] Quebec Court of Appeal docket no.: 500‑09‑013703‑038.
+[11] In particular, subsections 8(2) and (10) provide as follows:
+8(2) General limitation. Except as permitted by this section, no deductions shall be made in computing a taxpayer's income for a taxation year from an office or employment.
+8(10) Certificate of employer. An amount otherwise deductible for a taxation year under paragraph (1)(f), (h) or (h.1) or subparagraph (i)(ii) or (iii) by a taxpayer shall not be deducted unless a prescribed form signed by the taxpayer's employer certifying that the conditions set out in that provision were met in the year in respect of the taxpayer is filed with the taxpayer's return of income for the year under this Part.
+[Emphasis added.]
+Mr. Grimard admitted that the board did not provide the certificate referred to in subsection 8(10) of the Act. The argument at the hearing related almost exclusively to the question of his status as an employee or self‑employed worker.
+[12] Robert P. Gagnon, Le droit du travail du Québec, 5th ed. (Cowansville, Quebec: Les Éditions Yvon Blais Inc., 2003).
+[13] Article published in The Harmonization of Federal Legislation with Quebec Civil Law and Canadian Bijuralism: Second Collection of Studies in Tax Law (2005) (Montreal: Association de planification fiscale et financière and Department of Justice of Canada, 2005).
+[14] See the more detailed analysis in my article, supra.
+[15] Major J. in Sagaz, at par. 46 and 47.
+[16] D & J Driveway Inc. v. Canada (M.N.R.), [2003] F.C.J. No. 1784 (QL), 2003 FCA 453. See also Charbonneau v. Canada, [1996] F.C.J. No. 1337 (QL) (F.C.A.); Sauvé v. Canada (M.N.R.), [1995] F.C.J. No. 1378 (QL) (F.C.A.); Lagacé v. Canada (M.N.R.), [1994] F.C.J. No. 885 (QL) (F.C.A.), affirming [1991] T.C.J. No. 945 (QL). However, it must be noted that, in D & J Driveway and Charbonneau, the Court of Appeal did not expressly rule out the application of Wiebe Door but held that a contract for services existed because there was no relationship of subordination; the court thus applied the Civil Code rules.
+[17] At par. 16 of the decision.
+[18] It should be mentioned that Pelletier and Létourneau JJ.A. concurred in the decision of Décary J.A. In a more recent decision, Combined Insurance Company of America v. Canada, 2007 FCA 60, in which the reasons were written by Nadon J.A. and concurred in, moreover, by Pelletier and Létourneau JJ.A., reference was again made to Wiebe Door, and the Tax Court judge was criticized for failing to "consider the tests developed by this Court in Wiebe Door" (at par. 38).
+However, 9041‑6868 Québec Inc. was not referred to in Combined Insurance (even though that case was mentioned in the respondent's memorandum of fact and law), nor was it stated that the interpretation adopted by Décary J.A. in 9041‑6868 Québec Inc. is no longer the law when applying a federal statute in Quebec.
+The application for leave to appeal to the Supreme Court of Canada in Combined Insurance was dismissed without reasons on October 25, 2007 ([2007] C.S.C.R. No. 156 (QL)). In his written response to the leave application, counsel for Combined Insurance took the position that the decision of the Federal Court of Appeal in Combined Insurance [TRANSLATION] "is in no way at odds with the same court's decision in 9041‑6868 Québec inc. in 2005" (par. 25 of the response). He added:
+[TRANSLATION]
+The Federal Court of Appeal . . . had to conclude that there was no relationship of subordination in the performance of the work Ms. Drapeau was required to do for the respondent. . . . Thus, the Federal Court of Appeal did indeed apply the relevant provisions of the Civil Code of Québec in this case. (para. 13 of the response)
+. . . The Federal Court of Appeal did not revive the common law tests in order to determine the existence of a contract of employment in Quebec. Rather, [it] correctly reviewed all the evidence in the record, unlike the trial judge, and concluded that there was no relationship of subordination between Ms. Drapeau and the respondent by applying several indicia of supervision, such as ownership of work tools, chance of profit and risk of loss, integration, degree of control, required presence at the workplace and observance of a work schedule, control over absences for vacation, disciplinary powers, imposition of work methods, submission of activity reports and monitoring the quantity and quality of work . . . . [Par. 15 of the response.]
+[19] Commission des normes du travail c. 9002‑8515 Québec inc., REJB 2000‑18725. See also the commentary of the Quebec Minister of Justice reproduced at par. 42 of my article, indicating that the provider of services must enjoy [TRANSLATION] "virtually total independence . . . concerning the manner in which the contract is performed".
+[20] Jean‑Maurice Verdier, Alain Coeuret and Marie‑Armelle Souriac, Droit du travail, 12th ed. (Paris: Dalloz, 2002), at p. 315.
+[21] Although he stated during his examination out of court on February 14, 2003 (Exhibit I‑1, Tab 17, at p. 23) that he could not invoice the board for statutory holidays, his contract with the board expressly stated that he was entitled to be paid for the statutory holidays and non‑working days provided for in the public service (paragraph 5 of the contract). When he testified before me, Mr. Grimard admitted that he could be paid even if he missed a day on account of illness, contrary to what he had stated at p. 24 of his examination out of Court. On the other hand, he said that he had not been paid when he took three weeks off to deal with renovations to his home, which had been seriously damaged in a fire.
+[22] A similar approach must be taken to decide, for example, whether a person truly intended to enter into a "contract of sale". It must be asked in that case whether the person intended to transfer "ownership of property" (art. 1708 C.C.Q.) and not merely "the enjoyment of a . . . property" (art. 1851 C.C.Q.).
+[23] Exhibit I‑1, Tab 21.
+[24] Section 6 of the Code of Ethics of Commissioners and Assessors, Exhibit I‑1, Tab 20.
+[25] During his examination out of court, Mr. Grimard stated that there was [TRANSLATION] "no formal or informal appraisal" of his work (Exhibit I‑1, Tab 17, at p. 16). However, he admitted at the hearing that the contract of one of the persons hired as an assessor before him had not been renewed because of the work performed by that person.
+[26] In the answers he gave during his examination out of court, Mr. Grimard stated that, as an assessor, he took part in the process of hearing appeals to the board and could question not only the expert witnesses but also the parties (Exhibit I‑1, Tab 17, at p. 10).
+[27] Exhibit I‑1, Tab 21.
+[28] Page 17 of the transcript of the examination out of court, Exhibit I‑1, Tab 17.
+[29] Article 2085 C.C.Q.

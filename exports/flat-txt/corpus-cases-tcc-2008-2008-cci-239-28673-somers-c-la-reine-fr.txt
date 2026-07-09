@@ -1,0 +1,234 @@
+Title: Somers c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28673/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-239-28673-somers-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-05-16
+
+# Somers c. La Reine
+
+- Citation: 2008 CCI 239
+- Decision date: 2008-05-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1136, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Somers c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-16
+Référence neutre
+2008 CCI 239
+Numéro de dossier
+2007-3967(GST)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-3967(GST)I
+ENTRE :
+MICHAEL SOMERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 avril 2008, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Brandon Siegal
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation en date du 14 novembre 2006, établie en application de la partie IX de la Loi sur la taxe d’accise (la « Loi »), est accueilli avec dépens et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait qu’aux fins de la détermination du remboursement pour habitations neuves auquel l’appelant a droit en vertu du paragraphe 256(2) de la Loi, la juste valeur marchande du bien en question était inférieure à 350 000 $ au 3 mars 2004.
+Signé à Halifax (Nouvelle-Écosse), ce 15e jour de mai 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 4e jour d’août 2008.
+Christian Laroche, juriste-traducteur
+Référence : 2008CCI239
+Date : 20080515
+Dossier : 2007-3967(GST)I
+ENTRE :
+MICHAEL SOMERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Le présent appel se rapporte au remboursement pour habitations neuves que l’appelant a demandé à la suite de la construction de sa résidence. La seule question litigieuse en l’espèce se rapporte à la juste valeur marchande de la propriété au 3 mars 2004. L’appelant et l’intimée ont tous deux reconnu que la date pertinente à utiliser pour déterminer la juste valeur marchande de la propriété était le 3 mars 2004. L’appelant a présenté sa demande en se fondant sur le fait que la juste valeur marchande de sa propriété s’élevait à 310 000 $ et le ministre du Revenu national (le « ministre ») a refusé d’accorder une partie du remboursement pour le motif qu’il avait conclu que la juste valeur marchande de la propriété était de 400 000 $. Le montant du remboursement qui a été refusé (et par conséquent le montant en litige) est de 4 348,66 $.
+[2] Étant donné que la question en litige se rapporte à la juste valeur marchande de la résidence de l’appelant, on se serait attendu à ce qu’au moins l’une des parties cite un témoin expert afin d’exprimer une opinion au sujet de la juste valeur marchande de la propriété. Or, aucune des deux parties n’a cité de témoins experts et aucune des deux parties n’a produit un rapport d’expert comme l’exige l’article 7 des Règles de procédure de la Cour canadienne de l’impôt à l’égard de la Loi sur la taxe d’accise (procédure informelle) (les « Règles ») si cette partie voulait citer un témoin expert.
+[3] La pertinence de la question de la juste valeur marchande de la résidence est liée à la réduction du remboursement pour habitations neuves qui se serait appliquée si la juste valeur marchande de la résidence avait été supérieure à 350 000 $. Au moment pertinent, le paragraphe 256(2) de la Loi sur la taxe d’accise (la « Loi ») prévoyait ce qui suit :
+(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le particulier, lui-même ou par un intermédiaire, construit un immeuble d’habitation – immeuble d’habitation à logement unique ou logement en copropriété – ou y fait des rénovations majeures, pour qu’il lui serve de résidence habituelle ou serve ainsi à son proche;
+b) la juste valeur marchande de l’immeuble, au moment où les travaux sont achevés en grande partie, est inférieure à 450 000 $;
+c) le particulier a payé la taxe prévue à la section II relativement à la fourniture par vente, effectuée à son profit, du fonds qui fait partie de l’immeuble ou d’un droit sur ce fonds, ou relativement à la fourniture effectuée à son profit, ou à l’importation par lui, d’améliorations à ce fonds ou, dans le cas d’une maison mobile ou d’une maison flottante, de l’immeuble (le total de cette taxe prévue au paragraphe 165(1) et aux articles 212 et 218 étant appelé « total de la taxe payée par le particulier » au présent paragraphe);
+d) selon le cas :
+(i) le premier particulier à occuper l’immeuble après le début des travaux est le particulier ou son proche,
+(ii) le particulier effectue par vente une fourniture exonérée de l’immeuble, et la propriété de celui‑ci est transférée à l’acquéreur avant que l’immeuble ne soit occupé à titre résidentiel ou d’hébergement.
+Le montant remboursable est égal au montant suivant :
+e) si la juste valeur marchande visée à l’alinéa b) est d’au plus 350 000 $, 8 750 $ ou, s’il est inférieur, le montant représentant 36 % du total de la taxe payée par le particulier avant l’envoi de la demande de remboursement au ministre;
+f) sinon, le résultat du calcul suivant :
+A × [(450 000 $ – B)/100 000 $)]
+où :
+A représente 8 750 $ ou, s’il est inférieur, le montant représentant 36 % du total de la taxe payée par le particulier avant l’envoi de la demande de remboursement au ministre,
+B la juste valeur marchande de l’immeuble visée à l’alinéa b).
+[Non souligné dans l’original.]
+[4] Par conséquent, si la juste valeur marchande de la résidence était de 350 000 $ ou moins, la juste valeur marchande réelle n’est pas pertinente. Si la juste valeur marchande était supérieure à 350 000 $ et inférieure à 450 000 $, la juste valeur marchande réelle est pertinente, étant donné que la juste valeur marchande établie réduirait le montant du remboursement pour habitations neuves qui serait par ailleurs accordé. Si la juste valeur marchande de la résidence était de 450 000 $ ou plus, la juste valeur marchande réelle n’est pas pertinente, étant donné qu’aucun remboursement pour habitations neuves n’est accordé lorsque la juste valeur marchande d’une propriété se situe dans cette fourchette.
+[5] L’appelant est pompier et agriculteur. Il travaille à la ferme de son père. En 2003, l’appelant a acquis une parcelle de terre dans le coin de la ferme de ses parents, au prix de 50 000 $. La propriété est située à Beeton, en Ontario, qui est une région rurale agricole.
+[6] Les travaux de construction ont commencé le 2 novembre 2003; au 3 mars 2004, ils étaient achevés dans une proportion de 85 à 90 p. 100. Un permis d’occupation a été accordé le 5 mars 2004. Ni l’appelant ni l’intimée n’ont soulevé de questions dans les actes de procédure ou au cours de l’audience pour ce qui est de savoir si la maison était achevée en grande partie au 3 mars 2004 et, puisque l’appelant et l’intimée ont tous deux reconnu que la date pertinente à utiliser était le 3 mars 2004 (ce qui voudrait dire que l’appelant et l’intimée reconnaissent que les travaux de construction de la maison étaient achevés en grande partie à cette date), j’accepterai le 3 mars 2004 comme date pertinente et je ne me prononcerai pas sur la question de savoir si un bâtiment qui est fini dans une proportion de 85 p. 100 est achevé en grande partie.
+[7] L’appelant a exécuté énormément de travaux à l’égard de la construction de la maison. Il a décrit sa participation en partie comme suit :
+[traduction]
+R. J’ai toujours été là à toutes les phases des travaux. Je ne pouvais certes pas construire une maison seul. J’étais là principalement pour diriger et surveiller ce que les gens faisaient lorsqu’ils étaient là.
+[8] L’appelant a également pris part aux décisions associées à la conception de la maison et aux matériaux à utiliser.
+[9] Le coût total de construction jusqu’au 3 mars 2004 (déterminé en additionnant les montants des factures datant d’avant le 3 mars 2004, comme en fait état la feuille de travail pour sommaire de construction que l’appelant a produite à l’appui de la demande de remboursement de la TPS pour habitations neuves) était de 338 034 $, y compris la TPS. Une somme additionnelle de 10 000 $ avait également été versée à Michael Senay Construction pour des services de gestion de projet jusqu’à la date de l’occupation. Cela porterait le coût total (y compris la TPS) à 348 034 $. L’appelant a versé 50 000 $ pour acquérir le terrain et le coût total (TPS incluse) du terrain et du bâtiment au 3 mars 2004 était donc de 384 034 $.
+[10] La valeur imposable de la propriété aux fins des taxes municipales au 1er février 2005 a initialement été fixée à 358 000 $. L’appelant a interjeté appel et il est arrivé à une transaction au montant de 310 000 $ avec la Société d’évaluation foncière des municipalités (la « SÉFM »), [traduction] « dans la salle d’audience », comme il l’a dit.
+[11] L’intimée a cité M. A.J. Eustace comme témoin. Elle ne l’a pas désigné à titre d’expert et aucun rapport d’expert n’a été produit avant l’audience comme l’exigent les Règles si M. A.J. Eustace avait été cité pour présenter une preuve d’expert. M. A.J. Eustace a uniquement témoigné au sujet de l’historique de la préparation de son rapport, dans lequel il a conclu que la valeur marchande de la propriété était de 400 000 $.
+[12] M. Eustace a décrit comme suit le processus de préparation du rapport qu’il avait rédigé et le rapport narratif, qu’il n’avait pas rédigé :
+[traduction]
+Q. Pouvez-vous nous expliquer brièvement de quel genre de rapport il s’agit?
+R. Il s’agit d’un rapport résidentiel, d’un formulaire. Il me faut une dizaine d’heures pour le préparer, compte non tenu du temps de déplacement.
+Q. Il vous a fallu une dizaine d’heures pour rédiger ce document en plus du temps de déplacement?
+R. Plus ou moins.
+Q. Mis à part le rapport établi après avoir circulé en voiture près de la propriété, quels autres genres de rapports avez-vous rédigés?
+R. L’étape suivante consisterait à rédiger un rapport narratif qui serait encore plus détaillé et dans lequel il serait question de la propriété et des ventes. Ce rapport narratif est rédigé à l’intention de la cour. Il faut normalement de 50 à 60 heures pour le rédiger. Il y aurait une enquête approfondie au sujet de chaque vente et ainsi de suite.
+[...]
+Q. (de l’appelant) : Comment est-il possible de procéder à une évaluation exacte en prenant des photos à 210 pieds d’une maison? Je vous ai vu le jour où vous y êtes allé. Vous ne savez absolument pas si l’arrière de la maison est en briques. Vous en remettez-vous simplement à l’opinion de la SÉFM pour toutes les choses, pour le travail qu’ils ont fait? Vous vous en servez et vous vous tenez à 210 pieds de la maison pour procéder à votre évaluation? Est-ce ainsi que vous faites toutes vos évaluations, vous vous contentez de vous y rendre en voiture et de prendre une photo de l’extérieur?
+R. Je vais vous expliquer le processus.
+Selon la politique du ministère, nous ne devons pas déranger le propriétaire. Nous n’entrons pas dans la maison, sauf si le propriétaire veut renégocier et qu’il nous invite à entrer pour jeter un coup d’œil. Ou encore, si l’affaire doit être soumise aux tribunaux, nous entrons et nous y jetons un coup d’œil. Je n’ai pas eu la possibilité de le faire, et ce, pour un certain nombre de raisons.
+Voici ce que nous faisons : nous nous rendons sur les lieux et nous obtenons tous les renseignements nécessaires au sujet de la maison, tous les renseignements que nous pouvons obtenir. Nous obtenons surtout des renseignements au sujet de la maison et nous nous assurons ensuite que la maison existe. Si vous aviez dit : « Voulez‑vous jeter un coup d’œil dans la maison? », j’y serais sans aucun doute entré, mais nous ne voulons pas réellement entrer dans la maison. Nous ne le faisons jamais. C’est notre règlement.
+Lorsqu’on prend la photographie, c’est pour dire : « Voici l’extérieur de la maison. » Si je m’étais rendu sur les lieux pour préparer un rapport narratif, j’aurais demandé si je devais entrer dans la maison, et j’aurais vu tous les travaux de construction, dans les moindres détails, et mon rapport aurait alors été d’une cinquantaine de pages, ou même encore plus.
+Nous procédons ainsi pour chaque maison, mais en cas de désaccord avec le propriétaire, nous essayons de savoir tout ce que le propriétaire a à dire et alors, ou nous nous entendons ou parfois nous ne nous entendons pas.
+[13] Comme l’a fait remarquer M. Eustace, lorsqu’une affaire est portée devant les tribunaux, il prépare normalement un rapport narratif renfermant plus de détails que le rapport qu’il a préparé, et il procède également à une [traduction] « enquête approfondie au sujet de chaque vente ». Or, aucun rapport narratif n’a été préparé en l’espèce, et ce, bien que l’affaire ait été portée devant les tribunaux. Étant donné qu’aucun rapport narratif n’a été effectué, M. Eustace n’a probablement pas procédé à une enquête approfondie des ventes qu’il a utilisées à des fins de comparaison. M. Eustace n’a vu aucune partie de la propriété sauf ce qu’il pouvait voir de la route et, en particulier, il n’a pas vu l’intérieur de la maison.
+[14] Le rapport préparé par M. Eustace comprenait uniquement trois propriétés comparables. Toutefois, l’une des propriétés qui a été incluse était composée de 10,78 acres et l’autre de 10,82 acres. Or, la superficie du lot appartenant à l’appelant était de 1,03 acre. Étant donné que la superficie, pour ces propriétés « comparables », était dix fois plus étendue que celle du lot de l’appelant et puisque l’appelant a versé 50 000 $ pour acquérir 1,03 acre (bien que le terrain ait été acheté de ses parents et qu’il n’indiquait peut‑être pas la juste valeur marchande), la valeur du terrain additionnel devrait être prise en compte dans le redressement du prix de vente des propriétés de 10,78 et de 10,82 acres. Les commentaires de M. Eustace sur ce point sont les suivants :
+[traduction]
+Q. Une autre variable qui semble différer énormément d’une maison à l’autre se rapporte à la superficie des lots. Comment la comparaison a‑t‑elle été faite?
+R. Au nord de Toronto, dans le comté de Simcoe, il peut parfois y avoir des propriétés comparables de dix acres, de 15 acres ou de 25 acres, mais il est parfois possible d’établir une comparaison avec des superficies plus petites. Nous devons tenir compte du zonage de ces propriétés. Dans certains cas, les terrains ne peuvent pas être lotis.
+Il peut arriver que certaines parties du fonds soient désignées comme espace ouvert ou fassent l’objet de quelque autre désignation, de sorte qu’elles ne peuvent pas être mises en valeur.
+Nous tenons compte de cette différence, mais le prix ne devrait pas baisser de beaucoup à cause du nombre d’acres.
+[15] Dans son rapport, M. Eustace n’a jamais parlé des propriétés précises de 10,78 et de 10,82 acres qui ont été utilisées à des fins de comparaison ni de la façon dont la superficie de ces propriétés a été prise en compte. En l’absence d’explications adéquates au sujet de ces propriétés particulières qui ont été incluses dans le rapport, aucun poids ne doit être accordé à ces propriétés.
+[16] L’appelant a soumis un rapport sur la propriété qu’il avait reçu de la SÉFM. Dans ce rapport, 13 propriétés étaient énumérées. Quatre d’entre elles avaient été vendues (et le prix de vente était inclus); quant aux neuf autres, aucun renseignement n’était donné au sujet de la vente et la seule valeur indiquée était la valeur imposable. La superficie des lots pour les quatre propriétés qui avaient été vendues était de 0,68 acre à deux acres.
+[17] Le tableau suivant indique le prix de vente de l’autre propriété comparable figurant dans le rapport de M. Eustace et des quatre propriétés figurant dans le rapport de la SÉFM soumis par l’appelant :
+Propriété
+Date de la vente
+Superficie du lot
+Année de construction
+Prix de vente
+No 2, rapport de M. Eustace
+4 août
+0,54 acre
+1986
+352 000 $
+No 1, rapport de la SÉFM
+4 août
+1,21 acre
+1989
+379 000 $
+No 2, rapport de la SÉFM
+3 sept.
+2 acres
+1996
+350 000 $
+No 3, rapport de la SÉFM
+4 févr.
+1,79 acre
+1975
+350 000 $
+No 4, rapport de la SÉFM
+4 juin
+0,68 acre
+1993
+419 800 $
+[18] M. Eustace a parlé de la superficie des lots et de l’âge de la maison comme étant des facteurs dont il faut tenir compte en analysant les ventes comparables, mais il n’a pas indiqué que la superficie des bâtiments était un facteur à prendre en considération en rajustant le prix de vente des propriétés comparables utilisées. En ce qui concerne le rapport de la SÉFM, les seuls commentaires de M. Eustace portant sur les propriétés énumérées dans ce rapport se rapportaient à l’âge des maisons. Par conséquent, la superficie des bâtiments n’est pas incluse dans le tableau ci‑dessus et aucun redressement ne se fera effectué pour les superficies différentes des bâtiments utilisés aux fins des ventes comparables.
+[19] Le prix de vente moyen des propriétés susmentionnées était de 370 160 $. L’âge des maisons variait de sept à 29 ans. Quant à la façon dont l’âge d’une maison influe sur sa valeur, M. Eustace a dit ce qui suit :
+[traduction]
+Q. Vous avez mentionné que l’âge de la maison était différent de celui des maisons comparables.
+R. Oui.
+Q. Procédez-vous à des redressements pour l’âge d’une maison dans votre rapport d’évaluation?
+R. Oui. Pour des habitations neuves, l’amortissement est presque nul.
+Q. En ce qui concerne ces habitations, comment justifieriez-vous l’évaluation par rapport à l’âge de la maison?
+R. La valeur de la propriété ici en cause devrait être plus élevée que celle des propriétés comparables.
+[20] Aucune explication n’a été fournie au sujet de la question de savoir de combien exactement l’évaluation de la propriété ici en cause devrait être plus élevée. Lorsque l’appelant l’a contre‑interrogé, M. Eustace a déclaré ce qui suit :
+[traduction]
+Nous parlons du 3 mars 2004. Après coup, je n’y pense plus lorsque je procède à l’évaluation. Quant à la seconde question, si vous demandez si les prix montent, oui, ils montent. Même s’il y a deux maisons, l’une ayant été bâtie en 2006, alors que l’autre l’a été en 1973, bien sûr, il y aura une légère différence de prix. Il ne s’agit pas uniquement de la maison; il peut s’agir de la disposition, de l’emplacement, de la façade, de la profondeur. Tout cela entre en ligne de compte.
+[21] Étant donné qu’aucun détail n’a été donné au sujet du montant de tout redressement à effectuer en comparant la vente d’une maison plus âgée et celle d’une maison neuve, et puisque M. Eustace a déclaré qu’il n’y aurait qu’une légère différence de prix pour une maison de 30 ans (ce qui pourrait également s’expliquer par d’autres différences), en tentant de déterminer la juste valeur marchande de la propriété de l’appelant, je ne ferai aucun redressement pour les âges différents des maisons comparables qui ont été vendues.
+[22] Comme il en a ci‑dessus été fait mention, le prix de vente moyen des propriétés comparables s’élevait à 370 160 $. Comme il a été dit, l’appelant a versé 50 000 $ pour acquérir 1,03 acre. L’intimée n’a pas présenté de preuve donnant à entendre que ce montant n’était pas exact, si ce n’est qu’elle a signalé que l’appelant avait acquis ce terrain de ses parents et que son père avait fixé le montant. Par conséquent, à supposer que la valeur du terrain de chaque propriété mentionnée dans le tableau ci‑dessus soit de 50 000 $, cela donnerait un prix de vente moyen de 320 160 $ pour les bâtiments. Au 3 mars 2004, la maison de l’appelant était achevée à 85 ou 90 p. 100 seulement. Chacune des maisons comparables a probablement été vendue en tant que maison prête à occuper. Si l’on veut effectuer un redressement pour une maison inachevée, il semble logique de réduire la valeur du bâtiment de 10 à 15 p. 100, de façon à indiquer les travaux qu’il faudrait exécuter pour finir la maison. Lorsque cette réduction est prise en compte, la « valeur » de la propriété de l’appelant est de 332 136 à 338 144 $.
+[23] L’intimée a fait valoir que l’appelant n’avait pas démoli l’hypothèse que le ministre avait émise au sujet de la juste valeur marchande de la propriété et que la juste valeur marchande de la propriété ne peut pas être inférieure au montant total du coût de construction et du coût du terrain. L’appelant n’a pas démoli l’hypothèse émise par le ministre, mais cette hypothèse était simplement la suivante :
+[traduction]
+11. En refusant ainsi d’accorder une partie du remboursement au moyen de la cotisation, le ministre a émis les hypothèses de fait suivantes :
+[...]
+j) A. J. Eustace, agissant pour le ministre, a conclu que la valeur marchande de la résidence, au 3 mars 2004, était de 400 000 $.
+[24] L’intimée n’a pas supposé que la juste valeur marchande de la résidence était de 400 000 $. L’intimée a uniquement supposé qu’A.J. Eustace avait conclu que la valeur marchande s’élevait à ce montant. En l’espèce, il ne s’agit pas de savoir ce qui, selon A.J. Eustace, était la valeur marchande de la résidence, mais ce qu’était la juste valeur marchande de la résidence au 3 mars 2004.
+[25] L’appelant n’a pas démoli cette hypothèse puisque le rapport de M. Eustace confirme que tel était le montant qu’il avait établi. Pour démolir cette hypothèse, l’appelant aurait été obligé de prouver que le montant de 400 000 $ n’était pas le montant que M. Eustace avait établi comme représentant la valeur marchande de la propriété.
+[26] Dans l’arrêt La Reine c. Anchor Pointe Energy Ltd., 2007 CAF 188, [2007] 4 C.T.C. 5, 2007 DTC 5379 (ang), 365 N.R. 105, 283 DLR (4th) 434, le juge Létourneau a dit ce qui suit :
+29 L’équité exige que les faits allégués comme hypothèses soient complets, précis, exacts et énoncés de façon honnête et franche afin que que le contribuable sache bien clairement ce qu’il devra prouver : Canada c. Anchor Pointe Energy Ltd., précité, paragraphe 23, Holm et al. c. La Reine, précité, Canada c. Loewen, [2004] 4 R.C.F. 3, paragraphe 9. (C.A.F.), Grant c. La Reine et al., 2003 DTC 5160, page 5163, First Fund Genesis Corporation c. Sa Majesté la Reine, 90 DTC 6337, page 6340, Shaughnessy c. Sa Majesté la Reine, 2002 DTC 1272, paragraphe 13, Stephen c. Canada, [2001] A.C. I. no 250, paragraphe 6.
+[27] Étant donné que les faits qui sont plaidés en tant qu’hypothèses doivent être précis, cette hypothèse sera interprétée telle qu’elle a été énoncée. Par conséquent, l’hypothèse est simplement que M. Eustace a conclu que la valeur marchande de la propriété était de 400 000 $, et non que la juste valeur marchande de la propriété était de 400 000 $. Des évaluateurs différents peuvent établir des montants différents comme représentant la juste valeur marchande d’une propriété particulière. Comme le juge en chef Bowman l’a fait remarquer dans la décision Qureshi c. La Reine, 2006 CCI 485, [2006] G.S.T.C. 121 :
+Comme il est indiqué dans l’arrêt Gold Coast Selection Trust Ltd. v. Humphrey, [1948] A.C. 459, l’évaluation de biens est un art et non une science. […]
+[28] Étant donné que l’intimée n’a pas plaidé comme hypothèse de fait que la juste valeur marchande de la propriété était de 400 000 $, ce serait l’intimée qui aurait été obligée de prouver la chose. Dans l’arrêt The Queen v. Bowens, [1996] 2 C.T.C. 120, 96 DTC 6128, le juge Hugessen, de la Cour d’appel fédérale, a dit ce qui suit :
+[…] La raison pour laquelle la Couronne était tenue de prouver dans la présente affaire que Trilogy et le contribuable étaient sans lien de dépendance, c’est qu’il s’agissait‑là d’un fait dont dépendait la validité de la nouvelle cotisation, et puisqu’aucune hypothèse dans ce sens n’avait été plaidée, la Couronne n’avait l’avantage d’aucun déplacement du fardeau de la preuve.
+[29] En ce qui concerne le fait que la juste valeur marchande est inférieure au coût, une question qui se pose est de savoir si les coûts doivent inclure la TPS. Dans l’affaire Qureshi, précitée, l’intimée soutenait que la juste valeur marchande de la propriété était de 497 000 $, en se fondant sur un coût de 497 000 $ (la TPS n’étant pas incluse). Toutefois, étant donné qu’à mon avis, il n’est pas approprié d’utiliser les renseignements sur le coût pour déterminer la juste valeur marchande de la propriété de l’appelant, je ne déciderai pas si les coûts doivent inclure la TPS, lorsque les renseignements sur le coût sont utilisés aux fins de la détermination de la juste valeur marchande.
+[30] Je souscris aux remarques que le juge en chef Bowman a faites dans la décision Qureshi, précitée, au sujet de l’utilisation des coûts aux fins de la détermination de la juste valeur marchande d’une habitation :
+6 Il est vrai que la méthode du coût a parfois été utilisée pour déterminer la JVM. Ce fut le cas dans les décisions susmentionnées et également dans des causes se rapportant à la Loi sur l’exportation et l’importation de biens culturels, comme Aikman c. R., [2000] 2 C.T.C. 2211, conf. par [2002] 2 C.TC. 147 ou Maréchal c. La Reine, 2004 DTC 3227, conf. par 2005 DTC 5223. Toutefois, le coût d’un bien est révélateur de sa JVM lorsque le coût correspond au prix auquel le bien est acheté dans le cadre d’une vente de pleine concurrence. Le coût de construction ou de reconstruction d’un bien n’est pas une méthode fiable à utiliser pour déterminer la JVM lorsque des données sur le marché sont disponibles, comme c’est le cas en l’espèce.
+7 Comme il est indiqué dans l’arrêt Gold Coast Selection Trust Ltd. v. Humphrey, [1948] A.C. 459, l’évaluation de biens est un art et non une science. Il faut tenir compte de plusieurs facteurs pour déterminer le genre d’entente qui serait conclue par des parties qui n’ont pas de lien de dépendance entre elles. Il ne s’agit pas d’un processus mécanique qui se réduit à examiner le coût abstraction faite de tous les autres facteurs, y compris le bon sens et la conjoncture du marché.
+[...]
+10 Il n’y a tout simplement rien qui puisse justifier l’utilisation du coût ou du coût de remplacement pour évaluer le bien lorsqu’il existe un marché de biens comparables. Le coût ou le coût de remplacement n’indique pas la JVM lorsqu’il est question d’une maison qui est construite selon les spécifications du propriétaire. Lorsqu’une personne achète une maison déjà construite sur un marché libre, de façon générale, le prix payé sert d’indicateur de la JVM.
+[31] Il me semble que l’on ne peut pas s’attendre à ce que l’utilisation des renseignements sur le coût aux fins de la détermination de la juste valeur marchande d’une habitation produise un résultat aussi exact que celui auquel on pourrait s’attendre si ces renseignements devaient être utilisés aux fins de l’estimation de la juste valeur marchande d’un bien d’entreprise. L’avocat de l’intimée s’était demandé pourquoi l’appelant dépenserait, pour construire sa maison, un montant plus élevé que ce que sa maison valait. Il est possible de répondre simplement à cette question en disant qu’il s’agissait de sa maison. Les décisions concernant les matériaux à utiliser, la superficie de la maison et la façon dont la maison est construite peuvent être fondées sur des motifs personnels plutôt que sur des motifs d’ordre commercial. En l’espèce, l’appelant construisait une habitation sur un terrain faisant partie de la ferme de son père et il n’y a pas lieu de croire qu’il n’a pas l’intention de vivre à cet endroit pendant de nombreuses années. Cela étant, les décisions se rapportant au montant dépensé étaient réellement des décisions personnelles plutôt que des décisions commerciales et, à mon avis, la méthode du coût n’est pas la meilleure approche à adopter pour déterminer la juste valeur marchande de la propriété de l’appelant.
+[32] L’appelant a soutenu qu’il avait déjà été établi que la valeur marchande de sa propriété était de 310 000 $ par suite de la transaction conclue avec la SÉFM à la suite de l’appel qu’il avait interjeté au sujet de la valeur imposable de sa propriété.
+[33] M. Eustace a décrit comme suit le processus d’évaluation aux fins des taxes municipales :
+[traduction]
+Q. (de l’avocat de l’intimée) : Selon vous, les estimations de la juste valeur marchande effectuées par votre bureau et par vous‑même sont‑elles normalement compatibles avec les évaluations de la société d’évaluation foncière des municipalités?
+R. À mon avis, non. L’opinion générale est également que ce n’est pas le cas, et ce, parce que lorsqu’ils procèdent aux évaluations, ils ne peuvent pas inspecter chaque propriété. Ils utilisent la méthode de l’évaluation de masse ou une analyse de régression, c’est‑à‑dire qu’ils trouvent toutes les ventes possibles et qu’ils établissent ensuite des paramètres – la façade et d’autres – et ils insèrent ces chiffres dans une formule statistique donnée afin d’arriver à une valeur pour le secteur. Lorsqu’un contribuable particulier fait opposition, ils sortent son dossier et ils essaient de procéder à un examen plus approfondi.
+[34] Les commentaires se rapportant au processus général d’évaluation aux fins des taxes municipales concerneraient le montant initialement établi de 358 000 $. Comme M. Eustace l’a fait remarquer, lorsqu’un propriétaire foncier fait opposition, un examen plus détaillé est effectué.
+[35] L’article 19 de la Loi sur l’évaluation foncière (Ontario) prévoit ce qui suit :
+19.(1) Les biens-fonds sont évalués à leur valeur actuelle.
+[36] L’article premier de la Loi sur l’évaluation foncière (Ontario) renferme les définitions des mots « biens‑fonds » et « valeur actuelle », celles‑ci étant en partie libellées comme suit :
+« biens-fonds », « biens immeubles » et « biens immobiliers » S’entendent en outre :
+[...]
+d) des bâtiments ou d’une partie d’un bâtiment ainsi que des constructions, des machines et des accessoires fixes érigés ou installés sur ou dans ou sous un bien‑fonds ou au‑dessus, ou qui y sont fixés,
+[...]
+« valeur actuelle » À l’égard d’un bien-fonds, s’entend de la somme que produirait, le cas échéant, la vente du fief simple non grevé entre un vendeur et un acheteur consentants et sans lien de dépendance.
+[37] La définition de la « valeur actuelle » est une version abrégée de la définition de la juste valeur marchande qui a été acceptée par les tribunaux. Dans la décision Qureshi, précitée, le juge en chef Bowman a dit ce qui suit :
+15 La définition jurisprudentielle de la JVM adoptée par les tribunaux canadiens est celle que le juge Cattanach énonce dans la décision Henderson Estate and Bank of New York c. M.R.N., 73 DTC 5471, à la page 5476 :
+La Loi ne donne aucune définition de l’expression « juste valeur marchande »; celle‑ci a été définie de diverses façons, généralement selon ce qu’avait à l’esprit la personne cherchant à formuler la définition. Je ne crois pas nécessaire d’essayer de donner une définition précise de cette expression telle qu’employée dans la Loi; il suffit, me semble‑t‑il, de dire qu’il y a lieu de donner à ces mots leur sens ordinaire. Dans son sens courant, me semble‑t‑il, cette expression désigne le prix le plus élevé que le propriétaire d’un bien peut raisonnablement s’attendre à tirer s’il le vend de façon normale et dans le cours ordinaire des affaires, le marché n’étant pas soumis à des pressions inhabituelles et étant constitué d’acheteurs disposés à acheter et de vendeurs disposés à vendre, qui n’ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d’acheter ou de vendre. J’ajouterais que cet exposé succinct de mon point de vue sur le sens à donner à l’expression « juste valeur marchande » comprend ce que j’estime être l’élément essentiel, soit un marché libre de toutes restrictions, où le prix est établi par le jeu de la loi de l’offre et de la demande entre des acheteurs et des vendeurs avertis et désireux d’acheter et de vendre. On voit que la définition donnée de l’expression « juste valeur marchande » est également applicable à l’expression « valeur marchande ». D’ailleurs, il n’est pas sûr que l’emploi du mot « juste » ajoute quoi que ce soit aux mots « valeur marchande ».
+[38] En théorie, la valeur imposable d’un bien immeuble devrait être la juste valeur marchande de ce bien, mais il n’est pas réaliste de s’attendre à ce que la SÉFM évalue individuellement chaque propriété dont elle doit déterminer la valeur actuelle. Comme M. Eustace l’a fait remarquer, l’approche générale consiste à utiliser des renseignements et des formules statistiques. Comme M. Eustace l’a fait remarquer, et la chose est étayée par les renseignements sur les ventes qui ont été soumis à l’audience, la valeur imposable est généralement différente du prix auquel une propriété sera vendue sur le marché libre.
+[39] Toutefois, une fois qu’un propriétaire foncier comme l’appelant fait opposition à une évaluation, comme M. Eustace l’a fait remarquer, le dossier concernant la propriété est examiné plus à fond et le produit du processus d’opposition (que ce soit à la suite d’une transaction conclue avec la SÉFM ou d’une décision rendue après la tenue d’une audience devant la Commission de révision de l’évaluation foncière) devrait se rapprocher davantage de la juste valeur marchande de la propriété.
+[40] Je conclus que l’intimée n’a pas établi que la juste valeur marchande de la propriété était de 400 000 $ et je conclus, selon la prépondérance des probabilités, que la juste valeur marchande de la propriété de l’appelant au 3 mars 2004 était inférieure à 350 000 $. En utilisant les propriétés comparables mentionnées dans le rapport de la SÉFM et la seule propriété comparable mentionnée dans le rapport de M. Eustace, et en redressant le montant de façon à indiquer que la maison de l’appelant n’était achevée qu’à 85 ou 90 p. 100 au 3 mars 2004, on obtient une valeur de moins de 350 000 $. De plus, l’appelant a interjeté appel de la valeur imposable de sa propriété et le montant fixé de gré à gré avec la SÉFM comme représentant la valeur actuelle de sa propriété était de 310 000 $.
+[41] L’appel est accueilli avec dépens et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait qu’aux fins de la détermination du remboursement pour habitations neuves auquel l’appelant a droit en vertu du paragraphe 256(2) de la Loi, la juste valeur marchande de la propriété en question était inférieure à 350 000 $ au 3 mars 2004.
+Signé à Halifax (Nouvelle-Écosse), ce 15e jour de mai 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 4e jour d’août 2008.
+Christian Laroche, juriste-traducteur
+RÉFÉRENCE : 2008CCI239
+DOSSIER DE LA COUR : 2007-3967(GST)I
+INTITULÉ : MICHAEL SOMERS
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 17 avril 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 15 mai 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Brandon Siegal
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

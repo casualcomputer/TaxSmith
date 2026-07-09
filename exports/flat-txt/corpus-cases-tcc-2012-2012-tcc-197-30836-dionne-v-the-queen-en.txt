@@ -1,0 +1,136 @@
+Title: Dionne v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30836/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-197-30836-dionne-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-06-08
+
+# Dionne v. The Queen
+
+- Citation: 2012 TCC 197
+- Decision date: 2012-06-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7395, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dionne v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-06-08
+Neutral citation
+2012 TCC 197
+File numbers
+2011-3089(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3089(IT)I
+BETWEEN:
+ANDRE DIONNE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on May 2, 2012, at Vancouver, British Columbia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Michael F. Campagne
+Counsel for the Respondent:
+Dawn Francis
+____________________________________________________________________
+ORDER
+The Motion of the Respondent to quash the Appellant’s appeals in relation to his 2004 to 2010 taxation years, inclusive, is granted and these appeals are quashed, without costs and the appeal from the determination dated August 12, 2011 that the Appellant’s daughter was not eligible to claim the disability tax credit, is also quashed, without costs.
+Signed at Ottawa, Canada, this 8th day of June 2012.
+“Wyman W. Webb”
+Webb J.
+Citation: 2012TCC197
+Date: 20120608
+Docket: 2011-3089(IT)I
+BETWEEN:
+ANDRE DIONNE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb J.
+[1] The Appellant filed a Notice of Appeal in which the Appellant purported to appeal a determination made by the Canada Revenue Agency on August 12, 2011 that the Appellant’s daughter was not eligible to claim the disability tax credit under the Income Tax Act (the “Act”) for any of the taxation years from 2004 to 2010, inclusive. The Appellant, in his Notice of Appeal, was also requesting that he be allowed a claim for his daughter’s unused disability tax credits for the taxation years 2004 to 2010 and that his spouse should receive additional Canada Child Tax Benefit (“CCTB”) payments for the period from January 2004 to now.
+[2] At the commencement of the hearing the Respondent brought a motion to quash the Appellant’s appeals on the basis that:
+(a) to the extent that the appeals were in relation to an assessment of any of the Appellant’s 2004 to 2010 taxation years, inclusive, the Appellant had not served any notice of objection in relation to any such assessment prior to commencing his appeal; and
+(b) to the extent that the appeal is in relation to the determination dated August 12, 2011, the Appellant did not serve a notice of objection to this determination prior to commencing this appeal.
+[3] It is the position of the Appellant that his representative’s letter of October 15, 2009 was his notice of objection to the assessments issued for the taxation years referred to in his Notice of Appeal. On October 15, 2009, the representative of the Appellant wrote a letter to the “Disability Tax Credit Assessor, Surrey Tax Centre” in which the representative was requesting that adjustments be made to the Appellant’s T1 income tax returns for 2002 to 2008 and that additional CCTB payments be made to the Appellant’s spouse, Lisa Dionne, for the period from 2003 to 2008.
+[4] If an individual is eligible to claim the disability tax credit as provided in section 118.3 of the Act, a parent (and certain other relatives) may claim that individual’s unused disability tax credit provided that the conditions as set out in subsection 118.3(2) of the Act are satisfied. As well, the amount paid as a CCTB amount to the “eligible individual” in respect of that individual will increase if a positive amount is determined for M in the formula in subsection 122.61(1) of the Act.
+[5] The Appeal was only filed by Andre Dionne. While he was claiming the unused disability tax credit, the notice of appeal requests that additional CCTB amounts be paid to his spouse, who is not a party to the appeal. Any objection to or appeal from any determination or decision with respect to whether Lisa Dionne is entitled to any additional amounts of CCTB would have to be instituted by her in accordance with the applicable provisions related to such objection or appeal.
+[6] With respect to the Appellant’s appeal in relation to the assessment of his 2004 to 2010 taxation years (which would only relate to his claim for unused disability tax credits), there was no indication in the letter dated October 15, 2009 that the Appellant was objecting to any assessment issued for any of his taxation years. He was simply requesting an adjustment to his tax returns. Also, the letter was sent to the Disability Tax Credit Assessor, not the Chief of Appeals. Subsection 165(2) of the Act provides that:
+165 (2) A notice of objection under this section shall be served by being addressed to the Chief of Appeals in a District Office or a Taxation Centre of the Canada Revenue Agency and delivered or mailed to that Office or Centre.
+[7] The T1 Adjustment request refers to the taxation years 2002 to 2008. In the Notice of Appeal the years were changed to 2004 to 2010. The following is a list of the dates that the Appellant’s liability under the Act was assessed[1] for each of the years referred to in the Notice of Appeal:
+Taxation Year
+Date of Assessment
+2004
+May 12, 2005
+2005
+June 15, 2006
+2006
+October 16, 2007
+2007
+November 30, 2009
+2008
+November 30, 2009
+2009
+May 24, 2011
+2010
+May 9, 2011
+[8] The time period[2] within a notice of objection could have been served in relation to the assessment of the Appellant’s tax liability for any of the taxation years 2004, 2005 or 2006 had expired by October 15, 2009 as had the time period[3] within which an application could have been made to extend the time to serve the notice of objection in relation to any of these taxation years. Therefore even if the Appellant would have indicated that he was objecting to any of these assessments and would have sent the letter to the Chief of Appeals, the time within which he could have served a notice of objection in relation to these taxation years (or applied to have the time extended to serve a notice of objection) had expired before he sent the letter on October 15, 2009.
+[9] For the taxation years 2007, 2008, 2009 and 2010, the letter of October 15, 2009 could not have been an objection to any assessment of any of these years as the Appellant had not been assessed for any of these years by that date.
+[10] Subsection 169(1) of the Act provides as follows:
+169. (1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been sent[4] to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[11] In Bormann v. The Queen, 2006 DTC 6147, the Federal Court of Appeal stated as follows:
+3 Section 169(1) of the Income Tax Act obliges a taxpayer to serve Notice of Objection in order to appeal an assessment. In other words, service of a Notice is a condition precedent to the institution of an appeal.
+4 As mentioned, the appellant did not serve a Notice of Objection nor is there evidence that the appellant made an application to the Ministry to extend the time to file a Notice of Objection.
+5 Once it is clear that no application for an extension of time was made, the law is clear that there is no jurisdiction in the Tax Court to further extend the time for equitable reasons.
+Minuteman Press of Canada Company Limited v. M.N.R., 88 DTC 6278, (F.C.A.).
+6 As a result, there is no basis upon which it can be said that the Tax Court Judge erred in quashing the appellant's appeals for the 1992 to 1998 taxation years.
+[12] Since the Appellant did not serve a valid notice of objection with respect to any assessment issued in relation to any of his 2004 to 2010 taxation years, inclusive, before he filed his Notice of Appeal to this Court on October 6, 2011, he failed to satisfy the “condition precedent to the institution of an appeal” and his appeals in relation to the assessments issued for these taxation years are quashed.
+[13] To the extent that the appeal is an appeal from the determination dated August 12, 2011, subsection 152(1.01) was added to the Act in 2011. This subsection provides as follows:
+152 (1.01) The Minister shall, if an individual requests by prescribed form, determine with all due dispatch whether an amount is deductible, or would if this Act were read without reference to paragraph 118.3(1)(c) be deductible, under section 118.3 in computing the individual’s tax payable under this Part for a taxation year and send a notice of the determination to the individual.
+[14] If taxes are payable by an individual for 2008 and 2009 (and therefore that individual could have filed a notice of objection in relation to the assessments issued for such years), this new provision will only apply if that individual has filed the appropriate form after June 26, 2011. For 2008 and 2009 taxes were payable by the Appellant under the Act and therefore this new provision would only apply to the Appellant if the form had been filed after June 26, 2011. Since the Appellant had filed the form on October 15, 2009, this new provision is not applicable in relation to the question of whether he is entitled to deduct an amount under subsection 118.3(2) of the Act in computing his tax payable for any of the taxation years referred to in his representative’s letter of October 15, 2009.
+[15] The determination that was made on August 12, 2011 was in relation to the Appellant’s daughter’s eligibility for the disability tax credit. The appeal procedure that must be followed to appeal this determination is the same appeal procedure that must be followed if a person should choose to appeal an assessment or a reassessment[5]. Therefore a valid notice of objection must be served before an appeal can be instituted to this Court. As no notice of objection was served in relation to this determination before the appeal was instituted, the appeal to this Court from this determination is quashed.
+[16] As a result the Appellant’s appeals in relation to his 2004 to 2010 taxation years, inclusive, are quashed, without costs and the appeal from the determination dated August 12, 2011 that the Appellant’s daughter was not eligible to claim the disability tax credit, is also quashed, without costs.
+Signed at Ottawa, Canada, this 8th day of June 2012.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2012TCC197
+COURT FILE NO.: 2011-3089(IT)I
+STYLE OF CAUSE: ANDRE DIONNE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 2, 2012
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER: June 8, 2012
+APPEARANCES:
+Agent for the Appellant:
+Michael F. Campagne
+Counsel for the Respondent:
+Dawn Francis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant has not been reassessed in relation to any of these taxation years.
+[2] As a result of the provisions of subsections 165(1) and 244(14) of the Act, the notice of objection for individuals in relation to the assessment for a particular year must be served by the later of one year from the individual’s filing due date for that year and 90 days from the date of the notice of assessment for such year.
+[3] As a result of the provisions of paragraph 166.1(7)(a) of the Act, the time within which an application to extend the time for serving a notice of objection could be made, is one year from the end of the time period within which a notice of objection could have been served under subsection 165(1) of the Act.
+[4] Effective December 15, 2010, the word “sent” replaced the word “mailed”.
+[5] Subsection 152(1.2) of the Act.

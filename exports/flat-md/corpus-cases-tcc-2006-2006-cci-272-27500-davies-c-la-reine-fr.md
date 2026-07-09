@@ -1,0 +1,163 @@
+---
+title: "Davies c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27500/index.do"
+last_modified: "2006-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 272"
+citation2: ""
+neutral_citation: "2006 CCI 272"
+decision_date: "2006-05-05"
+language: "fr"
+item_id: "27500"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 57
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:38:04.614000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3fc55a9068e5b4b5db5450f95f5bb58983ea8d8d63cbb30219ec0e355b0fc260"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Davies c. La Reine
+
+- Citation: 2006 CCI 272
+- Decision date: 2006-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 57, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davies c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-05
+Référence neutre
+2006 CCI 272
+Numéro de dossier
+2005-3966(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3966(IT)I
+ENTRE :
+YANN DAVIES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 avril 2006 à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est rejeté.
+Signé à Ottawa, Canada, ce 5e jour de mai 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 1er jour d'août 2006.
+Jean David Robert, traducteur
+Référence : 2006CCI272
+Date : 20060505
+Dossier : 2005-3966(IT)I
+ENTRE :
+YANN DAVIES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L'appelant interjette appel de la cotisation établie pour l'année d'imposition 2003 parce qu'un montant de 2 341,93 $ qu'il a déduit à titre de frais payés à Fryan Inc. y a été refusé par application de l'alinéa 20(1)bb) de la Loi de l'impôt sur le revenu (la « Loi » ), et qu'un montant de 298,62 $ qu'il a déduit à titre de crédit d'impôt à l'investissement remboursable y a été refusé par application des paragraphes 127(9) et 127.1(2) de la Loi.
+[2] Le paiement de 2 341,93 $ que l'appelant aurait fait à Fryan Inc. à l'égard d'une facture établie par celle-ci se rapporte à des dépenses engagées principalement pour l'achat de diverses publications (1 900,93 $), mais aussi pour le remboursement de frais bancaires, l'achat de matériel, la location d'une case postale et un abonnement auprès d'un fournisseur d'accès Internet (pièces A-4 et A-5). Ces dépenses ont été engagées par Fryan Inc. pour le compte de l'appelant. Fryan Inc. a été constituée en société le 11 décembre 1978 en vertu de la Loi canadienne sur les sociétés par actions (pièce A-7). Sa seule actionnaire et administratrice est Françoise Demarque Davies, l'épouse de l'appelant. Dans la Déclaration d'immatriculation datée du 20 février 2003 et soumise à l'inspecteur général des institutions financières, il est indiqué que la principale activité de Fryan Inc. est la négociation et la consultation (pièce A-8). Selon le témoignage de l'appelant, Mme Demarque est une artiste et elle est peu ou pas engagée dans l'exploitation de Fryan Inc. L'appelant a déposé comme pièce A-3 une entente contractuelle établie entre Fryan Inc. et lui-même, dont les stipulations sont présentées ci-dessous :
+Entente contractuelle
+Entre Fryan Inc.
+B.P. 98 Station H
+Montréal H3G 2K5
+Et Yann Davies
+893 Vallée
+Sutton J0E 2K0
+1. FRYAN Inc. fournira à M. Yann Davies les services suivants dans le domaine des finances et du placement.
+1.1 achat et fourniture d'un nombre utile de publications mensuelles, hebdomadaires, quotidiennes et occasionnelles
+1.2 rédaction et fourniture de rapports occasionnels sur des informations et analyses provenant ou non de ces documents
+1.3 facturation de toutes ses dépenses au coût incluant les taxes (qui sont déjà incluses) et ce en fin de chaque année
+2. M. Yann Davies apportera son soutien et contribution généralement à la fourniture de services
+2.1 il facilitera l'obtention des documents
+2.2 il participera à l'analyse des informations et à la rédaction des rapports
+2.3 il payera les factures promptement
+3. 3.1 Cette entente est valide pour l'année 2003
+3.2 Elle est extensionée annuellement à moins d'avis d'interruption par un des partis [sic].
+4. Fait à Montréal ce 5 janvier 2003
+signé Fryan Inc. : (signature) par Françoise Demarque
+Yann Davies : (signature) par Yann Davies
+[3] En fait, tout le travail d'analyse financière était accompli par l'appelant lui-même (un exemple de ce travail a été déposé comme pièce A-12), qui n'était pas rétribué par Fryan Inc. pour ce travail. Le 28 décembre 2003, Fryan Inc. a facturé à l'appelant la somme de 2 341,93 $ à l'égard des dépenses engagées pour le compte de l'appelant (pièces A-4 et A-5). Il n'y avait pas de frais pour la prestation de services relativement à l'administration ou à la gestion d'actions ou de valeurs mobilières de l'appelant, ni pour obtenir des avis sur l'opportunité d'acheter ou de vendre certaines actions ou valeurs mobilières de l'appelant. Il n'y avait pas non plus de frais à l'égard d'honoraires versés à un conseiller en placement ni de frais au titre de rapports d'analyse.
+[4] De plus, l'appelant a affirmé qu'il effectuait le travail d'analyse financière surtout pour son propre compte, mais qu'il en faisait pendant ses temps libres pour son épouse et sa fille. Fryan Inc. n'a pas donné d'avis ni fourni de services à d'autres investisseurs. Finalement, M. Danny Turcotte, le vérificateur de l'Agence des douanes et du revenu du Canada, a affirmé dans son témoignage que Fryan Inc. n'avait déclaré aucun revenu tiré des activités susmentionnées.
+[5] L'alinéa 20(1)bb) de la Loi est ainsi rédigé :
+ARTICLE 20 : Déductions admises dans le calcul du revenu tiré d'une entreprise ou d'un bien.
+(1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d'une entreprise ou d'un bien pour une année d'imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu'il est raisonnable de considérer comme s'y rapportant :
+20(1)bb)
+bb) Honoraires versés à un conseiller en placement - une somme, autre qu'une commission, versée par le contribuable au cours de l'année à une personne :
+(i) soit pour obtenir son avis sur l'opportunité d'acheter ou de vendre certaines actions ou valeurs mobilières,
+(ii) soit pour la prestation de services relativement à l'administration ou à la gestion d'actions ou de valeurs mobilières du contribuable,
+si l'activité d'entreprise principale de cette personne consiste :
+(iii) soit à donner des avis sur l'opportunité d'acheter ou de vendre certaines actions ou valeurs mobilières,
+(iv) soit, entre autres choses, à assurer des services relatifs à l'administration ou à la gestion d'actions ou de valeurs mobilières;
+[6] À mon avis, l'appelant n'a pas démontré en l'espèce que Fryan Inc. exploitait une entreprise de conseil en placement en 2003. La société n'a déclaré aucun revenu tiré d'une telle activité. Elle ne rétribuait pas l'appelant pour les services fournis qui étaient prévus dans l'entente contractuelle. Elle n'avait d'autres clients que l'appelant et sa famille immédiate. Elle n'établissait pas de facture à l'égard de l'appelant pour les conseils qu'elle lui donnait ou les avis au sens de l'alinéa 20(1)bb) de la Loi. De plus, la facture se rapportait principalement à l'achat de publications et d'autre matériel. La somme payée pour de tels produits ne constitue pas « une somme [...] versée par le contribuable [...] à une personne [...] pour obtenir son avis sur l'opportunité d'acheter ou de vendre certaines actions ou valeurs mobilières » . Pour être déductible, la somme doit être payée en contrepartie de l'avis lui-même et non pour des abonnements à des publications (voir la décision Vatcha v. M.N.R., 1991 CarswellNat 432 (CCI), au paragraphe 10).
+[7] Pour ces motifs et par application de l'alinéa 20(1)bb) de la Loi, l'appelant ne peut pas déduire le montant de 2 341,93 $ dans le calcul de son revenu.
+[8] En ce qui à trait à la déduction de 298,62 $ refusée à titre de crédit d'impôt à l'investissement remboursable, il est clair, eu égard aux formulaires T5013 (pièce I-1) et T2038 (pièce I-2, deuxième page), que le montant de 9 953,28 $ correspondait à des frais d'exploration au Canada qui donnaient droit à un crédit d'impôt à l'investissement non remboursable de 1 492,99 $[1] et non pas à un crédit d'impôt à l'investissement remboursable au sens du paragraphe 127.1(2) de la Loi. Étant donné que le montant de 1 492,99 $ correspondait à un crédit d'impôt non remboursable, l'appelant a eu tort de demander un crédit d'impôt à l'investissement remboursable de 298,62 $ (40 % de 1 493,09 $ : pièce A-1, page 21[2]) auquel il n'avait pas droit.
+[9] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 5e jour de mai 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 1er jour d'août 2006.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI272
+N º DU DOSSIER DE LA COUR : 2005-3966(IT)I
+INTITULÉ : Yann Davies c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : Le 12 avril 2006
+MOTIFS DU JUGEMENT : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 5 mai 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Christina Ham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Selon le calcul du crédit d'impôt à l'investissement effectué à la pièce A-1, page 20, qui indique un montant inexact de 1 493,09 $; voir la réponse à l'avis d'appel aux alinéas 5c) et 8b).
+[2] En fait, les 298,62 $ déduits par l'appelant correspondaient à 20 % de 1 493,09 $, montant auquel il n'avait pas droit de toute façon.

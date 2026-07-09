@@ -1,0 +1,126 @@
+Title: MacMillan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26720/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-583-26720-macmillan-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-08-31
+
+# MacMillan v. The Queen
+
+- Citation: 2005 CCI 583
+- Decision date: 2005-08-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3401, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacMillan v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-31
+Référence neutre
+2005 CCI 583
+Numéro de dossier
+2004-4417(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+2004-4417(IT)I
+ENTRE :
+JAMES M. MacMILLAN,
+Appelant,
+Et
+SA MAJESTÉ LA REINE,
+Intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 6 mai 2005, à Vancouver (Colombie-Britannique)
+Par : l'honorable juge E. A. Bowie
+Comparutions
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Fiona Mendoza
+JUGEMENT
+L'appel contre la nouvelle cotisation d'impôt établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est admis et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelant n'a pas à se voir inclure une somme dans son revenu aux termes de l'alinéa 6(1)e) ou de l'alinéa 6(1)k).
+Signé à Ottawa, Canada, ce 31e jour d'août 2005.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 1er jour de novembre 2005.
+Marc Doyon, traducteur
+Référence : 2005CCI583
+Date : 20050831
+Dossier : 2004-4417(IT)I
+ENTRE :
+JAMES M. MacMILLAN,
+Appelant,
+Et
+SA MAJESTÉ LA REINE,
+Intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] L'appelant est employé par British Columbia Hydro ( « Hydro » ) comme directeur d'entretien de parc de véhicules. Il interjette appel contre la cotisation d'impôt sur le revenu établie à son égard pour l'année d'imposition 2003. Ce dont il se plaint relativement à la cotisation, c'est de ce que le ministre a établi à son égard une cotisation incluant une somme qui représente des frais pour droit d'usage d'une automobile, en vertu de l'alinéa 6(1)e) de la Loi de l'impôt sur le revenu (la « Loi » ), et un avantage au titre du fonctionnement de l'automobile, en vertu de l'alinéa 6(1)k). L'appel a été entendu sous le régime de la procédure informelle de la Cour.
+[2] En tant que directeur d'entretien de parc de véhicules, l'appelant supervise le personnel du garage d'Hydro à Surrey. Il commence son travail à cet endroit à 7 h 30, chaque jour de la semaine, et s'arrête habituellement de travailler à 15 h 30. Travaillent à cet endroit entre 15 et 30 personnes relevant de lui. De temps en temps, l'appelant doit en outre se rendre à divers lieux de travail dans les basses terres continentales et aller à d'autres endroits, dans la province, où Hydro a des installations. Pour se rendre là, parfois il conduit, parfois il prend l'avion.
+[3] Hydro fournit à l'appelant une camionnette Dodge Caravan pouvant accueillir cinq personnes. L'appelant a témoigné qu'Hydro exige qu'il ait cette camionnette à sa disposition en tout temps, au travail ou chez lui, de manière que s'il est tenu de se rendre d'urgence à un endroit il puisse utiliser la camionnette pour s'y rendre sans délai. Il n'est pas autorisé à se servir de son véhicule personnel pour se déplacer quand il est en mission pour Hydro et n'est pas autorisé à se servir du véhicule d'Hydro pour ses déplacements personnels. Comme on exige qu'il ait le véhicule d'Hydro à sa disposition en tout temps, l'appelant doit nécessairement s'en servir pour faire l'aller-retour entre chez lui et le garage situé à Surrey, soit une distance de 49 kilomètres dans chaque direction. Si je comprends bien, la cotisation est basée sur la proposition selon laquelle cette utilisation entre le domicile et les installations d'Hydro est une utilisation personnelle et le véhicule est mis à la disposition de l'appelant pour cette utilisation personnelle, de sorte qu'entrent en jeu les deux alinéas, 6(1)e) et 6(1)k). Ces alinéas se lisent comme suit :
+6(1) Sont à inclure dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi, ceux des éléments suivants qui sont applicables :
+a) [...]
+e) lorsque son employeur ou une personne liée à son employeur a mis au cours de l'année une automobile à sa disposition (ou à la disposition d'une personne qui lui est liée), l'excédent éventuel de la somme visée au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+(i) la somme qui représente les frais raisonnables pour droit d'usage de l'automobile pendant le nombre de jours de l'année où elle était ainsi à sa disposition,
+(ii) le total des sommes dont chacune représente une somme (autre qu'une dépense liée au fonctionnement de l'automobile) payée au cours de l'année à l'employeur ou à la personne liée à l'employeur par le contribuable ou par la personne qui lui est liée pour l'usage de l'automobile;
+f) [...]
+k) lorsqu'une somme est déterminée en application du sous-alinéa e)(i) relativement à une automobile dans le calcul du revenu du contribuable pour l'année, qu'un montant au titre du fonctionnement de l'automobile (autrement que dans l'accomplissement des fonctions de la charge ou de l'emploi du contribuable) pour la ou les périodes de l'année au cours desquelles l'automobile a été mise à sa disposition ou à la disposition d'une personne qui lui est liée est payé ou payable par l'employeur du contribuable ou par une personne liée à cet employeur (l'employeur et cette personne étant appelés « payeur » au présent alinéa) et que le total des montants ainsi payés ou payables n'est pas versé au payeur, au cours de l'année ou des 45 jours suivant la fin de l'année, par le contribuable ou par la personne qui lui est liée, le montant lié au fonctionnement de l'automobile, qui correspond au résultat du calcul suivant :
+A - B
+où :
+A représente :
+(i) dans le cas où l'automobile sert principalement dans l'accomplissement des fonctions de la charge ou de l'emploi du contribuable au cours de la ou des périodes en question et où le contribuable avise son employeur, par écrit, avant la fin de l'année de son intention de se prévaloir du présent sous-alinéa, la moitié de la somme déterminée en application du sous-alinéa e)(i) relativement à l'automobile dans le calcul du revenu du contribuable pour l'année,
+(ii) dans les autres cas, le produit de la multiplication du montant prescrit pour l'année par le nombre total de kilomètres parcourus par l'automobile (autrement que dans l'accomplissement des fonctions de la charge ou de l'emploi du contribuable) au cours de la ou des périodes en question;
+B le total des montants relatifs au fonctionnement de l'automobile au cours de l'année versés au payeur, au cours de l'année ou des 45 jours suivant la fin de l'année, par le contribuable ou par la personne qui lui est liée;
+[...]
+[4] Je n'ai aucune raison de ne pas croire au témoignage de l'appelant. Je considère que l'appelant était tenu par son employeur de garder la camionnette d'Hydrochez lui pendant les heures qu'il ne travaillait pas, de manière à l'avoir à sa disposition s'il était appelé pour s'occuper d'une urgence. Je considère aussi qu'il lui était strictement interdit d'utiliser le véhicule pour une fin autre qu'effectuer l'aller-retour entre son domicile et le garage d'Hydro et effectuer d'autres déplacements pendant qu'il était en mission comme employé d'Hydro. Ainsi, l'appelant n'entre pas selon moi dans le cadre de l'alinéa 6(1)e) de la Loi, car l'employeur ne fournit pas le véhicule à l'appelant pour que ce dernier en dispose à ses fins. Il est bien clair que dans le contexte le terme « disposition » implique que l'employé peut, à sa discrétion, utiliser l'automobile pour ses fins personnelles. Ce n'est nettement pas le cas ici. M. MacMillan n'était pas libre d'utiliser le véhicule comme bon lui semblait. Il n'était même pas libre de ne pas l'utiliser, car on exigeait qu'il l'ait à sa disposition immédiate quand il était au travail et quand il était chez lui. Je conclus que l'appelant n'a pas à être l'objet d'une cotisation incluant une somme qui représente des frais pour droit d'usage du véhicule.
+[5] L'appelant a été l'objet d'une cotisation incluant en outre un avantage au titre de l'utilisation du véhicule en vertu de l'alinéa 6(1)k) de la Loi. Toutefois, les termes introductifs de cet alinéa indiquent clairement que celui-ci s'applique seulement lorsque l'alinéa 6(1)e) est applicable. Il ne peut donc s'appliquer en l'espèce. Le ministre n'a pas établi une cotisation incluant un avantage en vertu de l'alinéa 6(1)l) dans la présente espèce, et cet alinéa n'a pas été invoqué par le sous-procureur général dans sa réponse à l'avis d'appel. Je ne me propose pas d'examiner la question de savoir si l'on pourrait dire qu'a été conféré un avantage entrant dans le cadre de cet alinéa, car ce serait injuste pour l'appelant.
+[6] L'avocate de l'intimée m'a cité un certain nombre de causes. La décision de la Cour d'appel fédérale dans l'affaire Hogg v. The Queen[1] ne s'applique pas en l'espèce. Cette décision traite simplement de l'affirmation de l'appelant dans cette affaire voulant qu'il puisse déduire de son revenu les frais engagés pour aller au travail en voiture et en revenir, soit une proposition qui est bien loin de la question qui m'est soumise. Dans chacun des autres cas, à une exception près, il semble que le contribuable avait droit au moins à une certaine utilisation personnelle du véhicule de l'employeur, de sorte que l'on pouvait considérer que ce véhicule avait, du moins dans une certaine mesure, été « mis [¼] à sa disposition » . Ces causes ne s'appliquent donc pas ici. L'exception susmentionnée est l'affaire MacMillan v. The Queen[2]. Dans cette affaire, le juge O'Connor a admis l'appel du contribuable dans des circonstances qui, à en juger par son bref exposé des faits, semblent très semblables à ce qu'il en est dans la présente espèce.
+[7] L'appel est admis. La cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelant n'a pas à se voir inclure une somme dans son revenu aux termes de l'alinéa 6(1)e) ou de l'alinéa 6(1)k).
+Signé à Ottawa, Canada, ce 31e jour d'août 2005.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 1er jour de novembre 2005.
+Marc Doyon, traducteur
+RÉFÉRENCE :
+2005CCI583
+No DU DOSSIER DE LA COUR :
+2004-4417(IT)I
+INTITULÉ DE LA CAUSE :
+James M. MacMillan et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+le 6 mai 2005
+MOTIFS DU JUGEMENT PAR :
+l'honorable juge E. A. Bowie
+DATE DU JUGEMENT :
+le 31 août 2005
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Fiona Mendoza
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+S/O
+Étude :
+S/O
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2002 DTC 7037.
+[2] 1997 CarswellNat 1558.

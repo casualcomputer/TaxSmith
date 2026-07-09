@@ -1,0 +1,192 @@
+---
+title: "Scott c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520987/index.do"
+last_modified: "2022-11-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 131"
+citation2: ""
+neutral_citation: "2022 CCI 131"
+decision_date: "2022-11-01"
+language: "fr"
+item_id: "520987"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4509
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T09:58:13.333000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5977b7e3f0cfa8d4a7598993276cbf51497490f05a566116f78051bd01c31dd5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Scott c. Le Roi
+
+- Citation: 2022 CCI 131
+- Decision date: 2022-11-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4509, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scott c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-12-08
+Référence neutre
+2022 CCI 131
+Numéro de dossier
+2021-1371(IT)I
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-1371(IT)I
+ENTRE :
+CAROLE SCOTT,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 15 septembre 2022 à North Bay (Ontario).
+Devant : L’honorable juge Ronald MacPhee
+Comparutions :
+Représentant de l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Hubert-Martin Cap-Dorcelly
+JUGEMENT
+Conformément aux motifs du jugement ci-joint, le présent appel en lien relatif à la question de savoir si l’appelante est un « parent ayant la garde partagée » et a, par conséquent, droit à la moitié de l’allocation canadienne pour enfants pour la période comprise entre mars 2018 et août 2019, est rejeté. Aucuns dépens ne seront adjugés ni à l’une ni à l’autre des parties.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2022.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+ce 19e jour d’octobre 2023.
+François Brunet, réviseur
+Référence : 2022 CCI 131
+Date : 20221101
+Dossier : 2021-1371(IT)I
+ENTRE :
+CAROLE SCOTT,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS MODIFIÉS DU JUGEMENT
+Le juge MacPhee
+[1] Notre Cour est saisie de l’appel portant sur l’Allocation canadienne pour enfants. L’appelante, Carole Scott, interjette appel de la décision rendue par le ministre du Revenu national (le « ministre »), selon laquelle elle n’était pas un parent ayant la garde partagée pour la période comprise entre mars 2018 et août 2019, aux fins de la détermination de son admissibilité à l’Allocation canadienne pour enfants (ACE), aux termes de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch.1 (5e suppl.) (la « Loi »).
+[2] Aux termes de la Loi, sous réserve de certaines conditions, la personne qui est un parent ayant la garde partagée d’un enfant a droit à la moitié du crédit relatif à l’ACE.
+Question préliminaire
+[3] L’appel devant la Cour concerne les prestations fiscales pour enfants prévues par la réglementation fédérale et la réglementation ontarienne. Notre Cour n’a pas compétence en ce qui concerne les lois de l’Ontario. La partie de l’appel portant sur la prestation fiscale pour enfants de l’Ontario sera annulée.
+Faits
+[4] L’appelante et son ex-conjoint sont divorcés. Ils ont eu ensemble deux enfants. Il sera fait référence à ces enfants comme les « filles ». En 2018, les filles étaient âgées de 16 ans et de 12 ans.
+[5] Conformément à l’ordonnance de la Cour de justice de l’Ontario à Sudbury datée du 11 mai 2015, l’appelante et son ex-conjoint avaient la garde partagée de leurs filles. De façon générale, les parents devaient avoir la garde des filles une semaine sur deux.
+[6] Au départ, les modalités de l’ordonnance du Tribunal de la famille ont été acceptées par les deux parties[1]. Il n’est pas non plus controversé qu’en septembre 2019 ou avant cette date, les deux filles ont commencé à vivre à plein temps avec leur père. L’appelante affirme que cela est arrivé en septembre 2019, au moment où elle a quitté la ville d’origine de ses filles. Elle est déménagée, en partie, pour rendre la vie plus facile à ses filles.
+[7] L’intimé soutient qu’au début de 2018, au plus tard en mars 2018, les deux filles ont commencé à habiter à plein temps avec leur père.
+[8] Les éléments de preuve produits à l’audience étaient rarement précis, que ce soit en ce qui concerne les conditions de vie de chacune des filles, ou le temps passé par chacune des filles avec l’appelante.
+[9] Trois témoins ont témoigné à l’audience. Leur témoignage, en lien avec ma décision, est passé en revue dans les lignes qui suivent.
+Témoignage de l’appelante
+[10] Une grande partie du témoignage de l’appelante a porté sur des différents familiaux et sur les difficultés qu’elle a vécues pour élever ses filles aux termes d’une entente de garde partagée.
+[11] En 2016, l’appelante a eu un fils, d’un autre partenaire. Son fils a le syndrome de Down. En raison de son horaire de travail et du manque de services de garde disponibles, l’appelante a eu beaucoup recours à ses filles durant les années 2018 et 2019 pour l’aider avec les soins prodigués à son fils. Il fallait qu’une des filles ou les deux soient présentes chez elle la plupart des jours de la semaine.
+[12] L’appelante s’appuie, en partie, sur cet arrangement pour soutenir son argument selon lequel ses filles ont habité avec elle, à titre de parent ayant la garde partagée, tout au long de 2018 et de 2019.
+[13] L’appelante a également produit quelques documents pour soutenir son allégation de garde partagée. J’ai accordé très peu de poids à la plupart des documents sur lesquels elle s’appuie.
+[14] Un des documents, provenant de l’équipe de santé familiale des filles, indiquait que la plus jeune des filles habitait avec son père, sans aucune mention concernant la plus vieille des filles. Ces notes indiquent également que ses filles ne voulaient pas habiter avec elle. Ces notes ont semblé parfois contradictoires et n’ont pas aidé l’appelante.
+[15] Dans le corps des notes, il est fait mention d’une infirmière qui aurait parlé aux filles, lesquelles auraient indiqué vivre avec leur père pour la période en question. Les documents indiquaient qu’après plusieurs échanges entre l’équipe de santé familiale et l’appelante, l’équipe ne pouvait déterminer à quelle date les filles ont commencé à habiter avec leur père à plein temps.
+[16] L’appelante a également déposé en preuve une lettre du cabinet de dentiste des filles indiquant que l’adresse au dossier pour les filles était la sienne. Une lettre de la commission scolaire indiquait que les filles habitaient avec leur mère et leur père. Enfin, une note d’une voisine a été déposée pour soutenir l’argument de l’appelante selon lequel la garde partagée a duré jusqu’en septembre 2019. Cette note manquait de détails, mais l’auteur indiquait qu’elle pensait que les filles avaient vécu en alternance chez leurs deux parents durant l’année en cause.
+[17] L’appelante reconnaît que la plus âgée de ses filles a quitté la maison à divers moments en 2018 et 2019. Toutefois, elle soutient que la plus âgée de ses filles est toujours revenue chez elle. Quant à la plus jeune des filles, l’appelante a simplement indiqué dans son témoignage que sa fille avait habité avec elle durant au moins 50 % du temps jusqu’en septembre 2019.
+[18] En contre-interrogatoire, l’appelante a reconnu qu’un incident malheureux (l’« incident ») s’était produit entre l’une de ses filles et le père de son fils (qui résidait au domicile familial entre 2016 et 2018, mais pas de manière continue). En raison de cet incident, survenu en septembre 2016, l’homme a dû quitter la maison familiale. Toutefois, il a été autorisé à revenir à la maison familiale quelques mois plus tard. En janvier 2018, il a quitté la maison de l’appelante pour de bon.
+[19] Cet incident a joué un grand rôle dans le déroulement des événements par la suite.
+[20] La plus âgée des filles de l’appelante a ensuite témoigné. Elle avait 20 ans au moment de l’audience. Je conclus que son témoignage était le plus fiable de tous les témoignages entendus. Contrairement à l’appelante ou à son ex-conjoint, elle a semblé n’entretenir aucune animosité à l’égard de l’une ou l’autre des parties. Je reconnais que son intention était de décrire ce qui s’est réellement passé aux termes de l’entente sur les conditions de logement.
+[21] Même si elle a parfois été vague sur les dates, la fille de l’appelante a tenté d’être aussi précise que le permettaient ses souvenirs.
+[22] Elle a affirmé que l’incident les a laissées, elle et sa sœur, ébranlées. Elle a d’abord réagi en agissant de manière très insolente avec le partenaire de sa mère quand il était dans la maison de sa mère.
+[23] Elle a indiqué dans son témoignage qu’elle avait emménagé chez son père avant janvier 2018. Elle a déclaré que sa jeune sœur avait également emménagé chez son père [traduction] « quelques mois après janvier 2018 ». Elle a plus tard affirmé que sa jeune sœur avait emménagé avec son père quelque part en 2018.
+[24] L’ex-conjoint de l’appelante a également témoigné. Il a déclaré que ses filles ont vécu chez lui et chez l’appelante sur une base égale pendant une certaine période, conformément à l’ordonnance de la Cour. Cet arrangement a duré jusqu’en 2018. En 2018, les conditions de vie des filles ont changé, à leur demande. Les deux filles ont emménagé chez lui à plein temps. Il a aussi déclaré que l’incident a été très traumatisant pour la plus jeune des filles, et que cela l’a amené à habiter uniquement avec lui, quelque part au début de 2018.
+[25] Le père a fait état de quelques éléments convaincants pour appuyer ses souvenirs. Il a affirmé qu’à de nombreuses occasions, l’appelante a communiqué avec la Société d’aide à l’enfance (la SAE) en raison de ses inquiétudes concernant les conditions de vie de ses filles chez lui. Il a affirmé que la SAE n’a jamais constaté de problèmes. Toutefois, en raison de ses visites fréquentes, la SAE a été en mesure de confirmer que les filles vivaient chez lui à plein temps. Une lettre datée du 5 décembre 2019 envoyée par le bureau de Sudbury de la SAE confirme que les filles vivaient chez lui à plein temps depuis [traduction] « environ février 2018 ».
+[26] J’ai examiné cette lettre en gardant à l’esprit le paragraphe 18(3) de la Loi sur la Cour canadienne de l’impôt[2]. Aux termes du paragraphe 18(3), je dispose d’un vaste pouvoir discrétionnaire me permettant d’entendre la preuve, y compris la preuve par ouï-dire. Je constate que la lettre de la SAE constitue un élément de preuve pertinent et fiable concernant la question dont la Cour est saisie.
+[27] Après examen de tous les éléments de preuve fournis, j’ai conclu que l’appelante a donné très peu de détails appuyant ses allégations selon lesquelles les filles habitaient avec elle aux termes d’une entente de garde partagée pour la période en cause.
+Analyse [28] L’allocation canadienne pour enfants (ACE) est un versement mensuel non imposable faits aux familles pour les aider à subvenir aux besoins de leurs enfants de moins de 18 ans. Un versement distinct est fait pour chaque enfant. Les versements se font sur une période de 12 mois, qui débute en juillet et se termine en juin de l’année suivante. Le montant de l’ACE est déterminé en fonction du revenu du parent, du nombre d’enfants pour lesquels la prestation est demandée et de l’âge des enfants. L’ACE diminue graduellement à mesure que les niveaux de revenus augmentent, ciblant ainsi les familles à faible et à moyen revenu.
+[29] La Loi contient les définitions de plusieurs expressions. Le « particulier admissible » à l’égard de la « personne à charge admissible » reçoit l’ACE si son « revenu modifié » était suffisamment faible durant l’« année de base » pertinente.
+[30] La question en litige en l’espèce est celle de savoir si l’appelante était un particulier admissible.
+[31] En règle générale, les « particuliers admissibles » se subdivisent en trois catégories :
+(a)Si les parents vivent ensemble, le parent féminin est considéré comme le « particulier admissible » et reçoit le plein montant de l’ACE.
+(b)Si les parents sont séparés et un parent est principalement responsable du soin et de l’éducation de l’enfant, ce parent est le « particulier admissible » et il a droit au plein montant de l’ACE.
+(c)Si les parents sont séparés et ils sont des « parent[s] ayant la garde partagée », ils sont tous deux des « particulier[s] admissible[s] » et ont droit chacun à la moitié du plein montant de l’ACE.
+[32] L’appelante soutient qu’elle était un parent ayant la garde partagée pour la période en cause devant la Cour.
+Parent ayant la garde partagée
+[33] Comme il est indiqué ci-dessus, quand les parents sont des « parents ayant la garde partagée », ils sont tous les deux considérés comme des « particuliers admissibles ». Par application de la formule prévue par le paragraphe 122.61(1.1) de la Loi, chacun d’eux reçoit 50 % de l’ACE.
+[34] L’expression « parent ayant la garde partagée » est définie de la façon suivante :
+Parent ayant la garde partagée S’entend [...] du particulier qui est l’un des deux parents de la personne à charge qui, à la fois :
+a) ne sont pas, à ce moment, des époux ou conjoints de fait visés l’un par rapport à l’autre;
+b) résident avec la personne à charge :
+(i) soit au moins 40 % du temps au cours du mois qui comprend le moment donné,
+(ii) soit sur une base d’égalité approximative;
+c) lorsqu’ils résident avec la personne à charge, assument principalement la responsabilité pour le soin et l’éducation de celle-ci, ainsi qu’il est déterminé d’après des critères prévus par règlement.
+[35] Cette définition comporte trois éléments : les parents ne doivent pas habiter ensemble, l’enfant doit résider avec le parent, et le parent doit assumer principalement la responsabilité pour le soin et l’éducation de l’enfant pendant qu’il réside avec lui.
+[36] Je ne m’arrêterai pas au critère portant sur « le soin et l’éducation ». L’intimé soutient que les filles ne résidaient pas avec l’appelante durant la période comprise entre mars 2018 et septembre 2019; l’appelante n’était donc pas admissible à l’ACE.
+Résider avec la personne à charge
+[37] Pour satisfaire à l’obligation de résider avec la personne à charge, le parent doit résider avec l’enfant :
+(a)soit au moins 40 % du temps au cours du mois qui comprend le moment donné,
+(b)soit sur une base d’égalité approximative.
+[38] L’appelante n’est pas très convaincante quand elle prétend que les filles ont habité avec elle sur une base d’égalité. Il est important de souligner que l’ACE est versée pour chaque enfant. Ainsi, l’admissibilité est déterminée pour chaque enfant, et un parent peut être un « particulier admissible » dans le cas d’un enfant mais pas dans le cas d’un autre.
+[39] En me fondant sur les éléments de preuve suivants, je conclus qu’aucune des deux filles ne résidait avec sa mère au moins 40 % du temps au début de 2018 :
+(i)Le témoignage de la plus vieille des filles. Comme je l’ai souligné ci-dessus, j’ai jugé qu’elle était impartiale et son témoignage n’a, en grande partie, pas été contesté. Elle a clairement indiqué qu’au début de 2018, elle ne résidait pas avec sa mère. Elle a également affirmé que sa sœur ne résidait pas avec sa mère au début de 2018 (et elle a affirmé plus tard que sa sœur avait cessé d’habiter avec sa mère quelque part en 2018). En 2018, les deux filles ont déménagé leurs affaires chez leur père, et dormaient chez lui. Son témoignage est logique et corroboré par la date de l’incident. Les filles ont été troublées par le fait que l’ancien petit ami de l’appelante avait été autorisé à revenir vivre chez leur mère pendant qu’elles y habitaient. Cela les a amenées, en partie, à résider avec leur père à plein temps au début de 2018.
+(ii)Le témoignage de l’appelante ne contenait pas suffisamment de détails quant à la période durant laquelle ses filles ont résidé avec elle. Elle a clairement indiqué que ses filles étaient présentes chez elle sur une base quotidienne, mais a fait état de très peu d’éléments montrant qu’elles habitaient chez elle durant la période en cause.
+(iii)Le témoignage de l’ex-conjoint appuyait la thèse de l’intimé. Il est clair que les filles ont été grandement touchées par l’incident, ce qui les a amenées à résider avec lui à plein temps après l’incident. Selon son témoignage, tout cela s’est passé au début de 2018. Comme je l’ai souligné ci-dessus, je conclus que la correspondance avec la SAE est convaincante et qu’elle appuie le fait que les filles ont résidé avec leur père à plein temps dès le début de 2018.
+[38] Malheureusement pour l’appelante, lorsque les éléments de preuve sont clairs, ils appuient l’idée que les filles ont cessé de résider avec l’appelante à partir du début de 2018. Je reconnais que les filles allaient chez l’appelante sur une base presque quotidienne, à la fois pour prendre soin de leur jeune demi-frère et pour rendre visite à leur mère. Néanmoins, je reconnais également qu’elles retournaient ensuite chez leur père où elles conservaient leurs affaires et où elles résidaient.
+[39] Par conséquent, je dois rejeter l’appel.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2022.
+Les présents motifs modifiés du jugement remplacent les motifs du jugement daté du 1er novembre 2022.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+ce 19e jour d’octobre 2023.
+François Brunet, réviseur
+RÉFÉRENCE :
+2022 CCI 131
+NO DU DOSSIER DE LA COUR :
+2021-1371(IT)I
+INTITULÉ :
+CAROLE SCOTT c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+North Bay (Ontario)
+DATE DE L’AUDIENCE :
+Le 15 septembre 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Ronald MacPhee
+DATE DU JUGEMENT : DATE DES MOTIFS MODIFIÉS DU JUGEMENT :
+Le 1er novembre 2022 Le 8 décembre 2022
+COMPARUTIONS :
+Représentant de l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Hubert-Martin Cap-Dorcelly
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Avocat de l’intimé :
+Nathalie G. Drouin Sous-procureure générale du Canada Ottawa, Canada
+[1] Dans la décision Nixon v. Nixon, 2014 CarswellSask 601 (Sask QB), la Cour a conclu que la question de savoir si un parent est un parent ayant la garde partagée relève du comportement du contribuable et non uniquement des modalités d’une entente de séparation. Par conséquent, je dois chercher à comprendre ce qui s’est réellement passé, au-delà de l’entente de séparation.
+[2] Loi sur la Cour canadienne de l’impôt, L.R.C. (1985), ch. T-2. Le paragraphe 18(3) de la Loi sur la Cour canadienne de l’impôt précise que la Cour n’est pas liée par les règles de preuve, ce qui me confère un vaste pouvoir discrétionnaire me permettant de retenir ou non les éléments de preuve proposés; ce pouvoir discrétionnaire doit être appliqué tout en garantissant l’équité à toutes les parties qui comparaissent devant la Cour.

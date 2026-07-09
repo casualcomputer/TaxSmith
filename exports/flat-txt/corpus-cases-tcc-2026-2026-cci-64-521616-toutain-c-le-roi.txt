@@ -1,0 +1,127 @@
+Title: Toutain c. Le Roi
+Source: https://norma.lexum.com/tcc-cci/decisions/fr/item/521616/index.do
+Corpus path: corpus/cases/tcc/2026/2026-cci-64-521616-toutain-c-le-roi.md
+Document type: case_law
+Last modified: 2026-04-14
+
+# Toutain c. Le Roi
+
+- Citation: 2026 CCI 64
+- Decision date: 2026-04-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5523, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Toutain c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2026-04-14
+Référence neutre
+2026 CCI 64
+Numéro de dossier
+2025-1697(IT)APP
+Juges et Officiers taxateurs
+Michael U. Ezri
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2025-1697(IT)APP
+ENTRE :
+JOHN TOUTAIN,
+requérant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel conférence de gestion de l’audience tenue le 7 avril 2026,
+et audition tenue le 8 avril 2026, à Montréal (Québec)
+Devant : L’honorable juge Michael U. Ezri
+Comparutions :
+Pour le requérant :
+Le requérant lui-même
+Avocate de l'intimé :
+Me Alice Zhao Jiang
+ORDONNANCE
+Après lecture du consentement à jugement déposé le 2 avril 2026;
+LA COUR ORDONNE CE QUI SUIT :
+La demande de prorogation de délai pour interjeter appel à l’encontre de la nouvelle cotisation établie le 11 juillet 2024 est accordée;
+Le requérant déposera un avis d’appel à l’encontre de la nouvelle cotisation établie le 11 juillet 2024, au plus tard le 15 mai 2026;
+Le requérant renonce à son droit d’appel de la nouvelle cotisation datée du 17 mars 2025;
+Le tout, sans frais.
+Signé ce 14e jour d’avril 2026.
+« Michael Ezri »
+Juge Ezri
+Référence : 2026 CCI 64
+Date : 20260414
+Dossier : 2025-1697(IT)APP
+ENTRE :
+JOHN TOUTAIN,
+requérant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DE L’ORDONNANCE
+Juge Ezri
+[1] Les parties ont déposé un consentement à jugement qui permet au requérant d’interjeter appel d’une cotisation établie le 11 juillet 2024 pour son année d’imposition 2022, tout en confirmant que le requérant ne déposera pas d’appel contre la cotisation établie le 17 mars 2025 relativement à la même année d’imposition.
+[2] Généralement, la Cour accepterait un consentement sans formuler de commentaires. Toutefois, le présent consentement soulève des questions techniques qui justifient des motifs écrits afin d’expliquer comment le requérant peut interjeter appel d’une cotisation qui n’était pas la dernière établie pour l’année d’imposition 2022.
+[3] L’année d’imposition 2022 a fait l’objet d’une cotisation initiale le 6 avril 2023. La cotisation du 11 juillet 2024 (la Deuxième cotisation) a ajouté une pénalité ainsi que des intérêts pour production tardive du formulaire T1135. Le requérant s’est dûment opposé à cette cotisation, laquelle a été confirmée le 10 février 2025.
+[4] Le 17 mars 2025, le ministre a produit une ‘nouvelle cotisation’ (la Troisième Cotisation) pour l’année 2022. Cette Troisième Cotisation a ajouté des montants de revenus imposables provenant de dividendes étrangers. Cette cotisation ne faisait pas référence à la pénalité cotisée selon la Deuxième Cotisation.
+[5] Le requérant a déposé un avis d’opposition à la Troisième Cotisation. Toutefois, l’Agence du revenu du Canada (l’« ARC ») a déclaré cet avis invalide, ce qui ne constituait pas la démarche appropriée. L’ARC a par la suite reconnu son erreur et a confirmé la Troisième Cotisation.
+[6] Le 14 août 2025, le requérant a déposé auprès de cette Cour deux documents. Le premier, intitulé « Motifs de la demande de prorogation du délai », sollicitait une prorogation afin de contester la décision de l’ARC rendue le 10 février 2025. Il s’agissait en réalité d’une demande de prorogation du délai pour interjeter appel de la Deuxième Cotisation.
+[7] Le deuxième document, intitulé « Motifs de l’appel », contestait la Troisième Cotisation de 17 mars 2025.
+[8] C’est difficile à comprendre pourquoi M. Toutain a demandé une prorogation pour appeler contre la Deuxième Cotisation, alors qu’il a déposé un appel contre la Troisième Cotisation. Il semble s’agir d’une erreur. Cela dit, selon moi, il en résulte ce qui suit :
+Le requérant a déposé une prorogation pour interjeter appel contre la Deuxième Cotisation; et
+Parallèlement, il a déposé un appel contre la Troisième Cotisation.
+[9] Normalement, il n’est pas possible d’avoir deux appels portant sur deux cotisations pour la même année d’imposition, mais il existe certains cas d’exception.
+[10] Selon l’arrêté Abrahams c R et plus récemment, 684761 BC Inc. c R., la Deuxième Cotisation aurait dû remplacer la Première Cotisation.[1]
+[11] Toutefois ceci n’est plus invariablement le cas. L’ARC peut parfois établir une « cotisation supplémentaire » qui ajoute un montant pour une année, mais qui ne change pas les autres montants cotisés pour l’année, et ce en vertu du paragraphe 152(4) de la Loi de l’impôt,.
+[12] La Deuxième Cotisation constitue un exemple de « cotisation supplémentaire ». L’ARC y a ajouté une pénalité, sans toutefois modifier les montants d’impôt cotisés pour l’année. J’arrive à cette conclusion malgré le fait que l’avis relatif à la Deuxième Cotisation porte le titre « Nouvelle cotisation », plutôt que celui qu’il aurait dû porter, soit « cotisation supplémentaire ».
+[13] La question de savoir s’il s’agit d’une nouvelle cotisation ou d’une cotisation supplémentaire est une question de fait, et non une question de droit. Il est donc nécessaire de considérer les faits et les circonstances qui entourent l’établissement de la cotisation. Dans l’affaire Lambert la cour a cité le passage suivant de l’arrêt Walkem :
+Au contraire, la véritable distinction réside à mon avis, comme l’affaire Abrahams (précitée) le laisse entendre, dans le fait de décider si la nouvelle cotisation remplace complètement toutes les cotisations ou nouvelles cotisations précédentes, de telle sorte qu’il n’y a plus aucune question litigieuse soumise à la Commission ou à la Cour sur ces cotisations ou nouvelles cotisations précédentes, auquel cas la Commission ou la Cour n’a plus aucune compétence pour connaître de l’appel primitif, ou si, au contraire, elle constitue simplement une cotisation supplémentaire pour un montant supplémentaire qui pouvait peut-être se fonder sur un point différent, auquel cas la cotisation ou nouvelle cotisation primitive n’a pas été remplacée et le point en litige qu’elle soulève peut toujours être plaidé, laissant la possibilité de l’audition d’un appel interjeté contre la seconde cotisation nouvelle à une date ultérieure, à moins que l’on ne convienne de les joindre pour audition. [2]
+[14] La Cour dans l’affaire Lambert a ajouté : « Au vu de ces commentaires, il est nécessaire d’examiner plus attentivement les « nouvelles cotisations » du 7 mai 1974. » La cour a ensuite examiné attentivement les faits et les cotisations qui lui ont été présenté.[3]
+[15] En l’espèce, rien dans la Deuxième Cotisation n’indique qu’elle remplaçait la Première Cotisation. À titre d’exemple, la Première Cotisation imposait plus de 22 000 $ d’impôt fédéral, alors que la Deuxième Cotisation indiquait un montant d’impôt fédéral nul. L’explication figurant à la suite des chiffres précise plutôt qu’une pénalité a été imposée en raison de la production tardive.
+[16] Pour finir, il faut considérer si la Troisième Cotisation a remplacé la Deuxième Cotisation avec une cotisation ne comportant aucune pénalité. Les arrêts comme Abraham peuvent donner l’impression qu’une nouvelle cotisation remplace toujours tout qui est venu avant, mais ce n’est pas le cas. Conformant aux arrêts comme Lambert, il est nécessaire de tenir compte des faits saillants.
+[17] Dans 684761 BC Inc. c R. on retrouve le cas d’une nouvelle cotisation suivie par une cotisation supplémentaire qui ajouta une pénalité. En l’espèce, la séquence est inversée : une cotisation supplémentaire imposant une pénalité a été suivie d’une nouvelle cotisation. Les faits dans l’arrêt Fiset[4] s’apparentent davantage à ceux du présent dossier. Dans Fiset, en October 2014, le ministre a établi des cotisations selon l’article 162(7).[5] Deux ans plus tard, soit le 18 juillet 2016, le ministre a établi de nouvelles cotisations qui n’ont pas remplacé les cotisations relatives aux pénalités, mais qui ont plutôt modifié d’autres éléments du calcul du revenu imposable. La Cour n’a pas annulé les cotisations de pénalité antérieures; elle a plutôt accueilli les appels s’y rapportant au motif que les pénalités n’étaient pas justifiées.
+[18] En l’espèce, l’ARC a confirmé la Deuxième Cotisation le 10 février 2025. Un peu plus d’un mois plus tard, soit le 17 mars 2025, l’ARC a établi la Troisième Cotisation, laquelle ne contenait aucune mention de la pénalité. Il est théoriquement possible qu’entre le 10 février et le 17 mars 2025, l’ARC ait changé d’avis et décidé d’abandonner une pénalité qu’elle venait pourtant de confirmer; toutefois, cette hypothèse me paraît peu convaincante. L’affidavit de l’agent des litiges de l’ARC confirme plutôt que la Troisième Cotisation a été établie afin de cotiser des dividendes étrangers. Ainsi, même si la Troisième Cotisation constitue une nouvelle cotisation, elle ne remplace pas la Deuxième Cotisation. Les deux cotisations coexistent : l’une vise à cotiser le revenu imposable du contribuable, tandis que l’autre a pour objet l’imposition d’une pénalité pour production tardive d’un formulaire.
+[19] En conséquence, M. Toutain peut contester la Deuxième Cotisation, laquelle vise l’imposition de la pénalité, sans avoir à contester la Troisième Cotisation. Conformément au contenu du consentement à jugement déposé par les parties, il bénéficie en outre d’une prorogation du délai pour interjeter appel de cette Deuxième Cotisation.
+Signé ce 14e jour d’avril 2026.
+« Michael Ezri »
+Juge Ezri
+RÉFÉRENCE :
+2026 CCI 64
+Nº DU DOSSIER DE LA COUR :
+2025-1697(IT)APP
+INTITULÉ DE LA CAUSE :
+JOHN TOUTAIN ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 7 et le 8 avril 2026
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Michael U. Ezri
+DATE DE L’ORDONNANCE :
+Le 14 avril 2026
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui-même
+Avocate de l'intimée :
+Me Alice Zhao Jiang
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appellant:
+Nom :
+N/A
+Cabinet :
+N/A
+Pour l’intimé :
+Marie-Josée Hogue
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] 684761 BC Ltd. v R. 2015 TCC 288.
+[2] R c Lambert, [1974] 1 CF 693, par 4, citant, Walkem c Ministre du Revenu National 71 DTC 5288 (CF, Première Instance) para 11.
+[3] Ibid, para 5.
+[4] Fiset c R 2017 CCI 63.
+[5] Ibid, para 4.

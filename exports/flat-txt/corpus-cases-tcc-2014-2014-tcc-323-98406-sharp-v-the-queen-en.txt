@@ -1,0 +1,159 @@
+Title: Sharp v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/98406/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-323-98406-sharp-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-10-31
+
+# Sharp v. The Queen
+
+- Citation: 2014 TCC 323
+- Decision date: 2014-10-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5260, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sharp v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-10-31
+Neutral citation
+2014 TCC 323
+File numbers
+2013-2770(GST)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-2770(GST)I
+BETWEEN:
+ANDREA SHARP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 20, 2014, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Richard Yasny
+Counsel for the Respondent:
+Aaron Tallon
+Lesley L'Heureux
+JUDGMENT
+The Appeal from the assessment made under the Excise Tax Act, for the period from August 1, 2011 to August 31, 2011 denying the Appellant the New Housing Rebate, is dismissed.
+Signed at Ottawa, Canada, this 31st day of October 2014.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2014 TCC 323
+Date: 20141031
+Docket: 2013-2770(GST)I
+BETWEEN:
+ANDREA SHARP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] The Respondent denied Ms. Sharp the New Housing Rebate of $24,000 on the purchase of a new home in Milton, Ontario in 2011. The Respondent did so on the basis that the conditions in section 254(2) of the Excise Tax Act (the “Act”), that would have entitled Ms. Sharp to the rebate were not met. Specifically, the Respondent found that because an unrelated business colleague of Ms. Sharp’s, Mr. Da Silva, signed an Agreement of Purchase and Sale with no intention of moving into the house and in fact never did become an owner, the rebate is not available to Ms. Sharp. Ms. Sharp contends that the home was always intended to be for her parents and Mr. Da Silva only signed the Agreement of Purchase and Sale in case Ms. Sharp’s parents opted not to buy the house and she would then have needed his financial help.
+[2] A brief explanation of the facts will clarify this unusual situation. In 2010, Ms. Sharp was a single mother living in Milton, Ontario. Her parents from Mississauga would commute regularly to Milton to help care for the children. A new development was to be constructed just a block away from Ms. Sharp’s home. The lots were enthusiastically sought after. Due to one potential buyer backing out, Ms. Sharp, a real estate broker herself, quickly stepped in to make an offer on May 20, 2010 (for closing in the summer of 2011) on a lot just a block away from her own home. She intended this to be her parents’ home. Upon announcing this transaction to her mother in May 2010, her mother balked at the idea. Ms. Sharp testified that her mother’s reaction was not a complete surprise but she had every expectation that her parents would come around.
+[3] To hedge her bets (my words not hers), Ms. Sharp spoke to a friend and business colleague, Mr. Da Silva, who agreed to go 50/50 with her on the new home, in the event the parents opted not to buy the house jointly with Ms. Sharp. On May 21, 2010, the day after Ms. Sharp signed the Agreement of Purchase and Sale, she and Mr. Da Silva signed an amendment, adding Mr. Da Silva as a purchaser. The builder, Mattamy Homes (“Mattamy”), signed the Agreement of Purchase and Sale on May 25, 2010.
+[4] Mr. Da Silva testified that he too believed Ms. Sharp’s parents would come around, but he felt he could not lose in the then market if it came to pass that he bought the property on a 50/50 basis with Ms. Sharp. It was clear he was helping a friend in case she got in financial trouble, but also clear that it would be an investment for him if Ms. Sharp’s parents did not proceed. He believed his best security was to sign on as a purchaser.
+[5] Ms. Sharp made all the deposit payments and negotiated any upgrades.
+[6] By January 2011, Ms. Sharp’s parents saw the light and agreed they would buy the house with Ms. Sharp. Mr. Da Silva was prepared to step out of the picture at that point. Ms. Sharp contacted Mattamy to have Mr. Da Silva taken off the Agreement of Purchase and Sale as a purchaser and have her parents added. Mattamy was prepared to add the parents, but not prepared to remove Mr. Da Silva. Ms. Sharp tried several times to persuade Mattamy to remove Mr. Da Silva as a purchaser under the Agreement of Purchase and Sale. It was against their policy to do so. According to Mr. Culbert, the Mattamy representative who testified, Mattamy felt more secure financially with more purchasers on the hook, and only if there was a valid reason such as a bank refusing financing if a certain individual remained a purchaser, would Mattamy consider removing a purchaser from the Agreement of Purchase and Sale. Interestingly, Mr. Culbert explained this to Ms. Sharp in a letter of January 26, 2013:
+Upon reviewing the correspondence from Canada Revenue Agency that you provided to us, it is now clear that you are not eligible for the HST rebate as Mr. Da Silva is not a relation of your parents. Regrettably, this fact was either not considered or not brought to Mattamy’s attention as an impediment to you receiving the rebate at time of closing. In hindsight, knowing what we know now, Mattamy would in all likelihood have allowed Mr. Da Silva’s name to be removed from the purchase agreement, thus allowing you to be eligible for the rebate.
+[7] Mr. Culbert acknowledged that Mattamy knew Mr. Da Silva would not own the property.
+[8] When the property was ready for possession, in late summer 2011, Ms. Sharp, Mr. Da Silva and Ms. Sharp’s parents all signed a direction re title authorizing Mattamy and their lawyers to transfer title to Ms. Sharp and her parents. The parents took possession August 21, 2011 and title was transferred to them and Ms. Sharp. The parents remain in the premises.
+[9] Ms. Sharp signed the rebate application that had been filled in by Mattamy showing herself, Mr. Da Silva and Ms. Sharp’s parents as owners. The rebate application was rejected by the Canada Revenue Agency (“CRA”) by letter of August 15, 2012 citing:
+We have completed our review of the GST/HST New Housing Rebate filed on your behalf for 353 Peregrine Way, Milton, Ontario by Mattamy Homes. In order to qualify for the GST/HST New Housing Rebate, section 254 of the Excise Tax Act requires the property must be used as a primary place of residence for all of the purchasers or qualifying relations. Since José Da Silva did not intend to make this property his primary place of residence you are not eligible for the rebate.
+[10] Is Ms. Sharp entitled to the New Housing Rebate?
+[11] I will first produce the relevant legislation. Section 254(2) of the Act sets out the requirements for the rebate. It reads:
+254(2) Where
+(a) a builder of a single unit residential complex or a residential condominium unit makes a taxable supply by way of sale of the complex or unit to a particular individual,
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+(c) the total (in this subsection referred to as the “total consideration”) of all amounts, each of which is the consideration payable for the supply to the particular individual of the complex or unit or for any other taxable supply to the particular individual of an interest in the complex or unit, is less than $450,000,
+(d) the particular individual has paid all of the tax under Division II payable in respect of the supply of the complex or unit and in respect of any other supply to the individual of an interest in the complex or unit (the total of which tax under subsection 165(1) is referred to in this subsection as the “total tax paid by the particular individual”),
+(e) ownership of the complex or unit is transferred to the particular individual after the construction or substantial renovation thereof is substantially completed,
+(f) after the construction or substantial renovation is substantially completed and before possession of the complex or unit is given to the particular individual under the agreement of purchase and sale of the complex or unit
+(i) in the case of a single unit residential complex, the complex was not occupied by any individual as a place of residence or lodging, and
+(ii) in the case of a residential condominium unit, the unit was not occupied by an individual as a place of residence or lodging unless, throughout the time the complex or unit was so occupied, it was occupied as a place of residence by an individual, or a relation of an individual, who was at the time of that occupancy a purchaser of the unit under an agreement of purchase and sale of the unit, and
+(g) either
+(i) the first individual to occupy the complex or unit as a place of residence at any time after substantial completion of the construction or renovation is
+(A) in the case of a single unit residential complex, the particular individual or a relation of the particular individual, and
+(B) in the case of a residential condominium unit, an individual, or a relation of an individual, who was at that time a purchaser of the unit under an agreement of purchase and sale of the unit, or
+(ii) the particular individual makes an exempt supply by way of sale of the complex or unit and ownership thereof is transferred to the recipient of the supply before the complex or unit is occupied by any individual as a place of residence or lodging,
+the Minister shall, subject to subsection (3), pay a rebate to the particular individual …
+[12] It is also useful to produce section 262(3) of the Act. It reads:
+262(3) If
+(a) a supply of a residential complex or a share of the capital stock of a cooperative housing corporation is made to two or more individuals, or
+(b) two or more individuals construct or substantially renovate, or engage another person to construct or substantially renovate, a residential complex,
+the references in sections 254 to 256 to a particular individual shall be read as references to all of those individuals as a group, but only one of those individuals may apply for the rebate under section 254, 254.1, 255 or 256, as the case may be, in respect of the complex or share.
+[13] Finally, section 133 of the Act stipulates:
+133. For the purposes of this Part, where an agreement is entered into to provide property or a service,
+(a) the entering into of the agreement shall be deemed to be a supply of the property or service made at the time the agreement is entered into; and
+(b) the provision, if any, of property or a service under the agreement shall be deemed to be part of the supply referred to in paragraph (a) and not a separate supply.
+[14] Taken together, this legislation provides that to qualify for the rebate all members of a group (the “particular individual” referred to in section 254(2)(b) of the Act) who assumed liability under an Agreement of Purchase and Sale did so on the basis the property would be used as a primary place of residence for the “particular individual” or a relation, and such a person first occupied the property. The question boils down to whether in these circumstances Mr. Da Silva was part of the group that constituted the “particular individual”. If so, the conditions for a rebate have not been met.
+[15] The Appellant argues that Mr. Da Silva was not part of the group comprising the “particular individual” because he was not a buyer under the Agreement of Purchase and Sale but simply an agent or a bare trustee. Mr. Yasny, Appellant’s counsel, lists the following facts as supporting that proposition:
+a) Mr. Da Silva did not intend to take title.
+b) He did not expect to have an interest in the new home.
+c) He paid no part of the down payment.
+d) He did not sign the amendment for the upgrades, though it increased the purchase price by $41,000 and the builder accepted this change as validly signed by all purchasers.
+e) He abandoned his role on the Agreement of Purchase and Sale as soon as the parents agreed to go forward with the purchase and he assigned his interest to the Appellant and her parents, at their request, as soon as the builder afforded the chance, through the direction re title.
+f) When he signed the direction re title, directing title solely to the Appellant and her parents, he was not paid a share of the accrued gain.
+[16] The Appellant argues this proves Ms. Sharp retained the right to control and direct Mr. Da Silva in all matters relating to the property – a criteria for bare trustee found in GST/HST Technical Interpretation Bulletin B-068. I disagree.
+[17] I do not find these facts support a finding that Mr. Da Silva was not the “particular individual”. At the time he signed the Agreement of Purchase and Sale, Ms. Sharp’s parents had made it clear they were not going to buy the property. He and Ms. Sharp had a 50/50 deal. Mr. Da Silva had obliged himself to Mattamy. Notwithstanding he and Ms. Sharp had an expectation (borne out as it turned out) that the parents would ultimately step in and he would step out, he personally was on the hook to Mattamy. Ms. Sharp had no control or direction over Mr. Da Silva in that regard. An informal understanding between Mr. Da Silva and Ms. Sharp did not create a trust or agency relationship.
+[18] Mr. Yasny went on to suggest that Mr. Da Silva was not the “particular individual” because his interest was subject to the parents’ refusal to close. However, at the time he signed the Agreement of Purchase and Sale there was no “subject to” as the parents had not agreed to be part of the deal. At that stage, it was an agreement for Ms. Sharp and Mr. Da Silva to buy an investment property. The parents’ refusal was not, as portrayed by Mr. Yasny, a condition precedent to Mr. Da Silva’s interest. Upon signing the Agreement of Purchase and Sale, Mr. Da Silva had the same right as Ms. Sharp as a purchaser of the property, notwithstanding he had provided no deposit or been involved in determining upgrades.
+[19] Mr. Yasny suggests there are two contracts at play: the one between Mattamy and Mr. Da Silva and one between Ms. Sharp and Mr. Da Silva. There is certainly no condition precedent in the first contract. And, I am not convinced there is even in the latter. It was the reverse of a condition precedent. By signing the Agreement of Purchase and Sale together, Ms. Sharp and Mr. Da Silva effectively agreed they were buyers unless and until Ms. Sharp’s parents stepped in to replace Mr. Da Silva on the Agreement of Purchase and Sale. Presumably that would bring their agreement to an end. I fail to see how that is a condition precedent as described by Justice Lamarre in Lepage v The Queen:[1]
+A contract subject to a condition precedent does not become enforceable unless the condition has been satisfied or the parties have waived it.
+This is simply not the situation before me.
+[20] Was Mr. Da Silva’s status as a purchaser somehow altered by the amendment to the Agreement of Purchase and Sale in 2011 adding the parents as purchasers? As far as Ms. Sharp and Mr. Da Silva were concerned this ended his interest in the property. Unfortunately, Mattamy did not see it that way, even though Mattamy recognized that Mr. Da Silva would not become an owner and wanted to be removed from the Agreement of Purchase and Sale. The Appellant argues that at that stage Mr. Da Silva simply became a guarantor of payment.
+[21] To reach that result, I would have to find the agreement between Mr. Da Silva and Mattamy had been amended. But it had not. Mattamy did not look to Mr. Da Silva as a guarantor; Mattamy specifically kept him on the Agreement of Purchase and Sale as a purchaser. There was no amendment.
+[22] Finally, Mr. Yasny relies on section 134 of the Act which reads:
+For the purposes of this Part, where, under an agreement entered into in respect of a debt or obligation, a person transfers property or an interest in property for the purpose of securing payment of the debt or performance of the obligation, the transfer shall be deemed not to be a supply, and where, on payment of the debt or performance of the obligation or the forgiveness of the debt or obligation, the property or interest is retransferred, the retransfer of the property or interest shall be deemed not to be a supply.
+This does not apply: there has been no transfer of an interest in property to secure payment.
+[23] I was also referred to the cases of Davidson v The Queen[2] and Goyer v The Queen,[3] cases I had distinguished in my reasons in Rochefort v The Queen.[4] I find that they do no help Ms. Sharp in this case, but confirm a finding that someone entering a purchase agreement is a “particular individual” for purposes of section 254(2) of the Act and subject to the requirements in that provision.
+[24] This brings me to Rochefort and my comments therein that:
+From a policy perspective, the Rocheforts are clearly who the rebate is meant to benefit, as they are the buyers of the property, the ones liable for the GST and they took possession of the property after substantial completion to reside in it as their primary residence.
+[25] Ms. Yasny suggests that Ms. Sharp and her parents should be considered in the same light, as being home buyers for whom the rebate is intended. They fall within the spirit of the legislation. I do not disagree with that sentiment. However, unlike Rochefort, where I could find a justifiable legal position bringing the Rocheforts within the spirit and wording of the legislation, I cannot find a way to accomplish the latter for Ms. Sharp, despite able and innovative arguments by her counsel. On the facts as I find them, I am unable to conclude there is a trust, agency or financing arrangement that would somehow remove Mr. Da Silva as a “particular individual” for purposes of the rebate. This is unfortunate given the intentions of the Parties. I must, however, dismiss the Appeal.
+Signed at Ottawa, Canada, this 31st day of October 2014.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2014 TCC 323
+COURT FILE NO.:
+2013-2770(GST)I
+STYLE OF CAUSE:
+ANDREA SHARP AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 20, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+October31, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Richard Yasny
+Counsel for the Respondent:
+Aaron Tallon
+Lesley L'Heureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Richard Yasny
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2000 CanLII 397 (TCC).
+[2] 2002 Can LII 872 (TCC).
+[3] 2010 TCC 511.
+[4] 2014 TCC 34.

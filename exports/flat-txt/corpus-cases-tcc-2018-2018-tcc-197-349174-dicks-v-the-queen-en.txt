@@ -1,0 +1,126 @@
+Title: Dicks v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/349174/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-197-349174-dicks-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-10-31
+
+# Dicks v. The Queen
+
+- Citation: 2018 TCC 197
+- Decision date: 2018-10-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5015, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dicks v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-10-31
+Neutral citation
+2018 TCC 197
+File numbers
+2017-3737(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3737(IT)I
+BETWEEN:
+WARD DICKS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 7, 2018, at Halifax, Nova Scotia
+Before: The Honourable Justice B. Russell
+Appearances:
+Agent for the Appellant:
+Susan Bailey
+Counsel for the Respondent:
+Cecil S. Woon
+Ian Wilenius
+JUDGMENT
+The appeal from the assessment raised June 23, 2016 under the Income Tax Act (Canada) for the Appellant’s 2015 taxation year is dismissed, without costs.
+Signed at Toronto, Ontario, this 31st day of October 2018.
+“B. Russell”
+Russell J.
+Citation: 2018TCC197
+Date: 20181031
+Docket: 2017-3737(IT)I
+BETWEEN:
+WARD DICKS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+[1] The appellant appeals the assessment of his income tax liability for his 2015 taxation year raised June 23, 2016 under the federal Income Tax Act (Act). The assessment, confirmed June 22, 2017, denied his claim for deduction of monthly payments of $200 he had made throughout that taxation year (totaling $2,400) to his former spouse. He considered these payments to be spousal support payments and as such deductible under paragraph 60(b) of the Act. But the Minister of National Revenue viewed these payments as not spousal support payments and thus not deductible.
+[2] At the hearing only the appellant testified. He submitted in evidence a copy of his December 22, 2011 10-page separation agreement that both he and his former spouse had signed. Both had received legal advice prior to signing. The agreement had been drafted by the appellant's lawyer. It provides at paragraph 5 under the heading “Spousal Support” that the husband [the appellant] “shall pay spousal support” to the wife [the appellant's former spouse] of $1,200 per month from December 1, 2011 to “November 1, 2014, at which time spousal support shall terminate”.
+[3] Paragraph 5 of the agreement further provides that,
+At the end of the payment of spousal support [being the November 1, 2014 end of the $1,200 per month payments]...there shall be no spousal support maintenance paid by the husband or the wife. Each party releases and discharges all rights and claims...against the other for the payment of interim or permanent, periodic or lump sum maintenance or support under the laws of any jurisdiction...It is further acknowledged that there will be no variation of this provision in light of future changes...
+[4] With respect to any $200 monthly payments, paragraph 8 of the agreement provides, under the heading “Mutual Fund”, that,
+The husband agrees that he will make a contribution to an investment of the wife’s choice in the wife’s name in the amount of $200 per month, commencing January 15, 2012 until such time as the husband reaches the age of 60.
+[5] Finally, of specific note the agreement at paragraph 11, under the heading “Release of Pension”, provides that,
+The wife releases any and all claims to the husband’s pension through his place of employment and agrees that she will not, in the future, make any future request for any other monetary compensation.
+[6] Elsewhere in the agreement are provisions specifying the transfer of three mutual funds to the wife in the amounts of $10,000, $5,000 and $5,000; and that the husband is to pay a lump sum of $30,000 to the wife.
+[7] The appellant's evidence as to the $200 monthly payments was that at his former spouse's request he made those payments directly into her bank account, and not to a mutual fund or other form of investment. As the former spouse was not called by either party to testify there was no credible evidence as to what she did with the money - whether it was used for investment purposes or alternatively used in whole or part for one or more other purposes, perhaps including maintenance or support for her.
+[8] The issue is, are the $200 monthly payments “support amounts” and as such deductible under paragraph 60(b) of the Act? Paragraph 60(b) provides as follows:
+Support
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer’s income for a preceding taxation year;
+[9] The term “support amount”, key to paragraph 60(b), is defined at subsection 56.1(4). (Subsection 60.1(4) provides that definitions in subsection 56.1(4) apply to section 60.) The subsection 56.1(4) “support payment” definition provides that that term,
+means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and (a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement;...
+[10] It can be seen from this definition that “support amount” includes four basic factors as listed by D'Auray, J. in Ken Blue v. Her Majesty, 2015 TCC 304, para. 13:
+1) an allowance payable on a periodic basis for maintenance of the recipient or children or both;
+2) the recipient must have discretion as to use of the amount;
+3) the recipient and the payer are living separate and apart; and
+4) the amount is receivable under an order of a competent tribunal or under a written agreement.
+[11] The respondent accepts that the subject $200 monthly payments meet all but one of these four factors, the exception being the first factor - that the payments be made, “for the maintenance of the recipient”. The respondent submits they were not so made.
+[12] The appellant argues that his $200 monthly payments were support amounts, saying they meet all the criteria specified in a Canada Revenue Agency administrative statement entitled, “What are support payments?” That administrative statement, which as such is not legally binding, specifies five elements of a support payment, being: (a) made under the terms of a court order or written agreement; (b) the payor and recipient living separate and apart; (c) made for maintenance of the recipient or child and the recipient has discretion as to use of the amount; (d) payable on a periodic basis; and (e) made directly to the recipient, but noting that under certain conditions payments can be made to a third party. This administrative statement includes as a factor (item (c) above) that the payments have to have been made for maintenance of, in this case, the recipient former spouse. As stated, the respondent’s position is that the payments were not made for maintenance of the recipient former spouse.
+[13] In considering whether these $200 monthly payments were support amounts, we must keep in mind that these two former spouses’ separation agreement at para. 5 thereof is emphatically explicit in providing for monthly $1,200 spousal support payments from the former husband to the former spouse only to November 1, 2014. And as well, the agreement is specific that there were to be no further maintenance or support payments and that there would be no variation of that provision.
+[14] This specific language of the agreement makes clear that the $200 monthly payments for investment were not intended by either former spouse to constitute support payments. Nor is contribution to investments an aspect of support or maintenance, which concepts relate basically to provision of sustenance, i.e. being supplied with the necessities of life. In this regard see Champagne v. Minister of National Revenue, 1992 CarswellNat 510 (TCC), para. 23, wherein Tremblay, J. described maintenance payments as being paid, “to meet the alimentary needs of the recipient, those needs being of a regularly renewable and ongoing nature”.
+[15] For these two reasons - that the ex-spouses in their agreement clearly did not intend anything after November 1, 2014 to be support amounts, and also that contributions to investments are not within the general meaning of support and maintenance - I conclude that these payments were not support amounts so as to be deductible to the appellant under paragraph 60(b). In light of the language of the separation agreement, explicitly and specifically delineating the extent and duration of support payments to the ex-wife, this case does not require an analysis per McKimmon v. Minister of National Revenue, [1990] 1 C.T.C. 109 (F.C.A.) as to whether the payments in issue meet eight general criteria suggestive of support payments.
+[16] Furthermore, if in fact the former spouse was using these payments in whole or part to satisfy “alimentary needs” (i.e., for support or maintenance), which was not at all established by evidence at the hearing, then it could not be said that the payments were receivable under or being made pursuant to the written agreement of the appellant and his former spouse. Accordingly it would fail the last of the four necessary conditions per the Ken Blue decision, supra, for being a “support amount”. That condition is that the amount be receivable under a written agreement between the two separated spouses.
+[17] For these reasons I dismiss the appeal, without costs.
+Signed at Toronto, Ontario, this 31st day of October 2018.
+“B. Russell”
+Russell J.
+CITATION:
+2018TCC197
+COURT FILE NO.:
+2017-3737(IT)I
+STYLE OF CAUSE:
+WARD DICKS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+September 7, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+October 31, 2018
+APPEARANCES:
+Agent for the Appellant:
+Susan Bailey
+Counsel for the Respondent:
+Cecil S. Woon
+Ian Wilenius
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

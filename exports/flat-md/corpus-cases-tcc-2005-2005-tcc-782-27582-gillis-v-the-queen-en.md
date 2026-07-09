@@ -1,0 +1,201 @@
+---
+title: "Gillis v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27582/index.do"
+last_modified: "2005-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 782"
+citation2: ""
+neutral_citation: "2005 TCC 782"
+decision_date: "2005-12-09"
+language: "en"
+item_id: "27582"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 76
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:01:56.977000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0058bcbbe3f82b69c0baf47a4068ce759c7cc6d677c723b40372331e1609e6a7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gillis v. The Queen
+
+- Citation: 2005 TCC 782
+- Decision date: 2005-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 76, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gillis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-09
+Neutral citation
+2005 TCC 782
+File numbers
+2005-1323(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1323(IT)I
+BETWEEN:
+DUNCAN E. GILLIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 15, 2005 at Sydney, Nova Scotia
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Edward R. Sawa
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 9th day of December 2005.
+"L.M. Little"
+Little J.
+Citation: 2005TCC782
+Date: 20051209
+Docket: 2005-1323(IT)I
+BETWEEN:
+DUNCAN E. GILLIS,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] The Appellant is the President, principal shareholder and employee of Gillis Truckways Inc.
+[2] Gillis Truckways Inc. ("Truckways") is a Company incorporated under the laws of the Province of Nova Scotia.
+[3] Truckways has been in the business of selling various types of truck trailers throughout the Maritime provinces since 1987.
+[4] In the relevant period the Appellant was the main sales person for Truckways.
+[5] The Appellant testified that Truckways had the following sales of trailers in the years indicated:
+Taxation Year
+Annual Gross Sales
+1999
+$5,500,000.00
+2000-2005
+Between $3,000,000.00
+And $4,500,000.00
+[6] On May 18, 2000 Truckways purchased a Corporate Golf Membership ("Corporate Membership") in the Bell Bay Golf Club ("Bell Bay") in Baddeck, Nova Scotia for $12,000.00 plus HST of $1,800.00 for a total price of $13,800.00 (see Exhibit A1).
+[7] The Appellant said that Bell Bay is rated by many people as one of the best golf courses in the Maritime provinces.
+[8] The Corporate Membership Application Form signed by Truckways indicated that the Appellant and his wife Beth were the nominees for Truckways. The Appellant testified that the Corporate Membership provided him and his wife with unlimited golf at Bell Bay plus reduced green fees for their guests.
+[9] Truckways did not attempt to write off the amount of $13,800.00 that was paid for the Corporate Membership as an expense for tax purposes in determining its income for the 2000 taxation year.
+[10] Officials of the Canada Revenue Agency (the "C.R.A.") conducted an audit of Truckways. Officials of the C.R.A. determined that the Corporate Membership that Truckways purchased in the 2000 taxation year constituted a taxable benefit conferred by Truckways on the Appellant.
+[11] The Appellant's 2000 taxation year was reassessed by the Minister of National Revenue (the "Minister") and the amount of $13,800.00 was added to the Appellant's income as a taxable benefit.
+B. ISSUE:
+[12] Did the Appellant receive a taxable benefit in the amount of $13,800.00 in the 2000 taxation year when Truckways purchased a Corporate Membership in the Golf Club?
+C. ANALYSIS:
+[13] The Appellant testified that he is the principal sales person for Truckways and that he frequently entertains customers and potential customers of Truckways by paying for their green fees when he plays a round of golf with them.
+[14] The Appellant also testified that since Truckways owned a Corporate Membership in Bell Bay the green fees for guests of Truckways were reduced from $65.00 per round of golf to $40.00 per round.
+[15] The Appellant estimated that he has played approximately 50 rounds of golf per year at Bell Bay in the 2000, 2001, 2002, 2003, 2004 and 2005 years. The Appellant said that he has played approximately 30 rounds per year (or 60% of the time) with customers or potential customers of Truckways. The Appellant said that he has played approximately 20 rounds per year (or 40% of the time) with his wife or personal friends.
+[16] The Appellant indicated that since Truckways owns a Corporate Membership at Bell Bay, Truckways has saved significant green fee expenses. The Appellant estimated that Truckways enjoyed savings as follows:
+Year
+Estimated No. of Rounds
+of Golf Per Year
+Savings Per Round
+of Golf (3 x $25)
+Estimated Savings
+Per Year
+2000
+30
+$75.00
+$2,250.00
+2001
+30
+75.00
+2,250.00
+2002
+30
+75.00
+2,250.00
+2003
+30
+75.00
+2,250.00
+2004
+30
+75.00
+2,250.00
+2005
+30
+75.00
+2,250.00
+$13,500.00
+[17] The Appellant stated that according to his records Truckways has sold in excess of $5,750,000.00 over the past five years to those customers of Truckways with whom he played golf on a regular basis at Bell Bay.
+[18] The Appellant said that economic conditions in Cape Breton were very depressed and Truckways was obliged to seek customers for its trailers throughout the Maritime provinces. The Appellant said that he was able to use golf to promote customers for Truckways.
+[19] The Appellant further testified that the Corporate Membership owned by Truckways can be surrendered to Bell Bay at stipulated prices. In other words a portion of the payment made by Truckways for the Corporate Membership would be returned to Truckways if it surrendered its Corporate Membership. The Appellant also testified that pursuant to the agreement with Bell Bay Truckways has the right to sell the Corporate Membership to a third party if the transfer is approved by Bell Bay. The Appellant said that under this arrangement Truckways might in the future receive a significant amount for the Corporate Membership if it were to sell the Corporate Membership to a third party. The Appellant said that when he purchased the Corporate Membership for Truckways he believed that it would increase in value and that the Corporate Membership would be a valuable asset of Truckways.
+[20] The Reassessment regarding the taxable benefit was issued under subsection 15(1) of the Income Tax Act (the "Act"). Subsection 15(1) of the Act provides that the amount or value of the benefit conferred on a shareholder by a corporation is to be included in the income of the shareholder. In order to determine whether the Reassessment is correct I must determine the "amount or value" of the benefit.
+[21] Based on the testimony of the Appellant I am satisfied that the Appellant was successful in establishing valuable business relationships for Truckways by playing golf with customers and potential customers.
+[22] Based on the evidence I am satisfied that the Corporate Membership purchased by Truckways in the Golf Club did confer a personal benefit on the Appellant. However, based on the testimony of the Appellant I am convinced that Truckways received a significant business benefit through ownership of the Corporate Membership because Truckways was able to sell trailers to many of the customers entertained on the Bell Bay golf course by Truckways.
+[23] I believe that the amount or value of the personal benefit derived by the Appellant on the purchase of the Corporate Membership should be calculated as follows:
+Cost of Corporate
+Membership
+Deduct Business Benefit
+Obtained by Truckways
+Personal Benefit
+Received by Appellant
+$13,800.00
+60% of $13,800.00
+or $8,280.00
+40% of $13,800.00
+Or $5,520.00
+[24] The appeal filed by the Appellant for the 2000 taxation year is allowed, without costs, and the Appellant is to be reassessed to include the amount of $5,520.00 in his income for the 2000 taxation year.
+Signed at Vancouver, British Columbia, this 9th day of December 2005.
+"L.M. Little"
+Little J.
+CITATION:
+2005TCC782
+COURT FILE NO.:
+2005-1323(IT)I
+STYLE OF CAUSE:
+Duncan E. Gillis and
+Her Majesty the Queen
+PLACE OF HEARING:
+Sydney, Nova Scotia
+DATE OF HEARING:
+November 15, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+December 9, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Edward R. Sawa
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

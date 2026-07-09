@@ -1,0 +1,154 @@
+---
+title: "Nunn v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25545/index.do"
+last_modified: "2005-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 806"
+citation2: ""
+neutral_citation: "2005 TCC 806"
+decision_date: "2005-12-21"
+language: "en"
+item_id: "25545"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2450
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:59:38.637000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f2db7b5cb66fb2ee3a9a5aced68f596a2d32584f8a70e296a39a0fdb277a3d27"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nunn v. The Queen
+
+- Citation: 2005 TCC 806
+- Decision date: 2005-12-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2450, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nunn v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-21
+Neutral citation
+2005 TCC 806
+File numbers
+2004-4403(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4403(IT)I
+BETWEEN:
+DON NUNN,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 19, 2005 at Belleville, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carole Benoit
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Summerside, Prince Edward Island, this 21st day of December 2005.
+"Diane Campbell"
+Campbell J.
+Citation: 2005TCC806
+Date: 20051221
+Docket: 2004-4403(IT)I
+BETWEEN:
+DON NUNN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+CampbellJ.
+[1] In 1999, the Appellant was ill, deeply in debt and had recently lost his job. He had $29,000.00 invested in a registered retirement savings plan (the "RRSP") with Maritime Life Assurance Company ("Maritime Life"). About this time he saw a local newspaper ad which essentially stated or led him to believe that he could borrow against his RRSP to provide him with the required funds. The scheme ended up being a fraudulent operation which defrauded not only the Appellant but many other investors. The Appellant never received any money in respect to the loan and consequently the entire RRSP vanished.
+[2] The Appellant was reassessed on the basis that the RRSP funds were not invested in a "qualified investment" pursuant to subsection 146(1) of the Income Tax Act (the "Act") and consequently the sum of $29,000.00 was included in the Appellant's income for the 1999 taxation year.
+[3] The issue is whether the amount of $29,000.00 has been properly included in the computation of the Appellant's income for the 1999 taxation year.
+[4] The Appellant gave evidence, while the Respondent relied on Jeffrey Zucker, a Group Head at the Canada Revenue Agency (the "CRA") and Gino Vita, a former CRA auditor.
+[5] The Appellant's evidence was that, because of his financial circumstances, he required money and when he saw an ad in the Belleville Intelligencer Newspaper, offering the possibility of using his RRSP as collateral to obtain a loan, he decided to investigate further. He met at a local restaurant with an individual, Pierre Parent, who explained how he could obtain money by taking advantage of a scheme that would allow him to convert, by way of a loan, a portion of his RRSP, located at Maritime Life. It was never clear from the evidence who this Mr. Parent was or just exactly how he figured into the bigger scheme. According to the Appellant, Mr. Parent explained how he could transfer his RRSP to a company called Planification Plus, later purchased by Les Services Financiers Teraxis Inc. This RRSP would be used as collateral for a loan to the Appellant. When the loan was repaid, his RRSP was to be returned to him.
+[6] The Appellant was anxious about transferring his RRSP and decided to make some inquiries. When the Appellant initially contacted his own investment institution, Maritime Life, concerning the proposed RRSP transfer, he told them not to transfer it if there was any question respecting the legality of the transfer. He testified that Maritime Life informed him that they would check into the proposed transfer on his behalf. He had no further contact with Maritime Life and he assumed that the plan was either going to be turned over to Planification Plus or that Maritime Life had refused to transfer it because there was something illegal about the transfer. Several months later he received a statement from Planification Plus stating that the RRSP had been transferred from Maritime Life. By this time the Appellant had made other arrangements concerning his finances. He never did receive any money by way of a loan.
+[7] Although the evidence is not clear as to when the Appellant signed documentation respecting the transfer, it likely occurred at the restaurant meeting with Mr. Parent. There is no suggestion from the evidence of any other meetings except for several telephone calls from Mr. Parent to the Appellant. The Appellant's evidence was that he signed a set of documents in blank that directed Maritime Life to transfer the RRSP to Planification Plus to facilitate the purchase of shares, in a company called Jovalguy Inc. ("Joyalguy"), at a cost of $25.00 per share. On June 16, 1999, 1,160 shares were purchased in Jovalguy for $29,000.00 (Exhibits R-1, R-2). Because the documents were signed in blank, the Appellant was unsure of the names of companies and their involvement in this scheme. He did agree that Jovalguy used the funds, respecting the Appellant's share acquisition in Jovalguy, to purchase shares in a second company called La Financière Telco Inc. ("Telco"). When the Appellant received confirmation of the share purchase in Jovalguy, he also received a copy of a comfort letter (Exhibits R-5, R-13) signed by René Beauregard, a chartered accountant, which certified to Planification Plus that the Appellant's share purchase in Jovalguy was a "qualified investment" pursuant to subsection 146(1) of the Act. He did not give this transfer any more thought until he received correspondence from CRA respecting the transferred funds. When he sought to have the RRSP transferred from Planification Plus to his own financial institution, he discovered that there was no money remaining. He was referred to a lawyer and his name has been added to a class action lawsuit against the promoters of this scheme for the fraudulent misappropriation of retirement funds.
+[8] The Respondent's first witness, Jeffrey Zucker, was Group Head of the CRA section that conducted a six-year nationwide project to review newspaper promotions that attempted to persuade individuals to use their RRSPs to obtain loans. Unlike the facts in the present appeal, where the Appellant received no money after his RRSP transfer, most individuals did receive 55 to 70 percent of the face value of their RRSP. After a review of these strategies, CRA, in April 2003, issued a press release advising the public against participating in such RRSP arrangements.
+[9] Prior to René Beauregard's comfort letter to Plantation Plus, a practice bulletin (Exhibit R-6), was issued by the Canada Institute of Chartered Accountants ("CICA"), which advised chartered accountants not to sign these assurance certificates because an audit or review of financial statements provided no assurance that an entity's shares constituted a "qualified investment". Mr. Zucker went on to state that Jovalguy had no business activity and that the only asset that it held was its investment in the shares of Telco. Every dollar that flowed into Jovalguy from investors went directly to Telco.
+[10] Gino Vita, a former CRA auditor in the Tax Avoidance Section, was the officer who, at the time, was directly responsible for the project that investigated these RRSP schemes. It took about eight months to investigate and complete the analysis of the operations of all of the companies which were involved in facilitating so-called tax-free withdrawals from locked-in RRSPs under the guise of a loan. Although there were a number of hybrids within the overall scheme, he explained in detail how the Appellant, like many other individuals, was "taken in" by a series of adeptly crafted but duplicitous transactions, which were meant to ensnare these individuals and take a good portion, and in some cases all, of their life savings. It took Mr. Vita many months to unravel the heavily veiled corporate modes of operandi used by Jean Tremblay, the apparent mastermind promoter, who employed stratagems of trickery and deception to lure unsuspecting individuals under the guise of the legality of the transactions.
+[11] Mr. Vita explained that newspaper ads were placed which allegedly offered a means of facilitating tax-free withdrawals from locked-in RRSPs. Generally once a potential investor responded to the ad, they signed a series of documents in blank which in essence directed the transfer of their RRSP to a particular corporate entity (in this appeal Planification Plus), which, based on the comfort letter from René Beauregard, was then directed to purchase shares, using the RRSP funds, in another company, which would be a shell company (in this appeal Jovalguy). Although there were some ten companies involved in the overall scheme, this Appellant was primarily involved with two companies, Jovalguy and Telco.
+[12] Mr. Vita's investigations concluded that there was no business activity disclosed in the financial statements of Jovalguy and that it was simply used as a vehicle to purchase shares in other corporations. In undated correspondence of the promoter, Jean Tremblay, (Exhibit R-10) received and stamped by CRA in June 2000, he confirmed that Jovalguy's activities were limited to the acquisition of shares in Telco. Mr. Vita referred to an organization chart (Exhibit R-11) to explain the various corporations involved in these schemes. Of the ten companies listed in this chart, Mr. Tremblay owned either 100 or 51 percent of the shares of each corporation. He also confirmed that all of the investors' funds brought in through the different companies were funnelled through to Telco. Generally an investor did receive funds from this scheme which was discounted by 35 percent. In effect the RRSP withdrawal, which was otherwise restricted, was completed through a loan transaction which discounted the plan to cover a payment to the promoter being a fee of 35 percent of the value of the RRSP. However, in the present appeal, the Appellant never received any funds because the Quebec Securities Commission conducted a raid in August 2000. After this raid, those individuals that had purchased shares but had not yet received a cheque for their 65 percent of the funds, never did receive any money. If that had not occurred, as I understand the evidence, the Appellant would have received money in the approximate amount of 65 percent of the face value of his RRSP. He believed that his RRSP would be used as collateral for the so-called loan. He was also told that when he repaid this loan, his RRSP would be transferred back and he would consequently avoid tax consequences.
+[13] In referring to René Beauregard's correspondence of June 16, 1999 to Planification Plus, the trust, Mr. Vita testified that this chartered accountant, who provided the comfort letter respecting the Appellant's investment in Jovalguy, shared the same office as the promoter, Jean Tremblay.
+[14] Using the organizational chart, Mr. Vita explained how he reviewed the tax returns and financial statements of both Jovalguy and Telco to determine if there was an active business and consequently a "qualified investment". He determined that Jovalguy did not engage in any business activity nor did Telco. Telco's only income was related to money lending which did not qualify as an active business. Although the journal entries were purposively intended to mislead, Vita's analysis supported his conclusion that there was actually no business activity and that the shares of Jovalguy were not shares of an eligible corporation. Specifically, when Mr. Vita analyzed the Statement of Income, Profit and Loss of both Jovalguy and Telco, he concluded that there was no income and no expenses with respect to Jovalguy. Its balance sheet showed only the shareholder advances and investments in Telco and he concluded Jovalguy was basically a shell company. When he reviewed Telco's financial statements and general ledgers for the 1999 taxation year, those documents included two types of income, $679,000.00 being interest income and $1,213,000.00 being contract income. He concluded that the interest income was passive income. He then reviewed the types of contracts which supposedly generated contract income. He discovered that a related company, Les Immeubles Tremesco inc., ("Immeubles") owned and operated a retirement home in Rigaud. Jean Tremblay also controlled Immeubles. In essence what happened here, according to Vita's evidence, is that Telco funnelled the funds, which came from those unsuspecting investors, to Immeubles and Immeubles used the money, to the tune of $1,213,000.00, to renovate its building. Telco's funds were used to finance the renovation expenses but instead of recording this amount as a receivable and therefore an asset on Telco's balance sheet, through a complex series of deceptive accounting entries, Telco manipulated the entries to create the impression that the amount was revenue. Similarly, Telco also adopted the expenses, belonging to Immeubles, as if those amounts were Telco's. At the end of the day, Telco falsely showed in its financial statements, contract income of $1,213,022.00 which was offset by expenses in the amount of $1,097,969.00. Jean Tremblay grabbed the resulting difference of approximately $115,000.00 as an advance. In the words of Mr. Vita:
+... the amounts in the Income Statement for Telco don't belong there, because they weren't expenses or revenue that belonged to Telco. First of all, the contract revenue was nothing more than the payment of the expenses for Immeubles Tremesco. What they did was, they took $1,213,000 that didn't belong to them, which they put as income, and they put $1,097,000 in expenses that they didn't incur.
+[15] All entries were bogus entries which were intended to deceive and mislead an outsider into believing that Telco was actively engaged in a business. Telco's corporate records in no way reflected the true nature of its activities.
+Analysis:
+[16] In Respondent counsel's written and oral submissions, the sole issue was summarized as follows:
+whether the investment is a non-qualified investment within the meaning of subsection 146(1) of the Income Tax Act (the "Act") and consequently, whether for the 1999 taxation year, the Minister of National Revenue has properly included the amount of $29,000.00 in the Appellant's income pursuant to paragraph 146(10)(a). (written submissions, page 1)
+[17] The Respondent, primarily through the evidence of Mr. Vita, focused on establishing that the investment in shares of Jovalguy was not, in fact, a qualified investment. The evidence, both oral and documentary, is clear that Jovalguy is simply a shell company, without any form of business activity, except to facilitate the purchase of shares in Telco using the RRSP funds of investors. Based on the evidence, Telco had no active business activity either. It did not in actual fact generate active business income, although it attempted to create the impression that it did, through misleading and incorrect journal entries. Income was called income when it was not; expenses were claimed when there were none. They are fictitious. They do not exist. Telco's records refer to two types of income but both the interest and contract income were bogus entries as there simply was no active income. I must therefore conclude that the Appellant's acquisition of the shares in Jovalguy is not a qualified investment pursuant to subsection 146(1) of the Act and subsections 4900(12) and 5100(1) of the Regulations to the Act, as Jovalguy is not a small business corporation, nor an eligible corporation within the meaning of these Regulations. However I do not believe that is the end of the matter in this appeal.
+[18] The same artificial tax planning scheme, promoted by Jean Tremblay through various corporate entities, was dealt with by Justice Tardif in the case of Dubuc v. The Queen, 2005 DTC 461. With a few minor differences in respect to corporate names, Mr. Vita's description of these schemes parallel what occurred in Dubuc. Mr. Vita's evidence of the elaborate mechanisms which Tremblay employed was accepted and relied on in disposing of the Dubuc appeal. At paragraph 66 of that decision Justice Tardif stated:
+In fact, this was essentially an artificial financial arrangement with the sole purpose of reassuring RRSP-holders who wanted to make a total or partial withdrawal without having to pay taxes. To justify the exorbitant commission, Mr. Tremblay has set up businesses that shared accounting data, which were either totally fictitious or grossly exaggerated.
+[19] Simply put, Tremblay promoted the sale of artificial qualified investments, which in fact, were not and never intended to be "qualified investments" according to the provisions of the Act. They were nothing but a sham.
+[20] In The Queen v. Duha Printers (Western) Limited, 96 DTC 6323, at pages 6327 and 6328, Justice Linden of the Federal Court of Appeal citing Justice Estey of the Supreme Court of Canada in Stubart Investments Ltd. v. The Queen, 84 DTC 6305, noted:
+...To be found to be a sham, the transaction must have been conducted "so as to create an illusion calculated to lead the tax collector away from the taxpayer or the true nature of the transaction."
+[21] There is no doubt that René Beauregard was instrumental in the success of the scheme. Not only did he share office space with Tremblay at Telco (Exhibits R-5 and R-17 show the same address), he also signed the comfort letter advising investors that the investments were qualified, despite the clear directive to the contrary issued by the CICA. In addition he was responsible for the financial statements of both Jovalguy and Telco. Those statements were falsified to create the impression of a qualified investment by superimposing blatantly incorrect journal entries, that were meant to mislead anyone investigating the books. In fact it took a professional such as Mr. Vita many months to cut to the heart of these very technical and creative entries involving multiple corporate entities. This was an elaborate, deceptive and intentional cover-up orchestrated by Tremblay, with the likely assistance of Beauregard, to swindle those members of society who most needed the money that they were able to put away for their retirement. I have no hesitation, based on the evidence, in concluding that the sale of the Jovalguy shares and the alleged loan from Telco were part of this elaborate scheme. It was never intended that the Appellant's RRSP would hold an investment or that a loan would be given to the Appellant. Simply put, the scheme intended to transfer a portion of this Appellant's RRSP that would never be repaid. The true intent was to gain control of the Appellant's RRSP, deduct a 35 to 40 percent "commission" or "fee" and to place the balance in the hands of the Appellant but not in the form of a loan. In fact in this appeal there can be no loan where no funds were ever placed in the Appellant's possession. There was a promise of a loan which was part of the sham operation but the money transfer of a portion of the RRSP under the pretence of a loan never materialized for the Appellant.
+[22] According to the evidence, the Appellant made inquiries to his financial institution, Maritime Life, and specifically instructed them not to transfer his RRSP unless they were satisfied with the legality of this proposed transfer. I believe he took reasonable steps to ascertain that the investment was legitimate. Tremblay's financial deception, coupled with Beauregard's involvement, misled many members of the public as well as the countless investors and their respective financial institutions. On the facts of this case, I am satisfied that any reasonable amount of due diligence, followed by an investor, would never uncover the fact that the share transfers were not qualified under the relevant provisions of the Act. Investors do not have the force and power of the state, they may not subpoena accountants and ask detailed questions, nor can they physically inspect corporate books for months as Mr. Vita did. The entire sham was predicated on investors being unable to get past the "smokescreens and mirrors", as Justice Tardif in the Dubuc case referred to them, to uncover the financial truths concerning Jovalguy and Telco, and in this sense, the scheme was successful in achieving that end. Because this well orchestrated scheme was so clearly a sham, I conclude that the Appellant never acquired a non-qualified investment in Jovalguy within the meaning of the relevant provisions of the Act. Therefore there will be no income inclusion pursuant to paragraph 146(10)(a).
+[22] Certainly individuals who attempt to remove funds from locked-in RRSPs must do so within the provisions of the Act or suffer the ensuing tax consequences. Had the Appellant received any funds under this scheme, I would have no hesitation in concluding that the amount received should be taxed in accordance with subsection 148(8) of the Act. In fact this was the approach taken by Justice Archambault in Thérèse St-Hilaire c. Sa Majesté La Reine, (Court file number 2004-4430(IT)I, dated December 9, 2005, unreported). In dealing with another variation of the same scheme involving Jean Tremblay and Telco, Justice Archambault concluded that there was no acquisition of a non-qualified investment pursuant to subsection 146(10) but determined that those funds actually received under this scheme by the taxpayer in his case would be taxed pursuant to subsection 148(8).
+[23] Since no funds were placed in the hands of the Appellant under this scheme, he has received no taxable benefit under his RRSP. If the class action suit is successful and the Appellant personally receives any portion of the lost funds, it would be taxable unless it is returned directly to his RRSP.
+[24] The appeal is allowed, without costs.
+Signed at Summerside, Prince Edward Island, this 21st day of December 2005.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2005TCC806
+COURT FILE NO.:
+2004-4403(IT)I
+STYLE OF CAUSE:
+Don Nunn and
+Her Majesty the Queen
+PLACE OF HEARING:
+Belleville, Ontario
+DATE OF HEARING:
+September 19, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+December 21, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carole Benoit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

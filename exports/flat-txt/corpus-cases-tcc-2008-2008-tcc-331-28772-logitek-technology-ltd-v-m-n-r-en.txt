@@ -1,0 +1,221 @@
+Title: Logitek Technology Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28772/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-331-28772-logitek-technology-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-07-11
+
+# Logitek Technology Ltd. v. M.N.R.
+
+- Citation: 2008 TCC 331
+- Decision date: 2008-07-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1559, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Logitek Technology Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-11
+Neutral citation
+2008 TCC 331
+File numbers
+2006-2748(CPP)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2006-2748(CPP)
+BETWEEN:
+LOGITEK TECHNOLOGY LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Logitek Technology Ltd. (2006‑2747(EI)) and Mateen Zubairi (2006-2807(EI) and 2006-2809(CPP))
+on May 6, 2008 in Toronto, Ontario
+Before: The Honourable N. Weisman, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Gul Nawaz
+Counsel for the Respondent:
+Bonnie Boucher
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 11th day of July 2008.
+"N. Weisman"
+Weisman D.J.
+Docket: 2006-2809(CPP)
+BETWEEN:
+MATEEN ZUBAIRI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Logitek Technology Ltd. (2006‑2747(EI) and 2006-2748(CPP)) and Mateen Zubairi (2006-2807(EI))
+on May 6, 2008 in Toronto, Ontario
+Before: The Honourable N. Weisman, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Gul Nawaz
+Counsel for the Respondent:
+Bonnie Boucher
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 11th day of July 2008.
+"N. Weisman"
+Weisman D.J.
+Citation: 2008 TCC 331
+Date: 20080711
+Dockets: 2006-2748(CPP)
+2006-2809(CPP)
+BETWEEN:
+LOGITEK TECHNOLOGY LTD.,
+MATEEN ZUBAIRI,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Weisman D.J.
+[1] These two appeals are from determinations by the Minister of National Revenue (the “Minister”) that the Appellant, Mateen Zubairi (“Zubairi”) was in pensionable employment within the meaning of the Canada Pension Plan[1] (the “Plan”), from October 1, 2003 to January 4, 2006, while engaged by the Appellant Logitek Technology Ltd. (“Logitek”). The appeals were heard together on common evidence on consent.
+[2] Paragraph 6.(1)(a) of the Plan defines pensionable employment as:
+(a) employment in Canada that is not excepted employment;
+[3] This matter is complicated by the fact that the Appellants were not dealing with each other at arm’s length during the period under review, since Logitek’s shares are wholly owned by Zubairi’s sister and brother-in-law. For this reason, Zubairi was in excluded employment within the meaning of paragraph 5.(2)(i) of the Employment Insurance Act[2] (the “Act”), and the Minister has not exercised his discretion under paragraph 5.(3)(b) of the Act to deem otherwise.
+[4] It remains to be determined if Zubairi was in pensionable employment as the Minister asserts, or if he was an independent contractor, as he maintains. The latter was clearly the common intention of the parties as they executed an agreement to this effect in September 2003. It has often been held, however, that such agreements are not determinative of the relationship between the parties, which is a matter of law[3]. This is because the legal relationship between a payer and a worker can affect the rights of third parties. In Sagaz the Court says at paragraph 36:
+…The distinction between an employee and an independent contractor applies not only in vicarious liability, but also to the application of various forms of employment legislation, the availability of an action for wrongful dismissal, the assessment of business and income taxes, the priority taken upon an employer's insolvency and the application of contractual rights.
+[5] In order to resolve this question, which has been variously characterized as “fundamental”[4]; “central”[5]; and “key”[6], the total relationship of the parties[7] and the combined force of the whole scheme of operations[8] must be considered. To this end, the evidence in this matter is to be subjected to the four-in-one test laid down as guidelines[9] by Lord Wright in Montreal City and adopted by MacGuigan, J.A. in Wiebe Door. The four guidelines are the payer’s control over the worker; whether the worker or the payer owns the tools required to fulfil the worker’s function; and the worker’s chance of profit, and risk of loss in his or her dealings with the payer.
+[6] Logitek develops technical software that helps solve various business problems such as supply chain management. This involves, inter alia, the expedited issuance of electronic purchase orders and shipment receipts, resulting in the user having to stock and finance fewer items of inventory.
+[7] Zubairi, a certified general accountant, began his working relationship with Logitek on October 1, 2003, when the company was insolvent and needed assistance in reorganizing itself and making accommodations with its bankers and other creditors. He was designated on the corporate website as its chief financial officer, and was assured a retainer of $7,000 per month. This remuneration was commensurate with that of the company’s prior chief financial officer, who was originally employed to oversee the abortive transformation of Logitek from a private company, into a public one. Zubairi’s retainer was arrived at by multiplying his commitment to Logitek of 10 hour per week, by his average billing rate of $175 per hour. In addition to this monthly stipend, he was also entitled to a $1,000 per month “car allowance” which actually reimbursed him for expenses incurred on Logitek’s behalf, including entertaining the bank’s representatives. In September 2005, this allowance was discontinued and replaced by a $2,800 per month increase in his retainer, ensuring him a total annual income from Logitek of $117,000.
+[8] So far as his duties were concerned, Zubairi’s evidence in this regard can best be described as vague, as it was in a number of relevant areas of inquiry. He first testified that he provided “financial consultation and advisory services” for the now‑viable company, and was not really its chief financial officer, his website description as such being a bank requirement. The same website also claims that he is in charge of the financial management and accounting functions of the company, even though it has an internal bookkeeper and an external accountant. In his testimony, Zubairi could identify only three specific areas of responsibility: he acts as Logitek’s consultant, forecasts its revenue, and deals with its bankers.
+[9] This matter is further complicated by the fact that Zubairi was carrying on a business on his own account during the period under review. As a certified general accountant, he maintains an office of his own in Mississauga and has clients other than Logitek. He charges them from $150 to $200 per hour for his services. His office is in the same rented premises as a boutique owned by him as sole proprietor, which carries on the business of importing and selling religious artefacts under the name “Amira Enterprises”. The question raised by this scenario is whether a person who is an independent contractor for one purpose, is therefore the same for all purposes; or whether one can be carrying on business on his own account in some working relationships, and at the same time, be an employee in others. In my opinion, the latter view prevails. Zubairi could well be in the employ of Logitek, while supplementing his income in his free time by means of the retail store and his accounting practice.
+[10] Turning to the four-in-one test articulated in Montreal City and in Wiebe Door, I find it necessary to first review the authorities to date to see just how “control” is judicially defined, before applying the facts of this case to the control criterion. Specifically, questions arise as to whether the requisite control is de facto, de jure, or both; whether there are special rules applicable where highly skilled or professional workers are concerned; whether the same definition governs cases under both the common law and the Civil Code of Québec; and whether it applies equally to cases of vicarious liability and employment law.
+[11] The starting point of our quest has to be the following finding of Baron Bramwell in Regina v. Walker[10] (“Walker”): “A principal has the right to direct what the agent has to do; but a master has not only that right, but also the right to say how it is to be done”. Control was further defined by Dixon, J. in Humberstone v. Northern Timber Mills[11] as follows:
+The question is not whether in practice the work was in fact done subject to a direction and control exercised by an actual supervisor or whether an actual supervision was possible but whether ultimate authority over the man, in the performance of his work resided in the employer so that he was subject to the latter’s order and directions.
+[12] The same conclusion was reached in Ready Mixed. MacKenna, J., after a thorough review of the jurisprudence, says:
+Control includes the power of deciding the thing to be done, the way in which it shall be done, the means to be employed in doing it, the time when, and the place where it shall be done. All these aspects of control must be considered in deciding whether the right exists in a sufficient degree to make one party the master and the other his servant. The right need not be unrestricted. What matters is lawful authority to command, so far as there is scope for it.
+All three cases conclude that a master’s de jure control over the worker is a necessary condition of a contract of service. Walker and Ready Mixed also hold that the master must have the power to direct not only what the worker does, but how he does it.
+[13] In Market Investigations Ltd. v. Minister of Social Security[12] (“Market Investigations”), Cooke, J. illustrates a weakness inherent in the test articulated in Walker and Ready Mixed. He cites the example of a certified master of a ship who may be employed under what is clearly a contract of service, and yet the ship’s owners have no de facto control over how he navigates his vessel. The Court recognizes that:
+when one is dealing with a professional man, or one with some particular skill and experience, there can be no question of an employer telling him how to do the work; therefore the absence of control and direction in that sense can be of little, if any, use as a test.
+[14] Hôpital Notre-Dame de L’Espérance and Théoret v. Laurent et al.[13] (“Hôpital), was a vicarious liability case under the Civil Code of Québec involving a doctor. The Supreme Court finds that “the essential criterion of employer-employee relations is the right to give orders and instructions to the employee regarding the manner in which to carry out his work”. It thereby recognizes that de jure control is necessary, but reverts to the Walker and Ready Mixed position that employers must have the right to tell their employees not only what to do, but how to do it. The Court makes no reference to the distinction drawn in Market Investigations between professional persons and those in standard employment, even though the case before it concerned a physician.
+[15] Gallant v. M.N.R..[14], another Civil Code case, similarly holds that de jure, rather than de facto control is a necessary condition of a contract of service; and like Hôpital, does not differentiate between highly skilled and professional workers and those that are not so qualified, and are therefore in standard employment. In fact, we are not advised of the worker’s level of expertise. The Court says:
+…the first ground is based on the mistaken idea that there cannot be a contract of service unless the employer actually exercises close control over the way the employee does his work. The distinguishing feature of a contract of service is not the control actually exercised by the employer over his employee but the power the employer has to control the way the employee performs his duties.
+[16] One month later, the Federal Court of Appeal decided Wiebe Door. MacGuigan, J.A., per curiam, recognizes that the test as formulated in Hôpital “…has broken down completely in relation to highly skilled and professional workers, who possess skills far beyond the ability of their employers to direct”. The Court quotes Lord Wright’s conclusion in Montreal City “In the more complex conditions of modern industry, more complicated tests have often to be applied”. It accordingly adopts his four-in-one test of control, ownership of tools, chance of profit, and risk of loss, in the search for the total relationship of the parties.
+[17] In Hennick v. M.N.R.[15], the Court had to deal with an insubordinate piano teacher who was described as a free spirit that had carried out her work without respect or consideration for the structure created by the Royal Conservatory of Music. Accordingly, it was not possible to exercise de facto control over her. The Court notes that since the worker was a professional person, she could not be told how to perform her function. She had, however, failed to fulfil the minimum teaching requirement in the collective agreement between the parties, which clearly constituted control. Desjardins, J.A. says: “Besides, what is relevant is not so much the actual exercise of a control as the right to exercise a control”.
+[18] In Silverside Computer Systems Inc. v. M.N.R.[16] at issue was whether a highly skilled computer technician, who was placed by the Appellant placement agency with its client Pitney Bowes, was in insurable employment under the Act and pensionable employment under the Plan. This required a determination of whether he was subject to terms and conditions that constituted a contract of service or were analogous thereto. This, in turn, involved ascertaining if the worker was under the direction and control of the client. The Appellant argued that the trial judge erred in not construing the word “control” to mean the right to give orders and instructions to the employee regarding the manner in which the work is to be carried out. The Court of Appeal rejects this argument saying: “We are not persuaded that any reviewable error was committed by the Tax Court Judge”.
+[19] From these three cases, I conclude that for those in standard employment, control usually requires that the employer have the right or power to direct what the worker will do, and the manner in which, or how it shall be done. In the case of highly skilled or professional workers, however, the necessary control is established if the employer has the right to tell the worker what to do, even though he cannot tell him or her how to do it.
+[20] The Supreme Court of Canada next addressed the control issue in Sagaz. This was a case in which Landow, the sole shareholder of American Independent Marketing Inc. (“AIM”), bribed Summers, the head of Canadian Tire Corporation’s automotive division, to purchase its imitation sheepskin seat covers from Sagaz. If AIM was Sagaz’s agent, Sagaz would be vicariously liable for Landow’s tortious conduct, but not if it was an independent contractor, carrying on business on its own account.
+[21] Major, J. per curiam, reviews inter alia the various judicial findings in Walker, Hôpital; Montreal City, Market Investigations, and Wiebe Door. After finding that Landow and AIM had a chance of profit and a risk of loss in their dealings with Sagaz since they worked strictly on commission, he then concludes at paragraph 55:
+Central to this inquiry is the extent of control that Sagaz had over AIM. While Sagaz directed the prices, terms and other conditions that AIM was to negotiate on Sagaz’s behalf, AIM was ultimately in control of providing assistance to Sagaz in retaining the goodwill of Canadian Tire. Again, AIM decided how much time to devote to Sagaz and how much time to devote to its services for other supply companies. Although Sagaz controlled what was done, AIM controlled how it was done. This indicates that Landow was not controlled by Sagaz.
+[22] This case accordingly indicates that the four-in-one test for distinguishing an employee from an independent contractor is equally applicable in cases of vicarious liability as it is in employment law. Unfortunately, the Court does not articulate whether it considered Landow a highly skilled or professional person, or one in standard employment. Its finding that control requires that the payer dictate both what was to be done, and how it was to be done, therefore offers little guidance. Further, the language used by the Court imply only that de facto control over the worker is sufficient, but does not address the legal significance of de jure control.
+[23] Wolf affords the first contemporary opportunity to learn from the Federal Court of Appeal whether “control” bears the same definition at common law as it does under the Civil Code of Québec. The worker involved was a highly specialized aeronautical engineer. Desjardins, J.A. says at paragraph 43:
+…a contractor or a provider of services, according to articles 2098 and 2099 of the Civil Code of Québec, undertakes to carry out physical or intellectual work for another person, or to provide a service to him, for an agreed price. The contractor or the provider of service is free to choose the means of performing the contract and no relationship of subordination exists between the contracting parties in respect of such performance.
+[24] She then cites the case of Curley v. Latreille[17] where it was noted that the rule is identical on this point to the common law. She concludes that the distinction between a contract of employment and a contract for services under the Civil Code of Québec can be examined in light of the tests developed through the years both in the civil and in the common law.
+[25] As to the difference between de facto and de jure control, and standard vs. highly skilled employment, Desjardins, J.A. says at paragraph 74 of Wolf:
+… if the worker has complete control over the performance of his work once it has been assigned to him, this factor might qualify the worker as an independent contractor. On the other hand, if the employer controls in fact the performance of the work or has the power of controlling the way the employee performs his duties (Gallant v. Canada (Department of National Revenue, [1986] F.C.J. No. 330 (Fed, C.A.) (QL), the worker will be considered an employee.
+[26] Having accordingly found that either de facto or de jure control will suffice, she then recognizes that the distinction between what duties are done and the way they are done is difficult to apply in the case of highly skilled or expert workers, whose expertise exceeds that of the employer. She provides as examples the pilot who is generally an employee although no one tells him how he should fly his airplane, and the doctor working in a clinic who may be an employee although he is master of his professional practice.
+[27] Decary, J.A., concurring in the result, joins those judges who have held that the necessary control is de jure, saying at paragraph 112:
+…what fundamentally distinguishes a contract of services from a contract of employment is the absence in the former of a “relationship of subordination” between the provider of services and the client (Article 2099 C.C.Q.) and the presence in the latter of the right of the employer to “direct and control” the employee.
+[28] The worker in Wolf was a highly skilled and specialized aeronautical engineer as aforesaid, who could not therefore be told how to perform his function. He was also a risk-taker who chose higher remuneration, the ability to deduct allowable expenses for income tax purposes, and freedom of mobility, over job security, and employee-type benefits. He was therefore found to be an independent contractor.
+[29] That the Civil Code concept of a relationship of subordination has been firmly incorporated into the common law is evidenced by the case of City Water International Inc. v. M.N.R.[18], where at paragraph 18 Malone, J.A. cites D & J Driveway, as authority for the following proposition: “A contract of employment requires the existence of a relationship of subordination between the employer and the employee. The concept of control is the key determinant used to characterize that relationship”.
+[30] On the other hand, a judicial finding of a relationship of subordination alone is not enough to establish a worker as an employee. In Combined Insurance Co. of America v. M.N.R.[19], a case under the Civil Code of Quebec, the Federal Court of Appeal reverses a Tax Court Judge who, relying on article 2099 of the Code, found that once the degree of control exercised by the Appellant was such that a relationship of subordination existed between the Respondent and the Appellant, that was determinative of the existence of a contract of service, and there was no need, apart from the test of control, to adopt the tests established in Wiebe Door and Sagaz.
+[31] In The Royal Winnipeg Ballet, Sharlow, J.A. at paragraph 50, confirms that: “It is generally accepted that, under the Code, the key distinction lies with the element of subordination or control, but in the jurisprudence, the distinction is also examined in light of the tests now found in Wiebe Door and Sagaz”. As to control over the dancers in the company, she reasons as follows at paragraph 66:
+… It seems to me that while the degree of control exercised by the RWB over the work of the dancers is extensive, it is no more than is needed to stage a series of ballets over a well planned season of performances. If the RWB were to stage a ballet using guest artists in all principal roles, the RWB's control over the guest artists would be the same as if each role were performed by a dancer engaged for the season. If it is accepted (as it must be), that a guest artist may accept a role with the RWB without becoming its employee, then the element of control must be consistent with the guest artist being an independent contractor. Therefore, the elements of control in this case cannot reasonably be considered to be inconsistent with the parties' understanding that the dancers were independent contractors.
+[32] These observations may be confined to these specific fact situation before the Court, for in National Capital Outaouais Ski Team v. M.N.R.[20], (“National Capital”) which involved a skier by the name of Belanger, the Court says at paragraph 14: “In addition, the notion of control in the RWB case had a different tinge. It was ‘needed to stage a series of ballets over a well planned season of performances’ …In other words the control aimed at orchestrating a choreographic performance. This is not the case with Mr. Belanger.”
+[33] Precision Gutters Ltd. v. M.N.R.[21] (“Precision”) involved workers who installed eavestroughing (gutters) and were therefore not highly skilled or professional persons. The Federal Court of Appeal, at paragraph 15, simply describes the control test as follows: “the degree or absence of control exercised by the employer”. Unfortunately, the Court does not specify whether the control involved is de facto or de jure, nor does it delve into the distinction between what is to be done, and the manner in which it is to be done. It merely says at paragraph 22:
+The Tax Court Judge concluded on the evidence that the control test favoured characterizing the installers as independent contractors. The respondent does not appear to question this finding and I see no basis for disagreeing with the conclusion of the Tax Court Judge.
+[34] From this survey of the jurisprudence we can conclude that either de jure or de facto control over the worker is a condition of a contract of service. As well, the examples of the captain of a ship at sea and the airborne pilot who are beyond the control of their masters, but who are nonetheless clearly employees, shows that there is now a definite distinction between standard, and non‑standard highly skilled or professional employment. In the former, the employer has the right to tell the worker both what to do and how, or the manner in which, the work is to be done. In the latter, it suffices if the payer has the right to dictate what shall be done. It is also clear that the test for control is the same under the common law as it is under the Civil Code of Québec; that the “relationship of subordination” concept is a useful import from the civil law in discerning what is or is not a contract of service; and that the tests developed in the context of vicarious liability situations are equally applicable to cases involving employment law, even though the underlying policy considerations involved are quite different.
+[35] Applying the above principles to the fact situation before me, and adverting first to the issue of control, according to Mr. Latiq Qureshi, Logitek’s President, there was no control or direction either over Zubairi’s work, or the specific timings of his visits to the corporate offices. Unlike Logitek’s employees, Zubairi could come and go as he pleased, and his hours of work were in no way integrated into or co-ordinated with Logitek’s operations.
+[36] I am mindful that many barristers and solicitors have retainer arrangements with clients whereby they are regularly paid periodic amounts to handle all their clients’ legal matters in general, yet nevertheless maintain their status as independent contractors. In this case, however, Zubairi was provided by Logitek with an office and computer, and a cellular phone in addition to his own dedicated telephone line. He was also afforded the same health benefit plan as the company’s employees, at the same cost, and his professional development courses were paid for by Logitek. Moreover, his prominent position on the corporate website describes him as a key component of the company’s management team, thereby holding him out as an integrated employee. All this is indicative of a degree of co-ordination into Logitek’s business which is consistent with a contract of service[22].
+[37] Given his specialized expertise, the evidence suggests that he was expected to perform his services for the company personally. In fact, he testified that he did so. This is of some importance, for in Ready Mixed MacKenna, J. quotes Professor Atiyah on vicarious liability as follows: “The servant must be obliged to provide his own work and skill. Freedom to do a job either by one’s own hands or by another’s is inconsistent with a contract of service, though a limited or occasional power of delegation may not be:”. In addition, there was no evidence that Zubairi had the right to refuse to undertake whatever assignments Logitek gave him[23]. This puts him in a relationship of subordination with Logitek which is also characteristic of a contract of employment[24].
+[38] Further, while the evidence indicates that Logitek exerted little or no de facto control over Zubairi’s comings and goings, I am not satisfied that Logitek did not have de jure control over them, given his $117,000 retainer and his integration into the company’s culture. It simply chose not to exercise it. Finally, in my view, it was sufficient to establish the requisite control that the company had the right to tell him, as a professional person, what to do, although not the manner in which it was to be done. I conclude that the control factor tends to indicate that Zubairi was an employee of Logitek’s during the period under review.
+[39] Ownership of tools is relevant because it relates to control. McKenna, J., in Ready Mixed, at pages 444-445, quotes subsection 220(2) of the American Restatement, Agency 2nd as follows:
+…if the worker is using his employer’s tools or instrumentalities, especially if they are of substantial value, it is normally understood that he will follow the directions of the owner in their use, and this indicates that the owner is a master. This fact is, however, only of evidential value.
+In the matter before me, Zubairi was provided with an office, a computer containing all Logitek’s financial information, a cellular phone and a land line as aforesaid. He claimed that he periodically had to take the company’s books home and work on them using his own computer and related equipment, but was vague as to the necessity for this. The ownership of tools factor accordingly also indicates that he was an employee.
+[40] On the other hand, he did have a chance of profit in his dealings with Logitek. His normal billing rate was $150 to $200 per hour, a figure he presumably set because it would cover his fixed and variable business expenses, and produce a profit. The Logitek retainer of $117,000 per annum assured him a highly profitable $280 per hour, given his 40 hour per month commitment. The chance of profit factor accordingly indicates that Zubairi was an independent contractor.
+[41] Conversely, with the company reimbursing him for all expenditures on its behalf, Zubairi had no risk of loss in his arrangement with Logitek. He claimed to be “responsible” if he gave the company bad advice, but was vague about the financial ramifications of this eventuality. When asked if he could not insure himself against such liability, he maintained, incredibly, that he could not afford the annual premium of $850. The risk of loss factor also leads to the conclusion that Zubairi was employed under a contract of service with Logitek during the period under review.
+[42] While the common intention of the parties that Zubairi be an independent contractor in their working relationship is not determinative of its legal nature as aforesaid, Desjardins, J. in The Royal Winnipeg Ballet offers the following guidance as to its relevance at paragraph 81:
+…what the Tax Court judge should have done was to take note of the uncontradicted evidence of the parties’ common understanding that the dancers should be independent contractors and then consider, based on the Wiebe Door factors, whether that intention was fulfilled.
+In the matter before me it clearly was not, since three of the four Wiebe Door guidelines indicate that Zubairi was an employee of Logitek.
+[43] As stated earlier, in order to resolve the issue before the Court, I am to consider the entire relationship of the parties. In Precision at paragraph 14, it was held that integration is not one of the Wiebe Door four-in-one tests, but is a wholly separate test. Following Market Investigations and Wiebe Door, the Federal Court of Appeal at paragraph 30, directs the trial judge to address the question: “… is the person who has engaged himself to perform the services performing them as a person in business for his own account”. This involves consideration of whether Zubairi integrated his function into Logitek’s business, or if he integrated Logitek’s needs into his business.
+[44] When asked how much of his annual income was derived from Logitek, and how much from his other clients and his store, Zubairi claimed to have no breakdown, which seems unusual for an accountant. His T1 General Income Tax Return for 2005 was more enlightening. It showed total gross professional fees of $92,000 at a time when he was receiving $95,200 from Logitek alone. He attempted to account for the shortfall by explaining that his revenues were treated on a cash, rather than an accrual basis, and that there could well have been work in progress at the end of the fiscal year that made up for the difference. Be that as it may, it is obvious that his revenues apart from those received from Logitek, form an insignificant part of his income. It is therefore clear that Zubairi integrated his function into Logitek’s business. From this, I conclude that Zubairi devoted his spare time as an independent contractor in his accounting practice and retail store, while being employed under a contract of service with Logitek.
+[45] Further, even though Zubairi had a full-time store manager (whom he also considered an independent contractor), in 2005 his children received $20,000 from the retail store as independent contractors performing unspecified services which contributed to a business loss of some $36,000. At the same time his wife received a further $20,000 from his accounting practice also as an independent contractor, for services whose description was again, vague. I conclude that the private practice and store were convenient vehicles designed to provide his family members with a source of income, and to make available the resultant “loss” as a deduction from the income taxes otherwise payable on the remuneration garnered from Logitek.
+[46] In these matters, the burden is upon the Appellants to demolish the assumptions set out in the Minister’s reply to their notices of appeal[25]. The facts assumed by the Minister must be presumed to be true until the contrary is shown[26]. The only assumption successfully challenged by the Appellants was 7(k) which alleges: “Prior to the Appellant being hired, the same duties were performed by a full-time Chief Financial Officer”. As aforesaid, the prior chief financial officer was hired to convert Logitek into a publicly traded company, whereas Zubairi’s role was to supervise its reorganization upon its insolvency. The remaining facts which were not demolished are sufficient in law to support the Minister’s determinations[27].
+[47] The function of a Tax Court of Canada judge hearing an appeal from the Minister’s decision is to verify the existence and accuracy of the alleged facts and the assessment of them by the Minister or his officials, and after doing so, to decide in light of that whether the Minister’s decision still seems to be objectively reasonable[28]. In exercising this function the judge must accord the Minister a certain measure of deference, as to the initial assessment, and cannot simply substitute his own opinion for that of the Minister unless there are new facts or evidence that the known facts were misunderstood or wrongly assessed[29].
+[48] I note that these directions were originally articulated by the Federal Court of Appeal in Légaré and Pérusse which were both cases in which the Minister was called upon to exercise his discretion under paragraph 5(3)(b) of the Act. Livreur Plus establishes that these instructions are equally applicable to all judicial distinctions between independent contractors and those who are in insurable employment under the Act, and pensionable employment under the Plan. Again, while both Légaré and Pérusse were heard under the Civil Code of Québec, Valente v M.N.R.[30] directs that the rules formulated therein be equally applied to cases heard under the common law.
+[49] In the result, the Appellants have failed to discharge the onus of demolishing the assumptions set out in the Minister’s replies to their notices of appeal; there is no evidence that there are new facts or that the known facts were misunderstood or wrongly assessed by the Minister whose determinations I therefore find to be objectively reasonable[31].
+[50] Both appeals are dismissed and the decisions of the Minister are confirmed.
+Signed at Toronto, Ontario, this 11th day of July 2008.
+"N. Weisman"
+Weisman D.J.
+CITATION:
+2008 TCC 331
+COURT FILE NOS.:
+2006-2748(CPP) and
+2006-2809(CPP)
+STYLE OF CAUSE:
+Logitek Technology Ltd.,
+Mateen Zubairi and
+The Minister of National Revenue
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 6, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable N. Weisman,
+Deputy Judge
+DATE OF JUDGMENT:
+July 11, 2008
+APPEARANCES:
+Agent for the Appellant:
+Gul Nawaz
+Counsel for the Respondent:
+Bonnie Boucher
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985, c. C-8 as amended
+[2] S.C. 1966, c.23
+[3] Ready Mixed Concrete (South East) Ltd. v. Minister of Pensions and National Insurance, [1968] 1 All E.R. 433 (Q.B.D.)(“Ready Mixed”); Wiebe Door Services v. M.N.R. (1986), 87 DTC 5025 (FCA)(“Wiebe Door”); Standing v M.N.R., [1992] F.C.J. No. 890; 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. No.61 (“Sagaz”); Wolf v. Canada (C.A.), [2002] 4 F.C. 396 (FCA) (“Wolf”); D & J Driveway Inc. v. M.N.R., 2003 FCA 453 (“D & J Driveway”); Livreur Plus Inc. v. M.N.R., [2004] F.C.J. No. 267 (F.C.A.) (“Livreur Plus”); The Royal Winnipeg Ballet v. M.N.R., [2006] FCA 87 (“The Royal Winnipeg Ballet”)
+[4] Wiebe Door
+[5] Sagaz
+[6] The Royal Winnipeg Ballet
+[7] Wiebe Door
+[8] Montreal City v. Montreal Locomotive Works Ltd. et al., [1947] 1 D.L.R. 161 (“Montreal City”)
+[9] Charbonneau v. M.N.R., [1996] F.C.J. No. 1337 (F.C.A.) (“Charbonneau”)
+[10] (1858), 27 L.J.M.C. 207, 208
+[11] (1949), 79 C.L.R. 389 at 404
+[12] [1968] 3 All E.R. 732 at 736 (Q.B.D.)
+[13] [1978] 1 S.C.R. 605 at 613
+[14] [1986] F.C.J. No. 330 (F.C.A.)
+[15] [1995] F.C.J. No. 294 (F.C.A.)
+[16] [1997] F.C.J. No. 1591 (F.C.A.)
+[17] (1920), 60 S.C.R. 131
+[18] 2006 FCA 350
+[19] [2007] F.C.J. No.124
+[20] [2008] F.C.J. No. 557
+[21] [2002] F.C.J. No.771
+[22] Canada v. Rousselle, [1990] F.C.J. No. 990 (F.C.A.)
+[23] Livreur Plus at paragraph 40; Precision at paragraph 27
+[24] Charbonneau; D & J Driveway; Livreur Plus at paragraph 18
+[25] Johnston v. M.N.R., [1948] S.C.R. 486; Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336 at paragraph 92-93
+[26] Livreur Plus; National Capital Outaouais Ski Team v. M.N.R.; Dupuis v. M.N.R., [2003] F.C.J. No. 1410 (F.C.A.)
+[27] Jencan Ltd. v. M.N.R., [1997] F.C.J. No. 876 (FCA)
+[28] Légaré v. M.N.R., [1999] F.C.J. No. 878 (“Légaré”); Pérusse v. M.N.R., [2000] F.C.J. No. 310 (“Pérusse”); Massignani v. M.N.R., 2003 FCA 172; Bélanger v. M.N.R., 2003 FCA 455; Livreur Plus
+[29] Pérusse at paragraph 15
+[30] [2003] F.C.J. No. 418 (FCA)
+[31] Légaré; Pérusse; Livreur Plus

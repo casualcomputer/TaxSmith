@@ -1,0 +1,374 @@
+---
+title: "Larochelle c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26577/index.do"
+last_modified: "2004-05-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 360"
+citation2: ""
+neutral_citation: "2004 CCI 360"
+decision_date: "2004-05-14"
+language: "fr"
+item_id: "26577"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3585
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:27:48.659000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0fe70f3e7fa615c37feb3cd716d88b35eb25c7b87cb8ae20bb0f3c8626f3ab2e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Larochelle c. La Reine
+
+- Citation: 2004 CCI 360
+- Decision date: 2004-05-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3585, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larochelle c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-14
+Référence neutre
+2004 CCI 360
+Numéro de dossier
+2002-232(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2002-232(IT)G
+ENTRE :
+ANDRÉE LAROCHELLE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+___________________________________________________________________
+Appel entendu le 25 février 2004 et le 5 avril 2004 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Robert Marcotte
+Avocate de l'intimée :
+Me Nathalie Lessard
+____________________________________________________________________
+JUGEMENT
+L'appel de l'avis de la cotisation établi en vertu du paragraphe 160(2) de la Loi de l'impôt sur le revenu, portant le numéro 19704 et dont copie a été transmise le 18 janvier 2002, est rejeté, avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de mai 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI360
+Date : 20040514
+Dossier : 2002-232(IT)G
+ENTRE :
+ANDRÉE LAROCHELLE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une cotisation établie en vertu de l'article 160 de la Loi de l'impôt sur le revenu ( « Loi » ). L'avis de cotisation au montant de 116 940,04 $ et portant le numéro 19704 a été établi à la suite du transfert de la seule action de la Société « Les Assurances Gérard Pelchat inc. » détenue par monsieur Gérard Pelchat, le conjoint de l'appelante, la bénéficiaire du transfert. Le transfert a été fait moyennant le paiement d'une contrepartie de 10 $, soit la valeur nominale de l'action attribuée lors de son émission au moment de la constitution de la Société.
+[2] La question en litige est de déterminer si l'appelante est solidairement responsable, avec monsieur Gérard Pelchat, en vertu de l'article 160 de la Loi, du paiement de la dette fiscale de 116 940,04 $ de ce dernier en vertu de la Loi à l'égard des années d'imposition 1994, 1995 et 1996.
+[3] L'appel a été initié par le dépôt des prétentions de l'appelante, exprimées comme suit :
+2) L'APPELANTE était en 1996 la conjointe de monsieur Gérard Pelchat [...] (ci-après le « conjoint » );
+3) Le conjoint de l'APPELANTE détient une licence de Courtier en assurances;
+4) Avant le 13 novembre 1984, le conjoint de l'APPELANTE exploitait personnellement une entreprise de courtier d'assurance depuis 1979;
+5) La compagnie Les Assurances Gérard Pelchat inc. (ci-après la « Compagnie » ) a été constituée en compagnie le 13 novembre 1984;
+6) La Compagnie fait la vente d'assurance et des fonds de placement;
+7) Au moment de la constitution de la Compagnie, son seul actionnaire et administrateur était le conjoint de l'APPELANTE, ce dernier détenant une action ordinaire de la Compagnie qui a été émise pour une considération de dix dollars (10,00 $);
+8) Le conjoint de l'APPELANTE n'a jamais vendu ou autrement transféré à la Compagnie ses droits dans son entreprise de courtier d'assurances incluant notamment la liste des clients et quelqu'achalandage;
+9) Du 1er mars au 23 juillet 1985, les droits du conjoint de l'APPELANTE dans la Compagnie ont été exercés par des prête-noms. À cette fin, les transactions suivantes ont été inscrites dans les livres de la Compagnie :
+a) Le 1er mars 1985, le conjoint de l'APPELANTE a transféré l'action ordinaire qu'il détenait dans la Compagnie en faveur de monsieur Claude Feuiltaut pour une considération de dix dollars (10,00 $) et a démissionné à titre de président et de secrétaire de la Compagnie.
+b) Le 1er mars 1985, la Compagnie a émis une action ordinaire au prix de dix dollars (10,00 $) en faveur de madame Johanne Laberge Feuiltaut et le siège de la Compagnie a été transféré au 9450, Henri-Bourassa à Charlesbourg.
+c) Du 1er mars 1985 jusqu'au 23 juillet 1985, le conjoint de l'APPELANTE agissait à titre de vice-président de la Compagnie mais ne détenait aucune action de la Compagnie. Monsieur Claude Feuiltaut en était le président et madame Johanne Laberge Feuiltaut la secrétaire.
+d) Le 23 juillet 1985, Monsieur Claude Feuiltaut et madame Johanne Laberge Feuiltaut ont transféré leurs actions ordinaires en faveur du conjoint de l'APPELANTE pour une considération totale de vingt dollars (20,00 $) et ont démissionné à titre d'administrateurs de la Compagnie. Le siège de la Compagnie a alors été transféré à l'adresse du conjoint de l'APPELANTE qui est devenu président et seul actionnaire de la Compagnie;
+10) Le bilan de la Compagnie dressé au 31 octobre 1996 par Jacques Amyot, c.g.a., indiquait les valeurs suivantes (en dollars) :
+ACTIF
+À court terme
+Encaisse
+2 919
+Recevables
+5 600
+8 519
+Immobilisations (au coût amorti)
+Équipement
+838
+Ordinateur
+935
+1 773
+10 292
+PASSIF
+À court terme
+Payables et courus
+0
+Impôts à payer
+0
+0
+Avoir des actionnaires
+Capital-actions émis et payé
+20
+Bénéfices non répartis
+Solde au début
+10 265
+Plus : Bénéfices nets
+7
+10 272
+10 292
+10 292
+11) Le 28 novembre 1996, le conjoint de l'APPELANTE a démissionné à titre d'administrateur de la Compagnie;
+12) Le 28 novembre 1996, le conjoint de l'APPELANTE a transféré à l'APPELANTE l'action ordinaire qu'il détenait dans la Compagnie au prix de dix dollars (10,00 $) par voie de résolution inscrite dans le livre de minutes de la Compagnie (ci-après le « transfert à l'APPELANTE » );
+13) Lors du transfert de l'action ordinaire de la Compagnie en faveur de l'APPELANTE, le conjoint de l'APPELANTE n'a souscrit à aucun engagement de non-concurrence ou de non-sollicitation et n'a convenu d'aucun contrat d'emploi envers l'APPELANTE ni envers la Compagnie;
+14) Ni avant le transfert de l'action en faveur de l'APPELANTE ni depuis cette date, la Compagnie n'a détenu de permis de courtier d'Assurance;
+15) Ni avant le transfert de l'action en faveur de l'APPELANTE ni depuis cette date, l'APPELANTE n'a détenu de permis de courtier d'Assurance;
+16) La Compagnie a toujours opéré son entreprise en utilisant le permis de courtier du conjoint de l'APPELANTE;
+17) En janvier 1999, le conjoint de l'APPELANTE a fait faillite;
+18) Le 23 février 2000, Revenu Canada (ci-après « l'Agence » ) a émis à la Compagnie un avis de nouvelle cotisation ayant pour effet d'augmenter de 2 846,51 $ les impôts payables par la compagnie pour son exercice financier terminé le 31 octobre 1996;
+19) Le 23 février 2000, Revenu Canada (ci-après « l'Agence » ) a émis à la Compagnie un avis de nouvelle cotisation ayant pour effet d'augmenter de 6 699,20 $ les impôts payables par la Compagnie pour son exercice financier terminé le 31 octobre 1997;
+20) Suite à un avis d'opposition, le 14 décembre 2000, l'Agence a émis à la Compagnie un avis de nouvelle cotisation ayant pour effet d'ajuster à 2 390 $ les impôts payables par la compagnie pour son exercice financier terminé le 31 octobre 1996;
+21) Suite à un avis d'opposition, le 14 décembre 2000, l'Agence a émis à la Compagnie un avis de nouvelle cotisation ayant pour effet d'ajuster à 6 322 $ les impôts payables par la compagnie pour son exercice financier terminé le 31 octobre 1997;
+22) Le 30 avril 2001, le Ministère du revenu du Québec a émis à la Compagnie un avis de nouvelle cotisation ayant pour effet d'augmenter de 1 070 $ les impôts payables par la compagnie pour son exercice financier terminé le 31 octobre 1996;
+23) Le 30 avril 2001, le Ministère du revenu du Québec a émis à la Compagnie un avis de nouvelle cotisation ayant pour effet d'augmenter de 2 683 $ les impôts payables par la compagnie pour son exercice financier terminé le 31 octobre 1997;
+24) Le 20 juin 2001, le Ministre émettait à l'APPELANTE l'avis de cotisation no 19704 au montant de 116 940,04 $ relatif à « L'obligation en vertu du paragraphe 160(1) de la Loi de l'impôt sur le revenu au montant de 116 940,04 $ à l'égard de la vente d'une action ordinaire de « Les Assurances Gérard Pelchat inc. » fait le 28 novembre 1996 entre Gérard Pelchat et Andrée Larochelle. » ;
+25) Le 9 juillet 2001, l'APPELANTE a dûment logé un avis d'opposition à l'avis de cotisation numéro 19704 émis le 20 juin 2001;
+[4] En réponse à l'avis d'appel, l'intimée a énuméré les hypothèses de fait tenus pour acquis pour établir et confirmer la cotisation. Ces faits sont énumérés au paragraphe 25 de la Réponse à l'avis d'appel.
+a) « Les Assurances Gérard Pelchat inc. » (ci-après « Assurances G.P. » ) a été constituée le 13 novembre 1984 en vertu de la partie 1A de la Loi sur les compagnies;
+b) au moment de sa constitution, Assurances G.P. a émis une action ordinaire au nom de Gérard Pelchat au prix de 10 $;
+c) Assurances G.P. n'a émis aucune autre action entre le 13 novembre 1984 et le 28 novembre 1996;
+d) le 28 novembre 1996, Gérard Pelchat a vendu son action ordinaire de Assurances G.P. à l'appelante (ci-après, le « transfert » ) pour une contrepartie de 10 $ de la part de cette dernière;
+e) au moment du transfert, Gérard Pelchat était l'époux de l'appelante;
+f) la juste valeur marchande de l'unique action du capital-actions de Assurances G.P., au 28 novembre 1996, était de 190 000 $;
+g) Gérard Pelchat avait une dette fiscale envers le Ministre pour les années d'imposition 1994, 1995 et 1996;
+h) cette dette fiscale de Gérard Pelchat totalisait 116 940,04 $ au 20 juin 2001 et se répartissait comme suit :
+Année d'imposition
+1994
+1995
+1996
+Impôt
+17 509,26 $
+23 641,54 $
+24 708,68 $
+Assurance-emploi
+Pénalités
+10 298,16 $
+14 271,47 $
+615,12 $
+Intérêts
+11 413,70 $
+10 239,98 $
+4 142,13 $
+Total
+39 321,12 $
+48 152,99 $
+29 465,93 $
+i) Gérard Pelchat a fait faillite le 26 janvier 1999 et sa dette fiscale est demeurée impayée;
+j) avant et après le transfert, Assurances G.P. bénéficiait d'une clientèle, source de ses revenus de commissions et de ses honoraires;
+k) Assurances G.P. a indiqué, dans ses déclarations de revenus, des revenus de commissions et honoraires (avant les frais d'exploitation), pour chacune des années d'imposition respectives se terminant aux dates suivantes :
+Année d'imposition
+Revenus de commissions /
+honoraires
+31 octobre 1994
+83 608 $
+31 octobre 1995
+131 953 $
+31 octobre 1996
+82 726 $
+31 octobre 1997
+139 500 $
+l) le 8 octobre 1996, Assurances G.P. et Assurances Bertrand Carrier inc. (ci-après « Assurances B.C. » ) ont signé une convention par laquelle elles convenaient, notamment, de se référer certains clients et de partager, à parts égales, les commissions et bonis perçus à l'égard des dossiers de clients ainsi référés;
+m) de plus, la convention prévoyait un rachat de clientèle, pour 400 000 $, par Assurances G.P. ou par Assurances B.C. advenant le décès de Bertrand Carrier dans le premier cas ou celui de Gérard Pelchat dans le second cas et cette convention était supportée par des contrats d'assurance-vie de dix ans sur la vie de Bertrand Carrier et de Gérard Pelchat, le bénéficiaire de ces polices étant, respectivement, Assurances G.P. et Assurances B.C.;
+n) au passif de son bilan de l'exercice se terminant le 31 octobre 1996, Assurances G.P. a indiqué un solde nul au titre de l'impôt à payer.
+[5] Au sujet de son expérience de travail, l'appelante a témoigné qu'elle avait participé à certains travaux de bureau en matière de propositions d'assurance; elle s'assurait de la conformité de toutes les informations pertinentes et requises par la Société à laquelle était présentée la proposition d'assurance. Elle a décrit son travail comme suit :
+Années 1996-1997
+Pour les Assurances Gérard Pelchat inc. et les Assurances Bertrand Carrier inc. (dans une proportion moindre)
+Mes tâches consistaient à rencontrer les clients pour finaliser les documents et formulaires et les acheminer aux compagnies concernées.
+Faire suivis de dossiers, et livrer les contrats aux clients.
+Imprimer les relevés de placement des clients, leur expédier par courrier ou leur remettre en personne (pour les clients plus importants).
+Recevoir les clients au bureau.
+Faire l'entraînement d'un autre employé pour travail de bureau afin qu'éventuellement je me consacre uniquement au travail sur la route.
+[6] Dans les faits, l'appelante avait très peu de connaissances en matière d'administration. Elle ne faisait pas la différence entre son conjoint personnellement et ce dernier ès qualités de dirigeant de la Société, « Les Assurances Gérard Pelchat inc. » . Pour elle, c'était du pareil au même.
+[7] Elle n'a jamais vraiment compris pourquoi elle est devenue propriétaire de la seule action de la Société « Les Assurances Gérard Pelchat inc. » . Elle n'a jamais su d'où venait la contrepartie et encore moins ce que le transfert avait et aurait pour conséquences.
+[8] Elle se fiait totalement et entièrement à son conjoint, obtempérait à ses instructions et s'en remettait à lui aveuglément pour tout ce qui concernait la comptabilité, l'administration, les affaires de la Société et surtout les divers avis relatifs à la cotisation. Elle a d'ailleurs affirmé qu'elle ne se sentait aucunement concernée par les avis de cotisation à l'origine de l'appel.
+[9] La preuve a démontré que l'appelante avait mis à la disposition de son conjoint l'entièreté de son patrimoine financier et cela, sans droit de regard.
+[10] Détenteur d'un diplôme universitaire en administration, le conjoint de l'appelante a également témoigné. Dans le cadre de ses activités professionnelles, l'appelant s'est décrit comme une personne qui n'était à l'aise qu'avec les choses simples; il a affirmé n'avoir jamais voulu s'impliquer dans les dossiers complexes, qu'il préférait laisser à des collègues.
+[11] Il a affirmé qu'il se présentait à de ses clients comme un simple conseiller; il offrait des produits également simples et peu sophistiqués. Il a aussi mentionné qu'il ignorait les exigences relatives au registre des procès-verbaux d'une société et la façon de le tenir. Selon lui, tant ses affaires personnelles que celles de la Société dont il était le seul actionnaire avant le transfert étaient administrées à la bonne franquette.
+[12] Il a présenté toute une série d'explications pour justifier l'absence de valeur de la seule action en circulation qu'il a vendue à l'appelante, sa conjointe, pour sa valeur nominale, soit 10 $. Il a notamment affirmé qu'il aurait pu laisser tomber la Société et en créer une nouvelle pour un déboursé minimal. Il a écarté cette hypothèse et a plutôt voulu que son épouse s'implique un peu plus en espérant que la Société se construirait éventuellement une réserve ou un fond non réparti. Il a aussi affirmé qu'à la suite de mauvais placements, il avait voulu protéger la réputation de la Société.
+[13] Grosso modo, Gérard Pelchat a indiqué que l'action transférée à son épouse n'avait aucune valeur puisque, selon lui, la Société qu'il contrôlait n'avait pas de client et si elle en avait, c'était sans effet sur la valeur de la Société. En d'autres termes, monsieur Pelchat a soutenu que, sans sa participation et son implication personnelle, la Société qu'il contrôlait n'avait aucune valeur marchande. Il a soutenu qu'il contrôlait tous ses clients si bien qu'il aurait pu tous les reprendre de la Société si jamais elle était abandonnée ou était cédée à des tiers ou si son action était saisie; elle serait alors devenue une société sans clients ni revenu et, conséquemment, sans valeur.
+[14] Au moment du transfert, il n'a consulté personne pour connaître la juste valeur marchande ( « J.V.M. » ) de l'action cédée, qui conférait le contrôle de la Société.
+[15] Se décrivant comme une personne-ressource en matière de placements, le conjoint de l'appelante se considérait surtout compétent pour soumettre des idées dans le domaine des placements. Il fuyait les affaires complexes et ses suggestions à ses clients étaient généralement très simples.
+[16] Sa clientèle était constituée principalement de personnes âgées, voire même très âgées, lesquelles lui confiaient leurs économies qu'il plaçait de diverses façons en se concentrant cependant surtout sur des placements tels que des dépôts à terme, jusqu'à l'achat de fonds communs et de fonds mutuels. Quoiqu'il devait tenir un registre de clients, la Société n'en avait aucun et ce, pour la bonne et simple raison qu'il ignorait être assujetti à une telle obligation de tenir un ou des registres.
+[17] Les revenus générés par son travail étaient partagé par lui et la Société. Il n'existait aucune règle ni convention entre lui et la Société quant à la façon de partager les honoraires et aux raisons du partage. La seule chose clairement exprimée a été le fait que les commissions provenant de la vente de fonds mutuels ne pouvaient être attribuées à une société; pour cette raison, il encaissait personnellement les commissions découlant de telles ventes. Quant au reste, l'appelant a lui-même affirmé que la Société fonctionnait à la bonne franquette.
+[18] À la suite d'une vérification, il a fait l'objet d'une cotisation faisant état de revenus non déclarés; il est ainsi devenu débiteur d'une importante dette fiscale dépassant les 100 000 $ avec intérêts et pénalités. À la suite de la cotisation, il a fait cession de ses biens.
+[19] La preuve a également révélé que, quelques années auparavant, soit en 1986, craignant de faire l'objet de poursuites, il avait, encore là, cédé son action à des tiers cette fois pour mettre le patrimoine de la Société à l'abri de toute poursuite éventuelle résultant de sa déconfiture.
+[20] Gérard Pelchat a témoigné d'une manière très particulière pour quelqu'un qui a complété une formation universitaire en administration et qui a plusieurs années d'expérience en matière de placements.
+[21] Il a affirmé ne pas faire la différence entre crédits et débits, ne pas savoir que la Société devait avoir une liste de clients et toute une série de registres très précis et ne pas savoir ni comprendre l'importance du registre des procès-verbaux d'une société.
+[22] Il n'avait aucun registre ni entente quant au partage des honoraires entre lui et la Société qu'il contrôlait. Le partage était effectué sans critère spécifique, au gré du moment.
+[23] Bien que, selon Gérard Pelchat, la Société qu'il contrôlait n'avait aucune valeur, le 8 octobre 1996, il a participé à une convention avec un collègue, un certain Bertrand Carrier. La convention prévoyait ce qui suit :
+CONVENTION DE SOCIÉTÉ
+ENTRE
+ASS. GÉRARD PELCHAT INC. ET ASS. BERTRAND CARRIER INC.
+Attendu que Assurances Gérard Pelchat inc. et Assurances Bertrand Carrier inc. se référeront certains clients en placement, en assurance-vie et en assurance-salaire. Il est convenu que :
+Rémunération:
+Ass. Gérard Pelchat inc. et Ass. Bertrand Carrier inc. se verseront en contrepartie des références, une rémunération égale à 50% des commissions et bonis perçus sur chacun des dossiers référés sauf entente préalable. Les renouvellements se feront aux mêmes conditions sauf pour ce qui est des renouvellements en placements; ceux-ci, demeurant la propriété de Gérard Pelchat ou Bertrand Carrier.
+Rappel:
+En cas de rappel des commissions et bonis (laps), les partenaires s'engagent à se rembourser mutuellement, au prorata des sommes perçues.
+Transfert des dossiers du vivant:
+Si pour une raison ou une autre, cette entente prenait fin, les dossiers référés, par Ass. Gérard Pelchat inc. devront lui être retransmis sans condition. En cas d'invalidité totale de l'un ou l'autre des partenaires, (tel que stipulé dans leur contrat d'assurance-salaire), celui en état, assumera la poursuite des opérations et alors, tous les dossiers deviendront des références. L'invalide pourra toujours vendre sa clientèle à qui que ce soit et aux conditions qu'il désire, en offrant toutefois un droit de premier refus à son partenaire, aux mêmes prix et conditions.
+Transfert des dossiers en cas de décès:
+Au décès de l'un ou de l'autre des partenaires, un rachat de la clientèle sera effectué avec l'accord de la succession du défunt, au prix de quatre cent mille dollars (400,000$). Cette convention est supportée par des contrats d'assurance-vie pris auprès de TransAmérica dont le capital décès est de 500,000$. Le résidu (100,000$) restera au survivant comme couverture de l'homme clé.
+Les coordonnées des polices chez TransAmérica sont pour: Gérard Pelchat # 080000649 et pour : Bertrand Carrier # 080000659.
+[24] Aux dires de Gérard Pelchat, le contenu de la convention n'était ni pertinent ni utile pour évaluer la J.V.M. de l'action qu'il a transférée à son épouse. Il s'agissait là d'une convention dont le contenu avait été préparé par le co-signataire Bertrand Carrier, prétendument quelqu'un de très compétent. Il aurait pu être intéressant d'avoir la version de monsieur Carrier. L'appelante a choisi de ne pas le faire témoigner.
+[25] Quelle était la J.V.M. de l'action qui a fait l'objet du transfert dont a résulté la cotisation que l'appelante conteste dans le présent appel?
+[26] Il est beaucoup plus facile de définir la J.V.M. que de déterminer cette même J.V.M.
+[27] Une définition de la Cour fédérale fait probablement l'unanimité. Il s'agit de la définition de l'honorable juge Cattanach, dans l'affaire Henderson Estate and Bank of New York v. M.N.R., 73 DTC 5471, à la page 5476 :
+[traduction] La Loi ne donne aucune définition de l'expression « juste valeur marchande » [. . .]. Je ne pense pas qu'il faille chercher à définir exactement l'expression employée dans la Loi [. . .]. Dans son sens courant, me semble-t-il, cette expression désigne le prix le plus élevé que le propriétaire d'un bien peut raisonnablement s'attendre à en tirer s'il le vend de la façon normale pour le bien en question et dans le cours ordinaire des affaires, le marché n'étant pas soumis à des pressions inhabituelles et étant constitué d'acheteurs disposés à acheter et de vendeurs disposés à vendre, qui n'ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d'acheter ou de vendre. J'ajouterais que cette interprétation, exprimée de façon générale, comprend ce que j'estime être l'élément essentiel, soit un marché libre de toutes restrictions où le prix est établi par le jeu de la loi de l'offre et de la demande entre des acheteurs et des vendeurs avertis et désireux d'acheter et de vendre.
+[Je souligne.]
+[28] En l'espèce, il s'agit d'évaluer la J.V.M. d'une action, la seule; cette dernière conférait le contrôle total des affaires de la Société concernée, d'où l'importance de faire porter l'analyse sur l'actif, le passif et les perspectives futures de la Société.
+[29] Une action qui confère le contrôle d'une société est un bien difficile à évaluer et ce, pour de multiples raisons. D'abord, il n'existe pas de critères de référence vraiment dignes de confiance à cause de l'infinité de données possibles.
+[30] En matière immobilière, les approches ont l'avantage de pouvoir s'appuyer sur des fondements ayant une certaine objectivité; je fais notamment référence au site de l'immeuble, aux matériaux utilisés, à l'année de construction, à la qualité de l'entretien, à l'état général des lieux, à la superficie, aux revenus et finalement aux immeubles comparables.
+[31] Rien d'aussi fiable n'existe en matière d'évaluation d'actions de la Société, particulièrement lorsqu'il s'agit de petites sociétés privées. Le tribunal doit analyser le travail des experts en fonction de leur expérience, de la prise en considération de tous les éléments pertinents et de l'importance accordée aux divers aspects dans les expertises présentées à la Cour.
+[32] Avant d'analyser le processus ayant conduit à la détermination de la J.V.M. de l'action transférée, il m'apparaît opportun de rappeler que cette détermination sous-entend qu'il faut tenir pour acquis que le vendeur doit avoir tout fait et avoir été disposé à tout faire pour obtenir la contrepartie la plus élevée possible pour le bien qu'il a décidé de céder et de transférer.
+[33] Inversement, il faut tenir pour acquis que l'acheteur prendra toutes les précautions possibles pour réduire au minimum le prix à payer et s'assurer qu'il ne devra pas faire face, à l'avenir, à des événements ou des surprises susceptibles d'entraîner des déboursés non prévus ou des conséquences fâcheuses.
+[34] L'article 160 de la Loi se lit comme suit :
+Transfert de biens entre personnes ayant un lien de dépendance
+160. (1) Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s'appliquent :
+d) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement d'une partie de l'impôt de l'auteur du transfert en vertu de la présente partie pour chaque année d'imposition égale à l'excédent de l'impôt pour l'année sur ce que cet impôt aurait été sans l'application des articles 74.1 à 75.1 de la présente loi et de l'article 74 de la Loi de l'impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l'égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l'égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l'auteur du transfert doit payer en vertu de la présente loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n'est toutefois réputée limiter la responsabilité de l'auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[Je souligne.]
+[35] Bien que l'article 160 de la Loisoulève peu de problèmes d'interprétation, il est opportun de rappeler que le but ultime du législateur était de faire en sorte que les débiteurs d'une dette fiscale n'appauvrissent pas leur patrimoine en le transférant en tout ou en partie sans contrepartie équivalente à leur époux ou conjoint ou à une personne avec laquelle ils avaient un lien de dépendance.
+[36] À cet effet, il est pertinent de rappeler les extraits de certaines décisions. Tout d'abord, dans l'affaire Algoa Trust c. Canada, [1993] A.C.I. no 15 (Q.L.), l'honorable juge Rip s'exprimait comme suit à la page 10 :
+L'article 160 a pour objet de contrer la tentative d'un contribuable qui est tenu de payer une somme en vertu de la Loi d'éviter l'impôt en transférant des biens, qu'il pourrait autrement utiliser pour satisfaire à son obligation, à une personne faisant partie d'un des trois groupes visés, y compris une personne avec laquelle il a un lien de dépendance.
+[37] Dans Biderman c. Canada, [2000] A.C.F. no 194 (Q.L.), l'honorable juge Létourneau de la Cour d'appel fédérale s'exprimait comme suit au paragraphe 37 :
+[...] L'article 160 de la Loi est une disposition anti-échappatoire concernant les transferts. Son but est « d'empêcher un contribuable de faire échec à la réclamation par le ministre des impôts non payés en transférant ses biens à son conjoint, ou à certaines autres personnes, pour une contrepartie minimale ou nulle » . [Voir Note 28 ci-dessous].
+[38] Dans Hewett c. Canada, [1997] A.C.F. no 1541 (Q.L.), l'honorable juge Strayer s'exprimait comme suit aux paragraphes 1 et 2 :
+Nous sommes tous d'avis que le présent appel doit être rejeté.
+Nous convenons avec le juge de la Cour de l'impôt que le but de l'article 160 de la Loi de l'impôt sur le revenu est d'empêcher un contribuable de faire échec à la réclamation par le ministre des impôts non payés en transférant ses biens à son conjoint, ou à certaines autres personnes, pour une contrepartie minimale ou nulle. À notre avis, cela signifie que les « biens » dont il est question dans l'article doivent être des biens du contribuable que le ministre aurait pu saisir si le transfert n'avait pas eu lieu.
+[39] En matière de transfert de biens visés par les dispositions de l'article 160 de la Loi, il existe une autre préoccupation, soit celle quant au moment où la J.V.M. d'un bien doit être établie.
+[40] À cet égard, les tribunaux ont clairement reconnu, comme je l'ai dit dans l'affaire Bergeron c. La Reine, [2003] A.C.I. no 535 (Q.L.), que le moment du transfert est semblable au moment précis où se produit le déclic d'un appareil photo et que l'évaluation doit se faire eu égard à la situation lors des secondes qui précèdent ce déclic.
+[41] Cette nuance est importante en ce qu'elle permet de comprendre que la valeur du bien transféré doit être la même dans le patrimoine du cédant que dans celui du bénéficiaire. En d'autres termes, la J.V.M. du bien qui fait l'objet d'un transfert assujetti à l'article 160 de la Loi doit être la même et ne peut pas être modifiée.
+[42] Il s'agit là d'une exigence fondamentale, puisqu'un vendeur pourrait très bien stipuler toute une série de clauses prévoyant toutes sortes d'hypothèses, de droits, d'obligations, de servitudes, etc., le tout ayant pour effet de rendre le bien transféré sans valeur aucune ou de la diminuer considérablement, modifiant ainsi la J.V.M. du bien lors du transfert. Le bien transféré pourrait alors se voir amputé de la totalité ou d'une partie de sa valeur, ce qui est tout à fait contraire à l'objectif de l'article 160 de la Loi.
+[43] En l'espèce, il s'agit d'une opération très particulière en ce qu'il s'agit d'une action conférant le contrôle des activités de la Société « Les Assurances Gérald Pelchat inc. » . Ce qui est tout aussi particulier, c'est le fait que le transfert n'a fait l'objet d'aucune entente comprenant les clauses habituelles lors d'une opération de cette nature.
+[44] En effet, malgré les droits et les obligations générés par le transfert, les parties n'ont pas cru bon de formaliser par écrit le contenu de l'entente, si ce n'est que le transfert a été consigné au registre des procès-verbaux de la Société.
+[45] Bien que l'opération ne soit pas effectuée d'une manière simpliste et inhabituelle, elle devra être analysée et évaluée comme s'il s'était agi d'un acte juridique habituel, classique et usuel entre deux parties sans lien de dépendance.
+[46] L'appelante soutient que le contrat verbal ne prévoyait rien de précis ou de particulier, si ce n'est que le transfert a été fait moyennant une contrepartie de 10 $. Toujours selon l'appelante, le contrat verbal ne prévoyait rien quant aux revenus, aux dettes ou aux obligations, ni quant à une quelconque restriction relative à la concurrence. En d'autres termes, il s'agissait d'un contrat verbal qui aurait pu être libellé comme suit : « Gérard Pelchat vend à Andrée Lachapelle son action, la seule en circulation de la Société, moyennant une contrepartie de 10 $ dont quittance » .
+[47] L'appelante a énergiquement soutenu que ce sont là les seuls éléments de l'opération qui doivent être pris en considération pour établir la J.V.M. Pour ce qui est des éléments d'actif peu importants, soit plus ou moins 10 000 $, encore là, l'appelante a soutenu qu'ils ne devaient pas faire partie des composantes pour déterminer la J.V.M. puisqu'il s'agissait d'un actif pouvant et devant compenser de possibles dettes fiscales ou d'autres éventualités.
+[48] Souscrire aux prétentions de l'appelante aurait pour effet d'accepter le principe que les parties à une opération assujettie aux dispositions de l'article 160 de la Loi peuvent convenir de toute une série d'hypothèses ayant pour effet de réduire considérablement la J.V.M. du bien transféré, sinon de l'annuler totalement, ce qui est contraire à la lettre mais aussi à l'esprit de l'article 160.
+[49] Pour l'appelante, la J.V.M. de l'action transférée avait une valeur essentiellement symbolique. À l'appui de ses prétentions, elle a notamment fait valoir deux arguments.
+[50] Le premier, manifestement le plus important, est que toute contrepartie aurait été inappropriée puisqu'il suffisait à l'auteur du transfert de communiquer avec tous les clients de la Société et de leur demander de continuer à faire des affaires avec lui en sa qualité personnelle plutôt qu'en qualité de représentant de la Société visée par l'action transférée, ruinant ainsi tout espoir de rentabiliser l'opération issue du transfert de l'action.
+[51] Je ne retiens pas cet argument. La vente de l'action de contrôle ne prenait son sens et sa raison d'être que si l'auteur du transfert renonçait expressément à solliciter directement et indirectement les clients de la Société et ce, pour une période précise définie dans le temps mais aussi quant au territoire.
+[52] Le second argument est que l'achalandage était, encore là, sans valeur étant donné que les affaires de l'auteur du transfert portaient surtout sur la vente de dépôts à terme. Selon l'expert de l'appelante, il s'agissait là d'un produit financier particulier n'ayant ni d'attrait ni d'intérêt pour un éventuel acquéreur.
+[53] Encore là, il s'agit d'un argument tout à fait saugrenu. Il est de notoriété publique que des personnes achètent de simples listes de noms. Or, en l'espèce, monsieur Pelchat a affirmé que ses clients étaient surtout des personnes âgées. Il n'est pas déraisonnable de présumer que les personnes âgées sont généralement extrêmement discrètes quant à leurs avoirs et donc qu'ils font très peu de magasinage lors de l'échéance de leurs dépôt à terme. Conséquemment, il n'est pas exagéré de croire que la fidélité lors du renouvellement soit la règle plutôt que l'exception.
+[54] Qu'un tel produit soit différent, j'en conviens; qu'un tel produit ait une valeur moindre qu'un contrat d'assurance automobile, j'en conviens; mais qu'un tel produit soit sans valeur aucune, je ne le crois tout simplement pas. Bien plus, il m'apparaît tout à fait ridicule de soutenir pareille aberration.
+[55] L'appelante a soutenu que la J.V.M. devait être établie en fonction d'un contrat verbal ayant deux seules composantes, soit un objet, qui est l'action, et une contrepartie, qui est 10 $ dollars.
+[56] Le contrat étant verbal, il est donc nécessaire d'analyser les faits et les circonstances du contexte de manière à identifier l'intention des parties. À cet égard, la preuve a été essentiellement constituée par le témoignage intéressé de monsieur Gérard Pelchat.
+[57] Le transfert n'a pas été quelque chose de spontané et d'irréfléchi et fait sans considération; au contraire, le transfert a résulté d'une décision réfléchie et intéressée. Connaissant très bien toutes les conséquences de ses faits et gestes, et connaissant surtout son endettement fiscal éventuel, monsieur Pelchat a essentiellement voulu placer le patrimoine de la Société qu'il contrôlait à l'abri de ses éventuels déboires financiers causés par une importante dette fiscale. Comme homme d'affaires avisé, il a tout prévu et tout préparé de manière à éviter que la Société qu'il contrôlait soit affectée par sa déconfiture.
+[58] Dans de telles circonstances, il est évident que tout devait être présenté de manière à ce que la J.V.M. de l'action soit nulle. Pour éviter toute équivoque ou tout problème d'interprétation suscité par un écrit, il devenait alors utile et avantageux de tout faire verbalement, auquel cas toute interprétation devenait spéculative.
+[59] Or, étant donné la situation, les compétences de monsieur Pelchat et l'expérience vécue quelques années auparavant, le but et l'objectif du transfert de l'action étaient indubitablement d'éviter le paiement de la dette fiscale. Pour rendre le projet intéressant, il devenait impératif de prévoir un scénario de transfert de l'action moyennant une contrepartie minimale ou essentiellement symbolique.
+[60] En l'espèce, en vertu de l'article 160 de la Loi, je dois déterminer la J.V.M. en tenant pour acquis qu'il devait s'agir d'une opération réalisée dans un contexte commercial normal et usuel.
+[61] L'appelante a retenu les services de monsieur Pierre-André Rodrigue à titre d'expert à la firme Services Multi-Alliance inc. pour établir la J.V.M. de l'action qui a fait l'objet du transfert.
+[62] Le tribunal a très rapidement constaté que monsieur Rodrigue avait très peu d'expérience pour s'occuper du mandat qui lui a été confié ou pour le remplir. Son cheminement a été simpliste et non documenté.
+[63] Bien plus, la proportion utilisée pour déterminer la valeur, non pas de l'action, mais de l'entreprise qu'exploitait la Société émettrice de l'action, a été essentiellement arbitraire et nullement soutenue par des éléments appropriés.
+[64] Il a tenté tant bien que mal de justifier son approche et le cheminement suivi. Les explications soumises furent confuses, arbitraires et pour la plupart carrément injustifiées.
+[65] Malgré toute sa bonne volonté, monsieur Rodrigue n'avait ni l'expérience, ni l'expertise pour faire le travail qui lui a été confié; il a essentiellement conclu en fonction des attentes de l'appelante, ce qui l'a obligé à soutenir des conclusions tout simplement insoutenables, voire même ridicules.
+[66] Monsieur Rodrigue n'avait pas l'expertise pour soumettre le travail qu'il a présenté. Pour compenser cette déficience, il aurait pu faire un travail minutieux, mais non, il a fondé un travail très sommaire et tout à fait superficiel sur des données non vérifiées que la preuve a d'ailleurs démontrées être ni exactes ni fiables. Je n'accorde donc aucune valeur ni force probante aux conclusions, qui sont tout à fait invraisemblables.
+[67] L'expert de l'appelante a fait les erreurs suivantes :
+· il a tenu pour acquis les données consignées par une personne très intéressée par le dossier, soit le conjoint de l'appelante.
+· il n'a fait aucune vérification pour valider les données qui ont pourtant constitué les fondements de son opinion.
+· la preuve a établi que les données en question avaient été consignées à partir de la mémoire, pas très bonne, de monsieur Pelchat, qui a utilisé des bordereaux de dépôt incomplets comme aide-mémoire, ce qui était totalement inacceptable.
+· la preuve a d'ailleurs démontré que le fameux document utilisé était cousu d'erreurs et faisait état de mauvaises informations pourtant très importantes puisqu'il constituait les fondements même du travail devant conduire à la détermination de la J.V.M.
+· il n'avait aucune expérience valable pour soumettre un travail de qualité acceptable.
+· le fait d'avoir un intérêt dans un domaine spécifique ne signifie pas qu'on en est expert.
+· il n'a pas compris la nature du mandat, qui consistait à établir la J.V.M. de l'action qui avait fait l'objet du transfert.
+· avocat de profession, il ne connaissait pas les dispositions de la loi relatives à l'obligation d'avoir une liste de clients et divers registres avec des exigences strictes.
+· selon lui, le fait que la Société avait des clients n'avait aucun effet sir la J.V.M.; une telle conclusion est d'autant plus surprenante qu'il est de notoriété publique que certaines sociétés achètent essentiellement des listes de noms.
+[68] Ce sont là quelques déficiences que j'ai retenues, lesquelles sont largement suffisantes pour écarter de la preuve tout ce qui a découlé du témoignage de monsieur Rodrigue. Conséquemment, je ne vois pas l'intérêt de continuer ou de compléter mon appréciation de ce témoignage.
+[69] Madame Lucie Demers, acceptée témoin expert par le tribunal, a fait la description de son expérience professionnelle, qui s'est échelonnée sur plusieurs années.
+[70] Parallèlement au développement de sa formation, madame Demers a eu et a accès à de multiples données et informations susceptibles de compléter et d'améliorer ses connaissances en matière d'évaluation mobilière.
+[71] Manifestement dynamique et passionnée par la matière, madame Demers a soumis un travail très élaboré.
+[72] D'entrée de jeu, madame Demers avait une tâche difficile. En effet, lors du processus ayant mené à la cotisation, elle s'est prononcée en fixant la J.V.M. et ce, à partir d'une approche probablement très sommaire et, de toute évidence, peu documentée.
+[73] Le travail qu'elle a présenté au tribunal devait donc être une confirmation de la justesse de la première évaluation qu'elle avait faite lors de la cotisation. Outre cette difficulté, je ne peux faire abstraction du fait que madame Demers a toujours été à l'emploi de l'intimée, étant ainsi indirectement juge et partie.
+[74] J'ai déjà traité de cette question antérieurement et je ne crois pas que cela empêche un employé de l'Agence des douanes et du revenu du Canada ( « ADRC » ) d'agir comme expert, mais je crois qu'il s'agit là d'un obstacle qui doit être surmonté par un travail de très haute qualité pour éviter toute conclusion que le travail a été entaché par une évaluation déterminée avant de débuter le travail requis pour la préparation du rapport d'expert.
+[75] Certes, tout expert dont les services sont retenus devient lié sur une base d'affaires avec la personne qui assume la responsabilité des honoraires requis pour la préparation de l'expertise. Par contre, il s'agit d'une relation ponctuelle sans passé ni futur, alors qu'un expert à l'emploi de l'ADRC évolue en permanence avec le mandat que lui commande un travail d'évaluation.
+[76] Mes commentaires tiennent également compte du fait que toute personne reconnue comme expert doit normalement avoir la qualité et la capacité intellectuelle pour prendre ses distances pour s'assurer que ses conclusions résultent essentiellement des faits tenus pour acquis dans le cadre du défi qu'elle doit relever lors de la préparation de son rapport d'expert.
+[77] Les choses se compliquent quelque peu lorsque l'expert qui produit l'expertise est la même personne qui est intervenue au moment de la cotisation.
+[78] Je comprends qu'au moment d'établir une cotisation, il n'est pas très réaliste de demander une évaluation aussi documentée et étoffée que celle requise lors d'une audition devant le tribunal et cela, notamment pour la raison pratique que la très grande majorité des dossiers ne requiert pas d'audition devant ce tribunal.
+[79] Le fait qu'un expert qui a fourni une première évaluation sur la base de son expérience et de la prise en considération de faits rapidement disponibles soit appelé à faire un travail beaucoup plus élaboré pour le tribunal, avec l'obligation de devoir faire face à un contre-interrogatoire très serré, voire corsé, peut soulever certaines questions.
+[80] En l'espèce, madame Demers a soumis un travail sérieux avec un réel souci d'objectivité; elle a voulu asseoir ses conclusions ou valider ses prétentions à partir de faits extérieurs à sa propre analyse. À cet égard, le contre-interrogatoire a cependant fait clairement ressortir certaines faiblesses et déficiences. Je fais notamment référence à plusieurs documents et informations sortis de leur contexte et n'ayant pas la pertinence qui leur fut attribuée.
+[81] Ceci dit, madame Demers a fait un travail de meilleure qualité que celui de monsieur Rodrigue. D'abord, elle a compris la nature du mandat, qui consistait à déterminer la J.V.M. de l'action qui avait fait l'objet du transfert. Elle a aussi obtenu de vraies données, chose que l'expert de l'appelante n'a pas fait et aurait pu et dû faire.
+[82] Du travail exécuté par madame Demers, je retiens la formule des revenus disponibles pendant quatre années. Pour ces quatre années, les revenus de la Société « Les Assurances Gérard Pelchat inc. » furent les suivants :
+Année
+Revenu
+1993
+68 296 $
+1994
+83 608 $
+1995
+131 953 $
+1996
+82 726 $
+Total
+366 583 $
+[83] Les revenus moyens étaient donc de 91 645,75 $, soit le total des quatre années, ou 366 583 $, divisé par 4 égale 91 645,75 $. La moyenne est donc 91 645,75 $.
+[84] Il est raisonnable d'utiliser le double des revenus pour déterminer la J.V.M. d'une telle entreprise, ce qui donne 183 291,50 $. Pour ce qui est de la pondération, je retiens et je déduis 30 p. 100 pour tenir compte des divers aléas susceptibles d'affecter une telle opération, réduisant ainsi la valeur à 128 304,05 $, auquel doit s'ajouter le montant des actifs de la Société, soit 10 292 $, pour un total de 138 596,05 $. Je fixe donc la J.V.M. de l'action transférée à 138 596,05 $. Le tout avec dépens.
+Signé à Ottawa, Canada, ce 14e jour de mai 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI360
+No DU DOSSIER DE LA COUR :
+2002-232(IT)G
+INTITULÉ DE LA CAUSE :
+Andrée Larochelle et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE
+le 25 février et le 5 avril 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 14 mai 2004
+COMPARUTIONS :
+Pour l'appelante :
+Me Robert Marcotte
+Pour l'intimée :
+Me Nathalie Lessard
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Robert Marcotte, Avocat
+Ville :
+Cap Rouge (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

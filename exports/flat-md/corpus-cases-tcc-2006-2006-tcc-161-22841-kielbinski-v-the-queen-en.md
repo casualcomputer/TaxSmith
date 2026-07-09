@@ -1,0 +1,174 @@
+---
+title: "Kielbinski v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22841/index.do"
+last_modified: "2006-07-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 161"
+citation2: ""
+neutral_citation: "2006 TCC 161"
+decision_date: "2006-07-21"
+language: "en"
+item_id: "22841"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2345
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:54:18.212000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "249bc808780b8e01a2e0db318871c001446deacea98633c6221e262fb1244ee2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kielbinski v. The Queen
+
+- Citation: 2006 TCC 161
+- Decision date: 2006-07-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2345, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kielbinski v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-21
+Neutral citation
+2006 TCC 161
+File numbers
+2005-1825(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1825(IT)I
+BETWEEN:
+LINDA KIELBINSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANLATION]
+____________________________________________________________________
+Appeals heard on February 28, 2006, at Québec, Quebec.
+Before: the Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Louis Sirois
+Counsel for the Respondent:
+Claude Lamoureux
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments under the Income Tax Act for the 1999, 2000 and 2001 taxation years are dismissed. As for the penalties, they are confirmed, as the evidence has demonstrated that they were well founded in fact and in law.
+Without costs.
+Signed at Ottawa, Canada, this 21st day of July 2006.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 2nd day of January 2007.
+Gibson Boyd, Translator
+Citation: 2006TCC161
+Date: 20060721
+Docket: 2005-1825(IT)I
+BETWEEN:
+LINDA KIELBINSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+[OFFICIAL ENGLISH TRANLATION]
+Tardif J.
+[1] These are appeals concerning the 1999, 2000 and 2001 taxation years.
+[2] These are the outstanding issues:
+(a) Determine whether the notice of reassessment of February 25, 2005, for the 1999 taxation year is valid;
+(b) Determine whether the sums of $26,410 for the 1999 taxation year, $14,226 for the 2000 taxation year and $15,823 for the 2001 taxation year were correctly added in the calculation of the Appellant’s income as undeclared business income;
+(c) Determine whether it was justified to levy the penalty provided for under subsection 163(2) of the Income Tax Act (the “Act”) against the Appellant for the 1999, 2000 and 2001 taxation years.
+[3] During the periods in dispute, the Appellant owned two businesses. One of them sold promotional items under the name “Médailles et portes clés enr” and the other one, named “9030-6457 Québec inc.,” performed work exclusively for Canada Post Corporation; this work consisted of snow removal near mailboxes belonging to the corporation in several places in a defined area.
+[4] In support of her appeal, the Appellant called several witnesses: the accountant who kept her books, her spouse Luc Létourneau and others whose testimony was intended to confirm the content of Mr. Létourneau’s testimony.
+[5] Mr. Létourneau mainly stated that he was practically always paid in cash when he worked; he even had a property owner confirm that he had hired his services, for which he paid him in cash.
+[6] The Appellant also called an accountant who had already worked for Revenue Canada and Revenu Québec and whom she had instructed to represent her at the draft assessment and the objection stage.
+[7] The Minister called the person in charge of the audit as well as the person who reviewed the file after the objection.
+[8] The Minister of National Revenue (the “Minister”), on the assumption that there was no internal auditing or adequate bookkeeping, used the net worth method to calculate the reassessments.
+[9] There was a significant discrepancy between the income declared by the Appellant and her financial needs. As well as adding penalties to the taxation of 2000 and 2001, the Minister also taxed 1999 on the basis that the Appellant deliberately hid significant income, which justified the Minister in assessing the Appellant beyond the statutory period of three years.
+[10] The Minister concluded that significant income had been concealed, which justified reassessments and the penalties provided by the Act, given the significance of the undeclared amounts.
+[11] Mr. Létourneau, a former public servant engaged as a consultant by the Appellant during discussions when the draft assessment was filed, submitted to the auditor that the discrepancy was justified by the income received by the Appellant’s spouse under the table as well as the income generated through the operation of a business related to cigarette contraband.
+[12] The explanations were accepted in part and the assessment issued took into consideration some of the submissions of Mr. Létourneau, agent for the Appellant. These same explanations were used at the objection stage.
+[13] At trial, the agent for the Appellant again submitted the same arguments, adding another element to explain certain inconsistencies in the filings. He stated that the Appellant’s spouse had been in the habit of cashing the paycheques of several people including his son and his friends, which obliged him to regularly make withdrawals, but also deposits.
+[14] The Appellant’s spouse admitted declaring $3,257 in income for the 1999 taxation year, $16,940 for the 2000 taxation year and $5,106 for the 2001 taxation year, while the income declared by the Appellant for the same years was $14,558 for the 1999 taxation year, $11,477 for the 2000 taxation year and $8,043 for the 2001 taxation year.
+[15] The Appellant’s spouse stated that he regularly worked for various people and got paid in cash. Being particularly skilled in construction and automobile mechanics, he regularly took on contracts and got paid most of the time in cash that he did not declare as income.
+[16] He indicated that he made several attempts to convince those who had benefited from his services to come and confirm, but most of them were unavailable for all kinds of reasons, except for two who came to say that they had indeed paid for the services received from the Appellant’s spouse in cash.
+[17] He also stated that he transported contraband cigarettes and always received $25 cash per case for this work.
+[18] He also indicated that at a certain time, when his son was twenty years old, he loaned them money and that he paid them board since he was a bartender in Montreal and often came to spend weekends with them in Québec.
+[19] I did not believe a word of the verbal explanations submitted by the Appellant’s spouse; most of them preposterous and completely implausible, in particular concerning the board paid by his son.
+[20] He stated that he had tried to obtain the cooperation of numerous people associated with his various activities, but without success; his explanations went from inability to reach them, to the car that wouldn’t start to illness and so on.
+[21] The evidence revealed that he still had a bank account and that he was the only one who could make transactions with it. He was unable to provide a single document to validate his claims.
+[22] Therefore, I accept absolutely nothing of this evidence, as it is neither reliable nor credible. I found some explanations ridiculous, others completely implausible. As for the explanation that he cashes cheques, explaining the numerous withdrawals and deposits, I believe that it is a pure invention in that he undoubtedly exaggerated considerably a few isolated transactions.
+[23] As for the Appellant, she testified and explained that the auditor came to the conclusion that her accounting for the company that had one client, i.e. Canada Post Corporation, was correct.
+[24] With regard to the company or business dealing in key-chains and medals, the Appellant explained that her clients were mainly associations, municipalities and various organizations. She stated that she was the only one in charge of the management and administration of the two entities. To one question, she even answered that she did not rely on her spouse as she obviously had little or no trust in him. And yet she would like the Court to trust him.
+[25] She said she gave the accountant, whose services she retained, all of the supporting documentation pertaining to the revenue and expenses arising from operation of the two businesses from which she earned the income that she declared.
+[26] The discrepancy between the declared income and the income necessary for the couple’s lifestyle, determined based on the answers provided on the form sent by the Department, was so significant that it is completely implausible that the Appellant could have not noticed it or realized that her declared income could not permit her standard.
+[27] The unavoidable reality of such a discrepancy is that the family unit enjoyed an income much higher than the declared income; the Minister assumed that the undeclared income came from various economic activities that the spouses were involved in.
+[28] Based on this conclusion and the assessment determined accordingly, it was up to the Appellant, who carried the burden of proof, to refute such claims using reasonable, plausible, appropriate and documented explanations.
+[29] In order to do this, the Appellant submitted some explanations; her only explanations were that she had declared all of her income and that her accounting was impeccable, essentially claiming that the considerable discrepancies between income and cost of living were explained by the undeclared income of her spouse.
+[30] For the reasons already mentioned, I give no credibility to the explanations submitted by the Appellant’s spouse. The Appellant’s evidence alone is not sufficient to conclude that she met the burden of proof that was on her. Moreover, she was aware that the income she declared was insufficient to explain or justify the lifestyle she was associated with.
+[31] Indeed, the discrepancy was considerable; to accept the simplistic explanations that were submitted would be to accept a version of the facts amounting to true voluntary blindness. Accordingly, as the burden of proof was not met, I confirm that the assessments were well founded.
+[32] As for the penalties, considering that the discrepancy between the declared income and the income needed for their lifestyle was significant enough that any normally reasonable person should have understood and indeed realized, the mathematical impossibility of declaring such a modest income given the expenses incurred to maintain their lifestyle.
+[33] This is the case for the 1999 taxation year, theoretically statute-barred. How can a reasonable person declare income of about $15,000 and meet needs requiring over $50,000 in gross income?
+[34] Only total indifference, heedlessness amounting to gross negligence and obvious voluntary blindness can explain such a reality, which in itself is sufficient to justify the assessment and the penalties for the 1999 taxation year.
+[35] For these reasons, the appeals are dismissed; the assessments and inherent penalties are confirmed accordingly.
+Signed at Ottawa, Canada, this 21st day of July 2006.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 2nd day of January 2007.
+Gibson Boyd, Translator
+CITATION:
+2006TCC161
+COURT DOCKET NUMBER:
+2005-1825(IT)I
+STYLE OF CAUSE:
+Linda Kielbinski and Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+February 28, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+July 21, 2006
+APPEARANCES:
+For the Appellant:
+Louis Sirois
+For the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Louis Sirois
+Firm:
+Barbeau & Associées
+Québec, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

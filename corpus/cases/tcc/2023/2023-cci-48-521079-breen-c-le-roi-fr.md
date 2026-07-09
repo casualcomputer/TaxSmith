@@ -1,0 +1,266 @@
+---
+title: "Breen c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521079/index.do"
+last_modified: "2023-04-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 48"
+citation2: ""
+neutral_citation: "2023 CCI 48"
+decision_date: "2023-04-14"
+language: "fr"
+item_id: "521079"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5867
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:47:58.976000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e3456fdb9dfcebdc13057c4df1e2e9698a24217d0b618f7c638a4f4dc8f344ba"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Breen c. Le Roi
+
+- Citation: 2023 CCI 48
+- Decision date: 2023-04-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5867, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Breen c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-04-14
+Référence neutre
+2023 CCI 48
+Numéro de dossier
+2022-168(IT)I
+Juges et Officiers taxateurs
+Joanna Hill
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2022-168(IT)I
+ENTRE :
+JONATHON S. BREEN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 septembre 2022, à Sidney (Colombie-Britannique)
+et observations écrites reçues de l’intimé le 29 novembre 2022 et de l’appelant, le 18 janvier 2023.
+Devant : l’honorable juge Joanna Hill
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Katherine Shelley
+JUGEMENT
+L’appel interjeté à l’encontre de l’avis de nouvelle cotisation pour l’année d’imposition 2018 est accueilli, sans dépens, au motif que l’appelant a droit au crédit d’impôt pour frais médicaux à l’égard des gants pour fauteuil roulant, en application de l’alinéa 118.2(2)i) de la Loi de l’impôt sur le revenu conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour d’avril 2023.
+« Joanna Hill »
+La juge Hill
+Référence : 2023 CCI 48
+Date : 20230414
+Dossier : 2022-168(IT)I
+ENTRE :
+JONATHON S. BREEN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Hill
+I. Introduction [1] En 2018, Dr Jonathon Breen et son épouse ont engagé diverses dépenses lors de leur déménagement de leur résidence centenaire de deux étages à une maison d’un seul étage, pouvant tenir compte des contraintes accrues dues aux problèmes de mobilité de M. Breen.
+[2] Le ministre du Revenu national a fait droit à la demande de crédit d’impôt pour frais médicaux de M. Breen à l’égard des dépenses liées à l’achat de cette nouvelle maison. Il a toutefois rejeté la demande de déduction des frais relatifs à l’impôt sur le transfert de biens immobiliers en raison de la déduction maximale de 2 000 $ pour frais de déménagement en application de l’alinéa 118.2(2)l.5) de la Loi de l’impôt sur le revenu. Le ministre a également déterminé que M. Breen n’avait pas droit à la déduction des frais de déménagement en application de l’article 62, parce qu’il ne se rapprochait pas d’au moins 40 kilomètres d’un nouveau lieu de travail ou de l’emplacement d’une nouvelle école.
+[3] M. Breen a reconnu que ces restrictions prévues par la loi s’appliquaient dans son cas. Il soutient principalement que les dispositions en cause portent atteinte à ses droits à l’égalité qui lui sont reconnus par le paragraphe 15(1) de la Charte canadienne des droits et libertés en raison de leur caractère limitatif, menant à de la discrimination fondée sur la déficience par suite d’un effet préjudiciable.
+[4] Malgré les observations approfondies et bien réfléchies de M. Breen, cet argument ne peut être retenu. Il n’y a aucune discrimination au sens du paragraphe 15(1) de la Charte parce qu’il n’y a aucune distinction directe ou indirecte fondée sur la déficience. Les dispositions en cause s’appliquent à tous les contribuables selon leur situation individuelle précise. Le législateur n’est pas tenu d’offrir des avantages fiscaux qui répondent aux besoins de tous les contribuables.
+[5] En l’espèce, M. Breen avait droit au crédit d’impôt pour frais médicaux à l’égard des frais de déménagement en raison de son invalidité, sous réserve du plafond de 2 000 $ imposé par le législateur. Son invalidité n’était par ailleurs pas un obstacle à sa demande de déduction des frais de déménagement en application de l’article 62 de la Loi de l’impôt sur le revenu parce qu’il aurait eu droit à la déduction s’il s’était rapproché d’au moins 40 kilomètres d’un nouveau lieu de travail.
+II. Contexte – La réclamation des frais médicaux [6] M. Breen et son épouse ont demandé un crédit d’impôt pour frais médicaux à l’égard des dépenses liées aux problèmes de mobilité de M. Breen découlant de problèmes de santé existants, et qui se sont aggravés depuis qu’il a contracté la polio alors qu’il était enfant[1].
+[7] Le ministre a déterminé que M. Breen avait des frais médicaux admissibles de 31 598,01 $, y compris des frais afférents aux rénovations de 26 281,90 $ liés à sa nouvelle maison et des frais de déménagement de 2 000 $ liés au matériel nécessaire et aux frais de l’entreprise de déménagement[2].
+[8] Les frais de déménagement qui ont été accordés ne comprenaient pas les frais relatifs à l’impôt sur le transfert de biens immobiliers de 17 600 $ relativement à l’achat de la nouvelle maison (le « paiement des droits de cession immobilière »). M. Breen a réclamé la somme de 8 096 $ du paiement des droits de cession immobilière, et son épouse a réclamé les 9 504 $ restants.
+[9] Le ministre a refusé la demande de déduction du paiement des droits de cession immobilière au motif que le plafond de 2 000 $ pour frais de déménagement prévu à l’alinéa 118.2(2)l.5) de la Loi de l’impôt sur le revenu avait déjà été atteint[3].
+[10] Le ministre a également déterminé que M. Breen ne pouvait pas réclamer la déduction du paiement des droits de cession immobilière en application de l’article 62 parce que la distance entre son ancienne résidence et le nouveau lieu de travail ou d’affaires n’était pas supérieure d’au moins 40 kilomètres à la distance entre sa nouvelle résidence et le nouveau lieu de travail ou d’affaires, comme l’exige la définition de « réinstallation admissible » au paragraphe 248(1)[4].
+[11] Le ministre a aussi refusé le crédit d’impôt pour frais médicaux à l’égard des coussins chauffants et des gants pour fauteuil roulant[5].
+[12] Dans ses observations écrites déposées après l’audience, l’intimé a reconnu que les gants pour fauteuil roulant sont admissibles à titre de frais médicaux en application de l’alinéa 118.2(2)i) parce que M. Breen se sert des gants relativement à un dispositif médical énuméré, plus précisément son fauteuil roulant[6]. En fait, dans son témoignage, M. Breen a déclaré que, bien que les gants ne soient pas précisément des « gants pour fauteuil roulant », il achète et utilise des gants de rappel pour protéger ses mains et s’en servir pour son fauteuil roulant en hiver et dans d’autres conditions météorologiques difficiles.
+[13] L’intimé soutient par ailleurs que les frais de coussins chauffants ne sont pas admissibles au crédit d’impôt pour frais médicaux parce qu’ils ne constituent pas un dispositif et qu’ils ne sont pas utilisés relativement à un dispositif énuméré à l’alinéa 118.2(2)i)[7].
+[14] Par conséquent, les seules sommes en cause sont le paiement des droits de cession immobilière et les frais de coussins chauffants.
+[15] M. Breen a témoigné au soutien de son appel. Je ne doute pas de sa crédibilité, de sa sincérité ou de son expertise en ce qui a trait aux problèmes d’attitude et d’emploi auxquels font face les personnes handicapées. Toutefois, son appel porte sur l’application de diverses dispositions de la Loi de l’impôt sur le revenu et des règles de droit à l’égard de la façon dont la Charte s’applique à ces dispositions.
+III. Analyse [16] M. Breen a reconnu qu’il ne pouvait pas réclamer le paiement des droits de cession immobilière parce qu’il avait déjà atteint le plafond de 2 000 $ pour frais de déménagement aux fins du crédit d’impôt pour frais médicaux. Il a également reconnu qu’il ne satisfait pas non plus à l’exigence relative à la distance de 40 kilomètres pour la déduction des frais de déménagement
+[17] M. Breen a fait valoir que les dispositions relatives au crédit d’impôt pour frais médicaux et à la déduction des frais de déménagement portent atteinte à son droit à l’égalité prévu au paragraphe 15(1) de la Charte. Il a mentionné qu’il avait subi de la discrimination involontaire parce que le législateur n’a pas pris en compte les besoins et la situation des personnes handicapées.
+[18] Le paragraphe 15(1) de la Charte interdit la discrimination et est ainsi libellé :
+Égalité devant la loi, égalité de bénéfice et protection égale de la loi
+15(1) La loi ne fait acception de personne et s’applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l’origine nationale ou ethnique, la couleur, la religion, le sexe, l’âge ou les déficiences mentales ou physiques.
+[19] Ainsi que l’a conclu la Cour d’appel fédérale, s’il n’y a aucune discrimination au sens de cette disposition, il n’est pas nécessaire que le tribunal effectue l’analyse prévue à l’article 15[8].
+[20] Ce seuil est déterminé en fonction du principe selon lequel la discrimination ne saurait résulter de toutes les distinctions ou différences de traitement[9]. La Loi de l’impôt sur le revenu fait des distinctions, au moyen de diverses exigences prévues par la loi, de manière à générer des revenus pour l’État tout en composant de façon équitable avec diverses politiques économiques et sociales[10]. Dans cette perspective, le droit au même bénéfice de la loi ne saurait signifier que chaque contribuable a un droit égal de recevoir les mêmes sommes, déductions ou avantages[11].
+[21] Notre Cour a appliqué ces principes pour en arriver à la conclusion que les dispositions relatives aux avantages prévues dans la Loi de l’impôt sur le revenu ne déclenchent pas l’application du paragraphe 15(1) de la Charte parce qu’elles ne créent pas de discrimination fondée sur l’un des motifs énumérés à l’article 15. Les exigences de la loi s’appliquent plutôt à tous les contribuables.
+[22] Comme il est énoncé ci-après, l’appel interjeté par M. Breen ne se distingue pas de ces décisions antérieures.
+A. Le fait que M. Breen ne puisse pas réclamer le paiement des droits de cession immobilière à titre de frais médicaux ne constitue pas de la discrimination. [23] M. Breen a fait valoir que le régime de crédit d’impôt pour frais médicaux viole le paragraphe 15(1) parce qu’il ne prévoit aucune catégorie appropriée dans laquelle le paiement des droits de cession immobilière pourrait être réclamé. Il a fondé son argument sur la thèse voulant que le paiement des droits de cession immobilière ne constitue pas des frais de déménagement, mais fasse plutôt partie de l’achat de la nouvelle résidence. Si le paiement n’avait pas été effectué, la résidence n’aurait pas pu être achetée.
+[24] M. Breen a soutenu que ses droits à l’équité ont été violés par omission par inadvertance, puisque le législateur n’a pas prévu une catégorie supplémentaire de crédit d’impôt pour frais médicaux relativement à l’achat d’une maison. Les alinéas 118.2(2)l.2) et 118.2(2)l.21) prévoient des crédits d’impôt pour transformations apportées à l’habitation et pour frais de construction d’une résidence, respectivement.
+[25] Dans le cas de M. Breen, faute de moyens financiers, il n’a pas pu rénover sa maison centenaire de fabrication artisanale ou en construire une nouvelle. L’option la plus viable était d’acheter une nouvelle maison. Il a déclaré que le législateur n’a pas tenu compte de cette troisième option, raisonnable et abordable, qui pourrait mieux convenir à une personne aux prises avec un handicap en particulier.
+[26] Cette position n’aide en rien M. Breen parce que, même si j’acceptais que ce qu’il propose ne soit pas déjà couvert dans la catégorie des dépenses de déménagement, il cherche à tirer un avantage qui n’est pas offert à personne au titre de la Loi de l’impôt sur le revenu.
+[27] S’appuyant sur la jurisprudence de la Cour suprême du Canada, dans l’arrêt Ali, la Cour d’appel fédérale a conclu que le paragraphe 15(1) de la Charte ne sera pas enfreint si l’avantage recherché n’en est pas un qui est prévu par la loi contestée[12]. Dans cette affaire, la Cour d’appel fédérale a conclu que le crédit d’impôt pour frais médicaux n’est pas discriminatoire si aucun contribuable n’est autorisé à réclamer le coût des suppléments diététiques. L’exclusion de ces suppléments n’est pas discriminatoire en ce qu’elle est tout à fait compatible avec l’objectif et l’économie de la loi, qui est de ne prévoir l’admissibilité du crédit d’impôt pour frais médicaux que pour les types de frais médicaux expressément énumérés[13]. Ce ne sont pas tous les types de frais médicaux qui sont admissibles.
+[28] Dans l’arrêt Chevalier, notre Cour a déterminé qu’il n’y avait aucune discrimination dans l’incapacité pour un contribuable de se prévaloir du crédit d’impôt pour frais médicaux à l’égard des vitamines, des aliments biologiques, des suppléments et des soins ostéopathiques pour le traitement de la fibromyalgie et du syndrome de fatigue chronique[14]. Les frais médicaux admissibles sont déterminés selon le produit ou le service acheté, et non selon le type de déficience du contribuable[15].
+[29] Le paragraphe suivant de la décision Chevalier s’applique en l’espèce[16] :
+Tel qu’il a été mentionné précédemment, le crédit d’impôt pour frais médicaux, qui est un programme d’envergure offrant des avantages, ne peut prendre en compte les besoins individuels des contribuables. Qui plus est, il n’existe aucune obligation légale de le faire. Je conviens que le paragraphe 118.2(2) de la Loi ne permet pas à l’appelante de déduire tous les frais médicaux liés à ses besoins individuels. Par ailleurs, cela n’a jamais été l’objet visé par le paragraphe 118.2(2) de la Loi. De plus, ladite disposition n’exclut pas l’appelante sur le fondement de la situation ou des caractéristiques personnelles; elle n’est pas arbitraire mais elle s’applique plutôt à tous les contribuables également. Comme nombre de contribuables souffrant de divers types de maladies ont recours à des traitements de médecine douce, on ne peut donc pas dire que la loi établit une distinction fondée sur des caractéristiques physiques. Le gouvernement devait tout simplement définir le champ d’application du paragraphe 118.2(2); il l’a fait en se fondant sur le type de services et de produits médicaux. Par conséquent, les besoins de l’appelante ont été pris en compte par le gouvernement puisqu’elle a droit à un certain allègement fiscal en application de ce paragraphe.
+[30] La contestation similaire soulevée par M. Breen ne peut être accueillie parce qu’aucun contribuable n’a le droit de demander un crédit d’impôt pour frais médicaux à l’égard de l’achat d’une nouvelle résidence, à l’exception des frais visés par les catégories existantes du paragraphe 118.2(2) de la Loi de l’impôt sur le revenu.
+[31] Bien que les principaux arguments invoqués par M. Breen, fondés sur la Charte, ne portaient pas sur le plafond de 2 000 $ prévu à l’alinéa 118.2(2)l.5), les mêmes principes s’appliquent.
+[32] Dans la décision Keehn, notre Cour a conclu que l’exigence relative à la distance de 80 kilomètres prévue à l’alinéa 118.2(2)h) ne contrevient pas au paragraphe 15(1) de la Charte, parce qu’elle s’applique également à toutes les personnes qui demandent un crédit d’impôt pour frais médicaux à l’égard des frais de déplacement engagés afin d’obtenir des services médicaux[17]. Bien que la disposition législative permette de déduire les frais de déplacement à des fins médicales, le législateur a imposé un critère de distance précis, limitant l’allègement fiscal aux personnes qui doivent se déplacer sur une distance de plus de 80 kilomètres. Notre Cour a conclu que le critère de la distance n’est pas fondé sur les différences entre les personnes elles-mêmes[18].
+[33] Le plafond de 2 000 $ pour frais de déménagement prévu à l’alinéa 118.2(2)l.5) est aussi d’application générale :
+118.2(2) Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+[...]
+l.5) pour des frais de déménagement raisonnables (au sens du paragraphe 62(3), mais à l’exclusion des dépenses déduites en application de l’article 62 pour une année d’imposition) du [patient] [...] n’ayant pas un développement physique normal ou ayant un handicap moteur grave et prolongé — engagés en vue de son déménagement dans un logement qui lui est plus accessible ou dans lequel il peut se déplacer plus facilement ou accomplir plus facilement les tâches de la vie quotidienne, pourvu que le total des dépenses déduites en application du présent alinéa par l’ensemble des personnes relativement au déménagement ne dépasse pas 2 000 $;
+[34] Il est à noter que seules les personnes qui n’ont pas un « développement physique normal » ou qui ont un « handicap moteur grave et prolongé » peuvent réclamer ces frais[19]. Le plafond de 2 000$ n’exclut pas par ailleurs systématiquement les contribuables en raison d’une déficience.
+B. Le critère relatif à la déduction des frais de déménagement ne constitue pas de la discrimination. [35] M. Breen a également fait valoir que les exigences à respecter pour réclamer la déduction des frais de déménagement, en application de l’article 62 de la Loi de l’impôt sur le revenu, constituent de la discrimination systémique parce qu’elles ne tiennent pas compte de la réalité des personnes qui ont des problèmes de mobilité. Il croit que [traduction] « des motifs valables de réinstallation, propres à son invalidité » n’ont pas été pris en compte lorsque le législateur a imposé l’exigence relative à la distance de 40 kilomètres.
+[36] Les critères en litige se trouvent dans la définition de « réinstallation admissible », au paragraphe 248(1) :
+réinstallation admissible Réinstallation d’un contribuable relativement à laquelle les faits ci-après s’avèrent :
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d’exploiter une entreprise ou d’occuper un emploi à un endroit au Canada (appelé « nouveau lieu de travail » à l’article 62 et dans la présente définition), sauf si le contribuable est absent du Canada mais y réside,
+(ii) soit de fréquenter, comme étudiant à temps plein inscrit à un programme de niveau postsecondaire, un établissement d’une université, d’un collège ou d’un autre établissement d’enseignement (appelé « nouveau lieu de travail » à l’article 62 et dans la présente définition);
+b) avant la réinstallation, le contribuable habitait ordinairement dans une résidence (appelée « ancienne résidence » à l’article 62 et dans la présente définition) et après la réinstallation, il habitait ordinairement dans une résidence (appelée « nouvelle résidence » à l’article 62 et dans la présente définition);
+c) sauf si le contribuable est absent du Canada mais y réside, l’ancienne résidence et la nouvelle résidence sont toutes deux situées au Canada;
+d) la distance entre l’ancienne résidence et le nouveau lieu de travail est supérieure d’au moins 40 kilomètres à la distance entre la nouvelle résidence et le nouveau lieu de travail.
+[37] En examinant l’objet et l’effet de cette définition, la Cour d’appel fédérale a reconnu qu’un employé peut se voir forcé de déménager afin de demeurer à une distance pratique de son travail[20]. La Cour d’appel fédérale a également reconnu que le législateur a limité la déduction aux contribuables qui doivent déménager afin de se rapprocher d’au moins 40 kilomètres d’un nouveau lieu de travail ou de l’emplacement d’une nouvelle école pour fermer la porte aux tentatives d’un contribuable d’invoquer la disposition lorsqu’il désire simplement changer de résidence[21].
+[38] M. Breen conteste l’exigence relative à la distance au motif que l’on n’a pas tenu compte de la question de savoir si la distance de 40 kilomètres est appropriée. Il a déclaré que les personnes handicapées peuvent avoir des difficultés qui n’ont rien à voir avec la distance, comme le temps nécessaire pour se déplacer entre des emplacements et l’accès aux services de transport adéquats. En omettant de tenir compte de ce facteur, le législateur a fait preuve de discrimination indirecte à l’endroit des personnes handicapées.
+[39] Toutefois, le fait que M. Breen n’a pas droit à la déduction n’était pas fondé sur son handicap, mais sur les faits propres à l’espèce. Il n’y avait aucun nouveau lieu de travail ou emplacement d’une nouvelle école. En 2018, M. Breen était étudiant à temps plein dans un programme de doctorat à l’Université de la Colombie-Britannique, il occupait un emploi occasionnel en menant des activités de recherche et de développement de politiques pour l’université et exploitait une firme de consultants, Breen and Associates, dont les activités étaient axées sur la politique sociale, les personnes handicapées et l’emploi. Le déménagement dans sa nouvelle résidence a permis à M. Breen de travailler de la maison pour ses études existantes, son emploi et ses activités commerciales.
+[40] M. Breen ne satisfaisait pas non plus à l’exigence relative à la distance parce que la nouvelle résidence n’est plus proche que de 13 kilomètres de l’Université de la Colombie-Britannique.
+[41] Il n’y avait aucune distinction au sens du paragraphe 15(1) de la Charte. Tous les contribuables sont assujettis aux mêmes exigences, selon leurs situations factuelles individuelles[22].
+[42] La thèse de M. Breen ne tient également pas compte des régimes d’avantages fiscaux de la Loi de l’impôt sur le revenu visant à aider les contribuables handicapés. En l’espèce, les dispositions relatives au crédit d’impôt pour frais médicaux offraient à M. Breen un certain allègement, mais pas un allègement complet, à l’égard de divers frais médicaux qu’il avait engagés[23].
+C. Les frais de coussins chauffants ne sont pas admissibles au crédit d’impôt pour frais médicaux. [43] M. Breen a affirmé dans son témoignage qu’il utilise les coussins chauffants pour ses problèmes de circulation sanguine dus au dérèglement de sa température associé à la polio. Il s’agit d’une forme de traitement autoadministré pour ses symptômes permanents liés à la polio.
+[44] Bien que je ne doute pas de l’utilisation qu’en fait M. Breen, les coussins chauffants ne sont pas admissibles au crédit d’impôt pour frais médicaux. Ils ne constituent pas un dispositif et ne sont pas utilisés relativement à un dispositif énuméré à l’alinéa 118.2(2)i). De plus, ils ne sont pas visés à l’alinéa 118.2(2)m) parce qu’ils ne constituent pas un dispositif ou un équipement énuméré dans la disposition réglementaire applicable[24].
+[45] Notre Cour a tiré une conclusion semblable dans la décision Ross, dans laquelle le contribuable a tenté de réclamer le crédit d’impôt pour frais médicaux à l’égard des coussins chauffants et autre matériel de traitement[25].
+[46] Le législateur a voulu restreindre l’admissibilité au crédit d’impôt pour frais médicaux à une liste d’éléments et de types particuliers de coût[26]. À cet égard, les coussins chauffants ne sont pas admissibles au titre d’aucune des catégories mentionnées dans la loi.
+IV. Conclusion [47] M. Breen défend les personnes handicapées de manière émouvante et efficace. Son expertise et l’étendue de ses connaissances sont indéniables.
+[48] Toutefois, ses arguments fondés sur la Charte ne peuvent être retenus, car aucune des dispositions en cause n’exclut systématiquement les personnes handicapées ou celles qui font partie d’un sous-ensemble particulier de ce groupe. Au contraire, certaines dispositions relatives au crédit d’impôt pour frais médicaux visent précisément les personnes ayant un handicap moteur grave et prolongé. Les crédits et déductions prévus dans la Loi de l’impôt sur le revenu ne peuvent tenir compte de la situation propre à chaque contribuable.
+[49] M. Breen avait droit à la somme maximale prévue à l’alinéa 118.2(2)1.5), la catégorie de frais médicaux que le législateur cherchait à inclure, le paiement des frais médicaux, comme les droits de cession immobilière. Rien ne justifie que notre Cour étende la disposition au-delà de l’intention manifeste du législateur. Comme notre Cour l’a souligné dans la décision Johnston, il appartient au législateur de fixer des limites pour l’établissement et la prestation continue de programmes sociaux, et notre Cour ne peut « substituer son jugement quant à savoir où il faudrait tracer ou retracer de telles lignes de démarcation »[27].
+[50] Par conséquent, l’appel est accueilli, mais seulement en ce qui a trait au coût des gants pour fauteuil roulant, admis par l’intimé.
+Signé à Ottawa, Canada, ce 14e jour d’avril 2023.
+« Joanna Hill »
+La juge Hill
+Annexe « A »
+Frais médicaux
+118.2(2) Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+[...]
+i) au titre d’un membre artificiel, d’un poumon d’acier, d’un lit berceur pour les personnes atteintes de poliomyélite, d’un fauteuil roulant, de béquilles, d’un corset dorsal, d’un appareil orthopédique pour un membre, d’un tampon d’iléostomie ou de colostomie, d’un bandage herniaire, d’un œil artificiel, d’un appareil de prothèse vocale ou auditive, d’un rein artificiel, de matériel de photothérapie pour le traitement du psoriasis ou d’autres maladies de la peau ou d’un concentrateur d’oxygène, pour le [patient] [...];
+[...]
+l.2) pour les frais raisonnables afférents à des rénovations ou transformations apportées à l’habitation du [patient] [...] ne jouissant pas d’un développement physique normal ou ayant un handicap moteur grave et prolongé — pour lui permettre d’avoir accès à son habitation, de s’y déplacer ou d’y accomplir les tâches de la vie quotidienne, pourvu que ces frais, à la fois :
+(i) ne soient pas d’un type dont on pourrait normalement s’attendre à ce qu’ils aient pour effet d’augmenter la valeur de l’habitation,
+(ii) soient d’un type que n’engagerait pas normalement la personne jouissant d’un développement physique normal ou n’ayant pas un handicap moteur grave et prolongé;
+l.21) pour les frais raisonnables afférents à la construction du lieu principal de résidence du [patient] [...] ne jouissant pas d’un développement physique normal ou ayant un handicap moteur grave et prolongé — qu’il est raisonnable de considérer comme des frais supplémentaires engagés afin de lui permettre d’avoir accès à son lieu principal de résidence, de s’y déplacer ou d’y accomplir les tâches de la vie quotidienne, pourvu que ces frais, à la fois :
+(i) ne soient pas d’un type dont on pourrait normalement s’attendre à ce qu’ils aient pour effet d’augmenter la valeur de l’habitation,
+(ii) soient d’un type que n’engagerait pas normalement la personne jouissant d’un développement physique normal ou n’ayant pas un handicap moteur grave et prolongé;
+[...]
+l.5) pour des frais de déménagement raisonnables (au sens du paragraphe 62(3), mais à l’exclusion des dépenses déduites en application de l’article 62 pour une année d’imposition) du [patient] [...] n’ayant pas un développement physique normal ou ayant un handicap moteur grave et prolongé — engagés en vue de son déménagement dans un logement qui lui est plus accessible ou dans lequel il peut se déplacer plus facilement ou accomplir plus facilement les tâches de la vie quotidienne, pourvu que le total des dépenses déduites en application du présent alinéa par l’ensemble des personnes relativement au déménagement ne dépasse pas 2 000 $;
+[...]
+m) pour tout dispositif ou équipement destiné à être utilisé par le [patient] [...] et qui répond aux conditions suivantes :
+(i) il est d’un genre visé par règlement,
+(ii) il est utilisé sur ordonnance d’un médecin,
+(iii) il n’est pas visé à un autre alinéa du présent paragraphe,
+(iv) il répond aux conditions prescrites quant à son utilisation ou à la raison de son acquisition;
+dans la mesure où le montant payé ne dépasse pas le montant fixé par règlement, le cas échéant, relativement au dispositif ou à l’équipement;
+Frais de déménagement
+62(1) Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition les sommes qu’il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, à la fois :
+a) elles n’ont pas été payées en son nom relativement à sa charge ou à son emploi ou dans le cadre ou en raison de sa charge ou de son emploi;
+b) elles n’étaient pas déductibles par l’effet du présent article dans le calcul de son revenu pour l’année d’imposition précédente;
+c) leur total ne dépasse pas le montant applicable suivant :
+(i) dans le cas visé au sous-alinéa a)(i) de la définition de réinstallation admissible au paragraphe 248(1), le total des sommes représentant chacune une somme incluse dans le calcul du revenu du contribuable pour l’année tiré de son emploi au nouveau lieu de travail ou de l’exploitation de l’entreprise au nouveau lieu de travail ou une somme incluse dans le calcul de son revenu pour l’année par l’effet du sous-alinéa 56(1)r)(v) relativement à son emploi au nouveau lieu de travail,
+(ii) dans le cas visé au sous-alinéa a)(ii) de cette définition, le total des montants inclus dans le calcul du revenu du contribuable pour l’année par l’effet des alinéas 56(1)n) et o);
+d) les remboursements et allocations qu’il a reçus relativement à ces frais sont inclus dans le calcul de son revenu.
+Frais de déménagement d’étudiants
+(2) Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition la somme qu’il pourrait déduire en application du paragraphe (1) s’il n’était pas tenu compte du sous-alinéa a)(i) de la définition de réinstallation admissible au paragraphe 248(1) et si l’alinéa c) de cette définition était remplacé par ce qui suit :
+Définition de l’expression frais de déménagement
+(3) Pour l’application du paragraphe (1), sont comprises dans les frais de déménagement toutes dépenses engagées au titre :
+a) des frais de déplacement (y compris les dépenses raisonnables pour repas et logement) engagés pour le déménagement du contribuable et des membres de sa maisonnée qui se transportent de l’ancienne résidence à la nouvelle résidence;
+b) des frais de transport et d’entreposage des meubles du contribuable qui doivent être transportés de son ancienne résidence à sa nouvelle résidence;
+c) des frais de repas et de logement, près de l’ancienne résidence ou de la nouvelle résidence, engagés par le contribuable et les membres de sa maisonnée pendant une période maximale de15 jours;
+d) des frais de résiliation du bail en vertu duquel il était le locataire de son ancienne résidence;
+e) des frais relatifs à la vente de son ancienne résidence;
+f) lorsque le contribuable ou son époux ou conjoint de fait vend l’ancienne résidence par suite du déménagement, des frais, pour le contribuable, à l’égard des services juridiques relatifs à l’achat de la nouvelle résidence et des impôts, frais, droits et taxes (sauf toute taxe sur les produits et services ou taxe à la valeur ajoutée) applicables au transfert ou à l’enregistrement du droit de propriété de cette résidence;
+g) des intérêts, impôts fonciers, primes d’assurance et coûts du chauffage et des services publics relativement à l’ancienne résidence, jusqu’à concurrence de 5 000 $ ou, s’il est moins élevé, du total des dépenses de cette nature engagées par le contribuable pour la période, à la fois :
+(i) tout au long de laquelle l’ancienne résidence n’est ni ordinairement occupée par le contribuable ou par une autre personne qui y résidait habituellement avec lui immédiatement avant le déménagement, ni louée par le contribuable à une autre personne,
+(ii) au cours de laquelle des efforts sérieux sont faits en vue de vendre l’ancienne résidence;
+h) du coût de la révision de documents juridiques pour tenir compte de l’adresse de la nouvelle résidence du contribuable, du remplacement des permis de conduire et des certificats d’immatriculation de véhicules non commerciaux (à l’exclusion du coût de l’assurance-véhicule) et des connexion et déconnexion des services publics;
+il est toutefois entendu que le terme ne vise pas les frais (autres que les frais visés à l’alinéa f)) engagés par le contribuable pour l’acquisition de sa nouvelle résidence.
+Définitions
+248(1) Les définitions qui suivent s’appliquent à la présente loi.
+réinstallation admissible Réinstallation d’un contribuable relativement à laquelle les faits ci-après s’avèrent :
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d’exploiter une entreprise ou d’occuper un emploi à un endroit au Canada (appelé « nouveau lieu de travail » à l’article 62 et dans la présente définition), sauf si le contribuable est absent du Canada mais y réside,
+(ii) soit de fréquenter, comme étudiant à temps plein inscrit à un programme de niveau postsecondaire, un établissement d’une université, d’un collège ou d’un autre établissement d’enseignement (appelé « nouveau lieu de travail » à l’article 62 et dans la présente définition);
+b) avant la réinstallation, le contribuable habitait ordinairement dans une résidence (appelée « ancienne résidence » à l’article 62 et dans la présente définition) et après la réinstallation, il habitait ordinairement dans une résidence (appelée « nouvelle résidence » à l’article 62 et dans la présente définition);
+c) sauf si le contribuable est absent du Canada mais y réside, l’ancienne résidence et la nouvelle résidence sont toutes deux situées au Canada;
+d) la distance entre l’ancienne résidence et le nouveau lieu de travail est supérieure d’au moins 40 kilomètres à la distance entre la nouvelle résidence et le nouveau lieu de travail.
+RÉFÉRENCE :
+2023 CCI 48
+NO DU DOSSIER DE LA COUR :
+2022-168(IT)I
+INTITULÉ :
+JONATHON S. BREEN c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Sidney (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 28 septembre 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Joanna Hill
+DATE DU JUGEMENT :
+Le 14 avril 2023
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Katherine Shelley
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+Pour l’intimé :
+Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] M. Breen a réclamé 46 % des frais médicaux, et son épouse a réclamé les 54 % restants.
+[2] Les autres dépenses accordées étaient des frais dentaires de 439,80 $, des frais d’abonnement à un centre de culture physique adapté de 550 $, des frais de déplacement à des fins médicales de 172,10 $, des frais pour médicaments d’ordonnance de 15,12 $ et le coût des primes d’assurance-maladie de 2 139,09 $. Au total, M. Breen a demandé des crédits d’impôt pour frais médicaux de 19 169 $, et le ministre a accordé des déductions totalisant 14 535,08 $.
+[3] Pour faciliter la consultation, les dispositions pertinentes de la Loi de l’impôt sur le revenu, LRC (1985), ch. 1 (5e suppl.), et ses modifications, mentionnées dans les présents motifs sont reproduits à l’annexe « A ».
+[4] Si M. Breen avait eu droit à la déduction des frais de déménagement, il aurait pu réclamer le paiement intégral des droits de cession immobilière.
+[5] M. Breen a réclamé 50,39 $ pour les coussins chauffants et 64,96 $ pour les gants pour fauteuil roulant.
+[6] Observations écrites de l’intimé déposées le 29 novembre 2022, au paragraphe 26.
+[7] Ibid., par. 27.
+[8] Pilette c. Canada, 2009 CAF 367, par. 31. Voir aussi l’arrêt Ali c. Canada, 2008 CAF 190 (autorisation d’interjeter appel refusée [2008] C.S.C.R. no 356), par. 20.
+[9] Thibaudeau c. Canada, [1995] 2 RCS 627, p 680.
+[10] Ibid., p 676.
+[11] Ibid.
+[12] Ali c. Canada, 2008 CAF 190, par. 12 à 20. Dans l’arrêt Pilette c. Canada, 2009 CAF 367, la Cour d’appel fédérale a appliqué le même raisonnement lorsqu’elle a rejeté une contestation fondée sur le crédit d’équivalent pour personne entièrement à charge, prévu à l’alinéa 118(1)b) de la Loi de l’impôt sur le revenu.
+[13] Ibid., par. 17 à 19.
+[14] Chevalier c. La Reine, 2008 CCI 11.
+[15] Ibid., par. 37.
+[16] Ibid., par. 60.
+[17] Keehn c. Le Roi, 2023 CCI 1, par. 9 à 12.
+[18] Ibid., par. 11.
+[19] Le même critère s’applique aux frais afférents aux rénovations, aux frais afférents à la construction d’une résidence et aux dépenses afférentes aux transformations apportées à la voie d’accès à la résidence, prévus aux alinéas 118.2(2)l.2), l.21) et l.6), respectivement.
+[20] Giannakopoulos c. M.R.N., [1995] 3 CF 294 (CAF), par. 7.
+[21] Ibid.
+[22] Voir la décision Konecny c. La Reine, 2013 CCI 334, par. 27 et 28, dans laquelle notre Cour a radié une allégation de discrimination d’un avis d’appel relativement à la déduction des frais de déménagement.
+[23] Les dispositions relatives au crédit d’impôt pour personnes handicapées offrent également un allègement, qui entre dans une catégorie relativement restreinte de personnes atteintes d’un handicap (Johnston c. Canada, [1998] A.C.F. no 169 (CAF), par.10).
+[24] Règlement de l’impôt sur le revenu, partie LVII, Crédit d’impôt pour fais médicaux, art. 5700.
+[25] Ross c. La Reine, 2014 CCI 317, par. 23 à 26.
+[26] Ali c. Canada, 2008 CAF 190, par. 17.
+[27] Johnston c. La Reine, 2012 CCI 177, par. 16.

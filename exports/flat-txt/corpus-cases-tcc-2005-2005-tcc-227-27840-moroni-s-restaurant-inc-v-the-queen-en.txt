@@ -1,0 +1,121 @@
+Title: Moroni's Restaurant Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27840/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-227-27840-moroni-s-restaurant-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-03-29
+
+# Moroni's Restaurant Inc. v. The Queen
+
+- Citation: 2005 TCC 227
+- Decision date: 2005-03-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 380, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moroni's Restaurant Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-29
+Neutral citation
+2005 TCC 227
+File numbers
+2003-1915(IT)G
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1915(IT)G
+BETWEEN:
+MORONI’S RESTAURANT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion on costs heard on February 4, 2004 at Ottawa, Canada
+By: The Honourable Justice R.D. Bell
+Appearances:
+Counsel for the Appellant:
+Susan Tataryn and
+Shelley J. Kamin
+Counsel for the Respondent:
+Michael Ezri
+____________________________________________________________________
+ORDER
+Costs in the amount of $5,000 are awarded to the Appellant payable forthwith by the Respondent in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 30th day of March, 2005.
+“R.D. Bell”
+Bell, J.
+Citation: 2005TCC227
+Date: 20050329
+Docket: 2003-1915(IT)G
+BETWEEN:
+MORONI’S RESTAURANT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER IN RESPECT OF COSTS
+Bell, J.
+[1] The Respondent filed a motion on July 2, 2003 for:
+1. an Order quashing the appeal of the Appellant, with costs;
+2. in the alternative, an Order extending time for the Respondent to file its Reply to the Appellant's Notice of Appeal by 30 days from the date of the Order of the Tax Court of Canada disposing of this motion, and extending time for the service of the filed Reply for five days from the date of filing of the Reply;
+3. such further and other relief as the Respondent may request and as may appear just to this Honourable Court.
+The grounds for the motion were stated to be that the Notice of Appeal was filed more than 90 days after the Notice of Confirmation of the Appellant’s 1992, 1993, and 1994 taxation years was sent to the Appellant.
+[2] Shelley Jean Kamin (“Kamin”), a lawyer, was retained by the Appellant on January 15, 2003.
+[3] Kamin, in an affidavit sworn July 17, 2003, stated in paragraph 24:\
+On March 12, 2003, I received by fax from Mr. Tierney (“Tierney”), who was also Moroni’s accountant, a copy of Notification of Confirmation by the Minister dated February 12, 2001 concerning Moroni’s. The Confirmation referred to Moroni’s income from a business for its 1992, 1994 and 1995 taxation years, and the penalties levied under subsections 162(2.11), 163(2) of the Income Tax Act (the “Act”) with respect to Moroni’s 1994 and 1995 taxation years.
+Her affidavit continues that she was confused about the contents of the confirmation and was unclear as to the reference to subsection 162(2) of the Income Tax Act (“Act”). She said that she could not reconcile the amounts of income shown on the confirmation with the amounts of allegedly unreported business income that the Minister had added to Moroni’s income by way of reassessments of its 1992, 1993, and 1994 taxation years. One of her telephone conversations with Mr. Meehan (“Meehan”) of the CCRA revealed his statement that the confirmation should have been mailed on February 12, 2002 or the day thereafter “and he speculated as to why the date appearing on the confirmation for Moroni’s was February 12, 2001.” Her affidavit continues:
+He said that the references to 1995 in the confirmation for Moroni’s were ‘typos’, and that the penalties mentioned in the confirmation ‘are wrong’.
+Meehan, according to Kamin, telephoned her on April 7, 2003 to advise that the CCRA was able to verify that the confirmation was sent by registered mail on February 13, 2002. The affidavit then discloses that on April 30, 2003 Kamin received from the CCRA by registered mail ‘a new, original executed notification of confirmation by the Minister, dated February 12, 2002. The new Confirmation deleted references to Moroni’s 1995 taxation year. Instead it referred to Moroni's income from a business for its 1992, 1993 and 1994 taxation years and the penalties levied under section 163(2) of the Act respecting the 1993 and 1994 years. Meehan also advised her, according to her affidavit, that the CCRA had obtained proof of the receipt of the confirmation for Moroni’s, the documents proving same having been forwarded to her.
+[4] On May 9, 2003, Kamin filed a Notice of Appeal with this Court in response to the corrected Notification.
+[5] I heard the motion and granted an Order refusing the motion to quash the appeal, setting a date for the Respondent to file a Reply to the Notice of Appeal and setting dates for the receipt of submissions on costs.
+[6] Respondent’s written submissions respecting those costs read in part, as follows:
+The first Notice of Confirmation had mistakes on it, but was the end product of a long course of conduct and communication between the Minister and Moroni’s. The Respondent therefore filed a motion and supporting affidavits to quash the Appellant’s Notice of Appeal on July 2, 2003.
+[7] Respondent’s submission notes that on December 2, 2003 the parties conducted cross-examinations on the affidavits of both parties. Counsel for the Appellant, in her submissions on costs, referred to a letter dated September 25, 2003 to the attention of Michael Ezri (“Ezri”), counsel for the Respondent. That letter reads in part:
+Regarding the Moroni’s Restaurant matter, the appellant would also like to see that motion settle so that we may, instead, deal with the substantive issues of the appeal. We, therefore, propose that the Crown withdraw its motion. The Appellant will agree that it be on a without costs basis. This offer to settle is open until Friday, October 3rd, 2003 at 5 p.m. If the appellant’s offer is not accepted by that time and if the Crown pursues the motion, in spite of the recommendation of Associate Chief Judge Bowman on July 31, 2003, please be advised that the Appellant will be seeking costs on a full indemnification basis.
+You have stated that Ms. Kamin’s affidavit puts in issue her “state of mind” and that the Respondent requires oral cross‑examination on her affidavit. The Appellant respectfully disagrees. The only issue in these proceedings is the validity of the Minister’s documentation, and Ms. Kamin’s state of mind is not relevant to that determination. In addition, I have mentioned to you the governing principles of solicitor-client privilege and litigation privilege.
+I have suggested to you that Ms. Kamin could be examined by way of written interrogatories, but the Respondent is insisting on oral cross-examination of Ms. Kamin. Ms. Kamin advises that she would be available for examination on the following dates: October 16th, 17th, 24th or 28th. We will advise whether we will be examining Mr. Meehan and Ms. Durant.
+[8] On November 6, 2003, according to Appellant’s counsel’s submission, the Respondent served the Appellant with a Notice to Attend requiring Kamin to attend for cross-examination on her affidavit. She continues by saying that the Respondent did not use any part of the transcript of Kamin’s examination during the hearing of the motion.
+[9] Appellant’s counsel also submitted that the motion to quash was dismissed by Justice R.D. Bell on February 4, 2004. She continues:
+To date, the Respondent has neither pursued nor withdrawn the motion for examination as it relates to the motion to quash Moroni’s, but it is now moot given Mr. Justice Bell’s decision.
+[10] Respondent’s counsel said that the motion to quash was dismissed and that the Respondent does “not oppose an award of costs to the Appellant in respect of that motion”. Respondent’s counsel submitted that the tariff to the Rules of General Procedure would allow the Appellant a maximum of $250 for every day or part thereof spent on the motion and cross-examination on affidavit. He states that this would amount to $750 for the conference on July 21, 2003, $250 for the cross-examinations, and $250 for the hearing on February 4, 2004. He refers to the Appellant’s entitlement to disbursements stating that he has not been provided with the amount of same. In total, the Respondent says that it would not oppose an award of costs of between $1,250 and $1,750. It is noted that the Respondent made two affidavit deponents, one from Kingston and one from Toronto, available in Ottawa for cross-examination.
+ANALYSIS AND CONCLUSION
+[11] It is remarkable that Respondent's counsel instituted a motion to quash the Notice of Appeal. It was based on the new Notification, not on the first Notice of Confirmation which included several errors.
+As I said in delivering reasons for my orders:
+I'm just not going to have that right to appeal extinguished by a document and a lot of fuss about a document which was patently wrong in several details and irreconcilable as to the figures that were concerned …
+I have an abiding belief in the rule of law and the system of justice that furnishes statutory rights to someone, especially in matters of income and the income tax law and I think that there has to be a clear set of circumstances annihilating those rights, and I am talking about the rights of appeal and all the steps in it.
+[12] In the circumstances I conclude that the motion was unnecessary, resulting in waste of time for the Court, for the Appellant and for the Respondent.
+[13] The Appellant seeks solicitor and client costs and, in the absence thereof, costs in the sum of $15,000. As I stated, in the Reasons for Order in Nicholas Giannakouras, of even date herewith,
+In spite of the Respondent’s zealous behaviour, an award of solicitor-client costs in unwarranted.
+I conclude that the Respondent’s conduct in bringing the motion was wholly unnecessary and inappropriate, the objective appearing to be solely to deny the Appellant’s right to appeal. However, as the Supreme Court of Canada said in Young v. Young, [1993] 4 S.C.R. 3, at page 17, the Respondent did not exhibit “reprehensible, scandalous, or outrageous conduct” in this matter.
+[14] Accordingly, I award costs of $5,000 payable forthwith by the Respondent to the Appellant.
+Signed at Ottawa, Canada, this 30th day of March, 2005.
+“R.D. Bell”
+Bell, J.
+CITATION: 2005TCC227
+COURT FILE NO.: 2003-1915(IT)G
+STYLE OF CAUSE: Moroni’s Restaurant Inc. v.The Queen
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: February 4, 2004
+REASONS FOR ORDER BY: The Honourable Justice R.D. Bell
+DATE OF JUDGMENT: March 30, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Susan Tataryn and
+Shelley J. Kamin
+Counsel for the Respondent:
+Michael Ezri
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Susan Tataryn and Shelley J. Kamin
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

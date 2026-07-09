@@ -1,0 +1,228 @@
+Title: United Parcel Service Canada Ltd v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28929/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-450-28929-united-parcel-service-canada-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-11-30
+
+# United Parcel Service Canada Ltd v. The Queen
+
+- Citation: 2006 TCC 450
+- Decision date: 2006-11-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1371, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+United Parcel Service Canada Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-30
+Neutral citation
+2006 TCC 450
+File numbers
+2003-1072(GST)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-1072(GST)G
+BETWEEN:
+UNITED PARCEL SERVICE CANADA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 26 and 27, 2006, at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Jeff Galway
+David E. Spiro
+E. Anne Glover
+Counsel for the Respondent::
+Harry Erlichman
+John McLaughlin
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act (“ETA”), notice of which is dated December 18, 2002 and bears number 05DP117136515, with respect to the Appellant’s reporting period from February 1, 1996 to December 31, 1997, is allowed, with costs, and the reassessment is referred back to the Minister of National revenue for reconsideration and reassessment on the basis that the appellant is entitled to a rebate of $2,900,858 which may, in accordance with subsection 296(2.1), be taken into account in computing its net
+tax for the purposes of the GST provisions of the ETA. The Minister should also in reassessing take into account any other adjustments to which he may have agreed at the objection level.
+Signed at Ottawa, Canada, this 30th day of November 2006.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2006TCC450
+Date: 20061130
+Docket: 2003-1072(GST)G
+BETWEEN:
+UNITED PARCEL SERVICE CANADA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] This appeal is from an assessment made under the Excise Tax Act (“ETA”). The issue is whether the appellant, United Parcel Service Canada Ltd. (“UPS”) is entitled to an allowance for an unclaimed rebate pursuant to subsection 296(2.1) of the ETA. That at least is how the appellant stated the issue. I think the question might be more accurately stated as whether the appellant is entitled to a rebate at all in the circumstances of this case.
+[2] The parties entered into a statement of agreed facts (“SAF”) and it is attached as Schedule A to these reasons. The essential facts can be stated fairly briefly. UPS carries on business as a courier and in this business it brings shipments into Canada from foreign locations for delivery to consignees at addresses in Canada.
+[3] Such shipments may attract Canadian customs duties and Goods and Services Tax (“GST”). UPS is also a licensed customs broker. When goods are brought into Canada GST has to be paid as well as customs duties and these taxes are paid by UPS. One question that may be relevant is whether UPS pays the taxes as agent for and on behalf of the consignee and, if so, what effect it has on the disposition of this case.
+[4] At all events, overpayments of GST were sometimes made by mistake by UPS. I assume mistakes were made in the amount of customs duties paid but that is not what we are concerned with in this appeal.
+[5] The overpayments fall into eleven broad categories as set out in paragraph 19 of the SAF.
+[6] In the result, in the 1996/1997 periods the amount of GST overpaid by UPS for the shipments that it brought into Canada was $2,937,123. This amount was claimed as a rebate by UPS, i.e. it was shown as a reduction of its own GST liability on line 105 of the return.
+[7] On assessment, the Minister of National Revenue disallowed the rebate claim of $2,937,123 and also assessed interest of $456,606.20 and a penalty of $632,229.77.
+[8] The above is a somewhat simplified version of the relevant facts. A few other points should be noted. As will be apparent from the SAF, UPS did not seek reimbursement of the overpayment from its customers or from the consignees. The overpayment was made from UPS’ own funds and it was UPS that was out of pocket.
+[9] In December 1996, UPS recognized that the system of dealing with GST adjustments was unsatisfactory. Paragraphs 20 to 24 of the SAF outline in detail the steps taken to recover the overpayment. On December 16, 1996, Mr. Gilles Bazinet, who at present is the customer service supervisor for UPS, wrote a memorandum. It is of sufficient importance that it warrants reproduction in full:
+To : Niran Nadarajah
+From: : Sunil Rajaram
+Gilles Bazinet
+Re : Brokerage GST rebate
+Date : December 16, 1996[1]
+Some changes are needed to address the way in which GST adjustments are handled when GST is paid on the Canadian Value of goods imported. The current procedure is very ambiguous. This causes extensive delays in recovering our GST from the government, paid on our customers behalf.
+When a customer is given a credit for a billing adjustment, the amount of the adjustment includes an amount for GST. Since we are crediting the GST amount back to the customer we should also be recognizing this GST refund as a reduction of our GST liability to the government, for all adjustments. That is, at the end of the month a GST payment is submitted to Revenue Canada for all services sold. The amount of the GST adjustment will reduce the payment to Revenue Canada.
+The current procedure is as follows:
+A) Customer without GST registration number: the customer account is credited and the GST adjustment is debited to the GL account # 203470 Good and Service Tax which results in a reduction in our GST liability to the government.
+B) Customer with a GST registration number: the customer account is being credited and a GST adjustment is debited to the GL account # 113511 – Account Receivable-Others Custom Duty and Tax Refund. An Application must be processed for the rebate of goods and services tax on behalf of our customer. To do this, we must obtain specific documentation from our customers, Canada Customs, and Fredericton Brokerage. This process may take several weeks. The time elapsed between the process of the rebate application and the time we receive the refund back from the government varies from 60 days to one year. Upon receipt of the Government cheque, for the GST, the GL account # 113511 is credited.
+Most common reasons for GST adjustment:
+* Canadian goods returning
+* RTS shipment
+* Wrong value for duty
+* GST exempt goods (i.e. medical supplies)
+* NAFTA
+* Classification error.
+As of October 31st 1996 the GST refunds account shows an outstanding cumulative balance of $225,432.69
+Proposed procedure :
+The new proposal would utilize procedure A only. Procedure A will allow all the GST adjustments to be coded to the GL account # 203470, regardless if customer is GST registered or is not GST registered. However, a credit note must be issued to GST registered customers. (See sample attached). For audit purposes, copy of the credit note will be kept on file with all relative documentation.
+This procedure will be in accordance with the General Rebate Guide and Application from Revenue Canada in which it is stipulated on page 3 under Reason Code 1 – Amounts paid in error that “If you collect an amount as or on account of GST that you should not have collected, you have to include that amount in your net tax. You are not entitled to claim a rebate for amounts you collected in error. To correct this error, you must refund the amount of your customer(s) by way of a credit note which will be reflected in your net tax calculation in a subsequent period”
+This procedure has been reviewed with Mrs. Edith D’Amour from Revenue Quebec which administrates GST on behalf of Revenue Canada for Quebec customers and with Mr. Stephane Ferland from Revenue Canada, Summerside Tax Centre PEI.
+Attached to that memorandum was a Revenue Canada Release which reads:
+Who is responsible for the verification and approval for GST issues on combined (Customs issue/GST issue) claims submitted on Form B2s through Customs?
+The procedure will be different for registered and for non-registered claimants.
+Non-Registrants
+Non-Registrants who have overpaid amounts as duties and GST on imported goods may recover the overpayment by filing a CANADA CUSTOMS ADJUSTMENT REQUEST (FORM B2). Customs will refund the duty portion of the claim and will advise Excise/GST to send the non-registrant a rebate of the GST portion of the claim. After Customs has processed the duty portion of the claim, the non-registrant should contact the nearest Revenue Canada Excise/GST District office with enquiries about the GST rebate.
+When the overpayment involves only GST, the amount may be recovered by filing a GENERAL REBATE APPLICATION FOR REBATE OF THE GOODS AND SERVICES TAX (FORM GST 189E), if no Customs issue is involved. This form, which may be filed once a month, is available from Revenue Canada Excise/GST District offices. However, if the rebate claim involves a Customs issue (eg. a re-determination of tariff classification or re‑appraisal of the value for duty of the goods), Form B2 must be filed with Customs, who will advise Excise/GST to rebate the amount if entitled.
+Registrants
+Registrants who have overpaid amounts as duties and/or GST should file a Form B2 to recover the overpayment of Customs duties and file a GST 189E to recover the GST overpayment on imported goods, unless an Input Tax Credit has already been claimed for that amount. If the rebate claim involves a Customs issue, the GST 189E should not be filed until after the issue has been resolved. The Customs decision should be referred to in order to support the GST rebate claim.
+If an ITC has been claimed to recover the excess amount paid on account of GST, it is not Excise/GST administrative policy to require the registrant to adjust the ITC and claim a rebate. No further action is required. The Excise Tax Act provides the authority at the time of an audit to set off an unclaimed rebate against an unentitled ITC taken. Consequently, an ITC may be taken for an amount overpaid on account of GST on an imported good instead of filing a rebate claim. There will be no tax, penalty or interest implications, provided an ITC is not claimed where a rebate is paid for the same amount.
+[10] As part of the procedure adopted to recover the overpayment, UPS had the importer sign a credit note. A typical example is reproduced at parapraph 24 of the SAF. It was addressed to the Minister of National Revenue. The relevant portions read:
+Please be advised that United Parcel Services is authorized to take an input tax credit of the Goods and Services Tax, under part IX of the Excise Tax Act, directly related to:
+. . .
+As a GST registrant we will not claim a credit (input tax credit) for the same transaction.
+. . .
+Note to the Importer: Upon reception of this authorization, United Parcel Service will credit your account # for the above mentioned amount.
+[11] I am inclined to question how legally effective this document is. A person entitled to an input tax credit (“ITC”) cannot assign its right to someone else. Under the Financial Administration Act Crown debts are not assignable in the absence of statutory authority.
+[12] Crown counsel put in evidence a variation of the credit note which stated:
+Please be advised that United Parcel Service is authorized to sign, file and receive on my behalf, applications for rebates of the Goods and Services Tax, under part IX of the Excise Tax Act directly related to:
+. . .
+There is no evidence that this version was ever used. It might have been somewhat more effective.
+[13] As mentioned in paragraph 11 of the SAF, where a consignee had an active brokerage account with UPS a general agency agreement would be signed. It read:
+GENERAL AGENCY AGREEMENT
+Appointing a Customs Broker
+With Power to Appoint a Sub-Agent
+KNOW ALL PERSONS BY THESE PRESENT
+That I/We
+(REGISTERED COMPANY NAME / IMPORTER)
+OF (STREET, CITY)
+(PROVINCE/STATE) (POSTAL CODE) (COUNTRY)
+(TELEPHONE)
+(FAX)
+do hereby constitute and appoint United Parcel Service Canada Ltd (hereinafter referred to as “our attorney”) of 900 Hanwell Road, Fredericton, New Brunswick E3B 6A2 our true and lawful attorney to transact business under the Customs Act on our behalf in all matters relating to the accounting for and payment of duties in respect of imported goods released under that Act, at all Customs offices in Canada.
+I/We acknowledge that any duties, charges or other amounts paid on our behalf or to our account by our attorney or sub-agent shall be a debt due by us to our attorney or sub-agent and any refund, rebate or remission of such duties, charges or other amounts shall be the property of our attorney or sub-agent. We direct and authorize any government agencies collecting same to deliver such rebate, refund or remission to our attorney or sub-agent.
+I/We grant our attorney full power and authority to appoint any other person to whom a licence to transact business as a Customs Broker has been issued under the Customs Act as a sub-agent to transact the aforesaid business on our behalf at any of the aforementioned Customs offices, and to revoke any such appointment and to appoint any other person who holds such licence as a sub-agent in the place of any sub-agent whose appointment has been revoked, as our attorney shall, from time to time, think fit.
+I/We agree to, on demand, reimburse our attorney for all moneys properly expended by such attorney, and/or by any sub-agent appointed by our attorney on our behalf, including the payment of any duty and/or taxes, or posting of any surety bond deposited as security with any Customs office.
+This Power of Attorney shall be and remain in full force and effect until due notice of its revocation shall be given to our aforesaid attorney, in writing.
+[14] To recapitulate, the importer constituted UPS its agent for the purpose of dealing with the Canadian customs authorities in bringing shipments into Canada. This included paying GST on behalf of the consignee. This is recognized in Mr. Bazinet’s memorandum where he states in the first paragraph:
+“This causes extensive delays in recovering our GST from the government, paid on our customers behalf”.
+[15] This sentence neatly illustrates the problem. He refers to “our” GST, and describes it as “paid on our customers behalf”.
+[16] There is merit to the argument that in fairness the appellant should be entitled to recover the overpayments. UPS is the only person who paid the money and is out of pocket. Its customers are not out of pocket and the government admits that the GST has been overpaid. Nonetheless, we are dealing with a technical statute and if the appellant has a right to recover the overpayment, that right must be found in the statute itself. Section 212 of the ETA reads:
+Imposition of goods and services tax ― Subject to this Part, every person who is liable under the Customs Act to pay duty on imported goods, or who would be so liable if the goods were subject to duty, shall pay to Her Majesty in right of Canada tax on the goods calculated at the rate of 7% on the value of the goods.
+Subsection 215(1) of the ETA reads:
+Value of goods ― For the purposes of this Division, the value of goods shall be deemed to be equal to the total of
+(a) the value of the goods, as it would be determined under the Customs Act for the purpose of calculating duties imposed on the goods at a percentage rate, whether the goods are in fact subject to duty, and
+(b) the amount of all duties and taxes, if any, payable thereon under the Customs Tariff, the Special Import Measures Act, this Act (other than this Part) or any other law relating to customs.
+[17] Subsections 261(1), (2) and (3) read:
+261. (1) Rebate of payment made in error — Where a person has paid an amount
+(a) as or on account of, or
+(b) that was taken into account as,
+tax, net tax, penalty, interest or other obligation under this Part in circumstances where the amount was not payable or remittable by the person, whether the amount was paid by mistake or otherwise, the Minister shall, subject to subsections (2) and (3), pay a rebate of that amount to the person.
+(2) Restriction — A rebate in respect of an amount shall not be paid under subsection (1) to a person to the extent that
+(a) the amount was taken into account as tax or net tax for a reporting period of the person and the Minister has assessed the person for the period under section 296;
+(b) the amount paid was tax, net tax, penalty, interest or any other amount assessed under section 296; or
+(c) a rebate of the amount is payable under subsection 215.1(1) or (2) or 216(6) or a refund of the amount is payable under section 69, 73, 74 or 76 of the Customs Act because of subsection 215.1(3) or 216(7).
+(3) Application for rebate — A rebate in respect of an amount shall not be paid under subsection (1) to a person unless the person files an application for the rebate within two years after the day the amount was paid or remitted by the person.
+Subsection 296(2.1) reads:
+Allowance of unclaimed rebate — Where, in assessing the net tax of a person for a reporting period of the person or an amount (in this subsection referred to as the "overdue amount") that became payable by a person under this Part, the Minister determines that
+(a) an amount (in this subsection referred to as the "allowable rebate") would have been payable to the person as a rebate if it had been claimed in an application under this Part filed on the particular day that is
+(i) if the assessment is in respect of net tax for the reporting period, the day on or before which the return under Division V for the period was required to be filed, or
+(ii) if the assessment is in respect of an overdue amount, the day on which the overdue amount became payable by the person,
+and, where the rebate is in respect of an amount that is being assessed, if the person had paid or remitted that amount,
+(b) the allowable rebate was not claimed by the person in an application filed before the day notice of the assessment is sent to the person, and
+(c) the allowable rebate would be payable to the person if it were claimed in an application under this Part filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that application only because the period for claiming the allowable rebate expired before that day,
+the Minister shall, unless otherwise requested by the person, apply all or part of the allowable rebate against that net tax or overdue amount as if the person had, on the particular day, paid or remitted the amount so applied on account of that net tax or overdue amount.
+[18] The question boils down essentially to this: UPS overpaid GST on behalf of its customers. It did not recover from them the amount that it overpaid. It now seeks to recover that amount from the Government of Canada. Its entitlement to the amount as a matter of fairness is unquestioned and there are various ways it might have used to get the money back. It might have sued in the Federal Court. Whether it would have succeeded is a matter on which I shall not speculate. If, as I conclude below, the remedy is found in the ETA itself, the matter is within the Tax Court’s jurisdiction. It might have charged its customers for the overpayment and applied on their behalf to get it back from the government. When it recovered the overpayment it could have credited it against the customers liability to it. This is obviously cumbersome, time consuming and involves charging customers for mistakes made by UPS. It might in computing its income have deducted the overpayments that it was otherwise unable to recover on the basis that they were an ordinary costs of doing business. I should think there would have been a strong case for doing so. However, deducting an expense is only about one half as good as recovering it fully.
+[19] In the result UPS did none of these things. It short‑circuited the process. The question is whether the legal correctness of this approach is equal to its common sense practicality.
+[20] Counsel for the respondent sets out a number of things that UPS might have done and he points to a number of technical deficiencies in the appellant’s approach. He states in paragraph 21 of the respondent’s Memorandum of Fact and Law:
+UPS asserts that even if it remitted overpayments as agent for its customers, at common law an agent may sue to recover amounts paid by the agent due to a mistake. As noted above, the provisions of subsections 58(5) and (6) of the Customs Act foreclose this argument with respect to a majority of the categories of “errors” committed by UPS as the section deems the declaration UPS made to Revenue Canada at the time of importation to be the “correct” tariff classification and value for duty. The Customs Act contains a complete statutory code which forecloses any common law relief. As UPS did not request a re‑determination or re‑appraisal in the manner set out in section 60 of the Customs Act, there is no amounts paid due to a mistake.
+[21] Whether there was an overpayment or the amount thereof is not before me. The fact of the overpayment and the amount thereof are admitted.
+[22] The Crown’s position when one cuts through the technicalities is simply this: UPS was the agent for its customers. It paid GST on their behalf. If it paid too much, it did so as agent for the customers and only they are entitled to recover it or to treat the overpayment as giving rise to ITCs which could be set off against their GST liability to arrive at their net tax.
+[23] In interpreting any legislation, including the GST provisions of the ETA as well as the Customs Act, it is important to follow an approach that, where possible, achieves a sensible, practical and common sense result (Maritime Life Assurance Co. v. The Queen, [1999] G.S.T.C. 1 (T.C.C.), aff’d [2000] G.S.T.C. 89 (F.C.A.)) and one that is consonant with the scheme of the Act (Highway Sawmills Ltd. v. M.N.R., 66 DTC 5116, per Cartwright J.).
+[24] I do not see how allowing the person who has paid the GST − and who, I emphasize, has an obligation to pay it − to avail itself of the mechanism in the ETA for recovering overpayments can be inconsistent with the scheme of the Act.
+[25] Section 212 of the ETA is set out above but I shall repeat it. It reads:
+Imposition of goods and services tax ― Subject to this Part, every person who is liable under the Customs Act to pay duty on imported goods, or who would be so liable if the goods were subject to duty, shall pay to Her Majesty in right of Canada tax on the goods calculated at the rate of 7% on the value of the goods.
+[26] Subsection 12(1) of the Customs Act reads:
+Subject to this section, all goods that are imported shall, except in such circumstances and subject to such conditions as may be prescribed, be reported at the nearest customs office designated for that purpose that is open for business.
+[27] Subsection 18(1) and 18(2) of the Customs Act read:
+(1) Presumption of importation -- For the purposes of this section, all goods reported under section 12 shall be deemed to have been imported.
+(2) Liability of person reporting goods short landed -- Subject to subsections (3) and 20(2.1), any person who reports goods under section 12, and any person for whom that person acts as agent or employee while so reporting, are jointly and severally or solidarily liable for all duties levied on the goods unless one or the other of them proves, within the time that may be prescribed, that the duties have been paid or that the goods
+(a) were destroyed or lost prior to report or destroyed after report but prior to receipt in a place referred to in paragraph (c) or by a person referred to in paragraph (d);
+(b) did not leave the place outside Canada from which they were to have been exported;
+(c) have been received in a customs office, sufferance warehouse, bonded warehouse or duty free shop;
+(d) have been received by a person who transports or causes to be transported within Canada goods in accordance with subsection 20(1);
+(e) have been exported; or
+(f) have been released.
+[28] Clearly, UPS is either the person who reports the imported goods, or it is the agent for that person (its customer, the importer). It follows therefore that it is jointly and severally liable for the duties under subsection 18(2) of the Customs Act and is therefore liable to pay GST on the value of the goods under section 212 of the ETA. The obligation of UPS to pay the customs duties (and therefore the GST under section 212) is further confirmed by subsection 32(5) which imposes upon a person “authorized under paragraph 6(a) to account for the goods ...” (a licensed customs broker as set out in SOR/86‑944) a liability to pay the GST.
+[29] The amount of $2,900,858 was paid as or on account of tax by UPS. It was paid by mistake or otherwise and therefore subsection 261(1) of the ETA requires the Minister to pay a rebate.
+[30] The appellant did not claim a rebate within the time required under section 261. It is clear from subsection 296(2.1) of the ETA, which I have quoted above, that such an unclaimed rebate must be taken into account in the computation of net tax. I need not elaborate on this point. It was fully dealt with by Bowie J. in Peach Hill Management v. The Queen, [1999] G.S.T.C. (T.C.C.), aff’d [2000] G.S.T.C. 45 (F.C.A.) and by Sheridan J. in SAS Restaurants Ltd. v. The Queen, [2005] G.S.T.C. 159 and by David Sherman in his commentary on Club de Hockey Les Seigneurs de Kamouraska Inc. v. The Queen, [2005] G.S.T.C. 73 (T.C.C.).
+[31] A number of other cases and commentaries were discussed by counsel for the appellant, including a decision of this court in McDonnell v. The Queen, [2005] G.S.T.C. 134 (T.C.C.) and the commentary thereon by David Sherman. I do not think it is necessary to comment further on these arguments. The statutory provisions and the case law are clear. UPS was a person liable to pay the GST on the imported goods. It overpaid it and was entitled to the rebate which it could claim under the mechanism of subsection 296(2.1).
+[32] The appeal is therefore allowed, with costs, and the assessment is referred back to the Minister of National revenue for reconsideration and reassessment on the basis that the appellant is entitled to a rebate of $2,900,858 which may, in accordance with subsection 296(2.1) be taken into account in computing its net tax for the purposes of the GST provisions of the ETA. The Minister should also in reassessing take into account any other adjustments to which he may have agreed at the objection level.
+Signed at Ottawa, Canada, this 30th day of November 2006.
+“D.G.H. Bowman”
+Bowman, C.J.
+SCHEDULE A
+CITATION:
+2006TCC450
+COURT FILE NO:
+2003-1072(GST)G
+STYLE OF CAUSE:
+United Parcel Service Canada Ltd. and
+Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 26 and 27, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+November 30, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Jeff Galway
+David E. Spiro
+Counsel for the Respondent:
+Harry Erlichman
+John McLaughlin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blake, Cassels & Graydon LLP
+Firm:
+Barristers & Solicitors
+Box 25, Commerce Court West
+Toronto, Ontario M5L 1A9
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The evidence was that this was a misprint. It should have read “1997”.

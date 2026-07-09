@@ -1,0 +1,184 @@
+---
+title: "Moxsom c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28406/index.do"
+last_modified: "2006-10-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 541"
+citation2: ""
+neutral_citation: "2006 CCI 541"
+decision_date: "2006-10-06"
+language: "fr"
+item_id: "28406"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1433
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:41:36.346000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "288a2086c100096b1055c288fe5b7d6b8f1a1c8870452820c5d4d0e33ddf3e03"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Moxsom c. La Reine
+
+- Citation: 2006 CCI 541
+- Decision date: 2006-10-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1433, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moxsom c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-06
+Référence neutre
+2006 CCI 541
+Numéro de dossier
+2006-577(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-577(IT)I
+ENTRE :
+CINDY M. MOXSOM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 juillet 2006 à Halifax (Nouvelle‑Écosse)
+Devant : L’honorable juge G. Sheridan
+Comparutions :
+Avocat de l’appelante :
+Me Ray Adlington
+Avocate de l’intimée :
+Me Catherine McIntyre
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 6e jour d’octobre 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 31e jour d’août 2007.
+Jean David Robert, traducteur
+Référence : 2006CCI541
+Date : 20061006
+Dossier : 2006-577(IT)I
+ENTRE :
+CINDY M. MOXSOM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante, Cindy M. Moxsom[1], interjette appel de la nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») par laquelle des prestations qui lui avaient été versées au titre du régime de pension de son défunt père ont été incluses dans le calcul du revenu de l’appelante pour l’année d’imposition 2003 en application du sous‑alinéa 56(1)a)(i) de la Loi de l’impôt sur le revenu (la « Loi »), lequel est ainsi rédigé :
+56(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d'imposition :
+a) toute somme reçue par le contribuable au cours de l’année au titre, ou en paiement intégral ou partiel :
+(i) d’une prestation de retraite ou de pension, y compris, sans préjudice de la portée générale de ce qui précède […]
+[2] L’appelante n’a pas contesté que les chèques qu’elle avait reçus de l’administrateur de régime de pension et que le feuillet T4A produit par celui‑ci étaient à son nom, mais elle a fait valoir qu’elle n’avait pas reçu les sommes en cause à titre personnel.
+Faits
+[3] Le père de l’appelante exerçait un emploi de débardeur à Halifax, en Nouvelle‑Écosse. En avril 1997, il a commencé à recevoir des prestations de pension mensuelles au titre du régime de pension de l’Association internationale des débardeurs du port de Halifax (le « régime de l’AID »). Dans un document intitulé [traduction] « Formulaire de désignation ou de changement du bénéficiaire » daté du 22 avril 1997[2], le père de l’appelante a désigné celle‑ci comme sa seule bénéficiaire au titre du régime de l’AID. Il est acquis aux débats que la désignation de l’appelante a été dûment exécutée conformément à la clause 8.1[3] du régime de l’AID, laquelle est rédigée en ces termes :
+[traduction]
+8.1 Désignation du bénéficiaire
+Dans la mesure où la loi le permet, un participant pourra, par le dépôt auprès de l’administrateur d’une déclaration écrite signée, désigner un bénéficiaire qui recevra une prestation consécutive au décès du participant qui n’est pas à payer à son conjoint survivant, et le participant pourra modifier ou révoquer une telle désignation. En l’absence d’une telle désignation valide, la prestation consécutive au décès du participant sera à payer à sa succession forfaitairement.
+[4] Au printemps 2001, le père de l’appelante, atteint d’un cancer du poumon, a été hospitalisé et a commencé à se préoccuper de mettre de l’ordre dans ses affaires. Il s’est d’abord attardé à sa police d’assurance. Le 9 avril 2001, entouré de sa famille à l’hôpital, il a rempli un formulaire intitulé [traduction] « Désignation du bénéficiaire dans le cadre des régimes de la CACV »[4], dans lequel il a désigné ses quatre enfants comme ses bénéficiaires au titre de sa police d’assurance‑vie auprès de la Compagnie d’Assurance du Canada sur la Vie (la « police d’assurance CACV »). Plus tard au cours du même mois, de nouveau de son lit d’hôpital et entouré de sa famille, le père de l’appelante a rempli un autre document intitulé [traduction] « Formulaire de testament »[5], lequel, selon l’appelante, était un testament en bonne et due forme. Le 12 mai 2001, il est décédé, ses quatre enfants, soit l’appelante, Doris, Brenda et Ronald, lui survivant.
+[5] À la suite du décès du père de l’appelante, la société Sun Life du Canada, Compagnie d’Assurance‑Vie (ci‑après « Sun Life ») a commencé à verser des prestations de pension à l’appelante au titre du régime de l’AID.
+[6] En 2003, l’appelante a reçu un total de 15 937,32 $, qu’elle a déposés dans un compte bancaire établi au nom de la succession de son défunt père. Au cours de l’année, elle a versé les prestations accumulées (moins une petite somme gardée dans le compte pour lui permettre de couvrir diverses charges) en parts égales à elle‑même, à son frère et à ses deux sœurs.
+[7] Sun Life a produit un feuillet T4A au nom de l’appelante pour les prestations de pension qui lui avaient été versées en 2003. En dépit du fait que son nom figurait sur le feuillet T4A, l’appelante a déclaré les prestations de pension dans la déclaration qu’elle a produite pour le compte de la succession de son défunt père, à laquelle elle a joint le feuillet T4A qu’elle avait reçu de Sun Life. Le ministre a établi une nouvelle cotisation par laquelle il a inclus les prestations de pension dans le calcul du revenu personnel de l’appelante.
+Analyse
+[8] Le principal argument de l’appelante était que sa désignation comme l’unique bénéficiaire au titre du régime de l’AID[6] avait en réalité été modifiée au moment où son père a signé le [traduction] « Formulaire de testament » dans lequel l’appelante ainsi que son frère et ses sœurs étaient désignés comme bénéficiaires à parts égales de sa succession. Subsidiairement, elle a soutenu que, si jamais elle avait été l’unique bénéficiaire au titre du régime de l’AID, elle avait, par ses actions, renoncé à ce statut, et que, par conséquent, en vertu de ce régime, les prestations de pension devaient être payées à la succession. En tant que l’exécutrice testamentaire dûment désignée en vertu du [traduction] « Formulaire de testament », l’appelante avait reçu les prestations de pension en cette qualité plutôt qu’à titre personnel.
+[9] L’avocate de l’intimée a fait valoir que, vu l’admission de l’appelante selon laquelle elle était la personne à laquelle les prestations de pension au titre du régime de l’AID devaient être versées, et que le feuillet T4A avait été produit à son nom, le ministre avait non seulement le droit d’inclure les prestations de pension dans le calcul du revenu de l’appelante, mais il en avait l’obligation. Même si le père de l’appelante souhaitait que ses enfants bénéficient de façon égale du régime de l’AID, il n’a jamais fait les démarches nécessaires pour réaliser ce souhait. L’avocate a soutenu, de plus, que, si les prestations de pension avaient été versées à tort par Sun Life à l’appelante, c’était une question que ces dernières devaient régler entre elles et qui était sans rapport avec la nouvelle cotisation établie par le ministre.
+[10] À mon avis, la position de l’intimée est la bonne. Le fait que l’appelante a partagé les prestations de pension avec son frère et ses sœurs ne change pas le fait que les chèques reçus ont été établis par Sun Life à l’ordre de l’appelante, et que rien dans les chèques n’indique qu’ils ont été établis à son ordre autrement qu’à titre personnel. Les parties s’entendent pour reconnaître que l’appelante a effectivement réparti les prestations de pension accumulées en parts égales entre elle‑même, ses sœurs et son frère, mais la preuve appuie l’argument de l’intimée voulant qu’elle l’ait fait par choix et non pas parce que c’était une obligation légale.
+[11] La clause 8.1 du régime de l’AID régit la désignation des bénéficiaires et expose les formalités à accomplir à cette fin : elle exige le dépôt auprès de l’administrateur du régime de pension d’une déclaration écrite signée par un [traduction] « participant » au sens de la clause 1.27[7], qui est libellée ainsi :
+[traduction]
+1.27 « participant » Employé qui est admis à titre de participant au régime comme le dispose l’ARTICLE II et qui n’a pas cessé de participer au régime soit :
+a) en mettant fin à sa participation conformément à l’ARTICLE VII;
+b) en devenant un pensionné ou en se prévalant de l’option de transférabilité prévue à l’alinéa 6.1e);
+c) par suite de son décès.
+[12] Le terme [traduction] « pensionné » employé dans la clause 1.27b) est défini dans la clause 1.34 comme [traduction] « un ancien participant qui reçoit une prestation de pension ».
+[13] La clause 8.1 permet aussi à un [traduction] « participant » de [traduction] « modifier ou de révoquer » sa désignation du bénéficiaire, mais elle ne précise pas la façon dont il faut procéder pour le faire. Elle énonce seulement que la modification ou la révocation peut être effectuée [traduction] « dans la mesure où la loi le permet », comme il est indiqué dans le préambule.
+[14] L’avocat de l’appelante a fait valoir que la désignation de celle‑ci avait été modifiée validement par suite de la signature du [traduction] « Formulaire de testament » par son père juste avant le décès de celui‑ci en 2001. Je n’ai rien à ajouter au témoignage éloquent du beau‑frère de l’appelante, Dennis Beaver, qui a décrit ainsi les circonstances dans lesquelles ce document a été créé :
+[traduction]
+R. Nous sommes allés rendre visite à George [le père de l’appelante] à l’hôpital. Il y était entré pour subir une opération aux poumons. Tout le monde, lui compris, supposait qu’il allait se remettre de son opération. Au cours de nos visites et après l’opération, il n’était plus si convaincu. Il s’est alors mis dans tous ses états, disant qu’il n’avait aucun testament et qu’il voulait que nous fassions quelque chose pour lui en fournir un. À ce moment‑là, moi et mon collègue traitions directement avec Ray Adlington [l’avocat de l’appelante] à son autre cabinet, Daley Black, et nous lui avons tous les deux demandé des trousses testamentaires. Nous avons donc reçu ces trousses, et j’ignorais, comme mon collègue, qu’il s’agissait d’un formulaire. George maintenait catégoriquement qu’il voulait rédiger un testament. Je lui ai donc répondu : « C’est qu’on les a obtenues pour notre usage personnel, mais, d’accord, George, je t’apporterai la trousse testamentaire, et on la personnalisera ici à l’hôpital si ça peut te faire plaisir. » Et il voulait que nous le fassions. C’est donc ainsi que ce soi‑disant « testament », qui s’est avéré être un « formulaire de testament », a été établi[8].
+[...]
+R. Nous étions dans la chambre d’hôpital avec George. Et nous étions tous là. Et j’étais comme – ils voulaient que je l’écrive de ma main. J’ai donc – comme vous pouvez le constater, c’est mon écriture, écriture en caractères d’imprimerie, dites-le comme vous voulez. George se sentait mal. Il pensait toujours sortir de l’hôpital, mais il – pardon – il pensait toujours qu’il allait sortir de l’hôpital, mais ça semblait lui procurer une certaine tranquillité d’esprit de voir que nous nous occupions de la préparation, de la rédaction et de l’établissement de son testament pour lui au cas où il ne s’en sortirait pas. En fin de compte, il a juste – vous savez, il a eu des complications à cause de l’opération et il n’est pas sorti de l’hôpital. C’était donc en fait le dernier document qu’il a, vous savez, établi[9].
+[15] Je suis convaincue que le [traduction] « Formulaire de testament » a été dûment signé par le père de l’appelante en présence de témoins. Ce formulaire désignait les quatre enfants de celui‑ci comme ses bénéficiaires. Les biens du père de l’appelante étaient indiqués comme étant trois comptes bancaires, sa pension de l’AID et sa police d’assurance CACV. Le formulaire prescrivait que les frais d’obsèques devaient être prélevés sur le produit de l’assurance souscrite auprès de la CACV[10]. Le document se terminait sur ces mots : [traduction] « Nonobstant toute implication ou inférence contraire, les présentes doivent être considérées comme étant mes dernières volontés[11]. » Dennis Beaver a expliqué ainsi la raison pour laquelle cette clause avait été incluse :
+[traduction]
+J’ai aussi ajouté la clause dérogatoire. À cette époque‑là, je suivais un cours sur la négociation donné par le syndicat que je représentais[12]. [...] Donc, nous n’étions pas certains à ce moment‑là s’il y avait autre chose à part la pension de survivant qui était en cause. Et l’une des choses que j’ai apprises lors des négociations syndicales était que, s’il y avait autre chose en place que nous ignorions, si une clause dérogatoire était ajoutée, elle l’emportait sur tout le reste. Donc, au cas où il y aurait autre chose. C’était juste pour que nous sachions que s’il y avait autre chose, la clause devait supplanter tout ce qui avait été établi antérieurement. Est-ce que c’est le cas ou non, c’est à la loi de trancher la question, pas à moi. C’est donc pour cela que la clause existe[13].
+La dernière phrase figurant dans le [traduction] « Formulaire de testament » est ainsi rédigée : [traduction] « [T]oute autre somme (pensions, assurances, etc.), après impôts et dépenses, doit être partagée en parts égales entre mes bénéficiaires[14]. »
+[16] Selon l’avocat de l’appelante, ce document a eu pour effet de modifier la désignation initiale du bénéficiaire de sorte que l’appelante, son frère et ses deux sœurs soient désignés comme bénéficiaires à parts égales au titre du régime de l’AID. Cet argument est problématique parce qu’on ne peut faire abstraction du fait que, lorsque le père de l’appelante a signé le [traduction] « Formulaire de testament » le 19 avril 2001, il n’était plus un [traduction] « participant » au sens de la clause 8.1. En application des définitions prévues par le régime de l’AID[15], il a cessé de participer au régime en devenant un [traduction] « pensionné » et un [traduction] « ancien participant » lorsque, en 1997, il a commencé à recevoir sa [traduction] « prestation de pension ». Bien que la clause 8.1 ne stipule pas comment la désignation du bénéficiaire pourrait être modifiée, elle énonce expressément que le pouvoir de modification est exclusivement réservé à un [traduction] « participant ». Vu le libellé clair du régime de l’AID, il m’est également impossible de souscrire à l’argument de l’avocat de l’appelante selon lequel la Beneficiaries Designation Act (Loi sur la désignation des bénéficiaires) pourrait, d’une certaine façon, l’emporter sur les modalités du régime, de sorte que le [traduction] « Formulaire de testament » serait une modification valide de la désignation du bénéficiaire.
+[17] L’avocat de l’appelante a soutenu en outre que, même si celle‑ci était l’unique bénéficiaire au titre du régime de l’AID, elle a renoncé à ce statut par ses actions. Sans me prononcer sur la question de savoir si, en droit, l’appelante pouvait renoncer validement à son droit « par ses actions », je constate que la preuve ne soutient pas la thèse selon laquelle elle l’aurait fait. De 2001 à 2003, elle a accepté l’envoi de tous les chèques établis à son ordre. Elle les déposait ensuite couramment dans le compte de la succession, mais elle seule contrôlait ce compte : elle décidait quand et à qui les prestations de pension accumulées étaient versées et fixait le montant des versements. Je n’ai aucune raison de mettre en doute la crédibilité du témoignage de l’appelante selon lequel elle a tenté de faire en sorte que Sun Life verse les prestations de pension au moyen de quatre chèques de montants identiques, mais il reste que les efforts assez limités que l’appelante a déployés à cette fin n’ont pas porté leurs fruits : la demande qu’elle a présentée à Sun Life n’a jamais été formulée par écrit. En effet, malgré qu’elle ait discuté avec son avocat de la question, la suite qu’elle a donnée à cette discussion se limite à un entretien téléphonique avec un responsable de Sun Life dont elle a oublié le nom.
+[18] Malgré la conclusion énoncée ci‑dessus, j’éprouve de la sympathie pour l’appelante et sa famille. Bien que seule l’année d’imposition 2003 ait été visée par l’appel instruit lors de la présente audience, l’appelante avait fait l’objet de cotisations semblables concernant des prestations de pension pour les années d’imposition 2001 et 2002. À la suite de discussions qu’elle a eues avec des fonctionnaires de l’Agence du revenu du Canada, la question a été tranchée en faveur de l’appelante, mais, pour l’année 2003, le ministre a finalement décidé que la cotisation était bien fondée. Il me semble cependant que les ressources dépensées pour la contestation des cotisations établies par le ministre auraient pu être mobilisées plus utilement pour la modification de la désignation du bénéficiaire. Vu le nombre d’années pendant lesquelles l’appelante a encore droit à une prestation de pension, il serait sage qu’elle fasse un effort sérieux pour régler cette question directement auprès de Sun Life. Si cette tentative n’aboutit pas, il sera peut‑être nécessaire de déposer un recours auprès d’un tribunal de la Nouvelle‑Écosse qui a compétence pour ordonner une modification de la désignation du bénéficiaire et pour fournir à Sun Life un fondement juridique l’autorisant à verser les prestations de pension selon des modalités non conformes à la désignation valide du bénéficiaire effectuée en vertu de la clause 8.1. Comme l’a souligné fort justement l’avocate de l’intimée, la Cour canadienne de l’impôt n’a pas une telle compétence. En vertu du paragraphe 171(1) de la Loi de l’impôt sur le revenu, sa compétence se limite au pouvoir de trancher un appel :
+a) en le rejetant;
+b) en l’admettant et en :
+(i) annulant la cotisation,
+(ii) modifiant la cotisation,
+(iii) déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+[19] Dans le cadre de l’exercice de ce pouvoir, la question principale dont est saisie la Cour est de savoir si la cotisation établie par le ministre est valide. En l’espèce, l’appelante ne s’est pas déchargée du fardeau qui lui incombait de réfuter les hypothèses sur lesquelles a été fondée la cotisation établie pour l’année 2003. Je suis d’accord avec l’avocate de l’intimée pour dire que le ministre doit fixer l’impôt à payer en tenant compte des faits, non de conjectures. Ce qui ressort clairement de la preuve, c’est qu’en 2003 l’appelante a reçu à titre personnel des prestations de pension auxquelles elle avait légalement droit. Par conséquent, le montant de ces prestations doit être inclus dans le calcul de son revenu en application du sous‑alinéa 56(1)a)(i) de la Loi. Pour tous ces motifs, l’appel interjeté à l’encontre de la nouvelle cotisation établie par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu est rejeté.
+Signé à Ottawa, Canada, ce 6e jour d’octobre 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 31e jour d’août 2007.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI541
+Nº DU DOSSIER DE LA COUR : 2006‑577(IT)I
+INTITULÉ : Cindy M. Moxsom
+et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Le 6 juillet 2006
+MOTIFS DU JUGEMENT : L’honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 6 octobre 2006
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Ray Adlington
+Avocate de l’intimée :
+Me Catherine McIntyre
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Ray Adlington
+Cabinet : McInnes Cooper
+Halifax (Nouvelle‑Écosse)
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Anciennement Cindy M. Richard.
+[2] Pièce A‑2.
+[3] Pièce A‑1.
+[4] Pièce A‑3.
+[5] Pièce A‑4.
+[6] Pièce A‑2.
+[7] Pièce A‑1.
+[8] Transcription : page 88, lignes 9 à 25, et page 89, lignes 1 et 2.
+[9] Transcription : page 89, lignes 13 à 25, et page 90, ligne 1.
+[10] Pièce A‑4, clause 9.
+[11] Pièce A‑4, page 7.
+[12] Transcription : page 90, ligne 25, et page 91, lignes 1 à 3.
+[13] Transcription : page 91, lignes 10 à 21.
+[14] Pièce A‑4, page 7.
+[15] Voir [traduction] « participant », clause 1.27b); [traduction] « pensionné », clause 1.34 de la pièce A‑1.

@@ -1,0 +1,158 @@
+---
+title: "Bondfield Construction Company (1983) Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25947/index.do"
+last_modified: "2004-02-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 161"
+citation2: ""
+neutral_citation: "2004 CCI 161"
+decision_date: "2004-02-18"
+language: "fr"
+item_id: "25947"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3680
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:47:22.072000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ae1cd907a5bf664dccd572fdc2ddfd49e8e5786d01a9e14f671e2841a7eab0d3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bondfield Construction Company (1983) Limited v. The Queen
+
+- Citation: 2004 CCI 161
+- Decision date: 2004-02-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3680, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bondfield Construction Company (1983) Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-18
+Référence neutre
+2004 CCI 161
+Numéro de dossier
+2001-967(GST)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2001-967(GST)G
+ENTRE :
+BONDFIELD CONSTRUCTION COMPANY (1983) LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue par voie de conférence téléphonique à
+Ottawa (Ontario), le 9 février 2004.
+Devant : L'honorable Diane Campbell
+Comparutions :
+Avocats de l'appelante :
+Mes Timothy Danson et Robert Zigler
+Avocat de l'intimée :
+Me André LeBlanc
+____________________________________________________________________
+ORDONNANCE
+L'avocat de l'intimée ayant présenté une requête en vue d'obtenir une ordonnance lui accordant l'autorisation de modifier la réponse à l'avis modifié d'appel;
+Le recueil de jurisprudence qui a été produit ayant été lu;
+Les avocats des parties ayant été entendus;
+La requête est accueillie en vue de permettre les modifications que l'intimée se propose d'apporter aux paragraphes 19 et 20 de la réponse à l'avis modifié d'appel. À tous les autres égards, la requête est rejetée selon les motifs de jugement ci-joints.
+L'appelante aura doit à un mémoire de frais à l'égard de cette demande, et ce, quelle que soit l'issue de la cause.
+Signé à Ottawa, Canada, ce 18e jour février 2004.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI161
+Date : 20040218
+Dossier : 2001-967(GST)G
+ENTRE :
+BONDFIELD CONSTRUCTION COMPANY (1983) LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+La juge Campbell
+[1] Il s'agit d'une requête que l'intimée a présentée conformément à l'article 54 des Règles de la Cour canadienne de l'impôt (procédure générale) en vue de faire modifier la réponse à l'avis modifié d'appel. Avant l'audition de la requête, l'intimée a produit un recueil de jurisprudence. À cause d'une erreur dans les adresses, l'avocat de l'appelante n'a pas reçu ce recueil. L'audience s'est déroulée compte tenu du fait que si l'avocat croyait qu'il en résulterait un préjudice, nous traiterions le cas échéant de cette question.
+[2] Voici un bref historique de l'affaire : un avis d'appel a initialement été déposé devant la Cour le 14 mars 2001; une réponse à l'avis d'appel a été déposée le 18 mai 2001. L'avis d'appel a été modifié sur consentement; il a été déposé le 5 mars 2003. Une réponse à l'avis modifié d'appel a été déposée le 17 mars 2003. L'appel se rapporte à une nouvelle cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, L.R.C. 1985, ch. E-15, dans sa forme modifiée, pour la période allant du 1er janvier 1991 au 30 novembre 1995. L'audition de l'appel a commencé à Toronto le 22 septembre 2003; elle a duré trois jours et s'est poursuivie le 21 octobre 2003 pendant deux autres jours. Le 22 octobre 2003, l'avocate de l'intimée a fait savoir qu'elle devait s'absenter et que d'autres avocats du ministère la remplaceraient sans délai. L'audience devait reprendre pendant la semaine du 23 février 2004; en effet, deux autres témoins devaient être cités pour le compte de l'intimée et les conclusions finales devaient être entendues. Me André LeBlanc a fait savoir que l'ancienne avocate de l'intimée lui avait transmis les dossiers à la mi-novembre 2003. Le 26 janvier 2004, Me Leblanc a déposé l'avis de requête en vue de faire modifier la réponse. J'ai entendu la requête le 9 février 2004.
+[3] L'appelante exploite une entreprise générale de construction; elle construit des écoles, des hôpitaux, des immeubles gouvernementaux et d'autres immeubles commerciaux et industriels. L'une des questions qui se pose dans cet appel se rapporte à ce que l'on a appelé les [TRADUCTION] « frais de garantie d'exécution » . Ces frais étaient engagés lorsque le travail d'un sous-traitant était défectueux. L'appelante, ou des tiers embauchés par l'appelante, corrigeaient le travail défectueux et demandaient ensuite une réduction du prix exigé par ce sous-traitant à l'égard des frais engagés pour corriger la déficience. Avant l'audition de la requête, les questions litigieuses, telles qu'elles figurent dans la réponse à l'avis modifié d'appel, étaient les suivantes :
+[TRADUCTION]
+16. Il s'agit de décider si, pour la période en question, le ministre a eu raison d'établir une nouvelle cotisation à l'égard de l'appelante :
+a) pour la période allant du 1er janvier 1991 au 5 juin 1994, conformément au paragraphe 298(4) de la Loi;
+b) en vue de refuser les CTI demandés en trop à l'égard des frais de garantie d'exécution;
+c) au titre des intérêts et pénalités imposés conformément à l'article 280 de la Loi.
+[4] De plus, sous le titre [TRADUCTION] « Dispositions législatives, motifs invoqués et réparation demandée » , la réponse contenait les paragraphes suivants en ce qui concerne les crédits de taxe sur les intrants (les « CTI » ) demandés pour les frais de garantie d'exécution :
+[TRADUCTION]
+18. Il soutient respectueusement que le ministre a eu raison d'établir une nouvelle cotisation à l'égard de l'appelante pour la période en question en ce qui concerne les frais de garantie d'exécution, étant donné que l'appelante a demandé en trop des CTI d'un montant de 153 648,88 $ à l'égard des frais de garantie d'exécution, conformément aux dispositions des articles 165, 168, 169, 221, 222 et 225 de la Loi.
+19. Il soutient respectueusement que le ministre a eu raison de réduire le montant de la demande de CTI de l'appelante pour la période en question en ce qui concerne les frais de garantie d'exécution étant donné que l'appelante a remis des notes de débit à ses sous-traitants dans les cas où le travail était défectueux et qu'elle a omis de redresser le montant des CTI demandés conformément aux exigences de l'article 232 de la Loi.
+[...]
+21. Il soutient respectueusement que le ministre a eu raison d'établir une cotisation à l'égard de l'appelante pour la période en question en vertu du paragraphe 298(4) de la Loi étant donné qu'en produisant ses déclarations relatives à la TPS pendant la période en question et en demandant en trop des CTI en ce qui concerne les frais de garantie d'exécution, en effectuant un versement insuffisant au titre de la TPS sur la TVP facturée par les sous-traitants et en versant sa taxe nette un mois en retard pour la période allant du 1er janvier 1991 au 30 avril 1992, l'appelante a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire.
+[5] L'avocat de l'intimée se propose d'apporter les modifications suivantes aux paragraphes susmentionnés figurant dans la réponse à l'avis modifié d'appel :
+[TRADUCTION]
+16. Il s'agit de décider si, pour la période en question, le ministre a eu raison d'établir une nouvelle cotisation à l'égard de l'appelante :
+a) pour la période allant du 1er janvier 1991 au 5 juin 1994, conformément au paragraphe 298(4) de la Loi;
+b) en raison d'un versement insuffisant à l'égard du montant de 153 648,88 $ qui avait été perçu au titre de la taxe ou en vue de refuser les CTI demandés en trop s'élevant au même montant à l'égard des frais de garantie d'exécution;
+c) au titre des intérêts et pénalités imposés conformément à l'article 280 de la Loi.
+[...]
+18. Il soutient respectueusement que le ministre a eu raison d'établir une nouvelle cotisation à l'égard de l'appelante pour la période en question en ce qui concerne les frais de garantie d'exécution, étant donné que l'appelante a perçu un montant de 153 648,88 $ au titre de la taxe à l'égard des frais de garantie d'exécution et qu'elle n'a pas versé le montant ainsi perçu conformément aux exigences des articles 222, 225 et 228 ou, subsidiairement, étant donné que l'appelante a demandé en trop des CTI d'un montant de 153 648,88 $ à l'égard des frais de garantie d'exécution, conformément aux dispositions des articles 165, 168, 169, 221, 222 et 225 de la Loi.
+19. Il soutient respectueusement que le ministre a eu raison de réduire le montant de la demande de CTI de l'appelante pour la période en question en ce qui concerne les frais de garantie d'exécution étant donné que l'appelante a remis des notes de débit à ses sous-traitants dans les cas où le travail était défectueux et qu'elle a omis de redresser le montant des CTI demandés conformément aux exigences de l'article 232 de la Loi.
+[...]
+21. Il soutient respectueusement que le ministre a eu raison d'établir une cotisation à l'égard de l'appelante pour la période en question en vertu du paragraphe 298(4) de la Loi étant donné qu'en produisant ses déclarations relatives à la TPS pendant la période en question et en effectuant un versement insuffisant de la TPS ou en demandant en trop des CTI en ce qui concerne les frais de garantie d'exécution, en effectuant un versement insuffisant au titre de la TPS sur la TVP facturée par les sous-traitants et en versant sa taxe nette un mois en retard pour la période allant du 1er janvier 1991 au 30 avril 1992, l'appelante a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire.
+[6] L'intimée cherche également à faire modifier le paragraphe 20, qui est rédigé comme suit :
+[TRADUCTION]
+20. Il soutient respectueusement que le ministre a eu raison d'établir une cotisation à l'égard de l'appelante pour les intérêts afférents à la période allant du 1er janvier 1991 au 30 avril 1992 conformément au paragraphe 280(1) étant donné que l'appelante n'a pas versé sa taxe nette de la manière prévue en vertu des articles 228 et 245 de la Loi.
+[7] L'intimée reconnaît que le ministre n'a pas eu raison d'établir une cotisation à l'égard de l'appelante pour les intérêts afférents à la période allant du 1er janvier 1991 au 30 avril 1992. Cette modification, effectuée à la suite d'une concession de l'intimée pendant l'audition de la requête, sera autorisée et le texte initial du paragraphe 20 sera remplacé par le texte suivant :
+[TRADUCTION]
+20. Il reconnaît que soutient respectueusement que le ministre n'a pas eu raison d'établir une cotisation à l'égard de l'appelante pour les intérêts afférents à la période allant du 1er janvier 1991 au 30 avril 1992 conformément au paragraphe 280(1) étant donné que l'appelante n'a pas omis de verser sa taxe nette de la manière prévue en vertu des articles 228 et 245 de la Loi.
+[8] Le paragraphe 19 de la réponse sera également supprimé en entier; en effet, l'avocat de l'intimée a fait savoir, pendant l'audition de la requête, que le ministre ne voulait plus adopter cette position, et ce, indépendamment du résultat de la requête.
+[9] Il me reste à traiter de la demande relative aux modifications que l'on se propose d'apporter aux paragraphes 16, 18 et 21.
+[10] L'article 54 des Règles de la Cour canadienne de l'impôt (procédure générale) prévoit ce qui suit :
+Une partie peut modifier son acte de procédure, en tout temps avant la clôture des actes de procédure, et subséquemment en déposant le consentement de toutes les autres parties, ou avec l'autorisation de la Cour, et la Cour en accordant l'autorisation peut imposer les conditions qui lui paraissent appropriées.
+[11] L'avocat de l'intimée demande cette modification afin de permettre au ministre d'avancer la thèse selon laquelle le montant de 153 648,88 $ a été perçu par l'appelante au titre de la taxe et qu'il aurait donc dû être versé par l'appelante. Si la modification proposée était admise, l'intimée ferait subsidiairement valoir que les CTI qui ont été demandés en trop par l'appelante s'élèvent à ce montant. L'intimée veut essentiellement être en mesure de soutenir que cet argent représente un montant qui a été perçu par l'appelante au titre de la taxe et qu'il doit donc être versé. Ce n'est que si cet argument était rejeté que l'intimée soutiendrait alors que l'appelante a demandé en trop des CTI s'élevant à ce montant.
+[12] L'avocat de l'intimée a soutenu que la modification proposée était simplement une position subsidiaire qui a été avancée afin de permettre de trancher les questions réelles qui se posent au sujet des frais de garantie d'exécution. Selon lui, les modifications proposées clarifient la question en litige, elles ne soulèvent pas de faits additionnels, elles n'exigent pas d'autres éléments de preuve et elles ne causent pas d'injustice à l'appelante.
+[13] L'avocat de l'intimée m'a référée à un certain nombre de décisions à l'appui de la présente requête. Toutefois, la plupart de ces décisions se rapportent à des modifications demandées au stade de la communication préalable ou du moins au début de l'instance. Étant donné que la présente requête n'a pas été présentée en temps opportun, les décisions mentionnées peuvent faire l'objet d'une distinction et elles devraient faire l'objet d'une distinction.
+[14] La règle généralement reconnue en ce qui concerne l'octroi de l'autorisation d'apporter des modifications a été énoncée par la Cour d'appel fédérale dans l'arrêt La Reine c. Canderel Limited, [1994] 1 C.F. 3; 93 DTC 5357 (C.A.F.), où le juge Décary a dit ce qui suit à la page 5360 :
+[...] la règle générale est qu'une modification devrait être autorisée à tout stade de l'action aux fins de déterminer les véritables questions litigieuses entre les parties, pourvu, notamment, que cette autorisation ne cause pas d'injustice à l'autre partie que des dépens ne pourraient réparer, et qu'elle serve les intérêts de la justice [...]
+[15] Dans la décision Continental Bank Leasing Corporation et al. c. La Reine, [1993] A.C.I. no 18; 93 DTC 298, le juge en chef adjoint Bowman a dit ce qui suit, en parlant de l'expression « intérêts de la justice » , à la page 302 :
+[...] je préfère tout de même examiner la question dans une perspective plus large : les intérêts de la justice seraient-ils mieux servis si la demande de modification ou de rétractation était approuvée ou rejetée? Les critères mentionnés dans les affaires entendues par d'autres tribunaux sont évidemment utiles, mais il convient de mettre l'accent sur d'autres facteurs également, y compris le moment auquel est présentée la requête visant la modification ou la rétractation, la mesure dans laquelle les modifications proposées retarderaient l'instruction expéditive de l'affaire, la mesure dans laquelle la thèse adoptée à l'origine par une partie a amené une autre partie à suivre dans le litige une ligne de conduite qu'il serait difficile, voire impossible, de modifier, et la mesure dans laquelle les modifications demandées faciliteront l'examen par la Cour du véritable fond du différend. Il n'existe aucun facteur qui soit prédominant, ou dont la présence ou l'absence soit nécessairement déterminante. On doit accorder à chacun des facteurs le poids qui lui revient dans le contexte de l'espèce. Il s'agit, en fin de compte, de tenir compte de la simple équité, du sens commun et de l'intérêt qu'ont les tribunaux à ce que justice soit faite.
+[16] La Cour d'appel fédérale a cité ce passage en l'approuvant dans l'arrêt Canderel. Aux pages 5361 et 5362, la Cour d'appel fédérale a ajouté ce qui suit :
+Même s'il est exact que l'autorisation de faire une modification peut être recherchée à toute hauteur de la procédure, on peut dire sans risque d'erreur que plus tardive est la demande, plus difficile il sera pour le requérant de surmonter le double obstacle que représentent pour lui l'injustice causée à la partie adverse et les intérêts de la justice. [...]
+[17] Cette affaire dure depuis fort longtemps et il y a eu cinq ou six ajournements. Toutes les parties ont amplement eu le temps d'examiner sérieusement le caractère adéquat de leurs actes de procédure. Cette demande n'a pas été faite à l'étape préliminaire de l'instance. En fait, nous en sommes à la fin de l'affaire plutôt qu'au milieu. La plupart des éléments de preuve ont été soumis et l'on a presque terminé de présenter la preuve. Il est tout simplement trop tard pour permettre les modifications proposées à un moment où nous en arrivons à la fin du parcours.
+[18] L'avocat de l'intimée a soutenu que la modification ne causerait pas de préjudice à l'appelante parce que toute la preuve documentaire relative aux frais de garantie d'exécution a déjà été soumise à la Cour. Il a affirmé qu'il ne serait pas nécessaire d'entendre d'autres témoins puisque les documents sont explicites. Selon la prétention de l'intimée, la question subsidiaire proposée pourrait être tranchée compte tenu de la preuve documentaire dont dispose déjà la Cour.
+[19] Je ne crois pas qu'il soit loisible à l'intimée de faire des conjectures au sujet de l'approche adoptée par l'appelante à l'égard de cette modification et de soutenir que l'appelante aurait organisé sa cause et arrangé sa preuve de la même façon même si la modification avait été autorisée au début de l'instance. Il s'agit d'une pure conjecture de la part de l'avocat de l'intimée. Il serait fort préjudiciable pour tout appelant de permettre une modification telle que celle-ci à un moment où les interrogatoires préalables sont terminés, où les stratégies ont été planifiées en vue de l'audience et où la plupart des témoins ont été interrogés et contre-interrogés. Si la présente requête avait été présentée et accueillie au stade de la communication préalable, l'avocat de l'appelante aurait peut-être adopté une autre approche aux fins de l'audience. Nous ne le saurons jamais. Toutefois, une chose est certaine - à ce stade de l'audience, l'appelante ne peut plus envisager la possibilité de réévaluer sa stratégie et de la réorienter si les modifications proposées sont autorisées. La chose met l'appelante dans une situation fort précaire. Lorsqu'il existe le moindre signe d'injustice ou la moindre possibilité de préjudice pour le contribuable, une question comme celle qui nous occupe doit être réglée en faveur du contribuable. Lorsque j'examine la modification proposée selon « la simple équité, [le] sens commun et [...] l'intérêt qu'ont les tribunaux à ce que justice soit faite » (comme l'a dit le juge en chef adjoint Bowman dans la décision Continental Banking), il est trop tard pour autoriser la modification. À coup sûr, si la présente requête avait été présentée en temps opportun au stade de la communication préalable ou au tout début de l'audience elle-même, je serais peut-être arrivée à une conclusion différente. Il serait tout simplement erroné d'autoriser la modification proposée eu égard aux circonstances de la présente espèce.
+[20] La requête est accueillie en vue de permettre la suppression du paragraphe 19 de la réponse à l'avis modifié d'appel et d'autoriser la modification proposée au paragraphe 20. À tous les autres égards, la requête est rejetée.
+[21] L'appelante aura droit à un mémoire de frais à l'égard de cette demande, et ce, quelle que soit l'issue de la cause.
+Signé à Ottawa, Canada, ce 18e jour de février 2004.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Jacques Deschênes, traducteur

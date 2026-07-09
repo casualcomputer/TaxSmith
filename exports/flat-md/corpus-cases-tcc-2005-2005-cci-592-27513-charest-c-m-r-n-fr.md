@@ -1,0 +1,180 @@
+---
+title: "Charest c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27513/index.do"
+last_modified: "2005-09-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 592"
+citation2: ""
+neutral_citation: "2005 CCI 592"
+decision_date: "2005-09-23"
+language: "fr"
+item_id: "27513"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 0
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:29:44.021000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cd4d83bc1252f91c179790234c543d9a181dafc16dfde2420bcc12f061b93567"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Charest c. M.R.N.
+
+- Citation: 2005 CCI 592
+- Decision date: 2005-09-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 0, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Charest c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-23
+Référence neutre
+2005 CCI 592
+Numéro de dossier
+2003-3645(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-3645(EI)
+ENTRE :
+BERNARD CHAREST,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LANDY MCNICOLL,
+intervenante.
+____________________________________________________________________
+Appel entendu le 5 juillet 2005, à Rivière-du-Loup (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocate de l'appelant :
+Me Annick Bédard
+Avocat de l'intimé :
+Pour l'intervenante :
+Me Jean Lavigne
+L'intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le ministre du Revenu national est annulée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour de septembre 2005.
+« François Angers »
+Juge Angers
+Référence : 2005CCI592
+Date : 20050923
+Dossier : 2003-3645(EI)
+ENTRE :
+BERNARD CHAREST,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LANDY MCNICOLL,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit d'un appel d'une décision du ministre du Revenu national (le « ministre » ) selon laquelle l'appelant n'occupait pas un emploi assurable du 1er avril au 31 octobre 2002 alors qu'il était au service de l'intervenante, et ce, parce qu'il y avait eu entre eux un lien de dépendance au sens de l'alinéa 5(2)i) et du paragraphe 5(3) de la Loi sur l'assurance-emploi (la « Loi » ).
+[2] Il est admis que, durant la période en litige, l'appelant et l'intervenante étaient des personnes liées, étant conjoints de fait, et qu'ils se sont mariés le 28 décembre 2002. Il est également admis qu'un contrat de louage de services existait entre eux. La question en litige est donc de savoir si, durant la période en litige, il existait un lien de dépendance entre eux dans le cadre de cet emploi, rendant ainsi celui-ci non assurable au sens de la Loi.
+[3] L'intervenante est la seule propriétaire d'une entreprise qu'elle a enregistrée le 21 février 2002 sous la raison sociale La Halte d'Art. Cette entreprise se spécialise dans les travaux d'artisanat et de céramique et la restauration de meubles, et en était, à l'époque en cause, à sa première année d'exploitation.
+[4] Le ministre a été convaincu qu'il était raisonnable de conclure que l'appelant et l'intervenante n'auraient pas conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance, compte tenu des circonstances énoncées ci-après, qui ont été admises ou niées par l'appelant et l'intervenante tel qu'il est indiqué. Je reproduis ces circonstances comme elles sont présentées au paragraphe 6 de la Réponse à l'avis d'appel.
+a) l'entreprise de la payeuse se spécialise dans les travaux d'artisanat, de céramique et de restauration de meubles; [admis]
+b) l'entreprise en était à sa première année d'exploitation; [admis]
+c) l'entreprise est localisée à St-Honoré-de-Témiscouata près d'une piste cyclable; [admis]
+d) l'appelant est ébéniste, [nié]
+e) la payeuse a embauché l'appelant pour restaurer des meubles et pour faire l'entretien du terrain de camping sauvage situé près de la piste cyclable; [admis]
+f) la payeuse prétend qu'elle a embauché l'appelant dès le début d'avril, avant le début de la saison touristique, pour procéder à la construction d'un cabanon servant de point de vente alors que le cabanon a été acheté déjà construit; [nié]
+g) la payeuse faisait des céramiques, de la peinture sur meuble et sur céramique, s'occupait de la vente des pièces et de la comptabilité de son entreprise; [admis]
+h) le commerce de la payeuse était ouvert 7 jours par semaine sans heures fixes d'ouverture; [admis]
+i) l'appelant n'avait aucun horaire de travail à respecter et ses heures de travail n'étaient pas comptabilisées par la payeuse; [nié]
+j) durant la période en litige, l'appelant prétend qu'il faisait 40 heures par semaine alors que la payeuse prétend qu'il n'était payé que pour 35 heures par semaine et qu'il pouvait travailler jusqu'à 60 heures par semaine; [nié]
+k) l'appelant prétend qu'il recevait 320 $ par semaine, soit 40 heures à 8 $, alors que la payeuse prétend qu'il recevait 280 $ par semaine, soit 35 heures à 8 $ de l'heure; [nié]
+l) le 1er novembre 2002, le payeur [sic] a émis un relevé d'emploi à l'appelant indiquant comme premier jour de travail le 1er avril 2002 et comme dernier jour payé le 31 octobre 2002; [admis]
+m) le relevé indiquait 1 085 heures assurables et une rémunération assurable totale de 7 963,20 $ pour les 27 dernières semaines incluant une paie de vacances de 403,20 $ [admis]
+n) l'appelant recevait sa rémunération en argent liquide [admis] et il n'existe aucune preuve de la rémunération qui lui a été versée; [nié tel que rédigé]
+o) durant la période en litige, les revenus provenant de la vente des produits du commerce de la payeuse ont totalisés [sic] 3 673,34 $; [admis]
+p) durant la même période, la payeuse a reçu 6 498 $ de subvention de la CSST reliée à l'embauche de l'appelant; [admis]
+q) l'analyse des différents comptes de vente de la payeuse permet de conclure qu'aucun travail de rénovation de vieux meubles n'a eu lieu durant la période en litige. [nié]
+[5] À l'époque, l'intervenante venait de s'établir à St-Honoré (Québec), sur un très grand terrain où se trouvaient une maison, dont elle a fait sa résidence, et une vieille grange qu'elle a convertie en atelier aux fins de son commerce. Sa propriété est située tout près d'une piste cyclable. Elle en a donc profité pour installer sur la propriété un point d'eau potable et y aménager ce qu'elle a appelé un camping sauvage, c'est-à-dire qu'elle a installé sur son terrain quelques tables de pique-nique et offrait aux utilisateurs de la piste de passer la nuit en pleine nature.
+[6] Son plan d'affaires prévoyait l'embauche d'un employé. Ne connaissant pas les gens de cette région, elle a envisagé d'embaucher son conjoint pour l'aider dans son commerce. Comme ce dernier recevait des prestations de la Commission de la santé et de la sécurité du travail (CSST), elle s'est enquise auprès de la Commission s'il était possible d'embaucher son conjoint et s'il pouvait y avoir des conséquences. On lui aurait dit qu'il n'y avait pas de problème et qu'en plus il était possible que la Commission lui donne une aide financière puisqu'elle embauchait un prestataire. C'est ainsi qu'elle s'est vu octroyer une subvention de 6 498 $, qu'elle a reçue le 19 avril 2002. Elle devait fournir à son conjoint du travail pour au moins six mois et une restriction était imposée quant au poids qu'il pouvait lever.
+[7] Le plan de l'intervenante prévoyait l'installation d'une boutique sur sa propriété. Elle s'est donc portée acquéreur d'un cabanon d'environ 16 pieds sur 20 pieds le 18 février 2002. Ce cabanon lui a été livré en avril, après la fonte des neiges. Il n'y avait aucune finition intérieure.
+[8] L'appelant a donc été embauché le 1er avril 2002. L'intervenante voulait le payer selon un taux hebdomadaire, mais des représentants du bureau de l'assurance-emploi lui ont dit qu'il fallait que cela se fasse selon un taux horaire. Le salaire a été établi selon les moyens de l'intervenante de payer puisque c'était le début de son entreprise. L'intervenante trouvait le salaire minimum déshonorant. Elle a donc établi le salaire de l'appelant à 280 $ brut par semaine pour une semaine de 35 heures à raison de 7 jours par semaine. Il lui arrivait de travailler plus de 35 heures par semaine, tout comme il lui arrivait d'en travailler moins en raison du mauvais temps. En moyenne, l'intervenante en était convaincue, l'appelant donnait le rendement attendu, même si elle reconnaît qu'elle ne comptabilisait pas ses heures. Elle aurait agi ainsi avec un étranger a-t-elle dit. Elle lui faisait confiance et croit qu'il effectuait le nombre d'heures exigé chaque semaine.
+[9] Au début de son emploi, l'appelant devait voir à l'installation du cabanon et à sa finition intérieure. Il a creusé une tranchée pour faire le raccordement électrique et téléphonique. Il a fait la pose des fils électriques et a complété l'aménagement intérieur du cabanon devenu boutique. Le plafond, le plancher et les murs ont été faits et des tablettes et autres accessoires ont été installés. Il a aussi collaboré à la préparation et à la confection d'articles pour la boutique, auxquels l'intervenante devait mettre la dernière main. Tout cet ouvrage était effectué en vue de l'ouverture officielle de la boutique le 22 juin 2002.
+[10] L'appelant, dans son travail d'installation du cabanon, a, entre autres, coupé des arbres et fait des affiches. Il a, par la suite, travaillé à l'installation du point d'eau près de la piste cyclable et à faire les installations requises pour le camping. Par après, il voyait à l'entretien de tout cela et continuait son travail de confection et de préparation d'articles destinés à la vente et aussi de restauration de meubles antiques et de préparation d'estimations pour ce service. Il en a été ainsi jusqu'à la fin d'octobre 2002.
+[11] Pour ce qui est de la tenue de livres, il s'agit d'un travail effectué par l'intervenante à l'aide d'un logiciel. On voit, selon la documentation déposée, que l'intervenante retirait du compte en banque de la boutique la paie nette de l'appelant pour chaque semaine de travail durant la période en cause. Elle lui remettait sa paie en argent comptant tous les vendredis à midi.
+[12] Selon l'appelant, il n'est pas ébéniste mais plutôt cuisinier de son métier. Il effectue du travail d'ébénisterie parce qu'il possède un talent naturel. Avant d'être embauché par l'intervenante, l'appelant ne travaillait pas depuis 1997, année où il avait subi une intervention chirurgicale à l'épaule gauche.
+[13] Les tâches qu'il a effectuées correspondent aux descriptions fournies par l'intervenante. Il devait respecter les échéanciers établis par l'intervenante pour le retour des meubles restaurés et il lui arrivait d'être rappelé à l'ordre par l'intervenante. Il a réitéré qu'il ne pouvait pas travailler souvent plus de 35 à 40 heures par semaine du fait qu'il est diabétique. La moyenne était de 35 à 40 heures et il lui arrivait d'en faire moins dans une semaine donnée, en raison du mauvais temps, et davantage la semaine suivante pour compenser. Son horaire était aussi établi en fonction des échéanciers. Il faut reconnaître que durant la période en cause le revenu provenant des ventes d'ébénisterie n'était que de 830 $. En fait, le produit de toutes les ventes s'élevait à 3 673,34 $ pour l'année 2002.
+[14] En ce qui concerne les cas où le ministre doit déterminer si un emploi est exclu des emplois assurables en raison de l'existence d'un lien de dépendance, son rôle et celui que doit jouer la Cour ont été définis par la Cour d'appel fédérale dans l'arrêt Légaré c. Canada, [1999] A.C.F. no 878 (QL). Le juge Marceau a résumé l'approche dans les termes suivants au paragraphe 4 :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[15] La Cour d'appel fédérale a d'ailleurs réitéré sa position dans l'arrêt Pérusse c. Canada, [2000] A.C.F. no 310 (QL). Le juge Marceau, se référant au passage ci-dessus cité tiré de l'arrêt Légaré, a ajouté ce qui suit au paragraphe 15 :
+Le rôle du juge d'appel n'est donc pas simplement de se demander si le ministre était fondé de conclure comme il l'a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l'interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s'enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre, sous l'éclairage nouveau, paraît toujours « raisonnable » (le mot du législateur). La Loi prescrit au juge une certaine déférence à l'égard de l'appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux.
+[16] Les dispositions de la Loi qui excluent des emplois assurables les emplois où l'employeur et l'employé ont un lien de dépendance et celles visant la situation où il n'y aurait plus ce lien de dépendance sont rédigées comme suit :
+5. [...] Restriction
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+Personnes liées
+(3) Pour l'application de l'alinéa (2)i) :
+[...]
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[17] Il s'agit de déterminer si, compte tenu de toutes les circonstances de l'emploi, telles qu'elles sont décrites à l'alinéa 5(3)b), la détermination du ministre est raisonnable en ce sens que l'appelant et l'intervenante n'auraient pas conclu un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[18] Les circonstances retenues par le ministre sont celles décrites dans la Réponse à l'avis d'appel. Aucun représentant du ministre n'est venu témoigner. De son côté, l'appelant a nié certaines des présomptions sur lesquelles le ministre a fondé son analyse et a apporté des explications très crédibles. En fait, l'appelant et l'intervenante ont témoigné avec beaucoup de conviction et ont été très francs quant aux conditions d'emploi établies par eux.
+[19] L'appelant n'est pas ébéniste, contrairement à la croyance du ministre. Il a témoigné qu'il était doué pour travailler le bois mais qu'il s'agissait d'un talent plutôt que d'un métier. Cela, à mon avis, pourrait justifier le taux horaire de 8 $ de l'appelant, qui, il me semble, se rapproche davantage du taux horaire d'un journalier que de celui d'une personne de métier, même si le ministre, à mon avis, ne semble avoir fait aucun cas du taux horaire de l'appelant comme un facteur qu'il a considéré.
+[20] Dans sa Réponse à l'avis d'appel, le ministre a allégué à l'alinéa f) que l'intervenante avait embauché l'appelant dès le début d'avril, avant la saison touristique, pour procéder à la construction d'un cabanon devant servir de point de vente, alors que le cabanon avait été acheté déjà construit. La preuve révèle que le cabanon a été acheté en février et livré en avril chez l'intervenante. Ce qui est certain, c'est qu'il ne s'agissait que d'une coquille finie à l'extérieur mais qui devait faire l'objet d'une finition complète à l'intérieur, incluant l'installation de l'électricité. Dans sa déclaration (pièce I-3), l'intervenante dit avoir embauché l'appelant le 1er avril 2002 pour préparer des pièces en vue de la vente, pour préparer le kiosque de vente (le cabanon) et pour y installer l'électricité. Il n'a donc jamais été question que l'appelant soit embauché pour procéder à la construction d'un cabanon qui, selon l'allégation du ministre, était déjà construit. Il s'agit ici, à mon avis, d'une mauvaise conception des faits par le ministre, qui a pu l'amener à penser que l'intervenante inventait le travail fait par l'appelant et qu'il n'y en avait pas en réalité. Le témoignage de l'intervenante remet les pendules à l'heure et corrige cette fausse conception du Ministre.
+[21] Le ministre a aussi fondé sa décision sur l'allégation que l'appelant n'avait aucun horaire de travail à respecter et que ses heures de travail n'étaient pas comptabilisés par l'intervenante. La preuve a révélé que l'appelant devait travailler une moyenne de 35 heures par semaine. L'intervenante ne comptabilisait pas ses heures mais était toujours sur place et, comme elle n'avait qu'un seul employé, il lui était possible de savoir si le rendement de l'appelant était conforme à leur entente. Elle a témoigné qu'elle aurait agi de la même façon s'il s'agissait d'un tiers. Elle savait que l'appelant travaillait. Les heures de travail pouvaient varier d'une semaine à l'autre en raison du temps qu'il faisait et du fait qu'au début on y mettait plus d'heures afin d'être prêts pour l'ouverture officielle prévue pour le 22 juin. L'intervenante devait aussi s'assurer que l'appelant exécutait ses heures de travail, puisqu'il s'agissait de la création d'un emploi pour un prestataire de la CSST, ce qui était la raison d'être de l'admissibilité de l'intervenante à une subvention.
+[22] Les allégations du ministre selon lesquelles l'appelant prétendait avoir travaillé 40 heures par semaine et l'intervenante de son côté disait 35 heures ont été niées par l'intervenante et l'appelant. L'intervenante a témoigné que l'appelant n'a jamais fait 60 heures par semaine. L'appelant a confirmé ce fait en disant que son état de santé ne lui permettait pas de travailler autant d'heures dans une semaine. Il faisait plutôt 35 heures, représentant la moyenne entre des semaines de 30 heures et des semaines de 40 heures. J'accepte les explications de l'intervenante et de l'appelant. La confusion a été dissipée par leur témoignage sous serment qui semble traduire la réalité quant au nombre d'heures de travail de l'appelant chaque semaine. L'appelant se souvient d'une conversation téléphonique avec un représentant de l'intimé mais ne se souvient pas d'avoir précisé 40 heures par semaine. Il avait plutôt expliqué la moyenne de ses heures en fonction du temps qu'il faisait et de l'échéancier pour la réalisation des projets de restauration de meubles. Il reconnaît que, étant sur place, il était disponible 7 jours sur 7 mais que ses heures de travail respectaient la moyenne de 35 heures par semaine. Aucune preuve n'a été produite par l'une ou l'autre partie pour établir que le taux horaire de 8 $ était exagérément bas. Il reflète la capacité de payer de l'intervenante pendant cette première année en affaires, mais on n'a pas allégué qu'il avait été établi ou qu'il variait en fonction des revenus de l'entreprise.
+[23] La durée de l'emploi, les heures assurables et la rémunération sont admises. Même si les revenus de l'entreprise étaient inférieurs à la rémunération versée, il ne faut pas oublier le fait que l'intervenante a reçu une subvention de la CSST pour l'aider à acquitter cette dépense de salaire. Le ministre a soulevé le fait que l'intervenante payait le salaire de l'appelant en argent liquide et qu'il n'existe aucune preuve que la rémunération lui a été effectivement versée. Les états financiers maison produits en preuve montrent des retraits bancaires attribués au salaire de l'appelant pour chacune de ses semaines de travail. De plus, la franchise démontrée par le témoignage de l'intervenante et de l'appelant me convainc que celui-ci a été payé tous les vendredis midis en argent comptant, comme il le prétend.
+[24] Finalement, l'allégation du ministre voulant qu'aucun travail de réstauration de vieux meubles n'ait eu lieu durant la période en litige est non fondée puisque les états financiers maison révèlent un revenu de 830,04 $ tiré de ventes de produits d'ébénisterie, revenu qui est donc lié à la restauration de vieux meubles. Il ne faut pas oublier que l'entreprise en était à sa première année d'exploitation.
+[25] Si l'on prend en considération toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, il n'est pas raisonnable de conclure, comme l'a fait le ministre, que l'appelant et l'intervenante n'auraient pas conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance. Les circonstances de l'espèce et le crédit que j'accorde aux témoignages me permettent de conclure que l'appelant s'est acquitté du fardeau qui lui incombait de présenter une preuve pouvant me permettre de conclure que le ministre a erré dans son analyse des faits.
+[26] À mon avis, la preuve révèle que les conditions d'emploi de l'appelant étaient des conditions à peu près semblables à celles qui auraient existé s'il n'y avait pas eu de lien de dépendance entre lui et l'intervenante, de sorte qu'ils sont réputés ne pas avoir eu de lien de dépendance au sens de la Loi. L'appel est accueilli et la décision du ministre est annulée.
+Signé à Ottawa, Canada, ce 23e jour de septembre 2005.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2005CCI592
+N º DU DOSSIER DE LA COUR : 2003-3645(EI)
+INTITULÉ DE LA CAUSE : Bernard Charest c. M.R.N.
+et Landy McNicoll
+LIEU DE L'AUDIENCE : Rivière-du-Loup (Québec)
+DATE DE L'AUDIENCE : le 5 juillet 2005
+MOTIFS DE JUGEMENT PAR : l'honorable juge François Angers
+DATE DU JUGEMENT : le 23 septembre 2005
+COMPARUTIONS :
+Avocate de l'appelant :
+Me Annick Bédard
+Avocat de l'intimé :
+Pour l'intervenante :
+Me Jean Lavigne
+L'intervenante elle-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Me Annick Bédard
+Étude : Bureau d'aide juridique
+Cabano (Québec)
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

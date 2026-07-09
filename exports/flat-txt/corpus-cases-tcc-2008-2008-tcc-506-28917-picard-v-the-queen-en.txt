@@ -1,0 +1,220 @@
+Title: Picard v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28917/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-506-28917-picard-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-10-07
+
+# Picard v. The Queen
+
+- Citation: 2008 TCC 506
+- Decision date: 2008-10-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1425, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Picard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-07
+Neutral citation
+2008 TCC 506
+File numbers
+2006-1070(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1070(IT)G
+BETWEEN:
+GUY PICARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 10, 2008, at Quebec City, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Michel Lamarre
+____________________________________________________________________
+JUDGMENT
+The appeal against the reassessments made under the Income Tax Act for the 1999, 2000 and 2001 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of October 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 26th day of February 2010.
+Erich Klein, Revisor
+Citation: 2008 TCC 506
+Date: 20081007
+Docket: 2006-1070(IT)G
+BETWEEN:
+GUY PICARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant is appealing from reassessments made by the Minister of National Revenue ("the Minister") under the Income Tax Act ("the ITA"), on September 14, 2004, in respect of the Appellant's 1999, 2000 and 2001 taxation years.
+[2] By these reassessments, the Minister made the following changes to the Appellant's income tax returns:
+1999
+2000
+2001
+Previous total income
+$13,365
+$16,000
+$43,800
+Additions
+1. Fees received from Les produits Déli‑Bon Inc.
+$47,000
+$62,000
+2. Advances from Les produits Déli‑Bon Inc. , not repaid
+$75,000
+3. Advances made and then written off by Les produits Déli‑Bon Inc.
+$88,570
+4. Benefit received from Les produits Déli‑Bon Inc. in connection with the acquisition of its shares
+$213,162
+5. Benefit received from Les produits Déli‑Bon Inc.
+$110,918
+Total additions
+$47,000
+$549,650
+Ø
+Deductions
+6. 2001 business investment loss
+$5,365
+$254,736
+7. Business investment loss
+$303,900
+Revised taxable income
+$55,000
+$310,914
+Ø
+[3] I should immediately note that the Appellant cannot appeal from the reassessment stating that he does not owe any tax that was issued against him for the 2001 taxation year, because, as a result of that reassessment, his tax liability was nil.
+Background
+[4] The Appellant is an Aboriginal who lived with his family in Village-des-Hurons, which is located on an Indian reserve. The Appellant is a credit consultant. His business office is located on the Indian reserve. His business has a telephone line that is separate from the Appellant's. The business is registered with the Inspecteur général des institutions financières.
+[5] In January 1996, François Gravil, who had been a nutrition consultant for roughly ten years, was hired by Les produits Déli‑Bon Inc. ("Déli-Bon"), a company which produced and distributed fruit salads and whose sole shareholder was the Unimark Group Inc. ("Unimark"), a Texas company. In the summer of 1999, Mr. Gravil, Déli-Bon's principal, learned that Unimark was experiencing major financial problems and was considering divesting itself of Déli-Bon, among other things. This is when the idea of acquiring Déli-Bon's shares took root in Mr. Gravil's mind. Mr. Gravil was very familiar with Déli-Bon's operations, but his knowledge with respect to the financing of such an acquisition was limited. Thus, before embarking upon the acquisition of Déli-Bon's shares, Mr. Gravil thought it would be useful to find a partner who was knowledgeable about financing. He therefore contacted the Appellant, a credit consultant whom he had known for about a year, in 1999. The discussions between the two men led to the partnership that Mr. Gravil sought, and on October 11, 1999, the two of them, as equal partners, bought all of Déli-Bon's shares for US$1,423,932. The purchase contract (Exhibit I‑4) specifies that François Gravil and Guy Picard were acting "in trust for the company to be owned and operated by François Gravil and Guy Picard." It is worth noting here that the shares were never registered under the name of this future company. Section 1 of the purchase agreement sets out the terms and conditions of the sale:
+Sale and Purchase of Stock. Seller hereby agrees to sell, and Purchaser hereby agrees to purchase, the Deli‑Bon Shares for $1,423,932 payable as follows:
+(a) by delivering $320,000 (U.S.) in immediately available funds on the closing date (as set forth in Section 4 of this Agreement);
+(b) by executing and delivering a 30 day non‑interest bearing promissory note in the original principal amount of $400,000 (U.S.), in substantially the same form as Exhibit B hereto (the "30 Day Note"). The note shall be secured by all the Deli‑Bon Shares in accordance with the terms of two pledge agreements in substantially the same form as Exhibit C hereto (the "Short‑term Pledge Agreement") and Exhibit F hereto (the "Long‑term Pledge Agreement");
+(c) by executing and delivering a 60 day non‑interest bearing promissory note in the original principal amount of $400,000 (U.S.), in substantially the same form as Exhibit D hereto (the "60 Day Note"). The note shall be secured by all the Deli‑Bon Shares in accordance with the terms of two pledge agreements in substantially the same form as the Short‑term Pledge Agreement and the Long‑term Pledge Agreement;
+(d) by executing and delivering a five year promissory note in the original principal amount of $303,932 (U.S.). The note shall bear interest at 8.75% per annum, with interest and principal payable in monthly installments of $6,272 and shall be in substantially the same form as Exhibit E hereto (the "5 Year Note"). The note shall be secured by the Deli‑Bon Shares. The note shall be secured by 51% of the outstanding Deli‑Bon Shares in accordance with the terms of the Long‑term Pledge Agreement.
+[6] The two men divided the responsibilities within Déli-Bon as follows:
+(1) As president, François Gravil was to be responsible for the operation of Déli-Bon, including sales and supplier relations.
+(2) As CEO, the Appellant was to be responsible for the financing of the business, and for accounts payable.
+The Minister's assumptions of fact
+[7] In making and confirming the reassessments dated September 14, 2004, the Minister relied on the same facts, namely:
+(a) On October 11, 1999, the Appellant and François Gravil each purchased 50% of the shares of Les produits Déli‑Bon Inc. ("Déli‑Bon") for US$1,423,932 (admitted). It should immediately be noted that the Appellant acknowledged that the purchased shares were always held by him, and were never registered under the name of any company that was to be incorporated in the future. Indeed, the Appellant acknowledged that the purchase transaction was never ratified by any company whatsoever.
+(b) On June 14, 2000, Mr. Gravil sold his shares in Déli-Bon to the Appellant for $75,000, and the Appellant also assumed liability for the amounts still owed upon the acquisition of the said shares. (admitted)
+(c) On October 12, 2001, Déli-Bon went bankrupt. (admitted)
+Fees received from Déli-Bon
+(d) Déli-Bon's fiscal year began on October 3 and ended on October 2. (admitted)
+(e) Déli-Bon operated a business specializing in food. (admitted)
+(f) The Appellant was Déli-Bon's secretary and as such was responsible for the general management of the business. (admitted)
+(g) At all relevant times, Déli-Bon's place of business was 132 Giroux Street, Loretteville, Quebec. (admitted)
+(h) Déli-Bon was located outside an Indian reserve and its activities were carried on outside the reserve. (admitted)
+(i) In the course of the 1999 and 2000 taxation years, the Appellant received from Déli-Bon the amounts of $47,000 and $62,000. Those amounts were called fees. (admitted)
+(j) The Appellant did not earn those amounts through work on the Village-des-Hurons Indian Reserve. (denied)
+(k) If the Appellant earned these amounts through work, that work was done at Déli-Bon's place of business, which was located outside the reserve. (denied)
+(l) The Appellant did not report these amounts in his income tax returns for the 1999 and 2000 taxation years. (admitted)
+Benefit from Déli-Bon in relation to the acquisition of the shares
+(m) On October 13 and October 21, 1999, payments of US$320,000 and US$380,000 for the acquisition of Déli-Bon's shares were made from Déli-Bon's funds and entered in its books as advances to shareholders. (admitted)
+(n) Of the amounts lent to the Appellant and Mr. Gravil, Déli-Bon, by means of accounting entries in its general ledger during its fiscal year ended October 2, 2000, transferred $426,324 to "fee expenses accrued" and $221,836 to "consulting fees", and reduced the "owed by shareholders" account by the same amounts, even though the shareholders had rendered no services. I would immediately emphasize that the Appellant admitted this allegation from the outset, with the exception of the underlined part. Indeed, the Appellant initially claimed that he had rendered services worth $213,162. In support of his assertion that services were rendered, the Appellant tendered Exhibit A‑3, a $213,162 invoice for fees that he had sent to Déli-Bon. I would immediately note that, in his testimony,[1] the Appellant ultimately admitted that he had rendered no services to Déli-Bon. I also note from the invoice that the $213,162 in fees was related to services supposedly rendered in connection with the purchase of Déli‑Bon's shares by the Appellant and Mr. Gravil. I note as well that the invoice is dated September 27, 1999, which is before the Déli‑Bon shares were acquired.
+(o) The portions of these amounts transferred by Déli-Bon that the Appellant owed Déli-Bon were $213,162 and $110,918, that is to say, half the amount loaned. (admitted)
+(p) Thus, during the 2000 taxation year, Déli-Bon paid personal expenses of the Appellant's, specifically $213,162 and $110,918 for the purchase of Déli-Bon shares by the Appellant. (denied)
+Advances not repaid
+(q) According to Déli-Bon's financial statements, as at October 2, 2000, Déli-Bon had advanced a net total of $75,000 to the Appellant. (denied)
+(r) There were no repayment terms for the loans made by Déli-Bon to the Appellant. (denied)
+(s) As at October 2, 2001, the Appellant had not repaid Déli-Bon the $75,000 loan. (denied)
+I stress that while the Appellant initially denied these three allegations concerning the $75,000 in advances that were not repaid, he adduced no evidence to rebut them. I note that Déli-Bon's financial statements as at October 2, 2000 (Exhibit I‑8) refer to a $75,000 shareholder advance receivable. I would also point out that the Appellant was the sole shareholder of Déli-Bon as at October 2, 2000.
+Advances made and then written off
+(t) According to Déli-Bon's financial statements as at October 2, 2000, Déli‑Bon claimed a $225,000 loss on a bad debt. (denied)
+(u) This loss was on advances that had been made to the Appellant and Mr. Gravil during the 1999 and 2000 taxation years. (denied)
+(v) $136,430 of the $225,000 loss consisted of advances made by Déli-Bon to Mr. Gravil in the course of the 1999 and 2000 taxation years. (denied)
+(w) In the course of the 2000 taxation year, Déli-Bon paid $88,570 worth of the Appellant's personal expenses. This amount consists of the $225,000 written off by Déli-Bon, less the $136,430 in advances made by Déli-Bon to Mr. Gravil. (denied).
+Although the Appellant initially denied these four allegations in relation to advances made and then written off, I emphasize that he adduced no evidence to show that the allegations were false, in whole or in part.
+[8] The first issue for determination is whether the Minister was justified in adding $47,000 to the Appellant's reported income for the 1999 taxation year, and $62,000 to his reported income for the 2000 taxation year, as unreported income. I would immediately note that the Appellant argued that the $47,000 and $62,000 in fees that he received from Déli-Bon were personal property situated on a reserve within the meaning of paragraph 87(1)(b) of the Indian Act, and that the income in question was therefore exempt under paragraph 81(1)(a) of the ITA.
+[9] The second issue for determination is whether the Minister was justified in adding to the income reported by the Appellant for his 2000 taxation year $213,162, $110,918 and $88,570 as shareholder benefits, in accordance with subsection 15(1) of the ITA. The Appellant's position in this regard is also that this income was personal property situated on a reserve within the meaning of paragraph 87(1)(b) of the Indian Act, and was therefore exempt under paragraph 81(1)(a) of the ITA.
+[10] The third issue for determination is whether the Minister was justified in adding $75,000 to the Appellant's income for his 2000 taxation year as advances to a shareholder that were not repaid, in accordance with subsection 15(2) of the ITA. Once again, the Appellant submits that this income of $75,000 was personal property situated on a reserve within the meaning of paragraph 87(1)(b) of the Indian Act, and was therefore exempt under paragraph 81(1)(a) of the ITA.
+Analysis and determination
+The tax exemption under section 87 of the Indian Act
+[11] In order to decide whether the Appellant's consulting income and the amounts that the Minister seeks to add to the Appellant's reported income under section 15 of the ITA are exempt, the relevant provision is paragraph 81(1)(a) of the ITA, which states:
+81. (1) Amounts not included in income -- There shall not be included in computing the income of a taxpayer for a taxation year,
+(a) Statutory exemptions -- an amount that is declared to be exempt from income tax by any other enactment of Parliament, other than an amount received or receivable by an individual that is exempt by virtue of a provision contained in a tax convention or agreement with another country that has the force of law in Canada;
+[Emphasis added.]
+[12] In this instance, the relevant provision of another enactment is section 87 of the Indian Act, which states:
+87. (1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83, the following property is exempt from taxation, namely,
+(a) the interest of an Indian or a band in reserve lands or surrendered lands; and
+(b) the personal property of an Indian or a band situated on a reserve.
+(2) No Indian or band is subject to taxation in respect of the ownership, occupation, possession or use of any property mentioned in paragraph (1)(a) or (b) or is otherwise subject to taxation in respect of any such property.
+(3) No succession duty, inheritance tax or estate duty is payable on the death of any Indian in respect of any property mentioned in paragraphs (1)(a) or (b) or the succession thereto if the property passes to an Indian, nor shall any such property be taken into account in determining the duty payable under the Dominion Succession Duty Act, chapter 89 of the Revised Statutes of Canada, 1952, or the tax payable under the Estate Tax Act, chapter E-9 of the Revised Statutes of Canada, 1970, on or in respect of other property passing to an Indian.
+[Emphasis added.]
+[13] Since the decision of the Supreme Court of Canada in Nowegijick v. The Queen, [1983] 1 S.C.R. 29, income earned by an Aboriginal can be considered personal property of an Indian for the purposes of section 87 of the Indian Act. It remains to be determined whether the income in issue here was "situated on a reserve" within the meaning of the Indian Act. The key decision with respect to that question is another decision of the Supreme Court of Canada: Williams v. Canada, [1992] 1 S.C.R. 877. There, the Supreme Court explained the approach that the courts must take in determining the situs of an Indian's property. In particular, Gonthier J. relied on the detailed analysis done by La Forest J. in Mitchell v. Peguis Indian Band, [1990] 2 S.C.R. 85, where, as Gonthier J. remarked in Williams, at page 885, La Forest J. defined the purpose of sections 87 and 89 of the Indian Act:
+. . . the purpose of these sections was to preserve the entitlements of Indians to their reserve lands and to ensure that the use of their property on their reserve lands was not eroded by the ability of governments to tax, or creditors to seize. The corollary of this conclusion was that the purpose of the sections was not to confer a general economic benefit upon the Indians (at pp. 130‑31) . . .
+[Emphasis added.]
+[14] Gonthier J. added in Williams, at page 887:
+Therefore, under the Indian Act, an Indian has a choice with regard to his personal property. The Indian may situate this property on the reserve, in which case it is within the protected area and free from seizure and taxation, or the Indian may situate this property off the reserve, in which case it is outside the protected area, and more fully available for ordinary commercial purposes in society. Whether the Indian wishes to remain within the protected reserve system or integrate more fully into the larger commercial world is a choice left to the Indian.
+The purpose of the situs test in s. 87 is to determine whether the Indian holds the property in question as part of the entitlement of an Indian qua Indian on the reserve. Where it is necessary to decide amongst various methods of fixing the location of the relevant property, such a method must be selected having regard to this purpose.
+[Emphasis added.]
+[15] At pages 890-91, Gonthier J. came to the following conclusion with respect to the method that must be applied in determining the situs of unemployment insurance benefits:
+In resolving this question, it is readily apparent that to simply adopt general conflicts principles in the present context would be entirely out of keeping with the scheme and purposes of the Indian Act and Income Tax Act. The purposes of the conflict of laws have little or nothing in common with the purposes underlying the Indian Act. It is simply not apparent how the place where a debt may normally be enforced has any relevance to the question whether to tax the receipt of the payment of that debt would amount to the erosion of the entitlements of an Indian qua Indian on a reserve. The test for situs under the Indian Act must be constructed according to its purposes, not the purposes of the conflict of laws. Therefore, the position that the residence of the debtor exclusively determines the situs of benefits such as those paid in this case must be closely reexamined in light of the purposes of the Indian Act. It may be that the residence of the debtor remains an important factor, or even the exclusive one. However, this conclusion cannot be directly drawn from an analysis of how the conflict of laws deals with such an issue.
+[Emphasis added.]
+[16] Lastly, at pages 892-93, Gonthier J. set out the following approach:
+. . . The first step is to identify the various connecting factors which are potentially relevant. These factors should then be analyzed to determine what weight they should be given in identifying the location of the property, in light of three considerations: (1) the purpose of the exemption under the Indian Act; (2) the type of property in question; and (3) the nature of the taxation of that property. The question with regard to each connecting factor is therefore what weight should be given that factor in answering the question whether to tax that form of property in that manner would amount to the erosion of the entitlement of the Indian qua Indian on a reserve.
+[Emphasis added.]
+[17] It should also be noted that the Federal Court of Appeal has had several occasions to analyze the situs of income from a business, notably in Southwind v. Canada, A-760-95, January 14, 1998, [1998] F.C.J. No. 15 (QL), 98 DTC 6084, and Bell v. Canada, A-527-98, May 18, 2000, [2000] F.C.J. No. 680 (QL). In Southwind, counsel for the Crown suggested the following factors to consider in deciding whether a business’s income is situated on a reserve: (l) the location of the business activities, (2) the location of the customers (debtors) of the business, (3) where decisions affecting the business are made, (4) the type of business and the nature of the work, (5) the place where the payment is made, (6) the degree to which the business is in the commercial mainstream, (7) the location of a fixed place of business and the location of the books and records, and (8) the residence of the owner of the business.
+[18] At paragraph 14 of that decision, Linden J.A. expressed the following opinion:
+14 According to the Supreme Court in Mitchell, where an Indian enters into the "commercial mainstream", he must do so on the same terms as other Canadians with whom he competes. Although the precise meaning of this phrase is far from clear, it is clear that it seeks to differentiate those Native business activities that deal with people mainly off the Reserve, not on it. It seeks to isolate those business activities that benefit the individual Native rather than his community as a whole, recognizing, of course, as Mr. Nadjiwan says, that a person benefits his or her community by earning a living for his family.
+[Emphasis added.]
+[19] In my opinion, the factors in Southwind are very relevant in determining whether the Appellant's consulting income of $47,000 for the 1999 taxation year and $62,000 for the 2000 taxation year was exempt under paragraph 81(1)(a) of the ITA. However, I will individually analyze only the following factors because there is no evidence with respect to the other factors:
+(i) the location of the business activities; and
+(ii) the location of the customers of the business.
+The location of the business activities
+[20] The Appellant had an office on the reserve and a telephone line that he used solely for his consulting business.
+[21] There is no doubt that the Appellant had to do some of his consulting on the Indian reserve. Indeed, he had an office on the reserve, and a separate telephone line. I would note, however, that there was nothing at all in the Appellant's testimony about any activities other than activities related to services rendered to Déli-Bon that were carried on by his business during the relevant period. If the "location of business activities" factor were to be strictly applied, the business income could, quite clearly, have been situated on the reserve. However, two remarks must be made here. First of all, this factor is not determinative, because its importance must be weighed having regard to the purpose of the Indian Act, that is, that we must determine whether the Aboriginal holds the property in question by virtue of his entitlements qua Indian on a reserve. Secondly, there is little evidence showing that the office in question was either permanent or of any importance during the relevant period.
+The location of the customers
+[22] The evidence in the case at bar shows that Déli-Bon, the only customer served by the Appellant during the relevant period, was located outside the reserve.
+Type of business and nature of the work
+[23] The evidence[2] discloses that the Appellant had an office at Déli-Bon's headquarters and that he worked there every business day for at least eight hours. The evidence also discloses that he held the position of CEO and that, by virtue of that position, he was specifically responsible for the financing of the company, for its accounts payable and for supplier relations. Lastly, the evidence discloses that the amounts of $47,000 and $62,000 were paid by Déli-Bon to the Appellant for services that he rendered to Déli-Bon.
+[24] The fact that Déli-Bon was located outside the reserve is important in the case at bar because Déli-Bon was the Appellant's only customer and debtor during the relevant period. Moreover, all the services provided by the Appellant were provided outside the reserve, and that, too, is an important element in the instant case. It seems to me that, in the case at bar, these two elements are more important than the fact that the Appellant had a place of business on the reserve during the relevant period. For these reasons, I find that the Appellant held no property qua Indian on the reserve, and that his consulting income was subject to the ITA.
+[25] With respect to the amounts that the Minister seeks to add, under section 15 of the ITA, to the income reported by the Appellant, the first step is to determine the nature of that income. It should be noted at the outset that section 15 is in Subdivision b of Division B of Part I of the ITA, which deals with income from property or a business of a taxpayer. In addition, the purpose of section 15 of the ITA is to ensure that a shareholder pays tax on any disguised distribution of the wealth accumulated by a corporation of which he or she is a shareholder. In a sense, the income on which a shareholder must pay tax under section 15 of the ITA could be characterized as income from property, or passive income from a corporation. Being passive, the income is not earned through work done by the taxpayer as an individual. Thus, a great deal of importance must be attached to the manner in which this passive income (distributed to the Appellant as a loan) was produced. In the case at bar, the passive income that was distributed indirectly to the Appellant was generated by a corporation whose plant and head office were situated outside the reserve, and whose customers were exclusively outside the reserve. The corporation had no other tie to the reserve than the fact that its shareholders and directors lived on an Indian reserve, a fact that is not, in my opinion, sufficient to allow one to conclude that the income is like personal property situated on a reserve and therefore tax-exempt.
+[26] For these reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 7th day of October 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 26th day of February 2010.
+Erich Klein, Revisor
+CITATION: 2008 TCC 506
+COURT FILE NO.: 2006-1070(IT)G
+STYLE OF CAUSE: GUY PICARD v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Quebec City, Quebec
+DATE OF HEARING: June 10, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: October 7, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Michel Lamarre
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See pages 36, 42 and 53 of the transcript.
+[2] See pages 210-211 of the transcript.

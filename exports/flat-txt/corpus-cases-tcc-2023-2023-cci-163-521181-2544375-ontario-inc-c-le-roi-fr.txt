@@ -1,0 +1,112 @@
+Title: 2544375 Ontario Inc. c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521181/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-163-521181-2544375-ontario-inc-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-12-06
+
+# 2544375 Ontario Inc. c. Le Roi
+
+- Citation: 2023 CCI 163
+- Decision date: 2023-12-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5673, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2544375 Ontario Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-12-06
+Référence neutre
+2023 CCI 163
+Numéro de dossier
+2021-1160(GST)APP
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2021-1160(GST)APP
+ENTRE :
+2544375 ONTARIO INC.,
+requérante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 9 novembre 2023, à Toronto (Ontario)
+Devant : l’honorable juge Robert J. Hogan
+Comparutions :
+Représentante de la requérante :
+Ardell Luo
+Avocats de l’intimé :
+Me Jacky Chiu
+Me Darren Prevost
+JUGEMENT
+La demande de prolongation du délai pour opposition déposée au titre de la Loi sur la taxe d’accise est rejetée, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2023.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2023 CCI 163
+Date : 20231206
+Dossier : 2021-1160(GST)APP
+ENTRE :
+2544375 ONTARIO INC.,
+requérante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Juge Hogan
+[1] La requérante, 2544375 Ontario Inc. (la « requérante »), a présenté une demande de prolongation du délai pour signifier un avis d’opposition (l’« opposition ») au ministre du Revenu national (le « ministre ») relativement à un avis de nouvelle cotisation (la « nouvelle cotisation »), émis par le ministre le 12 juillet 2019 et concernant la TPS/TVH pour la période de déclaration allant du 1er octobre 2017 au 30 septembre 2018 (la « période visée »). La requérante a fait l’objet d’une cotisation de TPS/TVH d’un montant de 46 108,05 $. La demande de crédits de taxe sur les intrants (« CTI ») de la requérante a été réduite de 14 872,30 $ à zéro.
+[2] L’intimé s’oppose à la demande au motif que :
+la requérante n’a pas déposé d’avis d’opposition dans le délai de quatre-vingt-dix jours prescrit pour ce faire;
+la date limite pour demander une prolongation du délai pour signifier un avis d’opposition au ministre relativement à la nouvelle cotisation était le 31 décembre 2020;
+la requérante n’a pas présenté de demande de prolongation du délai avant ou à la date susmentionnée, tel qu’exigé par l’alinéa 303(7)a) de la Loi sur la taxe d’accise (L.R.C., 1985, ch. E‑15) (la « LTA »);
+la demande de la requérante a également été présentée devant notre Cour tardivement.
+[3] Comme c’est souvent le cas dans ce type d’affaires, l’intimé a déposé des affidavits d’agents des litiges de l’Agence du revenu du Canada (l’« ARC ») concernant des informations obtenues à partir d’un examen des dossiers de l’ARC liés à l’espèce.
+[4] Dans leurs affidavits, les agents des litiges déclarent qu’après avoir examiné les dossiers du contribuable, ils n’ont pu relever aucune preuve que la requérante avait déposé une demande de prolongation de délai avant le ou le 31 décembre 2020.
+[5] La requérante reconnaît avoir déposé sa demande de prolongation de délai auprès de l’ARC après le 31 décembre 2020, qui était la date limite pour le faire.
+[6] L’intimé souligne que la demande doit être rejetée étant donné qu’elle a également été déposée en retard devant notre Cour. L’article 304 de la LTA prévoit qu’une demande de prolongation du délai pour le dépôt d’un avis d’opposition ne peut être introduite après l’expiration d’un délai de 30 jours suivant la date à laquelle le ministre a rejeté la demande. La preuve montre que le ministre a rejeté la demande de prolongation de délai de la requérante en date du 16 février 2021. La date limite pour demander une prolongation de délai à la Cour était le 18 mars 2021. Les preuves montrent que la demande a été déposée devant la Cour le 13 mai 2021.
+[7] La représentante de la requérante, madame Ardell Luo (la « représentante »), a témoigné au nom celle-ci. En substance, le témoignage de la représentante indique que la requérante n’a pas déposé d’avis d’opposition dans le délai de 90 jours prescrit en raison d’erreurs commises par l’ancien directeur et comptable de la requérante. La représentante a reconnu que lorsqu’elle a repris l’affaire en tant que nouvelle comptable de la requérante, elle avait connaissance du fait que le délai de 90 jours pour déposer un avis d’opposition avait expiré. La preuve montre que la représentante a produit une lettre destinée à l’ARC le 11 février 2020, dans laquelle se trouvaient une description des activités commerciales de la requérante et une liste des factures exigées pour justifier les demandes de CTI et de remboursement de la TPS/TVH de la requérante. À cette époque, le délai maximal pour introduire une demande de prolongation de délai auprès du ministre n’avait pas encore expiré.
+[8] La représentante a déclaré avoir tenté à plusieurs reprises d’obtenir des informations de la part de l’ARC sur la procédure qu’elle devrait suivre pour agir au nom de sa cliente. Selon la représentante, elle n’a pas obtenu les informations demandées en raison d’un manque de personnel à l’ARC dû aux restrictions sanitaires liées à la COVID-19. Il ne s’agit pas d’une excuse valable. La représentante est une comptable agréée qui est prête à accepter des mandats de litiges fiscaux. Dans pareille situation, un professionnel ne peut pas compter sur l’ARC pour lui fournir des informations sur la marche à suivre lorsqu’un délai n’est pas respecté. Il existe de nombreux services de recherche fiscale en ligne qui fournissent des informations détaillées à cet égard. La représentante a eu suffisamment de temps pour se renseigner auprès de ces sources et pour déposer une demande de prolongation de délai avant que le délai maximal pour le faire ne soit expiré.
+[9] Il est bien établi que les délais susmentionnés doivent être respectés. Je n’ai aucun pouvoir discrétionnaire me permettant d’accueillir une demande introduite après le délai prescrit.
+[10] Pour toutes ces raisons, la demande est rejetée.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2023.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE :
+2023 CCI 163
+No DU DOSSIER DE LA COUR :
+2021-1160(GST)APP
+INTITULÉ DE LA CAUSE :
+2544375 Ontario Inc. c. Sa Majesté le Roi
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+le 9 novembre 2023
+MOTIFS DU JUGEMENT PAR :
+l’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+le 6 décembre 2023
+COMPARUTIONS :
+Représentante de la requérante :
+Ardell Luo
+Avocats de l’intimé :
+Me Jacky Chiu
+Me Darren Prevost
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+Blank / En Blanc
+Cabinet :
+Blank / En Blanc
+Pour l’intimé :
+Me Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,251 @@
+Title: Korki v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29898/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-384-29898-korki-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-07-15
+
+# Korki v. The Queen
+
+- Citation: 2010 TCC 384
+- Decision date: 2010-07-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6391, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Korki v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-15
+Neutral citation
+2010 TCC 384
+File numbers
+2008-74(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-74(IT)G
+BETWEEN:
+SAEED KORKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 11 and 12, 2010 at Victoria, British Columbia and on April 12, 2010, at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+D. Laurence Armstrong
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessment made under the Income Tax Act for the 2002 and 2003 taxation years are dismissed, with costs in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 15th day of July 2010.
+“L.M. Little”
+Little J.
+Citation: 2010 TCC 384
+Date: July 15, 2010
+Docket: 2008-74(IT)G
+BETWEEN:
+SAEED KORKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. Facts
+[1] The Appellant resides at 3275 Campion Road in Saanichton, Vancouver Island, British Columbia.
+[2] The Appellant and his spouse were born in Iran. They immigrated to Canada with their two children in 1993.
+[3] The Appellant testified that he was the Managing Director of the Borujerd Textile Company in Iran until June, 1997.
+[4] When the Appellant filed his Canadian income tax returns for the 2002 and 2003 taxation years, he reported the following income:
+Taxation Year
+Net Rental Income
+Net Income
+2002
+$20,000
+$19,100
+2003
+$20,000
+$22,312
+[5] The Appellant’s spouse reported the following income in her Canadian income tax returns:
+Taxation Year
+Net Income
+2002
+$ 0
+2003
+$2,170
+[6] After the income tax returns for the Appellant and his spouse were filed, officials of the Canada Revenue Agency (the "CRA") carried out a Net Worth Analysis of the taxpayers.
+[7] On April 24, 2006, the Minister of National Revenue (the “Minister”) reassessed the Appellant’s 2002 and 2003 taxation years so as to include unreported income of $805,239 and $2,564,980 respectively.
+[8] On May 8, 2006, the Appellant filed Notices of Objection to the Reassessments.
+[9] After completing the Net Worth Analysis and reviewing the Notices of Objection, officials of the CRA concluded that the Appellant earned and failed to report the following income:
+Taxation Year
+Income
+2002
+$287,340
+2003
+$177,380
+(Note: Pension income of $2400 was also included for each year.)
+[10] Notices of Reassessment were issued by the Minister on March 12, 2007 to reflect the income shown in paragraph [9] above.
+B. Issues
+[11] The issues are:
+(a) did the Appellant earn and fail to report income of $287,340 and $177,380 in the 2002 and 2003 taxation years; and
+(b) was the Appellant liable for gross negligence penalties for failing to report as income the $287,340 and $177,380.
+C. Analysis and Decision
+[12] Before dealing with the issues as outlined above, I want to deal with some preliminary points that were raised during the hearing.
+[13] In his argument, counsel for the Appellant objected to the use of the net worth approach in preparing the original Reassessments that were issued against the Appellant.
+[14] Mr. Michael Goulet, an auditor employed by the CRA, testified as a witness for the Respondent.
+[15] Mr. Goulet said that, in his opinion, there was a concern with the revenue that was reported versus the Appellant’s lifestyle. The following exchange occurred during Examination-in-Chief:
+Q. And what do you mean by that?
+A. For example, the taxpayer had a home in one of the more wealthier areas of town and his income was substantially below the average income for that area.
+Q. Okay, and do you remember what his income was for the two years of the audit?
+A. I believe it was around $20,000.
+(Transcript, page 256, lines 5-13)
+[16] Mr. Goulet also testified that he required more time to gather information on the audit (Transcript, page 271, lines 10-11). Mr. Goulet said:
+… And time was running out for statute barred dates on the audit.
+(Transcript, page 271, lines 13-14)
+[17] Mr. Goulet said that he normally requested a waiver from a taxpayer and said:
+A. I believe Mr. Korki’s lawyer at the time said that he wouldn’t be signing a waiver.
+Q. Okay, and so based on that, what did you do?
+A. Well, I had no choice but to close the audit with the information that I had. …
+(Transcript, page 272, lines 1-6)
+[18] I also wish to note that section 152(7) of the Income Tax Act (the “Act”) permits the Minister to issue arbitrary assessments using any method that is appropriate in the circumstances.
+[19] In my opinion, the Minister and his officials were completely justified in issuing the original Reassessments based upon a Net Worth Analysis of the Appellant.
+[20] Counsel for the Appellant also suggested that the Net Worth Analysis was cancelled by the new Reassessments.
+[21] Counsel for the Respondent also called Cecilia Jenkins as a witness. Ms. Jenkins is an Appeals Officer in the Victoria District Office of the CRA.
+[22] The following exchange occurred during cross-examination:
+Q. (Mr. Armstrong):
+Okay. And you rejected the net worth assessment, the net worth basis, because, as you say in your analysis down below, that the discrepancies on the net worth don't add up, and you rejected them in favour of those specific reassessments.
+(Transcript, page 386, lines 21-25)
+A. I didn't reject the net worth.
+(Transcript, page 387, line 1)
+[23] In Examination-in-Chief, counsel for the Appellant asked the following question of Ms. Jenkins:
+Q. (Mr. Armstrong):
+… If you could just testify as to what, how you viewed the new information that you received?
+A. As a result of the new information received I concluded that the taxpayer had numerous foreign assets that were not previously disclosed, either to the auditor or to the Appeals area. …
+(Transcript, page 367, lines 18-24)
+[24] In my opinion, Ms. Jenkins followed the appropriate procedure authorized by the Act by issuing new Reassessments based upon the new information received by the CRA.
+[25] There was also evidence to the effect that the Appellant’s advisor had requested new Reassessments to reduce the demands made upon the Appellant by Collection officials of the CRA. In other words, the new Reassessments would significantly reduce the tax assessed against the Appellant by the original Reassessments.
+[26] In my opinion, there is no basis for counsel for the Appellant to complain about the procedures followed by officials of the Appeals Section in issuing the new Reassessments. The new Reassessments were issued pursuant to the provisions of the Act.
+[27] I will now deal with the issues under appeal.
+[28] After reviewing the evidence, I have concluded that there is a great deal of inconsistency and contradiction in the testimony. I cite the following:
+(a) The Appellant was an immigrant who came to Canada in 1993 under the Investor Immigrant program. He purchased a condominium in Collingwood, Ontario for the sum of $331,000. (The condominium was sold in 2004.)
+(b) The Appellant said that he does not remember what he declared as his net worth to Canada Customs (Transcript, page 107, line 6).
+(c) According to the testimony of Mr. Goulet, the Appellant told him that he brought “Money, approximately greater than a million dollars, maybe approximately two million.”
+(d) The Appellant also said that the money came through the black market (Transcript, page 262, lines 7-12). (Note: The Appellant said on several occasions during the testimony that all money located at Union Bank of Switzerland (“UBS”) in Switzerland was transferred from Iran to Switzerland via the black market.)
+(e) When Mr. Goulet interviewed the Appellant, Mr. Goulet said that he asked the Appellant if he had any offshore assets or liabilities. Mr. Goulet said that the Appellant’s response was “no” (Transcript, page 264, lines 8‑10).
+(f) Mr. Goulet said that he also asked the following question:
+… “Do you have a trust offshore?” Mr. Korki’s response would have been no. …
+(Transcript, page 265, lines 6-7)
+[29] At page 265 of the transcript, Mr. Goulet said that he asked the Appellant the following question:
+A. … "Do you have any offshore banking, do you have a bank account somewhere else?" Mr. Korki's initial response was no, …
+(Transcript, page 265, lines 16-18)
+[30] Mr. Goulet also said in Examination-in-Chief that he asked the Appellant:
+A. … were there any non-institutional loans made or outstanding during the audit period? His initial response was no, and then I would have said, has a friend or family member given you any money that was a loan? And there was no further information provided for Mr. Korki. His answer was still no.
+(Transcript, page 267, lines 12-17)
+[31] Mr. Goulet said that during the interview he asked a further question of the Appellant:
+A. … So I would have asked if he had received any money from family or friends. And his response was no. …
+(Transcript, page 267, line 25 and page 268, lines 1-2)
+[32] Finally, Mr. Goulet said that he asked the Appellant:
+A. “… have you ever held any money in trust for others?" And his initial response was no. …
+(Transcript, page 268, lines 8-9)
+[33] Mr. Goulet testified that Mr. Korki said that money from his parents had been deposited into his bank account at the Royal Bank of Canada (Transcript, page 269, lines 24-25).
+[34] Mr. Goulet then said:
+A. … I would have further asked the denomination of money that he would have received. And he said he received $10,000, $15,000 and $70,000.
+(Transcript, page 270, lines 8-10)
+[35] As noted previously, Ms. Jenkins also testified (see paragraph [21]). Ms. Jenkins said that there was a list of wire transfers from the taxpayer’s father, who is resident in Iran (Transcript, page 350, lines 22-25). Note: The wire transfers were in the following amounts:
+2002
+$284,940
+2003
+$174,980
+[36] At page 363 of the transcript, counsel for the Crown asked Ms. Jenkins:
+Q. Okay, and in particular what did you gather from this new information? What did it tell you?
+A. That there was some accounts and assets held outside of Canada that I had not previously been aware of.
+(Transcript, page 363, lines 1-5)
+[37] At page 365 of the transcript, counsel for the Respondent said:
+Q. So with respect to the assets then, what did that screen from the bank indicate?
+A. That the UBS account value was [$] 2,097,000. There was also an account in Germany that had a value estimated at [$] 200,000. And there were blue-chip stock holdings in Iran worth [$] 800,000.
+Q. And I notice also it indicates there was a Banker’s Acceptance worth [$] 200,000, is that right?
+A. Yes it does.
+(Transcript, page 365, lines 16-24)
+(Note: The Appellant stated in testimony that there is no bank account in Germany and stated that all of the assets in Switzerland belonged to his father.)
+[38] At page 391 of the transcript, counsel for the Appellant asked Ms. Jenkins the following question:
+Q. (Mr. Armstrong):
+Do you have any evidence that the money in the UBS account in Switzerland is not Mr. Korki Senior’s?
+A. The RBC has it listed under the assets of Mr. Korki.
+(Transcript, page 391, lines 13-17)
+[39] The Appellant admitted on cross-examination that there was money at UBS in Switzerland. However, he said that it was his father’s money. However, the Appellant also stated that UBS understood that the money belonged to the Appellant. He said:
+A. … They [i.e. UBS] didn't know it is my father's money, …
+(Transcript, page 128, line 4)
+[40] At page 139 of the transcript, on cross-examination, counsel for the Respondent said:
+Q. (Mr. Senkpiel):
+You are the one who is directing the bank to send you these funds from the UBS bank account, right?
+A. The account is my name, as normally it is, yes.
+(Transcript, page 139, lines 8-11)
+[41] During cross-examination, the following exchange took place:
+Q. (Mr. Senkpiel):
+So, and just to make sure I understand your evidence, you're saying that you had a statement from the UBS bank account indicating that, on the statement, that the client was yourself, that the amount in the account was [$] 1,600,000, and you just gave that to them and you didn't say anything to them.
+A. Yes, I didn't say, but I give that statement to them, yes.
+(Transcript, page 149, lines 20-25 and page 150, lines 1-2)
+[42] It should also be noted that the Appellant sold a home located at Beech Drive in Victoria for $4,500,000 (original purchase price was $1,075,000 and significant improvements were added). The Appellant’s home at 3275 Campion Road is currently for sale. The original asking price of the Campion Road property was $15,000,000. The current asking price is $13,500,000.
+[43] Counsel for the Respondent referred to the decision of the Federal Court of Appeal in Hsu v. The Queen, 2001 D.T.C. 5459. In Hsu, Justice Desjardins said:
+[23] Subsection 152(7) of the Act does not establish a specific method for determining the tax payable by a taxpayer. In most cases, the Minister follows the 'net worth method'. The Taxpayers Operations Manual prepared by National Revenue describes the net worth method as follows:
+The use of a net worth approach to major income is based on the premise that a client's income for a period is the increase in the client's net worth (financial position) between the beginning and end of a particular period. A client's net worth is the excess of his total assets, business and personal, over his total liabilities, business and personal, at a specific date.
+[44] Subsection 152(8) of the Act grants a presumption of validity to these assessments and places the onus upon the taxpayer to disprove the state of affairs assumed by the Minister:
+152.(8) An assessment shall, subject to being varied or vacated on an objection or appeal under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission in the assessment or in any proceeding under this Act relating thereto.
+[45] In reviewing the evidence, I believe that the following evidentiary points are significant:
+(a) The UBS account in Switzerland is in the Appellant’s name;
+(b) The Appellant’s father has never been to Switzerland;
+(c) Only the Appellant has signing authority on the UBS bank account;
+(d) Only the Appellant can access the funds in the UBS account;
+(e) The UBS account was relied upon by the Victoria branch of the Royal Bank of Canada;
+(f) UBS provided the Royal Bank of Canada with a Letter of Credit in the amount of $700,000 to guarantee loans on the Campion Road property. (This was confirmed by Mr. Edwards);
+(g) No evidence was provided to show that the funds with UBS were used by anyone other than the Appellant; and
+(h) No evidence was provided other than the self-serving testimony of the Appellant to support a finding of an oral trust, i.e., that the Appellant held the UBS account in favour of his father.
+(i) The Appellant received the sums of $284,940 and $174,980 from the UBS account in 2002 and 2003 respectively.
+[46] In summary, as the quoted evidence indicates, the Appellant told UBS officials that the money in Switzerland belonged to him. The Appellant told officials of the CRA that the money in Switzerland belonged to his father. Mr. Edwards of the Royal Bank said that he did not know whether the money in Switzerland belonged to the Appellant or whether it represented family assets.
+[47] The Appellant has the onus of establishing that the Reassessments were incorrect. I must state that I found much of the evidence unreliable. Because of the various contradictions and inconsistencies in the evidence as outlined above, I have concluded that the Appellant’s evidence is not credible and, in my opinion, he has not discharged the onus of establishing that the Reassessments are incorrect.
+[48] Counsel for the Respondent said in his argument that gross negligence must be taken to involve greater than simply a failure to use reasonable care. He said:
+… Gross negligence is not limited to actual knowledge but can extend to wilful blindness. …
+(Transcript, page 483, lines 18-19)
+[49] In this situation, the Appellant reported $20,000 of rental income in 2002 and 2003. He failed to report any salary from the textile company from 1993 to 1997, or any pension payments from the textile company for 1998, 1999, 2000, 2001, 2002 and 2003, even though he said that he worked for the company until he retired in 1997. He also said that he received a small pension from the textile company.
+[50] The Appellant was very aware of financial matters. He graduated from a university in Iran with a degree in accounting and finance. He was also the Managing Director of the textile company since it was built and commenced to operate.
+[51] In Venne v. The Queen, 84 D.T.C. 6247, Justice Strayer said, at page 6256:
+… 'Gross negligence' must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. …
+[52] Based on the comments as outlined above, I believe that the gross negligence penalties imposed by the Minister should be upheld.
+[53] Before concluding, I wish to quote from United States Supreme Court Justice Oliver Wendell Holmes. Justice Holmes said:
+Taxes are the price we pay for civilized society, …
+(Compania General De Tabacos De Filipinas v. Collector of Internal Revenue, 275 U.S. 87, 100 (1927))
+I believe that this comment by Justice Holmes applies in this situation.
+[54] The appeals are dismissed, with costs.
+Signed at Vancouver, British Columbia, this 15th day of July 2010.
+“L.M. Little”
+Little J.
+CITATION: 2010 TCC 384
+COURT FILE NO.: 2008-74(IT)G
+STYLE OF CAUSE: Saeed Korki and Her Majesty The Queen
+PLACES OF HEARING: Victoria and Vancouver, British Columbia
+DATES OF HEARING: March 11 and 12, 2010 and April 12, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: July 15, 2010
+APPEARANCES:
+Counsel for the Appellant:
+D. Laurence Armstrong
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellant:
+Name: D. Laurence Armstrong
+Firm: Armstrong Wellman
+Victoria, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

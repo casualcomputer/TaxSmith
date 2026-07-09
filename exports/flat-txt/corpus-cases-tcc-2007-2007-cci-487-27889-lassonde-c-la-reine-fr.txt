@@ -1,0 +1,79 @@
+Title: Lassonde c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27889/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-487-27889-lassonde-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-09-05
+
+# Lassonde c. La Reine
+
+- Citation: 2007 CCI 487
+- Decision date: 2007-09-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1737, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lassonde c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-05
+Référence neutre
+2007 CCI 487
+Numéro de dossier
+96-3767(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers: 96-3767(IT)I
+96-3769(IT)I
+96-4749(IT)G
+97-34(IT)I
+ENTRE :
+NORMAND LASSONDE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+ORDONNANCE
+IL EST ORDONNÉ que l’appel portant le numéro 96-4749(IT)G soit rejeté selon les motifs de l’ordonnance.
+IL EST ÉGALEMENT ORDONNÉ QUE les parties doivent être prêtes à procéder à l’audition des appels portant le numéro 96‑3767(IT)I, 96-3769(IT) et 97‑34(IT)I, fixée au 4 septembre 2007, comme prévu dans l’ordonnance signée le 12 février 2007.
+Signée à Saskatoon, Canada, ce 21e jour d’août 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Référence: 2007CCI487
+Date: 20070821
+Dossiers: 96-3767(IT)I
+96-3769(IT)I
+96-4749(IT)G
+97-34(IT)I
+ENTRE :
+NORMAND LASSONDE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge en chef Bowman
+[1] L’appelant a déposé une demande datée du 27 juillet 2007 afin d'obtenir une ordonnance prorogeant le délai pour le dépôt de sa liste de documents dans la cause portant le numéro 96-4749(IT)G et une remise de l’audition de ces appels, fixée au 4 septembre 2007.
+[2] Pour les raisons qui suivent je ne suis pas prêt à accorder cette demande.
+[3] Nous avons reçu des observations écrites de l’intimée en opposition à la demande et une réponse de l’appelant aux observations écrites de l’intimée.
+[4] Le 12 décembre 1996, l’appelant a interjeté appel devant cette Cour d’un avis de nouvelle cotisation émis le 7 septembre 1993 à l’égard de l’année d’imposition 1989. Les procédures devant cette Cour ont été suspendues dans l’attente de la décision dans l’affaire McKeown c. La Reine, 2001 CCI 962732, rendue le 12 mars 2001.
+[5] Les 3 et 4 octobre 2002, le juge Garon, tel était alors son titre, a tenu une audience sur l’état de l’instance et l’appelant a manifesté son intention de présenter une requête visant l’abandon des procédures pour cause de délais déraisonnables. Le dépôt de ladite requête a été reporté à de multiples reprises à la demande de l’appelant. Le 17 avril 2003, ladite requête a été déposée auprès du greffe de cette Cour. Les 11, 12, 13, 14 et 15 août 2003, la juge Lamarre Proulx a entendu cette requête. Le 3 octobre 2003, les prétentions de l’appelant ont été rejetées dans la décision rendue par la juge Lamarre Proulx. Le 4 octobre 2005, la Cour d’appel fédérale a rejeté l’appel de cette décision. Le 20 avril 2006, la Cour suprême du Canada a refusé l’autorisation d’en appeler.
+[6] Le 29 juin 2006, le juge Dussault a accordé aux parties jusqu’au 30 novembre 2006 afin d’établir et de produire leur liste de documents. Le 29 décembre 2006, l’intimée a déposé une requête afin d’obtenir le rejet de l’appel pour cause de retard étant donné que l’appelant n’avait toujours pas déposé sa liste de documents tel qu’exigé par l’ordonnance du juge Dussault. Le 26 janvier 2007, le juge Angers a accordé à l’appelant un délai supplémentaire de six mois, c’est‑à‑dire au plus tard le 27 juillet 2007, afin qu’il puisse établir et produire sa liste de documents. La raison pour laquelle il a accordé un si long délai était les problèmes de santé que l’appelant éprouvait. Il a également fixé au 4 septembre 2007 l’audition de ces appels. Dans son ordonnance, le juge a clairement exprimé que le défaut de se conformer à ce délai entraînerait le rejet de l’appel sans autre avis. Le 27 juillet 2007 en après-midi, le dernier jour du délai accordé par le juge Angers, l’appelant a déposé un avis de requête.
+[7] La requête vise à obtenir une prorogation de délai au motif que son état de santé ne lui permet pas de déposer et de signifier sa liste de documents et de comparaître à l’audition de cet appel prévue le 4 septembre 2007, tel qu’exigé dans l’ordonnance signée le 12 février 2007.
+[8] La requête de l’appelant fait partie d’un appel interjeté en décembre 1996 pour l’année d’imposition 1989, voilà donc près de 11 ans que cet appel a été interjeté à notre Cour sans que des progrès significatifs aient été réalisés. L’intimée est prête à procéder depuis octobre 2002, mais l’appelant a demandé à plusieurs reprises que les audiences et même les échéanciers soient reportés, ce qui lui a toujours été accordé. Notre Cour est également sensible au fait que l’appelant se représente seul sans avocat, ce qui explique en partie la grande clémence dont l’appelant a notamment bénéficié à l’égard du respect des échéanciers.
+[9] Dans l’ordonnance signée le 12 février 2007, le juge Angers est claire et sans équivoque. Il précise ce qui suit :
+« Si l’appelant ne respecte cette ordonnance, l’appel sera rejeté sans autre avis ou requête pour rejet d’appel. »
+[10] Il est dans l’intérêt de la justice que l’on ne déroge pas de cette mise en garde, sauf pour des motifs exceptionnels.
+[11] En ce qui concerne l’état de santé de l’appelant, ce dernier s’est contenté de présenter au soutien de sa requête ce qui semble être une prescription médicale datée du mois de mai 2007. Ce dernier n’a déposé aucun certificat médical récent qui me permettrait de connaître la véritable nature de ses problèmes de santé et d’évaluer la capacité de l’appelant à prendre part à l’instance.
+[12] Notre Cour est certainement consciente de l’état de santé de l’appelant, et le juge Angers lui a déjà accordé un délai supplémentaire de six mois à cet égard dans son ordonnance signée le 12 février 2007. Rappelons que le 29 juin 2006, nous avions accordé un délai plus que raisonnable à l’appelant afin qu’il puisse établir et produire sa liste de documents. Par conséquent, l’appelant a en somme bénéficié d’un total de 13 mois pour établir et produire sa liste de documents.
+[13] En conséquence, je suis d’avis qu’il est approprié en l’espèce de rejeter la requête de l’appelant visant à proroger l’échéancier pour établir et produire sa liste de documents prévu à l’ordonnance signée le 12 février 2007. Dans ce contexte, je procède également au rejet de cet appel puisque l’appelant ne s’est pas conformé à l’ordonnance signée le 12 février 2007 rendue par le juge Angers.
+Signée à Saskatoon, Canada, ce 21e jour d’août 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman

@@ -1,0 +1,405 @@
+Title: Royal City Taxi Ltd. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/405688/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-105-405688-royal-city-taxi-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2019-05-06
+
+# Royal City Taxi Ltd. c. M.R.N.
+
+- Citation: 2019 CCI 105
+- Decision date: 2019-05-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4407, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Royal City Taxi Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-05-06
+Référence neutre
+2019 CCI 105
+Numéro de dossier
+2018-2349(EI), 2018-3167(EI), 2018-455(CPP)
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2018-2349(EI)
+2018-455(CPP)
+2018-3167(EI)
+ENTRE :
+ROYAL CITY TAXI LTD. et DARCY G. DMETRICHUK,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+Intimé,
+et
+DARCY G. DMETRICHUK,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel de Royal City Taxi Ltd. (2018-2349(EI)) entendu sur preuve commune avec les appels de Darcy G. Dmetrichuk (2018-455(CPP) et 2018-3167(EI)) le 4 février 2019 à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelante
+Royal City Taxi Ltd.
+Me Nazeer Mitha, c.r.
+L’appelant et l’appelant-intervenant
+Darcy G. Dmetrichuk
+Darcy G. Dmetrichuk lui-même
+Avocate de l’intimé
+Me Katherine Shelley
+JUGEMENT
+L’appel interjeté à l’encontre de la décision du ministre du Revenu national, en application du Régime de pensions du Canada, voulant que Darcy Dmetrichuk n’était pas un employé de Royal City Taxi Ltd. et n’occupait pas un emploi ouvrant droit à pension en application du Régime de pensions du Canada est accueilli et la décision du ministre est annulée. Par conséquent, je conclus que l’appelant-intervenant occupait un emploi ouvrant droit à pension durant toute la période pertinente pour les motifs énoncés dans les motifs du jugement ci-joint. L’appel interjeté à l’encontre de la décision du ministre, en application de la Loi sur l’assurance-emploi, voulant que Darcy Dmetrichuk occupait un emploi assurable est rejeté. Par conséquent, je conclus que l’appelant-intervenant occupait un emploi assurable durant toute la période pertinente pour les motifs énoncés dans les motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 6e jour de mai 2019.
+« Robert J. Hogan »
+Le juge Hogan
+Référence : 2019 CCI 105
+Date : 2019-05-06
+Dossiers : 2018-2349(EI)
+2018-455(CPP)
+2018-3167(EI)
+ENTRE :
+ROYAL CITY TAXI LTD. et DARCY G. DMETRICHUK,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DARCY G. DMETRICHUK,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Aperçu
+[1] La Cour est saisie d’appels interjetés à l’encontre des décisions du ministre du Revenu national (le « ministre ») voulant que Darcy Dmetrichuk (« l’appelant-intervenant de l’appelante ») n’occupait pas un emploi ouvrant droit à pension en application du Régime des pensions du Canada [1] (« RPC ») alors qu’il travaillait présumément pour Royal City Taxi Ltd. (« l’appelante »), mais étayant qu’il occupait un emploi assurable en application de la Loi sur l’assurance-emploi [2] (la « LAE ») durant la période s’écoulant du 1er janvier 2016 au 25 avril 2017 (la « période visée »). Ces appels ont été entendus sur preuve commune.
+Circonstances entourant les appels
+[2] En 2009, l’appelant-intervenant est devenu l’actionnaire de l’appelante et propriétaire d’un taxi. Pendant près de deux ans, l’appelant-intervenant de l’appelant a conduit un taxi à titre de propriétaire exploitant. En 2011, ou vers le début de 2012, l’appelant-intervenant de l’appelant a vendu son véhicule ainsi que ses actions de l’appelante pour devenir un simple chauffeur de taxi. L’appelante a fait des paiements d’assurance-emploi pour le compte de son intervenant pendant des années. Or, en 2016, l’appelante a soudainement cessé de faire ces paiements.
+[3] L’appelant-intervenant a ensuite demandé l’établissement de son statut d’emploi au sein de l’appelante. Le ministre a déterminé que l’appelant-intervenant de l’appelant n’occupait pas un emploi aux fins du Régime des pensions du Canada et de l’assurance-emploi durant la période visée au sens de la définition reconnue en common law d’un « emploi ». Toutefois, le ministre a déterminé que l’appelant-intervenant occupait un emploi assurable en application de l’alinéa 6e) du Règlement sur l’assurance-emploi [3] (le « Règlement ») et de l’alinéa 5(1)d) de la Loi sur l’assurance-emploi.
+[4] L’appelant-intervenant de l’appelante n’était pas d’accord avec la décision du ministre quant à son statut d’entrepreneur indépendant aux fins du Régime des pensions du Canada et de l’assurance-emploi, et a interjeté appel de celle-ci. L’appelante ne s’est pas opposée à la décision du ministre voulant que son intervenant n’était pas un employé de son entreprise, en application du critère établi par la common law. Par contre, elle n’était pas d’accord sur le fait que l’appelant-intervenant occupait un emploi assurable en application de la Loi sur l’assurance-emploi, et elle a interjeté appel de cette décision.
+II. Faits
+[5] L’appelante exploite une entreprise de taxi dans la Ville de New Westminster. Les éléments de preuve sont principalement axés sur les activités de l’appelante et le lien qui existait entre l’appelante et l’appelant-intervenant pendant que ce dernier exécutait des services de chauffeur durant la période visée.
+[6] L’appelante a appelé un témoin, Reshma Singh, son gestionnaire principal. Je remarque que Mme Singh est seulement à l’emploi de l’entreprise depuis 6 mois et demi. Par conséquent, elle n’a pas de connaissances personnelles des circonstances qui se sont produites durant la période visée. Elle a également été le seul témoin appelé à comparaître au nom de l’appelant-intervenant et de l’intimé. Darcy Dmetrichuk a témoigné en son propre nom et a été appelé par l’intimé.
+Reshma Singh
+L’entreprise de l’appelante et l’industrie du taxi
+[7] Le témoignage de Mme Singh a principalement porté sur l’industrie du taxi dans la Ville de New Westminster ainsi que sur la façon dont l’appelante exploitait son entreprise.
+[8] Madame Singh a d’abord présenté un survol du fonctionnement de l’appelante. Elle a expliqué que l’appelante était propriétaire des permis d’exploitation de taxi délivrés par la commission du transport de passagers [4] (Passenger Transportation Board). Chaque permis représente deux quarts de conduite, un de jour et un de nuit [5] . À l’heure actuelle, l’appelante est propriétaire de 62 permis de taxi, ce qui signifie 124 quarts de travail [6] . La commission du transport des passagers détermine le nombre de permis qui seront délivrés aux entreprises de taxi; cette décision est fondée sur la demande pour ce service dans la ville [7] . Les taxis qui sont ensuite utilisés dans l’entreprise appartiennent toutefois aux actionnaires de l’appelante [8] . Ensemble, les actionnaires sont propriétaires d’environ 62 taxis [9] . Un actionnaire pourrait être propriétaire d’un quart de jour, d’un quart de nuit ou des deux quarts, selon le nombre d’actions qu’il possède [10] . La témoin a expliqué qu’un actionnaire peut choisir de conduire son propre taxi ou de le louer à un autre chauffeur, et ce, sur une base quotidienne ou à long terme [11] . J’utiliserai les expressions « actionnaires » ou « propriétaires exploitants » pour faire référence aux actionnaires, puis aux « chauffeurs-locataires » pour faire référence aux conducteurs qui louent les véhicules appartenant à des actionnaires.
+[9] Mme Singh a ensuite expliqué que l’appelante fournissait certains services à ces actionnaires en échange d’un tarif forfaitaire mensuel de répartiteur [12] . Plus particulièrement, l’appelante offrait des services administratifs et de répartition [13] . Mme Singh a expliqué que les frais pour la répartition correspondent au seul montant reçu de façon régulière par l’appelante de la part de ses actionnaires. Ces frais permettent de rembourser tous les frais d’exploitation de l’appelante [14] . Plus particulièrement, Mme Singh a témoigné que les frais de répartition couvraient non seulement les frais des services administratifs et de répartition pour chaque actionnaire, mais également les frais facturés au marchand associés aux paiements par carte de crédit [15] . La témoin a ensuite confirmé que c’était les actionnaires qui payaient les frais de répartition de 475 $ par quart de travail, et ce, peu importe s’ils étaient eux-mêmes chauffeurs ou s’ils louaient leur véhicule à d’autres chauffeurs [16] . Toutefois, les frais de répartition étaient compris dans le tarif de location d’un chauffeur-locataire [17] . Mme Singh a ensuite affirmé que les actionnaires payaient les frais d’assurance associés à leurs taxis, et que l’appelante ne versait aucun dividende [18] .
+[10] Mme Singh a également expliqué que l’appelante pouvait demander à ses actionnaires de financer des dépenses en capital, comme pour le remplacement et la modernisation du système de répartition [19] . L’appelante procède alors à un appel de fonds auprès de ses actionnaires pour renouveler ses biens immobilisés.
+[11] En contre-interrogatoire, Mme Singh a indiqué que l’appelante exploitait une entreprise de transport [20] .
+[12] Quant aux exigences à satisfaire afin de conduire un taxi pour l’appelante, la témoin a expliqué que l’industrie du taxi était fortement réglementée par la Ville de New Westminster, qui imposait plusieurs exigences, autant au titulaire d’un permis et au chauffeur. Ces exigences sont énoncées dans les règlements municipaux, par la commission du transport de passagers, ainsi que dans le Code national de sécurité [21] . Selon Mme Singh, afin de se conformer à ces règlements, l’appelante a mis en œuvre de politiques semblables pour ces propriétaires exploitants et ces chauffeurs-locataires.
+[13] Plus particulièrement, Mme Singh a témoigné que les chauffeurs de taxi quotidiens (comme l’appelant-intervenant de l’appelante) devaient obtenir un permis de classe 4 ou supérieure de l’Insurance Corporation of British Colombia, un certificat TaxiHost du Justice Institute of British Colombia, et un permis de chauffeur délivré par la police de New Westminster, et ce, qu’ils soient propriétaires exploitants ou chauffeurs-locataires [22] . Chaque personne est responsable des frais liés à l’obtention de son permis de conduire, du certificat de TaxiHost, et d’un permis de chauffeur [23] .
+[14] De plus, l’avocat de l’appelante a ajouté que les articles suivants du règlement sur les véhicules commerciaux de la Ville de New Westminster (pièce A-1), dont a parlé la témoin, figuraient dans les politiques de l’appelante :
+[traduction]
+Chaque titulaire d’un permis de taxi doit offrir un service de taxi complet, incluant un service de réponse téléphonique et de répartition, pour une durée minimale de 24 heures pendant chaque période de sept jours de chaque semaine civile durant l’année du permis [24] ;
+Chaque titulaire d’un permis de taxi doit garder le taxi propre, en bon état de marche mécanique et sans dommage [...] [25]
+Personne n’est autorisé à conduire, à exploiter ou à mener une entreprise de taxi à moins que lesdits taxis soient munis d’un taximètre conforme à tous égards aux exigences établies dans [...] [le règlement pertinent] [...] [26] ;
+Tout titulaire d’un permis et chauffeur de taxi devra s’accommoder aux personnes désirant utiliser le service dans l’ordre de leur demande; l’appelante devra être informée lorsqu’un taxi ne peut pas offrir le service voulu à l’intérieur d’un délai raisonnable [27] ;
+Aucun titulaire d’un permis ou chauffeur de taxi ne peut facturer un tarif autre que celui calculé conformément à l’annexe B [28] .
+Tout chauffeur de taxi doit s’abstenir d’adopter une conduite ou de porter des vêtements pouvant être offensants [29] ;
+Tout chauffeur de taxi devra conserver un journal quotidien de toutes les courses qu’il aura effectuées [30] .
+Distinctions dans la conduite d’un taxi à titre de propriétaire exploitant par rapport à celui d’un chauffeur-locataire
+[15] Mme Singh a décrit le processus par lequel les actionnaires peuvent obtenir un revenu en conduisant eux-mêmes un taxi. En effet, si un propriétaire exploitant conduit un taxi, il obtient le prix de la course du passager. [31] Si le prix de la course est payé en argent comptant, le propriétaire exploitant conserve la somme complète reçue directement [32] . Si la course est payée à l’aide d’une carte de crédit ou de débit, le paiement électronique sera versé au compte de l’appelante, et le propriétaire exploitant devra inscrire la transaction sur une feuille de suivi quotidien des courses [33] . Par la suite, le propriétaire exploitant joindra la feuille de suivi quotidien des courses aux copies des reçus, et soumettra le tout à l’appelante. Le montant des courses sera éventuellement versé en entier au propriétaire exploitant [34] . De façon similaire, le propriétaire exploitant recevra le montant complet des pourboires [35] . Le traitement des formulaires de paiement électronique fait partie des services administratifs susmentionnés qu’offre l’appelante [36] .
+[16] Selon la témoin, le processus de rémunération des chauffeurs-locataires est sensiblement le même que celui des propriétaires exploitants : le chauffeur-locataire empoche les sommes en argent comptant et remplit et soumet des feuilles de suivi quotidien des courses à l’appelante pour toutes les courses réglées par carte de crédit ou de débit [37] . L’appelante transférera ensuite le montant pour la location du taxi à l’actionnaire approprié, puis le chauffeur-locataire recevra le solde restant [38] . De façon similaire, le chauffeur-locataire recevra le montant complet des pourboires [39] . L’appelant-intervenant de l’appelante a confirmé que les chauffeurs-locataires conservaient tous les paiements en argent comptant; toutefois, il a indiqué que l’appelante était en mesure d’effectuer le suivi de ces transactions à l’aide de ses ordinateurs. Or, cette dernière avait désactivé cette fonction [40] . Je présume que l’appelante pourrait demander à ce que les paiements en argent comptant sont inclus sur la feuille de suivi quotidien des courses et qu’elle pour vérifier les taximètres pour s’assurer que cela a bien été fait. Ceci permettrait d’éviter de perdre le fil du montant total assujetti au RPC et à l’assurance-emploi, ainsi que des taxes de vente applicables.
+[17] Mme Singh a témoigné que les tarifs facturés par un propriétaire exploitant et un chauffeur-locataire seraient les mêmes, conformément aux règlements municipaux applicables quant aux tarifs [41] . De façon similaire, Mme Singh a expliqué que c’est le chauffeur du taxi qui doit recueillir et effectuer la remise de la TPS, et ce, qu’il soit propriétaire exploitant ou chauffeur-locataire [42] . C’est également le chauffeur du taxi qui est responsable de toute contravention reçue, de tout déductible lié à une collision survenue, ainsi que de tout le carburant utilisé durant la conduite du taxi [43] .
+[18] La témoin a ensuite décrit le processus que doit suivre un chauffeur-locataire pour commencer à travailler pour l’appelante. Elle a expliqué que chaque chauffeur-locataire se fera d’abord attribuer une ID pour la répartition par l’appelante [44] . Les chauffeurs-locataires peuvent être mis en relation avec des actionnaires de deux façons différentes [45] . Un chauffeur-locataire peut être, soit approché directement par un actionnaire, ou soit le chauffeur-locataire peut téléphoner au superviseur des chauffeurs et demander l’ajouter de son nom au tableau des chauffeurs suppléants [46] . Les actionnaires vont ensuite annoncer leurs quarts ainsi que les véhicules qui sont disponibles, puis l’appelante jumellera le chauffeur à un quart de travail [47] . Cependant, comme l’a expliqué Mme Singh, même si un chauffeur-locataire a inscrit son nom au tableau des chauffeurs suppléants, il lui revient toujours d’accepter ou de refuser le quart de travail [48] . En contre-interrogatoire, la témoin a également affirmé que les chauffeurs inscrits à ce tableau sont habituellement appelés selon leur ordre d’ajout, exception faite des cas où le chauffeur n’est pas en mesure de conduire un certain type de véhicule [49] . De plus, selon la témoin, tant et aussi longtemps que le chauffeur-locataire ne contrevient pas au Code national de sécurité, il peut conduire pour n’importe quel actionnaire ou entreprise de taxi [50] .
+[19] La témoin a ensuite expliqué que ces contrats de location conclus entre un actionnaire et un chauffeur-locataire seront identiques, peu importe si le chauffeur-locataire s’adresse directement à un actionnaire ou s’il utilise le tableau des chauffeurs suppléants. [51] Mme Singh a affirmé qu’il s’agit d’un contrat de location standard rédigé par le conseil de direction et l’appelante. Elle a affirmé qu’il permettait de s’assurer que tous les chauffeurs-locataires payent le même tarif; à l’heure actuelle, il est de 95 $ par quart de travail [52] . Par contre, toujours selon la témoin, si le taxi tombe en panne durant une période location à un chauffeur-locataire, l’actionnaire recevra seulement un paiement proportionnellement équivalent à la durée de fonctionnement du véhicule [53] . Les propriétaires exploitants, à titre d’actionnaires, élisent les membres au conseil de direction formé d’actionnaires [54] . En conséquence, et contrairement aux chauffeurs-locataires, les propriétaires exploitants peuvent influencer les règles et les politiques de l’appelante.
+[20] Une fois dans le véhicule, le chauffeur devrait ouvrir une session dans le système de répartition, puis il aura accès aux services de répartition de l’appelante [55] . En contre-interrogatoire, la témoin a expliqué que le système de répartition offrait des courses en fonction de la proximité des chauffeurs, ainsi que l’ordre priorité des chauffeurs (c.-à-d. l’ordre dans la file d’attente). Les chauffeurs décident ensuite d’accepter ou non la course [56] . Mme Singh a poursuivi en contre-interrogatoire en expliquant que l’appelante détenait plus de 100 comptes d’entreprises, incluant le CN, ce qui garantissait des courses pour les chauffeurs de taxi [57] . Les chauffeurs peuvent également prendre des clients qui les hèlent ou les clients personnels qui leur téléphone directement [58] . Le taximètre devrait être en fonction afin de facturer ces clients [59] . Le chauffeur décide du moment de ses pauses [60] .
+Débuter dans l’industrie du taxi
+[21] Mme Singh a également expliqué comment une personne pouvait débuter dans l’industrie du taxi sans devenir un chauffeur-locataire. Elle a expliqué que le règlement municipal permet seulement 67 permis de taxi, 62 appartiennent à l’appelante et 5 à l’entreprise Queen City Taxi. Par conséquent, si l’on veut intégrer l’industrie du taxi, il faudrait acheter un taxi et un permis d’un actionnaire existant [61] .
+[22] Selon la témoin, les actions de l’appelante peuvent être vendues, sous réserve qu’il y en ait à la vente et qu’on donne une « chance égale » à chaque personne figurant déjà dans le système de l’appelante, comme l’énonce la convention des actionnaires [62] . Outre l’exigence d’offrir une occasion égale aux personnes déjà inscrites dans le système, Mme Singh a témoigné que c’est l’actionnaire qui a le plein contrôle quant à la décision de vendre ou non ses actions [63] . Le prix de vente d’une action serait fixé par le conseil de direction de l’appelante, lequel est uniquement composé d’actionnaires [64] . Selon Mme Singh, une demi-action de l’appelante, soit un quart de a travail, coûterait environ 55 000 $, tandis qu’une action complète coûterait 95 000 $. De plus, Mme Singh a précisé que ces montants ne comprenaient pas le coût d’achat d’un véhicule conforme aux règlements [65] .
+Paiements à l’assurance-emploi effectués par l’appelante pour le compte de l’appelant-intervenant de l’appelante
+[23] En interrogatoire en chef, Mme Singh a affirmé que l’appelante n’a pas déduit de paiements à l’assurance-emploi ou au RPC du solde versé à l’appelant-intervenant durant la période visée [66] . Toutefois, elle a ensuite indiqué que l’appelante effectuait des paiements à l’assurance-emploi pour le compte de l’appelant-intervenant durant la période s’écoulant de 2012 à 2016 [67] . Mme Singh a expliqué qu’il s’agissait d’une erreur commise par un remplaçant au service de la comptabilité qui avait été embauché en l’absence du contrôleur en chef de la comptabilité [68] . L’erreur a été découverte en 2016. L’appelante a immédiatement pris des mesures pour rectifier la situation et aucune autre déduction pour le paiement de l’assurance-emploi n’a été effectuée [69] .
+[24] Toutefois, en contre-interrogatoire, il est devenu clair que Mme Singh n’avait aucune connaissance personnelle de l’erreur alléguée. Mme Singh affirme avoir été embauchée par l’appelante le 18 juillet 2018. Par conséquent, elle ne travaillait pas pour l’appelante lorsque l’erreur alléguée a été commise, lorsqu’elle a été détectée, et lorsque l’appelante a cessé de prélever les retenues pour l’assurance-emploi. Plus particulièrement, elle n’était pas à l’emploi de l’appelante durant la période visée par les présents appels. Son témoignage concernant l’erreur alléguée équivaut au mieux à un ouï-dire, et je n’y accorderai aucun poids. De plus, je me questionne à savoir pourquoi l’appelante n’a pas choisi de faire appel à un témoin qui avait une connaissance directe de cette « erreur », ce qui me pousse à tirer une conclusion négative de cette décision.
+Sanctions et processus disciplinaires
+[25] En contre-interrogatoire, Mme Singh a expliqué le processus disciplinaire pour les chauffeurs. Selon elle, toute plainte grave concernant le comportement d’un chauffeur, ou infraction commise par un chauffeur sont traitées directement par les services policiers [70] . Si la plainte est justifiée, les policiers retireront le permis du chauffeur en cause, et celui-ci ne pourra plus conduire un taxi [71] . Mme Singh a également décrit le processus disciplinaire de l’appelante à l’égard de ses chauffeurs. Elle a expliqué que les propriétaires exploitants et les chauffeurs-locataires étaient soumis au même processus disciplinaire [72] . Selon la témoin, l’appelante révoquera l’ID de répartition du chauffeur pendant une certaine période de temps [73] . Elle a expliqué que, toutefois, un actionnaire serait toujours en mesure de louer son véhicule durant cette période de suspension. Elle a également affirmé qu’il n’existait aucun mécanisme d’imposition de sanction contre un actionnaire prévoyait le retrait de ses actions ou l’expulsion de celui-ci du groupe des actionnaires [74] .
+Entente survenue entre l’appelante et l’appelant-intervenant
+[26] En réinterrogatoire, Mme Singh a témoigné que les chauffeurs-locataires devaient signer un formulaire attestant de leur statut de travailleur autonome, et non d’employé de l’appelante, dès leur recrutement [75] . L’avocat de l’appelante a produit un accord (pièce A-2) conclu entre l’appelante et l’appelant-intervenant attestant que l’appelant-intervenant devait s’acquitter du paiement de la franchise de l’assurance-emploi [76] . Toutefois, comme l’appelant-intervenant l’a bien souligné dans son témoignage, cet accord a été signé en 2009, alors qu’il était actionnaire et propriétaire exploitant. L’appelant-intervenant a ensuite témoigné qu’aucun autre accord n’avait été signé entre lui et l’appelante une fois qu’il est devenu un chauffeur-locataire [77] .
+[27] Dans l’ensemble, je conclus que la partie du témoignage de Mme Singh quant aux différences de traitement entre les propriétaires exploitants et les chauffeurs-locataires divergeait du témoignage de l’appelant-intervenant. J’ai préféré la preuve de l’appelant-intervenant, comme je l’exposerai dans les suivantes.
+Darcy Dmetrichuk
+[28] M. Dmetrichuk a commencé son témoignage en décrivant comment il a commencé à travailler pour l’appelante. Il a expliqué qu’il était un chauffeur de taxi, et qu’il avait commencé à conduire des taxis pour l’appelante en 2009 à titre de propriétaire exploitant [78] . Il était propriétaire de deux actions du véhicule 88 [79] . Il louait également son véhicule durant les fins de semaine et les quarts de travail de nuit alors qu’il était propriétaire exploitant [80] . Le témoin a expliqué qu’à titre de propriétaire exploitant, il était responsable de tous les frais associés à la propriété du véhicule et au service de répartition [81] .
+[29] Selon M. Dmetrichuk, en 2011, ou vers le début de 2012, il a vendu ses actions dans l’appelante et a commencé à conduire des taxis à titre de chauffeur-locataire [82] . Il affirme qu’il faisait surtout appel au système du tableau des chauffeurs suppléants de l’appelante durant cette période à titre de chauffeur-locataire [83] . M. Dmetrichuk a affirmé que c’est en conduisant des taxis qu’il gagnait sa vie; il n’a aucune autre source de revenus [84] .
+[30] M. Dmetrichuk a ensuite décrit les circonstances menant à son congédiement et entourant celui-ci. En tant que chauffeur-locataire, il faisait ses propres déclarations de revenu et déclarait un revenu d’emploi fondé sur les feuillets T4 qu’il recevait de l’appelante [85] . Il a témoigné que l’appelante prélevait des retenues à la source pour l’assurance-emploi, mais que c’était probablement les propriétaires qui payaient les franchises de l’assurance-emploi. Il affirme que c’était le cas quand il était propriétaire : il payait les franchises de l’assurance-emploi pour ses chauffeurs [86] .
+[31] M. Dmetrichuk a expliqué que vers la fin de l’année 2016 ou le début de l’année 2017, l’appelante a demandé aux chauffeurs de signer un document les informant qu’elle suivait un processus en vue d’obtenir une décision dans le but de cesser de verser les cotisations à l’assurance-emploi et contenant une déclaration voulant qu’ils étaient travailleurs autonomes [87] . L’appelant-intervenant n’a pas signé ce document [88] . Puis, en mars 2017, l’appelante l’a informé qu’il ne recevrait pas un feuillet T4 pour l’année 2016 [89] .
+[32] M. Dmetrichuk a témoigné qu’il a dû porter plainte aux normes du travail et à l’Agence du revenu du Canada (« Agence ») en raison de la décision de l’appelante de cesser le versement des cotisations à l’assurance-emploi [90] . M. Dmetrichuk a également indiqué qu’il s’était plaint de la lenteur du système de paiement mis en œuvre par l’appelante [91] .
+[33] Il a ensuite demandé anonymement une décision RPC/assurance-emploi. Toutefois, en juin 2017, il a été appelé à une réunion des directeurs où on lui a dit que les directeurs savaient qu’il avait porté plainte [92] . M. Dmetrichuk a témoigné qu’il avait alors reçu des avertissements et des menaces de l’appelante à quelques reprises afin qu’il retire ses plaintes [93] . Plus particulièrement, M. Dmetrichuk a expliqué qu’on lui a dit qu’il serait seulement suspendu pendant quelques semaines s’il retirait ses plaintes. Sinon, il serait congédié [94] . Il a indiqué qu’il n’a pas retiré ses plaintes, et bien qu’il devait travailler de décembre 2017 à mars 2018, il a été congédié en décembre 2017 [95] . Selon le témoin, l’appelant lui aurait dit que le motif de son congédiement était son dossier aux normes du travail ainsi que la plainte qu’il avait formulée à l’Agence [96] . Je crois le témoin quand il affirme que c’est pour cette raison que l’appelante a pris des mesures pour l’empêcher de travailler pour elle.
+[34] M. Dmetrichuk a témoigné que son dossier aux normes du travail est toujours en cours [97] . Il a également indiqué n’avoir jamais véritablement reçu de prestations d’assurance-emploi [98] . Il a expliqué que l’Agence a rendu sa décision quant au revenu assurable après son congédiement. Par conséquent, comme l’a décrit M. Dmetrichuk, lorsque Service Canada a cherché à obtenir son dossier d’emploi auprès de l’appelante, celle-ci a affirmé qu’il avait quitté son emploi et qu’aucune prime d’assurance-emploi n’avait jamais été payée [99] .
+Le contrôle
+[35] M. Dmetrichuk a ensuite décrit le degré de contrôle qu’exerçait l’appelante.
+[36] Il a expliqué que l’appelante pouvait entraver la capacité d’un chauffeur-locataire à travailler en lui accordant moins d’heures ou moins de jours de travail [100] . Dans son témoignage, M. Dmetrichuk a également affirmé qu’il travaillait exclusivement pour l’appelante [101] . Il a également indiqué que lorsqu’on a cru que la société Uber arrivait à New Westminster, l’appelante avait informé tous les chauffeurs que quiconque s’inscrivait à Uber serait congédié sur le champ [102] .
+[37] En ce qui a trait au système de tableau des chauffeurs suppléants, M. Dmetrichuk a affirmé qu’il ne s’agissait pas d’un système juste et équitable [103] . Selon le témoin, les propriétaires pouvaient téléphoner et demander les noms des chauffeurs disponibles, puis choisir celui qui obtiendrait le quart de travail, et ce, même si son nom figurait en premier sur la liste [104] . M. Dmetrichuk a également expliqué que de nombreux propriétaires et chauffeurs étaient liés, par des liens familiaux ou maritaux, et que ces propriétaires avaient tendance à favoriser les membres de leur famille ou leurs amis [105] .
+[38] Il a ensuite indiqué que les actionnaires et les chauffeurs-locataires pouvaient négocier le tarif de la location du véhicule, et ce, bien que l’appelante établissait un tarif de location standard. Ainsi, le montant de la location pouvait varier selon la relation entretenue avec le propriétaire [106] .
+[39] M. Dmetrichuk a également présenté la transcription d’une conversation enregistrée et survenue entre lui et un gestionnaire en décembre 2017 [107] . La transcription indique que M. Dmetrichuk a conclu une entente avec un propriétaire afin de louer son taxi durant les vacances de ce dernier [108] . On lit ensuite dans la transcription que M. Dmetrichuk essayait de se connecter au système de l’appelante, mais que le gestionnaire ne lui permettait pas de le faire [109] . Selon la transcription, le gestionnaire refusait de donner un motif à M. Dmetrichuk pour justifier son refus de lui permettre de se connecter au système [110] . L’appelante n’a pas fait valoir que la transcription était inexacte à ce sujet; son avocat a indiqué qu’il n’était pas nécessaire d’entendre l’enregistrement [111] .
+Possibilités de bénéfices et risques de pertes
+[40] Outre le fait de pouvoir travailler un quart de travail complet de 12 heures ou d’y mettre fin plus tôt, M. Dmetrichuk a expliqué qu’il y avait peu de choses qu’un chauffeur pouvait faire pour augmenter sa possibilité de bénéfices [112] . Selon lui, les chauffeurs sont essentiellement positionnés dans l’attente d’une course du service de répartition [113] . Il a ensuite expliqué que toutes les courses venaient des postes de stationnement. Donc, si vous voulez augmenter la probabilité d’obtenir une course dans une zone, il vaut mieux se positionner dans ces postes, plutôt que de parcourir la Ville en voiture [114] . M. Dmetrichuk a également affirmé que bien que les chauffeurs puissent prendre les clients qui les hèlent, la Ville de New Westminster est [Traduction] « plutôt tranquille », contrairement à Vancouver, et donc, il n’y a pas véritablement de gens qui sortent des hôtels pour héler un taxi [115] .
+[41] En contre-interrogatoire avec l’avocat de l’intimé, M. Dmetrichuk a témoigné que le revenu d’un chauffeur de taxi au cours d’un quart de travail de 12 heures peut varier grandement. Selon lui, plusieurs éléments sont hors de leur contrôle [116] . Dans son témoignage, il a nommé les facteurs suivants qui peuvent avoir une incidence sur le montant du revenu réalisé durant un quart : le jour ou la nuit mêmes du quart; les conditions météorologiques; vos capacités à négocier la location avec le propriétaire; les connaissances du conducteurs; les capacités d’intelligence autodidacte (« adapté à la rue »); l’attribution par l’ordinateur de bonnes courses; et la chance [117] . Plus particulièrement, le témoin a indiqué que les vendredis et les samedis soirs sont les plus lucratifs, tandis que les autres nuits le sont [traduction] « plus ou moins » [118] .
+[42] Durant le contre-interrogatoire par l’avocat de l’appelante, M. Dmetrichuk a affirmé que lorsqu’il effectuait des remises de TPS lorsqu’il était propriétaire exploitant, mais qu’il n’avait jamais effectué de remise de TPS sur les gains réalisés en tant que chauffeur-locataire [119] . Il affirmé que l’appelante n’a pas fait de déductions sur les chèques remis aux chauffeurs durant la période visée [120] . Le témoin a aussi affirmé n’avoir déduit aucune de ses dépenses dans le calcul de sa déclaration de revenus durant la période visée [121] . M. Dmetrichuk a expliqué qu’il n’a jamais réclamé ses dépenses en carburant, car celles-ci étaient compensées par le revenu en espèces qui n’était pas déclaré [122] .
+[43] Dans l’ensemble, je conclus que le témoignage de M. Dmetrichuk laisse entrevoir que les propriétaires exploitants étaient traités comme des propriétaires, tandis que les chauffeurs-locataires étaient traités comme des employés. M. Dmetrichuk a présenté un exemple de la façon dont les propriétaires exploitants ne respectaient pas l’ordre d’inscription des noms au tableau des chauffeurs suppléants et dont ils pouvaient décider de la personne qui conduirait leur taxi.
+[44] Les propriétaires exploitants avaient également d’importants autres droits et tâches. Par exemple, lorsque l’appelante recevait de nouveaux permis, c’est elle qui attribuerait les nouvelles actions par la suite aux propriétaires exploitants selon la proportion de leurs actions [123] . Comme je l’ai indiqué précédemment, lorsque l’appelante avait besoin de fonds en capital pour moderniser son matériel de répartition, ses rapports financiers ou ses services administratifs, elles lançaient un appel de fonds auprès des propriétaires exploitants. Par ailleurs, comme mentionné précédemment, si le permis d’un propriétaire exploitant était suspendu, il pouvait néanmoins gagner un revenu en louant le véhicule. Compte tenu de l’ensemble des éléments de preuve, il me semble que l’appelante et les propriétaires exploitants avaient constitué une coentreprise afin d’exploiter une entreprise de service de taxi de passagers [124] . Les parties exploitaient l’entreprise ensemble. La majeure partie des bénéfices économiques de la relation de coentreprise revenaient aux propriétaires exploitants. C’est pour cette raison que les propriétaires exploitants sont également responsables du financement de l’entreprise. L’appelante est responsable de la prestation des services énoncés précédemment dans le présent paragraphe. Les chauffeurs-locataires vivent une situation très différente de celles des propriétaires exploitants. L’appelante joue alors un rôle de gestionnaire de la coentreprise.
+[45] M. Dmetrichuk a également expliqué que les propriétaires exploitants n’étaient pas heureux qu’il ait formulé des plaintes et demandé une décision quant à son statut d’emploi, et qu’ils ont pu prendre des mesures pour le congédier. Cette mesure abonde dans le sens de ma conclusion voulant qu’il s’agisse d’une entreprise exploitée comme une coentreprise contractuelle par les propriétaires exploitants, et dont l’appelante est la gestionnaire. Je n’ai aucune raison de douter du témoignage de M. Dmetrichuk quant à ces éléments. Je conclus que M. Dmetrichuk est un témoin crédible et fiable quant aux éléments qu’il a soulevés dans son témoignage. Je remarque également que M. Dmetrichuk a témoigné avoir déclaré son revenu de chauffeur à titre de revenu d’emploi, ce qui n’a été contesté ni par l’avocat de l’intimé ni celui de l’appelante.
+III. Questions en litige
+[46] Les questions soulevées dans les présents appels sont les suivantes :
+1) L’appelant-intervenant était-il employé de l’appelante au sens de la définition reconnue en common law d’un « emploi »?
+2) L’appelant-intervenant occupait-il un poste assurable aux fins de la Loi sur l’assurance-emploi conformément au critère plus large de l’alinéa 6e) du Règlement sur l’assurance-emploi?
+IV. Dispositions législatives applicables
+[47] La première question reposera sur les définitions suivantes d’un « emploi » :
+a) L’alinéa 5(1)a) de la Loi sur l’assurance-emploi, lequel définit un emploi comme suit :
+l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière [125] ;
+b) Le paragraphe 2(1) du RPC prévoit ce qui suit :
+emploi L’état d’employé prévu par un contrat de louage de services ou d’apprentissage, exprès ou tacite, y compris la période d’occupation d’une fonction [126] .
+[48] La deuxième question reposera sur l’alinéa 6e) du Règlement sur l’assurance-emploi. L’article 6 du Règlement sur l’assurance-emploi inclut certains types « d’emplois » au chapitre des emplois assurables. L’alinéa 6e) prévoit précisément l’inclusion des chauffeurs de taxi :
+6 Sont inclus dans les emplois assurables [...] les emplois suivants :
+[...]
+e) l’emploi exercé par une personne à titre de chauffeur de taxi, d’autobus commercial, d’autobus scolaire ou de tout autre véhicule utilisé par une entreprise privée ou publique pour le transport de passagers, si cette personne n’est pas le propriétaire de plus de 50 pour cent du véhicule, ni le propriétaire ou l’exploitant de l’entreprise privée ou l’exploitant de l’entreprise publique [127] .
+V. Analyse
+[49] Comme il est mentionné précédemment, les questions des présents appels portent à savoir 1) si l’appelant-intervenant était à l’emploi de l’appelante au sens de la définition d’un « emploi » dans la common law et 2) si l’appelant-intervenant occupait un emploi assurable aux fins de la Loi de l’assurance-emploi.
+[50] La réponse à la première question sera déterminante pour établir si l’appelant-intervenant occupait un emploi assurable aux fins du Règlement sur l’assurance-emploi. Toutefois, elle ne sera pas nécessaire ment déterminante à l’égard de la deuxième question à savoir si l’appelant-intervenant occupait un emploi assurable aux fins de la Loi sur l’assurance-emploi.
+[51] Par conséquent, je chercherai d’abord à établir si l’appelant-intervenant occupait un emploi pour l’appelante selon les principes de la common law et s’il s’agissait d’un emploi assurable et ouvrant droit à pension au sens de la Loi sur l’assurance-emploi et le RPC, respectivement. Puis, je chercherai à savoir si l’appelant-intervenant a occupé un emploi au sens de l’alinéa 6e) du Règlement sur l’assurance-emploi.
+L’appelant-intervenant était-il employé de l’appelante comme l’entend la common law?
+[52] Il est bien établi dans la jurisprudence que la question centrale pour déterminer si une personne est un employé ou un entrepreneur indépendant porte toujours à savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. La décision Wiebe Door Services Ltd. v. M.N.R. [128] , ensuite confirmée par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc. [129] , fait autorité sur cette question. Le juge Major, s’exprimant au nom de la Cour suprême, a adopté le critère provenant à l’origine de la décision Wiebe Door :
+[...] Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire [130] .
+[53] En plus des facteurs énoncés dans la décision Wiebe Door, on remarque également dans la jurisprudence que les tribunaux examinent de plus en plus souvent l’intention subjective des parties. En outre, dans la décision récente 1392644 Ontario Inc. c. Ministre du Revenu national [131] (Connor Homes), la Cour d’appel fédérale a clarifié le rôle de l’intention subjective des parties aux fins de l’analyse susmentionnée. Le juge Mainville a conclu que l’analyse susmentionnée comportait deux étapes; la première portant sur l’analyse de l’intention subjective de chaque partie, et la deuxième sur l’analyse des faits afin de déterminer si l’intention subjective correspond à la réalité objective [132] . La réalité objective se mesure par rapport aux critères établis par la décision Wiebe Doors, nommément i) le contrôle; ii) la propriété des instruments de travail; iii) les possibilités de bénéfices et les risques de pertes. Il est également important de souligner que l’intention des parties est seulement pertinente dans la mesure où elle transparaît dans les faits de l’affaire. Elle n’est pas déterminante en soi. Comme l’a déclaré le juge Mainville :
+[...] « la situation juridique d’entrepreneur indépendant ou d’employé ne se détermine donc pas seulement sur la base de l’intention déclarée des parties. Cette détermination doit aussi se fonder sur une réalité objective et vérifiable » [133] .
+A. Intention subjective
+[54] Compte tenu du témoignage de l’appelant-intervenant et du fait que l’appelante a versé des cotisations à l’assurance-emploi de 2012 à 2015, je conclus, selon la prépondérance des probabilités, que l’intention commune des parties était de traiter l’appelant-intervenant comme un employé.
+[55] Les intentions de l’appelant-intervenant sont sans équivoque : il était un employé de l’appelante. Les intentions de l’appelante sont moins claires. Par contre, elle n’a offert aucune preuve crédible pour démontrer une intention contraire à celle de l’intervention. Il n’existe aucun contrat écrit entre l’appelante et l’appelant-intervenant pour soutenir une autre intention. De plus, la remise des cotisations à l’assurance-emploi laisse entendre que l’appelant-intervenant était, à l’origine, considéré comme un employé par l’appelante. Comme il a été mentionné précédemment, Mme Singh a expliqué que le paiement des cotisations à l’assurance-emploi était une erreur. Je ne crois pas qu’il ait s’agit d’une erreur. En fait, je comprends plutôt que l’appelante a su comment les autres entreprises de taxi traitent leurs chauffeurs comme des entrepreneurs indépendants, ce qui l’a incitée à décider, unilatéralement, de traiter l’appelant-intervenant comme un entrepreneur indépendant.
+B. Critères de la décision Wiebe Door
+(i) Le contrôle
+[56] Dans l’espèce, l’appelant-intervenant exerçait un certain degré de contrôle quant à la façon dont il assurait la prestation de ses services de chauffeur de taxi. Toutes les parties s’entendent sur le fait que les témoignages établissent ce contrôle. Toutefois, dans les faits, ce contrôle est subordonné au contrôle supérieur de l’appelante. Compte tenu des faits de l’espèce, j’accorderai considérablement de poids au critère du contrôle qui, à mon sens, penche vers la définition d’un employé.
+[57] L’appelante soutient que les chauffeurs-locataires peuvent décider de leur propres horaire et disponibilité. L’appelante et les propriétaires exploitants ne peuvent pas forcer un chauffeur-locataire à prendre un quart de travail en particulier ou à louer une entreprise. Les chauffeurs-locataires peuvent travailler pour d’autres entreprises de taxi (sauf Uber). Ils peuvent négocier le tarif de la location des véhicules, choisir leurs moments de pause, et ils peuvent choisir de compenser leurs dépenses à l’aide des revenus en espèces.
+[58] De plus, bien que l’avocat de l’appelante reconnaisse qu’elle exerce un certain contrôle sur les chauffeurs, l’appelante soutient que ce contrôle découlait principalement, voire entièrement, des exigences juridiques établies par les différents règlements, lois, codes de sécurité, etc.
+[59] Bien que ces faits puissent indiquer que l’appelant-intervenant exerce un certain degré de contrôle, il reste que l’appelante détient le contrôle ultime, comme je l’ai mentionné précédemment. L’appelante est la gardienne du système de répartition et peut réprimander les chauffeurs, appliquer des règles et imposer les sanctions à sa convenance. En l’occurrence, la preuve démontre non seulement que l’appelante a la capacité d’écarter complètement un chauffeur de l’entreprise de taxi, mais qu’elle le fera lorsqu’un chauffeur cherche à obtenir l’établissement de son statut à l’égard de la loi. Comme l’a affirmé l’appelant-intervenant dans son témoignage, même lorsqu’il avait obtenu un véhicule à conduire de la part d’un actionnaire, l’appelante ne lui confiait aucune course lorsqu’il a tenté de se connecter au système de répartition. L’appelante a pu entraver la capacité de l’appelant-intervenant à gagner un revenu, et ce, même s’il avait accès à un taxi. Si ceci n’est pas du contrôle, je ne sais pas ce qu’il le serait.
+[60] De plus, je remarque que les chauffeurs-locataires ne peuvent pas sous-louer le véhicule sans la permission de l’appelante. En plaidoirie, l’appelant-intervenant a expliqué qu’en pratique, l’appelante ne donnait jamais réellement sa permission. En outre, il a soutenu que les taxis étaient plutôt confiés aux chauffeurs-locataires en fiducie. Dès que le chauffeur ne pouvait pas exploiter le taxi, celui-ci retournait à l’appelante. Ceci laisse entendre que le contrôle de l’appelante s’étendait au-delà de la capacité d’un chauffeur-locataire à gagner un revenu par l’offre de services de chauffeur. En effet, elle a une main mise sur la capacité d’un chauffeur-locataire à gagner quelque revenu que ce soit d’un taxi.
+[61] De plus, la Ville de New Westminster n’est pas grande, et on y trouve qu’une seule autre entreprise de taxi, considérablement plus petite que l’appelante. Manifestement, les chauffeurs-locataires sont limités quant aux entreprises de taxi avec qui ils peuvent travailler ou s’associer. Les faits démontrent, dans l’espèce que l’appelante pouvait grandement entraver la capacité de l’appelant-intervenant à conduire un taxi en application d’un permis octroyé à celle-ci. Par ailleurs, l’interdiction de conduire pour Uber imposée à l’appelant-intervenant ainsi qu’à d’autres chauffeurs-locataires est une autre preuve de cette conclusion.
+(ii) La propriété des instruments de travail
+[62] En ce qui a trait à la propriétaire des instruments de travail, je conclus également que ce facteur laisse entendre que l’appelant-intervenant était un employé de l’appelante.
+[63] Tout le matériel nécessaire à l’exploitation de l’entreprise était fourni à l’appelant-intervenant. Les actionnaires fournissaient des véhicules de taxi assurés et conformes aux règlements et aux lois. L’appelante fournissait des machines pour le paiement par carte de crédit, des feuilles de course, ainsi que le système informatique de bord des véhicules permettant l’accès au système de répartition de l’appelante. De plus, bien que les actionnaires étaient les propriétaires des véhicules, ce sont les permis qui sont l’actif le plus précieux dans l’industrie du taxi. Or, c’est l’appelante qui détenait ces derniers. Étant donné la structure de l’industrie du taxi et la réglementation gouvernementale, les permis sont essentiels à l’exploitation d’une telle entreprise. En somme, il est impossible de percer sur le marché du taxi sans détenir de permis.
+[64] Par ailleurs, bien qu’on puisse suggérer que le temps et l’effort du chauffeur de taxi font partie des instruments de travail, je ne suis pas convaincu qu’ils soient suffisants pour faire de l’appelant-intervenant un entrepreneur indépendant. En outre, n’est-ce pas le cas de tout employé de fournir également son temps et son effort pour le compte de l’employeur?
+[65] De façon similaire, l’appelant-intervenant devait obtenir le permis de conduire approprié, un certificat TaxiHost et un permis de chauffeur; or, il aurait dû se munir de ces instruments, qu’il soit employé ou entrepreneur indépendant.
+(iii) La possibilité de profit et le risque de perte
+[66] Je conclus que ces facteurs indiquent plus que les chauffeurs sont plus assimilables à des employés à des entrepreneurs indépendants.
+[67] Les chauffeurs-locataires peuvent augmenter leur profit en augmentant leurs heures de travail ou, peut-être, en négociant un tarif moins élevé pour la location du taxi. Néanmoins, de nombreux facteurs sont hors du contrôle du chauffeur-locataire et ce sont eux qui ont la plus grande incidence sur la capacité des chauffeurs à générer des profits. Par exemple, l’appelant-intervenant a nommé le jour ou la nuit de travail, l’attribution de bonnes courses par l’ordinateur, et la chance comme étant des facteurs influents sur la teneur du revenu gagné. De plus, toujours selon le témoignage de l’appelant, la qualité du quart de travail, voire l’attribution même d’un quart, dépendait du respect de l’ordre, ou non, d’inscription des chauffeurs au tableau des chauffeurs suppléants.
+[68] De plus, comme je l’ai mentionné précédemment, les chauffeurs-locataires n’étaient pas autorisés à sous-louer les taxis, et selon toute vraisemblance, ils n’obtiendraient jamais l’autorisation de l’appelante pour le faire. En conséquence, les chauffeurs-locataires n’ont pas droit au profit généré par le travail de chauffeurs suppléants et le revenu qu’ils peuvent eux-mêmes gagner en conduisant des taxis est limité. En ce qui a trait à l’investissement, l’appelant-intervenant n’était propriétaire d’aucune action de l’appelante ou des véhicules.
+[69] Naturellement, l’entreprise de taxi est structurée de façon à ce que les actionnaires soient plus en mesure d’organiser leurs affaires afin de maximiser leurs profits. Les actionnaires peuvent conduire les taxis par eux-mêmes, et ils ne sont pas laissés à la merci du tableau des chauffeurs suppléants. De plus, ils peuvent soit louer leur véhicule directement, soit utiliser le système du tableau des chauffeurs suppléants. La combinaison de ces options permet aux actionnaires de continuellement à générer des profits de l’entreprise de taxis. Ils peuvent également bénéficier de la vente de leurs actions, lesquelles, selon la preuve, se bonifient suivant un taux de 4 % par année.
+[70] En ce qui a trait aux pertes, les chauffeurs-locataires risquent peu de subir des pertes, et leurs dépenses se limitent au paiement de la location, au carburant, aux contraventions et aux primes d’assurance.
+C. Conclusion quant aux critères énoncés dans la décision Wiebe Door
+[71] Dans l’ensemble, je conclus que l’intention subjective et les critères énoncés dans la décision Wiebe Door démontrent que l’appelant-intervenant était un employé de l’appelante. En conséquence, je conclus que l’appelant-intervenant occupait un emploi assurable et ouvrant droit à pension aux fins du RPC et de la Loi de l’assurance-emploi.
+[72] Cette conclusion suffit pour régler tous les appels. Toutefois, advenant que je me trompe que l’appelant-intervenant ne soit pas un employé en application du critère de la common law, je conclus néanmoins, pour les motifs qui suivent, que l’appelant-intervenant est réputé avoir occupé un employé assurable en application de l’alinéa 6e) du Règlement sur l’assurance-emploi.
+L’appelant-intervenant a-t-il occupé un emploi assurable en application de l’alinéa 6e) du Règlement sur l’assurance-emploi?
+[73] Selon l’alinéa 6e) du Règlement sur l’assurance-emploi, une personne employée à titre de chauffeur de taxi est exclue de la définition d’un emploi assurable si elle réunit les facteurs suivants :
+a) elle est propriétaire de plus de 50 pour cent du véhicule;
+b) elle est propriétaire de l’entreprise ou l’exploite;
+c) elle exploite une entreprise publique.
+[74] Dans l’espèce, la question portera entièrement sur la deuxième exception. Les parties s’entendent sur le fait que l’appelant-intervenant n’était ni propriétaire de plus de 50 pour cent d’un véhicule ni l’exploitant d’une entreprise publique.
+[75] L’arrêt de principe sur cette question est la décision Yellow Cab Company Ltd. c. Ministre du Revenu national [134] de la Cour d’appel fédérale. Je soulignerais les motifs dissidents rédigés par le juge Malone dans la décision Yellow Cab. La doctrine du stare decisis exige que j’applique les décisions rendues par des tribunaux supérieurs, et ce, qu’il y ait eu dissidence ou non. Toutefois, je remarque également que depuis la décision Yellow Cab, il semble y avoir eu des divergences dans les décisions de notre Cour quant à la définition d’un emploi assurable dans le contexte de l’industrie du taxi.
+[76] Par exemple, la juge Woods, dans la décision 1022239 Ontario Inc. c. Ministre du Revenu national [135] , a restreint les principes de la décision Yellow Cab aux dossiers ayant des faits similaires. Par conséquent, selon sa démarche, l’appelant-intervenant de l’espèce pourrait satisfaire à la définition de l’alinéa 6e) du Règlement sur l’assurance-emploi, sans être un employé au sens du critère de la common law.
+[77] Dans la décision 1022239 Ontario Inc., la juge Woods a marqué une distinction par rapport à la décision Yellow Cab au motif que l’entreprise dans cette dernière ne partageait aucun des revenus générés par les chauffeurs [136] . Bien que cette différence soit, en elle-même, suffisante pour établir une distinction entre les décisions 1022239 Ontario Inc. et Yellow Cab, la juge Woods a également précisé que les faits suivants démontraient que la relation était plus qu’une relation entre un locataire et un locateur : l’entreprise gagnait 70 pour cent du tarif des courses, entretenait les véhicules, payait le carburant, et détenait sa propre clientèle, laquelle représentait 40 pour cent de ses affaires [137] .
+[78] À l’instar de la décision 1022239 Ontario Inc., dans l’espèce, certaines différences permettraient de la distinguer de la décision Yellow Cab. Plus particulièrement, contrairement à la décision Yellow Cab, les chauffeurs-locataires ne sont pas « titulaires de droits dans les taxis dans la mesure où ils ont le droit de les utiliser [et d’en tirer des profits] à l’exclusion de quiconque » [138] . Dans l’espèce, l’appelante jouissait également d’un contrôle considérable sur l’appelant-intervenant dans le contexte du marché du taxi dans la Ville de New Westminster. Elle a pris des mesures pour limiter la capacité de l’appelant-intervenant à conduire des taxis dans cette ville pour le punir d’avoir cherché à obtenir une décision à l’égard du statut juridique de son emploi. Elle lui a également interdit de travailler pour Uber. À mon sens, ces facteurs sont suffisants pour distinguer l’espèce de la décision Yellow Case.
+[79] Dans une décision très récente, Beach Place Ventures Ltd. c. La Reine [139] , le juge Bocock semble avoir suivi plus rigoureusement les principes de la décision Yellow Cab. En effet, dans la décision Beach Place Ventures, le juge Bocock semble conclure, suivant l’analyse du juge Sexton, que si une personne ne satisfait pas au critère de la common law, alors celle-ci est un entrepreneur indépendant, et, par conséquent, exploite une entreprise dont le revenu doit être exclu en application du Règlement sur l’assurance-emploi. Par conséquent, selon cette démarche à l’égard de la décision Yellow Cab, l’appelant-intervenant de l’espèce serait exclu de la définition de l’alinéa 6e) du Règlement sur l’assurance-emploi, s’il était un entrepreneur indépendant en application du critère de la common law.
+[80] À mon humble avis, cette interprétation de la décision Yellow Cab contrevient à la raison d’être de l’alinéa 6e), particulièrement si l’on tient compte de la façon dont l’industrie du transport, et particulièrement du taxi, évolue et fonctionne en Colombie-Britannique. Les entreprises de taxi ne semblent pas fonctionner selon les structures d’emploi traditionnelles; or, elles continuent de garder un degré de contrôle élevé sur leurs chauffeurs. En conséquence, si l’on procède à une interprétation plus rigide de la décision Yellow Cab, la disposition ne pourrait plus produire l’effet voulu, soit d’offrir une certaine sécurité aux chauffeurs de taxi. Ainsi, une interprétation plus rigide de la règle revient à la rendre lettre morte. Je crois que c’est ce qu’a voulu dire le juge Malone, dissident, lorsqu’il a conclu :
+[...] j’estime que l’application des facteurs énoncés dans l’arrêt Sagaz n’est pas appropriée. Une telle application à la définition de « exploitant d’une entreprise » aurait pour effet de neutraliser l’alinéa 6e), de manière à refuser de verser des prestations aux chauffeurs de taxi qui ressemblent à des entrepreneurs indépendants, la situation même que l’alinéa 6e) était destiné à corriger [140] .
+[81] De façon similaire, je crois que c’est face à cette situation que s’est retrouvée la juge Woods lorsqu’elle a rédigé sa décision et a indiqué qu’une interprétation trop large de Yellow Cab reviendrait à priver des gens de prestations d’assurance-emploi, contrairement à l’intention de la loi [141] .
+[82] En l’espèce, je souscris aux conclusions de la juge Woods. Je conclus que les faits de l’espèce ont suffisamment différents des faits de la décision Yellow Cab et, par conséquent, je conclus que l’appelant-intervenant a occupé un emploi assurable conformément à l’alinéa 6e) du Règlement sur l’assurance-emploi.
+[83] Ceci dit, j’aimerais formuler les remarques suivantes.
+[84] À mon sens, la Cour suprême du Canada a formulé des commentaires et des directives voulant que le Règlement sur l’assurance-emploi ait pour objectif d’avoir une portée plus large que le critère de la common law, de sorte qu’une personne puisse être exclue en suivant ce dernier, tout en étant un employé assurable en application du Règlement sur l’assurance-emploi. Les règles des agences de placement jouent un rôle semblable. Un travailleur affecté au service d’un employeur par une agence de placement demeure un employé de ladite agence, et ce, bien que le contrôle soit exercé par le client de l’agence [142] .
+[85] La Cour suprême du Canada, dans l’arrêt Martin Service Station c. Ministre du Revenu national, [143] a reconnu que les gens pouvaient, sans égard à leur statut d’employé ou d’entrepreneur indépendant, être privés d’un emploi pour des raisons qui sont hors de leur contrôle. Le juge Beetz a même été jusqu’à dire « [c]’est principalement dans le but de protéger [les travailleurs autonomes] du risque de manquer de travail et d’être contraints à l’inactivité que la portée de la législation a été élargie » [144] . Ainsi, le risque de manquer de travail est assurable, de l’avis de la Cour suprême [145] .
+[86] De plus, quant au libellé de l’alinéa 6e) du Règlement sur l’assurance-emploi, la Cour d’appel fédérale a décidé dans Canada c. Skyline Cabs (1982) Ltd. [146] que bien que la première lecture de l’alinéa 12e) du Règlement sur l’assurance-chômage (désormais l’alinéa 6e) du Règlement sur l’assurance-emploi), et particulièrement le mot « emploi », laisse entrevoir que la personne doive avoir le statut employé, il s’agirait là d’une interprétation inadéquate. La Cour d’appel fédéral a déclaré de manière unanime que le mot « emploi » ne devait pas être interprété au sens plus étroit d’un contrat de service, mais plutôt au sens plus large d’une « activité » ou d’une « occupation » [147] . Cette interprétation correspond à celle de la Cour suprême du Canada dans l’arrêt Martin Service Station, et démontre que la disposition visait à aller au-delà de la seule existence d’une relation d’emploi.
+[87] Ainsi, si l’on fait une lecture de l’alinéa 6e) du Règlement sur l’assurance-emploi suivant les arrêts susmentionnés de la Cour suprême du Canada et de la Cour d’appel fédérale, je conclurais que l’appelant-intervenant satisfait à tous les critères de l’alinéa 6e) pour les motifs suivants :
+(i) « l’emploi exercé par une personne à titre de chauffeur de taxi [...] » Il est clair que l’appelant-intervenant satisfait à cette condition, car son activité consiste à conduire un taxi;
+(ii) « [...] véhicule utilisé par une entreprise [...] » Bien que l’avocat de l’appelante soutienne que sa cliente fournit des services administratifs et de répartition pour les services de taxi, Mme Singh a reconnu en contre-interrogatoire que l’appelante était une entreprise de transport. Par conséquent, l’appelante a admis, dans une certaine mesure, que les taxis occupaient une partie de cette entreprise.
+(iii) « [...] pour le transport de passagers [...] » Encore une fois, il est clair que le taxi sert au transport de passagers, et
+(iv) « [...] si cette personne n’est pas [...] le propriétaire ou l’exploitant de l’entreprise [...] » J’interprète le mot « entreprise » comme signifiant la même entreprise que la première, et non une entreprise différente. Il s’agit de l’entreprise de l’appelante. L’appelant-intervenant n’est ni un propriétaire ni un exploitant de l’entreprise de l’appelante. Par conséquent, il satisfait au critère de l’exception.
+[88] Je suis d’avis, avec tout respect, qu’il serait peut-être judicieux qu’un tribunal supérieur examine de nouveau la question de l’interaction entre la définition d’un emploi assurable en application du Règlement sur l’assurance-emploi et d’un emploi selon le critère de la common law. Comme je l’ai mentionné précédemment, la décision Yellow Cab ne porte pas sur la question à savoir si l’arrangement convenu entre les propriétaires exploitants et la société peut être qualifié de coentreprise. À ce titre, la société devrait être tenue de payer les cotisations à l’assurance-emploi et au RPC.
+[89] À mon sens, il pourrait être nécessaire que la Cour d’appel fédérale clarifie le tout, étant donné les changements survenus dans l’industrie du taxi et du covoiturage. Toutefois, je remarque également que la décision Yellow Cab précède la décision Connor Homes de cette même Cour. Le critère de la common law a également évolué, ce qui pourrait avoir une incidence sur le poids de la décision Yellow Cab. De plus, l’espèce portant à la fois sur le RPC et la Loi sur l’assurance-emploi, je crois qu’il pourrait donner à la Cour d’appel fédérale l’occasion de comparer les principes, les facteurs et les critères applicables eu égard à ces deux lois et, ultimement, d’émettre des directives pour les tribunaux inférieurs.
+D. Conclusion
+[90] Pour tous ces motifs, l’appel de l’appelante est rejeté et l’appel de l’appelant-intervenant est accueilli. Par conséquent, je conclus que l’appelant-intervenant occupait un emploi assurable ouvrant droit à pension en application du Régime des pensions du Canada et de la Loi sur l’assurance-emploi tout au long de la période visée.
+Signé à Ottawa, Canada, ce 6e jour de mai 2019.
+« Robert J. Hogan »
+Le juge Hogan
+RÉFÉRENCE :
+2019 CCI 105
+NOS DES DOSSIERS DE LA COUR :
+2018-2349(EI)
+2018-455(CPP)
+2018-3167(EI)
+INTITULÉ :
+ROYAL CITY TAXI LTD. ET DARCY G. DMETRICHUK C. LE MINISTRE DU REVENU NATIONAL ET DARCY G. DMETRICHUK
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 4 février 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 6 mai 2019
+COMPARUTIONS :
+Avocat de l’appelante Royal City Taxi Ltd.
+Me Nazeer Mitha, c.r.
+Pour l’appelant et intervenant Darcy G. Dmetrichuk
+Darcy G. Dmetrichuk lui-même
+Avocate de l’intimé
+Me Katherine Shelley
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Nazeer Mitha, c.r.
+Cabinet :
+Harris & Company LLP
+Pour l’intimé :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. C-8 (RPC).
+[2] L.R.C. 1996, ch. 23 (LAE).
+[3] DORS/96-332 (Règlement sur l’assurance-emploi).
+[4] Transcription, page 11.
+[5] Transcription, page 12.
+[6] Transcription, page 12.
+[7] Transcription, pages 56 et 57.
+[8] Transcription, pages 10, 13 et 60.
+[9] Transcription, pages 10 et 11.
+[10] Transcription, page 12.
+[11] Transcription, pages 13, 19 et 20.
+[12] Transcription, pages 14 et 15.
+[13] Transcription, page 14.
+[14] Transcription, pages 18, 34, 69 et 70.
+[15] Transcription, page 19.
+[16] Transcription, pages 46 et 48.
+[17] Transcription, pages 46 et 48.
+[18] Transcription, pages 15, 34 et 35.
+[19] Transcription, pages 68 et 70.
+[20] Transcription, page 95.
+[21] Transcription, pages 28 et 29.
+[22] Transcription, pages 20 et 21 : pièce A-1, règlements sur les véhicules commerciaux de la Ville de New Westminster; article 7742, 2015; article 7777, 2016 et annexe C suivante.
+[23] Transcription, page 29.
+[24] Transcription, page 25 : pièce A-1, règlements sur les véhicules commerciaux de la Ville de New Westminster; article 7742, 2015.
+[25] Transcription, page 25 : pièce A-1, règlements sur les véhicules commerciaux de la Ville de New Westminster; article 7742, 2015.
+[26] Transcription, page 26 : pièce A-1, règlements sur les véhicules commerciaux de la Ville de New Westminster; article 7742, 2015.
+[27] Transcription, pages 26 et 27 : pièce A-1, règlements sur les véhicules commerciaux de la Ville de New Westminster; article 7742, 2015.
+[28] Transcription, page 27 : pièce A-1, règlements sur les véhicules commerciaux de la Ville de New Westminster; article 7742, 2015.
+[29] Transcription, page 27 : pièce A-1, règlements sur les véhicules commerciaux de la Ville de New Westminster; article 7742, 2015.
+[30] Transcription, page 28 : pièce A-1, règlements sur les véhicules commerciaux de la Ville de New Westminster; article 7742, 2015.
+[31] Transcription, pages 15 à 17.
+[32] Transcription, pages 15 et 16.
+[33] Transcription, pages 16 et 17.
+[34] Transcription, pages 16 et 17.
+[35] Transcription, page 36.
+[36] Transcription, pages 17.
+[37] Transcription, page 36, 41.
+[38] Transcription, page 40.
+[39] Transcription, pages 35 et 36.
+[40] Transcription, page 155.
+[41] Transcription, pages 27.
+[42] Transcription, pages 35 et 36.
+[43] Transcription, pages 43, 47, 48.
+[44] Transcription, page 37.
+[45] Transcription, page 38.
+[46] Transcription, page 38.
+[47] Transcription, page 38.
+[48] Transcription, page 39.
+[49] Transcription, pages 98 et 99.
+[50] Transcription, page 44.
+[51] Transcription, page 39.
+[52] Transcription, pages 39, 46 à 48.
+[53] Transcription, pages 41 et 42.
+[54] Transcription, page 31.
+[55] Transcription, pages 44 et 45.
+[56] Transcription, page 77.
+[57] Transcription, pages 72 à 75.
+[58] Transcription, page 45.
+[59] Transcription, page 45.
+[60] Transcription, page 44.
+[61] Transcription, pages 30 et 31, 68, 92.
+[62] Transcription, pages 30 et 31.
+[63] Transcription, page 34.
+[64] Transcription, page 31.
+[65] Transcription, page 32.
+[66] Transcription, page 50.
+[67] Transcription, page 52.
+[68] Transcription, page 52.
+[69] Transcription, page 52.
+[70] Transcription, page 61.
+[71] Transcription, pages 61 et 62.
+[72] Transcription, page 84.
+[73] Transcription, pages 84 et 85.
+[74] Transcription, page 62.
+[75] Transcription, page 117.
+[76] Transcription, page 117.
+[77] Transcription, pages 158 et 159.
+[78] Transcription, pages 122 et 123.
+[79] Transcription, page 123.
+[80] Transcription, pages 124 et 125.
+[81] Transcription, page 124.
+[82] Transcription, pages 125 et 126.
+[83] Transcription, pages 126 et 127.
+[84] Transcription, pages 127 et 128.
+[85] Transcription, page 133.
+[86] Transcription, pages 133 et 134.
+[87] Transcription, pages 130 et 131, pièce I-3, document identifié « C p. 1 ».
+[88] Transcription, page 130, pièce I-3, document identifié « C p. 1 ».
+[89] Transcription, page 132.
+[90] Transcription, pages 129 et 130.
+[91] Transcription, pages 131 et 132, 134.
+[92] Transcription, page 135.
+[93] Transcription, pages 130, 135 et 136.
+[94] Transcription, pages 135 et 136.
+[95] Transcription, pages 128, 135 et 136, pièce I-2, document identifié « D p. 8 ».
+[96] Transcription, page 129.
+[97] Transcription, page 136.
+[98] Transcription, page 136.
+[99] Transcription, page 136.
+[100] Transcription, page 141.
+[101] Transcription, page 146.
+[102] Transcription, page 146.
+[103] Transcription, page 127.
+[104] Transcription, page 127.
+[105] Transcription, page 127.
+[106] Transcription, pages 142 et 143.
+[107] Transcription, page 121, pièce I-2, document identifié « D p. 7 ».
+[108] Pièce I-2, document identifié « D p. 7 ».
+[109] Pièce I-2, document identifié « D p. 7 ».
+[110] Pièce I-2, document identifié « D p. 7 ».
+[111] Transcription, pages 216 à 218.
+[112] Transcription, pages 144 et 145.
+[113] Transcription, pages 144 et 145.
+[114] Transcription, page 145.
+[115] Transcription, pages 146 à 163.
+[116] Transcription, pages 172 et 173.
+[117] Transcription, pages 172 et 173.
+[118] Transcription, page 126.
+[119] Transcription, pages 166 et 167.
+[120] Transcription, page 167.
+[121] Transcription, pages 169 et 170.
+[122] Transcription, pages 168 et 169.
+[123] Transcription, pages 58 et 59.
+[124] Voir Robert Yalden et al., Business Organizations : Practice, Theory and Emerging Challenges, 2e éd., 2018, Edmon, Toronto à la page 30 : [traduction] en général, une coentreprise décrit la relation qui existe entre des personnes qui acceptent de combiner leurs aptitudes, leurs biens, leurs fonds, leur temps, leurs ressources, leurs connaissances ou leur expérience afin d’atteindre un objectif commun. En règle générale, chaque membre d’une coentreprise détient un certain degré de contrôle sur la gestion de l’activité commune et accepte de participer aux profits et aux pertes issus de l’activité.
+Voir également Barry J. Reiter et Melanie A Shishler, Joint Ventures, Legal and Business Perspectives, 1999, Irwin Law, Toronto aux pages 9 et 81 : [Traduction] l’autre estime qu’il existe trois mécanismes permettant à des entités distinctes d’utiliser leurs actifs et leur savoir-faire dans le cadre d’une coentreprise : 1) une société en coentreprise, où l’on constitue une société distincte aux fins de la coentreprise; 2) un partenariat en coentreprise, soit un partenariat entre les participants à la coentreprise; et iii) la coentreprise contractuelle, où les parties procèdent à une coentreprise conformément aux modalités énoncées dans une entente. Les auteurs observent également qu’en raison de l’envergure des obligations réglementaires et des questions fiscales associées aux partenariats traditionnels et aux sociétés, les coentrepreneurs éventuels choisissent souvent d’adapter leur propre mécanisme légal sous la forme d’une coentreprise contractuelle. La coentreprise contractuelle permet ainsi de former une association non incorporée plus souple, contrairement à un partenariat en coentreprise ou à une société en coentreprise, sans toutefois créer une entité distincte sur le plan juridique. L’appelante n’a pas remis un exemplaire de la convention des actionnaires des propriétaires exploitants; néanmoins, je comprends que cette convention stipule les modalités de la coentreprise contractuelle.
+[125] Loi sur l’assurance-emploi, alinéa 5(1)a).
+[126] RPC, paragraphe 2(1).
+[127] Règlement sur l’assurance-emploi, alinéa 6e).
+[128] [1986] 3 C.F. 553, [1986] A.C.F. no 1052; 1986 CarswellNat 366 (Wiebe Door).
+[129] 2001 CSC 59, [2001] 2 R.C.S. 983 (Sagaz).
+[130] Ibid., aux paragraphes 47 et 48.
+[131] 2013 CAF 85 (Connor Homes).
+[132] Ibid., aux paragraphes 39 et 40.
+[133] Ibid., au paragraphe 37.
+[134] 2002 CAF 294 (Yellow Cab).
+[135] 2004 CCI 615 (1022239 Ontario Inc.)
+[136] Ibid., au paragraphe 16.
+[137] Ibid., au paragraphe 17.
+[138] Yellow Cab au paragraphe 26.
+[139] 2019 CCI 24 (Beach Place Ventures).
+[140] Yellow Cab, motifs de la dissidence au paragraphe 79.
+[141] 1022239 Ontario Inc. au paragraphe 18.
+[142] Voir par exemple : European Staffing Inc. c. Ministre du Revenu national, 2019 CCI 59, paragraphes 34(1) et (2) du Règlement sur le Régime de pensions du Canada et l’alinéa 6g) du Règlement sur l’assurance-emploi.
+[143] [1977] 2 R.C.S. 996 (Martin Service Station).
+[144] Ibid., à la page 1004.
+[145] Ibid.
+[146] (1986), 70 NR 210.
+[147] Ibid., au paragraphe 5.

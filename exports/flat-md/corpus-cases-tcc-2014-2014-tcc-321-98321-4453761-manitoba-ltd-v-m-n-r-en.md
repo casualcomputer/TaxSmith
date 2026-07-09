@@ -1,0 +1,212 @@
+---
+title: "4453761 Manitoba Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/98321/index.do"
+last_modified: "2014-10-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 321"
+citation2: ""
+neutral_citation: "2014 TCC 321"
+decision_date: "2014-10-28"
+language: "en"
+item_id: "98321"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5256
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:29:53.713000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8d52969d8eacf4343cf3a93b3b1ebe26bdd864a03233169ee48d18fb68c73af4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 4453761 Manitoba Ltd. v. M.N.R.
+
+- Citation: 2014 TCC 321
+- Decision date: 2014-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5256, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+4453761 Manitoba Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-10-28
+Neutral citation
+2014 TCC 321
+File numbers
+2013-3150(EI)
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2013-3150(EI)
+2013-3151(CPP)
+BETWEEN:
+4453761 MANITOBA LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on October 10, 2014, at Winnipeg, Manitoba
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Kenneth Zaifman
+Counsel for the Respondent:
+Neil Goodridge
+AMENDED ORDER
+UPON preliminary motion made by the Respondent at the outset of the hearing for an Order quashing the Appellants’ appeals on the basis that this Court does not have jurisdiction under subsection 103(1) of the Employment Insurance Act (S.C. 1996, c. 23) and subsection 28(1) of the Canada Pension Plan, (R.S.C., 1985, c. C-8) to hear the appeals;
+AND UPON reading the materials filed, hearing testimony and receiving submissions and argument tendered by the parties;
+NOW THEREFORE THIS COURT ORDERS THAT:
+1. the motion is granted on the basis that the Court lacks jurisdiction to hear the appeals because notices of appeal were not been filed within the prescribed times; and,
+2. the appeals are quashed pursuant to and in accordance with the reasons for order attached.
+Signed at Vancouver, British Columbia this 31st day of October 2014.
+“R.S. Bocock”
+Bocock J.
+Citation: 2014 TCC 321
+Date: 20141031
+Docket: 2013-3150(EI)
+BETWEEN:
+4453761 MANITOBA LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2013-3151(CPP)
+AND BETWEEN:
+4453761 MANITOBA LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+AMENDED REASONS FOR ORDER
+Bocock J.
+I. Introduction 3. The present appeals are brought by 4453761 Manitoba Ltd. (“445”) against the Minister’s decision that 445 and one, Gary Robinson, (the “Worker”) were in an employer/employee or contract of service relationship for the period October 1, 2009 to September 30, 2010 (the “Period”). The Worker provided certain daily services to 445 as an “off-site” superintendent of sorts for a residential apartment building (the “Building”). A written agreement purported to provide the subjective intention of the parties regarding their relationship. The parties’ dealings provide the practical objective reality against which the agreement is to be measured: 1392644 Ontario Inc. o/a Connor Homes v the Minister of National Revenue, 2013 FCA 85 at paragraphs 39 and 40.
+II. Preliminary Jurisdictional Issue 4. Before the Court can turn its attention to that analysis, it is required to decide a jurisdictional issue concerning whether the Appellant filed its appeals of the Minister’s decision in compliance with the requisite appeal period mandated under the Employment Insurance Act, SC 1996, c 23 (the “EI Act”) and Canada Pension Plan (R.S.C., 1985, c. C-8) (“CPP”). The Respondent brings this motion to quash the appeals on the basis that the Court did not have jurisdiction to hear the appeals because they were not timely filed.
+(a) Statutory References 5. Statutorily, the relevant legislation provides as follows:
+a) as to the EI Act,
+Appeal to the Tax Court of Canada
+103. (1) The Commission or a person affected by a decision on an appeal to the Minister under section 91 or 92 may appeal from the decision to the Tax Court of Canada in accordance with the Tax Court of Canada Act and the applicable rules of court made thereunder within 90 days after the decision is communicated to the Commission or the person, or within such longer time as the Court allows on application made to it within 90 days after the expiration of those 90 days.
+Communication of decision
+(2) The determination of the time at which a decision on an appeal to the Minister under section 91 or 92 is communicated to the Commission or to a person shall be made in accordance with the rule, if any, made under paragraph 20(1.1)(h.1) of the Tax Court of Canada Act.
+Notification of appeal
+93. (1) The Minister shall notify any person who may be affected by an appeal of the Minister’s intention to decide the appeal, including the Commission in the case of an appeal of a ruling, and shall give them an opportunity to provide information and to make representations to protect their interests, as the circumstances require.
+[…]
+Notification
+(4) If the Minister is required to notify a person who may be or is affected by an appeal, the Minister may have the person notified in such manner as the Minister considers adequate.
+;
+b) as to the CPP,
+Notification of appeal
+27.2 […]
+(3) The Minister shall decide the appeal within a reasonable time after receiving it and shall notify the affected persons of the decision in any manner that the Minister considers adequate.
+Appeal to Tax Court of Canada
+28. (1) A person affected by a decision on an appeal to the Minister under section 27 or 27.1, or the person’s representative, may, within 90 days after the decision is communicated to the person, or within any longer time that the Tax Court of Canada on application made to it within 90 days after the expiration of those 90 days allows, appeal from the decision to that Court in accordance with the Tax Court of Canada Act and the applicable rules of court made thereunder.
+(1.1) The determination of the time at which a decision on an appeal to the Minister under section 27 or 27.1 is communicated to a person shall be made in accordance with the rule, if any, made under paragraph 20(1.1)(h.1) of the Tax Court of Canada Act.
+; and,
+c) as to the Tax Court of Canada Act and Rules of the Tax Court of Canada (the “Rules”),
+Rules
+20. (1) […]
+(1.1) […]
+(h.1) prescribing, for the purposes of subsection 28(1) of the Canada Pension Plan or subsection 103(1) of the Employment Insurance Act, when a determination or a decision on an appeal to the Minister of National Revenue under section 27 of the Canada Pension Plan or section 93 of the Employment Insurance Act, as the case may be, is communicated to a person;
+FILING A NOTICE OF APPEAL
+5. (1) An appeal by an appellant from a decision on an appeal to the Minister shall be instituted within the time period set out in subsection 103(1) of the Act, which is 90 days after the decision is communicated to the appellant, or within such longer time as the Court may allow on application made to it within 90 days after the expiration of those 90 days.
+(2) Where a decision referred to in subsection (1) is communicated by mail, the date of communication is the date it is mailed and, in the absence of evidence to the contrary, the date of mailing is the date specified on the decision.
+General
+27. […]
+(3) The Court may, where and as necessary in the interests of justice, dispense with compliance with any rule at any time.
+FILING A NOTICE OF APPEAL
+5. (1) An appeal by an appellant from a ruling or a decision made by, or a decision on an appeal to, the Minister shall be instituted within the time period set out in subsection 28(1) of the Act, which is 90 days after the ruling or decision is communicated to the appellant, or within any longer time that the Court on application made to it within 90 days after the expiration of those 90 days allows.
+(2) Where a ruling or decision referred to in subsection (1) is communicated by mail, the date of communication is the date it is mailed and, in the absence of evidence to the contrary, the date of mailing is that date specified on the ruling or decision.
+General
+27. […]
+(3) The Court may, where and as necessary in the interests of justice, dispense with compliance with any rule at any time.
+(b) Facts 6. 445 is related to several other companies which also own and operate residential apartment buildings in the city of Winnipeg. On February 27, 2012, in reply to 445’s administrative objection to the Minister’s initial ruling regarding a contract of service or an employee/employer relationship, the Minister purportedly provided notice of the decision by sending it by pre-paid first class mail to 445’s address maintained on file. The CRA’s file copy of the letter adduced at the hearing correctly showed 445’s address. The rulings officer at the time, Ms. Yu, testified at the hearing as to the four step standard process involved in the mailing of such notices: signing, dating and copying; delivery to out-going mail collection area; stamping and postage application and delivery to Canada Post pick-up bins where the outgoing mail is retrieved by Canada Post. It was a signed copy of the actual decision letter which was retained in the CRA file and produced at the hearing.
+7. Notwithstanding this elaborate procedure, 445 has no record of receiving the original decision letter dated February 27, 2012 (the “445 Decision Letter”). With respect to a related company, 3588883 Manitoba Ltd. (“358”), a similar decision letter was mailed by Canada Revenue Agency (“CRA”) on March 12, 2012 (the “358 Decision Letter”). The Appellant contends it also never arrived. When collection proceedings commenced almost a year later against 358, a representative of 358 contacted Ms. Yu to indicate no decision notification letter was received. Utilizing standard procedure, Ms. Yu reviewed the file copy of the 358 Decision Letter and determined that it contained an incorrect address: the postal code was wrong. The Minister utilized her discretion and, because of the incorrect address, reissued a then currently updated decision notification letter to 358 to its corrected address. Upon receipt, 358 appealed that decision.
+8. When a similar inquiry was made in May of 2013 regarding 445, CRA again reviewed the file and the copy of the 445 Decision Letter. It contained no address errors. However, CRA re-sent the file copy of the original 445 Decision Letter with a covering letter enclosing and identifying the February 27, 2012 letter. The 445 Decision Letter, unlike that of 358, was not updated with respect to the Appellant. The Respondent’s motion to quash the appeal is brought on the basis of the Court’s lack of jurisdiction given the plain wording of the various legislation cited above, the Rules of this Court and the relevant case law concerning the deemed receipt by a taxpayer of notification letters when such letters are mailed by the CRA.
+(c) Authorities 9. The leading authority, although decided on historically analogous statutory provisions, is Canada v Vaillancourt, 1992 CarswellNat 1115. In overturning a decision of this Court, Marceau J.A. said at paragraph 3 of Vaillancourt:
+The Attorney General’s first argument was that the trial judge exceeded his jurisdiction by ruling on the merits of the appeals, as these appeals were brought after the deadline allowed for the purpose by s. 70(1) of the Act had expired. We consider that this argument is conclusive. The judge had no choice but to allow the applications to dismiss made by the Minister. This Court has held, inter alia in Attorney General of Canada v. Denyse Blais (1986), 64 N.R. 378 (F.C.A.), that a deadline like the one in s. 70(1) is a strict deadline and any proceeding begun after it has expired can only be struck out, unless an extension has previously been granted.
+10. This line of authority ends with the Federal Court of Appeal in the Minister of National Revenue v Quinton, 2011 FCA 195 where Sexton J.A. on behalf of the Court, stated:
+Although we have some sympathy with the Respondent and therefore understand the motive of the learned Tax Court Judge, we are bound by the legislation to disagree with his results.
+Section 70(1) in combination with Rule 5(2) does not permit any appeal beyond the expiration of 90 days from the date of mailing of the determination letter or such longer time as the Tax Court may allow upon application made to it within the 90 days. No such application was made in the present case.
+As long as the determination letter is mailed to the correct address, […]
+(d) The Parties’ Positions 11. In reply to the above-noted legal authorities cited by the Respondent and although not providing any authority of his own, 445’s counsel suggested:
+a) the combined effect of non-delivery of the 445 Decision Letter and the “deemed receipt” of same raises a general unfairness argument because the combination prevents 445 an opportunity to reasonably dispute delivery; and,
+b) the May 20th, 2013 covering letter sent with a copy of the 445 Decision Letter constitutes a sufficiently vague non-response and therefore it reasonably constitutes a republication and updating of the 445 Decision Letter in respect of which this appeal was filed;
+c) it is unfair that no justification in the May 20, 2013 covering letter is given in the absence of proof of receipt where such a laborious and antiquated mode of delivery is chosen, such as regular mail; and,
+d) in any case, subsection 27(3) of the Rules ought to apply and allow this Court, on the basis of fairness and the Court’s own inherent jurisdiction to govern its own process, to conclude that the 445 Decision Letter was never sent.
+12. In reply, the Respondent noted the case of Lebron v Minister of National Revenue, 2005 TCC 648 and specifically referenced paragraphs 22 and 25 to 28 in respect of Rule 27(3) which provide:
+[22] For instance, it has been argued that form should not prevail over substance. Subsection 27(3) of the Tax Court of Canada Rules of Procedure respecting the Employment Insurance Act, SOR/60-690, was argued, unsuccessfully, in Letemplier v. Canada (Minister of National Revenue - M.N.R.), [1995] T.C.J. No. 1709 (QL). InPye v. Canada (Minister of National Revenue - M.N.R.), [1995] T.C.J. No. 1248 (QL), paragraph 3, Taylor J. said:
+There may be circumstances under which Section 27(3) of the Tax Court Act Rules (above) could be used to provide certain relief, but I am not persuaded that this simple application - and the lack of regular compliance with the 90 day limitation is one of those. Even if there existed substantial evidence of a real attempt to file by the Applicant - and it was not demonstrated in Court - that would not be of value in overcoming the time limit under Section 70(1) of the Act.
+[…]
+[25] Where a time is stated or defined in a statute, each day is counted: Horowitz v. M.N.R., 62 DTC 1038; Lamarre v. Canada (Minister of National revenue - M.N.R.), [1997] T.C.J. No. 1063 (QL), paragraph 9; Chouinard v. Canada (Minister of National Revenue - M.N.R.), [1996] T.C.J. No. 1026 (QL).
+[26] In addition, the requirement that the Rules be "liberally construed" has also been cited, to ensure that [TRANSLATION] "the persons concerned are able to exercise their rights under subsection 5(1)".[1]
+[27] Lamarre Proulx J. did not accept that argument, relying on the decision of the Federal Court of Canada in Canada v. Blais, 64 N.R. 378, paragraphs 8 and 10, in which the issue was a mandatory time limit that could not be extended at the discretion of the Court, and adding that [TRANSLATION] "[a] regulation obviously cannot amend legislation".
+[28] As Léger J. rather colourfully remarked in Landry v. Canada (Minister of National Revenue - M.N.R.), [1993] T.C.J. No. 98 (QL), paragraph 18:
+[TRANSLATION] And so I'm sorry, but I am bound by the decisions of the Court. You see, this is so that there will be an end to it. ... [I]f you do not do it within 90 days, then goodbye, it's over and it's final. You are not entitled to be heard.
+(e) Analysis and Decision 13. Factually, the Court notes that this appeal does not contain the usual exceptions the Tax Court has accepted when ignoring or avoiding “the presumed receipt when sent by mail” rule. This matter concerns a single decision letter under the EI Act and CPP, not bulk batch mailings of notices of assessment under the Income Tax Act. The address of the Appellant, as reproduced in the retained file copy in CRA’s file, was the correct, authorized mailing address CRA had on file. The Appellant does not dispute this. In fact, within the 358 Decision Letter, an address error was identified by the CRA (and not the Appellant), discretion was utilized by the Minister, the decision letter was then currently re-dated and the appeal rights of the Appellant were novated.
+14. Again, unlike the 358 Decision Letter, the covering letter with respect to the 445 Decision, did not identify that “the 90 day time frame to appeal the decision starts on the date indicated on the attached ministerial notification letter”. The covering letter republishing the 358 Decision Notification Letter did just that. In fact, the May 20, 2013 cover letter was sent 3 days after 445 requested a copy of the 445 Decision. Again, CRA was obliging the request of the Appellant for a copy of that original decision letter. The May 20, 2013 enclosure letter was sent by the very CRA official who last handled all of the decision letters with respect to 445 and 358 and who understood how the individual decision letters, which she last handled, would be processed as mail within the Winnipeg tax service office.
+15. In conclusion, although certain authorities exist with respect to notices of reassessment before this Court, each when granting relief to an appellant did so on the basis of some deficiency in the evidence, knowledge or notice otherwise provided by CRA to the taxpayer. Moreover, no such cases involve single decision CPP/EI notification letters, sent from the desk of the effective decision maker by regular pre-paid first class mail to the taxpayer’s correct address.
+16. While the line of authorities, clear language of the Act and the concordant presumption regarding deemed receipt when sent by mail may seem to be inequitable and somewhat arbitrary, cumulatively they nonetheless comprise the law with respect to appeals regarding decision notification letters under the EI Act and CPP. Accordingly, the appeals are quashed for lack of jurisdiction by the Court to hear the appeals of the Appellant.
+III. Substantive Issue (a) Relevant Facts and Documents 17. The Court notes that it reserved its decision at the outset of the hearing on the preliminary jurisdictional issue. Therefore, with the consent of both counsel, it proceeded to hear testimony from the Worker, who was the sole witness in respect of the substantive issue. It also heard the balance of the submissions with respect to the substantive matter in order that all issues might be heard in a single day of hearing, irrespective of the outcome of the reserved preliminary jurisdictional issue.
+18. Although, unnecessary, the Court wishes to summarize what would have been its findings of fact and outcome had it not ruled in these reasons as it has on the jurisdictional issue. It does so through the two pronged analysis outlined at the outset of these reasons in its reference to Connor Homes.
+19. The agreement itself is entitled “residential property management agreement” and outlines specific obligations of the Worker and 445. Under the leasing and management topic within the agreement, the terms included the following duties: rent collection, preparation of property condition reports, delivery of notices to tenant, receiving rental application, credit checks, parking assignment, advertising of vacancies, rent maintenance, routine maintenance, day-to-day repairs and up-keep, meter reading, snow removal, elevator maintenance, vehicle supervision, oversight of public and common facilities and a prime contact person for tenants, security/emergency services, supervisor changeover and key master.
+20. With respect to the following activities, consent prior approval or agreement of 445 was required: third party service providers, hiring replacements during holidays and supplementary third party maintenance providers.
+21. As payment for the services, the Worker received $500 per month during the Period. The Worker indicated at that at the time the agreement was settled, he was to be entitled to a $300 increase in payment after the first three months, but the Worker never received same.
+22. The Worker testified that he did not sign the agreement or negotiate it. He indicated, when asked on cross-examination that “I guess I was independent contractor”. He did acknowledge receipt of a copy of the agreement.
+23. In terms of the objective reality, the rent cheques, rental agreements and deposits were collected by the Worker, but all were immediately sent to a different worker of 445, because, according to the Worker’s testimony, he did not have authority to process such documents. He did not perform credit checks. He worked the hours of his choice. He had few tools (which was true of the job in any event) and he requisitioned repairs, snow removal and other such services from a 445 pre-approved service provider list. Major repairs were undertaken and paid for by 445. The Worker did work at another job which was also within a 3 minute walk of his house and the Building.
+(b) Analysis 24. The substantive intention within the written agreement is not entirely clear given the unilateral imposition of its terms, the Worker’s own expressed uncertainty about his legal relationship, the fact that the agreement was never executed by the Worker and the level of approval required from 445 for various services contracted for within the agreement.
+25. The objective reality of an independent contract for services, otherwise marginally present under the terms of the agreement, is simply not supportable by the facts. There is an absence of the usual hallmarks of a separate business: no GST registration and payment, no rendered invoices, no similar services to other third parties and no ability to sub-contract at will. As well, the opportunity to profit by adjusting costs inputs and the use of alternative labour services and products do not exist. The absence of these factors simply does not sufficiently support the already wobbly subjective intention existing within the first stage analysis of the agreement between the parties. Instinctively, this is not someone operating a business on his own account, but a part-time employee with flexible hours of work.
+26. Therefore, again although moot, had the Appellant succeeded on the jurisdiction argument, it would not have succeeded on the merits of this appeal.
+Signed at Vancouver, British Columbia, this 31st day of October 2014.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2014 TCC 321
+COURT FILE NO.:
+2013-3151(CPP)
+2013-3150(EI)
+STYLE OF CAUSE:
+4453761 MANITOBA LTD. AND THE minister of national revenue
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+October 10, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF AMENDED REASONS AND ORDER:
+October 31st , 2014
+APPEARANCES:
+Counsel for the Appellant:
+Kenneth Zaifman
+Counsel for the Respondent:
+Neil Goodridge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Kenneth Zaifman
+Firm:
+Zaifman Law
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

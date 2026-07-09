@@ -1,0 +1,136 @@
+---
+title: "Huskinson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25816/index.do"
+last_modified: "2004-04-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 233"
+citation2: ""
+neutral_citation: "2004 CCI 233"
+decision_date: "2004-04-14"
+language: "fr"
+item_id: "25816"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3892
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:35:34.286000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ce37902026d5b6ce5c098752c6e0407efd382d59282cf6bac30ab406e6d11e0b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Huskinson v. The Queen
+
+- Citation: 2004 CCI 233
+- Decision date: 2004-04-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3892, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Huskinson v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-14
+Référence neutre
+2004 CCI 233
+Numéro de dossier
+2003-1749(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI233
+Date : 20040414
+Dossiers : 2003-1749(IT)I
+2003-3373(IT)I
+ENTRE :
+LINDA HUSKINSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Pour l'appelante : L'appelante elle-même
+Avocat de l'intimée : Me Ronald MacPhee
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience
+à Belleville (Ontario), le 28 janvier 2004)
+Le juge Mogan
+[1] Les appels en l'espèce visent les années d'imposition 1996, 2000, 2001 et 2002. Pour chacune de ces années, l'appelante a reçu certains montants de son ex-conjoint à titre de pension alimentaire pour enfants. En raison de la situation survenue en 1999, l'appelante a examiné les détails de sa séparation de son ex-conjoint et a conclu que les montants reçus de lui ne devraient pas être calculés à titre de revenu pour les années faisant l'objet du présent appel. L'Agence du revenu du Canada a établi la cotisation de l'appelante pour chacune de ces années en calculant dans son revenu les montants versés par son ex-conjoint. L'appelante a interjeté appel à l'encontre de ces cotisations et a choisi la procédure informelle. La question en litige consiste à savoir si certains montants reçus par l'appelante à titre de pension alimentaire pour enfants au cours des années faisant l'objet du présent appel doivent être calculés à titre de revenus.
+[2] L'appelante s'est mariée en 1975. Le couple a eu quatre enfants, Ben, Emmet, Katherine et Emily nés en 1978, 1980, 1982 et 1984 respectivement. L'appelante et son ex-conjoint se sont séparés en septembre 1988. Ils ont entrepris des procédures de divorce en 1990 qui ont été finalisées en 1991. L'appelante avait de la difficulté à obtenir un soutien financier de son conjoint après la séparation en 1988. Sans aucun doute l'appelante a traversé une période très difficile puisqu'elle avait la garde légale des quatre enfants. Dans des circonstances qui peuvent sembler inhabituelles, l'appelante et son conjoint ont acheté en septembre 1988 une entreprise agricole à l'est de Peterborough où ils prévoyaient s'installer à l'automne 1988. Au mois de septembre, elle a emménagé à la ferme avec les enfants, mais sans son conjoint. Il est resté à la résidence conjugale et c'est en fait à ce moment qu'ils se sont séparés. L'appelante était donc la seule responsable de l'entreprise agricole et devait prendre soin de quatre enfants en bénéficiant d'un soutien financier très limité.
+[3] Elle a présenté une demande de pension alimentaire pour enfants contre son conjoint. Il y a eu action en justice, mais aux fins des présents appels, les procédures pertinentes à l'affaire qui nous occupe ont eu lieu au cours de l'année civile 1993. L'avocat de l'intimée a présenté en preuve à l'appelante cinq documents auxquels je ferai brièvement référence. Le premier document (onglet 1 de la pièce R-1) peut être rejeté très rapidement puisqu'il ne s'agit que d'un projet d'ordonnance daté du 14 novembre 1989. Rien n'indique qu'il ait été signé. J'écarterais le document sur-le-champ car il n'a aucune valeur probante. En 1993, on a entrepris une action en justice à la Division générale de la Cour de l'Ontario dans le cadre de laquelle l'ex-conjoint était le demandeur et l'appelante (désignée dans les procédures sous le nom de Boomhour, son nom marital) était la défenderesse.
+[4] Il semble que l'affaire ait été entendue le 8 juin 1993. Ce jour-là, on a préparé un Procès verbal de transaction (onglet 2 de la pièce R-1). L'onglet 2 constitue un document hybride puisqu'on l'avait tout d'abord nommé « Mémoire d'entente » , puis quelqu'un avait barré le titre dactylographié et avait écrit à la main « Procès verbal de transaction » . On peut voir sur les deux premières pages dactylographiées d'importantes modifications manuscrites. Le paragraphe 5 est complètement barré et on a ajouté certains mots à différentes lignes du paragraphes 6. Quelqu'un a rédigé de nouveaux paragraphes 6A et 6B. Les paragraphes 7 et 8 semblent avoir été dactylographiés sans qu'on n'y apporte de modification. Le paragraphe 9 (la version dactylographié) est tout à fait éliminé et on a ajouté un à la main un nouveau paragraphe 9. De plus, le reste du document, soit les paragraphes 10, 11, 12, 13, 14(a), 14(b), 15, 16, 17 et 18 sont rédigés à la main.
+[5] Au bas de la quatrième page, quelqu'un a écrit en lettres moulées « Signé à Peterborough ce 8e jour de juin 1993 » , et il y a des espaces prévues pour la signature de trois personnes. Sous la première ligne, on a écrit à la main le nom de Linda C. Boomhour, et l'appelante a confirmé qu'il s'agissait bien de sa signature sur la ligne au-dessus. Il y avait également le nom du témoin, Diane Mills, une employée de la Cour. Sous la ligne en-dessous, on a écrit en lettres moulées le nom de William Louis Boomhour et au-dessus de cette ligne, quelqu'un semble avoir signé comme témoin. Je donnerai mes commentaires à ce sujet plus loin. Sous la troisième ligne, on a écrit à la main le nom de Alice Huskinson et au-dessus de cette ligne, il y a une signature que l'appelante a reconnu comme étant celle de sa mère, sous laquelle Diane Mills avait également signé comme témoin.
+[6] L'appelante a affirmé qu'elle ne reconnaissait pas la signature de son conjoint sur la deuxième ligne parce que dans la dernière syllabe de son nom de famille, il semble y avoir un « i » alors qu'en fait la dernière syllabe de son nom de famille s'épelle H-O-U-R. Selon elle, il ne signerait jamais de cette façon, mais elle indique qu'elle peut lire que le premier nom du témoin est Donna, l'avocate de son conjoint. L'appelante n'était peut-être pas présente lorsque son conjoint a signé, mais je vais fonder ma décision sur le fait que le conjoint a signé l'onglet 2 de la pièce R-1 parce que l'appelante reconnaît la signature de l'avocate du conjoint. Je vais supposer que l'avocate du conjoint n'aurait pas signé à titre de témoin à moins que ce dernier ait tout d'abord signé. Peu importe les différences, il s'agit de l'écriture du conjoint. Je conclus que le procès-verbal a été signé par trois personnes, l'appelante, son ex-conjoint et sa mère.
+[7] L'appelante a affirmé que lorsque les procédures ont commencé à la Cour de l'Ontario, elle et son ex-conjoint devaient une somme d'argent importante à sa mère puisque ses parents leur avaient prêté l'argent pour acheter l'entreprise agricole. Il semble que lorsque l'union a pris fin, la somme était toujours due aux parents de l'appelante, un prêt qui, d'après ce que j'ai compris, était garanti par une hypothèque sur l'entreprise agricole. Entre-temps, le père de l'appelante est décédé et par conséquent, en 1993, la mère de l'appelante était veuve et quelqu'un à la Cour a proposé que la mère participe à l'instance parce qu'elle représentait un important créancier de l'appelante et de son ex-conjoint. Si j'ai bien compris le témoignage de l'appelante, c'est la raison pour laquelle la mère a signé le Procès verbal de transaction.
+[8] Au paragraphe 17 du Procès verbal de transaction, on indique que tous les paragraphes du Procès verbal devraient être intégrés dans un jugement et sauvegarder à l'exception des paragraphes 6A, 6B, 13 et 16. Le paragraphe 17 est important parce que le paragraphe 6A, rédigé à la main, est celui dans lequel on aborde la question de la pension alimentaire pour enfants. Il est rédigé en ces termes :
+[traduction]
+À partir du 1er juillet 1993, le conjoint devra verser à la conjointe une pension alimentaire mensuelle de 500 $ pour chaque enfant. Chaque années, le 1er juillet, le conjoint devra remettre à la conjointes des chèques postdatés pour la pension alimentaire pour enfants » .
+C'est selon cette accord que le conjoint versait la pension alimentaire pour enfants lorsqu'il le faisait. Il lui est arrivé à l'occasion de ne pas verser la pension alimentaire, mais lorsqu'il la versait, il respectait l'accord du 500 $ par enfant même si le paragraphe 6A n'avait pas été intégré au jugement. Je ferai référence au paragraphe 6A plus loin dans ces motifs.
+[9] Le même jour, on a présenté le Procès verbal de transaction à l'honorable juge Kerr de la Cour de l'Ontario (Division générale), et il a signé un jugement (onglet 3 de la pièce R-1) qui donnait effet à une partie du Procès verbal de transaction. Le préambule des paragraphes-clés de sa décision est rédigé de la manière suivante :
+[traduction]
+Cette affaire a été entendue aujourd'hui sans jury à Peterborough. L'avocate du demandeur et la défenderesse étaient présents. Le tuteur public s'est retiré à titre d'avocat pour les enfants.
+Après avoir lu les plaidoiries, après avoir entendu les témoignages et avoir lu le Procès verbal de transaction déposé [...]
+Le premier paragraphe-clé du jugement est rédigé en ces termes :
+[traduction]
+1. Le présent tribunal statue que la garde des enfants de l'union est confiée à la défenderesse [...]
+Le jugement de la Cour contient également d'autres dispositions, mais il n'y en a aucune en ce qui concerne la pension alimentaire pour enfants. Toutefois, on y indique que le juge qui a signé le jugement avait lu le Procès verbal de transaction signé plus tôt le même jour par les parties visées.
+[10] Une autre affaire a été présentée devant la Cour de l'Ontario (Division générale) à la fin de 1995. Encore une fois, l'ex-conjoint semble y être le demandeur et l'appelante la défenderesse. J'ignore l'objet de la réclamation de l'ex-conjoint, mais cette affaire a été entendue par l'honorable juge Ferguson. Le préambule de son jugement (onglet 4 de la pièce R-1) est rédigé en ces termes :
+[traduction]
+Cette affaire a été entendue les 15, 16 et 17 novembre 1995 sans jury au palais de justice de la région centrale est, situé au 440, rue Kent ouest, à Lyndsay, en Ontario en présence de l'avocat du défendeur, William Louis Boomhour et de la demanderesse, Alice Huskinson, (accompagnée de sa fille, Linda Boomhour), la Cour ayant remis le prononcé de sa décision à aujourd'hui.
+Après avoir lu les dossiers de requête datés du 14 octobre 1993 pour le dossier 2174/91 (Lyndsay) et du 26 novembre 1993 pour le dossier 836/89 (Peterborough) ainsi que l'ordonnance de l'honorable juge Lane en date du 21 décembre 1993, prescrivant à un tribunal les questions soulevées dans les présentes requêtes, et après avoir entendu personnellement les observations de l'avocate de William Boomhour ainsi que les témoignages d'Alice Huskinson [...]
+Encore une fois, l'appelante, son ex-conjoint et sa mère sont en Cour au cours des derniers mois de 1995, et le juge rend sa décision le 15 janvier 1996 (onglet 4 de la pièce R-1). Le premier paragraphe-clé est rédigé en ces termes :
+[traduction]
+1. Le présent tribunal ordonne que le Procès verbal de transaction daté du 8 juin 1993 conclus entre William Louis Boomhour, Linda Boomhour et Alice Huskinson dans le dossier 846/89 soit reconnu valide et contraignant et doit être exécuté [...]
+Le jugement contient d'autres dispositions, mais aucune en ce qui concerne la pension alimentaire pour enfants. Par conséquent, le Procès verbal de transaction (onglet 2 de la pièce R-1) constitue le seul document dans lequel on aborde la question de la pension alimentaire.
+[11] Selon l'appelante, aux termes de l'alinéa 56(1)b) de la Loi de l'impôt sur le revenu, elle n'avait pas à calculer les montants reçus de son ex-conjoint avec ses revenus puisque cette loi était en vigueur pendant les années qu'il a fallu pour régler cette affaire, soit de 1993 à 1996. Le sous-alinéa 56(1)b) vise la rupture de mariage survenue avant 1993. Il est rédigé en ces termes :
+56(1) Sans retreindre la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition,
+(a [...]
+(b toute somme reçue dans l'année par le contribuable, en vertu d'un arrêt, d'une ordonnance ou d'un jugement rendus par un tribunal compétent ou en vertu d'un accord écrit, à titre de pension alimentaire ou autre allocation payable périodiquement pour subvenir aux besoins du bénéficiaire, des enfants issus du mariage ou à la fois du bénéficiaire et des enfants issus du mariage, si le bénéficiaire vivait séparé en vertu d'un divorce, d'une séparation judiciaire ou d'un accord écrit de séparation du conjoint ou de l'ex-conjoint tenu de faire le paiement, à la date où le paiement a été reçu et durant le reste de l'année;
+Selon l'appelante, en raison du sous-alinéa b, formulé en ces termes :
+[...] en vertu d'un décret, d'une ordonnance ou d'un jugement d'un tribunal compétent ou d'un accord écrit [...]
+L'appelante insiste que les paiements reçus n'avaient été faits aux termes d'aucun décret, d'aucune ordonnance et d'aucun jugement et qu'il n'existait aucun accord écrit. Après avoir examiné les documents, je conclus qu'elle a raison et qu'il n'y avait pas de décret, d'ordonnance ou de jugement d'un tribunal compétent aux termes duquel on devait lui verser une pension alimentaire pour enfants. Toutefois, je conclu que l'appelante fait erreur lorsqu'elle affirme qu'il n'y avait pas d'accord écrit.
+[12] Le Procès verbal de transaction constitue un accord écrit. Je n'ai aucune difficulté à en arriver à cette conclusion. En fait, si je tiens compte de tout le témoignage de l'appelante et des documents déposés, je ne peux arriver à aucune autre conclusion que le fait que le Procès verbal de transaction constitue un accord écrit. Ils a été signé par les parties les plus intéressées jour-là, c'est-à-dire l'appelante, son ex-conjoint et sa mère qui représentait un important créancier de l'appelante et de l'ex-conjoint. Il semble qu'une partie des dispositions de cet accord vise le partage des biens. Je crois que le conjoint voulait trier et diviser les biens acquis pendant l'union en vertu de la Loi sur le droit de la famille en raison du droit de propriété lié à une entreprise agricole que l'appelante et son ex-conjoint prévoyaient acheter à l'hiver 1987-1988 et qu'ils ont en fait achetée, qui a été renégocié plus tard de façon à ce qu'un tiers du droit de propriété appartienne à l'appelante et les deux autres à sa mère.
+[13] Il a également été décidé de transférer au nom du conjoint le prétendu foyer conjugal où ils avaient vécu jusqu'en septembre 1988 au moment où l'appelante et les enfants sont partis vivre à la ferme. Il semble qu'il aurait dû y avoir une disposition à savoir si la somme due à la mère de l'appelante relativement à l'hypothèque serait garantie par un hypothèque sur la résidence du conjoint, c'est-à-dire le foyer conjugal. Quant à savoir si cela a été fait, c'est une toute autre question qui n'est pas pertinente à la décision que je dois prendre en ce qui concerne les présents appels.
+[14] Ce qu'il est important de savoir, c'est que ces trois parties qui avaient beaucoup à perdre ont demandé au tribunal de régler cette affaire de Procès verbal de transaction. Ils se sont donnés un certain mal afin de déterminer les dispositions sur lesquelles ils s'entendaient, y compris une disposition au paragraphe 17 selon laquelle le Procès verbal serait intégré à un jugement à l'exception de certains éléments indiqués. C'est ce qui a été fait. Le juge Kerr a signé son jugement le même jour et a fait référence au fait qu'il avait lu le Procès verbal de transaction, indiquant qu'il était sûr de son jugement par lequel il excluait les dispositions que les parties avaient consenti à enlever du Procès verbal de transaction.
+[15] Il y a également une disposition à la dernière page du Procès verbal de transaction qui est rédigé de cette manière :
+[traduction]
+Ce Procès verbal de transaction constitue un contrat familial établi conformément à la Loi sur le droit de la famille » .
+Dans ses observations, l'appelante s'est attardée sur l'examen des prescriptions de la Loi sur le droit de la famille et de son Règlement afin de faire ressortir les vices de forme du Procès verbal de transaction qui auraient pu justifier le fait qu'il ne pouvait être considéré comme un contrat familial au sens de la Loi sur le droit de la famille de l'Ontario et qui pourraient très bien avoir la même incidence maintenant.
+[16] Je ne suis pas en mesure de prendre une décision à ce sujet, mais comme je l'ai indiqué à l'appelante, il ne s'agit pas pour moi d'un point pertinent de savoir si le Procès verbal de transaction répond aux critères d'un contrat familial au sens de la Loi sur le droit de la famille de l'Ontario. Les prescriptions de la Loi sur le droit de la famille sont tout à fait hors de propos. La seule question qui m'intéresse est de savoir si le Procès verbal de transaction peut être interprété comme un accort écrit au sens de l'alinéa 56(1)b) de la Loi de l'impôt sur le revenu.
+[17] Étant donné que nous savons tous qui est visé par l'alinéa 56(1)b), cela a fait l'objet de bien des procédures depuis que la Loi actuelle est entrée en vigueur en 1972. Les prescriptions précédentes de la Loi, qui étaient pour ainsi dire exactement les mêmes, étaient en vigueur de 1952 à 1971. Il y a un nombre considérable de procédures entreprises à ce sujet, et les tribunaux interprètent l'accord écrit de façon relativement libérale. Dans certaines affaires par exemple, on a conclu que la correspondance entre l'avocat de la conjointe et celui du conjoint dans le but d'établir les dispositions de la pension alimentaire pour enfants peut constituer un accord écrit même si les lettres n'ont pas été signées par le conjoint et la conjointe. En appliquant la loi de façon élémentaire, on considère que les montants établis pour les parties par les avocats qui les représentaient constituent le montant de la pension alimentaire aux fins de l'impôt sur le revenu.
+[18] L'appelante a affirmé que personne ne peut lui dire ce qu'elle a signé relativement au Procès verbal de transaction ni qu'elle a signé un accord de séparation. Elle a tout à fait raison. En concluant ainsi, je ne veux pas dire qu'elle a signé. Toutefois, les documents nous montrent ce qu'elle a signé et les dispositions de l'accord sont claires. Elle a affirmé qu'elle était sous une certaine contrainte lorsqu'elle a signé. Elle a expliqué que les documents avaient été préparés par l'avocat de son conjoint pendant l'heure du déjeuner ou quelque chose du genre (c'est ce qu'elle pense), et que lorsqu'elle et sa mère étaient revenues au tribunal, on leur avait dit que si elles ne signaient pas le document, elles perdraient l'entreprise agricole ou qu'un incident tout aussi terrible surviendrait.
+[19] Dans un autre tribunal, une autre cour, il est possible pour une personne de demander par voie de requête d'annuler un accord signé sous contrainte. Rien n'indique que de telles mesures ont été prises afin de demander d'annuler le Procès verbal de transaction parce qu'il avait été signé sous contrainte. Le seul document qui m'a été présenté est le Procès verbal de transaction signé par l'appelante et son ex-conjoint dans lequel on précise que ce dernier doit verser une pension alimentaire mensuelle de 500 $ par enfant. J'avais dit que je reviendrais au paragraphe 6A, et je dois le faire en ce qui a trait au témoignage orale quant à l'incident survenu en 1999.
+[20] L'aîné des enfants est né en 1978. En 1998-1999, Ben était âgé d'environ vingt ans et, selon le témoignage de l'appelante, il voulait poursuivre ses études. On avait inclus une disposition selon laquelle elle et son ex-conjoint contribueraient à ses études post-secondaires, mais il semble que lorsqu'on a fait cette proposition à l'ex-conjoint, il l'a rejetée sur le champ et a cessé du coup de verser la pension alimentaire. C'est pourquoi l'appelante a dû faire appel au Bureau des obligations familiales de la province d'Ontario, un organisme mis en place afin de contraindre au paiement un ex-conjoint à qui la Cour a ordonné de payer une pension alimentaire en cas de rupture de mariage si le conjoint à charge à besoin d'un soutien financier, mais que le conjoint refuse de payer le montant imposé.
+[21] L'appelante a présenté les documents au Bureau des obligations familiales pour appuyer sa demande d'aide. On lui a dit qu'elle n'avait pas d'ordonnance de la cour pour exécuter l'accord écrit. Elle a indiqué qu'on lui avait demandé de faire autre chose. Je ne sais pas de quoi il s'agit, mais un fait incontestable est qu'à la fin de 1999 ou au début de 2000, le Bureau des obligations familiales a communiqué avec le conjoint et a pris des mesures pour l'obliger à payer. Il semble qu'étant donné qu'il travaillait à salaires pour la General Motors à Oshawa, le Bureau des obligations familiales disposait de plusieurs moyens de faire déduire les montants à la source aux fins de paiement. Selon le témoignage de l'appelante, en 2000, elle a reçu de son ex-conjoint un montant de 7 000 $ en arrérage et en 2001 et 2002, le Bureau des obligations familiales a fait un excellent travail et a obligé l'ex-conjoint à faire les paiements prévus.
+[22] Pendant le contre-interrogatoire, on a fait ressortir que dans ses déclarations de revenus aux fins d'impôt pour les années 2001 et 2002, l'appelante avait déclaré avoir reçu 24 000 $ chaque année à titre de pension alimentaire, ce qui à mon avis indique que le Bureau des obligations familiales avait trouvé un moyen d'obliger le conjoint à verser des paiements et qui plus est, cela me convainc que le montant qu'on l'a obligé à payer correspond à celui établi dans le Procès verbal de transaction signé en juin 1993 étant donné que si l'on fait le calcul, 500 $ par enfant par mois pour quatre enfants, on obtient un résultat de 2 000 $ par mois ou de 24 000 $ par année. Sans preuve du contraire, je conclus que même en 2001 et 2002, l'ex-conjoint devait toujours verser à l'appelante le montant établi par eux le 8 juin 1993. Il n'y a aucune « date de référence » quant à tout incident survenu après avril 1997.
+[23] Il n'existe aucun bien-fondé à ces appels. La preuve est accablante et montre que l'appelante et son ex-conjoint ont signé un accord écrit (onglet 2 de la pièce R-1). On ne lui avait pas donné le nom d'entente de séparation. On ne l'appelait pas accord écrit, mais il s'agissait d'un document écrit de quatre pages sur lequel quelqu'un avait travaillé, annulant certains passages et ajoutant des dispositions. Il avait été signé par l'appelante, son ex-conjoint et sa mère en juin 1993. Il s'agissait des trois personnes les plus intéressées à établir ce que serait leur relation financière à l'avenir en ce qui a trait aux biens.
+[24] Enfin, les faits ont montré qu'avec ou sans autre procédure judiciaire, ils devaient se conformer à ce qui avait été établi dans le Procès verbal de transaction. Par conséquent le Procès verbal constitue un accord écrit. En fait, il s'agit de l'entente selon laquelle la pension alimentaire pour enfants a été versée pour les années faisant l'objet des présents appels et les montants doivent être inclus dans le calcul des revenus de l'appelante pour les années d'imposition 1996, 2000, 2001 et 2002. Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 14e jour d'avril 2004.
+« M.A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+Ce14e jour de juin 2004
+Louise-Marie LeBlanc, traductrice

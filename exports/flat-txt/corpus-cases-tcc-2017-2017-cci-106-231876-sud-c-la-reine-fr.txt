@@ -1,0 +1,197 @@
+Title: Sud c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/231876/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-106-231876-sud-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-06-08
+
+# Sud c. La Reine
+
+- Citation: 2017 CCI 106
+- Decision date: 2017-06-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2150, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sud c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-06-08
+Référence neutre
+2017 CCI 106
+Numéro de dossier
+2016-1515(GST)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-1515(GST)I
+ENTRE :
+FEU ARUN SUD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 21 mars 2017, à Hamilton (Ontario)
+Observations écrites des parties reçues en mai 2017.
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Représentant de l’appelant :
+Raman Ayyar
+Avocate de l’intimée :
+Me Meaghan Mahadeo
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise pour la période du 1er janvier 2003 au 31 décembre 2005, et dont l’avis est daté du 1er août 2014, est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 8e jour de juin 2017.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2017 CCI 106
+Date : 20170608
+Dossier : 2016-1515(GST)I
+ENTRE :
+FEU ARUN SUD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Juge D’Auray
+I. APERÇU [1] Arun Sud (l’« appelant ») était l’unique administrateur et actionnaire de la société 1186271 Ontario Inc. (la « société »).
+[2] Le ministre du Revenu national (le « ministre ») a établi une cotisation pour Arun Sud à titre d’administrateur de la société le 1er août 2014 en vertu de l’article 323 de la Loi sur la taxe d’accise[1] (la « LTA »). La cotisation de l’appelant à l’égard des taxes non versées par la société s’élevait à 17 298,32 $. Cette cotisation visait l’ensemble des taxes n’ayant pas été versées du 1er janvier 2003 au 31 décembre 2005.
+[3] En vertu du paragraphe 323(1) de la LTA, si une société fait défaut de verser un montant de taxe dû, soit pour la TPS ou la TVH, les administrateurs de cette société sont solidairement responsables avec la société du paiement des montants dus.
+[4] L’appelant fait valoir que le ministre n’a pas établi la cotisation dans le délai prévu par le paragraphe 323(5) de la LTA. Ce paragraphe de la LTA prévoit qu’une cotisation pour un montant payable par un administrateur d’une société ne doit pas être établie plus de deux ans après que l’administrateur a cessé de jouer ce rôle.
+[5] L’appelant soutient qu’il n’était plus administrateur de la société lorsque le ministre a établi la cotisation en 2014.
+[6] L’intimée allègue qu’au moment de la cotisation, l’appelant était toujours administrateur de la société. Par conséquent, en établissant une cotisation à l’encontre de l’appelant, le ministre respectait le délai prévu par le paragraphe 323(5) de la LTA.
+[7] J’ai été avisé par le représentant de l’appelant, M. Ayyar, que M. Sud est décédé à la fin du mois de mai 2017 et qu’il n’avait aucune succession.
+II. DEMANDE DE MODIFICATION [8] Lors de l’audience, l’intimée a demandé que les hypothèses figurant dans la réponse à l’avis d’appel soient modifiées de la façon suivante :
+[traduction] Réponse :
+g) la société a cessé ses activités en août 2005;
+h) le statut d’entreprise de la société a été annulé le 24 février 2007;
+j) l’appelant a fait cession de ses biens le 24 octobre 2002;
+k) l’appelant a été libéré de sa faillite le 11 mars 2005;
+m) avant l’annulation du statut d’entreprise de la société, l’appelant a utilisé ses finances personnelles, y compris son argent et ses cartes de crédit, pour maintenir les activités de l’entreprise.
+Réponse modifiée :
+g) la société a cessé ses activités en août 2005;
+h) pendant toute la période pertinente, le statut d’entreprise de la société est demeuré actif auprès du ministère des Services gouvernementaux et des Services aux consommateurs de l’Ontario;
+j) l’appelant a déposé une proposition le 24 octobre 2002;
+k) en date du 11 mars 2005, l’appelant avait exécuté l’entièreté de la proposition et un certificat d’exécution intégrale d’une proposition a été rendu par le syndic de faillite le 18 mars 2005;
+m) avant que la société cesse ses activités, l’appelant a utilisé ses finances personnelles, y compris son argent et ses cartes de crédit, pour maintenir les activités de l’entreprise.
+[9] La demande de modification a été présentée oralement lors de l’audience. Bien que le présent appel soit administré sous le régime de la procédure informelle, les modifications qui ne sont pas que de simples modifications de transcription devraient être faites à l’avance afin de donner à l’appelant la possibilité de s’y opposer. Quoi qu’il en soit, l’intimée ne peut modifier les hypothèses de fait sur lesquelles le ministre s’est fondé pour établir la cotisation à l’égard de l’appelant. Les faits dont le ministre a tenu compte pour établir la cotisation de l’appelant sont peut-être erronés, mais à moins qu’il ne soit clair que le ministre n’en a pas tenu compte au moment de la cotisation, je ne vois pas comment il serait possible de modifier ces hypothèses sans qu’aucune preuve n’ait été déposée lors du procès à cet égard.
+[10] Ceci étant dit, l’intimée n’est pas liée par les hypothèses du ministre; elle est en droit de démontrer qu’il en est autrement et peut fournir la preuve permettant de démontrer que certains faits sur lesquels s’était fondé le ministre sont inexacts.[2] C’est exactement ce qui est survenu dans le présent appel. L’intimée a démontré que l’appelant n’avait pas démissionné de ses fonctions d’administrateur et qu’au moment de la cotisation en 2014, la société n’avait pas encore été dissoute.
+III. FAITS [11] Avant de se constituer en personne morale, l’appelant était employé chez Dynamex Inc. et offrait des services de messagerie. Dynamex a avisé l’appelant qu’il serait fiscalement avantageux pour lui de se constituer en personne morale plutôt que de mener ses activités à titre d’entreprise individuelle.
+[12] Ainsi, l’appelant a constitué la société 1186271 Ontario Inc. en personne morale en vertu des lois de l’Ontario le 21 juin 1996, dans le but d’exploiter son entreprise de messagerie.
+[13] Il ressort toutefois clairement du témoignage de l’appelant qu’il ne comprenait pas exactement les obligations qui accompagnent la constitution d’une société en personne morale. Les connaissances fiscales de l’appelant étaient minimales.
+[14] Pendant toute la période pertinente, l’appelant était l’unique administrateur et actionnaire de la société.
+[15] En raison de problèmes financiers personnels, l’appelant a déposé une proposition à ses créanciers le 24 octobre 2002, qui a été acceptée le 18 décembre 2002 puis approuvée par la Cour le 24 février 2003.
+[16] La proposition a été entièrement exécutée par l’appelant le 11 mars 2005 et un certificat d’exécution intégrale d’une proposition a été signé le 18 mars 2005.[3]
+[17] Les dettes de la société proviennent de son défaut de verser les taxes dues. La société a omis de verser ses taxes pour la période allant du 1er janvier 2003 au 31 décembre 2005.[4]
+[18] La société a cessé ses activités en août 2005. La dernière déclaration de revenus de la société concernait l’année d’imposition 2007 et a été déposée le 19 juillet 2008.[5]
+[19] Le 2 novembre 2006, le ministre a établi une cotisation à l’égard de la société pour la TPS et la TVH non versée. La société a interjeté appel de cette cotisation devant la Cour.
+[20] Le 5 février 2010, la société et le ministre ont déposé auprès de la Cour un consentement à jugement. Une nouvelle cotisation de 36 363,28 $ pour la TPS et la TVH non versée a donc été établie à l’encontre de la société.[6] La société n’a pas remboursé cette dette.
+[21] Le 1er août 2014, le ministre a établi, en vertu de l’article 323 de la LTA, une nouvelle cotisation à l’égard de l’appelant s’élevant à 17 298,32 $ et concernant le montant impayé de sa dette.
+[22] L’appelant n’a jamais démissionné de son poste d’administrateur de la société. La société a finalement été dissoute par un avis de dissolution du ministre des Finances de l’Ontario entrant en vigueur le 24 octobre 2016[7], en raison du défaut de la société de déposer sa déclaration de revenus annuelle et sa dispense de produire une déclaration.
+[23] Par conséquent, en vertu du paragraphe 241(4) de la Loi sur les sociétés par actions[8] de l’Ontario (la « LSAO »), le certificat de constitution a été annulé.[9]
+IV. QUESTIONS EN LITIGE [24] La première question en litige est de savoir si le ministre a établi à juste titre la cotisation à l’égard de l’appelant en vertu du paragraphe 323(1) de la LTA pour la partie de la dette due par la société.
+[25] La seconde question en litige consiste à déterminer si la période limite de deux ans prévue au paragraphe 323(5) de la LTA était venue à échéance en 2014, au moment de la cotisation.
+V. THÈSES DES PARTIES A. Thèse de l’appelant [26] Le représentant de l’appelant fait valoir que la société a cessé ses activités en août 2005. Par conséquent, l’appelant n’agissait plus comme administrateur de la société après le mois d’août 2005. Ainsi, la cotisation de 2014 du ministre a été établie hors délai en application de la limite prévue au paragraphe 323(5) de la LTA.
+[27] Le représentant de l’appelant affirme également que puisque la société a cessé de déposer ses déclarations annuelles de revenus et ses dispenses de produire une déclaration auprès du ministre des Finances en 2008, il croyait que la société serait automatiquement dissoute dans un délai de deux ans.
+[28] Dans l’ensemble, la position de l’appelant est qu’il n’est pas responsable de la dette fiscale de la société puisqu’en 2014, au moment de la cotisation, le délai pour établir une cotisation à l’égard de l’appelant à titre d’administrateur de la société avait expiré aux termes du paragraphe 323(5) de la LTA
+B. Thèse de l’intimée [29] L’intimée soutient qu’au moment de la cotisation en 2014, l’appelant était toujours l’administrateur de la société, et ce, même si celle-ci n’était pas active. En outre, l’appelant n’a jamais démissionné de son poste d’administrateur de la société.
+[30] La preuve a démontré que la société n’avait été dissoute qu’en 2016. Par conséquent, au moment de la cotisation en 2014, l’appelant était administrateur de la société et le délai de deux ans pour établir une cotisation à l’égard de l’appelant en vertu du paragraphe 323(5) n’avait pas commencé à courir. L’appelant était donc responsable, à titre d’administrateur, des dettes de la société.
+VI. ANALYSE JURIDIQUE [31] Les dispositions applicables au présent appel sont les paragraphes 323(1) et 323(5) de la LTA. Le paragraphe 323(1) de la LTA impose aux administrateurs d’une société la responsabilité des dettes dues par la société, lorsque celle-ci fait défaut de verser un montant de taxe nette dont elle est redevable. Le paragraphe 323(1) est rédigé comme suit :
+Responsabilité des administrateurs
+323 (1) Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payé ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+[32] Le paragraphe 323(5) de la LTA établit le délai applicable pour le ministre aux fins d’établissement d’une cotisation aux termes du paragraphe 323(1). Le paragraphe 323(5) est rédigé comme suit :
+Prescription
+(5) L’établissement d’une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu’il a cessé pour la dernière fois d’être administrateur.
+[33] La question à trancher dans le présent appel est de déterminer si l’appelant avait cessé d’être administrateur avant la dissolution de la société en 2016.
+[34] La défense de diligence raisonnable peut être invoquée lorsque la responsabilité prévue à l’article 323 est soulevée. Toutefois, cette défense n’a pas été plaidée par l’appelant lors du procès et, en fonction de la preuve produite, il est manifeste que cette défense ne s’appliquait pas en l’espèce.
+A. L’appelant a-t-il cessé d’être administrateur de la société? [35] Comme il a été mentionné précédemment, la société n’a été dissoute qu’en 2016. Par conséquent, le seul moyen pour l’appelant de ne pas être responsable des dettes de la société est d’avoir cessé d’être administrateur de celle-ci deux ans avant la cotisation de 2014 du ministre. Si l’appelant n’était plus administrateur de la société deux ans avant la cotisation de 2014 du ministre, alors la cotisation établie par le ministre aurait été hors délai en application du délai prévu par le paragraphe 323(5).
+[36] Afin de déterminer si l’appelant a cessé d’être administrateur de la société, il est nécessaire d’examiner les règles applicables aux administrateurs prévues par la LSAO.
+[37] Selon l’article 121 de la LSAO, le mandat d’un administrateur prend fin dans les situations suivantes :[10]
+121(1) Le mandat d’un administrateur prend fin lorsque se produit l’un des événements suivants :
+a) il décède ou, sous réserve du paragraphe 119 (2), il démissionne;
+b) il est destitué en vertu de l’article 122;
+c) il devient inhabile aux termes du paragraphe 118 (1).
+(2) La démission d’un administrateur prend effet à la date de réception par la société d’un écrit à cet effet ou à la date postérieure qui y est indiquée.
+[38] En l’espèce, l’appelant n’est pas devenu inhabile aux termes du paragraphe 118(1) ni n’a été destitué en application de l’article 122 de la LSAO.
+[39] Par conséquent, la seule façon dont le mandat d’administrateur de l’appelant aurait pu prendre fin est par sa démission.
+[40] Le paragraphe 121(2) de la LSAO établit le moment d’entrée en vigueur d’une démission. Cette disposition a été interprétée comme exigeant que la démission soit remise par écrit et reçue par la société. La Cour d’appel fédérale a insisté sur la nécessité de remettre la démission par écrit dans l’arrêt Chriss v. R.[11]
+[41] Dans cet arrêt, la Cour a conclu que la date de démission d’un administrateur doit être certaine et qu’une simple intention subjective de démissionner est insuffisante. La Cour a déclaré ce qui suit :[12]
+[traduction] Il va de soi que le statut d’un administrateur doit pouvoir faire l’objet d’une vérification objective. S’il fallait accorder du crédit à l’intention subjective ou aux dires d’un administrateur, cela permettrait à ce dernier de semer les graines d’une démission rétroactive, à laquelle il pourrait s’en remettre à une date ultérieure au cas où il surviendrait une responsabilité liée à sa fonction d’administrateur. Les faits en l’espèce illustrent pourquoi le paragraphe 121(2) de la LSAO a été rédigé selon le libellé actuel : les risques associés au fait d’autoriser autre chose que la communication d’une lettre de démission écrite validée et datée sont inacceptables.
+[42] La Cour d’appel fédérale a donc annulé la décision de la Cour de l’impôt qui avait fait droit à la démission des administrateurs puisque la démission n’avait pas été remise par écrit.
+[43] La décision dans l’arrêt Chriss met l’accent sur la nécessité de présenter les démissions par écrit afin qu’elles puissent être objectivement vérifiées. Par conséquent, l’intention subjective ou la réflexion d’un administrateur ne peut être utilisée comme une preuve de démission :[13]
+[traduction] La croyance d’un administrateur selon laquelle il a démissionné n’a pas de rapport ou de lien avec les objectifs sous-jacents du paragraphe 121(2) de la LSAO ni avec l’importance qu’il accorde à la communication objectivement vérifiable d’une démission à la société. Le fait de permettre qu’une intention subjective prenne soudainement naissance lorsque cela convient, dans l’intérêt de l’administrateur ou pour les besoins de la société, viendrait compromettre considérablement la gouvernance de la société.
+[44] En l’espèce, l’appelant a témoigné lors de l’audience qu’il n’avait jamais officiellement démissionné de son poste d’administrateur. Même si l’appelant possédait la croyance subjective qu’il n’était plus administrateur de la société, cette croyance ne serait pas suffisante pour satisfaire aux exigences prévues à l’article 121 de la LSAO.
+[45] En outre, l’appelant a continué de s’occuper des affaires de la société après la cessation de ses activités, notamment dans le consentement à jugement intervenu le 5 février 2010.
+[46] De plus, l’appelant ne peut plaider qu’il n’était plus administrateur lorsque la société a cessé ses activités. La Cour a abordé cette question et déterminé qu’elle n’est pas pertinente à la détermination de la responsabilité d’un administrateur. Dans Bremmer c. La Reine[14], la Cour a déclaré ce qui suit :
+Le fait qu’Excel a cessé ses activités au mois d’août n’est pas vraiment pertinent. Les administrateurs des sociétés ont des devoirs qui subsistent après la fin de l’exploitation de leurs activités.
+[47] Les faits du présent appel sont conformes à l’argument énoncé dans la décision Bremner puisque l’appelant a continué à gérer les affaires de la société bien après que celle-ci a cessé ses activités.
+[48] De plus, même si une société a cessé ses activités et déclaré faillite, cette situation n’emporte pas d’effet sur le titre d’administrateur d’une personne.[15]
+[49] La LSAO et la jurisprudence pertinente décrivent les exigences strictes relatives à la démission des administrateurs. En l’espèce, l’appelant n’a jamais démissionné de son poste d’administrateur. Par conséquent, il continue d’être considéré comme étant administrateur de la société jusqu’à la dissolution de cette dernière en 2016.
+B. Démission de l’appelant de ses fonctions d’administrateur [50] Même si j’avais conclu que l’appelant avait effectivement démissionné de son poste d’administrateur, il n’est pas certain que la démission aurait été valide.
+[51] L’appelant était l’unique administrateur de la société. L’alinéa 115(2)a) de la LSAO exige que les sociétés ne faisant pas appel au public soient composées d’au moins un administrateur :[16]
+Conseil d’administration
+(2) La société a un conseil d’administration qui se compose :
+a) d’au moins un particulier, dans le cas d’une société qui n’est pas une société faisant appel au public;
+[52] Puisqu’aucun autre administrateur n’a été nommé, il n’est pas certain que la démission de l’appelant aurait même été valide.
+VII. CONCLUSION [53] La société a été dissoute par avis de dissolution entrant en vigueur le 24 octobre 2016.
+[54] Pendant toute la période pertinente, l’appelant était l’unique administrateur de la société et n’a jamais démissionné de son poste.
+[55] Pour qu’une démission soit valide, un administrateur doit faire parvenir une lettre de démission écrite à la société. En l’absence d’un tel écrit, une personne demeurera administratrice, et ce, même si la société a cessé ses activités d’entreprise.
+[56] En conclusion, puisque l’appelant n’a jamais démissionné de son poste d’administrateur, il est demeuré l’administrateur de la société jusqu’à l’entrée en vigueur de l’avis de dissolution le 24 octobre 2016. Par conséquent, le ministre a établi à juste titre la cotisation à l’encontre de l’appelant en sa capacité d’administrateur pour la dette de la société.
+[57] L’appel est donc rejeté.
+Signé à Ottawa, Canada, ce 8e jour de juin 2017.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2017 CCI 106
+No DU DOSSIER DE LA COUR :
+2016-1515(GST)I
+INTITULÉ :
+FEU ARUN SUD c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 21 mars 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 8 juin 2017
+COMPARUTIONS :
+Représentant de l’appelant :
+Raman Ayyar
+Avocate de l’intimée :
+Me Meaghan Mahadeo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[BLANK / EN BLANC]
+Cabinet :
+[BLANK / EN BLANC]
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15, à l’article 323 [LTA].
+[2] Continental Bank Leasing Corporation and Continental Bank of Canada v. The Queen, [1993] 93 DTC 298, au paragraphe 27.
+[3] Pièce A-5, certificat d’exécution intégrale.
+[4] Dès le début de l’année 2000, la société a omis de verser ses taxes, mais l’appelant n’a fait l’objet d’une cotisation pour son défaut de verser les taxes dues qu’à partir de 2003.
+[5] Observations supplémentaires de l’appelant, déclarations de revenus de la société.
+[6] Pièce A-10, consentement à jugement, affidavit de l’intimée, onglet D.
+[7] Pièce R-4, avis de dissolution.
+[8] Loi sur les sociétés par actions, L.R.O. 1990, chap. B.16 [LSAO].
+[9] Pièce R-5, avis de défaut.
+[10] LSAO, précitée, note 8, à l’article 121.
+[11] Chriss v R, 2016 FCA 236.
+[12] Ibid., au paragraphe 14.
+[13] Ibid., au paragraphe 19.
+[14] Bremner c. La Reine, 2007 CCI 509, au paragraphe 28.
+[15] Kalef c. Canada, [1996] 2 CTC 1.
+[16] LSAO, précitée, note 8, alinéa 115(2)a).

@@ -1,0 +1,215 @@
+---
+title: "Ntakos Estate v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/350284/index.do"
+last_modified: "2018-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 224"
+citation2: ""
+neutral_citation: "2018 TCC 224"
+decision_date: "2018-11-14"
+language: "en"
+item_id: "350284"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5024
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:35:06.619000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cd89c4faac4a858340435100950065ba78263ab3ec44146ae25c2f5ba36b9d90"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ntakos Estate v. The Queen
+
+- Citation: 2018 TCC 224
+- Decision date: 2018-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5024, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ntakos Estate v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-11-14
+Neutral citation
+2018 TCC 224
+File numbers
+2017-2946(IT)APP
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-2946(IT)APP
+BETWEEN:
+THE ESTATE OF THE LATE ANNA NTAKOS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on September 14, 2018, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Applicant:
+Richard Yasny
+Counsel for the Respondent:
+Eric Myles
+ORDER
+IN ACCORDANCE with the Reasons for Order concerning the application for an extension of time to file a notice of objection for taxation years 1998 through 2002, inclusive and the application to vacate certain reassessments on the basis of mental incapacity, unauthorized filings and/or misrepresentation:
+THIS COURT ORDERS THAT:
+1. the application for an extension of time to file notices of objection in respect of the 1999 and 2000 taxation years relating to notices of assessment respectively dated September 5, 2000 and June 1, 2001 is hereby dismissed;
+2. the application for an extension of time to file notices of objection for the 1999, 2001 and 2002 is dismissed;
+3. the late applicant did not file amendment requests in respect of her 1998, 2001 and 2002 taxation years on a certain day in April, 2003, May 27, 2003 and May 27, 2003 (the “2003 filings”), respectively, because she lacked mental capacity to do so and/or the 2003 filings were filed without her knowledge, authority and/or direction; and as such, such purported amendment requests comprised of the 2003 filings are null and void;
+4. consequently, the three notices of reassessment, responsive to the void 2003 filings concerning respectively issued on February 26, 2004 and May 8, 2003 for the 1999 taxation year, on October 14, 2003 for the 2001 taxation year and on October 14, 2003 for the 2002 taxation year, are hereby vacated;
+5. these matters are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Order; and
+6. in light of the mixed results on the application, this Court makes no award as to costs.
+Signed at Ottawa, Canada, this 14th day of November 2018.
+“R.S. Bocock”
+Bocock J.
+Citation: 2018 TCC 224
+Date: 20181114
+Docket: 2017-2946(IT)APP
+BETWEEN:
+THE ESTATE OF THE LATE ANNA NTAKOS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+I. Facts
+[1] This application for an extension of time to file a notice of objection for taxation years 1998-2002 inclusive (the “taxation years”) is unlike few others that come before this Court. This statement is made for several reasons. The same application involves an estate (the “Estate” or “Anna”), a family owned business and a bitter family business dispute not primarily related to the Estate. Because no appeal can otherwise be brought, the application also involves assertions of mental incapacity on the part of Anna and unauthorized filing of tax returns and amendments purportedly on Anna’s behalf. These assertions go to the heart of the reassessments in respect of which the Estate wishes to have vacated, or, at least, to obtain an extension of time to object.
+(Re)assessments in Issue
+[2] The various material tax returns appear to have been filed and/or re-filed by adjustment requests. They were reassessed on the following dates relevant to this application. Because of the length of time and the absence of actual copies in either the hands of the Estate or the CRA, the dates are approximate based upon testimony and adduced CRA “Option C” print outs.
+Tax Year
+Date of Relevant Filing
+Method of Filing
+Operative Reassessment(s)
+1998
+April, 2003
+T1 Adjustment
+May 8, 2003 and February 26, 2004
+1999
+July or August, 2000
+T1 Adjustment
+September 5, 2000
+2000
+April 30, 2001
+T1 General
+June 1, 2001
+2001
+May 27, 2003
+T1 Adjustment
+October 14, 2003
+2002
+May 27, 2003
+T1 Adjustment
+October 14, 2003
+Late or No Filing of Objection
+[3] No notices of objections or applications for an extension of time to file a notice of objection were served on the Minister of National Revenue (the “Minister”) or filed with the Tax Court until, at the earliest: (i) July 16, 2015 in respect of the 1998 and 2002 taxation years; and (ii) April 29, 2016 for the other years and then only through reference to “and other tax years”. At an earlier stage in the litigation, the Estate representatives identified, albeit in lay terminology, the possibility of certain tax returns and other documentation having been prepared and filed without Anna’s knowledge and/or consent while she was alive. At the heart of the allegations of unauthorized filings is the consequential assertion that the Estate had no base information regarding the years in dispute. Similarly, the Estate could not easily obtain the documentation needed to ascertain which taxation years were affected by reassessment in order to properly ascertain and formulate the application. However, as early as March, 2017, this Court was well aware of the dearth of information that prevented the specification of appeal years on the Estate’s part. So was Respondent’s counsel at the time. Hence, the description of “other tax years” by the Estate. Further it is the basis upon which this Court is prepare to rule that after that particular appearance date, each year in dispute before this Court was sufficiently identified.
+Mental Capacity of Anna
+[4] At the hearing of the application, Anna’s three children, who are coincidentally her estate trustees, testified as to their mother’s mental and physical state, general knowledge and capacity to speak and understand English and to the comings and goings at the family business. Lionel Newton also testified. He is a certified public accountant and was the “accountant-at-large” during the material time for Anna, her feuding brothers-in-law and the family business. A Canada Agency Revenue (CRA) litigation officer testified by video conference concerning Anna’s filing and reassessment history as revealed by CRA’s records. It is interesting to note in this application, that until records were revealed by the CRA, the Estate was at a distinct disadvantage to know Anna’s assessment history of the years which ought to be in dispute.
+Medical Documentation
+[5] The state of Anna’s health is a major factor in this application. Anna’s health steadily declined from the death of her husband, John, in 1995 until her own death on October 5, 2004. Various medical documentation was entered into evidence detailing Anna’s pre-existing struggle with depression from the time of her husband’s death and her subsequent medical treatment for aggressive, metastatic breast cancer, diagnosed in the fall of 2002. References throughout the documentation indicate her forgetfulness, lack of comprehension of English and her general despondency.
+Bitter Family Dispute
+[6] Unfolding during the same period was a bitter dispute at the family owned business. The family business, Dupont Construction Supplies Limited, (“Dupont”) was indirectly owned by Anna and her two brothers-in-law. All three held equal shares in Ntakos Holdings Limited (“Holdings”), the holding body corporate of Dupont. The two brothers (“Ted” and “Gus”), until their falling out, ran Dupont as their personal fiefdom. They directed what income, bonuses and dividends would be declared. It was clear Anna simply went along after her husband’s death. The main dispute between Ted and Gus erupted over re-allocating shareholder loan accounts on an “actual contributor/benefit recipient” basis rather than the previously applied “rule of thumb” which allocated such shareholder loans and benefits equally. Re-allocating on such a basis would have considerably benefitted Gus, to a lesser degree Anna and dramatically disadvantaged Ted. Not surprisingly, Ted did not wish this. The bulk of contentious re-allocation discussions and resulting actions were undertaken collectively by Mr. Newton’s accounting firm.
+[7] Anna’s daughters, who worked as accounting clerks at Dupont, were summoned sometime in May 2002 into a meeting with uncles Gus and Ted. The two uncles and Mr. Newton described the dispute to them in couched terms. Little was resolved. No authority to undertake any further action was given by the daughters, confronted, as they were, with the nature of the feud for the first time. From testimony, it was revealed that Ted and Gus primarily used the services of a “trusted” off-site bookkeeper for their shareholding, management and director issues. She was the critical repository of the precise details of the shareholder advances, fringe benefits, management fees and director’s bonuses. In any event, no-one had legal authority from Anna, who had not yet been diagnosed with cancer, to resolve the bitter dispute on her behalf.
+[8] Ultimately, Anna’s tax position was impacted by the tax results of this internecine battle. In 2003, and specifically April and May of that year, various filings (the “2003 filings”) were made with the Minister on behalf of Anna, as seen from the chart above. These were prepared by Mr. Newton. These reflected various increased benefits allocated to her from Dupont and/or Holdings in the form of management fees and other employment income covering the 1998, 2001 and 2002 taxation years. The Minister further reassessed Anna based upon the 2003 filings.
+II. Issues
+[9] The identification of the issues within this application, which cannot consider the correctness of any subsisting reassessments on their merits unless granted, are:
+1. did Anna execute, authorize and/or file returns or adjustment request (“returns”) or have legal capacity to do so on the dates described above giving rise to the reassessments for the disputed years;
+2. if so, were the reassessments effectively issued and sent by the Minister to Anna in accordance with the provisions of the Income Tax Act, RSC 1985, c.1, as amended (the “Act”) on the dates indicated above.
+III. Analysis
+Objection to Void Reassessment not Required
+[10] If Anna did not file or grant authority to file some or all of the returns [1] or lacked mental capacity to do so [2] , then there was no need for her to object. Non est factum is available where a person is not capable of both reading and sufficiently understanding a document. Quite apart from the issue of effective sending of the reassessments, the Minister reassessed Anna based upon her returns and “amended returns” filed on the dates indicated in the table above. This was recognized by Respondent’s counsel who concurrently and logically urged the Court nonetheless to reject the arguments of incapacity, unauthorized filing and/or misrepresentaiton.
+Burden on Anna to Show Incapacity/Non Est Factum
+[11] The Court agrees with Respondent’s counsel that it is a considerable burden to satisfy the Court that mental incapacity or what is effectively misrepresentation of authority should be accepted [3] in this application.
+[12] With respect to mental capacity, the Estate faces the burden of showing that during the period from July 2000 until May 2003 (or some portion thereof), being the relevant period for all contested tax years, that Anna lacked sufficient mental capacity to understand the nature and quality of the filing her various returns and amendment requests at the time they were signed [4] . Or alternatively, that someone else without her authority and/or knowledge did so purportedly on her behalf [5] .
+Medical Evidence Concerning Possible Period of Incapacity
+[13] The evidence before the Court marshalled by the Estate, which was unrefuted by the Crown, was, as expected concerning a person dead for 14 years, somewhat general, anecdotal and circumstantial to the issue of Anna’s state. However, medical notes and reports from a family physician, emergency room admitting doctor and oncologists referenced Anna’s unstable medical, physical and mental condition and her inability to speak English. This documentary evidence spanned the period from the fall of 2002 until her death, but not the previous two years otherwise comprising the entire contested period.
+Capacity Existed for Certain Appeal Years
+[14] An analysis of the evidence before the Court in respect of the timing of any incapacity allows for some preliminary conclusions. Firstly, there is insufficient evidence to find that Anna lacked mental capacity before her diagnosis of metastatic breast cancer in the fall of 2002 (the “diagnosis date”). Any determination of mental incapacity must be fact base and current to the period and time of filing. The medical evidence, including the documentation which references her depression, commences from the diagnosis date. On that basis and with the legal presumption of capacity in the absence of contrary evidence, the Court, before considering Anna’s mental condition after the diagnosis date, concludes that Anna had capacity when she executed and filed her 1999 and 2000 tax returns. This filing occurred during July or August, 2000 and before April 30, 2001, respectively. The relevant assessment or reassessment for 1999 and 2000 taxation years also occurred prior to the diagnosis date. Coincidentally, such dates are much closer to the relevant balance due dates than the 2003 filings concerning other years in dispute. Therefore, if a reassessment for those dates was effectively sent, then Anna’s rights to file an objection and appeal for those years are extinguished.
+Anna’s Ability to Understand After the Diagnosis Date
+[15] Beyond the contemporaneous documentary medical evidence concerning the period after the diagnosis date, the balance of the factual witnesses testified concerning Anna’s mental state on an anecdotal basis. With the exception of Mr. Newton, each witness indicated that Anna was in a confused and depressed state from her diagnosis date until the time of her death. It was also quite clear she could not read English at all and spoke very little of it. When an important issue arose medically after the diagnosis date, an interpreter of Greek was required by her attending doctors. This would more likely than not also be true for the filing of amended tax returns disclosing management fees or other sums paid by Dupont or Holdings. In terms of collateral factual aids or reminders during any review or signing, Anna had never worked for Dupont and she most probably did not receive the actual sums qua salary or by cheque. In a proceeding involving Anna’s receipt of management fees for the 2004 taxation year, Justice Miller concluded that the invoicing and payment of such sums was a fiction [6] . Even if Anna had received the services of an interpreter, in her depressed and sickened state, on balance, she likely would not have understood. Importantly, there is no evidence this occurred.
+Accountant’s Inconsistent Testimony
+[16] Mr. Newton’s assertion that Anna was mentally competent or understood English is not compelling as a rebuttal. Firstly, unlike the other witnesses and the medical staff who authored the reports, he only met Anna once. Secondly, his evidence, not unlike his previous written communications produced at the hearing, struck the Court as approaching self-serving. The following facts give rise to inconsistency and cause the Court to assign the testimony as to comprehension and competency little weight.
+[17] Mr. Newton was inconsistent on the issue of Anna’s mental capacity over the years. At the hearing, he said he found her to be attentive and conversant in, or at least comprehending of, English when he met her. In contrast, the CRA’s then current made file notes exhibited in the CRA affidavit indicated otherwise. A CRA officer recorded that Mr. Newton had advised the CRA on February 20, 2006 concerning Anna’s 2003 taxation year when he stated that:
+“the deceased” in her vulnerable state executed documents shortly before her death which were dated July 8, 2004 in which she acknowledged receipt of said fees. The documents were in english [sic], in which the deceased had limited facility to read and/or write. The deceased did not have independent legal advice.
+More credence can be placed in the statement made by Mr. Newton to CRA only 18 months after Anna’s death, rather than that contrasting vive voce evidence recounted 14 years later before the Court. Either way, the evidence is contradictory.
+Questionable Authority to File
+[18] Regarding authority to take instructions from Ted and Gus regarding the affairs of Anna, Mr. Newton by his own hand drafted a document which suggests Anna’s interests were being glossed over. In May, 2001, Mr. Newton prepared for Ted and Gus and requested they sign a letter of authorization directed to Mr. Newton’s firm. That proposed authorization contained the following self-serving, yet contrary statements:
+1. shareholder loans should be allocated 1/3 each to Ted …, Gus … and Anna … (widow of John) … The allocations has be discussed with … Anna … and she understands its significance …
+[…]
+3. Gus and/or Ted … have authority to finalize statements and income returns on behalf of Anna …
+IV. Conclusion
+Who Was Filing the Returns and Amendments?
+[19] Curiously, having testified that he and his firm prepared Anna’s tax returns in preceding taxation years, Mr. Newton reported to Ted, Gus and Anna in writing on April 11, 2003 that CRA, through certain correspondence, had advised that Anna did not report a management bonus reflected in a T1 Adjustment request in 1998 in the amount of $29,500.00. It is incongruous that responsibility for such an omission would fall to Anna given Mr. Newton’s stated oversight of the preparation of the initial return. Further, the reliable and consistent addressing and delivery of reporting and filing information to Anna by Mr. Newton’s firm was non-existent. Hand delivery, courier, regular mail were all used. Correspondence was variably and occasionally addressed to: all three shareholders; Dupont for the shareholders; and one of the brothers for all three shareholders. Where correspondence landed is not known. On balance, it was likely not received by Anna. Even if received, after the diagnosis date, the issue of capacity remains.
+[20] Similarly, Mr. Newton indicated it was possible that his firm filed the T1 Adjustments comprising the 2003 filings directly on behalf of Anna. If so, based upon the evidence above, the Court believes more likely than not, the instructions to do so did not arise from Anna or someone authorized on her behalf. This is true, even if she had the capacity to give such instructions or authority. Instructions more likely came from Ted and/or Gus. The proposed confirmation of authority in paragraph 3 described in paragraph 17 above reflects as much. There was no evidence before the Court that anyone other than Anna had authority to file returns or adjustment requests on her behalf during the relevant period. Beyond that, it is probable she did not do so herself after the diagnosis date. Even if she did, she lacked capacity to do so.
+Certain Reassessments to be Vacated
+[21] This odd amalgamation of terminal illness, mental capacity, vulnerability and misrepresentation of authority compel this Court to act. The combined presence of such facts are clear: the consistent evidence from those who knew Anna best or medically attended her, the evidence of the distracting, self-serving and over-bearing instructions of Gus and Ted to Mr. Newton and the odd inter-play between mental capacity, terminal illness and misrepresentation of authority. On such a basis, the Court is prepared to find, on balance, that Anna from and after her diagnosis date, lacked mental capacity to execute or did not execute and file the 2003 filings: the T1 Adjustment requests in April 2003 relevant to her 1998 taxation year and the T1 Adjustment requests of May 27, 2003 relevant to the 2001 and 2002 taxation years. Therefore, the notices of reassessments responsive to the 2003 filings, respectively dated February 24, 2004 and May 8, 2003 for the 1999 taxation year, October 14, 2003 for the 2001 taxation year and October 14, 2003 for the 2002 taxation year respectively, were void [7] . The 2003 filings were not susceptible to reassessment. As such, the reassessments were consequential to invalid or unlawful filings and issued by the Minister under innocent mistake of fact. Accordingly, no objection was required to the void reassessments. Exclusively, the issue of the validity of a return and responsive reassessment is within the jurisdiction of this Court [8] .
+All Reassessments More Likely Than Not Sent by Minister
+[22] With respect to the 1999 and 2000 taxation years, the Court cannot so find. Those years pre-date the period of probable incapacity (i.e. the diagnosis date) and lack or inability to give authority for filing. The effective sending of the 1999 and 2000 assessment and/or reassessment by the Minister needs not be addressed at length. On the basis of the Respondent’s marshalled evidence, led by CRA testimony, it is more likely than not that those reassessments were sent by the Minister on September 5, 2000 and June 1, 2001 to the current address of the taxpayer. This is also true of the original assessments and for 1999, 2001 and 2002 taxation years and the responsive reassessments to the 2003 filings. The latter concerning the 2003 filings were simply issued under mistake of fact. The former dates of filing and sending all pre-date Anna’s diagnosis date and the height of the heated and acrimonious feuding and repercussions between Ted and Gus which led to the 2003 filings. Such is the state of the law that Anna’s receipt and review of them is irrelevant [9] provided the relevant (re)assessment was issued and sent. Evidence of this was present before the Court by virtue of the affidavits and the answers given on cross-examination by the CRA witness. The issue of whether Option C summaries were received in 2012 by the Estate is also irrelevant to the original assessments, since the Court concludes they had been sent. For such reasons, an application to extend the time to file a notice of objection on account of alleged non-receipt of the notices of assessments or reassessments cannot be granted for the 1999 and 2000 taxation years.
+[23] Part of the remedy originally sought was that of an order to extend the time to file a notice of objection for all five taxation years. The application also contained grounds that the reassessments be vacated on the basis they were responsive to void amendment requests or returns for the taxation years. Such a determination has been made solely in relation to the 2003 filings concerning the 1998, 2001 and 2002 taxation years. Accordingly, the previously subsisting assessments for those years will be revived [10] and are now operative. The Court is unaware of what that impact may be and, this is as it should be. Such original (re)assessments were validly sent in response to authentic filings. No evidence was led concerning the status of those original (re)assessments.
+Order to Issue - - Summary
+[24] For the foregoing reasons an order shall issue vacating the operative (re)assessments for the 1998, 2001 and 2002 taxation years, which in turn were responsive to the void 2003 filings. The application for an order extending the time to file a notice of objection is unnecessary for the reassessments responsive to the 2003 filings since no objection was required. Such an application is dismissed concerning the operative reassessments for the 1999 and 2000 taxation years.
+[25] In light of the mixed results on the application, the Court shall make no orders as to costs.
+Signed at Ottawa, Canada, this 14th day of November 2018.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2018 TCC 224
+COURT FILE NO.:
+2017-2946(IT)APP
+STYLE OF CAUSE:
+THE ESTATE OF THE LATE ANNA NTAKOS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 14, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+November 14, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Richard Yasny
+Counsel for the Respondent:
+Eric Myles
+COUNSEL OF RECORD:
+For the Appellant: Richard Yasny
+Name:
+Richard Yasny Tax Law
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Gyimah v HMQ, 2010 TCC 621 at paragraphs 40, 41 and 43.
+[2] Kanakas v HMQ, 1995 CarswellNat 1946 TCC at paragraph 8 adopting Sanders v Anglea Building Supply [1971] AC 1004(HL).
+[3] Baird Estate, Inre 2017 CarswellNat 530 at paragraph 14.
+[4] Wiens v HMQ, 2011 TCC 152 at paragraph 23.
+[5] ARPEG Holdings Ltd. v Canada, 2008 FCA 31, at paragraph 15.
+[6] The Estate of the late Anna Ntakos v HMQ, 2012 TCC 409.
+[7] Baytex Energy Ltd. v Canada, 2015 ABQB 278 at paragraph 66.
+[8] Canada v Roitman, 2006 FCA 266 at paragraphs 24 and 25.
+[9] Rossi v HMQ, 2015 FCA 267 at paragraph 7.
+[10] Lomport Investments Ltd. v R [1992] 1 CTC 351 at paragraph 8.

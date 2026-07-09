@@ -1,0 +1,260 @@
+Title: King c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/360973/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-2-360973-king-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-01-09
+
+# King c. La Reine
+
+- Citation: 2019 CCI 2
+- Decision date: 2019-01-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4667, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+King c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-01-09
+Référence neutre
+2019 CCI 2
+Numéro de dossier
+2016-2397(IT)G
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-2397(IT)G
+ENTRE :
+GREGORY P. KING,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 4 juin 2018 à Toronto (Ontario).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Pour l’intimée :
+Me Tanis Halpape
+ORDONNANCE
+VU le dépôt d’une requête par l’intimée visant à obtenir une ordonnance pour faire annuler l’appel interjeté par l’appelant pour les années d’imposition 1997, 1999, 2000, 2001, 2004, 2008 et 2010 et pour faire radier des parties du nouvel avis d’appel de l’appelant;
+ET VU les observations des deux parties et après avoir examiné les documents soumis;
+LA COUR ORDONNE QUE :
+(a) les prétendus appels concernant les années d’imposition 1997, 1999, 2000, 2001, 2004, 2008 et 2010 soient annulés en vertu de l’alinéa 53(3)b) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »);
+(b) les allégations suivantes soient radiées du nouvel avis d’appel en vertu de l’alinéa 53(1)d) des Règles :
+i. à la première page, l’inclusion des années d’imposition 1999 à 2012 dans le passage [traduction] « 1995 à 2012 inclusivement »;
+ii. les paragraphes 13, 31 à 34, 37 à 41, 43 à 51, 54, 55 et 61 à 74;
+iii. au paragraphe 53, les mots [traduction] « Nonobstant la demande de prorogation du délai pour présenter des éléments de preuve par le contribuable »;
+iv. à la page 13, le paragraphe 1;
+à la page 14, le paragraphe 1a).
+(c) l’appelant se voie refuser l’autorisation de déposer un autre plaidoyer modifié à l’égard de son nouvel avis d’appel;
+(d) l’intimée dépose et signifie au plus tard le 11 mars 2019 une réponse aux passages du nouvel avis d’appel qui n’ont pas été radiés;
+(e) des dépens de 1 500 $ soient adjugés à l’intimée et soient payés au plus tard le 11 février 2019.
+Signé à Montréal (Québec), ce 9e jour de janvier 2019.
+« Réal Favreau »
+Le juge Favreau
+Traduction certifiée conforme
+ce 9e jour de décembre 2019
+Mario Lagacé, jurilinguiste
+Référence : 2019 CCI 2
+Date : 20190109
+Dossier : 2016-2397(IT)G
+ENTRE :
+GREGORY P. KING,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Favreau
+[1] L’intimée a présenté une requête (la « requête ») pour faire annuler les appels de l’appelant relativement aux années d’imposition 1997, 1999, 2000, 2001, 2004, 2008 et 2010 en vertu de l’alinéa 53(3)b) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») et faire radier des parties du nouvel avis d’appel déposé le 13 décembre 2017 en vertu de l’alinéa 53(1)d) des Règles. Les allégations contestées sont reproduites à l’annexe A des présents motifs.
+[2] Les motifs de la requête sont les suivants :
+une condition préalable à l’ouverture d’un appel pour les années d’imposition 1997, 1999, 2000, 2001, 2004, 2008 et 2010 n’a pas été remplie, en ce sens que les avis d’opposition n’ont pas été signifiés au ministre du Revenu national (le « ministre ») pour l’une ou l’autre de ces années;
+il ne ressort du nouvel avis d’appel aucun motif raisonnable d’appel pour les années d’imposition 1999 à 2012, en ce sens qu’aucune allégation de fait n’a été faite ni aucune question soulevée dans le nouvel avis d’appel qui remettent en question le bien-fondé ou la validité d’une cotisation ou d’une nouvelle cotisation pour l’une ou l’autre de ces années;
+les paragraphes contestés ne révèlent aucun motif raisonnable d’appel en ce sens qu’ils ne contestent pas le bien-fondé ou la validité d’une cotisation ou d’une nouvelle cotisation et comprennent, entre autres choses, des allégations concernant la nouvelle cotisation d’autres contribuables.
+I. Requête visant à faire annuler les appels relativement aux années d’imposition 1997, 1999, 2000, 2001, 2004, 2008 et 2010
+[3] À l’appui de la requête en annulation des prétendus appels concernant les années d’imposition 1997, 1999, 2000, 2001, 2004, 2008 et 2010, l’intimée a déposé un affidavit de M. Robert Prodanuk, un agent d’appel de l’Agence du revenu du Canada (l’« ARC ») le 21 novembre 2016.
+[4] Selon un examen de la base de données de l’ARC en ce qui concerne les années d’imposition 1995 à 2012 de l’appelant, les cotisations ou les nouvelles cotisations qui ont été établies et postées à l’appelant à l’égard de ces années étaient les suivantes :
+Avis de nouvelle cotisation pour 1995 le 4 mai 2001
+Avis de nouvelle cotisation pour 1996 le 4 mai 2001
+Avis de nouvelle cotisation pour 1997 le 4 mai 2001
+Avis de nouvelle cotisation pour 1998 le 4 mai 2001
+Avis de cotisation pour 1999 le 29 juin 2000
+Avis de cotisation pour 2000 le 17 septembre 2001
+Avis de nouvelle cotisation pour 2001 le 2 décembre 2002
+Avis de cotisation pour 2002 le 24 juillet 2003
+Avis de cotisation pour 2003 le 25 octobre 2004
+Avis de cotisation pour 2004 le 8 août 2005
+Avis de cotisation pour 2005 le 17 octobre 2006
+Avis de cotisation pour 2006 le 17 avril 2008
+Avis de cotisation pour 2007 le 2 septembre 2008
+Avis de cotisation pour 2008 le 8 septembre 2009
+Avis de cotisation pour 2009 le 6 juillet 2010
+Avis de cotisation pour 2010 le 29 août 2011
+Avis de cotisation pour 2011 le 2 août 2012
+Avis de nouvelle cotisation le 26 novembre 2012
+Avis de cotisation pour 2012 le 12 août 2013
+[5] Un examen de la base de données de l’ARC a également révélé que :
+a) en ce qui concerne les années d’imposition 1997, 1999, 2000, 2001, 2004, 2008 et 2010, rien n’indique que le ministre a reçu un avis d’opposition pour l’une ou l’autre de ces années;
+b) en ce qui concerne les années d’imposition 1995, 1996, 1998, 2002, 2003, 2005, 2006, 2007, 2009, 2011 et 2012, des documents indiquaient que le ministre avait reçu un avis d’opposition pour chacune de ces années aux dates ou approximativement aux dates suivantes :
+1995 19 juillet 2001
+1996 19 juillet 2001
+1998 19 juillet 2001
+2002 17 octobre 2003
+2003 27 mai 2005
+2005 18 avril 2007
+2006 10 juin 2008
+2007 8 juin 2009
+2009 10 juin 2010
+2011 10 juin 2013
+2012 28 avril 2014
+[6] M. Robert Prodanuk a témoigné à l’audience et il a été contre-interrogé par l’appelant au sujet de son affidavit. M. Prodanuk a déclaré que l’affidavit avait été préparé par quelqu’un d’autre et qu’il l’avait signé après avoir examiné la base de données informatisée de l’ARC. Il a ajouté qu’il n’avait pas consulté personnellement les dossiers papier de l’appelant qui n’avaient pas encore été détruits parce que ces années faisaient toujours l’objet d’une opposition. L’appelant a mis en doute la fiabilité du système de base de données utilisé par l’ARC et a fait référence à une lettre de l’ARC datée du 22 février 2016 dans laquelle il manquait trois années d’appel (2003, 2009 et 2012). De toute façon, l’appelant n’a pas contesté le fait que, dans le cas des années d’imposition 1997, 1999 et 2000, il n’a pas déposé d’avis d’opposition et que, dans le cas des années d’imposition 2004 et 2008, il n’était pas certain s’il avait bel et bien déposé un avis d’opposition.
+[7] Aux termes du paragraphe 169(1) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), dans sa forme modifiée (la « Loi »), le contribuable doit d’abord produire un avis d’opposition à l’encontre d’une cotisation ou d’une nouvelle cotisation en vertu de l’article 165 de la Loi avant de pouvoir interjeter appel devant la Cour canadienne de l’impôt. Autrement dit, la signification d’un avis d’opposition est une condition préalable à l’introduction d’un appel devant la Cour canadienne de l’impôt. À défaut de produire un avis d’opposition à une cotisation ou à une nouvelle cotisation donnée, le contribuable n’aura pas le droit d’interjeter appel de la cotisation ou de la nouvelle cotisation auprès de la Cour canadienne de l’impôt. La Cour d’appel fédérale a, à de nombreuses occasions, confirmé la décision de notre Cour selon laquelle les appels devraient être annulés dans les cas où les avis d’opposition n’ont pas été signifiés au ministre en temps opportun (voir l’arrêt Bormann c. Canada, 2006 CAF 83).
+[8] En l’espèce, M. Robert Prodanuk a déclaré dans son affidavit que l’appelant n’a jamais signifié d’avis d’opposition au ministre à l’égard de ses années d’imposition 1997, 1999, 2000, 2001, 2004, 2008 et 2010. L’appelant n’a pas contesté l’absence d’avis d’opposition à l’égard des années d’imposition 1997, 1999 et 2000 et n’était pas certain si des avis d’opposition avaient été produits à l’égard des années d’imposition 2004 et 2008. Rien n’indique que des avis d’opposition ont effectivement été produits par l’appelant à l’égard de ses années d’imposition 2001, 2004, 2008 et 2010.
+[9] En l’espèce, en vertu du paragraphe 165(1) de la Loi, le délai pour produire des avis d’opposition à l’égard des années contestées est expiré, et l’appelant ne peut demander une prorogation du délai pour signifier des avis d’opposition en vertu du paragraphe 166.1(7) de la Loi. Le paragraphe 165(1) de la Loi énonce qu’un contribuable peut s’opposer à une cotisation ou à une nouvelle cotisation en signifiant au ministre un avis d’opposition au plus tard au dernier en date du jour qui tombe un an après la date d’échéance de production applicable au contribuable pour l’année ou au 90e jour suivant la date d’envoi de l’avis de cotisation ou de la nouvelle cotisation. En vertu du paragraphe 166.1(7) de la Loi, le contribuable peut demander une prorogation du délai pour contester une cotisation ou une nouvelle cotisation, mais cette demande doit être présentée dans l’année suivant l’expiration du délai prescrit par la Loi.
+[10] Pour ces motifs, les prétendus appels à l’égard des années d’imposition 1997, 1999, 2000, 2001, 2004, 2008 et 2010 de l’appelant sont annulés en vertu de l’alinéa 53(3)b) des Règles au motif que l’appelant a omis de remplir la condition préalable, c’est-à-dire qu’il n’a pas signifié au ministre des avis d’opposition relativement à ces années d’imposition, de sorte qu’il ne peut introduire d’appels valides devant la Cour en vertu du paragraphe 169(1) de la Loi.
+II. Requête en radiation de parties d’un acte de procédure
+[11] En vertu de l’alinéa 53(1)d) des Règles, la Cour peut radier un acte de procédure, en tout ou en partie, parce que l’acte ou tout autre document « ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel ».
+[12] Dans l’arrêt R. c. Imperial Tobacco Canada Ltée, [2011] 3 R.C.S. 45, la Cour suprême du Canada a confirmé le principe selon lequel un acte de procédure ou des passages de celui-ci peuvent être radiés s’il est « évident et manifeste » que l’acte de procédure ne révèle « aucune cause d’action raisonnable » et que la demande n’a « aucune possibilité raisonnable d’être accueillie » ou qu’il n’est pas « raisonnablement possible que l’action soit accueillie ». Une norme élevée doit donc être respectée. Pour que l’acte de procédure soit radié, il doit être évident et manifeste que la demande ne sera pas accueillie.
+A. Première page du nouvel avis d’appel (l’inclusion des années d’imposition 1999 à 2012 dans le passage « 1995 à 2012 inclusivement ») et paragraphes 33 et 34
+[13] L’intimée a affirmé que, même si des avis d’opposition ont été produits pour les années d’imposition 2002, 2003, 2005, 2006, 2007, 2009, 2011 et 2012, ces années d’imposition doivent être radiées puisque nulle part dans le nouvel avis d’appel l’appelant remet en question la validité ou le bien-fondé des cotisations ou des nouvelles cotisations pour une ou plusieurs de ces années.
+[14] L’intimée a fait remarquer que l’appelant n’a mentionné dans ses actes de procédure que le fondement des nouvelles cotisations pour les années d’imposition 1995, 1996 et 1998. Au paragraphe 29 du nouvel avis d’appel, sous le titre [traduction] « Nouvelles cotisations d’AFS », l’appelant fait référence aux années d’imposition 1995, 1996 et 1998 et affirme que le ministre [traduction] « […] a refusé la déduction par le contribuable des pertes enregistrées par la société qui ont été attribuées au contribuable ainsi que des frais d’intérêt et d’autres frais financiers déclarés par le contribuable relativement à l’acquisition de parts dans la société en commandite ».
+[15] Aux paragraphes 33 et 34 du nouvel avis d’appel, l’appelant conteste l’inclusion des pénalités, des intérêts sur les acomptes provisionnels et des intérêts sur les arriérés pour les années d’imposition 2002, 2003, 2005, 2006, 2007, 2009, 2011 et 2012 qui découlent des déductions qui ont été refusées pour les années d’imposition 1995, 1996 1998 et [traduction] « qui n’auraient pas été encourus si l’ADRC avait traité l’opposition à la renonciation d’AFS ».
+[16] Selon l’intimée, l’appelant soulève des questions concernant le calcul de sa dette, ce qui ne relève pas de la compétence de la Cour canadienne de l’impôt. Comme la Cour canadienne de l’impôt n’a pas compétence sur le calcul de l’intérêt d’une dette et que l’appelant a omis de contester la validité ou le bien-fondé des cotisations ou des nouvelles cotisations relativement aux années d’imposition 2002, 2003, 2005, 2006, 2007, 2009, 2011 et 2012, l’intimée affirme que la référence à ces années d’imposition à la première page du nouvel avis d’appel ainsi que les paragraphes 33 et 34 du nouvel avis d’appel doivent être radiés de celui-ci puisqu’il n’y a aucune possibilité raisonnable que la demande soit accueillie et aucun motif raisonnable d’appel.
+[17] L’argument de l’appelant sur cette question semble porter sur les pénalités, les intérêts sur les acomptes provisionnels et les intérêts sur les arriérés qui ont été imposés puisque les nouvelles cotisations d’AFS n’ont pas été traitées dans un délai raisonnable. Au paragraphe 39 du nouvel avis d’appel, l’appelant mentionne le fait qu’il [traduction] « a informé l’ADRC qu’une “cause type” ne constituait pas un motif valable pour que l’ADRC retarde le traitement de l’opposition à la renonciation d’AFS par le contribuable ».
+[18] Dans la décision Cheikhezzein c. La Reine, 2013 CCI 348, au paragraphe 16, la Cour a apporté une précision à la jurisprudence concernant la pertinence de la conduite du ministre dans le cadre d’un appel en matière fiscale en ces termes :
+En clair, compte tenu de la compétence de la Cour canadienne de l’impôt, la conduite du ministre n’a pas la moindre incidence sur l’issue de l’appel en cause, car le législateur a voulu que cet appel prenne la forme d’une enquête et d’une décision portant exclusivement sur la validité et l’exactitude de la cotisation, et non pas sur la méthode suivie pour en arriver à la décision de percevoir la cotisation. À supposer qu’il existe des mesures de redressement liées à la conduite du ministre, celles-ci doivent être cherchées ailleurs.
+[19] Comme la Cour canadienne de l’impôt n’a pas compétence sur les questions soulevées par l’appelant et comme il a omis de contester la validité ou le bien-fondé des cotisations ou des nouvelles cotisations établies relativement aux années d’imposition 2002, 2003, 2005, 2006, 2007, 2009, 2011 et 2012, ces années d’imposition doivent être radiées du passage [traduction] « 1995 à 2012 inclusivement » figurant à la première page du nouvel avis d’appel, et les paragraphes 33 et 34 du nouvel avis d’appel doivent aussi être radiés. Il n’est pas raisonnablement possible que ces questions soient tranchées favorablement par la Cour et elles ne présentent aucun motif raisonnable d’appel.
+B. Les paragraphes 13, 31, 32, 37 à 41, 43 à 51, 54, 55, 61 à 74, les mots [traduction] « Nonobstant la demande de prorogation du délai pour présenter des éléments de preuve par le contribuable» au paragraphe 53, au paragraphe 1 à la page 13 et au paragraphe 1(a) à la page 14
+[20] À tous les paragraphes cités précédemment, l’appelant a prétendu que les cotisations ou les nouvelles cotisations devraient être déclarées invalides par la Cour canadienne de l’impôt parce que le ministre a contrevenu aux [traduction] « principes fondamentaux de l’équité procédurale et de la justice naturelle » (paragraphe 50 du nouvel avis d’appel) dans la mesure où l’ADRC a privé l’appelant de son droit à une audience et de la possibilité de présenter sa preuve (paragraphe 1, à la page 13 du nouvel avis d’appel).
+[21] L’intimée a fait valoir que l’appelant ne peut pas interjeter appel en invoquant la façon dont les cotisations ou les nouvelles cotisations d’impôt sur le revenu ont été calculées, mais qu’il doit limiter ses appels à la question de savoir si les montants ayant servi à établir les cotisations ou les nouvelles cotisations sont exacts à la lumière de la Loi.
+[22] L’intimée a également allégué que les faits et les arguments invoqués par l’appelant dans ces paragraphes se rapportent à des faits qui, selon les prétentions de l’appelant, sont survenus après que les cotisations ou les nouvelles cotisations eurent été établies et à l’étape des appels auprès de l’ARC. Nulle part dans les paragraphes mentionnés précédemment l’appelant ne conteste-t-il la validité ou le bien-fondé des cotisations ou des nouvelles cotisations établies à l’égard des années d’imposition litigieuses. De plus, aux paragraphes 37, 38, 39 et 43 du nouvel avis d’appel, l’appelant fait des allégations concernant les nouvelles cotisations d’autres contribuables qui, de toute évidence, n’ont aucune incidence sur le bien-fondé de ses propres cotisations ou nouvelles cotisations, et n’ont pas pour effet non plus de remettre ce bien-fondé en question.
+[23] L’appelant a fait valoir que le refus de l’ARC de tenir une audience n’est pas un simple défaut de procédure. Il contrevient aux principes fondamentaux de la justice naturelle qui ont rendu les nouvelles cotisations invalides. Au paragraphe 67 du nouvel avis d’appel, l’appelant mentionne le refus de tenir une audience en ces termes :
+[traduction]
+En mars 2016, en refusant au contribuable la possibilité de se faire entendre sur l’un ou l’autre de ses appels, l’ADRC a conclu que la preuve du contribuable et que son « témoignage n’auraient aucune incidence sur la décision à l’égard des appels » et a donc rejeté les appels du contribuable.
+[24] L’appelant s’est appuyé sur une décision du juge Le Dain dans l’arrêt Cardinal c. Directeur de l’Établissement Kent, [1985] 2 R.C.S. 643, pour étayer sa thèse selon laquelle le refus de tenir une audience rend les nouvelles cotisations invalides et a cité le passage suivant tiré du paragraphe 23 de l’arrêt :
+[…] j'estime nécessaire d'affirmer que la négation du droit à une audition équitable doit toujours rendre une décision invalide, que la cour qui exerce le contrôle considère ou non que l'audition aurait vraisemblablement amené une décision différente. Il faut considérer le droit à une audition équitable comme un droit distinct et absolu qui trouve sa justification essentielle dans le sens de la justice en matière de procédure à laquelle toute personne touchée par une décision administrative a droit. Il n'appartient pas aux tribunaux de refuser ce droit et ce sens de la justice en fonction d'hypothèses sur ce qu'aurait pu être le résultat de l'audition.
+[25] En tout respect, je ne crois pas que la décision du juge Le Dain citée précédemment, qui a été rendue en droit criminel, s’applique aux questions fiscales.
+[26] En matière fiscale, il est bien établi que la Cour canadienne de l’impôt n’a pas compétence pour écarter une cotisation au motif d’un abus de procédure ou d’un abus de pouvoir et il est de jurisprudence constante qu'on ne peut tenir compte des actions de l’ARC dans le cadre d'appels interjetés à l'encontre d'un avis de cotisation (voir l’arrêt Main Rehabilitation Co. c. Canada, 2004 CAF 403).
+[27] Dans l’arrêt Ereiser c. Canada, 2013 CAF 20, la Cour d’appel fédérale a conclu que « la mission de la Cour canadienne de l’impôt lors d’un appel dirigé contre une cotisation d’impôt sur le revenu consistait à déterminer la validité et le bien‑fondé de la cotisation en fonction des dispositions applicables de la Loi de l’impôt sur le revenu et des faits donnant lieu à l’obligation du contribuable prévue par la loi. En toute logique, la conduite du fonctionnaire du fisc qui autorise l’établissement d’une cotisation n’est pas pertinente pour déterminer cette obligation prévue par la loi. Il est évident que la conduite fautive d’un fonctionnaire du fisc n’est pas pertinente quant à la détermination de la validité ou du bien‑fondé de la cotisation » (voir le paragraphe 31).
+[28] Encore une fois, dans l’arrêt Canada (Revenu national) c. JP Morgan Asset Management (Canada), 2013 CAF 250, la Cour d’appel fédérale a statué ce qui suit :
+[83] En appel, la Cour canadienne de l’impôt n’a pas compétence pour annuler une cotisation établie sur la base d’une conduite fautive du ministre, tel un abus de pouvoir ou un manquement à l’équité, ayant donné lieu à la cotisation […] Si une cotisation est bien-fondée [sic] au regard des faits et du droit, le contribuable doit payer l’impôt.
+[29] Compte tenu des faits allégués et des arguments invoqués quant à la conduite et au processus de révision de l’ARC, je conclus que ceux-ci ne présentent aucune possibilité raisonnable d’être accueillis au procès et que, pour ces motifs, ces paragraphes doivent être radiés du nouvel avis d’appel en vertu de l’alinéa 53(1)d) des Règles.
+Conclusion
+[30] Compte tenu des motifs qui précèdent, je conclus qu’il est évident et manifeste que les allégations factuelles, les questions en litige et les motifs invoqués à l’appui des arguments à faire valoir au procès n’auront aucune possibilité raisonnable de réussite, sont abusifs et, s’ils sont retenus, retarderont l’audition de l’appel.
+[31] La requête de l’intimée est accueillie et les prétendus appels concernant les années d’imposition 1997, 1999, 2000, 2001, 2004, 2008 et 2010 sont annulés. Les actes de procédure suivants sont radiés du nouvel avis d’appel :
+i. à la première page, l’inclusion des années d’imposition 1999 à 2012 dans le passage [traduction] « 1995 à 2012 inclusivement »;
+ii. les paragraphes 13, 31 à 34, 37 à 41, 43 à 51, 54, 55 et 61 à 74;
+iii. au paragraphe 53, les mots [traduction] « Nonobstant la demande de prorogation du délai pour présenter des éléments de preuve par le contribuable »;
+iv. à la page 13, le paragraphe 1;
+à la page 14, le paragraphe 1(a).
+[32] L’appelant se voit refuser l’autorisation de déposer un autre acte de procédure modifié à l’égard de son nouvel avis d’appel puisqu’il a eu l’occasion de modifier ses actes de procédure avant l’audition de la requête de l’intimée.
+[33] L’intimée doit produire et signifier au plus tard le 11 mars 2019 une réponse aux actes de procédure liés au nouvel avis d’appel qui n’ont pas été radiés.
+[34] Les dépens de 1 500 $ sont adjugés à l’intimée et doivent être payés au plus tard le 11 février 2019.
+Signé à Montréal (Québec), ce 9e jour de janvier 2019.
+« Réal Favreau »
+Le juge Favreau
+Traduction certifiée conforme
+ce 9e jour de décembre 2019.
+Mario Lagacé, jurilinguiste
+Annexe A
+[TRADUCTION]
+NOUVELLES COTISATIONS FAISANT L’OBJET DE L’APPEL
+Date Année
+Le 4 mai 2001 1995 à 2012 inclusivement
+(les « nouvelles cotisations »)
+Avis de ratification Le 24 mars 2016
+13. L’ADRC aurait dû savoir que l’associé commandité et Heenan Blaikie étaient en conflit d’intérêts avec le contribuable en ce que l’associé commandité, ses dirigeants et Heenan Blaikie étaient tous associés au promoteur de la société et qu’ils pourraient engager leur responsabilité à l’égard du contribuable pour leurs gestes, omissions ou déclarations fautifs, le cas échéant, relativement à la participation du contribuable dans la société.
+31. L’opposition à la renonciation d’AFS par le contribuable était propre au contribuable. Si l’opposition à la renonciation d’AFS par le contribuable était accueillie, son opposition à AFS serait inutile, car il serait « exclu » de la nouvelle cotisation d’AFS.
+32. La Section des appels de l’ADRC n’a pas communiqué avec le contribuable concernant ses oppositions à la renonciation d’AFS avant novembre 2010.
+33. Pour chaque année financière visée par l’appel, l’ADRC a établi une nouvelle cotisation à l’égard du contribuable pour les pénalités, les intérêts sur les acomptes provisionnels et les intérêts sur les arriérés.
+34. Le contribuable s’est opposé à ces nouvelles cotisations dans le cadre de ses oppositions à la renonciation d’AFS, car les pénalités, les intérêts sur les acomptes provisionnels et les intérêts sur les arriérés n’auraient pas été encourus si l’ADRC avait traité l’opposition à la renonciation d’AFS.
+37. D’autres procédures judiciaires susceptibles de toucher l’opposition à AFS par le contribuable ont eu lieu au cours de cette période sans que le contribuable ait été avisé, par signification ou non, ou ait eu l’occasion de participer, notamment une instance devant la Cour fédérale et un appel fondé sur le privilège au cours desquels AFS and Company Limited Partnership No. 5 (au sein de laquelle le contribuable était un associé commanditaire) était la demanderesse (Alliance Communications c. La Reine, 2001 CFPI 422) et à l’interrogatoire préalable (Status-One Investments Inc. c. La Reine).
+38. En 2003, l’ADRC a informé le contribuable que la Section des appels de l’ADRC attendait les résultats d’autres appels interjetés devant les tribunaux par l’ADRC dans une autre « cause type ». Le contribuable ne savait rien de la « cause type » ni des répercussions qu’elle pourrait avoir sur ses appels.
+39 Le contribuable a informé l’ADRC qu’une « cause type » ne constituait pas un motif valable pour que l’ADRC retarde le traitement de l’opposition à la renonciation d’AFS du contribuable. Cette opposition était propre au contribuable et n’était donc pas offerte aux autres associés commanditaires d’AFS.
+L’ADRC communique avec le contribuable en novembre 2010
+Ce n’est que le 3 novembre 2010 que l’agent de la Section des appels de l’ADRC, Guimmond Ringuette, a communiqué avec le contribuable concernant son opposition à la renonciation d’AFS déposé en 2001.
+Après une brève conversation, M. Ringuette a fait savoir au contribuable qu’il consulterait un conseiller du ministère de la Justice, car il était incapable de traiter les oppositions à la renonciation d’AFS sans avis juridique.
+Le dossier du contribuable est transféré pour « règlement »
+Aucune mesure apparente n’a été prise à l’égard de l’opposition à la renonciation d’AFS du contribuable jusqu’au 14 août 2013, lorsque M. Ringuette a informé le contribuable que son dossier avait été transféré aux fins d’un « règlement » englobant toutes les sociétés AFS. L’ADRC et Heenan Blaikie ont négocié ce règlement sans que le contribuable le sache ou y participe. Ce règlement ne traitait pas des oppositions à la renonciation d’AFS.
+Le 5 septembre 2014, le représentant de l’ADRC, Walter Dobson, a téléphoné au contribuable. Il a dit au contribuable que, s’il refusait d’accepter le règlement de l’AFS « tel quel », l’ADRC rejetterait sommairement ses appels et ratifierait toutes les nouvelles cotisations.
+Le 12 septembre 2014, le contribuable a écrit au représentant de l’ADRC, M. Dobson, pour lui demander de réexaminer ce rejet sommaire :
+[TRADUCTION]
+« Cette déclaration a été faite vers la fin de notre conversation. J’étais très étonné. Je ne savais pas que vous teniez une audience ni que vous preniez une décision. Je ne faisais pas d’observations ni ne présentais de documents à l’appui de ma thèse. Je croyais que notre discussion portait sur notre règlement.
+L’ARC est assujettie aux règles de la justice naturelle et de l’équité procédurale dans le traitement des appels portant sur des cotisations. Je m’attendais, conformément aux déclarations publiques de l’ARC et à ses pratiques antérieures, à ce qu’un appel portant sur une cotisation soit mené de façon impartiale et indépendante, et dans un délai raisonnable. Ce n’est pas ce qui s’est produit.
+Comme l’ARC n’est pas parvenue à traiter mes oppositions initiales pendant 15 ans, un rejet sommaire de mes appels contrevient aux principes fondamentaux de l’équité procédurale et de la justice naturelle.
+De plus, je ne connais pas la thèse fiscale que je dois réfuter. L’ARC semble avoir changé le fondement de sa nouvelle cotisation sans m’aviser. On ne n’a jamais donné l’occasion de présenter une preuve ni de me faire entendre. »
+L’ADRC n’a pas répondu à la lettre du contribuable.
+Le 23 février 2016, un autre représentant de l’ADRC, Rob Prodanuk, a téléphoné au contribuable et lui a dit que ses appels seraient rejetés s’il n’acceptait pas le règlement avec l’AFS « tel quel ».
+M. Prodanuk a également déclaré que son chef d’équipe lui avait demandé de ne pas tenir compte des oppositions à la renonciation d’AFS du contribuable.
+M. Prodanuk a fait savoir au contribuable qu’il était trop tard pour présenter sa preuve, malgré les protestations du contribuable selon lesquelles personne à l’ADRC n’avait à aucun moment demandé sa preuve ou prévu une audience pour la présentation de ses observations.
+Le 23 février 2016, le contribuable a envoyé par télécopieur à M. Prodanuk une lettre confirmant les détails de leur conversation plus tôt ce jour-là. Le contribuable a de nouveau informé l’ADRC qu’un rejet sommaire de son appel allait à l’encontre des principes fondamentaux de l’équité procédurale et de la justice naturelle.
+L’ADRC demande au contribuable de fournir des éléments de preuve
+Le 25 février 2016, M. Prodanuk a écrit au contribuable pour lui demander de fournir au plus tard le 15 mars 2016 ses éléments de preuve à l’appui de la déduction par le contribuable des pertes de la société et des frais d’intérêt. À ce moment-là, M. Prodanuk savait que le contribuable était à l’extérieur du Canada et qu’il ne recevrait pas la lettre par la poste avant son retour.
+53. Nonobstant la demande de prorogation du délai pour présenter ses éléments de preuve, l’ADRC a émis son avis de confirmation des nouvelles cotisations le 24 mars 2016.
+L’ADRC prive le contribuable de son droit à une audience
+54. Dans son avis de confirmation, l’ADRC a conclu qu’elle ne voulait pas de preuve du contribuable puisqu’elle avait déjà pris sa décision :
+[TRADUCTION]
+« Vous avez indiqué que la preuve que vous aviez à l’appui de votre position était principalement constituée d’affidavits de promoteurs d’AFS et d’autres attestant de la légitimité des déductions. Après un examen approfondi, nous avons conclu qu’un témoignage n’aurait aucune influence sur la décision de la Section des appels, compte tenu des années d’analyse déjà consacrées aux questions de fond en cause. »
+55. L’ADRC a privé le contribuable de son droit à une audience. Il n’a pas été autorisé à présenter les documents, la note de service ou d’autres éléments de preuve qu’il avait à présenter, ni à présenter des observations concernant les nouvelles cotisations.
+61. Le contribuable n’a pas eu l’occasion de présenter des observations ni de fournir des éléments de preuve concernant ses oppositions aux nouvelles cotisations. Il n’a pas été avisé du changement quant à l’argument principal de l’ADRC à l’appui des cotisations. En bref, l’ADRC a privé le contribuable de son droit à une audience.
+Motifs des oppositions
+Nouvelles cotisations invalides
+Le contribuable s’est vu refuser le droit d’être entendu lors d’une audience
+Le contribuable a présenté ses avis d’opposition par courrier recommandé le 19 juillet 2001. Les oppositions ont été formulées pour deux raisons : l’opposition à AFS et l’opposition à la renonciation d’AFS. D’autres avis d’opposition ont été présentés pour les années financières subséquentes dans le cadre de l’opposition à la renonciation d’AFS.
+La Section des appels de l’ADRC n’a pas communiqué avec le contribuable pour discuter du traitement de l’opposition à la renonciation d’AFS avant novembre 2010.
+En 2012, sans avoir traité l’opposition à la renonciation d’AFS, la Section des appels de l’ADRC a transféré le dossier du contribuable pour « règlement » avec les oppositions à AFS.
+À deux reprises, les représentants de l’ADRC ont présenté un ultimatum au contribuable : accepter l’offre de règlement « telle quelle » ou voir ses appels rejetés.
+Le contribuable n’a pas accepté l’offre de règlement. Elle ne portait pas sur les oppositions à la renonciation d’AFS.
+En mars 2016, refusant au contribuable la possibilité de se faire entendre dans l’un ou l’autre de ses appels, l’ADRC a conclu que la preuve et [TRADUCTION] « le témoignage du contribuable n’auraient aucune incidence sur la décision relative aux appels » et a rejeté les appels du contribuable.
+La Cour canadienne de l’impôt dispose d’un recours adéquat et curatif, et les droits procéduraux disponibles plus tard peuvent corriger des manquements procéduraux antérieurs1.
+Le contribuable s’est toutefois vu refuser le droit d’être entendu lors d’une audience.
+Le refus de l’ADRC de tenir une audience n’est pas un simple vice de procédure. Il va à l’encontre des principes fondamentaux de la justice naturelle et rend les nouvelles cotisations invalides2.
+Le droit à une audience impartiale constitue un droit indépendant absolu qui trouve sa principale justification dans la justice procédurale, à laquelle a droit toute personne touchée par une décision administrative.
+Le refus de tenir une audience doit toujours rendre une décision invalide, qu’il puisse sembler ou non à une cour de révision que l’audience aurait vraisemblablement donné lieu à une décision différente.
+Il est respectueusement soumis qu’une cour ne doit pas nier ce droit ni un sentiment de justice en raison de spéculations quant au résultat qu’aurait pu avoir une audience.
+Il est respectueusement soumis que le refus de tenir une audience rend les nouvelles cotisations invalides.
+QUESTIONS À TRANCHER
+1. Les nouvelles cotisations sont-elles invalides parce que l’ADRC a privé le contribuable de son droit à une audience et de la possibilité de présenter une preuve?
+MOTIFS
+1. L’appelant affirme ce qui suit :
+a) les nouvelles cotisations sont invalides puisque l’ADRC a privé le contribuable de son droit à une audience et de la possibilité de présenter une preuve;
+RÉFÉENCE :
+2019 CCI 2
+No DU DOSSIER DE LA COUR :
+2016-2397(IT)G
+INTITULÉ :
+Gregory P. King et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 4 juin 2018
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Réal Favreau
+DATE DE L’ORDONNANCE :
+Le 9 janvier 2019
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Pour l’intimée :
+Me Tanis Halpape
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

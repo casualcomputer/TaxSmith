@@ -1,0 +1,150 @@
+Title: Tachi Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22427/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-388-22427-tachi-ltd-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-07-05
+
+# Tachi Ltd. v. The Queen
+
+- Citation: 2006 CCI 388
+- Decision date: 2006-07-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2249, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tachi Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-05
+Référence neutre
+2006 CCI 388
+Numéro de dossier
+2005-2236(GST)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-2236(GST)I
+ENTRE :
+TACHI LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 juin 2006 à Ottawa (Ontario).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l'appelante :
+K. E. Koshy
+Avocate de l'intimée :
+Me Tripti Prinja
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise (la « LTA » ) pour la période du 1er janvier 2000 au 31 décembre 2003, dont l'avis est daté du 28 juillet 2004, est accueilli avec dépens, et la question est déférée au ministre du Revenu national pour qu'il procède à un nouvel examen et à une nouvelle cotisation en tenant pour acquis que l'appelante a droit à des crédits de taxe sur les intrants d'un montant de 2 564,55 $ pour la période en cause en application de l'article 169 de la LTA. La pénalité et l'intérêt imposés sont annulés.
+Signé à Ottawa, Canada, ce 5e jour de juillet 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 20e jour de septembre 2006.
+Jean David Robert, traducteur
+Référence : 2006CCI388
+Date : 20060705
+Dossier : 2005-2236(GST)I
+ENTRE :
+TACHI LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Dans un avis de cotisation daté du 28 juillet 2004, le ministre du Revenu national (le « ministre » ) a refusé des crédits de taxe sur les intrants (les « CTI » ) d'un montant de 2 564,55 $ demandés par l'appelante pour la période du 1er janvier 2000 au 31 décembre 2003. Les faits allégués par Cyrus Driver, l'unique actionnaire et cadre de l'appelante, sont résumés fidèlement au paragraphe 3 de l'exposé des faits et moyens annexé à l'avis d'appel, qui énonce ce qui suit :
+[traduction]
+• Cyrus Driver est l'unique actionnaire et le seul cadre de la Tachi.
+• M. Cyrus Driver (ci-après « M. Driver » ), qui est propriétaire et gestionnaire de la société Tachi Limited (ci-après « Tachi » ), a immigré au Canada en 1994 et il s'est mis à examiner la possibilité de lancer une nouvelle formule de restaurant à locaux multiples. M. Cyrus Driver a été admis au Canada en tant que membre de la catégorie des gens d'affaires immigrants.
+• M. Driver a participé à l'exploitation de multiples entreprises depuis l'âge de 17 ans. Il a exploité des restaurants en Inde et a subséquemment ouvert un restaurant en Arabie saoudite (ci-après le « RAS » ). Ce restaurant connu sous le nom de « Grill » existe depuis 1985. Très populaire, le Grill comptait, au départ, six employés et occupait des locaux de 650 pieds carrés, et il compte maintenant 30 employés et occupe une surface de 10 000 pieds carrés. Il faut savoir que les ententes régissant la propriété et le commerce qui sont établies au RAS sont particulières à ce pays et ne sont pas décrites en l'espèce.
+• En immigrant au Canada, M. Driver cherchait à y développer la formule qui avait fait ses preuves au RAS, à y transférer la technologie qu'elle exigeait et à y ouvrir de multiples restaurants sous la raison sociale de « Tachi » .
+• M. Driver prévoyait que l'exécution du projet prendrait environ quatre ou cinq ans. Cependant, cette période a été prolongée à cause de facteurs indépendants de la volonté de l'appelante. Les principaux facteurs et problèmes ayant prolongé la phase de démarrage sont les suivants :
+• Des problèmes concernant la société de personnes dont M. Driver était un associé au RAS et les difficultés financières auxquelles ils ont donné lieu.
+• Le 11 septembre 2001 et ses conséquences économiques au RAS sur le Grill, qui devait fournir la majeure partie des fonds nécessaires au financement d'investissements au Canada.
+• La deuxième guerre du Golfe.
+• L'agitation politique continuelle au RAS, des attentats terroristes, le départ du personnel occidental du RAS, la baisse des ventes du Grill et le fait que M. Driver a été forcé de rester au RAS pour redresser le Grill.
+• Le 31 décembre 2003, M. Driver avait déjà investi 339 347 $ dans la Tachi.
+• Pour les besoins de la comptabilité, l'appelante a inscrit ses dépenses à son actif en se fondant sur les principes comptables généralement reconnus (les « PCGR » ) afin de resserrer la correspondance entre ses coûts et ses revenus futurs.
+• L'appelante a mené des recherches approfondies et des études de faisabilité exhaustives et elle effectue les derniers préparatifs de l'ouverture de la première des multiples installations prévues.
+[2] L'intimée a refusé les CTI demandés pour le motif que l'appelante, qui est inscrite aux fins de la taxe sur les produits et services (la « TPS » ) depuis le 21 juillet 1997, demande des CTI depuis 1998, mais n'a jamais effectué de fourniture taxable.
+[3] L'intimée soutient que l'appelante n'exerce pas de façon régulière ou continue une activité qui comporte la fourniture de biens ou de services moyennant contrepartie, ce qui, selon l'intimée, est requis pour qu'une personne soit considérée comme exploitant une entreprise ou exerçant une activité commerciale.
+[4] Pour qu'elle soit en mesure de demander des CTI, l'appelante doit prouver qu'elle a acquis un bien ou un service pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales en application du paragraphe 169(1) de la Loi sur la taxe d'accise (la « LTA » ), qui est ainsi rédigé :
+169(1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d'une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu'elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l'importation ou au transfert devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable :
+A × B
+où :
+A représente la taxe relative à la fourniture, à l'importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable;
+B :
+a) dans le cas où la taxe est réputée, par le paragraphe 202(4), avoir été payée relativement au bien le dernier jour d'une année d'imposition de la personne, le pourcentage que représente l'utilisation que la personne faisait du bien dans le cadre de ses activités commerciales au cours de cette année par rapport à l'utilisation totale qu'elle en faisait alors dans le cadre de ses activités commerciales et de ses entreprises;
+b) dans le cas où le bien ou le service est acquis, importé ou transféré dans la province, selon le cas, par la personne pour utilisation dans le cadre d'améliorations apportées à une de ses immobilisations, le pourcentage qui représente la mesure dans laquelle la personne utilisait l'immobilisation dans le cadre de ses activités commerciales immédiatement après sa dernière acquisition ou importation de tout ou partie de l'immobilisation;
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l'a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[5] L'expression « activité commerciale » est définie au paragraphe 123(1) de la LTA de la façon suivante :
+123(1) Les définitions qui suivent s'appliquent à l'article 121, à la présente partie et aux annexes V à X.
+[...]
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l'exploitation d'une entreprise (à l'exception d'une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l'ensemble des associés sont des particuliers), sauf dans la mesure où l'entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l'exception de quelque projet ou affaire qu'entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l'ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l'affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures, sauf des fournitures exonérées, d'immeubles appartenant à la personne, y compris les actes qu'elle accomplit dans le cadre ou à l'occasion des fournitures.
+Le terme « entreprise » est lui aussi défini au paragraphe 123(1) :
+« entreprise » Sont compris parmi les entreprises les commerces, les industries, les professions et toutes affaires quelconques avec ou sans but lucratif, ainsi que les activités exercées de façon régulière ou continue qui comportent la fourniture de biens par bail, licence ou accord semblable. En sont exclus les charges et les emplois.
+[6] L'exigence selon laquelle l'activité doit être exercée de façon régulière ou continue ne s'applique qu'à une activité qui comporte la fourniture de biens par bail, licence ou accord semblable.
+[7] Selon la définition du terme « entreprise » , sont comprises parmi les entreprises toutes affaires quelconques avec ou sans but lucratif. Il n'y a aucune exigence selon laquelle l'entreprise doit être exploitée avec une attente raisonnable de profit lorsque c'est une société qui l'exploite.
+[8] En l'espèce, M. Driver a affirmé qu'à la fin de l'année 2003 il avait déjà investi 340 000 $ dans l'exploitation de l'appelante. Cette somme représente les dépenses engagées pour le financement de recherches et d'études de faisabilité en vue non seulement de l'ouverture d'une chaîne de restaurants à Ottawa et à Toronto, mais aussi du lancement d'une nouvelle formule axée sur des aliments sains et nutritifs, laquelle consiste notamment à travailler de concert avec la Fondation des maladies du coeur (voir l'étude de faisabilité déposée sous la cote A-1). L'appelante avait un employé au Canada pendant que M. Driver faisait la navette entre le Canada et l'Arabie saoudite pour s'occuper de son restaurant renommé dans ce pays.
+[9] À son arrivé au Canada en 1994, M. Driver avait prévu un délai de cinq ans pour ouvrir le premier restaurant en appliquant sa nouvelle formule. À cause de la guerre qui se déroulait au Moyen-Orient et de tous les problèmes liés au terrorisme auxquels faisait face cette région, ses projets ont été retardés. L'entreprise que M. Driver exploitait en Arabie saoudite rapportait moins d'argent pour le financement de ses activités au Canada, et il ne pouvait être présent au Canada autant qu'il le voulait. Bien que l'appelante n'ait loué aucuns locaux jusqu'à maintenant, M. Driver a dit croire sincèrement qu'il pourra commencer à exploiter son premier restaurant au Canada dans les huit prochains mois.
+[10] Le montant des CTI demandés représente moins de 3 000 $, et ils se rapportent à des frais de bureau, tels que des frais d'affranchissement et de publicité (voir le rapport du vérificateur, pièce R-3, page I1). L'appelante n'a déclaré aucun revenu ni déduit aucune dépense aux fins d'imposition pour la période en cause. Cependant, elle a établi, pour chaque année d'imposition, un bilan non vérifié dans lequel les fonds investis par M. Driver ont été inscrits à l'actif de l'appelante (voir la pièce A-1).
+[11] L'appelante se fonde sur la politique P-167R de l'Agence du revenu du Canada (l' « ARC » ), qui énumère un certain nombre de facteurs dont il faut tenir compte lorsqu'il s'agit de décider si une activité représente une affaire ou une entreprise au sens de la LTA. Ces facteurs sont la mesure dans laquelle :
+1) l'activité représente une affaire sérieuse poursuivie avec conviction;
+2) l'activité est poursuivie activement et présente une continuité raisonnable et reconnaissable;
+3) l'activité est menée de façon saine en s'appuyant sur des principes commerciaux reconnus et des registres sont tenus à cet effet;
+4) les fournitures, s'il y a lieu, s'apparentent à celles qui, sous réserve de différences dans les détails, sont couramment réalisées par des personnes dont le but est d'en tirer des bénéfices;
+5) l'activité facilite ou favorise la réalisation de fournitures;
+6) l'activité appuie d'autres activités visant à dégager des recettes.
+[12] Selon l'ARC, le terme « affaire » ne se rapporte qu'aux activités liées ou s'apparentant aux activités exploitées dans un esprit d'entreprise dont l'objectif consiste à réaliser des bénéfices. Cependant, l'ARC admet dans sa politique qu'il se peut que la présence de seulement deux des facteurs décrits ci-dessus soit suffisante pour qu'il puisse être conclu qu'une « affaire » existe.
+[13] L'intimée se fonde sur la décision Two Carlton Financing Ltd. c. Canada, [1998] A.C.I. n º 447 (QL), dans laquelle le juge Rip a affirmé ce qui suit :
+¶ 35 [...] La définition d' « activité commerciale » au paragraphe 123(1) de la Loi n'exige pas expressément que des fournitures taxables soient réalisées. Il est néanmoins difficile d'imaginer qu'une entreprise puisse être exploitée sans que son activité ne soit assimilable à une fourniture.
+¶ 36 De façon concrète, dans l'exploitation d'une entreprise, sauf dans la mesure où il s'agit de réaliser des fournitures exonérées, presque toutes les activités constituent des fournitures. Par définition, ces fournitures sont des fournitures taxables. De toute façon, il y a activité commerciale si une entreprise participe à la réalisation de fournitures par la personne qui exploite l'entreprise et qui ne sont pas des fournitures exonérées. Puisque l'appelante n'a déclaré ni vente ni revenu pendant la période, on peut raisonnablement supposer qu'elle n'a pas exercé d'activité commerciale pendant la période et, si tel est le cas, l'appelante ne peut être jugée admissible aux CTI dans la période [Voir Note 9 ci-dessous].
+__________________________
+Note 9 : Je ne pense pas qu'il soit nécessaire au moment du « démarrage » d'une entreprise, par exemple, que des fournitures soient effectuées pour qu'elle ait droit aux CTI. Les dépenses donnant lieu aux CTI doivent être faites avec l'intention d'exercer une activité commerciale ou dans le cours d'une activité commerciale. Il existe aussi des circonstances pour lesquelles aucune TPS n'est payée ou payable et où, malgré tout, le droit aux CTI reste (par exemple, lorsque des fournitures taxables sont réputées être détaxées selon un choix exercé en vertu de l'article 156).
+[14] Le ministre est d'avis que la période de démarrage ne peut pas se prolonger indéfiniment. L'appelante s'est vu accorder des CTI pour les deux premières années (1998 et 1999), ce qui, selon l'intimée, est suffisant. L'avocate de l'intimée invoque à l'appui de cette affirmation l'arrêt Watt c. Canada, [1997] A.C.F. n º 1237 (CAF) (QL). Cependant, dans l'arrêt Watt la question était de savoir si la contribuable avait une attente raisonnable de profit dans le cadre de l'exploitation d'une entreprise dont elle cherchait à déduire les pertes. Cette exigence ne s'applique pas en l'espèce puisque, en matière TPS, le terme « entreprise » englobe toutes affaires quelconques avec ou sans but lucratif.
+[15] Compte tenu des éléments de preuve qui ont été portés à ma connaissance, je suis convaincue que, bien que des années se soient écoulées sans que l'appelante ait exploité de restaurant au Canada, elle a démontré qu'elle avait effectué des recherches approfondies et mené des études de marché et des études de faisabilité exhaustives qui portaient sur une nouvelle formule de restaurant et qu'elle avait tenu des registres convenables à cet égard, de sorte que l'activité exercée par l'appelante peut être considérée comme une affaire sérieuse poursuivie avec conviction. J'accepte les explications données par M. Driver concernant les raisons pour lesquelles l'ouverture du premier restaurant a été retardée. Selon son témoignage, il est sur le point d'accomplir ce à quoi il travaille depuis si longtemps.
+[16] J'estime que la définition du terme « entreprise » donnée au paragraphe 123(1) de la LTA est assez vaste pour inclure l'activité exercée par l'appelante. Les montants déduits sont très raisonnables comparativement aux investissements réalisés. C'est la nature commerciale de l'activité du contribuable qui doit être évaluée, et non son sens des affaires (voir l'arrêt Stewart c. Canada, [2002] A.C.S. n º 46 (QL), paragraphe 55).
+[17] L'appel est donc accueilli avec dépens, et la question est déférée au ministre pour qu'il procède à un nouvel examen et à une nouvelle cotisation en tenant pour acquis que l'appelante a droit à des crédits de taxe sur les intrants d'un montant de 2 564,55 $ pour la période en cause en application de l'article 169 de la LTA. La pénalité et l'intérêt imposés sont annulés.
+Signé à Ottawa, Canada, ce 5e jour de juillet 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 20e jour de septembre 2006.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI388
+N º DU DOSSIER DE LA COUR : 2005-2236(GST)I
+INTITULÉ : Tachi Ltd. c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Ottawa (Ontario)
+DATE DE L'AUDIENCE : Le 19 juin 2006
+MOTIFS DU JUGEMENT : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 5 juillet 2006
+COMPARUTIONS :
+Représentant de l'appelante :
+K. E. Koshy
+Avocate de l'intimée :
+Me Tripti Prinja
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,169 @@
+---
+title: "Odebala-Fregene c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108239/index.do"
+last_modified: "2015-02-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 44"
+citation2: ""
+neutral_citation: "2015 CCI 44"
+decision_date: "2015-02-20"
+language: "fr"
+item_id: "108239"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2757
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:40:58.314000+00:00"
+cases_cited_count: 10
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c90ce54ab44f8141b6a7127f1db53a6a3bd878bd97847ad41540646505bc3354"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Odebala-Fregene c. La Reine
+
+- Citation: 2015 CCI 44
+- Decision date: 2015-02-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2757, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Odebala-Fregene c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-02-20
+Référence neutre
+2015 CCI 44
+Numéro de dossier
+2014-3370(IT)APP
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-3370(IT)APP
+ENTRE :
+UFUOMA ODEBALA-FREGENE,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+Demande entendue le 2 décembre 2014, à Toronto (Ontario)
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Pour la demanderesse :
+La demanderesse elle-même
+Avocat de l’intimée :
+Me Leonard Elias
+ORDONNANCE
+La demande présentée en vue d’obtenir une ordonnance prorogeant le délai imparti pour signifier un avis d’opposition pour l’année d’imposition 2010 est rejetée. La demanderesse s’est désistée de la demande qu’elle avait présentée en vue d’obtenir une prorogation du délai imparti pour signifier un avis d’opposition pour l’année d’imposition 2009.
+Chaque partie assumera ses propres dépens.
+Signé à Vancouver, Colombie-Britannique, ce 20e jour de février 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 14e jour de mai 2015.
+Johanne Matte, LL.L, D.D.N., B.A. Trad.
+Référence : 2015 CCI 44
+Date : 20150220
+Dossier : 2014-3370(IT)APP
+ENTRE :
+UFUOMA ODEBALA-FREGENE,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DE L’ORDONNANCE
+Le juge Lyons
+[1] Ufuoma Odebala-Fregene, la demanderesse, a présenté une demande de prorogation du délai imparti pour signifier un avis d’opposition (l’« avis d’opposition ») au ministre du Revenu national à l’égard des années d’imposition 2009 et 2010. La demande a été déposée à la Cour le 2 septembre 2014.
+[2] Le 5 novembre 2014, la demanderesse a déposé une demande modifiée en vue de se désister de la demande relative à l’année d’imposition 2009 et de demander que seule la demande relative à l’année d’imposition 2010 (la « demande ») soit instruite.
+[3] Le 18 novembre 2014, l’intimée a déposé une réponse à la Cour en opposition à la demande, au motif que la demande adressée au ministre en vue de solliciter une prorogation du délai pour s’opposer n’a pas été présentée dans le délai d’un an suivant l’expiration du délai par ailleurs fixé par la Loi de l’impôt sur le revenu (la « Loi ») pour signifier un avis d’opposition, comme l’exige l’alinéa 166.1(7)a).
+[4] Selon l’affidavit modifié déposé par un fonctionnaire de l’Agence du revenu du Canada (l’« ARC ») au soutien de la réponse, le ministre a envoyé par courrier une nouvelle cotisation le 24 février 2012, et a posté la dernière nouvelle cotisation concernant l’année d’imposition 2010 le 16 avril 2012. La date, un an après le dernier jour (le 90e et dernier jour du délai étant le 16 avril 2012) pour signifier un avis d’opposition à la nouvelle cotisation, était le 16 juillet 2013.
+[5] La demanderesse a témoigné qu’il n’était pas possible de signifier un avis d’opposition ou une demande dans le délai imparti, car elle ignorait qu’elle pouvait s’opposer jusqu’à ce qu’un fonctionnaire de la Division du recouvrement de l’ARC communique avec elle. Après avoir été informée de cette possibilité, elle a immédiatement signifié un avis d’opposition au ministre, soit le 9 mai 2014. L’avis, joint à la demande, énonce ce qui suit :
+[traduction] Je dépose le présent avis officiel d’opposition après l’expiration du délai imparti, car ce n’est que le 15 avril 2014 que j’ai appris qu’il était possible de déposer un tel avis.
+[6] Par une lettre datée du 5 juin 2014, laquelle a été déposée comme pièce A‑5, le ministre a avisé la demanderesse que l’opposition avait été traitée comme une demande présentée en application de l’article 166.1 en vue de faire proroger le délai pour s’opposer à la cotisation. La demande a cependant été rejetée, car elle a été présentée après l’expiration du délai imparti par la Loi.
+[7] Le différend entre la demanderesse et le ministre porte sur la possibilité de réclamer, au Canada, le crédit pour impôt étranger (le « CIÉ »). La demanderesse a immigré au Canada en 2007 pour joindre son mari, mais elle a continué à travailler pour la Commission des droits de la personne au Royaume‑Uni et a tiré un revenu d’emploi étranger jusqu’en juillet 2010. Elle a reçu une lettre de l’ARC l’informant que sa déclaration de revenus et de prestations pour l’année d’imposition 2010 était à l'étude et lui demandant de fournir d’autres renseignements[1]. La demanderesse allègue que la réclamation au titre du CIÉ a été refusée par l’ARC malgré le fait que le formulaire P45 de HM Revenue & Customs (autorité fiscale du Royaume-Uni) y ait été joint. Cependant, la preuve montre que l’ARC a demandé des précisions en ce qui concerne le CIÉ, et qu’elle a continué de le faire jusqu’au 5 avril 2012[2].
+[8] Même si elle reconnaît que la demande a été présentée au ministre après le délai imparti par la Loi, la demanderesse fait valoir que l’obligation d’« équité procédurale » de la common law – en tant que complément fondamental du droit administratif – a préséance sur les dispositions législatives ayant trait au délai. L’ARC, à titre d’organe du gouvernement, est assujettie à cette obligation qui est imposée indépendamment des dispositions législatives relatives aux délais, et elle ne s’en est pas acquittée[3].
+[9] Je ne suis pas d’accord avec la position de la demanderesse. L’obligation imposée par la common law n’a pas préséance sur le processus d’opposition prévu par la Loi. Ce processus est régi par un régime législatif obligatoire, qui prescrit des délais stricts pour signifier des oppositions et des demandes de prorogation de délai lorsqu’un avis d’opposition est déposé en retard.
+[10] La disposition pertinente en l’espèce est l’alinéa 166.2(5)a) de la Loi, qui est libellé ainsi :
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+[11] Le libellé est clair. Les exigences sont strictes. On ne peut déroger au délai imparti. La demande de prorogation du délai pour déposer un avis d’opposition ne peut être acceptée que si elle a été faite dans l’année suivant l’expiration du délai pour signifier un avis d’opposition ou présenter une requête en vertu de la Loi. Ces principes ont été soulignés en appel et appliqués par la Cour de façon systématique.
+[12] Dans l’arrêt Canada c Carlson, 2002 CAF 145, 2002 DTC 6893 (CAF), la Cour d’appel fédérale a souligné, aux paragraphes 12 et 13, que le délai d’un an et de 90 jours à compter de la mise à la poste est absolu et qu’on ne peut y déroger.
+[13] Dans l’arrêt Edgelow c La Reine, 2011 CCI 255, 2011 DTC 1192, la juge V. Miller a dû rejeter une demande qui était en retard d’une journée, en soulignant qu’elle n’avait pas le pouvoir discrétionnaire de proroger le délai.
+[14] L’observation de la demanderesse, selon laquelle elle a immédiatement déposé l’avis d’opposition lorsqu’elle a été informée du processus à cet égard, est fondée sur la doctrine de la possibilité de découverte. Celle-ci a été acceptée dans l’affaire Hickerty c La Reine, 2007 CCI 482, 2007 DTC 1311 et rejetée dans l’affaire Chu c La Reine, 2009 CCI 444, [2010] 2 CTC 2326 et par la Cour d’appel fédérale dans l’arrêt Carlson.
+[15] Dans l’affaire Hickerty, la doctrine de la possibilité de découverte a été appliquée dans une situation où le délai ne commençait pas à courir 90 jours après la date de la mise à la poste de l’avis de cotisation, car la demanderesse croyait, de façon raisonnable mais « erronée », qu’un appel avait validement été interjeté alors qu’elle l’avait adressé à l’ARC plutôt qu’à la Cour. La Cour a opéré une distinction par rapport à l’arrêt Carlson, pour préciser que le délai en question dans l’affaire Hickerty n’était que de quelques mois, alors qu’il était de plusieurs années dans l’arrêt Carlson.
+[16] Selon le juge Hershfield, au paragraphe 26 de l’affaire Chu, une telle distinction – un léger retard par opposition à un important retard – n’est pas justifiée dans l’interprétation de la disposition visée. Dans cette affaire, il a conclu que le libellé de la Loi était clair et qu’il n’avait pas compétence puis, il a souligné ce qui suit au paragraphe 27 :
+27 Il existe ici un échéancier précis, un délai de prescription précis qui, selon le législateur, doit être respecté. Le fait d’avoir agi avec diligence pour corriger le problème dès qu’il a été connu ne change rien à ce délai précis. Ignorer un fait, sans qu’aucune faute ne soit en cause, comme le fait de ne pas savoir qu’un délai s’écoule, n’a pas pour effet de modifier ce délai précis.
+[17] Je souscris au raisonnement adopté dans l’affaire Chu selon lequel la doctrine de la possibilité de découverte ne s’applique pas, comme il a été conclu dans l’arrêt Carlson.
+[18] L’avocat de l’intimé a fait valoir que le témoignage de la demanderesse selon lequel elle ne se rappelait pas avoir reçu la nouvelle cotisation du 16 avril 2012 est douteux compte tenu du fait que tous les documents, à l’exception de l’avis d’opposition, font référence à un don de bienfaisance alors que celui-ci n’a pas été mentionné dans l’avis d’opposition parce que la déduction à cet égard avait été acceptée dans la nouvelle cotisation d’avril.
+[19] Il est bien établi dans la jurisprudence que c’est la date de la mise à la poste de la nouvelle cotisation par le ministre, et non la date de réception par le contribuable, qui est la date déterminante. L’affidavit modifié précise que la nouvelle cotisation a été mise à la poste à cette date. L’adresse qui figure sur la nouvelle cotisation du 24 février 2012 est la même que celle qui a été utilisée par la demanderesse dans son avis d’opposition, lequel a été envoyé près d’un mois après la date de la nouvelle cotisation d’avril. J’en déduis et conclus que le ministre a envoyé par la poste la nouvelle cotisation d’avril à la dernière adresse connue de la demanderesse[4].
+[20] En l’instance, le ministre a posté la nouvelle cotisation du 16 avril 2012 à la demanderesse. Celle-ci avait jusqu’au 16 juillet 2012 (90 jours après la date de la mise à la poste) pour déposer un avis d’opposition[5]. La demanderesse a signifié l’avis d’opposition au ministre le 9 mai 2014 (lequel a été traité comme une demande de prorogation de délai présentée conformément à l’article 166.1). Cependant, à cette date, la demanderesse avait déjà dépassé le délai d’un an expirant le 16 juillet 2013. Par conséquent, la Cour n’a pas le pouvoir discrétionnaire ou la capacité d’accueillir la demande de prorogation du délai pour présenter une opposition en ce qui a trait à l’année d’imposition 2010.
+[21] La demanderesse se fonde également sur les commentaires formulés au paragraphe 42 par la Cour suprême du Canada dans l’arrêt Canada (Procureur général) c Mavi, 2011 CSC 30, [2011] 2 RCS 504 pour faire valoir que la Cour devrait faire preuve de retenue à l’égard de l’ARC, mais que cela ne devait pas se faire au détriment de l’obligation primordiale d’équité.
+[22] Compte tenu de la nature spécialisée du régime prévu par la Loi et du fait que la Cour a été créée par la loi, les exigences en matière d’équité ne s’appliquent pas. Dans ses observations, l’avocat de l’intimée fait référence à l’arrêt Chaya c Canada, 2004 CAF 327, 2004 DTC 6676 (CAF), dans lequel la Cour d’appel fédérale a souligné que la Cour n’a pas compétence pour déroger au délai pour des raisons d’équité. Au paragraphe 4 de la décision, le juge d’appel Rothstein (tel était alors son titre) a déclaré ce qui suit :
+4 […] Elle ne peut pas déroger aux dispositions législatives pour des raisons liées à l’équité. S’il estime que la loi est inéquitable, le demandeur doit avoir recours au Parlement et non pas à la Cour.
+[23] Les observations de la demanderesse n’étaient pas tout à fait claires, mais celle-ci a fait valoir que selon une lecture combinée de l’article 18.1 des Règles de la Cour canadienne de l’impôt (procédure informelle) et du paragraphe 152(4.2) de la Loi, et selon sa compréhension de la pièce A-6 (lettre du 5 avril 2012), elle pouvait demander qu’une nouvelle cotisation soit établie, ce qui peut être fait à l’égard de n’importe quelle des dix dernières années. Ces dispositions n’ont aucune incidence sur la présente demande et sur l’examen de la question de savoir si les délais impartis par la Loi ont été respectés, et elles ne s’appliquent pas à la situation de la demanderesse. La pièce A-6 est une réponse que l’ARC a donnée à la demanderesse concernant une demande d’établissement d’une nouvelle cotisation que celle-ci avait présentée à l’égard de l’année 2009, et qui précise que cette demande de rajustement concernant le CIÉ de 2009 était rejetée parce que la demanderesse n’avait pas fourni tous les documents exigés par l’ARC. Encore une fois, cela n’a pas d’incidence sur la présente demande.
+[24] Pour tous les motifs qui précèdent, la demande est rejetée, et chacune des parties supportera ses propres dépens.
+Signé à Vancouver, Colombie-Britannique, ce 20e jour de février 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 14e jour de mai 2015.
+Johanne Matte, LL.L, D.D.N., B.A. Trad.
+RÉFÉRENCE :
+2015 CCI 44
+Nº DU DOSSIER DE LA COUR :
+2014-3370(IT)APP
+INTITULÉ :
+UFUOMA ODEBALA-FREGENE et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 2 décembre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge K. Lyons
+DATE DU JUGEMENT :
+Le 20 février 2015
+COMPARUTIONS :
+Pour la demanderesse :
+La demanderesse elle-même
+Avocat de l’intimée :
+Me Leonard Elias
+AVOCATS INSCRITS AU DOSSIER :
+Pour la demanderesse :
+Nom :
+s. o.
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1- Lettre datée du 6 octobre 2011.
+[2] Pièce A-2, pièce A-4 et pièce A-6. Le 24 février 2012, la nouvelle cotisation énonce ce qui suit : [traduction] « Comme nous n’avons pas reçu de réponse à notre lettre datée du 6 octobre 2011, vos réclamations pour un crédit d’impôt étranger, des montants pour enfants et un don de bienfaisance ont été refusées. Nous examinerons votre déclaration en vue d’un redressement possible si vous nous faites parvenir les renseignements demandés à une date ultérieure ». Un reçu pour le don de bienfaisance était joint à la lettre datée du 29 février 2012 que la demanderesse a fait parvenir à l’ARC. Le 26 septembre 2013, elle a envoyé une lettre au bureau de HM Revenue & Customs afin d’obtenir d’autres renseignements, et elle a reçu une réponse en novembre 2013.
+[3] La demanderesse invite également la Cour à examiner le caractère adéquat du processus d’opposition de l’ARC. Elle soutient que le régime législatif est [traduction] « énorme », qu’elle a tenté de lire l’article 166.2, mais qu’elle ne possédait pas les connaissances de base relative au processus, et qu’elle n’a rien pu faire.
+[4] Pièce A-2, pièce A-6, pièce A-4 et pièce A-5. La demanderesse omet de préciser dans la demande qu’elle n’a pas reçu la nouvelle cotisation d’avril.
+[5] L’alinéa 165(1)a) de la Loi prévoit ce qui suit :
+165. (1) Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) s’il s’agit d’une cotisation, pour une année d’imposition, relative à un contribuable qui est un particulier (sauf une fiducie) ou une succession assujettie à l’imposition à taux progressifs pour l’année,
+(i) le jour qui tombe un an après la date d’échéance de production qui est applicable au contribuable pour l’année,
+(ii) le quatre-vingt-dixième jour suivant la date d’envoi de l’avis de cotisation; […]

@@ -1,0 +1,112 @@
+---
+title: "Patriquin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25897/index.do"
+last_modified: "2004-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 338"
+citation2: ""
+neutral_citation: "2004 CCI 338"
+decision_date: "2004-06-14"
+language: "fr"
+item_id: "25897"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3695
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:21:35.210000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "24e057e710767aded43c3863d28f8a2abda4b2b1e031f680b1d2a48df3bd702b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Patriquin c. La Reine
+
+- Citation: 2004 CCI 338
+- Decision date: 2004-06-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3695, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Patriquin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-14
+Référence neutre
+2004 CCI 338
+Numéro de dossier
+2003-3303(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI338
+Date : 20040614
+Dossier : 2003-3303(IT)I
+ENTRE :
+SHELLEY PATRIQUIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Représentant de l’appelante : Terry Kent Avocate de l’intimée : Me Julie Rogers‑Glabush
+____________________________________________________________________
+MOTIFS DU JUGMENT
+(Rendus oralement à l’audience
+à Edmonton (Alberta) le 23 janvier 2004)
+Le juge McArthur
+[1] La question est de savoir s’il y avait en vigueur le 1er mai 1997 un accord écrit qui est venu modifier le montant des pensions alimentaires contenu dans un jugement de divorce rendu en 1987.
+[2] L’appelante et Bud Patriquin se sont mariés en 1980 et ont eu deux enfants, Denise et Dale, nés respectivement en 1981 et en 1983. Conformément à un jugement de divorce rendu en 1987, M. Patriquin devait faire des paiements de 300 $ par mois. En 1994, au moyen d'un accord verbal conclu avec l’appelante, il a accepté de verser 600 $ par mois.
+[3] En 1996, l’appelante a entrepris une procédure en vue d’obtenir un accord écrit. Avec le consentement de l’avocat de M. Patriquin, en raison de l’incapacité financière de l’appelante de retenir les services d’un avocat, l’avocat a préparé une ordonnance sur consentement déposée sous les cotes A‑1 et R‑2. Le paragraphe 6 manuscrit a été ajouté par M. Patriquin. L’avocat de M. Patriquin, Me Vigen, a envoyé à l’appelante l’ordonnance sur consentement accompagnée de la lettre suivante (pièce A‑2) :
+[traduction]
+Madame,
+Objet : Ordonnance sur consentement
+Vous trouverez ci-joint l’ordonnance sur consentement signée accompagnée d'une disposition à laquelle mon client tenait. Si la disposition vous pose des problèmes, n’hésitez pas à m’appeler pour en discuter. Sinon, j’espère recevoir une copie déposée de l’ordonnance.
+Veuillez agréer, Madame, mes sentiments les plus distingués.
+R. Douglas Vigen
+Elle n’a pas eu à appeler M. Vigen, car elle était d’accord.
+Analyse
+[4] Puisqu'il y a divergence dans les souvenirs d’événements passés évoqués par chacune des parties, j’accepte sans réserve la déposition de l’appelante plutôt que celle de M. Patriquin. Le 27 avril 1997 ou vers cette date, l’appelante a discuté directement avec son ex‑époux. Elle a souscrit au paragraphe 6 ajouté à l’ordonnance sur consentement, et il a accepté de déposer le document à la Cour. En septembre 2002, lorsque l’appelante a découvert qu’il ne l’avait pas fait, elle l’a déposé elle-même.
+[5] Pour les motifs suivants, je conclus que l’ordonnance sur consentement écrit était un accord légal exécutoire à compter du 1er mai 1997, qui est la date d’exécution au sens du paragraphe 56.1(4) de la Loi de l’impôt sur le revenu. Je conclus qu’elle a modifié les versements de pension alimentaire énoncés dans l’accord écrit antérieur auquel elle revoyait.
+[6] Premièrement, elle était signée par les deux parties; deuxièmement, M. Patriquin a négocié par l’entremise de son avocat, Me Vigen; troisièmement, Me Vigen a demandé à l’appelante de préparer l’ordonnance préliminaire dont ils avaient convenu; quatrièmement, l’appelante a accepté le paragraphe 6 modifié ajouté par M. Patriquin; cinquièmement, M. Patriquin a reconnu qu’il avait signé l’entente même s’il estime qu’il y a été forcé dans la mesure où il savait, au moment de la signer à la fin d’avril 1997, que la loi avait été modifiée relativement aux déductions pour le paiement de pension alimentaire. Sixièmement, il a respecté les conditions de l’ordonnance dès le début. Il a versé 600 $ chaque mois, donné un avis préalable avant d’exercer les droits de visite et, du moins au cours de l’année d’imposition 2000, il n’a pas réclamé de déduction pour le versement des pensions alimentaires qu’il a fait. Septièmement, le paragraphe 1 de l’ordonnance sur consentement comprend le paragraphe suivant :
+[TRADUCTION]
+[…] Conformément aux Lignes directrices fédérales sur les pensions alimentaires pour les enfants, en vigueur le 1er mai 1997, lesdits paiements versés pour subvenir aux besoins des enfants ne seront pas déclarés par l’intimé comme une déduction imposable et la requérante ne déclarera pas les paiements susmentionnés comme revenu imposable.
+Huitièmement, M. Patriquin a admis qu’il avait écrit à Revenu Canada une note ne portant aucune date (pièce R-4), probablement à l’été 2002, dans laquelle il avait indiqué en partie ce qui suit :
+[traduction]
+Shelley et moi-même, Bud Patriquin avons conclu des arrangements en mai 1997 selon lesquels je ne réclamerais plus la pension alimentaire.
+Il continue ainsi :
+[traduction]
+Shelly n’a pas signé l’entente et ne l’a pas fait régulariser par un tribunal.
+[7] Je n’ai aucun doute que les deux parties ont signé l’entente et avaient l’intention d’être liées par celle-ci. On m’a remis le jugement rendu par le juge Bowie dans l’affaire Alm c. Canada.[1] Je constate que la présente affaire est similaire à l’affaire pour laquelle le juge Bowie a conclu :
+On ne peut dire de l’arrangement qu’il est flou ou mal défini; il est clairement énoncé dans les lettres.
+J’estime qu’en l’espèce, il n’y a rien de flou ou de mal défini à propos des arrangements. Les deux parties avaient l’intention d’être liées par l’ordonnance sur consentement, et je conclus qu’elles étaient en fait liées par cette dernière dès le 1er mai et non à compter de son dépôt auprès du tribunal, en septembre 2002.
+[8] La jurisprudence indique clairement que les parties peuvent fixer une date d’exécution en autant que la date d’exécution visée avait pour but d'assurer que les paiements n’étaient pas imposables pour le bénéficiaire conformément au régime de pension alimentaire en place après avril 1997.
+[9] Les appels sont admis avec dépens pour l’appelante au montant de 300 $.
+Signé à Ottawa, Canada, ce 14e jour de juin 2004.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 9e jour de septembre 2004.
+Jacinthe Roy, traductrice
+[1] C.C.I., no 1999-3515 (IT)I, 12 janvier 2001 ([2001] 1 CTC, 2721).

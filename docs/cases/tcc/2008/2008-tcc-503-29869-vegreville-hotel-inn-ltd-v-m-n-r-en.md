@@ -1,0 +1,158 @@
+---
+title: "Vegreville Hotel & Inn Ltd v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29869/index.do"
+last_modified: "2008-09-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 503"
+citation2: ""
+neutral_citation: "2008 TCC 503"
+decision_date: "2008-09-09"
+language: "en"
+item_id: "29869"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6426
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:51:53.481000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "510ba51ecd550e3a02ccf41cf74c4bba75186df740dd1f016836985bc8184041"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vegreville Hotel & Inn Ltd v. M.N.R.
+
+- Citation: 2008 TCC 503
+- Decision date: 2008-09-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6426, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vegreville Hotel & Inn Ltd v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-09
+Neutral citation
+2008 TCC 503
+File numbers
+2007-4142(EI), 2007-4143(CPP)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Dockets: 2007-4142(EI)
+2007-4143(CPP)
+BETWEEN:
+VEGREVILLE HOTEL & INN LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+HAMID BARADARAN
+Intervenor,
+and
+SHIVA KHODABAKHSH
+Intervenor.
+____________________________________________________________________
+Appeal heard on September 2, 2008 at Edmonton, Alberta
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Hamid Rahmanian
+Counsel for the Respondent:
+Valerie Meier
+For the Intervenors:
+Hamid Baradaran
+____________________________________________________________________
+JUDGMENT
+The appeals with respect to decisions of the Minister of National Revenue made under the Employment Insurance Act and the Canada Pension Plan are allowed, and the decisions are varied on the basis that Hamid Baradaran and Shiva Khodabakhsh were not engaged in insurable or pensionable employment with the appellant for the period from March 1, 2006 to October 28, 2006.
+Signed at Edmonton, Alberta this 9th day of September 2008.
+“J. Woods”
+Woods J.
+Citation: 2008TCC503
+Date: 20080909
+Dockets: 2007-4142(EI)
+2007-4143(CPP)
+BETWEEN:
+VEGREVILLE HOTEL & INN LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+HAMID BARADARAN,
+Intervenor,
+and
+SHIVA KHODABAKHSH,
+Intervenor.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on September 5, 2008)
+Woods J.
+[1] These are reasons delivered orally concerning decisions of the Minister of National Revenue under the Employment Insurance Act and the Canada Pension Plan. As I indicated at the conclusion of the hearing of the appeal, I will include a copy of these reasons with the judgment that will be mailed to the parties.
+[2] The issue to be decided is whether the intervenors, Hamid Baradaran and Shiva Khodabakhsh, were engaged by Vegreville Hotel & Inn Ltd. as employees or independent contractors when they worked for this company from March 1, 2006 to October 28, 2006. The decisions that are being appealed concluded that the intervenors were employees.
+[3] At the hearing, Vegreville Hotel & Inn Ltd. was represented by its owner, Hamid Rahmanian. The intervenors, who are husband and wife, were represented by the husband, Mr. Baradaran.
+[4] The essential issue to be determined is whether the intervenors had their own business when they contracted to work for Vegreville Hotel & Inn Ltd. or whether the relationship was one of employment.
+[5] For the reasons that follow, I have concluded that the relationship was more consistent with an independent contractor relationship than employment.
+[6] The owner of Vegreville Hotel and Inn Ltd., Mr. Rahmanian, operates several businesses, including at least one other hotel. The intervenors were initially hired by Mr. Rahmanian as employees of another hotel when they emigrated to Canada from Iran. They had been introduced to Mr. Rahmanian by a relative. This relationship was clearly one of employment and the intervenors were paid on an hourly basis.
+[7] After a period of time, Mr. Baradaran wanted a position with more responsibility. By all accounts Mr. Baradaran and his wife were very capable workers and Mr. Rahmanian offered them positions at the Vegreville Hotel which he had just acquired.
+[8] A contract governing the relationship was negotiated and a written contract was prepared without the assistance of a lawyer. Although the contract does not specifically refer to Mr. Baradaran and his wife as managers, that effectively is what their role was.
+[9] There is a dispute between the parties as to whether this arrangement was intended to be employment or not. Mr. Rahmanian vehemently maintains that it was not intended to be employment and Mr. Baradaran testified that he thought it was something he called “contract-based employment.”
+[10] If Mr. Baradaran had thought that the arrangement was one of employment, he had no basis to conclude this. There is nothing in the written contract to indicate this and certainly Mr. Rahmanian would not have given Mr. Baradaran this impression.
+[11] Even if Mr. Baradaran had put his mind to the legal nicety of whether this was an employment relationship or not when the contract was signed, and if he had thought it was employment, then this changed after a short period. At no time were source deductions taken from the intervenors pay, they registered for GST purposes and they registered a business name, HRH Contractors. I conclude that both parties accepted that the relationship was one of independent contractor and not employment.
+[12] This is a very important factor in this case.
+[13] It is not necessarily the end of the matter, though, because if the arrangement did not reflect a true independent contractor relationship, it will be considered employment.
+[14] For this purpose it is helpful to have regard to the usual factors of control, ownership of tools and possibility of profit and loss.
+[15] As for tools, there were not many tools required by the intervenors except for an automobile, and this was supplied by the intervenors themselves. The auto was used regularly for business purposes, mainly to pick up food and other supplies. According to the evidence, some of the gas for the automobile was charged to Vegreville Hotel & Inn Ltd. but the written contract was silent on this and the parties did not negotiate it one way or the other. I do not view the supply of the automobile as an important factor in this case, but to the extent that it is relevant, it is favourable to a finding of independent contractor.
+[16] As for the potential of profit or loss, the written contract had two provisions that were relevant. First, it provided that the intervenors were entitled to some of the profits as a bonus. I find that this is a neutral factor because it is common in many work situations whether there is employment or not.
+[17] The contract also indicated that the intervenors would be responsible for labour costs if their duties were performed by third parties. This is very much an entrepreneurial-type arrangement and is strongly in favour of an independent contractor relationship.
+[18] I note that Mr. Rahmanian’s sons took over some of the intervenors’ duties when they took some time off. The contract requires that the intervenors pay for the sons’ labour costs in this case. This was not done, but the intervenors did compensate for this cost by a reduction in the fees paid to them. The arrangement is consistent with the general intent of the written contract and I do not think that it is a significant factor. I would also add that this was an isolated event.
+[19] I turn now to the factor of control and whether Vegreville Hotel & Inn Ltd. had the ability to dictate how the work was performed by the intervenors. In this regard, the testimony of Mr. Baradaran and Mr. Rahmanian did differ, with Mr. Baradaran suggesting that Mr. Rahmanian had the ability to dictate how the hotel was run and Mr. Rahmanian basically saying that he generally did not interfere. To the extent that the testimony differed, I generally prefer the testimony of Mr. Baradaran to that of Mr. Rahmanian. Mr. Baradaran seemed to have more first hand knowledge and a better recollection of events than Mr. Rahmanian.
+[20] Regardless of whose testimony is more accurate, though, I do not think that Vegreville Hotel & Inn Ltd. had the general ability to dictate how the work was done, except to the extent that this was necessary to protect the hotel’s investment. To the extent that the Vegreville Hotel kept control of financial or security matters, I do not think this changes the nature of the relationship between the parties. In other respects, there were some isolated incidents where Mr. Rahmanian did exercise more control than he was entitled to under the contract, but I accept his evidence that he only rarely intervened. I do not think that isolated incidents tell the true picture. My impression from the evidence as a whole is that the intervenors had the authority to run the hotel the way they saw fit, with the exception of financial matters.
+[21] For all these reasons, I find that the relationship is more consistent with an independent contractor relationship than employment.
+[22] The appeals will be allowed, and the decisions of the Minister will be varied on the basis that Hamid Baradaran and Shiva Khodabakhsh were not engaged in insurable or pensionable employment with Vegreville Hotel & Inn Ltd.
+Signed at Edmonton, Alberta this 9th day of September 2008.
+“J. Woods”
+Woods J.
+CITATION: 2008TCC503
+COURT FILE NO.: 2007-4142(EI); 2007-4143(CPP)
+STYLE OF CAUSE: Vegreville Hotel & Inn Ltd. and The Minister of National Revenue and Hamid Baradaran and Shiva Khodabakhsh
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: September 2, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Woods
+DATE OF JUDGMENT: September 9, 2008
+APPEARANCES:
+Agent for the Appellant:
+Hamid Rahmanian
+Counsel for the Respondent:
+Valerie Meier
+For the Intervenors:
+Hamid Baradaran
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervenors: n/a

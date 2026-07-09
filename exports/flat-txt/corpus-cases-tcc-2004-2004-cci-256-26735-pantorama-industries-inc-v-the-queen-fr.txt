@@ -1,0 +1,130 @@
+Title: Pantorama Industries Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26735/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-256-26735-pantorama-industries-inc-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-04-02
+
+# Pantorama Industries Inc. v. The Queen
+
+- Citation: 2004 CCI 256
+- Decision date: 2004-04-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3416, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pantorama Industries Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-02
+Référence neutre
+2004 CCI 256
+Numéro de dossier
+2000-5000(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-5000(IT)G
+ENTRE :
+PANTORAMA INDUSTRIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 27 octobre 2003 à Montréal (Québec)
+Devant : L'honorable juge Brent Paris
+Comparutions :
+Avocats de l'appelante :
+Me Denis A. Lapierre et Me Konstantinos Voggas
+Avocates de l'intimée :
+Me Valérie Tardif et
+Me Marielle Thériault
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995, 1996, 1997 et 1998 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 2e jour d'avril 2004.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 25e jour d'août 2004.
+Daniel E. Renaud, traducteur
+Référence : 2004CCI256
+Date : 20040402
+Dossier : 2000-5000(IT)G
+ENTRE :
+PANTORAMA INDUSTRIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L'appelante est une société ouverte qui exploite au Canada plusieurs chaînes de magasins de vêtements sous les appellations commerciales Pantorama, Levi's, 1850 et D'Gala, entre autres. Son siège social est établi à Montréal et ses magasins sont principalement situés dans des locaux loués dans des centres commerciaux. Depuis 1979, l'appelante a retenu les services d'une autre société, Snowcap Investments Ltd., afin de trouver de nouveaux emplacements dans lesquels établir ses magasins et de mener en son nom la négociation des baux et des reconductions de bail. Elle a versé à Snowcap une mensualité de 2 500 $ ainsi que des sommes fixes pour chaque nouveau bail négocié et chaque bail reconduit.
+[2] L'appelante a traité les paiements versés à Snowcap comme des dépenses courantes. Le ministre a cependant considéré que les honoraires déboursés pour les nouveaux baux et les reconductions étaient des paiements imputables au capital et a établi à l'égard de l'appelante de nouvelles cotisations dans lesquelles il a refusé la déduction des frais dans le calcul du revenu d'entreprise pour les années d'imposition 1995 à 1998. Les sommes en question[1] ont été ajoutées aux coûts en capital des baux de l'appelante et la déduction pour amortissement a été accordée. L'appelante interjette appel à l'encontre de ces nouvelles cotisations.
+Faits
+[3] Les faits de l'espèce sont en grande partie incontestés.
+[4] M. Ralph Fragomene, le vice-président de l'appelante responsable des finances et des opérations, a expliqué les circonstances entourant les paiements à Snowcap. L'entente originale entre l'appelante et Snowcap était d'une durée prévue de trois années et elle a depuis lors été renouvelée à intervalles de quelques années. Cette entente prévoyait que Snowcap agirait à titre d'experte-conseil pour l'appelante en ce qui concerne l'établissement de tout nouveau magasin au détail, sauf certaines exceptions limitées. L'appelante convenait de ne retenir les services d'aucune autre société d'experts-conseils en immobilier ou agents de location pour agir en son nom au même titre. Snowcap convenait pour sa part de ne pas offrir ses services à d'autres sociétés dans le même secteur que l'appelante. Bien que l'entente originale ne le stipule pas, il est évident d'après la preuve que l'appelante faisait également appel à Snowcap pour négocier les conditions des nouveaux baux et des reconductions.
+[5] En plus de la mensualité fixe, l'appelante a versé des honoraires à Snowcap pour chaque nouveau bail et chaque reconduction de bail négociés en son nom, ainsi que pour la négociation des conditions liées à la reconversion d'un magasin de l'appelante sur les mêmes lieux. (Par exemple, lorsque l'appelante souhaitait reconvertir un magasin Levi's pour en faire un magasin 1850 sur les mêmes lieux, Snowcap négociait les conditions de la reconversion avec les locateurs.) Les honoraires versés étaient fonction de la grandeur des locaux en question et, dans le cas de reconductions, de la durée du bail. Les honoraires devenaient exigibles seulement à la passation d'un contrat exécutoire entre l'appelante et le locateur.
+[6] M. Fragomene a indiqué que l'appelante avait, pendant les années en cause, mené ses activités commerciales dans plusieurs provinces, bien que la majorité de ses magasins étaient situés en Ontario et au Québec. L'appelante possédait 233 magasins en 1995, 222 en 1996, 212 en 1997 et 199 en 1998; ces magasins étaient tous exploités dans des locaux loués. Entre 1995 et 1998, l'appelante a ouvert 46 nouveaux magasins et en a fermé environ 80. Elle a annuellement renouvelé entre 25 et 30 de ses baux. La majorité des nouveaux baux conclus avaient un terme de cinq à sept années, et les reconductions étaient d'une durée de une à sept années, selon le rendement du magasin. Le loyer annuel versé par l'appelante pour l'ensemble de ses magasins s'élevait à environ 20 millions de dollars.
+[7] M. Fragomene, qualifiant Snowcap de [traduction] « conseillère en matière de magasins au détail » , a indiqué que celle-ci était responsable de trouver des locaux propices à l'établissement de nouveaux magasins. Snowcap prêtait également conseil à l'appelante afin que celle-ci puisse décider si l'établissement d'un nouveau magasin dans un emplacement donné était opportun. En ce qui a trait aux reconductions, le gestionnaire interne de l'appelante responsable des baux avait à l'oeil les dates d'expiration imminentes des baux et remettait une liste de dates à Snowcap. Dans le cas des nouveaux baux et des reconductions, Snowcap cumulait des renseignements sur le marché pour l'appelante, communiquait à celle-ci les taux de location et prenait contact avec les locateurs afin de connaître les conditions de location. Snowcap négociait, pour le compte de l'appelante, les modalités des baux et des reconductions avec les locateurs. Lorsqu'une entente était conclue, Snowcap rédigeait une lettre d'entente entre l'appelante et le locateur, et les avocats de l'appelante élaboraient par la suite un bail en bonne et due forme.
+[8] M. Fragomene a expliqué que l'appelante avait retenu les services de Snowcap dans le but d'épargner du temps. Étant donné le nombre de baux et de reconductions avec lesquels l'appelante devait composer, la tâche quotidienne de communiquer directement avec les locateurs aurait été très imposante. De plus, M. Fragomene a affirmé que Snowcap était en mesure d'obtenir de meilleurs taux de location puisqu'elle représentait de nombreux clients.
+[9] Lorsqu'il a été interrogé sur les deux catégories d'honoraires (mensuels ou propres à un bail donné) versés par l'appelante à Snowcap, M. Fragomene a avancé qu'il n'y avait entre ceux-ci aucune distinction quant aux services reçus. Il a indiqué que tous les efforts déployés par Snowcap visaient à dénicher de nouveaux baux pour l'appelante et qu'aucun raisonnement logique ne justifiait l'existence de deux catégories d'honoraires. Toutefois, en contre-interrogatoire, il a reconnu que Snowcap avait facturé l'appelante selon la grille tarifaire convenue par les parties pour les divers services de location que Snowcap assurait.
+[10] M. Seymour Obrant, le président de Snowcap, a également témoigné au nom de l'appelante. Il a décrit Snowcap comme une société d'experts-conseils en immobilier dont les activités principales étaient la négociation et la reconduction pour le compte de clients de baux pour des locaux situés dans des centres commerciaux, ainsi que le règlement de différends entre les clients et les locateurs. Essentiellement, a-t-il fait valoir, Snowcap agissait pour ses clients comme un service immobilier interne.
+[11] Pendant les années en cause, Snowcap possédait environ 80 clients; parmi ceux-ci, l'appelante était l'un des plus importants. Grâce à son importante clientèle, Snowcap avait la possibilité de louer jusqu'à 150 000 pieds carrés dans un centre commercial, ce qui lui permettait d'obtenir pour ses clients des loyers à de meilleurs taux. M. Obrant a affirmé qu'il y avait au Canada environ 20 grands propriétaires de centres commerciaux, et que les clients évitaient, en retenant les services de Snowcap, d'avoir à transiger avec chacun d'eux.
+[12] Les représentants de Snowcap s'entretenaient quotidiennement au téléphone avec les cadres supérieurs de l'appelante et rencontraient ceux-ci chaque mois afin de discuter de questions courantes liées aux baux. À deux reprises, des réunions annuelles ont été tenues pour étudier les plans de l'appelante visant l'établissement de nouveaux magasins et la reconduction de magasins existants, ainsi que pour élaborer un plan stratégique pour la croissance des activités de l'appelante. Grâce à ses activités dans le domaine du bail immobilier de détail, Snowcap avait connaissance des aménagements immobiliers prévus pour les quatre ou cinq années prochaines et pouvait porter ces renseignements à l'attention de l'appelante.
+[13] M. Obrant a affirmé que les mensualités versées par l'appelante devaient, à l'origine, servir à acquitter une partie des frais généraux engagés par Snowcap. Celle-ci exige des mensualités de ses plus importants clients afin de disposer de liquidités, de payer les frais de déplacement et d'assurer la dotation en personnel et la prestation de services. M. Obrant n'a pas précisé si, en contrepartie du versement des mensualités, l'appelante avait droit à des services en sus de ceux assurés en contrepartie d'honoraires particuliers.
+[14] Mme Anne McCarel, de la société BDO Dunwoody, a témoigné à titre de vérificatrice externe de l'appelante sur la façon dont les sommes versées à Snowcap avaient été comptabilisées. Elle a affirmé qu'elle avait traité les honoraires versés à Snowcap comme des dépenses courantes car, à son avis, celles-ci avaient été engagées par l'appelante dans le cadre de ses activités courantes visant à générer des revenus. Aux fins comptables, les baux des magasins étaient traités comme des contrats de location-exploitation et non comme des contrats de location-acquisition. Elle a indiqué que les contrats de location-acquisition, en vertu des principes comptables généralement reconnus, sont ceux qui confèrent la presque totalité des risques et avantages de la propriété au preneur à bail et sont, par conséquent, traités comme une acquisition d'actif dans les livres comptables du locataire.
+Question en litige
+[15] La question en litige consiste à juger si les honoraires versés par l'appelante à Snowcap sont déductibles à titre de dépenses courantes ou s'ils sont imputables au capital.
+[16] L'avocat de l'appelante a fait valoir que les honoraires versés à Snowcap n'étaient pas imputables au capital, car les baux auxquels se rapportaient ces paiements ne constituaient pas des immobilisations pour l'appelante. Il a affirmé que les baux, étant donné leur durée de sept années ou moins, ne procuraient pas à l'appelante un bénéfice durable et que, par conséquent, ceux-ci n'étaient pas des éléments d'actif à long terme. Ces baux avaient été conclus afin de permettre à l'appelante de mener ses activités quotidiennes. De plus, les baux étaient récurrents. L'appelante devait constamment négocier de nouveaux baux et la reconduction des baux existants, et passer de 40 à 60 baux chaque année. Il a également avancé que le traitement fiscal des baux et des paiements afférents devait respecter les principes comptables généralement reconnus selon lesquels les baux n'étaient pas traités comme des immobilisations. Enfin, il a affirmé que, même si les baux représentaient des biens en immobilisation pour l'appelante, les paiements n'étaient pas nécessairement imputables au capital, et qu'il fallait tenir compte des mêmes facteurs, c'est-à-dire la durée du bénéfice reçu, la récurrence et le motif du versement.
+[17] L'avocat de l'appelante s'est référé à l'arrêt Johns-Manville Canada Inc. c. Sa Majesté La Reine[2], dans lequel la Cour suprême du Canada a jugé que certaines dépenses liées à l'achat de biens-fonds dans le cadre d'opérations d'exploitation minière de la contribuable étaient imputables au revenu. Il a établi un parallèle entre les paiements en l'espèce et ceux dans l'affaire Johns-Manville, étant donné que les paiements n'avaient pas donné lieu à l'acquisition d'une immobilisation, que les dépenses avaient été engagées chaque année comme partie intégrante des opérations de l'appelante, que ces dépenses constituaient un élément des coûts quotidiens et annuels de production, que ces dépenses ne procuraient pas un bénéfice de valeur durable parce qu'il fallait les répéter chaque année, et que les opérations de l'appelante n'auraient pu se poursuivre sans ces dépenses annuelles.
+Analyse
+[18] Le ministre a refusé la déduction des sommes en litige en application de l'alinéa 18(1)b) de la Loi de l'impôt sur le revenu[3], lequel se lit comme suit :
+18(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+[...]
+b) une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[19] On a, à maintes reprises, souligné que le syntagme « dépense en capital ou paiement à titre de capital » n'est pas défini par la Loi. À cet égard, la Cour suprême du Canada a affirmé ce qui suit :
+[traduction]
+Comme il n'y a pas de critère législatif, appliquer ou non ces expressions à toutes dépenses particulières doit dépendre des circonstances propres à l'affaire.
+[20] Lorsqu'il s'agit de déterminer si un paiement est imputable au capital, le critère habituel qui s'applique consiste à savoir si le paiement a été effectué [traduction] « en vue de produire un avantage pour le bénéfice durable de l'entreprise de la partie appelante » [4].
+[21] La distinction entre les paiements du contribuable qui sont imputables au capital et ceux qui sont imputables au revenu est également dite correspondre à la distinction [traduction] « entre l'acquisition des moyens de production et leur usage; entre l'établissement ou l'extension de l'entreprise et son exploitation; entre les instruments de travail et l'exécution régulière des travaux dans lesquels ceux-ci sont utilisés; entre une entreprise et l'effort soutenu de ceux qui en font partie[5] » .
+[22] Dit autrement :
+[traduction]
+[U]ne dépense consentie en vue de l'acquisition ou de la création d'une entité, structure ou organisation commerciale, dans le but de gagner un profit ou en vue du développement d'une telle entité, structure ou organisation, constitue une dépense à compte de capital, et [...] une dépense consentie au cours de l'exploitation d'une entité, structure ou organisation lucrative constitue une dépense à compte de revenu[6].
+[23] La qualification d'honoraires professionnels engagés par le contribuable, comme paiement imputable au capital ou comme paiement imputable au revenu, a été soulevée dans l'affaire Rona Inc. c. La Reine[7]. Le juge Archambault avait affirmé, à la page 989, ce qui suit :
+[...] La nature de ceux-ci [les honoraires] dépend de l'objet des services qui ont été rendus. Si les honoraires ont trait à des opérations courantes, il s'agit de dépenses courantes. S'ils ont trait à l'agrandissement de la structure commerciale, il s'agit de dépenses de capital. Par exemple, si des honoraires sont versés pour des négociations relatives à une campagne de marketing, ces honoraires sont des dépenses courantes. Par contre, s'ils sont payés pour faire l'acquisition d'un compétiteur, ils représentent des dépenses de capital. Il fallait donc d'abord déterminer la nature des opérations effectuées par Rona afin de pouvoir qualifier la nature des services professionnels requis pour effectuer ces opérations. Ici, les services professionnels ont été retenus dans le cadre d'opérations visant à acquérir soit des magasins franchisés, soit des magasins « corporatifs » à être construits ou appartenant déjà à des compétiteurs. Ces services visaient à procurer à Rona un avantage « pour le bénéfice durable de [son] entreprise » .
+[24] Afin d'appliquer ces principes à l'espèce, la première question qu'il nous faut poser est la suivante : Quel était le but des dépenses engagées, dans le contexte d'exploitation de l'entreprise de l'appelante? Était-ce pour obtenir des baux nouveaux et des reconductions, ou bien était-ce plutôt pour recevoir des conseils et des services généraux en matière d'immobilier, notamment la négociation des baux?
+[25] Bien que l'on ait tenté de faire valoir que les honoraires versés à Snowcap visaient des consultations et des conseils fournis de manière permanente à l'appelante, et liés davantage à des services quotidiens de gestion qu'aux baux proprement dits, je ne suis pas convaincu que tel était le cas. La preuve démontre clairement que tous les paiements en question à Snowcap ont été effectués en contrepartie de services de négociation de nouveaux baux ou de reconductions de bail, ou encore en contrepartie de services comparables rendus pour le compte de l'appelante, et ont été effectués selon la grille tarifaire convenue entre les parties. Les paiements à Snowcap ne devenaient exigibles qu'après la conclusion d'un contrat de location entre l'appelante et le locateur.
+[26] Même si la preuve indique que Snowcap a assisté l'appelante dans l'élaboration d'une stratégie et d'un plan de location, c'est-à-dire une activité de gestion quotidienne, ces services étaient complémentaires et subordonnés à son activité principale, soit celle de négocier les baux. Comme l'essentiel des efforts déployés par Snowcap était axé sur la conclusion de nouveaux baux et de reconductions, je conclus que les paiements ont été effectués à cette fin. Il est également raisonnable d'inférer que les mensualités versées par l'appelante formaient la contrepartie des conseils généraux et de l'aide en matière de planification reçus de Snowcap.
+[27] L'avocat de l'appelante a fait valoir qu'il était possible d'établir une distinction entre la présente espèce et l'affaire Rona au motif que l'appelante ne s'engageait pas dans un programme de croissance. Je ne suis pas convaincu de la valeur de cette distinction. Je partage l'avis des avocates de l'intimée selon lequel les nouveaux baux et les reconductions représentaient une expansion de la structure commerciale de l'appelante. Ces opérations ont permis à l'appelante d'établir de nouveaux points de vente de vêtements, ou encore de poursuivre ses activités de vente de vêtements dans des magasins qu'elle aurait été autrement contrainte de fermer en fin de bail. La preuve a également démontré que, pendant les années visées par l'appel, l'appelante ouvrait de nouveaux magasins dans le cadre d'une stratégie pour augmenter son chiffre d'affaires.
+[28] Manifestement, les baux étaient une composante de la structure d'entreprise adoptée par l'appelante dans le but de mener à bien ses activités commerciales quotidiennes et de générer des revenus. Ils constituaient une composante des moyens de production mis en oeuvre par l'appelante. Les paiements effectués par l'appelante en ce qui a trait à la négociation de nouveaux baux et aux reconductions se rapportaient à cette structure commerciale.
+[29] En l'espèce, les baux ont également procuré à l'appelante un bénéfice durable. Les termes des nouveaux baux se situaient entre cinq et sept années. De plus, étant donné le nombre de reconductions de bail passées chaque année, il est loisible d'inférer que l'appelante s'attendait, dans une certaine mesure, au renouvellement des baux des magasins dont le volume de vente était suffisant.
+[30] Certes, les paiements à Snowcap étaient récurrents pendant les années visées par l'appel, mais cela ne veut pas dire pour autant qu'il s'agissait de dépenses courantes. Ces dépenses visaient essentiellement à accroître le chiffre d'affaires de l'appelante par la négociation de nouveaux baux et la prorogation de baux rendus à terme; que cette négociation ait été réalisée à maintes reprises pendant une période donnée n'a pas pour effet de rendre moins durable le bénéfice associé à chaque nouveau bail ainsi acquis. Chaque reconduction se rapportait à un magasin différent, et la fréquence des reconductions était fonction du nombre total de baux détenus par l'appelante. Chaque paiement à Snowcap constituait un paiement unique afférant à un bail particulier ou à une reconduction donnée, et la durée du bénéfice procuré à l'appelante était égale à la durée du bail conclu ou de la reconduction.
+[31] Je ne conçois pas les baux en l'espèce comme étant de nature comparable au bien-fonds acquis dans l'affaire Johns-Manville. La Cour suprême a statué dans cette affaire que le bien-fonds ne constituait pas une composante de la structure de l'exploitation minière de la contribuable, et que le bien-fonds a été consommé pendant la production. Les dépenses relatives au bien-fonds ont été jugées comme étant davantage liées à la production quotidienne de la mine qu'à la structure, et par conséquent, comme ne procurant pas un bénéfice au-delà de l'année pendant laquelle elles avaient été effectuées. En l'espèce, les baux n'ont pas été consommés d'une manière comparable de quelque façon au bien-fonds dans l'affaire Johns-Manville, et l'appelante a profité des nouveaux baux et des reconductions pendant la durée complète de ces derniers.
+[32] La qualification des paiements à Snowcap comme dépenses courantes dans les états financiers de l'appelante n'est pas pertinente en ce qui a trait à leur qualification pour les frais de la Loi de l'impôt sur le revenu. L'imputation des paiements au revenu ou bien au capital est une question mixte de droit et de fait, et les principes qui doivent être appliqués dans la détermination sont ceux du droit et non ceux de la comptabilité. Et même si j'avais décidé de tenir compte des principes comptables dans ma décision, aucune expertise n'a été présentée à cet égard en l'espèce. Bien que Mme McCarel soit venue témoigner sur le traitement des paiements dans les livres comptables de l'appelante, elle n'a été ni présentée, ni qualifiée, à titre d'expert.
+[33] Les avocats de l'appelante m'ont prié d'accepter le témoignage de Mme McCarel comme preuve des principes comptables généralement reconnus, et ils ont fait référence à l'arrêt R. c. Graat[8], dans lequel on avait permis à un témoin non expert de présenter une preuve sous forme d'opinion. Comme il n'est pas question ici de preuve d'expert, cet arrêt n'est pas applicable en l'espèce. La preuve d'expert est traitée différemment de la preuve sous forme d'opinion présentée par un témoin non expert. La preuve d'expert n'est admise que si l'objet du litige nécessite le témoignage d'un expert qualifié et si les conditions procédurales applicables à la déposition d'une preuve d'expert ont été satisfaites. Or, ces deux dernières conditions n'ont pas été satisfaites en l'espèce.
+[34] Ayant étudié la totalité des circonstances, notamment l'objet des paiements et le bénéfice qu'en a tiré l'appelante, je suis convaincu que les honoraires versés à Snowcap par l'appelante sont imputables au capital.
+[35] L'appel est donc rejeté avec dépens. Les parties ont convenu à l'audience que la catégorie d'instance pertinente pour la détermination des dépens est la catégorie B, puisque le montant en cause est inférieur à 150 000 $.
+Signé à Ottawa, Canada, ce 2e jour d'avril 2004.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 25e jour d'août 2004.
+Daniel E. Renaud, traducteur
+[1] 203 639 $ en 1995, 274 500 $ en 1996, 202 476 $ en 1997, et 111 000 $ en 1998.
+[2] [1985] 2 R.C.S. 46 (85 D.T.C. 5373).
+[3] L.R.C. (1985), ch. 1 (5e suppl.) (la Loi).
+[4] British Columbia Electric Railway Company Limited v. M.N.R., (1958) S.C.R. 133, à la p. 138.
+[5] Hallstroms Pty. Ltd. v. Federal Commissioner of Taxation (1946), 72 C.L.R. 634, aux pages 646-7.
+[6] Sun Newspapers Ltd. et al. v. Fed. Com. of Taxation (1938), 61 C.L.R. 337 à la page 359.
+[7] C.C.I., nos 2000-50(IT)G, 2002-1888(IT)G, 10 mars 2003 (2003 D.T.C. 979).
+[8] [1982] 2 R.C.S. 819.

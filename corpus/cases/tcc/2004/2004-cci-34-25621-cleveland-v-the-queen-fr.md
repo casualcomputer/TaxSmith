@@ -1,0 +1,189 @@
+---
+title: "Cleveland v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25621/index.do"
+last_modified: "2004-01-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 34"
+citation2: ""
+neutral_citation: "2004 CCI 34"
+decision_date: "2004-01-13"
+language: "fr"
+item_id: "25621"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2427
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:07:07.014000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "06d74f4ead02a68002664dd1d0ad271e6ba04b93ba9fd98839998c6c8aabc1ea"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cleveland v. The Queen
+
+- Citation: 2004 CCI 34
+- Decision date: 2004-01-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2427, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cleveland v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-13
+Référence neutre
+2004 CCI 34
+Numéro de dossier
+2003-2319(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2319(IT)I
+ENTRE :
+RONALD V. CLEVELAND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 24 octobre 2003 à Hamilton (Ontario)
+Par : L'honorable juge C. H. McArthur
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Craig Maw
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation d'impôt établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation mais uniquement dans la mesure où l'appelant a le droit de demander un montant relatif aux études de 1 440 $ relativement à son inscription à la Capella University en vertu du paragraphe 118.6(2) de la Loi.
+Signé à Ottawa, Canada, ce 13e jour de janvier 2004.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 20e jour d'avril 2004.
+Nancy Bouchard, traductrice
+Référence : 2004CCI34
+Date : 20040113
+Dossier : 2003-2319(IT)I
+ENTRE :
+RONALD V. CLEVELAND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Les questions en litige dans le présent appel consistent à savoir si Ronald V. Cleveland est admissible à (i) un crédit pour frais de scolarité de 6 283 $ et à (ii) un crédit d'impôt pour études pour l'année d'imposition 2001 relativement à des cours qu'il a suivis dans Internet seulement offerts par une université des États-Unis.
+[2] L'appelant s'est inscrit à la Capella University[1] dans le cadre d'un programme d'études menant à l'obtention d'une maîtrise ès sciences en psychologie organisationnelle offert du 1er janvier 2000 au 30 mars 2002. Il a obtenu son diplôme en novembre 2002. La Capella est une université « en direct » . L'Agence des douanes et du revenu du Canada (ADRC) reconnaît cet établissement d'enseignement comme une « université » située à l'étranger pour l'application des alinéas 118.5(1)b) et 118.6(1)b) de la Loi de l'impôt sur le revenu. L'appelant a suivi des cours pendant toute une année. Au cours de 2001, alors qu'il vivait en Saskatchewan, il occupait un emploi à temps plein auprès de la RLG International Inc. (RLG) et gagnait un revenu annuel de 101 355 $.
+Position de l'appelant
+[3] Les cours qu'il a suivis étaient offerts en direct au moyen de courriels, du téléphone, de salles de cours et de bibliothèques virtuelles. Ils se distinguaient clairement des cours par correspondance. En effet, l'appelant a déclaré qu'il fréquentait la Capella University au Minnesota grâce à une technologie moderne sans quitter sa résidence en Saskatchewan.
+[4] Il soutient que le libellé des articles 118.5 et 118.6 le rend admissible à des crédits d'impôt pour frais de scolarité ou pour études et qu'on devrait les interpréter en faisant référence au libellé des paragraphes 6(2) et 15(1) de la Charte canadienne des droits et libertés (la Charte) et aux dispositions de l'Accord de libre-échange nord-américain (ALENA).
+Position de l'intimée
+[5] En ce qui concerne le crédit d'impôt pour frais de scolarité demandé, le ministre du Revenu national, bien qu'il admette que la Capella est une université en direct, soutient que l'appelant ne « fréquentait » pas la Capella à temps plein, ce qui est obligatoire aux termes de l'alinéa 118.5(1)b). Le mot clé est « fréquenter » . Le ministre ajoute que l'appelant n'était pas admissible à un « crédit d'impôt pour études » parce qu'il ne satisfait pas l'exigence stipulée dans la définition d' « établissement d'enseignement agréé » au paragraphe 118.6(1).
+[6] Les dispositions législatives pertinentes sont ainsi formulées :
+118.5(1) Les montants suivants sont déductibles dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+a) si le particulier est inscrit au cours de l'année à l'un des établissements d'enseignement suivants situés au Canada :
+[...]
+b) si, au cours de l'année, le particulier fréquente comme étudiant à plein temps une université située à l'étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l'année par le total des frais de scolarité payés à l'université pour l'année, à l'exception des frais qui ont été :
+(i) soit payés pour des cours d'une durée inférieure à 13 semaines consécutives,
+[...]
+118.6(1) Les définitions qui suivent s'appliquent aux articles 63 et 64 et à la présente sous-section.
+« établissement d'enseignement agréé »
+[...]
+b) université située à l'étranger, où le particulier mentionné au paragraphe (2) est inscrit à des cours d'une durée minimale de 13 semaines consécutives qui conduisent à un diplôme;
+[...]
+« programme de formation admissible » Programme d'une durée minimale de 3 semaines consécutives, aux cours ou aux travaux duquel l'étudiant doit consacrer 10 heures par semaine au moins et qui, s'il s'agit d'un programme d'un établissement visé à la définition de « établissement d'enseignement agréé » [...]
+Version anglaise
+118.5(1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted,
+(a) where the individual was during the year a student enrolled at an educational institution in Canada, that is
+...
+(b) where the individual was during the year a student in full-time attendance at a university outside Canada in a course leading to a degree, an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual's tuition paid in respect of the year to the university, except any such fees
+(i) paid in respect of a course of less than 13 consecutive weeks duration,
+...
+118.6(1) For the purposes of sections 63 and 64 and this subdivision,
+"designated educational institution" means
+...
+(b) a university outside Canada at which the individual referred to in subsection (2) was enrolled in a course, of not less than 13 consecutive weeks duration, leading to a degree, or
+"qualifying educational program" means a program of not less than 3 consecutive weeks duration that provides that each student taking the program spend not less than 10 hours per week on courses or work in the program and, in respect of a program at an institution described in the definition "designated educational institution" ...
+Charte canadienne des droits et libertés ( « Charte » )
+6(2) Tout citoyen canadien et toute personne ayant le statut de résident permanent au Canada ont le droit :
+a) de se déplacer dans tout le pays et d'établir leur résidence dans toute province;
+b) de gagner leur vie dans toute province.
+[...]
+15(1) La loi ne fait acception de personne et s'applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l'origine nationale ou ethnique, la couleur, la religion, le sexe, l'âge ou les déficiences mentales ou physiques.
+Accord de libre-échange nord-américain ( « ALENA » )
+2020(1) S'il survient, devant une instance judiciaire ou administrative d'une Partie, une question d'interprétation ou d'application du présent accord dont l'une des Parties estime qu'elle mérite son intervention, ou si un organe judiciaire ou administratif sollicite les vues d'une Partie, cette Partie le notifiera aux autres Parties ainsi qu'à sa section du Secrétariat. La Commission s'efforcera d'établir une réponse appropriée aussi promptement que possible.
+[7] L'alinéa 118.5(1)a) prévoit un crédit pour frais de scolarité si un étudiant est « inscrit » à un établissement d'enseignement au Canada. Par contre, un étudiant qui étudie dans une université située à l'étranger doit « fréquenter » l'établissement d'enseignement « à temps plein » en vertu de l'alinéa 118.5(1)b) et non pas y être simplement « inscrit » (alinéa 118.5(1)a)).
+[8] La question en litige se résume donc à savoir si l'appelant « fréquentait à temps plein » la Capella situé à l'étranger (à Minneapolis, au Minnesota). L'appelant a fait valoir qu'il faisait l'objet d'une discrimination en violation de la Charte des droits et soutient également que les articles 1201 à 1205 de l'ALENA doivent être pris en considération puisqu'ils influent sur l'interprétation des articles 118.5 et 118.6 de la Loi.
+[9] Avant de me lancer dans l'analyse des arguments concernant la Charte et l'ALENA, je me dois d'interpréter isolément les articles pertinents de la Loi. Si le libellé de la Loi, pris isolément est clair et sans ambiguïté, alors il n'est pas nécessaire de se référer à des dispositions législatives ou à des documents externes.
+[10] Le mot clé est « fréquenter » comme « fréquenter à temps plein » qui apparaît à l'alinéa 118.5(1)b). Cela signifie-t-il que l'on doit physiquement fréquenter un établissement d'enseignement à temps plein? Le terme « fréquenter » peut s'avérer ambigu. Les deux parties ont renvoyé la Cour à la définition commune du verbe « fréquenter » que l'on trouve au dictionnaire.
+[11] Le Canadian Oxford Dictionary (1998) définit le mot « attendance » comme [traduction] « le fait d'assister ou d'être présent » . Il est difficile de conclure que l'appelant était présent à la Capella puisqu'il n'a jamais mis les pieds dans cet endroit physique ou géographique situé à Minneapolis. L'appelant soutient, en effet, que la loi doit évoluer avec le temps et interpréter le terme « fréquenter » de manière à inclure la fréquentation d'un établissement d'enseignement tel que la Capella par voie électronique.
+[12] À mon avis, c'est pousser un peu trop loin le sens ordinaire du terme « fréquenter » . Cette conclusion est fortement appuyée par la version française de l'alinéa 118.5(1)b) qui est ainsi formulée : « le particulier fréquente comme étudiant à plein temps une université » . Le Dictionnaire Robert & Collins French-English, English-French, deuxième édition, définit à la page 317 les verbes « fréquenter » et « fréquente » de la façon suivante :
+lieu to frequent; voisins to see frequently ou often; jeune filleto go around with; to keep company with ... il fréquente plus les cafés que la faculté: he's in cafésmore often than at lectures; il les fréquente peu:he seldom sees them; nous nous fréquentons beaucoup: we see quite a lot of each other, we see each other quite often ou frequently;
+Quant au Canadian Oxford Dictionary, il définit le mot « frequent » (la traduction anglaise de « fréquenter » ) comme [traduction] « assister ou aller habituellement à » . L'intimée a déposé en preuve la traduction suivante que lui a fournie le ministère de l'Éducation de l'Ontario :
+Traduction de l'alinéa 118.5(1)b) de la Loi de l'impôt sur le revenu
+Version française
+b) si, au cours de l'année, le particulier fréquente comme étudiant à plein temps une université située à l'étranger, où il suit des cours conduisant à un diplôme,
+Traduction anglaise
+(b) if, during the year, the individual goes frequently to an out of the country university as a full-time student, where he is studying towards a diploma.
+[13] Je conclus que l'appelant doit avoir été physiquement présent à la Capella pour se prévaloir des dispositions énoncées à l'article 118.5. Si le législateur avait voulu inclure les universités « en direct » dans l'alinéa 118.5(1)b), il l'aurait stipulé explicitement de manière à ce que le contribuable ne puisse déformer le sens des dispositions et faire des spéculations en vue de trouver un sens plus large du terme « fréquenter » . Je ne peux pas réécrire la loi.
+[14] Le juge Bowie, dans l'affaire Hlopina v. R.[2], a examiné la jurisprudence concernant cette même question et il a conclu au paragraphe 12 de son jugement ce qui suit :
+[traduction]
+12 L'ambiguïté que contient le texte anglais peut être dissipée en se référant à la version française de la Loi. Ainsi, l'expression « [...] le particulier fréquente comme étudiant à plein temps une université [...] » que l'on emploie à l'alinéa 118.5(1)b) fait contraste à l'expression « [...] université située à l'étranger, où le particulier [...] est inscrit [...] » qui figure à l'alinéa 118.6(1)b). De toute évidence, la première expression, contrairement à la deuxième expression, exige la présence physique à l'université. Lorsqu'une version de la loi est claire et sans ambiguïté, comme c'est le cas en l'espèce, et que l'autre version peut avoir une signification semblable ou différente, je suis tenu d'appliquer celle qui est commune aux deux versions. Bien que le verbe « to attend » en anglais puisse évoquer autre chose qu'une présence physique, on ne peut dire la même chose du verbe française « fréquenter » . Par conséquent, je dois conclure à contrecoeur que le crédit d'impôt pour frais de scolarité prévu à l'article 118.5 de la Loi ne peut être accorder à un contribuable qui suit des cours par correspondance dans une université située à l'étranger. À cet égard, je partage l'opinion du juge Heald dans l'affaire Ritchie qui a déclaré ceci :
+J'ai mentionné au cours du procès que j'étais favorable à la position de l'intimé. Ce dernier et d'autres comme lui doivent être loués pour leur zèle, leur persévérance et leur dévouement à réaliser des progrès personnels. Il se pourrait bien que l'intimé et d'autres contribuables qui sont dans une situation semblable puissent être en mesure de déduire des frais de scolarité dans ces circonstances. Cependant, il ne revient pas à la Cour de légiférer et je peux donc seulement interpréter la loi telle qu'elle est présentement.
+Les faits dans l'affaire Hlopina sont semblables à ceux en l'espèce. Dans l'arrêt Hlopina, le contribuable occupait un emploi à temps plein. Il était également un étudiant inscrit dans un collège situé aux États-Unis qui suivait des cours uniquement par correspondance.
+[15] M. Hlopina ne pouvait demander le crédit pour études que s'il « fréquentait à temps plein » le collège. Le juge Bowie a conclu ceci :
+[traduction]
+La version anglaise de la Loi était ambiguë quant à la signification de « fréquenter » . Cependant, la version française exigeait sans équivoque une présence physique. Lorsqu'une version de la loi est claire et sans ambiguïté, la cour est tenue d'appliquer la signification commune aux deux versions. Par conséquent, puisque l'appelant ne fréquentait pas l'établissement d'enseignement à temps plein, il n'était pas admissible à un crédit d'impôt pour frais de scolarité aux termes de l'article 118.5 de la Loi.
+Cette décision s'avère utile pour trancher la question en litige dans l'affaire en l'espèce.
+[16] Dans l'affaire Gilbert c. Canada[3], l'analyse de la politique du Parlement à laquelle s'est livré le juge Mogan concernant l'article 118.5 donne un aperçu qui s'applique également à l'affaire en l'espèce. Aux paragraphes 20 et 21, il a déclaré ceci :
+20 [...] Il est intéressant de voir le contraste qu'il y a entre les alinéas a) et b). Si la personne fréquente un établissement d'enseignement situé au Canada, il peut s'agir d'une université, d'un collège ou d'un autre établissement d'enseignement offrant des cours de niveau postsecondaire. En d'autres termes, si une personne veut déduire un crédit d'impôt pour frais de scolarité au Canada, la personne qui paie les frais n'a pas à fréquenter une université. Il peut s'agir d'un établissement d'enseignement autre qu'une université. Cependant, si une personne veut déduire un crédit d'impôt pour frais de scolarité et qu'elle fréquente un établissement d'enseignement situé à l'étranger, il me semble bien clair qu'il doit s'agir d'une université, en raison des termes par lesquels commence l'alinéa b), soit : « si, au cours de l'année, le particulier fréquente comme étudiant à plein temps une université située à l'étranger, où il suit des cours conduisant à un diplôme » .
+21 Le législateur a prévu une plus vaste gamme d'établissements qu'une personne peut fréquenter au niveau postsecondaire au Canada tout en ayant droit au crédit pour frais de scolarité, mais il a limité le nombre d'établissements situés à l'étranger à l'égard desquels un crédit pour frais de scolarité peut être obtenu. J'ai déjà indiqué ce que je considère comme étant la définition généralement reconnue de ce qu'est une université, soit un établissement qui décerne un diplôme. Selon mon hypothèse, la distinction vise à assurer un certain contrôle sur le genre d'établissements d'enseignement postsecondaire pouvant exister à l'étranger, à l'égard desquels il serait impossible de déterminer s'il s'agissait vraiment d'établissements d'enseignement décernant un diplôme. Je pense que la mesure législative est plus restrictive à l'alinéa b), de manière à assurer un certain contrôle quant au genre de frais de scolarité payés à des établissements situés à l'étranger et à l'égard desquels la personne qui paie les frais ou le parent aura droit à un crédit d'impôt. Pour ces deux raisons, l'interprétation de ce qu'est une université en tant qu'établissement autonome et la comparaison entre les alinéas 118.5(1)a) et b) m'amènent à conclure que l'appel considéré en l'espèce doit être rejeté.
+Je suis d'accord avec l'observation du juge selon laquelle la mesure législative de l'alinéa 118.5(1)b) qui traite d'une « université située à l'étranger » est plus restrictive que celle du paragraphe 118.5(1) qui traite des établissements d'enseignement au Canada, de manière à assurer un meilleur contrôle.
+[17] L'autre question en litige consiste à savoir si l'appelant est admissible au crédit pour études aux termes de l'alinéa 118.6(2)b) de la Loi. Pour se conformer à la Loi, un contribuable doit être inscrit dans un établissement d'enseignement agréé. Les dispositions pertinentes du paragraphe 118.6(1) qui consiste en un article général de définitions sont ainsi rédigées :
+118.6(1) Les définitions qui suivent s'appliquent aux articles 63 et 64 et à la présente sous-section.
+« enseignement d'enseignement agréé »
+a) Un [...] établissements d'enseignement [...] situés au Canada :
+[...]
+b) université située à l'étranger, où le particulier mentionné au paragraphe (2) est inscrit à des cours d'une durée minimale de 13 semaines consécutives qui conduisent à un diplôme;
+[...]
+« programme de formation admissible » Programme d'une [...] à l'exclusion du programme [...]
+[...]
+b) soit que l'étudiant suit non seulement pendant une période pour laquelle il reçoit un revenu d'une charge ou d'un emploi, [...]
+Établissement d'enseignement agréé et calcul du crédit pour études
+[18] Pour pouvoir se prévaloir du crédit pour études en vertu de l'alinéa 118.6(2)b) de la Loi, un contribuable doit être inscrit dans un « établissement d'enseignement agréé » qui, notamment, est défini comme une université située à l'étranger où le contribuable est inscrit dans le cadre d'un programme de formation d'une durée d'au moins 13 semaines consécutives menant à l'obtention d'un diplôme.
+[19] Le ministre admet que la Capella est une université située à l'étranger pour l'application de l'alinéa 118.6(1)b) de la Loi, mais il a conclu que la Capella n'est pas un établissement admissible parce que les programmes de formation qu'elle offre ne durent que 12 semaines consécutives et non 13 comme l'exige la Loi. Cette réponse est peu concluante. L'appelant a déclaré que les cours « en direct » qu'il a suivis en 2001 à la Capella étaient d'une durée de 13 semaines consécutives. À mon avis, le ministre s'appuie sur un document pro forma qu'a publié la Capella pour l'année 2002 et dans lequel il est indiqué que les cours sont d'une durée de 12 semaines consécutives et, par conséquent, il présume que tel était le cas également pour l'année 2001. L'appelant doit être loué pour son dévouement à réaliser des progrès personnels et mérite qu'on lui accorde le bénéfice du doute. Il s'est acquitté avec succès du fardeau qui lui incombait de réfuter les hypothèses du ministre.
+[20] Je conclus qu'il était inscrit à un « programme de formation déterminé » dans un « établissement d'enseignement agréé » , tels que ces deux expressions sont définies à l'article 118.6. J'admets son témoignage selon lequel il a consacré 12 heures ou plus par mois à ses cours offerts dans le cadre du programme de formation de la Capella.
+[21] Ayant conclu, en me référant à la version française de l'alinéa 118.5(1)b), que le terme « fréquenter » sous-entend une présence physique, il n'est pas nécessaire de renvoyer la Cour à l'ALENA et à la Charte.
+[22] En conclusion, l'appel est accueilli mais uniquement dans la mesure où l'appelant a le droit de demander un montant de 1 440 $ à titre de crédit pour études relativement à son inscription à la Capella pour l'année d'imposition 2001, conformément au paragraphe 118.6(2) de la Loi. Cependant, l'appelant n'est pas admissible à une déduction des frais de scolarité qu'il a demandée au montant de 6 283 $ relativement à son inscription à la Capella pour l'année d'imposition 2001.
+Signé à Ottawa, Canada, ce 13e jour de janvier 2004.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 20e jour d'avril 2004.
+Nancy Bouchard, traductrice
+[1] Le siège social de la Capella est situé à Minneapolis, au Minnesota.
+[2] [1998] 2 C.T.C. 2669.
+[3] [1998] A.C.I. no 1091.

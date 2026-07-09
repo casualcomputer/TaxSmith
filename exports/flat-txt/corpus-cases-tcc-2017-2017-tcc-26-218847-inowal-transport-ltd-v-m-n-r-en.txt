@@ -1,0 +1,152 @@
+Title: Inowal Transport Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/218847/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-26-218847-inowal-transport-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2017-02-13
+
+# Inowal Transport Ltd. v. M.N.R.
+
+- Citation: 2017 TCC 26
+- Decision date: 2017-02-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2254, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Inowal Transport Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-02-13
+Neutral citation
+2017 TCC 26
+File numbers
+2016-2678(EI)
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2016-2678(EI)
+BETWEEN:
+INOWAL TRANSPORT LTD.,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on November 9, 2016, at Saskatoon, Saskatchewan
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Naveed Anwar
+Counsel for the Respondent:
+Bryn Frape
+JUDGMENT
+The appeal with respect to the decision made under the Employment Insurance Act dated May 27, 2016 is allowed and the assessment is vacated.
+Signed at Ottawa, Canada, this 13th day of February 2017.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2017TCC26
+Date: 20170213
+Docket: 2016-2678(EI)
+BETWEEN:
+INOWAL TRANSPORT LTD.,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] As a result of a Pensionable and Insurable Earnings Review, the Minister of National Revenue (the “Minister”) assessed the Appellant the amount of $5,351.23 plus interest and penalty for unpaid EI premiums with respect to four individuals for the 2014 year. Those individuals were: Surinder Singh Multani, Simarjit Singh, Varinderpal Singh and Mohinder Singh (the “Workers”).
+[2] In assessing the Appellant, the Minister determined that:
+a) Surinder Singh Multani (“Surinder”) and Simarjit Singh (“Simarjit”) were engaged in contracts of service with the Appellant. Although they were related to the Appellant, the Minister found that substantially similar contracts of employment would have been entered into if they had been dealing at arm’s length with the Appellant.
+b) Varinderpal Singh (“Varinderpal”) was engaged in a contract of service with the Appellant and he and the Appellant were dealing at arm’s length.
+c) Mohinder Singh (“Mohinder”) was engaged in a contract of service with the Appellant.
+[3] The Appellant was represented by Naveed Anwar, its accountant. Surinder, Simarjit and Varinderpal gave their testimony under subpoena from the Respondent. Their evidence was given through an interpreter.
+[4] Prior to assessing the Appellant, in an attempt to ascertain whether an employer/employee relationship existed between the Workers and the Appellant, the Minister sent questionnaires to the Workers. Only the questionnaires for Simarjit and Varinderpal were submitted as exhibits at the hearing of this appeal.
+[5] Most of the answers in the two questionnaires were identical and it became apparent that Mr. Anwar completed the questionnaires and had Simarjit and Varinderpal sign their respective questionnaire.
+[6] The questionnaires contained a fundamental error concerning the relationship of the Workers. They listed Surinder and Simarjit as father and son. Varinderpal was listed as “Harinderpal”, the nephew of Surinder.
+[7] Whereas, all three witnesses stated that Surinder is the uncle of Simarjit and Varinderpal who are brothers of each other.
+[8] Mohinder is Surinder’s brother and Simarjit and Varinderpal’s father.
+[9] The Appellant was incorporated on June 19, 2013. It provided drivers on a contract basis to third party freight hauling truck companies. The drivers picked up and delivered freight. Its primary client was Iqbal Group Inc. which had long haul trips between Saskatoon and Edmonton. Iqbal Group Inc. owned the trucks and paid its drivers by the mileage. It paid for the gas in each truck.
+[10] According to the Reply filed by the Minister, the only drivers engaged by the Appellant were Surinder, Simarjit and Varinderpal.
+[11] The shareholders of the Appellant were:
+Surinder who held 40% of the voting shares;
+Simarjit who held 30% of the voting shares; and,
+Varinderpal who held 30% of the voting shares.
+[12] Surinder was the director of the Appellant.
+Testimony of the Witnesses
+Surinder
+[13] Surinder found the contracts for the Appellant and he was the primary driver for the Appellant. Simarjit and Varinderpal were hired as part-time drivers. However, Surinder decided who the driver would be for each contract and he supervised the drivers. On occasion, Simarjit and Varinderpal drove with him to get experience.
+[14] Surinder stated that, as the driver of the truck, he never loaded the truck but he occasionally unloaded it if the client was not present when he arrived at his destination.
+[15] According to Surinder, his duties as truck driver included driving the trucks; occasionally unloading the trucks; and, completing log books and safety checks in accordance with the industry standards.
+[16] When Mohinder worked for the Appellant, he accompanied Surinder on his trips. Mohinder helped to unload the truck when it was necessary. Surinder was not sure if Mohinder was in Canada in 2014.
+[17] Contrary to the Minister’s assumption that the Appellant’s business hours were Monday to Saturday from 7 a.m. to 5 p.m., Surinder stated that the Appellant had no particular operating hours. The Minister’s assumption was based on the questionnaires that had been completed by Mr. Anwar.
+[18] The Workers’ hours depended on the number of trips available. Surinder didn’t know the number of hours he worked in 2014 and he disagreed that he drove approximately 20 days per month. However, he stated that he completed between 3 and 15 trips a month. He agreed that Simarjit and Varinderpal drove approximately 3 to 4 days per month.
+[19] In making her decision, the Minister assumed that Iqbal Group Inc. set the Appellant’s work schedule and it contracted with the Appellant to provide driving services for six days per week. Surinder denied these assumptions.
+[20] During the period, the Workers reported that their remuneration was:
+Surinder
+$50,000
+Simarjit
+$30,000
+Varinderpal
+$20,000
+Mohinder
+$30,000
+[21] Surinder denied that the Workers received the remuneration reported. He stated that their wages were not fixed and he did not know the amount of wages each Worker received in a month. However, they were only paid when they worked. The Appellant always had work and the Workers’ income depended on “what they asked for”. None of the shareholders received dividends.
+[22] Surinder agreed that he, Simarjit and Varinderpal were fully certified and experienced Class 1 drivers prior to their employment with the Appellant. He stated that Simarjit and Varinderpal received their certification in 2013.
+Simarjit and Varinderpal
+[23] Neither Simarjit nor Varinderpal paid for their shares. They said the shares were a gift from their uncle. In 2014, they lived with their uncle, Surinder.
+[24] In 2014, Simarjit worked for the Appellant on a part-time basis. Simarjit testified that he never made a trip by himself. He accompanied his uncle, Surinder, and he drove the truck only when his uncle was tired. He stated that he made 2 or 3 trips each month with his uncle so that he could get experience.
+[25] Varinderpal testified that he did not keep track of the number of trips he made for the Appellant. It may have been 3 or 4 days a week in 2014. During this time, he was a driver trainee and he never drove alone. He accompanied his uncle, Surinder, who allowed him to drive sometimes. Varinderpal stated that he only received his Class 1 Driver’s Licence in September 2014.
+[26] Simarjit and Varinderpal both stated that they did not accompany their uncle on the same trips. Surinder decided who would accompany him on the trips.
+[27] Both Simarjit and Varinderpal stated that they did not load or unload the truck when they accompanied their uncle.
+[28] Varinderpal testified that his father, Mohinder, never worked for the Appellant. Mohinder came to Canada only 3 or 4 times in his life. He was not in Canada in 2014.
+[29] Simarjit stated that he did not have a set schedule and he was not paid on a regular basis. He asked his uncle for money when he needed it and he estimated that his uncle gave him between $100 and $1,000 in 2014.
+[30] Varinderpal also testified that he did not receive regular wages. His uncle gave him money when he asked for it. He was not sure how much money he received from his uncle in 2014.
+[31] Both Simarjit and Varinderpal testified that they did not file an income tax return for the 2014 taxation year. Simarjit later recalled that Mr. Anwar, the accountant, prepared a return for him which he signed. Varinderpal stated that his uncle reported income for the 2014 year.
+[32] As a result of a question from me with respect to the income received by Simarjit and Varinderpal, Surinder replied that the money earned did not belong to the individuals. It was family money. “We were running our household expenses” with it so that the family could remain together.
+Analysis
+[33] Most of the assumptions made by the Minister were based on the responses in the questionnaires. The questionnaires were not correct concerning some of the fundamental issues in this appeal. Mr. Anwar stated that the inaccuracy in the questionnaires was due to his client’s lack of proficiency with the English language.
+[34] My decision in this case ultimately rested on a finding of credibility. I believed the testimony of Simarjit and Varinderpal. The essential aspects of their testimony concerning wages and duties were supported by Surinder’s testimony.
+[35] It is my view that Simarjit and Varinderpal were not employed as truck drivers with the Appellant in 2014. They occasionally accompanied their uncle on his trips but they did not receive any wages. Varinderpal did not receive his Class 1 driver’s licence until September 2014. Although Simarjit received his Class 1 driver’s licence in 2013, he stated that he was a trainee truck driver.
+[36] I have concluded that neither Simarjit nor Varinderpal were employed by the Appellant in insurable employment in 2014.
+[37] The question that must be answered with respect to Surinder is whether he was an employee or an independent contractor with the Appellant. That is, was he performing his services as a person in business on his own account: 671122 Ontario Ltd v Sagaz Industries Canada Inc, [2001] 2 SCR 983 at paragraph 47.
+[38] I have concluded that Surinder was not engaged pursuant to a contract of service with the Appellant. My decision is based on the following:
+a) The Appellant did not control the manner in which Surinder performed his duties as a truck driver. The evidence indicated that none of the other shareholders of the Appellant had the expertise or experience as a truck driver to exercise control over Surinder.
+b) Surinder alone decided when he would be remunerated and the amount he would receive from the Appellant. He definitely had a chance of profit.
+[39] Mohinder was not an employee with the Appellant in 2014. According to the evidence, he was not in Canada in 2014.
+[40] The appeal is allowed and the assessment is vacated.
+Signed at Ottawa, Canada, this 13th day of February 2017.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2017TCC26
+COURT FILE NO.:
+2016-2678(EI)
+STYLE OF CAUSE:
+INOWAL TRANSPORT LTD. AND MINISTER OF NATIONAL REVEUE
+PLACE OF HEARING:
+Saskatoon, Saskatchewan
+DATE OF HEARING:
+November 9, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+February 13, 2017
+APPEARANCES:
+Agent for the Appellant:
+Naveed Anwar
+Counsel for the Respondent:
+Bryn Frape
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,283 @@
+---
+title: "Prospera Credit Union c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521091/index.do"
+last_modified: "2022-05-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 65"
+citation2: ""
+neutral_citation: "2023 CCI 65"
+decision_date: "2022-05-10"
+language: "fr"
+item_id: "521091"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5878
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-11-02T09:00:49.480000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "96d43370fb909e0482267ab88c5dc63006189d445a2eefef808d933428e09dd4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Prospera Credit Union c. Le Roi
+
+- Citation: 2023 CCI 65
+- Decision date: 2022-05-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5878, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prospera Credit Union c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-05-10
+Référence neutre
+2023 CCI 65
+Numéro de dossier
+2020-1578(GST)G
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2020-1578(GST)G
+ENTRE :
+PROSPERA CREDIT UNION,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 19 et 20 avril 2022 à Vancouver (Colombie-Britannique).
+Devant : l’honorable juge Susan Wong.
+Comparutions :
+Avocat de l’appelante :
+Me Joel A. Nitikman, c.r.
+Avocats de l’intimé :
+Me Whitney Dunn
+Me Spencer Landsiedel
+JUGEMENT
+1. L’appel est accueilli avec dépens.
+Les parties ont jusqu’au 15 juin 2023 pour s’entendre sur les dépens, faute de quoi l’appelante devra déposer des observations écrites sur les dépens au plus tard le 14 juillet 2023, après quoi l’intimé aura jusqu’au 14 août 2023 pour déposer sa réponse par écrit. Ces observations ne doivent pas dépasser dix pages. Si les parties n’informent pas la Cour qu’elles se sont entendues et ne déposent pas d’observations dans les délais fixés, les dépens seront adjugés à l’appelante et calculés selon le tarif B.
+Signé à Ottawa, Canada, ce 10e jour de mai 2023.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+ce 11e jour d’octobre 2024
+Sébastien D’Auteuil, jurilinguiste
+Référence : 2023 CCI 65
+Date : Le 10 mai 2023
+Dossier : 2020-1578(GST)G
+ENTRE :
+PROSPERA CREDIT UNION,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+Introduction
+[1] Westminster Savings Credit Union (la société remplacée par l’appelante à la suite d’une fusion) a fourni certains services à Credential Asset Management Inc. (« CAMI ») et à Credential Securities Inc. (« CSI ») aux termes d’accords visant à promouvoir et à vendre des fonds communs de placement de CAMI et des titres de CSI aux membres de Westminster.
+Question en litige
+[2] La Cour doit déterminer si les services fournis par Westminster à CAMI/CSI étaient de nature préparatoire et tombaient sous le coup de l’exclusion prévue à l’alinéa r.4) de la définition de « service financier ». Dans l’affirmative, les services n’étaient pas exonérés de la TPS et l’appelante était tenue de percevoir et de verser la taxe pour les périodes de déclaration allant du 1er janvier 2013 au 31 décembre 2016.
+Question préliminaire
+[3] Au début de l’audience, les parties ont indiqué que l’intimé renonçait à soutenir que Westminster était tenue de percevoir et de verser la TPS à l’égard de la contrepartie reçue pour les services fournis au Groupe financier Desjardins relativement à l’émission de cartes de crédit aux membres pendant les périodes de déclaration visées par le présent appel.
+Contexte factuel
+[4] Les parties ont déposé un exposé conjoint partiel des faits et un recueil conjoint des documents, dans lesquels j’ai sélectionné les faits pertinents énoncés ci-dessous.
+Westminster Savings Credit Union
+[5] L’appelante a été créée le 1er janvier 2020 par la fusion de Prospera Credit Union et de Westminster Savings Credit Union (« Westminster »)[1]. Westminster a été constituée en société en Colombie-Britannique le 19 octobre 1944[2]. Au cours de la période visée par le présent appel, Westminster était régie par la loi britanno-colombienne intitulée Credit Union Incorporation Act (Loi sur la constitution des coopératives de crédit)[3]. L’activité principale de Westminster, en tant que coopérative de crédit, était de recueillir les dépôts de ses membres et de leur verser des intérêts sur ceux-ci[4]. Westminster comptait environ 57 000 membres, ainsi que 12 bureaux à service complet et un siège social (tous situés en Colombie-Britannique)[5].
+[6] Westminster fournissait à ses membres divers services de gestion de patrimoine tels que de l’assistance en planification financière, planification successorale, planification fiscale, protection des revenus, gestion des placements et planification des assurances. Elle avait également conclu un accord avec un tiers aux termes duquel des cartes de crédit ont été fournies à ses membres[6]. Westminster n’était pas autorisée à vendre des fonds communs de placement ou des valeurs mobilières à ses membres[7].
+Credential Asset Management Inc. et Credential Securities Inc.
+[7] CAMI a été constituée en société en Ontario en 1987[8]. Au cours de la période visée par le présent appel, elle était membre de l’Association canadienne des courtiers de fonds mutuels (l’« ACFM ») et autorisée à vendre des fonds communs de placement[9]. CAMI a vendu des fonds communs de placement à des membres du public et a reçu des honoraires pour ces ventes[10].
+[8] CSI a été constituée en société sous le régime fédéral en 1995[11]. Au cours de la période visée par le présent appel, elle était membre de l’Organisme canadien de réglementation du commerce des valeurs mobilières (l’« OCRCVM ») et autorisée à vendre des titres tels que des parts de fonds communs de placement, des actions et des obligations[12]. CSI a vendu des titres à des membres du public et a reçu des honoraires pour ces ventes[13].
+Accords conclus entre Westminster et CAMI et CSI
+[9] Westminster n’avait aucun lien de dépendance avec CAMI et CSI[14]. Elle a conclu des accords de participation avec CAMI et CSI le 27 avril 2001 et le 6 mai 2016, respectivement[15]. L’accord conclu avec CAMI a été modifié le 31 mars 2004 par l’ajout de certaines définitions et de dispositions relatives à l’assurance et à l’indemnisation[16].
+[10] Aux termes des accords de participation, Westminster fournissait certains services à CAMI et à CSI en échange d’honoraires de leur part[17]. Si les fonds communs de placement de CAMI et les titres de CSI étaient achetés par l’entremise d’employés communs ou de conseillers en placement (décrits ci-dessous à la rubrique « Employés communs et conseillers en placement »), Westminster recevait des honoraires de CAMI/CSI; sinon, elle n’en recevait pas[18]. Plus précisément :
+a)dans le cas de CAMI – CAMI versait à Westminster des honoraires correspondant à un pourcentage des frais de placement et des frais de gestion versés à CAMI par les émetteurs de fonds communs de placement. Le pourcentage des frais de placement dépendait du volume des ventes, tandis que le pourcentage des frais de gestion dépendait de l’utilisation par Westminster du système de transfert électronique de données de CAMI pour enregistrer les opérations sur les fonds communs de placement[19];
+b)dans le cas de CSI – CSI versait à Westminster des honoraires correspondant à un pourcentage des commissions reçues par CSI pour la vente de titres[20].
+[11] Au cours de la période visée par l’appel, Westminster a reçu de CAMI et de CSI les honoraires suivants, sur lesquels elle n’a pas perçu ni versé la TPS[21] :
+Année
+Somme
+2013
+4 811 448 $
+2014
+4 995 195 $
+2015
+4 435 396 $
+2016
+3 963 308 $
+Employés communs et conseillers en placement
+[12] Aux termes de leurs accords de participation respectifs, Westminster et CAMI/CSI ont engagé conjointement des employés pour fournir les services convenus. Selon l’accord conclu avec CAMI, ces employés étaient appelés employés communs, tandis que, selon l’accord avec CSI, ils étaient appelés conseillers en placement[22]. Dans les deux cas, ces employés travaillaient dans les bureaux de Westminster et étaient supervisés par celle-ci[23].
+[13] Les employés communs et les conseillers en placement ne rendaient compte de leurs activités quotidiennes qu’à Westminster[24]. Westminster payait le coût de la formation dont les employés communs et les conseillers en placement avaient besoin pour fournir aux membres des services relatifs aux produits de CAMI/CSI[25]. Les employés communs et les conseillers en placement suivaient également des cours de CAMI/CSI pour s’assurer de respecter les normes réglementaires de l’ACFM ou de l’OCRCVM, selon le cas; Westminster les inscrivait aux cours et payait les frais applicables à CAMI/CSI[26].
+[14] Les employés communs (c’est-à-dire visés par l’accord entre Westminster et CAMI) devaient être détenteurs d’un permis de l’ACFM, tandis que les conseillers en placement (c’est-à-dire visés par l’accord entre Westminster et CSI) devaient être détenteurs d’un permis de l’OCRCVM, pour pouvoir traiter et vendre des fonds communs de placement et des valeurs mobilières, respectivement, et fournir des conseils à leur égard[27]. Westminster payait les droits de permis dans les deux cas[28].
+[15] En 2013, 2014, 2015 et au premier trimestre de 2016, les employés embauchés conjointement étaient uniquement des employés communs (c’est-à-dire qui vendaient des fonds communs de placement de CAMI)[29]. Après le premier trimestre de 2016, l’effectif comprenait des conseillers en placement (c’est-à-dire qui vendaient des titres de CSI)[30].
+[16] Lorsqu’un membre décidait d’acheter des fonds communs de placement ou des titres, l’employé commun ou le conseiller en placement se chargeait de ce qui suit :
+a)recueillir des renseignements auprès du membre pour remplir les documents nécessaires ou aider le membre à les remplir;
+b)envoyer les documents dûment remplis à CAMI/CSI pour examen. Si les documents étaient en règle, l’achat était effectué au nom du membre[31].
+[17] À titre d’exemple, un conseiller en placement a conclu un contrat de travail avec CSI le 23 juillet 2016, puis un contrat de travail distinct avec Westminster le 16 décembre 2016[32]. Aux termes du contrat de travail conclu avec Westminster, celle-ci lui versait un salaire et d’autres formes de rémunération pour ses services en tant que conseiller en placement, tandis qu’aux termes du contrat conclu avec CSI, cette dernière n’était pas tenue de lui verser de salaire ni de rémunération[33].
+[18] À titre d’exemple, un employé commun a conclu un contrat de travail avec Westminster le 1er septembre 2016, puis un contrat de travail distinct avec CAMI le 27 septembre 2016[34]. Aux termes du contrat de travail conclu avec Westminster, celle-ci lui versait un salaire et d’autres formes de rémunération pour ses services en tant qu’employé commun, tandis qu’aux termes du contrat conclu avec CAMI, cette dernière était tenue de lui verser 1 $ par an[35].
+[19] En ce qui concerne les employés communs, CAMI et Westminster détenaient chacune une assurance responsabilité civile professionnelle dont elles étaient respectivement bénéficiaires; toutefois, c’est Westminster qui payait les deux assurances[36].
+Achats de produits de CAMI et de CSI par les membres
+[20] Lorsque les membres achetaient des fonds communs de placement de CAMI ou des titres de CSI par l’intermédiaire de Westminster, ils demandaient à celle-ci de retirer de l’argent de leur compte Westminster et de le déposer sur un compte en fiducie spécial créé par Westminster. CAMI/CSI retirait ensuite quotidiennement des fonds de ce compte en fiducie et utilisait l’argent pour payer les fonds communs de placement ou les titres[37].
+[21] La Cour a également entendu le témoignage de Susan Lovell (ancienne vice-présidente des finances de l’appelante et de Westminster entrée en poste en 2015) et de Kevin Dombrova (actuel vice-président de la planification du patrimoine de l’appelante et directeur de la gestion du patrimoine de Westminster entré en poste en 2015).
+Cadre législatif
+[22] La personne qui effectue une fourniture taxable doit, à titre de mandataire de Sa Majesté du chef du Canada, percevoir la TPS payable par l’acquéreur[38]. Une « fourniture taxable » s’entend d’une fourniture effectuée dans le cadre d’une activité commerciale[39]. Même si l’« activité commerciale » est définie dans la Loi, pour les besoins fins du présent appel, il importe seulement de savoir que l’activité commerciale exclut expressément la réalisation de fournitures exonérées[40].
+Les services financiers sont exonérés
+[23] Pour commencer, à l’exception des services financiers exportés (qui sont détaxés)[41], les services financiers sont exonérés de la TPS en vertu de la partie VII de l’annexe V, de la Loi. La définition de « service financier »[42] énumère différents types de services. Les parties pertinentes sont les suivantes :
+service financier
+d) l’émission, l’octroi, l’attribution, l’acceptation, l’endossement, le renouvellement, le traitement, la modification, le transfert de propriété ou le remboursement d’un effet financier;
+[…]
+l) le fait de consentir à effectuer, ou de prendre les mesures en vue d’effectuer, un service qui, à la fois :
+(i) est visé à l’un des alinéas a) à i),
+(ii) n’est pas visé aux alinéas n) à t)
+[…]
+La présente définition exclut :
+[…]
+r.4) le service, sauf un service visé par règlement, qui est rendu en préparation de la prestation effective ou éventuelle d’un service visé à l’un des alinéas a) à i) et l), ou conjointement avec un tel service, et qui consiste en l’un des services suivants :
+(i) un service de collecte, de regroupement ou de communication de renseignements,
+(ii) un service d’étude de marché, de conception de produits, d’établissement ou de traitement de documents, d’assistance à la clientèle, de publicité ou de promotion ou un service semblable;
+[24] Pour les besoins du présent appel, les services en cause doivent, pour être exonérés de la taxe, tomber sous le coup des alinéas d) et l) de la définition de « service financier », mais pas de son alinéa r.4). Les parties ne contestent pas que les produits de CAMI et de CSI en cause sont des effets financiers, de sorte que l’alinéa d) de la définition n’est pas en litige.
+Analyse
+[25] Les parties conviennent que Westminster a effectué une fourniture mixte unique à CAMI et à CSI. En d’autres termes, les éléments de la fourniture sont totalement interreliés et une seule contrepartie a été reçue en échange[43].
+[26] Depuis l’arrêt Global Cash Access (Canada) Inc. c. Canada[44], la Cour d’appel fédérale a affirmé à plusieurs reprises que, lorsqu’il y a une fourniture unique composée d’éléments multiples, l’analyse se fait en deux étapes :
+a)déterminer quels services ont été fournis pour la contrepartie reçue – la totalité des services, et non seulement les services prédominants[45];
+b)déterminer si la fourniture est visée par la définition énoncée dans la loi de ce qui constitue le « service financier ». Pour ce faire, il faut établir quels sont les éléments prédominants de la fourniture et ne prendre en compte que ceux-ci lors de l’application de la définition. En d’autres termes, que paie réellement l’acquéreur[46]?
+Première étape : Qu’est-ce qui a été fourni?
+[27] Les parties conviennent que le service financier en cause tombe sous le coup de l’alinéa l) de la définition, c’est-à-dire le fait de consentir à effectuer, ou de prendre les mesures en vue d’effectuer, un service visé à l’alinéa d) (concernant les effets financiers). Elles conviennent également que la question est, ultimement, de déterminer si le service auquel il est consenti ou pour lequel des mesures sont prises tombe sous le coup de l’alinéa r.4), auquel cas il ne serait pas un service financier[47].
+[28] Même si elles l’expriment différemment, les parties s’accordent également sur le fait que la fourniture unique de Westminster comprenait les éléments suivants[48] :
+a)effectuer une démarche [traduction] « exploratoire » avec le membre afin de déterminer ses objectifs, sa tolérance au risque, ses horizons temporels, etc.
+b)pour les fonds communs de placement de CAMI, faire remplir un questionnaire sur la tolérance au risque;
+c)recueillir les renseignements personnels nécessaires auprès du membre;
+d)faire des recommandations de placement au membre;
+e)faire signer les documents relatifs au nouveau compte et les soumettre à CAMI/CSI.
+Deuxième étape 2 : Quels sont les éléments prédominants de la fourniture?
+[29] Pour répondre à cette question, il faut déterminer ce qui confère à l’arrangement son efficacité commerciale, c’est-à-dire en quoi consiste essentiellement l’opération[49].
+[30] Les honoraires reçus par Westminster de la part de CAMI/CSI étaient directement liés aux achats effectués par les membres et leur montant augmentait proportionnellement aux ventes réalisées. Westminster n’était pas payée pour les opérations non achevées. Autrement dit, même si Westminster recueillait tous les renseignements personnels et remplissait les formulaires ou questionnaires nécessaires, elle n’était pas payée par CAMI/CSI si la vente n’était pas conclue[50]. Ces services, pris isolément, étaient rendus en préparation de la prestation du service financier visé à l’alinéa d) de la définition (concernant les effets financiers) et fournis conjointement avec celui-ci. Cela signifie qu’ils tombent entièrement sous le coup de l’alinéa r.4).
+[31] Toutefois, en l’espèce, les employés communs et les conseillers en placement ont suivi les formations de CAMI/CSI, payées par Westminster, afin de satisfaire aux normes réglementaires. Ils devaient également être détenteurs d’un permis de l’organisme de réglementation applicable (l’ACFM pour les fonds communs de placement et l’OCRCVM pour les valeurs mobilières) pour traiter et vendre ces produits et fournir des conseils à leur égard. Westminster payait les droits de permis[51].
+[32] La formation permettait aux employés communs et aux conseillers en placement d’acquérir l’expertise et les connaissances nécessaires pour interpréter les renseignements recueillis auprès du membre concernant ses objectifs, sa tolérance au risque et son horizon temporel afin de lui recommander les produits les mieux adaptés selon les circonstances. Le permis leur conférait l’autorisation légale d’effectuer le tout, ainsi que de conclure l’opération.
+[33] En ce qui concerne la rémunération, les employés communs et les conseillers en placement étaient payés par Westminster conformément à leurs contrats de travail respectifs. Aux termes de l’accord conclu avec CAMI, celle-ci devait verser à chaque employé commun la somme nominale annuelle de 1 $, qui semble n’avoir jamais été versée, d’après le témoignage de Mme Lovell et de M. Dombrova. Les employés communs et les conseillers en placement rendaient compte exclusivement à Westminster de leurs activités quotidiennes, et les deux accords de participation montrent que Westminster a fourni l’espace physique où avaient lieu les activités liées à la vente des produits[52]. Par conséquent, bien que les accords de participation précisent que ces employés ont été embauchés conjointement, la réalité quotidienne indique le contraire.
+[34] Des notes techniques du ministère des Finances [avril 2010] indiquent qu’en ce qui concerne l’alinéa l) de la définition :
+Le passage « le fait de consentir à effectuer » s’entend généralement des activités d’un mandant dans le cadre d’une opération qui consiste à consentir à effectuer un service mentionné à l’un des alinéas a) à i). Le passage « prendre des mesures en vue d’effectuer » vise généralement les activités d’intermédiation (ou activités consistant à rapprocher les parties à un service visé à l’un des alinéas a) à i)) qui sont habituellement exercées par des intermédiaires financiers visés au sous-alinéa 149(1)a)(iii), comme les mandataires, les courtiers et les négociants en instruments financiers ou en monnaie. Pour déterminer si le service d’un intermédiaire est visé à l’alinéa l), tous les faits entourant l’opération, y compris le niveau de participation directe de l’intermédiaire dans la fourniture du service visé à l’un des alinéas a) à i), le temps et l’effort qu’il y a consacrés, la mesure dans laquelle le fournisseur ou l’acquéreur, ou l’un et l’autre, se sont fiés à l’intermédiaire dans le cadre de la fourniture du service financier, l’intention de l’intermédiaire et, le cas échéant, ses activités habituelles dans un secteur donné (y compris la question de savoir s’il exploite une entreprise de services financiers) doivent être pris en considération. L’alinéa l) est modifié de façon à confirmer que le fait de consentir à effectuer un service visé à l’un des alinéas n) à t) ou de prendre des mesures en vue de l’effectuer est exclu de son application. [Non souligné dans l’original.]
+[35] En ce qui concerne l’alinéa r.4) de la définition, les mêmes notes techniques précisent ce qui suit :
+Selon le nouvel alinéa r.4), ne sont pas des « services financiers » les services rendus en préparation d’un service visé à l’un des alinéas a) à i) et l), ou conjointement avec un tel service, qui consistent en l’un des services suivants :
+un service de collecte, de regroupement ou de communication de renseignements;
+un service d’étude de marché, de conception de produits, d’établissement ou de traitement de documents, d’assistance à la clientèle, de publicité ou de promotion ou un service semblable.
+Lorsqu’un intermédiaire a consenti à effectuer des services financiers ou à prendre des mesures en vue d’en effectuer et qu’il exécute un certain nombre de services dans ce cadre , seuls les services mentionnés dans les deux puces ci-dessus constitueraient des services rendus en préparation de la prestation d’un service mentionné à l’un des alinéas a) à i) et l), ou conjointement avec un tel service, et seraient exclus de la définition de « service financier » par l’effet de l’alinéa r.4).
+[36] Compte tenu des facteurs énoncés dans ces extraits des notes techniques du ministère des Finances, l’ensemble des circonstances en l’espèce montre que, si les aspects préparatoires étaient certes essentiels à la conclusion d’une opération, ils n’étaient ni l’élément prédominant ni les seuls services fournis par Westminster. Plus précisément :
+a)Westminster exerçait une activité d’intermédiation en mettant en relation CAMI/CSI, en tant que vendeurs, et ses propres membres, en tant qu’acheteurs des effets financiers;
+b)Westminster prenait des mesures en vue de la prestation du service visé à l’alinéa d) de la définition (sans participation directe);
+c)les employés communs et les conseillers en placement exerçaient leurs activités sous l’égide de Westminster en ce qui concerne la rémunération, la formation, la supervision quotidienne, l’octroi de permis et l’assurance responsabilité civile professionnelle (pour les employés communs), de sorte que le temps et les efforts consacrés par Westminster ont été considérables, ce qui explique le montant des honoraires versés à Westminster par CAMI/CSI au cours de la période visée par le présent appel;
+d)les employés communs et les conseillers en placement rencontraient les membres, recommandaient les produits de CAMI/CSI appropriés, remplissaient les documents nécessaires et les soumettaient à CAMI/CSI, de sorte que CAMI/CSI et les membres se fiaient considérablement à Westminster.
+[37] L’élément prédominant était la vente de fonds communs de placement de CAMI et de titres de CSI aux membres de Westminster par les employés communs et les conseillers en placement qui, grâce à leur formation et à leur permis, pouvaient recommander et vendre des produits de CAMI/CSI aux membres de Westminster en fonction des profils de placement de ces derniers.
+[38] Westminster prenait des mesures en vue d’effectuer l’émission, l’octroi, l’attribution, l’acceptation, l’endossement, le renouvellement, le traitement, la modification, le transfert de propriété ou le remboursement d’effets financiers, à savoir les fonds communs de placement de CAMI et les titres de CSI. Voilà en quoi consistait essentiellement l’opération et ce pour quoi CAMI/CSI payait réellement. Par conséquent, Westminster a fourni le service financier exonéré visé à l’alinéa l) de la définition en prenant des mesures en vue de la fourniture du service financier visé à l’alinéa d).
+Conclusion
+[39] L’appel est accueilli avec dépens.
+[40] Les parties ont jusqu’au 15 juin 2023 pour s’entendre sur les dépens, faute de quoi l’appelante devra déposer des observations écrites sur les dépens au plus tard le 14 juillet 2023, après quoi l’intimé aura jusqu’au 14 août 2023 pour déposer sa réponse par écrit. Ces observations ne doivent pas dépasser dix pages. Si les parties n’informent pas la Cour qu’elles se sont entendues et ne déposent d’observations dans les délais fixés, les dépens seront adjugés à l’appelante et calculés selon le tarif B.
+Signé à Ottawa, Canada, ce 10e jour de mai 2023.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+ce 28e jour d’octobre 2024
+Sébastien D’Auteuil, jurilinguiste
+RÉFÉRENCE :
+2023 CCI 65
+No DU DOSSIER DE LA COUR :
+2020-1578(GST)G
+INTITULÉ :
+PROSPERA CREDIT UNION c.
+SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Les 19 et 20 avril 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 10 mai 2023
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Joel A. Nitikman, c.r.
+Avocats de l’intimé :
+Me Whitney Dunn
+Me Spencer Landsiedel
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Joel A. Nitikman, c.r.
+Cabinet :
+Dentons Canada S.E.N.C.R.L.
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada Ottawa, Canada
+[1] Exposé conjoint partiel des faits, par. 1.
+[2] Exposé conjoint partiel des faits, par. 2.
+[3] Exposé conjoint partiel des faits, par. 3; R.S.B.C. 1996, ch. 82.
+[4] Exposé conjoint partiel des faits, par. 4.
+[5] Exposé conjoint partiel des faits, par. 6 et 7.
+[6] Exposé conjoint partiel des faits, par. 15.
+[7] Exposé conjoint partiel des faits, par. 16.
+[8] Exposé conjoint partiel des faits, par. 8.
+[9] Exposé conjoint partiel des faits, par. 9.
+[10] Exposé conjoint partiel des faits, par. 13.
+[11] Exposé conjoint partiel des faits, par. 10.
+[12] Exposé conjoint partiel des faits, par. 12.
+[13] Exposé conjoint partiel des faits, par. 13.
+[14] Exposé conjoint partiel des faits, par. 14.
+[15] Exposé conjoint partiel des faits, par. 17 et 19; recueil conjoint des documents, onglets 3 et 15.
+[16] Exposé conjoint partiel des faits, par. 18; recueil conjoint des documents, onglet 7.
+[17] Exposé conjoint partiel des faits, par. 20, 22 et 23.
+[18] Exposé conjoint partiel des faits, par. 24 et 25.
+[19] Exposé conjoint partiel des faits, par. 22; recueil conjoint des documents, onglet 3, alinéa 3.1d).
+[20] Exposé conjoint partiel des faits, par. 23.
+[21] Exposé conjoint partiel des faits, par. 26 et 27.
+[22] Exposé conjoint partiel des faits, par. 28 et 29; recueil conjoint des documents, onglets 3, 7 et 15.
+[23] Exposé conjoint partiel des faits, par. 30 et 32.
+[24] Exposé conjoint partiel des faits, par. 33.
+[25] Exposé conjoint partiel des faits, par. 34.
+[26] Exposé conjoint partiel des faits, par. 35.
+[27] Exposé conjoint partiel des faits, par. 37 et 39.
+[28] Exposé conjoint partiel des faits, par. 40.
+[29] Exposé conjoint partiel des faits, par. 36.
+[30] Exposé conjoint partiel des faits, par. 38.
+[31] Exposé conjoint partiel des faits, par. 41.
+[32] Exposé conjoint partiel des faits, par. 42, 43 et 47; recueil conjoint des documents, onglets 12 et 16.
+[33] Exposé conjoint partiel des faits, par. 45, 46 et 47.
+[34] Exposé conjoint partiel des faits, par. 48, 49 et 52; recueil conjoint des documents, onglets 17 et 18.
+[35] Exposé conjoint partiel des faits, par. 51, 53 et 54.
+[36] Exposé conjoint partiel des faits, par. 56; recueil conjoint des documents, onglet 7, article 2.
+[37] Exposé conjoint partiel des faits, par. 57.
+[38] Loi sur la taxe d’accise, paragraphe 221(1).
+[39] Loi sur la taxe d’accise, paragraphe 123(1), définition de « fourniture taxable ».
+[40] Loi sur la taxe d’accise, paragraphe 123(1), définition d’« activité commerciale ».
+[41] Loi sur la taxe d’accise, annexe VI, partie IX, article 1.
+[42] Loi sur la taxe d’accise, paragraphe 123(1), définition de « service financier ».
+[43] Global Cash Access (Canada) Inc. c. Canada, 2013 CAF 269, par. 25.
+[44] 2013 CAF 269.
+[45] Global Cash Access (Canada) Inc. c. Canada, 2013 CAF 269, par. 26; Great-West, Compagnie d’assurance-vie c. Canada, 2016 CAF 316, par. 47; Banque canadienne impériale de commerce c. Canada, 2021 CAF 96, par. 34, 35 et 37.
+[46] Global Cash Access (Canada) Inc. c. Canada, 2013 CAF 269, par. 26, 29 et 30; Great-West, Compagnie d’assurance-vie c. Canada, 2016 CAF 316, par. 48 et 50; Banque canadienne impériale de commerce c. Canada, 2021 CAF 96, par. 36 et 38.
+[47] Observations écrites de l’appelante, par. 2.14 à 2.16; observations écrites de l’intimé, par. 45.
+[48] Exposé conjoint partiel des faits, par. 41; observations écrites de l’appelante, alinéas 1.3p) et q); observations écrites de l’intimé, par. 54; recueil conjoint des documents, onglet 25.
+[49] Global Cash Access (Canada) Inc. c. Canada, 2013 CAF 269, par. 28 et 30; Great-West, Compagnie d’assurance-vie c. Canada, 2016 CAF 316, par. 49 et 50.
+[50] Exposé conjoint partiel des faits, par. 22 et 25; recueil conjoint des documents, onglet 3, alinéa 3.1d).
+[51] Exposé conjoint partiel des faits, par. 33 à 35, 37, 39 et 40.
+[52] Recueil conjoint de documents, onglet 3, p. 1, 5e considérant; recueil conjoint des documents, onglet 15, p. 1, 2e considérant; exposé conjoint partiel des faits, par. 30 et 32.

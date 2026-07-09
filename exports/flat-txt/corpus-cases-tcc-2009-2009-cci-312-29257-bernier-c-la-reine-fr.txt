@@ -1,0 +1,146 @@
+Title: Bernier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29257/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-312-29257-bernier-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-05-27
+
+# Bernier c. La Reine
+
+- Citation: 2009 CCI 312
+- Decision date: 2009-05-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6997, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bernier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-05-27
+Référence neutre
+2009 CCI 312
+Numéro de dossier
+2008-129(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-129(IT)I
+ENTRE :
+LESLIE BERNIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 27 mai 2009, à Regina (Saskatchewan).
+Devant : L’honorable juge D. W. Beaubier
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Stagiaire en droit :
+Me Lyle Bouvier
+Roxanne Gagné
+____________________________________________________________________
+JUGEMENT Les appels interjetés à l’encontre des cotisations établies à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont rejetés.
+Signé à Edmonton (Alberta), ce 3e jour de juin 2009.
+« D. W. Beaubier »
+Juge suppléant Beaubier
+Traduction certifiée conforme
+ce 24e jour de juin 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2009CCI312
+Date : 20090603
+Dossier : 2008-129(IT)I
+ENTRE :
+LESLIE BERNIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Beaubier
+[1] Le présent appel a été entendu sous le régime de la procédure informelle à Regina, en Saskatchewan, le 27 mai 2009. L’appelant était le seul témoin.
+[2] Le détail des questions en litige relativement aux cotisations établies à l’égard de l’appelant pour les années d’imposition 2002 et 2003 est exposé dans les paragraphes suivants de la réponse à l’avis d’appel :
+[traduction]
+7. Les avis de cotisation initiaux pour les années d’imposition 2002 et 2003 ont été respectivement datés du 10 avril 2003 et du 25 mai 2004 et envoyés à l’appelant à ces mêmes dates.
+8. Lorsqu’il a établi de nouvelles cotisations à l’égard de l’appelant pour les années d’imposition 2002 et 2003, le 2 mars 2006, le ministre a inclus un avantage imposable dans le revenu de celui‑ci pour chaque année, considérant que le ministère de l’Industrie et des Ressources de la Saskatchewan (l’« employeur ») lui fournissait un stationnement.
+9. Les montants que le ministre a inclus dans le revenu de l’appelant à titre d’avantage imposable parce que l’employeur lui fournissait un stationnement s’élevaient respectivement à 840,12 $ et à 703,28 $ pour les années d’imposition 2002 et 2003.
+10. Le montant de l’avantage que le ministre a inclus dans le revenu de l’appelant correspondait à 100 % de la valeur marchande du stationnement fourni par l’employeur moins tout montant payé par l’appelant. Cet avantage était calculé de la manière suivante :
+2002
+2003
+Valeur marchande
+840,12 $
+848,28 $
+Montant payé
+(0 $)
+(145 $)
+Avantage
+840,12 $
+703,28 $
+11. Par avis de ratification daté du 26 septembre 2007, le ministre a confirmé les nouvelles cotisations qu’il a établies à l’égard de l’appelant pour les années d’imposition 2002 et 2003, dans la mesure où le stationnement que celui‑ci a reçu et dont il a joui dans l’occupation ou en vertu d’une charge ou d’un emploi était un avantage accordé par l’employeur.
+12. Le 9 janvier 2008, l’appelant a présenté à la Cour une demande de prorogation du délai pour signifier un avis d’appel pour les années d’imposition 2002, 2003 et 2004.
+13. Le 28 novembre 2008, la Cour canadienne de l’impôt a entendu la requête de l’appelant, ordonnant ainsi, le 12 décembre 2008, que l’avis d’appel relatif aux années d’imposition 2002 et 2003 soit réputé avoir été déposé à la date où l’ordonnance a été rendue et que la requête en prorogation du délai pour déposer un avis d’appel relativement à l’année d’imposition 2004 soit rejetée.
+14. Le 12 décembre 2008, l’appelant a déposé son avis d’appel relatif aux années d’imposition 2002 et 2003 auprès de la Cour canadienne de l’impôt.
+15. En établissant les nouvelles cotisations à l’égard de l’appelant pour les années d’imposition 2002 et 2003, et en les ratifiant, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+a) pendant toutes les périodes en cause, l’appelant était employé par le gouvernement de la Saskatchewan, au ministère de l’Industrie et des Ressources;
+b) pendant toutes les périodes en cause, on avait attribué à l’appelant la place de stationnement 39 (la « place de stationnement ») au Financial Building, situé au 2101, rue Scarth, à Regina (le « parc de stationnement »);
+c) pendant toutes les périodes en cause, FB Properties Ltd. était propriétaire du parc de stationnement;
+d) le parc de stationnement était loué par Saskatchewan Property Management Corporation (« SPMC »);
+e) SPMC est une société d’État provinciale chargée de fournir des locaux à bureaux et des services connexes à tous les ministères provinciaux;
+f) tous les frais engagés par SPMC pour les places de stationnement étaient ensuite facturés à l’employeur, qui les payait chaque mois;
+g) la valeur attribuée au stationnement fourni à l’appelant a été calculée à partir des taux réels donnés par SPMC, lesquels étaient facturés à l’employeur;
+h) la juste valeur marchande de la place de stationnement que l’employeur a fournie à l’appelant pendant l’année d’imposition 2002 s’élevait à 840,12 $, soit 70,01 $ par mois;
+i) la juste valeur marchande de la place de stationnement que l’employeur a fournie à l’appelant pendant l’année d’imposition 2003 s’élevait à 848,28 $, soit 70,69 $ par mois;
+j) pendant l’année d’imposition 2002, l’employeur fournissait la place de stationnement à l’appelant, sans frais;
+k) pendant l’année d’imposition 2002, la valeur de l’avantage relatif au stationnement fourni à l’appelant n’était pas inférieure à 840,12 $;
+l) en septembre 2003, la politique de l’employeur relative au stationnement a changé et il a été demandé à l’appelant de payer 29 $ par mois pour le stationnement sous forme de retenue à la source;
+m) pendant l’année d’imposition 2003, l’appelant a payé un total de 145 $ à l’employeur pour utiliser la place de stationnement;
+n) pendant l’année d’imposition 2003, la valeur de l’avantage relatif au stationnement fourni à l’appelant n’était pas inférieure à 703,28 $ (848,28 $ - 145 $);
+o) les places de stationnement fournies par l’employeur n’étaient pas des places aléatoires, étant donné que le nombre de places fournies aux employés était égal au nombre de places de stationnement disponibles;
+p) les places de stationnement étaient attribuées aux employés selon le principe du premier arrivé, premier servi, et les employés devaient remplir un formulaire de demande de stationnement;
+q) si aucun stationnement n’était disponible au moment du dépôt de la demande, le nom de l’employé était ajouté à la liste d’attente pour l’obtention d’une place de stationnement jusqu’au moment où une place se libérait;
+r) la place de stationnement était fournie à l’appelant du fait qu’il travaillait pour l’employeur;
+s) l’appelant n’utilisait pas un véhicule de façon régulière aux fins de son emploi;
+t) le stationnement que l’employeur fournissait à l’appelant avantageait d’abord l’appelant, et non l’employeur;
+[3] Aucune des hypothèses du paragraphe 15 n’a été contestée, à l’exception de l’hypothèse p). L’appelant a déclaré que les places de stationnement étaient attribuées en fonction de l’ancienneté.
+[4] L’appelant a également contesté deux autres points :
+1. Le temps qu’il a fallu pour que la Cour entende son appel après la signification de l’avis d’opposition. L’alinéa 169(1)b) de la Loi de l’impôt sur le revenu (la « Loi ») répond à cette question en donnant au contribuable le droit d’interjeter appel auprès de la Cour après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition. Il se peut que le contribuable l’ait ignoré, mais la Loi énonce clairement ce droit et il appartenait à l’appelant de faire avancer son appel après la période de 90 jours, si tel était son choix.
+2. Le fait que la cotisation a été établie rétroactivement alors que, comme il l’a déclaré, il aurait refusé la place de stationnement s’il avait su qu’il s’agissait d’un avantage imposable. Ses doléances sont compréhensibles, mais les cotisations rétroactives sont monnaie courante dans la mesure où l’Agence du revenu du Canada ne peut être au fait de tous les agissements des contribuables en temps réel.
+[5] M. Bernier s’est également plaint des intérêts qui lui ont été imposés sur ses impôts impayés. L’intimée a renoncé à une partie de ces intérêts avant l’audience. Toutefois, les intérêts en question ont été imposés sur de l’impôt que l’appelant devait, et par conséquent, ils échappent à la compétence de la Cour.
+[6] Pour ces motifs, l’appel est rejeté.
+Signé à Edmonton (Alberta), ce 3e jour de juin 2009.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 24e jour de juin 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2009CCI312
+NO DU DOSSIER DE LA COUR : 2008-129(IT)I
+INTITULÉ : Leslie Bernier et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Regina (Saskatchewan)
+DATE DE L’AUDIENCE : Le 27 mai 2009
+MOTIFS DU JUGEMENT : L’honorable juge D. W. Beaubier
+DATE DU JUGEMENT : Le 3 juin 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Stagiaire en droit :
+Me Lyle Bouvier
+Roxanne Gagné
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,255 @@
+---
+title: "Garcia v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28023/index.do"
+last_modified: "2007-09-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 548"
+citation2: ""
+neutral_citation: "2007 TCC 548"
+decision_date: "2007-09-28"
+language: "en"
+item_id: "28023"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1609
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:41:09.532000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "72ecb208602866e84a53e2bd5697dcc5a21ee89272017423c3e4cc4361a2328c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Garcia v. The Queen
+
+- Citation: 2007 TCC 548
+- Decision date: 2007-09-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1609, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Garcia v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-28
+Neutral citation
+2007 TCC 548
+File numbers
+2006-2458(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2458(IT)I
+BETWEEN:
+HERVE L. GARCIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 31, 2007, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Agent for the Appellant:
+Jack R. Bowerman
+Counsel for the Respondent:
+Frédéric Morand
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is dismissed.
+Signed at Ottawa, Canada, this 28th day of September 2007.
+"Lucie Lamarre"
+Lamarre J.
+Citation: 2007TCC548
+Date: 20070928
+Docket: 2006-2458(IT)I
+BETWEEN:
+HERVE L. GARCIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The appellant, a French citizen, is an engineer. In 1993, he moved with his family to the United States on account of his employment. He obtained his green card in the U.S. and, while there, moved three times because of his employment, each time selling his house and purchasing another. At the end of 2002, his employer sent him to Canada. He accordingly sold his house in Los Angeles and purchased one in Canada. He obtained a permit to work in Canada in December 2002, whereupon he moved here.
+[2] At the same time, he did not want to lose his green card; he thus asked for, and obtained, a re-entry permit from the U.S. authorities. This re-entry permit was issued on March 26, 2004, and was valid for a period of two years. It was not renewable.
+[3] The appellant kept all his investment and bank accounts in the U.S. He also used a post office box there. His cars were all registered in the U.S. but were plated in Ontario for insurance purposes. When he left the United States, the appellant did not have American citizenship. As he never returned to the U.S. after his move to Canada, his re-entry permit expired and he never did acquire American citizenship.
+[4] In 2002, the last year he worked in the United States, he was employed by ActivCard and, according to his contract (Exhibit A‑1, Tab 1), he was entitled to a maximum annual bonus of 20% of base salary, calculated on the basis of overall company performance and the attainment of his personal performance objectives. The amount of this bonus was established in February or March of the following year.
+[5] The company's year‑end was December 31. The appellant received a bonus of $30,000 U.S. ($42,000 Cdn.) in 2003 in respect of his employment in 2002.
+[6] The appellant filed his tax return for 2003 in Canada as a non-resident. He also filed a tax return in the U.S. but took advantage of the foreign-earned-income exclusion for wages and salaries of U.S. residents who are working abroad, which exclusion, up to a maximum of $80,000, is provided for under U.S. domestic tax law. This, combined with other U.S. tax credits, resulted in his not paying tax in the U.S. on his bonus.
+[7] In Canada, he filed his tax return pursuant to section 115 of the Income Tax Act (“ITA”). He included the bonus in his income but deducted it as foreign-source income. The appellant was reassessed as a resident of Canada and, pursuant to sections 3 and 5 of the ITA, the bonus was included as employment income received in 2003 while he was resident in Canada.
+Residence
+[8] It is not really disputed by the parties that the appellant was ordinarily resident in Canada in 2003. Indeed, he had sufficient ties with Canada (house, family, medicare protection, cars plated in Ontario, Ontario driver’s licence, employment in Ontario, a bank account) to establish that he was resident in Canada in 2003. It is also agreed that, because of his green card, the appellant was a resident of the U.S. as well (see Allchin v. R., 2004 CarswellNat 1535, [2004] 4 C.T.C. 1 (F.C.A.)).
+[9] The appellant argued, however, that under Article IV of the Canada‑U.S. Income Tax Convention (1980) (hereinafter the "Treaty") he was a resident of the U.S. by virtue of the tie-breaker rule. He argued that he did not have a permanent home available to him in Canada, as the house here was purchased with the idea in mind that his stay in Canada would only be temporary (2 or 3 years). Furthermore, he said that most of his economic ties were with the U.S., as almost all of his investments were there.
+[10] Article IV of the Treaty reads as follows:
+(1) For the purposes of this Convention, the term "resident" of a Contracting State means any person that, under the laws of that State, is liable to tax therein by reason of that person’s domicile, residence, citizenship, place of management, place of incorporation or any other criterion of a similar nature . . . . For the purposes of this paragraph, an individual who is not a resident of Canada under this paragraph and who is a United States citizen or an alien admitted to the United States for permanent residence (a "green card" holder) is a resident of the United States only if the individual has a substantial presence, permanent home or habitual abode in the United States, and that individual’s personal and economic relations are closer to the United States than to any third State . . . .
+(2) Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
+(a) he shall be deemed to be a resident of the Contracting State in which he has a permanent home available to him; if he has a permanent home available to him in both States or in neither State, he shall be deemed to be a resident of the Contracting State with which his personal and economic relations are closer (centre of vital interests);
+(b) if the Contracting State in which he has his centre of vital interests cannot be determined, he shall be deemed to be a resident of the Contracting State in which he has an habitual abode;
+(c) if he has an habitual abode in both States or in neither State, he shall be deemed to be a resident of the Contracting State of which he is a citizen; and
+(d) if he is a citizen of both States or of neither of them, the competent authorities of the Contracting States shall settle the question by mutual agreement.
+[11] It is my opinion that under the tie-breaker rule the appellant was resident in Canada since, during his stay in Canada, he had a permanent home available to him here, while he had none in the U.S.
+[12] In so deciding, I rely on the commentary by the OECD (Organisation for Economic Co-operation and Development) Committee on Fiscal Affairs on Article 4 (regarding the definition of resident) of the Model Tax Convention on Income and on Capital, in Model Tax Convention on Income and on Capital, condensed version, dated July 15, 2005, at page 80, paragraphs 11, 12 and 13 (see Respondent’s Book of Authorities Legislation, Tab B):
+11. The Article gives preference to the Contracting State in which the individual has a permanent home available to him. This criterion will frequently be sufficient to solve the conflict, e.g. where the individual has a permanent home in one Contracting State and has only made a stay of some length in the other Contracting State.
+12. Subparagraph a) means, therefore, that in the application of the Convention (that is, where there is a conflict between the laws of the two States) it is considered that the residence is that place where the individual owns or possesses a home; this home must be permanent, that is to say, the individual must have arranged and retained it for his permanent use as opposed to staying at a particular place under such conditions that it is evident that the stay is intended to be of short duration.
+13. As regards the concept of home, it should be observed that any form of home may be taken into account (house or apartment belonging to or rented by the individual, rented furnished room). But the permanence of the home is essential; this means that the individual has arranged to have the dwelling available to him at all times continuously, and not occasionally for the purpose of a stay which, owing to the reasons for it, is necessarily of short duration (travel for pleasure, business travel, educational travel, attending a course at school, etc.).[1]
+[13] Also, in Interpretation Bulletin IT‑221R3, at paragraph 26, there is the following:
+"Tie-breaker rules" are found in paragraph 2 of Article IV of most modern income tax treaties. Usually, these rules rely first on a "permanent home" test to resolve the residence issue. Generally, the "permanent home" test provides that an individual is resident for purposes of the treaty in the country in which the individual has a permanent home available to him or her. A "permanent home" (as that term is used in income tax treaties) may be any kind of dwelling place that the individual retains for his or her permanent (as opposed to occasional) use, whether that dwelling place is rented or purchased or otherwise occupied on a permanent basis.
+[14] To this I would add the following academic support:
+Treaties typically deem a dual resident individual to reside in the country in which he or she has a permanent home. Permanence implies that the individual must have arranged and retained the home for his or her permanent, as opposed to temporary, use or stays of short duration. A “home” includes any form of residential establishment, for example, a house, apartment, or even rented furnished rooms. It is the permanence of the home, rather than its size or nature of ownership or tenancy, that is the measure of attachment to the country.[2]
+[15] Finally, I would also note that this interpretation of “permanent home available” is consistent with the use of residence as the connecting factor for taxation, which is the method of choice in Canada:
+. . . The theory underlying the use of residence is that a person should owe economic allegiance to the country with which he or she is currently most closely connected in economic and social terms. Thus, the obligation to pay tax on the basis of residence derives from the principle that persons who benefit from their economic and social affiliation with a country have an obligation to contribute to its public finances. Thus, an intention to reside indefinitely in the country is not necessarily relevant to “residence”.[3]
+[Emphasis added.]
+[16] With this reasoning in mind, I note that the appellant owned a home in Canada, in which he and his family lived throughout the 2003 taxation year. He did not own, rent or occupy any home, permanent or otherwise, in the U.S. The appellant’s suggestion that Article IV mandates a test of intention cannot in my view be sustained. Accordingly, I believe that the appellant had a "permanent home available" to him only in Canada. Applying the tie‑breaker rules of Article IV of the Treaty, I am of the opinion that he should be deemed to be a Canadian resident.
+Employment bonus
+[17] The appellant’s next argument is that, even if he was a resident of Canada in 2003, the bonus was derived from employment held while he was resident in the U.S. According to his analysis of Article XV of the treaty, the bonus was "remuneration derived by a resident of [the U.S.] in respect of an employment". That being the case, the bonus, he argued "[is] taxable only in [the U.S.] unless the employment [was] exercised in [Canada]".
+[18] The appellant relied on Hewitt v. Minister of National Revenue, 1989 CarswellNat 361, [1989] 2 C.T.C. 2278.
+[19] The Minister asserted that the bonus was received by the appellant while he was resident in Canada and that the meaning of the word "derived" in Article XV of the Treaty is the same as "received", while the appellant maintained that it means "accrued" (Minister of National Revenue v. Hollinger North Shore Exploration Co., 1963 CarswellNat 332, [1963] S.C.R. 131).
+[20] As a Canadian resident in the 2003 taxation year, the appellant is taxed on his worldwide income for that year under subsection 2(1) of the ITA, which reads as follows:
+An income tax shall be paid, as required by this Act, on the taxable income for each taxation year of every person resident in Canada at any time in the year.
+However, Article XV(1) of the Treaty provides:
+Subject to the provisions of Articles XVIII (Pensions and Annuities) and XIX (Government Service), salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
+[Emphasis added.]
+[21] In 2003, the appellant was deemed to be a Canadian resident under the Treaty. Therefore, paraphrasing for the purposes of this appeal, if the appellant derived income from employment, it would be taxable in Canada unless the services were performed in the U.S., in which case it could be taxed there. If it was taxed in the U.S., it would still be taxable in Canada, but a credit could be applied to offset some or all of the U.S. tax paid.[4]
+[22] In Shultz v. R., 1996 CarswellNat 2795, 97 DTC 836, this Court held that the amount received was to be included in income in the year of receipt; it considered for the purposes of Article XV of the Treaty that the appellant in that case derived the remuneration when he was a resident of Canada. That appellant had put forward the argument that we must read Article XV as referring to the time at which the income was earned. In the present case, the appellant submits that the bonus was earned by, or accrued to, him while he was a resident of the U.S. in 2002. In his view, because he was a resident of the U.S. at that time, the bonus should be included only in his U.S. tax return, pursuant to Article XV.
+[23] The appellant argues that understanding and applying Article XV(1) depends upon the meaning of the word "derived". He argues that it should be read as "accruing". He bases this argument on the Supreme Court of Canada’s decision in Hollinger, supra, and in particular at paragraph 12:
+12 I share the view expressed by the learned trial judge that the ordinary meaning of the words "derived from the operation of a mine" is broader than that contended for by appellant, that the word "derived" in this context is broader than "received" and is equivalent to "arising or accruing" (vide C.I.R. v. Kirk, [1900] A.C. 588 at 592) and that the expression is not limited to income arising or accruing from the operation of a mine by a particular taxpayer.
+[Emphasis added.]
+[24] The appellant then suggests that "accruing" should be understood in an accounting context, as in the "accrual basis of accounting". He cites the following unreferenced definition:
+Accrual basis (of accounting)
+The method of recording transactions by which revenues and expenses are reflected in the determination of results for the period in which they are considered to have been earned and incurred, respectively, whether or not such transactions have been settled finally by the receipt or payment of cash or its equivalent. (Compare cash basis (of accounting).[5])
+[25] He also cites Hewitt, supra, arguing that it supports his reading of the word "derived". In his view, in Hewitt, although the Court agreed that employment income is taxable when received, that is so only if the employment itself is taxable in Canada. At paragraph 8 of its decision the Court stated:
+. . . These amounts, however, were not earned and did not accrue when the appellant was resident in Canada. Indeed, they were derived from a source which is exempt from income tax in Canada: the employment outside Canada of a person not resident in Canada . . . .
+[Emphasis added.]
+[26] On the strength of this, the appellant suggests that his bonus was derived from his employment in 2002, when he was a non-resident, because his employer’s obligation to pay that bonus arose, for accounting purposes, in 2002. Accordingly, he says, the fact that the bonus was not received until 2003 does not change its non-taxable nature.
+[27] I believe the appellant’s argument must fail.
+Meaning of "derived"
+[28] The term "derived" is not defined in the Treaty, which expressly provides in Article III(2) an approach to understanding undefined terms:
+As regards the application of the Convention by a Contracting State any term not defined therein shall, unless the context otherwise requires and subject to the provisions of Article XXVI (Mutual Agreement Procedure), have the meaning which it has under the law of that State concerning the taxes to which the Convention applies.
+[29] In Canada, section 3 of the Income Tax Conventions Interpretation Act, R.S., 1985, c. I‑4, provides further direction in this regard:
+Notwithstanding the provisions of a convention or the Act giving the convention the force of law in Canada, it is hereby declared that the law of Canada is that, to the extent that a term in the convention is
+(a) not defined in the convention,
+(b) not fully defined in the convention, or
+(c) to be defined by reference to the laws of Canada,
+that term has, except to the extent that the context otherwise requires, the meaning it has for the purposes of the Income Tax Act, as amended from time to time, and not the meaning it had for the purposes of the Income Tax Act on the date the convention was entered into or given the force of law in Canada if, after that date, its meaning for the purposes of the Income Tax Act has changed.
+[30] In my view, the appellant’s suggestion that, in the context of Article XV(1) of the Treaty, the word "derived" should be interpreted as referring to the "accrual basis of accounting", is not in line with the generally accepted approach to tax treaty interpretation, namely, that tax treaties are to be interpreted liberally.
+[31] The Federal Court restated this principle in Gladden Estate v. R., 1985 CarswellNat 184, [1985] 1 C.T.C. 163 (F.C.T.D.), at paragraph 14:
+Contrary to an ordinary taxing statute a tax treaty or convention must be given a liberal interpretation with a view to implementing the true intentions of the parties. A literal or legalistic interpretation must be avoided when the basic object of the treaty might be defeated or frustrated in so far as the particular item under consideration is concerned.
+[32] First of all, the Supreme Court of Canada expressly stated in Hollinger that in the context of subsection 83(5) of the ITA, a provision relating to income derived from the operation of a mine, "derived" meant "arising or accruing". In my view, by specifying that this meaning applied in that context, the Supreme Court was expressly limiting its application to that particular subsection and to the particular circumstances of that appeal.
+[33] However, even if the Supreme Court did intend its interpretation of the word "derived" to have wide-reaching application, I still believe that the appellant’s argument should fail because he is attempting to stretch the meaning of "accruing" beyond what is reasonable. His argument suggests that we should interpret as a technical accounting term, one which has specific legal consequences, a word not defined in the Treaty. Such a suggestion runs completely contrary to the general approach to treaty interpretation, which seeks to avoid assigning overly literal or legalistic meanings to undefined terms.
+[34] Perhaps most importantly, I believe the appellant’s argument is flawed because it suggests defining the word "derived" without regard for the context in which it is found by focusing solely on the Supreme Court’s use of the word "accruing" and completely ignoring the word "arising". In my view, in order to understand the meaning that court assigned to "derived" in Hollinger, "accruing" must be interpreted in the full context in which it was used; specifically, it must be interpreted together with the word "arising".
+[35] Let us consider, then, the following dictionary definitions of "arise", "accrue" and "derive":
+arise
+To originate; to stem (from); to result (from); to emerge in one’s consciousness; to come to one’s attention[6];
+begin to exist; originate; result; come to one’s notice; emerge; rise, esp. from a seated position or from sleep.[7]
+accrue
+To come to one as a gain, an addition, or an increment; to increase, accumulate, or come about as a result of growth[8];
+To come into existence as an enforceable claim or right; to arise; to accumulate periodically[9];
+come as a natural increase or advantage, esp. financial; accumulate.[10]
+derive
+To receive from a specified source or origin[11];
+get, obtain, or form; arise from, originate in, be descended or obtained from; gather or deduce; trace the descent of (a person); show the origin of (a thing); show or state the origin or formation of (a word etc.); obtain (a funtion) by differentiation[12].
+[36] In my view, the common thread in the definitions of these three terms is the idea of "source". In fact, reading Hollinger as a whole, I believe the Supreme Court was clearly defining "derived" with reference to the source of the income rather than to the method of accounting for the income. The Supreme Court put it this way at paragraphs 11‑13:
+11 Shortly stated, appellant’s position is (1) that the expression “income derived from the operation of a mine” in Section 83(5) refers to income from a particular source namely the operation of mine (2) that the operation of a mine being a business, the income exempted from taxation is the profit from such business received by the particular corporation claiming the exemption, and (3) that the source to respondent of the income in issue here was merely the property right for which royalty was payable and not the operation of a mine.
+12 I share the view expressed by the learned trial judge that the ordinary meaning of the words “derived from the operation of a mine” is broader than that contended for by appellant, that the word “derived” in this context is broader than “received” and is equivalent to “arising or accruing” (vide C.I.R. v. Kirk, [1900] A.C. 588 at 592) and that the expression is not limited to income arising or accruing from the operation of a mine by a particular taxpayer.
+13 The mine in question was operated as a unit by respondent and Iron Ore Company of Canada as a joint venture for their joint benefit, and the ore in place represented a capital investment of both companies. A return on that capital investment could be realized only through the operation of the mine, and in the circumstances here, in my opinion, such operation was the source of respondent’s income within the meaning of Section 83(5), whether that income came from the extraction and sale of its own ore or from the royalty paid to it with respect to the reminder of the ore belonging to the Iron Ore Company of Canada.
+[Emphasis added.]
+[37] Accordingly, I do not believe that "derived" should be interpreted as referring to the "accrual basis of accounting". Rather, I would suggest that it should be understood to mean something akin to "having its source". If that is the case, Article XV(1) should be read in such a way that, if the appellant had income from an employment source, it would be taxable only in Canada, unless the services were performed in the U.S., in which case it could also be taxed there. Thus, the appellant’s suggestion that the bonus he received in 2003 was non-taxable income that accrued in 2002 is without merit.
+Tax treatment of the employment bonus
+[38] The appellant argues lastly that even if he is not right in his other arguments, the appropriate authority in the present circumstances is nonetheless Hewitt. He argues that on the strength of that case his bonus was not taxable because it related to employment exercised before he became a resident of Canada.
+[39] The respondent, on the other hand, suggests that the appropriate authorities are Tedmon,[13] Shultz, [14] and Kuwalek, [15] and that the employment bonus was taxable when it was received.
+[40] In my view, the respondent’s argument is to be preferred.
+[41] I begin with subsection 5(1) of the Act, which provides that employment income, including employment bonuses, is taxable when received:
+Subject to this Part, a taxpayer’s income for a taxation year from an office or employment is the salary, wages and other remuneration, including gratuities, received by the taxpayer in the year.
+[Emphasis added.]
+[42] In Nowegijick[16], the Supreme Court of Canada further explained the operation of subsection 5(1), stating at paragraph 19 that:
+. . . It defines the taxpayer’s income from employment as the salary, wages and other remuneration received. The liability is at the point of receipt. . . .
+[Emphasis added.]
+[43] The appellant cites Hewitt, a case that involved a taxpayer who performed employment services when he was a non-resident of Canada, but did not receive his salary until after he became a resident. This Court based its decision on the fact that the income, when earned, was not taxable in Canada. At paragraph 8 the Court states:
+. . . These amounts, however, were not earned and did not accrue when the appellant was resident in Canada. Indeed, they were derived from a source which is exempt from income tax in Canada: the employment outside Canada of a person not resident in Canada. The fact that those amounts were received soon after the appellant’s return to Canada and the resumption of his residence in Canada does not disconnect those amounts with their tax exempt source (i.e.: the appellant’s employment outside Canada when he did not reside in Canada). . . .
+[44] While the Court’s reasoning in Hewitt may have produced an equitable result in the circumstances, in my view, it did not take into account either the statute or the Supreme Court of Canada decision in Nowegijick. I believe the appellant's salary from his employment should have been considered taxable income in Canada. I would suggest that subsequent decisions, in particular those cited by the respondent, endorse an approach that is more in line with both the statute and Nowegijick.
+[45] In Tedmon, the taxpayer had been given stock options while he was a U.S. resident, but he did not exercise the options until after he became a Canadian resident. Citing subsection 5(1) of the Act and following Nowegijick, this Court held that the income was taxable at the time it was received, not when the stock options were granted. In coming to this decision, the Court also distinguished, and arguably attempted to restrict the application of, Hewitt on the basis that the taxpayer in Hewitt had already exercised all his rights and entitlements to the income prior to becoming a resident of Canada (at paragraphs 6 and 7):
+6 The appellant argues this does not apply to a Canadian resident taxpayer where the agreement was entered into by him while he was a non-resident with a non-resident employer and cites Henry Russell Hewitt v. Minister of National Revenue, [1989] 2 C.T.C. 2278, 89 DTC 451, as the authority for this proposition. In that case, Mogan, T.C.J., states at page 2279 (D.T.C. 452) that the taxpayer, Hewitt, was not liable in respect to income which was not earned or did not accrue when the appellant was a resident in Canada. In fact that income accrued on May 25, 1984, while Mr. Hewitt was still in Libya when: "... he signed all the documents connected with the amicable termination of his employment by Oasis Oil and requested a single cash payment out…".
+7 Thus, Mr. Hewitt exercised all his rights and entitlement to income and receipt thereof while a non-resident of Canada. He also directed where the cheque was to go at that time.
+[46] In Shultz, the taxpayer received, after becoming a Canadian resident, a bonus adjustment in connection with his previous employment in the U.S. In coming to a decision, the Court considered both Tedmon and Hewitt. In the end, the Court preferred the reasoning in Tedmon, which recognized that subsection 5(1) of the Act and Nowegijick should be applied, and expressly declined to lend its support to the reasoning in Hewitt (at paragraphs 27 to 29):
+27 Both counsel referred the Court to the case of Tedmon v. Minister of National Revenue (1991), 91 DTC 962 (T.C.C.). The Court held that the liability for payment of tax under subsection 5(1) and paragraph 7(1)(a) is at the point of receipt of the benefit. The Court relied on a statement to that effect in Nowegijick v. R. (1983), 83 DTC 5041 (S.C.C.) at page 5043. I accept this reasoning. Subsection 5(1) states that income from employment is taxed in the year it is received. Section 2 does not exclude sources of income outside of Canada. Subsection 3(a) sets out how the income of a Canadian resident is determined. Section 3 includes income from employment which is the source of the bonus adjustment. Section 5 defines the taxpayer's income from employment as salary, wages and other remuneration which, in my opinion, includes the bonus adjustment at issue.
+28 In the Nowegijick (supra) case the Supreme Court of Canada fixes the liability under subsection 5(1) as at the point of receipt. The Appellant received the payment while a resident of Canada. Section 6 states that there be included in income from an office or employment benefits of any kind. The bonus payment received by the Appellant was a benefit in respect of his office or employment with Tenneco. The words "in respect of" contained in section 6 are to be given the widest possible scope as stated in Nowegijick.
+29 I find nothing in sections 2, 3, 5 and 6 of the Act to permit the conclusion that the bonus payment to the Appellant is not taxable because the source was the Appellant's employment outside Canada at the time he was a non-resident of Canada. While the decision in Hewitt may well be an equitable one it is not supported by the legislation which I am bound to follow. The Appellant clearly received an economic benefit that was connected to his employment. This brings the bonus payment within the terms of paragraph 6(1)(a).
+[47] Lastly and most recently, in Kuwalek the taxpayer received an employment bonus after he became a Canadian resident. There as well the Court appears to have considered both Hewitt and Tedmon and to have once again preferred the reasoning in Tedmon (at paragraph 9):
+The source of the Appellant's income as of October 2003 was his employment. While I understand that the Appellant feels that it would be more sensible to tax employment income in the year the work was done, that is not what the Act provides. Pursuant to subsection 5(1) and paragraph 6(1)(a), employment income is taxable in the taxation year in which it is received. The Appellant does not dispute that he received the $15,000 bonus in 2004; accordingly, it was properly included in the Appellant's employment income for that year.
+[48] In my view, the approach in Hewitt should not be followed. Rather, I conclude that an employment bonus is taxable at the time of receipt, regardless of when or where the employment to which it relates was exercised.
+[49] In the end, the essential point is this: employment income earned by a Canadian resident is taxable at the time of receipt. Article XV assigns jurisdiction to tax that income to Canada. If the employment was exercised in the U.S., the U.S. also has jurisdiction to tax, should it choose to do so. If the income is taxed in both states, in accordance with the agreement reflected in Article XXIV(2) and by operation of section 126 of the ITA Canada provides a credit to offset the tax paid in the U.S.
+[50] Article XXIV(2) reads as follows:
+In the case of Canada, subject to the provisions of paragraphs 4, 5 and 6, double taxation shall be avoided as follows,
+(a) subject to the provisions of the law of Canada regarding the deduction from tax payable in Canada of tax paid in a territory outside Canada and to any subsequent modification of those provisions (which shall not affect the general principle hereof)
+(i) income tax paid or accrued to the United States on profits, income or gains arising in the United States, and
+(ii) in the case of an individual, any social security taxes paid to the United States (other than taxes relating to unemployment insurance benefits) by the individual on such profits, income or gains
+shall be deducted from any Canadian tax payable in respect of such profits, income or gains . . ..
+[51] The agreement reflected in this Article is carried out in Canada through section 126 of the ITA, the relevant portion of which reads as follows:
+A taxpayer who was resident in Canada at any time in a taxation year may deduct from the tax for the year otherwise payable under this Part by the taxpayer an amount equal to
+(a) such part of any non-business-income tax paid by the taxpayer for the year to the government of a country other than Canada . . . as the taxpayer may claim, not exceeding . . .
+[52] Applying now that conclusion to the facts of this case, Mr. Garcia, a resident of Canada, received employment income in 2003 in respect of employment he exercised in the U.S. Article XV of the Treaty provides that that income is to be taxed in Canada in 2003, but that it may also be taxed in the U.S. Accordingly, he was correctly taxed on that income in Canada and, if he had paid tax on it in the U.S., he could have claimed a tax credit under section 126 of the ITA.[17]
+Conclusion
+[53] The appellant is both a Canadian and a U.S. resident. However, applying the tie‑breaker rules in Article IV of the Treaty, I conclude that he is deemed to be a Canadian resident by virtue of the fact that he has a permanent home available to him in Canada, and not in the U.S.
+[54] The appellant’s bonus was derived from an employment source. Employment income is taxable when received. As it was received when the appellant was a Canadian resident, I am of the opinion that the employment bonus is taxable in Canada even though it was derived from employment that he exercised in the U.S.
+[55] The appeal is dismissed.
+Signed at Ottawa, Canada, this 28th day of September 2007.
+"Lucie Lamarre"
+Lamarre J.
+CITATION: 2007TCC548
+COURT FILE NO.: 2006-2458(IT)I
+STYLE OF CAUSE: HERVE L. GARCIA v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: May 31, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice L. Lamarre
+DATE OF JUDGMENT: September 28, 2007
+APPEARANCES:
+Agent for the Appellant:
+Jack R. Bowerman
+Counsel for the Respondent:
+Frédéric Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This commentary was cited with approval in Allchin v. R., supra.
+[2] Vern Krishna, The Fundamentals of Canadian Income Tax, 7th ed. (Toronto: Carswell, 2002) at pages 77‑78.
+[3] Ibid., at page 70.
+[4] Section 126 of the ITA.
+[5] Exhibit A‑1, Tab 9, page 5.
+[6] Black’s Law Dictionary, 7th ed., s.v. "arise".
+[7] The Canadian Oxford Dictionary, s.v. "arise".
+[8] Canadian Dictionary of the English Language, s.v. "accrue".
+[9] Black’s Law Dictionary, 7th ed., s.v. "accrue".
+[10] The Canadian Oxford Dictionary, s.v. "accrue".
+[11] Black’s Law Dictionary, 6th ed., s.v. "derive".
+[12] The Canadian Oxford Dictionary, s.v. "derive".
+[13] Tedmon v.M.N.R., [1991] 2 C.T.C. 2128 (T.C.C.).
+[14] Shultz v. R., 1996 CarswellNat 2795 , 97 DTC 836 (T.C.C.).
+[15] Kuwalek v. R., [2007] 2 C.T.C. 2241 (T.C.C.).
+[16] Nowegijick v. R., 1983 CarswellNat 123, [1983] 1 S.C.R. 29 (S.C.C.).
+[17] As mentioned earlier in these Reasons for Judgment, it is my understanding that the appellant did not have to pay tax on this income in the U.S.

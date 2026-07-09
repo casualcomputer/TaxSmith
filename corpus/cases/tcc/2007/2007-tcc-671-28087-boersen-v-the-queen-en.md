@@ -1,0 +1,110 @@
+---
+title: "Boersen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28087/index.do"
+last_modified: "2007-10-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 671"
+citation2: ""
+neutral_citation: "2007 TCC 671"
+decision_date: "2007-10-12"
+language: "en"
+item_id: "28087"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1672
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:37:58.289000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f708476b4497f9f0c889fa8377773f93c4feb90191e75dc1da43f78862a15060"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boersen v. The Queen
+
+- Citation: 2007 TCC 671
+- Decision date: 2007-10-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1672, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boersen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-12
+Neutral citation
+2007 TCC 671
+File numbers
+2006-1382(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2007TCC671
+Date: 20071101
+Docket: 2006-1382(IT)I
+BETWEEN:
+JIM BOERSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on October 12, 2007, in London, Ontario)
+Boyle, J.
+[1] These are my reasons delivered orally in London, Ontario in the case of the Appellant Mr. Boersen’s 2003 taxation year.
+[2] The facts are as follows: The taxpayer made loans totalling more than $61,000 to a company owned by his uncle. The loans were at 12 percent interest. The loans were evidenced in writing. The loans went into default. In 1996, the taxpayer sued the debtor company and his uncle for approximately $68,000. At that time, under any allocation of the payments to date, the taxpayer creditor was owed more than $11,500 of principal.
+[3] In 2002 I believe, in any event, before 2003, the taxpayer and the defendants entered into a written settlement agreement. Under its terms, the defendants were to pay $10,000 in instalments in full settlement of the debt. In fact, the taxpayer creditor received payments totalling $11,500 in respect of the settlement for reasons that are not clear.
+[4] The settlement agreement is silent as to the allocation of the settlement payments as between outstanding principal and interest. The debtor company issued a T-5 to the taxpayer indicating the $11,500 was interest. Presumably, the debtor company deducted the amount as interest for tax purposes.
+[5] The taxpayer testified that the only payments he received after starting the lawsuit were the $11,500 and that he, the taxpayer, treated it as a repayment of principal outstanding. This is evidenced by his lawyer’s letter to the defendant’s lawyer promptly upon receipt of the T-5 in question.
+[6] The CRA reassessed the taxpayer based on the T-5 having been issued to him. The Crown assumed in its Reply that prior to the $11,500 payment in question, the debtor company, "had made full restitution of loaned amount", which I took to mean the principal advances of approximately $61,000 had also been repaid. The Crown led no evidence on this or any other point.
+[7] The taxpayer had testified clearly that no such repayments had been made. The Crown did not challenge that in cross-examination. I note that nothing in the agreed book of documents, which included a CRA T-2020 in respect of a CRA telephone call with the debtor, suggests CRA had anything evidencing a principal repayment beyond the debtor saying he had it filed away somewhere.
+[8] Neither side called the debtor. Neither side introduced any cheques in evidence. The taxpayer did enter his accounting records in respect of the advances and repayments in respect of the loan which I accept for what they are. He also introduced his accounting records with respect to payments from the debtor for unrelated services rendered that were not related to the loans and advances.
+[9] The Crown’s assumption that the principal had separately been repaid has clearly been demolished in this case. Since the facts are that the taxpayer was owed more than $11,500 of principal and probably more than $11,500 of interest when the settlement amount of $11,500 was received in 2003, the question for the Court is whether it is to be allocated to the outstanding interest as per CRA or to a recovery of principal as per the taxpayer.
+[10] I frankly cannot believe we are here today with the present state of affairs. If the principal had been repaid, CRA should have had some evidence of that or been able to cast some doubt on the taxpayer’s evidence that it had not been repaid. If the question is merely does the $11,500 get allocated to outstanding principal or outstanding interest, there is clear Canadian debtor/creditor law which applies. Importantly, it would seem irrelevant to argue about this in any event, since any additional interest income should be offset by a corresponding income loss on the loan made for interest-bearing purposes.
+[11] Expressed simply, the payment is to be allocated in accordance with the agreement under which it is made, if that agreement specifies an allocation. The settlement agreement does not make any allocation. If the agreement is silent, the debtor payor has the right as between himself and the creditor to allocate a payment as between two or more debts or as between principal and interest. There is no evidence that the debtor made any such allocation to the creditor taxpayer upon making the payments. That the debtor may subsequently have allocated it to interest internally and with CRA for its tax purposes or any other third party is not sufficient to be an allocation as between the debtor and the creditor. Absent allocation by the debtor or the agreement, the creditor upon receiving it has the right to make the allocation. In this case Mr. Boersen did that, although it is not clear he ever communicated that to the debtor.
+[12] Further, the taxpayer’s allocation to a recovery of principal before accruing a profit from the loan is in accordance with normal commercial practice and common sense. That is, lenders who are losing money on their loans due to default in principal repayment would be unlikely to persuade anybody they made any money in the form of interest on the loans. As already stated, the Income Tax Act should make this tax neutral in any event.
+[13] For these reasons, I am allowing the taxpayer’s appeal and referring the reassessment of the taxpayer’s 2003 year back to the Minister for reconsideration and reassessment on the basis that the $11,500 in question was a non-taxable repayment of principal and was not interest.
+[14] In the circumstances, the taxpayer is entitled to costs.
+Signed at Ottawa, Canada, this 1st day of November 2007.
+"Patrick Boyle"
+Boyle, J.
+CITATION: 2007TCC671
+COURT FILE NO.: 2006-1382(IT)I
+STYLE OF CAUSE: JIM BOERSEN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: October 12, 2007
+REASONS FOR JUDGEMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: November 1, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Gerald K. Culliton
+Counsel for the Respondent:
+Andrew Miller
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gerald K. Culliton
+Firm: Mountain Mitchell LLP
+Stratford, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

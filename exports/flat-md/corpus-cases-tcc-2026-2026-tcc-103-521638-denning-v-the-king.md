@@ -1,0 +1,192 @@
+---
+title: "Denning v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521638/index.do"
+last_modified: "2026-05-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 103"
+citation2: ""
+neutral_citation: "2026 TCC 103"
+decision_date: "2026-05-25"
+language: "en"
+item_id: "521638"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5562
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-05-30T09:06:05.819000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "72f3fa8f3d543897f2144f29bfc3053f609c42bd0cb88adfb072586d4266660b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Denning v. The King
+
+- Citation: 2026 TCC 103
+- Decision date: 2026-05-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5562, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Denning v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-05-25
+Neutral citation
+2026 TCC 103
+File numbers
+2025-894(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2025-894(IT)G
+BETWEEN:
+GORDON DENNING,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion determined by Written Submissions
+Before: The Honourable Justice David E. Graham
+Participants:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Justine Allaire-Rondeau
+Anne-Elizabeth Morin
+ORDER
+THE COURT ORDERS THAT:
+The Fresh As Amended Notice of Appeal is struck for disclosing no reasonable grounds for appeal.
+The Appellant shall not have leave to amend paragraphs 12, 15, 19-23, 30-37, 40-49,52-55, 59, 61-66, 69-71, 72-79, 110-117, 134-140, 142-150, 207-210, 233-235, 237, 241, 242, 244-246, 250, 251, 256, 257, 270, 272, B70-B73, B174, B175 and B185 (this paragraph number system is explained in the attached Reasons for Order).
+The Appellant shall file a Further Fresh As Amended Notice of Appeal on or before June 26, 2026 in compliance with sections 47 and 48 of the Tax Court of Canada Rules (General Procedure).
+The Further Fresh As Amended Notice of Appeal shall:
+(a)be properly formatted and use Arabic paragraph numbers;
+(b)not refer to requests for documents or information that the Appellant has made to the Canada Revenue Agency, the Department of Justice or Access to Information and Privacy;
+(c)not refer to the Appellant’s need for further disclosure or raise any issue concerning any lack of disclosure;
+(d)not refer to the Appellant’s interactions with the CRA during the audit or objection process;
+(e)not refer to actions take by CRA Collections;
+(f)not refer to the Appellant’s application for taxpayer relief;
+(g)not refer to settlement offers made or received by the Appellant;
+(h)not insert excerpts from documents;
+(i)not insert website URLs; and
+(j)not refer to the Appellant’s participation in the Global Learning and Gifting Initiative tax scheme.
+For certainty, any restriction on the content of the Fresh As Amended Notice of Appeal set out in my Order dated September 24, 2025 that is not already reproduced above shall apply equally to the Further Fresh As Amended Notice of Appeal.
+If the Appellant fails to file a Further Fresh As Amended Notice of Appeal in accordance with paragraph 3 or fails to comply with paragraphs 4 or 5, I will dismiss the appeals for want of prosecution without further hearing.
+The time in which the Respondent must file and serve a Reply to the Further Fresh As Amended Notice of Appeal is extended to August 28, 2026.
+The Appellant shall pay costs of $3,000 to the Respondent in respect of this motion on or before June 26, 2026.
+Signed this 25th day of May 2026.
+“David E. Graham”
+Graham J.
+Citation: 2026 TCC 103
+Date: 20260525
+Docket: 2025-894(IT)G
+BETWEEN:
+GORDON DENNING,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] The Respondent has brought a motion to strike the Appellant’s Fresh As Amended Notice of Appeal with leave to amend.
+[2] This is the second time that the Respondent has been forced to bring such a motion. I previously explained to the Appellant in detail what the problems were with his Notice of Appeal. I told him what he needed to do to rectify them. In particular, I explained the Court’s powers and jurisdiction and how the Appellant could use the discovery process to gain the additional information that he believed he needed to pursue his appeals.
+[3] I struck the Notice of Appeal with leave to amend. By Order dated September 24, 2025 (the “Previous Order”), I set out a list of things that the Appellant was not to include in the Fresh As Amended Notice of Appeal. The Appellant blatantly ignored my instructions.
+[4] The Appellant is not opposing the Respondent’s motion to strike. He has simply asked for additional time to prepare amended pleadings. In addition, he has asked me to relax some of the restrictions that I previously placed on the content of the Fresh As Amended Notice of Appeal – restrictions that he ignored anyway. The Appellant apparently mistakes this process for some sort of ongoing negotiation. It is not.
+[5] I am going to give the Appellant a final chance to amend his pleadings. The Appellant may file a Further Fresh As Amended Notice of Appeal. If he fails to comply with this Order, I will dismiss his appeals for want of prosecution without further hearing.
+[6] Given that the Appellant is not disputing the motion, I do not need to say anything further. However, I think it will be helpful to the Appellant if I specifically identify which paragraphs of the Fresh As Amended Notice of Appeal are problematic and why. Before doing so, I will quickly address a number of formatting problems.
+A. FORMAT [7] The Appellant has formatted the Fresh As Amended Notice of Appeal in a bizarre manner. It is hard to interpret the formatting as anything other than an attempt to make working with the pleading difficult for both the Respondent and the Court:
+(a)The right third of each page is made up of the type of grey shaded area that appears if one is using the track changes or comments features in Microsoft Word. The left third of each page is just blank white space. All of the text is jammed into the middle third.
+(b)The size and font of the text changes for no apparent reason. Certain sections of text are seemingly randomly shaded or highlighted.
+(c)Eleven pages contain nothing more than the repeated phrase “Recent Transactions”. This is not a new problem. The same problem was present in the Notice of Appeal.
+(d)The Notice of Appeal did not have any paragraph numbers. I specifically told the Appellant to use numbered paragraphs in his Fresh as Amended Notice of Appeal. The Appellant inexplicably used Roman numerals instead of standard Arabic numbers (i.e. 1, 2, 3…). The resulting numbering is incredibly tedious to follow. There is a difference between reading and deciphering. I understand that cxlix means 149 but it is not intuitive.
+(e)If that were not hard enough, the numbering skips and restarts. Between pages 29 and 30, the numbering jumps from paragraph cli to paragraph cciv. Then, on page 36, the numbering inexplicably restarts at paragraph i. On page 43, the numbering skips from paragraph xvii to lxx.
+[8] Since it is impractical to use the Appellant’s actual numbering system to refer to paragraphs in these reasons, I will refer to the paragraphs from pages 3 to 35 by their paragraph number (in Arabic numbers) and to the paragraphs from pages 36 to 63 by the letter “B” followed by the paragraph number (in Arabic numbers).
+B. UNDERLYING REASSESSMENTS [9] The Appellant appealed reassessments of his 2006 and 2009 tax years.
+[10] The 2006 reassessment denies purported charitable donations of approximately $294,000 claimed as part of the Global Learning and Gifting Initiative donation program (“GLGI”) and Canadian development expenses (“CDE”) of $240,000 in respect of the Royal Crown Gold Reserve Inc. program (“Royal Crown Gold”).
+[11] The 2009 reassessment includes $24,000 in alleged unreported income from Royal Crown Gold. It appears that Royal Crown Gold issued a T5 to the Appellant in that amount. My understanding is that the Appellant believes it was issued in error.
+C. GLGI [12] By order dated May 21, 2026, I struck the GLGI portion of the appeal of the Appellant’s 2006 tax year for abuse of process without leave to amend. As a result, the following paragraphs have already been struck: 80-109, 118-133, 211-230, 236, 238-240, 259, B3-B16, B74-B173 and B179.
+[13] The Appellant shall not refer to GLGI in the Further Fresh As Amended Notice of Appeal.
+D. ROYAL CROWN GOLD Acceptable Paragraphs [14] The following paragraphs of the Fresh As Amended Notice of Appeal relating to Royal Crown Gold are acceptable: 5-9, 11, 13, 14, 16-18, 24-26, 28, 29, 39, 57, 58, 60, 141, 231, 232, 243 and B180-B184.
+No Reasonable Grounds For Appeal [15] The Appellant states, “I do not agree with the Respondent’s assertion that there are no reasonable grounds for appeal. I believe that decision lies with The Court.”
+[16] The Respondent is not asserting that there are no reasonable grounds for appeal. The Respondent is asserting that the Fresh As Amended Notice of Appeal does not disclose any reasonable grounds for appeal. I agree. The Appellant needs to clearly set out the facts, issues and reasons that he intends to rely upon.
+[17] My understanding is that the Appellant wishes to appeal both the denial of $240,000 of CDE in 2006 and the $24,000 in alleged unreported income in 2009, yet the Fresh As Amended Notice of Appeal contains almost no pleadings in respect of the CDE. Virtually everything is focused on the $24,000.
+[18] The Appellant needs to clearly set out the facts and reasons that support his assertion that he was entitled to claim the CDE. A good starting point would be to look at why the CRA denied his claim. The Notice of Confirmation that the Appellant received from the CRA should set out the reasons why they say he is not entitled to CDE. If the Appellant knows facts that would show the CRA was wrong or believes they have made errors of law, he should explain his position. If the Appellant does not have a copy of the Notice of Confirmation, I am sure that counsel for the Respondent will provide one to him.
+[19] My understanding is that the CRA’s position rests, at least in part, on the failure of Royal Crown Gold to obtain a tax shelter identification number. When faced with this argument, taxpayers typically take one of two approaches: they challenge whether a tax shelter identification number was required or they focus on their personal knowledge of the need for a tax shelter identification number. The first approach may work. In a situation, like the Appellant’s, where the taxpayer has neither been assessed gross negligence penalties nor reassessed beyond the normal reassessment period, the second approach is not a valid ground for appeal.
+[20] I raise this because certain aspects of the Fresh As Amended Notice of Appeal suggest that the Appellant intends to argue that he was not aware of the need for a tax shelter identification number, that he believed that one had been obtained, that he relied on a legal opinion that indicated that one was not needed, that he relied on someone else (possibly the CRA) to tell him that one was missing, or some similar argument. It is plain and obvious that these arguments will not succeed for a taxpayer in the Appellant’s situation. They are not a reasonable ground for appeal.
+Disclosure of Documents [21] The Appellant is very focused on obtaining documents from the CRA. I previously explained to him that the Court’s discovery process would allow him to do that. I further explained that requests that he had previously made to the CRA for disclosure were irrelevant and should not form part of his pleadings. The Appellant ignored my instructions.
+[22] Paragraph 5(b) of the Previous Order specifically directed the Appellant not to refer to Access to Information and Privacy requests that he had made. The Appellant’s suggestion that he complied with my Previous Order because he did not use the word “ATIP” in the Fresh As Amended Notice of Appeal strongly suggests he sees this as some sort of game.
+[23] Paragraphs 42-45, 47-49, 134-140, 207-210, 246, 272, B174, B175 and B185 continue to refer to the Appellant’s disclosure requests or his desire to obtain further disclosure. They are struck without leave to amend.
+[24] If, as a result of the discovery process, the Appellant realizes that he needs to amend his Further Fresh As Amended Notice of Appeal to plead new facts, issues or reasons, section 54 of the Rules will allow him to do so with the Respondent’s consent or with leave of the Court.
+[25] I want to emphasize, however, that neither the discovery process nor section 54 is an opportunity for the Appellant to revisit issues that I have struck from his pleadings. The Appellant can use the discovery process to request information and documents, but the conduct of the CRA (audit, appeals, collections, settlement offers, taxpayer relief, etc.), his interactions with the CRA, information or documents relating to tax years other than the years in issue and the Appellant’s previous requests for disclosure will all continue to be irrelevant.
+Collections Action [26] Paragraph 5(a) of the Previous Order specifically directed the Appellant not to refer to actions taken by CRA Collections as those actions are irrelevant. He ignored my order. Paragraphs 46, 143-150 and 235 inappropriately continue to refer to those actions and are struck without leave to amend.
+Settlement Offers [27] Paragraph 5(e) of the Previous Order specifically directed that the Appellant not refer to any settlement offers made or received during the audit or objection process. Paragraphs 40 and 41 nonetheless refer to settlement offers and are accordingly struck without leave to amend.
+Treatment of Other Taxpayers [28] Paragraph 5(f) of the Previous Order specifically directed that the Appellant not refer to how the CRA had treated other taxpayers. The Appellant nonetheless dedicated seven pages of the Fresh As Amended Notice of Appeal to this subject. Those paragraphs have already been struck as they relate to GLGI but I emphasize that such comparisons are not to be part of the Further Fresh As Amended Notice of Appeal.
+CRA Conduct [29] As I explained to the Appellant in the case management call, his interactions with the CRA and the CRA’s conduct are irrelevant to the questions of whether he was entitled to the CDE that he claimed and whether the $24,000 shown on the T5 was unreported income.
+[30] Based on the foregoing, paragraphs 12, 15, 19-23, 30-37, 61-66, 233, 234 and B70-B73 are struck without leave to amend.
+[31] Paragraph 27 would be acceptable if it were modified to read “It appears Mr. Winnick lost his CPA designation as a result of discipline proceedings.” The balance of the paragraph supports the Appellant’s arguments about CRA’s conduct and is struck without leave to amend.
+Taxpayer Relief [32] Paragraphs 142 and 237 deal with the Appellant’s application for taxpayer relief. I have previously explained to the Appellant that this Court has no jurisdiction over taxpayer relief. Those paragraphs and the reference to subsection 220(3.1) in paragraph 269 are struck without leave to amend.
+Other Legal Proceedings [33] Paragraph 69 refers to a class action lawsuit launched against Royal Crown Gold’s promoters and tax lawyers. The existence of this lawsuit is irrelevant to the appeal. The paragraph is struck without leave to amend. If the Appellant thinks that findings of fact in that lawsuit would help him to prove that he was entitled to claim CDE or that he did not receive the $24,000 that the Minister alleges he received, he is welcome to plead those facts.
+[34] Paragraphs 70, 71 and 241 appear to refer to an application under section 174 of the Income Tax Act relating to Royal Crown Gold. That application was considered and rejected by this Court in Boguski v. The Queen (2018 TCC 236). The decision was upheld on appeal (2021 FCA 118). Those decisions deal with procedural matters. They say nothing about the merits of the Royal Crown Gold scheme and are irrelevant to this appeal. The paragraphs are struck without leave to amend.
+CRA Policy [35] Paragraph 242 deals with CRA policy. That policy is irrelevant to the question of whether the Appellant properly claimed CDE or whether he had to report the $24,000. The paragraph is struck without leave to amend.
+Statutory Provisions Relied On [36] The Appellant references a number of clearly irrelevant statutory provisions and related items. Paragraphs 250, 251, 256, 257, and 270 are struck without leave to amend.
+E. MISCELLANEOUS DRAFTING PROBLEMS Repetition [37] Paragraphs 52-55, 59, 72-79 and 110-117 are duplicates of other paragraphs. They are struck without leave to amend.
+[38] Paragraph 56 largely repeats paragraph 7. If rephrased to read “Royal Crown Gold Reserve Inc. was incorporated on May 3, 2004.” it would be acceptable.
+[39] A portion of paragraph 68 repeats paragraph 69. The repetitive portion should be removed. The balance of paragraph 68 is acceptable.
+Notices of Objection [40] Paragraphs 38 and 67 both assert, in different ways, that the Appellant objected to his reassessments. However, they provide unnecessary detail. Both are struck with leave to replace them with the simple statement that “The Appellant filed timely objections with the CRA.”
+Excerpts From Documents [41] I previously told the Appellant not to include excerpts from documents in his Fresh As Amended Notice of Appeal. He did not follow my instructions. While the excerpts in the Fresh As Amended Notice of Appeal have been struck for other reasons, my instruction remains.
+Rhetorical Questions [42] Paragraphs 244 and 245 inappropriately raise rhetorical questions rather than issues. They are struck without leave to amend.
+Website URLs [43] Some paragraphs inappropriately contain website URLs. Those paragraphs have been struck for other reasons. However, the Appellant should not include website URLs in the Further Fresh As Amended Notice of Appeal.
+F. COSTS [44] The Respondent has requested costs. The Appellant did not make any submissions on costs.
+[45] This second motion to strike was entirely unnecessary. I explained to the Appellant what he needed to do. He blatantly ignored my oral instructions and the Previous Order. The Respondent should not bear the cost of the Appellant’s intransigence.
+[46] The Respondent is awarded costs of $3,000 on this motion. The Appellant shall pay those costs to the Respondent on or before June 26, 2026.
+Signed this 25th day of May 2026.
+“David E. Graham”
+Graham J.
+CITATION:
+2026 TCC 103
+COURT FILE NO.:
+2025-894(IT)G
+STYLE OF CAUSE:
+GORDON DENNING v. HIS MAJESTY THE KING
+DATE OF HEARING:
+Motion determined by Written Submissions
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+May 25, 2026
+PARTICIPANTS:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Justine Allaire-Rondeau
+Anne-Elizabeth Morin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Marie-Josée Hogue
+Deputy Attorney General of Canada
+Ottawa, Canada

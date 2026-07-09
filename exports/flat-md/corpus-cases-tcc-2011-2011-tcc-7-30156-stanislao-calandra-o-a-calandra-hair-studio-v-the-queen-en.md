@@ -1,0 +1,321 @@
+---
+title: "Stanislao Calandra o/a Calandra Hair Studio v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30156/index.do"
+last_modified: "2011-01-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 7"
+citation2: ""
+neutral_citation: "2011 TCC 7"
+decision_date: "2011-01-07"
+language: "en"
+item_id: "30156"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7831
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:58:59.850000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "782e88c9c87bf817f42e76811a0758d914fbd2d046cde27165ad785eccd6b3d7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stanislao Calandra o/a Calandra Hair Studio v. The Queen
+
+- Citation: 2011 TCC 7
+- Decision date: 2011-01-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7831, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stanislao Calandra o/a Calandra Hair Studio v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-07
+Neutral citation
+2011 TCC 7
+File numbers
+2010-908(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-908(GST)I
+BETWEEN:
+STANISLAO CALANDRA
+o/a CALANDRA HAIR STUDIO
+and STANISLAO CALANDRA,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with appeals no. 2010-909(IT)I
+on November 9 and 10, 2010, at Toronto, Ontario
+By: The Honourable Justice Brent Paris
+Appearances:
+Agent for the Appellants :
+Costa Abinajem
+Counsel for the Respondent:
+Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments made under the Excise Tax Act, notices of which are dated February 15, 2007, are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant failed to remit goods and services tax of $1,885.58 for the reporting period ending December 31, 2002, $1,716.13 for the reporting period ending December 31, 2003 and $2,070.35 for the reporting period ending December 31, 2004 and the gross negligence penalties should be deleted.
+Signed at Ottawa, Canada, this 7th day of January, 2011.
+“B. Paris”
+Paris J.
+Docket: 2010-909(IT)I
+BETWEEN:
+STANISLAO CALANDRA
+o/a CALANDRA HAIR STUDIO
+and STANISLAO CALANDRA,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with appeals no. 2010-908(GST)I
+on November 9 and 10, 2010, at Toronto, Ontario
+By: The Honourable Justice Brent Paris
+Appearances:
+Agent for the Appellants :
+Costa Abinajem
+Counsel for the Respondent:
+Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is allowed and the reassessment is vacated.
+The appeals from reassessments made under the Act for the 2003 and 2004 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s unreported income was $24,516.21 in 2003 and $29,576.36 in 2004, and the gross negligence penalties should be deleted.
+Signed at Ottawa, Canada, this 7th day of January, 2011.
+“B. Paris”
+Paris J.
+Citation: 2011 TCC 7
+Date: 20110107
+Docket: 2010-908(GST)I and 2010-909(IT)I
+BETWEEN:
+STANISLAO CALANDRA
+o/a CALANDRA HAIR STUDIO
+and STANISLAO CALANDRA,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] These are appeals from reassessments of the Appellant’s 2002, 2003 and 2004 taxation years under the Income Tax Act, and from assessments of goods and services tax (GST) under the Excise Tax Act for the Appellant’s reporting periods ending December 31, 2002, December 31, 2003 and December 31, 2004. The assessments and reassessments resulted from a net worth audit by which the Minister of National Revenue determined that the Appellant had unreported business income of $33,550.98 in 2002, $30,900.14 in 2003 and $36,485.19 in 2004. Gross negligence penalties were levied in respect of the unreported income. The Minster also assessed the Appellant for GST of $9,801.70 on the basis that the unreported business income was from making taxable supplies and that he had failed to remit GST collected on those supplies. Interest and penalties for late filing and gross negligence penalties were also included in the GST assessments.
+[2] In his income tax returns, the Appellant reported losses from two businesses in 2002, a small amount of income from one business in 2003 and from two businesses in 2004. He reported a loss of $3,193 from all sources in 2002, and taxable income of $1,345.70 in 2003 and $238.88 in 2004. His spouse's reported taxable income was $12,085 in 2002, $14,544 in 2003 and $10,875 in 2004.
+[3] The auditor with Canada Revenue Agency assigned to the Appellant’s file was concerned that the income reported by him and his spouse was not sufficient to support themselves and their three children, and attempted to do an audit of the Appellant’s business income. However, the Appellant failed to respond to her requests for his books and records. In the absence of any records, she said the only option left to her was to perform a net worth audit.
+[4] Given the Appellant’s lack of cooperation, the auditor had limited materials upon which she could complete the net worth audit. Since she had no information about the Appellant’s assets and liabilities for the years in question, she assumed that there was no change to either during the three-year period. The auditor then calculated the Appellant’s personal expenditures using figures from Statistics Canada for national average expenditures for a family consisting of two adults and three children. She adjusted those figures in a few instances where she was able to obtain information about an expenditure, such as mortgage interest or property taxes that were paid by the Appellant.
+[5] The auditor deducted income received by the Appellant or his spouse from non‑taxable sources, and deducted amounts of income that were reported on their returns. These calculations revealed a discrepancy between the Appellant’s apparent income and his reported income in those years. This discrepancy was assumed by the auditor to be unreported business income, plus GST that had been collected on taxable supplies made by the Appellant. The amount remaining after the deduction of the GST was assumed by the auditor to be unreported income from business. A summary of the net worth calculation and resulting unreported income and GST collectible is found in Appendix “A” to the each of the Replies to the Notices of Appeal and is reproduced here:
+Additions:
+2002
+2003
+2004
+Personal Expenditures
+$57,715.71
+$58,909.68
+$59,865.47
+Deductions:
+Income Tax Refund- Self
+932.07
+888.50
+814.11
+Income Tax Refund – Spouse
+182.60
+GST/HST Credit Refund
+Received
+751.50
+381.00
+Child Tax Benefit
+7,201.65
+7,575.80
+7,937.63
+Income Per Net Worth
+48,830.49
+50,064.38
+50,931.13
+Less
+Income Reported – Self
+1,345.00
+239.00
+Income Reported – Spouse
+12,085.00
+14,544.00
+10,875.00
+Unreported Business
+Revenue (GST included)
+36,745.49
+34,175.38
+39,817.13
+Less:
+GST/HSY Collected
+3,194.51
+3,275.24
+3,331.94
+Unreported Business Income
+$33,550.98
+$30,900.14
+$36,485.19
+[6] The auditor sent the results of her audit and the details of the proposed reassessments to the Appellant in a letter, and gave him 30 days to submit any information or provide any explanation he wished the auditor to consider. The Appellant did not respond.
+[7] The Appellant filed a Notice of Objection to the assessments and reassessments. However, the Appellant’s representative refused to provide any information or documents to the CRA appeals officer. The representative, who was also the person who had prepared the Appellant’s tax returns, said that he was upset because the appeals officer refused to meet with him, and so he chose not to deal with the appeals officer. However, the Appellant’s representative admitted having received a letter from the appeals division at CRA asking him to submit any documents he had to support the Appellant’s position, and advising that once they had been received it would be determined whether a meeting with the appeals officer was warranted.
+[8] A succinct description of the net worth audit is found in Bigayan v. The Queen.[1] At paragraph 2, Bowman J. (as he then was) said:
+The net worth method, as observed in Ramey v. R. (1993), 93 D.T.C. 791 (T.C.C.), is a last resort to be used when all else fails. Frequently it is used when a taxpayer has failed to file income tax returns or has kept no records. It is a blunt instrument, accurate within a range of indeterminate magnitude. It is based on an assumption that if one subtracts a taxpayer's net worth at the beginning of a year from that at the end, adds the taxpayer's expenditures in the year, deletes non-taxable receipts and accretions to value of existing assets, the net result, less any amount declared by the taxpayer, must be attributable to unreported income earned in the year, unless the taxpayer can demonstrate otherwise. It is at best an unsatisfactory method, arbitrary and inaccurate but sometimes it is the only means of approximating the income of a taxpayer.
+In Bigayan , Bowman J. also set out the ways in which a taxpayer could seek to overturn a net worth assessment. At paragraphs 3 and 4 of that decision, he said:
+[3] The best method of challenging a net worth assessment is to put forth evidence of what the taxpayer's income actually is. A less satisfactory, but nonetheless acceptable method is described by Cameron J. in Chernenkoff v. Minister of National Revenue (1949), 49 D.T.C. 680 (Can. Ex. Ct.) at 683:
+In the absence of records, the alternative course open to the appellant was to prove that even on a proper and complete "net worth" basis the assessments were wrong.
+[4] This method of challenging a net worth assessment is accepted, but even after the adjustments have been completed one is left with the uneasy feeling that the truth has not been fully uncovered. Tinkering with an inherently flawed and imperfect vehicle is not likely to perfect it. …
+In this case, the Appellant chose to challenge the net worth assessments on the basis that the Statistics Canada estimates of personal expenditures used by the auditor were incorrect.
+[9] The Statistics Canada figures were broken down into subcategories for food, shelter, clothing, gifts, health care and other types of personal expenses. The Appellant was asked by his representative to say what he thought he had spent in 2002, 2003 and 2004 on each of the categories of expenditures listed by Statistics Canada. For the most part, the Appellant was unable to say with any certainty what he and his spouse had spent on the various subcategories but offered numbers that he felt were reasonable. In several instances the Appellant stated that it was a long time ago, he could not say and then provided a number. I would characterize these figures given by him in his testimony to be guesses as much as anything and I found his evidence unconvincing.
+[10] I am also troubled by the Appellant’s refusal to cooperate with the auditor, or to insist that his representative provide information to the appeals officer. The Appellant had no explanation for his lack of cooperation, and his failure to challenge the amounts used by the auditor for his personal expenditures when he was given a number of opportunities to do so causes me to doubt the Appellant’s efforts to quantify his expenditures at the hearing. Furthermore, except in one instance with which I will deal shortly, the Appellant did not present any corroborating evidence for the years in issue, either in documentary form, or through testimony of any other witnesses, such as his spouse. Also, the evidence showed that the Appellant and his spouse had at least one credit card during the years in issue, but no credit card statements were provided. Those statements would have possibly provided some indication of the Appellant’s spending in the years in issue.
+[11] At the hearing, the Appellant presented what he said were printouts of the transactions on a personal bank account and on a line of credit for the period from January 1, 2000 to December 31, 2004. They purported to show amounts owing at the end of 2002, 2003 and 2004 on the line of credit and small balances in the personal accounts. However, as pointed out by counsel for the Respondent, there was nothing on the printouts to tie the accounts to the Appellant, or to identify at which bank the accounts were held. In the absence of such identification, I attach no weight to this evidence.
+[12] The Appellant also produced a letter from President’s Choice Financial setting out the details of the mortgage against the family home and the amount of the monthly mortgage payments. It showed that in 2002 and 2003, the Appellant and his spouse paid $348.55 per month (or $4,182.60 per year) which was $6,593.40 less than the figure used by the auditor. Another mortgage statement for 2005 showed that the monthly payments had dropped by $35.07 starting on October 1, 2004, which would mean that the total payments for 2004 were $4,077.48 and therefore the auditor’s figure for 2004 should be reduced by $6,698.52. The Respondent did not challenge this evidence and I accept that the statements set out the actual mortgage payments made.
+[13] I believe two other adjustments to the personal expenditures are in order. Firstly, the Statistics Canada figures include an amount for Employment Insurance premiums estimated to have been paid by the notional family of five each year. Those amounts appear to be too high because they exceed the required EI contributions on the employment income earned by the Appellant and his spouse in 2002, 2003 and 2004. Firstly, the unreported amounts the Minister included in the Appellant’s income were assumed to have been income from business (see Appendix A to the Reply to Notice of Appeal 2010-909(IT)I) and so no EI premiums would have been payable by him on those amounts. In 2002, the Appellant reported employment income of $13,000 but did not claim any deduction for EI premiums at line 312 of his return. In 2003 and 2004, he did not report any employment income. The Appellant’s spouse’s income from employment was $12,085 in 2002, $14,544.00 in 2003 and $10,875.00 in 2004. The employee premium rate for EI was 2.2% in 2002, 2.1% in 2003 and 1.98% in 2004. The EI premiums on the Appellant’s spouse’s employment income would have been as follows:
+EI
+2002
+$265.87
+2003
+$305.43
+2004
+$215.32
+The EI premium amounts in the Statistics Canada estimates were $1,229.33 for 2002, $1,263.42 in 2003 and $1,287.18 in 2004. The discrepancy between these estimates and the required premiums on the Appellant’s spouses employment income was $947.62 in 2002, $957.99 in 2003 and $1,071.86 in 2004.
+[14] Secondly, the Appellant testified and I accept that he and his family spent nothing on haircuts because the Appellant, a former hairdresser, cut his family’s hair, and the Appellant’s father, also a hairdresser, cut his hair. The evidence showed that the Appellant had operated a hair salon in past years
+[15] In summary, the reduction to the personal expenditures should be as follows:
+2002
+2003
+2004
+Shelter
+$6,593.40
+$6,593.40
+$6,698.52
+Haircutting
+382.06
+392.65
+400.04
+EI premiums
+963.46
+957.99
+1,071.860
+TOTAL
+$7,923.08
+7,944.04
+$8,170.42
+[16] The Appellant argued that a major source of funds used to pay the personal expenditures was his line of credit, which was a non-taxable source of funds. I have already indicated that I can place no weight on the alleged account printouts, but there are additional reasons to reject this argument. Firstly, even if the Appellant did draw funds from a line of credit, there is no way of knowing whether those funds were used for personal expenditures or for other purposes including the acquisition of assets that would affect the determination of his net worth. An investigation into these issues would have been possible if the information had been provided to the auditor, or perhaps even the appeals officer in a timely fashion, but in the absence of any assurance that the Appellant has made a full disclosure of all his assets and liabilities to this Court, evidence of liabilities alone (had such evidence been accepted) is not sufficient to show that there is any error in the net worth audit. Secondly, if one were to accept this Appellant’s evidence regarding borrowings from the line of credit, along with his evidence concerning his expenses, even by his representative’s calculation, he would have over-reported his income by $15,561 in 2002, $22,403 in 2003 and $6,364 in 2004. The Appellant did not offer any explanation how he could have over-reported his income for those years.
+[17] The Appellant also challenged the Minister’s right to reassess his 2002 taxation year outside the normal reassessment period. On this point, I agree with the Appellant. In order to reopen a statute-barred year, the Respondent must prove that the Appellant made a misrepresentation attributable to neglect, carelessness or wilful default in filing his 2002 tax return. The allegation that the Appellant misrepresented his income is based on a net worth audit in which the great majority of the figures used were not verified by the auditor because the Appellant did not cooperate. Without any direct evidence of the Appellant’s expenditures or of any increase to his assets during the years in issue, and in the absence of any admissions by the Appellant as to his expenditures or assets, there is no proof of a discrepancy between his actual and reported income such as is required to reopen a statute-barred year. The assumptions made by the auditor in reassessing cannot be relied upon by the Respondent for the purpose of meeting the onus to prove a misrepresentation. This point was made by the Federal Court of Appeal in Lacroix v. The Queen[2] at paragraph 26:
+26 Although the Minister has the benefit of the assumptions of fact underlying the reassessment, he does not enjoy any similar advantage with regard to proving the facts justifying a reassessment beyond the statutory period, or those facts justifying the assessment of a penalty for the taxpayer's misconduct in filing his tax return. The Minister is undeniably required to adduce facts justifying these exceptional measures.
+It may have been possible for the Minister, during the audit, to obtain such evidence, if it existed, by issuing requirements to the Appellant and third parties, but for whatever reason, this was not done. Without something more than the assumptions pleaded in the Reply, the income tax reassessment for the 2002 taxation year cannot stand.
+[18] The situation in this case can be distinguished from that in both Molenaar v. The Queen,[3] and Lacroix, both net worth cases, in which the Federal Court of Appeal found that the Minister had met the onus of proving that the taxpayers had misrepresented their income and therefore that the Minister was entitled to assess beyond the normal reassessment period and to impose gross negligence penalties. In deciding that the Respondent had met the onus of proving misrepresentation, the Court in Molenaar said:
+4. Once the Ministère establishes on the basis of reliable information that there is a discrepancy, and a substantial one in the case at bar, between a taxpayer's assets and his expenses, and that discrepancy continues to be unexplained and inexplicable, the Ministère has discharged its burden of proof. It is then for the taxpayer to identify the source of his income and show that it is not taxable.
+[19] In Lacroix and Molenaar, the Minister had established on the basis of reliable information that there was a discrepancy between the taxpayers’ assets and expenses which was not accounted for by the taxpayer’s reported income. In Lacroix, the taxpayer himself provided the information concerning his assets and expenses, and in Molenaar, the information was obtained from the taxpayer and third parties. Here, almost none of the Appellant’s expenses were verified and the Appellant provided no information. The auditor relied on Statistics Canada figures which were not proven in Court by calling the person who compiled the figures. Having failed to do so, the Minister is unable to establish the expenses for the purpose of proving a discrepancy between those expenses and the Appellant’s reported income.
+[20] The same would apply to the gross negligence penalties imposed under subsection 163(2) of the Income Tax Act. The gross negligence penalties will therefore be reversed. With respect to the gross negligence penalties assessed under section 285 of the Excise Tax Act, the Respondent has failed to show any misrepresentation or omission was made in the Appellant’s GST returns for those reporting periods for the simple reason that the Appellant did not file any returns for those periods. This fact is set out in paragraph 6(e) of the GST Reply. Those penalties shall be reversed as well.
+[21] The Appellant’s representative also argued that the GST assessments should be vacated because they were processed under a GST registration number that the Appellant had cancelled a number of years before. The auditor said that she was unable to locate an active GST registration number for the Appellant, so when she went to put through the assessments, she reopened an account he had used in the past.
+[22] Since, at the time the Appellant was assessed for GST, the old GST number had been reactivated I do not think that it can be said that the number was incorrect. However, even if it were, the use of an old or incorrect GST registration number would not have any effect on the Appellant’s GST liability. According to paragraph 96(1)(a) of the ETA, “the Minister may assess the net tax of a person under Division V for a reporting period”, and net tax of a person is calculated under subsection 225(1). “Person” is defined in subsection 123(1) to include an individual. Therefore, GST liability falls upon a person rather than on an account or registration number, and any error in the latter cannot have the effect of negating tax liability. I would also refer to subsection 299(2) if the ETA which provides that liability for tax “is not affected by an incorrect or incomplete assessment or by the fact that no assessment has been made”.
+[23] I have determined, however, that there is an error in the calculation of GST on the taxable supplies assumed to have been made by the Appellant which gave rise to the unreported business income. In order to explain this error, it is helpful to reproduce the summary of the net worth calculation and resulting unreported business income and GST collectible:
+Additions:
+2002
+2003
+2004
+Personal Expenditures
+$57,715.71
+$58,909.68
+$59,865.47
+Deductions:
+Income Tax Refund- Self
+932.07
+888.50
+814.11
+Income Tax Refund – Spouse
+182.60
+GST/HST Credit Refund
+Received
+751.50
+381.00
+Child Tax Benefit
+7,201.65
+7,575.80
+7,937.63
+Income Per Net Worth
+48,830.49
+50,064.38
+50,931.13
+Less
+Income Reported – Self
+1,345.00
+239.00
+Income Reported – Spouse
+12,085.00
+14,544.00
+10,875.00
+Unreported Business
+Revenue (GST included)
+36,745.49
+34,175.38
+39,817.13
+Less:
+GST/HSY Collected
+3,194.51
+3,275.24
+3,331.94
+Unreported Business Income
+$33,550.98
+$30,900.14
+$36,485.19
+[24] It can be seen from the summary that the auditor proceeded on the basis that the Appellant’s “Unreported Business Revenue (GST included)” was $36,745.49 in 2002, $34,175.38 in 2003 and $39,817.13 in 2004. The GST included would be 7/107 of these amounts, which equals $2,403.92 in 2002, $2,235.84 in 2003 and $2,604.86 in 2004. The amounts determined by the auditor were $3,194.51, $3,275.24, and $3,331.94 respectively. It appears to me that the auditor calculated the GST using the figures shown for “Income per Net Worth” as the total of the Appellant’s taxable supplies and GST rather than the amounts of “Unreported Business Revenue (GST included)” because the GST calculated for each period is 7/107 of the “Income per Net Worth” amount. This would be wrong, because the “Income per Net Worth” amounts for each year were adjusted to account for income that had been reported by the Appellant and his spouse for the years in issue. By using the figures she did, the auditor has in effect assessed the Appellant for GST on the amount of his spouse’s income each year.
+[25] Since I have found that the Appellant’s personal expenditures were lower than what the auditor determined, this will reduce the Appellant’s unreported business revenue (GST included) by the same amount, which in turn will reduce the amount of GST which the Appellant failed to remit for each of the reporting periods, and, again in turn, will reduce the amount of his unreported business income as follows:
+Revised unreported business revenue (GST included):
+2002: $36,745.49 –$ 7,923.08= $28,822.41
+2003: $34,176.38 – $7,944.04= $26,232.34
+2004: $39,817.13-$8,170.42= $31,646.71
+GST
+2002: $28,822.41 x 7/107= $1,885.58
+2003: $26,232.34 x 7/107= $1,716.13
+2004: $31,646.71 x 7/107= $2,070.35
+Unreported business income
+2002: $28,822.41 - $1,885.58= $26,936.83
+2003: $26,232.34 - $1,716.13= $24,516.21
+2004: $31,646.71- $2,070.35= $29,576.36
+[26] For the above reasons, the appeals are allowed. The income tax reassessment for the 2002 taxation year is vacated and the income tax reassessments for the 2003 and 2004 taxation years are referred back to the Minister for reassessment on the basis that the Appellant’s unreported income was $24,516.21 in 2003 and $29,576.36 in 2004, and the gross negligence penalties should be deleted. The GST assessments shall be referred back to the Minister for reassessment on the basis that the Appellant failed to remit GST of $1,885.58 for the reporting period ending December 31, 2002, $1,716.13 for the reporting period ending December 31, 2003 and $2,070.35 for the reporting period ending December 31, 2004 and the gross negligence penalties should be deleted.
+Signed at Ottawa, Canada, this 7th day of January, 2011.
+“B. Paris”
+Paris J.
+CITATION: 2011 TCC 7
+COURT FILE NO.: 2010-908(GST)I and 2010-909(IT)I
+STYLE OF CAUSE: STANISLAO CALANDRA o/a CALANDRA HAIR STUDIO and STASNISLAO CALANDRA and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 9 and 10, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Brent Paris
+DATE OF JUDGMENT: January 7, 2011
+APPEARANCES:
+Agent for the Appellants:
+Costa Abinajem
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the :
+Name: N/A
+Firm: N/A
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2000 DTC 1619 at paragraph 2.
+[2] 2008 FCA 241.
+[3] 2004 FCA 349.

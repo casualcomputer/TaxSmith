@@ -1,0 +1,175 @@
+---
+title: "Crane Canada Inc. Plumbing Division c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28467/index.do"
+last_modified: "2004-12-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 816"
+citation2: ""
+neutral_citation: "2004 CCI 816"
+decision_date: "2004-12-14"
+language: "fr"
+item_id: "28467"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1200
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:44:41.426000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "002e6c9dfe87e7c5f9bf1de2fba07a472ea702a8e7cea8c3d21642e86f85af41"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Crane Canada Inc. Plumbing Division c. La Reine
+
+- Citation: 2004 CCI 816
+- Decision date: 2004-12-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1200, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Crane Canada Inc. Plumbing Division c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-14
+Référence neutre
+2004 CCI 816
+Numéro de dossier
+2003-2000(GST)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-2000(GST)G
+ENTRE :
+CRANE CANADA INC. – PLUMBING DIVISION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 novembre 2004 à Montréal (Québec)
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l’appelante :
+Me Claude Desaulniers
+Avocate de l’intimée :
+Me Martine Bergeron
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 22 juin 2000 et porte le numéro CG20276, pour la période allant du 1er février 1996 au 31 août 1999, est rejeté.
+Signé à Ottawa, Canada, ce 14e jour de décembre 2004.
+"Gerald J. Rip"
+Juge Rip
+Référence : 2004CCI816
+Date : 20041214
+Dossier : 2003-2000(GST)G
+ENTRE :
+CRANE CANADA INC. – PLUMBING DIVISION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Crane Canada Inc. (« Crane ») interjette appel à l’encontre d’une cotisation relative à la taxe payable en vertu de la partie IX de la Loi sur la taxe d’accise (la « Loi ») (taxe sur les produits et services), dans laquelle le ministre du Revenu national a imposé une pénalité en conformité avec l’article 280 de la Loi. Le paragraphe 280(1) prévoit ce qui suit :
+280. (1) Sous réserve du présent article et de l’article 281, la personne qui ne verse pas ou ne paie pas un montant au receveur général dans le délai prévu par la présente partie est tenue de payer la pénalité et les intérêts suivants, calculés sur ce montant pour la période commençant le lendemain de l’expiration du délai et se terminant le jour du versement ou du paiement :
+a) une pénalité de 6 % par année;
+b) des intérêts au taux réglementaire.
+280. (1) Subject to this section and section 281, where a person fails to remit or pay an amount to the Receiver General when required under this Part, the person shall pay on the amount not remitted or paid (a) a penalty of 6% per year, and (b) interest at the prescribed rate, computed for the period beginning on the first day following the day on or before which the amount was required to be remitted or paid and ending on the day the amount is remitted or paid.
+[2] Les faits ne sont pas contestés en l’espèce. Les parties n’ont produit aucune preuve. L’appelante s’est fondée sur les faits suivants qui sont exposés dans son avis d’appel :
+[TRADUCTION]
+3. L’appelante exploite une entreprise de fabrication de fournitures de plomberie, notamment des réservoirs de chasse d’eau (l’« entreprise »).
+4. L’appelante est inscrite en conformité avec la sous‑section d de la section V de la partie IX de la Loi sur la taxe d’accise (Canada) (la « LTA »).
+5. L’entreprise est une « activité commerciale » au sens défini dans la LTA.
+6. Certains réservoirs de chasse d’eau fabriqués par l’appelante à son usine située en Colombie‑Britannique auraient présenté des vices de fabrication, et des acheteurs de ces réservoirs (les « plaignants ») ont prétendu avoir subi des dommages en conséquence.
+7. Les plaignants ont présenté des demandes d’indemnité en vertu de leurs propres polices d’assurance de biens et d’assurance contre les accidents (les « demandes d’indemnité ») ou ont participé à un recours collectif intenté contre l’appelante devant la Cour suprême de la Colombie‑Britannique (le « recours collectif »), ou ils ont à la fois présenté de telles demandes et participé au recours collectif.
+8. L’appelante a conclu des ententes de gestion des sinistres (les « ententes de gestion des sinistres ») avec divers assureurs relativement aux demandes d’indemnité et au recours collectif.
+9. L’appelante s’est engagée, dans les ententes de gestion des sinistres, à verser aux assureurs un pourcentage de la valeur réelle (la « VR ») du coût des réparations supporté par les titulaires de police des assurés.
+10. Les plaignants qui exigeaient des réparations en raison d’un réservoir de chasse d’eau présentant prétendument des vices de fabrication ont passé des contrats directement avec l’entrepreneur chargé d’effectuer les réparations, et ce dernier leur a facturé les réparations.
+11. Les factures envoyées par l’entrepreneur pour les réparations étaient payées soit par le plaignant, lequel se faisait ensuite rembourser par sa compagnie d’assurances, soit directement par celle‑ci.
+12. Conformément aux ententes de gestion des sinistres, les assureurs ont remis à l’appelante des documents au soutien du pourcentage de la VR des réparations (calculée sur la base du coût des réparations, y compris la TPS applicable facturée par l’entrepreneur) que l’appelante devait leur verser.
+13. Les documents remis à l’appelante par les assureurs indiquaient clairement la partie des paiements de règlement qui constituait la composante TPS proportionnelle de la VR des réparations.
+14. L’appelante a demandé des crédits de taxe sur les intrants (les « CTI ») relativement à la composante TPS des paiements de règlement.
+[3] L’intimée a admis les faits décrits aux paragraphes 3, 4, 5, 6, 7 et 14, et elle a reconnu que la cotisation était fondée sur les faits allégués aux paragraphes 8, 9, 10, 11, 12 et 13.
+[4] L’appelante a d’abord soutenu que les sommes versées aux assureurs étaient liées à ses activités commerciales – la fourniture de réservoirs de chasse d’eau – et qu’en conséquence elle avait droit à des crédits de taxe sur les intrants (les « CTI ») relativement à la composante TPS des paiements de règlement. Le ministre a rejeté la demande de CTI de l’appelante au motif que les assureurs n’étaient pas des mandataires de celle‑ci qui étaient chargés de payer les entrepreneurs et que, en conséquence, l’appelante n’était pas l’acquéreur de biens ou de services destinés à être utilisés dans le cadre de ses activités commerciales. L’avocat de l’appelante a reconnu que, si elle avait payé l’entrepreneur directement, Crane aurait eu droit à des CTI. Comme les montants ont été payés aux assureurs par suite de dommages, Crane n’était pas un acquéreur et n’avait donc pas droit à des CTI.
+[5] Le seul point sur lequel je dois me prononcer est la pénalité. L’appelante soutient qu’elle a exercé une diligence raisonnable et qu’elle a pris des précautions raisonnables pour ne pas commettre d’erreur dans la production de sa déclaration de TPS.
+[6] Peu de temps après l’entrée en vigueur des dispositions législatives relatives à la TPS, le juge Bowman (maintenant juge en chef adjoint), s’appuyant sur les motifs de l’arrêt rendu par la Cour suprême du Canada dans R. c. Sault Ste‑Marie[1], a statué, dans l’appel Pillar Oilfield Projects Ltd. c. Canada, [1993] A.C.I. no 764, [1993] G.S.T.C. 49, que l’alinéa 280(1)a) de la Loi crée une infraction de responsabilité stricte et que la diligence raisonnable est le seul moyen de défense pouvant être invoqué[2]. Dans Pillar, des intérêts et des pénalités avaient été imposés à la contribuable en vertu de l’alinéa 280(1)a) parce qu’elle avait commis plusieurs erreurs dans ses déclarations de TPS. La contribuable a porté les pénalités en appel au motif que les erreurs avaient été commises de bonne foi et qu’il était normal, vu la nouveauté de la TPS, qu’elles aient été commises. Le juge Bowman a indiqué que la diligence raisonnable exige « la preuve positive que toutes les précautions raisonnables ont été prises pour qu’aucune erreur ne soit commise »[3]. Un moyen de défense peut être invoqué si le contribuable croyait pour des motifs raisonnables à un état de faits inexistant qui, s’il avait existé, aurait rendu l’acte ou l’omission innocent, ou s’il a pris toutes les précautions raisonnables pour éviter l’événement en question[4].
+[7] La Cour d’appel fédérale a reconnu que rien ne s’oppose à ce que la défense de diligence raisonnable dont une personne peut se prévaloir à l’encontre d’infractions de responsabilité stricte puisse être invoquée à l’encontre de pénalités administratives : Corporation de l’École Polytechnique c. Canada, 2004 CAF 127, 2004 G.T.C. 1148[5]. Dans cet arrêt, les juges Décary et Létourneau passent en revue les principes régissant la défense de diligence raisonnable aux paragraphes 28 à 45 inclusivement. Les paragraphes 28 à 31 sont pertinents en l’espèce :
+[28] La défense de diligence raisonnable permet à une personne d’éviter l’imposition d’une pénalité si elle fait la preuve qu’elle n’a pas été négligente. Elle consiste à se demander si cette personne a cru, pour des motifs raisonnables, à un état de fait inexistant qui, s’il eut existé, aurait rendu son acte ou son omission innocent ou si elle a pris toutes les précautions raisonnables pour éviter l’événement qui mène à l’imposition de la peine? Voir La Reine c. Sault Ste-Marie, [1978] 2 R.C.S. 1299; La Reine c. Chapin, [1979] 2 R.C.S. 121. En d’autres termes, la diligence raisonnable excuse soit l’erreur de fait raisonnable, soit la prise de précautions raisonnables pour se conformer à la loi.
+[29] La défense de diligence raisonnable ne doit pas être confondue avec la défense de bonne foi qui a cours dans le régime de responsabilité pénale exigeant la preuve d’une intention ou d’une connaissance coupable. La défense de bonne foi permet l’exonération d’une personne qui a commis une erreur de fait de bonne foi, même si celle-ci est déraisonnable, alors que la défense de diligence raisonnable exige que cette erreur soit raisonnable, c’est-à-dire une erreur qu’une personne raisonnable aurait aussi commise dans les mêmes circonstances. La défense de diligence raisonnable qui requiert une croyance raisonnable, mais erronée, en une situation de fait est donc plus exigeante que celle de bonne foi qui se contente d’une croyance honnête, mais tout aussi erronée.
+[30] La personne qui invoque une erreur de fait raisonnable doit satisfaire un double test : subjectif et objectif. Il ne lui suffit pas d’invoquer qu’une personne raisonnable aurait commis la même erreur dans les circonstances. Elle doit d’abord établir qu’elle s’est elle‑même méprise quant à la situation factuelle : il s’agit là du test subjectif. Évidemment, la défense échoue en l’absence d’une preuve que la personne qui l’invoque a, de fait, été induite en erreur et que cette erreur a mené au geste posé. Elle doit ensuite établir que son erreur était raisonnable dans les circonstances : il s’agit là du test objectif.
+[31] Sitôt la défense de diligence raisonnable acceptée en matière d’infractions de responsabilité stricte, s’est soulevée la question de savoir si la défense d’erreur de droit pouvait, elle aussi, être invoquée pour éviter l’imposition d’une sanction pénale. Cette question ne s’est pas posée uniquement en rapport avec les infractions de responsabilité stricte, encore qu’avec l’inflation réglementaire et la multiplication des infractions statutaires, le champ de la responsabilité stricte s’est avéré le lieu le plus propice à l’éclosion de cette défense.
+[8] Dans son avis d’appel, l’appelante prétendait avoir commis une erreur de droit en croyant, sur la foi d’un examen des dispositions législatives relatives à la TPS et des énoncés de politique ou des mémorandums sur la TPS publiés par l’administration fiscale, avoir droit à des CTI relativement à la composante TPS des paiements de règlement.
+[9] Au procès, l’avocat de l’appelante a soutenu que sa cliente avait commis une erreur de fait. Malheureusement, aucun témoin n’est venu décrire cette erreur[6]. La Cour ne dispose d’aucune preuve démontrant que l’appelante ou ses employés chargés de produire les déclarations de TPS ont cru, pour des motifs raisonnables, à la non‑existence de certains faits qui, s’ils avaient existé, auraient rendu leur acte ou leur omission innocent, ou qu’elle ou ces employés ont pris toutes les précautions raisonnables pour éviter l’événement qui a mené à l’imposition de la pénalité.
+[10] Quoi qu’il en soit, l’avocat de l’appelante a fait valoir que sa cliente était une société qui payait la TPS en tant qu’acquéreur de fournitures et qu’elle avait droit à des CTI. Ainsi, il était normal pour l’employé de l’appelante qui recevait une facture indiquant, comme dans le cas des assureurs, le montant de TPS à payer, de procéder comme d’habitude, c’est‑à‑dire de calculer la TPS sur les fournitures vendues et de demander un CTI. Selon l’avocat, il est raisonnable de conclure que la personne a commis une erreur de fait en pensant que la facture avait trait à une fourniture et qu’il l’a payée dans le cadre des activités commerciales courantes de l’appelante. L’employé de l’appelante a suivi innocemment des procédures acceptées.
+[11] L’avocat a fait référence à la décision Key Property Management Corporation c. Canada, 2004CCI210, [2004] G.T.C. 199. Dans cette affaire, la contribuable avait fourni des services de gestion à d’autres sociétés dont chacune possédait et exploitait des immeubles locatifs. Le ministre a établi à l’égard de la contribuable une cotisation fondée sur le fait qu’elle était l’employeur de certains concierges et préposés à l’entretien engagés pour fournir des services aux immeubles. Des pénalités ont aussi été imposées.
+[12] Le ministre faisait valoir que, étant donné que Key Property avait fourni les services des préposés aux sociétés propriétaires, elle aurait dû leur facturer la TPS. La contribuable soutenait de son côté qu’aucune de ces personnes n’était son employée et qu’elle n’avait pas à percevoir la TPS sur leurs services.
+[13] La contribuable a eu gain de cause en partie. Seuls les concierges n’étaient pas des employés. Le juge Bowie a statué que la contribuable avait droit à des CTI additionnels. Comme Key Property avait donné de la formation à son personnel sur la TPS, elle avait des motifs raisonnables de croire à la justesse de sa position, et les pénalités imposées en vertu de l’article 280 ont été annulées.
+[14] Le juge Bowie a déclaré : [TRADUCTION] « Le fait de croire honnêtement qu’une opération n’est pas assujettie à la taxe équivaut à de la diligence raisonnable si cette croyance est fondée sur des motifs raisonnables » [7]. Dans le présent appel, l’avocat de l’appelante prétendait que sa cliente avait commis une erreur de fait; elle avait de bonnes raisons de croire qu’elle payait la TPS puisque celle‑ci était mentionnée sur la facture. Il fait valoir que l’appelante a commis une erreur de fait innocente : elle a payé l’assureur et non les entrepreneurs; l’appelante n’a pas fait de paiement en qualité d’acquéreur d’une fourniture de biens.
+[15] Comme je l’ai mentionné précédemment, la preuve est insuffisante. Je ne connais pas la pratique adoptée par l’appelante au regard de la production des déclarations de TPS et des demandes de CTI. Je ne sais rien des agissements des personnes chargées de produire les déclarations de TPS, ni de ce que les employés de l’appelante avaient en tête lorsqu’ils préparaient les déclarations de TPS et demandaient des CTI. L’appelante n’a pas satisfait aux critères subjectif et objectif décrits au paragraphe 30 de l’arrêt École Polytechnique. Une erreur a manifestement été commise, mais je ne sais pas si la personne qui en est responsable s’est elle‑même méprise quant à la situation factuelle ou si l’erreur était raisonnable dans les circonstances.
+[16] De toute façon, même si l’appelante a commis une erreur de droit lorsqu’elle a demandé les CTI, la diligence raisonnable avec laquelle elle aurait tenté de comprendre le droit applicable et de s’y conformer n’est d’aucun secours. La Cour d’appel fédérale a déclaré au paragraphe 38 de la décision École Polytechnique :
+Sauf exceptions, [...] l’erreur de droit raisonnable portant sur l’existence et sur l’interprétation d’une loi ne sont pas reconnues comme moyens de défense [...] à des infractions de responsabilité stricte [...] régies par les principes applicables à la responsabilité stricte.
+[17] La Cour d’appel a signalé deux exceptions à cette règle : l’erreur de droit provoquée par une personne en autorité et l’erreur de droit invincible. Ni l’une ni l’autre n’existe en l’espèce. La preuve n’indique pas que l’erreur de l’appelante n’était pas impossible à éviter, ni que l’appelante s’est fondée sur l’avis erroné d’un conseiller juridique ou d’un fonctionnaire de l’Agence des douanes et du revenu du Canada, le nom que portait l’administration fiscale à l’époque.
+[18] L’appel est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 14e jour de décembre 2004.
+"Gerald J. Rip"
+Juge Rip
+RÉFÉRENCE :
+2004CCI816
+NUMÉRO DU DOSSIER
+DE LA COUR :
+2003-2000(GST)G
+INTITULÉ :
+Crane Canada Inc. c. La Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 3 novembre 2004
+MOTIFS DU JUGEMENT :
+L’honorable juge Gerald J. Rip
+DATE DU JUGEMENT :
+14 décembre, 2004
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Claude Desaulniers
+Avocate de l’intimée :
+Me Martine Bergeron
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Claude Desaulniers
+Cabinet :
+McCarthy, Tetrault
+Pour l’intimée :
+Morris Rosenberg
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] [1978] 2 R.C.S. 1299.
+[2] Paragraphe 11.
+[3] Paragraphe 27.
+[4] Paragraphes 10 et 11.
+[5] Voir aussi Canada c. Consolidated Canadian Contractors Inc., [1999] 1 C.F. 209 (C.A.F.).
+[6] L’avocat de l’appelante a expliqué que celle‑ci avait mis fin à ses activités et qu’il avait été incapable de trouver des personnes pouvant témoigner au sujet des faits entourant le présent appel.
+[7] Paragraphe 22; voir aussi le paragraphe 24.

@@ -1,0 +1,272 @@
+Title: CIBC c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30922/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-336-30922-cibc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-07-20
+
+# CIBC c. La Reine
+
+- Citation: 2006 CCI 336
+- Decision date: 2006-07-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7418, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CIBC c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-20
+Référence neutre
+2006 CCI 336
+Numéro de dossier
+2004-1427(GST)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-1427(GST)G
+ENTRE :
+LA BANQUE CANADIENNE IMPÉRIALE DE COMMERCE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 30 novembre 2005, à Toronto (Ontario).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocats de l’appelante :
+Mes Jacques Bernier et
+Martin Sorensen
+Avocats de l’intimée :
+Mes Richard Gobeil et
+Michael Ezri
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise pour la période allant du 1er juin 2000 au 30 mai 2002, dont l’avis est daté du 14 juillet 2003, est rejeté avec dépens.
+Signé à Edmundston (Nouveau‑Brunswick), ce 20e jour de juillet 2006.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 13e jour de décembre 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI336
+Date : 20060720
+Dossier : 2004-1427(GST)G
+ENTRE :
+LA BANQUE CANADIENNE IMPÉRIALE DE COMMERCE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L’appelante, la Banque Canadienne Impériale de Commerce (la « CIBC »), interjette appel à l’encontre d’une cotisation du ministre du Revenu national (le « ministre ») qui est datée du 14 juillet 2003 et qui a été établie en vertu de la Loi sur la taxe d’accise (la « Loi ») pour la période allant du 1er juin 2000 au 30 mai 2002. Le montant en cause dans la cotisation s’élevait à 2 663 662 $. Il correspondait à une demande de remboursement de la taxe sur les produits et services (« TPS ») payée par erreur par la CIBC. Avant le début de l’instruction, les parties ont informé la Cour de leur entente concernant le montant de la demande de remboursement, qui s’élève maintenant à 2 468 451,47 $. Toutes les autres hypothèses de fait se trouvant dans la réponse à l’avis d’appel sur lesquelles l’intimée s’est fondée ont été admises par l’appelante.
+[2] L’appelante est une institution financière diversifiée régie par la Loi sur les banques [1991, ch. 46]. Dans le cadre de ses activités commerciales, elle consent des prêts, accorde des crédits et délivre des cartes de crédit. Pendant la période visée par la cotisation, certains emprunteurs, détenteurs de cartes de crédit et autres débiteurs (collectivement appelés les « débiteurs ») ont manqué à leurs obligations découlant de leurs accords avec l’appelante. Après plusieurs tentatives de recouvrement des montants dus par ces débiteurs, l’appelante a conclu des marchés avec diverses agences de recouvrement en vue de recouvrer les montants dus sur des prêts, des cartes de crédit et d’autres genres de crédits (collectivement appelés les « montants dus »). Ces montants étaient déposés dans les comptes de fiducie des agences de recouvrement au nom de l’appelante, tandis que d’autres montants étaient versés directement à l’appelante. Les agences recevaient une commission lorsqu’elles recouvraient des montants dus et cette commission comprenait un montant au titre de la TPS. De plus, les agences avaient le pouvoir de régler les réclamations pour un montant inférieur au montant intégral de la dette visée par les démarches de recouvrement, mais elles devaient respecter les limites des directives de l’appelante.
+[3] Le 25 juin 2002, l’appelante a produit une demande générale de remboursement de la taxe payée par erreur sur les commissions versées aux agences de recouvrement pendant la période en cause en contrepartie de leurs services de recouvrement de créances. L’intimée a refusé la demande.
+[4] En l’espèce, il s’agit uniquement de déterminer si les services que les agences de recouvrement ont fournis à l’appelante constituent un « service financier » au sens du paragraphe 123(1) de la partie IX de la Loi.
+[5] En résumé, l’appelante a adopté la position selon laquelle les services fournis par les agences de recouvrement sont des services financiers, qui sont exonérés, et que, par conséquent, la TPS payée relativement à ces services a été payée par erreur. À l’inverse, l’intimée a adopté la position selon laquelle les services en question ne constituent pas des services financiers et que l’appelante n’a donc payé aucune TPS par erreur relativement à ces services.
+[6] La seule personne qui a témoigné dans la présente affaire a été Jonathan Goodman, vice‑président du service des recouvrements, du soutien et de la gestion de portefeuille pour la CIBC. M. Goodman exerçait auprès de l’appelante diverses fonctions liées aux processus et aux stratégies de recouvrement. Il a témoigné que la procédure de recouvrement de la CIBC s’appliquant aux comptes en souffrance est de commencer par transmettre les comptes en question à un groupe de recouvrement central. Des employés de la CIBC de ce groupe communiquent ensuite avec le client pour prendre des mesures en vue du paiement de l’arriéré ou du montant en souffrance. Lorsque toutes les possibilités sont épuisées à ce niveau, la CIBC délivre au débiteur une demande de remboursement pour exiger le paiement intégral de l’arriéré ou du montant en souffrance. Si le client ne donne pas suite à cette demande, le compte est attribué au centre de recouvrement, qui transmet subséquemment les comptes en souffrance à des agences de recouvrement autorisées à agir en cette qualité et approuvées ou choisies par l’appelante.
+[7] La CIBC faisait affaire avec une vingtaine d’agences de recouvrement différentes pendant la période en litige. Celles-ci étaient rémunérées proportionnellement aux sommes recouvrées à des pourcentages allant de 20 à 50 %, selon le genre de compte qu’elles se voyaient attribuer. Les différents genres de comptes sont classés selon le niveau de difficulté de recouvrement qu’ils représentent. Les relations entre la CIBC et les agences de recouvrement sont régies par des marchés et des directives normalisés, dont de nombreux exemples ont été produits en preuve (voir l’onglet 28 de la pièce A-1). Selon ces marchés et directives, les agences de recouvrement ne sont rémunérées que si elles recouvrent un montant dû. Elles ne reçoivent aucune rémunération pour leur travail ou leurs activités si elles ne recouvrent aucun montant.
+[8] M. Goodman a aussi témoigné au sujet des genres de comptes en souffrance à l’égard desquels les agences de recouvrement devaient entreprendre des démarches de recouvrement. Les comptes en question comprenaient notamment du principal et des intérêts courus sur des produits de prêts personnels, y compris des cartes de crédit, des prêts, des prêts remboursables par versements, des prêts à vue, des lignes de crédit, des découverts bancaires et des soldes résiduaires après la cession de titres.
+[9] Dans son témoignage, M. Goodman a admis que, parmi toutes les démarches de recouvrement entreprises par les agences de recouvrement, 15 % donnent lieu à des paiements intégraux de la part des débiteurs. Dans d’autres cas, les agences de recouvrement ont le pouvoir de régler les réclamations ou de conclure des ententes avec les clients en vue de faire proroger le délai de paiement du principal et des intérêts courus. Les clients peuvent verser les montants dus à l’agence de recouvrement ou directement à la banque. L’agence de recouvrement reçoit la commission, même si c'est la banque qui reçoit le paiement.
+[10] En contre-interrogatoire, M. Goodman a témoigné que la CIBC a recours aux services des agences de recouvrement parce que celles-ci possèdent des capacités que la banque ne possède pas. Il a admis que les agences de recouvrement sont plus spécialisées et mieux équipées que la CIBC pour recouvrer des comptes en souffrance. En fait, il a convenu que les agences de recouvrement font plus que, par exemple, recouvrer les paiements d’électricité, ce que la banque fait en retirant les fonds des comptes de ses clients. L’appelante exige que les agences de recouvrement fassent un suivi de leurs activités de recouvrement, notamment en prenant des notes au sujet de diverses conversations, et elle se réserve un droit de regard sur les comptes transmis aux agences de recouvrement. La CIBC exige aussi qu’une quantité minimale de travail soit faite par les agences de recouvrement dans les cinq jours suivant la date de l’attribution des comptes et qu’une quantité minimale d’autres activités soient exercées dans le cadre du processus de recouvrement. M. Goodman a reconnu que les commissions les plus élevées payées aux agences de recouvrement se rapportent aux comptes qui sont les plus difficiles à recouvrer et qui exigent beaucoup de travail.
+[11] Voici les dispositions pertinentes de la Loi et du Règlement sur les services financiers (TPS/TVH) (le « Règlement ») :
+123 (1) Définitions – Les définitions qui suivent s’appliquent à l’article 121, à la présente partie et aux annexes V à X.
+123 (1) Definitions — In section 121, this Part and Schedules V to X,
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+"commercial activity" of a person means
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+[…]
+...
+« service commercial » Service relatif à un bien meuble corporel, sauf un service d’expédition du bien fourni par un transporteur et un service financier.
+"commercial service", in respect of tangible personal property, means any service in respect of the property other than
+(a) a service of shipping the property supplied by a carrier, and
+(b) a financial service;
+« fourniture exonérée » Fourniture figurant à l’annexe V.
+"exempt supply" means a supply included in Schedule V;
+« effet financier »
+"financial instrument" means
+a) Titre de créance;
+(a) a debt security,
+b) titre de participation;
+(b) an equity security,
+c) police d’assurance;
+(c) an insurance policy,
+d) participation dans une société de personnes ou une fiducie ou droit dans une succession, ou droit y afférent;
+(d) an interest in a partnership, a trust or the estate of a deceased individual, or any right in respect of such an interest,
+e) métal précieux;
+(e) a precious metal,
+f) option ou contrat, négocié dans une bourse de commerce reconnue, pour la fourniture à terme de marchandises;
+(f) an option or a contract for the future supply of a commodity, where the option or contract is traded on a recognized commodity exchange,
+g) effet visé par règlement;
+(g) a prescribed instrument,
+h) garantie, acceptation ou indemnité visant un effet visé à l’alinéa a), b), d), e) ou g);
+(h) a guarantee, an acceptance or an indemnity in respect of anything described in paragraph (a), (b), (d), (e) or (g), or
+i) option ou contrat pour la fourniture à terme d’argent ou d’un effet visé à l’un des alinéas a) à h).
+(i) an option or a contract for the future supply of money or anything described in any of paragraphs (a) to (h);
+« service financier »
+"financial service" means
+a) L’échange, le paiement, l’émission, la réception ou le transfert d’argent, réalisé au moyen d’échange de monnaie, d’opération de crédit ou de débit d’un compte ou autrement;
+(a) the exchange, payment, issue, receipt or transfer of money, whether effected by the exchange of currency, by crediting or debiting accounts or otherwise,
+b) la tenue d’un compte d’épargne, de chèques, de dépôt, de prêts, d’achats à crédit ou autre;
+(b) the operation or maintenance of a savings, chequing, deposit, loan, charge or other account,
+c) le prêt ou l’emprunt d’un effet financier;
+(c) the lending or borrowing of a financial instrument,
+d) l’émission, l’octroi, l’attribution, l’acceptation, l’endossement, le renouvellement, le traitement, la modification, le transfert de propriété ou le remboursement d’un effet financier;
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument
+e) l’offre, la modification, la remise ou la réception d’une garantie, d’une acceptation ou d’une indemnité visant un effet financier;
+(e) the provision, variation, release or receipt of a guarantee, an acceptance or an indemnity in respect of a financial instrument,
+f) le paiement ou la réception d’argent à titre de dividendes sauf les ristournes, d’intérêts, de principal ou d’avantages, ou tout paiement ou réception d’argent semblable, relativement à un effet financier;
+(f) the payment or receipt of money as dividends (other than patronage dividends), interest, principal, benefits or any similar payment or receipt of money in respect of a financial instrument,
+f.1) le paiement ou la réception d’un montant en règlement total ou partiel d’une réclamation découlant d’une police d’assurance;
+(f.1) the payment or receipt of an amount in full or partial satisfaction of a claim arising under an insurance policy,
+g) l’octroi d’une avance ou de crédit ou le prêt d’argent;
+(g) the making of any advance, the granting of any credit or the lending of money,
+h) la souscription d’un effet financier;
+(h) the underwriting of a financial instrument,
+i) un service rendu en conformité avec les modalités d’une convention portant sur le paiement de montants visés par une pièce justificative de carte de crédit ou de paiement;
+(i) any service provided pursuant to the terms and conditions of any agreement relating to payments of amounts for which a credit card voucher or charge card voucher has been issued,
+j) le service consistant à faire des enquêtes et des recommandations concernant l’indemnité accordée en règlement d’un sinistre prévu par :
+(j) the service of investigating and recommending the compensation in satisfaction of a claim where
+(i) une police d’assurance maritime,
+(i) the claim is made under a marine insurance policy, or
+(ii) une police d’assurance autre qu’une police d’assurance-accidents, d’assurance-maladie ou d’assurance-vie, dans le cas où le service est fourni :
+(ii) the claim is made under an insurance policy that is not in the nature of accident and sickness or life insurance and
+(A) soit par un assureur ou une personne autorisée par permis obtenu en application de la législation d’une province à rendre un tel service,
+(A) the service is supplied by an insurer or by a person who is licensed under the laws of a province to provide such a service, or
+(B) soit à un assureur ou un groupe d’assureurs par une personne qui serait tenue d’être ainsi autorisée n’eût été le fait qu’elle en est dispensée par la législation d’une province;
+(B) the service is supplied to an insurer or a group of insurers by a person who would be required to be so licensed but for the fact that the person is relieved from that requirement under the laws of a province,
+j.1) le service consistant à remettre à un assureur ou au fournisseur du service visé à l’alinéa j) une évaluation des dommages causés à un bien ou, en cas de perte d’un bien, de sa valeur, à condition que le fournisseur de l’évaluation examine le bien ou son dernier emplacement connu avant sa perte;
+(j.1) the service of providing an insurer or a person who supplies a service referred to in paragraph (j) with an appraisal of the damage caused to property, or in the case of a loss of property, the value of the property, where the supplier of the appraisal inspects the property, or in the case of a loss of the property, the last-known place where the property was situated before the loss,
+k) une fourniture réputée par le paragraphe 150(1) ou l’article 158 être une fourniture de service financier;
+(k) any supply deemed by subsection 150(1) or section 158 to be a supply of a financial service,
+l) le fait de consentir à effectuer un service visé à l’un des alinéas a) à i) ou de prendre les mesures en vue de l’effectuer;
+(l) the agreeing to provide, or the arranging for, a service referred to in any of paragraphs (a) to (i), or
+m) un service visé par règlement.
+(m) a prescribed service,
+La présente définition exclut :
+but does not include
+n) le paiement ou la réception d’argent en contrepartie de la fourniture d’un bien autre qu’un effet financier ou d’un service autre qu’un service financier;
+(n) the payment or receipt of money as consideration for the supply of property other than a financial instrument or of a service other than a financial service,
+o) le paiement ou la réception d’argent en règlement d’une réclamation (sauf une réclamation en vertu d’une police d’assurance) en vertu d’une garantie ou d’un accord semblable visant un bien autre qu’un effet financier ou un service autre qu’un service financier;
+(o) the payment or receipt of money in settlement of a claim (other than a claim under an insurance policy) under a warranty, guarantee or similar arrangement in respect of property other than a financial instrument or a service other than a financial service,
+p) les services de conseil, sauf un service visé aux alinéas j) ou j.1);
+(p) the service of providing advice, other than a service included in this definition because of paragraph (j) or (j.1),
+q) l’un des services suivants rendus soit à un régime de placement, au sens du paragraphe 149(5), soit à une personne morale, à une société de personnes ou à une fiducie dont l’activité principale consiste à investir des fonds, si le fournisseur est une personne qui rend des services de gestion ou d’administration au régime, à la personne morale, à la société de personnes ou à la fiducie :
+(q) the provision, to an investment plan (as defined in subsection 149(5)) or any corporation, partnership or trust whose principal activity is the investing of funds, of
+(i) un service de gestion ou d’administration,
+(i) a management or administrative service, or
+(ii) tout autre service (sauf un service prévu par règlement);
+(ii) any other service (other than a prescribed service),
+if the supplier is a person who provides management or administrative services to the investment plan, corporation, partnership or trust,
+r) les services professionnels rendus par un comptable, un actuaire, un avocat ou un notaire dans l’exercice de sa profession;
+(r) a professional service provided by an accountant, actuary, lawyer or notary in the course of a professional practice,
+r.1) le fait de prendre des mesures en vue du transfert de la propriété des parts du capital social d’une coopérative d’habitation;
+(r.1) the arranging for the transfer of ownership of shares of a cooperative housing corporation,
+s) les services dont la fourniture est réputée taxable aux termes de la présente partie;
+(s) any service the supply of which is deemed under this Part to be a taxable supply, or
+t) les services visés par règlement.
+(t) a prescribed service.
+Règlement sur les services financiers (TPS/TVH), DORS/91-26, modifié par DORS/93-242 et DORS/2001-61
+Financial Services(GST/HST) Regulations, SOR/91-26, as amended by SOR/2001-61
+4 (1) Les définitions qui suivent s’appliquent au présent article.
+4. (1) In this section,
+« effet » Argent, compte, pièce justificative de carte de crédit ou de paiement, ou effet financier.
+"instrument" means money, an account, a credit card voucher, a charge card voucher or a financial instrument;
+« personne à risque » Personne exposée à un risque financier du fait de la propriété, de l’acquisition ou de l’émission par la personne d’un effet à l’égard duquel un service mentionné au paragraphe (2) est offert, ou à cause d’une garantie, d’une acceptation ou d’une indemnité se rapportant à l’effet, à l’exclusion de la personne qui s’expose à un tel risque dans le cadre et du seul fait de l’autorisation d’une opération relative à l’effet ou de la fourniture d’un service de compensation ou de règlement relativement à l’effet.
+"person at risk", in respect of an instrument in relation to which a service referred to in subsection (2) is provided, means a person who is financially at risk by virtue of the acquisition, ownership or issuance by that person of the instrument or by virtue of a guarantee, an acceptance or an indemnity in respect of the instrument, but does not include a person who becomes so at risk in the course of, and only by virtue of, authorizing a transaction, or supplying a clearing or settlement service, in respect of the instrument.
+(2) Sous réserve du paragraphe (3), pour l’application de l’alinéa t) de la définition de « service financier », au paragraphe 123(1) de la Loi, sont visés les services suivants, sauf ceux mentionnés à l’article 3 :
+(2) Subject to subsection (3), the following services, other than a service described in section 3, are prescribed for the purposes of paragraph (t) of the definition "financial service" in subsection 123(1) of the Act:
+a) la communication, la collecte ou le traitement de renseignements;
+(a) the transfer, collection or processing of information, and
+b) les services administratifs, y compris ceux reliés au paiement ou au recouvrement de dividendes, d’intérêts, de capital, de créances, d’avantages ou d’autres montants, à l’exclusion des services ne portant que sur le paiement ou le recouvrement.
+(b) any administrative service, including an administrative service in relation to the payment or receipt of dividends, interest, principal, claims, benefits or other amounts, other than solely the making of the payment or the taking of the receipt.
+(3) Pour l’application de l’alinéa t) de la définition de « service financier », au paragraphe 123(1) de la Loi, ne sont pas visés les services mentionnés au paragraphe (2) et fournis relativement à un effet par :
+(3) A service referred to in subsection (2) is not a prescribed service for the purposes of paragraph (t) of the definition “financial service” in subsection 123(1) of the Act where the service is supplied with respect to an instrument by
+a) la personne à risque;
+(a) a person at risk,
+b) la personne étroitement liée à la personne à risque, si l’acquéreur du service n’est ni la personne à risque, ni une autre personne étroitement liée à celle-ci;
+(b) a person that is closely related to a person at risk, where the recipient of the service is not the person at risk or another person closely related to the person at risk, or
+c) le mandataire, le vendeur ou le courtier qui prend des mesures en vue de l’émission, du renouvellement, de la modification ou du transfert de propriété de l’effet pour le compte de la personne à risque ou d’une personne étroitement liée à celle-ci.
+(c) an agent, salesperson or broker who arranges for the issuance, renewal or variation, or the transfer of ownership, of the instrument for a person at risk or a person closely related to the person at risk.
+[12] Avant de me pencher sur la question en litige en l’espèce, je tenterai de résumer les modalités d’application de la définition de l'expression « service financier » figurant au paragraphe 123(1) de la Loi.
+[13] Pour qu’une fourniture puisse être considérée comme un service financier, elle doit correspondre à l’un des services visés par les alinéas a) à m) de la définition de « service financier ». Lorsqu’il est établi que la fourniture correspond à l’un de ces services, il faut déterminer si l’un des alinéas n) à t) exclut la fourniture de la définition de l'expression « service financier ».
+[14] L’alinéa t) de la définition prévoit qu’un service qui est, de prime abord, un service financier est exclu de la définition s’il fait partie des « services visés par règlement ». L’alinéa 4(2)b) du Règlement prévoit que « les services administratifs […] à l’exclusion des services ne portant que sur le paiement ou le recouvrement » de l’un ou l’autre des montants qui y sont énumérés sont des services visés par règlement. Par conséquent, si la fourniture réunit les conditions nécessaires pour être considérée comme un service administratif, elle n’est pas un service financier et elle est donc taxable.
+[15] Il y a cependant plusieurs exceptions à l’exclusion qui ont pour effet d’inclure à nouveau la fourniture dans la définition de l'expression « service financier ». L’exception pertinente pour les besoins de la présente affaire figure elle aussi à l’alinéa 4(2)b) du Règlement et il s’agit du passage suivant : « à l’exclusion des services ne portant que sur le paiement ou le recouvrement ». Par conséquent, si la fourniture consiste en un service administratif « ne portant que sur le paiement ou le recouvrement », elle répond aux critères nécessaires pour être considérée comme un service financier.
+[16] L’appelante avance que les fournitures effectuées par les agences de recouvrement constituent un « service financier » au sens des alinéas a), d), f) et l) de la définition de « service financier » figurant au paragraphe 123(1) de la Loi, à savoir :
+a) « […] le paiement […], la réception ou le transfert d’argent, réalisé au moyen […] d’opération de crédit ou de débit d’un compte ou autrement »;
+d) « […] la modification […] ou le remboursement d’un effet financier »;
+f) « le paiement ou la réception d’argent à titre […] d’intérêts, de principal […] ou tout paiement ou réception d’argent semblable, relativement à un effet financier »;
+l) le fait de « prendre les mesures en vue » d’effectuer un service visé à l’un des alinéas a), d) et f);
+[17] Des exemples de services visés par l’alinéa a) de la définition comprennent l’encaissement de chèques, l’échange de monnaie et d’argent et les simples opérations de crédit et de débit de comptes (voir Elgin Mills Leslie Holdings Ltd. v. Canada, [2000] G.S.T.C. 8 (C.C.I.) et Drug Trading Co. v. R., [2001] G.S.T.C. 48, 2001 G.T.C. 382 (C.C.I.)). Dans le contexte factuel en l’espèce, les agences de recouvrement font beaucoup plus que de simples opérations de crédit et de débit de comptes. Elles ne fournissent pas les mêmes services qu’une institution financière qui fournit des services de cartes de débit ou de crédit. Les services que fournissent les agences de recouvrement comprennent le dépistage de débiteurs défaillants, la communication avec eux et la prise de mesures pour amener ces personnes à rembourser leurs dettes. La fourniture (le service) qu’elles effectuent consiste en la mise en œuvre de leurs capacités et de leurs habiletés en matière de recouvrement de créances ou d’obtention de paiements.
+[18] L’alinéa d) s’applique habituellement aux opérations portant sur des effets financiers, comme les opérations qu’effectuent les courtiers ou les opérations d’affacturage. En l’espèce, il est impossible d’affirmer qu’un effet financier est modifié lorsque l’agence de recouvrement conclut une entente en vue du paiement de la dette ou accepte un paiement partiel. Les agences de recouvrement sont embauchées pour recouvrer le montant intégral qui est dû à la banque et ne peuvent négocier un paiement partiel ou conclure une entente en vue du paiement de la dette que si elles sont incapables de recouvrer le montant intégral. Si le débiteur ne respecte pas les engagements qu’il a pris dans le cadre de l’entente négociée, le montant intégral est toujours recouvrable. À mon avis, une telle entente ne constitue pas une modification d’un effet financier. Par ailleurs, ce sont les débiteurs et non les agences de recouvrement qui remboursent les effets financiers.
+[19] L’opinion suivante, tirée des interprétations en matière de TPS/TVH 11590‑5 et 11590‑2 datées du 19 novembre 2002 portant sur le statut aux fins de la TPS des agences de recouvrement qui sont des tiers, est très utile pour nous aider à mieux comprendre le sens de l’expression « prendre les mesures en vue de » en ce qui concerne les alinéas a) à i) de la définition de l'expression « service financier » figurant au paragraphe 123(1) de la Loi.
+[traduction]
+La Banque allègue que l’agence ou l’entreprise de recouvrement « prend les mesures en vue de » fournir l’un des services financiers visés par les alinéas a) à i), en application de l’alinéa l) de la définition de « service financier » figurant au paragraphe 123(1) de la LTA. Selon nous, l’agence ou l’entreprise de recouvrement ne « prend pas les mesures en vue » d’effectuer la fourniture de l’un des services financiers visés par les alinéas a) à i) de la définition de « service financier » figurant au paragraphe 123(1) de la LTA.
+Des précisions sur l’expression « prendre les mesures en vue de l’effectuer » sont données dans notre énoncé de politique sur la TPS/TVH P-239, Signification de l’expression « prendre les mesures en vue de l’effectuer » que l’on trouve dans la définition de « service financier » en ces termes :
+En règle générale, on peut décrire un service consistant à « prendre les mesures en vue de l’effectuer » comme les activités d’un ou de plusieurs intermédiaires qui consistent à rassembler, d’une manière active, deux personnes (ou plus) en vue de la fourniture d’un service financier d’une personne à une autre. Les activités de l’intermédiaire doivent comporter un lien clair avec la fourniture du service financier. La question de savoir si le service de l’intermédiaire peut être considéré comme un service consistant à prendre les mesures en vue d’effectuer la fourniture d’un service financier est une question de fait qui dépend du degré d’engagement de l’intermédiaire dans chaque cas particulier.
+En l’espèce, l’émission du « titre de créance » (la fourniture du service financier) a déjà eu lieu. L’agence ou l’entreprise ne rassemble donc pas le prêteur et le débiteur en vue de faciliter la fourniture du service financier. Le recouvrement de la dette attestée par le « titre de créance » ne donne pas lieu à la fourniture d’un nouvel effet financier, mais constitue plutôt un service administratif taxable qui facilite le recouvrement des comptes en souffrance. Les exemples mentionnés dans la politique P-239 ci-dessus, qui porte sur la signification de l’expression « prendre les mesures en vue de l’effectuer », se rapportent à des situations où la personne qui « prend les mesures en vue » de fournir le service participe à la fourniture d’un service financier, notamment la conclusion d’un contrat de prêts, l’émission d’actions ou le traitement d’une demande de carte de crédit. Ces exemples montrent que, pour répondre à l’exigence de l’alinéa l) de la définition de « service financier » figurant au paragraphe 123(1) de la LTA, l’intermédiaire doit participer à la fourniture du service financier. L’agence ou l’entreprise de recouvrement ne « prend [pas] les mesures en vue » d’effectuer la fourniture d’un « titre de créance » étant donné que le lien entre le débiteur et la banque existe déjà.
+[20] Pour les motifs ci‑dessus, je ne peux conclure que les services fournis par les agences de recouvrement en l’espèce peuvent être considérés comme étant un « service financier » au sens de l’un des alinéas a) à m) de la définition de cette expression figurant au paragraphe 123(1) de la Loi.
+[21] J’accepte l’argument de l’intimée selon lequel il y a lieu d’établir une distinction entre la fourniture effectuée par les agences de recouvrement et les services décrits dans la définition de « service financier » aussi bien sur le plan du mode de fourniture des services en question que sur le plan de la réglementation de ceux-ci. Par conséquent, la fourniture d’un service de recouvrement d’une dette est taxable, même s’il y a un certain chevauchement entre les caractéristiques de ce genre de service et celles figurant dans la définition large de « service financier ». Comme l’intimée l’a allégué, l’élément dominant de la fourniture effectuée par les agences de recouvrement en l’espèce est la fourniture d’un service de recouvrement des dettes, et ce genre de service se distingue suffisamment de ses éléments constitutifs pour pouvoir devenir une fourniture distincte dont les caractéristiques diffèrent de ses composantes (voir W. T. Hawkins Ltd. v. Deputy Minister of National Revenue for Customs and Excise, [1958] Ex. C.R. 152). Dans l’affaire Hawkins, l’appelant vendait un produit composé de trois ingrédients exonérés de la taxe de vente. La Cour a statué que le produit en question était complètement nouveau, son apparence, sa forme et sa fonction se distinguant des trois ingrédients originaux. Elle a donc conclu que le nouveau produit ne pouvait pas être exonéré de la taxe de vente. Dans le même ordre d’idées, en l’espèce, le service de recouvrement des dettes n’est pas un service financier et est donc taxable.
+[22] Je crois que même si j’étais d’accord avec l’appelante sur le fait que la fourniture effectuée par les agences de recouvrement était un service financier au sens de l’un des alinéas a) à m) de la définition de « service financier » figurant au paragraphe 123(1) de la Loi, les services seraient exclus de la définition par l’alinéa t) étant donné qu’ils sont des services visés par règlement.
+[23] L’appelante a avancé que le paragraphe 4(2) du Règlement n’exclut pas les services fournis par les agences de recouvrement de la définition de « service financier » pour l’une ou l’autre des deux raisons suivantes : en premier lieu, l’appelante a fait valoir que la fourniture effectuée par les agences de recouvrement ne constitue pas un service administratif; en deuxième lieu, elle a soutenu que, même si le service fourni est un service administratif, il s’agit d’un service « ne portant que sur le paiement ou le recouvrement ».
+[24] L’appelante a avancé dans son argumentation qu’il y a une distinction à faire entre les services de gestion et les services administratifs. Selon elle, les services administratifs se limitent aux services de bureau et au soutien administratif, tandis que les services de gestion comprennent la prise de décisions et l’exercice de jugement. Elle estime que le fait que les agences de recouvrement ont le pouvoir de régler des comptes, de réduire le montant du principal et des intérêts exigibles ou de renégocier des ententes de paiement montre que ces agences fournissent plus que de simples services administratifs.
+[25] Toutefois, l’appelante ne tient pas compte du fait que, même s’il y a une distinction à faire entre les services administratifs et les services de gestion, les agences de recouvrement ne fournissent que des services administratifs.
+[26] La preuve révèle que les principales fonctions des agences de recouvrement sont de vérifier ou d’obtenir les coordonnées du débiteur, d’envoyer des lettres indiquant au débiteur que son compte a été attribué à une agence de recouvrement, d’appeler le débiteur et de lui écrire jusqu’à ce qu’elles parviennent à lui parler, de convaincre le débiteur de faire des paiements pour rembourser sa dette, d’effectuer des évaluations de la capacité financière et de faire des recommandations au sujet du règlement des dettes qui s'inscrit à l'extérieur du cadre des lignes directrices des contrats qu’elles ont avec la CIBC. Elles tiennent également compte des intérêts courus sur les dettes, font un suivi du respect des ententes de paiement pour s’assurer que les paiements sont bel et bien faits, fournissent des rapports hebdomadaires des recouvrements à la CIBC, exploitent et entretiennent des systèmes d’accès pour que la CIBC puisse faire un contrôle à distance de l’état des comptes et intentent des poursuites en justice avec le consentement de la CIBC.
+[27] Les agences de recouvrement mettent donc en œuvre les décisions de gestion prises par le service des recouvrements, du soutien et de la gestion de portefeuille de la CIBC. Toute décision que les agences de recouvrement prennent dans le cadre de leurs fonctions de recouvrement est liée au service de recouvrement et ne constitue pas une décision de gestion. Le service de recouvrement demeure un service administratif.
+[28] Par conséquent, à mon avis, les services fournis par les agences de recouvrement sont des services de nature administrative. Toutefois, les observations de l’appelante et de l’intimée diffèrent sur la question de savoir si l’exception « à l’exclusion des services ne portant que sur le paiement ou le recouvrement » s’applique en l’espèce pour exclure les services des agences de recouvrement de la définition de « services visés par règlement ».
+[29] Il convient de signaler qu’il y a une différence entre la version française et la version anglaise de l’alinéa 4(2)b) du Règlement :
+b) « les services administratifs […] à l'exclusion des services ne portant que sur le paiement ou le recouvrement. »
+(b) any administrative service […] other than solely the making of the payment or the taking of the receipt.
+[Non souligné dans l’original.]
+[30] L’appelante avance que, même si les services de recouvrement sont des services administratifs, ils sont visés par l’expression « ne portant que sur le paiement ou le recouvrement », principalement parce que, dans la version française de la disposition, le législateur a utilisé le terme « recouvrement ». Cependant, dans la version anglaise de la disposition, c’est le terme « receipt » (réception) qui est utilisé. Étant donné qu’il semble y avoir une différence de sens entre les deux versions de la disposition, il faut tenir compte des principes d’interprétation des lois bilingues.
+[31] La Cour suprême du Canada s’est récemment penchée sur les principes d’interprétation des lois bilingues dans plusieurs litiges. Plus particulièrement, dans l’arrêt Medovarski c. Canada (Ministre de la Citoyenneté et de l’Immigration), 2005 CSC 51, aux paragraphes 24 à 26, la Cour a dit ce qui suit :
+24 Pour interpréter les lois bilingues, il faut en premier lieu rechercher le sens qui est commun aux deux versions : P.-A. Côté, Interprétation des lois (3e éd. 2000), p. 413. Dans l’arrêt Daoust, le juge Bastarache a statué au nom de la Cour que l’interprétation des lois bilingues comporte deux étapes.
+25 Premièrement, il faut appliquer les règles d’interprétation législative pour déterminer s’il y a apparence d’antinomie et, dans l’affirmative, s’il y a un sens commun aux versions française et anglaise. « [L]orsqu’une des deux versions possède un sens plus large que l’autre, le sens commun aux deux favorise le sens le plus restreint ou limité » : Schreiber, par. 56, le juge LeBel. […]
+En raison de la divergence entre les deux dispositions, la Cour a adopté la version française qui était plus claire et restrictive. Le sens commun aux deux versions est celui du texte qui est clair et non ambigu. Si aucune des deux versions n’est ambiguë, ou si elles le sont toutes les deux, le sens commun est normalement celui du texte ayant le sens le plus restreint : Daoust, par. 28-29.
+26 Deuxièmement, il faut déterminer si le sens commun est compatible avec l’intention du législateur : Daoust, par. 30.
+[32] Lorsqu’il s’agit d’interpréter des lois bilingues, il faut rechercher le sens commun aux deux versions pour éliminer toute ambiguïté. Le sens commun est normalement celui du texte ayant le sens le plus restreint.
+[33] En l’espèce, le terme « receipt » est utilisé dans la version anglaise du paragraphe 4(2) du Règlement, tandis que le terme « recouvrement » est utilisé dans la version française de la même disposition. Ainsi, le sens du terme « receipt » se limite au fait ou au processus de recevoir de l’argent, tandis que le sens du terme « recouvrement » comprend non seulement la réception de l’argent, mais aussi le processus de recouvrement de l’argent dû. Le sens du texte de la version anglaise est plus restreint que celui de la version française et il établit donc le sens commun. Par conséquent, l’activité qui doit demeurer exonérée de la taxe est le paiement ou la réception de l’argent (« the making of the payment or the taking of the receipt » en anglais), et non le recouvrement de l’argent.
+[34] L’appelante a soumis à l’examen de la Cour la récente décision Banque Royale du Canada c. Sa Majesté la Reine, 2005 CCI 802, en alléguant que celle-ci appuie sa position. Dans ce jugement, la Cour a conclu que la fourniture effectuée par la Banque Royale du Canada était la prise de mesures pour la distribution de fonds communs de placement, que le service à la clientèle était un élément accessoire à cette fourniture et, par conséquent, que les services de succursale ne constituaient pas un service administratif au sens de l’article 4 du Règlement.
+[35] En l’espèce, aucun élément de preuve n’appuie une conclusion selon laquelle les agences de recouvrement exerçaient des fonctions non administratives touchant les activités commerciales de la CIBC. Au contraire, la preuve montre que la CIBC avait une structure de gestion complexe et que les agences de recouvrement exécutaient leurs tâches en fonction de paramètres bien définis et rigoureusement contrôlés. Gérer une entreprise consiste principalement à pouvoir contrôler la façon dont elle est exploitée, et les agences de recouvrement n’avaient aucun mot à dire au sujet de la façon dont la CIBC exerçait ses activités commerciales.
+[36] En conclusion, je suis d’avis que les services fournis par les agences de recouvrement ne constituent pas un « service financier » au sens de l’un ou l’autre des alinéas a) à m) de la définition de cette expression figurant au paragraphe 123(1) de la Loi. Toutefois, même si je concluais que les services en question constituent un service financier au sens de l’un de ces alinéas, ceux-ci seraient exclus de la définition par l’alinéa t) étant donné qu’ils constituent des services visés par règlement. De plus, aucune des exceptions à l’exclusion figurant à l’alinéa 4(2)b) et au paragraphe 4(3) du Règlement ne s’applique en l’espèce. Les services fournis à l’appelante sont donc des fournitures taxables. Par conséquent, aucune taxe n’a été versée par erreur.
+[37] L’intimée a informé la Cour du fait que, le 22 juin 2006, le projet de loi C-13 a reçu la sanction royale en tant que L.C. 2006, ch. 4. L’article 136 du ch. 4 modifie la définition de « service financier » de façon à en exclure expressément les services de recouvrement des créances. L’intimée croit que la décision en l’espèce devrait être rendue en fonction de ce texte législatif. Toutefois, celui-ci ne change pas la loi, mais donne plutôt une précision sur l'état du droit avant les modifications. La décision est donc fondée sur la loi qui était en vigueur au moment où les opérations ont eu lieu et il n’est pas nécessaire de rouvrir l’audience ou de décider si les modifications s’appliquent de façon rétroactive.
+[38] Par conséquent, l’appel est rejeté avec dépens.
+Signé à Edmundston (Nouveau‑Brunswick), ce 20e jour de juillet 2006.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 13e jour de décembre 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2006CCI336
+NO DU DOSSIER : 2004-1427(GST)G
+INTITULÉ : La Banque Canadienne Impériale de Commerce et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 30 novembre 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 20 juillet 2006
+COMPARUTIONS :
+Avocats de l’appelante :
+Mes Jacques Bernier et
+Avocats de l’intimée :
+Martin Sorensen
+Mes Richard Gobeil et
+Michael Ezri
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Jacques Bernier et Martin Sorensen
+Cabinet : Bennett Jones LLP
+Toronto (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

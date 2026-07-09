@@ -1,0 +1,245 @@
+---
+title: "Hauser v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27874/index.do"
+last_modified: "2005-08-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 492"
+citation2: ""
+neutral_citation: "2005 TCC 492"
+decision_date: "2005-08-05"
+language: "en"
+item_id: "27874"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 350
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:29:31.949000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6efbdb9f1c13977aa3db654ed8d94456f17e845599acb18f6680d679616ca80c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hauser v. The Queen
+
+- Citation: 2005 TCC 492
+- Decision date: 2005-08-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 350, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hauser v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-05
+Neutral citation
+2005 TCC 492
+File numbers
+2003-3271(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3271(IT)G
+BETWEEN:
+RAY HAUSER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 21, 22 and 23, 2005 at Ottawa, Ontario
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellant:
+Emilio Binavince and
+Michael Eng
+Counsel for the Respondent:
+Ernest Wheeler and
+Steven Leckie
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for 1997, 1998, 1999, 2000 and 2001 taxation years are dismissed with costs.
+Signed at Ottawa, Canada this 5th day of August, 2005.
+“Gerald J. Rip”
+Rip J.
+Citation: 2005TCC492
+Date: 20050805
+Docket: 2003-3271(IT)G
+BETWEEN:
+RAY HAUSER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip J.
+[1] Ray Hauser has appealed income tax assessments for 1997, 1998, 1999, 2000 and 2001 in which the Minister of National Revenue assessed tax on the basis that Mr. Hauser was a resident of Canada[1]. Mr. Hauser says that since August 1, 1997, when he left Canada, he has been a resident of the Bahamas. Mr. Hauser also questioned the method to be used in calculating his Canadian income tax in the event that I find he was not a resident of Canada.
+[2] During trial, respondent's counsel acknowledged that Mr. Hauser resided in the Bahamas during the periods in appeal[2]. However, counsel declared, he was also a resident of Canada at the same time. The respondent also stated that, in any event, Mr. Hauser is deemed to have been a resident of Canada in 1997 and 1999 pursuant to paragraph 250(1)(a) of the Income Tax Act ("Act"), having sojourned for more than 183 days in Canada in each of 1997 and 1999[3]. The Minister does not allege that according to paragraph 250(1)(a), Mr. Hauser is deemed to have resided in Canada in 1998, 2000 and 2001.
+[3] At all relevant times Mr. Hauser, a Canadian citizen, was a pilot with Air Canada. He was licensed as a pilot with Transport Canada and belonged to a Canadian chapter of an international pilot's union. His work base was Pearson International Airport in Toronto.
+[4] During the period 1992 to 1995 Mr. Hauser worked in Florida as an Airbus flight instructor for Air Canada. His family resided with him in Florida. He had a visa permitting him to work in the United States. Before starting this posting he sold his home in Cambridge, Ontario.
+[5] Mr. Hauser returned to Canada in 1996. He rented an apartment in Cambridge, Ontario. He was now divorced. He complained that he did not like the Canadian winters, they were "too hard", and he could live anywhere in the world he wanted. He stated that 70 per cent of Air Canada pilots live outside of Canada and commute to work.
+[6] Mr. Hauser "liked the south". He could not reside in the United States because he did not have a green card.[4] He explored some southern areas where he could live and decided to move to Freeport in the Bahamas. In August 1996, he wrote to Bahamian immigration authorities for a permit to reside in the Bahamas and he received permission in April 1997. He gave notice to his landlord on May 27, 1997 that he would vacate the Cambridge apartment and would move out of the building on July 31, 1997.
+[7] In April 1997, Mr. Hauser remarried. His wife, who was employed by the Ontario government at the time of the marriage, "understood that we would live in the Bahamas". In June, the Hausers visited the Bahamas to rent or buy a house. He did not have enough money to buy so he rented a townhouse which was fully equipped with furniture, cutlery, cooking utensils, etc. The lease contained an option to purchase the townhouse. Mr. and Mrs. Hauser left Canada on or about July 27, 1997. They lived in the townhouse in Freeport for three or four months and then moved to another townhouse for lower rent.
+[8] Upon leaving Canada, Mr. Hauser sent his boat to West Palm Beach, Florida to be fitted for salt water and then sailed the boat to Freeport. He wrote to the Ontario Health Insurance Plan ("OHIP") authorities to cancel his coverage since he was "moving out of the country". I note the letter contained only his name; he did not refer to his OHIP number and did not send his OHIP card to the authorities. OHIP took no action. He sent a second letter to OHIP on November 28, 1997 asking that his coverage be cancelled since he has "been living in the Bahamas since August 1, 1997 and [had] secured out of country insurance". Again, there was no response from OHIP notwithstanding that both letters were delivered personally by Mr. Hauser to OHIP's Kitchener office. Mrs. Hauser's OHIP was cancelled; her letter to OHIP of December 7, 1997 cancelling her OHIP coverage referred to her OHIP number.
+[9] Mr. Hauser purchased a 1986 Honda Prelude automobile in Cambridge on July 9, 1997. He drove the car to Fort Lauderdale and then shipped it to Freeport, paying the required duty to the Bahamian authorities. The automobile was insured and registered in the Bahamas.
+[10] The Hausers shipped their household goods to the Bahamas. These included clothing, stereo, golf clubs, "anything used on a daily basis" but not furniture. The Cambridge apartment had "minimal furniture", Mr. Hauser said, because he thought he would be moving when he returned to Canada in 1996. Some of his and his wife's belongings were put in storage in Cambridge.
+[11] As he was required to do, Mr. Hauser also advised Air Canada of his new residence in the Bahamas. On October 15, 1997 Mr. Hauser wrote a "To Whom It May Concern" letter describing his application for immigration to the Bahamas, the renting of a townhouse in Freeport, the licensing and insurance of his automobile in the Bahamas, the shipping of personal effects to Freeport, the delivery of his boat to Freeport, the cancellation of OHIP and Canadian bank accounts, although he maintained a joint account with his wife at the Royal Bank, as evidence that he "made every effort to establish ourselves out of country". The letter does not provide for an addressee, but Mr. Hauser testified the letter was sent to the Canada Customs and Revenue Agency. The letter does not indicate Mr. Hauser's social insurance number or his previous address in Canada.
+[12] Mr. Hauser opened a bank account at Barclay's Bank in Freeport with the intention of paying his rent and other charges by cheque. However, he said, he found the banking fees high and soon realized that transactions in the Bahamas are in cash. He paid his rent, his utilities, including internet, in cash. He obtained cash in Miami, Fort Lauderdale and Toronto on his flights to or from these cities. He allowed the Barclay's bank account to "lapse", although it was still "open" in January 1999.
+[13] Even after Mr. and Mrs. Hauser left Canada on July 29, 1997 they soon returned. He returned on August 3 because his work required him to be in Canada. Mrs. Hauser was in Canada on September 28 until October 5, 1997 and again later on in the year.
+[14] In any event, Mr. Hauser was in Canada in 1997 for 16 days in August, nine days in September, 24 days in October, 23 days in November and 27 days in December, a total of 99 days out of a possible 152 days. Mr. Hauser was in Canada primarily because his work required him to be in Canada.
+[15] In 1998 Mr. Hauser was in Canada for 215 days, in 2000, he was in Canada for 184 days and in 2001 he was in Canada for 142 days. He and Mrs. Hauser spent Christmas holidays in Canada. Mrs. Hauser accompanied him to Canada at other times as well.
+[16] The Hausers did have a joint bank account with the Royal Bank of Canada in Cambridge; this account was not closed. The Hausers' address on the bank account and on cheques was Mrs. Hauser's mother’s address in Cambridge. Mr. Hauser's salary from Air Canada was deposited directly into this bank account. From time to time the Hausers made cheques payable to Mrs. Hauser's mother from the joint bank account. The cheques were not for rent, Mrs. Hauser said, but to help her mother out. Apparently her mother had a problem controlling her personal expenses and was always short of money.
+[17] The Royal Bank account was also used by the Hausers in 1997 after July 31 to pay sundry persons, including Bell Canada, Sears, Visa and Diners Club. Mr. Hauser also paid alimony to his former wife out of this account; some alimony cheques were signed by Mr. Hauser, others by Mrs. Hauser. Mr. Hauser stated he required a pager or a cell telephone when he was on reserve and that is the reason cheques may have been made to Bell Canada. Several credit cards in Mr. Hauser's name had a balance outstanding and were paid from the Royal Bank account. Cheques signed by Mrs. Hauser were made payable to the Cambridge Medical Centre and to the Guelph General Hospital as payments for professional services.
+[18] The Hausers continued making payments out of the Royal Bank account in 1999. Cheques included at least nine payments of $225 to Mrs. Hauser’s mother. Payments were also made to Mrs. Hauser's son out of this account. A Cambridge optometrist was also paid from this account.
+[19] Mrs. Hauser testified that since her husband was away from home most of the time, it was she who wrote most of the cheques on the Royal Bank account. She had a cheque book in Freeport and would write cheques to Mr. Hauser's former wife and to her mother if Mr. Hauser was not at home. She also could have written, she said, cheques to Bell Canada for her mother.
+[20] In 1998 the Hausers continued to draw cheques on the Royal Bank account for payment of credit card debts, telephone companies as well as to Mrs. Hauser's mother. Car payments, magazine subscriptions, dental and medical expenses and physiotherapy accounts were paid out of the Royal Bank account.
+[21] The Hausers intended that their social life be centred in the Bahamas. Mrs. Hauser recalled that after setting up a "home in Freeport", she started to build social relationships with families of other Air Canada pilots residing in the area. In September 1997 the Hausers "checked out golf clubs and restaurants ... trying to find the lay of the land". They joined a local yacht club and library.
+[22] Before Mr. Hauser moved to the Bahamas, he had his teeth capped in Ontario and after moving to the Bahamas would make the follow‑up visits to the dentist in Ontario. While residing in Freeport, Mrs. Hauser went to physicians in Freeport but also went to Guelph, Ontario for medical attention.
+[23] Mr. Hauser made inquiries with British Union Provident Association ("BUPA") for health coverage. According to a BUPA letter of December 18, 1997 he was a member of a group, namely Air Canada pilots living offshore, who were insured by BUPA and he was eligible for the insurance. He testified that he purchased health insurance from BUPA for himself and Mrs. Hauser.
+[24] At the end of 1997, Mr. Hauser, recalled, he had established a home in the Bahamas. He would work for two weeks and take two weeks off. He "would not linger in Canada". He was in Canada, he insisted, to fly for Air Canada.
+[25] Mr. Hauser explained that he flew 78 hours per month "seat in cockpit". The 78 hours do not include "off time" which means waiting for an airplane wherever he may be. He usually "picks up" an aircraft in Toronto or Montreal, but could also "deadhead" flying to the United Kingdom to pick up an aircraft.
+[26] The only activity he had in Canada, Mr. Hauser said, was taking his daughter to breakfast or his parents to lunch before flights. He was usually in Toronto 24 hours before he was scheduled to fly; this was a requirement of Air Canada. If he had two days between flights, he would stay in Canada rather than going to the Bahamas. He reckoned a trip between Freeport and Toronto to be 12 hours.
+[27] When in Toronto overnight, Mr. Hauser would stay at his mother‑in‑law's home or at his parents' home in Cambridge. If his wife was with him, they would stay with friends or family. Mrs. Hauser would occasionally accompany her husband on flights to Europe. She also would visit Canada to see her mother, "not to linger". Since she did not like storms, she would spend much of the hurricane season in Canada.
+[28] From August 1997 to the end of 1998 Mr. Hauser was a junior captain on reserve for long international flights. He explained that as a reserve captain one can be given two hour's notice to get an aircraft. Therefore, he had to be within two hours of Pearson International Airport. In December 1998 he moved to a smaller aircraft to become a senior captain. A senior captain is entitled to first choice of available flights; he could then spend more time in the Bahamas. Theoretically a pilot could be a senior captain of a smaller aircraft but junior captain of a large aircraft. A pilot obtains seniority as more senior pilots retire. When he was on reserve he would pass the time at his mother-in-law's apartment in Cambridge. Similarly, when he had a flight out of Pearson Airport he would spend the previous day at his mother-in-law's.
+[29] Mr. Hauser would usually sleep in the bedroom at his mother-in-law's home. His brother-in-law, William Ray, moved into the apartment a little later. Mrs. Hauser said her mother "often" slept on the couch. Her brother slept in the other bedroom. Mrs. Hauser and Mr. Ray confirmed Mr. Hauser's evidence that he kept "seasonal" clothing in the apartment as well as a uniform. When Air Canada shipped pilot's uniforms to Mr. Hauser in 1998, the clothing was addressed to him at his mother-in-law's apartment. He believed that Air Canada would not ship a uniform outside Canada.
+[30] Except for five days in Freeport, Mr. Hauser spent all of December 1999 in Canada, flying for four days and on reserve for the balance. He "could've" spent Christmas at his sister-in-law's home. He believed that he and Mrs. Hauser celebrated Christmas every year in Cambridge unless he was flying.
+[31] Mr. Hauser claims that during 1999 he carried on no activities in Canada; he was only here for work. Similarly, he said, he did nothing in Canada in 2000 and 2001. He emphasized over and over the commitment he made to reside in the Bahamas during the years in issue: out-of-Canada health insurance, annual renewals of Bahamas residence permit, Bahamas library card, etc. He joined the Bahamas Air Rescue Association, an organization that requires pilots and other to rescue people at sea. He estimated that he flew three times with the Association.
+[32] In 2000, or earlier, Mr. Hauser thought he might become manager of a real estate project in Ontario. He and others intended to purchase real estate to build town houses “as an investment”. He purchased a Honda automobile "as an investment" to permit him to drive on a regular basis to the intended property. However, the potential investors failed to secure financing and the project died. As a result, he sold the Honda.
+[33] The Honda was registered to Mr. Hauser at the address of his mother-in-law in Cambridge. He stated the address on the registration should have been "care of" his mother-in-law. Mr. Hauser had use of an older automobile to drive between Cambridge and Pearson International Airport. Mrs. Hauser had use of a Toyota Celica whenever she was in Cambridge.
+[34] Mr. Hauser's mailing address was his mother‑in‑law's address in Cambridge. He complained that it “took too long” for mail to get to the Bahamas or it would get lost. Bahamas mail was not reliable. “Anything requiring efficiency” would be sent to his mother-in-law's home. He would collect his mail when he was in Toronto.
+[35] There were no changes to the Hauser's lifestyle during the first five months of 2001. On June 27, 2001 Mr. and Mrs. Hauser executed their wills in Freeport. In June or July, Mrs. Hauser decided she wished to become a nurse and applied to study to be a respiratory therapist at Daytona Beach Community College in Daytona Beach, Florida. She was accepted for the term starting January 2002.
+[36] Unfortunately Mrs. Hauser became ill and could not attend school until August 2002. The Hauser's found a home in Daytona Beach "for whenever Karen wanted to start school". Mr. Hauser applied to renew his Florida driver's licence which he had before 1997.
+[37] Respondent's counsel produced a document in which Mr. Hauser provided information to the Canadian Imperial Bank of Commerce in North Bay for a loan to finance the real estate project. His address on this document is his mother‑in‑law's address in Cambridge. According to the form Mr. Hauser's rent was $800. Mr. Hauser said the document was prepared by a broker in North Bay. He acknowledged his signature on the form; he said he could have signed the form in blank. He did not know the reason.
+[38] Respondent's counsel also produced a letter of July 27, 1997 from Manulife Financial, the insurer of Air Canada's dental plan. Enclosed with the letter were copies of cheques paid to Mr. Hauser for dental services from April 12, 1996 to March 5, 1998. Manulife issued five cheques after August 1, 1997. Also produced were various copies of records of prescriptions issued to Mrs. Hauser by Canadian pharmacies and invoices for physiotherapy services in Canada and optician services in Canada, both before and after August 1, 1997; four invoices were issued after August 1, 1997.
+[39] Evidence was also adduced as to how many days Mr. Hauser spent in Canada during the years in appeal. Mr. Hauser produced handmade calendars for 1997, 1998, 1999, 2000, 2001, 2002, 2003 and part of 2004. Each day is colour‑coded on the calendars to indicate when Mr. Hauser was flying, when he was ill, displaced, on vacation, training, as well as other days he was in and out of Canada. The origin and destination of the flights are stated on most of the days on the calendars indicating that he was flying. Only the days are indicated, the actual hours of arrival in Canada or departure from Canada are not set out and are not before me.
+[40] In making his calculations of time spent in Canada, Mr. Hauser appears to have included only days he described as "lingering" in Canada. He did not consider the days he was compelled to be in Canada, for example, to work either as a pilot or in training, on reserve, or spending a day or more in Canada prior to flying. Mr. Hauser estimated that he spent 20 days in Canada during 1997 (after July 29), 47 days in Canada during 1998, 77 days in Canada during 1999, 93 days in Canada during 2000 and 75 days in Canada during 2001. On the other hand, the respondent considered the appellant present in Canada for a day if he spent any part of that day in Canada.
+[41] The Interpretation Act does not define the word "day". The computation of time is determined by sections 26 and 28 of the Interpretation Act. Subsections 27(2), (3) and (4) explain that:
+27. (2) Where there is a reference to a number of days, not expressed to be clear days, between two events, in calculating that number of days the day on which the first event happens is excluded and the day on which the second event happens is included.
+27. (2) Si le délai est exprimé en jours entre deux événements, sans qu'il soit précisé qu'il s'agit de jours francs, seul compte le jour où survient le second événement.
+(3) Where a time is expressed to begin or end at, on or with a specified day, or to continue to or until a specified day, the time includes that day.
+(3) Si le délai doit commencer ou se terminer un jour déterminé ou courir jusqu'à un jour déterminé, ce jour compte.
+(4) Where a time is expressed to begin after or to be from a specified day, the time does not include that day.
+(4) Si le délai suit un jour déterminé, ce jour ne compte pas.
+[42] Paragraph 250(1)(a) of the Act provides that for purposes of the Act:
+a person shall, subject to subsection (2), be deemed to have been resident in Canada throughout a taxation year if the person
+(a) sojourned in Canada in the year for a period of, or periods the total of which is, 183 days or more;
+une personne est réputée, sous réserve du paragraphe (2), avoir résidé au Canada tout au long d'une année d'imposition si :
+a) elle a séjourné au Canada au cours de l'année pendant une période ou des périodes dont l'ensemble est de 183 jours ou plus;
+[43] In Thomson v. M.N.R.[5] Estey J. explained that one "'sojourns' at a place where he unusually, casually or intermittently visits or stops".
+[44] Section 27 of the Interpretation Act provides little guidance in calculating the days Mr. Hauser was in Canada during the years in appeal or sojourned in Canada during 1997 and 1999. I have calculated the days the appellant was in Canada during each of the years in appeal. There are reported cases that consider a day to be nothing less than 24 hours[6]. However, the number of hours Mr. Hauser was in Canada on the first and last day of any period he spent in Canada is not before me. To be fair to both parties, I have not included the day, or part thereof, that Mr. Hauser entered Canada in any period; I have included the day Mr. Hauser exited Canada in any period[7]. I do not believe that it is reasonable in a situation such as this to conclude that a day is "the interval of light between two successive nights" or the time between "sunrise and sunset"[8] or "the whole of any part of a period of 24 hours from midnight to midnight"[9]. Based on the information included in his calendars I have concluded Mr. Hauser was present in Canada in each year on the following number of days:
+Year
+Days
+1997 (after July 29)
+99
+1998
+215
+1999
+113
+2000
+184
+2001
+142
+[45] The Crown admits Mr. Hauser took up residence in the Bahamas in August 1997. The Crown, however, denies that just because he became a resident of the Bahamas, he ceased to reside in Canada at the end of July 1997.
+[46] The Income Tax Act does not define the words "resident" or "reside". For example, subsection 250(3) provides that:
+In this Act, a reference to a person resident in Canada includes a person who was at the relevant time ordinarily resident in Canada.
+(3) Dans la présente loi, la mention d'une personne résidant au Canada vise aussi une personne qui, au moment considéré, résidait habituellement au Canada.
+[47] The words "resident" and "ordinarily resident" should receive the meaning ascribed to them by common usage.[10]
+[48] Paragraph 250(1)(a) of the Act deems a person to be resident of Canada throughout the taxation year if the person:
+a person shall, subject to subsection (2), be deemed to have been resident in Canada throughout a taxation year if the person
+(a) sojourned in Canada in the year for a period of, or periods the total of which is, 183 days or more;
+une personne est réputée, sous réserve du paragraphe (2), avoir résidé au Canada tout au long d'une année d'imposition si :
+a) elle a séjourné au Canada au cours de l'année pendant une période ou des périodes dont l'ensemble est de 183 jours ou plus;
+[49] Paragraph 250(1)(a) need not be considered in these reasons unless I find that Mr. Hauser did not otherwise reside in Canada in any of the relevant years.
+[50] The issue in these appeals, it may be well to repeat, is not whether Mr. Hauser was resident or even ordinarily resident in the Bahamas in 1997, 1998, 1999, 2000 and 2001. The Crown has admitted that he was. The evidence before me confirms that he resided in the Bahamas during this period. The issue, of course, is whether Mr. Hauser was resident in Canada as well as in the Bahamas in the years in appeal.
+[51] In Thomson v. M.N.R., Rand J. explained, that:
+... in the different situations of so-called "permanent residence", "temporary residence", "ordinary residence", "principal residence" and the like, the adjectives do not affect the fact that there is in all cases residence; and that quality is chiefly a matter of the degree to which a person in mind and fact settles into or maintains or centralizes his ordinary mode of living with its accessories in social relations, interests and conveniences at or in the place in question. It may be limited in time from the outset, or it may be indefinite, or so far as it is thought of, unlimited. On the lower level, the expressions involving residence should be distinguished, as I think they are in ordinary speech, from the field of "stay" or "visit". (Emphasis added)[11]
+[52] So what I have to decide is whether or not Mr. Hauser was resident in Canada in one or more of the years in appeal. As Cartwright J. said in Beament v. M.N.R.[12]":
+the decision as to the place or places in which a person is resident must turn on the facts of the particular case.
+[53] Mahoney J. listed several factors that may be material in determining a question of fact of fiscal residence:[13]
+a. past and present habits of life;
+b. regularity and length of visits in the jurisdiction asserting residence;
+c. ties within that jurisdiction;
+d. ties elsewhere;
+e. permanence or otherwise of purposes of stay abroad.
+The matter of ties within the jurisdiction asserting residence and elsewhere runs the gamut of an individual's connections and commitments: property and investment, employment, family, business, cultural and social are examples, again not purporting to be exhaustive. Not all factors will necessarily be material to every case. They must be considered in the light of the basic premises that everyone must have a fiscal residence somewhere and that it is quite possible for an individual to be simultaneously resident in more than one place for tax purposes.
+[54] Appellant’s counsel argued that his client’s actions were sufficient to sever his residence in Canada at the end of July 1997: he cancelled his OHIP coverage, he notified people that he no longer resided in Canada, he gave up his apartment lease in Cambridge, he took up residence in the Bahamas. He attended at his mother-in-law’s residence frequently, but he was not living there, either when he left Canada or during the times he was in Canada to fly from Pearson Airport.
+[55] The real issue, counsel suggested, was not whether his client was a common law resident of Canada but rather whether he sojourned in Canada in the relevant years for more than 183 days. Mr. Binavince, appellant’s counsel, cited several cases in support of his position that during the years in appeal Mr. Hauser did not sojourn in Canada more than 183 days nor was he resident of Canada: Kadrie v. Canada[14], Wassick v. Canada[15], Kallos v. M.N.R.[16], Calvano v. Canada[17], The Queen v. Reeder[18], as well as Thomson v. M.N.R.[19], and Schujahn v. M.N.R.[20].
+[56] One of appellant’s arguments, if I understood it correctly, was that once he gave up his residence in Cambridge, he ceased to have a home in Canada. When he was sleeping at his mother-in-law’s apartment he was not living at the apartment. In Thomson[21], Rand J. explained that as far as income tax legislation is concerned, there is an assumption that everyone at all times has a residence. The residence need not be
+[…]
+a home or a particular place of abode or even a shelter. He may sleep in the open. It is important only to ascertain the spatial bounds within which he spends his life or to which his ordered or customary living is related.
+[…]
+[57] Whenever Mr. Hauser was in Canada to perform his employment responsibilities, which was frequent, regular and necessary, he stayed at his mother-in-law’s apartment. He kept clothing at the apartment and he used the address of the apartment for mail and banking purposes. That he may or may not have paid rent to her is not that significant. This mother-in-law’s address was also used for other purposes, whether at his own behest or not, for example, when he applied for a loan and when he registered the Honda. I do not give much weight to Mr. Hauser’s explanation that the address should have been “care of” his mother-in-law. In fact the address he used for many purposes was an address in Canada.
+[58] Canada was a magnet that attracted the Hausers. After they set up residence in the Bahamas both of Mr. and Mrs. Hauser, and particularly Mr. Hauser, continued to have a presence in Canada. Mr. Hauser spent over a third of a year in Canada in each year. Air Canada required Mr. Hauser to be in Canada to fly airplanes; he reported to work at Pearson Airport and other airports in Canada. Most of his flights left from and returned to Pearson; much of his training was at Pearson. Pearson Airport was part of the routine of life. Mr. Hauser’s presence in Canada during the years in appeal was not occasional, casual, deviatory, intermittent or transitory. He was in Canada in great part because he had to be, to earn a living.
+[59] The Hausers also came to Canada when there were problems or family celebrations. Mrs. Hauser went to Guelph for medical attention, she was in Canada during the hurricane season and she was in Canada to spend Christmas with family. Canada was Mr. and Mrs. Hauser’s comfort zone at least until 2002 when they moved to Florida.
+[60] Mr. Hauser used the words "linger"[22] or "lingering" to explain that his presence in Canada, most times during the years in appeal, was not voluntary but was required by his employment. The fact that one's employment compels the person to be in Canada does not lead to the conclusion that one does not reside in Canada. In fact, most often the opposite is true. Many multinational corporations send their nationals to live and work in Canada; they may or may not like it here, but they may reside here while working here. They are not lingering here while they are employed here. Similarly, just because Mr. Hauser believes he was not lingering in Canada most of the time he was in Canada during the years in appeal does not protect him from the possibility of residing in Canada.
+[61] Mr. Hauser never divorced himself from Canada. There were just too many attachments. He may have intended to sever coverage with OHIP, ship personal effects and household goods to Freeport but there were more important attachments to Canada that continued and were very significant: employment, a place to sleep, banking, for example. That he had a regular routine in Canada is confirmed by his willingness in 2000, notwithstanding Canadian winters, to take up management of a real estate project.
+[62] Mr. Hauser’s leaving Canada in 1997 is not dissimilar from a child leaving the family and moving into his or her own apartment, but on many evenings the child returns to the family home for dinner and on most weekends the child is at the family home “hanging around”. It cannot be said in such circumstances that the child has given up his parents’ residence.
+[63] I find Mr. Hauser was resident in Canada during taxation years 1997, 1998, 1999, 2000 and 2001. I therefore need not consider whether he is deemed to have been resident in Canada pursuant to paragraph 250(1)(a) of the Act in any of these years.
+[64] The appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 5th day of August, 2005.
+“Gerald J. Rip”
+Rip J.
+CITATION: 2005TCC492
+COURT FILE NO.: 2003-3271(IT)G
+STYLE OF CAUSE: RAY HAUSER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: March 21, 22 and 23, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT: August 5, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Emilio Binavince and
+Michael Eng
+Counsel for the Respondent:
+Ernest Wheeler and
+Steven Leckie
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Emilio Binavince and Michael Eng
+Firm: Binavince Smith
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] In his notice of appeal the appellant raised other issues that were not considered in evidence nor in argument at trial and are therefore not considered in these reasons.
+[2] Much of the appellant's evidence was to establish that he was resident in the Bahamas. Since this was agreed by the Crown, I need not dwell too much on this aspect of the appeals. Although I have considered their testimony, I therefore have not set out in these reasons the evidence of Patricia Simpson, David Hauser, Muriel Hauser, Brenda Armstrong, Doris Kent and Norma Clee.
+[3] The Minister's conclusion here is a bit confusing. In the amended reply, the Attorney General stated that the Minister, in assessing, assumed, among other facts, that Mr. Hauser spent 266 days (including part days) in Canada in 1998, and 263 days (including part days) in 1999. Since Mr. Hauser left Canada on or about July 27, 1997, I assume the Minister assumed that Mr. Hauser was resident in Canada prior to July 28, 1997, which is true. There is also evidence he was in Canada in 1997 for at least 75 days after July 27, 1997.
+[4] I do not accept Mr. Hauser's evidence that absent a "green card", he could not reside in the United States.
+[5] [1946] S.C.R. 209, at 231-2.
+[6] For example, Wilkie v. IRC, [1952] Ch. 153, [1952] All E.R. 92, 32 Tax Cases 495, a decision from the United Kingdom that held that in considering a period of six months, fractions of a day must be taken into account in hours of actual presence.
+[7] In my calculations, I did not include a day in Canada when, for example, Mr. Hauser passed through Canada, arriving on one day and leaving on the next day. I did include days he was in Canada ill or on strike or due to hurricanes. It was difficult to determine if he was in Canada on certain days because of the colouring on the calendar or the legibility of the writing; in such cases I considered Mr. Hauser not in Canada. I also included days that he was in Canada days he otherwise considered himself in Canada.
+[8] The Random House Dictionary of the English Language, supra.
+[9] Black's Law Dictionary, 5th ed.
+[10] Schujahn v. M.N.R., 62 DTC 1225 (Ex. Ct.) per Noel J.
+[11] 2 DTC 812 (S.C.C.) at page 816. For discussion as to the meaning of “ordinarily resident” see, Estey J.
+at p. 813, Rand J. at pp. 815-816, Kerwin J. at pp. 817-819 and Kellock J. at p. 819.
+[12] 52 DTC 1183 at 1186 (S.C.C.).
+[13] The Queen v. Reeder, 75 DTC 5160 at 5163. Mahoney J. acknowledged the list does not purport to be exhaustive.
+[14] [2001] T.C.J. No. 601.
+[15] [1994] T.C. J. No. 494.
+[16] 72 DTC 1099 (TRB).
+[17] [2003] T.C.J. No. 785.
+[18] 75 DTC 5160 (F.C.T.D.).
+[19] Supra, footnote 11.
+[20] Supra, footnote 10.
+[21] Supra, at 815.
+[22] The Shorter Oxford Dictionary defines the word "linger", in part, as 1. To stay (in a place) ... 2. To stay behind, loiter; to stay or hang about in a place, esp. from reluctance to leave it ...

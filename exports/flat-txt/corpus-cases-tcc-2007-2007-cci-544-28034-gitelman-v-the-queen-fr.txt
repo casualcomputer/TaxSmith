@@ -1,0 +1,170 @@
+Title: Gitelman v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28034/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-544-28034-gitelman-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-10-12
+
+# Gitelman v. The Queen
+
+- Citation: 2007 CCI 544
+- Decision date: 2007-10-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1620, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gitelman v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-12
+Référence neutre
+2007 CCI 544
+Numéro de dossier
+2006-1900(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1900(IT)I
+ENTRE :
+JASON GITELMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 15 août 2007 à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Représentant de l’appelant :
+Frank Pecoraro
+Avocat de l'intimée :
+Me Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de l'article 160 de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 12e jour d’octobre 2007.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 26e jour de novembre 2007.
+Hélène Tremblay, traductrice
+Référence : 2007CCI544
+Date : 20071012
+Dossier : 2006-1900(IT)I
+ENTRE :
+JASON GITELMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d’un appel interjeté selon la procédure informelle d’une cotisation émise par le ministre du Revenue national (« le ministre ») en vertu de la Loi de l’impôt sur le revenu (la « Loi ») de l’appelant. En effet, par avis de cotisation daté du 2 novembre 2004, le ministre réclamait 10 000 $ à l’appelant en vertu de l’article 160 de la Loi.
+Les faits
+[2] La preuve a révélé que :
+i) Madame Rosalind Gitelman est la mère de l’appelant;
+ii) Le 17 juin 1998, madame Gitelman avait tiré un chèque de 10 000 $ sur son compte bancaire payable à l’ordre de l’appelant;
+iii) Le 17 juin 1998, l’appelant avait endossé et déposé ce chèque dans son compte de banque personnel;
+iv) La dette de madame Gitelman en vertu de la Loi au cours de l’année d’imposition où elle a tiré le chèque de 10 000 $ était de 27 535,58 $ et cette dette demeure impayée;
+v) Le 12 juin 1998, madame Gitelman écrivait une lettre à l’appelant (pièce R-12) qui se lit come suit :
+[traduction]
+« Je, Rosalind Gitelman, vous donne un montant de 10 000 $ à l’occasion de votre mariage, le 21 juin 1998. »
+vi) Le 29 septembre 2004, l’appelant écrivait une lettre à monsieur Pierre Lacelle, (pièce R-8) agent de collection de l’Agence des douances et du revenu du Canada (« l’Agence ») qui se lit comme suit :
+[traduction]
+« La présente lettre est envoyée en réponse à votre lettre du 1er septembre 2004 au sujet de ma mère, Rosalind Gitelman, qui, en juin 1998, a fait, à mon ordre, un chèque de 10 000 $ tiré sur son compte personnel en guise de cadeau pour m’aider à payer les frais de mon mariage avec Aliza Shemi le 21 juin 1998.
+Étant donné que le chèque n’était pas un transfert d’un REER ou de la société (Ravcor Refrigeration), mais représentait plutôt un don à titre personnel, je ne devrais pas être tenu de payer l’impôt conformément à la Loi de l’impôt sur le revenu. J’espère que ceci règle une fois pour toutes la question de mon obligation fiscale. »
+[3] La partie pertinente du témoignage de madame Gitelman à l’égard de la raison pour laquelle elle a tiré un chèque de 10 000 $ sur son compte bancaire payable à l’ordre de l’appelant mérite d’être citée :
+[traduction]
+INTERROGÉ PAR Me VLAD ZOLIA :
+Ça ne sera pas long, Votre Honneur. Ceci est un document qui nous a été envoyé par un représentant de Jason Gitleman.
+LE TÉMOIN : Hum, oui.
+Me VLAD ZOLIA : Nous le présenterons comme pièce R‑12. C’est aussi une copie.
+LE TÉMOIN : Ok. R-12 : don daté du 12 juin 1998.
+Me VLAD ZOLIA :
+Q. Reconnaissez-vous…
+R. Oui.
+Q. … votre signature ici?
+R. Hum, oui.
+Q. Okay. Pouvez-vous expliquer à la Cour ce que représente ce document?
+R. Bien, j’ai parlé aux futurs beaux‑parents de mon fils et nous avions parlé de prendre des dispositions pour le mariage. J’ai dit que je pourrais les aider à payer le mariage. J’ai dit que je leur donnerais 10 000 $ pour aider à payer le mariage. C’est ce que représente le document. Vous savez, nous avions conclu une entente verbale. J’ai dit que j’aiderais à payer le mariage. Ils n’étaient pas, vous savez.
+Q. Je vais vous demander, ce document a‑t‑il été signé le douze (12) juin 1998?
+R. Oui.
+[4] La partie pertinente du témoignage de l’appelant à l’égard de la raison pour laquelle sa mère a tiré un chèque de 10 000 $ mérite aussi d’être citée :
+[traduction]
+Q. Admettez-vous que ces dépenses devaient être, en fait, qu’elles n’étaient pas vos dépenses, mais bien celles des parents de la mariée et du marié?
+R. C’était l’entente qu’ils avaient conclue entre eux pour en payer chacun une partie.
+Q. Est-ce que vous vous entendez avec moi pour dire que la raison pour laquelle votre mère vous a donné 10 000 $ était pour que vous puissiez passer des marchés à son nom à titre de représentant pour organiser le mariage?
+R. C’est exact.
+[5] Les motifs invoqués par l’appelant dans son avis d’appel pour appuyer sa prétention à l’effet que l’article 160 de la Loi ne s’applique pas se lisent comme suit :
+[traduction]
+Exposé des motifs
+1. L’article 160 a pour but d’empêcher que les contribuables évitent leur obligation fiscale par le transfert de biens à leur époux ou à une autre personne avec laquelle ils ont un lien de dépendance. En faisant en sorte que le bénéficiaire soit tenu responsable, le ministre rend un tiers responsable de la créance du contribuable. Dans Medland v. The Queen, 98 DTC 6358, la Cour d’appel fédérale a affirmé (à la page 6362) que l’objet et l’esprit du paragraphe 160(1) consistaient à empêcher un contribuable de transférer ses biens à son conjoint afin de faire échec aux efforts déployés par le ministre pour percevoir l’argent du contribuable. Ce n’est pas le cas en l’espèce. Il s’agit d’un simple geste sous forme d’aide financière de la part d’un parent (R.G.) à son enfant (J.G.) dans une affaire (le mariage) dans laquelle interviennent les obligations familiales de tous les membres de la famille.
+2. Dans une récente décision de la Cour canadienne de l’impôt, Monique Leblanc v. The Queen, 99 DTC 410, (P-1), le juge Hamlyn a accepté l’argument de Monique Leblanc selon lequel il n’y avait pas eu de transfert d’argent parce qu’elle agissait à titre de représentante de son mari et parce que l’argent se rapportait exclusivement à l’obligation légale du mari. En l’espèce, l’argent se rapportait à l’obligation contractuelle concernant le mariage du fils prise par la mère (R.G.).
+3. Le montant d’argent susmentionné, soit 10 000 $, représente un cadeau de mariage de la part de R.G. à son fils, J.G. (P-2).
+4. Vu que R.G. est la mère de J.G., il convient de dire que le transfert de biens en cause, fait sous forme de cadeau, a été fait entre deux personnes ayant entre elles un lien de dépendance.
+5. L’Agence des douanes et du revenu du Canada (l’« ADRC ») accepte le sens traditionnel du mot donation comme « un transfert volontaire d’un bien sans contrepartie » (IT-209R). Si le donateur s’attend à tirer un certain bénéfice, il ne s’agit pas réellement d’une donation. (Le Guide du comptable canadien – 59e édition, n° 8175). R.G. ne s’attendait à tirer aucun bénéfice ou avantage du don de 10 000 $ qu’elle a fait à son fils à l’occasion de son mariage. Il s’agit tout simplement d’une obligation familiale dont elle s’est acquitté à l’égard de son fils à l’occasion du mariage de celui‑ci.
+6. Le montant de 10 000 $ susmentionné tombe donc sous le coup de la définition de donation adoptée par l’ADRC. À ce titre, le donateur, R.G., ne tirait aucun bénéfice ou avantage.
+7. Comme le bénéficiaire n’a pas tiré de bénéfice ou d’avantage, le bien qui lui a été transféré n’a pas de juste valeur marchande. Par conséquent, le paiement de 10 000 $ ne tombe pas sous le coup du paragraphe 160(1).
+8. Les explications données dans l’avis de cotisation portant le numéro 24401 et daté du 2 novembre 2004 étaient erronées, en réalité et dans les faits, parce qu’elles étaient fondées sur des fausses déclarations et sur des hypothèses eronnées et non fondées faites par l’agent de recouvrement, Pierre Lacelle, dans sa lettre du 1er septembre 2004 (P-3) selon lesquelles J.G. aurait tiré un bénéfice du cadeau de sa mère.
+9. J.G. a répondu à la lettre susmentionnée le 29 septembre 2007 (P-4). Pierre Lacelle a répondu par l’avis de cotisation daté du 2 novembre 2004.
+10. J.G. ne détient pas les faits, allégués ou autres, ayant servi de fondement à sa cotisation. Ses demandes visant à obtenir ces renseignements ont été ignorées (P-5 et P-6).
+11. Étant donné que J.G. ne détient pas les faits pertinents qui lui permettraient d’étayer son opposition à sa cotisation, le fardeau de la preuve incomberait donc à l’ADRC.
+12. Dans l’arrêt Gestion Yvan Drouin Inc. c. La Reine (1999‑18560‑IT‑G), le juge Archambault de la Cour d’appel fédérale a statué : « Comme c'est le ministre qui exerce le recours contre un tiers pour recouvrer la dette fiscale qui lui est due par le débiteur fiscal, il m'apparaît tout à fait raisonnable que ce soit à lui qu'incombe la charge d'établir prima facie l'existence de la dette fiscale ».
+13. Pour tous ces motifs, l’avis de cotisation visé par la présente opposition n’est fondé ni par les faits, ni par le droit, et le contribuable demande, en toute déférence, qu’il soit modifié.
+[6] Par ailleurs, lors de sa plaidoirie, le représentant de l’appelant a surtout insisté sur l’argument avancé au paragraphe 2 du « Statement of Reasons » de l’avis d’appel. À cet égard, le représentant de l’appelant a soutenu que : i) la somme de 10 000 $ a été versée par madame Gitelman (le mandant) à son fils (le mandataire) dans le cadre d’un mandat à l’effet qu’il devait utiliser cet argent pour acquitter une obligation qu’elle avait contractée auprès des beaux‑parents de son fils, soit de payer la moitié des coûts du mariage; et ainsi la remise de cette somme à son fils ne pouvait être considérée comme un transfert selon l’article 160 de la Loi, cette somme ayant servi uniquement au bénéfice de madame Gitelman. Autrement dit, le représentant de l’appelant a soutenu que, dans ces circonstances, le mandant ne s’était pas défait de son droit de propriété sur les sommes confiées au mandataire et elles n’étaient pas dévolues au mandataire.
+Analyse et conclusion
+[7] La disposition pertinente aux fins du litige est le paragraphe 160(1) de la Loi, se lit comme suit :
+Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son conjoint ou une personne devenue depuis son conjoint;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de la l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+i. l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien.
+ii. Le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+Aucune disposition du présent paragraphe n’est toutefois réputée limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[8] Le but visé par cette disposition est clairement d’éviter qu’un contribuable se soustrait à ses obligations fiscales en transférant des biens à son conjoint, à une personne qui est âgée de moins de 18 ans ou encore à une personne avec laquelle il a eu un lien de dépendance. J’ajouterai qu'il n’est pas nécessaire qu’une intention d’éluder l’impôt existe pour que cet article soit applicable. En effet, une telle condition n’est pas requise par l’article 160 de la Loi. Cette interprétation, selon laquelle aucun élément intentionnel n’est requis, a d’ailleurs été adopté par mon ex-collègue le juge Dussault dans l’affaire Montreuil c. R., (1994), 94 D.T.C. (1821) (Fr.) (T.C.C.) à la page 1828. De plus, cette approche a été suivie par la Cour d’appel fédérale dans l’arrêt Wannan v. R., [2003] F.C.J. 1693 (F.C.A.), au paragraphe 3. Voici ce qu’on y dit :
+L'article 160 de la Loi de l'impôt sur le revenu est un instrument important de recouvrement des impôts, parce qu'il contrarie les tentatives d'un contribuable de mettre de l'argent ou d'autres biens hors de la portée du fisc en les transférant censément à des amis. C'est cependant une disposition draconienne. […] Cet article peut s'appliquer au cessionnaire de biens qui n'a pas l'intention d'aider le débiteur fiscal primaire à se soustraire à l'impôt. Il peut même s'appliquer au cessionnaire qui n'a pas connaissance de la situation fiscale du débiteur fiscal primaire.[…]
+[9] Il m’apparaît que les conditions suivantes doivent être remplies pour que l’article 160 s’applique : il doit y avoir :
+i) Transfert par une personne (auteur du transfert) du bien depuis le 1e mai 1951, et
+ii) Ce transfert doit avoir été fait au bénéfice de l'une (bénéficiaire) des trois personnes suivantes : a) le conjoint de l’auteur du transfert ou une personne devenue depuis son conjoint ; b) une personne qui était âgée de moins de 18 ans ; c) une personne avec laquelle l’auteur du transfert avait un lien de dépendance. Quand ces deux conditions sont réunies, les deux règles suivantes s’appliquent. S'applique, tout d’abord la règle énoncée à l’alinéa 160(1)d) (règle de l’alinéa 160(1)d)) selon laquelle le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt sur le revenu tiré de biens transférés au bénéficiaire ou sur le gain en capital résultant de la disposition de ces biens, lorsque ce revenu ou ce gain sont assujettis aux règles d'attribution énoncées aux articles 74.1 à 75.1 de la Loi et à l'article 74 de la Loi de l'impôt sur le revenu, chap. 148, S.R.C. 1952 (Loi de 1952). Il faut souligner que dans ce cas, il n'est pas question de déterminer s'il existe un excédent de la juste valeur marchande (la « JVM) » de biens transférés sur la JVM de la contrepartie. La responsabilité solidaire est applicable dès qu'il y a un impôt à payer sur le revenu ou le gain en capital assujetti aux règles d'attribution. De plus, le paragraphe 160(1) de la Loi est applicable même si le bénéficiaire a donné une contrepartie suffisante pour le bien que l'auteur du transfert lui a transféré. Cela est notamment le cas quant à la règle d'attribution énoncée à l'article 74 de la Loi de 1952. En effet, même si un des deux conjoints a payé la JVM pour le bien transféré par l'autre conjoint, la règle d'attribution est applicable, en dépit de ce qui est prévu au paragraphe 74.5(1) de la Loi.
+[10] Selon la deuxième règle, la règle de l'alinéa 160(1)e) de la Loi, le bénéficiaire et l'auteur du transfert sont solidairement responsable à l'égard de toute somme que l'auteur du transfert doit payer en vertu de la Loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année antérieure. Toutefois, la responsabilité du bénéficiaire est limitée au moins élevé des deux montants suivants : i) l'excédent éventuel de la JVM des biens au moment du transfert sur la JVM à ce moment de la contrepartie donnée pour ces biens et ii) le montant de la dette fiscale de l'auteur du transfert.
+[11] À l'égard de la notion de transfert, je suis d'avis que, pour qu'il y ait transfert d'un bien, il est essentiel que l'auteur du transfert se soit départi de son droit de propriété et que le bien ait été dévolu au bénéficiaire. Il ressort aussi de la notion de transfert utilisé au paragraphe 160(1) de la Loi que des sommes versées à un mandataire pour être utilisées au bénéfice du mandant ou pour acquitter les obligations du mandant ne constituent pas un transfert aux fins de ce paragraphe puisque dans ces circonstances le mandant ne se défait pas de son droit de propriété sur les sommes conférées ou versées au mandataire et elles ne sont pas dévolues au mandataire.
+[12] Il ressort de ces dispositions que le paragraphe 160(1) de la Loi peut être applicable qu'il y ait eu transfert avec contrepartie suffisante ou sans contrepartie suffisante. De plus, il est évident que le paragraphe 160(1) de la Loi s'applique qu'il y ait eu vente d'un bien ou don d'un bien. C'est par le mécanisme du calcul du montant correspondant à la responsabilité du bénéficiaire qu'on tiendra compte de la JVM de la contrepartie donnée, si contrepartie il y a, pour les biens transférés par l'auteur du transfert. Ce mécanisme ne s'applique qu'aux fins de la règle de l'alinéa 160(1)e) de la Loi.
+[13] Avant d’appliquer le paragraphe 160(1) de la Loi aux faits de cet appel, il convient d’abord de caractériser la nature de la transaction intervenue entre la mère et son fils. Ainsi, il faut répondre à la question suivante : est-ce que madame Gitelman a fait un don de 10 000 $ à son fils ou est-ce qu’elle a versé cette somme à son fils dans le cadre d’un mandat, auquel cas cette somme a-t-elle été utilisée uniquement au bénéfice de cette dernière ? À cet égard, je suis d’avis que madame Gitelman a tout simplement fait un don de 10 000 $ à son fils pour l’aider à défrayer les coûts de son mariage. Certes, madame Gitelman a témoigné qu’elle avait versé à son fils une somme de 10 000 $ dans le cadre d’un mandat à l’effet qu’il devait utiliser cette somme pour acquitter une obligation qu’elle avait contractée auprès des beaux-parents de son fils. Certes, l’appelant a témoigné dans le même sens que sa mère à cet égard. Toutefois, des déclarations écrites (pièces R-8 et R-12) antérieures de madame Gitelman et de l’appelant ne font absolument pas état du mandat et d’obligation contractuelle. En effet, je rappelle que ces déclarations écrites font tout simplement état d’un don de 10 000 $ fait par madame Gitelman à son fils pour l’aider à défrayer les coûts de son mariage. Devant de telles contradictions, j’ai tout simplement retenu la version de faits que l’on retrouve dans les déclarations écrites parce qu’elle m’apparaît tout simplement plus crédible. Je souligne qu’il aurait été fort intéressant d’entendre le témoignage des beaux-parents de l’appelant à cet égard. L’appelant aurait pu produire que ces témoins pour appuyer son témoignage et celui de sa mère. Il ne n’a pas fait. J’en infère que cette preuve lui aurait été défavorable.
+[14] Appliquons maintenant le paragraphe 160(1) de la Loi aux faits de cet appel. En fait, l’alinéa 160(1)e) de la Loi est la disposition pertinente en l’espèce. À l’égard des deux conditions nécessaires à l’application de cet alinéa, il n’y a pas de doute que les deux conditions d’application sont rencontrées. La première condition est remplie en ce que le chèque de 10 000 $ tiré sur le compte bancaire de madame Gitelman payable à l’ordre de son fils constituait un don du même montant de la mère à son fils. Madame Gitleman s’est départie de son droit de propriété sur cette somme et cette somme a été dévolue à son fils. Par conséquent, je suis d’avis qu’il y a eu un transfert pour les fins de l’article 160 d’une somme de 10 000 $ de madame Gitelman à son fils, et ce, en 1998. La deuxième condition d’application est rencontrée en ce que le transfert fut effectué par la mère en faveur de son fils, une personne avec laquelle elle avait un lien de dépendance au moment du transfert.
+[15] Il convient maintenant de répondre aux questions suivantes : est-ce que l’appelant a transféré un bien à sa mère en contrepartie du 10 000 $ qu’elle lui avait transféré le 17 juin 1998, et si oui, quelle était la JVM de ce bien? À mon avis, l’appelant n’a transféré aucun bien à sa mère en contrepartie au 10 000 $ qu’elle lui avait transféré. Par conséquent, l’appelant devenait solidairement responsable de la dette fiscale de sa mère jusqu’à concurrence de 10 000 $.
+[16] L’appelant a aussi soutenu subsidiairement que les parents ont une obligation familiale de défrayer le coût du mariage de leurs enfants et qu’ainsi sa mère lui avait fait un chèque de 10 000 $ en règlement de cette obligation. Je suis d’avis qu’il n’existe aucune obligation légale pour un parent d’acquitter les coûts de mariage de leur enfant. Il se peut que dans certaines cultures les parents ont une obligation de nature sociale ou familiale en cette matière. Toutefois, une obligation d’une telle nature ne peut certainement pas être qualifiée de légale au Canada. Par conséquent, je suis d’avis que l’argument à l’effet que sa mère lui avait fait un chèque de 10 000 $ en règlement d’une obligation qu’elle avait à son égard n’a pas de fondement.
+[17] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, le 12e jour d'octobre 2007.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 26e jour de novembre 2007.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2007CCI544
+Nº DU DOSSIER DE LA COUR : 2006-1900(IT)I
+INTITULÉ DE LA CAUSE : JASON GILTELMAN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 15 août 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 12 octobre 2007
+COMPARUTIONS :
+Représentant de l’appelant :
+Frank Pecoraro
+Avocat de l'intimée :
+Me Vlad Zolia
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

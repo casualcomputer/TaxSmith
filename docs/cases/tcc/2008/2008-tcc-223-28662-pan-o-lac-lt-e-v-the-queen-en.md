@@ -1,0 +1,226 @@
+---
+title: "Pan-O-Lac Ltée v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28662/index.do"
+last_modified: "2008-06-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 223"
+citation2: ""
+neutral_citation: "2008 TCC 223"
+decision_date: "2008-06-09"
+language: "en"
+item_id: "28662"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1126
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:07:49.097000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "453e1459ad4f5c54ec3fcab3122e90c3be9bb380be1fdc8773a8533d2ba58026"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pan-O-Lac Ltée v. The Queen
+
+- Citation: 2008 TCC 223
+- Decision date: 2008-06-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1126, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pan-O-Lac Ltée v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-09
+Neutral citation
+2008 TCC 223
+File numbers
+2004-1311(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1311(IT)G
+BETWEEN:
+PAN-O-LAC LTÉE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 20, 21 and 22, 2007, at Jonquière, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Jean Dauphinais
+Jean-François Poirier
+Counsel for the Respondent:
+Janie Payette
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is dismissed, with costs to the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Fredericton, New Brunswick, this 9th day of June 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 28th day of November 2008.
+Erich Klein, Revisor
+Citation: 2008TCC223
+Date: 20080609
+Docket: 2004-1311(IT)G
+BETWEEN:
+PAN-O-LAC LTÉE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] In its income tax return for the taxation year ended December 31, 1999, the Appellant carried forward $567,856 ($757,142 x ¾) with respect to a deductible capital loss that it purportedly incurred in 1992 in respect of its holding of debentures in Normick Chambord Inc. (hereinafter "Normick"). The debentures in question were purchased from the Syndicat des producteurs de bois de Saguenay–Lac St‑Jean ("the Syndicate") for $757,142 on December 11, 1992.
+[2] By notice of reassessment dated July 22, 2003, the Minister of National Revenue ("the Minister") disallowed the loss carry-forward on the ground that the capital loss incurred by the Appellant in this regard was nil. The Minister determined that when the Appellant purchased the debentures, it was de facto, by virtue of paragraph 251(1)(b) of the Income Tax Act ("the Act"), not dealing with the Syndicate at arm's length. Since the debentures had a fair market value of zero on the date of the transaction, the Appellant is deemed to have acquired them at no cost, by operation of paragraph 69(1)(a) of the Act. Consequently, upon Normick's bankruptcy on December 16, 1992, the Appellant incurred no tax loss in relation to the Normick debentures, and is therefore not entitled to carry forward any loss whatsoever from the taxation year in question.
+[3] At the beginning of the hearing, the Appellant acknowledged that the issue of non-arm's length dealing is not in dispute. Both entities had the same directors, and the Appellant acknowledges that the Normick debentures had a fair market value of zero on December 11, 1992. However, the Appellant argues that the Syndicate acquired and held the Normick debentures on the Appellant's behalf in accordance with a contract of mandate, and that, in reality, the agreement of purchase and sale concerning the debentures entered into between the Appellant and the Syndicate and dated December 11, 1992, was signed in order to regularize the situation, because the Appellant was the true owner of the debentures at all times.
+[4] What is at issue, then, is the Appellant's and Syndicate's true intention with respect to the acquisition of the Normick debentures. Did the Syndicate purchase the debentures for itself, outside the mandate that the Appellant had entrusted to it, or were the debentures acquired within that mandate?
+[5] The Syndicate in question was formed under the Professional Syndicates Act, R.S.Q., c. S‑40, and the Act respecting the marketing of agricultural, food and fish products, R.S.Q. c. M-35.1. It is composed of owners of private woodlots whose object is to create a joint plan to sell and market timber. It has roughly 5 000 members.
+[6] This whole matter began in the early 1980s. Roughly half the trees in private forests are deciduous (aspen and birch) and have very little market value. Therefore, the Syndicate decided to fund a feasibility study on a possible use for deciduous trees. The outcome of the study was the creation of a waferboard plant. In order to ensure the availability of raw material for such a plant, the Syndicate asked the Quebec government to get involved, because the private woodlots were not sufficient to meet demand. It also asked that the Quebec government have a financial stake in the venture.
+[7] In addition, the Syndicate asked other associations, such as the Fédération des coopératives forestières du Saguenay Lac St-Jean ("the Federation") and the Coopérative des travailleurs du Royaume ("the Cooperative") to get involved in its plant project. In fact, those two entities and the Syndicate are identified as the "regional group" in the various agreements concerning the plant's creation.
+[8] Although the Syndicate was the promoter and was actively involved, it wanted to keep some distance from the project in order to avoid any potential conflict of interest and keep the marketing of the timber separate from its processing. It therefore had the Appellant created in 1985, with a view to entrusting it with the role of investing the necessary funds in the plant project.
+[9] The Syndicate carried out financing drives by turning to its members and the community in 1984 and in early 1987 when the project was truly gaining momentum. The goal of raising $3 million was surpassed. More than 2,000 of the Syndicate's members invested, and thereby became shareholders in the Appellant.
+[10] This made it necessary to team up with a company that was familiar with the manufacturing of waferboard. The Appellant turned to Normick Perron Inc., and, following negotiations, Société Normick Chambord Inc. ("Normick") was incorporated on March 31, 1987, for the purpose of undertaking the construction and start-up of a waferboard plant in the municipality of Chambord, located in the Lac St‑Jean area.
+[11] On the same date, March 31, 1987, nine agreements were signed by Normick Perron Inc., the Syndicate, the Federation and the Cooperative (the last three entities are collectively referred to as the "regional group") and Normick. According to the testimony of Jean Louis Vigneault, CEO of the Syndicate, Normick Perron Inc. insisted that the regional group be a party to the agreements. It insisted that the Syndicate and the Federation, which represents several cooperatives, be their partners in the project in order to ensure their financial participation, and, above all, a supply of timber. Indeed, according to Mr. Vigneault, Normick Perron Inc. did not want to have anything to do with other entities, including the Appellant, whose existence was unknown to Normick Perron Inc., and which had not participated in the negotiations.
+[12] The initial investments were therefore made by the parties in accordance with the agreement signed in this regard. In exchange, the parties, including the Syndicate, received common and preferred share certificates on the basis of their respective investments. Normick Perron Inc. held 51% of the voting shares, and the balance were held by the three members of the regional group.
+[13] The second agreement signed by the parties on March 31, 1987, pertains to an additional injection of funds, in the event that it would be needed. This investment was to be made through the purchase of debentures and common shares in accordance with the formula contained in the agreement. The other agreements include an agreement on design and layout, a unanimous shareholders' agreement and undertaking, an agreement on the management of the plant and on marketing and supply, a counterletter regarding the interpretation of various clauses of certain agreements, and so forth.
+[14] Since the Syndicate was a party to the various agreements with Normick Perron Inc. and the other entities, and held shares in Normick even though this ran counter to its initial idea, a mandate agreement between the Appellant and the Syndicate was signed on March 2, 1988, in order to regularize their relationship, under which agreement the Syndicate agreed to act on the Appellant's behalf with respect to the transactions with Normick Perron Inc. and to hold the Normick shares. The mandate agreement provided, inter alia, as follows:
+(a) The Appellant confirmed that it gave the Syndicate a mandate in connection with the Chambord waferboard plant project and that, in its capacity as mandatary, the Syndicate signed various agreements with the partners, including, among others, an agreement on the initial investment, an agreement concerning an additional investment, and a shareholders' agreement.
+(b) The Appellant acknowledged that it was bound by the agreements as though it had signed them itself.
+(c) The Appellant agreed to save the Syndicate harmless from and against any action arising out of the agreements signed by the Syndicate as a mandatary, and to reimburse it for any amount that it might disburse in the performance of the agreements and its mandate.
+[15] The agreement acknowledges that the Syndicate did indeed invest in Normick as a mandatary, and that the funds come from the Appellant's shareholders. As mandatary of the Appellant, the Syndicate held common shares with a value of $1,810,000 and preferred shares with a value of $2,631,600. For the purposes of this decision, it is important to reproduce the entire text of paragraphs 4.1, 4.2 and 4.3 of the agreement:
+[TRANSLATION]
+4.1 Management of funds and investments
+The Corporation confirms and continues the Syndicate's mandate to manage the funds obtained, with a view to making the planned investments in the project to build a waferboard plant in Chambord.
+In addition, the Corporation gives the Syndicate a mandate and power of attorney to exercise all rights associated with the common shares that it has acquired, and, in particular, the voting rights and the rights under the unanimous shareholders' agreement among all the shareholders of Normick Chambord Inc.
+However, upon receiving any amount on account of the redemption of preferred shares or the payment of dividends on such shares, the Syndicate shall pay that entire amount to the Corporation.
+The Corporation acknowledges, however, that the Syndicate may deduct, from the amounts received from Normick Chambord Inc. on account of the redemption of common shares or dividends thereon, the amount of its remuneration, fees, and expenses, as stated in the terms and conditions set out below.
+4.2 Administration of the Corporation's affairs
+In order to reduce its administrative costs, the Corporation hereby entrusts the entire management of its operations and, generally, the entire administration of its affairs, to the Syndicate, which shall have all accessory or ancillary powers in the execution of this mandate, including, without restricting the foregoing, powers similar to those of a general partner in a limited partnership within the meaning of articles 1871 et seq. of the Civil Code of the province of Quebec.
+4.3 Administration of the agreements
+The Corporation acknowledges that the Syndicate shall be responsible for ensuring that all the agreements made with the Regional Group's members, Normick Perron Inc. and Normick Chambord Inc. are complied with, and, as part of this mandate, shall be responsible for administering the various agreements, and, in particular, the supply agreement under which the Syndicate's members are to supply part of the wood material necessary for the operations of Normick Chambord Inc. To ensure that the Syndicate's members that supply the said wood material to Normick Chambord Inc. receive a fair price at all times, the Corporation hereby authorizes the Syndicate to make any adjustments that it deems appropriate in order to secure a reasonable price for the said producers, and the allocation of these adjustments made by the Syndicate shall be final and without appeal. The amount of the adjustments resulting from this allocation shall be added to the general fees that the Syndicate charges the Corporation hereunder, in accordance with the provisions of paragraph V below.
+[16] It should be noted that, in its income tax return for the taxation year ended December 31, 1999, the Appellant also deducted a capital loss equal to the amount of money that the Syndicate used to purchase the common and preferred shares of Normick on the Appellant's behalf. The Respondent accepted the capital loss carry‑over in respect of the shares.
+[17] In late 1989, Normick was facing serious financial difficulties which made it necessary to apply the undertaking by the various stakeholders in relation to additional financing. In a letter dated December 20, 1989, Normick notified the stakeholders that it expected to run out of funds on or about March 31, 1990. It specified the amounts required and requested that they act accordingly.
+[18] The Appellant did not have the wherewithal to invest the additional amounts requested, and did not have any new subscribers. According to Mr. Vigneault, this is when the Syndicate decided to make a temporary investment until such time as the Appellant would be able to make an investment itself.
+[19] On February 14, 1990, a cheque for $162,488.80 from the Syndicate was given to Normick in response to the request for funds. In return, debentures for the same amount were issued to the Syndicate along with certain shares, as contemplated by paragraph 4.8 of the agreement on additional financing.
+[20] However, the financial difficulties persisted, and on June 7, 1990, a second request for additional funds was made to the Syndicate and the other stakeholders. The amount required from the Syndicate was $594,652. According to Mr. Vigneault, in view of the urgency of the situation and the Appellant's inability to come up with the money, the Syndicate took out from the Caisse populaire St‑François-Xavier on July 6, 1990, a $594,000 loan repayable over ten years. The Syndicate put up the shares that it held with the Appellant and with Normick, as well as its savings, its accounts receivable, and the principal and interest on the debentures issued by Normick, as collateral. In a resolution of its board of directors dated August 30, 1990, the Appellant agreed to the shares held by the Syndicate being surrendered to the Caisse populaire St-François-Xavier as security. On July 4, 1990, the Syndicate sent Normick a cheque dated July 21, 1990, in the amount of $594,652, which was equal to the additional investment required on June 7, 1990. Normick issued debentures to the Syndicate in the same amount.
+[21] But the situation did not improve, and none of the majority or minority shareholders wished to inject additional funds. Normick had to cease operations in October 1990. The Syndicate subsequently made several attempts to find the support needed to start up the plant again. The Syndicate's efforts were not successful in 1991 because the economic climate was unfavourable. In 1992, the Syndicate gave a business project mandate. The markets were recovering. An agreement to restart the plant was entered into by various stakeholders. The Appellant was to contribute $1 million to this project.
+[22] The Appellant's accounting firm, which happens to be the same as the Syndicate's, was mandated to propose a plan to financially restructure the Appellant as part of the new investment aimed at starting up a new plant. The Syndicate's objectives were to protect the investments already made by the Appellant's shareholders by giving them some kind of value in the restructuring, and to ensure sufficient profitability to entice new investors to invest. On October 12, 1992, the Appellant's restructuring proposals were submitted to the Syndicate. Under the proposal that was accepted, the Appellant's existing share capital would be restructured by converting the previous investments, in the form of common and preferred shares, into new subordinated shares. The new investments were to be accounted for as voting, participating common shares. One of the steps in this process was to transfer the amounts that the Syndicate had invested in Normick to the Appellant in consideration of the issuing of preferred shares of the Appellant to the Syndicate. In this context, "amounts invested" means the debentures. According to the accountant Albert Lemieux, who developed the selected proposal, the Appellant asked for this transfer.
+[23] At that time, the National Bank had repossessed Normick's assets. An agreement was made to buy back the assets, and a new company was incorporated to launch the new waferboard plant. Normick went bankrupt on December 16, 1992.
+[24] In order to implement the accounting firm's proposal, the Appellant and the Syndicate entered into an agreement of purchase and sale of the debentures on December 11, 1992. According to Mr. Vigneault, the matter of the debentures had to be regularized so that the Syndicate would be reimbursed given the launch of a new plant. The preamble of the agreement states that the Syndicate had subscribed for the debentures at the Appellant's request. It also states that the Syndicate held the debentures and intended to transfer them to the Appellant in consideration of shares of the Appellant's share capital. In the agreement, the terms [TRANSLATION] "sells" and [TRANSLATION] "purchases" are used in relation to the nature of the transaction, which is referred to as a [TRANSLATION] "sale".
+[25] The minutes of several of the Appellant's and the Syndicate's board meetings from 1987 to 1993 were tendered in evidence. At its meeting of October 16, 1992, the Appellant's board of directors welcomed Albert Lemieux, the person who had developed the proposal. He explained how the Appellant's restructuring would proceed. This part of the meeting was a joint meeting of the Appellant's and the Syndicate's boards. It should be understood that the participants were the same. In the summary of Albert Lemieux's presentation concerning the Appellant's investment in Normick, it is stated that the Syndicate itself invested an additional $757,142. In addition, during another meeting of the Appellant's board on December 11, 1992, it was resolved that the Appellant would purchase the debentures from the Syndicate in consideration of shares. The preamble of the resolution states that the Syndicate owns the debentures, that it subscribed for them at the Appellant's request, that the Syndicate intends to transfer them to the Appellant, and that the Appellant intends to purchase them.
+[26] As for the Syndicate's minutes, they refer to a resolution of the board dated December 11, 1992, authorizing the sale of all the debentures to the Appellant in consideration of shares in the Appellant. The preamble of the resolution of the Syndicate's board resembles that of the resolution of the Appellant's board. However, it is stated at point E, under [TRANSLATION] "Debentures", that the Normick debentures which the Syndicate acquired were to be acquired by the Appellant in order to be part of the restructuring proposed by the Appellant. This comment precedes the preamble and the resolution in question.
+[27] The Appellant's and the Syndicate's financial statements for the years relevant to the appeal were also tendered in evidence. The Appellant's financial statements as at December 31, 1991, contain no reference to debentures under the heading [TRANSLATION] "Investments". However, in the statements as at December 31, 1992, there is a note which explains that, in accordance with the management agreement dated March 2, 1988 between the Appellant and the Syndicate, and the agreement concerning additional financing for Normick, the Appellant's financial statements as at December 31, 1991, were adjusted to show the Normick debenture investment as well as the liability associated with the investment in Normick. The debentures are found under the heading [TRANSLATION] "Investments". The evidence discloses that the Appellant's management provided the accountant with the information necessary to prepare the financial statements, and that all the financial statements were duly accepted by resolution of the Appellant's board of directors.
+[28] The Appellant's financial statements as at December 31, 1992, were prepared on February 16, 1993. The adjustment note is dated May 25, 1993. In a letter dated May 13, 1993, from the accounting firm Mallette Maheu to the Syndicate, accountant Albert Gagnon raises the problem of the value of the debentures held by the Syndicate as at December 10, 1992 in the context of the purchase and sale transaction of December 11, 1992 and the bankruptcy of Normick on December 16, 1992, and suggests that the value of the debentures was nil. He also refers, in his letter, to certain legal and tax problems and raises a question that he characterizes as major, namely:
+[TRANSLATION]
+Is it possible that this debenture purchase transaction was incorrectly entered, and that the Syndicate should have purchased shares in the Appellant, and that the Appellant should have purchased Normick debentures? In light of the Syndicate's management mandate, it appears to us that such a mistake may have been made.
+[29] Mr. Gagnon accordingly suggested the adjustment contained in the Appellant's financial statements as at December 31, 1992.
+[30] However, in the Syndicate's financial statements as at December 31, 1990, the debentures are entered under the heading [TRANSLATION] "Investments." There is no information showing that the Syndicate made an advance to the Appellant for the value of the debentures, and there is an entry for the loan from the Caisse populaire in relation to the second debenture under the heading [TRANSLATION] "Contractual Obligations and Contingent Liabilities". The shares are only discussed in reference to the mandate from the Appellant. The accountant Mr. Gagnon testified that during the preparation of the financial statements there was no discussion of the debentures in relation to the Appellant.
+[31] In the Syndicate's financial statements as at December 31, 1992, it can be seen, under the heading [TRANSLATION] "Investments", that the value of the debentures in question is nil, whereas, at fiscal year-end on December 31, 1991, their value was $757,142. The notes to the financial statements explain that the Syndicate agreed to sell all the debentures to the Appellant in consideration of a total of $757,142, payable in the form of shares. The accountant relied on the documents in preparing the financial statements.
+[32] In the context of the May 25, 1993 adjustment to the Appellant's financial statements as at December 31, 1992, there is a reference, under the heading [TRANSLATION] "Advances to the Syndicate", to a $757,142 liability of the Appellant to the Syndicate. In the accountant Albert Gagnon's notes dated May 23, 1993 (Exhibit I‑1, Tab 9), which refer to the Appellant's indebtedness to the Syndicate, mention is made of the debentures and the terms of payment, which, the accountant acknowledges, are not evidenced by any document. Apparently, the accountant relied on the instructions of lawyers, who said that the debentures should have been entered as though they belonged to the Appellant. According to the accountant, instead of executing an agreement of purchase and sale, it would have been necessary to have the debentures transferred to the Appellant. The accountant cannot explain why his notes (Tab 9 of Exhibit I-1) refer to a debt to the Appellant, when the Syndicate's financial statements as at December 31, 1993 refer to a sale, except that he was following the instructions of the Appellant's lawyers. The accountant acknowledges that this is a strange situation, but he was only informed of the situation between the Syndicate and the Appellant in May 1993 by means of a letter from their lawyers.
+[33] Thus, in 1999, the Appellant, having realized a large capital gain, claimed a deduction for its $4.9-million capital loss, which included its investments in Normick shares as well as the debentures in question. The Respondent allowed the loss with respect to the shares, but disallowed the loss associated with the debentures on the ground that the Syndicate acquired them for itself, and not for the Appellant and in the Appellant's name under the mandate of March 2, 1988. In fact, the Respondent argues that the mandate is not sufficiently broad to authorize the Syndicate to act as it did in relation to the Normick debentures.
+[34] The Appellant made three main arguments in support of its entitlement to deduct a capital loss in respect of the Normick debentures. Firstly, the Appellant submitted that, according to the decisions in Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622 and Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298, this Court must take the taxpayer's legal situation into account. In particular, it must take into consideration the legal relationships created by the taxpayer in tax matters.
+[35] Secondly, the Appellant submitted as follows. The Syndicate had always been involved in the project to start up the plant. However, the Syndicate itself never intended to invest in this project. The mandate dictated the Appellant's relationship with the Syndicate, in accordance with the provisions of the Civil Code of Lower Canada (C.C.L.C.). The Appellant explained the wording and the scope of the mandate, and the obligations of the mandatary (the Syndicate) and the mandator (the Appellant), and, lastly, it described the conditions under which the mandate would be extinguished. The Appellant submitted that it was bound when the Syndicate, as mandatary, paid $757,142 for the purchase of Normick debentures as investments, and, consequently, that the Appellant is entitled to deduct a capital loss from its capital gains. The Appellant draws a connection between the transaction involving the debentures and the investments made by its shareholders, including the Syndicate, in the form of Normick shares. The Appellant submitted that it was for economic reasons that the shareholders of Normick Perron had demanded that the Syndicate be the only stakeholder in Normick.
+[36] Thirdly, the Appellant listed the elements that might not support the mandate theory, and explained how the agreement concerning the additional investment included not only the shares recognized by the Respondent, but also the Normick debentures which the Syndicate held for the Appellant. The Appellant explained the composition of its board of directors and of the Syndicate's; it explained the loan taken out by the Syndicate to purchase the Normick debentures; it explained as well the purchase and sale agreement, and tried to clarify some the unclear language in the minutes and financial statements.
+[37] As for the Respondent, she said that she agreed with the Appellant on the manner in which the Court should legally interpret the legal relationships entered into by the taxpayer. She also admitted the existence of the Appellant's mandate to the Syndicate during the years in question. However, the Respondent disputes the suggestion that the Appellant empowered the Syndicate to proceed, in the future, to acquire debentures from Normick on behalf of the Appellant, and, above all, the suggestion that the Syndicate was given a mandate to purchase these debentures with its own funds. The Respondent asserted that the mandate did not provide that the Syndicate had the power to borrow money to acquire the debentures.
+[38] Further, the Respondent argued that the Syndicate was the true owner of the Normick debentures. She submitted that the Syndicate acted as the debenture owner at all times, and she made eight arguments in support of this position:
+1. The Syndicate advanced the $757,142 necessary to purchase the debentures.
+2. No acknowledgment by the Appellant of a $754,142 debt to the Syndicate was adduced in evidence.
+3. The Syndicate borrowed $594,000 under its own name and gave the Normick debentures as a security without the Appellant's authorization.
+4. The Syndicate assumed all the expenses in relation to the debentures.
+5. The agreement of purchase and sale of December 11, 1992.
+6. The Syndicate invested, in its own name, more than $400,000 in the plant relaunch.
+7. The minutes of the Appellant's and Syndicate's meetings.
+8. The information contained in the Syndicate's and the Appellant's financial statements.
+[39] The Respondent submitted that the Syndicate and the Appellant had a de facto non-arm's length relationship and that the fair market value of the debentures was therefore zero, not $757,142, because the true value of the considerations given under the agreement of purchase and sale was nil by virtue of subsection 69(1) of the Act. When Normick went bankrupt, the Appellant incurred no capital loss.
+[40] So was there a mandate between the Syndicate and the Appellant? If so, what was the scope of the powers conferred by the mandate from 1988 to 1992, and did the Syndicate act in accordance with the mandate?
+[41] It appears to me that the parties agree that there was a mandate between the Syndicate and the Appellant. Was this mandate broad enough to permit the Syndicate to acquire the Normick debentures?
+[42] The mandate that the Appellant gave to the Syndicate is subject to the C.C.L.C., which applied during the period in question, and to the definition of mandate contained therein. Article 1701 C.C.L.C. defines a mandate as follows:
+Mandate is a contract by which a person, called the mandator, commits a lawful business to the management of another, called the mandatary, who by his acceptance obliges himself to perform it.
+The acceptance may be implied from the acts of the mandatary and in some cases his silence.
+[43] Article 1703 is also rather important in the instant case.
+The mandate may be either special, for a particular business, or general, for all the affairs of the mandator.
+When general it includes only acts of administration.
+For the purpose of alienation and hypothecation, and for all acts of ownership other than acts of administration, the mandate must be express.
+[Emphasis added.]
+[44] Authors Henri Roch and Rodolphe Paré, in their treatise Droit civil du Québec, volume 13, explain the above provisions as follows, at page 28:
+[TRANSLATION]
+If the mandate is worded in general terms, the mandatary's power is limited to acts of administration, according to the second paragraph of the provision; and these acts of administration consist of all acts necessary for proper administration. However, the third rule set forth in the provision is that alienation or hypothecation, and any act of ownership other than acts of administration, must be the subject of an express mandate.
+The principle, in all cases, is that a mandate must be interpreted restrictively. If the mandator wishes to empower the mandatary to carry out acts other than acts of administration, he must state this formally, and, in such event, the mandatary is not permitted to carry out any acts other than those referred to in the mandate.
+[Emphasis added.]
+[45] That said, in order to put everything in context in relation to the mandate's raison d'être, I feel it is important to consider the preamble of the mandate that was signed before the debentures were issued. The preamble's three paragraphs read as follows:
+[TRANSLATION]
+WHEREAS, in relation to the construction and launch of a waferboard plant in Chambord, the Syndicate acted as the Corporation's mandatary in making the various investments and signing various agreements with, among others, Normick Perron Ltée, Normick Chambord Inc., the Fédération des coopératives forestières du Saguenay-Lac St-Jean and its member cooperatives, and the Coopérative des Travailleurs du Royaume;
+WHEREAS, in the performance of that mandate, the Corporation advanced large sums of money to the Syndicate in order to enable it to make, on the Corporation's behalf, the investments contemplated by the agreements in this regard;
+AND WHEREAS it is appropriate that the parties enter into written agreements in order to ratify the acts done by the Syndicate for and on behalf of the Corporation, in view of the short time frame within which this matter was definitively finalized,
+[46] The ensuing clauses contain no reference to a future purchase of debentures. Under the heading [TRANSLATION] "Mandate", the Appellant confirms that it gave a mandate [TRANSLATION] "for the purpose of signing certain agreements with the partners involved in the project to build and start up the waferboard plant in Chambord." The terms used are broad and general and do not contemplate any specific situations, other than entering into agreements, including the agreement on additional financing. The C.C.L.C., which governs the mandate, states that a mandate may be special for a particular business, or general. A mandate worded in general terms covers acts of administration only. For anything else, the mandate must be express (article 1703 C.C.L.C.).
+1703. The mandate may be either special, for a particular business, or general, for all the affairs of the mandator.
+When general it includes only acts of administration.
+For the purpose of alienation and hypothecation, and for all acts of ownership other than acts of administration, the mandate must be express.
+[47] Under the heading [TRANSLATION] "Investment" is a list of investments authorized by the Appellant. There is no reference to requests for additional funds. While there is a reference to the share certificates issued by Normick to the Syndicate, no reference is made to debentures and the shares that were to accompany them.
+[48] Under the heading "Management of funds and investments", to which I have already referred, paragraph 4.1 of the mandate agreement provides as follows: "The Corporation confirms and continues the Syndicate's mandate to manage the funds obtained, with a view to making the planned investments in the project to build a waferboard plant in Chambord." There is no reference to the debentures, or to the possibility of borrowing and putting up property as security. In my opinion, the Syndicate's mandate in this regard is limited to managing the funds obtained from the Appellant's shareholders, and the mandate does not provide that the Syndicate can commit its own funds on the Appellant's behalf with a view to making additional investments in order to purchase debentures.
+[49] Under the heading "Administration of the Corporation's affairs", paragraph 4.2, quoted above, states that the Syndicate's powers are similar to those of a general partner in a limited partnership within the meaning of articles 1871 et seq. C.C.L.C. Those articles, and in particular, article 1876, provide that only the general partners are authorized to administer the business of and to bind the partnership. Although these powers may appear rather broad, the mandate agreement stipulates that the Appellant, in order to reduce its administrative costs, entrusts the entire administration of its activities, and generally the entire administration of its affairs, to the Syndicate, but makes no specific reference to the possibility of acquiring debentures, let alone to borrowing a significant sum of money, like the amount in the case at bar, on its behalf. Even if the agreement on additional financing refers to the acquisition of debentures, it certainly does not authorize the Syndicate to acquire them with its own money. The mandate grants no express authorization to do so, nor does any other document.
+[50] Consequently, I am of the opinion that the mandate conferred on the Syndicate did not permit the Syndicate to do what it did with respect to the debentures, much less to borrow funds to purchase them. Moreover, in light of the evidence as a whole, I am satisfied, on a balance of probabilities, that the Syndicate acted as an owner in the instant case.
+[51] It must be remembered that, according to Mr. Vigneault, the Syndicate had an interest in the construction and start-up of the Normick plant, mainly because it supplied the plant. The Syndicate was, in a sense, the promoter, and it was very much in its interest that the project be viable, even though it wanted to keep its distance from the project in order to avoid any potential conflict of interest. Indeed, it was only after the fact—almost a year later—that the mandate agreement was signed in order to ratify what the Syndicate had done.
+[52] In my opinion, it was as a promoter, not as a mandatary of the Appellant, that the Syndicate decided, in 1990, to use its own funds and to borrow money to acquire debentures in the amount of $757,142. In my opinion, there was nothing temporary about the Syndicate's decision to make this investment, and the decision was not due to the fact that the Appellant lacked the wherewithal to invest additional amounts. Quite simply, the Syndicate was the entity that ran the project, and it was very much in its interest that the project be and remain viable. The project's survival was so crucial that when the second request for funds was made, the Syndicate, of its own initiative, borrowed $594,000 from the Caisse populaire St-François-Xavier. Nowhere is it stated that the loan request was made by the Syndicate in its capacity as mandatary of the Appellant. The Syndicate even put up as collateral the shares that it held with the Appellant and with Normick, as well as its own savings and accounts receivable. Thus, it was the Syndicate that advanced the funds necessary to acquire the debentures.
+[53] In my opinion, if the Syndicate had been acting for and on behalf of the Appellant, using its own funds for and on behalf of the Appellant, it would surely have required an acknowledgment of debt from the Appellant or some form of proof that the funds invested by the Syndicate to acquire the debentures were a loan to the Appellant. The Appellant could also have issued shares or debentures to the Syndicate as it had done for its investments during the financing drive. I cannot disregard the fact that the Appellant's financial statements never reported a debt of $757,142 owed by the Appellant to the Syndicate. It was only in March 1993, when the financial statements were adjusted, that this debt was referred to. In my opinion, these are all indications that the Syndicate was acting on its own behalf with respect to the purchase of the Normick debentures.
+[54] As far as the interest expenses associated with the Caisse populaire's loan to the Syndicate are concerned, it was the Syndicate that paid these expenses, at least during the two years following the loan, and these expenses were not billed to the Appellant, as they would have been in a mandator-mandatary relationship (see article 1724 C.C.L.C.).
+[55] Another factor that tends to show that the Syndicate acted on its own behalf with respect to the debenture acquisition is that the Syndicate and the Appellant signed a purchase and sale agreement in which the Syndicate sold, assigned and transferred the Normick debentures at a price of $757,142 in consideration of 142 common shares and 7,570 preferred shares of the Appellant's share capital. This is not a reimbursement of amounts advanced in respect of the debentures, as Mr. Vigneault would have it. In my opinion, the Appellant did not incur any liability to the Syndicate arising within the framework of a mandator-mandatary relationship; rather, what took place was the implementation of the accountants' proposal for relaunching the plant. It seems to me that the agreement accurately reflects what it does, namely, to effect a purchase and a sale. As a reading of its preamble discloses, the agreement makes no reference to any reassignment or reimbursement, or anything else.
+[56] As I have already stated, all the facts support the theory that the Syndicate acted on its own behalf, and on its own initiative, as the true owner of the Normick debentures. Thus, the true legal situation between the parties is the situation reflected in the instruments herein referred to, in the documentation adduced, consisting of contracts, financial statements and minutes. In other words, although the Syndicate may have been the Appellant's mandatary in relation to the shares, it was the true owner of the Normick debentures, which it subsequently sold to the Appellant on December 11, 1992.
+[57] It would be difficult to find, as the Appellant would like, that the purpose of the adjustment of the 1991 financial statements, dated May 25, 1993, was to correct a mistake in the financial statements. It took them a long time to find the mistake when one considers that the accountants were only advised of it in May 1993; furthermore, there is no documentation to support the position that such a mistake was made. The fact that the Appellant did not acknowledge the existence of a liability (debt) to the Syndicate in 1990, 1991 and 1992, the Syndicate's taking out a loan in response to the second additional financing request, the assignment of the debentures by the Syndicate as security, the minutes referring to the Syndicate as the owner, the agreement of purchase and sale, and the financial statements, all reflect the Syndicate's intention to invest in Normick on its own behalf, and thus, the true legal reality in which the Syndicate and the Appellant were operating was that the Syndicate was the true owner of these debentures.
+[58] Given this finding and the fact that the Appellant acknowledges its non-arm's length relationship with the Syndicate, I find that the sale of the debentures to the Appellant in 1992 was a transaction between parties who were not dealing with each other at arm's length, and, since the Appellant acquired them for $757,142 when their fair market value was nil, it is deemed to have acquired them for an amount equal to their fair market value, namely zero, in accordance with paragraph 69(1)(a) of the Act. Consequently, the appeal is dismissed, with costs.
+Signed at Fredericton, New Brunswick, this 9th day of June 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 28th day of November 2008.
+Erich Klein, Revisor
+CITATION: 2008TCC223
+COURT FILE NO.: 2004-1311(IT)G
+STYLE OF CAUSE: PAN-O-LAC LTÉE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Jonquière, Quebec
+DATE OF HEARING: February 20, 21 and 22, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: June 9, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Jean Dauphinais
+Jean-François Poirier
+Counsel for the Respondent:
+Janie Payette
+COUNSEL OF RECORD:
+For the Appellant:
+Names: Jean Dauphinais and
+Jean-François Poirier
+Firm: Cain Lamarre Casgrain Wells LLP
+Barristers & Solicitors
+Chicoutimi, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

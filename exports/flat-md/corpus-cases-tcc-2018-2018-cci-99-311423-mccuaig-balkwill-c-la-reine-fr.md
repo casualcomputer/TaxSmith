@@ -1,0 +1,356 @@
+---
+title: "McCuaig Balkwill  c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/311423/index.do"
+last_modified: "2018-06-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 99"
+citation2: ""
+neutral_citation: "2018 CCI 99"
+decision_date: "2018-06-12"
+language: "fr"
+item_id: "311423"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4730
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:53:25.650000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2954ec28f5f9d956273ec45c7f9d34621e6989b907bd0d7f3365521b8aab5a20"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McCuaig Balkwill  c. La Reine
+
+- Citation: 2018 CCI 99
+- Decision date: 2018-06-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4730, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCuaig Balkwill c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-06-12
+Référence neutre
+2018 CCI 99
+Numéro de dossier
+2015-1651(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-1651(IT)G
+ENTRE :
+DARLENE MCCUAIG BALKWILL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 1er, 2, 3 et 4 mai 2018, à Ottawa (Ontario)
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelante :
+Me Graham S. Ragan
+Avocat de l’intimée :
+Me André Leblanc
+JUGEMENT
+L’appel des nouvelles cotisations établies sous le régime de la Loi de l’impôt sur le revenu pour les années d’imposition 2005, 2006 et 2007 est rejeté, avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa (Ontario), ce 12e jour de juin 2018.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 10e jour de janvier 2019.
+Elisabeth Ross, jurilinguiste
+Référence : 2018 CCI 99
+Date : 20180612
+Dossier : 2015-1651(IT)G
+ENTRE :
+DARLENE MCCUAIG BALKWILL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] La seule question à trancher en l’espèce consiste à déterminer la juste valeur marchande de vins de collection donnés à des organismes de bienfaisance à l’occasion d’enchères en 2005 et en 2006. Les parties sont en désaccord sur la méthode d’évaluation et, pour cette raison, sur la juste valeur marchande des biens.
+[2] Notre Cour dispose d’éléments incomplets et imparfaits pour ce faire en l’espèce, même s’il ne fait aucun doute que des éléments possiblement meilleurs et plus complets auraient pu être produits.
+Les faits et les éléments de preuve pertinents
+[3] La contribuable est une résidente de l’Ontario qui a donné 21 bouteilles de vin, de 19 étiquettes et millésimes différents, à deux organismes de bienfaisance d’Ottawa, la Banque d’alimentation d’Ottawa et la Société de musique de chambre d’Ottawa.
+[4] Selon l’évaluation faite par les organismes de bienfaisance, la juste valeur marchande des bouteilles serait de 23 600 $. Pour établir les nouvelles cotisations de la contribuable, l’Agence du revenu du Canada (l’« ARC ») en a fixé la valeur à 4 700 $, soit environ 20 % de la somme figurant sur les reçus remis par les organismes, au motif que le prix obtenu lors des ventes aux enchères s’était élevé à environ 20 % de la somme figurant sur les reçus. Aucun des vins en question n’est offert à la Régie des alcools de l’Ontario (la « LCBO »).
+[5] Les parties ont produit en preuve un exposé conjoint partiel des faits, ci-joint, et chaque partie a fait comparaître une évaluatrice experte. L’audience a duré quatre jours.
+[6] L’experte de la contribuable est une évaluatrice qualifiée de biens personnels dont la spécialité est le vin. Elle est également une sommelière accréditée. L’experte de l’intimée est une évaluatrice qualifiée de biens personnels qui se spécialise en beaux-arts. Les deux expertes avaient les qualifications pour exprimer leur opinion devant notre Cour [1] . Pour toutes les bouteilles en cause sauf une, les deux expertes ont pu trouver des comparables de leur choix, lesquels avaient la même étiquette et étaient du même millésime. Sauf pour la bouteille pour laquelle aucun comparable n’a été trouvé, qui était la même pour les deux expertes, les méthodes d’évaluation retenues par les parties ne demandaient aucune connaissance spécialisée sur le vin. Je reviendrai brièvement sur cette bouteille ci-dessous.
+[7] Selon la thèse qu’a défendue la contribuable devant notre Cour, la juste valeur marchande d’une bouteille de vin en Ontario serait le prix qui serait facturé si cette bouteille était achetée par l’intermédiaire du programme de commandes privées de la LCBO. L’experte de l’intimée soutient qu’il s’agit d’un prix de vente au détail, soit celui qu’un résident de l’Ontario paierait s’il achetait ce vin en Ontario. Les vins en cause ne sont généralement pas en vente libre en Ontario, par ailleurs.
+[8] Dans les commandes privées de la LCBO, le prix est établi à partir de ce que paie la LCBO pour acheter sur le marché mondial du vin, vraisemblablement auprès du vignoble directement ou d’un revendeur, le vin particulier commandé, ce à quoi s’ajoutent les majorations, redevances, taxes, tarifs, droits, coûts de transport, etc.
+[9] L’experte de la contribuable Sandi Bailey n’a pas été en mesure de trouver de données sur le prix des vins en cause ou de vins comparables en 2005 ou 2006. Ces données lui étaient inconnues ou n’étaient pas à sa disposition. L’experte n’a proposé ou présenté à la Cour que des valeurs pour 2016, l’année où elle a fait son rapport. Les données de 2016 sur lesquelles elle s’est fondée étaient tirées d’un site Web de vente de vin dont les vendeurs proviennent de partout dans le monde [2] . Il s’agit de prix de catalogue, de prix de détail ou de prix offerts, mais l’experte n’a produit aucun élément de preuve et ne s’est fondée sur aucun élément qui montre le prix d’une vente réelle. Il ressort clairement de sa correspondance avec un certain nombre de vendeurs qu’on ne peut présumer que les prix affichés en ligne sont fermes et non négociables. Plusieurs revendeurs lui ont dit qu’il y avait possibilité de négocier, mais elle n’y a pas donné suite. Un revendeur lui a offert un rabais forfaitaire de 10 % et un autre, un rabais sur les commandes supérieures à un certain prix. Le prix demandé par les vendeurs internationaux en 2016 pour les bouteilles de vin en cause était d’environ 5 500 $. En appliquant la méthode que, selon elle, la LCBO applique pour établir les prix, l’experte en est arrivée à la juste valeur marchande d’environ 17 200 $ pour 2016.
+[10] Le grand problème de l’évaluation faite par cette experte est que cette dernière ne fournit aucun élément de preuve ni avis qui permettrait à la Cour d’extrapoler les valeurs pour 2005 et 2006 à partir des valeurs qu’elle a établies pour 2016 ou de la valeur globale [3] . Son rapport et son témoignage portaient surtout sur la question de la bonne méthodologie à appliquer (laquelle, à son avis, doit être pour 2005 et 2006 la même que pour 2016). Elle y affirmait également que la différence entre les prix obtenus par la méthode de la LCBO et les prix de catalogue du marché mondial des grands vins de collection, d’investissement ou de premier ordre en 2016 – les premiers étant au moins trois fois supérieurs aux seconds – aurait été, proportionnellement, à peu près la même dans les années antérieures. L’avocat de l’appelante reconnaît que ni le rapport ni le témoignage de l’experte ne me fournissent de valeur pour les années en cause.
+[11] L’experte de l’intimée, Kathryn Minard, a soutenu que la méthode d’évaluation appropriée consistait à établir la valeur en fonction de ventes ayant eu lieu lors d’enchères tenues dans les années 2005 et 2006 environ, dans lesquelles la contribuable et donataire aurait pu vendre ses vins en tant que résidente de l’Ontario. Elle a fourni à la Cour des données tirées de ventes de bouteilles ayant la même étiquette et le même millésime que les vins en cause, à une exception près [4] , lors d’enchères tenues aux États-Unis dans ces années. L’experte de l’intimée a établi la juste valeur marchande de l’ensemble de vins que l’appelante a donnés en 2005 et en 2006 à environ 2 650 $.
+[12] Je suis disposé à présumer, pour les besoins des présents motifs, que la différence entre, d’une part, la valeur de 2 650 $ établie par l’intimée en se fondant sur des ventes aux enchères de 2005 et de 2006 et, d’autre part, la valeur de 5 500 $ établie par l’appelante en se fondant sur les prix de catalogue de vendeurs internationaux en 2016 est due en grande partie à l’appréciation des prix dans le marché sur plus de dix ans.
+Analyse
+[13] Il n’est pas controversé entre les parties que la définition de juste valeur marchande à appliquer est celle que la Cour d’appel fédérale a résumée dans l’arrêt Canada (Procureur général) c. Nash [5] :
+DÉFINITION DE LA JUSTE VALEUR MARCHANDE
+8 La définition généralement admise de la juste valeur marchande se trouve dans la décision du juge Cattanach, dans l’affaire Succession Henderson et Bank of New York c. M.R.N., 73 D.T.C. 5471, à la page 5476 :
+La Loi ne donne aucune définition de l’expression « juste valeur marchande »; celle-ci a été définie de diverses façons, généralement selon ce qu’avait à l’esprit la personne cherchant à formuler la définition. Je ne crois pas nécessaire d’essayer de donner une définition précise de cette expression telle qu’employée dans la Loi; il suffit, me semble-t-il, de dire qu’il y a lieu de donner à ces mots leur sens ordinaire. Dans son sens courant, me semble-t-il, cette expression désigne le prix le plus élevé que le propriétaire d’un bien peut raisonnablement s’attendre à en tirer s’il le vend de façon normale et dans le cours ordinaire des affaires, le marché n’étant pas soumis à des pressions inhabituelles et étant constitué d’acheteurs disposés à acheter et des vendeurs disposés à vendre, qui n’ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d’acheter ou de vendre. J’ajouterais que cet exposé succinct de mon point de vue sur le sens à donner à l’expression « juste valeur marchande » comprend ce que j’estime être l’élément essentiel, soit un marché libre de toutes restrictions, où le prix est établi par le jeu de la loi de l’offre et de la demande entre des acheteurs et des vendeurs avertis et désireux d’acheter et de vendre.
+Bien que le juge Cattanach ait pris soin de signaler qu’il n’essayait pas de donner une définition « précise », le fait que la formule qu’il propose a été retenue telle quelle dans la jurisprudence depuis une trentaine d’années permet de penser que, même si elle n’est pas nécessairement exhaustive, sa définition est maintenant considérée comme la définition applicable.
+[Non souligné dans l’original.]
+[14] Cette définition de la juste valeur marchande tirée d’une affaire fiscale s’appuie clairement sur l’idée de vente par le contribuable; elle fait également renvoi à des acheteurs avertis et disposés à acheter.
+[15] Le régime de réglementation provincial de l’Ontario sur l’achat et la vente de vin dans la province et les pratiques d’établissement de prix à la LCBO pour les commandes privées ont été décrits par l’experte de la contribuable.
+[16] Ce programme de commandes privées de la LCBO et sa structure de prix ont été décrits ci-dessus de façon générale.
+[17] Aux termes de la réglementation en vigueur en Ontario sur l’achat et la vente de vins, le résident ontarien qui veut vendre ses vins dispose, selon les deux parties, de trois façons de procéder :
+i) les ventes aux enchères de vins de collection organisées régulièrement par la LCBO. Depuis peu, un encanteur privé, Waddington’s, tient ces enchères au nom de la LCBO. Certaines données de ventes aux enchères passées sont disponibles, mais l’experte de l’appelante ne les connaissait pas et l’experte de l’intimée ne les a ni consultées ni utilisées.
+ii) les ventes en consignation, aux enchères ou au détail, par des vendeurs internationaux, qui ne sont ni de l’Ontario ni du Canada. Les deux expertes ont eu recours aux données de cette catégorie : l’appelante, aux données de vendeurs internationaux et l’intimée, aux données d’une grande maison américaine de vente aux enchères en consignation dont les activités comprennent aussi la vente au détail en consignation.
+iii) le don à un organisme de bienfaisance qui organise une vente aux enchères. C’est de cette manière que l’appelante a choisi de disposer de ses vins. Ni l’une ni l’autre des expertes des parties ne s’est appuyée sur les données de ventes aux enchères d’organismes de bienfaisance dans l’opinion donnée à notre Cour.
+[18] Étant donné que le résident ontarien qui souhaite vendre ses vins au prix le plus élevé possible peut, dans les faits, avoir accès à des marchés normaux, fonctionnels et légaux qui sont ouverts aux acheteurs de l’Ontario et d’ailleurs, notre Cour ne voit pas la nécessité de créer un indice indirect, fictif et hypothétique, qui n’existe pas en réalité. Il semble encore moins raisonnable de structurer cet indice indirect en utilisant la méthode d’établissement des prix des commandes privées de la LCBO puisque (i) le « marché » du monopole gouvernemental n’est pas ouvert au résident ontarien qui veut vendre ses vins; (ii) quiconque tenterait de briser ce monopole commettrait une infraction; (iii) selon le témoignage de l’experte de l’appelante, la contribuable n’aurait jamais pu s’attendre à tirer de ses vins les prix établis par la LCBO pour la vente au détail. L’experte de l’appelante a dit plus d’une fois que le prix de détail pour les commandes privées de la LCBO correspond à la valeur du coût de remplacement dans le domaine de l’assurance. Elle a également affirmé qu’on s’attendrait à ce que l’Ontarien qui veut vendre ses vins au prix en espèces le plus élevé possible puisse avoir recours à l’une des méthodes légales en Ontario et à ce qu’il reçoive une somme se rapprochant du prix du marché mondial qui a servi de point de départ à l’évaluation que l’experte a présentée à notre Cour.
+[19] Dans l’arrêt Nash, précité, au paragraphe 22, la Cour d’appel fédérale a dit de l’indice indirect qu’il peut être considéré comme valable à défaut de marché pour la vente du bien faisant l’objet de l’évaluation. Au paragraphe 24, la Cour d’appel a écrit ceci : « Cependant, lorsqu’il existe un marché sur lequel sont négociés des biens correspondant à ceux qui font l’objet de l’évaluation, il n’est pas nécessaire de recourir à un indice indirect. »
+[20] Pour reprendre l’expression utilisée par le juge Bowman, anciennement juge en chef de notre Cour, dans la décision Klotz c. La Reine [6] , dont le raisonnement a été qualifié d’aussi coloré qu’éloquent par la Cour d’appel dans l’arrêt Nash, l’usage que l’appelante fait en l’espèce de la méthode utilisée par la LCBO pour établir les prix de commandes privées n’a aucun sens et n’a rien à voir avec la réalité ordinaire du monde commercial.
+[21] Il ne fait aucun doute que les marchés en fonction desquels les vins doivent être évalués sont les marchés qui existent réellement et que les résidents de l’Ontario utilisent [7] . Il s’agit des ventes aux enchères de la LCBO, des ventes aux enchères ou au détail en consignation de vendeurs internationaux et des ventes aux enchères d’organismes de bienfaisance. Les prix de transactions dans ces marchés sont de toute évidence pertinents, mais ils ne constituent pas l’élément décisif dans l’établissement par notre Cour de la juste valeur marchande de vins.
+[22] Le régime provincial de restrictions réglementaires n’a pas pour effet de créer un marché qu’on ne peut qualifier de libre de toutes restrictions et qui par conséquent devrait être rejeté. Cette réglementation n’entraîne pas de manquement à l’exigence du marché libre de toutes restrictions imposée par la Cour dans sa définition de la juste valeur marchande et ne soumet pas non plus le marché à des pressions inhabituelles. Ces restrictions sont pertinentes et doivent être prises en considération. En l’espèce, l’experte et l’avocat de l’appelante ont affirmé que, vu l’ampleur de la réglementation, il fallait automatiquement faire abstraction de ce marché et créer un indice indirect. Ni l’experte ni l’avocat n’a affirmé que ces restrictions avaient des conséquences négatives sur les prix obtenus dans les marchés ontariens accessibles par rapport aux marchés mondiaux. En fait, l’experte de l’appelante a semblé reconnaître que les prix obtenus seraient à peu près les mêmes, et l’experte de l’intimée a exprimé un avis semblable.
+[23] En règle générale, les frais réglementaires, les taxes, les droits de douane et d’importation, les frais de transport et les autres coûts imposés en Ontario ou dans tout autre territoire où des biens s’achètent ou se vendent ne devraient pas avoir de répercussions sur l’établissement de la juste valeur marchande d’un bien, sauf exception, par exemple s’il existe un marché de revente accessible où ces coûts ont des répercussions. Le bien devant être évalué appartient au vendeur, et ces coûts peuvent soit être absorbés par l’acheteur, soit diminuer le produit de la disposition que touche le vendeur, soit constituer des dépenses déductibles. Lors d’une évaluation, les seuls effets de ces coûts connexes que l’acheteur absorbe sont habituellement la diminution du nombre d’acheteurs disposés à acheter ou la réduction de la somme que l’acheteur serait disposé à payer.
+[24] Il est extrêmement difficile de concevoir une thèse rationnelle qui expliquerait comment ces restrictions feraient augmenter la valeur d’un bien au-delà de ce que son propriétaire, le contribuable – qui n’a pas le pouvoir d’imposer ces coûts supplémentaires ni de les percevoir –, pourrait toucher sur les marchés commerciaux auxquels il a accès.
+[25] De même, il est difficile d’imaginer les circonstances dans lesquelles il y aurait lieu de faire fi de marchés réels, fonctionnels et accessibles pour créer un indice indirect qui serait un monopole hypothétique ne comptant qu’un vendeur et qui serait basé sur une structure monopolistique d’établissement des prix donnant des prix que, de l’avis même de l’experte de l’appelante, le contribuable ne pourrait jamais obtenir. L’experte de l’appelante a affirmé clairement, à plus d’une reprise, que la méthode d’établissement des prix au détail de la LCBO qu’elle a appliquée donne une juste valeur marchande qui équivaut au coût de remplacement. Or, ce prix, aucun contribuable ontarien ne peut s’attendre à l’obtenir dans une vente. Selon l’experte, le prix que peut s’attendre à obtenir le contribuable correspondrait tout simplement au prix des vendeurs internationaux.
+[26] Les seules données provenant environ des années 2005 et 2006 produites devant la Cour ont été fournies par l’experte de l’intimée et sont tirées de ventes s’étant conclues lors d’enchères tenues par une seule grande maison américaine de vente en consignation. Ces sommes sont de beaucoup inférieures aux valeurs dont l’ARC s’est servie pour établir les nouvelles cotisations. Il s’agit là des meilleurs éléments de preuve dont dispose notre Cour concernant la valeur des vins en 2005 et en 2006 et, les considérant comme étant valables, j’estime qu’elles représentent la juste valeur marchande des biens en l’espèce.
+[27] Le présent appel doit donc être rejeté, car notre Cour ne peut pas ordonner à l’ARC d’établir de nouvelles cotisations en se fondant sur une valeur inférieure à celle ayant servi à l’établissement des nouvelles cotisations.
+[28] Les parties m’ont toutes les deux invité à formuler des observations qui vont au-delà des motifs strictement nécessaires pour trancher l’espèce, parce qu’elles espèrent que la présente décision les aidera à résoudre un grand nombre d’autres appels et oppositions où il est question de dons de vins. Voici ces observations.
+[29] Les campagnes de financement sont des activités autorisées importantes pour les organismes de bienfaisance. Il ne faut pas interpréter les présents motifs et la présente décision comme donnant à penser le contraire ni comme proposant que les activités de financement des organismes de bienfaisance soient restreintes. La seule question en l’espèce concerne l’évaluation de dons de certains biens par des personnes données dans des circonstances qui leur sont propres.
+[30] La présente décision n’a pas pour effet d’empêcher que la bouteille de vin achetée par un contribuable dans une succursale de la LCBO pour en faire don à un organisme de bienfaisance à l’occasion d’une vente aux enchères ou d’un autre événement se voie attribuer une juste valeur marchande égale au prix d’achat. Il n’y a aucune raison pour que cette bouteille de vin, sur le plan de l’évaluation, soit traitée différemment, par exemple, d’un habit de neige qu’un contribuable achèterait pour en faire don à un organisme de bienfaisance qui recueille des habits de neige.
+[31] Manifestement, dans une autre affaire où il est question de dons de vins, les parties pourraient produire des éléments de preuve différents ou plus probants où est utilisée la même méthode d’évaluation ou une méthode semblable, par exemple les prix de ventes qui ont réellement eu lieu lors de ventes aux enchères, de ventes en consignation ou de ventes aux enchères d’organismes de bienfaisance ou dans tout autre marché accessible, ou encore le prix de vins comparables ayant une étiquette ou un millésime différents.
+[32] Dans les présents motifs, je n’ai pas conclu que les prix au détail de la LCBO obtenus par la méthode applicable aux commandes privées — lorsque celle-ci est bien appliquée, c’est-à-dire à des caisses de vin complètes, en utilisant le prix du marché réel le plus bas et en tenant compte des frais de transport et des autres coûts, le tout entièrement étayé par des éléments de preuve — ne sont jamais pertinents dans l’établissement de la juste valeur marchande d’un vin ou de la fourchette de valeurs possibles. J’ai seulement conclu que ces prix, en eux-mêmes, ne suffisent pas à trancher l’affaire et qu’ils ne sont d’aucune utilité lorsque la méthode est appliquée de façon incorrecte ou imprécise.
+[33] L’appel est rejeté avec dépens.
+Signé à Ottawa (Ontario), ce 12e jour de juin 2018.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 10e jour de janvier 2019.
+Elisabeth Ross, jurilinguiste
+2015-1651(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+DARLENE McCUAIG BALKWILL
+appelante,
+et
+SA MAJESTÉ LA REINE
+intimée.
+EXPOSÉ CONJOINT DES FAITS
+Le présent appel porte sur les années d’imposition 2005, 2006 et 2007 de l’appelante (les « années visées par les nouvelles cotisations »).
+Le ministre a initialement établi la dette fiscale initiale de l’appelante pour les années d’imposition 2005, 2006 et 2007 par l’envoi d’avis de cotisation, de la façon suivante :
+Année d’imposition
+Date des cotisations
+2005
+30 mai 2006
+2006
+21 juin 2007
+2007
+27 mai 2008
+Par des avis de nouvelle cotisation datés du 29 mai 2009, le ministre a établi de nouveau la dette fiscale de l’appelante en refusant les déductions pour les dons de vins à des organismes de bienfaisance de 8 248 $, 6 364 $ et 4 271 $ pour les années d’imposition 2005, 2006 et 2007 respectivement (les « nouvelles cotisations »).
+Le 31 juillet 2009, l’appelante a signifié au ministre un avis d’opposition à chacune des nouvelles cotisations.
+Il s’est écoulé plus de 90 jours après la signification de l’avis d’opposition sans que le ministre avise l’appelante de l’annulation ou de la confirmation des nouvelles cotisations.
+Le présent appel a été déposé conformément au paragraphe 169(1) de la Loi de l’impôt sur le revenu.
+L’appelante collectionne les vins depuis près de 30 ans.
+Au cours des années visées par les nouvelles cotisations, l’appelante n’était pas titulaire d’un permis l’autorisant à vendre du vin en Ontario ni ne pouvait se procurer de tel permis.
+En 2005 et en 2006, l’appelante a fait don de bouteilles de vin (les « vins ») à des organismes de bienfaisance enregistrés au Canada et a inclus ces dons dans ses déclarations pour les années visées par les nouvelles cotisations de la manière précisée à l’annexe A ci-jointe. Les organismes ayant reçu les bouteilles sont tous des donataires reconnus visés à la définition du terme « total des dons de bienfaisance » figurant au paragraphe 118.1(1) de la Loi de l’impôt sur le revenu.
+Les bouteilles données par l’appelante provenaient de son cellier, qui contient environ mille bouteilles. L’appelante avait acquis les bouteilles données en général de quinze à vingt ans avant d’en faire don. La plupart des bouteilles avaient été achetées à la Régie des alcools de l’Ontario (la « LCBO »). Aucune des bouteilles données n’avait été achetée lors d’une vente aux enchères tenue par un organisme de bienfaisance.
+De son plein gré, l’appelante a décidé de donner quelques-unes de ses bouteilles de vin à des organismes de bienfaisance.
+L’appelante s’est fondée uniquement sur les reçus que les organismes de bienfaisance lui ont remis pour établir la valeur des dons en litige.
+L’appelante n’avait aucun lien de dépendance avec les organismes de bienfaisance à qui elle a donné les bouteilles de vin.
+Ces organismes ont eu recours aux services d’un évaluateur. L’appelante n’avait aucune raison de mettre en doute les qualifications de l’évaluateur et n’a, par conséquent, pas remis en question les conclusions de celui-ci.
+Les reçus pour don satisfont aux exigences du paragraphe 3501(1) du Règlement de l’impôt sur le revenu.
+L’appelante n’a pas donné de vin pendant l’année d’imposition 2007. Cependant, l’appelante y a reporté 5 339 $ des dons effectués pendant l’année d’imposition 2006.
+Les vins en question n’ont été examinés par ni l’un ni l’autre des évaluateurs dont les services ont été retenus par les parties dans le présent appel.
+Les millésimes et les producteurs de ces vins sont mentionnés dans les rapports des évaluateurs.
+Avant le don, les vins étaient entreposés dans des conditions optimales dans un environnement contrôlé.
+Les vins étaient en excellent état.
+Les étiquettes étaient authentiques et adhéraient bien aux bouteilles, sans déchirures ni taches.
+Le vide (ou niveau de remplissage) des bouteilles était normal pour le millésime des bouteilles.
+Les bouteilles n’avaient été ni rebouchées ni trafiquées de quelque façon que ce soit.
+Les bouchons étaient en excellent état, sans être surélevés dans le goulot ni enfoncés.
+Les capsules de surbouchage étaient intactes et non abîmées.
+Le format de chaque bouteille était de 750 ml.
+Le 24 avril 2018
+GOWLING WLG (CANADA) LLP
+Me Graham S. Ragan
+Avocat de l’appelante
+Le 24 avril 2018
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Me André Leblanc
+Ministère de la Justice
+Avocat de l’intimée
+ANNEXE A
+Date du don
+Année de la réclamation
+Vin
+Organisme de bienfaisance
+Valeur inscrite sur le reçu pour impôt
+09-12-2005
+2005
+Meyney (Saint-Estèphe) 1979
+Banque d’alimentation d’Ottawa (la « BAO »)
+600 $
+09-12-2005
+2005
+Meyney (Saint-Estèphe) 1982
+1 000 $
+09-12-2005
+2005
+Meyney (Saint-Estèphe) 1983
+320 $
+09-12-2005
+2005
+Tignanello 1980
+975 $
+09-12-2005
+2005
+Tignanello 1981
+1 000 $
+09-12-2005
+2005
+Tignanello 1982
+1 460 $
+09-12-2005
+2005
+Angelus (Saint-Émilion) 1982
+1 255 $
+09-12-2005
+2005
+Figeac (Saint-Émilion) 1986
+1 230 $
+09-12-2005
+2005
+La Dominique (Saint-Émilion) 1982
+1 000 $
+09-12-2005
+2005
+Cos Labory (Saint-Estèphe) 1982
+500 $
+09-12-2005
+2005
+Bourgogne Leroy d’Auvenay 1982
+170 $
+09-12-2005
+2005
+Joseph Drouhin Bonnes-Mares 1982
+800 $
+Total des dons faits à la BAO en 2005
+Reçu pour don no 120704
+10 310 $
+29-12-2005
+2006-2007
+La Lagune 1982
+Société de musique de chambre d’Ottawa (la « SMCO »)
+2 000 $
+29-12-2005
+2006-2007
+La Lagune 1982
+2 000 $
+29-12-2005
+2006-2007
+Giscours 1982
+1 140 $
+29-12-2005
+2006-2007
+Torres Gran Coronas Etiqueta Negra 1978
+800 $
+Total des dons faits à la SMCO en 2005
+Reçu pour don no 4286
+5 940 $
+29-11-2006
+2006-2007
+Guigal Côte-Rôtie La Landonne 1982
+Banque
+3 175 $
+Total des dons faits à la BAO en 2006
+Reçu pour don no 134676
+3 175 $
+29-11-2006
+2006-2007
+Guigal Côte-Rôtie La Landonne 1981
+SMCO
+1 260 $
+29-11-2006
+2006-2007
+Côte-Rôtie Les Jumelles
+(Paul Jaboulet) 1983
+750 $
+29-11-2006
+2006-2007
+Côte-Rôtie Les Jumelles
+(Paul Jaboulet) 1983
+750 $
+29-11-2006
+2006-2007
+La Chapelle Hermitage
+(Paul Jaboulet) 1982
+1 420 $
+Total des dons faits à la SMCO en 2006
+Reçu pour don no 5387
+4 180 $
+Total des dons visés par les nouvelles cotisations
+23 605 $
+No du dossier de la Cour : 2015-1651(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+DARLENE McCUAIG BALKWILL
+appelante,
+et
+SA MAJESTÉ LA REINE
+intimée.
+EXPOSÉ CONJOINT DES FAITS
+RÉFÉRENCE :
+2018 CCI 99
+NO DU DOSSIER DE LA COUR :
+2015-1651(IT)G
+INTITULÉ :
+DARLENE MCCUAIG BALKWILL c. LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATES DE L’AUDIENCE :
+Les 1er, 2, 3 et 4 mai 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 12 juin 2018
+COMPARUTIONS :
+[EN BLANC]
+Avocat de l’appelante :
+Me Graham S. Ragan
+Avocat de l’intimée :
+Me André Leblanc
+AVOCATS INSCRITS AU DOSSIER :
+[EN BLANC]
+Pour l’appelante :
+Me Graham S. Ragan
+Cabinet :
+Gowling WLG (Canada) S.E.N.C.R.L., s.r.l.
+Ottawa (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Dans un de ses rapports, Mme Sandi Bailey a mis en doute en termes assez forts la compétence ou la qualification de Mme Kathryn Minard en matière d’évaluation de vins. Elle est même allée jusqu’à dire que Mme Minard avait enfreint les règles applicables de leur organisme d’accréditation. Ces remarques étaient excessives, superflues et injustifiées. Qui plus est, après avoir lu et entendu les explications de Mme Bailey quant aux motifs de cette charge, il m’est facile de conclure qu’elles étaient dépourvues de fondement et de valeur. Il semble que ce ne soit rien de plus que la sottise d’un novice face à une personne d’expérience.
+[2] L’experte de l’appelante n’a pas appliqué cette méthode d’évaluation ni aucune autre semblable à la seule bouteille qu’elle a trouvée (même étiquette, même millésime) en vente à la Société des alcools du Québec (la « SAQ »). Dans ce cas précis, elle a simplement utilisé le prix de détail de la SAQ. Elle n’a pas pu expliquer de manière satisfaisante comment cette façon de faire se conciliait avec son opinion générale selon laquelle la bonne méthodologie consistait à utiliser le prix qui aurait été payé en Ontario.
+[3] Indépendamment du fait que, dans son rapport et en interrogatoire principal, elle ait renvoyé à un certain nombre d’indices de vins où figurent jusqu’à la moitié des vins en cause.
+[4] La bouteille qui fait exception est celle pour laquelle l’experte n’a pas pu trouver de vente d’une bouteille identique. Après avoir demandé l’avis d’un encanteur chevronné spécialisé dans les vins de collection, selon lequel la bouteille n’aurait pas été acceptée pour une vente aux enchères de la LCBO l’année du don et qu’elle était peut-être déjà imbuvable, l’experte ne lui a attribué aucune valeur. Par contre, l’experte de l’appelante était d’avis qu’une bouteille de la même étiquette mais d’un autre millésime constituait un comparable convenable, même si le prix de cet autre millésime devait être réduit de 15 %.
+[5] 2005 CAF 386.
+[6] 2004 CCI 147.
+[7] Des éléments de preuve attestent que d’autres provinces canadiennes appliquent des restrictions sur la vente de vins semblables à celles applicables en Ontario.

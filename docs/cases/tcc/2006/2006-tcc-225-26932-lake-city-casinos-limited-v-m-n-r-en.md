@@ -1,0 +1,682 @@
+---
+title: "Lake City Casinos Limited v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26932/index.do"
+last_modified: "2006-04-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 225"
+citation2: ""
+neutral_citation: "2006 TCC 225"
+decision_date: "2006-04-20"
+language: "en"
+item_id: "26932"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 738
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:08:44.266000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f2057600fcfaa64d185b48bf4b3d6a016bb910a0881df7f536609080000337fe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lake City Casinos Limited v. M.N.R.
+
+- Citation: 2006 TCC 225
+- Decision date: 2006-04-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 738, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lake City Casinos Limited v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-04-20
+Neutral citation
+2006 TCC 225
+File numbers
+2003-4504(EI)
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-4504(EI)
+BETWEEN:
+LAKE CITY CASINOS LIMITED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Lake City Casinos Limited (2003-4505(CPP)), (2003-4506(EI)), (2003-4507(EI)), (2003-4508(EI)), (2003-4509(CPP)), (2003-4510(CPP)) and (2003-4511(EI)) on December 15, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew
+Counsel for the Respondent:
+Ron D.F. Wilhelm, Raj Grewal
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision rendered by the Minister is vacated for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of April 2006.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2003-4505(CPP)
+BETWEEN:
+LAKE CITY CASINOS LIMITED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Lake City Casinos Limited (2003-4504(EI)), (2003-4506(EI), (2003-4507(EI)), (2003-4508(EI)), (2003-4509(CPP)), (2003-4510(CPP)) and (2003-4511(EI)) on December 15, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew
+Counsel for the Respondent:
+Ron D.F. Wilhelm, Raj Grewal
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision rendered by the Minister is vacated for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of April 2006.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2003-4506(EI)
+BETWEEN:
+LAKE CITY CASINOS LIMITED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Lake City Casinos Limited (2003-4504(EI)), (2003-4505(CPP)), (2003-4507(EI)), (2003-4508(EI)), (2003-4509(CPP)), (2003-4510(CPP)) and (2003-4511(EI)) on December 15, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew
+Counsel for the Respondent:
+Ron D.F. Wilhelm, Raj Grewal
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision rendered by the Minister is vacated for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of April 2006.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2003-4507(EI)
+BETWEEN:
+LAKE CITY CASINOS LIMITED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Lake City Casinos Limited (2003-4504(EI)), (2003-4505(CPP)), (2003-4506(EI)), (2003-4508(EI)), (2003-4509(CPP)), (2003-4510(CPP)) and 2003-4511(EI)) on December 15, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew
+Counsel for the Respondent:
+Ron D.F. Wilhelm, Raj Grewal
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision rendered by the Minister is vacated for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of April 2006.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2003-4508(EI)
+BETWEEN:
+LAKE CITY CASINOS LIMITED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Lake City Casinos Limited (2003-4504(EI)), (2003-4505(CPP)), (2003-4506(EI)), (2003-4507(EI)), (2003-4509(CPP)), (2003-4510(CPP)) and (2003-4511(EI)) at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew
+Counsel for the Respondent:
+Ron D.F. Wilhelm, Raj Grewal
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision rendered by the Minister is vacated for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of April 2006.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2003-4509(CPP)
+BETWEEN:
+LAKE CITY CASINOS LIMITED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Lake City Casinos Limited (2003-4504(EI)), (2003-4505(CPP)), (2003-4506(EI)), (2003-4507(EI)), (2003 4508(EI)), (2003-4510(CPP)) and (2003-4511(EI)) on December 15, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew
+Counsel for the Respondent:
+Ron D.F. Wilhelm, Raj Grewal
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision rendered by the Minister is vacated for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of April 2006.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2003-4510(CPP)
+BETWEEN:
+LAKE CITY CASINOS LIMITED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Lake City Casinos Limited (2003-4504(EI)), (2003-4505(CPP)), (2003-4506(EI)), (2003-4507(EI)), (2003-4508(EI)), (2003-4509(CPP)) and (2003-4511(EI)) on December 15, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew
+Counsel for the Respondent:
+Ron D.F. Wilhelm, Raj Grewal
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of April 2006.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2003-4511(EI)
+BETWEEN:
+LAKE CITY CASINOS LIMITED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Lake City Casinos Limited (2003-4504(EI)), (2003-4505(CPP)), (2003-4506(EI)), (2003-4507(EI)), (2003-4508(EI)), (2003-4509(CPP)) and (2003-4510(CPP)) on December 15, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew
+Counsel for the Respondent:
+Ron D.F. Wilhelm, Raj Grewal
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of April 2006.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2006TCC225
+Date: 20060420
+Dockets: 2003-4504(EI), 2003-4505(CPP),
+2003-4506(EI), 2003-4507(EI),
+2003-4508(EI), 2003-4509(CPP),
+2003-4510(CPP), 2003-4511(EI)
+BETWEEN:
+LAKE CITY CASINOS LIMITED,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield J.
+[1] Lake City Casinos Limited (the "Casino"), has appealed assessments for unremitted Canada Pension Plan contributions and employment insurance premiums for the 2000 calendar year in respect of gratuities received by certain employees during the course of their employment with the Casino. In separate appeals the Casino has appealed determinations, made by the Minister in regard to particular employees, that the gratuities received by them during certain periods in the course of their employment with the Casino were insurable earnings and, in two such appeals, pensionable earnings, so as to require the Casino to deduct Canada Pension Plan contributions and employment insurance premiums for those periods. The appeals were heard on common evidence. While each appeal is for a different period falling between January 1, 2000 and June 1, 2002 and relates to different employees, and while not all appeals relate to contributions under the Canada Pension Plan, it was suggested that a Judgment with common Reasons would be appropriate.
+[2] A Statement of Agreed Facts is appended to these Reasons in Appendix A.[1] The following is a general overview which will help define the issue in these appeals.
+- The Casino operates four casinos in British Columbia under an Operating Agreement with British Columbia Lotteries Corporation ("BCLC") which is an agent of the British Columbia Government. All operating requirements placed on the Casino by the BCLC are found in the Operating Agreement and the BCLC's standard operating manual (the "Manual").
+- The gratuities in question are left for workers by patrons of the Casino. They are pooled and distributed in accordance with rigidly enforced tip policy procedures set out in the Manual. The BCLC tip policy issued in May 1998 effective until the end of May 2001 is reproduced in full in Appendix B to these Reasons (the 1998 Tip Policy). The BCLC tip policy effective thereafter is reproduced in full in Appendix C to these Reasons (the 2001 Tip Policy). Such procedures are imposed under the Operating Agreement to ensure gaming integrity.
+- Such procedures involve three stakeholders; namely the Casino, the BCLC and the "tip" committees comprised of volunteer Casino workers eligible to receive gratuities (each being referred to as a "Committee").
+- Eligibility to receive gratuities is subject to gaming regulations of the BCLC as are the "tip" collection procedures. Eligible workers fall into three groups: dealers and eligible table workers, slot attendants and servers. Each has its own Committee.
+- The actual allocation of gratuities amongst eligible workers is not governed or mandated by the BCLC other than to prescribe that they be distributed equitably. Allocations among eligible workers in a group are decided on by the Committee representing that group. Generally allocations are by hours worked. The Casino discussed allocation formulas with members of the Committees to ensure compliance with the equitable distribution requirement imposed by the BCLC.
+[3] It is not in issue that the gratuities are income earned in respect of and in the course of employment for the purposes of the Income Tax Act. The question is whether they are insurable earnings under the Employment Insurance Act and contributory salary and wages under the Canada Pension Plan. The Casino argues that the gratuities are not paid by it and that a strict reading of the relevant statutory provisions precludes them from being either insurable earnings under the Employment Insurance Act or contributory salary and wages under the CanadaPension Plan. That is, the relevant statutory provisions dictate that EI and CPP remittances of deductions and contributions are only required in respect of amounts "paid" by the employer. In construing the statutory language used, the Respondent, amongst other things, relies on social policy considerations and argues for a construction of the relevant provisions that casts a wider net. The Respondent argues that the degree of participation by the employer in the gratuity payment procedures in this case is sufficient to find it the gratuity payer for the purposes of the subject provisions.
+[4] The procedure for handling tips is set out in detail in the appended Statement of Agreed Facts. It is a scrupulous procedure under the eye of both the Casino and members of the Committee. From the moment a tip is tendered, a supervisor or surveillance personnel or security officer employed by the Casino would be informed. Under watchful eyes, including surveillance cameras, the tip would be placed into tip boxes. Every step thereafter from counting to converting chips to cash, to placing segregated bills in envelopes, to safekeeping, to delivery to workers was carefully watched and documented. For example tips in the form of chips were taken to a cashier where a cashier prepared a cash transfer slip documenting amounts and denominations. The cashier, Committee representative and supervisor would sign off on the tips cash transfer slips - a copy of which was attached to the Casino's daily cash summary form. As well, the Casino cash record sheet recorded the cash tip transfers along with all its own cash transfers and these record sheets were signed off by senior Casino managers and Casino site administrators. The tip cash was wrapped in forms noting the contents. Each wrapped bundle was signed off by the Committee member and a supervisor, placed in marked envelopes and then taken to the Casino's vault for safekeeping. This was done by a Committee member accompanied by a gaming supervisor and shift manager. Each eligible worker group had its own box in the vault separated from any of the Casino's property. When the cash was retrieved for distribution to workers, a cage supervisor, casino shift manager and security officer had to be present to open the vault and obtain the tip boxes. Tip shares were counted and divided and placed in separate envelopes for each entitled worker. This occurred in a secure counting room under camera surveillance. Again this task was performed by a Committee member. Envelopes with tip shares were then taken to the cashier station for pick-up by the worker who signed a tip record report. The tip record report was also signed off by a Casino site administrator to indicate its approval.
+Pit Supervisor Dispute
+[5] The Respondent's position relies heavily on certain facts set out in paragraphs 90 - 127 of the Statement of Agreed Facts. These paragraphs set out the particulars of a dispute that the Respondent suggests illustrates the Casino's control over the tip process.
+[6] The 1998 Tip Policy provided the Committees the discretion to exclude pit supervisors from the tip pool subject to BCLC approval. Pit supervisors were included in the 2000 tip pools without the BCLC's approval.[2] In June 2000, the Casino sought to stop a movement by dealers to exclude pit supervisors. Casino site administrators were told it would be considered contrary to the 1998 Tip Policy. A letter was sent to workers stating that pit supervisors were to be included in the tip pool and a notice was posted stating that any worker withholding tips from pit supervisors would be disciplined. One entire dealer Committee was suspended for threatening to exclude pit supervisors. The suspensions were for breach of company policy.
+[7] Eventually the dealers exercising their discretion and considering it inequitable to include them, voted to exclude pit supervisors. Still, nothing changed and the worker who asked for the vote was reprimanded for insubordination.
+[8] A union was organized in June 2001 and again the issue of including pit supervisors came to a vote the result of which was to exclude them again. By this time the 2001 Tip Policy was in place which was said to give Committees more flexibility in distributing tips[3] but on its terms it neither excludes pit supervisors from the tip pool nor provides a procedure for determining tip eligibility.[4] Still, the Casino disciplined workers who took any action to exclude pit supervisors from the tip pool. Two were suspended for a short period and one of the two was later fired. An arbitrator upheld the suspensions but found the firing excessive. The B.C. Labour Relations Board upheld the arbitrator's decision.[5]
+[9] I note here that in the labour dispute negotiations, cashiers who had been included in one of the tip pools in 2000 were to be given a raise if they were specifically excluded from the tip pool. The 1998 Tip Policy specifically excluded them but the 2001 Tip Policy did not. There is no disputing that the Casino had a vested pecuniary interest in seeing pit supervisors and cashiers share tips as otherwise its own payroll costs would be materially increased.
+Statutory Provisions & Related Regulations
+[10] The relevant statutory provisions under the Employment Insurance Act are as follows:
+2. (1) ...
+"insurable earnings" means the total amount of the earnings, as determined in accordance with Part IV, that an insured person has from insurable employment.
+67. Subject to section 70, a person employed in insurable employment shall pay, by deduction as provided in subjection 82(1), a premium equal to their insurable earnings multiplied by the premium rate set by the Commission.
+68. Subject to sections 69 and 70, an employer shall pay a premium equal to 1.4 times the employees' premiums that the employer is required to deduct under subsection 82(1).
+82. (1) Every employer paying remuneration to a person they employ in insurable employment shall
+(a) deduct the prescribed amount from the remuneration as or on account of the employee's premium payable by that insured person under section 67 for any period for which the remuneration is paid; and
+(b) remit the amount, together with the employer's premium payable by the employer under section 68 for that period, to the Receiver General at the prescribed time and in the prescribed manner.
+[11] The relevant regulations under the Insurable Earnings & Collection of Premiums Regulations ("IECPR") are as follows:
+2. (1) For the purposes of the definition "insurable earnings" in subsection 2(1) of the Act and for the purposes of these Regulations, the total amount of earnings that an insured person has from insurable employment is
+(a) the total of all amounts, whether wholly or partly pecuniary, received or enjoyed by the insured person that are paid to the person by the person's employer in respect of that employment, and
+(b) the amount of any gratuities that the insured person is required to declare to the person's employer under provincial legislation.
+4. (1) Subject to subsections (2), (3), (3.1) and (5), every employer shall remit the employee's premiums and the employer's premiums payable under the Act and these Regulations to the Receiver General on or before the 25th day of the month following the month in which the employer paid to the insured person insurable earnings in respect of which those premiums were required to be deducted or paid under the Act and these Regulations.
+[12] The relevant statutory provisions under the Canada Pension Plan are as follows:
+8. (1) Every employee who is employed by an employer in pensionable employment shall, by deduction as provided in this Act from the remuneration for the pensionable employment paid to the employee by the employer, make an employee's contribution for the year in which the remuneration is paid to the employee of an amount equal to the product obtained when the contribution rate for employees for the year is multiplied by the lesser of ...
+9. Every employer shall, in respect of each employee employed by the employer in pensionable employment, make an employer's contribution for the year in which remuneration for the pensionable employment is paid to the employee of an amount equal to the product obtained when the contribution rate for employers for the year is multiplied by the lesser of
+(a) the contributory salary and wages of the employee for the year paid by the employer, minus such amount as or on account of the employee's basic exemption for the year as is prescribed, and
+(b) the maximum contributory earnings of the employee for the year, minus such amount, if any, as is determined in prescribed manner to be the salary and wages of the employee on which a contribution has been made for the year by the employer with respect to the employee under a provincial pension plan.
+12. (1) The amount of the contributory salary and wages of a person for a year is the person's income for the year from pensionable employment, computed in accordance with the Income Tax Act (read without reference to subsection 7(8) of that Act), plus any deductions for the year made in computing that income otherwise than under paragraph 8(1)(c) of that Act, but does not include (2001, c. 17, s. 254(1).)
+21. (1) Every employer paying remuneration to an employee employed by the employer at any time in pensionable employment shall deduct from that remuneration as or on account of the employee's contribution for the year in which the remuneration for the pensionable employment is paid to the employee such amount as is determined in accordance with prescribed rules and shall remit that amount, together with such amount as is prescribed with respect to the contribution required to be made by the employer under this Act, to the Receiver General at such time as is prescribed and where at that prescribed time the employer is the prescribed person, the remittance shall be made to the account of the Receiver General at a financial institution within the meaning that would be assigned by the definition "financial institution" in subsection 190(1) of the Income Tax Act if that definition were read without reference to paragraphs (d) and (e). (R.S.C. 1985, c. 6 (1st Supp.), s. 1(1); 1993, c. 24, s. 143(1).)
+[13] The Respondent also relies on section 12 of the Interpretation Act which provides as follows:
+12. Every enactment is deemed remedial, and shall be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objects.
+[14] It is not in dispute that the employee deduction requirements and the employer premium requirements imposed on an employer are only in respect of amounts paid by an employer to an employee. In the case of CPP contributions, sections 8 and 9 make it clear that the applicable contribution rate for both employees' and employers' contributions is a function of the amounts paid by the employer. In the case of EI deductions (and premiums which are a function of the deduction amount), this is made clear in IECPR 2(1) where "insurable earnings" are defined as amounts paid to the employee by that person's employer.
+Respondent's Argument
+[15] The Respondent acknowledged in a written submission that tips constitute insurable earnings and contributory salaries and wages for EI premium and CPP contribution purposes only if they are "paid" by the Casino to its employees. However, considering the purpose of the legislation and its social assistance objectives, the argument advances a construction that would achieve its purpose wherever possible. Unlike other cases, in the case at bar the Casino is so involved in the distribution of tips that there are no impediments to including an employee's whole remuneration from employment in insurable earnings and contributory salaries and wages. The Respondent's argument emphasizes that: the Casino knows how much goes to each employee and when it is paid; it maintains records and is actively involved in the distribution of tips; and, it has exercised authority to dictate who is in a particular tip pool or group so as to impact the tip amounts received by employees.
+[16] The Respondent relies on the following to advance its arguments that the Casino ought to be treated as the payer of tip amounts to the workers:
+- The Casino supplied the workers all the facilities (such as the counting room and vault) and personnel required by the Committees to handle the tips (such as cashiers and security personnel). It supplied all necessary forms, related administrative services and computers and, where required by a Committee, related software to calculate tip allocations. It supplied the employee work records to enable the calculation of tip allocations.
+- The Casino had official records of tips making it possible to comply with the relevant deduction and remittance requirements imposed under the subject legislative regimes.
+- The Casino dictated who was in the tip pool as evidenced by the inclusion of pit supervisors and cashiers so as to effectively control the allocation and distribution of tips paid to its employees.
+- Tips were promised to workers as a part of their remuneration package and formed a large percentage of their total compensation. Controlling the allocation and distribution of tips paid to its employees reduced the Casino's wage obligations. This affected the Casino's profitability and demonstrates that its interjections and actions were part of its business which was being facilitated by its employees as its agents.
+- The various management approvals on the various forms required in handling cash in the tip distribution procedure shows that the Casino was the principal in charge of the tip distribution system.
+- The control over the tip cash during the pit supervisor dispute demonstrates that the Casino had more than mere custodial possession of the funds.
+[17] The Respondent argues that legislation that intends to meet social welfare objectives and advance a benevolent purpose must be interpreted liberally and purposively. Where it is possible by a fair and large construction of a statutory provision to attain its object, then such fair and large interpretation must be given. Since the intention of the subject legislation is clearly to include the whole of an employee's remuneration in respect of their employment, I must read the requirement that the remuneration be "paid by the employer" other than in a literal sense. Even a limited ability to direct or influence payment of tips coupled with mutual reliance on tips being included as part of the compensation for the work done and with the employer being informed of such payments by its own documentary records made in the regular course of its business, bolsters the argument that the employer be regarded as the person paying the tips.
+[18] Given that tips formed from 40-60% of some employees' income, excluding them from insurable and pensionable employment would result in a large decrease in their entitled benefits. The Court's primary concern should be to ensure that this does not occur. If it does, the intended benefits will not be received.
+[19] As well, the Respondent argues that it is open for me to find that the Casino is in fact the person actually paying the tips to its employees. The Casino had the power and responsibility to control the tip procedures and exercised and enforced that power. Under the Operating Agreement imposed by BCLC, the Casino had a legal obligation to collect, pool, monitor and distribute the tips to the employees according to policies it was responsible to enforce. To the extent the employees made their own distribution of funds paid to them directly by customers, they did so in their role of servants of the Casino acting on its behalf in collecting and distributing tips. The Committees when pooling and distributing tips acted inside the terms of their employment. They no more paid the tips than the payroll clerks paid wages on distributing payroll checks. Employees complied with BCLC policies because their employer required it. The Casino would suffer the consequences of a breach of those policies.
+[20] Further, the Casino was responsible for determining whether tip formulas and classes of recipient were equitable and was the conduit for the tips regardless of the degree to which it chose to defer to its employees the whole distribution process.
+[21] Lastly, I note that the Respondent raised a question in oral argument as to whether there is a deemed employer in this case. Subsections 10(1) of the IECPR and 8.1(1) of the CPPR provide that where a third person pays the employee, that third person is deemed to be an employer of that employee in addition to the actual employer. While the focus of this question was, at the hearing, and remains now, unclear to me,[6] it is unnecessary for me to consider it as I find nothing on the facts of this case that invoke the deemed employer provisions.
+[22] Turning then to their remaining arguments, Respondent's counsel relies on the following cases:
+Canadian Pacific Ltd. v. Canada, [1986] 1 S.C.R. 678
+In this case the employer agreed under a collective agreement to receive tips paid by its customers at banquets held in its establishment and then to distribute them to employees. In a four/three decision, the Supreme Court found that the tips were to be taken into account in calculating the premiums payable by the employer.
+In the majority decision delivered by La Forest J., it was found that "earnings", "insurable earnings" and "remuneration" included tips. At paragraph 20 he observed that:
+... As to the word "paid", which can equally well mean mere distribution by the employer or payment of a debt owing by him, I would simply observe that if one gives the word "remuneration" a broad meaning, one must also give a broad meaning to the word "paid".
+As well, at paragraphs 25, 26 and 27 he observed as follows:
+25. The interpretation I have given to "insurable earnings" is consistent with the purpose of the Act, which is to pay, to persons who have lost their employment, benefits calculated in terms of a percentage of their insurable earnings. Otherwise, an employee who received a good part of his earnings as tips would not benefit to the same degree as his colleagues who receive the whole of their earnings directly from the pocket of their employer. By adding to the definition of remuneration a whole series of benefits an employee receives by reason of his employment, the regulations clearly indicate that the expression should be given a broad interpretation. Moreover, as noted, a law dealing with social security should be interpreted in a manner consistent with its purpose. We are not concerned with a taxation statute. The cases of Penn v. Spiers & Pond Ltd. and Great Western Railway Co. v. Helps, supra, are merely examples of the principle that I have just stated.
+26. I would add that if the appellant is obliged to pay premiums solely in relation to the part of the earnings of his employee that comes out of his pocket, then it is in a better situation than other employers who pay these premiums in relation to all the earnings accruing to the employee from his work. The employer obviously benefits from the fact that some of his employees are in a position where they can obtain tips. He is able to retain their services at a better price. It, therefore, appears unjust that he should also be able to divest himself of a part of the obligation that all other employers must carry, or to restrict the amount of [page 690] benefits of his employees whose earnings come in good part from tips.
+27. It is true that these arguments are in a measure applicable equally to employees who personally receive tips, even though s. 3(1) of the Regulations does not mention these. However, those who drafted the Regulations no doubt concluded that it was necessary to proceed in this way for administrative reasons. See on this issue the case of Association des employés civils v. Minister of National Revenue, supra. It is almost impossible to levy premiums on tips obtained in this manner and it is for that reason that the Regulation does not take them into account. It goes without saying that insurable earnings include many tips collected in ways other than the ones collected in this case. For example, those added when paying a bill by credit card.
+S & F Phillip Holdings Ltd. (c.o.b. Sooke Harbour) v. M.N.R., 2003 T.C.J. No. 344
+In this case, the Appellant operated a resort hotel where dining room staff had established a system that all tips were pooled for distribution in accordance with a certain proportionate formula for all persons who were part of the food service team regardless of whether the tip was directed to a particular worker. The tip pool consisted of cash turned over to the employer (and recorded as part of the tip pool) and tips noted on credit card receipts. The workers agreed that the employer would retain 10% of the tip pool to cover credit card expenses. All tips including cash were recorded on a daily tip sheet so that cheques could be issued by the employer to the workers in accordance with their entitlements as determined by the workers themselves. There was evidence in the case that the employer was not amenable to employees working outside the agreed system although theoretically that was possible. Rowe D.J. relying on Canadian Pacific found that the employer paid the tip pool funds to the employees and was therefore liable for EI premiums on the tip amounts received by workers. In respect of CPP contributions, Rowe D.J. found that section 12 of the Canada Pension Plan was a factor in finding that tips formed part of contributory salary and wages since the employer issued T-4 slips including the tips for the purposes of the Income Tax Act.
+Insurance Corp. of British Columbiav. M.N.R., [2002] F.C.A. 104
+The judgment of the Court in this case ("ICBC") was delivered by Strayer J.A. It dealt with section 10 of the Employment Insurance Regulations which deems a person paying an employee to be an employer so as to be responsible for EI premiums. ICBC paid a worker who was employed by an insured person to provide assistance required as a result of injuries sustained. The Tax Court found that ICBC had no specific legal obligation to the payee worker and could not therefore be said to have paid the worker in a strict legal sense. Its obligation was to the insured and, in a legal sense, the payment was to the insured not to the worker. In considering the meaning of the word "paid" in this context, Strayer J.A. found that the Tax Court applied too narrow a meaning to it. He observed at paragraph 8 that the proposition is simple enough and its purpose clear:
+"...... premiums are to be deducted at sources where salary and wages are calculated and administered and where cheques or payment packets are issued. The term "paid" ought to be interpreted in context and it is not necessary to examine technical sources in order to attribute to it a meaning that would defeat the clear purpose of the section".
+Adopting this view he found ICBC to have "paid" the worker.
+Mangat v. Canada, [2000] F.C.J. No. 1464 (Q.L.) (F.C.A.)
+In this case McDonald J. delivered the judgment of the Court. Taxicab drivers who leased their vehicles from the dispatcher were paid by customers. The drivers delivered funds to the lessor/dispatcher keeping back a certain portion representing the drivers' earnings. It was held that even though the lessor/dispatcher made no payment in a literal sense, the express provision in the Employment Insurance Regulations that taxicab drivers were engaged in insurable employment made it necessary to ignore the direction of the payment. Otherwise the purpose of the Regulation would be entirely defeated.
+Union of SaskatchewanGaming Employees, Local 4005 v. M.N.R., [2004] T.C.J. No. 608 (Q.L.) (T.C.C.)
+In this case employees working for a casino had tips distributed by its union. The employer collected the tips and paid the union. Lamarre J. of this Court found that the union was a deemed employer pursuant to subsection 10(1) of the Employment Insurance Regulations so as to satisfy the requirement for tips to be included in insurable earnings - namely that they were amounts paid by an employer to an employee in the course of employment.
+Bell ExpressVu Limited Partnership v. Rex et al., [2002] 2 S.C.R. 559
+In this case the judgment of the Court was delivered by Iacobucci J. His analysis includes a discussion of the principles of statutory interpretation wherein he notes at page 580 that Driedger's modern approach has been repeatedly cited by the Supreme Court of Canada as the preferred approach in a wide variety of interpretive settings. It is an approach that recognizes the importance of context and harmony with the scheme and object of the legislation and the intention of Parliament. In the case of the subject legislation, the Respondent relies on its objective to provide benefits in respect of the whole of an employee's remuneration from employment. To give effect to such objective, the word "paid" should be given the widest possible meaning where the employer has played a role in the payment that would enable it to readily comply with the prescriptions imposed by such legislation.
+The Casino's Argument
+[23] The Casino, relying on certain cases and the plain meaning of the relevant provisions of the legislation and regulations, argues that it cannot be found to have paid the tip amounts to its employees. To have "paid" such amounts, the Casino needed possession of the tip money which it never had for its own account and in any event it lacked the authority over the funds as would enable it to effect a transfer to the employees. Possession of the money with authority to effect an actual transfer of it has to be a pre-requisite to withholding as one cannot withhold from what one does not have.
+[24] To support its argument it relies on the agreed facts set out in paragraphs 84 to 89 which read as follows:
+84. The tip money at all times belonged to the employees, not the Appellant.
+85. The tip money was never commingled with the Appellant's own revenue.
+86. The tip money was never reflected in the books of account or accounting records of the Appellant.
+87. Tip distribution was not integrated with the regular payroll of the Appellant.
+88. The Committees physically distributed the tips to the recipients.
+89. The Committee, not the Appellant's management, counted the tips, converted the tips to cash, put the cash in the vault, and distributed it to its members.
+[25] As well, the Casino's submission makes particular reference to a number of other agreed facts which tend to support its overall position that the tips were collected, counted, allocated and distributed (paid) through a tip pooling and distribution system conducted entirely by the employees outside the scope of their employment and that the Casino's involvement in the process cannot constitute "payment". See for example, agreed facts, paragraphs 52-56 which highlight that the Committees, comprised of volunteer members, paid their own expenses. The tip allocation and distribution procedures were done by and for the benefit of workers and not on behalf of the Casino. The economic benefit to the Casino of the tip system and its efforts to take advantage of it do not change the fact that the tips are the property of the workers from beginning to end and that the Casino makes no payments in respect of them.
+[26] The Casino's counsel argues that the personnel and facilities provided by the Casino are irrelevant to the question of who paid the tip amount to the workers. That the regulatory regime, imposed to maintain integrity in this cash exposed, gaming environment, requires, or effectively requires, the Casino's involvement in the process, cannot diminish the underlying reality that the employees distributed the tips amongst themselves and that there was no payment by the Casino. Agreed facts at paragraphs 17 and 35 confirm that tips are provided by customers at their discretion and are received by the employees as a result of customer satisfaction. Once received, the handling of the tip money is governed by BCLC prescribed policies. Same dictate tip eligibility and afford the Committees some discretion as to who may participate in the pool. While Committees discussed distribution formulas with the Casino, different Committees could and did use different formulas.
+[27] The Casino's counsel argues that the work records being supplied by the Casino to calculate the tip allocation is not a relevant factor in determining who paid the tip amounts to the workers and are not in themselves sufficient to calculate the allocations. As to the use of equipment, Casino's counsel points out while the allocations were often done on a computer applying Lotus or Excel software supplied by the Casino, some Committees chose to use their own computers or to do the calculations by hand. See the Statement of Agreed Facts at paragraphs 64-67. All this supports the underlying reality that the employees distributed the tips amongst themselves and that there was no payment by the Casino who at no point was in possession of the funds except in a custodial capacity while in the Casino's vault or momentarily in a cashier's hands.
+[28] The Casino's counsel argues that the distribution approvals signed by the Casino were verifications that the Committee had signed off on the allocations and distributions. This had to be the case as the Casino did not scrutinize the calculations made by the Committees.
+[29] The Casino's counsel also argues that the Casino having official records of the tip amounts is irrelevant to the question of who paid the tip amount to the workers. That it is therefore possible for the Casino to comply with the subject provisions in the same way it could if it were the payer, is not relevant to the question of who paid the tip amount to the workers.
+[30] The cases relied on by the Casino include the following:
+The Queen v. Coopers and Lybrand Limited, [1981] 2 F.C. 169 (F.C.A.)
+In this case it was held that a receiver and manager, even though acting on behalf of others and having no personal liability, was the person paying wages to employees so as to come within section 153 of the Income Tax Act. At paragraph 39, Kelly D.J. observed that even if the receiver was an agent acting with the concurrence of the principal, the person causing them to be made was the receiver. Such observation, at paragraph 40, led to the conclusion that the receiver was the person paying wages to employees.
+Guimond v. M.N.R., [2000] T.C.J. No. 143
+In this case a café owner had established a system for allocating tips and all tip money was held in the employer's cash register until the end of a shift. A waitress designated by the employer was to add up the tips for the day in the evening after working hours. The tips were allocated on a percentage basis in accordance with the number of hours worked and the total was entered in a computer. The tips were distributed after working hours and there was no official record of the amount of tips distributed. The Court was unable however to determine on the evidence whether or not tip amounts were recorded or monitored by the employer. The Minister took the position that tips were not paid by the person's employer and did not meet the requirements of the Employment Insurance Act. The Minister's position prevailed.
+[31] The Casino also relies on several cases regarding statutory interpretation. In particular the Casino relies on Canada Trustco Mortgage Co. v. Canada, [2005] S.C.J. No. 56 where McLachlin C.J. and Major J. delivering judgment on behalf of the Court noted at paragraph 41 that courts cannot search for an overriding policy of an enactment that is not based on a unified contextual and purposive interpretation of the specific provisions in issue. The case was in the context of the Income Tax Act and at paragraph 41 the Court said that to send the Courts on a search for some overarching policy and then use such a policy to override the wording of the provisions of the Act would inappropriately place the formulation of tax policy in the hands of the judiciary. In Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622 McLachlin J., delivering judgment for the Court, noted at paragraph 20 that it is well established that in this Court's tax jurisdiction, a search and inquiry for either the economic realities of a particular transaction or the general object and spirit of the provisions at issue can never supplant a Court's duty to apply an unambiguous provision of the Act to a taxpayer's transaction. If the provision at issue is clear and unambiguous its terms must simply be applied.
+[32] The Casino's counsel also cites paragraph 97 in the majority decision in McClurg v. Canada, [1990] 3 S.C.R. 1020 where the Court notes that the term "payment" has acquired no technical meaning in the Income Tax Act and is to be interpreted in its popular sense.
+[33] The Casino's counsel also addressed the authorities relied on by the Respondent. It was conceded that the Supreme Court of Canada in Canadian Pacific determined that gratuities paid by customers could be included in insurable earnings. However limiting that decision to its facts would not assist the Respondent in the case at bar. In Canadian Pacific tips were collected by or paid to the employer who passed them on to employees. In a literal sense the employer did "pay" the employees. It wrote the cheques, drawing on funds held for that purpose but commingled with and forming part of the employer's property. A strict and literal construction of the subject provisions was applied to ensure workers were included in this social assistance net. Similarly in Sooke Harbour this Court determined that where the employer collects gratuities from workers, deposits them in its account, integrates it in its payroll system and issues the cheque, it must be considered as having made the payment. The case distinguishes cases where the employer has no involvement in the tip process so that no amount could be found to have been "paid" by the employer to its workers. Again a literal approach was taken to applying the subject provisions to ensure workers were included in their social assistance net.
+[34] As to the decision in Union of Saskatchewan Gaming Commission, the Casino's counsel pointed out that the Minster took a contrary view to the one taken in the case at bar. In that case, the casino collected gratuities, deposited them in its account and then sent the gross receipts to the Union which distributed them to employees according to Union rules. The Minister argued that that facilitation of the distribution of tips as done by the casino was not meaningful control so as to constitute payment. The Union made the distribution to the employees. Accepting the Minister's position the Court found the Union to be a deemed employer responsible for the remittances.
+Analysis
+[35] In general terms, the Casino wears at least three hats in respect of its stakeholder interest in tip procedures and allocations. Firstly, it is the front line enforcer of the gaming regulations. Its license to operate imposes adherence to all gaming regulations. It is thereby required to ensure that the subject gratuities are dealt with in a manner consistent with the regulations. Secondly, it has the physical plant and related facilities and amenities that are inevitably incorporated into the "tip" procedures. Thirdly, it is the employer of the eligible workers with the inevitable interest in the labour relations and compensation issues that arise in the course of its workers' participation in the "tip" pool.
+[36] The Casino being the enforcer of gaming regulations obscures the issue in my view. This is not to suggest that the Casino's role as enforcer of BCLC policies is not to be acknowledged. Typically it makes little difference why an employer imposes certain procedures on its workers. The employment contract is between the parties who enter into it. The BCLC is not a party to the employment contract. Incorporating conditions on employees to ensure that the employer will not run afoul of conditions imposed on it by a third party such as the BCLC, does not alter the privity of contract rules that govern the contract between the employer and the employee. The pit supervisor dispute illustrates that the Casino imposed its view of the BCLC requirements as its own company policy. Further, even though the BCLC 1998 Tip Policy invited a direct link between the Committees and the BCLC, it never involved itself in the dispute. Still, even regarding the BCLC tip policies as those of the Casino, that does not, in my view, affect the analysis. An employer who requires employees to distribute tips equitably and sets out security requirements for the handling of the employees' tip money to protect them or itself (for any reason including adhering to third party imposed conditions) cannot thereby be said to have "paid" the tips to the employees.
+[37] Considering the Casino's "facilitator" hat, I do not find that to be a relevant factor in the analysis either. That an employer lets his employees use his till to keep tip money or that it provides hourly time records is irrelevant to the question of who paid the tips. The customer who gratuitously pays the tip directly to the worker as a reward for a service is not an employer and no serious assertions have been made that they should be treated as a deemed employer. From that point on, it is agreed that the tip money belonged to the employees at all times and was never commingled with Casino property. Tips were physically distributed by the Committees and there were no serious assertions that they should be treated as deemed employers. In these circumstances it is impossible to suggest that the facilitation afforded to the Committees by the Casino has any bearing on the question of who paid the tip money to the workers. Accommodating workers in their dealings with their tip money is as irrelevant to that question as it would be to suggest that the provision by an employer of a lunch room or coat rack for the use of employees might be a factor in determining whether the employees' lunches and coats were provided by the employer.
+[38] Even the meticulous cash record keeping, which includes records of tip money, and the approvals of the tip distributions signed by the employer do not suggest any interference or authority over the tip money. The Casino itself must account for all the cash handled in the facility and exacting records of cash not belonging to it is a necessary part of the exercise. Aside from ensuring that BCLC tip policies are adhered to, it needs to ensure and record that the handling of tip money is isolated from its own cash. Ensuring that there is no possibility of commingling protects everyone. It is not a factor in determining who paid what to whom; it is part of a process to ensure that there is no mix-up in respect of the already clear answer to that question. Even signing approvals of the final releases of envelopes to workers, seems to be little more than the final step in this process of ensuring the necessary and proper segregation of funds.
+[39] That this process affords the Casino the necessary information to calculate deductions and premiums under the subject provisions is also irrelevant. While cases referred to have pointed out that the subject provisions could not readily apply to persons not having the necessary information to comply and that that is a rationale for not imposing liability under such provisions in those cases, does not necessarily suggest that persons having the necessary information should be subjected to those provisions. That cases justifying a literal construction of the subject provisions may have relied to some extent on that rationale does not require extension of the rationale to cases where the employer never actually paid tip entitlement amounts to workers. Imputing liability by virtue of knowledge would be is an extraordinary extension of the principles recognized in such cases as Canadian Pacific and Sooke Harbour.
+[40] For example in Sooke Harbour, the employer's liability resulted from a facilitation afforded by the employer that not only gave it relevant information but resulted in the tip money being fully integrated into the employer's regular payroll mechanism including the preparation and issuance of cheques. Clearly these factors are the basis of the decision in that case.[7] While an agency argument might have been advanced, the point of the case was that - applying the plain and ordinary meaning of the subject provisions - writing the cheque was sufficient to constitute payment. Ascribing such plain meaning advanced the objectives of the legislation and was not plagued by any issues relating to the absence of official records. This is not authority to suggest that official employer records of amounts paid constitute payment. Similarly, that it was noted in Canadian Pacific that the subject provisions had to be written on the basis of who made the payment, as otherwise they would be impossible to administer, cannot be taken to suggest that official employer records of amounts paid constitute payment.
+[41] Accordingly, I cannot agree with the Respondent that these authorities assist the Respondent's case. The Casino, in providing its facilities to the employees and maintaining security over employees' funds, segregated from its own, comes by knowledge of tip distributions. That knowledge, flowing from such facilitation, is as irrelevant in determining who made the distribution as is the provision of the facilities themselves.
+[42] This takes me to consider the third hat worn by the Casino; namely an employer with an inevitable interest in the labour relations and compensation issues that arise in the course of the workers' participation in the tip pool.
+[43] Ultimately, it is the extent of the Casino's direction, control or influence under this hat that gives the Casino the most difficulty. The Respondent's position at the end of the day comes down to whether certain acts of the Casino, as employer, cross a line so as to make the gratuities part of the wages "paid by" it to the workers. The line crossed is that the Casino has taken control over the allocations by imposing on the Committees the persons who are eligible to receive tips. This tends to demonstrate control or authority over the tip money sufficient perhaps to regard the Casino as the payer of these funds particularly if a liberal and expansive meaning is to be given to the word "paid".
+[44] I do not accept the Respondent's argument that the Casino had such authority over the tip money that would constitute payment. Aside from the argument that such construction is required, in the context of the subject provisions being social assistance provisions to be construed and applied liberally and expansively to meet their social objectives, this argument relies on facts that are neither admitted nor, in my view, even suggested by the agreed facts or documents jointly submitted. The Casino may have misused its right to discipline workers for insubordination although that was not the finding of the arbitrator or the Labour Review Board that accepted that the pit supervisors were meant to be included workers and found, in any event, that insubordination is just that (even if the employer is wrong). Regardless, the Casino as an employer had to deal with the problem. Pit supervisors accused the dealer Committee of theft and wanted charges laid.[8] The question was not whether the tip money belonged to the employer to deal out. It belonged to workers. That the employer should let them fight amongst themselves or let a union that represents one group but not the other impose a position favouring one group is likely unacceptable. That the Casino interfered in a manner that suited its economic interests is clearly a role it took as employer but that does not, to my mind, constitute such authority over the funds as would make it the payer of the funds.
+[45] So the question in my view comes down to whether the assertive actions of the employer to resolve a labour dispute matters in this appeal. I accept that the Casino imposed its will on the Committees who had authority over the tip funds, to pay out those funds in a certain way. The question then is whether that is sufficient to make the Casino the payer. Incidentally it has an official record of all relevant information, it factored in tips as part of its economic well-being and tips were a large portion of the compensation received by workers for services performed in the course of their employment. Taken together, should this make the Casino someone akin perhaps to a constructive payer of the tip money?
+[46] It is a peculiar notion, in my view, to regard a person as a constructive payer where doing so means that a person who gives another their own property is a payer. Such expansive meaning of the word "paid" requires, in this case, a finding that the Casino had the property to pay back to the employees. Even the agreed facts prevent such a finding. It is more peculiar yet to attribute a constructive payment regime on the employer where its actions are necessitated by disruptive labour relations issues arising from the interpretation of an equitable distribution policy that the employer has in effect contracted with the workers to uphold. Employees seem to prefer tips to corresponding wages and the employer took steps to see that they were handled equitably. That the employer had a corresponding interest in the manner in which these issues were resolved should not be an overriding factor in this analysis.
+[47] Still, the Respondent argues that the Casino imposing its will on the Committees who had authority over the tip funds, to pay out those funds in a certain way, coupled with all the other factors it relies on, should be sufficient to compel a finding that the Casino paid the tip amounts to its workers. That this requires an expansive reading of the subject provisions should not be a bar to making such finding. Indeed, the statutory construction authorities relied on by the Respondent are said to clearly invite it.
+[48] I will deal with these authorities relied on by the Respondent in two parts although they are related. Firstly, I will consider the authorities that deal specifically with tips and then, secondly, I will consider the authorities dealing more generally with statutory construction.
+[49] All the cases relied on by the Respondent dealing with tips are readily distinguished from the case at bar. All deal with facts where the employer or deemed employer actually made the payment. Cheques were drawn by the employer or deemed employer from their own accounts. They were the source or place from where payment was made. Canadian Pacific, Sooke Harbour, ICBC and the Union of Saskatchewan Gaming Employees all are distinguishable on this basis.
+[50] The facts in Canadian Pacific frame the issue decided by the Supreme Court of Canada in that case. The issue as stated at paragraph 2 of the Judgment delivered by La Forest J. was:
+[2] ... "in calculating premiums, is it necessary to take into consideration amounts which an employer paid its employees after receiving them from its customers, who had paid them to the employer of their own accord, to be distributed to the employees as tips?" [emphasis added]
+That the tip money was paid to the employer by customers for the employees was found not to matter. Examining the relevant provisions at the time, that expressly included gratuities (tips) where "paid" by the employer,[9] it was found that viewing the party actually making payment of tip amounts to employees as the party making the payment, was consistent with the legislative objectives and rationale of that requirement. This was also the finding of Justice Lamarre in Union of Saskatchewan Gaming Employees where she found that the Union making the actual distribution to employees was the party that "paid" the tip amounts. The judgment in Sooke Harbour stands for the same principle as does the judgment in ICBC where Strayer J.A. found that actual payment, as opposed to payment pursuant to a legal obligation, was sufficient to constitute a payment under the subject provisions. These cases all support applying a literal, or common usage or ordinary meaning, to the word "paid". In these cases giving words their ordinary meaning was harmonious with the clear intent of the legislation; all principles of statutory construction merged so as to compel one finding. That cannot be said in respect of the case at bar.
+[51] This takes me to consider the more general statutory construction arguments of the parties. The Respondent argues that the modern rule of statutory construction requires an expansive and liberal construction of the subject provisions in order that their application be consistent with the social objectives that they are designed to achieve.
+[52] As to the authorities cited by the Casino's counsel, I note the cases relied on are income tax cases. Respondent's counsel pointed out that those cases therefore fall within the domain of stricter construction principles which differ from the construction principles applicable to social assistance legislation. Ignoring that EI and CPP premiums and deductions are a form of tax in respect of which employers might beg for clear statutory language applied in accordance with the plain meaning of that language, I agree with the Respondent's counsel on this point. However, I do not agree that either the liberal or modern rule of statutory construction, even in the case of social assistance legislation, requires an expansive construction of the word "paid" in this case. I do agree, of course, that social welfare legislation is to be liberally construed so as to advance the benevolent purpose of the legislation. But even Driedger who advances such rule admits that resolving a legislative provision to advance a benevolent purpose derives from a reasonable doubt or uncertainty in the construction of the underlying legislation.[10]
+[53] The modern rule cited by Iacobucci J. at page 87 of Bell ExpressVu speaks of reading words in their grammatical and ordinary sense. "Paid" means "paid" under that approach but that is not the end of the matter. One must regard the entire context of the legislation so that the words are read harmoniously with the scheme and object of the legislation and the intention of Parliament.
+[54] It strikes me that, in the case at bar, context, scheme and intent might not all beg for a construction of the subject provisions that would expand their broad social assistance objectives. It is not for the courts to go too far to achieve a general objective in such cases. Even without looking at authorities that suggest that there should be an ambiguity in statutory language before courts should import meaning to words beyond their clear meaning, one might find evidence in the context of the subject legislation itself that reflects some limitations on its intended scope in terms of its being applied too broadly.
+[55] There are two contextual aspects regarding the subject provisions that must be considered. The first is that the EI provisions make express mention of gratuities. The second is that the CPP provisions make reference to a method whereby tips can be included in an employee's pensionable earnings.
+[56] Paragraph 2(1)(b) of the IECPR requires the inclusion of gratuities as part of one's "insurable earnings" where the employee must declare them to their employer as part of the terms of their employment. Pursuant to section 1 of SOR/98-10, in force as of January 1, 1998, subsection 2(1) of the IECPR was amended as follows:
+2. (1) For the purposes of the definition "insurable earnings" in subsection 2(1) of the Act and for the purposes of these Regulations, the total amount of earnings that an insured person has from insurable employment is
+(a) the total of all amounts, whether wholly or partly pecuniary, received or enjoyed by the insured person that are paid to the person by the person's employer in respect of that employment, and
+(b) the amount of any gratuities that the insured person is required to declare to the person's employer under provincial legislation.
+[57] I suggest that Parliament has deferred jurisdiction over the social assistance net for EI in respect of workers who receive tips not paid by their employer. This is not a suggestion that I pull from thin air. Although not forming part of SOR/98-10, which amended the IECPR to include paragraph 2(1)(b), attached to the Regulations was a Regulatory Impact Analysis Statement which provided:
+The Insurable Earnings and Collection of Premiums Regulations provide, among other things, for the definition of insurable earnings to be used by employers in determining employees' and employers' employment insurance premiums. The amendment to subsection 2(1) of the Regulations provides that gratuities that an employee is required to declare to an employer pursuant to a provincial statute will now be included in the definition of "insurable earnings" and thus employment insurance premiums will be required on the amount that must be declared pursuant to a provincial statute. As a consequence of this amendment, the amount used in the calculation of unemployment benefits will also be increased by the declared amount, thus giving the employee the possibility of obtaining higher unemployment insurance benefits in the event of job loss.[11]
+[58] The IECPR were then amended to take into account Quebec's new system which required the declaration of direct gratuities to employers.[12]
+[59] Paragraph 2(1)(b) of the IECPR does not apply to these appeals since there is no provincial legislative mandate to declare tips/gratuities to the employer in British Columbia. I suggest that it is not for this Court to impose an expanded social net for EI where the province has effectively declined an invitation from Parliament to do so.
+[60] As to CPP,employees can elect to make a CPP contribution on tip amounts earned in the course of pensionable employment that are found not to be subject to a source deduction.
+[61] This election is made possible by virtue of subsection 13(3) of the CPP.[13] Again this indicates that Parliament has envisioned that tips earned in the course of employment can fall outside the legislative net and that when they do, there is a mechanism to ensure proper benefits to workers. That this is a more expensive access to benefits, in that the worker will pay the employer's contribution, it is, nonetheless, in a contextual sense, reason to accept that Parliament has considered the issue and is satisfied with the language of the subject provisions. It is open to Parliament to extend this type of provision to EI without this Court's intervention.
+[62] Accordingly, I reject the Respondent's argument to apply an expansive meaning to the word "paid" so as to include the tips amounts in question in these appeals as insurable or pensionable earnings.
+[63] Before concluding, I note that the Respondent's argument that the employees were the agents of the Casino in the handling of the tips is not supportable. It is a distortion of the facts in my view. If the tips are paid to and for the benefit of workers, are accepted on that basis and never become the property of (or even commingled with the property of) the employer, there can be no agency. That the employer benefits from its role in ensuring that tip money is scrupulously dealt with and equitably distributed to protect its worker's interests, does not change this reality. The question always reverts to whether the employer's actions can be regarded as constituting payments pursuant to the subject provisions. That question has already been answered. Nothing the Casino did was, in my view, sufficient to constitute payment of tip monies by it to its workers.
+[64] For these Reasons the appeals are allowed.
+Signed at Ottawa, Canada, this 20th day of April 2006.
+"J.E. Hershfield"
+Hershfield J.
+CITATION:
+2006TCC225
+COURT FILE NOS.:
+2003-4504(EI), 2003-4505(CPP),
+2003-4506(EI), 2003-4507(EI),
+2003-4508(EI), 2003-4509(CPP),
+2003-4510(CPP), 2003-4511(EI)
+STYLE OF CAUSE:
+Lake City Casinos Limited and
+The Minister of National Revenue
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+December 15, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+April 20, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Douglas H. Mathew
+Counsel for the Respondent:
+Ron D.F. Wilhelm, Raj Grewal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Douglas H. Mathew
+Firm:
+Thorsteinssons
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+APPENDIX 'A'
+STATEMENT OF AGREED FACTS
+The parties admit the following facts only for the purposes of this appeal and any further appeal respecting it. The parties also agree to the authenticity of the attached documents listed on Schedule "A" hereto and consent to their admission into evidence only for the purposes of this appeal and any further appeal respecting it. Either party may adduce other evidence relevant to the appeal and not inconsistent with the facts in this statement and attached documents.
+Casino Business of the Appellant
+1. The Appellant is a corporation operating a casino business in British Columbia.
+2. In 2000, the Appellant operated four separate casinos in British Columbia in Kelowna, Kamloops, Vernon and Penticton.
+3. In 2000, the Appellant generated approximately 40% of its revenue from the Kelowna casino, 30% from the Kamloops casino, and 15% each from the two remaining casinos.
+4. In 2000, about 15% of the Appellant's gaming revenue was from table games, with the remainder from slot machines.
+5. British Columbia Lottery Corporation (the "BCLC") is an agent of the British Columbia Government.
+6. The Appellant operated the casinos under a casino operating services agreement (the "Agreement") between the Appellant and the BCLC.
+7. All operating requirements placed on the Appellant by the BCLC were found in the Agreement and the BCLC's standard operating manual (the "Manual").
+8. The Manual set out the BCLC's policies for casino operations, including the administration and distribution of tips.
+9. The BCLC's primary interest in entering into the Agreement, and establishing the policies in the Manual, was to ensure gaming integrity for the protection of customers, employees and assets in the casinos.
+10. The Agreement and the Manual are intended to ensure gaming integrity at casinos.
+11. If the Appellant did not comply with the Agreement or the Manual, it would be in breach of the Agreement with potential consequences ranging up to termination of the Agreement by the BCLC.
+Casino Employees
+12. In 2000, the Appellant employed the following groups of casino workers:
+(a) dealers;
+(b) pit supervisors;
+(c) gaming supervisors;
+(d) slot attendants;
+(e) slot supervisors;
+(f) cashiers;
+(g) cage supervisors;
+(h) security officers;
+(i) security managers;
+(j) surveillance officers;
+(k) surveillance managers;
+(l) servers;
+(m) beverage supervisors;
+(n) beverage managers;
+(o) drop team members;
+(p) drop team supervisors;
+(q) customer service managers;
+(r) casino shift managers; and
+(s) a site administrator, who was the senior manager of the casino.
+13. An average shift at Kelowna casino involved:
+(a) 8 to 10 dealers;
+(b) 2 to 3 pit supervisors;
+(c) 2 to 3 slot machine attendants;
+(d) 1 slot supervisor;
+(e) 2 servers, including a supervisor;
+(f) 2 to 3 cashiers, including a supervisor;
+(g) 2 to 3 security employees;
+(h) 2 surveillance employees;
+(i) 1 security supervisor;
+(j) 1 security manager; and
+(k) 1 shift manager.
+14. Each casino employee of the Appellant entered into an employment agreement with the Appellant entitled "Terms and Conditions of Employment" (Joint Book of Documents ("Documents") Tab 1) under which the employee, inter alia, agrees to abide by all BCLC policies.
+15. At the time of hiring, the Appellant told employees hired in tip eligible positions that they would receive tips.
+16. The employees in issue in these appeals were employed by the Appellant and not the BCLC.
+17. This appeal concerns only those employees of the Appellant who received tips in the course of their employment with the Appellant. Tips are received by the employees as a result of customer satisfaction provided to customers of the casino. These employees received these tips by reason of their employment with the Appellant.
+18. The Appellant estimates that in 2000, approximately 40% of a typical dealer's income was from tips.
+19. The Appellant estimates that a typical slot attendant's income was 33% from wages and 66% from tips.
+20. If a term of the Agreement or a BCLC policy was breached by one of the Appellant's employees, the BCLC looks to the Appellant to deal with the issue, rather than dealing with that employee directly.
+BCLC Tips Policies
+21. Casino employees were paid an hourly wage. In addition, certain of the employees were eligible to receive tips or gratuities in accordance with BCLC policies.
+22. The BCLC tips policy dated May 26, 1998 (the "1998 Tips Policy") (Documents, Tab 2) was in effect from that date until June 1, 2001, and was not amended during that period.
+23. The 1998 Tips Policy provided that:
+(a) Only dealers and/or dealer supervisors shall handle tips;
+(b) The tips shall be pooled and distributed equitably;
+(c) Dealers and dealer supervisors will be included the tip pool;
+(d) Certain specified employees may not participate in the tip pool; and
+(e) Hosts, hostesses and pit supervisors may participate in the tip pool at the discretion of the service provider staff committee, subject to the BCLC approval.
+24. The 1998 Tips Policy was silent with respect to slot attendants or servers.
+25. On June 1, 2001, a new BCLC tips policy (the "2001 Tips Policy") (Documents, Tab 9) became effective, under which only dealers, servers, customer service representatives and slot attendants could accept or receive tips from a patron.
+26. While BCLC developed the actual policies and procedures, including the tip policies, it did so in consultation with the casino industry.
+27. The Appellant monitored the tips process to ensure compliance with the BCLC's policies.
+Casino Security
+28. The Appellant placed surveillance cameras throughout its casinos and its parking lots, except for the washrooms.
+29. The Appellant's surveillance employees constantly monitored the surveillance cameras.
+30. All casino activities, including the tips collection and distribution process, were monitored and recorded by the Appellant's surveillance.
+31. Transfers of cash and chips occurred at the cashier's cage and dealer tables.
+32. The BCLC required the Appellant to maintain a paper trail for chips transferred to the gaming tables from the chip storage area, and for cash collected at the tables. This was done in order to ensure gaming integrity.
+33. Tracking of chip transfers and cash collected was part of the obligation imposed on the Appellant by the BCLC to track, record and supervise cash moving through the casinos.
+Tip Collection Process
+34. The Appellant posted notices respecting the tips collection and distribution process in its casino's staff rooms.
+35. When a table game customer provided his tip to a dealer, it occurred in one of two ways, the sole discretion of which was at the direction of the player:
+(a) The first method is by a direct tip where the player simply gives the tip
+to the dealer.
+(b) The second method is that a bet would be made by the player on behalf of the dealer. In that case, the gratuity was dependent on the outcome of the next hand. If the player lost the next hand, both the player's bet and the bet made by the player on behalf of the dealer would be taken by the casino. If the player won the next hand, the casino would pay the winnings both on the player's bet and the bet made on behalf of the dealer. The dealer's tip became the original bet made on behalf of the dealer and the related winnings.
+36. Regardless of whether the tip to a table game dealer came in the form of a direct tip or winnings from a wager:
+(a) the dealer would first alert the pit supervisor to monitor the tip process at the table;
+(b) on the rare occasion that a tip was provided in the form of a bill, it would be converted into a chip;
+(c) chips or coins representing tips were placed off to the side, until $25 worth were accumulated;
+(d) once $25 worth of tips accumulated, the chips were exchanged for a $25 chip which was placed into a transparent plastic tip drop box attached to the side of the gaming table;
+(e) at the close of business, a designated dealer from a tip committee (the "Committee") and a security employee collected the tip drop boxes from the tables;
+(f) the tip boxes were emptied at each table, and the chips were taken to an empty table;
+(g) at that point, the Committee representative counted the tips in the presence of the Appellant's security officer; and
+(h) once the tips had been counted, the chips were taken to the cashiers' station by the Committee representative where they were converted from chips into cash.
+37. When a slot machine customer provided his tip to an attendant during the period in issue:
+(a) the attendant first notified the Appellant's surveillance department that they received a tip;
+(b) then, she took the tip to the cashiers' cage, where it was placed into a box; and
+(c) the cash tips were then counted and kept in safekeeping for the tip pools.
+38. When a food and beverage customer provided his tip to a server during the period in issue:
+(a) the server first notified the Appellant's surveillance department that she received a tip;
+(b) then, she would place the tip into a tip box at the serving desk; and
+(c) at the end of the night, that box was taken to the cashiers' station where the tips were converted into bills and kept for safekeeping.
+39. Most of the tip monies arose from the slot machines, rather than the table games.
+40. Patrons gave most of their slot machine tips in cash, and most of their table tips in chips.
+41. When the Committees presented the counted chips and coins representing the tips to the cashier, the cashier prepared a Cash Transfer slip (Documents, Tab 4) that listed and totalled the amounts involved and denominations of cash into which the tips were converted.
+42. The cashier, committee representative and a supervisor would sign off on the tips Cash Transfer slip.
+43. Three copies of each tips Cash Transfer slip were made, with one staying with the cashier, one being attached to the Appellant's daily cash summary form and one being placed with the tips themselves.
+44. The Appellant's cashiers maintained a Cash Record Sheet (Documents, Tab 5) which recorded any cash or chip transfers, including those respecting tips, and had all Cash Transfer slips attached to it.
+45. The Appellant's senior casino managers, the casino site administrators, signed off on the cashier's Cash Record Sheet.
+46. The Appellant kept the Cash Transfer slips and Cash Record Sheet for 7 years.
+47. After the cashiers had exchanged the tips for cash, the cash was wrapped in a photocopied form showing the amount and denominations of the cash.
+48. The photocopied form was signed by a Committee member and a supervisor.
+49. At the end of each day, the Committees placed all the tips and the form showing the amount of tips into envelopes which were then taken from the cashiers' station to the vault by the Committee members accompanied by a gaming supervisor and casino shift manager. The envelopes were then placed in a box in the Appellant's vault for safekeeping.
+50. The tip envelopes were segregated in the vault from any of the Appellant's property.
+51. The slot attendants, the dealers and the servers each had their own box containing tip envelopes located in the Appellant's vault.
+Tip Committees
+52. Each casino had its own Committees, and within each casino, the slot attendants, dealers and servers each had their own Committee for pooling and distributing tips.
+53. Members of the Committees were chosen solely by the employees in that group (i.e., dealers, slot attendants and servers) from volunteers among their own number.
+54. The Appellant did not remunerate the Committee members for serving on the Committee, and Committee work was performed on the member's own time.
+55. Committees were informal and ad hoc.
+56. The Committee paid its own operating expenses, such as the cost of the distribution envelopes, from the tip pool.
+Tips Distribution
+57. The tips distribution process took place every second Thursday.
+58. The Committees divided the tips among the workers in the tip pool based on a distribution formula.
+59. The Appellant discussed tip distribution formulas and any changes to these formulas with members of the Committee to ensure they met the standard of equitable distribution under the BCLC policy.
+60. Different of the Appellant's casinos used different formulas, and these formulas were determined by the workers in the tip pool in the particular casino. For example, in some casinos the formula phased in new workers with a smaller share while in other casinos, new workers received a full share immediately. All of the formulas were generally based on time worked over the two week distribution period.
+61. The Appellant provided the Committees with sign-in sheets showing the hours worked by each tip recipient for use in calculating their tip shares.
+62. Information necessary to compute the tip shares was the hours worked by employee and the gross amount of tips. The Committees ascertained the gross amount of tips without input from the Appellant's management.
+63. Committee members filled out forms, sometimes being sheets entitled "Tips - to be completed by Tip Reps Only" (Documents, Tab 6), which recorded each member of the tip pool's units on which the tip allocation will be based, the aggregate weekly tips received by the group as a whole and a computation of the tip amount associated with each unit.
+64. Some of the Committees used a Lotus or Excel spreadsheet computer program (the "Program"), which may have been developed by the Appellant, to calculate tip shares for distribution.
+65. In 2000, and possibly beyond, the Program was often run on a computer provided by the Appellant at its casino. However, in some cases the Committee used its own computer to run the Program.
+66. The Program printed out a spreadsheet identifying the tip recipients, along with the amount each was to receive.
+67. In other cases, the Committee preferred not to use the computer spreadsheet and performed the computations by hand.
+68. Once the Program had been run and the Committee was prepared to divide the tips, the gaming supervisor and the casino shift manager took the Committee members into a secure count room.
+69. To retrieve the tip envelopes from the vault, a cage supervisor, casino shift manager and security officer had to be present to open the vault and obtain the tip boxes.
+70. The tip envelopes were brought to the Committee members in the secure count room where the Committee members counted and calculated the tips under the surveillance cameras.
+71. There was a "slop" fund made up of small denominations that was put to the side. This fund was used to fund any errors later discovered as well as to cover the Committee's cost of distributing the tips.
+72. After the tip shares were counted and calculated, each recipient's share was placed in an envelope on which his or her name and the amount received was written.
+73. The envelopes were then taken to the cashiers' station, and held there for distribution.
+74. Employees signed a Tip Record Report (Documents, Tab 7) acknowledging receipt when they picked up their tip money at the cashier's station.
+75. The Tip Record Report recorded each tip recipient's name, along with the amount of tips each received.
+76. The casino site administrators signed off on the Tip Record Reports to indicate their approval.
+77. The 1998 Tips Policy required the employees responsible for collecting and distributing tips to prepare the Tip Record Sheet. It also required the Tip Record sheet to be kept at the casino premises. In compliance with that policy, the Tip Record Reports were kept at the Appellant's casino locations.
+78. The Appellant did not have any separate place for its employees to maintain records.
+79. The tip Record Reports were kept in the same locations as all other casino records.
+80. The Appellant had access to the Tip Record Reports and the Program spreadsheets.
+81. The Tip Record Reports and the Program spreadsheets were kept in boxes on the Appellant's premises.
+82. Those boxes were kept either at the casinos or in the Appellant's storage facility.
+83. The 2001 Tips Policy was silent with respect to preparing and maintaining Tip Record Sheets. However, the Committees continued to use, and in some cases retain, it or similar forms to record recipients' names and the amounts of tips each received.
+84. The tip money at all times belonged to the employees, not the Appellant.
+85. The tip money was never commingled with the Appellant's own revenue.
+86. The tip money was never reflected in the books of account or accounting records of the Appellant.
+87. Tip distribution was not integrated with the regular payroll of the Appellant.
+88. The Committees physically distributed the tips to the recipients.
+89. The Committee, not the Appellant's management, counted the tips, converted the tips to cash, put the cash in the vault, and distributed it to its members.
+The Pit Supervisors Dispute
+90. The 1998 Tips Policy provided the discretion to include pit supervisors as tips recipients.
+91. Pit supervisors were included in the tip distribution pools in 2000.
+92. Neither the Appellant nor the Committees ever sought BCLC approval to include pit supervisors as tip recipients under the 1998 Tips Policy.
+93. The Appellant never discussed with the BCLC as to what constituted an equitable tip distribution under the 1998 Tips Policy, even as with respect to pit supervisors.
+94. In 2000 and 2001, British Columbia casinos run by operators other than the Appellant included pit supervisors as tips recipients.
+95. The Appellant considered that tips formed an important part of the compensation of pit supervisors.
+96. If the Appellant's pit supervisors were excluded from tip pools in 2000 and 2001, the Appellant would have looked at raising their wages in order to retain them, because their total compensation package would have been less than that of competing casinos.
+2000 Pit Supervisor Dispute
+97. In June 2000, the Appellant learned that its dealers wanted to exclude pit supervisors from receiving tips. In response, the Appellant notified its casino site administrators that it would consider such an exclusion to be contrary to the 1998 Tips Policy.
+98. The Appellant sent a letter out to its employees telling them that pit supervisors were to be included as tip recipients.
+99. The Appellant posted a notice to its employees stating that pit supervisors were to be included as tip recipients, and the Appellant would discipline any employee withholding tips from them.
+100. On June 22, 2000, the Appellant suspended its Vernon casino dealer Committee members for threatening to remove pit supervisors from the tip pool.
+101. The Appellant suspended those employees because it held that they broke company policy in excluding pit supervisors as tip recipients.
+102. The Appellant offered to rescind its suspension of one of those employees, Chantal Caron, if she signed an agreement acknowledging her breach of company policy.
+103. Gale Furgala and Leonard Bach, as dealer Committee members, told the Appellant that the dealers did not want pit supervisors included as tip recipients.
+104. The Appellant told Gayle Furgala that pit supervisors were to be included as tips recipients.
+105. After the Appellant told gale Furgala that pit supervisors were to be included as tip recipients, she recommended to the dealers that they vote on that issue.
+106. The dealers voted to exclude pit supervisors as tip recipients.
+107. The majority of dealer Committee members did not want pit supervisors included s tip recipients.
+108. The dealer Committees did not consider it equitable to include pit supervisors as tip recipients, and exercised their discretion to exclude them.
+109. The Appellant reprimanded Gayle Furgala for insubordination when she recommended that vote.
+110. After the dealers voted to exclude pit supervisors, nothing changed and the pit supervisors continued to receive tip shares.
+2001 Pit Supervisor Dispute
+111. The Appellant's employees conducted a union organizing drive commencing in June 2001.
+112. In the course of the union organizing drive in June 2001, the Appellant's employees raised the issue of inclusion of the pit supervisors as tip recipients.
+113. That issue arose because pit supervisors were not part of the union bargaining unit, and because their exclusion from the tip pools meant more tip money for the dealers.
+114. In June 2001, the dealers decided, by way of a vote, that they did not want pit supervisors included as tip recipients.
+115. The pit supervisors who, until that time were getting a full distribution of the tips, were not invited to participate in the vote to exclude them from the tip pool.
+116. At this time, the 2001 Tips Policy was in place.
+117. The overall union negotiations broke down resulting in a ten week lock out which ended with a negotiated union contract in September of 2001.
+118. During the labour negotiations which resulted in the September 2001 contract, the Union proposed excluding pit supervisors from the tip pool. The Appellant would not agree.
+119. The Union contract ultimately negotiated in September 2001 is silent on the issue of inclusion or exclusion of the pit supervisors.
+120. According to the Vice President of Casino Gaming of the BCLC, the spirit and intent of the 2001 Tips Policy was to allow casino operators flexibility in distributing tips.
+121. On October 25, 2001, the employees participating in the June 2001 vote posted a notice at each of the casinos stating that all full time supervisors would be excluded from the tip pools and that from that point forward, tips would be shared only amongst the members in the Union's bargaining unit.
+122. The Appellant responded by posting a notice that there would be no change to its operating policies without its prior written consent, and the Appellant would discipline anyone breaching its policies.
+123. In November of 2001, the Appellant suspended Committee members Leonard Bach and Yolanda Yoshy without its prior written consent, and the Appellant would discipline anyone breaching its policies.
+124. Around that time, Leonard Bach took $1,890 of tips that would otherwise have belonged to the Pit Supervisors out of the casino, and placed it in a bank safety deposit box to await the resolution of that issue.
+125. The Appellant fired Leonard Bach as a result of his taking those tips out of the casino.
+126. Mr. Bach and Ms. Yoshy filed a labour grievance which was heard before an arbitrator.
+127. The arbitrator upheld the suspensions of both Mr. Bach and Ms. Yoshy, but held that Mr. Bach's termination was excessive and the arbitrator substituted a suspension of almost five months. The arbitrator's decision was upheld in a review by a single member of the B.C. Labour Relations Board (Lake City Casinos Ltd. v. B.C. Government and Services Employees Union, [2002] BCLRBD No. 238). Leave to appeal to the full board was denied ([2002] BCLRBD No. 286).
+During the 2001 Lock Out
+128. As noted above, the Appellant locked out its employees from the casinos for ten weeks during late July to September of 2001 due to a labour dispute.
+129. During the lockout, the Appellant's management employees operated its casinos.
+130. During the lockout, management employees working in tip-eligible positions received tip shares based on the same formulas used by the Committees before the lockout.
+131. The 1998 Tips Policy specifically excluded cashiers from receiving tips, but nonetheless in 2000 the Appellant's cashiers received tips.
+132. As part of the resolution of that labour dispute the Appellant agreed to a letter of understanding, under which the Appellant would increase cashiers' pay rates to compensate them for lost tips if the BCLC tips policy specifically excluded cashiers from the tip pools.
+133. The Appellant agreed to that letter of understanding in order to make sure that the cashiers' overall compensation was competitive in the casino marketplace.
+DATED at Vancouver, British Columbia, this 12th day of December, 2005.
+"Douglas H. Mathew" "Ron D.F. Wilhelm"
+Counsel for the Appellant Counsel for the Respondent
+APPENDIX 'B'
+BRITISH COLUMBIA LOTTERY CORPORATION
+STANDARD PROCEDURE FOR TABLE GAME OPERATIONS
+. . .
+1.2.5 TIPS
+(a) Only dealers and/or supervisors shall handle tips.
+(b) Changing tips to higher denominations shall be conducted and verified by the dealer supervisor and dealer. Tips can be made with chips or cash. Cash tips shall be placed in the tip box.
+(c) Tips made with chips shall be placed on the right hand side of the chip tray on all card games (except Poker) and wheels of fortune. On Sic Bo, tips shall be placed on the right side of the center chip float hopper. Tips on roulette games shall be placed on the roulette wheel on the Dealer side.
+(d) At casino close, a designated dealer and security employee shall remove tips from tip drop boxes. Dealers shall count and verify total amount of tips. Tips shall be redeemed only at the Cashier's cage. Cashier shall complete a Cash Transfer Slip (Annex A, Appendix 5), write the word 'Tips' in the appropriate Drop Box #, recording the total cash value of all chips redeemed. Cashier and designated dealer sign Cash Transfer Slip. Original Cash Transfer Slip is attached to the service provider copy of the Cashier's Record Sheet (Annex A, Appendix 6).
+(e) Tips will be counted in the count room, provided that no other count is occurring at that time.
+(f) Employees responsible for collection and distribution of tips shall record, on the "Tip Record" form (Appendix 14), the names of individuals receiving tips, together with the value of their tips. These records shall be kept at the casino location and be available to BCLC.
+(g) Tips shall be pooled and distributed equitably in the following manner:
+(i) All dealers and dealer supervisors will be included in the tip pool.
+(ii) Those who may not participate in the tip pool are principals of service provider, security employees, surveillance employees, cashiers, site administrators, shift supervisors, and any employee acting in those positions.
+(iii) Hosts, hostesses and pit supervisors may participate in the tip pool at the discretion of the service provider staff committee, subject to approval by BCLC.
+(h) For purposes of security, tip-pooling procedures will be such that distribution of the pool occurs no more than twice weekly. In addition dealer supervisors must be rotated during the pooling period so that they are not constantly supervising the same dealers.
+APPENDIX 'C'
+Section 2-12 General - Tips
+1. GENERAL
+1.1 All tips shall be pooled and distributed equitably among eligible employees no more than twice per week.
+2. PARTICIPATION
+2.1 Only Dealers, Servers, Customer Service representatives, and Slot Attendants may accept or receive tips from a patron.
+2.2 Those who may not participate in a tip pool or receive tips are principals of Service Provider, Security Employees, Surveillance Employees, Casino Managers, Assistant Casino Managers, Shift Supervisors, Count Room personnel, Administrative personnel and any employee acting with authority of those positions.
+3. TIPS - TABLE GAMES
+3.1 A Dealer may accept tips from a player at the gaming table by:
+3.1.1 The player placing a Dealer bet on the game;
+3.1.2 The player giving the Dealer cash or chips at the gaming table.
+3.2 Only Dealers shall handle tips during game play.
+3.2.1 Dealer Supervisors and Table Games Floor Manager/Pit Boss(s) shall not touch the tips during game play.
+3.2.1.a Dealer Supervisors may touch tips during conversion only.
+3.3 When accepting a tip, the Dealer shall tap the tray with the chip to alert the Dealer Supervisor.
+3.4 All tips accepted by Dealers or won as a Dealer bet shall be:
+3.4.1 Converted to chips if the tip is given as cash;
+3.4.2 Deposited in a transparent locked tip box (which is secured to the gaming table and used specifically for the storage of tips); or
+3.4.3 Tips shall be accumulated in a visible secure area away from the float;
+3.4.4 Permitted to accumulate until reaching approximately twenty-five dollars ($25.00) prior to being deposited into the tip drop box.
+4. TIPS - SLOTS
+4.1 Slot Attendants shall notify Surveillance or the Slot Supervisor of receipt of any tips.
+4.2 Tips shall remain visible and must be immediately transferred to the cash cage.
+4.3 The Slot Attendant shall turn the tip over to the Cage Supervisor or designate.
+4.4 The Cage Supervisor or designate shall deposit the tip into the locked transparent slot tip box with the Slot Attendant as witness.
+4.5 The slot tip drop box shall be located in the cash cage in clear view of a fixed surveillance camera.
+5. TIP COUNTING
+5.1 Tips shall be counted on a designated gaming table or in a secured area after casino closing.
+5.2 Surveillance shall monitor and record the duration of the tip count.
+5.3 The Service Provider shall provide an appropriate level of security for the collection and count of tips.
+5.4 At least two employees must be present during the count.
+[1] While no witnesses were called, two volumes of documents were jointly put in evidence as Exhibits at the hearing.
+[2] There is no indication in the Statement of Agreed Facts as to whether the dealers initiated or agreed to this inclusion.
+[3] This is stated in a letter from the BCLC in December 2001 (Exhibit 16 Volume II of the Joint Book of Documents). That letter also sets out some difficulties in relying on titles such as "pit supervisors" even though that was the express title used in the discretionary clause in the 1998 Tip Policy. As it turns out, according to the letter, those persons employed by the Casino as "pit supervisors" were likely more properly to be regarded as "table game supervisors" who are normally included in the dealer tip pool. Such designation however only serves to complicate matters further as "table game supervisors" is not a designation referred to in either the 1998 or 2001 Tip Policies. Still, the suggestion is that "table game supervisors" are akin to "dealer supervisors" who are included in the dealer tip pool in the 1998 Tip Policy. It seems that the 1998 Tip Policy was really meant to exclude "pit bosses" (except with BCLC approval) who monitored and managed up to 20 tables. "Table game supervisors" supervised fewer low limit tables and reported to a pit boss. All this is to suggest that the inclusion of the persons called "pit supervisors" in this case may have been in accordance with the BCLC policy. There is certainly no evidence that the BCLC thought otherwise.
+[4] Under the 2001 Tip Policy only certain persons can accept tips from customers. That short list includes dealers but not supervisors. That does not speak to eligibility to share. Eligibility to share in the tip pool only has specified exclusions. Pit supervisors are not excluded. Even pit bosses are not excluded. There is no prescribed method for deciding who is in each pool. The inference, as supported by the BCLC December 2001 letter, is that the dealers would have the discretion to decide who participated. There is no evidence that the Casino respected this discretion.
+[5] The Union argued that money taken by the terminated employee and held back from pit supervisors was not the Casino's money. While the arbitrator agreed that it was not the Casino's money, the employer had responsibility for it including its security. Further, and importantly, there was a clear order understood by the employee given by a person in authority that was disobeyed. That was sufficient to constitute insubordination subject to disciplinary action. It seems to me then that regardless of whose property it was and regardless of whether the employer was infringing in some way on a propriety interest of the worker, the worker should not, in the circumstances of the case, have ignored the order. Part of the circumstances of the case, in my view, were that the Board appeared to accept that, at least, the Casino believed that the BCLC's letter of December 2001 confirmed its position that pit supervisors were entitled to share tips which would invoke its role to provide security over the funds.
+[6] No mention was made of the deemed employer provisions in either the Respondent's written submission or the Reply to the Notice of Appeal.
+[7] At paragraph 23 Deputy Judge Rowe gives an example of a direct tip and observes that even though a tip is received in respect of employment, the other ingredient to impose liability - "namely payment of the amount of the tip - to the worker - by the employer" would be absent. As well at paragraph 38 he observes that the overarching requirement in section 9 of the CCP is that the remuneration has to be "paid" to the employee by the employer. In Sooke Harbour that requirement was met as a result of the facilitation by the employer to receive the tips and actually make the distributions.
+[8] Tab 10, Joint Book of Documents, Volume II.
+[9] At the time of the Supreme Court's decision in Canada(Attorney General) v. Canadian Pacific Limited, section 3(1)(a) of the Unemployment Insurance (Collection of Premiums) Regulations, C.R.C. 1978, c. 1575, read:
+3. (1) The amount from which an insured person's insurable earnings shall be determined is the amount of his remuneration, whether wholly or partly pecuniary, paid by his employer in respect of a pay period, and includes
+(a) any amount paid to him by his employer as, or on account or in lieu of payment of, or in satisfaction of
+(i) a bonus, gratuity, retroactive pay increase, share of profits, accumulative overtime settlement or an award ... (emphasis added)
+[10] Sullivan and Driedger on the Construction of Statutes 4th edition at page 404.
+[11] The Statement goes on to state that the amendment was as a result of initiative of the Province of Quebec's 1997 budget which required certain employees to declare their tips to their employer. The Federal and Quebec governments then agreed that gratuities reported under Quebec's new tax regime will be eligible for employment insurance coverage.
+[12] Quebec's 1997-1998 Budget, under the heading "Rectify the situation of tip employees and improve their social protection" provided: The under-reporting of tip income in the hotel and restaurant sectors is also a widespread problem, one that governments have neglected. Only 5% of tips are reported, which engenders a tax loss of $115 million. This situation adversely affects not only government revenues but the employees themselves. Indeed, they benefit from employment insurance only on the portion of their tips controlled by their employer. Some observers have suggested that we make tipping compulsory to abruptly halt this doubly anti-social situation. We have adopted a more moderate approach, advocated by numerous stakeholders in the restaurant sector. This new approach should suit employees, employers, public financesand taxpayer compliance. First of all, we will ensure that restaurant and hotel workers enjoy the same fringe benefits as other workers. To this end, our government will require that a written agreement, negotiated between the employer and employees in each establishment, be an integral part of the employees' work contract. The agreement will specify:
+- the procedure by which the employee remits the tips to the employer;
+- the rate of source deductions on tips; and
+- the methods of redistributing the tips to the employees.
+The federal government has assured us that this agreement will at last guarantee employees employment insurance entitlement on their tip earnings. ...
+[13] The workers in this case can file prescribed Form CPT20, entitled "Election to Pay CPP Contributions" and thereby be ensured CPP benefits in respect of the whole amount of their employment income. The administrative practice relating to this election is set out in Interpretation Bulletin CPP-1 entitled "Tips and Gratuities" which highlights the availability of this election for employees.

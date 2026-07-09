@@ -1,0 +1,151 @@
+---
+title: "Benchikh c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/310270/index.do"
+last_modified: "2018-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 95"
+citation2: ""
+neutral_citation: "2018 CCI 95"
+decision_date: "2018-05-11"
+language: "fr"
+item_id: "310270"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4851
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:55:00.283000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "208b0122ce101ac815422c86f61bf1cfaf94d6d1ee044909dac9437325eda5b8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Benchikh c. La Reine
+
+- Citation: 2018 CCI 95
+- Decision date: 2018-05-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4851, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Benchikh c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-05-11
+Référence neutre
+2018 CCI 95
+Numéro de dossier
+2017-3128(IT)I
+Juges et Officiers taxateurs
+Robert N. Fournier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3128(IT)I
+ENTRE :
+LAHBIB BENCHIKH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu les 3 et 4 mai 2018, à Québec (Québec).
+Devant : L’honorable Robert N. Fournier, juge suppléant
+Comparutions :
+Avocate de l’appelant :
+Me Suzie Benga
+Avocat de l’intimée :
+Me Julien Dubé-Senécal
+JUGEMENT
+L’appel de la détermination établie en vertu de la Loi de l’impôt sur le revenu dont l’avis est daté du 18 novembre 2016 à l’égard de l’allocation canadienne pour enfants, pour l’année de base 2015 (période de juillet 2016 à juin 2017), est rejeté, sans frais, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de mai 2018.
+« Robert N. Fournier »
+Juge suppléant Fournier
+Référence : 2018 CCI 95
+Date : 20180511
+Dossier : 2017-3128(IT)I
+ENTRE :
+LAHBIB BENCHIKH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge suppléant Fournier
+[1] Les présents motifs concernent un appel interjeté par Lahbib Benchikh suite à la détermination par l’Agence du revenu du Canada (« ARC ») au nom du ministre du Revenu national (le « ministre »).
+[2] En juillet 2016, l’appelant a présenté une demande d’allocation canadienne pour enfants (« ACE ») indiquant qu’il était un parent ayant la garde partagée à l’égard de son fils, désigné dans ces motifs par les initiales M.R. Par la suite vers le 18 novembre 2016, un avis de détermination pour l’année de base 2015 lui a été communiqué, l’avisant qu’il n’avait pas droit au versement de l’ACE calculée en vertu de l’article 122.6 de la Loi de l’impôt sur le revenu (« LIR »). Le ou vers le 16 décembre 2016, l’appelant a signifié au ministre un avis d’opposition à l’encontre de l’avis de détermination relativement à l’ACE pour l’année de base 2015. Suite à un examen des faits et documents soumis par l’appelant le 12 juillet 2017, le ministre a ratifié l’avis de détermination en date du 18 novembre 2016 pour l’année de base 2015. En fait, l’agent des Appels confirmait que l’appelant n’était pas admissible à recevoir les prestations de l’ACE, puisqu’il ne résidait pas avec la personne à charge sur une base d’égalité ou de quasi-égalité. L’appel interjeté dans l’instance aurait été transmis à l’intimée le 27 juillet 2017.
+[3] Le ministre a-t-il correctement déterminé que l’appelant n’était pas admissible, n’ayant pas la garde partagée de l’enfant M.R. sur une base d’égalité ou de quasi-égalité pour l’année de base 2015, soit la période de juillet 2016 à juin 2017? Plus spécifiquement, la question en litige soulevée dans le présent appel est de savoir si M. Lahbib Benchikh est admissible à la moitié de la prestation fiscale en question. Il semblerait que pour en arriver à sa détermination, le ministre s’est basé en partie sur son interprétation d’une Convention sur mesures accessoires, datée du 5 mai 2011. Bien qu’il s’agisse d’une garde partagée de l’enfant, les parties s’étaient entendues que les modalités seraient établies de semaine en semaine et selon la libre entente entre elles. Par la suite en avril 2013, l’appelant avait épousé Mme Aouatif Fatima Benzineb et depuis le 31 janvier 2015, ce couple était les parents d’un enfant, pour lequel cette dernière avait reçu l’ACE à partir de février 2015.
+[4] Aussi, pour l’année de base 2015 (juillet 2016 à juin 2017), le ministre tenait pour acquis que la mère de l’enfant M.R. résidait principalement avec celui-ci pendant la semaine. Par contre, l’appelant ne résidait habituellement avec l’enfant que durant les fins de semaine, un soir par semaine, en soirée durant la semaine selon l’horaire des activités sportives de l’enfant, quelques semaines de vacances durant l’été ou en décembre/janvier 2016, et finalement, en tout autre temps déterminé à l’amiable entre les parties. Grosso modo, ceci représente ce qu’indiquent les parties lors de leur témoignage. En fin de compte, le ministre tenait pour acquis que l’appelant résidait avec l’enfant en moyenne de 102 à 106 heures par semaine, représentant une répartition de la garde partagée d’environ 63% en faveur de Mme Farida Mellah (mère de l’enfant). Il va sans dire que celle‑ci se disait d’accord avec le tableau reproduit à l’onglet 8 du Cahier de documents, déposé comme pièce I-1. Pour sa part, l’appelant préférait son propre tableau, déposé comme pièce A-1, démontrant une répartition de la garde d’environ 49.4% en sa faveur, indiquant donc une base d’égalité ou de quasi‑égalité. Évidemment dans ce contexte, tout dépend de l’interprétation de la preuve et des calculs qui en découlent.
+[5] Si l’on compare les deux tableaux, à savoir où les différences d’opinions se retrouvent, il est évident que ce sont les mercredis et les vendredis qui contribuent largement au désaccord entre les parties. Pour les autres jours de la semaine, celles-ci s’entendent tant bien que mal. Alors, voici ce qui complique les calculs si l’on s’en tient à l’arithmétique. D’après la routine établie depuis quelques années et l’entente entre les parties, à chaque semaine après ses heures d’école, l’enfant passe normalement la soirée du mercredi avec l’appelant. Il en est de même le vendredi soir, après lequel l’enfant passe la fin de semaine chez son père. Alors, quelle formule nous permettra de répartir le temps que passe l’enfant durant ses heures d’école, avant qu’il se retrouve chez son père le mercredi et le vendredi? En passant, je note que dans l’affaire Reynolds c. La Reine [1] , la juge V.A. Miller avait considéré la plupart des heures d’école, comme du temps où les enfants étaient avec leur mère, vu qu’elle était la personne qui les amenait et passait les reprendre à l’école. Évidemment, une telle détermination va dépendre des faits dans chaque cause. Dans l’instance, il me semble que pour ses propres fins, l’appelant tente d’accaparer la majeure partie du temps que son enfant passe à l’école les mercredis et vendredis de chaque semaine. D’autre part, il faut se rappeler que c’est la mère qui prépare ses goûters compte tenu de sa maladie et qui l’envoie à ses classes. C’est elle aussi qui demeure à la maison et qui se porte disponible au cas où l’école appellerait en cas d’urgence.
+[6] Dans l’affaire Morrissey c. La Reine [2] , je constate que le juge Sommerfeldt s’est livré à des discussions épineuses sur ce sujet (paragraphe 15). Aussi, il me semble qu’un vérificateur dans cette matière en était arrivé dans ses calculs, en tenant certains facteurs pour acquis, ce que je ne suis pas prêt à entreprendre dans l’instance. À mon avis, il est toujours sage et judicieux pour la Cour de procéder avec prudence, avant de se fier aux recommandations d’une tierce personne, tel un vérificateur. Aussi, il faut se méfier de ne pas se laisser entraîner dans un exercice de gymnastique intellectuel et futile. Souvent le bon sens et la simplicité sont de toute beauté. Ceci dit, il y a beaucoup de mérite dans ce qu’indique le juge Sommerfeldt au paragraphe 46 de son jugement :
+Un examen de ces affaires semble indiquer que la signification de l’expression « base d’égalité ou de quasi-égalité » a été déterminée plus en fonction de facteurs quantitatifs qu’en fonction de facteurs qualitatifs. Cependant, comme le juge Woods l’a indiqué dans Van Boekel, bien qu’il soit nécessaire de prendre en considération le temps passé par chaque parent avec l’enfant, dans certaines situations, une analyse numérique rigoureuse peut s’avérer insuffisante.
+[7] À ce sujet, la juge Woods dans l’affaire Van Boekel c. Canada [3] disait :
+De plus, même si l’élément de la « quasi-égalité » oblige à comparer le temps passé avec chaque parent, il arrive souvent que les circonstances ne se prêtent pas à une approche basée sur l’application d’une formule. Dans ce cas-ci, il est important d’examiner toutes les circonstances applicables et non d’appliquer simplement une approche arithmétique, comme le partage à 60/40 que propose l’intimée.
+[8] Dans l’instance, pour en revenir à nos propres calculs en ce qui a trait au mercredi, l’appelant veut s’accorder 16 heures sur 24, tandis que l’intimée en propose essentiellement l’opposé, soit 17 heures sur 24 en faveur de la mère. En ce qui concerne le vendredi, encore une fois l’appelant veut s’accorder 16 heures sur 24, tandis que l’intimée ne lui en attribue que 3 heures. Alors, comme je me demandais auparavant, comment interpréter la preuve de façon équitable, lorsque l’allocation de jours pourrait dépendre de l’opinion subjective sinon erronée d’un vérificateur. Le juge G.R. Smith dans l’affaire Théodore c. Canada [4] , aurait-il vécu un dilemme semblable lors de sa décision où il déclare :
+L’appelant a soumis un calendrier pour l’année 2015 et un autre pour 2016. L’intimée conteste l’exactitude de ce tableau puisque l’appelant a inclus les lundis, alors que les enfants sont déposés soit à l’école ou à la garderie le lundi matin. Il n’y pas lieu d’arriver à une conclusion sur cette question. Même si la Cour accepte l’exactitude des calendriers en questions, il est incontestable que la garde ne dépasse pas 37% pour 2015 et 39% pour 2016. Les éléments qualitatifs ne peuvent l’emporter sur cette analyse quantitative et donc, en raison de ce qui précède, les appels sont rejetés.
+[9] Or en l’instance, lorsque je compare les deux tableaux soumis par les parties, l’écart effectivement n’est que d’à peu près 21 heures. Le fait d’un simple tour de main en juxtaposant un chiffre ou deux a le potentiel d’influer de façon très importante le résultat final dans la détermination des répartitions proportionnées de la garde de l’enfant. Dans l’instance, l’appelant qui se dit analyste en informatique, possède semble-t-il, une maîtrise des chiffres. D’abord, à mon avis, celui-ci se livre à une manipulation des chiffres, pour en arriver à des pourcentages qui lui sont favorables. De plus, dans ce contexte quantitatif, je suis convaincu que le tableau que nous fournit l’intimée est beaucoup plus fiable à la lumière et dans l’ensemble des circonstances applicables ici. L’appelant en conteste l’exactitude bien sûr, mais les facteurs qu’il tient pour acquis comme fondation laissent à désirer d’après moi. En fait, le calcul de la répartition proportionnée dans notre cas demeure très simple. Compte tenu du fait que l’enfant ne réside avec son père que durant les fins de semaine et en soirée du mercredi, il me semble tout à fait juste et correct de lui accorder 2½ jours − ce qui en pourcentage se traduit à 35.7%. Or, ce n’est pas par pure coïncidence à mon avis que ce résultat correspond plutôt avec le tableau que nous a fourni l’intimée. En fait, ce n’est qu’une réflexion de la réalité qui existe dans cette affaire. Même en arrondissant les chiffres, je conclus que la garde de l’appelant ne dépasse pas 37%.
+[10] Mais surtout, ce sont les éléments qualitatifs qui confirment ma décision. Dans l’ensemble de la preuve, il est incontestable que la mère a investi beaucoup d’elle-même envers son enfant. Comme l’indique la juge Woods J.C.I. dans l’affaire Van Boekel c. La Reine [5] , l’expression « parent ayant la garde partagée » contient à la fois un élément de « résidence » et un élément de « soin ». Encore une fois, comme le souligne la Cour dans l’affaire Morrissey, précitée, une personne sera un parent ayant la garde partagée à l’égard d’une personne à charge admissible uniquement si certaines conditions sont satisfaites. En particulier, cette personne doit assumer principalement la responsabilité pour le soin et l’éducation de la personne à charge admissible, ainsi qu’il est déterminé d’après des critères prévus par règlement (l’article 122.6 de la LIR). Le juge Sommerfeldt en fait une liste au paragraphe 4 de sa décision comme suit :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d’un milieu sécuritaire là où elle réside;
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l’organisation pour elle d’activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu’elle est malade ou a besoin de l’assistance d’une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d’être présent auprès d’elle et de la guider;
+h) l’existence d’une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside (pas particulièrement pertinent dans notre cas).
+[11] En effet, voilà une liste de tout ce que la mère a fait pour son enfant en l’instance. On s’entend que l’appelant s’est dévoué envers son enfant, dans le domaine du sport et du hockey en particulier, et qu’il a fait des voyages avec lui durant les périodes de vacances. Cependant, lorsque l’enfant a été diagnostiqué avec le diabète, c’est sa mère qui a mené la charge pour obtenir les soins de son fils. C’est elle qui s’est occupée des services de garde, des coûts scolaires, d’obtenir les prescriptions, des visites chez le dentiste. C’est elle qui durant la semaine préparait les goûters pour son enfant à l’école, compte tenu de sa maladie. C’est elle qui était là pour lui lorsqu’il avait besoin de support moral. C’est elle que l’école appelait en premier en cas d’urgence. C’est elle qui a ouvert un compte d’épargne-étude et qui a obtenu l’assistance de sa mère et de son frère, lorsqu’elle avait besoin d’aide supplémentaire pour la garde de son fils à cause de son travail. En fin de compte, on ne peut rien reprocher à cette mère en ce qui concerne la garde de son enfant. Finalement, lors de son témoignage poignant, la mère de l’enfant a déposé des dizaines de pièces, démontrant l’ampleur et la nature des maintes dépenses encourues au fil des années, pour le bien-être de son enfant.
+[12] De fait, pour tous les motifs précédents, je conclus qu’en l’espèce l’appelant n’a pas réussi à démolir la présomption à l’effet qu’il ne résidait pas avec la personne à charge sur une base d’égalité ou de quasi-égalité. En conséquence il n’avait pas droit au versement de l’ACE calculée en vertu de l’article 122.6 de la LIR. Ainsi, l’appel est rejeté sans frais.
+Signé à Ottawa, Canada, ce 11e jour de mai 2018.
+« Robert N. Fournier »
+Juge suppléant Fournier
+RÉFÉRENCE :
+2018 CCI 95
+Nº DU DOSSIER DE LA COUR :
+2017-3128(IT)I
+INTITULÉ DE LA CAUSE :
+LAHBIB BENCHIKH c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+Les 3 et 4 mai 2018
+MOTIFS DE JUGEMENT PAR :
+L’honorable Robert N. Fournier, juge suppléant
+DATE DU JUGEMENT :
+Le 11 mai 2018
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Suzie Benga
+Avocat de l’intimée :
+Me Julien Dubé-Senécal
+AVOCATE INSCRITE AU DOSSIER :
+Pour l’appelant:
+Nom :
+Me Suzie Benga
+Cabinet :
+Lajoie & Pearson, avocats
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] 2015 CCI 109.
+[2] 2016 CCI 178.
+[3] [2013] A.C.I. no 110.
+[4] [2018] A.C.I. no 11.
+[5] 2013 CCI 132.

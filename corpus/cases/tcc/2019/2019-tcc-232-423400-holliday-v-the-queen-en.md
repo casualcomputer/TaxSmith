@@ -1,0 +1,158 @@
+---
+title: "Holliday v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/423400/index.do"
+last_modified: "2019-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 232"
+citation2: ""
+neutral_citation: "2019 TCC 232"
+decision_date: "2019-10-24"
+language: "en"
+item_id: "423400"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4199
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:01:07.498000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "304da184436e36a75fd60846deb9e8bfcb8bcebf88e49e127205c07641e57680"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Holliday v. The Queen
+
+- Citation: 2019 TCC 232
+- Decision date: 2019-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4199, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Holliday v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-10-24
+Neutral citation
+2019 TCC 232
+File numbers
+2016-5346(GST)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-5346(GST)G
+BETWEEN:
+PAUL MURRAY HOLLIDAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 17, 2019, at Toronto, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Counsel for the Appellant:
+James N. Aitchison
+Counsel for the Respondent:
+Rini Rashid
+JUDGMENT
+The appeal of the assessment raised September 4, 2015 pursuant to the federal Excise Tax Act (Act) is allowed, without costs. The matter is referred back to the Minister of National Revenue for reconsideration and reassessment for the sole purpose of deleting the portion of the assessment reflecting the underlying assessment of Holliday Ltd. for its initial reporting period ending December 31, 2002.
+Signed at Toronto, Ontario, this 21st day of October 2019.
+“B. Russell”
+Russell J.
+Citation: 2019TCC232
+Date: 20191024
+Docket: 2016-5346(GST)G
+BETWEEN:
+PAUL MURRAY HOLLIDAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Russell J.
+I. Introduction:
+[1] The Appellant, Paul Murray Holliday, has appealed an assessment raised September 4, 2015 by the Minister of National Revenue (Minister) under the federal Excise Tax Act (Act). The assessment is of the Appellant’s liability as a director of the corporation Holliday Home Exteriors Ltd. (Holliday Ltd.) in the amount of $87,829.26 of un-remitted GST/HST, plus associated interest and penalties, payable by Holliday Ltd. for reporting periods ending December 31, 2002 to 2011 inclusive.
+II. Background:
+[2] Evidence adduced at the hearing through two witnesses - the Appellant and Canada Revenue Agency (CRA) complex case officer A. Chinni - established that the Appellant as a sole proprietor operated a business of renovating housing exteriors (typically installing and repairing residential siding) for a number of years prior to mid-2002. During that period he had issues with CRA related to his non-payment of net GST/HST applicable to his sales of goods and services to customers. On the Appellant’s instructions, Holliday Ltd. was incorporated on July 26, 2002 and his exterior renovation business was then continued through that corporation. The Appellant was at all times the sole director of Holliday Ltd. Holliday Ltd. was a GST/HST registrant, retroactively registered as of its date of incorporation. Holliday Ltd. was required to file GST/HST returns for yearly periods, thus with a December 31st end-date. Holliday Ltd. had a different year-end, being June 30, for its income tax fiscal periods.
+[3] The Appellant testified he had engaged an accountant, Joe Trentadue, initially to have Holliday Ltd. incorporated and thereafter to handle the corporation’s tax filings. Accordingly the accountant, who was not called to testify, accordingly prepared annual income tax returns of Holliday Ltd., which had a June 30 year-end. However, after several years the Appellant became aware, from CRA correspondence to him, that no GST/HST returns were being filed for Holliday Ltd. The Appellant said he spoke with the accountant about this. However, at no time prior to the commencement of this appeal did Holliday Ltd. file or attempt to file any GST/HST returns.
+III. Issues:
+[4] The issues are:
+(1) whether the Appellant has established a due diligence defence to the assessment; and
+(2) whether the amount of assessed tax is excessive. This issue has three elements as argued by Appellant’s counsel. They are:
+(a) the underlying assessment of Holliday Ltd. for the filing period ending December 31, 2002 is bad because, the Appellant asserts, no information regarding it was pleaded in the Respondent’s Reply;
+(b) the underlying assessment of Holliday Ltd. for the filing period ending December 31, 2003 is excessive given reported revenue of Holliday Ltd. of only $44 for its fiscal period ending June 30, 2003; and
+(c) per the Appellant’s testimony the business carried on by Holliday Ltd. ended in October 2010 due to health issues of the Appellant, thus the assessment of Holliday Ltd. for the one year filing period ending December 31, 2011 should be vacated.
+IV. Is the underlying assessment of Holliday Ltd. for the filing period ending December 31, 2002 bad because the Appellant asserts, no information regarding that filing period for Holliday Ltd. was pleaded in the Respondent’s Reply?
+[5] The Appellant argues that the underlying assessment of Holliday Ltd. for the filing period ending December 31, 2002 is bad because, he asserts, no information regarding it was pleaded in the Respondent’s Reply. Schedule “A” of the Reply shows that the tax assessed for that reporting period is $5,000. It is common ground that this was an arbitrary assessment as Holliday Ltd. had filed no GST/HST return for that or any other reporting period. The Reply at subparagraph 7(h) provides inter alia the Minister’s assumption that Holliday Ltd. had “reported trade sales of goods and services on its T2 income tax return” of $44 for its income tax fiscal period ending June 30, 2003.
+[6] And, at subparagraph 7(i) of the Reply is expressed the further ministerial assumption that, “[Holliday Ltd.] made taxable supplies in the amounts reported on its T2 returns”. A plain and fair reading of this pleaded assumption indicates the Minister accepted that the reported income amount of $44 was the amount of taxable supplies for Holliday Ltd.’s income tax fiscal period extending from the July 26, 2002 date of incorporation to June 30, 2003.
+[7] Particularly this latter pleaded assumption indicates information respecting the GST/HST reporting period ended December 31, 2002. So, counsel for the Appellant is not correct in submitting there was no information pleaded for that reporting period. However, this information appears irreconcilably inconsistent with the $5,000 quantum of GST/HST arbitrarily assessed for that initial GST/HST reporting period of Holliday Ltd. commencing with the July 26, 2002 date of incorporation and ending December 31, 2002. Sales of only $44 cannot be any basis for net tax under the Act to be even $50, let alone $5,000. Holliday Ltd. was only in existence for slightly less than the first half of the fiscal period for which the $44 was reported as total revenue for income tax purposes for the period which commenced at the same date of June 26, 2002 but extended six months beyond December 31, 2002, to June 30, 2003.
+[8] Accordingly, the portion of the total appealed assessment derived from Holliday Ltd.’s GST/HST reporting period ended December 31, 2002 should be excised from the appealed assessment. The amount to be deleted would encompass the $5,000 tax figure plus all related penalty and interest. The overall total amount assessed for the GST/HST reporting period ending December 31, 2002 is shown in the Reply’s Schedule “A” as being $11,577.91, as of the September 4, 2015 assessment date.
+V. Is the assessed tax for the one year GST/HST reporting period ending December 31, 2003 excessive given reported revenue of Holliday Ltd. for its fiscal period ending June 30, 2003 of only $44?
+[9] This second issue as to assessed quantum deals with the subsequent reporting period for GST/HST, ending December 31, 2003. For that period Holliday Ltd. again was arbitrarily assessed $5,000, accompanied by penalty and interest, as shown in Schedule “A” of the Reply. As noted above the $44 reported as total revenue by Holliday Ltd. for income tax purposes for its fiscal period ending June 30, 2003, was accepted by the Minister, as stated in subparagraph 7(i) of the Reply, as the amount of taxable supplies made for that year-long income tax fiscal period ending June 30, 2003.
+[10] But, what about the latter six months of the reporting period ending December 31, 2003? That would be the first half of the income tax fiscal period ending June 30, 2003, and for that total one year fiscal period Holliday Ltd. reported in its income tax return revenue of $217,737, as stated in subparagraph 7(h) of the Reply. And again subparagraph 7(i) of the Reply reflects the Minister’s assumption that Holliday Ltd. made taxable supplies within that same twelve month period ended June 30, 2004 of the same $217,737. There is no irreconcilable inconsistency here or evident from the hearing record as to why a goodly portion of that $217,737 would not have been taxable supplies made in the first half of that twelve month period, being the latter half of the GST/HST reporting period ended December 31, 2002.
+[11] As well, evidence was not adduced at the hearing that constituted a prima facie case, if any case at all, at variance with the two cited assumptions made by the Minister. Therefore, the Appellant does not succeed on this second issue as to quantum of assessed tax.
+VI. Has it been established that the business carried on by Holliday Ltd. ended in October 2010 due to health issues of the Appellant such that consequently the assessment for the one year filing period ending December 31, 2011 should be vacated?
+[12] There was evidence adduced at the hearing indicating that the business carried on by Holliday Ltd. continued beyond October 2010. That evidence was a CRA Collections diary entry (Ex. R-1) reflecting a March 20, 2013 telephone conversation a CRA officer had with Holliday Ltd.’s accountant, Mr. Trentadue, in which the accountant is noted to have said that Holliday Ltd. ceased operations in October 2011 (not October 2010). The Appellant did not call Mr. Trentadue as a witness to testify to any aspect of this entire matter, of which he was a central player judging from the Appellant’s testimony.
+[13] In any event there is evidence on the record supporting the later, latter date as marking the end of the business’s operation. Accordingly I decline to find that the business ended October 2010 but rather, continued to October 2011.
+VII. Has the Appellant established a due diligence defence to the appealed assessment?
+[14] The Appellant submits that he is entitled to the benefit of the due diligence defence afforded by subsection 323(3) of the Act, which provides:
+A director of a corporation is not liable for a failure under subsection (1) [i.e., failure to remit an amount of net tax] where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[15] The evidence in this matter established that the Appellant had had GST/HST issues while operating as a sole proprietor before the advent of Holliday Ltd. Thus he was well aware of the need to file GST/HST returns while at the same time purportedly Holliday Ltd.’s accountant inexplicably did not file GST/HST returns for Holliday Ltd. for several years without the Appellant ever having sought to confirm that such returns were being filed, and that required remittances were being made, on a timely basis.
+[16] Further even now there are no books and records provided by the Appellant pertaining to the business operations of Holliday Ltd. to establish what GST/HST was rightly owing during the relevant reporting periods. Most particularly the accountant Mr. Trentadue was not called as a witness by the Appellant, whether or not under subpoena duces tecum, to provide his own testimony as to what were his instructions regarding GST/HST filings and as to the location of Holliday Ltd.’s books and records.
+[17] On such evidence, plus lack of evidence from the accountant, from which I draw a negative inference, I conclude that the Appellant has not established that he “exercised the degree of care, diligence and skill to prevent the failure [to make net GST/HST remittances as assessed other than for the reporting period ended December 31, 2002], that a reasonably prudent person would have exercised in comparable circumstances”, so as to be entitled to the due diligence defence per subsection 323(3) of the Act.
+VIII. Conclusion:
+[18] In conclusion, this appeal will be allowed, and the appealed assessment referred back to the Minister of National Revenue for reconsideration and reassessment for the sole purpose of deleting the portion of the assessment reflective of the underlying assessment of Holliday Ltd. for its initial reporting period ending December 31, 2002 as addressed herein. In all other respects the appealed assessment is valid. There will be no order as to costs, noting the mixed success of the two parties.
+This Amended Reasons for Judgment is issued in substitution of the Reasons for Judgment dated October 21, 2019.
+Signed at Toronto, Ontario, this 24th day of October 2019.
+“B.Russell”
+Russell J.
+CITATION:
+2019TCC232
+COURT FILE NO.:
+2016-5346(GST)G
+STYLE OF CAUSE:
+PAUL MURRAY HOLLIDAY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 17, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+DATE OF AMENDED REASONS FOR JUDGMENT
+October 21, 2019
+October 24, 2019
+APPEARANCES:
+Counsel for the Appellant:
+James N. Aitchison
+Counsel for the Respondent:
+Rini Rashid
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+James N. Aitchison
+Firm:
+Aitchison Law office
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,143 @@
+---
+title: "Geddes Contracting Co. Ltd. V. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25594/index.do"
+last_modified: "2003-04-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 197"
+citation2: ""
+neutral_citation: "2003 TCC 197"
+decision_date: "2003-04-02"
+language: "en"
+item_id: "25594"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2471
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:20:44.624000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "82d09cfe1222856da21f7b30ddbeac90e70036eb3ab952db2ff61c54dbe1c5b3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Geddes Contracting Co. Ltd. V. The Queen
+
+- Citation: 2003 TCC 197
+- Decision date: 2003-04-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2471, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Geddes Contracting Co. Ltd. V. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-02
+Neutral citation
+2003 TCC 197
+File numbers
+95-978(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 95-978(IT)G
+BETWEEN:
+GEDDES CONTRACTING CO. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard by telephone conference on March 27, 2003, at Ottawa, Ottawa, by
+the Honourable Judge E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Robert Holmes
+Counsel for the Respondent:
+Robert Carvalho
+____________________________________________________________________
+ORDER
+UPON the motion by counsel for the Appellant for an Order reopening the hearing of the appeal for the purpose of permitting the Appellant to adduce certain new evidence;
+AND UPON reading the material filed by the parties;
+AND UPON hearing counsel for the parties;
+IT IS HEREBY ORDERED THAT:
+1. The motion is allowed on the basis that the trial will be reopened for the sole purpose of adding the letter of March 3, 2003 from Penn West Petroleum Ltd. to Grand Bell Property Ltd., the authorization for expenditure enclosed with it and the copy of the authorization for expenditure signed by Mr. Geddes (described collectively as the 'New Evidence' and marked Exhibit "A" to the affidavit of Gordon Geddes sworn March 14, 2003) to the trial record as Exhibit A-4. Each party may file brief written submissions in respect of the New Evidence within 30 days of the date of this Order.
+2. The costs of this motion will be in the cause.
+Signed at Ottawa, Canada, this 2nd day of April, 2003.
+"E.A. Bowie"
+J.T.C.C.
+Citation: 2003TCC197
+Date: 20030402
+Docket: 95-978(IT)G
+BETWEEN:
+GEDDES CONTRACTING CO. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowie J.
+[1] The trial of this matter took place on March 3, 4 and 5, 2003. On March 5, I reserved judgment, and I have not yet pronounced it. One of the issues is whether the Appellant and others were, after May 6, 1988, carrying on business in partnership under the name Grand Bell Property Ltd. I heard evidence from the president of the Appellant company, and documents were entered into evidence, under an agreement of counsel as to their authenticity, as to their investment in certain oil and gas leases. On March 3, the current majority owner of those leases, Penn West Petroleum Ltd., mailed to Grand Bell, in care of its counsel, a letter informing Grand Bell that it intends to carry out certain drilling operations on one of the properties at a cost of $252,460, and asking Grand Bell to approve the enclosed authorization for expenditure (AFE) and return it. The Appellant's solicitors received this letter on Friday, March 7, two days after the end of the trial. Mr. Bilawich, of counsel for the Appellant, wrote that day to counsel for the Respondent to request that the Respondent consent to adding the letter from Penn West and the AFE to the documentary evidence that had been entered at the trial. Mr. Carvalho declined to consent on the grounds that the evidence, or the substance of it, could have been obtained earlier if the Appellant had exercised due diligence. The Appellant now moves for an Order to reopen the trial for the purpose of adducing this evidence.
+[2] Mr. Holmes took the position on the motion that he should have an Order reopening the trial, and also permitting him to call as a witness some appropriate person from Penn West who would both identify and explain the documents. Mr. Carvalho, while opposing the motion to reopen, took the position that if I were inclined to allow the Appellant's motion and reopen the trial, then he would agree to have the documents admitted without the need to call a witness to make formal proof of them. Penn West is located in Calgary and counsel for both parties are in Vancouver, so considerable saving in expense would result.
+[3] On the hearing of the motion, there was much argument directed to the issue of the proper test to be applied. I do not consider cases such as Palmer v. Palmer[1] to be applicable. That case deals with a situation in which a witness in a criminal trial proposed to change his testimony, and the factors relating to the reliability of the proposed new evidence make it quite different from the case before me. The Lubrizol[2] case, although a civil proceeding, also involved very different considerations as to fairness from those that pertain here. In Clayton v. British American Securities Ltd.[3] MacDonald J.A., speaking for the British Columbia Court of Appeal, said at page 295:
+It is, I think, a salutary rule to leave unfettered discretion to the trial judge. He would, of course, discourage unwarranted attempts to bring forward new evidence available at the trial to disturb the basis of a judgment delivered, or to permit the litigant after discovering the effect of a judgment to re-establish a broken down case with the aid of further proof. If the power is not exercised sparingly and with the greatest care, fraud and abuse of the court's process would likely result.
+This passage has recently been cited with approval by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[4] These cases dealt with applications to reopen after the judge's reasons had been released, but before judgment was formally entered. They emphasize the broad discretion in the trial judge to decide the matter, after considering all the relevant factors.
+[4] In my view, the following factors militate in favour of the Order that the Appellant seeks. The evidence is relevant to a central issue in the case. It was not solicited by the Appellant, but came into its hands very soon after the end of the trial. In fact, the letter was in the post to the Appellant on the first day of the trial. No delay will result from the reopening; in fact, given Mr. Carvalho's concession as to authenticity, it is only necessary to add five pages to the documents already made exhibits under the parties' document agreement.
+[5] The trial will be reopened for the sole purpose of adding the letter of March 3, 2003 from Penn West to Grand Bell Property Ltd., the AFE enclosed with it and the copy of the AFE signed by Mr. Geddes (described collectively as the "New Evidence" and marked Exhibit "A" to the affidavit of Gordon Geddes sworn March 14, 2003) to the trial record as Exhibit A-4. Each party may file brief written submissions in respect of the new evidence within 30 days. The costs of this motion will be in the cause.
+Signed at Ottawa, Canada, this 2nd day of April, 2003.
+"E.A. Bowie"
+J.T.C.C.
+CITATION:
+2003TCC197
+COURT FILE NO.:
+95-978(IT)G
+STYLE OF CAUSE:
+Geddes Contracting Co. Ltd.
+and Her Majesty the Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+March 27, 2003
+REASONS FOR ORDER BY:
+The Honourable Judge E.A. Bowie
+DATE OF ORDER:
+April 2, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Robert Holmes
+Counsel for the Respondent:
+Robert Carvalho
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert Holmes
+Firm:
+Holmes & King
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] (1979) 106 D.L.R. (3d) 212.
+[2]
+Imperial Oil Limited v. The Lubrizol Corporation, [1996] 3 F.C. 40 (F.C.A.).
+[3] [1934] 3 W.W.R. 257 (B.C.C.A.)
+[4] [2001] 2 S.C.R. 983 at para. 60.

@@ -1,0 +1,115 @@
+---
+title: "Little v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27410/index.do"
+last_modified: "2006-11-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 627"
+citation2: ""
+neutral_citation: "2006 CCI 627"
+decision_date: "2006-11-29"
+language: "fr"
+item_id: "27410"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 232
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:31:38.955000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b07803248d024aa7d083c586933da3d08d84940a0aae31c12c81ccc140edf442"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Little v. The Queen
+
+- Citation: 2006 CCI 627
+- Decision date: 2006-11-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 232, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Little v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-29
+Référence neutre
+2006 CCI 627
+Numéro de dossier
+2006-1435(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI627
+Date : 20061129
+Dossier : 2006-1435(IT)I
+ENTRE :
+ARTHUR D. LITTLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Pour l’appelant : L’appelant lui‑même
+Avocate de l’intimée : Me Deanna M. Frappier
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+le 28 septembre 2006 à Halifax (Nouvelle‑Écosse).)
+Le juge McArthur
+[1] La présente requête vise à obtenir une ordonnance annulant l’appel interjeté par l’appelant à l’encontre d’une cotisation établie par le ministre du Revenu national pour l’année d’imposition 2004 parce que la Cour n’a pas compétence pour décider si un montant d’impôt provincial sur le revenu est à payer, et, en l’espèce, s’il est à payer à la province de la Nouvelle‑Écosse.
+[2] L’appel a été formé sous le régime de la procédure informelle, et l’intimée a obtenu l’autorisation de présenter la requête à court préavis. À la fin de l’instruction de la requête, j’ai différé ma décision, et l’appelant a poursuivi son appel. Après l’instruction de la requête et, bien sûr, avant de rendre une décision sur celle‑ci, j’avais affirmé que si j’avais la même opinion après avoir examiné la preuve et les observations, j’accueillerais la requête en annulation de l’appel visant l’année 2004. Je suis toujours du même avis. L’appel est annulé, et, comme je n’ai pas compétence pour rendre une décision exécutoire quant au lieu de résidence de l’appelant, mon opinion à cet égard est exactement ce qu’elle est, une opinion.
+[3] J’ai entendu les témoignages de M. Little et de sa femme concernant la question de savoir s’il était un résident de la Nouvelle‑Écosse, ou du Nunavut. Si je devais trancher cette question dans le présent appel, je conclurais qu’il était un résident du Nunavut pendant l’année d’imposition pertinente, soit 2004. Mais, encore une fois, je n’ai malheureusement pas compétence en la matière.
+[4] L’appelant devrait peut‑être interjeter son appel devant la Cour suprême de la Nouvelle-Écosse en vertu des règlements de la province portant sur l’impôt provincial sur le revenu et de la Nova Scotia Income Tax Act. J’exposerai ci‑dessous les motifs d’annulation de l’appel. Dans son avis d’appel, l’appelant affirme que son lieu de résidence en 2004 était le Nunavut et qu’il ne doit pas être tenu de payer l’impôt provincial plus élevé de la Nouvelle‑Écosse. Au cours de l’année d’imposition 2004, il était employé à titre de directeur des finances par la municipalité d’Igloolik, au Nunavut. En fait, l’appelant interjette appel de la cotisation d’impôt provincial sur le revenu qui a été établie à son égard. Il n’appelle pas de la cotisation d’impôt fédéral sur le revenu dont il a fait l’objet.
+[5] La Cour canadienne de l’impôt est une cour créée par la loi, et sa compétence est régie par celle‑ci. L’article 12 de la Loi sur la Cour canadienne de l’impôt détermine les questions sur lesquelles la Cour a compétence. De plus, dans l’arrêt Gardner c. La Reine[1], le juge Sexton de la Cour d’appel fédérale a affirmé que :
+Tant le gouvernement fédéral que les provinces ont le pouvoir d’adopter des lois concernant l’impôt sur le revenu. La Cour canadienne de l’impôt n’a compétence en ce qui a trait à l’impôt sur le revenu provincial que dans la mesure où cette compétence lui est attribuée par la province. Une province peut réserver à sa propre autorité le soin de rendre des décisions au sujet de questions particulières concernant son impôt sur le revenu […]
+[6] Je juge bien fondé l’argument de l’intimée selon lequel la province de la Nouvelle‑Écosse a réservé à sa propre autorité le soin de rendre des décisions concernant son impôt sur le revenu, bien que le gouvernement fédéral effectue la perception initiale en vertu d’ententes conclues avec les provinces. De plus, le juge Noël de la Cour d’appel fédérale, qui a été saisi d’une question semblable à celle en litige dans l’affaire Sutcliffe c. La Reine[2], a affirmé que :
+La Cour canadienne de l’impôt n’a pas compétence pour statuer sur la validité d’une cotisation fiscale provinciale. Cette compétence appartient aux cours supérieures respectives des provinces en vertu des lois fiscales provinciales […]
+Je renvoie également à la loi de la province de la Nouvelle‑Écosse en matière d’impôt sur le revenu.
+[7] Je n’ai pas à examiner la présente affaire plus à fond. La requête de l’intimée est accueillie, et l’appel visant l’année 2004 est annulé. Il s’agit d’une situation malheureuse, mais je dois convenir avec l’avocate de l’intimée que je n’ai effectivement pas compétence pour trancher le présent appel.
+Signé à Ottawa, Canada, ce 29e jour de novembre 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 25e jour de janvier 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI627
+Nº DU DOSSIER DE LA COUR : 2006-1435(IT)I
+INTITULÉ : Arthur D. Little et La Reine
+LIEU DE L’AUDIENCE : Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Le 28 septembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 10 octobre 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Deanna M. Frappier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2001 CAF 401.
+[2] 2004 CAF 376.

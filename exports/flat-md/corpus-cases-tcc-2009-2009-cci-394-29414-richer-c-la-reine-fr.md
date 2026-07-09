@@ -1,0 +1,507 @@
+---
+title: "Richer c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29414/index.do"
+last_modified: "2009-08-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 394"
+citation2: ""
+neutral_citation: "2009 CCI 394"
+decision_date: "2009-08-06"
+language: "fr"
+item_id: "29414"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6966
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:41:20.926000+00:00"
+cases_cited_count: 12
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4143769ade1bc54dd91a0c7513b0d2818d1b2a921c0d567be4a7ae7d4792abd3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Richer c. La Reine
+
+- Citation: 2009 CCI 394
+- Decision date: 2009-08-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6966, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Richer c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-06
+Référence neutre
+2009 CCI 394
+Numéro de dossier
+2005-4132(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4132(IT)G
+ENTRE :
+JACK RICHER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 5, 6 et 7 novembre 2007,
+à Montréal (Québec).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Avocats de l’appelant :
+Me Aaron Rodgers
+Me Julie Gaudreault-Martel
+Avocat de l’intimée :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 1993, 1995, 1996, 1997, 1998 et 1999 est accueilli avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 6e jour d’août 2009.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 30e jour de décembre 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2009 CCI 394
+Date : 20090806
+Dossier : 2005-4132(IT)G
+ENTRE :
+JACK RICHER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+I. Introduction
+[1] La présente affaire se rapporte aux dispositions relatives à la remise de dette de la Loi de l’impôt sur le revenu (la « LIR »)[1].
+[2] L’affaire résulte de la participation de l’appelant à quatre sociétés en commandite, d’un litige auquel a donné lieu l’obligation de l’appelant d’effectuer des apports en capital à ces sociétés et du règlement de ce litige.
+[3] Il s’agit principalement de savoir quel était le montant de la dette de l’appelant et à quel moment le règlement a eu lieu.
+[4] Aux termes du règlement, l’appelant a versé un million de dollars américains et a renoncé à certains droits. Selon l’appelant, le règlement représentait une détermination du montant de la dette et il n’y a donc pas eu remise de dette. Subsidiairement, l’appelant, si un montant a été remis sur la dette, ce montant était bien inférieur à celui que le ministre du Revenu national (le « ministre ») a calculé.
+[5] Le ministre affirme de son côté qu’au moment du règlement, la dette de l’appelant s’élevait à un peu plus de deux millions de dollars américains et qu’un montant d’un peu plus d’un million de dollars américains a été remis sur la dette.
+[6] Il s’agit en outre de savoir si l’appelant pouvait déduire certaines pertes des sociétés de personnes en 1996 et si la cotisation par laquelle des pénalités ont été établies était justifiée.
+II. Les faits
+[7] L’appelant est comptable agréé, mais il n’exerce plus sa profession depuis 1986. À l’heure actuelle, il est dans les affaires et il effectue divers investissements. Sa participation aux sociétés en commandite qui sont ici en cause découlait de la relation qu’il entretenait avec la famille Bronfman. L’appelant a expliqué que, depuis le milieu des années 1970, il participait à divers investissements avec Charles Bronfman et d’autres personnes. Ces investissements prenaient diverses formes, notamment des coentreprises, des sociétés en commandite et des sociétés.
+[8] Les affaires financières de la famille Bronfman étaient gérées par l’entremise de Claridge Investments Ltd. (« Claridge »). En 1985, la famille Bronfman a modifié la façon dont ses activités d’investissement immobilier étaient exercées. Une filiale de Claridge appelée Claridge Properties Inc. (« Claridge Properties ») a été créée. Il a été convenu que l’appelant prendrait part aux investissements immobiliers futurs par l’entremise de sociétés en commandite exploitées par Claridge Properties.
+[9] En 1985 et en 1986, l’appelant est devenu commanditaire de quatre sociétés en commandite : Livonia Associates and Company Ltd. (« Livonia »), Park Square Associates and Company Ltd. (« Park Square »), Hickory Associates and Company Ltd. (« Hickory ») et The Southland Building Partners and Company Ltd. (« Southland »). Ces sociétés en commandite ont été formées afin d’acquérir et d’exploiter des biens immeubles précis situés aux États‑Unis.
+[10] Auparavant, lorsqu’il avait participé à des investissements avec Charles Bronfman, l’appelant avait investi ses propres fonds directement ou de l’argent était emprunté conjointement d’une banque, mais il a été convenu que l’apport en capital de l’appelant à ces quatre sociétés de personnes serait financé par Claridge Properties. Aux termes de cette nouvelle entente, Claridge Properties fournissait des capitaux aux sociétés en commandite en échange de billets portant intérêt payables sur demande émis par chaque commanditaire, dont l’appelant.
+[11] De temps en temps, on demandait à l’appelant de signer des billets pour des montants en sus de ceux dont il avait initialement été convenu. L’appelant a témoigné que, tous les six mois, Claridge Properties publiait un relevé indiquant le montant des fonds investis et demandait à chaque associé d’émettre un billet à l’égard de l’apport de fonds additionnels qui avait été fait pour son compte.
+[12] M. Andrew Parsons, un comptable agréé qui a travaillé pour Claridge jusqu’en 2004, a témoigné pour le compte du ministre. Au cours des 23 années où il a entretenu des relations avec Claridge, il a occupé divers postes; il a notamment été contrôleur et premier vice‑président, Finances, et directeur financier. M. Parsons a expliqué qu’à la fin de chaque exercice, on demandait à chaque associé de combler sa part proportionnelle de tout déficit des comptes des sociétés de personnes[2], et ce, parce qu’une fois qu’une société de personnes avait acquis un immeuble, toute perte d’exploitation subséquente devait être financée d’une façon ou d’une autre[3]. Selon M. Parsons, c’est ainsi que Claridge Properties dirigeait toutes ses sociétés de personnes.
+[13] L’effet de cette entente était le suivant : l’appelant constatait la dette de plus en plus élevée qu’il avait envers Claridge Properties en signant des billets après coup.
+[14] Les conditions de participation de l’appelant aux quatre sociétés de personnes n’ont pas été consignées par écrit dans des contrats de société formels, mais elles ont plutôt été fixées verbalement et par l’échange d’une poignée de main. La constitution de chaque société en commandite ainsi que l’apport en capital initial de chaque associé figurent dans quatre déclarations distinctes des sociétés en commandite, mais ces documents ne reflètent pas l’entente susmentionnée concernant les apports subséquents[4]. Les ententes conclues sur une simple poignée de main semblent également avoir inclus certaines autres dispositions prises par les parties[5].
+[15] L’appelant a expliqué que, selon l’entente dont il avait été convenu, il recevait tous les six mois certains montants au titre du revenu gagné par les sociétés de personnes, ainsi que des relevés des intérêts qui étaient dus sur les fonds investis et toute demande se rapportant à des billets additionnels. Il en a été ainsi jusqu’à la fin de l’année 1989, à un moment où l’appelant avait signé en faveur de Claridge Properties des billets s’élevant en tout à 1 209 266 $US :
+Société en commandite
+Billets
+Southland
+194 500 $
+Livonia
+273 000 $
+Park Square
+213 188 $
+Hickory
+528 578 $
+Montant total des billets signés
+1 209 266 $US
+[16] À l’exception de Livonia, les sociétés de personnes ont perdu de l’argent à cause de la baisse des valeurs immobilières. Vers la fin de l’année 1989, une entente a été proposée, laquelle devait permettre à l’appelant de se retirer des sociétés de personnes. L’appelant a témoigné qu’au début de l’année 1990, il avait verbalement été convenu que sa dette envers Claridge Properties à l’égard des fonds avancés pour son compte serait acquittée en échange du transfert, en faveur de Claridge Properties, de sa participation aux sociétés de personnes, plus le versement de sa part en faveur de Claridge Properties d’un montant de 187 000 $US.
+[17] Toutefois, aucune entente définitive n’a été conclue afin de résoudre la question de la participation de l’appelant aux sociétés de personnes ou de son obligation envers Claridge Properties. L’appelant n’a pas versé les 187 000 $US et les négociations se rapportant à son retrait se sont poursuivies pendant toute l’année 1991; toutefois, à compter du mois de janvier 1990, l’appelant a cessé de recevoir des demandes concernant le paiement des intérêts et des demandes lui enjoignant de reconnaître l’endettement supplémentaire pour les apports subséquents effectués par Claridge Properties.
+[18] L’affaire est demeurée non réglée et, en fin de compte, Claridge Properties a engagé une poursuite contre l’appelant, en 1992, devant la Cour supérieure du Québec.
+[19] Dans la poursuite en question, selon Claridge Properties, aucune entente n’avait été conclue avec l’appelant au sujet de son retrait des sociétés de personnes, et elle a demandé un montant de 1 723 857,48 $US en tout. Ce chiffre représentait le montant global que l’appelant devait, selon Claridge Properties, pour les montants avancés afin de financer sa participation aux quatre sociétés de personnes. La demande de Claridge Properties comprenait des montants qui avaient censément été avancés aux sociétés de personnes pour le compte de l’appelant, pour lesquels aucun billet n’avait été signé. Ces montants ont été inclus, compte tenu de la façon dont Claridge Properties interprétait les ententes verbales susmentionnées concernant les apports subséquents de capital, étant donné qu’il avait été admis qu’aucune entente écrite n’existait à ce sujet.
+[20] La position de l’appelant contre ces demandes est énoncée dans un exposé préalable déposé devant la Cour supérieure du Québec au mois de mai 1996. En témoignant devant la cour, l’appelant a principalement fait valoir qu’une entente avait été conclue en vue de régler, pour un montant de 187 000 $US, la dette qu’il avait par suite de sa participation aux sociétés de personnes.
+[21] L’appelant a également avancé un certain nombre d’arguments subsidiaires. Il est utile de reproduire les paragraphes suivants de son exposé préalable :
+[traduction]
+Le défendeur soutient que sa dette envers la demanderesse a fait l’objet d’un règlement et d’une transaction et que, par suite de l’entente conclue entre les parties, le seul montant qui était dû par le défendeur et le seul montant que la demanderesse a le droit de demander du défendeur est le montant susmentionné de 187 000 $US.
+Subsidiairement, le défendeur soutient qu’il n’est pas redevable des pleins montants que la demanderesse réclame dans ses actions. Sur ce point, le défendeur déclare que sa dette est limitée aux montants mentionnés dans les billets ou aux montants mentionnés dans les attestations d’endettement produites par la demanderesse. [...]
+Si, toutefois, il est conclu que la dette de l’appelant ne s’est pas éteinte ou qu’elle n’a pas fait l’objet d’une transaction, comme il en est ci‑dessus fait mention, le défendeur a le droit de défalquer du montant total réclamé par la demanderesse la valeur de sa participation, telle qu’elle a été établie dans l’état de rapprochement [...], à savoir 1 258 000 $US.
+Sous toutes réserves, dans l’action de Livonia [...] le défendeur demande que tout montant qu’il lui sera ordonné de verser à la demanderesse soit compensé par la valeur de sa participation, à savoir 729 000 $US, et demande qu’il soit ordonné à la demanderesse de lui verser la somme de 546 000 $US[6].
+[22] Conformément à ces arguments subsidiaires, l’appelant a présenté quatre demandes reconventionnelles contre Claridge Properties, contre Charles Bronfman, contre Livonia, contre Hickory et contre d’autres parties liées. Les documents se rapportant à ces poursuites ne m’ont pas été soumis. Toutefois, l’appelant a témoigné avoir engagé des poursuites en vue de faire exécuter l’entente par laquelle sa dette devait être réglée au montant de 187 000 $US; en vue d’obtenir le montant de 456 000 $US qu’il affirmait qu’on lui devait à l’égard de sa participation dans Livonia ainsi qu’à l’égard de la baisse de valeur des biens, attribuable aux actions de Claridge Properties[7].
+[23] Le 19 décembre 1996, l’appelant et Claridge Properties ont conclu une entente (l’« entente de règlement ») en vue de régler leurs demandes respectives. Les paragraphes suivants de l’entente de règlement sont pertinents[8] :
+[traduction]
+ATTENDU que Claridge et Richer sont parties à l’instance mentionnée à l’annexe 2 de la présente entente et qu’au moment de la signature de la présente entente, ils ont convenu de régler leurs réclamations respectives dans le cadre de l’instance, en contrepartie du paiement par Richer en faveur de Claridge d’un montant de 1 000 000 $, en argent américain, aux conditions ci‑après énoncées :
+[...]
+2. Claridge s’engage à faire en sorte que les comptes de capital de Richer dans les sociétés de personnes soient ramenés à zéro dans chaque cas. De son côté, Richer reconnaît n’avoir droit à aucun solde positif, actuel ou futur, des comptes de capital de l’une ou l’autre des sociétés de personnes, que Claridge peut appliquer en réduction des comptes comme il en est ci‑dessus fait mention, et Richer s’engage à transférer à Claridge tous les droits afférents à une distribution d’argent ou d’autres actifs qu’il possède à l’heure actuelle ou qu’il possédera dans l’avenir en sa qualité d’associé de l’une ou l’autre des sociétés de personnes et à en faire la cession absolue en faveur de Claridge [...] Claridge reconnaît que Richer n’engage aucunement sa responsabilité à l’égard de tout déficit des comptes de capital de l’une ou l’autre des sociétés de personnes.
+[...]
+4. Richer versera à Claridge, au plus tard le 8 janvier 1997, la somme de 1 000 000 $, en argent américain, au moyen d’un chèque certifié ou d’une traite bancaire. Richer reconnaît avoir signé un acquiescement à la demande pour ce montant et il reconnaît en outre que, s’il ne paie pas ce montant de 1 000 000 $ en argent américain au plus tard le 8 janvier 1997, Claridge pourra par la suite obtenir un jugement fondé sur cet acquiescement à la demande, le délai étant de rigueur. Claridge reconnaît que le paiement effectué par Richer, conformément à la présente disposition, est effectué sans que celui‑ci admette pour autant sa responsabilité à l’égard de tout montant demandé dans l’instance dont il est fait mention à l’annexe 2.
+[...]
+6. Claridge et Richer reconnaissent qu’ils ont signé une quittance et une décharge mutuelle, dont une copie est jointe à l’annexe 3 des présentes.
+[Non souligné dans l’original.]
+[24] Je note qu’en plus de s’entendre sur le montant d’un million de dollars américains, l’appelant a renoncé à ses parts dans la société de personnes et à ses réclamations contre Claridge et d’autres personnes.
+[25] L’entente de règlement a été conclue en même temps qu’une quittance et décharge mutuelle (la « quittance ») qui a été signée par tous les intéressés le 19 décembre 1996; cette quittance prévoyait notamment ce qui suit :
+[traduction]
+Moyennant contrepartie à titre onéreux et valable, dont la réception et la suffisance sont par les présentes reconnues, Richer, pour son propre compte ainsi que pour le compte de ses ayants droit, accorde par les présentes aux parties Claridge et à chacune d’elles une quittance et décharge à l’égard des réclamations, actions, causes d’action, poursuites, créances, demandes et dommages‑intérêts, passés, présents et futurs, quels qu’ils soient, dont il peut se prévaloir et dont ses ayants droit pourront se prévaloir, contre les parties Claridge ou l’une d’entre elles, compte tenu d’un fait, d’une affaire, d’une opération ou de toute autre question allégués dans l’instance mentionnée à l’annexe ci‑jointe.
+[Non souligné dans l’original.]
+[26] Conformément aux conditions de l’entente de règlement, l’appelant a versé un million de dollars américains à Claridge Properties au moyen d’un chèque daté du 6 janvier 1997. En conséquence, l’acquiescement à la demande susmentionné en résultant n’a jamais été enregistré.
+[27] Les représentants juridiques de l’appelant et de Claridge Properties ont également signé une [traduction] « Déclaration de règlement extrajudiciaire ». Ce document a été signé par l’avocat de l’appelant le 20 décembre 1996 et par l’avocat de Claridge Properties le 7 janvier 1997.
+[28] Dans sa déclaration de revenus de 1996, l’appelant a déduit des pertes au montant de 215 740 $CAN à l’égard de ses participations dans Parks Square et dans Southland. Il a expliqué qu’il croyait comprendre qu’aux termes de l’entente de règlement sa fraction à risques dans ces sociétés de personnes avait augmenté. Avant 1996, l’appelant n’avait pas déduit ces pertes, parce qu’il croyait comprendre que sa fraction à risques était nulle pour chacune de ces deux sociétés de personnes.
+[29] Par des avis de nouvelle cotisation délivrés le 12 décembre 2000, le ministre a établi de nouvelles cotisations à l’égard de l’appelant pour ses années d’imposition 1993, 1995, 1996, 1997, 1998 et 1999.
+[30] En premier lieu, le ministre a refusé la déduction des pertes de sociétés de personnes demandée par l’appelant en 1996, compte tenu du fait qu’aucun autre apport en capital n’avait été effectué par l’appelant ou pour le compte de celui‑ci.
+[31] En second lieu, le ministre a conclu qu’en 1997, l’appelant avait réalisé un gain (le montant remis sur la dette) de 1 368 528 $CAN, lors du règlement de la dette qu’il avait envers Claridge Properties. Ce chiffre était basé sur la comptabilité suivante préparée par Claridge Properties à l’égard de la dette de l’appelant, en dollars américains[9] :
+Solde dû
+31 oct. 96
+Apport en capital
+Déc. 96
+Règlement
+Janv. 97
+Rentrées distribuées
+Déc. 96
+Radiation
+Solde dû
+31 oct. 97
+Southland
+275 632
+238 632
+(514 264)
+0
+0
+0
+Livonia
+273 000
+0
+(155 369)
+(117 631)
+0
+0
+Park Square
+363 421
+76 462
+(330 366)
+(109 517)
+(1)
+Hickory
+609 216
+88 725
+(697 941)
+0
+Intérêts à recevoir
+193 220
+(193 220)
+0
+Sous‑total $US
+1 714 489
+403 819
+(1 000 000)
+(117 631)
+(1 000 679)
+(1)
+[32] Ce tableau a été soumis au ministre dans le cadre d’une vérification de Claridge Properties effectuée par celui‑ci[10]. Pour arriver à ce montant de 1 368 528 $CAN, le ministre a converti le montant radié de 1 000 679 $US calculé par Claridge Properties en dollars canadiens au taux de change d’environ 1,37 (soit le taux accepté par le ministre comme s’appliquant au mois de janvier 1997).
+[33] Le ministre a appliqué ce gain comme suit, en premier lieu en réduction des pertes en capital nettes de l’appelant reportées prospectivement et, en second lieu, en réduction du coût en capital de ses biens amortissables[11] :
+Pertes en capital nettes
+Montant
+Réduction des pertes en capital nettes à reporter prospectivement (de 1993-1995-1996)
+89 469 $CAN
+Réduction du coût en capital des biens amortissables de l’appelant au 31 décembre 1996
+1 279 061 $CAN
+Total
+1 368 529 $CAN
+[34] L’effet de ces rajustements est indiqué dans les nouvelles cotisations qui restent. En 1997 et en 1998, le ministre a refusé les déductions pour amortissement qui avaient été demandées, et en 1999, il a refusé de permettre le report prospectif des pertes en capital subies avant le règlement.
+[35] De plus, le ministre a imposé des pénalités, en application du paragraphe 163(2) de la LIR, sur le revenu imposable additionnel résultant des nouvelles cotisations concernant les années 1997, 1998 et 1999.
+[36] Des faits additionnels seront énoncés dans l’analyse effectuée ci‑dessous.
+III. Les points en litige
+[37] Les points en litige sont les suivants :
+a) Le ministre a‑t‑il correctement appliqué l’article 80, et plus précisément :
+(i) Le moment – à quelle année l’article 80 s’applique‑t‑il?
+(ii) Y a‑t‑il eu une remise? Dans l’affirmative, quel en était le montant? Les questions suivantes se posent alors :
+- Quel était le montant de la dette?
+- À part le paiement d’un million de dollars américains, l’appelant a‑t‑il donné une autre contrepartie dans le cadre du règlement?
+b) L’appelant a‑t‑il le droit de déduire des pertes de 215 740 $CAN à l’égard de ses participations dans Park Square et dans Southland?
+c) Le ministre a‑t‑il eu raison d’établir des pénalités à l’égard de l’appelant, en application du paragraphe 163(2)?
+IV. Analyse[12]
+L’ARTICLE 80
+[38] L’article 80 de la LIR renferme des règles qui s’appliquent en cas de remise de dettes commerciales ou de réduction de dettes commerciales. Le « montant remis » est appliqué en réduction des pertes du débiteur reportées prospectivement d’années d’imposition antérieures et de divers autres montants prévus aux paragraphes 80(3) à (12). S’il reste une partie du montant remis qui n’a pas été appliquée, il y a un montant à inclure dans le revenu du débiteur, conformément au paragraphe 80(13). Comme le prévoit l’alinéa 80(2)c), les dispositions des paragraphes 80(3) à (13) s’appliquent selon l’ordre numérique.
+[39] Le paragraphe 80(3) se rapporte à la réduction de pertes autres qu’en capital; il prévoit notamment ce qui suit :
+(3) Réduction des pertes autres qu’en capital. En cas de règlement d’une dette commerciale émise par un débiteur, le montant remis sur la dette au moment du règlement est appliqué en réduction, à ce moment, des pertes suivantes selon l’ordre établi ci‑après :
+a) la perte autre qu’une perte en capital du débiteur pour chaque année d’imposition qui s’est terminée avant ce moment [...]
+b) la perte agricole du débiteur pour chaque année d’imposition qui s’est terminée avant ce moment [...]
+c) la perte agricole restreinte du débiteur pour chaque année d’imposition qui s’est terminée avant ce moment [...]
+[40] De même, la partie pertinente du paragraphe 80(4) est libellée comme suit :
+(4) Réduction des pertes en capital. En cas de règlement d’une dette commerciale émise par un débiteur, la fraction applicable de la partie non appliquée restante du montant remis sur la dette au moment du règlement est appliquée en réduction, à ce moment, des pertes suivantes selon l’ordre établi ci‑après :
+a) la perte autre qu’une perte en capital du débiteur pour chaque année d’imposition qui s’est terminée avant ce moment, [...]
+b) la perte en capital nette du débiteur pour chaque année d’imposition qui s’est terminée avant ce moment, [...]
+[41] Après que le paragraphe 80(4) a été appliqué, le contribuable peut, à son choix, appliquer la partie non appliquée restante du montant remis en réduction de certains soldes, tels que les soldes des fractions non amorties du coût en capital pour des biens amortissables, conformément à certaines dispositions des paragraphes 80(5) à (12). S’il reste une partie non appliquée du montant remis et que le contribuable choisit de ne pas indiquer les montants requis par ces dispositions, il y aura un montant à inclure dans le revenu du contribuable, conformément au paragraphe 80(13)[13].
+[42] Le « montant remis » est défini comme suit au paragraphe 80(1), dans la mesure pertinente au présent appel :
+« montant remis » S’agissant du montant remis, à un moment donné, sur une dette commerciale émise par un débiteur, le montant déterminé selon la formule suivante:
+A – B
+où
+A représente le moins élevé du montant pour lequel la dette a été émise ou du principal de la dette;
+B le total des montants suivants :
+a) le montant payé à ce moment en règlement du principal de la dette,
+[...][14]
+[43] L’avocat de l’appelant a contesté l’application par le ministre de l’article 80 en invoquant deux motifs. En premier lieu, il a soutenu qu’aucun montant n’avait été remis lors du règlement de la dette que l’appelant avait envers Claridge Properties ou, subsidiairement, que le montant remis était bien inférieur aux 1 368 569 $CAN présumés par le ministre.
+[43]
+[44] En second lieu, l’avocat a soutenu que, même s’il est conclu qu’un montant a été remis, cet événement s’est produit au mois de décembre 1996, et non au mois de janvier 1997 comme l’a supposé le ministre. Par conséquent, l’avocat a allégué que les nouvelles cotisations établies par le ministre ne sont pas fondées et qu’elles vont à l’encontre des dispositions de l’article 80. Dans son argumentation orale, l’avocat a soutenu que le ministre avait établi une cotisation à l’égard de la mauvaise année.
+Le moment
+[45] Il est clair qu’en appliquant les dispositions relatives à la remise de dette des paragraphes 80(3) à (13), le montant remis doit être déterminé au moment où la dette est réglée.
+[46] Le ministre a soutenu que la dette que l’appelant avait envers Claridge Properties avait été réglée en 1997, en mettant l’accent sur le fait que ce n’est qu’au mois de janvier 1997 que le chèque d’un million de dollars américains, daté du 6 janvier, avait été traité. Selon la thèse proposée par le ministre, il n’y aurait pas pu y avoir réduction de la dette de l’appelant dans ce cas‑ci tant que ce montant n’était pas payé par chèque, et ce n’est qu’alors que la dette était réglée pour l’application de l’article 80.
+[47] Si je comprends bien, le ministre a soutenu que le critère comportait deux volets[15]. En premier lieu, la dette doit être réglée ou éteinte.
+[48] En second lieu, à cause de la définition de l’expression « montant remis », au paragraphe 80(1), et en particulier de la mention, à B, de la définition des mots « le montant payé », il ne peut pas y avoir de montant remis tant que le montant n’est pas payé. Voici ce que le ministre a soutenu :
+[traduction]
+[...] la remise se produit lorsque le montant est payé. En effet, nous savons tous que, lorsqu’un montant est payé et qu’il se rapporte à l’ensemble de la dette, il n’y a de toute évidence pas de montant remis. Il faut qu’une partie seulement du montant ait été payée.
+Par conséquent, pour que le ministre établisse ou détermine s’il y a un montant remis, le montant devait être payé, parce que, si l’on se reporte à la définition du « montant remis », elle dit qu’il s’agit de A moins B, B étant a) le montant payé à ce moment en règlement du principal de la dette.
+Par conséquent, si aucun montant n’est payé, on ne saurait en tenir compte dans l’évaluation du montant remis. Ce n’est qu’à ce moment qu’il peut être déterminé ou que le ministre peut déterminer s’il y a un montant remis.
+[...] Notre thèse sur ce point est la suivante [...] il ne pouvait pas y avoir réduction de la dette de M. Richer dans ce cas‑ci tant que le montant n’était pas payé. Et c’est à ce moment‑là que la dette est réglée, conformément à l’article 80 de la Loi[16].
+[49] Je ne suis pas d’accord.
+[50] L’alinéa 80(2)a) prévoit que, pour l’application de l’article 80 :
+une dette émise par un débiteur est réglée au moment où elle est réglée ou éteinte [...]
+[51] Dans le contexte de l’article 80, le mot « régler » dénote une résolution définitive légalement exécutoire qui met fin aux dettes du débiteur ou qui les réduit : Carma Developers Ltd. v. The Queen, 96 DTC 1798 (C.C.I.), juge Bowman (tel était alors son titre), paragraphe 23, confirmé à 96 DTC 6569 (C.A.F.). De même, dans la décision Arcade Construction Ltd. v. M.N.R., 81 DTC 655 (C.R.I.), le commissaire M.J. Bonner (tel était alors son titre) a conclu, à la page 656, qu’une dette ou une obligation est réglée lorsque [traduction] « [...] le créancier et le débiteur conviennent délibérément de fixer ou de modifier leurs droits et obligations existants [...] ».
+[52] À mon avis, l’effet combiné de l’entente de règlement et de la quittance, qui ont toutes deux été signées le 19 décembre 1996, était de mettre fin à la dette que l’appelant avait aux termes des billets et à l’égard de tous les autres montants associés à sa participation aux quatre sociétés de personnes. Les paragraphes suivants de la quittance illustrent la chose :
+[traduction]
+Moyennant contrepartie à titre onéreux et valable, dont la réception et la suffisance sont par les présentes reconnues, Claridge Properties Ltd. [et d’autres parties] (ci‑après les « PARTIES CLARIDGE ») accordent par les présentes à Jack Richer (« RICHER »), pour leur propre compte ainsi que pour le compte de leurs ayants droit, une quittance et décharge à l’égard des réclamations, actions, causes d’action, poursuites, créances, demandes et dommages‑intérêts, passés, présents et futurs, quels qu’ils soient, dont les parties Claridge ou l’une d’entre elles peuvent se prévaloir, ou dont leurs ayants droit pourront se prévaloir, contre Richer, compte tenu d’un fait, d’une affaire, d’une opération ou de quelque autre question allégués dans l’instance mentionnée à l’annexe ci‑jointe.
+Moyennant contrepartie à titre onéreux et valable, dont la réception et la suffisance sont par les présentes reconnues, Richer, pour son propre compte ainsi que pour le compte de ses ayants droit, accorde par les présentes aux parties Claridge et à chacune d’elles une quittance et décharge à l’égard des réclamations, actions, causes d’action, poursuites, créances, demandes et dommages‑intérêts, passés, présents et futurs, quels qu’ils soient, dont il peut se prévaloir et dont ses ayants droit pourront se prévaloir, contre les parties Claridge ou l’une d’entre elles, compte tenu d’un fait, d’une affaire, d’une opération ou de toute autre question allégués dans l’instance mentionnée à l’annexe ci‑jointe.
+Richer reconnaît en outre que la quittance et décharge accordée dans les présentes en sa faveur ne portera pas atteinte au droit de Claridge Properties Ltd. d’obtenir un jugement fondé sur l’acquiescement à la demande daté du même jour que les présentes, signé par lui en faveur de Claridge Properties Ltd., dans le cas où Claridge Properties Ltd. aurait le droit d’obtenir un jugement à cet égard, aux termes des conditions d’une entente datée du même jour que les présentes, conclue entre Richer et Claridge Properties Ltd.
+[...]
+[53] À la suite de la signature de l’entente de règlement et de la quittance, Claridge Properties a uniquement conservé un droit restreint d’engager une poursuite contre l’appelant à l’égard du paiement du montant d’un million de dollars américains que celui‑ci s’était engagé à effectuer, puisque la dette initiale était éteinte. Par conséquent, la date du règlement, pour l’application des dispositions de l’article 80, est le 19 décembre 1996.
+[54] En outre, il est certain que l’entente concernant le paiement du montant d’un million de dollars américains au plus tard le 8 janvier 1997 et la renonciation à certains autres droits se rapportait à un montant payé le 19 décembre 1996, étant donné que le mot « montant » est défini comme suit au paragraphe 248(1) de la LIR :
+[...] Argent, droit ou chose exprimés sous forme d’un montant d’argent, ou valeur du droit ou de la chose exprimée en argent. Toutefois: [...]
+[Le reste de la définition ne s’applique pas.]
+[55] Il importe de mentionner deux autres points. En premier lieu, le régime de la remise de dette prévoit expressément la possibilité, à l’alinéa 80(2)h), que, lorsque le débiteur règle une dette, la contrepartie donnée par le débiteur peut en partie être composée d’une nouvelle créance :
+h) dans le cas où une partie de la contrepartie qu’un débiteur donne à une autre personne en règlement, à un moment donné, d’une créance commerciale donnée émise par le débiteur et payable à l’autre personne consiste en une nouvelle créance commerciale émise par le débiteur en faveur de cette personne, les présomptions suivantes s’appliquent:
+(i) un montant égal au principal de la nouvelle créance est réputé payé par le débiteur à ce moment, en raison de l’émission de cette créance, en règlement du principal de la créance donnée [...]
+[56] En second lieu, en vertu du Code civil du Québec[17], les obligations qui existaient entre l’appelant et Claridge se sont éteintes par suite de l’effet combiné de la compensation[18], d’une quittance mutuelle et de la novation[19], dans l’entente de règlement du 19 décembre 1996. Il est ici encore certain que cela représente un montant payé en vertu de la LIR.
+[57] L’appelant a soutenu que le ministre ne peut pas simplement établir une cotisation à l’égard du règlement et de la remise de dette au cours d’une année donnée et établir ensuite des cotisations corrélatives au cours d’autres années[20]. Je suis d’accord pour dire que la cotisation doit être fondée sur l’année du règlement.
+[58] Toutefois, dans la mesure où l’appelant soutient que, s’il est conclu que le règlement a eu lieu en 1996, il faut omettre de tenir compte de toute remise de dette, je ne suis pas d’accord.
+[59] Une cotisation se rapporte habituellement à un montant au titre de l’impôt, des intérêts et des pénalités, et c’est ici le cas. Les faits sous‑jacents constituent simplement le fondement de la cotisation[21]. La question de savoir si un montant a été remis et à quel moment cela s’est produit fait partie des faits sous-jacents. En l’espèce, il est certain que la question de la remise de dette faisait partie du fondement de la cotisation[22]. Par conséquent, toute remise de dette est encore pertinente aux fins du règlement de l’appel et demeurera pertinente lorsqu’il s’agira de déterminer de nouveau la dette de l’appelant.
+[60] Étant donné que le règlement a eu lieu en 1996, l’appel sera accueilli, de façon que les cotisations en litige soient modifiées en vue d’en tenir compte. Toutefois, l’effet de cette modification dépend en partie de l’issue quant aux autres questions. J’examinerai l’effet de cette modification ci‑dessous, mais je tiens à faire remarquer qu’en pratique, compte tenu de la façon dont les règles sur les remises de dette s’appliquent et puisque le montant d’une cotisation d’impôt ne peut pas être augmenté au moyen d’un jugement rendu par la Cour, cette conclusion entraînera à elle seule une réduction importante du montant des cotisations.
+Y a-t-il eu un montant remis? Dans l’affirmative, quel était ce montant?
+[61] Dans le calcul du montant remis, selon la définition figurant au paragraphe 80(1), le principal de la dette constitue un élément nécessaire.
+[62] Lorsque le montant payé par le débiteur est au moins aussi élevé que le montant de la dette, il ne peut pas, bien sûr, y avoir de montant remis. L’avocat de l’appelant a d’abord soutenu que la dette de l’appelant envers Claridge Properties s’était cristallisée en 1990, au montant de 187 000 $US.
+[63] Compte tenu de l’ensemble de la preuve, je ne puis conclure que les parties en sont venues à une entente exécutoire établissant les dettes de l’appelant en 1990. Les négociations relatives au retrait de l’appelant des sociétés de personnes se sont poursuivies pendant toute l’année 1991, sans aboutir à quoi que ce soit, et l’appelant n’a jamais payé le montant de 187 000 $US[23].
+[64] Selon le principal argument avancé par l’avocat de l’appelant, le montant d’un million de dollars américains dont il était convenu dans l’entente de règlement représentait en fait le montant de la dette de l’appelant envers Claridge Properties. Toutefois, dans son argumentation orale, l’avocat a reconnu que ce montant d’un million de dollars américains ne résultait pas d’un calcul minutieux effectué par l’appelant ou par Claridge Properties, que personne ne connaissait le montant exact de la dette et que [traduction] « [...] les parties [avaient] coupé la poire en deux, à un million de dollars [...] » afin d’éviter les risques et les inconvénients que comporterait un litige[24].
+[65] Dans son témoignage oral, M. Parsons a confirmé la façon dont les parties étaient arrivées au montant d’un million de dollars américains :
+[traduction]
+Il s’agissait fondamentalement d’un montant dont j’aurais discuté avec M. Ludwig. Nous nous serions entendus, parce qu’il y a eu, [...] il y a eu beaucoup de pourparlers entre les avocats de M. Richer et les miens. Je me rappelle que mon avocat a dit à l’avocat de M. Richer que le montant du règlement devait comporter sept chiffres [...] et c’est le chiffre qui lui est venu à l’esprit et que nous avons accepté[25].
+[66] Dans ces conditions, on ne saurait conclure que le montant d’un million de dollars américains dont les parties ont convenu représentait une détermination de la dette de l’appelant envers Claridge Properties. En outre, il n’y a rien dans l’entente de règlement ou dans la quittance qui indique un consensus entre les parties sur le montant de la dette de l’appelant. Tous les éléments de preuve indiquent que le règlement représentait un compromis entre deux positions opposées visant à éviter les dépenses et incertitudes associées au règlement judiciaire des poursuites.
+[67] L’appelant a invoqué un certain nombre de raisons précises pour lesquelles sa dette était moins élevée que ce que supposait le ministre; je reviendrai ci‑dessous sur la question. Toutefois, j’aimerais d’abord faire remarquer que, bien que, dans le cadre de son argumentation orale[26], l’avocat de l’appelant ait présenté un tableau de calcul sommaire de la dette de l’appelant, aucune tentative n’a été faite pour en établir exactement le montant. L’avocat a expliqué que l’on n’avait pas tenté d’effectuer de calculs exacts à cause des difficultés que la chose présentait[27].
+[68] Or, il faut déterminer le montant de la dette de l’appelant en vue de connaître les conséquences découlant de l’application de l’article 80, et ce, peu importe les problèmes de calcul.
+[69] À l’instruction, on a passé énormément de temps à contester la raison qui avait amené le ministre à conclure que le montant remis s’élevait à 1 368 528 $CAN. Comme il a été expliqué, le ministre est arrivé à ce montant en acceptant essentiellement l’exactitude des calculs effectués par Claridge Properties, tels qu’ils sont résumés dans le tableau au paragraphe 31 ci‑dessus. Selon ce tableau, le montant de la dette de l’appelant, dans lequel il était tenu compte des 117 631 $US qui étaient dus à celui‑ci pour sa participation dans Livonia, s’élevait à 2 000 679 $US, avant le paiement du montant d’un million de dollars américains.
+[70] L’appelant a maintenu que les chiffres de ce tableau constituaient une surestimation de sa dette, et ce, pour un certain nombre de raisons, et notamment pour les raisons suivantes :
+a) le solde dû le 31 octobre 1996[28] comprend des montants pour lesquels l’appelant n’a pas signé de billets;
+b) les « apports en capital » qui auraient été effectués au mois de décembre 1996, s’élevant à 403 819 $US en tout, ne devraient pas être inclus dans la dette de l’appelant;
+c) les montants distribués par Livonia, s’élevant en tout à 536 011 $CAN (155 809 $US[29] en 1995 et 236 631 $US[30] en 1996) n’ont pas été reçus par l’appelant et n’ont pas non plus été appliqués en réduction de la dette que l’appelant avait envers Claridge Properties;
+d) des frais de gestion ont été exigés à tort de Livonia, ce qui avait pour effet de réduire de 137 097 $US la part du produit de cette société de personnes revenant à l’appelant;
+e) Claridge Properties a transféré à tort certains montants de Livonia à Hickory, ce qui a eu pour effet de réduire d’un montant de 152 236 $US la part du produit tiré de Livonia revenant à l’appelant.
+[71] Dans les deux premiers arguments, l’avocat conteste le montant que l’appelant devait, selon ce que celui‑ci avait convenu. Les autres arguments se rapportent aux diverses réclamations effectuées par l’appelant, qui auraient en partie compensé sa dette.
+Le solde dû au 31 octobre 1996
+[72] J’examinerai d’abord l’argument selon lequel l’appelant n’est pas redevable, quant au principal, des montants pour lesquels il n’a pas signé de billets.
+[73] L’appelant a signé des billets s’élevant en tout à 1 209 266 $US. Les billets signés constituent clairement une reconnaissance de dette. Selon le tableau que Claridge Properties a dressé, le solde total de l’appelant qui était dû au 31 octobre 1996, y compris les intérêts à recevoir, de 193 220 $US, s’élevait à 1 714 489 $US. Ce solde total comprend un montant de 316 003 $US qui n’est pas attesté par des billets signés.
+[74] Malgré de longs témoignages sur la question, les détails précis de l’entente que l’appelant a conclue avec Claridge Properties au sujet de la reconnaissance de dette subséquente ne sont toujours pas clairs. L’appelant a reconnu que l’entente comportait la signature, après coup, de billets faisant état d’un apport en capital effectué pour son compte par Claridge Properties[31], mais l’entente semble donner à entendre que l’appelant pouvait uniquement être tenu responsable des apports subséquents s’il en convenait en signant les billets[32].
+[75] L’appelant a également témoigné que les dispositions des ententes conclues sur une simple poignée de main avaient été violées. Nous reviendrons plus loin sur ces manquements.
+[76] L’appelant a également expliqué qu’il n’aurait pas pu faire l’objet d’un appel de fonds, puisqu’il était commanditaire des entreprises et qu’il pouvait donc uniquement être tenu responsable des apports dont il avait été convenu[33]. Étant donné que les ententes conclues sur une simple poignée de main sont des ententes juridiques distinctes des sociétés en commandite, le fait que l’appelant, en sa qualité de commanditaire, n’est pas tenu d’effectuer d’apports supplémentaires dans les sociétés en commandite ne règle pas la question.
+[77] La preuve soumise par l’appelant n’est pas entièrement compatible avec celle de M. Parsons, qui a expliqué qu’en cas de déficit, toutes les sociétés de personnes Claridge avaient l’habitude d’exiger que les associés fournissent des sommes supplémentaires. Toutefois, M. Parsons a également témoigné ne pas avoir participé à la formation des sociétés de personnes[34], et qu’il n’avait eu presque aucun rôle en ce qui concerne les prêts consentis aux associés en sus de faire en sorte que de l’argent soit transféré de Claridge, conformément aux instructions qu’il avait reçues de Claridge Properties[35]. C’est pourquoi je n’accorderai pas beaucoup de poids à la preuve qu’il a soumise telle qu’elle se rapporte aux conditions de la participation de l’appelant dans les sociétés de personnes.
+[78] Les associés avaient clairement une obligation quelconque de financer les besoins en argent de la société de personnes; de fait, leur comportement jusqu’au moment où l’appelant a cessé de signer des billets le montre bien. Il existait clairement d’autres obligations; selon la preuve qui m’a été soumise, Claridge a manqué à au moins l’une de ces obligations (voir les paragraphes 91 à 93). Enfin, il est clair qu’après le 1er janvier 1990[36], même Claridge a implicitement reconnu que toute obligation de financement existante avait pris fin (voir le paragraphe 83 ci‑dessous)[37]. Il s’agit donc de savoir si l’obligation de financement a cessé à l’égard des dettes alléguées par Claridge au cours de la période qui a commencé lorsque l’appelant a cessé de signer des billets et qui a pris fin le 1er janvier 1990 (la période de 1989). Le montant se rapportant à cette période est le montant de 316 003 $US dont il a déjà été fait mention.
+[79] Étant donné que M. Parsons, le seul témoin de Claridge, n’était pas présent lorsque les ententes dont les parties avaient convenu sur une simple poignée de main ont été conclues, que, compte tenu de la preuve qui m’a été soumise, Claridge a manqué à ses obligations en 1989 en exigeant des frais de gestion[38] (voir ci‑dessous), que l’appelant était la seule personne à témoigner qui avait de fait participé à la conclusion des ententes et que je retiens la preuve de l’appelant sur ce point, je conclus, malgré les incertitudes associées aux conditions des ententes conclues sur une simple poignée de main, que l’appelant n’était pas redevable des montants à l’égard desquels il n’avait pas signé de billets. Cela étant, le montant de 316 003 $US ne faisait pas partie de la dette de l’appelant[39].
+Les apports en capital au mois de décembre 1996
+[80] J’examinerai maintenant l’argument concernant les apports en capital, s’élevant en tout à 403 819 $US, qui auraient été effectués au mois de décembre 1996.
+[81] M. Parsons a expliqué que les montants figurant dans cette colonne représentaient le montant que Claridge Properties devait contribuer aux sociétés de personnes en vue de ramener à zéro les comptes de l’appelant, conformément à l’entente de règlement[40]. Ces apports étaient nécessaires, parce que Claridge Properties avait calculé que les comptes de l’appelant étaient déficitaires à cause de dettes non financées qui s’étaient accumulées dans les sociétés de personnes. M. Parsons a en outre expliqué que Claridge Properties considérait ce déficit comme des prêts en faveur de l’appelant[41].
+[82] J’ai déjà conclu qu’il n’existait aucune entente prévoyant que l’appelant serait redevable des montants à l’égard desquels il n’avait pas signé de billet. Pour les motifs que j’ai ci‑dessus mentionnés, je conclus que les montants s’élevant en tout à 403 819 $US qui étaient inclus dans le tableau préparé par Claridge Properties ne faisaient pas partie de la dette de l’appelant.
+[83] Il existe un autre motif justifiant cette conclusion. L’examen des déclarations dans les quatre actions que Claridge a intentées contre l’appelant[42] révèle que, dans le cas de la société de personnes Hickory, l’action a été intentée au mois de novembre 1994 et que, dans les trois autres cas, les actions ont été intentées aux mois d’octobre, de novembre et de décembre 1992. Le montant de 403 819 $US n’est demandé nulle part dans ces actions. Les montants suivants, plus les intérêts, (en dollars américains) sont demandés dans ces actions :
+Southland
+275 632
+Livonia
+273 000
+Park Square
+286 959*
+Hickory
+609 216
+* Il importe de noter que ce montant est inférieur d’un montant de 76 461 $US à celui que le ministre a supposé – voir la colonne intitulée [traduction] « Solde dû, 31 oct. 96 », paragraphe 31 ci‑dessus[43].
+On ne donne à entendre nulle part qu’il existe une dette additionnelle ou une dette continue. En outre, Claridge Properties a déposé devant la Cour supérieure un exposé préliminaire daté du 29 avril 1996. Dans cet exposé, les montants indiqués ci‑dessus, y compris les intérêts, sont expressément réclamés, mais il n’est pas soutenu qu’il existe d’autres dettes.
+[84] Je tiens également à faire remarquer que Claridge Properties a uniquement présenté une demande au montant de 286 959 $US, et non au montant de 363 421 $US, dans le cas de l’action de Park Square, ce qui constitue un autre motif permettant de conclure que la différence entre les deux montants, 76 461 $US (soit une partie du montant de 316 003 $US pour laquelle il n’y a pas de billet), ne faisait pas partie de la dette de l’appelant.
+Les montants distribués par Livonia
+[85] Le troisième argument invoqué par l’avocat était que les montants distribués par Livonia, s’élevant à 536 011 $CAN en tout (155 809 $US[44] en 1995 et 236 631 $US[45] en 1996) n’ont pas été reçus par l’appelant et n’ont pas été appliqués en réduction de la dette que l’appelant avait envers Claridge Properties. Compte tenu des documents et de la preuve ci‑après mentionnée de M. Parsons, j’ai conclu que cet argument était dénué de fondement.
+[86] M. Parsons a expliqué que le montant de 155 809 $US qui avait été distribué en 1995 avait été appliqué en réduction des impôts sur le revenu américains pour le compte de l’appelant[46].
+[87] Dans le tableau établi par Claridge Properties, il a été tenu compte de deux façons du montant de 236 631 $US distribué en 1996. En premier lieu, le montant de 117 631 $US est crédité à l’appelant dans la colonne intitulée [traduction] « Rentrées distribuées, déc. 96 ». En second lieu, M. Parsons a expliqué que les 119 000 $US avaient été appliqués en réduction du montant se rapportant aux [traduction] « intérêts à recevoir », dans la première colonne du tableau, de 312 220 $US à 193 220 $US[47].
+Les frais de gestion et le transfert de Livonia en faveur de Hickory
+[88] Les deux derniers arguments invoqués par l’avocat, au sujet des frais de gestion exigés de Livonia et du transfert de certains montants de cette société de personnes en faveur de Hickory[48], correspondent à la position selon laquelle l’appelant avait le droit de se voir attribuer une somme plus élevée pour sa participation dans Livonia et qu’il faut prendre ce droit en considération en déterminant la dette de l’appelant envers Claridge Properties.
+[89] Ces deux allégations, en ce qui concerne Livonia, n’entrent pas en ligne de compte dans la détermination de la dette de l’appelant, mais, dans la mesure où elles sont fondées, la quittance se rapportant aux réclamations que l’appelant avait accordée constitue une contrepartie de valeur à prendre en compte en déterminant la contrepartie que l’appelant a donnée et s’il y a eu remise partielle de dette[49].
+[90] Le problème qui se pose selon moi, en ce qui concerne la position prise dans la nouvelle cotisation, est que l’on attribue la valeur néant à la quittance que l’appelant a accordée dans le cadre du règlement. Il ressort de la preuve qu’en établissant la nouvelle cotisation, le ministre a adopté le point de vue plutôt unidimensionnel selon lequel l’appelant avait simplement versé le montant d’un million de dollars américains en paiement d’une dette de plus de deux millions de dollars américains. Or, un bref examen de l’entente de règlement montre clairement que ce n’était pas le cas. La contrepartie que l’appelant a donnée afin de régler la dette qu’il avait envers Claridge Properties comprenait (i) ses participations dans chacune des quatre sociétés de personnes, (ii) une quittance complète à l’égard de chacune des poursuites qu’il avait engagées, et finalement (iii) le paiement d’un million de dollars américains en espèces. Il faut se demander quelle était la valeur de la contrepartie autre qu’en espèces.
+Les frais de gestion
+[91] L’appelant a témoigné qu’il avait été convenu qu’aucuns frais de gestion ne seraient exigés des sociétés de personnes[50]. Je retiens son témoignage sur ce point.
+[92] La société de personnes Livonia était rentable; elle a versé un montant de 545 295 $US au titre des frais de gestion[51] et, puisque l’appelant détenait une participation de 20 p. 100, la chose avait pour effet de le priver du montant de 109 059 $US qu’il aurait reçu s’il avait exigé des frais de gestion.
+[93] Compte tenu de cette conclusion, il est à mon avis raisonnable d’attribuer la valeur de 109 059 $US à la quittance que l’appelant a accordée pour cette réclamation. Il faut prendre ce montant en compte en appliquant les règles sur les remises de dette[52].
+Le transfert de Livonia en faveur de Hickory
+[94] L’appelant a soutenu que la société de personnes Livonia, qui était rentable et dans laquelle il détenait une part de 20 p. 100, a consenti, d’une façon irrégulière, un prêt de 554 550 $US à la société de personnes Hickory, qui n’était pas rentable et dans laquelle il détenait une part de 16 p. 100. Le prêt a été radié, de sorte que l’appelant a été privé du montant de 110 910 $US. Si le prêt n’avait pas été radié, ce montant lui aurait été versé ou crédité au moment de la liquidation de la société de personnes[53].
+[95] La preuve concernant le prêt consenti à Livonia était fort restreinte. Ainsi, on ne nous a rien dit au sujet de la question de savoir si Livonia avait reçu quelque chose en échange. Le prêt a peut‑être bien réduit ce que l’appelant a peut‑être en fin de compte reçu de la société de personnes Livonia, mais je ne suis pas convaincu que l’appelant a démontré que le commandité outrepassait ses pouvoirs[54]. Par conséquent, je ne suis pas d’accord pour dire que la valeur de la quittance doit refléter un montant additionnel de 110 910 $US à l’égard du transfert de Livonia en faveur de Hickory.
+Conclusions relatives au montant remis
+[96] Comme il a ci‑dessus été expliqué, le ministre a établi la cotisation de l’appelant au motif qu’il y avait un montant remis de 1 000 679 $US, en se fondant sur l’hypothèse selon laquelle la dette de l’appelant s’élevait à 2 000 679 $US et que le montant d’un million de dollars américains avait été payé en réduction de cette dette.
+[97] Étant donné les conclusions que j’ai ci‑dessus tirées, le montant de la dette de l’appelant doit être réduit comme suit :
+2 000 679 $US
+Montant de la dette selon la nouvelle cotisation
+(316 003 $US)
+Moins : « Montant de 1989 »
+(403 819 $US)
+Moins : « Apport en capital » en décembre 1996
+1 280 857 $US
+Dette de l’appelant
+[98] Par conséquent, le montant remis est calculé comme suit :
+1 280 857 $US
+Montant de la dette
+(1 000 000 $US)
+Moins : montant payé par chèque
+(109 059 $US)
+Moins : valeur de la quittance – frais de gestion
+171 798 US
+Montant remis
+LES PERTES DES SOCIÉTÉS DE PERSONNES EN 1996
+[99] Dans sa déclaration de revenus de 1996, l’appelant a déduit des pertes de sociétés de personnes de 215 740 $CAN, composées d’une perte de 89 208 $CAN dans la société de personnes Park Square et d’une perte de 126 532 $CAN dans la société de personnes Southland.
+[100] Un certain nombre d’arguments ont été invoqués sur ce point, mais je conclus que l’appelant n’a pas le droit de déduire ces pertes de sociétés de personnes, et ce, pour le motif ci‑après énoncé.
+[101] Dans les déclarations de revenus de 1990 de l’appelant figure un calcul de ces deux montants (89 208 $CAN et 126 532 $CAN) au titre de pertes que l’appelant ne pouvait pas déduire selon les dispositions concernant la fraction à risques[55]. Ce calcul est fondé sur les états préparés pour les sociétés de personnes, dans lesquels il était tenu compte des apports effectués par Claridge pour le compte de l’appelant. Ces apports tenaient compte non seulement des billets qui avaient été signés, mais aussi des 316 003 $US pour lesquels aucun billet n’avait été signé.
+[102] Pour être en mesure de déduire un montant supplémentaire au titre des pertes de sociétés de personnes, il fallait que l’appelant effectue un apport supplémentaire en sus des montants des contributions faites en son nom (le montant correspondant au montant des billets, plus les 316 003 $US de la période de 1989)[56], de façon à augmenter sa fraction à risques.
+[103] Pareil apport a‑t‑il été effectué? De toute évidence, l’appelant n’a pas effectué directement un tel apport. Le seul apport possible découlerait de la disposition de l’entente de règlement prévoyant ce qui suit :
+[traduction]
+Claridge s’engage à faire en sorte que les comptes de capital de Richer dans les sociétés de personnes soient ramenés à zéro dans chaque cas.
+Il semble qu’il s’agisse de la clause qui a amené Claridge à indiquer un [traduction] « apport en capital » de 403 819 $US au mois de décembre 1996 dans la comptabilité figurant au paragraphe 31 ci‑dessus.
+[104] S’il s’agissait réellement d’un apport effectué par Claridge pour le compte de l’appelant et si l’appelant était redevable de ce montant, la fraction à risques de l’appelant augmenterait de fait. Toutefois, j’ai déjà conclu que l’appelant n’était pas tenu d’effectuer ces apports et, par conséquent, les 403 819 $US ne pouvaient pas constituer un apport effectué pour le compte de l’appelant[57].
+[105] Par conséquent, il n’y a pas eu d’augmentation de la fraction à risques et la perte de sociétés de personnes de 215 740 $CAN dont la déduction a été demandée n’est pas déductible. Je n’ai pas à examiner les autres arguments se rapportant à cette perte.
+LES CONSÉQUENCES DE CES CONCLUSIONS
+[106] En ce qui concerne les pertes de sociétés de personnes dont la déduction était demandée en 1996, j’ai tiré une conclusion en faveur de l’intimée.
+[107] Quant aux questions se rapportant à l’article 80, j’ai en bonne partie tiré des conclusions en faveur de l’appelant.
+[108] Il faudra donc tenir compte de ce qui suit en déterminant de nouveau l’obligation fiscale de l’appelant :
+a) Premièrement, le règlement s’est produit en 1996, et non en 1997;
+b) Deuxièmement, le montant remis est de 171 798 $US, et non de 1 000 679 $US;
+c) Troisièmement, il ne peut pas y avoir augmentation du montant établi en 1996 par suite du jugement de la Cour.
+[109] Étant donné que j’ai tiré une conclusion favorable au ministre au sujet de la question de la perte de sociétés de personnes en 1996, le troisième point est fort important en pratique, et ce, à cause des modalités d’application de l’article 80.
+[110] L’effet de l’article 80 devra être déterminé de nouveau, compte tenu du fait que le règlement a eu lieu en 1996. Selon les paragraphes 80(3) et (4), tout montant remis doit en premier lieu être appliqué en réduction des pertes autres qu’en capital et ensuite en réduction des pertes en capital. Un certain nombre de dispositions s’appliquent ensuite, mais uniquement si le contribuable choisit de s’en prévaloir, la première de ces dispositions étant le paragraphe 80(5)[58]. S’il reste une partie du montant remis qui n’a pas été appliqué et que le contribuable choisit de ne pas indiquer les montants comme l’exigent ces dispositions, il y aura un montant à inclure dans le revenu du contribuable, conformément au paragraphe 80(13).
+[111] En l’espèce, certaines pertes en capital ont été subies, mais il n’y a pas eu de pertes autres qu’en capital en 1996 ou auparavant. Après que le montant remis a, dans la mesure du possible, été appliqué en réduction des pertes autres qu’en capital, si l’appelant choisit de ne pas indiquer les montants exigés par les dispositions facultatives de l’article 80, toute partie restante non appliquée du montant remis donnerait lieu à un montant à inclure dans le revenu en 1996 en application du paragraphe 80(13). Toutefois, en pratique, il ne pourrait pas en être ainsi dans le présent appel, étant donné que le montant d’une cotisation ne peut pas être augmenté par un jugement de la Cour.
+[112] Par conséquent, l’appelant ne choisira probablement pas d’indiquer de tels montants, et l’effet réel du montant remis de 171 798 $US sera limité à la réduction des pertes en capital nettes à reporter prospectivement, calculées conformément au paragraphe 80(4) de la LIR[59]. L’une des conséquences sera que l’appelant devra faire l’objet d’une nouvelle cotisation au motif que le ministre n’aurait pas dû réduire d’un montant de 1 279 061 $CAN le coût en capital des biens amortissables de l’appelant.
+[113] En établissant la nouvelle cotisation, le ministre devra également calculer de nouveau le montant remis sur la dette, converti en dollars canadiens, conformément à l’alinéa 80(2)k) de la LIR[60].
+LA PÉNALITÉ POUR FAUTE LOURDE
+[114] J’examinerai maintenant les pénalités que le ministre a imposées en application du paragraphe 163(2).
+[115] Cette question comporte deux aspects. En premier lieu, étant donné que, par suite de la présente décision, le revenu additionnel, et l’impôt y afférent, seront réduits de beaucoup, il faut nécessairement réduire toute pénalité en conséquence à l’égard de l’impôt qui ne sera plus payable.
+[116] En second lieu, dans la mesure où il reste encore un impôt qui est en litige en vertu du paragraphe 163(2), il s’agit de savoir si l’appelant :
+[...] sciemment ou dans des circonstances équivalant à faute lourde, [a] fait un faux énoncé ou une omission dans une déclaration, ou y [a] particip[é], consent[i] ou acquiesc[é] [...]
+[117] Dans la décision Venne v. The Queen[61], le juge Strayer dit ce qui suit :
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi. [...]
+[118] Dans la décision Farm Business Consultants Inc. v. The Queen[62], le juge Bowman (tel était alors son titre) a fait les remarques suivantes :
+Une cour doit faire preuve d’une prudence extrême lorsqu’elle sanctionne l’imposition de pénalités prévues au paragraphe 163(2) [...] Dans un tel cas, une cour doit, même en appliquant une norme de preuve civile, étudier soigneusement la preuve et chercher un degré de probabilité supérieur à celui auquel on s’attendrait dans les situations où l’on cherche à établir le bien‑fondé d’allégations moins sérieuses [...]
+[119] Une telle prudence est compréhensible, compte tenu du fait que le paragraphe 163(2) impose une pénalité correspondant à 50 p. 100 de l’impôt sur le revenu qui a été ajouté.
+[120] En examinant cette question, je dois également me demander si la conduite de l’appelant constituait de l’aveuglement volontaire. Comme le juge Nadon l’a dit, au nom de la Cour d’appel fédérale, dans l’arrêt Panini c. Canada[63] :
+[...] Par conséquent, le droit imputera une connaissance au contribuable qui, dans des circonstances qui lui commanderaient ou lui imposeraient de s’enquérir de sa situation fiscale, refuse ou néglige de le faire sans raison valable.
+[121] En l’espèce, nous avons un cas dans lequel le revenu contesté résulte du contexte du règlement d’un litige complexe dans le cadre duquel Claridge Properties poursuivait l’appelant, alors que l’appelant poursuivait de son côté Claridge Properties. Pour compliquer encore plus les choses, les principales ententes en litige comportent des ententes conclues sur une simple poignée de main. Comme l’analyse effectuée ci‑dessus permet de le constater, le bien‑fondé des questions en litige n’est pas évident en soi. Le règlement, tout en n’indiquant pas précisément les dettes mutuelles de l’appelant et de Claridge, correspondait à peu près, comme je l’ai conclu, à la détermination qui aurait pu être faite si les parties s’étaient adressées aux tribunaux. En outre, je ne doute aucunement que l’appelant était, et est, convaincu qu’il ne devait rien à Claridge Properties, en sus de ce qu’il avait déjà payé – y compris ce à quoi il a renoncé; de fait, je suis convaincu que l’appelant croit avoir payé plus que ce qu’il devait.
+[122] Dans ces conditions, j’estime qu’il est impossible de savoir sur quelle base on pourrait conclure que l’appelant a commis une faute lourde en ce qui concerne tout revenu omis[64].
+V. Dispositif
+[123] Par conséquent, l’appel sera accueilli, les dépens étant adjugés à l’appelant, et l’affaire sera renvoyée pour nouvel examen et nouvelle cotisation, conformément aux présents motifs du jugement, compte tenu du fait que :
+a) l’appelant n’avait pas le droit de déduire les pertes de sociétés de personnes s’élevant à 215 740 $CAN en 1996;
+b) le règlement a eu lieu le 19 décembre 1996, et non en 1997;
+c) le montant remis s’élevait à 171 798 $US, et non à 1 000 679 $US;
+d) les pénalités établies en vertu du paragraphe 163(2) doivent être annulées.
+Signé à Ottawa, Canada, ce 6e jour d’août 2009.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 30e jour de décembre 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2009 CCI 394
+No DU DOSSIER DE LA COUR : 2005-4131(IT)G
+INTITULÉ : JACK RICHER
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : Les 5, 6 et 7 novembre 2007
+MOTIFS DU JUGEMENT : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 6 août 2009
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Aaron Rodgers
+Me Julie Gaudreault-Martel
+Avocat de l’intimée :
+Me Martin Gentile
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Aaron Rodgers
+Julie Gaudreault-Martel
+Cabinet : Spiegel Sohmer
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’appel porte sur les années 1993, 1995, 1996, 1997, 1998 et 1999. Les années cruciales sont les années 1996 et 1997. À part les années 1996 et 1997, les autres années sont en litige à cause des nouvelles cotisations corrélatives qui ont été établies. Dans le cas des années 1993 et 1995, je ne sais pas trop si de nouvelles cotisations ont en fait été établies au titre de l’impôt, des intérêts et des pénalités ou s’il s’agissait simplement d’un nouveau calcul de la perte en capital nette reportée prospectivement aux fins de l’établissement de cotisations concernant des années à venir.
+[2] Interrogatoire principal de M. Andrew Parsons, 6 novembre 2007, pages 121 et 122. (La transcription est par erreur datée du 7 novembre 2007, mais la dernière page montre qu’elle devrait être datée du 6 novembre 2007.)
+[3] Ibid., page 124.
+[4] Dans la déclaration de Southland, il n’est aucunement fait mention de l’appelant, mais la participation de l’appelant dans cette société de personnes n’est pas contestée.
+[5] Voir l’analyse des frais de gestion ci‑dessous.
+[6] Pièce R-1, onglet 4, paragraphes 16 à 19.
+[7] Interrogatoire principal de l’appelant, 6 novembre 2007, page 42.
+[8] Pièce A‑1, onglet 93.
+[9] Pièce A‑2 (ou A‑3).
+[10] Interrogatoire principal de Georges Choueri, 7 novembre 2007, page 21. Le vérificateur chargé du dossier de l’appelant, M. Georges Choueri, a de fait effectué ce qu’il a appelé un [traduction] « test de vraisemblance » en utilisant les soldes des prêts en 1990 et un taux d’intérêt approximatif, mais il a admis que ce calcul ne servait à rien, si ce n’est qu’il le convainquait que les chiffres utilisés par Claridge Properties étaient raisonnables et pouvaient être adoptés : voir témoignage de M. Choueri, 7 novembre 2007, pages 52 à 54 ainsi que 88 et 89.
+[11] Hypothèses du ministre, alinéa 21n) de la réponse à l’avis d’appel.
+[12] Les parties m’ont renvoyé aux textes faisant autorité suivants : Huot c. Services financiers Gilles Ducharme inc., [2004] J.Q. no 7459 (QL); Gibralt Capital Corp. v. The Queen, 2002 DTC 1601 (CCI); Gibralt Capital Corp. c. Canada, 2002 CAF 152; Backman c. Canada, 2001 CSC 10; Boileau v. Lamarre, [1953] 2 R.S.C. 456; 9041-6868 Québec Inc. c. Canada (Ministre du Revenu national), 2005 CAF 334; Bourboin v. Savard (1926), 40 B.R. 68; Witkin c. Canada, 2002 CAF 174; Ridge Run Developments Inc. c. La Reine, 2007 CCI 68; Canada c. Papiers Cascades Cabano Inc., 2006 CAF 419; Gaouette c. Canada, [2002] ACI no 168 (QL); Renaud c. La Reine, 2006 CCI 354; Orlando Corp. v. The Queen, 94 DTC 1046 (CCI); Aallcann Wood Suppliers Inc. v. The Queen, 94 DTC 1475 (CCI); Coastal Construction and Excavating Ltd. v. The Queen, 97 DTC 26 (CCI); New St. James Ltd. v. M.N.R., 66 DTC 5241 (C. de l’É.); Carma Developers Ltd. v. The Queen, 96 DTC 1798 (CCI); The Queen v. Carma Developers Ltd., 96 DTC 6569 (CAF); Central City Financial Services Ltd. v. The Queen, 98 DTC 1021 (CCI); Central City Financial Services Ltd. v. The Queen, 98 DTC 6645 (CAF); Jabin Investments Ltd. v. The Queen, 2001 DTC 1002 (CCI); 170635 Canada Ltd. v. M.N.R., 93 DTC 1129 (CCI); Pedwell v. The Queen, 2000 DTC 6405 (CAF); Canada c. Bulk Transfer Systems Inc., 2005 CAF 94; Venne v. The Queen, 84 DTC 6247 (C.F. 1re inst.); Regina Shoppers Mall Ltd. v. The Queen, 90 DTC 6427 (C.F. 1re inst.); Loi de l’impôt sur le revenu (Canada), L.R.C. 1985, ch. 1 (5e suppl.), dans sa forme modifiée : articles 3, 9, alinéas 12(1)l), 18(1)a), 20(1)c), articles 80, 96, paragraphes 96(2.1), 96(2.2), articles 152 et 163; Code civil du Québec : obligations, contrats nommés, contrats de société et d’association, sociétés en nom collectif, dissolution et liquidation des sociétés, articles 1671 , 1687, 2230, 2235, 2631, 2633, 2848 et 2896; Denys-Claude LAMONTAGNE et Bernard LAROCHELLE, Droit spécialisé des contrats, volume 1, « les principaux contrats, la vente, le louage, la société et le mandat », Éditions Yvon Blais, pages 549 à 554; Albert BOHÉMIER et Pierre-Paul CÔTÉ, Droit commercial général, 3e édition, tome 2, Éditions Thémis, pages 13 à 19; Charlaine BOUCHARD, Les cahiers de droit, Université Laval, « Les rapprochements entre la société de personnes et le partnership », 2001, vol. 42, pages 156 à 213; J.E.C. BRIERLEY, La réforme du Code civil : Obligations contrats nommés, « De la transaction : articles 2631 à 2637 », Les Presses de l’Université Laval, 1993, pages 1063 à 1065; Jean-Louis BAUDOUIN et Pierre-Gabriel JOBIN, Les obligations, 5e édition (1er novembre 1998), Les Éditions Yvon Blais, pages 791 à 810; Canada Tax Service, Stikeman Analysis, 96 – General Rules, taxnet.pro, au 5 novembre 2007; Agence du revenu du Canada, Interprétation technique – externe 2005-0115451/7 – Extinction d’une remise de dette, 22 mars 2005.
+[13] Dans certaines circonstances, qui ne s’appliquent pas en l’espèce, il peut y avoir une restriction de la capacité du contribuable de choisir de ne pas se prévaloir des dispositions en question.
+[14] Au paragraphe 248(1), le mot « montant » est défini comme suit : « [...] Argent, droit ou chose exprimés sous forme d’un montant d’argent, ou valeur du droit ou de la chose exprimée en argent. Toutefois : [...] ». (Le reste de la définition ne s’applique pas.)
+[15] Argumentation de l’avocat de l’intimée, 7 novembre 2007, pages 249 à 254.
+[16] Argumentation de l’avocat de l’intimée, 7 novembre 2007, pages 253 et 254.
+[17] Articles 1660, 1671, 1672, 1687, C.C.Q.
+[18] En plus du montant d’un million de dollars américains, l’appelant a renoncé à ses participations dans les sociétés de personnes et à ses réclamations contre Claridge Properties.
+[19] L’entente selon laquelle le montant contesté devait être en partie payé au plus tard le 8 janvier 1997.
+[20] Argumentation de l’appelant, 7 novembre 2007, pages 219 à 227.
+[21] New St. James Ltd. v. M.N.R., 66 DTC 5241 (C. de l’É.).
+[22] Il n’est pas nécessaire d’examiner le paragraphe 152(9).
+[23] Voir, entre autres, pièce A‑1, onglets 75 à 81. Par exemple, la lettre du 24 juillet 1991 de l’appelant (onglet 76) dit que [traduction] « des progrès importants ont été accomplis, lesquels mèneront à un règlement extrajudiciaire ».
+[24] Argumentation de l’appelant, 7 novembre 2007, page 234.
+[25] Interrogatoire principal de M. Andrew Parsons, 6 novembre 2007, pages 141 et 142.
+[26] Pièce cotée A‑8.
+[27] Argumentation de Me Aaron Rodgers, 7 novembre 2007, pages 238 et 239.
+[28] Tel qu’il est indiqué dans la deuxième colonne du tableau, paragraphe 31 ci‑dessus.
+[29] Page 4, onglet 40, pièce R-1.
+[30] Page 4, onglet 41, pièce R‑1. Le chiffre, dans ce tableau, est indiqué en dollars canadiens (323 095 $). À la page 181 de son interrogatoire principal, le 6 novembre 2007, M. Parsons a confirmé que ce montant correspondait au montant de 236 631 $US.
+[31] Interrogatoire principal de l’appelant, 5 novembre 2007, page 165.
+[32] Interrogatoire principal de l’appelant, 6 novembre 2007, page 9.
+[33] Interrogatoire principal de l’appelant, 5 novembre 2007, pages 183 et 184.
+[34] Interrogatoire principal de M. Andrew Parsons, 6 novembre 2007, pages 102 et 103.
+[35] Ibid. à la page 119.
+[36] Dans les déclarations que Claridge a déposées contre l’appelant, la dernière date mentionnée pour le principal d’une dette est le 1er janvier 1990 (action de Southland).
+[37] Voir l’analyse ci-dessous de l’apport en capital de 403 819 $, décembre 1996, inclus dans le calcul de la dette effectué par l’ARC.
+[38] Je tiens à faire remarquer qu’en 1989, les quatre sociétés de personnes ont payé plus de 600 000 $ au titre de frais de gestion qui n’auraient pas dû être payés. Étant donné la part de l’appelant dans les différentes sociétés de personnes, l’effet net était d’accroître la part des pertes de l’appelant ou de diminuer sa part de profits d’un montant de plus de 100 000 $. Les chiffres figurent dans la colonne 1989 de la pièce R‑1, onglet 42, troisième page (bien que le document soit intitulé : [traduction] « Jack Richer, Investissements immobiliers, Frais de gestion », il ressort clairement d’autres documents que les frais mentionnés représentent le total des frais payés par les sociétés de personnes; voir la troisième page de l’onglet 40, pièce R‑1). Voir l’analyse des frais de gestion ci‑dessous ainsi que la note de bas de page 52.
+[39] En ce qui concerne le montant de 76 461 $US sur les 316 003 $US, il y a une autre raison d’arriver à cette conclusion; voir le paragraphe 84 ci‑dessous.
+[40] Transcription du 6 novembre 2007, pages 173 à 177. À la question 890, M. Parsons indique qu’ils étaient obligés [traduction] d’« effectuer un apport de capital » afin de ramener le tout à zéro. Il semble que la chose ait été nécessaire en vue de permettre à Claridge de radier les montants et de fermer ses livres à l’égard des sociétés de personnes.
+[41] Ibid., particulièrement aux pages 173 et 174. Une lettre envoyée à l’appelant le 15 mai 1992 confirme que Claridge Properties a traité ces montants à titre de prêts. Dans cette lettre, Claridge Properties demande le paiement du montant de 76 462 $US, qui, comme on l’a expliqué, représentait la part de l’appelant à l’égard d’un déficit accumulé depuis le début, moins certains apports en capital antérieurement effectués. Cette lettre se trouve à l’onglet 83 du cahier de documents de l’appelant (volume 3). Le montant de 76 462 $US semble correspondre à un montant identique inclus dans la colonne [traduction] « Apport en capital, déc. 96 » du tableau que Claridge Properties a dressé.
+[42] Pièce A-1, onglets 89 à 92.
+[43] Pièce R‑1, onglet 3, page 4; au paragraphe 11, un montant total plus élevé que celui qui est indiqué dans le tableau ci‑dessus est mentionné, mais il n’y a rien dans l’exposé préliminaire qui explique la différence. Ce total est semblable au total, dans la colonne [traduction] « Solde dû » du tableau, paragraphe 31; ce montant inclut peut‑être bien un montant au titre des intérêts.
+[44] Pièce R-1, onglet 39, point 3, et quatrième page, onglet 40.
+[45] Quatrième page, onglet 41, pièce R‑1. Le chiffre figurant dans ce tableau est exprimé en dollars canadiens (323 095 $.). M. Parsons a confirmé, à la page 181 de son interrogatoire principal du 6 novembre 2007, que ce montant correspondait au montant de 236 631 $US.
+[46] Interrogatoire principal de M. Andrew Parsons, 6 novembre 2007, page 179 (transcription datée par erreur du 7 novembre). Voir également le témoignage de l’appelant, question 394, de cette transcription.
+[47] Ibid., pages 179 à 183. Les intérêts dus sont indiqués aux pages 5, 6, 7 et 9, onglet 37, pièce R‑1. M. Parsons n’a pas pu expliquer pourquoi le montant des intérêts était demeuré le même entre 1992 et 1996; voir contre‑interrogatoire de M. Andrew Parsons, 6 novembre 2007, page 188. Voir également onglet 88, pièce R‑1.
+[48] Voir le calcul sommaire fourni par l’avocat de l’appelant, pièce A‑8.
+[49] Voir également la note de bas de page 52.
+[50] Interrogatoire principal de l’appelant, 5 novembre 2007, page 182.
+[51] Pièce R‑1, onglet 42, troisième page.
+[52] Des frais de gestion élevés ont été exigés des trois autres sociétés de personnes; voir pièce R‑1, onglet 42, troisième page. Je note que l’avocat de l’appelant n’a pas inclus ces autres frais dans son calcul sommaire, pièce A‑8. Les frais de gestion exigés des trois autres sociétés de personnes n’ont pas le même effet que les frais de gestion exigés de Livonia, et ce, pour deux types de raisons. (Il faut se rappeler que Livonia n’avait pas de pertes faisant partie du montant de 316 003 $US se rapportant à la « période de 1989 »).
+En premier lieu, en ce qui concerne les frais de 1989, ces montants ont été inclus dans le calcul des profits et des pertes des trois sociétés de personnes et ils entraient en ligne de compte dans le calcul des besoins en matière de financement des sociétés de personnes qui a abouti aux apports en capital effectués par Claridge Properties pour le compte de l’appelant et qui faisaient partie de la dette en résultant que l’appelant avait envers Claridge, selon cette dernière. La part de ces frais incombant à l’appelant était inférieure au montant de 316 003 $US réclamé par Claridge et que l’appelant ne devait pas, selon ce que j’ai déjà conclu. Ils ne peuvent donc pas réduire la dette non remboursée, parce qu’ils font partie du calcul du montant de 316 003 $US; accorder une déduction additionnelle, à l’égard de la dette, pour la part de ces frais incombant à l’appelant, serait compter ces montants en double. De plus, ces trois sociétés de personnes n’étaient pas rentables au cours de l’année ou au cours des années ultérieures et l’annulation de ces frais ne les aurait pas rendues rentables et n’aurait pas produit de revenu pour l’appelant. Il n’y a donc pas de contrepartie résultant de la quittance se rattachant à la réclamation des frais de gestion pour la période de 1989.
+En second lieu, en ce qui concerne les frais de gestion postérieurs à l’année 1989, puisque les sociétés de personnes n’étaient pas rentables, l’annulation des frais ne les aurait pas rendues rentables et n’aurait pas produit de revenu pour l’appelant. De plus, les frais postérieurs à l’année 1989 ont sans aucun doute été pris en compte dans le calcul des profits et des pertes des sociétés de personnes pour les années ultérieures et font partie du calcul qui a donné lieu au montant de 403 819 $US réclamé par Claridge dans la colonne [traduction] « Apport en capital, déc. 96 » dans le tableau reproduit au paragraphe 31. Puisque j’ai conclu que l’appelant n’était pas redevable du montant de 403 819 $US, les frais postérieurs à l’année 1989 ne peuvent pas réduire la dette non remboursée de l’appelant – la déduction des montants se rapportant aux frais de gestion postérieurs à l’année 1989 entraînerait un compte en double. Cela veut encore une fois dire que l’appelant n’a donné aucune contrepartie en conséquence.
+[53] Pièce R‑1, onglet 39. Toutefois, je note que les états financiers, onglets 40 et 41, ne montrent pas ce qui s’est passé.
+[54] En vertu de l’article 2236 du Code civil, seuls les commandités d’une société en commandite peuvent gérer la société de personnes.
+[55] Pièce A‑1, onglet 18, 26e page (intitulée [traduction] « Jack Richer, 1990, Southland Building Partners & Company, Limited, Calculs de la déduction des pertes de la société de personnes ») et 33e page (intitulée [traduction] « Jack Richer, 1990, Park Square Associates & Company, Limited, Calcul de la déduction des pertes de la société de personnes »).
+[56] Bien sûr, dans la mesure où j’ai conclu que l’appelant n’était pas redevable du montant de 316 003 $US, ce montant ne pouvait pas avoir été fourni pour le compte de l’appelant et n’aurait pas dû augmenter sa fraction à risques. Par conséquent, l’appelant a peut‑être bien déduit, au titre de la perte, des montants plus élevés que ceux qui auraient dû être déduits. Toutefois, cela s’est produit dans le passé et je ne suis pas saisi de la question.
+[57] Les montants s’élevant en tout à 403 819 $US sont des écritures comptables qui, avec d’autres écritures telles que les radiations effectuées dans la comptabilité reproduite au paragraphe 31, permettent à Claridge Properties de fermer ses livres à l’égard des quatre sociétés de personnes.
+[58] Le paragraphe 80(5) est en partie libellé comme suit :
+En cas de règlement d’une dette commerciale émise par un débiteur, la partie non appliquée restante du montant remis sur la dette au moment du règlement est appliquée, de manière indiquée par le débiteur dans le formulaire prescrit annexé à sa déclaration de revenu produite en vertu de la présente partie pour l’année d’imposition qui comprend ce moment, en réduction, immédiatement après ce moment, des montants suivants : [...]
+[Non souligné dans l’original.]
+[59] Un montant de 89 469 $CAN, ou un montant inférieur, et probablement un montant de 73 519 $CAN.
+[60] En pratique, le montant de la perte en capital nette qui peut être appliqué est si inférieur au montant de 171 798 $US qu’il se peut bien qu’il soit inutile de le calculer.
+[61] 84 DTC 6247 (C.F. 1re inst.), page 6256.
+[62] 95 DTC 200 (C.C.I.).
+[63] 2006 CAF 224, paragraphe 43.
+[64] Il faut également se rappeler que l’omission d’appliquer les dispositions relatives à la remise de dette est plutôt de nature différente, de l’omission d’inclure, disons, des loyers bruts dans le calcul d’un revenu de location.

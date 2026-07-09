@@ -1,0 +1,183 @@
+---
+title: "Birkland v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/24686/index.do"
+last_modified: "2005-04-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 291"
+citation2: ""
+neutral_citation: "2005 TCC 291"
+decision_date: "2005-04-25"
+language: "en"
+item_id: "24686"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2315
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:47:45.890000+00:00"
+cases_cited_count: 9
+cases_citing_count: 25
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0be0b693a514b117a19bc854add9f16bd30c06cadc9c157e3e180011f6652d72"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Birkland v. M.N.R.
+
+- Citation: 2005 TCC 291
+- Decision date: 2005-04-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2315, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Birkland v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-25
+Neutral citation
+2005 TCC 291
+File numbers
+2004-2683(EI)
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-2683(EI)
+BETWEEN:
+RICHARD BIRKLAND,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 25, 2005, at Sudbury, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Michael Ezri
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue on the appeal made to him under section 91 of that Act is confirmed.
+Signed at Ottawa, Canada, this 25th day of April, 2005.
+"E.A. Bowie"
+Bowie J.
+Citation: 2005TCC291
+Date: 20050425
+Docket: 2004-2683(EI)
+BETWEEN:
+RICHARD BIRKLAND,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] This appeal is brought from a decision of the Minister of National Revenue, by his delegate, dismissing the Appellant's appeal under section 91 of the Employment Insurance Act (the Act)[1] from a ruling made under section 90 of that Act whereby the Appellant's employment by Parallel Medical Services Limited (Parallel) during the period between January 19, 2002 and May 25, 2002 was found not to be insurable employment. That decision was based on paragraphs 5(2)(i) and 5(3)(b) of the Act. They read:
+5(2) Insurable employment does not include
+(a) ...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+5(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+It is not disputed that Mr. Birkland and Parallel are related; Mr. Birkland's mother owned all the shares of Parallel. What is attacked in this appeal is the Minister's decision that he was not satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it would have been reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[2] During the hearing before me there was some discussion as to the role of this Court in cases arising under paragraph 5(3)(b) of the Act. This question has been the subject of a number of decisions of the Federal Court of Appeal during the past decade or so. The earlier cases,[2] decided under paragraphs 3(1)(a) and 3(2)(c) of the Unemployment Insurance Act,[3] held that the Minister's opinion was insulated from appeal in this Court, unless it could be shown that in the course of forming that opinion he had committed what might be termed an administrative law error. As the words of subparagraph 3(2)(c)(ii) conferred a discretion on the Minister, this Court had no mandate to simply substitute its opinion for that of the Minister. However, if in the course of the hearing of an appeal the Appellant were able to show that the Minister had erred in law in forming his opinion, then this Court's function was to proceed to a de novo determination of the paragraph 3(2)(c)(ii) (now 5(3)(b)) question whether the terms of the employment contract could reasonably be considered to be those that arm's length parties would have arrived at. In other words, after finding that the Minister's decision was vitiated by an administrative law error, and only then, could this Court substitute its opinion for that of the Minister as to the paragraph 3(2)(c) question.
+[3] In 1999 the Federal Court of Appeal revisited the matter in Légaré v. Canada.[4] Marceau J.A., speaking for himself and Desjardins and Noël JJ.A., said there at paragraph 4:
+4 The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+That judgment has spawned some debate as to whether it represents a new point of departure in the jurisprudence, or simply a gloss on the law as established in the earlier cases. Support for the former view may be found in some decisions of the Federal Court of Appeal,[5] and for the latter view in some others.[6] Still others are consistent with either view.[7] My colleague Archambault J. has recently discussed the subject quite fully in Bélanger v. M.N.R.[8] I do not propose to add to that debate, except to point out that Marceau J.A. himself seems to have been of the view that Légaré had overruled the earlier cases when ten months later, in Pérusse, he wrote the following two paragraphs, concurred in by Décary J.A., who had delivered the judgment in Ferme Émile Richard:
+13 It is clear from reading the reasons for the decision that, for the presiding judge, the purpose of his hearing was to determine whether the Minister, in the well-known expression, had exercised "properly" the discretion conferred on him by the Act to "recognize the non-exception" of a contract between related persons. He therefore had to consider whether the decision was made in good faith, based on the relevant facts disclosed by a proper hearing, not under the influence of extraneous considerations. Accordingly, at the outset, at p. 2 of his reasons, the judge wrote:
+The determination at issue in the instant appeal results from the discretionary authority provided for by the provisions of s. 3(2)(c) of the Act, which reads as follows:
+. . . . .
+The appellant was required to discharge the burden of proof, on the balance of probabilities, that the respondent in assessing the matter had not observed the rules applicable to ministerial discretion, and if this could not be done this Court would not have no basis for intervening.
+And finally, his conclusion at p. 14:
+So far as the appeal is concerned, I cannot allow it as the appellant has not proven that the respondent exercised his discretion improperly.
+14 In fact, the judge was acting in the manner apparently prescribed by several previous decisions. However, in a recent judgment this Court undertook to reject that approach, and I take the liberty of citing what I then wrote in this connection in the reasons submitted for the Court.
+(emphasis added)
+Marceau J.A. then quoted paragraph 4 of his reasons for judgment in Légaré.
+[4] At this point it is sufficient simply to state my understanding of the present state of the law, which I derive principally from paragraph 4 of Légaré (reproduced above) and from the following passage from the judgment of Richard C.J., concurred in by Létourneau and Noël JJ.A., in Denis v. Canada.[9]
+5 The function of the Tax Court of Canada judge in an appeal from a determination by the Minister on the exclusion provisions contained in subsections 5(2) and (3) of the Act is to inquire into all the facts with the parties and the witnesses called for the first time to testify under oath, and to consider whether the Minister's conclusion still seems reasonable. However, the judge should not substitute his or her own opinion for that of the Minister when there are no new facts and there is no basis for thinking that the facts were misunderstood (see Pérusse v. Canada (Minister of National Revenue - M.N.R.), [2000] F.C.J. No. 310, March 10, 2000).
+This Court's role, as I understand it now, following these decisions, is to conduct a trial at which both parties may adduce evidence as to the terms upon which the Appellant was employed, evidence as to the terms upon which persons at arm's length doing similar work were employed by the same employer, and evidence relevant to the conditions of employment prevailing in the industry for the same kind of work at the same time and place. Of course, there may also be evidence as to the relationship between the Appellant and the employer.[10] In the light of all that evidence, and the judge's view of the credibility of the witnesses, this Court must then assess whether the Minister, if he had had the benefit of all that evidence, could reasonably have failed to conclude that the employer and a person acting at arm's length would have entered into a substantially similar contract of employment.[11] That, as I understand it, is the degree of judicial deference that Parliament's use of the expression "... if the Minister of National Revenue is satisfied ..." in paragraph 5(3)(b) accords to the Minister's opinion.[12]
+[5] With these considerations in mind I now turn to the evidence in this case. The assumptions of fact are found in paragraph 5 of the Reply to the Notice of Appeal. They are:
+(a) The Payor was a business involved in providing independent medical evaluations to the insurance industry, rehabilitation industry and to various private referrals;
+(b) The Payor's business ceased operation in July 2002;
+(c) The Payor had offices in Mississauga, North York, Oshawa, London, Sudbury and Guelph;
+(d) The sole shareholder of the Payor was Michelle Birkland;
+(e) Michelle Birkland is the Appellant's mother;
+(f) The Appellant was reportedly hired by the Payor and his duties included writing reports, fielding questions from referral sources, patients and doctors, reviewing reports and preparing addendums, and suggesting specialists required to provide opinions on injury;
+(g) The Appellant performed the services for a period of only 15 weeks, prior to the close of the Payor's business;
+(h) The Appellant performed the services for the Payor, from his personal residence which is located in Verner, Ontario, yet other employees performed their duties from the Payor's establishment;
+(i) Chantal Sands, who was the Payor's Office Manager, was unaware that the Appellant worked for the Payor;
+(j) The Appellant's Record of Employment for Employment Insurance purposes was signed by Michelle Birkland;
+(k) No T4 was issued to the Appellant by the Payor for the year 2002, to indicate the Appellant was in fact employed by the Payor and that deductions were remitted on behalf of the Appellant for Canada Pension Plan contributions, Employment Insurance premiums and for income taxes;
+(l) the Appellant is not dealing with the Payor at arm's length.
+[6] The last of these assumptions is, of course, a matter of law that flows from the relationship between the Appellant and his mother, who owns all the shares of Parallel. It should not have been pleaded as an assumed fact. The other assumptions are, for the most part, supported by the evidence given before me by the Appellant. His home, he said, was in Redbridge rather than Verner, and he took issue with the statement that the office manager did not know that he worked for Parallel. The former error is immaterial. Since there is no dispute that he did in fact work for Parallel, it is not really material whether the office manager knew that fact or not. Assumption (k) is clearly in error, as a copy of the T4 form was made an exhibit. Again it is not material, as there is no dispute about the fact of his employment, as opposed to the terms of it.
+[7] What is material for the purposes of this appeal is the terms of the employment of the Appellant by Parallel, and the terms upon which Parallel could have been expected to employ someone at arm's length to do the same job. Mr. Birkland testified that he worked from a home-based office almost all the time, and that he was paid $400.00 per week to do so. This salary, he said was fixed by his mother on a take it or leave it basis. He also said that it was less than two other employees in Toronto were paid for similar work. Towards the end of his evidence he said for the first time that he was going to college while working for Parallel. He did apparently work frequently in the evenings, and the nature of the work was such that much of it could be done at his convenience, so long as it got done within appropriate time limits. After a careful review of his evidence, and it was the only evidence before me other than the documents I have referred to and the record generated by the Minister's delegates, I can only conclude that there is no basis upon which I could determine with any certainty at all the terms upon which a stranger would have been engaged by Parallel to do the work that the Appellant did. The Appellant's bald assertion that the terms of his employment were arm's length terms, totally unsubstantiated as it was, simply does not suffice. It follows that there is no basis upon which I could conclude that the Minister would, or should, have decided the matter differently if he had had the benefit of the evidence given before me. I must therefore dismiss the appeal.
+Signed at Ottawa, Canada, this 25th day of April, 2005.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2005TCC291
+COURT FILE NO.:
+2004-2683(EI)
+STYLE OF CAUSE:
+Richard Birkland and
+The Minister of National Revenue
+PLACE OF HEARING:
+Sudbury, Ontario
+DATE OF HEARING:
+January 25, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+April 25, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Michael Ezri
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1996, c.23, as amended.
+[2]
+TignishAuto Parts Inc. v. M.N.R., (1994) 25 Admin L.R. (2d) 1 (F.C.A.); Ferme Emile Richard et Fils Inc. v. Canada, (1994) 178 N.R. 361 (F.C.A.); M.N.R. v. Jencan Ltd., [1998] 1 F.C. 187; Bayside Drive-In Ltd v. Canada(Minister of National Revenue), [1997] FCJ No. 1019.
+[3] R.S.C. 1985 c. U-1, as amended. These provisions do not differ materially from paragraphs 5(2)(i) and 5(3)(b) of the present Act.
+[4]
+[1999] F.C.J. No. 878.
+[5]
+Pérussev. Canada, [2000] F.C.J. No. 310; Valente v. Canada, 2003 F.C.A. 132; Massignaniv. Canada(Minister of National Revenue), 2003 FCA 172; and Denis v. Canada(Minister of National Revenue), 2004 FCA 26.
+[6]
+CandorEnterprises Ltd. v. Canada (Minister of National Revenue), 2000 CanLII 16690 (F.C.A.); Quigley Electric Ltd. v. Canada(Minister of National Revenue), 2003 FCA 461; Thébergev. Canada(Minister of National Revenue), 2002 FCA 123.
+[7]
+Gagnon v. Canada (Attorney General), 2001 FCA 292; Staltari v. Canada(Attorney General), 2003 FCA 448.
+[8] 2003 FCA 455.
+[9]
+Supra., at para. 5.
+[10] See paragraph 5(3)(a) of the Act and sections 251 and 252 of the Income Tax Act.
+[11] Some appeals are brought from the Minister's determination that the employee was engaged on arm's length terms, with a view to having the employment determined not to be insurable because the employer or the employee or both of them do not wish to participate in the employment insurance scheme. I will say nothing about such cases, as different considerations may apply to them: see C & B Woodcraft Ltd. v. Canada (Minister of National Revenue) 2004 TCC 477 at paragraphs 9 to 13; and Actech Electrical Limited v. M.N.R. 2004 TCC 572 at paragraph 17 where two different views of the statutory scheme have been expressed, both of them obiter dicta.
+[12] This formulation of the test does not deal with the possibility of a finding of bad faith or improper motive on the part of the Minister. This subject has not been addressed in the cases subsequent to Jencanand Bayside and is no doubt best left until such a case arises.

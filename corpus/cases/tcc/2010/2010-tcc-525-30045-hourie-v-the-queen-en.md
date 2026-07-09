@@ -1,0 +1,215 @@
+---
+title: "Hourie v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30045/index.do"
+last_modified: "2010-10-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 525"
+citation2: ""
+neutral_citation: "2010 TCC 525"
+decision_date: "2010-10-26"
+language: "en"
+item_id: "30045"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7703
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:55:13.942000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ccb073772c5c54e2c2b169d88583a367989c6b490e7b5a409a3cf6c0a3cb98e2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hourie v. The Queen
+
+- Citation: 2010 TCC 525
+- Decision date: 2010-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7703, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hourie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-26
+Neutral citation
+2010 TCC 525
+File numbers
+2009-291(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-291(IT)I
+BETWEEN:
+RAYMOND HOURIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on August 17, 2010, at Prince George, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2004 and 2005 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 26th day of October 2010.
+“L.M. Little”
+Little J.
+Citation: 2010 TCC 525
+Date: October 26, 2010
+Docket: 2009-291(IT)I
+BETWEEN:
+RAYMOND HOURIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant resides in the village of Sinclair Mills, British Columbia. Sinclair Mills is approximately 110 kilometres east of Prince George, B.C..
+[2] In the 2004 and 2005 taxation years, the Appellant was employed on a full‑time basis by Canadian Forest Products Ltd. in a sawmill located in Prince George, B.C..
+[3] The Appellant testified that in 2003, he decided that he would start a tourism activity business in the Sinclair Mills area. The Appellant decided to name his business as Wilderness Mountain Adventures (“Wilderness”).
+[4] The tourism activity that the Appellant wished to commence primarily included snowmobiling, i.e., the Appellant proposed to take passengers on a snowmobile for a fee. The Appellant testified that he was a recreational snowmobiler.
+[5] When the Appellant filed his Income Tax returns for the 2004 and 2005 taxation years, he claimed the following income and expenses:
+2004 Taxation Year
+REVENUE
+0.00
+EXPENSES:
+Loss due to theft
+246.97
+Advertising, communication
+Rent on RX1000 Snowmobile
+578.98
+3,408.00
+Research and Development
+1,815.26
+Maintenance & repairs (Welding for sled)
+50.00
+Supplies ($3,774.00 start-up + $6,064.66 (current)
+9,838.66
+Legal, accounting fees to spouse
+3,500.00
+Rent for shop
+1,487.30
+Training, Professional Development
+1,640.16
+Bank charges, interest
+180.00
+TOTAL EXPENSES CLAIMED
+$22,745.33
+NET BUSINESS LOSS CLAIMED
+$22,745.33
+2005 Taxation Year
+REVENUE
+0.00
+EXPENSES:
+Business tax, fees
+368.00
+Fuel
+6,084.53
+Insurance
+2,106.06
+Interest
+2,384.05
+Maintenance & repairs
+1,170.98
+Management & Administration fees to spouse
+3,500.00
+Supplies
+7,852.86
+Rent (on RX1000 Snowmobile)
+3,408.00
+Travel
+2,290.74
+Telephone, utilities
+1,387.97
+Bank charges, interest
+1,325.88
+TOTAL EXPENSES CLAIMED
+$31,879.07
+TOTAL BUSINESS LOSS CLAIMED
+$31,879.07
+[6] The Minister of National Revenue disallowed all of the losses claimed by the Appellant.
+B. ISSUE
+[7] The issue is whether the Appellant is entitled to deduct any of the amounts claimed as business expenses in the 2004 and 2005 taxation years.
+C. ANALYSIS AND DECISION
+[8] During the hearing, the following facts were established:
+a) The Appellant had no revenue from the operation of Wilderness in the 2004 and 2005 taxation years;
+b) The Appellant did not prepare a business plan in respect of the Wilderness business;
+c) The Appellant did not obtain a business licence for Wilderness;
+d) The Appellant did not obtain liability insurance in respect of the operation of Wilderness;
+e) The Appellant did not apply for or obtain the necessary business permits in respect of the operation of Wilderness;
+f) In the 2004 and 2005 taxation years, the Appellant did not own any land on which to operate the proposed business activity of Wilderness. (Note: The Appellant’s spouse later purchased land in Sinclair Mills and the Appellant later acquired an interest in this property.);
+g) No staff was hired and trained by the Appellant in connection with the proposed business activity of Wilderness;
+h) Wilderness did not have any clients in the 2004 and 2005 taxation years;
+i) The Appellant and his wife testified that the liability insurance for a snowmobile touring business had an “astronomical” cost. The Appellant said,
+For snowmobiles. It was just not feasible.
+(Transcript, page 50, lines 7 to 8);
+j) The Appellant said that he and his wife have now decided not to pursue their plans to develop a business based upon touring on snowmobiles, but to start a “Cat-Skiing” business. The Appellant said that a Cat-Skiing business was somewhat similar to “Heli‑Skiing”, however, in Cat-Skiing you use a Caterpillar-powered vehicle pulling a trailer with passengers, rather than a helicopter. He said that he proposes to purchase a Caterpillar vehicle or Bombardier at an auction and “… get a crummy off an old bus …” (Transcript, page 51, line 13). The Appellant said that the cost of the Cat‑Skiing equipment and the other equipment to carry skiers up the hill would be approximately $35,000. (Note: The word “crummy” is defined in the Canadian Oxford Dictionary as “an old or converted vehicle for transporting loggers from their camp to work”.);
+k) The Appellant said that the revenue available from a Cat-Skiing operation is $400 to $600 per person per day whereas the revenue from snowboarding is $75.00 a day (Transcript page 50, lines 22 to 25); and
+l) The Appellant said that on August 17, 2010, they applied for a loan from a Métis organization in order to obtain the funds required to purchase the Cat-Skiing equipment and develop the new business.
+[9] The Appellant maintains that his business commenced in 2003 when he and his family moved from the Pineview area of Prince George to Sinclair Mills. He said,
+… It took the shape of a business at that point. I consciously made a choice to make a business at that point. …
+(Transcript, page 48, lines 20 to 22)
+[10] Counsel for the Respondent said that, with respect to when a business had commenced, case law in this area has confirmed many times that a taxpayer has to have more then a subjective intention to form a business.
+[11] Counsel for the Respondent referred to Interpretation Bulletin IT 364, which is headed “Commencement of Business Operations”. IT 364 contains the following statements:
+For an amount to be deducted on the grounds that it was an expense incurred for the purpose of gaining or producing income from a business, the taxpayer must have been carrying on business in the fiscal period in which the expense was incurred. Therefore, where a taxpayer proposes to undertake a business and makes some initial expenditures with that purpose in mind, it is necessary to establish whether they preceded the commencement of the business or whether the business had in fact commenced and they were expenses incurred during preliminary steps leading to the start of normal operations. Consequently, the date when the business can be said to have commenced must be known.
+(Transcript, page 18, lines 7 to 22)
+It is not possible to be specific about the point in time when a contemplated business becomes an actual business. Generally speaking, it is the Department’s view that a business commences whenever some significant activity is undertaken that is a regular part of the income-earning process in that type of business or is an essential preliminary to normal operations.
+(Transcript, page 19, lines 2 to 10)
+In order that there be a finding that a business has commenced it is necessary that there be a fairly specific concept of the type of activity to be carried on and a sufficient organizational structure assembled to undertake at least the essential preliminaries.
+(Transcript, page 19, lines 18 to 23)
+[12] The evidence also indicates that from the 2003 taxation year to the 2008 taxation year, the Appellant incurred expenses totalling $94,000.00 and received zero dollars in revenue from the operation of the business or proposed business.
+[13] Counsel for the Respondent also referred to a number of Court decisions in support of his argument that the proposed business had not commenced. He referred to the Court decision in Gartry v. The Queen, 94 D.T.C. 1947, where Justice Bowman (later Chief Justice Bowman) made the following statement at page 1949:
+… Each case turns on its own facts, but where a taxpayer has taken significant and essential steps that are necessary to the carrying on of the business it is fair to conclude that the business has started. …
+[14] From my analysis of the above-quoted facts, I have concluded that the Appellant had not taken the significant and essential steps that are necessary to the carrying-on of the business.
+[15] I have therefore concluded that the Appellant had not commenced to operate the proposed business of Wilderness in the 2004 and 2005 taxation years. It therefore follows that the Appellant is not allowed to claim the losses that were claimed in determining his income for the 2004 and 2005 taxation years.
+[16] Before concluding my remarks, I wish to state that I was impressed with the evidence provided by the Appellant and his spouse. They are a dedicated and hard‑working couple who encountered personal and business problems in attempting to start the proposed business. I sincerely hope they will be successful in their new business activities.
+[17] The appeals are dismissed, without costs.
+Signed at Vancouver, British Columbia, this 26th day of October 2010.
+“L.M. Little”
+Little J.
+CITATION: 2010 TCC 525
+COURT FILE NO.: 2009-291(IT)I
+STYLE OF CAUSE: RAYMOND HOURIE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Prince George, British Columbia
+DATE OF HEARING: August 17, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: October 26, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

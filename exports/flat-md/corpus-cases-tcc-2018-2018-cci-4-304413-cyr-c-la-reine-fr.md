@@ -1,0 +1,236 @@
+---
+title: "Cyr c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/304413/index.do"
+last_modified: "2018-01-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 4"
+citation2: ""
+neutral_citation: "2018 CCI 4"
+decision_date: "2018-01-05"
+language: "fr"
+item_id: "304413"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7914
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:03:16.870000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8c0ff7b4b086ec95104894bdf0747e96eddd3781a2d59e9172c13408a0fbbea7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cyr c. La Reine
+
+- Citation: 2018 CCI 4
+- Decision date: 2018-01-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7914, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cyr c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-01-05
+Référence neutre
+2018 CCI 4
+Numéro de dossier
+2016-5215(IT)I, 2016-5217(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-5215(IT)I
+ENTRE :
+PASCAL CYR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel de
+Yann Cyr (2016-5217(IT)I)
+les 12 et 13 septembre 2017, à Québec (Québec).
+Devant : L’honorable juge Alain Tardif
+Comparutions :
+Représentant de l’appelant :
+Marcel Lachance
+Avocat de l’intimée :
+Me Julien Dubé-Senécal
+JUGEMENT
+L’appel des cotisations en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2010, 2011, 2012 et 2013 est rejeté. Quant aux pénalités, la preuve a démontré qu’elles étaient bien fondées d’où elles sont maintenues, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 5e jour de janvier 2018.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2016-5217(IT)I
+ENTRE :
+YANN CYR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel de
+Pascal Cyr (2016-5215(IT)I)
+les 12 et 13 septembre 2017, à Québec (Québec).
+Devant : L’honorable juge Alain Tardif
+Comparutions :
+Représentant de l’appelant :
+Marcel Lachance
+Avocat de l’intimée :
+Me Julien Dubé-Senécal
+JUGEMENT
+L’appel des cotisations en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2010, 2011, 2012 et 2013 est rejeté. Quant aux pénalités, la preuve a démontré qu’elles étaient bien fondées d’où elles sont maintenues, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 5e jour de janvier 2018.
+« Alain Tardif »
+Juge Tardif
+Référence : 2018 CCI 4
+Date : 20180105
+Dossier : 2016-5215(IT)I
+ENTRE :
+PASCAL CYR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2016-5217(IT)I
+ET ENTRE :
+YANN CYR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Les appels concernent les années d’imposition 2010, 2011, 2012 et 2013 des appelants. Les parties se sont entendues quant à la tenue d’une seule audition, la preuve devant être commune pour les deux dossiers.
+[2] Pour ce qui est de l’année d’imposition 2010, les nouvelles cotisations ont été émises après la période normale de trois ans; en outre, des pénalités ont été imposées aux appelants le tout en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »).
+[3] Pour la totalité de la période visée par les nouvelles cotisations, Pascal et Yann Cyr, les appelants, possédaient chacun 49 % des actions de la société « Les Toitures Cyr Inc. ». La vocation de l’entreprise était liée à la construction et à la rénovation d’immeubles.
+[4] Le 3 mars 2009, Pascal et Yann Cyr ont fait l’acquisition conjointe et à parts égales d’un immeuble situé au 765, rue de la Fresnière, à Québec. Pour ce faire, ils ont déboursé la somme de 155 000 $.
+[5] Selon leur témoignage, il était prévu que la société « Les Toitures Cyr Inc. » devait faire l’acquisition de l’immeuble en question. Toutefois, dans les faits, les appelants l’ont acheté personnellement. Dès l’acquisition, l’objectif était d’y apporter des réparations et des améliorations pour le revendre à profit dans les meilleurs délais.
+[6] Pour financer l’acquisition, la Caisse populaire des Rivières Chaudières et Etchemin leur a consenti un prêt personnel de 155 000 $, soit le plein montant requis pour l’acquisition. Les appelants ont alors ouvert un compte bancaire conjoint à la même institution.
+[7] Pascal Cyr a expliqué qu’ils avaient dû procéder ainsi parce que la Caisse populaire ne voulait pas consentir un tel prêt à leur société. Il semble que la caution personnelle n’ait pas été envisagée. Les appelants devaient pourtant avoir une excellente crédibilité financière puisqu’ils ont obtenu un prêt pour la totalité du prix d’acquisition.
+[8] À la suite de l’acquisition, les appelants ont effectué des rénovations pour un montant de 17 850 $. La totalité du montant investi pour les travaux a été assumée par leur société; en d’autres termes, la société a payé la totalité des montants déboursés pour faire les rénovations de l’immeuble qu’ils avaient acquis à titre personnel.
+[9] Après avoir complété les travaux, les appelants ont vendu l’immeuble le 26 avril 2010 soit un peu plus d’un an après l’acquisition pour une considération de 260 000 $ réalisant ainsi un bon profit.
+[10] De ce montant, ils ont déposé 247 136,37 $ dans leur compte conjoint au moyen de deux dépôts, le premier le 28 avril 2010 au montant de 96 962,20 $ et un deuxième au montant de 150 174,17 $ le 29 avril 2010.
+[11] La vente de l’immeuble a permis aux appelants de réaliser conjointement un profit de 92 136,37 $ (247 136,37 $ - 155 000 $) soit 46 068 $ chacun.
+[12] Ni la société ni les appelants n’ont déclaré ces revenus découlant du profit réalisé dans leurs déclarations de revenus. En 2010, Pascal Cyr et Yann Cyr ont déclaré respectivement un revenu total de 27 886 $ et de 29 439 $ ne tenant ainsi pas compte du profit réalisé lors de la vente de l’immeuble sur la rue de la Fresnière.
+[13] Entre le 29 avril 2010 et le 22 juin 2010, les appelants ont fait plusieurs retraits du compte conjoint, soit un montant total de 91 698 $ :
+• Le 29 avril 2010, un montant de 2 000 $ a été transféré au compte personnel de Yann Cyr.
+• Le 4 mai 2010, une avance de 30 000 $ tirée du compte conjoint a été versée à la société par chèque. Ce montant a été inscrit comme une avance de 15 000 $ au compte de chacun des appelants dans les livres de la société.
+• Le 7 mai 2010, un montant de 9 198 $ a été viré du compte conjoint au compte personnel de Pascal Cyr.
+• Le 21 mai 2010, un montant de 15 000 $ tiré du compte conjoint a été payé à Yann Cyr par chèque.
+• Le 21 mai 2010, un montant de 15 000 $ tiré du compte conjoint a été payé à Gestion Normand Gouin Inc. par chèque. Ce paiement constituait un acompte sur le prix d’achat d’un terrain acheté par la société. Ce montant a été inscrit comme une avance au compte des appelants dans les livres de la société.
+• Le 9 juin 2010, un montant de 13 000 $ a été payé à Stéphane Laroche par chèque visé pour l’achat d’un « Fifth Wheel » au nom de Pascal Cyr. Ce montant a été tiré du compte conjoint.
+• Le 22 juin 2010, un montant de 7 500 $ tiré du compte conjoint a été payé à Marc Bertrand par chèque pour l’achat d’un bateau au nom de Yann Cyr.
+Pascal Cyr [14] En 2011, en 2012 et en 2013, Pascal Cyr était propriétaire d’une Ford Focus 2011 et d’une Kia Sedona 2002. La conjointe de Pascal Cyr ne possédait aucun véhicule durant cette période. Pascal Cyr était aussi propriétaire de deux véhicules récréatifs, soit un « Fifth Wheel » et un VTT; par contre, il ne pouvait pas utiliser sa Ford Focus 2011 ou sa Kia Sedona 2002 pour déplacer ses véhicules récréatifs notamment le Fifth Wheel.
+[15] Durant les 95 premiers jours de l’année 2011, la société mettait à la disposition de Pascal Cyr un Ford F-350 2006 d’une valeur de 41 000 $. Durant les 270 derniers jours de l’année 2011, en 2012 et en 2013, la société mettait à la disposition de Pascal Cyr un camion GMC Sierra 2011 d’une valeur de 73 173 $.
+[16] Le Ford F‑350 2006 et le GMC Sierra 2011 ont parcouru au total 58 000 km en 2011. Le GMC Sierra 2011 a parcouru au total 54 500 km en 2012 et 56 000 km en 2013.
+[17] Pascal Cyr a utilisé le Ford F‑350 2006 et le GMC Sierra 2011 mis à sa disposition par la société à des fins personnelles, notamment pour visiter sa famille en Gaspésie et pour transporter son « Fifth Wheel » et son VTT. Pascal Cyr ne tenait pas de registre de déplacements pour les véhicules mis à sa disposition par la société et n’a déclaré aucun avantage automobile dans ses déclarations de revenus pour les années d’imposition 2011, 2012 et 2013. Pour justifier ses prétentions, il a indiqué avoir de la famille et une entreprise en Gaspésie.
+Yann Cyr [18] En 2011, en 2012 et en 2013, Yann Cyr ne possédait aucun véhicule personnel. Sa conjointe possédait une Toyota Corolla 2010 durant cette période. Yann Cyr était aussi propriétaire d’un véhicule récréatif, soit un bateau, qu’il entreposait en Gaspésie.
+[19] En 2011, en 2012 et en 2013, la société mettait à la disposition de Yann Cyr un Ford F‑250 2011. Le véhicule était loué par la société et les paiements mensuels de location étaient de 1 446,15 $ (17 354 $ annuellement).
+[20] Le Ford F-250 2011 a parcouru au total 32 500 km en 2011, 60 700 km en 2012 et 48 500 km en 2013.
+[21] Yann Cyr a utilisé le Ford F‑250 2011 mis à sa disposition par la société à des fins personnelles, notamment pour visiter sa famille en Gaspésie et pour transporter son bateau. Yann Cyr ne tenait pas de registre de déplacements pour le véhicule mis à sa disposition par la société et n’a déclaré aucun avantage automobile dans ses déclarations de revenus pour les années d’imposition 2011, 2012 et 2013.
+Année d’imposition 2010 [22] Le ministre avait-il raison d’ajouter aux revenus de chacun des appelants un revenu d’entreprise de 46 068 $ suite à la vente de l’immeuble qu’ils ont réparé et amélioré?
+[23] Les appelants ont acheté et vendu l’immeuble en leur nom propre; les profits de la vente ont été déposés dans leur compte conjoint. Les appelants ont utilisé ces profits à des fins personnelles, notamment pour s’acheter des véhicules récréatifs, soit un bateau et un « Fifth Wheel ».
+[24] Les seules sommes versées à la société ont été inscrites à titre d’avances pour le bénéfice des appelants dans les livres de la société, le tout ayant pour effet que les appelants pourraient éventuellement se faire rembourser lesdites sommes par la société, libres d’impôts.
+[25] En l’espèce, quant au principal des cotisations dont il est fait appel, le fardeau de la preuve incombait aux appelants et, pour ce qui est des pénalités et de la prescription, le fardeau de la preuve incombait à l’intimée.
+[26] Au soutien de la preuve qu’ils ont soumise, les appelants ont admis le contenu de la presque totalité des documents pertinents s’empressant toutefois d’ajouter qu’ils ne peuvent être interprétés selon leur contenu mais à partir de leur réelle intention, à savoir que l’achat et la vente de l’immeuble auraient dû se faire par le biais de la société et non à titre personnel.
+[27] Selon leurs prétentions, les appelants soutiennent que les cotisations auraient dû être établies à partir de leur intention plutôt qu’à partir des faits véritables ajoutant qu’ils n’avaient pas eu le temps d’apporter les correctifs requis à leurs déclarations de revenus pour les années en cause.
+[28] Selon eux, la responsabilité totale de ce qu’ils ont qualifié d’une erreur découle essentiellement de la négligence et de l’incompétence des mandataires à qui ils avaient confié la gestion de leur comptabilité. Les appelants ont affirmé qu’il n’y avait aucune équivoque à cet égard au niveau de leurs instructions à la personne responsable de leur comptabilité.
+[29] Très critiques et excessivement sévères à l’endroit de celle et de celui qui s’occupaient de leur comptabilité, ils ont insisté, répété qu’ils n’avaient pas à subir les conséquences de cette incompétence et négligence ajoutant avoir toujours été collaborateurs, de bonne foi et vigilants dans la gestion de leurs affaires. Les appelants ont soutenu que leurs mandataires avaient totalement ignoré leurs directives. Ils ont beaucoup insisté sur leur incompétence et incurie dans la gestion comptable de leur dossier.
+[30] Dans les faits, la preuve a effectivement démontré que les données comptables de la société étaient un véritable fouillis administratif. De plus, il s’est avéré que les personnes qui s’occupaient de la comptabilité ont refusé de collaborer lors de la vérification et plus spécifiquement lors d’une vérification effectuée par Revenu Québec au niveau de la taxe sur les produits et services (« TPS ») et de la taxe de vente du Québec (« TVQ »).
+[31] Chose très étonnante cependant, ils n’ont pas fait témoigner les personnes en question, ce qui aurait permis au tribunal de faire sa propre évaluation de la situation quant à la nature du mandat confié et à leurs directives. Il eut été très intéressant de comparer la version des appelants à celle des responsables de la gestion de leur comptabilité.
+[32] Pascal Cyr a témoigné; son témoignage a permis de constater qu’il est une personne articulée en mesure de s’exprimer d’une manière claire, voire nuancée; en d’autres termes, il s’agit d’une personne que l’on peut qualifier d’« allumée » en mesure de comprendre, d’analyser, d’évaluer les conséquences fiscales de ses faits et gestes dans la gestion de ses affaires tant personnelles que professionnelles. Il n’y a aucun doute que les appelants connaissaient très bien les conséquences importantes de ce qu’ils ont, de toute évidence, choisi de faire.
+[33] Les appelants ont beaucoup investi dans toutes sortes d’initiatives visant à démontrer la négligence, l’intolérance, voire l’incompétence des vérificateurs responsables de leur dossier.
+[34] Selon la preuve, il y a lieu de s’interroger si la confusion n’était pas une avenue voulue, voire recherchée par les appelants. Ceux‑ci ont soutenu qu’ils avaient dû faire l’acquisition de l’immeuble, qui a dégagé un important profit en quelques mois, à titre personnel puisque l’institution financière avait refusé de consentir un prêt hypothécaire à la société qu’ils contrôlaient. Ils ont donc pris la décision d’en faire l’acquisition à parts égales à titre personnel. Encore là, aucun représentant de l’institution financière n’est venu témoigner.
+[35] À cet effet, ils ont produit une lettre de l’institution financière; il aurait été pertinent de questionner le signataire de la lettre pour savoir si le supposé refus aurait pu être évité par le biais d’une caution personnelle.
+[36] Une simple lettre n’est certainement pas un élément de preuve déterminant surtout si le signataire ne fait pas face à un contre‑interrogatoire. L’explication est d’autant plus douteuse que l’institution a consenti un prêt couvrant la totalité du prix payé pour l’acquisition de l’immeuble, certifiant ainsi l’excellente crédibilité financière des appelants.
+[37] Si les appelants avaient réellement voulu que leur société fasse l’acquisition de l’immeuble qui a généré un profit important, pourquoi n’ont-ils pas déposé le profit dans la comptabilité de ladite société, d’autant plus que la société en question a assumé les dépenses importantes pour des réparations et l’amélioration de l’immeuble?
+[38] Lesdites dépenses ont été imputées aux opérations de leur société réduisant ainsi le fardeau fiscal de la société. Tout en augmentant le profit personnel réalisé lors de la disposition de l’immeuble, non seulement le profit n’a pas été attribué à la société, mais il a été déposé dans le compte conjoint personnel des appelants qui l’ont utilisé en grande partie pour l’acquisition de biens essentiellement personnels.
+[39] Pour ce qui est de la qualification du profit réalisé, il n’y a aucun doute qu’il s’agissait d’un revenu d’entreprise. Tous les faits valident les critères requis et y satisfont pleinement pour être qualifiés de « revenu d’entreprise ». L’intimée a donc, à bon droit, ajouté le profit réalisé à chacun des appelants personnellement; il s’agit là de la seule conclusion possible à partir des faits établis par la preuve. En effet, la planification, la réalisation et la disposition s’inscrivaient avec l’objectif de faire un profit personnel; l’intention était sans équivoque.
+[40] Quant aux autres composantes des cotisations, elles sont constituées par l’attribution d’avantages découlant de l’usage ou de l’utilisation d’un véhicule moteur pour chacun des appelants à des fins personnelles.
+[41] À cet effet, les appelants ont soutenu que l’usage personnel était tout à fait marginal, soit environ 2 500 km par année, un peu plus qu’un seul voyage en Gaspésie par année.
+[42] Les prétentions des appelants reposent essentiellement sur leur parole qu’ils ont tenté de valider par des spéculations et des hypothèses théoriques dont certaines sont farfelues. Il aurait été simple, facile et fiable s’ils avaient utilisé un registre spécial pour cette seule fin, le tout d’ailleurs conformément aux dispositions de la Loi en cette matière.
+[43] La tenue d’un registre est un exercice simple ne requérant aucune connaissance particulière, n’exigeant pas ou très peu d’énergie mais fiable, convainquant et facile d’appréciation.
+[44] Je n’ai aucun doute que l’absence de tels registres était volontaire, décision sans doute motivée par la possibilité de pouvoir éventuellement minimiser l’utilisation à des fins strictement personnelles.
+[45] Dans l’hypothèse de l’utilisation commune d’un véhicule par une société et son ou ses dirigeants, il est possible que cela génère un avantage personnel important d’où il est normal et légitime d’établir une norme permettant de faire clairement et d’une manière fiable la distinction entre le commercial et le personnel d’autant plus qu’il peut y avoir une tentation forte à attribuer l’usage personnel aux opérations commerciales.
+[46] Au Canada, la responsabilité fiscale repose sur l’autocotisation. L’autocotisation repose sur la confiance à l’endroit de la population tant humaine que corporative de la part de l’État.
+[47] En contrepartie, toute personne physique ou morale doit produire annuellement une déclaration relative à ses revenus et à ses dépenses validée par la documentation pertinente pour permettre une vérification selon les règles de l’art.
+[48] En matière d’utilisation d’un véhicule commercial qui est aussi utilisé à des fins personnelles, la norme minimale et essentielle est l’assistance d’un registre où les données colligées sont claires et non équivoques.
+[49] À défaut de reddition de compte annuelle adéquate correctement validée par les documents utiles et pertinents, la vérification pourra s’effectuer par le biais d’une méthode imprécise, spéculative, voire arbitraire. Les personnes visées par une telle cotisation qu’elles n’acceptent pas voudront faire le procès des vérificateurs pour faire ressortir les faiblesses de l’exercice croyant ainsi marquer des points et discréditer la validité de la cotisation.
+[50] Le fardeau de la preuve incombe à l’appelant d’une cotisation et non au vérificateur.
+[51] Relever le fardeau de la preuve signifie certes de disqualifier la qualité de la démarche ou de l’exercice ayant conduit à la cotisation contestée mais cette seule démarche ne suffit pas pour discréditer le bien‑fondé de la cotisation à l’origine de l’appel.
+[52] Il est tout à fait essentiel d’établir d’une manière prépondérante le bien‑fondé de ses prétentions, en démontrant les faiblesses à l’origine de la cotisation; il est toutefois requis d’établir par le biais d’une preuve prépondérante cohérente, raisonnable, fiable et crédible que la véritable cotisation aurait dû être différente.
+[53] Quant à l’utilisation de véhicules, les appelants ont soumis une preuve tout à fait déraisonnable, arbitraire et totalement invraisemblable.
+[54] Ils ont notamment soutenu qu’il s’agissait de véhicules surdimensionnés, peu pratiques, peu agréables du fait de devoir constamment composer avec des contraintes telles la largeur et la longueur des espaces de stationnement dans les endroits publics. Or, de tels véhicules sont très confortables, souvent très luxueux, pratiques et fort agréables pour les déplacements personnels et surtout très sécuritaires pour une famille.
+[55] Il eut été plus sage, plus raisonnable et surtout plus crédible d’évaluer le kilométrage personnel d’une façon réaliste; en chiffrant un tel kilométrage à un total ridicule (2 500 km/an) non validé par un registre, ils ont eux‑mêmes discrédité leurs prétentions d’où le tribunal se doit de valider et de retenir l’évaluation de l’intimée qui, dans les circonstances, est raisonnable et crédible.
+[56] Les appelants ont beaucoup insisté sur le fait que l’intimée pouvait et aurait dû procéder avant étant donné qu’elle avait toute l’information requise pour ce faire. Cet argument n’est pas recevable d’autant plus que la preuve a établi clairement que l’intimée avait procédé correctement. L’intimée peut et pouvait établir en tout temps les cotisations en question en démontrant la présence d’une faute et négligence.
+[57] À cet égard, l’intimée a relevé le fardeau de la preuve requis en démontrant que les appelants ont mis en place une stratégie pour se soustraire à leur obligation fiscale. Ils ont tenté de discréditer la thèse de l’intimée en affirmant avec ardeur que les erreurs et la négligence devaient être imputées à des personnes incompétentes, négligentes et irresponsables.
+[58] Pour ce qui est du fardeau de la preuve requis pour les pénalités, l’intimée a aussi relevé le fardeau de la preuve particulier en démontrant que les appelants ont commis une faute lourde et grave en acceptant et en tolérant des irrégularités grossières. D’ailleurs plusieurs éléments de la preuve permettent de croire que l’initiative ou la passivité de leurs comptables émanaient de leur propre volonté.
+[59] La preuve permet de conclure que ces personnes agissaient, de toute évidence, selon leurs instructions; chose certaine, les appelants ont accepté et consenti tout au moins tacitement à la stratégie qui a d’ailleurs eu pour effet de réduire substantiellement leur fardeau fiscal.
+[60] La preuve documentaire dont la majeure partie du contenu a été admise par les appelants est déterminante, voire catastrophique pour la thèse soutenue par ces derniers. Globalement, ils contredisent des écrits valablement faits; ils se définissent comme étant des personnes sans reproche et attribuent la responsabilité totale à leurs comptables ou vérificateurs.
+[61] Or, les écrits constituant la preuve documentaire démontrent d’une part le contraire et, d’autre part, certains faits valident la position de l’intimée; je fais notamment référence aux achats essentiellement personnels avec le produit de la vente de l’immeuble qui a généré le profit.
+[62] Bien que les appelants auraient facilement pu modifier ou corriger les supposées erreurs, ils n’ont strictement rien fait.
+[63] La prépondérance de la preuve pointe fortement dans la direction que les faits tenus pour acquis par l’intimée sont ceux mis en place par les appelants. Le scénario de l’erreur se veut une explication pour éviter les pénalités et l’établissement de cotisations après la période de trois ans.
+[64] Quant à l’autre volet des cotisations, à savoir les avantages imposables émanant de l’usage d’un véhicule moteur à des fins personnelles, la prépondérance de la preuve milite très fortement en faveur de la thèse de l’intimée; en effet, à défaut d’un registre fiable et crédible, l’intimée a pris en compte les dispositions de la Loi à partir des faits.
+[65] Il m’est apparu manifeste que les faits véritables à l’origine des avis de cotisation ne sont pas le résultat de l’ignorance, de l’incompétence ou de l’incurie. Si tel avait été le cas, le tout était à ce point évident et grossier que les appelants avaient et devaient corriger le tir; ils avaient les connaissances, le temps et les ressources pour ce faire; ou ils sont eux‑mêmes à l’origine des faits, ou ils ont validé le travail comptable de leurs mandataires. Dans les deux hypothèses, ils sont totalement, personnellement responsables des fautes lourdes commises.
+[66] Il arrive à l’occasion qu’un manquement, qu’une erreur puisse passer sous le radar de la rectitude particulièrement s’il s’agit de détails anodins ayant peu d’effets sur une éventuelle cotisation. Par contre, en présence d’éléments significatifs quant à l’importance du fardeau fiscal, il en est tout autrement.
+[67] En l’espèce, le fait de facturer à la société les dépenses de rénovations à l’immeuble acquis personnellement avait pour effet de réduire le fardeau fiscal de ladite société; d’autre part, il pouvait s’avérer profitable de faire l’acquisition de l’immeuble à titre personnel notamment quant au traitement de la transaction.
+[68] Il ne s’agissait pas d’un geste isolé anodin; il s’agissait plutôt de multiples opérations effectuées sur une longue période qui auraient normalement dû permettre aux appelants d’apporter le ou les correctifs pour se conformer à ce qu’ils ont qualifié de leur réelle intention, à savoir que l’achat et la vente de l’immeuble auraient dû se faire par leur société.
+[69] Je ne retiens pas la version des appelants parce qu’elle n’est ni crédible, ni raisonnable d’autant plus qu’aucun fait valable et crédible n’appuie leur thèse.
+[70] Globalement, les appelants voudraient que le tribunal retienne leur version sous prétexte de leur bonne foi et qu’il rejette et blâme tous les intervenants à leur dossier, et ce, tant au niveau du travail des vérificateurs de l’intimée que de leurs mandataires qui avaient la responsabilité de leur dossier.
+[71] La preuve soumise est incomplète et totalement déficiente d’une part et, d’autre part, elle contredit des écrits valablement faits et signés par les appelants. Les cotisations ont été correctement établies à partir de ce qui a été fait et non à partir de ce qu’ils auraient voulu une fois la vérification commencée et bien engagée.
+[72] Les appelants ont délibérément participé à une stratégie audacieuse et totalement inacceptable dont l’unique objectif était de réduire d’une manière abusive et malveillante tout leur fardeau fiscal personnel autant que celui de la société. Il est tout à fait improbable qu’une ou des personnes offrant des services pour la tenue de livres comptables aient pu faire des erreurs aussi grossières et flagrantes. Il ne s’agissait pas de choses anodines et isolées dans le temps; au contraire, il s’agissait d’une planification malveillante dont l’unique but était d’en tirer des bénéfices importants qui n’ont pas fait l’objet d’entrées tant au niveau personnel qu’au niveau de la société dont ils avaient la responsabilité.
+[73] Pour ce qui est du moment choisi pour établir les cotisations, les appelants avaient la responsabilité d’agir d’une manière proactive plutôt que de miser sur l’écoulement du temps et l’aberrante confusion; ils ont eux‑mêmes toléré, voire encouragé, l’équivoque croyant sans doute qu’ils pourraient éventuellement tout mettre sur le dos de leurs mandataires responsables de la gestion comptable de leur dossier respectif. Si l’on suit le raisonnement des appelants, tous les intervenants sont incompétents et eux seuls sont corrects, de bonne foi et sans reproche.
+[74] Finalement, je rappelle que les appelants sont des personnes avisées et, contrairement à leurs prétentions, ils ont des connaissances suffisantes pour savoir et comprendre les conséquences fiscales de leurs faits et gestes; de plus, les montants en cause sont importants au point qu’ils permettent de conclure à un véritable aveuglement volontaire.
+[75] Leur façon de faire était simpliste et leur conférait des avantages fiscaux significatifs. Les appelants se sont repliés derrière ce qu’ils ont qualifié de comptables irresponsables et incompétents. Ce sont là des accusations graves et non prouvées qui justifient la gravité de la négligence des appelants pour se voir imposer les pénalités prévues par la Loi.
+[76] Pour toutes ces raisons, les appels dans les dossiers de Pascal Cyr, 2016‑5215(IT)I, et de Yann Cyr, 2016-5217(IT)I, sont rejetés. Quant aux pénalités, la preuve a démontré qu’elles étaient bien fondées d’où elles sont maintenues.
+Signé à Ottawa, Canada, ce 5e jour de janvier 2018.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2018 CCI 4
+Nos DES DOSSIERS DE LA COUR :
+2016-5215(IT)I
+2016-5217(IT)I
+INTITULÉS DES CAUSES :
+PASCAL CYR et YANN CYR c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATES DE L’AUDIENCE :
+Les 12 et 13 septembre 2017
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Alain Tardif
+DATE DU JUGEMENT :
+Le 5 janvier 2018
+COMPARUTIONS :
+Représentant des appelants :
+Marcel Lachance
+Avocat de l’intimée :
+Me Julien Dubé-Senécal
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

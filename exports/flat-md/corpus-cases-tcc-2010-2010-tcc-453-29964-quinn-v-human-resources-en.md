@@ -1,0 +1,190 @@
+---
+title: "Quinn v. Human Resources"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29964/index.do"
+last_modified: "2010-08-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 453"
+citation2: ""
+neutral_citation: "2010 TCC 453"
+decision_date: "2010-08-30"
+language: "en"
+item_id: "29964"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6449
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:03:29.218000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c87931d42edbcfaef744c93cad919c98e0b70229180b2a1a9941f039934842c4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Quinn v. Human Resources
+
+- Citation: 2010 TCC 453
+- Decision date: 2010-08-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6449, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Quinn v. Human Resources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-08-30
+Neutral citation
+2010 TCC 453
+File numbers
+2009-1261(OAS)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Old Age Security Act
+Decision Content
+Docket: 2009-1261(OAS)
+BETWEEN:
+CHARLES D. QUINN,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES
+AND SOCIAL DEVELOPMENT,
+Respondent,
+and
+MARILYNE C. QUINN,
+Other Party.
+____________________________________________________________________
+Reference heard on August 18, 2010 at Grande Prairie, Alberta
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Scott England
+Agent for the Other Party:
+Charles D. Quinn
+____________________________________________________________________
+JUDGMENT
+With respect to a reference to this Court under the Old Age Security Act, for the purposes of calculating the guaranteed income supplement payable to the appellant for the period from July 2007 to June 2008, it is determined that the income of the appellant should be determined based on the 2007 calendar year.
+The appeal is accordingly allowed. All parties shall bear their own costs.
+The Registry is directed to change the style of cause to include Marilyne C. Quinn as a party.
+Signed at Ottawa, Canada this 30th day of August 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 453
+Date: 20100830
+Docket: 2009-1261(OAS)
+BETWEEN:
+CHARLES D. QUINN,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES
+AND SOCIAL DEVELOPMENT,
+Respondent,
+and
+MARILYNE C. QUINN,
+Other Party.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Charles D. Quinn, appealed to a Review Tribunal under the Old Age Security Act (the “OAS Act”) regarding a decision in respect of his entitlement to a guaranteed income supplement (GIS). The period at issue is from July 2007 to June 2008 (the “Payment Period”).
+[2] The GIS is intended to provide additional financial assistance to old age security pension recipients with modest incomes. Income earned by applicants and their spouses reduces the amount of this monthly benefit.
+[3] Under subsection 28(2) of the OAS Act, the Review Tribunal is required to refer questions of income and sources of income to the Tax Court. A reference to this Court was made relating to Mr. Quinn’s appeal. The Review Tribunal informed the Court that the appeal related to a decision as to the income from a particular source, and that the appeal was being referred for decision on that ground.
+[4] The Review Tribunal’s letter to the Court also requested that the appellant’s spouse, Marilyne C. Quinn, be added as a party to the appeal. The parties were not aware of this request but Mrs. Quinn was present in the courtroom and was brought in as a party on mutual consent. Mrs. Quinn indicated that she wished her husband to act for her at the hearing.
+[5] The essential question for consideration is whether, in determining the GIS for Mr. Quinn, his income should be determined for the 2006 calendar year, as submitted by the respondent, or for the 2007 calendar year, as submitted by Mr. Quinn. I was informed that the aggregate amount at issue for the appellant and his spouse is approximately $3,000.
+Legislative scheme
+[6] Under the GIS legislative scheme, income is generally determined in accordance with the Income Tax Act based on the income for the calendar year immediately prior to the commencement of the relevant payment period. This is referred to in the legislation as the “base calendar year.” In this case, the Payment Period is from July 2007 to June 2008. Accordingly, the base calendar year is 2006.
+[7] In circumstances where income is expected to drop as a result of a loss of a source of income, relieving provisions are available. These provisions enable the benefit to be based on income for a later calendar year.
+[8] The relevant provisions are subsections 14(1),(2),(3),(5),(7) and section 18 of the OAS Act. During the Payment Period, these provisions read:
+Statement of income to be made
+14(1) Every person by whom an application for a supplement in respect of a current payment period is made shall, in the application, make a statement of the person’s income for the base calendar year.
+Additional statement where retirement in current payment period
+14(2) Where in a current payment period a person who is an applicant, or who is an applicant’s spouse or common-law partner who has filed a statement as described in paragraph 15(2)(a), ceases to hold an office or employment or ceases to carry on a business, that person may, not later than the end of the payment period immediately after the current payment period, in addition to making the statement of income required by subsection (1) in the case of the applicant or in addition to filing a statement as described in paragraph 15(2)(a) in the case of the applicant’s spouse or common-law partner, file a statement of the person’s estimated income, other than the estimated income from that office or employment or from that business, as the case may be, for the calendar year in which the person ceased to hold that office or employment or ceased to carry on that business, in which case the person’s income for the base calendar year shall be calculated as the total of
+(a) the person’s income for that calendar year, calculated as though the person had no income from that office or employment or from that business, as the case may be, and no pension income for that calendar year, and
+(b) any pension income received by the person in that part of that calendar year that is after the month in which the person ceased to hold that office or employment or ceased to carry on that business, divided by the number of months in that part of that calendar year and multiplied by 12.
+Additional statement where retirement in the last month of the calendar year that is in the current payment period
+14(3) Despite subsection (2), where in the last month of a calendar year that ends in the current payment period a person who is an applicant, or who is an applicant’s spouse or common-law partner who has filed a statement as described in paragraph 15(2)(a), ceases to hold an office or employment or ceases to carry on a business, the person may, not later than the end of the payment period immediately after the current payment period, in addition to making the statement of income required by subsection (1) in the case of the applicant or in addition to filing a statement as described in paragraph 15(2)(a) in the case of the applicant’s spouse or common-law partner, file a statement of the person’s estimated income for the calendar year immediately after the month in which the person ceased to hold that office or employment or ceased to carry on that business, in which case the person’s income for that calendar year is deemed to be the person’s income for the base calendar year.
+Additional statement where retirement before current payment period
+14(5) Where, in the circumstances described in paragraphs (a) and (b), a person who is an applicant, or who is an applicant’s spouse or common-law partner who has filed a statement as described in paragraph 15(2)(a), ceases to hold an office or employment or ceases to carry on a business, the person may, not later than the end of the current payment period, in addition to making the statement of income required by subsection (1) in the case of the applicant or in addition to filing a statement as described in paragraph 15(2)(a) in the case of the applicant’s spouse or common-law partner,
+(a) where the person ceases to hold that office or employment or to carry on that business in the last calendar year ending before the payment period, file a statement of the person’s estimated income for the calendar year ending in the current payment period, in which case the person’s income for that calendar year is deemed to be the person’s income for the base calendar year; and
+(b) where the person ceases to hold that office or employment or to carry on that business in a month that is before the payment period and after the last calendar year ending before the payment period, file a statement of the person’s estimated income for the calendar year ending in the current payment period showing also any income actually received by the person in that calendar year from that office or employment or from that business, as the case may be, in which case the person’s income for the base calendar year shall be calculated as the total of
+(i) the person’s income for that calendar year, calculated as though the person had no income from that office or employment or from that business, as the case may be, and no pension income for that calendar year, and
+(ii) any pension income received by the person in that part of that calendar year that is after the month in which the person ceases to hold that office or employment or to carry on that business, divided by the number of months in that part of that calendar year and multiplied by 12.
+Where statement filed under subsection (2), (3) or (4)
+14(7) Where under subsection (2), (3) or (4) a statement of estimated income is filed by an applicant or an applicant’s spouse or common-law partner, no supplement calculated on the basis of that statement may be paid to the applicant for any month in the current payment period before
+(a) the month immediately following the month shown in the statement as the month in which the applicant or the applicant’s spouse or common-law partner, as the case may be, ceased to hold the office or employment or ceased to carry on the business, or
+(b) the month shown in the statement as the month in which the applicant or the applicant’s spouse or common-law partner, as the case may be, suffered the loss of income due to termination or reduction of pension income,
+whichever is applicable.
+Adjustment of payments of supplements
+18 Where it is determined that the income for a base calendar year (in this section referred to as the “actual income”) of an applicant for a supplement does not accord with the income of the applicant (in this section referred to as the “shown income”) calculated on the basis of a statement or an estimate made under section 14, the following adjustments shall be made:
+(a) if the actual income exceeds the shown income, any amount by which the supplement paid to the applicant for months in the payment period exceeds the supplement that would have been paid to the applicant for those months if the shown income had been equal to the actual income shall be deducted and retained out of any subsequent payments of supplement or pension made to the applicant, in any manner that may be prescribed; and
+(b) if the shown income exceeds the actual income, there shall be paid to the applicant any amount by which the supplement that would have been paid to the applicant for months in the payment period if the actual income had been equal to the shown income exceeds the supplement paid to the applicant for those months.
+[Emphasis added.]
+Discussion
+[9] The provisions above enable Mr. Quinn’s GIS to be determined based on 2007 income if his business ceased either in 2006 (s. 14(5)) or 2007 (s. 14(2)). However, since the relief only applies to months after the business ceases (s. 14(7)), the business cessation must be before July 2007 in order to obtain relief for the entire Payment Period. The relevant parts of the legislation have been underlined.
+[10] I would also note that Mr. Quinn is entitled to use 2008 income if his business ceased between January 2008 and July 2008.
+[11] The question to be determined in this reference is whether Mr. Quinn had a business that ceased sometime in these periods.
+[12] In reviewing this matter, the Minister decided that there was a business and that it did not cease either in 2006 and 2007. Based on the assumptions in the reply, it appears that the Minister did not make any determination regarding 2008.
+[13] It is not at all surprising that the Minister took this position because Mr. Quinn himself had represented in submissions that his gravel business was continuing and would continue until the property was sold. It appears that these representations were being made in support of deductions that were claimed for income tax purposes.
+[14] At the hearing, Mr. Quinn expressed some frustration that the tax return preparer had claimed these deductions because there was not sufficient income for the deductions to be used. He seems to believe that it would have been better to forego the deductions and be entitled to the additional $3,000 benefit under the OAS Act. This is not relevant to the question to be determined but it does help explain the positions of the parties.
+[15] Against this rather unusual background, I now turn to the facts. Most of the evidence was provided by Mr. Quinn, although Mrs. Quinn also testified briefly.
+[16] Mr. Quinn retired from employment as a school bus driver in 2000, when he reached the age of 65. The combined pension and investment income of he and his spouse appears to be about $20,000.
+[17] At all relevant times, the Quinns lived on an 80 acre property in Dawson Creek, British Columbia. They are recently separated and Mr. Quinn still lives on the property.
+[18] From about 1976 to 1995, Mr. Quinn carried on a small gravel business on the back 40 acres of the property. The business involved removing ash and pebble rock for sale locally. The material was not suitable for roads with heavy loads.
+[19] When this material was exhausted, shale was exposed on the property. Since the Crown owns the minerals on the property, the Ministry of Transportation and Highways checked the shale deposit. It appears that they determined that it was quite extensive.
+[20] On three occasions between 1997 and 2006, the Ministry approached Mr. Quinn about removing shale for road work. Each time, contracts were entered into which provided access to the shale site for a fee. The first contract in 1997 was worth appropriately $14,000 and the last contract in 2006 was worth approximately $78,000 (before expenses). At no time, did Mr. Quinn solicit these contracts and no work was involved at his end. As Mr. Quinn stated, all he had to do was sit and count the trucks.
+[21] After the 2006 contract was completed, Mr. Quinn began soliciting the Ministry and oil companies to use the shale for further road work. Mr. Quinn’s focus was in selling the back 40 acres for this purpose.
+[22] In his 2006 and 2007 income tax returns, Mr. Quinn claimed deductions for travel expenses relating to the solicitation and also expenses relating to machinery and equipment used to clear part of the property to facilitate the sale (i.e., minimize the cost of a new road necessary for access).
+[23] Mr. Quinn also made a claim for a rebate concerning GST paid on the purchase price of a backhoe. This claim was denied on the basis that there was no commercial activity.
+[24] The property has not been sold to date. Part of the problem is that the new owner would have to build an access road, which would be very expensive. Another problem is that the Ministry no longer uses shale for its road work. Mr. Quinn has been trying to convince them otherwise but he has not been successful. Since 2006 there have been no offers for the property and no requests for access to the shale.
+[25] Recently, the back 40 acres have been listed for sale by a real estate agent.
+[26] The testimony provided by Mr. Quinn was not as coherent as I would have liked. I accept the testimony as generally reliable; however, I have taken into account that it was self-interested. Based on the evidence as a whole, and on a balance of probabilities, my findings are summarized below.
+(a) Mr. Quinn carried on a business of earning income from pebble and shale on his property from 1976 to 2006. The three contracts from the Ministry were unsolicited but they were essentially a continuation of the business that was started in 1976.
+(b) After 2006, Mr. Quinn undertook considerable effort to sell the property. I have trouble accepting the testimony of Mr. and Mrs. Quinn that they would not accept another contract to provide access to the shale. I accept that having trucks regularly on the property was difficult, but the evidence also reveals that the Quinns were not well off financially. The income generated from the 2006 contract was significant. If access fees were again offered by the Ministry, I am not satisfied that the offer would have been rejected. Nevertheless, I accept that the focus of Mr. Quinn’s efforts was on a sale – not access.
+(c) Expenses incurred subsequent to the 2006 contract were laid out to facilitate a sale of the property. They were not expenses incurred in the course of the pebble and shale business.
+[27] In these circumstances, I find that the pebble and shale business ceased sometime in 2006 after the Ministry contract ended.
+[28] Accordingly, for purposes of this reference, it is determined that Mr. Quinn’s GIS for the Payment Period should be determined using 2007 income. The appeal will be allowed on that basis.
+[29] The parties shall bear their own costs.
+Signed at Ottawa, Canada this 30th day of August 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 453
+COURT FILE NO.: 2009-1261(OAS)
+STYLE OF CAUSE: CHARLES D. QUINN and THE MINISTER OF HUMAN RESOURCES AND SOCIAL DEVELOPMENT and MARILYNE C. QUINN
+PLACE OF HEARING: Grande Prairie, Alberta
+DATE OF HEARING: August 18, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: August 30, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Scott England
+Agent for the Other Party:
+Charles D. Quinn
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Other Party:
+Name: N/A
+Firm:

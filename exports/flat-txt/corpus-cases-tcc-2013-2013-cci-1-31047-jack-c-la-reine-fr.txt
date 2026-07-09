@@ -1,0 +1,135 @@
+Title: Jack c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31047/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-1-31047-jack-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-01-03
+
+# Jack c. La Reine
+
+- Citation: 2013 CCI 1
+- Decision date: 2013-01-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4871, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jack c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-03
+Référence neutre
+2013 CCI 1
+Numéro de dossier
+2012-963(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-963(IT)I
+ENTRE :
+DENISE JACK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 novembre 2012 à Edmonton (Alberta).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Paige Atkinson
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est rejeté.
+Signé à Ottawa, Canada, ce 3e jour de janvier 2013.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 7e jour de février 2013.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2013 CCI 1
+Date : 20130103
+Dossier : 2012-963(IT)I
+ENTRE :
+DENISE JACK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] Denise Jack interjette appel de la cotisation d’impôt sur le revenu pour 2009 par laquelle on lui a imposé la pénalité prévue au paragraphe 163(1) de la Loi de l’impôt sur le revenu (la « Loi »)[1]. Les faits ne sont pas contestés. Mme Jack fait valoir que la pénalité devrait être annulée parce qu’elle a fait preuve de diligence raisonnable lors de la préparation de sa déclaration de revenu. Elle ne conteste pas le montant du revenu ajouté au revenu déclaré.
+[2] Mme Jack est infirmière autorisée, professeure et propriétaire d’une petite entreprise. Elle est titulaire d’une maîtrise en éducation. Elle s’est séparée de son mari en 2008 et est maintenant divorcée. Elle a quitté la région de Toronto pour s’installer à Edmonton la même année. Avant 2008, c’est son ancien époux, agent de police, qui préparait et produisait les déclarations de revenu de l’appelante. Mme Jack ne faisait que signer les documents en question sans les examiner ni demander à son ancien époux des précisions sur ce qu’il avait préparé. Les déclarations de revenu pour 2003, 2005 et 2006, par exemple, avaient été remplies de cette manière. Dans la déclaration de revenu pour 2003, un revenu d’emploi de 2 498 $ provenant d’un hôpital n’a pas été déclaré. Dans la déclaration de revenu pour 2005, des montants de revenus d’emplois de 1 697 $ et de 27 471 $ provenant de deux hôpitaux et des intérêts de 10 $ n’ont pas été déclarés. Dans la déclaration de revenu pour 2006, un revenu d’emploi de 515 $ et un revenu d’intérêts de 1 419 $ n’ont pas été déclarés. Elle affirme qu’au cours de ces années, elle était entièrement occupée par ses études (elle a suivi des cours pendant neuf années consécutives) et par sa famille, qui comptait deux enfants. Elle admet que, même lorsqu’elle est arrivée à Edmonton en 2008, elle [traduction] « avait souvent des piles de factures […] » qu’elle n’avait pas l’habitude d’ouvrir ni de consulter « car elle était concentrée » sur ses études.
+[3] Mme Jack a affirmé que comme elle savait que des déclarations précédentes comportaient des erreurs et qu’elle ne savait pas comment remplir de tels documents, elle [traduction] « a apporté tous les formulaires de déclaration » chez H&R Block pour y faire préparer sa déclaration de revenu pour 2008. Auparavant, elle avait demandé de l’aide à l’administration fiscale. Cependant, encore une fois, des montants de revenus ne figuraient pas sur la déclaration : un revenu d’emploi de 12 166 $ provenant d’une maison de soins infirmiers, un revenu d’emploi de 750 $ provenant du gouvernement de l’Alberta et un revenu de 12 417 $ provenant de son régime enregistré d’épargne‑retraite (le « REER ») qui correspondait à une somme qu’elle avait retirée de son REER en 2008.
+[4] Mme Jack a signé la déclaration de revenu pour 2008 préparée par H&R Block. Une copie papier du document fut produite par la Couronne. Mme Jack [traduction] « présume qu’elle l’a regardée », a‑t‑elle affirmé en parlant de cette déclaration de revenu. Elle a affirmé qu’elle comprenait que le revenu déclaré sur la déclaration pour 2008 correspondait approximativement au montant de 100 000 $ qu’elle avait déclaré dans les années précédentes, et, que, par conséquent, elle croyait que l’information contenue dans la déclaration était exacte. En réalité, elle a déclaré un revenu de 101 446,79 $ alors qu’elle aurait dû déclarer un revenu de 126 000 $ pour 2008.
+[5] En conséquence de l’erreur faite dans la préparation de sa déclaration de revenu pour 2008, Mme Jack a fait préparer sa déclaration de revenu pour 2009 par Money Mart. On connaissait bien Mme Jack à Money Mart parce qu’à la suite de la dissolution de son mariage et de son déménagement à Edmonton, elle se rendait régulièrement dans cet établissement pour y emprunter de l’argent pour ses dépenses ménagères.
+[6] Mme Jack a témoigné qu’après avoir apporté tous ses documents à Money Mart en vue de la préparation de sa déclaration, elle est retournée plus tard dans cet établissement pour signer sa déclaration et en payer les frais de préparation. [traduction] « Et c’est alors qu’ils m’ont dit que mon dossier avait été confondu avec le dossier de quelqu’un d’autre. » Deux semaines plus tard, elle est retournée à Money Mart et a signé [traduction] « les formulaires qu’ils m’ont donnés. Et lorsque je leur ai demandé une copie de ces formulaires, ils m’ont dit qu’ils ne donnaient pas de copie de déclarations de revenu à leurs clients. » La preuve ne permet pas de savoir avec précision quand Mme Jack s’est rendue à Money Mart dans le but d’y faire préparer sa déclaration de revenu pour 2009. D’après son témoignage, elle croit que les faits ont eu lieu en avril 2010.
+[7] Selon le dossier de l’intimée, la déclaration de revenu pour 2009 de Mme Jack a été produite par voie électronique. Il apparaît que le document que Mme Jack a signé consiste en une autorisation, d’une seule page, octroyée à Money Mart pour la production de la déclaration de l’appelante par voie électronique.
+[8] En réalité, Mme Jack ne s’est pas rendue à Money Mart pour signer des documents concernant sa déclaration de revenu pour 2009 avant qu’elle ne reçoive une lettre en date du 15 juin 2010 de la part de Money Mart l’informant que :
+[TRADUCTION]
+Dès que nous aurons reçu votre paiement, nous produirons votre déclaration de revenu par voie électronique en communiquant avec l’Agence du revenu du Canada (ARC) par le biais du système TED. Veuillez trouver ci-joint un exemplaire de votre sommaire de la déclaration de revenu à conserver.
+et que le paiement d’impôt « doit être effectué au plus tard le 30 avril ».
+[9] Selon Mme Jack, le Sommaire de la déclaration de revenu auquel la lettre de Money Mart fait référence n’était pas joint à la lettre en question. Mme Jack ne s’est pas renseignée auprès de Money Mart pour demander une copie du Sommaire de la déclaration de revenu. La lettre de Money Mart comportait un numéro de téléphone et une adresse électronique que les clients peuvent utiliser s’ils ont des questions au sujet de leur déclaration de revenu.
+[10] Mme Jack a témoigné qu’elle n’avait jamais eu connaissance, et donc jamais examiné, l’information consignée dans sa déclaration de revenu pour 2009. Le document, c’est-à-dire le formulaire d’autorisation qui avait été donné à l’appelante pour qu’elle y appose sa signature, avait été remis à Mme Jack après avoir été glissé par l’ouverture d’une fenêtre de sécurité. L’appelante a simplement signé ce document et l’a rendu en le glissant par la même ouverture.
+[11] Le 6 juillet 2010, Mme Jack a reçu un avis de cotisation pour 2009. Il apparaît que l’avis est conforme avec l’information contenue dans sa déclaration de revenu.
+[12] Par la suite, en novembre 2010, Mme Jack a affirmé avoir reçu une lettre de l’Agence du revenu du Canada (« ARC ») l’informant que son feuillet T4 provenant de l’Université de l’Alberta (« University of Alberta ») manquait à sa déclaration de revenu pour 2009 et qu’un revenu d’emploi de 60 991 $ que Mme Jack avait reçu de l’université en 2009 serait ajouté à son revenu déclaré. Une pénalité allait également lui être imposée. Mme Jack a affirmé que, comme elle avait emprunté de l’argent à Money Mart, cette entreprise savait qu’elle était employée par l’université en tant que professeure. Mme Jack a alors suggéré que Money Mart devait avoir eu connaissance de ce fait lors de la production de sa déclaration de revenu. Toutefois, Mme Jack n’a rien dit quant à la possibilité ou non que Money Mart eût égaré son feuillet T4.
+[13] Par avis en date du 17 janvier 2011, une nouvelle cotisation a été établie à l’égard de Mme Jack pour 2009 par le ministre du Revenu national pour inclure le montant de 60 991 $ dans le revenu de l’appelante et pour imposer une pénalité de 6 068,52 $, soit 10 pour cent du revenu qu’elle a manqué de déclarer et qui correspond au montant net calculé après les déductions, en application du paragraphe 163(1) de la Loi.
+[14] À ce moment-là ou lorsqu’elle reçut la lettre de novembre 2010 – la date n’est pas claire –, Mme Jack a contacté Money Mart. « Ivan », directeur à une succursale locale de Money Mart, et « Catherine », employée au siège social de cette entreprise, ont dit à l’appelante de communiquer avec l’ARC afin de demander la permission de produire à nouveau sa déclaration de revenu pour 2009. Money Mart aurait alors produit cette déclaration sans frais. Mme Jack a fait la demande en question, mais cette demande fut rejetée.
+[15] À la conclusion de son témoignage, Mme Jack a reconnu que les dates qu’elle avait données étaient [TRADUCTION] « mélangées ». Cependant, elle a déclaré que les faits qu’elle avait relatés étaient corrects.
+[16] Mme Jack a eu beaucoup de problèmes quant à la production de ses déclarations de revenu, et ce, peu importe qui a produit ses déclarations pour elle : son ancien époux, H&R Block ou Money Mart. D’après la preuve qui m’a été présentée, il apparaît que, même durant l’audience, Mme Jack ne savait pas quels documents ni quels formulaires elle avait pu donner à H&R Block et Money Mart pour aider à la production de ses déclarations de revenu pour 2008 et 2009 respectivement. En outre, elle n’a jamais pris la précaution de parcourir ses déclarations de revenu pour 2008 et 2009 respectivement afin de s’assurer, pour sa tranquillité d’esprit, que ces documents étaient remplis en bonne et due forme.
+[17] En ce qui concerne sa déclaration de revenu pour 2008, elle a témoigné que le revenu déclaré de 101 447 $ ne constituait pas un montant inhabituel puisque son revenu [TRADUCTION] « est habituellement d’environ 100 000 $ à 103 000 $ ». Elle ne se souvenait pas si elle avait vérifié que les revenus provenant de tous les endroits où elle avait travaillé en 2008 avaient été déclarés. Il demeure que ses revenus déclarés pour 2003 et 2005 étaient respectivement de 64 400 $ et de 40 395 $, et que ses revenus réévalués étaient respectivement de 66 858 $ et à 69 573 $. Il n’y a aucune preuve établissant le montant des revenus de Mme Jack pour 2006 et 2007 : on ne peut déterminer notamment si les revenus en question étaient d’environ 100 000 $ comme elle l’a affirmé lors de l’audience. Il ne s’agit pas pour moi de douter de la crédibilité de Mme Jack, car je ne la mets pas en doute. Il s’agit pour moi de m’interroger sur la manière dont Mme Jack se souvient des faits tels qu’elle s’en rappelle. Je ne suggère en aucune façon que Mme Jack ait tenté d’induire en erreur qui que ce soit. Il semblerait d’après la preuve qui m’a été présentée que le fait de déclarer des revenus de plus de 100 000 $ pour une année antérieure à 2008 n’était pas chose habituelle et que Mme Jack aurait dû prêter plus attention aux chiffres indiqués sur sa déclaration de revenu pour 2008.
+[18] Le fait de ne pas avoir déclaré un revenu de 60 000 $ pour 2009 est très grave. Certes, Mme Jack affirme qu’elle [TRADUCTION] « a tiré les leçons de ses erreurs ». Elle s’efforce en outre d’éviter que des erreurs ne soient faites à l’avenir. Cependant, le ministre a présenté des éléments de preuve pour justifier de l’établissement d’une pénalité. Mme Jack s’en remettait entièrement à Money Mart pour produire ses déclarations de revenu. Elle n’a même pas procédé à un examen rapide de l’information indiquée sur sa déclaration en dépit des difficultés auxquelles elle s’était heurtée auparavant. La question de savoir si Mme Jack s’était assurée d’avoir bel et bien remis à Money Mart tous les documents nécessaires, y compris le feuillet T4 provenant de l’Université de l’Alberta, n’a pas pu être confirmée. En outre, quand la lettre de Money Mart en date du 15 juin 2010 affirmait qu’un sommaire de la déclaration de revenu était joint, Mme Jack n’est pas retournée à Money Mart pour obtenir ce document. Elle a eu plusieurs fois l’occasion de passer en revue l’information que Money Mart avait produite pour elle, mais, pour une raison ou pour une autre, Mme Jack ne l’a pas fait.
+[19] Mme Jack n’a pas fait preuve de diligence raisonnable lors de la préparation de sa déclaration pour 2008 ou de celle pour 2009. Le montant de revenus que Mme Jack a manqué de déclarer, soit 60 000 $, n’était pas un montant si négligeable que, comme dans la décision Symonds c. R., 2001 CCI 274, le manquement en aurait été une erreur innocente.
+[20] Il y a une différence entre une erreur innocente et la négligence. Je n’ai aucun doute que le manquement de Mme Jack à déclarer 60 000 $ n’était pas délibéré, mais qu’il était dû à son mépris imprudent et négligent vis‑à‑vis de son obligation de déclarer tous ses revenus dans sa déclaration de revenu pour l’année en cause.
+[21] L’ampleur de l’omission par rapport au revenu est importante. Mme Jack a raté des occasions de relever l’erreur. Elle est intelligente; elle a une formation universitaire. Elle a tout simplement négligé de prendre soin de ses affaires fiscales[2].
+[22] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 3e jour de janvier 2013.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 7e jour de février 2013.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2013 CCI 1
+No DU DOSSIER DE LA COUR :
+2012-963(IT)I
+INTITULÉ :
+DENISE JACK c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 28 novembre 2012
+MOTIFS DU JUGEMENT :
+L’honorable juge en chef Rip
+DATE DU JUGEMENT :
+Le 3 janvier 2013
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Paige Atkinson
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pitney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les paragraphes 163(1) et (3) de la Loi sont ainsi rédigés :
+163(1) Toute personne qui ne déclare pas un montant à inclure dans le calcul de son revenu dans une déclaration produite conformément à l’article 150 pour une année d’imposition donnée et qui a déjà omis de déclarer un tel montant dans une telle déclaration pour une des trois années d’imposition précédentes est passible d’une pénalité égale à 10 % du montant à inclure dans le calcul de son revenu dans une telle déclaration, sauf si elle est passible d’une pénalité en application du paragraphe (2) sur ce montant.
+163(1) Every person who
+(a) fails to report an amount required to be included in computing the person’s income in a return filed under section 150 for a taxation year, and
+(b) had failed to report an amount required to be so included in any return filed under section 150 for any of the three preceding taxation years
+is liable to a penalty equal to 10% of the amount described in paragraph 163(1)(a), except where the person is liable to a penalty under subsection 163(2) in respect of that amount
+(3) Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+(3) Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[2] Voir la décision Da Costa c. R., 2005 CCI 545, rendue par le juge en chef Bowman.

@@ -1,0 +1,138 @@
+---
+title: "9122-5789 Québec Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28670/index.do"
+last_modified: "2008-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 279"
+citation2: ""
+neutral_citation: "2008 CCI 279"
+decision_date: "2008-05-20"
+language: "fr"
+item_id: "28670"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1133
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:44:11.340000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6e538c5004df082388f8c78a053df08e44637bccca69e43d1797e86a14d7a239"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9122-5789 Québec Inc. c. La Reine
+
+- Citation: 2008 CCI 279
+- Decision date: 2008-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1133, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9122-5789 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-20
+Référence neutre
+2008 CCI 279
+Numéro de dossier
+2008-287(GST)APP
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-287(GST)APP
+ENTRE :
+9122-5789 QUÉBEC INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue le 10 avril 2008, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de la requérante :
+Me Louis-Frédérick Côté
+Avocate de l'intimée :
+Me Maryse Nadeau-Poissant
+____________________________________________________________________
+ORDONNANCE
+La demande faite en vue d'obtenir une ordonnance prorogeant le délai dans lequel peut être signifié l'avis d'opposition à l’encontre d’une cotisation établie par l’intimée en date du 19 août 2005 en vertu de la Loi sur la taxe d'accise, est rejetée, selon les motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de mai 2008.
+« Paul Bédard »
+Juge Bédard
+Référence : 2008CCI279
+Date : 20080520
+Dossier : 2008-287(GST)APP
+ENTRE :
+9122-5789 QUÉBEC INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Bédard
+[1] Il s’agit d’une demande de prorogation de délai pour produire un avis d’opposition à l’encontre d’une cotisation[1] établie par l’intimée par l’entremise du ministre du Revenu du Québec (le « ministre ») en vertu de la Loi sur la taxe d’accise (la « Loi »), cotisation qui porte le numéro 03403852 et dont l’avis est daté du 19 août 2005 (la « cotisation »).
+[2] L’intimée a soutenu que :
+1) l’avis de cotisation a été envoyé à la requérante;
+2) la requérante n’a pas présenté au ministre un avis d’opposition dans les 90 jours suivant le jour où l’avis de cotisation lui a été envoyé tel que le prescrit le paragraphe 301(1.1) de la Loi;
+3) le délai de 90 jours pour présenter un avis d’opposition expirait, en l’espèce, le 17 novembre 2005;
+4) le délai pour présenter au ministre une demande de prorogation du délai pour produire un avis d’opposition expirait, en l’espèce, le 17 novembre 2006, tel que l’édicte l’alinéa 303(7)a) de la Loi;
+5) la requérante ayant présenté sa demande de prorogation le 20 juillet 2007 (soit huit mois après le délai imparti), la Cour n’a pas compétence pour faire droit à la demande de prorogation, tel que l’édicte l’alinéa 304(5)a) de la Loi.
+[3] La requérante a soutenu par ailleurs que le ministre ne lui a jamais envoyé l’avis de cotisation et qu’une cotisation dont l’avis n’est pas envoyé par le ministre est une cotisation incomplète et invalide. Il convient de souligner que les parties ont convenu que la seule question en litige dans la présente affaire consiste à déterminer si l’avis de cotisation a été envoyé par le ministre à la requérante puisque cette dernière a reconnu que, si j’arrivais à la conclusion que l’avis lui a été envoyé, la Cour n’avait pas compétence pour faire droit à sa demande de prorogation.
+[4] Dans la présente affaire, madame Josée Savard, le seul administrateur et actionnaire de la requérante, et monsieur Normand Pitre, un spécialiste en matière de TPS qui a présenté pour la requérante la demande de prorogation au ministre, ont témoigné à l’appui de la position de la requérante. Par ailleurs, madame Marie‑Andrée Perreault, la vérificatrice qui a établi la cotisation pour le ministre, madame Louise Christophe, la secrétaire qui a dactylographié l’avis de cotisation (pièce I-5), et madame Johanne Lamoureux, une gestionnaire à l’expédition et à la messagerie pour le ministre du Revenu du Québec, ont témoigné à l’appui de la position du ministre.
+[5] La preuve de la requérante, voulant qu’elle n’avait pas encore reçu en date de l’audience l’avis de cotisation, reposait essentiellement sur le témoignage de madame Josée Savard qui est le seul administrateur, actionnaire et chef de la requérante. Elle a essentiellement affirmé dans son témoignage qu’avant septembre 2006, elle ignorait que la requérante faisait l’objet d’une vérification en matière de TPS et qu’elle n’avait jamais reçu de projet de cotisation à la suite de la vérification et encore moins un avis de cotisation. Le témoignage de madame Savard à cet égard a carrément été contredit par le témoignage très crédible de madame Perreault, la vérificatrice qui a établi le projet de cotisation et l’avis de cotisation. À cet égard, madame Perreault a témoigné qu’elle avait communiqué par voie téléphonique avec madame Savard à sept reprises pendant la période allant du 18 mars 2004 à la fin du mois de novembre 2004 et par écrit à au moins six reprises pendant la même période. Je souligne que les documents déposés en preuve sous la cote I-3 appuient le témoignage de madame Perreault à cet égard. Il m’est donc difficile d’apporter quelque valeur probante au témoignage de madame Savard. De plus, les hésitations de madame Savard, le temps qu’elle mettait à répondre et sa mine n’ont fait qu’ajouter à mes doutes quant à sa crédibilité. Il convient aussi d’ajouter que madame Savard à témoigné que :
+a) elle avait résidé dans un appartement au 1061, rue Jean‑Paul Vincent, à Longueuil jusqu’en juillet 2003;
+b) à partir de juillet 2003 jusqu’en juillet 2005, elle avait résidé au 160, rue Guimond, à Longueuil;
+c) à partir de juillet 2005, elle avait résidé au 446, rue Beique, à Chambly.
+[6] Je note, par ailleurs, en me fondant sur des documents déposés en preuve sous la cote I-6, que madame Savard avait avisé, le 10 octobre 2006, les autorités fiscales fédérales qu’à partir de cette date l’adresse postale de la requérante (qui, avant ce changement d’adresse, était le 160 de la rue Guimond à Longueuil, soit l’adresse résidentielle de madame Savard) serait le 446, rue Beique, à Chambly. Je note aussi, en me fondant sur des documents déposés en preuve sous la cote I-8, que madame Savard avait avisé, le 6 janvier 2006, la Société d’assurance-automobile du Québec que son adresse résidentielle serait, à partir de cette date, le 446, rue Beique, à Chambly.
+[7] Par ailleurs, madame Christophe a expliqué comme suit le rôle qu’elle remplissait en ce qui concerne l’établissement d’une cotisation en matière de TPS et son expédition. Elle dactylographiait l’avis de cotisation (ou de nouvelle cotisation) à partir des renseignements contenus dans le projet de cotisation qui lui était remis par le vérificateur qui avait établi la cotisation. Une fois l’avis de cotisation dactylographié, elle l’insérait dans une enveloppe sur laquelle elle dactylographiait le nom et l’adresse du contribuable visé par la cotisation tels qu’indiqués à l’avis de cotisation. Par la suite, elle remettait ladite enveloppe au service de courrier interne du bureau de Longueuil où elle travaillait pour que ce service l’achemine au service central de messagerie du ministre du Revenu du Québec situé à la Place Desjardins à Montréal. Madame Christophe a aussi expliqué qu’elle devait noter dans un registre chacun des avis de cotisation (ou de nouvelle cotisation) qu’elle dactylographiait. Enfin, elle a témoigné que la partie pertinente de son registre (déposée en preuve sous la cote I-9) indique qu’elle avait dactylographié l’avis de cotisation en question le 8 juillet 2005 et qu’elle avait remis le même jour, à son service de courrier interne, l’enveloppe (portant l’adresse et le nom et indiqués à l’avis de cotisation) contenant l’avis de cotisation.
+[8] Madame Lamoureux, gestionnaire du service de messagerie et d’expédition de Revenu Québec, a pour sa part expliqué en détail non seulement chacune des étapes menant à la livraison de ladite enveloppe (remise au service de courrier interne par la secrétaire) à Postes Canada pour que cette dernière l’achemine par courrier ordinaire au contribuable visé par l’avis de cotisation, mais aussi les mesures de sécurité prises par Revenu Québec pour s’assurer que ladite enveloppe ne se perde pas en cours de route.
+[9] Le registre du ministre déposé en preuve sous la cote I-7 indique que, le 10 octobre 2006, Postes Canada avait retourné pour la première fois au ministre du courrier qu’il avait expédié à la requérante au 160 de la rue Guimond à Longueuil.
+Analyse et conclusion
+[10] Certes, le ministre avait l’obligation, en l’espèce, de démontrer selon la prépondérance des probabilités, qu’il a envoyé l’avis de cotisation à la requérante. Puisque, dans une grande organisation comme un ministère, il est pratiquement impossible de trouver un témoin pouvant jurer qu’il a déposé au bureau de poste une enveloppe adressée à telle ou telle personne, le mieux que le ministre pouvait faire pour démontrer qu’il avait envoyé l’avis de cotisation était de faire témoigner ses employés pour décrire les étapes suivies en regard de l’établissement et de l’expédition d’un avis de cotisation. En l’espèce, le ministre a fait témoigner mesdames Christophe et Lamoureux qui ont décrit en détail chacune des étapes suivies à cet égard. La preuve soumise par la requérante pour contredire la preuve du ministre reposait sur le témoignage de madame Savard (que j’ai déjà qualifié de témoignage peu crédible) et sur la pièce I-8 qui démontrerait indirectement que l’avis de cotisation n’a jamais été envoyé en août 2005 à la requérante au 160 de la rue Guimond à Longueuil. En effet, l’avocat de la requérante a soutenu que, si le ministre avait expédié en août 2005 l’avis de cotisation à la requérante au 160 de la rue Guimond, Postes Canada aurait nécessairement retourné au ministre l’avis de cotisation (puisque madame Savard ne demeurait plus au 160 de la rue Guimond depuis juillet 2005) et le ministre aurait nécessairement enregistré dans son registre que l’avis de cotisation lui a été retourné en août 2005. À mon avis, ce raisonnement ne vaut que si le témoignage de madame Savard voulant qu’elle avait déménagé en juillet 2005 était crédible. À cet égard, les documents déposés en preuve sous la cote I-6 et la cote I-8 amènent la Cour à conclure que madame Savard aurait quitté le 160 de la rue Guimond vers la fin de l’année 2005 ou vers le début de l’année 2006 et que c’est ce qui explique pourquoi le courrier n’a pas été retourné au ministre en août 2005.
+[11] À la lumière de la preuve soumise par les deux parties, je conclus qu’il est plus probable qu’improbable que l’avis de cotisation a été envoyé par le ministre à la requérante en août 2005. Par conséquent, je n’ai pas compétence en l’espèce pour faire droit à la demande de prorogation, tel que l’édicte l’alinéa 304(5)a) de la Loi.
+[12] Pour ces motifs, la requête est rejetée.
+Signé à Ottawa, Canada, ce 20e jour de mai 2008.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2008CCI279
+Nº DU DOSSIER DE LA COUR : 2008-287(GST)APP
+INTITULÉ DE LA CAUSE : 9122-5789 QUÉBEC INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 10 avril 2008
+MOTIFS DE L’ORDONNANCE PAR : L'honorable juge Paul Bédard
+DATE DE L’ORDONNANCE : le 20 mai 2008
+COMPARUTIONS :
+Avocat de la requérante :
+Me Louis-Frédérick Côté
+Avocate de l'intimée :
+Me Maryse Nadeau-Poissant
+AVOCAT INSCRIT AU DOSSIER :
+Pour la requérante:
+Nom : Me Louis-Frédérick Côté
+Cabinet : McMillan Binch Mendelsohn
+Montréal, Québec
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce I-5

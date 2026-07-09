@@ -1,0 +1,184 @@
+Title: Zepotoczny c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28145/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-696-28145-zepotoczny-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-10-05
+
+# Zepotoczny c. La Reine
+
+- Citation: 2007 CCI 696
+- Decision date: 2007-10-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1991, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zepotoczny c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-05
+Référence neutre
+2007 CCI 696
+Numéro de dossier
+2006-1933(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1933(IT)I
+ENTRE :
+PHILIP ZEPOTOCZNY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 5 octobre 2007 à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelant :
+Me Henry Goldberg
+Avocat de l’intimée :
+Me Paolo Torchetti
+____________________________________________________________________
+JUGEMENT L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2003 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Edmonton (Alberta), ce 21e jour de novembre 2007.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 9e jour de janvier 2008.
+Hélène Tremblay, traductrice
+Référence : 2007CCI696
+Date : 20071121
+Dossier : 2006-1933(IT)I
+ENTRE :
+PHILIP ZEPOTOCZNY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE ]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] L’appelant, un vendeur à commission travaillant comme employé auprès de l’entreprise Lease Master de Jim Peplinski, une filiale de Humberview Motors Inc. (l’entreprise « Lease Master »), appelle de la nouvelle cotisation qui a été établie à son égard pour l’année d’imposition 2003 en partant du principe qu’il a le droit de déduire les montants suivants, dont la déduction lui a été refusée :
+DÉPENSE
+MONTANT DE LA DÉDUCTION DEMANDÉE
+MONTANT DE LA DÉDUCTION ACCORDÉE
+MONTANT DE LA DÉDUCTION REFUSÉE
+Véhicule à moteur
+5 299 $
+0 $
+5 299 $
+Repas et représentation
+3 522 $
+861,30 $
+2 660,70 $
+Frais juridiques et comptables
+1 177 $
+1 177 $
+0 $
+Publicité et promotion
+1 413 $
+365,25 $
+1 047,75 $
+Frais de bureau
+1 775 $
+0 $
+1 775 $
+Conventions et salons professionnels
+1 763 $
+0 $
+1 763 $
+Salaire de l’adjoint
+25 720,35 $
+0 $
+25 720,35 $
+Télécommunications
+897,83 $
+0 $
+897,83 $
+Espace de travail à domicile
+737 $
+0 $
+737 $
+TOTAL
+42 304,18 $
+2 403,55 $
+39 900,63 $
+[2] Les dispositions de la Loi de l’impôt sur le revenu (la « Loi ») qui s’appliquent en l’espèce sont rédigées en ces termes :
+8. (1) Éléments déductibles – Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+[…]
+f) dépenses de vendeurs [à commission] – lorsque le contribuable a été, au cours de l'année, employé pour remplir des fonctions liées à la vente de biens ou à la négociation de contrats pour son employeur, et lorsque, à la fois :
+(i) il était tenu, en vertu de son contrat, d'acquitter ses propres dépenses,
+(ii) il était habituellement tenu d'exercer les fonctions de son emploi ailleurs qu'au lieu d'affaires de son employeur,
+(iii) sa rémunération consistait en tout ou en partie en commissions ou autres rétributions semblables fixées par rapport au volume des ventes effectuées ou aux contrats négociés,
+(iv) il ne recevait pas, relativement à l'année d'imposition, une allocation pour frais de déplacement qui, en vertu du sous-alinéa 6(1)b)(v), n'était pas incluse dans le calcul de son revenu,
+les sommes qu'il a dépensées au cours de l'année pour gagner le revenu provenant de son emploi (jusqu'à concurrence des commissions ou autres rétributions semblables fixées de la manière prévue au sous-alinéa (iii) et reçues par lui au cours de l'année) dans la mesure où ces sommes n'étaient pas :
+(v) des dépenses, des pertes ou des remplacements de capital ou des paiements au titre du capital, exception faite du cas prévu à l'alinéa j),
+(vi) des dépenses qui ne seraient pas, en vertu de l'alinéa 18(1)l), déductibles dans le calcul du revenu du contribuable pour l'année, si son emploi relevait d'une entreprise exploitée par lui,
+(vii) des montants dont le paiement a entraîné la réduction du montant qui serait inclus par ailleurs dans le calcul du revenu du contribuable pour l'année en application de l'alinéa 6(1)e);
+[…]
+(2) Restriction générale – Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi. (Non souligné dans l’original.)
+[…]
+10) Attestation de l’employeur – Un contribuable ne peut déduire un montant pour une année d'imposition en application des alinéas (1)c), f), h) ou h.1) ou des sous‑alinéas (1)i)(ii) ou (iii) que s'il joint à sa déclaration de revenu pour l'année un formulaire prescrit, signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies quant au contribuable au cours de l'année. (Non souligné dans l’original.)
+[3] Selon le contrat conclu entre l’appelant et Lease Master, en 2003, l’appelant avait accès à une voiture de fonction, il avait droit à une allocation de 100 $ par mois pour l’essence, on lui remboursait toute dépense supplémentaire relative aux voyages d’affaires ayant été approuvée au préalable, et il recevait une allocation de 50 $ par mois pour l’utilisation d’un téléphone cellulaire. L’appelant devait présenter des reçus pour venir appuyer sa demande de déduction concernant ces dépenses. De surcroît, l’appelant avait demandé un [traduction] « budget de publicité et de promotion » et en a reçu un de 5 450 $.
+[4] Le feuillet T4 de l’appelant pour l’année 2003 comprenait une allocation pour frais d’automobile s’élevant à 3 933,12 $. L’appelant a produit un formulaire T2200 daté du 12 mars 2004 en même temps que sa déclaration de revenus pour l’année d’imposition 2003. Dans le formulaire, l’employeur de l’appelant a indiqué ce qui suit au sujet de l’appelant :
+a) il devait payer les frais qu’il a engagés;
+b) il devait travailler ailleurs qu’à l’établissement de l’employeur;
+c) il recevait une allocation de 1 800 $;
+d) il a reçu un remboursement pour les frais qu’il a payés dans l’exécution des tâches qui lui étaient confiées;
+e) il était tenu de payer l’essence, les services téléphoniques, les frais de représentation et les articles de papeterie en sus de ce qui lui était accordé dans son contrat;
+f) il n’était pas tenu d’utiliser une partie de son domicile comme bureau;
+g) il n’était pas tenu de payer pour les services d’un adjoint;
+h) il n’était pas tenu de payer pour les fournitures qu’il utilisait directement pour accomplir son travail;
+i) il ne serait pas remboursé pour les dépenses faites aux alinéas f), g) et h).
+[5] Un avis de nouvelle cotisation a été produit à l’égard de l’appelant le 3 octobre 2005 informant ce dernier que le ministre du Revenu national (le « ministre ») avait établi une nouvelle cotisation quant à son impôt à payer pour l’année 2003 et avait refusé les déductions demandées s’élevant à 39 900,63 $. Le 11 octobre 2005, l’appelant a envoyé un nouveau formulaire T2200 au ministre pour l’année d’imposition 2003. Selon ce qui était indiqué dans ce nouveau formulaire, l’appelant était tenu d’utiliser une partie de son domicile comme bureau, de payer pour les services d’un adjoint et de payer pour les fournitures qu’il utilisait directement pour accomplir son travail.
+[6] Il est évident que les deux formulaires se contredisent. La question qui se pose est alors de savoir si j’accepte le deuxième formulaire comme étant le reflet de la véritable situation. Je tiens compte ici des commentaires formulés par le juge en chef Bowman concernant la crédibilité dans la décision Faulkner c. M.R.N., 2006 CCI 239, et rédigés en ces termes :
+[13] Je pense que les juges ne doivent absolument pas tirer à la légère des conclusions relatives à la crédibilité. J’ai dit ce qui suit dans la décision 1084767 Ontario Inc. (Celluland) c. Canada, [2002] A.C.I. no 227 (QL) :
+8 La preuve de chacun des deux témoins est radicalement opposée à celle de l’autre. J’ai pris le jugement en délibéré puisque je ne crois pas approprié de tirer à la légère des conclusions relatives à la crédibilité ou, de façon générale, de rendre ces conclusions oralement à l’audience. Le pouvoir et l’obligation d’établir des conclusions relatives à la crédibilité est l’une des plus lourdes responsabilités d’un juge de première instance. Le juge doit exercer cette responsabilité avec soin et après mûre réflexion puisqu’une conclusion défavorable de la crédibilité suppose que l’une des parties ment sous la foi du serment. Vouloir mettre un terme rapidement à une affaire ne peut pas être une excuse justifiant le mauvais usage de ce pouvoir. La responsabilité qui repose sur le juge d’un procès qui doit tirer des conclusions relatives à la crédibilité doit être particulièrement rigoureuse si l’on considère que l’on ne peut pratiquement pas en appeler de telles conclusions.
+[14] J’estime toujours qu’à titre de juges, nous avons envers les personnes qui comparaissent devant nous le devoir de faire preuve de prudence et de prendre le temps nécessaire pour bien réfléchir lorsqu’il s’agit de rendre des conclusions au sujet de la crédibilité. Selon les études que j’ai consultées, les juges n’ont pas d’aptitudes particulières lorsqu’il s’agit d’arriver à une conclusion exacte au sujet de la crédibilité. Nous n’avons pas une maîtrise sur la perspicacité et l’acuité qui nous rendrait supérieurs aux autres personnes ayant subi les mêmes tests, comme les psychologues, les psychiatres ou les profanes. Étant donné que nous devons, dans le cadre de notre travail, arriver à des conclusions au sujet de la crédibilité, nous devons au moins nous acquitter de cette tâche avec humilité et en étant conscients de notre propre faillibilité. Je sais que les tribunaux d’appel soutiennent qu’ils doivent faire preuve de retenue à l’égard des conclusions de fait des juges de première instance parce que ces derniers ont l’occasion d’observer le comportement des témoins au moment de leur témoignage. J’ai pour ma part vu des menteurs accomplis regarder droit dans les yeux d’une autre personne et raconter des mensonges flagrants de façon confiante, directe et franche, et des témoins honnêtes qui évitent de regarder les autres dans les yeux, qui bégayent, qui hésitent lorsqu’ils parlent, qui se contredisent et qui finissent par présenter un témoignage complètement désordonné. Certains juges semblent quand même croire qu’ils peuvent instantanément faire la distinction entre ce qui est vrai et ce qui est faux et prononcer sur‑le‑champs un jugement fondé sur la crédibilité. Il n’en reste pas moins que les juges, lorsqu’ils entendent des témoignages contradictoires, n’ont probablement qu’une chance sur deux de retenir le bon témoignage, et que leurs chances de le faire diminuent probablement davantage s’ils se contentent de fonder leur conclusion sur une réaction viscérale à un témoin. De plus, si une conclusion défavorable au sujet de la crédibilité est tirée, il faut absolument exposer les motifs à l’appui de la conclusion.
+[7] Je n’ai accordé absolument aucune importance au deuxième formulaire T2200 produit par l’appelant. Les motifs de cette décision sont les suivants :
+a) Le formulaire a été rempli après que l’appelant a fait l’objet d’une nouvelle cotisation et que la déduction des dépenses lui a été refusée. Les raisons motivant l’établissement d’un deuxième formulaire sont donc douteuses.
+b) L’appelant a affirmé que Peter Opar, la personne qui a signé les deux formulaires, s’était trompé en remplissant le premier formulaire. L’appelant n’a cependant pas appelé Peter Opar comme témoin.
+c) L’appelant a affirmé avoir deux fils et qu’en 2003, aucun d’entre eux n’avait pas d’emploi. Il a créé un poste d’adjoint pour son fils Tyler. Il a dit que ceci s’était fait sans qu’il en ait avisé la direction et que c’était pour cette raison que Peter Opar n’avait pas fait mention de ce fait dans le premier formulaire. Ces affirmations sont tout à fait invraisemblables, étant donné que les éléments de preuve documentaire indiquaient que pendant toute l’année 2003, Tyler Zepotoczny était un employé à temps plein auprès de Lease Master. Selon le feuillet T4 produit par Lease Master à l’égard de Tyler Zepotoczny, le salaire de ce dernier pour l’année 2003 était de 38 306,10 $.
+d) L’appelant avait une adjointe qui était une employée de Lease Master. L’appelant a affirmé que le prénom de son adjointe était « Belinda ».
+[8] Par conséquent, en fonction du paragraphe 8(10) de la Loi et du formulaire T2200 que l’appelant a produit avec sa déclaration de revenus, je conclus que l’appelant n’a pas le droit de déduire les dépenses relatives aux fournitures de bureau, à l’espace de travail à domicile et au salaire d’un adjoint.
+[9] Lease Master fournissait une voiture de fonction à l’appelant ainsi qu’une allocation de 100 $ par mois pour l’essence. Il est bon de noter ici que selon son contrat, l’appelant devait présenter des reçus à son employeur afin d’obtenir son allocation pour l’essence. L’appelant a dit que ses dépenses en essence ne lui étaient pas remboursées au complet. Il n’a toutefois pas fourni de reçus ou d’autres éléments de preuve concernant ce qu’il a payé pour son essence et ce qui ne lui a pas été remboursé. Dans son témoignage, l’appelant a aussi affirmé qu’il payait les primes d’assurance pour la voiture de fonction. Il n’avait cependant pas de documents pour venir appuyer cette affirmation. Le contrat de l’appelant stipulait que les primes d’assurance pour la voiture de fonction seraient payées conformément à la [traduction] « Politique de démonstration ». Je déduis donc que si l’appelant était tenu de payer les primes d’assurance, il aurait facilement pu présenter la [traduction] « Politique de démonstration » comme élément de preuve.
+[10] L’appelant a demandé la déduction de frais de repas et de représentation s’élevant à 3 522 $. Le montant qui a été admis était de 1 722,57 $. Il n’y a que 50 % des 1 722,57 $ qui est déductible, selon le paragraphe 67.1(1) de la Loi. Dans le cadre de l’audience, l’appelant n’a présenté aucun document à l’appui du reste du montant dont il avait demandé la déduction, soit 1 799,43 $. L’intimée a présenté des reçus que l’appelant avait produit à l’Agence du revenu du Canada (l’« ARC »). Ces reçus indiquaient que l’appelant avait demandé la déduction d’une même dépense deux fois (le reçu du restaurant et le relevé de carte de crédit), des frais relatifs à une fête d’anniversaire d’employé, du coût d’un dîner pour les employés de la section de l’informatique de son bureau, du coût de son propre dîner, ainsi que des coûts de repas livrés à son domicile. La somme de tous ces reçus n’était pas de 1 799,43 $, et les dépenses faisant l’objet de la demande de déduction n’avaient pas été faites pour gagner un revenu d’emploi.
+[11] L’appelant a demandé la déduction des coûts relatifs à des achats faits à la Régie des alcools de l’Ontario (la « LCBO »). Il n’a pas fourni d’explications pour ces achats. Dans la réponse à l’avis d’appel, il est indiqué que certains de ces achats ont été faits dans le cadre d’activités de promotion de l’esprit d’équipe, d’une journée portes ouvertes au domicile de l’appelant et d’une fête pour l’anniversaire de son fils. J’ai déjà souligné le fait que l’appelant avait reçu un budget de publicité et de promotion s’élevant à 5 450 $ de la part de Lease Master. Par conséquent, je conclus que le montant de 1 047,75 $ ne correspond pas à des dépenses faites pour gagner un revenu d’emploi.
+[12] Le témoignage de l’appelant est venu confirmer les hypothèses de fait formulées aux alinéas 6u) et z) de la réponse à l’avis d’appel selon lesquelles le montant de 1 763 $ faisant l’objet d’une demande de déduction de la part de l’appelant représentait des dépenses supplémentaires que lui et son épouse ont faites alors qu’ils faisaient une croisière payée par l’employeur. Les déductions demandées à cet égard comprenaient les frais de limousine pour l’aller‑retour entre le domicile de l’appelant et l’aéroport, les dépenses faites par carte de crédit sur le navire pour les achats de cadeaux et de boisson, pour les taxis pour faire l’aller‑retour entre le navire et la place, pour les pourboires et les souvenirs à rapporter à son fils et à son adjointe. Ces dépenses n’ont pas été faites pour gagner un revenu d’emploi.
+[13] L’appelant recevait une allocation mensuelle de 50 $ par mois pour ses dépenses en matière de télécommunications. Il affirme que ses dépenses à cet égard dépassaient l’allocation de 600 $. Cependant, lorsqu’on lui a demandé de fournir les factures pour appuyer sa prétention, l’appelant a présenté les factures qui étaient au nom de son fils, Tyler Zepotoczny, qui travaillait lui aussi auprès de Lease Master National.
+[14] L’appelant ne s’était pas du tout préparé pour l’audience de son appel. Il n’a présenté aucun document pertinent à l’appui de son appel, et son témoignage était en grande partie contredit par les éléments de preuve documentaire présentés par l’intimée. J’ai déjà conclu, dans une situation comme celle en l’espèce, qu’une série de dépenses excessives ou invraisemblables dans la demande de déduction de l’appelant laissait planer le doute sur tout le témoignage de celui‑ci (Chrabalowski c. Canada, [2004] A.C.I. n° 488).
+[15] J’ai examiné tous les éléments de preuve et je conclus que l’appelant n’a pas réussi à établir que le ministre a commis une erreur en refusant les déductions demandées.
+[16] L’appel est rejeté.
+Signé à Edmonton (Alberta), ce 21e jour de novembre 2007.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 9e jour de janvier 2007.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2007CCI696
+N° DE DOSSIER : 2006-1933(IT)I
+INTITULÉ : Philip Zepotoczny c. La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 5 octobre 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 21 novembre 2007
+COMPARUTIONS :
+Représentant de l’appelant :
+Henry Goldberg
+Avocat de l’intimée :
+Me Paolo Torchetti
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

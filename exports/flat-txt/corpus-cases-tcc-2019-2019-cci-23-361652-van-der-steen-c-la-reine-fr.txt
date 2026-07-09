@@ -1,0 +1,569 @@
+Title: Van Der Steen c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/361652/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-23-361652-van-der-steen-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-01-23
+
+# Van Der Steen c. La Reine
+
+- Citation: 2019 CCI 23
+- Decision date: 2019-01-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4341, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Van Der Steen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-01-23
+Référence neutre
+2019 CCI 23
+Numéro de dossier
+2012-4731(IT)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012­4731(IT)G
+ENTRE :
+RONALD VAN DER STEEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus du 7 au 10 mars 2016, du 24 au 26 octobre 2016,
+du 7 au 9 juin 2017 et les 16 et 17 novembre 2017 à Hamilton (Ontario)
+Observations écrites déposées le 30 janvier 2018.
+Par : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Avocat de l’appelant :
+Alec McLennan
+Avocates de l’intimée :
+Nadine Taylor Pickering
+Natasha Wallace
+JUGEMENT
+LA COUR DÉCIDE :
+1. L’appel relatif à la nouvelle cotisation (la « nouvelle cotisation de 2009 ») représentée par l’avis de nouvelle cotisation du 26 mars 2009 et qui a imposé une pénalité en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « LIR ») est accueilli et la nouvelle cotisation de 2009 est annulée.
+2. Comme la nouvelle cotisation de 2009 est annulée, la nouvelle cotisation (la « nouvelle cotisation de 2008 ») représentée par l’avis de nouvelle cotisation du 3 mars 2008 et qui refusait le crédit d’impôt pour don à l’égard du paiement de 65 000 $ de l’appelant à la Canadian Literacy Enhancement Society est rétablie.
+3. L’appel relatif à la nouvelle cotisation de 2008 rétablie est rejeté.
+4. Comme l’issue de l’appel est partagé, les dépens ne sont pas adjugés.
+Signé à Ottawa, Canada, ce 23e jour de janvier 2019.
+« Don R. Sommerfeldt »
+Juge Sommerfeldt
+Traduction certifiée conforme
+Ce 16e jour de juillet 2019.
+François Brunet, réviseur
+Référence : 2019 CCI 23
+Date : 20190123
+Dossier : 2012­4731(IT)G
+ENTRE :
+RONALD VAN DER STEEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs se rapportent aux appels interjetés par Ronald van der Steen à l’égard de deux nouvelles cotisations (ou peut­être d’une nouvelle cotisation et d’une cotisation supplémentaire) pour son année d’imposition 2004. En 2004, M. van der Steen a fait un paiement de 65 000 $ à la Canadian Literacy Enhancement Society (« CLES »), organisme de bienfaisance enregistré. Dans sa déclaration de revenus de cette même année, l’intéressé a assimilé ce paiement à un don et demandé un crédit d’impôt fédéral et un crédit d’impôt provincial à l’égard des 65 000 $ (et de trois dons plus modestes à d’autres organismes de bienfaisance enregistrés). En 2008, l’Agence du revenu du Canada (l’« ARC ») a établi au nom du ministre du Revenu national (le « ministre ») une nouvelle cotisation pour l’année d’imposition 2004 de M. van der Steen et ainsi refusé les crédits d’impôt fédéral et provincial découlant du paiement de 65 000 $. Dans un avis de nouvelle cotisation ultérieur, elle a imposé une pénalité en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (Canada) (la « LIR »).
+[2] Pour trame de fond préliminaire, précisons que l’esprit à l’origine de la CLES et de l’arrangement de don de bienfaisance visé par cet appel, à savoir Henry Nicholas Thill [1] . M. Thill était assisté de Keith Wilson et Steve Reynolds. MM. Thill et Reynolds sont décédés avant que ne débute l’audition du présent appel.
+[3] Lorsqu’elle a soumis à vérification les nombreux contribuables ayant fait des dons à la CLES, l’ARC a découvert que certains s’étaient fait dire par un représentant de la CLES qu’ils (ou une entité contrôlée par eux) pouvaient s’attendre à recevoir un paiement (que l’ARC qualifie de « ristourne ») correspondant généralement à environ 70 % du montant du don. Une des questions fondamentales dans cet appel est de savoir si M. van der Steen s’est fait dire qu’il recevrait une ristourne pour son paiement de 65 000 $ à la CLES.
+II. QUESTIONS EN LITIGE
+[4] Les questions en litige dans cet appel se résument ainsi :
+a) Le paiement de M. van der Steen à la CLES au montant de 65 000 $ était­il un don pouvant être compris dans son « total des dons de bienfaisance » au sens du paragraphe 118.1(1) de la LIR?
+b) Le reçu remis par la CLES à M. van der Steen relativement au paiement de 65 000 $ était­il conforme au paragraphe 118.1(2) de la LIR et à l’article 3501 du Règlement de l’impôt sur le revenu (Canada) (le « RIR »)?
+c) En produisant sa déclaration de revenus de 2004, M. van der Steen a­t­il fait une présentation erronée des faits par négligence, inattention ou omission volontaire ou a­t­il commis une fraude ce faisant, permettant ainsi au ministre, en vertu du sous­alinéa 152(4)a)(i) de la LIR, d’établir une nouvelle cotisation après la période normale de nouvelle cotisation de l’intéressé pour l’année d’imposition 2004 et ainsi d’imposer une pénalité à M. van der Steen pour cette année?
+d) En déclarant le paiement de 65 000 $ comme don dans sa déclaration de revenus de 2004 et en déduisant un crédit d’impôt en vertu du paragraphe 118.1(3) de la LIR, M. van der Steen a­t­il sciemment, ou dans des circonstances équivalant à faute lourde, fait une présentation erronée des faits le rendant passible d’une pénalité en application du paragraphe 163(2) de la LIR?
+[5] Au départ, l’ARC a également allégué que M. van der Steen avait participé à un « arrangement de don » défini au paragraphe 237.1(1) de la LIR, que cet arrangement n’avait pas reçu de numéro d’inscription et que l’intéressé n’avait pas produit le formulaire prescrit aux fins du paragraphe 237.1(6) de la LIR, si bien qu’il n’avait pas le droit de déduire un crédit d’impôt en vertu du paragraphe 118.1(3) de la LIR. Au début de l’audition du présent appel, l’avocat de la Couronne a informé la Cour que le ministère public ne s’appuyait plus sur l’article 237.1 de la LIR.
+III. LES FAITS ET PROCÉDURES
+A. Chronologie des événements (tirée du témoignage de M. van der Steen)
+[6] En 2004, M. van der Steen, qui était avocat et membre d’une société de personnes s’adonnant à la pratique du droit, a jugé, à une époque où il avait de 165 000 $ à 265 000 $ dans son régime enregistré d’épargne­retraite (REER) [2] , qu’il serait bon qu’il retire 100 000 $ ou plus de ce REER. Il a expliqué, lui qui avait exercé la profession d’ingénieur avant de faire des études de droit, que, lorsqu’il était ingénieur, il trouvait avantageux de cotiser à un REER. Cependant, en tant qu’avocat indépendant et compte tenu de son revenu, il avait trouvé [traduction] « difficile de cotiser à un REER et d’en tirer vraiment profit [3] ».
+[7] Dans une conversation à bâtons rompus avec une connaissance du milieu des affaires, Michael Gomes, M. van der Steen a mentionné qu’il cherchait un moyen fiscalement intéressant de retirer de l’argent de son REER. M. Gomes a dit qu’il connaissait quelqu’un qui pourrait l’aider à cet égard et il l’a aiguillé vers Steve Reynolds. Vers la fin d’octobre ou au début de novembre 2004, M. van der Steen a téléphoné à M. Reynolds et fait part de son désir de retirer environ 100 000 $ de son REER de manière fiscalement avantageuse. M. Reynolds l’a informé que, s’il devait retirer 100 000 $ et se servir de cet argent (après avoir complété la somme pour remplacer l’impôt sur le revenu retenu à la source) pour faire un don de 100 000 $ à la CLES, il aurait droit à un remboursement d’impôt qui compenserait le montant qu’il aurait à payer en ayant retiré l’argent de son REER, de sorte que les opérations seraient sans impact fiscal pour l’essentiel.
+[8] Le 10 novembre 2004, M. van der Steen a discuté de la proposition avec Tom Birnie, son conseiller financier et son courtier. Celui­ci l’a informé qu’une partie importante de ses fonds dans le REER était placée dans des sociétés de capital de risque de travailleurs et dans d’autres placements difficiles à liquider. C’est pourquoi il recommandait à M. van der Steen de ne pas retirer plus de 65 000 $ de son REER.
+[9] Après une recherche en ligne qui lui a confirmé que la CLES était un organisme de bienfaisance enregistré, M. van der Steen a pris ses dispositions pour retirer 64 854,52 $ de son REER. Ce retrait a eu lieu le 24 novembre 2004 ou vers cette date. Vu ce retrait, Union Securities Ltd. (« USL ») lui a remis un chèque de 45 380,66 $. USL a retenu 19 473,86 $ sur le retrait et vraisemblablement versé ce montant au receveur général du Canada.
+[10] Comme M. Reynolds avait conseillé à M. van der Steen de verser à la CLES un montant à peu près égal au montant du retrait du REER, celui­ci a pris le 26 novembre 2004 une avance en espèces de 71 000 $ sur sa ligne de crédit personnelle à la Banque de la Nouvelle­Écosse (« BNS ») et, le même jour, a effectué un paiement à cette banque au montant de 45 380,66 $ [4] afin de réduire le solde à régler sur cette ligne de crédit, d’où un emprunt net de 25 619,34 $ (71 000 $ moins 45 380,66 $).
+[11] Ce même 26 novembre 2004, M. van der Steen a obtenu de la BNS une traite bancaire d’un montant de 65 000 $ payable à la CLES. Il a utilisé les 6 000 $ restants (71 000 $ moins 65 000 $) de l’avance à des fins qui n’ont rien à voir avec le présent appel.
+[12] Au milieu ou vers la fin de novembre 2004, M. van der Steen a rappelé M. Reynolds pour obtenir des instructions d’envoi postal ou d’expédition de la traite bancaire de 65 000 $. Il a ensuite fait parvenir cette traite à la CLES et en a obtenu un reçu officiel daté du 2 décembre 2004 et faisant état d’un don de 65 000 $ de sa part.
+[13] M. van der Steen a témoigné qu’il n’avait eu que deux entretiens téléphoniques avec M. Reynolds et que celui-ci a alors fait valoir l’importance pour lui de faire don à la CLES de la totalité du montant retiré du REER, même si cela impliquait qu’il fasse un emprunt pour compléter le don d’un montant égal à la retenue d’impôt sur le retrait du REER. M. van der Steen a déposé que M. Reynolds ne lui avait rien promis, si ce n’est qu’il obtiendrait un reçu. Il a dit ne pas s’attendre à recevoir quoi que ce soit (autre que le reçu) en échange de son paiement de 65 000 $ [5] . Il a déclaré que son intention en faisant le paiement était de [traduction] « faire un don et maximiser le rendement de ce que je peux obtenir dans une déclaration de revenus pour avoir retiré de l’argent de mon REER » [6] .
+B. Historique des dons de bienfaisance
+[14] De 1987 à 2014, M. van der Steen a versé les montants suivants à des organismes de bienfaisance enregistrés :
+Année
+Montant ($)
+1987
+20
+1988
+50
+1989
+70
+1990
+110
+1991
+75
+1992
+80
+1993
+0 [7]
+1994
+0
+1995
+14
+1996
+0
+1997
+0
+1998
+0
+1999
+120
+2000
+0
+2001
+30
+2002
+2 555
+2003
+2 803
+2004
+66 389 [8]
+2005
+2 065
+2006
+1 909
+2007
+1 898
+2008
+80
+2009
+255
+2010
+100
+2011
+45
+2012
+250
+2013
+257
+2014
+0
+[15] En 2004, M. van der Steen a non seulement versé 65 000 $ à la CLES, ce qui est l’objet du présent appel, mais aussi fait don de 1 389 $ à d’autres organismes de bienfaisance enregistrés.
+C. Historique des cotisations à un REER
+[16] Voici les montants des cotisations de M. van der Steen à son REER de 1987 à 2014 avec deux retraits de son REER respectivement effectués en 2004 et 2013 :
+Année
+Cotisations (retraits)
+1987
+1 835
+1988
+1 663
+1989
+2 119
+1990
+7 500
+1991
+7 927
+1992
+8 915
+1993
+9 977
+1994
+0 [9]
+1995
+0
+1996
+0
+1997
+3 000
+1998
+0
+1999
+0
+2000
+9 616
+2001
+12 451
+2002
+0
+2003
+5 550
+2004
+(64 854,52) [10]
+2005
+0
+2006
+0
+2007
+29 908 [11]
+2008
+21 909
+2009
+5 071
+2010
+0
+2011
+0
+2012
+6 000
+2013
+(107)
+2014
+92
+Il ressort du tableau qui précède que M. van der Steen cotisait souvent irrégulièrement à son REER et que, lorsqu’il versait des cotisations, les sommes étaient généralement inférieures à la limite de cotisation pour l’année en question. On en infère qu’il ne considérait pas son REER comme élément central de sa planification de la retraite. En fait, il a témoigné qu’il prévoyait travailler presque toute sa vie [12] , bien que reconnaissant par ailleurs que, avec son REER, le but était d’épargner pour la retraite [13] .
+D. Évaluation des antécédents
+[17] Leonard Cappe, comptable agréé dont les services ont été retenus par M. van der Steen et la société de personnes où il était associé, a préparé la déclaration de revenus de 2004 de l’intéressé à la mi­mars 2005. Il a produit celle­ci par voie électronique le 18 mars 2005 [14] .
+[18] Le ministre a établi la cotisation de M. van der Steen sur sa déclaration de revenus de 2004 et produit l’avis de cotisation initial le 28 juillet 2005 [15] . Cela marquait le début de la période normale de nouvelle cotisation. Le 22 août 2005, le ministre a établi une nouvelle cotisation pour l’année d’imposition 2004 en acceptant un crédit d’impôt fédéral pour contribution politique au montant de 103,50 $ [16] .
+[19] Le 3 mars 2008, le ministre a établi une nouvelle cotisation pour l’année d’imposition 2004 en ramenant de 66 389 $ à 1 389 $ le montant des dons de bienfaisance de M. van der Steen [17] . C’était là l’avis de nouvelle cotisation qui refusait les crédits d’impôt liés au paiement de 65 000 $ à la CLES.
+[20] Le 26 mars 2009, le ministre a produit un avis de nouvelle cotisation imposant une pénalité au montant de 14 992,65 $ en vertu du paragraphe 163(2) de la LIR [18] . Cet avis intervenait après l’expiration de la période normale de nouvelle cotisation de M. van der Steen pour 2004.
+[21] La question s’est posée de savoir si l’avis de nouvelle cotisation daté du 26 mars 2009 représentait une nouvelle cotisation ou une cotisation supplémentaire. L’avocat de M. van der Steen soutient que la nouvelle cotisation du 26 mars 2009 était bel et bien une nouvelle cotisation, et non une cotisation supplémentaire. En revanche, les avocates de la Couronne soutiennent que la nouvelle cotisation du 26 mars 2009 était en fait une cotisation supplémentaire ayant pour seul effet d’imposer une pénalité en vertu du paragraphe 163(2) de la LIR.
+[22] Le 1er mars 2016, le ministère public a déposé à la Cour un affidavit de Barbara Harvey, agente des litiges fiscaux de l’ARC. Au paragraphe 7 de cet affidavit, l’intéressée déclare que [traduction] « la déclaration de revenus de 2004 de M. van der Steen a fait l’objet d’une nouvelle cotisation en vue de l’imposition de pénalités pour faute lourde ». Décrivant le dossier électronique tenu par l’ARC pour l’année d’imposition 2004 de M. van der Steen au même paragraphe de l’affidavit, elle a indiqué que le document de procédure avait été inscrit comme une nouvelle cotisation. De même, elle décrit le processus comme une nouvelle cotisation au paragraphe 8 de l’affidavit. Il reste que, au paragraphe 7, elle déclare aussi que, à part l’imposition de la pénalité, nulle correction n’est effectuée par cette nouvelle cotisation.
+[23] Il n’y a pas que l’affidavit ci­dessus, puisque plusieurs documents envoyés par l’ARC à M. van der Steen pourraient contribuer à établir si le document de procédure du 26 mars 2009 constituait une nouvelle cotisation ou une cotisation supplémentaire. Un de ces documents est une lettre du 2 juin 2008 où l’ARC dit :
+[traduction] Il a été porté à notre attention que, en raison d’erreurs techniques de traitement, la ou les nouvelles cotisations donnant effet à nos propositions ne comprenaient pas les pénalités déjà projetées en vertu du paragraphe 163(2). Nous désirons vous informer que les pénalités seront maintenant imposées dans un avis distinct de nouvelle cotisation que vous recevrez dans un très proche avenir […]
+[…] si vous avez déjà déposé un avis d’opposition à la (aux) nouvelle(s) cotisation(s) ayant à voir avec le programme de dons de la Canadian Literacy Enhancement Society, la ou les nouvelles cotisations pour pénalité invalideront l’avis d’opposition qui précède [19] .
+Dans l’avis même de nouvelle cotisation produit le 26 mars 2009, l’ARC dit :
+[traduction] Nous avons réexaminé votre déclaration pour l’année d’imposition susmentionnée. Les détails de la nouvelle cotisation qui en résulte figurent ci­dessous […]
+Si vous avez déposé un avis d’opposition pour 2004, vous devez à nouveau le produire [20] .
+[24] Il ressort de la teneur de la lettre du 2 juin 2008 et de l’avis de nouvelle cotisation du 26 mars 2009 de l’ARC qui précèdent que cet avis avait pour effet d’annuler et de remplacer l’avis de nouvelle cotisation du 3 mars 2008, sinon il n’aurait pas été nécessaire que l’ARC informe M. van der Steen qu’il lui faudrait redéposer son avis d’opposition [21] . Par ailleurs, le seul effet de l’avis de nouvelle cotisation du 26 mars 2009 était d’imposer une pénalité de 14 992,65 $, aucune autre modification n’étant apportée au montant total à payer de 47 527,40 $ selon la nouvelle cotisation du 3 mars 2008 [22] .
+[25] Comme je l’expliquerai plus loin, je n’ai pas à trancher la question de savoir si la procédure de cotisation représentée par l’avis de nouvelle cotisation du 26 mars 2009 créait une nouvelle cotisation ou une cotisation supplémentaire :
+a) Si M. van der Steen a fait une présentation erronée des faits par négligence, inattention ou omission volontaire qui était telle que la nouvelle cotisation (la « nouvelle cotisation de 2009 ») du 26 mars 2009 était valable, celle­ci venait à la fois refuser le crédit d’impôt que demandait l’intéressé à l’égard du paiement de 65 000 $ à la CLES et imposer une pénalité en vertu du paragraphe 163(2) de la LIR. Ajoutons que, si l’avis de nouvelle cotisation du 26 mars 2009 constituait bel et bien une nouvelle cotisation, il remplaçait et annulait la nouvelle cotisation (la « nouvelle cotisation de 2008 ») du 3 mars 2008 [23] .
+b) Si l’avis de nouvelle cotisation du 26 mars 2009 constituait une nouvelle cotisation, mais que cette nouvelle cotisation était annulée en vertu du paragraphe 152(4) de la LIR (pour présentation erronée des faits par négligence, inattention ou omission volontaire), la nouvelle cotisation de 2008 sera rétablie [24] ou il est possible que cette nouvelle cotisation n’ait jamais été remplacée ni annulée [25] . Comme il est signalé, la nouvelle cotisation de 2008 refusait le crédit d’impôt demandé par M. van der Steen à l’égard du paiement de 65 000 $ à la CLES, mais sans imposer de pénalité en application du paragraphe 163(2) de la LIR.
+c) Si l’avis de nouvelle cotisation du 26 mars 2009 constituait une cotisation supplémentaire, il imposait seulement une pénalité sans remplacer ni annuler la nouvelle cotisation de 2008. Si la cotisation supplémentaire devait être jugée non valable à cause du paragraphe 152(4) de la LIR, la pénalité tombe, mais le refus du crédit d’impôt n’est pas touché.
+Ainsi, je dois décider, quel que soit le cas, si le crédit d’impôt demandé par M. van der Steen a été refusé à bon droit et si, vu le sous­alinéa 152(4)a)(i) de la LIR, l’avis de nouvelle cotisation du 26 mars 2009 a convenablement été produit par l’ARC.
+[26] Du point de vue de la procédure, si l’avis de nouvelle cotisation du 26 mars 2009 constituait une nouvelle cotisation, la présente instance porte sur un appel interjeté de la nouvelle cotisation constituée par cet avis de nouvelle cotisation. Si l’appelant obtient gain de cause et que la nouvelle cotisation de 2009 est annulée aux termes du sous­alinéa 152(4)a)(i) de la LIR, la nouvelle cotisation de 2008 sera rétablie, et la présente instance portera aussi sur un appel interjeté de la nouvelle cotisation de 2008 [26] . Si l’avis de nouvelle cotisation du 26 mars 2009 constituait une cotisation supplémentaire, la présente instance porte sur un appel interjeté de la nouvelle cotisation de 2008 et de la cotisation supplémentaire respectivement.
+E. Témoignage de Leonard Cappe
+[27] M. Cappe a longtemps préparé les états financiers de la société de personnes dont faisait partie M. van der Steen en 2004. Il préparait également les déclarations de revenu des particuliers membres de la société. C’est ainsi que M. van der Steen et ses deux partenaires ont rencontré l’intéressé dans les premiers mois de 2005 pour examiner et arrêter les états financiers de la société, s’entendre sur la ventilation de son revenu et amorcer la préparation des déclarations de revenu des particuliers de 2004 pour les divers associés. À l’époque, M. van der Steen a informé M. Cappe du paiement de 65 000 $ à la CLES et lui en a remis le reçu officiel. Il n’a pas discuté du paiement avec lui sauf pour l’aviser de l’opération. M. Cappe a été étonné d’apprendre qu’il avait versé 65 000 $ à la CLES.
+[28] Lors de son interrogatoire direct, M. Cappe a dit que, en 2005, l’ARC avait demandé qu’on lui fasse parvenir les reçus officiels des dons de bienfaisance de M. van der Steen en 2004, ce qu’il fit. Ces reçus avaient ensuite été rendus par l’ARC à M. Cappe sans qu’aucune mesure soit prise par l’Agence.
+[29] Un an ou deux après, l’ARC a à nouveau demandé que M. Cappe lui fasse parvenir les reçus officiels de 2004, ce qu’a fait celui­ci. Une fois de plus, les reçus ont été dûment rendus par l’ARC à M. Cappe sans qu’aucune mesure officielle soit prise par elle.
+[30] En février 2007, l’ARC a envoyé une lettre à M. Cappe afin de lui demander une troisième fois les reçus officiels de M. van der Steen pour 2004. Celui­ci les a envoyés et l’Agence a fini par les conserver et par refuser les crédits d’impôt demandés par M. van der Steen à l’égard du paiement de 65 000 $.
+[31] M. Cappe a témoigné que le reçu officiel délivré par la CLES à M. van der Steen pour le paiement de 65 000 $ paraissait acceptable. Il a aussi déposé qu’il n’était au courant d’aucun revenu non déclaré pour l’année d’imposition 2004 de l’intéressé et qu’il n’avait pas non plus relevé d’indices de présentation erronée des faits dans cette déclaration de revenus. Il s’est dit étonné d’apprendre que l’ARC avait finalement imposé une pénalité en application du paragraphe 163(2) de la LIR.
+F. Témoignage de Lakhwinder Saran
+[32] L’avocat de la Couronne a cité à témoigner Lakhwinder Saran à titre de témoin de faits semblables au motif que lui aussi avait fait de prétendus dons à la CLES et avait fait l’objet d’une nouvelle cotisation de l’ARC lui refusant les dons en question [27] . M. Saran a témoigné que, en ou vers 2003, il a assisté à un séminaire où Steve Reynolds a pris la parole et que le programme de dons de la CLES lui a été expliqué à lui et aux autres gens présents. Il a été dit aux participants que, s’ils consentaient à faire des dons à la CLES, des bienfaiteurs étrangers altruistes feraient en sorte que leur soient offertes certaines sommes en fiducie qui ne dépasseraient pas la moitié des montants respectifs des dons (ou pourraient être bien moindres) [28] . Ils se sont vu offrir des possibilités de placement à l’étranger en ce qui concerne les distributions qu’organiseraient les bienfaiteurs. M. Saran a également témoigné que tout leur avait été expliqué comme étant tout à fait convenable et transparent (quoiqu’une partie importante des dons respectifs des participants leur serait pour l’essentiel rendue par des voies détournées) et que les fonds seraient distribués en donation non-imposable, et ne devaient pas être inclus dans le revenu. Après avoir assisté au séminaire, M. Saran a fait des dons à la CLES pendant trois ans, apportant de 35 000 $ à 40 000 $ chaque année [29] .
+[33] M. Saran a dit avoir aussi placé 10 000 $ avec M. Reynolds dans un compte d’or à l’étranger exploité par Crowne Gold Inc. (« Crowne Gold »). Il a précisé que ce placement avait pris la forme d’un paiement en espèces qui n’était pas un don de bienfaisance. M. Saran avait reçu des relevés périodiques du rendement de ce placement. Les relevés lui parvenaient par courriel. Il n’en recevait jamais sur papier.
+[34] M. Saran ne pouvait se rappeler si elle avait ou non, reçu des relevés périodiques concernant le prétendu placement des fonds donnés qui devaient lui être rendus. En fait, il a déclaré que ces fonds ne lui avaient jamais été rendus. Il ne pouvait se remémorer avoir reçu des relevés factices indiquant qu’un compte en son nom avait été crédité des sommes en question. En d’autres termes, M. Saran ne pouvait se rappeler si les relevés périodiques se rattachaient seulement à son placement de 10 000 $ dans le compte d’or à l’étranger ou également au prétendu placement de fonds devant lui avoir été rendus.
+[35] J’ai eu l’impression que la situation de M. Saran était différente de celle de M. van der Steen. Le premier avait assisté à un séminaire donné par M. Reynolds et d’autres. M. van der Steen n’avait assisté à aucun séminaire de ce genre. En plus de faire des dons à la CLES, M. Saran avait placé des fonds avec M. Reynolds dans un compte d’or offshore. Quant à M. van der Steen, il avait fait uniquement un paiement de 65 000 $ à la CLES sans mettre de l’argent dans un compte d’or offshore.
+[36] Ayant à me prononcer, dans le cadre d’une requête interlocutoire, sur la recevabilité du témoignage de M. Saran, j’ai conclu :
+a) son témoignage est admissible, mais seulement afin d’établir l’état des affaires ou le contexte (notamment l’existence, le fonctionnement, la portée, l’étendue et la durée de l’arrangement de paiement) dans lequel des paiements ont été faits à la CLES par M. Saran et d’autres donateurs dans des circonstances semblables;
+b) le témoignage de M. Saran n’est ni pertinent ni admissible afin d’établir, directement ou indirectement, que M. van der Steen a fait un paiement à la CLES dans des circonstances semblables à celles de M. Saran;
+c) le témoignage de M. Saran doit se voir accorder, le cas échéant, le poids indiqué, vu que les circonstances des paiements de l’intéressé à la CLES ne correspondaient pas nécessairement à celles du paiement correspondant de M. van der Steen [30] .
+[37] Après avoir examiné la transcription du témoignage de M. Saran, je conclus que très peu de poids devait être conféré à sa déposition. Il a déclaré que la CLES [traduction] « avait un stratagème qui n’a pas été expliqué » ou que lui­même [traduction] « n’avait pas compris » [31] . Il illustre ce manque de compréhension une affirmation qu’il a faite en réponse à une question sur un don de 40 000 $ qu’il avait consenti à la CLES. Il a dit comprendre que le gros du montant ainsi donné était censé servir à l’achat de matériel éducatif qui serait distribué, mais en ajoutant dans sa réponse que la somme devait être placée en majeure partie dans MEI (abréviation employée par M. Saran pour désigner un fonds d’investissement lié à M. Reynolds) [32] . Il faut aussi dire, comme je l’ai fait remarquer, que les circonstances de M. Saran étaient différentes de celles de M. van der Steen.
+G. Témoignage de Shellen Leung (en interrogatoire direct)
+[38] Shellen Leung est la vérificatrice qui a mené à terme la vérification de Prime Packaging Ltd. (« Prime ») et d’autres entités appartenant à M. Thill ou contrôlées par lui. La vérification avait été entreprise par Shawn Mapoles pour être reprise par Mme Leung. Après la vérification de Prime, celle­ci avait commencé à vérifier tous les donateurs de la CLES, dont M. van der Steen.
+[39] Dans son témoignage, elle a expliqué la manière dont avaient été formulées les diverses versions du programme de dons Prime/CLES. Il y avait eu trois de ces versions appelées stratagèmes I, II et III par l’ARC.
+[40] Dans le premier de ces stratagèmes, les contributeurs versaient de l’argent à Prime pour acquérir des cours de lecture avancés (« les cours de lecture avancés »). Prime leur remettait un reçu pour le montant versé. Au nom de ces mêmes contributeurs, elle faisait ensuite don des cours à diverses écoles secondaires qui, à leur tour, envoyaient des lettres de remerciements aux contributeurs. Ces lettres semblaient toutes d’une même teneur et avaient vraisemblablement été rédigées par M. Thill. Les contributeurs assimilaient ces lettres à des reçus de don de bienfaisance.
+[41] Lorsque ces mêmes lettres (qui n’étaient pas des reçus officiels et ne renfermaient pas les renseignements prescrits par le paragraphe 3501(1) du RIR) ont été produites avec les déclarations de revenus des contributeurs, l’ARC a évidemment refusé les crédits d’impôt pour don de bienfaisance.
+[42] Pour se donner de meilleures chances de succès fiscal, M. Thill est passé au stratagème II avec un organisme de bienfaisance enregistré bien réel, la CLES, dont l’enregistrement avait pris effet le 1er juillet 2003. Selon ce stratagème, le donateur faisait un don à la CLES qui employait ensuite l’argent pour acheter un cours de lecture avancé à Prime. La CLES remettait un reçu officiel au donateur qui le produisait avec sa déclaration de revenus. Comme il y avait eu cession du droit d’auteur sur les cours de lecture avancés du passé, Prime versait, sur chaque cours vendu par elle à la CLES, une redevance à Gemini Ventures Inc. (« Gemini »), société constituée aux îles Turks et Caicos [33] .
+[43] Mme Leung a témoigné que les donateurs qui participaient au stratagème I et/ou au stratagème II se voyaient offrir diverses possibilités de recouvrer une partie du montant du don par des voies détournées; voir à ce sujet les indications des annexes D(a) à D(e) de la réponse du ministère public et de sa réponse modifiée. Mme Leung a passé beaucoup de temps à expliquer à la Cour comment fonctionnaient ces différents arrangements par la bande. Elle a employé le mot « ristourne » en parlant des fonds qui passaient par des voies détournées d’un donateur à la CLES, à Prime et à Gemini en direction d’un intermédiaire et qui revenaient au donateur ou à son prête­nom. Voici certains de ces arrangements détournés :
+a) Dans certains cas, Humber Financial Corporation (« Humber ») prêtait à un éventuel donateur de 70 % à 75 % du montant que celui­ci avait l’intention de donner à la CLES [34] . Avec l’argent emprunté et l’argent propre du donateur (à hauteur de 25 % à 30 % du don prévu), ce dernier faisait un don à la CLES qui se servait ensuite de l’argent versé pour acheter un cours de lecture avancé à Prime. Prime y allait ensuite d’une redevance importante à Gemini, laquelle faisait un paiement (de 70 % à 75 % du montant du don) à une autre entité (appelée « société mandataire » par l’ARC). À son tour, Gemini versait à Humber le montant correspondant au prêt de Humber au donateur éventuel. Par la suite, Humber renonçait à se faire rembourser son prêt par le donateur.
+b) Dans d’autres cas, les premières étapes étaient les mêmes que celles que nous venons d’exposer, mais au lieu de faire un paiement à Humber, la société mandataire en faisait un au donateur pour 70 % à 75 % du montant du don, après quoi ce même donateur se servait de l’argent pour rembourser le prêt de Humber.
+c) Dans d’autres cas, les fonds circulaient comme au sous­paragraphe b), mais les instructions données à la société mandataire pour que le paiement soit fait au donateur venaient de la Hastings Literacy Foundation (« Hastings »), qui aurait été une fiducie établie par Gemini ou peut­être par M. Thill et qui prétendait être une société philanthropique étrangère se proposant notamment d’accorder des dons en espèces à des parties appuyant l’alphabétisation au Canada et dans d’autres pays [35] .
+d) Dans d’autres cas, un donateur éventuel utilisait ses propres fonds, plutôt que d’emprunter à Humber, pour faire tout le don à la CLES. Celle­ci se servait de l’argent du don pour acheter un cours de lecture avancé à Prime. Prime versait une redevance à Gemini qui, à son tour, payait une somme qui était de 70 % à 75 % du montant donné à une entité étrangère (comme une société commerciale internationale, aussi appelée « IBC ») ou à un compte étranger (comme une carte de crédit internationale) désigné par le donateur.
+e) Dans d’autres cas enfin, l’arrangement était semblable à celui que décrit le sous­paragraphe d) sauf que Gemini versait la ristourne de 70 % à 75 % à une entité canadienne (plutôt qu’à une entité étrangère) désignée par le donateur.
+Les sous­paragraphes d) et e) ci­dessus décrivent la manière de structurer l’arrangement selon ce qui a été dit à beaucoup de donateurs. Je crois comprendre que, au fil des événements, Gemini n’a jamais versé d’argent à l’entité ou au compte (extérieur ou intérieur) désigné par le donateur.
+[44] Il y a eu un stratagème III consistant en reçus gonflés plutôt qu’en ristournes, mais il ne concerne pas le présent appel. Dans ce cas, la personne qui assistait à un séminaire promotionnel recevait un chèque­cadeau d’un montant de 4 500 $ (en 2005) ou de 5 000 $ (en 2006), et ce, seulement pour assister au séminaire. Elle recevait en plus un chèque­cadeau d’un montant de 4 500 $ (en 2005) ou de 5 000 $ (en 2006) si elle faisait elle­même un paiement de 1 000 $ (en 2005) ou de 1 500 $ (en 2006). Les divers chèques­cadeaux pouvaient uniquement servir à faire des dons à la CLES. S’il faisait don d’un chèque­cadeau à la CLES, le donateur recevait un prétendu reçu officiel d’un montant correspondant au montant que portait le chèque­cadeau. La CLES faisait ensuite parvenir les chèques­cadeaux reçus en don à la Saskan Foundation (« Saskan ») [36] , censément pour règlement avec la CLES.
+[45] L’ARC soutient que M. van der Steen a participé au stratagème II, mais elle n’a jamais produit quelque élément de preuve de sa participation à une des cinq variantes de ce stratagème que ce soit. Comme nous l’avons souligné, M. van der Steen affirme qu’il ignorait tout des arrangements et des ristournes décrites et qu’il a simplement fait un paiement de 65 000 $ à la CLES sans recevoir ni s’attendre à recevoir en retour quoi que ce soit d’autre qu’un reçu officiel.
+IV. ANALYSE
+A. Refus du crédit d’impôt
+[46] Comme il a été signalé, l’ARC a refusé le crédit d’impôt demandé par M. van der Steen à l’égard de son paiement de 65 000 $ à la CLES en 2004. S’il avait reçu ou s’était attendu à recevoir une ristourne, il n’aurait pas eu d’intention libérale et son prétendu don aurait été annulé.
+[47] M. van der Steen a témoigné que, lorsqu’il a fait son paiement de 65 000 $ à la CLES, il ne s’attendait pas à recevoir, et n’a d’ailleurs pas reçu, de ristourne ou autre avantage en raison du paiement.
+(1) Jurisprudence
+[48] M. van der Steen s’appuie sur les observations suivantes du juge en chef adjoint Bowman (comme il l’était à l’époque) faites à l’occasion de l’affaire Klotz :
+22. Une chose est claire, quoique ce ne soit pas probablement pas pertinent aux fins qui nous occupent : c’était purement l’avantage fiscal espéré qui amenait M. Klotz à participer à ce programme […]
+25. Il est inutile de parler plus longuement du donateur. M. Klotz a fait un don en masse de gravures à tirage limité à la FSU. Il n’a pas vu ces gravures et il ne les a pas eues en sa possession. Ce qu’étaient ces gravures, à qui elles étaient destinées ou ce que l’on en faisait lui importait peu. Il cherchait uniquement à obtenir un reçu pour don de bienfaisance. Rien de tout cela n’est ici pertinent. Le fait d’avoir une âme charitable n’est pas une condition de l’obtention d’un crédit d’impôt pour don de bienfaisance. Les gens font des dons de bienfaisance pour bien des raisons : à des fins fiscales, commerciales, par vanité, pour des motifs d’ordre religieux, à cause de pressions sociales. Aucun motif en soi ne vicie les conséquences fiscales d’un don de bienfaisance.
+55. Dans la décision Aikman, précitée [[2000] 2 CTC 221, confirmée 2002 DTC 6874], j’ai dit ce qui suit :
+L’intention ou l’espoir d’obtenir un avantage fiscal n’entache pas de nullité le don de bienfaisance [37] .
+[49] La définition qui fait autorité [38] aux fins de la LIR du mot « don » est consacrée par la jurisprudence Friedberg :
+[…[ un don est le transfert volontaire du bien d’un donateur à un donataire, en échange duquel le donateur ne reçoit pas d’avantage ni de contrepartie […] [39]
+Les éléments de cette définition traduisent l’idée générale que le contribuable qui désire faire un don de bienfaisance doit avoir une intention libérale en ce qui concerne le transfert du bien à l’organisme de bienfaisance [40] .
+[50] Une première description de l’intention caritative a été consacrée par la jurisprudence Burns :
+[traduction] J’aimerais souligner qu’un élément essentiel du don est l’élément intentionnel que le droit romain appelle animus donandi ou intention libérale […] Le donateur doit savoir qu’il ne recevra de contrepartie autre qu’un pur avantage moral; il doit être prêt à s’appauvrir au bénéfice du donataire sans recevoir une telle contrepartie [41] . [en italique dans l’original.]
+[51] Le juge Bowie a observé quant à la notion d’intention libérale à l’occasion de l’affaireWebb :
+Ce cas et les autres du genre [Friedberg et autres] indiquent clairement que, pour qu’un montant soit considéré comme un don fait à un organisme de bienfaisance, il doit être versé sans qu’il n’y ait d’avantage ou de contrepartie directs ou indirects pour le donateur, et sans qu’il n’y ait d’attente d’avantage ou de contrepartie. En d’autres mots, l’intention du donateur doit être entièrement libérale [42] . [Je souligne.]
+À l’occasion de l’affaire McPherson, le juge Little a observé :
+Il y a un élément d’appauvrissement qui doit entrer en ligne de compte pour qu’une opération soit qualifiée de don. Qu’il s’exprime en termes d’animus donandi, d’intention caritative ou d’absence de contrepartie, l’élément de base demeure le même [43] . [en italique et en soulignement dans l’original.]
+[52] En ce qui concerne l’intention caritative, la Cour d’appel fédérale (ou son prédécesseur, la Cour fédérale du Canada – Section d’appel), a observé :
+a) Le donateur éventuel doit opérer « un transfert volontaire […] d’une personne à une autre à titre gratuit […] sans attente ou espoir d’un avantage matériel en contrepartie » [44] .
+b) On doit faire un don « sans s’attendre à quoi que ce soit en échange » [45] .
+c) « […] M. Maréchaux n’avait pas fait de don […] parce qu’il avait versé une somme d’argent à une fondation de bienfaisance en s’attendant à recevoir en contrepartie un « avantage important » [46] . »
+d) Le donateur éventuel qui n’a pas l’intention de s’appauvrir ne manifeste pas l’intention caritative nécessaire aux fins de l’article 118.1 de la LIR [47] .
+Ainsi, il est nécessaire de rechercher si M. van der Steen avait l’intention caritative nécessaire, c’est­à­dire s’il a fait le paiement de 65 000 $ à la CLES avec l’intention de s’appauvrir dans toute la mesure de ce paiement, ou s’il s’attendait à recevoir, directement ou indirectement, une ristourne ou autre avantage.
+[53] Pour déterminer en l’espèce cette intention caritative, je dois faire plus que tenir compte des observations verbales qu’il a faites au sujet de son intention. En ce qui concerne la preuve de l’objet ou de l’intention, le juge Iacobucci a observé à l’occasion de l’affaire Symes :
+Comme dans d’autres domaines du droit, lorsqu’il faut établir l’objet ou l’intention des actes, on ne doit pas supposer que les tribunaux se fonderont seulement, en répondant à cette question, sur les déclarations du contribuable, ex post facto ou autrement, quant à l’objet subjectif d’une dépense donnée. Ils examineront plutôt comment l’objet se manifeste objectivement, et l’objet est en définitive une question de fait à trancher en tenant compte de toutes les circonstances [48] .
+[54] Dans sa discussion de [traduction] « la double exigence d’un transfert gratuit du bien et d’une intention caritative » [49] à l’occasion de l’affaire Cassan, le juge Owen a observé :
+[traduction] 270. […] pour que le transfert d’un bien constitue un don, son auteur doit manifester l’intention caritative nécessaire […]
+271. Pour qu’il y ait don, l’auteur du transfert doit objectivement transférer le bien à titre gracieux et subjectivement avoir l’intention d’opérer un transfert à titre gratuit [50] .
+[55] L’exigence de l’absence d’avantage dans le cadre d’un don a été modifiée en 2013 (entrée en vigueur le 21 décembre 2002) dans la LIR où, pour l’essentiel, il est disposé « que, dans certaines circonstances, le fait qu’un transfert de bien donne lieu à un montant d’un avantage ne suffit en soi à rendre le transfert inadmissible à titre de don » [51] . Selon les règles consacrées par les paragraphes 248(30) à (32) de la LIR, « [l]e fait qu’un transfert de biens donne lieu à un montant d’un avantage ne suffit en soi à rendre le transfert inadmissible à titre de don à un donataire reconnu si, selon le cas : a) le montant de l’avantage n’excède pas 80 % de la juste valeur marchande du bien transféré ». Ce genre de cas est ce qu’on appelle parfois un « don pour une partie de la valeur », ce qui pourrait se révéler applicable dans le cas de M. van der Steen s’il a reçu ou avait l’intention de recevoir la ristourne de 70 à 75 % selon la supposition du ministre. Cependant, nulle partie n’a soutenu qu’il y avait eu don pour une partie de la valeur ni que les paragraphes 248(30) à (32) jouaient. La Couronne a pour position que la prétendue ristourne entachait de nullité le don entier, alors que M. van der Steen a pour position qu’il n’a ni reçu ni eu l’intention de recevoir quelque avantage que ce soit, dont la présumée ristourne. Ainsi, comme nulle partie n’a soutenu que les paragraphes 248(30) à (32) jouaient dans le présent appel, je ne me pencherai pas sur ces dispositions.
+(2) Hypothèses du ministre et fardeau de la preuve du contribuable
+[56] Lorsque le ministre, représenté par l’ARC, établit une cotisation ou une nouvelle cotisation pour un contribuable, il pose généralement des hypothèses de fait pour l’étayer. Le contribuable a le fardeau de prouver, selon la prépondérance des probabilités, les faits nécessaires s’il veut réfuter les hypothèses du ministre [52] .
+[57] Dans certains cas, il est clair que la partie ayant le fardeau de la preuve ne s’en est pas acquittée. Dans d’autres, la preuve sera partagée plus également, auquel cas le principe consacré par le Conseil privé à l’occasion de l’affaire Robins c. National Trust pourrait jouer :
+[traduction]
+Le critère du fardeau de la preuve comme facteur déterminant dans l’ensemble d’une affaire peut seulement se présenter si le tribunal juge que la preuve favorable et défavorable est partagée si également qu’il ne peut en venir à une conclusion sûre, auquel cas le critère du fardeau de la preuve permettra de trancher [53] .
+[58] Au moins trois des hypothèses de fait du ministre ont porté sur l’intention caritative :
+[traduction]
+ll) si l’appelant [M. van der Steen] a versé des espèces dans sa participation au stratagème II, tout décaissement n’a pas été de plus de 30 % du prétendu don, mais l’appelant a demandé un crédit d’impôt pour l’intégralité du don en question […]
+mm) l’appelant a été informé par les promoteurs ou leurs mandataires que le rendement attendu [défini comme des espèces, un don dirigé, un placement dans une société non résidente ou le repaiement d’un prêt consenti par Humber] ne serait pas de moins de 70 % des dons en question;
+nn) l’intention de l’appelant dans sa participation au stratagème II n’était pas de faire des dons de bienfaisance, mais d’obtenir des crédits d’impôt sur don pour plus que toute somme tirée de sa poche [54] .
+Dans les hypothèses qui précèdent, on ne trouve pas l’expression « intention caritative », mais il est supposé implicitement que M. van der Steen n’avait pas cette intention et ne voulait pas non plus s’appauvrir dans toute la mesure de son don de 65 000 $.
+[59] Pour juger si M. van der Steen a réfuté les hypothèses déjà citées (ayant prouvé, en d’autres termes, qu’il avait l’intention libérale nécessaire), je prends pour guide l’observation suivante du juge Lyons que l’on trouve dans les décisions Jensen et Goheen :
+Pour faire la preuve de l’intention de faire un don, un donateur doit être conscient au moment de faire le don qu’il ne recevra aucune contrepartie en dehors d’un avantage purement moral et doit avoir voulu s’appauvrir du don de telle sorte que le donateur ne tire aucun avantage de l’appauvrissement [55] .
+(3) Observations concernant le témoignage de M. van der Steen
+[60] Au cours d’une discussion préliminaire en début d’audience, l’avocat de M. van der Steen a dit se soucier de la difficulté qu’il aurait à essayer de prouver un élément négatif, à savoir que celui­ci n’avait pas participé au stratagème II. Il a signalé que M. van der Steen ne pouvait guère faire autre chose que nier cette participation. C’est pourquoi M. van der Steen y est allé de dénégations vigoureuses à mesure qu’avançait l’audience :
+a) il n’avait pas connaissance en 2004 du stratagème II ni de tout autre programme de dons de bienfaisance;
+b) il n’avait pas connaissance de quiconque faisant la promotion d’un tel programme;
+c) il ne recevait ni observations ni renseignements d’un tel promoteur à propos du stratagème II ni de tout autre programme de dons de bienfaisance;
+d) il ne prévoyait ni n’attendait quelque don, prêt ou avantage que ce soit à la suite de son paiement à la CLES.
+[61] Lorsque j’ai examiné les circonstances du paiement de 65 000 $ de M. van der Steen à la CLES, un certain nombre de facteurs m’ont amené à rechercher si le témoignage de l’intéressé suffisait à établir, selon la prépondérance des probabilités, qu’il avait l’intention de s’appauvrir dans toute la mesure de son don de 65 000 $ :
+a) Au cours de son témoignage, M. van der Steen a été prié de préciser pourquoi, avant d’avoir même parlé à M. Gomes, il avait décidé de retirer de l’argent de son REER. Il a expliqué être parvenu à la conclusion qu’il exercerait la profession d’avocat toute sa vie, si bien qu’il n’aurait jamais de période où son taux marginal d’imposition diminuerait, d’où le peu de logique d’épargner dans son REER pour la retraite. En 2004 donc, il avait jugé avantageux de retirer de l’argent de son REER avant la retraite. Il reste que, plusieurs années après 2004 (en 2007, 2008, 2009, 2012 et 2014), M. van der Steen a cotisé à son REER, y apportant notamment des sommes de 29 908 $ en 2007 et de 21 909 $ en 2008 [56] .
+b) M. van der Steen semble appuyer vite sur la détente quant à certaines de ses dénégations. En contre­interrogatoire par exemple, il a nié savoir que M. Reynolds était un représentant de Natural Corporation Inc. (« NCI »), jusqu’à ce que l’avocat de la Couronne lui signale qu’il avait effectivement déclaré, au paragraphe 11 de sa réponse (qu’il semble avoir rédigée personnellement en 2013 avant de retenir les services d’un avocat), que M. Gomes lui avait présenté un représentant de NCI [57] . J’ai eu l’impression que M. van der Steen s’était avisé, avant le début de son contre­interrogatoire, de simplement nier toutes les hypothèses et les allégations défavorables de la part du ministre.
+c) Son père luttait contre le cancer depuis le milieu des années 1990 [58] . Toutefois, ses contributions de bienfaisance à la Société canadienne du cancer étaient relativement modestes. En 2004, année où il avait versé 65 000 $ à la CLES, il avait fait don de 20 $ à cette société.
+d) Son paiement de 65 000 $ à la CLES en 2004 jurait avec ses dons antérieurs ou postérieurs [59] . Autre fait significatif, il n’avait jamais fait de grand don de bienfaisance avant 2004 et il ne l’a pas fait non plus entre 2005 et 2014 [60] .
+[62] Il est fort possible qu’il ait eu l’intention de donner 65 000 $ à la CLES sans attendre de ristourne ni autre avantage en contrepartie. Ayant à l’esprit les enseignements professés par la Cour suprême du Canada à l’occasion de l’affaire Symes [61] et ayant considéré les circonstances résumées plus haut, je suis d’avis que M. van der Steen n’a pas réussi à prouver, selon la prépondérance des probabilités, qu’il ne s’attendait pas à recevoir une ristourne et qu’il avait l’intention de s’appauvrir dans toute la mesure des 65 000 $ versés. Soyons clairs, je n’insinue pas qu’il a sciemment ou par négligence menti dans son témoignage. Je dis simplement qu’il ne s’est pas acquitté de son fardeau de la preuve. J’en conclus donc que M. van der Steen n’a pas démontré avoir l’intention libérale voulue en ce qui concerne ce prétendu don de 65 000 $ à la CLES.
+B. Reçu officiel
+[63] L’alinéa 118.1(2)a) de la LIR dispose que le montant admissible d’un don n’est pas inclus dans le total des dons de bienfaisance au contribuable si le versement du don n’est pas attesté par la présentation au ministre d’un reçu contenant les renseignements prescrits. L’article 3500 du Règlement de l’impôt sur le revenu vise le « reçu officiel ». L’article 3501(1) du RIR énumère les renseignements que doit renfermer le reçu officiel.
+[64] La jurisprudence enseigne que toute l’information prescrite doit figurer sur le reçu officiel [62] . Dans le cas du don en espèces (par opposition au don en nature) en particulier, le montant donné doit figurer sur le reçu officiel [63] .
+[65] Lorsque la Couronne a déposé sa réponse modifiée, une des modifications en question soulevait une nouvelle question, celle de savoir [traduction] « si le reçu de don de bienfaisance contient tous les renseignements réglementaires » [64] . Toutefois, la réponse modifiée expose nulle hypothèse de fait du ministre relativement à la teneur (ou à l’information marquante) du reçu officiel remis par la CLES à M. van der Steen.
+[66] Dans les observations écrites déposées par la Couronne après que l’audition de l’appel se fut conclue, la seule plainte formulée par la Couronne au sujet du contenu du reçu officiel produit par la CLES à l’intention de M. van der Steen était que le document ne faisait pas état du montant correct du prétendu don, puisque le reçu portait un montant de 65 000 $, mais que, selon la thèse de la Couronne, M. van der Steen avait prévu une ristourne, s’attendait à ce qu’une grande partie de celle­ci soit placée en son nom et pensait qu’il récupérerait finalement la partie placée avec un rendement sur cet investissement [65] .
+[67] Ainsi, la solution de la question du contenu du reçu officiel coïncide avec la solution de la question de l’intention libérale. Comme j’ai déjà conclu que M. van der Steen n’avait pas prouvé, selon la prépondérance des probabilités, avoir voulu faire un don, je ne discuterai donc plus en détail de la question du contenu du reçu officiel.
+C. Imposition d’une pénalité après la période normale de nouvelle cotisation
+[68] Suivant l’approche consacrée par la juge Campbell par la décision Bondfield [66] et comme les éléments de preuve relatifs aux exigences du sous­alinéa 152(4)a)(i) et du paragraphe 163(2) de la LIR tendent à se chevaucher, je vais examiner ces questions ensemble.
+(1) Sous­alinéa 152(4)a)(i)
+[69] Le sous­alinéa 152(4)a)(i) de la LIR dispose que le ministre peut établir une nouvelle cotisation avec intérêts ou pénalités pour une année d’imposition après l’expiration de la période normale de nouvelle cotisation si le contribuable a fait une présentation erronée des faits par négligence, inattention ou omission volontaire ou a commis une fraude en produisant la déclaration de revenus de l’année. Il incombe au Ministère de prouver cette présentation erronée des faits imputable à la négligence, à l’inattention, à l’omission volontaire ou à la fraude [67] .
+(2) Paragraphe 163(2)
+[70] Le paragraphe 163(2) de la LIR dispose que le contribuable encourt une pénalité si, sciemment ou dans des circonstances équivalant à une faute lourde, il a fait une présentation erronée des faits ou commis une omission dans une déclaration, notamment dans une déclaration T1 de revenu des particuliers. Il incombe au ministre d’établir les faits nécessaires à l’imposition de la pénalité prévue par le paragraphe 163(2) [68] .
+[71] L’ARC a imposé une telle pénalité à M. van der Steen au motif qu’il avait fait une présentation erronée des faits dans sa déclaration de revenus de 2004 en demandant un crédit d’impôt pour don de bienfaisance relativement au montant entier de son paiement de 65 000 $ à la CLES, alors qu’il est allégué qu’il savait, avant de faire le paiement, qu’il recevrait une ristourne.
+[72] La nature de la conduite d’un contribuable qui appelle le réexamen de la cotisation d’une année frappée de prescription aux termes du sous­alinéa 152(4)a)(i) de la LIR n’appelle pas nécessairement l’imposition de la pénalité prévue par le paragraphe 163(2) de la Loi [69] . À cet égard, le juge Strayer a observé à l’occasion de l’affaire Venne :
+[traduction] Il est à noter que, pour que la pénalité [en vertu du paragraphe 163(2)] s’applique, il faut que le degré de culpabilité soit plus élevé, que la chose se soit faite sciemment ou par faute lourde, qu’il ne peut l’être dans l’application du paragraphe 152(4) pour le réexamen de cotisations qui remontent à plus de quatre [aujourd’hui trois] ans où la simple négligence semble suffisante [70] .
+(3) Hypothèses et fardeau de la preuve
+[73] En expliquant le fardeau de la preuve de la Couronne aux termes du sous­alinéa 152(4)a)(i) et du paragraphe 163(2) de la LIR, la Cour d’appel fédérale a observé :
+Bien que le ministre bénéficie des présomptions de fait qui sous­tendent la nouvelle cotisation, il ne jouit d’aucun avantage semblable pour ce qui est de la preuve des faits justifiant l’établissement d’une nouvelle cotisation hors de la période statutaire, ou encore des faits justifiant l’imposition d’une pénalité en raison de l’inconduite du contribuable dans la production de sa déclaration de revenu. Le ministre est indéniablement dans l’obligation de mettre en preuve les faits justifiant l’invocation de ces mesures exceptionnelles [71] .
+[74] Lorsqu’elle a discuté l’impact du paragraphe 163(3) de la LIR, la juge Lamarre Proulx a observé :
+[traduction]
+En substance, le paragraphe 163(3) exige la preuve de l’intention ou de la faute lourde du contrevenant. À mes yeux, cette preuve doit se faire d’une manière structurée, claire et probante. Je ne puis conclure que la preuve était suffisante à cet égard et, par conséquent, les pénalités ne peuvent être maintenues [72] .
+(4) Jurisprudence
+[75] À l’occasion de l’affaire Melman, la Cour d’appel fédérale a observé que le critère correct juridique permettant d’établir la faute lourde consiste à déterminer s’il y avait eu « négligence plus grave qu’un défaut de prudence raisonnable » [73] . Peu après, la Cour d’appel fédérale a, observé à l’occasion de l’affaire Wynter :
+18. La faute lourde [...] se manifeste lorsque la conduite d’un contribuable se situe considérablement en deçà de la conduite à laquelle on est en droit de s’attendre de la part d’un contribuable raisonnable [...]
+19. La faute lourde nécessite un plus haut degré de négligence que la simple absence de diligence raisonnable. Elle correspond à un écart marqué ou important par rapport à la conduite à laquelle on est en droit de s’attendre. Elle va au­delà de l’inattention ou des fausses déclarations. Ce point est expliqué dans le jugement de la Cour dans Zsoldos c. Canada (Procureur général), 2004 CAF 338, au paragraphe 21, 2004 D.T.C. 6672 :
+Lorsqu’il détermine les pénalités pour faute lourde, le ministre doit prouver l’existence d’un degré important de négligence qui correspond à une action délibérée, une indifférence au respect de la loi. (Voir Venne c. Sa Majesté La Reine (1984), A.C.F. no 314, 84 D.T.C. 6247, p. 6256 (CF 1re inst.) [74] .
+[76] La jurisprudence reconnait depuis longtemps l’importance de faire preuve de prudence en matière d’interprétation d’une disposition pénale dans la législation fiscale. En 1969, le juge Cattanach a observé à l’occasion de l’affaire Udell :
+[traduction]
+Je crois qu’on a là une règle claire d’interprétation quand, au moment d’imposer […] une pénalité, s’il existe un doute justifiable et raisonnable, la loi doit être interprétée de manière à accorder le bénéfice du doute à la partie qu’on cherche ainsi à sanctionner [75] .
+[77] À l’occasion de l’affaire Venne, le juge Strayer a observé :
+[traduction]
+[…] une disposition pénale […] doit faire l’objet d’une interprétation restrictive telle que, s’il existe une interprétation raisonnable permettant d’éviter la pénalité dans une affaire, celle­ci doit être retenue […]
+On doit considérer que la « faute lourde » est plus grave que le défaut de faire preuve de diligence raisonnable. Il faut un degré de négligence élevé qui équivaut à une action délibérée, une indifférence au respect et la loi […]
+On doit garder à l’esprit, comme le juge Cattanach l’a observé à l’occasion de l’affaire Udell […] qu’il s’agit là d’une disposition pénale et que l’interprétation doit en être stricte. Ce texte ne vise pas à imposer une responsabilité absolue et autorise uniquement l’imposition de pénalités en cas de degré élevé de la faute par action délibérée ou inconduite téméraire […] Comme il incombe au ministre de prouver que la pénalité doit s’appliquer, je conclus que la preuve est ambiguë et conclus de ce fait que la pénalité ne doit pas être appliquée […] [76]
+[78] Dans la décision Lavoie, le juge Archambault a ainsi passé en revue les principes régissant l’imposition de pénalités après avoir cité de nombreuses observations puisées dans la décision Venne :
+Il faut ajouter que le paragraphe 163(2) de la Loi prévoyait à l’égard de l’année d’imposition pertinente dans la décision Venne une pénalité de 25 %. Si une grande prudence est de mise lorsque les juges doivent interpréter une disposition pénale, comme le soutient le juge Cattanach dans la décision Udell citée plus tôt dans le passage tiré de la décision Venne, cela est encore plus vrai et important quand la pénalité s’élève à 50 % [77] !
+[79] Dans cette même décision Lavoie, le juge Archambault a aussi fait observer que, même là où le contribuable a prétendument participé à un stratagème anti­évitement qui est abusif et farfelu, « il faut appliquer avec soin les principes établis par la jurisprudence, notamment la décision Venne, pour déterminer si l’application de la pénalité est justifiée » et que, ensuite, « une analyse méticuleuse des faits établis lors de l’audience doit être faite à la lumière de ces principes » [78] .
+[80] Le juge Hogan a fait remarquer « que la jurisprudence a établi une norme rigoureuse à laquelle le ministre doit satisfaire pour prouver que le comportement du contribuable justifie l’imposition de pénalités pour faute lourde relativement à l’omission du contribuable de déclarer un revenu » [79] .
+[81] L’imposition d’une pénalité pour avoir, sciemment ou dans des circonstances équivalant à une faute lourde, fait une présentation erronée des faits, appelle des preuves claires. Dans la décision 897366 Ontario Ltd., le juge en chef adjoint Bowman (tel était son titre) a observé :
+[traduction]
+L’imposition de pénalités […] exige que l’autorité fiscale fasse un examen sérieux et délibéré de la conduite du contribuable pour établir s’il y a démonstration d’un degré de conduite intentionnelle ou de faute lourde les justifiant […] On ne saurait trop insister sur le fait qu’on ne peut imposer de pénalités […] dans les plus limpides de cas qu’après avoir examiné en détail les preuves [80] .
+Je doute que l’ARC se soit sérieusement et délibérément attachée à la conduite de M. van der Steen au moment de décider de lui imposer une pénalité. Lorsque, par exemple, Mme Leung a décrit le processus par lequel l’ARC avait décidé d’imposer une pénalité à M. van der Steen, elle a dit que l’Agence avait tout simplement traité de la même manière les 700 donateurs des programmes Prime/CLES. Elle n’avait pas tenu compte de M. van der Steen ni de sa situation en particulier lorsqu’elle a décidé d’établir une cotisation en vertu du paragraphe 163(2) de la LIR.
+[82] À la suite de cette observation faite dans la décision 897366, le juge en chef adjoint Bowman a cité un extrait bien connu d’une décision antérieure rendue par lui à l’occasion de l’affaire Farm Business Consultants :
+[traduction]
+Le juge doit faire preuve d’une extrême prudence lorsqu’il sanctionne l’imposition de pénalités en vertu du paragraphe 163(2) [de la LIR] […] On se doit de décourager l’imposition de routine de pénalités par le ministre [...] [A] Le juge doit […] examiner les preuves avec grand soin et rechercher un degré de probabilité plus élevé que pour des allégations moins sérieuses. Ajoutons que, en cas d’imposition de la pénalité prévue par le paragraphe 163(2) […] si la conduite du contribuable s’accorde avec deux hypothèses viables et raisonnables, l’une justifiant la pénalité et l’autre non, le bénéfice du doute doit être accordé à l’intéressé et la pénalité doit être supprimée [81] . [notes de bas de page omises]
+Dans la note 4 en bas de page de la décision Farm Business Consultants, le juge en chef adjoint Bowman a observé :
+[traduction]
+[…] le principe est qu’une pénalité ne peut être imposée que si les preuves le justifient clairement. Si les preuves vont dans le sens du double état d’esprit justifiant la présence d’une pénalité en vertu du paragraphe 163(2) et l’absence de cette pénalité […] ce serait dire que la Couronne ne s’est pas acquittée de son fardeau de la preuve [82] .
+(5) Preuves relatives au retard d’établissement de la pénalité
+[83] Lorsque j’ai apprécié les éléments de preuve présentés par la Couronne à l’appui de l’imposition à M. van der Steen de la pénalité après la période normale de nouvelle cotisation en vertu du paragraphe 163(2) de la LIR, j’ai été frappé par le manque de preuves faisant directement ou expressément référence à lui, en particulier nommément. Voici mes observations au sujet des preuves de la Couronne à l’appui du retard d’établissement de la pénalité :
+a) Mme Leung a dit que l’ARC reconnaît que M. van der Steen a payé 65 000 $ à la CLES et obtenu un reçu officiel du même montant.
+b) En interrogatoire direct, Mme Leung a témoigné pendant environ deux jours. En contre­interrogatoire, elle a passé environ quatre jours à la barre des témoins. Elle a ensuite été contre­interrogée pendant en gros une journée par un avocat de la Couronne. Elle a déposé que, à l’occasion de la vérification de Prime, de la CLES et de ses donateurs, elle a recueilli des milliers de documents de donateurs, de banques, du cabinet de l’avocat de Prime et d’autres entités [83] . Les documents produits en preuve par la Couronne pendant l’interrogatoire principal tiennent dans 4 volumes et 145 onglets [84] . Lorsque Mme Leung a de nouveau été interrogée en réponse à une demande de l’avocat de M. van der Steen, une autre grosse reliure de documents a été produite [85] . Cet avocat a informé la Cour que les documents produits à l’interrogatoire préalable comptaient quelque 5 000 pages. Il est donc évident que l’ARC avait réuni une masse de documents au sujet de la CLES et de ses donateurs. En contre­interrogatoire toutefois, Mme Leung a indiqué que les seuls documents qu’elle avait vus pendant la vérification et où figurait le nom de M. van der Steen étaient les suivants :
+grand livre général de la CLES indiquant M. van der Steen comme donateur;
+liste des donateurs tenue par la CLES et indiquant M. van der Steen comme donateur;
+reçu officiel remis par la CLES à M. van der Steen [86] .
+c) Priée de préciser de quelles preuves l’ARC disposait portant que M. van der Steen avait participé au stratagème II, Mme Leung n’a pu mentionner que ces trois mêmes documents et les faits suivants :
+M. van der Steen avait communiqué avec M. Reynolds avant que les 65 000 $ ne fussent versés à la CLES;
+M. Reynolds avait aiguillé M. van der Steen vers la CLES;
+M. van der Steen avait emprunté de l’argent en partie pour faire le paiement de 65 000 $;
+M. van der Steen avait fait son paiement en espèces (sur traite bancaire à strictement parler);
+M. van der Steen avait obtenu un reçu de la CLES correspondant dollar pour dollar au montant de son paiement;
+M. van der Steen avait demandé un crédit d’impôt pour don dans sa déclaration de revenus;
+M. van der Steen figurait comme donateur sur la liste des donateurs de la CLES;
+les antécédents de dons de M. van der Steen étaient semblables à ceux des autres participants au stratagème II [87] .
+Elle a reconnu que l’ARC ne disposait de nul élément de preuve documentaire direct selon lequel M. van der Steen s’attendait à recevoir une ristourne [88] .
+d) Mme Leung a témoigné en contre­interrogatoire qu’il y avait environ 700 donateurs ayant participé à un ou plusieurs des trois stratagèmes. L’ARC a envoyé des lettres de proposition aux divers participants demandant un crédit d’impôt à l’égard d’un don de leur part à la CLES. En réponse à ces lettres, certains donateurs (mais pas M. van der Steen) ont pris contact avec Mme Leung ou d’autres représentants de l’ARC pour communiquer, à elle ou à ses collègues, les détails de leurs dons et des déclarations que leur avaient tenus les représentants de la CLES. Tous les donateurs qui ont parlé à Mme Leung ou à un autre représentant de l’Agence ont dit s’être vu promettre une ristourne quelconque. Mme Leung estime qu’elle et ses collègues à l’Agence ont eu des entretiens avec une centaine de donateurs sur les 700 [89] . Ayant confirmé que nul de parmi ces cent et quelque donateurs s’attendait à recevoir une ristourne, l’ARC a jugé qu’il en allait de même des 700 donateurs et que les 600 donateurs restants s’attendaient à une ristourne. Comme elle le dit, les 700 donateurs ont eu droit au même marché et au même avantage fiscal [90] . C’est pourquoi des pénalités ont été imposées à tous les donateurs, M. van der Steen y compris.
+e) Mme Leung a indiqué à la Cour qu’un couple marié (que nous appellerons M. et Mme K dans les présents motifs) a sondé diverses possibilités avec un représentant de la CLES, dont une opération consistant à retirer 65 000 $ de son REER et à en faire don à la CLES. Elle a fait remarquer que le retrait de M. et Mme K correspondait en gros au retrait de M. van der Steen. D’après elle, vu que M. et Mme K ont admis s’être fait dire qu’ils recevraient une ristourne à l’égard de leur paiement de 65 000 $ à la CLES, l’on pouvait inférer que M. van der Steen devait s’être fait dire la même chose avec son paiement de 65 000 $ à la CLES. Mme Leung a aussi indiqué que, à sa connaissance, M. et Mme K ne connaissaient pas M. van der Steen [91] .
+f) Mme Leung n’a pas vérifié en l’espèce si M. van der Steen s’attendait à recevoir une ristourne [92] . Elle a admis que ni elle ni de ses collègues à l’ARC n’ont parlé à M. van der Steen de sa situation ni ne disposaient de documents dont il ressortait qu’il avait reçu ou s’était fait dire qu’il recevrait une ristourne [93] .
+g) Comme je l’ai signalé, 600 des 700 donateurs et quelque dans un des trois stratagèmes n’ont pas communiqué avec l’ARC en réponse aux lettres de proposition. Mme Leung a vu dans ces 600 personnes un groupe formant bloc plutôt que de prendre chaque donateur isolément. De temps à autre, elle a discuté des 700 donateurs avec son chef d’équipe, mais ce faisant, elle les a pris comme groupe plutôt que de considérer chacun. Le premier jour de son contre­interrogatoire, elle a indiqué avoir préparé un seul rapport d’ensemble recommandant la pénalité pour les 700 donateurs plutôt que de regarder le cas de chacun [94] . Toutefois, le deuxième jour du contre­interrogatoire, elle a dit au départ que le rapport de recommandation de la pénalité visait tous ceux qui avaient été vérifiés [95] en précisant ensuite qu’il existait un rapport de recommandation à part pour M. van der Steen, mais que ce rapport était [traduction] « à peu près le même » que le rapport visant collectivement les participants au stratagème II [96] . Comme nul rapport de recommandation de la pénalité n’a été produit en preuve, j’ai été incapable de vérifier s’il y avait seulement un rapport d’ensemble pour tous les participants au stratagème II ou aussi un rapport distinct pour M. van der Steen.
+h) Après examen du grand livre général et de la liste de donateurs de la CLES et du reçu officiel remis à M. van der Steen, la seconde fois que Mme Leung a vu le nom de celui­ci est le moment où un avocat du ministère de la Justice l’a informée que l’intéressé avait intenté une action en justice [97] .
+i) Mme Leung a reconnu ne pas avoir vu le nom de M. van der Steen sur nul des documents concernant les donateurs qui avaient établi des montages offshore pour recevoir leurs ristournes respectives [98] .
+j) Elle considérait Steve Reynolds comme un promoteur très entreprenant. Elle pensait donc que tout donateur qui avait communiqué avec lui devait avoir participé à un des stratagèmes. Qui plus est et comme le dit Mme Leung, M. van der Steen était un client de Steve Reynolds, et elle était d’avis que tous les clients de celui­ci avaient reçu une ristourne [99] .
+k) Mme Leung a déclaré que la Direction des organismes de bienfaisance de l’ARC avait diffusé sur son site Web un avertissement destiné aux donateurs éventuels au sujet des programmes de dons douteux. Interrogée là­dessus, elle a reconnu que l’avertissement ne mentionnait pas la CLES expressément.
+l) Elle a reconnu que l’ARC ne disposait de nul élément de preuve portant que M. van der Steen avait participé à un programme de dons autre que le programme de la CLES.
+m) Elle a aussi reconnu que l’ARC ne disposait de nul élément de preuve documentaire confirmant que M. van der Steen participait à quelque arrangement offshore que ce soit par lequel des fonds transitaient par des intermédiaires étrangers pour parvenir à M. van der Steen ou à une entité lui appartenant, contrôlée par lui ou à laquelle il était lié [100] . L’Agence n’a relevé nul chèque payable par la CLES, Prime, Gemini ni quelque autre entité à M. van der Steen.
+n) En ce qui a trait aux présomptions de fait exposées aux sous­paragraphes 21t) à qq) de la réponse modifiée, Mme Leung a confirmé que l’ARC ne disposait de nulle preuve documentaire directe mentionnant expressément M. van der Steen [101] .
+o) Mme Leung a déclaré que l’ARC ne disposait de nulle preuve précise au sujet de l’intention de la CLES envers M. van der Steen en dehors du reçu officiel, de la liste des donateurs et des autres documents en l’espèce qu’elle avait déjà mentionnés.
+p) En reprise d’interrogatoire, elle a déclaré que l’ARC avait dénombré 203 participants au stratagème II [102] et qu’elle avait trouvé une preuve documentaire selon laquelle 103 de ces participants s’étaient fait dire qu’ils recevraient une ristourne sous une forme ou une autre [103] .
+q) Pendant la reprise de l’interrogatoire de Mme Leung, la Couronne a produit un recueil supplémentaire de documents de procès portant la cote R­8 et comprenant des doubles de documents sur les 103 participants au stratagème II qui s’attendaient à recevoir des ristournes. Mme Leung a admis que la pièce R­8 ne contenait aucun document faisant nommément référence à M. van der Steen. Elle a ajouté que cette pièce ne comportait qu’un document faisant indirectement référence à l’intéressé sans le nommer. Il s’agit du chiffrier qu’elle avait préparé et qui récapitule les relevés bancaires de Prime et indique un dépôt pour le paiement de 65 000 $ de M. van der Steen.
+r) Comme il est déjà indiqué, Mme Leung était d’avis que tous les participants au stratagème II, M. van der Steen y compris, s’attendaient à recevoir une ristourne de 70 % à 75 % du montant de leur prétendu don [104] . Le témoignage de M. Saran pourrait cependant donner à penser que cette fourchette de 70 % à 75% n’avait rien d’une constante. J’ai constaté que le témoignage de M. Saran était quelque peu confus et difficile à suivre, mais j’ai aussi noté que, à un certain moment, il a déclaré que le montant de la ristourne, pour au moins la partie qui était à placer, était [traduction] « certainement faible », soit de moins de 50 % du montant de son don [105] . Il reste que, ailleurs dans sa déposition, M. Saran a donné quelques exemples illustrant que ce que tirait un participant de sa poche était de 30 % du montant du don après prise en compte du montant du crédit d’impôt et de la ristourne attendue [106] , ce qui s’accorderait avec le chiffre de 70 % à 75 % employé par Mme Leung. Par ailleurs, M. Saran a en outre dit vers la fin de son témoignage qu’aucune partie de son paiement à la CLES n’était réservée aux fins de placement. Comme il l’a dit, [traduction] « Il n’y avait rien de réservé, rien − aucun pourcentage ne nous a été montré » [107] . Ma comparaison entre le témoignage de M. Saran et celui de Mme Leung me porte à croire que les participants n’étaient pas tous nécessairement dans la même situation.
+s) Lorsqu’il a été demandé à Mme Leung de préciser comment elle savait que 70 % des fonds venant de certains donateurs étaient censés leur être remis d’une manière détournée par le biais d’arrangements offshore occultes, elle a commencé par faire référence à certains documents concernant Crowne Gold [108] , puis a indiqué que M. K [109] s’attendait à recevoir une ristourne de 75 % [110] . Elle a finalement déclaré :
+[traduction] Nous avons parcouru quelques lettres. Honnêtement, je n’aurais pas pu examiner le compte de chaque donateur [111] .
+Par conséquent, il semblerait que certains des donateurs, et peut­être M. van der Steen parmi eux, ont pu se voir imposer des pénalités sans que leurs comptes aient fait l’objet d’un examen approfondi par l’ARC.
+[84] Bref, pour ce qui est de la pénalité imposée après la période normale de nouvelle cotisation aux termes du paragraphe 163(2) de la LIR, la thèse de la Couronne est que, comme 103 des 203 participants au stratagème II se sont fait dire qu’ils recevraient une ristourne, les 100 autres, dont M. van der Steen, doivent également avoir été informés qu’ils en obtiendraient chacun une [112] . Toutefois, la Couronne n’a pas démontré que les 203 participants au stratagème II se trouvaient dans les mêmes circonstances. Les preuves ont permis d’établir que l’affirmation par les promoteurs qu’une ristourne serait versée a généralement été faite à l’occasion d’une réunion de donateurs éventuels, habituellement dans une salle de réunion d’hôtel. M. van der Steen n’a pas assisté à une telle réunion et, par conséquent, il est fort possible qu’une telle affirmation ne lui ait jamais été faite. Vu la prudence, le soin et l’attention dont doit user la Cour avant de confirmer l’imposition de la pénalité prévue par le paragraphe 163(2) de la LIR et comme le discute la jurisprudence citée aux paragraphes 76 à 82 plus haut, il ne s’ensuit pas automatiquement, parce qu’un peu plus de la moitié des participants au stratagème II se sont fait dire qu’ils recevraient une ristourne, que tous les participants ont été informés de la même chose.
+[85] Les preuves produites par la Couronne pour justifier la production par le ministre de l’avis de nouvelle cotisation du 26 mars 2009, après l’expiration de la période normale de nouvelle cotisation à l’égard de l’année d’imposition 2004 de M. van der Steen, ne répondent à l’obligation d’acquittement du fardeau de la preuve qui pèse sur la Couronne au regard du sous­alinéa 152(4)a)(i) de la LIR. Ainsi, l’avis de nouvelle cotisation était frappé de prescription et la pénalité imposée par cet avis ne vaut pas. Si l’avis de nouvelle cotisation constituait une nouvelle cotisation, la nouvelle cotisation de 2008 est rétablie du fait que la première est entachée de nullité au sens du sous­alinéa 152(4)a)(i) et le refus du crédit d’impôt pour don de bienfaisance vaut toujours. Si l’avis de nouvelle cotisation du 26 mars 2009 constituait une cotisation supplémentaire, celle­ci n’a jamais remplacé ni annulé la nouvelle cotisation de 2008.
+[86] Que je me trompe en concluant que la Couronne ne s’est pas acquittée du fardeau de la preuve à l’égard du sous­alinéa 152(4)a)(i) de la LIR, si bien que l’avis de nouvelle cotisation du 26 mars 2009 doit valoir bien que produit après la période normale de nouvelle cotisation, je sais par ailleurs qu’il faut un degré de culpabilité plus élevé en ce qui concerne le paragraphe 163(2) qu’avec le sous­alinéa 152(4)a)(i) [113] . La Couronne n’a pas prouvé, selon la prépondérance des probabilités, que M. van der Steen présentait le degré supérieur de culpabilité pouvant justifier l’imposition de la pénalité en vertu du paragraphe 163(2). En d’autres termes, il n’a pas démontré que M. van der Steen avait, sciemment ou dans des circonstances équivalant à une faute lourde, fait une présentation erronée des faits dans sa déclaration de revenus de 2004.
+V. CONCLUSION
+[87] À la lumière des éléments de preuve présentés à l’audience, je n’ai pas été en mesure d’établir si, oui ou non, M. van der Steen s’attendait à recevoir une ristourne [114] .
+[88] Lorsqu’il a établi une nouvelle cotisation pour M. van der Steen en lui refusant les crédits d’impôt fédéral et provincial à l’égard du paiement de 65 000 $ à la CLES, le ministre a tenu pour acquis que la dépense en espèces de l’intéressé n’avait pas été de plus de 30 % de ce paiement et qu’il s’attendait à recevoir une ristourne d’au moins 70 % de celui­ci. Il incombait à M. van der Steen d’infirmer ou de réfuter ces hypothèses. Il n’a pu démontrer, selon la prépondérance des probabilités, que ces présomptions n’étaient pas vraies. En d’autres termes, il n’a pas prouvé qu’il avait l’intention libérale nécessaire.
+[89] La Couronne ne s’est pas acquittée du fardeau de la preuve relativement au sous­alinéa 152(4)a)(i) de la LIR. Par conséquent, la pénalité imposée avec retard en application du paragraphe 163(2) de la LIR après la période normale de nouvelle cotisation ne vaut­elle pas. Même si l’on s’est acquitté du fardeau de la preuve en ce qui concerne le sous­alinéa 152(4)a)(i), il est nécessaire de faire de même pour le paragraphe 163(3), selon lequel il incombe à la Couronne de prouver que M. van der Steen, sciemment ou dans des circonstances équivalant à une faute lourde, a fait une présentation erronée des faits dans sa déclaration de revenus de 2004. Comme je l’ai expliqué, la Couronne ne l’a pas fait.
+[90] On se retrouve donc dans une situation où les deux parties ne se sont pas acquittées de leur propre fardeau de la preuve [115] . Bref, l’appel relatif à la nouvelle cotisation de 2009 (ou de la cotisation supplémentaire) est accueilli, ce qui annule la pénalité imposée en application du paragraphe 163(2) de la LIR (parce que la nouvelle cotisation de 2009 (ou la cotisation supplémentaire) était prescrite ou qu’on ne s’est pas acquitté du fardeau de la preuve à l’égard du paragraphe 163(3)). L’appel relatif à la nouvelle cotisation de 2008 est rejeté et le refus du crédit d’impôt demandé en vertu du paragraphe 118.1(3) de la LIR est confirmé.
+[91] Comme l’issue de l’appel est partagée, je n’adjuge pas les dépens.
+Signé à Ottawa, Canada, ce 23e jour de janvier 2019.
+« Don R. Sommerfeldt »
+Juge Sommerfeldt
+Traduction certifiée conforme
+Ce 16e jour de juillet 2019.
+François Brunet, réviseur
+RÉFÉRENCE :
+2019 CCI 23
+NO DE DOSSIER DE LA COUR :
+2012­4731(IT)G
+INTITULÉ :
+RONALD VAN DER STEEN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATES DE L’AUDIENCE :
+DATE DE DÉPÔT DES OBSERVATIONS :
+Les 7 au 10 mars 2016, 24 au 26 octobre 2016, 7 au 9 juin 2017 et 16 et 17 novembre 2017
+Le 30 janvier 2018
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT :
+Le 23 janvier 2019
+COMPARUTIONS :
+Avocat de l’appelant :
+Alec McLennan
+Avocates de l’intimée :
+Nadine Taylor Pickering
+Natasha Wallace
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Alec McLennan
+Cabinet :
+McLennan & Associates
+Pour l’intimée :
+Nathalie G. Drouin
+Sous­procureure générale du Canada
+Ottawa, Canada
+[1] La Cour a déjà statué sur les appels de plusieurs autres contribuables ayant participé à des arrangements de don structurés par M. Thill; voir Julian c. La Reine, 2004 CCI 330; Doubinin c. La Reine, 2004 CCI 438, confirmée 2005 CAF 298; Webb c. La Reine, 2004 CCI 619; McPherson c. La Reine, 2006 CCI 648; Norton c. La Reine, 2008 CCI 91.
+[2] Transcription, 7 mars 2016, p. 5, ligne 27 à page 6, ligne 1, où M. van der Steen déclare que, en 2004 et avant de faire le paiement de 65 000 $ à la CLES, il avait presque 200 000 $ dans son REER; p. 114, lignes 4 à 12, où il indique que, après avoir retiré les 65 000 $, le solde était de 100 000 $ à 200 000 $.
+[3] Transcription, 7 mars 2016, p. 28, lignes 18 et 19.
+[4] Comme nous l’indiquons au paragraphe 9 plus haut, ce montant représente le retrait net après impôt de son REER (64 854,52 $ ­ 19 473,86 $).
+[5] Transcription, 7 mars 2016, p. 17, lignes 20 à 26; p. 35, lignes 5 à 18; p. 36, lignes 9 à 18; p. 39, lignes 8 à 16; p. 40, lignes 19 à 28.
+[6] Transcription, 7 mars 2016, p. 17, ligne 27 à p. 18, ligne 3.
+[7] Comme M. van der Steen a obtenu son diplôme en droit en 1996 (voir Transcription, 7 mars 2016, p. 79, lignes 2 et 3) il a sans doute étudié le droit à plein temps de septembre 1993 à avril 1996.
+[8] Comme il est signalé au paragraphe 12 plus haut, M. van der Steen a versé 65 000 $ en 2004 à la CLES. Comme il est précisé au paragraphe 15, il a également versé 1 389 $ cette année­là à d’autres organismes de bienfaisance enregistrés. L’imprimé de l’ARC, décrit comme l’option C, qui se trouve à l’onglet 1 de la pièce R­1 et qui se rapporte à 2004 ne fait état que du montant de 1 389 $, ayant été préparé après le refus du crédit d’impôt lié au paiement de 65 000 $.
+[9] Comme il est signalé plus haut, il semble que M. van der Steen ait fréquenté la faculté de droit de septembre 1993 à avril 1996; voir Transcription, 7 mars 2016, p. 79, lignes 2 et 3.
+[10] Le montant retiré par M. van der Steen de son REER en 2004 était de 64 854,52 $. L’imprimé de l’ARC, qualifié d’option C, pour 2004 et qui se trouve à l’onglet 1 de la pièce R­1, fait état d’un revenu tiré du REER au montant de 64 829 $ cette année­là. Si le montant qui figure dans les dossiers de l’ARC est moindre, c’est que le feuillet T4RSP remis à M. van der Steen par USL faisait état d’un montant de retrait de 64 829,52 $. Ce feuillet indiquait que le montant retenu en impôt sur le revenu et versé par USL était de 19 448,86 $; c’est un peu moins que le montant figurant à la pièce A­1, onglet 1, p. 1.
+[11] L’imprimé de l’ARC, qualifié d’option C, pour 2007 fait état d’une cotisation à un REER de 29 908 $ et d’un revenu tiré de ce REER (vraisemblablement par retrait) de 10 091 $.
+[12] Transcription, 8 mars 2006, p. 128, lignes 14 à 20.
+[13] Transcription, 7 mars 2016, p. 104, ligne 23 à p. 105, ligne 1.
+[14] Pièce R­1, vol. 1, onglet 1, p. 31.
+[15] Pièce A­1, onglet 6.
+[16] Pièce A­1, onglet 7.
+[17] Pièce A­1, onglet 9.
+[18] Pièce A­1, onglet 11, p. 3; pièce R­1, vol. 1, onglet 1, p. 32.
+[19] Pièce A­1, onglet 15.
+[20] Pièce A­1, onglet 11, p. 3.
+[21] Voir Abrahams c. MRN, 66 DTC 5451, ¶9­10; TransCanada Pipelines Inc. c. La Reine, 2001 CAF 314, ¶12; Cameco Corp. c. La Reine, 2014 CCI 45, ¶8 et 9; Gould c. La Reine, 2005 CCI 556, ¶4; Ramdeen c. La Reine, 2004 CCI 486, ¶5. Selon cette jurisprudence, lorsqu’une nouvelle cotisation ultérieure vient annuler ou remplacer une nouvelle cotisation produite, celle­ci est abolie par celle qui suit et ne peut constituer un motif d’appel, d’où la nécessité de produire un nouvel avis d’opposition ou un avis d’appel modifié.
+[22] On peut comparer le montant décrit comme [traduction] « montant total à payer » à la pièce A­1, onglet 9, p. 3 au montant décrit comme [traduction] « cotisation antérieure » à la pièce A­1, onglet 11, p. 3. De même, Barbara Harvey dit au paragraphe 7 de l’affidavit [traduction] : « Le 26 mars 2009, la déclaration de revenus de 2004 de l’appelant a fait l’objet d’une nouvelle cotisation en vue de l’imposition de pénalités pour faute lourde sur le don de 65 000 $ refusé. Aucune autre modification n’est apportée par la nouvelle cotisation. »
+[23] 684761 B.C. Ltd. c. La Reine, 2015 CCI 288, ¶9.
+[24] Ford c. La Reine, 2014 CAF 257, ¶16.
+[25] Lornport Investments Ltd. c. La Reine, [1992] 1 CTC 351, 92 DTC 6231 (FCA), ¶7 et 8. Voir aussi La Reine c. 594710 British Columbia Ltd., 2018 FCA 166, ¶87 et 88.
+[26] Bolton Steel Tube Co. Ltd. c. La Reine, 2014 CCI 94, ¶48.
+[27] L’admissibilité du témoignage de M. Saran a été examinée dans Ronald van der Steen c. La Reine, 2016 CCI 205.
+[28] Transcription du témoignage de Lakhwinder Singh Saran, 8 mars 2016, p. 11, ligne 25 à p. 12, ligne 3.
+[29] Pièce R­4.
+[30] van der Steen, précitée note 27, ¶10.
+[31] Transcription du témoignage de Lakhwinder Singh Saran, p. 35, lignes 20 à 22.
+[32] Ibid., p. 41, lignes 10 à 17.
+[33] Les preuves sont minces, mais il semblerait que Prime et Gemini ne traitaient pas sans lien de dépendance.
+[34] Les preuves sont minces, mais il semblerait que Prime et Humber ne traitaient pas sans lien de dépendance.
+[35] Pièce R­1, vol. 1, onglet 11, p. 4/20.
+[36] Ibid. Bien que les preuves soient minces, il semblerait que Saskan avait été fondée par M. Thill et ne traitait pas avec Prime sans lien de dépendance.
+[37] Klotz c. La Reine, 2004 CCI 147, ¶22, 25 et 55. Voir aussi Friedberg c. La Reine, [1992] 1 CTC 1, 92 DTC 6031 (FCAD), ¶4 et 9; Paradis c. La Reine, [1997] 2 CTC 2557 (TCC), ¶38 à 40; Doubinin, précitée note 1, ¶18; Berg c. La Reine, 2012 CCI 406, ¶28, 30, 32, 39 et 46; révisée 2014 CAF 25. Dans Backman c. La Reine, [2001] 1 RCS 367, 2001 CSC 10, ¶22, la Cour suprême du Canada a dit : « À maintes reprises, notre Cour a jugé qu’une motivation d’ordre fiscal n’enlève rien à la validité d’opérations faites à des fins fiscales. » Dans Cassan et al. c. La Reine, 2017 CCI 174, ¶260, la Cour canadienne de l’impôt a dit que [traduction] « le fait qu’un contribuable soit motivé par des considérations fiscales n’entache pas en soi de nullité le résultat en vertu du droit privé applicable ».
+[38] Berg, précitée note 37, ¶23.
+[39] Friedberg, précitée, note 37, ¶4.
+[40] Coombs et coll. c. La Reine, 2008 CCI 289, ¶15.
+[41] La Reine c. Burns, [1988] 1 CTC 201, 88 DTC 6101, ¶28 (FCTD). Voir aussi Mariano c. La Reine, 2015 CCI 244, ¶18.
+[42] Webb, précitée note 1, ¶16.
+[43] McPherson, précitée note 1, ¶20.
+[44] Woolner c. Canada (Procureur général), [2000] 1 CTC 35, 99 DTC 5722, ¶7; voir aussi Jensen c. La Reine, 2018 CCI 60, ¶45.
+[45] Maréchaux c. La Reine, 2010 CAF 287, ¶12; confirmée 2009 CCI 587, ¶49.
+[46] Kossow c. La Reine, 2013 CAF 283, ¶29; dans Kossow, le juge Near commentait la conclusion de la Cour d’appel fédérale dans Maréchaux.
+[47] Berg (CAF), précitée note 37, ¶29; voir aussi Castro c. La Reine, 2015 CAF 225, ¶42.
+[48] Symes c. La Reine, [1993] 4 RCS 695 (CSC), à 736. Voir aussi McPherson, précitée note 1, ¶13; Cassan, précitée note 37, ¶262; Jensen, précitée note 44, ¶52.
+[49] Cassan, précitée, note 37, ¶273.
+[50] Ibid., ¶270 et 271.
+[51] Castro, précitée note 47, ¶17; voir aussi ¶49 à 51. La Cour d’appel fédérale a fait ces observations au sujet des paragraphes 248(30) à (32) de la LIR.
+[52] Hickman Motors Limited c. La Reine, [1997] 2 RCS 336 à 378, ¶92 (CSC); House c. La Reine, 2011 CAF 234, ¶30; Cameco Corporation c. La Reine, 2018 CCI 195, ¶600.
+[53] Robins c. National Trust Company, Limited et al., [1927] A.C. 515, [1927] 2 DLR 97, [1927] 1 WWR 692, ¶8 (PC). Voir aussi Cameco, précitée note 52, ¶601; Morrison et al. c. La Reine, 2018 CCI 220, ¶75; Sopinka, Lederman & Bryant, The Law of Evidence in Canada, 5e éd. (Toronto : LexisNexis Canada Inc., 2018), p. 97, ¶3.14. Dans le rapport Appeal Cases et l’affaire Cameco, on emploie le mot « such » plutôt que « sure » comme dans la citation ci­dessus.
+[54] Réponse modifiée, p. 13, ¶21.ll), mm) et nn). En lisant les hypothèses de fait plaidées dans la réponse modifiée, je me suis demandé si elles auraient pu être formulées sous forme subsidiaire (comme aux sous­paragraphes 21.y), z) et cc) où figure dans chaque cas le mot « ou » suivi de diverses possibilités, ou encore dans la définition de « rendement attendu » au sous­paragraphe 21.z), qui énonce plusieurs possibilités) ou sous forme d’exclusion (comme au sous­paragraphe 21.ll), pour l’éventualité que M. van der Steen aurait versé des espèces à la CLES, ou aux sous­paragraphes 21.oo), pp) et qq), pour l’éventualité que l’intéressé aurait fait don de cours de lecture avancés à la CLES), de sorte que la charge de prouver ces faits deviendrait celle du ministère public); voir La Reine c. Loewen, 2004 CAF 146, ¶9; Elliott c. La Reine, 2013 CCI 57, note 2 en bas de page; Merchant c. La Reine, 2010 CCI 467, ¶23 et 24; General Motors Acceptance Corporation of Canada Limited c. La Reine, [1999] 4 CTC 2251, 99 DTC 975 (TCC), ¶35 à 40; Hall c. La Reine, [1997] 1 CTC 2420 (TCC), note 3 de bas de page; Anderson c. MRN, [1992] 2 CTC 2113, 92 DTC 1778 (TCC), ¶15. Toutefois, comme l’avocat de M. van der Steen n’a pas soutenu que certaines des hypothèses de fait du ministre étaient subsidiaires ou contradictoires, je n’ai pas à aller plus loin.
+[55] Jensen, précitée note 44, ¶47; Goheen c. La Reine, 2018 CCI 62, ¶53.
+[56] Comme il est indiqué à la note 11 en bas de page, la cotisation de 29 908 $ en 2007 pourrait avoir été en partie contrebalancée par un retrait du REER de 10 091 $.
+[57] Transcription, 7 mars 2016, p. 129, ligne 19 à p. 133, ligne 8.
+[58] Le père de M. van der Steen a succombé au cancer en 2005, année suivant l’année d’imposition visée par le présent appel.
+[59] L’absence de concordance avec les dons antérieurs d’un contribuable est un facteur qui a été pris en considération par le juge Bowie dans l’affaire Webb, précitée note 1, ¶7, par le juge Hogan l’affaire dans Vekkal et al. c. La Reine, 2014 CCI 341, ¶15, 26 et 34, et par le juge Favreau dans l’affaire Khan c. La Reine, 2017 CCI 171, ¶3j) et 15a).
+[60] Aucun élément de preuve ne porte sur les dons de bienfaisance de M. van der Steen après 2014. Qu’un contribuable n’ait jamais fait de don d’importance avant les dons appréciables refusés par l’ARC et qu’il ne l’ait pas fait non plus par la suite est un facteur auquel s’est attaché le juge Boyle dans l’affaire Hassan c. La Reine, 2014 CCI 144, ¶6.
+[61] Symes, précitée, note 48; voir le paragraphe 53 plus haut.
+[62] Castro, précitée note 47, ¶59 à 65 et 75 à 85; Madamidola c. La Reine, 2017 CCI 245, ¶11; Guobadia c. La Reine, 2016 CCI 182, ¶27.
+[63] Sous­alinéa 3501(1)h)(i) du RIR.
+[64] Réponse modifiée, ¶23.c).
+[65] Observations écrites de l’intimée, ¶129 et 130.
+[66] Bondfield Construction Company (1983) Limited c. La Reine, 2005 CCI 78, ¶89.
+[67] Yunis c. La Reine, 2015 CCI 272, ¶85; Dao c. La Reine, 2010 CCI 84, ¶32; et MRN c. Taylor, [1961] CTC 211 à 214, 61 DTC 1139 à 1141 (Ex.Ct.)
+[68] Paragraphe 163(3) de la LIR.
+[69] Yunis, précitée note 67, ¶93; Dao, précitée note 67, ¶39.
+[70] Venne c. La Reine, [1984] CTC 223 à 226, 84 DTC 6247 à 6249, ¶6 (FCTD).
+[71] Lacroix c. La Reine, 2008 CAF 241, ¶26.
+[72] Boileau c. MRN, [1989] 2 CTC 2001 à 2006, 89 DTC 247 à 250 (TCC).
+[73] Melman c. La Reine, 2017 CAF 83, ¶4. Voir aussi Findlay c. La Reine, [2000] 3 CTC 152, 2000 DTC 6345 (FCA), ¶21 et 22; Venne, précitée note 70, ¶37.
+[74] Wynter c. La Reine, 2017 CAF 195, ¶18 et 19.
+[75] Udell c. MRN, [1969] CTC 704 à 714, 70 DTC 6019 à 6026, ¶51 (Ex. Ct). Cette observation a été citée dans des affaires ultérieures, notamment dans Venne, précitée note 70, ¶34; Lavoie c. La Reine, 2015 CCI 228, ¶12.
+[76] Venne, précitée note 70, ¶34, 37 et 40. Voir aussi Zsoldos c. Canada (Procureur général), 2004 CAF 338, ¶21.
+[77] Lavoie, précitée note 75, ¶13.
+[78] Ibid., ¶15.
+[79] Mady c. La Reine, 2017 CCI 112, ¶145. Dans ce paragraphe de ses motifs, le juge Hogan prenait acte de certaines observations de l’avocat de la Couronne en l’espèce. Il a aussi fait remarquer que la Couronne dans cette affaire reconnaissait qu’elle « devait prouver, selon la prépondérance des probabilités, que le comportement de l’appelant participait d’une indifférence équivalant à « une conduite intentionnelle » ou à une « indifférence au respect de la Loi [qui] ne s’entend pas que d’une simple inattention ou négligence » relativement à son obligation en matière d’autodéclaration ».
+[80] 897366 Ontario Ltd. c. La Reine, [2000] GSTC 13 (TCC), ¶19.
+[81] Farm Business Consultants Inc. c. La Reine, [1994] 2 CTC 2450 à 2457, 95 DTC 200 à 205­206 (TCC), ¶28; confirmée, 96 DTC 6085 (FCA).
+[82] Ibid. (CCI), CTC, p. 2457, DTC, p. 206, note 4 en bas de page.
+[83] Transcription, 9 mars 2016, p. 14, ligne 21 à p. 16, ligne 11; page 51, lignes 6 à 14.
+[84] Collectivement, pièce R­1.
+[85] Pièce R­8.
+[86] Transcription, 24 octobre 2016, p. 18, ligne 7 à p. 21, ligne 26.
+[87] Transcription, 24 octobre 2016, p. 53, lignes 12 à 22; p. 54, lignes 18 à 24; p. 55, lignes 6 à 15; p. 57, lignes 17 et 18; p. 72, ligne 21 à p. 73, ligne 1; p. 85, ligne 17 à p. 87, ligne 26. De même, Mme Leung a indiqué que sa conclusion au sujet de la participation de M. van der Steen au stratagème II reposait sur l’hypothèse selon laquelle l’intéressé était un client de M. Reynolds et que tous les clients de celui­ci recevaient une ristourne; ibid., p. 54, lignes 13 et 14; p. 80, lignes 6 à 9; p. 87, ligne 14.
+[88] Transcription, 24 octobre 2016, p. 80, lignes 2 à 20; p. 87, lignes 13 à 26; 25 octobre 2016, p. 256, lignes 2 à 7; p. 257, lignes 3 à 15.
+[89] Transcription, 24 octobre 2016, p. 52, lignes 21 à 26.
+[90] Transcription, 24 octobre 2016, p. 54, lignes 13 et 14; p. 80, lignes 6 à 9; p. 83, lignes 2 à 11; p. 87, ligne 14.
+[91] Transcription, 24 octobre 2016, p. 167, ligne 10 à p. 175, ligne 20; voir aussi pièce R­1, vol. 1, onglets 12 et 13.
+[92] Transcription, 25 octobre 2016, p. 281, ligne 11 à p. 283, ligne 20.
+[93] Transcription, 25 octobre 2016, p. 259, lignes 14 et 15 et 26 à 28; p. 260, ligne 1; p. 261, lignes 6 à 18; p. 262, lignes 20 à 25; p. 266, lignes 7 à 10; p. 267, lignes 18 à 22; p. 268, lignes 2 à 13; p. 371, lignes 17 à 24.
+[94] Transcription, 24 octobre 2016, p. 43, lignes 17 et 18; et p. 44, lignes 1 à 6.
+[95] Transcription, 25 octobre 2016, p. 276, lignes 23 à 27.
+[96] Ibid., p. 277, lignes 9 à 19.
+[97] Transcription, 24 octobre 2016, p. 21, ligne 22 à p. 22, ligne 3.
+[98] Ibid., p. 23, lignes 18 à 20.
+[99] Ibid., p. 54, lignes 2 à 14; p. 80, lignes 5 à 9; p. 83, lignes 8 à 11; p. 84, lignes 6 à 21; p. 87, lignes 5 à 14; Transcription, 7 juin 2017, p. 708, lignes 10 à 25. Comme il a été indiqué ailleurs, l’ARC ne disposait de nulle preuve documentaire confirmant que M. van der Steen avait reçu ou s’était fait dire qu’il recevrait une ristourne.
+[100] Transcription, 7 juin 2017, p. 718, ligne 7 à p. 720, ligne 3.
+[101] Transcription, 7 juin 2017, p. 702, ligne 8 à p. 714, ligne 17.
+[102] Transcription, 8 juin 2017, p. 756, lignes 20 à 26.
+[103] Transcription, 8 juin 2017, p. 780, lignes 1 à 10; p. 783, lignes 24 à 26; p. 785, lignes 20 et 21; p. 851, lignes 22 à 25. Un élément d’incertitude pèse sur cet aspect du témoignage de Mme Leung. Initialement, elle avait parlé collectivement des 700 participants aux trois stratagèmes et dit que l’ARC disposait d’une preuve documentaire pour 100 de ces participants qui s’attendaient à recevoir des ristournes. Voir Transcription, 24 octobre 2016, p. 165, lignes 8 à 26. Dans la suite de son témoignage et comme nous l’avons mentionné, elle s’est attachée aux 203 participants au stratagème II et a dit que l’ARC disposait d’une preuve documentaire selon laquelle 103 de ces participants s’étaient fait dire qu’ils recevraient une ristourne. Ainsi, on peut peut­être se demander si les 100 ou 103 participants s’étant fait dire qu’ils recevraient une ristourne participaient seulement au stratagème II ou participaient aux trois.
+[104] Voir les sous­paragraphes 83.d) et j) et les notes 85, 88 et 97 en bas de page.
+[105] Transcription du témoignage de Lakhwinder Singh Saran, 8 mars 2016, p. 11, ligne 25 à p. 12, ligne 3.
+[106] Ibid., p. 15, lignes 13 à 18; p. 52, lignes 1 à 11; p. 68, ligne 24 à p. 69, ligne 3.
+[107] Ibid., p. 67, lignes 25 et 26.
+[108] Pièce R­1, vol. 2B, onglet 91. Voir aussi le paragraphe 33 plus haut.
+[109] Voir le sous­paragraphe 83.e) plus haut.
+[110] Transcription, 10 mars 2016, p. 163, ligne 10 à p. 164, ligne 7.
+[111] Ibid., p. 164, lignes 7 et 8.
+[112] Comme nous l’avons dit (voir la note 103 en bas de page), Mme Leung a affirmé à certains endroits dans son témoignage que l’ARC avait reçu des renseignements selon lesquels environ 100 des quelque 700 participants aux stratagèmes I, II et III s’étaient fait dire qu’ils recevraient une ristourne et, ailleurs dans sa déposition, elle a indiqué que l’ARC avait confirmé que 103 des 203 participants au stratagème II s’étaient fait dire la même chose. Pour le paragraphe auquel se rapporte cette note, j’ai pris le chiffre qui avantageait le plus la Couronne et, selon cette valeur, 103 des 203 participants au stratagème II (plutôt qu’une centaine des quelque 700 participants aux trois stratagèmes) se sont fait dire qu’ils recevraient une ristourne.
+[113] Venne, précitée note 70; voir le paragraphe 72 plus haut.
+[114] Voir le paragraphe 62 plus haut.
+[115] Pour un plus ample examen de ce double fardeau de la preuve (le contribuable devant prouver qu’une cotisation fiscale est erronée et le ministère public devant démontrer que l’imposition d’une pénalité est justifiée), voir La Reine c. Taylor, [1984] CTC 436, 84 DTC 6459 (FCTD). Pour des exemples d’autres affaires où le contribuable n’a pu contester avec succès une cotisation, mais où le ministère public n’a pu établir les faits justifiant l’imposition d’une pénalité, voir Fortis c. MRN, [1986] 2 CTC 2378, 86 DTC 1795 (TCC); Chopp c. MRN, [1987] 2 CTC 2071, 87 DTC 374 (TCC); Chabot c. La Reine, 2001 CAF 383; Benarroch c. La Reine, 2003 CCI 9; Julian, précitée note 1; Morisset c. La Reine, 2007 CCI 114; Rohani c. La Reine, 2009 CCI 88.

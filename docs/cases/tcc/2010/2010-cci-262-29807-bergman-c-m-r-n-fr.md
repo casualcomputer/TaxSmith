@@ -1,0 +1,134 @@
+---
+title: "Bergman c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29807/index.do"
+last_modified: "2010-05-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 262"
+citation2: ""
+neutral_citation: "2010 CCI 262"
+decision_date: "2010-05-13"
+language: "fr"
+item_id: "29807"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6613
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:59:26.125000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5b76babcb811eaea30907dadb0ec09c6aff475742abe84e8a923e2aea38d1bd5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bergman c. M.R.N.
+
+- Citation: 2010 CCI 262
+- Decision date: 2010-05-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6613, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bergman c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-13
+Référence neutre
+2010 CCI 262
+Numéro de dossier
+2008-2014(EI)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-2014(EI)
+ENTRE :
+DON BERGMAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 6 avril 2010, à Timmins (Ontario).
+Devant : L'honorable juge Patrick Boyle
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocat de l'intimé :
+Me Michael Ezri
+________________________________________________________________
+JUGEMENT
+Les appels interjetés sous le régime de la Loi sur l'assurance‑emploi sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 13e jour de mai 2010.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 29e jour de juin 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 262
+Date : 20100513
+Dossier : 2008-2014(EI)
+ENTRE :
+DON BERGMAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] La question en litige dans les présents appels en matière d'assurance‑emploi (« AE ») consiste à savoir si M. Don Bergman exerçait un emploi assurable auprès de la société 1650639 Ontario Ltd. (« la société 1650639 »), faisant affaire sous la raison sociale Regional Paving, pendant les périodes de juin à novembre 2005 et de juin à novembre 2006. L'appelant fait valoir qu'en 2005, il travaillait pour Regional Paving à titre d'estimateur. Il avait pour fonction de réaliser des ventes au moyen du porte‑à‑porte dans la région de Niagara, dans le Sud de l'Ontario, en offrant d'asphalter des entrées et des parcs de stationnement résidentiels et commerciaux, ou d'en refaire la surface. L'appelant soutient qu'après son déménagement de St. Catharines à Swastika à la fin de 2005, il a effectué en 2006 pour Regional Paving, outre les tâches susmentionnées, des travaux préliminaires en vue de l'ouverture d'une division de cette entreprise dans la région de Timiskaming, dans le Nord de l'Ontario.
+[2] Pendant de nombreuses années, Regional Paving a exploité une entreprise d'asphaltage dans la région de St. Catharines, de Hamilton et de Niagara, dans le Sud de l'Ontario. Au cours des années en cause, l'entreprise Regional Paving appartenait à la société 1650639. Selon l'appelant, l'unique actionnaire de la société 1650639 était un particulier qui travaillait au sein de l'équipe d'asphaltage et qui, en raison de sa situation personnelle, ne participait ni à la gestion ni aux prises de décisions quotidiennes relatives à l'entreprise Regional Paving.
+[3] C'est le frère de l'appelant, Gary Bergman, qui assurait la direction de Regional Paving. Il était responsable des activités quotidiennes et il prenait les décisions importantes pour l'entreprise, y compris l'embauche des travailleurs. Gary Bergman a dirigé Regional Paving pendant un certain nombre d'années et notamment avant que l'entreprise n'appartienne à la société 1650639. Gary Bergman a été accusé d'un certain nombre d'infractions à la Loi sur l'assurance‑emploi (la « LAE ») liées à la délivrance de relevés d'emploi faux ou trompeurs, dont un en 2006 relatif à la société 1650639 et à un particulier désigné comme un estimateur. Il a reconnu sa culpabilité à l'égard de ces accusations plus tôt cette année.
+[4] La société 1650639 a délivré à l'appelant des relevés d'emploi, dont celui‑ci s'est servi pour demander des prestations d'assurance‑emploi. Cette société a en outre délivré au moins un feuillet T4 à l'appelant. Elle n'a toutefois jamais produit de déclaration de revenus ni versé de retenues à la source. Quant à l'appelant, il a omis d'inclure dans sa déclaration de revenus relative à 2006 la totalité du revenu inscrit au feuillet T4 applicable.
+[5] Selon l'intimé, l'appelant, Don Bergman, n'a jamais travaillé pour Regional Paving en 2005 ou en 2006, et les relevés d'emploi et autres pièces justificatives fournis comportaient de faux renseignements. Il soutient que, même si l'appelant avait travaillé pour Regional Paving en 2005 ou en 2006, il l'aurait fait à titre d'entrepreneur indépendant et non d'employé. Enfin, l'intimé affirme que, même si l'appelant était un employé de la société 1650639, cet emploi n'était pas un emploi assurable suivant l'alinéa 5(2)i), qui prévoit que l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance n'est pas un emploi assurable.
+[6] L'appelant fut le seul témoin. Nul n'a corroboré son témoignage. Ni son frère ni quiconque lié à Regional Paving, notamment des collègues, n'a témoigné.
+[7] La preuve écrite présentée par M. Bergman est mince. On a établi qu'elle était incompatible avec d'autres documents ou certaines réponses données par l'appelant. De fait, l'appelant a produit deux feuillets T4 fort différents pour 2006, dont l'un était manuscrit. Il a également présenté des résumés de fiches de paye relatifs à 2006 où figuraient des montants retenus différents. Les réponses qu'il a données au cours de son témoignage sur l'endroit où il résidait en 2006 alors qu'il se trouvait à St. Catharines étaient sensiblement différentes de celles antérieurement faites à Ressources humaines et Développement des compétences Canada lors de l'examen de sa demande. Pendant son témoignage, il a déclaré qu'il était payé en espèces. Or, aucun document bancaire ou financier à son nom ou à celui de Regional Paving montrant des retraits ou des dépôts ou l'absence de retraits ou de dépôts n'a été produit à l'appui de son témoignage. Lors de l'audience portant sur sa faillite, il a informé ses créanciers qu'il ne travaillait plus en octobre 2006. Il a affirmé à son syndic de faillite que la somme qu'il avait gagnée chez Regional Paving en 2006 était beaucoup moins élevée que celle inscrite sur son relevé d'emploi. Parmi les nombreuses estimations faites pour Regional Paving qu'il a présentées, seules deux portaient sur la période pendant laquelle il prétend avoir travaillé en 2006. Aucune ne visait 2005. La plupart dataient de la première moitié de 2006, soit avant la période d'emploi qu'il invoque, alors qu'il travaillait sans rémunération pour Regional Paving, selon ses dires, parce qu'il s'agissait de la meilleure période pour attirer les clients. Aucune estimation ne visait le travail accompli dans la région du Nord de l'Ontario où il a vécu pendant toute l'année 2006.
+[8] La preuve dont la Cour est saisie ne me permet tout simplement pas de conclure, selon la prépondérance des probabilités, que M. Bergman était un employé de l'entreprise Regional Paving de la société 1650639 pendant l'une ou l'autre des périodes en cause. La crédibilité de M. Bergman est entachée et mise en doute par ses versions contradictoires des faits et par des documents présentant des incohérences. Une preuve corroborante pertinente et crédible offerte par d'autres personnes ou sous forme d'autres documents aurait pu remédier à la situation, mais aucune n'a été produite. Pour cette raison, je dois rejeter les appels de M. Bergman.
+[9] Quoi qu'il en soit, je suis convaincu que, même si M. Bergman accomplissait réellement tout ou partie des tâches qu'il a décrites pour le compte de Regional Paving, il ne s'agissait pas d'un emploi assurable, étant donné que le travail était fait à titre d'entrepreneur indépendant et non d'employé. L'élément le plus révélateur dans la présente affaire tient à l'absence de preuve relative à une quelconque direction exercée par le payeur à l'égard des modalités ou de l'horaire de travail. Monsieur Bergman décidait seul du moment où il effectuait les tâches, le cas échéant, et de ses congés. Il décidait seul quand il travaillait à St. Catharines et quand il travaillait au Timiskaming. Compte tenu des faits en l'espèce, l'absence de direction joue grandement en faveur de la situation d'entrepreneur indépendant. Monsieur Bergman a précisé comment il augmentait son revenu net tiré de son travail en limitant ses frais de transport, comme ceux‑ci ne lui étaient pas remboursés et qu'on lui versait une somme hebdomadaire forfaitaire. Il a affirmé que ce fait était particulièrement important en 2006, puisqu'il parcourait un vaste territoire dans le Nord de l'Ontario en plus de travailler chez Regional Paving dans le Sud de cette province. Cela laisse également croire qu'il agissait à titre d'entrepreneur indépendant et non d'employé. La preuve ne permet nullement de penser qu'il était de l'intention commune des parties d'établir dès le départ une relation d'emploi. L'élément relatif à l'intention n'est donc pas utile en l'espèce. Le travail nécessitait peu d'outillage : M. Bergman utilisait les formulaires de Regional Paving pour fournir des estimations, mais il se servait de sa propre voiture et de son propre téléphone, pour lesquels il ne recevait aucun remboursement. L'examen du facteur relatif à la propriété de l'outillage fait aussi légèrement pencher la balance en faveur de la situation d'entrepreneur indépendant.
+[10] Enfin, je dois ajouter que la preuve présentée et explicitée en l'espèce par l'intimé au soutien de son argument fondé sur l'existence d'un lien de dépendance est tout à fait insuffisante pour que la Cour conclue qu'il y avait un lien de dépendance de fait au sens de la Loi de l'impôt sur le revenu (la « LIR »), critère prévu à l'alinéa 5(2)i) de la LAE. Dans la jurisprudence relative à la LIR, les tribunaux ont minutieusement précisé en quoi consiste un lien de dépendance de fait. Il n'y a pas lieu de rabaisser ce critère au rang d'examen judiciaire rapide et superficiel dans les affaires intéressant l'AE.
+[11] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 13e jour de mai 2010.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 29e jour de juin 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 262
+NO DU DOSSIER DE LA COUR : 2008-2014(EI)
+INTITULÉ : Don Bergman c. Le ministre du Revenu national
+LIEU DE L'AUDIENCE : Timmins (Ontario)
+DATE DE L'AUDIENCE : Le 6 avril 2010
+MOTIFS DU JUGEMENT : L'honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 13 mai 2010
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Michael Ezri
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

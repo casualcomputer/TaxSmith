@@ -1,0 +1,334 @@
+---
+title: "4092325 Investments Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/350123/index.do"
+last_modified: "2018-11-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 228"
+citation2: ""
+neutral_citation: "2018 TCC 228"
+decision_date: "2018-11-15"
+language: "en"
+item_id: "350123"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5021
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:34:31.171000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8337a1eb9e1be6379e63938b6d7ff308cbb1703381fea9f6b68d47399a4fb998"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 4092325 Investments Ltd. v. The Queen
+
+- Citation: 2018 TCC 228
+- Decision date: 2018-11-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5021, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+4092325 Investments Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-11-15
+Neutral citation
+2018 TCC 228
+File numbers
+2015-5160(IT)G, 2017-2072(IT)G, 2017-2073(IT)G, 2017-2322(IT)G, 2017-2329(IT)G, 2017-3306(IT)G, 2017-3307(IT)G, 2017-3443(IT)G, 2017-3897(IT)G, 2017-3905(IT)G, 2017-3906(IT)G, 2017-3907(IT)G, 2017-3908(IT)G, 2017-4251(IT)G, 2017-4255(IT)G, 2017-4269(IT)G, 2017-4457(IT)G, 2017-4458(IT)G, 2017-448(IT)G, 2017-4487(IT)G, 2017-4488(IT)G, 2017-4578(IT)G, 2017-4582(IT)G, 2017-4598(IT)G, 2017-4645(IT)G, 2017-4646(IT)G, 2017-4648(IT)G, 2017-4700(IT)G, 2017-4701(IT)G, 2017-4702(IT)G, 2017-4703(IT)G, 2017-4704(IT)G, 2018-1312(IT)G, 2018-1314(IT)G, 2018-1316(IT)G, 2018-1601(IT)G, 2018-1603(IT)G, 2018-1605(IT)G, 2018-1690(IT)G, 2018-1692(IT)G, 2018-1693(IT)G, 2018-1723(IT)G, 2018-1728(IT)G, 2018-1729(IT)G, 2018-193(IT)G, 2018-2343(IT)G, 2018-2344(IT)G, 2018-2345(IT)G, 2018-62(IT)G, 2018-63(IT)G, 2018-64(IT)G, 2018-66(IT)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Notes
+A correction was made on November 21, 2018.
+Decision Content
+Citation: 2018 TCC 228
+Date: 20181115
+Docket: 2017-2072(IT)G
+BETWEEN:
+4092325 INVESTMENTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2017-2073(IT)G
+AND BETWEEN:
+6237312 INVESTMENTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2017-2322(IT)G
+AND BETWEEN:
+ARII HOLDINGS (212) LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2017-2329(IT)G
+AND BETWEEN:
+ARII HOLDINGS (124) LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2018-1312(IT)G
+AND BETWEEN:
+2293443 HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2018-1314(IT)G
+AND BETWEEN:
+2293443 HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2018-1316(IT)G
+AND BETWEEN:
+2293443 HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED COMMON REASONS FOR INTERIM ORDER
+[These Amended Common Reasons for Interim Order are issued in substitution for the Common Reasons for Interim Order signed on October 23, 2018.]
+Smith J.
+[1] These reasons follow a Case Management Conference (“CMC”) held by teleconference on April 18 and June 19, 2018 and the Interim Order issued on September 20, 2018 (the “Interim Order”).
+[2] More specifically, this matter involves a group of appeals described collectively, though informally, as the “Abacus Group” (the “Group”), consisting of at least 52 appeals (as of the date hereof) that are subject to case management pursuant to subsection 126(1) of the Tax Court of Canada Rules (General Procedure) (the “Rules”). All of the Appellants in the Group are represented by the same legal counsel (“counsel for the Appellants”).
+[3] The Interim Order provides that a certain number of appeals shall, subject to the discretion of the judge presiding to decide otherwise, be heard together or one immediately after another and the remaining appeals are to be held in abeyance pending a final decision.
+[4] The Interim Order also provides that the parties shall file a joint application for a timetable order for each appeal by October 17, 2018. The intent was that the litigation process in each of the representative appeals would advance in a more or less parallel fashion and all be completed in due course prior to the actual hearing date.
+Preliminary Observations
+[5] At the initial CMC held on April 18, 2018, it came to light that there were approximately 150 additional related appeals that were still at the objections stage. Counsel for those Appellants requested that the Canada Revenue Agency (“CRA”) be ordered not to issue any further Notices of Confirmation that would lead to more litigation before the Court. It was argued that there was no need to do so since the existing appeals had similar issues.
+[6] The Court noted the position taken by counsel for the appellants but declined to issue such an order citing a lack of jurisdiction for doing so.
+[7] Secondly, the Respondent sought to include a number of other allegedly related appeals in the Group with the suggestion that those appeals could proceed as separate streams. The following is a chart taken from the Respondent’s letter of April 30, 2018:
+Additional files
+Current Abacus group of appeals files to which they are related
+Paul Benninger (2016-4571(IT)G)
+Piyushy Patel (2016-4750(IT)G)
+ARII Holdings (124) Ltd. (2017-2329(IT)G)
+ARII Holdings (212) Ltd. (2017-2322(IT)G)
+David Herlihy Cooke (2017-5054(IT)G)
+James Allan Cooke (2017-5058(IT)G)
+Robert Stanley Cooke (2017-5055(IT)G
+Jemstar Farms Ltd. (2015-5160(IT)G
+Harvard Properties Inc. (2017-4387(IT)G)
+1489241 Alberta Ltd. (2017-4251(IT)G
+[8] It was noted that these “additional files” were represented by different legal counsel and that several were more advanced in the litigation process. Counsel for the Appellants objected to their inclusion and, in the end, the Court indicated that it would only consider the matter in the context of a motion (with appropriate notice to all concerned) seeking either consolidation or an order that the appeals be heard together or one after the other. The Respondent has not filed that motion and so the matter has not been addressed to date.
+[9] At the conclusion of the initial CMC, the parties were asked to provide a list of appeals within the Group that might serve as representative or lead cases.
+[10] In its letter of April 30, 2018, the Respondent provided a chart describing the issues common to all appeals and reiterated its desire to move forward with certain appeals and to file its motion, as noted above.
+[11] In its letter of June 14, 2018, counsel for the Appellants provided a detailed analysis of the commonalities between the various appeals with a request that the Court proceed with “one of the appeals involving 2293443 Holdings Ltd.” and that the remaining appeals be held in abeyance in accordance with Section 146.1 of the Rules. It was indicated that all remaining Appellants would agree to be bound by the final decision.
+[12] The second CMC took place on June 19, 2018. There was obvious disagreement as to how best to proceed. The Respondent argued that while it agreed to go forward with certain representative appeals, including the appeals identified by counsel for the Appellants, it did not want to proceed pursuant to Section 146.1. In other words, the Respondent did not want to be bound by the results given the complexity of the appeals, the issue of intention and GARR.
+The Lead Cases Rule
+[13] As indicated above, the submissions of counsel for the Appellants are contained in letters to the Court dated June 14, 2018 and July 11, 2018.
+[14] In a chart that is similar to the one remitted by the Respondent, counsel for the Appellants sets out the commonalities between the appeals which I would paraphrase as follows:
+1. The deduction of losses arising from foreign currency trading transactions and whether GAAR applies;
+2. The deduction of bad debts;
+3. The deduction of management fees;
+4. The deduction of the losses noted above, going forward or backward;
+5. Assessments beyond the normal assessment period;
+6. Late filing penalties;
+7. Gross negligence penalties.
+[15] Counsel for the Appellants then described items 1, 2 and 3 above as the “Primary Issues” and the remaining items as the “Secondary Issues”.
+[16] Referring to the chart noted above, counsel for the Appellants argues that “the 2293443 Appeals relate to transactions that took place more recently (…)”, and include all the “Primary Issues” and that as a result “are likely to be the best evidentiary record for both parties”. In the letter of June 14, 2018 (p.2), counsel for the Appellants had made the following observation:
+In Mariano v. The Queen, this Court decided that, consistent with Rule 146.1, a lead case should be chosen “with a view to having strong precedential value that may hopefully resolve at least the majority of all potential appeals” and that a lead case should “represent the widest band of similar issues”. For the reasons that follow, any of the 2293443 Appeals is an ideal choice for lead case as it would represent the widest band of similar issues.
+[17] Consistent with this position, counsel for the Appellants argues in its letter of July 11, 2018, that it would make no sense to proceed with five other appeals and no agreement to be bound noting that “all these cases are quite complex and intricate”, that “expert evidence will likely be required on a number of points” and that “each trial may last up to four weeks at considerable expense (…)”.
+[18] Counsel for the Appellants argues that the “purpose and policy” of Section 146.1 is consistent with other “measures to expedite and facilitate dispute‑resolution”, by allowing Appellants with common issues to be bound by the results in the lead case, thereby “preventing a multiplicity of duplicative proceedings, fact‑finding and legal analysis (…)”.
+[19] The following is quoted from the decision of this Court in Mariano v. The Queen, 2016 TCC 161, (“Mariano”):
+[53] Clearly, the wording in Rule 146.1 allows the Court to give directions that certain appeals will be designated as lead cases while others are stayed. The spirit and intention of the lead case rule is self-evident. The Court, in controlling its process, is able to utilize this rule to prevent being swamped by potentially thousands of like cases, and the costs and resources applicable thereto, by hearing select cases chosen presumably with a view to having strong precedential value that may hopefully resolve at least the majority of all potential appeals, if not all.
+(…)
+[56] In essence, the lead case rules are designed to potentially benefit and may benefit all interested players – the Court, the Crown, the appellants and the taxpayers at large…
+[20] As to whether the Respondent’s consent is required before the Court will issue a direction pursuant to Subsection 146.1(2), counsel for the Appellant argues that this cannot be since “the agreement to be bound is exclusively between a taxpayer and this Court, and not with the Respondent”, relying again on Mariano:
+[36] Rule 146.1 does not bind either the Minister of National Revenue (the “Minister”) or any taxpayer if the taxpayer does not agree to be bound to such lead case decision under said Rule.
+(…)
+[59] The agreement to be bound which an appellant may execute in Form 146.1 of the Rules is however not a bilateral agreement negotiated between an appellant and the CRA or Minister of Justice on its behalf. There is no negotiation or any input whatsoever by the Respondent in the content or filing of this Form by an appellant. Only an appellant, presumably with the advice of his counsel, can decide to file the Form under the Rule above discussed, created by the Rules Committee of the Tax Court of Canada to assist the Court in managing and governing its processes under its statutory power to create and amend rules subject only to Governor in Council approval…
+[21] Counsel for the Appellants argues moreover that the Respondent’s consent is not required since the Respondent is the same in every appeal, while Appellants stand in a different position in that they may agree to be bound by the lead case or have their matter proceed pursuant to Subsection 146.1(4).
+[22] Counsel for the Appellants argues further that the issue of “intention” or “GARR” should not preclude resort to Section 146.1, since other cases governed by the rule have included “donative intent” including Mariano and Markou v. The Queen, 2018 TCC 66 or in Simard v. The Queen, 2014-2554(IT)G (an ongoing appeal) where the issue is “whether certain joint ventures entered into by the Appellants were shams”. In other words, counsel for the Appellants argues that issues of intention or GARR are not bars to an application of Rule 146.1.
+Analysis
+[23] It is not disputed that the criteria set out in paragraphs 146.1(1) (a),(b) and (c) have been satisfied in this instance. However, the use of the words “may give a direction” in subsection 146.1(2) clearly suggest that the issuance of the “direction” itself is at the discretion of the Court.
+[24] The provision certainly does not say that the Court “shall” give a direction and, contrary to the position taken by counsel for the Appellants, the Court’s discretion cannot be fettered by an expansive interpretation of the Rules relying on Section 4 which provides as follows:
+4(1) – These rules shall be liberally construed to secure the just, most expeditious and least expensive determination of very proceeding on its merits.
+[25] The Court must consider the broader interests of the administration of justice and determine, in light of the nature of the appeals and the position taken by either party, whether this is the best way to proceed.
+[26] The Respondent opposes the use of the lead cases rule and I am of the view that she is entitled to do so, as are individual Appellants. Subsection 146.1(3) indicates that “each party … who agrees to be bound” shall file Form 146.1 with the Court, and that, pursuant to subsection 146.1(4), if “a party does not agree to be bound by the decision in a lead case”(…) “the Court shall give a direction that the appeal is no longer stayed”.
+[27] The word “party” must also include the Respondent. It does not matter that she is the same party in all appeals. Just as individual appellants in a Group can decline to be bound by the lead case(s), so too the Respondent as a “party”, may decide not to be bound in some or all of the Appeals. For example, the Respondent may be of the view that certain appeals forming part of a group are sufficiently distinct that they should be segregated and dealt with separately.
+[28] A textual reading of the lead cases rule suggests quite clearly that if the Respondent opposes the granting of a direction, then all of the appeals in the Group are “no longer stayed”. This analysis is supported by a review of Form 146.1 which provides that the “party” (or “la partie” in French) must be described. If the intention had been that only Appellants (and their counsel, if any) were required to sign the generic form, then it would indicate “The Appellant”, followed by a space for his or her name. That is not the case as the “party” must be identified. This refers to the Appellant or the Respondent.
+[29] It may be that a practise has evolved over time whereby the Respondent has not signed Form 146.1 (and that there are no instances known to counsel for the Appellants where the Respondent has done so) but this does not necessarily lead to the conclusion that the form need not be signed by the Respondent. In my view, it merely suggests that in all cases cited by counsel for the Appellants, it was understood from the beginning that the Respondent had agreed to or consented to the application of the lead cases rule.
+[30] Counsel for the Appellants relies on paragraph 59 of Mariano, cited above. However, a review of that decision suggests that Justice Pizzitelli was providing those comments in the context of an award of costs where one appellant who had agreed to be bound, later argued that he or she was not bound since there had been no negotiations and no consideration from the Respondent.
+[31] Justice Pizzitelli’s comments do shed some light on the nature of the agreement to be bound but they should not be extrapolated to suggest that the Respondent has no role to play in the process. That is simply not the case.
+[32] Considering the context and purpose of the lead cases rule, it must be remembered that it was developed primarily to deal with mass‑marketed tax schemes, including charitable donation schemes, where the factual and legal issues were quite narrow. It was conceived as a mechanism that would allow the Court to manage what would otherwise be a deluge of appeals (Mariano had over 20,000 appeals). In all such group appeals, including those cited by counsel for the Appellants, the Respondent was a willing participant.
+[33] If the logical consequence of the Respondent’s decision not to consent to the lead cases rule is that all of the appeals in the Group are “no longer stayed”, then that is not, from a case management point of view, a very satisfactory result. The Court must, in the exercise of its discretion, look for another workable solution.
+[34] I have expressed the view that the lead cases rule is not appropriate in this instance. I will add that it would be very surprising indeed that a group of appellants involved in complex corporate transactions could foist the lead cases rule upon the Respondent who does not agree that its use is appropriate.
+[35] Whether the Respondent can unilaterally oppose a direction pursuant to subsection 146.1(2) may be a matter for another day. In this particular instance, I agree with the Respondent that this is not an appropriate use of the lead cases rule and exercise my discretion as case management judge to proceed otherwise.
+[36] In his letter of July 11, 2018, counsel for the Appellants argues that all the appeals in the Group are “quite complex and intricate”. I agree with that assessment and on that basis alone decline to apply the lead cases rule.
+[37] The Interim Order provides that certain appeals shall be heard together or one immediately after the other by the same judge. This will bring uniformity to the analysis of the facts and issues in all their nuances and ensure that all Appellants, including those held in abeyance, benefit from the process. In particular, it will avoid what counsel for the Appellants has referred to as “the heightened risk and scandal of contradictory judgments”.
+[38] The use of several representative appeals within a larger group is not an unusual procedure. It has been used repeatedly by this Court and the basic framework is set out in paragraphs 26(c) and (d) (and Section 27) of the Rules.
+[39] Counsel for the Appellants argues that each individual Appeal “may last up to four weeks, at considerable expense”. That may be so but the parties and their counsel will be expected to look for efficiencies in the litigation process. There is no good reason, for example, for an expert to testify more than once. Partial or agreed statement of fact, notices to admit, etc., are all tools that will have to be used to minimize costs. Much will depend on the willingness of the parties to streamline and simplify the litigation process to minimize those costs.
+[40] The process proposed in the Interim Order is one where a number of representative appeals will be heard together or one immediately after the other by the same judge, subject to his or her discretion to order otherwise.
+[41] To conclude, the issuance of a direction pursuant to subsection 146.1(2) is at the discretion of the Court. This is so even if the criteria set out in paragraphs 146.1(1)(a), (b) and (c) have been satisfied and or where the Respondent consents.
+Selection of Representative Appeals
+[42] I agree with the submissions of counsel for the Appellants, quoting from the Mariano decision, that representative cases should be chosen “with a view to having strong precedential value that may hopefully resolve at least the majority of the potential issues” and should “represent the widest band of similar issues”.
+[43] As further noted in the Mariano decision, the selection of representative cases does not happen in a vacuum. The parties are expected to make submissions and to put their best foot forward. Indeed, counsel for the Appellants has attempted to do so by recommending one of the three appeals involving 2293443 Holdings Inc. The Respondent is not opposed to that selection and the Court is prepared to show some deference to the consent of the parties.
+[44] However, it is difficult to comprehend how a single appeal that does not include all the common issues identified by Counsel for the Appellants, would have “strong precedential value” in a group of 52 appeals with another potential 150 at the opposition stage. That analysis is unpersuasive and simplistic at best.
+[45] In the exercise of its discretion, the Court must consider the broader interests of the administration of justice and that likely involves casting a much wider net.
+[46] I am of the view that the Court should ultimately consider several Appeals with similar though varied fact scenarios. This will best ensure that all issues are fully fleshed out and best lead to a decision with “strong precedential value”.
+[47] In this instance, the consultation has taken place over several months and I emphasize that the parties have been unable to agree. Nonetheless, the Court must weigh the submissions made keeping in mind that it is not up to the Case Management Judge to micro-manage the litigation process and dissect all of the appeals to determine which should go forward as representative or lead cases.
+[48] In this instance, the Interim Order refers to the appeal recommended by counsel for the Appellants as well as others recommended by the Respondent.
+[49] The Court was satisfied, when issuing the Interim Order, that the representative appeals included a cross-section of the “Primary Issues” and “Secondary Issues”, as described by counsel for the Appellants.
+[50] If the objective had been to make an arbitrary selection, the Court could have done so. Indeed, several appeals including Jemstar Farms Limited, LSGP Holdings Ltd., United Diamond Amalco Ltd. or Montella Polar Acquisitions Ltd., appear to include most if not all the common issues. The difficulty for the Court is that counsel, for reasons best known to themselves, have not suggested that any of those appeals go forward as representative or lead cases.
+[51] I conclude by noting that the Interim Order clearly indicated that reasons would follow in due course to address Sections 26 and 146.1 of the Rules. It was implicit that the selection of representative cases would also be addressed.
+[52] As of the date hereof, the Appellants have filed an appeal of the Interim Order. These reasons are released to complete the court record and with all due respect to appellate process.
+[53] These Reasons for Interim Order apply to all the appeals listed in Schedule A hereto.
+Signed at Ottawa, Canada, this 15th day of November 2018.
+“Guy Smith”
+Smith J.
+“SCHEDULE A”
+Court file No.
+Appellant
+2015-5160(IT)G
+Jemstar Farms Limited
+2017-3306(IT)G
+Freeway Amalco Ltd.
+2017-3307(IT)G
+Freeway Amalco Ltd.
+2017-3443(IT)G
+United Diamond Amalco Ltd.
+2017-3897(IT)G
+United Diamond Amalco Ltd.
+2017-3905(IT)G
+United Diamond Amalco Ltd.
+2017-3906(IT)G
+United Diamond Amalco Ltd.
+2017-3907(IT)G
+United Diamond Amalco Ltd.
+2017-3908(IT)G
+Burlington Retail Power Centre (South) Amalco Ltd.
+2017-4251(IT)G
+1489241 Alberta Ltd.
+2017-4255(IT)G
+United Diamond Amalco Ltd.
+2017-4269(IT)G
+Rusmar Triple A Acquisitions Ltd.
+2017-4457(IT)G
+1489241 Alberta Ltd.
+2017-4458(IT)G
+1489241 Alberta Ltd.
+2017-448(IT)G
+LSGP Holdings Ltd.
+2017-4487(IT)G
+Mantella Polar Acquisitions Ltd.
+2017-4488(IT)G
+Mantella Polar Acquisitions Ltd.
+2017-4578(IT)G
+United Diamond Amalco Ltd.
+2017-4582(IT)G
+Mantella Polar Acquisitions Ltd.
+2017-4598(IT)G
+United Diamond Amalco Ltd.
+2017-4645(IT)G
+0702995 British Columbia Ltd.
+2017-4646(IT)G
+Cordova Residential Property Inc.
+2017-4648(IT)G
+JNLMP Holdings Ltd.
+2017-4700(IT)G
+Mantella Polar Acquisitions Ltd.
+2017-4701(IT)G
+Mantella Polar Acquisitions Ltd.
+2017-4702(IT)G
+Mantella Polar Acquisitions Ltd.
+2017-4703(IT)G
+Mantella Polar Acquisitions Ltd.
+2017-4704(IT)G
+Mantella Polar Acquisitions Ltd.
+2018-1601(IT)G
+Fort Nelson 8 Ltd
+2018-1603(IT)G
+Fort Nelson 8 Ltd
+2018-1605(IT)G
+Fort Nelson 8 Ltd
+2018-1690(IT)G
+Pomacq Holdings Subco (1092743) Ltd.
+2018-1692(IT)G
+Pomacq Holdings Subco (1092743) Ltd.
+2018-1693(IT)G
+Pomacq Holdings Subco (1092743) Ltd.
+2018-1723(IT)G
+High Level 8 Motel Ltd.
+2018-1728(IT)G
+High Level 8 Motel Ltd.
+2018-1729(IT)G
+High Level 8 Motel Ltd.
+2018-193(IT)G
+1489241 Alberta Ltd.
+2018-62(IT)G
+Mantella Polar Acquisitions Ltd.
+2018-63(IT)G
+Mantella Polar Acquisitions Ltd.
+2018-64(IT)G
+Mantella Polar Acquisitions Ltd.
+2018-66(IT)G
+Mantella Polar Acquisitions Ltd.
+2018-2343(IT)G
+Pomacq Holdings Subco (951381) Ltd.
+2018-2344(IT)G
+Pomacq Holdings Subco (951381) Ltd.
+2018-2345(IT)G
+Pomacq Holdings Subco (951381) Ltd.
+CITATION:
+2018 TCC 228
+COURT FILE NOS.:
+2017-2072(IT)G et als
+STYLE OF CAUSE:
+4092325 INVESTMENTS LTD. et als v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF CASE MANAGEMENT CONFERENCE CALL:
+April 18, 2018 and June 19, 2018
+DATE OF INTERIM ORDER:
+September 20, 2018
+AMENDED COMMON REASONS FOR INTERIM ORDER BY:
+The Honourable Justice Guy R. Smith
+DATE OF AMENDED COMMON REASONS FOR INTERIM ORDER:
+November 15, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Guy Du Pont, Ad. E.
+Anne-Sophie Villeneuve
+Dov Whitman
+Counsel for the Respondent:
+Natalie Goulard
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Guy Du Pont, Ad. E.
+Anne-Sophie Villeneuve
+Dov Whitman
+Firm:
+Davies
+Montreal, Quebec
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

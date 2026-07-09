@@ -1,0 +1,175 @@
+---
+title: "Ouellet v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26108/index.do"
+last_modified: "2004-04-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 272"
+citation2: ""
+neutral_citation: "2004 TCC 272"
+decision_date: "2004-04-27"
+language: "en"
+item_id: "26108"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4169
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:32:58.867000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3f812124bbc81f41e087b431048de8879646640d0a43c31f51632d704b72f2e1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ouellet v. M.N.R.
+
+- Citation: 2004 TCC 272
+- Decision date: 2004-04-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4169, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ouellet v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-27
+Neutral citation
+2004 TCC 272
+File numbers
+2003-2867(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2003-2867(EI)
+BETWEEN:
+RÉGINALD OUELLET,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 11, 2004, at Rivière-du-Loup, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Representing the Appellant:
+Roland Rioux
+Representing the Respondent:
+Me Agathe Cavanagh
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister of National Revenue upheld in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, the 27th day of April, 2004.
+“François Angers”
+Angers, J.
+Certified true translation
+Colette Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2003-2865(CPP)
+BETWEEN:
+RÉGINALD OUELLET,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on March 11, 2004, at Rivière-du-Loup, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Representing the Appellant:
+Roland Rioux
+Representing the Respondent:
+Me Agathe Cavanagh
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister of National Revenue upheld in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, the 27th day of April, 2004.
+“François Angers”
+Angers, J.
+Certified true translation
+Colette Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2004TCC272
+Date: 20040427
+Dockets: 2003-2867(EI)
+2003-2865(CPP)
+BETWEEN:
+RÉGINALD OUELLET,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Justice Angers
+[1] These two appeals, which were heard on common evidence, were from decisions rendered by the Minister of National Revenue (the “Minister”) on
+May 13, 2003. The Minister informed the Appellant that the work he had carried out for Fletcher's Forestry Enterprises Ltd. (“Fletcher”) from August 28 to November 3, 2000, was not insurable employment because he was not employed under a contract of employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (the “Act”). He also informed the Appellant that this same employment was not pensionable employment for the same reasons pursuant to paragraph 6(1)(a) of the Canada Pension Plan (the “Plan”).
+[2] The Appellant is a logger and operates a skidder, which he owns. To obtain work during the period at issue, he telephoned a Fletcher representative and offered his services. During their initial meeting, it was agreed that his services and skidder rental expenses would be paid separately and no written contract was signed at that time. The Appellant would work on a team with Réjean Robichaud. They both worked for 10 weeks, for a total of 500 hours. Although Fletcher paid for Mr. Robichaud’s services, the Appellant asked to work with him.
+[3] Through its foreman, Fletcher told the Appellant where to go to carry out his work. The foreman then visited the worksite every two days to check how much wood had been cut and to ensure that the Appellant was cutting in the right place. The Appellant did not have a work schedule. He was given one hour for one and a half or two cords which meant an average of 10 hours of work a day. However, the Appellant and Mr. Robichaud were paid per cord or based on the amount of wood cut.
+[4] The Appellant provided his skidder and covered the costs of operating and repairing it. During the period at issue, Fletcher paid the Appellant between $759.20 and $1,150 in weekly advances and paid Réjean Robichaud directly. According to Fletcher, at the end of the work period, the advances the Appellant was paid and the remuneration Mr. Robichaud was paid were deducted from the remuneration owing the Appellant.
+[5] At the hearing, the Appellant’s representative submitted two contracts as evidence: a contract of employment between the Appellant and Fletcher; and a rental contract certifying that Fletcher had rented the Appellant’s skidder. Both contracts refer to the period at issue, but are not dated. The Appellant admitted signing the contracts two years after the period at issue at the request of his representative, Mr. Roland Rioux. When the Appellant hired the latter, he asked Fletcher to draw up and sign both contracts at issue. The Appellant did not know they existed until his representative asked him to sign them.
+[6] These two contracts surfaced because of a news release issued on July 30, 1998 by the Employment Insurance Eligibility Division at HRDC. The purpose of the release was to clarify the policy on forestry workers who, in addition to providing a contractor with services, rent their heavy machinery to this same contractor. Emphasis was placed in the release on the fact that it is essential that the contract of employment and heavy machinery rental contract be in writing. The Appellant’s representative therefore thought it would be wise to obtain both contracts in question, except they surfaced two years after the period at issue. In my opinion, they have no evidentiary weight in the case at hand.
+[7] An overview of a contract of employment is provided in the news release in question, but no specific instructions for drawing up this type of contract. They are only guidelines and every situation is different.
+[8] Ms Joanne Robichaud is the Appeals Officer who conducted the investigation in this case. She obtained her information from Fletcher and the Appellant. Based on the information she received from Fletcher, there was no written contract. According to Fletcher, the Appellant was told where he was supposed to cut the wood and how he was supposed to cut it. The Appellant’s remuneration was calculated according to the number of tonnes of wood he cut. He received advances for his remuneration and for the rental of the skidder and an adjustment was made once the wood had been measured at the plant. Fletcher paid Réjean Robichaud’s salary, but this expense was deducted from the Appellant’s income. If the skidder was not working, Fletcher would not assign the Appellant to other work. No record was kept of hours of work and the foreman on the worksite was only checking the amount of wood cut and the location.
+[9] In a recent decision, the Federal Court of Appeal set out the legal principles governing the issue of the insurability of employment. In Livreur Plus Inc. v. Canada, [2004] F.C.A. 267, Justice Létourneau summarized these principles in his own words in paragraphs 18 and 19 of his judgment:
+In these circumstances, the tests mentioned in Wiebe Door Services Ltd. v. M.N.R., 87 D.T.C. 5025, namely the degree of control, ownership of the work tools, the chance of profit and risk of loss, and finally integration, are only points of reference: Charbonneau v. Canada (Minister of National Revenue - M.N.R.) (1996), 207 N.R. 299, paragraph 3. Where a real contract exists, the Court must determine whether there is between the parties a relationship of subordination which is characteristic of a contract of employment, or whether there is instead a degree of independence which indicates a contract of enterprise: ibid.
+Having said that, in terms of control the Court should not confuse control over the result or quality of the work with control over its performance by the worker responsible for doing it: Vulcain Alarme Inc. v. The Minister of National Revenue, A-376-98, May 11, 1999, paragraph 10, (F.C.A.); D&J Driveway Inc. v. The Minister of National Revenue, supra, at paragraph 9. As our colleague Décary J.A. said in Charbonneau v. Canada (Minister of National Revenue - M.N.R.), supra, followed in Jaillet v. Canada (Minister of National Revenue - M.N.R.), 2002 FCA 394, "It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker."
+[10] Since the contracts signed two years after the period at issue have been dealt with, we must examine what the Appellant and Fletcher actually agreed on at their initial meeting. A rate based on the number of tonnes of cut wood was used to calculate the cost of renting the skidder, the Appellant’s and his teammate’s remuneration. The weekly advances were estimates and it was all subject to adjustment when the cut wood was finally measured. The teammate’s salary was deducted from the Appellant’s income. The Appellant was responsible for any expenses relating to the skidder and a major breakdown constituted a work stoppage because, according to Fletcher, it did not have to assign the Appellant other work.
+[11] Fletcher’s foreman did not have to check or keep a record of work hours. He was responsible only for ensuring that the Appellant cut in the right place and that the amount justified the weekly advances. He was not responsible for checking how the Appellant carried out his work. He was therefore monitoring the result, not the Appellant. As Justice Létourneau indicated in the above-noted Livreur Plus Inc., monitoring work results or quality must not be confused with monitoring whether the worker responsible for carrying them out has done so. He is therefore referring to Charbonneau v. Canada, (1996) 207 N.R. 299 in which Justice Décary wrote:
+Supervision of the work every second day and measuring the volume every two weeks do not, in this case, create a relationship of subordination, and are entirely consistent with the requirements of a contract of enterprise. It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker.
+[12] Based on the facts, Fletcher was interested only in the amount of wood cut, not in monitoring the worker. In fact, Fletcher could only assign the Appellant and his teammate to work on the skidder. It is therefore difficult to speak of subordination in circumstances such as these.
+[13] The Appellant covered all expenses associated with using the skidder and was responsible for any maintenance and repair. This type of agreement clearly favours an interpretation of a contract of enterprise inasmuch as the chance of profit or risk of loss are the Appellant’s alone. In the case at hand, Fletcher did not have the option to assign other workers to the skidder.
+[14] Based on the body of evidence, I find that the agreement between the Appellant and Fletcher favours an interpretation of a contract of enterprise. The Appellant’s remuneration was based on his work, that is, based on the amount of wood, weighed using the plant’s scales, that the Appellant and his teammate cut, regardless of the time it took or how the work was performed. The Appellant ran all the risks and was not assigned to other duties.
+[15] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, the 27th day of April, 2004.
+“François Angers”
+Angers, J.
+Certified true translation
+Colette Beaulne
+CITATION:
+2004TCC272
+COURT DOCKET Nos:
+2003-2867(EI)
+2003-2865(CPP)
+STYLE OF CAUSE:
+Réginald Ouellet and the Minister of National Revenue
+Réginald Ouellet and the Minister of National Revenue
+PLACE OF HEARING:
+Rivière-du-Loup, Quebec
+DATE OF HEARING:
+March 11, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice
+François Angers
+DATE OF JUDGMENT:
+April 27, 2004
+APPEARANCES:
+For the Appellant:
+Roland Rioux
+For the Respondent:
+Me Agathe Cavanagh
+SOLICITOR OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,255 @@
+---
+title: "Gosselin v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/145577/index.do"
+last_modified: "2016-06-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 158"
+citation2: ""
+neutral_citation: "2016 TCC 158"
+decision_date: "2016-06-21"
+language: "en"
+item_id: "145577"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2910
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:47:38.544000+00:00"
+cases_cited_count: 4
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f282e9d98012e43695deb2db0db1dbd11aea4175946bd1da6608a322a213fc07"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gosselin v. M.N.R.
+
+- Citation: 2016 TCC 158
+- Decision date: 2016-06-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2910, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gosselin v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-06-21
+Neutral citation
+2016 TCC 158
+File numbers
+2014-815(EI), 2015-358(EI)
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2014-815(EI)
+BETWEEN:
+ALAIN GOSSELIN,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+[ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal
+of Alain Gosselin, 2015-358(EI),
+on April 1, 2016, at Montréal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Gérald Tremblay
+Counsel for the Respondent:
+Nancy Azzi
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is upheld, in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 21st day of June 2016.
+"Robert J. Hogan"
+Hogan J.
+Docket: 2015-358(EI)
+BETWEEN:
+ALAIN GOSSELIN,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on common evidence with the appeal
+of Alain Gosselin, 2014-815(EI),
+On April 1, 2016, at Montréal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Gérald Tremblay
+Counsel for the Respondent:
+Nancy Azzi
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is upheld, in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 21st day of June 2016.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2016 TCC 158
+Date: 20160621
+Dockets: 2014-815(EI)
+2015-358(EI)
+BETWEEN:
+ALAIN GOSSELIN,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Introduction [1] Alain Gosselin ("the appellant") filed two appeals under the Employment Insurance program in connection with a decision rendered by the Minister of National Revenue (the "respondent") regarding the insurability of his employment.
+[2] On March 7, 2013, the respondent rendered a decision indicating that the appellant’s employment was not insurable within the meaning of the Employment Insurance Act[1] (the "EIA") while he was working for Maçonnerie Magloire Gosselin Inc., (the "payor") during the period from August 13, 2012 to December 21, 2012. On December 4, 2014, the respondent reached the same conclusion in another decision concerning the period from March 4, 2013 to December 19, 2013.
+II. Background [3] The parties agreed on several facts concerning the period from August 13, 2012 to December 21, 2012, which are contained in the partial agreed statement of facts filed in the Court Registry, specifically:
+1. On March 7, 2013, following a request from Service Canada for a ruling on employment insurability, an authorized Canada Revenue Agency ("CRA") official ruled that, during the period from August 13, 2012 to December 21, 2012 (hereinafter the "period at issue"), the appellant did not have insurable employment while he was working for Maçonnerie Magloire Gosselin Inc. (hereinafter the "payor").
+2. On May 29, 2013, the appellant appealed the decision of March 7, 2013, and asked the respondent to rule on the question of whether he had insurable employment during the period at issue, while he was working for the payor.
+3. In a letter dated December 23, 2013, the respondent informed the appellant of its decision to the effect that his employment while he was working for the payor during the period at issue was not insurable.
+4. The appellant is appealing this decision.
+5. The appellant and the payor are related persons within the meaning of the Income Tax Act, given the following assumptions made by the respondent:
+(a) The payor is a business corporation, incorporated on November 2, 1990, under Part IA of the Companies Act, RSQ, c. C‑38.
+(b) During the period at issue, the payor’s sole shareholder was Les Investissements Transco Inc.
+(c) The sole shareholder of Les Investissements Transco Inc. is Lynn Dubois.
+(d) Lynn Dubois is the appellant’s spouse.
+6. The payor operates a masonry work company in the field of residential, commercial and industrial construction.
+7. The payor’s Board of Directors is made up of five directors: the appellant, Sylvain Gosselin and Richard Gosselin (the appellant’s brothers), and Thierry Gosselin and Kevin Gosselin (his sons).
+8. The appellant has been working for the payor since 1990 under a verbal employment contract concluded in the province of Quebec.
+9. The appellant works for the payor mainly as a mason.
+10. The appellant is also responsible for purchasing materials, and picking up other workers and taking them to the worksites.
+11. The appellant has an occupation competency certificate from the Commission de la construction du Québec (hereinafter the "CCQ") as a journeyman mason.
+12. The appellant was the payor’s guarantor with the Régie du bâtiment du Québec for matters of administration, safety management, project and worksite management, and construction work.
+13. The appellant was also the payor’s designated representative with the CCQ.
+14. The appellant worked for the payor during regular construction business hours (i.e. 7:00 a.m. to 3:00 p.m.).
+15. The appellant sometimes finished working earlier than 3:00 p.m.
+16. The appellant’s work schedule during the period at issue was Monday to Friday, from 7:00 a.m to 3:00 p.m. (40 hours per week).
+17. For the weeks from August 13, 2012 to December 1, 2012, the payor paid the appellant $25/hour for a 30-hour week, which equals $750 per week.
+18. For the weeks from December 2, 2012 to December 21, 2012, the payor paid the appellant $25/hour for a 40-hour week, which equals $1000 per week.
+19. The payor laid off the appellant on December 21, 2012, at the same time as its other employees, because the season had ended.
+20. Contrary to the payor’s other employees with CCQ occupation competency certificates, the appellant did not receive vacation pay from either the payor or the CCQ during the construction vacation.
+21. Contrary to the payor’s other employees with CCQ occupation competency certificates, the appellant did not receive any sick leave, paid holidays, or other benefits.
+[4] Note that the parties agreed on substantially similar facts for the period from March 4, 2013 to December 19, 2013.
+[5] To render its decision to the effect that the appellant’s employment with the payor did not constitute insurable employment, the respondent assumed the facts described in paragraphs 7 and 9 of its replies to the appellant’s Notices of Appeal.[2]
+[6] During the hearing, new facts were presented to the Minister, namely that the payor had purchased a life insurance policy and paid the premiums on it. This policy included disability insurance and life insurance covering the appellant, life insurance for his spouse (Lyne Dubois), and a personal retirement savings bonus.
+III. Arguments of the parties A. Appellant’s position [7] First, the appellant maintains that the Court may take into account new evidence presented during the hearing and that the Court must consider all the evidence in order to assess the reasonableness of the Minister’s decision.
+[8] Moreover, the appellant claims that his remuneration and benefits are the same as those of other employees governed by the Commission de la construction du Québec (the "CCQ"), given that, when everything is taken into account, his net income is practically the same.
+[9] In his written submissions, the appellant maintains that, in fact, he receives more than the other employees and that it is to his advantage not to be governed by the CCQ and to receive the above-mentioned additional benefits, in particular, drug insurance, life insurance, wage-loss insurance and a retirement savings plan.
+[10] In short, the appellant argues that his employment with the payor constituted insurable employment during the periods in question.
+[11] The appellant also maintains that the Court cannot draw a negative inference from the fact that Lynn Dubois, the appellant’s spouse, did not testify, because Mr. Gosselin’s testimony alone is sufficient.
+[12] In this regard, counsel for the appellant argues that Mr. Gosselin’s testimony is credible and that the differences between his testimony and that of Mr. Potvin, the CRA decision-making officer, are perhaps only due to a poor understanding of the question or the answer.
+B. Respondent’s position [13] The respondent agrees that the Court may take new facts into account, but points out that these new facts do not in any way change the reasonableness of the Minister’s decision.
+[14] The respondent maintains that the appellant’s employment with the payor did not constitute insurable employment during the periods in question because, given all the circumstances, including the facts identified above, it was not reasonable to conclude that the appellant and the payor would have concluded a similar employment contract had they been dealing with each other at arm’s length within the meaning of subsections 5(2) and 5(3) of the EIA.
+[15] In this regard, the respondent maintains that the appellant was not being paid enough, given that before reporting to the worksite in the morning, he took the company truck to pick up workers and equipment, that he managed projects and worksite security, and that he made important decisions on behalf of the company.
+[16] The respondent also maintains that the appellant is not credible because his testimony during the hearing contradicts the version he gave to the decision-making officer.
+[17] The respondent also said that the fact that the appellant has an interest in the outcome of the proceedings is something to take into consideration when assessing his credibility.
+[18] The respondent maintains that the Court must draw a negative inference from the fact that Lynn Dubois was not called to testify because the appellant bears the burden of presenting sufficient evidence to refute the Minister’s assumptions.
+IV. Comments regarding the witnesses’ credibility [19] During the hearing, the CRA decision-making officer, Mario Potvin, testified about the interviews he had conducted with the appellant and Lyne Dubois. His report was also entered into evidence.[3]
+[20] During the interview conducted by the decision-making officer, the appellant, according to Mr. Potvin, mentioned the following facts[4]:
+WORKER’S VERSION:. . .
+[translation]
+He says that he does the same work as everyone else, but that he also acts as superintendent. He manages the employees on the worksite and the worksite. . . .
+In terms of his schedule, he says that he leaves home at 5:00 a.m. to get materials from the warehouse, which takes approximately 15 minutes, but afterward, he has to go to the Montreal worksite, which can take about 1 hour and 15 minutes. He says he picks up some workers along the way, who travel with him. . . .
+I called back the worker, Alain Gosselin . . . to find out who handles calls from clients when the company is closed during the winter.
+He said that he is the one who answers clients’ questions and quotes prices based on the square footage of the job. He also said that if a problem arises in the company, he handles it.
+[21] According to Mr. Potvin, Lyne Dubois, the payor, mentioned the following facts during her interview with the officer[5]:
+PAYOR’S VERSION:. . .
+[translation]
+The worker’s schedule starts at 5:00 a.m. when he goes to the warehouse to collect materials for the workday. He then works on the worksites and ends around 3:00 p.m. . . .
+According to Lyne Dubois, the three brothers make the big decisions.
+[22] The appellant’s testimony at the hearing differed from the version of the facts presented by Mr. Potvin regarding the telephone conversation. The appellant said that he was not the superintendent, that he did not manage the worksite, and that his oldest son held that position and was the one who brought the trailer of equipment to the worksite.
+[23] The appellant also said that he left Lavaltrie at 5:00 a.m. to avoid traffic, and that he went to the office, collected the tools he needed for the day, picked up workers along the way and had breakfast with them. He said that he was not working during those hours, which is why he was not paid for that time.
+[24] We therefore have contradictory versions.
+[25] In Nichols v. Canada,[6] my colleague, Justice Miller, provides a good summary of the elements that a judge can take into consideration when assessing a witness’s credibility:
+In assessing credibility I can consider inconsistencies or weaknesses in the evidence of witnesses, including internal inconsistencies (that is, whether the testimony changed while on the stand or from that given at discovery), prior inconsistent statements, and external inconsistencies (that is, whether the evidence of the witness is inconsistent with independent evidence which has been accepted by me). Second, I can assess the attitude and demeanour of the witness. Third, I can assess whether the witness has a motive to fabricate evidence or to mislead the court. Finally, I can consider the overall sense of the evidence. That is, when common sense is applied to the testimony, does it suggest that the evidence is impossible or highly improbable.
+[My emphasis.]
+[26] As noted by counsel for the respondent, the appellant contradicted himself during his testimony. On the one hand, at the beginning of his testimony, he claimed that he was only employed as a mason on the worksites and, later, he indicated that he played a larger role, that he answered questions from his colleagues and that he could not set aside his supervisory habits.
+[27] The appellant also tried to downplay his role with the payor company by denying, at the beginning of his testimony, that he submitted bids or that he answered questions from the company’s clients. However, later in his testimony, he acknowledged that he sometimes answered clients’ calls, even during periods when he had been laid off and was receiving Employment Insurance benefits.
+[28] There are other facts that lead me to question the appellant’s credibility. At the hearing, he revealed to the respondent, for the first time, that he was covered by a life insurance policy that represented a considerable benefit. I suspect he chose to reveal that benefit at that time to counter the respondent’s allegation that his remuneration was too low compared to what a person dealing at arm’s length with the payor company would expect.
+[29] The evidence shows that this insurance was not declared in the payor’s payroll or in the appellant’s Employment Insurance claim. As counsel for the respondent pointed out, the Employment Insurance application form asks the appellant to declare all [translation] "bonuses and premiums, benefits under a group wage-loss indemnity plan, retirement benefits or other benefits."
+[30] Note, as well, that Ms. Dubois, the appellant’s spouse and, according to him, the person responsible for the administration of the payor company, was not called as a witness to confirm the appellant’s version of the facts. In Payne,[7] Justice Campbell noted that a negative inference could be drawn if a party that could have provided pertinent evidence did not do so.
+While credible oral testimony may be sufficient in certain circumstances, and in the absence of relevant records, to demolish the assumptions of fact, jurisprudence has also established that a negative inference should be drawn against the party who is in the position of being able to provide pertinent evidence to the Court but who, for whatever reason, does not provide it.
+[My emphasis.]
+[31] Under the circumstances, I infer that the appellant did not call on Ms. Dubois to corroborate his version of the facts because he was afraid that his wife’s testimony would contradict his own.
+[32] For all these reasons, I conclude that the appellant’s testimony is neither reliable nor credible.
+[33] Mr. Potvin, on the other hand, was a credible and reliable witness. He had no interest in the outcome of this case. He testified that he wrote up his notes every day after conducting his interviews. For these reasons, I accept his testimony regarding the important role the appellant played with the payor company.
+V. Issues in dispute [34] There are two issues in dispute, namely:
+1) Can the Court take into account new facts revealed during the hearing?
+2) If so, is the Minister’s decision reasonable in light of all the pertinent facts and circumstances?
+VI. Applicable law and analysis [35] Under paragraph 5(2)(i) of the EIA, employment is not insurable if the employer and employee are not dealing with each other at arm’s length. However, paragraph 5(3)(b) of the EIA states that this employee who is not dealing with the employer at arm’s length can be considered to have insurable employment if the Minister is satisfied that, having regard to all the circumstances, it is reasonable to conclude that the parties would have entered into a substantially similar contract of employment. Paragraph 5(3)(b) of the EIA reads as follows:
+Arm’s length dealing
+(3) For the purposes of paragraph 2(i),
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[My emphasis.]
+[36] It is well established that the Court cannot simply substitute its decision for the respondent’s. In Denis v. Canada (Minister of National Revenue),[8] Chief Justice Richard describes the role of the judge as follows:
+[5] The function of the Tax Court of Canada judge in an appeal from a determination by the Minister on the exclusion provisions contained in subsections 5(2) and (3) of the Act is to inquire into all the facts with the parties and the witnesses called for the first time to testify under oath, and to consider whether the Minister’s conclusion still seems reasonable. However, the judge should not substitute his or her own opinion for that of the Minister when there are no new facts and there is no basis for thinking that the facts were misunderstood (see Pérusse v. Canada (Minister of National Revenue - M.N.R.), [2000] F.C.J. No. 310, March 10, 2000).
+[My emphasis.]
+[37] In Denis, it was determined that the function of the Tax Court of Canada judge is to inquire into all the facts with the parties and the witnesses to consider whether the Minister’s decision still seems reasonable. To do so, the judge must take into account all the facts presented in the case, even if they were not presented to the CRA decision-making officer.
+[38] In Birkland v. M.N.R.,[9] Justice Bowie analyzed Denis as follows:
+This Court’s role, as I understand it now, following these decisions, is to conduct a trial at which both parties may adduce evidence as to the terms upon which the Appellant was employed, evidence as to the terms upon which persons at arm’s length doing similar work were employed by the same employer, and evidence relevant to the conditions of employment prevailing in the industry for the same kind of work at the same time and place. Of course, there may also be evidence as to the relationship between the Appellant and the employer. In the light of all that evidence, and the judge’s view of the credibility of the witnesses, this Court must then assess whether the Minister, if he had had the benefit of all that evidence, could reasonably have failed to conclude that the employer and a person acting at arm’s length would have entered into a substantially similar contract of employment. That, as I understand it, is the degree of judicial deference that Parliament’s use of the expression "... if the Minister of National Revenue is satisfied ..." in paragraph 5(3)(b) accords to the Minister’s opinion.
+[My emphasis.]
+[Citations omitted.]
+[39] I agree with Justice Bowie’s statements. The judge must therefore make a decision based on all the evidence adduced during the trial concerning the reasonableness of the Minister’s decision.
+[40] For the following reasons, it is my opinion that the Minister’s decision is reasonable, even taking into account the new facts.
+[41] First, the evidence shows that the appellant’s position with the payor company was much more involved than that of a simple mason. However, he accepted remuneration at an hourly rate that was lower than that of other employees of the payor company.
+[42] I highly doubt that an employee dealing with the employer at arm’s length would have given up vacation pay in exchange for Employment Insurance benefits, especially since the benefits from his insurance policy would have an impact on the Employment Insurance benefits to which he would be entitled.
+[43] Rather, I believe the appellant preferred to receive Employment Insurance benefits instead of higher wages because that was of benefit to the payor company of which his wife was the sole shareholder. The benefits to the payor company would be greater than they would have been if she paid the appellant vacation pay as she did for the other employees.
+[44] This arrangement increased the family income. A third party would not have accepted such an arrangement.
+[45] In addition, I doubt the payor company is prepared to purchase the same amount of life insurance (including a retirement bonus) for all its employees and their spouses, especially considering that the appellant received this benefit even while he was unemployed.
+[46] Finally, an employee dealing at arm’s length with the payor company would not have agreed to continue working for the company after being laid off, as the appellant did.
+[47] For all these reasons, I dismiss the appellant’s appeal.
+Signed at Toronto, Ontario, this 21st day of June 2016.
+"Robert J. Hogan"
+Hogan J.
+CITATION:
+2016 TCC 158
+COURT FILE NOS.:
+2014-815(EI), 2015-358(EI)
+STYLE OF CAUSE:
+ALAIN GOSSELIN v. MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+April 1, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+June 21, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Gérald Tremblay
+Counsel for the Respondent:
+Nancy Azzi
+SOLICITORS OF RECORD:
+For the Appellant:
+Name:
+Gérald Tremblay
+Firm:
+Duval Tremblay
+Repentigny, Quebec
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Employment Insurance Act, S.C. 1996, c. 23
+[2] See paragraph 7 of the Reply to the Notice of Appeal dated May 12, 2014 and paragraph 9 of the Reply to the Notice of Appeal dated April 7, 2015.
+[3] See the document entitled "Information about the case" (Exhibit I-3).
+[4] Excerpts from the officer’s report, Exhibit I-3, pp. 4, 7.
+[5] Excerpts from the officer’s report, Exhibit I-3, p. 6.
+[6] Nichols v. The Queen, 2009 TCC 334.
+[7] Payne v. M.N.R, 2014 TCC 178, paragraph 27.
+[8] Denis v. Canada (Minister of National Revenue), 2004 FCA 26, paragraph 5.
+[9] Birkland v. M.N.R., 2005 TCC 291, paragraph 4.

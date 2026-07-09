@@ -1,0 +1,195 @@
+---
+title: "Honeywell Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27615/index.do"
+last_modified: "2006-09-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 327"
+citation2: ""
+neutral_citation: "2006 TCC 327"
+decision_date: "2006-09-26"
+language: "en"
+item_id: "27615"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 436
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:43:58.026000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ea5c607561c96286141b165590f21c738582479aea4cfb9f7cb771093a92ab8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Honeywell Limited v. The Queen
+
+- Citation: 2006 TCC 327
+- Decision date: 2006-09-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 436, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Honeywell Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-26
+Neutral citation
+2006 TCC 327
+File numbers
+2005-2502(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2502(IT)G
+BETWEEN:
+HER MAJESTY THE QUEEN,
+Applicant (Respondent),
+and
+HONEYWELL LIMITED,
+Respondent (Appellant).
+____________________________________________________________________
+Motion heard on May 31, 2006 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Al Meghji
+Martha MacDonald
+Counsel for the Respondent:
+Luther P. Chambers, Q.C.
+Pascal Tétrault
+____________________________________________________________________
+AMENDED ORDER
+Upon motion made by counsel for the respondent for an Order to amend the Reply to the Notice of Appeal and for an Order vacating the Order of the Court dated March 17, 2006 and directing the parties to contact the Court within 30 days of the final Order concerning the issues raised in the motion for the purpose of setting a new timetable for the further litigation of the appeal under subsection 152(9) of the Income Tax Act;
+And upon reading the Affidavits of Gordon Parr and Marilyn Bartolome‑White, filed;
+.../2
+And upon consideration of the oral and written submissions of counsel for the parties;
+And upon consideration of the written submissions of counsel for the parties upon the request by counsel for the respondent for a reconsideration of the Order of the Court dated June 22, 2006;
+It is ordered that the respondent be allowed to make the amendments sought to the extent set out in the Reasons for Order and in the Supplemental Reasons for Order and that the Order of this court dated March 17, 2006, setting a timetable for the further steps in the appeal be vacated and the parties are directed to communicate with the court within 30 days of the final disposition of this motion to set a new timetable.
+Costs will be in the cause.
+Signed at Ottawa, Canada, this 26th day of September 2006.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2006TCC327
+Date: 20060926
+Docket: 2005-2502(IT)G
+BETWEEN:
+HER MAJESTY THE QUEEN,
+Applicant (Respondent),
+and
+HONEYWELL LIMITED,
+Respondent (Appellant).
+SUPPLEMENTAL REASONS FOR ORDER
+Bowman, C.J.
+[1] In this motion the Crown seeks reconsideration by the court of an Order dated June 22, 2006, by adjudicating on certain amendments to the Reply to the Notice of Appeal sought by the respondent.
+[2] The motion was heard on May 31, 2006 and the Order disposing of that motion was signed on June 22, 2006. It ordered that the respondent be allowed to make the amendments sought to the extent set out in the Reasons for Order.
+[3] I did not deal with a number of the amendments sought by the respondent. The failure to do so was inadvertent. This is in my view plainly a case for the application of the slip rule. Rule 168 of the Tax Court of Canada Rules (General Procedure) permits the Court to correct a judgment (which includes an order) in respect of any matters that should have been dealt with that had been overlooked or accidentally omitted. I do not think that the fact that the parties have appealed and cross‑appealed from the order to the Federal Court of Appeal prevents the court from dealing with the items that were omitted.
+[4] The main question with which the reasons dealt was whether, having obtained from the taxpayer a waiver of the statutory time limit for assessing on the basis that such reassessment would be based on the General Anti-Avoidance Rule (“GAAR”) and having assessed in accordance with the waiver on that basis, the Crown is entitled to put forward an entirely new basis to justify the assessment (the Foreign Accrual Property Income (“FAPI”) rules.) I held that the Crown was not entitled to do so.
+[5] I did, however, permit amendments to certain of the paragraphs of the Reply. I shall list the paragraphs of the draft amended Reply to which amendments were sought or which the respondent sought to add, and the disposition I made of them.
+5 amendment allowed
+8 amendment allowed
+8A amendment allowed
+13(d)(iii)
+13(f)
+13(g)(i) amendment allowed
+(ii) amendment allowed
+(iii) amendment allowed
+(iv) amendment allowed
+13(h)(iii)
+13(i)
+13(k) amendment allowed
+13A amendment allowed
+15 amendment allowed
+16
+17 amendment allowed
+18
+18A amendment not allowed
+21A amendment not allowed
+21B amendment not allowed
+21C amendment not allowed
+21D amendment not allowed
+21E amendment allowed
+22A amendment allowed
+23(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+24
+25
+26
+27
+30
+33A
+33B
+34A
+[6] Counsel for the respondent points out that I did not deal with the amendments sought to paragraphs 13(d), 13(f), 13(h), 13(i), 16, 18, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33, 33A, 33B and 34A. He is quite right, I did not and I should have. I sincerely regret any inconvenience that this may have caused the parties.
+[7] Counsel has also pointed out that the appellant consented to a number of amendments.
+[8] I shall begin by dealing with the amendments to which counsel does not object. The order will be varied to permit the respondent to make the following amendments to the Reply in addition to those permitted in the original order. Paragraphs 13(f), 13(i), 16, 23(b), 23(c), 23(d), the reference to clause 95(2)(a)(ii)B in paragraphs 23(e), 23(h) and the references to the Income Tax Regulations and the Canada Netherlands Income Tax Convention.
+[9] In addition, while counsel for the appellant opposes certain other amendments, he nonetheless agrees that it is consistent with the Order and Reasons for Order that paragraph 23(e) of the draft amended Reply be amended to permit a reference to subsection 91(1) and paragraph 95(1)(b) of the Income Tax Act, and the reference to subsection 95(1) in paragraph 24 of the draft amended Reply. These amendments should be permitted.
+[10] I believe as well that the proposed amendments in paragraphs 18, 25, 26, 30 and 33, in the draft amended Reply are consistent with my Order and Reasons for Order.
+[11] Counsel for the appellant consents to the amendment at paragraph 18 and, although he opposes the amendments at paragraphs 23(f) and 33, he agrees that to permit this amendment to paragraphs 23(f) and 33 is consistent with the Order and Reasons for Order. These amendments should be permitted.
+[12] This leaves paragraphs 13(d), 13(h), 23(a), the reference to subsection 15(1) in paragraphs 23(e), 23(g), 27, 28, 29, 31, 33A, 33B and 34A.
+[13] Of these proposed amendments to the Reply the only further amendments that I think are inconsistent with my Order and Reasons for Order are 23(a), 33A and 33B. These are not allowed. The others are allowed.
+[14] Broadly speaking, then, the amendments which I am prepared to permit are those that are consistent with the GAAR assessment. The amendments which I am not prepared to permit are those that relate to the justification of the assessment under the FAPI rules.
+[15] If there are any other proposed amendments which I omitted to deal with, or if the parties require any further clarification of these reasons, I would ask that counsel communicate with the Court.
+Signed at Ottawa, Canada, this 26th day of September 2006.
+“D.G.H. Bowman”
+Bowman, C.J.
+CITATION:
+2006TCC327
+COURT FILE NUMBER:
+2005-2502(IT)G
+STYLE OF CAUSE:
+Her Majesty The Queen v.
+Honeywell Limited
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 18, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF SUPPLEMENTAL REASONS FOR ORDER:
+September 26, 2006
+APPEARANCES:
+Counsel for the Appellant
+(Respondent in the motion):
+Al Meghji
+Martha MacDonald
+Counsel for the Respondent
+(Applicant in the motion):
+Luther P. Chambers, Q.C.
+Pascal Tétrault
+COUNSEL OF RECORD:
+Counsel for the Appellant (Respondent in the motion):
+Name:
+Osler, Hoskin & Harcourt LLP
+Firm:
+Barristers & Solicitors
+1 First Canadian Place
+Toronto, ON M5X 1B8
+Counsel for the Respondent
+(Applicant in the motion):
+John H. Sims, Q.C.
+Deputy Attorney General of Canada

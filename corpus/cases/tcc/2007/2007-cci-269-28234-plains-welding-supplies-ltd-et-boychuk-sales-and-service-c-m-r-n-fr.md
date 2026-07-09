@@ -1,0 +1,228 @@
+---
+title: "Plains Welding Supplies Ltd. et Boychuk Sales and Service c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28234/index.do"
+last_modified: "2007-05-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 269"
+citation2: ""
+neutral_citation: "2007 CCI 269"
+decision_date: "2007-05-18"
+language: "fr"
+item_id: "28234"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2081
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:40:02.555000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7bff71691999727b0dcf403277a53605e06f458808d2f7b35300cfa5de67e733"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Plains Welding Supplies Ltd. et Boychuk Sales and Service c. M.R.N.
+
+- Citation: 2007 CCI 269
+- Decision date: 2007-05-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2081, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Plains Welding Supplies Ltd. et Boychuk Sales and Service c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-18
+Référence neutre
+2007 CCI 269
+Numéro de dossier
+2006-1187(EI)
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2006-1187(EI)
+ENTRE :
+PLAINS WELDING SUPPLIES LTD.
+FAISANT AFFAIRE SOUS LE NOM DE BOYCHUK SALES AND SERVICE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+______________________________________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Plains Welding Supplies Ltd. faisant affaire sous le nom de Boychuk Sales and Service (2006-1188(CPP)),
+le 26 avril 2007, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Représentant de l’appelante :
+M. Samuel Boychuk
+Avocate du répondant :
+Me Ainslie Schroeder
+Mme Melissa Danish (stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision rendue par le ministre est confirmée, selon les motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 10e jour de mai 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 5e jour de septembre 2007.
+Johanne Brassard, trad. a.
+Dossier : 2006-1188(CPP)
+ENTRE :
+PLAINS WELDING SUPPLIES LTD.
+FAISANT AFFAIRE SOUS LE NOM DE BOYCHUK SALES AND SERVICE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+______________________________________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Plains Welding Supplies Ltd. faisant affaire sous le nom de Boychuk Sales and Service (2006-1187(EI)),
+le 26 avril 2007, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Représentant de l’appelant :
+M. Samuel Boychuk
+Avocate de l’intimé :
+Me Ainslie Schroeder
+Melissa Danish (stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision rendue par le ministre est confirmée, selon les motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 10e jour de mai 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 5e jour de septembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI269
+Date : 20070510
+Dossiers : 2006-1187(EI)
+2006-1188(CPP)
+ENTRE :
+PLAINS WELDING SUPPLIES LTD.
+FAISANT AFFAIRE SOUS LE NOM DE BOYCHUK SALES AND SERVICE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] L’entreprise a été formée en 1964, par M. Boychuk père.
+[2] En 1975, M. Samuel Boychuk et son frère ont commencé à travailler avec leur père à l’exploitation de l’entreprise.
+[3] Samuel Boychuk a témoigné pour l’appelant.
+[4] Samuel Boychuk a dit que son frère avait laissé l’entreprise familiale et déménagé à Calgary.
+[5] La société appelante a été constituée en personne morale en 1986 et elle exerce ses activités à Kindersley, en Saskatchewan.
+[6] M. Boychuk a dit que l’entreprise de l’appelante pouvait être résumée ainsi :
+a) vente, réparation et entretien de remorques récréatives, de remorques industrielles et de remorques de fret;
+b) vente de pièces de camion et de remorque;
+c) soudage et vente de matériel de soudage;
+d) vente et installation de portes basculantes pour garages et autres bâtiments.
+[7] Julie Boychuk, l’épouse de Samuel, possède la totalité des actions de la société appelante. Julie Boychuk est la présidente de la société appelante, et Samuel Boychuk en est le directeur général.
+[8] M. Bryon Mock (le « travailleur ») a été embauché par l’appelante en 1993, à titre d’« homme à tout faire » chargé de l’entretien et de la réparation des remorques récréatives.
+[9] M. Samuel Boychuk a expliqué que le travailleur travaillait pendant un certain temps, puis quittait l’entreprise. M. Boychuk a en outre expliqué que le travailleur avait quitté la société appelante plusieurs fois, de 1993 à 2003, mais qu’il retournait ensuite travailler. Pendant cette période, l’appelante traitait le travailleur comme un employé.
+[10] En décembre 2003 ou en janvier 2004, le travailleur a indiqué à M. Boychuk qu’il voulait de nouveau travailler pour l’appelante.
+[11] M. Boychuk a témoigné que l’appelante avait retenu les services du travailleur en reconnaissant que ce dernier serait entrepreneur indépendant et non employé pour la période commençant le 1er janvier 2004. Le travailleur a travaillé pour l’appelante selon cet arrangement du 1er janvier 2004 au 21 juillet 2005 (la « période »).
+[12] M. Boychuk a témoigné que l’appelante avait actuellement sept employés et qu’elle retenait également les services d’une vingtaine d’entrepreneurs indépendants.
+[13] Le travailleur a demandé à l’Agence du revenu du Canada (l’« ARC ») de rendre une décision sur son statut professionnel auprès de l’appelante pendant la période.
+[14] Dans des lettres datées du 21 juillet 2005, le bureau de Saskatoon de l’ARC a fait part de la décision qui avait été rendue, selon laquelle le travailleur occupait un emploi assurable auprès de l’appelante pendant la période aux fins de la Loi sur l’assurance-emploi (la « Loi »), et qu’il s’agissait d’un emploi ouvrant droit à pension aux fins du Régime de pensions du Canada (le « Régime »).
+[15] L’appelante a interjeté appel auprès de la Cour à l’encontre de la décision rendue par l’ARC.
+B. QUESTION EN LITIGE
+[16] Il s’agit de décider si le travailleur occupait un emploi assurable auprès de l’appelante pendant la période aux fins de la Loi et si cet emploi ouvrait droit à pension aux fins du Régime.
+C. ANALYSE
+[17] Afin de décider si le travailleur était un employé de l’appelante, je me suis reporté à un certain nombre de décisions des tribunaux.
+[18] Dans Precision Gutters Ltd. c. Canada (Ministre du Revenu national), [2002] A.C.F. no 771, le juge Sexton, s’exprimant au nom de la Cour d’appel fédérale, a déclaré ce qui suit, aux paragraphes 15 à 19 :
+[15] [...] Les quatre éléments du critère unique à quatre volets sont (1) le degré de contrôle ou l’absence de contrôle de la part de l’employeur; (2) la propriété des instruments de travail; (3) la possibilité de profit; (4) le risque de perte (voir Mirichandani c. Canada (ministre du Revenu national) [2001] F.C.J. 269 et Wiebe Door Services, précité, à la page 5028).
+[16] Cette question a été examinée plus récemment par la Cour suprême du Canada dans l’arrêt Sagaz Industries Canada c. 67112 Ontario Limited. Dans cette cause, M. le juge Major, parlant au nom de la Cour, a examiné les divers critères servant à déterminer si une personne était un employé ou un entrepreneur indépendant. Celui-ci était d’accord avec la déclaration du juge MacGuigan sur le critère unique à quatre volets établi dans l’arrêt Wiebe Door, précité. Le juge Major a affirmé :
+[47] Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[17] Le passage sur lequel s’est fondé le juge Major dans l’arrêt Market Investigations, Ltd. v. Minister of Social Security, 9 [1968] 3 All E.R. 732 est rédigé comme suit :
+[traduction]
+Les remarques de lord Wright, du lord juge Denning et des juges de la Cour suprême des États-Unis laissent à entendre que le critère fondamental à appliquer est celui-ci : « La personne qui s’est engagée à accomplir ces tâches les accomplit-elle en tant que personne dans les affaires à son compte? » Si la réponse à cette question est affirmative, alors il s’agit d’un contrat d’entreprise. Si la réponse est négative, alors il s’agit d’un contrat de service personnel. Aucune liste exhaustive des éléments qui sont pertinents pour trancher cette question n’a été dressée, peut-être n’est-il pas possible de la faire; on ne peut non plus établir de règles rigides quant à l’importance relative qu’il faudrait attacher à ces divers éléments dans un cas particulier. Tout ce qu’on peut dire, c’est qu’il faudra toujours tenir compte du contrôle même s’il ne peut plus être considéré comme le seul facteur déterminant; et que des facteurs qui peuvent avoir une certaine importance sont des questions comme celles de savoir si celui qui accomplit la tâche fournit son propre outillage, s’il engage lui-même ses aides, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion, et jusqu’à quel point il peut tirer profit d’une gestion saine dans l’accomplissement de sa tâche. [Non souligné dans l’original.]
+[18] Donc, le juge Major a indiqué que la question centrale à trancher dans des causes semblables consistait à savoir si la personne qui avait été embauchée pour accomplir ces tâches les accomplissait en tant que personne dans les affaires à son compte ou en tant qu’employé. Afin de statuer, les quatre critères énumérés dans l’arrêt Wiebe Door représentent des facteurs à considérer.
+[19] Bien que ni le juge Major dans l’arrêt Sagaz ni le juge MacGuigan dans l’arrêt Wiebe Door n’aient complètement rejeté le « test de l’intégration », ceux-ci ont estimé qu’il pourrait être difficile à appliquer.
+[19] Je traiterai des quatre éléments établis par M. le juge MacGuigan dans l’arrêt Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025.
+Contrôle
+[20] La preuve dont je dispose établit les faits suivants :
+a) Samuel Boychuk fixait les prix pour les réparations ou les travaux d’entretien des remorques, avec le concours du travailleur.
+b) Samuel Boychuk assignait les travaux au travailleur.
+c) On avait demandé au travailleur d’être présent au lieu d’affaires de l’appelante pendant huit heures durant les heures d’ouverture.
+d) Le travailleur était tenu de remplir des feuilles de temps.
+e) Le travailleur recevait des directives de Samuel Boychuk afin d’éviter tout malentendu relatif au travail qui devait être effectué.
+f) Samuel Boychuk fixait des délais pour l’exécution des travaux qui avaient été confiés au travailleur.
+g) Samuel Boychuk inspectait les travaux effectués par le travailleur.
+h) Les clients de l’appelante parlaient à Samuel Boychuk lorsqu’ils avaient des doléances à exprimer au sujet des travaux effectués par le travailleur.
+i) Le travailleur ne traitait pas directement avec les clients de l’appelante.
+j) Le travailleur n’avait pas de nom commercial, ni de permis d’exploitation d’un commerce, ni de numéro d’inscription aux fins de la taxe sur les produits et services.
+[21] En me fondant sur la preuve qui m’a été présentée, je conclus que Samuel Boychuk exerçait effectivement un contrôle sur le travailleur pendant la période.
+Propriété des instruments de travail
+[22] La preuve établit que le travailleur possédait de petits outils à main, mais que l’appelante fournissait les gros outils, les outils spécialisés, l’équipement et l’atelier.
+[23] À mon avis, la preuve concernant la propriété des outils indique que l’appelante fournissait l’atelier et la majorité des outils. Ce « critère » révèle qu’il s’agit d’une relation employeur-employé.
+Possibilité de profit et risque de perte
+[24] Le travailleur était rémunéré à l’heure et n’engageait aucune dépense dans l’exécution de ses tâches. À mon avis, la preuve démontre que le travailleur n’avait ni possibilité de profit, ni risque de perte lorsqu’il exécutait des tâches pour le compte de l’appelante.
+[25] Ce « critère » révèle également qu’il s’agit d’une relation employeur‑employé.
+Intention des parties
+[26] M. Boychuk a déclaré que l’appelante et le travailleur n’avaient conclu aucune entente écrite portant sur leur relation. M. Boychuk a dit avoir compris que le travailleur était entrepreneur indépendant, mais le travailleur n’a pas reconnu qu’il était entrepreneur indépendant. À l’appui de cet énoncé, il est noté que le travailleur avait demandé à l’ARC de lui indiquer s’il était travailleur autonome.
+[27] J’en suis arrivé à la conclusion que les commentaires faits par la juge Sharlow dans l’arrêt Royal Winnipeg Ballet c. Canada, 2006 CAF 87, ne s’appliquent pas en l’espèce parce que l’appelante et le travailleur ne comprenaient pas la nature de leur relation de la même façon.
+D. CONCLUSION
+[28] Afin de traiter les points mentionnés ci‑dessus, je crois qu’il est très utile de se reporter aux commentaires faits par le juge Major dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc, [2001] A.C.S. no 61. Le juge Major a indiqué que la question centrale à trancher dans des causes semblables consistait à savoir si la personne qui avait été engagée pour fournir les services les fournissait en tant que personne travaillant à son compte ou en tant qu’employé. (Non souligné dans l’original.)
+[29] En me fondant sur la preuve dont je dispose, je conclus que l’on ne saurait affirmer que le travailleur effectuait ses tâches comme une personne travaillant à son compte. À mon avis, le travailleur effectuait ses tâches en tant qu’employé de l’appelante.
+[30] L’appel est rejeté, sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 10e jour du mois de mai 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 5e jour de septembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE :
+2007CCI269
+Nos DES DOSSIERS DE LA COUR :
+2006-1187(EI) et
+2006-1188(CPP)
+INTITULÉ :
+Plains Welding Supplies Ltd. faisant affaire sous le nom de Boychuk Sales and Service c.
+Ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 26 avril 2007
+MOTIFS DU JUGEMENT :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 10 mai 2007
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Samuel Boychuk
+Avocate de l’intimé :
+Me Ainslie Schroeder
+Mme Melissa Danish (stagiaire en droit)
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

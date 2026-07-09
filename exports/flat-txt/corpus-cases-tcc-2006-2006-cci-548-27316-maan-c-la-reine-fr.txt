@@ -1,0 +1,118 @@
+Title: Maan c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27316/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-548-27316-maan-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-10-06
+
+# Maan c. La Reine
+
+- Citation: 2006 CCI 548
+- Decision date: 2006-10-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 856, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-06
+Référence neutre
+2006 CCI 548
+Numéro de dossier
+2005-848(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-848(IT)G
+ENTRE :
+KULDEEP MAAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 26 septembre 2006, à Edmonton (Alberta)
+Devant : L'honorable juge Campbell J. Miller
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Margaret A. Irving
+________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en application de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 2000 est rejeté.
+L'appel de la cotisation établie en application de la Loi à l'égard de l'année d'imposition 2001 est admis, avec dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que les montants de 4 787 $ et de 15 000 $ ne doivent pas être inclus dans les revenus de Mme Maan comme avantages conférés à un actionnaire.
+Signé à Ottawa, Canada, ce 6e jour d'octobre 2006.
+« Campbell J. Miller »
+Le juge Miller
+Traduction certifiée conforme
+ce 12e jour de décembre 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI548
+Date : 20061006
+Dossier : 2005-848(IT)G
+ENTRE :
+KULDEEP MAAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Madame Maan a interjeté appel des cotisations établies à l'égard de ses années d'imposition 2000 et 2001. Il a été convenu dès le début du procès que les questions encore en litige concernent l'année d'imposition 2001 seulement. La question en litige pour cette année-là est de déterminer si Mme Maan a reçu des avantages conférés à un actionnaire s'élevant à 2 800 $, à 4 787 $ et à 15 000 $ de la part de la 783879 Alberta Ltd. (la « 783879 »).
+[2] Le litige découle principalement de ce que je dois qualifier de mauvaise tenue des comptes. Madame Maan s'occupait de la tenue des comptes et des livres comptables pour la 783879, une société de construction résidentielle dont elle était propriétaire. Pour sa tenue des comptes, elle conservait les factures originales, les états des rajustements concernant la vente de maisons, les reçus et les relevés de la banque, et elle ne faisait qu'envoyer le tout à son comptable qui, de son côté, essayait d'établir des grands livres généraux et des livres comptables convenables, en plus de produire les déclarations de revenus. À mon avis, cette façon de fonctionner ne pouvait faire autrement qu'engendrer des erreurs et des malentendus. Ceci était aggravé par une façon de faire courante dans les petites entreprises, où l'on ne fait pas la distinction nécessaire entre les finances d'un actionnaire et celles de la société. J'ai l'impression qu'il arrivait parfois à Mme Maan de défrayer elle-même les dépenses de la société. Elle ne comprenait peut-être pas l'importance de faire la distinction entre l'actionnaire et la société. C'était alors au comptable de trouver un sens aux allées et venues des fonds. À cet égard, il semble avoir souvent fait des entrées dans le compte de prêt à un actionnaire.
+[3] Quant aux trois montants en litige, j'examine d'abord le montant de 2 800 $. Ce montant figurait au grand livre général établi par le comptable comme un rajustement de fin d'année concernant les frais d'automobile. Le montant a été porté au débit du compte « automobile » et porté au crédit du compte de prêt à un actionnaire. Malheureusement, Mme Maan ne pouvait pas mettre le montant en contexte. Elle s'est seulement opposée à son inclusion dans le calcul de son revenu personnel étant donné qu'il a été refusé en tant que dépense d'entreprise.
+[4] Une explication possible de cette inscription comptable est que Mme Maan a défrayé elle-même certains frais d'automobile de l'entreprise. Cependant, il est aussi possible qu'il s'agissait d'un paiement des frais d'automobile personnels de Mme Maan, et que le montant n'aurait jamais dû apparaître dans les livres de l'entreprise. Malheureusement, le comptable n'a pas comparu pour confirmer la raison pour laquelle il avait ainsi comptabilisé le montant de 2 800 $. À défaut de précisions de la part de Mme Maan, je ne peux pas conclure qu'elle a réfuté l'hypothèse de la Couronne selon laquelle le montant de 2 800 $ représentait un avantage qui lui avait été conféré.
+[5] Ensuite, en ce qui concerne le montant de 4 787 $, Mme Maan a expliqué que la 783879 l'a versé, le 8 février 2001, à une entreprise de camionnage pour lui rendre service. En quelques jours, l'entreprise de camionnage avait remboursé la somme à Mme Maan personnellement, et cette dernière a redéposé l'argent dans le compte de la 783879. L'Agence du revenu du Canada a refusé la déduction du montant par la 783879. Le dépôt fait par Mme Maan dans le compte de la 783879 a été inscrit par le comptable dans le compte de prêt à un actionnaire de Mme Maan le 12 février 2001. À la fin d'octobre 2001, Mme Maan avait réduit à zéro le solde de son compte de prêt à un actionnaire. Dans les circonstances, lui a‑t‑on conféré un avantage?
+[6] Qu'aurait-on dû déclarer? La 783879 avait deux choix. Elle aurait pu déclarer un prêt accordé à l'entreprise de camionnage et le remboursement du prêt par l'entreprise de camionnage (rien n'aurait eu à passer par le compte de prêt à un actionnaire, et cela n'aurait eu aucun effet sur le revenu de la 783879), ou bien elle aurait pu déclarer un prêt accordé à Mme Maan qui, de son côté, verse le montant à l'entreprise de camionnage, se fait rembourser par celle-ci, et rembourse ensuite la 783879. Mais le solde du compte de prêt à un actionnaire de Mme Maan a plutôt augmenté de 4 787 $ en février 2001 pour refléter l'argent qu'elle a véritablement déposé dans le compte de la 783879. Les inscriptions du comptable indiquent que la 783879 a fait un don d'un certain montant d'argent à l'entreprise de camionnage et qu'ensuite, Mme Maan a accordé un prêt d'un montant semblable à cette même entreprise.
+[7] Dans l'arrêt R. c. Chopp[1], la Cour d'appel fédérale a recouru à l'explication d'un avantage conféré à un actionnaire donnée par le juge Cattanach dans la décision M.N.R. v. Pillsbury Holdings Ltd.[2] Elle est rédigée en ces termes :
+[TRADUCTION]
+En appliquant l'alinéa (c), il faut donner leur pleine importance à tous les mots employés. Il doit y avoir un « avantage » et cet avantage doit être « conféré » par une société à un « actionnaire ». Le verbe « conférer » signifie « accorder » ou « attribuer ». Même si une société a adopté formellement une résolution pour accorder un privilège ou un statut spécial à ses actionnaires, la question de savoir si la société avait l'intention de conférer un avantage à ses actionnaires ou si elle voulait inciter ses actionnaires à la soutenir financièrement, est une question de fait. Cela étant, il faut également considérer comme une question de fait chaque cas où le ministre prétend que ce qui ressemble à une opération commerciale ordinaire entre une société et un actionnaire n'est pas authentique et qu'il s'agit plutôt en réalité d'une méthode, d'un arrangement ou d'un plan visant à conférer un avantage à l'actionnaire en sa qualité d'actionnaire.
+[8] Si la 783879 a conféré un avantage à Mme Maan, c'était par mégarde. Si le montant avait été dûment comptabilisé, il n'y aurait certainement pas eu d'avantage. Je ne vois pas pourquoi la 783879 aurait conféré un avantage à Mme Maan. L'augmentation indiquée au compte de prêt à un actionnaire ne découle pas d'une décision prise selon les instructions de l'âme dirigeante de la société (Mme Maan). Elle est plutôt le résultat d'une mauvaise interprétation des circonstances par la personne qui essaie d'établir les livres comptables en bonne et due forme. Il n'y a pas de méthode, d'arrangement ou de plan visant à conférer un avantage à l'actionnaire.
+[9] Finalement, j'examine le montant de 15 000 $. Madame Maan a déposé 15 000 $ de son argent à elle dans le compte de la 783879 au début de 2001. Ceci est dûment indiqué dans le compte de prêt à un actionnaire. En mars, elle a retiré 6 000 $, et en avril 2001, 9 000 $. Par erreur, le comptable a inscrit ces montants dans le grand livre général comme des frais de main‑d'œuvre, et il n'a pas rajusté le compte de prêt à un actionnaire. Dans son témoignage, Mme Maan a affirmé qu'il était indiqué directement sur les chèques qu'il s'agissait du remboursement de son prêt, et je la crois. Le vérificateur, M. Miller, a judicieusement refusé la déduction des frais de main‑d'œuvre à la 783879. Dans la cotisation établie à l'égard de Mme Maan, on a toutefois déterminé qu'elle avait reçu un avantage de 15 000 $, étant donné que le montant n'avait pas été porté au débit du compte de prêt à un actionnaire. Il est évident qu'il n'avait pas été porté au débit du compte de prêt à un actionnaire parce qu'il avait été comptabilisé, à tort, comme frais de main‑d'œuvre. La question ici est donc de savoir si la contribuable a l'occasion de corriger l'erreur. L'ARC a corrigé l'erreur pour ce qui est de la société : elle a refusé la déduction des frais de main‑d'œuvre.
+[10] Je conclus que le montant de 15 000 $ reçu par Mme Maan ne représente pas un avantage. Je suis convaincu que, du point de vue juridique, il représente le remboursement d'un prêt. S'il y a effectivement un avantage, il peut seulement découler du fait que le solde du compte de prêt à un actionnaire de Mme Maan a été surévalué de 15 000 $. Autrement dit, si le compte de prêt n'était pas rajusté, elle pourrait retirer un autre 15 000 $ sans payer d'impôt. Madame Maan a affirmé que les livres ont été corrigés. Le vérificateur, M. Miller, a indiqué qu'il avait vu les livres corrigés, mais qu'il ne se rappelait plus des détails. Il a décrit les corrections comme ayant été faites à titre de renseignement.
+[11] Dans l'arrêt Chopp auquel m'a renvoyé l'avocate de l'intimée, la Cour d'appel fédérale a formulé l'observation ci-dessous à la suite du passage reproduit plus haut :
+Le même raisonnement a mené le juge Bowman de la C.C.I. à une conclusion semblable dans une décision très récente, Long c. Canada, [1997] T.C.J. no 722, où l'assujettissement à l'impôt décidé par le ministre se fondait sur une erreur de redressement d'un compte de prêt. […]
+[12] Dans la décision Long, no 96‑4714(IT)I, 24 juillet 1997, le juge Bowman a indiqué ce qui suit :
+Je ne vois pas comment on peut dire qu'une erreur comptable dont le seul actionnaire de la société n'était pas au courant, qu'il n'a pas sanctionnée et qui n'était pas conforme aux pratiques établies de la société constitue « en réalité une façon d'accorder un avantage à l'actionnaire en tant qu'actionnaire ».
+Me Levesque, soit l'avocate de l'intimée, m'a très honnêtement renvoyé à un certain nombre de décisions de notre cour, et notamment aux jugements Robinson v. M.N.R., 93 DTC 254, Simons v. M.N.R., 85 DTC 105, et Chopp v. The Queen, 95 DTC 527, soit des affaires dans lesquelles des inscriptions comptables erronées avaient été considérées comme n'étant pas un fondement approprié aux fins de l'imposition. Si je ne m'abuse, les jugements Robinson et Chopp ont été portés en appel devant la Cour fédérale. D'une manière générale, ces jugements étayent la conclusion à laquelle je suis parvenu, et je pense que, question de principe, les juges de notre Cour doivent chercher dans la mesure du possible à être uniformes. Toutefois, comme l'indique le jugement Pillsbury, lorsqu'il est question du paragraphe 15(1), chaque cas dépend des faits qui lui sont propres, et je considère comme avéré qu'aucun avantage n'a été conféré à l'appelant en tant qu'actionnaire au sens du paragraphe 15(1) de la Loi de l'impôt sur le revenu.
+[13] L'avocate de l'intimée soutient que le facteur distinctif ici, par rapport à l'arrêt Chopp par exemple, est que Mme Maan a bel et bien reçu 15 000 $ de la société. Toutefois, comme je l'ai déjà indiqué, du point de vue juridique, je considère le paiement comme le remboursement d'un prêt consenti par un actionnaire. D'ailleurs, la société le considère ainsi elle aussi. Ce paiement ne donne pas lieu à un avantage.
+[14] L'avantage auquel l'intimée veut appliquer l'impôt découle d'une erreur de comptabilité, erreur qui selon Mme Maan a été corrigée depuis. Dans les circonstances, suivant les décisions Long et Chopp, je ne suis pas convaincu que le montant de 15 000 $ représente un avantage conféré à un actionnaire.
+[15] L'appel concernant l'année d'imposition 2000 est rejeté, et l'appel concernant l'année d'imposition 2001 est admis, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que les montants de 4 787 $ et de 15 000 $ ne doivent pas être inclus dans les
+revenus de Mme Maan comme avantages conférés à un actionnaire. Les dépens sont adjugés à l'appelante.
+Signé à Ottawa, Canada, ce 6e jour d'octobre 2006.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 12e jour de décembre 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI548
+N° DU DOSSIER : 2005-848(IT)G
+INTITULÉ : KULDEEP MAAN ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Edmonton (Alberta)
+DATE DE L'AUDIENCE : Le 26 septembre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 6 octobre 2006
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Margaret A. Irving
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : S.O.
+Cabinet : S.O.
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] no A‑87‑95, 13 novembre 1997, 98 D.T.C. 6014.
+[2] 64 D.T.C. 5184.

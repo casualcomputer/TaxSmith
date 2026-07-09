@@ -1,0 +1,183 @@
+---
+title: "Minin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28794/index.do"
+last_modified: "2008-07-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 429"
+citation2: ""
+neutral_citation: "2008 TCC 429"
+decision_date: "2008-07-30"
+language: "en"
+item_id: "28794"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1514
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:58:12.733000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a84d1c79c2dc1b233f057751746c2865532ac86a92e99d8d6c7ad75c25066298"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Minin v. The Queen
+
+- Citation: 2008 TCC 429
+- Decision date: 2008-07-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1514, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Minin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-30
+Neutral citation
+2008 TCC 429
+File numbers
+2005-2082(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2082(IT)G
+BETWEEN:
+VICTOR MININ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 16, 2008, at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Paolo Torchetti
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, in part and without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled, in computing his income for the year 2000, to a deduction of $103,964 ($70,000 US) in relation to the proposed Russian casino project.
+Signed at Halifax, Nova Scotia, this 30th day of July 2008.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2008TCC429
+Date: 20080730
+Docket: 2005-2082(IT)G
+BETWEEN:
+VICTOR MININ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] There are three issues that were addressed during the hearing of this appeal:
+(a) whether the Appellant ceased to be a resident of Canada and became a resident of the United States in April 2000;
+(b) whether certain expenses related to the Appellant’s accommodation in the San Francisco area were deductible in computing his income in 2000; and
+(c) whether the Appellant is entitled to a deduction in computing his income in 2000 for an amount that he claimed he spent in relation to a potential casino project in an area near the Russia-China border.
+[2] Prior to 2000, the Appellant was living with his spouse and his children in Toronto. He and his wife separated (and later divorced in 2003). For the first part of the year 2000 the Appellant was living in Niagara Falls, Ontario and working in Amherst, New York. There was also an apartment that was available to him in Amherst, New York, where he could stay overnight if he had to be at an early morning meeting the following day. He was working on a contract basis for a project for Citigroup. This contract lasted for the first three months of 2000.
+[3] Following the completion of this contract, the Appellant flew to Russia and then to Israel and then returned to North America. Upon his return he tried to find work in the San Francisco area. He had two interviews and following the second interview he had a job with eLUXURY.com in April 2000. This job was in California, and eLUXURY.com supplied the accommodations for the Appellant. He did not pay for these accommodations and he stayed in these accommodations for the duration of the contract which lasted until August 2000. On the termination of the contract he vacated the premises where he was staying. While he was working for eLUXURY.com, eLUXURY.com paid the rental for the unit. After the expiration of the contract eLUXURY.com would no longer pay for the accommodation and the unit was too expensive for the Appellant to rent.
+[4] Following the termination of this contract with eLUXURY.com, the Appellant worked briefly at another job and then later found work with AudioBase. He stayed in hotels and other short-term accommodation. In each case the places were furnished and he only rented the apartments for short periods. The longest period of time that he stayed in any one place in 2000 was in the apartment provided by eLUXURY.com.
+[5] Throughout the year 2000 the Appellant was married but he and his wife were living separate and apart. The Appellant has two children – one was born in 1986 and the other in 1996. His children were living with his wife in the Toronto area. In addition to his wife and children, the Appellant’s mother also lived with his wife and children in the same premises in Toronto. The Appellant’s mother was from Russia, and he wanted to sponsor her for immigration to Canada. When the Appellant filed his tax return in Canada for 2000, he indicated that he was a resident of Canada (he listed his address as the address where his mother, his wife and his children were living) and he indicated the he was married (he did not indicate that he was separated).
+[6] When he was in California, he would fly home every second weekend to visit with his mother and his children. He was close to his mother and it was important to him that she was available to look after his children.
+[7] With respect to the first issue concerning whether the Appellant had ceased to be a resident of Canada in 2000, it seems clear that the Appellant had significant residential ties to Canada. His children were living with his mother and his wife in Canada. He was supporting this household by sending money regularly. He maintained his OHIP coverage. He maintained his Canadian credit cards. He flew every second weekend to Toronto to visit his children and his mother. He did not move any personal belongings to California. The accommodations at California were all of a very short-term or temporary nature in 2000.
+[8] There is also another very significant fact indicating that he did not cease to be a resident of Canada in 2000. When the Appellant filed his tax return in Canada for 2000, he indicated that he was a resident of Canada and listed the address of his mother, spouse and children as his address. He stated that he filed his tax return in Canada as a resident of Canada because he wanted to sponsor his mother’s immigration to Canada and he was concerned that he might not be able to do so if he would not have been a resident of Canada. His mother remained in Canada until late December 2000 or early January 2001 when she returned to Russia. Therefore the Appellant would have maintained this intention until late December 2000 or early January 2001. His mother later returned to Canada in 2005 but passed away later in that year.
+[9] It appears from a review of the Immigration and Refugee Protection Act and the Immigration and Refugee Protection Regulations that the Appellant may have had a valid concern in relation to his right to sponsor his mother. Sections 11, 12 and 13 of the Immigration and Refugee Protection Act provide as follows:
+11. (1) A foreign national must, before entering Canada, apply to an officer for a visa or for any other document required by the regulations. The visa or document shall be issued if, following an examination, the officer is satisfied that the foreign national is not inadmissible and meets the requirements of this Act.
+(2) The officer may not issue a visa or other document to a foreign national whose sponsor does not meet the sponsorship requirements of this Act.
+12. (1) A foreign national may be selected as a member of the family class on the basis of their relationship as the spouse, common-law partner, child, parent or other prescribed family member of a Canadian citizen or permanent resident.
+…
+13. (1) A Canadian citizen or permanent resident may, subject to the regulations, sponsor a foreign national who is a member of the family class.
+[10] Section 130 of the Immigration and Refugee Protection Regulations provides as follows:
+130. (1) Subject to subsection (2), a sponsor, for the purpose of sponsoring a foreign national who makes an application for a permanent resident visa as a member of the family class or an application to remain in Canada as a member of the spouse or common-law partner in Canada class under subsection 13(1) of the Act, must be a Canadian citizen or permanent resident who
+(a) is at least 18 years of age;
+(b) resides in Canada; and
+(c) has filed a sponsorship application in respect of a member of the family class or the spouse or common-law partner in Canada class in accordance with section 10.
+(2) A sponsor who is a Canadian citizen and does not reside in Canada may sponsor an application referred to in subsection (1) by their spouse, common-law partner, conjugal partner or dependent child who has no dependent children if the sponsor will reside in Canada when the applicant becomes a permanent resident.
+[11] The Appellant was a Canadian citizen in 2000. Since the Appellant wanted to sponsor his mother, he would have to reside in Canada. This clearly indicates an intention to remain as a resident of Canada since it was important to the Appellant that his mother be present in Canada to look after his children and he wanted to sponsor her immigration to Canada. Therefore I find that the Appellant did not cease to be a resident of Canada in 2000.
+[12] The Appellant was employed for significant periods of time in the United States in 2000 for significant remuneration (approximately $195,000 from eLUXURY.com and AudioBase). He spent more than one-half of the year 2000 in the United States. He had various accommodations in the United States in 2000. As a result, it appears that he was liable for taxes in the U.S. in 2000 and that he was a resident of the U.S. for the purposes of Article IV of the Canada-United States Income Tax Convention (the “Convention”) in 2000. This Article provides, in part, as follows:
+1. For the purposes of this Convention, the term “resident of a Contracting State” means any person that, under the laws of that State, is liable to tax therein by reason of that person's domicile, residence, citizenship, place of management, place of incorporation or any other criterion of a similar nature, but in the case of an estate or trust, only to the extent that income derived by the estate or trust is liable to tax in that State, either in its hands or in the hands of its beneficiaries. For the purposes of this paragraph, an individual who is not a resident of Canada under this paragraph and who is a United States citizen or an alien admitted to the United States for permanent residence (a “green card” holder) is a resident of the United States only if the individual has a substantial presence, permanent home or habitual abode in the United States, and that individual's personal and economic relations are closer to the United States than to any third State.
+2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
+(a) he shall be deemed to be a resident of the Contracting State in which he has a permanent home available to him; if he has a permanent home available to him in both States or in neither State, he shall be deemed to be a resident of the Contracting State with which his personal and economic relations are closer (centre of vital interests);
+(b) if the Contracting State in which he has his centre of vital interests cannot be determined, he shall be deemed to be a resident of the Contracting State in which he has an habitual abode;
+(c) if he has an habitual abode in both States or in neither State, he shall be deemed to be a resident of the Contracting State of which he is a citizen; and
+(d) if he is a citizen of both States or of neither of them, the competent authorities of the Contracting States shall settle the question by mutual agreement.
+[13] Since the Appellant was a resident of Canada and a resident of the United States in 2000 for the purpose of paragraph 1 of Article IV of the Convention, it is necessary to consider the application of the tiebreaker rules. The tiebreaker rules are set out in paragraph 2 of Article IV. The first tie-breaker rule is based on determining the country or countries in which the Appellant has a permanent home available to him. The Appellant stated that when he returned to Canada he would either stay at the home where his spouse, children and his mother resided or he would stay with friends. It would depend on the mood of his wife. The Appellant stated that he did not have a key to this residence where his spouse, his children and his mother were residing.
+[14] Since this home in Canada was a permanent home, the issue for the purposes of the Convention is whether or not the property was available to him. It does not seem plausible to me that this home would not have been available to him if he would have chosen to stay there. The Appellant was supporting the home and his mother, who was a former Russian general, was staying at this home. It does not seem plausible that his mother, as a former Russian general, would take orders from the Appellant’s spouse (her daughter in law) if the Appellant’s spouse should attempt to deny him entry to the home. The Appellant clearly stated that his mother would allow him access. Therefore it is more likely than not that his mother would have allowed the Appellant access to the property whenever he wanted even if his spouse would have objected and therefore I find that this home was available to him. Whether he chose to stay there or stay with friends was his choice. The issue for the purposes of the Convention is whether the property was available to him. It was available, and I find that he had a permanent home available to him in Canada throughout 2000.
+[15] The issue then becomes whether he had a permanent home available to him in the United States. In Garcia v. The Queen [2008] 1 C.T.C. 2215, 2007 D.T.C. 1593 Justice Lamarre stated that:
+11 It is my opinion that under the tie-breaker rule the appellant was resident in Canada since, during his stay in Canada, he had a permanent home available to him here, while he had none in the U.S.
+12 In so deciding, I rely on the commentary by the OECD (Organisation for Economic Co-operation and Development) Committee on Fiscal Affairs on Article 4 (regarding the definition of resident) of the Model Tax Convention on Income and on Capital, in Model Tax Convention on Income and on Capital, condensed version, dated July 15, 2005, at page 80, paragraphs 11, 12 and 13 (see Respondent's Book of Authorities Legislation, Tab B):
+11. The Article gives preference to the Contracting State in which the individual has a permanent home available to him. This criterion will frequently be sufficient to solve the conflict, e.g. where the individual has a permanent home in one Contracting State and has only made a stay of some length in the other Contracting State.
+12. Subparagraph a) means, therefore, that in the application of the Convention (that is, where there is a conflict between the laws of the two States) it is considered that the residence is that place where the individual owns or possesses a home; this home must be permanent, that is to say, the individual must have arranged and retained it for his permanent use as opposed to staying at a particular place under such conditions that it is evident that the stay is intended to be of short duration.
+13. As regards the concept of home, it should be observed that any form of home may be taken into account (house or apartment belonging to or rented by the individual, rented furnished room). But the permanence of the home is essential; this means that the individual has arranged to have the dwelling available to him at all times continuously, and not occasionally for the purpose of a stay which, owing to the reasons for it, is necessarily of short duration (travel for pleasure, business travel, educational travel, attending a course at school, etc.).1
+…
+14 To this I would add the following academic support:
+Treaties typically deem a dual resident individual to reside in the country in which he or she has a permanent home. Permanence implies that the individual must have arranged and retained the home for his or her permanent, as opposed to temporary, use or stays of short duration. A "home" includes any form of residential establishment, for example, a house, apartment, or even rented furnished rooms. It is the permanence of the home, rather than its size or nature of ownership or tenancy, that is the measure of attachment to the country.2
+(emphasis added)
+[16] I am not convinced that the accommodations that the Appellant was occupying in the San Francisco area in 2000 could be considered a permanent home available to him. The places where he stayed in 2000 in the San Francisco area are as follows:
+· From April until August 2000 he stayed in the apartment provided by eLUXURY.com
+· From August 7th to August 30th he stayed in Bay City Suites which he described in a hand written note as “temp. lodging”
+· From September 9th to September 13th he stayed at the Howard Johnson Hotel in Corte Madera, California
+· For the two weeks from September 14 to September 28 and for the one week from October 2 to October 9, he rented a condo; and
+· He signed a lease for the rental of a one bedroom furnished unit for the period from October 8, 2000 to March 7, 2001 (the agreement refers to March 7, 2000 but presumably meant March 7, 2001). After the expiration of this term, the rental was on a month to month basis and could be terminated on two weeks notice.
+[17] The gaps in the above schedule were presumably filled by other short term accommodations. There is no sense of any permanence to these living arrangements. He stayed at various places to be close to his work which, because his work was comprised of short term contracts, meant that he had to relocate several times to look for new work or to be near a new work location.
+[18] The only property which had any permanence in 2000 in the United States was a piece of land that he purchased in the Oakland area. However this was a piece of vacant land on which he indicated that he intended to build a home. He spent a lot of time cleaning up the particular parcel of land, but there was no indication that any building was ever constructed on the land and he never resided at this property.
+[19] Since his intention was to sponsor his mother for immigration, he would have intended to maintain his status as a resident of Canada which undoubtedly influenced his decision with respect to having a permanent home available to him in the United States. He was not an American citizen and he did not have a green card. He only held what he described as a North American trade visa that was valid for one year (but could be renewed). He held a California driver’s licence but he indicated that he only acquired this because he wanted to buy a car and he needed a California driver’s licence to obtain insurance. He indicated that in 2001 he bought a boat and then lived on the boat, but that was not until 2001.
+[20] I find that he did not have a permanent home available to him in the United States in 2000. As a result, under the Convention, he was a resident of Canada in 2000 and the provisions of subsection 250(5) of the Income Tax Act were not applicable to the Appellant in 2000.
+[21] The Appellant was allowed certain business expenses for the 2000 taxation year and after filing his tax return for 2000 he filed a T1 adjustment request. The only additional expenses for which there was any evidence at the hearing were the amounts claimed in relation to the accommodations in the United States and the amounts related to the proposed casino project near the Russia – China border.
+[22] The amounts that the Appellant spent on his accommodations in 2000 in the United States were personal living expenses. The Appellant argued that he was carrying on a real estate development business in the United States and that he was investigating properties for purchase that were for sale either as a result of a foreclosure or because property taxes had not been paid. However since he did not have any income from this business in 2000, the limitations in subsection 18(12) of the Income Tax Act would have been applicable even if he would have had an office in his accommodations in the United States. Given the number of different places where he stayed in 2000, it does not seem plausible that he had an office in each and every one of these places.
+[23] It also appears that his claim for accommodation expense includes a claim for the period when eLUXURY.com was paying for his accommodations.
+[24] The amounts paid for accommodations in the United States would also not qualify as moving expenses since the definition of moving expenses in subsection 62(3) of the Income Tax Act only includes the cost of lodging near the new residence. These were not amounts paid for lodging near the new residence but were amounts paid for the place that he was occupying as his residence. As a result, these costs were not moving expenses.
+[25] As a result, no amount will be deductible in computing the Appellant’s income for 2000 for the purposes of the Income Tax Act in relation to the accommodation expenses incurred by the Appellant and no amount will be deductible in relation to the accommodation provided by eLUXURY.com.
+[26] The Appellant also claimed a deduction for $70,000 US that the Appellant claimed was paid in relation to a proposed Russian casino project. Counsel for the Respondent submitted that there was no evidence that the amount had been spent. There was however the oral testimony of the Appellant that this amount was spent and also a receipt dated March 20, 2000 that appears to be signed by the Appellant and another individual who is stated to be the authorized representative of a government official and a Russian businessman. Only the Appellant testified during the hearing.
+[27] The receipt states that the $70,000 US was paid in full and that the Appellant has sole ownership of the Marketing Analysis and Casino Feasibility Study on Chita Oblast trade zone between Russia and China.
+[28] The Appellant described this trade zone as a border area between Russia and China in which persons traveling from either Russia or China have easy access so that business deals can be arranged between the two countries. The Appellant described this as an attractive area for a casino project. The Appellant stated that as a result of his contacts he acquired the exclusive rights to build and operate a casino in this area and that he had arranged for a feasibility study for this project. The Appellant had also contacted the casinos in Las Vegas to determine if there was any interest in developing this project and he had received an expression of interest from Caesars Palace.
+[29] The Appellant stated that the $70,000 US should be allocated between the exclusive rights to build this casino and the feasibility study on the basis that $20,000 US was for the exclusive rights and $50,000 US was for the feasibility study. In this particular case, it does not matter whether the amount is allocated to the feasibility study or to the amount spent for the exclusive right to build and operate a casino in this area. The rights to the feasibility study will be in the same category as the exclusive rights to develop the casino as these rights were only acquired in relation to the casino project and were also acquired for resale. The Appellant’s intention in acquiring the exclusive right to develop the casino and the feasibility study was to sell these as quickly as possible. It was not his intention to be involved in building or operating the casino.
+[30] Early in 2000, the Chinese government changed its laws or announced that it would be changing its laws, which meant that the casino project was no longer a viable project. As a result, the value of the exclusive rights to build and operate the casino and any interest in the feasibility study became nil.
+[31] The Appellant stated that there was not a lot of documentation related to the acquisition of the exclusive rights or the amount paid for such rights because that was the way that business was conducted in Russia at that time.
+[32] In this case I find that it is more likely than not that the Appellant acquired the exclusive rights to develop the casino in this particular area. The Appellant's mother was a former Russian general and therefore it certainly is plausible that the Appellant would have contacts within the Russian government to acquire these rights. The Appellant stated that he raised the $70,000 US by borrowing from friends, by selling some of his property in Russia and from his family. Copies of documents showing payments to Lev Khazauovich and Leonard Popov were introduced into evidence. These individuals were friends of the Appellant who lent him some of the money (approximately $20,000 US from Lev Khazauovich and $10,000 US from Leonard Popov). One of these individuals is now in Moscow and the other is in Minnesota. Since the Appellant is currently on social assistance and has limited financial resources, it would not be practical to have required the Appellant to bring these individuals into court to testify. Since the Appellant’s mother passed away in 2005, she could not testify. I am satisfied, on a balance of probabilities that the Appellant paid the $70,000 US and that he acquired the exclusive rights to develop the casino project in this area near the Russia – China border and the feasibility study. It should also be noted the Appellant’s income in 2000 from eLUXURY.com and AudioBase was $195,631.
+[33] It is clear from the evidence, and it is not disputed by the Respondent, that the Appellant’s intention with respect to these rights was to sell them as quickly as possible and not to develop the project himself. He was acquiring the rights to make a profit from the sale of the rights itself.
+[34] Therefore, these rights (which would be the exclusive rights to develop the casino project and the rights to the feasibility study) would be inventory to him. Because the rights would be inventory, and the value of this inventory at the end of 2000 was nil, the Appellant is entitled to a deduction of $70,000 US for 2000. In the Amended Reply the Respondent assumed that the rate of conversion from US dollars to Canadian dollars used by the Appellant was 1.4852. The Respondent did not challenge this exchange rate in the Amended Reply nor during the hearing. As a result the rate of conversion that will be used will be 1.4852 and $70,000 US will therefore be $103,964 in Canadian dollars.
+[35] As a result, the appeal is allowed, in part and without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled, in computing his income for the year 2000, to a deduction of $103,964 ($70,000 US) in relation to the proposed Russian casino project.
+Signed at Halifax, Nova Scotia, this 30th day of July 2008.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2008TCC429
+COURT FILE NO.: 2005-2082(IT)G
+STYLE OF CAUSE: VICTOR MININ AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 16, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: July 30, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Paolo Torchetti
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Victor Minin, on his own behalf
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

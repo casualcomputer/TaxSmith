@@ -1,0 +1,106 @@
+Title: Kamwar Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/233060/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-138-233060-kamwar-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-07-13
+
+# Kamwar Inc. v. The Queen
+
+- Citation: 2017 TCC 138
+- Decision date: 2017-07-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2108, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kamwar Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-07-13
+Neutral citation
+2017 TCC 138
+File numbers
+2016-5073(GST)APP
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-5073(GST)APP
+BETWEEN:
+KAMWAR INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on January 27, 2017 at Toronto, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Agent for the Applicant:
+Gunaratnam Vaithilingam
+Counsel for the Respondent:
+Eric Myles
+JUDGMENT
+WHEREAS the Applicant had filed an application for an extension of time to file a Notice of Objection under the Excise Tax Act (Canada) for the reporting period October 23, 2009 to September 30, 2010;
+AND WHEREAS the application was filed beyond the applicable legislated time period and this Court does not have jurisdiction to extend that legislated time period for the Applicant to file a Notice of Objection for the said reporting period;
+THEREFORE this application for an extension of time to file a Notice of Objection for the Applicant’s reporting period October 23, 2009 to September 30, 2010 is dismissed, without costs.
+Signed at Ottawa, Canada, this 13th day of July 2017.
+“B. Russell”
+Russell J.
+Citation: 2017TCC138
+Date: 20170713
+Docket: 2016-5073(GST)APP
+BETWEEN:
+KAMWAR INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+[1] This matter is an application filed November 28, 2016 by the corporate entity Kamwar Inc. for an order for an extension of time, pursuant to section 304 of the Excise Tax Act (Canada) (“Act”), to file with the Minister of National Revenue (“Minister”) a notice of objection. The notice of objection would be in respect of an assessment under the Act raised March 8, 2012 for the reporting period October 23, 2009 to September 30, 2010. That assessment substantially reduced an input tax credit (“ITC”) that Kamwar had claimed for that period. The said assessment was evidenced by a Notice of (Re)assessment mailed March 8, 2012 to the address for Kamwar that had last previously been provided to the Minister by or on behalf of Kamwar.
+[2] The principal of Kamwar, Mr. Gunaratnam Vaithilingam, testified in support of this application. I accept his evidence as having been entirely credible. He testified that due to family issues he was living away from his home, the address of which was also Kamwar’s official address, at the time the said Notice of (Re)assessment would have been sent. He said that for this reason likely, he never saw the said Notice. He did not try to suggest or argue that the Notice had never been sent. In cross-examination he suggested it may have gone astray in the mail. He stated he only became aware of the assessment in September or October of 2016 when Canada Revenue Agency (“CRA”) Collections contacted him.
+[3] He stated he is currently working as a telemarketer for $12 an hour and suffers from depression. His spouse was suffering from cancer. He seeks an opportunity to prove the full ITC that had been reduced by the Minister. He requested the Court’s indulgence in granting an extension of time so as to provide the opportunity to file a notice of objection.
+[4] The Respondent called no evidence, having filed with the Court, with copy to the Applicant, the affidavit of CRA officer Danny Docuyanan sworn January 20, 2017. The affidavit set out the particulars as to the mailing of the said Notice of (Re)assessment on March 8, 2012 and as to Mr. Docuyanan’s search of pertinent CRA records to ascertain whether any notice of objection relevant to the said assessment, or any earlier application to extend time for such filing, had been filed. His finding was that no such document or documents had been previously filed, prior to the October 20, 2016 attempted filing by the Applicant of a notice of objection. The Minister had responded to that by letter dated November 18, 2016 stating that that purported notice of objection could not be accepted as it had been presented for filing after the last allowable day, being June 6, 2013.
+[5] As well, there had not been any reassessment of the 2010 reporting period.
+[6] In argument the Respondent cited several authorities all to the effect that subsection 304(5) of the Act made clear that a section 304 application for extension could not be granted if an application to the Minister pursuant to section 303 for the extension had not been made within a year after the expiry of the 90 day period provided by subsection 301(1.1) for filing a notice of objection.
+[7] The cited authorities included Chomatas v R, 2013 TCC 319; Désir c R, 2015 TCC 126; Hughes v R, 2015 TCC 59.
+[8] The wording of subsection 304(5) is precise and unambiguous. It reads in pertinent part:
+No application shall be granted under this section unless
+a) the application was made under subsection 303(1) within one year after the expiration of the time otherwise limited by this Part for objecting [being per subsection 301(1.1) 90 days after the day the assessment notice was mailed]…
+[9] The circumstances of the Applicant’s principal evoke compassion. However, the precise and unambiguous wording of subsection 304(5) does not admit of any opportunity for judicial exercise of discretion. Unless a subsection 303(1) application was made prior to June 6, 2013, Parliament has denied the Court, by its very specific wording of the introductory words of subsection 304(5), any ability to do other than deny this application. And, the uncontroverted evidence here is that the subsection 303(1) application was only filed October 20, 2016, being well more than three years too late.
+[10] It is with regret that I accordingly am obliged to dismiss this section 304 application for extension of time to file the desired notice of objection. This application is dismissed, without costs.
+Signed at Ottawa, Canada, this 13th day of July 2017.
+“B. Russell”
+Russell J.
+CITATION:
+2017TCC138
+COURT FILE NO.:
+2016-5073(GST)APP
+STYLE OF CAUSE:
+KAMWAR INC. AND THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 27, 2017
+REASONS FOR ORDER BY:
+The Honourable Justice B. Russell
+DATE OF ORDER:
+July 13, 2017
+APPEARANCES:
+Agent for the Applicant:
+Gunaratnam Vaithilingam
+Counsel for the Respondent:
+Eric Myles
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

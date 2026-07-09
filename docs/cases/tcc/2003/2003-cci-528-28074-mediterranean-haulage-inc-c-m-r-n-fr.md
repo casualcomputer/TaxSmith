@@ -1,0 +1,115 @@
+---
+title: "Mediterranean Haulage Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28074/index.do"
+last_modified: "2003-08-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 528"
+citation2: ""
+neutral_citation: "2003 CCI 528"
+decision_date: "2003-08-19"
+language: "fr"
+item_id: "28074"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1594
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:51:33.475000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8c227a3298101c7bb1afd16615d0c272862f3f92bd3ffc6493597f00ec2e784e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mediterranean Haulage Inc. c. M.R.N.
+
+- Citation: 2003 CCI 528
+- Decision date: 2003-08-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1594, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mediterranean Haulage Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-19
+Référence neutre
+2003 CCI 528
+Numéro de dossier
+2002-3840(EI)
+Juges et Officiers taxateurs
+William E. MacLatchy
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002‑3840(EI)
+ENTRE :
+MEDITERRANEAN HAULAGE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 15 juillet 2003 à Toronto (Ontario)
+Devant : L’honorable juge suppléant W. E. MacLatchy
+Comparutions
+Représentante de l’appelante :
+Valia Eliopoulos
+Avocat de l’intimé :
+Me Michael Appavoo
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 19e jour d’août 2003.
+« W. E. MacLatchy »
+Juge suppléant MacLatchy
+Traductrice certifiée conforme
+ce 2e jour de février 2004.
+Louise‑Marie Leblanc, traductrice
+Référence : 2003CCI528
+Date : 20030819
+Dossier : 2002‑3840(EI)
+ENTRE :
+MEDITERRANEAN HAULAGE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant MacLatchy
+[1] L’appel a été entendu le 15 juillet 2003, à Toronto, en Ontario.
+[2] L’appelante a interjeté appel à l’encontre d’une décision du ministre du Revenu national (le « ministre ») visant à déterminer si Constantine Eliopoulos (le « travailleur ») occupait ou non un emploi assurable au sens de la Loi sur l’assurance‑emploi (la « Loi ») lorsqu’il travaillait pour l’appelante pendant la période allant du 17 juillet 2000 au 8 décembre 2001.
+[3] Dans une lettre datée du 11 juillet 2002, le ministre a informé le travailleur et l’appelante qu’il avait déterminé que le travailleur n’occupait pas un emploi assurable pendant la période pertinente parce qu’il y avait un lien de dépendance entre le travailleur et l’appelante en vertu de l’alinéa 5(2)i) de la Loi.
+[4] Le ministre a exercé son pouvoir discrétionnaire en vertu de l’alinéa 5(2)i) de la Loi et a décidé que le contrat de travail avait été conclu par des personnes ayant entre elles un lien de dépendance.
+[5] Pour rendre sa décision, le ministre s’est fondé sur les hypothèses présentées aux paragraphes 8 a) à n) de la Réponse à l’avis d’appel. Valia Eliopoulos, la seule détentrice des actions de la payeuse, a témoigné pour le compte de l’appelante. Le témoin a admis les hypothèses a) à i). Elle a embauché son fils, le travailleur, pour conduire son camion parce qu’il possédait les titres et qualités appropriés, qu’il était un conducteur prudent et fiable et qu’il travaillerait selon les conditions et la rémunération qu’elle établissait. Le camion a tout d’abord été loué par son fils parce qu’il possédait le permis de conduire requis pour conduire le camion, l’une des conditions de location du camion. Le camion a été mis au nom de l’appelante seulement après que cette dernière ait racheté le contrat de location.
+[6] Pendant les premières années de l’entreprise, le travailleur était rémunéré seulement s’il restait des fonds après avoir payé la location, les frais d’exploitation et les réparations, autrement, le travailleur n’était pas payé. Ce dernier n’était pas payé à l’heure ou au chargement, mais il recevait une rémunération de 745 $ par semaine, qu’il ait travaillé ou non. La propriétaire de l’appelante a indiqué qu’elle désirait garder son fils comme employé parce qu’il était un conducteur prudent et fiable qui maintenait le véhicule en bon ordre. Il semble qu’il était difficile d’embaucher de tels conducteurs.
+[7] En vertu de l’alinéa 5(2)i) de la Loi, il faut déterminer s’il existe un lien entre les parties au sens des articles 251 et 252 de la Loi de l’impôt sur le revenu. Si l’on applique ces articles aux faits de l’affaire qui nous occupe, les conclusions indiquent que les parties étaient liées et qu’elles étaient considérées avoir un lien de dépendance entre elles. Toutefois, la loi accorde au ministre un pouvoir discrétionnaire qui lui permet de considérer qu’il n’existe pas de lien de dépendance entre les parties s’il est convaincu qu’il est raisonnable de croire que les parties auraient conclu un contrat de travail à peu près semblable s’il n’y avait pas eu de lien de dépendance entre elles.
+[8] En raison du témoignage présenté devant cette Cour, on a jugé que la conclusion du ministre était raisonnable dans les circonstances. Le paragraphe 4 de la décision Légaré c. Canada (ministre du Revenu national – M.R.N.), [1999] A.C.F. no 878 stipule de quelle façon le ministre doit être « convaincu » :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[9] Dans les présentes circonstances, le ministre n’était pas convaincu que les parties auraient conclu un contrat de travail à peu près semblable s’il n’y avait pas eu de lien de dépendance entre elles. La Cour n’est pas convaincue que le ministre a utilisé son pouvoir discrétionnaire de façon irraisonnable.
+[10] L’appel est rejeté et par conséquent la décision du ministre est confirmée.
+Signé à Toronto (Ontario), ce 19e jour d’août 2003.
+« W. E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 2e jour de février 2004.
+Louise-Marie Leblanc, traductrice

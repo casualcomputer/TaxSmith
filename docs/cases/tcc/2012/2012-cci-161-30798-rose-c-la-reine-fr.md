@@ -1,0 +1,163 @@
+---
+title: "Rose c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30798/index.do"
+last_modified: "2012-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 161"
+citation2: ""
+neutral_citation: "2012 CCI 161"
+decision_date: "2012-05-11"
+language: "fr"
+item_id: "30798"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7542
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:38:59.480000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b0074a94673ac7e384618fd87e3a2625d7ed3e65c5c118b8a27c3c76b495b64e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rose c. La Reine
+
+- Citation: 2012 CCI 161
+- Decision date: 2012-05-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7542, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rose c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-05-11
+Référence neutre
+2012 CCI 161
+Numéro de dossier
+2011-3147(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3147(IT)I
+ENTRE :
+ELAINE J. ROSE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu le 19 avril 2012, à Calgary (Alberta).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelante :
+M. Robert C. Rose
+Avocat de l’intimée :
+Me Robert A. Neilson
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 11e jour de mai 2012.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 25e jour de juin 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2012 CCI 161
+Date : 20120511
+Dossier : 2011-3147(IT)I
+ENTRE :
+ELAINE J. ROSE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUDGMENT
+La juge V. A. Miller
+[1] Elaine J. Rose interjette appel de la nouvelle cotisation établie à son égard pour son année d’imposition 2009, dans laquelle le ministre du Revenu national (le « ministre ») a refusé sa demande de crédit d’impôt pour frais de scolarité et de crédits d’impôt pour études et pour manuels.
+[2] L’appelante n’était pas présente à l’audience, mais elle a été représentée par son époux. Les faits de l’espèce ne sont pas contestés, mais les parties sont en désaccord quant à l’application de la loi à ces faits.
+[3] L’appelante est professeure adjointe à plein temps à l’École des sciences infirmières du Collège Mount Royal, à Calgary. Les crédits d’impôt pour frais de scolarité et ceux pour études et pour manuels que l’appelante avait demandés pour 2009 se rapportaient à des frais payés relativement à un programme de troisième cycle en gestion et en leadership organisationnel (le « programme ») de l’Université de Phoenix pour lequel l’appelante étudiait en ligne. Selon les documents présentés au nom de l’appelante, cette dernière était inscrite au programme à plein temps. La durée prévue du programme est de trois années d’études, plus une autre année consacrée à l’achèvement et à la soutenance de la thèse de l’appelante. Le programme n’est pas offert au Canada, mais il est reconnu par l’employeur de l’appelante, pour l’obtention de la titularisation, je suppose.
+[4] En 2009, l’appelante a suivi huit cours ayant duré de trois à neuf semaines chacun. L’appelante a payé des frais de scolarité s’élevant à 12 186 $US et des frais pour études et pour manuels de 4 650 $US.
+[5] L’Université de Phoenix avait alors deux campus au Canada, mais l’appelante n’avait aucun lien avec ces campus. Elle ne fréquentait pas ces campus et ne leur payait aucuns frais.
+Crédit d’impôt pour frais de scolarité
+[6] La première question à trancher est la question de savoir si l’appelante avait droit à un crédit d’impôt pour les frais de scolarité qu’elle a payés en 2009. Les parties pertinentes de l’article 118.5 de la Loi de l’impôt sur le revenu (la « Loi ») se lisent ainsi :
+Crédit d’impôt pour frais de scolarité
+118.5 (1) Les montants suivants sont déductibles dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+a) si le particulier est inscrit au cours de l’année à l’un des établissements d’enseignement suivants situés au Canada :
+(i) établissement d’enseignement – université, collège ou autre – offrant des cours de niveau postsecondaire,
+[…]
+b) si, au cours de l’année, le particulier fréquente comme étudiant à plein temps une université située à l’étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l’année par le total des frais de scolarité payés à l’université pour l’année, à l’exception des frais qui ont été :
+(i) soit payés pour des cours d’une durée inférieure à 13 semaines consécutives,
+[…]
+[7] Les alinéas 118.5(1)a) et b) établissent les conditions à remplir pour pouvoir demander le crédit d’impôt pour frais de scolarité, à savoir : a) le particulier était inscrit à un établissement d’enseignement situé au Canada, ou b) le particulier fréquentait à plein temps une université située à l’étranger. Lorsque c’est l’alinéa b) qui s’applique, les frais de scolarité doivent alors avoir été payés pour des cours d’une durée d’au moins 13 semaines consécutives.
+[8] Dans quatre décisions récentes, la Cour a examiné la question de savoir si des particuliers qui suivaient des cours en ligne offerts par l’Université de Phoenix étaient inscrits à un établissement d’enseignement situé au Canada.
+[9] Le juge Beaubier, dans la décision Robinson c. Canada, 2006 CCI 644, et le juge Little, dans la décision Cammidge c. Canada, 2011 CCI 172, ont tous les deux statué qu’étant donné que l’Université de Phoenix avait des campus situés au Canada, les particuliers qui suivaient en ligne des cours de cette université étaient inscrits à un établissement d’enseignement situé au Canada. Dans la décision Cammidge, le juge Little a conclu qu’en établissant des campus au Canada, l’Université de Phoenix s’était assujettie au droit canadien, ce qui en faisait donc un établissement d’enseignement situé au Canada.
+[10] Les décisions Robinson et Cammidge n’ont été appliquées ni par le juge Margeson dans Faint c. Canada, 2011 CCI 260 ni par le juge Webb dans Abdalla c. Canada, 2011 CCI 328. Tous deux ont tiré la conclusion que les particuliers inscrits à des cours en ligne offerts par l’Université de Phoenix sans avoir de liens avec les campus de cette université situés au Canada n’étaient pas inscrits à un établissement d’enseignement situé au Canada. Dans la décision Faint, le juge Margeson a déclaré ce qui suit :
+25 En ce qui concerne Phoenix, le seul lien avec le Canada est la preuve de l’existence d’un campus de cette université situé au Canada au cours de l’année en question. Toutefois, l’appelante n’a suivi aucun cours à ce campus, elle n’a eu aucun examen établi ou noté pour elle par le campus, elle n’a payé aucuns frais de scolarité au campus, n’y a suivi aucun cours et n’a reçu de ce campus aucune instruction ni aucun soutien technique.
+26 Dans ces circonstances, la Cour ne peut pas conclure à l’existence de quelque facteur de rattachement établi qui lui permettrait de décider que Phoenix était un établissement situé au Canada selon l’alinéa 118.5(1)a) de la Loi.
+27 Les facteurs que mentionne l’appelante dans son argument ne révèlent l’existence d’aucun lien suffisant avec le campus de Vancouver qui pourrait convaincre la Cour de tirer une conclusion différente.
+[11] J’adhère aux conclusions tirées dans les décisions Faint (précitée) et Abdalla (précitée). Comme le juge Webb l’a mentionné dans Abdalla (précitée), l’alinéa 118.5(1)a) exige que le particulier soit « inscrit […] à l’un des établissements d’enseignement […] situés au Canada », et non simplement inscrit à un établissement d’enseignement qui comprend un campus situé au Canada.
+[12] L’appelante était inscrite à un programme de troisième cycle de l’Université de Phoenix, aux États‑Unis. C’est à l’Université de Phoenix qu’elle a payé ses frais de scolarité; tout l’enseignement théorique qu’elle a reçu lui était dispensé à partir des États‑Unis, et, lorsqu’elle devait assister à des séminaires en personne, elle se rendait à l’un des campus situés aux États‑Unis. Elle n’avait pas de lien avec les campus situés au Canada. J’en arrive à la conclusion que l’appelante n’était pas inscrite à un établissement d’enseignement situé au Canada et qu’elle n’a pas rempli les conditions de l’alinéa 118.5(1)a).
+[13] En ce qui concerne l’application de l’alinéa 118.5(1)b), il n’a pas été contesté que l’appelante était inscrite à plein temps à une université située à l’étranger. La question est de savoir si l’appelante a payé des frais de scolarité pour des cours d’une durée d’au moins 13 semaines consécutives. Quant au sens à attribuer au mot « cours », utilisé dans cet article, la Cour a rendu à ce propos des décisions contradictoires.
+[14] Dans la décision Ferre c. Canada, 2010 CCI 593, le juge Paris s’est fondé sur la version française de l’alinéa 118.5(1)b) pour décider que le mot « cours » fait référence à un cours unique qui s’insère dans un programme d’études global et non à l’ensemble du programme. Dans la décision Faint (précitée), le juge Margeson a souscrit à la décision Ferre. Selon l’interprétation qui y a été faite de la question, un cours unique suivi par l’appelante doit être d’une durée minimale de 13 semaines consécutives.
+[15] Cependant, dans Siddell c. Canada, 2011 CCI 250, c’est sur l’intention du législateur que le juge Bowie s’est appuyé pour interpréter le mot « cours » comme se rapportant à l’ensemble du programme suivi par un particulier pendant une année universitaire. Au paragraphe 11, il a exprimé ce qui suit :
+11 Il me semble improbable que le législateur ait souhaité accorder un crédit d’impôt à un étudiant qui a suivi les mêmes cinq modules que M. Siddell a suivis en 2008 s’ils ont été suivis simultanément au cours des périodes situées entre le 10 janvier et le 21 mai et entre le 21 août et le 10 décembre, ce qui représente deux semestres, mais qu’il n’ait pas souhaité accorder de crédit à un étudiant qui a suivi les mêmes modules l’un après l’autre comme l’a fait M. Siddell. Cette interprétation de la loi, pour reprendre les termes de la Cour suprême dans Compagnie Immobilière,
+[…] va clairement à l’encontre du but de la loi et compromet la réalisation de ses objets au lieu de l’assurer.
+Je préfère donc interpréter le mot « course » dans ce contexte comme se rapportant non pas aux modules particuliers, mais à l’ensemble du programme suivi tout au long de l’année universitaire. Je tiens à signaler également que ce sens semble mieux cadrer avec les mots « leading to a degree » (en français, « conduisant à un diplôme ») qui suivent le mot « course » (cours) là où il est employé pour la première fois à l’alinéa 118.5(1)b) de la Loi et qui le suivent aussi dans la définition contenue au paragraphe 118.6(1) de la Loi. Le concept de cours conduisant à un diplôme semble se rapporter à l’ensemble du programme d’étude plutôt qu’à un seul cours compris dans ce programme.
+[16] Dans la décision Abdalla (précitée), le juge Webb a souscrit à la conclusion tirée dans Siddell, mais il a fondé son raisonnement sur les paragraphes 3(1) et 33(2) de la Loi d’interprétation, selon lesquels le pluriel ou le singulier s’appliquent, le cas échéant, à l’unité et à la pluralité.
+[17] Pour les années d’imposition 2011 et suivantes, l’alinéa 118.5(1)b) a été modifié de manière à ce que la durée minimale d’un cours soit réduite pour passer de 13 à trois semaines consécutives. L’examen de la modification et de son objet m’amène à conclure que le mot « cours » se rapporte à un cours unique, qui s’insère dans un programme d’études global, comme le juge Paris l’a conclu dans Ferre, et non à l’ensemble du programme, comme l’a conclu le juge Bowie dans Siddell. Les notes techniques et les documents budgétaires expliquent ainsi l’objet de la modification adoptée :
+Nombre des programmes d’universités étrangères sont fondés sur des semestres de moins de treize semaines, de sorte que de nombreux étudiants canadiens se voient refuser la reconnaissance aux fins de l’impôt de frais d’étude qui seraient admissibles par ailleurs aux crédits ou se voient refuser l’accès aux PAE.
+Pour accroître la reconnaissance aux fins de l’impôt des frais d’étude de même que l’accès aux PAE pour les étudiants canadiens de niveau postsecondaire qui étudient à l’étranger, le budget de 2011 propose de réduire l’exigence relative à la durée minimale des cours qu’un étudiant canadien inscrit à une université étrangère doit respecter pour avoir droit de demander les crédits d’impôt pour frais de scolarité, pour études et pour les manuels; la durée sera ramenée de treize semaines consécutives à trois semaines consécutives. Il est également proposé de ramener de treize semaines consécutives à trois semaines consécutives la durée exigée aux fins des PAE lorsque l’étudiant est inscrit à un cours à temps plein d’une université. L’exigence relative à la durée minimale de trois semaines consécutives est conforme à la politique qui s’applique aux étudiants de niveau postsecondaire qui étudient au Canada aux fins de l’admissibilité au crédit d’impôt pour études, au crédit d’impôt pour manuels et aux PAE. (Le crédit d’impôt pour frais de scolarité ne prévoit aucune durée minimale lorsque le programme est suivi dans un établissement au Canada.)
+[18] L’alinéa 118.5(1)b) a été modifié afin que les étudiants canadiens inscrits à plein temps à une université située à l’étranger, et dont les semestres sont d’une durée inférieure à 13 semaines, puissent quand même demander le crédit d’impôt pour frais de scolarité. À mon avis, l’objet de la modification était de faire en sorte que les étudiants qui, comme l’appelante, suivaient leurs cours l’un après l’autre plutôt que simultanément, aient droit au crédit d’impôt pour frais de scolarité.
+[19] En l’espèce, chacun des cours suivis par l’appelante en 2009 a duré moins de 13 semaines. Je conclus, avec regret, que l’appelante n’avait pas droit au crédit d’impôt pour frais de scolarité pour son année d’imposition 2009.
+[20] Afin que l’appelante ait droit aux crédits d’impôt pour études et pour manuels, les paragraphes 118.6(1) et (2) exigent que l’appelante remplisse les conditions énoncées au paragraphe 118.5(1). L’appelante doit être inscrite comme étudiante à plein temps dans un établissement d’enseignement agréé au sens du paragraphe 118.6(1), lequel définit un « établissement d’enseignement agréé » comme étant a) situé au Canada, ou comme étant b) situé à l’étranger, et où le particulier est inscrit à des cours d’une durée minimale de 13 semaines.
+[21] Conformément au paragraphe 118.6(2.1), un crédit d’impôt pour manuels ne peut être demandé que par les particuliers qui ont droit à un crédit d’impôt pour études.
+[22] Étant donné que l’Université de Phoenix n’est pas un établissement d’enseignement situé au Canada et qu’aucun des cours suivis par l’appelante en 2009 n’était d’une durée d’au moins 13 semaines, je conclus que l’université dont il est question en l’espèce n’était pas un « établissement d’enseignement agréé » et que l’appelante ne pouvait pas demander le crédit d’impôt pour études et que, par conséquent, l’appelante n’avait pas droit au crédit d’impôt pour manuels pour l’année 2009.
+[23] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 11e jour de mai 2012.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 25e jour de juin 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 161
+No DU DOSSIER DE LA COUR : 2011-3147(IT)I
+INTITULÉ : ELAINE J. ROSE ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 19 avril 2012
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 11 mai 2012
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Robert C. Rose
+Avocat de l’intimée :
+Me Robert A. Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

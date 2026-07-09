@@ -1,0 +1,165 @@
+---
+title: "Walker v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25692/index.do"
+last_modified: "2003-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 632"
+citation2: ""
+neutral_citation: "2003 CCI 632"
+decision_date: "2003-10-27"
+language: "fr"
+item_id: "25692"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3816
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:36:25.557000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ee8a518188fe73d884aca3e01287a7a80abfa7ca79fc4dd80f5e311eb5fe8f02"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Walker v. The Queen
+
+- Citation: 2003 CCI 632
+- Decision date: 2003-10-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3816, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Walker v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-27
+Référence neutre
+2003 CCI 632
+Numéro de dossier
+2002-3460(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2002-3460(IT)I,
+2003-1140(IT)I
+ENTRE :
+ROBERT WALKER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 13 juin 2003 à Nanaimo (Colombie-Britannique)
+Par : L'honorable juge C. H. McArthur
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Johanna Russell
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre de cotisations d'impôt établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont accueillis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que l'appelant a le droit de déclarer les montants pour le paiement de la pension alimentaire pour enfants s'élevant respectivement à 3 600 $ et à 1 500 $ conformément à l'alinéa 60b) et à l'article 60.1 de la Loi.
+Signé à Ottawa, Canada, ce 27e jour d'octobre 2003.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 3e jour de mars 2004.
+Sylvie Sabourin, traductrice
+Référence : 2003CCI632
+Date : 20031027
+Dossier : 2002-3460(IT)I
+2003-1140(IT)I
+ENTRE :
+ROBERT WALKER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Robert Walker, l'appelant, a effectué des paiements au titre de la pension alimentaire pour enfants d'un montant de 3 600 $ en 2000 et de 1 500 $ en 2001. La question est celle de savoir s'il peut déduire ces montants du calcul de son revenu. L'appelant se représentait lui-même.
+[2] Les faits ne sont pas contestés. L'appelant vivait en union de fait avec Debra Erickson (Debra) le 15 septembre 1991 lorsque leur fille, Katherine, est née. Par un accord de séparation daté du 8 avril 1993[1], Debra a reçu la garde de l'enfant, et l'appelant devait payer 300 $ par mois à partir du 1er mars 1994 pour l'entretien de Katherine.
+[3] L'accord de séparation a été déposé devant la Cour provinciale de la Colombie-Britannique, le 25 mai 1993. L'appelant a payé la pension alimentaire de Katherine à Debra, conformément à l'accord depuis mars 1994.
+[4] La première question est celle de savoir si une formule de choix conjoint valide a été déposée devant le ministre du Revenu national (le ministre). Si cette formule est valide, cela signifierait que les paiements effectués par l'appelant ne sont plus déductibles après avril 1997. Une copie d'un accord de choix portant deux signatures a été déposée comme preuve par Debra[2]. L'appelant a nié l'avoir signé. Debra a témoigné qu'elle l'avait signé et que l'appelant l'avait signé en sa présence. Elle a ajouté qu'elle avait annexé la formule à sa déclaration de revenus pour 1997.
+[5] La pièce R-3[3] indique que ce choix ne semble pas avoir été déposé. L'Agence des douanes et du revenu du Canada (ADRC) n'avait aucune trace du dépôt de cette formule. Cela contredit le témoignage de Debra, témoignage qui s'opposait à celui de l'appelant. Il s'agit donc de conclure à la crédibilité. J'accepte le témoignage de l'ADRC aux termes duquel la formule n'avait jamais été déposée comme cela était exigé par la Loi de l'impôt sur le revenu (la Loi). Cela fait pencher la balance en faveur de l'appelant, et je conclus que le choix conjoint déposé n'est pas valide et je ne lui reconnais aucun effet.
+[6] La prochaine question à trancher est celle de savoir si la Loi prévoit une déduction de la pension alimentaire versée par un conjoint de fait. L'avocate de l'intimée a décrit très brillamment le régime législatif complexe. L'appelant se fonde sur le paragraphe 252(4) bien que ses commentaires aient été limités. Cela n'est pas surprenant étant donné l'enchevêtrement déroutant des articles.
+[7] En quelques mots, l'alinéa 60b) exige que la pension alimentaire réponde à la définition prévue au paragraphe 56.1(4). La pension alimentaire pertinente à la situation présente exige que le bénéficiaire soit un ancien conjoint de fait et que le montant soit à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit. Les conditions sont remplies sauf que l'intimée soutient que Debra n'était ni une « épouse » ni une « ex-épouse » . L'admissibilité des conjoints de fait actuels et anciens a récemment été ajoutée dans la définition du paragraphe 56.1(4) et est entrée en vigueur en 2001. Avant cela, l'admissibilité des conjoints de fait était prévue au paragraphe 252(4) au moyen d'une signification élargie du terme époux conformément à une modification de 1994 applicable après 1992. Cela a été abrogé pour 2001 et les années subséquentes.
+[8] Le paragraphe 252(4) est libellé ainsi :
+252(4) Dans la présente Loi :
+a) les mots se rapportant au conjoint d'un contribuable à un moment donné visent également la personne de sexe opposé qui, à ce moment, vit avec le contribuable en union conjugale et a vécu ainsi durant une période de douze mois se terminant avant ce moment ou qui, à ce moment, vit avec le contribuable en union conjugale et est le père ou la mère d'un enfant dont le contribuable est le père ou la mère, compte non tenu de l'alinéa (1)e) et du sous-alinéa (2)a)(iii); pour l'application du présent alinéa, les personnes qui, à un moment quelconque, vivent ensemble en union conjugale sont réputées vivre ainsi à un moment donné après ce moment, sauf si elles ne vivaient pas ensemble au moment donné, pour cause d'échec de leur union, pendant une période d'au moins 90 jours qui comprend le moment donné;
+b) la mention du mariage vaut mention d'une union conjugale entre deux particuliers dont l'un est le conjoint de l'autre par l'effet de l'alinéa a);
+c) les dispositions applicables à une personne mariée s'appliquent à la personne qui est le conjoint d'un contribuable par l'effet de l'alinéa a);
+d) les dispositions applicables à une personne non mariée ne s'appliquent pas à la personne qui est le conjoint d'un contribuable par l'effet de l'alinéa a).
+[9] Parce que l'union de fait a pris fin avant 1993, moment auquel la signification élargie d'époux est entrée en vigueur, l'avocate soutient que les paiements effectués par l'appelant en 2000 ne sont pas considérés des pensions alimentaires. Elle ajoute que, selon les dispositions transitoires, les paiements pour 2001 ne sont pas déductibles.
+[10] Selon la principale position de l'avocate de l'intimée, le paragraphe 252(4) ne devrait pas être interprété de façon rétroactive. En un bref résumé, l'avocate étaye sa position avec ce qui suit. Lorsque le contribuable et son ancienne conjointe de fait ont signé leur entente alimentaire en 1993, les dispositions sur la déductibilité fiscale auxquelles on renvoie aujourd'hui n'existaient pas et n'étaient pas envisagées par les signataires de l'accord. Interpréter les dispositions comme s'appliquant rétroactivement en reviendrait à modifier les droits des parties sans leur consentement et serait, par conséquent, injuste. Une Règle transitoire 144 permet explicitement aux couples vivant en union de fait de choisir de se soumettre au nouveau traitement fiscal des unions de fait pour les années d'imposition 1998, 1999 et 2000 s'ils déposent un choix avant le mois d'avril 2001, ce qui laisse entendre qu'il n'est pas prévu que le paragraphe 252(4) s'applique rétroactivement. La Règle transitoire 145 permet également à d'autres unions de fait de choisir de se soumettre au nouveau traitement fiscal pour 2000 et les années d'imposition subséquentes, si une formule de choix est déposée avant que les modifications ne reçoivent la sanction royale, ce qui, encore une fois, laisse entendre que le paragraphe 252(4) n'est pas rétrospectif car si c'était le cas tout le monde serait déjà considéré comme un conjoint de fait. La modification effectuée en 1993 pour ajouter le paragraphe 252(4), déclare que le nouveau paragraphe doit « s'appliquer après 1992 » . Il est bien connu, dans le domaine de l'interprétation législative, que la législation n'est pas présumée rétroactive.
+[11] L'avocate déclare que le paragraphe 140(4) de la Loi de révision des modifications relatives à l'impôt sur le revenu, annexe VIII, ch. 7, p. 645 démontre l'intention claire du législateur, à savoir que le paragraphe 252(4) s'applique après 1992 et faire fi de ces mots en revient à lui donner un effet rétroactif. En revanche, la majorité de la jurisprudence conclut qu'accepter l'argument de l'avocate équivaut à faire fi de l'expression « à un moment donné » se trouvant dans le paragraphe 252(4) ou, comme l'a déclaré le juge Bowman dans la décision Hunter c. R.[4], au moins à modifier ces termes pour qu'ils se lisent comme suit « à un moment donné après 1992 » .
+[12] L'avocate a renvoyé à plusieurs affaires dont la plupart étaient attentivement examinées par le juge Bowman dans la décision Hunter, précitée. Je me suis fondé sur ses commentaires dans le bref sommaire suivant : dans la décision Carey c. R.[5], le juge Bowie a appliqué le paragraphe 252(4) pour permettre la déduction dans des circonstances similaires à celles en l'espèce. Dans la décision Bromley c. R.[6], le juge Bell n'a pas suivi la décision Carey, décidant à contrecoeur que le paragraphe 252(4) ne s'applique qu'aux années d'imposition postérieures à 1992. Dans la décision Scott c. Canada[7], la question était celle de la déductibilité des paiements effectués en 1997 en vertu d'un accord datant de 1992 et le juge Hershfield a permis la déduction. Dans la décision Girard c. R.[8], le juge Miller mentionne explicitement la date de l'accord comme extrêmement pertinente en ce qui concerne la question de la rétrospectivité. Dans Hollands c. Canada[9], le juge Teskey a interprété le paragraphe 252(4) comme rétrospectif. Les affaires Hollands et Scott ont été tranchées sur la base de l'attribution d'un sens à l'expression « à un moment donné » . Dans la décision Skory c. R.[10], le juge Miller a cité la décision qu'il avait rendue dans l'affaire Girard en reconnaissant que l'application du paragraphe 252(4) était rétrospective.
+[13] Dans la décision Hunter, le juge Bowman a permis une application rétrospective du paragraphe 252(4). Ce faisant, il a fait un commentaire sur la différence entre « rétroactif » et « rétrospectif » . Être rétroactif consiste à changer la loi telle qu'elle existait à une période antérieure. Être « rétrospectif » , c'est simplement attacher de nouvelles conséquences à un événement antérieur. Certes, la différence est subtile. Je suis d'accord avec la majorité de la jurisprudence, en grande partie. Le paragraphe 252(4) est rétrospectif. L'avocate de l'intimée a utilisé les termes « rétroactif » et « rétrospectif » de façon interchangeable. La disposition contenue dans le paragraphe 252(4) est rétrospective et non rétroactive.
+[14] Parmi les affaires mentionnées, seule l'affaire Bromley n'a pas accordé d'effet rétrospectif au paragraphe 252(4). La majorité a attribué un sens à l'expression « à un moment donné » . C'est le point central de ma décision. La loi modificative prévoyait que ses dispositions « s'appliquent après 1992 » . J'interprète cela comme une simple autorisation d'utiliser la nouvelle disposition à partir de 1993 même si elle n'a pas été promulguée avant 1994.
+[15] Dans la décision Girard, précitée, le juge Miller a remarqué la différence entre les divers juges. Les juges Bell et Bowie permettaient la déduction en 1998, en vertu d'un accord de séparation signé en 1995 à propos d'une union de fait ayant pris fin en 1991. Je suis d'accord avec les commentaires qu'il a faits aux paragraphes 9, 10, 11 et 12 reproduits ci-dessous :
+9 En vertu de cet article [252(4)], je n'ai aucune hésitation à conclure que l'appelant et Mme Johnstone étaient des conjoints et qu'ils sont admissibles à ce titre pour les besoins de la détermination de « pensions alimentaires » . Rien dans le paragraphe 252(4) de la Loi n'indique que l'article ne doit pas s'appliquer à des relations avant une certaine période. C'était l'état du droit en 1998, l'année pour laquelle la déduction est demandée. L'intimée prétend que je dois examiner le droit au moment où le couple s'est séparé. Je n'accepte pas cet argument. Elle a cité la décision de cette cour dans l'affaire Bromley c. Regina, C.C.I., no 2000-3281(IT)I, 20 décembre 2000 (2000 CarswellNat 3033, [2001] 1 C.T.C. 2468). Dans cette affaire, le juge Bell a conclu que le paragraphe 252(4) ne s'applique qu'aux années d'imposition postérieures à 1992. Je conclus que l'année d'imposition en litige en l'espèce est l'année d'imposition 1998 de l'appelant. En 1998, le paragraphe 252(4) faisait partie de notre loi et il définissait le terme « conjoint » pour l'application de la Loi afin d'inclure une personne qui entre dans le cadre de la description de Mme Johnstone. Le paragraphe 140(4) de la Loi de révision des modifications introduisant cette modification ne précisait pas que l'union conjugale mentionnée au paragraphe 252(4) devait avoir existé après 1992, il précisait simplement que le paragraphe s'appliquait après 1992. Je compare cette disposition au paragraphe 20(11) de la Loi de révision des modifications, qui en diffère considérablement : ce dernier précise plus exactement que l'article fait référence à l'échec du mariage survenu après 1992. Si le législateur avait utilisé un langage aussi précis en adoptant le paragraphe 252(4), ma conclusion aurait été différente.
+¶ 10 Deux choix s'offrent à moi en ce qui concerne l'application du paragraphe 252(4) :
+1. soit que, pour les années d'imposition postérieures à 1992, j'interprète le terme « conjoint » conformément au paragraphe 252(4);
+2. soit que j'interprète le terme « conjoint » conformément au paragraphe 252(4) uniquement pour les unions conjugales existant après 1992.
+¶ 11 Je privilégie la première approche. Pour l'année d'imposition 1998, je me fonde sur le paragraphe 252(4) et je conclus que la relation de l'appelant avec Mme Johnstone entre dans le cadre de la définition, malgré que cette relation se soit terminée avant 1993.
+¶ 12 Dans l'affaire Bromley c. R., le juge Bell a reconnu que le juge Bowie était également parvenu à une conclusion différente dans l'affaire Carey c. R., C.C.I., no 98-169(IT)I, 7 avril 1999 (CarswellNat 562,
+[1999] 2 C.T.C. 2677, D.T.C. 3502) en admettant la déductibilité des montants versés en 1994 et en 1995 par un conjoint de fait dont la relation avait pris fin en 1988. L'introduction d'une loi modificative qui ouvre la voie à des interprétations différentes par une cour est la cause d'un certain niveau d'incertitude au sein de la collectivité fiscale et du public en général. Le juge Bell a indiqué ce qui suit au paragraphe 10 de son jugement :
+10 Le manque de précision de la loi à cet égard est extrêmement malheureux, parce qu'une loi qui contient des failles, en ne présentant pas clairement l'intention du législateur, occasionne des soucis, une perte de temps et des dépenses au contribuable qui intente des procédures d'opposition et d'appel.
+[16] Le nouvel alinéa 60b) (Loi de l'impôt sur le revenu du Canada, partie I 2000) s'applique aux montants reçus en vertu d'un arrêt, d'une ordonnance ou d'un jugement rendus par un tribunal compétent ou en vertu d'un accord écrit, « en cas d'échec du mariage survenant après 1992 » . On peut inférer, de l'absence d'un délai précis prévu pour les échecs des unions de fait admissibles dans la loi modificative, que le législateur a voulu que l'expression « à un moment donné » s'applique de la même façon.
+[17] L'intimée serait d'accord sur le fait que l'appelant a le droit de déduire les montants déclarés en 2001, puisque j'ai conclu qu'il a le droit de déduire ses montants déclarés pour 2000. La page 26 de la transcription est rédigée ainsi :
+[traduction]
+[...] L'analyse vise l'année 2001, l'intimée soutient que, si vous avez conclu, Monsieur le juge, que l'appelant avait le droit de déduire ces montants en 2000, alors, en ce qui concerne les règles transitoires pour la définition de 2001 de la pension alimentaire, il a le droit de déduire en 2001. De même, si vous avez conclu qu'il n'avait pas le droit de déduire en 2000, les règles transitoires déclarent qu'il ne serait pas en mesure de profiter de la définition du conjoint de fait de 2001 avant que les deux parties ne déposent un choix conjoint, qui n'a pas été déposé, en tout cas, ce genre de choix, et la déduction en 2001 ne devrait donc pas être permise avant qu'un choix ne soit déposé.
+[18] Selon la dernière observation de l'intimée, l'accord déposé devant la Cour provinciale de la Colombie-Britannique (pièce R-1) ne constitue pas une ordonnance prévue dans la définition de « pension alimentaire » contenue dans l'alinéa 56.1b).
+[19] Plusieurs décisions de la Cour canadienne de l'impôt portent sur une législation similaire à celle de la Colombie-Britannique en l'espèce. Elles sont également partagées quant à la question de savoir si ces ordonnances sont des ordonnances « rendues par un tribunal compétent » en vertu de la Loi. Les décisions rendues dans les affaires Fantini c. R.[11], Fraser v. R.[12]et Hewko v. R.[13] ont conclu par la négative. Elles ont conclu que la législation provinciale ne rend les ordonnances de la cour sur les accords qu'aux seules fins de l'exécution interne provinciale, et que cela ne leur confère pas le statut d'ordonnances aux fins de l'impôt sur le revenu.
+[20] Les décisions rendues dans les affaires Hollands[14]et Mullen c. R.[15]ont conclu que les ordonnances provinciales constituaient des ordonnances de la cour aux fins de l'impôt sur le revenu. La décision la plus récente est celle rendue par le juge Mogan dans l'affaire Mullen, décision dans laquelle il examine attentivement les autres décisions. Dans toutes ces affaires, il n'y avait aucune relation conjugale. Dans le présent appel, on était en présence d'une union de fait.
+[21] La disposition de base de la Loi qui permet la déduction des versements de la pension alimentaire est l'alinéa 60b), formule A, dans laquelle l'élément le plus important est le total de tous les montants dont chacun constitue une « pension alimentaire » déductible. La pension alimentaire est définie au paragraphe 56.1(4)de la façon suivante :
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+[22] L'appelant tombe sous le coup de la définition de « pension alimentaire » prévue par l'alinéa 56.1(4)a) et non de celle prévue par l'alinéa 56.1(4)b). Les affaires mentionnées par l'intimée traitent de la définition prévue à l'alinéa 56.1(4)b) et ne sont pas applicables. La bénéficiaire est une ancienne conjointe de fait du payeur (l'appelant) qui vit séparée de celui-ci pour cause d'échec de leur union de fait, et le montant est à recevoir aux termes d'un accord écrit.
+[23] Les montants sont déductibles par l'appelant et les appels sont accueillis, sans dépens.
+Signé à Ottawa, Canada, ce 27e jour d'octobre 2003.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 3e jour de mars 2004.
+Sylvie Sabourin, traductrice
+[1]
+Pièce R-1.
+[2]
+Pièce R-2.
+[3] Lettre envoyée par l'ADRC à Debra J. Erickson datée du 11 janvier 2002.
+[4] C.C.I., no 2001-1539(IT)I, 21 septembre 2001 (2001 DTC 907).
+[5] C.C.I., no 98-169(IT)I, 7 avril 1999 (99 DTC 3502).
+[6] [2000] A.C.I. no 876.
+[7] [2001] A.C.I. no 437.
+[8] [2001] A.C.I. no 499.
+[9] C.C.I., no 2001-1203(IT)I, 24 septembre 2001 ([2001] 4 CTC 2755).
+[10] C.C.I., no 2001-1123(IT)I, 22 août 2001 ([2001] 4 CTC 2634).
+[11] C.C.I., no 96-3863(IT)I, 5 décembre 1997 (98 DTC 1308).
+[12] [2003] 1 C.T.C. 2563.
+[13] C.C.I., no 2001-3255(IT)I, 2 juillet 2002 ([2002] 3 C.T.C. 2474).
+[14]
+Précitée.
+[15]
+2003TCC195.

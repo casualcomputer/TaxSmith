@@ -1,0 +1,183 @@
+---
+title: "Montreal Timbres et Monnaies Champagne Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25153/index.do"
+last_modified: "2005-06-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 186"
+citation2: ""
+neutral_citation: "2005 CCI 186"
+decision_date: "2005-06-10"
+language: "fr"
+item_id: "25153"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2599
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:50:14.618000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ec81b49066cf7c1a5b8b38fd448886b7be1f1ca3f19fe0f69dfe2c8e66c628b9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Montreal Timbres et Monnaies Champagne Inc. c. La Reine
+
+- Citation: 2005 CCI 186
+- Decision date: 2005-06-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2599, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Montreal Timbres et Monnaies Champagne Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-10
+Référence neutre
+2005 CCI 186
+Numéro de dossier
+2000-1023(GST)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2000-1023(GST)G
+ENTRE :
+MONTRÉAL TIMBRES ET MONNAIES CHAMPAGNE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 17 mai 2004 et les 18 et 19 novembre 2004,
+à Montréal (Québec).
+Devant : L’honorable D.G.H. Bowman, juge en chef
+Comparutions :
+Avocat de l’appelante :
+Me Edward J. Druker
+Avocat de l’intimée :
+Me Pierre Zemaitis
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 1er décembre 1995 et porte le numéro 0314115, est accueilli avec dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de juin 2005.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Référence : 2005CCI186
+Date : 20050610
+Dossier : 2000-1023(GST)G
+ENTRE :
+MONTRÉAL TIMBRES ET MONNAIES CHAMPAGNE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Le présent appel vise une cotisation, établie en vertu des dispositions touchant la taxe sur les produits et services (« TPS ») de la Loi sur la taxe d’accise (« LTA »), pour la période allant du 1er juillet 1991 au 31 mars 1995.
+[2] La question en litige paraît purement factuelle : elle concerne la façon dont l’appelante a calculé la TPS à payer par elle et les crédits de taxe sur les intrants (« CTI ») auxquels elle a droit.
+[3] Pendant la période en cause, l’appelante exploitait une entreprise dont les activités consistaient à acheter et à vendre des timbres‑poste, de la monnaie, des bijoux et d’autres objets de collection.
+[4] L’intimée avance la thèse suivante :
+a) la TPS déclarée par l’appelante était inférieure de 79 794 $ au montant qu’elle devait payer;
+b) le montant des CTI réclamés par l’appelante était supérieur de 44 936,94 $ au montant auquel elle avait droit. Cette somme de 44 936,94 $ consiste en des CTI « fictifs » de 66 761,14 $ réclamés par l’appelante moins les CTI de 21 824,20 $ admis par le vérificateur. Tant l’avis d’appel que la réponse (lesquels sont rédigés en anglais) emploient le terme « fictitious » (« fictifs »). Je crois qu’il faut entendre par là qu’il s’agit de crédits « hypothétiques ».
+[5] C’est le juge Archambault qui a initialement été saisi de l’affaire. Avant d’entendre la preuve, il a proposé aux avocats de se réunir pour tenter de régler le litige. Cette tentative n’a pas été fructueuse et l’affaire est à nouveau parvenue devant la Cour en mai 2004, et cette fois c’est moi qui en étais saisi. Certains éléments de preuve ont été présentés, mais j’ai encore renvoyé les avocats, leur disant d’essayer de régler le litige ou, s’il fallait qu’il y ait procès, de mettre de l’ordre dans la preuve, laquelle se trouvait dans un état insatisfaisant. Comme il semblait que la Cour allait être inondée de boîtes de documents, j’ai également mentionné aux avocats qu’il siérait de tenir compte des observations formulées dans la décision Merchant c. Canada, [1998] A.C.I. no 278 (QL), aux paragraphes 7 et 8, 98 DTC 1734, aux pages 1735 et 1736.
+7 Lorsqu’il faut établir un grand nombre de documents, comme des factures, on gaspille le temps de la Cour en les présentant en preuve l’un après l’autre. L’approche préconisée dans Wigmore on Evidence (3e éd.), vol. IV, s. 1230, s’impose :
+[TRADUCTION]
+s. 1230(11) : [...] Lorsqu’il serait uniquement possible d’établir un fait en examinant un grand nombre de documents composés de nombreux états détaillés – comme le solde net résultant des pièces que le trésorier a accumulées au cours de l’année ou les comptes d’un grand livre de banque pour l’année – il est évident qu’il ne serait bien souvent pas question d’appliquer le principe dont il est ici question en exigeant la production d’une masse de documents et d’inscriptions que le jury doit examiner ou qu’il faut lire au jury. Pour plus de commodité, les audiences exigent qu’on permette la présentation d’autres éléments de preuve, sous la forme du témoignage d’une personne compétente qui a examiné la masse de documents et qui expliquera sommairement le résultat net. La légitimité de cette pratique est établie.
+8 Le juge d’appel Wakeling, dans l’arrêt Sunnyside Nursing Home v. Builders Contract Management Ltd. et al., (1990) 75 S.R. 1, à la page 24, (C.A. Sask.), et le juge MacPherson, dans le jugement R. v. Fichter, Kaufmann et al., 37 S.R. 128 (B.R. Sask.), à la page 129, ont cité ce passage en l’approuvant. Je souscris respectueusement à leur avis.
+[6] Quand l’affaire a repris après une seconde tentative de règlement infructueuse, les boîtes de documents, qui se dressaient, menaçantes, à l’arrière de la salle d’audience pendant toute la durée du procès, n’ont finalement pas été mises en preuve, mais le sommaire de documents évoqué dans Wigmore n’a pas été produit non plus.
+[7] Le paragraphe 12 de la réponse à l’avis d’appel est ainsi rédigé :
+[TRADUCTION]
+12. Le vérificateur a établi le montant de TPS non déclaré de 79 794,00 $ au moyen des trois méthodes suivantes :
+a) le rapprochement des montants de TPS déclarés par l’appelante à Revenu Québec et des montants de TPS réellement consignés dans les livres de l’appelante; par cette méthode, on a établi que l’appelante avait omis de déclarer une somme de 32 392,87 $ au titre de la TPS;
+b) le rapprochement des montants de TPS calculés en fonction des ventes indiquées dans les états financiers de l’appelante et des montants de TPS inscrits dans les livres comptables de l’appelante; par cette méthode, on a établi que l’appelante avait omis de déclarer une somme de 14 339,92 $ au titre de la TPS;
+c) le rapprochement des montants de TPS calculés en fonction des dépôts effectués par l’appelante à la banque et à la Caisse populaire pendant la période pertinente et du montant de TPS calculé pour les ventes indiquées dans les états financiers de l’appelante pour la période pertinente; par cette méthode, on a établi que l’appelante avait omis de déclarer une somme de 33 061,24 $ au titre de la TPS.
+[8] Quelle que soit la valeur de ces trois méthodes, une chose tombe sous le sens : le vérificateur a additionné le résultat obtenu à l’aide de chaque méthode pour en arriver à la somme totale de 79 794,00 $.
+[9] Je crois qu’il est assez bien établi qu’en l’absence de preuve contraire, l’utilisation des dépôts bancaires constitue une méthode acceptable pour calculer le montant des ventes assujetties à la TPS. On trouve une énumération pratique des décisions pertinentes dans un commentaire de M. David Sherman sur la décision Davis v. R., [2004] G.S.T.C. 134 :
+[TRADUCTION]
+En l’absence de preuve contraire, la Cour de l’impôt acceptera une méthode de vérification qui se fonde sur les dépôts bancaires de l’inscrit. Voir les décisions Louie, [2002] G.S.T.C. 34; Uranus Auto Sales Inc., [2002] G.S.T.C. 39 [[2002] A.C.I. 175 (QL)]; Khullar Au Gourmet International Ltd., [2003] G.S.T.C. 100; Prévot, [2002] G.S.T.C. 32; et 2868‑2656 Québec Inc., [2004] G.S.T.C. 156. Cependant, s’il existe des éléments de preuve crédibles montrant que certains dépôts proviennent d’une autre source, la Cour supprimera les sommes en question, comme il est arrivé dans cette affaire ainsi que dans les affaires Melis, [2000] G.S.T.C. 38 [[2000] A.C.I. no 295 (QL)], Shvartsman, [2002] G.S.T.C. 30, et Hare, [2002] G.S.T.C. 114 [[2002] A.C.I. no 370 (QL)].
+[10] Pour des raisons que je développerai plus loin, je ne pense pas que les dépôts bancaires utilisés en l’espèce pour fonder la cotisation constituent une source de renseignements fiable. Il faut mettre en balance la valeur probante, à première vue, de ces renseignements et les éléments de preuve qui soulèvent un doute quant à la crédibilité de ceux‑ci.
+[11] Même si certains des dépôts bancaires peuvent représenter des ventes, je crois qu’en l’espèce les dépôts sont essentiellement dénués de crédibilité. Monsieur Beaulieu, comptable agréé, a expliqué pourquoi, selon lui, les dépôts utilisés par la répartitrice pour déterminer le montant des ventes n’offrent pas un fondement solide pour le calcul de ce montant. Son témoignage est présenté assez longuement aux pages 93 à 100 de la transcription du 19 novembre, mais, en résumé, dans une entreprise de ce genre, où les achats et les ventes se font souvent en espèces, on effectue continuellement des petits dépôts et retraits. De l’argent comptant est souvent retiré puis déposé à nouveau à la fin de la journée ou le lendemain. La preuve ne me permet pas de déterminer précisément dans quelle proportion les dépôts représentent des ventes, mais les dépôts qui ne correspondent pas à des ventes sont à ce point importants que j’estime risqué de me fonder sur les seuls dépôts pour établir le montant des ventes.
+[12] Une deuxième raison pour laquelle je ne puis considérer que l’utilisation des dépôts bancaires constitue une méthode fiable pour déterminer le montant des ventes, c’est que les activités de l’appelante consistaient en assez grande partie à encaisser des chèques contre rétribution. Le président de l’appelante, M. Champagne, a témoigné que, dans certaines années, il a encaissé des chèques d’une valeur totale de 200 000 $ à 300 000 $. À mon avis, son témoignage quant au chiffre n’est pas suffisamment fiable pour que je puisse déterminer avec précision le montant total des chèques qui ont été déposés. En revanche, la preuve est suffisante pour me permettre de conclure que le montant des chèques encaissés et déposés soulève de sérieux doutes quant à la méthode suivie par le vérificateur, qui a considéré les dépôts comme indiquant exactement le montant des ventes.
+[13] Il y a une autre raison, bien différente de celles données plus haut, d’écarter les dépôts dans le calcul de la TPS déclarée en moins. Lorsque trois méthodes sont utilisées pour calculer la différence entre la TPS déclarée et celle révélée par d’autres éléments de preuve, il ne convient pas d’additionner les résultats obtenus par chacune des trois méthodes. Affirmer que la méthode A montre une différence de X $, la méthode B, une différence de Y $, et la méthode C, une différence de Z $, et donc que l’écart global équivaut à X+Y+Z dollars est fondamentalement erroné. À moins que le répartiteur ne s’assure que la différence révélée par une méthode n’est pas, en tout ou en partie, identique aux écarts constatés grâce aux autres méthodes, je crois que, si on s’en remet au bon sens, il est juste de conclure qu’il y a effectivement identité.
+[14] Par conséquent, lorsque trois méthodes différentes donnent trois résultats différents quant à l’écart et qu’il n’est pas montré que les trois calculs ne se fondent pas, en tout ou en partie, sur les mêmes chiffres, il faut choisir la méthode la plus appropriée. Selon moi, cette méthode est celle mentionnée au paragraphe 12a) de la réponse à l’avis d’appel, et qui donne une différence de 32 392,87 $. Pour les raisons énoncées plus haut, la méthode indiquée au paragraphe 12c) n’est pas appropriée et doit être rejetée. La somme obtenue à l’aide de la méthode exposée au paragraphe 12a) englobe de toute évidence celle calculée au paragraphe 12b). Par conséquent, il faut défalquer de la TPS supplémentaire de 79 794,00 $ les sommes de 14 339,92 $ et de 33 061,24 $, ce qui donne 32 392,87 $.
+[15] La Couronne a admis à la page 19 de la transcription du 18 novembre que l’appelante a droit à des CTI supplémentaires de 26 158,65 $.
+[16] Sous réserve de ce qui suit, il faudrait donc de toute façon accueillir l’appel pour tenir compte de cette rectification.
+[17] Se pose maintenant la question de savoir si l’appelante a établi qu’il y a lieu de lui accorder une autre réparation. Il faut donc examiner comment la répartitrice, Mme Beauclair, a effectué la vérification. Une grande partie de ce qui suit est tirée de la pièce R‑4, soit les documents de travail de la répartitrice, ainsi que de la transcription de son témoignage.
+[18] À la page 2 de la pièce R‑4, elle compare l’écart de TPS de 39 021,66 $ avec l’écart négatif des CTI de 21 824,24 $ et en arrive à une différence de taxe nette de 17 197,42 $. Les calculs commencent au 31 mars 1991. Toutefois, une note accompagnant l’analyse (page 2 de la pièce R‑4) mentionne que la répartitrice ne fait des rectifications que pour la période débutant le 1er septembre 1991. Il convient de signaler en outre que les montants de TPS déclarés et les sommes vérifiées sont bien souvent exactement les mêmes et, dans deux cas, la somme vérifiée par la répartitrice est moindre que celle déclarée.
+[19] De même, dans le cas des CTI, la somme réclamée dans quatre cas est moindre que celle vérifiée par la répartitrice, de sorte que l’écart net, qui est négatif, s’élève à 21 824,24 $. La taxe nette pour les périodes à partir du début de celle se terminant le 31 mars 1991 jusqu’à la fin de celle se terminant le 31 mars 1995 se trouve donc être augmentée de 17 197,42 $. Il faut reconnaître que ces chiffres englobent le calcul, par la répartitrice, de la TPS et des CTI pour la période se terminant le 31 mars 1995. Les montants de la TPS déclarée et des CTI réclamés pour cette période étaient indiqués comme nuls parce que l’appelante n’avait pas, au moment de la vérification, produit sa déclaration. La TPS calculée par la répartitrice pour la période se chiffrait à 29 050,95 $ et les CTI calculés s’élevaient à 21 720,13 $, ce qui donnait une taxe nette de 7 330,82 $ pour la période. Il est impossible de comparer cette somme avec les chiffres fournis par l’appelante parce que je ne dispose pas de renseignements sur les sommes indiquées par cette dernière dans sa déclaration pour la période visée.
+[20] À la page 6 de la pièce R-4, il est déterminé que, pour la période se terminant le 31 décembre 1991, les ventes taxables sont de 729 701 $, et à la page 7, que la taxe, au taux de sept pour cent, est de 51 079,07 $. La TPS inscrite aux livres, selon la page 7 de la pièce R-4, est de 23 279,04 $, ce qui donne une différence de 27 800,03 $. Cette somme se rapporte apparemment à l’année au complet mais, en raison des délais de prescription, la cotisation indiquait qu’elle visait la période débutant le 1er octobre 1991.
+[21] On a donc appliqué un pourcentage de 31,6 aux ventes des trois derniers mois, pour arriver au chiffre de 8 795,92 $. La répartitrice a ensuite conclu, à la page 8, qu’il y avait lieu d’apporter à la TPS une rectification de 12 840,82 $. Or, ce chiffre ne correspond pas à celui qui figure à la page 2 de la pièce R‑4, où on indique un écart de 1 470,05 $ pour la période se terminant le 30 septembre 1991.
+[22] À la page 51 de la pièce R‑4, on indique, quant à la TPS pour 1992, un écart de 53 701 $ qui résulte de la différence entre la TPS de 69 567 $ inscrite aux livres et le montant de TPS facturé, soit 15 866 $. Selon la page 2 de la pièce R‑4, la TPS totale déclarée pour 1993 est de 69 584 $ et l’écart total est de 1 358 $.
+[23] Pourquoi indique‑t‑on alors à la page 51 qu’il faut changer de 53 701 $ le montant de TPS pour 1992 alors que la rectification de la taxe nette inscrite à la page 2 s’élève à un total net de 1 358,89 $? En fait, Mme Beauclair a dit que, sur la somme de 69 567 $ inscrite dans les livres à titre de CTI, elle n’a accordé que 15 866 $, ce qui explique l’écart de 53 701 $. Pourtant, à la page 2, la différence entre les CTI réclamés et les CTI vérifiés indiquée pour 1993 est nulle.
+[24] En ce qui concerne 1994 maintenant, il ressort de la page 53 que des CTI de 77 101 $ devaient être refusés. Ces CTI font partie de la somme totale de 148 437 $ qui a été refusée sur les CTI de 149 894 $ réclamés. L’examen des chiffres indiqués à la page 54 pour les années 1993 et 1994 révèle pour 1993 un écart au titre des CTI réclamés de 12 407 $ et, pour 1994, un écart négatif de 7 899 $. La comparaison de ces chiffres et de ceux donnés à la page 2 de la pièce R‑4 permet de constater pour 1994 un écart négatif de 104 $ au titre des CTI et, pour ce qui est de la taxe nette, un écart de 408 $ entre le montant déclaré et le montant vérifié.
+[25] Pour la période se terminant le 31 mars 1995, la page 57 fait état d’une différence négative de 2 186 $ tandis que, à la page 2, le montant de la taxe nette calculé pour la période se chiffre à 7 330 $. Comme je l’ai mentionné plus haut, il ne s’agit pas vraiment là d’un écart entre les chiffres de la répartitrice et la somme déclarée par l’appelante puisque cette dernière n’avait pas produit de déclaration de TPS pour 1995.
+[26] À la page 54 de la pièce R-4 se trouvent les calculs effectués par Mme Beauclair pour établir les écarts au titre des CTI pour 1993 et 1994. Dans son témoignage, elle a affirmé qu’après avoir rencontré M. Gagné, un expert‑comptable, elle a révisé à la baisse les CTI qu’elle avait refusés, les faisant passer de 148 000 $ à 12 407 $, et que, pour 1995, elle était arrivée à une différence négative de 2 186 $, soit un écart en faveur de l’appelante. À cet égard, le montant rectifié de TPS pour les trois années 1993, 1994 et 1995 devrait être de 12 396 $.
+[27] À quoi tout cela se résume‑t‑il? Dans la présente espèce entre en jeu une masse importante de chiffres difficiles, voire impossibles, à rapprocher et les parties s’attendent à ce que je les rende intelligibles. Leurs attentes sont, je le crains, quelque peu optimistes.
+[28] Je signale d’abord que je ne suis pas insensible aux difficultés auxquelles le répartiteur doit faire face lorsqu’il procède à la vérification d’une entreprise comme celle de l’appelante. Il ne s’agit pas ici d’automobiles, d’appareils électroménagers ou de matériel lourd. Il s’agit plutôt d’une entreprise qui achète et qui vend des timbres, de la monnaie et des bijoux d’occasion, souvent au comptant. De plus, l’appelante encaisse des chèques contre rétribution. Pour aggraver le problème, certaines marchandises sont vendues aux États‑Unis et sont, je le présume, détaxées. Certaines des marchandises de l’appelante sont achetées à des encans, alors que d’autres sont achetées à des personnes qui se présentent tout simplement chez l’appelante et qui veulent de l’argent comptant. Il a également été question, dans la preuve testimoniale, du fait que des bijoux d’occasion étaient d’une manière quelconque transformés ou modifiés par le retrait, la substitution ou l’ajout de pierres précieuses ou semi‑précieuses.
+[29] Je comprends également la situation du comptable ou de l’aide‑comptable interne qui tente de suivre de multiples opérations. Un cas comme celui dont il s’agit en l’espèce exige bien plus d’organisation que ce dont on a fait preuve ici. Les parties ont à deux occasions été renvoyées pour tenter d’en arriver à un règlement. À défaut d’un règlement, elles auraient dû mettre en preuve des tableaux et des listes montrant précisément sur quoi l’appelante et l’administration fiscale n’étaient pas d’accord.
+[30] De toute manière, il me faut bien commencer quelque part et rendre une décision quelconque fondée sur la preuve dont je suis saisi. Je vais donc débuter en traitant de la cotisation.
+[31] La pièce R‑2 consiste en l’avis de cotisation et la pièce R‑3 est la Décision sur opposition(s).
+[32] La cotisation montre une taxe nette de 113 752 $, plus des intérêts et des pénalités de 29 855 $ et de 30 277 $ respectivement. Cela fait un total de 173 884 $, mais le montant dû indiqué est de 184 863,25 $. La Décision sur opposition(s) (pièce R‑3) fait état d’une rectification de 124 730,94 $. C’est l’un des rares cas en l’espèce où j’ai pu rapprocher deux chiffres indiqués dans les documents. Les 124 730,94 $ mentionnés dans la Décision sur opposition(s) correspondent exactement aux 79 794 $ mentionnés au paragraphe 12 de la réponse à l’avis d’appel et aux 44 936,94 $ mentionnés au paragraphe 17. Je n’ai toutefois pas réussi à établir le fondement de la somme de 113 752 $ qui figure dans l’avis de cotisation.
+[33] Il n’est pas certain si les pénalités de 30 277 $ sont infligées en vertu de l’article 280 ou de l’article 285 de la LTA. Si elles sont infligées en application de l’article 280, les pénalités doivent être confirmées puisque l’appelante n’a pas réussi à établir qu’elle a fait preuve de diligence raisonnable. (Voir la décision Pillar Oilfield Projects Ltd. c. Canada, [1993] A.C.I. no 764 (QL), [1993] G.S.T.C. 49, dans laquelle est exprimé un point de vue qu’a confirmé la Cour d’appel fédérale dans l’arrêt Canada (Procureur général) c. Consolidated Canadian Contractors Inc., [1999] 1 C.F. 209, [1998] G.S.T.C. 91.) Les pénalités infligées en vertu de l’article 280 devront cependant être réduites en fonction de la réduction de la taxe nette résultant du jugement rendu en l’espèce. Si les pénalités sont infligées en application de l’article 285 de la LTA, elles doivent être supprimées. Il appartenait à la Couronne d’établir l’existence de l’intention ou de la faute lourde requises. (Voir les décisions Farm Business Consultants Inc. c. Canada, [1994] A.C.I. no 760 (QL), 95 DTC 200, confirmée par [1996] A.C.F. no 82 (QL), 96 DTC 6085; Alex Excavating Inc. c. Canada, [1995] A.C.I. no 1080 (QL), [1995] G.S.T.C. 57; 897366 Ontario Ltd. c. Canada, [2000] A.C.I. no 117 (QL), [2000] G.S.T.C. 13; Willis c. Canada, [2000] A.C.I. no 847 (QL), [2000] G.S.T.C. 110.) Or, ces éléments n’ont pas été établis en l’espèce.
+[34] En ce qui concerne la taxe, la TPS supplémentaire de 79 794 $ établie par la cotisation doit, comme il est signalé plus haut, être réduite à tout le moins à 32 292,87 $ et les CTI refusés, de 44 936,94 $, doivent être réduits de 26 158,65 $ pour être fixés à 18 778,29 $. Par suite de ces rectifications, le montant de la taxe nette supplémentaire qui aurait dû être établi dans la cotisation se chiffre à 51 069 $ plutôt qu’à 124 730 $. Ce montant s’avère plus élevé que la taxe nette de 17 197,42 $ calculée à la page 2 de la pièce R‑4. Il semble donc que je sois en présence de deux chiffres impossibles à rapprocher qui se fondent tous deux sur les calculs que la Couronne a elle‑même effectués. Il s’agit ici de bien plus que de questions de charge de la preuve. En effet, l’administration fiscale avance deux séries de chiffres qui se soldent par une augmentation de taxe. Dans une telle situation, c’est un principe fondamental que le chiffre le moins élevé doit être choisi.
+[35] Avant de conclure dans la présente affaire, je veux faire quelques observations sur la conduite des appels en matière de TPS en général et sur la conduite de cet appel en particulier. Mes collègues et moi voyons devant notre Cour un nombre croissant d’affaires où la question en litige porte simplement sur le calcul du montant des fournitures donnant lieu à une TPS ou des achats donnant droit à des CTI. Au risque de trop simplifier, dans de tels calculs il s’agit du processus purement mécanique consistant à additionner les contreparties payées pour les fournitures, y compris la TPS perçue, à déduire les CTI applicables et à ainsi déterminer la taxe nette exigible. Il est, bien sûr, des affaires dans lesquelles se posent des questions de droit difficiles et importantes, qui doivent être tranchées par la Cour, mais ce n’est pas le cas en l’espèce. La vaste majorité des affaires où la question en litige concerne uniquement le calcul de la taxe nette ne devraient jamais être portées devant la Cour. Dans les affaires régies par la procédure générale, il est extrêmement important que des interrogatoires préalables et des conférences préparatoires à l’audience aient lieu. Si cela se faisait, je ne doute guère que la plupart des affaires de ce genre seraient résolues avant le procès.
+[36] Si les tentatives pour résoudre l’affaire avant le procès échouent, la partie appelante devrait mettre en preuve, par l’intermédiaire d’un expert‑comptable ou d’une autre personne qualifiée en la matière, des listes énonçant les opérations qui sont à l’origine de la TPS à payer ou des CTI réclamés. De plus en plus, les appelants se présentent devant la Cour avec des boîtes de factures ou de reçues en disant qu’elles ont remis tous ces documents aux fonctionnaires de l’Agence du revenu du Canada, qui n’en ont pas tenu compte. Si les documents sont présentés dans un désordre tel que les fonctionnaires de l’ARC ne peuvent rien y comprendre, il est un peu exagéré de s’attendre à ce que la Cour réussisse mieux.
+[37] L’appel est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les présents motifs. L’appelante a droit à ses dépens.
+Signé à Ottawa, Canada, ce 10e jour de juin 2005.
+« D.G.H. Bowman »
+Juge en chef Bowman
+RÉFÉRENCE :
+2005CC186
+NO DU DOSSIER DE LA COUR :
+2000-1023(GST)G
+INTITULÉ DE LA CAUSE :
+Montréal Timbres et Monnaies
+Champagne Inc. c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+Le 17 mai 2004 et
+les 18 et 19 novembre 2004
+MOTIFS DU JUGEMENT PAR :
+L’honorable D.G.H. Bowman,
+juge en chef
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 10 juin 2005
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Edward J. Druker
+Avocat de l’intimée :
+Me Pierre Zemaitis
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Edward J. Druker
+Cabinet :
+Druker, Zilbert, Schwartz
+Avocats
+1255, carré Phillips, bureau 605
+Montréal (Québec) H3B 3G5
+Pour l’intimée :
+Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

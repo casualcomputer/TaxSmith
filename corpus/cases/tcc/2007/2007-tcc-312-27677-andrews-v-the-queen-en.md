@@ -1,0 +1,142 @@
+---
+title: "Andrews v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27677/index.do"
+last_modified: "2007-05-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 312"
+citation2: ""
+neutral_citation: "2007 TCC 312"
+decision_date: "2007-05-30"
+language: "en"
+item_id: "27677"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 498
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:03:47.057000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "377607051c049fa2a98a4687d2167325bc4bd7d5b7b042ab406d2f91b1499a5a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Andrews v. The Queen
+
+- Citation: 2007 TCC 312
+- Decision date: 2007-05-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 498, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Andrews v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-30
+Neutral citation
+2007 TCC 312
+File numbers
+2006-3712(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3712(IT)I
+BETWEEN:
+JONATHAN S. ANDREWS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 30, 2007, at Halifax, Nova Scotia.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Amy E. Higgins
+Counsel for the Respondent:
+Deanna M. Frappier
+____________________________________________________________________
+JUDGMENT
+The appeals in relation to the claims for capital cost allowance on the 2002 Volkswagen Golf automobile for the 2003 taxation year and for the 2004 taxation year are allowed in full, with costs.
+Signed at Halifax, Nova Scotia, this 4th day of June 2007.
+"Wyman W. Webb"
+Webb J.
+Citation: 2007TCC312
+Date: 20070604
+Docket: 2006-3712(IT)I
+BETWEEN:
+JONATHAN S. ANDREWS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant claimed capital cost allowance in his 2003 and 2004 taxation years in relation to a motor vehicle that had been purchased in 2002. The vehicle that was purchased was a 2002 Volkswagen Golf. The Appellant, at the time of the purchase, was 19 years of age and if the vehicle would have been acquired in his name, the cost of the insurance would have been prohibitive. The Appellant's mother financed the purchase of the vehicle and she arranged for the insurance coverage on the vehicle. The Appellant’s mother acquired the legal title to the vehicle because she had financed the purchase of the vehicle and she was concerned about providing the funds for the purchase of the vehicle and then registering the vehicle in his name without any security on the vehicle as the Appellant was 19 years of age at the time the vehicle was acquired.
+[2] The arrangement between the Appellant and his mother was that he would repay her at the rate of $500 per month. The payments commenced in August of 2002. There were some months when the Appellant was short of cash and was unable to pay the full amount of $500 but he paid what he could afford and in other months he would pay an additional amount to try to cover the shortfall. The fact that the Appellant’s mother was prepared in some months to accept less than the agreed upon sum of $500 does not make it any less of a loan. If the Appellant was financially unable to make a full payment, he would at least pay some amount and thereby acknowledge the debt. Eventually the title to the vehicle was conveyed by the Appellant's mother to the Appellant when she was satisfied that he had made sufficient payments on the loan so she could justify transferring the title to him.
+[3] It was clear from the evidence that the vehicle that was acquired was acquired as the Appellant's vehicle. He had possession of the vehicle throughout the period in time. The vehicle was a standard and the Appellant's mother stated that she had never learned to drive a standard and therefore never drove the vehicle and as well she did not have any keys to the vehicle.
+[4] The Appellant was responsible for any repairs to the vehicle and for insuring that the vehicle was inspected each and every year.
+[5] The position of the Respondent was that the vehicle was acquired by the Appellant's mother and that the Appellant never acquired the vehicle. However, as noted in the case of M.N.R. v. Wardean Drilling Limited, Ex. Ct. of Canada, [1969] Ex. C.R. 166, Cattanach J. stated as follows:
+In my opinion the proper test as to when property is acquired must relate to the title to the property in question or to the normal incidents of title, either actual or constructive, such as possession, use and risk.
+...
+As I have indicated above, it is my opinion that a purchaser has acquired assets of a class in schedule B when title has passed, assuming that the assets exist at that time, or when the purchaser has all the incidents of title, such as possession, use and risk, although legal title may remain in the vendor as security for the purchase price as is the commercial practice under conditional sales agreements.
+[6] The above passages were quoted by the Federal Court of Appeal in the case of R. v. Construction Bérou Inc. Justice Létourneau of the Federal Court of Appeal added the following comments:
+In other words, there was an acquisition of property within the meaning of paragraph 13(21)(b) of the Act when the person obtaining it held either legal ownership or beneficial ownership.
+[7] In this case I find that the Appellant had acquired beneficial ownership of the automobile when the vehicle was acquired as his mother had simply financed the purchase and held title as security for this debt. The Appellant acknowledged the debt by making regular payments to his mother. The fact that the registration of the motor vehicle in question at the Registry of Motor Vehicles was in the Appellant's mother's name is not determinative of the issue as that registration is simply for the purpose of that statute. It should also be noted that the Nova Scotia Supreme Court, Trial Division in cases dealing with the definition of “owner” in the Motor Vehicle Act (Nova Scotia), have found that the person registered as the “owner” is not always the “owner” (Greene et al. v. Everett and Smith Ltd. (1978), 29 N.S.R. (2d) 139; Hardiman and Hardiman v. MacKichan (1982), 51 N.S.R. (2d) 27, and Lundrigan Group Ltd. v. Hale Holdings Limited (1986), 71 N.S.R. (2d) 413).
+[8] As a result the Appellant is entitled to deduct in computing his income for 2003 and 2004 the capital cost allowance amounts that were claimed in relation to the motor vehicle.
+[9] The Appellant, in his Notice of Appeal, did not ask for costs in this matter. Noël J.A. of the Federal Court of Appeal in Canada (Attorney General) v. Pascal, 2005 F.C.A. 31, made the following comments:
+After reviewing the record, I note that the notice of motion which led to the dismissal of the appeal did not claim costs. It is only in documentation submitted in support of the motion that the phrase [TRANSLATION] "with costs" is found. Under rule 359(b), the relief sought must be set out in the notice of motion. A party which fails to set out the relief sought in its notice of motion should not be surprised when it is not granted.
+[10] That case dealt with the Federal Court Rules and not the Tax Court of Canada Rules (Informal Procedure) ("Rules") which govern this appeal.
+[11] Paragraph 4 of the Rules provides as follows:
+An appeal referred to in section 3 shall be made in writing and set out, in general terms, the reasons for the appeal and the relevant facts. An appeal may be brought by a notice in the form set out in Schedule 4, but no special form of pleadings is required.
+[12] Paragraph 10 of the Rules provides as follows in relation to costs:
+10. (1) Costs on an appeal shall be at the discretion of the judge by whom the appeal is disposed of in the circumstances set out in subsection 18.26(1) of the Act which reads as follows:
+"18.26 (1) Where an appeal referred to in section 18 is allowed, the Court
+(a) shall reimburse to the appellant the filing fee paid by the appellant under paragraph 18.15(3)(b); and
+(b) where the judgment reduces the aggregate of all amounts in issue or the amount of interest in issue, or increases the amount of loss in issue, as the case may be, by more than one-half, may award costs to the appellant in accordance with the rules of Court."
+[13] In my opinion, since paragraph 4 of the Rules does not provide that the Appellant is required to set out the relief sought in his Notice of Appeal and since the award of costs is within the discretion of the judge hearing the case, costs may be awarded in an informal procedure matter even though the Appellant has not requested costs.
+[14] The Federal Court of Appeal in Finch v. The Queen, 2003 DTC 5501, [2003] 4 C.T.C. 172 stated that:
+In our view, it was incumbent upon the Tax Court judge to give the parties an opportunity to be heard on the issue of costs before making the award.
+[15] The award of costs in that case was a significant lump sum award of $25,000 in costs. In my opinion, the above comments of the Federal Court of Appeal are to be read in the context of that case and therefore if costs are to be determined in accordance with the Rules, there is no need to hear from the parties before such costs are awarded as the amounts that can be recovered as costs are set out in the Rules.
+[16] The Appellant's appeals are allowed, with costs to be determined in accordance with the Rules.
+Signed at Halifax, Nova Scotia, this 4th day of June 2007.
+"Wyman W. Webb"
+Webb J.
+CITATION: 2007TCC312
+COURT FILE NO.: 2006-3712(IT)I
+STYLE OF CAUSE: JONATHAN S. ANDREWS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: May 30, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: June 4, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Amy E. Higgins
+Counsel for the Respondent:
+Deanna M. Frappier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Amy E. Higgins
+Firm: Stewart McKelvey
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

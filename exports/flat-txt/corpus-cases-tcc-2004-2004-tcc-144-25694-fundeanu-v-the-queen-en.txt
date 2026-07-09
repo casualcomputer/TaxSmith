@@ -1,0 +1,291 @@
+Title: Fundeanu v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25694/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-144-25694-fundeanu-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-03-01
+
+# Fundeanu v. The Queen
+
+- Citation: 2004 TCC 144
+- Decision date: 2004-03-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3787, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fundeanu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-01
+Neutral citation
+2004 TCC 144
+File numbers
+2003-1609(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1609(IT)I
+BETWEEN:
+ROMULUS R. FUNDEANU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 22, 2003, at Hamilton, Ontario,
+By: The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bonnie Boucher
+____________________________________________________________________
+JUDGMENT
+UPON motion by the Respondent for an Order quashing the purported appeal from an assessment of tax made under the Income Tax Act for the 1997 taxation year for failure of the Appellant to commence an appeal within the prescribed time;
+AND UPON reading the affidavit of Elizabeth Leger, filed;
+AND UPON hearing the Appellant and counsel for the Respondent;
+It is ordered that the purported appeal for the 1997 taxation year is quashed.
+The appeal from the assessment of tax made under the Act for the 1998 taxation year is allowed, on consent of the Respondent, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant may claim motor vehicle expenses of $4,179 and meals and entertainment expenses of $320. In all other respect the appeal is dismissed.
+Signed at Ottawa, Canada, this 1st day of March, 2004.
+"C.H. McArthur"
+McArthur J.
+Citation: 2004TCC144
+Date: 20040301
+Docket: 2003-1609(IT)I
+BETWEEN:
+ROMULUS R. FUNDEANU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] This is an appeal from an assessment of the Minister of National Revenue for the 1998 taxation year disallowing business expenses pursuant to paragraphs 18(1)(a) and (h) of the Income Tax Act. The 1997 taxation year appeal is not properly before the Court and is quashed. The appeal was not commenced within 90 days after the mailing of the Notice of Confirmation (subsection 169(1)) and no extension of time was sought and no extension of time can be granted at this time (subsection 167(1)). I do not believe the Appellant contested the Minister's position. There were two reassessments arising out of the Appellant's 1997 income tax returns. The second reassessment was conducted after the Appellant requested adjustment under section 220 of the Act. The Minister's decision under the fairness provisions can only be reviewed by the Federal Court Trial Division by way of a judicial review.
+[2] I will now deal with the 1998 taxation year with respect to the disallowed expenses. The facts are somewhat convoluted. The Appellant is an engineer who operated "Romulus F. Engineering" from his home in Oakville, Ontario. In 1998, his business took him to the Sudbury area from January to July, where he worked on remote control and data acquisition projects for Falconbridge Limited in Onaping Falls, approximately 500 kilometres north of Oakville. He travelled there weekly totalling some 30,000 kilometres in 1998. He claimed expenses for the use of an in-home office of one bedroom, allocating 25% of the home expenses to office use. He claimed travelling expenses, meals, entertainment, lodging and salary payments to his wife and son.
+[3] In reassessing the Appellant for the 1998 taxation year, the Minister disallowed the Appellant's business expenses in the amount of $43,146.68 inclusive of:
+i)
+Insurance
+$2,013.35
+ii)
+Management and Administration
+1,200.00
+iii)
+Meals and Entertainment
+5,400.00
+iv)
+Motor Vehicle
+12,733.23
+v)
+Salary
+17,000.00
+vi)
+Travel
+4,800.00
+Total expenses disallowed
+$43,146.58
+At the hearing, the Minister amended some amounts as follows: meals and entertainment: $5,180 and motor vehicle expenses: $8,554.
+The items that remain in contention are:
+i)
+Insurance
+$2,013
+ii)
+Management and Administration
+1,200
+iii)
+Meals and Entertainment
+* 5,180
+iv)
+Motor Vehicle
+* 8,554
+v)
+Salary
+17,000
+vi)
+Travel
+Not in dispute
+Total expenses disallowed
+$33,947
+* Reduced by the Minister. In all instances I have dropped the cents.
+[4] In May 2001, the Appellant was in a serious car accident. He testified that his computer containing business-related files was destroyed and boxes of documents pertaining to this appeal were exposed to torrential rain and were destroyed. This was, I believe, 18 months after the Minister first requested these documents.
+[5] For 1998, the Appellant reported gross professional income of $55,180 and expenses of $66,354 for a net loss of $11,174 leaving nothing but debt to live on. In reassessing the Appellant, the Minister disallowed $43,146[1] of the expenses claimed on the basis that the expenses were not supported by invoices or other records and they were not made for the purpose of gaining income (paragraph 18(1)(a)) and were personal or living expenses (paragraph 18(1)(h)). I will review the outstanding expenses in the order set out in the Minister's submissions.
+Insurance
+[6] The Minister submits that the insurance claim was abandoned by the Appellant's accountant and that there is no evidence other than it was personal. I agree with this conclusion and the insurance claim of $2,013.35 is disallowed. The Appellant did not establish a business purpose for this expense.
+Management and Administration
+[7] The management and administration was dropped by the Appellant's representative prior to trial and it is disallowed. He had two accounting firms during different periods representing him. I believe he dismissed both. He did not substantiate this claim. I do not know to whom the $1,200 was purported to be paid to and for what service.
+Meals and Entertainment
+[8] I accept the Minister's disallowance of $5,180 for meals and entertainment. Again an accountant representative of the Appellant agreed to the amount allowed during negotiations prior to trial. No convincing evidence such as receipts or other documentation was presented by the Appellant. I have difficulty in accepting that his boxes of invoices were destroyed. In any event, it would appear that the Minister's auditor reviewed his invoices prior to the car accident. The Appellant did not meet his onus of establishing that he spent more. He seemed to acknowledge his claim was excessive and asked for a lesser compromised amount. He offered little evidence to establish a greater amount than that presented by the Minister.
+Motor Vehicle Expenses
+[9] Initially, $12,733 of motor vehicle expenses were disallowed. This was reduced by $4,179, leaving $8,554 disallowed. The Appellant's evidence was that he travelled 50,000 kilometres on business in 1998. Yet, this is contradicted by the evidence that he travelled to Sudbury only the first six or seven months of 1998. Allowing him 1,000 kilometres per week, the mileage does not exceed 30,000 kilometres. Again the Appellant's evidence was unsatisfactory and I accept the Minister's amount allowed.
+Salary
+[10] The Appellant claimed $17,000 the Minister allowed nothing. The Appellant stated $17,000 was paid to his wife and son. They did not attend the hearing and I believe are presently living in California. There was no evidence, other than the Appellant's general statements that any services were rendered by his wife and son nor was there any proof of payment. Mrs. Fundeanu did not report any payment from the business in her income tax returns. The $17,000 claim for salary expense is disallowed. The Appellant claimed to have paid $17,000 to have his business expenses recorded and documented, then, many months after the Minister's audit began, he claims that most invoices were destroyed in his damaged car by torrential rains. Why were they in his car if he had an office and recordkeeper? The Minister had requested records and documents from the Appellant over an 18-month period without being satisfied. Counsel states the car accident was 18 months after the first request.
+[11] In cross-examination, the Appellant acknowledged that he could not prove his expenses but asked for something more than what was offered by the Minister. He had no evidence that he paid his wife $12,000 and his son $5,000 but stated it was a reasonable amount and they did do work while he was in Sudbury. He did not establish what they did. They did not keep adequate books and records. He had very little documentation at trial and several times stated it was destroyed after the car accident. As stated I do not accept this explanation.
+Travel Expenses
+[12] He attempted to charge flights to California which he stated were made to look for business. It appears his wife and son were in California at the time of the trips. The Minister did not accept this California expense. In any event, the Appellant withdrew his travel expenses prior to the hearing.
+General Comments
+[13] Exhibit A-2 is a series of bank statements that are of little assistance. The first statement of January 1998 includes the following:
+Card Number 4510 xxxxxxxx 9109
+05 Jan 98
+Petrocan 350 Speers Rd
+Oakville
+ON
+37.14
+06 Jan 98
+Pioneer #177
+Chelmsford
+ON
+31.07
+07 Jan 98
+Burlington Post
+Burlington
+ON
+21.99
+09 Jan 98
+Esso
+Chelmsford
+ON
+36.00
+09 Jan 98
+Candent
+Mississauga
+ON
+218.33
+09 Jan 98
+Duncan Instruments Ltd.
+Weston
+ON
+684.25
+12 Jan 98
+Petrocan 350 Speers Rd
+Oakville
+ON
+35.05
+12 Jan 98
+Shell 645 Third Line
+Oakville
+ON
+44.48
+The last statement reads as follows:
+Card Number 4510 xxxx 9109
+14 Oct 98
+Burlington Post
+Burlington
+ON
+23.54
+14 Oct 98
+Burlington Post
+Burlington
+ON
+30.07
+Card Number 4510 xxxx 90116
+20 Oct 98
+Provont MTO Licensing
+Oakville
+ON
+148.00
+23 Oct 98
+Pioneer Petroleum #28
+Burlington
+ON
+31.25
+02 Nov 98
+Esso Dorval - Speers
+Oakville
+ON
+16.58
+10 Nov 98
+Siemens Canada Limited
+Mississauga
+ON
+228.85
+Card Number 4510 xxxxxxxx 9024
+14 Oct 98
+Speers Road Aquatics Ltd.
+Oakville
+ON
+31.03
+20 Oct 98
+Highland Packers Ltd
+Stoney Creek
+ON
+29.77
+20 Oct 98
+Biway Oakville
+Oakville
+ON
+43.66
+20 Oct 98
+Winners #206
+Oakville
+ON
+305.78
+22 Oct 98
+Ambassador Duty Free
+Windsor
+ON
+70.40
+22 Oct 98
+Cyclepath - Oakville
+Oakville
+ON
+48.13
+28 Oct 98
+Biway Oakville
+Oakville
+ON
+42.69
+29 Oct 98
+Winners #206
+Oakville
+ON
+91.98CR
+03 Nov 98
+PTB Pym from Sav
+- 3560
+100.00CR
+06 Nov 98
+PTB Payment
+- 4740
+1200.00CR
+Little can be taken from this to enhance the Appellant's position. He provided no explanation. Exhibit A-3 is a Purchase Order from Falconbridge Limited which is inconsequential. Exhibit A-4 appears to be various medical invoices with respect to the Appellant's accident in 2001 which are irrelevant to this appeal. Exhibit A-5 includes 1998 bank statements and cancelled cheques for Romulus F. Engineering. As in Exhibit A-2 they are of no assistance.
+[14] In cross-examination, he was asked how he supported his wife and family if his expenses exceeded his income in 1998 and previous years. He answered that they lived on the $300,000 proceeds of a car accident settlement his wife had received some years previously. He offered no details other than she invested in a house and mutual funds. There was no indication of this in her returns. I do not accept his explanation. His business expenses were made through a joint bank account making it difficult to differentiate between his expenses and those of his wife. He deducted automobile expenses and capital cost allowance for two vehicles. Although they were both registered in his name, his wife used one of them.
+[15] Elizabeth Leger, appeals officer, testified on behalf of the Minister. She was an impressive witness and when in conflict, I accept her evidence over that of the Appellant. At the outset of her audit, she received boxes of material which she reviewed carefully. The Appellant explained to her that Mrs. Fundeanu did not claim the $12,000 income he paid her in cash because her expenses were in excess of her income. Apparently she claimed some of the same expenses her husband did although this is unclear. When a taxpayer claims to have paid salaries in cash as did the Appellant, I am skeptical. In this instance, I do not believe that the Appellant paid any salary to his wife or son. The Appellant submitted $907 per month as rent for his home office space. I accept the auditor's reduced amount of $400 as being more reasonable. It is a well-settled rule in income tax appeals that the taxpayer has the onus of demonstrating that the factual assumptions upon which the assessment is based are wrong and do not support the assessment. The Appellant's oral evidence consisted of many generalities and unsupported statements. For the most part, I do not accept his testimony. He did not establish a prima facie case. In any event, the cross-examination of the Appellant and the evidence of the Minister's auditor displace the oral testimony of the Appellant.
+[16] The appeal for the 1998 taxation year is allowed, on consent of the Respondent, and the assessment is referred back to the Minister on the basis that the Appellant may claim motor vehicle expenses of $4,179 and meals and entertainment expenses of $220. In all other respect the appeal is dismissed.
+Signed at Ottawa, Canada, this 1st day of March, 2004.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2004TCC144
+COURT FILE NO.:
+2003-1609(IT)I
+STYLE OF CAUSE:
+Romulus R. Fundeanu and Her Majesty the Queen
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+October 22, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+March 1, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bonnie Boucher
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Reduced to $33,947 during the hearing.

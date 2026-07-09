@@ -1,0 +1,171 @@
+---
+title: "Judge c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29889/index.do"
+last_modified: "2010-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 329"
+citation2: ""
+neutral_citation: "2010 CCI 329"
+decision_date: "2010-06-17"
+language: "fr"
+item_id: "29889"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6382
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:52:51.387000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cf152ad938efb1268a064e79aedb0bba2982e6e384de0423c382e8873fd5da0f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Judge c. M.R.N.
+
+- Citation: 2010 CCI 329
+- Decision date: 2010-06-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6382, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Judge c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-17
+Référence neutre
+2010 CCI 329
+Numéro de dossier
+2008-3687(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-3687(EI)
+ENTRE :
+JOHN O’NEILL JUDGE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 7 juin 2010, à Kingston (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Jack Warren
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la décision prise par le ministre du Revenu national en vertu de la Loi sur l’assurance‑emploi est accueilli et la décision est modifiée en tenant pour acquis que l’appelant a accumulé 735 heures assurables pendant la période allant du 2 février 2007 au 24 août 2007. Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 17e jour de juin 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 3e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2010 CCI 329
+Date : 20100617
+Dossier : 2008-3687(EI)
+ENTRE :
+JOHN O’NEILL JUDGE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] John O’Neill Judge est enseignant au niveau secondaire depuis environ 10 ans. Le présent appel, interjeté en vertu de la Loi sur l’assurance‑emploi (la « Loi »), porte sur un contrat suivant lequel l’appelant a enseigné la technologie de la construction pendant un semestre à l’école secondaire de Gananoque, près de Kingston, en Ontario.
+[2] En l’espèce, le litige porte sur la détermination du nombre d’heures assurables accumulées par l’appelant pendant la période d’emploi allant du 2 février 2007 au 24 août 2007.
+[3] L’appelant a été engagé pour effectuer le 2/3 d’une charge d’enseignement normale. Alors que les enseignants à temps plein donnent 3 cours par jour et effectuent d’autres tâches, l’appelant enseignait 2 cours par jour et accomplissait une quantité proportionnelle d’autres tâches. Pour le semestre d’enseignement, l’appelant a reçu environ 23 000 $.
+[4] Au départ, le ministre du Revenu national (le « ministre ») a déterminé que l’appelant avait effectué 470 heures assurables en se fondant sur le relevé d’emploi présenté par l’employeur. Ce calcul a été fait en fonction du 2/3 d’une pleine journée de travail de 7,23 heures.
+[5] Après que l’appelant a porté cette détermination en appel, le ministre a haussé le nombre d’heures assurables de 470 à 516. Aucun représentant de l’Agence du revenu du Canada n’a témoigné pour expliquer comment on était arrivé à ce chiffre, mais la réponse à l’avis d’appel révèle que l’on s’était fondé sur l’hypothèse selon laquelle les enseignants à temps plein travaillaient pendant 7,5 heures par jour.
+[6] L’appelant a porté cette détermination en appel devant la Cour. Il affirme qu’il était rémunéré pour enseigner 2 cours par jour et accomplir d’autres tâches et qu’il travaillait chaque jour presque autant qu’un enseignant à temps plein. L’appelant soutient qu’un total de 735 heures est une estimation prudente du temps qu’il a passé à travailler, exception faite des activités parascolaires auxquelles il participait volontairement.
+Régime législatif
+[7] Le régime législatif pertinent est établi par le paragraphe 6(3) et l’article 55 de la Loi, de même que par l’article 10 du Règlement sur l’assurance‑emploi (le « Règlement »). Ces dispositions sont ainsi rédigées :
+Loi sur l’assurance‑emploi
+6(3) Pour l’application de la présente partie, le nombre d’heures d’emploi assurable d’un prestataire pour une période donnée s’établit, sous réserve des règlements pris au titre de l’alinéa 54z.1), au titre de l’article 55.
+55(1) La Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements concernant l’établissement du nombre d’heures d’emploi assurable d’une personne et, notamment, prévoyant que les personnes dont la rémunération est versée sur une base autre que l’heure sont réputées avoir le nombre d’heures d’emploi assurable établi conformément aux règlements.
+(2) Lorsqu’elle estime qu’il est impossible d’appliquer les dispositions de ces règlements, la Commission peut autoriser un autre ou d’autres modes d’établissement du nombre d’heures d’emploi assurable.
+(3)La Commission peut, sous réserve des conditions qu’elle estime indiquées, modifier un mode qu’elle a autorisé ou retirer son autorisation.
+(4) La Commission peut conclure des accords avec des employeurs et des employés prévoyant d’autres modes d’établissement du nombre d’heures d’emploi assurable et y mettre fin unilatéralement.
+Règlement sur l’assurance‑emploi
+10(1) Lorsque la rémunération d’une personne est versée sur une base autre que l’heure et que l’employeur fournit la preuve du nombre d’heures effectivement travaillées par elle au cours de la période d’emploi et pour lesquelles elle a été rétribuée, celle-ci est réputée avoir travaillé ce nombre d’heures d’emploi assurable.
+(2) Sauf dans les cas où le paragraphe (1) et l’article 9.1 s’appliquent, si l’employeur ne peut établir avec certitude le nombre d’heures de travail effectivement accomplies par un travailleur ou un groupe de travailleurs et pour lesquelles ils ont été rémunérés, l’employeur et le travailleur ou le groupe de travailleurs peuvent, sous réserve du paragraphe (3) et si cela est raisonnable dans les circonstances, décider de concert que ce nombre est égal au nombre correspondant normalement à la rémunération visée au paragraphe (1), auquel cas chaque travailleur est réputé avoir travaillé ce nombre d’heures d’emploi assurable.
+(3) Lorsque le nombre d’heures convenu par l’employeur et le travailleur ou le groupe de travailleurs conformément au paragraphe (2) n’est pas raisonnable ou qu’ils ne parviennent pas à une entente, chaque travailleur est réputé avoir travaillé le nombre d’heures d’emploi assurable établi par le ministre du Revenu national d’après l’examen des conditions d’emploi et la comparaison avec le nombre d’heures de travail normalement accomplies par les travailleurs s’acquittant de tâches ou de fonctions analogues dans des professions ou des secteurs d’activité similaires.
+(4) Sauf dans les cas où le paragraphe (1) et l’article 9.1 s’appliquent, lorsque l’employeur ne peut établir avec certitude ni ne connaît le nombre réel d’heures d’emploi assurable accumulées par une personne pendant sa période d’emploi, la personne est réputée, sous réserve du paragraphe (5), avoir travaillé au cours de la période d’emploi le nombre d’heures d’emploi assurable obtenu par division de la rémunération totale pour cette période par le salaire minimum, en vigueur au 1er janvier de l’année dans laquelle la rémunération était payable, dans la province où le travail a été accompli.
+(5) En l’absence de preuve des heures travaillées en temps supplémentaire ou en surplus de l’horaire régulier, le nombre maximum d’heures d’emploi assurable qu’une personne est réputée avoir travaillées d’après le calcul prévu au paragraphe (4) est de 7 heures par jour sans dépasser 35 heures par semaine.
+(6) Les paragraphes (1) à (5) s’appliquent sous réserve de l’article 10.1.
+Analyse
+[8] L’intimé soutient que la règle déterminative du paragraphe 10(1) du Règlement s’applique, ou, subsidiairement, que c’est le paragraphe 10(3) du Règlement qui s’applique.
+[9] À mon avis, compte tenu des faits en cause, ni l’une ni l’autre de ces dispositions ne s’applique.
+[10] Selon le paragraphe 10(1) du Règlement, lorsque l’employeur fournit la preuve du nombre d’heures effectivement travaillées par une personne au cours de la période d’emploi et pour lesquelles elle a été rétribuée, cette personne est réputée avoir travaillé ce nombre d’heures d’emploi assurable.
+[11] En l’espèce, l’application du paragraphe 10(1) est problématique, car rien n’indique que l’employeur a fourni la preuve exigée par cette disposition. Une telle preuve n’a certainement pas été présentée à l’audience, et je ne suis pas convaincue que le moindre élément de preuve a été présenté à ce sujet relativement à cette détermination.
+[12] Mme Michelle Meunier, la coordonnatrice de la paye pour le conseil scolaire qui employait l’appelant, a témoigné à l’audience. Mme Meunier a dit que la convention collective applicable ne prévoit pas que les enseignants sont rémunérés pour un nombre fixe d’heures de travail. Elle a expliqué que, traditionnellement, le personnel du service de la paye utilisait une journée de travail de 7,23 heures pour remplir les relevés d’emploi, mais elle ne savait pas pourquoi ce chiffre était utilisé.
+[13] Compte tenu des éléments de preuve présentés, je ne suis pas prête à conclure que l’employeur a fourni la preuve du nombre d’heures pour lesquelles l’appelant a été rémunéré, comme l’exige le paragraphe 10(1) du Règlement. Cette disposition ne s’applique donc pas.
+[14] De même, le paragraphe 10(3) du Règlement ne s’applique pas. Cette disposition‑là prévoit que le ministre peut déterminer le nombre d’heures assurables après avoir examiné les conditions d’emploi et comparé le nombre d’heures de travail normalement accomplies par les travailleurs se trouvant dans des circonstances similaires.
+[15] Je ne dispose pas d’éléments de preuve suffisants pour conclure que le ministre a mené un tel examen.
+[16] L’avocat de l’intimé a mentionné les hypothèses exposées dans la réponse à l’avis d’appel, mais ces hypothèses ne montrent pas que le ministre avait connaissance des conditions d’emploi de l’appelant ou du nombre d’heures de travail normalement accomplies par les travailleurs se trouvant dans des circonstances similaires.
+[17] Je tiens aussi à souligner que certaines des hypothèses du ministre semblent être erronées. Par exemple, le ministre a présumé que les enseignants à temps plein travaillaient pendant 6 périodes de 75 minutes par jour, c’est‑à‑dire 7,5 heures par jour. Toutefois, Mme Meunier a témoigné que la journée de travail était divisée en 4 périodes de 60 minutes chacune.
+[18] Comme j’ai rejeté les deux méthodes de détermination des heures assurables de l’appelant proposées par l’intimé, je dois revenir au Règlement, et, plus précisément, aux paragraphes 10(4) et (5). Ces dispositions prévoient que la détermination est faite en fonction du salaire minimum. Aucune des parties n’a soutenu qu’il faut appliquer ces dispositions en l’espèce, et aucun élément de preuve n’a été présenté au sujet du salaire minimum. Je n’ai pas l’intention de trancher l’appel en me fondant sur ces deux dispositions‑là.
+[19] Dans les circonstances, je dois me fonder sur la preuve relative aux heures de travail réellement effectuées par l’appelant. L’appelant a témoigné qu’à cause de la nature particulière de ses deux cours, il avait dû travailler bien davantage que ce qui est normalement nécessaire pour donner deux cours par jour. Son témoignage à cet égard a été détaillé et convaincant, et il n’a pas été contesté lors du contre‑interrogatoire. J’admets le témoignage de l’appelant selon lequel il travaillait presque à temps plein même s’il avait seulement le 2/3 d’une charge de travail normale.
+[20] L’avocat de l’intimé a avancé que l’appelant avait seulement été rémunéré pour 516 heures, et ce, même s’il avait effectué un bien plus grand nombre d’heures de travail.
+[21] Je ne suis pas d’accord. Comme la convention collective ne précise pas le nombre d’heures de travail qu’il fallait effectuer, il serait déraisonnable de conclure que l’appelant a seulement été rémunéré pour 516 heures de travail. L’appelant a été rémunéré pour le temps passé à préparer et à enseigner deux cours par jour, plus le temps consacré aux autres tâches qu’on lui avait assignées.
+[22] Malgré cette conclusion, je reconnais que le témoignage de l’appelant est intéressé et que l’appelant aurait facilement pu gonfler son estimation de 735 heures. Cependant, le témoignage de l’appelant m’a convaincue que l’estimation de l’appelant est beaucoup plus fiable que celle du ministre. Par conséquent, j’admets l’estimation de l’appelant voulant qu’il ait effectué 735 heures de travail.
+[23] Finalement, je tiens à mentionner que l’appelant a invoqué plusieurs décisions qui viennent appuyer ma démarche. Il s’agit de Franke c. M.R.N., 1999 CanLII 532 (CCI); Chahal c. M.R.N., 2008 CCI 347; et McKenna c. M.R.N., 1999 CanLII 194 (CCI).
+[24] L’appel est accueilli et la décision du ministre est modifiée de façon à hausser le nombre d’heures assurables effectuées par l’appelant à 735 heures.
+Signé à Ottawa, Canada, ce 17e jour de juin 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 3e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2010 CCI 329
+No DU DOSSIER DE LA COUR :
+2008-3687(EI)
+INTITULÉ :
+John O’Neill Judge c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Kingston (Ontario)
+DATE DE L’AUDIENCE :
+Le 7 juin 2010
+MOTIFS DU JUGEMENT :
+L’honorable juge J.M. Woods
+DATE DU JUGEMENT :
+Le 17 juin 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Jack Warren
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimé :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

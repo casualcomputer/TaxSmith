@@ -1,0 +1,229 @@
+---
+title: "Symons v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/126337/index.do"
+last_modified: "2015-11-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 270"
+citation2: ""
+neutral_citation: "2015 TCC 270"
+decision_date: "2015-11-02"
+language: "en"
+item_id: "126337"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2737
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:08:46.903000+00:00"
+cases_cited_count: 8
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f79a7c25d6c1cfd607007b09b12aa1914e6b41237a98d78f1bd61302e4017490"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Symons v. M.N.R.
+
+- Citation: 2015 TCC 270
+- Decision date: 2015-11-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2737, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Symons v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-11-02
+Neutral citation
+2015 TCC 270
+File numbers
+2014-1966(EI)
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2014-1966(EI)
+BETWEEN:
+KELLY SYMONS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on October 2, 2015, at Ottawa, Canada.
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Gabrielle White
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal is allowed, without costs, and the decision of the Minister of National Revenue dated February 17, 2014 is varied to find that:
+- Bérénice Aguilar was not employed in insurable employment with the Appellant from June 21, 2012 to June 28, 2013.
+Signed at Ottawa, Canada, this 2nd day of November 2015.
+“J.E. Hershfield”
+Hershfield J.
+Citation: 2015 TCC 270
+Date: 20151102
+Docket: 2014-1966(EI)
+BETWEEN:
+KELLY SYMONS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield J.
+I. Background [1] The Appellant, Ms. Kelly Symons, operated a Montessori Day Care out of her home in Montréal. One of her Montessori Day Care workers, Bérénice Aguilar, (the “Worker”), worked for the Appellant from March 20, 2012 through to June 2013.
+[2] While this was the uncontested engagement period alluded to at the trial, a ruling made by the Canada Revenue Agency (the “CRA”) under the Employment Insurance Act (the “EIA”) for the period June 21, 2012 to June 28, 2013 (the “Period”) found that the Worker was engaged in a contract of service with the Appellant such that an employer-employee relationship existed and that the Worker was thereby engaged in insurable employment.
+II. Issue [3] The principal issue in this appeal is whether the Worker was employed in insurable employment with the Appellant during the Period.
+[4] A related issue is the impact of the Civil Code of Quebec on the principal issue.
+III. The Appellant’s Testimony [5] The Appellant testified that she opened the Montessori Day Care in 2008 as a sole proprietorship.[1] It operated from inception out of her home until January 2013 when it moved to an apartment where she then resided having sold and vacated her home in December of 2012.
+The Montessori Approach [6] The Appellant explained that calling her day care a Montessori Day Care did not mean that there was any formal or licensed association with the Montessori name. She explained that Montessori was an individual who advocated a philosophy of teaching young children. A day care or pre-school could adopt such a philosophy and use the name as a means to communicate adherence to the philosophy in the operation of a day care or pre-school.
+[7] Workers engaged by the Appellant did not necessarily need formal training. A worker only needed experience with and an understanding of the Montessori philosophy, being the teaching approach adopted by the Appellant at her day care. As described, the workers at the Appellant’s day care were more than babysitters, they were teacher–caregivers.
+[8] The Montessori philosophy was explained by the Appellant. It is an approach aimed at exposing children during play to materials and objects of everyday life, under the guidance of a worker who would help the children utilize these materials to further their development. Adherence to this teaching approach did not require compliance with a rigid format. This afforded a worker considerable latitude to perform duties without supervision. This type of environment invites worker creativity.
+[9] The Appellant acknowledged that she supplied the workers with a variety of materials used or consistent with those used in the Montessori approach. However, workers were encouraged to bring objects to the day care that could be utilized as a teaching tool. The Appellant might also add materials if requested by a worker.
+[10] An example of an object that would be used as a teaching tool was a carpet. Children could be asked to roll a small piece of carpet. The exercise would allow the child to experience an object encountered in everyday life. This was the type of association with an object that is what the day care strived for and, as well, rolling it was an activity that would enhance motor skills. Such activities were employed by the workers in an unstructured, un-programmed fashion.
+The Business [11] The Appellant explained that the day care operated five full days a week. The worker–child ratio mandated by law before the move in January, when there were 6 to 9 children enrolled, required two workers to be engaged. Only one worker was required after the change in premises when enrollment was reduced to 4 or 5 children.
+[12] The Appellant explained that when the Worker commenced working for the day care, she worked with a second worker (Shraddha Gadigone) who had been with the day care for a long time prior to the commencement of the services of the Worker. They each worked with a separate group of children although when the Worker first started, a large part of the house was available to the children with no separate area for distinct groups differentiated by age or stage of development. Sometime after the Worker started, the Appellant moved out of the house and her bedroom became available as a separate room for use by the day care. The Worker took charge of the younger children and utilized, on a completely separate basis, the bedroom while the other co-worker utilized the other part of the house for the older children. The Appellant described the relationship between the two workers as being largely independent particularly once the separate areas were available. The Appellant denied the Worker’s contention that there was a hierarchy between the two workers during the first part of the Period when they both worked at the day care. There was no disagreement that the Worker worked alone during the second part of the Period.
+[13] The Appellant testified that there were no performance guidelines, rules of conduct or any other attempt to provide supervision. The guiding principles for the conduct of a worker’s services were the Montessori philosophy and approach. That is what governed the daily activities of the children. The workers were not under any instructions per se. The daily activities were at the planning and discretion of the worker. There was no schedule of activities.
+[14] While I have described the work of workers at the Appellant’s business in broad terms, it was acknowledged by the Appellant that there were certain duties that were required to be performed. The duties of the workers taken from the assumptions set out in the Reply and acknowledged by the Appellant include:
+• Babysitting the children;
+• Planning and supervising activities for the children;
+• Changing diapers;
+• Applying the standard methods of Montessori.
+Other assumptions acknowledged by the Appellant include:
+• The Worker was paid an hourly rate of between $12 per hour and $15 per hour.
+• The Worker was paid for breaks, lunches and statutory holidays and was provided coverage by the Appellant for the Quebec equivalent of Workers Compensation. There were no health benefits, vacations or bonuses.
+• The clients of the day care were those of the Appellant.
+• There were no fees or taxes withheld by the Appellant.
+• The Appellant determined the prices for the day care services.
+• The Worker did not have a business name, did not have business cards and was not registered with a GST number.
+• The Appellant did not issue any T4 or T4A slips.
+[15] When asked about the work schedule of the Worker, the Appellant acknowledged that during 2012, the Worker attended on a regular basis with a few exceptions where she was not available for personal reasons. During such occasions, the Appellant found a replacement. The Appellant was quite assertive that the Worker was always at liberty to choose when she would work. During the 2013 part of the Period, for example, the Worker did not work Mondays and Friday afternoons.
+[16] The Appellant testified that the Worker, like all workers engaged by the business, had complete flexibility as to the days and hours that she could work. I note here that the Reply, under the heading “Control”, at paragraph (v), acknowledged, as an assumption, the following:
+(v) the Worker’s schedule was based on the needs of the business and the Worker’s availability.
+[17] The Appellant testified that she had a list of workers that would substitute in the event that a worker who was scheduled for a particular time became unavailable. The Appellant testified that the Worker had been unavailable on some occasions for personal reasons and that in those cases the Appellant arranged for a substitute.
+[18] The Appellant testified that she had no opportunity to assess the daily performance of a worker. She was either a full-time student or engaged in other employment throughout the Period. She would greet the parent on arrival and try to be there when the children were picked up. She acknowledged that if there were any incidents at the school or complaints the parents would deal with the Appellant and not with the worker.
+[19] The Appellant was absent during the operation of the day care; there was no supervision of its workers. She played no supervisory role in the way in which workers performed their duties.
+[20] Occasional meetings were held at the Appellant’s home or at a restaurant which meetings were just to afford the Appellant and the workers an opportunity to talk about how the day care was doing but there was no guidance or instruction given to the workers.
+[21] After the house was sold, the Appellant was ready to close down the business but was encouraged by some parents to keep it open until the end of the school year. The Appellant did so and the Worker then became the sole provider of the services. Lunches were no longer served and these savings were passed on to the Worker by an increase in her hourly rate.
+Retention of the Worker [22] The Appellant testified that she advertised for workers on-line principally on Kijiji or Craigslist. The advertisement requested a Montessori trained day care teacher. Applications were received on-line and subsequently weeded out. From perhaps some 20 applications there would be four or five telephone interviews. This was how the Worker came to be engaged. The Appellant testified that she conducted the Worker’s interview, during which the Worker explained her work experience and the Appellant described the work expectations and pay arrangement. The Appellant said that she made it clear to the Worker that she was being retained as an independent contractor.
+[23] The experience that impressed the Appellant was that the Worker had spent four years in Germany as a Montessori teacher and although she had had no formal training, this experience justified the retention of the Worker’s services.
+[24] In an effort to support the Appellant’s strong assertions that she would have made it clear that the Worker was being retained as an independent contractor, she tendered several email exhibits only one of which was an email exchange between the Worker and the Appellant. That email exchange was on June 19 and June 20, 2013. The Worker had enquired about obtaining a record of employment (ROE). The Appellant wrote that she was sending the invoice for 2013 which would suffice as an earnings record for tax purposes and that there would be no ROE since she, the Worker, was an independent contractor. The Appellant went on in the email to explain how, for tax purposes, she reported her payments to the Worker as a business expense and how the Worker, as a contractor, was her own employer. She asked if this made sense. The Worker replied “All seems good to me”.
+[25] The balance of the exhibits tendered by the Appellant were letters from 5 other workers, indicating that their engagement was clearly on the basis of an independent contractor relationship, which was made absolutely clear from the outset, and mutually agreed upon and understood by both parties. One such letter was from Ms. Gadigone.[2]
+[26] The Appellant insisted that the Worker, like these other workers, had also agreed from the outset to an independent contractor engagement.
+IV. Worker’s Testimony [27] The Worker described herself as an educator and acknowledged that she applied for the job through Craigslist and had provided her curriculum vitae on-line. She testified that she was interviewed by telephone by a Mr. Tom Bauer who, as acknowledged at the hearing, was the gentleman who lived at the Appellant’s residence and was the person who prepared the lunches.
+[28] The Worker testified that Mr. Bauer did not talk about the issue of independent contractor versus employee. She testified that the telephone interview was long and in her mind somewhat peculiar as if Mr. Bauer was flirting with her as opposed to interviewing her. In any event, an appointment was set up at which time she said she met Mr. Bauer and the Appellant.
+[29] The Worker testified that she does not remember the details of her meeting with the Appellant, but she did remember that she was told that the other worker, Ms. Gadigone, was the head teacher and that she, the Worker, would be paid $12 per hour.[3]
+[30] The Worker testified that she did her work more in the way of an assistant to Ms. Gadigone who was in charge of the schedule and the routine in terms of activities including when certain activities would occur such as nap time, music time, lunch time and outside play times. That is, the Worker’s testimony was that she followed along with what Ms. Gadigone did.
+[31] The Worker admitted that she did bring some educational materials of a show and tell nature such as maps or pictures of sea animals.
+[32] She testified that she was never asked to replace herself and never contacted others to be replacements. She testified that she did not have a list of possible replacement persons.
+[33] She acknowledged that she was familiar with the Montessori methods and carried out her duties allowing children the freedom of choice in what they wanted to do, but she encouraged use of materials that they would encounter in their environment and in practical life. She gave an example of how she would give them an opportunity to pour water in a glass, water that might be coloured by say a hint of tea so that they could see what was occurring in the pouring motion as they enhanced their motor skills.
+[34] She said she became aware that there was going to be changes in the operation of the day care as early as September 2012 when she saw a “For Sale” sign up at the residence but that she was not told until Christmas of 2012 that the day care would be moved to the Appellant’s rental apartment in January of 2013. Ms. Gadigone did not want to stay on after the move. The Worker however did agree to stay on until the day care closed at the end of June 2013. Other than being the sole worker, working at a new premises, her role did not change.
+[35] The Worker implicitly denied that she negotiated an increase in her pay once she became the sole teacher.
+[36] When the operations of the day care ended, the Worker applied for employment insurance and that required an ROE. She testified that she had not addressed that prior to visiting with the employment office and when she requested same from the Appellant, the Appellant refused and told her that she knew all along that she was being retained as an independent contractor and that this had been made clear from the start.
+[37] In response to the Appellant’s testimony that the Worker took Monday and Friday afternoons off during the latter part of the contract, the Worker testified that she did not take Mondays off. However, after initially being quite insistent about that, the Worker later testified that she thought that she did work “some Mondays”.
+[38] The Worker also described her work experience prior to going to Germany where she had worked in a day care utilizing the Montessori methods. That prior work experience was as a provincial government employee for 12 years. She acknowledged that she received T4s throughout that period.
+[39] When reporting her income for the day care work, she acknowledged that for 2012, she reported it other than as an employee. At first she testified that she and her accountant had tried to make inquiries to find out how she should report it, and eventually her accountant said she should report it as an independent contractor. A short time after that particular statement in her testimony, she corrected herself and said that she thought she reported under a line in the return that said “other income”.
+V. Analysis [40] I will deal firstly with the impact of the Civil Code of Quebec on the determination of an employee versus an independent contractor. At the hearing my attention was drawn to certain provisions of the Code and to two cases that dealt with this related issue, namely: Hann v. Canada (M.N.R.)[4] (Hann) and Grimard v. R.[5] (Grimard).
+[41] The statutory provisions that I was referred to (by way of reference to portions of the Federal Court of Appeal (FCA) decision in Grimard) are as follows:
+Interpretation Act
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada, and unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province’s rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+Civil Code of Québec
+1425. The common intention of the parties rather than adherence to the literal meaning of the words shall be sought in interpreting a contract.
+1426. In interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account.
+2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+2086. A contract of employment is for a fixed term or an indeterminate term.
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+2099. The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[42] Determining the impact of the provisions of the Civil Code on the decision making process in this appeal will depend on whether they alter the common law analysis applicable to similar cases in the rest of Canada.
+[43] The Federal Court of Appeal decision in Grimard, made it clear that the principles of Quebec civil law on the issue of determining an employment relationship are not at odds with those applied at common law, namely those set out in Wiebe Door Services Ltd v. Canada (M.N.R.)[6] (Wiebe Door).
+[44] At paragraph 43 Létourneau, J.A. in Grimard noted:
+In short, in my opinion there is no antinomy between the principles of Quebec civil law and the so-called common law criteria used to characterize the legal nature of a work relationship between two parties. In determining legal subordination, that is to say, the control over work that is required under Quebec civil law for a contract of employment to exist, a court does not err in taking into consideration as indicators of supervision the other criteria used under the common law, that is to say, the ownership of the tools, the chance of profit, the risk of loss, and integration into the business.
+[45] The principle of using the same tests in civil law as apply in common law is not new. In Wolf v. The Queen[7] (Wolf) there were three judgments concurring in result only. While the reasons of all three judgments applied, to some extent at least, common law tests, Desjardins, J.A. comes the closest to saying that there is no antinomy between the principles of Quebec civil law and common law criteria. At paragraph 49 he states that the issue can be examined in the light of tests developed in both jurisdictions. All three judges appear to concur that the relationship as a whole must be considered.
+[46] My only remaining comment on the tests to be applied in each jurisdiction is the relevance of the intention of the parties.
+[47] Grimard makes reference to the importance of the intentions of the parties, but there is no express requirement, in that decision, that the starting point in the analysis must be the intention of the parties, as so clearly stated in Connor Homes v. M.N.R.[8] (Connor), a common law decision. In that case the FCA confirmed that the professed intentions of the parties will not govern if an analysis of the actual relationship suggests otherwise, but the first step of the analysis is to determine the intent of the parties and then, using the prism of that intent, determine, in a second step, whether the parties’ relationship, as reflected in objective reality, is one of employer-employee or of independent contractor. Such objective reality would be viewed under the lens of the Wiebe Door factors and the 671122 Ontario Ltd. v. Sagaz Industries Canada Inc. (Sagaz)[9] approach. The civil law approach does not ignore intentions as noted at paragraph 33 of Grimard, but I find no mandate in that decision that a determination of intention must be the starting point in the analysis as was so strictly employed in Connor.
+[48] Admittedly, I am puzzled by how the nature of a relationship objectively determined might be differently determined depending on where one starts the analysis. Whether or not there is a finding of a consensus as to the contractual intent of the parties, the exercise, or so it seems to me, will be largely the same in both jurisdictions; namely, to determine the nature of the relationship objectively, applying the common and civil law jurisprudence applicable to each jurisdiction (which are not dissimilar or at odds). Put another way, the principle of requiring an objective analysis of the relationship does little in my view to elevate the intention of the parties as the most relevant factor and thereby the starting point. I make this observation knowing that I am bound by the decision and approach of Connor in a common law case. I am less certain that it is the required approach in Quebec. More likely, the requirement in civil law is to consider the case as a whole, applying common and civil law principles, which includes considering the weight to be given to asserted intentions.[10]
+[49] While I see no difference in the outcome in the case at bar, whether or not I start with intentions, I will do so on the basis that it is not likely objectionable under civil law. Put like that, I believe my approach would be in accord with the opinion expressed by Létourneau J.A. in Grimard that there is no antinomy between the principles of Quebec civil law and those of the common law used to characterize the nature of a work relationship.
+Intentions
+[50] While I acknowledge that the testimony of both witnesses was self-serving, I am inclined to believe that the Worker knew she was, and acquiesced to, being engaged by the Appellant as an independent contractor. That is, I do not find that the Worker’s testimony, that she does not remember being told that she was not being retained as an employee, reliable. Similarly, I find that her conduct throughout the Period implicitly reflects that she agreed to be an independent contractor. I find no evidence of duress. I do not find her testimony, that she did not remember being told that one of the terms of the offer of engagement included her acceptance of being an independent contractor, credible. On a balance of probability, I find that she knowingly seized any tax advantage that might arise from being an independent contractor on the basis that she had accepted the terms of the offer put to her at the outset of her engagement. I cannot help but distrust her evidence that she was confused about the tax status of her earnings. To the contrary, as I said, it is more credible that she knowingly took full advantage of her self-employed status for tax purposes. She is not unsophisticated. I found her to be quite clever in seeking to turn the tables on the Appellant for her own advantage. As a civil servant for the province of Quebec for over a decade she would have known that the way she was being paid was not consistent with her being considered an employee. Her acquiescence to, indeed acceptance of, the arrangement in my view constituted an agreement to be so engaged. The Worker and Appellant were ad idem – of the same mind and intent that she was an independent contractor.
+[51] I will turn now to consider the objective reality of this relationship applying the traditional tests.
+Tools [52] The evidence before me was minimal. If the tools were largely common household type items as I was led to believe, I cannot find the Appellant’s supply of them to have too much significance. As well, it was admitted that the Worker could and did supply materials that were the tools of the job.
+[53] I would add here that the tools in this case do not reveal any sense of control or subordination by the Appellant over the Worker. Nor do they speak so loudly as to suggest that the Worker had no business of her own. Teachers who have no supplies, no teaching materials, have the most relevant and essential tool of their trade – their personal skill, knowledge and experience. The Worker had these tools to be an independent Montessori teacher/contractor.
+[54] While the premises in which the Worker’s trade is carried out is not considered a tool per se, I note here that I could list dozens of contractor jobs that can only be performed at the premises of the party paying for their services. To name one, consider that the dancers of the Royal Winnipeg Ballet were found to be independent contractors notwithstanding that their work could only be performed at the premises of the Ballet company.[11]
+[55] This factor is inconclusive of the Worker’s status.
+Opportunity for Profit/Risk of Loss [56] The Worker here has no quantifiable risk of loss other than having possibly allowed herself to be largely at the whim of the Appellant in terms of being guaranteed work. In Wolf, job security was considered an indicia of employment. Both Décary J.A. at paragraph 120 and Noël J.A. at paragraph 123 make this observation. There was no job security in the case at bar.
+[57] The only factor that speaks to the chance for profit, is the hourly rate earned by the Worker and the number of hours worked. I cannot find on the evidence that the rate of pay was negotiated. The Appellant paid what she could afford to pay at a rate that was presumably competitive. The Worker knowingly accepted a rate of pay that the Appellant could offer to pay but she could clearly make more or less money depending on when she chose to work. During the second part of her engagement, when she was the sole teacher, she was still given the freedom to choose her working days. Choosing not to work Mondays or Friday afternoons was a decision to profit less from her engagement with the Appellant.
+[58] A Worker who is at liberty to choose when to work (as admitted in the Reply), and who has given no restrictive covenants, has the liberty to choose where to work. There is no evidence as to what the Worker did on Mondays in 2013, but if she had an opportunity to substitute at a different day care on Mondays for better pay, her engagement with the Appellant would not prevent it. Employees do not generally enjoy such freedom. An arrangement that offers such freedom speaks loudly as an independent contractor arrangement. It allows for greater earning potential and allows the Worker to have a business of her own. Still, this chance of gain factor, in the circumstances of an hourly worker, would not generally be compelling in terms of applying this test in favour of the Appellant.
+[59] In any event there is no evidence before me of the Worker having other contracts or even having sought them. Without that, I cannot make a finding in this case that the opportunity for profit/risk of loss test as applied in the Wiebe Door/Sagaz tests assists the Appellant. That is, this factor is inconclusive of the Worker’s status.
+Control/Supervision [60] The Respondent places weight on the Workers’ subordinate role to Ms. Gadigone. In this regard counsel for the Respondent relies on the similar facts dealt with in Hann where the worker was an assistant to another worker. In that case the worker’s evidence was found to be more reliable. That is not the case here.
+[61] I do not accept the Worker’s testimony on this point – that she was under the supervision of Ms. Gadigone. I accept that the Worker was a capable Montessori teacher and that she was hired on that basis. I do not accept her testimony that she was instructed to regard Ms. Gadigone as the head teacher in any sense that would make her a subordinate.
+[62] The Appellant was never present, at relevant times, to impose a supervisory role. The teaching philosophy was external to the Appellant’s business. The Worker was free to invoke the teaching techniques of that philosophy in the daily routines of the children in whatever manner she pleased. The desired result of the teaching method employed was only assured by the talents of the Worker – working unsupervised without subordination. She was free to work or take days off without restriction.
+[63] I have referred to the Federal Court of Appeal in the Royal Winnipeg Ballet decision. At paragraph 66, Justice Sharlow J.A. noted that if a guest dancer, who performed the same role with a consistent degree of control as a regularly engaged dancer, could be regarded as an independent contractor, then the impact of the element of control should not differ for a regularly engaged dancer. Likewise, if the Worker was occasionally engaged as an independent contractor by the Appellant and required no more supervision than while engaged on a more regular basis then the legal nature of the relationship should be the same. This is consistent with findings in cases like Wolf where specialized or professional skill sets are required and a worker, retained to do a job, is found not to be an employee based largely on the fact that the party retaining the services cannot control the manner in which the job is done. Such findings are not adversely affected by risk of loss being limited due to the worker being paid an hourly wage or by the provision of tools being the responsibility of the party engaging the services. The case at bar, in my view, should be treated similarly.
+[64] Accordingly, I find this factor favours, by a considerable margin, a finding of an independent contractor relationship between the Worker and the Appellant.
+Integration/Whose Business is it/Does the Worker Have a Business [65] That the most compelling factors in the case at bar are the absence of supervision and control allowed by the experience of the Worker and her freedom to take that experience to another day care at any time the Worker saw fit, if the opportunity presented itself, lends itself to a finding that the Worker is working for her own account.
+[66] It is true that she had none of the trappings of a self-employed independent contractor. Nor is there evidence that she took advantage of her freedom and experience to the point of evidencing, in any concrete way, that she had a business outside of her engagement with the Appellant. However, neither of these considerations are fatal to a finding that the Worker was working for her own account.
+[67] The absence of business trappings in some enterprises are not necessarily indicative of there being no business. For example, in D & J Driveway Inc. v. M.N.R.[12] at paragraph 13, the Federal Court of Appeal found that one should not think of an enterprise as needing to be an organized commercial undertaking. As well, that an independent contractor who only works for one enterprise for a period of time, might only indicate that that enterprise offers enough work on satisfactory terms as to give the worker no cause to seek other contracts during that time.
+[68] Based on the foregoing, I find, in the circumstances of this case, that I am not dissuaded from allowing that the Worker was working for her own account.
+VI. Conclusion [69] I find that the common intention of the Worker and the Appellant here was to enter into a contract for services and that that was, viewed objectively, on a balance of all factors considered, the true nature of the engagement.
+[70] I also wish to add for the sake of completeness, that if the civil law test requires focus on the degree of control and subordination tested by looking at the entire picture through the lens of common and civil law tests including intentions, then, on a balance of all factors considered, I would also find that the true nature of the engagement of the Worker was having been engaged as an independent contractor in a contract for services.
+[71] The appeal is therefore allowed, without costs.
+Signed at Ottawa, Canada, this 2nd day of November 2015.
+“J.E. Hershfield”
+Hershfield J.
+CITATION:
+2015 TCC 270
+COURT FILE NO.:
+2014-1966(EI)
+STYLE OF CAUSE:
+KELLY SYMONS AND M.N.R.
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+October 2, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+November 2, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Gabrielle White
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] It also appeared from the evidence that, in fact, she had a friend who lived at her residence and who helped prepare the meals for the children at the day care. According to the Worker, he was the person who first interviewed her by telephone. The Appellant stated at one point that she considered him a partner in the business. He left the scene about the time the Appellant sold her residence. Regardless, his status has really no bearing on the outcome of this appeal.
+[2] Being an appeal under the Informal Procedure no challenge was made to the admission of these letters, although, counsel for the Crown did suggest that the letters had such degree of similarity that might lead one to conclude that they had been coached by the Appellant as to the desired content. While the reliability of and the weight given to these letters is less than it might be if the authors were at the hearing to be examined and cross-examined, I have no reservations in saying that I do not find counsel’s suggestion very persuasive. That is, it strikes me more likely than not that the authors of these letters were totally on-side to being independent contractors and that that was the engagement agreed to at the outset.
+[3] The Worker started work in March for what would appear from Exhibit R-1 to be one week. This appears to have been a week of observation when she was paid $11 per hour.
+[4] Hann v. Canada (M.N.R.), 2013 TCC 359.
+[5] Grimard v. R., 2009 FCA 47, 2009 DTC 5056.
+[6] [1986] 2 C.T.C. 200 (FCA).
+[7] Wolf v. The Queen, 2002 DTC 6853.
+[8] Connor Homes v. M.N.R., 2013 FCA 85.
+[9] 671122 Ontario Ltd. v. Sagaz Industries Canada Inc. (Sagaz), 2001 SCC 59.
+[10] For example in Hann, Justice Favreau, trained in civil law, paid heed to the Civil Code and commenced his discussion considering the issue of control. After making a decisive determination of that issue in favour of employment, he noted briefly at paragraph 27, that regardless of intentions, the objective reality was one of employer-employee.
+[11] Royal Winnipeg Ballet v. M.N.R., 2006 DTC 6323.
+[12] D & J Driveway Inc. v. M.N.R., 2003 FCA 453.

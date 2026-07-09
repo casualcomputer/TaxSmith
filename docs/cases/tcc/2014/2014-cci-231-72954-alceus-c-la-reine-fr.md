@@ -1,0 +1,182 @@
+---
+title: "Alceus c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/72954/index.do"
+last_modified: "2014-07-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 231"
+citation2: ""
+neutral_citation: "2014 CCI 231"
+decision_date: "2014-07-25"
+language: "fr"
+item_id: "72954"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5187
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:48:43.889000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bd389efd4fb6587faa0c0dc94e17d2dda1d504115efdcb35f6308a1295c7e3ec"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Alceus c. La Reine
+
+- Citation: 2014 CCI 231
+- Decision date: 2014-07-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5187, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alceus c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-07-25
+Référence neutre
+2014 CCI 231
+Numéro de dossier
+2014-711(GST)APP
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2014-711(GST)APP
+ENTRE :
+LIONEL ALCEUS,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Demande entendue le 2 juillet 2014 à Montréal (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Pour le requérant :
+Le requérant lui-même
+Avocate de l’intimée :
+Me Catherine Boisvert
+ORDONNANCE
+Vu la demande faite en vue d’obtenir une ordonnance prolongeant le délai dans lequel un avis d’opposition de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l’avis est daté du 1er août 2012, couvrant les périodes du 4 janvier 2005 au 31 décembre 2005 et du 1er janvier 2006 au 31 décembre 2006 et du 1er janvier 2007 au 31 décembre 2007 et du 1er janvier 2008 au 31 décembre 2008 peut être signifié;
+Et vu les allégations des parties;
+La demande de prorogation de délai est rejetée, sans frais.
+Signé à Ottawa, Canada, ce 25e jour de juillet 2014.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2014 CCI 231
+Date : 20140725
+Dossier : 2014-711(GST)APP
+ENTRE :
+LIONEL ALCEUS,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+La juge D’Auray
+[1] Le requérant, M. Alceus, demande à cette Cour une prolongation de délai pour présenter un avis d’opposition à l’encontre d’une cotisation datée du 1er août 2012, pour les périodes du 4 janvier 2005 au 31 décembre 2008 (« périodes en litige »).
+[2] À cet effet, un avis de cotisation daté du 1er août 2012 a été envoyé au requérant à son adresse, soit au 6869, avenue Papineau, porte 115, Montréal.
+[3] La cotisation datée du 1er août 2012 fait suite à un règlement entre le requérant et l’Agence du Revenu du Québec (« ARQ »). Pour les fins du règlement, le requérant et le représentant de l’ARQ, M. Dubois, ont signé le 25 juillet 2012 une entente intitulée Transaction et renonciation aux droits d’opposition et d’appel (« entente »). En vertu de cette entente, les parties conviennent et déclarent ce qui suit :
+[…]
+1. Éléments à modifier et émission d’un avis de cotisation
+À la suite d’une vérification effectuée par le ministre pour les périodes du 1er janvier 2005 au 31 décembre 2008 et du projet de cotisation qui en a résulté, les parties consentent à ce que le montant des droits, remboursements, intérêts et pénalités dont le mandataire est redevable ou auquel il a droit, en vertu d’une loi fiscale ou d’une autre loi dont l’application est confiée au ministre, soit déterminé ou déterminé de nouveau en tenant compte des modifications apportées aux éléments suivants :
+À la proposition faite en novembre 2011, qui se lit comme suit : Nous accordons un crédit de taxe sur intrants (CTI) ainsi qu’un remboursement de taxe sur intrants (RTI) sur des dépenses équivalentes à 60% des revenus qui ont été déclarés au service de l’impôt, et ce, pour chacune des années. Les montants s’élèvent à 1 320,24 $ pour l’année 2008, à 1 545,49 $ pour l’année 2007, à 1 088,37 $ pour l’année 2006 et à 1 151,16 $ pour l’année 2005.
+Notre proposition a été basée en partie sur des documents reçus du mandataire et selon les dires de ce dernier. Le mandataire loue son véhicule taxi, donc nous avons accordé un certain montant pour cette location, de plus nous avons accordé des frais d’essence en nous basant sur des factures de l’année précédente, soit 2009.
+Par conséquent, un avis de cotisation sera transmis au mandataire.
+2. Renonciation aux droits d’opposition et d’appel
+La présente transaction constitue une transaction au sens des articles 2631 à 2637 du Code civil du Québec. En conséquence, le mandataire renonce à son droit de notifier au ministre un avis d’opposition, conformément aux articles 93.1.1 et suivants de la Loi sur l’administration fiscale, à l’encontre de la cotisation découlant des éléments qui font partie de la présente transaction et concernant les périodes mentionnées ci-dessus. Il renonce également à son droit d’interjeter appel auprès du tribunal compétent pour faire annuler ou modifier cette cotisation.
+3. Pouvoir du ministre
+Sauf en ce qui concerne les éléments visés par cette transaction, le ministre conserve son pouvoir de déterminer de nouveau, dans les limites prévues par la loi, le montant des droits, remboursements, intérêts et pénalités pour les périodes visées.
+Les parties reconnaissent avoir pris connaissance du contenu de la présente transaction et s’en déclarent satisfaites.
+Signé à Montréal, ce 25e jour de juillet 2012
+(s) Lionel Alceus________________________________
+Signature du mandataire ou de son représentant autorisé
+Signé à Montréal, ce 25e jour de juillet 2012
+(s) Alain Dubois________________________________
+Signature de l’employé autorisé
+[4] Le 12 mars 2013, soit environ sept mois après la cotisation du 1er août 2012, le requérant a présenté auprès de la ministre du Revenu national (la « ministre ») une opposition, et cela malgré qu’il eût renoncé à son droit de s’opposer à la cotisation et d’interjeter appel auprès de cette Cour à l’encontre de la cotisation du 1er août 2012. L’avis d’opposition présenté par l’appelant tient aussi lieu de demande de prolongation de délai pour produire un avis d’opposition.
+[5] Le 29 janvier 2014, la ministre avise le requérant qu’elle refuse d’accorder la demande de prolongation de délai pour présenter une opposition à l’encontre de la cotisation du 1er août 2012.
+[6] Le 17 février 2014, le requérant dépose auprès de cette Cour une demande de prolongation de délai pour présenter une opposition à l’encontre de la cotisation du 1er août 2012.
+[7] L’intimée fait valoir que cette Cour doit rejeter la demande de prolongation de délai du requérant pour présenter une opposition, puisqu’il a renoncé à son droit de s’opposer et d’interjeter appel à l’encontre de la cotisation du 1er août 2012.
+[8] L’intimée fait également valoir que la demande du requérant ne rencontre pas les conditions énoncées au paragraphe 304(5) de la Loi sur la taxe d’accise, Partie IX (la « Loi »).
+[9] L’intimée fait aussi valoir que le requérant a déjà obtenu de cette Cour une ordonnance en date du 8 mars 2013, rejetant la demande de prolongation de délai du requérant pour présenter une opposition à l’encontre d’une cotisation datée du 1er février 2010, soit la cotisation initiale. La cotisation du 1er février 2010 portait essentiellement sur les mêmes périodes que celles en litige sauf que la cotisation du 1er août 2012 inclut également la période du 1er janvier 2005 au 31 décembre 2005.
+[10] Madame Sheehy, analyste à l’ARQ, a expliqué pourquoi l’ARQ a émis une cotisation en date du 1er août 2012. Le requérant réclamait des crédits de taxe sur les intrants pour les périodes de 2005 à 2008, mais il n’avait pas de pièces justificatives pour prouver la TPS qu’il avait payée dans le cadre de ses activités commerciales. Lors de la cotisation initiale du 1er février 2010, aucun crédit de taxe sur les intrants n’avait été accordé au requérant. Suite à plusieurs rencontres et conversations téléphoniques avec le requérant, madame Sheehy a offert au requérant de régler les périodes de la cotisation initiale, soit les périodes couvrant les années 2006 à 2008 ainsi que la période couvrant l’année 2005.
+[11] En vertu de cette offre, des dépenses équivalentes à 60% du revenu déclaré par le requérant pour fins d’impôt sur le revenu seraient acceptées. Les crédits de taxe sur les intrants ont été déterminés en appliquant sur les dépenses le taux d’imposition de la TPS en vigueur.
+[12] Lors de son témoignage, madame Sheehy a expliqué qu’elle a accordé des crédits de taxe sur les intrants au requérant malgré l’absence de pièces justificatives. Selon elle, il était évident qu’à titre de chauffeur de taxi le requérant encourait des dépenses dans le cadre de ses activités commerciales. Cependant, pour fins de règlement le requérant devait renoncer à s’opposer à la cotisation et/ou interjeter appel de la cotisation du 1er août 2012.
+[13] Madame Sheehy a témoigné que sans cette renonciation au droit d’opposition de la part du requérant, il n’y aurait pas eu d’entente et la cotisation du 1er août 2012 n’aurait pas été émise. Madame Sheehy ne pouvait pas savoir au moment de la signature de l’entente, le 25 juillet 2012, que le requérant déposerait le 23 août 2012 auprès de cette Cour une demande de prolongation pour présenter une opposition à l’encontre de la cotisation initiale en date du 1er février 2010.
+[14] À cet effet, quatre journées après l’ordonnance de cette Cour en date du 8 mars 2013, rejetant la demande de prolongation de délai du requérant pour présenter une opposition à l’encontre de la cotisation initiale du 1er février 2010, le requérant présentait à la ministre en date du 12 mars 2013, une demande de prolongation de délai à l’encontre de la cotisation du 1er août 2012. Suite au refus de la ministre de proroger le délai, le requérant a déposé auprès de cette Cour une demande prolongation de délai pour présenter une opposition.
+[15] Au soutien de sa demande de prolongation de délai pour présenter un avis d’opposition à l’encontre de la cotisation du 1er août 2012, le requérant fait valoir qu’il n’a jamais reçu l’avis de cotisation daté du 1er août 2012, ainsi le délai pour s’opposer à cette cotisation n’a pas commencé à courir. Le requérant fait aussi valoir que l’entente du 25 juillet 2012 n’est pas assez généreuse et qu’il n’a pas la capacité de payer la dette fiscale. Le requérant admet qu’il a renoncé à son droit d’opposition et d’interjeter appel; cependant, il dit avoir signé l’entente afin que l’ARQ libère son compte bancaire de toutes saisies.
+[16] Il ressort de la preuve que le requérant a signé l’entente de règlement et la renonciation à son droit de s’opposer et d’interjeter appel à l’encontre de la cotisation du 1er août 2012 en toute connaissance de cause. Il est important de noter que la cotisation du 1er août 2012 favorise le requérant, car des crédits de taxe sur les intrants lui ont été accordés alors que la cotisation initiale du 1er février 2010 ne lui accorde aucun crédit de taxe sur les intrants.
+[17] Ainsi, en l’absence d’une entente entre l’ARQ et le requérant, l’ARQ n’aurait pas procédé au règlement et établi une nouvelle cotisation le 1er août 2012. Le requérant n’aurait pas été en mesure de réclamer des crédits de taxe sur les intrants.
+[18] Je suis d’avis que le requérant ne peut s’opposer à une cotisation qui résulte d’une entente de règlement et dans laquelle il a renoncé à son droit de faire opposition et d’interjeter appel. À ce sujet, le texte de la Loi est clair. Les paragraphes 301(1.6) et 306.1(2) traitent des conséquences d’une renonciation. Une personne ne peut pas présenter une opposition ou interjeter appel si elle a renoncé par écrit à son droit d’opposition ou d’appel. Les paragraphes 301(1.6) et 306.1(2) de la Loi énoncent :
+301(1.6) Restriction – Malgré le paragraphe (1.1), aucune opposition ne peut être faite par une personne relativement à une question pour laquelle elle a renoncé par écrit à son droit d’opposition.
+306.1(2) Restriction – Malgré les articles 302 et 306, aucun appel ne peut être interjeté par une personne devant la Cour canadienne de l’impôt pour faire annuler ou modifier une cotisation visant une question pour laquelle elle a renoncé par écrit à son droit d’opposition ou d’appel.
+[19] Par conséquent, la demande de prolongation de délai pour produire une opposition à l’encontre de la cotisation du 1er août 2012 est rejetée.
+[20] Cette conclusion dispose de l’ordonnance, cependant je vais quand même analyser les prétentions du requérant. Le requérant fait valoir qu’il n’a jamais reçu l’avis de cotisation daté du 1er août 2012.
+[21] En vertu du paragraphe 334(1) de la Loi, le requérant est réputé avoir reçu la correspondance de l’ARQ à la date de la mise à la poste, soit le 1er août 2012. Plus précisément, le paragraphe 334(1) énonce ce qui suit :
+[...] tout envoi en première classe ou l’équivalent est réputé reçu par le destinataire à la date de sa mise à la poste.
+[22] Dans la décision Canada c Schafer, [2000] FCJ No 1480, 2000 DTC 6542, la juge Sharlow, pour la Cour d’appel fédérale, interprète le paragraphe 334(1) de la Loi. Elle écrit au paragraphe 6 de ses motifs ce qui suit :
+[6] Les dispositions législatives en matière d’établissement de cotisations, d’oppositions et d’appels visent à fournir des règles claires permettant de déterminer si le ministre a rempli son obligation d’établir une cotisation, et à fournir des procédures par lesquelles les contribuables peuvent contester des cotisations susceptibles d’être erronées. Le législateur fédéral a choisi d’adopter une règle qui ne tient pas compte de la possibilité, même lointaine, que le contribuable puisse omettre de respecter le délai dans lequel il pouvait s’opposer ou former un appel en raison d’un manquement de la part du système postal. Je ne comprends pas pourquoi le législateur fédéral a choisi de priver les contribuables de l’occasion de contester une cotisation dont ils ignorent l’existence, mais il s’agit d’un choix que le législateur pouvait valablement faire.
+[23] De plus, madame Privé, analyste à l’ARQ a témoigné dans le présent dossier. Madame Privé voit au bon fonctionnement de l’expédition de la correspondance à l’ARQ. Elle a expliqué le système d’expédition de la correspondance pour l’ARQ. Elle a démontré en utilisant des rapports informatiques du système d’expédition que la cotisation en date du 1er août 2012, destinée au requérant a effectivement été expédiée à son adresse, le 1er août 2012.
+[24] Le requérant a admis que l’adresse de correspondance utilisée par l’ARQ, soit le 6869, avenue Papineau, porte 115 était la bonne.
+[25] Par conséquent, le premier argument du requérant ne tient pas. Le requérant est réputé, en vertu du paragraphe 334(1) de la Loi, avoir reçu l’avis de cotisation daté du 1er août 2012.
+[26] De plus, je suis d’avis que la demande du requérant ne rencontre pas les conditions énoncées au paragraphe 304(5) de la Loi. Le paragraphe 304(5) énonce :
+304(5) Acceptation de la demande – Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 303(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour faire opposition ou présenter la requête en application du paragraphe 274(6);
+b) la personne démontre ce qui suit :
+(i) dans le délai d’opposition par ailleurs imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’opposition est raisonnablement fondée.
+[27] Le requérant n’a pas démontré qu’il n’a pas pu agir ou mandater quelqu’un pour agir en son nom, dans le délai imparti, soit dans les 90 jours de la cotisation. De plus, il n’a pas établi qu’il avait véritablement l’intention de faire opposition à la cotisation. Au contraire, le requérant a déposé un avis d’opposition suite à la décision de cette Cour le 8 mars 2013, rejetant sa demande de prolongation de délai pour produire une opposition à l’encontre de la cotisation du 1er février 2010.
+[28] De plus, à la lumière du règlement intervenu le 25 juillet 2012 et de la renonciation par le requérant à son droit d’opposition, il ne serait pas juste et équitable de faire droit à la demande de prolongation.
+[29] L’opposition n’est pas raisonnablement fondée. En vertu du paragraphe 169(4) de la Loi, un inscrit ne peut réclamer des crédits de taxe sur les intrants que dans la mesure où des pièces justificatives sont présentées pour prouver les dépenses effectuées dans le cadre de ses activités commerciales. Le requérant a admis qu’il n’avait pas de pièces justificatives pour prouver les dépenses encourues pour les périodes en litige et par conséquent, la TPS qu’il avait payée sur ces dépenses.
+[30] Le requérant ne semble pas comprendre que la cotisation du 1er août 2012 le favorise. La majeure partie de sa présentation était à l’effet qu’il n’avait pas la capacité de payer et que sa dette fiscale devait être diminuée. Je n’ai pas la compétence, c’est-à-dire le pouvoir de diminuer la dette fiscale du requérant eu égard à sa capacité de payer.
+[31] Pour tous ces motifs, la demande pour une ordonnance de prolongation de délai pour présenter un avis d’opposition pour les périodes du 1er janvier 2005 au 31 décembre 2008 est rejetée, le tout sans frais.
+Signé à Ottawa, Canada, ce 25e jour de juillet 2014.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2014 CCI 231
+Nº DU DOSSIER DE LA COUR :
+2014-711(GST)APP
+INTITULÉ DE LA CAUSE :
+LIONEL ALCEUS c LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 2 juillet 2014
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Johanne D’Auray
+DATE DE L’ORDONNANCE :
+Le 25 juillet 2014
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui-même
+Avocate de l’intimée :
+Me Catherine Boisvert
+AVOCAT INSCRIT AU DOSSIER :
+Pour le requérant:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

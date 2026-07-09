@@ -1,0 +1,70 @@
+Title: Cardinal c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27595/index.do
+Corpus path: corpus/cases/tcc/2006/2007-cci-285-27595-cardinal-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-04-24
+
+# Cardinal c. La Reine
+
+- Citation: 2007 CCI 285
+- Decision date: 2006-04-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 90, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cardinal c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-24
+Référence neutre
+2007 CCI 285
+Numéro de dossier
+2001-1437(IT)G
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-1437(IT)G
+ENTRE :
+KEN CARDINAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+CERTIFICAT DE TAXATION DES DÉPENS
+Je CERTIFIE que j’ai taxé les dépens entre parties de l’intimée dans la présente instance en vertu du paragraphe 153(1) des Règles de la Cour canadienne de l’impôt (procédure générale), et J’ACCORDE LA SOMME DE 9 369,72 $.
+Signé à Ottawa, Canada, ce 11e jour de mai 2007.
+« Alan Ritchie »
+Officier taxateur
+Traduction certifiée conforme
+ce 19e jour de février 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2007CCI285
+Date : 20070511
+Dossier : 2001-1437(IT)G
+ENTRE :
+KEN CARDINAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE LA TAXATION DES DÉPENS
+Alan Ritchie, officier taxateur, C.C.I.
+[1] La présente affaire a été entendue par conférence téléphonique le jeudi 10 mai 2007. Elle découle d’un jugement rendu en date du 11 mai 2006 par l’honorable juge Bonner de la Cour, qui a rejeté l’appel et adjugé les dépens à l’intimée.
+[2] L’intimée était représentée par Me Eric Douglas. L’avocat de l’appelant ne s’est pas présenté, mais il avait préalablement indiqué à l’officier taxateur que son client ne lui avait donné aucune instruction, et que par conséquent, il ne prenait pas position en l’espèce.
+[3] Le mémoire de frais de l’intimée a été rédigé en tenant pour acquis qu’il avait été déposé auprès de la Cour dans le cadre d’une instance de catégorie C. Toutefois, lors de la taxation, l’avocat de l’intimée a remarqué que les montants en cause étaient tels que le mémoire aurait dû être déposé dans le cadre d’une instance de catégorie B. Il a modifié le mémoire de frais en conséquence.
+[4] Par conséquent, j’allouerai le mémoire de frais, dans sa version modifiée, au montant de 9 369,72 $.
+Signé à Ottawa, Canada, ce 11e jour de mai 2007.
+« Alan Ritchie »
+Officier taxateur
+Traduction certifiée conforme
+ce 19e jour de février 2009.
+Alya Kaddour‑Lord, traductrice

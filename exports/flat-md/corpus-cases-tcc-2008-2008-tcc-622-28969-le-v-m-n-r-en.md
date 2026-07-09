@@ -1,0 +1,132 @@
+---
+title: "Le v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28969/index.do"
+last_modified: "2008-08-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 622"
+citation2: ""
+neutral_citation: "2008 TCC 622"
+decision_date: "2008-08-13"
+language: "en"
+item_id: "28969"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6779
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:55:42.649000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b24f23452b10a0b67dea855efeaafca6c9ff79d086f259148b700c8412200069"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Le v. M.N.R.
+
+- Citation: 2008 TCC 622
+- Decision date: 2008-08-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6779, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Le v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-08-13
+Neutral citation
+2008 TCC 622
+File numbers
+2007-3364(EI)
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Employment Insurance Act
+Decision Content
+TAX COURT OF CANADA
+Citation: 2008 TCC 622
+2007-3364(EI)
+BETWEEN:
+CHON LE,
+Appellant;
+- and -
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+--------------
+Held before Mr. Justice Paris in Courtroom No. 305, 35 Front Street, Nanaimo, B.C., on Wednesday, August 13, 2008.
+--------------
+APPEARANCES:
+Mr. C. Le, Appearing on his own behalf;
+Mr. M. Canzer, For the Respondent.
+--------------
+THE REGISTRAR: F. Richard
+--------------
+Allwest Reporting Ltd.
+#302-814 Richards Street
+Vancouver, B.C.
+V6B 3A7
+Per: K. Bemister
+REASONS FOR JUDGMENT
+(Delivered Orally in Nanaimo, B.C. on August 13th, 2008)
+JUSTICE: These are the reasons for judgment in Chon Le versus The Queen, 2007-3364(EI).
+The issue in this appeal is whether the appellant was in insurable employment with Max Oysters Ltd. between May 9th and August 15th, 2003, July 8th and September 4th, 2004, and July 7th and September 5th, 2005.
+During the periods in issue the appellant had a clam-farming licence issued by the Department of Fisheries. He seeded clams each year and harvested clams that had reached the age of three to four years. He apparently had this licence for many years.
+He also took clams and oysters from outside the area covered by his clam-farming licence under a different licence issued by Fisheries. This was referred to as an “open catch”. The areas for collecting the clams and oysters were opened to licence holders only about six or seven days per year. The appellant sold all of the oysters and clams he collected under both licences to Max Oysters. At the end of each season he was issued a Record of Employment by Max Oysters that showed he was a self-employed fisher.
+The appellant claimed and was paid Employment Insurance benefits each winter following the periods in issue. The Minister of National Revenue later determined that he was not entitled to the benefits and that he would be required to repay them, because the Minister found that he was not a “fisher” as defined in Section 1 of the Employment Insurance Fishing Regulations.
+The assumptions made by the Minister in making the determination are set out in paragraph 6 of the Reply and shall form part of these reasons, these assumptions read as follow:
+a) the Appellant was involved in clam farming and harvesting;
+b) the Appellant was not a “Fisher” as defined in the Employment Insurance (Fishing) Regulations;
+c) the Appellant was in possession of his own clam farming license;
+d) the Appellant was required to submit a management plan to the Province of British Columbia each year indicating how much he would seed and harvest during the year;
+e) the Appellant sold his harvested clams to the Payor;
+f) the Appellant was responsible for finding his own clients;
+g) the Appellant was responsible for most tools and equipment necessary for the harvesting of his product;
+h) the Appellant was responsible for all expenses associated with running his operation;
+i) the Appellant was not required to report to the Payor;
+j) the Appellant did not take direction from the Payor;
+k) the Appellant was not required to sell his harvest to the Payor;
+l) the Appellant was remunerated for each load delivered to the Payor;
+m) the Appellant was free to hire his own helpers;
+n) the Appellant had the opportunity for profits from his decisions with respect to operations and could incur substantial loss due to a poor harvest season;
+o) the Appellant claimed business expenses on his tax returns for the Periods;
+p) the Appellant and the Payor considered their relationship to be one of independent contractor, i.e., a contract for services; and
+q) the Appellant was in business for himself.
+The appellant was self-represented at the hearing. He felt it was unfair for the Minister to require him to repay the benefits he had received because he was given the Records of Employment by Max and relied on those forms. He said he received assistance in filling out the application for benefits in the Employment Insurance office and felt that he should have been told in the first year that he was not eligible. The repayment of the benefits will cause him substantial hardship. He did not make any submissions on any substantive issue.
+The respondent took the position that the appellant was not in insurable employment under Section 5(1) of the Employment Insurance Act because he was not employed by Max Oysters under a contract of service. There was no evidence led to show that such a contract existed between the appellants and Max, and I agree with the respondent that the appellant operated as an independent contractor. The respondent also said that the appellant did not fall within Section 2 of the Employment Insurance Fishing Regulations, which includes self-employed fishers as insured persons under the Employment Insurance Act.
+The respondent said that the appellant did not meet the definition of "fisher" set out in Section 1 of the Regulations, the relevant parts of which read:
+"Fisher means a self-employed person engaged in fishing and includes a person engaged other than under a contract of service or for their own or another person's sport in making a catch."
+The respondent argues that the appellant was neither engaged in fishing nor in making a catch. Although the word "fishing" is not defined in the Regulations or Act, counsel said that it requires that the thing being fished has the chance to escape and cited a passage from the decision of the Supreme Court of Canada in Gerring v. The Queen, (1897), 27 S.C.R. 271, to this effect. Counsel said that the clams or oysters taken by the appellant could not escape and therefore the activity of collecting them did not amount to fishing.
+It was also argued that the appellant was not making a catch when taking the clams from his leased area because the definition of "catch" (also in section 1 of the Regulations) only applies to catching or taking of natural products of the sea or other body of water. Since the clams on the leased area were sown by the appellant, it was contended that the clams were not a natural product.
+I will deal firstly with the submission regarding the definition of the word "catch" in the Regulations. It reads:
+“catch” means any natural product or by-product of the sea, or of any other body of water, caught or taken by a crew and includes fresh fish, cured fish, Irish moss, kelp and whales, but does not include fish scales or seals, and
+(a) where only a portion of a catch is delivered to a buyer, means the portion delivered; and
+(b) where more than one catch or portion of a catch is delivered to a buyer at one time, means the catches or portions that are delivered.
+I agree with the respondent that the clams taken from the appellant's lease area would not be a catch because the clams had been seeded by the appellant and therefore would not be an actual product of the sea.
+The word "natural" connotes something that exists or occurs without human intervention and the definition found in the Concise Oxford Dictionary includes the following:
+"Existing in or by nature; not artificial; innate; inherent; self-sown; uncultivated."
+The French version of the definition of "catch" uses the phrase "produit naturel" which is identical to the English version. There is no apparent ambiguity in the relevant wording and the ordinary definition would exclude the clams farmed by the appellant.
+There does not appear to be any reason not to give the term "fishing" in the definition of “fisher” which I referred to earlier its ordinary meaning of taking fish from the water.
+The Oxford Concise English Dictionary, 10th Edition, defines the verb "to fish" as follows:
+"to catch fish with a net or hook and line."
+I can see no ambiguity in the wording of the definition of the term fisher in the Regulations and that definition would not cover the activities of the appellant in harvesting farmed clams.
+To his credit, respondent's counsel brought to my attention a decision of Deputy Judge Leger of this Court in Blanchard v. MNR,[1993] T.C.J. No. 187, in which the court concluded that harvesting cultivated oysters constituted making a catch. Unfortunately the court reached that conclusion without setting out its analysis of the definition of "catch" and so its persuasive value is extremely limited.
+The respondent has conceded that the open harvesting of clams and oysters by the appellant would be within the definition of "catch", and I agree. Those clams and oysters would be a natural product of the sea. There is some evidence from the appellant that the amount of those harvests was about $400 to $500 a day for five to six days a year. I am satisfied that he would have earned $2,500 each year from that activity.
+I would therefore allow the appeal in part on the basis that the appellant earned $2,500 a year from insurable employment with Max Oysters in each of the periods under appeal.
+I am aware that the appellant faces great difficulties with respect to the collection of the overpayment of benefits. Unfortunately I do not have the power to vary the amounts of the repayments. However, I would urge the Minister to consider granting the appellant whatever relief is possible in the circumstances.
+Thank you.

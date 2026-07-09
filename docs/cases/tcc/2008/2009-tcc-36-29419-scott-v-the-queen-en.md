@@ -1,0 +1,164 @@
+---
+title: "Scott v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29419/index.do"
+last_modified: "2008-11-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 36"
+citation2: ""
+neutral_citation: "2009 TCC 36"
+decision_date: "2008-11-28"
+language: "en"
+item_id: "29419"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6971
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:35:07.691000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f58e0ff0188d3bbef98634877d83df3fe7da0c7a4c8ab768d9018de6cb1367dc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Scott v. The Queen
+
+- Citation: 2009 TCC 36
+- Decision date: 2008-11-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6971, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scott v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-28
+Neutral citation
+2009 TCC 36
+File numbers
+2008-496(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2009 TCC 36
+Docket: 2008-496(IT)I
+BETWEEN:
+KENNETH SCOTT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+CERTIFICATION OF TRANSCRIPT OF
+REASONS FOR JUDGMENT
+Let the attached certified transcript of my Reasons for Judgment delivered orally from the Bench at Vancouver, British Columbia, on November 28, 2008, be filed.
+“Diane Campbell”
+Campbell J.
+Signed in Ottawa, Canada, this 2nd day of February 2009.
+IN THE TAX COURT
+2008-496(IT)I
+BETWEEN:
+KENNETH SCOTT,
+Appellant;
+- and -
+HER MAJESTY THE QUEEN,
+Respondent.
+--------------
+Held before Madam Justice Campbell in Courtroom No. 602, 6th Floor, 701 West Georgia Street, Vancouver, B.C., on Friday, November 28, 2008.
+--------------
+APPEARANCES:
+Mr. K. Scott, Appearing On His Own Behalf;
+Ms. C. Akey, Appearing for the Respondent.
+--------------
+THE REGISTRAR: J. Platt
+--------------
+Allwest Reporting Ltd.
+#1200 - 1125 Howe Street
+Vancouver, B.C.
+V6Z 2K8
+Per: K. Bemister
+REASONS FOR JUDGMENT
+(Delivered Orally in Vancouver, B.C. on November 28, 2008)
+JUSTICE: Let the record show that I am delivering oral reasons in the appeals of Kenneth Scott which I heard earlier this week.
+These appeals are in respect to the Appellant's 2005 and 2006 taxation years. There are a number of issues in each of these taxation years, one of which is the Appellant's claim for the Canada Child Tax Benefits.
+It was agreed by the Appellant at the outset of the hearing and during the submissions that his claim for the Child Tax Benefit for the 2005 base taxation year was res judicata. A notice of determination respecting this Child Tax Benefit had been issued on March 20, 1997. When the Appellant objected, the Minister confirmed the notice of determination for the 2005 base taxation year.
+On September 7, 2007 the Appellant appealed, among other things, Child Tax Benefits for the 2000 to 2005 base taxation years. This matter proceeded to this Court and on March 12, 2008 Justice Miller dismissed the Appellant's appeal for the Child Tax Benefits in respect to the 2001 through to the 2005 base taxation years. Since the issue of Child Tax Benefits for the 2005 base taxation year has previously been adjudicated upon by her decision that issue by consent is quashed as res judicata.
+With respect to the Child Tax Benefit for the following year, the 2006 base taxation year, the Appellant agreed to have this issue quashed because it was not properly before the Court as the Minister has not issued a notice of determination pursuant to subsections 152(3.2) and (3.3) respecting the base taxation year from which the Appellant may object or appeal. However, it is open to the Appellant to properly file for notice of determination in respect to potential future claims for this Child Tax Benefit.
+The issues remaining in these appeals include the following:
+1. The Appellant’s claim for additional child care expenses in excess of the amounts allowed in respect to both the 2005 and 2006 taxation years for specialized schooling expenses for his son Emory.
+2. The Appellant's claim for an eligible dependent deduction for his son Eliot in both the 2005 and 2006 taxation years.
+3. The Appellant's claim for disability tax credit for his son Emory in both the 2005 and 2006 taxation years.
+4. The Appellant's claim for a deduction in respect to legal expenses incurred.
+5. The Appellant's claim for medical expenses in respect to his son Emory's attendance at Kenneth Gordon School.
+6. CRA's mistake in calculating support arrears payable by the Appellant and the resulting hardship upon him. And finally,
+7. The imposition of penalties and interest.
+By way of background information the Appellant and Tonette Ross were married on August 4, 1991. They are the parents of three sons. They separated in 2001 and since that date they have been involved in a number of lengthy court proceedings over the years in an attempt to reach a satisfactory resolution to custody, access and support issues together with a division of and equalization of the assets. According to some of the Appellant's documents, there have been some 17 Orders issued by the Supreme Court of British Columbia. The first Order of the Supreme Court of British Columbia by Master Donaldson dated October 24, 2002 provided, among other things, that both parents would share joint guardianship of the children with the mother, Tonette Ross, having the primary day-to-day responsibility of the children.
+The Appellant was ordered to pay $1,174 monthly commencing November 1, 2002 together with 66 percent of childcare costs. A subsequent order dated November 28, 2003 varied the 2002 order slightly. On September 1, 2004 another order issued which provided that the parents were to share joint custody and guardianship of the children and that accumulated child support arrears would be satisfied from the father's share of the family assets.
+By Order dated January 11, 2005 the Appellant’s monthly child support amount was reduced and set at $850 together with 55 percent of child care expenses relating to daycare and schooling. On October 27, 2005 the Court reduced the father's monthly child support payment from $850 to $425 effective October 1, 2005.
+In 2005 one of the children was assessed by Doctor Joan Pinkus and diagnosed with a learning disability. In 2005 and 2006 this son attended a specialized school, the Kenneth Gordon School, at an approximate cost of $12,000 yearly. An application was brought by Tonette Ross respecting existing support and access arrangements. By Order dated July 21, 2006 Justice Gill specified several access provisions concerning the children and in dealing with the additional expense of having one of the children attending at Kenneth Gordon School, Justice Gill at paragraph 5, of that order stated in part:
+"For greater certainty it is declared that the Defendant has an obligation to contribute to the expense of Emory's attendance at Kenneth Gordon School for a maximum of two years and that the Defendant's obligation in this regard is subsumed within the current monthly child support payment."
+The Appellant's position is that he contributed to his son’s schooling pursuant to paragraph 5 of that Order that increased his support payment and referenced that it was to assist with schooling expenses. The Appellant argued that he should be entitled to claim a percentage of this school expense as either a medical expense or as a childcare expense.
+In 2005 the Appellant deducted childcare expenses of $3,475 and in 2006 childcare expenses of $4,402. The Minister allowed both of these amounts and they were in respect to his son Ethan. The Appellant also claimed 55 percent of the total paid by Tonette Ross in respect to Emory's specialized schooling expenses. According to the Appellant's evidence, these amounts would be approximately $2,100 in 2005 as his share and approximately $2,876 in 2006. According to the evidence Ms. Ross paid these expenses in full as documented by two receipts received by her from the school.
+In reading paragraph 5 it is clear that the Appellant was to be responsible for some amount of the schooling expenses but there is no evidence that assists me in extracting that amount from the wording. This is the first problem. The ideal wording for tax purposes would have been to state the exact amount that the Appellant was responsible for and to have it paid directly by the Appellant to the school.
+But I also have a second problem. In a shared parenting arrangement such as existed here, I believe each parent can deduct childcare expenses that each incurs for those periods when the child resides with them. It was clear from the evidence that the Appellant is actively involved in the parenting of his three sons. However, I do not have sufficient evidence before me to, firstly, extricate the amount or percentage that the order addresses but does not specifically identify, and secondly, the evidence to identify the specific times that this child resided with the Appellant during these school years.
+The amounts cannot be claimed as a medical expense either because of subsection (c) of 118.1 which references receipt by another taxpayer of this amount, the Appellant's former spouse here, and consequently this precludes him from claiming under that section as well.
+In respect to the next issue, the Appellant is precluded by the relevant legislation from claiming any of his children as an eligible dependant for the purpose of computing his non-refundable tax credits for both taxation years. Unfortunately for the Appellant it is the wording of subsection 118(5) which prevents him from claiming an amount under 118(1) because he is the individual required to pay a support amount within the meaning of 56.1(4). This created an inherently unfair result for this Appellant but it is simply the result dictated by a strict interpretation of this legislation.
+This same reasoning also applies to the Appellant's claim for a disability tax credit in respect to his son Emory in both taxation years. A disability tax credit may be claimed under subsection 118.3(2) of the Act. Since this provision refers back to 118(1), it brings us full circle again to 118(5), resulting in disqualifying the Appellant from claiming this credit because he is the individual that pays the child support.
+The Appellant's evidence respecting his claim for legal expenses is somewhat confusing. He is stating that some of his claim is in reference to his access, custody and support applications while the remainder involves legal expenses relating to eight commercial and five residential properties contained within a co-operative to which he and his wife owned a percentage interest.
+The matrimonial home, which Ms. Ross retained, was one of the units inside this co-operative housing building. The Appellant testified that as an owner of one of the units in this type of housing project you are also a percentage owner in all of the other units within the complex. The Appellant took legal action to resolve existing problems within this project and to ensure the units could be sold. The amount that was realized on the sale and the Appellant's portion of the proceeds was not insignificant. If I recall properly it was approximately $47,000 or $48,000.
+The Appellant claimed the legal expense amount of $6,153 in 2005. It is unclear but, as far as I can ascertain from the evidence and the documentation, the Appellant made no claim for legal expenses in respect to his family issues in 2006 although the Appellant at times attributed part of the legal expense amount to his ongoing family court applications, while at other points in his testimony he seems to attribute it wholly to the pursuit of the resolution of the sale of the units in this co-operative project.
+I am of the opinion that the entire amount had to have been paid in respect to the legal action regarding the co-op project because throughout the years after 2002 he testified that he was always self represented in the family matters. Although he did seek legal advice after the separation he stated he could not afford a solicitor to continue to represent him. In addition all of the orders and court applications, which I have before me, indicate that he was always self-represented in court throughout the years in these appeals, as well as for the proceeding years.
+Respondent counsel argued that the housing project was not an investment property and he is precluded from claiming legal expenses pursuant to subsection 60(0.1). This subsection precludes a claim for such expenses where they relate to a division or settlement of property arising out of the marriage. However, the 2004 order speaks of equalization of assets in a general way but there is no specific reference to the sale of these co-operative units. In addition there is no listing of reference of this percentage interest within the list of assets provided in that order.
+The Appellant's evidence led me to believe that without his initiative in respect to a resolution to some of the recurring problems in the project, it would have been difficult to sell them and certainly the percentage proceeds may not have been as great as they were. I believe this was an investment property in which they happened to have a unit, the matrimonial home. I am therefore allowing the Appellant’s claim for the legal expenses in 2005.
+In respect to the final two issues raised by the Appellant, although it is regrettable that CRA did not thoroughly read the Appellant's court documentation and incorrectly assumed that there existed child support arrears, the arrears payable by the Appellant were removed from their records in May of 2004. Consequently, I can do nothing more in this respect, although I understand from the Appellant that this error lasted over a period of time and caused him a great deal of personal financial hardship.
+Finally with respect to the Appellant's request that I reduce or cancel the penalties and interest that have accrued to his assessment, I have no authority within the statute to grant any type of relief in this regard.
+The appeal for the 2005 taxation year is therefore allowed without costs to enable the Appellant to claim the legal expenses of $6,153. The appeal for the 2006 taxation year is dismissed without costs.
+I hereby certify that the FOREGOING is a true and accurate transcript of the proceedings herein to the best of my skill and ability.
+__________________________________
+K. Bemister, COURT REPORTER
+CITATION:
+2009 TCC 36
+COURT FILE NO.:
+2008-496(IT)I
+STYLE OF CAUSE:
+Kenneth Scott and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+November 25, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF ORAL JUDGMENT:
+November 28, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christa Akey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

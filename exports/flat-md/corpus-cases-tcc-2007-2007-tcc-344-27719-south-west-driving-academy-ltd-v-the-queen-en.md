@@ -1,0 +1,162 @@
+---
+title: "South West Driving Academy Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27719/index.do"
+last_modified: "2007-05-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 344"
+citation2: ""
+neutral_citation: "2007 TCC 344"
+decision_date: "2007-05-08"
+language: "en"
+item_id: "27719"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 471
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:08:29.255000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bc232836688639651f3b99ac227a3bf2d02fc33ed91fda4fd5ca267fdf7e2e6f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# South West Driving Academy Ltd. v. The Queen
+
+- Citation: 2007 TCC 344
+- Decision date: 2007-05-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 471, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+South West Driving Academy Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-08
+Neutral citation
+2007 TCC 344
+File numbers
+2006-2305(GST)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-2305(GST)I
+BETWEEN:
+SOUTH WEST DRIVING ACADEMY LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 8, 2007 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Kamal Singh
+Counsel for the Respondent:
+Sara Fairbridge
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated March 20, 2006 and bears number 11GU0001875 for the period from March 1, 2002 to November 30, 2005 is dismissed without costs.
+Signed at Calgary, Alberta, this 13th day of June 2007.
+"L.M. Little"
+Little J.
+Citation: 2007TCC344
+Date: 20070613
+Docket: 2006-2305(GST)I
+BETWEEN:
+SOUTH WEST DRIVING ACADEMY LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant is a limited company incorporated under the laws of the Province of British Columbia.
+[2] The Appellant operated a private vocational school that provided commercial truck driving training during the period from March 1, 2002 to November 30, 2005. (the “Period”)
+[3] The Appellant was registered as a vocational school with Private Post Secondary Educational Commission of British Columbia (the “PPSEC”).
+[4] During the Period, the Appellant issued certificates that made reference to PPSEC.
+[5] The Appellant was registered under Part IX of the Excise Tax Act for the purpose of Goods and Services Tax (“GST”).
+[6] The Appellant filed its Goods and Services Tax Returns for the Period.
+[7] During the Period the Appellant did not collect any GST from its students who attended its truck driving courses.
+[8] During the Period, the Appellant was not involved in any services of transporting goods and passengers.
+[9] During the Period the Appellant did not make an election to opt out of exempt supplies pursuant to the provisions of the Excise Tax Act (the “Act”).
+[10] During the Period the Appellant claimed Input Tax Credits (“ITCs”) in the amount of $11,749.93.
+[11] The Minister of National Revenue (the "Minister") denied the ITCs claimed by the Appellant.
+B. ISSUE
+[12] The issue is whether the Minister correctly disallowed ITCs of $11,749.93 as claimed by the Appellant for the Period.
+C. ANALYSIS and DECISION
+[13] The entitlement to ITCs is provided for in subsection 169(1) of the Act. Subsection 169(1) reads as follows:
+Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A×B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person. (Underline mine)
+[14] It will be noted that the subsection provides for a formula and the formula is A × B (see details contained in subsection 169(1)).
+[15] It is important to note the reference to “commercial activities” in paragraph (c).
+[16] The phrase “commercial activity” is defined in subsection 123(1) of the Act:
+“commercial activity” of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+[17] The definition refers to the making of an exempt supply. The phrase “exempt supply” is referred to in subsection 123(1) as follows:
+“exempt supply” means a supply included in Schedule V;
+[18] Counsel for the Respondent argued that the Appellant was carrying on a business making exempt supplies and there is no commercial activity when only exempt supplies are being made.
+[19] Counsel for the Respondent said “The Respondent submits that these were exempt supplies – the training of drivers to be commercial truck drivers. This means that what the Appellant was providing was not a commercial activity and therefore the Appellant is not entitled to claim any input by credits”.
+[20] Counsel for the Respondent also said: “A taxable supply is one that is made in the course of a person’s commercial activity but does not include an exempt supply. By not collecting and remitting GST on the lessons, the Appellant is basically recognizing that they were an exempt supply”.
+[21] I agree with the argument of Counsel for the Respondent and I conclude that the Minister was correct in denying the Appellant to claim ITCs of $11,749.93 for the Period.
+[22] The appeal is dismissed without costs.
+Signed at Calgary, Alberta, this 13th day June 2007.
+"L.M. Little"
+Little J.
+CITATION:
+2007TCC344
+COURT FILE NO.:
+2006-2305(GST)I
+STYLE OF CAUSE:
+South West Driving Academy Ltd. and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 8, 2007
+REASONS FOR JUDGMENT BY:
+DATE OF JUDGMENT:
+The Honourable Justice L.M. Little
+June 13, 2007
+APPEARANCES:
+Agent for the Appellant:
+Kamal Singh
+Counsel for the Respondent:
+Sara Fairbridge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

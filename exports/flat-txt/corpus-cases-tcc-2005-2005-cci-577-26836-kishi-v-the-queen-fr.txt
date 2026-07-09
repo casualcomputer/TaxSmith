@@ -1,0 +1,96 @@
+Title: Kishi v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26836/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-577-26836-kishi-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-09-06
+
+# Kishi v. The Queen
+
+- Citation: 2005 CCI 577
+- Decision date: 2005-09-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 707, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kishi v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-06
+Référence neutre
+2005 CCI 577
+Numéro de dossier
+2005-744(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI577
+Date : 20050906
+Dossier : 2005-744(IT)I
+ENTRE :
+ROGER T. KISHI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Pour l’appelant : L’appelant lui-même
+Avocat de l’intimée : John Gibb-Carsley
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Prononcés oralement à l’audience, à
+Nanaimo (Colombie‑Britannique), le 5 août 2005)
+Le juge McArthur
+[1] Lorsqu’il a établi une cotisation à l’égard de l’appelant pour l’année d’imposition 2003, le ministre du Revenu national a recouru à des formules complexes afférentes à de nombreuses dispositions de la Loi de l’impôt sur le revenu et du Règlement de l’impôt sur le revenu pour ramener le montant réclamé par l’appelant à titre de cotisations à un régime enregistré d’épargne‑retraite de 4 585 $ à 251 $. L’appelant invoque, à l’appui de son opposition et de son appel, non pas tant l’exactitude des calculs du ministre ou son interprétation de la Loi que le fait que l’Agence du revenu du Canada ne l’a pas informé des conséquences fiscales, bien qu’elle ait su qu’il avait effectué le rachat de services passés. L’appelant soutient également qu’il n’a pris connaissance de ses droits de cotisation à un REÉR que lorsqu’une cotisation a été établie à son égard pour 2003.
+[2] L’appelant travaillait pour la Providence Health Care Society (PHCS) et, en 2003, il était, je crois, en détachement au sein d’un syndicat lié. Au cours de cette même année, il a versé des cotisations de 2 692 $ à un régime de pension agréé établi pour les employés de PHCS, lequel montant a figuré sur les feuillets d’information T4 que PHCS lui a remis.
+[3] La déduction inutilisée au titre du REÉR de l’appelant à la fin de 2002 s’élevait à 395 $, et son revenu gagné aux fins des REÉR était de 52 886 $. En outre, son facteur d’équivalence pour 2002 était de 5 329 $. Pour assurer sa retraite, l’appelant a effectué en septembre 2003 le rachat de services passés d’un régime de pension agréé, dont il a partagé le coût total de 5 601,41 $ avec son employeur. Pour assumer sa part du coût du rachat, l’appelant a transféré des fonds provenant de son REÉR non échu.
+[4] L’appelant n’a reçu aucun avantage imposable en 2003, lorsqu’il a directement transféré des fonds de son REÉR pour racheter les services passés. Les services passés du RPA que l’appelant a rachetés couvraient la période du 25 mai 1999 au 21 décembre 2001. En raison de ce rachat d’un RPA, le facteur d’équivalence de l’appelant pour services passés a été ramené à 4 334 $ pour 2003. Le maximum déductible par l’appelant au titre des REÉR pour cette même année était de 251 $. L’appelant a versé des cotisations à un REÉR totalisant 5 270 $ pour la période du 4 mars 2003 au 1er mars 2004, alors qu’il avait le droit de cotiser au maximum 251 $ pour l’année d’imposition en question.
+[5] L’appelant invoque principalement la question de l’équité, mais il a soulevé également la question de la déclaration faite par un représentant du ministre au cours d’une conversation téléphonique survenue le 6 mai 2004. L’appelant a déposé son propre appel d’une manière simple et honnête. Il a exposé la chronologie des événements dans la pièce A-1.
+[6] En avril 2003, il a reçu de l’ARC un avis de cotisation 2002 indiquant que le maximum déductible au titre d’un REÉR pour 2003 était de 4 585 $, montant qu’il a déduit la même année. Le 22 avril 2004, le ministre a établi une cotisation à l’égard de l’appelant pour l’année 2003 et a ramené sa cotisation à un REÉR à 251 $. Le ministre a déterminé, d’une part, que l’appelant n’avait pas le droit de déduire le montant qu’il avait directement transféré de son compte de REÉR non échu pour racheter les services passés de son RPA et, d’autre part, qu’il n’avait pas le droit de déduire le facteur d’équivalence pour services passés net de 4 334 $, puisqu’il représentait une hausse de ses prestations de retraite en raison du rachat des services passés.
+[7] L’appelant ne conteste pas ces conclusions. Il crie cependant à l’injustice, dans un premier temps parce qu’il a été informé en avril 2003 qu’il avait le droit de cotiser 4 585 $ à un REÉR pour 2003, et dans un deuxième temps parce qu’il n’a pas été informé des conséquences fiscales du rachat de services passés d’un RPA. Plutôt que de recevoir un remboursement de 500 $ en avril 2004, comme il le prévoyait, l’appelant a été informé qu’il devait 1 300 $ au titre d’un impôt supplémentaire.
+[8] L’appelant me paraît se situer au‑dessus de la moyenne des contribuables. Il semble comprendre les dispositions législatives fort complexes qui ont mené à la conclusion défavorable du ministre. Il reconnaît qu’en droit, la décision du ministre est correcte, mais il me demande de rendre une décision juste, fondée sur l’équité, et donc d’infirmer la décision du ministre et de renoncer à l’intérêt et aux pénalités.
+[9] Rien dans les actes de procédure et la documentation versés au dossier n’indique que des pénalités ont été imposées. Je ne me prononcerai pas sur cette question, et je n’ai pas la compétence requise pour renoncer aux intérêts, à moins que ceux‑ci aient été mal calculés, ce que la preuve, encore une fois, ne permet pas d’établir. Ainsi qu’il a été expliqué à l’appelant à la fin de l’audience, l’on ne peut dire des juges de la Cour qu’ils ne peuvent être justes. En fait, je suis certain que les juges de la Cour de l’impôt font preuve d’un sens extraordinaire de la justice dans les limites de leur compétence lorsqu’ils rendent des décisions. Toutefois, ils ne peuvent changer la loi.
+[10] Quoi qu’il en soit, après avoir entendu les observations habiles de l’avocat de l’intimée, je ne suis pas convaincu que l’appelant a été traité injustement par le système. Les propos suivants du juge en chef Richard, de la Cour d’appel fédérale, dans l’affaire Chaya c. Canada, 2004 ACF 1630, s’appliquent également à la présente situation :
+Le demandeur soutient que la loi est inéquitable et il demande à la Cour de faire une exception pour lui. Toutefois, la Cour n'a pas le pouvoir de faire droit à sa demande. La Cour doit appliquer la loi telle qu'elle est. Elle ne peut pas déroger aux dispositions législatives pour des raisons liées à l'équité. S'il estime que la loi est inéquitable, le demandeur doit avoir recours au Parlement et non pas à la Cour.
+[11] L’appelant soutient, à titre subsidiaire, qu’un employé de l’ARC l’a informé, au cours d’un appel survenu le 6 mai 2004, qu’un rajustement serait effectué pour corriger sa déclaration de revenus. L’appelant n’a pas donné activement suite à cette déclaration et, ainsi que l’avocat de l’intimée l’a mentionné, la préclusion ne peut déroger au droit (juge Bowman, dans Moulten c. La Reine, 2002 ACI 80). À l’instar des juges de la Cour de l’impôt, les employés de l’ARC doivent appliquer la Loi de l’impôt sur le revenu telle qu’elle existe.
+[12] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 6e jour de septembre 2005.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 28e jour d’octobre 2005
+Fabienne Painchaud, traductrice
+RÉFÉRENCE :
+2005CCI577
+No DU DOSSIER DE LA COUR :
+2005-744(IT)I
+INTITULÉ DE LA CAUSE :
+Roger T. Kishi et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Nanaimo (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+4 août 2005
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge C.H. McArthur
+DATE DU JUGEMENT :
+11 août 2005
+COMPARUTIONS :
+Pour l’appelant
+L’appelant lui-même
+Avocat de l’intimée :
+John Gibb-Carsley
+AVOCATS INSCRITS AU DOSSIER :
+Nom :
+N/A
+Cabinet :
+N/A
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

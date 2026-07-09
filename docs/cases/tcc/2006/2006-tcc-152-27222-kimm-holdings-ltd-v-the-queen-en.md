@@ -1,0 +1,254 @@
+---
+title: "Kimm Holdings Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27222/index.do"
+last_modified: "2006-03-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 152"
+citation2: ""
+neutral_citation: "2006 TCC 152"
+decision_date: "2006-03-10"
+language: "en"
+item_id: "27222"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 828
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:16:51.588000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d9225ca74fa5b01bebc577216321dcf195d126745726345d532825a632dbfcd9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kimm Holdings Ltd. v. The Queen
+
+- Citation: 2006 TCC 152
+- Decision date: 2006-03-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 828, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kimm Holdings Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-10
+Neutral citation
+2006 TCC 152
+File numbers
+2004-4062(GST)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-4062(GST)I
+BETWEEN:
+KIMM HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 23 and March 1, 2006, at Edmonton, Alberta,
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Gordon D. Beck
+Counsel for the Respondent:
+George F. Body
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Excise Tax Act, notice of which is dated September 12, 2003, and bears number 10BT0600684 is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the fair market value of the multi-unit residential complex at 609 King Street, Spruce Grove, Alberta, at the time of substantial completion in January 2001 was $6,550,000, and that the Appellant is liable for section 285 penalties calculated accordingly.
+Signed at Toronto, Ontario, this 10th day of March, 2006.
+"CampbellJ. Miller"
+Miller J.
+Citation: 2006TCC152
+Date: 20060310
+Docket: 2004-4062(GST)I
+BETWEEN:
+KIMM HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Kimm Holdings Ltd. (the "Appellant") constructed a multiple-unit residential Complex in Spruce Grove, Alberta (the "Complex") in 2000. It did not self-assess goods and services tax on a timely basis as required by section 191 of the Excise Tax Act (the "Act"). The Minister of National Revenue assessed GST based on its appraiser's estimate of the fair market value of $7,350,000 as of October 2000, the date which the Minister determined was the date of substantial completion of the Complex. The Minister also assessed penalties pursuant to section 285 of the Act. The Appellant disputes the Minister's appraised value and relies on its appraiser's value of $7,050,000 as of October 1999, adjusting for the fact that the Complex was not fully complete at the valuation date.
+[2] The Appellant also contends that it is not liable for penalties as the Respondent has not proven that the Appellant knowingly or under circumstances amounting to gross negligence made or participated in, assented to or acquiesced in the making of false statements or omissions in the return in respect of the unreported tax on the deemed self-supply of the Complex.
+[3] I find that the time of substantial completion for self-assessment was January 2001 and that the fair market value of the Complex at such time was $6,550,000. Further, I find that the Appellant is liable for penalties pursuant to section 285 based on GST arising on that fair market value.
+Facts in connection with the fair market value of the Complex
+[4] The following is a comparison of the conclusions of the Minister's appraiser, Mr. Sliwkawich, prepared in 2003 for a valuation date of October 2000, and the Appellant's appraiser, Mr. Dezman, prepared in 1999 for purposes of obtaining financing.
+Estimate of Value By:
+Respondent
+Appellant
+· Cost Approach
+$8,350,000
+$8,315,000
+· Income Approach
+$6,950,000
+$7,050,000
+· Direct Comparison Approach
+$7,280,000
+$6,970,000
+Final Estimate of Fair Market Value
+$7,350,000
+$7,050,000
+Valuation of Land
+$675,000
+$645,000
+[5] Mr. Sliwkawich concluded as follows:
+The Cost Approach is an estimate of the cost required to produce a property with the same utility as the subject, in the same location and in the same condition, as at the effective date of appraisal. The Cost Approach does not consider the income generating capacity of the property and generally, delineates the upper end of the value range. This is the case in this instance.
+The Income Approach is well founded and is based on recent market evidence as it relates to similar investment properties. It measures reaction to the primary element of concern regarding an investment property, i.e. the income stream. However, the income and expense data is not historically proven in this case, so this approach is given some weight, but not the primary reliance that would be warranted if better income and expense data were available.
+The Direct Comparison Approach focuses on the physical composition of the asset as opposed to the financial composition, with the value conclusion clearly demonstrated by the market data in this case. It is not generally as popular among market participants as the Income Approach; however the physical characteristics of a property help determine its income potential so it represents a valid and credible indication of value, reflecting the activities of investors in the market place.
+Although most weight is given to the Direct Comparison Approach, some consideration of the other approaches is warranted. Giving them equal weight, some upward pressure is indicated. Therefore the final estimate of value for the subject property located at 609 King Street, Spruce Grove, Alberta as of October 1, 2000 is:
+SEVEN MILLION THREE HUNDRED FIFTY THOUSAND DOLLARS
+($7,350,000.00)
+[6] Mr. Dezman concluded as follows:
+· The Cost Approach may indicate the upper end of the value range and as indicated in the discussion regarding views of this technique, this is not an unusual circumstance in the current market. The Cost Approach is considered a relevant reference point for construction of an investment property. Therefore, the Cost Approach has been developed on a realistic basis and should be compared to the Income Approach.
+· The proposed development of the Amberwynd Apartments is being designed and constructed, specifically for use as multi-family development. The property is being operated as an investment vehicle and therefore the Income Approach is a key valuation technique with regard to the subject.
+· Both Direct Capitalization and Gross Income Multiplier Analysis have been applied. Both approaches have resulted in a close alignment between the valuation results produced. Accordingly, emphasis will be placed on the Income Analysis in the final selection of market value.
+· The Direct Comparison Approach has been conducted by referencing the averaged Net Operating Income achieved by the project as contrasted to the per suite sale price. Many of the same characteristics governing the Income Analysis are also a component of the Direct Comparison Approach. While yielding a somewhat lower value estimate, the approach does confirm the results of the Income Analysis. The Direct Comparison Approach is considered a less refined technique considering the lack of comparable sales of new apartment buildings within the greater Edmonton market.
+Therefore, placing emphasis on the Income Analysis, Direct Capitalization is considered the preferred technique by investors and appraisers in analyzing market values. To this end, as at the Effective Date of the appraisal, the proposed Amberwynd Apartments is estimated to reflect a market value of:
+$7,050,000.00
+(SEVEN MILLION & FIFTY THOUSAND DOLLARS)
+[7] Mr. Sliwkawich acknowledged that in his direct comparison approach the comparable which he relied upon most heavily as being most similar was in Edmonton, within walking distance of a LRT station, while the Complex was several kilometres outside Edmonton, with no ready access to rapid transit.
+Facts in connection with penalties and substantial completion
+[8] Mr. Farrell, the President of the Appellant, testified that the Appellant acquired the site for the Complex in the early 1970s, but for zoning and other reasons did not decide to proceed with the Complex until 1999. The Appellant was able to arrange financing (relying on Mr. Dezman's appraisal) by early in 2000, when construction started. There was evidence by way of a Notice from the City of Spruce Grove indicating that a foundation inspection had taken place in January of 2000. The Appellant contracted with Alpha Prime Developments Ltd. ("Alpha Prime") to serve as the general contractor. In an invoice dated March 31, 2001 Alpha Prime listed the following:
+To invoice for progress payments received:
+Re: 104-unit Amberwynd Apartments
+January 2000
+$50,000.00
+February 2000
+605,000.00
+March 2000
+280,000.00
+May 2000
+1,445,000.00
+June 2000
+670,000.00
+August 2000
+390,000.00
+September 2000
+480,000.00
+October 2000
+310,000.00
+November 2000
+125,000.00
+January 2001
+471,000.00
+February 2001
+412,078.50
+March 2001
+69,121.50
+Total Paid
+$5,307,200.00
+[9] Mr. Farrell indicated that although he had extensive experience in real estate development, the Complex was his first foray into constructing a multiple-unit residential Complex. He testified that during construction, he discovered that no one knew how to do the GST, as he put it.
+[10] In November 1999 Ms. Key, a chartered accountant with the firm of Meyers, Norris, Penny took over from a Mr. Perry, who had served as the Appellant's accounting advisor until his death in 1999. Mr. Farrell clearly had more confidence in Mr. Perry than Ms. Key. Ms. Key met with Mr. Farrell in January 2000. The matter of the Complex came up at that meeting, as did the issue of GST specifically. Ms. Key called a tax partner of hers, Mr. Llewellyn, into the meeting. Mr. Llewellyn testified that, although not a GST expert, he did advise Mr. Farrell that there had to be a self-assessment of the Complex upon substantial completion based on fair market value at that time. His recollection was that at that time the building was still under construction.
+[11] Upon completion of the Appellant's financial statements for the year 2000, Ms. Key met again with Mr. Farrell. This was in May 2001. Ms. Key had her GST expert, Mr. Piekema, join this meeting, though Mr. Farrell did not recall Mr. Piekema's presence. Again, the question of self-assessing for GST purposes came up. Mr. Farrell was advised that the Appellant would have to remit tax based on the fair market value upon substantial completion. Ms. Key recalled getting the impression from Mr. Farrell that the Complex had not been substantially completed by the end of 2000. She stated, however, that Mr. Piekema's opinion at that time was that the Complex was substantially complete.
+[12] In a follow-up letter of June 14th, from Meyers, Norris, Penny to the Appellant, Ms. Key wrote:
+Goods and Services Tax
+As discussed in our earlier meeting, you are required to self-assess GST collected on the fair market value of the apartment building. This GST should be reported on the next GST return that you file. If you require assistance in this area, please contact Peter Piekema of our office.
+[13] Mr. Farrell testified that he never followed up with Mr. Piekema. Part of his explanation as to why he did not seek further advice from either Mr. Llewellyn after the meeting in 2000 or Mr. Piekema, was because he had communicated with a Mr. Litwinowich, a representative of Canada Revenue Agency ("CRA") who was working on a file involving the contractor, Alpha Prime. Mr. Farrell stated that he had two or three phone conversations with Mr. Litwinowich in early 2001, and that he had asked this individual to contact him when the building was completed to help the Appellant through the GST process. Mr. Litwinowich did not testify. I note that Mr. Farrell's communications with Mr. Litwinowich were well after that first meeting with Ms. Key and with Mr. Llewellyn in January 2000, though Mr. Farrell first testified he had Mr. Litwinowich in mind when meeting with Ms. Key and Mr. Llewellyn.
+[14] The Appellant rented approximately 28 units of the Complex in 2000; the first lease being in October of 2000. When Mr. Price, the CRA auditor, who had conduct of the Appellant's file starting in February 2003, asked Mr. Farrell when the premises were first leased, Mr. Farrell advised him it was in the spring of 2001. Mr. Farrell explained this error as unfortunate, but that he felt threatened by Mr. Price and gave answers that would force Mr. Price to determine if they were right or wrong.
+[15] The units were fully leased up by September or October 2001.
+[16] Mr. Farrell's view was that the Complex was not substantially completed until the spring of 2001 as, after the first tenants moved in (October 2000), there still remained work to do: carpeting the halls, painting of lower levels, stairwells, security monitors, completion of entrance areas. Mr. Price testified that the Respondent determined the Complex was substantially complete in October of 2000 based on third party information from the contractor, Alpha Prime, the City of Spruce Grove and Meyers, Norris, Penny. Mr. Price concluded that in late 2000, the Appellant was simply putting finishing touches on the Complex. He felt this was confirmed by his team leader who drove by the Complex every day. No one from the general contractor, Alpha Prime, testified.
+[17] Mr. Farrell made an attempt to sell the Complex prior to completion. He listed the property for sale for $8,000,000 in a three-month listing dated March 16, 2000. There was no interest and the listing lapsed.
+[18] For the quarter ended March 31, 2001, the Appellant filed a GST return claiming input tax credits of $372,000. At no time in 2000, 2001 or 2002 did the Appellant file a return self-assessing in accordance with section 191 of the Excise Tax Act. By assessment dated September 12, 2003, the Minster assessed the Appellant net tax of $155,310.91, interest of $53,736.71 pursuant to section 280 of the Act, penalty of $96,452.68 pursuant to section 280 of the Act, and penalty of $225,077.68[1] pursuant to section 285 of the Act, calculated as follows:
+Net tax reported on returns
+($387,670.18)
+Tax collected/collectible on supply of Complex (based on value of $7,350,000)
+$514,500.00
+Other adjustments to tax collected/collectible
+$1,085.00
+Disallowed input tax credits
+$27,396.09
+Net tax assessed
+$155,310.91
+[19] Mr. Price testified on behalf of CRA. While there was considerable testimony with respect to his audit and his contact with Mr. Farrell, the relevant evidence can be reduced to this. Mr. Farrell advised Mr. Price in 2003 that he was not aware of the self-assessment requirement, that units were first rented in 2001 and that construction started after February 27, 2000. Mr. Price later determined the first units were rented in 2000 and that construction started long before March 2000.
+[20] Issues
+(i) When was the Complex substantially complete for the purposes of determining the appropriate time for the requisite self-assessment pursuant to section 191 of the Act?
+(ii) What was the fair market value of the Complex at the time of substantial completion for purposes of the section 191 self-assessment?
+(iii) Is the Appellant liable for penalties pursuant to section 285 of the Act?
+(i) When was the Complex substantially complete for the purposes of determining the appropriate time for the requisite self-assessment pursuant to section 191 of the Act?
+[21] The Appellant argued that, based on Mr. Farrell's evidence, substantial completion was most likely late spring, early summer of 2001. Notwithstanding an assessment based on substantial completion in October 2000, the Respondent conceded that the evidence did not support such a position, but supported a date of substantial completion in early 2001. The Respondent relied on the invoice figures from Alpha Prime in reaching this conclusion. I agree with the Respondent.
+[22] Mr. Farrell testified as to the work remaining in October 2000. My impression was that the work was extensive, notwithstanding some tenants had already moved in. Yet, the documentary evidence, primarily the invoice history from Alpha Prime of progress payments, indicates that work costing $4,826,000 was completed by the end of January 2001, with invoices of $480,200 thereafter. This is compelling. Certainly, more so than Mr. Price's reliance on his team leader's daily drive-bys on the way to work as some indication of substantial completion. Mr. Farrell was not specific in the timing of the remaining work, but certainly his testimony is consistent with considerable work being carried out in November and December of 2000 and in January 2001. What was left to do after January? According to the information from Alpha Prime, approximately $500,000 worth of work. This represents roughly 10% of the construction costs. I conclude the Complex was substantially completed in January 2001.
+(ii) What was the fair market value of the Complex at the time of substantial completion for purposes of the section 191 self-assessment?
+[23] Often, when dealing with valuation matters, the experts provide quite disparate approaches and conclusion, leaving it for the Judge to somehow discriminate and choose the best from the Reports to arrive at a result somewhere between the two expert values. What is remarkable about this case is the marked similarity, not just in approach, but also in conclusion: the Reports are virtual clones of one another, notwithstanding one was prepared in 1999 for an October 1999 value, and the other was prepared in 2003 for an October 2000 value. This is quite a testament to the skills of these two qualified real estate appraisers, suggesting perhaps the art of real estate appraisal should perhaps be considered a science.
+[24] Both Reports emphasized the income-producing nature of the property. Mr. Dezman concluded that the income approach alone is the appropriate value. Mr. Sliwkawich concluded that the direct comparison approach is the appropriate starting point but with an adjustment, reflecting the income and the cost approach. I find that for this type of property, the income approach is indeed the most appropriate, and that if any adjustment were in order it should be based on the direct comparison approach and not the cost approach. Adjusting for cost strikes me as mixing apples and the apple tree: you value on one basis or the other - capital or income. I do not accept an upward adjustment, as that made by Mr. Sliwkawich. Some upward adjustment of Mr. Sliwkawich's income approach figure of $6,950,000 may be in order based on a direct comparison approach, but I determine that this would not take the value beyond the $7,050,000 income value determined by Mr. Dezman, especially as the comparable relied upon most heavily by Mr. Sliwkawich is in a distinctly more advantageous location than the Complex. For these reasons, I find that $7,050,000 is the appropriate fair market value for the Complex, had it been fully completed.
+[25] As indicated, this value is based on a fully completed multiple-unit residential Complex, not a substantially completed Complex. As at the date of substantial completion, what was left to do? A buyer, prepared to pay $7,050,000 for a fully complete multiple-unit residential Complex is going to pay something less for a Complex which requires further work. Neither appraisal addressed this issue, but assumed full completion. The Appellant and the Respondent had different approaches to this issue. The Respondent argued that the correct approach is to ascertain, as at the date of substantial completion, how much work remains and deduct the cost of such work from the fair market value of a completed project. Thus, if substantial completion is January 2001, the evidence suggests there remained work to complete of approximately $500,000 and therefore the fair market value should be reduced accordingly. The Appellant's position is that, pursuant to section 191 of the Act, the self-assessment is triggered on the event of substantial completion, and that substantial completion has been accepted by CRA and the Courts to mean 90%; therefore, notwithstanding what work actually might be left to complete the project, it is in order to deduct 10% off the appraised building value in coming to an appropriate fair market value of a substantially completed Complex. Without getting bogged down in the math, this would yield a downward adjustment of approximately $635,000.
+[26] The object of the self-assessment is to obtain as true a fair market value as possible. To rely on an average 90% figure, when indeed substantial completion for one project may be 88% and for another may be 96%, flies in the face of the goal of achieving as accurate a value as possible. I find a more realistic approach is, where possible, to adjust for the cost of what remains to be done. An arm's length buyer of a property valued upon completion of $7,050,000, will deduct from that price the cost to complete, not an arbitrary 10%. All to say, I prefer the Respondent's approach. I conclude therefore that the fair market value for the purposes of section 191 of the Act was $6,550,000 ($7,050,000 minus $500,000).
+(iii) Is the Appellant liable for penalties pursuant to section 285 of the Act?
+[27] Section 285 of the Act reads as follows:
+285 Every person who knowingly, or under circumstances amounting to gross negligence, makes or participates in, assents to or acquiesces in the making of a false statement or omission in a return, application, form, certificate, statement, invoice or answer (each of which is in this section referred to as a "return") made in respect of a reporting period or transaction is liable to a penalty of the greater of $250 and 25% of the total of
+(a) if the false statement or omission is relevant to the determination of the net tax of the person for a reporting period, the amount determined by the formula
+A - B
+where
+A is the net tax of the person for the period, and
+B is the amount that would be the net tax of the person for the period if the net tax were determined on the basis of the information provided in the return,
+(b) if the false statement or omission is relevant to the determination of an amount of tax payable by the person, the amount, if any, by which
+(i) that tax payable
+exceeds
+(ii) the amount that would be the tax payable by the person if the tax were determined on the basis of the information provided in the return, and
+(c) if the false statement or omission is relevant to the determination of a rebate under this Part, the amount, if any, by which
+(i) the amount that would be the rebate payable to the person if the rebate were determined on the basis of the information provided in the return
+exceeds
+(ii) the amount of the rebate payable to the person.
+[28] Firstly, the parties acknowledge that the pleadings were incorrect in overstating the penalties: rather than $225,077, the penalties should have been $128,625 based on a fair market value of $7,350,000.
+[29] The parties appeared to concentrate on the gross negligence aspect of this provision relying on the Federal Court, Trial Division decision of Venne v. The Queen,[2] to provide some guidance in distinguishing gross negligence from mere negligence. But the provision talks also of knowingly making an omission. Based on the evidence I heard, I am drawn to the inescapable conclusion that the Appellant, through the conduct of Mr. Farrell, knew it was omitting to self-assess pursuant to section 191 of the Act.
+[30] I reach this conclusion based on the following facts:
+(i) Mr. Farrell was first advised by his accountants, Meyers, Norris, Penny, in early 2000, of the section 191 self-assessment requirement on a multiple-unit residential Complex. This advice was given specifically in connection with the Complex. The Appellant suggests I should give little weight to this meeting as Mr. Llewellyn testified that he briefly discussed the rebate issue with Mr. Farrell, which he could not have done as such rebate program did not exist at that time. I find however that this does not taint Mr. Llewellyn's and Ms. Keys' testimony that advice with respect to section 191 was indeed given to Mr. Farrell.
+(ii) Mr. Farrell was advised again by his accountants in May 2001, after the Complex was substantially complete, that there is a requirement to self-assess based on fair market value. Meyers, Norris, Penny's GST expert, Mr. Piekema, attended that meeting.
+(iii) This advice was confirmed in writing by Meyers, Norris, Penny in a letter of June 2001 (see paragraph 12 of these Reasons).
+(iv) The GST report for the first quarter of 2001 claimed a refund of $369,000.
+(v) No self-assessment was reported, and upon the institution of the CRA audit in early 2003 Mr. Farrell stated he did not know the self-assessment was required. I do not find Mr. Farrell's response credible. I find he was not completely forthright in his dealings with CRA and that has tainted my view of his credibility.
+[31] The Appellant's counsel argued that, to accept the Appellant's conduct as sufficient to invoke section 285 penalties, is to paint the thousands of businesses who regularly ignore their accountant's advice as grossly negligent, and therefore liable to substantial penalties. He suggested this conclusion would wreak havoc on commerce in Canada. I reject this dramatic proposition. Indeed, he went further to suggest that the accountants did not provide complete and accurate advice to Mr. Farrell by:
+(i) not specifically instructing their client how to make a self-assessment;
+(ii) not independently confirming when the Complex was substantially complete;
+(iii) not determining that Mr Farrell had at one point listed the property and advised him of the GST impact of a sale; and
+(iv) not accounting for a possible $500,000 GST liability.
+[32] I do not accept this valiant attempt by the Appellant to shift responsibility to the professional advisors. They told Mr. Farrell he had to self-assess and under what circumstances. They invited him to follow up directly with their GST expert, which he did not. The professional advisors' responsibility does not extend to their completing the GST form and holding the client's hand over the signature line.
+[33] Mr. Farrell's response was that he did not have as much confidence in his accountants as he had had in his former accountant. Also, he argued that he had talked two or three times with a CRA agent, Mr. Litwinowich, who was working on the Alpha Prime file, and from whom he expected guidance. I find this latter view difficult to accept; that an experienced businessman with professional advisors would wait for advice from a CRA representative, who was working on another taxpayer's file, is highly suspect. Perhaps if Mr. Farrell's conduct was beyond reproach, I might afford this view some credence, but his conduct with CRA left much to be desired. Most telling was his own admission that he gave answers to the CRA representative that would in effect force him to have to go out and find the real truth. Clearly, Mr. Farrell's encounter with Mr. Price was anything but affable. But to react as Mr. Farrell did unfortunately raises serious concerns, in my mind, as to how forthright any of his answers might be. This is a costly lesson for Mr. Farrell. As his counsel pointed out, the section 285 penalty is an all or nothing penalty and indeed it is significant. His position is that the Appellant's behaviour does not justify such a considerable penalty. I have no discretion other than to invoke or not invoke the penalty - the amount simply follows. By concluding that Mr. Farrell knew that he was omitting to self-assess GST of a significant amount, I must find the section 285 penalty applies.
+[34] In conclusion, the appeal is allowed and referred back to the Minister on the basis that the fair market value of the Complex at the time of substantial completion in January 2001 was $6,550,000, and that the Appellant is liable for section 285 penalties calculated accordingly.
+Signed at Toronto, Ontario, this 10th day of March 2006.
+"CampbellJ. Miller"
+Miller J.
+CITATION: 2006TCC152
+COURT FILE NO.: 2004-4062(GST)I
+STYLE OF CAUSE: Kimm Holdings Ltd. and
+Her Majesty the Queen
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: February 23 and March 1, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: March 10, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Gordon D. Beck
+Counsel for the Respondent:
+George F. Body
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gordon D. Beck
+Firm: Field LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The parties acknowledged this amount was pleaded in error and should have been $128,625.00.
+[2] [1984] F.C.J. No. 314.

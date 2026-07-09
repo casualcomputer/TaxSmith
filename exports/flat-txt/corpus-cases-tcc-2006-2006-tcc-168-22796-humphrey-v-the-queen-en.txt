@@ -1,0 +1,160 @@
+Title: Humphrey v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22796/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-168-22796-humphrey-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-03-16
+
+# Humphrey v. The Queen
+
+- Citation: 2006 TCC 168
+- Decision date: 2006-03-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2243, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Humphrey v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-16
+Neutral citation
+2006 TCC 168
+File numbers
+2004-4626(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4626(IT)I
+BETWEEN:
+LUCY HUMPHREY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 9, 2006 at Kingston, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant: The Appellant herself
+Counsel for the Respondent: George Boyd Aitken
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is dismissed.
+Signed at Ottawa, Canada, this 16th day of March 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2006TCC168
+Date: 20060316
+Docket: 2004-4626(IT)I
+BETWEEN:
+LUCY HUMPHREY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] This is an appeal from an assessment made under the Income Tax Act for the appellant's 2002 taxation year. The facts are somewhat unusual and the case raises an interesting legal question.
+[2] In 1997, 1998, 1999 and 2000, the appellant embezzled from her employer Loughborough Inn a total of $96,982.00, as follows:
+1997 - $13,103.00
+1998 - $19,487.00
+1999 - $37,527.00
+2000 - $26,865.00
+$96,982.00
+[3] A forensic audit revealed that the appellant had taken the money. She was charged and convicted. The court ordered her to pay back to her employer the money she had taken.
+[4] On April 6, 2001, the Minister of National Revenue assessed her on the amounts taken in 1997, 1998 and 1999. Upon receipt of the notices of assessment she consulted a financial advisor who told her that she should declare bankruptcy. She consulted a trustee in bankruptcy and filed for bankruptcy on April 26, 2001.
+[5] On July 26, 2002, she was assessed for the year 2000 on the amount of $26,865 that she took from her employer in that year.
+[6] The result of these assessments was that she owed $49,159.23 in tax, interest and penalties arising out of her embezzlement from her employer. This amount formed substantially the entire claim in bankruptcy.
+[7] She was discharged from the bankruptcy on January 27, 2002 and the trustee was discharged on April 29, 2003. On May 15, 2003, the Minister wrote off the amount owing under the reassessments in the amount of $49,159.23. She was from that time on forever relieved of the obligation of paying the amount. In fact, she never paid any of it and the Minister received nothing under the bankruptcy in respect of his claim against her.
+[8] After her discharge she started, in accordance with the court's order, paying back to her employer the amounts that she had taken. She has conscientiously paid $500 per month up to the present. Before her bankruptcy, she called the local Canada Customs and Revenue Agency ("CCRA") office and was advised that she could deduct the payments. After her bankruptcy she again spoke to an official of the CCRA and told her that she had declared bankruptcy and was again told that she could deduct the payments. I presume this official was relying upon Interpretation Bulletin IT-256R which reads:
+DATE: August 27, 1979
+SUBJECT: INCOME TAX ACT
+Gains from Theft, Defalcation or Embezzlement
+REFERENCE: Paragraph 3(a) (also section 4, paragraph 15(1)(b) and subsection 163(2) of the Act).
+This bulletin cancels and replaces Interpretation Bulletin IT-256 dated October 14, 1975. Current revisions are designated by vertical lines.
+1. The treatment of losses from theft, defalcation or embezzlement are dealt with in IT-185. This bulletin deals with the treatment of those amounts in the hands of the recipient, and also covers cash or property received as a result of extortion, blackmail, bribery or other similar acts.
+2. These funds or property are income from a source and as such are taxable in the hands of the recipient. The cash or fair market value of property received will be added into the recipient's income in the year of receipt.
+3. Taxpayers who receive such funds or property may be subject to a penalty under subsection 163(2) for each year that they were taken and not reported.
+4. It is the Department's practice that when amounts that were added to a taxpayer's income under 2 above are repaid, there will normally be a deduction allowed in respect of such repaid amounts for the taxation year in which the repayments are made unless the taxpayer was a major shareholder or senior official of the injured party at the time of the theft or other act to which the comments herein apply.
+[9] The bulletin sets out a salutary and sensible administrative practice and I would not wish to cast any doubt on its correctness. It seems, however, in paragraph 4 to leave the Minister a certain discretion.
+[10] The advice given to Ms. Humphrey by the officials in the local office would probably be an accurate representation of the normal administrative practice but such expressions of opinion by revenue officials on questions of law do not bind the Crown or the Court. In Goldstein v. The Queen, 96 DTC 1029 at page 1033, the following was stated:
+I come next to the question of estoppel.
+There is much authority relating to the question of estoppel in tax matters and no useful purpose would be served by yet another review of the cases. I shall endeavour however to set out the principles as I understand them, at least to the extent that they are relevant. Estoppels come in various forms - estoppel in pais, estoppel by record and estoppel by deed. In some cases reference is made to a concept of "equitable estoppel", a phrase which may or may not be accurate.4 It is sufficient to say that the only type of estoppel with which we are concerned here is estoppel in pais. In Canadian Superior Oil Ltd. v. Paddon-Hughes Development Co. Ltd. [1970] S.C.R. 932 at 939-940 Martland, J. set out the factors giving rise to an estoppel as follows:
+The essential factors giving rise to an estoppel are I think:
+(1) A representation or conduct amounting to a representation intended to induce a course of conduct on the part of the person to whom the representation is made.
+(2) An act or omission resulting from the representation, whether actual or by conduct, by the person to whom the representation is made.
+(3) Detriment to such person as a consequence of the act or omission.
+Estoppel is no longer merely a rule of evidence. It is a rule of substantive law.5 Lord Denning calls it "a principle of justice and of equity."6
+It is sometimes said that estoppel does not lie against the Crown. The statement is not accurate and seems to stem from a misapplication of the term estoppel. The principle of estoppel binds the Crown, as do other principles of law. Estoppel in pais, as it applies to the Crown, involves representations of fact made by officials of the Crown and relied and acted on by the subject to his or her detriment.7 The doctrine has no application where a particular interpretation of a statute has been communicated to a subject by an official of the government, relied upon by that subject to his or her detriment and then withdrawn or changed by the government. In such a case a taxpayer sometimes seeks to invoke the doctrine of estoppel. It is inappropriate to do so not because such representations give rise to an estoppel that does not bind the Crown, but rather, because no estoppel can arise where such representations are not in accordance with the law. Although estoppel is now a principle of substantive law it had its origins in the law of evidence and as such relates to representations of fact. It has no role to play where questions of interpretation of the law are involved, because estoppels cannot override the law.8
+The question of the interpretation of paragraph 146(1)(c) is a matter of law and I must decide it in accordance with the law as I understand it. I cannot avoid that obligation because the Department of National Revenue may previously have adopted an interpretation different from that which it now propounds. The question is not whether the Crown is bound by an earlier interpretation upon which a taxpayer has relied. It is more to the point to say that the courts, who have an obligation to decide cases in accordance with the law, are not bound by representations, opinions or admissions on the law expressed or made by the parties.9
+The result of the application of the rule in Maritime Electric and the many other cases to the same effect can have, in particular cases, unfortunate consequences for a taxpayer who, in good faith, relies upon a departmental interpretation that is subsequently changed. Nonetheless it is not in the interests of justice that the courts should be fettered by erroneous interpretations of the law by departmental officials.10
+The appeal is dismissed.
+_________________________________________________________
+4 Canadian Pacific Railway Co. v. The King [1931] A.C. 414 at 429. Cf. Central London Property Trust Ltd. v. High Trees House Ltd. (1946) [1947] 1 K.B. 130.
+5 Halsbury's Laws of England, 4th Ed. Vol. 16, p. 840, paragraph 951.
+6 Moorgate Mercantile Co. Ltd. v. Twitchings [1976] 1 Q.B. 225 at 241.
+7 Robertson v. Minister of Pensions [1949] 1 K.B. 227; The Queen v. Langille, 77 DTC 5086. The earlier cases are fully reviewed by Cameron J. in Woon v. M.N.R., 50 DTC 871.
+8 Maritime Electric Co. v. General Dairies Ltd. [1937] A.C. 610; M.N.R. v. Inland Industries Ltd., 72 DTC 6013; Stickel v. M.N.R., 72 DTC 6178; Granger v. C.E.I.C. [1986] 3 F.C. 70.
+9 C.(G ) v. V.-F.(T.) [1987] 2 S.C.R. 244 at 257-258; Custom Glass Ltd. v. M.N.R., 67 DTC 5207 at 5210; L.I.U.N.A. Local 527 Members' Training Trust Fund v. The Queen, 92 DTC 2365 at 2369.
+10 I leave aside entirely the question of advance rulings which form so important and necessary a part of the administration of the Income Tax Act. These rulings are treated by the Department of National Revenue as binding. So far as I am aware no advance ruling that has been given to a taxpayer and acted upon has ever been repudiated by the Minister as against the taxpayer to whom it was given. The system would fall apart if he ever did so.
+[11] I revert then to the question, why should Ms. Humphrey be entitled to deduct the $6,000 per year that she repaid to her employer when, because of her bankruptcy, she never paid and never will pay the tax on the amounts she took from her employer? In the course of the Crown's argument I stated to Mr. Aitken that the Crown's position was well supported by common sense but I would have preferred to put my decision on a somewhat more principled legal basis. That is what I propose, with some trepidation, to endeavour to do.
+[12] I start from the premise that income from criminal activity is income from a business. In the Interpretation Bulletin quoted above it is stated that such income is "income from a source". I do not think that this statement is meaningful. In K.L. Svidal v. Canada, [1995] 1 C.T.C. 2692, the following observations were made at page 2697:
+It is settled law that proceeds from criminal activities are taxable income. I can think of no circumstances in which such income cannot be characterized as income from a business. In the Department's letter in which it proposed the adjustments to the appellant's income, it is stated that the proposed additions to income are "income from a source". It is in vogue these days to speak of "income from a source" as if income were capable of arising in the abstract independently of any specified source. The concept is innocuous, but its correctness is open to question. There is no such thing as income from a source that cannot be identified. In the reply to the notice of appeal the amounts added to the appellant's income are described as income from the business of fraud. The Income Tax Act requires that a taxpayer be taxed on income from all sources inside or outside Canada, including offices, employments, businesses and properties. Other sections of the Income Tax Act, contained in subdivision D of Division B require the inclusion in income of amounts from other specified sources−such, for example, as trusts, RRSPs, pensions and many other sources not covered by the words "property, business or employment". Beyond the sources specified in the Income Tax Act it is difficult to conceive of any other sources of income.1
+The amounts received by the appellant are income from a business and they retain that quality irrespective of the number of corporate entities and bank accounts through which they pass. The illegality which gave rise to the profits permeates the funds and follows then into the hands of their ultimate recipient, in this case the appellant. The illegality is not filtered out by passing through or into a series of entities or forms. Indeed the circuitous progression of the funds through the various entities was an integral part of the scheme.2
+. . . . .
+One of the most ingenious and intriguing arguments was that relating to the effect on the appellant's 1984 and 1985 taxation years of the compensation order made by the Alberta Court in 1991, whereby the appellant and his co-accused were ordered to pay to Coopers and Lybrand Ltd. the sum of $10,075,735.55. The contention is that this amount should, in the computation of the appellant's income from the business, characterized by the Crown as the business of fraud, be allowed as a deduction. The argument, if I understand it correctly, is that the obligation to repay the amounts was crystallized by the compensation order of 1991 but that since it relates to the business carried on in 1984 and 1985 it should be allowed as a deduction in those years.
+The argument raises more problems than I am prepared to discuss here. Implicit in it is the theory that income from crime is to be computed on an accrual basis-a proposition in respect of which I have heard neither legal authority nor expert accounting testimony. Also it implies that as soon as a crime is committed there arises an inchoate liability which is only fixed if after conviction the accused is ordered to make a compensation payment or restitution. Also, it raises the question whether such payments should be allowed as deductions as a matter of public policy. As noted above the appellant has made no payments under the compensation order and there is no evidence that he ever will. The argument seems not dissimilar to that unsuccessfully advanced in The Queen v. Poynton, [1972] C.T.C. 411, 72 D.T.C. 6329 (Ont. C.A.).
+Interesting as it might be to pursue these theoretical questions it is sufficient to dispose of the point to say that the compensation order was made in 1991 and can have no effect on the appellant's 1984 and 1985 income. Our fiscal system does not, except in specific circumstances set out in the Income Tax Act, permit the reopening of prior years to take into account events occurring in later years: M.N.R. v. Benaby Realties Ltd., [1968] S.C.R. 12, [1967] C.T.C. 418, 67 D.T.C. 5275.
+_____________________________________________________________
+1 Curran v. M.N.R., [1959] S.C.R. 850, [1959] C.T.C. 416, 59 D.T.C. 1247, is sometimes cited as an example of income that is derived from an unspecified source unconnected with any employment, business or property. See also Ryall v. Hoare, [1923] 2 K.B. 447 and CIR v. Duberstein et al., 60-2 USTC 9515 (United States Supreme Court). In all of these cases the source is the rendering of a service or an undertaking to render a service.
+2 It is interesting to note that in a very different factual and legislative context the Exchequer Court held that where a taxpayer received from a trust amounts that had originated from mining operations they were income "derived from" mining; Gilhooly v. M.N.R., [1945] Ex. C.R. 141, [1945] C.T.C. 203; see also Kemp v. M.N.R., [1947] C.T.C. 343, 3 D.T.C. 1078.
+[13] See also Neeb v. The Queen, 97 DTC 895 at page 902, where the following was said:
+3. Legal fees of $155,000. These were paid to a lawyer Mr. Clayton Ruby in connection with Mr. Neeb's defence to the narcotics charge. It is not clear whether any portion was attributable to the income tax evasion charge. I am satisfied that they were paid.
+Their deductibility is another matter. Clearly they were incurred as a result of the illegal business Mr. Neeb had been carrying on. I do not accept the Crown's proposition that because Mr. Neeb's business came to an abrupt end the day he was arrested, the "source" did not exist when he incurred the expense and therefore the deduction is not permitted. This is based upon the decision of Cullen, J. of the Federal Court in Emerson v. The Queen, 85 DTC 5236 (aff'd in F.C.A., 86 DTC 6184) where a person sold shares which he had paid for with borrowed money. He was denied the right to deduct the interest paid after the sale of the shares.
+The decision has no application to the case of liabilities that arise directly from a business that was carried on but that are asserted after that business has ceased. Assume, for example, the case of a person who has carried on a professional practice as a business, but who ceases that business and takes other employment. After ceasing the business he is sued for an act of a professional negligence that occurred when he was in practice. He pays. The Crown's theory, based on Emerson, would deny the deductibility of the amount paid because the "source" no longer existed. This is, of course, patently absurd.
+In Tennant v. The Queen, 96 DTC 6121 (S.C.C.) Iacobucci, J. said at p. 6126:
+The courts below were of the view that, as the TWL shares had a fair market value of only $1,000, then only $1,000 of the original loan continued to be used for the purpose of earning income from property, pursuant to Emerson v. The Queen, 86 DTC 6184 (F.C.A.). In Emerson, the taxpayer had borrowed $100,000 for the purchase of shares from three small corporations. He sold the share for $35,000 and borrowed $63,750 to repay the original bank loan. The taxpayer was permitted to deduct the interest on the original loan, but not the interest on the second loan. The reason for this was that the source of income no longer existed. In my view, the Emerson case is not of any application to these facts. Emerson is distinguishable as the proceeds of disposition in that case were not reinvested into a second eligible use property, unlike the case at hand.
+As Professor Krishna comments in "Interest Deductiility: More Form over Substance" (1983), 4 Can. Curr. Tax C17:
+The Federal Court [in Tennant] looked at the direct and current use of the funds and the value of the substituted property purchased with the borrowed money. The result is this: if an investor borrows money to purchase shares, his interest expense on the borrowing remains deductible so long as he holds the shares even if they lose all value. If he bails out of a bad investment and purchases substitute shares, the interest will only be deductible to the extent of the cost of the new shares. This is so, even if the new shares increase in value to the cost of the original investment. The Emerson rule may be logical from a technical source perspective but it does little to promote the commercial and economic substance of the transactions.
+It is not entirely clear from the judgment of Iacobucci, J., but his quoting from Professor Krishna's article, apparently with approval, would seem to imply some doubt about the correctness of the Emerson decision. It would at least justify restricting it to its particular facts.
+Although one might, on one view of the matter, say that legal defence costs are a necessary incident of carrying on an illegal business, I prefer to put my decision on a different basis. Mr. Neeb defended the narcotics charge not because he intended to carry on the illegal narcotics business, but because he wanted to stay out of jail, or at least avoid going to jail for any longer than he had to. He was not defending his business or his business practice.
+[14] As stated above, I think the policy of the CCRA set out in the interpretation bulletin is a sensible one and I believe it to be in accordance with the law. It must, however, be applied with a measure of common sense and fairness. It is, I believe, settled law that a business continues to be carried on so long as the obligations arising out of the business remain unfulfilled: Re Dagnall [1896] 2 Q.B. 407; Theophile v. Solicitor General [1950] A.C. 186. Without implying any doubt as to the correctness of these authorities I do not think they quite fit the somewhat unusual situation that we have here. I think it may be a little unrealistic to say that the appellant here continued in 2002 and subsequent years, to carry on the business that she carried on in 1997 to 2000, simply by reason of her complying with the restitution order. Even if one could apply the principles in Dagnall and Theophile, we run up against the principle in section 67 of the Income Tax Act which prohibits the deduction of unreasonable outlays or expenses. While it was certainly reasonable for the appellant to pay back the amounts in accordance with the restitution order, it is, giving section 67 a textual, contextual and purposive interpretation, unreasonable for her to be able to deduct the repayments of amounts on which she has never paid tax.
+[15] In all the circumstances I think the Minister was correct in refusing the deduction.
+[16] The appeal is dismissed.
+Signed at Ottawa, Canada, this 16th day of March 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2006TCC168
+COURT FILE NO.:
+2004-4626(IT)I
+STYLE OF CAUSE:
+Lucy Humphrey v.
+Her Majesty The Queen
+PLACE OF HEARING:
+Kingston, Ontario
+DATE OF HEARING:
+March 9, 2006
+EASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT:
+March 16, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+George Boyd Aitken
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,196 @@
+Title: Purba v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/181420/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-218-181420-purba-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-10-06
+
+# Purba v. The Queen
+
+- Citation: 2016 TCC 218
+- Decision date: 2016-10-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2976, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Purba v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-10-06
+Neutral citation
+2016 TCC 218
+File numbers
+2015-2993(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-2993(IT)I
+BETWEEN:
+JAGDEEP SINGH PURBA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 18, 2016 at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Mohinder Pharwaha
+Counsel for the Respondent:
+Pallavi Gotla
+JUDGMENT
+The appeal from the reassessment dated July 17, 2006 made under the Income Tax Act in respect of the 2005 taxation year is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 6th day of October 2016.
+“Réal Favreau”
+Favreau J.
+Citation: 2016 TCC 218
+Date: 20161006
+Docket: 2015-2993(IT)I
+BETWEEN:
+JAGDEEP SINGH PURBA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal under the informal procedure from a reassessment made by the Minister of National Revenue (the “Minister”) under the Income Tax Act, R.S.C. 1985 c. 1 (5th Supp.), as amended (the “Act”), dated July 17, 2006 concerning the 2005 taxation year of the appellant.
+[2] The issue is whether the appellant is entitled to a federal non-refundable tax credit in respect of charitable donations he allegedly made in the amounts of $10,200 and $21 during the 2005 taxation year to the Christ Apostolic Church International Miracle Centre (“Miracle”) and to the Ontario Khalsa Darbar (“Khalsa”) respectively.
+[3] In determining the appellant’s tax liability for the 2005 taxation year, the Minister made the following assumptions of fact:
+(a) the Appellant did not make any donations, either by cash or cheque or gifts in kind, to any registered charity, during the 2005 taxation year;
+(b) in particular, the Appellant did not voluntarily transfer any property that he owned to Miracle in the 2005 taxation year;
+(c) in particular, the Appellant did not voluntarily transfer any property that he owned to Khalsa in the 2005 taxation year;
+(d) the Appellant did not obtain or provide proof of any transfers of property that he may have made to a registered charity in 2005 in the form of a valid official and non-deficient donation receipt meeting all required criteria;
+(e) specifically, the purported Miracle receipt does not contain:
+(i) the place or locality where it was issued;
+(ii) the Appellant’s full address;
+(iii) a statement that it is an official receipt for income tax purposes; and
+(iv) the specific dates that alleged cash payments were made;
+(f) specifically, the purported Khalsa receipt does not contain:
+(i) the Appellant’s full address; and
+(ii) a valid charitable registration number;
+(g) Miracle’s registered charitable donation number was revoked for cause on October 13, 2007.
+Other Material Facts
+[4] The Deputy Attorney General relies on the following additional facts:
+(a) the purported Miracle receipt does not contain the name and internet website address of the CRA;
+(b) the purported Khalsa receipt does not contain:
+(i) the proper first and last name of the Appellant;
+(ii) a statement that it is an official receipt for income tax purposes;
+(iii) the name and internet website address of the CRA; and
+(iv) whether the date shown thereon is the date of the gift and/or the date of issuance of the receipt.
+[5] The appellant, a postal worker, testified in chief that he made cash donations at various times during 2005 to Miracle. The donations were mainly made on Sundays at the worship services of the church. During his testimony, the appellant did not provide any detail regarding his donations but he said that he was giving $100 or $200 each time to help children in Africa and India.
+[6] The appellant stated that he is married and has three children for whom he was paying school fees. He also said that his family was living in Mississauga in a house bought in 1992 for $250,000 and that he was carrying a mortgage on the house. Two other dependants and two grand-parents were also living with him and his family.
+[7] The appellant further stated that his earnings for 2005 were between $50,000 and $55,000 and that he had a line of credit of $ 70,000 with the Toronto-Dominion Bank that was used to pay the school fees.
+[8] The appellant also stated that his wife worked on a part-time basis at a post-office in 2005 and that her net earnings for that year were $36,296.87.
+[9] The appellant also confirmed that he is not contesting the refusal of the $21 donation allgedly made to Khalsa.
+[10] During the cross-examination of the appellant, the following documents were filed as evidence:
+- the appellant’s 2005 tax return with his T4 statement of remuneration for the 2005 taxation year and the receipts issued by Miracle and Khalsa;
+- the appellant’s letter dated September 30, 2006, addressed to the Chief of Appeals of the Sudbury office with his notice of objection to the reassessment of his 2005 income tax return with a letter from his church giving further details as to the breakdown of his donation for 2005 and with some copies of his bank statements to authenticate the cash donations; and
+- an extract of the Canada Gazette Part 1 dated October 13, 2007 announcing the revocation of the charitable registration of the Christ Apostolic Church International Miracle Centre (Vineyard of Comfort), North York, Ontario.
+[11] The relevant statutory provisions of the Income Tax Act are as follows:
+118.1(2) Proof of gift – An eligible amount of a gift shall not be included in the total charitable gifts, total Crown gifts, total cultural gifts or total ecological gifts of an individual unless the making of the gift is evidenced by filing with the Minister
+(a) a receipt for the gift that contains prescribed information;
+(b) in the case of a gift described in the definition “total cultural gifts” in subsection (1), the certificate issued under subsection 33(1) of the Cultural Property Export and Import Act; and
+(c) in the case of a gift described in the definition “total ecological gifts” in subsection (1), both certificates referred to in that definition.
+[12] The relevant provisions of the Income Tax Regulations (the “Regulations”) are as follows:
+3501. Contents of Receipts – (1) Every official receipt issued by a registered organization shall contain a statement that it is an official receipt for income tax purposes, and shall show clearly, in such a manner that it cannot readily be altered,
+(a) the name and address in Canada of the organization as recorded with the Minister;
+(b) the registration number assigned by the Minister to the organization;
+(c) the serial number of the receipt;
+(d) the place or locality where the receipt is issued;
+(e) where the gift is a cash gift, the date on which or the year during which the gift was received;
+(e.1) where the gift is of property other than cash
+(i) the date on which the gift was received;
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+(f) the date on which the receipt was issued;
+(g) the name and address of the donor including, in the case of an individual, the individual’s first name and initial;
+(h) the amount that is
+(i) the amount of a cash gift, or
+(ii) if the gift is of property other than cash, the amount that is the fair market value of the property at the time that the gift is made;
+(h.1) a description of the advantage, if any, in respect of the gift and the amount of that advantage;
+(h.2) the eligible amount of the gift;
+(i) the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge gifts; and
+(j) the name and Internet website of the Canada Revenue Agency.
+Analysis
+[13] I have concluded that the receipts provided by the appellant do not contain all the information required by the Regulations, and, for this reason alone, the appeal must be dismissed. I have also concluded that, even if the receipts conformed to the Regulations, the appellant failed to prove, on a balance of probabilities, that he made the donations at issue.
+[14] The receipt from Miracle that was attached to his 2005 tax return was filed as evidence in Court. The alleged Miracle receipt did not conform to the Regulations in that it did not contain the prescribed following information:
+(i) the place or locality where it was issued (paragraph 3501(1)(d);
+(ii) the full address of the appellant (paragraph 3501(1)(g);
+(iii) a statement that it is an official receipt for income tax purposes (subsection 3501(1));
+(iv) the specific dates on which the alleged cash payments were made (paragraph 3501(1)(e); and
+(v) the name and the Internet website address of the Canada Revenue Agency (paragraph 3501(1)(j);
+[15] Since the receipt provided to the appellant by Miracle did not contain all the required information, it did not meet the requirements of subsection 118.1(2) of the Income Tax Act, and for this reason, the appellant’s claim for charitable gift credit cannot be allowed.
+[16] The onus is on the appellant to prove that he made the alleged donations to Miracle. The standard of proof to be applied is on a balance of probabilities. This means that he must show that it is more probable than not that he made the donations at issue. In my view, the appellant did not meet this standard of proof.
+[17] The evidence submitted by the appellant that he had made the donations at issue was his testimony, the incomplete receipt, the letter dated September 25, 2006 from Miracle providing a detailed breakdown of how the donations were made in 2005 and the CIBC bankbook history of the appellant’s bank account for 2005. No information concerning the TD bank line of credit was provided.
+[18] The evidence presented by the appellant fell short of showing that he made the alleged donations to Miracle. His testimony was vague and unreliable. It is as if he had no connection with the charitable organization. He did not know from where the organization operated or how the money given, was spent for charitable purposes except in very general terms. He stated that he was introduced to Miracle by a person who was renting a basement in the neighbourhood in 2004 while he was suffering from depression. The name of that person was not disclosed nor was called as a witness to corroborate the evidence.
+[19] The appellant’s testimony was particularly deficient because he could not remember the exact amounts given on specific dates and the nature of the church’s programs towards which his cash donations were applied.
+[20] The letter dated September 25, 2006 from Miracle provided a detailed breakdown on how the donations were made by the appellant in 2005. The programs that were financed by the appellant were as follows:
+Programs
+Amounts
+$
+Number of days on which contributions were made
+Average contribution per day
+$
+- tithes
+- offering
+- building funds
+- special donations
+3,730.00
+1,270.00
+5,000.00
+200.00
+17
+44
+20
+2
+219.41
+28.86
+250.00
+100.00
+Total
+10,200.00
+[21] The information provided by the above-mentioned letter cannot be relied upon for two reasons:
+(a) the charity number appearing on the letterhead of Miracle is different from the charity number appearing on the receipt issued to the appellant; and
+(b) the financial secretary of Miracle who signed the letter was not called as a witness to explain how the information was gathered and why the charity numbers of the organization appearing on the documents were different.
+[22] The banking documents submitted by the appellant are not useful because no reconciliation can be made between the amounts withdrawn from his bank account and the cash donations he made.
+[23] In analyzing the appellant’s ability to make the alleged cash donations, I am led to believe that the amounts are substantial in comparison to his after-tax disposable income for the 2005 taxation year. The cash donations of $10,200 represented more than 25% of his after-tax disposable income for that year.
+[24] The appellant also failed to establish that he received financial support from other family members living with him or that he made withdrawals on his TD line of credit to make the alleged cash donations.
+[25] For all the above reasons, I find that the appellant has failed to prove, on a balance of probabilities, that he made the donations at issue.
+[26] The appeal is dismissed.
+Signed at Ottawa, Canada, this 6th day of October 2016.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2016 TCC 218
+COURT FILE NO.:
+2015-2993(IT)I
+STYLE OF CAUSE:
+Jagdeep Singh Purba and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 18, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+October 6, 2016
+APPEARANCES:
+Agent for the Appellant:
+Mohinder Pharwaha
+Counsel for the Respondent:
+Pallavi Gotla
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

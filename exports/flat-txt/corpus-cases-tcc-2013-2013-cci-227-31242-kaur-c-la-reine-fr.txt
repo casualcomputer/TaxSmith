@@ -1,0 +1,156 @@
+Title: Kaur c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31242/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-227-31242-kaur-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-07-11
+
+# Kaur c. La Reine
+
+- Citation: 2013 CCI 227
+- Decision date: 2013-07-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5146, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kaur c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-07-11
+Référence neutre
+2013 CCI 227
+Numéro de dossier
+2011-1130(GST)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-1130(GST)G
+ENTRE :
+SATPAL KAUR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 15 mai 2013, à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocats de l'intimée :
+Me Selena Sit
+Me Kristian DeJong
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de l'article 323 de la Loi sur la taxe d'accise, dont l'avis est daté du 24 décembre 2009 et porte le numéro 831358, est rejeté sans frais, conformément aux motifs du jugement ci‑joints.
+Signé à Magog (Québec), ce 12e jour de juillet 2013.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 1er jour d'octobre 2013.
+Yves Bellefeuille, réviseur
+Référence : 2013 CCI 227
+Date : 20130712
+Dossier : 2011-1130(GST)G
+ENTRE :
+SATPAL KAUR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Le contexte
+[1] L'article 323 de la Loi sur la taxe d'accise (la « LTA ») prévoit que l'administrateur d'une personne morale peut être tenu responsable du défaut de cette dernière de verser la taxe sur les produits et services (la « TPS »), à moins de démontrer qu'il a exercé la diligence voulue pour prévenir le manquement. L'appelante, Satpal Kaur, fait appel de la cotisation établie à son égard, le 24 décembre 2009, au titre de la responsabilité des administrateurs pour la TPS non versée par une société, à laquelle s'ajoutent les intérêts et les pénalités afférents, ce qui représente en tout une somme de 455 169,64 $.
+II. Les faits
+[2] L'appelante est la seule administratrice de 644346 BC Ltd. (la « société »). La société construisait et vendait des résidences en Colombie‑Britannique.
+[3] En sa qualité d'inscrite aux fins de la TPS, la société devait percevoir la TPS sur toutes ses fournitures taxables. En l'occurrence, il s'agissait de la TPS perçue sur ses ventes de maisons neuves. À l'instar de tout inscrit aux fins de la TPS, la société pouvait réclamer des crédits de taxe sur les intrants pour la TPS payée ou exigible pour les produits et services acquis pour utilisation, consommation ou fourniture lors de ses activités commerciales.
+[4] La société a fait l'objet d'une cotisation de 357 691,66 $ pour la TPS nette exigible à l'égard des périodes de déclaration prenant fin les 31 décembre 2004, 31 mars 2006, 30 septembre 2006 et 31 décembre 2006.
+[5] Lors de son témoignage, l'appelante a affirmé qu'au milieu des années 1980, elle était agente d'immeubles résidentiels au Québec. Elle a rencontré M. Familamiri à Montréal en 1989. M. Familamiri, titulaire d'un diplôme en génie, a travaillé dans le domaine de la construction résidentielle au Québec jusqu'en 1995, année où il a déménagé à Vancouver.
+[6] Jusqu'à ce qu'elle déménage aussi à Vancouver en 1995, l'appelante travaillait comme agente d'immeubles dans un bureau de courtage immobilier de Century 21 dont M. Familamiri était le propriétaire exploitant. Elle s'est occupée de trouver du financement pour quelques petits projets immobiliers entrepris par M. Familamiri au Québec. Elle a déclaré que M. Familamiri avait un mauvais dossier de solvabilité et qu'il ne pouvait lui‑même obtenir de financement. Les budgets de ces projets ont été respectés et les emprunts à la banque ont été remboursés. L'appelante a touché des commissions lors de la vente des immeubles.
+[7] À compter de 2002, l'appelante a entrepris avec M. Familamiri deux projets immobiliers en Colombie‑Britannique.
+[8] Le premier projet consistait à construire six maisons en rangée sur un terrain vague acheté par la société dans le quartier Vancouver‑Est (le « projet Triumph »). Deux des maisons ont été vendues à la fin du projet, en 2004. La société n'a pu vendre les quatre maisons restantes, dont la propriété a été transférée à l'appelante en 2006. Celle‑ci les a louées afin de trouver les liquidités nécessaires au paiement des coûts de possession des immeubles.
+[9] En décembre 2004, la société a commencé la construction d'un projet de 26 maisons en rangée sur un terrain vague lui appartenant à Port Coquitlam, Colombie‑Britannique (le « projet Grant »). Le budget nécessaire à la construction du projet Grant a été établi à 4 976 504 $. L'appelante s'est occupée du financement du projet pour le compte de la société. Elle s'est également portée garante du prêt à la construction. Pour réduire le risque d'un défaut de paiement, l'appelante a négocié la vente de plus de la moitié des maisons avant le début des travaux.
+[10] Dans son avis d'appel modifié, l'appelante décrit ainsi les circonstances entourant le défaut de la société de verser la TPS perçue lors de la vente des immeubles qu'elle avait construits :
+[TRADUCTION]
+M. Familamiri a entrepris plusieurs projets à Vancouver et avait besoin d'aide pour les financer. J'ai signé plusieurs documents hypothécaires au fil des ans et il s'occupait de tous les autres aspects des projets. Je lui ai donné un coup de main pour les finances en raison de notre amitié, mais je lui laissais par ailleurs la responsabilité de ces projets. Il avait de l'expérience dans le domaine de la mise en valeur et de la construction immobilières. Je n'en avais aucune. Je me concentrais sur ma carrière dans l'immobilier, je prenais soin de ma mère et de mon jeune fils et je subvenais seule aux besoins de ma famille.
+Les deux projets visés par le présent appel, Grant et Triumph, ont été lancés en 2002 et en 2003. J'ai signé les conventions d'achat, et M. Familamiri devait construire des maisons en rangée sur les terrains. Nous avons constitué 644346 BC Ltd. pour coordonner les projets. J'en étais l'unique actionnaire et administratrice. M. Familamiri, ingénieur, M.Ing., en était le directeur général.
+Je n'ai été informée des difficultés des projets qu'à la fin de 2005 ou en 2006. M. Familamiri m'a alors fait part des nombreux problèmes de main‑d'oeuvre et de flux de trésorerie qui se posaient, le plus grave étant que le monteur de charpentes était parti au beau milieu du projet. Normalement, il ne m'informait pas des problèmes liés aux projets. Il s'occupait des finances et des opérations. J'avais consenti à ce qu'il en soit ainsi parce que je n'ai pas de connaissances ni d'expérience dans le domaine de la construction en ce qui concerne la gestion et les finances.
+Apparemment, la demande de travailleurs qualifiés était élevée en 2005‑2006, ce qui créait une pénurie de main‑d'oeuvre. Dans sa publication intitulée Rapport ministériel sur le rendement 2005‑2006, Diversification de l'économie de l'Ouest Canada, le Secrétariat du Conseil du Trésor du Canada a écrit ce qui suit :
+Colombie-Britannique
+[...]
+Le secteur de la construction était responsable de 35 p. 100 des nouveaux emplois de la province l'an dernier, mais, comme les secteurs de l'exploitation minière et de la vente au détail, celui de la construction fait face à une pénurie de main‑d'œuvre qui pourrait bientôt miner le rendement économique général de la province.
+M. Familamiri avait beaucoup de mal à trouver des entrepreneurs pour remédier aux problèmes. Finalement, en raison de la grave pénurie de gens de métier, il n'a eu d'autre choix que d'embaucher des travailleurs et des menuisiers ordinaires rémunérés à l'heure pour terminer les travaux. Les frais causés par le départ des entrepreneurs ont augmenté le coût des projets d'environ 456 790 $.
+À la même époque, il a fallu faire face à des hausses de coûts importantes et imprévues relativement à presque tous les métiers, les matériaux et les autres travailleurs de l'industrie. Compte tenu de cet ensemble de facteurs, lorsque les immeubles ont été terminés, les dépassements de coûts des projets avaient atteint 2 386 019 $. Non seulement ai‑je été privée de tout bénéfice, mais en outre, comme la plupart des immeubles avaient été vendus à l'avance, les clients faisaient pression pour que nous achevions les travaux.
+Afin de trouver les fonds manquants, M. Familamiri et moi-même avons fait appel à toutes les ressources dont nous disposions personnellement, en contractant des emprunts supplémentaires auprès des banques, en empruntant des fonds à nos amis et parents, en augmentant le montant des acomptes versés par les clients et en versant directement ces dépôts à la société et, enfin, en refinançant nos résidences et d'autres biens nous appartenant en propre pour pouvoir terminer les projets. Nous avons ainsi réussi à rassembler 1 085 158 $ supplémentaires, ce qui représentait moins de la moitié de la somme requise pour pouvoir terminer les maisons. Le constructeur, 494743 B.C. Ltd., a pris en charge les immeubles du projet Triumph parce que 644346 B.C. Ltd. ne pouvait plus en supporter les coûts. Si le constructeur n'avait pas pris la relève, le créancier hypothécaire aurait saisi les immeubles. Ceux‑ci ont été loués pour avoir des fonds.
+Nous faisions face à un dilemme de taille et nous devions prendre la bonne décision. Nous avons donc puisé dans l'ensemble de nos ressources et nous avons fait tout ce que nous pouvions pour trouver des fonds. J'ai personnellement investi 800 000 $ additionnels dans les projets. Je ne saurais expliquer les épreuves, le stress et les difficultés que nous avons dû subir pour sauver ce qui pouvait l'être et terminer les projets. Notre contrat avec l'entrepreneur général, 494743 B.C. Ltd., n'est toujours pas honoré et nous devons encore 261 925,69 $ en raison du manque de fonds.
+Les problèmes de versement de la TPS
+J'ai appris qu'il y avait un problème relativement aux versements de la TPS vers la fin de 2007. L'ARC m'a téléphoné pour me dire que la TPS n'avait pas été versée en totalité pour 2005 et 2006. J'étais étonnée. Mon rôle à l'égard des projets était de trouver le financement et de vendre les immeubles. J'avais laissé M. Familamiri s'occuper de l'exploitation en entier en raison de sa vaste expérience. J'ai pensé qu'il devait s'agir d'une erreur. J'ai dit à l'ARC de s'adresser au comptable de la société. Quelque temps après, j'ai reçu une lettre de l'ARC qui confirmait l'existence d'un problème. C'est à ce moment que j'ai compris qu'il ne s'agissait peut‑être pas d'une erreur et que j'en ai discuté avec M. Familamiri.
+M. Familamiri a répondu qu'il avait eu à faire un choix : soit il terminait le projet et réglait les factures en suspens ainsi que la question des privilèges de construction, soit il abandonnait le projet. Il avait choisi de terminer le projet en raison des acomptes que les clients avaient versés directement à la société. S'il avait su alors toute la mesure de l'importance des pertes financières, il aurait abandonné le projet, ce qui aurait entraîné des pertes financières pour les clients, les fournisseurs, les travailleurs, les banques et, évidemment, pour l'ARC. Je ne pouvais plus faire grand‑chose en 2008 pour remédier rétroactivement à l'insuffisance de fonds. Nous avons donné au personnel du projet la directive de solder le compte de TPS, mais cela était impossible en raison du manque de liquidités. Les chèques envoyés à l'ARC étaient retournés avec la mention « sans provision ». 644346 BC Ltd. n'avait plus d'argent. Je ne suis pas parvenue à trouver d'autres fonds, étant donné que j'avais déjà épuisé toutes les sources de financement pour régler les problèmes de pénurie de main‑d'oeuvre et de hausse des coûts.
+[11] L'appelante et M. Familamiri ont offert une explication analogue lors de l'instruction.
+III. La question en litige
+[12] L'appelante est‑elle tenue de payer le montant de TPS non versé par la société, ou a‑t‑elle rempli les exigences du moyen de défense fondé sur la diligence raisonnable prévu au paragraphe 323(3) de la LTA?
+IV. Analyse
+[13] Le paragraphe 323(1) de la LTA établit la responsabilité des administrateurs d'une personne morale qui n'effectue par le versement de taxe nette auquel elle est tenue :
+Responsabilité des administrateurs
+323(1) Les administrateurs d'une personne morale au moment où elle était tenue de verser, comme l'exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l'exige l'article 230.1, un montant au titre d'un remboursement de taxe nette qui lui a été payé ou qui a été déduit d'une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+[14] L'appelante invoque le moyen de défense fondé sur la diligence raisonnable offert par le paragraphe 323(3) de la LTA à l'administrateur qui a fait l'objet d'une cotisation relativement au manquement d'une personne morale de verser la taxe qu'elle devait. Le paragraphe 323(3) est ainsi libellé :
+Diligence
+323(3) L'administrateur n'encourt pas de responsabilité s'il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[15] L'appelante estime qu'elle devrait échapper à la responsabilité prévue à l'article 323 du fait qu'elle avait laissé à M. Familamiri, en qui elle avait de bonnes raisons de placer sa confiance, le soin de s'occuper de la TPS. L'appelante prétend qu'elle ne devrait pas avoir à répondre de l'omission de la société de verser la TPS, étant donné que la décision d'utiliser la TPS perçue à d'autres fins a été prise par M. Familamiri et qu'il a agi à son insu. Elle soutient que, lorsque l'ARC l'a mise au fait du manquement de la société, celle‑ci était insolvable et ne possédait aucun actif pouvant servir à remédier au manquement.
+[16] Malheureusement, le moyen de défense fondé sur la diligence raisonnable invoqué par l'appelante est voué à l'échec pour les raisons que la Cour d'appel fédérale a énoncées dans l'arrêt R. c. Buckingham[1]. Dans cet arrêt, le juge Mainville a tenu les propos suivants :
+37 [...] je conclus que la norme de soin, de diligence et d'habileté exigée au paragraphe 227.1(3) de la Loi de l'impôt sur le revenu et au paragraphe 323(3) de la Loi sur la taxe d'accise est une norme objective [...]
+38 [...] Par conséquent, une personne nommée administrateur doit activement s'acquitter des devoirs qui s'attachent à sa fonction, et il ne lui sera pas permis de se défendre contre une allégation de malfaisance dans l'exécution de ses obligations en invoquant son inaction [...]
+39 Une norme objective ne signifie toutefois pas qu'il ne doit pas être tenu compte des circonstances propres à un administrateur. Ces circonstances doivent être prises en compte, mais elles doivent être considérées au regard de la norme objective d'une « personne raisonnablement prudente ». [...]
+[Non souligné dans l'original.]
+[17] Dans l'arrêt Buckingham[2], la Cour d'appel fédérale a comparé les dispositions susmentionnées et l'alinéa 122(1)b) de la Loi canadienne sur les sociétés par actions, lequel prévoit que les administrateurs et dirigeants doivent agir « avec le soin, la diligence et la compétence dont ferait preuve, en pareilles circonstances, une personne prudente ». À ce propos, le juge Mainville s'est exprimé ainsi :
+40 L'objectif de l'examen prévu aux paragraphes 227.1(3) de la Loi de l'impôt sur le revenu et 323(3) de la Loi sur la taxe d'accise différera toutefois de celui qu'exige l'alinéa 122(1)b) de la LCSA, car les premières dispositions requièrent que l'administrateur s'acquitte de son obligation de soin, de diligence et d'habileté de manière à prévenir les défauts de versement. Pour invoquer ces moyens de défense, l'administrateur doit par conséquent démontrer qu'il s'est préoccupé des versements requis et qu'il s'est acquitté de son obligation de soin, de diligence et d'habileté afin de prévenir le défaut de la société de verser les montants visés.
+[Non souligné dans l'original.]
+[18] Ainsi, pour faire valoir avec succès le moyen de défense fondé sur la diligence raisonnable, l'administrateur doit démontrer qu'il a pris des mesures concrètes pour prévenir le défaut de la personne morale de verser les sommes en cause. Il ne peut déléguer intégralement cette tâche de surveillance à l'égard de la TPS à un subordonné, comme cela a été fait en l'espèce.
+[19] À l'instruction, l'appelante a reconnu avoir été mise au courant des difficultés financières de la société à la fin de décembre 2005, au moment où M. Familamiri l'a informée qu'un sous‑traitant avait abandonné le chantier du projet Grant pour accepter une offre de travail plus lucrative ailleurs. Elle savait également, à cette époque, qu'elle éprouverait des difficultés à rembourser le prêt à la construction du projet Triumph, puisque quatre des six maisons n'avaient pas trouvé preneur. Vu les circonstances, l'appelante devait prendre des mesures concrètes pour s'assurer que la société puisse respecter ses obligations en matière de perception et de versement de la TPS.
+[20] L'appelante affirme également que, si elle avait été mise au courant des pertes financières subies par la société lors de la vente des maisons en rangée, elle aurait pu se dissocier du projet. Ainsi, elle n'aurait pas eu à assumer la responsabilité du défaut de la société de verser la TPS. À mon avis, cet argument n'a aucun fondement. L'appelante a reconnu avoir personnellement garanti les privilèges de construction pour la société. Si l'appelante avait abandonné le projet Grant, la banque aurait vraisemblablement eu recours à la sûreté qu'elle détenait pour terminer les ventes. La TPS aurait été versée. La banque aurait utilisé une partie du produit des ventes pour obtenir la mainlevée des privilèges de construction. Le cas échéant, l'appelante aurait eu envers la banque une dette égale ou supérieure au montant de la TPS utilisée par la société pour rembourser les prêts à la construction. Contrairement à ce qu'elle prétend, l'appelante ne se serait pas trouvée en meilleure posture si elle avait abandonné le projet. Elle serait devenue débitrice de la banque plutôt que du fisc. L'ARC aurait reçu la TPS perçue en fiducie des acheteurs. Bref, les actes posés par la société ont profité uniquement à l'appelante, car, en permettant le remboursement du financement bancaire, ils l'ont libérée de ses obligations personnelles en tant que garante.
+[21] Lors de sa plaidoirie, l'appelante a attiré mon attention sur quatre décisions[3]. Chacune de ces décisions a précédé l'arrêt Buckingham[4] et appliquait la décision rendue par la Cour d'appel fédérale dans l'arrêt Soper c. Canada[5]. Or, dans l'arrêt Buckingham[6], la Cour d'appel fédérale a confirmé qu'il y avait lieu d'appliquer une norme objective à l'analyse du moyen de défense de la diligence raisonnable invoqué par un administrateur sous le régime du paragraphe 323(3) de la LTA. Cette décision a écarté la norme objective-subjective qui avait été établie antérieurement dans l'arrêt Soper[7].
+[22] Si j'applique la norme objective énoncée dans l'arrêt Buckingham[8], j'arrive à la conclusion que l'appelante, après avoir été mise au fait des difficultés financières de la société vers la fin de 2005 ou le début de 2006, n'a pas agi avec le soin, la diligence et la compétence dont une personne raisonnablement prudente aurait fait preuve pour prévenir le défaut de la société de verser la TPS perçue de ses clients.
+[23] Pour tous ces motifs, l'appel est rejeté.
+Signé à Magog (Québec), ce 12e jour de juillet 2013.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 1er jour d'octobre 2013.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2013 CCI 227
+No DU DOSSIER DE LA COUR : 2011-1130(GST)G
+INTITULÉ : Satpal Kaur c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L'AUDIENCE : Le 15 mai 2013
+MOTIFS DU JUGEMENT : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 12 juillet 2013
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocats de l'intimée :
+Me Selena Sit
+Me Kristian DeJong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : s.o.
+Cabinet :
+Pour l'intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2011 CAF 142.
+[2] Précité, note 1.
+[3] Thomas c. La Reine, 2011 CCI 421; Arsic c. La Reine, 2010 CCI 423; Verret c. La Reine, 2008 CCI 240; Head c. La Reine, 2007 CCI 227.
+[4] Précité, note 1.
+[5] [1998] 1 C.F. 124.
+[6] Précité, note 1.
+[7] Ibidem.
+[8] Ibidem.

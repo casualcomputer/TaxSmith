@@ -1,0 +1,143 @@
+---
+title: "Jolin v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28641/index.do"
+last_modified: "2008-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 275"
+citation2: ""
+neutral_citation: "2008 TCC 275"
+decision_date: "2008-05-02"
+language: "en"
+item_id: "28641"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1138
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:15:34.874000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1d183093ae7d585385c549b056ae247b93e4e7c1c07884a5182238e49a3fed58"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jolin v. M.N.R.
+
+- Citation: 2008 TCC 275
+- Decision date: 2008-05-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1138, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jolin v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-02
+Neutral citation
+2008 TCC 275
+File numbers
+2005-4340(EI)
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Citation: 2008TCC275
+Date: 20080502
+Docket: 2005-4340(EI)
+2005-4341(CPP)
+BETWEEN:
+MARC JOLIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Frederic Morand
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on
+June 12, 2007, in Hamilton, Ontario)
+McArthur J.
+[1] These are appeals from decisions of the Minister of National Revenue under the Employment Insurance Act and the Canada Pension Plan. The issue is whether Guylain Ledoux-Gravel (“Guylain”) was an employee or independent contractor of the Appellant (“Marc”) for the period January 1, 2003 to May 3, 2004. The hearing was conducted in French, in Hamilton, Ontario.
+[2] At the outset, there were three somewhat troubling issues that I will comment on. First, Marc's mother tongue is French, although he has worked and is more at ease using English in southern Ontario as he has done since he was 15 years old. He is now 47. His wife is unilingual English, and he had filed his Notice of Appeal and all correspondence in English, and had asked for an English hearing. However, the Respondent requested a French hearing because his witness, Guylain, is far more fluent in French and would have required an English interpreter. Marc, who is easygoing, and whose first language was French, went along with this format, and I believe explained the proceedings to his wife during the periodic recesses. I believe the Respondent should have requested an interpreter for Guylain rather than requesting that the whole hearing be in French. It is Marc's appeal, not the Respondent's, although I might add I felt privileged to hear it in both official languages.
+[3] My second concern was that counsel for the Respondent requested an adjournment of this hearing, because similar appeals had recently been filed, with similar facts involving the same periods, and the Respondent wanted all appeals to be heard at the same time. The request was denied, rightly. In this regard, Marc stated in his objection that:
+After three years of my life being taken by adjournments and remanding of court dates, not to mention the stress and harassment from Revenue Canada, I completely disagree with an adjournment at this time and I'm anxious to have my side heard on June the 11th, 2007.
+Obviously, each appeal should be heard on its own merits. The workers such as Guylain are all different and not cut from the same pattern, and their circumstances must be heard and considered individually. Having said this, hearing each appeal consecutively by the same judge would probably be most practical.
+[4] A third disturbing factor was that Guylain testified that there were four months during the period in question that he did not work for the Appellant, and that he always contended this to the Minister, yet it was ignored.
+[5] I was favourably impressed with all witnesses. I should mention also that the a witness at the beginning of the hearing, one of Marc's brothers who works in the same manner as Marc, gave some background of a working contractor in the Hamilton area. Marc is a hardworking construction tradesman with limited formal education, but has learned from the school of hard knocks. He has little understanding of paragraph 5(1)(a) of the Act and, of course, has never heard of the commonly referred-to decisions of Wiebe Door Services Ltd. v. M.N.R.[1] and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[2]
+[6] Similarly, Guylain is a pleasant and straightforward worker and at Marc’s invitation, came to Hamilton by bus from Rouyn Noranda at the age of 19, to work and to earn more money. He had been working for three years in northwestern Quebec in restaurants, and doing home renovations, never earning more than $7.00 per hour. He began with Marc at $10.00 per hour which he stated was a huge increase.
+[7] In these appeals, Guylain was supported by the Respondent, and Marc felt somewhat isolated, in the sense that he had no similar assistance. I believe Guylain knew the fundamental or legal differences between a contractor and an employee. I found both witnesses basically honest. They both obviously coloured their testimony to meet the present-day needs. When asked, Marc described the difference between an employee and a contractor primarily as whether or not the usual employee deductions were taken from the worker's paycheque, which includes income tax, employment insurance premiums, Canada Pension Plan contributions, Worker's Compensation premiums, etcetera. He further stated that the whole construction industry in southern Ontario is based on all workers being contractors ‑ I use that in the sense of independent contractors ‑ in circumstances as in the present appeals, and that to find differently would upset the whole industry.
+[8] Assumptions of fact taken from the Reply to the Notice of Appeal, with my comments, include the following. Items (a) to (g) are accurate.
+(a) The Appellant, operating as M & M Carpentry, was a subcontractor operating a business involved in house framing in the construction industry.
+(b) Marc, as a subcontractor, was involved in working for Penco as a contractor, constructing a 300-unit senior citizens' home.
+(c) The worker was hired by the Appellant in August of 2002.
+(d) The worker worked for the Appellant as a carpenter/framer as well as doing various other construction tasks.
+(e) The worker's duties included framing, roofing, flooring, dry walling, bringing materials, equipment and supplies to other workers.
+(f) The worker worked on the construction sites where the Appellant was a subcontractor to a general contractor.
+(g) The worker had no experience when hired and the Appellant helped him to perform his tasks through job training.
+Item (g) is substantially accurate, although Guylain had worked in house renovations in the past, and had some smaller tools.
+(h) The Appellant established and controlled the worker's schedule. He kept a precise log of the worker's hours.
+Marc certainly kept a precise log and I will refer to control later in these reasons.
+(i) The worker worked for the Appellant on a fulltime basis, usually 35 to 40 hours per week and sometimes more than 40 hours per week.
+This was accurate for the period, except for the four months where Guylain testified, and Marc agreed, that he did not work for Marc.
+(j) The worker worked under the direction and direct supervision of the Appellant or his assistant.
+For the most part, that is accurate.
+(k) The worker provided some hand tools and the Appellant provided all major tools, equipment, materials.
+Again, that is partly accurate. I was unable to determine from the evidence that the Appellant provided major tools. He owned a forklift but there was no evidence as to who drove it. Guylain did not provide any materials, although he had most of his small-tool equipment. The following two items are accurate:
+(l) The worker received a salary based on an hourly wage which was determined by the Appellant.
+(m) The worker started out being paid $10.00 per hour for two months, then was increased to $12.00 to June 2003, then he received $13.00, to approximately mid‑April 2004, at which time he was increased to $14.00 per hour for his last two weeks.
+(n) The worker was paid weekly by cheque.
+In fact, Guylain was paid bi-weekly. The following two items, I shall refer to later.
+(o) The Appellant had the right to control the worker and the accomplishment of his tasks and responsibilities.
+(p) The path of the worker was fully integrated in the operations of the Appellant.
+[9] Guylain, through mutual friends, was invited by Marc from Rouyn Noranda to work on construction in southern Ontario, in anticipation of earning more than $7.00 an hour. He took a bus from Rouyn Noranda to Toronto in August 2002, stayed with a relative overnight in Toronto, took an early-morning bus to Oakville where he was picked up by Marc and driven to the work site. He began to work that same morning framing a 300-unit senior citizens' residence. He had a few small tools and limited experience.
+[10] Other workers with Marc and particularly Marc's brother Paul, took Guylain under their wing and showed him the ropes. He was well-received and learned quickly. He lived in Marc's home the first month and then he found his own place when he was able to afford it. For over a year, he travelled to the work site with another worker, Charles, leaving home at 7:00 a.m., returning after 5:00 p.m. each day. Over the months in 2002 and 2003, he gained experience, bought his own tools and became more autonomous. He described it “debrouillard”. Marc was pleased with his ability, as were his fellow workers.
+[11] Marc took on jobs from the main contractor, Penco, an international construction company for at least from August 2002 to May 2003. He explained that he would agree perhaps to frame and do other work for an estimated figure, such as $20,000.00 or so, depending on the size of the job, within a certain time period. He and his brothers would invite or hire workers to participate in that contract, although clearly in Guylain's instance, Marc and his brothers were the bosses. They told him where to work, what to do, how to do it and paid him a fixed hourly wage every two weeks.
+[12] With the Wiebe Door test in mind, together with the Supreme Court of Canada decision in Sagaz, I will make the following comments. Marc had control of Guylain, although this diminished as the months turned into a year in August or September 2003. Marc got the work for the first nine months through Penco and then through house building contractors. He directed Guylain where to go. His brother Paul kept track of Guylain's hours, paid him every two weeks and told him what to do. As Guylain became more experienced, he could work on his own with his own small tools, such as a hammer, skill saw, crow bar, screwdriver, measuring tape, etcetera. The control test favours the Respondent. Further, the profit or loss test also favours the Respondent. Guylain was paid a fixed wage for every hour he worked. He was not paid for performance or off hours he did not work. The tools probably favours Marc's position. With respect to integration, Guylain was part of a team, and did not work as an individual independent contractor, particularly during the first year, August 2002 to September or October, 2003, in association with Marc.
+[13] As the Sagaz decision indicates, an important question to ask in cases such as this one is “whose business was it?”. It certainly was not Guylain's business. His English and finances were limited. He relied on Marc and his brother or brothers. Also, “where are the two men now”? Marc continues to work hard in the Hamilton area construction business. Because of his uncertainty as to employee versus independent contractor status, he no longer hires workers such as he did in the past and works on his own. This is rather unfortunate. Guylain has returned to northwestern Quebec for personal reasons, where he has received accounting training. I believe he works in the mining business in Baie Comeau, Quebec, and has his own small business. There appears to be little or no animosity between Marc and Guylain, to their credit.
+[14] At the conclusion of the Respondent's submissions, I stated that I would allow the appeal, but only to the extent that Guylain was an employee of the Appellant from January 1, 2003 to October 31, 2003. He was not an employee from November 1, 2003 to May 3, 2004, for the following reasons.
+[15] He did not work for the Appellant from at least December 2003 to February 28, 2004. There was evidence, I believe from both parties, that he did not work for Marc for four months. For that reason, and also considering that Guylain became more autonomous, I include the month of November.
+[16] I find further that when Guylain came back to the Appellant in March 2004, he was more of an independent contractor. Unfortunately, he had declared bankruptcy, and he travelled to the work site by bus and foot, sometimes arriving at 11:00 in the morning, or sometimes not at all. This did not seem to concern Marc who felt that Guylain could come and go as he pleased. Further, at that time he had his own tools and worked without instruction, although he had difficulty reading architectural plans and needed some direction. He got paid for the hours he worked, without deduction. No more, no less.
+[17] In conclusion, the appeals are allowed to reflect that the worker was engaged by the Appellant in insurable and pensionable employment within the meaning of the Act and the Plan, but only for the period January 1, 2003 to October 31, 2003, and was not in insurable or pensionable employment for the period November 1, 2003 to May 3, 2004.
+Signed at Ottawa, Canada, this 2nd day of May, 2008.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2008TCC275
+COURT FILE NO.: 2005-4340(EI) and 2005-4341(CPP)
+STYLE OF CAUSE: MARC JOLIN and MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: June 12, 2007
+REASONS FOR JUDGEMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: June 15, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Frederic Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 87 DTC 5025.
+[2] [2001] 2 S.C.R. 983.

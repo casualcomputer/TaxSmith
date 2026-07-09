@@ -1,0 +1,115 @@
+Title: Bordeleau v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28071/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-525-28071-bordeleau-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-08-12
+
+# Bordeleau v. M.N.R.
+
+- Citation: 2003 TCC 525
+- Decision date: 2003-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1591, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bordeleau v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-12
+Neutral citation
+2003 TCC 525
+File numbers
+2002-1469(EI)
+Judges and Taxing Officers
+Jerome F. Somers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002‑1469(EI)
+BETWEEN:
+DENIS BORDELEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 17, 2003, at Jonquière, Quebec
+Before:
+The Honourable Deputy Judge J. F. Somers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie‑Claude Landry
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is upheld in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of August 2003.
+"J. F. Somers"
+Somers, D.J.
+Translation certified true
+on this 15th day of March 2004.
+Shulamit Day‑Savage, Translator
+Citation: 2003TCC525
+Date: 20030812
+Docket: 2002‑1469(EI)
+BETWEEN:
+DENIS BORDELEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Somers, D.J.
+[1] This appeal was heard at Jonquière, Quebec, on June 17, 2003.
+[2] By letter dated March 27, 2002, the Minister of National Revenue (the "Minister") notified the Appellant of his decision by which he determined that there were 245 hours of insurable employment as a result of his employment with Gestion D.D.G. Inc., the Payor, during the period from July 3 to August 4, 2001.
+[3] The burden of proof rests on the Appellant. He must establish, on a balance of probabilities, that the Minister’s decision was unfounded in fact and in law. Each case stands on its own merits.
+[4] In making his decision, the Minister relied on the following presumptions of fact which were admitted or denied by the Appellant:
+(a) The Payor is a business that cuts brush for Abitibi Consol and performs chemical spraying for Hydro‑Québec. (admitted)
+(b) During the period at issue, the Appellant was hired as a superintendent on one of the Payor’s job sites. (admitted)
+(c) The Appellant’s work involved cleaning the four or five trailers where the Payor’s workers lived. He swept, washed the floors, and cleaned the bathrooms. On occasion the Appellant checked the Payor’s generators. (denied)
+(d) The workers had 20 days of continuous work in the job site, followed by eight days of rest. (denied)
+(e) The Appellant worked for remuneration of $650 per week. (admitted)
+(f) According to the Payor, the Appellant could work eight or nine hours per day. He never exceeded 10 hours of work per day. (denied)
+(g) The Appellant did not fill out any time sheets for the Payor. (admitted)
+(h) During the period in question, the Appellant worked on the job site for 25 days. (admitted)
+(i) On August 27, 2001, the Payor issued a record of employment to the Appellant, for the period from July 3 to August 4, 2001, indicating that he had worked 245 hours during this period. (denied)
+(j) The Appellant claims that, during the period at issue, he worked 330 hours for the Payor, whereas the Payor states that he accumulated 245 hours of work during the same period. (admitted)
+[5] The Payor is a business that cut brush for Abitibi Consol and conducted chemical spraying for Hydro‑Québec.
+[6] The Appellant admitted that he was hired as a superintendent on one of the Payor’s job sites during the period at issue.
+[7] According to the Appellant’s testimony, he was hired to clean the five trailers at the beginning of his job and two more later. The workers lived in the trailers.
+[8] The Appellant was responsible for sweeping and washing the floors and cleaning the bathrooms. He says, he was an assistant cook and had to go get water at the airport with the Payor’s truck.
+[9] According to his testimony, he had to work 13 hours per day for 21 consecutive days in order to receive eight days off. According to him, he therefore worked 330 hours during the period at issue.
+[10] The Appellant submitted a list of hours worked during the period at issue as Exhibit A‑1.
+[11] Under cross‑examination, he admitted that his tasks did not involve being an assistant cook but that the cook wanted his help in this capacity.
+[12] The Appellant recognized that eight to ten hours per day was sufficient to accomplish the duties listed in subparagraph 5(c) of the Reply to the Notice of Appeal.
+[13] He explained that two or three days after he arrived on the field, the cook asked him to be his assistant cook, although Mr. Gagnon, his boss, was not on site when the request was made.
+[14] The 330 hours calculated by the Appellant included the hours worked as assistant cook. He recognized that according to the agreement he was required to work eight to nine hours per day at a salary of $650 per week.
+[15] On August 27, 2001, the Payor issued a record of employment (Exhibit I‑1) to the Appellant for the period from July 3 to August 4, 2001, indicating that he had worked for 245 hours during the period at issue.
+[16] During his testimony, Marc Girouard, the Payor’s comptroller, stated that he had sent a copy of the record of employment to the Appellant’s home, on Barrette Street in Jonquière, Quebec. The Appellant denies having received a copy of the record of employment.
+[17] He explained that the Appellant, as the result of an agreement with the Payor, was hired and that his duties were those described in subparagraph 5(c) of the Reply to the Notice of Appeal. He added that the salary was set at $650 per week plus 4% vacation pay.
+[18] He denied that the Appellant’s duties involved being assistant cook. The Payor’s foreman, Normand Desbiens, who was on the job site during the period in question, filled out the Appellant’s time sheets (Exhibit I‑2) entering 245 hours worked.
+[19] In rebuttal, the Appellant stated that he had seen Norman Desbiens only on the first three days on the job site. He did not believe that Mr. Desbiens was his foreman. He instead thought his foreman was a certain Jean‑Marc, whose family name he does not know.
+[20] The Appellant recognized that he was satisfied with the $650 per week salary even as assistant cook.
+[21] The number of hours worked by the Appellant during the period at issue must be determined.
+[22] The Appellant admitted that he was hired to carry out the duties described in subparagraph 5(e) of the Reply to the Notice of Appeal at a salary of $650 per week.
+[23] The comptroller had not been advised that the Appellant was to perform duties other than those already described.
+[24] The cook did not have the authority to hire the Appellant as assistant cook. This additional duty involved additional hours and was counter to the agreement that had been reached.
+[25] Normand Desbiens, described as foreman by the comptroller, prepared the Appellant’s time sheets, setting the hours at 245.
+[26] Subsection 10(1) of the Employment Insurance Regulations reads as follows:
+Where a person's earnings are not paid on an hourly basis but the employer provides evidence of the number of hours that the person actually worked in the period of employment and for which the person was remunerated, the person is deemed to have worked that number of hours in insurable employment.
+[27] The burden of proof was on the Appellant: he had to prove that he had worked 330 hours and he did not do so.
+[28] During the period at issue, the Appellant accumulated 245 hours of insurable employment, within the meaning of the Act, with the Payor.
+[29] The appeal is dismissed and the decision of the Minister is upheld.
+Signed at Ottawa, Canada, this 12th day of August, 2003.
+"J. F. Somers"
+Somers, D.J.
+Translation certified true
+on this 15th day of March 2004.
+Shulamit Day‑Savage, Translator

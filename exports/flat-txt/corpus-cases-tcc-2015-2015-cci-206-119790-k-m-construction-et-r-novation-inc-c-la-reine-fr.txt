@@ -1,0 +1,152 @@
+Title: K.M. Construction et Rénovation inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/119790/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-206-119790-k-m-construction-et-r-novation-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-09-08
+
+# K.M. Construction et Rénovation inc. c. La Reine
+
+- Citation: 2015 CCI 206
+- Decision date: 2015-09-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2675, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+K.M. Construction et Rénovation inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-09-08
+Référence neutre
+2015 CCI 206
+Numéro de dossier
+2013-3556(GST)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-3556(GST)I
+ENTRE :
+K.M. CONSTRUCTION ET RÉNOVATION INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 29 mai 2015, à Montréal (Québec).
+Devant : L'honorable juge en chef adjointe Lucie Lamarre
+Comparutions :
+Représentant de l'appelante :
+Moheub Ismail
+Avocat de l'intimée :
+Me Bernard Duchesneau
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 20 novembre 2012, est rejeté selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 8e jour de septembre 2015.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Référence : 2015 CCI 206
+Date : 20150908
+Dossier : 2013-3556(GST)I
+ENTRE :
+K.M. CONSTRUCTION ET RÉNOVATION INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge en chef adjointe Lamarre [1] L'appelante en appelle d'une cotisation établie par le ministre du Revenu du Québec (ministre) en vertu de la Loi sur la taxe d'accise (LTA) en date du 20 novembre 2012, par laquelle on lui réclame un montant de 14 082,56 $ de taxe sur les produits et services (TPS) plus intérêts. Cette cotisation résulte de la vente d'un immeuble situé aux 2560 à 2580, avenue Georges-V, à Montréal, à l'actionnaire majoritaire de l'appelante, M. Moheub Ismail, et à sa conjointe pour la somme totale de 510 000 $, taxes incluses.
+[2] Il n'est pas contesté que, puisque l'appelante a vendu la propriété à des personnes avec lesquelles elle a un lien de dépendance, la disposition devait se faire à la juste valeur marchande (JVM) aux fins de la perception de la TPS, aux termes de l'article 155 de la LTA.
+[3] En établissant la cotisation, le ministre a considéré que la juste valeur marchande de la propriété au moment de la vente, soit le 6 octobre 2010, était au moins équivalente à l'évaluation municipale, laquelle a été établie par la ville à un montant de 575 000 $ (taxes incluses) au 1er juillet 2009.
+[4] Cette valeur excède donc de 65 000 $ le produit de la disposition établi par l'appelante.
+[5] M. Ismail a été le seul à témoigner pour l'appelante. Il conteste l'hypothèse du ministre voulant que la JVM soit équivalente à l'évaluation municipale.
+[6] Il a expliqué qu'il a établi le produit de disposition à 510 000 $, soit l'évaluation qui avait été retenue par la banque au moment de l’obtention du financement pour la construction de l'immeuble, le 10 juillet 2009.
+[7] La banque avait alors octroyé un financement en évaluant la garantie hypothécaire à 510 000 $ (pièce A‑1). La « convention de financement hypothèque immobilière » prévoit, dans ses termes et conditions, que la banque consent un prêt qui doit être garanti par une hypothèque immobilière sur l'immeuble, sur les loyers à venir provenant de l'immeuble et sur les indemnités d'assurance qui couvrent ces loyers (pièce A‑1, page 2, 1re condition). À la lecture de ce document, on n'y trouve aucune indication que la valeur attribuée à l'immeuble comme telle est de 510 000 $.
+[8] L'immeuble a été construit en un an et vendu par l'appelante à M. Ismail et à sa conjointe le 6 octobre 2010 pour la somme de 510 000 $ (pièce A‑2, et pièce I‑1, onglet 1).
+[9] M. Daniel Mann, évaluateur pour la ville de Montréal, a témoigné pour le compte de l'intimée. Il a expliqué que la ville avait reçu une demande de permis pour la construction de l'immeuble, lequel a été octroyé le 28 août 2009.
+[10] Un inspecteur de la ville s'est présenté le 7 avril 2011 pour constater la fin de la construction de l'immeuble et faire un rapport technique.
+[11] M. Mann a ensuite procédé à l'évaluation municipale de cette propriété, à partir du rapport d'inspection. Il dit avoir ensuite analysé 11 ventes comparables de propriétés construites entre 2003 et 2009. Ces ventes s'établissaient entre 180 $ le pied carré et 242 $ le pied carré. Il a retenu un montant de 213 $ le pied carré pour l'immeuble en litige (par opposition à celui de 188 $ le pied carré retenu par l'appelante). Il dit avoir pris la valeur inférieure de 213 $ en tenant compte de ventes d'immeubles situés dans des endroits comparables.
+[12] La propriété en question ici est d'une superficie de 250 m2 et est située en face de raffineries qui ont des réservoirs servant à l’entreposage d'huile ou de gaz.
+[13] M. Mann a retenu plus particulièrement deux ventes d'immeubles qui sont situés à proximité de la rue Notre‑Dame Est à Montréal, dans une zone industrielle portuaire et ferroviaire, où il y a un passage fréquent de véhicules lourds.
+[14] Ces deux immeubles ont été vendus en novembre 2008, avaient une superficie de 182 m2 et se sont vendus 228 $ le pied carré.
+[15] Le certificat d'évaluation de la propriété en litige au rôle foncier pour les années 2011 à 2013 a été déposé le 15 septembre 2011, avait effet à partir du 1er mai 2011, et indiquait une valeur totale de 575 000 $ établie au 1er juillet 2009 (pièce I‑2).
+[16] Selon ce certificat d'évaluation, cette valeur correspond à la valeur réelle, laquelle valeur est définie comme étant le prix de vente le plus probable sur un marché libre et ouvert à la concurrence, aux termes de l'article 43 de la Loi sur la fiscalité municipale, RLRQ, ch. F-2.1 (pièce I‑2, 4e page de la fin).
+[17] De son côté, M. Ismail n'a pas contesté cette évaluation municipale et a payé la taxe foncière en conséquence.
+[18] Par ailleurs, M. Ismail a déposé en preuve l'évaluation municipale d'une autre propriété qu'il possède pour tenter de démontrer que l'évaluation municipale en 2015 surévalue cette propriété par rapport à l'évaluation qu'il a lui‑même fait faire pour cette autre propriété (pièce A‑8).
+Dispositions législatives sur lesquelles s'appuie l'intimée LTA
+Fourniture entre personnes liées
+155. (1) Pour l'application de la présente partie, la contrepartie d'une fourniture effectuée à titre gratuit ou pour une valeur inférieure à la juste valeur marchande, au moment de la fourniture, du bien ou du service entre personnes ayant entre elles un lien de dépendance et dont l'acquéreur n'est pas un inscrit qui acquiert le bien ou le service pour le consommer, l'utiliser ou le fournir exclusivement dans le cadre de ses activités commerciales est réputée égale à la juste valeur marchande du bien ou du service au moment de la fourniture, et payée, relativement à la fourniture à titre gratuit, à ce moment.
+Présomption de validité
+299. (4) Sous réserve d'une nouvelle cotisation et d'une annulation prononcée lors d'une opposition ou d'un appel fait selon la présente partie, une cotisation est réputée valide et exécutoire malgré les erreurs, vices de forme ou omissions dans la cotisation ou dans une procédure y afférent en vertu de la présente partie.
+Loi sur la fiscalité municipale
+42. Le rôle indique la valeur de chaque unité d'évaluation, sur la base de sa valeur réelle.
+Les valeurs inscrites au rôle d'une municipalité locale doivent, dans l'ensemble, tendre à représenter une même proportion des valeurs réelles des unités d'évaluation.
+Aucune requête ou action en cassation ou en nullité ne peut être intentée à l'égard du rôle ou de l'une de ses inscriptions pour le motif d'une contravention au deuxième alinéa.
+43. La valeur réelle d'une unité d'évaluation est sa valeur d'échange sur un marché libre et ouvert à la concurrence, soit le prix le plus probable qui peut être payé lors d'une vente de gré à gré dans les conditions suivantes :
+10 le vendeur et l'acheteur désirent respectivement vendre et acheter l'unité d'évaluation, mais n'y sont pas obligés; et
+20 le vendeur et l'acheteur sont raisonnablement informés de l'état de l'unité d'évaluation, de l'utilisation qui peut le plus probablement en être faite et des conditions du marché immobilier.
+Arguments des parties [19] L'intimée est d'avis que l'évaluation sur laquelle s'est fondée la banque pour octroyer le financement pour la construction de l'immeuble ne peut servir à établir la JVM de la propriété une fois l’immeuble construit. Cet argument serait fondé sur le fait que la banque aurait eu intérêt à ne pas surévaluer la propriété, et ce, afin de limiter le financement.
+[20] L'intimée reproche à l'appelante de ne pas avoir produit une évaluation, une fois la construction terminée. Elle fait remarquer également que l'appelante n'a pas contesté l'évaluation municipale. L'intimée rappelle que, selon le témoignage de M. Mann, la ville aurait procédé à une équilibration de la valeur de la propriété en 2012, faisant en sorte que la valeur de la propriété aurait augmenté de 9 % entre juillet 2009 et juillet 2012.
+[21] Selon l'avocat de l'intimée, la valeur établie par M. Mann au 1er juillet 2009, et retenue comme étant la JVM au moment de la disposition le 6 octobre 2010, est avantageuse pour l'appelante, puisque, selon le facteur d'équilibration, cette valeur aurait normalement augmenté entre le 1er juillet 2009 et le 6 octobre 2010. Selon lui, la valeur retenue est tout à fait raisonnable, puisqu'elle se retrouvait dans le bas de la fourchette des ventes comparables.
+[22] Ainsi, l'intimée soutient que l'appelante n'a pas, par sa preuve, renversé la présomption de validité de la cotisation énoncée au paragraphe 299(4) de la LTA. Il s'appuie sur une cause de la Cour du Québec, Pennino c. Québec (Sous‑ministre du Revenu), 2008 QCCQ 7987, pour soutenir que la meilleure preuve pour renverser la présomption de validité d'une valeur inscrite au rôle provient généralement d'experts en matière d'évaluation (l'intimée se réfère également à Communauté urbaine de Montréal c. 150528 Canada Inc., 1998 CanLII 12503 (QCCA) et à St‑Georges c. Québec (Sous‑ministre du Revenu), 2007 QCCA 1442).
+[23] Pour l'appelante, l'évaluation de la ville n'est pas objective puisqu'elle a intérêt à ce qu’elle soit plus élevée aux fins de perception des taxes foncières.
+Analyse [24] La seule question en litige est celle de la juste valeur marchande de la propriété au 6 octobre 2010. On trouve la définition de JVM, telle qu'elle a été adoptée par les tribunaux, dans Henderson, succession c. Canada, [1973] A.C.F. no 800 (QL) au paragraphe 20, 73 DTC 5471 (angl.) à la page 5476). Le Juge Cattanach s'exprime ainsi :
+La Loi ne donne aucune définition de l’expression « juste valeur marchande »; celle‑ci a été définie de diverses façons, généralement selon ce qu’avait à l’esprit la personne cherchant à formuler la définition. [J]e ne crois pas nécessaire d’essayer de donner une définition précise de cette expression telle qu’employée dans la Loi; il suffit, me semble‑t‑il, de dire qu’il y a lieu de donner à ces mots leur sens ordinaire. Dans son sens courant, me semble‑t‑il, cette expression désigne le prix le plus élevé que le propriétaire d’un bien peut raisonnablement s’attendre à en tirer s’il le vend de façon normale et dans le cours ordinaire des affaires, le marché n’étant pas soumis à des pressions inhabituelles et étant constitué d’acheteurs disposés à acheter et des [sic] vendeurs disposés à vendre, qui n’ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d’acheter ou de vendre. J’ajouterais que cet exposé succinct de mon point de vue sur le sens à donner à l’expression « juste valeur marchande » comprend ce que j’estime être l’élément essentiel, soit un marché libre de toutes restrictions, où le prix est établi par le jeu de la loi de l’offre et de la demande entre des acheteurs et des vendeurs avertis et désireux d’acheter et de vendre. […]
+[25] Bien que cette définition ait été proposée dans le cadre de l’application de la Loi fédérale sur les droits successoraux, S.R.C. 1952, ch. 89, elle a été reprise plusieurs fois par les juges de notre Cour, y compris lorsque la JVM d’un bien immobilier était en cause (voir notamment Qureshi c. La Reine, 2006 CCI 485 (Juge en chef Bowman) au paragraphe 15).
+[26] Cette définition se rapproche également sensiblement de la définition de valeur réelle dans la Loi sur la fiscalité municipale.
+[27] Il ressort de la jurisprudence que tant le montant du prêt obtenu garanti par hypothèque que l'évaluation municipale peuvent servir d'indicateurs dans l'établissement de la JVM (voir Dufour c. La Reine, 2003 CCI 685; Beaudry c. La Reine, 2003 CCI 464).
+[28] Dans certains cas, on a constaté que la somme prêtée par les institutions financières est plus basse que la valeur d'un immeuble commercial (Descormiers c. La Reine, 1999 CanLII 246 (CCI).
+[29] Dans d'autres cas, on a jugé que la valeur municipale est généralement différente du prix auquel une propriété sera vendue sur le marché libre (Somers c. La Reine, 2008 CCI 239; Chartrand c. La Reine, 2010 CCI 92).
+[30] Dans d'autres situations, on a jugé que les évaluations municipales peuvent avoir une valeur probante douteuse si l’évaluateur n'est pas appelé à témoigner (Stafford, Stafford & Jakeman c. Canada, [1995] A.C.I. no 89 (QL)).
+[31] Le fait de ne pas contester l'évaluation municipale a aussi été considéré comme laissant croire que le montant établi selon l'évaluation municipale n'était pas exagéré (Beaudry, précité, paragraphe 49).
+[32] Par ailleurs, on a déjà mentionné que le fait que les évaluations municipales ne soient pas faites annuellement et le fait qu'elles soient faites par des évaluateurs qui ne sont pas nécessairement des évaluateurs agréés faisaient en sorte que ce genre d'évaluation n'était pas convenable pour déterminer ce que le bien vaudrait dans un marché de pleine concurrence (Arseneau c. La Reine, 2004 CCI 739).
+[33] Ainsi, notre cour a déjà établi que le contribuable ne pouvait s'appuyer uniquement sur une évaluation municipale pour prouver prima facie que la valeur supposée par le ministre en établissant la cotisation était différente de la JVM (Truong c. La Reine, 2011 CCI 380). Dans cette cause, l'évaluation municipale établissait la valeur de la propriété un an et demi avant la date du transfert de la propriété. Toutefois, dans St‑Denis c. La Reine, 2013 CCI 179 (confirmé par la Cour d'appel fédérale, 2014 CAF 217), la cour a retenu la JVM établie par le ministre au moyen d'une évaluation municipale, puisque le contribuable n'avait présenté aucune preuve contraire. Le juge en chef Rip (tel était alors son titre), s'exprimait ainsi aux paragraphes 44 et 45 :
+44 Il est bien établi que l'évaluation municipale, bien que pertinente dans l'évaluation de la juste valeur marchande d'une propriété, n'est pas représentative, à elle seule, de la juste valeur marchande de cette propriété. C'est en effet la conclusion à laquelle en sont venus les juges Campbell et Webb dans les affaires Truong v. Canada, 2011 D.T.C. 1275, au para. 27 et Somers c. Canada, [2008] A.C.I. no 217 (QL), au para. 38, respectivement. Cependant, l'évaluation des impôts fonciers peut être acceptée comme faisant partie […] d'un certain nombre d'indicateurs de la juste valeur marchande d'un bien (Truong, précitée, au para. 27).
+45 Or, l'appelant n'a avancé aucune preuve afin de se décharger du fardeau qu'il avait de démontrer que l'évaluation de la juste valeur marchande de la Propriété faite par l'intimée est erronée (Voir, par exemple, Truong, précitée, au para. 27 et Côté-Sicé c. Canada, [1997] A.C.I. no 1363 (QL), au para. 8). Par conséquent, je dois accepter la position du Ministre selon laquelle la juste valeur marchande de la Propriété au moment du transfert était de 161 400 $.
+[34] Il revient donc à l'appelante de démolir l'hypothèse du ministre quant à la JVM de la propriété, et pour ce faire elle doit présenter des éléments de preuve à cet égard.
+[35] En l'instance, M. Ismail a soumis en preuve le document provenant de l'institution financière qui lui a octroyé un prêt et établissant le montant de la garantie hypothécaire à 510 000 $.
+[36] Aucun expert n'est toutefois venu expliquer la base de l'évaluation établie par l'institution financière.
+[37] De son côté, l'intimée a fait témoigner l'évaluateur de la ville, qui a expliqué la façon dont il avait procédé pour en arriver à la valeur. Il avait examiné plusieurs ventes comparables et en a retenu deux pouvant s'apparenter à notre propriété.
+[38] Dans le cas particulier qui nous occupe, l'évaluation municipale a été faite en 2011 et reflétait la valeur au rôle en 2009. Cette valeur a ensuite fait l'objet, en 2012, d'une équilibration supposant une augmentation de 9 % entre 2009 et 2012. La propriété a été vendue en 2010.
+[39] L'un des éléments soulevés par la jurisprudence pour écarter l'évaluation municipale est que cette dernière n'est pas concomitante avec le moment où l'on tente d'établir la JVM.
+[40] À mon avis, et après mûre réflexion, je crois que l'appelant n'a pas apporté une preuve suffisante pour démolir l'hypothèse du ministre voulant que la JVM soit établie au montant de l'évaluation municipale, soit au 1er juillet 2009.
+[41] Aucun expert n'est venu appuyer la thèse voulant que l'évaluation de l'institution financière aux fins du financement de la construction de l’immeuble soit équivalente à la JVM de la propriété, une fois l’immeuble construit, au moment de la disposition de cette propriété.
+[42] M. Ismail a déposé en preuve une évaluation qu'il a fait faire par des évaluateurs agréés sur une autre propriété, démontrant que la JVM de celle-ci était inférieure à l'évaluation municipale en 2015 (pièce A‑8). Malheureusement pour l'appelante, je suis d'avis que ceci n'aide pas sa cause pour ce qui est de la propriété en litige. Cette évaluation ne concerne ni la propriété ni l'année en litige. Je ne suis pas en mesure d'établir, sans l'aide d'un témoin ayant une certaine expertise dans le domaine, qu’une évaluation par des évaluateurs agréés aurait donné une JVM inférieure à l'évaluation municipale de la propriété en question en 2009.
+[43] De plus, après avoir revu la preuve, je considère que l'intimée a fait la démonstration, par le témoignage de l'évaluateur de la ville, que la valeur attribuée s'apparentait à la JVM de la propriété au moment de la vente. De fait, j'estime que cette évaluation a été faite de façon suffisamment contemporaine, en considérant des ventes qui s'apparentaient suffisamment à la propriété en question. Le fait que M. Ismail ait tenté de vendre, sans succès, sa propriété depuis 2013 ne peut affecter la valeur de la propriété en 2009. Il y a trop de facteurs qui peuvent entrer en ligne de compte sur une période de quatre ans.
+[44] Par ailleurs, la valeur établie en 2009 aurait fait l'objet d'une équilibration en 2012, établissant une augmentation de la valeur de 9 % entre 2009 et 2012. La valeur de 575 000 $ retenue par la ville en juillet 2009 et attribuée par l'intimée à la propriété à la date du transfert en 2010 serait donc avantageuse pour l'appelante.
+[45] Dans les circonstances, j'estime que l'appelante n'a pas apporté de preuve suffisante pour démolir l'hypothèse du ministre selon laquelle la JVM de la propriété s'établissait à 575 000 $ au moment de la disposition.
+[46] L'appel est donc rejeté.
+Signé à Ottawa, Canada, ce 8e jour de septembre 2015.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+RÉFÉRENCE :
+2015 CCI 206
+Nº DU DOSSIER DE LA COUR :
+2013-3556(GST)I
+INTITULÉ DE LA CAUSE :
+K.M. CONSTRUCTION ET RÉNOVATION INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 29 mai 2015
+MOTIFS DE JUGEMENT PAR :
+L'hon. juge en chef adjointe Lucie Lamarre
+DATE DU JUGEMENT :
+le 8 septembre 2015
+COMPARUTIONS :
+Représentant de l'appelante :
+Moheub Ismail
+Avocat de l'intimée :
+Me Bernard Duchesneau
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

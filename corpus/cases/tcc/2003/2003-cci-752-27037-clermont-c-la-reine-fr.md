@@ -1,0 +1,183 @@
+---
+title: "Clermont c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27037/index.do"
+last_modified: "2003-10-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 752"
+citation2: ""
+neutral_citation: "2003 CCI 752"
+decision_date: "2003-10-21"
+language: "fr"
+item_id: "27037"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 617
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:37:16.117000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "da35c0cec7e58aba182df391f89c480e43bc21ab59d606e641fc9d55c257a231"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Clermont c. La Reine
+
+- Citation: 2003 CCI 752
+- Decision date: 2003-10-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 617, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clermont c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-21
+Référence neutre
+2003 CCI 752
+Numéro de dossier
+2003-397(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-397(IT)I
+ENTRE :
+SERGE CLERMONT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 6 août 2003 à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimée :
+Mélanie Bélec (stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu ( « Loi » ) pour les années d'imposition 1997, 1998 et 1999 sont rejetés pour cause de nullité aux termes du paragraphe 169(1) de la Loi.
+L'appel de la cotisation établie en vertu de la Loi pour l'année d'imposition 2000 est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour d'octobre 2003.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2003CCI752
+Date : 20031021
+Dossier : 2003-397(IT)I
+ENTRE :
+SERGE CLERMONT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s'agit d'appels selon la procédure informelle de cotisations établies par le ministre du Revenu national ( « Ministre » ) en vertu de la Loi de l'impôt sur le revenu ( « Loi » ) pour les années d'imposition 1997, 1998, 1999 et 2000.
+[2] D'emblée, les appels pour les années d'imposition 1997, 1998 et 1999 sont rejetés pour cause de nullité aux termes du paragraphe 169(1) de la Loi, puisque l'appelant reconnaît qu'il n'a pas produit d'avis d'opposition pour chacune de ces années.
+[3] Pour ce qui est de l'année 2000, l'appelant a réclamé une déduction au montant de 18 920 $ à titre de pension alimentaire, laquelle lui a été refusée par le Ministre.
+[4] Les faits peuvent se résumer ainsi. Par jugement de divorce, en date du 9 février 1990, la Cour Supérieure du Québec du district de Montréal entérinait la convention accessoire à la séparation et au divorce intervenue entre l'appelant et son ex-conjointe, Nicole Bourque, en date du 5 décembre 1989. Par cette convention, l'appelant s'engageait à payer à son ex-conjointe une pension alimentaire de 75 $ par semaine pour le bénéfice de cette dernière et celui de ses trois enfants mineurs, laquelle pension devait être indexée annuellement (pièce I-3).
+[5] Le 27 novembre 1998, l'appelant et son ex-conjointe ont signé une entente par laquelle l'appelant s'engageait à verser à cette dernière une pension alimentaire de 60 $ par semaine pour le bénéfice de ses deux enfants mineurs uniquement (le troisième étant devenu majeur). Les parties s'entendaient par la même occasion pour que la pension alimentaire ne soit plus indexée annuellement (pièce I-1). Cette entente n'a pas été homologuée par un tribunal. Il semble également que tous deux aient convenu que la pension alimentaire ne serait plus imposable pour l'ex-conjointe et plus déductible pour l'appelant (voir l'avis d'opposition logé par l'appelant en date du 3 juillet 2002 pour l'année 2000, pièce I-4).
+[6] Au cours de l'été 1999, l'appelant a cessé de verser la pension alimentaire à son ex-conjointe. Celle-ci s'est alors prévalue de la Loi facilitant le paiement des pensions alimentaires, L.R.Q. ch. P-2.2, afin que le Ministère du Revenu du Québec ( « MRQ » ) perçoive directement de l'appelant le montant de la pension alimentaire. Le MRQ a établi le montant de la pension alimentaire redevable selon le jugement de divorce du 9 février 1990 (soit une pension de 75 $ par semaine indexée annuellement), sans tenir compte de l'entente subséquente entre les parties réduisant le montant de la pension alimentaire à 60 $ par semaine non indexée. De fait, la Loi facilitant le paiement des pensions alimentaires ne s'applique qu'au paiement d'aliments accordés sous forme de pension à un créancier alimentaire en vertu d'un jugement exécutoire au Québec (voir article 1 de cette loi).
+[7] Ainsi, selon le relevé de compte déposé sous la pièce A-1, il fut établi que l'appelant devait payer une pension alimentaire de 93,56 $ par semaine à compter du 21 juillet 2000. Ce montant fut augmenté par la suite pour tenir compte de la sûreté exigée du débiteur alimentaire en garantie du montant de la pension alimentaire en vertu de l'article 30 de la Loi facilitant le paiement de la pension alimentaire (voir également pièce I-5).
+[8] L'appelant explique que la somme de 18 920 $, qu'il a réclamée sous forme de pension alimentaire dans sa déclaration de revenu pour l'année d'imposition 2000, correspond aux montants exigés par le MRQ aux termes de la Loi facilitant le paiement des pensions alimentaires sur une période de trois ans, soit pour les années 1998, 1999 et 2000. Il dit qu'il a réclamé une déduction pour fins fiscales lorsqu'il a réalisé que le MRQ n'avait pas tenu compte du tout de l'entente du 27 novembre 1998, postérieure au jugement de divorce du 9 février 1990. Ainsi soutient-il, si c'est le jugement de divorce qui doit servir légalement pour établir le montant de la pension alimentaire, les paiements de pension alimentaire payables, en vertu de ce jugement de divorce, devraient continuer à être déductibles.
+[9] L'intimée soutient que l'entente du 27 novembre 1998 a eu pour effet de défiscaliser la pension alimentaire pour enfants payable par l'appelant puisque les parties à cette entente ont convenu de modifier à la baisse la pension alimentaire prévue au jugement de divorce, en s'accordant sur le fait que la pension ne serait plus imposable ni déductible.
+[10] L'intimée soutient qu'en agissant ainsi, les parties ont donné une date d'exécution à l'accord sur le paiement de la pension alimentaire payable, tel que défini au paragraphe 56.1(4) de la Loi. Il en résulte selon l'intimée, que l'appelant ne peut plus déduire de pension alimentaire pour enfants aux termes de l'alinéa 60b) de la Loi.
+[11] Par ailleurs, l'intimée soutient que même s'il fallait ne pas tenir compte de l'entente du 27 novembre 1998, l'appelant n'a pas prouvé qu'il avait versé la somme de 18 920 $ à son ex-conjointe au cours de l'année 2000. En effet, selon le relevé de compte déposé sous la pièce A-1, il ressort que ce n'est qu'en juin 2001 que l'appelant a commencé à faire des versements de pension alimentaire. Madame Nicole Bourque a confirmé, lors de son témoignage, qu'elle avait commencé à recevoir des montants en vertu de la Loi facilitant le paiement des pensions alimentaires en 2001 seulement. Toutefois, elle a reconnu que l'appelant lui avait versé des montants en espèces en 2000. Elle ne se rappelait pas toutefois du montant. Aucun reçu ne fut signé par elle, car elle était sous l'impression que ce n'était plus imposable pour elle et il n'y avait dès lors plus nécessité de donner de reçus à son ex-conjoint. L'appelant a confirmé qu'il avait versé des sommes en argent comptant à son ex-conjointe, mais ne se rappelle pas du montant exact. Tous deux estiment qu'il aurait versé environ 2 000 $ au cours de l'année 2000.
+[12] Les dispositions législatives pertinentes se lisent comme suit :
+ARTICLE 60: Autres déductions.
+Peuvent être déduites dans le calcul du revenu d'un contribuable pour une année d'imposition les sommes suivantes qui sont appropriées :
+[...]
+460b)3
+b) Pension alimentaire - le total des montants représentant chacun le résultat du calcul suivant:
+A - (B + C)
+où:
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l'année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d'imposition antérieure.
+456.1(4)3
+(4) Définitions. Les définitions qui suivent s'appliquent au présent article et à l'article 56.
+« date d'exécution » - « date d'exécution » Quant à un accord ou une ordonnance:
+a) si l'accord ou l'ordonnance est établi après avril 1997, la date de son établissement;
+b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997:
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l'accord ou de l'ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l'accord ou l'ordonnance, ou dans toute modification s'y rapportant, pour l'application de la présente loi.
+« pension alimentaire » - « pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas:
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+« pension alimentaire pour enfants » - « pension alimentaire pour enfants » Pension alimentaire qui, d'après l'accord ou l'ordonnance aux termes duquel elle est à recevoir, n'est pas destinée uniquement à subvenir aux besoins d'un bénéficiaire qui est soit l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur, soit le père ou la mère d'un enfant dont le payeur est le père naturel ou la mère naturelle.
+[13] À mon avis, il est clair que l'entente du 27 novembre 1998 a eu pour effet de changer le total des montants de pension alimentaire pour enfants payables à Nicole Bourque par l'appelant à compter du moment de la signature de cette entente. D'ailleurs, tant que l'appelant a effectué les versements de pension alimentaire à partir de cette date, il s'est conformé aux termes de cette entente. Madame Bourque a également dit qu'elle ne donnait plus de reçus, puisqu'ils avaient convenu entre eux que le nouveau montant de la pension alimentaire ne serait plus imposable pour elle ni déductible par lui. Si l'on se réfère à la définition de « date d'exécution » dans le paragraphe 56.1(4) de la Loi, il en ressort que les parties ont donné une date d'exécution à leur entente au sens de la Loi. Il en résulte donc qu'à compter de cette date, soit le 27 novembre 1998, tout paiement de pension alimentaire pour enfants n'était plus déductible pour l'appelant dans le calcul de son revenu, aux termes de l'alinéa 60b) de la Loi.
+[14] L'appelant se sent lésé parce qu'en vertu de la Loi facilitant le paiement des pensions alimentaires, on exige maintenant de lui non pas les paiements de pension alimentaire sur lesquels lui et son ex-conjointe s'étaient entendus par l'entente du 27 novembre 1998, mais la pension alimentaire payable en vertu d'un jugement exécutoire au Québec. Or, comme l'entente du 27 novembre 1998 n'a jamais été homologuée ou sanctionnée par la Cour Supérieure du Québec, elle ne vaut pas comme jugement exécutoire au Québec au sens de la Loi facilitant le paiement des pensions alimentaires. C'est pourquoi en vertu de cette loi, c'est le jugement de divorce du 9 février 1990 qui prévaut aux fins d'établir les montants à percevoir du débiteur alimentaire pour le bénéfice du créancier alimentaire.
+[15] L'appelant peut-il maintenant invoquer que l'entente du 27 novembre 1998 n'a jamais pris effet entre les parties du fait qu'il a fait défaut de payer et que son ex-conjointe a dû avoir recours à la Loi facilitant le paiement des pensions alimentaires pour l'obliger à respecter ses obligations financières? Je ne le crois pas. Dans H.L. c. R.M., [1995] J.Q. no 2546 (Q.L.), le juge Benoît Morin de la Cour Supérieure du Québec disait que le fait qu'une entente n'ait pas été entérinée par un tribunal ne l'empêchait nullement de produire ses effets entre les parties. En disant ceci, il se référait lui-même à d'autres décisions, comme on le voit aux paragraphes 11 et 12 :
+¶ 11 Le fait que l'entente n'ait pas été entérinée par le tribunal ne l'empêche nullement de produire ses effets entre les parties. Dans l'arrêt Droit de la famille no 153, l'honorable Jean Marquis, j.c.s., s'est prononcé ainsi sur cette question :
+"Lors de la signature de R-3, le 1er mai 1961, les parties pouvaient s'entendre sur le montant de la pension alimentaire, entente qu'elles n'étaient pas tenues de soumettre à l'approbation des tribunaux si ce n'est pour en obtenir la consécration judiciaire avec les conséquences qui en découlent.
+Toutefois, la validité de cette entente n'est pas assujettie à son homologation ou sa sanction par la Cour : il s'agit d'une convention valide qui produit ses effets entre les parties [...]."
+¶ 12 Si l'entente lie les parties, le tribunal doit en tenir compte. C'est d'ailleurs ce qu'exprime l'honorable juge Wilson, de la Cour suprême du Canada, dans l'arrêt Pelech c. Pelech, lorsqu'elle dit, à la fin de son jugement :
+"Je crois que les tribunaux doivent reconnaître à l'individu le droit de mettre fin à une relation tout comme celui d'en commencer une et qu'ils ne devraient pas, lorsque tous les autres aspects de la relation ont depuis longtemps cessé d'exister, considérer que la responsabilité financière se prolonge indéfiniment dans l'avenir. Lorsque les parties, au lieu d'avoir recours à la justice, ont agi en adultes responsables pour régler leurs affaires financières d'une manière définitive, et que le règlement ne peut être contesté sur aucun autre fondement, les tribunaux ne devraient pas, à mon avis, miner ce règlement en concluant, après coup, que les parties auraient dû régler leurs affaires différemment [[1987] 1 R.C.S. 801]."
+[16] De plus, il semble qu'il soit loisible aux parties de modifier une ordonnance de cour établissant une pension alimentaire pour enfants, sans que ce soit nécessaire de faire homologuer cette nouvelle entente par le tribunal. C'est d'ailleurs la conclusion à laquelle en vient le juge Pierre Dalphond, alors qu'il était à la Cour Supérieure du Québec, dans l'affaire R.G. v. L.A., [2000] Q.J. No 1397 (Q.L.) à la page 19, aux paragraphes 106 à 109 :
+¶ 106 It is clear that if the Petitioner or the Respondent had filed in 1992 a motion before this Court to vary the accessory measures (sect. 17(1), of the Divorce Act), the said motion would have been granted since both parties were happy with the terms of the final settlement, especially Mrs. R.G. who was putting pressure to get it through, and since it did not show any lesion.
+¶ 107 The mere fact that it was not done at the time, does not mean that the agreements are of no effect. On the contrary, by asking the Court to "set aside and declare null and void the two Memoranda of Agreement signed by the Petitioner on March 30th and July 31st, 1992", Mrs. R.G. acknowledges that they are otherwise binding upon the parties.
+¶ 108 Once a judgment of separation or divorce has been pronounced and the Court has awarded accessory measures, nothing prevents the parties from settling between themselves the way they want to execute the benefits and obligations derived from the judgment. The parties remain free to negotiate at any time.
+¶ 109 Though it is absolutely necessary for a divorce to become effective that it be pronounced by a Court since marriage is a matter going beyond the private interests of the parties involved, there is nothing in the Divorce Act that prevents two parties from making an agreement about their financial obligations towards each other further to a judgment of divorce. There is nothing in the laws of Quebec, Civil Code of Lower Canada or Civil Code of Quebec included, that prevents it either.
+[TRADUCTION]
+¶ 106 De toute évidence, si la requérante ou l'intimé avait, en 1992, déposé devant cette cour une requête en modification des mesures accessoires (par. 17(1) de la Loi sur le divorce), la requête aurait été accueillie, d'une part, parce que les conditions du règlement définitif arrangeaient les deux parties, et particulièrement Mme R.G., qui faisait pression pour que ce règlement se concrétise, d'autre part, parce que le règlement n'était nullement lésionnaire.
+¶ 107 Ce n'est pas simplement parce qu'une telle requête n'a pas été présentée à l'époque que les accords sont sans effet. Au contraire, en demandant à la Cour [TRADUCTION] « [d']annuler et déclarer non avenus les deux protocoles d'accord signés par la requérante les 30 mars et 31 juillet 1992 » , Mme R.G. reconnaît qu'autrement les parties sont liées par ces accords.
+¶ 108 Une fois que la Cour a rendu un jugement de séparation ou de divorce et qu'elle a accordé des mesures accessoires, il n'y a rien qui empêche les parties de régler entre elles-mêmes la façon dont elles veulent exécuter les avantages et les obligations découlant du jugement. Les parties restent libres de négocier en tout temps.
+¶ 109 Bien qu'il soit absolument nécessaire, pour qu'un divorce prenne effet, qu'il soit prononcé par un tribunal puisque le mariage déborde les intérêts privés des parties concernées, rien dans la Loi sur le divorce n'empêche deux parties de conclure une entente relative à leurs obligations financières l'une envers l'autre à la suite d'un jugement de divorce. Les lois du Québec, y compris le Code civil du Bas-Canada et le Code civil du Québec, ne le défendent pas non plus.
+[17] Ainsi, l'entente du 27 novembre 1998 qui a été conclue d'un commun accord entre l'appelant et son ex-conjointe en toute légalité, a pris effet dès la date de sa signature et liait, dès lors, les parties à cette entente. L'effet de cette entente était de modifier les paiements de pension alimentaire et par conséquent de donner une date d'exécution à cette entente au sens du paragraphe 56.1(4) de la Loi. Tel que le disait le juge Bowman de cette Cour dans Kovarik c. Canada, [2001] A.C.I. no 181 (Q.L.), au paragraphe 15, les termes clairs de la définition de « date d'exécution » ne peuvent être mis de côté et dans un contexte similaire, il a jugé qu'une entente subséquente à un jugement de divorce avait eu pour effet de modifier les termes du jugement de divorce et ainsi donner une date d'exécution à l'entente postérieure au jugement de divorce.
+[18] À mon avis, ce raisonnement s'applique même si la Loi facilitant le paiement des pensions alimentaires ne reconnaît pas les ententes privées entre les ex-conjoints, pour les fins d'application de cette loi particulière. Pour régler le problème, l'appelant n'aurait qu'à faire homologuer l'entente du 27 novembre 1998 par un tribunal (ce qu'un tribunal n'hésiterait pas à faire si l'on se fie à l'arrêt Pelech c. Pelech, précité) et il ne serait donc plus contraint à payer les montants prévus au jugement de divorce du 9 février 1990. Sa dette alimentaire serait désormais basée sur l'entente du 27 novembre 1998 homologuée.
+[19] De tout ceci, je conclus que l'appelant ne pouvait déduire dans le calcul de son revenu pour l'année 2000 un montant payé à titre de pension alimentaire pour enfants après la date d'exécution, soit après le 27 novembre 1998.
+[20] Compte tenu de ma conclusion, je n'ai pas à décider quel montant fut réellement payé par l'appelant au titre de pension alimentaire pour enfants en 2000. Le montant de 18 920 $ qu'il a réclamé comme déduction dans le calcul de son revenu pour l'année d'imposition 2000 n'est tout simplement pas déductible.
+Décision
+[21] Les appels des cotisations établies pour les années d'imposition 1997, 1998 et 1999 sont rejetés pour cause de nullité aux termes du paragraphe 169(1) de la Loi. L'appel de la cotisation établie pour l'année d'imposition 2000 est rejeté.
+Signé à Ottawa, Canada, ce 21e jour d'octobre 2003.
+« Lucie Lamarre »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI752
+No DU DOSSIER DE LA COUR :
+2003-397(IT)I
+INTITULÉ DE LA CAUSE :
+Serge Clermont c. La Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 6 août 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+le 21 octobre 2003
+COMPARUTIONS :
+Pour l'appelant(e) :
+l'appelant lui-même
+Pour l'intimé(e) :
+Mélanie Bélec (stagiaire en droit)
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

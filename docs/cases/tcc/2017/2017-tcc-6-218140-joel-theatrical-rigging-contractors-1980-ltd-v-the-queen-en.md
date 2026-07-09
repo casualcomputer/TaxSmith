@@ -1,0 +1,332 @@
+---
+title: "Joel Theatrical Rigging Contractors (1980) Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/218140/index.do"
+last_modified: "2017-01-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 6"
+citation2: ""
+neutral_citation: "2017 TCC 6"
+decision_date: "2017-01-17"
+language: "en"
+item_id: "218140"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2961
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:30:07.287000+00:00"
+cases_cited_count: 15
+cases_citing_count: 10
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "994783800a30ce224ee1fb6faa4c9f8409b3c0e433d206c8476f4562566cf762"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Joel Theatrical Rigging Contractors (1980) Ltd. v. The Queen
+
+- Citation: 2017 TCC 6
+- Decision date: 2017-01-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2961, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Joel Theatrical Rigging Contractors (1980) Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-01-17
+Neutral citation
+2017 TCC 6
+File numbers
+2015-125(IT)I
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-125(IT)I
+BETWEEN:
+JOEL THEATRICAL RIGGING CONTRACTORS (1980) LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on July 4, 2016, at Toronto, Ontario
+By: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+Counsel for the Appellant:
+Harvey Consky, Jennifer Mendelsohn
+Counsel for the Respondent:
+Christopher Bartlett
+JUDGMENT
+The Appeals from the reassessments made under the Income Tax Act with respect to the 2008 and 2009 taxation years are dismissed, without costs.
+Signed at Edmonton, Alberta, this 17th day of January, 2017.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2017 TCC 6
+Date: 20170117
+Docket: 2015-125(IT)I
+BETWEEN:
+JOEL THEATRICAL RIGGING CONTRACTORS (1980) LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. INTRODUCTION
+[1] These Reasons pertain to the Appeals by Joel Theatrical Rigging Contractors (1980) Ltd. (“JTR”) in respect of Notices of Reassessment issued on March 15, 2011 and January 6, 2012 respectively. These Appeals, which were heard in Toronto, Ontario, on July 4, 2016, relate to two Scientific Research & Experimental Development (“SR&ED”) Expenditures Claims (Form T661) (the “SR&ED Claims”) submitted to the Canada Revenue Agency (the “CRA”) by JTR for its taxation years ending on April 30, 2008 and April 30, 2009 respectively.
+II. ISSUES
+[2] The CRA disallowed the SR&ED Claims on the basis that the activities that were the subject of those Claims did not constitute “scientific research and experimental development” (“SR&ED”), as that term is defined in subsection 248(1) of the Income Tax Act. [1] In particular, the CRA took the position that the activities undertaken by JTR did not satisfy the requirements outlined by Bowman J (as he then was), which involved the consideration of five questions, summarized as follows:
+1) Is there a technical risk or uncertainty? [2] In other words, is there a type of uncertainty that cannot be removed by routine engineering or standard procedures?
+2) Did the person performing the activities formulate hypotheses specifically aimed at reducing or eliminating the technological uncertainty? In other words, was there a process including the following five stages:
+a) the observation of the subject matter of the problem;
+b) the formulation of a clear objective;
+c) the identification and articulation of the technological uncertainty;
+d) the formulation of a hypothesis or hypotheses designed to reduce or eliminate the uncertainty; and
+e) the methodical and systematic testing of the hypotheses?
+3) Did the procedures used accord with established and objective principles of the scientific method, characterized by trained and systematic observation, measurement and experiment, and the formulation, testing and modification of hypotheses?
+4) Did the process result in a technological advance, i.e., an advancement in the general understanding?
+5) As the work progressed, was a detailed record kept of the hypotheses, tests and results? [3]
+III. FACTS
+[3] JTR undertook two projects, one in its 2008 taxation year and the other in its 2009 taxation year, with a view to solving two problems that it had encountered in its business of designing, manufacturing and installing theatrical rigging.
+A. 2008 Project
+[4] From June 2007 through April 2008, JTR worked on a project (the “Fire Curtain Project”) to develop a system for controlling the rate of descent of, initially, the fire curtain in a theatre at Ryerson University, and subsequently, the fire curtains at the Richmond Hill Theatre and the Persephone Theatre in Saskatoon. Until this time, JTR and other participants in the theatrical rigging business had used counterweights to control the rate of descent. As counterweights occupied additional space and created a larger footprint in the theatre, JTR hoped to find a mechanism that would not require the use of counterweights, but would utilize only a motor, a hydraulic pump, valves and related equipment, to lower the fire curtain at an acceptable speed. The applicable fire code regulations required that a fire curtain must descend in 30 seconds or less. However, if the rate of descent is too fast, there is a risk of injury to someone who might be caught below the curtain and there is a risk of causing fear or panic in the audience.
+[5] JTR found that the backwind system on a standard motor was not capable of producing a slow, controlled descent. Accordingly, JTR experimented with a variety of configurations of motors, hydraulic pumps, valves and related equipment. Ultimately, JTR developed a system that was able to achieve a controlled descent for 95% of all fire curtains.
+[6] In conducting its experiments, JTR began by attaching a rigging system to an overhead beam in its shop and then using a motor to hoist a weight of approximately 800 pounds, which was estimated to be similar to the weight of the fire curtain in the theatre at Ryerson University. Once the weight was hoisted, the braking mechanism on the motor was released and the experimenters watched the rate at which the weight fell, making sure (if necessary) to reapply the braking mechanism before the weight crashed onto the floor. It quickly became apparent that the backwind system in the motor was not sufficient in and of itself to control the rate of descent, so various other pieces of equipment (such as a hydraulic pump, hoses and valves) were added to the configuration in various arrangements until the experimenters found a configuration that controlled the rate of descent for 95% of all fire curtains.
+[7] In Part 2 (entitled “Project Information”) of the SR&ED Claim that JTR submitted to the CRA in respect of the Fire Curtain Project, JTR described the title of that project as “Hydraulic Backwind System for Theatre Fire Curtains,” and categorized the field of science or technology as being applied mechanics, which is categorized in the CRA’s Guide to Form T661 as being part of mechanical engineering, which in turn is categorized by the CRA as being part of engineering and technology.
+B. 2009 Project
+[8] The objective of the second project (the “Manual Override Project”) undertaken by JTR was to design and develop a manual curtain-rigging system that could be used in the event of a power failure or machine malfunction. Typically, the machine that operates the stage curtain allows the curtain to open and close horizontally. Normally, the curtain opens until it hits a limit switch, and then subsequently can be reversed and closed. The limit switch is located within the curtain motor and programmatically understands the movement of the curtain. In the past, when there was a manual override (in the event of a power failure or machine malfunction), after the problem was corrected and the automated operation of the curtain was recommenced, the limit switch would not know where its starting point was and would not be able to properly guide the movement of the curtain. Recalibration was a labour-intensive process that impeded the theatrical performance and often required a service call.
+[9] From May 2008 through September 2008, JTR conducted various experiments and made various innovations and modifications to the curtain rigging system, which ultimately resulted in the development of an easy-to-attach hand-crank system that could disengage the curtain cable drum and allow it to spin freely on the shaft without damaging or interfering with the limit switch. According to JTR and its advisor, the development of this hand-operated back-up for the curtain rigging system was unprecedented in the industry.
+[10] As various employees of JTR experimented in respect of the Manual Override Project, they began by removing the chain from the sprocket that controlled the cable drum and removing the limit switch. When they discovered that it was too difficult to reattach the sprocket to the assembly, they then removed the entire assembly from the limit switch, again without success. Next, they removed the cable drum from the limit switch, but were again met with failure. Finally, they removed the retaining bolts and replaced them with a hand-crank system that could disengage the cable drum and allow it to spin freely on the shaft, which satisfied their objectives.
+[11] In Part 2 (entitled “Project Information”) of the SR&ED Claim submitted by JTR to the CRA in respect of the Manual Override Project, JTR entitled the project “Developing a Manual Curtain Rig Operation,” and categorized the field of science or technology as being applied mechanics, which, as indicated above, is viewed by the CRA as being a type of mechanical engineering.
+IV. ANALYSIS
+A. Introductory Comments
+[12] Only two witnesses testified at the hearing of these Appeals. They were Van Marineau, who is the president and owner of JTR, and Todd Louie, who is an accountant and the Director of Taxation at Sheldon & Milstein Tax Consultants Ltd. (“Sheldon”), which is the advisor that prepared the two SR&ED Claims on behalf of JTR. Neither Mr. Marineau nor Mr. Louie is a scientist or an engineer. In fact, no scientist or engineer testified at the hearing. There were no expert witnesses. The Respondent did not call any witnesses.
+[13] Mr. Marineau is knowledgeable and experienced in the theatrical rigging business, having worked at JTR for 36 years. He began work at JTR as an equipment installer and progressed to become the owner [4] and the president of JTR. Mr. Marineau has a grade 12 education. He does not have any post-secondary education, particularly in any field of science or engineering. Mr. Marineau testified that JTR employed various designers who had some engineering training, but none of them had earned an academic degree in engineering and none of them had a professional engineer (P. Eng.) designation. None of the JTR employees with engineering training testified at the hearing of these Appeals.
+[14] As mentioned, Mr. Louie is an accountant, not a scientist or engineer. Although he has experience in preparing, and overseeing the preparation of, SR&ED expenditures claims (Form T661) for various clients, he has no formal training in mechanical engineering and does not have a university degree in engineering. Mr. Louie did not work on, or observe, any of the experiments that were conducted by JTR. Mr. Louie stated that Sheldon employed PhDs and engineers who worked for him. None of the PhDs and engineers employed by Sheldon testified at the hearing of these Appeals.
+B. Requirements of SR&ED
+[15] Counsel for JTR did not argue or suggest that JTR had performed basic research or applied research. Accordingly, it is my understanding that, for the purpose of these Appeals, the relevant portions of the definition of the term “scientific research and experimental development,” as set out in subsection 248(1) of the ITA, are as follows:
+“scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is …
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph … (c) that is undertaken in Canada by or on behalf of the taxpayer….
+[16] In determining whether the Fire Curtain Project and the Manual Override Project constituted SR&ED, as defined above, I will consider the five requirements set out in the Northwest Hydraulic case, and confirmed in the RIS-Christie and C.W. Agencies cases.
+(1) Technological Uncertainty
+[17] To constitute SR&ED, a particular project must address a problem or a type of uncertainty (typically described in the jurisprudence as “technical risk or uncertainty” or “technological uncertainty”) that cannot be resolved by routine engineering or standard procedures. While there may not be a definitive definition of the term “routine engineering,” the term typically “describes techniques, procedures and data that are generally accessible to competent professionals in the field.” [5] The difficulty that I have is that no scientists or engineers testified, with the result that I was given no authoritative evidence as to the techniques, procedures and data in respect of theatrical rigging that were generally accessible to mechanical engineers in 2008 and 2009. [6]
+(a) Fire Curtain Project
+[18] In describing the uncertainty confronted by JTR, Mr. Marineau explained that, when JTR began to work on the Fire Curtain Project, he and those who worked with him had no idea how to control the rate of descent of the fire curtain, using only a motorized system, without counterweights. He was not aware of any applicable technology that had been developed elsewhere. He did some research online and reviewed various patents, [7] but he was not able to find anything that would assist JTR in the challenge that it faced.
+[19] Mr. Louie testified that, when Sheldon was preparing the SR&ED Claims, some of its personnel reviewed various patents to determine what technology would have been available to JTR when it undertook the Fire Curtain Project. During his direct examination, Mr. Louie produced four patents, [8] which were published on December 7, 1999, May 10, 2005, November 23, 2005 and September 27, 2007 respectively. Mr. Louie stated that those four patents demonstrated “the embodiment of knowledge that existed prior to … 2008.” [9] Mr. Louie also stated that the patents represented “the extent of the technology available on theatre rigging systems or fire curtains” and “the routine engineering that was available at the time.” [10] However, as noted above, Mr. Louie is an accountant, not a scientist or an engineer. He was not qualified as an expert witness. During cross-examination, he could not describe the search terms that were used by his staff in looking for the four patents that he produced. Accordingly, I am not convinced that the four patents entered as Exhibit A-6 represented the totality of available technology that was known in 2007.
+[20] In summary, I acknowledge that, when Mr. Marineau and his colleagues at JTR began to work on the Fire Curtain Project in June 2007, they did not know how to control the descent of the fire curtain, without the use of counterweights. However, I have not been persuaded that there was no technology that may have been available for their use and that may have been found if they had consulted with a professional engineer. [11]
+[21] In determining whether investment tax credits were available to JTR in respect of SR&ED, the Minister of National Revenue (the “Minister”) relied on various assumptions of fact, including the following, as set out in paragraph 16 of the Reply to the Notice of Appeal:
+o. The claimed SR&ED activities for the 2008 Project [i.e., the Fire Curtain Project] were limited to the design, purchasing, adjustments, arrangements, pump selection, and valve changes in relation to the three aforementioned contracts [i.e., the contracts relating to the fire curtains at Ryerson University, the Richmond Hill Theatre and the Persephone Theatre in Saskatoon];
+p. The appellant’s [i.e., JTR’s] claimed SR&ED activities for the 2008 Project constituted routine work for the appellant;
+q. Systematic investigation or research was not performed as part of the 2008 Project….
+I am not convinced that JTR has discharged its burden of disproving the above assumptions.
+[22] In addition, my impression is that the work done by JTR in respect of the Fire Curtain Project may well have been routine engineering. I was not provided with any evidence, on which I could rely with confidence, that the experimentation performed by JTR in respect of the Fire Curtain Project was not routine engineering.
+(b) Manual Override Project
+[23] Mr. Marineau explained that, in high-end curtain-control systems, there was technology that would enable a limit switch to maintain its proper orientation when power was restored after the manual operation of the curtain during a power failure. However, that technology had an approximate cost of $25,000, whereas JTR was hoping to develop a solution that would have a cost of approximately $5,000. He stated that, before JTR began to work on the Manual Override Project, no one had found an economical solution.
+[24] Mr. Marineau did not explain the type of technology used in the expensive high-end curtain-control systems, nor did he comment on whether that technology could have been adapted to a more economical system, and, if so, the problems or uncertainties that would have been encountered in making such an adaptation. In my view, the technological uncertainty in respect of the Manual Override Project has not been clearly articulated. For instance, in Box 242 in Section B of Part 2 of the 2009 SR&ED Claim, the technological uncertainty was described as follows:
+Manual operation of the curtain machine was unprecedented, and as such, there was no available knowledge that could aid us in determining a viable solution. There was no information or methodology for us to follow to achieve our intended advancement of a manual override system. The existing technology consisted of an automated curtain machine, without any back-up method in the event of power or machine failure…. We had to devise a method of manually pulling a rope that was wound around the curtain cable drum to operate the curtain without interfering with and disorienting the limit switch, as this is critical for resuming normal automated functioning of the curtain machine.
+It seems to me that the work of finding a way to manually pull the rope wound around the curtain cable drum, without damaging or disorienting the limit switch, was routine engineering. JTR did not discharge the burden of proving otherwise.
+(2) Formulation and Testing of Hypotheses
+[25] The Canadian Oxford Dictionary defines “hypothesis” as follows:
+1. a proposition made as a basis for reasoning, without the assumption of its truth. 2. a supposition made as a starting point for further investigation from known facts. [12]
+[26] In Maritime-Ontario Freight Lines, Sarchuk J provided a judicial definition of “hypothesis” as follows:
+A hypothesis is a tentative assumption or explanation to an unknown problem and, as a rule, this requirement is met by the existence of a logical plan devised to observe and resolve the hypothetical problem. [13]
+Another judicial definition of “hypothesis” was given by Bonner J in C.W. Agencies, after having set out a description of the appellant’s hypothesis:
+I note here that it is not clear to me that this “hypothesis” is one which is capable of being proved or disproved by means of scientific research. It seems to me that it is simply too vague. The word hypothesis in this context is normally considered to mean a provisional concept which is not inconsistent with known facts and serves as a starting point for further investigation by which it may be proved or disproved objectively. [14]
+In other words, a hypothesis is a statement to be tested by an experiment or a trial. [15]
+(a) Fire Curtain Project
+[27] In working on the Fire Curtain Project, JTR conducted eight experiments. Shortly after all the experimentation on this project was completed, Sheldon prepared a one-page Experiment Summary Sheet in respect of each experiment. [16] Each Experiment Summary Sheet described the problem that had been confronted, the date and nature of the experiment, the personnel who worked on the experiment, the variables and details that were addressed, the results of the experiment and the next steps that were proposed. In many of the “next steps” entries, there was a stated hypothesis, presumably for the next experiment, and not for the experiment that had just been completed. For instance, at the end of the Experiment Summary Sheet for Experiment 1, in the “next steps” entry, the hypothesis was shown as “to experiment with braking mechanisms within housing unit.” Thus, assuming that this was the hypothesis for Experiment 2, Exhibit A-1 did not set out a hypothesis for Experiment 1. For the eight experiments in the Fire Curtain Project, the “next steps” entries at the end of each Experiment Summary Sheet are set out below:
+Experiment
+Number
+“Next Steps” Entry
+1.
+Hypothesis is to experiment with braking mechanisms within housing unit.
+2.
+Hypothesis is to experiment with hydraulic pumps and valves.
+3.
+Hypothesis is to experiment with braking mechanisms within housing unit.
+4.
+Experiment with various valves and free flowing in one direction and controllable in the other direction to try and balance the system.
+5.
+Experiment with different motor.
+6.
+Experiment with different hydraulics.
+7.
+Hypothesis that better hydraulics pumps and valves could alleviate using weights.
+8.
+Project considered complete.
+While the “next steps” entries on the Experiment Summary Sheets for Experiments 1, 2, 3 and 7 (which presumably stated what was to follow in Experiments 2, 3, 4 and 8 respectively), purported to set out hypotheses, the particular statements were not formulated as propositions or suppositions to be tested. There were no purported hypotheses for Experiments 1, 5, 6 or 7.
+[28] In Part 2 [17] of the SR&ED Claim that JTR submitted in respect of the Fire Curtain Project, the following statement was made in Box 246 (describing the scientific or technological advancements that were achieved):
+In late fiscal 2007 and early fiscal 2008 we worked to develop a theatrical rigging system for Ryerson University with a fire curtain that was hydraulically controlled so that it would fall down safely. We realized that in order to meet Ryerson s [sic] requirements we needed a motor that could back-wind fast enough to create an adequate amount of oil pressure so that the equipment could be controlled sufficiently. We hypothesized that a hydraulic pump working out of rotor end of the motor instead of the gearing end would suffice. By placing the pump in this location, it would be able to obtain the speed required to create the desired oil pressure.
+Thus, it appears that the hypothesis was to the effect that by connecting the hydraulic pump to the rotor end of the motor, rather than to the gearing end, sufficient oil pressure could be created in the pump to control the rate of descent. The statement quoted above may have been a hypothesis of the type contemplated by the second requirement set out in Northwest Hydraulic. However, as noted above, the attachment of a hydraulic pump to the rotor end (rather than the gearing end) of a motor appears to be routine engineering.
+(b) Manual Override Project
+[29] Five experiments were conducted by JTR while working on the Manual Override Project. After the five experiments were completed, Sheldon prepared an Experiment Summary Sheet in respect of each experiment. [18] The “next steps” entries on the five Experiment Summary Sheets were as follows:
+Experiment
+Number
+“Next Steps” Entry
+1.
+Hypothesis – removing the entire sprocket assembly from the limit switch.
+2.
+Hypothesis – removing the entire sprocket assembly from the limit switch.
+3.
+Hypothesis – removing the entire sprocket assembly from the limit switch.
+4.
+Hypothesis – Add-on system to complement the existing housing.
+5.
+Testing and project completed.
+[30] The hypotheses set out on the Experiment Summary Sheets for Experiments 1, 2 and 3 (which presumably were the hypotheses for Experiments 2, 3 and 4) were all the same, which seems rather peculiar. One would have thought that, after a particular experiment was shown to be unsuccessful, the hypothesis would have been modified. A further difficulty that I have is that, as in the case of the Fire Curtain Project, the various hypotheses are set out in the “next steps” entries, meaning that there was no stated hypothesis for Experiment 1 in the Manual Override Project. As well, the purported hypotheses set out in the above table are not structured as propositions or suppositions to be tested.
+[31] In Part 2 of the SR&ED Claim [19] submitted by JTR in respect of the Manual Override Project, the following descriptions of hypotheses were entered in Box 244 (which describes the work performed to overcome the scientific or technological uncertainties):
+Our initial hypothesis was to minimize modifications as much as possible when enabling manual function of the curtain machine. Our first attempt involved removing the chain from the sprocket which controls the cable drum, as the limit switch is contained within the cable drum…. [The document then describes an unsuccessful outcome.] Next, we predicted that removing the entire sprocket from the limit switch would be more effective…. [The document then describes another unsuccessful outcome.] For the third series of experiments, we removed the entire cable drum creating a closed loop cording system…. [The document then describes yet another unsuccessful outcome.] Now, after three failed experiments, we decided to approach the problem from a different angle – instead of removing parts of the assembly and struggling to return them without disrupting functionality, we now predicted adding some mechanical hardware to enable the advancement. We experimented with adding two holding bolts to engage the cable drum onto the shaft. We hypothesized that when the bolts were removed this would disengage the cable drum and allow the cable drum to spin freely on the shaft without interfering with both the sprocket and limit switch. A hand crank was implemented in the place of the two bolts and used to rotate the drum. Subsequent experimentation corroborated our hypothesis.
+On the same claim form, in Box 246 (which describes the scientific or technological advancements that were achieved), JTR stated the following:
+Our initial hypothesis was to remove the chain from the sprocket which controls the cable drum, believing that this would prevent interference or damage to the limit switch while minimizing modifications necessary for the curtain machine.
+[32] While I have concerns about the hypotheses set out in the Experiment Summary Sheets for the Manual Override Project, I am of the view that the hypotheses set out in Part 2 of the 2009 SR&ED Claim (i.e., Exhibit A-5) were adequately formulated as propositions or suppositions to be tested. However, returning to a point made previously, the particular steps contemplated by those hypotheses (i.e., removing the chain from the sprocket, removing the entire sprocket from the limit switch, removing the entire cable drum, and adding mechanical hardware (i.e., the two holding bolts that were replaceable by a hand crank)) appear to have been routine engineering, and not SR&ED.
+(3) Scientific Method
+[33] There is some overlap between the second and third requirements described in Northwest Hydraulic. The second requirement has five stages, the fourth and fifth of which are:
+the formulation of a hypothesis or hypotheses designed to reduce or eliminate the technical uncertainty; and
+the methodical and systematic testing of the hypotheses.
+The third requirement indicates that the procedures used should accord with established and objective principles of the scientific method, which is characterized by:
+trained and systematic observation,
+measurement and experiment, and
+the formulation, testing and modification of hypotheses (it is this third characteristic of the third requirement that overlaps with the fourth and fifth stages of the second requirement).
+As the third characteristic of the scientific method deals with hypotheses, and as I have already discussed above the hypotheses formulated by JTR, I will not say anything further about that characteristic here.
+[34] With respect to the first characteristic of the scientific method (i.e., trained and systematic observation), Mr. Marineau and his colleagues at JTR appear to have engaged in systematic observation; however, as the research teams did not include any professional engineers or researchers who held a university degree in engineering, and as none of the researchers with limited engineering training were called as witnesses, I question whether trained observation occurred.
+[35] I will discuss the second characteristic of the scientific method (i.e., measurement and experiment) separately for the two projects.
+(a) Fire Curtain Project
+[36] In simple terms, the method used for the experiments relating to the Fire Curtain Project was to use a motor (attached to various configurations of pumps, valves and other equipment) to raise a weight, then let it drop and watch it fall, to see whether the speed was controlled or uncontrolled. In setting up these experiments, Mr. Marineau and his colleagues “guesstimated” [20] that the weight of the fire curtain in the theatre at Ryerson University was probably 800 to 1,000 pounds. Therefore, in the back of JTR’s shop they mounted some rigging on one of the overhead beams, used a motor to hoist a weight of approximately 800 pounds [21] as high as it would go, and then released the brake on the motor and watched the weight fall. If the weight fell too fast (which it usually did in the early experiments), they quickly applied the brake so as to prevent the weight from smashing on the floor. When asked during cross-examination about the rate at which the weight fell, Mr. Marineau stated that he did not know and that they had no way of measuring that rate. He further stated that they took no measurements as to how fast the weight fell. [22] They simply observed the fall with the naked eye.
+[37] It seems to me that, if the scientific method had been used (i.e., if there had been systematic observation, measurement and experiment), Mr. Marineau and his colleagues would have determined the precise weight used in the experiments and would have precisely measured the duration of the descent in each experiment so that they could determine whether, as they moved from one experiment to the next, the duration of the descent was increasing or decreasing. During re-examination, Mr. Marineau reiterated that their objective was to have the fire curtain descend within 30 seconds. He stated that the 30-second limit was the only measurement about which they were concerned. However, there was no indication that they used a stopwatch or even the second hand on a wristwatch to determine how close the duration of a particular descent came to the 30-second objective. There was no evidence that the duration of the descent was tracked for each experiment and then compared to the duration of the descent in another experiment.
+[38] As Mr. Marineau and his colleagues moved from one experiment to the next, they began with a hydraulic pump attached to the rotor end of a motor, then added a braking mechanism, then deployed an additional braking mechanism, then experimented with various hydraulic pumps, valves and hoses. Once it appeared that they had found a way to control the duration of the descent, they then experimented with various curtain sizes and weights, as well as various grades of Zetex (which was the fabric used in the fire curtains). They next experimented with a new motor assembly and gears, and finally with new hydraulic systems of valves and hoses and a more powerful motor and gears. During direct examination, Mr. Marineau acknowledged that motors, gear boxes, pumps, valves and the other equipment used were all standard products. The challenge that he and his colleagues had was to put those items together in such a manner as to control the duration of the descent. While I acknowledge that they faced a challenge, it seems to me that it was a challenge that was resolved by routine engineering or standard procedures, or if not, it constituted a process of trial and error.
+[39] The Canadian Oxford Dictionary defines the term “trial and error” as follows:
+a method of finding the most effective way of completing a task, resolving a situation, etc., by experimenting with various unsuccessful approaches until a suitable one is found. [23]
+[40] I am not aware of any jurisprudence that has established that trial and error does not come within the scientific method and does not qualify as SR&ED; however, there are several cases which, while not saying so explicitly, suggest that trial and error may well fall outside the scientific method. For instance, in R&D Pro-Innovation, a research and technology adviser for the CRA indicated that the activities undertaken by the appellant in that case were performed unsystematically and by trial and error. Masse J disagreed and found that the appellant’s experimental program was methodical and systematic; however, he dismissed the appeal on other grounds. [24] In ACSIS EHR, representatives of the appellant (whose appeal was successful) testified that its researchers, in conducting their experiments, applied a systematic approach, rather than a haphazard approach or trial and error. [25] In Novalia Power General Research, the CRA was of the view that the appellant (whose appeal was unsuccessful) had used a trial and error system, rather than systematic investigation. [26]
+[41] When asked, during direct examination, to explain JTR’s hypothesis, possible solution and the various variables in respect of the Fire Curtain Project, Mr. Marineau stated:
+Well, what we basically ended up doing was trying to get a pump. We knew we couldn’t just backwind it. We’d free drop it kind of thing and have some kind of control so we could scale on how we would be able to move forward and see what the results were the first time we put something together and dropped it freely…. [27]
+We just further took additional steps on components to try and get it within a range of doing the same thing as well. Just more experimental. Parts changing and freefalling…. [28]
+We experimented more with pumps and valves and pull[ey] sizes and that type of stuff to get, to see control (inaudible) going through this, doing something, but it’s a matter of how to get it right what we have to do. [29]
+The above description of the activities undertaken by JTR appears to me to have been trial and error, rather than the scientific method.
+(b) Manual Override Project
+[42] As indicated above, the experiments undertaken in respect of the Manual Override Project seem to have involved various reconfigurations of the mechanisms controlling the curtain cable. In particular, the persons conducting the experiments went through a series of alterations and adjustments, including:
+a) removing the chain from the sprocket controlling the cable drum and removing the limit switch,
+b) removing the entire sprocket assembly from the limit switch,
+c) removing the cable drum from the limit switch, and
+d) removing the retaining bolts and replacing them with a hand-crank system.
+These reconfiguring steps, in my view, did not involve measurement, and seemed more in keeping with trial and error than with the scientific method.
+(4) Technological Advancement
+[43] To satisfy this requirement, purported research or development must result in a technological advance or an advancement in the general understanding, meaning that which is known or available to persons knowledgeable in the field. [30] The difficulty that I encountered is that no scientists or engineers testified at the hearing, with the result that I do not have any reliable evidence as to the general understanding in 2007 through 2009 of persons knowledgeable in the field of mechanical engineering.
+(a) Fire Curtain Project
+[44] In Box 246 of Part 2 of its SR&ED Claim in respect of the Fire Curtain Project, JTR described the technological advancement as follows:
+In late fiscal 2007 and early fiscal 2008 we worked to develop a theatrical rigging system for Ryerson University with a fire curtain that was hydraulically controlled so that it would fall down safely. We realized that in order to meet Ryerson s [sic] requirements we needed a motor that could back-wind fast enough to create an adequate amount of oil pressure so that the equipment could be controlled sufficiently. We hypothesized that a hydraulic pump working out of the rotor end of the motor instead of the gearing end would suffice. By placing the pump in this location, it would be able to obtain the speed required to create the desired oil pressure. The Fire Code placed another restraint on this project, requiring that the curtain be dropped in 30 seconds or less.
+Our primary objective was to develop universal technology for hydraulically controlled backwinding systems for fire curtains. In fiscal 2008 we isolated two other fire curtain projects that would enable us to work towards this goal: The Richmond Hill Theatre and the Persephone Theatre of Saskatoon, SK. Specifically, we wanted to develop a single system that would be capable of handling curtains of any size and that could therefore be assembled at our shop in Mississauga and then shipped to the theatre for installation, anywhere in North America.
+In each of these applications a new lightweight material called Zetex was used – typical fire curtains in the past used heavy asbestos curtains. This meant that the curtain would not be very heavy, since its size was being governed by the frame. Meeting these requirements proved to be a difficult task, since the weight of the curtain was proportional to the inertial forces that could be applied by the motor the heavier the curtain, the faster it could fall.
+The above comments do not appear to me to describe a technological advancement.
+(b) Manual Override Project
+[45] In Box 246 of Part 2 of the SR&ED Claim submitted to the CRA by JTR in respect of the Manual Override Project, JTR described the technological advancement as follows:
+Our company, Joel Theatrical Rigging (JTR), sought to advance technology in the area of applied mechanics … in particular theatre rigging equipment, through the development of a manual curtain rigging system to be used in the event of power failure or machine malfunction…. The development of a hand-operated back-up for the curtain system was unprecedented in the industry in light of the aforementioned problems, thus experimentation would be necessary for us to devise a solution…. It was important that the solution be user-friendly, in that it could be activated and controlled by users with minimal training.
+While the above statement is perhaps more descriptive of a possible technological advancement than is the corresponding statement in respect of the Fire Curtain Project, it still seems to be more of a statement of objectives than a summary of a technological advancement. Thus, I am not certain that the description of the purported technological advancement in the Manual Override Project is sufficient for me to make a determination that there was an advancement in the understanding of persons knowledgeable in the field of mechanical engineering.
+(5) Record of Hypotheses, Tests and Results
+[46] Although Northwest Hydraulic indicated that one of the criteria of SR&ED is a detailed record of hypotheses, tests and results, some cases have suggested that this particular criterion may not be absolutely essential. For instance, in 116736 Canada Inc., Archambault J stated:
+In my view, contemporary reports showing detailed records of each experiment attempted by a researcher could constitute evidence of a systematic investigation. Any taxpayer attempting to convince the Minister that he is entitled to deduct R&D expenditures without such evidence puts himself in a very precarious position. A taxpayer would be in a similar position when appearing before this Court to contest the Minister’s refusal to allow the deduction of his R&D expenditures. However, the Act and the Regulations do not require that such written reports be produced in order for a taxpayer to qualify for the deduction of such expenditures: it is possible to adduce evidence by way of oral testimony. Whether the Minister or a judge could conclude that the activities purported to have been carried out by the taxpayer were actually carried out then becomes a question of credibility. [31]
+[47] Similarly, in Les Abeilles Service, Jorré J stated that, although contemporaneous documentation is relevant to the Court’s resolution of factual controversies, “the existence of contemporaneous documentation, or contemporaneous documents with specific content, is not a condition to the recognition of scientific research or experimental development.” [32]
+[48] In addition, D’Auray J stated the following in 6379249 Canada Inc.:
+The appellant did not file any documents describing its systematic investigation. Although … the ITA does not require a taxpayer to file such documents, in my view, it would have been better if the appellant had produced such records or, if too voluminous, at least a sample of such records….
+The respondent stated that the appellant had not filed in evidence any documents demonstrating that it had followed a systematic approach in performing its SR&ED’s work. As I have stated earlier, the filing of the documents proving a systematic investigation is not a requirement in the ITA. The ITA requires that the appellant prove that he has followed a systematic investigation in order to resolve a technological uncertainty with the purposes of achieving a technological advancement. [33]
+[49] However, although documentary evidence may not be a statutory requirement, as Campbell J noted in ACSIS EHR, there is a risk in failing to produce such documentation:
+This is not to say that taxpayers should ignore detailed record keeping. Such documentary evidence is always to be preferred and each case will vary in respect to how the evidence will be viewed. Taxpayers who come to court without proper documentation will always remain in the unenviable position of persuading a court that systematic investigation did occur. [34]
+[50] The above statement builds on the foundation enunciated by Archambault J in 116736 Canada (as quoted above) and by Robertson JA in RIS-Christie (as set out below):
+Although both documentary and viva voce are admissible, the only sure-fire way of establishing that scientific research was undertaken in a systematic fashion is to adduce documentary evidence which reveals the logical progression between each test and preceding or subsequent tests. [35]
+The failure of JTR to adduce any of the notes, sketches, drawings and other documents made during its experiments hampered its ability to show that it had undertaken scientific research or experimental development in a systematic fashion.
+(a) Fire Curtain Project
+[51] At the hearing, Mr. Marineau explained that, when the JTR researchers were working on the Fire Curtain Project, they did not keep any of the notes, sketches, drawings or other documents that may have been prepared during the experimentation process. He explained that, once they had determined that a particular design did not work, they discarded the plans for that design so as to ensure that no one else in the organization would build the same thing. During cross-examination, he stated that, as the JTR researchers were changing variables in the course of working on the Fire Curtain Project, they did not keep a record of the changes in the variables and the subsequent results. The documents that were available for the hearing, i.e., the Experiment Summary Sheets that were entered as Exhibit A-1, were prepared by Sheldon sometime after the experiments had been completed.
+(b) Manual Override Project
+[52] At the hearing, Mr. Marineau acknowledged that JTR did not keep any documents related to the Manual Override Project. The Experiment Summary Sheets for this project (i.e., Exhibit A-4) were prepared by Sheldon sometime after the experiments had been completed.
+C. Burden of Proof
+[53] JTR has the burden of proving, on a balance of probabilities, that the activities undertaken in respect of the Fire Curtain Project and Manual Override Project constituted SR&ED. [36] While I acknowledge that the activities undertaken by JTR were innovative and creative, [37] JTR has failed to adduce sufficient evidence to establish that those activities did not constitute routine engineering, that there was technological uncertainty in respect of the Fire Curtain Project and the Manual Override Project, that the scientific method was followed, and that technological advancements were achieved in respect of each project.
+V. CONCLUSION
+[54] For the reasons set out above, JTR’s Appeals are dismissed with respect to both the Fire Curtain Project and the Manual Override Project.
+[55] There is no award as to costs.
+Signed at Edmonton, Alberta, this 17th day of January, 2017.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+CITATION:
+2017 TCC 6
+COURT FILE NO.:
+2015-125(IT)I
+STYLE OF CAUSE:
+JOEL THEATRICAL RIGGING CONTRACTORS (1980) LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 4, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+January 17, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Harvey Consky, Jennifer Mendelsohn
+Counsel for the Respondent:
+Christopher Bartlett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Harvey Consky, Jennifer Mendelsohn
+Firm:
+Consky & Associates
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, R.S.C. 1985 (5th Supplement), c. 1, as amended (the “ITA”).
+[2] Sometimes, rather than using the phrase “technical risk or uncertainty,” the phrase “technological uncertainty” is used.
+[3] Northwest Hydraulic Consultants Ltd. v The Queen, [1998] 3 CTC 2520, 98 DTC 1839 (TCC). See also RIS-Christie v The Queen, [1999] 1 CTC 132, 99 DTC 5087, ¶10; and C.W. Agencies Inc. v The Queen, 2001 FCA 393, [2002] 1 CTC 212, 2002 DTC 2740, ¶17.
+[4] In his opening statement, counsel for JTR stated that Mr. Marineau purchased JTR in 1966. However, as Mr. Marineau has worked for JTR for 36 years, I assume that he began to work for JTR in 1980 or thereabouts. Accordingly, it is unlikely that Mr. Marineau purchased JTR in 1966. In his testimony, Mr. Marineau did not provide the date when he purchased JTR. I do not think that anything turns on the date of purchase.
+[5] Northwest Hydraulic, supra note 3, ¶16(1)(b).
+[6] In Northwest Hydraulic, supra note 3, ¶82, Bowman J noted that technological uncertainty is something that exists in the mind of the specialist, who identifies and articulates it. See also ACSIS EHR (Electronic Health Record) Inc. v The Queen, 2015 TCC 263, ¶25. As indicated above, no specialist in applied mechanics or mechanical engineering testified at the hearing of these Appeals.
+[7] It was not clear in the evidence whether Mr. Marineau found the patents himself or whether the patents were provided to him by Sheldon.
+[8] The four patents were collectively entered into evidence as Exhibit A-6.
+[9] Testimony of Todd Louie, Transcript, page 107, lines 27-28.
+[10] Ibid., page 108, lines 17-19 and 24-25.
+[11] Mr. Marineau testified that the usual practice of JTR, when it developed plans for the installation of a theatrical rigging system, was to have the plans reviewed and stamped by a professional engineer. However, while Mr. Marineau and his colleagues were experimenting in respect of the Fire Curtain Project, they did not have a professional engineer on their team, nor did they consult with a professional engineer in respect of the project.
+[12] Canadian Oxford Dictionary, 2nd ed. (Oxford University Press, 2004), p.749.
+[13] Maritime-Ontario Freight Lines Limited v The Queen, 2003 TCC 674, ¶14.
+[14] C.W. Agencies Inc. v The Queen, [2000] 4 CTC 2272, 2000 DTC 2372 (TCC), ¶23; aff’d (FCA), supra note 3.
+[15] Advanced Agricultural Testing Inc. v The Queen, 2009 TCC 190, ¶30-31.
+[16] The eight Experiment Summary Sheets collectively were entered as Exhibit A-1.
+[17] This document was entered as Exhibit A-2.
+[18] The five Experiment Summary Sheets in respect of the Manual Override Project were entered as Exhibit A-4.
+[19] The entire claim form (including Part 2) was entered as a single exhibit, which was identified as Exhibit A-5.
+[20] This was the term used by Mr. Marineau in giving his evidence.
+[21] Although Mr. Marineau estimated the hoisted weight to be approximately 800 pounds, he did not know the exact weight that was used in the experiment; see Transcript, page 64, lines 7-10.
+[22] At the hearing, the rate that was discussed was the rate at which the weight fell. There was no discussion of acceleration, i.e., the rate at which the falling weight changed its velocity.
+[23] Canadian Oxford Dictionary, supra note 12, p.1660.
+[24] R&D Pro-Innovation Inc. v The Queen, 2015 TCC 186, ¶18, 22 & 37-40; aff’d, 2016 FCA 152.
+[25] ACSIS EHR, supra note 6, ¶14 & 32.
+[26] Novalia Power General Research Inc. v The Queen, 2016 TCC 81, ¶16.
+[27] Transcript, page 22, line 27 to page 23, line 4.
+[28] Ibid., page 24, lines 5-8.
+[29] Ibid., page 24, lines 17-20.
+[30] Northwest Hydraulic, supra note 3, ¶16(4)(a).
+[31] 116736 Canada Inc. v The Queen, [1998] 3 CTC 2679, 98 DTC 1816, ¶40-41.
+[32] Les Abeilles Service de Conditionnement Inc. v The Queen, 2014 TCC 313, ¶94.
+[33] 6379249 Canada Inc. v The Queen, 2015 TCC 77, ¶71 & 92.
+[34] ACSIS EHR, supra note 6, ¶40.
+[35] RIS-Christie Ltd., supra note 3, ¶14. See also Zeuter Development Corporation, 2006 TCC 597, ¶28; and Hypercube Inc., 2015 TCC 65, ¶48.
+[36] Tacto Neuro Sensory Devices Inc./Appareils Neurosensoriels Tacto Inc. v The Queen, 2004 TCC 341, ¶11. See also Sass Manufacturing Ltd. v MNR, [1988] 1 CTC 2524, 88 DTC 1363 (TCC), ¶48; and Soneil International Limited v The Queen, 2011 TCC 391, ¶14.
+[37] In Zeuter, supra note 35, ¶24, and R&D Pro Innovation, supra note 24 (TCC), ¶29 & 38, it was stated that novelty or innovation is not sufficient to illustrate technological advancement.

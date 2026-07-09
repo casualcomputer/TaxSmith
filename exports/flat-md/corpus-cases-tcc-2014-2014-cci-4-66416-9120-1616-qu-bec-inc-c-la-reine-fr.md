@@ -1,0 +1,222 @@
+---
+title: "9120-1616 Québec Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66416/index.do"
+last_modified: "2014-01-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 4"
+citation2: ""
+neutral_citation: "2014 CCI 4"
+decision_date: "2014-01-09"
+language: "fr"
+item_id: "66416"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5990
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:12:18.845000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "47363dd287178cd1358d14f61f853455546640ab8f2d5a90da4297ea445fca72"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9120-1616 Québec Inc. c. La Reine
+
+- Citation: 2014 CCI 4
+- Decision date: 2014-01-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5990, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9120-1616 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-01-09
+Référence neutre
+2014 CCI 4
+Numéro de dossier
+2009-3116(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-3116(GST)I
+ENTRE :
+9120-1616 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 6 juin 2013, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me Mimikos Athanassiadis
+Avocat de l'intimée :
+Me Benoît Denis
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre d’une nouvelle cotisation datée du 18 juillet 2008 et ne comportant aucun numéro distinctif, établie par l’entremise du ministre du Revenu du Québec, en vertu de la Loi sur la taxe d’accise, pour les quatre périodes trimestrielles de déclarations suivantes de l’appelante, lesquelles ne sont pas consécutives, soit du 1er août 2004 au 31 octobre 2004, du 1er août 2005 au 31 octobre 2005, du 1er août 2006 au 31 octobre 2006 et du 1er août 2007 au 31 octobre 2007, est accueilli mais seulement pour donner effet à la concession faite par le ministre à l'ouverture de l'audience.
+Par conséquent, la nouvelle cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation pour que le montant des rajustements apportés au calcul de la taxe nette déclarée par l'appelante pour les quatre (4) périodes de déclaration visées soit diminué du montant de 14 472,75 $ cotisé en trop pour qu'il soit établi à un montant de 51 719,88 $ avec ajustements pour les intérêts et les pénalités conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de janvier 2014.
+« Réal Favreau »
+Juge Favreau
+Référence : 2014CCI4
+Date : 20140109
+Dossier : 2009-3116(GST)I
+ENTRE :
+9120-1616 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel, par la voie de la procédure informelle, à l’encontre d’une nouvelle cotisation datée du 18 juillet 2008 et ne comportant aucun numéro distinctif, établie par l’entremise du ministre du Revenu du Québec (le « ministre ») en vertu de la Partie IX de la Loi sur la taxe d’accise, L.R.C. (1985), c. E-15, telle que modifiée (la « LTA ») pour les quatre (4) périodes de déclarations suivantes de l’appelante, lesquelles ne sont pas consécutives, soit du 1er août 2004 au 31 octobre 2004, du 1er août 2005 au 31 octobre 2005, du 1er août 2006 au 31 octobre 2006 et du 1er août 2007 au 31 octobre 2007 (les « périodes visées »).
+[2] Les montants cotisés le 18 juillet 2008 sont les suivants, à savoir :
+Rajustements apportés au calcul de la
+taxe nette déclarée
+[21 365,14 $ + 16 042,66 $ + 16 861,39 $ +
+11 923,44 $]
+66 192,63 $
+Pénalité pour versement tardif
+[3 309,71 $ + 1 362,12 $ + 340,70 $]
+5 012,53 $
+Pénalités de l’article 285 de la LTA
+(25% de 64 472,75 $)
+16 118,19 $
+Intérêts sur arriéré
+[4 715,08 $ + 2 886,01 $ + 2 250,20 $ + 1 463,15 $]
+11 314,44 $
+Total [montant dû]
+98 637,79 $
+et le montant de la taxe nette qui aurait dû être déclaré par l’appelante pour lesdites quatre (4) périodes visées est de 87 860,33 $;
+[3] Les rajustements au montant de 66 192,63 $ apportés au calcul de la taxe nette déclarée de l’appelante mentionnés au paragraphe précédent se ventilent comme suit, à savoir :
+Taxe sur les produits et services (ci-après la « TPS ») perçue ou percevable
+64 472,75 $
+Crédits de taxe sur les intrants (ci-après les « CTIs ») demandés en trop, par erreur ou sans droit
+1 719,88 $
+Total
+66 472,75 $
+[4] L’appelante ne conteste pas expressément, dans son avis d’appel, le montant de 1 719,88 $ de CTIs demandés en trop, par erreur ou sans droit, mentionné ci‑dessus.
+[5] Le ministre a imposé à l’appelante une pénalité au montant de 5 012,53 $ en application de l’article 280 de la LTA, de même qu'une pénalité au montant de 16 118,19 $ (soit 25% de 64 472,75 $), prévue à l’article 285. Des intérêts ont également été calculés sur la TPS que l’appelante était tenue de percevoir à l’égard des fournitures taxables qu’elle a effectuées mais qu’elle n’a pas comptabilisées dans ses registres comptables.
+[6] En établissant la cotisation en cause à l’égard de l’appelante, le ministre s’est fondé, entre autres, sur les conclusions et les hypothèses de faits suivantes, énoncées au paragraphe 27 de la Réponse à l’avis d’appel :
+a) les faits admis ci-dessus;
+b) l’appelante est un inscrit aux fins de la Partie IX de la L.T.A.;
+c) les exercices de l’appelante ont débuté le 1er novembre d’une année civile donnée pour se terminer le 31 octobre de l’année civile suivante;
+d) l’appelante exploite un restaurant avec permis d’alcool;
+e) l’appelante a produit ses déclarations de taxe nette de TPS trimestriellement pendant les 4 périodes visées;
+f) toutes les fournitures effectuées par l’appelante dans le cadre de l’exploitation du restaurant, soit une activité commerciale, pendant la période débutant le 1er mai 2004 et se terminant le 31 octobre 2007 (ci‑après la « période vérifiée ») constituent des fournitures taxables pour lesquelles une taxe, soit la TPS, au taux de 7% ou 6% (selon que la contrepartie de la fourniture ait été payée ou facturée avant le 1er juillet 2006 [7%] ou après le 30 juin 2006 [6%]) sur la valeur de la contrepartie de la fourniture, était payable par les acquéreurs à l’appelante, laquelle devait la percevoir;
+g) les registres et livres comptables de l’appelante remis au Ministre, lorsque requis de le faire, au moment de la vérification, étant incomplets et imprécis pour, entre autres, les exercices se terminant le 31 octobre 2005 et 31 octobre 2007 et les six (6) derniers mois de l’exercice se terminant le 31 octobre 2004, le Ministre a reconstitué le montant total des fournitures effectuées par l’appelante par une méthode indirecte de vérification pour la période vérifiée;
+h) pour l’exercice se terminant le 31 octobre 2006, le Ministre a déterminé que, pour chaque litre de bière et de vin confondus que l’appelante a fourni par vente, cette dernière a effectué des fournitures taxables relatives au restaurant (repas et alcool) au montant de 78,8604 $;
+i) le montant, ou ratio, mentionné au sous-paragraphe précédent pour ledit exercice a été établi en fonction de toutes les données comptables disponibles remises par l’appelante au Ministre, lesquelles étaient très détaillées, qui ont été considérées comme étant, somme toute, fiables aux fins de l’établissement dudit ratio, soit le « SALES DETAILS BY MENU/CATEGORY/ITEM »;
+j) plus précisément, le Ministre a relevé, pour ledit exercice se terminant le 31 octobre 2006, tous les litres de bière et de vin vendus et comptabilisés par l’appelante, lesquels ont totalisé 6 898 litres (à l’intérieur de ce montant, le Ministre a tenu compte de la composante « happy hour » et autres ajustements analogues à la suite de représentations effectuées par l’appelante préalablement à l’établissement de la cotisation), ainsi que le montant de la contrepartie de l’ensemble des fournitures effectuées relatives au restaurant (repas et alcool) qui a été comptabilisé par l’appelante, lequel a totalisé 543 983,00 $, et les a divisés l’un par l’autre pour obtenir le ratio mentionné ci-dessus de 78,8604 $/litre de bière et de vin vendu;
+k) lesdites données comptables, soit le « SALES DETAILS BY MENU/CATEGORY/ITEM » ou sous une tout autre forme similaire, n’ont pas été remises au Ministre lorsque requis de le faire pour les autres périodes contenues dans la période vérifiée, soit les six (6) derniers mois de l’exercice se terminant le 31 octobre 2004 (du 1er mai 2004 au 31 octobre 2004) et les exercices se terminant le 31 octobre 2005 et le 31 octobre 2007;
+l) afin de reconstituer le montant total des fournitures effectuées par l’appelante pour les six (6) derniers mois de l’exercice se terminant le 31 octobre 2004 (du 1er mai 2004 au 31 octobre 2004) et les exercices se terminant le 31 octobre 2005 et 31 octobre 2007 contenus de la période vérifiée, le Ministre a été contraint d’utiliser le ratio qu’il a calculé pour l’exercice se terminant le 31 octobre 2006;
+m) en fonction des factures d’acquisition que l’appelante lui a remises ou des données émanant des brasseurs et de la SAQ, le Ministre a relevé les quantités, converties en litre, de vin et de bière acquises par l’appelante qu’elle a fournies par vente pour chacun des trois exercices contenus dans la période vérifiée ainsi que pour tout l’exercice se terminant le 31 octobre 2004, et ce, même si seulement les six (6) derniers mois dudit exercice font partie de la période vérifiée, et a effectué certaines rectifications pour tenir compte de pertes encourues par l’appelante (les quantités utilisées en cuisine ou consommées par le personnel, les gratuités offertes aux clients et les pertes de toute nature établies, établies à quelque 8% pour l’ensemble desdits produits, à l’exception de la bière pour laquelle les pertes ont été établies entre 4,3% et 19,9%) et, lorsqu’applicable, de la variation des stocks en début et fin d’exercice, a déterminé le tout à 10 843,015 litres pour l’exercice se terminant le 31 octobre 2004, à 10 350,845 litres pour l’exercice se terminant le 31 octobre 2005, à 9 673,711 litres pour l’exercice se terminant le 31 octobre 2006 et à 10 120,289 litres pour l’exercice se terminant le 31 octobre 2007;
+n) le Ministre a multiplié les quantités respectives de vin et de bière acquises par l’appelante au sous-paragraphe précédent, dont elle a effectué la fourniture, par le ratio mentionné précédemment au sous-paragraphe j) ci-dessus pour chacun desdits quatre (4) exercices mentionnées précédemment;
+o) le montant total des fournitures taxables effectuées par l’appelante ainsi reconstitué par le Ministre pour la période vérifiée est de 3 050 784,94 $, soit 673 550,21 $ pour les six (6) derniers mois de l’exercice se terminant le 31 octobre 2004 (10 843,015 litres x 78,8604 $ x 79% [pourcentage du chiffre d’affaires déclaré pour cette période sur l’ensemble de l’exercice]), 816 271,84 $ pour l’exercice se terminant le 31 octobre 2005 (10 350,845 litres x 78,8604 $), 762 872,78 $ pour l’exercice se terminant le 31 octobre 2006 (9 673,711 litres x 78,8604 $) et 798 090,10 $ pour l’exercice se terminant le 31 octobre 2007 (10 120,289 litres x 78,8604 $);
+p) l’appelante a, pour la période vérifiée, indiqué dans ses livres et registres comptables ou, selon le montant de TPS déclarée pour cette même période vérifiée, avoir effectué des fournitures taxables pour un montant de 2 256 258,43 $;
+q) l’appelante n’a pas, pour la période vérifiée, indiqué dans ses livres et registres comptables des fournitures qu’elle a effectuées au montant de 794 526,51 $ (3 050 784,94 $ - 2 256 258,43 $);
+r) le montant de TPS que l’appelante a perçu ou qu’elle était tenue de percevoir pendant la période vérifiée est de 203 033,20 $, soit 7% de 1 998 610,26 $ (pour les fournitures effectuées avant le 1er juillet 2006) plus 6% de 1 052 174,68 $ (pour les fournitures effectuées après le 30 juin 2006);
+s) l’appelante a produit au Ministre ses déclarations de taxe nette et y a globalement déclaré pour la période vérifiée un montant de 138 560,45 $ de TPS perçue ou percevable dans le calcul de sa taxe nette;
+t) l’appelante n’a, par conséquent, pas déclaré, dans le calcul de sa taxe nette, pendant la période vérifiée, un montant de 64 472,75 $ (203 033,20 $ - 138 560,45 $) à titre de TPS perçue ou percevable;
+u) l’appelante est donc redevable au ministre du montant des ajustements apportés à sa taxe nette déclarée pour les 4 périodes visées, plus les intérêts et les pénalités;
+[7] À l’ouverture de l’audience, l’avocat de l’intimée a déposé de consentement avec l’avocat de l’appelante, une Réponse à l’avis d’appel modifiée par laquelle le ministre reconnaît que les rajustements apportés au calcul de la taxe nette déclarée qui ont été cotisés, ont été surévalués et ont fait l’objet d’une concession de la part de l’intimée. Par conséquent, le montant des rajustements apportés au calcul de la taxe nette pour les quatre (4) périodes visées doit donc être diminué du montant de 14 472,75 $ cotisé en trop, plus les intérêts et les pénalités lesquels devront être ajustés en conséquence.
+[8] Pour tenir compte de la concession décrite au paragraphe précédent, le ministre se fonde maintenant sur les conclusions et les hypothèses de faits suivantes énoncés au paragraphe 27.1 de la Réponse à l’avis d’appel modifiée :
+aa) pour l’exercice se terminant le 31 octobre 2006, le Ministre a déterminé que, pour chaque litre de bière et de vin confondus que l’appelante a fourni par vente, cette dernière a effectué des fournitures taxables relatives au restaurant (repas et alcool) au montant de 74,17 $ (et non de 78,8604 $ tel que mentionné au sous-paragraphe 27h) ci-dessus).
+bb) le Ministre a relevé, pour ledit exercice se terminant le 31 octobre 2006, tous les litres de bière et de vin vendus et comptabilisés par l’appelante, lesquels ont totalisé 7 334 litres (et non de 6 898 litres tel que mentionné au sous-paragraphe 27j) ci-dessus) (à l’intérieur de ce montant, le Ministre a tenu compte de la composante « happy hour » à raison de quelque 1 000 litres offerts gratuitement et autres ajustements analogues à la suite de représentations effectuées par l’appelante préalablement à l’établissement de la cotisation), ainsi que le montant de la contrepartie de l’ensemble des fournitures effectuées relatives au restaurant (repas et alcool) qui a été comptabilisé par l’appelante, lequel a totalisé 543 983,00 $, et les a divisés l’un par l’autre pour obtenir le ratio mentionné ci-dessus de 74,17 $/litre de bière et de vin vendu;
+cc) ledit ratio de 74,17 $/litre pour l’exercice se terminant le 31 octobre 2006 a été arrondi à 74,00 $ /litre;
+dd) afin de ternir compte d’une manière quelconque du facteur inflation, le Ministre a déterminé le ratio pour les six (6) derniers mois de l’exercice se terminant le 31 octobre 2004 (du 1er mai 2004 au 31 octobre 2004) à 72,00 $/litre ; pour l’exercice se terminant le 31 octobre 2005 à 73,00 $/litre et pour l’exercice se terminant le 31 octobre 2007 à 75,00 $/litre (et non à 78,8604 $ pour ces trois périodes tel que mentionné au sous-paragraphe 27l) ci-dessus);
+ee) le ministre a multiplié les quantités respectives de vin et de bière acquises par l’appelante au paragraphe 27m) ci-dessus, dont elle a effectué la fourniture, par les ratios mentionnés aux deux sous-paragraphes ci-dessus pour chacun desdits quatre (4) exercices ou partie d’exercice mentionnées précédemment;
+ff) le montant total des fournitures taxables effectuées par l’appelante ainsi reconstitué par le Ministre pour la période vérifiée est de 2 845 443,15 $ (et non de 3 050 784,94 $ tel que mentionné au sous-paragraphe 27j) ci‑dessus), soit 614 955,18 $ pour les six (6) derniers mois de l’exercice se terminant le 31 octobre 2004, 755 611,69 $ pour l’exercice se terminant le 31 octobre 2005, 715 854,61 $ pour l’exercice se terminant le 31 octobre 2006 et 759 021,68 $ pour l’exercice se terminant le 31 octobre 2007;
+gg) l’appelante a, pour la période vérifiée, indiqué dans ses livres et registres comptables ou, selon le montant de TPS déclarée pour cette même période vérifiée, avoir effectué des fournitures taxables pour un montant de 2 097 298,15 $ (et non de 2 256 258,43 $ tel que mentionné au sous‑paragraphe 27p) ci-dessus).
+hh) l’appelante n’a pas, pour la période vérifiée, indiqué dans ses livres et registres comptables des fournitures qu’elle a effectuées au montant de 748 145,01 $ (2 845 443,15 $ - 2 097 298,15 $);
+ii) le montant de TPS que l’appelante a perçu ou qu’elle était tenue de percevoir pendant la période vérifiée est de 189 206,55 $ (et non de 203 033,20 $ tel que mentionné au sous-paragraphe 27r) ci-dessus).
+jj) l’appelante n’a, par conséquent, pas déclaré, dans le calcul de sa taxe nette, pendant la période vérifiée, un montant de 50 646,11 $ (189 206,55 $ - 138 560,45 $) à titre de TPS perçue ou percevable, ce montant étant arrondi à 50 000,00 $;
+[9] La question en litige est de déterminer si l’appelante a omis d’inclure, dans le calcul de sa taxe nette qu’elle a déclarée au ministre pour les quatre (4) périodes visées, de la TPS qu’elle a perçue ou était tenu de percevoir pour un montant de 50 000 $ et si l’appelante est redevable des CTIs demandés en trop, par erreur ou sans droit d’un montant de 1 719,88 $.
+[10] À l’ouverture de l’audience, l’appelante a admis avoir acheté les quantités, converties en litres, de bière et de vin pour l’ensemble des périodes de déclaration faisant partie de la période vérifiée. L’avocat de l’intimée a expliqué que la vérification a d’abord porté sur les données comptables fournies par l’appelante pour l’exercice financier se terminant le 31 octobre 2006. Les données fournies par l’appelante étaient très détaillées et ont été considérées comme fiables par la vérificatrice aux fins de l’établissement du ratio que rapporte chaque litre de bière et de vin vendu (repas et alcool). Le ratio déterminé pour l’exercice financier 2006 a été appliqué aux autres périodes de déclaration comprises dans la période vérifiée parce que les livres et registres comptables pour ces autres périodes de déclaration étaient incomplets et imprécis.
+[11] Monsieur Georges Bakopanos a témoigné à l’audience en tant que gestionnaire et propriétaire du restaurant Le Topaze à Lachine, un restaurant bar/terrasse comptant quatre (4) permis d’alcool. Il a expliqué le déroulement de la vérification et les difficultés qu’il a eues avec la vérificatrice pour faire corriger les très nombreuses erreurs attribuables principalement aux vols d’alcool, aux gratuités, aux deux pour un de 16:00 à 19:00 heures, aux commandes spéciales (repas avec vin), à la consommation personnelle des employés, au pourcentage des pertes (bris-retours-nettoyage). Suite à ses représentations, la vérificatrice a apporté des ajustements à son premier projet de cotisation. Selon le témoin, les ajustements apportés par la vérificatrice étaient nettement insuffisants. À titre d’exemple, les quantités de bière et de vin contenues dans les verres de différents formats n’ont pas été mesurées. Selon lui, les erreurs et corrections faites par la vérificatrice affectent la fiabilité des données de l’intimée.
+[12] La vérificatrice n’a pas témoigné à l’audience parce qu’elle ne travaille plus pour le ministère du revenu du Québec. L’avocat de l’intimée a par contre déposé plusieurs documents préparés par la vérificatrice ou utilisés par cette dernière dans le cadre de sa vérification. Parmi ces documents, on retrouve (a) les feuilles de calcul du ratio de 74,17 $ par litre de bière et de vin vendu qui a été par la suite arrondi à 74,00 $; (b) de très nombreux extraits des rapports des ventes détaillées par menu, catégorie et item fournis par le logiciel Bacchus Gourmet; et (c) les représentations faites à la vérificatrice quant aux ventes faites pendant la période se terminant le 31 octobre 2006 et quant aux quantités de bière et de vin contenues dans les différents verres et autres contenants utilisés pour le service.
+[13] Les extraits des rapports de ventes détaillées déposés en preuve ont surtout démontré les incohérences dans la façon dont les commandes spéciales ont été enregistrées dans le système. Selon les données de l’appelante, les commandes spéciales (0003) bar représentent 556 unités de bière vendues à un prix moyen de 4,95 $; les commandes spéciales (0002) représentent 491 unités de vin vendues avec un repas à un prix moyen de 18,95 $ et les commandes spéciales (0019) représentent 45 pichets de bière vendus à un prix de 10 $.
+[14] Concernant les commandes spéciales (0003) bar, le prix moyen des consommations pour l’exercice financier 2006 a été de 4,97 $, alors qu’il a été de 4,71 $ pour le 1er trimestre de 2006, de 1,98 $ pour le 2e trimestre de 2006, de 4,93 $ pour 3e trimestre de 2006 et finalement de 10,71 $ pour le 4e trimestre de 2006.
+[15] Concernant les commandes spéciales (0002), le prix moyen des tables d’hôte pour l’exercice financier 2006 a été de 18,95 $, alors qu’il a été de 18,84 $ pour le 1er trimestre de 2006, de 8,08 $ pour le 2e trimestre de 2006, de 15,39 $ pour le 3e trimestre de 2006, et finalement de 31,30 $ pour le 4e trimestre de 2006.
+[16] Concernant les commandes spéciales (0019), le prix moyen du pichet de bière pour l’exercice financier 2006 a été de 10,18 $ (arrondi à 10,00 $), alors qu’il a été de 8,59 $ pour le 2e trimestre de 2006, de 12,76 $ pour le 3e trimestre de 2006 et finalement de 8,63 $ pour le 4e trimestre de 2006. À noter que pour le 1er trimestre de 2006, il n’y a pas eu d’entrées dans le système.
+[17] Lors des plaidoiries, l’avocat de l’appelante a surtout attaqué la fiabilité des chiffres de la vérificatrice compte tenu des nombreux ajustements qui ont dû être apportés à ses calculs jusqu’au jour même de l’audience par le dépôt de la Réponse à l’avis d’appel modifiée et il a grandement déploré le fait que la vérificatrice n’a pu être contre-interrogée lors de l’audience.
+[18] L’avocat de l’appelante a de plus reproché au ministre de n’avoir produit aucun calcul supportant l’octroi de 1 000 litres d’alcool pour tenir compte de la composante « happy hour » et autres ajustements analogues. Selon lui, cet ajustement est nettement insuffisant parce que les données de l’appelante indiquent que les ventes d’alcool réalisées dans le cadre du deux pour un de 16:00 à 19:00 heures représentent au minimum 58% des ventes totales d’alcool et parce que l’intimée n’a produit aucune preuve à l’effet que les données de l’appelante à cet égard étaient inexactes.
+[19] Concernant les commandes spéciales, l’avocat de l’appelante a reconnu que les données enregistrées dans le système n’étaient pas toujours exactes parce que les prix des promotions et des spéciaux variaient constamment et que les employés enregistraient à l’occasion de mauvais codes. L’avocat de l’appelante a minimisé l’importance de ces erreurs compte tenu du fait que le total des commandes spéciales ne représente que de 10 000 $ à 11 000 $ de ventes sur un total de 543 383 $ pour l’exercice financier 2006.
+[20] L’avocat de l’intimée a allégué que l’appelante n’avait aucune comptabilité et aucun registre pour les deux pour un. Les ventes détaillées enregistrées dans le système Bacchus Gourmet ne contenaient pas de données concernant les deux pour un. Le ministre en a tout de même tenu compte en accordant 984 litres d’alcool vendus dans le cadre des deux pour un. L’avocat de l’intimée a reconnu que les données enregistrées dans le système Bacchus Gourmet pour l’exercice financier de 2006 étaient assez précises mais que celles pour les autres périodes ne l’étaient pas.
+[21] L’objet du litige ne porte que sur l’écart de 50 000 $ dans le calcul de la taxe nette de l’appelante pour la période vérifiée et sur le ratio de 74,00 $ par litre de bière et de vin vendu par l’appelante. L’avocat de l’intimée a voulu démontrer que les données et les calculs utilisés pour établir le ratio de 74,00 $ par litre vendu étaient fiables et raisonnables dans les circonstances.
+[22] L’avocat de l’intimée a démontré qu’il existait un écart non justifiée de 13 000 $ entre les ventes déclarées pour l’exercice financier de 2006 au montant de 543 383 $ et le total des ventes détaillées enregistrées dans le système Bacchus Gourmet pour la même période au montant de 530 297,92 $.
+[23] L’avocat de l’intimée a expliqué les raisons pour lesquelles 5000 ml de bière oubliés ou mal calculés ont été ajoutés au nombre de litres d’alcool vendus ce qui a eu pour effet d’augmenter le nombre de litres vendus de 6 080 à 7 334 en tenant compte des 287 litres additionnels vendus et des 967 litres relatifs au « happy hour » (984 litres après arrondissement). Ces ajustements ont ramené le ratio par litre vendu à 74,17 $, arrondi à 74,00 $.
+[24] Les 984 litres accordés pour le « happy hour » doivent être comparés aux 2 780 litres réclamés par l’appelante. Par contre, en excluant les ventes de boissons fortes, les cocktails et les digestifs qui totalisent 482 litres, le nombre de litres réclamés par l’appelante passe de 2 780 litres à 2 298 litres, soit une différence de 1 300 litres par rapport aux 984 litres accordés par le ministre.
+[25] Concernant les ventes d’alcool effectuées dans le cadre du « happy hour », l’avocat de l’intimée a allégué que l’appelante avait le fardeau de démontrer que ses données étaient fiables et exactes. Selon l’avocat de l’intimée, cette démonstration n’a pas été faite. Personne n’est venu corroborer les données fournies par l’appelante. Les données enregistrées dans le système Bacchus Gourmet ne montrent pas les ventes effectuées dans le cadre du deux pour un et le système de contrôle interne de l’inventaire d’alcool est plutôt faible.
+[26] L’avocat de l’intimée a de plus attaqué la crédibilité du témoin parce qu’il a fourni des informations imprécises sur les composantes des commandes spéciales et qu’il n’a pas été constant dans ses explications.
+[27] Selon l’avocat de l’intimée, le ministre était pleinement justifié d’utiliser une méthode de vérification alternative dans ce cas parce que les ventes de bière et de vin effectuées dans le cadre du deux pour un n’étaient pas enregistrées dans le système Bacchus Gourmet et parce qu’il y avait des divergences dans les données enregistrées dans Bacchus Gourmet entre les données trimestrielles et le résultat global pour l’année 2006.
+[28] L’avocat de l’intimée a reconnu que l’octroi des 1 000 litres d’alcool consommés dans le cadre du deux pour un était arbitraire au même titre que les 2 298 litres réclamés par l’appelante et il a soutenu que les ajustements apportés par la Réponse à l’avis d’appel modifiée n’avaient pas pour effet d’invalider toute la cotisation et toute la vérification.
+Les dispositions législatives applicables et le fardeau de la preuve
+[29] Le paragraphe 286(1) de la LTA prévoit l'obligation d'un mandataire de tenir des livres et registres :
+Toute personne qui exploite une entreprise au Canada ou y exerce une activité commerciale, toute personne qui est tenue, en application de la présente partie, de produire une déclaration ainsi que toute personne qui présente une demande de remboursement doit tenir des registres en anglais ou en français au Canada ou à tout autre endroit, selon les modalités que le ministre précise par écrit, en la forme et avec les renseignements permettant d'établir ses obligations et responsabilités aux termes de la présente partie ou de déterminer le remboursement auquel elle a droit.
+[30] Le paragraphe 288(1) de la LTA confère aux personnes dûment autorisées le pouvoir de vérifier, notamment, les livres et registres d'un mandataire pour établir sa responsabilité fiscale :
+Une personne autorisée peut, en tout temps raisonnable, pour l'application ou l'exécution de la présente partie, inspecter, vérifier ou examiner les documents, les biens ou les procédés d'une personne, dont l'examen peut aider à déterminer les obligations de celle-ci ou d'une autre personne selon la présente partie ou son droit à un remboursement. […]
+[31] En vertu du paragraphe 296(1) de la LTA, le ministre du Revenu national peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire pour déterminer, entre autres, la taxe nette d'un mandataire pour une période de déclaration ainsi que les pénalités et les intérêts payables par celui-ci.
+[32] En vertu du paragraphe 299(3) de la LTA, une cotisation est réputée valide et exécutoire, sous réserve d'une nouvelle cotisation et d'une annulation prononcée par suite d'une opposition ou d'un appel fait selon la présente partie.
+[33] Dans l'affaire Amiante Spec Inc. et Sa Majesté la Reine, 2009 CAF 139 (CanLII), la Cour d'appel fédérale a formulé les commentaires suivants concernant le fardeau de la preuve applicable lorsqu'un contribuable désire contester la validité d'une cotisation ou d'une nouvelle cotisation :
+[15] L'affaire Hickman nous a rappelé que le ministre se fonde sur des présomptions pour établir une cotisation et que la charge initiale de démolir les présomptions exactes formulées par celui-ci est imposée au contribuable. Ce dernier s’acquitte de ce fardeau initial lorsqu’il présente au moins une preuve prima facie démolissant l’exactitude des présomptions formulées dans la cotisation. Enfin, lorsque le contribuable s’est déchargé de son fardeau initial, le fardeau de la preuve passe au ministre qui doit alors réfuter la preuve prima facie faite par celui-là et prouver les présomptions (Hickman, supra aux paragraphes 92-93-94).
+[...]
+[23] Une preuve prima facie est celle qui est « étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la Cour doit l'accepter si elle y ajoute foi, à moins qu'elle ne soit contredite ou que le contraire ne soit prouvé. Une preuve prima facie n'est pas la même chose qu'une preuve concluante, qui exclut la possibilité que toute conclusion autre que celle établie par cette preuve soit vraie » (Stewart c. Canada, [2000] T.C.J. No. 53 au paragraphe 23).
+[24] Bien qu'il ne s'agisse pas d'une preuve concluante, « le fardeau de la preuve imposé au contribuable ne doit pas être renversé à la légère ou arbitrairement » considérant « qu'il s'agit de l'entreprise du contribuable » (Voitures Orly inc. c. Canada, 2005 CAF 425 au paragraphe 20). Cette Cour a précisé que c'est le contribuable « qui sait comment et pourquoi son entreprise fonctionne comme elle le fait et pas autrement. Il connaît et possède des renseignements dont le ministre ne dispose pas. Il possède des renseignements qui sont à sa portée et sur lesquels il exerce un contrôle » (ibid.).
+Analyse et conclusion
+[34] Selon ce qui a été mis en preuve, il m'apparaît que le ministre était justifié d'utiliser une méthode indirecte de vérification pour établir que les montants de taxe nette de l'appelante étaient bien déclarés.
+[35] L'écart non justifié de 13 000 $ entre les ventes déclarées et les ventes enregistrées dans le système Bacchus Gourmet pour l'exercice financier de 2006, les erreurs dans l'enregistrement des données concernant les commandes spéciales et l'absence de registre concernant les ventes de bière et de vin effectuées dans le cadre des deux pour un, justifient pleinement l'utilisation d'une méthode indirecte de vérification dans ce cas.
+[36] La vérification a été laborieuse et la communication entre l'appelante et la vérificatrice semble avoir été plutôt difficile. Dans un tel contexte, il ne faut pas se surprendre que de nombreux ajustements ont dû être apportés au projet de cotisation et à la cotisation elle-même. En tenant compte de l'ensemble des ajustements apportés, il y a tout de même lieu de conclure que la méthode indirecte de vérification utilisée par le ministre a procuré des résultats fiables.
+[37] Les données comptables fournies par l'appelante pour l'année financière se terminant le 31 octobre 2006 ont été considérées par la vérificatrice comme étant suffisamment fiables aux fins de l'établissement du ratio que rapporte chaque litre de bière et de vin vendu. Les quantités de litres de bière et de vin achetées pendant l'ensemble des périodes de déclaration faisant partie de la période vérifiée ont été admises par l'appelante. La méthode indirecte de vérification utilisée par le ministre a été entérinée par plusieurs décisions de notre Cour, dont celles rendues dans 9100-8649 Québec Inc. c. La Reine, 2013 CCI 160 (en appel à la Cour d'appel fédérale), Restaurant Place Romaine Inc. c. La Reine, 2010 CCI 347 et 9110-1568 Québec Inc. c. La Reine, 2009 CCI 554, et n'est pas contestée par l'appelante.
+[38] En fait, le principal point contesté par l'appelante porte sur l'allocation de 1 000 litres d'alcool pour tenir compte de la composante "happy hour" et autres ajustements analogues, ce qui est, selon l'appelante, nettement insuffisant compte tenu du fait que les ventes d'alcool réalisés dans le cadre des deux pour un, représentent un minimum de 58% des ventes totales d'alcool du restaurant. L'allocation accordée par le ministre représente environ 10% des litres de bière et de vin achetés par l'appelante au cours de l'année 2006 (soit environ 9 000 litres) et environ 14% de tous les litres de bière et de vin vendus par l'appelante (soit environ 7 334 litres) au cours de cette même période. Tel qu'expliqué au paragraphe 24 ci-dessus, l'enjeu porte sur 1 300 litres d'alcool, soit la différence entre les litres réclamés par l'appelante (soit 2 298 litres) et les 984 litres accordés par le ministre.
+[39] L'appelante avait le fardeau de démontrer que les ventes de bière et de vin effectuées dans le cadre des deux pour un, étaient supérieures aux 984 litres accordés par le ministre. À mon avis, l'appelante ne s'est pas déchargée de son fardeau de la preuve à cet égard. Les éléments de preuve soumis par l'appelante ne créent pas le degré de probabilité requis pour constituer une preuve prima facie suffisante pour renverser le fardeau de la preuve compte tenu de l'absence d'un registre des ventes de bière et de vin effectuées dans le cadre des deux pour un, du manque de corroboration du nombre de litres de bière et de vin vendus dans le cadre des deux pour un soumis par l'appelante et de la valeur non probante du témoignage de monsieur Bakopanos qui a fourni des explications parfois contradictoires concernant les écarts enregistrés à l'égard des commandes spéciales.
+[40] L'allocation de 984 litres accordée par le ministre pour tenir compte des ventes de bière et de vin effectuées dans le cadre des deux pour un, est raisonnable dans les circonstances. Compte tenu du fait que le témoignage de monsieur Bakopanos n'est pas corroboré par une preuve documentaire fiable ou encore par le témoignage de témoins crédibles et indépendants, il m'est difficile d'accorder une allocation supplémentaire à l'appelante.
+[41] Pour ce qui est des pénalités prévus aux articles 280 et 285 de la LTA, l'avocat de l'appelante n'a pas fait de représentation à l'audience et ne sont donc pas contestées par l'appelante. L'article 285 prévoit l'application de la pénalité lorsqu'une personne « sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration ». Le fardeau de la preuve relatif à cette disposition repose sur l'intimée. La preuve a démontré que l'appelante a fait de faux énoncés ou omissions dans ses déclarations de taxes et ce, de façon répétitive. L'appelante n'a pas présenté d'explications quant à ses omissions et la seule conclusion possible est qu'elles sont le résultat d'une négligence flagrante de sa part qui équivaut à une faute lourde.
+[42] Pour ces motifs, l'appel est accueilli mais seulement pour donner effet à la concession faite par le ministre à l'ouverture de l'audience. Par conséquent, la nouvelle cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation pour que le montant des rajustements apportés au calcul de la taxe nette déclarée par l'appelante pour les quatre (4) périodes de déclaration visées soit diminué du montant de 14 472,75 $ cotisé en trop pour qu'il soit établi à un montant de 51 719,88 $ avec ajustements pour les intérêts et les pénalités.
+Signé à Ottawa, Canada, ce 9e jour de janvier 2014.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2014 CCI 4
+Nº DU DOSSIER DE LA COUR : 2009-3116(GST)I
+INTITULÉ DE LA CAUSE : 9120-1616 Québec Inc. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 6 juin 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 9 janvier 2014
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Mimikos Athanassiadis
+Avocat de l'intimée :
+Me Benoît Denis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Mimikos Athanassiadis
+Cabinet : Mimikos Athanassiadis
+Avocat
+Westmount (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

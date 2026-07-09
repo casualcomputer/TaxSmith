@@ -1,0 +1,219 @@
+---
+title: "Freeway Technologies Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26780/index.do"
+last_modified: "2006-04-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 243"
+citation2: ""
+neutral_citation: "2006 CCI 243"
+decision_date: "2006-04-20"
+language: "fr"
+item_id: "26780"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3474
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:40:43.435000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "08bd68b6da07483c180bd6f576d1322128129141b7d00402bf4221a49db98534"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Freeway Technologies Inc. c. M.R.N.
+
+- Citation: 2006 CCI 243
+- Decision date: 2006-04-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3474, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Freeway Technologies Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-20
+Référence neutre
+2006 CCI 243
+Numéro de dossier
+2005-3646(EI)
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005‑3646(EI)
+ENTRE :
+FREEWAY TECHNOLOGIES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MARK BRIDEAU,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 avril 2006, à Saint John (Nouveau‑Brunswick).
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Représentant de l’appelante :
+Greg Jewett
+Avocat de l’intimé :
+Me Claude Lamoureux
+Pour l’intervenant :
+L’intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté sous le régime du paragraphe 103(1) de la Loi sur l’assurance‑emploi visant la période du 5 janvier 2004 au 4 juin 2004 est rejeté, et la décision du ministre du Revenu national selon laquelle M. Brideau exerçait un emploi assurable est confirmée.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 16e jour de juin 2006.
+Jean David Robert, traducteur
+Dossier : 2005‑3645(CPP)
+ENTRE :
+FREEWAY TECHNOLOGIES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MARK BRIDEAU,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 avril 2006, à Saint John (Nouveau‑Brunswick).
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Représentant de l’appelante :
+Greg Jewett
+Avocat de l’intimé :
+Me Claude Lamoureux
+Pour l’intervenant :
+L’intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté sous le régime du paragraphe 28(1) du Régime de pensions du Canada visant la période du 15 novembre 2003 au 1er janvier 2004 est rejeté, et la décision du ministre du Revenu national selon laquelle M. Brideau exerçait un emploi ouvrant droit à pension est confirmée.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 16e jour de juin 2006.
+Jean David Robert, traducteur
+Référence : 2006CCI243
+Date : 20060420
+Dossiers : 2005‑3646(EI)
+2005‑3645(CPP)
+ENTRE :
+FREEWAY TECHNOLOGIES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MARK BRIDEAU,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] La Cour est saisie d’un appel visant les décisions rendues par le ministre du Revenu national (le « ministre ») selon lesquelles Mark Brideau exerçait un emploi assurable et ouvrant droit à pension auprès de Freeway Technologies Inc. pendant la période du 5 janvier 2004 au 4 juin 2004.
+[2] Les hypothèses sur lesquelles les déterminations du ministre étaient fondées sont les suivantes :
+[traduction]
+a) l’appelante est une société qui offre des services d’intégration et de consultation visant les systèmes de réseaux d'ordinateurs, qui vend et entretient des réseaux d'ordinateurs et qui fournit des pièces d’ordinateurs et un soutien informatique;
+b) l’appelante était en activité toute l’année;
+c) Pendant la période visée par l’appel, le travailleur a été engagé par l’appelante à titre de directeur du service de vente et d’après‑vente, et ses tâches consistaient notamment à trouver de nouveaux clients et à offrir un soutien technique aux nouveaux clients et aux clients établis de l’appelante;
+d) pendant la période visée par l’appel, l’appelante fournissait au travailleur les instruments de travail nécessaires pour accomplir le travail, une connexion à Internet, un compte de courrier électronique, un télécopieur, une imprimante et lui donnait accès à son atelier de réparation, et ce, gratuitement;
+e) pendant la période visée par l’appel, le travailleur utilisait son ordinateur portable, son téléphone cellulaire et son véhicule et il n’était pas indemnisé pour leur utilisation;
+f) pendant la période visée par l’appel, l’appelante assumait les pertes découlant du non-paiement des factures présentées à ses clients, et ce fait n’avait aucune incidence sur le salaire payé au travailleur;
+g) pendant la période visée par l’appel, l’appelante garantissait le travail accompli pour ses clients par le travailleur;
+h) pendant la période visée par l’appel, le travailleur recevait un salaire hebdomadaire établi en fonction des montants suivants :
+Salaire annuel 40 000 $
+Salaire hebdomadaire brut 769,23 $
+Salaire hebdomadaire net 553,77 $
+i) pendant la période visée par l’appel, le travailleur a fourni des services à l’appelante durant 22 semaines civiles;
+j) le travailleur a reçu de l’appelante un relevé d'emploi qui indiquait 880 heures assurables et une rémunération assurable de 16 923,06 $ (769,23 $ par semaine x 22 semaines);
+k) après la période visée par l’appel, le travailleur a exploité une entreprise individuelle sous la raison sociale « e-Pro Computer Services » et il a fourni des services à l’appelante aux termes d’un contrat;
+l) après la période visée par l’appel, le travailleur fournissait ses services à l’appelante à un prix équivalant à 33 % du prix exigé par l’appelante pour ces services de son client plus la TPS;
+m) après la période visée par l’appel, les dates et les montants des paies du travailleur ont varié.
+[3] Mark Brideau a été engagé[1] par l’appelante et il a travaillé pour elle pendant la période en cause.
+[4] Les critères habituellement utilisés pour déterminer si une personne est un employé ou un entrepreneur indépendant correspondent aux quatre critères établis par la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Ltd. v. M.N.R., [1986] 2 C.T.C. 200 (le contrôle, la propriété des instruments de travail, les chances de bénéfice ou les risques de perte et l’intégration). Ces critères ont été en bonne partie confirmés par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 4 C.T.C. 139, bien que le critère d’intégration soit généralement considéré comme difficile à appliquer. Récemment, dans l’arrêt The Royal Winnipeg Ballet c. M.N.R., 2006 CAF 87, la Cour d’appel fédérale a établi un autre critère qui s’applique aux causes régies par la common law, à savoir l’intention. Ce facteur a toujours occupé une place importante dans les causes régies par le Code civil du Québec, mais l’arrêt The Royal Winnipeg Ballet lui a donné une portée qu’il ne semble pas avoir eue auparavant dans les causes assujetties à la common law. Je n’irais pas jusqu’à dire qu’il remplace les critères établis dans les arrêts Wiebe et Sagaz, mais il vient s’y superposer. Je n’ai pas besoin de me pencher sur ce critère en l’espèce, car, pour qu’il puisse influencer la décision de la Cour, il aurait au moins fallu que je croie à l’existence d’une intention commune. En l’espèce, l’appelante et M. Brideau ne sont pas du tout d’accord. M. Brideau désire être un employé et croit qu’il en est un.
+[5] La pièce dont nous disposons qui se rapproche le plus d’un contrat écrit correspond à la pièce A-3, soit un échange de courriels entre Greg Jewett et Mark Brideau, dont les extraits suivent :
+[traduction]
+Mark,
+J’ai hâte de commencer! À cause d’événements survenus récemment, mon avocat m’a conseillé d’améliorer mes contrats d’emploi. Nous allons donc devoir travailler très fort pour ce faire, mais je crois que nos efforts nous profiteront à long terme. Appelle-moi pour que nous puissions fixer une heure ou deux pour travailler sur les contrats d’emploi à l’extérieur du magasin.
+[...]
+Greg,
+[...]
+Greg, je pense à cette entreprise depuis quelque temps et je ne sais pas exactement ce que je devrais viser, mais je dois répondre à des directeurs de banque et à une épouse. Donc, ce que je propose c’est que, pendant les six premiers mois, je ne toucherai pas de commissions de sorte que tous les revenus retournent à la société.
+Je crois que nous pourrons établir un programme et une stratégie de vente en quelques semaines et que nous serons donc en mesure de commencer à poster nos factures très bientôt.
+Pendant les six premiers mois, pas de frais de déplacement (essence) engagés à l’extérieur de Saint John, par exemple à Fredericton ou à Moncton. Je ne demanderai jamais le remboursement de mes dépenses d’essence effectuées à Saint John ou dans les régions environnantes.
+Pendant les six premiers mois, pas de commissions. (Par la suite, les commissions seront négociées. Elles seront probablement assujetties à une échelle variable et établies en fonction du chiffre d’affaires total mensuel.) Mon salaire de base devra se situer entre 40 000 $ et 45 000 $ par année, le minimum dont j’aurai besoin pour survivre. Je prévois recevoir un salaire dans les six chiffres lorsque je commencerai à toucher des commissions après les six premiers mois.
+[6] Les critères établis dans l’arrêt Wiebe Door ne doivent pas être appliqués mécaniquement. Par exemple, il faut donner à « contrôle » un sens qui est compatible avec la vie moderne. Certes, M. Jewett avait le droit de dire à M. Brideau quels clients visiter et quelles tâches accomplir, mais je doute beaucoup qu’il pût lui dire comment exercer ses fonctions.
+[7] De même, concernant la propriété des outils, M. Brideau avait son propre ordinateur portable. La plupart des gens en ont un. Je ne pense pas que ce fait nous aide à déterminer qui était le propriétaire des instruments de travail. En ce qui concerne le critère un peu flou de l’intégration, M. Brideau semble avoir été intégré dans l’entreprise de l’appelante. La carte de M. Brideau indique qu’il était le « directeur des ventes et du marketing » de l’appelante. Cependant, un entrepreneur indépendant peut faire partie intégrante d’une entreprise et y être intégré au même titre qu’un employé. Pour ce motif, je suis d’avis que le critère d’intégration est peu utile en l’espèce.
+[8] Le critère le plus pertinent est celui énoncé par le juge Cooke dans la décision Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732, p. 737 à 738, dont un extrait est reproduit dans l’arrêt Sagaz :
+[traduction]
+Les remarques de lord Wright, du lord juge Denning et des juges de la Cour suprême des États-Unis laissent à entendre que le critère fondamental à appliquer est celui-ci : « La personne qui s'est engagée à accomplir ces tâches les accomplit-elle en tant que personne à son compte? » Si la réponse à cette question est affirmative, alors il s'agit d'un contrat d'entreprise. Si la réponse est négative, alors il s'agit d'un contrat de service personnel. Aucune liste exhaustive des éléments qui sont pertinents pour trancher cette question n'a été dressée, peut-être n'est-il pas possible de le faire; on ne peut non plus établir de règles rigides quant à l'importance relative qu'il faudrait attacher à ces divers éléments dans un cas particulier. Tout ce qu'on peut dire, c'est qu'il faudra toujours tenir compte du contrôle même s'il ne peut plus être considéré comme le seul facteur déterminant; et que des facteurs qui peuvent avoir une certaine importance sont des questions comme celles de savoir si celui qui accomplit la tâche fournit son propre outillage, s'il engage lui-même ses aides, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion, et jusqu'à quel point il peut tirer profit d'une gestion saine dans l'accomplissement de sa tâche. L'utilisation du critère général peut être plus facile dans un cas où la personne qui s'engage à rendre le service le fait dans le cadre d'une affaire déjà établie; mais ce facteur n'est pas déterminant. Une personne qui s'engage à rendre des services à une autre personne peut bien être un entrepreneur indépendant même si elle n'a pas conclu de contrat dans le cadre d'une entreprise qu'elle dirige actuellement.
+[9] Je ne crois pas qu’on puisse dire à juste titre que M. Brideau exploitait une entreprise pour son propre compte. Il est évident qu’il travaillait pour le compte de l’appelante. M. Jewett a affirmé que M. Brideau avait, pendant sa période d’emploi, accompli du travail pour d’autres clients de l’appelante sous la raison sociale « e‑Pro Computer Services ». Je ne crois pas que ce fait a été établi, et M. Brideau affirme n’avoir travaillé pour d’autres personnes sous la raison sociale « e‑Pro Computer Services » qu’après avoir cessé de travailler pour le compte de l’appelante.
+[10] Je crois que la rémunération de M. Brideau était établie en fonction d’un salaire annuel de 40 000 $. Il recevait une paie hebdomadaire de 553,77 $ après impôt, lequel, selon M. Brideau, était remis par l’appelante pour son compte. À proprement parler, ce critère ne fait pas vraiment partie des quatre critères énoncés dans l’arrêt Wiebe, mais il est difficile d’envisager qu’un entrepreneur indépendant puisse recevoir un salaire fixe dont l’impôt sur le revenu est déduit par l’employeur.
+[11] Les appels sont rejetés, et les décisions du ministre du Revenu national selon lesquelles M. Brideau exerçait un emploi assurable et ouvrant droit à pension sont confirmées.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 16e jour de juin 2006.
+Jean David Robert, traducteur
+RÉFÉRENCE :
+2006CCI243
+Nos DES DOSSIERS DE LA COUR :
+2005‑3646(EI) et 2005‑3645(CPP)
+INTITULÉ :
+Freeway Technologies Inc. et
+le ministre du Revenu national et
+Mark Brideau
+LIEU DE L’AUDIENCE :
+Saint John (Nouveau‑Brunswick)
+DATE DE L’AUDIENCE :
+Le 10 avril 2006
+MOTIFS DU JUGEMENT :
+L’honorable juge en chef D.G.H. Bowman
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 20 avril 2006
+COMPARUTIONS :
+Représentant de l’appelante :
+Greg Jewett
+Avocat de l’intimé :
+Me Claude Lamoureux
+Pour l’intervenant :
+L’intervenant lui-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Greg Jewett
+Cabinet :
+Freeway Technologies Inc.
+C.P. 6392, Brunswick Square
+Saint John (Nouveau‑Brunswick)
+Pour l’intimé :
+John Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] J’utilise « engagé » comme un mot neutre qui n’implique ni un emploi ni un engagement en tant qu’entrepreneur indépendant.

@@ -1,0 +1,286 @@
+---
+title: "Brown v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25631/index.do"
+last_modified: "2005-05-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 251"
+citation2: ""
+neutral_citation: "2005 TCC 251"
+decision_date: "2005-05-06"
+language: "en"
+item_id: "25631"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2437
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:44:27.973000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "642bc002746e94e39904a28b036fb3bbf957e760ea76c8052a53daef71ababab"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brown v. The Queen
+
+- Citation: 2005 TCC 251
+- Decision date: 2005-05-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2437, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brown v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-06
+Neutral citation
+2005 TCC 251
+File numbers
+2002-1799(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC251
+Date: 20050506
+Docket: 2002-1799(IT)I
+BETWEEN:
+TERRY C. BROWN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench at
+Regina, Saskatchewan, on February 14, 2003)
+[1] This appeal pursuant to the Informal Procedure was heard at Regina, Saskatchewan on February 12, 2003. The Appellant was the only witness. He resides at Birch Hills, Saskatchewan, about 320 kilometres north of Regina. The particulars in dispute are set forth in paragraphs 15 to 20, inclusive, of the Reply to the Notice of Appeal, which reads:
+15) In reassessing the Appellant, the Minister, among other things:
+a) restricted the Appellant’s farming losses in accordance with subsection 31(1) of the Act;
+b) allowed ($4,515) net farming loss in 1997; and
+c) allowed ($8,750) net farming loss in 1998.
+16) The restricted farm loss calculated by the Minister is as follows:
+1997:
+Farm loss originally claimed
+-$12,604.00
+adjustments
+6,075.00
+revised farm loss
+6,529.00
+Restriction: $2,500 plus the lesser of ½ of ($6,529 - $2,500) or 6,250
+-2,014.50
+Maximum loss deductible
+4,514.50
+Recalculated loss
+6,259.00
+Amount restricted ($6,529 - $4,514.50)
+$2,014.50
+1998:
+Farm loss originally claimed
+-$24,023.00
+adjustments
+5,099.00
+revised farm loss
+18,924.00
+Restriction: $2,500 plus the lesser of ½ of ($18,924 - $2,500) or 6,250
+6,250.00
+Maximum loss deductible
+8,750.00
+Recalculated loss
+18,924.00
+Amount restricted ($18,924 - $8,750)
+$10,174.00
+17) In so assessing the Appellant for the 1997 and 1998 Taxation Years, the Minister made the following assumptions of fact:
+a) at all material times the Appellant claimed net farm losses as a proprietor and reported employment income as follows:
+Year
+“Other Income”
+Gross Farm Income
+Net Farm Profit (Loss)
+Employment Income
+1990
+2,464
+1,193
+(5,632)
+50,120
+1991
+2,238
+15,816
+(9,621)
+*
+46,588
+1992
+837
+46,339
+(6,929)
+*
+44,479
+1993
+774
+52,697
+(18,165)
+*
+43,441
+1994
+7,645
+107,956
+361
+50,719
+1995
+985
+112,300
+(26,328)
+48,276
+1996
+659
+118,896
+(26,573)
+46,485
+1997
+6,879
+94,575
+(12,604)
+**
+46,629
+1998
+1,619
+72,309
+(24,023)
+**
+49,495
+1999
+20,757
+81,488
+(39,241)
+67,866
+(i) “Other income” in the chart includes all other sources of income (such as RRSP withdrawals, capital gains, interest income etc.);
+(ii) for 1991, 1992 and 1993: allowed $6,093, $4,746 and $8,750 (Section 31 applied by Appellant on filing);
+(iii) ** for 1997 and 1998: restricted as noted in paragraph 16 above;
+b) the Appellant started farming in 1990;
+c) the Appellant claimed net farm losses from 1991 to 1993 on a restricted basis and the restriction was confirmed by the Minister by a previous Notification of Confirmation dated 16th day of May 1996 for the 1991, 1992 and 1993 Taxation Years;
+d) the Appellant owns 320 acres of land (“the Land”);
+f) the legal description of the Land is W ½ 19-47-23 W2;
+g) the Appellant rents an additional 87 acres from his mother;
+h) the legal description of the rented land is E ½ NE 24-47-24 W2 (“the Rented Land”);
+i) the Appellant’s personal residence is on the Rented Land;
+j) in or around 1996 the Appellant reduced the size of his farming operation by selling 520 acres of farm land, leaving 320 acres to farm;
+k) the Appellant is a grain farmer;
+l) the Appellant grew barley (both feed and malt), wheat and canola on the Land;
+m) in the 1997 and 1998 Taxation years the Appellant purchased the following assets for the following prices:
+i) Flexicoil Auger $3,000
+ii) TR 85 combine $30,000
+iii) Twister Bins $1,985
+iv) Grain Moisture Tester $500
+v) Case 830 Tractor $1,000
+vi) Versataille 856 Tractor $83,196
+n) in the 1997 and 1998 Taxation years, the Appellant sold the following assets for the following prices:
+i) 10 x 50 Farm King Auger $2,200
+ii) PT Combine $15,000
+iii) Versataille 500 Tractor $10,000
+iv) International Hoe $1,000
+v) TR 85 Combine $36,934
+o) the Appellant is a correctional supervisor at the Prince Albert Penitentiary (the Penitentiary);
+p) the Appellant has worked at the Penitentiary for approximately 20 years;
+q) the Appellant is entitled to receive a pension from Corrections Canada in approximately 2010;
+r) the Appellant works 37.5 hours per week at the Penitentiary;
+s) in 1997 and 998 the Appellant was entitled to take 4 weeks vacation each year;
+t) the Appellant has received money from AIDA (Agriculture Income Disaster Assistance Program) and is a NISA (Net Income Stabilization Account) participant;
+u) the only year that the Appellant reported a profit from farming since commencement in 1990 was in 1994 when a profit of $361.00 was reported;
+v) the Appellant relies on his employment income to support himself and his family;
+w) the Appellant spends at least one hour daily to travel to and from his employment at the Penitentiary;
+x) the Appellant spends the majority of his time on his employment;
+y) the Appellant earns his livelihood principally from his employment with the Penitentiary;
+z) the Appellant’s chief source of income during the 1997 and 1998 Taxation Years was neither farming nor a combination of farming and some other source of income.
+Other Material Facts:
+18) a) For the 2000 Taxation Year, the Appellant
+reported the following:
+T4 employment income $59,880
+Dividends 9
+Taxable capital gains 3,237
+Net farm income 18,057
+Total income reported $81,183
+b) For the 2001 taxation year, the Appellant reported the following T4 employment income:
+T 4 employment income $73,143
+Dividends 9
+Interest 19
+Net farm loss (38,688)
+Total income reported $34,483
+B. ISSUES TO BE DECIDED
+19) The issue is whether the Appellant’s chief source of income was farming or a combination of farming and some other source of income during the 1997 and 1998 Taxation Years.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+20) He relies on sections 3 and 9, subsections 31(1) and 248(1) and paragraphs 18(1)(a) and 18(1)(h) of the Act as amended for the 1997 and 1998 Taxation Years.
+[2] The Appellant admitted paragraphs 16, 17 a), c), d), f), g), h), i), j), k), l), o), p), q), r), s), t), and 18. Assumptions 17 m), n) u), v) and w) were not refuted. The remaining paragraphs are in dispute.
+[3] On the basis of the Section 31 assessment, the Appellant had a reasonable expectation of profit. On the totality of evidence, his time spent was about equal between his employment and farming, but if anything, some more time would have been spent farming. As a result, the question becomes if the Appellant could have made a significant profit in 1997 and 1998, why didn’t he?
+[4] The farm owned by the Appellant was originally homesteaded by his grandfather in World War I, farmed by his father and bought by him, one-quarter from his father’s foreclosure proceedings and one-quarter from his father’s estate. His mother’s land, which he leases, was homesteaded by his great-grandfather and kept in the family. The Appellant’s home is on his mother’s land. The Appellant was raised in farming throughout his boyhood and has been involved in farming ever since then. The Appellant owned and lost the additional land through another foreclosure purchase which was subject to an option to purchase by the original foreclosed farmer. That farmer recovered financially and exercised his option to buy from the Appellant in 1996. As a result, the Appellant’s total land farmed was reduced substantially to less than three quarters of a section in 1997 and 1998. This occurrence affected profitability in 1997 and 1998. At about that time, land prices in his area increased by about 20 percent plus to $100,000 per quarter and cash rents had become about $50 per acre. The Appellant feels that he cannot make a profit at those rates if he has to purchase or rent. The Court finds that this is a valid business decision.
+[5] The fall of 1996 was unusually wet in the Birch Hills area where the Appellant farmed. As a result, his crop was left in the fields over the winter and harvested in the spring of 1997 respecting the barley crop only. The Appellant chose to leave the barley, his lowest-priced crop, in the fields. That spring, his tractor caught fire and, as a result, was in repair for about six months. He was forced to lease a new John Deere tractor. This unexpected occurrence also affected the Appellant’s costs in 1997 and 1998. As a result of this, the Appellant had two combines and two tractors. In the fall of 1997, he traded one combine and one tractor to acquire a combine. In the fall of 1998, he traded one combine and one tractor for a new tractor, which reduced his financial and his interest payments and spread them over four years. In other words, he tried to rationalize his operation with better equipment at a lower cash output.
+[6] At the end of 1998, the Appellant applied for and received Federal Agriculture Income Disaster Assistance grant, which is paid if your 1998 farm income falls below 70 percent of your previous average farm income. He received $383.91 after allowing for his NISA and other AIDA payments, Exhibit A-8. This occurrence indicates to the Court that one arm of the Federal Government considered the Appellant to be a farmer in 1998. It also indicates the Appellant’s historic level of farm income in 1998.
+[7] The Appellant’s income figures that are important respecting this case are as follows:
+Employment Income
+Gross Farm Income
+Net Farm Income
+CCA Taken
+1997
+$46,629
+$94,575
+($12,604)
+$19,492.99
+1998
+$49,495
+$72,309
+$24,023
+$26,617.94
+[8] Thus in each year, the Appellant would have a profit from farming had CCA not been taken. Moreover, the Appellant’s expenses in CCA in 1997 would have been less had he not been harvesting in the spring of 1997 and had he not had the tractor fire then. Similarly, his CCA in 1998 would have been less had he not, in a businesslike fashion, done his 1997 and 1998 trades, which were initiated by the tractor fire. Finally, in the Court’s view, taking CCA is optional.
+[9] The Court notes two further relevant factors in this case:
+(1) the Appellant does not live on the farmland that he owns or rents. He lives on his mother’s land. Thus, his farming is a business operation without a personal asset.
+(2) the Appellant made a profit of $18,057 from farming in 2000.
+[10] In all of these circumstances, the Court finds that the Appellant’s farming operation was capable of making a significant profit in 1997 and 1998 and would have had there not occurred:
+(1) the exercise of the option to purchase in 1996;
+(2) the wet fall in 1996 and the spring harvest of 1997; and
+(3) the 1997 tractor fire, all of which had carryover effects as to costs in the subsequent years and as to income in the subsequent years, but particularly in 1997 and 1998.
+[11] The appeal is allowed. The Appellant is awarded the sum of $300 to reimburse him for out-of-pocket disbursements incurred on account of the prosecution of this appeal and the hearing in Regina.
+Signed at Saskatoon, Saskatchewan, this 6th day of May 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2005TCC251
+COURT FILE NO.:
+2002-1799(IT)I
+STYLE OF CAUSE:
+Terry C. Brown v. The Queen
+PLACE OF HEARING:
+Regina, Saskatchewan
+DATE OF HEARING:
+February 14, 2003
+ORAL REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF ORAL REASONS:
+May 6, 2005
+APPEARANCES:
+Agent for the Appellant:
+Blair Schlosser
+Counsel for the Respondent:
+Michael Van Dam
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,337 @@
+---
+title: "MacIsaac v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29968/index.do"
+last_modified: "2009-08-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 436"
+citation2: ""
+neutral_citation: "2010 TCC 436"
+decision_date: "2009-08-19"
+language: "en"
+item_id: "29968"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6453
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:03:09.940000+00:00"
+cases_cited_count: 11
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bc43104a245c466e6c9b73612d609e9462dd9dd995e8f828184efa591f806a23"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# MacIsaac v. The Queen
+
+- Citation: 2010 TCC 436
+- Decision date: 2009-08-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6453, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacIsaac v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-08-19
+Neutral citation
+2010 TCC 436
+File numbers
+2007-3661(IT)G
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3661(IT)G
+BETWEEN:
+WILFRED MacISAAC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Tim Speakman, 2007-3663(IT)G
+on June 10 and 11 and December 8, 2009, at Halifax, Nova Scotia,
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+Counsel for the Appellant:
+Bruce S. Russell, Q.C.
+Counsel for the Respondent:
+Darlene M. Lamey
+Toks C. Omisade (June 10 and 11, 2009 only)
+Jill Chisholm (December 8, 2009 only)
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act (the “Act”) for the Appellant’s 2005 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant qualifies for the overseas employment tax credit (OETC) in accordance with section 122.3 of the Act with respect to income earned from his employer, Offshore Recruiting Services Inc., in the 2005 taxation year.
+The Appellant shall have his costs of this action to be taxed on the basis of one bill of costs for the Appellants, Wilfred MacIsaac and Tim Speakman.
+Signed at New Glasgow, Nova Scotia, this 19th day of August 2010.
+“T.E. Margeson”
+Margeson J.
+Docket: 2007-3663(IT)G
+BETWEEN:
+TIM SPEAKMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Wilfred MacIsaac, 2007-3661(IT)G
+on June 10 and 11 and December 8, 2009, at Halifax, Nova Scotia,
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+Counsel for the Appellant:
+Bruce S. Russell, Q.C.
+Counsel for the Respondent:
+Darlene M. Lamey
+Toks C. Omisade (June 10 and 11, 2009 only)
+Jill Chisholm (December 8, 2009 only)
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act (the “Act”) for the Appellant’s 2005 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant qualifies for the overseas employment tax credit (OETC) in accordance with section 122.3 of the Act with respect to income earned from his employer, Offshore Recruiting Services Inc., in the 2005 taxation year.
+The Appellant shall have his costs of this action to be taxed on the basis of one bill of costs for the Appellants, Wilfred MacIsaac and Tim Speakman.
+Signed at New Glasgow, Nova Scotia, this 19th day of August 2010.
+“T.E. Margeson”
+Margeson J.
+Citation: 2010 TCC 436
+Date: 20100819
+Docket: 2007-3661(IT)G
+BETWEEN:
+WILFRED MacISAAC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2007-3663(IT)G
+AND BETWEEN:
+TIM SPEAKMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Margeson J.
+[1] The Appellants are appealing the decision of the Minister of National Revenue (the “Minister”) denying their applications for overseas employment tax credit (“OETC”) with respect to the income earned from their employer, Offshore Recruiting Services Inc. (“ORSI”), in the 2005 taxation year.
+Evidence
+[2] Adrian Coady was the President of ORSI. He attended St. Francis Xavier University and the University of Toronto. He has been dedicated to the oil and gas industry since then, in both land operations and non-land operations. He was the manager of personnel at Harvey Offshore Services Inc. in St. John’s, Newfoundland, until 1997 when he founded ORSI. Harvey Offshore Services Inc. provided personnel to drilling operations. Most of his work was operational.
+[3] He is able to “chase down” clients and obtain qualified personnel for many businesses who operate offshore. ORSI is located in St. John’s, Newfoundland, and has six administrative personnel (payroll), two recruiting personnel in St. John’s and one employee in Halifax. In 2008, ORSI had a $19,000,000 turnover in salaries and expenses. They had many employees operating around the world. In 2009, they had 200 people worldwide, in 2008, 272 people and in 2005, 200 people.
+[4] He wanted to continue the core business he had with Harvey Offshore Services Inc. ORSI provides primary operational personnel to rigs, ships and offshore businesses. ORSI had twenty clients in Canada and internationally. Most of their clients have a contractual relationship with them. It develops contractual terms and rate scales for different levels of competence. It tries to convince their clients to engage its services. A lot of public relations is involved.
+[5] It tries to secure a contract with the clients and then secure the personnel that the contract requires.
+[6] ORSI profiles the employee for the client and when the employee is accepted ORSI processes them for that job including medical and drug screening before engaging them and dispatching them. ORSI has to determine their “certificates of competence”. It has a training matrix that determines where the prospective employee is in relation to what is needed.
+[7] ORSI buys the plane ticket, puts them in the air, has an agent meet them, obtains their hotel and takes them to the helicopter to go to the vessel. Each person must bring along his documentation including his passport and qualifications certificates. The employee is then assigned, accommodated and put to work, in Canada and internationally.
+[8] In 2005, ORSI was heavily involved in Canada and in other places around the world such as in the Gulf of Mexico, the North Sea, West Africa, Brazil and Mauritania. Most of ORSI’s work is for major clients who have 20 to 30 employees at any one site. Sometimes they supply a whole ship’s complement. After an inquiry by a client, ORSI makes an assessment of the ship’s layout and requirements. It is an interactive process.
+[9] ORSI has responsibility for their employees throughout the process, although it does not direct their day-to-day work. If the employee is not working out, he has to be replaced.
+[10] Time sheets are prepared by ORSI personnel who prepare logs of the hours of work and they are approved by the Master of the ship or some other person who has authority to sign off on them. Time sheets are sent to ORSI’s payroll specialists. ORSI then pays the employees.
+[11] When crew changes are performed, ORSI sends a detailed disembark list for the employees’ going and coming. It has responsibility for the well-being of their employees. Either ORSI or the employee contacts their families. Those injured or killed are returned by ORSI. Other than supervisors on the ship, ORSI is responsible for the employees.
+[12] During the term of the contract, ORSI’s people at the site or in St. John’s or Halifax resolve matters in dispute or it is done by telephone.
+[13] ORSI provides a good benefits plan for all employees at the point of hiring.
+[14] After the employee is hired, ORSI has a standard one-on-one format for assessments. It is an interactive process. ORSI’s employees go on board the ship or platform to conduct the assessment unless there is only one employee there.
+[15] These assessments may be driven by ORSI or by others. There is continuous interfacing with the employees at the sites. ORSI maintains the safety accreditations certificates for its employees.
+[16] Exhibits A-2 to A-5 were admitted by consent. These included a Sun Life Insurance benefits policy. There is also an employee liability plan to provide protection to ORSI’s clients for actions of its employees provided by Lombard Canada Limited. Exhibit A-3 was a client contract for Wilfred MacIsaac and M‑1 Drilling Services Inc. It may never have been signed.
+[17] In all contracts, the clients require liability insurance and employee insurance. Exhibit A-2, Tab 1, was another agreement which was unsigned. Exhibit A-2, Tab 5, was a crew contract with Tim Speakman. He worked for ORSI in Holland and the Gulf of Mexico. Exhibit A-3, Tab 2, was the crew contract with Wilfred MacIsaac. He was denied the deduction by the Minister even though he provided services outside of Canada. He was in charge of the operation in Equatorial Guinea.
+[18] The witness said that ORSI was not just a placement agency. A placement agency was a “one time deal only”. That type of agency finds a person for the client, provides that person to the client and that is it. ORSI does much more than that. It finds, interviews, monitors and processes the employee. It does drug screening, crew contracts, provides a benefits plan, does logistics, administers the payroll, interfaces on board the ships or rigs and has full liability on a 24-hour basis for the employee and is responsible for his well-being.
+[19] In one case, ORSI acted as a placement agency and received a finder’s fee. That is all ORSI did. He was not an employee of ORSI and received no benefits from ORSI. That was not ORSI’s core business.
+[20] Exhibit A-6 was admitted by consent. It was a signed copy of an Agreement for Provision of Personnel between ORSI and Dutch Onshore Offshore Recruiting (“DOOR”) dated January 1, 2003. Exhibit A-4, Tab 4, was an invoice for Wilfred MacIsaac for 2005. Other invoices were also identified from Exhibit A-4 at Tabs 7 to 27.
+[21] ORSI had a contractual relationship under which the invoices were paid. The terms were identical to those contained in the unsigned agreement. In December of 2005, Mr. MacIsaac ceased to be ORSI’s employee. Crew contracts are normally signed in Canada but exceptionally may be signed outside of Canada.
+[22] In cross-examination, he confirmed that he worked principally out of the St. John’s office, as do the two payroll specialists and the two human resource specialists. The only other office is in Dartmouth, Nova Scotia.
+[23] He has been the President of ORSI since its inception and manages and directs its business. He works mostly in Newfoundland but also travels. ORSI has 200 employees. It has contracts with vessel owners and provides them with specialized operational personnel for their ships and operations. They do their part to provide what the client requires. He does research as to who owns the ships, what jobs they are doing and what they require.
+[24] He signs the client contracts although one of his specialists might sign off on the crew contracts. The employees report to the vessel or the structure. Rarely are the employees non-Canadian.
+[25] Exhibit A-3 at Tab 2, contained the agreement with M-1 Drilling Fluids. It was in effect for 2005 but Mr. MacIsaac was receiving $600 per day and had four travel days instead of three. Exhibit A-3, Tab 1, was an agreement for the provision of personnel. ORSI assumes the duty and provides the transportation. Exhibit A-6 was in effect for the year 2005 and covered Mr. Speakman, who was a hydrographer-surveyor. Each employee has a crew contract similar to the one in Exhibit A-3, Tab 2, between ORSI and Wilfred MacIsaac.
+[26] Mr. MacIsaac was a Canadian citizen resident in Canada and the contract was signed in Canada.
+[27] The worker is subject to the hierarchy in place for the platform and under section 3.02 of the contract with M-1 Drilling Fluids, it could terminate his employment.
+[28] Mr. MacIsaac approved his own time sheets and sent the information to ORSI, who made up his pay based upon the time sheets. M-1 Drilling Fluids accepted them and paid the invoice prepared by ORSI. This was a variation from the contract, but he would not admit that ORSI abdicated any control over the worker or his work.
+[29] Exhibit A-1, Tab 5, related to Tim Speakman. It was signed by him and by ORSI. He was a marine surveyor. This work category was added after the profile was done.
+[30] Mr. Speakman was very senior and probably reported to a party manager who was someone in the hierarchical regime. He did not report to ORSI daily and had no direct supervision from ORSI. He submitted time sheets which were approved by the party manager. In the cases of Mr. Speakman and Mr. MacIsaac, ORSI did not purchase their travel tickets or book them. In every other case, ORSI buys the tickets or is reimbursed for them.
+[31] ORSI has a contract for the provision of personnel that has evolved over a period of time. All recruits have different training, qualifications and competency certificates.
+[32] A “mud engineer” and a “fluid engineer” have “in-house” training. They must meet the client company’s requirements. The human resource personnel often familiarize themselves with other jurisdictions. ORSI uses “due diligence” in its search to provide the personnel. When ORSI provides the training for an employee, sometimes it is reimbursed for the cost.
+[33] When an employee is dispatched to a site, he signs on to the vessel in accordance with the ship’s articles. Then he reports to a department. ORSI may have input into the relationship between the supervisor and the worker.
+[34] One can never guarantee the work. ORSI uses its “best efforts” and “due diligence”. There is no list of thresholds in the contract. The contract provisions of personnel contain the total agreement.
+[35] In addition to personnel, ORSI provides payroll, personnel reports, insurance and benefits plans.
+[36] The form of invoice for the payroll is created in St. John’s and hard-copied to the client in Houston. The funds are deposited directly into the Vendor’s bank account.
+[37] ORSI is a Canadian labour contractor and provides personnel to the oil and gas industry through its human resource section. There is competition and a tremendous demand for skilled workers. ORSI expends considerable efforts and experience in training personnel. It markets its activities over a wide area and puts a considerable effort into retaining its clients. It matches talents with the clients’ needs.
+[38] ORSI supports the employee outside of Canada by providing insurance benefits if the worker is hurt and provides assistance in time of bereavement. ORSI does promotion to develop a client base through blogs, personal contacts, repeat business, visits to prospective clients, self-promotion through an updated profile, word of mouth and corporate intelligence. Its clients are inside and outside of Canada and are normally in remote places. It has a database separated into work categories and makes use of email, telephone and fax services.
+[39] ORSI’s human resource people are specialists according to its designation. It is a job title. They have years of experience in this kind of work and in logistics.
+[40] ORSI may have described itself as a supplier of services before, but it is a matter of semantics and he is more careful now.
+[41] He never used or authorized the term “placement services” in reference to ORSI’s work.
+[42] He confirmed that the law firm of Felesky Flynn was authorized to act for ORSI in a GST appeal where it was described as a supplier of personnel and related human resource services and described as “placement services”, but he said that that was just the “splitting of hairs”.
+[43] ORSI prepares the documentation for the overseas employment tax credit as well as a form letter to CRA regarding the employee seeking the credit, but it never uses the credit as an inducement to attract employees.
+[44] It profiles an employee to a client. It provides a work history and training of the people as part of the acceptance process between ORSI and the client. When the client accepts the worker then the employee is processed until mobilization. After the screening is completed, ORSI signs him to a contract. Normally ORSI assists the worker in getting to the workplace. The client authorizes the first mobilization and pays the expenses. In 2005, eleven claims were rejected.
+[45] In re-direct, he said that in 2005 Mr. Speakman was an ORSI employee and not a DOOR employee. There was no difference in scope between “providing the services” and providing “qualified and competent personnel”.
+[46] He was involved in drafting Exhibit A-3 and said that no dispute arose with the clients about what was being supplied.
+[47] Timothy Edward Speakman has worked for ORSI since 2005. He was educated at Ryerson and received a Bachelor of Technology from that institution and a Master of Engineering from the University of Calgary. He had received the tax credit in question from 1991 to 2004. It was denied in 2005.
+[48] He signed Exhibit A-1, Tab 5, which was a contract with ORSI. This contract meant that he would go out on a job on a mutually-agreed basis. It outlined the benefits that he would receive. He would be working with DOOR and in many different locations. He never saw Exhibit A-6 until the examinations for discovery in his case. It was the ORSI agreement for the provision of personnel to DOOR. He was an employee of ORSI and not DOOR and had a contract with ORSI. He invoiced ORSI each pay period and it paid him.
+[49] He identified the ORSI time sheet at Exhibit A-1, Tab 2, and said that he had signed it. It was prepared outside of Canada. He also sent his expense sheets to ORSI each month. He would have contact with ORSI while he was at sea. ORSI provided him with group health coverage and payroll services. He worked on a vessel and ORSI went as far as any employer could in supporting its employees in the offshore.
+[50] In cross-examination, he admitted that he never received an overseas tax credit while he worked for ORSI. He referred to DOOR as a personnel agency. ORSI sent him to DOOR and DOOR sent him to his work at GeoLab. The services that he provided to DOOR were the same as DOOR provided to GeoLab.
+[51] He identified the crew contract at Exhibit A-2, Tab 5. After this was signed, he was mobilized.
+[52] He did not know if he reviewed the Notice of Objection before it was filed. He did not sign it.
+[53] He had a pipeline inspection job for DOOR and there were nine people on the crew, but only one was an employee of GeoLab. All of the remainder were supplied by agencies. He knew nothing about business between DOOR and GeoLab.
+[54] His pay rate came from ORSI. He submitted pay vouchers once per month except on one occasion when he was working on two projects.
+[55] He sent an ORSI time sheet and a DOOR time sheet.
+[56] He communicated with ORSI by email. He had no visits from ORSI at the work site. His pay was by automatic deposit to his bank account in Vancouver.
+[57] GeoLab chartered the vessel and provided the food and the accommodation. He carried his own safety equipment, but GeoLab would have supplied it if he needed it.
+[58] He agreed to have his case appealed by ORSI.
+[59] In re-direct, he said that ORSI was more than a personnel agency. ORSI provided payroll service to him and took the liability for his pay.
+[60] Wilfred Charles MacIsaac was a Drilling Fluids Engineer employed by ORSI. He was required to maintain the fluids to a specific standard in offshore drilling rigs lubrication. He had taken courses put on by the oil industry in blow-out prevention, survival and first aid.
+[61] In 1978, he took political science at St. Francis Xavier University. In 1978, he commenced work with the oil industry in Alberta and was trained by his employer. He returned to Nova Scotia in 1980 to work in the offshore oil industry. He has worked in different parts of the world.
+[62] In 2005, he worked for ORSI as a Drilling Fluids Engineer in Africa and Equatorial Guinea. The work was for Exxon Mobil each day. He worked for 28 days, twelve hours per day, and then had 28 days off. He returned to Antigonish, Nova Scotia.
+[63] In 2005, he filed his income tax return and claimed the tax credit in issue here. He had received the credit since 2001. In that year, he developed a work relationship with ORSI as an employee. He signed the new crew contract with ORSI at Tab 2 of Exhibit A-3. It was between him and ORSI, which says that the employer, ORSI, employs him as the employee. ORSI paid his wages.
+[64] After his 28 days of work on the vessel, he emailed his hours to ORSI and told them about his travel days. He did not have to sign off with anyone else but ORSI. He was paid every fourteen days by direct deposit to his account.
+[65] He identified the ORSI handbook at Exhibit A-4, Tab 1. He received this from ORSI. He received the benefits from ORSI that are set out in Exhibit A-3 at Tab 2, Article 2.01.
+[66] He communicated with ORSI on many occasions. It sent him the paperwork and he sent it back to them after completion. If there were any problems, he expected ORSI to go to the rig operators and address the problems.
+[67] In cross-examination, he said that he had worked for others beside ORSI. He liked the health benefits and liability insurance that ORSI provided for him.
+[68] There were no problems with respect to him and Mobile J that ORSI had to deal with in 2005. He used M-1 Drilling Fluids to fill out his reports each day. He had contact with Mobile J, the vessel operator, each day regarding the fluids. He did not have to report these matters to ORSI.
+[69] M-1 Drilling Fluids would have to approve the time sheets.
+[70] It was suggested to him that in 2005, ORSI objected to a GST assessment and in the appeal documents it indicated that it was an employment agency. He was unaware of the objection or of that statement. The original appeal in his case was signed by an employee of ORSI. He agreed that the appeal here was initiated by ORSI and he authorized a Mr. Dawe to complete the appeal on his behalf. He worked with M-1 Drilling Fluids who were providing funds for Exxon Mobil.
+[71] In 2005, he got a job from ORSI on a different platform. The drilling was done by Pride.
+[72] His contact with ORSI was by email in St. John’s. He signed his contract at home.
+[73] He had seen the agreement for the provision of personnel, at Exhibit R-1, Tab 1, between ORSI and M-1 Drilling Fluids. He sent in his time sheets to ORSI and received payment to his account in Antigonish. He received pay stubs such as those shown in Exhibit A-4, Tab 5. He was shown the invoices from ORSI to M‑1 Drilling Fluids but was not familiar with them. The direct deposit to his bank account in Antigonish, Nova Scotia, was from ORSI in St. John’s, Newfoundland, for all of 2005.
+[74] He was referred to the examination for discovery where he had said that ORSI provided logistics and manpower to its clients. He agreed that he had made that statement. He also agreed that he had said that ORSI dealt with offshore oil companies and contractors on his behalf and supplied him with health care where there was none before. ORSI also provided structure and “making ends meet”.
+[75] He did not participate in the contracts between ORSI and the oil companies and drillers. He had no profit sharing with ORSI. He went to meetings with ORSI about operations or the rigs related to his work. He had to follow the rules of the platform like all other workers. He did not participate in the contract between ORSI and Pride. He performed similar duties on platforms in Angola but did not participate in negotiations about the project.
+[76] He reported to the Exxon Mobil representative on the rig. He received his salary and expenses and presumed that that money would come from Haliburton.
+[77] He looked through the documents of the Minister and knew what ORSI’s position was and the position of the Minister.
+[78] He recruited ORSI and ORSI matched him with an oil job. ORSI arranged logistics. Most of the airfare was covered by M-1 Drilling Fluids.
+[79] All of his dealings with ORSI in 2005 were done electronically and no one visited him. His daily routine was worked out with M-1 Drilling Fluids. If he had problems with his work on the rig, the rig operator would deal with it. The operator could direct him to work longer hours. Exxon Mobil had control of the rig and M-1 Drilling Fluids was in control of the fluids.
+[80] He was unaware of any tax being paid on his behalf to any foreign governments.
+[81] In re-direct, he said that M-1 Drilling Fluids could also dismiss him. ORSI could have discharged him at any time. Any meetings that he went to with ORSI were work-related.
+Argument on Behalf of the Appellants
+[82] In a detailed and extensive written argument, counsel for the Appellants took the position that ORSI had the responsibility for its employees throughout the work process, even though it did not typically direct their work day-by-day. It was responsible for running the payroll operation for these employees and it was engaged in the logistics of getting them to their workplace and home.
+[83] ORSI is involved when there are accidents or incidents involving its employees. It is involved in workers’ assessments and in the maintenance of their certificates and accreditations.
+[84] ORSI carries employee liability insurance up to $8,000,000 for events in order to protect it as the employer, and this is referred to in the M-1 Drilling Fluids contract regarding Wilfred MacIsaac.
+[85] ORSI conducts business internationally through employees such as Wilfred MacIsaac and Tim Speakman who provide their specialty services in different parts of the world.
+[86] ORSI has acted only once as a placement agency. That person was not signed on as an employee.
+[87] ORSI provides “human resource services” by putting the right people in the right places. These employees report within the structure that is available either on a platform or on a vessel. Once there, they are under the supervision of personnel on the platform or vessel and there was no direct supervision of the work on the vessel or the platform by ORSI. The norm is for ORSI to purchase the tickets for its employees and the fact that they did not do so for Mr. MacIsaac and Mr. Speakman was other than the norm.
+[88] ORSI sometimes pays for employee training and sometimes the client company pays for it.
+[89] Counsel for the Appellants conceded that ORSI does not direct the day‑to‑day activities on board of its employees, but this does not preclude its position that it has input and discussions with both the employees and supervisors about its employees and their work and it would not concede, as the witness indicated, that ORSI abdicated any control over him or his work.
+[90] ORSI’s undertaking is to use its best efforts to provide suitably qualified personnel who will use their best efforts and due diligence in performing their work.
+[91] ORSI runs the payroll system; the authority to issue the payroll comes from the actual installation which provides the documents to make up the payroll and, except in the case of Wilfred MacIsaac, would have to be signed off by an authorized person on the vessel or platform. This is a critical part of ORSI’s business.
+[92] ORSI attends to the payment of invoices with respect to medical services provided under the Sun Life policy and then submits the invoices to Sun Life. The security of the employee with respect to such coverage is a very important part of ORSI’s work.
+[93] Tim Speakman took the position that ORSI was more than a personnel agency to him. It provided payroll services, group health insurance, liability insurance, and it provides him with regular pay. He communicated regularly with ORSI regarding benefits and even though he tried to deal with any problems on board, he would call ORSI if he needed help.
+[94] Health benefits provided by ORSI were one reason why he came to be employed by this company. He said that ORSI was his employer and it could have discharged him at any moment.
+[95] Counsel said that the only legal issue raised in the pleadings was that the employees were not considered to be carrying on business outside of Canada as required by subsection 122.3(1) of the Income Tax Act (the “Act”).
+[96] Counsel argued that pursuant to paragraph 122.3(1)(b) of the Act, at all relevant times both Appellants performed all or substantially all of their duties outside of Canada, in connection with a contract under which the specified employer (ORSI) carried on business outside of Canada with respect to the exploration for or exploitation of petroleum, natural gas, minerals or other similar resources. Further, ORSI was not a placement agency and was a contractor or subcontractor and did carry on business outside of Canada pursuant to paragraph 122.3(1)(b) of the Act.
+[97] The purpose of the Act, in general, is to aid Canadian companies, more specifically specified employers, to carry on business outside of Canada with respect to qualifying activities such as engineering. In essence, the section permits them to compete in bidding against foreign companies for overseas work.
+[98] The issue raised by subparagraph 122.3(1)(b)(i) has been addressed in Betteridge v. Canada, [1999] 1 C.T.C. 2569. In that case, the OETC was denied because the Court found that the research carried out abroad was with respect to a contract that the university had for work that was being done in Canada.
+[99] This case can be distinguished from those at bar because both employees here were required to carry out their work on behalf of ORSI at locations abroad.
+[100] The cases at bar can be distinguished from the factual situation in Fonta v. Canada, [2002] 3 C.T.C. 2177, because ORSI did not provide its services by acting as a “specialized personnel agency” for one client. It provided its services to many clients.
+[101] In Dunbar v. Canada, 2005 TCC 769, [2006] 1 C.T.C. 2423, the Court found that an employer personnel supply business did carry on business outside of Canada. The circumstances there were similar to those in the cases at bar. There the Court found it significant that the employer was a co-insured with Norbulk (the offshore personnel contractor), which situation may not have been necessary if the Canadian company was simply an employment agency.
+[102] In the cases at bar, both employees were highly trained and internationally respected professionals working in the worldwide oil and gas industry. In Dunbar, the Court concluded that it was not a simple placement agency.
+[103] In the cases at bar, DOOR was a personnel supply company as opposed to an end user, as in Dunbar.
+[104] Counsel also relied upon the decision in Purves v. Canada, 2005 TCC 290, [2005] 3 C.T.C. 2041, where the Court found that the Canadian employer, said to be a personnel agency, did carry on business outside of Canada.
+[105] Counsel relied upon the decision in Mys v. Canada, 2007 TCC 736, [2008] 4 C.T.C. 2191, where the Court distinguished the case of Fonta and found that the employer was not a specialized personnel agency because it had other clients as well.
+[106] Further, counsel relied upon the decision in Surprenant v. Canada, 2005 TCC 192, 2005 DTC 586, and argued that the language in that contract between the Canadian and French companies essentially matched the language in the DOOR or M‑1 Drilling agreements with ORSI.
+[107] In Adams v. Canada, 2005 TCC 237, 2005 DTC 636, the Court rejected the Respondent’s argument that the Canadian employer was just a “specialized personnel agency” for the overseas company, and found that it was a true subcontractor where a portion of the main contract was assigned to the subcontractor in partial performance of the main contract. This is the same situation as in the cases at bar.
+[108] Further, ORSI carried on business outside of Canada to obtain the DOOR and M‑1 Drilling Fluids contracts in the first place through prior trips to Holland. Further, Mr. Coady and other administrative staff employees continued to travel abroad on ORSI business before and after 2005. It is only semantics to suggest that there is a difference between providing services of skilled personnel and providing skilled personnel.
+[109] ORSI does not have as its only activity the recruiting of services. ORSI supports and represents its employees, provides payroll services, and is engaged in international business as per its contracts with DOOR and M‑1 Drilling Fluids which called for employer liability insurance.
+[110] All of these functions fit within the language found in clause 122.3(1)(b)(1)(A) of the Act. The phrase “with respect to” is of wide and broad interpretation, as stated in the case of Purves by Bowie J. Each of the services provided by ORSI, including recruiting, is reasonable, if not necessary, support for exploring for or exploiting petroleum, natural gas, minerals or other natural resources per clause 122.3(1)(b)(i)(A).
+[111] The appeals should be allowed with costs.
+Argument on Behalf of the Respondent
+[112] Counsel opined that one issue to be decided in these appeals is whether ORSI is a specified employer carrying on business in connection with a contract with respect to a qualifying activity pursuant to subsection 122.3(1) of the Act.
+[113] She referred to the letter from Felesky Flynn, ORSI’s tax counsel, in another litigation matter where the issue was referable to zero rated supplies and the matter of HST on those supplies. She pointed out that in that letter counsel stated that the supplies were zero rated because they were “most appropriately characterized as supplies of personnel and related human services (placement services) and not as suppliers of various ‘services’ that the personnel were directed to carry out while on board the vessels”.
+[114] ORSI further argued that the subject supplies involved finding and placing qualified personnel in the service of the non-resident clients to meet their needs for crew to work aboard vessels operated by or for the benefit of those clients offshore eastern Canada. Further, the supplies were made pursuant to an “Agreement for Provision of Personnel” and that the agreement identifies the type of person required by the non-resident client. It does not specify the duties of such personnel.
+[115] ORSI argued that it was in the business of supplying personnel and not in the business of supplying the activity of the personnel.
+[116] In its corporate profile, ORSI describes itself as an “employment agency”. It was successful in its GST reassessment on this basis.
+[117] The Appellants signed a waiver to allow an ORSI representative to initiate the appeals herein.
+[118] The second issue to be decided is whether the Appellants are entitled to an Overseas Employment Tax Credit with respect to their employment with ORSI during the taxation year 2005 pursuant to section 122.3 of the Act.
+[119] Counsel’s position is that they are not so entitled because their employer, ORSI, was not carrying on business outside of Canada in connection with a contract with respect to a qualifying activity. ORSI was in the business of personnel placement. Its core business is the recruiting of qualified personnel. It operates from its offices in St. John’s, Newfoundland and does not carry on business outside of Canada.
+[120] The requisite section refers to the qualifying activity of the specified employer and not the employee. The Appellants’ performance of their duties in connection with ORSI’s clients are not carried on outside of Canada and are not in respect of a qualified activity.
+[121] There is no “location test” under subsection 122.3(1), so that the analysis of whether work or business has been “carried on” outside of Canada depends upon an analysis of the facts. See Rooke v. Canada, 2002 FCA 393, 2002 DTC 7442 (F.C.A.), and Seto v. Canada, 2007 TCC 489, 2007 DTC 1647.
+[122] R. v. Gordon, [1961] S.C.R. 592, recites the requisite elements of “carrying on business” as (i) recognition of time, attention and labour; (ii) incurring of liabilities to other persons; and (iii) for the purpose of livelihood and profit.
+[123] ORSI performed the entirety of its business and contract activities from within Canada. Any activity that ORSI claimed occurred outside of Canada is merely in auxiliary support to a core activity from its Canadian contracts. The crew contract signed by the Appellants and ORSI is the trigger for the payment of salary and not the completion of the time sheets. The time sheets are merely necessary to allow ORSI to administer the payroll, invoice clients, and pay the personnel.
+[124] ORSI’s administrative support, payroll, provision of employee support and insurance were performed pursuant to contracts signed in Canada, drafted in Canada, and administered in Canada. ORSI’s core business is operated from its head office in St. John’s, Newfoundland.
+[125] All of ORSI’s business activities are performed in Canada, originate in Canada or are triggered by contract obligations arising from Canadian contracts. Any emails, correspondence, time sheets or telephone calls are merely incidental to the fulfillment of those contracts. The carrying on of business pursuant to the contracts has no connection to a qualifying activity.
+[126] The facts in the cases at bar are not the same as in Dunbar. Here, ORSI was not a party to the actual oil and gas operations. The contractor in these appeals controlled and managed its project and directed the activities of the Appellants once they were placed. In Dunbar, the performance of the Appellant as the ship’s captain, being the navigator of the ship, was tied to the actual payment of the exploration contract.
+[127] ORSI is an independent contractor and neither ORSI nor its affiliates are agents of the client or the client’s client.
+[128] ORSI does not contract for or with respect to any qualifying activities. ORSI contracts for the provision of personnel.
+[129] The client contracts are with respect to the “Provision of Personnel”. There are no references or articles relating to a qualifying activity. The contracts speak for themselves. Further, ORSI is not a party to the contracts between the subcontractor and the oil and gas company. ORSI supplies personnel. It does not participate in the exploration of oil and gas, by its own admission.
+[130] ORSI now seeks to reject its earlier statements that it was an “employment agency” and now submits that it supplies specialized personnel and is more than a placement agency, even though its circumstances have not changed.
+[131] On the issue of credibility, counsel says that Mr. Coady made a number of prior inconsistent statements and was overly broad about ORSI’s outside Canada activities and travel. His evidence was inconsistent with ORSI’s documented company profile and its previous representations made under Mr. Coady’s direction to the Respondent and the public at large, including its advertisements. Many parts of his testimony were inherently unreliable.
+[132] He did not provide direct answers to direct questions. His explanations were overly broad and at times misleading. The Appellants themselves have an obvious partial position with respect to the outcome but otherwise spoke to the circumstances within their personal knowledge.
+[133] The documented evidence supports the position of the Minister.
+[134] The appeals should be dismissed with costs.
+Appellants’ Reply Submissions
+[135] In reply, counsel for the Appellants said that the Respondent has failed to distinguish the cases at bar from Dunbar. ORSI need not be an agent of its clients in order to be competent to carry on business outside of Canada in connection with a contract with such clients. ORSI is competent to do just that and an agency relationship is not a pre-condition to establishing that an entity is carrying on business outside of Canada. Dunbar was not a contractor-subcontractor relationship, but a subcontractor‑subcontractor situation as in the factual situation of Mr. Speakman. This situation did not adversely affect the favourable decision for the worker in Dunbar. “No specific performance quotas” of any nature arise in any of the “key provisions” referred to by the Court in Dunbar nor in its analysis. That case, as in the cases at bar, required nothing more from its employees than to carry out their work consistently each day until the completion of the work cycle. This is what was required of Mr. Speakman and Mr. MacIsaac.
+[136] The requirement of ORSI to carry liability insurance was a critical factor in the Dunbar case and ORSI had the same requirement here. It was not done gratuitously by ORSI, it was required of it. Thus, ORSI was carrying a part of the risk associated with carrying on the business outside of Canada and was carrying on business outside of Canada.
+[137] The Appellants here were not supervised in the carrying out of their specialized work and any purported supervision was not of their work but rather in coordination of all work being carried on at the work site.
+[138] This was not a factor in the decision in Dunbar and in any event does not go to either of the outstanding issues here. The case of Purves is ample indication for the fact that the trial judge did not have any concern that the workers’ daily supervision by GMC staff had any effect on whether the worker was entitled to the OETC claim. Likewise, the Court rejected the position that Comtech was merely a supplier of personnel and so was not carrying on business outside Canada.
+[139] Supervision may have been relevant on the issue of whether the worker was an employee or of whom. This was not an issue in the cases at bar.
+[140] ORSI was, through its client contracts, as or more involved with petroleum or natural gas exploration and/or exploitation as was Comtech with GMC in Purves or as was OSC with petroleum or natural gas exploitation in Dunbar.
+[141] ORSI was indeed carrying on business in Canada but it was also carrying on business outside Canada. It is not significant that in the years in question there may have been a break in the amount of travel abroad as opposed to other years, which had the effect of allowing ORSI to enjoy the fruits of its earlier labours. In the years in issue, it may have relied more heavily on telephone and email contacts, but this fact is non-decisive as to the issues here.
+[142] Selected statements made by former outside ORSI counsel were in relation to a different context of an HST dispute that arose in 2002 and was resolved in 2005. It was with respect to a different tax regime.
+[143] There is no difference between provision of services of personnel and provision of personnel. In Dunbar, the contract referred to provision of personnel and not provision of services. This did not prevent the Court from finding that OSC did indeed carry on business outside Canada and was not simply a placement agency.
+[144] Finally, there is no merit in the Respondent’s position that the ORSI/DOOR and ORSI/M‑1 Drilling Fluids contracts were not with respect to “the exploration for or exploitation of petroleum, natural gas …” under clause 122.3(1)(b)(i)(A) of the Act. It was clear that the specialized work performed by both workers here were with respect to exploration for or exploitation of petroleum, natural gas, etc.
+Analysis and Decision
+[145] Simply put, the main issue in these appeals is whether or not ORSI (the alleged employer) carried on business outside of Canada during the years in question in connection with the agreement, with respect to a qualifying activity, as to entitle the Appellants to receive the OETC for the 2005 taxation year pursuant to subsection 122.3(1) of the Act.
+[146] Before tackling that issue, the Court will firstly deal with a number of sub‑issues that became manifest during the trial and subsequent written arguments.
+[147] The Respondent has raised a very important issue regarding the credibility of Adrian Coady. Counsel submitted that Mr. Coady “had made a number of prior inconsistent statements and was overly broad with bolstered assertions about ORSI’s outside of Canada activities and travel”, and his statements were “inconsistent with ORSI’s documented company profile and other documented evidence about ORSI”. He, of course, denied that ORSI was a placement agency which statement was inconsistent with the previous representations made by him on behalf of ORSI.
+[148] The Court does not accept that depiction of Mr. Coady or his evidence. He was obviously a person who was very familiar with ORSI’s business and its employees. He would not agree that ORSI gave up any control of the worker at the job site except with respect to day-to-day supervision of the rig or ship, and essentially said that ORSI ensures that there is due diligence and best efforts. Further, the Court concludes from what he said that ORSI would generally have input discussions with both the employees and the supervisors.
+[149] What the Court concluded from his evidence was that ORSI was supplying suitably qualified and competent personnel like Mr. MacIsaac and Mr. Speakman who were expected to perform their functions satisfactorily.
+[150] With respect to the evidence of the two Appellants, the Court can find no fault with the way they testified nor with the facts that they elucidated. They obviously had a partial position with respect to the outcome of the appeals, but the Court could detect no indication that this affected the quality of their evidence.
+[151] The second sub-issue has to do with the position of the Respondent that outside counsel, in an unrelated matter, had taken the position that supplies supplied by ORSI were zero rated because they were “most appropriately characterized as supplies of personnel and related human services … (placement services) and not as supplies of various ‘services’ that the personnel were directed to carry out while aboard the vessels”.
+[152] None of the witnesses had anything to do with that statement and they all agreed that it was not accurate.
+[153] It matters not that as a result of that position the outside counsel was successful in convincing CRA that the supplies were zero rated. This Court must consider the evidence that is before it and not what someone might have argued in a non-related matter for whatever reason.
+[154] The third sub-issue that has arisen is whether or not the Appellants were employees of ORSI. This was raised by counsel for the Appellants in his Reply because of the Respondent’s references to the matter of supervision of the workers at the job site.
+[155] However, the Court is satisfied that this was not put into issue by the Respondent during the trial and as counsel for the Appellants indicated, the Respondent led no evidence in this regard during the trial.
+[156] The only evidence given was that of the Appellants and Mr. Coady who maintained throughout that the workers were employees of ORSI and in referencing the issues at sections D.1 and 20.2, counsel for the Respondent did not refer to this sub-issue.
+[157] The Court is satisfied on the basis of all the evidence presented that the Appellants were employees of ORSI at all relevant times.
+[158] This leaves for consideration of the Court as to whether ORSI was carrying on a business outside of Canada during 2005, pursuant to a contract in a qualifying activity. Relevant in that regard is the case of Dunbar. In that case, C. Miller J. found that an employer personnel supply business did carry on business outside of Canada. After reviewing a number of related cases, he went on to say:
+22 What I draw from these cases and the Interpretation Bulletin is that if the Canadian company's business is solely that of a placement agency, the business is not being carried on outside Canada simply by virtue that the personnel placed, conduct their activities outside Canada. If, however, the business is providing services by way of subcontracting to a contractor, which services must necessarily be provided outside Canada, then the business can be considered to be carried on outside Canada. It is a fine distinction, which in this case is particularly fine. Yet, this difference explains how a computer consulting company providing a computer specialist to a project in France can qualify as operating outside Canada (Surprenant), as can an engineer working for a Canadian engineering company on a project outside of the country (Purves and Gonsalves v. The Queen, [2000 D.T.C. 1491 (F.C.A.)].
+[159] In paragraph 78 of the Respondent’s argument, counsel sought to distinguish the facts in Dunbar from those in the cases at bar. Amongst other submissions, she said that ORSI’s work is the placement of personnel from specific work categories, that is their core work. However, that does not make the facts in ORSI different from those in Dunbar.
+[160] If ORSI did nothing more than merely recruit the worker and then send him or her off to a subcontractor and have no more input into the life of the worker, as would happen in the so-called “head-hunter” cases, then the terms “placement agency only” would have more meaning than it does in the facts of these cases and obviously than it had in Dunbar.
+[161] In these cases, the relationship between the worker and ORSI did not stop when the worker was assigned to a subcontractor. ORSI continued to be involved in logistics involving the workers. In some cases, it arranged the purchase of tickets for them. In other cases, it did not.
+[162] It provided medical benefits for them and health benefits, as well as insurance coverage for them if they were hurt or killed.
+[163] It provided payroll services for them and arranged for bereavement care for them as well as kept in touch with their families. It had ongoing communications and contact with the workers and had responsibility for the employees during the work process, even though it did not direct or supervise them at the work site. This was not necessary and indeed would be impractical for them to do so.
+[164] Mr. Coady, as well as the two Appellants, took the position that ORSI was responsible for them while they were employed by ORSI. Of particular importance in these cases as well as in Dunbar was the fact that ORSI’s contracts with DOOR and M‑1 Drilling Fluids each required ORSI to carry considerable liability insurance coverage for its employees working abroad. Therefore, in essence, ORSI’s contracts required it to carry part of the risk associated with carrying on business outside Canada where the Appellants worked.
+[165] The Court does not accept the Respondent’s arguments that the facts in Dunbar could be distinguished from the facts in these cases.
+[166] The Court concludes that there is no magic in arguing that in one case the company supplies personnel (an engineer) and in the other case provides services (engineering services). As argued by the Appellant in Purves, an engineer necessarily performs engineering services, so if you provide an engineer then you are providing engineering services.
+[167] Counsel for the Respondent argues that the Appellants must fail here because ORSI was not carrying on business outside of Canada in connection to a contract with respect to a qualified activity.
+[168] As referred to by Bowie J. in the case of Purves in commenting upon the words “in respect of”, he referred to Nowegijick v. The Queen, [1983] 1 S.C.R. 29, where Dickson J., as he then was, said:
+11 … The words “in respect of” are, in my opinion, words of the widest possible scope. They import such meanings as “in relation to”, “with reference to” or “in connection with”. The phrase “in respect of” is probably the widest of any expression intended to convey some connection between two related subject matters.
+[169] In the cases at bar, the job of ORSI under its client contracts was to supply the highly skilled employees, Mr. Speakman and Mr. MacIsaac, to the work sites outside of Canada where their clients, DOOR and M‑1 Drilling Fluids, were obviously engaged in a qualified activity. The contracts required them to do this.
+[170] There can be no doubt that the highly skilled work of the Appellants were with respect to “the exploration for or exploitation of petroleum, natural gas …” for the purposes of clause 122.3(1)(b)(i)(A) of the Act.
+[171] The appeals will be allowed and the matters will be referred back to the Minister for reassessment and reconsideration on the basis that both Appellants qualify for the OETC in accordance with section 122.3 of the Act.
+[172] Costs are awarded to the Appellants. There will be one bill of costs for both Appellants.
+Signed at New Glasgow, Nova Scotia, this 19th day of August 2010.
+“T.E. Margeson”
+Margeson J.
+CITATION: 2010 TCC 436
+COURT FILE NO.: 2007-3661(IT)G and 2007-3663(IT)G
+STYLE OF CAUSE: WILFRED MacISAAC and
+HER MAJESTY THE QUEEN
+TIM SPEAKMAN and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATES OF HEARING: June 10 and 11 and December 8, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice T.E. Margeson
+DATE OF JUDGMENT: August 19, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Bruce S. Russell, Q.C.
+Counsel for the Respondent:
+Darlene M. Lamey, Toks C. Omisade
+and Jill Chisholm
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Bruce S. Russell, Q.C.
+Firm: McInnes Cooper
+Halifax, Nova Scotia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

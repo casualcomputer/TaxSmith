@@ -1,0 +1,143 @@
+Title: Dunlop c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29162/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-177-29162-dunlop-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-02-25
+
+# Dunlop c. La Reine
+
+- Citation: 2009 CCI 177
+- Decision date: 2009-02-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6722, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dunlop c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-25
+Référence neutre
+2009 CCI 177
+Numéro de dossier
+2008-1500(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1500(IT)I
+ENTRE :
+DAVID J. DUNLOP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 25 février 2009 à London (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelant :
+Me James W. Dunlop
+Avocate de l’intimée :
+Me Tanis Halpape
+____________________________________________________________________
+JUGEMENT
+L’appel formé contre la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 de l’appelant est accueilli, sans frais, et les pénalités imposées sont annulées. La nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs ci‑joints.
+Il est ordonné aussi que le droit de dépôt de 100 $ soit remboursé à l’appelant.
+Signé à Ottawa, Canada, ce 27e jour de mars 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 12e jour de juin 2009.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2009 CCI 177
+Date : 20090327
+Dossier : 2008-1500(IT)I
+ENTRE :
+DAVID J. DUNLOP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(rendus oralement à l’audience, le 26 février 2009, à London (Ontario)
+et modifiés pour en assurer la clarté et l’exactitude.)
+Le juge Boyle
+[1] Le seul point soulevé dans la présente affaire concerne une pénalité imposée en vertu de l’article 163 pour omission répétée d’un revenu d’emploi dans les déclarations de revenus de l’appelant.
+I. Le droit applicable
+[2] Le paragraphe 163(1) prévoit qu’une personne qui n’a pas déclaré un montant à inclure dans le calcul de son revenu et qui n’a pas déclaré ce montant pour une des trois années d’imposition précédentes est passible d’une pénalité égale à 10 p. 100 du montant non déclaré de l’année en cours.
+[3] Le paragraphe 163(3) prévoit que c’est le ministre qui a la charge d’établir les faits justifiant l’imposition de la pénalité. En l’espèce, le revenu non déclaré pour l’année et pour l’année précédente est admis dans la mesure indiquée ci‑après.
+[4] Le paragraphe 163(1) est formulé d’une manière qui établit une pénalité pour responsabilité automatique ou absolue, mais le contribuable ne sera pas sanctionné s’il peut prouver qu’il a montré le niveau requis de diligence raisonnable. Voir la décision de la juge Woods dans l’affaire Saunders v. Her Majesty The Queen, 2006 DTC 2267.
+[5] La pénalité prévue par le paragraphe 163(1) correspond à 10 p. 100 du montant non déclaré. Il en va de même pour le revenu d’emploi imposé à la source. Les conséquences peuvent être lourdes si la pénalité dépasse largement l’impôt payable sur le revenu non déclaré. Pour les contribuables de l’Ontario, tel M. Dunlop, l’ARC impose également une pénalité provinciale correspondante de 10 p. 100. Bien que les conséquences puissent être lourdes, les législateurs fédéral et provincial peuvent édicter, et ont édicté, un régime de sanctions qui ne fait pas de distinction entre un revenu d’emploi T4 et un autre revenu. Selon les mots de la juge Woods, dans la décision Saunders :
+[…] Le législateur a choisi d’adopter le paragraphe 163(1) pour garantir l’intégrité du régime d’autodéclaration du Canada. […]
+Puis la juge Woods poursuit ainsi :
+[…] Selon moi, les tribunaux ne doivent pas décider à la légère d’annuler la pénalité prévue par la loi.
+II. Les faits
+[6] En 2005 et 2006, David Dunlop était étudiant à l’université. Il occupait des emplois à temps partiel. Lorsqu’il a obtenu son diplôme en 2006, il a commencé à travailler à temps plein. Il fréquentait l’université dans une autre ville que celle où ses parents habitaient. Son emploi à temps plein se trouvait lui‑même dans une autre ville. Outre qu’il avait, durant sa scolarité, une adresse temporaire qui n’était pas l’adresse permanente de ses parents, ses parents ont déménagé en 2007 avant que ne soit reçu le feuillet T4 manquant de 2006.
+[7] En 2005, David Dunlop n’a pas déclaré son revenu d’emploi à temps partiel tiré de Bulk Barn. Il semble qu’il n’avait pas reçu sa copie du feuillet T4. L’ARC avait reçu sa propre copie, et le contribuable a fait l’objet d’une cotisation ou d’une nouvelle cotisation au titre du revenu additionnel T4, et l’impôt a été payé de la manière ordinaire.
+[8] En 2006, encore une fois, David Dunlop n’a pas reçu de Bulk Barn sa copie du feuillet T4. Avant la fin d’avril, il s’est rendu au magasin Bulk Barn où il travaillait pour obtenir le feuillet. Son employeur est un magasin franchisé. Le propriétaire du magasin vivait dans une autre ville. Au 30 avril, M. Dunlop n’avait pas encore reçu sa copie du feuillet T4.
+[9] À la fin d’avril 2007, le père de David, James Dunlop, son avocat dans le présent appel, a préparé sa déclaration de revenus de 2006 pour sa signature. David a indiqué à son père, au moment où celui‑ci remplissait la déclaration, que le revenu tiré de son emploi chez Bulk Barn était d’environ 5 250 $. L’estimation écrite de ce montant, faite en avril 2007, a été produite comme preuve.
+[10] Lorsque fut signée et remplie la déclaration, l’emploi chez Bulk Barn et le feuillet T4 manquant étaient indiqués comme il suit : [traduction] « Ligne 101 – Revenus d’emploi » : [traduction] « Le T4 de Bulk Barn est absent – le montant sera modifié dès réception du T4 ».
+[11] La déclaration comprenait d’autres montants T4 et T3 reçus par David. Un impôt était dû, qui a été payé.
+[12] L’avis de cotisation établi par l’ARC était daté de mai 2007. Cette cotisation initiale établissait la dette fiscale de David telle qu’elle apparaissait dans sa déclaration, c’est‑à‑dire sans tenir compte du revenu tiré de son emploi chez Bulk Barn. L’ARC a établi une nouvelle cotisation le 4 octobre 2007 en y incluant une somme additionnelle de 6 463 $, c’est‑à‑dire le revenu versé par Bulk Barn, tel qu’il apparaissait sur le feuillet T4 déposé par Bulk Barn auprès de l’ARC. Sur la nouvelle cotisation, l’impôt additionnel payable était établi à la somme d’environ 750 $. Sur cette somme, un impôt de 554 $ avait déjà été retenu et versé à l’ARC par Bulk Barn. En outre, la nouvelle cotisation comprenait la pénalité fédérale de 10 p. 100, soit 646 $, ainsi que la pénalité provinciale correspondante.
+[13] La veille ou le lendemain de la réception de cette nouvelle cotisation en octobre 2007, David Dunlop a reçu par la poste la copie de son feuillet T4 de 2006 de Bulk Barn. Le feuillet indique un revenu d’emploi de 6 464 $ et des cotisations sociales totalisant 938 $. Cela veut dire que le revenu net de David était de 5 526 $. Le chiffre donné par David, c’est‑à‑dire 5 250 $, était inférieur de 5 p. 100 à ce montant réel.
+III. Analyse
+[14] Le point à décider ici est celui de savoir si, en indiquant dans sa déclaration de revenus que le feuillet T4 était manquant, le contribuable a montré une diligence raisonnable pour que le revenu tiré de son emploi chez Bulk Barn soit effectivement déclaré à l’ARC.
+[15] Les deux parties dans la présente affaire étaient représentées par des avocats compétents et parfaitement préparés. J’ai été renvoyé à plusieurs précédents où des sanctions similaires furent confirmées dans des circonstances où la déclaration de revenus ne faisait aucun cas des sommes qui figuraient dans les feuilles manquants. Tel était le cas dans l’affaire Saunders, ainsi que dans l’affaire Paul v. Her Majesty The Queen, 2008 DTC 3060. Les contribuables ont été déboutés dans ces deux précédents.
+[16] C’était le cas aussi dans une décision rendue plus tôt ce mois‑ci par la juge Woods, Raboud c. Sa Majesté la Reine, [2009] A.C.I. n° 71. Dans cette affaire, la juge Woods a annulé la pénalité fédérale. Les sommes figurant sur les feuillets d’information manquants n’avaient pas été indiquées dans la déclaration de revenus, mais les feuillets avaient été envoyés par la poste par le contribuable le mois suivant, lorsqu’il les avait reçus, semble‑t‑il sans y joindre une lettre d’accompagnement ou un formulaire T1 de demande de redressement.
+[17] Les deux avocats me disent qu’il leur a été impossible de trouver un précédent examinant la question de savoir si, ou dans quelles circonstances, la mention, dans la déclaration de revenus, d’un feuillet d’information manquant vaudra diligence raisonnable de telle sorte que le revenu en cause ne sera pas considéré comme un revenu non déclaré. Cela est sans doute surprenant, mais il faut en conclure qu’aucune des deux parties ne peut être blâmée de souhaiter qu’il émane de la présente affaire un principe assez important pour retenir l’attention de la Cour.
+[18] La Couronne est d’avis que la mention insérée dans la déclaration de revenus n’atteint pas le niveau requis de diligence raisonnable. Elle fait observer que le texte du paragraphe 163(1) prévoit la pénalité dès lors que le contribuable néglige de déclarer un revenu. Cela signifie qu’il ne suffit pas de faire état d’un revenu d’emploi additionnel pour lequel un feuillet T4 aurait dû être émis, si une estimation du montant n’apparaît pas dans la déclaration. Selon la Couronne, pour qu’il y ait diligence raisonnable, il aurait fallu que le montant estimatif soit indiqué dans la déclaration.
+[19] La Couronne fait valoir aussi que la défense de diligence raisonnable ne peut pas être invoquée lorsque le contribuable n’a pas donné à son employeur sa nouvelle adresse, d’autant que c’est, semble‑t‑il, pour la même raison que le feuillet T4 de Bulk Barn de l’année antérieure n’avait pas été reçu.
+[20] Il convient de garder deux choses à l’esprit dans cette analyse : l’objet du paragraphe 163(1), et la question de savoir si les démarches faites par le contribuable pour obtenir son feuillet T4, outre l’indication portée par lui dans la déclaration de revenus, étaient susceptibles de favoriser ou de contrarier cet objet. Comme on peut le lire dans la décision Saunders, précité, l’objet de cette pénalité est de garantir l’intégrité du système canadien d’autodéclaration.
+[21] Il y a un autre aspect utile à considérer lorsqu’on se demande ce en quoi consiste une diligence raisonnable justifiant l’annulation de la pénalité : qu’est‑ce que l’administration fiscale conseille de faire aux contribuables canadiens dans un tel cas? Après tout, il n’est pas rare que des feuillets de renseignements n’arrivent pas, ou arrivent tardivement. C’est sans doute précisément pour ces raisons que, chaque année, le sujet est abordé séparément dans le Guide d’impôt de l’ARC.
+[22] Le Guide d’impôt de 2006 n’a été produit comme preuve par ni l’une ni l’autre des parties dans le présent appel fondé sur la procédure informelle de la Cour. Il est facile de le consulter sur le site Web officiel de l’ARC. J’ai informé les parties, durant la procédure, que j’avais consulté les Guides d’impôt de l’ARC des années antérieures et dressé une liste des difficultés qu’ils me causaient.
+[23] Dans le Guide d’impôt de 2006, trois parties effleurent la question. Sous la rubrique « Ligne 101 – Revenus d’emploi », on peut lire ce qui suit :
+Inscrivez le total des montants qui figurent à la case 14 de vos feuillets T4. Communiquez avec votre employeur si vous n’avez pas reçu votre feuillet T4 au début d’avril ou si vous avez des questions sur les montants qui y figurent (lisez les détails à la section intitulée « Que faire s’il vous manque des feuillets ou des reçus? » […]
+Dans la rubrique suivante, « Que faire s’il vous manque des feuillets ou des reçus? », il est écrit :
+Si vous devez produire une déclaration pour 2006 (lisez les détails à la page 7), vous devez l’envoyer au plus tard à la date limite (lisez les détails à la page 8), même s’il vous manque des feuillets ou des reçus. Si vous savez que vous ne recevrez pas un feuillet avant la date limite, annexez à votre déclaration sur papier une note indiquant le nom et l’adresse du payeur, le type de revenu en question ainsi que les démarches que vous avez entreprises pour obtenir le feuillet manquant. Utilisez vos talons de chèques pour calculer le revenu que vous devez déclarer ainsi que les déductions et crédits que vous pouvez demander pour l’année. Joignez vos talons de chèques à votre déclaration sur papier. Si vous transmettez votre déclaration par voie électronique conservez toutes vos pièces justificatives pour pouvoir nous les fournir sur demande.
+Troisièmement, sous la rubrique « Comment faire modifier une déclaration? », il est écrit :
+Pour faire modifier une déclaration que vous avez déjà envoyée, ne produisez pas une autre déclaration pour cette année d’imposition. De plus, vous devriez attendre d’avoir reçu votre avis de cotisation avant de faire votre demande de modification. […]
+[24] Fait à noter, pour 2006, l’ARC ne disait pas au contribuable qui n’avait pas reçu un feuillet T4 qu’il devait insérer dans sa déclaration de revenus une estimation approximative de son revenu tiré d’un emploi. Elle lui disait d’insérer un montant seulement s’il disposait de talons de chèques qui pouvaient servir à faire le calcul et de joindre à la déclaration les copies de ces talons de chèques. Elle ne dit pas que le contribuable doit, dans les autres cas, indiquer sa propre estimation.
+[25] L’ARC recommandait d’annexer à la déclaration sur papier une note indiquant le payeur et le genre de revenu en cause, ainsi que les démarches entreprises par le contribuable pour obtenir le feuillet manquant.
+[26] En l’espèce, la note portée par David Dunlop à sa déclaration indiquait clairement qu’un revenu additionnel d’emploi lui avait été versé par Bulk Barn. Il n’a pas dit quelles démarches il avait entreprises pour obtenir le feuillet manquant, mais il écrivait, dans sa déclaration, qu’il modifierait la déclaration après avoir reçu le feuillet T4 manquant.
+[27] Tout compte fait, David Dunlop a clairement signé et produit une déclaration qui correspondait à ce que le Guide d’impôt de l’ARC lui disait de faire dans de telles circonstances. Cela seul ne permet pas d’affirmer que, en droit, il a montré une diligence raisonnable suffisante pour être soustrait à l’imposition d’une pénalité selon le paragraphe 163(1), mais il a montré la diligence que l’ARC disait espérer de lui dans la situation même où il se trouvait.
+[28] Dans ces conditions, je suis d’avis que le contribuable a montré la diligence requise pour que le revenu tiré de son emploi chez Bulk Barn soit effectivement déclaré. Il a divulgué la source et la nature du revenu dans sa déclaration. Il s’est engagé à modifier sa déclaration lorsqu’il recevrait le feuillet T4. Il a tenté de communiquer avec son employeur à l’endroit de son emploi. Il était donc raisonnable pour la famille Dunlop de penser que c’est le feuillet T4 de David qui s’était égaré et que l’ARC avait probablement reçu sa copie du feuillet par voie électronique ou autrement et saurait donc exactement les montants à insérer.
+[29] L’approche adoptée par le contribuable ne pouvait décemment être considérée comme une tentative de mettre en péril ou de contrarier l’intégrité du système d’autodéclaration. Il a rempli sa déclaration de revenus dans la mesure où il pouvait le faire, dans la situation où il se trouvait, et en respectant les directives du Guide d’impôt de l’ARC.
+[30] La présente affaire se distingue nettement des précédents auxquels j’ai été renvoyé, où le contribuable n’avait inséré aucune mention dans sa déclaration de revenus. Elle semble également favoriser davantage le contribuable que ce n’était le cas dans l’affaire Raboud, où le contribuable n’avait porté aucune mention dans sa déclaration, mais avait envoyé les feuillets de renseignements après les avoir reçus, et avant l’établissement de la cotisation.
+[31] Dans le cas particuliers dont il s’agit ici, je fais droit à l’appel du contribuable et j’annule la pénalité imposée. Cela ne signifie pas que la simple mention d’une source de revenu dans une déclaration suffira à un contribuable pour échapper à une pénalité pour non‑déclaration.
+[32] Vu la décision rendue dans le présent appel, et bien que la Cour n’ait pas compétence en ce qui concerne la pénalité revenant à l’Ontario, telle pénalité est imposée par l’ARC au nom de l’Ontario, et je recommande à l’ARC d’envisager aussi l’annulation de ladite pénalité.
+Signé à Ottawa, Canada, ce 27e jour de mars 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 12e jour de juin 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2009 CCI 177
+N° DU DOSSIER DE LA COUR : 2008-1500(IT)I
+INTITULÉ : DAVID J. DUNLOP c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 25 février 2009
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 27 mars 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me James W. Dunlop
+Avocate de l’intimé :
+Me Tanis Halpape
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : James W. Dunlop
+Cabinet : Lerners & Associates
+London (Ontario)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

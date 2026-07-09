@@ -1,0 +1,235 @@
+---
+title: "2321184 Ontario Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/482570/index.do"
+last_modified: "2020-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 52"
+citation2: ""
+neutral_citation: "2020 TCC 52"
+decision_date: "2020-07-16"
+language: "en"
+item_id: "482570"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4588
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:08:13.560000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5e7550be8fe4febeea8015838f68e429cabc838bcb1319527c3fef4d9f7b7a79"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 2321184 Ontario Ltd. v. M.N.R.
+
+- Citation: 2020 TCC 52
+- Decision date: 2020-07-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4588, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2321184 Ontario Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-07-16
+Neutral citation
+2020 TCC 52
+File numbers
+2018-1555(CPP)
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2018-1555(CPP)
+BETWEEN:
+2321184 ONTARIO LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on October 15, 2019, at Toronto, Ontario
+Before: The Honourable Justice Susan Wong
+Appearances:
+Agent for the Appellant:
+Sivakumar Kanagasabai
+Counsel for the Respondent:
+Kevin Hong
+JUDGMENT
+The appeal pursuant to subsection 28(1) of the Canada Pension Plan is dismissed and the decision of the Minister of National Revenue dated February 13, 2018 is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of July 2020.
+“Susan Wong”
+Wong J.
+Citation: 2020 TCC 52
+Date: 20200716
+Docket: 2018-1555(CPP)
+BETWEEN:
+2321184 ONTARIO LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+Introduction
+[1] The Appellant appeals the Minister of National Revenue’s February 13, 2018 decision to confirm assessments for unremitted payroll source deductions with respect to 2015, 2016 and 2017.
+[2] For the purposes of this appeal, Canada Pension Plan contributions are the only source deductions in issue.
+[3] Sivakumar Kanagasabai (the Appellant’s president and shareholder) and Kamalachchandran Somasuntharam (the Appellant’s accountant) testified on behalf of the Appellant. The Respondent called Ramani Tharumalingam (Mr. Kanagasabai’s spouse and the Appellant’s other shareholder) to testify as a witness who was adverse in interest.
+Issues
+[4] The Minister assessed the Appellant for unremitted CPP contributions based on the following:
+a) total pensionable earnings paid to Mr. Kanagasabai and Ms. Tharumalingam in the amounts of $42,100.00 and $48,020.00, respectively;
+b) total pensionable earnings paid to Mr. Kanagasabai and Ms. Tharumalingam in the amounts of $33,000.00 and $32,800.00, respectively; and
+c) under-deducted and unremitted CPP contributions in the amount of $1,817.46 with respect to January and February 2017.
+[5] The issue is whether the Minister properly assessed the Appellant for failing to deduct and remit CPP contributions with respect to 2015, 2016, and 2017. In particular, this Court must determine whether the pensionable earnings on which the Minister based her CPP contribution calculations are correct.
+[6] The Appellant takes the position that the pensionable earnings determined by the Minister for 2015, 2016, and 2017 are too high because:
+a) the amounts included expense reimbursements to the two shareholders; and
+b) the amounts paid to the two shareholders were a combination of salary and dividends, the latter of which were not pensionable.
+Legislative Framework
+[7] Section 12 of the Canada Pension Plan states that a person’s contributory salary and wages for a year is their income from pensionable employment calculated in accordance with the Income Tax Act. Income tax deductions are added back in for the purposes of this calculation. There are exceptions related to age, disability, and the clergy, none of which apply in the present case.
+[8] Sections 8 and 9 of the CPP set out the methodology for calculating the employee’s and employer’s respective contributions.
+[9] Every employer must deduct the employee’s portion of CPP contributions from their remuneration and then remit both the employee’s and employer’s contributions to the Receiver General at the prescribed time: see subsection 21(1) of the CPP.
+[10] Section 5 of the Canada Pension Plan Regulations sets out the methodology for calculating the amount of the employee’s contribution to be deducted by the employer from the employee’s remuneration.
+[11] The employer’s contribution to be remitted is equal to the amount of the employee’s contribution deducted from remuneration: see section 7 of the Regulations.
+[12] Generally, the employer shall remit both the employee’s and employer’s contributions on or before the 15th day of the month following the month in which the remuneration was paid: subsection 8(1) of the Regulations.
+[13] An employer who fails to deduct and remit CPP contributions as and when required is liable for the whole amount that should have been deducted and remitted: see subsection 21(2) of the Regulations.
+Factual background
+[14] The Appellant was incorporated on March 20, 2012 and has a fiscal year‑end of February 28th [Incorporation documents, Exhibit A-6].
+[15] Mr. Kanagasabai and Ms. Tharumalingam are the Appellant’s directors and officers, and are each 50-percent shareholders in the Appellant [Incorporation documents, Exhibit A-6; Reply to the Notice of Appeal at paragraph 13(d)].
+[16] Mr. Kanagasabai testified that the Appellant designs security systems for businesses. He stated that he designs, installs, and sells the systems.
+[17] Mr. Kanagasabai’s spouse Ms. Tharumalingam testified that she did administrative work for the Appellant from the time of its incorporation until she was injured in a car accident in January 2016. She testified that her responsibilities included filing, preparing invoices, and making/taking phone calls.
+[18] Both Mr. Kanagasabai and Ms. Tharumalingam stated that they were the Appellant’s only two workers until Ms. Tharumalingam’s accident, after which a subcontractor was hired. Ms. Tharumalingam testified that she worked about 40 hours per week for the Appellant before her accident, and that her salary was paid to her in cash every two weeks.
+[19] In cross-examination, Mr. Kanagasabai testified that he has worked part‑time for Canada Post in the mail processing plant for the past 20 years. He stated that as a part-time employee, he worked about 25 hours a week but that he took elder‑care leave from about August 2015 to January 2018 to take care of his mother.
+[20] The Appellant’s unaudited financial statements were prepared by Mr. Somasuntharam’s firm and signed by him [Exhibit A-2, pages 39 to 50]. They show the following, among other things:
+With respect to the 2015 fiscal year:
+a) the Appellant’s revenue was $83,840;
+b) the Appellant’s net income was $30,093;
+c) the largest operating expenses incurred that year were motor vehicle ($10,741), business tax/fee licences ($9,236), management fees ($7,800), occupancy cost ($4,800), and meals & entertainment ($4,338);
+d) the majority of the Appellant’s assets consisted of $10,307 due from the two shareholders;
+h) the majority of the Appellant’s assets consisted of $17,400 due from the two shareholders;
+l) the majority of the Appellant’s assets consisted of $24,247 due from the two shareholders.
+With respect to the 2016 fiscal year:
+e) the Appellant’s revenue was $81,960;
+f) the Appellant’s net income was $2,784;
+g) the largest operating expenses incurred that year were motor vehicle ($12,816), business tax/fee licences ($13,020), management fees ($27,809), occupancy cost ($4,800), and meals & entertainment ($4,071);
+With respect to the 2017 fiscal year:
+i) the Appellant’s revenue was $88,045;
+j) the Appellant’s net income was $13,071;
+k) the largest operating expenses incurred that year were motor vehicle ($19,372), business tax/fee licences ($16,470), occupancy cost ($9,600), and meals & entertainment ($4,750), and subcontractor ($15,600); and
+[21] Mr. Somasuntharam testified that he became the Appellant’s accountant in 2015 and that he was not its bookkeeper.
+[22] No source documents were tendered as evidence at the hearing, although Mr. Somasuntharam stated that they were available for review by the trust examiner.
+[23] He stated that he prepared two spreadsheets summarizing the Appellant’s cash disbursements on a monthly basis in the 2016 and 2017 fiscal years [Exhibit A-2, pages 5 and 6]. He stated that he prepared these spreadsheets based on monthly expense reports prepared in turn by Mr. Kanagasabai [Exhibit A-2, pages 7 to 30].
+[24] The two cash disbursement spreadsheets can be summarized as follows:
+With respect to the 2016 fiscal year:
+a) a total amount of $100,274.51 was paid by the Appellant to the shareholders in the form of cash withdrawals, e-transfers, and credit card payments;
+b) the largest expenses incurred by the Appellant were management fees ($28,500.48), permit fees ($14,712.45), gas ($6,098.14), occupancy cost ($4,800.00), meals & entertainment ($4,600.23), cell phone ($3,480.40), Audi lease payments ($2,917.02), taxis ($3,260.05), office expenses ($3,229.67), and advertising ($3,243.01);
+c) expenses totalled $93,181.51;
+d) Mr. Somasuntharam stated that the difference between $100,274.51 and $93,181.51 (i.e. $7,093.00) was a shareholder loan from the Appellant to Mr. Kanagasabai;
+e) with respect to the management fees, Mr. Somasuntharam testified that this amount should have been recorded as a salary to Ms. Tharumalingam;
+With respect to the 2017 fiscal year:
+f) a total amount of $92,129.20 was paid by the Appellant to the shareholders in the form of cash withdrawals, e-transfers, credit card payments, and ATM withdrawals;
+g) the largest expenses incurred by the Appellant were permit fees ($16,469.92), subcontractor ($15,600.00), occupancy cost ($9,600.00), Audi lease payments ($8,268.24), gas ($6,938.49), security deposit ($6,900.00), meals & entertainment ($5,322.42), and car insurance ($3,457.68);
+h) expenses totalled $85,459.20;
+i) Mr. Somasuntharam stated that the difference between $92,129.20 and $85,459.20 (i.e. $6,670.00) was a shareholder loan from the Appellant to Mr. Kanagasabai; and
+j) with respect to the subcontractor expense, Mr. Kanagasabai testified that this individual worked 10 to 15 hours per week while Mr. Kanagasabai worked 60 to 70 hours including weekends after Ms. Tharumalingam’s accident. He stated that the subcontractor was paid $1,300 per month and that he mostly dealt with this individual by email and telephone.
+[Exhibit A-2, pages 5 and 6]
+[25] With respect to the monthly expense reports on which the cash disbursement summaries were based, Mr. Kanagasabai testified that:
+a) the Appellant did not have a company credit card so he used his personal credit card to pay for gas;
+b) the term “occupancy cost” referred to his home office space;
+c) his house is approximately 2,600 to 2,650 square feet and his home office occupied approximately 400 to 450 square feet of his house;
+d) he included a portion of his driveway in his calculation of the percentage of his home used for the Appellant’s business because the business vehicle was parked there;
+e) he applied rates of 25 and 35 percent to his household utilities and internet expenses, respectively, as being attributable to the Appellant’s business;
+f) he sometimes used taxis instead of the business vehicle to travel downtown and obtain permits at city hall because it was less expensive; and
+g) he incurred meals and entertainment expenses when he took a client out for lunch or purchased his own dinner after work in the Greater Toronto Area.
+[Exhibit A-2, pages 7 to 30]
+[26] Copies of two business mileage logs tendered by the Appellant show the following, among other things:
+a) they cover the months of July to December. The year is not shown but Mr. Kanagasabai testified that they pertained to either 2015 or 2016;
+b) the business vehicle is described as a 2016 Honda Accord. On the other hand, the cash disbursement summaries referred to Audi lease payments in the 2016 and 2017 fiscal years. Mr. Kanagasabai testified that the business vehicle had previously been a Honda and then became an Audi in February 2016 [Exhibit A-2, pages 5 and 6]; and
+c) the majority of the trips recorded were made to 2400 Skymark Avenue in Mississauga. Mr. Kanagasabai testified that the main security consultant through which he subcontracted was located at that address. In cross-examination, he stated that he designed security systems for them and that there was a desk for him to use at the consultant’s office. He testified that he would typically spend half of each day at the consultant’s office and then bring his work home. He stated that all of his clients were in Mississauga and Vaughan.
+[Exhibits A-3 and A-4]
+[27] The evidence with respect to the nature of the amounts received by Mr. Kanagasabai and Ms. Tharumalingam can be summarized as follows:
+a) Mr. Kanagasabai testified in chief that in 2015, he received a combination of dividends and reimbursements;
+b) he also testified in chief that they received only dividends during the first three years of the Appellant’s operation, and that they began to receive salaries in 2015;
+c) he testified in chief that after Ms. Tharumalingam’s accident in January 2016, he was the only one receiving a salary from the Appellant;
+d) he testified in chief that about $20,000 out of roughly $80,000 paid by the Appellant to him and Ms. Tharumalingam were expense reimbursements. He stated that the Appellant remitted its CPP contributions on the remaining $60,000 every six months or so because the Appellant did not have money;
+e) in cross-examination, Mr. Kanagasabai stated that the Appellant paid him a dividend of $15,000 in 2015 and that only Ms. Tharumalingam received a salary from the Appellant that year;
+f) in cross-examination, he also testified that the Appellant paid him dividends and no salary in 2016, but that he began receiving a salary in 2017;
+g) later in cross-examination, he stated that the Appellant paid him a salary commencing in 2016 and that CPP contributions were made on his behalf for 2016;
+h) later in cross-examination, he testified that he was confused about the years. He stated that he began receiving a salary from the Appellant in 2017 and that he had received a dividend of $15,000 from the Appellant in 2015 and 2016;
+i) the Appellant’s accountant Mr. Somasuntharam testified in chief that Mr. Kanagasabai was unfamiliar with accounting terms so did not understand the difference between salary and dividends;
+j) Mr. Somasuntharam stated in chief that Mr. Kanagasabai received only a dividend from the Appellant in the 2016 fiscal year;
+k) Mr. Somasuntharam stated in chief that he prepared a 2015 T4 slip with respect to Ms. Tharumalingam’s earnings but that the remittance of $5,878.40 due and shown in box 86 was not made [Exhibit A-2, page 33];
+l) Ms. Tharumalingam testified in cross examination she received a dividend of $15,000 from the Appellant in 2013 and 2014; and
+m) Ms. Tharumalingam also stated in cross-examination that there were two children in the household. She testified that after her accident, household expenses were paid with a combination of insurance proceeds and credit cards on which she made minimum payments.
+Analysis
+[28] It is very difficult to separate the more credible aspects from the less credible ones in this matter.
+[29] Based on the evidence before me and on a balance of probabilities, I believe that the Appellant was likely incorporated in 2012 for the purpose of enabling Mr. Kanagasabai to subcontract his services to security clients, of which the main one was at 2400 Skymark Avenue in Mississauga. He stated in cross-examination that he subcontracted with a main security consultant at that address and the business mileage logs showed that approximately 117 trips were recorded as being made to 2400 Skymark versus approximately 24 trips to other addresses over a six‑month period [Exhibits A-3 and A-4].
+[30] The unaudited financial statements show that the Appellant’s gross revenue was fairly consistent over the 2015 ($83,840), 2016 ($81,960), and 2017 ($88,045) fiscal years [Exhibit A-2, pages 39 to 50]. Mr. Kanagasabai testified in cross-examination that with Canada Post, he worked about 25 hours per week at a rate of approximately $27 per hour, which resulted in a gross salary of $30,000 or $40,000 per year. Based on a 52-week year, I calculate 25 hours per week at a rate of $27 per hour to be $35,100.
+[31] Mr. Kanagasabai’s Canada Post job was not a source of income while he was away on elder-care leave from August 2015 to January 2018, which spans most of the period under appeal. I believe that when he took leave from his long‑term job with Canada Post, it likely resulted in a decrease to his household income.
+[32] Mr. Somasuntharam testified that he became the Appellant’s accountant in 2015 and I believe that he assisted Mr. Kanagasabai in looking more closely at whether there were expenditures which could be considered business expenses of the Appellant.
+[33] During Mr. Kanagasabai’s testimony, he referred the Court to his accountant for the answers to questions about whether payroll remittances were made, the Appellant’s 2015 T4 summary [Exhibit A-1], how much he received in remuneration in the years under appeal, and whether there was a directors’ resolution authorizing the declaration of the dividends, among other topics.
+[34] Mr. Somasuntharam explained that Mr. Kanagasabai was unfamiliar with accounting terms so did not understand the difference between salary and dividends. However, I would equally consider these terms to be business terms and I would expect Mr. Kanagasabai and Ms. Tharumalingam to understand them as the Appellant’s directors and officers.
+[35] Since pensionable income is calculated in accordance with the Income Tax Act, subsection 230(1) is relevant and reads as follows:
+230.(1) Records and books [of business] – Every person carrying on business and every person who is required, by or pursuant to this Act, to pay or collect taxes or other amounts shall keep records and books of account (including an annual inventory kept in prescribed manner) at the person’s place of business or residence in Canada or at such other place as may be designated by the Minister, in such form and containing such information as will enable the taxes payable under this Act or the taxes or other amounts that should have been deducted, withheld or collected to be determined.
+[36] The testimony as to when and whether the shareholders received dividends versus salary was contradictory on multiple occasions during the hearing. I believe the inconsistencies are likely due to the fact that prior to the years under appeal, Mr. Kanagasabai and Ms. Tharumalingam did not treat the Appellant as a business operation. As a result, they had not kept complete and proper records for the purpose of tracking reimbursements which might have been owed to them or for the purpose of making CPP remittances, among other things.
+[37] The Appellant did not tender any source documents into evidence and the content of the available summaries and logs suggests that they were prepared after the fact without all the necessary information. Some examples include the following:
+a) the cash disbursement summaries for the 2016 and 2017 fiscal years showed that the Appellant had leased an Audi for business use [Exhibit A‑2, pages 5 and 6]. Mr. Kanagasabai testified that the Appellant’s business vehicle was a Honda Accord until February 2016, at which point the Appellant leased an Audi. On the other hand, the mileage logs refer to a 2016 Honda Accord and Mr. Kanagasabai was uncertain as to whether the logs were for 2015 or 2016;
+b) the mileage logs [Exhibits A-3 and A-4] cover a six-month period from July to December in 2015 or 2016, and mileage is recorded almost every day except for some weekends and statutory holidays. The October 6th entry on the mileage log shows that the business vehicle was driven to 2400 Skymark Avenue. When cross-referenced with Mr. Kanagasabai’s monthly expense reports, his entry for October 6, 2015 shows a taxi expense of $30 and his entry for October 6, 2016 shows a travel expense of $17 [Exhibit A-2, pages 7 to 30]. The column for taxi expenses in the monthly expense reports is replaced with one for travel expenses beginning in March 2016;
+c) the cash disbursement summary for the 2016 fiscal year shows that $3,260.05 was spent on taxis. The cash disbursement summary for the 2017 fiscal year shows that the category for taxis has been replaced with one for travel expenses and that $1,940.00 in travel expenses were incurred. Given that the Appellant had a business vehicle and travelled to 2400 Skymark Avenue most of the time, the taxi/travel expense is either unreasonable or implausible;
+d) meals and entertainment is one of the larger expenses in each of the years under appeal. Mr. Kanagasabai testified that he incurred this expense when taking clients out for lunch or when purchasing his own dinner after work in the Greater Toronto Area. The amounts range from $9.00 on October 15, 2015 to $315.53 on December 12, 2015. Considering that Mr. Kanagasabai should not have claimed his own dinners while working in the Greater Toronto Area (where he lives) and the fact that the Appellant primarily serviced a single client (at 2400 Skymark Avenue), the meals and expense amount is either unreasonable or implausible;
+e) the permit fees (i.e. for municipal permits from Toronto city hall) are the second largest expense in the 2016 fiscal year and the largest in the 2017 fiscal year. This category appears to me to be in the nature of a disbursement (i.e. recoverable from the Appellant’s clients) and not a business expense of the Appellant; and
+f) the gross revenue generated by the Appellant in each fiscal year is relatively stable regardless of the amount of time, energy, or resources expended by Mr. Kanagasabai and Ms. Tharumalingam [Unaudited financial statements, Exhibit A-2, pages 39 to 50].
+[38] In VanNieuwkerk v. The Queen, 2003 TCC 670 at paragraph 6, Associate Chief Justice Bowman (as he then was) stated:
+It has been said on many occasions in this Court that accounting entries do not create reality. They simply reflect reality. There must be an underlying reality that exists independently of the accounting entries.
+[39] I am unable to find an underlying reality that supports the accounting records provided by the Appellant to this Court. Based on the evidence presented to me, I am specifically unable to find that the Minister’s assumptions of fact in the Reply to the Notice of Appeal have been rebutted.
+Conclusion
+[40] The appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 16th day of July 2020.
+“Susan Wong”
+Wong J.
+CITATION:
+2020 TCC 52
+COURT FILE NO.:
+2018-1555(CPP)
+STYLE OF CAUSE:
+2321184 ONTARIO LTD. and M.N.R.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 15, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+July 16, 2020
+APPEARANCES:
+Agent for the Appellant:
+Sivakumar Kanagasabai
+Counsel for the Respondent:
+Kevin Hong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

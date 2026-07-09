@@ -1,0 +1,69 @@
+Title: Julian v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25881/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-330-25881-julian-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-05-11
+
+# Julian v. The Queen
+
+- Citation: 2004 CCI 330
+- Decision date: 2004-05-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3875, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Julian v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-11
+Référence neutre
+2004 CCI 330
+Numéro de dossier
+2003-2947(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI330
+Date : 20040511
+Dossier : 2003-2947(IT)I
+ENTRE :
+PATRICK J. JULIAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Avocat de l'appelant : Me David Graham
+Avocats de l'intimée : Mes Robert Carvalho et Gavin Laird
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience
+à Vancouver (Colombie-Britannique), le 8 avril 2004.)
+Le juge McArthur
+[1] La question en litige dans le présent appel vise à savoir si l'appelant doit payer les pénalités cotisées en application des dispositions du paragraphe 163(2) de la Loi de l'impôt sur le revenu relativement à son année d'imposition 1993. Le paragraphe 163(2) est ainsi formulé :
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+a ) [...]
+[2] En 1993, l'appelant était associé dans un cabinet d'avocats très coté de Vancouver, Farris Vaughan Wills & Murphy. Sa pratique était surtout centrée sur l'aménagement immobilier. Sur les conseils de Ken Taves, le principal conseiller fiscal de l'entreprise, il a participé à un projet de dons de bienfaisance pour l'Association for the Betterment of Literacy ( « ABLE » ). Le 31 décembre 1993, l'appelant a transféré en fiducie la somme de 26 000 $ au cabinet d'avocats. Le 4 janvier 1994, la société en nom collectif lui a remboursé une somme de 19 500 $. L'appelant a déclaré un don de bienfaisance de 26 000 $ dans sa déclaration de revenus de l'année 1993. La raison pour laquelle le ministre du Revenu national a imposé une pénalité est que l'appelant savait qu'il faisait un faux énoncé en déclarant un don de bienfaisance de 26 000 $ dans sa déclaration de revenus pour l'année 1993, ou du moins qu'il avait commis une faute lourde en déclarant ce don. L'appelant ne conteste pas le rejet de la demande du don de 26 000 $, bien qu'en fait il ait perdu 6 500 $, un fait auquel je ferai référence plus loin; par contre il conteste la pénalité imposée.
+[3] L'appelant prétend qu'il était en droit de se fier à l'expertise de M. Taves, sans être obligé d'approfondir la question. Il croyait qu'il s'agissait d'un abri fiscal et, bien que tout cela constituait un mystère pour lui, il n'avait pas mis en doute l'intégrité et le professionnalisme de son collègue, un expert fiscal, et ne croyait pas que cela était nécessaire.
+[4] Il semble que beaucoup d'autres contribuables (plus de 500 je crois) ont également fait des dons à ABLE dans les années antérieures, et le ministre a rejeté les réclamations et établi de nouvelles cotisations. À ce qu'en sache l'appelant, les seuls contribuables à qui on a imposé une pénalité aux termes du paragraphe 163(2) étaient également des associés de Farris Vaughan Wills & Murphy.
+[5] Les avocats de l'intimée ont indiqué qu'il était clair que l'appelant répondait aux critères du paragraphe 163(2), puisqu'il avait sciemment fait un faux énoncé dans sa déclaration de revenus. C'est pour cette raison qu'on lui a imposé une pénalité. Les avocats ont ajouté que le montant du don de bienfaisance qu'aurait dû déclarer l'appelant était 6 500 $, et non 26 000 $, étant donné qu'on lui a remboursé 19 500 $ peu après qu'il ait fait le don. L'avocat a également indiqué qu'il devait être absolument clair pour l'appelant qu'il n'avait pas fait un don de 26 000 $, mais plutôt de 6 500 $.
+[6] Cette déclaration inexacte était-elle due à une faute lourde? L'appelant aurait-il dû faire plus de recherche? Je ne le crois pas. Pour qu'il y ait faute lourde, le seuil de responsabilité doit être plus élevé que la diligence raisonnable. S'il y a un doute juste et raisonnable, il faut accorder à l'appelant le bénéfice de ce doute.
+[7] L'appelant est un avocat connu, et en 1993, il travaillait pour un cabinet très coté. Je donne foi à son témoignage. Il a demandé à son collègue M. Taves de lui proposer un abri fiscal et ce dernier lui a conseillé ABLE. Il s'est fié entièrement aux conseils de M. Taves. L'appelant était avocat dans le domaine de l'immobilier, et tant la complexité de la Loi de l'impôt sur le revenu que les arcanes des abris fiscaux n'étaient pas des sujets sur lesquels il s'était penché. Il a affirmé qu'il ne lui était pas nécessaire d'aller au-delà de la confiance en son partenaire, et je le crois.
+[8] Un tribunal doit être très prudent avant d'approuver des pénalités imposées en vertu du paragraphe 163(2). Dans l'arrêt Venne c. La Reine, C.F. 1re inst., no T-815-82, 9 avril 1984 (84 DTC 6247), le juge Strayer s'est exprimé en ces termes à la page 6256 :
+Quant à la possibilité d'une faute lourde, j'ai conclu, après hésitation, qu'elle n'a pas non plus été établie ici. La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. Je ne conclus pas à l'existence d'un tel degré de négligence en rapport avec les faux énoncés de revenus commerciaux. Certes, le contribuable n'a pas fait preuve de la prudence d'un homme raisonnable et, comme je l'ai déjà fait remarquer, il aurait au moins dû réviser ces déclarations de revenus avant de les signer. Ce faisant, un homme raisonnable, eu égard aux autres renseignements dont il disposait, aurait été amené à croire que quelque chose n'allait pas et aurait cherché à en savoir plus long auprès de son teneur de livres.
+Encore une fois, la pénalité prévue par le paragraphe 163(2) n'est pas justifiée en l'espèce, bien que les avocats de l'intimée aient présenté des arguments qui ne sont point dépourvus de validité au soutien de leur position. L'appelant a agi de façon agressive, voire désinvolte, en ne s'interrogeant pas sur les détails d'une transaction qui semblait douteuse, mais il comptait sur l'expert comptable de l'entreprise, ce qui, dans les circonstances, était tout à fait dans son droit. L'appelant a peut-être été négligent, mais son comportement n'indique pas un degré de négligence équivalant à une intention.
+[9] Pour ces motifs, l'appel est accueilli, avec dépens.
+Signé à Ottawa, Canada, ce 11e jour de mai 2004.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 29e jour de juin 2004.
+Louise-Marie LeBlanc, traductrice

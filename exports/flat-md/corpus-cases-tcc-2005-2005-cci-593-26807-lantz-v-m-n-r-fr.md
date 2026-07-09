@@ -1,0 +1,170 @@
+---
+title: "Lantz v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26807/index.do"
+last_modified: "2005-09-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 593"
+citation2: ""
+neutral_citation: "2005 CCI 593"
+decision_date: "2005-09-09"
+language: "fr"
+item_id: "26807"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3487
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:32:35.521000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "392b1d8f9390bdb30d9e184ae8c70b74194d8638d3a92274884f2c17edd1d325"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lantz v. M.N.R.
+
+- Citation: 2005 CCI 593
+- Decision date: 2005-09-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3487, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lantz v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-09
+Référence neutre
+2005 CCI 593
+Numéro de dossier
+2005-1154(EI)
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-1154(EI)
+ENTRE :
+CINDY A. LANTZ,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel de
+Cindy A. Lantz 2005-1155(CPP)
+le 1er septembre 2005, à Hamilton (Ontario)
+Devant : l'honorable juge G. Sheridan
+Comparutions
+Avocate de l'appelante :
+Me Jennifer Zdriluk
+Avocate de l'intimé :
+Me Suzanne M. Bruce
+JUGEMENT
+L'appel est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de septembre 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 31e jour d'octobre 2005.
+Marc Doyon, traducteur
+Dossier : 2005-1155(CPP)
+ENTRE :
+CINDY A. LANTZ,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel de
+Cindy A. Lantz 2005-1154(EI)
+le 1er septembre 2005, à Hamilton (Ontario)
+Devant : l'honorable juge G. Sheridan
+Comparutions
+Avocate de l'appelante :
+Me Jennifer Zdriluk
+Avocate de l'intimé :
+Me Suzanne M. Bruce
+JUGEMENT
+L'appel est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de septembre 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 31e jour d'octobre 2005.
+Marc Doyon, traducteur
+Référence : 2005CCI593
+Date : 20050909
+Dossiers : 2005-1154(EI)
+2005-1155(CPP)
+ENTRE :
+CINDY A. LANTZ,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sheridan
+[1] L'appelante, Cindy A. Lantz, a interjeté appel contre les décisions[1] du ministre du Revenu national d'après lesquelles elle travaillait en vertu d'un contrat d'entreprise au cours de la période allant du 22 juin 2003 au 15 juin 2004. Les appels ont été entendus ensemble sur preuve commune.
+Faits
+[2] En janvier 2001, Bill MacGillivray et deux collègues ont créé une société connue sous le nom de National Instore Services Corporation ( « NIS » ). Auparavant, M. MacGillivray avait une autre entreprise pour laquelle Mme Lantz fournissait des services de tenue de comptes. Elle exploitait son entreprise de tenue de comptes à partir de son bureau à domicile, sous le nom « Lantz & Associates » . Son bureau était doté d'un ordinateur et du reste du matériel normalement lié à du travail de comptabilité. M. MacGillivray a demandé à Mme Lantz de tenir les livres pour sa nouvelle société. Ils ont convenu qu'elle fournirait ses services à NIS comme entrepreneur indépendant, au taux de 30 $ l'heure. Il y avait beaucoup à faire pour que la société soit opérationnelle. Mme Lantz s'est attelée au travail consistant à aider à équiper et organiser le nouveau bureau : veiller à l'établissement de services de téléphone et de courrier électronique, utiliser ses compétences informatiques pour créer le logo de la société et choisir et installer un tableur et un programme de comptabilité pour l'ordinateur de la société.
+[3] Le temps passait, et M. MacGillivray et ses associés ont travaillé dur à l'établissement de la nouvelle société. Mme Lantz s'occupait de la comptabilité et de la paye, travaillant d'habitude au bureau de NIS. En mai 2003, Mme Lantz a eu un fils. Environ un mois avant la naissance de ce dernier, Mme Lantz et M. MacGillivray ont discuté de la possibilité que Mme Lantz s'occupe de la comptabilité à partir de son bureau à domicile. Ils ont convenu qu'elle travaillerait effectivement à partir de son bureau à domicile et que ses services seraient disponibles pour NIS pendant quatre jours par semaine, au plus. L'ordinateur de NIS, dans lequel étaient enregistrées toutes les données financières de la société, a été transféré au bureau à domicile de Mme Lantz, qui communiquait quotidiennement par téléphone et courrier électronique avec le personnel administratif de NIS ainsi qu'avec les représentants et les clients de la société, selon les besoins, pour veiller à ce que les comptes clients et les comptes fournisseurs soient en règle. Lorsque c'était nécessaire, M. MacGillivray rencontrait Mme Lantz à son bureau à domicile où, de temps en temps, il remarquait d'autres clients de Mme Lantz.
+[4] Dans l'intervalle, NIS continuait à devenir plus occupée et plus prospère. M. MacGillivray a retenu les services de sous-traitants pour qu'ils fassent ce que lui et ses associés faisaient eux-mêmes auparavant. Devant l'accroissement des exigences administratives du bureau, il a embauché des employés, dont au moins deux avaient commencé à travailler pour la société comme entrepreneurs indépendants. À un moment donné[2], Mme Lantz et M. MacGillivray ont discuté de la possibilité qu'elle travaille non plus comme entrepreneur indépendant mais comme employé; cependant, ils ne sont pas parvenus à une entente, et elle a continué à travailler au même titre qu'avant. En juin 2004, M. MacGillivray a informé Mme Lantz que NIS n'aurait plus besoin de ses services. À l'audience, il a déclaré que, en raison de la croissance que l'entreprise avait connue, NIS avait besoin des services à temps plein d'un comptable interne plutôt que des services à temps partiel d'un teneur de livres travaillant à son compte. Mme Lantz a témoigné qu'on lui avait dit qu'elle était « trop occupée » ; en d'autres mots, elle n'était pas disponible aussi souvent que la société l'aurait voulu. Quoi qu'il en soit, elle a cessé de fournir des services à NIS. Mme Lantz a alors demandé des prestations d'assurance-emploi, en alléguant qu'elle avait été un employé de NIS; la société s'est opposée à cette demande, au motif que Mme Lantz était un entrepreneur indépendant travaillant à son compte. Et c'est ainsi qu'a été interjeté le présent appel.
+Analyse
+[5] En déterminant si un particulier est un employé travaillant aux termes d'un contrat de louage de services ou un entrepreneur indépendant travaillant aux termes d'un contrat d'entreprise, la Cour doit se laisser guider par les arrêts 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[3] et Wiebe Door Services Ltd. v. The Minister of National Revenue[4], pour examiner la question centrale de savoir à qui appartenait l'entreprise, ainsi que d'autres facteurs pertinents comme l'exercice d'un contrôle, la propriété des instruments de travail, les chances de bénéfice et les risques de perte et le degré d'intégration.
+[6] Mme Lantz avait la charge de réfuter les hypothèses sur lesquelles le ministre a basé sa conclusion selon laquelle Mme Lantz travaillait comme entrepreneur indépendant de juin 2003 à juin 2004. Mme Lantz a témoigné de façon très directe, et j'estime qu'elle a été un témoin crédible. Elle a fait preuve de sincérité en admettant qu'elle avait travaillé pour l'ancienne société de M. MacGillivray comme spécialiste autonome et qu'elle avait continué à travailler en cette qualité quand elle avait accepté NIS comme client. Elle a reconnu qu'elle avait voulu changer de statut de manière à avoir le statut d'un employé mais que ce désir ne s'était pas réalisé. Elle a admis qu'elle avait elle-même établi sa déclaration de revenu pour 2003, dans laquelle elle n'a indiqué aucun « revenu d'emploi » et a indiqué comme revenu seulement un « revenu de profession libérale » provenant du travail qu'elle avait accompli sous le nom de Lantz & Associates. De son revenu de profession libérale, qui incluait les « honoraires » que lui avait versés NIS, elle avait déduit des frais[5] liés à son travail pour NIS qu'elle n'aurait pu déduire si elle avait eu le statut d'un employé. Elle avait un numéro de TPS et incluait de la TPS dans les factures qu'elle faisait à NIS et à ses autres clients. En tant que personne responsable de la paye pour NIS, elle savait que certains membres du personnel de NIS étaient des employés et que d'autres étaient des entrepreneurs indépendants. Elle était au courant de la différence que cela faisait relativement à la question de savoir si des sommes devaient être retenues et versées au titre de l'assurance-emploi et du RPC. Elle savait qu'aucune retenue semblable n'avait à être effectuée dans son cas, parce qu'elle était un entrepreneur indépendant.
+[7] Vu ce qui précède, il ne semble guère nécessaire d'examiner l'un quelconque des autres facteurs menant à la conclusion que, tout au long de la période en cause, Mme Lantz travaillait aux termes d'un contrat d'entreprise. Néanmoins, il existe d'autres éléments de preuve à l'appui d'une telle conclusion, y compris ce qui suit :
+1. Contrôle - Malgré le fait que Mme Lantz devait respecter certains délais dans l'accomplissement de ses tâches de tenue de livres, ces délais étaient imposés non pas tant par NIS que par les réalités externes de l'exploitation d'une petite entreprise : les chèques de paye - peu importait qui les faisait - devaient être prêts le jour de la paye; les retenues sur la paye devaient être versées au Bureau du receveur général à une date spécifiée; les factures de cartes de crédit devaient être payées au plus tard à la date d'exigibilité. Dans le cadre de ces paramètres, toutefois, Mme Lantz était libre de déterminer quand elle s'acquittait de ces tâches. La manière dont elle exécutait son travail de tenue de comptes n'était pas supervisée; en fait, la raison pour laquelle M. MacGillivray avait au départ demandé les services de Mme Lantz était que lui et ses associés n'avaient ni le temps ni les compétences pour bien exécuter ce travail eux-mêmes. Enfin, quoique j'aie eu l'impression que M. MacGillivray appréciait toute l'aide que Mme Lantz lui avait accordée dans l'établissement du bureau, je ne suis pas convaincu que l'on s'attendait que Mme Lantz remplisse ces fonctions. Les efforts de Mme Lantz à cet égard n'avaient pas un caractère continu et ne représentaient pas une partie importante de ses tâches pendant la période en cause. Elle a aimablement mais volontairement apporté de l'aide; il en a été de même de la décision de M. MacGillivray d'inclure Mme Lantz dans le régime d'assurance collective de la société et de payer les primes de Mme Lantz, bien qu'il n'ait été nullement obligé de le faire.
+2. Instruments de travail - Mme Lantz était propriétaire des instruments de travail de son entreprise de tenue de livres : son bureau à domicile, sa voiture, son ordinateur et le reste du matériel de bureau; tout cela a été dûment pris en compte dans sa déclaration de revenu pour 2003. Que NIS ait installé au bureau à domicile de Mme Lantz l'ordinateur ne change rien à ce fait. L'ordinateur de NIS était simplement, pour l'essentiel, le réceptacle de l'information financière de la société, et son caractère ne différait pas de celui d'un grand livre ou d'un classeur. Il n'est pas déraisonnable qu'une spécialiste ait eu de tels articles en sa possession pendant qu'elle fournissait des services à son client. Il est déraisonnable de conclure qu'une telle possession transforme le statut de Mme Lantz de sorte que cette dernière ait été non pas un entrepreneur indépendant mais un employé.
+3. Chances de bénéfice et risques de perte - Le fait que Mme Lantz a perdu NIS comme client après que cette société eut dépassé le stade auquel était suffisant le niveau de service que Mme Lantz était capable de fournir est un exemple des risques inhérents à un travail accompli aux termes d'un contrat d'entreprise. Mme Lantz courait également un risque en prenant NIS comme client en 2001, car rien ne garantissait que la nouvelle entreprise serait couronnée de succès. Si elle commettait des erreurs, elle devait les corriger à ses frais, en prenant de son propre temps. Par ailleurs, Mme Lantz était libre d'avoir des clients autres[6] que NIS. Elle pouvait choisir et utiliser ses propres stratégies pour maximaliser ses gains et minimaliser ses frais de manière à accroître ses profits. Aucun de ces aspects ne correspond à la situation beaucoup plus statique d'un employé.
+4. Intégration - La preuve qui m'a été présentée n'était pas suffisante pour permettre de conclure que les services de Mme Lantz étaient intégrés à l'entreprise exploitée par NIS.
+[8] Pour tous ces motifs, je conclus que Mme Lantz ne s'est pas acquittée de la charge qui lui incombait de réfuter les hypothèses sur lesquelles le ministre a basé ses décisions selon lesquelles Mme Lantz travaillait aux termes d'un contrat d'entreprise au cours de la période allant du 22 juin 2003 au 15 juin 2004; par conséquent, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 9e jour de septembre 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 31e jour d'octobre 2005.
+Marc Doyon, traducteur
+RÉFÉRENCE : 2005CCI593
+Nos DU DOSSIER DE LA COUR : 2005-1154(EI) et 2005-1155(CPP)
+INTITULÉ DE LA CAUSE : Cindy A. Lantz c. M.R.N.
+LIEU DE L'AUDIENCE : Hamilton (Ontario)
+DATE DE L'AUDIENCE : le 1er septembre 2005
+MOTIFS DU JUGEMENT PAR : l'honorable juge G. Sheridan
+DATE DU JUGEMENT : le 9 septembre 2005
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Jennifer Zdriluk
+Avocate de l'intimé :
+Me Suzanne M. Bruce
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom : Jennifer Zdriluk
+Étude : Ross & McBride, s.r.l.
+Hamilton (Ontario)
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Selon l'article 93 et l'alinéa 5(1)a) de la Loi sur l'assurance-emploi et selon le paragraphe 27.2(3) et l'alinéa 6(1)a) du Régime de pensions du Canada.
+[2] Il y avait des éléments de preuve contradictoires sur la question de savoir à l'initiative de qui les discussions ont eu lieu, mais la détermination de ce qu'il en est ne change pas l'effet de ces discussions.
+[3] [2001] 4 C.T.C. 139 (C.S.C.).
+[4] 87 DTC 5025.
+[5] Principalement des frais « de véhicule à moteur » ainsi que des frais « de repas » et « de représentation » .
+[6] Et elle avait bel et bien d'autres clients pendant la période en cause.

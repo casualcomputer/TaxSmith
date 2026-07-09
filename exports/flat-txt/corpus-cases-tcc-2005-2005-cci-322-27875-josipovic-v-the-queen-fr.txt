@@ -1,0 +1,131 @@
+Title: Josipovic v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27875/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-322-27875-josipovic-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-05-06
+
+# Josipovic v. The Queen
+
+- Citation: 2005 CCI 322
+- Decision date: 2005-05-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 351, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Josipovic v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-06
+Référence neutre
+2005 CCI 322
+Numéro de dossier
+2004-4477(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4477(IT)I
+ENTRE :
+TONY JOSIPOVIC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 avril 2005, à Calgary (Alberta)
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Mark Hesletine
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Saskatoon (Saskatchewan), ce 6e jour de mai 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme ce 6e jour de décembre 2005.
+Marie-Christine Gervais, traductrice
+Référence : 2005CCI322
+Date : 20050506
+Dossier : 2004-4477(IT)I
+ENTRE :
+TONY JOSIPOVIC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel interjeté sous le régime de procédure informelle a été entendu à Calgary (Alberta) le 28 avril 2005. L’appelant a témoigné et a appelé Alan Todofichuk à témoigner.
+[2] Les points en litige sont énoncés comme suit aux paragraphes 2 à 10 de la réponse à l’avis d’appel :
+[TRADUCTION]
+2. Dans sa déclaration de revenus pour l’année 2002, l’appelant a demandé une déduction pour des frais de déménagement de 27 323 $ répartie comme suit :
+Transport des meubles 8 500 $
+Autres frais de déménagement 18 823 $
+Déduction pour frais de
+déménagement demandée 27 323 $
+3. Dans la cotisation établie à l’égard de la déclaration de revenus de l’appelant pour l’année d’imposition 2002, par un avis daté du 29 avril 2003, les frais de déménagement ont été admis.
+4. Dans la nouvelle cotisation établie à l’égard de la déclaration de revenus de l’appelant pour l’année d’imposition 2002, par un avis daté du 10 novembre 2003, le ministre a réduit les frais de déménagement pour les faire passer de 27 323 $ à 18 904 $ :
+Transport des meubles 0 $
+Frais de déménagement supplémentaires 81 $
+Autres frais de déménagement 18 823 $
+Déduction pour frais de
+déménagement demandée 18 904 $
+5. Dans la nouvelle cotisation établie à l’égard de la déclaration de revenus de l’appelant pour l’année d’imposition 2002, la déduction de 8 500 $ demandée par l’appelant pour le transport des meubles (ci‑après le « montant ») n’a pas été admise.
+6. Au moyen d’un avis d’opposition reçu le 19 janvier 2004, l’appelant a contesté la nouvelle cotisation établie pour l’année d’imposition 2002.
+7. En réponse à l’avis d’opposition, le ministre a ratifié la nouvelle cotisation établie pour l’année d’imposition 2002 au moyen d’un avis de ratification daté du 8 septembre 2004, étant donné qu’il n’avait pas été montré qu’une dépense correspondant à ce montant avait été engagée.
+8. Lorsqu’il a établi la nouvelle cotisation et effectué la ratification, le ministre a émis les hypothèses de fait suivantes :
+a) l’appelant a quitté l’Ontario pour s’installer en Alberta en 2002;
+b) l’appelant a reçu une indemnité de déménagement de 12 000 $ de son employeur;
+c) l’appelant a engagé des frais de déménagement s’élevant à 18 904 $;
+d) l’appelant n’a pas engagé des frais de déménagement dépassant le montant admis par le ministre;
+e) l’appelant n’a pas engagé de dépense correspondant à ce montant.
+B. QUESTION EN LITIGE
+9. Il s’agit de savoir si l’appelant a le droit de déduire les frais de déménagement qui dépassent le montant admis par le ministre pour l’année d’imposition 2002.
+C. DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+10. L’intimée invoque les articles 62 et 231.2, le paragraphe 248(1) et les alinéas 18(1)a) et h) de la Loi de l’impôt sur le revenu (la « Loi »), telle qu’elle a été modifiée pour l’année d’imposition 2002.
+[3] Aucune des hypothèses n'a été réfutée par la preuve.
+[4] Le présent appel porte sur l’allégation de l’appelant selon laquelle il a versé à un parent de son épouse, Bill Watmore, 8 500 $ pour le déménagement des meubles de sa famille et d’une Honda Civic de l’Ontario à Calgary en 2002.
+[5] L’appelant a indiqué dans son témoignage qu’il avait conclu une entente verbale avec M. Watmore. M. Josipovic a allégué avoir appris par la suite qu’il ne faisait pas affaire avec l’employeur de M. Watmore, Lewis Movers Ltd. Le nouvel employeur de l’appelant lui a donné 12 000 $ pour les frais de déménagement. M. Josipovic a témoigné que lorsque M. Watmore est arrivé, il a encaissé le chèque de 12 000 $ à une succursale de la Banque Royale et il a donné à M. Watmore 8 500 $ en espèces sans obtenir de reçu. Il a indiqué dans son témoignage qu’on lui avait promis un reçu, mais qu’il ne l’a jamais eu. Personne n’est venu témoigner en ce qui concerne le paiement allégué ni n’a été mentionné à cet égard.
+[6] Il est clair que, si une opération a été conclue entre les deux parties, il s’agissait d’une opération clandestine, et que, aux yeux de l’employeur de M. Watmore, l’opération était illicite. Toutefois, il est allégué que le déménagement a été effectué par un parent, M. Watmore. Le déménagement peut donc avoir été effectué gratuitement, à titre de cadeau, ou bien il peut avoir été effectué pour un montant moins élevé.
+[7] Personne n’a témoigné avoir vu les 8 500 $ changer de main. Aucun document indiquant que cet argent est passé par la banque n’a été présenté. Alan Todofichuk a seulement vu l’arrivée des meubles. Il ne savait pas qui a livré les articles ménagers ou quel était le nom de l’entreprise sur le camion, et il n’a jamais vu personne être payé.
+[8] Je ne crois pas que qui que ce soit demanderait à un déménageur de déménager ses meubles d’un bout à l’autre du Canada sans avoir de contrat de déménagement écrit; ou, si les articles devaient être assurés (comme c’est le cas ici), sans un contrat d’assurance écrit. Je ne crois pas non plus que qui que ce soit verserait 8 500 $ en espèce sans obtenir de reçu quelconque. De plus, aucun tiers n’est venu témoigner concernant les aspects contractuels de l’opération alléguée.
+[9] Dans un contexte différent, dans l’affaire Timothy P. Neeb v. The Queen, 97 DTC 895, où un trafiquant de drogue déclaré coupable alléguait des différences concernant le revenu et les dépenses utilisés pour établir une cotisation d’impôt sur le revenu, sans toutefois avoir de registres à l’appui, le juge Bowman a dit ce qui suit à la page 904 des motifs du jugement :
+Je ne crois pas que la preuve soit suffisamment digne de foi pour me permettre de conclure que le montant du revenu réalisé par l'appelant devrait être abaissé. En outre, comme je l'ai déclaré ci-dessus, la contestation de la cotisation est de prime abord fondée sur le montant établi par le ministre, l'appelant tentant ensuite de déduire certains montants à titre de dépenses et de pertes. La personne qui ne produit pas de déclarations de revenus, qui ne tient pas de dossiers ou qui, afin d'éviter qu'on la découvre, détruit les documents rudimentaires qu'elle peut avoir en sa possession après qu'ils ont servi à la fin visée, fait face à une tâche formidable lorsqu'il s'agit de contester une cotisation du genre ici en cause. La Loi exige que le contribuable tienne des dossiers à l'égard de l'entreprise qu'il exploite. L'omission de le faire n'empêche pas d'une façon absolue d'effectuer des déductions si les dépenses peuvent par ailleurs être prouvées (Weinberger v. M.N.R., 64 DTC 5060), mais la personne qui se met délibérément dans une situation où elle ne peut établir quel est son revenu est l'artisan de son propre malheur. […]
+C’est ce qui s’est passé en l’espèce : il n’y a pas de contrats; il n’y a pas de chèque certifié ni de chèque ordinaire de 8 500 $; il n’y a pas de reçu et pas de témoins. L’appelant est l’artisan de son propre malheur.
+[10] Compte tenu de ce qui précède, sans corroboration convenable ni registres appropriés selon l’article 230 de la Loi de l’impôt sur le revenu, l’appelant ne s’est pas acquitté du fardeau de la preuve : il n’a pas réfuté les hypothèses émises par le ministre dans cette affaire.
+[11] L’appel est rejeté.
+Signé à Saskatoon (Saskatchewan), ce 6e jour de mai 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme ce 6e jour de décembre 2005.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2005CCI322
+NO DU DOSSIER DE LA COUR : 2004-4477(IT)I
+INTITULÉ DE LA CAUSE : Tony Josipovic c. La Reine
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 28 avril 2005
+MOTIFS DU JUGEMENT PAR : L’honorable juge Beaubier
+DATE DU JUGEMENT : Le 6 mai 2005
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Mark Heseltine
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Étude :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

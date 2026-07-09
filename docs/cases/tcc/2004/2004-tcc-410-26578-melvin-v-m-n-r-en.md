@@ -1,0 +1,169 @@
+---
+title: "Melvin v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26578/index.do"
+last_modified: "2004-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 410"
+citation2: ""
+neutral_citation: "2004 TCC 410"
+decision_date: "2004-06-22"
+language: "en"
+item_id: "26578"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3586
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:19:00.367000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8b264d0611de3c76780ab2f09837a0ed9aebd5412c57c08a84da217912aeaef1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Melvin v. M.N.R.
+
+- Citation: 2004 TCC 410
+- Decision date: 2004-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3586, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Melvin v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-22
+Neutral citation
+2004 TCC 410
+File numbers
+2003-3253(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-3253(EI)
+BETWEEN:
+RONALD MELVIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 20, 2004, at Bathurst, New Brunswick
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Charles H. Johstone, Q.C.
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeals are dismissed and the decision of the Respondent is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 22nd day of June 2004.
+Angers, J.
+Citation: 2004TCC410
+Date: 20040622
+Docket: 2003-3253(EI)
+BETWEEN:
+RONALD MELVIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Angers, J.
+[1] These are appeals from a decision of the Minister of National Revenue (minister) determining that the appellant's employment with David Boucher, doing business under the firm name of "North East Holdings" (payor) was not insurable employment within the meaning of the Employment Insurance Act (EIA). That determination was made for the periods beginning May 4 to December 31, 1998; from January 1 to December 31, 1999; from January 1 to December 31, 2000; from January 1 to December 31, 2001; and from January 1 to October 1, 2002, and was based on the submission that the appellant and the payor acted in concert during these periods to create an artificial arrangement using employment insurance benefits to reduce the payor's wage expense. The appellant was working while receiving these benefits, therefore rendering his employment uninsurable for not being within the meaning of paragraph 5(1)(a) of the EIA. In addition, the minister submits that the appellant's employment was excepted employment within the meaning of paragraphs 5(2)(i) and 5(3)(a) of the EIA because the appellant and the payor were in fact not dealing with each other at arm's length during the periods at issue.
+[2] The payor's firm name was registered on April 1, 1998, and the appellant was employed on May 4, 1998, as a salesman, buyer, bookkeeper and principal employee of the store.
+[3] He worked on and off for the payor until August 10, 2002. The appellant was remunerated by the payor when he worked during the following periods:
+May 4 to Nov. 27, 1998
+40 hrs/week at $12/hr
+May 24 to Sept. 10, 1999
+40 hrs/week at $12/hr
+June 19 to Oct. 7, 2000
+44 hrs/week at $13/hr
+April 2 to July 14, 2001
+44 hrs/week at $14/hr
+April 29 to Aug. 10, 2002
+43 hrs/week at $14/hr
+[4] At the end of each of the above-remunerated periods, the appellant was laid off for what the record of employment indicated to be lack of work. At the end of all these periods, the appellant applied for and received unemployment insurance benefits until they ran out, at which point he was hired by the payor for another number of weeks that allowed him to qualify for more benefits.
+[5] The payor's business consisted of a hardware and building supply store and was open for business year-round, but its peaks were in the spring and summer months. The appellant was familiar with that type of business since he had owned one himself before working for the payor as an employee. In fact, the payor admitted that the appellant's abilities were an asset for his business, particularly in terms of the paperwork associated with the operation of a business. In addition, the payor had another full-time job during all the periods in issue, managing thirty apartments that he owned and snowplowing all of his properties and those of his family members.
+[6] As part of his duties, the appellant had signing authority on the payor's bank account. He would make most, if not all of the bank deposits, prepared receipts and invoices, did the bookkeeping and had the keys allowing him to open and close the store at any time. He also acted as a salesperson. The issue is whether the appellant continued to do all this work for the payor while receiving unemployment benefits.
+[7] The appellant admitted working for the payor at reduced hours and for no remuneration while receiving unemployment benefits. He characterized this work as volunteer work in order to help his friend the payor. This occurred during all the periods in issue for a number of hours per week but most certainly for at least 30 hours a week in 2002. While receiving unemployment benefits, the appellant signed cheques, prepared bank deposits, did the bookkeeping, prepared receipts and invoices and occasionally, opened and closed the store. An impressive number of documents were gathered including correspondence, cheques, invoices, receipts, books, price confirmations and purchase orders, all dated outside the period the appellant was remunerated. These documents are part of the record and some are only samples far too numerous to copy. This leaves no doubt that the appellant was working and was at the payor's premises while receiving unemployment benefits.
+[8] The investigating officer for Human Resources Development Canada testified that after the appellant had applied for unemployment benefits after his layoff on August 10, 2002, she visited the store and was greeted by him. He informed her that the payor did not work at the store and told her where the payor could be reached. She later phoned the payor and was told by his wife that the payor did not work at the store. The evidence showed that the payor's only other employee was one son who made some deliveries and did carpentry work, but he did not work at the store. In statements that she obtained from both the payor and the appellant, the presence of the appellant at the store almost, if not, all year-round was confirmed. The payor stated: "... Le plus fort du temps, c'est aussi lui qui est au magasin toute l'année." He later stated: "Le fait de ne pas payer Ronald me permettais de rester ouvert l'hiver." As for the appellant, he said:
+...
+In between my RoE, all time spent was on a strictly volunteer basis with no remuneration. I had full access to the property. I was helping my friend.
+The reason this was not reported was there was no money in return.
+I assume my time was my own to do as I so wish.
+...
+[9] The payor's son also confirmed to the investigating officer that the appellant was at the store all the time. He apparently added that the appellant's volunteer work for the local Legion was not done at the store but at the Legion's offices, since he would leave the store earlier in the winter months. The point had been raised by the appellant as a justification for being at the store in the winter months.
+[10] The burden of proof is on the appellant to show, on a balance of probabilities, that the minister's decision is wrong and unfounded. On this appeal, the minister's first submission is based on the assumption that the employment contract between the appellant and the payor is not a genuine contract of employment, as contemplated by the EIA. This Court has addressed this issue in some of its decisions. It first surfaced in a decision by Mr. Justice Tardif in Thibeault v. Canada, [1998] T.C.J. No. 690 (Q.L.), which decision was subsequently affirmed by the Federal Court of Appeal [2000] F.C.J. No. 2152. Justice Tardif said:
+22 Genuine employment is employment remunerated according to market conditions, which contributes in a real and positive way to the advancement and development of the business paying the salary in consideration of work performed. These are basically economic factors that leave little, if any, room for generosity or compassion.
+...
+29 Of course, it is neither illegal nor reprehensible to organize one's affairs so as to profit from the social program that is the unemployment insurance scheme, subject to the express condition that nothing be misrepresented, disguised or contrived and that the payment of benefits occur as a result of events over which the beneficiary has no control. Where the size of the salary bears no relation to the economic value of the services rendered, where the beginning and end of word periods coincide with the end and the beginning of the payment period and where the length of the work period also coincides with the number of weeks required to requalify, very serious doubts arise as to the legitimacy of the employment contract. Where the coincidences are numerous and improbable, there is a risk of giving rise to an inference that the parties agreed to an artificial arrangement to enable them to profit from the benefits.
+[11] In Laverdière v. Canada, [1999] T.C.J. No. 124 (Q.L.), Justice Tardif stated:
+48 Of course, a contract of employment may be lawful and legitimate even if it sets out all kinds of other conditions, including remuneration much higher or lower than the value of the work performed; some contracts may even involve work performed gratuitously. Work may be performed on a volunteer basis. All kinds of assumptions and scenarios can be imagined
+49 Any contract of employment that includes special terms can generally be set up only against the contracting parties and is not binding on third parties, including the respondent.
+50 This is the case with any agreement or arrangement whose purpose and object is to spread out or accumulate the remuneration owed or that will be owed so as to take advantage of the Act's provisions. There can be no contract of service where there is any planning or agreement that disguises or distorts the facts concerning remuneration in order to derive the greatest possible benefit from the Act.
+51 The Act insures only genuine contracts of service; a contract of employment under which remuneration is not based on the period during which work is performed cannot be defined as a genuine contract of service. It is an agreement or arrangement that is inconsistent with the existence of a genuine contract of service since it includes elements foreign to the contractual reality required by the Act.
+[12] In Duplin v. Canada, [2001] T.C.J. No. 136 (Q.L.), he noted:
+18 When services are provided or errands are run for an employer, I do not think that this automatically means there is no contract of service, where this is done from time to time or in special circumstances. However, if the services or errands are recurring, frequent and performed or run by a majority of an employer's employees, this raises questions; even where those providing such services or running such errands characterize what they are doing as free and voluntary, as mutual aid volunteer work, as support or as an expression of solidarity with their co-workers, the fact remains that such conditions, circumstances and facts are hard to reconcile with a genuine contract of service, under which all work must be paid work.
+...
+31 The fundamental components of a contract of service are essentially economic in nature. The records kept, such as payroll journals and records concerning the mode of remuneration, must be genuine and must also correspond to reality. For example, the payroll journal must record hours worked corresponding with the wages paid. Where a payroll journal records hours that were not worked or fails to record hours that were worked during the period shown, that is a serious indication of falsification. Such is the case where pay does not correspond with the hours worked. Both situations create a very strong presumption that the parties have agreed on a false scenario in order to derive various benefits therefrom, including benefits with respect to taxes and employment insurance.
+32 It is possible for an arrangement to be more profitable for one party than the other, but this is a secondary effect that is not relevant in characterizing a contract of service, since as soon as a contract of employment is shaped by false or inaccurate information, it no longer meets the essential conditions for being characterized as a contract of service. Thus, when the evidence shows that the records containing the information essential to the existence of a genuine contract of employment are false and incomplete, it becomes essential to prove conclusively that the real facts support the existence of a genuine contract of service.
+[13] In this appeal, all the records of employment signed by the payor, for all the periods, indicated that the layoffs were due to a lack of work. Yet, we know for a fact that this was not the case. On the weight of all the evidence, there is no conclusion in this appeal other than that the appellant never stopped doing needed work for the payor after his layoffs. The appellant may characterize this time spent at the payor's place of business as volunteer work, but in the final analysis, it is work that needed to be done. In a normal business environment, it is also work that had to be remunerated. The records of employment do not reflect the truth since the payor still had work that needed to be done. The payor's activities are year-round and although business may be slow in the winter months, the payor still needed someone, be it the appellant or someone else to run the store, do the paperwork and handle other matters with which the payor was not familiar. The layoff dates are also not consistent with the peak periods. The date of one lay off is as early as August 10, 2002.
+[14] The appellant's presence at the payor's place of business to perform this needed work at no cost to the payor was a definite advantage for him. The appellant was able to volunteer his time to help his friend and did not incur any economic losses since he was receiving unemployment benefits. Given that the return to work and the layoffs coincided with the period during which he was receiving full unemployment benefits and the number of weeks to qualify for same, it provided the payor with an employee year-round; an expense for which he only had to pay in part. It has definitely subsidized his business and that is precisely what the unemployment insurance program was not intended to do. The program was designed to support workers that lose their jobs, for example because the employer no longer has work for them. It was not set up to pay workers because the employer's business cannot afford to do so.
+[15] In such circumstances, it is difficult to believe that both the appellant and the payor were not aware that this type of arrangement was beneficial. At the same time, they should have known that the arrangement was improper and unacceptable. A layoff for lack of work and an immediate return on the job, even at reduced hours, to perform the exact same work for which there was a supposed lack thereof while receiving unemployment insurance benefits is sufficient to realize that it is contrary to the intent of the Act. It is not sufficient to believe, as the appellant does, that because you are working without pay, it is not work. The work benefitted the payor and at the same time he avoided the wage expense. The evidence presented by the appellant offered no reasonable explanation for these coincidences. Occasional volunteer work may, in certain circumstances, be acceptable but not on a scale such as the one in this appeal.
+[16] The appellant appears to be a well-minded citizen and may not have contemplated all the consequences of such an arrangement, but one cannot help wondering why his free services were not available to his friend year-round.
+[17] I therefore find that, during all the periods in issue, the work performed by the appellant was not done under a genuine contract of employment, as contemplated by the Act. Having come to this conclusion, I will not address the other submission raised by the minister.
+[18] The appeals are therefore dismissed and the minister's decision is confirmed.
+Signed at Edmundston, New Brunswick, this 22nd day of June 2004.
+« François Angers »
+Angers, J.
+CITATION:
+2004TCC410
+COURT FILE NO.:
+2003-3253(EI)
+STYLE OF CAUSE:
+Ronald Melvin and the Minister of National Revenue
+PLACE OF HEARING:
+Bathurst, New Brunswick
+DATE OF HEARING:
+May 20, 2004
+REASONS FOR JUDGMENT BY:
+The Hon. Justice François Angers
+DATE OF JUDGMENT:
+June 22, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Charles H. Johnstone, Q.C.
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Charles H. Johnstone, Q.C.
+Firm:
+Robichaud, Godin, Williamson, Thériault & Johnstone
+Barristers & Solicitors
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

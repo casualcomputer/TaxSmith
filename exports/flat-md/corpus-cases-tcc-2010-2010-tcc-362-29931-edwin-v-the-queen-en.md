@@ -1,0 +1,120 @@
+---
+title: "Edwin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29931/index.do"
+last_modified: "2010-08-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 362"
+citation2: ""
+neutral_citation: "2010 TCC 362"
+decision_date: "2010-08-04"
+language: "en"
+item_id: "29931"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6478
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:07:34.197000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c47fc7b3ebf10fc984c9ec5ede056968f500ce48fac01898afad40ba5b263079"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Edwin v. The Queen
+
+- Citation: 2010 TCC 362
+- Decision date: 2010-08-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6478, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Edwin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-08-04
+Neutral citation
+2010 TCC 362
+File numbers
+2009-2593(IT)I
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2593(IT)I
+BETWEEN:
+Annette D. Edwin,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 24, 2010, at Vancouver, British Columbia.
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Agent for the Appellant:
+Augustine V. Edwin
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the 2007 taxation year is allowed, without costs, and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that only half of the amount of $6,604.32 has to be included in the appellant’s income.
+Signed at Magog, Quebec, this 4th day of August 2010.
+“Pierre Archambault
+Archambault J.
+Citation: 2010 TCC 362
+Date:20100804
+Docket: 2009-2593(IT)I
+BETWEEN:
+Annette D. Edwin,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Archambault J.
+[1] Once upon a time income trusts were very popular structures for carrying on business in Canada. Provided all their income was distributed to their unitholders, these trusts did not have to pay any income taxes. If the unitholders were tax-exempt or not otherwise subject to tax in Canada, then no tax at all would be paid to the Canadian tax authorities. Even for unitholders who were subject to tax, the income trust structure had the benefit of alleviating the tax problem caused by the lack of full integration in case where profits earned by public corporations were paid by way of dividends to their shareholders. So more and more corporations were considering converting to income trusts This became a hot policy issue in Canada and, during a federal election, a promise was made not to change the favourable tax treatment afforded by income trusts. Once elected and in power, those who had made the promise realized that the Income Tax Act (Act) had to be amended to prevent a substantial loss[1] of revenue for the Canadian Treasury, and Parliament was consequently asked to adopt a bill amending the Act. As result of the amendments, it is now less attractive to use the income trust structure for the purpose of carrying on a business in Canada, and, according to Mr. Edwin, Mrs. Edwin’s representative in this appeal, many such trusts will have to be wound up before the end of this year. He stated that these legislative changes caused a significant decline in the value of his and his wife’s income trust investments. So Mr. Edwin is a very upset and frustrated taxpayer.
+[2] In addition, Mr. Edwin was told by the Canada Revenue Agency (CRA or Minister) that he and his wife could not claim the loss on their income trust investments before they had disposed of them, and that they had to include in their income the amounts paid then by their income trusts as income distributions. Mr. Edwin was also told that the Act would have to be amended in order for them to be able to deduct a loss without a disposition having taken place, and that this could be “accomplished through [his] MP”. On February 1, 2009, he wrote to his MP and someone on the MP’s staff apparently told him that the best recourse would be to go to the Tax Court of Canada.
+[3] During his testimony before me, Mr. Edwin was concerned more than anything with trying to get this Court to change the Act in order to solve some of the problems that he had described in his letter to his MP, for instance - in addition to the problem already mentioned - those created by the loss of the dividend tax credit and of the tax‑free treatment of a portion of capital gains when dividends and capital gains are received or realized through a sheltered account, such as a registered retirement savings plan. I told him that such changes to the tax system could only be obtained from Parliament and that this Court (or any other court, for that matter) could not grant him such changes. I explained to Mr. Edwin that a court can only apply the law, not modify it. Therefore, he would have to go back to his MP or write to the Minister of Finance. Understandably, Mr. Edwin became more frustrated, not to say furious, and he left the hearing before it was over.
+[4] When he filed his own tax return for 2007, Mr. Edwin attached a letter signed by him and his wife informing the Minister that they had not included in their income an amount of $6,604 that they had received from their income trusts, because they considered that amount as being a return of capital. It does not appear from a review of Mrs. Edwin’s tax return that a similar letter was attached thereto. The Minister reassessed Mrs. Edwin, including in her income the amount of $6,604.32 and imposing a penalty of $102. In addition, the Minister also calculated a social benefit repayment of $697 pursuant to section 145 of the Employment Insurance Act because Mrs. Edwin had received employment insurance benefits during the year and her net income for 2007 was at least $55,918. Mr. Edwin admitted that his wife also received employment insurance benefits for more than one week in the taxation years from 1997 to 2006.
+[5] The Minister deleted the penalty after Mrs. Edwin filed a notice of objection. When Mrs. Edwin appeared before this Court, only her husband testified. In his testimony, he stated that the income received from the income trusts was payable in the joint names of his wife and him. In addition, as stated in the Reply to the Notice of Appeal, the Minister had assumed, in assessing Mrs. Edwin, that she and her spouse were jointly in receipt of the $6,604.32. Counsel for the Minister admitted during the course of the hearing that Mrs. Edwin’s appeal should be allowed and that, accordingly, only half of the $6,604.32 should be included in her income.
+[6] For all these reasons, Mrs. Edwin’s appeal with respect to the 2007 taxation year will therefore be allowed, without costs, and the assessment referred back to the Minister for reconsideration and reassessment on the basis that only half of the $6,604.32 has to be included in her income.
+Signed at Magog, Quebec, this 4th day of August 2010.
+“Pierre Archambault”
+Archambault J.
+CITATION: 2010 TCC 362
+COURT FILE NO.: 2009-2593(IT)I
+STYLE OF CAUSE: Annette D. Edwin v.
+Her Majesty the Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: March 24, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: August 4, 2010
+APPEARANCES:
+Agent for the Appellant:
+Augustine V. Edwin
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In Department of Finance News Release No. 2006-061, dated October 31, 2006, it is stated: "If left unchecked, these corporate decisions [to convert to income trusts] would result in billions of dollars in less revenue for the federal government. . . ."

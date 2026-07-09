@@ -1,0 +1,158 @@
+---
+title: "Krutko v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26228/index.do"
+last_modified: "2003-02-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 53"
+citation2: ""
+neutral_citation: "2003 CCI 53"
+decision_date: "2003-02-18"
+language: "fr"
+item_id: "26228"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4025
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:33:25.618000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "927fd2c03eb8a531c713355747a54b0651d0af610b1917f2ecfa5312047f5fcb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Krutko v. The Queen
+
+- Citation: 2003 CCI 53
+- Decision date: 2003-02-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4025, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Krutko v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-18
+Référence neutre
+2003 CCI 53
+Numéro de dossier
+2002-3099(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-3099(IT)I
+ENTRE :
+DAVID M. KRUTKO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 11 février 2003 à Edmonton (Alberta).
+Devant : L'honorable juge Diane Campbell
+Comparutions :
+Avocate de l'appelant :
+Me Denise Pon-Walesiak
+Avocate de l'intimée :
+Me Galina M. Bining
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998, 1999 et 2000 sont rejetés conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de février 2003.
+« Diane Campbell »
+J.C.C.I.
+Traduction certifiée conforme
+ce 10e jour de février 2005.
+Erich Klein, réviseur
+Référence : 2003CCI53
+Date : 20030218
+Dossier : 2002-3099(IT)I
+ENTRE :
+DAVID M. KRUTKO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell, C.C.I.
+[1] L'appelant et sa conjointe de fait, Valerie Yakeleya, se sont séparés en juillet 1995. Quatre enfants sont nés de cette union en 1982, 1989, 1991 et 1993. L'aîné souffre de paralysie cérébrale et se déplace au moyen d'un fauteuil roulant; il réside à présent dans une institution de soins spéciaux à Inuvik. Lorsqu'ils se sont séparés, l'appelant est retourné à Fort MacPherson et sa conjointe ainsi que leurs enfants ont déménagé à Fort Norman. L'appelant a déclaré que sa conjointe et lui-même avaient convenu oralement qu'il contribuerait à subvenir aux besoins des enfants. Par la suite, en mars 1997, sa conjointe a déposé en cour un avis de requête introductive d'instance en vue d'obtenir la garde exclusive des enfants et une pension alimentaire pour enfants (pièce A-1). Après que l'avis introductif d'instance eut été déposé, il y a eu un échange de lettres entre les avocats des conjoints dans une tentative de négocier un règlement. Il appert de deux de ces lettres (pièces A-3 et A-4) que les avocats étaient au courant du changement imminent dans le traitement fiscal des paiements de pension alimentaire et qu'ils tentaient, au nom de leurs clients, de négocier des versements de pension alimentaire et de régler cette question avant que le changement entre en vigueur.
+[2] Par ordonnance sur consentement (la « première ordonnance » ) (pièce A-5) datée du 21 mars 1997, le juge J. E. Richard a ordonné ce qui suit :
+[traduction]
+1. L'intimé, David Krutko, doit verser à la requérante, Valerie Yakeleya, pour les enfants nés de leur union, une pension alimentaire pour enfants de 1 500 $ pour le mois d'avril 1997 seulement, le paiement devant être effectué le 1er avril 1997.
+2. La question des autres éléments du redressement demandé par la requérante dans l'avis de requête introductive d'instance déposé le 5 mars 1997 restera en suspens jusqu'au vendredi 2 mai 1997.
+[3] À la suite de cette première ordonnance, la correspondance entre les avocats s'est poursuivie en vue de parvenir à un règlement (pièces A-6, A-7 et A-8). Encore une fois, il ressort clairement de cette correspondance que les avocats étaient au courant des changements imminents dans le traitement fiscal des versements de pension alimentaire pour enfants.
+[4] Le 9 mai 1997, la Cour suprême des Territoires du Nord-Ouest a rendu une ordonnance (la « deuxième ordonnance » ) (pièce A-9), qui est ainsi rédigée :
+[traduction]
+ORDONNANCE
+VU la requête de la requérante, Valerie Yakeleya; ET APRÈS avoir entendu Me Jill Murray, avocate de la requérante, et Me Lucy Austin, avocate de l'intimé, David Krutko; ET APRÈS avoir lu l'affidavit de Valerie Yakeleya, déposé :
+LA COUR ORDONNE CE QUI SUIT :
+1. L'ordonnance de paiement d'une pension alimentaire pour enfants en date du 21 mars 1997 rendue par la présente Cour est maintenue en vigueur et l'intimé doit continuer de payer 1 500 $ par mois à titre de pension alimentaire pour les enfants pour les mois de mai et de juin 1997.
+2. La question des autres éléments du redressement demandé par la requérante dans l'avis de requête introductive d'instance déposé le 5 mars 1997 restera en suspens jusqu'au vendredi 27 juin 1997.
+[5] Le 10 juin 1997, un bref accord de séparation d'une page (pièce A-11) rédigé par le comptable de l'appelant a été signé par l'appelant et sa conjointe. Les versements de pension alimentaire prévus dans cet accord étaient beaucoup moins élevés que ceux prescrits dans l'ordonnance, et l'accord précisait que l'appelant pouvait déduire les paiements de pension alimentaire. Bien qu'il ait été signé par les deux parties, ce document ne porte pas la signature de témoins et rien n'indique que l'une ou l'autre a consulté un conseiller juridique. Je n'accorde aucune valeur probante à ce document.
+[6] Par ordonnance sur consentement datée du 22 août 1997 (la « troisième ordonnance » ) (pièce A-14), le juge Richard a ordonné ce qui suit :
+[traduction]
+ORDONNANCE SUR CONSENTEMENT
+VU la requête de Valerie Yakeleya; ET APRÈS avoir entendu Me Jill Murray et Me Lucy Austin, avocates des parties, et tenant compte du consentement des avocates des parties inscrit aux présentes; LA COUR ORDONNE QUE :
+1. les parties auront la garde conjointe des enfants Gordie Krutko, né le 13 septembre 1992, Michelle Krutko, née le 5 août 1993, Joanne Krutko, née le 10 septembre 1991, Laura Krutko, née le 19 novembre 1989, et les enfants continueront d'être confiés à la garde quotidienne et aux soins quotidiens de la requérante;
+2. l'intimé aura un accès généreux aux enfants, de la manière convenue entre les parties de temps à autre, et à défaut d'une telle entente, conformément à une ordonnance de la présente Cour;
+3. l'intimé paiera une pension alimentaire pour enfants de 1 500 $ par mois pour les enfants Michelle Krutko, Joanne Krutko et Laura Krutko à compter du 1er septembre 1997 et continuera à le faire, le premier jour de chaque mois, jusqu'à ce qu'une nouvelle ordonnance de cette Cour soit rendue;
+4. étant donné que l'enfant Gordie Krutko est handicapé et qu'il vit actuellement en institution, toute pension alimentaire supplémentaire requise de l'intimé afin de subvenir aux besoins de l'enfant Gordie Krutko sera convenue entre les parties et, à défaut d'une telle entente, sera déterminée par la présente Cour.
+[7] L'appelant a effectué des paiements de pension alimentaire de 18 400 $ au cours de l'année d'imposition 1998, de 20 300 $ en 1999 et de 18 000 $ en 2000. Il a déduit ces montants du calcul de son revenu. Le ministre a établi une nouvelle cotisation à l'égard de l'appelant au motif que ces déductions de paiements de pension alimentaire ne respectaient pas les exigences de l'alinéa 60b) ou de l'article 60.1 de la Loi.
+[8] La question est de savoir si ces montants peuvent être déduits par l'appelant dans le calcul de son revenu pour les années d'imposition 1998, 1999 et 2000.
+[9] Avant le mois de mai 1997, un conjoint pouvait déduire les paiements de pension alimentaire pour enfants qu'il faisait à un conjoint dont il était séparé ou à un ancien conjoint. Le bénéficiaire de ces paiements devait inclure le montant de ceux-ci dans son revenu. Il s'agit de ce qu'on appelle souvent l'ancien régime ou le système de déduction et d'inclusion. À la suite de la décision de la Cour suprême du Canada dans l'affaire Thibaudeau c. La Reine, [1995] 2 R.C.S. 627, le Parlement a éliminé l'ancien régime ou le système de déduction et d'inclusion pour les paiements de pension alimentaire effectués en vertu d'un accord ou d'une ordonnance établis après le 30 avril 1997 et prévoyant une date d'exécution. La Loi de l'impôt sur le revenu a été modifiée et prévoit désormais que si un accord conclu avant mai 1997 demeure inchangé, le système de déduction et d'inclusion prévaut. Si un nouvel accord est conclu ou si une nouvelle ordonnance est rendue, ou si un ancien accord est modifié d'une manière particulière, l'ancien régime cesse de s'appliquer et seuls les paiements effectués jusqu'à la date d'exécution, telle qu'elle est définie par la Loi, sont déductibles par le payeur et doivent être inclus par le bénéficiaire dans son revenu.
+[10] Les expressions « pension alimentaire pour enfants » , « date d'exécution » et « pension alimentaire » sont définies comme suit au paragraphe 56.1(4) de la Loi :
+« pension alimentaire pour enfants » Pension alimentaire qui, d'après l'accord ou l'ordonnance aux termes duquel elle est à recevoir, n'est pas destinée uniquement à subvenir aux besoins d'un bénéficiaire qui est soit l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur, soit le père ou la mère d'un enfant dont le payeur est le père naturel ou la mère naturelle.
+« date d'exécution » Quant à un accord ou une ordonnance :
+a) si l'accord ou l'ordonnance est établi après avril 1997, la date de son établissement;
+b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l'accord ou de l'ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l'accord ou l'ordonnance, ou dans toute modification s'y rapportant, pour l'application de la présente loi.
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+[11] L'alinéa 60b) de la Loi est ainsi conçu :
+60b) Pension alimentaire - le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payé après 1996 et avant la fin de l'année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d'imposition antérieure.
+[12] Le principal argument de l'appelant est que les paiements de pension alimentaire pour enfants en 1998, en 1999 et en 2000 ont tous été effectués en vertu de la première ordonnance datée du 21 mars 1997, et que les deuxième et troisième ordonnances ne faisaient que confirmer et maintenir l'obligation de payer la pension alimentaire contenue dans la première ordonnance. De plus, l'appelant prétend qu'aucune date d'exécution n'est spécifiée dans la première ordonnance.
+Analyse
+[13] La première ordonnance ordonnait simplement le paiement d'une pension alimentaire pour enfants pour le mois d'avril 1997. Le terme [traduction] « commence » n'a pas été utilisé et la question d'autres redressements a été laissée en suspens. En rendant cette ordonnance, on envisageait soit que les questions litigieuses feraient l'objet d'un règlement entre les parties ou qu'elles seraient résolues par la cour le 2 mai 1997. La deuxième ordonnance parlait cependant de maintien en vigueur. La première ordonnance a effectivement été maintenue en vigueur et l'appelant devait continuer à payer la même somme pour deux mois de plus, soit mai et juin 1997. La deuxième ordonnance est manifestement la continuation de la première. Il existe un lien entre les deux ordonnances, qui se reflète dans le libellé de la deuxième. Cette deuxième ordonnance porte sur la pension alimentaire pour deux mois seulement et à nouveau laisse toutes les autres questions en suspens, cette fois jusqu'au 27 juin 1997. Il y a ensuite la troisième ordonnance. Elle est exhaustive et règle les questions de la garde, de l'accès et de la pension alimentaire. On a utilisé les termes [traduction] « à compter du » en établissant le premier paiement de pension alimentaire devant être effectué en vertu de cette ordonnance. Les termes [traduction] « et, par la suite » sont utilisés pour faire continuer ces paiements au-delà de la date d'exécution, mais ils n'ont aucunement pour effet de maintenir en vigueur l'une ou l'autre des deux premières ordonnances ou les deux. Au surplus, les deux premières ordonnances visaient le paiement d'une pension alimentaire pour les quatre enfants. Dans la troisième ordonnance, la pension alimentaire, bien qu'elle fût du même montant que celui prescrit dans les première et deuxième ordonnances, n'était accordée que pour trois enfants. Cette ordonnance contient un paragraphe tout à fait distinct portant sur une éventuelle pension alimentaire pour le quatrième enfant.
+[14] La troisième ordonnance contient manifestement une date d'exécution et son libellé est très explicite à cet égard. On n'a pas employé des termes particuliers qui permettraient de conclure que cette ordonnance devait avoir pour effet de maintenir en vigueur, expressément ou implicitement, l'une ou l'autre des deux premières ordonnances ou les deux. À mon avis, il s'agit d'une ordonnance tout à fait indépendante portant sur toutes les questions jusque-là non résolues entre les parties. Elle ne contient aucune référence aux deux premières ordonnances. Les paiements de pension alimentaire de 1 500 $ par mois sont maintenant pour trois enfants et non quatre. La première ordonnance traitait de la pension alimentaire du mois d'avril et la deuxième ordonnance portait sur celle des mois de mai et de juin. La troisième ordonnance disait que les paiements devaient être effectués à compter du 1er septembre 1997. Rien n'était dit au sujet des mois de juillet et août 1997. L'appelant prétend que, au cours de ces mois, les enfants étaient avec lui et qu'il ne payait pas de pension alimentaire. Toutefois, la troisième ordonnance ne fait aucunement mention des paiements pour les mois de juillet et août. Cela pourrait être interprété comme créant une interruption dans le versement périodique d'une pension alimentaire. Il n'est pas nécessaire que je me prononce sur cette question puisque j'ai conclu que la troisième ordonnance est une ordonnance tout à fait indépendante rendue après avril 1997 et contenant une date d'exécution. Les première et deuxième ordonnances n'étaient en fait que des ordonnances provisoires. Elles ne contenaient que très peu de détails, sauf que la première fixait un montant de pension alimentaire pour un mois et la deuxième le faisait pour deux mois. Il ne s'agissait que de mesures provisoires et ces ordonnances ont été remplacées par l'ordonnance définitive. Étant donné le libellé de la troisième ordonnance, je ne considère pas les dispositions des première et deuxième ordonnances laissant en suspens les autres mesures de redressement comme constituant un lien entre ces deux ordonnances et la troisième.
+[15] Il appert clairement de la preuve que des négociations étaient en cours, tant avant qu'après la première ordonnance et la deuxième. Le montant de la pension alimentaire reste toujours le même, mais la correspondance entre les avocats démontre clairement que le montant demeurait une question litigieuse. Le montant accordé dans la première ordonnance n'était aucunement le montant convenu entre les parties. La correspondance semble indiquer que divers montants ont été proposés par les parties. Quoi qu'il en soit, j'ai conclu que le montant de la pension alimentaire a été modifié de façon importante puisque, dans la troisième ordonnance, la pension était désormais accordée pour trois enfants et non pour quatre.
+[16] Même si j'avais conclu que la troisième ordonnance n'était pas une ordonnance tout à fait indépendante, et qu'elle représentait plutôt la continuation de la première ordonnance, le libellé de la troisième ordonnance contient néanmoins un énoncé clair quant à la date d'exécution, laquelle est postérieure à avril 1997.
+[17] L'appelant s'est appuyé sur la décision rendue dans l'affaire Mossman c. Canada, [2002] A.C.I. no 371. Dans cette affaire, on a attaché une grande importance au mot « continuera » employé dans l'accord de 1998. L'emploi du terme « continuera » était un point déterminant dans l'affaire Mossman. En l'espèce, bien que le verbe [traduction] « continuer » ait été employé dans la deuxième ordonnance, on ne le retrouve pas dans la troisième, où l'on utilise plutôt l'expression [traduction] « à compter du » .
+[18] De plus, il est intéressant de constater que, bien que la correspondance entre les avocats fasse clairement référence aux changements législatifs imminents, la troisième ordonnance est silencieuse quant au traitement fiscal possible de ces paiements.
+[19] Même si l'appelant a soutenu que l'intention des parties, de leurs avocats et de leurs comptables était de faire en sorte que l'appelant puisse déduire ces paiements, son droit de déduire les montants de pension alimentaire est défini par des dispositions précises de la Loi.
+[20] Pour les motifs qui précèdent, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 18e jour de février 2003.
+« Diane Campbell »
+J.C.C.I.
+Traduction certifiée conforme
+ce 10e jour de février 2005.
+Erich Klein, réviseur

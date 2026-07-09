@@ -1,0 +1,159 @@
+Title: TO c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28285/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-638-28285-to-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-08-16
+
+# TO c. M.R.N.
+
+- Citation: 2007 CCI 638
+- Decision date: 2007-08-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1869, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+TO c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-16
+Référence neutre
+2007 CCI 638
+Numéro de dossier
+2005-2988(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2005-2988(EI)
+ENTRE :
+TO,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 4 juin 2007, à Victoria (Colombie-Britannique).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Me Sara Fairbridge
+____________________________________________________________________
+JUGEMENT
+L’appel de la décision rendue par le ministre du Revenu national en vertu de la Loi sur l’assurance‑emploi est rejeté, et la décision selon laquelle les repas gratuits fournis à l’appelant sont exclus de la rémunération assurable est confirmée.
+Signé à Toronto (Ontario), ce 19e jour d’octobre 2007.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 30e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI638
+Date : 20071019
+Dossier : 2005-2988(EI)
+ENTRE :
+TO,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] La question fondamentale soulevée dans le présent appel est celle de savoir si les repas gratuits fournis à l’appelant par son employeur doivent être pris en compte dans le calcul de la « rémunération assurable » pour l’application de la Loi sur l’assurance‑emploi.
+[2] L’appelant interjette appel d’une décision rendue par le ministre du Revenu national dans laquelle la « rémunération assurable » a été calculée de manière à exclure la valeur des repas fournis par l’employeur. La période en cause s’étend du 1er octobre 2003 au 10 avril 2004.
+[3] L’appelant s’est représenté lui‑même à l’audience et il a eu besoin des services d’un interprète japonais. Comme l’appelant écrivait mieux l’anglais qu’il ne le parlait, les arguments ont été présentés par voie d’observations écrites après l’audience.
+[4] Les faits pertinents sont simples. L’appelant a été embauché pour travailler dans la cuisine d’un restaurant japonais situé à Victoria, en Colombie‑Britannique, et il recevait un salaire horaire variant entre 8 et 9 dollars l’heure pendant sa période d’emploi. En moyenne, l’appelant était affecté à la période du repas du midi quatre fois par semaine et à la période du repas du soir cinq fois par semaine, chacune de ces périodes ayant une durée d’environ quatre heures.
+[5] À la fin de chacune des périodes de travail, le chef préparait un repas gratuit à l’intention du personnel. Selon le témoignage de l’un des propriétaires du restaurant, cette pratique est courante dans le secteur de la restauration. En l’espèce, l’appelant pouvait choisir un repas parmi un nombre restreint de choix figurant au menu.
+[6] En outre, l’appelant a témoigné que le chef lui donnait aussi parfois du riz ou des légumes à emporter chez lui.
+[7] La question en litige est celle de savoir si la valeur des repas gratuits doit être incluse dans le calcul de la « rémunération assurable » au sens de la législation applicable.
+[8] Les dispositions pertinentes se trouvent dans un règlement d’application de la Loi sur l’assurance‑emploi, soit le Règlement sur la rémunération assurable et la perception des cotisations (le « Règlement »). L’article 2 de ce règlement donne une définition large du terme « rémunération », mais cette définition est assortie d’un certain nombre d’exceptions. L’exception pertinente dans la présente affaire vise les avantages autres qu’en espèces, sauf la pension ou le logement.
+[9] Les parties pertinentes de l’article 2 sont libellées comme suit :
+2.(1) Pour l’application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l’application du présent règlement, le total de la rémunération d’un assuré provenant de tout emploi assurable correspond à l’ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l’assuré reçoit ou dont il bénéficie et qui lui est versé par l’employeur à l’égard de cet emploi;
+b) le montant de tout pourboire que l’assuré doit déclarer à l’employeur aux termes de la législation provinciale.
+[…]
+(3) Pour l’application des paragraphes (1) et (2), sont exclus de la rémunération :
+a) les avantages autres qu’en espèces, à l’exception, dans le cas où l’employeur verse à une personne une rétribution en espèces pour une période de paie, de la valeur de la pension ou du logement, ou des deux, dont la personne a joui au cours de cette période de paie relativement à son emploi;
+a.1) toute somme qui est exclue du revenu en vertu des alinéas 6(1)a) ou b) ou des paragraphes 6(6) ou (16) de la Loi de l’impôt sur le revenu;
+b) les allocations de retraite;
+c) tout montant supplémentaire versé par l’employeur à une personne afin d’augmenter les indemnités d’accident du travail versées à celle-ci par un organisme provincial;
+d) tout montant supplémentaire versé par l’employeur à une personne afin d’augmenter les indemnités d’assurance-salaire versées à celle-ci par une tierce partie;
+e) les prestations supplémentaires de chômage versées à une personne dans le cadre d’un régime de prestations supplémentaires de chômage visé au paragraphe 37(2) du Règlement sur l’assurance-emploi;
+f) toute somme versée par l’employeur à une personne :
+(i) pour couvrir le délai de carence visé à l’article 13 de la Loi,
+(ii) pour augmenter les prestations de grossesse, les prestations parentales ou les prestations de soignant à payer en vertu des articles 22, 23 ou 23.1 de la Loi, dans la mesure où les conditions énoncées à l’article 38 du Règlement sur l’assurance-emploi sont respectées,
+(iii) pour augmenter les prestations à payer en vertu d’un régime provincial, au sens de l’article 76.01 du Règlement sur l’assurance-emploi, dans la mesure où cette somme :
+(A) d’une part, lorsqu’ajoutée à ces prestations hebdomadaires, n’excède pas la rémunération hebdomadaire normale provenant de cet emploi,
+(B) d’autre part, ne réduit pas les crédits de congés de maladie non utilisés ou de vacances, l’indemnité de départ ou tout autre crédit accumulé par la personne dans le cadre de cet emploi.
+[Non souligné dans l’original.]
+[10] La question en l’espèce vise le sens du terme « pension ». Si les repas fournis à l’appelant ne sont pas visés par ce terme, le ministre a à juste titre exclu leur valeur dans le calcul de la « rémunération assurable ». Par ailleurs, si les repas constituent une « pension », ils doivent être inclus dans ce calcul.
+[11] Au début de l’audience, l’avocate de la Couronne a également tenté de contester la valeur des repas. Selon l’appelant, cette valeur correspond au prix fixé dans le menu. J’ai conclu qu’il était trop tard pour soulever cette question puisque la réponse de la Couronne n’en fait pas mention.
+[12] Pour en revenir à la question principale, l’appelant soutient que le terme « pension » englobe les repas fournis d’une manière régulière et il laisse entendre que les repas qui lui étaient offerts satisfont à ce critère.
+[13] Je commencerai mon analyse par les définitions du terme « board » [« pension »] que donnent les dictionnaires dans le contexte des repas. Suivant le The Shorter Oxford English Dictionary (3e éd.), le terme « board » signifie :
+[traduction]
+7. Fournir les repas quotidiens; maintenant, de manière générale, fournir à la fois la nourriture et le logement à un taux fixe.
+8. Fait d’être nourri, ou nourri et logé, à un taux fixe; fait de vivre avec une famille comme l’un de ses membres pour une somme forfaitaire.
+[14] Le Canadian Oxford Dictionary (2e éd.) fait état de sens analogues :
+[traduction]
+2a recevoir des repas quotidiens, ou des repas et le logement, contre paiement.
+b prendre des dispositions pour se loger à l’extérieur du foyer.
+c fournir (à un pensionnaire, etc.) des repas d’une manière régulière.
+[15] Il est également utile de renvoyer aux définitions que les dictionnaires donnent du terme « pension », soit l’équivalent du terme « board » dans la version française du Règlement. La version anglaise de l’alinéa pertinent est ainsi rédigée :
+(3)a) any non-cash benefit, other than the value of either or both of any board or lodging enjoyed by a person in a pay period in respect of their employment if cash remuneration is paid to the person by their employer in respect of the pay period; [Non souligné dans l’original.]
+[16] Dans les dictionnaires français‑anglais, Le Robert & Collins (6e éd.) et le Larousse Advanced Dictionary (2003), le terme « pension » a simplement comme équivalent anglais l’expression « board and lodging » [« chambre avec pension »]. Ce qui n’est pas vraiment utile, sauf dans la mesure où cette expression donne à entendre qu’il existe un lien étroit entre la « pension » et le « logement » [« lodging »].
+[17] À mon avis, appliquer le terme « pension » aux faits de l’espèce reviendrait à étendre le sens de ce terme au‑delà de la signification qu’on lui prête habituellement. Ce terme a un lien étroit avec le logement et c’est pourquoi il est habituellement associé à la fourniture quotidienne de repas.
+[18] J’estime en outre qu’il faut s’abstenir de donner, dans le cadre du texte réglementaire applicable, une interprétation trop large du terme « pension ». Le Règlement assortit d’une exception très restreinte la règle générale voulant que les avantages autres qu’en espèces soient exclus du calcul de la « rémunération assurable ». L’interprétation proposée par l’appelant aurait pour effet d’étendre cette exception à des situations qui n’ont fort probablement pas été envisagées par le législateur.
+[19] L’appelant m’a renvoyée à une décision de la Cour canadienne de l’impôt qui paraît toutefois étayer sa thèse.
+[20] Dans la décision Pourvoirie au Pays de Réal Massé Inc. c. M.R.N., 2004 CCI 582, et l’arrêt connexe rendu en appel, Desaulniers c. La Reine, 2006 CAF 15, l’employeur exploitait une pourvoirie qui comptait une auberge, des chalets et une salle à manger. Il ressort des faits mentionnés dans la décision que les repas et le logement sur place étaient offerts gratuitement à la plupart des employés. Cependant, un petit nombre d’employés vivaient à l’extérieur du site et ne bénéficiaient de repas gratuits que lorsqu’ils étaient au travail. C’est cette situation particulière qui est pertinente en l’espèce.
+[21] Le ministre du Revenu national a tiré diverses conclusions relativement à 33 employés de l’établissement, y compris en ce qui touchait leurs périodes d’emploi, les heures assurables et la rémunération assurable. Pour les besoins du calcul de la « rémunération assurable », le ministre a ajouté la valeur des repas, peu importe si les employés vivaient sur place ou ailleurs. Cette partie de la décision du ministre a été confirmée par Mme la juge Lamarre sans qu’elle ne donne de précisions sur les raisons pour lesquelles seuls les repas pris pendant que les employés étaient sur place ont été considérés comme visés par le terme « pension ».
+[22] Certains des faits de l’affaire Pourvoirie sont analogues à ceux en l’espèce, mais j’estime important le fait que la plupart des employés vivaient sur place et que l’employeur fournissait gratuitement tous leurs repas et le logement. Il est en outre pertinent que la juge n’ait pas motivé sa décision selon laquelle tous les repas devaient être inclus dans la « rémunération assurable », et rien dans les motifs ne permet de penser que la question dont je suis saisie ait été soulevée par l’un ou l’autre des avocats. Pour ces raisons, je ne crois pas que cette décision permette d’affirmer que les repas fournis par un employeur durant les périodes de travail constituent une « pension », mais si la décision Pourvoirie peut être interprétée de cette façon, j’estime que sa portée ne devrait pas être étendue au‑delà des faits qui lui sont propres.
+[23] Pour les raisons susmentionnées, j’arrive à la conclusion que le terme « pension » employé dans le Règlement n’englobe pas les repas qui sont habituellement fournis au personnel d’un restaurant. La décision du ministre d’exclure du calcul de la « rémunération assurable » les repas gratuits fournis à l’appelant sera donc confirmée.
+[24] Avant de conclure, je souhaite formuler quelques brèves observations sur certaines questions de procédure qui ont été soulevées par l’appelant.
+[25] Le premier point concerne la protection des renseignements personnels. L’appelant tente de faire valoir un droit constitutionnel à la protection des renseignements personnels et il demande notamment que j’utilise un pseudonyme à la place de son nom dans le jugement. Une de ses principales préoccupations tient au fait que les décisions judiciaires sont publiées dans Internet.
+[26] L’appelant a soutenu que le droit à la protection des renseignements personnels est un droit constitutionnel et il a renvoyé à une charte des droits publiée par l’Agence du revenu du Canada. Ce document n’aide pas l’appelant puisqu’il ne s’applique pas aux tribunaux. Il a été publié par l’Agence du revenu du Canada et il vise à renforcer, au sein de cet organisme gouvernemental, le respect des renseignements personnels. Il n’a aucune application en ce qui a trait aux actes de procédure produits devant les tribunaux, y compris la Cour canadienne de l’impôt.
+[27] Le principe des audiences publiques est établi au Canada, et je ne suis pas convaincue qu’il existe dans la présente affaire des raisons suffisantes pour déroger à la pratique habituelle de la Cour. En revanche, je suis quelque peu préoccupée par le fait qu’en raison de l’absence de plaidoirie en l’espèce, je ne saisis pas totalement la nature des inquiétudes qu’éprouve l’appelant. Je vais donc donner au greffier la directive de modifier l’intitulé de la cause de sorte que seules les initiales de l’appelant y figurent.
+[28] Une autre question soulevée par l’appelant mérite aussi quelques observations. Dans une lettre adressée à la Cour le 24 juin 2007, l’appelant signale qu’on renvoie à la décision Pourvoirie dans deux affaires subséquentes, soit les décisions Lacroix c. M.R.N., 2007 CC I81, et Garneau c. M.R.N., 2006 CCI 160. Il était préoccupé de n’avoir pu consulter ces décisions parce que l’une n’était pas publiée sur le site Web de la Cour et que l’autre n’était disponible qu’en français. Les versions anglaises des deux décisions sont maintenant publiées sur le site Web. J’ai pris ces décisions en compte, mais elles ne m’ont pas aidé à trancher la question en litige devant moi.
+[29] Pour les motifs qui précèdent, l’appel est rejeté.
+Signé à Toronto (Ontario), ce 19e jour d’octobre 2007.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 30e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE :
+2007CCI638
+NO DU DOSSIER DE LA COUR :
+2005-2988(EI)
+INTITULÉ DE LA CAUSE :
+TO c.
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 4 juin 2007
+MOTIFS DU JUGEMENT :
+L’honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 19 octobre 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Sara Fairbridge
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

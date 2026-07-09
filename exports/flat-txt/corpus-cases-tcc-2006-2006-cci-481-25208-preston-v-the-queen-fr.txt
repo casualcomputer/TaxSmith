@@ -1,0 +1,168 @@
+Title: Preston v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25208/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-481-25208-preston-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-09-08
+
+# Preston v. The Queen
+
+- Citation: 2006 CCI 481
+- Decision date: 2006-09-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2568, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Preston v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-08
+Référence neutre
+2006 CCI 481
+Numéro de dossier
+2006-715(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-715(IT)I
+ENTRE :
+ROBERT PRESTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 15 août 2006 à Belleville (Ontario)
+Devant : L'honorable juge T. O'Connor
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Gatien Fournier
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour l'année d'imposition 2000 est accueilli avec dépens, le cas échéant, et la nouvelle cotisation est déférée au ministre du Revenu national pour qu'il procède à un nouvel examen et établisse une nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de septembre 2006.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 2e jour d'avril 2007.
+Jean David Robert, traducteur
+Référence : 2006CCI481
+Date : 20060908
+Dossier : 2006-715(IT)I
+ENTRE :
+ROBERT PRESTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] La Cour est saisie d'un appel qui vise l'année d'imposition 2000. Cette année-là, l'appelant détenait 50 % des actions de la société Heritage Craft Studio Inc. (ci-après « Heritage » ). Son ex-épouse, Susan (l' « ex-épouse » ), détenait l'autre 50 %.
+[2] La réponse à l'avis d'appel expose les principaux faits allégués par l'intimée (le « ministre » ), qui sont reproduits ci-dessous :
+[traduction]
+[...]
+8. En ratifiant la nouvelle cotisation établie pour l'année d'imposition 2000, le ministre s'est fondé sur les hypothèses de fait suivantes :
+a) Heritage a délivré un feuillet de renseignements T4 à l'appelant d'un montant de 12 343 $ pour l'année d'imposition 2000;
+b) l'appelant et son ex-épouse ont acheté Heritage en 1998;
+c) l'appelant détenait 50 % des actions de la société et son ex-épouse détenait les 50 % restants;
+d) l'achat des actions de Heritage a été financé par un prêt consenti par la Banque Royale du Canada et un billet à ordre payable au vendeur;
+e) les paiements effectués en remboursement des deux prêts ont été tirés sur le compte bancaire de Heritage;
+[L'expression « deux prêts » s'entend apparemment d'un prêt consenti à l'appelant et d'un prêt consenti à son ex-épouse.]
+f) la part des paiements effectués par l'appelant en remboursement des deux prêts se chiffre à 12 343 $ pour l'année d'imposition 2000;
+g) l'appelant était un actionnaire de Heritage pendant la période allant de la date de l'achat en 1998 jusqu'au 31 juillet 2001.
+B. LE POINT EN LITIGE
+9. La question à trancher est de savoir si Heritage a conféré un avantage à l'appelant.
+C. LES DISPOSITIONS LÉGISLATIVES INVOQUÉES, LES MOYENS SUR LESQUELS L'INTIMÉE ENTEND SE FONDER ET LES CONCLUSIONS RECHERCHÉES
+10. Il se fonde sur les paragraphes 15(1) et 248(1) de la Loi de l'impôt sur le revenu (la « Loi » ).
+11. Il soutient que les paiements effectués en remboursement des deux prêts ont été faits par Heritage et donc qu'un avantage d'un montant de 12 343 $ a été conféré à l'appelant en application du paragraphe 15(1) de la Loi.
+12. Il soutient que l'appelant détenait 50 % des actions de Heritage, que l'achat des actions a été financé par un prêt consenti par la Banque Royale du Canada et un billet à ordre payable au vendeur, et que les paiements effectués en remboursement de ces prêts ont été faits par Heritage pour le compte des actionnaires.
+[3] Il semblerait que, si l'appelant a emprunté à la Banque Royale du Canada une somme d'un montant total de 12 343 $, intérêts compris, qu'il a utilisée pour acheter les 50 actions de Heritage, et que Heritage a payé en 2000 les 12 343 $ en remboursement de l'emprunt contracté par l'appelant auprès de la Banque Royale du Canada, un avantage a été conféré à un actionnaire, et la valeur de l'avantage a été incluse à juste titre par le ministre dans le calcul du revenu de l'appelant pour l'année 2000 en application du paragraphe 15(1) de la Loi.
+[4] Le seul témoin était l'appelant. Il a affirmé catégoriquement qu'il n'était pas l'emprunteur de la somme d'argent consentie en prêt par la Banque Royale du Canada, que la véritable emprunteuse était plutôt Heritage et que lui et son ex-épouse étaient en réalité de simples cautions. Cette affirmation n'a pas été contredite.
+[5] L'appelant déclare, en outre, que Heritage n'avait pas le pouvoir de satisfaire aux obligations que l'appelant aurait assumées soit à titre d'emprunteur ou de caution, et que, si Heritage a acquitté, comme elle a pu le prétendre, une des obligations de l'appelant, elle a agi illégalement. Il affirme qu'en qualité d'actionnaire, d'administrateur et de directeur général de Heritage il n'a jamais approuvé un tel acte. Il déclare en outre que le remboursement de la dette envers la Banque Royale par Heritage faisait partie d'un stratagème employé par son ex-épouse et Heritage, qu'elle contrôlait, pour libérer l'ex-épouse de l'appelant et l'appelant de leurs obligations envers la banque.
+[6] L'avocat du ministre (aucun témoin n'a été cité par le ministre) a déposé la pièce R-1. Il s'agit d'une convention qui atteste l'achat effectué par l'appelant et son ex-épouse auprès de Nancy Shute, à titre de vendeuse, de toutes les 100 actions ordinaires de Heritage. La convention est datée du 1er septembre 1998, et la date de clôture a été fixée au 4 septembre 1998.
+[7] La pièce R-2 établie en application de la Loi sur les renseignements exigés des personnes morales confirme que l'appelant avait été nommé administrateur et directeur général de Heritage le 4 septembre 1998, et que son ex-épouse assumait les fonctions d'administratrice et de secrétaire de Heritage à partir de la même date.
+[8] Les clauses 2.2 et 2.3 de la convention d'achat d'actions, déposée sous la cote R-1, prévoient ce qui suit (le terme « acheteur » réfère à l'appelant et à son ex-épouse) :
+[traduction]
+[...]
+2.2 Prix d'achat
+Le prix d'achat (le « prix d'achat » ) payable par l'acheteur au vendeur pour les actions achetées totalisera VINGT ET UN MILLE DOLLARS (21 000 $), plus la valeur (1) d'une aire d'exposition prépayée pour un montage exposé à London, en Ontario, du 6 novembre 1998 au 8 novembre 1998, d'un montant total de 1 039,50 $, qui inclut l'espace publicitaire, et la valeur (2) du stock comptable de la société à la date de clôture, laquelle est fondée sur le coût pour la société et tient compte du stock endommagé ou inutilisable. Les parties reconnaissent et conviennent que le calcul du prix d'achat est fondé sur la valeur des actifs qui appartiendront à la société à la date de clôture et qui seront énumérés dans l'annexe B ci-jointe.
+2.3 Paiement du prix d'achat
+Le prix d'achat sera payé ainsi :
+a) L'acheteur remettra au vendeur un billet à ordre non garanti par lequel il s'engagera à lui payer 20 000 $ en capital, plus des intérêts annuels de huit (8) pour cent sur cette somme. Le capital sera remboursé au moyen de versements trimestriels égaux de 1 000 $, qui commenceront quatre mois après la date de clôture et auxquels s'ajouteront les intérêts courus. Le capital impayé et les intérêts accumulés pourront être remboursés en tout temps, sans préavis ni indemnité.
+b) À la date de clôture, l'acheteur paiera au vendeur, par chèque certifié ou traite de banque, le solde du prix d'achat, les ajustements compris.
+[9] Le billet à ordre et l'annexe « B » sont ainsi rédigés :
+[traduction]
+Billet à ordre
+20 000 $ CAN Le 4 septembre 1998
+POUR VALEUR REÇUE, par la présente, nous soussignés reconnaissons devoir 20 000 $ à madame Nancy Shute et nous nous engageons à lui rembourser cette somme, majorée d'un taux d'intérêt de huit pour cent, en effectuant, dans le village de Greenwood dans la province d'Ontario, des versements trimestriels égaux de 1 000 $, plus les intérêts courus, à partir de la date de la présente jusqu'au remboursement de l'intégralité de la dette en capital et des intérêts courus.
+Le solde impayé du capital et les intérêts courus peuvent être remboursés à tout moment sans préavis ni indimnité.
+EN FOI DE QUOI, les soussignés souscrivent le présent billet à ordre ce 4e jour de septembre 1998.
+Robert Preston
+Sue Preston
+[traduction]
+ANNEXE « B »
+Liste des actifs
+Description des actifs
+Valeur
+Équipement ..........................................................
+1 000 $
+Stock ....................................................................
+Approx.
+68 000 à 75 000 $
+Dépenses prépayées (aire d'exposition) ..............................
+1 039,50 $
+Actifs incorporels (survaleur, listes de clients, numéro de téléphone) ............................................................................
+20 000 $
+[10] Dans le cadre du règlement destiné à mettre fin à l'instance de divorce à laquelle étaient parties l'appelant et son ex-épouse, les 50 actions de Heritage appartenant à l'appelant ont été transférées à l'ex-épouse par suite d'une ordonnance de la Cour supérieure de justice de l'Ontario, Cour de la famille, rendue par Mme la juge C. J. Robertson le 30 juillet 2001 (pièce R-2). Devait également être transférée par l'appelant à son ex-épouse conformément à cette ordonnance la participation de l'appelant dans une société de personnes faisant affaire sous le nom de SaggiTaurus. En contrepartie de ces transferts, la somme de 33 727,50 $ a été déduite du montant des dépens et des intérêts que l'appelant devait verser à son ex-épouse en vertu du jugement et des ordonnances relatives aux dépens rendus dans le cadre de l'instance de divorce.
+[11] Selon l'avocat du ministre, le montant de 12 343 $ a été calculé ainsi :
+[traduction]
+La pièce R-3 contient un document intitulé « Billet à ordre payable à Nancy pour Heritage » et quatre relevés établis par la Banque Royale du Canada qui sont adressés à la société Heritage Craft Studio Inc. Le billet à ordre fait état de quatre dates, les mois y figurant étant janvier, avril, juillet et octobre 2000, à côté desquelles sont respectivement indiqués des montants chiffrés à 1 320 $, à 1 300 $, à 1 280 $ et à 1 260 $ (total de 5 160 $). Quelqu'un a ajouté des notes inscrites à la main selon lesquelles ces sommes d'argent avaient été encaissées par Nancy Shute, la vendeuse des actions.
+La pièce R-7 contient onze relevés établis par la Banque Royale du Canada qui sont adressés à Heritage Craft Studio Inc., lesquels indiquent pour le prêt numéro 77069029 douze paiements de 1 250 $ chacun effectués en 2000 (total de 15 000 $) et douze paiements d'intérêts qui totalisent 4 526,28 $. [La pièce R-7 n'indique pas le dernier (décembre) paiement de 1 250 $, plus les intérêts, mais il semble que ce paiement ait été effectué.] Si l'on additionne le capital d'un montant de 15 000 $, les paiements d'intérêts de 4 526,28 $ et les 5 160 $ mentionnés ci-dessus, le total s'élève à 24 686,28 $, dont la moitié représente 12 343,14 $.
+La pièce R-4 est une copie du feuillet T4 transmis par Heritage à l'appelant pour l'année d'imposition 2000, lequel indique un « revenu d'emploi » de 12 343,14 $. Joint à la pièce R-4 figure un calcul, apparemment effectué par un comptable, qui montre que les chiffres susmentionnés totalisent 12 343,14 $.
+La pièce R-5 est une lettre de la Banque Royale du Canada adressée à un certain M. William Carruthers, gestionnaire régional d'Aide Juridique Ontario, qui confirme notamment que les soldes sont tels qu'ils sont indiqués ci-dessous :
+• 61 352 $ au nom de Robert et de Susan Preston
+• 25 000 $ au nom de Heritage Craft Studios
+La pièce R-6 est une lettre de la Banque Royale du Canada datée du 26 juillet 2001 et adressée « À QUI DE DROIT » , soit à Robert et à Susan Preston, ayant pour objet le prêt numéro 77069029, qui confirme que le solde impayé du capital du prêt en question se chiffre à 33 750 $.
+[12] L'avocat du ministre a déposé toutes ces pièces dans le but de prouver les faits allégués dans la réponse à l'avis d'appel qui auraient donné lieu aux avantages imposables en cause.
+[13] Pour les besoins de la Cour, l'appelant et son ex-épouse se sont séparés le 20 février 1999 et ont divorcé le 26 mai 1999 à la suite d'une action en divorce.
+[14] La pièce A-2, qui est une lettre de W. Paul Tierney, CGA, du cabinet Teirney, Simpson and Prytula Certified General Accountants, indique que la juste valeur marchande des 100 actions de Heritage au 30 novembre 1998 se situait entre 67 455 $ et 85 000 $.
+[15] Il y a peu de doute que les instances de séparation et de divorce auxquelles étaient parties l'appelant et son ex-épouse étaient acrimonieuses. Il semble de plus que l'ex-épouse a été représentée par des avocats compétents tandis que l'appelant a été représenté par l'aide juridique. Il semble également qu'à un certain moment l'appelant ait fait l'objet d'ordonnances de non-communication et qu'il n'ait eu aucun accès au foyer matrimonial où étaient menées les activités de Heritage. En outre, il n'avait rien à voir avec Heritage. Son ex-épouse exploitait l'entreprise et traitait sans doute avec la Banque Royale du Canada et les comptables.
+[16] Il y a certainement des indications que la Banque Royale du Canada ou Heritage ont décaissé des fonds qui ont pu décharger l'appelant et son ex-épouse de leurs obligations, mais il n'y a aucune preuve convaincante de l'existence d'un prêt consenti par la Banque Royale du Canada à l'appelant. Il n'y aucun contrat de prêt, ni billet à ordre, ni acte de mise en gage des actions établis entre la Banque Royale du Canada et l'appelant, c.-à-d. qu'il n'existe aucun document bancaire usuel. Les seuls documents produits sont ceux décrits ci-dessus et il s'agit essentiellement des relevés unilatéraux établis par la Banque Royale du Canada qui font état de paiements effectués en remboursement de prêts. Ils ne prouvent pas que l'appelant était un emprunteur. De plus, l'appelant affirme que c'est Heritage qui était l'emprunteuse et qu'il était simplement une caution. L'entente n'était pas claire. Le stock représentait de loin la principale composante du prix de l'entreprise (voir l'annexe « B » reproduite ci-dessus). En fait, il semble que ce soit Heritage qui ait acheté le stock de Nancy Shute et qui ait contracté un prêt auprès de la Banque Royale du Canada pour financer cet achat. Quoi qu'il en soit, l'appelant n'était pas l'emprunteur.
+[17] J'arrive à la conclusion que l'appelant n'était pas l'emprunteur pour les motifs suivants. Les principaux documents qui attesteraient l'existence du prêt soit n'existent pas ou n'ont pas été déposés. Les documents qui ont été déposés ne prouvent pas qu'un prêt a été consenti à l'appelant. Le feuillet T-4 rempli par Heritage n'est pas en soi une preuve d'un remboursement de prêt ni d'un avantage, surtout parce que ce feuillet a été établi par Heritage à un moment où celle-ci était contrôlée par l'ex-épouse de l'appelant. En bref, la preuve ne permet pas de conclure que la Banque Royale du Canada a consenti un prêt à l'appelant et que Heritage a remboursé cet emprunt. L'appelant a été le seul à témoigner, et il dit qu'aucun prêt ne lui avait été consenti. Je n'ai aucune raison de douter de la crédibilité de l'appelant. Il n'a pas été prouvé que la banque et l'appelant étaient directement liés en vertu d'un contrat de prêt, et il n'a pas été établi qu'ils avaient entre eux une relation directe qui aurait fait en sorte que la banque ou Heritage aurait effectué des paiements en remboursement d'un prêt possiblement consenti à l'appelant. Un argument subsidiaire avancé par l'appelant consiste à faire valoir que si Heritage peut être considérée comme ayant remboursé la dette de l'appelant, ce qu'il nie, l'acte de Heritage est illégal et nul puisque Heritage n'avait pas le pouvoir de le faire.
+[18] Après avoir pris en considération toutes les circonstances de l'affaire et l'ensemble de la preuve, je conclus qu'aucun avantage n'a été conféré par Heritage à l'appelant et que celui-ci n'a donc reçu aucun avantage imposable visé au paragraphe 15(1) de la Loi.
+[19] Par conséquent, l'appel est accueilli avec dépens, le cas échéant.
+Signé à Ottawa, Canada, ce 8e jour de septembre 2006.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 2e jour d'avril 2007.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI481
+N º DU DOSSIER DE LA COUR : 2006-715(IT)I
+INTITULÉ : Robert Preston et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Belleville (Ontario)
+DATE DE L'AUDIENCE : Le 15 août 2006
+MOTIFS DU JUGEMENT : L'honorable juge T. O'Connor
+DATE DU JUGEMENT : Le 8 septembre 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Gatien Fournier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,260 @@
+Title: Brown c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/489229/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-123-489229-brown-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-11-25
+
+# Brown c. La Reine
+
+- Citation: 2020 CCI 123
+- Decision date: 2020-11-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4650, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brown c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-11-25
+Référence neutre
+2020 CCI 123
+Numéro de dossier
+2017-3892(IT)G
+Juges et Officiers taxateurs
+Sylvain Ouimet
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3892(IT)G
+ENTRE :
+DARRELL L. BROWN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 23 septembre 2019, à Toronto (Ontario).
+Devant : L’honorable juge Sylvain Ouimet
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Alisa Apostle
+JUGEMENT
+L’appel interjeté à l’égard des nouvelles cotisations établies aux termes de la Loi de l’impôt sur le revenu par le ministre du Revenu national concernant les années d’imposition 2011, 2012 et 2013 de l’appelant est rejeté, le tout avec dépens, conformément aux motifs ci-joints.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2020.
+« Sylvain Ouimet »
+Le juge Ouimet
+Traduction certifiée conforme
+ce 25e jour de janvier 2022.
+François Brunet, réviseur
+Référence : 2020 CCI 123
+Date : 20201125
+Dossier : 2017-3892(IT)G
+ENTRE :
+DARRELL L. BROWN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Ouimet
+I. INTRODUCTION
+[1] Notre Cour est saisie de l’appel interjeté par M. Darrell Brown (« M. Brown ») à l’encontre de nouvelles cotisations établies par le ministre du Revenu national (« le ministre ») concernant ses années d’imposition 2011, 2012 et 2013. Le 10 mars 2016, le ministre a établi de nouvelles cotisations à l’égard de M. Brown et a rejeté la demande de déduction de pertes d’entreprise présentée pour chacune de ces années d’imposition. Toutes les pertes découlaient d’une prétendue activité commerciale de M. Brown, qui consistait à fournir des services de gestion. Les dépenses engagées par M. Brown dans le but de fournir des services à un client, la Galerie Bezpala Brown (« la Galerie »), sont la source de ces pertes [1] .
+[2] Pour les années d’imposition 2011, 2012 et 2013, M. Brown a déduit les dépenses d’entreprise suivantes :
+Années d’imposition
+Dépenses d’entreprise
+2011
+90 832 $ [2]
+2012
+115 273 $ [3]
+2013
+113 932 $ [4]
+[3] Pour les années d’imposition 2011, 2012 et 2013, M. Brown a demandé une déduction des pertes d’entreprise suivantes :
+Années d’imposition
+Pertes d’entreprise [5]
+2011
+90 696 $
+2012
+115 200 $
+2013
+113 932 $
+[4] Au cours du procès, M. Brown a concédé que, pour les années d’imposition 2011 et 2012, les dépenses et les pertes d’entreprise devaient être réduites de 41 610 $ pour l’année d’imposition 2011 et de 69 743 $ pour l’année d’imposition 2012 [6] . Par conséquent, le montant des pertes d’entreprise en cause dans le présent appel est de 49 086 $ et de 45 457 $ pour les années d’imposition 2011 et 2012, respectivement.
+[5] Pour chaque année d’imposition, le ministre a rejeté la demande de déduction des pertes d’entreprise de M. Brown pour les raisons suivantes :
+1. Les pertes d’entreprise ne provenaient pas d’une source commerciale au sens de la Loi de l’impôt sur le revenu (« la LIR ») parce que M. Brown ne pouvait raisonnablement pas s’attendre à tirer un profit de cette activité;
+2. Les dépenses déclarées par M. Brown ne constituaient pas des dépenses d’entreprise, car elles n’ont pas été déclarées dans le but de tirer un revenu de cette activité;
+3. Ces dépenses d’entreprise étaient déraisonnables, car elles n’étaient pas afférentes à l’entreprise pour laquelle elles étaient demandées [7] .
+II. QUESTION EN LITIGE
+[6] La question à trancher dans le présent appel est la suivante :
+Le ministre a-t-il correctement établi que, pour les années d’imposition 2011, 2012 et 2013, la demande de déduction des pertes d’entreprise de M. Brown devait être rejetée?
+[7] En répondant à ces questions, la Cour procédera à une analyse pour se prononcer sur les questions suivantes :
+1. M. Brown avait-il, au cours des années d’imposition 2011, 2012 et 2013, une source de revenu d’entreprise au sens de l’article 9 de la LIR?
+2. Les dépenses d’entreprise déclarées par M. Brown pour les années d’imposition 2011, 2012 et 2013 ont-elles été engagées dans le but de tirer un revenu d’entreprise et sont-elles donc déductibles aux termes de l’alinéa 18(1)a) de la LIR?
+3. Ces dépenses d’entreprise étaient-elles déraisonnables dans les circonstances et donc non déductibles aux termes de l’article 67 de la LIR?
+III. LES DISPOSITIONS LÉGISLATIVES PERTINENTES
+[8] Voici les principales dispositions de la LIR :
+Revenu ou perte provenant d’une entreprise ou d’un bien
+Règles fondamentales
+Revenu
+9 (1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+Perte
+(2) Sous réserve de l’article 31, la perte subie par un contribuable au cours d’une année d’imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l’année relativement à cette entreprise ou à ce bien, calculée par l’application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+[...]
+Déductions
+Exceptions d’ordre général
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+Restriction générale
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+[...]
+Restriction générale relative aux dépenses
+67 Dans le calcul du revenu, aucune déduction ne peut être faite relativement à une dépense à l’égard de laquelle une somme est déductible par ailleurs en vertu de la présente loi, sauf dans la mesure où cette dépense était raisonnable dans les circonstances.
+IV. LES FAITS
+[9] M. Brown est avocat. Il a déclaré que, au cours des trois dernières décennies, il a beaucoup travaillé dans le domaine des services de consultation et de gestion au Canada et aux États-Unis d’Amérique. Il a également exercé les fonctions d’expert-conseil dans le cadre de projets de développement international en Europe de l’Est, en Asie centrale et en Asie du Sud-Est.
+[10] En septembre 2008, M. Brown est revenu au Canada après avoir passé 11 ans à l’étranger. À leur retour au Canada, M. Brown et son épouse, Bezpala Brown (« Mme Brown »), avaient l’intention de démarrer une entreprise commerciale. En effet, Mme Brown ne pouvait pas être employée au Canada à ce moment-là. Par conséquent, pour qu’elle travaille, ils ont décidé de trouver une activité qu’elle pourrait exercer et qui serait source de bénéfices. Mme Brown, visualiste et historienne de l’art, a décidé d’ouvrir une galerie d’art. En outre, il avait ainsi la possibilité d’aider un ami, M. Fariz Ahmadov (« M. Ahmadov »), en lui donnant la possibilité de travailler à la galerie à son arrivée au Canada en tant que réfugié azerbaïdjanais. Selon M. Brown, M. Ahmadov était économiste dans son pays d’origine, mais aussi un artiste talentueux. Afin d’exploiter la future galerie, M. et Mme Brown ont créé la société 2185928 Ontario Inc. M. Brown détenait 51 % des actions ordinaires de 2185928 Ontario Inc., tandis que Mme Brown détenait les 49 % restants. La future galerie était exploitée sous le nom de Bezpala Brown Gallery (« la Galerie »).
+[11] En 2009, M. et Mme Brown ont envisagé d’ouvrir une galerie pour y vendre les œuvres d’artistes internationaux de renom inconnus au Canada, ainsi que celles d’artistes canadiens prometteurs. Mme Brown et M. Ahmadov ont mené une étude de marché approfondie afin de déterminer les probabilités de pérennité de la galerie envisagée [8] . Selon leurs recherches, Mme Brown et M. Ahmadov ont conclu qu’il y existait un créneau pour ce genre de galerie à Toronto. Ils ont également estimé qu’une période de cinq ans et un investissement considérable seraient nécessaires pour atteindre le seuil de rentabilité. Quant à M. Brown, il n’a pas participé à l’étude [9] . Cependant, M. Brown a travaillé dans plus de quinze pays au fil des années. Durant cette période, il s’est livre à certaines activités philanthropiques et ainsi rencontré d’éminents artistes internationaux. Il pensait que la galerie envisagée serait fructueuse, car il estimait que le travail de ces artistes et d’autres pourrait bien se vendre au Canada [10] . Au bout d’un certain temps, ils ont trouvé un emplacement pour la future galerie, rue Front, à Toronto.
+[12] À l’automne 2009, M. Brown a rencontré le directeur de Rotveil Technologies afin d’obtenir un financement pour le projet. Le directeur de Rotveil Technologies était le frère de Mme Brown [11] . Il a accepté de financer la Galerie.
+[13] La Galerie a ouvert ses portes en avril 2010. M. et Mme Brown ont témoigné de l’accueil chaleureux fait à la Galerie, au sein de la communauté artistique. La Galerie a fait l’objet de critiques dans les journaux et a attiré des participants prestigieux lors d’événements.
+[14] À l’époque, M. Brown n’offrait pas un large éventail de services à la Galerie [12] . Il était très pris par la pratique du droit. Il était associé au cabinet d’avocats Goldblatt Mitchell LLP [13] . Néanmoins, il a fourni à la Galerie certains services de gestion et d’administration, notamment en matière de marketing, de transport, de publicité, de promotion, d’administration des systèmes et de comptabilité [14] .
+[15] En septembre 2010, Mme Brown est tombée malade et n’a pas pu diriger la Galerie comme prévu [15] . M. Brown a commencé à travailler les soirs et les fins de semaine à la Galerie pour exécuter les tâches dont sa femme ne pouvait s’acquitter en raison de sa maladie. Toujours malade, Mme Brown est tombée enceinte à l’automne 2010. Cet événement inattendu l’a obligé à s’investir davantage qu’il ne l’avait prévu au départ [16] . M. Ahmadov a pris en charge la plupart des tâches de Mme Brown, mais il a eu du mal avec le volume considérable de travail à faire lui-même [17] . M. Brown en a assumé de plus en plus de responsabilités en effectuant des activités de gestion et d’administration les soirs et a aussi travaillé sur place, à la Galerie, les fins de semaine. Il a pris des congés pour assister à des expositions à l’extérieur de la ville, transporter des œuvres d’art et organiser la logistique de certaines expositions. Entre-temps, selon M. Brown, Rotveil Technologies avait payé toutes les dépenses de la Galerie pour 2010 [18] . Rotveil Technologies a transféré à la Galerie 118 000 $ à cette fin. En 2010, la Galerie a subi une perte de 108 000 $.
+[16] Au début de l’année 2011, M. Brown s’est rendu compte que M. Ahmadov se montrait de plus en plus anxieux en raison de la pression exercée sur lui pour qu’il mène les activités quotidiennes de la Galerie sans l’aide de Mme Brown. M. Brown a également appris que Rotveil Technologies n’assurerait pas un financement de façon continue, contrairement à ce qui avait été prévu. La Galerie engageait des dépenses importantes, supérieures aux revenus qu’elle générait. M. Brown avait personnellement financé une grande partie des dépenses relatives à la gestion et à l’administration de la Galerie et il avait consacré une part importante de son propre temps pour effectuer ces tâches. M. Brown s’est rendu compte qu’il allait devoir intervenir pour trouver des fonds afin de maintenir la Galerie à flot, sans quoi sa fermeture serait inévitable. Le cas échéant, il serait personnellement responsable du bail commercial de la Galerie et, par conséquent, subirait des pertes comprises entre 300 000 $ et 330 000 $.
+[17] La situation a conduit M. Brown à proposer à sa femme de conclure un accord avec 2185928 Ontario Inc., aux termes duquel il fournirait des services de gestion à la Galerie, avec une rémunération versée selon un pourcentage des revenus bruts. M. Brown a déclaré que c’était la seule manière de maintenir la Galerie en activité.
+[18] Le 4 janvier 2011, le conseil d’administration de 2185928 Ontario Inc. a publié une résolution dans laquelle il était décidé que M. Brown serait engagé contractuellement ou sur la base d’une prestation de services pour fournir les biens et services suivants à 2185928 Ontario Inc :
+a) équipement de bureau, ordinateurs, mobilier, musique et matériel d’amplification et de sonorisation;
+b) automobiles dont le client a besoin pour son activité professionnelle;
+c) services de comptabilité, de déclaration de revenus et de paie;
+d) services de classement et de bureau généraux;
+e) services de livraison;
+f) achats et contrôle des stocks;
+g) administration des systèmes;
+h) recouvrement des comptes clients;
+i) services téléphoniques et Internet;
+j) tout autre actif et service que la société peut à l’occasion raisonnablement exiger.
+[19] Selon cette résolution, en contrepartie des actifs et des services fournis, M. Brown devait percevoir des honoraires de gestion annuels correspondant à 20 % des revenus annuels de la Galerie supérieurs à 100 000 $ par an, plus la TVH, si les honoraires de gestion dépassaient 30 000 $ [19] . Aux termes de cette résolution, il était aussi prévu que si aucuns honoraires n’étaient payables en 2011, les parties réexamineraient l’accord en 2012 pour conclure un accord à plus long terme afin que M. Brown puisse récupérer les fonds consacrés à la prestation de services de gestion [20] .
+[20] En 2011, M. Brown a bel et bien fourni des services comme de la publicité, de la promotion, de la comptabilité, de la livraison d’œuvres d’art, des installations artistiques et d’autres services, au fur et à mesure que les occasions se présentaient. M. Brown a déclaré qu’un bureau à domicile lui servait de cabinet d’avocat et que c’est aussi là qu’il offrait des services à la Galerie, mais, selon lui, il s’en servait surtout pour les services destinés à la Galerie. M. Brown y consacrait de plus en plus de temps et ses frais d’exploitation augmentaient. Il a dit qu’il payait les dépenses relatives aux activités, qu’il utilisait ses fonds personnels, y compris ses cartes de crédit personnelles; il encaissait également des REER [21] .
+[21] Selon l’état financier de la Galerie de 2011, la Galerie disposait de revenus de 37 000 $ issus des ventes et d’un revenu total de 39 000 $. Les dépenses de la Galerie s’élevaient à 107 816,60 $ et son revenu net était de -93 414,92 $. Dans l’état financier figure un prêt d’actionnaire de 81 870,60 $ avec un intérêt de 7 % consenti par M. Brown [22] . Ce prêt devait aider à payer les frais d’exploitation de la Galerie [23] . M. Brown a admis qu’il n’avait jamais perçu les intérêts ni une partie du montant de ce prêt [24] .
+[22] En 2012, M. Brown a enregistré une entreprise individuelle appelée BBG Management Services [25] . Le 5 octobre 2012, BBG Management Services a conclu un accord de services de gestion avec la Galerie. Selon les termes de l’accord, BBG Management Services fournissait à la Galerie les mêmes actifs et services que ceux que M. Brown avait fournis à la Galerie aux termes de l’accord du 4 janvier 2011 [26] . La rémunération de BBG Management Services en échange des services de M. Brown était également la même que celle qu’il avait reçue aux termes de l’accord du 4 janvier 2011, soit 20 % des revenus annuels supérieurs à 100 000 $ par an plus la TVH [27] .
+[23] D’après l’état financier de la Galerie de 2012, la Galerie avait des revenus de 43 808,89 $ provenant des ventes et un revenu total de 48 513,49 $. Les dépenses de la Galerie s’élevaient à 146 127,89$ et son revenu net à -121 224,42 $. Un prêt total aux actionnaires de 175 910 $ figurait également sur cet état financier. En 2012, M. Brown a prêté 94 000 $ supplémentaires à la Galerie [28] .
+[24] Selon l’état financier de la Galerie de 2013, la Galerie avait des revenus de commission de 89 517,51 $ provenant des ventes et un revenu total de 98 029,24 $. Les dépenses de la Galerie s’élevaient à 112 674,52$ et son revenu net à -77 220,21 $. Un prêt total aux actionnaires de 267 656,78 $ figurait aussi sur l’état financier. En 2013, M. Brown a prêté 91 746,78 $ supplémentaires à la Galerie [29] .
+V. DISCUSSION
+1. M. Brown avait-il une source de revenus provenant d’une entreprise pendant l’année d’imposition faisant l’objet de l’appel?
+A. Le droit applicable
+[25] L’article 9 de la LIR énonce la règle fondamentale concernant les sources de revenus provenant d’une entreprise ou d’un bien. Il porte également sur la perte subie par le contribuable relativement à une entreprise ou à un bien. L’article 9 de la LIR est rédigé comme suit :
+Revenu
+9 (1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+Perte
+(2) Sous réserve de l’article 31, la perte subie par un contribuable au cours d’une année d’imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l’année relativement à cette entreprise ou à ce bien, calculée par l’application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+[26] Dans l’arrêt Stewart c Canada [30] , la Cour suprême du Canada (la « CSC ») a observe que la Cour, dans l’application de l’article 9 de la LIR, devait d’abord déterminer si le contribuable a eu une source de revenu constituée d’une entreprise ou d’un bien au cours de l’année d’imposition visée [31] .
+[27] Dans l’arrêt Stewart, la CSC a consacré une méthode à deux volets pour déterminer si le contribuable a une source de revenu constituée d’une entreprise ou d’un bien :
+L’activité du contribuable est-elle exercée en vue de réaliser un profit, ou s’agit-il d’une démarche personnelle?
+S’il ne s’agit pas d’une démarche personnelle, la source du revenu est-elle une entreprise ou un bien [32] ?
+[28] Selon le premier volet du critère, la question générale est de savoir s’il y a ou non une source de revenu; selon le deuxième volet, la question est de savoir si la source est une entreprise ou un bien [33] . L’objectif du premier volet du critère est de faire la distinction entre les activités commerciales et les activités personnelles. À ce stade, la Cour doit déterminer si la nature de l’entreprise du contribuable comporte des aspects indiquant qu’elle pourrait être considérée comme un passe-temps ou une autre activité personnelle [34] . Lorsque l’activité ne comporte aucun aspect personnel et qu’elle est manifestement commerciale, il n’est pas nécessaire pour la Cour de pousser l’examen plus loin, et l’activité est qualifiée de commerciale [35] .
+[29] Si l’activité en cause comporte un aspect personnel, la Cour doit déterminer si elle a été exercée d’une manière suffisamment commerciale pour constituer une source de revenus provenant d’une entreprise ou de biens [36] . Cette détermination ne doit pas servir à évaluer après coup le sens des affaires du contribuable. C’est la nature commerciale de son activité qui doit être appréciée, et non son sens des affaires [37] . La question de savoir si le contribuable a ou non une source de revenus tirée d’une entreprise ou d’un bien doit être tranchée en fonction de la commercialité de l’activité en cause [38] . La Cour doit déterminer si le contribuable a l’intention d’exercer cette activité en vue de réaliser un profit et s’il existe des éléments de preuve étayant cette intention [39] . Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux [40] . Le contribuable doit démontrer qu’il avait l’intention subjective de tirer un profit de l’activité et la Cour doit déterminer si tel était le cas en examinant divers facteurs objectifs [41] . Dans l’arrêt Stewart, la CSC a observé que les facteurs objectifs recensés par le juge Dickson dans l’arrêt Moldowan [42] sont quelques-uns des facteurs qui peuvent être pris en considération par la Cour, mais que ces facteurs diffèrent selon la nature et l’importance de l’activité. Les facteurs recensés par le juge Dickson étaient 1) l’état des profits et pertes pour les années antérieures, 2) la formation du contribuable, 3) la voie sur laquelle il entendait s’engager et 4) la capacité de l’entreprise de réaliser un profit [43] . La Cour a réitéré la mise en garde du juge Dickson selon laquelle cette liste ne se voulait pas exhaustive. L’attente raisonnable de profit n’est que l’un des facteurs que la Cour doit prendre en considération pour déterminer si une activité présente un degré de commercialité suffisant pour être une source de revenu constituée d’une entreprise ou d’un bien [44] .
+[30] Enfin, si la Cour conclut que l’activité en cause constitue une source de revenus, elle qualifie cette source d’entreprise ou de bien.
+B. Application du droit aux faits de la présente affaire
+[31] L’avocate de l’intimée a soutenu que notre Cour n’avait pas à déterminer si M. Brown avait une source de revenus aux termes de l’article 9 de la LIR. Elle a soutenu que la Cour pouvait statuer sur le present appel en déterminant d’abord si les dépenses d’entreprises déclarées par M. Brown ont été engagées pour tirer un revenu de son entreprise. Comme la Cour l’a dit aux avocats lors du procès, la Cour ne procéde pas de cette manière. La Cour ne peut pas discuter de l’absence de lien entre une dépense et sa source lorsque la déductibilité des dépenses n’est pas possible en premier lieu, en raison de l’absence d’une source de revenu d’entreprise [45] .
+[32] Afin de trancher le présent appel, il est nécessaire de suivre la méthode à deux volets, telle qu’elle a été définie dans l’arrêt Stewart.
+[33] Le premier volet de cette méthode consiste à déterminer si M. Brown a fourni des services de gestion dans le but de réaliser un profit ou s’il s’agissait d’une démarche personnelle. En l’espèce, il ressort clairement des éléments de preuve qu’au cours des années d’imposition concernées, l’activité en cause comportait un aspect personnel. D’après les éléments de preuve, M. Brown n’a commencé à fournir un éventail de services de gestion à la Galerie que parce que Mme Brown est tombée malade et qu’elle est tombée enceinte par la suite. En raison de ces événements, elle n’était plus en mesure de gérer la Galerie comme ils l’avaient tous deux prévu. Selon M. Brown, au début de janvier 2011, alors que Mme Brown était encore malade, la situation s’est aggravée, car M. Ahmadov n’était plus en mesure de supporter la pression imposée par l’exercice, à lui seul, des activités quotidiennes de la Galerie.
+[34] Par conséquent, la Cour estime que M. Brown n’a commencé à fournir des services de gestion qu’en raison des problèmes de santé de Mme Brown. Selon la preuve, c’est l’une des raisons pour lesquelles il a continué à fournir des services de gestion à la Galerie tout au long des années d’imposition visées. Par conséquent, l’activité de M. Brown comportait un aspect personnel au cours de toutes lesdites années d’imposition.
+[35] Puisque la Cour a conclu que l’activité de M. Brown comportait un aspect personnel, la Cour doit déterminer si M. Brown a fourni des services de gestion d’une manière suffisamment commerciale pour que cette activité constitue une source de revenu d’entreprise. La Cour est appelée à décider si M. Brown avait l’intention de fournir des services de gestion en vue de réaliser un profit et s’il existe des éléments de preuve étayant cette intention. M. Brown devait établir, selon la prépondérance des probabilités, que son intention prédominante était de tirer profit de l’activité et qu’il a fourni des services de gestion conformément à des normes objectives de comportement d’homme d’affaires sérieux.
+[36] D’après la preuve, M. Brown a fourni des services de gestion à la Galerie afin d’aider Mme Brown et d’assumer autant que possible les dépenses de la Galerie. Tout cela dans le but de permettre l’exploitation de la Galerie jusqu’à ce que ses revenus soient suffisants pour payer toutes ses dépenses [46] . C’est ce que M. Brown a déclaré dans son témoignage. D’après les éléments de preuve, cela n’a jamais changé au cours de l’année d’imposition concernée. Il est clair que M. Brown n’a pas commencé à fournir des services et n’a pas continué à le faire dans le but de réaliser un profit. En s’appuyant sur ce seul motif, la Cour a conclu que M. Brown n’a pas établi, selon la prépondérance des probabilités, que son intention prédominante n’était pas de tirer un profit de l’activité et que, par conséquent, l’activité n’était pas une source de revenu d’entreprise pendant les années d’imposition concernées.
+[37] M. Brown a présenté des éléments de preuve pour tenter d’établir qu’il avait exercé l’activité comme l’aurait fait un homme d’affaires. La Cour ne peut retemir cet argument. Premièrement, un homme d’affaires n’aurait pas accepté d’être rémunéré pour ses services comme l’a fait M. Brown. Avant de commencer à fournir des services de gestion, M. Brown savait que son seul client, la Galerie, avait subi une perte de 108 000 $ en 2010. M. Brown savait également que Rotveil Technologies ne fournirait plus de financement à la Galerie. Il savait donc que son seul client ne pouvait pas payer ses services. Sachant cela, M. Brown a accepté de recevoir des honoraires annuels à titre de rémunération. Il a également accepté de n’être payé que si les revenus annuels de la Galerie étaient supérieurs à 100 000 $ par an, à raison de 20 % des revenus annuels de la Galerie dépassant 100 000 $. M. Brown a pris cette décision en sachant que les revenus annuels de la Galerie pour 2010 s’élevaient à 39 723,70 $ et qu’il s’attendait à ce que la Galerie ne soit rentable qu’après cinq ans [47] . Compte tenu de la situation financière de la Galerie, un homme d’affaires n’aurait pas accepté d’être rémunéré selon les modalités acceptées par M. Brown.
+[38] M. Brown a tenté de convaincre la Cour que c’était une façon acceptable d’être rémunéré parce qu’il s’attendait à ce que la Galerie connaisse un succès sur le marché primaire et secondaire des ventes d’œuvres d’art. En ce qui concerne le marché primaire, il a affirmé dans son témoignage que 45 artistes étaient sous contrat avec la Galerie, selon un système de consignation, en vue de fournir des œuvres d’art pour des expositions et des ventes sur place sur le marché primaire. Il a fourni la liste des artistes avec lesquels la Galerie avait conclu des contrats, mais aucun de ces contrats n’a été présenté en preuve [48] . Il a également dit que d’autres contrats avaient été conclus avec d’importants artistes d’Europe de l’Est, mais ces artistes ne figuraient pas sur la liste [49] . Aucun de ces contrats n’a été présenté en preuve. Ces contrats figuraient sur sa liste de documents et il n’a pas expliqué pourquoi ils n’ont pas été présentés en preuve [50] .
+[39] En ce qui concerne le marché secondaire, M. Brown a témoigné qu’il s’attendait à tirer un profit de cette activité parce qu’il pensait que la Galerie aurait du succès sur ce marché. Selon M. Brown, la principale source de revenus des galeries d’art ne provient pas des expositions ou des ventes sur place qui y sont liées (c’est-à-dire les ventes sur le marché primaire), mais des ventes sur le marché secondaire. Sur ce marché, une galerie facilite la vente d’œuvres importantes à des prix élevés, en partageant parfois les commissions avec d’autres courtiers ou maisons de vente aux enchères [51] . Au début de son témoignage, M. Brown a dit que la Galerie vendrait les œuvres d’artistes internationaux de renom inconnus au Canada, ainsi que celles d’artistes canadiens prometteurs. Une étude de marché a été menée par Mme Brown en ayant ce marché en tête. M. Brown n’a jamais dit que la Galerie serait active sur le marché secondaire. Les éléments de preuve ne montrent pas, selon la prépondérance des probabilités, qu’un tel marché existait même pour la Galerie. En outre, M. Brown n’a produit aucune preuve ni inclus dans sa liste de documents aucune preuve documentaire concernant les ventes secondaires d’œuvres d’art figurant dans son recueil de documents, même s’il a maintenu que cette documentation existait [52] . M. Brown a décrit de mémoire la nature des contrats en termes généraux. Au mieux, la preuve porte que la Galerie a essayé de pénétrer le marché secondaire en espérant que ce soit lucratif, sans grand succès. Il n’est pas établi par la preuve ne démontre pas que M. Brown savait que la Galerie pouvait réussir sur ce marché lorsqu’il a décidé de lui offrir des services de gestion et que, par conséquent, il pouvait s’attendre à une rétribution important en raison de la manière dont sa rémunération était fixée.
+[40] Enfin, M. Brown a tenté d’établir qu’il s’attendait à tirer un profit de cette activité en précisant dans son témoignage qu’il avait d’autres clients auxquels il avait fourni des services. Au cours des années d’imposition pertinentes, M. Brown n’a déduit aucune dépense relative à ces services et ses services n’ont généré aucun revenu. Il a fait référence à la négociation de l’achat d’un appareil d’imagerie par résonance magnétique pour une clinique ukrainienne, à la création d’une organisation à but non lucratif, le Business Arts and Cultural Innovation Centre, et à des services de consultation pour l’Association in Defence of the Wrongly Convicted (maintenant, Innocence Canada). M. Brown a également déclaré avoir fourni des services à la Canadian National Exhibition Association et à la fondation de cet organisme, à Genmo et à la Fédération canadienne des retraités. M. Brown n’a pas produit d’éléments de preuve crédibles pour étayer ces faits. Par conséquent, la Cour n’a même pas pu conclure, selon la prépondérance des probabilités, que M. Brown avait bel et bien offert ces services. En outre, ces services n’ont rien en commun avec le type de services fournis à la Galerie et M. Brown n’a pas tenté d’expliquer à la Cour pourquoi ils devraient être considérés comme faisant partie de la même activité. Comme il est signalé précédemment, M. Brown a déclaré, au début de son témoignage, qu’il n’avait commencé à fournir des services de gestion qu’à la Galerie et uniquement celle-ci afin de se décharger d’une partie des dépenses de la Galerie. M. Brown n’a jamais dit qu’il voulait offrir d’autres types de services à d’autres clients; il n’en a parlé que trop tardivement dans son témoignage.
+VI. CONCLUSION
+[41] La Cour conclut, selon la prépondérance des probabilités, que l’activité de M. Brown comportait des aspects indicatifs d’une démarche personnelle. La Cour conclut également que cette n’a pas été exercée de manière suffisamment commerciale pour constituer une source de revenu d’entreprise. M. Brown n’a pas démontré que son intention prédominante était de tirer un profit de l’activité. Par conséquent, le ministre a conclu, à juste titre, que la déduction des pertes d’entreprise demandée par M. Brown pour les années d’imposition 2011, 2012 et 2013 devait être refusée.
+[42] Étant donné que la Cour peut trancher l’appel de M. Brown en fonction de cette seule conclusion, la Cour n’a pas besoin de se prononcer sur les autres questions en litige.
+[43] Pour tous ces motifs, l’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2020.
+« Sylvain Ouimet »
+Le juge Ouimet
+Traduction certifiée conforme
+ce 25e jour de janvier 2022.
+François Brunet, réviseur
+RÉFÉRENCE :
+2020 CCI 123
+Nº DU DOSSIER DE LA COUR :
+2017-3892(IT)G
+INTITULÉ :
+DARRELL L. BROWN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 23 septembre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Sylvain Ouimet
+DATE DU JUGEMENT :
+Le 25 novembre 2020
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Alisa Apostle
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Avocate de l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Transcription du volume 1, à la page 70, lignes 6 à 17.
+[2] Transcription du procès, volume 1, à la page 12.
+[3] Transcription du procès, volume 1, à la page 12, lignes 8 à 10.
+[4] Transcription du procès, volume 1, à la page 12, lignes 11 à 27.
+[5] Transcription du procès, volume 1, à la page 10, lignes 10 à 14.
+[6] Transcription du procès, volume 1, aux pages 102 à 104.
+[7] Transcription du procès, volume 1, aux pages 90 et 92.
+[8] Transcription du volume 1, de la page 30, ligne 21 – à la page 31, ligne 7.
+[9] Transcription du volume 1, à la page 31, lignes 8 et 9.
+[10] Transcription du volume 1, de la page 30, ligne 21 – à la page 31, ligne 7.
+[11] Transcription du volume 1, à la page 129, lignes 22 à 24.
+[12] Transcription du volume 1, à la page 33, ligne 22 – à la page 34, ligne 6.
+[13] Transcription du volume 1, à la page 5, ligne 26 – à la page 6, ligne 13.
+[14] Correspondance de D. Brown à A. Bottrell avec pièces jointes à la page 2 (onglet 14; recueil de documents de l’intimée; au titre de l’exception à la règle du ouï-dire des admissions des parties).
+[15] Transcription du volume 1, à la page 35, lignes 12 à 23.
+[16] Transcription du volume 1, à la page 115, ligne 26 – à la page 116, ligne 17.
+[17] Transcription du volume 1, à la page 35, lignes 24 à 28.
+[18] Transcription du volume 1, à la page 36, lignes 22 à 28.
+[19] Transcription du volume 1, à la page 39, lignes 9 à 19.
+[20] Transcription du volume 1, à la page 39, lignes 20 à 25.
+[21] Transcription du volume 1, de la page 40, ligne 17 – à la page 41, ligne 1.
+[22] Transcription du volume 1, à la page 149.
+[23] Transcription du volume 1, à la page 150, lignes 3 à 6.
+[24] Transcription du volume 1, aux pages 149 et 150.
+[25] Transcription du volume 1, à la page 8, lignes 1 à 23.
+[26] Recueil de documents de l’intimée, onglet 4.
+[27] Recueil de documents de l’intimée, onglet 4.
+[28] Recueil de documents de l’intimée, onglet 5.
+[29] Recueil de documents de l’intimée, onglets 8 et 9.
+[30] Arrêt Stewart c. Canada, 2002 C.S.C. 46.
+[31] Ibid., au paragraphe 50.
+[32] Arrêt Stewart, au paragraphe 50.
+[33] Ibid.
+[34] Ibid., au paragraphe 52.
+[35] Ibid., au paragraphe 60.
+[36] Ibid.
+[37] Ibid., au paragraphe 55.
+[38] Ibid.
+[39] Arrêt Stewart, au paragraphe 54.
+[40] Ibid.
+[41] Ibid.
+[42] Arrêt Moldowan c La Reine, [1997] 1 RCS 480.
+[43] Arrêt Stewart, au paragraphe 55.
+[44] Ibid., au paragraphe 58.
+[45] Décision Motech Technologie de Moulage Inc. c La Reine 2012 CCI 351, au paragraphe 68. Voir la transcription du volume 2, aux pages 309 et 310.
+[46] Transcription du volume 1, à la page 188, lignes 8 à 22; transcription du volume 2, à la page 330, lignes 20 à 23 et aux pages 335 à 337.
+[47] Transcription du volume 1, à la page 119, lignes 10 à 18.
+[48] Transcription du volume 1, à la page 119, lignes 18 à 21; de la page 119, ligne 28 – à la page 120, ligne 6.
+[49] Transcription du volume 1, à la page 120, lignes 15 à 20.
+[50] Transcription du volume 1, à la page 124, lignes 12 et 13; aux pages 125 et 128.
+[51] Transcription du volume 1, à la page 54, lignes 15 à 25.
+[52] Transcription du volume 1, aux pages 130 et suivants.

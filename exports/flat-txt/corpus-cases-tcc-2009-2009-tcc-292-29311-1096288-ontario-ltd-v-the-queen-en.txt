@@ -1,0 +1,167 @@
+Title: 1096288 Ontario Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29311/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-292-29311-1096288-ontario-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-05-29
+
+# 1096288 Ontario Ltd. v. The Queen
+
+- Citation: 2009 TCC 292
+- Decision date: 2009-05-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7050, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1096288 Ontario Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-05-29
+Neutral citation
+2009 TCC 292
+File numbers
+2006-1882(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-1882(GST)I
+BETWEEN:
+1096288 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 12, 2009, at Toronto, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Robert Harper
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The appeal from the notices of reassessments made under Part IX of the Excise Tax Act, notices of which are dated December 10, 2004, March 11, 2005 and April 25, 2005 is allowed in part, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of May 2009.
+“B.Paris”
+Paris J.
+Citation: 2009 TCC 292
+Date: 20090529
+Docket: 2006-1882(GST)I
+BETWEEN:
+1096288 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] The Appellant is a developer, and in the course of its business moved houses onto new lots and sold them. The question raised in this appeal is whether the Appellant was required to collect GST on the sale of those houses.
+[2] The Minister of National Revenue (Minister) assessed the Appellant for GST on 11 relocated houses it sold between September 1, 2000 and November 30, 2004.[1] At the hearing, the Respondent conceded that three of those sales[2] were sales on which the Appellant was not required to collect GST because the purchasers were GST registrants.
+[3] The Appellant takes the position that the eight remaining sales[3] were exempt from GST by virtue of section 2 of Part 1 of Schedule V of the Excise Tax Act. (the Act). Section 2 provides that a sale of a “residential complex” by a person who is not a “builder” and who has not claimed input tax credits (ITCs) on the acquisition of the complex or on improvements in respect of the complex is exempt from GST.
+[4] There is no dispute that the houses sold by the Appellant were residential complexes. However, the parties disagree as to whether the Appellant was the builder of those residential complexes. This turns on whether the Appellant can be said to have constructed them.
+[5] The Respondent also says that even if the Appellant was not the builder of the residential complexes, the sales by the Appellant were still not exempt because it claimed ITCs on improvements to the complexes. The Appellant admits having claimed ITCs but says that the claims were made in error and should not result in the sales being taxable supplies.
+[6] Finally, in the event that the sales are found not to be exempt supplies, the Appellant says that section 192 of the Act would apply. In general terms, section 192 provides that in the case of a non-substantial renovation to real property, the GST on the sale of that property is calculated only on part of the cost of the renovations rather than on the entire sale price of the property.
+Facts
+[7] The Appellant moved houses from land it was developing onto new lots it owned. The Appellant prepared each of the new locations by putting in a foundation and driveway and by installing water, electric and gas lines. If municipal services were not available, the Appellant would dig a well and install a septic system. The houses were taken off their foundations at the old locations and placed on trucks and taken to the new locations and attached to the new foundation. The new service lines were hooked up, minor work was carried out to repair damage such as plaster cracks caused by the move, and some rooms were repainted. In some cases, the Appellant would build a new garage. The Appellant’s sole shareholder, Mr. Gary Langen, testified that the Appellant would try to reuse as much of the existing house as possible.
+[8] According to the Appellant’s accountant, Mr. Gary Gehiere, the Appellant had treated the sales of relocated houses as exempt supplies prior to December 21, 2001. It did not collect GST on the sale of the houses or claim ITCs in respect of them. Mr. Gehiere said that on two occasions he sought to confirm with the Canada Revenue Agency (CRA) that the sales of the relocated houses were exempt supplies. On the first occasion, during an audit in 1997, he was told to continue treating sales as exempt supplies. During another audit in 1998, he raised the matter again with the auditor but never received a response.
+[9] On December 21, 2001, after yet another audit, the Appellant was assessed by the Minister on the basis that the sales of the relocated houses were not exempt supplies. The auditor also told the accountant that the Appellant could claim ITCs in respect of inputs to the properties. The Appellant did not dispute the assessment, and Mr. Gehiere said that the Appellant began collecting GST on the sales and claiming ITCs.
+[10] The Appellant has now decided to challenge the treatment of the sales as taxable supplies by appealing the assessments relating to the eight sales in issue.
+Legislation
+[11] The relevant portions of section 2 of Part 1 of Schedule V of the Act read as follows:
+Exempt Supplies
+Real Property
+2. A particular supply by way of sale of a residential complex or an interest in a residential complex made by a particular person who is not a builder of the complex or, if the complex is a multiple unit residential complex, an addition to the complex, unless
+(a) the particular person claimed an input tax credit in respect of the last acquisition by the person of the complex or in respect of an improvement to the complex acquired, imported or brought into a participating province by the person after the complex was last acquired by the person; or
+…
+[12] The terms "builder" and "residential complex" are defined in subsection 123(1) of the Act, and the relevant parts of those definitions read as follows:
+"builder" of a residential complex or of an addition to a multiple unit residential complex means a person who
+(a) at a time when the person has an interest in the real property on which the complex is situated, carries on or engages another person to carry on for the person
+(i) in the case of an addition to a multiple unit residential complex, the construction of the addition to the multiple unit residential complex,
+(ii) in the case of a residential condominium unit, the construction of the condominium complex in which the unit is situated, and
+(iii) in any other case, the construction or substantial renovation of the complex,
+"residential complex" means
+(a) that part of a building in which one or more residential units are located, together with
+(i) that part of any common areas and other appurtenances to the building and the land immediately contiguous to the building that is reasonably necessary for the use and enjoyment of the building as a place of residence for individuals, and
+(ii) that proportion of the land subjacent to the building that that part of the building is of the whole building,
+[13] Section 192 of the Act reads:
+Non-substantial renovation
+192. For the purposes of this Part, where in the course of a business of making supplies of real property a person renovates or alters a residential complex of the person and the renovation or alteration is not a substantial renovation, the person shall be deemed
+(a) to have made and received a taxable supply, in the province in which the complex is situated and at the earlier of the time the renovation is substantially completed and the time ownership of the complex is transferred, for consideration equal to the total of all amounts each of which is an amount in respect of the renovation or alteration (other than an amount of consideration paid or payable by the person for a financial service or for any property or service in respect of which the person is required to pay tax) that would be included in determining the adjusted cost base to the person of the complex for the purposes of the Income Tax Act if the complex were capital property of the person and the person were a taxpayer under that Act; and
+(b) to have paid as a recipient and to have collected as a supplier, at that time, tax in respect of the supply, calculated on the total determined under paragraph (a).
+Appellant’s position
+[14] The Appellant’s counsel submitted that the Appellant was not the builder of the residential complexes in issue because it did not construct them. He said that the houses were already constructed prior to being moved onto the new lots, and that only minor work was done to prepare the new lots and reattach the relocated houses. That work did not amount to construction within the meaning of that term in the definition of “builder” in subsection 123(1) of the Act.
+[15] Counsel argued that the phrase “construction of a residential complex” in the definition of “builder” must be read in context, and since “builder” is defined in the Act as a person who engages in either the construction or substantial renovation of a residential complex, construction must be taken to involve more significant building activity than substantial renovation. According to the Act, substantial renovation requires that a residential unit be more or less gutted, [4] which is already more than what the Appellant did here.
+[16] The Appellant’s counsel referred to a number of cases involving claims for a new housing rebate under subsection 256(2) of the Act. (Warnock v. The Queen, [1996] T.C.J. No. 1527 (QL), McLean v. The Queen, [1998] T.C.J. No. 435 (QL), Erickson v. The Queen, [2001] T.C.J. No. 40 (QL), and Lair v. The Queen [2003] T.C.J. No. 739 (QL)). The language in paragraph 256(2)(a) echoes that used in the definition of “builder” in requiring that the applicant be a person who "constructs or substantially renovates, or engages another person to construct or substantially renovate... a residential complex”.
+[17] In Warnock and McLean, the Appellants undertook major renovations to their houses, but their claims were rejected because the work was found not to qualify as substantial renovation. In Erickson, the Appellant built a large addition to his house that doubled its living area. He was found not to have constructed a new residential complex. In Lair, the Appellant rebuilt a house that the judge described as “ready to collapse”. The Court allowed the claim for the rebate, finding that new premises had been constructed or that there had at least been a substantial renovation of the premises. Counsel reasoned that since the work done by the Appellant to the relocated houses was far less than the work done in each of the cited cases, the Appellant should not be found to have constructed any residential complexes.
+[18] The Appellant's counsel said that the houses that were relocated in the case at bar were not changed in any material respect and that the only new supporting systems were added. He said that the relocated houses were used houses prior to being moved and were still used houses after being moved.
+[19] With respect to the ITCs, the Appellant argued that it only claimed the credits because it felt obliged to treat the sales of the relocated homes as taxable supplies as a result of the 2001 audit and reassessment. The Appellant's position is that it claimed the ITCs under a mistake of law and that an invalid claim for an ITC should not be taken into account for the purposes of section 2 of Part 1 of Schedule V of the Act.
+[20] The Appellant maintains that even if it constructed the residential complexes in issue, the work it did was still only a non-substantial renovation of the complexes and section 192 of the Act would apply.
+Respondent’s position
+[21] The Respondent argued that the houses sold by the Appellant were new residential complexes that were constructed by the Appellant on the new lots using the structures moved from the old locations. Counsel said that the definition of “residential complex” provides that a residential complex has two components – the house and the land on which the house is located. Therefore, in this case, when the relocated houses were removed from their original lots they ceased to be part of the previous residential complexes. By preparing the foundations on the new lots and installing services and attaching the relocated houses, the Appellant constructed new residential complexes. The creation of the new complexes constituted construction of those complexes.
+[22] The Respondent did not take the position that there was a substantial renovation to the relocated houses because a substantial renovation requires “the renovation or alteration of building to such an extent that all or substantially all of the building that existed immediately before the renovation or alteration was begun, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, has been removed or replaced. . .” In this case, the building itself was not changed in a substantial fashion.
+[23] With respect to the matter of the ITCs, counsel said that if the ITCs are found to have been claimed in error, the matter should be referred back to the Minister to reverse the ITCs that were claimed.
+[24] The Respondent’s counsel said that section 192 of the Act did not apply to the Appellant because the Appellant did not renovate a pre-existing residential complex. It created a new complex that did not exist before.
+Analysis
+[25] The first issue is whether the Appellant can be said to have constructed residential complexes by moving pre-existing houses onto new lots.
+[26] “Construction” is not a defined term in the Act. According to The Oxford English Dictionary (2nd ed.), “construction” means:
+the action of framing, devising or forming by the putting together of parts; erection, building;
+and “construct” means:
+to make or form by fitting the parts together; to frame, build, erect
+[27] In the French version of the definition of “builder” in subsection 123(1) the phrase “construction or substantial renovation” is translated as “construction ou renovations majeures”. According to Le Petit Robert (1989), “construction” means:
+Action de construire – assemblage, edification, erection.
+and “construire” means :
+Bâtir, suivant un plan déterminé, avec des matériaux divers.
+[28] On the basis of these definitions, I take the ordinary meaning of construction to be the action of making something by means of combining or assembling parts or elements. Therefore, the construction of a residential complex is the creation of a residential complex by means of combining or assembling parts or elements.
+[29] The Appellant suggests that I should infer that Parliament intended the term “construction” to cover work in respect of a residential complex that is more extensive than the substantial renovation of the residential complex, and since the extent of the work done by the Appellant on the relocated houses in this case was less than what constitutes a substantial renovation, it argues that the work done was not construction.
+[30] On a textual, contextual and purposive reading of the definition of “builder”, it is not apparent to me that Parliament intended that the construction of a residential complex must involve more extensive building work than a substantial renovation.
+[31] The ordinary meaning of “construction” set out above refers to a type of activity, rather than an amount. It is distinguishable from “renovation” in that it involves the creation of something new rather than the renewal of something that was pre-existing.
+[32] It is true that the definition of “substantial renovation” refers to very extensive building activity, but it does not follow that a similar meaning should be given to the phrase “construction … of a residential complex”. Firstly, Parliament has not chosen to modify the word “construction” with any qualifier such as “substantial”, and secondly, in choosing not to define construction, it may be presumed that Parliament intended the ordinary definition of the word to apply.
+[33] Finally, the definition of “builder” is part of the scheme of the Act relating to the taxation of residential property. According to that scheme, each newly‑constructed residential complex is taxed only once, when it is sold by the builder. [5] In order to carry out this scheme, it is not necessary for the construction of new residential complex to involve more building activity than that involved in the substantial renovation of an existing residential complex. It is only necessary that a new residential complex be created by the activity. On the other hand, where a pre‑existing unit is renovated, it makes sense to require that those renovations be substantial if the intention is to target situations where the renovations in effect result in a new residential complex.
+[34] The Appellant has not shown that any ambiguity arises from the use of the word “construction” in the definition of “builder”, and the context and purpose of the provision do not suggest that in all cases construction must involve greater work than substantial renovation. In most cases it will, but there may be exceptions. A residential complex could also be constructed with prefabricated segments, which would be similar to using the relocated structures to construct the new residential complexes in this case. Each case will turn on its own facts.
+[35] In my view, the decision in Erickson, cited by the Appellant, does not support its position. In Erickson, it was never in dispute that construction of a residential complex requires the creation of a new residential complex. In that case, the claimant built a large addition to his home and applied for a new housing rebate in relation to the work. The claimant conceded that he did not substantially renovate his pre-existing residence because the original structure was not substantially altered, but argued that he had constructed a new residential complex. The Court found that the work did not qualify as construction of a residential complex, and said that an addition to a pre-existing residence would only constitute construction of a new residential complex where the pre-existing residence could be found to have been incorporated into a new residence. At paragraph 16, the Court said that:
+… there might be cases where an addition is of such proportion in relation to the existing premises that it can fairly be said that the existing premises has been incorporated into the addition in a manner that makes it appropriate to regard the original premises as effectively having ceased to exist as a residential unit. In such case a new premises has been constructed and the rebate provision will apply.
+[36] The facts in Erickson are distinguishable from the facts before me in this case. In Erickson, work was done to a pre-existing residential complex whereas here there were no pre-existing residential complexes at the new locations. The Appellant created new residential complexes where there were none before.
+[37] The Appellant’s counsel suggested that the house structures that were relocated were pre-existing residential complexes, and therefore, that the work done by the Appellant consisted of work on pre-existing residential complexes rather than the creation of new ones. This argument cannot succeed. The structures that were moved by the Appellant from the old locations to the new locations were not residential complexes within the meaning of the Act. A “residential complex” (other than a mobile home or floating home) is defined in subsection 123(1) of the Act as including any land subjacent to the structure and any contiguous land necessary to the use and enjoyment of the building portion of the complex as a place of residence. Therefore, the structure of a house is only a part of a residential complex. Without land the structure could not be used as a place of residence. In this case, when the existing houses were taken off their foundations and moved off the original lots they ceased to be part of the original residential complexes because they were severed from the land that was necessary for their use and enjoyment as a place of residence. Once they were attached once again to land that was necessary for their use and enjoyment as a residence, they became part of a new residential complex. During the move, though, the structures did not retain their character as residential complexes.
+[38] The decisions in Warnock and McLean are also of no assistance to the Appellant. Those cases dealt with whether the Appellants had substantially renovated their homes and not with the issue of construction of a residential complex.
+[39] Finally, in Lair, the Court did not offer a definition of “construction” but said that the determination was one to be made based on the facts of each case. As well, as in Erickson, the work in Lair was done to a pre-existing residential complex.
+[40] I conclude that the houses sold by the Appellant were new residential complexes that were constructed by it. While the relocated houses themselves (that is, the structures) were not constructed by the Appellant, those structures were only a part of each of the residential complexes that were sold. They were one of the pieces or parts that went into the construction of the new complexes. In order to function as dwelling places, the structures required new foundations, new services and driveways. These items were assembled or combined with the relocated house to produce finished residential complexes. This process amounted to the “construction” of new residential complexes within the meaning of that term as used in the definition of “builder” in subsection 123(1) of the Act.
+[41] Given my conclusion on the first issue, it is not necessary for me to decide whether the Appellant would have been disentitled to the exemption from GST because it had claimed ITCs on supplies used in constructing the new residential complexes. However, I would presume that the phrase “claimed an input tax credit” in the definition of “builder” in subsection 123(1) refers to an ITC that was claimed in accordance with the law. If the Appellant was not legally entitled to claim the ITCs, the fact that it did so would not prevent the sale of the houses from being exempt under section 2 of Part 1 of Schedule V.
+[42] The Appellant maintains that even if it constructed the residential complexes in issue, the work it did was only a non-substantial renovation of the complexes and section 192 of the Act would apply. Section 192 is a self-supply rule that applies where non-substantial renovations or alterations are done by a person to a residential complex in the course of a business making supplies of real property. According to that section, the amount of GST to be remitted would be calculated only on a part of the value added to the property by the Appellant, rather than on the entire sale price of the property as assessed by the Minister.
+[43] I agree with the Respondent that section 192 is only applicable to renovations or alterations to pre-existing residential complexes. For the reasons I have already given, the relocated house structures were not residential complexes while being moved and the Appellant’s activities constituted the construction of new residential complexes. This interpretation accords with the scheme of the Act which is to impose tax on the sale of newly constructed residential complexes on the entire consideration paid.
+[44] On a final note, I believe it is also necessary to refer to a matter that was not raised by the parties but which arises from evidence given by Mr. Gehiere that suggested that the Appellant collected and remitted the GST on the sales of the relocated houses. If GST had in fact been collected and remitted on the sales, the Appellant would have been liable to remit the GST to the Minister even if the sales were exempt supplies and the GST was collected in error. (This would even include those sales on which the Respondent has now conceded that the Appellant was not required to collect or remit GST.) Where GST is collected in error, it forms part of its net tax under subsection 225(1) of the Act and must be remitted (see ITA International Travel Agency Ltd. v. Canada, 2002 FCA 200. However, a rebate of the tax is available under section 261 of the Act to the person who paid the GST in error.
+[45] Mr. Gehiere’s evidence regarding the collection of GST on the sales was somewhat sketchy, and the documentary evidence tended to contradict his testimony. None of the statements of adjustments, for example, showed any GST collected from the purchasers. On all of the evidence, I am not convinced that the GST was collected or remitted by the Appellant for the sales in issue. I presume that if the Minister had determined that the GST had been collected and remitted on all of the sales, that the issue would have been raised in the Reply to the Notice of Appeal.
+[46] The appeal will be allowed in part, without costs, in accordance with the concession by the Respondent that the Appellant was not required to collect GST on three of the sales for which it was assessed.
+Signed at Ottawa, Canada, this 29th day of May 2009.
+“B.Paris”
+Paris J.
+CITATION: 2009 TCC 292
+COURT FILE NO.: 2006-1882(GST)I
+STYLE OF CAUSE: 1096288 ONTARIO LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 12, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: May 29, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Robert Harper
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Robert Harper
+Firm: Hillsburgh, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Although the assessments covered a total of 15 house sales, the Appellant conceded that four of those sales did not involve relocated houses and were correctly treated by the Minister as taxable supplies.
+[2] These sales are the ones listed in Schedule “B” to the Amended Notice of Appeal.
+[3] These sales are the ones listed in Schedule “A” to the Amended Notice of Appeal.
+[4] That definition reads: "substantial renovation" of a residential complex means the renovation or alteration of a building to such an extent that all or substantially all of the building that existed immediately before the renovation or alteration was begun, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, has been removed or replaced where, after completion of the renovation or alteration, the building is, or forms part of, a residential complex;
+[5] See David Sherman’s Analysis, commentary to section 123(1), definition of “builder.”

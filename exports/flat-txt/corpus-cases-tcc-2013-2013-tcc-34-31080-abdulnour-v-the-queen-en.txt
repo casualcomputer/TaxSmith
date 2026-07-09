@@ -1,0 +1,232 @@
+Title: Abdulnour v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31080/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-34-31080-abdulnour-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-02-01
+
+# Abdulnour v. The Queen
+
+- Citation: 2013 TCC 34
+- Decision date: 2013-02-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4723, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abdulnour v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-02-01
+Neutral citation
+2013 TCC 34
+File numbers
+2011-4062(GST)I, 2011-4067GST)I
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2011-4062(GST)I
+BETWEEN:
+SOUAD AHO ABDULNOUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal hear on common evidence with the appeal of Abdul Massih Abdulnour (2011‑4067(GST)I)
+On October 22, 2012, at Montréal, Quebec.
+Before: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+Counsel for the appellant:
+Stéphane Rivard
+Counsel for the respondent:
+Michel Rossignol
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under subsection 325(2) of the Excise Tax Act, notice of which is dated July 29, 2011, and bears number F033066, is dismissed.
+Signed at Kingston, Ontario, this 1st day of February 2013.
+“Rommel G. Masse”
+Masse D.J.
+Translation certified true
+on this 21st day of May 2013
+Daniela Guglietta, Translator
+Docket: 2011-4067GST)I
+BETWEEN:
+ABDUL MASSIH ABDULNOUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence
+with the appeal of Souad Aho Abdulnour (2011‑4062(GST)I)
+on October 22, 2012, at Montréal, Quebec.
+Before: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+Counsel for the appellant:
+Stéphane Rivard
+Counsel for the respondent:
+Michel Rossignol
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under subsection 325(2) of the Excise Tax Act, notice of which is dated July 29, 2011, and bears number F033056, is dismissed.
+Signed at Kingston, Ontario, this 1st day of February 2013.
+“Rommel G. Masse”
+Masse D.J.
+Translation certified true
+on this 21st day of May 2013
+Daniela Guglietta, Translator
+Citation: 2013 TCC 34
+Date: 20130429
+Docket: 2011-4062(GST)I
+BETWEEN:
+SOUAD AHO ABDULNOUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2011-4067(GST)I
+BETWEEN:
+ABDUL MASSIH ABDULNOUR,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+Masse D.J.
+[1] These two appeals were heard on common evidence.
+[2] The appellants are appealing from two notices of reassessment dated July 29, 2011, made under subsection 325(2) of the Excise Tax Act, R.S.C., 1985, c. E‑15 (the ETA or the Act), against the appellants, in respect of a transfer of property on August 30, 2006. The assessments were varied by decision on the objection on July 29, 2011. The amounts of assessment number F033056 in respect of Souad Abdulnour and assessment number F033066 in respect of Abdul Abdulnour are $24,217.02 each.
+[3] The assessments involve the tax liability already incurred by the appellants’ son, Milad Abdulnour. The appellants and Milad Abdulnour are obviously persons not dealing at arm’s length within the meaning of subsection 325(2) of the Act.
+Factual background
+[4] The appellants are spouses, married in Syria on September 19, 1950. They immigrated from Syria to Canada in 1988. They have three adult children here in Canada: two sons, Milad and George, and a daughter, Maida.
+[5] Milad Abdulnour is a jeweller. He testified that in 1992, his parents, the appellants, wanted to purchase a house but had no credit in Canada seeing as they were immigrants. The bank refused to grant his father, Abdul, a loan as he did not speak either English or French; he did not work and, therefore, had no income. However, the father had enough assets in assets in Canada and in Syria to purchase the house. According to Milad, his father had US$70,000, which is equivalent to about CAN$90,000 to CAN$95,000 at the time. According to Milad, the bank required that the house be purchased in the name of the three children, Milad, Maida and George. It also required that the hypothec be in the name of the three children, despite the fact that the children did not have any savings to pay for the hypothec—Maida did not work, Milad and George only earned a low income.
+[6] On March 27, 1992, Milad, George and Maida each acquired an undivided one-third interest in the immovable located at 12684 Place Robert, Montréal North. The price was $175,000 (see Exhibit A‑3). According to Milad, the father is the one who paid for everything. The father paid the acquisition price of the house and since the date of acquisition, he paid all hypothec payments, taxes, services and maintenance. All payments were given to him or his brother George to be deposited in their own bank accounts and to then pay the hypothec payments, taxes and services. Milad told us that he attempted to obtain the account statements for the relevant periods but to no avail owing to the passage of time.
+[7] Four years later, Maida got married. The family wanted to avoid problems with her husband and, thus, on May 16, 1996, Maida transferred her undivided one-third interest in the immovable to Milad. Therefore, at that moment, Milad became the owner of an undivided two-third interest in the immovable. As consideration, Milad accepted responsibility for all amounts due by Maida to the Royal Bank of Canada pursuant to a deed of loan on the immovable. The contracting parties stipulated that the amount of the consideration for the transfer of the immovable is $50,866.67 (see Exhibit A‑1, page 5).
+[8] On August 30, 2006, Milad Abdulnour and his brother George, described in the notarial act as George Abdanor, transferred all their interest in the immovable to Abdul Massih Abdelnour and Souad Aho. Therefore, Milad transferred his undivided two-third interest in the immovable to his parents. The appellants accepted responsibility for all amounts due by the transferors to the Royal Bank of Canada pursuant to a deed of loan on the immovable, the amount not being specified (see Exhibit A‑2). Indeed, at page 5 of the deed of purchase, it is stated that no consideration for the transfer of the immovable was stipulated or provided.
+[9] Abdul Massih Abdulnour, the father, also testified with the help of an interpreter. He was born in Turkey and is 89 years old. He immigrated to Canada in 1989, contrary to what Milad told us. He testified that that in Syria he was a merchant and that he had quite considerable assets. One of his sons, who is still residing in Syria, is in charge of the business affairs and sends him money from time to time. Mr. Abdulnour does not work here in Canada. According to his testimony, the house in question is his and does not belong to the children. The children did not have the means to purchase the house. He paid for everything in order to acquire it. He testified that he was unable to purchase the house because he did not speak English or French. Thus, the house was purchased in the children’s name. When the house was purchased, he said he had $70,000 but that he paid $55,000 and another $30,000 at the time of acquisition.
+[10] According to Souad Boutahir, collections officer for the Minister of National Revenue (the Minister), no one told him anything about a counter letter or an agreement between the appellants and their children. Therefore, he made the assessment based on the notarial acts and the information obtained from the bank regarding the balance of the hypothec on the immovable.
+[11] It is undisputed that on August 30, 2006, Milad Abdulnour owed the Minister $829,969.17. Milad Abdulnour was the director of a company, “Bijouterie Vénus”, which had failed to remit amounts owing to the Minister under the ETA. The Minister made an assessment against Milad as a director of Bijouterie Vénus pursuant to subsection 323(3) of the ETA. It is undisputed that two thirds of the balance of the hypothec on the immovable as of the date of the transfer was $48,205.33. It is undisputed that the fair market value of the undivided two-third interest in the immovable, as of August 30, 2006, is $167,448.67.
+The appellant’s position
+[12] It cannot be disputed that the deed of acquisition of the immovable by the three children was a simulation. The appellants submit that despite the apparent contracts of the deeds of purchase and sale, the real owners of the immovable were, at all relevant times, the appellants and not their children. The appellants deposited all sums necessary for the acquisition of the immovable in their son’s bank account and since the date of acquisition in 1992, the appellants assumed all hypothecary payments, all taxes, services and maintenance of the immovable. The immovable was acquired by the three children as nominees for their parents but the children contributed nothing to the acquisition of the house. When the appellants were informed of their son Milad’s problems, they required that the immovable be transferred to them. They were not granted any benefit. Although Exhibit A‑2 does not indicate the true consideration, the amount given as consideration was established by the testimonies of Milad Abdulnour and Abdul Massih Abdulnour.
+[13] Between the parents and the children, there was a verbal counter letter, that is, the nominee agreement. The appellants submit that the respondent is not a third person in good faith within the meaning of article 1452 of the Civil Code of Québec (C.C.Q.) on whom the verbal agreement between the children and their parents is not enforceable. From the outset, this house belonged to the parents but by simulation it was put in the children’s name. At the date of purchase the house in 1992, the respondent was not a third person having rights or claims enforceable against Milad Abdulnour. The assessment against Milad Abdulnour involves a period subsequent to the date of purchase. When the respondent became a creditor, the property belonged to the parents’ patrimony and not the patrimony of Milad Abdulnour. By relying on simulation, Milad Abdulnour does not intend to exempt one of his properties as the property belongs to his parents’ patrimony.
+[14] In the alternative, even if the agreement between the parents and the children was not enforceable against the respondent under article 1452 C.C.Q., the appellants submit that they paid the initial purchase price of the immovable in full and they assumed all household expenses, including hypothecary payments, property taxes, services and maintenance. They also assumed the residual value of the hypothec at the time of the transfer. At the time of the transfer, their patrimony was not enriched and Milad’s patrimony was not diminished. Therefore, the appellants submit that the assessment made against them should be vacated as the fair market value of the immovable is not less than the fair market value of the consideration paid for the transfer.
+The respondent’s position
+[15] The respondent claims that at all relevant times, Milad had a non-arm’s length relationship with his parents within the meaning of subsection 325(1) of the Act. On August 30, 2006, he transferred the undivided two-third interest he held in the immovable to his parents for a consideration that was $119,243.34 less than the fair market value of the immovable, that is to say, $167,448.67 less $48,205.33. As of that date Milad Abdulnour owed the Minister $829,969.17 under the Act. Thus, under section 325 of the Act, the appellants became jointly and severally liable, with their son, to pay Milad’s tax liability up to the amount by which the fair market value of the immovable, at that time, exceeds the consideration paid by the appellants for the transfer of the immovable, in proportion to the share in the interest held by the appellants in the immovable.
+[16] In the alternative, if the appellants have always been the true owners of the immovable, the respondent submits that she may avail herself of the “apparent contracts”, namely, the notarial deeds of purchase and sale, and that said documents are proof of their content. The respondent relies on articles 1451, 1452 and 2863 of the C.C.Q. and submits that she is a third person in good faith and, therefore, the verbal agreement between the appellants and their children, whether it is qualified as a “counter letter” or “nominee contract”, cannot be set up against her.
+[17] According to the respondent’s calculations, found in subparagraphs 20(k) to 20(m) of the Reply to the Notice of Appeal, the appellants each owe the Minister, under the ETA, $27,417.02, but the Minister only assessed them for the amount of $24,217.02 each. That assessment is deemed to be valid and the onus is on the appellants to prove that it is not.
+Statutory provisions
+[18] Relevant GST provisions are set out in subsection 325(2) of the ETA. The relevant excerpts are as follows:
+325. (1) Where at any time a person transfers property, either directly or indirectly, by means of a trust or by any other means, to
+(a) the transferor’s spouse or common-law partner or an individual who has since become the transferor’s spouse or common-law partner,
+(b) an individual who was under eighteen years of age, or
+(c) another person with whom the transferor was not dealing at arm’s length,
+the transferee and transferor are jointly and severally liable to pay under this Part an amount equal to the lesser of
+(d) the amount determined by the formula
+A - B
+where
+A
+is the amount, if any, by which the fair market value of the property at that time exceeds the fair market value at that time of the consideration given by the transferee for the transfer of the property, and
+B
+is the amount, if any, by which the amount assessed the transferee under subsection 160(2) of the Income Tax Act in respect of the property exceeds the amount paid by the transferor in respect of the amount so assessed, and
+(e) the total of all amounts each of which is
+(i) an amount that the transferor is liable to pay or remit under this Part for the reporting period of the transferor that includes that time or any preceding reporting period of the transferor, or
+(ii) interest or penalty for which the transferor is liable as of that time,
+but nothing in this subsection limits the liability of the transferor under any provision of this Part.
+(1.1) For the purpose of this section, the fair market value at any time of an undivided interest in a property, expressed as a proportionate interest in that property, is, subject to subsection (4), deemed to be equal to the same proportion of the fair market value of that property at that time.
+(2) The Minister may at any time assess a transferee in respect of any amount payable by reason of this section, and the provisions of sections 296 to 311 apply, with such modifications as the circumstances require.
+(3) Where a transferor and transferee have, by reason of subsection (1), become jointly and severally liable in respect of part or all of the liability of the transferor under this Part, the following rules apply:
+(a) a payment by the transferee on account of the transferee’s liability shall, to the extent thereof, discharge the joint liability; and
+(b) a payment by the transferor on account of the transferor’s liability only discharges the transferee’s liability to the extent that the payment operates to reduce the transferor’s liability to an amount less than the amount in respect of which the transferee was, by subsection (1), made jointly and severally liable.
+. . .
+(5) In this section, “property” includes money.
+[19] Articles 1451, 1452 and 2863 of the C.C.Q. provide as follows:
+1451. Simulation exists where the parties agree to express their true intent, not in an apparent contract, but in a secret contract, also called a counter letter. …
+1452. Third persons in good faith may, according to their interest, avail themselves of the apparent contract or the counter letter; however, where conflicts of interest arise between them, preference is given to the person who avails himself of the apparent contract.
+2863. The parties to a juridical act set forth in a writing may not contradict or vary the terms of the writing by testimony unless there is a commencement of proof.
+Analysis
+[20] It is important to keep in mind the purpose of the Act. In Medland v. Canada, 98 D.T.C. 6358 (F.C.A.), the Court of Appeal found that the object and spirit of subsection 160(1) of the Income Tax Act (Tax Act), which is the equivalent of subsection 325(1) of the ETA, “is to prevent a taxpayer from transferring his property to his spouse [or to a minor or non-arm’s length individual] in order to thwart the Minister's efforts to collect the money which is owned to him”.
+[21] Collection powers are essential to the effective operation of the Act. In Livingston v. R., 2008 D.T.C. 6233 (Eng.) (F.C.A.), the Court of Appeal held the following at paragraph 1:
+The power to tax means little without the power to collect. As a result, the Income Tax Act R.S.C. 1985, c. 1 (5th Supp.) (the "Act") provides for a myriad of powers to collect taxes owed that would otherwise not be obtainable when taxpayers attempt to evade their creditors. These powers must be interpreted in light of their intended purpose and within the contexts of the factual situations to which they are applied.
+[22] In the case at bar, the respondent relies on those collection powers. She claims that there was a transfer of the undivided two-third interest in the immovable by Milad Abdulnour to his parents. The respondent submits that all the notarial acts are proof of their content and the Minister can, therefore, avail himself of the notarial act dated August 30, 2006, to the effect that Milad Abdulnour was the owner of the undivided two-third interest in the immovable that he transferred to the appellants. The respondent submits that she is a third person in good faith and, therefore, the alleged agreement between the appellants and their children constitutes a verbal counter letter that cannot be set up against her under article 1452 C.C.Q. According to the respondent, all the conditions provided for in section 325 of the ETA are met and, therefore, the appellants are jointly and severally liable for their son’s tax liability to the extent determined by subsection 325(1) of the ETA.
+The effect of a counter letter
+[23] A counter letter is a private written agreement whose purpose is to set out the real intention of the parties who stipulated otherwise in public. There are two essential components to a counter letter: the material element and the element of intent. Professor Royer describes these elements in his work, La preuve civile, 2nd ed., Cowansville (QC), Yvon Blais, 1995 at No. 1568:
+[Translation]
+. . .
+The material element consists in the existence of two separate deeds, the apparent deed, which contains what the parties want the third parties to believe and the secret deed, which expresses the true agreement. If the latter is articulated in writing, it is referred to as a counter letter.
+The element of intent consists in the willingness to deceive third parties about the existence or content of an agreement.
+[24] Thus, it would appear as though a counter letter is equivalent to somewhat of a sham. A counter letter is a secret document that reflects the existence of a situation or a relationship between the contracting parties which is different from the ones expressed in the apparent contract. The secret or intentional element, to want to deceive third parties, is an essential element of a counter letter. In Quebec case law, it is not necessary for a counter letter to be written; a verbal agreement between the contracting parties is sufficient.
+[25] Articles 1451 and 1452 of the C.C.Q. provide that counter letters are only enforceable between the contracting parties and not against third parties. Third persons in good faith are may rely on the apparent contract even if no loss has resulted from the simulation. It is not necessary for the simulation or subterfuge to be directed against the person relying on the apparent contract: see Transport H. Cordeau Inc. v. The Queen, 99 DTC 5765 (F.C.A.), at paragraph 20. It is not necessary for the third parties to establish that the counter letter originally caused loss: it will suffice if at the time it is set up against them they have an interest in rejecting it: see Transport H. Cordeau, supra, at paragraphs 21 and 23. It is not necessary to want to deceive the Revenue Department for article 1452 of the C.C.Q. to apply. As Justice Létourneau stated in Transport H. Cordeau at paragraph 29:
+[29] In fact, under art. 1452 the third party in good faith has the option of relying on the apparent contract or the counter-letter, depending on what is in his interest. This is the penalty for simulation by counter-letter, for as the writers Mazeaud, supra, mentioned at p. 925, even if the contracting parties did not try to deceive the Revenue Department or their creditors by their simulation, it should not be [TRANSLATION] "forgotten that the parties did not confine themselves simply to not disclosing the contract; they went further: to ensure the contract remained a secret they created a deceptive appearance, they concluded an apparent contract which was incorrect; they deceived everyone who had Encore, on knowledge of that simulated contract". The legislature wished to protect third parties who relied on the apparent contract after [TRANSLATION] "placing in appearances a trust which should not have been deceived.
+Again, you can see that deceit or secrecy are part of a counter letter.
+[26] Although article 1452 of the C.C.Q. provides that a counter letter is not enforceable on a third person, in the case law, a distinction has been drawn between the role of the Minister as “tax assessor” and his role as “tax collector”. In Bolduc v. The Queen, 2003 DTC 221, Judge Archambault of this Court ruled that when the Deputy Minister acts as “assessor”, the Deputy Minister shall not be considered as a third person for the purposes of article 1452 of the C.C.Q. In such circumstances, the Deputy Minister must determine the taxpayer’s liability based on the real situation. However, when the Deputy Minister acts as “collector”, he shall be considered as a third person under article 1452 of the C.C.Q. The decisions rendered in Richelieu c. Québec (Sous‑ministre du Revenu), [2001] J.Q. No. 8037, [2002] R.D.F.Q. 303 (rés.) (C.Q.), Dussault‑Zaidi c. Québec (Sous‑ministre du Revenu,) [1996] J.Q. No. 2969, [1996] R.D.F.Q. 73 (C.A. Qc.) (Justice Deschamps, dissenting), and Haeck c. Québec (Sous-ministre du Revenu), [2001] J.Q. No. 8038, [2002] R.D.F.Q. 73 (C.Q.), are cited in support of this argument. Moreover, Judge Archambault concluded that section 160 of the Income Tax Act, which is equivalent to section 325 of the ETA, provides for collection and not assessment action. Furthermore, it is not necessary, in order for these collection actions to apply, that the transferee received a benefit. All the statutory provisions provide is that [Translation] “the transferee’s liability is limited to the amount by which the fair market value of the property transferred exceeded the fair market value of the consideration given by the transferee”: see Bolduc, supra, at paragraph 13.
+[27] However, as I noted in ZT22 Holding Inc. v. The Queen, 2012 TCC 17, on January 21, 2013, it would appear as though the distinction between the role of the Minister “assessor” and “collector” is less important than it was before: see Caplan c. Québec (Sous-ministre du Revenu), 2006 QCCA 1322 (CanLII) (C.A. Qc.). In Caplan, Justice Dufresne of the Quebec Court of Appeal relied on the general principle set out by Justice McLachlin in Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622., at paragraph 39, where she holds that, in tax cases, the courts must respect the taxpayer’s legal relationships, regardless of what appears to be their legal form, provided that they are not contrary to a specific provision of the Act and that they are not a sham. Justice Dufresne ruled that in the absence of a sham or proven attempt that the taxpayer “played both sides” by claiming the advantages the apparent contract may have offered and also those of the counter letter against the Minister, the Minister must, in accordance with Shell, supra, make an assessment based on the actual legal situation between the parties, regardless of the content of the apparent contract or counter letter.
+[28] It seems to me, the courts must be sensitive, in tax cases, to the economic realities between the taxpayers unless there is unlawfulness or deceit. As I stated ZT22 Holding v. The Queen, supra, in my opinion, the analysis of Justice Dufresne should not be restricted to cases where the Minister acts in his role as “assessor”. Regardless of the Minister’s role, as “assessor” or “collector”, the taxpayers’ legal relationships must be respected by the Courts and by the Minister in tax cases, unless there is unlawfulness or deceit that consequently prejudices the interests of the Minister.
+[29] However, and despite my opinion, the case law is such that, in this case, the respondent must be considered as a third person, who, acting as a collector, may avail herself of the apparent deeds, that is to say, Exhibits A‑1, A‑2 and A‑3. By way of Exhibit A‑2, Milad Abdulnour transferred his undivided interest in the immovable to his parents. Seeing as there was a transfer of property and that there was a non-arm’s length relationship between Milad and the appellants, the conditions for the application of section 325 of the ETA have all been met. Thus, the appellants are jointly and severally liable, with Milad Abdulnour, to pay the tax liability of Milad Abdulnour up to the amount by which the fair market value of the immovable exceeds the fair market value of the consideration paid by the appellants.
+[30] The appellants claim that the respondent is not a third person in good faith owing to the fact that at the date of purchase of the house in 1992, the respondent had no rights or claims enforceable against Milad Abdulnour and that the assessment against Milad Abdulnour involves a period subsequent to the date of purchase. I cannot accept that argument. The respondent was certainly a third person in good faith at the point when the appellants set up the verbal agreement between them and their children against the respondent’s interests.
+Fair market value of the consideration
+[31] Having decided that the conditions for the application of section 325 have been met, the issue to be determined in this case is the amount by which the fair market value of the immovable exceeds the fair market value of the consideration paid at the time of the transfer.
+[32] The respondent submits that the fair market value of the consideration paid for the immovable is more or less the price indicated in the deed of sale, that is to say, the notarial act dated August 30, 2006. Although the consideration was neither stipulated therein nor provided, the transferees agreed to assume all hypothecary payments owed to the bank. The balance of the hypothec as of the date of the transfer was $72,308, which is not in dispute. Hence, the consideration is two thirds of the balance, that is, $48,205.33. The respondent, by relying again on article 1452 C.C.Q., claims that the verbal agreement between the appellants and their children cannot be set up against her to disprove the assessment.
+[33] The appellants submit for their part that it is the real value of the consideration, as indicated by the testimonies of Milad Abdulnour and Abdul Missah Abdulnour, which must be taken into account.
+[34] It is important to note that the appellants’ liability is limited to the amount by which the fair market value of the immovable exceeds the fair market value of the consideration paid by the appellants for the transfer of the immovable. What does the expression “fair market value of the consideration” found in paragraph 325(1)(a) of the ETA mean? The definition of “fair market value” in subsection 123(1) of the Act reads as follows:
+Fair market value of property or a service supplied to a person means the fair market value of the property or service without reference to any tax excluded by section 154 from the consideration for the supply.
+[35] As noted by Justice Lamarre-Proulx in 9004-5733 Québec Inc. v. The Queen, 2003 TCC 327 (CanLII), this definition is of no help in understanding this legal concept.
+[36] The definition of “consideration” in subsection 123(1) of the Act is more specific:
+Consideration includes any amount that is payable for a supply by operation of law.
+[Emphasis added.]
+[37] Thus, when determining the adequacy or inadequacy of the consideration, it is necessary to consider “any amount” that was paid. The term “consideration” in paragraph 325(1)(a) of the ETA is qualified by the terms “fair market value”. In my view, when determining the adequacy of the consideration for the purpose of establishing the amount by which the fair market value of a property exceeds the fair market value of the consideration paid for the property, it is necessary to refer to “any amount” paid and not only to the fictitious amount indicated in the deeds of sale. This is what paragraph 325(1)(a) of the ETA requires us to do—no more, no less.
+[38] The intention of the contracting parties at the time of the transfer of the property is of considerable importance and perhaps the key consideration. In Livingston, supra, the Court of Appeal held that the intention of the parties to defraud the CRA is of relevance but not determinative in gauging the adequacy of the consideration given. The Court stated as follows at paragraph 19:
+[19] As will be explained below, given the purpose of subsection 160(1), the intention of the parties to defraud the CRA as a creditor can be of relevance in gauging the adequacy of the consideration given. However, I do not wish to be taken as suggesting as there must be an intention to defraud the CRA in order for subsection 160(1) to apply. The provision can apply to a transferee of property who has no intention to assist the primary tax debtor to avoid the payment of tax: . . . .
+Thus, a deceitful intention is certainly determinative. The absence of a deceitful intention, while relevant, is not necessarily determinative.
+[39] Who has the burden of establishing the fair market value of the consideration? Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336 (S.C.C.), states that the Minister proceeds on assumptions to make assessments and the taxpayer has the initial onus of demolishing the Minister's assumptions. This is met where the taxpayer makes out at least a prima facie case that demolishes the Minister’s exact assumptions. Then, after the taxpayer has met the initial burden, the onus shifts to the Minister to rebut the prima facie case made out by the taxpayer and to prove the assumptions. A prima facie case is defined as one with evidence that establishes a fact until the contrary is proved. A prima facie case is one supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved: see Stewart v. Minister of National Revenue, [2000] T.C.J. No. 53 (QL). The Federal Court of Appeal stated that the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted: see Orly Automobiles Inc. v. Canada, 2005 FCA 425, [2005] G.S.T.C. 200. The Federal Court of Appeal held that it is the taxpayer who knows how and why it is run in a particular fashion. The taxpayer has information within his reach and under his control. Thus, we can see that it is trite law that the burden of proof rests with the appellant to show, in this case, that the consideration paid by them for the transfer of the immovable is not what the respondent claims it is but is rather that which the appellants claim it to be. Otherwise, the respondent’s assumptions shall be accepted by the Court.
+[40] In considering all of the evidence, I find that the appellants did not meet their burden of proof as to the amount that should, according to them, be considered the fair market value of the consideration, for the purposes of section 325 of the Act. There are a number of factors that lead me to this conclusion. Here are but a few:
+a. It is clear that a counter letter is a secret agreement. The supposed agreement between the appellants and the children is a secret that was only revealed at trial. It is a secret that was kept for about twenty years. Throughout the entire assessment and collection process in respect of “Bijouterie Vénus” and, subsequently, Throughout the entire assessment and collection process in respect of Milad Abdulnour as director and until the trial date, Revenu Québec had never been informed of the existence of a counter letter that contradicted the apparent deeds produced at trial as Exhibits A‑1, A‑2 and A‑3.
+b. The existence of this secret agreement was never articulated in writing. The evidence of the counter letter is presented by the oral testimonies of the father and Milad—their testimonies are certainly self-serving and were given 20 years later. Neither Maida nor George confirmed the existence of said secret agreement. Nor did Maida or George confirm that they did not have the means to contribute to the purchase of the house or that all the funds necessary for its purchase came from the father.
+c. I find it difficult to accept that the bank refused to grant the father a loan because he did not speak either official language of Canada. None of the bank’s employees testified to that effect.
+d. In 1992 Maida was not working, Milad and George earned low incomes and the three did not have the savings to purchase a house worth $175,000. If, as the father and Milad claim, the children did not have the means to purchase the house, it seems illogical to me that the bank would loan them money.
+e. It is difficult to establish the exact amount supposedly disbursed by the father at the time of the house’s acquisition in 1992. The evidence in this regard is vague and contradictory. Milad referred to $95,000 whereas his father referred to $50,000 and to a second amount of $30,000, a difference of $15,000. In this context, it is difficult to establish an exact consideration, if any. Furthermore, there is no documentary evidence to support that the necessary amounts disbursed for the purchase came from Abdul Missah Abdulnour.
+f. In 1996, when Maida got married, she transferred her undivided one-third interest in the immovable to her brother, Milad, and not her parents. If the house actually belonged to the parents, why not give them what belonged to them?
+g. There is a lack of documentary evidence showing that those amounts came from the father; indeed, except for the apparent deeds, there is a total lack of documentary evidence to support each aspect of the appellants’ position; there is only testimonial evidence, which is certainly self-serving evidence, and, therefore, suspicious.
+h. It should also be noted that Milad always lived in the house. The transfer to the parents did not take place until 14 years after the acquisition of the house, and not until Milad incurred significant fiscal hardship. No consideration value was either stipulated or provided. It appears, therefore, that the intention of Milad and his parents was to defraud the tax authorities as creditors—that is uncontested. Milad’s tax problems occurred after he acquired his undivided two-third interest in the immovable. It is difficult to resist the conclusion that he transferred his interest to prevent his property from being seized by the tax authorities. The transfer of property shows a deceitful intention to defraud the tax authorities. As indicated above, an intention to defraud the tax authorities is very important and often determinative. The transfer consequently prejudiced the interests of the respondent.
+Conclusion
+[41] I cannot give any weight to the testimonies of Milad Abdulnour and Abdul Missah Abdulnour. Accordingly, I find that the appellants did not meet the burden of proof resting upon them.
+[42] For these reasons, the appeals are dismissed.
+Signed at Kingston, Ontario, this 29th day of April 2013.
+“Rommel G. Masse”
+Masse D.J.
+Translation certified true
+on this 21st day of May 2013
+Daniela Guglietta, Translator
+CITATION: 2013 TCC 34
+COURT FILE NOS.: 2011-4062(GST)I and 2011-4067(GST)I
+STYLES OF CAUSE: SOUAD AHO ABDULNOUR
+v. HER MAJESTY THE QUEEN,
+ABDUL MASSIH ABDULNOUR
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 22, 2012
+AMENDED REASONS FOR
+JUDGMENT BY: The Honourable Rommel G. Masse,
+Deputy Judge
+DATE OF JUDGMENT: April 29, 2013
+APPEARANCES:
+Counsel for the appellants:
+Stéphane Rivard
+Counsel for the respondent:
+Michel Rossignol
+COUNSEL OF RECORD:
+For the appellants:
+Name: Stéphane Rivard
+Firm: Rivard & Associés
+Westmount, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

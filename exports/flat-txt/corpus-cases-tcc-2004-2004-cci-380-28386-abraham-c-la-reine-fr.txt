@@ -1,0 +1,204 @@
+Title: Abraham c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28386/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-380-28386-abraham-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-05-19
+
+# Abraham c. La Reine
+
+- Citation: 2004 CCI 380
+- Decision date: 2004-05-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1905, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abraham c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-19
+Référence neutre
+2004 CCI 380
+Numéro de dossier
+2002-4856(IT)APP
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4856(IT)APP
+ENTRE :
+RICHARD ABRAHAM,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 1er mars 2004, à Ottawa (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Avocat du demandeur :
+Me Philippe Dioguardi
+Avocat de l’intimée :
+Me George Boyd Aitken
+____________________________________________________________________
+ORDONNANCE
+Vu la demande d’ordonnance de prorogation du délai pour signifier un avis d’opposition aux cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années 1993, 1994, 1995, 1996 et 1997;
+La demande est rejetée, en vertu du paragraphe 166.2(5) de la Loi, conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 19e jour de mai 2004.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 5e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2004CCI380
+Date : 20040519
+Dossier : 2002-4856(IT)APP
+ENTRE :
+RICHARD ABRAHAM,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Lamarre
+[1] Il s’agit d’une demande de prorogation du délai pour signifier un avis d’opposition aux cotisations arbitraires datées du 10 août 1999, pour les années d’imposition 1993 à 1997. La demande, présentée à la Cour le 13 décembre 2002, est faite en vertu de l’article 166.2 de la Loi de l’impôt sur le revenu (la « Loi ») (voir l’ordonnance de la Cour datée du 19 septembre 2003).
+[2] Le demandeur soutient qu’il ignorait l’existence de ces cotisations arbitraires avant septembre 2002; Michel Damphousse, agent de recouvrement à l’Agence des douanes et du revenu du Canada (l’« ADRC ») s’était alors présenté chez lui et l’avait informé qu’une hypothèque légale sur sa résidence avait été inscrite en faveur de l’ADRC en raison des arriérés de paiement des cotisations arbitraires.
+[3] Le demandeur reconnaît que l’adresse indiquée sur les cotisations arbitraires est exacte, et qu’il s’agit de l’adresse où il reçoit son courrier. Le demandeur déclare, toutefois, qu’il prend son courrier tous les jours et qu’il n’a pas reçu les cotisations arbitraires, et qu’il ne savait rien de ces cotisations auparavant. Il soutient donc que les cotisations arbitraires n’ont pas été mises à la poste le 10 août 1999, comme il est allégué, ni à une autre date, et qu’elles ne lui ont été livrées d’aucune façon par l’ADRC (voir le paragraphe 15 de l’affidavit de Richard Abraham). Le demandeur déclare qu’il incombe à l’intimée de démontrer que les cotisations arbitraires ont été établies et mises à la poste le 10 août 1999, comme il est allégué.
+[4] À l’audience, l’intimée a acquiescé à ce dernier énoncé, et les deux parties ont limité la question en litige à celle de savoir si les cotisations arbitraires avaient effectivement été mises à la poste le 10 août 1999. En fait, si la preuve permet d’établir que les cotisations arbitraires ont bel et bien été mises à la poste le 10 août 1999, le demandeur n’aura plus la possibilité de présenter une demande de prorogation du délai à cette date tardive, aux termes de l’alinéa 166.2(5)a) de la Loi, qui est rédigé comme suit :
+(5) Acceptation de la demande. Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+[5] Les délais qui sont par ailleurs prévus par la Loi pour la signification d’un avis d’opposition sont énoncés au paragraphe 165(1) de la Loi, qui est rédigé comme suit :
+ARTICLE 165 : Opposition à la cotisation.
+(1) Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) lorsqu’il s’agit d’une cotisation relative à un contribuable qui est un particulier (sauf une fiducie) ou une fiducie testamentaire, pour une année d’imposition, au plus tard le dernier en date des jours suivants :
+(i) le jour qui tombe un an après la date d’échéance de production qui est applicable au contribuable pour l’année,
+(ii) le 90e jour suivant la date de mise à la poste de l’avis de cotisation;
+b) dans les autres cas, au plus tard le 90e jour suivant la date de mise à la poste de l’avis de cotisation.
+[6] L’intimée a témoigné par l’intermédiaire d’affidavits signés par deux fonctionnaires de l’ADRC (Lucie Allaire, agente des litiges à la Division des appels de l’ADRC, et Michel Damphousse, agent de recouvrement au Bureau des services fiscaux de l’Outaouais de l’ADRC). Selon la position de l’intimée, l’affidavit d’un fonctionnaire de l’ADRC, auquel sont annexées les copies conformes des cotisations arbitraires reconstituées faites par le ministre du Revenu national ou au nom de celui‑ci, fait foi de la nature et du contenu des cotisations arbitraires (voir le paragraphe 244(9) de la Loi).
+[7] Dans son affidavit, Lucie Allaire indique que les cotisations arbitraires étaient datées du 10 août 1999, qu’elles ont été envoyées par la poste au demandeur, à l’adresse figurant dans le dossier du demandeur, et qu’elles n’ont pas été retournées par Postes Canada (voir les paragraphes 17 et 18 de son affidavit). L’intimée soutient que, lorsqu’un avis de cotisation est mis à la poste, la date de mise à la poste est présumée être la date apparaissant sur cet avis (voir le paragraphe 244(14) de la Loi) et que la cotisation est réputée avoir été établie à la date de mise à la poste de l’avis de cotisation (voir le paragraphe 244(15) de la Loi). En outre, tout envoi en première classe est réputé reçu par le destinataire le jour de sa mise à la poste (voir le paragraphe 248(7) de la Loi). Il a été établi dans la preuve que les avis de cotisation sont toujours envoyés en première classe, ce qui est, en fait, le courrier ordinaire (voir le témoignage de Chris Beauchesne, page 37 de la transcription).
+[8] Maintenant, la Cour d’appel fédérale a décidé, dans l’arrêt Aztec Industries Inc. c. Canada, [1995] A.C.F. no 535 (Q.L.), que lorsque le contribuable allègue qu’il n’a pas reçu un document et croit que ce document n’a pas été envoyé, il incombe à l’ADRC de prouver que le document a été envoyé. L’ADRC n’est pas tenue de prouver que les avis de cotisation ont été reçus par le demandeur (voir Schafer c. Canada, [2000] A.C.F. no 1480 (Q.L.). Dans l’arrêt Kovacevic c. Canada, [2003] A.C.F. no 1044 (Q.L.), la Cour d’appel fédérale a accepté la proposition formulée par le juge Bowman dans Schafer c. Canada, [1998] A.C.I. no 459 (Q.L.), en ce qui concerne le genre de preuve qui est satisfaisante lorsque la loi exige qu’un document soit envoyé par courrier ordinaire par une grande organisation comme un ministère. Dans la décision Schafer, précitée, le juge Bowman a déclaré ce qui suit, au paragraphe 23 :
+Dans une grande organisation comme un ministère, un cabinet d’avocats ou d’experts-comptables ou une société, où le courrier envoyé chaque jour est volumineux, il est pratiquement impossible de trouver un témoin pouvant jurer qu’il a déposé au bureau de poste une enveloppe adressée à telle ou telle personne. Le mieux qu’on puisse faire est de décrire en détail les étapes suivies, par exemple le fait d’adresser les enveloppes, d’y insérer des documents, d’apporter les enveloppes à la salle du courrier et de livrer le courrier au bureau de poste.
+[9] Dans l’arrêt Kovacevic, précité, la Cour d’appel fédérale a ajouté, au paragraphe 16, qu’« [e]n général, il suffit donc [pour l’ADRC] d’énoncer dans un affidavit, souscrit par la dernière personne en autorité qui a traité le document avant qu’il soit soumis à la procédure normale d’envoi du bureau, la description de cette procédure ».
+[10] Dans son affidavit, Lucie Allaire fait les assertions pertinentes qui suivent :
+[traduction]
+1. Je suis agente des litiges à la Division des appels de l’Agence des douanes et du revenu du Canada (l’« ADRC ») et, à ce titre, j’ai une connaissance directe des faits et des questions mentionnés ci‑après, sauf pour ce qui est des déclarations faites sur la foi de renseignements ou de croyances, dont je suis sincèrement convaincue de la véracité.
+2. Je m’occupe des dossiers pertinents de l’ADRC et je connais ses pratiques.
+3. J’ai examiné les dossiers de Richard Abraham […] relatifs aux années d’imposition 1993, 1994, 1995, 1996 et 1997 et, par conséquent, je suis au courant des questions mentionnées ci‑après.
+4. D’après mon examen des dossiers, Richard Abraham n’a produit aucune déclaration de revenus dans les délais prévus par la Loi de l’impôt sur le revenu pour les années d’imposition 1993 à 2001.
+5. L’examen des dossiers révèle que le ministre du Revenu national (le « ministre ») a établi des cotisations à l’égard de Richard Abraham pour les années d’imposition 1993, 1994, 1995, 1996 et 1997 le 10 août 1999, conformément au paragraphe 152(7) de la Loi de l’impôt sur le revenu, au moyen d’avis de cotisation datés du 10 août 1999 pour les années d’imposition 1993, 1994, 1995, 1996 et 1997.
+[…]
+Cotisations arbitraires de Richard Abraham
+11. Les dossiers de l’ADRC indiquent que Suzanne Létourneau, de la Division de la vérification de l’ADRC, a joint Richard Abraham chez lui, le 8 janvier 1999. M. Abraham a demandé deux mois pour remplir ses déclarations, ce qui lui a été accordé. Une copie de la « Liste détaillée des notes d’agenda » pour la période du 8 janvier 1999 au 18 avril 2001 est jointe à mon affidavit à la pièce B.
+12. D’après mon examen des dossiers, Richard Abraham a laissé un message vocal à Suzanne Létourneau le 4 février 1999, dans lequel il disait qu’il essaierait de la rappeler.
+13. D’après mon examen des dossiers, Suzanne Létourneau a tenté de joindre Richard Abraham le 5 mars 1999. Dans un message qu’elle a laissé à une personne qui s’est présentée comme l’épouse de M. Abraham, Suzanne Létourneau a demandé à celui‑ci de communiquer avec l’ADRC.
+14. D’après mon examen des dossiers, l’ADRC a envoyé une lettre à M. Abraham à [l’adresse de M. Abraham figurant dans son dossier à l’ADRC], le 25 mars 1999. Dans cette lettre, l’ADRC demandait à M. Abraham de produire ses déclarations de revenus pour les années d’imposition 1993 à 1997 dans un délai de trois semaines. Une copie de la lettre datée du 25 mars 1999 est jointe à mon affidavit à la pièce C.
+15. D’après mon examen des dossiers de l’ADRC, la lettre datée du 25 mars 1999 n’a pas été retournée à titre de courrier non livrable par Postes Canada, et Richard Abraham n’y a pas répondu.
+16. D’après mon examen des dossiers, Suzanne Létourneau, de la Division de la vérification de l’ADRC, a préparé, le 22 juin 1999, des cotisations arbitraires fondées sur les renseignements fournis par Richard Abraham le 8 janvier 1999. Quand l’ADRC doit procéder par voie de cotisation arbitraire, elle prépare la déclaration de revenus du contribuable qui fait l’objet de la cotisation, déclaration dans laquelle l’impôt payable par le contribuable est calculé. Des copies des déclarations de revenus que l’ADRC a préparées pour les années d’imposition 1993 à 1997 de Richard Abraham sont jointes à mon affidavit aux pièces D, E, F, G et H.
+17. L’examen des dossiers révèle que les avis de cotisation datés du 10 août 1999 ont été envoyés à Richard Abraham, à [l’adresse de M. Abraham figurant dans son dossier à l’ADRC].
+18. D’après mon examen des dossiers de l’ADRC, les avis de cotisation datés du 10 août 1999 n’ont pas été retournés par Postes Canada.
+19. Les avis de cotisation à l’égard de Richard Abraham pour les années d’imposition 1993, 1994, 1995, 1996 et 1997 ont été générés par ordinateur. Contrairement aux avis de cotisation produits manuellement, les avis de cotisation générés par ordinateur sont produits en un seul exemplaire original, lequel est envoyé au contribuable. Aucune copie matérielle des avis de cotisation originaux n’est conservée dans les dossiers du Ministère.
+20. L’ADRC peut reconstituer les avis de cotisation générés par ordinateur en imprimant de nouveau l’information contenue dans le système informatique. Le cas échéant, les copies reconstituées portent un timbre qui indique clairement « RECONSTRUCTED RECONSTITUÉ ».
+21. Les avis de cotisation reconstitués joints à mon affidavit aux pièces I, J, K, L et M sont des copies conformes des avis de cotisation originaux datés du 10 août 1999 pour les années d’imposition 1993, 1994, 1995, 1996 et 1997 respectivement, envoyés à M. Abraham.
+Procédure de mise à la poste des avis de cotisation
+22. Chris Beauchesne, gestionnaire adjoint, Section de la distribution mécanisée, Division de la production et de la distribution, Direction des médias électroniques et imprimés de l’ADRC, m’a informée de ce qui suit, et je suis convaincue de la véracité de cette information :
+a) les cotisations d’impôt sont traitées en lots et délivrées en cycles à des fins de contrôle;
+b) les cotisations du demandeur pour les années d’imposition 1993 à 1997 ont été traitées le 4 août 1999, et les avis de cotisation ont été postdatés du 10 août 1999;
+c) un fichier maître de tous les dossiers d’un même lot est créé sur bande, et un numéro d’ordre unique est créé pour chaque page devant être imprimée;
+d) par la suite, la bande est utilisée pour l’impression du cycle à l’imprimerie des Services des médias – salle de reconnaissance des caractères magnétiques (la « salle de reconnaissance »);
+e) une fois l’impression terminée, le lot est transféré à la Section de la distribution mécanisée aux fins de distribution;
+f) aucun problème n’a été signalé concernant le téléchargement du fichier sur bande le 10 août 1999.
+23. M. Paul Gehring, gestionnaire intérimaire, Section de la distribution mécanisée, Centre fiscal d’Ottawa de l’ADRC, m’a informée, et je suis convaincue de la véracité de cette information, que cette section reçoit les lots de cotisations fiscales générées par ordinateur de la salle de reconnaissance, insère les cotisations dans des enveloppes individuelles et les livre à Postes Canada en vue de leur mise à la poste.
+24. L’ADRC a pour pratique d’indiquer sur une étiquette adhésive le numéro de lot de chaque avis de cotisation. Cette étiquette est ensuite apposée à la déclaration de revenus qui fait l’objet de la cotisation.
+25. Une autre étiquette adhésive, indiquant le numéro de l’avis de cotisation, est apposée à la déclaration de revenus.
+26. D’après mon examen des déclarations de revenus jointes à mon affidavit aux pièces D, E, F, G et H, les étiquettes adhésives apposées sur celles‑ci indiquent que les avis de cotisation fondés sur ces déclarations ont été traités dans le lot numéro 42, daté du 10 août 1999.
+27. Chris Beauchesne, gestionnaire intérimaire [sic], Section de la distribution mécanisée, Centre fiscal d’Ottawa de l’ADRC, m’a informée de ce qui suit, et je suis convaincue de la véracité de cette information :
+a) le lot numéro 42, qui comprenait les avis de cotisation datés du 10 août 1999, a été reçu le 4 août 1999 et mis à la poste le 10 août 1999;
+b) avant la livraison d’un lot à Postes Canada, le compte informatisé obtenu sur les inséreuses est comparé au compte prévu, et ces comptes étaient exacts le 10 août 1999.
+28. Après avoir examiné et fouillé soigneusement les dossiers de l’ADRC, j’ai été incapable de trouver des avis d’opposition pour les années d’imposition 1993, 1994, 1995, 1996 et 1997 que l’ADRC aurait reçus au plus tard le 90e jour suivant la date de mise à la poste des avis de cotisation, le 10 août 1999.
+Procédure de recouvrement entreprise par l’ADRC
+29. Le 10 novembre 1999, l’ADRC a envoyé une lettre à Richard Abraham à son adresse [figurant dans son dossier à l’ADRC] avisant celui‑ci des arriérés établis d’après les avis de cotisation datés du 10 août 1999. La lettre, signée par Susann Trudel, agente de recouvrement, est ainsi rédigée :
+« Nos dossiers indiquent que vous n’avez toujours pas payé le solde de 167 538,95 $ de votre compte, même si nous avons déjà porté cette dette à votre attention.
+Nous vous prions de communiquer avec nous au numéro de téléphone indiqué ci-dessous d’ici à 15 jours. Si vous ne payez pas votre compte ou ne répondez pas à cette lettre, vous vous exposez à des mesures légales sans autre avis.
+Si vous avez déjà payé ce montant, veuillez accepter nos remerciements et ne pas tenir compte de cet avis. Toutefois, si votre paiement remonte à plus de 15 jours, veuillez nous fournir des détails, pour que nous puissions créditer votre compte. »
+30. Une copie conforme de la lettre envoyée à Richard Abraham le 10 novembre 1999 est jointe à mon affidavit à la pièce N.
+31. D’après mon examen des dossiers de l’ADRC, la lettre datée du 10 novembre 1999 n’a pas été retournée à titre de courrier non livrable par Postes Canada, et Richard Abraham n’y a pas répondu.
+32. D’après mon examen des dossiers, Michel Damphousse, agent de recouvrement à l’ADRC, s’est rendu à [l’adresse du demandeur figurant dans son dossier à l’ADRC], le 6 septembre 2002.
+Correspondance reçue de Richard Abraham en septembre et en octobre 2002
+33. D’après mon examen des dossiers, l’ADRC a reçu une télécopie de Me Philippe Dioguardi, avocat de Richard Abraham, le 23 octobre 2002. La télécopie a été envoyée à l’attention de Lise Guibord, et une copie a aussi été transmise à Michel Damphousse. Une copie de la télécopie est jointe à mon affidavit à la pièce O. Les documents transmis dans la télécopie en question comprenaient les suivants :
+a) une lettre datée du 22 septembre 2002;
+b) une lettre d’autorisation signée par Richard Abraham;
+c) des copies de deux reçus du client délivrés par Postes Canada apparemment datés du 22 octobre 2002;
+d) une copie d’un reçu délivré par l’ADRC daté du 17 octobre 2002;
+e) des copies des documents intitulés « Renseignements d’order [sic] fiscal » produits par l’ADRC, datés du 18 septembre 2002, pour chacune des années d’imposition 1993, 1994, 1995, 1996 et 1997;
+f) des avis d’opposition apparemment datés du 22 octobre 2002 pour chacune des années d’imposition 1993, 1994, 1995, 1996 et 1997.
+34. D’après mon examen des dossiers, le ministre a reçu les originaux des avis d’opposition décrits à l’alinéa f) ci‑dessus le 24 octobre 2002.
+35. D’après mon examen des faits et des motifs de l’opposition à l’appui de chacun des avis d’opposition décrits à l’alinéa f) ci‑dessus, le fondement de l’opposition est décrit ainsi : [traduction] « Le contribuable s’oppose à la cotisation ci‑incluse. De plus amples détails suivront au besoin. »
+36. D’après mon examen des dossiers, dans une lettre datée du 13 novembre 2002, l’ADRC a informé Richard Abraham que ses avis d’opposition pour les années d’imposition 1993, 1994, 1995, 1996 et 1997 ne pouvaient être acceptés parce qu’ils n’avaient pas été signifiés au plus tard le 90e jour suivant la date de mise à la poste des avis de cotisation, le 10 août 1999. Le ministre a aussi expliqué qu’une prorogation du délai pour signifier un avis d’opposition ne pouvait être accordée aux termes du paragraphe 166.1(7) de la Loi de l’impôt sur le revenu, puisqu’une telle demande doit être faite dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier l’avis d’opposition.
+37. Cette lettre datée du 13 novembre 2002 a été envoyée par courrier recommandé et adressée à Richard Abraham [à l’adresse figurant dans son dossier à l’ADRC].
+38. Une copie de la lettre de l’ADRC datée du 13 novembre 2002, envoyée par courrier recommandé à Richard Abraham, est jointe à mon affidavit à la pièce P.
+39. La lettre du 13 novembre 2002 n’a jamais été réclamée et elle a été retournée à l’ADRC. L’annotation de Postes Canada sur le recto de la lettre de l’ADRC indique que celle‑ci a été retournée à titre de courrier non réclamé.
+40. Une copie de l’enveloppe de la lettre recommandée annotée par Postes Canada est jointe à mon affidavit à la pièce Q.
+41. L’examen des dossiers révèle que l’ADRC a encore une fois informé le demandeur, dans une lettre datée du 11 décembre 2002, de sa décision de ne pas accepter les avis d’opposition reçus le 24 octobre 2002 pour les années d’imposition 1993, 1994, 1995, 1996 et 1997. Cette lettre a été envoyée par courrier ordinaire. La lettre du 11 décembre 2002 n’a pas été retournée à l’ADRC.
+42. Une copie de la lettre de l’ADRC du 11 décembre 2002, envoyée à Richard Abraham, est jointe à mon affidavit à la pièce R.
+[…]
+Absence de nouvelles cotisations
+49. L’examen des dossiers révèle qu’aucun avis de nouvelle cotisation à l’égard de Richard Abraham pour les années d’imposition 1993, 1994, 1995, 1996 et 1997 n’a été délivré après les avis de cotisation datés du 10 août 1999.
+50. L’examen des dossiers révèle que le 10 juillet 2003, l’avocat de Richard Abraham a transmis au chef des Appels, Bureau des services fiscaux de l’Outaouais, une demande de prorogation du délai pour signifier un avis d’opposition appuyée par un affidavit de M. Richard Abraham. Des copies de la lettre du 10 juillet 2003 et dudit affidavit sont jointes à mon affidavit à la pièce Y.
+51. L’avocat du ministre m’a informée, et je suis fermement convaincue de l’exactitude de cette information, que Richard Abraham avait été avisé, dans une lettre datée du 17 juillet 2003, que sa demande de prorogation du délai pour signifier un avis d’opposition ne pouvait être acceptée pour les raisons indiquées dans les lettres datées du 13 novembre 2002 et du 11 décembre 2002 que le ministre lui avait envoyées. Des copies de la lettre datée du 17 juillet 2003 et desdites lettres datées du 13 novembre 2002 et du 11 décembre 2002 envoyées par le ministre à Richard Abraham sont jointes à mon affidavit à la pièce Z.
+52. Le présent affidavit est fait à l’appui de la réponse de l’intimée à la demande de prorogation du délai pour signifier un avis d’opposition présentée par le demandeur, datée du 19 novembre 2003, et à aucune autre fin.
+[11] M. Chris Beauchesne, qui a travaillé dans ce qui pourrait être appelé la division du courrier de l’ADRC, a donné certaines explications sur la procédure utilisée pour l’envoi de documents à l’extérieur de l’ADRC. Il a déclaré que chaque dossier particulier qui était entré dans l’ordinateur central de l’ADRC recevait un numéro de contrôle. Grâce à ce numéro, il était possible de voir combien de dossiers clients étaient traités dans ce qu’il appelait un lot ou un cycle. Si j’ai bien compris, tous les documents sont identifiés par la date réelle qui apparaît dessus, et tous les documents qui portent la même date font partie du même lot et ont le même numéro de lot. L’attribution d’un numéro de lot permet de veiller à ce que tous les documents qui font partie d’un même lot soient traités. M. Beauchesne a dit que chaque lot comprenait de nombreux dossiers, qu’un seul lot était traité pour une date donnée et qu’il y avait deux lots au maximum par semaine, au cours de tout exercice. Par conséquent, en consultant un programme statistique qui remontait quelques années en arrière, il a pu vérifier que tous les documents datés du 10 août 1999 faisaient partie du lot 42, lequel comprenait 47 499 pièces de correspondance. Au moyen du numéro de lot, M. Beauchesne a pu vérifier la date du début du traitement des dossiers qui faisaient partie du lot et la date de livraison du lot à Postes Canada. Le numéro de lot apparaît sur les documents internes, mais non sur les documents qui sont envoyés aux clients. Dans le cas qui nous occupe, les déclarations de revenus internes préparées par l’ADRC à l’égard du demandeur pour les années visées portent le numéro de lot 42, la date attribuée à ce lot, soit le 10 août 1999, et le numéro de compte du demandeur. Toutefois, les avis de cotisation reconstitués portent la date du 10 août 1999 et le numéro de compte du demandeur, mais ils ne portent pas le numéro 42, qui serait leur numéro de lot. Le numéro 45 apparaît cependant près du code postal. Bien qu’il n’en fût pas absolument certain, M. Beauchesne croyait qu’il s’agissait d’un [traduction] « code de parcours » de Postes Canada.
+[12] M. Beauchesne a témoigné que c’est la date apparaissant sur un document qui lie ce document au lot traité un jour donné. Par exemple, il est possible de savoir qu’un avis de cotisation fait partie d’un certain lot par la date de l’avis qui apparaît sur l’avis de cotisation, et non par le numéro de compte particulier du contribuable. Le numéro de compte sert seulement en cas de mutilation de document (document endommagé pendant le traitement) ou lorsque des problèmes de traitement surviennent. M. Beauchesne a aussi déclaré qu’un lot conservait le même numéro tout au long du processus. Pendant son contre‑interrogatoire, M. Beauchesne a dit ignorer comment le dossier d’un client particulier était classé dans un lot donné, parce que le numéro de lot était attribué aux documents avant que le lot parvienne à son service. Il a toutefois déclaré être en mesure d’affirmer que si les documents étaient datés du 10 août 1999, ils faisaient partie du lot 42 et que toutes les lettres du lot 42 avaient été traitées correctement et livrées à Postes Canada sans incident.
+[13] M. Beauchesne a expliqué comment tous les documents étaient envoyés à l’extérieur. Les lots sont téléchargés de l’ordinateur central et sortent sous forme de fichier électronique. Ce fichier est imprimé sur des imprimantes haute vitesse et conservé dans plusieurs très grosses boîtes. Ces boîtes sont enregistrées et cataloguées; leur contenu, le lot dont les documents font partie et tout autre renseignement pertinent nécessaire au traitement sont consignés. Un mécanisme de contrôle est également appliqué au lot, sous forme de papiers qui doivent être remplis, lesquels indiquent clairement le type de documents (en l’espèce, des avis de cotisation), le lot dont les documents font partie et le nombre exact de dossiers clients contenus dans le lot. Ce nombre est également généré par l’ordinateur central. Une fiche de contrôle est alors créée et accompagne le lot partout dans la zone de traitement. La fiche indique à tous les opérateurs qui font fonctionner les serveurs de courrier haute vitesse le lot qu’ils traitent et la date à laquelle il doit être envoyé aux clients. À cette étape-là, un lot particulier est placé sur l’une des inséreuses haute vitesse, et l’opérateur traitera le lot, dénombrera les documents traités et enregistrera le tout à la fin de la journée de traitement.
+[14] Durant ce processus, le courrier sort à haute vitesse sur un transporteur à courroie. Une personne tourne tous les documents pour s’assurer qu’une adresse paraît dans la fenêtre de l’enveloppe et que l’enveloppe est bien scellée. Puis, l’enveloppe est immédiatement placée dans un [traduction] « conteneur à lettres » en plastique, lequel est placé, à son tour, dans une caisse fournie par Postes Canada. Les totaux de chaque opérateur sont comparés au résultat attendu. Normalement, le compte atteint par les opérateurs devrait correspondre exactement à celui qui est prévu d’après le nombre généré par l’ordinateur central pour le lot. Lorsqu’il y a un écart, les opérateurs comptent à nouveau les chiffres écrits à la main sur la fiche de contrôle. Ils vérifient si le nombre de mutilations correspond à celui qui est indiqué sur leur fiche de contrôle. Lorsqu’il y a une mutilation, elle est identifiée par le numéro de lot et le numéro de contrôle qui lui est attribué. Le document est ensuite renvoyé pour réimpression le jour même ou le lendemain.
+[15] Il y a aussi de nombreux contrôles de sécurité. Chaque page de tous les documents porte un numéro d’ordre, ce qui aide à éviter qu’il y ait des pages manquantes. En cas de doute, il n’est pas inhabituel d’éliminer un lot dont les documents se trouvent déjà dans les enveloppes et de recommencer le processus. Chaque document est envoyé sous pli séparé. Ainsi, comme c’est le cas en l’espèce, si plus d’un avis de cotisation est envoyé à un client pour différentes années d’imposition, chaque avis de cotisation à l’égard de chaque année d’imposition est envoyé dans une enveloppe distincte. Les enveloppes sont alors conservées dans des conteneurs jusqu’à la date où les conteneurs doivent être livrés à Postes Canada. Une personne est chargée de préparer le courrier qui doit être livré à Postes Canada chaque jour. Cette personne vérifie chacune des caisses et les prépare en vue de leur expédition à Postes Canada.
+[16] En l’espèce, M. Beauchesne a pu vérifier que le lot 42 (contenant les documents datés du 10 août 1999) portait le numéro de contrôle 031372. Sur les 47 499 documents qui faisaient partie de ce lot, huit avaient été mutilés et refaits par la suite. Il a également pu vérifier que le compte de 47 499 correspondait au compte attendu, généré par l’ordinateur central pour le lot 42, ce qui signifie que tous les documents dénombrés dans le lot avaient été envoyés à Postes Canada le 10 août 1999. Enfin, M. Beauchesne a déclaré qu’il ne pouvait imaginer aucune sorte d’erreur de traitement qui aurait eu pour effet d’empêcher cinq avis de cotisation distincts, insérés dans cinq enveloppes différentes et portant tous la date du 10 août 1999, de sortir de l’ADRC à cette date.
+Analyse
+[17] L’avocat du demandeur a soutenu qu’il n’y avait aucun moyen de savoir avec certitude que le dossier du demandeur faisait partie du lot 42 et, par conséquent, que les cotisations arbitraires datées du 10 août 1999 avaient bel et bien été mises à la poste par l’ADRC. M. Beauchesne a déclaré qu’il ne pouvait pas dire si le dossier particulier d’un client faisait partie d’un lot donné, mais que les documents datés du 10 août 1999 faisaient partie du lot 42. Il a ensuite ajouté que si le dossier de ce client faisait partie du lot 42, il pouvait dire que toutes les lettres de ce lot avaient été traitées correctement et livrées à Postes Canada.
+[18] Bien que je ne puisse ignorer le fait que les avis de cotisation faisaient partie d’un lot dont le numéro n’avait pas été attribué par le service de M. Beauchesne, je suis d’avis qu’il y a suffisamment d’éléments de preuve pour démontrer que les cotisations arbitraires datées du 10 août 1999 faisaient partie du lot 42.
+[19] En fait, le numéro de lot 42, la date du 10 août 1999 et le numéro de compte du demandeur apparaissent sur les étiquettes apposées aux cinq déclarations de revenus préparées à l’interne par l’ADRC pour le demandeur pour les années visées. Je me rends compte que le numéro de lot 42 n’apparaît pas sur les avis de cotisation reconstitués, mais ceux‑ci portent bien la date du 10 août 1999 et le numéro de compte du demandeur. À mon avis, les renseignements donnés sur les étiquettes apposées aux déclarations de revenus combinés avec ceux qui sont fournis sur les avis de cotisation reconstitués établissent, selon la prépondérance des probabilités, un lien suffisant pour permettre de dire que les cotisations arbitraires faisaient partie du lot 42. Il semblerait que ce numéro de lot, lorsqu’il était attribué à un document, était enregistré dans l’ordinateur central. Lorsque le lot 42 a été téléchargé, il a été traité de façon à être envoyé à Postes Canada le 10 août 1999. M. Beauchesne a pu vérifier que tous les documents faisant partie du lot 42 avaient été envoyés à Postes Canada à cette date.
+[20] À mon avis, compte tenu des procédures suivies, comme les a décrites M. Beauchesne, et compte tenu de l’affidavit de Lucie Allaire, il semble plus probable que les cotisations arbitraires aient été envoyées le 10 août 1999, qu’elles ne l’aient pas été. De plus, le demandeur admet que l’adresse apparaissant sur les cotisations arbitraires était l’adresse où il recevait quotidiennement son courrier. Selon la preuve, la correspondance que l’ADRC a envoyée au demandeur par courrier ordinaire n’a pas été retournée à l’ADRC par Postes Canada, tandis que la correspondance envoyée par courrier recommandé a été retournée à titre de courrier non réclamé.
+[21] Les cotisations arbitraires ont été envoyées par courrier ordinaire, et elles ont été fort probablement envoyées par l’ADRC le 10 août 1999, comme M. Beauchesne l’a expliqué. Elles n’ont pas été retournées à l’ADRC par Postes Canada. Bien que je n’aie pas à trancher cette question, il me semble très improbable que les cinq cotisations arbitraires, envoyées dans cinq enveloppes différentes, n’aient pas été reçues par le demandeur.
+[22] Par conséquent, je suis convaincue que les cotisations arbitraires ont vraiment été mises à la poste par l’ADRC, et qu’elles sont présumées avoir été établies et mises à la poste à la date apparaissant sur les avis, soit le 10 août 1999 (paragraphes 244(14) et 244(15) de la Loi). Je conclus donc que la demande de prorogation du délai pour signifier un avis d’opposition aux cotisations arbitraires datées du 10 août 1999 ne peut pas être présentée à cette date tardive et qu’elle doit être rejetée, conformément au paragraphe 166.2(5) de la Loi.
+Signé à Ottawa, Canada, ce 19e jour de mai 2004.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 5e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE :
+2004CCI380
+NO DU DOSSIER DE LA COUR :
+2002-4856(IT)APP
+INTITULÉ :
+Richard Abraham c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 1er mars 2004
+MOTIFS DU JUGEMENT :
+L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+Le 19 mai 2004
+COMPARUTIONS :
+Avocat du demandeur :
+Me Philippe Dioguardi
+Avocat de l’intimée :
+Me George Boyd Aitken
+AVOCATS INSCRITS AU DOSSIER :
+Pour le demandeur :
+Nom :
+Me Philippe Dioguardi
+Cabinet :
+Dioguardi & Company LLP
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

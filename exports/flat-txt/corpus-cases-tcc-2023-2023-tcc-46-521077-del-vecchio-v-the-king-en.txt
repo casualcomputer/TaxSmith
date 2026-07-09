@@ -1,0 +1,185 @@
+Title: Del Vecchio v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521077/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-46-521077-del-vecchio-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-04-13
+
+# Del Vecchio v. The King
+
+- Citation: 2023 TCC 46
+- Decision date: 2023-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5865, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Del Vecchio v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-04-13
+Neutral citation
+2023 TCC 46
+File numbers
+2021-2438(IT)I
+Judges and Taxing Officers
+Gabrielle St-Hilaire
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-2438(IT)I
+BETWEEN:
+ANN SOPHIE DEL VECCHIO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Stéphane Gaudet (2021-2439(IT)I), on March 6, 2023, at Montreal, Quebec.
+Before: The Honourable Justice Gabrielle St-Hilaire
+Appearances:
+Agent for the appellant:
+Francis Del Vecchio
+Counsel for the Respondent:
+Alice Zhao Jiang
+JUDGMENT
+For the attached reasons, the appeal from the assessment made under the Income Tax Act for the 2019 taxation year is dismissed without costs.
+Signed at Ottawa, Canada, this 13th day of April 2023.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Docket: 2021-2439(IT)I
+BETWEEN:
+STÉPHANE GAUDET,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Ann Sophie Del Vecchio (2021-2438(IT)I), on March 6, 2023, at Montreal, Quebec.
+Before: The Honourable Justice Gabrielle St-Hilaire
+Appearances:
+Agent for the appellant:
+Francis Del Vecchio
+Counsel for the Respondent:
+Alice Zhao Jiang
+JUDGMENT
+For the attached reasons, the appeal from the assessment made under the Income Tax Act for the 2019 taxation year is dismissed without costs.
+Signed at Ottawa, Canada, this 13th day of April 2023.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Citation: 2023 TCC 46
+Date: 20230413
+Dockets: 2021-2438(IT)I
+2021-2439(IT)I
+BETWEEN:
+ANN SOPHIE DEL VECCHIO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+BETWEEN:
+STÉPHANE GAUDET,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+St-Hilaire J.
+I. Issue
+[1] The issue before the Court in this case is whether the appellants are entitled to a moving expense deduction. More specifically, it must be determined whether the appellants’ move from their former residence in L’Assomption to their new residence in Montreal is covered by the definition of “eligible relocation”.
+II. Introduction
+[2] The appellants, Stéphane Gaudet and Ann Sophie Del Vecchio, are appealing the reassessments made by the Minister of National Revenue (Minister) under the Income Tax Act, (R.S.C., 1985, c. 1 (5th Supp.)) for the 2019 taxation year. The appeals were heard on common evidence.
+[3] In these reassessments, the Minister denied the moving expense deduction claimed by Mr. Gaudet and Ms. Del Vecchio in the amounts of $36,856 and $17,023, respectively.
+[4] The expenses incurred for the move from their former residence at 22 de L’Ange-Gardien Boulevard in L’Assomption to their new residence at 845 Dunlop Avenue in Outremont (a Montreal borough) are in dispute in this case. The appellants are disputing the Minister’s decision to deny the moving expense deduction.
+III. Background
+[5] Mr. Gaudet began working as a lawyer for Loranger Marcoux in Montreal in 1998. In 1998, he moved to the Sainte-Thérèse area and later to Repentigny, where he resided with his ex-spouse and their three children (born in 1999, 2000 and 2001) until 2012. Mr. Gaudet explained that his spouse worked as a notary in an office in Repentigny and that they had decided together to live in Sainte-Thérèse to be close to her work as well as close to a train station that would provide easy access to downtown Montreal for him. After about 18 months, Mr. Gaudet and his ex-spouse decided to move to Repentigny, closer to his ex-spouse’s office, so they bought some land and had a house build there. Mr. Gaudet commuted daily to Loranger Marcoux in Montreal.
+[6] In late 2012, Mr. Gaudet and his ex-spouse separated, and around 2013, he purchased a house in L’Assomption, which was the residence where he lived until 2019. By residing in L’Assomption, he remained close to Repentigny, allowing him to fulfil his family obligations and to limit the repercussions of the break-up of the family unit on the children.
+[7] Ms. Del Vecchio became employed as a lawyer at Loranger Marcoux in late 2006, early 2007, and she became an associate in 2015. She lived on Saint-Just Street and then on Dickson Street in Montreal from 2006 to 2014. Ms. Del Vecchio began dating Mr. Gaudet in 2013, and she moved to L'Assomption to live there with him around 2013–2014. They had a child together in December 2016. Ms. Del Vecchio testified that she had tried to work remotely as an associate with Loranger Marcoux from her residence in L’Assomption in 2015 and 2016, but she ultimately decided that she needed to be physically present in the office, given the type of work that she had to do. She stated that she and Mr. Gaudet did not move to Montreal at that time in order to make things easier for him and his three children.
+[8] In December 2019, after Mr. Gaudet’s third child finished high school, the appellants decided to move from L’Assomption to Montreal to save time commuting from their home to the Loranger Marcoux office. As mentioned earlier, the expenses related to this move are in dispute in this case.
+IV. Law and analysis
+Applicable legislation
+[9] Section 62 of the Act stipulates the conditions that must be met to be entitled to a deduction for moving expenses, namely the expenses incurred for an “eligible relocation”. In general, a taxpayer is entitled to deduct moving expenses that are incurred to carry on a business or to be employed at a new work location when moving at least 40 kilometres closer to the new work location. The deductible amount cannot surpass the earnings from employment at the new work location or from carrying on the business at the new work location.
+[10] Based on a review of section 62, there is more than one reference to the expressions “eligible relocation” and “new work location”, expressions at the heart of this dispute.
+[11] The relevant part of section 62 reads as follows:
+62 (1) There may be deducted in computing a taxpayer’s income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation, to the extent that
+(a) they were not paid on the taxpayer’s behalf in respect of, in the course of or because of the taxpayer’s office or employment;
+(b) they were not deductible because of this section in computing the taxpayer’s income for the preceding taxation year;
+(c) the total of those amounts does not exceed
+(i) in any case described in subparagraph (a)(i) of the definition eligible relocation in subsection 248(1), the total of all amounts, each of which is an amount included in computing the taxpayer’s income for the taxation year from the taxpayer’s employment at a new work location or from carrying on the business at the new work location, or because of subparagraph 56(1)(r)(v) in respect of the taxpayer’s employment at the new work location, and
+. . .
+(d) all reimbursements and allowances received by the taxpayer in respect of those expenses are included in computing the taxpayer’s income.
+[Emphasis added]
+[12] The definition of “eligible relocation” at subsection 248(1) of the Act stipulates, in part, as follows:
+eligible relocation means a relocation of a taxpayer in respect of which the following apply:
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location (in section 62 and this definition referred to as “the new work location”) that is, except if the taxpayer is absent from but resident in Canada, in Canada, or
+. . .
+(b) the taxpayer ordinarily resided before the relocation at a residence (in section 62 and this definition referred to as “the old residence”) and ordinarily resided after the relocation at a residence (in section 62 and this definition referred to as “the new residence”),
+(c) except if the taxpayer is absent from but resident in Canada, both the old residence and the new residence are in Canada, and
+(d) the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location.
+[Emphasis added]
+[13] I note that the definition of “eligible relocation” also includes references to the expression “new work location”.
+[14] I hasten to point out that a good number of conditions set out in the applicable statutory provisions are not being debated in this case. There is no dispute that the appellants had a former residence (in L’Assomption) and a new residence (in Montreal), nor that the 40 km criterion is met. As for the criterion limiting deductible expenses based on earned income, it should be noted that the appellants are subject to the limit set out in subparagraph 62(1)(c)(i) of the Act. It is important to specify that after debating the issue, the appellants agreed that were the Court to conclude that there had been an eligible relocation in this case, the amount of deductible moving expenses would be limited to the amount of business income earned by Mr. Gaudet and Ms. Del Vecchio, namely $15,186 and $10,000, respectively, and the excess could be carried over the following year. The appellants acknowledge that moving expenses cannot be deducted from their dividend income.
+V. Appellants’ position
+[15] The appellants maintain that they moved from L’Assomption to Montreal for professional reasons and that they meet the legislative conditions. They claim that the Act does not provide a time limit within which the taxpayer must move to be entitled to the deduction. Furthermore, they maintain that the “new work location” does not necessarily need to be “new”.
+[16] According to the appellants, if the Court were to find that a “new” work location is required, they claim to have had one. The position put forward by their agent can be summarized as follows: Mr. Gaudet had a new work location at Loranger Marcoux in 1998; he moved to Sainte-Thérèse to live there with his then-spouse, and he moved to Repentigny with her around 1999; around 2013, after their separation, he moved to L’Assomption; and finally, he moved to Montreal to be closer to the Loranger Marcoux firm in 2019, two decades later. Personal reasons prevented him from moving sooner, and since there is no time limit criterion in the Act, he is entitled to the moving expense deduction. As for Ms. Del Vecchio, her agent asserted that the same principles apply; he specified that the time period was less long than in Mr. Gaudet’s case, but that the same personal reasons prevented her from moving to Montreal sooner.
+VI. Respondent’s position
+[17] From the outset, I would like to mention that counsel for the respondent made submissions concerning the Loranger Marcoux firm’s move in late 2014, early 2015. The move consisted of 850 metres, and I agree that this was a negligible change that does not affect the principles applicable to the facts in this case. I note that the agent for the appellants asserted that this move of the firm did not affect his observations, and he asserted that he did not take this into consideration (see hearing transcript at page 113).
+[18] The respondent maintains that to be entitled to the moving expense deduction, it is essential that there be a “new work location” and that it be geographically distinct. The respondent asserted that legislative history shows that Parliament never removed the requirement for a “new work location” in the Act. Under these circumstances, the appellants have no “new work location” related to the reason for the move and therefore are not entitled to the claimed deduction.
+[19] As a secondary concern, the respondent claimed that if the Court were to find that the new work location did not have to be geographically distinct, changes in the taxpayer’s working conditions would nevertheless be required as a reason for the move. Counsel for the respondent reiterated that at the time of the 2019 move, Ms. Del Vecchio had been an associate since 2015, and Mr. Gaudet had been an associate for even longer.
+VII. Analysis
+[20] I would first like to briefly review the historical evolution of the provision authorizing the moving expense deduction. First, I would like to specify that the purpose of the moving expense deduction is to facilitate Canadians’ mobility. In his budget speech in 1971 (House of Commons, Budget Speech, 28-3, (June 18, 1971) at page 6 (Hon. Edgar John Benson), the Honourable E.J. Benson, Minister of Finance, indicated the following:
+There will be broad deductions for the expenses involved in moving to a new job. These include the costs of transporting families and belongings, their meals and lodgings while moving, and the cost of cancelling leases or selling their residences. The changing nature of our labour force and our economy requires that Canadians have greater mobility if they are to accept job opportunities when they arise, and this measure is proposed with this in mind.
+[Emphasis added]
+[21] More recently, in the Report on Federal Tax Expenditures published in 2019 (Finance Canada, Report on Federal Tax Expenditures - Concepts, Estimates and Evaluations 2019, April 11, 2019, at pages 329–330), the Minister of Finance indicated the following:
+The moving expense deduction (MED) provides tax relief for taxpayers whose eligible relocation costs are not otherwise reimbursed. The deduction exists to recognize costs necessary to generate income and to encourage labour mobility across Canada.
+. . .
+The objective of the MED, presented elsewhere in this report, is dual: “This measure recognizes the expenses involved in moving to a new job and thus facilitates labour mobility by allowing taxpayers greater flexibility in pursuing new employment and business opportunities anywhere in Canada.” . . . By recognizing and partially offsetting such expenses, the tax expenditure works towards neutrality between the decision to earn income in the current location or in a new location.
+[Emphasis added]
+[22] Between these speeches in 1971 and 2019, section 62 was amended a few times. For example, in the Budget Plan 1998, the Minister of Finance added some aspects to the deductible expenses while reiterating that the purpose of the tax regime applicable to moving expenses is to improve labour mobility in Canada (The Budget Plan 1998, 36-1 (February 24, 1998) at pages 223–225 (Hon. Paul Martin)). In addition, in the 1984 Budget Papers (House of Commons, Budget Papers, 31-2, (February 15, 1984) at page 22 (Hon. Marc Lalonde)), the Minister of Finance wrote the following in relation to moving expenses:
+Currently, the Income Tax Act allows a deduction for moving expenses where a person ceases to be employed at one location in Canada and is required to move to a new residence to accept other employment. The budget proposes that this deduction be available to those persons who were unemployed and move after 1983 to a new location in order to take up employment or to start up a business.
+[23] In the first case explained in the previous paragraph, Parliament amended the Act to expand the category of expenses that could be deducted, and in the second, Parliament amended it to remove the requirement that the taxpayer had to cease being employed and accept new employment to be eligible for the deduction, thereby making the deduction accessible to unemployed persons before the move. In both cases, Parliament did not amend the Act to remove the requirement that the taxpayer must move for a new employment or new business operations. Other legislative amendments made between 2009 and 2012 touch on aspects concerning residency in Canada and the income that can be considered for deduction purposes, which were not relevant in this case.
+[24] In my opinion, it is clear that Parliament's intention was always to authorize the deduction to encourage Canadians’ mobility, and the conditions that must be met to be entitled to this deduction reflect this objective of Canadian policy. Also, despite the amendments to the Act over time, Parliament never stopped referring to the requirement for a new work location. Today, the text in section 62 and in the definition of “eligible relocation” in subsection 248(1) include multiple references to the expression, “new work location”. I cannot accept that Parliament included this expression without intending for it to have meaning.
+[25] The parties referred to many decisions of this Court in support of their respective position. Given the varied facts that can be presented in appeals from decisions denying the moving expense deduction and the context of the informal procedure, it is not surprising that each party was able to find decisions supporting their position. I will not go through all the cited decisions, but I will comment on those that are most relevant to the facts in this case.
+[26] The agent for the appellants cited Wunderlich v. The Queen, 2011 TCC 539 (Wunderlich) and Dierckens v. The Queen, 2011 TCC 169 (Dierckens) in support of his position that the work location did not have to be new. The facts in Wunderlich are very different from those in this case. Mr. Wunderlich began new employment in 2004 and moved to be closer to his work in 2008, after accepting a promotion that included new responsibilities; there was no move between these two instances, specifically moving farther from his work location and then closer, as was the case in this case. As for Dierckens, it appears that the taxpayer moved in 2008 after having worked for her employer for about a decade; there does not seem to have been multiple moves in this case, either.
+[27] In Wunderlich and Dierckens, the Court stipulated that the delay in moving could not be used to render the taxpayer ineligible for the deduction. For a very long time, case law has recognized that the wording of relevant legislative provisions authorizing the moving expense deduction does not provide for any time limit for the move after the start of employment or business operations at the new work location. I agree. That said, the effect of this interpretation is simply that in order to be eligible for the deduction, the taxpayer may take some time before moving to be closer to work, but not that the taxpayer may move farther away from work to then move closer several years later.
+[28] On the other hand, counsel for the respondent cited decisions in which the Court found that a new work location was clearly required to be eligible for the moving expense deduction, for example Moreland v. The Queen, 2010 TCC 483, Langelier v. The Queen, 2013 TCC 322 and Zhao v. the Queen, 2015 TCC 124.
+[29] Given the wording of the relevant legislative provisions as well as the objective of section 62 and the eligibility conditions that have remained stable over the years, I cannot accept an interpretation to the effect that a new work location is not required to be eligible for the moving expense deduction. I share the opinion of the judges who found that to claim the deduction, a taxpayer must demonstrate that there is a “new work location”. In my opinion, the provisions of the Act clearly require this. I also find that the expression must be interpreted with some degree of flexibility, but not in a way that renders it meaningless (to that effect, see Moreland, supra at paragraph 13, Zhao, supra at paragraph 15).
+[30] As a secondary concern, counsel for the respondent claimed that were a new, geographically distinct work location not required, the change in residence would nonetheless need to be required as result of a significant change in the taxpayer’s employment situation (see Gelinas v. The Queen, 2009 TCC 111). She also asserted that it is a matter of knowing why the taxpayer moved. Counsel for the respondent maintained that the appellants’ work responsibilities did not change and that furthermore, the increase in their income can be explained by several factors that are taken into consideration in the remuneration of lawyers who are associates. I note that the agent for the appellant insisted on the fact that the appellants had earned more income in 2020 and 2021 than they had earned in 2019. Not only are these years after the circumstances in dispute, but furthermore, the increase in income earned at the new work location is not a legislative condition of eligibility for the deduction.
+[31] In my opinion, the appellants do not meet the condition that a new work location is required to be eligible for the moving expense deduction. Mr. Gaudet and Ms. Del Vecchio resided in or near Montreal when they obtained their employment at Loranger Marcoux in 1998 and in 2006 or 2007, respectively. As described above, they moved away from Montreal at different times, but in both cases for personal reasons. Mr. Gaudet moved to Sainte-Thérèse, then to Repentigny and L’Assomption before moving to Montreal in 2019. Ms. Del Vecchio was living in Montreal when she obtained her employment at Loranger Marcoux, and she remained there until 2013–2014 when she moved away from her place of work to L’Assomption, before moving back to Montreal in 2019. I do not find that Parliament’s intention was to allow taxpayers to deduct moving expenses to move closer to an old work location that they moved away from when they were already residing near their work location. As for the work requirements of an associate compared to an employee, I would like to first specify that the appellants had been associates for several years before the move and in particular, nothing in the evidence has convinced me that their work conditions had changed in such a way that would support the conclusion that there was a “new work location” in this case according to the less restrictive interpretation of this expression (to that effect, see Langelier, supra at paragraphs 6 and 22 and Moreland, supra at paragraph 13).
+VIII. Conclusion
+[32] For the reasons set out above, the appeals are dismissed. The appellants are not eligible to the deduction of moving expenses incurred in 2019.
+Signed at Ottawa, Canada, this 13th day of April 2023.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+CITATION:
+2023 TCC 46
+COURT FILE NO.:
+2021-2438(IT)I
+2021-2439(IT)I
+STYLE OF CAUSE:
+ANN SOPHIE DEL VECCHIO AND HIS MAJESTY THE KING AND STÉPHANE GAUDET AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+March 6, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gabrielle St-Hilaire
+DATE OF JUDGMENT:
+April 13, 2023
+APPEARANCES:
+Agent for the Appellant:
+Agent for the Appellant:
+Francis Del Vecchio
+Francis Del Vecchio
+Counsel for the Respondent:
+Alice Zhao Jiang
+COUNSEL OF RECORD:
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada

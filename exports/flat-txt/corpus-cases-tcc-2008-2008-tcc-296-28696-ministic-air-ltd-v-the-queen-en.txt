@@ -1,0 +1,219 @@
+Title: Ministic Air Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28696/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-296-28696-ministic-air-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-05-13
+
+# Ministic Air Ltd. v. The Queen
+
+- Citation: 2008 TCC 296
+- Decision date: 2008-05-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1486, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ministic Air Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-13
+Neutral citation
+2008 TCC 296
+File numbers
+2004-1998(GST)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-1998(GST)G
+BETWEEN:
+MINISTIC AIR LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 17, 2007, at Winnipeg, Manitoba
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Agent for the Appellant:
+Grant Nerbas
+Counsel for the Respondent:
+Julien Bédard
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated October 8, 2001, for the period March 1, 2001 to March 31, 2001, is dismissed, with costs.
+Signed at Ottawa, Canada, this 13th day of May, 2008.
+“E.A. Bowie”
+Bowie J.
+Citation: 2008TCC296
+Date: 20080513
+Docket: 2004-1998(GST)G
+BETWEEN:
+MINISTIC AIR LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] This appeal is brought from an assessment for goods and services tax (GST) made on October 8, 2001 for the period between March 1, 2001 and March 31, 2001 (the period). The appellant Ministic Air Ltd. (Ministic) is a corporation that, during the relevant time period, was engaged in providing the service of transportation by air. It filed a GST return under the Excise Tax Act,[1] Part IX, (the Act) for the period showing GST collectible of $1,227.58, and claiming input tax credits of $3.00, an adjustment for uncollectible accounts of $170,296.51, and a net refund claimed of $169,071.93. Following an audit, this refund claim was refused by the assessment of October 8, 2001. Ministic filed a Notice of Objection on July 26, 2002. The assessment was confirmed by Notice of Decision dated February 4, 2004.
+[2] The Act makes provision for a credit for bad debts in section 231(1). In 2001, it read:
+231(1) Where a person has made a taxable supply (other than a zero-rated supply) for consideration to a recipient with whom the person was dealing at arm’s length, to the extent that it is established that the consideration and tax payable in respect of the supply have become in whole or in part a bad debt, the person may, in determining the net tax for the person’s reporting period in which the bad debt is written off in the person’s books of account, or for a subsequent reporting period, deduct the amount determined by the formula
+A × B/C
+where
+A is the tax in respect of the supply;
+B is the total of the consideration, tax and any amount that can reasonably be attributed to a tax imposed under an Act of the legislature of a province that is a prescribed tax for the purposes of section 154 (referred to in this section as “applicable provincial tax”) remaining unpaid in respect of the supply that was written off as a bad debt; and
+C is the total of the consideration, tax and applicable provincial tax in respect of the supply.
+231(2) [Repealed, 2000, c. 30, s. 58].
+231(3) If a person recovers all or part of a bad debt in respect of which the person has made a deduction under subsection (1), the person shall, in determining the net tax for the person’s reporting period in which the bad debt or that part is recovered, add the amount determined by the formula
+A x B/C
+where
+A is the amount of the bad debt recovered by the person;
+B is the tax payable in respect of the supply to which the bad debt relate4s; and
+C is the total of the consideration, tax and applicable provincial tax in respect of the supply.
+231(4) A person may not claim a deduction under subsection (1) in respect of an amount that the person has, during a particular reporting period of the person, written off in its books of account as a bad debt unless the deduction is claimed in a return under this Division filed by the person within four years after the day on or before which the return under this Division for the particular reporting period is required to be filed,
+[3] The Notice of Decision gave two reasons for rejecting Ministic’s claimed refund.
+The information submitted supported that Ministic Air Ltd. had obtained a bank loan. George Brotherston guaranteed this loan. The bank collected the full amount of the loan from George Brotherston who then took the position of the bank. Shortly after that Ministic Air Ltd. transferred its account receivables to George Brotherston to satisfy their obligation to him.
+A bad debt write off does not include a situation where a corporation voluntarily transfers its account relievable to another person to satisfy a debt owing to that person. This action supports that the receivables were still collectable in March of 2001.
+Section 231 of the ETA is also not available to a corporation where the corporation has written off an account receivable that pertains to a closely related corporation.
+The required criteria for an adjustment to the GST under section 231 of the ETA have not been met, therefore the assessment is confirmed.
+An additional argument advanced by counsel for the respondent at trial is that the debts in question had not been written off by the appellant either before or during the period in which the refund claim was made, as subsection 231(1) of the Act required.
+[4] Ministic was incorporated in October 1981. It operated a passenger, freight and medivac service between Winnipeg and the Garden Hill Reserve on the shore of Island Lake in the northeastern part of Manitoba. George Brotherston was its president and a shareholder until February 1995. After he ceased to be the president, his shareholding was acquired by the Garden Hill First Nation (Garden Hill), and from that time forward Garden Hill owned approximately 98% of the shares, and the Wassagamach First Nation (Wassagamach) owned the remainder.
+[5] On August 31 1998, Ministic, in an effort to expand its business, entered into an agreement with STP Wass Air, which provided service to the St. Theresa Point First Nation and the Wassagamach First Nation reserves, situate near the Garden Hill Reserve on the shore of Island Lake. The written agreement is cryptic, but its intent apparently was to have Ministic provide service to those two First Nations in conjunction with its service to Garden Hill, with STP Wass Air ticketing passengers to and from Winnipeg to St. Theresa Point, and the service to be provided by Ministic. Revenues from this service were placed in a separate account, and expenses related to the service were paid from that account. Any profit exceeding 20% was to be paid to STP Wass Air. The service never proved to be profitable, and it was discontinued in December 2000.
+[6] At about the same time, Ministic created a planning committee whose task was to reorganize the business in a way that would reduce its costs. Mr. Brotherston was a participant in this endeavour, and his efforts apparently were instrumental in effecting some reductions. In spite of this, however, the appellant found itself heavily indebted to Canada for both GST and source deductions under the Income Tax Act. By March 2001 that debt amounted to:
+GST
+$72,736.75
+Income tax source deductions
+277,114.63
+TOTAL
+$349,851.38
+At a meeting held on February 26, 2001, Ministic and representatives of the Canada Revenue Agency (the Agency) agreed, among other things, that in return for certain accommodations Ministic would pay $70,000 per month towards this debt, while at the same time paying all the new source deduction and GST obligations as they fell due. This arrangement was recorded in a letter from Kara Guse, a Revenue Canada Collections Officer, to Melody Fraser, who described herself in her evidence as having been the finance manager of Ministic.
+[7] Although well-intentioned, this arrangement never came to fruition. Towards the end of March 2001, as the result of information received from Mr. Wuttke, who had until his dismissal in mid-March been the President of Ministic, the officials of the Agency concluded that Ministic had ceased operations. This information caused the Agency to take immediate steps to realize on the assets of Ministic. This it did by obtaining a writ of execution from the Federal Court and placing it in the hands of the sheriff. This resulted in a seizure of Ministic’s assets, including the filing cabinets and the financial records of the company contained in them. The inevitable result of the seizure of the assets was the discontinuance of Ministic’s operations. It did not resume operations, and was dissolved in 2003. In 2004 it was revived for the purpose of pursuing this appeal.
+[8] Mr. Nerbas argued strenuously throughout the hearing of the appeal that the appellant’s troubles can all be laid at the feet of the Agency, because its actions in asserting its remedies against the assets were both unjustified and, in the result, fatal to the company’s business. Most of the appellant’s evidence, and argument, was directed to that thesis. The evidence before me does not disclose any wrongful action on the part of the Agency, however. The agreement reached in February to which I have referred, certainly did not require the Agency to forego its available remedies in circumstances where it appeared that Ministic was ceasing to operate. Indeed, that agreement had no legal effect at all. It merely recorded the accommodation that the Agency was willing to make in an effort to help Ministic recover from its plight. Ministic gave no consideration at all for the forbearance it received under the arrangement. It appears from the evidence that Ministic had in fact ceased, or at least temporarily suspended, its operations in the latter part of March. Mr. Brotherston and Ms. Fraser assert that operations were merely suspended temporarily as Ministic sought to reorganize itself. It is understandable, however, that the major creditors would take steps to protect their interests when it appeared that the airline was no longer operating.
+[9] More to the point, perhaps, this Court only has jurisdiction to deal with the question whether the assessment for GST made in response to the March 31, 2001 return was correct in fact and in law. That this is so has recently been reaffirmed by the Federal Court of Appeal in Moss v. Canada,[2] where the following appears:
+3 It appears that the relief requested for Ms. Moss from the Tax Court was based on the assumption that the Tax Court could grant Ms. Moss relief on equitable grounds. In that regard, a number of complaints were made on behalf of Ms. Moss that certain tax collection actions taken by the tax authorities were unethical, abusive, malicious and punitive. Those steps included a garnishing order that resulted in the cashing of one or more insurance policies, described by Mr. Moss as tax exempt polices, in a manner that precluded the funds from being reinvested in other tax exempt policies. It was also argued for Ms. Moss that a jeopardy order under section 225.2 of the Income Tax Act was obtained by tax collection officials on the basis of a misleading affidavit.
+4 The judge concluded that she did not have the legal authority to order the reassessments of Ms. Moss to be vacated or set aside on the basis of allegations of wrongful or abusive conduct by tax officials in the collection of tax debts, even if those allegations had been proved. In our view, she was correct.
+5 If unlawful or improper tax collection actions occur, and are proved, it may be possible to obtain a remedy by commencing appropriate proceedings in the Federal Court, but as a matter of law, the Tax Court of Canada has no jurisdiction to set aside or vacate a reassessment because of such actions. In an appeal from a judgment of the Tax Court, this Court's jurisdiction is similarly limited.
+[10] I turn now to the March 2001 GST return, the claim for a refund of GST in the amount of $170,296.51, and the assessment that resulted from it that has given rise to this appeal. As I said at the outset, the refund claimed by the appellant is $170,296.51. Remarkably, there is no clear statement anywhere in the Notice of Appeal or in the documents that were made exhibits at the trial of how the appellant arrived at that amount. It is only from handwritten notations on the documents found at tabs 27, 28 and 29 of Exhibit R-1, and from the evidence of Melody Fraser, that I have been able to reproduce it. It appears to have been arrived at in this way:
+Total of appellant’s accounts
+receivable over 90 days past due
+$1,723,038.13
+Less accounts on which no GST paid
+163,660.24
+1,559,337.89
+Add total of STP Wass Air accounts receivable
+863,246.93
+total of Pim Air accounts receivable
+10,182.57
+2,432,807.39
+x 7%
+TOTAL
+$170,296.51
+[11] Counsel for the respondent advanced a number of reasons why the appellant’s claim to this refund does not satisfy the requirements of subsection 231(1) of the Act, and therefore should not succeed.
+(i) the debts in question were not established to be bad debts;
+(ii) the debts in question were not written off in the appellant’s books;
+(iii) the receivables were not written off before or during the period;
+(iv) it was not established that GST was remitted on all the receivables;
+(v) the receivables of STP Wass Air and Pim Air are not the appellant’s;
+(vi) the appellant had sold its accounts receivable to George Brotherston; and
+(vii) the largest account was that of a non-arm’s length party.
+[12] It is a question of fact whether a debt has been established to be uncollectible. It is not sufficient that the debt has been outstanding for a long period of time. The taxpayer must have taken reasonable measures to collect the debt, without success, and have concluded that it is unlikely that it will be paid. In the present case, there is little evidence as to the actual measures taken by the appellant to collect any specific debt. The appellant’s evidence was general as to the unwillingness of its debtors to pay their accounts, particularly those who were owed money by Garden Hill. They, perhaps understandably, were unwilling to pay their accounts to a corporation whose shares were almost all owned by Garden Hill. I do not consider the generalizations that made up the evidence of Ms. Fraser and Mr. Brotherston on this issue to be sufficient. The debts must be considered and found to be uncollectible on an individual basis, and the evidence simply did not demonstrate that that had ever been done. Instead, Ms. Fraser simply decided at some time after the company ceased operating that all its receivables should be written off.
+[13] Subsection 231(1) specifically requires the debt to have been written off in the taxpayer’s books of account before it may form the basis of a claim for a refund of GST. In fact no such journal entries were ever recorded. The appellant argues that this requirement cannot apply to it as the books were not available, having been seized by the sheriff on March 30, 2001. The appellant’s claim was made in its GST return for the period ending March 31, 2001. It was not suggested that the appellant formed the conclusion that these debts were uncollectible on March 30th or the 31st, the only two days within the period that the books were not available.
+[14] Beaubier J. held in Burkman v. The Queen[3] that a written note, as opposed to a journal entry, could satisfy the requirement that the debt must be written off in the books of account, in circumstances where no ledger existed. I accept that as being correct. It has long been held by this Court that journal entries are not of themselves financial events in the life of a business; they simply record those events.[4] Nevertheless, there must be a precise written statement recording the taxpayer’s decision. It is not enough to say “the books were not available, so there is no written record of the write-off”. In the present case, the closest thing there is to a written record of the decision to write off the debts is a hand-printed memorandum made by Ms. Fraser on May 14, 2001, and addressed to whom it may concern. It reads as follows:
+Ministic Air has paid GST on all old STP Wass accounts. The amount is $800,000.00. This amount would have been written off this year and GST would have become collectable to Ministic Air.
+STP Wass ran as a separate company but Ministic Air controlled all transactions.
+Ministic Air A/R in the amount of $1,900,000.00 is also to be written off as bad debt and GST is collectable to Ministic Air.
+“Melody Fraser”
+Former Director of Finance
+GST rebate – 2,700,000 x 7% = $189,000.00
+Medical services – 153,000.00 – Revenue Canada seized this amt.
+TOTAL $242,000.00
+340,000.00
+“G.Brotherston”
+It, together with a fax cover sheet and another hand-printed document, make up the contents of Tab 4 of the appellant’s Exhibit A-1. I reproduce the latter two documents as well:
+FAX COVER SHEET
+MAY 15 ‘01
+TO: Denyse Coté
+FAX NO. 984-5434
+MESSAGE:
+Attached is summary of tax refund/reclaims on Ministic accounts total plus 153,000 payment is $342,000.00.
+Meeting of Ministic Air shareholders is taking place this morning [Tuesday, May 15 ‘01] and I expect to receive instructions later today and will advise.
+“G. Nerbas”
+(Attachment)
+MINISTIC AIR
+ACCOUNTS
+1. STP-Waas – an air operation of Ministic Air
+Expenditures of $800,000 subject
+to reclaim of GST - 56,000
+2. Accounts Receivable of $1,900,000
+as bad debts
+Rewrite of GST - 133,000
+3. Medical Services account with Ministic Air
+Seized by Canada
+Payment to be applied on tax debt - 153,000
+342,000
+DEDUCTION FROM
+CLAIMED TAX OWING
+IS $342,000.00
+NOTE – Two aircraft repossessed – Dec. 2000, and now in Vanc. As per search
+attached. VALUE $1,000,000
+[15] There is no doubt in my mind that these documents were not created to record a business decision, but in an attempt to create evidence that would support an attempt to recover the GST claimed. I note, too, that Melody Fraser styled herself “Former Director of Finance”. It seems doubtful that she even had authority to act at that time. In any event those documents, alone or collectively, fall far short of what is required to record a corporate decision to write off the company’s entire accounts receivable.
+[16] One of the requirements of subsection 231(1) of the Act is that the claim for a refund must be made in the return for the reporting period in which the debt is written off, or that for a later reporting period. In the present case, the claim was made in the return for the reporting period that ended on March 31, 2001. Even if the note of May 14, 2001 were considered to be sufficient evidence for the write‑off, it could not support this claim for a refund made in the return for an earlier period. This may seem to be an unduly technical obstacle to the appellant’s claim, but I am obliged to apply the statute as it was written by Parliament. It is not open to me to make exceptions to its provisions on the grounds of some perceived unfairness in its operation in a particular case: see Chaya v. The Queen.[5] This factor alone is a complete bar to the appellant’s claim.
+[17] Subsection 231(1) also requires the applicant for a refund to show that the supply in respect of which the debt was incurred was a taxable supply, and the GST was in fact reported and remitted in respect of each invoice for which the refund is claimed. The appellant’s position, as I understand it, is that this requirement is satisfied by the deduction from the base amount for which the claim is made of $163,660.24, which is said to be the total of the receivables written off that relates to exempt supplies, specifically air ambulance services. The appellant did not produce the invoices to establish this requirement either to the assessor or to the appeals officer, nor was it proved before me. The appellant’s approach throughout has been that it is sufficient to say that all the accounts receivable are written off, and to produce only aggregate numbers to support the claim. However, this does not satisfy the requirements of the Act. It is certainly clear on the evidence that the GST on many of the invoices must have been unpaid at the end of the March 2001 reporting period, as the appellant owed some $72,700 in unremitted GST at the end of February. That represents tax on more than one $1 million in taxable supplies. This debt was ultimately paid, but not until August that year when it was satisfied from the proceeds of the assets seized in March. However, the claim was made in the return for the month of March, at which time the GST on those supplies, or at least a large part of them, remained unpaid.
+[18] The appellant included the accounts receivable of STP Wass Air and Pim Air in the base upon which it calculated its refund claim. It also included approximately $750,000 owing from Garden Hill. The appellant’s contention appeared to be that somehow the receivables of STP Wass Air and Pim Air were its receivables, and it was entitled to a GST refund in respect of them, as a result of the August 31, 1998 agreement referred to at paragraph 5 above. That agreement makes no such provision, and Melody Fraser’s explanation of how the arrangement was carried out in practice was no more illuminating. The evidence was that the proceeds of ticket sales under the agreement were deposited to a separate account, but it was not clear who controlled that account, or who remitted the GST on the ticket sales. It is clear that those two companies were both registrants under the Act, and in the absence of any clear evidence to the contrary, I think it is reasonable to conclude that when they sold tickets they reported and remitted the GST in respect of those tickets. The evidence before me certainly falls short of establishing either that their receivables somehow belonged to the appellant, or that the appellant had remitted GST in respect of tickets sold by those two companies.
+[19] Subsection 231(1) does not permit a refund of GST where the debt written off is owed by a party with whom the taxpayer did not deal at arm’s length in making the supply. The appellant’s largest receivable at the time it ceased operations in March 2001 was that of Garden Hill, owner of 98% of the appellant’s shares. It amounted to about $750,000, or nearly one-third of the claim. The arm’s length issue is dealt with in the Act in subsections 126(1) and (2):
+126(1) For the purposes of this Part, related persons shall be deemed not to deal with each other at arm’s length and it is a question of fact whether persons not related to each other were, at any particular time, dealing with each other at arm’s length.
+126(2) Persons are related to each other for the purposes of this Part if, by reason of subsections 251(2) to (6) of the Income Tax Act, they are related to each other for the purposes of that Act.
+The relevant part of section 251 of the Income Tax Act reads:
+251(2) For the purpose of this Act, “related persons”, or persons related to each other, are
+…
+(b) a corporation and
+(i) a person who controls the corporation, if it is controlled by one person,
+[20] Mr. Nerbas argues that these provisions simply raise a rebuttable presumption that the appellant and Garden Hill did not deal at arm’s length, and that this presumption is rebutted by the evidence that the appellant’s policy was to provide service to Garden Hill and its members at the same commercial rates that it charged to all its other customers. He relies for this proposition on Gray v. Kerslake,[6] a case concerning section 134 of the Insurance Act of Ontario.[7] In my view, the correct statement of the effect of the verb “to deem” in the present context is found in Barclay’s Bank Ltd. v. Inland Revenue Commissioners,[8] where Viscount Simonds said[9] that he regarded its primary function, when used in a statute, as being “to bring in something that would otherwise be excluded”. This meaning was adopted in the context of the Income Tax Act by Heald J.A. in Hillis and Hillis v. The Queen.[10] To the same effect is the following statement made by Dickson J. in giving the unanimous judgment of the Supreme Court of Canada in The Queen v. Sutherland:[11]
+The purpose of any "deeming" clause is to impose a meaning, to cause something to be taken to be different from that which it might have been in the absence of the clause.
+[21] There was conflicting evidence before me as to the beneficial ownership of the appellant’s accounts receivable. On May 15, 2001, the Board of Directors of Ministic passed a resolution in the following terms:
+After review and discussion of the options presented, it was moved by Harold Harper, seconded by Judy Little and unanimously resolved that the Board of Directors of Ministic Air Ltd. sell all accounts receivable as at March 23, 2001 to George Brotherston for the sum of $1.
+Ms. Fraser testified under cross-examination that Mr. Brotherston had guaranteed a bank loan in the amount of $500,000 for Ministic, that the loan had been called by the bank and Mr. Brotherston was required to honour his guarantee, that the accounts receivable had been pledged to the bank as security for the loan, and that was the reason for the May 15 resolution. Mr. Brotherston’s evidence was that the beneficial ownership of the accounts receivable was not transferred to him at all. According to his evidence there was no more than a nominal transfer of the accounts to him so that he could collect them on behalf of Ministic. His reputation, he said, was such that people who would not pay their accounts to Ministic would nevertheless pay if they thought that he was the creditor. He said that he collected about $7,000 after the May 15 resolution, and that he turned that money over to Ministic.
+[22] In the absence of any corroboration from the members of the Board of Directors of Ministic, I find Ms. Fraser’s evidence to be more probable. Mr. Brotherston, having paid the bank pursuant to his guarantee, would have been entitled to the security held by the bank, which included the accounts receivable. Ms. Fraser had no personal interest in the outcome of this appeal, and as she assisted Mr. Brotherston in his efforts to collect the accounts after May 15, it seems likely that she would be as familiar as he was with the facts. It is also significant that the resolution was passed the day after Ms. Fraser and Mr. Brotherston wrote the memorandum that I have reproduced above, purporting to write off the accounts receivable en bloc. Although I have held that that memorandum was not effective, it is indicative of an intention that is quite inconsistent with Mr. Brotherton’s evidence that on the following day Ministic was taking steps, through him as a trustee, to collect those accounts. I conclude, therefore, that Ms. Fraser’s evidence on this issue is preferable to that of Mr. Brotherston, and that the Appellant, if it had a beneficial interest in the accounts prior to the May 15, 2001 resolution, did not have any thereafter.
+[23] For all the foregoing reasons, I conclude that the Appellant has failed to satisfy the requirements of subsection 231(1) of the Act in respect of its claimed refund, even exclusive of the accounts of Garden Hill and the receivables of STP Wass Air and Pim Air that it included in its claim.
+[24] I have some sympathy for the position that the appellant finds itself in. It has undoubtedly been unable to collect a significant amount of money that it was owed at the time it ceased operations. Much of that was owed to it by its major shareholder, but there also was a great deal owed by arm’s length parties as well. The GST paid on the latter accounts could have been recovered if the appellant had written those debts off in a business-like way, and if it had claimed the refund after doing so, as the Act requires. However, as I said earlier, I have no jurisdiction to waive any of the strict requirements of the Act. The scheme of the Act is complex, and the requirements that are prerequisite to obtaining a refund were enacted to guard against abuse and fraud. I am not suggesting that there is any abuse or attempted fraud involved in this case, but as I pointed out earlier, I have no jurisdiction to relieve an appellant of the obligation of strict compliance. I must apply the Act as Parliament wrote it, and I therefore have no alternative but to dismiss the appeal. The Respondent is entitled to costs.
+Signed at Ottawa, Canada, this 13th day of May, 2008.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2008TCC296
+COURT FILE NO.: 2004-1998(GST)G
+STYLE OF CAUSE: MINISTIC AIR LTD. and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: January 17, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: May 13, 2008
+APPEARANCES:
+Agent for the Appellant:
+Grant Nerbas
+Counsel for the Respondent:
+Julien Bédard
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985, c. E-15, as amended.
+[2] [2006] 4 C.T.C. 36.
+[3] [1997] G.S.T.C. 98.
+[4] Chop v. The Queen, 95 DTC 527; aff’d 98 DTC 6014.
+[5] [2004] 5 C.T.C. 141 (F.C.A.).
+[6] [1958] S.C.R. 3.
+[7] R.S.O. 1950, ch. 183.
+[8] [1961] A.C. 509.
+[9] @ 523.
+[10] 83 DTC 5365 @ 5376.
+[11] [1980] 2 S.C.R. 451 @ 456.

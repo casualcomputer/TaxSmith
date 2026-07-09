@@ -1,0 +1,231 @@
+---
+title: "Amar c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27248/index.do"
+last_modified: "2006-07-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 420"
+citation2: ""
+neutral_citation: "2006 CCI 420"
+decision_date: "2006-07-21"
+language: "fr"
+item_id: "27248"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 789
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:52:53.554000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d1ddcf90ae9e196245b23ee8b0d9730f55d3a184caa4e1daa36ac5cbb497d4a8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Amar c. La Reine
+
+- Citation: 2006 CCI 420
+- Decision date: 2006-07-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 789, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Amar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-21
+Référence neutre
+2006 CCI 420
+Numéro de dossier
+1999-505(IT)I, 2004-728(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 1999-505(IT)I
+2004-728(IT)I
+ENTRE :
+BENOIT AMAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus les 14 et 15 février 2006, à Montréal (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocates de l'intimée :
+Me Anne-Marie Boutin
+Me Johanne Boudreau
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1988 et 1989, sont rejetés.
+Signé à Ottawa, Canada, ce 21e jour de juillet 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI420
+Date : 20060721
+Dossiers : 1999-505(IT)I
+2004-728(IT)I
+ENTRE :
+BENOIT AMAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de deux appels relatifs aux années d'imposition 1988 et 1989.
+[2] La question en litige est la suivante dans le dossier 2004-728(IT)I :
+· Le ministre est-il justifié de refuser le report de crédit d'impôt à l'investissement en provenance de l'année 1988
+Les questions en litige sont les suivantes dans le dossier 1999-505(IT)I :
+· Est-ce qu'il existe véritablement une société et si oui, exploite-t-elle une entreprise?
+· Est-ce que l'appelant est, le cas échéant, un associé qui est commanditaire de la prétendue société, au sens du paragraphe 96(2.4) de la Loi de l'impôt sur le revenu (la « Loi » ) à un moment de l'année pertinente au présent appel?
+· Est-ce que l'appelant est, le cas échéant, un associé qui de façon régulière, continue et importante tout au long de l'année visée où la prétendue société représente exploiter habituellement son entreprise, ne prend pas une part active dans les activités de l'entreprise de la prétendue société et n'exploite pas une entreprise semblable à celle que la prétendue société représente exploiter au cours de l'année visée?
+· Est-ce que les travaux présentés par la prétendue société sont des activités de recherche scientifique et de développement expérimental?
+· Est-ce que la prétendue société a fait au cours de l'année d'imposition en litige des dépenses relatives à des activités de recherche scientifique et développement expérimental?
+[3] Pour établir et justifier les cotisations dont il est fait appel, l'intimée a tenu pour acquis les faits suivants :
+Exposé des faits dossier 2004-728(IT)I :
+1. Il nie toutes les allégations de faits et conclusions de droit contenues à l'avis d'appel qui ne sont pas conformes à ce qui suit.
+2. Au cours de l'année 1988 l'appelant a investi dans la prétendue société « Société d'informatique A.H.D. enr. » .
+3. Relativement au traitement fiscal réclamé par l'appelant pour l'année en litige, le Ministre a refusé le report de crédit d'impôt à l'investissement en provenance de l'année 1988 au montant de 1 353 $.
+4. L'appelant a déposé un avis d'appel à la Cour canadienne de l'impôt relativement à l'année 1988 portant le numéro 99-505(IT)I.
+5. Pour établir et maintenir la nouvelle cotisation pour l'année d'imposition en litige, le Ministre a tenu notamment pour acquis les faits mentionnés dans la réponse à l'avis d'appel 99-505(IT)I, dont une copie est ci-jointe.
+Exposé des faits dossier 1999-505(IT)I :
+1. Il nie les faits allégués au paragraphe 1 de l'avis d'appel et ajoute qu'il n'existait aucune société au cours de la période en litige.
+2. Il nie les faits allégués au paragraphe 2 de l'avis d'appel.
+3. Il nie les faits allégués au paragraphe 3 de l'avis d'appel et ajoute qu'aucune entreprise véritable n'a été exploitée par la prétendue société.
+4. Il nie les faits allégués au paragraphe 4 de l'avis d'appel.
+5. Quant aux paragraphes 5, 6 et 7 de l'avis d'appel, il admet que lors de la cotisation initiale, le ministre du Revenu national a accordé les déductions et crédits réclamés et qu'une nouvelle cotisation a été émise pour l'année en litige, mais pour le surplus il nie tel que rédigé, les faits qui y sont allégués.
+6. Il admet les faits allégués aux paragraphes 8, 9 et 10 de l'avis d'appel, sauf pour le mot « Société » qui est nié.
+7. Il admet que suite à une vérification de Revenu Canada « il a été impossible de s'entendre » , mais pour le surplus il nie le paragraphe 11 de l'avis d'appel.
+8. Il admit le paragraphe 12 de l'avis d'appel.
+9. Il nie les faits allégués au paragraphe 13 de l'avis d'appel et ajoute qu'il s'agit d'allégations de faits non pertinentes aux fins du présent appel.
+10. Il prend note des arguments invoqués aux paragraphes 14 et 15 de l'avis d'appel.
+11. Il nie le paragraphe 16 de l'avis d'appel.
+12. Il nie tel que rédigé le paragraphe 17 de l'avis d'appel.
+13. Il nie le paragraphe 18 de l'avis d'appel.
+14. Quand au paragraphe 19 de l'avis d'appel, il prend note de l'argument invoqué, nie le bien-fondé et nie toute allégation de faits pouvant y être contenue.
+15. En ce qui concerne le paragraphe 20 de l'avis d'appel, il admet que tout au long de l'année en litige, la corporation prétendument retenue comme sous-contractant était résidante au Canada. Au surplus, il nie le paragraphe 20 de l'avis d'appel.
+16. Quand aux paragraphes 21, 22, 23 et 24 de l'avis d'appel, il prend note des arguments invoqués, nie leur bien-fondé et nie toute allégation de faits pouvant y être contenue.
+17. Il nie les paragraphes 25 et 26 de l'avis d'appel.
+18. Quant aux paragraphes 27, 28, 29 et 30 de l'avis d'appel, il admet que plus de 90 jours se sont écoulés depuis le dépôt de l'avis d'opposition de l'appelant, il nie tel que rédigé les autres allégations de faits qui y sont contenues, et il ajoute qu'il s'agit d'allégations de faits non pertinentes aux fins du présent appel.
+19. En établissant la nouvelle cotisation en litige, le ministre du Revenu national a tenu pour acquis, notamment les faits suivants :
+a) LA SOCIÉTÉ D'INFORMATIQUE A.H.D. ENR. ( « la Société » ) a été créée le 2 février 1988;
+b) En 1988, la Société a conclu une entente avec Zuniq Corp. ( « Zuniq » ) concernant l'exécution de travaux de recherche scientifique et de développement expérimental concernant le projet « PERFIED » ;
+c) par la suite, » Zuniq a conclu une entente avec, entre autres : Data Age Corp. et Dias Informatique ( « les corporations du groupe Zuniq » ). Ces ententes concernaient le même projet;
+d) Zuniq a été incorporée le 25 mars 1985 avec comme objet de faire des travaux présentés comme étant de la recherche et du développement. Elle devait exécuter différents travaux et pour ce faire, diverses sociétés ont été créées;
+e) le promoteur-organisateur de la Société est M. Hien Vohoang ( « Vohoang » , l'âme dirigeante de Zuniq;
+f) les corporations du groupe Zuniq ont toutes un lien de dépendance entre elles ainsi qu'avec Zuniq et Vohoang;
+g) les travaux présentés par la Société (à titre d'activité de recherche scientifique et développement) ne consistent aucunement en des recherches scientifiques et du développement expérimental;
+h) la Société n'a pas fait au cours de l'année d'imposition en litige de dépenses relatives à des activités de recherche scientifique et de développement expérimental;
+i) pour son exercice financier se terminant le 31 décembre 1988, la Société indique une somme de 1 493 044 $ présentée au titre de frais de recherche selon le sous-alinéa 37(1)a)i) de la Loi de l'impôt sur le revenu;
+j) le montant de 1 493 044 $ n'est pas une dépense engagée par la Société relativement à des activités de recherche scientifique et de développement expérimental;
+SOUS RÉSERVE DE CE QUI EST PLAIDÉ CI-HAUT, LE SOUS-PROCUREUR GÉNÉRAL DU CANADA AJOUTE CE QUI SUIT :
+20. L'appelant savait, qu moment de l'acquisition de sa participation dans la prétendue Société qu'il récupérerait dans un court laps de temps, un montant représentant environ 50 % de sa participation.
+21. L'appelant avait reçu l'engagement des promoteurs-vendeurs qu'il récupérerait dans un court laps de temps un montant représentant environ 50 % de sa participation.
+22. Tous les membres de la prétendue Société ont reçu, dans un court laps de temps après l'acquisition de leur participation, un montant représentant environ 50 % de leur participation.
+23. Zuniq n'avait à sa disposition, en réalité, qu'environ 50 % des fonds investis pour exécuter les obligations énoncées dans le contrat conclu avec la prétendue Société.
+24. L'utilisation d'un stratagème de « rachat » de la participation des membres pour un montant représentant environ 50 % de leur participation représentait pour les promoteurs et les membres de la prétendue Société une caractéristique essentielle de « l'abri fiscal » dont ils étaient réciproquement vendeurs et acheteurs.
+25. L'appelant avait le droit de recevoir un montant, lequel lui était accordé en vue de supprimer ou de réduire l'effet d'une perte du fait qu'il avait une participation dans la prétendue Société.
+26. L'appelant a bénéficié d'un mécanisme prévoyant la disposition de sa participation dans la prétendue Société et dont il est raisonnable de considérer qu'un des principaux objets consiste à tenter de le soustraire à l'application du paragraphe 96(2.4) de la Loi de l'impôt sur le revenu;
+27. L'obtention d'une réduction de son impôt à payer en vertu de la Loi de l'impôt sur le revenu est la seule raison pour laquelle l'appelant est devenu membre de la prétendue Société.
+28. Les membres de la prétendue Société ne se connaissent pas et ne travaillaient pas activement dans la prétendue Société;
+29. L'appelant est un associé qui de façon régulière, continue et importante tout au long de l'année en litige où la prétendue Société prétend exploiter habituellement son entreprise, ne prend pas une part active dans les activités de l'entreprise de la prétendue Société et n'exploite pas une entreprise semblable à celle que la prétendue Société représente exploiter au cours de cette année.
+30. La prétendue Société n'avait aucune raison d'être sauf servir de véhicule qui génère des remboursements d'impôt et qui sert comme outil de financement aux corporations du groupe Zuniq;
+31. L'appelant n'avait aucune intention de former un contrat de société; l'appelant et les co-contractants n'avaient pas l'intention de travailler ensemble pour faire produire des bénéfices à la prétendue entreprise.
+32. Les activités que la prétendue Société considère être de la recherche ne comportent, dans les circonstances, aucun espoir raisonnable de profit, de sorte que la prétendue Société n'exploitait pas à cet égard une entreprise.
+Année d'imposition 1988
+[4] Le ministre du Revenu national (le « ministre » ) a refusé d'accorder à l'appelant un crédit d'impôt à l'investissement de 1 998,72 $ relativement à un investissement dans la société AHD en 1988.
+[5] Ce crédit d'impôt à l'investissement a été refusé aux termes de l'article 37 de la Loi et de l'article 2900 du Règlement de la Loi de l'impôt sur le revenu (le « Règlement » ).
+[6] Dans sa déclaration de revenus, l'appelant n'a déduit qu'une portion de ce crédit d'impôt à l'investissement, soit 569,77 $.
+[7] Par ailleurs, le ministre a permis la déduction de la totalité de la perte d'entreprise réclamée par l'appelant relativement à son investissement dans la société.
+Année d'imposition 1989
+[8] Le ministre a refusé d'accorder la déduction du montant de 1 353,72 $ équivalent à la portion du crédit d'impôt à l'investissement inutilisée en 1988, mais reportée en 1989 (soit 1 998,72 $ - 569,77 $).
+[9] Au moment de l'audition, l'appelant se représentait lui-même. Comme le fardeau de la preuve lui incombait, il eût été usuel qu'il procède en premier à la présentation de sa preuve.
+[10] Pour lui faciliter la tâche et pour faire en sorte qu'il sache le plus exactement possible pourquoi et comment l'intimée en était arrivée à établir les cotisations à l'origine de sa contestation, il a été convenu que l'intimée fasse d'abord la présentation de sa preuve.
+[11] L'intimée a très bien résumé la preuve constituée par le témoignage de madame Sonia Borin et du témoignage de monsieur Claude Papion en qualité d'expert. Je reproduis donc le résumé de cette preuve préparé par les avocats de l'intimée, dans les paragraphes qui suivent.
+[12] Madame Sonia Borin a agi comme agent d'opposition et coordonnatrice de tous les avis d'opposition logés par les investisseurs de 12 sociétés de personnes formées au cours des années 1986 à 1988 ( « sociétés du groupe Zuniq » ), dont la société d'informatique AHD Enr. ( « la société AHD » ). Elle a analysé l'ensemble des informations obtenues par l'Agence des douanes et du revenu du Canada (l' « Agence » ) et son travail a été consigné dans un rapport intitulé « Rapport sur une opposition » .
+[13] La société AHD est l'une des 12 sociétés du groupe Zuniq qui ont été formées par monsieur Hien Vohang et son groupe, principalement constitué de proches parents et d'employés de Zuniq ( « le groupe Zuniq » ).
+[14] La société AHD a été créée le 2 février 1988. Les membres fondateurs de la société sont Hien Vohang et son épouse, Anh Nguyen. Entre mai et septembre 1988, la société AHD a recueilli 1 493 500 $ de 115 investisseurs dont l'appelant.
+[15] Hien Vohang est l'unique actionnaire, le président et l'âme dirigeante de Zuniq Corporation Inc. ( « Zuniq » ). Cette dernière prétendait exécuter différents travaux de recherche scientifique et de développement expérimental et pour ce faire, diverses sociétés de personnes ont été créées en vue d'obtenir du financement.
+[16] En 1988, la société AHD a conclu une entente avec Zuniq pour l'exécution de travaux de recherche scientifique et de développement expérimental concernant une projet nommé « Perfied » . Zuniq aurait conclu des ententes relativement à ce projet de recherche avec Dias Informatique Inc., Data Age Corp. et Système Inar ( « corporations du groupe Zuniq » ). Toutes ces corporations ont un lien avec Zuniq ou Hien Vohang.
+[17] Dans les faits, Dias Informatique Inc. se sert de la même adresse que Zuniq et la personne-contact pour cette corporation est Lise Gauthier, employée de Zuniq. Data Age Corp. utilise aussi la même adresse postale que Zuniq et son unique actionnaire est l'un des membres de l'équipe de recherche de Zuniq. Finalement, l'administratrice et l'unique actionnaire de Système Inar est Anh Nguyen, l'épouse de Hien Vohang.
+[18] Aux termes des factures soumises par la société AHD qui ne contiennent aucune description des travaux effectués, cette dernière a payé, à Zuniq et les corporations du groupe Zuniq un montant total de 1 493 043 $.
+[19] Finalement, la société AHD n'a présenté des états financiers que pour l'année d'imposition 1988 pour un exercice financier de 11 mois se terminant le 31 décembre 1988. La société a déclaré une perte nette de 1 492 544 $, dont un montant de 1 472 393 $ à titre de frais de recherche et développement expérimental. Cette perte correspond presque entièrement à la totalité des apports des investisseurs.
+Rachat des parts
+[20] En janvier 1989, les investisseurs de la société AHD ont vendu leurs participations pour un montant équivalent à 50 % de leur mise de fonds initiale.
+[21] Selon les formules de cession, c'est Dalat Investment Inc., une autre corporation du groupe Zuniq, qui a acquis les participations des investisseurs. Or, cette corporation n'a produit aucune déclaration de revenus auprès de l'Agence. Malgré cela, Anh Nguyen, l'épouse de Hien Vohang, a signé au nom de cette corporation des formules de cession relatives à une autre société du groupe Zuniq, soit la société ALH.
+[22] L'appelant savait au moment de l'acquisition de sa participation dans la société AHD, car il avait reçu l'engagement des promoteurs-vendeurs, qu'il récupérerait dans un court laps de temps, un montant représentant environ 50 % de sa participation.
+[23] D'ailleurs, le rendement de l'investissement de l'appelant dans la société AHD s'effectuait par le biais des déductions fiscales et par le « rachat » à court terme de sa participation pour un montant équivalent à 50 % de sa mise de fonds.
+Participation de l'appelant
+[24] Lors de l'audition, l'appelant a admis avoir participé à quatre ou cinq rencontres dans les bureaux de Zuniq, avec monsieur Vohang et quelques scientifiques, lors desquelles l'appelant a exprimé certaines observations quant aux objectifs de la recherche, il n'a cependant pas été impliqué dans les décisions ni dans les opérations de la société de façon continue et régulière.
+[25] D'ailleurs, les membres de la société, dont l'appelant, ne se connaissaient pas et ne travaillaient pas activement dans la société.
+Les sociétés du groupe Zuniq
+[26] Les documents examinés par madame Borin l'ont également menée à conclure que les 12 sociétés du groupe Zuniq étaient toutes gérées par le groupe Zuniq et procédaient de la même façon. D'ailleurs, elles utilisaient la même adresse postale que Zuniq.
+[27] Comme par la société AHD, avant la fin de la période de souscription, les sociétés concluaient un contrat de recherche avec Zuniq ou une corporation du groupe Zuniq pour un montant équivalent au total des souscriptions obtenues. Par la suite, souvent le même jour, Zuniq concluait des sous-contrats avec d'autres corporations du groupe.
+[28] Pour chacune des sociétés, il n'y avait qu'un seul état financier pour un exercice variant de 52 jours à 11 mois, qui se terminait au 31 décembre. Dans tous les cas, la fin de l'exercice correspondait au délai accordé à Zuniq et aux autres corporations du groupe Zuniq (sous-contractantes) pour compléter les travaux de recherche. Les états financiers démontraient toujours une perte causée par des dépenses de recherche et développement expérimental, dont le total était quasi équivalent au total des mises de fonds des investisseurs et au montant prévu au contrat de recherche octroyé à Zuniq ou à une corporation du groupe Zuniq.
+[29] Les investisseurs souscrivaient à la société très peu de temps avant la fin de l'unique exercice financier. Dès le début de l'année suivante, les parts de chacun des investisseurs étaient « rachetées » par une corporation du groupe Zuniq pour un montant variant entre 50 % et 60 % de leur mise de fonds initiale.
+[30] Conséquemment, la période de détention des parts des investisseurs variait de quelques semaines à quelques mois (tout au plus 8 mois). Finalement, aucune évaluation de la juste valeur marchande des parts des 12 sociétés du groupe Zuniq n'a été soumise pour justifier le prix du « rachat » .
+Témoignage de Claude Papion
+[31] Monsieur Claude Papion a témoigné à titre d'expert reconnu par le Tribunal.
+[32] La société AHD soutient avoir dépensé une somme de 1 493 044 $ pour des activités de recherche et développement en 1988.
+[33] Pour évaluer l'admissibilité des activités de la société AHD, aux termes de l'article 37 de la Loi et de l'article 2900 du Règlement, monsieur Papion a utilisé les trois critères élaborés par l'Agence dans la circulaire d'information 86-4R2 : l'avancement de la science ou de la technologie, l'incertitude scientifique ou technologique et le contenu scientifique ou technique.
+[34] L'examen de la nombreuse documentation fournie à monsieur Papion par les représentants de la société, a démontré qu'aucune incertitude scientifique ou technologique n'avait été identifiée. Par conséquent, aucun travail visant à dissiper une incertitude scientifique ou technologique n'a pu être exécuté et évidemment, aucun avancement technologique ou scientifique n'a pu être démontré.
+[35] Tous les documents fournis, selon monsieur Papion, ne font état que de l'intention d'utiliser des outillages logiciels existant selon une démarche d'application de pratique courante, mais sans en identifier les déficiences.
+[36] Pour la même année d'imposition, deux autres sociétés du groupe Zuniq, les sociétés ALH Enr. et ALTA Enr., ont soutenu avoir dépensé, pour des activités de recherche et développement en 1988, des montants de 3 170 000 $ et de 551 063 $ respectivement.
+[37] Le projet de ces deux sociétés portait exactement sur le même sujet que celui de la société AHD. Globalement, ces trois sociétés ont réclamé environ cinq millions de dollars de dépenses de recherche scientifique et de développement expérimental pour le même projet. Malgré cette prétention, monsieur Papion a estimé à seulement 1.5 personne par année l'ampleur totale de la contribution de l'équipe de recherche au projet. De plus, au 7 février 1990, selon le document « Bilan » (onglet 19, page 96, de la pièce I-3), 99.3 % des travaux n'était pas encore complété.
+[38] Finalement, monsieur Papion a conclu que les activités de la société AHD ne rencontraient pas les critères de l'article 37 de la Loi et de l'article 2900 du Règlement. Pour appuyer ses conclusions, monsieur Papion a utilisé des critères approuvés par les tribunaux. Voir à cet effet la décision Northwest Hydraulic Consultants Ltd. c. Canada, [2001] A.C.I. no 340 (QL) et la décision de la Cour d'appel fédérale C.W. Agencies Inc. c. Canada, [2001] A.C.F. no 1886 (QL).
+Analyse
+[39] La preuve de l'intimée a nécessité une journée complète d'audition au cours de laquelle l'appelant a été très attentif mais aussi manifestement très surpris et étonné devant l'étalement des faits à l'origine des cotisations qui font l'objet des présents appels.
+[40] La preuve de l'intimée a fait ressortir de manière non équivoque les éléments suivants :
+· Le projet de la société AHD n'était pas admissible en ce qu'il ne s'agissait aucunement d'un projet de recherche scientifique puisque le projet ne respectait pas les caractéristiques minimales pour constituer à un véritable projet de recherche.
+· L'appelant n'avait pas pris une part active dans les activités de la société de façon régulière, continue et importante ce qui faisait de lui un associé passif.
+· Au moment de l'investissement, il avait été convenu que l'appelant disposerait de ses parts, dès le début de l'an 1989, moyennant une considération correspondant à 50 % de sa mise de fonds initiale faisant de lui un associé commanditaire selon les article 96(2.2) et 96(2.4 de la Loi.
+· (L'appelant a formellement admis avoir été un associé passif et les faits qui faisaient de lui un associé commanditaire).
+[48] Ayant manifestement compris que l'intimée avait démontré, d'une manière très convaincante, trois réalités, soit l'absence d'une véritable recherche, soit qu'il avait été un associé passif et soit que son véritable statut en avait été un d'associé commanditaire, l'appelant a sagement conclu qu'il perdait son temps en poursuivant sa contestation, il a dès lors consenti à jugement. Conséquemment, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 21e jour de juillet 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2006CCI420
+N º s DES DOSSIERS DE LA COUR : 1999-505(IT)I et 2004-728(IT)I
+INTITULÉ DES CAUSES : BENOIT AMAR ET LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATES
+Audience : les 14 et 15 février 2006
+Plaidoirie écrite de l'appelant : le 28 février 2006
+Argumentation de l'intimée : le 12 avril 2006
+MOTIFS DU JUGEMENT PAR : l'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 21 juillet 2006
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocates de l'intimée :
+Me Anne-Marie Boutin
+Me Johanne Boudreau
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

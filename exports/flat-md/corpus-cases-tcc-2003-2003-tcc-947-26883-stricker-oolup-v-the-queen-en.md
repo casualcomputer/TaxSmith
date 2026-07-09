@@ -1,0 +1,136 @@
+---
+title: "Stricker Oolup v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26883/index.do"
+last_modified: "2003-12-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 947"
+citation2: ""
+neutral_citation: "2003 TCC 947"
+decision_date: "2003-12-30"
+language: "en"
+item_id: "26883"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 755
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:19:39.201000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3a725963d205ba00ea270f44e368f930c1bb1bf224af9ff1918f18e7453c9840"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stricker Oolup v. The Queen
+
+- Citation: 2003 TCC 947
+- Decision date: 2003-12-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 755, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stricker Oolup v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-30
+Neutral citation
+2003 TCC 947
+File numbers
+2003-775(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-775(IT)I
+BETWEEN:
+SANDRA STRICKER OOLUP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 3, 2003 at Toronto, Ontario
+Before: The Honourable Justice G. Sheridan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Brent Cuddy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of December 2003.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2003TCC947
+Date: 20031230
+Docket: 2003-775(IT)I
+BETWEEN:
+SANDRA STRICKER OOLUP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+ISSUE
+[1] The issue is whether $10,000 received by the Appellant in the 2000 taxation year was her property as the surviving joint GIC account holder or was income paid to her in the form of executor's fees.
+FACTS
+[2] Sandra Oolup is a teacher, the only daughter in a family of five children. After her mother died, she became especially close to her grandparents, visiting them regularly and helping them to manage their affairs. Their savings were held jointly in a GIC account. Ms. Oolup's name was added to this account while both of her grandparents were alive. Her grandfather died in 1996; her grandmother, in 1998.
+[3] Ms. Oolup became the executrix of her grandmother's estate after her aunt declined to act in this capacity. Having had no experience in estate matters, Ms. Oolup contacted the only lawyer she knew, a Mr. Shea, who had handled her house purchase. He advised her that because she was named in the GIC certificates as a joint account holder, the $200,000 in the account was now her property. Ms. Oolup's evidence is that she accepted and agreed with her lawyer's advice. For reasons of family harmony, however, she chose to keep only $10,000 from the GIC account and to divide the rest equally among her grandmother's children or their heirs.
+ANALYSIS
+[4] The Minister argues that the $200,000 GIC account formed part of Ms. Oolup's grandmother's estate and the $10,000 amount was paid to Ms. Oolup out of that account for services rendered as executrix of the estate. Relying on the presumption of resulting trust as enunciated by the Supreme Court of Canada in Niles v. Lake[1], the Minister argues that Ms. Oolup has the onus of proving that the money in the GIC fund became hers following her grandmother's death. The Minister says that the mere fact that the GIC's were held in a joint account is not enough to rebut the presumption that they form part of the estate. In support of his argument, the Minister points to Ms. Oolup's evidence: she admitted that none of her money had been used to purchase the GIC's, a fact which in Hammond v. Hammond[2] contributed to the plaintiff's failure to rebut the presumption. Further support for the premise that the GIC's formed part of the estate appears in Ms. Oolup's testimony that she used the GIC funds to pay the estate expenses, that she distributed the balance among family members in shares that mirrored the terms of the will and that the $10,000 was described as "Executrix Fees" in a "Distribution & Release" form prepared by her lawyer. Taken as a whole, the Minister argues, this leads to the conclusion that the GIC's formed part of the estate, $10,000 of which was ultimately paid to Ms. Oolup as executor's fees. From that it follows that the $10,000 ought to have been included to Ms. Oolup's income for the taxation year 2000.
+[6] Ms. Oolup argues that her evidence rebuts the presumption. Her uncontroverted testimony is that her grandmother consistently told her that she wanted her to have the GIC funds following her death. This distinguishes Ms. Oolup's situation from that in Hammond where the plaintiff admitted his mother had never said that she was setting up the joint account so that when she died the money would be his. Another factor against the plaintiff in Hammond was that the only reason the joint accounts had been set up was so the plaintiff could pay his mother's bills. Ms. Oolup's unchallenged evidence is that the GIC funds were not used for everyday financial transactions; rather, her grandmother had maintained a separate solely held chequing account for this purpose and granted Power of Attorney to Ms. Oolup so she could see to such matters.
+[7] Ms. Oolup is a credible witness. Her explanation of events is reasonable in the unique circumstances of this case and the reality of the family dynamic. Although she accepted her lawyer's opinion that the GIC funds belonged to her as the surviving joint account holder, she "didn't feel comfortable" with the idea of keeping all the money for herself. She knew her grandmother wanted her to have the GIC's because of all the time they had spent together. She found repugnant, however, the prospect of her relatives concluding that the money had been her motivation behind her devotion to her grandparents. To avoid this outcome, she chose to share all but $10,000 of "her" GIC money with her family.
+[8] In answer to the Minister's assertions regarding the impact of the documentary evidence, Ms. Oolup argues that bare description of the $10,000 as "executrix fees"in what is clearly a standard form Distribution & Release letter is not determinative of the issue. Her evidence is that this document had been prepared "out of habit" and, in the words of her lawyer " ... for the sake of convenience". Given the modest amounts involved and the unique quality of Ms. Oolup's generous impulses, Mr. Shea's resort to the use of more-or-less applicable standard form documents provided a practical, if somewhat imprecise, record of the transaction. On the evidence presented, Ms. Oolup's decision to share the GIC money equally among her grandmother's four children is as consistent with wanting to keep peace in the family as it is with giving effect to the terms of the will.
+[9] The Court is satisfied that on a balance of probabilities, the Appellant has successfully rebutted the presumption of resulting trust and that the GIC funds became her property following her grandmother's death. Accordingly, the $10,000 retained by the Appellant as the surviving joint account holder was not received as executor's fees and ought not to be included as income under s. 5(1).
+[10] The appeal is allowed.
+Signed at Ottawa, Canada, this 30th day of December 2003.
+Sheridan, J.
+CITATION:
+2003TCC947
+COURT FILE NO.:
+2003-775(IT)I
+STYLE OF CAUSE:
+Sandra Stricker Oolup and H.M.Q.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 3, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+December 30, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Brent Cuddy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1947] S.C.R. 291
+[2] [1995] B.C.J. No. 1153

@@ -1,0 +1,142 @@
+---
+title: "Demers v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29921/index.do"
+last_modified: "2010-07-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 402"
+citation2: ""
+neutral_citation: "2010 TCC 402"
+decision_date: "2010-07-28"
+language: "en"
+item_id: "29921"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6470
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:07:55.854000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "45e7f36450d01bd38d0c57ed2bd565b7fbfeb1e0e5edb43bd6f39432452e6198"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Demers v. The Queen
+
+- Citation: 2010 TCC 402
+- Decision date: 2010-07-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6470, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Demers v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-28
+Neutral citation
+2010 TCC 402
+File numbers
+2009-3589(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3589(IT)I
+BETWEEN:
+MARC DEMERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 22, 2010, at Montreal, Quebec
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2006 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of July, 2010.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2010TCC402
+Date: 20100728
+Docket: 2009-3589(IT)I
+BETWEEN:
+MARC DEMERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The issue in this Informal Procedure appeal is whether the Appellant, Marc Demers, is entitled to deduct an allowable business investment loss (“ABIL”) of $37,000 in his 2006 taxation year. Mr. Demers represented himself at the hearing and was the only witness to testify. He was credible in his evidence and well‑organized in his submissions. The difficulty is that his claim for an ABIL cannot be justified under the Income Tax Act.
+[2] Mr. Demers admitted all of the assumptions of fact upon which the Minister based his reassessment:
+a) On February 10, 2003, by way of transfer, pursuant to section 147.3 of the Income Tax Act R.S.C. 1985, c.1 (5th Supp.) as amended (the “Act”), the Appellant transferred from the Régime de retraite Société de transport de Montréal (hereinafter “the Regime”) $55,000 to a self directed Registered Retirement Savings Plan (hereinafter “the RRSP”);
+b) The funds so transferred were under the trust of CTI Capital Inc. and the RRSP acquired 55,000 common shares of Société Coopérative de producteurs de bois précieux Québec Forestales Inc. (hereinafter “the Coop”);
+c) On July 31, 2003, by way of transfer, pursuant to subsection 146(16) of the Act the Appellant transferred from the Caisse d’économie des employés STCUM account Compte de retraite immobilisé (hereinafter “the CRI”) $19,000 to the RRSP;
+d) The funds so transferred were under the trust of CTI Capital Inc. and the RRSP acquired 19,000 common shares of the Coop;
+e) The Appellant was the beneficiary of the RRSP;
+f) During the taxation years that the Appellant had made contributions to the Regime and CRI he had benefited from the deduction from his income for such contributions;
+g) On the statement from the trustee CTI Capital Inc. for October 31, 2006, the fair market value of the investment in Appellant’s RRSP for the Coop was NIL.[1]
+[3] As it turned out, the entire $74,000 transferred to the self-directed RRSP with CTI Capital Inc. was ultimately lost. Mr. Demers seeks a deduction for one‑half that amount under s.38(c) of the Act.
+[4] Mr. Demers’ position is that the $74,000 ought to be deductible as an ABIL because the funds transferred to CTI Capital Inc. in trust were, in fact, treated as his personal property. Firstly, the source of the $74,000 was his employment; that amount was also described in CTI Capital Inc.’s statements as “votre portefeuille de titres”[2]. As further proof of the personal nature of his interest, he put in evidence a subpoena issued in his name by the Commission des valeurs mobilières du Québec on August 28, 2003[3]. While the evidence on this point is not clear, it seems that in 2003 there was some sort of provincial inquiry concerning investments in Coopératives de Producteurs de bois précieux Québec Forestales (referred to herein as the “Co-op”). The proceedings in respect of which the subpoena was issued were ultimately cancelled but under the subpoena, Mr. Demers was directed to bring to the inquiry various documents having to do with his investments in the Co-op. Mr. Demers argued that the fact that the subpoena had been issued in his name rather than to CTI Capital Inc. shows that the investment was personal to him.
+[5] Mr. Demers also relied on the fact that in 2002 and 2003 Revenue Québec had accepted his claim for a deduction of amounts invested in Coop[4] and had allowed his claim for an ABIL of $37,000 in 2006[5].
+[6] The Minister’s position is that no amount is deductible by Mr. Demers because the $74,000 was held for him in trust by CTI Capital Inc.; thus, while the trustee might be able to claim an ABIL[6], the deduction is not available to Mr. Demers personally. Counsel for the Respondent argued further that the only circumstance in which a taxpayer might personally claim an ABIL is subsection 146(6) but that provision does not apply to Mr. Demers because the funds transferred to CTI Capital Inc. in trust were not a “non-qualified investment” as defined in subsection 146(1) of the Act. Mr. Demers admitted the assumptions in which such amounts are described as “registered retirement savings plan” funds. A “registered retirement savings plan” incorporates the definition of “retirement savings plan” set out in subsection 146(1):
+(a) a contract between an individual and a person licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada an annuities business, under which, in consideration of payment by the individual or the individual’s spouse or common-law partner of any periodic or other amount as consideration under the contract, a retirement income commencing at maturity is to be provided for the individual, or
+(b) an arrangement under which payment is made by an individual or the individual’s spouse or common-law partner
+(i) in trust to a corporation licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada the business of offering to the public its services as trustee, of any periodic or other amount as a contribution under the trust,
+[7] Finally, the Minister argued that Mr. Demers had already been permitted an RRSP contribution deduction for the various amounts making up the $74,000 invested and subsequently lost; it would be a duplication to allow a further deduction of that an amount as an ABIL.
+Analysis
+[8] The evidence presented does not justify interfering with the Minister’s reassessment. Mr. Demers admitted that the $74,000 was transferred under the trust of CTI Capital Inc. As such, although Mr. Demers was the beneficiary of the funds invested, the property was that of the trustee. Neither the description of the investments in the CTI Capital Inc. statements or the issuance of a subpoena to Mr. Demers alters that fact. The subpoena is particularly unpersuasive; it is not at all clear what the circumstances of its issuance were or what purpose his testimony was intended to serve. In any event, nothing came of it that is relevant to this appeal.
+[9] As for Mr. Demers’ other arguments, the federal Minister of National Revenue is not bound by the assessment of Revenue Québec. His duty is to reassess in accordance with the Income Tax Act. As for Mr. Demers’ further argument that there is nothing in the Act to prohibit him from claiming an ABIL, the question is not whether the deduction is prohibited but rather, whether he can satisfy the statutory criteria for making such a claim. This he is unable to do as it was not his property that was disposed of as required under paragraph 39(1)(c); accordingly, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 28th day of July, 2010.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2010TCC402
+COURT FILE NO.: 2009-3589(IT)I
+STYLE OF CAUSE: MARC DEMERS AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: June 22, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: July 28, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Reply to the Notice of Appeal, at paragraph 10.
+[2] Exhibit A-1.
+[3] Exhibit A-4.
+[4] Exhibit A-3.
+[5] Exhibit A-2.
+[6] Subsection 104(2) deems a trustee to be an individual for the purposes of the Income Tax Act.

@@ -1,0 +1,196 @@
+---
+title: "Feizmohammadi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/218898/index.do"
+last_modified: "2017-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 28"
+citation2: ""
+neutral_citation: "2017 TCC 28"
+decision_date: "2017-02-16"
+language: "en"
+item_id: "218898"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2258
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:28:08.160000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f71644eb530eb80eafc871a6d1a00b579b2abbe7f554402fc6fe58eaa4dce08d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Feizmohammadi v. The Queen
+
+- Citation: 2017 TCC 28
+- Decision date: 2017-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2258, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Feizmohammadi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-02-16
+Neutral citation
+2017 TCC 28
+File numbers
+2016-570(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-570(IT)I
+BETWEEN:
+MOHAMMAD FEIZMOHAMMADI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 6, 2016, at Toronto, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Agent for the Appellant:
+Soheila Aliakbarli
+Counsel for the Respondent:
+Rachel Hepburn Craig
+JUDGMENT
+For the attached reasons for judgment, the appeal from the reassessment made under the Income Tax Act for the 2010 taxation year is dismissed without costs.
+Signed at Ottawa, Ontario, this 16th day of February 2017.
+“Gaston Jorré”
+Jorré J.
+Citation: 2017 TCC 28
+Date: 20170216
+Docket: 2016-570(IT)I
+BETWEEN:
+MOHAMMAD FEIZMOHAMMADI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+[1] In 2010 the Appellant sold a 560 square feet condominium which I shall refer to as the Yonge Street property. The disposition was not reported in the Appellant’s 2010 income tax return.
+[2] The Minister of National Revenue assessed the disposition as business income. The Appellant takes the position that the condominium unit was his principal residence and therefore there should be no tax on the gain.
+[3] Soheila Aliakbarli, the spouse of the Appellant, testified on the Appellant’s behalf. Three exhibits were filed by the Respondent.
+[4] The case is essentially one of fact and turns on whether I accept the Appellant’s evidence.
+[5] The Appellant was reassessed on September 18, 2014. He filed a notice of objection and subsequently filed a notice of appeal in this Court on February 19, 2016.
+[6] The Appellant attached to his notice of appeal a letter dated February 12, 2016 from the Appeals Division of the Canada Revenue Agency. It sets out at some length the reasons for the Minister’s decision with respect to the notice of objection. The letter itself was not a reassessment.
+[7] Although that letter is dated February 12, 2016, it was only implemented by the reassessment dated April 18, 2016, the reassessment in issue in this appeal. [1]
+[8] Two matters are no longer in issue.
+[9] In the reassessment of April 18, 2016, the second reassessment, the Minister eliminated gross negligence penalties that had previously been assessed; the Minister also reduced the quantum of the gain to allow for additional expenses.
+[10] The notice of appeal asks that interest be waived; to the extent this is a reference to subsection 220(3.1) of the Income Tax Act, that power is not one that this Court can exercise. The power in that subsection is exercised by the Minister and has its own application process.
+[11] In assessing the Minister made the following assumptions of fact:
+a) on February 16, 2007 the Appellant entered into a purchase and sale agreement to purchase 2003-5508 Yonge St (the “Condo”);
+b) the purchase price of the Condo was $211,833;
+c) the Condo was a 1 bedroom unit of 560 sq ft;
+d) the Appellant took possession of the Condo on November 3, 2009;
+e) the Appellant listed the Condo for sale on December 19, 2009;
+f) the Appellant disposed of the Condo on January 12, 2010 to an unrelated party;
+g) the Condo was sold for $277,000;
+h) the Appellant did not enter into a lease agreement to tenant the Condo;
+i) the Appellant did not report rental activities for the Condo in the 2010 taxation year;
+j) the Appellant incurred not more than $21,283 in outlays associated with the purchase and sale of the Condo;
+k) the Appellant did not report the sale of the Condo in his return of income for the 20l0 tax year;
+1) the Appellant’s spouse acted as a real estate agent on the sale of the Condo;
+m) at all material times, the Appellant was the owner of the Condo;
+n) the Appellant never changed his address with the Canada Revenue Agency (“CRA”) to the address of the Condo;
+o) the Appellant did not designate the Condo as his personal residence with the CRA;
+p) the Appellant never resided at the Condo;
+q) the Appellant did not ordinarily inhabit the Condo in 2010;
+r) at no time was the Condo the Appellant’s principal residence;
+s) the Appellant and his spouse bought and sold a number of properties from 2007 to 2011;
+t) the Appellant and his spouse were co‑owners (25% each) of a property located at 260 Spring Garden Avenue (“Spring Garden”);
+u) Spring Garden was purchased in August 2007 for $695,000 and sold in February 2010 for $1,370,000;
+v) the Appellant purchased on October 21, 2010 a property located at 1009‑18 Holmes Avenue, North York (“Holmes”);
+w) Holmes was sold for a profit on September 29, 2011; and
+x) the Appellant reported rental income from Holmes in 2011 and his 50% share of the taxable capital gain on his 2011 T1 return.
+[12] The Appellant entered into an agreement of purchase and sale for the Yonge Street property on February 16, 2007 prior to the completion of construction of the building. The property is a one bedroom condominium unit with approximately 560 square feet.
+[13] The Appellant took possession of the property on May 11, 2009 and became the owner on October 30, 2009 at the time of closing.
+[14] One and a half months later on December 16, 2009 the property was listed for sale.
+[15] At that time Ms. Aliakbarli was a real estate agent and she was the listing agent for the sale of the Yonge Street property. Later she gave up her licence as a real estate agent.
+[16] The property sold six days later on December 22, 2009 and the closing date of that sale was January 12, 2010.
+[17] As I stated at the beginning the key question is whether this was the Appellant’s principal residence.
+[18] Ms. Aliakbarli testified that the family moved to Canada in February of 2001. Around that time they bought a condominium unit on Lorraine Drive where she and her husband as well as their three children lived. The unit at Lorraine Drive was approximately 980 square feet.
+[19] In 2009 the family decided to downsize because of their financial situation. This was caused by the recession and, as best I can understand, this was the result of difficulties relating to another property, the Spring Garden property, which the Appellant and Ms. Aliakbarli bought in 2007 and sold at a loss in February 2010 because of the high cost of demolishing and rebuilding the house. The Appellant and Ms. Aliakbarli each had a 25% interest in the Spring Garden property.
+[20] As a result the Lorraine Drive property was sold in April 2009; the closing date was August 18, 2009.
+[21] According to Ms. Aliakbarli, the family moved to the Yonge Street property in June 2009. At that point, the two oldest children were no longer living at home and there was just the Appellant, Ms. Aliakbarli and their youngest child who was a part‑time university student at the time.
+[22] In the period from the time they moved in, in June 2009, until they left in early January 2010, the Appellant himself was away most of the time until December 2009 because he had had to go back to Tehran for the death of his father. Ms. Aliakbarli had also had to travel back and forth to Tehran during this period because her mother became ill; she was away for perhaps one month on one occasion and perhaps two months on another occasion.
+[23] Ms. Aliakbarli also explained that in late 2009 the two older children had decided that in order to be supportive of the Appellant they should move back home. In order to do so, the family would need a larger condo unit.
+[24] The family moved out of the Yonge Street property in early January 2010. At that point they went to live with some relatives until they moved into another condo, the Northtown property. The Northtown property was purchased in January 2010 and they moved into it in February 2010.
+[25] For the reasons that follow, I am unable to accept the Appellant’s evidence on the key point of whether or not the family moved to the Yonge Street property.
+[26] Let me first mention two factors which do not lead me to this conclusion. First, while a 560 square feet one bedroom condo is pretty crowded for two parents and a university age son in itself, such circumstances could arise.
+[27] Second, the Appellant, in responding to the questionnaire which was filed as Exhibit R‑1, did not indicate that the original reason for purchasing the Yonge Street property was as a personal residence. [2] He indicated that it was an investment. I have no difficulty with the possibility that a property purchased for one reason could subsequently be used for another reason. Again, this particular answer on the questionnaire is not a factor.
+[28] However, there are three items of evidence which are impossible to reconcile with anyone in the Appellant’s family having lived in the Yonge Street property.
+[29] First, in the same questionnaire filed as Exhibit R-1, [3] the Appellant is asked: “Did you reside in this property?” His answer is “no”. He is also asked for the names and ages of people who resided with him; he leaves the answer to that question blank.
+[30] While it could be a misunderstanding on the part of the Appellant, I find it unlikely that the Appellant would have given these answers if the subject property had been the family residence for several months.
+[31] Second, on the listing for the subject property, Exhibit R-3, towards the top in the middle just below the name of the sellers, one finds “Occup:” which clearly means occupant or occupancy and next to it the word “Tenant”. While this could be an error as suggested, I think it is unlikely given that the listing agent was Ms. Aliakbarli and she would have provided the information about the property.
+[32] If there was a tenant the family could not be living there.
+[33] Third, Exhibit R-2 contains two electricity bills, one dated September 24, 2009 and one dated January 22, 2010. These are addressed to the Appellant and are in respect of the Yonge Street property.
+[34] There is, however, something quite odd about these bills. Both are headed “FINAL BILL”. The first one covers the period from May 11, 2009 to July 1, 2009. The second covers the period from December 31, 2009 to January 12, 2010.
+[35] The first bill shows electricity usage of 164 kWh and a total bill of $179.97.
+[36] When one looks at the second, later, bill it shows on the right side under the heading “Compare your daily usage” the reading date of January 12, 2010 with a usage of 20 kWh and it shows an earlier reading date of July 1, 2009 with 164 kWh usage. In addition, on the left side four lines above the line which says in bold letters “Total Due by Feb 10 2010”, it shows “Amount of last bill” as $179.97.
+[37] The 164 kWh usage shown on the second bill is exactly the same as the usage shown on the first bill; the $179.97 amount shown as the “Amount of last bill” on the second bill is identical with the amount of the first bill.
+[38] The only possible conclusion is that the previous consumption and the amount of the previous bill shown on the second bill is purely and simply the bill dated September 24, 2009 for the period ending on July 1, 2009.
+[39] Consequently, there is either no consumption of electricity after July 1, 2009 and before December 31, 2009 or, for that period, someone else is paying for the electricity and that person is being billed. [4] In either case it is incompatible with the Appellant’s family living at the Yonge Street property.
+[40] Given these three items of the evidence which are inconsistent with members of the family living at the Yonge Street property, it is simply not probable that the Appellant or members of his family ordinarily resided at that property.
+[41] For a dwelling to be a “principal residence”, one of the key conditions is that it must be “ordinarily inhabited in the year by the taxpayer, by the taxpayer’s spouse or . . . by a child of the taxpayer”. [5]
+[42] As the Appellant does not meet that requirement, the appeal is dismissed.
+Signed at Ottawa, Ontario, this 16th day of February 2017.
+“Gaston Jorré”
+Jorré J.
+CITATION:
+2017 TCC 28
+COURT FILE NO.:
+2016-570(IT)I
+STYLE OF CAUSE:
+MOHAMMAD FEIZMOHAMMADI v. THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 6, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+February 16, 2017
+APPEARANCES:
+Agent for the Appellant:
+Soheila Aliakbarli
+Counsel for the Respondent:
+Rachel Hepburn Craig
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] At the time the Appellant filed his notice of appeal, much more than 90 days had passed since he filed his notice of objection and he had not received either a notice of confirmation or, strictly speaking, a reassessment. As a result, the Appellant could validly appeal to this Court pursuant to paragraph 169(1)(b) of the Income Tax Act.
+Understandably the Appellant treated the letter of February 12, 2016 as if it were a reassessment. However at that point at the time the notice of appeal was filed, the appeal could only be against the first reassessment, the reassessment of September 18, 2014. Technically, the notice of appeal should have been amended in accordance with paragraph 165(7)(b) of the Income Tax Act:
+(7) Where a taxpayer has served . . . a notice of objection to an assessment and thereafter the Minister reassesses . . . and sends to the taxpayer a notice of the reassessment . . . the taxpayer may, without serving a notice of objection to the reassessment . . .
+(a) . . .
+(b) amend any appeal to the Tax Court of Canada that has been instituted with respect to the assessment by joining thereto an appeal in respect of the reassessment . . . in such manner and on such terms, if any, as the Tax Court of Canada directs.
+No issue was raised in this respect. However, without deciding whether it is necessary to do so, given that all parties at the hearing clearly understood that this was an appeal of the reassessment of April 18, 2016, given that pursuant to subsection 18.15(3) of the Tax Court of Canada Act appeals “shall be dealt with by the Court as informally and expeditiously as the circumstances and considerations of fairness permit” and given the inherent powers of this Court as a superior court of record to govern its own process, on my own motion, I hereby amend the appeal to be an appeal against the reassessment of April 18, 2016.
+[2] See the top half of the first page of the exhibit.
+[3] Still in the top half of the first page of the exhibit.
+[4] Within the family it is very unlikely one would choose to change the bill to a different member of the household temporarily.
+[5] Paragraph (a) of the definition of “principal residence” in section 54 of the Income Tax Act.

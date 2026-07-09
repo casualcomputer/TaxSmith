@@ -1,0 +1,209 @@
+Title: El Qandil v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/493144/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-12-493144-el-qandil-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-02-18
+
+# El Qandil v. The Queen
+
+- Citation: 2021 TCC 12
+- Decision date: 2021-02-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4607, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+El Qandil v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-02-18
+Neutral citation
+2021 TCC 12
+File numbers
+2019-4567(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-4567(IT)I
+BETWEEN:
+IBTISSAM EL QANDIL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 23, 2020, at Montreal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the appellant:
+Abdellah Kidaei
+Counsel for the respondent:
+Justine Allaire-Rondeau
+JUDGMENT
+The appeal from the redeterminations concerning the 2015 and 2016 base taxation years in respect of the Canada Child Benefit is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 18th day of February 2021.
+"Réal Favreau"
+Favreau J.
+Citation: 2021 TCC 12
+Date: 20210218
+Docket: 2019-4567(IT)I
+BETWEEN:
+IBTISSAM EL QANDIL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from the redeterminations concerning the 2015 and 2016 base taxation years in respect of the Canada Child Benefit ("CCB") claimed by the appellant under the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.), as amended (the "Act").
+[2] Pursuant to these redeterminations, the amounts of $2,272 and $1,827 claimed by the appellant as CCB for the 2015 (July 2016 to June 2017) and 2016 base taxation years (July 2017 to June 2018) respectively were disallowed because the amounts paid under the CCB must be computed taking into account the income of the appellant and her spouse in accordance with section 122.6 and subsection 122.61(c) of the Act.
+[3] At the beginning of the hearing, the respondent brought a motion to dismiss the appellant's appeal from the redetermination regarding the CCB, dated March 20, 2017 in respect of the 2015 base taxation year. In support of its motion, the respondent filed an affidavit from Ms. de Monique Lo, a Litigation Officer with the Canada Revenue Agency's (the "CRA"), Appeals Division, who also testified at the hearing. Ms. Lo's sworn statement indicated that she had performed a careful review of the CRA's records and found that the CRA had not received a notice of objection to the Notice of Redetermination dated March 20, 2017 within the statutory time limit. She also found that the CRA had not received an application for an extension of time to serve a notice of objection on the Minister of National Revenue regarding the Notice of Redetermination dated March 20, 2017 within the time limit set out in the Act.
+[4] Ms. Lo testified that she reviewed the correspondence with the appellant and was unable to find any documents referring to the March 20, 2017 redetermination that could be considered a notice of objection.
+[5] The situation regarding the 2016 base taxation year is different because the CRA considered a letter from the appellant dated November 15, 2018 a valid notice of objection to the October 20, 2017 redetermination.
+[6] Following a change in the appellant's income, the Minister made a notice of reassessment on October 20, 2017 regarding the 2016 base taxation year pursuant to which the appellant's CCB amount was reduced from $15,694 to $13,866, a $1,828 reduction.
+[7] In determining the appellant's entitlement to the CCB for the 2016 base taxation year, the Minister took for granted the following facts (the references and data relating to the 2015 base taxation year and the 2015 taxation year were intentionally omitted):
+a) the appellant has three children:
+- A, daughter born in 2003
+- H, daughter born in 2004
+- M, son born in 2014
+b) during the years at issue, Abdellah Kidaei was the appellant's spouse;
+c) during the 2016 taxation year, the appellant's income was as follows:
+Year
+2016
+UCCB (Universal Child Care Benefit)
+$1,680
+Employment earnings
+$2,080
+Scholarship
+$11,459
+Less:
+-Tuition fees
+($1,342)
+-Basic scholarship exemption
+($500)
+-Child care expenses
+($1,386)
+Total income
+$11,991
+d) Child Care Benefits for the 2016 base taxation year were based on the family income of the appellant and her spouse (net of UCCB) for the 2016 taxation year, which are as follows:
+[Blank / En blanc]
+2016
+2016
+Net income ($)
+Reported
+Assessed
+Appellant
+$2,374
+$11,991
+Appellant's spouse
+$37,234
+$37,234
+Less: UCCB
+($1,680)
+($1,680)
+Family income (net of UCCB)
+$37,928
+$47,545
+[8] The main difference in the computation of the appellant's income for the 2016 taxation year is attributable to the tuition fees that she incurred in 2016 and the tax treatment of the $11,459 scholarship that the appellant received from the Government of Quebec to enable her to continue her studies in order to obtain an early childhood education certificate at the Université du Québec à Montréal.
+[9] The CRA considered the appellant to be a part-time student completing a specified educational program.
+[10] The appellant considered herself a full-time student because, in addition to the hours that she spent in class at the university, she had to complete internships at daycare centres with children aged five and under. According to the appellant, scholarships for full-time students are not taxable.
+The law
+[11] The following provisions of the Act are germane to this dispute:
+Amounts to be included in income for year
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+. . .
+Scholarships, bursaries, etc.
+(n) the amount, if any, by which
+(i) the total of all amounts (other than amounts described in paragraph 56(1)(q), amounts received in the course of business, and amounts received in respect of, in the course of or by virtue of an office or employment) received by the taxpayer in the year, each of which is an amount received by the taxpayer as or on account of a scholarship, fellowship or bursary, or a prize for achievement in a field of endeavour ordinarily carried on by the taxpayer, other than a prescribed prize,
+exceeds
+(ii) the taxpayer's scholarship exemption for the year computed under subsection (3);
+. . .
+Exemption for scholarships, fellowships, bursaries and prizes
+(3) For the purpose of subparagraph (1)(n)(ii), a taxpayer's scholarship exemption for a taxation year is the total of
+(a) the total of all amounts each of which is the amount included under subparagraph (1)(n)(i) in computing the taxpayer's income for the taxation year in respect of a scholarship, fellowship or bursary received in connection with the taxpayer's enrolment
+(i) in an educational program in respect of which an amount may be deducted under subsection 118.6(2) in computing the taxpayer's tax payable under this Part for the taxation year, for the immediately preceding taxation year or for the following taxation year, or
+(ii) in an elementary or secondary school educational program,
+(b) the total of all amounts each of which is the lesser of
+(i) the amount included under subparagraph (1)(n)(i) in computing the taxpayer's income for the taxation year in respect of a scholarship, fellowship, bursary or prize that is to be used by the taxpayer in the production of a literary, dramatic, musical or artistic work, and
+(ii) the total of all amounts each of which is an expense incurred by the taxpayer in the taxation year for the purpose of fulfilling the conditions under which the amount described in subparagraph (i) was received, other than
+(A) personal or living expenses of the taxpayer (except expenses in respect of travel, meals and lodging incurred by the taxpayer in the course of fulfilling those conditions and while absent from the taxpayer's usual place of residence for the period to which the scholarship, fellowship, bursary or prize, as the case may be, relates),
+(B) expenses for which the taxpayer is entitled to be reimbursed, and
+(C) expenses that are otherwise deductible in computing the taxpayer's income, and
+(c) the lesser of $500 and the amount by which the total described in subparagraph (1)(n)(i) for the taxation year exceeds the total of the amounts determined under paragraphs (a) and (b).
+Limitations of scholarship exemption
+(3.1) For the purpose of determining the total in paragraph (3)(a) for a taxation year,
+(a) a scholarship, fellowship or bursary (in this subsection referred to as an "award") is not considered to be received in connection with the taxpayer's enrolment in an educational program described in subparagraph (3)(a)(i) except to the extent that it is reasonable to conclude that the award is intended to support the taxpayer's enrolment in the program, having regard to all the circumstances, including the terms and conditions that apply in respect of the award, the duration of the program and the period for which support is intended to be provided; and
+(b) if an award is received in connection with an educational program in respect of which the taxpayer may deduct an amount by reason of paragraph (b) of the description of B in subsection 118.6(2) for the taxation year, for the immediately preceding taxation year or for the following taxation year (in this paragraph referred to as the "claim year"), the amount included under subparagraph (1)(n)(i) in computing the taxpayer's income for the taxation year in respect of the award may not exceed the amount that is the total of amounts, each of which is the cost of materials related to the program or a fee paid to a designated educational institution in respect of the program, as defined in subsection 118.6(1), in respect of the claim year.
+Definitions
+118.6(1) The definitions that follow apply to sections 63 and 64 and to this subsection.
+. . .
+qualifying educational program means a program of not less than three consecutive weeks duration that provides that each student taking the program spend not less than ten hours per week on courses or work in the program and, in respect of a program at an institution described in the definition designated educational institution (other than an institution described in subparagraph (a)(ii) of that definition), that is a program at a post-secondary school level that does not consist primarily of research (unless the program leads to a diploma from a college or a Collège d'enseignement général et professionnel, or a bachelor, masters, doctoral or equivalent degree) but, in relation to any particular student, does not include a program if the student receives, from a person with whom the student is dealing at arm's length, any allowance, benefit, grant or reimbursement for expenses in respect of the program other than:
+. . .
+specified educational program means a program that would be a qualifying educational program if the definition qualifying educational program were read without reference to the words "that provides that each student taking the program spend not less than 10 hours per week on courses or work in the program". (programme de formation déterminé)
+Education credit
+118.6(2) There may be deducted in computing an individual's tax payable under this Part for a taxation year the amount determined by the formula
+A × B
+where
+A is the appropriate percentage for the year; and
+B is the total of the products obtained when
+(a) $400 is multiplied by the number of months in the year during which the individual is enrolled in a qualifying educational program as a full-time student at a designated educational institution, and
+(b) $120 is multiplied by the number of months in the year (other than months described in paragraph (a)), each of which is a month during which the individual is enrolled at a designated educational institution in a specified educational program that provides that each student in the program spend not less than 12 hours in the month on courses in the program,
+if the enrolment is proven by filing with the Minister a certificate in prescribed form issued by the designated educational institution and containing prescribed information and, in respect of a designated educational institution described in subparagraph (a)(ii) of the definition designated educational institution in subsection (1), the individual has attained the age of 16 years before the end of the year and is enrolled in the program to obtain skills for, or improve the individual's skills in, an occupation.
+adjusted income of an individual for a taxation year, means the total of all amounts each of which would be the income for the year of the individual or of the person who was the individual's cohabiting spouse or common-law partner at the end of the year if in computing that income no amount were
+(a) included
+(i) under paragraph 56(1)(q.1) or subsection 56(6),
+(ii) in respect of any gain from a disposition of property to which section 79 applies, or
+(iii) in respect of a gain described in subsection 40(3.21), or
+(b) deductible under paragraph 60(y) or (z); (revenu modifié).
+Analysis
+[12] At the hearing, evidence was filed indicating that the appellant had indeed received an $11,459 scholarship in 2016 from the Government of Quebec agency known as "Aide financière aux études", which reports to the Ministry of Higher Education. The statement entitled [translation] "Statement of pension income, annuity income or other income" indicating that the appellant received an $11,459 scholarship in 2016 was entered into evidence.
+[13] At the hearing, the appellant alleged that the $11,459 amount was not a scholarship but a repayable loan. The appellant's allegation was not accepted because the appellant failed to demonstrate that the agency responsible for administering the Government of Quebec's loans and bursaries program had made an error in processing her file.
+[14] Because the appellant was enrolled in a program at a post-secondary institution during the 2016 calendar year, in this case the Université du Québec à Montréal ("UQAM"), it is appropriate that the Court analyze the nature of the program to determine whether the appellant was registered as a full-time or part-time student.
+[15] The T2202A tax form that UQAM issued to the appellant for 2016 indicates that the appellant was enrolled part-time in courses to obtain an early childhood education certificate (initial training). The appellant attended two courses per session, in the winter and fall sessions, at a rate of 3 hours per week. According to the T2202A tax form, the appellant paid a total of $1,342.23 in tuition fees in 2016.
+[16] The program in which the appellant participated in 2016 is a specified education program within the meaning of subsection 118.6(1) of the Act, i.e. it would be a qualifying education program if the student had spent not less than 10 hours per week on courses. The appellant was therefore enrolled part-time in courses on which she spent 12 hours per month. Therefore, the appellant was eligible for an education credit under paragraph 118.6(2)(b) based on a $120 amount for each month during which the appellant was enrolled at a "designated educational institution" in a "specified education program" and spent not less than 12 hours per month on courses in the program.
+[17] Accordingly, I find that: the appellant did not attend "UQAM" on a full-time basis; she was not enrolled as a full-time student at UQAM in 2016, and she is therefore not entitled to the tuition tax credit, nor the education credit for full-time studies.
+[18] In my opinion, only objective criteria, such as course and internship hours and the hours spent on program course work, should be considered in determining what constitutes full-time student status.
+[19] Regarding the computation of the CCB claimed by the appellant for the 2016 base taxation year, the Minister had grounds to disallow the $1,827 credit. Pursuant to section 122.6 and subsection 122.61(1) of the Act, amounts paid pursuant to the CCB must be computed taking into account the appellant's net income and her spouse's net income.
+[20] The $9,517 adjustments to the net family income of the appellant and her spouse (net of the Universal Child Care Benefit) for the 2016 taxation year are primarily attributable to the tax treatment of the scholarship that the appellant received in 2016. The $11,459 scholarship was not tax-free. It was added to the appellant's income and only a $500 basic scholarship exemption was allowed as a deduction plus $1,342 of tuition fees.
+[21] These adjustments are in compliance with the provisions of the Act.
+[22] For all these reasons, a) the respondent's motion is allowed and the appeal from the redetermination in respect of the 2015 base taxation year is dismissed, and b) the appeal from the redetermination in respect of the 2016 base taxation year is all dismissed, all the foregoing at no cost.
+Signed at Ottawa, Canada, this 18th day of February 2021.
+"Réal Favreau"
+Favreau J.
+CITATION:
+2021 TCC 12
+DOCKET:
+2019-4567(IT)I
+STYLE OF CAUSE:
+IBTISSAM EL QANDIL
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+September 23, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+February 18, 2021
+APPEARANCES:
+Agent for the appellant:
+Abdellah Kidaei
+Counsel for the respondent:
+Justine Allaire-Rondeau
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+[Blank / En blanc]
+Firm:
+[Blank / En blanc]
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

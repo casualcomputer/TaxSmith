@@ -1,0 +1,109 @@
+Title: McCool v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26877/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-357-26877-mccool-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-05-20
+
+# McCool v. The Queen
+
+- Citation: 2005 TCC 357
+- Decision date: 2005-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 749, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCool v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-20
+Neutral citation
+2005 TCC 357
+File numbers
+2004-659(GST)I
+Judges and Taxing Officers
+Michael J. Bonner
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-659(GST)I
+BETWEEN:
+PATRICK McCOOL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 28, 2005, at Toronto, Ontario
+Before: The Honourable Justice Michael J. Bonner
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Craig Maw
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed.
+Signed at Toronto, Ontario, this 20th day of May 2005.
+Michael J. Bonner
+Bonner, J.
+Citation: 2005TCC357
+Date: 20050520
+Docket: 2004-659(GST)I
+BETWEEN:
+PATRICK McCOOL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bonner, J.
+[1] This is an appeal from an assessment under Part IX of the Excise Tax Act (the “Act”) for the reporting period ending December 31, 1997. By the assessment in issue the Minister of National Revenue (the “Minister”) disallowed part of a deduction claimed under subsection 231(1) of the Act in respect of the Appellant’s 1995 receivables from the practice of law.
+[2] Section 231 allows a deduction in the computation of net tax payable in respect of bad debts written off by the taxpayer. The deductible amount is, in effect, the tax component of the debt that has been found to be bad. Subsections 231(1) and (3) read:
+(1) Bad debts - Where a person has made a taxable supply (other than a zero-rated supply) for consideration to a recipient with whom the person was dealing at arm’s length, to the extent that it is established that the consideration and tax payable in respect of the supply have become in whole or in part a bad debt, the person may, in determining the net tax for the person’s reporting period in which the bad debt is written off in the person’s books of account or for a subsequent reporting period, deduct, the amount determined by the formula
+B
+A x C
+where
+A is the tax payable in respect of the supply,
+B is the total of the consideration, tax and any amount that can reasonably be attributed to a tax imposed under an Act of the legislature of a province that is a prescribed tax for the purposes of section 154 (referred to in this section as “applicable provincial tax”) remaining unpaid in respect of the supply that was written off as a bad debt, and
+C is the total of the consideration, tax and applicable provincial tax payable in respect of the supply,
+provided the person reports the tax collectible in respect of the supply in the person’s return under this Division for the reporting period in which the tax became collectible and remits all net tax, if any, remittable as reported in that return.
+(3) Recovery of bad debt – Where a person recovers all or part of a bad debt in respect of which the person has made a deduction under subsection (1) or (2), the person shall, in determining the net tax for the reporting period of the person in which the bad debt or part thereof is recovered, add the amount determined by the formula
+B
+A x C
+where
+A is the amount of the bad debt recovered by the person;
+B is the tax payable in respect of the supply to which the bad debt relates; and
+C is the total of the consideration, tax and applicable provincial tax payable in respect of the supply.
+[3] Subsection (1) thus imposes two conditions which must be met by the taxpayer who claims the deduction. First, it must be established that the consideration and tax payable in respect of the supply have become a bad debt either in whole or in part. Second, the deduction must have been made in the taxpayer’s books of account for the reporting period or a later period. It is the second condition which is placed in issue here.
+[4] At the hearing of the appeal evidence was given by the Appellant and by Maureen Pappin, a tax consultant who assisted the Appellant. The evidence was somewhat confused and unsatisfactory, not because either witness was untruthful, but rather because Ms. Pappin mixed advocacy with testimony. Moreover, much of what she had to say was hearsay based on information received from the Appellant. Happily, the Appellant was second to testify and thus was available for cross‑examination on information furnished by him to Ms. Pappin.
+[5] The Appellant is a lawyer practicing in the field of criminal law. The bulk of the fees which he earns are paid by the Ontario Legal Aid Plan. According to the Appellant in 1995 the legal aid system was undergoing changes and lawyers were encouraged to submit their accounts as promptly as possible. The accounts were subject to review and reduction by officials of the Plan. Protracted delays in payment were experienced. Thus it happened that in the year 2002 the Appellant reviewed his unpaid receivables for 1995 and found that 142 out of a total of 175 were owing by the Legal Aid Plan.
+[6] In my view a bad debt cannot be considered to have been written off in a person’s books of account unless and until a notation is made in those books that the particular debt has been written off. An unrecorded decision will not suffice. A journal entry ought to be made to clear out each worthless receivable. Otherwise, subsection 231(3) would be impossible to enforce.
+[7] The Appellant’s books of account were kept on a “One–Write” system. They consisted of a cash disbursements journal, a billings and receipts journal, a trust account journal and a client card. No entry was made before the end of the 1997 reporting period in or on any of those financial records indicating that the relevant receivables had been written off as uncollectible. The Appellant did, before the end of that year, review the receivables. He did prepare a summary or memorandum setting out the total amount of the debt which he viewed as uncollectible. He failed however to list in that summary the individual accounts which made up the total. He turned the summary over to Ms. Pappin. He did not make any notation in the books of account identifying the accounts which he believed to be uncollectible. In my view the Appellant failed to meet the requirements of subsection 231(1).
+[8] The appeal will be dismissed.
+Signed at Toronto, Ontario, this 20th day of May 2005.
+Michael J. Bonner
+Bonner, J.
+CITATION: 2005TCC357
+COURT FILE NO.: 2004-659(GST)I
+STYLE OF CAUSE: Patrick McCool and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 28, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice Michael J. Bonner
+DATE OF JUDGMENT: May 20, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

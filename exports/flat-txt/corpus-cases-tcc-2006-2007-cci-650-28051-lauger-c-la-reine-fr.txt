@@ -1,0 +1,364 @@
+Title: Lauger c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28051/index.do
+Corpus path: corpus/cases/tcc/2006/2007-cci-650-28051-lauger-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-10-24
+
+# Lauger c. La Reine
+
+- Citation: 2007 CCI 650
+- Decision date: 2006-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1571, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lauger c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-24
+Référence neutre
+2007 CCI 650
+Numéro de dossier
+2004-1450(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2004-1450(IT)I
+98-2962(IT)I
+98-3234(IT)I
+ENTRE :
+MARJORIE LAUGER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec l'appel de Van Chuong Luu (2002‑1753(IT)I) les 27, 28, 29 et 30 juin et les 23, 24, 25
+et 26 octobre 2006, à Montréal (Québec).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocats de l'intimée :
+Me Anne-Marie Boutin et
+Me Philippe Dupuis
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1988, 1989, 1990 et 1991 sont rejetés, selon les motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 23e jour d’octobre 2007.
+« B. Paris »
+Juge Paris
+Dossier : 2002‑1753(IT)I
+ENTRE :
+VAN CHUONG LUU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Marjorie Lauger 2004‑1450(IT)I, 98‑2962(IT)I, 98‑3234(IT) les 27, 28, 29 et 30 juin et les 23, 24, 25 et 26 octobre 2006, à Montréal (Québec).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Pour l'appelant :
+l'appelant lui‑même
+Avocats de l'intimée :
+Me Anne-Marie Boutin et
+Me Philippe Dupuis
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1989 et 1990 est rejeté, selon les motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 23e jour d’octobre 2007.
+« B. Paris »
+Juge Paris
+Référence : 2007CCI650
+Date : 20071023
+Dossiers : 2004-1450(IT)I
+98-2962(IT)I
+98-3234(IT)I
+2002-1753(IT)I
+ENTRE :
+MARJORIE LAUGER,
+VAN CHUONG LUU,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Ces appels ont été entendus sur preuve commune. L'appelante, Marjorie Lauger, en appelle des cotisations établies pour les années d'imposition 1988, 1989, 1990 et 1991 par le ministre du Revenu national (« Ministre ». L'appelant Van Chuong Luu en appelle des cotisations établies par le Ministre pour les années d'imposition 1989 et 1990.
+[2] Les appelants ont réclamé des pertes d'entreprise et des crédits d'impôt à l'investissement relatifs à des investissements qu'ils ont effectués dans deux sociétés en nom collectif : E.C.T. Systems (« ECT ») et F.T.N. Systems (« FTN »). ECT et FTN auraient fait des travaux de recherche scientifique et de développement expérimental par le biais de sous-traitants. ECT a exercé ses activités en 1989 et 1990 et FTN aurait exercé les siennes en 1990, 1991 et 1992.
+[3] Madame Lauger a investi dans ECT pour l’année 1990 et dans FTN pour les années 1990 et 1991. Monsieur Luu a investi dans ECT pour l’année 1989.
+[4] Les montants investis et réclamés dans leurs déclarations de revenu sont les suivants :
+Marjorie Lauger
+Van Chuong Luu
+E.C.T.
+Systems
+F.T.N.
+Systems
+F.T.N.
+Systems
+E.C.T.
+Systems
+Année d'imposition
+1990
+1990
+1991
+1989
+Montants investis
+1 000 $
+10 000 $
+5 000 $
+10 000 $
+Montants réclamés
+Perte d'entreprise :
+962 $
+9 692 $
+3 904 $
+10 037 $
+Cr. d'impôt à l'invest. :
+194 $
+1 939 $
+966 $
+1 958 $
+[5] Madame Lauger a aussi reporté à 1988 et 1989 une partie du crédit d'impôt à l'investissement qu’elle avait réclamé pour 1990. Les reports de crédit d'impôt s'élevaient à 29 $ pour 1988 et à 2 024 $ pour 1989. Pour l’année d’imposition 1990, monsieur Luu a déclaré un gain en capital relatif à la disposition de ses parts de ECT et a réclamé une déduction pour gain en capital.
+Fondement des cotisations
+[6] Dans le cas de ECT, pour l’année d'imposition 1989 de monsieur Luu, et pour l’année 1990 de madame Lauger, le Ministre a accordé la perte d'entreprise réclamée par les appelants. Toutefois, il a refusé la totalité du crédit d'impôt à l'investissement s'y rapportant, au motif que les appelants étaient des associés déterminés passifs des deux sociétés, comme le définit le paragraphe 248(1) de la Loi de l’impôt sur le revenu (la « Loi »), puisqu’ils n’ont pas pris une part active dans les activités de ECT ou de FTN de façon régulière, importante et continue.
+[7] Pour l'année d'imposition 1990 de monsieur Luu, le Ministre a fait certains ajustements au gain en capital conséquemment à la vente de ses parts de ECT.
+[8] Pour l'année d'imposition 1990 de madame Lauger, le Ministre a partiellement accordé la perte d'entreprise qu’elle a réclamée relativement à FTN et il a refusé la totalité du crédit d'impôt à l'investissement s'y rapportant, pour les motifs suivants :
+i) une dépense de 1 722 000 $, réclamée dans le calcul de la perte d'entreprise de la société, était une dépense fictive qui n'a pas été encourue par la société à des fins de recherche scientifique et de développement expérimental ou dans le but de tirer un revenu d'une entreprise ou d'un bien, justifiant ainsi le refus de la portion de la perte d'entreprise découlant de cette dépense ainsi que du crédit d'impôt à l'investissement s'y rapportant;
+ii) les associés de la société étaient des associés déterminés passifs parce qu’ils n’ont pas pris une part active dans les activités de FTN de façon régulière, importante et continue, justifiant ainsi le refus total du crédit d'impôt à l'investissement réclamé par les associés de la société.
+Par conséquent, les reports de crédits d’impôt à l’investissement de madame Lauger de 1990 au cours des années d’imposition 1988 et 1989 ont été refusés par le Ministre.
+[9] Pour l'année d'imposition 1991 de madame Lauger, le Ministre a refusé la totalité de la perte d'entreprise qu’elle avait réclamée relativement à FTN ainsi que la totalité du crédit d'impôt à l'investissement s'y rapportant, pour les motifs suivants :
+i) la société n'a pas exploité d'entreprise, justifiant ainsi le refus total de la perte d'entreprise de la société ainsi que du crédit d'impôt à l'investissement s'y rapportant;
+ii) les associés étaient des associés déterminés commanditaires de la société, justifiant ainsi le refus total de la perte d'entreprise de la société ainsi que du crédit d'impôt à l'investissement s'y rapportant;
+iii) les associés étaient des associés déterminés passifs de la société parce qu’ils n’ont pas pris une part active dans les activités de FTN de façon régulière, importante et continue, justifiant ainsi le refus total du crédit d'impôt à l'investissement réclamé par les associés de la société;
+iv) le projet de recherche scientifique et de développement expérimental de la société n'était pas un projet admissible de recherche scientifique et de développement expérimental, justifiant ainsi le refus total du crédit d'impôt à l'investissement réclamé par les associés de la société.
+Arguments supplémentaires
+[10] Dans le litige actuel, l'intimée invoque certains arguments supplémentaires pour l’année d’imposition 1989 de monsieur Luu et pour les années 1990 et 1991 de madame Lauger. L’intimée plaide que les appelants n'étaient pas membres de véritables sociétés en nom collectif, n’ayant aucune intention de former un contrat de société, ce qui justifie le refus complet de la perte d'entreprise qu'ils ont réclamée relativement aux sociétés en nom collectif en cause, ainsi que du crédit d'impôt à l'investissement s'y rapportant.
+[11] Pour l’année d’imposition 1989 de monsieur Luu et pour l’année 1990 de madame Lauger l’intimée affirme également que :
+- les sociétés en nom collectif en l’espèce, n'ont pas exploité d'entreprise, ce qui justifie le refus complet de la perte d'entreprise réclamée par les appelants relativement à ces sociétés, ainsi que du crédit d'impôt à l'investissement s'y rapportant; et
+- les appelants étaient, le cas échéant, des associés déterminés commanditaires des sociétés en nom collectif en l’espèce, ce qui justifie le refus complet de la perte d'entreprise qu'ils ont réclamée relativement à ces sociétés ainsi que du crédit d'impôt à l'investissement s'y rapportant;
+Ces deux arguments formaient en partie le fondement de la cotisation de madame Lauger pour son année 1991.
+[12] L’avocat de l'intimée reconnaît que le fardeau de la preuve des faits soutenant les arguments supplémentaires incombe à l'intimée. Le droit de soulever ces nouveaux arguments est établi au paragraphe 152(9) de la Loi. L’avocat de l'intimée reconnaît aussi que ces nouveaux arguments, s'ils sont acceptés par la Cour, ne peuvent mener à une augmentation des montants des cotisations.
+Faits
+[13] ECT et FTN faisaient partie des 19 sociétés en nom collectif du Groupe Zuniq utilisées comme abris fiscaux de recherche scientifique et développement expérimental entre 1986 et 1992. Le Groupe Zuniq, un groupe de corporations et sociétés interreliées et chapeautées par monsieur Hien Vohoang, comprenait, à part ces sociétés en nom collectif, des corporations associées qui exécutaient prétendument des contrats de recherche en tant que sous‑traitants des sociétés en nom collectif. Monsieur Hien Vohoang dirigeait le Groupe Zuniq avec des membres de sa famille. Monsieur Vohoang est décédé en 1993.
+[14] Le Groupe Zuniq a créé de nouvelles sociétés en nom collectif chaque année entre 1986 et 1992 pour obtenir les fonds pour faire de la recherche scientifique dans le domaine de l’informatique. En tout, près de 870 personnes ont investi dans ces sociétés en nom collectif. Comme j’ai déjà indiqué, l’exécution de la recherche et du développement entrepris par ces sociétés en nom collectif était entièrement confiée à des sous‑traitants, tous des corporations du Groupe Zuniq. Les fonds recueillis par la vente des parts dans les sociétés en nom collectif ont été transmis aux sous‑traitants l’année même de la vente des parts. L’année subséquente, il y avait un rachat des parts des associés par une société au nom de Glenrock Investments Ltd à 50%.
+[15] Dans certains cas, comme pour ECT et FTN, les sociétés en nom collectif du Groupe Zuniq ont exercé leurs activités pendant plus d’un an et ont entrepris un programme de recherche scientifique et de développement expérimental chaque année relativement au projet principal. Dans ces cas, il y a eu une vente des parts de la société chaque année, suivie normalement l’année suivante d’un rachat des parts. À la fin de cette période, les sociétés en nom collectif ont cessé leurs opérations.
+[16] Pour ECT le projet de recherche s’appelait « DAMDES » et il s’agissait du développement d’un système expert de diagnostic et de maintenance des systèmes d’avionique. Pour l’année 1989, ECT comptait 216 associés et en 1990 des parts ont été vendues à 58 personnes.
+[17] Le projet de FTN s’appelait « MEDIA ENGINE » et comprenait la mise au point d’un système d’interface graphique programmable pour des applications médicales. Cent‑quarante‑six personnes sont devenues associées dans FTN en 1990. De nouvelles parts de FTN ont été vendues à 88 des 146 associés en 1991 et à un nombre indéterminé d’investisseurs en 1992.
+[18] Pour les années d’imposition 1989 et 1990, le Ministre a reconnu que le projet DAMDES et le projet MEDIA ENGINE étaient admissibles en tant que recherche scientifique et développement expérimental en vertu de l’article 2900 du Règlement de la Loi de l’impôt sur le revenu (le « Règlement »). Pourtant, le vérificateur de l’Agence du revenu n’a pas pu obtenir de documentation relative au travail fait sur le projet de MEDIA ENGINE en 1991, et le travail a été jugé inadmissible aux fins de l’article 2900.
+Arguments des appelants
+Monsieur Luu
+[19] Monsieur Luu ne conteste pas qu’il était un associé déterminé passif de la société ECT et ne conteste pas le bien‑fondé en droit de la cotisation en litige. Il se croit victime d’une arnaque qui a été rendue possible par une incertitude dans l’application des articles de la Loi portant sur la recherche scientifique et le développement expérimental. Il dit avoir agi de bonne foi, et demande à la Cour d’en tenir compte et de rendre une décision « juste et équitable » à son égard.
+[20] Monsieur Luu demande aussi à la Cour d’ordonner à l’intimée de lui permettre d’adhérer à une offre de règlement que le Ministre avait proposée à tous les investisseurs de ECT ainsi qu’aux autres sociétés de recherche scientifique et de développement expérimental touchées par les nouvelles cotisations. Les investisseurs pouvaient se prévaloir de cette offre de règlement jusqu’en février 1997, mais l’appelant ne l’a pas fait.
+Madame Lauger
+[21] Madame Lauger prétend avoir pris part de façon active, régulière et continue aux activités des deux sociétés, ECT et FTN, tout au long de la période où elle était associée des sociétés. Par conséquent, elle dit qu’elle n’était pas une associée déterminée passive comme le définit le paragraphe 248(1) de la Loi.
+[22] Madame Lauger prétend aussi que l’intimée n’a pas prouvé que FTN n’a pas encouru la totalité des dépenses de recherche et développement réclamées en 1990. Selon elle, FTN a octroyé des contrats de recherche et de développement à des sous‑traitants, et le travail a été bel et bien fait par ceux-ci.
+[23] Elle dit aussi que les documents qu’elle a déposés relativement au projet MEDIA ENGINE, qui a été développé par FTN, démontrent que la recherche effectuée par FTN en 1991 était admissible comme recherche scientifique et développement expérimental aux fins de la Loi.
+[24] Madame Lauger soutient enfin que FTN exploitait une entreprise pour développer une carte graphique, et qu’elle avait travaillé personnellement dans cette entreprise. Elle affirme également que le Ministre a accepté les états financiers des sociétés ECT et FTN et n’ayant pas poursuivi les sociétés, que FTN exploitait une entreprise qui était une source de revenu selon la Loi.
+[25] Finalement, madame Lauger se plaint des longs délais dans le dossier et du fait qu’elle n’avait jamais eu l’occasion de rencontrer les agents du Ministre pour expliquer sa position. Apparemment, elle n’a pas eu la possibilité d’expliquer les circonstances de sa participation dans ECT et FTN à l’agente des oppositions à Revenu Canada parce que la lettre sollicitant ces renseignements s’était égarée dans le courrier. Elle demande alors à la Cour de recommander au Ministre de réduire les intérêts et les pénalités relativement aux cotisations.
+Analyse
+[26] La première question en litige que je propose d’aborder est de savoir si les appelants étaient « associés déterminés » des sociétés en cause, selon l’alinéa b) de la définition de ce terme au paragraphe 248(1) de la Loi qui a trait à ce que l’on appelle « l’associé déterminé passif ». Cette définition se lit en partie ainsi :
+« associé déterminé » S'agissant de l'associé déterminé, au cours d'un exercice ou d'une année d'imposition, selon le cas, d'une société de personnes, tout associé qui :
+[…]
+b) soit, de façon régulière, continue et importante tout au long de la partie de l'exercice ou de l'année où la société de personnes exploite habituellement son entreprise :
+(i) ne prend pas une part active dans les activités de l'entreprise de la société de personnes, sauf dans celles qui ont trait au financement de l'entreprise de la société de personnes,…
+[27] Selon les paragraphes 127(8) et (9) de la Loi, si un associé est un associé déterminé, celui-ci n’a pas droit à un crédit d’impôt à l’investissement à l’égard des dépenses de recherche scientifique et de développement expérimental.
+Monsieur Luu
+[28] Monsieur Luu ne conteste pas être un associé déterminé passif et la preuve démontre que sa participation aux activités de la société ECT en 1989, n’était ni active, ni régulière, ni continue, ni importante.
+[29] Tout comme les autres investisseurs dans ECT, monsieur Luu a reçu de ECT certaines disquettes portant sur l’apprentissage de logiciels de base comme Excel et MS‑DOS et on lui a demandé de faire certains exercices sur les disquettes et de remplir une fiche de participation à cet égard. Monsieur Luu ne se rappelait pas la nature exacte de ces activités et a dit qu’il a tout simplement fait ce que l’on lui a demandé de faire.
+[30] Monsieur Claude Papion, l’expert scientifique qui a témoigné pour l’intimée et qui a analysé les projets de recherche scientifique et de développement expérimental de ECT et de FTN à la demande du Ministre, a conclu que les activités du programme de participation des associés de ECT (et de FTN d’ailleurs) étaient sans la moindre pertinence vis-à-vis le sujet des projets de recherche de ces sociétés et n’ont en rien contribués à leur avancement. En bref, le programme de participation n’a servi que pour donner l’illusion d’une participation active de la part des associés dans les activités de ECT.
+[31] La preuve établit que monsieur Luu n’a pas participé activement ni au projet de recherche de ECT, ni à aucune autre activité de la société de façon régulière, continue ou importante.
+[32] Compte tenu de la conclusion à laquelle je suis arrivé, il n’est pas nécessaire de considérer les arguments supplémentaires soulevés par l’intimée par rapport aux cotisations de monsieur Luu.
+[33] Finalement, la Cour n’a pas la compétence d’ordonner à l’intimée de permettre à monsieur Luu d’adhérer au règlement offert par le Ministre aux investisseurs jusqu’en 1997. Les procureurs de l’intimée ont précisé à l’audition que le Ministre n’offrait plus la proposition de règlement à partir de février 1997.
+Je dois décider du bien‑fondé ou non des cotisations, et l’offre de règlement n’est pas un élément dont je dois tenir compte pour ce faire.
+Madame Lauger
+[34] Comme point de départ de mon analyse de la participation de madame Lauger dans les activités de ECT et de FTN, il est nécessaire d’examiner la preuve relative aux activités des deux sociétés.
+[35] Cette preuve démontre pour ECT que la convention de société a été exécutée le 20 octobre 1989 et que 3 474,9 parts ont été vendues à 216 investisseurs, à 1 000 $ la part pour un apport total de 3 474 900 $. Le 20 novembre 1989, ECT a conclu un contrat avec Dias Informatique Inc., une corporation du Groupe Zuniq, selon lequel Dias devait effectuer des travaux de recherche scientifique et de développement expérimental pour ECT pour un montant de 3 475 000 $. À son tour, Dias a conclu des contrats de sous‑traitance pour cette recherche avec six autres corporations du Groupe Zuniq.
+[36] Dans les états financiers de ECT pour l’exercice se terminant le 31 décembre 1989 il n’y a que trois charges d’exploitation :
+Frais de recherche scientifique et
+de développement expérimental :
+3 477 606,00 $
+Recherche et étude de marché[1]
+5 000,00 $
+Frais bancaires
+63,00 $
+[37] Le total des frais de recherche et développement a été payé à Dias en décembre 1989. En janvier 1990, les investisseurs ont reçu une offre de Glenrock Investments Ltd pour acquérir leurs parts à 50% du montant originalement payé.
+[38] Pour l’année 1990 de ECT et les années 1990 et 1991 de FTN, la preuve ne révèle pas qu’il y ait eu plus d’activité continue de la part de ECT ou de FTN autre que la collecte des fonds des investisseurs et l’octroi des contrats de recherche.
+[39] En 1990, ECT a recueilli des apports des associés de 548 000 $ et a conclu un contrat de recherche avec Dias, le 16 novembre 1990, au montant de 548 000 $. Les seules autres dépenses indiquées aux états financiers de ECT pour cette année là étaient 224 $ pour les frais bancaires et 2 112 $ pour une étude de marché. Dias a conclu des contrats de sous‑traitance à des fins de recherche avec deux autres corporations du groupe.
+[40] En 1990, FTN a recueilli des apports des associés de 3 040 000 $ et a payé 3 039 000 $ en vertu d’un contrat de recherche conclu avec Zuniq Corp. (autre corporation du Groupe Zuniq) au montant de 6 000 000 $ (six millions de dollars). La seule autre dépense indiquée aux états financiers de FTN pour cette année‑là était de 52 $ pour les frais bancaires. Zuniq Corp. a confié la recherche à cinq autres corporations du Groupe Zuniq.
+[41] En 1991, FTN a recueilli la somme de 1 843 500 $ des associés de la société et a payé le même montant à Zuniq Corp. relativement à un contrat de recherche. Encore une fois, la seule autre dépense de FTN en 1991 était un montant de 100 $ pour des frais bancaires.
+[42] Madame Lauger a confirmé que les sociétés FTN et ECT ont été mises sur pied par monsieur Vohoang afin d’obtenir des fonds pour faire de la recherche scientifique et du développement expérimental. Il était prévu que la recherche serait confiée à des sous‑traitants.
+[43] Tout cela m’amène à croire qu’à part le fait de recueillir des fonds des investisseurs et d’octroyer des contrats de recherche en sous‑traitance à Dias ou Zuniq Corp., ECT et FTN avaient très peu d’activités, et toute activité existante n’était ni régulière ni continue. Les associés de ECT et de FTN seraient donc dans l’impossibilité de participer de façon active, continue et régulière dans les affaires des deux sociétés.
+[44] Ce fait est souligné par le témoignage de madame Lauger en contre‑interrogatoire au sujet des activités de FTN :
+Q. D’accord. Donc en 1990, la société F.T.N. à part recueillir des fonds et les transmettre aux sous‑contractants . . .
+R. On effectue des travaux de recherches.
+Q. . . . c’est tout ce qui s’est passé?
+R. La société F.T.N., c’est que il y avait des contrats de recherche, il y avait de la recherche qui se faisait.
+Q. À part l’argent qui est transféré aux sous‑contractants, là . . .
+R. Oui.
+Q. . . . dans la société il ne s’est rien fait?
+R. Il y a eu des travaux de recherche . . .
+Q. Par les sous‑contractants?
+R. . . . les sous‑contractants travaillaient pour F.T.N., le chargé de projet s’occupait d’organiser tout ça puis de recueillir l’information, justement, pour mettre le projet à terme, que ça n’a pas marché.
+Q. Le chargé de projet, c’était monsieur Vohoang?
+R. Oui.
+(Notes sténographiques, 29 juin 2006, pages 33 et 34.)
+[45] Même si, contrairement à ce que je pense, on pourrait considérer qu’il y avait une activité régulière et continue dans les sociétés ECT et FTN dans les années en cause, la preuve ne révèle pas une participation active, régulière et continue de la part de madame Lauger dans ces sociétés.
+[46] Madame Lauger a témoigné qu’elle avait travaillé entre avril 1989 et novembre 1993 directement avec monsieur Vohoang pour le Groupe Zuniq. Elle était la secrétaire exécutive de monsieur Vohoang et elle exécutait les tâches suivantes :
+-tâches administratives quotidiennes afin d'assister monsieur Vohoang;
+-coordination de la circulation des renseignements à l'interne et avec
+les équipes de chercheurs;
+-préparation et révision de la correspondance, les rapports et les procès‑verbaux des réunions de la compagnie;
+-recherches à différents niveaux;
+-compilation des données;
+-préparation des documents sur informatique;
+-organisation des rendez-vous et réunions de monsieur Vohoang;
+-suivi de certains dossiers;
+-rencontres en son nom avec des personnes ou groupes pour discuter
+des questions se rapportant aux divers travaux de recherche; et
+-signature par procuration de documents relatifs aux projets.
+[47] Par la suite, madame Lauger a décrit sa participation dans les sociétés ECT et FTN. Selon son témoignage, elle :
+-vérifiait les rapports scientifiques se rapportant aux divers projets en cours;
+-faisait la collecte des données analytiques auprès des chercheurs;
+-participait aux réunions sur l'avancement des travaux;
+-gérait l'échéancier des travaux;
+-analysait les données compilées par les chercheurs;
+-participait à la réalisation des prototypes expérimentaux, et à l’analyse et aux essais des prototypes;
+-analysait des coûts liés aux modifications des projets proposées par les chercheurs;
+-faisait de la modélisation par ordinateur;
+-faisait l’élaboration d'une conclusion relative à la faisabilité et au succès technique du projet;
+-compilait des résultats des tests;
+-analysait feuilles de temps et journal de bord;
+-analysait des coûts liés aux modifications proposées par les chercheurs afin d’optimiser le résultat de la recherche;
+-commentait les aspects graphiques;
+-assurait le suivi de l'évolution et testait les fonctionnalités;
+-rencontrait les représentants des vendeurs d'équipement;
+-analysait des « benchmarks » afin de confirmer l’avancement technologique du projet;
+-comptabilisait des coûts des équipements et des composantes nécessaires aux travaux de recherche;
+-vérifiait si le budget du projet était respecté;
+-assistait aux expositions informatiques.
+[48] Elle a affirmé qu’elle travaillait toujours sous la direction de monsieur Vohoang qui était directeur de tous les projets entrepris par les sociétés en nom collectif du Groupe Zuniq.
+[49] Madame Lauger aurait aussi apparemment exécuté les travaux dans le cadre du programme de participation des associés que j'ai décrits pour monsieur Luu pour ECT, et un programme quasi-identique pour FTN. Madame Lauger a déposé un formulaire qu'elle avait rempli en 1991 détaillant ses activités dans le cadre du programme de FTN pour cette même année. Ces activités ont occupé madame Lauger pour un total de 35 heures et 15 minutes.
+[50] Pour ce qui est des documents déposés en preuve, la pièce I‑4, onglet 47 indique que madame Lauger avait été nommée directrice du projet de ECT à une date indéterminée, mais madame Lauger a admis en contre‑interrogatoire qu'elle n'avait pas exercé les fonctions de ce poste à part le fait de signer certains documents sous la direction de monsieur Vohoang et de répondre aux appels des investisseurs. Le fait que madame Lauger n’a pas agi comme directrice du projet en 1990 (l'année en cause pour madame Lauger relative à ECT) est confirmé par deux documents (la pièce I‑9, onglets 4 et 38) qui ont été signés par monsieur Vohoang en tant que « directeur du projet » de ECT en 1989 et 1990. Madame Lauger n’aurait pas signé le contrat entre ECT et Dias et elle n’était responsable d’aucun aspect financier de la société.
+[51] Il n'y a dans la preuve qu'un seul document émanant de ECT en 1990 signé par madame Lauger, une lettre en date du 8 novembre 1990 attestant la participation d'un associé de ECT au nom de Daniel Pilon dans la société pour l'année 1989.
+[52] Pour créer la société FTN, madame Lauger et deux autres personnes ont signé une convention de société vers la fin août 1990. Ce document lui a été fourni par monsieur Vohoang qui a conçu le projet MEDIA ENGINE. Madame Lauger affirme être devenue associée de FTN parce que le projet l’intéressait. Par la même convention, elle a été nommée secrétaire de FTN.
+[53] Le 27 septembre 1990, à la demande de monsieur Vohoang, elle a signé au nom de FTN un contrat de recherche scientifique entre FTN et Zuniq Corp. pour 6 000 000 $ (six millions de dollars.) Elle n'a participé ni à la négociation, ni à la rédaction du contrat.
+[54] Vers la fin de 1990, madame Lauger aurait aussi participé à des séances tenues pour vendre des parts de FTN à des investisseurs afin d’expliquer la nature du projet. Elle a accepté des formulaires d’adhésion remplis par des investisseurs en 1990, ce qu’elle a également fait pour plusieurs sociétés du Groupe Zuniq à part FTN. Elle a aussi signé la lettre qui accompagnait les cartables envoyés aux investisseurs qui contenaient la documentation relative au programme de participation. Elle n'a toutefois ni rédigé la lettre, ni élaboré le programme de participation. Finalement, madame Lauger a signé une lettre adressée à chaque investisseur vers le 31 janvier 1991 attestant du montant investi par l'investisseur.
+[55] En tant que secrétaire de FTN, madame Lauger a dit qu’elle était responsable d’envoyer aux associés les documents relatifs aux affaires courantes de la société. À cet effet, en mai 1991, elle aurait signé une lettre aux investisseurs leur demandant d’approuver une résolution lui permettant de conclure un contrat de recherche entre FTN et Uniware Inc. (une corporation du Groupe Zuniq). Ce contrat était pour le projet de recherche de 1991, mais n’a jamais été conclu. En octobre 1991, toujours en relation avec le projet de 1991, madame Lauger a signé deux lettres envoyées aux investisseurs détaillant certaines modifications que FTN voulait apporter au projet MEDIA ENGINE et au budget relatif au projet. Une fois de plus, madame Lauger n’était pas responsable de ces modifications, et n’a pas rédigé les lettres, mais les aurait simplement signées à la demande de monsieur Vohoang.
+[56] En mai 1992, soit subséquemment à la période en litige, madame Lauger aurait signé une autre lettre envoyée aux investisseurs, cherchant leur approbation d’une résolution relative au rachat des parts des investisseurs. Elle n’a pas rédigé ni la lettre ni la résolution.
+[57] Certains autres documents, dans lesquels se trouve le nom de FTN, ont été signés par madame Lauger, mais elle agissait alors comme représentante d’entités autres. Par exemple, une demande de numéro d'abri fiscal pour FTN a été effectuée par la société Les Services Financiers Excelor Inc. et madame Lauger a apposée sa signature en tant que directrice ou représentante d’Excelor. Il en va de même pour les « formules de cession » par lesquelles les investisseurs vendaient leurs parts de FTN à Glenrock Investments Ltd. Madame Lauger les a signées pour Glenrock selon une procuration qu'elle avait supposément reçue de Glenrock de Dzung Tai Nguyen, le beau-frère de monsieur Vohoang.
+[58] En contre‑interrogatoire, madame Lauger a admis qu’elle était employée à temps plein du Groupe Zuniq entre 1989 et 1993 et que sa rémunération était de 7 245,35 $ en 1989, de 23 088 $ en 1990, de 27 263 $ en 1991, de 26 925 $ en 1992 et de 29 831 $ en 1993. Sa rémunération a été versée par certaines des corporations du Groupe Zuniq, selon ce qu’elle faisait dans le projet, et elle recevait une rémunération de la corporation pour laquelle elle faisait des travaux. Dans le cadre de son travail pour le Groupe Zuniq, elle aurait agi comme représentante autorisée de plusieurs sociétés en nom collectif mises sur pied par monsieur Vohoang, à l’exception de ECT et FTN. La nature de ses responsabilités pour ces autres sociétés en nom collectif était semblable à ce qu’elle a fait pour ECT et FTN, mais elle a dit qu’elle avait une plus importante participation dans ECT et FTN.
+[59] Madame Huyen‑Anh Nguyen, veuve de monsieur Vohoang, a témoigné pour madame Lauger. Elle aussi travaillait pour le Groupe Zuniq pendant toute la période que madame Lauger y a travaillé, et elle se rappelait la présence de madame Lauger aux bureaux du Groupe Zuniq. Pourtant, elle ne pouvait pas se rappeler les tâches que madame Lauger a faites en tant qu’associée de ECT ou FTN. Elle a dit :
+R. Comment, en réalité c’est que madame Marjorie faisait tout ce que mon mari lui demandait de faire puis en même temps aussi elle l’aidait dans la, un peu dans la comptable, non pas, dans l’administration auprès des chercheurs. Elle organisait des conférences, des réunions, elle aidait énormément mon mari, tous les deux parfois ils travaillaient très très tard le soir, parfois même le samedi aussi.
+Q. Elle faisait ça comme employée de monsieur Vohoang, n’est‑ce‑pas?
+R. Adjointe, à la fois employée et adjointe.
+(Notes sténographiques, 29 juin 2006, p. 208)
+[60] Il est clair que madame Lauger prenait part aux activités du Groupe Zuniq, mais il faut faire attention en examinant la preuve afin de ne pas confondre ce que madame Lauger aurait fait pour le Groupe Zuniq, ou pour toute corporation ou autre société du Groupe Zuniq, avec ce qu’elle a fait en tant qu’associée de ECT et de FTN.
+[61] Selon la preuve fournie, il est impossible de déterminer le temps que madame Lauger aurait consacré aux affaires de ECT et FTN à titre d’associée. Madame Lauger n’a pas précisé le temps que ces activités prenaient et n’a pas précisé non plus la fréquence de ces tâches. Sans ces précisions, on ne peut dire si sa participation était régulière et continue. Pour les raisons déjà indiquées, le travail sur les programmes de participation des investisseurs est sans relation avec le sujet du projet DAMDES ou MEDIA ENGINE et ne devrait pas être considéré comme une participation de madame Lauger dans les activités de ECT ou de FTN.
+[62] Le témoignage de madame Lauger, quant à ses activités, était dans l’ensemble assez général. Elle décrivait souvent sa participation dans la plupart des sociétés en nom collectif créées par monsieur Vohoang. En fait, outre ECT et FTN, madame Lauger a été représentante autorisée en 1990 et 1991 des sociétés en nom collectif suivantes crées par monsieur Vohoang : ARBUS‑486, CID, CTN GET, RTS et TASS. Cette preuve ne se prête guère à la sorte d’analyse requise pour déterminer la nature de sa participation dans les deux sociétés ECT et FTN.
+[63] De plus, il est difficile de dire quelles tâches et quelles activités relevaient de son statut d’associé plutôt que de son emploi avec le Groupe Zuniq. L’intimée prétend que, parce que madame Lauger exécutait toutes ses tâches pour ECT et FTN à la demande de monsieur Vohoang, ces tâches faisaient partie de son emploi d’adjointe. Puisque madame Lauger était rémunérée pour ce travail, la Cour ne devrait pas en tenir compte en décidant si elle a participé de façon régulière, continue et importante aux activités de ECT et de FTN.
+[64] Vu que madame Lauger était employée à temps plein du Groupe Zuniq pendant les années pertinentes, il est vraisemblable qu’une bonne partie de son travail, qu’elle attribue à ECT et à FTN, était accompli en tant qu’employée du Groupe. Ceci est particulièrement vrai de l’aide qu’elle aurait fournie aux chercheurs et de son travail lié à la recherche dans les projets DAMDES et MEDIA ENGINE.
+[65] Pour ECT et FTN, les sous‑traitants du Groupe Zuniq étaient responsables de l’exécution de toute la recherche et madame Lauger a été payée par certains de ces sous‑traitants. Il est raisonnable de conclure que les tâches suivantes auxquelles madame Lauger a fait référence auraient fait partie des responsabilités des sous‑traitants et que la rémunération reçue par madame Lauger de certains des sous‑traitants aurait été reçue pour l’exécution de ces tâches :
+-gestion de l'échéancier des travaux;
+-analyse des données compilées par les chercheurs;
+-participation à la réalisation des prototypes expérimentaux, et analyse
+et essais des prototypes;
+-analyse des coûts reliés aux modifications des projets proposées par
+les chercheurs;
+-modélisation par ordinateur;
+-élaboration d'une conclusion relative à la faisabilité et au succès technique du projet;
+-analyse des feuilles de temps et journal de bord;
+-analyse des coûts reliés aux modifications proposées par les chercheurs afin d’optimiser le résultat de la recherche;
+-commentaire sur les aspects graphiques;
+-suivi de l'évolution et essaie des fonctionnalités;
+-analyse des « benchmarks » afin de confirmer l’avancement technologique du projet;
+-comptabilisation des coûts des équipements et des composantes nécessaires aux travaux de recherche;
+-vérification du budget du projet.
+[66] Vu l’ensemble de son témoignage, j’ai aussi un doute que la plupart des tâches dans la liste ci-haut ainsi que celles se trouvant au paragraphe [48] auraient été dans le champ des responsabilités de madame Lauger plutôt que de monsieur Vohoang. En parlant de son rôle de gestionnaire de ECT, madame Lauger a apporté les précisions suivantes :
+Q. Madame Lauger, vous avez investi dans la société ECT.
+R. Comme associée.
+Q. Vous avez été nommée gestionnaire de la société.
+R. Oui.
+Q. Vous devriez être au courant de qu’est‑ce qui s’est passé dans cette société‑là, où est allé l’argent, pourquoi, quels travaux ont été faits pour la société, combien ça a coûté ?
+R. Vous avez ici un contrat de service qui vous explique le détail du montant.
+Q. Oui.
+R. Je ne suis pas une scientifique pour vous dire exactement ce qui a été fait. J’ai vu le contrat comme toutes les sociétés dont je vous ai expliqué. Monsieur Hien Vohoang était en charge de ça. C’est lui qui faisait la grosse chose dans les sociétés. Moi, j’étais une employée. Je vous l’ai expliqué. Ça été comme ça pour toutes les sociétés. Pour cette société‑là, ça été la même chose. Moi, j’ai travaillé pour . . . je vous l’ai dit, au niveau du logiciel, langage orienté objet, je ne suis pas une spécialiste. J’ai travaillé sur l’interface usager. Les travaux qui ont été faits étaient vérifiés par monsieur Hien Vohoang, c’est lui qui approuvait ça, parce que c’était un scientifique et non moi.
+(Notes sténographiques, 28 Juin 2006, pages 186 et 187.)
+[67] Il semble également que madame Lauger n’était pas responsable de la comptabilité des deux sociétés et que la vérification et la comptabilisation auxquelles elle a fait référence auraient été faites par d’autres personnes.
+[68] En ce qui concerne les réunions tenues pour attirer les investisseurs, le travail de cette nature a trait au financement des sociétés. Il n’est donc pas pris en compte aux fins de l’alinéa b) de la définition d’associé déterminé, qui stipule :
+« associé déterminé » S'agissant de l'associé déterminé, au cours d'un exercice ou d'une année d'imposition, selon le cas, d'une société de personnes, tout associé qui :
+[...]
+b) soit, de façon régulière, continue et importante tout au long de la partie de l'exercice ou de l'année où la société de personnes exploite habituellement son entreprise :
+(ii) ne prend pas une part active dans les activités de l'entreprise de la société de personnes, sauf dans celles qui ont trait au financement de l'entreprise de la société de personnes,
+(Je souligne.)
+[69] Finalement, le nombre relativement petit de documents déposés en preuve que l’appelante a signés au nom de ECT et de FTN ne corrobore pas le témoignage de madame Lauger affirmant que sa participation dans les sociétés ECT et FTN en 1990 et 1991 était active, continue et importante. De plus, étant donné l’aveu de madame Lauger qu’elle a signé quasiment tous ces documents à la demande de monsieur Vohoang et qu’elle n’a participé à la rédaction ou à la création d’aucun de ces documents, son rôle au sein des deux sociétés m’apparaît limité et à tout moment sous le contrôle de monsieur Vohoang. C’était ce dernier qui prenait les décisions dans les sociétés et ce, sans la participation de madame Lauger. De plus, dans le peu de documentation que j’ai devant moi, il n’y a aucun indice que madame Lauger aurait exécuté la grande majorité des tâches mentionnées au paragraphe [48].
+[70] Tout compte fait, madame Lauger n’a pas réussi à démontrer, de manière prépondérante, qu’elle avait une participation régulière, continue et importante aux activités de ECT et de FTN pendant les périodes en question.
+[71] Ayant conclu que madame Lauger était associée déterminée passive, cette conclusion me dispense d’analyser l’argument de l’intimée que madame Lauger était associée déterminée commanditaire de ECT et de FTN.
+[72] La prochaine question en litige est de savoir si le Ministre avait raison de réduire la perte d’entreprise réclamée par madame Lauger en 1990. Rappelons que le Ministre a réduit la perte d'entreprise de FTN de 1 722 000 $ et, en conséquence, a réduit proportionnellement la perte d'entreprise de chaque associé de FTN.
+[73] Selon la preuve, le montant de 1 722 000 $ représente un montant versé par Zuniq Corp à Glenrock Investments Ltd Zuniq Corp. était le sous‑traitant de FTN qui a reçu le contrat de recherche relatif à MEDIA ENGINE. Zuniq Corp, à son tour, avait donné un contrat de sous‑traitance pour des travaux sur le projet MEDIA ENGINE à Glenrock. La valeur du contrat était de 1 722 000 $. Le Ministre a tenu pour acquis que Glenrock n’existait pas et que cette dépense était une dépense fictive. Pourtant, le Ministre a refusé la dépense à FTN.
+[74] La dépense de 1 722 000 $ aurait été une dépense effectuée par Zuniq Corp. et non par FTN, même si Zuniq a encouru la dépense dans l’exécution du contrat de recherche qui lui avait été octroyé par FTN. Celle-ci n’a pas réclamé cette dépense dans le calcul de sa perte d’entreprise pour 1990. Toutes les dépenses pour la recherche inscrites par FTN dans ses états financiers pour son exercice se terminant le 31 décembre 1990 étaient en relation avec les montants payés à Zuniq Corp., selon le contrat de recherche conclu avec Zuniq Corp. le 27 septembre 1990. Ces dépenses s’élevaient à 3 039 000 $ et le vérificateur de Revenu Canada qui a fait la vérification des activités de FTN pour l’année 1990 a constaté que FTN a émis des chèques pour 3 039 000 $ à Zuniq Corp. au cours de la période.
+[75] Je ne vois pas comment le Ministre peut alors réduire les dépenses d’exploitation de FTN d’un montant que la société n’a jamais réclamé et qui ont été réclamées par une autre entité. Pour ce faire, il faudrait lever le voile corporatif qui sépare Zuniq de FTN, mais le procureur de l’intimée n’a pas présenté d’argument à l’appui de la notion que l’existence séparée de Zuniq ne devrait pas être respectée. À mon avis, cet aspect de la cotisation n’est pas fondé.
+[76] La prochaine question en litige est de savoir si FTN avait été validement formée. L’intimée affirme que FTN, comme toutes les sociétés du Groupe Zuniq, n’était qu’un montage financier artificiel et que FTN n’avait aucunement l’intention d’exploiter une entreprise. FTN n’avait aucune raison d’être, sauf de servir de véhicule qui génère des remboursements d’impôt et de servir d’outil de financement aux corporations du Groupe Zuniq. Sans l’intention de tirer un bénéfice de l’exploitation d’une entreprise, FTN ne remplissait pas les conditions requises pour former une société en nom collectif.
+[77] Pour l’année d’imposition 1990, le Ministre avait reconnu l’existence de FTN et ce n’est que devant cette Cour que l’intimée invoque le nouvel argument que la société n’existait pas. Il en résulte que le Ministre a le fardeau de la preuve sur cette question pour l’année 1990.
+[78] En établissant la nouvelle cotisation de madame Lauger pour l’année d’imposition 1991, le Ministre a tenu pour acquis que FTN n’avait aucune raison d’être, sauf de servir de véhicule qui génère des remboursements d’impôt et de servir d’outil de financement aux corporations du Groupe Zuniq[2]. Il plaide que les associés avaient l’intention d’investir, une somme équivalente à 50% du prix originalement payé des parts, de se faire financer pour l’autre 50% de l’investissement, d’obtenir des déductions fiscales et des crédits d’impôt à l’investissement, et finalement de revendre le plus rapidement possible leurs parts pour un montant équivalent au montant du financement obtenu au départ. De cette façon, les associés étaient assurés de réaliser un bénéfice sur l’investissement, qui ne découlait pas de l’exploitation d’une entreprise.
+[79] Il incomberait donc à madame Lauger de prouver, en ce qui concerne l’année d’imposition 1991, qu’elle avait l’intention de tirer un bénéfice de l’exploitation d’une entreprise en commun avec les autres associés de FTN.
+[80] La Cour suprême du Canada a indiqué dans l'arrêt Backman c. R., [2001] 1 R.C.S. 367 au paragraphe 25, que « [...] pour statuer sur l'existence d'une société de personnes, les tribunaux doivent se demander si la preuve documentaire objective et les circonstances de l'affaire, notamment les actes concrets des parties, sont compatibles avec l'existence d'une intention subjective d'exploiter une entreprise en commun dans le but de réaliser un bénéfice ». Bien que la convention de société en l’espèce déclare que les objectifs de la société FTN sont les activités commerciales, cette position n’est pas étayée par les circonstances entourant la création et les activités de la société. À mon avis, comme l’a soutenu l’intimée, la société FTN était bel et bien un montage financier artificiel créé par monsieur Vohoang.
+[81] Il n’est pas contesté que monsieur Vohoang contrôlait la création et les activités de FTN. Les associés se sont fiés à lui pour l’élaboration et l’exécution du plan de recherche et développement de MEDIA ENGINE. Il n’est pas non plus contesté que monsieur Vohoang dirigeait les corporations du Groupe Zuniq et qu’il était responsable de l’octroi des contrats de recherche à des corporations du Groupe.
+[82] Dans le cas de FTN, pour l’année d’imposition 1990, monsieur Vohoang aurait planifié la division des travaux de recherche sur MEDIA ENGINE entre Zuniq Corp. et des sous-contractants de Zuniq Corp., soit Dias Informatique Inc., Zuniq Data Corp. ,Glenrock Investments Ltd, Uniware Inc., Sixgraph informatique Inc. et MicroGraphic Systems Inc. selon le schéma suivant :
+FTN SYSTEMS SNC
+Zuniq Corp.
+Glenrock Uniware Inc.
+Investment
+Zuniq Data Dias
+Data Corp. Age Corp. Informatique Inc.
+Sixgraph Micro
+Informatique Inc. Graphic Systems
+Zuniq Corp.
+[83] Le vérificateur de Revenu Canada, monsieur Michel Beaudry, a entrepris une analyse de ces contrats fondée sur les documents obtenus des corporations du Groupe Zuniq. Il a tenté de retracer les montants dépensés par FTN dans les contrats accordés aux corporations mandatées pour effectuer la recherche. Dans le cas où il a reçu les états financiers des corporations sous‑traitantes, il a noté que les dépenses qui auraient pu relever de la recherche étaient largement inférieures aux montants inscrits sur le contrat de recherche qui leur était accordé. Zuniq Corp. par exemple, aurait reçu 3 039 000 $ de FTN et en aurait versé 2 345 000 $ en vertu des contrats de sous‑traitance aux corporations déjà mentionnées. Du montant de 694 000 $ qui restait à Zuniq, seulement 95 178 $ auraient servi à payer les salaires des chercheurs qui ont travaillé pour Zuniq et 17 303 $ pour acheter des équipements de recherche. En même temps, Zuniq payait des honoraires professionnels de 102 148 $ et 61 391 $ comprenant, semble-t-il, des paiements de commissions versés à des planificateurs fiscaux pour la vente des parts de FTN ainsi que pour des honoraires aux avocats et comptables de Zuniq.
+[84] L’analyse des contrats octroyés par Zuniq dans le projet MEDIA ENGINE a révélé des affaires semblables. Data Age, qui a reçu 178 800 $ de Zuniq pour un contrat de recherche sur MEDIA ENGINE, aurait dépensé 80 497 $ pour des salaires de chercheurs, rien pour des équipements de recherche, mais 56 910 $ pour des honoraires professionnels. Ces montants devaient inclure les dépenses encourues pour les travaux de recherche que Data Age devait faire sur les projets de recherche des sociétés ARBUS‑486, CTN Systems et GET Systems en 1990.
+[85] Chose étrange, Data Age aurait aussi octroyé un sous‑contrat à SixGraph Informatique d’une valeur de 349 600 $ pour des travaux sur le projet MEDIA ENGINE, bien que Data Age n’ait reçu que 178 800 $ de Zuniq. Encore plus étrange, le contrat entre Zuniq et Data Age est daté du 20 novembre 1990 tandis que le contrat entre Data Age et SixGraph est daté du 30 septembre 1990. En d’autres mots, Data Age aurait donné un contrat en sous-traitance relatif à MEDIA ENGINE à SixGraph presque deux mois avant de recevoir le contrat de Zuniq.
+[86] Le plus gros contrat de sous‑traitance accordé par Zuniq dans le cadre du projet MEDIA ENGINE a été à Glenrock Investments Ltd., pour 1 722 000 $ pour « l’établissement d’un service interne de bibliothèque technique spécialisée dans les domaines de l’électronique et de l’informatique ». La raison pour laquelle un service de bibliothèque interne de cet ordre serait nécessaire dans le contexte du projet MEDIA ENGINE n’est pas évident.
+[87] Lorsque monsieur Beaudry a essayé d’obtenir des renseignements sur Glenrock, monsieur Vohoang a indiqué qu’il ne pouvait pas en fournir parce qu’il n’avait pas d’intérêt dans cette corporation. Monsieur Vohoang a dit que c’était une corporation américaine et a donné une adresse pour Glenrock en Californie. Des demandes auprès des autorités américaines ont révélé que Glenrock n’existait pas aux États‑Unis.
+[88] La preuve démontre toutefois que monsieur Vohoang a ouvert un compte de banque au nom de Glenrock Investments Ltd à la Trust National, donnant une adresse de la corporation à Calgary. Les signataires sur ce compte étaient monsieur Vohoang et madame Lauger.
+[89] De plus, on peut constater que Glenrock a été constituée à Dublin en Irlande, en 1988 (pièce I-42, onglet 40) et que madame Huyen‑Ahn Nguyen, la femme de monsieur Vohoang a, comme administratrice, signé en 1990 un changement d’adresse de son siège social qui est d’ailleurs resté à Dublin.
+[90] Finalement, le contrat entre Zuniq Corp. et Glenrock a été signé par Dzung T. Nguyen, le beau‑frère de monsieur Vohoang en tant que représentant de Glenrock.
+[91] Ceci démontre, à mon avis, que monsieur Vohoang ne voulait pas permettre que monsieur Beaudry ait accès aux registres de Glenrock pour déterminer à quoi les fonds transférés de Zuniq Corp. à Glenrock ont servi. Il faut se rappeler que Glenrock était la même société qui achetait les parts des associés de ECT et de FTN à 50% du montant originalement payé. Je déduis de toute la preuve que Glenrock faisait partie du montage financier mis en place par monsieur Vohoang et que les transferts de fonds à Glenrock étaient à des fins autres que de faire de la recherche ou d’obtenir les services de bibliothèque.
+[92] En somme, très peu de l’argent recueilli par FTN en 1990 aurait été utilisé à des fins de recherche et développement. Je suis persuadé que monsieur Vohoang a mis sur pied cette société pour obtenir du financement pour les corporations du Groupe Zuniq et non pas pour exploiter une entreprise en commun dans le but de réaliser un profit.
+[93] Un autre élément qui m’amène à croire que FTN n’exploitait pas d’entreprise est que le bénéfice des travaux de recherche ne semble pas avoir été retenu par FTN. En 1992, le projet MEDIA ENGINE semble avoir été transféré à Sixgraph Informatique selon des représentations faites par Sixgraph à Revenu Canada en janvier 1993 (pièce I-4, onglet 32, p.8). Sixgraph a procédé à la commercialisation d’une carte graphique nommée le Wizard 924, décrite dans du matériel publicitaire déposé par madame Lauger (pièce A-2). Selon les renseignements corporatifs obtenus par monsieur Beaudry, monsieur Vohoang et une corporation qu’il contrôlait étaient les seuls actionnaires de Sixgraph.
+[94] Bien que FTN aurait dépensé 4 882 500 $ sur le projet en 1990 et 1991, FTN n’aurait pas reçu de paiement de Sixgraph pour se servir de la recherche faite par FTN. Madame Lauger a confirmé que FTN n’a jamais réalisé de revenus. Ceci n’est évidemment pas un indice que FTN exploitait une entreprise commerciale, et démontre la manipulation de FTN par monsieur Vohoang pour avantager sa propre société, Sixgraph.
+[95] Madame Lauger a témoigné qu’elle croyait à la possibilité que FTN réalise éventuellement un bénéfice, mais elle n’a pas dit ce qu’elle a fait pour s’assurer qu’un bénéfice était possible. Il semble qu’elle a tout simplement accepté les représentations de monsieur Vohoang. D’après la preuve devant moi, ces représentations auraient été manifestement fausses. Les activités de FTN n’ont pas été conçues en vue d’en tirer un bénéfice et l’on ne pourrait dire que FTN a exploité une entreprise. Dans ces circonstances, FTN n’était pas une véritable société, et ses activités n’ont pas constitué une source de revenu au sens de la Loi.
+[96] J’en conclus que les cotisations de madame Lauger pour les années 1990 et 1991 sont fondées.
+[97] Finalement, la Cour n’a pas compétence pour réduire les intérêts qui se sont accumulés sur les cotisations, tel que demandé par monsieur Luu et madame Lauger.
+[98] Pour toutes ces raisons, les appels de monsieur Luu et de madame Lauger sont rejetés.
+Signé à Ottawa, Canada, ce 23e jour d’octobre 2007.
+« B. Paris »
+Juge Paris
+RÉFÉRENCE : 2007CCI650
+NºS DES DOSSIERS DE LA COUR : 2004‑1450(IT)I, 98‑2962(IT)I, 98‑3234(IT)I, 2002‑1753(IT)I
+INTITULÉ DE LA CAUSE : MARJORIE LAUGER c. SA MAJESTÉ LA REINE
+VAN CHUONG LUU c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : les 27, 28, 29, 30 juin 2006 et les 23, 24, 25, et 26 octobre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge B. Paris
+DATE DU JUGEMENT : le 23 octobre 2007
+COMPARUTIONS :
+Pour les appelants :
+les appelants eux‑mêmes
+Avocats de l'intimée :
+Me Anne-Marie Boutin
+Me Philippe Dupuis
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants:
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le montant indiqué pour recherche et étude de marché aurait été un montant dû à Système Inar Inc., une autre corporation du Groupe Zuniq
+[2] La dichotomie entre les cotisations pour 1990 et 1991 s’explique par le fait que les vérifications de FTN pour 1990 et pour 1991 ont été faites par des vérificateurs différents de revenu Canada à différents moments.

@@ -1,0 +1,154 @@
+Title: ATS Automotive Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25801/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-216-25801-ats-automotive-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-03-26
+
+# ATS Automotive Ltd. v. The Queen
+
+- Citation: 2004 TCC 216
+- Decision date: 2004-03-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3811, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+ATS Automotive Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-26
+Neutral citation
+2004 TCC 216
+File numbers
+2001-2266(GST)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2001-2266(GST)I
+BETWEEN:
+ATS AUTOMOTIVE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 10, 2004, at Regina, Saskatchewan,
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Dwayne M. Anderson
+Counsel for the Respondent:
+Anne Jinnouchi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated August 16, 2000 and bears number 09ES0002073, is allowed, and the assessment is referred back to the Minister of National Revenue, for reconsideration and reassessment in accordance with the attached reasons for judgment.
+In view of the Appellant's last minute concession described in paragraph [1], the Appellant is only awarded the taxable costs of the hearing itself for the full day.
+Signed at Vancouver, Canada, this 26th day of March, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC216
+Date: 20040326
+Docket: 2001-2266(GST)I
+BETWEEN:
+ATS AUTOMOTIVE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Regina, Saskatchewan, on March 10, 2004. At the opening of the hearing, the Appellant withdrew its appeal of the GST assessment and of the section 280 penalty under the Excise Tax Act. The appeal of the penalty assessed under section 285 proceeded. On this basis, the Respondent proceeded first and called Gordon Arnold C.M.A., the auditor on the file, to testify. The Appellant followed and called Sharon Dubois to testify.
+[2] Paragraphs 7 to 15 of the Reply to the Notice of Appeal read:
+7. The Minister of National Revenue (the "Minister") assessed the Appellant by Notice of Assessment No. 09ES0002073, dated August 16, 2000, to among other things, deny input tax credits totaling $18,669.05 in respect of Goods and Services Tax ("GST")/Harmonized Sales Tax ("HST") Returns for the periods ending between October 1, 1997 and March 31, 2000.
+8. A Notice of Objection was filed on November 14, 2000.
+9. By Notice of Decision dated March 27, 2001, the Minister confirmed the assessment.
+10. In so assessing the Appellant, the minister relied on, inter alia, the following assumptions:
+a) the facts stated and admitted above;
+b) the Appellant was incorporated on or about August 12, 1977 (sic);
+c) the Appellant registered for the purposes of the Act effective September 1, 1997;
+d) the Appellant was a corporation involved in the operation of a tire and automobile service center (the "Auto Center");
+e) the Appellant is required by the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the "Act") to file its GST returns on a quarterly basis;
+f) Sharon Dubois was the sole shareholder and director of the Appellant Corporation;
+g) prior to the incorporation of the Appellant, the Auto Center was owned and operated by Accent Tire & Auto Center Ltd. ("Accent");
+h) Ms. Dubois was also a shareholder and director of Accent;
+i) in or about the summer and fall of 1997, Accent was unable to meet its financial obligations and defaulted on a loan with the Sherwood Credit Union (the "Credit Union");
+j) on or about September 30, 1997 the operations of the Auto Center were taken over by the Appellant, whereby the assets of Accent (the "Assets") were transferred to the Appellant;
+k) on or about November 29, 1997 the Appellant, Accent and the Credit Union entered into an agreement whereby the Credit Union agreed to forbear exercising its rights to realize on the loan to which Accent was in default (the "Forbearance Agreement");
+l) the terms of the Forbearance Agreement included, inter alia, the following provisions:
+i) the Appellant, Accent, and the Guarantors jointly agreed to pay to the Credit Union the sum of $325,000.00 payable over a specified period;
+ii) in the event of default the Appellant, Accent and the Guarantors waive notice of demand to seize and sell the Assets, pursuant to section 59 of The Personal Property Security Act;
+iii) Ms. Dubois was one of Guarantors referred to above;
+m) as a result of the Forbearance Agreement, the Credit Union did not effect seizure of Assets;
+n) on or about January 6, 1998, the Appellant entered into a financing agreement with the Credit Union, whereby the Credit Union agreed to loan the Appellant the sum of $325,000.00 (the "Financing Agreement");
+o) the purpose of the Financing Agreement was to finance the purchase of the Assets;
+p) the Appellant claimed an Input Tax Credit (the "ITC") in the amount of $18,669.05 for the reporting period ending December 31, 1997 arising out of a purported purchase of the Assets from the Credit Union;
+q) the Assets were not purchased by the Appellant from the Credit Union, but rather were transferred directly from Accent to the Appellant;
+r) no GST was paid by the Appellant, nor was the Appellant invoiced or charged GST as a result of the transfer of the Assets to the Appellant;
+s) the Appellant did not obtain sufficient documentation to support its claim for the ITC as required by section 169(4) of the Act or pursuant to the Input Tax Credit Information Regulations;
+t) Ms. Dubois was personally responsible for the accounting of, and prepared the GST returns for, both Accent and the Appellant;
+u) Ms. Dubois signed an acknowledgment stating that she was fully aware of the nature and effect of the Forbearance Agreement, and that she received independent legal advice respecting the agreement;
+v) Ms. Dubois was an experienced business person;
+w) Ms. Dubois was a shareholder, director and bookkeeper of other related companies, which companies had previously been assessed by the Minister for failing to remit GST as required by the Act;
+x) the Appellant knowingly, or under circumstances amounting to gross negligence, made or participated in, assented to or acquiesced in the making of false statements or omissions in the GST returns filed for the reporting period of December 31, 1997, as a result of which the net tax that would have been determined on the basis of the information provided in that return was less that the net tax that would have been determined on the basis of the information provided in that return was less than the net tax for that reporting period by the amount of $18,669.05;
+y) as a consequence of the making of the false statements referred to above, the Minister assessed the Appellant a penalty in the amount of $4,667.00 pursuant to section 285 of the Act.
+B. ISSUES TO BE DECIDED
+11. The issues are whether the Appellant is entitled to the ITC in the amount of $18,669.00 and whether the Minister properly assessed penalties against the Appellant.
+C. STATUTORY PROVISIONS RELIED ON
+12. He relies on subsection 169(4) and sections 148, 166, 183, 280, 285 of the Act, the Input Tax Credit Regulations (SOR/91-45), and The Personal Property Security Act (Saskatchewan).
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+13. He respectfully submits that the Minister properly denied the ITC and that the Appellant claimed the ITC relating to a transfer of assets for which no tax was paid and for which the Appellant was not invoiced or charged GST.
+14. He further submits that the Appellant failed to obtain sufficient documentation to support its claim for the ITC as required by section 169(4) of the Act or pursuant to the Input Tax Credit Information Regulations.
+15. He further submits that the Appellant knowingly, or under circumstances amounting to gross negligence, made or participated in, assented to or acquiesced in the making of false statements or omissions in the GST returns filed for the reporting period of December 31, 1997, as a result of which the net tax that would have been determined on the basis of the information provided in that return was less than the net tax for that reporting period by the amount of $18,669.05;
+[3] At the opening of the hearing, the Appellant admitted assumptions 10(b) - which should read August 12, 1997, (c), (d), (e), (f), (h), (l)iii), (n), (o), (p), (r), (t) and (u).
+[4] Mr. Arnold was evasive while on the stand and at one point testified that he had the handwritten notes that he made while interviewing Mrs. Dubois on May 24, 2001 in Court with him. He then referred to his computer notes, which he stated he prepared from his handwritten notes. When asked for the handwritten notes under cross-examination, he testified that he did not have them. Thus, the Court does not accept any of his testimony respecting that interview. Furthermore, where Mr. Arnold's testimony conflicts with that of Mrs. Dubois, Mrs. Dubois' testimony is preferred and is accepted as the truth of that matter.
+[5] Accent "quitclaimed and conveyed" to Sherwood Credit Union. ("Sherwood") of Regina, the assets in question and some receivables by deed dated November 29, 1997 (Exhibit A-1, Tab 8). This ambiguous phraseology enabled Sherwood to acquire this property and allege that it had not formally seized this property.
+[6] Sherwood never formally transferred these assets and receivables to ATS by a written document and alleged to Mr. Arnold that it had never seized them.
+[7] On November 29, 1997, Sherwood once again did not execute a "Forbearance Agreement". (Exhibit A-1, Tab 7) respecting Accent, ATS, Mr. and Mrs. Dubois and three other corporations of Mr. Dubois' - all of whom executed it. Loans totalling $988,355.12 were forgiven by Sherwood in return for a Consent to Seizure (para. 2) and payment of $325,000.00 over 12 years (para. 1), and security and various assurances. Like the "quitclaim and conveyance", this document is replete with ambiguous clauses designed to favour Sherwood.
+[8] On December 18, 1997, Sherwood offered a loan of $325,000.00 to ATS with the security described in Exhibit A-1, Tab 7, and a promissory note and general security agreement from ATS. This was accepted and Mrs. Dubois regarded it as a bill of sale of the assets and receivables, which in fact became ATS'.
+[9] As a result of the corporate debt problems of Accent and other Dubois corporations in the tire business in Regina and Estevan, Mr. Dubois was insolvent and later went bankrupt. Mrs. Dubois' testimony is accepted that in late 1996 and 1997 she first became acquainted with these corporations' affairs when she gathered their records for Revenue Canada. At that time, she was new to the business and to corporate and tax affairs. On August 12, 1997, she incorporated ATS because Mr. Dubois was on the way to becoming bankrupt.
+[10] Mrs. Dubois regarded Sherwood's December 18, 1997 letter (Exhibit A-1, Tab 9) as a bill of sale of the assets and receivables from Sherwood to ATS. The Court accepts her testimony as true because:
+1. ATS acquired the assets and receivables.
+2. This is the only document executed by Sherwood.
+3. ATS had the assets from then on and Accent had relinquished them to Sherwood by Exhibit A-1, Tab 8.
+[11] Mrs. Dubois began running the accounting and reporting of a business for the first time by her operation of ATS. Her husband did the tire side of the business. On an accountant's advice, Mrs. Dubois claimed the ITC in question in her first GST return. Her claim was for 7/100 of $266,000.00, or $18,669.50. The $266,000.00 was the appraised value of the assets, less the receivables, in the total of $325,000.00. She misunderstood the 7/107 concept at that time.
+[12] Mr. Arnold acknowledged on cross-examination that Mrs. Dubois did not "knowingly" file the ITC claim in question.
+[13] In the Court's view she was not otherwise grossly negligent. She had learned that Accent had transferred the assets to Sherwood. After that, Sherwood had taken the assets as security from ATS bona fide and for value. ATS had title. She did not know that the CCRA (as it then was) required sales documents. She had mortgaged her home and guaranteed the Sherwood loan personally to secure Sherwood respecting the $325,000.00 loan on what it acknowledged were ATS's assets. The ITC claim was only respecting the $266,000.00 based on an understandably mistaken calculation of the 7 %, and was based on an accountant's advice. That claim was not grossly negligent or based on gross negligence. In the Court's view it was not even negligent on the part of Mrs. Dubois or the Appellant. If anything, based on the evidence before the Court, it is Sherwood's conduct which is questionable.
+[14] For these reasons, the appeal is allowed. In view of the Appellant's last minute concession described in paragraph [1], the Appellant is only awarded the taxable costs of the hearing itself for the full day.
+Signed at Vancouver, Canada, this 26th day of March, 2004
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC216
+COURT FILE NO.:
+2001-2266(GST)I
+STYLE OF CAUSE:
+ATS Automotive Ltd. v. The Queen
+PLACE OF HEARING:
+Regina, Saskatchewan
+DATE OF HEARING:
+Wednesday, March 10th, 2004
+REASONS FOR JUDGMENT BY:
+Justice David W. Beaubier
+DATE OF JUDGMENT:
+March 26, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Dwayne M. Anderson
+Counsel for the Respondent:
+Anne Jinnouchi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Dwayne M. Anderson
+Firm:
+Anderson Law Firm Prof. Corp.
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

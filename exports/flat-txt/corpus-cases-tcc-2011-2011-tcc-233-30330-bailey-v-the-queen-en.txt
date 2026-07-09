@@ -1,0 +1,231 @@
+Title: Bailey v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30330/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-233-30330-bailey-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-04-28
+
+# Bailey v. The Queen
+
+- Citation: 2011 TCC 233
+- Decision date: 2011-04-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8034, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bailey v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-04-28
+Neutral citation
+2011 TCC 233
+File numbers
+2009-2324(GST)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-2324(GST)G
+BETWEEN:
+RONALD BAILEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Motion made and disposed of upon consideration of written representations and without appearance by the parties.
+By: The Honourable Justice Patrick Boyle
+Counsel for the Appellant:
+Richard Généreux
+Counsel for the Respondent:
+Gérald Danis
+____________________________________________________________________
+ORDER
+UPON reading the motion dated September 20, 2010, filed by the Appellant for an order to strike the Respondent’s Reply;
+AND UPON reading the written representations and the supporting material filed;
+IT IS HEREBY ORDERED THAT the motion is dismissed with costs.
+Signed at Toronto, Ontario, this 28th day of April 2011.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+On this 3rd day of May 2011
+François Brunet, Revisor
+Docket: 2009-1576(GST)I
+BETWEEN:
+GABRIEL PAYEUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Motion made and disposed of upon consideration of written representations and without appearance by the parties.
+By: The Honourable Justice Patrick Boyle
+Counsel for the Appellant:
+Richard Généreux
+Counsel for the Respondent:
+Gérald Danis
+____________________________________________________________________
+ORDER
+UPON reading the motion dated June 21, 2010, filed by the Appellant for an order to strike the Respondent’s Reply;
+AND UPON reading the written representations and the supporting material filed;
+IT IS HEREBY ORDERED THAT the motion is dismissed with costs.
+Signed at Toronto, Ontario, this 28th day of April 2011.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+On this 3rd day of May 2011
+François Brunet, Revisor
+Docket: 2009-2591(GST)I
+BETWEEN:
+SÉBASTIEN DION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Motion made and disposed of upon consideration of written representations and without appearance by the parties.
+By: The Honourable Justice Patrick Boyle
+Counsel for the Appellant:
+Richard Généreux
+Counsel for the Respondent:
+Gérald Danis
+____________________________________________________________________
+ORDER
+UPON reading the motion dated September 2, 2010, filed by the Appellant for an order to strike the Respondent’s Reply;
+AND UPON reading the written representations and the supporting material filed;
+IT IS HEREBY ORDERED THAT the motion is dismissed with costs.
+Signed at Toronto, Ontario, this 28th day of April 2011.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+On this 3rd day of May 2011
+François Brunet, Revisor
+Citation: 2011 TCC 233
+Date: 20110428
+Docket: 2009-2324(GST)G
+BETWEEN:
+RONALD BAILEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2009-1576(GST)I
+GABRIEL PAYEUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2009-2591(GST)I
+SÉBASTIEN DION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Boyle J.
+[1] The three Appellants have brought motions to strike the Respondent’s Replies to their Notices of Appeal on the basis that the Replies do not disclose any reasonable ground for opposing the appeal or, alternatively, will prejudice or delay the fair hearing of the appeal. As described in greater detail below, each of the Appellants has been reassessed on the basis that they failed to remit goods and services tax (“GST”) on their revenues from illegal cocaine or cannabis sales. It is the Appellants’ position in their Notices of Appeal and on this motion that, even if they did derive revenues from illegal cocaine or cannabis sales, and even if their drug trafficking constituted taxable supplies for GST purposes, the product they sold, cocaine in the case of Mr. Bailey and cannabis in the cases of Mr. Dion and Mr. Payeur, was zero‑rated under the provisions of the Excise Tax Act (Canada) governing GST (the “GST legislation”).
+I. The Facts
+[2] Ronald Bailey’s appeal is governed by the Court’s General Procedure Rules and his motion is brought pursuant to Rule 53(a) and Rule 58(1)(b). Mr. Bailey and his son Sylvain were assessed on the basis that together they sold cocaine from 2005 to 2007. The Reply alleges that Mr. Bailey pleaded guilty to criminal drug trafficking charges. The Appellant argues in his Notice of Appeal that he could not be an agent of the Crown for the purposes of collecting GST if he was engaged in an illegal business contrary to public order. Further, according to the Notice of Appeal, the partnership upon which the assessment is based could not exist under Quebec law because its cause and object would have been illegal and contrary to public order. In the further alternative, the Notice of Appeal raises the zero‑rated supply argument which is the subject of this motion. Finally, the Appellant’s position in his Notice of Appeal is that the amounts on which the assessment is based are incorrect since they are merely extrapolations for a two‑year period derived from evidence collected through wiretaps conducted over a few months only.
+[3] Gabriel Payeur’s appeal is governed by the Court’s Informal Procedure. According to the Amended Reply, Mr. Payeur’s assessments are in respect of his involvement in the production and sale of cannabis in 2006. According to the Amended Reply, he was charged criminally with producing and growing cannabis and with drug trafficking. His revenues were presumed to have come from two outside growing operations. The issues raised in Mr. Payeur’s Amended Notice of Appeal are as follows: (i) is the supply of cannabis a zero‑rated supply?; (ii) could a partnership have existed amongst Mr. Payeur and others as that would have had an unlawful cause and object and would have been contrary to public order?; and (iii) if he is found guilty, are the amounts attributed to him too high and based solely upon the results of the police investigation?
+[4] Sébastien Dion’s appeal is also governed by the Court’s Informal Procedure. According to the Amended Reply in his case, Mr. Dion’s assessment also a consequence of his involvement, with others, in the production and sale of cannabis in 2003 through 2006. According to the Reply, Mr. Dion was charged criminally with trafficking in narcotics and the production of cannabis. The issues raised in Mr. Dion’s Amended Notice of Appeal are as follows: (i) is the supply of cannabis a zero‑rated supply?; and (ii) if he is found guilty, have the amounts of his supplies and tax been correctly calculated since the only evidence of sales involved came from the results of the police investigation?
+[5] The motions of Mr. Dion and Mr. Payeur came on for hearing on September 9, 2010. However their Notices of Appeal were amended by their counsel that day on consent so that the zero‑rated supply argument could be raised. These amendments allowed the Respondent a period of time within which to revise its Replies. For this reason, it became premature to hear a motion to strike the Replies on the basis that they did not disclose any reasonable ground for opposing the appeals. It became therefore necessary to adjourn the scheduled hearing and it was agreed and ordered that written submissions would be filed in respect of the motions, that a similar motion would be filed by Mr. Bailey, and that the three motions would be argued together.
+II. The Law
+[6] It is the Appellants’ position that the supply of cannabis and cocaine are zero‑rated supplies. A zero‑rated supply is defined in subsection 123(1) of the GST legislation as a supply included in Schedule VI.
+[7] Part I of Schedule VI is headed “Prescription Drugs and Biologicals”. Section 2 of Part I lists the supply of “(d) a drug that contains a substance included in the schedule to the Narcotics Control Regulations, other than a drug or mixture of drugs that may be sold to a consumer without a prescription pursuant to the Controlled Drugs and Substances Act. . .”. (Paragraph (d) was revised in 2008 to add to the excluding phrase a reference to exemptions by the Minister of Health in respect of the so‑called medical use of marihuana.)
+[8] The Narcotics Control Regulations under the Controlled Drugs and Substances Act include:
+2. Coca (Erythroxylon), its preparations, derivatives, alkaloids and salts, including:
+(1) Coca leaves
+(2) Cocaine (benzoylmethylecgonine)
+(3) Ecgonine (3–hydroxy–2–tropane carboxylic acid)
+. . .
+17. Cannabis, its preparations, derivatives and similar synthetic preparations, including:
+(1) Cannabis resin
+(2) Cannabis (marihuana)
+(3) Cannabidiol (2–[3–methyl–6–(1–methylethenyl)–2–cyclohexen–1‑yl]‑5‑pentyl–1,3–benzenediol)
+(4) Cannabinol (3–n–amyl–6,6,9–trimethyl–6–dibenzopyran–1–ol)
+(5) Nabilone ((±)–trans–3–(1,1–dimethylheptyl)–6,6a, 7,8,10,10a–hexahydro–1–hydroxy–6,6–dimethyl–9H–dibenzo[b,d]pyran–9–one)
+(6) Pyrahexyl (3–n–hexyl–6,6,9–trimethyl–7,8,9, 10–tetrahydro–6–dibenzopyran–1–ol)
+(7) Tetrahydrocannabinol (tetrahydro–6,6,9–trimethyl–3–pentyl–6H–dibenzo[b,d]pyran–1–ol)
+(7.1) 3-(1,2-dimethylheptyl)-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-
+dibenzo[b,d]pyran-1-ol (DMHP)
+but not including
+(8) Non–viable Cannabis seed, with the exception of its derivatives
+(9) Mature Cannabis stalks that do not include leaves, flowers, seeds or branches; and fiber derived from such stalks
+[9] The Canada Revenue Agency (the “CRA”) has published GST/HST Memorandum 4.1 on Drugs and Biologicals. GST/HST Memoranda are not law but constitute an administrative general commentary on the law. Paragraph 12 of this memorandum deals with the zero‑rating of drugs that contain a substance included in the Narcotics Control Regulations. The Appellants point out that paragraph 12 includes the sentence “[t]hese drugs or substances are zero‑rated throughout the production and distribution chain (i.e., regardless of who sells them)”. The Appellants submit that this supports their interpretation that the zero‑rating extends to illegal sales of narcotic drugs. Specifically, they argue that this indicates the Ministère du Revenu du Québec (the “MRQ”), which administers the GST in the province of Quebec on behalf of the federal government, has assessed the Appellants contrary to the CRA’s administrative position.
+[10] The jurisprudence is well‑settled: illegal drug sales constitute taxable transactions (taxable supplies of goods for GST purposes). See Molenaar v. The Queen, 2003 TCC 468, 2005 DTC 857, [2005] G.S.T.C. 56, affirmed by the Federal Court of Appeal 2004 FCA 349, 2005 DTC 5307, [2005] G.S.T.C. 112, and Ouellette v. The Queen, 2009 TCC 443, [2010] G.S.T.C. 11.
+[11] The decision of this Court in Lavie v. The Queen, 2006 TCC 655, [2008] G.S.T.C. 44, pertained to the computation of illegal drug revenues and is an example of a situation where the Appellant was able to rebut the Minister’s assumptions which were based almost entirely upon the results of a police investigation into illegal drug activities.
+[12] The decision of this Court in Centre hospitalier Le Gardeur v. The Queen, 2007 TCC 425, [2007] G.S.T.C. 170, involved a number of Quebec hospitals arguing that in vitro diagnostic kits are zero‑rated by virtue of paragraph 2(a) of Part I of Schedule VI of the GST legislation since they are drugs included in Schedule D to the Food and Drugs Act. It can be noted that Centre hospitalier involved lawful sales of these goods. In that case, the Court gave the words “drug” and “drogue” in the GST legislation the meaning it had in the Food and Drugs Act since it was defined for the purposes of that Act. Specifically, the Court equated the words “drug” and “drogue” with “medication”. It can be noted that in that case, the Controlled Drugs and Substances Act was in issue and that the words “drug” and “drogue” are used in its title and in its opening preamble, and that those words are not defined in the remainder of the legislation. Similarly, the words “drug” and “drogue” are used in the GST legislation to describe the zero‑rated supplies in question. It is also noted that in Schedule VI, Part I uses the word “médicament” in French for the English word drug.
+[13] The decision of the Cour du Québec in Robitaille c. Québec (Sous-ministre du Revenu), [2010] J.Q. No. 11046 (QL), 2010 QCCQ 9283, was rendered since the initial motion date. In issue in Robitaille were the application of the Quebec provincial income tax and provincial sales tax (“TVQ”) on unlawful sales of cocaine in the course of trafficking in narcotics.
+[14] In Robitaille, the Court again followed such cases as Molenaar and Ouellette in holding that illegal drug sales are taxable transactions and held cocaine sales to be taxable supplies for TVQ purposes. The Court appears to have, at least in obiter, expressly rejected the argument that persons acting illegally cannot be considered to be the agent of the MRQ for purposes of collecting the TVQ.
+[15] It is important to note that the Cour du Québec, in Robitaille, had to consider the argument that cocaine sales were zero‑rated supplies for purposes of the TVQ. The TVQ zero‑rating regime applicable to drugs is similar to that of the GST legislation. The Court rejected the argument that cocaine was zero‑rated as follows:
+81 Par ailleurs, l'article 16 L.T.V.Q. prévoit que toute fourniture taxable effectuée au Québec est assujettie à la TVQ au taux de 7,5 % à moins d'être considérée comme une fourniture détaxée, auquel cas le taux de la TVQ est nul.
+82 Selon l'article 1 L.T.V.Q., une fourniture est détaxée lorsqu'elle est visée au chapitre IV de la Loi. Or, l'article 174(1)d/ L.T.V.Q. énonce :
+174. « Les fournitures suivantes sont détaxées :
+1. La fourniture d'une des drogues suivantes, sauf si elle est étiquetée ou fournie uniquement pour être utilisée en agriculture ou en médecine vétérinaire;
+d) Une drogue contenant une substance visée à l'annexe du Règlement sur les stupéfiants adopté en vertu de la Loi réglementant certaines drogues et autres substances (Loi du Canada, 1996, chapitre 19), sauf une drogue ou un mélange de drogues pouvant être vendu à un consommateur sans prescription conformément à cette loi à tout règlement adopté en vertu de cette loi. »
+83 À cet égard, le paragraphe de l'annexe 1 adopté en vertu de l'article 60 de la Loi réglementant certaines drogues et autres substances mentionne explicitement la cocaïne.
+84 Ainsi, selon ces dispositions, la volonté du législateur est de détaxer non pas les stupéfiants, telle la cocaïne, mais un médicament c'est‑à‑dire une drogue au sens de la Loi sur les aliments et drogues qui contient un stupéfiant et qui est prescrit par un médecin.
+85 En ce sens, la Cour canadienne de l'impôt dans Centre hospitalier Le Gardeur c. La Reine, s'exprime comme suit :
+« [49] L'exemple de l'alinéa 2d) nous aidera en partie à comprendre le sens grammatical et ordinaire à octroyer à « drogue » à l'alinéa 2a). L'alinéa 2d) indique « les drogues contenant un stupéfiant figurant à l'annexe du Règlement sur les stupéfiants [...] ». La Cour ne voit pas comment elle pourrait alors donner la signification restrictive à « drogue », que veut lui donner l'intimée. En effet, si une drogue correspond à la définition de « matière première » comme le propose l'intimée, comment pourrait-elle contenir autre chose tel un stupéfiant, tel qu'on le dit à l'alinéa 2d)? Une matière première est une substance provenant de la nature ou produite par la nature en totalité. Lorsqu'on commence à y intégrer autre chose, elle n'est plus un « matériau d'origine naturelle » mais bien un autre produit, un produit transformé. En ce sens, la définition de « drogue » qui peut contenir un stupéfiant est celle de la LAD. De plus, la même logique peut trouver une application à l'article 3 de la partie I de l'Annexe VI. En effet, dans cet article on vise la « fourniture de drogues destinées à la consommation humaine et délivrées par un médecin [...] ». Selon la définition de l'intimée, on viserait la fourniture de « matière première employée pour les préparations médicamenteuses », destinée à la consommation humaine. Selon la définition des appelants, on viserait plutôt un mélange de substances vendu comme pouvant servir au traitement d'une maladie, soit une drogue au sens de la LAD. À notre avis, puisque la matière première est destinée à la fabrication d'un médicament, elle ne peut donc être du même coup destinée à la consommation humaine. Nous devrions donc privilégier la définition de « drogue » de la LAD pour l'article 3 de la partie I de l'Annexe VI. En ce sens, en considérant le sens grammatical et ordinaire de « drogue » à l'alinéa 2a), en fonction de son contexte, et en privilégiant une signification commune de « drogue » à l'intérieur de la partie I de l'Annexe VI, il semble bien que la Cour doive privilégier la définition de « drogue » contenue à la LAD proposée par les appelants au détriment de la définition de « matière première » préconisée par l'intimée. »
+« [50] L'alinéa 2a) fait partie de la partie I de l'Annexe VI. Le titre de la partie I de l'Annexe VI de la LTA s'intitule « Médicaments sur ordonnance et substances biologiques » (en anglais « Prescription drugs and biologicals »). L'auteur Pierre‑André Côté indique que le titre d'une partie contenant une disposition ambiguë, comme c'est le cas en l'espèce, est pertinent quand il s'agit d'interpréter cette disposition. Puisque le titre de la partie en question traite de médicaments sur ordonnance et de substances biologiques, il est logique de penser que l'on traitera de ces deux thèmes à l'intérieur de la dite partie. En ce qui concerne les substances biologiques, on sait que cette partie du titre fut ajoutée en raison de l'ajout de l'article 5 à cette partie. En ce qui concerne les autres articles de la Partie I, on en déduit donc que ce sont des médicaments sur ordonnance qu'on voulait traiter. Puisque le législateur n'a utilisé à aucun endroit le terme « médicament » dans la partie I, on peut penser que d'autres termes jouent alors ce rôle. À notre avis, comme le laissent entendre les appelants avec la définition de « drogue » et de « drug » dans la LAD, et la définition de « drug » dans les dictionnaires, nous croyons que « drogue » telle qu'utilisée à l'alinéa 2a) signifie alors « médicament ». C'est là une conclusion logique à laquelle on peut en arriver de manière à concilier le titre français de la partie I avec le contenu de cette même partie. En anglais, la question ne se pose pas vraiment, puisque « drug » peut vouloir signifier « médicament » tant en vertu des dictionnaires que de la LAD. »
+[16] The Cour du Québec’s decision has not been appealed from and the appeal deadline has since expired. It is the Appellant’s submission that Robitaille was wrongly decided.
+III. Considerations Applicable to the Motion
+[17] The Court is not being asked to conduct a reference by agreement of the parties under section 310 of the GST legislation. Nor is it being referred a question by the Minister under section 311. The Bailey motion has been brought under Rules 53 and 58. These are motions by the Appellants to strike the Respondent’s Replies on the basis that they disclose no reasonable grounds for opposing the motion or will contribute to delay. The applicable threshold is quite high: such motions can only be granted if the Court is satisfied that it is plain and obvious, or manifestly evident, from the Replies, that no reasonable grounds for opposing the appeals exist. As set out by the Appellants in paragraph 7 of their written submissions:
+Les critères applicables concernant le rejet ou la radiation d’un avis d’appel selon les articles 53 et 58b) des Règles ne sont pas différents. L’avis d’appel sera rejeté ou radié lorsqu’il est évident et manifeste qu’il n’y a aucune chance de succès. Voici ce que le juge Miller précise dans l’affaire Gauthier (Gisborn) c. La Reine, 2006 CCI 290 :
+[5] Quel est donc le critère d’application de l’article 53 des Règles? Je pense qu’il n’est pas différent du critère de l’article 58 des Règles, selon lequel un acte de procédure sera radié s’il est évident et manifeste qu’il n’a aucune chance de succès. Contrairement à de nombreuses autres cours, les Règles de la Cour canadienne de l’impôt comprennent des dispositions différentes pour, d’une part, radier un acte de procédure entier au motif qu’il ne révèle aucun moyen raisonnable d’action (article 58 des Règles) et pour, d’autre part, radier des parties d’un acte de procédure aux motifs énumérés à l’article 53 des Règles cité ci‑dessus. L’arrêt de principe en la matière est la décision de la Cour suprême du Canada dans l’affaire Hunt c. Carey Canada Inc., dans laquelle le critère a été énoncé de la façon suivante:
+Ainsi, au Canada, le critère régissant l'application de dispositions comme la règle 19(24)a) des Rules of Court de la Colombie‑Britannique est le même que celui régissant une requête présentée en vertu de la règle 19 de l'ordonnance 18 des R.S.C. : dans l'hypothèse où les faits mentionnés dans la déclaration peuvent être prouvés, est‑il « évident et manifeste » que la déclaration du demandeur ne révèle aucune cause d'action raisonnable? Comme en Angleterre, s'il y a une chance que le demandeur ait gain de cause, alors il ne devrait pas être « privé d'un jugement ». La longueur et la complexité des questions, la nouveauté de la cause d'action ou la possibilité que les défendeurs présentent une défense solide ne devraient pas empêcher le demandeur d'intenter son action. Ce n'est que si l'action est vouée à l'échec parce qu'elle contient un vice fondamental qui se range parmi les autres énumérés à la règle 19(24) des Rules of Court de la Colombie‑Britannique que les parties pertinentes de la déclaration du demandeur devraient être radiées en application de la règle 19(24)a).
+[18] In Carma Developers Ltd. v. The Queen, 96 DTC 1803, Christie A.C.J. of this Court wrote:
+In Moriarity et al. v. Slater et al., 67 O.R. (2d) 758, Mr. Justice White said at page 764:
+I am of the view that, as in an application under rule 21.01(1)(b) (of the Ontario Rules of Civil Procedure), that is an application to strike out a pleading on the ground that it discloses no reasonable cause of action, so in an application under rule 21.01(1)(a) that is an application for the determination before trial of a question of law raised by a pleading, that caution and prudence should govern the exercise of the court's discretion.
+In summary, I am of the opinion that paragraph 58(1)(a) of the Rules is not intended as an easily accessible alternative to a trial for the disposition of complex and contentious disputes about the rights and liabilities of litigants. It is to be invoked when it is clear that the determination of all or part of a dispute by trial would be essentially redundant. . .
+[19] Carma Developers was referred to by the Federal Court of Appeal with approval in The Queen v. Jurchison et al., 2001 DTC 5301.
+[20] The Federal Court in O’Neil v. The Queen, 95 DTC 5060, described the test for a similar rule as follows: (i) is it plain and obvious that the pleading discloses no reasonable cause of action?; and (ii) is the action so futile that it does not have the slightest chance of success or will not lead to any practical result?
+[21] In The Queen v. Special Risks Holdings Inc., 89 DTC 5039, the Federal Court of Appeal stated that, under that test, a court must ask whether there is at least a possibility of a cause of action based on the allegations in the pleading. In Glenmaroon Holdings (1986) Limited v. The Queen, 97 DTC 857 (TCC), aff’d 99 DTC 5185 (FCA), this Court stated that, under that test, a court must ask whether the outcome of the case is beyond reasonable doubt. Similarly in the Queen v. Ferner, 74 DTC 6216, the Federal Court stated that a court must ask whether there is at least an arguable case.
+[22] In Main Rehabilitation Co. Ltd. v. The Queen, 2003 TCC 454, 2004 DTC 2099, aff’d 2004 FCA 403, 2004 DTC 6762 (leave to appeal to the Supreme Court of Canada dismissed), this Court held that the threshold of application of section 53 of the Rules is high: that provision is not to be applied unless the issue raised in the Notice of Appeal clearly has no merit.
+[23] In Sentinel Hill Productions (1999) Corporation v. The Queen, 2007 TCC 742, 2008 DTC 2544, former Chief Justice Bowman of this Court wrote that “[t]o strike out a pleading or part of a pleading under Rule 53 it must be plain and obvious that the position has no hope of succeeding. The test is a stringent one and the power to strike out a pleading must be exercised with great care.”
+[24] With respect to the issue of unduly delaying the resolution of the appeal, the Appellants’ position is that given the approaches taken by the MRQ in the assessments to estimating sales revenues, the taxpayers will be required to adduce considerable evidence, including, potentially, expert evidence, in order to discharge their burden of proof with respect to the issues of quantum.
+[25] The Dion and Payeur motions are under the Informal Procedure. However, where Rules 53 and 58 are applied by analogy in accordance with Rules 19(1) and 19(4) on a suppletive basis, the threshold tests are essentially the same.
+[26] The Respondent’s position in the Replies that illegal drug sales are not zero‑rated supplies has already persuaded the Cour du Québec. It would be therefore inappropriate for this Court to conclude that this same argument is without merit and does not have any chance of success. It may be that the Cour du Québec’s decision ultimately will not be followed by this Court for whatever reason. However, it is premature to conclude that it is manifestly evident or plain and obvious that the Respondent’s Replies do not set out a reasonable basis for opposing the appeals. Judicial comity[1] requires that this Court at least acknowledge a decision of a provincial court having essentially coordinate jurisdiction over the same subject matter which decision upholds the Respondent’s legal position. How can it be plain and evident that no reasonable ground with any prospect of success has been advanced when the Cour du Québec has decided in Robitaille to uphold comparable assessments under Quebec provincial sale tax legislation? In Robitaille the Cour du Québec expressly rejected the argument that cannabis sales are zero‑rated supplies. In doing so it relied upon a decision of this Court, Centre hospitalier, which equated the word drug with medication.
+[27] To quote again from Bowman C.J. in Sentinel Hill:
+“Where senior and experienced counsel advances a proposition of fact or law in a pleading that merits serious consideration by a trial judge, it is at least presumptuous and at most insulting and offensive to force counsel to face the argument that the position is so lacking in merit that it does not even deserve to be considered by a trial judge.”
+[28] This applies all the more so to a decision of the Cour du Québec.
+[29] For the above reasons, in these cases, it would not be appropriate to decide the issue raised by the Appellants on a motion. Unless the parties agree to a common reference or the Minister refers a question to the Court, the determination of the issue raised in these motions must be left to the trial judge. Even if the Minister were to refer this question to the Court under section 311, it is not clear that the Court would proceed to a determination of the question given that, if the question were answered in the negative and the illegal sale of drugs held not to be a zero‑rated supply, substantial issues requiring a trial in any event would remain between the parties.
+[30] Further, it can be observed that, with respect to the appeals in Dion and Payeur, the definition of cannabis in the Narcotics Control Regulations excludes several forms of cannabis whereas the pleadings only refer to cannabis. The definition of cannabis may require further evidence that is was not amongst the three excluded types of cannabis.
+[31] The motions are denied, with costs.
+Signed at Toronto, Ontario, this 28th day of April 2011.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+On this 3rd day of May 2011
+François Brunet, Revisor
+CITATION: 2011 TCC 233
+COURT FILE NOS.: 2009-2324(GST)G, 2009-1576(GST)I, 2009‑2591(GST)I
+STYLE OF CAUSE: RONALD BAILEY v. HMQ AND GABRIEL PAYEUR v. HMQ AND SÉBASTIEN DION v. HMQ
+PLACE OF HEARING:
+DATE OF HEARING:
+REASONS FOR ORDER BY: The Honourable Justice Patrick Boyle
+DATE OF ORDERS: April 28, 2011
+Counsel for the Appellants:
+Richard Généreux
+Counsel for the Respondent:
+Gérald Danis
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Richard Généreux
+Firm:
+Drummondville (Quebec)
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] For a discussion of judicial comity, see the decision of this Court in see Houda International Inc. v. The Queen, 2010 TCC 622.

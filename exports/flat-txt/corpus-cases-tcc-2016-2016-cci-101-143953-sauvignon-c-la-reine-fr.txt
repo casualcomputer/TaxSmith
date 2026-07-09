@@ -1,0 +1,180 @@
+Title: Sauvignon c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/143953/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-101-143953-sauvignon-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-05-02
+
+# Sauvignon c. La Reine
+
+- Citation: 2016 CCI 101
+- Decision date: 2016-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3098, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sauvignon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-05-02
+Référence neutre
+2016 CCI 101
+Numéro de dossier
+2010-3810(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3810(IT)G
+ENTRE :
+ANNIE SAUVIGNON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 2 septembre 2015, à Montréal (Québec).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l'appelante :
+Me Henri Simon
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+JUGEMENT
+L’appel interjeté de la cotisation datée du 20 décembre 2007 en vertu de la Loi de l’impôt sur le revenu est rejeté, avec dépens à l’intimée, selon les motifs de jugement ci-joints.
+Signé à Toronto, Canada, ce 2e jour de mai 2016.
+« B.Paris »
+Juge Paris
+Référence : 2016 CCI 101
+Date :20160502
+Dossier : 2010-3810(IT)G
+ENTRE :
+ANNIE SAUVIGNON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Madame Annie Sauvignon (l’« appelante ») interjette appel à l’encontre d’une cotisation en date du 20 décembre 2007 au montant de 154 349,84 $ émise en vertu du paragraphe 160(1) de la Loi de l’impôt sur le revenu, L.R.C. 195, c. 1 (5e supp). « LIR ». Par cette cotisation, le ministre tente de percevoir auprès de l’appelante des dettes fiscales dues par feu son conjoint de fait, monsieur Ralph Abergel. Le montant des dettes fiscales de M. Abergel, qui totalisait 2 373 487,83 $ au moment de la cotisation, n’est pas controversé.
+[2] Le ministre a cotisé l’appelante au motif que M. Abergel lui a transféré les sommes suivantes, sans contrepartie :
+Virement bancaire en date du 14 novembre 2001
+100 000,00 $
+Chèque en date du 10 mars 2003
+4 000,00 $
+Chèque en date du 17 avril 2003
+28 000,00 $
+Chèque en date du 1er septembre 2003
+1 500,00 $
+Chèque en date du 3 septembre 2003
+(Le montant réel du chèque est de 3 550,00 $)
+3 500,00 $
+Chèque en date du 29 septembre 2003
+500,00 $
+Chèque en date du 10 novembre 2003
+6 000,00 $
+Chèque en date du 9 janvier 2004
+3 492,00 $
+Chèque en date du 22 janvier 2004
+1 000,00 $
+Chèque en date du 24 août 2006
+1 357,84 $
+Virement bancaire en date du 13 décembre 2006
+5 000,00 $
+Total
+154 349,84 $
+[3] L’appelante admet que ces sommes ont été versées dans son compte bancaire par M. Abergel, mais conteste la cotisation au motif que la somme de 100 000 $ qu’elle a reçue de M. Abergel le 14 novembre 2001 était un prêt et non pas un transfert au sens du paragraphe 160(1). Quant aux autres sommes, elle dit avoir fourni une contrepartie égale à la valeur des transferts au moment où elle les a reçus.
+Dispositions législatives [4] Voici les parties pertinentes du paragraphe 160(1) de la LIR :
+160. (1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+…
+les règles suivantes s’appliquent :
+…
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+Faits [5] L’appelante dit avoir fait la connaissance de M. Abergel en mars 2001. À cette époque elle était au service du Manoir Laval Ouest, une résidence pour personnes âgées, à titre de secrétaire, et M. Abergel était récemment devenu associé et actionnaire de l’entreprise. En juillet 2001 ils ont noué une relation intime. Ils ont vécu ensemble entre octobre 2002 et octobre 2003; suite à ce moment, M. Abergel est retourné vivre avec son ancienne conjointe, Mme Esther Ouahidi, pendant trois mois. Par la suite, M. Abergel et l’appelante ont cohabité de janvier 2003 jusqu’au décès de M. Abergel en 2015.
+[6] L’appelante témoigne qu’à l’automne 2001, M. Abergel lui a prêté 98 000 $ pour l’achat d’un condominium à Brossard dont le prix était 280 000 $. L’appelante a emprunté le restant du prix d’achat d’une caisse d’épargne. L’appelante dit qu’elle n’avait pas les moyens pour rembourser le prêt reçu de M. Abergel tout de suite et qu’elle et M. Abergel se sont entendus qu’elle le rembourserait « au fur et à mesure »
+[7] L’appelante produit en preuve (la pièce A-3) un document de prêt signé par M. Abergel et elle-même daté du 29 octobre 2001, lequel se lit comme suit :
+Je soussigné Ralph Abergel en ce jour du 29 octobre 2001, je fais un prêt de 98000$ à Mme Annie Sauvignon.
+Le remboursement ce (sic) fera progressivement dans la mesure de ses moyens sur une période de 10 ans ou moins.
+[8] Ce document n’a été communiqué à l’intimée que quatre jours avant l’audition devant notre Cour, bien que l’appelante dit l’avoir trouvé dans les documents de M. Abergel en mars 2015, peu après son décès.
+[9] L’appelante dit aussi qu’à un certain moment, apparemment vers la mi‑2004, Mme Ouahidi a fait faire des saisies sur tous les comptes de banque de M. Abergel. Afin d’aider M. Abergel dans ces circonstances, l’appelante dit qu’elle a pris en charge toutes ses dettes. Elle dit aussi avoir payé beaucoup de ses dépenses personnelles. De cette façon, elle dit avoir remboursé le prêt et les dépôts qu’il a effectué dans son compte bancaire.
+[10] L’appelante produit à la Cour une liste de paiements qu’elle dit avoir effectué pour M. Abergel jusqu’en 2015, et des états de compte et d’autres documents à l’appui. Les paiements recensés sur cette liste totalisent 132 775,64 $ (Pièce A-2 - avant l’onglet 1).
+[11] L’appelante précise qu’à part quelques contributions mineures de la part de M. Abergel, elle a également assumé seule tous les frais se rattachant au condominium. Selon ses calculs, détaillés à l’onglet 100 de la Pièce A-2, elle a payé plus de 359 107 $ relativement à ces frais pendant la période où M. Abergel et elle vivaient ensemble, et la moitié de cette somme représente la part des dépenses dues par M. Abergel.
+[12] En bref, elle affirme avoir remboursé les sommes reçues de M. Abergel par tous les paiements qu’elle a effectués à son nom et pour son compte.
+Thèses de l’appelante [13] L’appelante soutient qu’il ne ressort pas des preuves que M. Abergel avait l’intention de lui faire un don des montants en cause et qu’il ressort clairement du témoignage de l’appelante et du comportement des parties subséquemment aux dépôts en cause qu’il n’y a pas eu donation.
+[14] L’appelante soutient aussi que le dépôt de 100 000 $ en novembre 2001 était un prêt et n’était donc pas un transfert au sens de l’article 160 de la LIR. De plus, elle dit que l’intimée n’a pas démontré l’existence d’une contre‑lettre au contrat de prêt entre elle et M. Abergel. Subsidiairement, elle soutient que même s’il existait une contre-lettre, l’intimée n’est pas un tiers de bonne foi au sens de l’article 1452 du Code civil du Québec, L.R.Q. c. C-1991 (« C.c.Q. ») et ne peut pas se prévaloir d’un choix entre la contre-lettre alléguée ou le contrat de prêt.
+[15] L’appelante maintient aussi qu’elle a versé une contrepartie suffisante pour le prêt et pour les dépôts en forme de paiements aux créanciers de M. Abergel et de paiements de dépenses personnelles. Elle dit que les sommes qu’elle a payées dépassent largement les montants que M. Abergel avait déposés dans son compte bancaire. De plus, elle dit qu’il n’est pas nécessaire que la contrepartie ait été versée au moment où le bien fut transféré.
+[16] Finalement, l’appelante soutient qu’il existait une relation de mandant‑mandataire entre elle et M. Abergel quant aux montants déposés dans son compte autre que le 100 000 $. Elle dit qu’elle avait une obligation légale envers lui de payer ses dettes selon ses instructions à partir des montants déposés dans son compte bancaire et que, pour cette raison, il n’y avait pas eu transfert de ces sommes au sens du paragraphe 160(1) de la LIR.
+Analyse Contrat de prêt [17] Je discuterai d’abord la thèse de l’appelante portant qu’il ressort des preuves qu’existe un contrat de prêt entre elle et M. Abergel du montant de 100 000 $ déposé dans le compte de banque de l’appelante le 14 novembre 2001.
+[18] Il est clair que lorsqu’un débiteur fiscal prête de l’argent à une personne avec laquelle il a un lien de dépendance, l’article 160 de la LIR ne peut trouver application, puisqu’il n’y a pas eu transfert de biens. Ce principe a été rappelé par le juge Archambault de notre Cour à l’occasion de l’affaire Tétrault c. La Reine, 2004 CCI 332 où il observe au paragraphe 39 :
+À mon avis, il ressort des décisions Fasken et Dunkelman que, pour qu'il y ait un transfert d'un bien aux fins des règles d'attribution, il est essentiel que l'auteur du transfert se soit départi de son droit de propriété et que le bien ait été dévolu au bénéficiaire. La simple possession d'un bien prêté avec l'obligation de le rendre ne satisfait pas à cette condition. À mon avis, tel est le sens qu'il faut donner à l'expression « qu'il lui cède les biens ». Il faut également retenir ce sens aux fins du paragraphe 160(1) de la Loi. Comme le disait la juge Desjardins dans l'arrêt Medland (précité) au paragraphe 14 : « [. . .] la politique fiscale qui sous-tend le paragraphe 160(1), ou son objet et son esprit consistent à empêcher un contribuable de transférer ses biens à son conjoint afin de faire échec aux efforts déployés par le ministre pour percevoir l'argent qui lui est dû. » Or, le prêt d'argent ne constituerait pas une façon de faire échec à la perception de l'impôt dû par le prêteur. En vertu du paragraphe 224(4) de la Loi, le ministre pourrait saisir en mains tierces la somme prêtée. Cette notion de « transfert » est donc conciliable avec l'objet poursuivi par le paragraphe 160(1) de la Loi.
+[19] Le juge C. Miller, suite à la jurisprudence Tétrault, a aussi conclu à l’occasion de l’affaire Merchant c. La Reine, 2005 DTC 377 qu’un prêt ne constituait pas un transfert de biens au sens de l’article 160 de la LIR.
+[20] Cependant, à mon avis, l’appelante n’a pas réussi à démontrer selon la prépondérance des preuves que M. Abergel lui a prêté les 100 000 $ au moment de l’achat de son condominium en 2001 et je ne suis pas convaincu que le document de prêt fut signé par l’appelante et M. Abergel au moment qui est soutenu. La production très tardive du document de prêt, le fait que l’appelante ne l’aurait jamais porté à l’attention de l’Agence du revenu du Canada (l’« ARC ») après sa cotisation, et le comportement de l’appelante et M. Abergel postérieurement à la conclusion du soi-disant prêt constituent tous des facteurs dont il ressort à mon avis qu’il n’existait nulle entente de prêt entre eux au moment pertinent.
+[21] Tout d’abord, il m’est très difficile de croire que l’appelante aurait tout simplement oublié l’existence du prêt allégué jusqu’au moment en 2015 où elle avait retrouvé le document du prêt dans les affaires de M. Abergel, comme elle le dit, ou qu’elle n’aurait pas conservé une copie du document elle-même. De plus, selon son témoignage, elle aurait tenu au jour le jour un registre de remboursements du prêt allégué, registre incluant maintes transactions pour toutes les années de 2004 à 2015 : cela contredit l’oubli du prêt. Un autre élément rend le témoignage de l’appelante au sujet de la tenue de ce registre au jour le jour peu convaincant : la liste n’est pas selon l’ordre chronologique. Il faut aussi rechercher pourquoi, si elle tenait compte des remboursements comme elle le dit, elle n’aurait pas remarqué quand la dette était remboursée en totalité. Au contraire, elle dit que le montant total qu’elle a payé au nom de M. Abergel dépassait le montant du prêt.
+[22] De plus, la situation financière de l’appelante au moment du prêt allégué me mène à croire que le transfert était plus probablement un don. En novembre 2001, selon son propre témoignage, elle gagnait 500 $ par semaine comme secrétaire, n’avait pas d’argent à contribuer à l’achat du condominium et aucune institution financière n’était disposée à lui prêter des fonds. En dépit de son faible revenu, elle dit avoir a emprunté la totalité du prix d’achat et, par la suite, avoir payé les charges et taxes elle-même. A l’onglet 100 de la pièce A-2, elle indique les coûts mensuels (hypothèque, taxes et frais de condo) de 2 761,85 $, ce qui dépasse largement son revenu; et il en ressort clairement qu’il n’y avait aucune perspective qu’elle puisse rembourser le montant reçu de M. Abergel.
+[23] Un autre élément qui milite en faveur de la thèse de l’intimée que le montant en question constituait un don plutôt qu’un prêt est le fait qu’en 2007, après avoir reçu la cotisation en l’espèce, l’appelante a hypothéqué son condominium pour la somme de 408 000 $ et, après avoir remboursé l’hypothèque existant en faveur de la caisse populaire au montant approximatif de 180 000 $ au départ en 2001, elle a transféré le solde aux États-Unis pour acheter une maison en Floride. Il me semble peu probable que M. Abergel n’ait pas demandé le remboursement du soi-disant prêt à ce moment, s’il s’agissait vraiment d’un prêt.
+[24] En revanche, si j’avais conclu que le document de prêt a été signé en octobre 2001, j’aurai retenu la thèse de l’intimée portant qu’il y avait simulation entre l’appelante et M. Abergel en ce qui concerne le transfert de 100 000 $ qui a eu lieu le 14 novembre 2001.
+[25] Les règles applicables en matière de simulation se trouvent aux articles 1451 et 1452 du C.c.Q. :
+1451. Il y a simulation lorsque les parties conviennent d'exprimer leur volonté réelle non point dans un contrat apparent, mais dans un contrat secret, aussi appelé contre-lettre.
+Entre les parties, la contre-lettre l'emporte sur le contrat apparent.
+1452. Les tiers de bonne foi peuvent, selon leur intérêt, se prévaloir du contrat apparent ou de la contre-lettre, mais s'il survient entre eux un conflit d'intérêts, celui qui se prévaut du contrat apparent est préféré.
+[26] La question de la simulation au regard du paragraphe 160(1) de la LIR a été discutée par la Cour d’appel fédérale à l’occasion de l’affaire Sa Majesté la Reine c. 9101-2310 Québec Inc., 2013 CAF 241. En première instance, la cotisation de la société appelante en vertu du paragraphe 160(1) avait été annulée au motif qu’aucun transfert n’avait eu lieu, puisqu’une entente existait entre les parties afin de permettre au débiteur fiscal de demeurer le propriétaire des sommes déposées dans le compte de banque de la société appelante. En effet, le juge de première instance a conclu que le débiteur n’avait pas d’intention de transférer la propriété de la somme en litige de la société appelante. Le juge a observé au paragraphe 23 :
+En effet, M. Garneau n'avait aucune intention de transférer à 2310 la propriété de la somme. Bien que la manœuvre avait pour but de dissimuler le fait que cette somme faisait partie du patrimoine du débiteur fiscal face à la BFD afin d'empêcher qu'elle soit saisie, l'entente telle que reflétée par la lettre du 23 mars 2002 était à l'effet que le débiteur fiscal demeurait propriétaire de cet argent, lequel devait être déboursé selon ses directives dans le cadre d'un mandat régi par le C.c.Q. C'est donc qu'il n'y a pas eu transfert au sens du paragraphe 160(1).
+[27] Toutefois, l’appel interjeté à l’encontre de cette décision a été accueilli par la Cour d’appel fédérale, au motif que le débiteur fiscal et la société appelante se sont livrés à une simulation. La Cour a conclu que le débiteur fiscal, en remettant un chèque endossé au principal de la société appelante pour qu’il le dépose dans le compte de la société appelante, avait fait en sorte que l’argent semblait être celui de la société appelante malgré le fait que selon l’entente conclue avec la société appelante la somme appartenait toujours au débiteur fiscal. La Cour d’appel a précisé que, pour que joue l’article 1452 du C.c.Q., il suffit que le débiteur ait eu l’intention de créer une apparence trompeuse quant à la détention de la somme. Ainsi, le ministre du Revenu national pouvait se prévaloir du contrat apparent afin de cotiser le contribuable en vertu du paragraphe 160(1).
+[28] En l’espèce, par les mêmes motifs que j’ai exposés aux paragraphes ci‑haut, je conclus que ni l’appelante ni M. Abergel n’avait l’intention que le transfert d’argent soit un prêt.
+[29] À la lumière de cette preuve, je conclus que l’appelante et M. Abergel se sont réellement convenus que le transfert de 100 000 $ par M. Abergel à l’appelante le 14 novembre 2001 était un don; s’ils ont signé le document de prêt à ce moment, c’était pour occulter la vraie nature du transfert.
+[30] Le ministre, étant un tiers de bonne foi, peut, selon l’article 1452 du C.c.Q., se prévaloir de l’entente réelle pour cotiser l’appelante. L’article 160 de la LIR est une mesure de perception, et lorsque le ministre intervient comme « percepteur », il devrait être considéré comme un tiers visé par l’article 1452 du C.c.Q.: Bolduc c. La Reine, 2003 DTC 221.
+Contrepartie suffisante [31] La thèse de l’appelante portant qu’elle ait fourni une contrepartie suffisante pour les autres montants que M. Abergel lui a remis entre le 10 mars 2003 et le 13 décembre 2006 ne peut pas être retenue non plus.
+[32] Il est vrai que le paiement de dettes à des tierces parties peut constituer une contrepartie suffisante pour les cessions de biens au sens du paragraphe 160(1) de la LIR. À l’occasion de l’affaire Raphaël c. Canada, 2002 CAF 23 la Cour d’appel fédérale a observé au paragraphe 10 :
+Si de fait la femme avait fait une promesse légalement exécutoire de verser de l'argent aux créanciers de son mari uniquement selon les instructions de celui-ci, et ce, en leur remettant des montants correspondant aux fonds qui avaient été transférés, cela aurait bien pu constituer une contrepartie suffisante pour éviter l'application du paragraphe 160(1). […]
+[33] Pourtant, il faut conclure à l’existence d’une obligation légale de payer les dettes du cédant et non pas une obligation simplement morale. Cette exigence a été soulignée par la Cour d’appel du Québec à l’occasion de l’affaire Agence du revenu du Québec c. St-Laurent, 2014 QCCA 553, où la Cour s’est penchée sur l’interprétation de l’article 14.4 de la Loi sur l’administration fiscale, L.R.Q., c.A-6.002, qui est rédigée dans les mêmes termes que le paragraphe 160(1) de la LIR. Au sujet de la question de savoir si une obligation de payer des dettes d’un cédant de bien constitue une contrepartie suffisante pour le transfert, la Cour a observé, au paragraphe 26 de l’arrêt :
+On constate que la simple obligation morale d’acquitter les dettes du cédant à hauteur et au rythme des cessions ne constitue pas une contrepartie valable au sens de l’article 160(1) de la LIR. Toutefois, dans la présente affaire, il ne s’agit pas d’une obligation morale, mais bien d’une obligation légale.[…]
+[34] Il incombait à l’appelante de présenter une preuve suffisamment claire établissant qu’elle avait fait une promesse légalement exécutoire de verser l’argent déposé dans son compte aux créanciers de M. Abergel. À mon avis, elle ne s’est pas acquittée de ce fardeau.
+[35] L’appelante a témoigné qu’elle a convenu avec M. Abergel qu’elle paierait ses créanciers au moment où les comptes de banque de M. Abergel ont été saisis. Puisque l’appelante n’a commencé à payer des créanciers de M. Abergel qu’en août 2004 (selon l’onglet 1 de la pièce A-2,), toute obligation de sa part, s’il n’y en avait une, n’aurait pas été contractée avant ou au moment des dépôts dans son compte par M. Abergel en 2003 (à part un transfert de 5 000 $ qui a eu lieu le 13 décembre 2006). De plus, il est manifeste que les comptes de M. Abergel n’étaient pas saisis lorsqu’il a fait des transferts à l’appelante en 2003, puisque la plupart des transferts étaient effectués par chèque de M. Abergel.
+[36] L’appelante soutient que le moment où la contrepartie est donnée n’est pas pertinent aux fins de l’application de l’article 160 de la LIR et que la contrepartie n’a pas à être versée au moment où l’appelante a reçu l’argent. Cette thèse est exacte, elle ne lui est de nulle utilité. La naissance de l’obligation doit coïncider avec le transfert d’argent afin de constituer la contrepartie aux fins du transfert, même si l’exécution de l’obligation peut avoir lieu ultérieurement.
+[37] De toute façon, je n’ai pas trouvé crédible le témoignage de l’appelante vu les multiples contradictions et incohérences; j’en ai cité quelques-unes déjà. Voici les plus importantes: elle avait oublié l’existence du prêt jusqu’à ce qu’elle trouve le document de prêt en 2015; le document à l’onglet 1 de la pièce A-2 était un registre qu’elle tenait au jour le jour des remboursements du prêt allégué, ce qui était évidemment pas le cas. Quelques autres exemples : elle a reçu les transferts de M. Abergel en 2003 parce que ses comptes étaient saisis bien que les transferts ont été faits par chèque par M. Abergel; elle avait déclaré dans une lettre à l’ARC que certains transferts importants dans son compte de banque étaient faits par M. Abergel « par l’entremise de Karen Abergel », sa fille, alors qu’en contre‑interrogation elle a admis que c’était Karen Abergel elle-même qui avait fait les paiements. J’ai aussi relevé que, dans une autre lettre à l’ARC (la pièce I-3), l’appelante a dit qu’elle était la conjointe de M. Abergel depuis 2001 et non pas 2003 comme elle l’a déclaré devant la Cour. Encore en contre‑interrogatoire, elle a admis que plusieurs paiements qu’elle avait signalés comme paiements effectués pour le compte de M. Abergel étaient en fait ses propres dépenses personnelles. Enfin, l’appelante dit que M. Abergel a pris beaucoup d’avances sur la carte de crédit de l’appelante pour jouer au poker en ligne, mais elle n’a pas expliqué pourquoi il se serait servi de sa carte de crédit pour le faire étant donné qu’il avait lui-même plusieurs cartes de crédit actives aux moments pertinents.
+Mandat [38] La thèse de l’appelante portant qu’il existait une relation de mandant‑mandataire entre elle et M. Abergel au regard des montants payés par M. Abergel à l’appelante entre le 10 mars 2003 et le 13 décembre 2006 a été soulevée pour la première fois dans la réplique de l’appelante aux prétentions écrites de l’intimée. Il ne m’a pas apparu nécessaire d’inviter l’intimée à produire des observations supplémentaires sur cette question.
+[39] L’article 2130 du C.c.Q. définit le mandat comme suit :
+2130. Le mandat est le contrat par lequel une personne, le mandant, donne le pouvoir de la représenter dans l'accomplissement d'un acte juridique avec un tiers, à une autre personne, le mandataire qui, par le fait de son acceptation, s'oblige à l'exercer.
+Ce pouvoir et, le cas échéant, l'écrit qui le constate, s'appellent aussi procuration.
+[40] Étant donné ma conclusion que l’appelante n’a pas démontré qu’elle agissait en vertu d’une obligation légale de payer les dettes de M. Abergel, je ne puis conclure qu’il existait un mandat entre elle et M. Abergel quant aux dépôts faits par ce dernier dans le compte de banque de l’appelante.
+Conclusion [41] Par tous ces motifs, l’appel est rejeté, avec dépens à l’intimée.
+Signé à Toronto, Canada, ce 2e jour de mai 2016.
+« B.Paris »
+Juge Paris
+RÉFÉRENCE :
+2016 CCI 101
+Nº DU DOSSIER DE LA COUR :
+2010-3810(IT)G
+INTITULÉ DE LA CAUSE :
+ANNIE SAUVIGNON ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 2 septembre 2015
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 2 mai 2016
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Henri Simon
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Me Henri Simon
+Cabinet :
+Simon & Associés
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

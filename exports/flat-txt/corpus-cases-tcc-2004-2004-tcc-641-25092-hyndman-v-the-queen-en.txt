@@ -1,0 +1,122 @@
+Title: Hyndman v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25092/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-641-25092-hyndman-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-09-27
+
+# Hyndman v. The Queen
+
+- Citation: 2004 TCC 641
+- Decision date: 2004-09-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2501, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hyndman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-27
+Neutral citation
+2004 TCC 641
+File numbers
+2002-765(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-765(IT)G
+BETWEEN:
+DONALD ROBERT HYNDMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 1, 2004, at Montréal, Québec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Stephen Ashkenazy
+Counsel for the Respondent:
+Alain Gareau
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1994 taxation year is allowed in part and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. There will be no order as to costs.
+Signed at Ottawa, Canada, this 27th day of September 2004.
+"François Angers"
+Angers, J.
+Citation: 2004TCC641
+Date: 20040927
+Docket: 2002-765(IT)G
+BETWEEN:
+DONALD ROBERT HYNDMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers, J.
+[1] The Minister of National Revenue (Minister) initially assessed the appellant for his 1994 taxation year on May 26, 1995. In computing his income for that year, the appellant did not include employment income in the amount of $94,274 with respect to the exercise of stock options. In accordance with paragraph 152(4)(a) of the Income Tax Act (Act), the Minister reassessed the appellant on January 19, 2001, for the 1994 taxation year to include the stock option benefit the appellant had received. The Minister also assessed penalties under subsection 163(2) of the Act. In his Notice of Appeal, the appellant, admits that he received those gains from the sale of his stocks and admits that it represents employment income. I will therefore not deal with these admissions. The appeal therefore rests on whether the Minister could reassess under paragraph 152(4)(a) of the Act and whether he could assess penalties under subsection 163(2) of the Act for the appellant's failure to report this income in his 1994 taxation year.
+[2] The appellant is a graduate in animal science from McGill University and worked all his life for Pfizer Canada Inc., a wholly owned subsidiary of Pfizer U.S.A. Over the years, he was promoted to various positions with his employer, but in late 1989, he was demoted for reasons related to alcoholism. The appellant's income slightly decreased in the years before 1994, which was a result of poor performance.
+[3] When the appellant was promoted to Director of Sales Marketing, a position which required him to be frequently away from home to meet with clients, his alcohol consumption increased to the point that in late fall of 1988, his wife approached his employer for assistance. Pfizer had no experience with a problem such as that and they referred the appellant to a medical doctor. In the years that followed, the appellant made several attempts to overcome his alcohol addiction and went from clinic to clinic and saw various health professionals. He has been sober since August 5, 1995.
+[4] In February 1993, the appellant was offered a position as Senior Product Manager in the marketing organization of Pfizer North American Animal Health Division located in Lee's Summit, Missouri. After discussing the matter with his family, the appellant informed his employer that he could not accept their offer and instead proposed two solutions: both solutions were to continue to work for Pfizer Canada Inc. but with different termination dates and included a request to be able to exercise his stock options until their expiry date in August 1999.
+[5] The reply came on June 21, 1993. A hand-delivered letter from Pfizer Canada Inc informed the appellant that his services were no longer required. The letter also described the severance benefits he was entitled to and included a statement showing estimated severance pay as of June 30, 1993 in the case of a lump sum payment. That amount could be transferred to a Registered Retirement Savings Plan (RRSP). In the case of the lump sum, which is what the appellant chose, his termination of employment was effective June 30, 1993. As for outstanding stock options, the exercise period was changed to one year from date of termination or the grant expiry date, whichever was earlier. In the appellant's case, it was June 30, 1994. The appellant was paid his regular salary until June 21, 1994. His retirement allowance totalled $62,115 and the appellant transferred that amount to an RRSP. His total reported income for 1994 was $110,666 which included six months salary, dividends, interest and the retirement allowance. After the allowable deductions, his net income was $43,085.
+[6] The stock options referred to in the letter surfaced in the mid 1980s. The appellant was informed that the company had had a good year financially and had decided to offer some of its employees stock options. The appellant was given a number to write down and told he would be contacted so that he could fill out some paper work. The paperwork is Form 8200-20A (11-83) (3-87) (4-87) (Exhibit A-8). The appellant was given these forms, which were pre-typed or filled in with his name, address, social insurance number, the exercise option grant number, the number of shares and the price per share. The section to be completed by the payroll/treasurer's division was left blank. The appellant was asked to sign the form, not to date it, and to keep his yellow copy. Although there are nine such forms, the appellant actually had four of these stock options. Over the years, some options may have been replaced or amalgamated with others. When he was in the process of signing these forms, the potential tax implications were not discussed. At one point, he was given a booklet containing procedural information to purchase Pfizer stock for non-American and overseas employees and points of interest about the stock option grants. The instructions on Form 8200-20, among other things, required that the form be dated and advised all employees to consult a tax/financial advisor when considering selling shares from a company stock option. The appellant remembers having received stock option status notice on December 31, 1993 and on March 31, 1994 but cannot recall if other notices were sent. He testified that he simply filed his yellow copy and never monitored the performance of Pfizer stocks on the stock exchange. The only other reference to taxes on Form 8200-20A is in the payment authorization section where the appellant instructs Merrill Lynch to withhold taxes if applicable.
+[7] In late June 1994, the appellant received a call from the Vice-President of Human Resources at Pfizer Canada Inc. reminding him that the deadline to exercise his option was quickly approaching. The appellant testified that the stock options were not on his mind at the time and were it not for that call, he would not have exercised his options. He had no idea what their value was, when he received the call. He was told what to do and simply followed the instructions. On the same day, he faxed a message to Pfizer U.S.A. instructing them to sell all his stocks. The appellant did not discuss the tax implications with the Vice-President during their conversation.
+[8] In October 1994, he received a cheque from Pfizer U.S. in U.S. funds for the value of his stock. He went to a friend at the Toronto Dominion Bank to exchange the amount in Canadian dollars and to deposit it. He later invested the money with Canada Trust and never considered the tax implications nor did he discuss the matter with his wife. The appellant testified that his recollection from the procedure information he was given led him to believe that taxes had been withheld and that the amount on the cheque he received was a net amount. The information on the tax withholding read as follows:
+If you decide to exercise your option, you will be required to pay for the shares at the time you exercise the option. The amount of money you will have to pay to purchase the shares is equal to the option price times the number of shares you wish to exercise, plus any applicable withholding tax. For example, based on the $81.00 option price, if you wish to purchase 100 shares, you will pay $8,100. This must be paid in cash or, if permitted, in Company stock on the day you buy the shares. You may also be required to pay any applicable withholding tax at the date of exercise. Exercise by the tendering of Company stock that you already own will be permitted only if it would not require the Company, under applicable federal law, the regulations of any government agency or generally accepted accounting principles, to make a charge to earnings.
+[9] The Appellant's wife testified about what life was like at home with her husband's condition and the various efforts he made to finally treat it. She also explained the yearly ritual she followed in order to have their tax returns prepared. She would put into envelopes everything that came in the mail for all the family members including her mother. She would bring the contents to a tax accountant. Once the returns were ready, they would drop by the accountant's office to receive explanations and to sign the returns. She was aware that in the fall of 1994, her husband had received a cheque for a substantial amount and that he had converted the money in Canadian funds and had deposited the money. Nothing further was mentioned about the cheque and there were no discussions about the tax consequences or how to invest. He looked after his money and she looked after hers. When they met with the tax accountant, the stock option cheque was not discussed.
+[10] The Appellant confirmed his wife's version with respect to how the tax returns were prepared annually. He recalls that for 1994, his income was significantly higher than usual because of his retirement allowance. It did not strike him that the stock option money was missing because the gross amount of income was higher than usual. Other than collecting a few dividends, the appellant did not have any experience and relied completely on Canada Trust to invest that money.
+[11] Claudio Arnoldo is a tax auditor with the Canada Customs and Revenue Agency who was assigned the appellant's file in April 1999. The assignment came when an audit at Pfizer Canada revealed that 46 individuals had exercised their stock options over a few years and that some had not reported that income on their tax returns. He therefore issued projects of assessments to those who failed to report income, including the appellant. During his audit, Mr. Arnoldo received various documents from the appellant and met with him on two occasions. The Notice of Assessment issued indicates the fair market value of the shares as at June 21, 1994, as $94,274 Canadian, which was added to his previously reported income and to which a stock option and share deduction of $23,569 was made and another amount was deducted for non capital losses of previous years. The revised taxable income for the appellant for the 1994 taxation year is $112,974.
+[12] According to Mr. Arnoldo, the reassessment beyond the limitation period was issued on the basis that the appellant is an astute, intelligent individual who decided not to do anything about the unreported revenue which represents a substantial amount. In addition, the stock option plan was an incentive plan for their key employees around the world and the procedure to exercise it was well established. Letters of explanation were sent to the appellant and he was aware of all the implications.
+[13] A review of all the facts, the documents and the procedure set up by Pfizer indicate that the appellant was advised to seek a tax advisor. According to Mr. Arnoldo, the appellant not only exercised his options but also decided to sell the shares. He therefore calculated a penalty in accordance with subsection 163(2) of the Act. The amount subject to the penalty on the unreported revenue is $70,705. Mr. Arnoldo confirmed that no T-4 was issued by the Pfizer companies, that the entire stock option was confidential since not all documents were issued or provided and that Pfizer may have had a communication problem. At one point, he testified that the Pfizer file was a sensitive file but could not indicate why nor could he explain what a sensitive file is. There is no evidence that it may have impaired the audit conducted on the appellant.
+[14] The issues to be decided are whether the Minister is statute-barred from reassessing the appellant for the 1994 taxation year and whether a penalty under subsection 163(2) of the Act was properly assessed?
+[15] Subsection 152(4) of the Act allows the Minister to reassess beyond the normal reassessment period if the taxpayer has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing his return. The evidence does not show that the appellant committed any fraud. On the other hand, based on the facts of this case, I am satisfied that the appellant did not exercise reasonable care in filing his 1994 income tax return and that the Minister was entitled to reassess him and include the amount he received from the exercise of his stock options and sale. Although the appellant did not receive a T-4 from his employer and has systematically filed his tax returns over the years, the net income reported in documents he received in the mail should have alerted him to the fact that not all of his income was included. Our tax system is a system of self assessment. The fact that the appellant was under the impression that the taxes had been withheld by Pfizer or Merill Lynch has no bearing on the fact that the income still had to be reported. Taxes are withheld on a payroll and taxpayers must still include their income on their returns. The appellant and his wife never discussed the tax consequences when they received the money, the appellant did not raise the issue with Canada Trust when he invested the money and he did not do so with Pfizer either. Such a transaction coupled with the amount of money involved should raise the question in anyone's mind of whether the amount is net of taxes and whether they must report it on their tax return.
+[16] During that period, the appellant was going through difficult times and had still not overcome his alcohol addiction. That alcohol addiction may have been severe but not enough to prevent Pfizer from offering him a transfer to Missouri and therefore keep him as an employee despite his condition. He was capable of understanding the transaction that had taken place involving his retirement allowance and that it had been rolled over into an RRSP. He was able to convert the U.S. funds into Canadian funds at a better cost and invest that money with Canada Trust where he made both conservative and riskier investments. That is the conduct of a person capable of administering his own affairs. The appellant is a well-educated individual. He may not have had much experience in share trading and other related matters but such a transaction should have alerted him about his obligation as a taxpayer to report that income. The Minister was therefore justified in reassessing the appellant.
+[17] Was the Minister justified in assessing a penalty under subsection 103(2) of the Act? Does the false statement or omission made by the appellant amount to gross negligence. In Venne v. Her Majesty the Queen, 84 DTC 6247 (F.C.T.D.); [1984] F.C.J. No. 314 (Q.L.), Mr. Justice Strayer states the following at page 6256:
+"Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[18] In Can-Am Realty Limited et al v. The Queen, 94 DTC 6293, the Court concluded the following at page 6303:
+What is required is conduct which is exceptional and flagrant to the degree of gross negligence
+[19] Counsel for the Respondent relies on the same facts to justify the penalty imposed. It is interesting to note the comments of Mr. Justice Bowman in Farm Business Consultants Inc. v. The Queen, 95 DTC 201, at pages 205 and 206 when he said:
+A court must be extremely cautious in sanctioning the imposition of penalities under subsection 163(2). Conduct that warrants reopening a statute-barred year does not automatically justify a penalty and the routine imposition of penalties by the Minister is to be discouraged. Conduct of the type contemplated in paragraph 152(4)(a)(i) may in some circumstances also be used as the basis of a penalty under subsection 163(2), which involves the penalizing of conduct that requires a higher degree of reprehensibility. In such a case a court must, even in applying a civil standard of proof, scrutinize the evidence with great care and look for a higher degree of probability than would be expected where allegations of a less serious nature are sought to be established. Moreover, where a penalty is imposed under subsection 163(2) although a civil standard of proof is required, if a taxpayer's conduct is consistent with two viable and reasonable hypotheses, one justifying the penalty and one not, the benefit of the doubt must be given to the taxpayer and the penalty must be deleted
+[20] Although the amount of money involved is quite substantial, I find that on a balance of probabilities, the Minister has failed to establish that the conduct of the appellant amounted to gross negligence. The appellant had completely forgotten the benefits he could derive from exercising those stock options. As mentioned earlier, that benefit would have been lost had he not been notified by a Pfizer official of the looming deadline. Such inaction could be considered to be gross negligence by some but it is not that conduct that needs to be assessed. It is his conduct when he filed his tax return that must be assessed. There is no evidence here to allow me to conclude that the appellant intentionally omitted to include that revenue in his income. The fact that he believed that the taxes on that amount had been withheld, and I accept his evidence on this point, is sufficient to establish that he was not completely indifferent as to whether the law had been complied with. He believed that the taxes had been withheld and although he failed to make inquiries and was careless in failing to report the income, that does not amount to an intentional omission or indifference tantamount to a high degree of negligence. There is no evidence as well that his conduct amounts to wilful blindness.
+[21] The appeal is allowed only insofar as the penalty is concerned and the matter is referred back to the Minister for reconsideration and reassessment on this basis. Since both parties were partially successful, there will be no order as to costs.
+Signed at Ottawa, Canada, this 27th day of September 2004.
+"François Angers"
+Angers, J.
+CITATION:
+2004TCC641
+COURT FILE NO.:
+2002-765(IT)G
+STYLE OF CAUSE:
+Donald Robert Hyndman and H.M.Q.
+PLACE OF HEARING:
+Montréal, Québec
+DATE OF HEARING:
+June 1, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable François Angers
+DATE OF JUDGMENT:
+September 27, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Stephen Ashkenazy
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Stephen Ashkenazy
+Firm:
+Hamilton Cooper Ashkenazy, avocats
+Dollard des Ormeaux, Québec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

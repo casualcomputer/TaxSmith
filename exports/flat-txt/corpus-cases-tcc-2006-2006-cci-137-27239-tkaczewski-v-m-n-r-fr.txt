@@ -1,0 +1,158 @@
+Title: Tkaczewski v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27239/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-137-27239-tkaczewski-v-m-n-r-fr.md
+Document type: case_law
+Last modified: 2006-03-07
+
+# Tkaczewski v. M.N.R.
+
+- Citation: 2006 CCI 137
+- Decision date: 2006-03-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 811, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tkaczewski v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-07
+Référence neutre
+2006 CCI 137
+Numéro de dossier
+2003-3301(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003‑3301(EI)
+ENTRE :
+MARIA TKACZEWSKI,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Ottawa (Ontario), le 1er avril 2005.
+Devant : l’honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l’appelante :
+M. John Tkaczewski
+Avocat de l’intimé :
+Me Tomasz Zych
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté conformément au paragraphe 103(1) de la Loi sur l’assurance‑emploi est accueilli et la décision que le ministre du Revenu national a rendue le 7 août 2003 est modifiée pour le motif que le montant de 45 334,85 $ est à inclure dans la rémunération assurable.
+Signé à Ottawa, Canada, ce 7e jour de mars 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 15e jour de juin 2007.
+Maurice Audet, réviseur
+Référence : 2006CCI137
+Date : 20060307
+Dossier : 2003‑3301(EI)
+ENTRE :
+MARIA TKACZEWSKI,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelante interjette appel d’une décision du ministre du Revenu national (le « ministre ») portant que la somme forfaitaire de 45 334,85 $ qu’elle a reçue de Nortel Networks Limited (« Nortel ») le 22 janvier 2002 ne constitue pas une rémunération assurable étant donné que ce montant est considéré comme une allocation de retraite et qu’il est donc exclu en vertu de l’alinéa 2(3)b) du Règlement sur la rémunération assurable et la perception des cotisations (le « Règlement »).
+[2] Le ministre considérait la somme forfaitaire comme un paiement de cessation d’emploi qui avait été versé à l’appelante en reconnaissance de ses services passés chez Nortel. En rendant sa décision, le ministre s’est fondé sur une lettre que Nortel avait envoyée à l’appelante le 18 octobre 2001. Cette lettre, qui a été déposée sous la cote R‑1, onglet 1, est rédigée en partie comme suit :
+[traduction]
+Madame,
+Cette lettre confirme la conversation que nous avons eue aujourd’hui, au cours de laquelle vous avez été informée qu’il sera mis fin à votre emploi le 19 novembre 2001. À la date de la cessation d’emploi, vos services, votre emploi, ainsi que la rémunération et les avantages sociaux qui ne vous auront pas été expressément offerts dans la présente lettre prendront fin.
+Dorénavant, vous ne serez plus tenue de vous présenter au travail. Pour vous aider à trouver un autre emploi, les services de réorientation professionnelle de Right Management Consultants vous seront fournis.
+[...]
+Les conditions suivantes s’appliquent : (i) vous devez vous conformer à toutes les dispositions énoncées dans la présente lettre; et (ii) vous ne devez pas obtenir auprès de la société avant la date de cessation d’emploi un emploi qui vous permette de continuer à travailler pour la société, la société devant vous remettre, à la date de la cessation d’emploi ou immédiatement après cette date, une somme forfaitaire de 45 334,85 $, déduction faite des retenues légales. Ce paiement (« le paiement de cessation d’emploi »), en plus de l’avis de période de paiement prévu, vise à reconnaître vos services passés auprès de la société et à vous dédommager à tous les égards de la perte de votre emploi. Le montant comprend toute indemnité de départ ou tout paiement de cessation d’emploi auquel vous avez droit par suite de la cessation de votre emploi en vertu de la législation applicable en matière de normes d’emploi. Le montant en question vous sera versé sur réception d’une copie signée de la présente lettre et du formulaire rempli de réception de l’allocation de cessation d’emploi, qui y est joint. Selon la Loi de l’impôt sur le revenu et compte tenu de vos années de service jusqu’au 31 décembre 1995, vous avez le droit de verser dans un compte de REER un montant de 8 000 $ à titre d’allocation de retraite. Si vous voulez verser une partie du paiement de cessation d’emploi dans un compte de REER, vous devez également remplir le formulaire TD2 ci‑joint et le retourner à Maryse Chaurette, avec la deuxième copie signée de la présente lettre.
+Étant donné que vous êtes considérée comme ayant droit à des versements jusqu’à l’amorce de la pension, le 20 novembre 2001, vous pouvez choisir de prendre un congé spécial de préretraite et de recevoir des montants représentant la valeur de la pension, payés selon le même calendrier que celui qui s’applique à l’heure actuelle à votre rémunération, tel qu’il est énoncé dans l’état estimatif ci‑joint. Un sommaire des renseignements concernant les avantages sociaux est également joint aux présentes.
+Si vous effectuez ce choix, vous pouvez décider de recevoir le paiement de cessation d’emploi sous la forme d’une somme forfaitaire imposable, comme il en a été fait mention ci‑dessus, ou sous la forme de versements imposables égaux au cours de la période de raccordement. À la date où vous prendrez votre retraite, votre congé spécial et les avantages y afférents prendront fin; vous recevrez une pension et serez considérée comme étant à la retraite dans le cadre du régime de pension que vous avez choisi; une estimation du montant en cause est incluse dans le sommaire.
+[...]
+Si vous recommencez à travailler pour la société après la date de cessation d’emploi, mais avant le 12 août 2002, vous consentez à remettre à la société la partie du paiement de cessation d’emploi qui correspond au traitement hebdomadaire ou quotidien brut que vous recevez de la société, multiplié par le nombre de semaines ou de jours au cours desquels vous aurez travaillé pour la société avant le 12 août 2002.
+[...]
+Compte tenu de ce qui précède et de l’acceptation de cet arrangement, vous libérez et exonérez par les présentes pour toujours la société, ainsi que ses administrateurs, dirigeants, employés et représentants, de toute responsabilité à l’égard des actions, causes d’action, poursuites, dettes, comptes, engagements, contrats et demandes, et notamment des demandes présentées en vertu de la législation applicable en matière de droits de la personne ainsi que des demandes passées ou présentes et des demandes que vos ayants droit pourront faire contre la société, ses employés et représentants, pour tout motif lié à votre emploi auprès de la société ou dans toute affaire concernant votre emploi auprès de la société, notamment en raison de la cessation de votre emploi; et vous vous engagez, jusqu’à la date de cessation d’emploi, et pendant l’année qui suivra la date de la cessation de votre emploi auprès de la société, à ne pas recruter ou tenter de recruter, directement ou indirectement, pour votre compte ou pour le compte de tiers, des personnes qui fournissent des services à la société, que ce soit à titre d’employé, de sous‑traitant, de conseiller ou autrement, ou à ne pas les inciter à mettre fin à leur emploi ou aux accords contractuels conclus avec la société ou à accepter un engagement auprès d’une autre personne ou entité non liée à la société.
+Vous reconnaissez que le paiement et les autres arrangements qui vous sont ici offerts ne représentent pas un aveu ou une reconnaissance de responsabilité de la part de la société et qu’ils ne seront pas considérés, directement ou indirectement, comme constituant un tel aveu ou une telle reconnaissance de responsabilité.
+La présente lettre constitue toute l’entente conclue entre les parties à l’égard de la cessation de votre emploi. Il n’y a pas d’autres promesses, ententes ou déclarations que celles qui sont ici énoncées. En outre, la présente lettre remplace tout autre accord, conclu par écrit ou autrement, concernant votre emploi et la cessation de votre emploi. Elle ne pourra être modifiée qu’au moyen d’un instrument dûment signé par un représentant autorisé de la société et par vous‑même.
+[3] Dans une lettre envoyée à l’appelante le 27 mai 2003 (pièce R‑1, onglet 2), Nortel a donné l’explication suivante à l’Agence des douanes et du revenu du Canada :
+[traduction]
+À qui de droit,
+Mme Tkaczewski a télécopié à mon attention une lettre que votre bureau lui avait envoyée le 8 mai 2003. On peut y lire que la somme forfaitaire de 45 334,85 $, que Nortel Networks lui avait versée, était considérée comme une allocation de retraite et que DRHC ne la considérait pas comme une rémunération assurable. Les renseignements qui vous ont probablement amenés à tirer cette conclusion figuraient dans une lettre qui a été remise à Mme Tkaczewski lorsque Nortel Networks l’a avisée que la société n’avait plus besoin de ses services. La lettre remise à Mme Tkaczewski était fondée sur l’hypothèse selon laquelle il serait mis fin à son emploi auprès de Nortel et qu’elle recevrait une indemnité de départ. La lettre n’indiquait pas les choix dont Mme Tkaczewski disposait si elle décidait de prendre un congé spécial de préretraite. Les employés qui prennent un congé spécial de préretraite continuent à être inscrits dans le livre de paie et à bénéficier d’avantages.
+Mme Tkaczewski a choisi de prendre un congé spécial de préretraite. Pendant ce congé, elle devait recevoir à titre de traitement un versement mensuel représentant la valeur de sa pension et nous devions lui remettre une somme forfaitaire pour la dédommager du manque à gagner, correspondant à la différence entre son traitement annuel et le montant représentant la valeur de sa pension. Ce montant correspond à huit mois de traitement et Mme Tkaczewski pouvait, à son gré, recevoir cet argent sur un certain nombre de semaines tant qu’elle n’atteindrait pas l’âge de 55 ans ou elle pouvait recevoir une somme forfaitaire. Étant donné que cet argent est considéré comme un revenu gagné, et non comme une allocation de retraite, Mme Tkaczewski n’aurait pas le droit de transférer cet argent dans un compte de REER et ce montant ne figurerait pas non plus dans un feuillet T4A. Mme Tkaczewski a choisi d’accepter une somme forfaitaire.
+[...]
+Lise Willard
+Services aux employés
+Nortel Networks
+[4] Mme Sharyn Congdon, conseillère principale en relations avec les employés, chez Nortel, a témoigné que chez Nortel, les cessations d’emploi comportent, dans 95 p. 100 des cas, une lettre de cessation d’emploi comme celle qui a été envoyée à l’appelante le 18 octobre 2001 (pièce R‑1, onglet 1) et qui contient une offre d’indemnité de départ; si l’employé en cause peut mettre un certain montant à l’abri de l’impôt en raison de son ancienneté, cela lui est également offert. Mme Congdon a témoigné que, dans cinq pour cent des cas, l’employé a droit à un paiement jusqu’à l’amorce de la pension.
+[5] L’appelante avait droit à un paiement jusqu’à l’amorce de la pension, mais la chose n’a été découverte qu’une fois la lettre de cessation d’emploi envoyée. De fait, Mme Congdon a déclaré qu’au moment où la lettre de cessation d’emploi avait été envoyée, le 18 octobre 2001, l’appelante devait [traduction] « dans un délai de deux ans, être admissible à ce qui est appelé une pension de catégorie E, c’est‑à‑dire à une pension réduite, sur une base actuarielle, de Nortel » (voir la transcription, page 3).
+[6] Mme Congdon a expliqué que, lorsque l’employé a droit à un paiement jusqu’à l’amorce de la pension, une [traduction] « estimation du montant de la pension est fournie, indépendamment de la cessation d’emploi » (voir la transcription, page 3). L’appelante s’est vu offrir un paiement jusqu’à l’amorce de la pension, qu’elle a accepté, et elle a choisi de le recevoir sous forme de montant forfaitaire.
+[7] L’appelante a donc continué à être inscrite dans le livre de paie de Nortel moyennant une réduction de traitement; elle payait les cotisations au titre de l’assurance‑emploi (l’« A‑E ») et du Régime de rentes du Québec (le « RRQ »), et elle était assujettie à toutes les retenues d’impôt à la source jusqu’à la fin de son emploi chez Nortel, le 11 janvier 2003.
+[8] La rémunération globale, y compris la somme forfaitaire, a été déclarée dans un feuillet T4 délivré par Nortel, contrairement à l’allocation de cessation d’emploi ou à l’indemnité de départ qui figurent dans le feuillet T4A et ne déclenchent pas de retenues au titre de l’A‑E ou du RRQ. En outre, étant donné que l’appelante a choisi d’accepter un paiement jusqu’à l’amorce de la pension, la relation employeur‑employé n’a pas pris fin et l’appelante n’a pas eu le droit de transférer dans un compte de REER une partie du paiement forfaitaire, fondée sur son ancienneté, tel que proposé dans la lettre de cessation d’emploi (pièce R‑1, onglet 1). Étant donné que l’appelante a choisi de recevoir un paiement jusqu’à l’amorce de la pension, le formulaire TD‑2 qu’elle avait rempli (selon la pièce A‑1), indiquant un montant admissible de 8 000 $ susceptible d’être mis à l’abri de l’impôt, n’a jamais été traité et ce montant de 8 000 $ n’a jamais été transféré dans un compte de REER comme il aurait pu l’être si un paiement de cessation d’emploi avait été en cause.
+[9] Pendant le contre‑interrogatoire, Mme Congdon a expliqué que, pendant la période de raccordement, l’appelante avait reçu une pension de 131 $ payable aux deux semaines (appelée montant représentant la valeur de la pension dans la lettre de cessation d’emploi, pièce R‑1, onglet 1, page 2) et qu’elle avait également reçu le montant de 45 334,85 $ le 22 janvier 2002. Ce paiement forfaitaire visait à indemniser en partie l’appelante du manque à gagner, qui correspondait à la différence entre les montants représentant la valeur de la pension (131 $ aux deux semaines) et son traitement régulier à plein temps (qui était d’environ 65 000 $ par année). Mme Congdon a affirmé que la somme forfaitaire ne correspondait pas entièrement au traitement régulier à plein temps; ce montant correspondait à huit mois de traitement. De fait, la somme forfaitaire ne visait pas à combler entièrement la différence entre le traitement de l’appelante et la pension fortement réduite. Elle visait à assurer un raccordement; or, selon la pratique adoptée chez Nortel, le montant offert à titre d’allocation de cessation d’emploi est utilisé comme montant forfaitaire de raccordement.
+[10] Toutefois, le traitement de ce montant forfaitaire n’est pas le même aux fins comptables et aux fins fiscales, étant donné que Nortel considère le montant forfaitaire de raccordement comme un traitement (de la même façon que la pension de 131 $ reçue aux deux semaines est considérée comme un traitement) et non comme une allocation de cessation d’emploi. La preuve se trouve dans le feuillet T4 et dans les bordereaux de chèques de paie délivrés par Nortel et déposés sous la cote R‑1, onglets 3 et 4, page 5. De fait, le montant de 131 $ versé aux deux semaines est décrit comme un montant [traduction] « représentant la valeur de la pension » et celui de 45 334,85 $, comme un supplément de pension sur lequel un montant de 858 $ a été retenu à la source au titre des cotisations à l’A‑E. Si Nortel avait considéré ce paiement comme un paiement de cessation d’emploi, aucune retenue n’aurait été effectuée, ni aucun rajustement de pension. Mme Congdon a expliqué que l’appelante avait encore droit à tous les avantages sociaux, sauf pour ce qui est de l’invalidité de courte durée et de l’invalidité de longue durée, jusqu’au 11 janvier 2003, même si elle avait cessé de fournir ses services à Nortel le 19 novembre 2001.
+Le point litigieux
+[11] Il est certain que l’appelante est demeurée une employée de Nortel pour la durée de son congé de préretraite, c’est‑à‑dire jusqu’au 11 janvier 2003. Il s’agit uniquement de savoir si la somme forfaitaire de 45 334,85 $, que l’appelante a reçue pendant ce congé, est assurable. Le ministre est d’avis que ce montant constitue une allocation de retraite au sens du paragraphe 1(1) du Règlement, laquelle est exclue de la rémunération assurable par l’alinéa 2(3)b) du Règlement. Ces dispositions sont rédigées comme suit :
+DÉFINITIONS ET INTERPRÉTATION
+1. (1) Les définitions qui suivent s’appliquent au présent règlement.
+« allocation de retraite » Somme qu’une personne reçoit :
+[...]
+b) soit à l’égard de la perte de sa charge ou de son emploi, que la somme soit reçue ou non à titre de dommages‑intérêts ou conformément à une ordonnance ou un jugement d’un tribunal compétent.
+« Loi » La Loi sur l’assurance‑emploi.
+[...]
+PARTIE I – RÉMUNÉRATION ASSURABLE
+Rémunération provenant d’un emploi assurable
+2. [...]
+(3) Pour l’application des paragraphes (1) et (2), sont exclus de la rémunération :
+[...]
+b) les allocations de retraite.
+[12] L’intimé soutient que, même si Nortel a toujours considéré la somme forfaitaire comme un traitement, cette somme est considérée comme un paiement de cessation d’emploi dans la lettre de cessation d’emploi (pièce R‑1, onglet 1). À son avis, il n’a pas été démontré que la nature de ce paiement est différente de celle mentionnée dans la lettre de cessation d’emploi. Selon l’intimé, ce montant visait à indemniser l’appelante de la perte de son emploi. Toutefois, l’avocat de l’intimé admet que la perte d’emploi a eu lieu non pas avant que l’appelante ait pris son congé spécial de préretraite, mais une fois ce congé terminé, c’est‑à‑dire à la fin de la période de raccordement, le 11 janvier 2003.
+Analyse
+[13] À mon avis, la somme forfaitaire de 45 334,85 $ ne constitue pas une allocation de retraite au sens du Règlement. L’intimé s’est entièrement fondé sur la lettre de cessation d’emploi envoyée à l’appelante le 18 octobre 2001 (pièce R‑1, onglet 1), à l’appui de l’avis selon lequel il s’agissait d’un paiement de cessation d’emploi versé à l’égard de la perte d’un emploi. J’estime que la lettre de Nortel en date du 27 mai 2003 ainsi que le témoignage de Mme Congdon clarifient la situation et montrent clairement l’intention de Nortel et de l’appelante de traiter ce paiement comme un traitement réduit pendant que l’appelante était en congé de préretraite. C’est ce que montrent à la fois la façon dont Nortel a traité ce montant aux fins comptables en délivrant les feuillets T4 et les talons de chèques de paie, le fait que Nortel n’a pas traité le formulaire TD‑2 visant à demander qu’une partie de la somme forfaitaire soit transférée dans un compte de REER (ce qui aurait été fait si le montant avait été traité comme une allocation de retraite) et le fait que l’appelante est demeurée inscrite dans le livre de paie de Nortel jusqu’à la fin de son emploi, le 11 janvier 2003.
+[14] Dans la décision Overin v. The Queen, 98 DTC 1299, page 1302, [1997] A.C.I. no 1264 (QL), paragraphes 16 à 18, le juge Rip de cette cour, a dit ce qui suit :
+[...] Toutefois, pour que la disposition relative à l’allocation de retraite ait réellement un sens, il faut limiter dans une certaine mesure l’étendue du lien nécessaire entre la somme reçue et la perte d’emploi. À cet égard, deux décisions peuvent être utiles. En premier lieu, dans la décision Merrins, ci‑dessus, le juge Pinard a fait observer ce qui suit, à la page 6670 :
+Il ne fait aucun doute que cette somme a été reçue par le demandeur « à l’égard » de la perte de son emploi auprès de l’ÉACL. S’il n’y avait pas eu perte d’emploi, il n’y aurait eu aucun grief, aucun règlement, aucune sentence arbitrale et, par conséquent, aucun versement de cette somme au demandeur.
+L’analyse effectuée par le juge Pinard laisse entendre qu’en déterminant les limites du lien qui existe entre un paiement et la perte d’un emploi, il convient de se poser la question suivante : « S’il n’y avait pas eu perte d’emploi, la somme aurait‑elle été reçue? » Si l’on répond à cette question par la négative, il existe entre la somme reçue et la perte d’emploi un lien suffisant pour que le paiement soit considéré comme une allocation de retraite.
+Dans la décision Leest, ci‑dessus, le juge Dussault, de cette cour, a fait la remarque suivante :
+Comme je ne doute aucunement que l’appelant a été, en réalité et à toutes fins utiles, sans emploi pendant une longue période, même si la perte n’a pas été permanente puisqu’il a été plus tard rétabli dans ses fonctions par la décision du conseil d’arbitrage, je conclus également que les dommages‑intérêts dont le versement a été ordonné par le conseil d’arbitrage étaient directement liés à cette perte et avaient pour objet de la compenser.
+En ce sens, le montant a été versé « relativement à » la perte d’emploi. Ainsi, ces dommages‑intérêts peuvent, à bon droit, être considérés comme une « allocation de retraite », au sens donné à cette expression au paragraphe 248(1) de la Loi. Ils sont donc imposables en vertu du sous‑alinéa 56(1)a)(ii) de la Loi.
+Il est tout à fait clair qu’en plus du critère susmentionné, selon lequel le paiement vise à indemniser l’employé de la perte de son emploi, le montant peut être considéré comme ayant été reçu « à l’égard de » cette perte.
+[15] En l’espèce, la preuve est suffisamment claire à mon avis pour qu’il soit possible de conclure que la somme forfaitaire a été versée à l’appelante à titre de paiement jusqu’à l’amorce de la pension à laquelle celle‑ci avait droit selon les modalités de l’emploi qu’elle exerçait chez Nortel. Ce montant n’a pas été versé à titre d’indemnité pour la perte de l’emploi. En premier lieu, l’appelante était encore une employée de Nortel lorsqu’elle a reçu ce paiement. De fait, elle a reçu le paiement au mois de janvier 2002, alors qu’elle a perdu son emploi le 11 janvier 2003. De fait, jusqu’au 11 janvier 2003, l’appelante avait droit à tous les avantages sociaux, sauf pour ce qui est de l’invalidité de courte durée et de l’invalidité de longue durée. En second lieu, la somme forfaitaire lui a été versée en vue de la dédommager d’une partie de la différence entre les versements représentant la valeur de la pension et son traitement régulier, et Nortel a traité ce montant comme un traitement pendant que l’appelante était en congé de préretraite.
+[16] À mon avis, il existe suffisamment d’éléments de preuve pour démontrer que Nortel n’a jamais appliqué les conditions de la lettre de cessation d’emploi envoyée à l’appelante le 18 octobre 2001. Mme Congdon a dit que des lettres de ce genre sont envoyées aux employés licenciés dans 95 pour 100 des cas parce que ceux‑ci n’ont pas droit à un paiement jusqu’à l’amorce de la pension. Elle a expressément dit que cette lettre avait été envoyée à l’appelante avant qu’ils découvrent que celle‑ci avait droit à un paiement jusqu’à l’amorce de la pension. Une fois que l’appelante a choisi de prendre un congé spécial de préretraite, Nortel s’est abstenue de donner suite à la lettre de cessation d’emploi envoyée le 18 octobre 2001. Nortel a traité la somme forfaitaire comme un traitement et elle n’a pas traité la demande qui lui avait été faite de transférer dans un compte de REER une partie de cette somme forfaitaire. Je ne vois pas pourquoi, dans ces conditions, l’intimé devrait s’appuyer sur cette lettre.
+[17] Je conclus donc que le montant de 45 334,85 $ n’est pas un paiement de cessation d’emploi effectué à l’égard de la perte de l’emploi de l’appelante et qu’il ne s’agit donc pas d’une allocation de retraite au sens du Règlement.
+[18] L’appel est accueilli pour le motif que ce montant de 45 334,85 $ est à inclure dans la rémunération assurable.
+Signé à Ottawa, Canada, ce 7e jour de mars 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 15e jour de juin 2007.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2006CCI137
+No DU DOSSIER DE LA COUR : 2003‑3301(EI)
+INTITULÉ : MARIA TKACZEWSKI
+c.
+M.R.N.
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 1er avril 2005
+MOTIFS DU JUGEMENT : L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 7 mars 2006
+COMPARUTIONS :
+Représentant de l’appelante :
+M. John Tkaczewski
+Avocat de l’intimé :
+Me Tomasz Zych
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,152 @@
+---
+title: "Virani v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30754/index.do"
+last_modified: "2012-03-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 97"
+citation2: ""
+neutral_citation: "2012 TCC 97"
+decision_date: "2012-03-27"
+language: "en"
+item_id: "30754"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7492
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:30:54.992000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "017f967aee841b764d7883ae7723a1e02d29a2412352eafd844f1e0a04f2850d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Virani v. M.N.R.
+
+- Citation: 2012 TCC 97
+- Decision date: 2012-03-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7492, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Virani v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-03-27
+Neutral citation
+2012 TCC 97
+File numbers
+2011-2079(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2011-2079(EI)
+BETWEEN:
+SHIRAZ VIRANI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 19, 2012 at Vancouver, British Columbia
+Before: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Jonathan Wittig
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to a decision of the Minister of National Revenue made under the Employment Insurance Act is allowed, and the decision is varied on the basis that the number of hours of insurable employment should be determined in accordance with subsection 10(4) of the Employment Insurance Regulations.
+Each party shall bear their own costs.
+Signed at Toronto, Ontario this 27th day of March 2012.
+“J. Woods”
+Woods J.
+Citation: 2012 TCC 97
+Date: 20120327
+Docket: 2011-2079(EI)
+BETWEEN:
+SHIRAZ VIRANI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Shiraz Virani was employed by the Lax Kw’alaams Indian Band (the “Employer”) as Director of Finance for the period from December 10, 2008 to May 11, 2009. His remuneration was $90,000 per annum, plus benefits.
+[2] After being dismissed following a probationary period, Mr. Virani applied for benefits under the Employment Insurance Act. The application was denied on the ground that Mr. Virani only had 623 hours of insurable employment. A minimum of 910 hours are required to qualify for benefits.
+[3] Mr. Virani appeals from this decision and submits that he had 1,089 hours of insurable employment with the Employer.
+[4] Mr. Virani testified on his own behalf at the hearing. Wayne Drury, who had hired Mr. Virani and was the Administrator of the Employer, was called as a witness by the Minister.
+Legislative scheme
+[5] The relevant legislative scheme is set out in sections 6(3) and 55 of the Employment Insurance Act and section 10 of the Employment Insurance Regulations. These provisions are reproduced below.
+Employment Insurance Act
+6. (3) For the purposes of this Part, the number of hours of insurable employment that a claimant has in any period shall be established as provided under section 55, subject to any regulations made under paragraph 54(z.1) allocating the hours to the claimant’s qualifying period.
+55. (1) The Commission may, with the approval of the Governor in Council, make regulations for establishing how many hours of insurable employment a person has, including regulations providing that persons whose earnings are not paid on an hourly basis are deemed to have hours of insurable employment as established in accordance with the regulations.
+(2) If the Commission considers that it is not possible to apply the provisions of the regulations, it may authorize an alternative method of establishing how many hours of insurable employment a person has.
+(3) The Commission may at any time alter the authorized method or rescind the authorization, subject to any conditions that it considers appropriate.
+(4) The Commission may enter into agreements with employers or employees to provide for alternative methods of establishing how many hours of insurable employment persons have and the Commission may at any time rescind the agreements.
+Employment Insurance Regulations
+10. (1) Where a person's earnings are not paid on an hourly basis but the employer provides evidence of the number of hours that the person actually worked in the period of employment and for which the person was remunerated, the person is deemed to have worked that number of hours in insurable employment.
+(2) Except where subsection (1) and section 9.1 apply, if the employer cannot establish with certainty the actual number of hours of work performed by a worker or by a group of workers and for which they were remunerated, the employer and the worker or group of workers may, subject to subsection (3) and as is reasonable in the circumstances, agree on the number of hours of work that would normally be required to gain the earnings referred to in subsection (1), and, where they do so, each worker is deemed to have worked that number of hours in insurable employment.
+(3) Where the number of hours agreed to by the employer and the worker or group of workers under subsection (2) is not reasonable or no agreement can be reached, each worker is deemed to have worked the number of hours in insurable employment established by the Minister of National Revenue, based on an examination of the terms and conditions of the employment and a comparison with the number of hours normally worked by workers performing similar tasks or functions in similar occupations and industries.
+(4) Except where subsection (1) and section 9.1 apply, where a person's actual hours of insurable employment in the period of employment are not known or ascertainable by the employer, the person, subject to subsection (5), is deemed to have worked, during the period of employment, the number of hours in insurable employment obtained by dividing the total earnings for the period of employment by the minimum wage applicable, on January 1 of the year in which the earnings were payable, in the province where the work was performed.
+(5) In the absence of evidence indicating that overtime or excess hours were worked, the maximum number of hours of insurable employment which a person is deemed to have worked where the number of hours is calculated in accordance with subsection (4) is seven hours per day up to an overall maximum of 35 hours per week.
+(6) Subsections (1) to (5) are subject to section 10.1.
+Analysis
+[6] Mr. Virani’s employment as Director of Finance was a management position for which he was paid on the basis of an annual salary. His regular hours of work coincided with office hours, which were seven hours per day.
+[7] The Employer did not expect that a significant amount of overtime would be required. However, the contract of employment made it clear that, since it was a management position, Mr. Virani was required to work overtime as necessary to fulfill his duties.
+[8] The Minister submits that s. 10(3) of the Employment Insurance Regulations is applicable and that the hours of insurable employment are deemed to be as established by the Minister. The Minister determined that there were 623 insurable hours, based on the Employer’s Record of Employment and on the assumption that significant overtime was not required or expected.
+[9] Mr. Virani submits that he had over 1,000 hours of insurable employment. He took no view as to which legislative provision should apply, leaving this determination in the hands of the Court.
+[10] The problem that I have with the Minister’s position is that the contract of employment makes it clear that Mr. Virani was required to work overtime, even significant overtime, if this was necessary to fulfill his duties. The Employer may not have contemplated that significant overtime was necessary, but it was clear that overtime was expected if the duties required it.
+[11] The circumstances were that Mr. Virani had just started work with the Employer and he had been given a list of projects that he was going to be working on.
+[12] It is reasonable to expect that many extra hours might be required for Mr. Virani to get up to speed during the initial months on the job. Mr. Virani testified that this was the case. He gave detailed evidence of the challenges that he faced and stated that he worked many overtime hours trying to understand complex issues with several of the projects that he was expected to handle.
+[13] Mr. Drury, on the other hand, testified that Mr. Virani only worked on one project. I am sure this reflects Mr. Drury’s state of knowledge. However, Mr. Drury likely would have no way of knowing the extent of the work that Mr. Virani was actually doing because he was not in close contact with him.
+[14] Mr. Drury did not live in the same location as Mr. Virani and he only occasionally visited the work site. In addition, it is relatively clear from the evidence that the employment relationship went sour almost from the beginning. Although I did not find all of Mr. Virani’s testimony to be persuasive, I accept his testimony that he worked without much guidance from Dr. Drury.
+[15] The respondent submits that Mr. Virani did not work much overtime because, according to Mr. Drury, Mr. Virani did not have an office key or the security code.
+[16] This testimony was challenged by Mr. Virani, but even if Mr. Virani did not have a key or access code, it cannot be inferred that he did not work significant overtime. Mr. Virani introduced evidence in the form of emails sent outside office hours that indicated that he did work when the office was closed.
+[17] Based on the evidence as a whole, I would conclude that the Employer did not know, and could not ascertain, the hours that Mr. Virani actually worked and for which he was compensated.
+[18] Subsection 10(4) of the Regulations applies in these circumstances, and likely gives a result that is more favourable to Mr. Virani than I would have determined based on the evidence presented as to actual hours worked.
+[19] As for the application of s. 10(3), I agree with the reasoning of Boyle J. in Mackenzie v MNR, 2011 TCC 199 that there is ambiguity as to whether s. 10(3) or (4) takes precedence in a case such as this. I agree that there is no good reason to prefer the result that is less favourable to Mr. Virani and that s. 10(4) should therefore be applied.
+[20] In the result, the appeal will be allowed, and the decision of the Minister will be varied on the basis that insurable hours should be determined in accordance with section 10(4) of the Regulations.
+[21] Each party shall bear their own costs.
+Signed at Toronto, Ontario this 27th day of March 2012.
+“J. Woods”
+Woods J.
+CITATION: 2012 TCC 97
+COURT FILE NO.: 2011-2079(EI)
+STYLE OF CAUSE: SHIRAZ VIRANI v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: March 19, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: March 27, 2012
+APPEARANCES:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Jonathan Wittig
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

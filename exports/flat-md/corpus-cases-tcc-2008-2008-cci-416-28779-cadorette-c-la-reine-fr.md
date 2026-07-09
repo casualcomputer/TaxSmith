@@ -1,0 +1,170 @@
+---
+title: "Cadorette c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28779/index.do"
+last_modified: "2008-07-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 416"
+citation2: ""
+neutral_citation: "2008 CCI 416"
+decision_date: "2008-07-18"
+language: "fr"
+item_id: "28779"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1530
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:33:20.456000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2f1363e29f8eda4d01f984d519b691ba7ab94c8215f293802b466f0a7d14b4ce"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cadorette c. La Reine
+
+- Citation: 2008 CCI 416
+- Decision date: 2008-07-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1530, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cadorette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-18
+Référence neutre
+2008 CCI 416
+Numéro de dossier
+2006-2297(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2297(IT)G
+ENTRE :
+JEAN-PIERRE CADORETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 9 avril 2008, à Québec (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Suzanne Morin
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu et de la Loi sur l’assurance-emploi à l'égard des années d'imposition 1998 et 1999 est rejeté, avec dépens, selon les motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 18e jour de juillet 2008.
+« Réal Favreau »
+Juge Favreau
+Référence : 2008CCI416
+Date : 20080718
+Dossier : 2006-2297(IT)G
+ENTRE :
+JEAN-PIERRE CADORETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Monsieur Jean-Pierre Cadorette interjette appel d’une cotisation établie le 16 mars 2004 par le ministre du Revenu national (le « ministre ») en vertu du paragraphe 227.1(1) de la Loi de l’impôt sur le revenu L.R.C. (1985) ch. 1 (5e suppl.), telle que modifiée (la « Loi ») et de l’article 83 de la Loi sur l’assurance-emploi L.R.C. (1996) ch. 23, telle que modifiée (la « LAE »). Le ministre a tenu monsieur Cadorette responsable à titre d’administrateur de la société 9056-3826 Québec Inc. (la « société »), des montants que cette société a omis de remettre au Receveur général du Canada pour les années d’imposition 1998 et 1999 (la « période pertinente »). Le montant de la cotisation s’élève à 42 399,65 $ et représente des retenues à la source, des intérêts et des pénalités non payés par la société en vertu de l’avis de cotisation émis à la société en date du 6 mars 2002.
+[2] En établissant la cotisation en litige, le ministre a tenu pour acquis les faits suivants énoncés au paragraphe 21 de la réponse à l’avis d’appel modifié :
+a) La compagnie 9056-3826 Québec Inc. a omis de remettre au Receveur général du Canada les retenues à la source qu’elle devait verser au cours des années 1998 et 1999 qui totalisaient les montants suivants :
+1998
+1999
+Impôts fédéraux
+11 742,04 $
+1 135,16 $
+Cotisations d’assurance-emploi
+12 167,62 $
+688,56 $
+b) Les pénalités et intérêts payables par 9056-3826 Québec Inc. suite aux omissions mentionnées au paragraphe précédent totalisaient 15 712,56 $ pour l’année 1998 et 953,71 $ pour l’année 1999 en date du 16 mars 2004.
+c) Les montants mentionnés aux deux paragraphes précédents, soit les retenues à la source non versées, les pénalités et les intérêts totalisaient 42 399,65 $ au 16 mars 2004.
+d) L’appelant était administrateur de 9056-3856 Québec Inc. aux moments où celle-ci était tenue de verser les sommes mentionnées au paragraphe a) ci-dessus.
+e) La Cour fédérale a établi un certificat contre l’appelant au montant de 43 193,51 $ en date du 22 juin 2004 en vertu de l’article 223 de la Loi.
+[3] En confirmant la cotisation en litige, le ministre a également tenu pour acquis les faits suivants énoncés au paragraphe 22 de la réponse à l’avis d’appel modifié :
+a) Les faits mentionnés au paragraphe 21 de la réponse à l’avis d’appel modifié;
+b) L’immatriculation de 9056-3856 Québec Inc. avait été radiée d’office par le Registraire des entreprises en date du 5 mai 2000 mais il y a eu révocation de cette radiation en date du 5 novembre 2002.
+[4] Selon le système CIDREQ du Registraire des entreprises, la société a été constituée le 29 octobre 1997 en vertu de la l’article 1A de la Loi sur les compagnies dans le but d’opérer un restaurant et un bar. La société a été immatriculée le 3 novembre 1997 et, selon la déclaration initiale produite le 21 novembre 1997, monsieur Cadorette était le seul administrateur de la société et l’actionnaire majoritaire de celle-ci.
+[5] La société a opéré elle-même le Resto BBM à Québec de 1983 à 1990 et des tiers l’ont par la suite opéré jusqu’en 1999, lors de sa fermeture permanente. Monsieur Cadorette était propriétaire du bâtiment dans lequel le restaurant était opéré.
+[6] En plus de cet investissement dans la société, monsieur Cadorette a détenu au cours des années 1988 à 2006 des intérêts dans des franchises de 17 restaurants A & W situées dans la région de Québec et de Trois-Rivières. Selon monsieur Cadorette, les contrats de franchise exigeaient l’exclusivité mais il avait obtenu un délai pour disposer de ses autres intérêts dans le domaine de la restauration.
+[7] Même si le Resto BBM était opéré par des tiers, la société en tant que propriétaire du restaurant tenait compte des résultats d’opération. Pour l’exercice financier terminé au 22 novembre 1998, les états financiers non vérifiés de la société, produits sous la cote A-1, montraient un déficit d’opération de 194 927 $ au cours de l’exercice. Le passif à court terme comprenait des montants à payer pour le loyer, les taxes foncières, les assurances, les taxes sur les produits et services, les taxes de vente et les déductions à la source fédérales et provinciales.
+[8] Au début de 1999, la société a procédé à la fermeture permanente du restaurant et le créancier hypothécaire a repris la propriété du bâtiment dans lequel le restaurant était opéré en vertu d’un acte de dation en paiement.
+[9] Selon le système CIDREQ, la société a été radiée d’office le 5 mai 2000 suite à un avis de défaut de production de déclarations émis le 21 mai 1999. En vertu de l’article 56 de la Loi sur la publicité légale des entreprises individuelles, des sociétés et des personnes morales (L.R.Q., chap. P-45), l’inspecteur général des institutions financières a déposé le 5 novembre 2002, au registre des entreprises individuelles, des sociétés et des personnes morales l’arrêté de révocation de radiation d’immatriculation de 9056-3826 Québec Inc. radié le 5 mai 2000.
+[10] Monsieur Cadorette n’a fourni aucune preuve confirmant qu’il avait démissionné de son poste d’administrateur de la société.
+Analyse
+[11] La question que doit trancher la Cour est la suivante : est-ce qu’un administrateur d’une société au moment de sa radiation peut être tenu responsable des dettes fiscales de la société suite à la révocation de sa radiation?
+[12] Le pouvoir du registraire des entreprises de radier d’office l’immatriculation d’un assujetti et de révoquer la radiation de l’immatriculation d’un assujetti lui est conféré par les articles 50 à 57 de la Loi sur la publicité légale des entreprises individuelles, des sociétés et des personnes morales (L.R.Q., chap. P-45) telle que modifiée par L.Q. 2002, chap. 45 entrant en vigueur le 1er février 2004 et par L.Q. 2005, chap. 14 entrant en vigueur le 17 juin 2005. Les articles pertinents au présent cas sont les suivants :
+50. Le registraire des entreprises peut radier d’office l’immatriculation de l’assujetti qui est en défaut de déposer deux déclarations annuelles consécutives ou qui ne se conforme pas à une demande qui lui a été faite en vertu de l’article 38 , en déposant un arrêté à cet effet au registre. Il transmet une copie de cet arrêté à l’assujetti.
+La radiation de l’immatriculation d’une personne morale constituée au Québec emporte sa dissolution.
+Cette personne morale est toutefois réputée conserver son existence afin de terminer toute procédure judiciaire ou administrative.
+. . .
+54. Le registraire des entreprises peut, sur demande et aux conditions qu'il détermine, révoquer la radiation d'office qu'il a effectuée en vertu de l'article 50.
+La demande de révocation doit être accompagnée des droits prescrits par règlement.
+55. Le registraire des entreprises révoque la radiation de l'immatriculation de la personne morale constituée au Québec qui a repris son existence en vertu de la loi particulière applicable à son espèce.
+56. Le registraire des entreprises révoque la radiation de l'immatriculation d'un assujetti en déposant un arrêté à cet effet au registre. Il transmet une copie de cet arrêté à l'assujetti.
+La révocation de la radiation de l'immatriculation d'une personne morale constituée au Québec a pour effet de lui faire reprendre son existence à la date du dépôt de l'arrêté.
+57. Sous réserve des droits acquis par une personne ou par un groupement, l'immatriculation d'un assujetti est réputée n'avoir jamais été radiée et la personne morale constituée au Québec est réputée n'avoir jamais été dissoute.
+[13] Suite à la révocation d’une radiation, l’immatriculation de la société est, en vertu de l’article 57 précitée, réputée n’avoir jamais été radiée et la personne morale constituée au Québec est réputée n’avoir jamais été dissoute. L’effet de la révocation de la radiation est rétroactif mais cela est « sous réserve des droits acquis par une personne ou par un groupement ». Paul Martel, dans l’ouvrage « La Compagnie au Québec », volume 1 : Les aspects juridiques, Wilson & Lafleur, Martel Ltée a émis le commentaire suivant au paragraphe 34-53 concernant la réserve des droits acquis par une personne ou par un groupement :
+Il y a donc un effet rétroactif à la reprise d’existence, mais pas un effet rétroactif complet. Cette reprise d’instance se fait sous réserve des droits acquis par quiconque, ce qui inclut notamment les tiers ayant acquis, une prescription contre la compagnie, ou encore un titre, une hypothèque ou une priorité sur ses biens entre sa dissolution et sa reconstitution, ainsi que les tiers ayant commencé à utiliser un nom identique ou similaire à celui de la compagnie durant cette période.
+Cette réserve des droits acquis ne peut toutefois permettre à l’appelant de justifier la fin de son mandat à titre d’administrateur de la société.
+[14] La Loi sur les compagnies du Québec, L.R.Q., chapitre C-38, édicte à l’article 123.76 ce qui suit concernant la fin du mandat d’un administrateur :
+123.76 Malgré l’expiration de son mandat, un administrateur demeure en fonction jusqu’à ce qu’il soit réélu, remplacé ou destitué.
+Il peut résigner ses fonctions en donnant avis à cet effet.
+[15] Parmi les autres conditions de fin de mandat d’un administrateur, il y a lieu de mentionner le décès, la faillite personnelle ou l’ouverture d’un régime de protection et la liquidation volontaire ou judiciaire d’une société constituée en vertu des lois du Québec.
+[16] Comme la preuve n’a pas révélé que l’appelant avait démissionné de son poste d’administrateur, avait fait faillite ou s’était prévalu d’un régime de protection, ni que la société avait fait l’objet d’une liquidation, l’appelant doit être considéré comme n’ayant jamais perdu son statut d’administrateur entre le moment où l’immatriculation de la société a été radiée d’office et le moment où le registraire des entreprises a révoqué la radiation de l’immatriculation de la société. Par conséquent, l’appelant peut être tenu responsable des dettes fiscales de la société si les exigences de la Loi et de la LAE sont rencontrées à cet égard.
+[17] Le recours du ministre en vertu de l’article 227.1 de la Loi et de l’article 83 de la LAE n’était pas prescrit au moment où la cotisation en litige a été établie puisque l’appelant était toujours administrateur de la société. Le délai de prescription de deux ans imposé par le paragraphe 227.1(4) de la Loi n’est pas applicable en l’espèce puisqu’il ne commence à courir qu’à compter du moment où l’appelant a cessé d’être administrateur. Malheureusement pour lui, monsieur Cadorette n’a jamais démissionné et la preuve n’a pas établi jusqu’à quelle date la société a continué d’exister. Si une personne ne cesse pas d’être administrateur, le délai de prescription de deux ans ne s’écoule pas.
+[18] Le paragraphe 227.1(1) de la Loi tient l’administrateur d’une société responsable de l’omission de la société de verser les retenues d’impôt et autres retenues à la source à l’égard de la rémunération des employés et le paragraphe 227.1(3) de la Loi permet à l’administrateur d’échapper à la responsabilité s’il peut démontrer qu’il a exercé un degré de soin, de diligence et de compétence pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[19] L’avocate de l’intimée soutient que l’appelant n’a présenté aucun fait démontrant qu’il a agi avec le degré de soin, de diligence et d’habilité qu’une raisonnablement prudente aurait exercé dans des circonstances comparables pour prévenir le manquement de la société de verser les retenues à la source totalisant 23 909,66 $ en 1998 et 1 823,72 en 1999.
+[20] À l’audience, l’appelant a reconnu qu’il savait que la société était en difficultés financières en 1998 et en 1999 mais qu’il ne pouvait remédier aux manquements. De plus, l’appelant a indiqué qu’il n’était pas de mauvaise foi mais il a reconnu qu’il y avait eu négligence de sa part.
+[21] L’appelant avait de l’expérience dans l’opération de restaurants. Il avait lui-même opéré le restaurant Resto BBM et il opérait depuis plusieurs années des franchises A & W pour 17 restaurants. Il savait que le restaurant était déficitaire et que les remises de retenue à la source n’étaient pas effectuées puisqu’il avait accès aux résultats mensuels. L’appelant a perdu beaucoup d’argent dans l’aventure dont le loyer impayé mais le restaurant devait rester en opération pour préserver les droits acquis et la valeur de l’immeuble dans lequel le restaurant était situé.
+[22] L’appelant ne peut plaider ignorance de la Loi et de ses responsabilités ou une méconnaissance de la situation financière véritable de la société au cours des années 1998 et 1999. À mon avis, l’appelant n’a rien fait pour prévenir le manquement parce que la situation financière du restaurant était trop désastreuse et seule une reprise des opérations du restaurant et une injection de capital très substantielle aurait pu remettre le restaurant à flot.
+[23] Compte tenu des circonstances, je ne crois pas que l’appelant a fait preuve de diligence raisonnable. Il a plutôt été passif et il a laissé aller les choses jusqu’à ce que ça éclate.
+[24] À mon avis, la preuve n’a pas été faite que monsieur Cadorette pouvait bénéficier de la défense de diligence raisonnable.
+[25] Pour ces motifs, l’appel de monsieur Cadorette doit être rejeté avec dépens.
+Signé à Montréal (Québec), ce 18e jour de juillet 2008.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2008CCI416
+Nº DU DOSSIER DE LA COUR : 2006-2297(IT)G
+INTITULÉ DE LA CAUSE : Jean-Pierre Cadorette et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 9 avril 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 18 juillet 2008
+COMPARUTIONS :
+Pour l'appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Suzanne Morin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,153 @@
+---
+title: "Hess c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30451/index.do"
+last_modified: "2011-07-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 360"
+citation2: ""
+neutral_citation: "2011 CCI 360"
+decision_date: "2011-07-15"
+language: "fr"
+item_id: "30451"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7923
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:43:36.909000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "132ccef408daebd7733ee8193c6a6f58dc0f2892be08ce8fca668f6c159fa579"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hess c. La Reine
+
+- Citation: 2011 CCI 360
+- Decision date: 2011-07-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7923, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hess c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-07-15
+Référence neutre
+2011 CCI 360
+Numéro de dossier
+2011-477(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-477(IT)I
+ENTRE :
+PAUL HESS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus et motifs du jugement rendus à l'audience, le 15 juillet 2011, à Winnipeg (Manitoba).
+Devant : L'honorable juge J. E. Hershfield
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Larissa Benham
+________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2002, 2003, 2004, 2005 et 2006 sont accueillis, sans dépens, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que, pour les motifs énoncés dans les motifs du jugement ci‑joints, l'appelant n'était pas tenu de présenter le formulaire de déclaration de renseignements T1142 pour l'une ou l'autre des années en question.
+Signé à Ottawa, Canada, ce 22e jour de juillet 2011.
+« J. E. Hershfield »
+Le juge Hershfield
+Traduction certifiée conforme
+ce 7e jour d'octobre 2011.
+Yves Bellefeuille, réviseur
+Référence : 2011 CCI 360
+Date : 20110722
+Dossier : 2011-477(IT)I
+ENTRE :
+PAUL HESS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(révisés à partir des motifs rendus à l'audience, le 15 juillet 2011, à Winnipeg (Manitoba))
+Le juge Hershfield
+[1] L'appelant a reçu des revenus distribués par une fiducie résidant aux États‑Unis découlant du testament de son grand-oncle, c'est‑à‑dire qu'il était bénéficiaire des revenus d'une fiducie testamentaire non-résidente. L'appelant s'est vu imposer des pénalités pour avoir omis de présenter en temps opportun le formulaire de déclaration de renseignements T1142 à l'égard de chacune de ses années d'imposition 2002, 2003, 2004, 2005 et 2006.
+[2] Les montants distribués, en dollars canadiens, étaient les suivants :
+· 34 797 $ en 2002
+· 18 728 $ en 2003
+· 18 835 $ en 2004
+· 24 114 $ en 2005
+· 16 575 $ en 2006
+[3] L'appelant n'a pas produit de déclarations de revenus pour l'une ou l'autre des années ici en cause tant que des mises en demeure de produire des déclarations n'eurent pas été signifiées à l'égard de ses années 2005 et 2006. La mise en demeure de produire une déclaration de revenus pour l'année 2005 a été signifiée au mois de juin 2008 et celle concernant l'année 2006 a été signifiée au mois de mars 2008.
+[4] Les déclarations relatives aux années 2002, 2003 et 2004 ont été produites le 15 avril 2008, bien qu'aucune mise en demeure de produire une déclaration n'ait été signifiée à l'égard de ces années‑là.
+[5] Quant aux années 2005 et 2006, les déclarations ont été produites au mois de juillet 2008. La déclaration relative à l'année 2005 a donc été produite environ un mois après que la mise en demeure eut été signifiée et celle de l'année 2006 a été produite environ trois mois après que la mise en demeure eut été signifiée. Aucun élément de preuve n'a été présenté au sujet des délais stipulés dans les mises en demeure de produire des déclarations. L'avocate de l'intimée n'a pas contesté que les déclarations relatives à ces années‑là ont été produites dans un délai raisonnable après que les mises en demeure eurent été signifiées. Aucune pénalité pour production tardive n'a été établie à l'égard des déclarations générales T1 relatives aux années en question, même en ce qui concerne les années pour lesquelles des mises en demeure avaient été signifiées. Aucun impôt n'était payable à l'égard de l'une ou l'autre des années en question. Si ce n'était des mises en demeure, il n'existerait aucune obligation de produire des déclarations en vertu de la partie I conformément au paragraphe 150(1.1) de la Loi de l'impôt sur le revenu (la « Loi »)[1].
+[6] L'appelant, un artiste spécialisé dans les arts visuels et professeur d'art à l'université, a témoigné qu'entre les années 2002 et 2004, il souffrait d'un décollement de la rétine qui avait exigé plusieurs opérations au cours de cette période et qui l'avait obligé à prendre deux congés de l'université. La période de rétablissement des diverses opérations s'est prolongée jusqu'en 2005 et en 2006 et comprenait des périodes au cours desquelles l'appelant avait perdu jusqu'à 85 p. 100 de sa vue à un oeil. Je crois comprendre que la vue de l'appelant est rétablie pour l'essentiel, mais il s'est vu obligé de changer la nature de ses activités artistiques professionnelles et de son enseignement. En plus de ces problèmes personnels, l'appelant a été victime d'un vol à son studio et il a subi un grave accident de voiture, ces deux événements étant survenus au cours de cette période difficile.
+[7] Néanmoins, bien avant que les mises en demeure de produire des déclarations aient été signifiées, l'appelant avait rassemblé ses renseignements fiscaux pour toutes les années en question et il les avait remis à son comptable pour traitement et production. Toutefois, le comptable n'a rien fait pendant un certain temps et les déclarations n'ont été produites qu'après que les mises en demeure eurent été signifiées.
+[8] Peu de temps après la production des déclarations, le ministre du Revenu national (le « ministre ») a imposé des pénalités en vertu du paragraphe 162(7) de la Loi. Cette disposition prévoit qu'une pénalité peut être établie par suite de l'omission de produire une déclaration de renseignements requise dans le délai prévu.
+[9] Comme il en a été fait mention, la déclaration de renseignements ici en cause n'est pas la déclaration T1, mais plutôt le formulaire de déclaration de renseignements T1142 qu'il faut présenter conformément à l'article 233.6 de la Loi. Cette disposition prévoit qu'une entité canadienne déterminée (au sens du paragraphe 233.3(1)) qui a un droit de bénéficiaire dans une fiducie non‑résidente et qui reçoit des biens d'une telle fiducie est tenue de présenter le formulaire prescrit à la date d'échéance de production de l'entité pour l'année en cause.
+[10] Si le formulaire prescrit dont il est question à l'article 233.6 n'est pas présenté à la date d'échéance de production de l'entité pour l'année en cause, la pénalité pour le défaut qui est prévue au paragraphe 162(7) est de 25 $ par jour pour chaque jour où le formulaire prescrit est en retard, jusqu'à concurrence de 100 jours. Le ministre a calculé la pénalité comme étant le montant maximal pour chacune des années en question compte tenu du fait que la date d'échéance de production était le 15 juin de l'année suivant chaque année d'imposition en question, tel que le prévoit le paragraphe 150(1). Les formulaires n'ont pas été présentés à ce moment‑là, mais ils ont plutôt été présentés plus tard, avec les déclarations T1 qui, elles, n'ont pas été produites en retard.
+[11] Je tiens ici à faire remarquer qu'à l'audience, on a passé beaucoup de temps à essayer de déterminer la nature de la fiducie. Compte tenu de la preuve, j'ai conclu que la fiducie avait été créée aux États‑Unis par suite du décès du grand‑oncle de l'appelant, qui vivait aux États‑Unis. La fiducie était administrée aux États‑Unis par un fiduciaire américain. Il ne s'agissait pas d'une fiducie discrétionnaire. Un montant fixe en capital de la masse successorale avait été investi et donnait lieu à un revenu et c'était ce revenu qui devait être distribué chaque année au bénéficiaire des revenus.
+[12] De plus, je note que, bien qu'il ne soit pas contesté que la fiducie non‑résidente en cause soit une fiducie testamentaire, rien ne permet de conclure nécessairement qu'il ne s'agissait pas d'une succession. Selon les hypothèses énoncées dans la réponse à l'avis d'appel (la « réponse »), la fiducie était une fiducie testamentaire continue. Cette hypothèse n'a pas été mise en question et, de toute façon, je suis convaincu qu'il s'agissait de fait d'une fiducie testamentaire. Toutefois, je tiens à faire remarquer qu'une fiducie testamentaire telle qu'elle est définie au paragraphe 108(1) de la Loi[2] s'entend d'une fiducie ou d'une succession qui a commencé à exister au décès d'un particulier et par suite de ce décès, c'est‑à‑dire qu'une hypothèse selon laquelle une fiducie est une fiducie testamentaire n'empêche pas cette fiducie de faire partie de la succession du grand‑oncle décédé de l'appelant. En outre, il n'y a rien dans les hypothèses qui m'amènerait à croire que le ministre avait émis une hypothèse correspondant à celle que l'avocate de l'intimée a émise. L'assertion ou l'hypothèse de l'avocate de l'intimée était que la succession avait été liquidée et que la fiducie testamentaire n'était pas une succession, mais qu'elle était plutôt quelque chose d'autre. Toutefois, les hypothèses énoncées dans la réponse disent uniquement que les montants ont initialement été distribués au père de l'appelant et qu'au moment du décès du père, les montants en question ont continué à être versés à l'appelant conformément aux dispositions de la fiducie testamentaire. Il n'est pas supposé que la succession avait été liquidée ou que la fiducie testamentaire était une fiducie distincte administrée séparément et indépendamment de la succession, par exemple par des fiduciaires qui n'étaient pas exécuteurs.
+Analyse
+[13] Les présents appels soulèvent plusieurs problèmes. Étant donné que ni les dispositions du testament du grand‑oncle de l'appelant ni l'état de la succession du grand‑oncle n'ont été soumis en preuve, il est difficile de déterminer le statut de la fiducie. Comme je l'ai dit, aucune hypothèse n'a été émise au sujet de l'état de la succession du grand‑oncle de l'appelant. Je conclus donc que l'intimée ne devrait pas pouvoir se fonder sur l'argument voulant que la fiducie testamentaire en question ne soit pas une succession. Cela étant, la fiducie testamentaire en question devrait bénéficier de l'exception prévue dans le cas d'une succession conformément à l'article 233.6 de la Loi et elle est donc exemptée de l'obligation de production prévue par cette disposition. Le paragraphe 233.6(1) prévoit expressément que l'appelant, en sa qualité d'entité canadienne déterminée qui a un droit de bénéficiaire dans une fiducie non‑résidente et qui a reçu des biens d'une telle fiducie dans le cadre d'une distribution, n'a pas à présenter le formulaire en question si la fiducie non‑résidente est une :
+fiducie qui était une fiducie exclue pour l'année ou l'exercice de l'entité ou une succession découlant du décès d'un particulier [...]
+[Non souligné dans l’original.]
+[14] Le fait de permettre à l'appelant de bénéficier de cette disposition est un motif suffisant pour accueillir l'appel en l'espèce. Il n'y a pas lieu de croire que l'appelant n'a pas reçu les montants distribués en question de la succession de son grand‑oncle par suite du décès de ce grand‑oncle. Comme il en a été fait mention, les hypothèses émises par le ministre ne donnaient pas à entendre autre chose et, cela étant, l'appelant a satisfait aux seuls fardeaux qui lui étaient imposés en l'espèce.
+[15] À l'audience et dans les motifs que j'ai rendus à l’audience, j'ai également donné à entendre que les formulaires prescrits qui devaient être présentés conformément à l'article 233.6 à l'égard de chacune des années ici en cause n'ont pas été présentés en retard, puisque la date d'échéance de production prévue à l'article 233.6 est établie au paragraphe 150(1), comme on l'a affirmé dans la réponse, et que le paragraphe 150(1.1) prévoit que le paragraphe (1) ne s'applique pas à une année pour laquelle aucun impôt n'est payable. Cela semblerait avoir protégé l'appelant contre une pénalité pour production tardive. Toutefois, l'article 248 définit la date d'échéance de production comme suit : « Le jour où un contribuable est tenu de produire sa déclaration de revenu en vertu de la partie I pour une année d'imposition ou le jour où il serait tenu de la produire s'il avait un impôt à payer pour l'année en vertu de cette partie. » Étant donné cette définition du terme « date d'échéance de production », le fait que l'appelant a présenté les formulaires en question avec ses déclarations T1, qui ont été produites dans les délais, n'aide pas celui‑ci. Je ne puis omettre de tenir compte d'une telle disposition expresse de la Loi, et ce, même si l'intimée ne l'a pas invoquée.
+[16] Je n'ai pas à examiner le moyen de défense fondé sur la diligence raisonnable que l'appelant a invoqué, mais j'aimerais faire remarquer, comme je l'ai fait dans les motifs que j'ai rendus à l’audience, que bien que ce moyen de défense ne protège pas le contribuable si les omissions résultent d'erreurs commises de bonne foi, il serait probablement possible dans ce cas‑ci de donner à l'appelant une certaine latitude. Il y a eu divulgation volontaire à l'égard des années d'imposition 2002, 2003 et 2004 et il y aurait eu divulgation volontaire à l'égard des années 2005 et 2006 si le comptable avait agi d'une façon plus diligente comme l'appelant le lui avait demandé. De fait, dans la décision Leclerc c. La Reine[3], la présente cour a dit que les divulgations volontaires ont un effet d'atténuation selon les pratiques administratives de l'Agence du revenu du Canada elle‑même.
+[17] En outre, je me demande si une personne prudente agissant d'une façon raisonnable aurait manifesté plus de vigilance ou aurait agi d'une façon plus diligente dans un cas comme celui‑ci où les montants étaient si clairement distribués par suite d'un décès. Les bénéficiaires d'un testament devraient-ils être réputés savoir que, même s'il est vrai que toutes les successions sont des fiducies, les fiducies testamentaires ne sont pas toutes des successions? Je suis d'avis que la distinction n'est pas si évidente dans ces circonstances aux yeux de personnes ayant des antécédents et une expérience semblables à ceux de l'appelant. L'ignorance de la loi n'est pas une excuse, mais à mon avis le degré de difficulté associé à l'observation de la loi abaisse quelque peu le fardeau dans ce cas‑ci en ce qui concerne l'application du moyen de défense fondé sur la diligence raisonnable. Par conséquent, si j'avais eu à appliquer ce moyen de défense dans ce cas‑ci, j'aurais peut‑être été porté à le faire.
+[18] Toutefois, pour les motifs susmentionnés, je n'ai pas à examiner ce moyen de défense. Les appels sont de toute façon accueillis puisque j'ai conclu que, selon les dispositions de la Loi, il n'était pas nécessaire de présenter les formulaires en question.
+Signé à Ottawa, Canada, ce 22e jour de juillet 2011.
+« J. E. Hershfield »
+Le juge Hershfield
+Traduction certifiée conforme
+ce 7e jour d'octobre 2011.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2011 CCI 360
+No DU DOSSIER DE LA COUR : 2011-477(IT)I
+INTITULÉ : PAUL HESS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 15 juillet 2011
+MOTIFS DU JUGEMENT : L’honorable juge J. E. Hershfield
+DATE DU JUGEMENT : Le 22 juillet 2011
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Larissa Benham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] La réponse à l'avis d'appel dit erronément que l'appelant n'avait pas produit de déclarations de revenus pour chacune des années en question selon les modalités et dans le délai prévus à l'alinéa 150(1)d) de la Loi.
+[2] La définition figurant au paragraphe 108(1) s'applique pour l'application de la Loi conformément à la définition du terme « fiducie testamentaire » figurant au paragraphe 248(1).
+[3] 2010 CCI 99.

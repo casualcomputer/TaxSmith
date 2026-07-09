@@ -1,0 +1,245 @@
+Title: Beggs c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/142669/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-11-142669-beggs-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-01-20
+
+# Beggs c. La Reine
+
+- Citation: 2016 CCI 11
+- Decision date: 2016-01-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3023, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beggs c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-01-20
+Référence neutre
+2016 CCI 11
+Numéro de dossier
+2015-1592(IT)I, 2015­1593(IT)I, 2015­1594(IT)I, 2015­1595(IT)I, 2015­1596(IT)I, 2015­1597(IT)I, 2015­1599(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015­1592(IT)I
+ENTRE :
+NICHOLAS BEGGS,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2015­1593(IT)I
+ET ENTRE :
+ERIK CHRISTOPHER SYLVAN STEWART,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2015­1594(IT)I
+ET ENTRE :
+GARY GERARD WILLIAM JOHN O’TOOLE,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2015­1595(IT)I
+ET ENTRE :
+ROGER FRANK KING,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2015­1596(IT)I
+ET ENTRE :
+ROBERT JAMES TOWNSEND,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2015­1597(IT)I
+ET ENTRE :
+STEPHEN RICHARD HACKETT,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2015­1599(IT)I
+ET ENTRE :
+HACKETT SONGS LTD.,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+(collectivement, les « requérants »).
+[TRADUCTION FRANÇAISE]
+Requête visant à obtenir le rejet des appels entendus sur preuve commune le 8 octobre 2015 à Montréal (Québec).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocat du requérant :
+Me Richard Dermer
+Avocats de l’intimée :
+Me Alain Gareau
+Me Marissa Figlarz
+ORDONNANCE
+La requête en vue d’obtenir une ordonnance visant à rejeter les appels au motif que la Cour canadienne de l’impôt n’a pas compétence sur l’objet des appels est accueillie. Les appels d’une décision rendue le 17 février 2015 par les services de la vérification des non­résidents de la Direction des décisions en impôt de l’Agence du revenu du Canada, concernant le rejet des dérogations de retenue secondaire demandées à l’égard des prestations canadiennes de 2014 de l’artiste musical non­résident Steve Hackett, sont rejetés conformément aux motifs de l’ordonnance ci­joints.
+Signé à Ottawa, Canada, ce 20e jour de janvier 2016.
+« Réal Favreau »
+Juge Favreau
+Référence : 2016 CCI 11
+Date : 20160120
+Dossiers : 2015­1592(IT)I,
+2015­1593(IT)I, 2015­1594(IT)I,
+2015­1595(IT)I, 2015­1596(IT)I,
+2015­1597(IT)I, 2015­1599(IT)I
+ENTRE :
+NICHOLAS BEGGS,
+ERIK CHRISTOPHER SYLVAN STEWART,
+GARY GERARD WILLIAM JOHN O’TOOLE,
+ROGER FRANK KING,
+ROBERT JAMES TOWNSEND,
+STEPHEN RICHARD HACKETT,
+HACKETT SONGS LTD.,
+requérants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Favreau
+[1] La requête visant à obtenir le rejet des appels a été entendue sur preuve commune. Le 10 septembre 2015, l’intimée a déposé une requête en vue d’obtenir une ordonnance visant à rejeter les appels en faisant valoir que la Cour canadienne de l’impôt n’a pas compétence sur l’objet des appels. Par ailleurs, si la requête est rejetée, l’intimée sollicite une ordonnance lui accordant 60 jours pour déposer et signifier la réponse à l’avis d’appel déposé par chacun des requérants.
+[2] Les motifs de la requête sont les suivants :
+1. Le 15 octobre 2012, R.A.M. Management Inc. a présenté une demande de dérogation à la retenue d’impôt au nom de Hackett Songs Ltd. concernant les retenues pour les honoraires versés aux employés et aux sous­traitants non­résidents pour des services rendus au Canada entre le 26 novembre et le 11 décembre 2014.
+2. Le 19 novembre 2014, les services de la vérification des non­résidents de l’Agence du revenu du Canada (« ARC ») ont rendu une décision concernant la dérogation à la retenue. Cette décision prévoyait l’application de la retenue aux paiements versés aux employés et aux sous­traitants.
+3. Le 17 février 2015, l’ARC a confirmé sa décision rendue le 19 novembre 2014.
+4. Le 16 avril 2015, les requérants ont déposé des avis d’appel devant la Cour concernant le rejet de la demande de dérogation à la retenue.
+5. L’intimée fait la présente demande pour obtenir une ordonnance visant à rejeter l’appel au motif que la Cour n’a pas compétence sur l’objet de l’appel.
+6. Le recours sollicité par les requérants vise à infirmer la décision de l’ARC à l’égard de l’admissibilité à la dérogation, toutefois, ce recours n’est pas de la compétence de la Cour.
+7. Aux termes de l’article 152 de la Loi de l’impôt sur le revenu (la « Loi »), le ministre doit, avec diligence, examiner le revenu d’un contribuable pour une année d’imposition et fixer l’impôt, les intérêts et les pénalités, le cas échéant.
+8. L’article 165 de la Loi prévoit qu’un contribuable peut s’opposer à la cotisation prévue par le ministre en déposant un avis d’opposition, par écrit, exposant les motifs de son opposition et les faits pertinents.
+9. Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165 de la Loi, l’article 169 de la Loi prévoit qu’il peut interjeter appel auprès de la Cour.
+10. L’article 171 de la Loi prévoit que la Cour peut rejeter l’appel ou l’admettre en vue d’annuler la cotisation, modifier la cotisation ou déférer la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+11. La décision rendue le 19 novembre 2014 et sa confirmation datée du 17 février 2015, qui rejette la demande de dérogation, ne sont pas une cotisation au sens de l’article 152 de la Loi. Une telle décision rendue par le ministre peut ne pas faire l’objet d’une opposition aux termes de l’article 165 de la Loi ou d’un appel auprès de la Cour aux termes de l’article 169 de la Loi.
+12. Aucun avis de cotisation n’a été établi à l’égard des requérants concernant leur année d’imposition 2014.
+13. La Cour n’a pas compétence pour accorder la mesure de redressement demandée dans cet appel, puisqu’aucun avis de cotisation n’a été établi en ce qui concerne l’année d’imposition 2014 des requérants (sic).
+Contexte factuel
+[3] Les faits suivants précisés à la section B de l’avis d’appel déposé par chaque requérant ne sont pas contestés :
+1. Le 15 octobre 2015, le requérant Hackett Songs LTD a présenté une demande de dérogation de l’application de l’article 105 du Règlement de l’impôt sur le revenu (le « Règlement ») concernant les sommes à recevoir aux termes de son contrat pour les prestations de Steve Hackett ayant lieu au Canada du 26 novembre au 11 décembre 2014. Hackett Song LTD a présenté simultanément des demandes de dérogation à la retenue d’impôt secondaire relativement aux sommes à verser à son employé (requérant Stephen Richard Hackett) et à ses sous­traitants (requérants Nicholas Beggs, Erik Christopher Sylvan Stewart, Gary Gerard William John O’Toole, Roger Frank King et Robert James Townsend) pour les mêmes dates de prestations (la « demande »).
+2. Selon la conclusion de l’ARC dans les décisions relatives aux dérogations, Stephen Richard Hackett a gagné 4 374 $ US (4 991 $ CA), Nicholas Beggs a gagné 3 888 $ US (4 437 $ CA), Erik Christopher Sylvan Stewart a gagné 3 888 $US (4 437 $ CA), Gary Gerard William John O’Toole a gagné 3 888 $US (4 437 $ CA), Roger Frank King a gagné 4 374 $ US (4 991 $CA) et Robert James Townsend a gagné 3 888 $ US (4 437 $CA) pour les services respectifs qu’ils ont rendus au Canada.
+3. En fonction de cette conclusion, aucune retenue d’impôt n’aurait dû être exigée sur les honoraires individuels des requérants, puisque ces honoraires se situent tous dans le montant admissible déterminé par l’ARC pour les artistes non­résidents, qui accorde une dérogation aux particuliers qui reçoivent moins de 5 000 $ CA par année en vertu des Lignes directrices touchant les dispenses de la retenue prévue à l’article 105 du Règlement fondées sur une convention fiscale (les « lignes directrices »).
+4. Au cours des discussions avec l’ARC concernant la demande, on a découvert que les dépenses pour la nourriture, le logement et le transport payées au nom des requérants étaient incluses dans le revenu pris en compte pour la détermination de l’admissibilité des requérants à une dérogation. Même si ces montants peuvent être inclus dans le calcul du revenu conformément aux lignes directrices, la Loi de l’impôt sur le revenu exempte clairement ces montants du calcul du revenu s’ils sont requis pour travailler sur un chantier particulier, comme c’était le cas pour les requérants, en vertu du paragraphe 6(6) de la Loi.
+5. Même si l’ARC n’a pas requis la retenue de l’impôt pour les montants des bénéfices décrits à la section 4 aux présentes, la prise en compte de ces montants dans la demande rend, à tort, les requérants particuliers inadmissibles à une dérogation à la retenue d’impôt à laquelle ils avaient dûment droit conformément à la loi canadienne de l’impôt, et a fait peser un fardeau indu sur les requérants particuliers, qui seraient tenus de produire une déclaration T1 pour récupérer les montants de l’impôt retenu en violation de la Loi, et sur Hackett Songs LTD, qui serait tenue de retenir, de verser et de prendre en considération ces montants d’impôt retenu.
+6. En plus des décisions de l’ARC relatives à la dérogation et de la décision subséquente prise en lien avec la violation de la Loi, le temps et le fardeau qui seraient imposés aux requérants à la suite de ces décisions sont également contraires au traitement général prévu dans les conventions fiscales conclues entre le Canada et d’autres pays des particuliers et des sociétés non­résidents qui n’ont pas d’établissement stable au Canada et qui font des affaires au Canada pendant des périodes limitées, et elles sont disproportionnées par rapport à l’objectif recherché de retenue et aux autres mesures de prévention de la fraude fiscale prévue dans les lois fiscales canadiennes.
+7. En plus de la question de légalité de la retenue d’impôt prévue dans la décision relative à la dérogation et la décision subséquente, les requérants ont présenté une demande semblable à l’ARC concernant une dérogation à la retenue d’impôt pour 2013. Tous les requérants font partie de la demande de 2013, ont gagné des salaires semblables et des montants semblables ont été acquittés en leur nom pour des frais de transport, de nourriture et de logement. Dans la demande de 2013, l’ARC n’a pas tenu compte des bénéfices des requérants dans le calcul du revenu, et tous les requérants ont obtenu une dérogation totale à la retenue d’impôt. Il convient de noter que l’ensemble des directives, lois, règlements et dispositions de conventions pertinents applicables en 2014 étaient en vigueur en 2013, et que les demandes pour 2013 et 2014 ont été traitées par le même bureau des services fiscaux. Cette application contradictoire par l’ARC de ses propres lignes directrices a empêché les requérants de planifier adéquatement leur rémunération canadienne et leur obligation fiscale pour 2014.
+La question en litige
+[4] La question est de déterminer si le rejet d’une demande de dérogation fiscale peut être considéré comme une cotisation aux fins de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa version modifiée (la « Loi »).
+Position des parties
+A. Position des requérants
+[5] Les requérants ont fait valoir que la décision de l’ARC concernant la demande de dérogation fiscale devrait être considérée comme une cotisation parce qu’il s’agit, par essence, d’une détermination de l’obligation fiscale des requérants, ce qui est équivalent à une cotisation.
+[6] Les requérants ont également fait valoir que si le rejet de la demande de dérogation fiscale n’est pas traité comme une cotisation, ils n’auraient aucun moyen d’interjeter appel de la décision du ministre du Revenu national.
+B. La position de l’intimée
+[7] La position de l’intimée est que la Cour canadienne de l’impôt (la « Cour ») n’a pas compétence sur l’objet des appels. En fait, les requérants demandent à la Cour d’infirmer la décision de l’ARC de rejeter les demandes de dérogation fiscales pour les non­résidents. La position de l’intimée est que ce recours n’est pas de la compétence de la Cour.
+[8] Selon l’intimée, la décision du ministre du revenu national datée du 19 novembre 2014 et sa confirmation datée du 17 février 2015 rejetant les demandes de dérogation fiscale ne sont pas une cotisation aux termes de l’article 152 de la Loi.
+La législation en vigueur
+[9] L’article 152 de la Loi impose au ministre du revenu national l’obligation, avec diligence, d’examiner la déclaration de revenu d’un contribuable pour une année d’imposition, de fixer l’impôt pour l’année, ainsi que les intérêts et les pénalités, et de déterminer le montant du remboursement auquel le contribuable a droit et le montant d’impôt qui est réputé avoir été payé au titre de l’impôt payable par le contribuable en vertu de la Partie I de la Loi pour l’année.
+[10] Le paragraphe 152(1) de la Loi est libellé comme suit :
+Cotisation – Le ministre, avec diligence, examine la déclaration de revenu d’un contribuable pour une année d’imposition, fixe l’impôt pour l’année, ainsi que les intérêts et les pénalités éventuels payables et détermine :
+a) le montant du remboursement éventuel auquel il a droit en vertu des articles 129, 131, 132 ou 133, pour l’année;
+b) le montant d’impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 122.7(2) ou (3), 122.8(2) ou (3), 125.4(3), 125.5(3), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l’impôt payable par le contribuable en vertu de la présente partie pour l’année.
+[11] Le paragraphe 169(1) de la Loi stipule que lorsqu’un contribuable a signifié un avis d’opposition à une cotisation en vertu de l’article 165 de la Loi, il peut interjeter appel auprès de la Cour pour faire annuler ou modifier la cotisation.
+[12] Le paragraphe 169(1) est libellé comme suit :
+Appel – Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où avis a été envoyé au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[13] Lorsqu’un appel est interjeté, la Cour canadienne de l’impôt peut statuer sur l’appel en le rejetant ou en l’admettant en annulant, modifiant ou déférant la cotisation au ministre. Ces options figurent au paragraphe 171(1) de la Loi en ces termes :
+Règlement d’un appel – La Cour canadienne de l’impôt peut statuer sur un appel :
+a) en le rejetant;
+b) en l’admettant et en :
+i) annulant la cotisation,
+ii) modifiant la cotisation,
+iii) déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+[14] Aux termes de l’alinéa 153(1)g) de la Loi et de l’article 105 du Règlement, une retenue d’impôt de 15 % doit être déduite du paiement d’un honoraire, d’une commission d’un autre montant versé ou attribué à une personne non­résidente à l’égard de services rendus au Canada. Le montant retenu est au titre de l’obligation fiscale éventuelle du bénéficiaire ou du dépositaire en vertu de la Loi. L’alinéa 153(1)g) de la Loi prévoit ce qui suit :
+Toute personne qui verse au cours d’une année d’imposition l’un des montants suivants :
+..
+des honoraires, commissions ou autres sommes pour services, à l’exception des sommes visées aux paragraphes 115(2.3) ou 212(5.1);
+...
+doit en déduire ou en retenir la somme fixée selon les modalités réglementaires et doit, au moment fixé par règlement, remettre cette somme au receveur général au titre de l’impôt du bénéficiaire ou du dépositaire pour l’année en vertu de la présente partie ou de la partie XI.3. Toutefois, lorsque la personne est visée par règlement à ce moment, la somme est versée au compte du receveur général dans une institution financière désignée.
+[15] Pour donner effet à l’alinéa 153(1)g) dans le contexte des paiements versés à des non­résidents, le gouverneur en conseil a adopté l’article 105 du Règlement, libellé comme suit :
+Non­résidents
+105 (1) Quiconque verse à une personne non­résidente un honoraire, commission ou autre montant à l’égard de services rendus au Canada, de quelque nature que ce soit, doit déduire ou retrancher 15 pour cent de ce versement.
+(2) Le paragraphe (1) ne s’applique pas aux paiements :
+a) visés à la définition de rémunération au paragraphe 100(1);
+b) faits à un assureur non­résident enregistré, au sens de l’article 804;
+c) faits à une banque étrangère autorisée en ce qui a trait à son entreprise bancaire canadienne.
+[16] Lorsqu’un non­résident peut démontrer que, selon une clause d’une convention fiscale ou une estimation des revenus et des dépenses, la retenue généralement requises excède l’impôt à payer, l’ARC peut accorder une dérogation à la retenue ou une réduction de celle­ci en vertu des dispositions en matière de préjudice indu prévues au paragraphe 153(1.1) de la Loi. Les demandes de dérogation doivent être présentées à partir du formulaire R105, Demande de dispense de l’application de l’article 105 du Règlement de l’impôt sur le revenu.
+Analyse
+[17] Le terme « cotisation » n’est pas défini dans la Loi. Selon le Black’s Law Dictionnary, dixième édition, en anglais, le terme « assessment » (évaluation, imposition ou cotisation en français) est une [traduction] « détermination du taux ou du montant de quelque chose, comme un impôt ou des préjudices (évaluation des pertes couvertes par l’assurance). » L’autre définition donnée est [traduction ] « imposition de quelque chose, comme une taxe ou une amende, selon un taux établi; la taxe ou l’amende ainsi imposée (imposition d’une taxe de luxe) ».
+[18] Dans l’affaire McMillen Holdings Ltd. v. Minister of National Revenue, 1987 CarswellNat 532, le juge Rip (tel était alors son titre) s’est penché sur la signification du terme « cotisation » et a tiré la conclusion selon laquelle une « cotisation » est une détermination de l’obligation d’un contribuable. Voici sa conclusion :
+[traduction]
+44 L’article 152 dispose que le ministre doit examiner la déclaration de revenu du contribuable pour l’année d’imposition, fixer l’impôt pour l’année, ainsi que les intérêts et les pénalités éventuels, et déterminer le montant du remboursement éventuel ou de l’impôt payé au titre de l’impôt exigible. La Loi ne définit pas les mots « cotisation » et « nouvelle cotisation », sauf dans la mesure où elle prévoit qu’une cotisation comprend une nouvelle cotisation. Dans l’affaire Pure Spring Company Limited v. Minister of National Revenue, [1946] C.T.C. 169, à la page 198, 46 D.T.C. 844, à la page 857, le juge Thorson traite des termes « nouvelle cotisation » et « avis de cotisation » :
+[traduction]
+La cotisation n’est pas la même chose que l’avis de cotisation; dans le premier cas, il s’agit d’une opération, dans l’autre d’un document. La nature de l’opération qui consiste à établir une cotisation a été clairement définie par le juge Isaacs, juge en chef de la Cour d’appel d’Australie, dans l’arrêt Federal Commissioner of Taxation v. Clarke (1927), 40 C.L.R. 246, à la page 277 :
+[traduction]
+La cotisation n’est que l’établissement et la détermination d’une obligation.
+définition élaborée précédemment dans l’affaire The King v. Deputy Federal Commissioner of Taxation (S.A.); ex parte Hooper (1926), 37 C.L.R. 368, à la page 373 :
+[traduction]
+La « cotisation » n’est pas un simple document; il s’agit d’une opération ou d’un acte officiel; c’est l’établissement par le commissaire, une fois que toutes les circonstances pertinentes ont été prises en compte, y compris parfois, son propre jugement subjectif, du montant d’impôt imputable à un contribuable donné. Une fois qu’il a déterminé ce montant, il envoie par la poste un avis correspondant intitulé « Avis de cotisation ». [...] Toutefois, ni ce document ni l’avis en soi ne constituent une « cotisation ». La cotisation correspond dans tous les cas à l’action du commissaire.
+C’est l’opinion à laquelle arrive le commissaire et non le document dans lequel elle figure qui constitue l’une des circonstances pertinentes à la cotisation. La cotisation est, à mes yeux, la somme de tous les facteurs qui représentent l’obligation fiscale, déterminés de façon diverse et permettant d’arriver à un total une fois que tous les calculs nécessaires ont été faits.
+45 De par sa nature, une cotisation revient à déterminer ce que doit le contribuable. Les sommes dues au contribuable par la Couronne au titre des intérêts ne peuvent faire l’objet d’une cotisation et ne représentent pas une obligation fiscale.
+[19] Ce concept de la « cotisation » est systématiquement appliqué par les tribunaux et leur a fait conclure qu’il ne peut y avoir appel d’une cotisation « nulle » parce que le contribuable n’a rien à contester dans son appel auprès des tribunaux.
+[20] Dans l’affaire McIntosh c. Canada, 2011 CCI 147, le juge D’Arcy a fait référence à la décision du juge Rip dans l’affaire McMillen Holdings Ltd. et a indiqué, au paragraphe 19 :
+Il ressort clairement de ces dispositions que la compétence de la Cour est limitée aux appels interjetés d’une cotisation. Il s’agit seulement des appels interjetés d’une cotisation établie en vertu de la Loi [...].
+[21] Dans l’affaire Weyerhaeuser Co. c. Canada, 2007 CCI 65, le juge Bowie a expliqué le concept de retenue d’impôt et a conclu que la retenue d’impôt n’est pas une cotisation. L’extrait suivant est particulièrement pertinent :
+[7] L’examen du but visé au paragraphe 153(1) mène à la même conclusion. Cette disposition n’établit pas un impôt; comme l’intimée le soutient avec raison, le but de l’alinéa 153(1)g) est d’assurer que, si le bénéficiaire non­résident d’un paiement est, une fois que tous les faits sont connus, tenu de payer un impôt sur le revenu au Canada, des fonds seront disponibles, sous la forme des 15 p. 100 retenus et remis, pour satisfaire à l’obligation. Cela est inévitable, puisque la disposition en question n’établit pas un impôt, mais exige simplement qu’une retenue soit effectuée « au titre de l’impôt du bénéficiaire ou du dépositaire pour l’année »5. Je ne dispose pas de tous les contrats écrits conclus par l’appelante et ses conseillers, mais l’examen des factures m’amène à conclure que, comme on peut s’y attendre, l’obligation de l’appelante à l’égard des débours consiste simplement à rembourser ce que le conseiller a payé pour le compte de l’appelante lors de la prestation du service. Une retenue de 15 p. 100 sur ce montant ne facilite pas du tout la réalisation du but visé à l’alinéa 153(1)g) ou dans la Loi dans son ensemble. De fait, le résultat qu’entraînerait une telle retenue serait tout à fait contraire aux intérêts de l’industrie canadienne. Il n’est pas difficile d’entrevoir que, si les fournisseurs de services étrangers devaient être remboursés de leurs dépenses uniquement dans une proportion de 85 p. 100, tant qu’ils n’auraient pas produit une déclaration de revenus canadienne après la fin de l’exercice, et qu’ils devaient ensuite attendre de recevoir un avis de cotisation et un remboursement, la chose aurait pour effet de les décourager fortement d’offrir leurs services à des clients canadiens. Étant donné que le but de la disposition est simplement de fournir une garantie pour l’impôt qui pourra par la suite être établi, il est uniquement nécessaire de veiller à ce que cette garantie soit donnée à l’égard du revenu gagné au Canada puisque c’est ce revenu qui est assujetti à l’impôt en vertu du paragraphe 2(3) de la Loi.
+[Non souligné dans l’original.]
+[22] Par conséquent, il est ressort clairement de ce paragraphe tiré de la décision du juge Bowie qu’une retenue d’impôt n’est pas une cotisation. Il ne s’agit que d’un moyen pour le gouvernement de s’assurer que l’impôt auquel il a droit sera versé par les non­résidents. Si le montant de la retenue d’impôt dépasse le montant à payer par le contribuable, alors le gouvernement lui remboursera le montant excédentaire.
+[23] Si une retenue d’impôt ne constitue pas une cotisation, une dérogation autorisant le contribuable canadien à ne pas retenir le 15 p. cent sur les honoraires payables à un non­résident ne constitue pas non plus une cotisation.
+[24] Dans l’affaire Big Bad Voodoo Daddy c. Canada, 2011 CCI 226, j’ai eu l’occasion de me pencher sur le fonctionnement de la dérogation à l’article 105 du Règlement. Au paragraphe 25, j’ai donné les explications suivantes :
+La demande de dérogation à l’article 105 du Règlement autorise le contribuable canadien qui est sur le point d’effectuer un paiement à un non­résident pour des services fournis au Canada à ne pas retenir l’impôt de 15 p. 100 sur les honoraires payables au non­résident. Puisque la demande de dérogation est fondée sur une estimation des revenus par rapport aux dépenses directement liées aux services fournis au Canada, toute modification des honoraires convenus ou de la période de service invalide la dérogation. En pareil cas, le contribuable canadien est alors responsable de la retenue à la source de 15 p. 100 sur le montant brut de tout paiement au non­résident à moins que le non­résident dépose une autre demande de dérogation auprès de l’ARC. Le contribuable canadien est tenu de produire un feuillet T4A­NR pour chaque non­résident payé et de donner à chacun une copie du feuillet. Le feuillet T4A­NR indiquera les honoraires payés et les impôts déduits à l’égard du non­résident.
+[25] Je suis d’accord avec l’intimée que le rejet d’une demande de dérogation fiscale ne constitue pas une cotisation, mais bien une décision discrétionnaire du ministre. Après la présentation d’une demande par un non­résident, le ministre décide s’il accepte de déroger à la retenue de l’impôt dans le cas précis du demandeur. Tel qu’il a été établi par le juge Bowie dans l’affaire Kravetsky c. Canada, 99 D.T.C. 451, le contrôle judiciaire d’un pouvoir discrétionnaire du ministre n’est pas de la compétence de la Cour. L’extrait qui suit confirme clairement cette conclusion :
+[3] Au cours de son argumentation, l’avocat m’a précisé qu’il s’appuie sur les deux paragraphes ayant fait l’objet d’une requête uniquement en ce qui a trait au redressement demandé dans le sous­paragraphe 15d) des avis d’appel. Il considérait qu’un exercice arbitraire et injuste d’un pouvoir discrétionnaire conféré par la loi est sujet à une révision judiciaire de cette cour. Il ne pouvait toutefois indiquer aucune disposition législative qui conférerait à cette cour une telle compétence. En fait, la seule disposition à laquelle il pouvait me référer était le paragraphe 18(1) de la Loi sur la Cour fédérale. Il est évident que cette disposition ne donne compétence qu’à la Cour fédérale du Canada. Si les appelants désirent poursuivre leur demande de redressement énoncée au sous­paragraphe 14d) en se basant sur les faits allégués aux paragraphes 12 et 13, ils devront le faire à cette cour. La compétence de la présente cour se limite à ce qui lui est conféré par le Parlement, que cette compétence soit exprimée de façon expresse ou implicite : voir Lamash Estate c. M.R.N.3
+[26] Les requérants ont soutenu que l’ARC avait établi qu’ils étaient tenus de payer des impôts au Canada et que cette détermination était équivalente à une cotisation. Je ne suis pas d’accord avec cette affirmation parce qu’une dérogation ne constitue pas une détermination de l’impôt à payer par un non­résident, il s’agit d’une décision concernant le fait de permettre à un contribuable canadien ou à un payeur non­résident de ne pas retenir l’impôt sur les montants payables à un non­résident. L’obligation fiscale du non­résident peut uniquement être déterminée par l’établissement d’une cotisation après un examen de sa déclaration de revenus. Même si une dérogation a été accordée à l’égard d’un paiement d’honoraires à un non­résident, le non­résident devra quand même remplir une déclaration de revenus à la fin de l’année. La seule différence étant que le montant du non­résident devant être imputé à son impôt ne serait pas retenu, et le non­résident n’aura pas à demander le remboursement du montant payé en trop.
+[27] Les requérants ont également soutenu qu’il leur serait alors impossible d’interjeter appel. Lorsque les requérants rempliront leur déclaration de revenus, ils recevront tous un avis de cotisation et pourront tous interjeter appel de cet avis de cotisation s’ils ne sont pas d’accord avec la cotisation. Dans tous les cas, les requérants auront toujours la possibilité de se tourner vers la Cour fédérale du Canada afin de forcer le ministre à changer sa décision, comme l’a formulé le juge Bowie dans l’affaire Kravetsky. Je suis d’accord avec l’intimée que la décision ministérielle d’accorder une dérogation serait l’équivalent d’un mandamus.
+[28] Pour les motifs précités, la motion de l’intimée visant à rejeter les appels des requérants est accueillie et les appels sont rejetés.
+Signé à Ottawa, Canada, ce 20e jour de janvier 2016.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2016 CCI 11
+NOS DU DOSSIER DE LA COUR :
+2015­1592(IT)I, 2015­1593(IT)I, 2015­1594(IT)I, 2015­1595(IT)I, 2015­1596(IT)I, 2015­1597(IT)I, 2015­1599(IT)I,
+INTITULÉS :
+Nicholas Beggs et la Reine, Erik Christopher S. Stewart et la Reine, Gary Gerard W. J. O’Toole et la Reine, Roger Frank King et la Reine, Robert James Townsend et la Reine, Stephen Richard Hackett et la Reine, Hackett Songs Ltd. et la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 8 octobre 2015
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Réal Favreau
+DATE DE L’ORDONNANCE :
+Le 20 janvier 2016
+COMPARUTIONS :
+Avocat du requérant
+Me Richard Dermer
+Avocats de l’intimée :
+Me Alain Gareau
+Me Marissa Figlarz
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+Me Richard Dermer
+Cabinet :
+R.A.M. Management
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous­procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,139 @@
+---
+title: "Thomas v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30503/index.do"
+last_modified: "2010-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 421"
+citation2: ""
+neutral_citation: "2011 TCC 421"
+decision_date: "2010-05-11"
+language: "en"
+item_id: "30503"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7244
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:22:04.480000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "60a7025b0ad6d9e41a5a1649fd612909d5ea9114e083cab8c4beca1f067d7d2c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Thomas v. The Queen
+
+- Citation: 2011 TCC 421
+- Decision date: 2010-05-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7244, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thomas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-11
+Neutral citation
+2011 TCC 421
+File numbers
+2009-3273(GST)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2011TCC421
+Date: 20110912
+Docket: 2009-3273(GST)I
+BETWEEN:
+BRADLEY THOMAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on May 11, 2010, in Ottawa, Ontario.)
+McArthur J.
+[1] These appeals are from a reassessment by the Minister of National Revenue under subsection 323(1) of the Excise Tax Act (GST) (the “Act”). They were heard under the informal procedure of this Court. The reassessment of $43,840 is in respect to the failure of 610745 Saskatchewan Ltd. (610) to remit net tax pursuant to subsection 228(2) of the Act for periods ended on December 31, in 1998, 1999, 2000, 2001, 2002 and 2003.
+[2] The Minister’s position is that the Appellant was a director of 610 and pursuant to Saskatchewan’s Business Corporation Act continued to be a director of the Company for at least two years after the Company was struck off Saskatchewan’s Corporate Registry.
+[3] The Minister adds that the Appellant did not exercise the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances as contemplated in subsection 323(3) of the Act to prevent the failure of 610 to remit the net tax for the reporting periods as referred to.
+[4] The Appellant submits that he ceased to be director as of the date 610 was dissolved being August 31, 2005 and in any event, he exercised the due diligence contemplated in subsection 323(3).
+[5] In May of 1998, 610, a GST registrant, acquired three commercial properties in Saskatoon. The Appellant became the beneficial owner of 75% of the properties. He practiced optometry in Unity and Meadow Lake, Saskatchewan for over 20 years. His practice kept him busy having offices in both communities that are two and a half hours apart from each other and I believe approximately two hours from Saskatoon.
+[6] In the mid-1990’s he retained Gerard Gardiner (Gerard) for investment and financial advice. Gerard was an investment advisor in a private firm. Upon his advice the two of them purchased shares in a corporation (599418 Saskatchewan Ltd.) that was the sole shareholder of 610 who became the registered owner of the three commercial properties. Pacific and Western Trust Corporation later Pacific and Western Bank (P&W) loaned money to the Appellant and Gerard to purchase the properties.
+[7] Under an oral agreement between the parties, Gerard undertook to handle the day to day operation of 610. The Appellant had neither the time nor the aptitude to become involved in the property management and accounting. This is not an uncommon arrangement between a busy professional and a hands-on partner.
+[8] In addition to the Appellant, his accountant of many years Mr. Robinson CA also testified. They acknowledged that Gerard would do the bookkeeping and Mr. Robinson would complete the financial statements and GST returns. He prepared statements and tax returns for May to December 31, 1998 and January 1 to December 3, 1999 only because he prepared statements for the remnant of 1998 in the year 1999. He did not receive the documents from Gerard after 1999 that were necessary to prepare GST returns and other documentation for the ensuing years.
+[9] The Appellant relied completely on Gerard and his accountant on questions regarding GST and bookkeeping financing, financial statements, returns and so on. The question is whether this was sufficient to satisfy subsection 323(3).
+[10] 610’s property business experienced several financial difficulties in the early 2000s and the Appellant was called to advance $75,000 to the bank in November 2002 to keep 610 financially stable.
+[11] At the same time he also guaranteed a $25,000 bank loan for Gerard’s share of the $100,000 cash requirement.
+[12] 610 sold a property in 2001 and a second in 2002, the proceeds of which went to the bank to reduce its debt. In November 2002, the Appellant specifically asked Gerard if the GST filing and payments were up to date and was advised that they were.
+[13] In 2003, 610, the Appellant and Gerard bought peace and a release from the bank by deeding the third property to the bank and paying it $100,000. The Appellant paid $75,000 at this time and guaranteed a $25,000 note from Gerard to the bank. At this time the Appellant believed that all of 610 debts were paid including GST requirements.
+[14] For two or three years, prior to the real estate purchase, the Appellant relied on the advice and management of Gerard. Although no specifics were given, he is the one the Appellant is primarily relying on for this due diligence position. The Appellant’s evidence was obviously self serving and presented to meet his present day needs but it was not seriously affected on cross-examination. One would conclude from the evidence presented that Gerard did not meet the test in subsection 323(3) but unfortunately we only heard one side of the story. Gerard was not called to testify. Apparently he has his own assessment arising from the same scenario to deal with. He may well have a different version of the facts.
+[15] The Appellant does not admit that he was director during the relevant period but submits that if so found he was an outside director as the expression was used in Soper v. The Queen, 97 DTC 5407 and he exercised the due diligence contemplated in the Act. He indicated that he ceased to be a director more than two years before he was assessed and the assessment is statute barred pursuant to subsection 323(5) of the Act. The two parties to the present case have their own separate reasons for not presenting Gerard and I draw no adverse inference from his absence.
+[16] I will first deal with, what I believe is the Appellant’s principle defence – due diligence.
+[17] Both counsel referred to the Soper case, which has significantly influenced this Court. I believe it has assisted tax payers in alleviating in certain instances the harshness of directors’ liability. It is quoted for the principle that inside and outside directors are subject to different tests and that it is wrong to automatically uphold liability of directors where a company fails to pay government taxes.
+[18] Soper is cited in most directors’ liability cases and in particular paragraphs 29 and 30.
+29 . . . The standard of care laid down in subsection 227.1(3) of the Act is inherently flexible. Rather than treating directors as homogenous group of professionals whose conduct is governed by a single, unchanging standard, that provision embraces a subjective element which takes into account the personal knowledge and background of the director, as well as his or her corporate circumstances in the form of, inter alia, the company’s organization, resources, customs and conduct. Thus, for example, more is expected of individuals with superior qualifications (e.g. experienced business-persons).
+30 The standard of care set out in subsection 227.1(3) of the Act is, therefore, not purely objective. Nor is it purely subjective. It is not enough for a director to say he or she did his or her best, for that is an invocation of the purely subjective standard. . . .
+[19] The Supreme Court of Canada in People’s Department Stores 2004 SCC 68 modified the subjective objective standard to simply objective. This reduces the present issue to whether the Appellant acted reasonably given all of his circumstances and has he met the objective standard in 323(3).
+[20] Presently, I’m left with a realization all of the facts are not before me and I cannot do anything but to give the benefit of the doubt to the Appellant.
+[21] The question is whether Dr. Thomas (PhD) was entitled to rely completely on the diligence and competence of his investment counsellor and accountant.
+[22] The Appellant’s business experience was limited. He was aware generally of GST requirements. He was a director of at least three other corporations, but we are left with scant details.
+[23] He was satisfied that they, Gerard and Robinson, were capable of carrying out the bookkeeping and accounting required with respect to GST. Those requirements are beyond the grasp of most Canadians.
+[24] The only evidence I have in this respect is that they both failed him, and I have to accept the evidence and give the Appellant the benefit of the doubt although the blame is placed squarely on Gerard who did not testify. The real estate investment properties of 610 failed due to many things, particularly vacancies.
+[25] The Appellant made cash infusions over the years of $150,000 to keep the corporation afloat. His accountant’s office asked Gerard several times for the bookkeeping records to enable it to prepare the GST returns and financial statements without receiving what they needed.
+[26] Surprisingly, the Appellant’s long-time accountant testified that he did not mention to the Appellant the lack of GST filings for 610 for the years 2000 onward, although the Appellant met with him several times during the relevant period.
+[27] I think it would be unreasonable to require the Appellant to go further and demand to check Gerard’s and Mr. Robinson’s work, particularly when neither of them gave him any indication that anything was wrong.
+[28] To make a brief summary, the Appellant was an outside director who left the accounting and GST returns to his co-owner and accountant in whom he had complete trust.
+[29] He knew in at least 2002 that 610’s real estate holdings were in financial difficulty and he advanced some $150,000, part in 2002 and part in 2003, to pay debts, and I infer he was presuming that these debts included GST.
+[30] He asked Gerard in November of 2002 regarding the GST filings and payments and was assured all was well.
+[31] He was on the board of directors of 610 because he was a 75% investor. He was encouraged to make this investment by Gerard, his advisor. His investment history has been such that he invested in various ventures that he was introduced to and had others like Gerard to deal with day-to-day management.
+[32] I find that the due diligence test in section 323(3) had been met. This is sufficient to allow the appeal, but as a courtesy I’ll briefly refer to the second Minister’s position.
+[33] The question is whether the Appellant ceased to be director of 610 from the moment the company was struck from the Saskatchewan Corporate Register such that the limitation period of subsection 323(5) was triggered.
+[34] The Appellant relies upon the Aujla v. HMQ, 2007 TCC 764 to suggest that in these circumstances, the assessment is statute barred.
+[35] The Aujla decision by Bowie J. was later upheld by the Federal Court of Appeal 2008 FCA 304. In this case, the taxpayers were directors of a company that was dissolved and I underline the word “dissolved” and later revived by Court order.
+[36] The Federal Court of Appeal confirmed Bowie J.’s finding that a company that is terminated cannot have directors so that the taxpayers ceased to be directors on the date of the dissolution of the company.
+[37] In our situation, it is not clear that the company was struck from the records, other than for non-filing of corporate returns.
+[38] Without clarity on this point, it cannot be resolved whether the Appellant ceased to be the director at the moment the company was struck from the Register.
+[39] The appeal is allowed without costs.
+Signed at Ottawa, Canada, this 12th day of September 2011.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2011TCC421
+COURT FILE NO.: 2009-3273(GST)I
+STYLE OF CAUSE: BRADLEY THOMAS AND THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: May 11, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: September 12, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Beaty F. Beaubier
+Amanda Doucette
+Counsel for the Respondent:
+Anne Jinnouchi
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Beaty F. Beaubier
+Amanda Doucette
+Firm: Stevenson Hood Thornton Beaubier LLP
+Saskatoon, Saskatchewan
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

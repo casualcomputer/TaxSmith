@@ -1,0 +1,150 @@
+---
+title: "Chamberlain v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26115/index.do"
+last_modified: "2003-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 307"
+citation2: ""
+neutral_citation: "2003 TCC 307"
+decision_date: "2003-05-02"
+language: "en"
+item_id: "26115"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4146
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:13:01.178000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6fb19fd08fcefdb65bb5555ee6726e5925c708d478b99095d091c569d74b7c14"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chamberlain v. The Queen
+
+- Citation: 2003 TCC 307
+- Decision date: 2003-05-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4146, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chamberlain v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-02
+Neutral citation
+2003 TCC 307
+File numbers
+2002-1682(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1682(IT)I
+BETWEEN:
+DEBORAH CHAMBERLAIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 17, 2003 at Kitchener, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Judge
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Steve Leckie, Esq.
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 2000 taxation year be dismissed.
+Signed at Toronto, Canada, this 2nd day of May 2003.
+"D.G.H. Bowman"
+A.C.J.
+Citation: 2003TCC307
+Date: 20030502
+Docket: 2002-1682(IT)I
+BETWEEN:
+DEBORAH CHAMBERLAIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] This appeal is from an assessment for the appellant's 2000 taxation year whereby the Minister of National Revenue denied to the appellant a medical expense tax credit for expenses of $28,574 claimed in respect of the renovation of a house which she purchased.
+[2] Subsection 118.2(1) of the Income Tax Act permits a tax credit equal to a percentage of the individual's medical expenses.
+[3] Subsection 118.2(2) of the Income Tax Act reads in part:
+118.2(2) For the purposes of subsection (1), a medical expense of an individual is an amount paid
+...
+(l.2) for reasonable expenses relating to renovations or alterations to a dwelling of the patient who lacks normal physical development or has a severe and prolonged mobility impairment, to enable the patient to gain access to, or to be mobile or functional within, the dwelling;
+(l.21) for reasonable expenses, relating to the construction of the principal place of residence of the patient who lacks normal physical development or has a severe and prolonged mobility impairment, that can reasonably be considered to be incremental costs incurred to enable the patient to gain access to, or to be mobile or functional within, the patient's principal place of residence.
+[4] Paragraph 118.4(1)(a) reads:
+118.4(1) For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+(a) an impairment is prolonged where it has lasted, or can reasonably be expected to last, for a continuous period of at least 12 months.
+[5] The Crown does not dispute that the amounts were spent. It does however dispute that the appellant suffered from a severe and prolonged mobility impairment and that the extensive renovations could reasonably be regarded as necessary for her to gain access to the dwelling and be mobile or functional in it.
+[6] The appellant suffers from arthritis in both knees and chronic sinusitis. Also she has a hip fracture which she sustained in an accident in 1996. This also causes her pain and makes walking somewhat more difficult. However she works and is able to walk without the aid of a crutch, cane or other device.
+[7] She bought the house for $67,000 in 1999 from the Laurentian Bank under a power of sale. It was advertised as a handyman's special. Although she made some enquiries about the state of the house no formal professional assessment was done. After she bought it she found that the foundation was rotten, the roof had to be replaced, a new furnace had to be installed, two of the walls were rotten and had to be rebuilt and the house had to be raised 48". The major structural repairs necessitated by the state of the house required the substantial outlay in question.
+[8] With respect to the appellant's state of health I accept that her medical problems are prolonged. They have lasted over twelve months. Whether they are severe or not is to some degree a matter of judgement. We have very little evidence on this question beyond the appellant's own testimony. The only medical evidence we have is a statement by her doctor as part of an application to the Superintendent to withdraw money from a locked-in account. The document is called "Statement of a Physician Regarding Renovations Due to an Illness or Disability". The doctor's statement reads
+foundation repair
+roof repair / eaves / drainage
+heating installation
+patient informs me that her arthritis/recurrent sinusitis/ pain ¹ hip from fracture in 1996 are exacerbated by water in the home
+[9] The statement is probably correct as far as it goes. I do not, however, think that it goes far enough to enable me to treat the cost of the extensive renovations to the house as a medical expense for the purpose of the tax credit. The evidence does not in my view establish that the arthritis and hip fracture constitute a severe mobility impairment. A severe impairment might be involved where a person was in a wheelchair or required a walker.
+[10] Even assuming however that her arthritis and hip fracture could be said to result in a severe mobility impairment I do not think that a major renovation of the appellant's house of the type with which we are concerned here can be seen as a "reasonable expense" to enable the appellant to gain access to, or be mobile or functional within, the dwelling. The work was undertaken to make the building habitable. The repairs would undoubtedly have been required even if the appellant did not have the health problems.
+[11] I was referred to a number of cases in this court: Williams v. Canada, [1997] T.C.J. No. 1346, and McGaugh v. Canada, [1999] T.C.J. No. 954. Both involved the cost of hardwood flooring for a person who suffered severe respiratory problems as the result of exposure in a hospital to chemical contaminants disseminated through the ventilation. One needs only to read the two judgments to realize what a devastating accident it was, how severely disabled the appellant was and how necessary the installation of the hardwood flooring was. This case is in no sense comparable to the Williams and McGaugh cases.
+[12] I have great sympathy for the appellant with her medical condition and wish the fact that she bought an extremely dilapidated house on the basis of bad advice. However I do not think that the cost of repairing the house can reasonably fall within the definition of medical expenses in subsection 118.2(2)(l.2) of the Act.
+[13] The appeal is therefore dismissed.
+Signed at Toronto, Canada, this 2nd day of May 2003
+"D.G.H. Bowman"
+A.C.J.
+CITATION:
+2003TCC307
+COURT FILE NO.:
+2002-1682(IT)I
+STYLE OF CAUSE:
+Between Deborah Chamberlain
+and Her Majesty The Queen
+PLACE OF HEARING:
+Kitchener, Ontario
+DATE OF HEARING:
+April 17, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman
+Associate Chief Judge
+DATE OF JUDGMENT:
+May 2, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Steve Leckie, Esq.
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+--
+Firm:
+--
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

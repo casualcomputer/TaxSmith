@@ -1,0 +1,162 @@
+---
+title: "Kerr v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26490/index.do"
+last_modified: "2003-03-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 98"
+citation2: ""
+neutral_citation: "2003 TCC 98"
+decision_date: "2003-03-03"
+language: "en"
+item_id: "26490"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3238
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:29:23.351000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c33c5129225fa8c6184debe79e52913f26c3c6090d9282f87e84c405fe0c192b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kerr v. The Queen
+
+- Citation: 2003 TCC 98
+- Decision date: 2003-03-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3238, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kerr v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-03
+Neutral citation
+2003 TCC 98
+File numbers
+2002-2352(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2352(IT)I
+BETWEEN:
+HELENE KERR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 21, 2003 at Toronto, Ontario
+Before: The Honourable D.G.H. Bowman, Associate Chief Judge
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Nimanthika Kaneira
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 2000 taxation year be dismissed.
+Signed at Ottawa, Canada, this 3rd day of March 2003.
+"D.G.H. Bowman"
+A.C.J.
+Citation: 2003TCC98
+Date: 20030303
+Docket: 2002-2352(IT)I
+BETWEEN:
+HELENE KERR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] This appeal is from an assessment for the appellant's 2000 taxation year. It has to do with the Minister of National Revenue's denial of the appellant's claim to deduct child care expenses of $1,170.
+[2] Up to December 16, 2000 the appellant was a single divorced parent who supported her son from a previous marriage. In prior years she had claimed and received both the equivalent to married credit under paragraph 118(1)(b) of the Income Tax Act and the deduction for child care expenses under section 63.
+[3] On December 16, 2000 she remarried. Her husband's income in 2000 was less than hers. She claimed and was allowed the equivalent to married credit under paragraph 118(1)(b). She claimed the child care expenses and they were denied, but allowed to her husband.
+[4] She states that it is anomalous that she should be allowed the equivalent to married credit and not the child care expense deduction even though she was fully responsible for her son and paid the expenses before she was married.
+[5] I agree that it does seem rather strange that where she paid the expenses before her marriage on December 16, 2000 her husband, who paid nothing, should be given the deduction by reason solely of the fact that his income was less than hers in 2000.
+[6] The appellant's being allowed the equivalent to married credit even though she married near the end of 2000 is easy enough to explain. The conditions necessary to the application of the credit under paragraph 118(1)(b) (one of which is that she be unmarried and another is that she supported her wholly dependent child) are satisfied if they existed "at any time in the year". They certainly did, right up to December 16, 2000.
+[7] The statutory provisions in section 63 are more complex. The conventional thinking is that child care expenses under section 63 can be claimed only by the spouse with the lower income. This conclusion was expressed by the Federal Court of Appeal in Kuchta v. Canada, [1999] F.C.J. 1427, where the appellant paid the expenses but her husband, who had nil income, was entitled to the deduction because his income was lower.
+[8] In two cases heard by O'Connor J., Stone v. Canada, [2000] T.C.J. No. 619, and Kwarteng v. R., [2001] 3 C.T.C. 2528, virtually the same situation arose as in this case where the taxpayers, who had borne all of the child care expenses prior to their marriages late in the year to spouses who had lower incomes than they did, were denied the deduction. The court in all three cases expressed regret at the unfair result but stated that the law was clear and had to be applied.
+[9] Those cases all dealt with earlier taxation years (1995 or 1996). Section 63 is amended regularly and it seems likely that the constant position of the government is that the spouse with the lower income gets the deduction regardless of who pays the expenses and regardless of the injustice or inequity of the result. If this is what section 63 as it applied to the taxation year 2000 says I must of course give effect to it.
+[10] Subsection 63(1) read in part as follows in 2000:
+Subject to subsection (2), where a prescribed form containing prescribed information is filed with a taxpayer's return of income (other than a return filed under subsection 70(2) or 104(23), paragraph 128(2)(e) or subsection 150(4)) under this Part for a taxation year, there may be deducted in computing the taxpayer's income for the year such amount as the taxpayer claims not exceeding the total of all amounts each of which is an amount paid, as or on account of child care expenses incurred for services rendered in the year in respect of an eligible child of the taxpayer,
+(a) by the taxpayer, where the taxpayer is a taxpayer described in subsection (2) and the supporting person of the child for the year is a person described in subparagraph (2)(b)(vi), or
+(b) by the taxpayer or a supporting person of the child for the year, in any other case,
+to the extent that
+...
+[11] There follow a number of conditions and limitations that are not germane to the question with which we are concerned here.
+[12] The husband is the "supporting person" of the appellant's eligible child within the definition of supporting person in subsection 63(3).
+[13] The problem with the portion of subsection 63(1) that I have quoted above is that in 2000 subsection 63(2) contained no subparagraph (2)(b)(vi). Therefore one of the two conditions in paragraph 63(1)(a) could not be met, viz, the condition that the supporting person of the child be a person described in subparagraph (2)(b)(vi). In earlier years there used to be a subparagraph (2)(b)(vi). It described a person who because of a breakdown of the marriage was living separate and apart from the taxpayer at the end of the year.
+[14] This apparent mistake was picked up by the editor of the Stikeman Income Tax Act, 29th Edition (2000) where a footnote to the reference to subparagraph 2(b)(vi) states
+Sic. Reference should now be to 63(1)(b)C(i)(D).
+[15] The mistake has now been rectified by the technical bill of 2001, effective for 1998 and subsequent years, to correct the reference from subparagraph 63(2)(b)(vi) to clause 63(1)(b)C(i)(D). Paragraph 63(1)(a), as corrected, now reads
+(a) by the taxpayer, where the taxpayer is described in subsection (2) and the supporting person of the child for the year is a person described in clause (i)(D) of the description of C in the formula in that subsection.
+[16] Although there is a presumption against retroactive tax legislation the presumption may be rebutted if the language is clear, as it is here (C.I. Mutual Funds Inc. v. Canada, [1999] G.S.T.C. 12).
+[17] (D) in the description of C in the formula is a person living separate and apart from the taxpayer because of a breakdown of their marriage.
+[18] The appellant's spouse was not such a person in the year 2000. Therefore paragraph 63(1)(a) does not apply and therefore paragraph 63(1)(b) permits the deduction by the taxpayer or the supporting person, subject to subsection 63(2). Under subsection 63(2) the taxpayer's right to deduct is reduced to nil.
+[19] The appellant is an intelligent person who finds herself caught in a statutory morass that leads to what she with justification perceives to be an unfair and indeed absurd result. I have said on other occasions that it is unacceptable that legislation that affects as many people as the child care provisions in section 63 or the child support provisions or the sections dealing with maintenance and alimony in the Income Tax Act should be among the most complex in the Act.
+[20] The appellant is entitled to an explanation. Subsection 63(1) allows her the deduction for child care expenses. Subsection 63(2) takes it away from her if she makes more than her husband. She is entitled to deduct the lesser of the amount she could otherwise deduct under subsection 63(1) and an amount determined by the formula (A + B) X C, prior to its retroactive amendment in 2001 applicable to 2000.
+[21] Under the prior provision the formula worked as follows. A is $175 X the number of eligible children under 7 years (or certain other impaired dependents) and B is $100 X the number of eligible children 7 years or older.
+[22] In the appellant's case this would be $100 because her son is 14.
+[23] C, however, is zero because it is the number of weeks in which her spouse is a student in an educational institution, certified as incapable of taking care of the children because of mental or physical infirmity, in jail or separated from her because of a breakdown of the marriage.
+[24] Her new husband was none of those things.
+[25] I should mention that the (A + B) X C formula had only been around for about three years, during which section 63 was amended each year. In 2001 a new formula, A X C, was introduced retroactive to 2000.
+[26] In light of the legislative error discussed above I invited the parties to submit written argument. Although the appellant is not a lawyer her written argument was articulate, carefully expressed and thoughtful, and it illustrates the anomalous result to which the legislation leads.
+[27] Unfortunately, although the legislation may be difficult to understand, once one does figure it out it seems clear that the appellant is not entitled to the deduction.
+[28] Regretfully, I must dismiss the appeal.
+Signed at Ottawa, Canada, this 3rd day of March 2003.
+"D.G.H. Bowman"
+A.C.J.
+CITATION:
+2003TCC98
+COURT FILE NO.:
+2002-2352(IT)I
+STYLE OF CAUSE:
+Between Helene Kerr and
+Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 21, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman
+Associate Chief Judge
+DATE OF JUDGMENT:
+March 3, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Nimanthika Kaneira
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+--
+Firm:
+--
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

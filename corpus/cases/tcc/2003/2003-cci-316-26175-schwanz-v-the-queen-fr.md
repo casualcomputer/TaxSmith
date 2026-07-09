@@ -1,0 +1,136 @@
+---
+title: "Schwanz v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26175/index.do"
+last_modified: "2003-05-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 316"
+citation2: ""
+neutral_citation: "2003 CCI 316"
+decision_date: "2003-05-07"
+language: "fr"
+item_id: "26175"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3973
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:13:13.891000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8a28266dd3ffcdbd15d316277821dd059fbab58d2fe0369096c6322161e94acd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Schwanz v. The Queen
+
+- Citation: 2003 CCI 316
+- Decision date: 2003-05-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3973, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schwanz v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-07
+Référence neutre
+2003 CCI 316
+Numéro de dossier
+2002-3171(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-3171(IT)I
+ENTRE :
+JUDITH SCHWANZ,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 5 mai 2003, à Toronto (Ontario)
+Devant : l'honorable juge L. M. Little
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Joel Oliphant
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997 et 1998 sont rejetés, sans dépens, conformément aux motifs du jugement ci-joints.
+Signé à Toronto (Ontario), ce 7e jour de mai 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de février 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI316
+Date: 20030507
+Dossier: 2002-3171(IT)I
+ENTRE :
+JUDITH SCHWANZ,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L'appelante est la mère de trois enfants :
+Date de naissance
+Holly M. Kirkwood
+18 décembre 1982
+Sarah A. Kirkwood
+5 juillet 1987
+Roy A. Kirkwood
+25 septembre 1990
+(Les enfants susmentionnés sont ci-après appelés collectivement les « enfants » .)
+[2] Andrew Kirkwood est le père des enfants.
+[3] Les années d'imposition en cause sont les suivantes :
+année de base 1997 - (pour la période allant de juillet 1998 à juin 1999).
+année de base 1998 - (pour la période allant de juillet 1999 à juin 2000).
+[4] Le ministre du Revenu national (le « ministre » ) a déterminé que les enfants résidaient avec l'appelante à toutes les époques pertinentes durant les années de base 1997 et 1998. Ainsi, le ministre a conclu que l'appelante avait droit à la prestation fiscale canadienne pour enfants ( « PFCE » ) relativement aux enfants.
+[5] Le ministre a payé à l'appelante la PFCE relativement aux enfants durant les années de base 1997 et 1998. Les paiements suivants ont été versés par le ministre à l'appelante :
+1997
+4 102,08 $
+1998
+4 179,18 $
+[6] L'appelante a déclaré qu'elle n'avait pas avisé le ministre que les enfants avaient cessé de résider avec elle durant les années de base 1997 et 1998.
+[7] L'appelante affirme qu'elle a payé les montants de la PFCE de 4 102,08 $ et de 4 179,18 $ en argent comptant à Andrew Kirkwood.
+[8] Le ministre a conclu que, puisque les enfants ne résidaient pas avec l'appelante durant les années de base 1997 et 1998, l'appelante n'avait pas droit à la PFCE relativement aux enfants pour ces années. Le ministre a donc demandé à l'appelante de rembourser les sommes de 4 102,08 $ et de 4 179,18 $.
+B. POINT EN LITIGE
+[9] Le litige consiste à déterminer si l'appelante est tenue de rembourser les paiements de PFCE de 4 102,08 $ et de 4 179,18 $ qu'elle a reçus relativement aux enfants durant les années de base 1997 et 1998 respectivement.
+C. ANALYSE
+[10] L'article 122.61 de la Loi de l'impôt sur le revenu (la « Loi » ) prévoit que le « particulier admissible » a droit à des paiements de PFCE. Afin d'être considéré comme un « particulier admissible » , le particulier doit résider avec l'enfant (voir la définition de « particulier admissible » à l'article 122.6 de la Loi). Dans le cas qui nous occupe, la preuve montre clairement que l'appelante ne résidait pas avec les enfants durant les années de base 1997 et 1998. L'appelante n'était donc pas un particulier admissible au sens de la Loi durant les années en cause.
+[11] Avant de conclure mes motifs, je voudrais faire remarquer que j'éprouve une certaine sympathie envers l'appelante qui soutient avoir donné tous les paiements de PFCE qu'elle a reçus au père des enfants, Andrew Kirkwood. J'ai l'impression que l'appelante n'est pas en conflit avec le ministre, mais avec Andrew Kirkwood. À cet égard, il serait bon de souligner que, dans une note datée du 18 novembre 2001 (pièce A-1), Andrew Kirkwood a déclaré ce qui suit :
+[traduction]
+Je, Andrew Kirkwood, déclare avoir reçu la somme de 6 000 $ par l'intermédiaire de l'Agence des douanes et du revenu du Canada. J'ai reçu tous les crédits pour enfants de Judith Anne Shwanz relativement à nos enfants Holly, Sarah et Roy. J'assume toutes les responsabilités qui en découlent.
+Sur la foi des déclarations faites par M. Kirkwood dans cette note, il appert que l'appelante devrait obtenir les paiements auprès d'Andrew Kirkwood afin de rembourser le ministre.
+[12] Les appels sont rejetés, sans dépens.
+Signé à Toronto (Ontario), ce 7e jour de mai 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de février 2005.
+Sophie Debbané, réviseure

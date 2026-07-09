@@ -1,0 +1,176 @@
+---
+title: "Veinot c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29662/index.do"
+last_modified: "2010-02-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 112"
+citation2: ""
+neutral_citation: "2010 CCI 112"
+decision_date: "2010-02-25"
+language: "fr"
+item_id: "29662"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6230
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:14:13.031000+00:00"
+cases_cited_count: 2
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2b00cb8160f56ba82f85691456e29654eee5f5040384f540e3b0a0cde1dd3953"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Veinot c. La Reine
+
+- Citation: 2010 CCI 112
+- Decision date: 2010-02-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6230, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Veinot c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-02-25
+Référence neutre
+2010 CCI 112
+Numéro de dossier
+2009-1272(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1272(IT)I
+ENTRE :
+SHAWN VEINOT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Halifax (Nouvelle-Écosse), le 15 février 2010
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentante de l’appelant :
+Mme Sharon Slauenwhite
+Avocate de l’intimée :
+Me Jill Chisholm
+___________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est accueilli, et la cotisation est renvoyée au ministre du Revenu national (le « ministre ») pour nouvel examen et nouvelle cotisation en partant du principe que les frais d’utilisation d’un véhicule à moteur, d’un montant de 6 155,71 $, sont déductibles dans le calcul du revenu.
+L’appel interjeté contre la décision de refuser le remboursement de la taxe sur les produits et services prévue à l’article 253 de la Loi sur la taxe d’accise est accueilli et l’affaire est renvoyée au ministre pour nouvel examen en tenant compte du fait que les frais d’utilisation d’un véhicule à moteur d’un montant de 11 625 $ peuvent être remboursés.
+Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 25e jour de février 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 3e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 112
+Date : 20100225
+Dossier : 2009-1272(IT)I
+ENTRE :
+SHAWN VEINOT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appelant, Shawn Veinot, a travaillé pendant sept ans en Nouvelle-Écosse en qualité de conducteur d’engins forestiers chez Looke Cancut Limited (« Looke »).
+[2] Selon les conditions d’emploi, l’appelant devait se rendre aux sites de coupe éloignés à bord d’un véhicule convenant à un tel voyage et au transport du matériel. Le présent appel concerne des frais afférents à un véhicule à moteur engagés par l’appelant, lesquels frais concernent pour l’essentiel les déplacements entre le domicile de l’appelant et les sites de coupe. Il n’était pas inhabituel que le voyage quotidien aller-retour entre le domicile et les sites de travail avoisine les 150 à 250 kilomètres.
+[3] Pour l’année d’imposition 2005, l’employeur a octroyé à l’appelant une allocation d’un montant de 5 470,71 $ pour l’aider au titre des frais afférents à un véhicule à moteur. Cette allocation était basée sur une distance parcourue de 16 577 kilomètres et tenait compte de la distance entre le domicile de l’appelant et les sites de coupe, sous réserve d’une déduction de 50 kilomètres pour chaque voyage aller‑retour.
+[4] Dans sa déclaration de revenus, l’appelant n’a pas tenu compte de l’allocation dans le calcul du revenu et il a demandé une déduction pour le montant total des frais afférents au véhicule à moteur. La déduction demandée au départ s’élevait à 15 328 $ et l’appelant l’a portée plus tard à 18 888 $.
+[5] L’appelant avait joint à sa déclaration de revenus une demande de remboursement de la taxe sur les produits et services (la « TPS ») relative à ces frais. Le remboursement est prévu par l’article 253 de la Loi sur la taxe d’accise (la « LTA »).
+[6] Dans la nouvelle cotisation d’impôt établie pour l’année d’imposition 2005, le ministre du Revenu national (le « ministre ») a refusé à l’appelant la totalité de la déduction demandée. Il a également refusé le remboursement de la TPS.
+[7] La représentante de l’appelant n’a pas cherché à justifier la totalité de la déduction demandée. Elle a mentionné que l’appelant voulait seulement obtenir la déduction du montant représentant la différence entre les frais réellement engagés (18 670 $) et le montant de l’allocation (5 470,71 $).
+[8] Les questions en litige consistent à savoir si l’appelant a droit à la déduction des frais afférents à un véhicule à moteur et au remboursement de la TPS.
+Analyse
+[9] Selon les dispositions applicables de la Loi de l’impôt sur le revenu (la « Loi »), si un contribuable reçoit d’un employeur une allocation raisonnable au titre des frais afférents à un véhicule à moteur pour voyager dans l’accomplissement des fonctions de son emploi, l’allocation n’a pas à être incluse dans le calcul du revenu et le contribuable n’est pas autorisé à déduire ses frais.
+[10] Par contre, si l’allocation reçue n’est pas raisonnable, elle doit être incluse dans le revenu et une déduction peut être faite pour les frais réels afférents à un véhicule à moteur liés à l’emploi.
+[11] Les dispositions applicables, à savoir le paragraphe 6(1) et l’alinéa 8(1)(h.1) prévoient ce qui suit :
+6(1) Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables :
+[…]
+b) les sommes qu’il a reçues au cours de l’année à titre d’allocations pour frais personnels ou de subsistance ou à titre d’allocations à tout autre fin, sauf :
+[…]
+(vii.1) les allocations raisonnables pour l’usage d’un véhicule à moteur qu’un employé — dont l’emploi n’est pas lié à la vente de biens ou à la négociation de contrats pour son employeur — a reçues de son employeur pour voyager dans l’accomplissement des fonctions de sa charge ou de son emploi,
+[…]
+pour l’application des sous-alinéas (v), (vi) et (vii.1), une allocation reçue au cours de l’année par le contribuable pour l’usage d’un véhicule à moteur dans l’accomplissement des fonctions de sa charge ou de son emploi est réputée ne pas être raisonnable dans les cas suivants :
+(x) l’usage du véhicule n’est pas, pour la fixation de l’allocation, uniquement évalué en fonction du nombre de kilomètres parcourus par celui-ci dans l’accomplissement des fonctions de la charge ou de l’emploi,
+(xi) le contribuable, à la fois, reçoit une allocation pour cet usage et est remboursé de tout ou partie de ses dépenses pour le même usage (sauf s’il s’agit d’un remboursement pour frais d’assurance-automobile commerciale supplémentaire, frais de péage routier ou frais de traversier et si l’allocation a été déterminée compte non tenu des dépenses ainsi remboursées);
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+h.1) dans le cas où le contribuable, au cours de l’année, a été habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d’emploi, d’acquitter les frais afférents à un véhicule à moteur qu’il a engagés dans l’accomplissement des fonctions de sa charge ou de son emploi, les sommes qu’il a dépensées au cours de l’année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(i) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l’effet de l’alinéa 6(1)b), n’est pas incluse dans le calcul de son revenu pour l’année,
+(ii) demandé une déduction pour l’année en application de l’alinéa f);
+[12] L’avocate de l’intimée soutient que l’appelant n’a pas droit à la déduction des frais afférents à un véhicule à moteur parce qu’il a reçu une allocation raisonnable et que les frais de déplacement entre le domicile et les sites de coupe constituent des dépenses personnelles. La jurisprudence citée au soutien de cet argument provient de quatre décisions de la Cour : O’Neil v. The Queen, 2000 DTC 2409, St-Laurent c. La Reine, [2000] A.C.I. no 163, Royer v. The Queen, 99 DTC 683, et Champaigne v. The Queen, 2006 DTC 2368.
+[13] La représentante de l’appelant soutient que ce dernier se présentait habituellement au travail au bureau principal de l’employeur avant de se rendre aux sites de coupe. Ce bureau était situé au domicile du propriétaire de l’entreprise, à une distance d’un kilomètre du domicile de l’appelant. La représentante de l’appelant avance que c’est cette distance d’un kilomètre qui constituait le seul élément personnel du voyage.
+[14] Dans son témoignage, l’appelant a soutenu qu’il se rendait au bureau principal presque quotidiennement avant d’aller aux sites de coupe, afin d’y prendre des fournitures, des cartes, etc. Ce témoignage n’a pas été corroboré par Mme Looke, qui était aide-comptable chez Looke Cancut Limited de même que l’épouse du propriétaire.
+[15] Le témoignage de l’appelant n’était pas convaincant sur plusieurs points, et je ne suis pas convaincue qu’il se rendait au bureau principal de Looke aussi souvent qu’il l’a soutenu. Toutefois, à mon avis, ce témoignage importe peu.
+[16] Le principe selon lequel les déplacements pour se rendre au travail ont été considérés comme une dépense personnelle a été, d’une façon générale, limité aux situations dans lesquelles le contribuable se présente régulièrement à un ou plusieurs lieux d’affaires : McDonald v. The Queen, 98 DTC 5151 (CCI).
+[17] Tel n’est pas le cas en l’espèce. Dans le cadre de son emploi, l’appelant devait se rendre à différents sites de coupe et aucun d’eux ne pouvait être considéré comme un lieu d’affaires habituel.
+[18] Le voyage pour se rendre aux sites de coupe était, à mon avis, effectué dans l’exercice des fonctions de l’appelant et ne constituait pas une dépense personnelle. Aucune des décisions judiciaires citées par l’intimée n’est incompatible avec cet avis.
+[19] L’intimée soutient aussi qu’une déduction n’est pas autorisée au titre de l’alinéa 8(1)h.1), car une allocation raisonnable pour des frais afférents à un véhicule à moteur avait été accordée.
+[20] Je ne souscris pas à cet argument, parce que l’allocation n’était pas une allocation raisonnable pour des frais liés à l’emploi.
+[21] Premièrement, le motif de cette conclusion se trouve au sous‑alinéa 6(1)b)(x). Cette disposition prévoit qu’une allocation est réputée ne pas être raisonnable si elle n’est pas fixée uniquement en fonction du nombre de kilomètres parcourus. En l’espèce, selon le témoignage de Mme Looke, l’allocation était fixée selon un taux par kilomètre, mais ce taux variait en fonction de facteurs tels que le fait de transporter des pièces ou du matériel. La règle déterminative est applicable en l’espèce.
+[22] Deuxièmement, la preuve dans son ensemble étaye le fait que l’allocation n’était pas destinée à rembourser tous les coûts liés à l’emploi. Il s’agissait seulement d’apporter une aide.
+[23] Troisièmement, on déduisait 50 kilomètres de chaque voyage aller-retour pour la fixation de l’allocation. Ceci était fondé, selon le témoignage de Mme Looke, sur le fait que 50 kilomètres étaient affectés à des dépenses personnelles, compte tenu d’une distance hypothétique entre le domicile de l’employé et le bureau principal de Looke. Il s’agissait d’une déduction arbitraire qui n’était fondée sur les faits d’aucune situation particulière. Par exemple, on n’a pas laissé entendre que les déductions étaient effectuées parce que les employés devaient de façon générale se présenter au bureau principal de Looke avant de se rendre aux sites de coupe.
+[24] Le fait d’affecter 50 kilomètres aux déplacements personnels n’est fondé sur aucun principe.
+[25] Par conséquent, je conclus que l’appelant n’a pas reçu une allocation raisonnable et qu’il a droit à une déduction de ses frais réels afférents à un véhicule à moteur liés à l’emploi. Afin d’éviter une double réclamation, on doit tenir compte, dans la déduction, de l’allocation qui aurait dû être incluse dans le revenu mais qui ne l’a pas été.
+[26] La question suivante consiste à analyser le montant des frais liés à l’emploi qui ont été engagés. Le montant total des frais relatifs au véhicule à moteur n’est pas contesté, mais si le véhicule a été utilisé à des fins personnelles et à des fins d’emploi, alors une répartition raisonnable des dépenses doit être faite.
+[27] Selon le témoignage de l’appelant, le véhicule à moteur était utilisé uniquement à des fins d’emploi et il ne convenait qu’à cette fin.
+[28] Le problème que soulève ce témoignage, c’est qu’il ne concorde pas avec le registre du kilométrage que Mme Looke a préparé en fonction des documents fournis par l’appelant. Ce registre fait état pour ce véhicule d’un kilométrage beaucoup plus élevé que celui figurant dans la demande de l’appelant. Les explications fournies par l’appelant au sujet des divergences n’étaient pas convaincantes.
+[29] Dans ces circonstances, l’appelant n’a pas établi de façon convaincante le montant des frais afférents au véhicule à moteur qu’il était raisonnable d’attribuer à l’emploi.
+[30] Ce qui précède est suffisant pour justifier un rejet de l’appel, mais à mon avis, il ne s’agirait pas d’une issue appropriée en l’espèce.
+[31] D’après l’avocate de l’intimée, la part réservée à l’usage du véhicule à des fins d’emploi serait approximativement de 62 pour cent, compte tenu des renseignements limités dont on dispose.
+[32] Cette démarche aboutirait à une déduction de 6 155,71 $, après prise en considération de l’allocation, ce qui, à mon avis, est raisonnable en l’espèce.
+[33] En ce qui concerne la TPS, l’intimée soutient que le remboursement doit être refusé parce que la demande ne comportait pas de déclaration de l’employeur, ainsi que l’exige l’article 253 de la LTA. Cet argument n’a pas été mentionné dans la réponse et je pense qu’il serait injuste de la part de l’intimée de le soulever pour la première fois dans son plaidoyer. Le remboursement de la TPS doit être accordé pour tenir compte des frais afférents à un véhicule à moteur liés à l’emploi. Ce montant s’élève à 11 625 $, ce qui représente la somme de l’allocation reçue et de la déduction accordée en l’espèce.
+[34] Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 25e jour de février 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 3e jour de juin 2010.
+Mario Lagacé, jurilinguiste.
+RÉFÉRENCE : 2010 CCI 112
+No DU DOSSIER DE LA COUR : 2009-1272(IT)I
+INTITULÉ DE LA CAUSE : SHAWN VEINOT
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Le 15 février 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 25 février 2010
+COMPARUTIONS :
+Représentante de l’appelant :
+Mme Sharon Slauenwhite
+Avocate de l’intimée :
+Me Jill Chisholm
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

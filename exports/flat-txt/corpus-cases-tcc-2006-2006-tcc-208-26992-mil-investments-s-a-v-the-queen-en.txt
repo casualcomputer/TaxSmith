@@ -1,0 +1,173 @@
+Title: MIL (Investments) S A v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26992/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-208-26992-mil-investments-s-a-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-03-30
+
+# MIL (Investments) S A v. The Queen
+
+- Citation: 2006 TCC 208
+- Decision date: 2006-03-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 537, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MIL (Investments) S A v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-30
+Neutral citation
+2006 TCC 208
+File numbers
+2004-3354(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3354(IT)G
+BETWEEN:
+MIL (INVESTMENTS) S.A.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on February 22, 2006 at Vancouver, British Columbia
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Warren J.A. Mitchell, Q.C.
+Counsel for the Respondent:
+David Jacyk
+Robert Carvalho
+____________________________________________________________________
+ORDER
+Upon motion by the respondent,
+(a) it is ordered that the appellant present Edmond Van de Kelft, a director of the appellant, in Vancouver, British Columbia for the continuation of examination for discovery in relation to undertakings given at pages 46-47, 92, 118 and 124-126 of the transcript for the examination of Jean Raymond Boulle on November 18, 2005, and that the appellant answer related follow up questions; and
+(b) the application for an order compelling the appellant to provide a copy of a planning memorandum is denied.
+Costs of this motion shall be in the discretion of the trial judge.
+Signed at Toronto, Ontario, this 30th day of March, 2006.
+"J. Woods"
+Woods J.
+Citation: 2006TCC208
+Date: 20060330
+Docket: 2004-3354(IT)G
+BETWEEN:
+MIL (INVESTMENTS) S.A.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+[1] This is a pre-trial motion in which the respondent seeks orders to compel answers to questions asked on discovery and to compel disclosure of a document that the appellant opposes on the ground of solicitor-client privilege.
+[2] The appellant, a non-resident of Canada, has been assessed tax under the Income Tax Act in respect of a capital gain in the amount of $425,853,942 that was realized on the disposition of shares in the capital stock of Diamond Fields Resources Inc. The appellant claims exemption from tax under the provisions of the Canada-Luxembourg Income Tax Convention, 1989. The Minister has disallowed the exemption, relying in part on the general anti-avoidance rule.
+[3] It is not necessary to describe the facts relating to the appeal in detail. The basis for the assessment is summarized in this excerpt from the respondent's written submissions:
+3. The Appellant was incorporated in the Cayman Islands in 1993 and was purportedly discontinued in the Cayman Islands and purported to continue into Luxembourg in July of 1995. The Respondent alleges that the Appellant continued into Luxembourg to take advantage of a treaty benefit. The Appellant did this so that any gains or income from its interest (or that of its principal Mr. Boulle) in a Canadian company called Diamond Field Resources Inc. could be repatriated to the Cayman Islands and/or Luxembourg tax free.
+4. Jean Raymond Boulle, previously a resident of Belize, was the sole principal of the company when it was a Cayman Islands corporation. The Appellant was still controlled by Mr. Boulle after its purported continuation into Luxembourg. Mr. Boulle is now a resident of Monaco.
+5. Despite the alleged continuance of the Appellant into Luxembourg, the monies received by the Appellant from the gain at issue were eventually repatriated back to another Cayman Islands company incorporated by Mr. Boulle for that very purpose. Most of the money was then either paid to Mr. Boulle by way of a dividend from the new Cayman Islands company or invested in Mr. Boulle's interests in companies outside of Luxembourg.
+Application for further discoveries
+[4] The respondent seeks an order compelling further discoveries, preferably by way of an oral examination of a director of the appellant but counsel also suggested that responses in writing would be a satisfactory alternative.[1]
+[5] The appellant resists answering the questions on grounds that they either have been fully answered or that they represent a new line of inquiry.
+[6] The discovery process commenced on March 9, 2005 with an oral examination of Jean Raymond Boulle as the nominee of the appellant. As noted above, Mr. Boulle was at the relevant time the owner, directly or indirectly, of all the shares of the appellant.
+[7] After two days of oral examinations, counsel for the respondent stated that the proceedings were "adjourned subject to anything arising on undertakings." It is not in dispute that the examinations were intended to be terminated, subject to questions arising out of information provided to fulfil undertakings.
+[8] After receiving written answers to undertakings, counsel for the respondent indicated to the appellant that he was dissatisfied with the level of disclosure and requested a further oral examination of Mr. Boulle. After some protestation, the appellant agreed to make Mr. Boulle available for a further examination which took place on November 18, 2005. Subsequent to that date, the appellant has provided follow up information in a series of letters between counsel.
+[9] The respondent is still not satisfied with the level of disclosure and brings this motion to compel answers to certain outstanding questions. Counsel suggests that the appellant has restricted the respondent's right to discovery by using Mr. Boulle's lack of knowledge and lack of preparation for discoveries and the process of written questions to fulfil undertakings.
+[10] The questions to which the respondent seeks answers relate to three lines of inquiry:
+1. details of the work done by, and remuneration received by, two directors who work out of the appellant's Luxembourg office;
+2. details as to the use of the proceeds received on the disposition of the shares of Diamond Fields; and
+3. details about a financial statement of a related company (Gondwana) that received a loan from the appellant.
+[11] In support of the motion, the respondent filed excerpts from the oral examination of Mr. Boulle and copies of the relevant follow up correspondence between counsel. It also filed a copy of the appellant's application to the Court seeking a trial date, which application was executed before the appellant had responded to any undertakings but it stated that the matter was ready for trial.
+[12] The principles to be applied in considering applications to the Court for further discoveries were recently discussed in Baxter v. The Queen, 2004 D.T.C. 3497 (T.C.C.). After reviewing a number of judicial decisions, Bowman C.J. concluded that a liberal approach should be taken and referred to the following passage from Montana Band v. R. (1999), [2000] 1 F.C. 267 (Fed. T.D.) at para. 10:
+The general purpose of examination for discovery is to render the trial process fairer and more efficient by allowing each party to inform itself fully prior to trial of the precise nature of all other parties' positions so as to define fully the issues between them. It is in the interest of justice that each party should be as well informed as possible about the positions of the other parties and should not be put at a disadvantage by being taken by surprise at trial. It is sound policy for the Court to adopt a liberal approach to the scope of questioning on discovery since any error on the side of allowing questions may always be corrected by the trial judge who retains the ultimate mastery over all matters relating to admissibility of evidence; on the other hand any error which unduly restricts the scope of discovery may lead to serious problems or even injustice at trial.
+[13] In respect of questions regarding the first line of inquiry, relating to the duties of directors, the appellant resists further questioning on the ground that it has provided a sufficient level of detail. I do not agree with the appellant that the disclosure has been sufficient. Some of the answers given by Mr. Boulle in the oral examination and in the information provided in the follow up correspondence appear to be incomplete at best and misleading at worst.
+[14] Answers to this line of inquiry were provided on three occasions, once at the oral examination of Mr. Boulle and twice in follow up correspondence. In each case the answers were not consistent with information that was previously given and in all cases the information provided was lacking in detail.
+[15] The remaining questions relate to the latter two lines of inquiry, which the appellant submits are new lines of inquiry that cannot be raised at this point. In support, counsel referred me to the decision of Sharlow J. in SmithKline Beecham Animal Health Inc. v. The Queen, [2002] 4 C.T.C. 93 (F.C.A.).
+[16] The respondent submits that these questions are not new lines of inquiry but that they arise from questions asked on the oral examination of Mr. Boulle.
+[17] I do not think that the SmithKline decision helps the appellant. It confirms that a party is generally precluded from raising new lines of inquiry after the oral examinations are completed but it does not discuss what constitutes a new line of inquiry.
+[18] The latter two lines of inquiry relate generally to the use of the money received by the appellant on the sale of the Diamond Fields' shares and they generally follow from information provided in response to undertakings. Although it would have been preferable for these questions to have been asked at the initial examination of Mr. Boulle, the respondent should not be faulted in this particular case for not being able to do so.
+[19] For these reasons, I conclude that it is appropriate to grant the order sought by the respondent.
+[20] As for the form of the order, I agree with the respondent that it is appropriate to order an oral examination of another person. The appellant will therefore be directed to make the managing director, Edmond Van de Kelft, available in Vancouver for questioning relating to the three lines of inquiry above and for the appellant to respond to follow up questions.
+[21] The appellant has expressed concerns about the length of the discoveries and requests that the court impose specific restrictions on the scope of further questioning. I do not think that it is desirable to make this order at this time but the appellant can make a further application if this becomes necessary.
+Application for disclosure of document
+[22] The second issue is unrelated to the first and concerns whether the appellant should be required to disclose a document identified as a planning memorandum. It is not in dispute that the document was at one time the subject of solicitor-client privilege, but the respondent maintains that the privilege was lost when the appellant voluntarily waived privilege on related documents.
+[23] The respondent seeks to apply a principle called "waiver of privilege" which provides that if a person voluntarily waives privilege with respect to a document, privilege will automatically be waived over documents relating to the same subject matter regardless of intention.
+[24] The principle is set out in H.M. Malek, ed., Phipson on Evidence, 16th ed. (London: Sweet & Maxwell, 2005) at para. 26-12:
+[...] Each party is at liberty to choose whether and to what extent he waives privilege. But it is for the court to consider what the consequences of that voluntary waiver are in any case. If a party voluntarily seeks to put part of a document or part of a sequence of documentation before the court, he must also put before the court the rest of the document or sequence of documents to ensure fairness to his adversary.
+[25] Phipson suggests that the waiver principle is to be applied narrowly. At para. 26-29:
+What constitutes "the issue in question" will always be a question of fact. It is necessary to identify the purpose of the waiver, and to see what fairness demands in the circumstances. The case law shows that without exception the courts have not extended the ambit of the waiver beyond what is necessary and if in doubt have taken a relatively restrictive view of "the issue in question".
+[26] The law appears to be the same in Canada. The general principle was described in Bone v. Person (2000), 185 D.L.R. (4th) 335 (Man. C.A.) at para. 10:
+[...] The law is clear that a party to legal proceedings may voluntarily waive solicitor/client privilege on a limited basis, that is to say with respect to a particular defined subject matter. See, for example, Power Consol. (China) Pulp Inc. v. B.C. Resources Invt. Corp., [1989] 2 W.W.R. 679 at 682 (B.C.C.A.). However, a reasonable balance must be struck so that the court and the other parties are not misled. The party making the disclosure cannot pick and choose between the favourable and the unfavourable. In Transamerica Life Insurance Co. of Canada v. Canada Life Assurance Co. (1995), 46 C.P.C. (3d) 110 (Ont.C.J.,G.D.) Sharpe J., as he then was, put the matter this way, at paras. 41-42:
+It is plainly not the law that production of one document from a file waives the privilege attaching to other documents in the same file. It must be shown that without the additional documents, the document produced is somehow misleading ....
+The waiver rule must be applied if there is an indication that a party is attempting to take unfair advantage or present a misleading picture by selective disclosure.
+[27] In Transamerica Life Insurance Co. of Canadav. The Canada Life Assurance Co. (1995), 27 O.R. (3d) 291 (Ont. C.J.G.D.), Sharpe J. also comments that the waiver rule should be applied restrictively. The passage quoted above at para. 42 continues:
+[...] a party should not be penalized or inhibited from making the fullest possible disclosure. In my view, too ready application of the waiver rule will only serve to inhibit parties to litigation from making the fullest possible disclosure.
+[28] I would also note that a narrow application of the waiver rule is consistent with the general approach that Canadian courts have taken with respect to solicitor-client privilege: Descoteaux v. Mierwinski, [1982] 1 S.C.R. 860 and Philip Services Corp. v. Ontario Securities Commission (2005), 77 O.R. (3d) 209 (ON S.C.).
+[29] In this case, the appellant voluntarily waived privilege on a series of letters exchanged between law firms which contained legal advice relating to the transactions at issue. The question to be decided is whether privilege was also waived on the planning memorandum.
+[30] Applying the principles above, it should be determined whether withholding the planning memorandum is unfair to the respondent. To answer that question, it is necessary to first consider the circumstances that led the appellant to voluntarily waive privilege with respect to the correspondence between the law firms.
+[31] The voluntary disclosure that the appellant made was in response to a specific request by the Canada Revenue Agency during the audit.[2] In a letter dated November 16, 2000 from the CRA auditor, the appellant was asked:
+Who initiated a review of the Jean Boulle Family Trust ("JBFT") which led to the July 14, 1995 determination that the JBFT was not settled with any funds? Why was the settlement of the JBFT questioned so long after its creation? Please provide all documents relating to the review of the JBFT by Cayman counsel including reasons submitted to Cayman counsel for said review.
+(Emphasis added)
+[32] The auditor's inquiry arose from information that Thorsteinssons, the appellant's counsel, had provided to him regarding a Cayman Islands trust that was set up by Mr. Boulle and was thought to be the sole shareholder of the appellant. Thorsteinssons had informed the auditor that the trust had been reviewed by a law firm in the Cayman Islands, which was the governing law of the trust, and that it was determined that the trust was invalid because it was not properly settled.[3]
+[33] Thorsteinssons replied to the auditor's request by letter dated December 15, 2000. They responded that a review of the trust had been instigated as part of a due diligence exercise because the shareholder of the appellant had to approve the proposed continuance of the appellant into Luxembourg. They further stated that they had identified concerns as to the validity of the trust and that legal advice was sought from Maples and Calder, a law firm in the Cayman Islands.
+[34] Thorsteinssons also provided to the CRA auditor, as requested, a copy of their letter of instructions to Maples and Calder and two letters of advice from the foreign law firm. In the covering letter to the CRA auditor, Thorsteinssons acknowledged that the appellant was waiving privilege with respect to these documents and they expressly stated that the waiver did not extend to any other documents in their possession.[4]
+[35] From the material before me, it is clear that the CRA auditor was attempting to understand why the validity of the trust was being scrutinized as part of the planning for the proposed transactions. It is also apparent that the appellant voluntarily waived privilege over the correspondence between the law firms in order to help clear up any concern that the auditor had with respect to this aspect of the transactions.
+[36] What does the planning memorandum have to do with all this? Although the document was not provided to me, it appears from the motion record that the planning memorandum was prepared by Thorsteinssons in connection with the transactions that are the subject of this appeal.
+[37] The planning memorandum enters the picture because, in the correspondence that was disclosed to the CRA auditor, Maples and Calder not only gave advice regarding the validity of the trust but they also provided legal advice regarding the proposed transactions set out in the planning memorandum.
+[38] The respondent suggests that the appellant should not be able to disclose this advice without also disclosing the planning memorandum on which it is based.
+[39] I conclude that it is not unfair for the planning memorandum to be withheld. First and foremost, the appellant did not provide the CRA auditor with the correspondence between the law firms in order that that the auditor could understand the legal advice relating to the proposed transactions. It is clear from Thorsteinssons' letter to the auditor that the only purpose for disclosing the correspondence was to provide information regarding the validity of the trust.
+[40] The legal advice relating to the proposed transactions was disclosed to the auditor only because it happened to be in the same correspondence. It is clear from Thorsteinssons' letter of instructions to Maples and Calder that Thorsteinssons' was asking for advice on two separate and unconnected issues - the validity of the trust and whether the trust adversely affected the proposed transactions. The advice relating to the latter was disclosed because it was in the same correspondence but it was not the focus of the CRA auditor's inquiry.
+[41] I would also note that the appellant voluntarily waived privilege with respect to the correspondence between the law firms in response to a specific request from the CRA auditor for these documents. This is not a complete answer to the waiver question but I think that it is relevant in considering whether it is unfair for the appellant to withhold the planning memorandum. If the appellant had failed to disclose these documents, this may have led to further concerns by the CRA about the validity of the trust.
+[42] The respondent suggests that the planning memorandum might reveal why the validity of the trust was the subject of such scrutiny in the first place. Although this is possible, there is nothing on the face of the material before me that would suggest it. Unless the respondent can provide some basis for the suggestion that the appellant is hiding something, I do not think that it is appropriate to apply the waiver principle, which is founded on the basis of fairness.
+[43] If there were a real doubt as to whether the appellant was hiding something, the respondent could have suggested that I review the planning memorandum. There is precedent for this in one of the earlier cases[5] that was referred to me but the respondent did not suggest it.
+[44] For these reasons, I have concluded that the facts of this case do not warrant a finding that the planning memorandum should be disclosed.
+Disposition and costs
+[45] For these reasons, the application by the respondent regarding further discoveries is allowed and the application to compel disclosure of the planning memorandum is denied.
+[46] The appellant seeks its costs of the motion on a solicitor and client basis on the ground that the respondent is improperly seeking disclosure of the planning memorandum. Counsel suggests that there can be no true issue regarding the validity of the trust because the respondent accepts that it is invalid.
+[47] In my view the circumstances do not warrant an order of costs on a solicitor and client basis. Although the respondent may be anxious to review the planning memorandum for reasons unconnected with the trust, the voluntary disclosure of the correspondence between the law firms leads to a legitimate question of whether privilege is also waived over documents referred to in that correspondence.
+[48] Costs of the motion shall be in the discretion of the trial judge.
+Signed at Toronto, Ontario, this 30th day of March, 2006.
+"J. Woods"
+Woods J.
+CITATION:
+2006TCC208
+COURT FILE NO.:
+2004-3354(IT)G
+STYLE OF CAUSE:
+MIL (Investments) S.A. and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+February 22, 2006
+REASONS FOR ORDER BY:
+The Honourable Justice Judith Woods
+DATE OF ORDER:
+March 30, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Warren J.A. Mitchell, Q.C.
+Counsel for the Respondent:
+David Jacyk
+Robert Carvalho
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Warren J.A. Mitchell, Q.C.
+Firm:
+Thorsteinssons LLP
+Vancouver, British Columbia
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The notice of motion asks for orders compelling disclosure in writing and by way of oral examination of another nominee of the appellant. During the hearing counsel for the respondent stated that he would be satisfied with just one of these orders, and that his preference was to have an oral examination.
+[2] Affidavit of Michael J. O'Keefe, Q.C., Exhibits F and G.
+[3] The respondent does not dispute this determination.
+[4] Although privilege belongs to the appellant, the appellant is generally bound by a waiver by its counsel.
+[5] Power Cons. (China) Pulp Inc. v. British Columbia Resources Investment Corp., [1989] 2 W.W.R. 679 (B.C.C.A.).

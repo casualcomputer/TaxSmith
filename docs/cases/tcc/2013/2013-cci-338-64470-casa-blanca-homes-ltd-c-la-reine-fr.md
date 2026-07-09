@@ -1,0 +1,184 @@
+---
+title: "Casa Blanca Homes Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/64470/index.do"
+last_modified: "2013-10-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 338"
+citation2: ""
+neutral_citation: "2013 CCI 338"
+decision_date: "2013-10-25"
+language: "fr"
+item_id: "64470"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5936
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:58:38.226000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "44a0bb6a00c79368cf25e41e4560263fae2db9866f6e12bc65255ce8d09c906d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Casa Blanca Homes Ltd. c. La Reine
+
+- Citation: 2013 CCI 338
+- Decision date: 2013-10-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5936, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Casa Blanca Homes Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-10-25
+Référence neutre
+2013 CCI 338
+Numéro de dossier
+2011-4001(GST)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-4001(TPS)I
+ENTRE :
+CASA BLANCA HOMES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 14 juin 2013, à Vancouver, Colombie‑Britannique.
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Représentant de l’appelante :
+Suki Gill
+Avocate de l’intimée :
+Me Whitney Dunn
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la partie IX de la Loi sur la taxe d’accise, pour les périodes de déclarations allant du 1er mars 2006 au 31 mai 2006, du 1er juin 2006 au 13 septembre 2006 et du 1er septembre 2007 au 30 novembre 2007, dont l’avis est daté du 2 octobre 2009, est accueilli, et la nouvelle cotisation est annulée, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2013.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 5e jour de décembre 2013.
+C. Laroche
+Référence : 2013 CCI 338
+Date : 20131025
+Dossier : 2011-4001(TPS)I
+ENTRE :
+CASA BLANCA HOMES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Le contexte factuel
+[1] Dans l’ensemble, les faits relatifs au présent appel ne sont pas contestés. Casa Blanca Homes Ltd. (l’« appelante ») est une entreprise de construction et de vente œuvrant dans le domaine de l’immobilier. En mai 2006, l’appelante a conclu 14 conventions d’achat (les « conventions d’achat ») avec un promoteur immobilier (le « promoteur »). Suivant les termes de chacune de ces conventions, l’appelante obtenait le droit et assumait l’obligation d’acheter un lot vacant à une date ultérieure.
+[2] Conformément à ce qui était prévu dans chaque convention d’achat, l’appelante a versé au promoteur un dépôt non remboursable (le « dépôt »). Les dépôts garantissaient l’obligation de l’appelante d’acheter les lots : en cas de défaut, le promoteur pouvait confisquer les dépôts à titre de dommages‑intérêts liquidés. À la signature de l’acte de vente, le montant du dépôt afférent devait être défalqué du prix d’achat total du lot.
+[3] L’appelante a vendu douze des quatorze conventions d’achat à de tiers acquéreurs (les « cessionnaires ») aux termes d’une simple entente par laquelle ces cessionnaires s’obligeaient à satisfaire aux conditions des conventions d’achat (les « ententes de cession »). Aux termes des ententes de cession, les cessionnaires étaient tenus de payer deux montants. Le premier paiement servait à acquitter les frais exigés pour la cession de la convention d’achat (les « frais de cession »), alors que le deuxième correspondait à la valeur du dépôt versé au titre de la convention d’achat (la « récupération du dépôt » ou le « dépôt récupéré »). Au total, l’appelante a reçu des cessionnaires la somme de 820 865 $ : 186 105 $ en frais de cession et 634 760 $ pour la récupération des dépôts. Même s’il était précisé dans les ententes de cession que les frais de cession et la récupération du dépôt constituaient des montants distincts, chaque cessionnaire a réglé l’appelante au moyen d’un seul chèque.
+[4] L’appelante a perçu la taxe sur les produits et services (la « TPS ») uniquement sur les frais de cession, et pas sur les dépôts récupérés. Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de l’appelante reposant sur l’ensemble de la somme reçue des cessionnaires. La question qui se pose en l’espèce est de savoir si l’appelante était tenue de percevoir la TPS sur la totalité de la contrepartie reçue. Autrement dit, la récupération des dépôts est-elle assujettie à la TPS?
+II. Les positions des parties
+(A) La thèse de l’appelante
+[5] L’appelante soutient que la récupération des dépôts n’est pas assujettie à la TPS. Chacune des ententes de cession prévoyait deux fournitures distinctes. L’objet de la première fourniture était un intérêt foncier pour lequel l’appelante a touché des frais de cession. L’autre fourniture portait sur le dépôt : l’appelant a reçu pour cela la récupération du dépôt. La récupération du dépôt n’a pas été versée en contrepartie d’un intérêt foncier, mais pour la cession du droit de l’appelante au dépôt.
+[6] Selon l’appelante, le dépôt est un « titre de créance » et donc, un « effet financier » au sens du paragraphe 123(1) de la Loi sur la taxe d’accise (la « LTA »). Il s’ensuit que la cession du dépôt de l’appelante au cessionnaire correspondait au transfert de propriété d’un effet financier et, partant, à la fourniture exonérée (de la TPS) d’un service financier.
+[7] Selon l’appelante, toute autre conclusion entraînerait une double imposition du cessionnaire. En effet, suivant la thèse défendue par l’intimée en l’espèce, le cessionnaire devait payer la TPS une première fois au moment de la récupération du dépôt par l’appelante et une seconde fois lorsque le montant du dépôt était défalqué du prix d’achat de chaque lot par le promoteur pour le compte du cessionnaire. Le cessionnaire se trouverait alors à payer un montant de TPS disproportionné par rapport au prix d’achat total du lot.
+(B) La thèse de l’intimée
+[8] Le ministre soutient que la récupération des dépôts est assujettie à la TPS, parce que les ententes de cession ont pour effet de transférer un intérêt foncier dans le cadre d’une seule fourniture taxable. Le dépôt était une dépense engagée pour l’obtention d’un intérêt foncier. La récupération du dépôt correspondait au remboursement de cette dépense et est assujettie à la TPS. Il n’y a donc pas eu de fourniture d’un service financier distincte et exonérée.
+[9] Selon l’intimée, nous ne sommes pas en présence d’une opération unique qui a été imposée deux fois, mais bien de deux fournitures distinctes dont chacune a été assujettie à la taxe une seule fois. La première fourniture a été effectuée du promoteur à l’appelante; la seconde, de l’appelante au cessionnaire. Par conséquent, l’appelante a cédé uniquement un intérêt foncier et elle était tenue de percevoir la TPS sur le montant total de la contrepartie reçue.
+III - Analyse
+[10] La première question à examiner est de savoir si l’appelante a effectué une ou plusieurs fournitures au sens de la LTA. L’intimée soutient que l’appelante a effectué une fourniture unique d’un intérêt foncier pour laquelle elle a reçu une contrepartie constituée du montant total reçu, dont celui du dépôt récupéré. L’appelante soutient qu’elle a effectué deux fournitures : d’une part, celle d’un intérêt foncier, d’autre part, celle d’un intérêt dans le dépôt, lequel constitue un effet financier.
+[11] Le critère qu’il convient d’appliquer pour déterminer si un fournisseur a effectué une seule fourniture ou des fournitures multiples est celui qu’a adopté le juge Rip (tel était alors son titre) dans la décision O.A. Brown Ltd. v. Canada[1]. La Cour suprême du Canada a récemment confirmé cette approche dans l’arrêt Calgary (City) c. Canada[2]. Dans l’affaire O.A. Brown, la partie faisant appel (« OAB ») avait acheté du bétail à ses propres risques afin de répondre aux exigences de sa clientèle, puis l’a revendu aux clients qui avaient passé la commande. OAB n’était pas mandataire de ses clients. En plus du prix payé pour le bétail, OAB a exigé de ses clients une commission de compensation en plus des dépenses qu’elle avait engagées pour la vaccination, le marquage et le transport du bétail. Suivant la LTA, le bétail est une fourniture détaxée, de sorte que OAB n’a pas perçu de TPS. Le ministre a établi une cotisation de TPS relativement aux débours et à la commission. La Cour devait déterminer si OAB fournissait uniquement du bétail ou si, en plus du bétail, elle effectuait d’autres fournitures qui étaient assujetties à la TPS.
+[12] Étant donné que cette question n’avait encore jamais été soulevée au Canada, le juge Rip s’est tourné vers la jurisprudence du Royaume-Uni portant sur les lois relatives à la taxe sur la valeur ajoutée. Dans les décisions examinées, les tribunaux posaient la question en ces termes : la fourniture en cause est-elle une fourniture mixte ou une fourniture multiple? La fourniture mixte est une fourniture unique comprenant un certain nombre d’éléments constitutifs, dont certains seraient taxés s’ils étaient fournis séparément alors que d’autres ne le seraient pas. Les fournitures multiples, quant à elles, sont effectuées et taxées séparément. Pour déterminer si une opération donnée comporte une fourniture unique ou de multiples fournitures, le juge Rip a adopté le critère suivant :
+22 […] Le critère qui ressort de la jurisprudence anglaise est de savoir si, au fond et en réalité, la présumée fourniture séparée fait partie intégrante ou est un élément constitutif de la fourniture globale.[3]
+[13] L’étroitesse du lien et le degré d’interdépendance entre les éléments constitutifs de la fourniture examinée sont un indice de l’existence d’une fourniture unique. Dans sa décision, le juge Rip cite un extrait des motifs du jugement Mercantile Contracts Ltd. v. Customs & Excise Commissioners (au paragraphe 23 CarswellNat)[4] :
+[traduction]
+23 […] il faudrait se demander dans quelle mesure les services qui constitueraient apparemment une fourniture unique sont liés les uns aux autres, quelle est l’étendue de leur interdépendance et de leur enchevêtrement, et si chaque service fait partie intégrante d’un ensemble complet ou en constitue un élément[5].
+[14] À l’inverse, l’une des caractéristiques des fournitures multiples est que chaque présumée fourniture séparée peut être achetée isolément tout en conservant son utilité. Le juge Rip expose la question en ces termes :
+23 Un facteur à prendre en considération est de savoir s’il est possible, en réalité, d’enlever de la fourniture globale la présumée fourniture séparée. Ce facteur n’est pas concluant, mais il aide à déterminer le fond de l’opération. […]
+24 […] Dans chaque cas, il est utile de se demander s’il serait possible d’acheter chacun des divers éléments séparément et d’obtenir néanmoins un article ou service utile. Car si cela n’est pas possible, il faut alors nécessairement conclure qu’une fourniture mixte qui ne peut pas être divisée aux fins de la taxe est en cause[6].
+[15] Après avoir appliqué ce critère, le juge Rip a conclu qu’il était impossible de considérer les débours et la commission comme se rapportant à « des fournitures distinctes, indépendantes de l’activité dans son ensemble »[7]. Selon lui, la commission et le coût de la vaccination, du marquage et du transport doivent être considérés comme faisant partie de la contrepartie à verser pour la fourniture du bétail :
+31 […] Au fond et en réalité, la présumée fourniture séparée, soit un service d’achat, fait partie intégrante de la fourniture globale, à savoir la fourniture de bétail. Il n’est pas possible, en réalité, d’enlever de la fourniture globale les présumées fournitures séparées, car celles-ci constituent en fait l’essence de cette fourniture. Les présumées fournitures séparées sont liées à la fourniture de bétail à un point tel qu’elles font partie intégrante de l’ensemble au complet[8].
+[16] Dans 1219261 Ontario Inc. o/a Hidden Bay Lodge c. La Reine[9], le juge Hershfield a décrit succinctement les facteurs à prendre en compte en prenant soin de souligner qu’aucun d’entre eux n’était décisif à lui seul :
+12 Comme il a été reconnu dans les décisions anglaises qui ont été citées dans la décision O.A. Brown, précitée, il serait erroné, en l’absence d’un pouvoir conféré par la loi, de tenter de proposer une définition stricte précise de la fourniture unique (la fourniture mixte). Les facteurs à appliquer sont notamment les suivants : le point auquel les éléments constitutifs d’une fourniture sont liés les uns aux autres, le degré d’interdépendance et la question de savoir si chaque élément fait partie intégrante ou est un élément d’un ensemble mixte. Il importe de se demander si les services sont rendus aux termes d’un seul contrat, ou moyennant une seule contrepartie indivise, mais cela n’est pas concluant. […]
+[17] Dans Gin Max Enterprises Inc. c. La Reine[10], le juge McArthur a précisé qu’il ne fallait pas faire abstraction du bon sens et que l’application et l’appréciation des facteurs pertinents dépendaient en grande partie des faits de l’espèce :
+18 L’examen de la jurisprudence révèle que la question de savoir si deux éléments forment une fourniture unique ou deux ou de multiples fournitures exige une analyse de la nature véritable des opérations, et il s’agit d’une question de fait tranchée avec une généreuse dose de bon sens […].
+19 Semblables aux critères de la décision Wiebe Door Services Ltd. v. M.N.R. concernant la classification de la relation d’employé ou d’entrepreneur indépendant, aucun critère en soi n’est concluant, et la Cour doit examiner et soupeser tous les éléments de preuve.
+[Non souligné dans l’original.]
+[18] Dans un article récent[11], Terry G. Barnett récuse la thèse du ministre selon laquelle la notion de « fourniture unique » s’appliquerait aux opérations telles que celles dont il est question ici :
+[traduction]
+[I]l y a de bonnes raisons d’affirmer qu’il n’est pas indiqué de fonder sa conclusion sur l’analyse du caractère unique ou multiple d’une fourniture dans un cas comme celui‑ci. Premièrement se pose la question de savoir si le dépôt et la cession du contrat sont inextricablement liés. Par exemple, il est tout à fait envisageable que le cessionnaire verse un nouveau dépôt au vendeur et que ce dernier remette ensuite le dépôt original à l’acheteur. Ainsi, le cessionnaire n’est pas forcément appelé à verser un dépôt de substitution à l’acheteur. La possibilité de structurer le transfert du contrat de la sorte permet de penser que le lien entre la cession et le transfert du droit au dépôt n’est pas inextricable.
+En outre, l’analyse fondée sur le caractère unique ou multiple d’une fourniture suppose qu’au moins deux biens ou services sont fournis ensemble. Elle nécessite une investigation du fait que, effectuées séparément, les fournitures ne recevraient pas le même traitement aux fins de la TPS/TVH. Or, la fourniture est définie comme la « livraison de biens ou [la] prestation de services ». L’argent est exclu à la fois de la définition du bien et de celle du service. Le versement d’argent n’est donc pas une fourniture suivant la LTA. Par conséquent, il est permis de douter de la pertinence d’appliquer une analyse au terme de laquelle une somme d’argent est amalgamée à la livraison d’un bien pour former une fourniture unique[12].
+[19] Dans son commentaire, M. Barnett met en doute la conclusion fondée sur l’analyse du caractère unique ou multiple d’une fourniture de deux façons. D’une part, il cite un cas hypothétique démontrant qu’en règle générale, le dépôt de garantie d’un achat n’est pas inextricablement lié à la cession d’une convention d’achat. Les opérations comme celle effectuée par l’appelante sont structurées de manière à répondre à un souci de simplicité et à faire en sorte que la garantie détenue par le promoteur ne comporte aucune faille. La possibilité de structurer une opération de cette nature de manière à éviter la double imposition du dépôt illustre le fait que les dépôts et les conventions d’achat ne sont pas interreliés au point de pouvoir parler de fourniture unique. L’intimée fait valoir que [traduction] « [l]a nécessité de s’en remettre à de telles hypothèses pour établir l’existence de fournitures séparées démontre que l’appelante n’avait elle‑même qu’un intérêt foncier unique et indivisible à vendre »[13]. Je ne souscris pas à ce point de vue : l’analyse de M. Barnett montre qu’il existe de bonnes raisons de considérer les opérations de ce genre comme effectuant le transfert de deux biens distincts.
+[20] Considérant l’ensemble de la preuve, je suis d’avis que deux fournitures distinctes ont été effectuées au titre de chacune des ententes de cession. La première fourniture était celle d’un intérêt foncier pour laquelle l’appelante a reçu les frais de cession et a perçu la TPS afférente. L’autre fourniture était celle du dépôt, et l’appelante a eu droit en contrepartie à la récupération du dépôt.
+[21] Lorsque le cessionnaire a acheté le dépôt, il a hérité du droit à ce que l’argent soit utilisé de l’une des trois façons suivantes. Premièrement, si la convention d’achat est exécutée de la façon prévue, le montant du dépôt sera défalqué du prix d’achat. Deuxièmement, si le cessionnaire manque à ses obligations, le dépôt sera confisqué par le promoteur à titre de dommages‑intérêts liquidés. Enfin, si le promoteur ne peut terminer le lotissement à la date convenue, il rendra au cessionnaire son dépôt. Cette troisième hypothèse suppose que le remboursement du dépôt était une condition tacite de la convention d’achat, comme nous le verrons plus loin. Le dépôt est un « titre de créance » et donc, un « effet financier » au sens du paragraphe 123(1) de la LTA.
+[22] En supposant que j’aie tort sur ce point, je souscris également au second argument de M. Barnett, qui estime que, de toute façon, la cession du dépôt n’est pas une « fourniture ». Ainsi, ce que l’appelante a cédé aux cessionnaires, en l’occurrence, est le droit à une somme d’argent, c’est‑à‑dire ni un « bien » ni un « service » au sens de la LTA. Le dépôt peut être considéré comme une somme d’argent conservée jusqu’à ce qu’elle soit utilisée comme paiement partiel ou confisquée.
+[23] L’intimée fait valoir que l’appelante n’a pas reçu un droit à une somme d’argent par cession du dépôt. Aucune somme d’argent n’a changé de mains. Le promoteur a conservé le dépôt, lequel n’était pas remboursable. On ne trouve dans les conventions d’achat et les ententes de cession aucune clause prévoyant explicitement un droit au remboursement des dépôts en cas de défaut du promoteur.
+[24] Je ne suis pas d’accord. Le cessionnaire peut également être considéré comme ayant acquis le droit à une somme d’argent. Par sa nature même, le dépôt est une somme d’argent gardée par le vendeur au bénéfice de l’acheteur. En l’espèce, l’appelante a cédé aux cessionnaires le droit de propriété qu’elle détenait sur l’argent à titre bénéficiaire. À la date d’exécution prévue dans la convention d’achat, le dépôt serait défalqué du prix d’achat du lot au bénéfice du cessionnaire. Si le cessionnaire manque à l’obligation que lui impose la convention d’achat, le dépôt sera considéré comme des dommages‑intérêts liquidés payés par le cessionnaire. Dans sa réponse aux observations écrites de l’intimée[14], l’appelante prétend que le promoteur aurait remboursé les dépôts si les lots n’avaient pas été livrés à la date d’exécution, même s’il était expressément stipulé dans les conventions d’achat que les dépôts n’étaient pas remboursables. Dans le cas d’un dépôt, son caractère remboursable est considéré comme une condition implicite. Dans Howe v. Smith, l’arrêt de principe concernant la nature des dépôts, le lord juge Fry s’exprime ainsi:
+[traduction]
+Dans le cas de sommes versées lors de la signature d’un contrat, il me semble que les conditions implicites les plus vraisemblables sont que, si le contrat est exécuté, les sommes seront passées en compte, mais que, si l’acheteur n’exécute pas le contrat, le bénéficiaire pourra les garder[15].
+[Non souligné dans l’original.]
+[25] En somme, je suis d’avis qu’il y a eu deux fournitures et que chaque dépôt est un « titre de créance » et un « effet financier ». La cession des dépôts peut également être considérée comme la cession de l’intérêt bénéficiaire dans une somme d’argent, laquelle ne constitue pas une « fourniture » au sens de la LTA. Dans l’un ou l’autre cas, la contrepartie versée au titre de la récupération des dépôts n’est pas assujettie à la TPS. Cette interprétation permet aussi d’éviter la double imposition, une conséquence que le législateur, à mon sens, n’avait pas souhaitée. Pour ces motifs, l’appel est accueilli.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2013.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 5e jour de décembre 2013.
+C. Laroche
+RÉFÉRENCE : 2013 CCI 338
+No DU DOSSIER DE LA COUR : 2011-4001(TPS)I
+INTITULÉ : CASA BLANCA HOMES LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 14 juin 2013
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 25 octobre 2013
+COMPARUTIONS :
+Représentant de l’appelante:
+Suki Gill
+Avocate de l’intimée :
+Me Whitney Dunn
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 1995 CarswellNat 37, [1995] G.S.T.C. 40 (CCI).
+[2] 2012 CSC 20, [2012] 1 R.C.S. 689.
+[3] O.A. Brown (CarswellNat).
+[4] Dossier no LON/88/786, R.‑U. (non publié).
+[5] O.A. Brown (CarswellNat).
+[6] Ibid.
+[7] Ibid., au par. 31.
+[8] Ibid.
+[9] 2004 CCI 48, 2004 CarswellNat 78.
+[10] 2007 CCI 223, 2007 CarswellNat 1149.
+[11] Terry G. Barnett, « The ‘Dirt’ on Residential Real Estate », présenté dans le cadre du Symposium sur les impôts indirects de l’ICCA qui a eu lieu les 26 et 27 septembre 2011.
+[12] Ibid., à la p. 6.
+[13] Observations écrites de l’intimée, au par. 12.
+[14] Réponse de l’appelante aux observations écrites de l’intimée, p. 1.
+[15] (1884) 27 Ch. 89 (C.A. Angl.), à la p. 101, cité dans Waugh c. Pioneer Logging Co., [1949] R.C.S. 299, à la p. 326.

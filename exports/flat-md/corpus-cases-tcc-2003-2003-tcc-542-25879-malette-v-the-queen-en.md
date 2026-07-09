@@ -1,0 +1,193 @@
+---
+title: "Malette v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25879/index.do"
+last_modified: "2003-08-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 542"
+citation2: ""
+neutral_citation: "2003 TCC 542"
+decision_date: "2003-08-13"
+language: "en"
+item_id: "25879"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3873
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:51:08.860000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "787ac921bb4e60d5166bc0b96bbe7459371ab4f6bd39471a0a0c06f5fdf7525b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Malette v. The Queen
+
+- Citation: 2003 TCC 542
+- Decision date: 2003-08-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3873, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Malette v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-13
+Neutral citation
+2003 TCC 542
+File numbers
+2000-135(EXP)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Cultural Property Export and Import Act
+Decision Content
+Docket: 2000-135(EXP)G
+BETWEEN:
+CHARLES MALETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 23, 2003 at Vancouver, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Werner H.G. Heinrich
+David Graham
+Counsel for the Respondent:
+Robert Carvalho
+____________________________________________________________________
+JUDGMENT
+The appeal from the redetermination made under section 32 of the Cultural Property Export and Import Act dated September 27, 1999 is varied in accordance with the attached Reasons for Judgment.
+The Appellant is awarded party and party costs.
+Signed at Regina, Saskatchewan this 13th day of August 2003.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2003TCC542
+Date: 20030813
+Docket: 2000-135(EXP)G
+BETWEEN:
+CHARLES MALETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the General Procedure was heard at Vancouver, British Columbia, on July 23, 2003. The Respondent called Victor Miner, Executive Director of the Appraisers Association of America, Kathryn C. Minard, who was qualified as an expert witness to give opinion as to the value of 981 works at issue and appraisal methodology.
+[2] An Agreed Statement of Facts was filed as Exhibit A-3 which reads:
+1. The parties are in agreement that the total Fair Market Value of the 981 works of art of artist Harold Feist irrespective of a discount for volume or a bulk discount is $828,000
+[3] The Respondent filed Exhibit R-1 which reads:
+The Appellant concedes that if, as a matter of law bulk discounts may be applied to donations of cultural property, then:
+(i) this was an appropriate situation to apply a bulk discount;
+(ii) the bulk discounts applied by Ms. Minard in her expert report were appropriate; and
+(iii) the appeal should be dismissed.
+[4] The Appellant has appealed for a redetermination of a decision by the Review Board under the Cultural Property Export and Import Act that the fair market value of donated property consisting of 981 works (paintings) by the artist Harold Feist that were created by him and were irrevocably disposed of by the Appellant and Ronaye Malette and Lance Morginn to the Art Gallery of Algoma on July 22, 1998 were of a value of $293,246.
+[5] The Appellant originally submitted that their value was $879,714 on the donation date.
+[6] Subsection 32(1) of the Cultural Property Export and Import Act reads in English and French:
+Request for determination by Review Board
+32.(1) For the purposes of subparagraph 39(1)(a)(i.1), paragraph 110.1(1)(c), the definition "total cultural gifts" in subsection 118.1(1) and subsection 118.1(10) of the Income Tax Act, where a person disposes of or proposes to dispose of an object to an institution or a public authority designated under subsection (2), the person, institution or public authority may request, by notice in writing given to the Review Board, a determination by the Review Board as to whether the object meets the criteria set out in paragraph 29(3)(b) and (c) and a determination by the Review Board of the fair market value of the object.
+32. (1) Pour l'application du sous-alinéa 39(1)a)(i.1), de l'alinéa 110.1(1)c), de la définition de « total des dons de biens culturels » au paragraphe 118.1(1) et du paragraphe 118.1(10) de la Loi de l'impôt sur le revenu, lorsqu'une personne aliène ou se propose d'aliéner un objet au profit d'un établissement, ou d'une administration, désigné conformément au paragraphe (2), la personne, l'établissement ou l'administration peuvent demander par écrit à la Commission d'apprécier la conformité de l'objet aux critères d'intérêt et d'importance énoncés au paragraphe 29(3) et de fixer la juste valeur marchande de l'objet.
+Saisine de la Commission
+any Section 33.1 reads:
+Appeal of Redeter-mination of fair market value
+Decision of Court
+Appeals Before the Tax Court of Canada
+33.1 (1) Any person who has irrevocably disposed of an object, the fair market value1 of which has been redetermined under subsection 32(5), to a designated institution or public authority may, within ninety days after the day on which a certificate referred to in subsection 33(1) is issued in relation to that object, appeal the redetermination to the Tax Court of Canada.
+1 Publisher's note: There is a discrepancy between the English and French versions.
+(2) On an appeal under subsection (1), the Tax Court of Canada may confirm or vary the fair market value and, for the purposes of the Income Tax Act, the value fixed by the Court is deemed to be the fair market value of the object determined by the Review Board in respect of its disposition.
+S.C. 1995, c. 38, s. 2.
+Appel devant la Cour canadienne de l'impôt
+33.1 (1) La personne qui a aliéné de façon irrévocable en faveur d'un établissement ou d'une administration désignés un objet dont la valeur marchande1 a été fixée de nouveau dans le cadre du paragraphe 32(5) peut interjeter appel devant la Cour canadienne de l'impôt dans les quatre-vingt-dix jours suivant la date de délivrance du certificat visé au paragraphe 33(1).
+1 Note de l'éditeur: Il y a défaut de conformité des versions française et anglaise.
+(2) Sur un appel interjeté en vertu du présent article, la Cour canadienne de l'impôt peut confirmer ou modifier la valeur marchande fixée par la Commission et, pour l'application de la Loi de l'impôt sur le revenu, la valeur fixée par la Cour est réputée avoir été fixée par la Commission.
+L.C. 1995, ch. 38, art. 2.
+Appel en ce qui concerne la valeur marchande
+Décision de la Cour
+[7] The provisions of the Income Tax Act are similarly expressed in that they refer to "object" in the singular. (See subsection 118.1(1), (3) and (10).
+[8] There is a discrepancy between the English and French versions of Section 33.1 of the Cultural Property Export and Import Act (hereinafter "Cultural Act"). In subsections 33.1(1) and (2) Cultural Act, the English version states that the Tax Court of Canada may confirm or vary the "fair market value" redetermined under subsection 32(5) Cultural Act, while the French version says that the Court may confirm or vary the "market value" ("valeur marchande") instead of the "fair market value" ("juste valeur marchande"). However, there is no discrepancy between the English and the French versions of subsection 32(5) Cultural Act. Both provisions say that the Canadian Cultural Property Export Review Board should determined the "fair market value" (la "juste valeur marchande") of an object qualified as a cultural gift for the purpose of section 118.1 of the Income Tax Act (hereinafter "ITA"). The relevant provisions of the ITA and the interpretation bulletin regarding these provisions also contain the expression "fair market value" in both official language versions. In these circumstances, the Court finds that the plain meaning of the sections in question is that the Court must confirm or vary the fair market value of the object.
+[9] The argument between the parties settled on whether the fair market value of the works of art should be determined individually as to each object or, altogether subject to a blockage effect when a mass of these works of art are sold together so as to cause the value of the mass to be different from the sum of all its comprised parts.
+[10] The third definition of "object" contained in the Compact Edition of the Oxford English Dictionary is:
+"Something placed before the eyes, or presented to the sight or other sense; an individual thing seen or perceived, or that may be seen or perceived; a material thing; ...
+That is to say that it is singular and not plural.
+[11] With the question posed in paragraph [12] in mind, it should be noted that the singular object in a donation, such as the one of 981 paintings in question, may be the entire donation itself. Subsection 118.1(1) describes the total cultural gifts of an individual as:
+"the total of all amounts each of which is the fair market value of a gift (a) of an object ..."
+The definition reads in full as follows:
+"total cultural gifts" of an individual for a taxation year means the total of all amounts each of which is the fair market value of a gift
+(a) of an object that the Canadian Cultural Property Export Review Board has determined meets the criteria set out in paragraphs 29(3)(b) and (c) of the Cultural Property Export and Import Act,
+and
+(b) that was made by the individual in the year or in any of the 5 immediately preceding taxation years to an institution or a public authority in Canada that was, at the time the gift was made, designated under subsection 32(2) of the Cultural Property Export and Import Act either generally or for a specified purpose related to that object,
+to the extent that those amounts were
+(c) not deducted in computing the individual's taxable income for a taxation year ending before 1988, and
+(d) not included in determining an amount that was deducted under this section in computing the individual's tax payable under this Part for a preceding taxation year.
+[12] Ultimately then, the question is whether the fair market value of each work is to be arrived at individually, or is it to be arrived at individually but disposed of, as each was, in a group of 981, in the words of Section 32 of the Cultural Property Export and Import Act, to a designated institution or public authority? Each reference in that Act is to an individual object. Thus, while the object may be disposed of with others, it is treated in the Act as an individual object. It is that disposition which creates the question of value, not the transaction between the Appellant and Feist. And, finally, it is that disposition which is governed by the words of the Act.
+[13] Ms. Minard valued each object individually and then gave each a bulk discount of 90 percent, based on the premise that the disposition occurred in the "tax shelter market", in which the value consisted of 8 percent to 15 percent of the individual objects' fair market value. For the entire 981 objects she testified that she struck a value of $141,402.34 in December, 1995, contrary to page 4 of her report. (Exhibit R-2).
+[14] The painter, Mr. Feist, and his agent Ms. Laverty transferred the 981 objects to Mr. Malette and his group for an initial proposed amount of $250,000 no earlier than January 31, 1997. After dickering, based on an agreement of what they considered to be a net of 25 percent of the works' fair market value, they ultimately arrived at a final price of 25 percent of whatever the certificate amount from the Board would be. It was a "tax driven transaction". The vendor was paid $50,000 cash at the time of the sale. (Exhibit R-5, Examination for Discovery of Charles Malette, September 18, 2002.) The remaining amount had not been paid at the date of the Hearing.
+[15] Ms. Minard's report fixes the value of the 981 works at $141,402.34 as of December 1995. The disposition to the Art Gallery of Algoma occurred on July 22, 1998. The Board decided that item value then was $293,246.00.
+[16] Ms. Minard's report states that the works are in five different categories, each with a distinct market. Some were in poor condition when she inspected them. She was of the opinion that the amount paid by Mr. Malette to Mr. Feist "may be the best indication of fair market value." On average Mr. Feist only sold 2 works on paper annually. His sales on canvas were better. Of the 981 works in question:
+Category 1 - 610 works on paper
+Category 2 - 47 works on paper
+Category 3 - 70 original prints
+Category 4 - 231 studies, sketches and trial concepts
+Category 5 - 23 paintings on styrofoam
+[17] Because of the Agreed Statement of Facts the real question for the Court is whether a discount for volume should exist when arriving at the fair market value in this case. Without the discount, Ms. Minard's valuation would be approximately ten times what she finally arrived at. Ms. Minard's block discount was admittedly based on the "tax shelter market". Mogan J. dealt with the block discount problem in Pustina, Whent and Zelinski v. The Queen, 96 DTC 1594 at 1610 and 1611 when he said:
+I do not accept Mr. Lake's block discount of 50%. The hypothetical open market in which fair market value is determined contemplates purchasers and vendors acting without pressures to buy or sell. There was no evidence that these Appellants were under any pressure to dispose of the Morrisseau Art. In fact, their evidence was to the contrary and I believe them. The fact that they decided to give away all of the Morrisseau [96 DTC 1594 at 1611] Art within a 24-month period does not mean that they would attempt to sell it within the same period if they had decided to follow the sale route. And finally, Mr. Robinson was of the view that all 216 works could have been sold at retail within a two-year period if they had been carefully grouped and distributed to selective retail galleries from Montreal and Toronto through to Calgary and Vancouver. I am not sure how Mr. Robinson could reach that conclusion when there is so little evidence of retail galleries selling Morrisseau's works in the years 1984, 1985 and 1986 but the idea appeals to me as a sensible marketing strategy for an owner who decides to sell without any pressure.
+....
+Based upon the evidence before him of the value of Morrisseau paintings of $3.00 per square inch at their peak market and the subsequent decline in Mr. Morrisseau's personal life and his sponsoring gallery, combined with the appraisals in evidence, Mogan J. arrived at a value of $2.00 per square inch and was upheld in appeal. Most important for the purposes of this case, is the fact that he rejected the block discount. He did not refer to the singular references to "object" in the legislation. But in dealing with the concept of fair market value, he did refer to an orderly marketing of the paintings in the retail market, governed to some extent by the particular condition of Morrisseau and the gallery.
+[18] It is in the light of Mogan J's analysis, its acceptance by the Federal Court of Appeal and the individual references to each "object" in the governing Canadian legislation, that the Court rejects the concept of a blockage effect with reference to a donation to a public gallery such as occurred here. Donations of art to public galleries often consist of a large number of works. Such donations are to be encouraged so that the works are presented and shown to the public. It is difficult to imagine that a donation of ten or many more paintings by a famous international artist such as Renoir would be discounted. Rather, they would be applauded generally. It is equally difficult to imagine that they would be subject to a block discount to determine their fair market value. On the contrary, the value of the gallery would be multiplied by the critics and the public.
+[19] No doubt it is for these reasons that the legislation refers to an object individually.
+[20] Because the Court finds that there should be no discount for volume or a bulk discount, the Court finds that the fair market value of the 981 works of art in question is $828,000 as was agreed by the parties in Exhibit A-3. The determination of the Review Board is varied accordingly.
+[21] The Appellant is awarded party and party costs.
+Signed at Regina, Saskatchewan, this 13th day of August 2003.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2003TCC542
+COURT FILE NO.:
+2000-135(EXP)G
+STYLE OF CAUSE:
+Charles Malette v. Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+July 23, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT:
+August 13, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Werner H.G. Heinrich
+David Graham
+Counsel for the Respondent:
+Robert Carvalho
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David Graham
+Firm:
+Koffman Kalef
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

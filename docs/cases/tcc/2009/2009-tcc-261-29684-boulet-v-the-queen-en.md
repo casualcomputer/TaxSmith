@@ -1,0 +1,333 @@
+---
+title: "Boulet v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29684/index.do"
+last_modified: "2009-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 261"
+citation2: ""
+neutral_citation: "2009 TCC 261"
+decision_date: "2009-07-16"
+language: "en"
+item_id: "29684"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6250
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:07:06.849000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4c8c46ca60d516ccf6bb0689a6c348fbe71487180a17ab3ad6c92bd3ab50c7dd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boulet v. The Queen
+
+- Citation: 2009 TCC 261
+- Decision date: 2009-07-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6250, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boulet v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-16
+Neutral citation
+2009 TCC 261
+File numbers
+2006-3091(IT)G, 2006-3092(IT)G, 2006-3093(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2009 TCC 261
+Date: 20090928
+Docket: 2006-3091(IT)G,
+2006-3092(IT)G,
+2006-3093(IT)G
+BETWEEN:
+JEAN-PIERRE BOULET,
+9070-0659 QUÉBEC INC.,
+SERGE OUELLET,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+Bédard J.
+[1] These three appeals were heard jointly under the General Procedure.
+[2] Serge Ouellet is appealing from a reassessment made by the Minister of National Revenue ("the Minister") on November 24, 2003, with respect to his 1999 taxation year. Under that reassessment, the Minister added to Mr. Ouellet's income, under subsection 15(1) of the Income Tax Act ("the Act"), the amount of $53,101 by reason of the acquisition, on November 21, 1999, of land belonging to 9070‑0659 Québec Inc. ("the Company") of which Mr. Ouellet was then a shareholder, for a price that, in the Minister's opinion, was lower than the fair market value (FMV) of the land at the time. Under that reassessment, the Minister also applied a penalty under subsection 163(2) of the Act to the amount of $53,101. I should note that the reassessment was made beyond the normal reassessment period.
+[3] In addition, Jean-Pierre Boulet is appealing from a reassessment made by the Minister on February 20, 2004, in respect of his 1999 taxation year. Under the terms of that reassessment, the Minister added to Mr. Boulet's income, under subsection 15(1) of the Act, the amount of $33,155, by reason of the acquisition, on November 21, 1999, of land belonging to the Company, of which he was then a shareholder, for a price that, in the Minister's opinion, was lower than the FMV of the land at the time. Under the terms of that reassessment, the Minister also applied a penalty under subsection 163(2) of the Act to the amount of $33,155. I should note that the reassessment was made beyond the normal reassessment period.
+[4] Jean-Pierre Boulet is also appealing from a reassessment made on February 20, 2004, with respect to his 2002 taxation year. Under the reassessment, the Minister added to Mr. Boulet's income the amount of $12,449 as a taxable capital gain by reason of the sale of a residence located at 183 and 185 Villandry Road in Saint‑Adolphe-d'Howard ("the Residence"). This was done because the Minister relied on the assumption that there was a part of the Residence (namely the basement) which Mr. Boulet never inhabited, and the Minister therefore determined that Mr. Boulet was not entitled to benefit from the principal residence exemption in respect of the capital gain resulting from the sale of that part of the Residence. Under that reassessment, the Minister also applied a penalty under subsection 163(2) of the Act.
+[5] Lastly, the Company is appealing from a reassessment made on December 19, 2003, for its taxation year ended January 31, 2000. Under that reassessment, the Minister added the amount of $82,256 to the Company's income, by reason of the sale of two parcels of land to its two shareholders, namely Mr. Ouellet and Mr. Boulet, for a price that he considers lower than their FMV at the time of the sale. Under the terms of that reassessment, the Minister also applied the penalty under subsection 163(2) of the Act.
+The facts
+[6] In December1994, Desjardins Trust Inc. ("Desjardins Trust") exercised its right to take several parcels of land, totalling roughly 21 acres and located in Saint‑Adolphe‑d'Howard, in payment of a claim. It thereby became the owner of that land.
+[7] In 1998, the individual Appellants Mr. Ouellet and Mr. Boulet ("the Appellants"), who were good friends at the time, learned that Desjardins Trust had put the entire land up for sale. They made an offer to Desjardins Trust to purchase several parcels of that land. Under the terms of that offer, Mr. Boulet sought to acquire lots P.32, range 1, and P-32A, range 2, entered in the cadastre (land registry) on September 12, 2000, and having an area of 71,276 square feet ("Parcel 1"); and Mr. Ouellet sought to acquire Lot P-32A-19, range 2, entered in the cadastre (land registry) on November 5, 1999, and having an area of 71,276 square feet ("Parcel 2"). Desjardins Trust turned down the Appellants' offer because it did not want to divide up the land.
+[8] On the basis of the advice of Luc Boulanger, a tax lawyer, the Appellants decided to purchase the entire land through a company. On September 18, 1998, the Appellants, both personally and on behalf of a land development company to be incorporated in the future, agreed that the company would make an offer to Desjardins Trust to purchase the entire land ("the Agreement").[1] The Agreement is worded as follows:
+[TRANSLATION]
+AGREEMENT RESPECTING THE ACQUISITION OF LANDS
+BETWEEN:
+Serge Ouellet, a businessman residing and domiciled at 236 Villandry Road, Saint‑Adophe-d'Howard, Quebec J0T 2B0
+(hereinafter "Ouellet")
+AND:
+Jean-Pierre Boulet, a businessman residing and domiciled at 2533 de l'Hortensia Street, La Plaine, Quebec J7M 1L6
+(hereinafter "Boulet")
+(Ouellet and Boulet also being referred to collectively as "the Buyers")
+AND:
+Ouellet and Boulet, acting solidarily for and on behalf of a corporation to be formed shortly under the authority of the Companies Act (Quebec)
+(hereinafter "the Company").
+THE PARTIES DECLARE AS FOLLOWS:
+A. Ouellet and Boulet are each interested in acquiring one parcel of land for personal use. The parcels are situated in the area of Saint-Adolphe-d'Howard, Quebec.
+B. The parcels that interest Ouellet and Boulet are part of a grouping of lots and parts of lots held by Desjardins Trust Inc., a financial institution.
+C. Desjardins Trust Inc. refuses to sell the lots or parts of lots separately to each of the Buyers individually. Rather, it insists on making a single sale of the entire land, regardless of the buyer.
+D. Ouellet and Boulet, who see a business opportunity in this land, intend to operate a land development business together through the Company.
+E. Thus, in order to create up an inventory of land, the Buyers have pursued efforts to purchase all of the lots in question, including those that interest Ouellet and Boulet personally, from Desjardins Trust Inc., which owns the land.
+CONSEQUENTLY, THE PARTIES AGREE AS FOLLOWS:
+1. Considering the Buyers' interest in the land, the business opportunity for the Company and the position taken by Desjardins Trust Inc., the Buyers agree, subject to section 3, to submit, on behalf of the Company, an offer to purchase the entire land that is the subject of negotiations with Desjardins Trust Inc.
+2. The Buyers agree to incorporate the Company without delay, with the understanding that Ouellet and Boulet will be the sole and equal holders of the voting and participating shares of the Company.
+3. As future shareholders and directors of the Company, Ouellet and Boulet agree to act on any purchase offer made for and on behalf of the Company, as set out in section 1.
+4. The lots that are currently the subject of negotiations between the Buyers and Desjardins Trust Inc. are those bounded by Villandry Road, Morgan Road and Lac Ste-Marie, with a total area of approximately twenty-one (21) acres, in the municipality of Saint‑Adolphe‑d'Howard, Quebec.
+5. It is, however, understood and agreed that Ouellet and Boulet shall each refrain from personally purchasing a lot from Desjardins Trust Inc. solely in order to help bring about the purchase of the entire land that is owned by Desjardins Trust Inc. and is the subject of the current negotiations.
+6. In consideration hereof, Ouellet and Boulet agree that, as future shareholders and directors of the Company, they shall ensure that the Company, within a reasonable time, sells them the lots that each of them would have been interested in purchasing personally for their own individual use.
+7. It is understood and agreed that, upon the mere request of Ouellet and Boulet, the Company shall transfer, to each of them, the lots contemplated in the preceding section, for the same price that the Company shall have paid to acquire those lots.
+8. The preamble of this Agreement is an integral part of this Agreement.
+9. The parties shall sign any document and do anything else that is helpful or necessary to ensure that this Agreement is performed in its entirety.
+10. This Agreement is governed by the laws in force in the province of Quebec.
+11. This Agreement is binding on the parties and their heirs, assigns, successors or liquidators, and other legal representatives.
+IN WITNESS WHEREOF, the parties have signed in triplicate at La Plaine, in the province of Quebec, this 18th day of September 1998.
+[Signature] [Signature]
+Serge Ouellet Jean-Pierre Boulet
+and, solidarily, for and on behalf of the
+Company to be incorporated:
+[Signature]
+Serge Ouellet
+[Signature]
+Jean-Pierre Boulet
+[9] The company to be incorporated was 9070‑0659 Québec Inc. ("the Company"), incorporated on November 2, 1998. The Appellants are its equal shareholders. Jean-Pierre Boulet is a building contractor and the sole shareholder of Les entreprises Jean-Pierre Boulet Inc., which specializes in the construction and sale of houses. Mr. Ouellet is an aircraft pilot and has a university education.
+[10] The Appellants did not contact the Canada Revenue Agency before proceeding with the real estate transaction.
+[11] On November 18, 1998, the Company made Desjardins Trust an offer to purchase the entire land for $200,000. Desjardins Trust accepted the offer on December 22, 1998. On March 23, 1999, the Company and Desjardins Trust signed a notarial deed by which the entire land was sold. Also on March 23, 1999, the Company sold two parcels to Richard and Robert Dutton for a total price of $149,532.
+[12] Based on the Company's financial statements for the fiscal year ended January 31, 2000, the Company incurred a total of $243,771 in expenses during the fiscal year to parcel out, survey, and clear the land and to build an access road.
+[13] In 1999 and 2000, the Company sold five other parcels to parties at arm's length, for prices ranging from $40,000 to $65,000. On November 21, 1999, the Company, as provided in the Agreement, sold Mr. Boulet Parcel 1 for $6,845. On the same day, the Company, as provided in the Agreement, sold Mr. Ouellet Parcel 2 for $6,899. The price of each parcel, $6,845 and $6,899, represents the prorated portion, based on area, of the price paid to Desjardins Trust for the entire land.
+[14] The February 20, 2004 reassessment added to Mr. Boulet's income, for the 1999 taxation year, the difference between what the Minister believed was the FMV of Parcel 1 on November 21, 1999, and the price paid by Mr. Boulet when he bought it that day, that is to say, $40,000 - $6,845 = a taxable benefit of $33,155 conferred on a shareholder under subsection 15(1) of the Act.
+[15] The November 24, 2003 reassessment added to Mr. Ouellet's income, for the 1999 taxation year, the difference between what the Minister believed was the FMV of Parcel 2 on November 21, 1999, and the price paid by Mr. Ouellet when he bought it that day, that is to say, $60,000 - $6,899 = a taxable benefit of $53,101 conferred on a shareholder under subsection 15(1) of the Act.
+[16] The $86,256 difference between what the Minister believed was the FMV of Parcels 1 and 2 on November 21, 1999, and the prices paid by the Appellants, was added to the Company's taxable income in a reassessment dated December 19, 2003, for the Company's taxation year ended January 31, 2000.
+[17] According to the expert reports tendered in evidence by the Company and the Appellants, the FMV of Parcels 1 and 2 on November 21, 1999, was $25,000 and $28,000, respectively. According to the expert reports tendered by the Respondent, the FMV of Parcels 1 and 2 on that date was $40,000 and $58,000, respectively.
+[18] As at July 18, 2001, the Company had not filed any income tax returns. On March 28, 2002, the Company, in response to a request in this regard, filed its returns for the fiscal years ended January 31, 2000, 2001 and 2002.
+[19] From September 2000 to March 2001, Mr. Boulet built the Residence on Parcel 1. The Residence had three habitable floors, including a basement. The basement was set up as an independent one-bedroom apartment with four and a half rooms (including a kitchenette and a bathroom). The basement was accessible from an exterior door and had its own municipal address: 183 Villandry Road.
+[20] Mr. Boulet lived on the two upper floors of the Residence. Occasionally, his children (who were then 16 and 17 and were in his custody on alternating weekends) used the basement [TRANSLATION] "to watch TV".[2] The two children lived with their father on the two upper floors of the Residence. In addition, during his testimony, Mr. Boulet called the basement a guest suite, without actually saying whether it had sometimes been used by his guests. In addition, Mr. Boulet testified that he had made no efforts to obtain a separate municipal address for the basement from the town of Saint‑Adolphe‑d'Howard. Mr. Boulet's testimony in this regard — which lacked credibility — is worth quoting:
+[TRANSLATION]
+Q. No?
+A. I didn't make efforts to get a separate address. It's really the town that told me, "Well, you can do that... you can put two addresses." So, well...okay, I went with that, but I didn't imagine that this implied that it might possibly mean it was a duplex or something like that.[3]
+[21] In April 2001, Mr. Boulet mandated a real estate agent to sell the Residence. The MLS listing (Exhibit I-4) describes the basement as a [TRANSLATION] "bachelor apartment."
+[22] On May 22, 2002, the Residence was sold for $330,000. Mr. Boulet reported no capital gain in respect of the sale in his income tax return for the 2002 taxation year.
+[23] According to the accounting records, Les entreprises Jean-Pierre Boulet Inc. (of which Mr. Boulet was the sole shareholder) paid most of the costs of building the Residence, and adjusting entries were made in order to record a sale for $179,000 plus tax.
+[24] The Minister computed a capital gain of $24,898 (a taxable capital gain of $12,449) upon the sale of the basement, based on the fact that the area that Mr. Boulet used as a principal residence was 1,800 square feet out of a total living space of 2,700 square feet.
+[25] The Minister relied on the following assumptions of fact, set out in subparagraph 20(w) of the Reply to the Notice of Appeal, in issuing the notice of reassessment against Mr. Boulet beyond the normal reassessment period and imposing the penalties for the years 1999 and 2002 on the amounts of $33,155 and $12,449, respectively, under subsection 163(2) of the Act:
+[TRANSLATION]
+(i) The Appellant is a building contractor and is a principal shareholder of Les Entreprises Jean-Pierre Boulet Inc., a company specialized in construction, which holds 50% of the land development company.
+(ii) The Appellant had the necessary expertise and knowledge in the field of land speculation.
+(iii) The Appellant holds a building contractor licence. He took training courses from the Commission de la construction du Québec covering the administrative and tax aspects of construction.
+(iv) For the 1999 taxation year, the taxable benefit conferred on the shareholder was equal to 60% of his total reported income.
+(v) For the 2002 taxation year, the capital gain of $24,898 was equal to 78% of his total reported income.
+(vi) For the year 1999, the Appellant filed his own income tax return using commercial income tax software, and for the year 2002, he used the NETFILE system.
+(vii) Serge Ouellet and the Appellant consulted a tax specialist and should have been aware of the implications of a selling price that was below fair market value.
+(viii) As director and shareholder of the land development company, the Appellant was well aware of the fair market value of the lots sold to third parties for amounts ranging from $40,000 to $65,000.
+(ix) The Appellant is very much aware of the market value of the parcels sold to shareholders, which was markedly higher than their purchase costs of $6,899 and $6,845.
+(x) The Appellant did not contact the Canada Revenue Agency before proceeding with the real estate transaction.
+[26] The Minister relied on the following factual assumptions, set out in subparagraph 17(q) of the Reply to the Notice of Appeal, in issuing the notice of reassessment against Mr. Ouellet beyond the normal reassessment period and to impose a penalty for the year 1999 on the amount of $53,101 under subsection 163(2) of the Act:
+[TRANSLATION]
+(i) The Appellant, an Air Canada pilot, holds 50% of the shares of the land development company.
+(ii) The Appellant had the necessary expertise and knowledge in the field of land speculation.
+(iii) For the 1999 taxation year, the taxable benefit conferred on the shareholder is equal to 46% of the employment income reported by the Appellant.
+(iv) For the year 1999, the Appellant filed his own income tax return using commercial tax software.
+(v) Jean-Pierre Boulet and the Appellant consulted a tax specialist and should have been aware of the implications of a selling price that was below fair market value.
+(vi) As director and shareholder of the land development company, the Appellant was well aware of the fair market value of the lots that were sold to third parties for amounts varying from $40,000 to $65,000.
+(vii) The Appellant was very much aware of the market value of the parcels sold to the shareholders, and that value was markedly higher than their purchase costs of $6,899 and $6,845.
+(viii) The Appellant did not contact the Canada Revenue Agency before proceeding with the real estate transaction.
+(ix) Over the course of the years 1994 to 2002, the Appellant acquired five vacant lots for the purpose of building his principal residences thereon. Upon reselling these residences, the Appellant realized profits of $46,028 to $161,500.
+[27] The Minister relied on the following factual assumptions, set out in subparagraph 12(p) of the Reply to the Notice of Appeal, in imposing a penalty on the Company in the amount of $86,526 under subsection 163(2) of the Act:
+[TRANSLATION]
+(i) The adjustment is equal to 35% of the reported sales income of $246,308.
+(ii) Since the Company consulted a tax specialist, it should have been aware of the implications of a selling price that was below fair market value.
+(iii) The Company operates as a land developer, and, in the course of the year 1999, it made several sales of similar vacant lots adjacent to the parcels sold to the two shareholders. The lots were sold for amounts ranging from $40,000 to $65,000.
+(iv) The Company was very much aware of the market value of the parcels sold to the shareholders, and that value was markedly higher than their purchase costs of $6,899 and $6,845.
+(v) The shareholder Jean-Pierre Boulet is himself a construction contractor and the sole shareholder of Les entreprises Jean-Pierre Boulet Inc.
+(vi) The Company and its shareholders had the necessary expertise and knowledge in the field of land speculation.
+(vii) The shareholder Serge Ouellet is an aircraft pilot and has a university education.
+(viii) The Appellant did not contact the Canada Revenue Agency before proceeding with the real estate transaction.
+Issues
+[28] The issues in this case are as follows:
+(i) Did the Minister correctly add to Mr. Boulet and Mr. Ouellet's income, for the 1999 taxation year, the amounts of $33,155 and $53,101, respectively, as benefits conferred on a shareholder under subsection 15(1) of the Act, on the basis that each of them purchased a parcel of land from the Company for a price that was below its FMV?
+(ii) Did the Minister correctly impose on Mr. Boulet and Mr. Ouellet, for the 1999 taxation year, the penalty under subsection 163(2) of the Act in respect of the amounts of $33,155 and $53,101?
+(iii) Did the Minister correctly reassess Mr. Boulet and Mr. Ouellet beyond the normal reassessment period for the 1999 taxation year?
+(iv) Did the Minister correctly add to Mr. Boulet's income, for the 2002 taxation year, the amount of $12,449 as a taxable capital gain by reason of the sale of a part of the Residence that was not used as a principal residence?
+(v) Did the Minister correctly impose on Mr. Boulet, for the 2002 taxation year, a penalty under subsection 163(2) of the Act in respect of the amount of $12,449?
+(vi) Did the Minister correctly add to the Company's income, for the 2000 taxation year, additional income of $86,256 from the sale of two parcels of land to the Appellants for a price that was below their FMV?
+(vii) Did the Minister correctly impose on the Company, for the 2000 taxation year, a penalty under subsection 163(2) of the Act in respect of the amount of $86,256?
+Benefit conferred on a shareholder
+[29] The first issue in my analysis is whether the Minister correctly added $33,155 and $53,101 to the Appellants' respective incomes as shareholder benefits for the 1999 taxation year under subsection 15(1) of the Act.
+[30] The Appellants essentially submit that the Agreement is an option, or a unilateral promise to enter into a contract, and that the ultimate value of the benefit, conferred by reason of the land purchase, must be determined as at the formation date of the Agreement, namely September 18, 1998 (thus during the 1998 taxation year).
+[31] The Respondent essentially submits that the Agreement is a "unilateral promise" (also called an "option") within the meaning of the Civil Code of Québec and that this promise confers no ownership on the Appellants. The Respondent adds that it was only on November 21, 1999 that the Appellants became owners of the parcels, and that the question of whether the Company conferred a benefit on the Appellants, and of the amount of that benefit, must be determined as at that date. In this regard, the Respondent relies primarily on Robertson,[4] where the Federal Court of Appeal held that where an employee is given an option to purchase property, the benefit should be valued as at the time that the employee exercises the option, not the time that the option is granted, because it is only upon exercising or "taking up" the option that the employee reaps the benefit.
+[32] I would immediately emphasize that I completely agree with the Respondent's position: the agreement is a "unilateral promise" (also called an "option") within the meaning of article 1396 of the Civil Code of Québec, which reads:
+1396. An offer to contract made to a determinate person constitutes a promise to enter into the proposed contract from the moment that the offeree clearly indicates to the offeror that he intends to consider the offer and reply to it within a reasonable time or within the time stated therein.
+A mere promise is not equivalent to the proposed contract; however, where the beneficiary of the promise accepts the promise or takes up his option, both he and the promisor are bound to enter into the contract, unless the beneficiary decides to enter into the contract immediately.
+Indeed, the Agreement has all the characteristics of a "unilateral promise" since section 7 provides that, on the mere request of the Appellants, the Company will transfer the lots (contemplated in section 6) to them "for the same price that the Company shall have paid to acquire those lots." Moreover, in the Agreement, the Appellants clearly expressed their intent to take the offer into consideration and respond to it within a reasonable amount of time.
+[33] I should also note that I completely agree with the Respondent's submission that a unilateral promise is not a sale, and therefore cannot have the effects of a sale. It is clear that a "unilateral promise" does not transfer the ownership of the property that is the subject of the promise made to the beneficiary of the promise.
+Analysis and determination regarding the benefit conferred on the Appellants under subsection 15(1) of the Act
+[34] Subsection 15(1) of the Act reads as follows:
+15. (1) Benefit conferred on shareholder -- Where at any time in a taxation year a benefit is conferred on a shareholder, or on a person in contemplation of the person becoming a shareholder, by a corporation otherwise than by
+(a) the reduction of the paid-up capital, the redemption, cancellation or acquisition by the corporation of shares of its capital stock or on the winding-up, discontinuance or reorganization of its business, or otherwise by way of a transaction to which section 88 applies,
+(b) the payment of a dividend or a stock dividend;
+(c) conferring, on all owners of common shares of the capital stock of the corporation at that time, a right in respect of each common share, that is identical to every other right conferred at that time in respect of each other such share, to acquire additional shares of the capital stock of the corporation, and, for the purpose of this paragraph,
+(i) where
+(A) the voting rights attached to a particular class of common shares of the capital stock of a corporation differ from the voting rights attached to another class of common shares of the capital stock of the corporation, and,
+(B) there are no other differences between the terms and conditions of the classes of shares that could cause the fair market value of a share of the particular class to differ materially from the fair market value of a share of the other class,
+the shares of the particular class shall be deemed to be property that is identical to the shares of the other class, and
+(ii) rights are not considered identical if the cost of acquiring those rights differs,
+(d) an action described in paragraph 84(1)(c.1), 84(1)(c.2) or 84(1)(c.3).
+[35] Subsection 15(1) of the Act itself contains no indication of what a "benefit" is or of how the "value" thereof is to be assessed. These questions are essentially questions of fact which the Court must decide based on the particular circumstances of each case. I should note that, since paragraph 6(1)(a) of the Act (which deals with employee benefits) does not contain any more indication of what a "benefit" is or of how the "value" thereof is to be assessed, the case law pertaining to that paragraph of the Act can be used to interpret subsection 15(1) of the Act.
+[36] The concept of a "benefit" is very broad, to say the least. Any pecuniary benefit conferred by a company on a shareholder in his or her capacity as shareholder is a benefit within the meaning of subsection 15(1) of the Act. Thus, in my view, there can be a pecuniary benefit where a company confers on a shareholder, by virtue of his shareholder status, an unconditional right to purchase a property, and this benefit is conferred during the taxation year in which the company grants the right. The Respondent, citing Robertson, a Federal Court of Appeal case, submits that the time at which the benefit must be valued is the time when the shareholder exercises the option, not the time when the option is granted, since the shareholder reaps a benefit only when the option is exercised. It is simply wrong to claim that Robertson stands indirectly for the proposition that subsection 15(1) of the Act can apply only during the year in which the property is transferred to the shareholder. In my view, Robertson merely holds that the pecuniary value of a right to property cannot be included in the employee's income under paragraph 6(1)(a) of the Act before the uncertainty surrounding the employee's right has dissipated. In fact, in Henley,[5] the Federal Court of Appeal recently interpreted its holding in Robertson with respect to this issue. The Court stated:
+21. To summarize, Robertson may be considered to stand for the proposition that where, in the course of an employment relationship, an employee receives a right to acquire property from his or her employer upon the fulfillment of a condition or contingency, the receipt of that right will not constitute a paragraph 6(1)(a) benefit to the employee and such a benefit will not arise until the condition or contingency has been fulfilled. By way of example, if an employer gives a painting to an employee as a bonus, there is no doubt that the painting is a benefit, the value of which must be included in income when the painting is received by the employee. By contrast, if the employer offers to give the employee a painting if the employee fulfils a condition, such as concluding a deal or working for a period of time, only upon the fulfillment of that condition can it be said that the employee becomes entitled to the painting and therefore receives a benefit.
+[37] Thus, where a company that owns a certain item of property confers on a shareholder, in his capacity as shareholder, an unconditional right to acquire that item of property, the shareholder must determine the pecuniary value of that right as at the time that the right is conferred on him, and, in computing his income under subsection 15(1) of the Act, he must include that value during the taxation year in which the right was conferred on him. For example, if, on December 1, 2009, a company that owns a painting worth $10,000 grants a shareholder, in his capacity as shareholder, an unconditional right to acquire that painting on or before December 31, 2011 at a price of $9,000, the shareholder must include the pecuniary value of that right (which in my opinion would be at least $1,000) in computing his income for his 2009 taxation year under subsection 15(1) of the Act. Indeed, one can easily imagine the shareholder, as early as December 1, 2009, selling his option to a third party for at least $1,000. However, in this example, no benefit is conferred on the shareholder during the subsequent year in which the option is exercised, because, in that subsequent year, the company is merely giving the shareholder what he is entitled to.
+[38] In contrast, if a company confers on a shareholder, in his capacity as shareholder, a conditional right to acquire property that it owns, the shareholder must determine the pecuniary value of that right as at the moment that the condition is fulfilled, and include that value in computing his income under subsection 15(1) for the taxation year in which the condition is fulfilled. For example, if, in 2009, a company grants a shareholder a conditional right to acquire a painting it owns at a price of $10,000, and the condition is fulfilled on January 10, 2010, when the FMV of the painting is $12,000, it is my view that the shareholder will have to include the pecuniary value of the benefit (which would at least be $2,000) as at January 10, 2010, even if he does not exercise the option on that date. However, no benefit is conferred on that shareholder in the course of the subsequent year in which the option is exercised, since, in that year, the company is merely giving the shareholder what he is entitled to.
+[39] In the instant case, I would recall that
+(i) the Agreement was signed on September 18, 1998,
+(ii) the Company was incorporated on November 2, 1998,
+(iii) on November 18,1998, the Company made Desjardins Trust an offer to purchase the entire land,
+(iv) on December 22, 1998, Desjardins Trust accepted the Company's offer,
+(v) on March 23, 1999, the Company and Desjardins Trust signed a notarial deed by which the entire land was sold, and
+(vi) on November 21, 1999, the Appellants exercised, or "took up", the option.
+[40] In my view, no pecuniary benefit was conferred on the Appellants on September 18, 1998, the date on which they were granted the option under the Agreement, because the option had no subject matter. Moreover, in my view, the Appellants should instead have determined the pecuniary value of the benefit, if any, as at December 22, 1998 (when Desjardins Trust accepted the Company's offer) and should have included the subsection 15(1) benefit in computing their income for the 1998 taxation year. Indeed, the Company acquired a right as soon as its offer was accepted by Desjardins Trust, and, consequently, at the same moment, the Appellants acquired rights from the Company — rights that they could therefore assign to third parties, since no provision of the Agreement prohibited them from assigning their rights. In addition, it is my view that no benefit was conferred on the Appellants on November 21, 1999, when they became the owners of their parcels as contemplated in the Agreement, since the Company merely gave the Appellants what they were entitled to. Indeed, subsection 15(1) of the Act requires that the benefit be conferred on the taxpayer in his capacity as shareholder. No benefit is conferred if a company merely complies with an undertaking that it made earlier under a genuine commercial transaction (in this instance, the Agreement). The option holder's status as shareholder plays no role in the compliance with that undertaking. The option holder, or optionee, assigns a right, namely the option, and receives, as consideration, the property that he was entitled to acquire under the terms of the option. The value of the option is the value of the property to which the optionee is entitled, minus the price that he must pay. The situation of the optionee is no better after the option is exercised than it was beforehand. In other words, the Company could not have conferred a pecuniary benefit on the Appellants on November 21, 1999, because it was merely complying with its obligation under the Agreement.
+[41] Given my decision that the benefit, if any, should have been included in the computation of the Appellants' income for their 1998 taxation year, I see no need to examine the issue of reassessing beyond the normal reassessment period, or the issue of a penalty under subsection 163(2) of the Act.
+[42] Consequently, the Appellants' appeal is allowed in respect of their 1999 taxation year.
+The FMV of Parcels 1 and 2 on November 21, 1999
+[43] The second question in my analysis is this: What was the FMV of Parcels 1 and 2 on November 21, 1999?
+[44] As we have seen, the Company, as provided in the Agreement, sold Parcel 1 to Mr. Boulet for $6,845 and Parcel 2 to Mr. Ouellet for $6,899. The amounts of $6,845 and $6,899 constitute the prorated portions of the price that the Company paid to Desjardins Trust, having regard to the area of the parcels. As we have also seen, the Respondent submits that the FMV of Parcels 1 and 2 on November 21, 1999, was $40,000 and $58,000, respectively.
+[45] The Court submitted the following question to the parties: In determining the FMV of property, must the contractual restrictions on the sale of the property be taken into account? In other words, must the FMV of Parcels 1 and 2 be determined as though the Agreement did not exist?
+[46] The relevant parts of the Respondent's written submissions on this subject read as follows:
+[TRANSLATION]
+4. The concept of fair market value for the purposes of the Income Tax Act (ITA) has been defined as
+. . . the highest price an asset might reasonably be expected to bring if sold by the owner in the normal method applicable to the asset in question in the ordinary course of business in a market not exposed to any undue stresses and composed of willing buyers and sellers dealing at arm's length and under no compulsion to buy or sell. I would add that the foregoing understanding as I have expressed it in a general way includes what I conceive to be the essential element which is an open and unrestricted market in which the price is hammered out between willing and informed buyers and sellers on the anvil of supply and demand.
+5. This definition is, in fact, similar to the one set out in section 1.2.3.3 of the Guide de pratiques professionnelles published by the Ordre des évaluateurs agréés du Québec [the Quebec professional body of certified appraisers] and cited at page 3 of the valuation reports concerning each of the two parcels in issue.
+6. The concept of fair market value requires an arm's length relationship between the seller and the buyer, and a seller who is prepared to sell.
+CIVIL LAW
+7. A unilateral promise of sale is also called an option. The provisions of the Civil Code of Québec (C.C.Q.) that define the legal relationships associated with the existence of a unilateral promise of sale were set out in our written submissions which were filed last September. The most relevant provisions are as follows:
+1396. An offer to contract made to a determinate person constitutes a promise to enter into the proposed contract from the moment that the offeree clearly indicates to the offeror that he intends to consider the offer and reply to it within a reasonable time or within the time stated therein.
+A mere promise is not equivalent to the proposed contract; however, where the beneficiary of the promise accepts the promise or takes up his option, both he and the promisor are bound to enter into the contract, unless the beneficiary decides to enter into the contract immediately.
+1397. A contract made in violation of a promise to contract may be set up against the beneficiary of the promise, but without affecting his remedy for damages against the promisor and the person having contracted in bad faith with the promisor.
+The same rule applies to a contract made in violation of a first refusal agreement.
+8. The important thing to remember about these provisions is that if there is an option, but the promisor/seller ("the optionor") sells the optioned property to a third party in good faith, the beneficiary of the promise ("the optionee") is not entitled to passation (execution) of title or to damages from the third party. Even if the third party is in bad faith, the optionee cannot sue him in passation of title (specific performance); he is only entitled to damages.
+9. Giving a person an option on certain property does not give that person ownership of the property. The option is not published in the land registry, and does not charge the optioned property.
+10. Here, the optionees (Mr. Ouellet and Mr. Boulet) each hold 50% of the optionor (9070-6059 Québec Inc.). They are not at arm's length from the Company. Since the optionees control the optionor and wish to exercise, or "take up", the option, it would be rather surprising if they were willing to sell the parcels to third parties.
+11. In order to assess the impact of the option on fair market value, let us consider a situation where the optionees decide that the optionor can sell the parcels despite the option.
+12. In such a situation, the third party who buys the parcels will not be legally affected by the violation of the option by the optionor who sold the property. Indeed, the third party will retain title to the property and will not be liable to the optionee, provided he is in good faith. Even if the third party was aware of the existence of the option, the optionees would find it difficult to sue him in damages, since they control the optionor who sold the property and is responsible for violating the option.
+13. For the same reasons, if the optionees do not control the optionor who sold the property, the third party who buys the parcels is not affected by the optionor's violation of the option either, unless the third party was in bad faith. And in civil law, good faith is presumed.
+14. Since the third party is not legally affected by the violation of the option, such a violation has no effect on the price that he would be willing to pay in order to acquire the property. And the fair market value refers precisely to the "highest price an asset might reasonably be expected to bring" its owner, that is to say, the price that a buyer is willing to pay. Thus, the existence of an option to purchase property has no impact on the fair market value of that property.
+[47] In my view, the Supreme Court of Canada has clearly held, in Beament,[6] that the FMV of a property cannot be determined without having regard to the contractual restrictions on the sale of the property, unless the contractual restrictions are not valid.
+[48] Beament pertained to the valuation of shares of a private corporation that belonged to the late Arthur Warwick Beament ("the deceased") for the purposes of the Estate Tax Act. Before we consider the Supreme Court's ruling in Beament, it is necessary to review the facts of that case. On May 24, 1966, the date of his death, the deceased owned 2,000 Class B shares having a par value of $1 each in the capital stock of Lakroc Investments Limited ("Lakroc"). Under the Estate Tax Act, the shares were part of the deceased's estate and were therefore subject to the estate tax based on their FMV. Lakroc was a private corporation. Its authorized capital consisted of 10,000 Class A shares and 40,000 Class B shares, each having a par value of $1. In summary, the provisions attaching to the Class A and Class B shares of Lakroc, set out in the letters patent, conferred a 5% cumulative preferential dividend on the Class A shares and entitled the holders of the Class B shares to the remaining net earnings of the company arising from income but not from capital gains. On the dissolution or winding-up of the company, the holders of the Class B shares were limited to receiving the par value of their shares, and the holders of the Class A shares were entitled to receive all the remaining distributable assets. Each Class A and Class B share carried one vote. Upon the death of the deceased, the issued shares of Lakroc were owned as follows: the deceased owned 2,000 Class B shares, M.P. Van Harlingen (the deceased's daughter) owned 12 Class A shares, and J.A. Beament (the deceased's son) owned 12 Class A shares. The deceased's children subscribed for their Class A shares pursuant to an agreement under seal dated March 15, 1961, made between them and the deceased. By that agreement, the deceased, called the "Controlling Shareholder", covenanted with his children as follows:
+The Controlling Shareholder covenants and agrees that he will provide in his Will and maintain therein a direction to his executors to take all necessary steps as soon as conveniently may be after his death to cause the debts of the Company to be paid, its assets to be distributed rateably amongst the shareholders of the Company in accordance with the provisions of the Letters Patent incorporating the Company and to surrender the Letters Patent of the Company. The word "Will" as herein used includes any codicil or other testamentary document effective on the death of the Controlling Shareholder, by whatever name it may be called, and the words "Letters Patent" include any Supplementary Letters Patent.
+The deceased's will, dated July 23, 1965, contained the following clause:
+15. I DIRECT my Trustees, as soon as conveniently possible after my death, to do all things necessary to cause Lakroc Investments Limited to pay its debts, to distribute its assets amongst its shareholders and to surrender its charter.
+As a result of the death of the deceased, the 2,000 Class B shares of Lakroc owned by the deceased became vested in the children as his executors. As required by paragraph 3 of the agreement of March 15, 1961, and paragraph 15 of the will, steps were immediately taken to dissolve Lakroc by paying its debts, distributing its net assets rateably among its shareholders and surrendering its charter. Thus, with respect to the 2,000 Class B shares that belonged to the deceased upon his death, the estate received $10,725.98, and, in accordance with the letters patent, the remaining assets were shared by the children who held the Class A shares: each child received $76,481.70.
+[49] In Beament, the children argued that the value of the 2,000 Class B shares owned by the deceased upon his death was $10,725.98 for the purposes of the Estate Tax Act, whereas the Minister argued that it was $110,000. The only issue was the amount to be entered as the "aggregate taxable value" of the property passing on the death of the deceased in respect of the 2,000 Class B shares, and this question had to be decided on the basis of the definition of the word "value" in subparagraph 58(1)(s)(ii) of that statute, namely:
+58. (1) In this Act,
+. . .
+(s) 'value', . . .
+(iii) in relation to any other property, means the fair market value of such property,
+computed in each case as of the date of the death of the deceased in respect of whose death such value is relevant or as of such other date as is specified in this Act, without regard to any increase or decrease in such value after that date for any reason,
+[50] In Beament, where the validity and good faith of the arrangements were not in question, the appeal was about the simple issue of whether the property in question, passing on the death of the deceased to his estate, was
+(a) the 2,000 Class "B" shares as held by the deceased under the terms of the contract with his children concerning their acquisition, or
+(b) the 2,000 Class "B" shares free from the obligations assumed by the deceased under that contract.
+[51] In Beament, the Supreme Court essentially decided that the FMV of property cannot be determined without having regard to the contractual restrictions or obligations to which the sale of the property is subject. In this regard, Chief Justice Cartwright, stated as follows for the majority, at page 687:
+Once it is established (and it has been conceded) that the contract binding the deceased and his executors to have the company wound up was valid, the real value of the shares cannot be more than the amount which their holder would receive in the winding-up. To suggest that they have in fact any other value would be altogether unrealistic. When the true value of the shares in the circumstances which exist is readily ascertainable, I can find nothing in the Act that requires the computation of the value they would have had under completely different circumstances followed by an inquiry as to whether any deductions should be made from that value.
+It would, of course, be within the power of Parliament to enact that an asset of a deceased person which in fact could produce only $10,725.98 for his estate should be valued for purposes of taxation at ten times that amount but, in my opinion, it would require clear and unambiguous words to bring about such a result. Nowhere in the words of the statute can I find the expression of such an intention applicable to the facts of the case at bar.
+[52] The Supreme Court of Canada's holding was followed in J.J. West Estate v. Minister of Finance of British Columbia,[7] Huron Steel Fabricators (London) Ltd. v. Minister of National Revenue,[8] and, more recently, Lockhart v. The Queen,[9] where Chief Justice Bowman also recognized that the determination of the FMV of property has to take into account the contractual obligations that are extraneous to the property itself.
+[53] As for the Respondent's argument that the FMV of Parcels 1 and 2 must be determined on the basis of the assumption that the Company does not respect its contractual obligations under the Agreement and on the assumption that the third party who acquires the parcels is in good faith, I am of the view that the FMV of property must not be established on the basis of the assumption that the seller would do something that would make it civilly liable. The comments of Chief Justice Cartwright in Beament, at pages 687-88, are very cogent in this regard and are therefore worth quoting:
+Argument was addressed to us on the question whether if the executors, in breach of the terms of the contract of the deceased with his children and of the provision in para. 15 of his Will, had transferred the 2,000 shares to a purchaser for value who took either with or without notice, such purchaser would have been entitled to hold the shares free from the obligation to cause the company to be wound up. I do not find it necessary to consider this question. It is clear that the contract to cause the company to be wound up was one specifically enforceable in a suit by the holders of the A shares against the executors. When they did neither, it is irrelevant to consider what result would have flowed from the executors acting in breach of contract or in breach of trust. It would, I think, be improper to compute the fair market value of an asset on the assumption that the vendor in making a sale would be guilty of intentional wrong-doing; I find nothing in the Act which compels the Court to make such an assumption.
+[54] Consequently, if I am to follow the Supreme Court's holding in Beament, I must find that the FMV of Parcels 1 and 2 as at November 21, 1999, could not be higher than the price contemplated in the Agreement. Consequently, the sale of Parcels 1 and 2 to the Appellants did not give rise to a capital gain for the Company, since the selling price set out in the Agreement was equal to the cost of acquisition.
+[55] The Company's appeal is accordingly allowed.
+Principal residence
+[56] The third issue that I will analyse is as follows: Did the Minister correctly add to Mr. Boulet's income for the 2002 taxation year, the amount of $12,449 as a capital gain by reason of the sale of the Residence in 2002? In other words, the issue is whether Mr. Boulet could benefit from the principal residence exemption in respect of the basement of the Residence when the Residence was sold in 2002.
+[57] Section 54 of the Act defines "principal residence" as follows:
+"principal residence" of a taxpayer for a taxation year means a particular property that is a housing unit, a leasehold interest in a housing unit or a share of the capital stock of a co-operative housing corporation acquired for the sole purpose of acquiring the right to inhabit a housing unit owned by the corporation and that is owned, whether jointly with another person or otherwise, in the year by the taxpayer, if
+(a) where the taxpayer is an individual other than a personal trust, the housing unit was ordinarily inhabited in the year by the taxpayer, by the taxpayer's spouse or common-law partner or former spouse or common- law partner or by a child of the taxpayer,
+. . .
+[Emphasis added.]
+[58] Since the Act does not define the word "logement" [housing unit], we must, in my view, use the ordinary and grammatical meaning of the word. The Petit Robert defines the word "logement" as follows:[10]
+[TRANSLATION]
+. . . 2. Premises used for living; specialized A part of a house or building in which someone ordinarily resides . . .
+[59] The term equivalent to "logement" in the English version of the Act is "housing unit", which the Dictionary of Canadian Law defines as follows:[11]
+A unit that provides therein living, sleeping, eating, food preparation and sanitary facilities for one or more persons, with or without essential facilities shared with other housing units.
+[60] In the case at bar, the evidence discloses that the basement was a housing unit separate from the two upper floors of the Residence; it had four and a half rooms, including a kitchenette, a bedroom and a bathroom. I should also note that the basement was accessible only through an exterior door and had its own municipal address: 183 Villandry Road. It is therefore difficult to consider the two upper floors and the basement a single housing unit within the meaning of section 54 of the Act.
+[61] Since the residence had two housing units, the Appellant had to show, on a balance of probabilities, that, in 2002, he ordinarily inhabited not only the two upper floors, but the basement as well. The only evidence supplied by Mr. Boulet in this regard was his testimony that his two children occasionally used the basement to watch television. In my view, what that evidence clearly shows is that Mr. Boulet did not ordinarily inhabit the basement during the 2002 taxation year. Consequently, Mr. Boulet could not claim the principal residence exemption in respect of the basement of the Residence when the residence was sold in 2002.
+[62] I must now examine the question of the penalty imposed on Mr. Boulet under subsection 163(2) of the Act with regard to the amount of $12,449 for the 2002 taxation year. The burden is on the Respondent to prove that a penalty should be imposed. In Venne v. Canada (Minister of National Revenue), [1984] F.C.J. No. 314 (QL), Justice Strayer discussed the degree of negligence necessary for the imposition of the penalty. Gross negligence must be interpreted to mean a degree of negligence tantamount to intentional acting, an indifference as to whether the Act is complied with or not.
+[63] In the instant case, the evidence discloses as follows:
+(i) Mr. Boulet has been a building contractor since 1982.
+(ii) Mr. Boulet is the principal shareholder of Les entreprises Jean-Pierre Boulet Inc., which is specialized in construction, and he holds 50% of the company that operated a land development business.
+(iii) Mr. Boulet had a construction permit, and, on this basis, he took classes from the Commission de la construction du Québec regarding the administrative and tax aspects of construction.
+(iv) The company of which he was a director, and 50% of whose shares he held, failed to file its income tax returns for the years 2000, 2001 and 2002 even though it made several land sales during those years.
+(v) Mr. Boulet failed to report the capital gain from the sale of the Residence in his 2002 income tax return.
+(vi) Mr. Boulet’s almost systematic modus operandi consisted in buying land, building expensive houses on it, living in them for a while and then selling them.
+(vii) Mr. Boulet built the Residence so that it would comprise two separate housing units. The evidence also showed that he assigned each of these housing units a separate municipal address. Lastly, I would reiterate that the evidence disclosed that he sold the Residence on the basis that it comprised two separate units.
+[64] In the light of the evidence submitted, I find it more probable than improbable that Mr. Boulet was aware not only of his duty to report, for the 2002 taxation year, the capital gain resulting from the sale of the Residence (regardless of whether he was entitled to the principal residence exemption or not) but also of the fact that he was not entitled to that exemption in respect of the basement of the Residence because he never ordinarily inhabited that basement. Indeed, it cannot be otherwise since Mr. Boulet is too knowledgeable about real estate taxation. I am convinced that he failed to report the capital gain in order to avoid any questioning by the Minister about his occupancy of the Residence's basement. When he was questioned by the Minister about that occupancy, he quite simply tried to get the Minister to believe that he did not report the capital gain because he thought that a taxpayer did not have to report taxable gains from the sale of a residence that he ordinarily inhabited, since that capital gain was exempt in any event. The fact that the Company did not file its income tax returns for the years 2000, 2001 and 2002 (until the Minister demanded that it do so) has also convinced me that Mr. Boulet was indifferent as to whether the Act was complied with or not. Taking all these facts into consideration, I find that, in the case at bar, there was a sufficient degree of negligence to warrant the imposition of a penalty under subsection 163(2) of the Act in the amount of $12,449.
+[65] For these reasons, Mr. Boulet's appeal against the reassessment made by the Minister for his 2002 taxation year is dismissed.
+[66] Since these appeals were heard on common evidence, I am awarding a single set of costs to the Appellants.
+Signed at Ottawa, Canada, this 28th day of September 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 10th day of March 2010.
+François Brunet, Revisor
+CITATION: 2009 TCC 261
+COURT FILE NOS.: 2006-3091(IT)G, 2006-3092(IT)G,
+2006-3093(IT)G
+STYLE OF CAUSE: JEAN-PIERRE BOULET, 9070-0659 QUÉBEC INC., SERGE OUELLET and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: July 8, 2008
+AMENDED REASONS FOR
+JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: September 28, 2009
+APPEARANCES:
+Counsel for the Appellants:
+Serge Fournier
+Counsel for the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Serge Fournier
+Firm: BCF, LLP
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit I-3, tab 9.
+[2] See page 80 of the transcript.
+[3] See page 78 of the transcript.
+[4] Robertson v. Canada, [1990] 2 F.C. 717 (C.A.).
+[5] Henley v. Canada, 2007 FCA 370, [2007] F.C.J. No. 1566 (QL).
+[6] Beament v. Minister of National Revenue, [1970] S.C.R. 680.
+[7] [1976] C.T.C. 313 (B.C.S.C.).
+[8] [1974] C.T.C. 889, Docket T-3312-71, December 20, 1974.
+[9] 2008 TCC 156 (T.C.C.).
+[10] Le Petit Robert : Dictionnaire alphabétique et analogique de la langue française, 2006, « Logement ».
+[11] Daphne A. Dukelow, The Dictionary of Canadian Law, 3d ed. (Toronto: Carswell, 2004), under "housing unit".

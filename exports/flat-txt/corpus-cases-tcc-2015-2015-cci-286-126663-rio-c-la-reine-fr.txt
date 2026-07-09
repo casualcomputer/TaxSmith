@@ -1,0 +1,140 @@
+Title: Rio  c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/126663/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-286-126663-rio-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-11-19
+
+# Rio  c. La Reine
+
+- Citation: 2015 CCI 286
+- Decision date: 2015-11-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2687, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rio c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-11-19
+Référence neutre
+2015 CCI 286
+Numéro de dossier
+2014-3589(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-3589(IT)I
+ENTRE :
+YVES ANDRÉ RIO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 15 juillet 2015, à Toronto (Ontario).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Rita Araujo
+JUGEMENT
+L’appel à l’encontre des nouvelles cotisations datées du 28 octobre 2013 concernant les années d’imposition 2010 et 2011 et de la cotisation initiale datée du 31 octobre 2013, établies en vertu de la Loi de l’impôt sur le revenu par le ministre du Revenu national est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Montréal, Canada, ce 19e jour de novembre 2015.
+« Réal Favreau »
+Juge Favreau
+Référence : 2015 CCI 286
+Date : 20151119
+Dossier : 2014-3589(IT)I
+ENTRE :
+YVES ANDRÉ RIO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L’appelant a logé un appel devant cette Cour afin de contester la validité de nouvelles cotisations datées du 28 octobre 2013 concernant les années d’imposition 2010 et 2011 et de la cotisation initiale datée du 31 octobre 2013 concernant son année d’imposition 2012, lesquelles ont été établies en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) dans sa version applicable aux années d’imposition en litige (ci-après la « Loi »), par le ministre du Revenu national (ci-après le « ministre »).
+[2] En vertu des nouvelles cotisations datées du 28 octobre 2013, le ministre a refusé à l’appelant des déductions pour dépenses d’emploi aux montants de 30 300 $ pour chacune des années d’imposition 2010 et 2011.
+[3] En vertu de la cotisation initiale datée du 31 octobre 2013, le ministre a refusé à l’appelant la déduction pour dépenses d’emploi au montant de 30 750 $ pour l’année d’imposition 2012.
+[4] Pour fixer l’impôt payable par l’appelant pour les années d’imposition 2010, 2011 et 2012, le ministre a tenu pour acquis les faits suivants :
+a) Au cours des années d’imposition en litige, l’appelant était à l’emploi du ministère du Revenu du Québec, puis de l’Agence du revenu du Québec (ci-après, l’« employeur »);
+b) L’appelant travaille aux bureaux de son employeur situés à Toronto sans interruption depuis au moins l’année 2005;
+c) Depuis le 9 août 2004, l’appelant est locataire d’un appartement situé au 1003-62, rue Wellesley Ouest à Toronto;
+d) L’appelant occupe cet appartement avec sa conjointe;
+e) Le loyer mensuel payé par l’appelant pour ce logement s’élevait à 2 525 $ par mois pour la période du 1er octobre 2009 au 30 juin 2012, et de 2 600 $ par mois pour la période du 1er juillet 2012 au 30 septembre 2014;
+f) En produisant ses déclarations de revenus pour les années d’imposition 2010, 2011 et 2012, l’appelant a déclaré les revenus d’emploi suivants :
+i) 2010 : 133 564 $, comprenant 74 129 de revenus d’emploi, ainsi qu’un montant de 59 435 $ reçu de son employeur à titre d’allocations et avantages imposables;
+ii) 2011 : 135 769 $, comprenant 75 204 $ de revenus d’emploi, ainsi qu’un montant de 60 528 $ reçu de son employeur à titre d’allocations et avantages imposables;
+iii) 2012 : 136 534 $, comprenant 75 623 $ de revenus d’emploi, ainsi qu’un montant de 60 900 $ reçu de son employeur à titre d’allocations et avantages imposables;
+g) Les montants respectifs de 59 432 $, 60 528 $ et 60 900 $ reçus par l’appelant au cours des années d’imposition 2010, 2011 et 2012 ont été déclarés par l’employeur de l’appelant sur des feuillets T4 (État de la rémunération payée) à titre d’allocations et avantages imposables;
+h) Les montants respectifs de 59 432 $, 60 528 $ et 60 900 $ reçus par l’appelant de son employeur au cours des années d’imposition en litige incluent les frais afférents au coût de son logement à Toronto, ainsi qu’une provision pour impôts additionnels reliée à cette allocation;
+i) En produisant ses déclarations de revenus pour les années d’imposition 2010, 2011 et 2012, l’appelant a réclamé une déduction correspondant aux montants respectifs de 30 300 $, 30 300 $ et 30 750 $ à titre d’autres dépenses d’emploi;
+j) Ces montants réclamés par l’appelant à titre de dépenses d’emploi correspondent aux loyers payés par ce dernier pour la location de son appartement à Toronto durant les années d’imposition en litige.
+[5] À l’ouverture de l’audience, l’appelant a modifié les conclusions recherchées. Il a abandonné la contestation de la déductibilité des dépenses reliées à son emploi et il invoque maintenant que l’allocation pour logement qu’il a reçue de son employeur n’aurait pas dû être incluse dans le calcul de son revenu selon le paragraphe 6(6) de la Loi.
+[6] Le paragraphe 6(6) de la Loi prévoit ce qui suit :
+Emploi sur un chantier particulier ou en un endroit éloigné. Malgré le paragraphe (1), un contribuable n'inclut, dans le calcul de son revenu tiré, pour une année d'imposition, d'une charge ou d'un emploi, aucun montant qu'il a reçu, ou dont il a joui, au titre, dans l'occupation ou en vertu de sa charge ou de son emploi et qui représente la valeur des frais — ou une allocation (n'excédant pas un montant raisonnable) se rapportant aux frais — qu'il a supportés pour :
+a) sa pension et son logement, pendant une période donnée :
+(i) soit sur un chantier particulier qui est un endroit où le travail accompli par lui était un travail de nature temporaire, alors qu'il tenait ailleurs et comme lieu principal de résidence, un établissement domestique autonome :
+(A) d’une part, qui est resté à sa disposition pendant toute la période et qu'il n'a pas loué à une autre personne,
+(B) d’autre part, où on ne pouvait raisonnablement s'attendre à ce qu'il retourne quotidiennement étant donné la distance entre l'établissement et le chantier,
+(ii) soit à un endroit où on ne pouvait raisonnablement s'attendre à ce qu'il établisse et tienne un établissement domestique autonome, étant donné l'éloignement de cet endroit de toute agglomération,
+si la période au cours de laquelle son travail l'a obligé à s'absenter de son lieu principal de résidence ou à être sur ce chantier ou à cet endroit était d'au moins 36 heures;
+b) le transport, au titre d'une période visée à l'alinéa a) pendant laquelle il a reçu de son employeur la pension et le logement ou une allocation raisonnable au titre de la pension et du logement, entre :
+(i) soit son lieu principal de résidence et le chantier particulier visés au sous-alinéa a)(i),
+(ii) soit l'endroit mentionné au sous-alinéa a)(ii) et un endroit au Canada ou un endroit dans un pays où le contribuable est employé.
+[7] L’appelant a témoigné à l’audience. Monsieur Rio est un fonctionnaire du ministère du Revenu du Québec (le « MRQ ») qui a accepté d’être muté au bureau de Toronto pour y exercer ses fonctions de vérificateur de grandes entreprises. Il a déménagé à Toronto avec son épouse en mai 1992 et il y est demeuré jusqu’au 1er août 1999, année au cours de laquelle tous les vérificateurs oeuvrant à Toronto ont été rapatriés au Québec. De 1999 à 2004, l’appelant a travaillé au bureau de Montréal du même ministère. En 2004, il est assigné à nouveau par son employeur au bureau de Toronto. L’appelant et sa conjointe ont déménagé à nouveau à Toronto.
+[8] Au cours des années d’imposition 2004 à 2010, l’appelant travaillait toujours pour le MRQ en vertu d’un contrat initial de trois ans renouvelable tous les deux ans pour une période de deux ans. Selon l’appelant, le contrat pouvait être annulé en tout temps. Au cours de cette période, l’appelant a maintenu son statut de résident du Québec pour ne pas être imposé sur l’indemnité pour le logement à Toronto à laquelle il avait droit.
+[9] À partir du 1er avril 2011, l’appelant est devenu un employé de l’Agence du Revenu du Québec (l’« ARQ ») et son contrat a été renouvelé tous les deux ans quoiqu’il pouvait être annulé en tout temps. À partir de 2011, l’appelant et sa conjointe sont devenus des résidents de l’Ontario.
+[10] De 2004 à 2012, l’appelant a obtenu une indemnité de logement prévue à la Directive concernant les indemnités et les allocations versées aux fonctionnaires affectés à l’extérieur du Québec. Malgré le changement d’employeur le 1er avril 2011, la directive applicable aux années 2004 à 2010 a continué d’être appliquée après le 1er avril 2011.
+[11] Lors de son témoignage, monsieur Rio a mis en preuve les lettres de renouvellement de son contrat d’emploi à Toronto pour les années 2007 à 2012 de même qu’un T4A émis par Revenu Québec pour l’année 2008 indiquant que les « autres revenus » apparaissant à la case 28 n’étaient imposables qu’au fédéral seulement.
+[12] Lorsque l’appelant a déménagé à Toronto en 2004, il a signé un premier bail le 9 août 2004 pour un appartement sis au 62, rue Wellesley West à Toronto, lequel a été renouvelé à plusieurs reprises jusqu’au 30 septembre 2014. Le loyer mensuel payé était de 2 525 $ pour la période du 1er octobre 2009 au 30 juin 2012 et de 2 600 $ pour la période du 1er juillet 2012 au 30 septembre 2014.
+[13] Malgré leur déménagement à Toronto en 2004, l’appelant et sa conjointe ont gardé la résidence à Montréal dont ils étaient co-propriétaires. Ils y ont effectué des rénovations et ils l’ont mise en location. Le revenu de location a été dûment déclaré.
+[14] Lors du contre-interrogatoire, l’intimée a mis en preuve les T-4 émis par l’Agence du Revenu du Canada pour les années d’imposition 2010 et 2012 montrant un montant de 59 435,54 $ reçu en 2010 à titre d’autres allocations et avantages imposables et un montant de 60 826,21 $ reçus en 2012 sous la même rubrique. Les déclarations de revenu fédérales de l’appelant et de sa conjointe pour les années d’imposition 2011 et 2012 ont également été mises en preuve.
+Analyse
+[15] La seule question à considérer est si les montants reçus par l’appelant de son employeur au cours des années d’imposition 2010, 2011 et 2012, relatifs à son logement à Toronto, constituent une allocation imposable devant être incluse dans le calcul du revenu de l’appelant, tiré d’une charge et d’un emploi.
+[16] L’alinéa 6(1)a) de la Loi prévoit que la valeur de la pension, du logement et de tout autre avantage que reçoit ou dont jouit le contribuable, ou une personne avec laquelle il a un lien de dépendance, au cours de l’année au titre, dans le cadre ou en raison de la charge ou de l’emploi du contribuable, à l’exception des avantages énumérés aux sous-alinéas (i) à (vi) qui ne s’appliquent pas dans le présent cas, sont à inclure dans le calcul du revenu du contribuable tiré, pour l’année d’imposition donnée, d’une charge ou d’un emploi.
+[17] Il ne fait pas de doute dans ce cas-ci que l’indemnité pour logement reçue par l’appelant au cours de chacune des années d’imposition 2010, 2011 et 2012 devait être incluse dans le calcul du revenu de l’appelant pour chacune des années d’imposition en question. Des T-4 lui étaient émis à cet effet par son employeur et l’appelant a lui-même ajouté l’indemnité pour logement dans ses déclarations de revenu.
+[18] Monsieur Rio a contesté une cotisation établie par le ministre à l’égard de l’année d’imposition 1999 qui avait refusé la déduction qu’il avait réclamée dans le calcul de son revenu d’une dépense de 10 5000 $ ayant trait au loyer qu’il a versé pour un logement à Toronto. Le juge Archambault de notre Cour a alors rejeté l’appel de monsieur Rio et a conclu que l’indemnité qu’il a reçue de son employeur constituait une allocation pour frais personnel et de subsistance qui devait être incluse dans son revenu en vertu de l’alinéa 6(1)a) de la Loi.
+[19] La décision du juge Archambault a été confirmée par la Cour d’appel fédérale dans une décision rendue le 24 octobre 2003 (2003 CAF 396).
+[20] Il ne reste maintenant qu’à déterminer si l’appelant pouvait se prévaloir de l’exception énoncée au paragraphe 6(6) de la Loi.
+[21] Malheureusement pour l’appelant, le paragraphe 6(6) de la Loi ne peut lui être d’aucun secours. Le bureau de Toronto du ministère du Revenu du Québec ne peut être assimilé à un chantier particulier qui est un endroit où le travail accompli par l’appelant était un travail de nature temporaire. Contrairement aux prétentions de l’appelant, je ne crois pas que le travail de l’appelant était de nature temporaire. Le contrat initial était d’une durée de trois ans et les contrats subséquents étaient renouvelables tous les deux ans pour une durée de deux ans. La durée du contrat de travail de l’appelant auprès du MRQ et de l’ARQ a été de onze ans sans interruption, de 2004 à 2015.
+[22] De plus, il y a lieu de souligner que monsieur Rio ne détenait pas ailleurs comme lieu principal de résidence un établissement domestique autonome, qui est resté à sa disposition pendant toute la période et qu’il n’a pas loué à une autre personne et où on ne pouvait raisonnablement s’attendre à ce qu’il retourne quotidiennement étant donné la distance entre l’établissement et le chantier. Cette condition ne pouvait certainement pas être rencontrée par l’appelant parce que le lieu principal de résidence de l’appelant était à Toronto, soit dans la même ville que celle où était situé le bureau de son employeur. Par conséquent, on pouvait s’attendre à ce qu’il puisse retourner quotidiennement à son lieu principal de résidence. Dans le cas présent, il n’existe aucun facteur d’éloignement entre le lieu de travail et le lieu principal de résidence de l’appelant.
+[23] Le fait que l’appelant soit demeuré propriétaire de sa résidence à Montréal n’est pas pertinent aux fins du présent litige puisqu’il l’a louée pendant qu’il travaillait à Toronto.
+[24] Pour l’ensemble de ces motifs, l’appel de l’appelant est rejeté.
+Signé à Montréal, Canada, ce 19e jour de novembre 2015.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2015 CCI 286
+Nº DU DOSSIER DE LA COUR :
+2014-3589(IT)I
+INTITULÉ DE LA CAUSE :
+Yves André Rio et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+le 15 juillet 2015
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 19 novembre 2015
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Rita Araujo
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

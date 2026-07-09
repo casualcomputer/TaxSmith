@@ -1,0 +1,508 @@
+---
+title: "Victoria's Five Star Cleaning Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/367249/index.do"
+last_modified: "2019-04-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 73"
+citation2: ""
+neutral_citation: "2019 TCC 73"
+decision_date: "2019-04-03"
+language: "en"
+item_id: "367249"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4322
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:16:38.243000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1243331cb7553e06e6de5e46d46f1234d6d9e04fb2872545c48be4970d428977"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Victoria's Five Star Cleaning Ltd. v. M.N.R.
+
+- Citation: 2019 TCC 73
+- Decision date: 2019-04-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4322, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Victoria's Five Star Cleaning Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-04-03
+Neutral citation
+2019 TCC 73
+File numbers
+2017-3099(CPP), 2017-3101(EI)
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2017-3099(CPP)
+BETWEEN:
+VICTORIA’S FIVE STAR CLEANING LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on common evidence with the appeal of Victoria’s Five Star Cleaning Ltd. (2017-3101(EI)) on February 6 and 7, 2019, at Victoria, British Columbia, and on February 13, 2019, at Ottawa, Ontario
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Agent for the Appellant:
+David Walsh
+Counsel for the Respondent:
+Kiel Walker
+JUDGMENT
+The appeal pursuant to subsection 28(1) of the Canada Pension Plan is allowed, without costs, and the assessment, notice of which is dated February 24, 2016, and which was confirmed by the Minister of National Revenue’s decision dated June 21, 2017, is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 3rd day of April 2019.
+“Dominique Lafleur”
+Lafleur J.
+Docket: 2017-3101(EI)
+BETWEEN:
+VICTORIA’S FIVE STAR CLEANING LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on common evidence with the appeal of Victoria’s Five Star Cleaning Ltd. (2017-3099(CPP)) on February 6 and 7, 2019, at Victoria, British Columbia, and on February 13, 2019, at Ottawa, Ontario
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Agent for the Appellant:
+David Walsh
+Counsel for the Respondent:
+Kiel Walker
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed, without costs, and the assessment, notice of which is dated February 24, 2016, and which was confirmed by the Minister of National Revenue’s decision dated June 21, 2017, is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 3rd day of April 2019.
+“Dominique Lafleur”
+Lafleur J.
+Citation: 2019 TCC 73
+Date: 20190403
+Dockets: 2017-3099(CPP)
+2017-3101(EI)
+BETWEEN:
+VICTORIA’S FIVE STAR CLEANING LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Lafleur J.
+I. OVERVIEW
+[1] Victoria’s Five Star Cleaning Ltd. (the “Appellant”) was in the business of providing commercial and residential janitorial services in and around Victoria, B.C., during the relevant period. In order to render its services, the Appellant hired some workers to perform various cleaning services.
+[2] One of the workers, Mr. Wael Fawzi, requested a ruling on the status of his employment with the Appellant. The Rulings Division of the Canada Revenue Agency notified Mr. Fawzi and the Appellant that Mr. Fawzi was an employee engaged in insurable employment and pensionable employment with the Appellant within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (the “EI Act”) and paragraph 6(1)(a) of the Canada Pension Plan (the “CPP”) for the period from January 1, 2014, to April 20, 2015.
+[3] A trust account examination was then requested on the Appellant’s account and as a result, the Appellant was assessed by the Minister of National Revenue (the “Minister”) for employment insurance premiums and Canada Pension Plan contributions on the earnings of 32 workers under the EI Act and 22 workers under the CPP (as listed in Schedules A and B) (collectively, the “Workers”), on the basis that all of the workers hired by the Appellant during the period from January 1, 2014, to December 31, 2014 (the “Period”) were employees of the Appellant who were engaged in insurable and pensionable employment during the Period.
+[4] The Appellant was assessed on February 24, 2016, in the amount of $10,001.59 under the EI Act and $14,000.52 under the CPP (plus penalties and interest) for the Period. The Minister confirmed these assessments on June 21, 2017, and the Appellant has appealed to this Court. The Appellant does not dispute the CPP contributions of $1,472.24 that were attributed to the sole shareholder and director of the Appellant, Mr. Bekim Ademi, which thus reduces the disputed CPP amount from $14,000.52 to $12,528.28. Both appeals were heard on common evidence.
+[5] Mr. Oscar Valencia, who also worked for the Appellant during the Period, filed a notice of intervention with the Court. Despite his intervention, he did not provide arguments and merely acted as a witness for the Appellant.
+[6] The Appellant is of the view that the Workers were engaged under contracts for services as independent contractors. The Minister’s decisions were to the contrary, that is, that the Workers were engaged in contracts of service, and hence were employees of the Appellant.
+II. THE ISSUE
+[7] The issue is whether the Workers were employed in insurable and pensionable employment with the Appellant during the Period within the meaning of paragraph 5(1)(a) of the EI Act and paragraph 6(1)(a) of the CPP.
+III. THE LAW AND THE CASE LAW
+EI Act
+5(1) Types of insurable employment — Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+5(1) Sens de emploi assurable — Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]
+CPP
+6(1) Pensionable employment — Pensionable employment is
+(a) employment in Canada that is not excepted employment;
+. . .
+6(1) Emplois ouvrant droit à pension — Ouvrent droit à pension les emplois suivants :
+a) l’emploi au Canada qui n’est pas un emploi excepté;
+[…]
+[Emphasis added.]
+[8] The EI Act and the CPP do not define the term “employment”. One has to examine the common law principles in order to make that determination.
+[9] In order to determine whether a person is an employee engaged in a contract of service or an independent contractor engaged in a contract for services, this Court has to ascertain the whole relationship between the parties (Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553, 87 DTC 5025 [Wiebe Door]). The central question will be to determine “whether the person who has been engaged to perform the services is performing them as a person in business on his own account” (671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59 at para. 47, [2001] 2 S.C.R. 983 [Sagaz]).
+[10] In Sagaz, above, the Supreme Court of Canada agreed with the approach taken by the Federal Court of Appeal in Wiebe Door, above, where Justice MacGuigan referred to the various factors which have to be taken into account to make that determination, and summarized the relevant principles as follows:
+[47] . . . In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+[48] It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[Emphasis added.]
+[11] In addressing the central question, the Federal Court of Appeal established a two-step approach to be followed in an analysis of this nature (1392644 Ontario Inc. (Connor Homes) v. Canada (National Revenue), 2013 FCA 85 at para. 39 and following, [2013] F.C.J. No. 327 (QL).
+[12] The first step consists of ascertaining the subjective intent of the parties to the relationship. For determining the intent of the parties, one should examine the written contract between the parties as well as the actual behaviour of the parties: were invoices submitted for services rendered; did the worker register for sales taxes; how did the worker file his income tax returns, etc.?
+[13] The second step consists of verifying that the various factors outlined in Wiebe Door, above, are consistent with the subjective intent of the parties.
+IV. THE FACTS
+[14] Mr. Walsh represented the Appellant at the hearing. He testified that most of the Appellant’s work was obtained from Alpine Building Maintenance Inc. (“Alpine”), but some work came from other sources. For many years, companies such as banks and grocery stores contracted Alpine to provide janitorial services to save themselves the time and money involved in staffing their own janitorial workers. Alpine fulfilled these contracts by subcontracting with smaller janitorial services businesses such as the Appellant. Mr. Walsh also provided testimony regarding his experience in the janitorial industry and specifically how Alpine interacted with subcontractors such as the Appellant. Mr. Walsh had previously been an employee of Alpine.
+[15] Mr. Walsh testified that Alpine would bid on contracts and then award those contracts to its subcontractors. The business was competitive, which kept contract prices low and profit margins tight. Mr. Walsh believed that the Appellant was not as sophisticated as Alpine. Mr. Ademi had not been trained by Alpine in the legal implications or tax consequences of the Appellant’s relationships with the Workers. Furthermore, Alpine had certain requirements of their subcontractors, such as requiring that they represent themselves to clients as contractors of Alpine. Mr. Walsh suggested that Alpine wanted to avoid confusion over who held the contract with the clients.
+[16] The Respondent admitted that the Appellant had for some time obtained contracts from Alpine for the performance of cleaning services at various businesses located in Victoria, B.C. Furthermore, the Respondent also admitted that the Workers:
+were free to perform the required cleaning services at any time, provided said times were convenient for the businesses being cleaned, which in all cases included the time windows when the businesses were closed;
+were not required to work any specified number of hours, provided that the cleaning services were completed as stipulated by their respective contracts satisfactorily and at the required intervals;
+earned a fixed monthly price for cleaning contracts regardless of the number of hours worked or the number of workers performing the work; and
+risked having their contract payment reduced by $45 for instances of complaints of unsatisfactory work.
+[17] Mr. Ademi testified that the Appellant rendered janitorial services to various businesses, which included banks, stores, museums and offices. The Appellant obtained contracts from Alpine and then subcontracted with the Workers to perform the contracts. Mr. Ademi testified that he operated his business using subcontractors because he wanted to provide flexibility, which was requested and appreciated by the Workers. Most of the Workers had full‑time jobs during the day and would render the services to the Appellant after the close of business hours; the payment received from the Appellant was extra money for them. He made this decision because of his previous experience as a subcontractor in the janitorial industry. Through the course of his business, Mr. Ademi treated the Workers as subcontractors rather than employees and explained the benefits of this arrangement to prospective workers very clearly at the time of hiring.
+[18] Mr. Ademi found the Workers by word of mouth and advertising on the internet. Prior to contracting with the Workers, he would arrange meetings at the job site or elsewhere. There was no formal interview process. Mr. Ademi was content to hire based on referral or prior janitorial experience.
+[19] A Subcontractor Service Agreement was executed with the Workers in most cases. The Workers were hired for an indeterminate period of time, but in some cases a Worker was hired to complete a specific job. The Workers were paid a fixed monthly amount for the cleaning services rendered on each contract that they performed. The amount of work necessary to fulfil a contract varied. Some Workers carried multiple contracts with the Appellant. The Subcontractor Service Agreements referred to the Workers as subcontractors, and provided specifically that the Appellant would not be liable or responsible for the collection, withholding or remittance of any federal, provincial or local taxes, duties, CPP, unemployment insurance, etc. on behalf of the Workers. In keeping with the agreements, the Appellant did not make payroll deductions in respect of the Workers. The Workers received T4A slips for tax purposes. They did not receive vacation pay or any benefits from the Appellant.
+[20] Mr. Ademi testified that he did not supervise the Workers and did not track their attendance through timesheets or schedules. The Appellant did not have policies or procedures separate from the Subcontractor Service Agreement. There was no training program; Mr. Ademi would typically go with the Workers on their first day to explain the client’s needs and to indicate where the janitorial supplies were located. Mr. Ademi did not attend the sites to manage the Workers. He visited the sites during business hours to maintain client relationships and after hours to complete heavy duty work.
+[21] According to Mr. Ademi, the Workers could decide which contracts they wished to perform, but they could not negotiate the monthly payment. If a Worker was unwilling to perform the contract at the price offered, the Appellant would find a different Worker to complete the contract. There was no bidding competition between the Workers for the jobs. The Workers could make their own schedules so long as the work was completed as required by the clients. The Workers were free to hire anyone they wished to assist them in fulfilling the contracts. This would allow them to complete their work more quickly so that they could take on more contracts. The amount of time it took to complete a contract would vary. New workers would typically take longer to complete contracts but they would become more efficient over time.
+[22] In most cases, the Workers needed security clearances from the RCMP. The Subcontractor Service Agreement stipulated that subcontractors were responsible for ensuring that anyone they hired to assist them in their janitorial work had a valid RCMP security clearance. However, in practice, the Appellant was responsible for ensuring that the Workers had the appropriate security clearance, and the Workers would bring their own assistants, who had not obtained security clearances.
+[23] According to Mr. Ademi, the Workers were responsible for the quality of their work. A communication book was provided for each site and the Workers would use it to communicate directly with the clients. If a client had complaints about services rendered by a Worker, the manager of the client would put a note in the communication book and the matter would be settled between the manager and the Worker. If complaints were of a more serious nature, then the Appellant would be involved. The most serious complaints would go through the main office of Alpine, and Alpine would then communicate the issue to the Appellant. The Appellant expected Workers to remedy unsatisfactory work on their own time and at their own expense. If the Worker did not remedy their unsatisfactory work, the Subcontractor Service Agreement provided for a $45 penalty. Repeated instances of deficient work could result in the termination of the contract.
+[24] The Subcontractor Service Agreement required the Workers to provide an invoice to the Appellant on the last working day of each month. However, Mr. Ademi testified that none of the Workers followed this procedure. The Appellant would simply pay the Workers their monthly contract prices every month.
+[25] The Appellant carried liability insurance for itself. The Subcontractor Service Agreement required Workers to obtain their own liability insurance. However, Mr. Ademi testified that in reality, the liability insurance premiums were too expensive for many of the Workers, so the Appellant’s policy was structured to provide coverage to the Workers as well. The insurance policy was not provided to the Court.
+[26] Mr. Ademi testified that some of the Workers had incorporated their businesses or had obtained business licences. There was no other evidence presented to this effect. The other witnesses testified that they did not incorporate or register their businesses.
+[27] The Workers were responsible for finding a replacement if they could not perform their contracts. Mr. Ademi testified that the Workers made arrangements with the other Workers or hired assistants to cover their contracts when they were not available.
+[28] The Subcontractor Service Agreement stipulated that the Workers were to use cleaning products provided by the Appellant. However, Mr. Ademi testified that all the tools and supplies (including chemicals, vacuum cleaners, brooms, mops, buckets, dusters, paper towels, and hand soap) were either supplied by the clients or by Alpine. The Appellant did not provide the tools and supplies to the Workers. Furthermore, Mr. Ademi testified that the Workers were free to bring their own tools and supplies. This was permitted because some of the Workers had tools and supplies that would allow them to work more efficiently. In the event that a site did not have the required tools or supplies, the Workers would either notify the manager of the client or the Appellant. The Appellant owned machinery and equipment that Mr. Ademi used to complete heavy duty work. The Workers did not use these tools in the completion of their work because they were not contracted to complete heavy duty work.
+[29] Mr. Ademi testified that the Appellant did not require the Workers to wear uniforms.
+[30] Mr. Oscar Valencia, the intervenor, testified that he was referred to the Appellant to provide cleaning services at a bank for $300 per month. He worked for the Appellant for approximately one year. Mr. Valencia testified that he was a subcontractor—not an employee. He was aware that the Appellant did not make any source deductions for tax, employment insurance, CPP, etc. and that he had to remit his own taxes.
+[31] Mr. Valencia testified that he agreed orally to the terms of the contract and never actually signed the Subcontractor Service Agreement. Mr. Valencia appreciated the flexibility of working as a subcontractor because he was free to attend the work site any time after business hours. Mr. Valencia did not advise Mr. Ademi of his schedule. He also testified that sometimes his brother helped him render the services to the Appellant. He had the alarm passcode for and keys to the bank but he would not allow others to complete his contract if he was not there with them.
+[32] There were occasions when Mr. Valencia was sick and rather than finding someone to cover the contract, he just informed Mr. Ademi. Mr. Valencia never invoiced the Appellant, he did not have a business licence, he did not advertise, he did not have insurance, and he did not charge GST.
+[33] Mr. Valencia testified that Mr. Ademi did not train him; he was simply told to do a good job and his work was inspected on his first day. If the bank was unhappy with the services, the manager would put a note in the communication book or would advise Mr. Ademi. All the tools and supplies needed were located in the janitorial room, but Mr. Valencia brought his own vacuum cleaner because he did not like the equipment on the site. Mr. Valencia testified that if the supplies ran out, he would contact Mr. Ademi.
+[34] Mr. Timothy John Edmonds also testified at the hearing. He worked for the Appellant in 2012–2013, prior to the Period. He executed a Subcontractor Service Agreement with the Appellant in 2012. Mr. Edmonds testified that he read the agreement and Mr. Ademi explained it to him. He rendered cleaning services at various sites after their business hours. His understanding was that he was a subcontractor—not an employee. He hired and paid three persons to help him without asking for Mr. Ademi’s permission.
+[35] Mr. Edmonds testified that he was not sure whether the tools and supplies at each site were provided by the Appellant or Alpine; however, he brought his own tool box and some cloths. Mr. Edmonds contacted the site manager whenever he ever ran out of supplies.
+[36] Mr. Edmonds testified that Mr. Ademi did not tell him how to perform his contracts or that there was a minimum number of hours to work on site. Mr. Edmonds said that Mr. Ademi would show him around each new location before he began providing services at that site. Mr. Edmonds rarely had complaints from clients and only once asked Mr. Ademi for assistance, when he damaged a display of sparkling water bottles.
+[37] Mr. Edmonds received a fixed monthly payment for his services. He testified that he did not negotiate the contract prices, but at his first meeting with Mr. Ademi, he rejected the initial price and was offered a higher price. Despite his characterization of this event, it seems that he was able to negotiate at least one of the contracts. Mr. Edmonds did not invoice the Appellant as required in the Subcontractor Service Agreement.
+[38] Mr. Edmonds testified that he never missed work but he said that if he had been sick he would have called friends to cover for him. Mr. Edmonds stated that while he was a Worker, he did not operate under a business name, he was not registered for GST, he did not have insurance, he did not advertise, and he did not maintain books or records.
+[39] Mr. Wael Fawzi testified for the Respondent. He worked for the Appellant from September 2012 to April 2015. During that period, he also worked at the college that he was attending. Mr. Fawzi responded to an advertisement on the internet and met Mr. Ademi at a grocery store, where he commenced work immediately.
+[40] Mr. Fawzi executed a Subcontractor Service Agreement (Exhibit R-1). He testified that he did not receive a copy of the agreement or any company policies and never received an explanation of his status as a Worker. He knew that he was signing a contract in which he would be a self-employed worker for the Appellant. He testified that he was to clean the grocery store three nights a week for $50 a night. Mr. Fawzi testified that he was looking for a job to pay his bills and that he did not negotiate the price because he was happy to have found work. Mr. Fawzi also contracted with the Appellant to work at a bank for $300–$325 per month and a museum for $500 per month. Mr. Fawzi tried to negotiate the initial price for the bank but Mr. Ademi refused. He asked Mr. Ademi to increase the price after a year of work but that was also refused. Mr. Fawzi also asked for a bonus, which was denied. Mr. Fawzi was paid each month by cheque. He did not submit invoices to the Appellant and did not carry a liability insurance policy.
+[41] Mr. Fawzi testified that he had a bit of cleaning experience and did not receive much training. The first time he worked at a site, Mr. Ademi spent less than an hour explaining what to do and how to use the tools and supplies. His tasks included sweeping, cleaning, taking out the garbage, polishing floors, and using the electric scrubber. Mr. Fawzi stated that Mr. Ademi required him to stay a minimum amount of time at every site. He believed Mr. Ademi was tracking his attendance by viewing when he disarmed and rearmed the alarm system at the work sites.
+[42] Mr. Fawzi acknowledged the existence of a communication book but said that the client would complain directly to Mr. Ademi when there were problems. On a few occasions, the client directly addressed Mr. Fawzi with deficiencies in his work. He testified that it was more common for Mr. Ademi to call him back to the site on the same night to remedy deficiencies. In such instances, Mr. Ademi stayed on site while Mr. Fawzi corrected the deficiencies.
+[43] Mr. Fawzi assumed that the tools and supplies belonged to Mr. Ademi because he owned the Appellant, but admitted in cross-examination that he actually did not know who owned them. If Mr. Fawzi ran out of supplies, he advised Mr. Ademi. The only time Mr. Fawzi provided supplies was on one occasion, when he purchased and was reimbursed for bags.
+[44] Mr. Fawzi never hired his own workers because he thought this was not allowed. He testified that Mr. Ademi covered for him on his days off. He also stated that Mr. Ademi refused to let him take a sick day on the one occasion that he called in sick. Mr. Fawzi never advertised, did not incur expenses, did not register for GST purposes, did not register a business, and did not have insurance.
+[45] Mr. Fawzi testified that he considered himself an employee despite the fact that he had executed a Subcontractor Service Agreement which indicated that he was a subcontractor. Mr. Fawzi said that the accountant who prepared his tax returns in 2014 told him that the Appellant was taking advantage of him. After receiving this information, Mr. Fawzi approached Mr. Ademi and asked to change his agreement to an employment contract, but this was refused. Mr. Fawzi testified that he was not aware of the difference between an independent contractor and an employee at the time he signed the agreement. Mr. Fawzi initialled the Subcontractor Service Agreement at the paragraph that stipulated there would be no payroll deductions. He suggested that his comprehension of English was not sufficient to understand the contract. Mr. Fawzi stopped working for the Appellant because of a disagreement over the reported income that was listed on his T4A slip, which was prepared by Mr. Ademi.
+V. PARTIES’ POSITIONS
+1. The Appellant
+[46] The Workers were independent contractors engaged by the Appellant in contracts for services because they:
+were free to determine how they performed the contracts within the parameters determined by the recipients of the services and operated without the direct supervision of the Appellant;
+had the chance to earn a profit by cleaning efficiently and/or hiring their own workers so that they could handle more contracts, and had full control of their time;
+risked loss if they hired workers at a rate exceeding their contract revenue or performed their services poorly such that they needed to be redone or were subject to penalty;
+used tools and supplies that were provided by the clients and not the Appellant; and
+signed contracts which clearly evidenced that they intended to be independent contractors.
+2. The Respondent
+[47] The Workers were employees engaged in contracts of service and hence engaged by the Appellant in insurable and pensionable employment during the Period, for the following reasons:
+The subjective intention of the Appellant was to subcontract with the Workers as independent contractors but it is unclear whether the Workers intended to be employees or independent contractors; and
+The objective reality is that the Workers were employees because they were controlled by the Appellant, they had no chance of profit or risk of loss, they did not own the tools or supplies and were not in business on their own account.
+VI. ANALYSIS
+1. FIRST STEP: the subjective intent of each party to the relationship
+[48] For the following reasons, I find that, on a balance of probabilities, the subjective intent of each party to the relationship demonstrates that the Workers were independent contractors engaged by the Appellant under a contract for services.
+[49] It is clear from the reading of the Subcontractor Service Agreement that the Appellant intended to hire workers under a contract for services and that the Workers would be independent contractors. Mr. Ademi’s testimony was clear in that his intent was that the Workers would be independent contractors and not employees of the Appellant. Throughout the Subcontractor Service Agreement, the term “subcontractor” was used to refer to the Workers. The agreement provided specifically that no withholding was to be made by the Appellant on payments to the Workers. Further, the evidence showed that T4A slips were issued by the Appellant to the Workers. The agreement also provided that monthly invoices needed to be issued by the Workers; however, the evidence showed that the Workers did not comply with this term. Some paragraphs in the agreement referred to the Workers as employees, but overall, I find that the intent to be inferred from the agreement is consistent with the creation of an independent contractor relationship between the Appellant and the Workers. On the basis of the evidence, I find that any reference to employment in the agreement is simply reflective of Mr. Ademi’s misunderstanding of the specific legal implications of the term. I find Mr. Ademi’s testimony to be credible and reliable in that respect.
+[50] I find that the testimony of Mr. Edmonds and Mr. Valencia indicate that they were aware of the relationship contemplated by the agreement and that their intent was to be hired by the Appellant as independent contractors. Both witnesses testified that they understood that the relationship would provide benefits such as the ability to control their schedules and hire helpers if needed or desired. Mr. Ademi testified that he explained the terms of the agreement to the Workers and indicated very clearly that they would not be employees of the Appellant, and this testimony was corroborated by both Mr. Edmonds and Mr. Valencia. I find the testimony of both Mr. Edmonds and Mr. Valencia to be credible.
+[51] I do not find the evidence given by Mr. Fawzi to be credible in that respect, and, on a balance of probabilities, I find that his intention was to enter into a contract with the Appellant as an independent contractor. Mr. Fawzi testified that he did not understand the conceptual distinction between employees and independent contractors. At trial, Mr. Fawzi recognized the Subcontractor Service Agreement that he signed but denied ever reading it and claimed it was not explained to him. Mr. Fawzi suggested that his comprehension of English was not sufficient to understand the agreement. However, under cross‑examination, he admitted that he could read English and that he could have read the agreement but he chose not to read or understand the document because his main concern was to obtain work. I find this inconsistency damaging to his credibility.
+[52] It seemed that Mr. Fawzi had a selective memory when it came to disclosing facts that would have revealed his understanding of the relationship with the Appellant. During the Period, Mr. Fawzi was working for both the Appellant and the college he was attending. He testified that he did not remember whether the college made payroll deductions. In holding these jobs simultaneously, Mr. Fawzi must have been aware that there was a difference between how he was being paid and the pros and cons of each relationship. I am of the view that he knew there was a difference between being employed and being a subcontractor. I find that Mr. Fawzi understood the nature of the contract and entered into it with a sufficient understanding of the implications of being treated as an independent contractor.
+2. SECOND STEP: whether the objective reality sustains the subjective intent of the parties (Wiebe Door factors)
+[53] The objective reality part of the test requires an examination of the Wiebe Door criteria to determine whether the facts are consistent with the parties’ subjective intention. For the following reasons, I find that, on a balance of probabilities, a review of the Wiebe Door factors is sufficient to establish that the Workers were independent contractors who carried on a business on their own account and who were engaged by the Appellant under a contract for services. The nature of the janitorial business and the relationship between the parties as well as the evidence adduced at the hearing are indicative of an independent contractor relationship.
+(i) Level of control
+[54] In this case, I find that the control factor is consistent with a finding of an independent contractor relationship. On a balance of probabilities, I find that Mr. Ademi did not exercise control over the Workers similar to that which would be exercised in an employer-employee relationship.
+[55] The evidence showed that Mr. Ademi provided a flexible contract arrangement that allowed the Workers to maximize their efficiency. Mr. Ademi did not provide training, he did not supervise the Workers, and he did not discipline the Workers. The Workers were free to control the time and manner in which they performed their services. Furthermore, if clients had complaints, they would address these directly with the Workers through the use of a communication book. Only serious complaints were addressed to the Appellant or Alpine. Mr. Edmonds’ evidence was very clear on these matters and Mr. Valencia also testified to this effect and corroborated Mr. Ademi’s testimony.
+[56] However, Mr. Fawzi testified that the Appellant mandated workers to stay at each site for a minimum number of hours. For the following reasons, I do not find this evidence to be credible. There were no timesheets, punch cards, or schedules to support these assertions. Mr. Fawzi claimed that Mr. Ademi was tracking him using the alarm systems at the work sites. I am of the view that it is implausible that a third party contractor (here, Mr. Ademi) would have access to the alarm systems of banks and museums to the extent necessary to track another third party (here, Mr. Fawzi). Further, there was no evidence to show that Mr. Ademi was using the alarm system to track Mr. Fawzi’s hours.
+[57] I acknowledge that the evidence showed that it takes a certain amount of time to clean each site. For example, Mr. Edmonds testified that the minimum number of hours necessary to complete his Save-On-Foods contract was 2.5 hours. I do not find that the Appellant imposed such time constraints on the Workers. The time it takes to clean a site reflects the nature of the business and the particular requirements imposed by the clients or Alpine.
+[58] In Ken Goodale and Patricia Goodale o/a Good Janitorial v. M.N.R., 2001 CanLII 66 (TCC) [Goodale], Justice Porter considered a factually similar situation; however, the level of control exerted over the workers in that case exceeds the level of control in this case. I agree that the mere right to control may be sufficient to establish control in some circumstances (Goodale, above, at para. 31). However, in Goodale, above, the payer actually took steps to control the workers. In this case, I have heard credible evidence from Mr. Ademi, Mr. Valencia, and Mr. Edmonds which showed that the Appellant did not exercise control over the Workers. If there were problems with the quality of the work, it was up to the Workers to resolve the issues themselves on their own time and at their own expense. The fact that Mr. Ademi assisted Mr. Edmonds on one occasion to clean up a broken display does not demonstrate control. The fact that Mr. Ademi occasionally worked in the same location as Mr. Fawzi and the fact that the Appellant occasionally received complaints from clients do not demonstrate control. I have not heard any credible testimony which demonstrates that the Appellant actually controlled the Workers. The Subcontractor Service Agreement may have indicated that there could be a $45 penalty for failing to remedy deficient work, but this was never enforced—neither was the termination clause. Regardless of whether the clauses were enforced, it is entirely reasonable that a contract would include terms that deal with non-performance.
+(ii) Tools and supplies
+[59] I am of the view that this factor is neutral—it does not influence my decision with respect to whether there was an employment relationship or an independent contractor relationship.
+[60] The evidence showed that each work site had its own peculiar cleaning needs. The evidence also suggests that it would be difficult for a Worker to make a living off of any of these contracts if they were required to provide the tools and supplies.
+[61] Further, the evidence showed, on balance, that it was either Alpine or the clients who supplied all the tools, equipment, chemicals, etc. The Workers who testified said that they called Mr. Ademi or left a note in the communication book if they ran out of supplies. Although Mr. Ademi may have been a contact person if supplies ran out, he testified that all the tools and supplies (including chemicals, vacuum cleaners, brooms, mops, buckets, dusters, paper towels, and hand soap) were either supplied by the clients or by Alpine; the Appellant did not provide the tools and supplies to the Workers. Mr. Walsh also testified that either Alpine or the clients provided the tools and supplies. Although the Subcontractor Service Agreement indicated that the Workers were required to use the supplies provided by the Appellant, I am putting more weight on Mr. Ademi’s testimony because he was in the best position to know who provided the tools and supplies. Furthermore, I do not find it very realistic that the Appellant would provide all of the tools and supplies needed at each work site. I find that it is more likely that the clients themselves or Alpine would provide the tools and supplies to be used by the Workers.
+[62] Mr. Ademi testified that the Workers were free to bring their own equipment if they felt it would improve their efficiency. Mr. Valencia brought his own vacuum cleaner and Mr. Edmonds brought his own tool box and cloths. The Workers who testified did not bring any other tools or supplies to the work sites. If the Workers had provided a significant portion of the tools and supplies, this factor may have been indicative of an independent contractor relationship—one vacuum cleaner or a toolbox does not meet the necessary threshold demonstrating a significant investment in capital assets indicative of an independent contractor relationship.
+[63] The Respondent relied on Goodale, above, at para. 32, to show that janitorial workers who do not provide the tools and supplies for their work are more likely to be considered employees. With respect, I am of the view that the nature of the janitorial business provides context to the weight apportioned to this factor. In a business where the tools and supplies to be used are different at each site and the workers receive relatively low compensation, I am of the view that the ownership of tools does not carry as much weight in determining the nature of the relationship. If the workers were required to buy expensive tools and supplies, the cost of entry into the business would prevent them from becoming independent contractors. I cannot place much weight on this factor one way or the other. I find support for this conclusion in Priority One Janitorial Services Inc. v. M.N.R., 2012 TCC 1 at para. 28, [2012] T.C.J. No. 12 (QL) [Priority One]. In that case, Justice Bédard found that neither the appellant nor the workers provided the tools and therefore the ownership of tools was a neutral factor. The evidence in this case has led me to the same conclusion.
+(iii) Hiring of helpers
+[64] I find that this factor supports an independent contractor relationship between the Appellant and the Workers. The evidence showed that the Appellant allowed the Workers to hire their own help. Mr. Edmonds testified that he hired non-family members to assist him, and paid them directly. Furthermore, Mr. Valencia testified that he brought his brother to help on a few occasions. Mr. Fawzi testified that he did not hire helpers. The Subcontractor Service Agreement specifically allowed the Workers to hire help and required the Workers to get security clearances for their helpers. Mr. Ademi testified that the Workers were not prohibited from hiring helpers. The evidence showed that the Workers were given the flexibility to hire helpers and therefore I am of the view that I must apportion some weight to this factor in favour of an independent contractor relationship between the Workers and the Appellant.
+(iv) Opportunity for profit/risk of loss
+[65] There are a number of similar cases examining janitorial subcontractors who worked for flat rates. In Priority One, above, and Cormier v. M.N.R., 2005 TCC 646, [2005] T.C.J. No. 500 (QL) [Cormier], the facts were interpreted to support an employment relationship. To the contrary, in Stanton v. M.N.R., 2012 TCC 169, 2012 CarswellNat 4563 [Stanton], the facts showed an independent contractor relationship. I considered the distinctions between the facts in these cases and, for the following reasons, I am of the view that, on balance, the factors of opportunity for profit and risk of loss are indicative of an independent contractor relationship between the Appellant and the Workers.
+[66] As argued by the Appellant, I agree that the Workers had the opportunity to make a profit because they could hire workers and find ways to make their work more efficient and risked loss if they could not complete the work themselves or could not secure performance of the task by someone else at a lower cost. The evidence showed that the Workers were paid a flat monthly rate for their services and the evidence also showed that the Workers were allowed to hire helpers and did not have to perform the services personally. The Subcontractor Service Agreement also included a non-performance penalty of $45 for uncorrected deficiencies.
+[67] This position is supported by Stanton, above, in which Justice D’Arcy decided that by being paid a flat rate for the services rendered, a worker could increase his profit by efficiently completing the work to be done and also, by retaining helpers, there was a risk of loss if the job was not completed efficiently.
+[68] Contrary to Cormier, above, at para. 35, I do not find that the only opportunity for higher pay for the Workers was to work longer hours like employees would. The evidence showed that the Workers were allowed to hire helpers; also, they were not required to perform the services personally. Mr. Edmonds’ testimony was very clear on these issues, as well as Mr. Ademi’s. I agree with the Respondent that the Workers did not negotiate the payment under the contract; however, they could just simply refuse to accept the contract. Also, the Workers could have decided to hire helpers to do the work for less than what they were being paid under the arrangement with the Appellant.
+[69] In Cormier, above, Justice Angers found that the criteria of chance of profit and risk of loss were not met as he was of the view that these factors have to be analyzed in an entrepreneurial sense. Justice Angers was of the view that the conditions of the workers were similar to an employer-employee situation. In my view, given the particularities of the janitorial business as shown by the evidence adduced at trial, I am of the view that these factors of opportunity for profit and risk of loss have to be analyzed as Justice D’Arcy did in Stanton, above.
+[70] I find that Priority One, above, can be distinguished from the present case because the workers were not allowed to subcontract their duties to other workers at a lower rate. Justice Bédard found that subcontracting would have been the only opportunity for the workers to make a profit; this indicated an employer‑employee relationship. In the present case, the evidence was clear that the Workers were allowed to hire workers and did not have to perform the services personally.
+[71] Furthermore, I acknowledge that the Workers did not make any financial investments in the business of the Appellant, they did not advertise, they did not charge GST on the services rendered, they did not claim expenses and they did not carry liability insurance. However, this case involves unskilled workers who do not necessarily need to invest in their businesses to effectively work as independent contractors. It is unrealistic to expect workers in the janitorial business to take the financial risks that are associated with larger scale businesses. The evidence has shown that the Workers understood the benefits and risks of being self-employed and that the intent of both parties to the relationship indicated that the Workers wanted to be considered as independent contractors; the economic reality of their businesses may not rise to a high level of entrepreneurial sophistication, but this fact alone should not derogate from their ability to contract freely as they choose simply because of the limited scale of their businesses.
+VII. CONCLUSION
+[72] On balance, I find that the Workers were engaged by the Appellant during the Period under a contract for services and were independent contractors. As a result, the Workers were not engaged in insurable and pensionable employment within the meaning of the EI Act and the CPP, respectively, during the Period. For the foregoing reasons, the appeals are allowed, without costs.
+Signed at Montréal, Quebec, this 3rd day of April 2019.
+“Dominique Lafleur”
+Lafleur J.
+SCHEDULE A
+EI premiums assessed on February 24, 2016
+Last name
+Initial
+T4 Earnings
+EI premiums
+AKOTUAH
+O
+$8,861.00
+$166.59
+BALAOEN
+T
+$3,768.00
+$70.84
+BALAORO
+OE
+$21,800.00
+$409.84
+BATISTA
+D
+$12,195.00
+$229.27
+CABALLER
+R
+$11,000.00
+$206.80
+CILEN
+D
+$2,480.00
+$46.62
+DOMINGO
+R
+$4,635.00
+$87.14
+EDWARDS
+T
+$11,339.00
+$213.17
+ESCRIBAN
+R
+$602.00
+$11.32
+EVANGLIA
+G
+$887.00
+$16.68
+FAWZI
+W
+$8,250.00
+$155.10
+FLETCHER
+J
+$2,250.00
+$42.30
+FRESHNER
+D
+$3,700.00
+$69.56
+GALAO
+A
+$3,300.00
+$62.04
+GOMEZ
+D
+$4,755.00
+$89.39
+GOMINGA
+P
+$2,650.00
+$49.82
+KIZIUK
+R
+$7,725.00
+$145.23
+KOLSHI
+G
+$745.00
+$14.01
+L’HEUREU
+M
+$6,815.00
+$128.12
+LAURIAN
+R
+$5,550.00
+$104.34
+MACFARLA
+R
+$4,720.00
+$88.74
+MANILLA
+J
+$4,422.00
+$83.13
+MINOLA
+M
+$4,589.00
+$86.27
+ON
+S
+$23,450.00
+$440.86
+PITQ
+A
+$754.00
+$14.18
+PRESTON
+C
+$1,150.00
+$21.62
+SANTIAGO
+J
+$3,300.00
+$62.04
+TWAGIRUM
+A
+$3,800.00
+$71.44
+VALENCIA
+O
+$10,894.00
+$204.81
+VAUGHAN
+A
+$5,580.00
+$104.90
+VISCANTE
+E
+$12,600.00
+$236.88
+WILSON
+R
+$23,100.00
+$434.28
+Employee portion of EI premiums
+$4,167.33
+Employer portion of EI premiums
+$5,834.26
+Total EI premiums assessed
+$10,001.59
+SCHEDULE B
+CPP contributions assessed on February 24, 2016
+Last name
+Initial
+T4 Earnings
+CPP
+ADEMI
+B
+$18,371.00
+$736.12
+100% shareholder
+AKOTUAH
+O
+$8,861.00
+$265.37
+BALAOEN
+T
+$3,768.00
+$13.27
+BALAORO
+OE
+$21,800.00
+$905.85
+BATISTA
+D
+$12,195.00
+$430.40
+CABALLER
+R
+$11,000.00
+$371.25
+DOMINGO
+R
+$4,635.00
+$56.18
+EDWARDS
+T
+$11,339.00
+$388.03
+FAWZI
+W
+$8,250.00
+$235.13
+FRESHNER
+D
+$3,700.00
+$9.90
+GOMEZ
+D
+$4,755.00
+$62.12
+KIZIUK
+R
+$7,725.00
+$209.14
+L’HEUREU
+M
+$6,815.00
+$164.09
+LAURIAN
+R
+$5,550.00
+$101.48
+MACFARLA
+R
+$4,720.00
+$60.39
+MANILLA
+J
+$4,422.00
+$45.64
+MINOLA
+M
+$4,589.00
+$53.91
+ON
+S
+$23,450.00
+$987.53
+TWAGIRUM
+A
+$3,800.00
+$14.85
+VALENCIA
+O
+$10,894.00
+$366.00
+VAUGHAN
+A
+$5,580.00
+$102.96
+VISCANTE
+E
+$12,600.00
+$450.45
+WILSON
+R
+$23,100.00
+$970.20
+Employee portion of CPP contributions
+$7,000.26
+Employer portion of CPP contributions
+$7,000.26
+Total CPP contributions assessed
+$14,000.52
+Less CPP contributions for shareholder
+$1,472.24
+Assessment amount under appeal
+$12,528.28
+CITATION:
+2019 TCC 73
+COURT FILE NOS.:
+2017-3099(CPP)
+2017-3101(EI)
+STYLE OF CAUSE:
+VICTORIA’S FIVE STAR CLEANING LTD. V. M.N.R.
+PLACES OF HEARING:
+Victoria, British Columbia
+Ottawa, Ontario
+DATES OF HEARING:
+February 6, 7 and 13, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Dominique Lafleur
+DATE OF JUDGMENT:
+April 3, 2019
+APPEARANCES:
+Agent for the Appellant:
+David Walsh
+Counsel for the Respondent:
+Kiel Walker
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

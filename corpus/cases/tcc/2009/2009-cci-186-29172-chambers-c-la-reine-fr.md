@@ -1,0 +1,129 @@
+---
+title: "Chambers c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29172/index.do"
+last_modified: "2009-04-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 186"
+citation2: ""
+neutral_citation: "2009 CCI 186"
+decision_date: "2009-04-09"
+language: "fr"
+item_id: "29172"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6732
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:59:24.806000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cb867080474437a189a354f651905033d1c61a5dc5e746727e1c5a8be610ffea"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chambers c. La Reine
+
+- Citation: 2009 CCI 186
+- Decision date: 2009-04-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6732, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chambers c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-09
+Référence neutre
+2009 CCI 186
+Numéro de dossier
+2008-3216(GST)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-3216(GST)I
+ENTRE :
+ALAN CHAMBERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 19 mars 2009, à Calgary (Alberta)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentant de l’appelant :
+Raymond Grue
+Avocate de l’intimée :
+Me Whitney Dunn
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté à l’encontre de la nouvelle cotisation datée du 18 avril 2008 établie en vertu de la Loi sur la taxe d’accise est rejeté.
+Signé à Ottawa, Canada, ce 9e jour d’avril 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 12e jour d’août 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 186
+Date : 20090409
+Dossier : 2008-3216(GST)I
+ENTRE :
+ALAN CHAMBERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Alan Chambers, appelle de la cotisation établie par le ministre du Revenu national (le « ministre ») en vertu de la Loi sur la taxe d’accise (la « LTA ») pour la période se terminant le 31 décembre 2005. Le ministre a établi une cotisation de taxe sur les produits et services de 2 743,82 $ à l’égard du travail de l’appelant en tant qu’agent de vente à la commission pour Sports Display of Canada Inc. (la « société »). En tant qu’inscrit non résidant aux fins de la LTA, Sports Display of Canada Inc. embauche des agents de vente pour vendre de la publicité dans l’ensemble du Canada en les rémunérant à la commission.
+[2] Le territoire de vente de l’appelant comprenait la Colombie‑Britannique, l’Alberta et la Saskatchewan. Lorsqu’il effectuait une vente, l’appelant préparait une facture sur du papier à en‑tête de Sports Display of Canada Inc. et y indiquait le prix de la publicité et la TPS exigible au titre de la vente, il prenait le chèque ou le bordereau de carte de crédit libellé à l’ordre de Sports Display of Canada Inc., puis il envoyait tous les documents à la société. Il recevait une commission de 30 % des ventes brutes de Sports Display of Canada Inc.
+[3] Pendant la période en cause, l’appelant a reçu 39 137,37 $ de commissions accordées pour la vente de publicités effectuée pour Sports Display of Canada Inc. Il a expliqué qu’étant donné qu’il n’y connaissait rien en comptabilité et qu’il connaissait encore moins la Loi sur la taxe d’accise, il avait retenu les services d’un comptable de la région pour qu’il s’occupe de la tenue de ses livres relativement à son travail. Le comptable s’occupait de toutes les questions liées à la TPS, y compris de l’inscription de l’appelant aux fins de la TPS et de la demande des crédits de taxe sur les intrants (les « CTI »). Ce que le comptable ne semble pas avoir fait c’est déclarer ou verser la TPS qui était à percevoir sur les commissions des ventes touchées par l’appelant, laquelle s’élevait à 2 743,82 $ pour la période.
+[4] L’appelant a témoigné que son comptable et Sports Display of Canada Inc. lui avaient assuré qu’il n’avait pas à se préoccuper de verser la TPS à l’égard de ses commissions de ventes. Il a appris par après que le ministre voyait les choses différemment.
+[5] L’appelant et son (nouveau) comptable professionnel, Raymond Grue, ont témoigné à l’audience. M. Grue a également présenté des arguments de droit au nom de l’appelant. Après les observations de M. Grue, l’appelant a également présenté ses propres arguments. Que ce soit dans leur témoignage ou leurs observations, ni M. Grue ni l’appelant n’a toutefois traité directement de l’affirmation du ministre voulant que, selon la LTA, deux fournitures distinctes avaient été faites : la vente de la publicité par Sports Display of Canada Inc. à son client (par l’intermédiaire de son agent, l’appelant) et la fourniture de services de vente à la commission par l’appelant à Sports Display of Canada Inc. Le ministre admet que l’appelant a perçu la TPS dans le premier cas; c’est uniquement la TPS sur les services de vente à la commission qui est en litige.
+[6] En interjetant appel, l’appelant ne cherchait pas tant à contester la cotisation de TPS (je crois qu’il accepte maintenant qu’il devait déclarer et verser le montant de la cotisation de TPS), qu’à faire connaître d’autres aspects de la situation dans laquelle il s’était retrouvé. Compte tenu de cet objectif, à la fin de l’audience, j’ai remis le prononcé de mon jugement, mais j’ai répondu aux autres questions en expliquant à l’appelant que la Cour n’avait pas compétence pour examiner des allégations de mauvaise conduite de la part de comptables et que, de toute façon, il ne pouvait pas éviter toute responsabilité à l’égard de ses obligations selon la LTA en invoquant qu’il avait suivi les mauvais conseils qu’on lui avait donnés. La Cour n’a pas non plus le pouvoir de modifier la politique ou la loi elle‑même. C’est au Parlement du Canada, par l’intermédiaire de ses représentants élus, que l’appelant doit adresser ses préoccupations concernant la complexité de la LTA et la difficulté que les contribuables moyens comme lui[1] ont à essayer de se conformer à celle‑ci.
+[7] Comme l’appelant n’a pas réfuté les hypothèses sur lesquelles le ministre s’est fondé pour établir la cotisation en vertu de la LTA, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 9e jour d’avril 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 12e jour d’août 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 186
+NO DU DOSSIER DE LA COUR : 2008-3216(GST)I
+INTITULÉ : ALAN CHAMBERS ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 19 mars 2009
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 9 avril 2009
+COMPARUTIONS :
+Représentant de l’appelant :
+Raymond Grue
+Avocate de l’intimée :
+Me Whitney Dunn
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Comme il l’a dit : « Je n’ai aucune idée de ce que CTI peut vouloir dire ».

@@ -1,0 +1,174 @@
+---
+title: "Mosher v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/65033/index.do"
+last_modified: "2013-11-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 378"
+citation2: ""
+neutral_citation: "2013 TCC 378"
+decision_date: "2013-11-28"
+language: "en"
+item_id: "65033"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5902
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:43:46.619000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3d4894cf695f9eea9cb51fc237f8a9b76f06581c32893ed294c264c06c0a8069"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mosher v. The Queen
+
+- Citation: 2013 TCC 378
+- Decision date: 2013-11-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5902, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mosher v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-11-28
+Neutral citation
+2013 TCC 378
+File numbers
+2013-2273(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2273(IT)G
+BETWEEN:
+SHARON A. MOSHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on November 7, 2013, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+David Muha, Christopher Slade, Michael Collinge
+Counsel for the Respondent:
+Thang Trieu
+____________________________________________________________________
+ORDER
+The Motions sought in paragraphs 1 and 2 of the Respondent’s Notice of Motion are dismissed.
+The Respondent shall file and serve the Reply on or before December 31, 2013 unless the Parties, within two weeks, advise the Court they wish to have a Determination pursuant to Rule 58, in which case the Respondent shall file and serve the Reply within 30 days of a decision on such Determination.
+Costs will be in the cause.
+Signed at Ottawa, Canada, this 28th day of November 2013.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2013 TCC 378
+Date: 20131128
+Docket: 2013-2273(IT)G
+BETWEEN:
+SHARON A. MOSHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+C. Miller J.
+[1] The Respondent brings a Motion for:
+1. precluding the Appellant from challenging the correctness of the assessment of Peter Kuczer in respect of the 2002 taxation year, issued by notice dated January 28, 2005 (the "Kuczer Assessment");
+2. striking out paragraphs 13 to 31, the first heading under section (F), and paragraphs 38 to 39 of the notice of appeal (the "subject paragraphs");
+3. extending the time to file and serve the reply to the notice of appeal to within 30 days from the date of the order disposing of this motion;
+4. costs of this motion fixed and payable within 30 days from the date of the order disposing of this motion; and
+5. such further and other relief as counsel may advise and the Court may permit.
+[2] The grounds for the Motion are:
+1. the Appellant is precluded by the doctrines of issue estoppel and abuse of process from challenging the Kuczer Assessment;
+2. the subject paragraphs are an abuse of process and may prejudice or delay the fair hearing of this appeal;
+3. the Respondent will require an extension of time to file and serve the reply once this motion has been disposed of and an extension is appropriate in the circumstances;
+4. rules 44 and 53 of the Tax Court of Canada Rules (General Procedures), SOR/90-688a;
+5. section 159 of the Income Tax Act, RSC 1985, c 1 (5th Supp); and
+6. such further and other grounds as counsel may advise and the Court may permit.
+[3] In questioning Respondent’s counsel at the hearing, it became clear that this is a Rule 53 Motion for striking pleadings; in effect, the Orders in paragraphs 1 and 2 above are really just the one Order for striking pleadings.
+[4] The following facts are taken from the Respondent’s and Appellant’s Written Representations:
+Respondent’s Written Submissions
+3. The tax debtor, Peter Kuczer, was reassessed for the 2002 taxation year by the Minister of National Revenue to include $506,000 of income, by notice dated January 28, 2005 (the "Kuczer Assessment")
+4. On July 31, 2006, Kuczer appealed the Kuczer Assessment (the "Kuczer Appeal"). The underlying facts for the Kuczer Assessment go back to them id-1990s.
+5. On March 3, 2007, Kuczer died intestate. At that time there was a tax debt outstanding of about $350,000.
+6. The appellant, Sharon Mosher, is the widow of Kuczer. She became executor of the Kuczer estate, by court order dated July 18, 2007.
+7. In the course of the Kuczer Appeal, the Kuczer estate, through Mosher, and the Crown exchanged lists of documents, conducted examinations for discovery, and satisfied undertakings.
+8. The trial in the Kuczer Appeal was scheduled for October 9 and 10, 2008.
+9. On August 20, 2008, the Kuczer estate requested an adjournment. The Court granted the adjournment and rescheduled the trial.
+10. On November 7, 2008, the Kuczer estate transferred a property in Kitchener, Ontario (the "Property") to another party for proceeds of $1,300,000. The Property was the only asset held by the Kuczer estate. It was also Mosher’s home. None of the proceeds from the sale of the Property went to satisfy the Kuczer estate’s tax debt.
+11. On January 13, 2009, less than a week before the trial was rescheduled to take place, the Kuczer estate discontinued the Kuczer Appeal.
+Appellant’s Written Submissions
+4. At the time that the Kuczer Appeal was discontinued the Kuczer Estate held no assets. The only asset held by the Kuczer Estate at the time of Mr. Kuczer’s death was Mr. Kuczer’s interest in the matrimonial home of Mr. Kuczer and the Appellant, which was sold by the Kuczer Estate in November 2008. Mr. Kuczer owed substantial amounts to arm’s length creditors at the time of his death. After payments were made from the Kuczer Estate in respect of those liabilities in 2008, and after funeral, testamentary and other administrative expenses were paid, the Kuczer Estate held no remaining assets, and no distributions of property were made to any beneficiary.
+…
+Respondent’s Written Submissions
+12. The Kuczer estate was notified by the Court that the Kuczer Appeal was deemed dismissed pursuant to subsection 16.2(2) of the Tax Court of Canada Act.
+13. Mosher was assessed personal liability for the Kuczer Assessment by the Minister, by notice dated July 15, 2011. No one from or on behalf of the Kuczer estate applied for or obtained a clearance certificate from the Minister before Mosher was assessed.
+14. On June 11, 2013, Mosher appealed her derivative assessment (the "Mosher Appeal". Mosher now challenges the correctness of the Kuczer Assessment on the Mosher Appeal – see paragraphs 13 to 31, the first heading under section (F), and paragraphs 38 to 39 of the notice of appeal (the "subject paragraphs").
+15. Mosher’s challenge to the correctness of the Kuczer Assessment is identical in every respect to her challenge to the Kuczer Assessment in the Kuczer Appeal, which she discontinued on behalf of the Kuczer estate.
+[5] Both Parties describe the issue as whether Ms. Mosher should be precluded from challenging the Kuczer assessment, based on the doctrines of issue estoppel or abuse of process.
+[6] Rule 53 reads:
+The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+(a) may prejudice or delay the fair hearing of the action,
+(b) is scandalous, frivolous or vexatious, or
+(c) is an abuse of the process of the Court.
+The law is clear with respect to Rule 53 applications that it must be plain and obvious the position as pleaded has no hope of succeeding. (Sentinell Hill Productions (1999) Corporation and Robert Strother v The Queen)[1]
+[7] I would therefore redraft the issue as being whether it is plain and obvious that either the doctrine of issue estoppel or abuse of process precludes the Appellant from challenging the underlying assessment. Put another way, does the Appellant have no hope of convincing a trial judge that she can attack the underlying Kuczer assessment? I find it is not plain and obvious.
+[8] It is unnecessary for me to go through the law of issue estoppel as enunciated by the Supreme Court of Canada in Danyluk v. Ainsworth Technologies Inc.[2] and tweaked by subsequent cases (see for example Penner v Niagara (Regional Police Services Board))[3] and its application to the circumstances before me. I would need to take the time to reflect on these arguments, read in detail the law as to how issue estoppel has evolved, and then attempt to apply it to Ms. Mosher’s circumstances. Only then would I be comfortable providing an answer. What this tells me is that it is not plain and obvious the doctrine applies. For example, there is, I would suggest, a contentious issue as to whether a discontinuance of a matter, without further judicial determination, meets one of the requirements of the three-pronged test for issue estoppel, that there has been a "judicial decision". Also, even if the three‑pronged test is met, the law provides that a judge can exercise his or her discretion balancing finality of litigation versus the public interest in ensuring justice is done "and other considerations of fairness to the parties"[4]. It is not plain and obvious how a judge might exercise such discretion in these circumstances.
+[9] With respect to the doctrine of abuse of process, it may be applicable to prevent re-litigation where the conditions for issue estoppel do not apply. But, again, it is not plain and obvious that it does or does not apply in this case.
+[10] In the case of Toronto (City) v C.U.P.E., Local 79,[5] Justice Arbour explained:
+Properly understood and applied, the doctrines of res judicata and abuse of process govern the interplay between different judicial decision makers. These rules and principles call for a judicial balance between finality, fairness, efficiency and authority of judicial decisions.
+She went on to give the following example:
+If for instance, the stakes in the original proceeding were too minor to generate a full and robust response, while the subsequent stakes were considerable, fairness would dictate that the administration of justice would be better served by permitting the second proceeding to go forward than by insisting that finality should prevail.
+[11] Would allowing Ms. Mosher to attack the Kuczer assessment in the circumstances of this case bring the administration of justice into disrepute? That is not an easy question that, I would suggest, every judge would answer in the same way by the exercise of his or her discretion, especially where that discretion is based on principles such as judicial economy, consistency, finality, fairness and the integrity of the administration of justice. The circumstances surrounding Ms. Mosher’s actions as executor and the need to have a full debate on the application of the concepts of issue estoppel and abuse of process make it clear to me that a Rule 53 application to strike pleadings is not the appropriate course of action.
+[12] Having said that, and therefore dismissing the Respondent’s Motions, I am not implicitly condoning the Parties march relentlessly on to trial, presuming that the Kuczer assessment is a live issue. It is my impression that a lot of work would be required for litigation on that issue. It strikes me the appropriate course is a determination pursuant to Rule 58, answering the question the Respondent has attempted to pose in this Rule 53 application. Does either issue estoppel or abuse of process preclude Ms. Mosher from raising this issue at the trial of her own assessment? If it is determined that either concept applies to preclude Ms. Mosher from raising the underlying Kuczer assessment, then some considerable litigation economy will have been achieved. If found not to apply, then the Parties will know they have to proceed to fully litigate that earlier assessment.
+[13] Clearly the Parties have researched the application of these doctrines and it would therefore take little in the way of further preparation for a determination, other than perhaps a flushing of more details of Ms. Mosher’s discontinuance of the earlier litigation. If both sides are agreed that a determination would be in order, I am prepared to order such on a timely basis, foregoing the need for an application to a judge to consider whether a determination is called for (the usual first step in the Rule 58 determination process). If the Parties are not agreed and only one side believes it is of benefit then that first step would be necessary.
+[14] The Motion for the striking of pleadings is dismissed. The Parties have two weeks to advise the Court if they wish to have a determination. If the Parties advise that they do not intend to seek a determination, then the Respondent shall file a Reply on or before December 31, 2013. If they do intend to seek a determination, the Respondent shall file a Reply within 30 days of a decision of this Court on such a determination. Costs will be in the cause.
+Signed at Ottawa, Canada, this 28th day of November 2013.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2013 TCC 378
+COURT FILE NO.: 2013-2273(IT)G
+STYLE OF CAUSE: SHARON A. MOSHER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 7, 2013
+REASONS FOR ORDER BY: The Honourable Justice Campbell J. Miller
+DATE OF ORDER: November 28, 2013
+APPEARANCES:
+Counsel for the Appellant:
+David Muha, Christopher Slade, Michael Collinge
+Counsel for the Respondent:
+Thang Trieu
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David Muha, Christopher Slade,
+Michael Collinge
+Firm: Deloitte Tax Law LLP
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2007 TCC 742.
+[2] 2001 SCC 44.
+[3] 2013 SCC 19.
+[4] Penner, supra at para 29.
+[5] 2003 SCC 63.

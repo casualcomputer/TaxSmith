@@ -1,0 +1,138 @@
+---
+title: "Wywijas v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520928/index.do"
+last_modified: "2022-06-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 52"
+citation2: ""
+neutral_citation: "2022 TCC 52"
+decision_date: "2022-06-01"
+language: "en"
+item_id: "520928"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4522
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:35:28.225000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a30555729ac34fc557b2688b08b8325b58dbb7c9e7da4c480806ff91978fe342"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wywijas v. The Queen
+
+- Citation: 2022 TCC 52
+- Decision date: 2022-06-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4522, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wywijas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-06-01
+Neutral citation
+2022 TCC 52
+File numbers
+2017-523(IT)I
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2022 TCC 52
+Date: 20220601
+Docket: 2017-523(IT)I
+BETWEEN:
+AREK WYWIJAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+(Edited for punctuation, capitalization, spelling, paragraph breaks, and accuracy and to remove repetitive phrases from the transcript of Reasons for Judgment delivered orally from the Bench on April 11, 2022 at Toronto, Ontario)
+Graham J.
+[1] Arek Wywijas claimed donation tax credits in respect of gifts that he claims to have made through a tax shelter known as the Global Learning Gifting Initiative (“GLGI”) in 2007 and 2008. The Minister of National Revenue reassessed Mr. Wywijas and denied those credits. Mr. Wywijas has appealed those denials.
+[2] The Respondent has brought a motion to quash the appeals on the basis that Mr. Wywijas waived his rights to appeal the reassessments to this Court.
+[3] After the Minister reassessed Mr. Wywijas, he filed Notices of Objection. The Minister eventually sent a letter to him. I am going to call that letter the “Options Letter.” The Options Letter presented Mr. Wywijas with a number of options.
+[4] One of those options was to accept a settlement offer and sign a waiver of his rights to appeal. I am going to call that the “Settlement Agreement.”
+[5] Another option was for Mr. Wywijas to sign an agreement to be bound by the outcome of four lead cases that were working their way through the Tax Court. If he took this option he needed to agree to waive his rights of appeal if the Minister reassessed in accordance with the outcome in those lead cases or confirmed his objection in accordance with the outcome in those same cases. The Options Letter enclosed an agreement giving effect to that option. I will call that the “Agreement To Be Bound.” Mr. Wywijas chose that option.
+[6] In the end, only two of the four lead cases went to trial and, in a decision reported as Mariano v. The Queen, Justice Pizzitelli dismissed those two taxpayers’ appeals. As a result, the CRA confirmed Mr. Wywijas’s reassessments. Despite having agreed not to appeal, Mr. Wywijas filed a Notice of Appeal with this Court. That is why we are here today.
+[7] The Crown brought similar motions to quash the appeals of 27 other taxpayers who had signed Agreements To Be Bound. Those motions to quash were decided by Chief Justice Rossiter in a case called Abdalla. Chief Justice Rossiter granted the Crown’s motion and quashed those appeals. He carefully looked at the Options Letter, the Settlement Agreement and the Agreement To Be Bound and he found that there were four options presented to taxpayers:
+agree to be bound to the test cases;
+accept the settlement offer;
+appeal directly to the Court; and
+do nothing and run the risk that the Minister would take further action without notice.
+[8] Chief Justice Rossiter also found that there was a sufficient explanation in all of those documents that a taxpayer would have full knowledge of the rights that he or she was waiving if he or she had signed the Agreement To Be Bound. As a result the Chief Justice found that Ms. Abdalla had waived her right to appeal to the Court and quashed her appeal.
+[9] Ms. Abdalla was not satisfied with the Chief Justice’s decision. She appealed to the Federal Court of Appeal. The Federal Court of Appeal upheld the decision. The Court concluded that Chief Justice Rossiter had correctly identified the three requirements for a waiver and that there was more than ample basis for concluding that the tests had been met.
+[10] So, as I have just described, Abdalla described three tests that had to be met for Mr. Wywijas’s waiver of rights of appeal to be valid. The waiver must be in writing, he must have had full knowledge of his rights, and he must have had an unequivocal and conscious intention to abandon those rights.
+[11] The first test, that the waiver must have been in writing, is clearly met. There is a signed waiver in writing. The second test, that Mr. Wywijas must have had full knowledge of his rights, was also met. I agree with Chief Justice Rossiter’s analysis of the Options Letter, the Settlement Agreement and the Agreement To Be Bound and with his conclusion that after reading those documents a person would have full knowledge of their rights being waived.
+[12] While Mr. Wywijas may not have had as full of an understanding of his rights as he wishes, I am satisfied that he knew what they were. He explained that he chose not to sign the Settlement Agreement because he had signed a similar agreement for another donation that he had made and had been dissatisfied with the amount of interest that had been waived pursuant to the settlement. He explained that a wife of a friend of a friend had told him he could appeal directly to the Court. That was certainly one of his options. It appears that he chose not to take it. The option of doing nothing was explained to him on two occasions, once in the Options Letter and again in a letter dated December 23, 2014.
+[13] If Mr. Wywijas wanted a better understanding of his options he could have sought advice. He complains that the CRA was not helpful when he contacted them, but I note that he chose to contact their general information number rather than the specific person who wrote him regarding the Agreement To Be Bound.
+[14] Also, regardless of who he contacted it’s not the CRA’s job to give Mr. Wywijas legal advice. It is sufficient that they set out the options that he has to choose from. If Mr. Wywijas wanted someone independent to advise him, it was up to him to hire someone.
+[15] I also note that he responded to the CRA very quickly rather than taking time to better understand his options. He had until December 21 to make his choice. He made it on December 5. He cannot blame the CRA for his decision to act before he had a chance to even better understand his options.
+[16] On the basis of all of the above I find that Mr. Wywijas had full knowledge of his rights.
+[17] The third test is that he must have had an unequivocal and conscious intention to abandon his rights. I find that he did. There is nothing in the evidence that would suggest otherwise. He had a choice to make, he made it.
+[18] Mr. Wywijas has not satisfied me that he was under any undue influence to sign the Agreement To Be Bound. He was undoubtedly stressed by the financial circumstances in which he found himself and the deadline imposed by the CRA but that does not amount to undue influence.
+[19] Before I conclude, I want to quickly address an odd piece of evidence and state the use that I did and did not make of it coming to the above conclusion.
+[20] Mr. Wywijas signed and submitted two different Agreements To Be Bound. The first was rejected by the CRA on the basis that it was not the agreement that they had sent to him. This first Agreement To Be Bound would have given Mr. Wywijas greater rights of appeal if the lead cases had not gone the way he hoped.
+[21] Mr. Wywijas testified that he must have received both agreements from the CRA. This seems unlikely to me. Why would the CRA send him two different Agreements To Be Bound, one with greater rights, and then, when he signed and returned one of them, reject it on the basis that they had not given it to him?
+[22] It seems more likely that Mr. Wywijas received the first Agreement To Be Bound from someone else—perhaps the same person who prepared his Notices of Objection. That said, the Respondent’s affidavit does not explicitly state that the CRA did not prepare the first Agreement To Be Bound and counsel for the Respondent did not cross-examine Mr. Wywijas on whether he obtained it from a third party. Therefore, while I am suspicious, I do not feel I can conclude that the Agreement To Be bound came from a third party. I say this because, had I been satisfied that the agreement came from a third party, I would have considered it to be strong evidence that Mr. Wywijas had attempted to negotiate the terms of the Agreement To Be Bound. That would have demonstrated an even greater understanding of his rights. However, in the circumstances I did not draw that conclusion. Accordingly, I did not place any weight on the first Agreement To Be Bound when considering whether Mr. Wywijas had a full understanding of his rights.
+[23] However, the fact that Mr. Wywijas agreed not once but twice on two different sets of terms to be bound by the outcome of test cases and not to appeal to this Court does show a strong intention to abandon his rights, so I did consider the first Agreement To Be Bound when reaching the conclusion on that part of the test.
+[24] In summary, on the basis of all the foregoing, the Respondent’s motion to quash Mr. Wywijas’s appeals of the 2007 and 2008 tax years is allowed. The appeals are quashed.
+This Amended Reasons for Judgment is issued in substitution of the Reasons for Judgment dated May 25, 2022.
+Signed at Ottawa, Canada, this 1st day of June 2022.
+“David E. Graham”
+Graham J.
+CITATION:
+2022 TCC 52
+COURT FILE NO.:
+2017-523(IT)I
+STYLE OF CAUSE:
+AREK WYWIJAS v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 11, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF ORAL REASONS:
+April 11, 2022
+DATE OF REASONS FOR JUDGMENT:
+DATED OF AMENDED REASONS FOR JUDGMENT:
+May 25, 2022
+June 1, 2022
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rhoda Lemphers
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+BLANK
+Firm:
+BLANK
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

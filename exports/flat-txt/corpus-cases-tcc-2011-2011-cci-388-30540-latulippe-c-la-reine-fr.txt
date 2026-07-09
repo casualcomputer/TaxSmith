@@ -1,0 +1,130 @@
+Title: Latulippe c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30540/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-388-30540-latulippe-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-10-11
+
+# Latulippe c. La Reine
+
+- Citation: 2011 CCI 388
+- Decision date: 2011-10-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7341, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Latulippe c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-11
+Référence neutre
+2011 CCI 388
+Numéro de dossier
+2010-661(GST)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-661(GST)I
+ENTRE :
+MARIE-ÈVE LATULIPPE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 29 juin, 2011, à Ottawa (Ontario).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Christian-Daniel Landry
+Avocate de l'intimée :
+Me Joëlle Bitton
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation en date du 15 février 2010 établie en vertu de la partie IX de la Loi sur la taxe d'accise est rejeté, selon les motifs du jugement ci‑joints.
+Signé, ce 11e jour d'octobre 2011.
+« François Angers »
+Juge Angers
+Référence : 2011 CCI 388
+Date : 20111011
+Dossier : 2010-661(GST)I
+ENTRE :
+MARIE-ÈVE LATULIPPE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Le présent appel porte sur une nouvelle cotisation établie en vertu de l’article 323 de la Loi sur la taxe d’accise (la « Loi ») à l’égard de l’appelante à titre d’administratrice de la Société 6883303 Canada inc. (ci-après 688). La responsabilité imputée à l'appelante résulte de l’omission de la part de 688 de verser au receveur général du Canada le montant positif de la taxe nette qu’elle a calculée dans ses déclarations mensuelles pour les périodes du 1er décembre 2008 au 31 mars 2009, lesquelles déclarations ont été produites en retard, soit en mars et en avril 2009. Le montant de la taxe nette impayée est de 18 436,94 $ plus des pénalités et des intérêts, pour un total de 19 104,41 $ à la date de la cotisation, soit le 15 février 2010.
+[2] L’appelante est la conjointe de monsieur Koun Siriphanh depuis 2008. Elle a rencontré ce dernier en 2000 lorsqu’elle a obtenu un emploi d’hôtesse et de serveuse dans un restaurant qu'exploitait son conjoint à l’époque. Le restaurant en question était la propriété de la société 3603580 Canada inc. et était exploité sous la dénomination sociale de Buffet Dragon.
+[3] Durant les années de l’exploitation du Buffet Dragon par la société 3603580 Canada Inc., plusieurs difficultés, financières et autres, se sont présentées, de sorte que, vers la fin de 2007, la société en question a fait faillite et monsieur Siriphanh a personnellement, en sa qualité d’administrateur, fait l'objet d'une cotisation de 1.7 million de dollars, à la suite de laquelle il a fait une faillite personnelle.
+[4] Voulant effectuer un retour dans la restauration, il s’est associé avec son chef cuisinier et sa conjointe pour constituer 688 le 3 décembre 2007. Au moment de la constitution en société, la conjointe du chef cuisinier, soit madame Nadine L’Écuyer, était la seule actionnaire et administratrice de 688. Ayant reçu de l’aide de la communauté chinoise, le restaurant a rouvert ses portes sous la même dénomination sociale.
+[5] Les choses ne se sont cependant pas déroulées comme prévu, et 688 a connu des difficultés financières l’empêchant de remplir ses obligations. Par suite de cela, des différends ont pris naissance entre monsieur Siriphanh, le chef cuisinier et madame L’Écuyer. Cette dernière ne voulait plus être administratrice et s’occuper de l’entreprise. Monsieur Siriphanh était un failli non libéré et 688 était redevable à Revenu Canada et à Revenu Québec d'une somme d’environ 130 000 $, sans oublier certains autres créanciers.
+[6] Malgré toutes ces difficultés et après consultation avec le comptable de 688, monsieur Siriphanh est arrivé à la conclusion que 688 était viable. Son comptable lui a alors suggéré de faire à ses créanciers une proposition concordataire qui offrait un remboursement total de la dette sur une période de cinq ans. Il lui fallait cependant remplacer madame L’Écuyer et il s’est donc tourné vers sa conjointe pour l’aider dans cette démarche.
+[7] Il faut noter que l’appelante n’a jamais été employée de 688 et elle n’a pas travaillé au restaurant. Durant l’année 2008, elle était enceinte et a accouché en novembre de cette année-là. Monsieur Siriphanh a donc expliqué à l’appelante la situation financière de 688, son plan de relance et le fait que madame L’Écuyer et son conjoint ne voulaient plus continuer. Il lui a dit qu’il avait besoin d’elle pour qu'il puisse lui transférer le restaurant parce qu'il n’avait plus personne, étant lui‑même en faillite. Elle était sa bouée. L’appelante a d’abord refusé, ayant déjà vécu l’expérience d’une faillite et la perte de tous leurs biens, mais le lendemain, monsieur Siriphanh lui a dit qu’il ne lui demanderait pas cela s’il n’était pas convaincu que le restaurant irait bien. Il s’agissait de leur seul gagne-pain et il était convaincu que la proposition concordataire serait acceptée. Il était donc évident que, s’il perdait leur entreprise, il perdait tout. Elle a donc accepté.
+[8] L’appelante s’est donc rendue chez un avocat le 30 décembre 2008 dans le but de signer de la documentation pour effectuer un transfert de madame L’Écuyer à elle‑même. Son conjoint lui a expliqué qu’elle devenait la nouvelle administratrice et elle n’a pas lu les documents qu’elle a signés. Elle se souvient que madame L’Écuyer avait informé l’avocat que la date du 30 décembre 2008 n’était pas la bonne et qu’il fallait dater les documents du 3 avril 2008, ce qui a été fait.
+[9] L’appelante a donc signé une convention d’achat et de vente d’actions en date du 3 avril 2008 (pièce I‑3), dans laquelle elle s’engage à acheter les seules actions émises et en circulation du capital‑actions de 688, soit 100 actions de catégorie « A », pour la somme de 28 197,79 $. Pour effectuer le paiement, l’appelante a signé en faveur de madame L’Écuyer un billet payable sur demande du même montant (pièce I‑2). Elle ne se souvient cependant pas qu’il ait été question de payer quoi que ce soit et madame L’Écuyer n’a jamais fait de demande de paiement dudit billet.
+[10] Son certificat d’actions était daté du 3 avril 2008 (pièce A‑2) et des résolutions d’usage ont aussi été signées (pièce I‑1). Le 30 décembre 2008, 688 a fait une demande de permis d’alcool (pièce I‑5) et la demande était signée par l’appelante. Le 24 mars 2009, elle a aussi signé une convention de compte de dépôt pour 688 avec la Banque Royale (pièce I‑6). 688 a reçu une demande péremptoire de production de renseignements en date du 22 janvier 2009 à l’adresse du restaurant, mais l’appelante affirme ne pas avoir pris connaissance de cette lettre.
+[11] Selon le comptable de 688, l’appelante était un prête‑nom. Il a rencontré cette dernière plusieurs fois dans le but de discuter des moyens de sauver l’entreprise familiale. L’appelante s’est enquise auprès du comptable si elle devait faire la proposition concordataire et ce dernier l'a assurée que c’était la bonne chose à faire. Elle a constaté que 688 était capable de payer ses dettes et le syndic aussi lui aurait dit que tout irait bien.
+[12] Le 13 mars 2009, l’appelante signe la proposition concordataire et la réunion des créanciers a eu lieu le 3 avril 2009. L’assemblée était présidée par la représentante du syndic, madame Chantal Gingras, et y étaient présents deux représentants de Revenu Québec (dont monsieur René Belisle), l’appelante et le comptable de 688, monsieur Yves Godin.
+[13] Le procès-verbal de la réunion (pièce I‑8) nous informe que les créanciers (en fait, Revenu Québec), se sont prononcés contre la proposition, et on note que l’appelante a admis qu’elle agissait à titre de prête-nom, et qu'elle a dit que Sébastien Harvey de Noël et Associés avait préparé en décembre les documents datés d’avril et qu’elle ne savait pas ce qu’elle signait. L’appelante a témoigné que monsieur Belisle lui avait dit qu’il savait qu’elle n’était pas l’administratrice de 688 et que c’était son conjoint qui était derrière tout cela. Le comptable a confirmé dans son témoignage les commentaires de monsieur Belisle et son refus d’accepter la proposition. 688 a donc fait faillite.
+[14] Selon monsieur Siriphanh, la nomination de l’appelante à titre d’administratrice n'a rien changé du tout quant à la gestion de 688. L'appelante se fiait à lui pour voir à tout et il lui aurait d’ailleurs dit qu’il s’occuperait du reste si elle acceptait de faire ce qu'il lui demandait.
+[15] La première cotisation établie à l’égard de l’appelante était de 54 145,35 $ et couvrait la période du 31 mai 2008 au 31 mars 2009. Après l'opposition, le ministre du Revenu national (le « ministre ») a modifié la cotisation à l’égard de l’appelante en changeant la période visée, qui était maintenant celle du 1er décembre 2008 au 31 mars 2009. Il n’est pas contesté que le ministre a établi auprès du syndic de faillite, à l’intérieur de la période prescrite à l'alinéa 323(2)c) de la Loi, une réclamation de la somme pour laquelle 688 est responsable.
+[16] Il s’agit donc de déterminer si l’appelante est, à titre d’administratrice de 688, redevable en vertu des dispositions de l’article 323 de la Loi du montant positif de la taxe nette que 688 a calculé et indiqué dans ses déclarations mensuelles pour la période allant du 1er décembre 2008 au 31 mars 2009 et qu'elle a omis de verser au receveur général du Canada.
+[17] L'obligation de 688 de produire une déclaration résulte des dispositions des paragraphes 228(1) et (2) de la Loi. La responsabilité des administrateurs d’une personne morale est engagée en vertu du paragraphe 323(1) de la Loi lorsqu’il y a omission par la personne morale de verser le montant de la taxe nette. Un administrateur peut, cependant, ne pas encourir cette responsabilité s’il peut établir que s'appliquent à lui les exceptions énoncées aux paragraphes 323(2) et (3) de la Loi. Les dispositions pertinentes sont ainsi rédigées :
+228. (1) La personne tenue de produire une déclaration en application de la présente section doit y calculer sa taxe nette pour la période de déclaration qui y est visée, sauf si les paragraphes (2.1) ou (2.3) s’appliquent à la période de déclaration.
+(2) La personne est tenue de verser au receveur général le montant positif de sa taxe nette pour une période de déclaration dans le délai suivant, sauf [si] les paragraphes (2.1) ou (2.3) s’appliquent à la période de déclaration :
+a) si elle est un particulier auquel le sous-alinéa 238(1)a)(ii) s’applique pour la période, au plus tard le 30 avril de l’année suivant la fin de la période;
+b) dans les autres cas, au plus tard le jour où la déclaration visant la période est à produire.
+323. (1) Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payé ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+(2) L’administrateur n’encourt de responsabilité selon le paragraphe (1) que si :
+a) un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l’article 316 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+b) la personne morale a entrepris des procédures de liquidation ou de dissolution, ou elle a fait l’objet d’une dissolution, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant le premier en date du début des procédures et de la dissolution;
+c) la personne morale a fait une cession, ou une ordonnance de faillite a été rendue contre elle en application de la Loi sur la faillite et l’insolvabilité, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant la cession ou l’ordonnance.
+(3) L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[18] Il ne fait aucun doute qu’en l’espèce l’appelante était administratrice de jure de 688. Elle a accepté d’assumer ce rôle à la demande de son conjoint et, à cette fin, s’est portée acquéresse des seules actions émises de 688 pour ainsi devenir la seule administratrice de celle-ci. Elle a par la suite signé toute la documentation nécessaire de sorte que son nom figure dans les procès-verbaux, sur les résolutions, sur la convention relative au compte bancaire, sur la demande de permis d’alcool et, particulièrement, sur la proposition concordataire de 688, faite aux créanciers.
+[19] Est-ce que l'appelante a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances? Est-ce que le contexte familial dans lequel l'appelante se trouvait permet de réduire dans les présentes circonstances le degré de soin, de diligence et de compétence requis ? Quant à cette dernière question, il s'agit évidemment d'un cas d'espèce.
+[20] Je ne peux passer sous silence la récente décision de la Cour d'appel fédérale rendue dans l'affaire Buckingham c. La Reine, 2011 CAF 142, qui écarte la norme subjective et qui établit que le critère ne devrait être qu'un objectif. L'application de cette norme plus stricte fait en sorte que les arguments basés sur des lacunes personnelles devaient être écartés. À cet égard, je cite le paragraphe 38 de la décision :
+Cette norme objective écarte le principe de common law selon lequel la gestion d'une société par un administrateur doit être jugée suivant les compétences, les connaissances et les aptitudes personnelles de celui-ci : Magasins à rayons Peoples, aux paragraphes 59 à 62. Si l'on qualifie cette norme d'objective, il devient évident que ce sont les éléments factuels du contexte dans lequel agissent l'administrateur qui sont importants, plutôt que les motifs subjectifs de ces derniers : Magasins à rayons, au paragraphe 63. L'apparition de normes plus strictes force les sociétés à améliorer la qualité des décisions des conseils d'administration au moyen de l'établissement de bonnes règles de régie d'entreprise : Magasins à rayons Peoples, au paragraphe 64. Des normes plus strictes empêchent aussi la nomination d'administrateurs inactifs choisis pour l'apparence ou qui ne remplissent pas leurs obligations d'administrateurs en laissant aux administrateurs actifs le soin de prendre les décisions. Par conséquent, une personne nommée administrateur doit activement s'acquitter des devoirs qui s'attachent à sa fonction, et il ne lui sera pas permis de se défendre contre une allégation de malfaisance dans l'exécution de ses obligations en invoquant son inaction : Kevin P. McGuinness, Canadian Business Corporations Law, 2e édition (Markham, Ontario: LexisNexis Canada, 2007), à la page 11.9.
+[21] Les circonstances propres à un administrateur peuvent être prises en considération, mais seulement au regard de la norme objective d'une personne raisonnablement prudente, tel que la Cour d'appel fédérale l'explique au paragraphe 39 :
+Une norme objective ne signifie toutefois pas qu'il ne doit pas être tenu compte des circonstances propres à un administrateur. Ces circonstances doivent être prises en compte, mais elles doivent être considérés au regard de la norme objective d'une « personne raisonnablement prudente ». Comme l'a souligné la Cour dans Magasins à rayons Peoples au paragraphe 62 :
+Le texte de l'al. 122(1)b) de la LCSA qui énonce l'obligation de diligence reprend presque mot à mot celui que propose le Rapport Dickerson. La principale différence réside dans le fait que la version qui a été adoptée comprend les mots "en pareilles circonstances", ce qui modifie la norme légale en exigeant qu'il soit tenu compte du contexte dans lequel une décision donnée a été prise. Le législateur n'a pas introduit un élément subjectif relatif à la compétence de l'administrateur, mais plutôt un élément contextuel dans la norme de diligence prévue par la loi. Il est clair que l'al. 122(1)b) est plus exigeant à l'égard des administrateurs et des dirigeants que la norme traditionnelle de diligence prévue par la common law et expliquée, par exemple, dans la décision Re City Equitable Fire Insurance, précitée. [1925] 1 Ch. 407]
+[22] Un dernier passage nous permet de nous rappeler ce que recherchait le législateur en adoptant une telle disposition. On peut lire ceci au paragraphe 52 de la décision Buckingham :
+Le Parlement n'a pas requis des administrateurs qu'ils soient assujettis à une responsabilité absolue relativement aux versements de leurs sociétés. En conséquence, le Parlement accepte qu'une société puisse, dans certaines circonstances, ne pas effectuer des versements sans que la responsabilité de ses administrateurs ne soit engagée. Ce qui est requis des administrateurs, c'est qu'ils démontrent qu'ils se sont effectivement préoccupés des versements fiscaux et qu'ils se sont acquittés de leur obligation de soin, de diligence et d'habileté afin de prévenir le défaut de la société de verser les montants visés.
+[23] L'avocat de l'appelante a cité des décisions de cette Cour qui évoquent un assouplissement de la norme de soin et de diligence applicable à la personne qu'on a qualifiée d'administrateur familial passif, par opposition à la personne qui est réellement libre de devenir administrateur et choisit de le devenir hors de tout contexte familial (voir Bousquet c. Canada, 2003 CCI 109 et Dirienzo c. Canada, [2000] A.C.I. no 287 (QL).
+[24] Notre Cour a cependant rendu aussi des décisions où elle a été moins indulgente à l'égard des administrateurs de jure qui, compte tenu des liens familiaux, n'assumaient pas leurs responsabilités d'administrateurs. Qu'il me suffise de faire référence aux décisions Penney c. Canada, [1999] A.C.I. no 803 (QL), [1999] G.S.T.C. 102, Black c. Canada, [1994] A.C.I. no 191 (QL), [1994] 1 C.T.C. 2750, Hanson c. Canada, [1996] A.C.I. no 1392 (QL), [1997] 1 CTC 2456 et Western c. Canada, [1999] A.C.I. no 155 (QL). L'ensemble de ces décisions met l'accent sur le fait qu'il n'y a rien dans le libellé des dispositions pertinentes qui donne à entendre que le législateur avait l'intention de prêter secours à un administrateur qui omet d'agir parce qu'il fait fi de ses responsabilités et de celles de la société dont il est l'administrateur. Qu'il me suffise de citer le paragraphe 22 de la décision du juge Sarchuk dans l'affaire Hanson :
+Le simple fait que quelqu'un devient administrateur dans un contexte familial n'est pas suffisant pour lui permettre de se détacher des affaires de la compagnie; de ne pas en tenir compte à toutes fins utiles; de ne pas tenir compte de ses responsabilités; de fait, d'aller jusqu'à omettre de poser une question aussi fondamentale que celle de savoir quelles sont ces responsabilités et d'échapper ainsi à la responsabilité prévue par les dispositions de la Loi.
+[25] Je retiens, tel que je l'ai déjà mentionné, que chaque cas doit être décidé selon les faits qui lui sont propres. En l'espèce, il est évident que l'appelante était consciente du fait qu'elle occupait le poste d'administratrice de 688. Elle n'a pas accepté aveuglément d'agir en cette qualité. Elle a pris le temps d'y réfléchir et, à mon avis, elle connaissait le rôle et les responsabilités qu'elle devait assumer. Elle connaissait aussi très bien la cause des difficultés financières de 688 et, particulièrement, elle savait le montant de la seule dette mentionée dans la proposition de faillite, à savoir celle résultant de l'omission de verser la taxe sur les ventes de 688. Son conjoint a dû faire faillite personnellement à cause du même genre de dette de la société précédente, qui elle non plus n'avait fait ses versements de taxe. L'appelante n'était donc pas sans connaître l'importance d'effectuer les versements de taxe et les conséquences que cela entraîne quand on ne les effectue pas. En fait, toutes les démarches qu'elle a entreprises après sa nomination à titre d'administratrice ont été faites dans le but de prendre des arrangements pour payer l'arriéré. C'est elle-même qui s'est rendue d'ailleurs chez le notaire pour faire l'acquisition de la totalité des actions de 688 afin de pouvoir s'occuper de la proposition concordataire. J'ai peine à croire que l'appelante ait pu signer des résolutions du conseil d'administration de 688, les documents relatifs au transfert des actions de 688, une convention d'achat et surtout un billet payable sur demande de $28,197.79 sans se rendre compte de la nature et de l'importance de tout cela et des responsabilités que cela engendrait.
+[26] Le rôle de l'appelante ne s'est pas terminé là. Elle a par la suite fait la demande d'un permis d'alcool pour 688 et a ouvert un compte de dépôt. Elle a eu plusieurs rencontres seule avec le comptable dans le but de préparer la proposition concordataire. Si son rôle n'était que celui de prête-nom, pourquoi ces réunions ont-elles eu lieu avec elle et non avec son conjoint? Il en va de même pour la rencontre avec le syndic de faillite qui a préparé la proposition. En assumant toutes ces responsabilités, elle a démontré qu'elle jouait un rôle actif, et à aucun moment, n'a-t-elle fait un effort pour prévenir le manquement de 688 à l'obligation de verser la taxe dans les périodes pertinentes. Étant depuis longtemps au courant de la faiblesse de son conjoint pour ce qui est du versement de la taxe perçue par 688, elle se devait d'y voir elle-même et elle ne l'a pas fait.
+[27] Quant à la question de savoir si le fait que le vérificateur ait pu qualifier l'appelante de prête-nom lors de la réunion des créanciers, je tiens à préciser que la Cour n'est pas liée par une telle opinion, d'autant plus que le vérificateur n'a pas été appelé à témoigner à l'audience. Il en va de même pour celle exprimée par le comptable.
+[28] L'appel est rejeté.
+Signé, ce 11e jour d'octobre 2011.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2011 CCI 388
+Nº DU DOSSIER DE LA COUR : 2010-661(GST)I
+INTITULÉ DE LA CAUSE : Marie-Ève Latulippe c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : le 29 juin 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 11 octobre 2011
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Christian-Daniel Landry
+Avocate de l'intimée :
+Me Joëlle Bitton
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom : Me Christian-Daniel Landry
+Cabinet : Me Christian-Daniel Landry, avocat
+Gatineau (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

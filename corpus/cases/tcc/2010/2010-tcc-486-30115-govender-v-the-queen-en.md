@@ -1,0 +1,195 @@
+---
+title: "Govender v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30115/index.do"
+last_modified: "2010-10-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 486"
+citation2: ""
+neutral_citation: "2010 TCC 486"
+decision_date: "2010-10-01"
+language: "en"
+item_id: "30115"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7630
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:59:45.779000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7cab508235a40e6963efcf09ce356d9f8ad15b31333541a06e8a897db845167b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Govender v. The Queen
+
+- Citation: 2010 TCC 486
+- Decision date: 2010-10-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7630, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Govender v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-01
+Neutral citation
+2010 TCC 486
+File numbers
+2010-1338(IT)APP
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1338(IT)APP
+BETWEEN:
+ASOGAN GOVENDER,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on September 15, 2010,
+at Vancouver, British Columbia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Amandeep K. Sandhu
+____________________________________________________________________
+AMENDED ORDER
+The application made by Asogan Govender to extend the time within which the appeal of the reassessment of his liability under the Income Tax Act for his 2004 taxation year may be instituted, is dismissed, without costs, for the amended reasons as attached.
+This Amended Order and Amended Reasons for Order is issued in substitution for the Order and Reasons for Order dated October 1, 2010.
+Signed at Halifax, Nova Scotia, this 8th day of October, 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC486
+Date: 20101008
+Docket: 2010-1338(IT)APP
+BETWEEN:
+ASOGAN GOVENDER,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+Webb J.
+[1] The Applicant has made an application to extend the time within which he may institute an appeal of the reassessment of his liability under the Income Tax Act for his 2004 taxation year.
+[2] The Applicant is a truck driver and in 2004 he incorporated his business. He indicated that he relied entirely on his accountant in relation to all of the accounting and income tax matters related to his business and the transfer of assets to his corporation in 2004.
+[3] The Applicant was reassessed in relation to his liability for income taxes for 2004 on June 29, 2007. He filed a notice of objection and the confirmation of the reassessment was mailed on June 20, 2008.
+[4] By letter dated February 13, 2009 (which was more than 90 days after the notice of confirmation was mailed to the Applicant) the accountant for the Applicant wrote a letter addressed to this Court at the address for this Court in Vancouver. However for some unexplained reason this letter was actually delivered to the Canada Revenue Agency (the “CRA”) in Surrey, British Columbia.
+[5] This letter was not forwarded by the CRA to this Court until October 29, 2009, which was more than one year and 90 days from the date that the notice of confirmation was mailed to the Applicant.
+[6] The Applicant filed this application to extend the time within which an appeal may be instituted on April 22, 2010.
+[7] Subsections 167(1), (3) and (5) of the Income Tax Act provide as follows:
+167 (1) Where an appeal to the Tax Court of Canada has not been instituted by a taxpayer under section 169 within the time limited by that section for doing so, the taxpayer may make an application to the Court for an order extending the time within which the appeal may be instituted and the Court may make an order extending the time for appealing and may impose such terms as it deems just.
+…
+(3) An application made under subsection (1) shall be made by filing in the Registry of the Tax Court of Canada, in accordance with the provisions of the Tax Court of Canada Act, three copies of the application accompanied by three copies of the notice of appeal.
+…
+(5) No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+[8] Justice Sharlow of the Federal Court of Appeal in Dewey v. The Queen, 2004 FCA 82, 2004 DTC 6159, [2004] 2 C.T.C. 311 stated that:
+3 Section 167 of the Income Tax Act permits the Tax Court to extend the time for commencing an appeal to the Tax Court, if a number of the conditions are met. A failure to meet any one of the conditions is fatal to the application.
+[9] Counsel for the Respondent focused on the condition that the application must be made within one year and 90 days from the date of the mailing of the notice of confirmation[1]. It is clear that no application was filed with this Court until well after this time period had expired. The letter dated February 13, 2009 was addressed correctly but was not delivered to this Court until after this time period had expired. The application to extend time that was filed directly with this Court was filed on April 22, 2010 which was long after this time period had expired. While the failure of the Applicant to file with this Court an application as contemplated by section 167 of the Income Tax Act within the time period as provided by paragraph 167(5)(a) of the Income Tax Act is a valid reason to dismiss the application, I would also like to focus on the issue that the Applicant is trying to appeal.
+[10] The letter dated February 13, 2009 from the Applicant’s accountant stated as follows:
+Re: Asogan Govender SIN …
+2004 Tax return
+Attached you will find the following documents:
+1. Required filing fee
+2. Copy of the original Notice of Objection filed
+3. Copy of the revised T2057 election with applicable payment filed on or about September 28, 2007
+4. Amended 2005 and 2006 T2 returns
+We have been made aware of the change made to ITA Sec. 14(1.01) which replaced ITA Sec 14(1) sometime in 2004. This change made goodwill ineligible to be treated as a capital gain[2].
+As this change in law will produce unintended tax consequences for the taxpayer, the taxpayer seeks to utilize ITA Sec 85(7) to amend the original election filed on or about September 28, 2007, in conjunction with the original Notice of Objection.
+The taxpayer request the Minister amend his original reassessment to account for the reduced eligible capital expenditure income inclusion in 2004, and this file be referred to Mr. David McKay, Audit Division, at the Burnaby Fraser Appeals Division.
+Should this appeal not appear to be filed in time, the registrant’s representative kindly requests the Minister use his discretion to grant an extension of time for filing the Notice of Objection pertaining to the reassessment for the year 2004, as this was paperwork filed incorrectly due to an administrative error at the representative’s office, and therefore was unnecessarily delayed.
+I trust this will resolve the issue at hand. Please contact the writer directly with your questions or comments.
+[11] The accountant referred to subsection 85(7) of the Income Tax Act. However, it appears that this should have been a reference to subsection 85(7.1) of the Income Tax Act since it is this subsection that relates to amended election forms filed under section 85 of the Income Tax Act, not subsection 85(7) of the Income Tax Act.
+[12] Subsections 85(7) and (7.1) of the Income Tax Act provide as follows:
+(7) Where the election referred to in subsection (6) was not made on or before the day on or before which the election was required by that subsection to be made and that day is after May 6, 1974, the election shall be deemed to have been made on that day if, on or before the day that is 3 years after that day,
+(a) the election is made in prescribed form; and
+(b) an estimate of the penalty in respect of that election is paid by the taxpayer or the partnership, as the case may be, when that election is made.
+(7.1) Where, in the opinion of the Minister, the circumstances of a case are such that it would be just and equitable
+(a) to permit an election under subsection (1) or (2) to be made after the day that is 3 years after the day on or before which the election was required by subsection (6) to be made, or
+(b) to permit an election made under subsection (1) or (2) to be amended,
+the election or amended election shall be deemed to have been made on the day on or before which the election was so required to be made if
+(c) the election or amended election is made in prescribed form, and
+(d) an estimate of the penalty in respect of the election or amended election is paid by the taxpayer or partnership, as the case may be, when the election or amended election is made,
+and where this subsection applies to the amendment of an election, that election shall be deemed not to have been effective.
+[13] It seems clear that the accountant is trying to amend the election form that was filed under section 85 of the Income Tax Act in relation to the elected amount for goodwill. He is not objecting to the assessment of income tax based on the amount that was elected but rather is trying to change the tax consequences by changing the elected amount. Since the amount of taxes were assessed correctly based on the amount that the accountant had elected as the proceeds of disposition for the goodwill, there is no basis to appeal the assessment (or the reassessment) of the Applicant’s income tax liability for 2004 to this Court.
+[14] If the Applicant is questioning whether the Minister exercised his discretion (as provided in subsection 85(7.1) of the Income Tax Act) properly, then that is not a matter for this Court. This Court only has jurisdiction to deal with appeals as provided in the Income Tax Act.
+[15] This Court was formed by an Act of Parliament, the Tax Court of Canada Act. The jurisdiction of this Court is set out in section 12 of that Act and in particular subsection 12(1) of this Act provides as follows:
+12. (1) The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the Air Travellers Security Charge Act, the Canada Pension Plan, the Cultural Property Export and Import Act, Part V.1 of the Customs Act, the Employment Insurance Act, the Excise Act, 2001, Part IX of the Excise Tax Act, the Income Tax Act, the Old Age Security Act, the Petroleum and Gas Revenue Tax Act and the Softwood Lumber Products Export Charge Act, 2006 when references or appeals to the Court are provided for in those Acts.
+(emphasis added)
+[16] The right to appeal to this Court is provided in subsection 169(1) of the Income Tax Act which provides as follows:
+169. (1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[17] The remedies that this Court may grant in relation to appeals arising under the Income Tax Act are set out in section 171 of this Act which provides that:
+171. (1) The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[18] This Court has the jurisdiction to deal with appeals arising from assessments or reassessments and whether such assessments or reassessments are correct. This Court does not have the jurisdiction to review the decision of the Minister to not permit the Applicant to amend the section 85 election form that was filed in relation to the transfer of assets to his corporation.
+[19] The application to extend the time to appeal that was filed on April 22, 2010 did not raise any other issue in relation to the reassessment of the Applicant. This application stated that:
+An extension of time is required because:
+1. The applicant’s 2004 re-assessment was confirmed by the Minister on June 20, 2008.
+2. An adjustment request under ITA subsection 85(7), relating to the unintended tax consequences to the appellant, was not processed during the appeals process. This adjustment was not followed up on by the taxpayer’s representative.
+3. This unprocessed adjustment request went unnoticed by the appellant until February, 2009, who was still expecting a reassessment for 2004 to take place. Accordingly, the appellant filed an appeal to the Tax Court of Canada on February 13, 2009 to allow the amended T2057 under ITA subsection 85(7).
+4. The appeal was incorrectly hand-delivered to the Canada Revenue Agency (CRA) at 9755 King George Highway, Surrey, BC on or about February 13, 2009. The appeal was not returned to the appellant, nor was it forwarded to the Tax Court of Canada until late October or early November 2009 after a delay of nearly nine months, by which time normal extension for time are no longer allowed.
+[20] The only matter to which the Applicant referred was the “unprocessed adjustment request”. This is not a matter over which this Court has jurisdiction.
+[21] The application made by Asogan Govender to extend the time within which the appeal of the reassessment of his liability under the Income Tax Act for his 2004 taxation year may be instituted, is dismissed.
+This Amended Order and Amended Reasons for Order is issued in substitution for the Order and Reasons for Order dated October 1, 2010.
+Signed at Halifax, Nova Scotia, this 8th day of October, 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC486
+COURT FILE NO.: 2010-1338(IT)APP
+STYLE OF CAUSE: ASOGAN GOVENDER AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: September 15, 2010
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF AMENDED ORDER: October 8, 2010
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Amandeep K. Sandhu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Nanaimo, British Columbia
+[1] This is the result of the provisions of subsection 169(1) and paragraph 167(5)(a) of the Income Tax Act.
+[2] It is not entirely clear what change the accountant is referring to in this letter. Subsection 14(1.01) was added to the Income Tax Act by S.C. 2001, c. 17, subsec. 7(1), applicable to taxation years that end after February 27, 2000. This subsection allowed a taxpayer to elect to treat gains on certain dispositions of eligible capital property as capital gains. However this provision, when it was added to the Income Tax Act, specifically stated that it applied to eligible capital property (other than goodwill) and therefore the gain on goodwill was not eligible to be treated as a capital gain from the time when this subsection was added.

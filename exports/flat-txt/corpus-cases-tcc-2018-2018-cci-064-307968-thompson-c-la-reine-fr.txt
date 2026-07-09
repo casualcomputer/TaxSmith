@@ -1,0 +1,127 @@
+Title: Thompson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/307968/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-064-307968-thompson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-03-29
+
+# Thompson c. La Reine
+
+- Citation: 2018 CCI 064
+- Decision date: 2018-03-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7540, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thompson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-03-29
+Référence neutre
+2018 CCI 064
+Numéro de dossier
+2015-2968(IT)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-2968(IT)G
+ENTRE :
+AGNES THOMPSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 septembre 2017, à Prince George (Colombie-Britannique)
+Devant : L’honorable juge Russell
+Comparutions :
+Avocat de l’appelante :
+Me R. Daniel Lyons
+Avocat de l’intimée :
+Me Jeff Watson
+JUGEMENT
+L’appel de la cotisation établie le 23 août 2013 en application de l’article 160 de la Loi de l’impôt sur le revenu du Canada est accueilli, sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, étant entendu que les 22 353 $ dépensés pour les rénovations s’ajoutent au montant de la contrepartie établi par le ministre et que le montant de 7 200 $ établi par le ministre pour les frais de gestion doit être réduit de 50 %.
+Le présent jugement remplace le jugement du 29 mars 2018.
+Signé à Ottawa, Canada, ce 6e jour de mai 2018.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 26e jour d’octobre 2018.
+Elisabeth Ross, jurilinguiste
+Référence : 2018CCI64
+Date : 20180329
+Dossier : 2015-2968(IT)G
+ENTRE :
+AGNES THOMPSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+Introduction
+[1] Agnes Thompson, l’appelante, interjette appel de la cotisation établie le 23 août 2013 en application de l’article 160 de la Loi de l’impôt sur le revenu du Canada. La question en litige, pour reprendre les paroles d’un des avocats, porte uniquement sur les « chiffres », à savoir quelle est la juste valeur marchande du bien transféré ainsi que la valeur de la contrepartie donnée pour ce bien.
+[2] Personne ne conteste que le bénéficiaire et l’auteur du transfert, soit la mère et son fils adulte, soient des personnes qui ont un lien de dépendance. Personne ne conteste que, le jour du transfert, le 8 décembre 2005, le fils et auteur du transfert, Randy Thompson, fût un débiteur fiscal canadien pour les années d’imposition 2000 et 2001. L’intimée a établi l’hypothèse de fait selon laquelle la dette fiscale, à la date de la cotisation (bien après le transfert du 8 décembre 2005), s’élevait à 42 213 $, ce qui n’est pas contesté [1] . Personne ne conteste non plus que le transfert a bien eu lieu à cette date, quand le fils, résident du Mexique, a transféré par cession de titre une maison dont il était le propriétaire unique, sur Stevens Drive à Prince George, en Colombie-Britannique, (le « bien en cause ») à l’appelante, sa mère, qui résidait à Prince George.
+Preuve
+[3] Selon le témoignage quasi incontesté de la seule personne à comparaître, l’appelante, qui était agente immobilière à Prince George pour toute la période pertinente, Randy Thompson, son fils, possédait le bien en cause depuis un certain temps quand il a déménagé au Mexique en 2001. Avant de partir, il avait loué le bien en cause, pour reprendre les mots de sa mère en 2017, à [traduction] « d’horribles personnes », qui devaient verser le loyer mensuel dans son compte bancaire. Le loyer devait servir au remboursement par versements mensuels du prêt hypothécaire sur le bien en cause. Toutefois, les locataires ne payaient pas le loyer. L’appelante et son fils ont reçu une [traduction] « demande finale », par lettre datée du 23 novembre 2001, rédigée par un avocat de l’endroit pour le compte du créancier hypothécaire du bien en cause, la Banque TD, laquelle les avisait que l’arriéré de 8 219 $ devait être payé dans les 10 jours, faute de quoi des procédures judiciaires (les « procédures de forclusion ») seraient entamées.
+[4] L’appelante s’est alors rendue à la maison en cause. Il est vite devenu clair que la maison servait alors à la culture de la marijuana. Cette activité a causé des dommages importants à l’intérieur de la maison, notamment des trous qui avaient été taillés dans les murs et les planchers. La chaudière avait été adaptée pour servir de ventilateur évacuant vers les égouts les odeurs générées par la culture. Le câblage électrique avait été modifié, et une fausse cloison dissimulant une pièce avait été construite. Le niveau d’humidité était trop élevé dans toute la maison. En tant qu’agente immobilière, l’appelante savait ce qui arrivait dans cette ville aux maisons ayant servi pour la culture de marijuana : elles perdaient parfois de 30 à 40 % de leur valeur. Peu après la découverte de leurs activités, les « locataires » du bien en cause ont quitté les lieux, en décembre 2001.
+[5] Une nouvelle lettre de l’avocat de la banque, datée du 8 janvier 2002, a été reçue. Il y était indiqué que le solde dû du prêt hypothécaire, pour le capital seulement, s’élevait à 111 313 $ au 3 janvier 2002. Si 10 529 $ étaient payés dans les 10 jours, les procédures de forclusion ne seraient pas entamées pour le capital. Aucun paiement hypothécaire n’était fait, et la maison était vacante. L’appelante et son fils ont discuté de la situation, à la suite de quoi l’appelante a elle-même fourni à la banque des chèques postdatés en 2002 pour payer les paiements hypothécaires dus et en régler d’autres venant à échéance. Elle a continué à faire ces paiements en 2003, avec l’aide occasionnelle de son fils. Ce dernier travaillait au Mexique comme agent immobilier, dans le contexte de l’après‑11 septembre, et la situation économique y était difficile.
+[6] Pendant la période de 2001 à 2004, l’appelante a aussi financé des rénovations apportées au bien en cause pour réparer les dommages importants causés par la culture de marijuana. Différentes factures ont été produites, organisées par KPMG, lesquelles faisaient état de dépenses totales de 22 353 $ en réparations durant cette période. Randy Thompson n’a envoyé d’argent pour aucune de ces réparations, qui ont été payées par l’appelante. En 2006, peu après l’acquisition du bien par l’appelante à la fin de 2005, une nouvelle chaudière de 1 498 $ a été installée.
+[7] La maison n’était pas louée pendant cette période. La fille de l’appelante et son enfant en bas âge y ont emménagé vers la fin de 2002. Celle‑ci s’est occupée chaque année de quatre ou cinq paiements bancaires mensuels jusqu’à ce que le bien en cause soit transféré à l’appelante en décembre 2005.
+[8] L’avis envoyé en 2005 par la Ville de Prince George concernant les taxes foncières dues le 8 juillet 2005 montre que, selon l’évaluation municipale, le bien en cause valait 136 700 $. L’avis d’évaluation foncière provinciale de la Colombie‑Britannique de 2005 indique une valeur marchande au 1er juillet 2004 du même montant, 136 700 $. Le 1er octobre 2001, Randy Thompson avait mis en vente la maison, demandant 140 000 $ (à cette date, il n’y avait pas de problèmes liés à la culture de marijuana ou, s’il y en avait, ils étaient encore inconnus), mais elle n’a pas été vendue. L’appelante dit qu’il aurait été impossible de vendre la maison pour 136 700 $ en 2002, étant donné l’importance des dommages causés par la culture de marijuana et des réparations à faire en conséquence.
+[9] L’appelante a témoigné que le bien ne lui avait pas été transféré plus tôt afin d’établir des antécédents solides relativement aux paiements hypothécaires. Ainsi, le taux d’intérêt d’un futur prêt hypothécaire, s’il était basé sur ces antécédents, pourrait être plus raisonnable que si le prêt était lié à un bien hypothéqué ayant presque fait l’objet d’une forclusion.
+[10] Le ministre du Revenu national (le « ministre ») a établi, en application de l’article 160, une cotisation de 42 213 $ (le montant de la dette fiscale de Randy Thompson au moment de l’établissement de la cotisation). Le ministre a refusé de reconnaître que les dépenses faites pour les rénovations constituaient une contrepartie pour le bien au motif que rien dans les pièces justificatives n’indiquait que les dépenses se rapportaient au bien ni que l’appelante les avait payées personnellement. Le ministre a accordé 200 $ par mois (7 200 $ en tout) pour les frais allégués de gestion du bien et aussi 1 371 $ pour les primes d’assurance. Cependant, ces rajustements n’ont pas suffi à ramener le montant de la contrepartie sous celui de la dette fiscale de 2005, l’année du transfert, reportée à la date de la cotisation du 23 août 2013. Le ministre a établi la cotisation en se fondant sur l’hypothèse selon laquelle la juste valeur marchande du bien en cause était de 150 000 $ le jour du transfert et que la contrepartie reçue était de 95 901 $, soit près de la totalité du capital encore à rembourser du prêt hypothécaire pris en charge.
+[11] Dans ses observations, l’avocat de l’appelante a soutenu que la juste valeur marchande du bien en cause, à la date du transfert du 8 décembre 2005, n’était pas de 150 000 $ comme le ministre en avait fait l’hypothèse, mais plutôt de 136 700 $ tout au plus, et qu’il faudrait abaisser davantage cette somme pour tenir compte des dommages causés par la culture de marijuana.
+[12] En ce qui concerne le montant de la contrepartie, l’avocat de l’appelante a soutenu que le montant du prêt hypothécaire pris en charge était en réalité de 111 313 $, soit le montant, mentionné plus haut, établi quand l’appelante a été menacée de forclusion. De plus, l’appelante a payé des dépenses supplémentaires pour rénover la maison (22 353 $), afin de pouvoir éventuellement vendre le bien en cause. Elle avait assumé [traduction] « tous les tracas ». Si l’on additionne les 111 313 $, les 22 353 $ et les montants que le ministre avait déjà reconnus pour l’assurance (914 $) et les frais de gestion (7 200 $), le montant de la contrepartie excède la juste valeur marchande du bien en cause. Par conséquent, selon l’avocat, rien ne justifiait l’établissement d’une cotisation en application de l’article 160. L’appelante était contrainte de rénover pour préserver sa réputation professionnelle d’agente immobilière qui aurait été ternie si l’appelante avait été associée à une maison endommagée. L’appelante et son fils ont dû attendre jusqu’en 2005 pour faire le transfert parce que l’appelante n’avait pas l’argent nécessaire pour prendre en charge le prêt hypothécaire.
+[13] L’avocat de l’intimée a soutenu que le ministre avait évalué la contrepartie à 104 000 $ au total. L’avocat a reconnu que l’appelante avait payé 22 353 $ pour les réparations sur le bien en cause, ce que le ministre n’avait pas reconnu précédemment. Il a ajouté que le fait que la fille de l’appelante ait vécu dans la maison constituait un nouveau renseignement qui, s’il avait été connu plus tôt, aurait pu avoir une incidence sur le rajustement fait par le ministre relativement aux frais de gestion allégués.
+Discussion et décision
+[14] Je me pencherai d’abord sur la question de la juste valeur marchande du bien en cause à la date du transfert du 8 décembre 2005. Au milieu de l’année 2004, il avait été évalué que la maison avait une valeur marchande de 136 700 $. La maison avait été mise en vente en 2001 pour 140 000 $, sans être vendue. On était alors peu après la tragédie du 11 septembre qui, selon l’appelante, a refroidi le marché immobilier durant une longue période, y compris dans la ville de Prince George. La maison a aussi subi des dommages importants causés par la culture de marijuana de la fin de l’année 2001. À la fin de l’année 2005, la maison avait fait l’objet de rénovations substantielles et avait eu pour locataires la fille et le petit-enfant de l’appelante pendant environ les deux années précédant la date du transfert. Rien dans la preuve n’indique que la valeur marchande établie à 136 700 $ au milieu de l’année 2004 reflète la perte de valeur causée par les dommages subis en raison de la culture de marijuana.
+[15] Cependant, tout cela est éclipsé à mon avis par la déclaration signée de l’appelante (pièce R-1, onglet 5) dans le formulaire intitulé « Land Title Act Form A (Section 181(1)) » du 8 décembre 2005 (le jour du transfert), selon laquelle la « valeur marchande » du bien en cause était de 150 000 $. Qui plus est, l’appelante est agente immobilière. Elle s’y connaît en la matière. Je n’ai aucun motif de mettre en doute le montant qu’elle a établi. C’est également le montant que le ministre a utilisé. Je ne suis pas convaincu par la thèse que défend actuellement l’appelante selon laquelle la juste valeur marchande était plus basse, ce qui laisse entendre qu’elle aurait commis une erreur dans sa déclaration du 8 décembre 2005.
+[16] Pour ce qui est de la question de la contrepartie, vu les faits en l’espèce, j’ajouterais les dépenses de rénovation de 22 353 $ au montant de la contrepartie établi par le ministre. C’est sans doute pour les mêmes motifs que le ministre a inclus dans son calcul de la contrepartie le montant pour les frais allégués de gestion de 200 $ par mois, pour un total de 7 200 $. Le ministre reconnaît ainsi que l’appelante a entretenu la maison et l’a réparée au besoin pendant la période à proximité du transfert du 8 décembre 2005.
+[17] Cependant, je réduirais de 50 % le montant de 7 200 $ accordé par le ministre pour les frais de gestion étant donné que la fille de l’appelante et son jeune enfant ont fait usage du bien en cause pendant une bonne partie de la période des rénovations.
+[18] Pour les motifs qui précèdent, le présent appel interjeté sous le régime de la procédure informelle est accueilli, sans dépens.
+Signé à Ottawa, Canada, ce 29e jour de mars 2018.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 26e jour d’octobre 2018.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2018CCI64
+No DU DOSSIER DE LA COUR :
+2015-2968(IT)G
+INTITULÉ :
+AGNES THOMPSON ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Prince George (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 28 septembre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+DATE DU JUGEMENT MODIFIÉ :
+Le 29 mars 2018
+Le 6 mai 2018
+COMPARUTIONS :
+Avocat de l’appelante :
+Me R. Daniel Lyons
+Avocat de l’intimée :
+Me Jeff Watson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me R. Daniel Lyons
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Le montant exact, en date de l’année d’imposition 2005, quand le transfert a eu lieu, de la dette fiscale de Randy Thompson pour les années d’imposition 2000 et 2001 n’a pas été fourni, mais il semble que la dette dont il est question le 23 août 2013 soit constituée de cette seule dette fiscale.

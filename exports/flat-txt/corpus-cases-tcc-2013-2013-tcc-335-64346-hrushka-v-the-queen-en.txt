@@ -1,0 +1,156 @@
+Title: Hrushka v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64346/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-335-64346-hrushka-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-10-24
+
+# Hrushka v. The Queen
+
+- Citation: 2013 TCC 335
+- Decision date: 2013-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5921, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hrushka v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-10-24
+Neutral citation
+2013 TCC 335
+File numbers
+2012-1486(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1486(IT)I
+BETWEEN:
+DAVID HRUSHKA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 2 and 4, 2013 at Edmonton, Alberta
+By: The Honourable Justice Judith M. Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Paige Atkinson
+____________________________________________________________________
+JUDGMENT
+The appeal from determinations made under the Income Tax Act for the period from January 2011 to July 2011 with respect to the child tax benefit and the goods and services tax credit is dismissed. The appellant is entitled to costs which are fixed in the amount of $150.
+Signed at Toronto, Ontario this 24th day of October 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 335
+Date: 20131024
+Docket: 2012-1486(IT)I
+BETWEEN:
+DAVID HRUSHKA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, David Hrushka, appeals in respect of determinations that he was not eligible for the child tax benefit and the goods and services tax credit under the Income Tax Act for the period from January to July, 2011 (the “Period”).
+[2] The issue is whether Mr. Hrushka was an “eligible individual” as that term is defined in section 122.6 of the Act. There are two central questions to be decided. The first is whether Mr. Hrushka primarily fulfilled the responsibility for the care and upbringing of his daughter, as that phrase is defined. The second is whether Mr. Hrushka lived with his daughter on an equal or near equal basis with his former spouse.
+Legislative scheme
+[3] The child tax benefit and the goods and services tax credit are monthly and quarterly benefits, respectively, that are provided to parents who are responsible for the care of their children.
+[4] Until July 2011, the benefits were payable to only one of the parents. The eligible parent was generally the one who had primary responsibility for the care of the child, although the legislation for the goods and services tax credit permitted parents to select which of them would be entitled to the credit.
+[5] Effective July 1, 2011, the legislation was amended to provide that these benefits had to be shared if separated parents had equal or near equal responsibility for the child. A new definition of “shared-custody parent” was introduced for this purpose.
+[6] This appeal straddles the effective date of this amendment. Accordingly, the new shared-custody provisions must be considered for the last month of the Period, namely July 2011.
+Background
+[7] Mr. Hrushka testified on his own behalf at the hearing and Sylvia Kuncewicz testified pursuant to a subpoena issued by the Crown.
+[8] Mr. Hrushka and Ms. Kuncewicz separated in 2009 and were divorced in 2012. There is one child of the marriage, a daughter, who at the relevant time was approximately four years old and attending daycare.
+[9] Mr. Hrushka was a university student during the Period and Ms. Kuncewicz worked as a public health officer.
+[10] The care of the child is subject to an interim order of the Court of Queen’s Bench of Alberta dated March 26, 2010. It provides in part:
+1. IT IS ORDERED THAT the [mother] and [father] shall have interim joint custody of the child of the marriage, [child], with the child to maintain her primary residence with the [mother].
+2. IT IS ORDERED THAT the [father] shall have reasonable and generous access to the child of the marriage specified as follows:
+(a) every Wednesday from time of day care pick up to 8:30 pm when he is to return the child to the [mother’s] residence;
+(b) every Friday from time of day care pick up to 8:30 pm when he is [sic] return the child to the [mother’s] residence, however, this access shall be extended every second weekend such that the [father] shall have access from the time of day care pick up on Friday to Sunday at 5:00 pm when he shall return the child to the [mother’s] residence.
+[11] During the Period, the above terms were followed, and they continue to be followed except for a small adjustment which is not material. Accordingly, it is clear that the child resided with each parent in each month during the Period. This is not in dispute.
+[12] However, the parents did not agree as to who qualified for the benefits at issue, and each parent applied for them.
+Discussion
+[13] The legislative regime that is applicable to the child tax benefit and the goods and services tax credit is complex. It would not be useful in this appeal to describe the legislation in detail, and I would refer readers to the excellent summary in the decision of Webb J. (as he then was) in D’Elia v The Queen, 2012 TCC 180.
+[14] The issue is whether Mr. Hrushka was an “eligible individual” during the Period, as that term is defined in s. 122.6 of the Act. As described in D’Elia, the relevant legislation requires that Mr. Hrushka be an eligible individual for both the child tax benefit and the goods and services tax credit because the parents are not in agreement as to who should receive the benefits.
+[15] The relevant parts of the definition of “eligible individual,” as it currently reads, are reproduced below.
+“eligible individual” in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is a parent of the qualified dependant who
+(i) is the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant and who is not a shared‑custody parent in respect of the qualified dependant, or
+(ii) is a shared-custody parent in respect of the qualified dependant,
+[…]
+and for the purposes of this definition,
+(f) where the qualified dependant resides with the dependant’s female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+[16] The legislation above is the version currently in force, and it refers to the shared-custody rule. Since this rule only became effective on July 1, 2011, the references above to shared-custody should be ignored for all months during the Period except for July 2011. The effect of the shared-custody rule will be discussed later in these reasons.
+The care and upbringing requirement
+[17] Subject to the new shared-custody rule, the definition of “eligible individual” requires that Mr. Hrushka reside with the child and also be the parent who primarily fulfills the responsibility for the care and upbringing of the child.
+[18] It is clear that the child resided with Mr. Hrushka because she spent a significant amount of time with her father as part of her usual routine. The only remaining question, then, is whether Mr. Hrushka primarily fulfilled the care and upbringing responsibility.
+[19] If spouses who are separated both claim the benefits, as they did in this case, then the presumption of care and upbringing in favour of the female parent in paragraph (f) of the definition of “eligible individual” does not apply: D’Elia, at paragraph 24.
+[20] In this case, paragraph (h) of the definition of “eligible individual” requires that the care and upbringing of the child be determined by prescribed factors. For this purpose the prescribed factors are enumerated in section 6302 of the Income Tax Regulations, which is set out in the following excerpt from D’Elia.
+[34] These prescribed factors are set out in section 6302 of the Regulations and are as follows:
+6302. For the purposes of paragraph (h) of the definition “eligible individual” in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[21] Based on the totality of the evidence, I have concluded that Ms. Kuncewicz primarily fulfilled the responsibility for the care and upbringing of the child during the Period.
+[22] I would first note that clause (h) of the relevant regulation requires that the court order be taken into account. The order provides that the primary residence of the child is with Ms. Kuncewicz. In terms of access by the father, the order provides that the access should be generous, but the time allotted is less than the time the child spends with Ms. Kuncewicz. According to the evidence, the court order has been followed. This is very strong evidence that Ms. Kuncewicz primarily fulfills the responsibility for the care and upbringing of the child.
+[23] However, the evidence also reveals that Ms. Kuncewicz has fixed hours of work and Mr. Hrushka has flexibility with his schedule as a student. In light of this, Mr. Hrushka is sometimes more available during the day to care for the child if the child has to leave the daycare for medical or other reasons. Based on the evidence as a whole, I do not think these occasions are frequent enough to tip the scales so that Mr. Hrushka can be said to primarily fulfill the care and upbringing role.
+[24] Mr. Hrushka testified that, after the Period, he was very active in dealing with a problem at the child’s school and Ms. Kuncewicz did not get involved. Based on the evidence of both parents, I would conclude that such incidents do not establish that Ms. Kuncewicz did not assume primary responsibility for the care of the child. Rather, the circumstances are more indicative of a difference in parenting style.
+[25] The evidence as a whole suggests that both Mr. Hrushka and Ms. Kuncewicz are dedicated parents who are committed to the care and upbringing of the child. It appears that Mr. Hrushka and Ms. Kuncewicz have different parenting styles, but this should not be a factor in deciding who should be entitled to the benefits at issue.
+Shared-custody rule
+[26] As a result of an amendment to the definition of “eligible individual” effective July 2011, if parents are shared-custody parents, as defined, the benefits are to be shared between them.
+[27] The term “shared-custody parent” is defined in s. 122.6 of the Act, which reads:
+“shared-custody parent” in respect of a qualified dependent at a particular time means, where the presumption referred to in paragraph (f) of the definition “eligible individual” does not apply in respect of the qualified dependant, an individual who is one of the two parents of the qualified dependant who
+(a) are not at that time cohabitating spouses or common-law partners of each other,
+(b) reside with the qualified dependant on an equal or near equal basis, and
+(c) primarily fulfil the responsibility for the care and upbringing of the qualified dependant when residing with the qualified dependant, as determined in consideration of prescribed factors.
+[28] Based on the definition above, and the evidence before me, it is clear in this case that Mr. Hrushka is not a shared-custody parent because he did not reside with the child on an equal or near equal basis. The child spends most of her time at the residence of her mother, except for weekends, which are divided equally. This does not satisfy the near equal residence requirement.
+Procedural issues
+[29] Before concluding, I would mention two procedural issues. Due to deficiencies with the assumptions made by the Minister and in the description of the issue in the Reply, there was considerable confusion at the hearing as to the legal test that was applicable. Importantly, there was no reference to the care and upbringing of the child anywhere in the Reply.
+[30] In light of this confusion, the evidence was presented on one day and the parties returned later in the week for argument. I am satisfied that there was no ultimate prejudice to Mr. Hrushka that could not be compensated for by costs.
+[31] Further, in light of the deficiencies with the assumptions, which did not refer to the care and upbringing of the child, I concluded that the Crown should bear the burden in this respect. Since the Crown called Ms. Kuncewicz to testify, I am satisfied that the relevant facts were brought out into evidence and that the change in burden did not affect the outcome.
+Conclusion and disposition
+[32] In the result, the appeal will be dismissed. However, Mr. Hrushka should be entitled to costs relating to the second day of hearing. Costs will be awarded in the amount of $150.
+[33] Finally, I would comment concerning a financial hardship issue that Mr. Hrushka raised at the hearing. Mr. Hrushka stated that the CRA originally ruled in his favour and paid the benefits to him. The CRA subsequently reversed its position, but by this time Mr. Hrushka could not access the funds to repay the benefits because he had placed the funds in an account for the child that he is not able to access.
+[34] Although these circumstances are sympathetic, the legislation does not permit me to take them into account for purposes of this appeal.
+Signed at Toronto, Ontario this 24th day of October 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 335
+COURT FILE NO.: 2012-1486(IT)I
+STYLE OF CAUSE: DAVID HRUSHKA and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATES OF HEARING: July 2 and 4, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: October 24, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Paige Atkinson
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

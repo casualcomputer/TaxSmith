@@ -1,0 +1,301 @@
+Title: O'Keefe c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28775/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-250-28775-o-keefe-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-05-02
+
+# O'Keefe c. La Reine
+
+- Citation: 2006 CCI 250
+- Decision date: 2006-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1562, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+O'Keefe c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-02
+Référence neutre
+2006 CCI 250
+Numéro de dossier
+2004-226(GST)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004‑226(GST)G
+ENTRE :
+J. DAVID O’KEEFE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Saint John (Nouveau‑Brunswick),
+les 11 et 12 avril 2006
+Devant : l’honorable D. G. H. Bowman, juge en chef
+Comparutions :
+Avocat de l’appelant :
+Me Rodney J. Gillis, c.r.
+Avocats de l’intimée :
+Mes Cecil S. Woon et Lisa Wight
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 24 juillet 2002 et porte le numéro 68045, est accueilli avec dépens et la cotisation établie en vertu de l’article 323 de la Loi sur la taxe d’accise est annulée.
+Signé à Ottawa, Canada, ce 2e jour de mai 2006.
+« D. G. H. Bowman »
+D. G. H. Bowman, juge en chef
+Traduction certifiée conforme
+ce 18e jour de juillet 2008.
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI250
+Date : 20060502
+Dossier : 2004‑226(GST)G
+ENTRE :
+J. DAVID O’KEEFE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Il s’agit d’un appel d’une cotisation établie en vertu de l’article 323 de la Loi sur la taxe d’accise (la « LTA »), d’un montant de 201 541,02 $, à l’égard de la taxe nette non versée de Wicklow Logging Co. Ltd. (« Wicklow »). En vertu de l’article 323, lorsqu’une personne morale omet de verser la taxe nette au receveur général en vertu de la LTA, les administrateurs sont solidairement tenus, avec cette dernière, de payer cette taxe. Un administrateur peut échapper à cette responsabilité dérivée en démontrant qu’il a fait preuve d’une « diligence raisonnable ». Cette expression est simplement une façon sommaire d’énoncer le critère figurant au paragraphe 323(3), qui est rédigé comme suit :
+(3) L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[2] Il existe énormément de décisions au sujet de ce que ce critère comporte. L’arrêt le plus souvent cité est Soper v. The Queen, [1997] 3 C.T.C. 242 (C.A.F.), dont les motifs ont été rédigés par le juge Robertson, de la Cour d’appel fédérale, motifs auxquels le juge Linden a souscrit. Le juge Marceau a prononcé des motifs concourants. L’arrêt Soper renferme un examen érudit, minutieusement énoncé, de la question de la responsabilité que nos lois fiscales imposent aux administrateurs; l’avocat de l’intimée a cité de longs passages de cet arrêt. Toutefois, cela se résume fondamentalement à une question de fait : qu’est‑ce qu’une personne raisonnable aurait fait, compte tenu des circonstances de l’époque, pour prévenir l’omission de la personne morale de verser la taxe? Il s’agit d’un critère factuel qui se rapporte essentiellement à la question du caractère raisonnable.
+[3] Le principal témoin de l’appelant était l’appelant lui‑même, M. O’Keefe. Je l’ai trouvé crédible et son témoignage n’a pas été ébranlé lors du contre‑interrogatoire. Les faits qu’il a allégués à l’appui du moyen de défense fondé sur la diligence raisonnable de l’administrateur sont énoncés succinctement comme suit dans l’avis d’appel :
+[traduction]
+1. M. J. David O’Keefe a fait l’objet, en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise, d’une cotisation d’un montant de 201 541,02 $ à l’égard de l’omission de Wicklow Logging Co. Ltd. de verser la taxe nette, comme l’exige le paragraphe 228(2), les 31 janvier , 29 février, 30 avril et 31 décembre 2000 ou vers ces dates.
+2. Le contribuable était administrateur de Wicklow Logging Co. Ltd. (« Wicklow »).
+3. Le contribuable était administrateur de Juniper Lumber Co. Ltd. (« Juniper ») tant qu’il n’eut pas démissionné, à la fin de l’été 2000.
+4. Dans une lettre qu’elle a envoyée au contribuable le 9 juillet 2002, l’ADRC a fait remarquer qu’on avait l’intention d’établir une cotisation à l’égard de celui‑ci étant donné qu’à son avis, le contribuable n’avait pas satisfait aux normes du moyen de défense fondé sur la diligence raisonnable, et ce, pour les raisons suivantes :
+En votre qualité d’administrateur de votre client le plus important, vous étiez en mesure, par l’entremise des deux sociétés, d’exercer un contrôle et de connaître les répercussions de cette omission d’agir.
+5. Le principal client de Wicklow était Juniper.
+6. J. David O’Keefe n’exerçait aucun contrôle sur Wicklow; Mitchell Corey, qui était l’un des administrateurs de Wicklow, s’occupait de toutes les activités commerciales.
+7. Le 7 mars 2000 ou vers cette date, le seul client de Wicklow, Juniper, a présenté une demande et s’est vu accorder la protection en vertu de la LACC. Au moment de la présentation de la demande, Juniper devait 3 090 148,40 $ à Wicklow.
+8. À ce moment‑là, Wicklow devait à la Banque de Nouvelle‑Écosse un montant de 2 382 205,96 $ sur une lettre de crédit.
+9. Le 14 mars 2000, J. David O’Keefe a écrit à la Banque de Nouvelle‑Écosse pour exprimer ses préoccupations au sujet de la conduite de M. Corey à l’égard de l’exploitation de Wicklow; il a tenté de faire bloquer le compte bancaire de la personne morale, tentative qui s’est avérée infructueuse.
+10. Le 4 avril 2000, J. David O’Keefe a reçu une lettre de la Banque, qui exigeait le remboursement immédiat de tous les montants dus par Wicklow.
+11. Le 7 avril 2000, J. David O’Keefe s’est rendu compte que la Banque avait en fait augmenté le montant de la ligne de crédit de Wicklow, alors que cette dernière n’en avait pas besoin et qu’il n’avait pas été consulté en sa qualité d’administrateur. Lorsqu’il a appris la chose, M. O’Keefe a avisé l’avocat de M. Corey et lui a demandé de remettre la somme de 139 500 $, de façon à honorer les dettes existantes que Wicklow avait envers Revenu Canada, envers la Banque et envers les créanciers non garantis.
+12. Les activités quotidiennes de Wicklow ont toujours été exercées par Mitchell Corey; le comptable de Mitchell Corey, Roger Rogers, s’occupait des aspects financiers. Le 30 juin 2000, M. J. David O’Keefe a écrit à Mitchell Corey pour lui faire savoir que la mesure non autorisée qu’il avait prise avait directement eu pour effet de mettre fin aux activités de Wicklow et que la Banque de Nouvelle‑Écosse avait exigé le remboursement des prêts qu’elle avait consentis.
+13. M. O’Keefe a en outre fait savoir que, vu que M. Corey s’était emparé du contrôle de Wicklow, il aurait dû veiller à ce que les registres de la personne morale soient à jour et en outre que tous les fonds que celui‑ci avait versés au mois de mars 2000, s’élevant à 139 500 $ en tout, auraient dû être utilisés pour couvrir des dépenses légitimes.
+14. Wicklow avait fait l’objet d’une cotisation pour TVH impayée d’un montant de 277 531 $. En 2000, J. David O’Keefe a demandé à la personne morale de payer le montant étant donné qu’elle était clairement fautive, mais M. Corey a décidé de contester la cotisation.
+15. Au printemps et pendant l’été 2000, un agent de validation et d’exécution de l’ADRC a étudié le dossier et d’autres dossiers à Juniper (Nouveau‑Brunswick); il a conseillé au ministère de faire enregistrer un privilège pour recouvrer cette somme.
+16. Au début du mois de mars 2000, J. David O’Keefe et sa sœur, Susan O’Keefe, ont rencontré M. Corey en vue de s’assurer que Wicklow Logging Co. Ltd. continue à fournir du bois à Juniper pour permettre à cette dernière de continuer à exploiter son entreprise. M. Corey a refusé.
+17. À peu près au même moment, l’examen des états financiers de Juniper a permis de constater qu’il y avait des irrégularités comptables en ce sens que, dans les états financiers vérifiés, Juniper avait largement surestimé les stocks de bois de Juniper. Dans la semaine suivant cette découverte, J. David O’Keefe et Susan O’Keefe ont fait présenter une demande à la Cour, à titre d’administrateurs responsables de Juniper, en vue de protéger les actifs de Juniper en vertu de la LACC au profit de ses créanciers, dont Wicklow.
+18. La question en litige dans cet appel se rapporte à l’obligation du contribuable en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise, d’un montant de 177 086,68 $, et à l’égard des arriérés d’intérêts et des pénalités plus les intérêts et pénalités y afférents depuis la date de la cotisation initiale.
+19. Il s’agit de savoir si le contribuable a satisfait à la norme nécessaire, de façon à être exonéré de la responsabilité qui lui incombe en vertu des dispositions du paragraphe 323(3) de la Loi sur la taxe d’accise, relativement au moyen de défense fondé sur la diligence raisonnable.
+À la fin de l’avis d’appel, M. O’Keefe a fait la remarque suivante :
+[traduction] Je, J. David O’Keefe, ai tenté par tous les moyens possibles de faire en sorte que soient remboursés tous les créanciers de Juniper, dont j’étais administrateur, et de Wicklow, dont j’étais administrateur. Les activités de Wicklow relevaient entièrement de Mitchell Corey et de son comptable. Lors de la vérification au début de 2000, je suis allé jusqu’à informer M. Rocksborough, représentant de l’ADRC, que la demande de tiers devrait être délivrée avant que Wicklow fasse faillite; si cela avait été fait, il y aurait eu suffisamment de fonds pour satisfaire à la demande relative à la TVH.
+Essentiellement, M. Corey a assumé le contrôle de la société et m’a exclu de toute activité de Wicklow.
+[4] Les faits, tels qu’ils sont énoncés dans l’avis d’appel, ont été fondamentalement prouvés au moyen des documents et du témoignage de M. O’Keefe.
+[5] Les hypothèses par lesquelles le ministre du Revenu national a ratifié la cotisation sont énoncées aux paragraphes 19 et 20 de la réponse à l’avis d’appel. J’estime un peu inhabituel que soient énoncées les hypothèses sur lesquelles la ratification est fondée, mais non celles sur lesquelles la cotisation est fondée. Toutefois, je ne me propose pas d’examiner ce point intéressant puisque je suis convaincu que, quelle que soit la personne qui avait charge de la preuve, l’appelant a démontré qu’il a fait preuve d’une diligence raisonnable. Les paragraphes 19 et 20 sont rédigés comme suit :
+[traduction]
+19. En ratifiant ainsi la cotisation, le ministre a supposé les faits suivants :
+a) les faits énoncés et admis ci‑dessus;
+b) la personne morale s’occupait de fournir du bois;
+c) pendant la période pertinente, la personne morale était inscrite en vertu de la partie IX de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E‑15, dans sa forme modifiée (la « Loi »);
+d) la Loi obligeait la personne morale à produire ses déclarations relatives à la TPS sur une base mensuelle;
+e) pendant la période pertinente, l’appelant était administrateur de la personne morale;
+f) pendant la période pertinente, l’appelant était président et propriétaire à 50 p. 100 de la personne morale;
+g) l’appelant a donné une garantie personnelle de 400 000 $ à l’égard de l’endettement de la personne morale envers la Banque de Nouvelle‑Écosse;
+h) l’appelant est un homme d’affaires chevronné;
+i) l’appelant s’occupait des activités quotidiennes de la personne morale;
+j) la personne morale a omis de verser au receveur général la TPS nette à percevoir comme suit :
+Période terminée le
+TPS nette non versée
+Intérêts
+Pénalité
+Total
+31 janvier 2000
+86 729,71 $
+3 209,22
+3 232,81 $
+93 171,74 $
+29 février 2000
+86 142,00
+2 236,19
+2 248,41
+90 626,60
+30 avril 2000
+0,00
+5 895,35
+6 952,89
+12 848,24
+31 décembre 2000
+314,73
+19,98
+30,20
+364,91
+31 janvier 2001
+3 900,24
+251,29
+378,00
+4 529,53
+Montants impayés déterminés en vertu de l’article 323 de la LTA
+177 086,68 $
+11 612,03 $
+12 842,31 $
+201 541,02 $
+k) le 22 novembre 2000, une ordonnance de séquestre a été rendue à l’encontre de la personne morale en vertu de la Loi sur la faillite et l’insolvabilité;
+l) le 6 février 2001, une preuve de réclamation d’un montant de 647 638,31 $ à l’égard de la dette de la personne morale mentionnée à l’alinéa j) a été envoyée au syndic des biens de la personne morale;
+m) le 5 mars 2001, une preuve modifiée de réclamation d’un montant de 436 244,13 $ à l’égard de la dette de la personne morale mentionnée à l’alinéa j) a été envoyée au syndic des biens de la personne morale;
+n) pendant la période pertinente, l’appelant était administrateur de Juniper Lumber Co. Ltd. (« Juniper »);
+o) pendant la période pertinente, l’appelant était président et chef de l’exploitation de Juniper;
+p) l’appelant s’occupait des activités quotidiennes de Juniper;
+q) Juniper exerçait ses activités dans le domaine de la foresterie, elle exploitait une scierie et elle fabriquait des poutrelles;
+r) Juniper était le principal client de la personne morale;
+s) à la fin de 1999, Juniper faisait face à des problèmes de flux de trésorerie;
+t) à la fin de 1999, l’appelant était au courant des difficultés financières de Juniper;
+u) à compter de la fin de 1999, l’appelant a permis à la personne morale de continuer à fournir du bois à Juniper;
+v) au 7 mars 2000, Juniper devait plus de 3 millions de dollars à la personne morale;
+w) à compter de la fin de 1999, l’appelant savait que Juniper ne pouvait pas payer le bois qu’elle achetait de la personne morale;
+x) à compter de la fin de 1999, la personne morale faisait face à des difficultés financières;
+y) à compter de la fin de 1999, l’appelant savait ou aurait dû savoir que la personne morale faisait face à des difficultés financières;
+z) à compter de la fin de 1999, l’appelant savait ou aurait dû savoir qu’il était peut‑être difficile ou qu’il risquait d’être difficile pour la personne morale d’effectuer les versements;
+aa) l’appelant n’a pas pris de mesures en vue d’empêcher la personne morale d’omettre de verser la TPS au receveur général.
+20. Les hypothèses de fait énoncées ci‑dessus aux alinéas 19o), s) et t) ont d’abord été émises par le ministre lorsqu’il a ratifié la cotisation.
+[6] Comme le montreront les motifs énoncés ci‑dessous, il a été établi, à mon avis, que les alinéas i), p), s), t), u), w), y), z) et aa) sont erronés.
+[7] L’avocat de l’appelant, Me Gillis, a fondé son argument sur quatre propositions qui, selon ses dires, sont étayées par la jurisprudence :
+a) en règle générale, les administrateurs passifs ne sont pas libérés de la responsabilité imposée à l’article 323 de la LTA, mais des normes différentes s’appliquent lorsque des familles sont en cause;
+b) les administrateurs externes ne sont pas tenus de respecter les mêmes normes que les administrateurs internes;
+c) les administrateurs peuvent à bon droit compter sur la compétence des gestionnaires, et notamment des comptables, en vue de s’assurer que les versements sont effectués;
+d) la perfection n’est pas exigée; il suffit de faire preuve d’une diligence raisonnable.
+[8] Je ne suis pas sûr que j’irais jusqu’à élever ces énoncés au rang de principes d’application générale, bien qu’ils aient certes été des facteurs qui, dans certains cas, ont influé dans une certaine mesure sur la décision. Je dirais plutôt qu’ils constituent les aspects de la détermination factuelle générale qui doit être faite dans les cas où la conduite de l’administrateur doit être examinée par rapport au critère du caractère raisonnable eu égard aux circonstances particulières qui existaient au moment pertinent.
+[9] Les circonstances, à la fin de 1999 et en 2000, sont les suivantes. Juniper Lumber Co. Ltd. (« Juniper ») était une société familiale contrôlée par la famille O’Keefe. Sa gestion et son exploitation quotidiennes relevaient entièrement du père de l’appelant, J. Beverly O’Keefe, président et directeur général. Il exerçait le contrôle effectif sur Juniper, du moins jusqu’à ce qu’il tombe malade, le 26 février 2000, exerçant un pouvoir autocratique patriarcal bienveillant. L’appelant s’était vu conférer le titre de président et de chef de l’exploitation par son père, mais son père l’excluait effectivement de la gestion de Juniper.
+[10] Une bonne partie de la preuve a été consacrée à la connaissance qu’avait l’appelant des affaires commerciales de Juniper et à sa participation à ces affaires. Néanmoins, l’appelant n’a pas fait l’objet d’une cotisation à l’égard de la dette fiscale de Juniper. La prémisse sur laquelle le ministre semble s’être fondé pour établir la cotisation de l’appelant en sa qualité d’administrateur de Wicklow est énoncée dans une lettre envoyée à ce dernier le 9 juillet 2002 par l’agent de recouvrement de l’Agence du revenu du Canada (l’« ARC ») :
+[traduction] En votre qualité d’administrateur de votre plus gros client, vous étiez en mesure, par l’entremise des deux sociétés, d’exercer un contrôle et de connaître les répercussions découlant de l’omission de prendre des mesures.
+[11] Cet avis a de nouveau été exprimé au stade de l’opposition. Dans la lettre envoyée par l’agent des appels le 22 mai 2003, voici ce qui est dit :
+[traduction] La période qui était importante dans ce cas‑ci était celle au cours de laquelle M. O’Keefe savait, au début de l’an 2000, que Juniper ne pouvait pas satisfaire à ses obligations quant aux sommes à payer à Wicklow. M. O’Keefe a laissé Wicklow continuer à fournir les produits à Juniper, de sorte que les obligations de Wicklow sur le plan de la TVH allaient en augmentant.
+[12] Malgré l’accent qui a été mis sur la présumée connaissance qu’avait M. O’Keefe des affaires financières de Juniper, il ressort clairement de la preuve que l’appelant n’a été mis au courant des difficultés financières auxquelles Juniper faisait face qu’après la maladie de son père, lorsqu’il a découvert, à sa grande surprise, que les stocks de bois inscrits dans les livres de Juniper avaient été gonflés d’environ 15 000 000 $. Il semble que cela a été fait par le père de l’appelant, à l’insu de l’appelant, en vue de justifier un financement additionnel.
+[13] Par conséquent, l’appelant et sa sœur ont immédiatement présenté une demande de protection pour Juniper en vertu de la Loi sur les arrangements avec les créanciers des compagnies (la « LACC »). L’insuffisance importante des stocks a entraîné la fermeture temporaire de la scierie.
+[14] Compte tenu de l’importance accordée à la présumée participation de l’appelant aux affaires de Juniper et à sa présumée connaissance de ces affaires, j’examinerai d’une façon plus détaillée cette partie de l’affaire, même si je crois qu’on a trop insisté sur la relation qu’il entretenait avec Juniper. Toutefois, il se peut bien que les difficultés auxquelles faisait face Juniper, qu’il a découvertes après la maladie de son père, aient influé sur l’attention qu’il pouvait accorder à la question du versement par Wicklow de la taxe sur les produits et services (la « TPS »). En théorie, la connaissance que l’appelant avait de la situation financière de Juniper à la fin de 1999 et au début de 2000 (situation dont il n’a été mis au courant, selon ce que je conclus, qu’à la fin de février 2000) voulait dire qu’il aurait pu empêcher Juniper d’acheter du bois à Wicklow, de sorte que l’obligation de cette dernière quant à la TPS n’aurait pas augmenté. Il s’agit d’une théorie nouvelle, dont je n’ai encore jamais entendu parler dans les affaires de responsabilité des administrateurs dont j’ai été saisi. Je tenterai d’énoncer la théorie comme suit :
+Vous étiez administrateur de Wicklow et de Juniper. En votre qualité d’administrateur de Juniper, vous auriez pu empêcher Juniper d’acheter du bois à Wicklow, de sorte que l’obligation relative à la TPS n’aurait pas augmenté. La chose aurait empêché Wicklow d’avoir une « taxe nette » à verser en vertu de l’article 228 de la LTA.
+[15] En d’autres termes, l’omission de Wicklow de verser la taxe nette, omission que l’appelant aurait dû empêcher selon la Couronne, découle du fait que l’appelant, en sa qualité d’administrateur de Juniper, n’a pas veillé à ce que Juniper n’achète pas de bois à Wicklow, de façon que l’obligation de verser la taxe nette ne prenne jamais naissance.
+[16] Avec égards, je crois que cette théorie est viciée en droit et que le fondement factuel la sous‑tendant est extrêmement précaire. L’obligation de verser la taxe nette en vertu de l’article 228 et l’omission de le faire en vertu de l’article 323 présupposent l’existence de l’obligation fiscale. Dans ce cas‑ci, il semble que l’idée soit la suivante : si l’appelant s’était montré dûment diligent en sa qualité d’administrateur de Wicklow, il aurait dû, en sa qualité d’administrateur de Juniper, veiller à ce que Juniper n’achète plus de bois, de sorte que l’obligation de Wicklow de verser la taxe nette n’aurait jamais pris naissance.
+[17] Le fondement factuel de cette théorie plutôt contestable est pour le moins conjectural :
+a) L’appelant n’était pas au courant de la situation financière de Juniper tant qu’il n’a pas découvert les valeurs gonflées des stocks, à la fin de février 2000, et il a alors immédiatement présenté une demande en vue d’être protégé en vertu de la LACC. Jusqu’à ce moment‑là, son père consultait en champ clos Mitchell Corey, qui exerçait un contrôle quotidien sur toutes les affaires de Wicklow. Le père était probablement au courant de la situation financière de Juniper et de Wicklow, tout comme M. Corey, selon toute probabilité.
+b) Il n’y a absolument rien que l’appelant ait pu faire pour empêcher Juniper d’acheter des grumes à Wicklow. C’était son père qui prenait les décisions au sujet des achats de Juniper jusqu’au 26 février 2000 et, en moins d’une semaine environ, les mesures prévues par la LACC sont entrées en jeu. Même si l’appelant avait pu empêcher Juniper d’acheter du bois à Wicklow (et il n’aurait pu le faire), cela aurait amené la fermeture de la scierie et un grand nombre d’employés se seraient trouvés en chômage. La capacité de Juniper d’acheter du bois était essentielle à sa production continue et, de fait, à sa survie. Il aurait été tout à fait déraisonnable pour l’appelant de ne pas tenir compte de ses obligations à titre d’administrateur de Juniper et de laisser l’entreprise fermer ses portes afin de faire en sorte que l’obligation relative à la TPS de Wicklow n’augmente pas. Le caractère raisonnable des actions d’un administrateur doit être examiné dans le contexte de la réalité du commerce. La fermeture d’une grosse entreprise et la mise à pied d’employés, pour que l’obligation relative à la TPS d’un fournisseur n’augmente pas, ne constituent pas une solution réaliste et n’ont rien de raisonnable. En outre, tout ce qu’on aurait réussi à faire, en plus de mettre à pied des gens et d’entraîner l’arrêt des activités d’une grosse entreprise du Nouveau‑Brunswick, aurait été d’empêcher l’obligation relative à la TPS d’aller en augmentant.
+c) La théorie présuppose qu’en sa qualité d’administrateur de Juniper et de Wicklow, l’appelant était tenu de veiller à empêcher la naissance d’obligations de Wicklow relatives à la TPS en prenant des mesures à titre d’administrateur de Juniper, lesquelles n’auraient pas nécessairement été au mieux des intérêts de Juniper. Je n’ai pas à décider ce qu’aurait dû faire[1] l’administrateur qui se trouve dans une telle situation, sur le plan du droit des sociétés, mais il ne m’est pas difficile de décider, en me fondant sur le bon sens, qu’il était tenu d’essayer d’agir d’une façon qui n’aille pas à l’encontre des intérêts des deux personnes morales. Un puriste pourrait dire que, si l’appelant percevait un conflit, il aurait dû démissionner à titre d’administrateur des deux personnes morales. Cela aurait pu répondre à l’idée qu’on se fait de la rectitude en matière d’entreprise, mais la seule chose qu’on aurait réussi à faire aurait été de jeter les deux personnes morales dans un gâchis encore plus grave que celui auquel elles faisaient déjà face.
+[18] Le passage suivant de l’affidavit de l’appelant, qui a été déposé à l’appui de la demande présentée en vertu de la LACC, montre la situation chaotique qui existait au début de 2000 :
+[traduction]
+QUESTIONS URGENTES ACTUELLES AUXQUELLES FONT FACE LES PERSONNES MORALES
+NIVEAU DES STOCKS
+39. Les stocks de bois, soit le matériau brut utilisé à la scierie, sont rangés dans deux catégories : « les stocks dans les cours » et « les stocks en forêt ».
+Les stocks dans les cours sont ceux qui se trouvent à la scierie même ou à proximité et qui peuvent facilement être utilisés pour la production, ce qui peut comprendre le bois des terres de la Couronne et le bois acheté. Les stocks en forêt sont composés du bois des terres de la Couronne qui s’y trouve encore.
+40. Malgré la valeur des stocks figurant dans les états financiers internes non vérifiés de Juniper pour le mois de janvier et dans le certificat du mois de février, il a été déterminé récemment que la quantité de bois faisant réellement partie des stocks est de beaucoup inférieure à ce qui était indiqué. Juniper a l’intention de faire mener une enquête au sujet de cet écart et de retenir les services d’un évaluateur de stocks pour déterminer le niveau exact de ses stocks.
+41. À cause des conditions météorologiques et de l’état des routes, les stocks qui se trouvent en forêt ne peuvent être utilisés pour la production en ce moment. Compte tenu des dernières estimations disponibles, je crois que les stocks qui se trouvent dans les cours ne permettront de produire que pendant quelques jours. Il faut donc que Juniper achète du bois, à défaut de quoi elle sera forcée de mettre fin à la production.
+QUESTIONS RATTACHÉES AU FOURNISSEUR
+42. Deux fournisseurs, Wicklow Logging Co. Ltd. (« Wicklow ») et Glassville Logging Co. Ltd. (« Glassville ») ont déposé des déclarations d’un montant de 3 250 274,41 $ et de 1 205 248,88 $ respectivement, conformément à la Loi sur le droit de rétention des bûcherons, le 25 février 2000, et des brefs de saisie ont été délivrés.
+43. Vers 21 h 30, le 6 mars 2000, M. Mitchell Corey, de Wicklow et de Glassville, s’est présenté dans les locaux de Juniper avec des shérifs adjoints afin de faire exécuter les brefs de saisie. Les shérifs adjoints ont demandé aux employés de Juniper de décharger les camions qui étaient prêts à partir pour livrer les produits finis; ils leur ont fait savoir qu’aucun matériau brut ne devait être utilisé et qu’aucun produit fini ne devait être enlevé des lieux. Je crois également comprendre, par suite de discussions avec les employés qui étaient présents, que M. Corey a, par ses actions, empêché les fournisseurs qui tentaient de livrer du bois à ce moment‑là d’en faire la livraison.
+44. Ces actions ont entraîné la fermeture temporaire de la scierie et empêché Juniper d’honorer ses engagements envers ses clients. Il ne sera pas possible de reprendre les activités si l’ordonnance sollicitée en vertu de la LACC n’est pas rendue, et il sera mis fin à l’emploi d’autres employés.
+DÉFICIT DE CAISSE
+45. Comme il en a été fait mention ci‑dessus, la ligne de crédit d’exploitation dépasse le plafond d’emprunt d’un montant d’environ 1,3 million de dollars, à l’heure actuelle, indépendamment des insuffisances de stocks. Étant donné que les stocks disponibles sont minimes, il faudra continuer à acheter du bois afin de maintenir la production.
+46. Compte tenu des prévisions relatives aux flux de trésorerie qui viennent d’être dressées, même si les activités de la scierie étaient ramenées à un seul poste, de façon à réduire les achats de bois, la ligne de crédit d’exploitation nécessaire devrait être augmentée à quelque 22,5 millions de dollars pour assurer le maintien des activités jusqu’à la fin du mois de mars 2000, si aucune demande n’était faite en vertu de la LACC. Compte tenu des circonstances actuelles, Juniper n’a pas accès à un tel niveau de financement.
+LA GESTION
+47. Comme il en a été fait mention ci‑dessus, J. Beverly O’Keefe était responsable à tous les égards de la gestion quotidienne de Juniper. Le samedi 26 février 2000, il est tombé malade et a été hospitalisé. M. O’Keefe est encore à l’hôpital et ne peut participer à la gestion de l’entreprise; il a démissionné à titre de dirigeant et d’administrateur de Juniper et de Connell. J’ai assumé provisoirement la responsabilité de l’exploitation de l’usine.
+48. Juniper cherche activement un directeur général de l’extérieur en vue d’assumer provisoirement le contrôle de l’exploitation de Juniper le plus tôt possible. Elle a l’intention d’embaucher une personne qui a énormément d’expérience dans le secteur canadien de la foresterie et de l’industrie du bois et qui est acceptable pour les prêteurs. Juniper a également l’intention de renforcer son équipe de gestion financière.
+[19] J’examinerai maintenant ce qui me semble être la question pertinente au sujet des mesures que l’appelant aurait raisonnablement pu prendre en vue de prévenir l’omission de Wicklow de verser la taxe nette de 201 541,02 $. Je note que, dans ce montant, deux montants mentionnés à l’annexe A de la cotisation de M. O’Keefe (onglet 2 de la pièce AR‑1), soit 86 729,71 $ et 86 142 $, sont qualifiés de [traduction] « cotisation fondée sur les déclarations », alors que le reste des 201 541,02 $ est composé de montants qualifiés de [traduction] « cotisation établie par voie de vérification ». La différence entre les deux désignations est que, selon la preuve fournie par le représentant de l’ARC, une [traduction] « cotisation fondée sur les déclarations » est basée sur une déclaration qui a été produite, contrairement à une cotisation établie par voie de vérification. Cela indique, selon moi, qu’un montant de plus de 172 000 $ au titre de la TPS non versée a donné lieu à une cotisation lors de la production de déclarations relatives à la TPS, de sorte que Wicklow produisait apparemment des déclarations.
+[20] En réponse à la question de savoir ce que l’appelant aurait pu faire, l’intimée dit simplement : [traduction] « Il aurait pu faire en sorte que Wicklow paie la taxe ». Cela est bien facile à dire, mais, avec égards, ce n’est pas aussi simple que cela. En fait, Mitchell Corey, qui avait détourné d’une façon illégitime un montant d’environ 139 000 $ sur les fonds de Wicklow, tenait effectivement l’appelant à l’écart des affaires de Wicklow.
+[21] Les affaires de Wicklow étaient dirigées par M. Corey et, malgré son titre et le fait qu’il était administrateur de la personne morale, l’appelant ne possédait aucun pouvoir effectif lui permettant d’influer sur la conduite de celle‑ci. En outre, la comptabilité associée à la TPS ainsi que la production des déclarations relatives à la TPS étaient effectuées par un comptable, Roger Rogers. M. O’Keefe n’avait aucun motif de croire que la TPS n’était pas versée tant que le défaut n’avait pas déjà eu lieu et il était alors trop tard pour faire quoi que ce soit, même s’il avait pu le faire. M. O’Keefe était en droit de s’en remettre à MM. Rogers et Corey, du moins tant que M. Corey n’avait pas commencé à détourner des fonds de Wicklow.
+[22] La relation existant entre Wicklow, M. Corey et l’appelant est exposée dans les lettres suivantes qu’ont échangées M. Corey et l’appelant. La première lettre, datée du 20 juin 2000, a été envoyée à l’appelant par M. Corey et la seconde, datée du 30 juin 2000, à M. Corey par l’appelant.
+[traduction]
+Le 20 juin 2000
+Objet : Comptabilité concernant Wicklow
+Monsieur,
+Comme vous le savez, au cours des derniers mois, la situation, à Juniper Lumber, a nui aux activités de Wicklow Logging Co. Ltd. Il est donc de plus en plus important que des décisions soient prises pour qu’on s’occupe d’une façon appropriée des affaires de Wicklow. Il faut se pencher sur des questions telles que la préparation des déclarations relatives à la TVH, le versement des retenues à la source, les feuillets T4, la vérification de fin d’exercice et ainsi de suite. Toutefois, il est difficile de le faire étant donné que les livres et registres de Wicklow n’ont pas été mis à jour depuis le mois de janvier 2000.
+Pour m’assurer que ma conduite en qualité d’administrateur et de propriétaire de la société demeure juste, j’aimerais avoir votre avis à ce sujet. Les registres peuvent être établis par mon bureau, par vous‑mêmes ou encore par un tiers indépendant. Toutefois, les frais qu’exigerait le recours à un tiers pourraient bien être exorbitants, étant donné que Wicklow n’a accès à aucune source de financement. Vous devriez également examiner la question de savoir de quelle façon la vérification de fin d’exercice sera payée.
+Si vous avez des questions, n’hésitez pas à communiquer avec moi.
+Veuillez agréer mes salutations distinguées.
+(original signé par)
+M. Mitchell Corey
+‑ ‑ ‑
+[traduction]
+Le 30 juin 2000
+Objet : Wicklow Logging Co. Ltd. (« Wicklow »)
+Monsieur,
+Je viens de recevoir votre lettre du 20 juin 2000, qui a été rédigée d’une façon inappropriée sur du papier à en‑tête de Wicklow Logging Co. Ltd. Par suite de vos actions non autorisées, les activités de Wicklow ont cessé et la Banque de Nouvelle‑Écosse a demandé le remboursement des prêts qu’elle avait consentis. La Banque de Nouvelle‑Écosse devrait désigner un séquestre pour Wicklow; c’est avec lui seul que je traiterai en ce qui concerne les questions soulevées dans votre lettre.
+C’est vous qui vous êtes emparé du contrôle de Wicklow, et c’est vous qui auriez dû veiller à ce que ces questions soient réglées. Pourquoi la question des registres vous préoccupe‑t‑elle tant maintenant? Votre conduite n’était pas autorisée et elle était inappropriée, comme le montre le fait que vous avez touché un salaire de plus de 30 000 $ (j’espère que vous avez versé l’impôt requis), salaire auquel vous n’aviez pas droit, et c’est vous qui avez retenu les services d’avocats, au coût de plus de 100 000 $, pour mener un litige non autorisé, dont vous seul pouviez tirer parti, et non Wicklow. Je veux que les registres soient établis d’une façon appropriée. Je veux également m’assurer que le montant que Wicklow réclame à Juniper et à Connell soit versé à la Banque de Nouvelle‑Écosse.
+Par suite de la conduite non autorisée et préjudiciable que vous avez eue à ce jour, je ne traiterai plus avec vous en ce qui concerne Wicklow ou quelque autre question que ce soit. Il faudra qu’un tiers indépendant s’en occupe. Cette personne devrait être un séquestre désigné par la Banque de Nouvelle‑Écosse.
+Veuillez agréer mes salutations distinguées.
+J. David O’Keefe
+[23] La situation fâcheuse dans laquelle M. O’Keefe se trouvait ressort pleinement de la lettre qu’il a envoyée à l’ARC le 25 février 2002. Je reproduis cette lettre ci‑dessous parce qu’elle montre les efforts qu’a déployés un homme raisonnable et intelligent pour remédier à une situation catastrophique attribuable, d’une part, à la maladie de son père et à la situation financière désastreuse de Juniper et, d’autre part, à la conduite de Mitchell Corey. La lettre est rédigée comme suit :
+[traduction]
+Objet : WICKLOW LOGGING CO. LTD.
+Compte no 13540 6338 RT0001
+Monsieur,
+J’ai reçu votre lettre du 6 février.
+J’étais administrateur de Wicklow Logging Co. Ltd. Je n’exerçais aucun contrôle sur la société et M. Mitchell Corey, qui était également administrateur de la société, s’occupait de toutes les activités commerciales.
+Le 7 mars 2000 ou vers cette date, le seul client de Wicklow a présenté une demande en vue d’être protégé en vertu de la LACC, demande à laquelle il a été fait droit. Lors de la présentation de la demande, ce client devait 3 090 148,40 $ à Wicklow. De son côté, Wicklow devait un montant de 2 382 205,96 $ à la Banque de Nouvelle‑Écosse sur sa ligne de crédit. Peu de temps après, la banque a bloqué cette ligne de crédit d’exploitation, de sorte que Wicklow ne pouvait plus être exploitée.
+Le 14 mars 2000, j’ai écrit à la banque pour lui faire part de mes préoccupations au sujet de la conduite de M. Corey à l’égard de l’exploitation de Wicklow. Avant le blocage, M. Corey s’était payé un salaire de 39 500 $, qu’il a déposé en fiducie auprès de son avocat. Il a également versé un montant de 100 000 $ en fiducie auprès de son avocat. Ces fonds étaient uniquement destinés à M. Corey personnellement. J’ai aussi exposé mes craintes que, si M. Corey continuait à agir ainsi, la banque et moi subirions un préjudice additionnel irréparable. J’ai demandé que la banque continue à bloquer le compte de Wicklow et prenne immédiatement des mesures à l’égard de la garantie qu’elle détenait à l’encontre de Wicklow.
+Le 4 avril 2000, j’ai reçu de la banque une lettre exigeant le paiement immédiat de tous les montants dus par Wicklow, y compris les intérêts courus à ce jour. Si le paiement n’était pas fait au plus tard le 18 avril 2000, la banque devait prendre les mesures appropriées afin de recouvrer les montants exigibles. Elle s’est également prévalue des garanties que M. Corey et moi‑même avions données. Elle n’a rien exigé du garant le plus important, Glassville Logging Co. Ltd., une société qui appartenait à 100 p. 100 à M. Corey.
+Le 7 avril 2000, j’ai écrit à la banque pour exprimer mon inquiétude au sujet de l’omission de se prévaloir de la garantie donnée par Glassville, et pour l’informer que j’avais eu vent d’une augmentation de la ligne de crédit de Wicklow. Cette augmentation n’était pas nécessaire et, en ma qualité d’administrateur, je n’avais pas été mis au courant de la chose. Il s’agissait d’une mesure prise par M. Corey et par la banque.
+Le 7 avril 2000, j’ai écrit à l’avocat de M. Corey pour lui demander de remettre les fonds à la banque, de façon à honorer toute obligation financière existante que Wicklow pouvait avoir envers Revenu Canada, envers la banque et envers les créanciers non garantis.
+Le 3 mai 2000, j’ai écrit à la banque pour l’aviser que j’avais en ma possession certains actifs de Wicklow Logging et j’ai offert d’aider la banque à en réaliser la valeur possible. J’ai réitéré que la banque devrait désigner un séquestre à l’égard de Wicklow en vue de protéger sa garantie.
+Le 20 juin 2000, j’ai reçu une lettre de M. Corey. Il me disait qu’il craignait qu’un certain nombre de questions se posent à l’égard de Wicklow, des questions se rapportant aux déclarations relatives à la TVH, au versement des retenues à la source, aux feuillets T4, à la vérification de fin d’exercice et ainsi de suite. Il faisait remarquer que les registres n’avaient pas été mis à jour depuis le mois de janvier 2000. Il disait vouloir s’assurer qu’il se conduisait d’une façon juste, étant donné qu’il était à la fois administrateur et propriétaire de la société.
+Le 30 juin 2000, j’ai répondu à la lettre du 20 juin 2000 de M. Corey. Je soulignais que, par suite de ses actions non autorisées, les activités de Wicklow avaient cessé et que la banque exigeait le remboursement des prêts qu’elle avait consentis. Je faisais remarquer que la banque devrait désigner un séquestre, qui serait la seule personne avec qui je traiterais en ce qui concerne les questions soulevées dans sa lettre. Je soulignais que c’était lui qui s’était emparé du contrôle de Wicklow, et que c’était lui qui aurait dû veiller à ce que les registres soient à jour. J’ai mis en doute sa préoccupation au sujet des registres. Somme toute, c’était lui qui s’était payé un salaire de 39 500 $ (sans verser les impôts) et qui avait mis un montant de 100 000 $ en fiducie. Ces sommes auraient dû servir à couvrir des dépenses légitimes.
+Le 22 juin 2000, Irving Oil Limited a signifié une action à Wicklow aux fins du paiement intégral du compte, d’un montant de moins de 10 000 $. J’ai reçu une lettre de l’avocat de M. Corey m’informant qu’il ne voulait pas défendre cette affaire. Étant donné qu’il y avait des fonds en fiducie, l’affaire aurait pu être réglée, mais M. Corey n’a pas remis cette somme.
+J’ai reçu une lettre datée du 16 octobre 2000, m’avisant que, le 13 octobre 2000, le cabinet Grant Thornton Limited avait été désigné comme séquestre de Wicklow Logging Co. Ltd. Il a été donné suite à toutes les demandes que le séquestre m’a faites. Lors de différentes conversations avec le séquestre, celui-ci a souligné que M. Corey exerçait certes un contrôle sur tous les aspects de l’exploitation, et que la plupart des renseignements nécessaires émanaient de son bureau.
+Le 1er décembre 2000, j’ai été avisé que Wicklow Logging avait fait faillite et que le cabinet Grant Thornton Limited avait été désigné comme syndic des biens du failli. Le syndic demandait divers documents, notant que M. Corey pouvait les avoir en sa possession. Il a avisé M. Corey que lui seul, en qualité de représentant du failli, était tenu, conformément à l’article 159 de la Loi sur la faillite et l’insolvabilité, d’accomplir toutes les tâches imposées à l’article 158 de ladite loi en cas de faillite et, en particulier, qu’il était tenu d’assister à la première assemblée des créanciers et, sur demande, de vous présenter pour être interrogé par le séquestre officiel. Lorsque j’ai demandé au syndic pourquoi je n’avais pas à assister à l’assemblée des créanciers, il m’a informé qu’il était évident, à ses yeux, que je n’exerçais aucun contrôle sur la société, et que je ne devrais donc pas participer au processus.
+Comme vous le savez probablement, Wicklow avait fait l’objet d’une cotisation à l’égard d’un montant de 227 531 $ impayé au titre de la TVH. J’ai alors demandé que la société paie ce montant étant donné qu’elle était clairement en défaut. Toutefois, M. Corey a décidé de contester cette cotisation. Au printemps et pendant l’été 2000, un agent de validation et d’exécution de votre ministère a étudié divers dossiers, dont celui-ci, à Juniper. Je lui avais mentionné que le ministère devrait faire enregistrer un privilège afin de recouvrer l’argent, étant donné que je croyais que Wicklow ne pourrait jamais survivre. C’est ce que votre ministère a fait, et il a recouvré ces sommes.
+En conclusion, je crois avoir fait tout ce qui était en mon pouvoir pour que les obligations de Wicklow soient honorées, notamment quant aux questions de taxe impayée et aux demandes de la banque ainsi qu’en ce qui concerne les créanciers non garantis. Je ne dispose d’aucun moyen de satisfaire à cette obligation advenant le cas où je ferais l’objet d’une cotisation.
+J’attends votre réponse avec empressement.
+Veuillez agréer, Monsieur, l’expression de mes sentiments respectueux.
+J. David O’Keefe
+[24] Les faits énoncés dans la lettre sont pleinement étayés par le témoignage de M. O’Keefe et par sa sœur, Susan O’Keefe.
+[25] Selon ce qui précède, il est manifeste que M. O’Keefe n’était pas en mesure de simplement faire payer la taxe par Wicklow, comme la Couronne le dit d’une façon si simpliste.
+[26] Eu égard aux circonstances qui existaient à ce moment‑là, l’appelant ne pouvait rien faire au sujet de la TPS que Wicklow n’avait pas versée. À ce moment‑là, il avait été mis devant une surestimation excessive des stocks de Juniper, ce qui avait nécessité la présentation d’une demande en vertu de la LACC, et la possibilité que la société familiale soit obligée de fermer ses portes et de mettre ses employés à pied d’une part, et le détournement injustifié de fonds de Wicklow par Mitchell Corey, à un moment où d’importantes sommes à recevoir de Juniper étaient irrécouvrables d’autre part. Comme il en est fait mention ci‑dessus au paragraphe 43 de l’affidavit de l’appelant, Mitchell Corey avait engagé des poursuites contre Juniper le 25 février 2000, avant même que le père de l’appelant tombe malade et, le 6 mars 2000, il s’est présenté pour faire exécuter des brefs de saisie. Tout s’effondrait autour de l’appelant; or, la Couronne soutient qu’au milieu de cette débâcle, l’appelant aurait pu et aurait dû allégrement se rendre au bureau de Wicklow, procéder à une vérification rapide afin de voir si la TPS était due et émettre tout simplement un chèque pour la TPS. Rien ne permet de conclure que l’appelant était au courant de l’omission de Wicklow de verser régulièrement la taxe nette, ou que Wicklow avait l’argent nécessaire pour effectuer les paiements. Une chose est claire : il était chimérique de supposer que Mitchell Corey aurait permis à l’appelant de signer un chèque pour la dette fiscale de Wicklow.
+[27] L’intimée soutient que je devrais faire une inférence défavorable contre l’appelant parce qu’il n’a pas cité M. Corey comme témoin. Or, il est bien établi que l’omission de citer un témoin qui aurait pu appuyer la cause d’une partie peut, dans certains cas, justifier une inférence défavorable contre cette partie. Cependant, il faut faire preuve d’un certain bon sens en appliquant ce principe. Je n’ai pas la moindre idée de ce que M. Corey aurait pu dire, mais étant donné les relations manifestement antagonistes entre l’appelant et M. Corey, je crois qu’il aurait été plutôt dangereux pour l’appelant de citer un témoin sur lequel on ne pouvait compter et qui était de toute façon peut‑être bien hostile, en particulier puisque l’appelant seul, et sans M. Corey, a présenté une cause fort crédible. Le principe joue dans les deux sens. On aurait tout aussi bien pu me demander de faire une inférence défavorable contre la Couronne puisqu’elle a omis de citer M. Corey. Je ne ferai donc aucune inférence dans un sens ou dans l’autre.
+[28] Avec égards, la position prise par l’intimée, à savoir que l’appelant aurait pu faire en sorte que Wicklow paie la taxe, n’est pas réaliste. Compte tenu des circonstances qui existaient à cette époque tumultueuse, l’appelant n’aurait pas pu, de façon raisonnable ou réaliste, prendre d’autres mesures que celles qu’il avait déjà prises en vue de veiller à ce que Wicklow paie la TPS. L’appelant faisait face à la tâche presque insurmontable de résoudre une multitude de problèmes. Il a fait tout ce qu’on pouvait attendre de lui.
+[29] Même si Me Wong a présenté la cause de l’intimée avec énormément de compétence, j’ai conclu que l’appelant a amplement établi le moyen de défense fondé sur la diligence raisonnable.
+[30] L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise est accueilli avec dépens et la cotisation établie en vertu de l’article 323 de la LTA est annulée.
+Signé à Ottawa, Canada, ce 2e jour de mai 2006.
+« D. G. H. Bowman »
+D. G. H. Bowman, juge en chef
+Traduction certifiée conforme
+ce 18e jour de juillet 2008.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2006CCI250
+No DU DOSSIER DE LA COUR :
+2004‑226(GST)G
+INTITULÉ :
+J. David O’Keefe
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Saint John (Nouveau‑Brunswick)
+DATES DE L’AUDIENCE :
+Les 11 et 12 avril 2006
+MOTIFS DU JUGEMENT :
+L’honorable D. G. H. Bowman,
+juge en chef
+DATE DU JUGEMENT ET DES MOTIFS DE JUGEMENT :
+Le 2 mai 2006
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Rodney J. Gillis, c.r.
+Avocats de l’intimée :
+Mes Cecil S. Woon et Lisa Wight
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Rodney J. Gillis
+Cabinet :
+Gilbert, McGloan, Gillis
+22, rue King
+C.P. 7174, succursale A
+Saint John (Nouveau‑Brunswick) E2L 4S6
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] La question a été traitée à fond par lord Denning dans l’arrêt Scottish Co‑Operative Wholesale Society Ltd. v. Meyer, [1959] A.C. 324, aux pages 366 et suivantes.

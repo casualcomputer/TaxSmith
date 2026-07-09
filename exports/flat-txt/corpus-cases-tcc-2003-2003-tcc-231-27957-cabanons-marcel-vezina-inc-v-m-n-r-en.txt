@@ -1,0 +1,351 @@
+Title: Cabanons Marcel Vezina Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27957/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-231-27957-cabanons-marcel-vezina-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-04-17
+
+# Cabanons Marcel Vezina Inc. v. M.N.R.
+
+- Citation: 2003 TCC 231
+- Decision date: 2003-04-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1805, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cabanons Marcel Vezina Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-17
+Neutral citation
+2003 TCC 231
+File numbers
+2002-184(EI)
+Judges and Taxing Officers
+Jerome F. Somers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-184(EI)
+BETWEEN:
+CABANONS MARCEL VÉZINA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Martin Vézina (2002‑179(EI)), Denise Vézina (2002-180(EI)) and Réjean Vézina (2002-183(EI))
+on January 29, 2003, at Québec, Quebec
+Before: The Honourable Deputy Judge J.F. Somers
+Appearances
+Agent for the Appellant:
+Lyne Poirier
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of April 2003.
+“J.F. Somers”
+D.J.T.C.C.
+Translation certified true
+on this 30th day of January 2004.
+Leslie Harrar, Translator
+Docket: 2002-179(EI)
+BETWEEN:
+MARTIN VÉZINA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Cabanons Marcel Vézina Inc. (2002‑184(EI)), Denise Vézina (2002-180(EI)) and Réjean Vézina (2002-183(EI))
+on January 29, 2003, at Québec, Quebec
+Before: The Honourable Deputy Judge J.F. Somers
+Appearances
+Agent for the Appellant:
+Lyne Poirier
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of April 2003.
+“J.F. Somers”
+D.J.T.C.C.
+Translation certified true
+on this 3rd day of March 2004.
+Sophie Debbané, Revisor
+Docket: 2002-180(EI)
+BETWEEN:
+DENISE VÉZINA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Cabanons Marcel Vézina Inc. (2002‑184(EI)), Martin Vézina (2002‑179(EI)) and Réjean Vézina
+(2002-183(EI)) on January 29, 2003, at Québec, Quebec
+Before: The Honourable Deputy Judge J.F. Somers
+Appearances
+Agent for the Appellant:
+Lyne Poirier
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of April 2003.
+“J.F. Somers”
+D.J.T.C.C.
+Translation certified true
+on this 3rd day of March 2004.
+Sophie Debbané, Revisor
+Docket: 2002-183(EI)
+BETWEEN:
+RÉJEAN VÉZINA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+___________________________________________________________________
+Appeal heard on common evidence with the appeals of Cabanons Marcel Vézina Inc. (2002‑184(EI)), Martin Vézina (2002‑179(EI)) and Denise Vézina
+(2002-180(EI)) on January 29, 2003, at Québec, Quebec
+Before: The Honourable Deputy Judge J.F. Somers
+Appearances
+Agent for the Appellant:
+Lyne Poirier
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of April 2003.
+“J.F. Somers”
+D.J.T.C.C.
+Translation certified true
+on this 3rd day of March 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC231
+Date: 20030417
+Docket: 2002-184(EI)
+BETWEEN:
+CABANONS MARCEL VÉZINA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Docket: 2002-179(EI)
+MARTIN VÉZINA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Docket: 2002-180(EI)
+DENISE VÉZINA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Docket: 2002-183(EI)
+RÉJEAN VÉZINA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Deputy Judge Somers, T.C.C.
+[1] These appeals were heard on common evidence at Québec, Quebec, on January 29, 2003.
+[2] The appellants appeal from the decisions of the Minister of National Revenue (the “Minister”) that the employment held by Réjean Vézina, Martin Vézina and Denise Vézina, the workers, during the period at issue, namely, from January 1, 2000, to June 15, 2001, with Cabanons Marcel Vézina Inc., the appellant company, were insurable because their employment met the requirements of a contract of service and there was an employer-employee relationship between them and the payer.
+[3] Subsection 5(1) of the Employment Insurance Act (the “Act”) reads in part as follows:
+5.(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[…]
+[4] Subsections 5(2) and (3) of the Act read in part as follows:
+(2) Insurable employment does not include
+[...]
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+(3) For the purposes of paragraph (2)(i):
+[...]
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[5] Section 251 of the Income Tax Act reads in part as follows:
+Section 251: Arm’s length.
+(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm’s length; and
+[...]
+(2) Definition of “related persons”.
+For the purpose of this Act, “related persons”, or persons related to each other, are
+(a) individuals connected by blood, relationship, marriage or common-law partnership or adoption;
+(b) a corporation, and
+(i) a person who controls the corporation, if it is controlled by one person,
+(ii) a person who is a member of a related group that controls the corporation; or
+(iii) any person related to a person described in subparagraph (i) or (ii); and
+[...]
+(c) any two corporations:
+(i) if they are controlled by the same person or group of persons,
+(ii) if each of the corporations is controlled by one person and the person who controls one of the corporations is related to the person who controls the other corporation,
+(iii) if one of the corporations is controlled by one person and that person is related to any member of a related group that controls the other corporation,
+(iv) if one of the corporations is controlled by one person and that person is related to each member of an unrelated group that controls the other corporation,
+(v) if any member of a related group that controls one of the corporations is related to each member of an unrelated group that controls the other corporation, or,
+(vi) if each member of an unrelated group that controls one of the corporations is related to at least one member of an unrelated group that controls the other corporation.
+[6] The burden of proof lies with the appellants. They must establish on a balance of probabilities that the Minister’s decisions are wrong in fact and in law. Each case must be decided on its own merits.
+[7] In making his decisions, the Minister relied on the following assumptions of fact set out in paragraph 7 of the Reply to the Notice of Appeal in docket 2002-184(EI), which were admitted or denied:
+[Translation]
+(a) the appellant company was incorporated on November 6, 1987, but the business has been in operation for 30 years; (admitted)
+(b) during the period at issue, the shareholders of the appellant company were: (admitted)
+Marcel Vézina 55% of the shares
+Réjean Vézina 25% of the shares
+Denise Vézina 10% of the shares
+Martin Vézina 10% of the shares
+(c) Marcel Vézina is the spouse of Denise and the father of Réjean and Martin; Denise is the mother of Réjean and Martin Vézina; (admitted)
+(d) Marcel Vézina is the only shareholder to have invested financially in the business; (admitted subject to amplification)
+(e) Marcel Vézina gave shares of the appellant company to Réjean, Denise and Martin Vézina without consideration; (admitted)
+(f) the important decisions of the appellant company are made by all four shareholders; (denied)
+(g) financing for the appellant company is secured by the assets of the business; (denied)
+(h) the appellant company operated a business of selling garden sheds, snow removal and civil engineering; (admitted subject to amplification)
+(i) the appellant company was in operation throughout the year; (admitted)
+(j) the appellant company owned about ten trucks and about twenty machines; (admitted)
+Réjean Vézina
+(k) Réjean is a heavy equipment operator; (denied)
+(l) Réjean had his competency cards from the Commission de la construction Québec; (admitted)
+(m) during the period at issue, Réjean worked throughout the year for the appellant company; (admitted)
+(n) Réjean’s duties consisted in snow removal at Complexe Desjardins, maintaining the machinery and supervising employees at the appellant company’s garage; (admitted subject to amplification)
+(o) Réjean had a variable work schedule that reflected his responsibilities; (admitted)
+(p) Réjean could not absent himself without permission; (denied)
+(q) Réjean worked 50 hours a week on average for the appellant company; (denied)
+(r) Réjean was paid according to the standards of the Commission de la construction du Québec when he worked as a machine operator; (admitted subject to amplification)
+(s) in 2000, Réjean received a fixed weekly salary of $636 for 37 weeks; (admitted)
+(t) in 2000, Réjean received a variable weekly salary of $1,063 or $1,329 in accordance with the construction pay rate for 15 weeks; (admitted subject to amplification)
+(u) in 2000, Réjean also received a $10,000 bonus from the appellant company; (admitted)
+(v) in 2001, Réjean received a weekly salary of $1,000 for 16 weeks; (admitted)
+(w) in 2001, Réjean received a variable weekly salary of $952 or $1,191 in accordance with the construction pay rate for 7 weeks; (admitted subject to amplification)
+(x) Réjean was paid each week by cheque; (admitted subject to amplification)
+(y) Réjean did not invest money in the business; (admitted subject to amplification)
+(z) Réjean did not guarantee loans or lines of credit for the payer; (denied)
+(aa) Réjean had no expenses to pay in respect of his work; (denied)
+(bb) in respect of his work, Réjean assumed no risk of loss or chance of profit; (denied)
+(cc) all of the tools and equipment used in Réjean’s work belong to the appellant company; (denied)
+(dd) Réjean’s work was an integral part of the appellant company’s activities; (admitted)
+Denise Vézina
+(ee) Denise is a secretary; (denied)
+(ff) during the period at issue, Denise worked throughout the year for the appellant company; (admitted)
+(gg) Denise’s duties consisted of taking care of the appellant company's office, doing the bookkeeping and selling garden sheds; (admitted subject to amplification)
+(hh) Denise had a variable work schedule; (admitted)
+(ii) Denise worked in the office of the appellant company; (admitted subject to amplification)
+(jj) Denise worked 40 hours a week on average for the appellant company; (denied)
+(kk) during the period at issue, Denise was paid $600 a week; (admitted)
+(ll) Denise was paid each week by cheque; (denied)
+(mm) Denise did not invest any money in the business; (admitted)
+(nn) Denise had no expenses to pay in respect of her work; (denied)
+(oo) in respect of her work, Denise had no risk of loss or chance of profit; (denied)
+(pp) all of the tools and equipment used in Denise’s work belong to the appellant company; (denied)
+(qq) Denise’s work was an integral part of the activities of the appellant company; (admitted)
+Martin Vézina
+(rr) Martin is a civil engineering technician; (admitted)
+(ss) during the period at issue, Martin worked throughout the year for the appellant company; (admitted)
+(tt) Martin’s duties consisted of preparing tenders for civil engineering projects, managing projects, supervising employees and doing snow removal for Ultramar; (admitted subject to amplification)
+(uu) Martin had a variable work schedule that reflected his responsibilities; (admitted)
+(vv) Martin could not absent himself without a reason; (denied)
+(ww) Martin worked 60 hours a week on average for the appellant company; (denied)
+(xx) in 2000, Martin received an hourly wage of $10.40; (admitted)
+(yy) in 2000, Martin received weekly earnings of $624 for 37 weeks and $582.40 for 8 weeks; (admitted)
+(zz) in 2000, Martin received a variable weekly salary of $896.22 at the construction pay rate for 4 weeks; (admitted)
+(aaa) in 2000, Martin also received a $10,000 bonus from the appellant company; (admitted)
+(bbb) Martin received weekly earnings of $1,000 for 22 weeks in 2001; (admitted)
+(ccc) Martin was paid each week by cheque; (admitted subject to amplification)
+(ddd) Martin did not invest any money in the business; (admitted subject to amplification)
+(eee) Martin did not guarantee loans or lines of credit for the appellant company; (denied)
+(fff) Martin had no expenses to pay in respect of his work; (denied)
+(ggg) in respect of his work, Martin had no risk of loss or chance of profit; (denied)
+(hhh) all of the tools and equipment used in Martin’s work belong to the appellant company; (denied)
+(iii) Martin’s work was an integral part of the activities of the appellant company. (admitted)
+[8] The appellant company was incorporated on November 6, 1987, but the business had been in existence for 30 years. The appellant company manufactures and sells garden sheds, performs snow removal contracts and does engineering projects (highways and water systems).
+[9] During the period at issue, the shareholders of the appellant company were Marcel Vézina, Réjean Vézina, Denise Vézina and Martin Vézina, holding respectively 55% , 25%, 10% and 10% of the shares.
+[10] Marcel Vézina is the spouse of Denise Vézina, and they are the parents of Réjean and Martin Vézina.
+[11] Marcel Vézina is the only shareholder to have invested financially in the business and he gave shares of the appellant company to his spouse and two sons, without consideration.
+[12] The important decisions of the appellant company were made informally by the four shareholders.
+[13] The business, having approximately 40 employees, was in operation throughout the year. The appellant company had about ten trucks and some twenty machines. The annual turnover was alleged to be about $5,000,000.
+[14] Denise Vézina handled the bookkeeping, the office and customer sales and she received weekly earnings of $600.00 a week.
+[15] Réjean Vézina took care of the garage, mechanical repairs for the machinery and work on the machinery for the highway projects and was responsible for the snow removal, and he received weekly earnings of between $636.00 and $1,329.00.
+[16] Martin Vézina took care of the engineering, the tenders for the road and water system work, and the snow removal as well and received earnings of between $624.00 and $1,000.00.
+[17] The three workers worked variable hours throughout the year, while the workers who were at arm’s length had regular hours, namely, about 40 hours a week and were paid for any overtime.
+[18] The three workers had a fixed weekly salary regardless of overtime.
+[19] Réjean Vézina and Martin Vézina each received a $10,000 bonus for 2000.
+[20] The three workers had a great deal of authority in the business; they made decisions in their respective sectors of responsibility. They each had the right to hire and fire employees and to make purchases. However, when purchases of heavy machinery were to be made, the four shareholders consulted one another.
+[21] Martin Vézina handled the tenders and contracts and could make decisions without consulting the other shareholders unless the amounts involved were very high.
+[22] The evidence did not show that the appellants guaranteed loans or lines of credit for the appellant company. When Martin Vézina signed contracts, he did so as a representative of the business and not in his own name; in signing them, then, no personal undertaking was given.
+[23] Sometimes the workers delayed cashing their weekly pay cheques because the business was going through a slow period.
+[24] The workers could take vacations without asking permission; they just had to let the other shareholders know and ensure that their absence would not get in the way of the smooth running of the business.
+[25] Judge Tardif of this Court, in Roxboro Excavation Inc. v. Canada (Minister of National Revenue - M.N.R.), [1999] T.C.J. No. 32, the facts of which are similar to those in the instant cases, concluded that the employment held by the co-shareholders and workers was insurable although the workers and the employer did not deal at arm’s length. Judge Tardif’s decision was affirmed by the Federal Court of Appeal ([2000] F.C.J. No. 799).
+[26] In Roxboro, supra, Judge Tardif said:
+The evidence showed that Roxboro had two main lines of business: industrial and commercial excavation and snow removal during the winter.
+[...]
+It was shown that each of the Théorêt brothers had specific, defined responsibilities within Roxboro. Each of them devoted most of his available time to that company, although they were each also marginally involved in ensuring the efficient operation of the other companies.
+In exercising their respective responsibilities, the Théorêt brothers had a fair degree of independence and managed their own areas of activity quite freely. They did not have to ask for permission when deciding when to take vacations; they could be absent without having to give anyone an explanation.
+[...]
+The respondent argued that the Théorêt brothers were not running their own business and were therefore employees of the company that paid them their salaries.
+[...]
+The key issue in this case is basically whether there was in 1996 a relationship of subordination between the company paying the remuneration and the interveners. In other words, did the company have the power to control and influence the work done by the Théorêt brothers?
+In this regard, I consider it important to point out that the courts have often said that it is not mandatory or necessary that the power to control actually be exercised; in other words, the fact that an employer does not exercise its right to control does not mean that it loses that power, which is absolutely essential to the existence of a contract of service.
+The power to control or the right to influence the performance of work is the main component of the relationship of subordination that lies behind a genuine contract of service.
+Assessing whether or not a relationship of subordination exists is difficult when the individuals who hold authority by virtue of their status as shareholders and/or directors are the same individuals who are subject to a power to control or to the exercise of authority in respect of specific work. Put differently, it is difficult to draw a clear line when a person is an employee and in part an employer all at the same time.
+In such cases, it is essential to draw a very clear distinction between what is done as a shareholder and/or director and what is done as a worker or non-management employee. In the case at bar, that distinction is especially important.
+Although the courts have identified four tests to help in characterizing a contract of employment, the test relating to the power to control is the most important; indeed, it is essential.
+[...]
+I do not think that it is objectively reasonable to require a total, absolute separation between the responsibilities that result from shareholder status and those that result from worker status. The wearing of both hats normally-and this is perfectly legitimate-creates greater tolerance and flexibility in the relations arising out of the two roles…
+In the case at bar, the fact that authority did not seem to be exercisable against the Théorêt brothers and that decisions concerning the company were made by consensus and collegially does not mean that the company was deprived of its authority over the work done by the interveners. The evidence did not show that the company had waived its power to influence their work or that its right to do so was reduced, limited or revoked.
+[...]
+In the case at bar, all the circumstances of the employment and the terms and conditions suggest that there was a genuine contract of service that was in no way affected by the non-arm's-length relationship; in other words, the company did not confer any advantage or benefit that it would not have conferred on shareholders who were at arm's length. Conversely, the Théorêt brothers were not penalized because of their family status.
+[...]
+Rather, their status as shareholders explains certain differences, which are moreover not so significant as to vitiate those elements that are fundamental and essential to the existence of a genuine contract of service.
+Furthermore, it is fairly common to see co-shareholders who, because of their status, discipline themselves in the interest of the company in which they are shareholders.
+[...]
+…Each case is sui generis, and it is a matter of assessing and analyzing whether the encroachments of the powers resulting from shareholder status significantly altered the elements essential to the formation of a contract of service.
+[27] The Minister relies on subsection 5(3) and paragraph5(1)(a) of the Act.
+[28] In Wiebe Door Services Ltd. v. M.R.N., [1986] 3 F.C. 553, the Federal Court of Appeal identified four basic elements that determine whether there is a contract of service: (a) the degree or absence of control exercised by the employer; (b) ownership of the tools; (c) the chance of profit and the risk of loss; and (d) the degree of integration.
+(a) the degree or absence of control exercised by the employer
+[29] In the instant cases, Marcel Vézina is the majority shareholder and holds 55% of the shares of the business. In fact, he never waived his right of oversight or his power of control. He also did not waive the rights attached to his shares.
+[30] The evidence showed that Marcel Vézina continued during the period at issue to be, with 55% of the shares, the majority shareholder and, most importantly, the company’s chief administrative officer.
+[31] The evidence that was heard showed that Marcel Vézina, the chief administrative officer, participated in shareholders’ meetings, including those held on weekday evenings. The Minister submits that the fact that these meetings were held informally and the fact that the important decisions and the new directions to be taken by the business were discussed by all four shareholders does not mean that the appellant company did not have authority over the workers.
+[32] In Groupe Desmarais Pinsonneault & Avard Inc. v. Canada (Minister of National Revenue - M.N.R.), [2002] F.C.A. No. 572, Noël J. of the Federal Court of Appeal said:
+In concluding that there was no relationship of subordination between the workers and the defendant, the trial judge does not appear to have taken into account the well-settled rule that a company has a separate legal personality from that of its shareholders and that consequently the workers were subject to the defendant's power of supervision.
+The question the trial judge should have asked was whether the company had the power to control the way the workers did their work, not whether the company actually exercised such control. The fact that the company did not exercise the control or that the workers did not feel subject to it in doing their work did not have the effect of removing, reducing or limiting the power the company had to intervene through its board of directors.
+We would add that the trial judge could not conclude there was no relationship of subordination between the defendant and the workers simply because they performed their daily duties independently and without supervision. The control exercised by a company over its senior employees is obviously less than that exercised over its subordinate employees.
+If the trial judge had recognized that the defendant had a separate legal personality, as he should have done, and analyzed the evidence in light of the applicable rules (Wiebe Door Services v. M.R.N., [1986] 3 C.S. 553), he would have had no choice but to conclude that a contract of service existed between the defendant and the workers.
+(b) ownership of tools
+[33] The testimony of the three workers shows that most of the tools were provided by the appellant company. Denise Vézina provided a coffee maker, Réjean Vézina a chain saw maintained by the appellant company’s business and Martin Vézina provided his own drafting table on which he prepared the tenders for the business.
+[34] It is important to remember that, at the beginning of his examination-in-chief, Marcel Vézina clearly stated, in answering a question by his representative, that all the equipment was provided by the company, Cabanons Marcel Vézina Inc.
+(c) the chance of profit and the risk of loss
+[35] As shareholders, the three workers’ chance of profit and risk of loss were limited to each worker’s interest in the company, namely, 25% for Réjean Vézina, 10% for Martin Vézina and 10% for Denise Vézina.
+[36] As employees, they assumed no risk of loss and had no chance of profit. None of them had made a financial investment in the business, taken out a bank loan for the business or provided a personal guarantee for the appellant company’s business.
+[37] The three workers received a fixed salary and were paid by cheque every week.
+[38] According to the evidence, the workers did not, as employees, have any chance of profit or risk of loss.
+(d) integration
+[39] By their activities and functions, the workers were integrated into the operations of the business.
+[40] It was shown that the workers were related to the appellant company under a contract of service.
+[41] Since there is a non-arm’s length relationship between the workers and the company, it must be determined whether it is reasonable to conclude that they would have entered into a substantially similar contract of work without this relationship.
+[42] The workers performed their respective duties throughout the year and were committed to the company’s success. They were free to organize their schedules according to the needs of the business and their respective responsibilities. They worked between 60 and 80 hours a week. The workers did not enjoy the same working conditions as the other employees who worked approximately 40 hours a week and were paid an additional amount for any overtime. Because of their status in the business, the workers could not be restricted to a fixed schedule.
+[43] The workers were paid a fixed salary depending on the kind of work they did, and this salary was reasonable in the circumstances. Moreover, at the end of the year, the workers Réjean and Martin Vézina each received a $10,000 bonus based on their skill and how the business had performed; this bonus could be considered as a supplement to their earnings in compensation for the long hours they worked.
+[44] The three workers could take vacations without asking anyone’s permission, but they would notify the other shareholders and ensure that their absence would not cause any problems for the smooth running of the business. These terms and conditions of employment were specific to their status in the company.
+[45] The Minister correctly concluded that the appellant company would have hired other workers on the same terms and conditions even if they had not been dealing among themselves at arm’s length.
+[46] In view of the circumstances in the instant case, the Court is satisfied that the Minister correctly exercised his discretion.
+[47] Consequently, the workers held insurable employment during the period at issue since the employment met the requirements of a contract of service.
+[48] The appeals are dismissed and the Minister’s decisions are confirmed.
+Signed at Ottawa, Canada, this 17th day of April 2003.
+“J.F. Somers”
+D.J.T.C.C.
+Translation certified true
+on this 30th day of January 2004.
+Leslie Harrar, Translator

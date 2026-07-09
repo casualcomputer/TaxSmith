@@ -1,0 +1,463 @@
+---
+title: "Enseignants de Langue Anglaise de Montréal. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/97815/index.do"
+last_modified: "2014-09-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 287"
+citation2: ""
+neutral_citation: "2014 TCC 287"
+decision_date: "2014-09-26"
+language: "en"
+item_id: "97815"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5167
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:33:16.783000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d551587b551088ede7692da3fbc6d411d002cc1be49bed75863f93bde1275295"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Enseignants de Langue Anglaise de Montréal. v. M.N.R.
+
+- Citation: 2014 TCC 287
+- Decision date: 2014-09-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5167, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Enseignants de Langue Anglaise de Montréal. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-09-26
+Neutral citation
+2014 TCC 287
+File numbers
+2011-1699(EI)
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2011-1699(EI)
+2011-1700(CPP)
+BETWEEN:
+LES ENSEIGNANTS DE LANGUE
+ANGLAISE DE MONTRÉAL LTÉE,
+appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+respondent,
+and
+DALIA EL MOURAD,
+intervenor.
+Appeals heard on common evidence with the appeals of Les Enseignants
+de langue anglaise de Montréal ltée (2012-2986(EI), 2012-2987(EI), 2012‑2989(EI), 2012-3198(EI), 2012-3199(EI), 2012‑3200(EI), 2012‑3201(EI), 2012-3202(EI), 2012-3203(EI), 2012‑3204(EI),
+2012-3206(EI)) on July 16, 17 and 18, 2014, at Montreal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the appellant:
+Nadine Afif
+Counsel for the respondent:
+Mathieu Tanguay
+For the intervenor:
+The intervenor herself
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeals are allowed and the decision of the Minister of National Revenue is varied and replaced by the following decision: Dalia El Mourad was not engaged in insurable employment or pensionable employment with Les Enseignants de langue anglaise de Montréal ltée within the meaning of the Employment Insurance Act and the Canada Pension Plan, respectively, for the period from October 26, 2009 to July 31, 2010.
+Signed at Montreal, Quebec, this 26th day of September 2014.
+“Gaston Jorré”
+Jorré J.
+Dockets: 2012-2986(EI)
+2012-2987(EI), 2012 2989(EI)
+2012-3198(EI), 2012-3199(EI)
+2012 3200(EI), 2012 3201(EI)
+2012-3202(EI), 2012-3203(EI)
+2012 3204(EI), 2012-3206(EI)
+BETWEEN:
+LES ENSEIGNANTS DE LANGUE
+ANGLAISE DE MONTRÉAL LTÉE,
+appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+respondent.
+Appeals heard on common evidence with the appeals of Les Enseignants
+de langue anglaise de Montréal ltée (2011-1699(EI), 2011-1700(CPP)) on July 16, 17 and 18, 2014, at Montreal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the appellant:
+Nadine Afif
+Counsel for the respondent:
+Mathieu Tanguay
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeals are allowed and the decision of the Minister of National Revenue is varied and replaced by the following decision: Christine Bisaillon, Liza Rumjahn, Mark Miller, André Beauregard, Michael Dawson, Judith Gostick, Janice Walsh‑Bonal, Marco Sisti, Tanya Linkletter, Andrea Rancourt and Marika Andrassi were not engaged in insurable employment with Les Enseignants de langue anglaise de Montréal ltée within the meaning of the Employment Insurance Act for the period from April 30, 2008 to August 18, 2011.
+Signed at Montreal, Quebec, this 26th day of September 2014.
+“Gaston Jorré”
+Jorré J.
+Citation: 2014 TCC 287
+Date: 20140926
+Dockets: 2011-1699(EI), 2011-1700(CPP)
+BETWEEN:
+LES ENSEIGNANTS DE LANGUE
+ANGLAISE DE MONTRÉAL LTÉE,
+appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+respondent,
+and
+DALIA EL MOURAD,
+intervenor,
+and
+Dockets: 2012-2986(EI), 2012-2987(EI)
+2012-2989(EI), 2012-3198(EI)
+2012-3199(EI), 2012-3200(EI)
+2012-3201(EI), 2012-3202(EI)
+2012-3203(EI), 2012-3204(EI)
+2012-3206(EI)
+BETWEEN:
+LES ENSEIGNANTS DE LANGUE
+ANGLAISE DE MONTRÉAL LTÉE,
+appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction [1] The appellant, the payor, is in the business of providing language training.
+[2] It appeals from determinations by the Minister that the 12 individuals providing training were in insurable employment within the meaning of the Employment Insurance Act and that one of those individuals was also in pensionable employment within the meaning of the Canada Pension Plan.
+[3] While the distinction between an employee and an independent contractor is often clear‑cut, there is a grey zone where it is significantly more difficult to distinguish between the two; not surprisingly, this is often true for cases which go to trial. This is one such case with respect to some of the contracts involved.[1]
+[4] The appeals were all heard together on common evidence, although certain elements of the evidence are applicable only to certain of the appeals.
+[5] Both co-owners of the appellant, Paule Grenier and Susan Bell, testified, as well as three of the persons who provided language training: Janice Walsh-Bonal, Mark Miller and Dalia El Mourad. Marie-Josée Simard, an appeals officer with the Canada Revenue Agency, also testified. The hearing lasted three days.[2]
+[6] I would also note that Dalia El Mourad was the only individual to file an intervention; she was present for one day of the hearing, the day she testified.
+The Canada Pension Plan Appeal [7] The one Canada Pension Plan appeal is in respect of Dalia El Mourad.
+[8] Nothing suggests that there is any material difference between the employment insurance appeal and the Canada Pension Plan appeal relating to Dalia El Mourad.
+[9] There is agreement between the appellant and the respondent that the results in respect of Dalia El Mourad’s employment insurance appeal should also apply to her Canada Pension Plan appeal. Consequently, I will not discuss further the Canada Pension Plan appeal relating to Dalia El Mourad and will apply the result in the employment insurance appeal to the Canada Pension Plan appeal.
+The Periods in Issue [10] There is a problem with respect to the periods in issue. In 11 of the 12 employment insurance cases, the decision appealed from determined that the individual held insurable employment from April 30, 2008 to August 18, 2011.
+[11] It is quite clear on the evidence that there are certain periods within the period from April 30, 2008 to August 18, 2011 during which some of the 11 individuals in question were neither employees of nor independent contractors for the appellant. This problem is set out more fully in Annex I.
+[12] As a consequence, in the appeals relating to Liza Rumjahn, André Beauregard, Michael Dawson, Judith Gostick, Christine Bisaillon, Mark Miller and Janice Walsh-Bonal, no matter what the outcome in terms of the status of these individuals, the determinations are wrong with respect to at least part of the stated time period. To that extent, the appeals necessarily need to be allowed at least to vary the time period.
+The Law [13] Paragraph 5(1)(a) of the Employment Insurance Act says, in part, that insurable employment is “employment in Canada by one or more employers, under any express or implied contract of service”.
+[14] The paragraph does not define a contract of service. To determine if there is a contract of service, one must turn to the general civil law in the relevant province to determine whether there is a contract of employment; see section 8.1 of the Interpretation Act, which confirms this approach.
+[15] There is no dispute that the applicable law is that of Quebec.[3]
+[16] The Civil Code of Québec defines as follows a contract of employment in article 2085:
+A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[17] Here, the first two elements of the contract are present: work and remuneration. The issue is whether there is control or subordination, the third element in the definition.
+[18] The first paragraph of article 2089 of the Civil Code provides with respect to a contract of employment that:
+The parties may stipulate in writing and in express terms that, even after the termination of the contract, the employee may neither compete with his employer nor participate in any capacity whatsoever in an enterprise which would compete with him.
+[19] The Civil Code defines a contract of enterprise or for services as follows in article 2098:
+A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to another person, the client, to carry out physical or intellectual work or to supply a service, for a price which the client binds himself to pay to him.
+[20] The following articles regarding contracts of enterprise or for services are also relevant:
+2099 The contractor or the provider of services is free to choose the means of performing the contract and, with respect to such performance, no relationship of subordination exists between the contractor or the provider of services and the client.
+. . .
+2101 Unless a contract has been entered into specifically in view of his personal qualities or unless the very nature of the contract prevents it, the contractor or the provider of services may employ a third person to perform the contract, but its performance remains under his supervision and responsibility.
+. . .
+2103 The contractor or the provider of services supplies the property necessary for the performance of the contract, unless the parties have stipulated that only his work is required.
+. . .
+[Emphasis added.]
+[21] Finally, articles 1425 and 1426 of the Civil Code provide:
+1425 The common intention of the parties rather than adherence to the literal meaning of the words shall be sought in interpreting a contract.
+1426 In interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account.
+[22] The main principles of law in this area are reviewed in the Federal Court of Appeal decisions in Grimard v. Canada[4] and 1392644 Ontario Inc. (Connor Homes) v. Canada (National Revenue).[5] The decision of the Quebec Court of Appeal in Bermex International inc. c. Agence du revenu du Québec[6] takes essentially the same approach.
+[23] Here, the key question is whether or not, under the contracts, the individuals in question were in a relationship of subordination to the appellant, the payor. Put differently, did the individuals teach a second language in accordance with the instructions and under the direction or control of the appellant?
+[24] In this respect it is very important to bear in mind the sometimes difficult distinction between the employer’s right to control the performance of the work and a customer’s right to control the quality and result of the work. See Grimard[7], where the Federal Court of Appeal says:
+According to the Le Nouveau Petit Robert and the Le Petit Larousse Illustré dictionaries, subordination of a person involves his or her dependence on another person or his or her submission to that person's control. Therefore, a contract for services is characterized by a lack of control over the performance of the work. This control must not be confused with the control over quality and result. The Quebec legislator also added as part of the definition the free choice by the contractor of the means of performing the contract.
+[25] It is also important to keep in mind that where a customer contracts with someone, to whom I shall refer as the prime contractor, who in turn subcontracts part of the work, the prime contractor will have to be concerned with the quality and result of the work of the subcontractor.
+[26] Intention is an important factor in determining the nature of the contract. The first step is to determine the intention of the parties.
+[27] This is done by looking not only at the contract, but at a number of other factors, such as the circumstances surrounding the formation of the contract and whether the behaviour of the parties is consistent with the stated intention. For example, one may consider whether an individual’s stated intention and the way he filed his income tax return are consistent.
+[28] However, as the Federal Court of Appeal said in Connor Homes:[8] “the subjective intent of the parties cannot trump the reality of the relationship as ascertained through objective facts” and “[t]he second step is to ascertain whether an objective reality sustains the subjective intent of the parties”.
+[29] In Connor Homes,[9] the Court also states:
+The central question at issue remains whether the person who has been engaged to perform the services is, in actual fact, performing them as a person in business on his own account. As stated in both Wiebe Door and Sagaz, in making this determination no particular factor is dominant and there is no set formula. The factors to consider will thus vary with the circumstances. Nevertheless, the specific factors discussed in Wiebe Door and Sagaz will usually be relevant, such as the level of control over the worker’s activities, whether the worker provides his own equipment, hires his helpers, manages and assumes financial risks, and has an opportunity of profit in the performance of his tasks.
+[30] While Connor Homes is an Ontario case and the test in article 2085 of the Civil Code is subordination, which is different from the common law test, Grimard makes it clear[10] that, in determining whether or not there is subordination, juridical subordination, the common law tests are useful indicia in determining whether there is subordination.
+[31] These indicia are discussed by the author Robert Gagnon in his book Le droit du travail du Québec,[11] sixth edition, where he says:
+[TRANSLATION]
+92 — Concept — Historically, the civil law first developed a so-called strict or classical concept of legal subordination that was used as a test for the application of the principle of the civil liability of a principal for injury caused by the fault of his agents and servants in the performance of their duties (art. 1054 C.C.L.C.; art. 1463 C.C.Q.). This classical legal subordination was characterized by the immediate control exercised by the employer over the performance of the employee’s work in respect of its nature and the means of performance. Gradually, it was relaxed, giving rise to the concept of legal subordination in a broad sense. The diversification and specialization of occupations and work techniques often mean that the employer cannot realistically dictate regarding, or even directly supervise, the performance of the work. Thus, subordination has come to be equated with the power given a person, accordingly recognized as the employer, of determining the work to be done, overseeing its performance and controlling it. From the opposite perspective, an employee is a person who agrees to be integrated into the operating environment of a business so that it may receive benefit of his or her work. In practice, one looks for a number of indicia of supervision that may, however, vary depending on the context: compulsory attendance at a workplace, the fairly regular assignment of work, imposition of rules of conduct or behaviour, requirement of activity reports, control over the quantity or quality of the work done, ownership of tools, chance of profit, risk of loss and so on. Work in the home does not preclude this sort of integration into the business.
+[32] In determining whether there is control, no particular factor will be determinative and one will have to consider any factor that is relevant in the circumstances, including:
+(a) the level of control over the individual’s activities by the payor,
+(b) the degree of integration of the individual into the payor’s enterprise,
+(c) whether the individual:
+(i) provides his own equipment,
+(ii) can hire helpers,[12]
+(iii) manages and assumes financial risks, and
+(iv) has an opportunity for profit in the performance of his tasks.
+[33] With these principles in mind, let us turn to the facts of these cases.
+History of the Company [34] The appellant company provides training in English as a second language to its clients as well as training in French as a second language. It may be that it also provides second language training in other languages.
+[35] The company was originally founded by persons, including the two current owners of the appellant, who had provided language training to Bell Canada. In the early 1990s, Bell made certain budget cuts and language training was among the first cuts.
+[36] Because there was still an interest in language training on the part of students, four of the teachers formed a partnership that continued to provide training.
+[37] In 1994 the Government of Quebec took measures to promote employee training; because of the way these measures were structured, the members of the partnership concluded that it would be best to be incorporated. The appellant was incorporated in the mid-1990s.
+[38] Generally the appellant modelled its mode of operation on what its founders had experienced when providing training for Bell.
+[39] As the business grew, the appellant started to use teachers other than those who had originally been at Bell. All the teachers that they contract with are certified second language teachers.
+Intention The Contract [40] The contracts in evidence are one page long.[13] There is a separate contract for every course taught.
+[41] The contracts are entitled “Sub-contract for hiring teachers” and state that the appellant is hiring the named person as an “independent, self‑employed teacher”[14] for a set number of hours at a given monetary rate per hour, starting on a particular date.
+[42] The agreement also states the total amount to be paid, and specifies that payment will be made monthly and be based on the submission of time sheets and that the amount paid will depend on the number of hours taught.
+[43] The agreement provides that the teacher will receive the final payment after returning all of the appellant’s materials, the course evaluations filled in by the students and progress reports for the students.
+[44] The appellant may terminate the contract immediately if the students cancel the course. Either party may terminate the agreement in writing on 14 days’ notice. If a teacher terminates the agreement at the last minute, there will be a $50 penalty, which will be deducted from the next invoice.
+[45] The contracts provide that the teachers shall pay their own expenses and related taxes. There is, however, one variation among the contracts in respect of this provision. While the contracts in Exhibits R-2 and R-3 only provide that the teachers shall pay their own expenses and related taxes, the contracts in Exhibit R-5 also provide that the teachers may make photocopies at the appellant’s office.
+[46] The contracts filed as Exhibits R-2 and R-3 are in English. They were entered into by Janice Walsh-Bonal and Mark Miller. The contracts in Exhibit R‑5 are in French and were entered into by Dalia El Mourad.
+[47] The contracts do not have a general non‑competition clause but they do have a provision whereby the teacher agrees not to directly enter into a teaching contract with any of the appellant’s clients for three years. Again, there is a variation in the contracts in Exhibit R-5, which have an additional provision whereby the individual agrees not to use the appellant’s materials with any other client for a period of three years.
+Intention of the Different Persons Involved [48] It is clear from the testimony of Paule Grenier and Susan Bell that the company considered the teachers to be self‑employed.[15]
+[49] Janice Walsh-Bonal and Mark Miller testified that they considered themselves self‑employed. They filed their income tax returns on the basis that they were self‑employed, and they claimed expenses.
+[50] According to the assumptions of the Minister, six other teachers considered themselves self‑employed while one, Christine Bisaillon, was not sure of her status.
+[51] Again, according to the Minister’s assumptions, André Beauregard and Marika Andrassi considered themselves to be employees.
+[52] Finally, in the case of Dalia El Mourad, she testified that she did not understand the contract.
+[53] She also testified that she considered herself to be an employee. She did not see the difference between what she did for the appellant and what she did for the Alliance française in Toronto. The Alliance française treated her as a part‑time employee.
+[54] When asked about the absence of withholdings on payments from the appellant as opposed to payments from the Alliance française, her response was that she assumed that this stemmed from the fact that the appellant was in Quebec whereas she lived and worked in Ontario.[16]
+[55] She did not claim any expenses in her income tax return.
+Assessment of Intention [56] Many of the terms of the contracts are consistent with either a contract of employment or a contract for services. For example, payment based on an hourly rate dependent on the time actually worked can be consistent with either; similarly, a contract for services is not inherently inconsistent with materials being supplied by the customer;[17] conversely, employees sometimes have to pay certain of their own expenses.
+[57] I am satisfied that, on balance, the contracts in themselves are somewhat more consistent with a contract for services than a contract of employment for these three reasons considered together:
+(a) First, the choice of the terms “sub-contract” and “independent, self‑employed teacher” in no way suggests employment.
+(b) Second, the fact that there was a separate contract for each course.
+(c) Third, the general provision that the teachers were to bear their own expenses is more consistent with self-employment.
+[58] Clearly, this was also the appellant company’s understanding and that of eight of the 12 teachers.[18]
+[59] Accordingly, I am also satisfied that in the case of the eight individuals other than Christine Bisaillon, André Beauregard, Marika Andrassi and Dalia El Mourad, the common intention of both parties was that the individuals were to be independent contractors.
+[60] It is necessary to test this common intention against “the reality of the relationship”.
+[61] In respect of the other four teachers, the appellant’s intention was the same, but it is not clear the intention of the four teachers was the same.
+[62] There is no suggestion in the evidence that any of them raised any issue regarding the terminology of the contract or the absence of withholdings.[19]
+[63] We do not know on what basis the three individuals other than Dalia El Mourad filed their tax returns.
+[64] With respect to Christine Bisaillon, given that she was not sure of her status and that we know little else, it is clear that in signing the contract she did not address her mind to the question whether she was an independent contractor or an employee and, as a result, she did not have a particular intent.
+[65] Finally, with respect to André Beauregard, Marika Andrassi and Dalia El Mourad, the fact that they considered themselves employees suggests that their intention was to be employees.[20]
+[66] For all four teachers, given that a common intent is not established, it will be necessary to examine the objective reality of the relationship. In the absence of a common intention, the objective reality will be determinative of the nature of the relationship.
+[67] I will now examine the actual relationship.
+Two Notable Features [68] First, the appellant’s name, Les Enseignants de langue anglaise de Montréal ltée, is in itself informative.
+[69] The word “school” is not used in the name and, indeed, the appellant has no classrooms; it only has a small office.
+[70] The clients were businesses. Training was done at the clients’ premises and, in one case, where the client operated the business from his car, classes were held at a coffee shop.
+[71] Second, all the teachers in question were hired on a course‑by‑course basis. For example, they might be hired to teach an individual for, say, two hours a week for a total of 30 hours, or a company group of four persons for, say, three hours a week for a total 42 hours.
+[72] There was no commitment by either the appellant or the teachers to keep contracting with each other.
+Ownership of the Tools/Investment [73] There was no investment in classrooms given that the classes were held on the premises of the appellant’s clients.
+[74] While the evidence on this was unclear, I concluded that the students’ employers paid the appellant for textbooks sold by the appellant and, frequently, delivered by the teacher. In some cases, the students already had a textbook prior to the start of the course and the decision was made to continue with that book.[21]
+[75] Teachers would often download supplemental material from the Web and make copies. They would use their home computers to do this, but there is no suggestion that anyone went out and specifically bought a computer for this purpose.
+[76] The teachers prepared their classes at home.
+[77] Similarly, the teachers often drove to where their students were; again, there is no suggestion that anyone bought an automobile specifically for this purpose rather than simply using an automobile they already owned. In the appeal relating to Dalia El Mourad, she stated that she took the commuter train from Mississauga to downtown Toronto where she taught her classes.
+[78] In this model, where a teacher goes to the students, it is hard to see how there could be any significant investment by anyone, whether or not the appellant was an employer. As a result, in these particular factual circumstances, investment or ownership of the tools has little weight.[22]
+Chance of Profit/Risk of Loss [79] Again these factors are not very helpful in the circumstances. With little or no investment required, there is very little chance of loss for a self‑employed teacher and, whether the status is that of an employee or of a self-employed person, the teacher’s income will vary with the number of teaching hours.[23]
+Other Factors [80] There was some evidence as to whether the teachers could hire others to perform their contract. The contracts, however, are silent on the point.
+[81] It is quite clear that none of the teachers contemplated hiring someone to teach in their place at a rate of pay less than what they themselves were being paid. It would not have been financially worthwhile to do so since they would have lost income unless they were able to do other work at the same time.[24]
+[82] However, there were occasions where teachers were forced to miss a class due to illness or otherwise. Teachers would first try to reschedule classes to the extent that they could agree with the students and to the extent that a room was available.
+[83] Rescheduling happened more frequently with individual students, where the rescheduling requests often came from the student.
+[84] Where rescheduling could not be done, teachers sometimes found replacements and advised the appellant.[25] In other cases, the teacher asked the appellant to find the replacement.[26]
+[85] The appellant paid the replacement teachers directly.
+[86] Generally, given that for a service such as teaching the individual selected to do the work matters, the absence of subcontracting by the teacher does not point strongly in either direction.[27] However, the appellant’s paying the replacement directly is an indicia pointing towards a contract of employment.
+[87] Among the teachers who testified, the only negotiation that took place was in relation to the hourly rate. The first time Janice Walsh‑Bonal entered into a contract with the appellant, she negotiated a somewhat higher rate than that initially offered.
+[88] Dalia El Mourad also negotiated a somewhat higher rate at the time of her first contract.
+[89] Mark Miller once negotiated a higher rate as well.
+[90] Given the nature of the service or work, the limited negotiation does not really point in one direction or the other in terms of employee versus independent contractor status.[28]
+[91] Based on some of the documents filed, Mark Miller was paid for 79 hours over a seven‑month period in 2010‑2011.[29] This averages 11 hours per month.
+[92] Mark Miller also had his own personal teaching contracts with UQAM and with individuals. He advertised his teaching services by posting notices on supermarket notice boards and elsewhere.
+[93] Janice Walsh‑Bonal was paid for 70.5 hours over a period of about four months in 2011.[30] This averages about 17.625 hours per month.
+[94] She also taught at the Montreal Language School, where they considered her to be an employee.
+[95] Between the very end of October 2009 and some time in August 2010, Dalia El Mourad taught 328.25 hours or roughly 35 hours per month.
+[96] She also taught at the Alliance française in Toronto. She received about $100 in reimbursement of photocopy expenses from the appellant.
+[97] The clause prohibiting the teachers from contracting directly with the appellant’s clients for three years is a limited restriction. The teachers are not restricted from obtaining their own teaching contracts with any students other than the appellant’s students; they are also not restricted from teaching at another language school. This limited clause does not support a conclusion of employment status.
+Control [98] The crux of the matter thus turns on the issue of control. It is worth remembering, as professor Gagnon explains, that control or subordination means legal subordination in the broadest sense.
+[99] It is simplest to begin with the appellant’s contracts with businesses other than the CBC and one particular factory belonging to Agropur which I shall refer to as the Agropur factory.[31] I shall come back to the CBC and Agropur factory contracts later.
+Contracts Other Than the CBC and the Agropur Factory [100] In respect of these contracts, all the evidence was quite clear that the arrangements were arrangements involving very limited control.[32]
+[101] Basically, what happened is the following. The appellant would find an interested client and, after some discussion with the client, would find a teacher who was willing to teach the class at the time agreed between the appellant and the client company.
+[102] Once the class started, the teacher and the students were free to change the class time if they were in agreement. This happened more frequently and was easier to do where there was only one student. Where there was only one student, the course was often taught at the student’s office.
+[103] When there were several students, time changes could still be made, although it was more complicated and less frequent; sometimes there was also an issue with respect to the availability of a room.
+[104] Before a class started, the appellant would have done a preliminary evaluation of the level of the students. However, it was expected that the teachers would make their own evaluation during the first session.
+[105] During that first session, the teachers and students would also discuss the students’ needs and interests and, after that, the teachers were free to decide what textbook to use and what the course program would be.
+[106] The teachers would inform the appellant of their decision and the appellant would provide the book for the students. The textbook was paid for by the client company.
+[107] Teachers also used in class various materials that they would find online and elsewhere.
+[108] In some cases, one of the co-owners of the appellant went to a teacher’s class to observe, and would make comments afterwards. In the case of other teachers, this never occurred.[33]
+[109] The teachers submitted time sheets in order to be paid. These time sheets were normally prepared using a template provided by the appellant and had to be in by a certain date in order for the teachers to get paid by the end of the month. Occasionally teachers sent in a time sheet in a different format; they would still get paid if the necessary information was there.
+[110] The teachers also provided progress reports on each student at the end of the course.
+[111] There were evaluations by the students; although the contract required the teachers to send the evaluations to the appellant, the evaluations were, in most cases, sent electronically by the students to the appellant.
+[112] In the evidence, I heard no mention of staff meetings for the teachers.
+Assessment (Contracts Other Than With the CBC and the Agropur Factory) [113] I want to assess these contracts before turning to the other two.
+[114] The teachers, in conjunction with the students, are quite free in determining the content of the course and the means used. This is strongly indicative of an absence of control.
+[115] The teachers are hired course by course and teach on the premises of the students’ employer.
+[116] As previously described, investment is negligible and therefore not much of a factor either way.
+[117] Also, as previously described, there is no risk of loss; this factor points away from the teachers being self‑employed. As to profit, both an employee and an independent contractor would make more by working more; this last factor is neutral.
+[118] Given that payment is by the hour, it is normal that the teachers provide a record of the hours worked, the time sheets. Use of the payor’s form is a factor of modest significance.
+[119] As for the student progress report at the end of the course, I cannot see how this points one way or the other. Whatever the status of the teacher, it is normal that there be some sort of report or evaluation at the end of the course. Students would expect such a report, their employers would expect it and it could be of use to future teachers of the students.
+[120] The fact that the appellant observed some teachers once, but not all teachers, is as consistent with supervising an employee as it is with quality control of a supplier’s work.
+[121] When one weighs this up, there is little indication of juridical subordination, particularly given the freedom of the teachers, in consultation with their students, to determine the content of the course. The reality of these contracts is that they are contracts for services pursuant to article 2098 of the Civil Code. They are not contracts of employment.
+[122] Thus, for the contracts other than the CBC and the particular Agropur factory, the reality of the contracts is consistent with the intention of the teachers working on these contracts, specifically Liza Rumjahn, Mark Miller, Michael Dawson, Judith Gostick, Janice Walsh-Bonal, Marco Sisti, Tanya Linkletter and Andrea Rancourt.
+The Agropur Factory Contract [123] The appellant had a number of contracts with Agropur. Apart from one of them, the other Agropur contracts were similar to what I have described above.
+[124] One contract at a particular factory producing cheese was, however, significantly different. That particular contract ran from September 28 to December 2, 2010.[34]
+[125] That factory had previously contracted with someone else and had already put into place a very specific program. The program involved the students having 10 hours of English exposure every week consisting of, for example, a certain amount of conversation, some telephone conversation lessons, listening to certain podcasts before class, reading from certain Web sites and watching episodes of a particular television program.[35]
+[126] When the particular factory contracted with the appellant, they already had this highly prescriptive program in place and each student had agreed to do everything required. The client wanted the appellant to continue this program.
+[127] The appellant agreed to this and asked the teacher, Marika Andrassi, to follow the program.
+[128] The appellant did not create this program.
+[129] Does the fact that this was highly prescriptive program change the nature of the contract between the appellant and Marika Andrassi?
+[130] The appellant argues, and I agree, that the situation is no different from that of the general contractor who agrees to certain specifications and who, in turn, requires that a subcontractor fulfill all the specific requirements applicable to the subcontractor’s portion of the work.
+[131] Here we have a service rather than the production of a thing. However, the situation is in principle the same in that the ultimate consumer of the service wishes certain specific content. If an employer wants second language instruction for employees in the sales department and wishes that the teacher use certain materials which include text and a vocabulary suited to sales, a general contractor who requires the same of the subcontractor is simply ensuring that the subcontractor fulfill the general contractor’s own obligation to the client.
+[132] While this does limit the teachers’ freedom of action, it does not limit that freedom of action any more than it does that of the appellant. Another way of looking at it is that, if the teacher had directly contracted to provide the particular course to the factory, the teacher would not have become an employee simply because he had agreed to use the teaching materials that the client wanted.
+[133] In this regard, it is worth considering the following two paragraphs from the decision of Justice Létourneau of the Federal Court of Appeal in Le Livreur Plus Inc. v. Canada (M.N.R.),[36] where he says:
+24 Counsel for the respondent mentioned a number of facts in support of her argument that the applicant exercised such control over its two workers that the only conclusion could be that a relationship of subordination existed between the parties. To begin with, she strongly emphasized the fact that the delivery persons were subject to obligatory hours of availability, each worked in a defined territory and they could not alter the work schedule without the applicant’s authorization.
+25 With respect, I do not think that these three first points are conclusive in determining the nature of the overall relationship between the parties or suffice to change the nature of what they stated in the contract. The reason is quite simple. Under its contract of enterprise, the applicant assumed specific obligations of time and space toward its customers, the pharmacies. As appears from the contract governing their relations, specific times and places for collecting and delivering medication were agreed on between the applicant and the pharmacies. These obligations are contained in part in the subcontract with the delivery persons. The specific nature of the duties and availability to carry them out are not the characteristic features of a contract of employment. A contractor who hires the services of subcontractors to perform all or part of the duties it has undertaken to perform for its customers in accordance with a schedule will identify and define what they have to do and ensure that they are available to do it: Charbonneau v. Canada (Minister of National Revenue - M.N.R.), supra; Vulcain Alarme Inc. v. The Minister of National Revenue, supra, at paragraph 4. Otherwise, on this basis, one would have to conclude that the applicant itself was an employee of the pharmacies, since it had to be available to serve them at the agreed times and on the agreed schedule.
+[134] The reality of this contract is also consistent with its being a contract for services. Although there was not a common intention between the appellant and the teacher, given the reality of the contract it is a contract for services.[37]
+The CBC Contract [135] The appellant was incorporated in the mid-1990s.
+[136] The CBC contract was the first government contract ever obtained by the appellant. It began in September 2009.[38]
+[137] In respect of the teachers who worked on the CBC contract, the evidence of intention reviewed above showed that the appellant always intended to have independent contractor relationships. Liza Rumjahn, Michael Dawson, Judith Gostick and Janice Walsh‑Bonal all considered that they were independent contractors. André Beauregard and Dalia El Mourad considered themselves employees, while Christine Bisaillon was unsure.
+[138] The appellant had previously bid on one other government contract but had not been successful. In the course of preparing that other bid, it had prepared the teachers’ guide which was filed as Exhibit A-1 and which it subsequently used for the purposes of the CBC bid.
+[139] That teachers’ guide was only given to persons working on the CBC contract.[39]
+[140] The CBC tender documents were lengthy and had many requirements.
+[141] The CBC contract was the biggest contract the appellant had ever obtained and involved providing training not only in the Montreal area but also in other cities, including Toronto. It was a three‑year contract that could be renewed for a further two years.
+[142] Apparently, the CBC had concerns with the previous language training that had been provided by other suppliers. As a result, it wanted to specify a good deal of what was to be provided and to ensure a certain uniformity.
+[143] It also wanted detailed reporting: time and place of classes, detailed attendance reports, reports on the students’ abilities at the beginning and end of the course.[40]
+[144] The CBC insisted on using a particular textbook for each level.
+[145] There is a great deal of detail in terms of some of the program contained in Exhibit A-1, notably on pages 9 to 15 setting out what is to be covered by students at the different levels. This was sought by the CBC and not by the appellant that had always operated in the much less structured way described above.
+[146] Consequently, there was much more structure under the CBC contract than all the other contracts, apart from the one at the Agropur factory. As a result, the appellant sought to make sure that the teachers were doing what had been promised to its client and it was more involved with the teachers in the carrying out of the CBC contract.
+[147] Thus, for example, in one attachment to an e‑mail, we see the appellant urging the teachers to use the designated book at least once at every class.[41]
+[148] There are two interesting aspects to this example. First, at the top of the first page of the e‑mail, the appellant apologizes for sending out these instructions: “Sorry to have to be such be such a stickler with this contract but we made some promises to HR”. Second, there is the mere fact of asking people to use the designated textbook at least once at every class. These two features suggest that the appellant did not normally send such instructions and, in the overall context of the evidence, this is somewhat more consistent with an independent contractor relationship than an employment relationship. Indeed, at beginner language instruction levels, it would be surprising for an employer that was a school to have to tell employee teachers to “use the textbook” in every class.[42]
+[149] Not every request made by the appellant stemmed from the CBC contract directly. For example, at one point the appellant learned that a number of students who were studying French as a second language had expressed a desire to learn expressions used in Quebec so as to better communicate with their colleagues and the appellant supplied some material with Quebec expressions to the teachers of French as a second language and asked them to use it.[43]
+[150] This last example was a decision resulting from a request by students rather than by the CBC, which was paying for the service, but it was still an externally driven instruction rather than an internally driven one originating with the appellant.
+[151] Another consideration regarding control is the fact that the appellant has no office or permanent staff outside Montreal, but some of the teachers for the CBC contract, such as Dalia El Mourad who taught in Toronto, were outside of the Montreal region. While the test is juridical subordination as opposed to actual day‑to‑day subordination or exercise of control, and while there is no question that there can be juridical subordination of someone at a distance, everything else being equal, working remotely is somewhat indicative of a lack of subordination.[44]
+[152] After a year or a year and a half, there was a change in CBC management and they became more flexible, allowing the appellant more freedom, as a consequence of which the appellant was able to move back in the direction of its traditional way of operating and as a result did not send out as many instructions.[45]
+[153] The one area where there was some divergence in the testimony was between that of Dalia El Mourad and that of Janice Walsh‑Bonal. The former taught French as a second language to CBC employees in Toronto; the latter taught English as a second language to CBC employees in Montreal.
+[154] Janice Walsh-Bonal read over the teachers’ guide quickly, and she treated it as no more than a general guide. In contrast, it was clear that Dalia El Mourad felt that she had to follow the contents of the guide much more closely.[46]
+[155] Each of them had experienced someone coming and observing their class. No changes were suggested to Janice Walsh‑Bonal. Changes were suggested to Dalia El Mourad;[47] one of them was that she visit another teacher’s class. Dalia El Mourad chose not to visit the other teacher’s class. She obviously felt that she could choose whether or not to follow the suggestions.[48]
+[156] In contrast to the other contracts in issue, in terms of the objective reality of the contract, the contracts whereby teachers were hired to teach CBC employees are closer to the line. The factors other than control are not decisive. With respect to control, there are elements that are suggestive of control, but on balance the evidence is more consistent with ensuring that the result promised to the client is achieved. It follows that reality of the contracts is that they are contracts for services, not contracts of employment.[49]
+Conclusion[50] [157] As a consequence, the appeals are allowed and the decisions of the Minister will be varied and replaced by the following decisions:
+1. Christine Bisaillon, Liza Rumjahn, Mark Miller, André Beauregard, Michael Dawson, Judith Gostick, Janice Walsh-Bonal, Marco Sisti, Tanya Linkletter, Andrea Rancourt and Marika Andrassi were not engaged in insurable employment with Les Enseignants de langue anglaise de Montréal ltée within the meaning of the Employment Insurance Act for the period from April 30, 2008 to August 18, 2011.
+2. Dalia El Mourad was not engaged in insurable employment or pensionable employment with Les Enseignants de langue anglaise de Montréal ltée within the meaning of the Employment Insurance Act and the Canada Pension Plan, respectively, for the period from October 26, 2009 to July 31, 2010.
+Signed at Montreal, Quebec, this 26th day of September 2014.
+“Gaston Jorré”
+Jorré J.
+Annex I
+The Problem Relating to the Periods in Issue
+What the Minister Can Determine
+1. Under subsection 90(1) of the Employment Insurance Act, a ruling may be sought from the Minister on a number of questions. These include not only the question of whether an employment is insurable, but also, for example:
+• how long an insurable employment lasts, including the dates on which it begins and ends,
+• what is the amount of any insurable earnings,
+• how many hours an insured person has had in insurable employment, and
+• who is the employer of an insured person.
+2. The initial determination may be appealed to the Minister pursuant to section 91 of the Employment Insurance Act.
+3. In turn, that decision may be appealed to this court pursuant to section 103 of the Employment Insurance Act. This court may confirm, vacate or vary the decision.
+4. Here, the Minister determined that there was insurable employment and when it started and ended. As a result, this court may potentially deal not only with the status of the individuals, but also the period during which that status existed.
+5. In 11 of the 12 employment insurance cases, the decision appealed from found that the individuals held insurable employment from April 30, 2008 to August 18, 2011.
+6. It may well be that there were always one or more of the 12 individuals involved who were engaged by the appellant under a contract to do second language teaching during the entire period from April 30, 2008 to August 18, 2011.
+7. However, each of the determinations is in relation to one individual.
+8. If during a period of time a person was not performing any work for the appellant, whether as an employee or an independent contractor, that person simply cannot have been in insurable employment during that particular period.
+9. Let me now consider the different individuals in terms of the relevant time period.
+Dalia El Mourad
+10. In the employment insurance case and the Canada Pension Plan case relating to Dalia El Mourad, it is clear from the pleadings and from all the evidence that the period in issue was from October 26, 2009 to July 31, 2010. The decision under appeal was for that period and no issue arises in this regard.
+Those Individuals Teaching Only CBC Employees
+11. According to Exhibit R-1, which the parties tendered by agreement, six of the 12 individuals in issue only taught CBC employees. From the evidence, notably Exhibits A-2 and A-8, it is clear that the first session with CBC employees began in the fall of 2009. Therefore anyone who only taught CBC employees could not have started to have a contractual relationship with the appellant in April 2008.
+12. The six employees include Dalia El Mourad, whose time period is correctly stated in the determination, as well as Liza Rumjahn, André Beauregard, Michael Dawson, Judith Gostick and Christine Bisaillon.
+13. In the case relating to Christine Bisaillon, the ruling refers to April 30, 2008 to August 18, 2011 as being the period in issue. The notice of appeal refers to the period as being November 9, 2010 to May 31, 2011 and in paragraph 6 of the reply to the notice of appeal it is admitted that November 9, 2010 to May 31, 2011 is the correct period.
+14. However, while the correct period is admitted in the reply to the notice of appeal, the reply nonetheless goes on to request that the Court dismiss the appeal.
+15. Even if the Court were to agree that Christine Bisaillon was in insurable employment, the Court would still have to order that the determination be varied so that the period is correct.
+16. In the appeals relating to Liza Rumjahn, André Beauregard, Michael Dawson and Judith Gostick, the determination must also be varied so that the period is correct.
+Other Employees
+17. In the case relating to Mark Miller, his testimony was that he only started having contracts with the appellant sometime in 2010 after he moved back to Montreal from Calgary. Exhibit R-16 consists of the electronic notes of the appeals officer who made the original determination; on the second and third pages, the notes show that a total of $1,896 was paid to Mark Miller for contracts in the period from October 4, 2010 to the end of April 2011.
+18. Again, whatever Mark Miller’s status — employee or independent contractor — the period in the determination is wrong and at least to that extent the determination must be varied.
+19. In the case relating to Janice Walsh-Bonal, she testified that she returned to Montreal about four and a half years ago and started taking on contracts with the appellant after her return.
+20. Again, this is inconsistent with the start date of April 30, 2008 in the determination.
+21. Exhibit R-17 is a document of the same nature as Exhibit R-16 except that it deals with Janice Walsh-Bonal. On the second and third pages, it shows contracts covering the period from February 9, 2011 to the end of May 2011; Janice Walsh-Bonal received a total of $1,551 during the course of these four months.
+22. Again, whatever Janice Walsh-Bonal’s status — employee or independent contractor — the period in the determination is wrong and at least to that extent the determination must be varied.
+23. Apart from Christine Bisaillon’s, the notices of appeal do not challenge the period in the determination; however, I cannot ignore clear evidence.
+Conclusion Regarding the Periods
+24. Given my conclusions on status, the error in the periods does not matter because the individuals were not engaged in insurable employment with the appellant during the periods set out in the determinations either — depending on the precise dates — because they were independent contractors or because they had no contractual dealings at all with the appellant.
+25. However, if it had mattered, at the very least the periods in the determinations relating to Liza Rumjahn, André Beauregard, Michael Dawson, Judith Gostick, Christine Bisaillon, Mark Miller and Janice Walsh-Bonal are incorrect and the determinations in those seven appeals would have to be varied to that extent.
+26. Further, if it had mattered, it would have been necessary to either reopen the evidence to determine what the correct dates are or obtain an agreement from the parties as to what the correct dates are.
+27. That would have been unfortunate given that the financial consequence of the error as to the periods involved is probably nil. There cannot be premiums on non‑existent wages.
+28. As for the remaining four employees: Marco Sisti, Tanya Linkletter, Andrea Rancourt and Marika Andrassi, there is no evidence, other than the determinations, to indicate what their period of employment was. Given the absence of evidence and given that that aspect of the determinations was not challenged, there would not be any reason to vary the period.
+CITATION:
+2014 TCC 287
+COURT FILE NOS.:
+2011-1699(EI), 2011-1700(CPP)
+2012-2986(EI), 2012-2987(EI), 2012-2989(EI),
+2012-3198(EI), 2012-3199(EI), 2012-3200(EI),
+2012-3201(EI), 2012-3202(EI), 2012-3203(EI),
+2012-3204(EI), 2012-3206(EI)
+STYLE OF CAUSE:
+LES ENSEIGNANTS DE LANGUE ANGLAISE DE MONTRÉAL LTÉE v. M.N.R. and DALIA EL MOURAD
+LES ENSEIGNANTS DE LANGUE ANGLAISE DE MONTRÉAL LTÉE v. M.N.R.
+PLACE OF HEARING:
+Montreal, Quebec
+DATES OF HEARING:
+July 16, 17 and 18, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+September 26, 2014
+APPEARANCES:
+Counsel for the appellant:
+Nadine Afif
+Counsel for the respondent:
+Mathieu Tanguay
+For the intervenor in files
+2011-1699(EI), 2011-1700(CPP):
+The intervenor herself
+COUNSEL OF RECORD:
+For the appellant:
+Nadine Afif
+Firm:
+Tutino Edwards Joseph
+Montreal, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+For the intervenor:
+[1] This is true in these appeals with respect to the contracts relating to language training for CBC employees as well as in respect of one of the contracts with Agropur. See below.
+[2] It could have easily continued into a fourth were it not for the willingness of everyone to sit until 19:30 on the last day, a Friday.
+[3] See article 1387 of the Civil Code of Québec. While it is not necessary for me to determine the question, it does not appear that the outcome would have been any different if the applicable law were that of another province.
+[4] 2009 FCA 47, particularly at paragraphs 18 to 44.
+[5] 2013 FCA 85, particularly at paragraphs 23 to 41.
+[6] 2013 QCCA 1379, particularly at paragraphs 39, 43 and 49 to 56.
+[7] 2009 FCA 47, at paragraph 31.
+[8] 2013 FCA 85, at paragraph 40.
+[9] 2013 FCA 85, at paragraph 41.
+[10] 2009 FCA 47, notably in paragraph 43.
+[11] This passage is cited with approval by Justice Angers in Bernier v. M.N.R., 2010 TCC 280, at paragraph 13. In Grimard, at paragraph 36, the similar passage from the fifth edition of professor Gagnon’s book was approved by the Federal Court of Appeal.
+[12] Bearing in mind article 2101 of the Civil Code.
+[13] See Exhibits R-2, R-3 and R-5.
+[14] In Exhibit R-2; Exhibit R-3 uses the term “independent teacher”.
+[15] The sample ad filed in Exhibit A-9 is not inconsistent with this intent by the appellant in view of its reference to self‑employment; however, its wording is not strongly supportive of this intention given the overall terms of the ad and given the wording of the reference to self-employment.
+[16] I note that she had come to Canada two years earlier and had only started working in Canada about a year later.
+[17] Considering article 2103 of the Civil Code.
+[18] Janice Walsh‑Bonal and Mark Miller, and six other persons according to the Minister’s assumptions; I note that those assumptions were not challenged.
+[19] Indeed, given that André Beauregard, Marika Andrassi and Christine Bisaillon were not witnesses, we have quite limited information in respect of those three individuals.
+[20] Although that is not the same as a direct statement that at the time they signed the agreement their intention was to become an employee.
+[21] In the case of the CBC contract, the CBC tender document specified the book to be used for the first year.
+[22] In the appeal relating to Dalia El Mourad, there is one difference between her situation and that of the other two teachers who testified. She did not have a reference library and asked the appellant to send her certain books, which the appellant did. These were the 13 books listed on the second page of Exhibit R-8, which were loaned to Dalia El Mourad; 13 books do not have a large impact given that they represent a moderate expenditure but, in her case, this factor does point somewhat towards employment.
+I also note that, while the contracts require the teachers to return the appellant’s material, apart from the books loaned to Dalia El Mourad, there does not seem to have been much material to return.
+[23] Dalia El Mourad’s case is a little different insofar as she was reimbursed for her photocopying expenses.
+[24] Janice Walsh‑Bonal testified that she thought she could hire a helper, but she would not do so because it would cost her money. Mark Miller said it would be unethical for him to hire a replacement.
+[25] Janice Walsh‑Bonal testified that she found a replacement, but thought it was only proper to advise the appellant; in another case, Dalia El Mourad arranged for someone else, who was also teaching for the appellant, to replace her.
+[26] For instance, in a different example regarding Dalia El Mourad from the second one in the previous footnote: see Exhibit A‑13.
+[27] Especially considering that article 2101 of the Civil Code recognizes that it may matter who the subcontractor is.
+[28] On occasion, before a contract was agreed to, there were negotiations regarding the scheduled time for the classes between the potential teacher, the appellant and the client; again, such negotiation could be consistent with either status.
+[29] Exhibit R-16, pages 2 and 3.
+[30] Exhibit R‑17, second and third pages.
+[31] There were other contracts with Agropur, but they were like most of the contracts other than that with the CBC; there were very specific arrangements in the case of the Agropur factory contract.
+[32] I note that Dalia El Mourad only taught students at the CBC.
+[33] Mark Miller said this never occurred to him but Janice Walsh‑Bonal said it happened in one of her classes. Dalia El Mourad also said that the appellant once had someone observe her class.
+[34] Exhibit R-15.
+[35] See Exhibit R-15.
+[36] 2004 FCA 68.
+[37] Based on Exhibits R-1, R-15 and certain testimony, it is clear that this is the only contract that Marika Andrassi worked on during the period at issue. I note that early on in the hearing the parties agreed that Exhibit R-1 should be corrected in the following ways: (i) the heading of the two right‑hand columns should simply be “Other clients” and (ii) the specific client names in the two columns should be crossed out. As a result, if there is an “X” or a crossed out client name in the two right‑hand columns, it means that the individual on that line worked for a client other than the CBC.
+[38] About one year before the Agropur factory contract.
+[39] People working on other contracts received only a very short version of the guide consisting only of sample time sheets, progress reports, invoices and course evaluations.
+[40] See, for example, Exhibit R-11.
+[41] Exhibit A-2, second page, third bullet.
+[42] At more advanced levels, one expects greater latitude.
+[43] Exhibit R-10, third, fourth and fifth pages.
+[44] Everything else being equal is very important because there can be things which offset remoteness, whether in terms of very detailed instructions and reporting or the use of electronic means of monitoring. (For example, there are virtual call centre employees who are working at home in many different locations but whose calls are electronically monitored for the number of calls answered, average call length, etc., and who are subject to random monitoring of their calls from time to time by supervisors.)
+[45] On the evidence, it is not clear exactly when this shift occurred and to what extent the program was less prescriptive in a particular time period. A further problem in terms of considering this change is that, in general, we do not know the exact period of work of the individual teachers. See Annex 1. However, it is clear that this change would have been after the period during which Dalia El Mourad worked since her work on the CBC contract was entirely in the first year of the CBC contract.
+[46] See Exhibit A‑1. The English version of the teachers’ guide was not in evidence, although the specific course contents would have been different since a different text would have been used. Also, given that the two witnesses were teaching in different languages in different locations, it is entirely possible that the atmosphere was different and the needs were different with the result that their experience was different.
+[47] Exhibit R‑14.
+[48] The appellant took the position that these were simply suggestions from one teacher to another (the co‑owners were both second language teachers); Dalia El Mourad felt that this was just like the Alliance française where she was an employee and where someone had once come to watch a class and make suggestions. Such observation and suggestions can either be quality control or constitute direction by an employer.
+There was also evidence about whether a teacher could exclude a student from a class. One of the teachers, André Beauregard, had wanted to exclude a student who had missed many classes. The appellant did not let him do so because the individual was a relatively senior employee of the client and it was a sensitive issue. I am not sure how this evidence helps one way or another. In a context where the contract is to teach certain employees of the company, if the teacher were contracting directly with the CBC, he would also have to keep the client happy and might well also conclude that in the circumstances he could not exclude the student.
+[49] In the case of Liza Rumjahn, Michael Dawson, Judith Gostick and Janice Walsh‑Bonal, one can also conclude that the reality is consistent with the parties’ contractual intent.
+[50] There were a number of references to how other situations were treated. For example, the appellant referred to a ruling in respect of an individual at an earlier period of time, and Dalia El Mourad referred to the fact that the Alliance française treated her as an employee and that it seemed to her that the relationship was the same. These are interesting facts but are not relevant to the determination here, which must be based on the particular facts of the relationships in issue here.

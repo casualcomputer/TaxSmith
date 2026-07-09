@@ -1,0 +1,83 @@
+Title: Chef on the Run Franchise Division Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26119/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-212-26119-chef-on-the-run-franchise-division-ltd-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-04-14
+
+# Chef on the Run Franchise Division Ltd. v. The Queen
+
+- Citation: 2003 CCI 212
+- Decision date: 2003-04-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4114, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chef on the Run Franchise Division Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-14
+Référence neutre
+2003 CCI 212
+Numéro de dossier
+2002-2131(GST)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Date : 20030414
+Dossier : 2002-2131(GST)I
+ENTRE :
+CHEF ON THE RUN FRANCHISE DIVISION LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu le 2 avril 2003, à Victoria (Colombie-Britannique).
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Représentant de l'appelante :
+Chris Cowland
+Avocat de l'intimée :
+MeMichael Taylor
+_______________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 11 mars 2002 et porte le numéro 11CU118091230, est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+L'appelante se voit adjuger la somme de 100 $ pour couvrir les débours engagés dans la poursuite de l'appel.
+Signé à Saskatoon (Saskatchewan), ce 14e jour d'avril 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 10e jour de mars 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2003CCI212
+Date : 20030414
+Dossier : 2002-2131(GST)I
+ENTRE :
+CHEF ON THE RUN FRANCHISE DIVISION LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Beaubier, C.C.I.
+[1] Le présent appel, interjeté sous le régime de la procédure informelle, a été entendu à Victoria (Colombie-Britannique) le 2 avril 2003. Avec le consentement des parties, la preuve dans l'affaire Complete Cuisine and Fine Foods to Go (1988) Ltd. c. La Reine, no 2002-683(GST)I,a été adoptée aux fins de la présente cause, sauf lorsqu'une preuve contradictoire était présentée en l'espèce. La Cour adopte donc la preuve établie dans l'affaire no 2002-683(GST)I.
+[2] Julia Ripley, actionnaire et cadre dirigeant de l'appelante, a témoigné pour le compte de celle-ci. Karola Williams, D. Jur., M.B.A., C.M.A., l'agent d'appel de l'intimée assignée au dossier, a témoigné pour l'intimée.
+[3] Les hypothèses et la preuve qui s'y rapportent, avec une exception, sont similaires aux conclusions dans l'affaire no 2002-683(GST)I.
+[4] La différence découle du témoignage de Mme Williams selon lequel elle a visité les locaux de l'appelante à Sidney (Colombie-Britannique) et y a acheté un emballage de produits alimentaires. Cet emballage avait été préparé suivant sa demande particulière; elle l'a pris, l'a mis au four à micro-ondes sur une assiette conformément aux instructions de l'emballage, et en a mangé le contenu.
+[5] Julia Ripley a témoigné que les emballages destinés à être livrés sont préparés et livrés exactement de la manière décrite dans les motifs de l'affaire no 2002-683(GST)I. Je préfère son témoignage à celui de Mme Williams pour deux raisons. Premièrement, Mme Williams a effectué son achat sur place; il ne s'agissait pas d'une livraison. Deuxièmement, sa visite a eu lieu après la période en cause.
+[6] Par conséquent, l'analyse de la présente cause suit la même logique que celle de l'affaire no 2002-683(GST)I. Pour ces motifs, l'appel est accueilli. L'appelante se voit adjuger la somme de 100 $ pour couvrir les débours engagés dans la poursuite de l'appel, tels que les frais de photocopie et d'affranchissement.
+Signé à Saskatoon (Saskatchewan), ce 14e jour d'avril 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 10e jour de mars 2005.
+Yves Bellefeuille, réviseur

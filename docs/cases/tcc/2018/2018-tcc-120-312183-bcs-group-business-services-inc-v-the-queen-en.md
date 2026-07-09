@@ -1,0 +1,153 @@
+---
+title: "BCS Group Business Services Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/312183/index.do"
+last_modified: "2018-06-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 120"
+citation2: ""
+neutral_citation: "2018 TCC 120"
+decision_date: "2018-06-20"
+language: "en"
+item_id: "312183"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5059
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:45:18.132000+00:00"
+cases_cited_count: 3
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0264fbe6cde6a9fab81f1b8bf70764ee82b9c48e65523e0657d314aea547fc12"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# BCS Group Business Services Inc. v. The Queen
+
+- Citation: 2018 TCC 120
+- Decision date: 2018-06-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5059, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+BCS Group Business Services Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-06-20
+Neutral citation
+2018 TCC 120
+File numbers
+2017-4722(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-4722(IT)G
+BETWEEN:
+BCS GROUP BUSINESS SERVICES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on June 20, 2018 at Vancouver, British Columbia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Denis Gagnon
+Counsel for the Respondent:
+Bruce Senkpiel
+ORDER
+WHEREAS the Appellant brought a Motion pursuant to Rule 30(2) of the Tax Court of Canada (General Procedure) Rules to have Mr. Denis Gagnon represent the Appellant;
+AND WHEREAS the Court heard representations from Mr. Gagnon and from counsel for the Respondent:
+IT IS ORDERED THAT the Motion to have Mr. Gagnon represent the Appellant is allowed but only up to the date at which the Parties are to report to the Court, currently set as May 31, 2019, and also with two further provisos: first, if the Federal Court of Appeal rules that an individual cannot so act, this Order will be revoked; second, should Mr. Gagnon miss any Court set deadline, again this Order will be revoked.
+Signed at Ottawa, Canada, this 28th day of June 2018.
+"Campbell J. Miller
+C. Miller J.
+Citation: 2018 TCC 120
+Date: 20180628
+Docket: 2017-4722(IT)G
+BETWEEN:
+BCS GROUP BUSINESS SERVICES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+C. Miller J.
+[1] BCS Group Business Services Inc. (the “Appellant”) brought a Motion pursuant to Rule 30(2) of the Tax Court of Canada (General Procedure) Rules (the “Rules”) to have its sole shareholder, director and principal officer, Mr. Denis Gagnon, act on behalf of the Appellant in this litigation. Rule 30(2) reads as follows:
+Where a party to a proceeding is not an individual, that party shall be represented by counsel except with leave of the Court and on any conditions that it may determine.
+[2] In recent orders of this Court, starting with the decision of Justice Graham in Masa Sushi Japanese Restaurant Inc. et al. v The Queen, [1] (also see Suchocki Accounting Ltd. v The Queen, [2] West Wind Hardwood Inc. (unpublished), Canril Corporation v The Queen (unpublished) and Masa Sushi Japanese Restaurant Inc. et al. v The Queen [3] ) the Tax Court of Canada has determined that Rule 30(2) conflicts with section 17.1 of the Tax Court of Canada Act (the “Act”), and the latter section simply does not allow a corporation to be represented other than by counsel. Subsection 17.1(1) of the Act reads:
+A party to a proceeding in respect of which this section applies may appear in person or be represented by counsel, but where the party wishes to be represented by counsel, only a person who is referred to in subsection (2) shall represent the party.
+[3] In Masa Sushi, Justice Graham concludes that if corporations are able to appear in person, Rule 30(2) is ultra vires. With the greatest respect, I disagree with my colleague as I take a much simpler view of the interplay between section 17.1 of the Act and Rule 30(2).
+[4] I agree that the starting point must be the legislation and not the Rule itself. Section 17.1 of the Act does not say an individual party, simply “a party to a proceeding.” A party to a proceeding can be a corporation and, therefore, subsection 17.1(1) of the Act can be read as “a corporation may appear in person.” Justice Graham’s interpretation in Masa Sushi would break section 17.1 into two sections: the first would read that an individual may appear in person or be represented by counsel, and the second would read that any other party to a proceeding may only be represented by counsel. This is simply not how the provision reads.
+[5] A corporate taxpayer, like an individual taxpayer, has the choice to appear in person or by counsel. If it chooses to appear “in person,” how does it do that? It turns to Rule 30(2), which provides how a corporation may appear in person in the Tax Court of Canada – by means of leave of a judge of the Court with possible conditions. In effect, the Tax Court of Canada judge is mandated by the legislation and Rules, working hand in hand, to simply sort this out. Yes, there is common law jurisprudence to the effect that “in person” can only mean by the presence of a visible person (obiter in R v Cook), [4] but there has been no such jurisprudence, until Masa Sushi, from the Tax Court of Canada. The jurisprudence referenced by Justice Graham is not founded in legislation that explicitly allows a corporation to appear in person.
+[6] Our Court deals in the complicated world of tax laws where deeming provisions are in abundant supply (for example, subsection 104(2) of the Income Tax Act deeming a trust to be an individual). It is, with respect, not enough to rely on “traditional common law” of what “in person” means. It must be put in context of our tax world.
+[7] Since 1993 the Court has proceeded on the basis that the Act and the Rules allow for a director or officer, for example, to be the “in person” embodiment of the corporation. Two Rules Committees consisting of judges, lawyers from both the public and private bar and administrators have dealt with this Rule and accepted it is not offside the legislation.
+[8] The Tax Court of Canada is a relatively new specialized Court dealing solely with the correctness of assessments of both individuals and corporations, both of whom are taxpayers and both of whom can be a party to a proceeding. I respectfully suggest we bring our own determination to this issue, recognizing an objective of this Court is to provide fair, just, balanced and an expeditious arena within which any taxpayer, corporate or otherwise, can confront the Government of Canada, who they believe have incorrectly assessed them. Rather than finding ways to create hurdles for the taxpayer, this Court has, I believe, always strived to ensure the taxpayer has been provided with a comprehensible and cost effective procedure in which to argue its position. Surely we can give the drafters of the legislation and the drafters of the Rules credit for recognizing the uniqueness of the Court, unencumbered by the traditional common law findings of other Courts.
+[9] In the Masa Sushi case, reference is made to section 18.14 of the Act which deals with the Court’s Informal Procedure stating:
+If 17.1(1) allowed a taxpayer to be represented by an agent…the words “or an agent” in section 18.14 would be meaningless.
+[10] Again, with respect, I disagree. This is falling back on the traditional common law view of “in person” and presuming the corporation simply cannot appear “in person” and therefore the non-lawyer is an agent. If the director or officer of the corporation is viewed as the corporation itself for purposes of appearing “in person”, it does not follow that such individual is an agent. Only if you start with the presumption that section 17.1 of the Act does not permit a corporation to appear in person, contrary to its specific wording, do you have the possibility of any violation of the “presumption of against tautology,” as stated in Masa Sushi.
+[11] As indicated earlier, I take a simpler view, a view based on the special nature of our jurisdiction uninfluenced by definitions from traditional common law that, while sensible in their own context, do not resonate with me in the Tax Court of Canada context.
+[12] I note that the Order in Suchocki has been appealed and it will now be left to the Federal Court of Appeal to rule on this matter. I suggested to counsel for the Respondent and to Mr. Gagnon that the Application seeking to act for the Appellant be deferred until we hear from the Federal Court of Appeal. Unfortunately, neither side was interested in a delay, which leaves me having to decide in line with my colleagues or decide based on my own view that section 17.1 of the Act and Rule 30(2) are not incompatible and are not in conflict; nor is Rule 30(2) ultra vires. I believe it remains open for a director or officer or whoever the Court might decide is the appropriate one to appear “in person” for a corporation, not as agent, but as the corporation itself. With some trepidation, given the great respect in which I hold my colleagues who have decided otherwise, I intend to stick to my view and proceed to consider the application of Rule 30(2).
+[13] I turn now to the traditional factors that courts have reviewed in determining who is the voice of the corporation.
+I. COST
+[14] Mr. Gagnon’s testimony was that the Appellant could not afford a lawyer, notwithstanding annual revenues of approximately $500,000. This, of course, does not reflect expenditures, past losses, and as Mr. Gagnon stated, the collection efforts of the Canada Revenue Agency which have created significant financial difficulties for the Appellant. I accept that cost is an issue for the Appellant.
+II. WHETHER MR. GAGNON WILL BE BOTH ADVOCATE AND WITNESS AT THE HEARING
+[15] Yes, he certainly would be. I intend, therefore, to limit his ability to act for the corporation to the time at which the Parties report back to the Court to set a trial date. Mr. Gagnon, at that point, will have to reapply to continue to act for the corporation and another judge will consider the matter on its merits at that point. I am hopeful that, by that time, the Federal Court of Appeal might have provided some guidance on this issue.
+III. COMPLEXITY OF ISSUES
+[16] This is basically an expense case. No one knows better than Mr. Gagnon the details. There are no difficult, technical or legal issues involved. It is primarily fact driven and this factor favours Mr. Gagnon acting for the Appellant.
+IV. CAN THE ACTION PROCEED EXPEDITIOUSLY
+[17] This is an area where counsel for the Respondent has rightly pointed out concerns with Mr. Gagnon’s procedural handling of the matter. For example, he has sought relief that the Court has no jurisdiction to grant. There has already also been one missed deadline. Mr. Gagnon clearly recognizes these concerns. He left me with the impression he now understands the jurisdiction of the Court as well as a need for timeliness. While I share some of the Respondent’s concerns on this latter point, I am more swayed by the other factors that this is a situation where the appropriate course is to allow Mr. Gagnon to be the physical presence of the corporation appearing in person. I intend to make it clear, however, in my Order that if Mr. Gagnon misses any deadline that that will impact on his ability to continue to act for the Appellant.
+[18] In conclusion, I allow the Motion to have Mr. Gagnon represent the corporation up to the date the Parties are to report to the Court, currently set as May 31, 2019 but with the provisos that first, if the Federal Court of Appeal rules that an individual cannot so act, this Order will be revoked, and second, should Mr. Gagnon miss any Court set deadline, again the ability for him to act will be revoked.
+Signed at Ottawa, Canada, this 28th day of June 2018.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2018 TCC 120
+COURT FILE NO.:
+2017-4722(IT)G
+STYLE OF CAUSE:
+BCS GROUP BUSINESS SERVICES INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 20, 2018
+REASONS FOR ORDER BY:
+The Honourable Justice Campbell J. Miller
+DATE OF ORDER:
+June 28, 2018
+APPEARANCES:
+Agent for the Appellant:
+Denis Gagnon
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2017 TCC 239.
+[2] 2018 TCC 88.
+[3] 2018 TCC 98.
+[4] 1931 CarswellAlta 59 (Alta. CA) at paras. 25 and 26.

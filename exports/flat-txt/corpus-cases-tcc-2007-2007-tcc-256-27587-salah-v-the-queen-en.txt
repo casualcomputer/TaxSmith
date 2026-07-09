@@ -1,0 +1,198 @@
+Title: Salah v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27587/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-256-27587-salah-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-05-01
+
+# Salah v. The Queen
+
+- Citation: 2007 TCC 256
+- Decision date: 2007-05-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 81, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Salah v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-01
+Neutral citation
+2007 TCC 256
+File numbers
+2006-2043(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2043(IT)I
+BETWEEN:
+MOHAMED A. SALAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 26, 2007 at Halifax, Nova Scotia.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Catherine McIntyre
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act ("Act") for the 2003 taxation year is allowed in part and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to claim expenses in relation to his business in the total amount of $5,299.
+Signed at Halifax, Nova Scotia, this 1st day of May 2007.
+"Wyman W. Webb"
+Webb J.
+Citation: 2007TCC256
+Date: 20070501
+Docket: 2006-2043(IT)I
+BETWEEN:
+MOHAMED A. SALAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant was a member of the Board of Directors of the Maritime Muslim Academy ("Academy") in 2003. He stepped down from the Board of Directors in 2003 to work on a project for the Academy. The project included a review of the structure of the Academy with a view to increasing the enrolment of students. The Academy paid him a total of $20,000 for his work. The Respondent does not dispute that the Appellant was an independent contractor with respect to this work.
+[2] The Appellant did not include the $20,000 in his tax return for 2003. He indicated that he was traveling overseas in the early part of 2004 and when he returned he did not have a lot of time to complete his tax return and he inadvertently omitted this from his return. No expenses had been claimed in his tax return for 2003 in relation to this project.
+[3] The Appellant was reassessed in relation to the $20,000 amount paid by the Academy and the Appellant filed a Notice of Objection claiming $7,874.40 in expenses in relation to the project. The reassessment including the $20,000 in his income was confirmed without any expenses being allowed. The Appellant has appealed with respect to the claim for his expenses.
+[4] The expenses claimed were summarized in a table prepared by the Appellant as follows:
+Expense Item
+Item Detail
+Paid Cost
+Business Share Percentage
+Business Expense
+Business Space Rent (One Bedroom Apartment) Business Use 50% of Space
+Rental Cost
+$6,000
+50%
+$3,550
+Cleaning & maintenance
+$750
+Electricity
+$350
+Total Space Cost
+$7,100
+Telephone local
+Business share 60%
+$350
+60%
+$210
+Long Distance Telephone
+Business share 80%
+$700
+80%
+$560
+Automobile Vehicle Expenses Total kilometers driven 31,000 km Portion used for business 21,700 Percentage business use = 70%
+Oil & Gas
+$931
+70%
+$2,332.40
+Insurance
+$700
+License & Registration
+$140
+Capital Allowance (depreciation)
+$750
+Maintenance & repair
+$811
+Total vehicle
+$3,332
+Computer hardware & software
+Hardware
+$650
+75%
+$825
+Software
+$450
+Total computer
+$1,100
+Printing, Photocopying, Stationary & Supplies
+$397
+100%
+$397
+Total Expenses for the year 2003
+$7,874.40
+[5] The Appellant did not have any receipts in relation to any of these items. The Appellant testified that the project began in 2002 although the actual starting date is not clear. The ending date for the project is also not clear. The Appellant testified that the project lasted for approximately 14 months but he later testified that it started in mid-November of 2002 and ended near the end of October 2003. He also testified that he received approximately $2,500 per month but since the total amount received was $20,000 this would suggest a project length of 8 months. The Appellant also testified that following the project he became an employee of the Academy for the last three months of 2003.
+[6] The Appellant stated that the amounts he received from the Academy were intended to compensate him for his expenses incurred in completing the project. He was not required to submit any receipts to obtain payments from the Academy.
+[7] The Appellant stated that the principal place where he conducted his business related to the project was his apartment which is located in the Halifax Regional Municipality. He also testified that he completed two trips in 2003 in relation to the project – one to Montreal and one to Toronto. Each trip lasted approximately one week. He indicated that when he was traveling he would stay with friends.
+[8] It was obvious that the Appellant did incur some expenses in relation to his business. The issue is the amount of these expenses that should be allowed.
+[9] Since the Appellant’s principal place of business was his apartment and since the total expenses claimed are less than $20,000, the limitations in subsection 18(12) of the Income Tax Act ("Act") are not applicable.
+[10] The question in relation to the business space is what is the reasonable amount in relation to this claim? Pursuant to section 67 of the Act, a claim for a particular business expense will be limited to the amount that is reasonable.
+[11] The expenses related to the use of his apartment were based on the annual costs of the items listed. Since the Appellant’s testimony was inconsistent with respect to the duration of the project, but he was clear that he worked as an employee of the Academy for the last three months of 2003, I will allow expenses related to the use of his apartment for 9 months in 2003. The expenses on an annual basis appear reasonable and therefore the total amount that will be allowed in relation to the use of his apartment will be 75% of $3,550 or $2,662.
+[12] The amounts claimed for the telephone were based on estimates of the Appellant. He stated that a greater percentage of the long distance charges were related to the business. On the basis that the business was only carried on for 9 months in 2003, 75% of the amounts claimed will be allowed or $158 for the telephone (local) and $420 for the long distance charges.
+[13] The Appellant testified that he had purchased a 1998 Crown Victoria automobile in 2001 for $7,800 and that he used this vehicle in carrying on his business in 2003. With respect to the use of this automobile, the Appellant testified that he travels 12,000 km per year and that this distance is consistent, year after year, when he was not carrying on this business. Assuming that the total amount traveled in 2003 was 31,000 km as stated in the table above, and assuming that the business was carried on for 9 months (and therefore 3,000 km would have been driven during October to December), the total number of kilometers that would have driven during the first 9 months of 2003 would have been 28,000. Since 1,000 km per month are personal, this would leave 19,000 km for business travel during the first 9 months of 2003 or 68% of the total number of kilometers driven during this nine month period.
+[14] The Appellant used 70% which is reasonable based on the evidence submitted and the above analysis. The total amounts listed for oil and gas, insurance, license and registration, and maintenance and repairs appear to be reasonable amounts. The Appellant testified that these amounts were based on amounts spent in other years and since the burden of proof is on a balance of probabilities, I accept that, on the balance of probabilities, these amounts are reasonable and were incurred by the Appellant, especially since he completed two lengthy trips by car in 2003. However the amounts for insurance and registration are not dependent on the number of kilometers driven but are fixed costs. Therefore only 75% of the amounts claimed for registration and insurance will be allowed as the business was only carried on for 9 months in 2003.
+[15] With respect to the amount claimed for capital cost allowance (depreciation) since the car was not being used in the business at the end of 2003, no amount will be allowed for capital cost allowance. A change in use would have resulted in a deemed disposition of the car pursuant to subsection 45(1) of the Act prior to the end of 2003. No evidence was introduced in relation to the fair market value of the automobile when the business commenced or when the business ceased and therefore no amount will be allowed as a terminal loss.
+[16] The Appellant testified that he acquired the computer (which was purchased as a used computer) and the software in December of 2002 and when the project was completed he gave these to the Academy, which the Appellant described as a charity. These items would be capital assets. Since the computer and the software were given as a gift inter vivos to the Academy, there would be a deemed disposition of these assets for an amount equal to their fair market value pursuant to paragraph 69(1)(b) of the Act, unless the Academy was a registered charity and a lesser amount was designated under subsection 118.1(6) of the Act.
+[17] Since the computer hardware and software were not owned by the Appellant at the end of 2003, no amount will be allowed as capital cost allowance in relation to these items and since there was no evidence with respect to the fair market value of these assets at the time that these assets were given to the Academy, nor whether the Academy was a registered charity and if so, whether any amount was designated under subsection 118.1(6) of the Act, no amount will be allowed as a terminal loss in relation to the disposition of these assets. It is not known whether the Academy issued a charitable donation receipt to the Appellant in relation to the donation of the hardware and the software. No amount was claimed on the Appellant’s 2003 tax return for any charitable donations but if the Academy is a registered charity, the Appellant could, if the donation is supported by a receipt, claim the amount donated in 2003 on any tax return of the Appellant for 2003 to 2008 (inclusive).
+[18] The Appellant testified that he incurred over $400 in printing, photocopying, stationary and supplies. The Appellant’s testimony on this item is accepted and the claim for $397 in relation to these items is allowed.
+[19] As a result the following is a summary of the expenses that are allowed:
+Item
+Amount Claimed
+Amount Allowed
+Business Space
+$3,550
+$2,662
+Local Telephone
+$210
+$158
+Long Distance Telephone
+$560
+$420
+Oil & Gas
+$931 x 70% = $652
+$652
+Insurance
+$700 x 70% = $490
+$368
+License & Registration
+$140 x 70% = $98
+$74
+CCA (depreciation)
+$750 x 70% = $525
+$0
+Maintenance & repair
+$811 x 70% = $568
+$568
+Computer hardware & software
+$825
+$0
+Printing, photocopying, stationary & supplies
+$397
+$397
+$7,875
+$5,299
+[20] Therefore the Appellant is entitled to claim expenses in relation to his business in the total amount of $5,299 for the 2003 taxation year.
+Signed at Halifax, Nova Scotia, this 1st day of May 2007.
+"Wyman W. Webb"
+Webb J.
+CITATION: 2007TCC256
+COURT FILE NO.: 2006-2043(IT)I
+STYLE OF CAUSE: Mohamed A. Salah v.
+Her Majesty the Queen
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: April 26, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: May 1, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Catherine McIntyre
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

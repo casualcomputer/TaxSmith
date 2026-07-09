@@ -1,0 +1,208 @@
+Title: Tobin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29229/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-278-29229-tobin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-05-22
+
+# Tobin c. La Reine
+
+- Citation: 2009 CCI 278
+- Decision date: 2009-05-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7030, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tobin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-05-22
+Référence neutre
+2009 CCI 278
+Numéro de dossier
+2008-3147(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3147(IT)I
+ENTRE :
+DONALD S. TOBIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu les 3 et 6 avril 2009, à Edmonton (Alberta).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Leona K. Tesar
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est accueilli, et la cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en apportant les rajustements suivants :
+a) à l’égard de frais afférents à la camionnette, l’appelant a droit à une déduction correspondant à 30 % des sommes suivantes : (1) 2 184 $ pour l’essence, (2) 586 $ pour les assurances et (3) 4 012,75 $ pour une déduction pour amortissement. De plus, une déduction pour les frais d’entretien et de réparation s’élevant à 1 032,30 $ est accordée à l’appelant;
+b) à l’égard des dépenses générales d’entreprise, une déduction totale de 1 077 $ est accordée pour les dépenses courantes, et la somme de 2 810 $ est considérée comme une dépense en capital pour de l’équipement;
+c) à l’égard des frais de repas et de représentation, une déduction de 471,49 $ est accordée;
+d) à l’égard des frais d’utilisation d’un téléphone cellulaire, une déduction de 400 $ est accordée;
+e) à l’égard des frais de stationnement, une déduction de 11,70 $ est accordée.
+Chaque partie supportera ses propres frais.
+Le greffe devra rembourser à l’appelant le droit de dépôt qu’il a payé.
+Signé à Toronto (Ontario), ce 22e jour de mai 2009.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 6e jour de juillet 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 278
+Date : 20090522
+Dossier : 2008-3147(IT)I
+ENTRE :
+DONALD S. TOBIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appelant, Donald Tobin, a interjeté appel d’une cotisation établie à son égard pour l’année d’imposition 2005 en vertu de la Loi de l’impôt sur le revenu (la « Loi »). Le litige porte sur la déductibilité de frais engagés relativement à une entreprise individuelle qui exerçait ses activités sous le nom de Freight Class 101 Consulting (l’« entreprise »).
+[2] Les sommes dont l’appelant a demandé la déduction sont résumées dans les observations écrites qu’il a déposées après l’audience (voir le paragraphe 97 des observations de l’appelant). L’appelant a demandé la déduction d’un grand nombre de petites dépenses, qui totalisent 20 591,55 $.
+[3] Dans la cotisation en litige, le ministre du Revenu national (le « ministre ») a seulement accordé à l’appelant la déduction d’une somme globale de 2 941,14 $. De façon générale, le ministre a supposé que les frais dont il a refusé la déduction n’avaient pas été engagés ou qu’ils n’avaient pas été engagés relativement à l’entreprise.
+[4] À l’audience, le ministre a fait quelques concessions relativement mineures. Les sommes ainsi révisées sont résumées dans les observations écrites déposées après l’audience (observations de l’intimée, annexe B). Comme ce résumé semble comporter une erreur d’écriture, je ne rendrai pas les choses confuses en exposant la position révisée de l’intimée.
+[5] Je tiens aussi à souligner que les observations déposées par l’appelant après l’audience contiennent un certain nombre d’énoncés de faits qui n’avaient pas été exposés à l’audience. Je n’ai donc pas tenu compte de ces énoncés.
+Discussion
+[6] Le ministre a reconnu que l’entreprise constituait véritablement une entreprise ayant commencé ses activités en 2005. La seule question en litige est le montant de la déduction qu’il convient d’accorder à l’appelant.
+[7] En l’espèce, c’est l’appelant qui a le fardeau initial de réfuter les hypothèses sur lesquelles le ministre s’est fondé pour établir la cotisation en cause. L’appelant a été la seule personne à témoigner à l’audience.
+[8] En 2005, l’entreprise était encore au stade de démarrage et elle n’a eu aucun revenu. Durant cette période‑là, l’appelant travaillait à temps plein comme chargé de comptes pour une entreprise de fret exploitée sous le nom de Con‑way Canada Express (« Con‑way »).
+[9] La nature de l’entreprise et les activités qu’elle a menées en 2005 ont été résumées par l’appelant dans une lettre qu’il a envoyée à l’Agence du revenu du Canada (l’« ARC ») au cours du processus de vérification. Le passage pertinent de cette lettre est reproduit ci‑dessous :
+[TRADUCTION]
+Freight Class 101 Consulting est une entreprise que j’ai commencé à mettre sur pied en janvier 2005. J’ai commencé à établir un plan de cours et à discuter avec des clients pendant les premiers mois de 2005. Durant cette période‑là, je travaillais pour Con‑way Canada Express, une filiale de Con‑Way/CNF Corp, une société américaine. Au Canada, le taux de fret est calculé à partir de la taille et du poids, ou de la densité des marchandises. Les règles qui s’appliquent aux marchandises qui traversent la frontière américaine, dans un sens ou dans l’autre, sont beaucoup plus complexes et ne semblent pas toujours logiques. En 2005, je cherchais à offrir des cours aux entreprises et aux particuliers pour leur apprendre les règles et les classifications qui s’appliquent au transport de marchandises entre les États-Unis et le Canada. C’est pour ce faire que je rencontrais des gens que je connais dans l’industrie et des clients pour mieux évaluer leurs connaissances et leurs besoins au sujet du transport international des marchandises. J’ai notamment invité ces gens à divers endroits pour les consulter au sujet des processus d’achat, d’expédition et de réception, et des difficultés que leur avaient causées les taux de fret et les classifications des marchandises.
+[10] L’une des principales questions en litige dans la présente affaire est de savoir si les déductions refusées pouvaient raisonnablement être rattachées à l’entreprise, ou s’il s’agissait plutôt de frais personnels. Si les frais en cause étaient de nature personnelle, leur déduction doit être refusée en application de l’alinéa 18(1)h) de la Loi.
+[11] En général, l’appelant a cherché à établir un lien entre les frais en cause et l’entreprise au moyen de son témoignage.
+[12] Pour qu’un témoignage intéressé comme celui qu’a fait l’appelant puisse constituer une preuve suffisante, il se doit d’être clair, complet, détaillé et cohérent. À plusieurs égards, le témoignage de l’appelant n’a pas du tout satisfait à ces exigences.
+[13] J’ai donc conclu que les déductions accordées par le ministre sont généralement justes.
+[14] Je traiterai maintenant de certains éléments précis de la demande l’appelant.
+Date du début des activités de l’entreprise
+[15] Pour établir la cotisation en cause, le ministre a supposé que l’entreprise avait commencé ses activités le 1er juin 2005. Il a donc refusé la déduction des frais engagés avant cette date‑là.
+[16] Aux fins du présent appel, les parties sont arrivées à un compromis au sujet de la date du début des activités de l’entreprise. La date dont elles ont convenu est le 1er mars 2005, et les observations écrites déposées par le ministre après l’audience reflètent ce compromis.
+Camionnette
+[17] L’appelant a demandé la déduction de frais relatifs à une camionnette, laquelle, selon son témoignage, avait été utilisée aux fins de l’entreprise. L’appelant a soutenu que 90 % de l’utilisation de la camionnette était à des fins commerciales, ce qui représenterait donc environ 17 000 kilomètres.
+[18] Selon les observations écrites déposées par l’appelant, les déductions demandées à l’égard de la camionnette sont les suivantes : 2 184 $ pour l’essence, 586 $ pour les assurances, 2 371,94 $ pour l’entretien et les réparations et 4 012,75 $ à titre de déduction pour amortissement.
+[19] Le ministre est en désaccord avec l’appelant au sujet de deux éléments des déductions demandées.
+[20] Premièrement, le ministre a supposé que l’utilisation commerciale de la camionnette n’avait pas dépassé 30 %.
+[21] Deuxièmement, le ministre a supposé que les frais d’entretien et de réparation attribuables à l’utilisation commerciale de la camionnette s’élevaient à 742,30 $ (voir l’alinéa 12o) de la réponse à l’avis d’appel). Cette somme a été augmentée à 1 032,30 $ pour refléter le changement de la date du début des activités de l’entreprise (voir le paragraphe 56 des observations de l’intimée).
+[22] Je tiens d’abord à souligner une erreur dans le calcul fait par le ministre pour la déduction pour l’entretien et les réparations de la camionnette.
+[23] Dans la cotisation, le ministre a seulement accordé la déduction de 30 % des frais d’entretien et de réparation totalisant 742,30 $ (paragraphe 11 de la réponse à l’avis d’appel). Le ministre a eu tort d’apporter une réduction pour utilisation personnelle, car il avait présumé, du moins selon ce que montre la réponse à l’avis d’appel, que la somme de 742,30 $ représentait déjà la seule portion attribuable à l’utilisation commerciale de la camionnette à l’égard des frais d’entretien et de réparation.
+[24] Pour ce qui est des frais relatifs à la camionnette, le principal point en litige concerne la proportion de l’utilisation commerciale. J’ai conclu que l’hypothèse du ministre voulant que l’utilisation commerciale représentait 30 % de l’utilisation totale ne devrait pas être modifiée.
+[25] Je note d’abord que l’appelant n’a présenté aucun carnet de route pour appuyer sa prétention voulant que 90 % de l’utilisation de la camionnette avait été commerciale. Bien qu’il soit souvent opportun de tirer une inférence négative d’une telle omission, je ne l’ai pas fait en l’espèce, car l’appelant a fourni une explication plausible pour la perte des documents pertinents.
+[26] Quoique je n’ai pas tiré une inférence négative de l’absence de carnet de route, je n’ai tout de même pas été convaincue par la version des faits de l’appelant au sujet de l’utilisation commerciale de la camionnette, et ce, pour les raisons exposées ci‑après.
+[27] Pour éclairer le contexte, il faut expliquer qu’avant que l’appelant et sa conjointe de fait commencent à vivre ensemble vers mars 2005, la camionnette appartenait à la conjointe de fait de l’appelant. Pendant son témoignage, l’appelant a dit à quelques reprises que la camionnette appartenait à sa conjointe. Toutefois, l’appelant avait demandé une déduction pour amortissement à l’égard de la camionnette, et cette déduction lui avait été accordée. Il semble que le ministre n’ait pas remis en cause la prétendue propriété de la camionnette durant la vérification.
+[28] En plus d’avoir accès à la camionnette, l’appelant pouvait aussi se servir d’une voiture de fonction qui lui était fournie par Con‑way. L’appelant pouvait se servir de cette voiture‑là comme bon lui semblait, et Con‑way a déclaré un avantage imposable de 3 000 $ pour l’« utilisation personnelle » de la voiture en 2005.
+[29] À l’audience, on a laissé entendre que l’appelant avait déboursé certaines sommes pour l’utilisation personnelle qu’il avait faite de la voiture fournie par Con‑way. Cependant, je suis d’avis que cette prétention n’est pas étayée par l’ensemble de la preuve.
+[30] Dans ses observations écrites, l’appelant a mentionné la possibilité (ce qu’il n’avait pas fait dans son témoignage) que lui et sa conjointe aient eu accès à d’autres véhicules automobiles. À la page 18 de ses observations, l’appelant s’est exprimé de la sorte :
+[TRADUCTION]
+[…] Je n’ai pas témoigné, et on ne m’a pas demandé de le faire, au sujet de la disponibilité d’autres voitures que nous aurions pu utiliser. J’ai témoigné avoir vendu le Chevrolet Tahoe 1999 en décembre 2004. Croyez‑vous vraiment que Mme Moir [la conjointe de fait de l’appelant] aurait accepté de n’avoir aucun véhicule après m’avoir donné la camionnette Chevrolet pour mon entreprise? De plus, le dossier ne comprend aucun témoignage au sujet de la capacité de Mme Moir de conduire un véhicule tout au long de l’année 2005. L’intimée semble avoir l’habitude de former des hypothèses sans tenir compte des faits, et elle a monté un scénario sans avoir l’information nécessaire et sans aucun fondement.
+[31] Cette observation contredit la déclaration faite par l’appelant dans une lettre qu’il a envoyée à l’ARC pendant le processus de vérification. Dans cette lettre (pièce R‑1), l’appelant s’est exprimé de la façon suivante :
+[TRADUCTION]
+[…] En 2005, nous avions accès à trois véhicules : un Chevrolet Tahoe 1999 (numéro de plaque DAH051), une camionnette Chevrolet 2001 (USL844) et une voiture qui m’était fournie par Con‑way Canada Express.
+[32] Ces déclarations de l’appelant sont problématiques pour deux raisons. D’abord, la référence faite au Chevrolet Tahoe 1999 dans la lettre semble être, au mieux, trompeuse. Ce véhicule avait été vendu en 2004. Ensuite, la lettre ne fait pas mention d’un autre véhicule, contrairement à ce qu’indiquent les observations présentées à la Cour par l’appelant.
+[33] Au mieux, ces affirmations sont trompeuses, et, à mon avis, elle jette un doute sur la fiabilité de l’ensemble du témoignage de l’appelant.
+[34] De plus, en considérant dans son ensemble la preuve portant sur l’utilisation des véhicules, la portion d’utilisation commerciale déclarée, 17 000 kilomètres, semble très élevée.
+[35] Il est difficile de voir comment l’appelant aurait pu se servir de la camionnette pour l’entreprise de façon commode et économique. Il est beaucoup plus logique de penser que la voiture fournie par Con‑way était utilisée tout au long de la journée de travail, sauf si la camionnette était nécessaire pour certaines activités particulières de l’entreprise.
+[36] L’appelant a fourni une explication pour l’utilisation qu’il faisait de la voiture fournie par Con‑way et de la camionnette, mais je ne l’ai pas trouvé convaincante.
+[37] Le travail de chargé de comptes de l’appelant auprès de Con‑way exigeait qu’il soit constamment sur la route pour rencontrer des clients. Une voiture de fonction lui était fournie pour ce travail, et l’appelant pouvait s’en servir à sa guise.
+[38] La plus grande part des activités liées à l’entreprise avait lieu durant les heures normales de travail, alors que l’appelant faisait aussi son travail pour Con‑way. Il y avait aussi un recoupage entre les clients de Con‑way et certaines des personnes avec qui l’appelant voulait s’entretenir relativement à l’entreprise.
+[39] J’accepte que la camionnette ait parfois pu être nécessaire pour les activités de l’entreprise, par exemple pour des démonstrations portant sur la sécurité, mais je ne suis pas convaincue que cela est arrivé souvent.
+[40] Le ministre a accordé des déductions à l’égard de la camionnette en fonction d’une utilisation commerciale équivalant à 30 % de l’utilisation totale. Je ne suis pas convaincue que des déductions supplémentaires sont méritées.
+[41] Compte tenu de ces facteurs, les frais qui pourront être déduits à l’égard de la camionnette correspondent à 30 % des sommes suivantes : (1) 2 184 $ pour l’essence, (2) 586 $ pour les assurances et (3) 4 012,75 $ pour une déduction pour amortissement. De plus, une déduction pour les frais d’entretien et de réparation s’élevant à 1 032,30 $ est accordée à l’appelant.
+[42] Pour ce qui est de la déduction pour amortissement accordée relativement à la camionnette, je note que l’annexe B des observations déposées par le ministre semble comporter une erreur, car la déduction pour amortissement n’a pas été réduite pour tenir compte de l’utilisation personnelle de la camionnette. Cela est contraire aux hypothèses de fait exposées dans la réponse à l’avis d’appel; il semble donc que l’annexe B comporte une erreur d’écriture. La déduction pour amortissement devrait être réduite de façon à tenir compte de la proportion d’utilisation personnelle de la camionnette.
+Frais juridiques
+[43] Lorsqu’il a témoigné, l’appelant a renoncé à la déduction de 187,50 $ qu’il avait demandée à l’égard de frais juridiques.
+[44] Après avoir lu les observations écrites déposées par l’appelant, je n’ai pas bien compris si l’appelant souhaite maintenant reprendre cette demande. Si c’est le cas, il est trop tard.
+[45] L’appelant a aussi demandé une déduction de 60 $ à l’égard d’un permis de construction pour des rénovations apportées à sa résidence et à sa cour. Je ne suis pas convaincue que cette dépense était raisonnablement liée à l’entreprise.
+Loyer
+[46] La déduction de 278 $ demandée par l’appelant à l’égard d’un loyer a été refusée par le ministre. L’appelant a renoncé à cette demande.
+[47] Cependant, durant son témoignage, l’appelant a affirmé qu’il demandait aussi une déduction de 104,86 $ pour des frais de stockage pour un mois. L’appelant a dit que ces frais avaient probablement été engagés à titre de dépenses de bureau. Je ne suis pas convaincue que les frais de stockage peuvent être raisonnablement liés à l’entreprise plutôt qu’être qualifiés de dépense personnelle. Ainsi, cette déduction est refusée.
+Intérêts
+[48] L’appelant a demandé une déduction de 2 190 $ à l’égard d’intérêts. Il a laissé entendre que 657 $ de cette somme avaient trait à la camionnette et que le reste devait être attribué aux fonds de roulement de l’entreprise.
+[49] Le ministre a entièrement refusé cette déduction.
+[50] Je suis du même avis que le ministre à ce sujet.
+[51] Pour que des intérêts puissent être déductibles, il faut établir un lien direct entre l’utilisation des fonds empruntés et une utilisation commerciale. La preuve, dans son ensemble, ne permet pas de satisfaire à cette exigence.
+[52] L’appelant a témoigné que les fonds avaient été empruntés au moyen d’une ligne de crédit obtenue avant 2005 pour financer l’achat du Chevrolet Tahoe vendu en 2004. J’ai compris que le produit de la vente de ce véhicule, 8 750 $, avait servi à l’achat d’une résidence principale. L’appelant a dit que ces intérêts devraient être considérés comme ayant trait à l’entreprise parce qu’il avait reçu la camionnette de sa conjointe en échange, ou du moins, le droit de s’en servir.
+[53] Il aurait peut‑être été possible d’établir un lien entre une partie des fonds empruntés et la camionnette si la preuve avait clairement démontré que la conjointe de l’appelant avait transféré à celui‑ci la propriété bénéficiaire de la camionnette en échange d’un intérêt dans la résidence. Toutefois, la preuve n’est pas suffisante pour établir ce lien.
+[54] Pour ce qui est du reste des fonds empruntés, attribués aux fonds de roulement de l’entreprise, la preuve n’est pas suffisante pour établir un lien avec une utilisation commerciale.
+[55] Le ministre a donc eu raison de refuser la déduction des intérêts.
+Dépenses générales d’entreprise
+[56] L’appelant a demandé des déductions totalisant 4 614 $ pour des frais « d’entreprise ». À l’audience, l’appelant n’a pas nié que 2 810 $ de cette somme‑là devraient être capitalisés au titre de l’achat d’équipement.
+[57] Le ministre a soutenu qu’une déduction totale de 1 077 $ devrait être accordée pour les dépenses courantes, et que la somme de 2 810 $ devrait être considérée comme une dépense en capital.
+[58] L’appelant a présenté une liste des dépenses générales qui avaient été engagées. Un grand nombre de ces dépenses semblent avoir été de nature personnelle. Les éléments de preuve présentés ne sont pas suffisants pour me permettre d’accorder une déduction supérieure à celle qu’a permise le ministre.
+Frais de repas et de représentation
+[59] L’appelant a demandé une déduction de 999,79 $ au titre de frais de repas et de représentation compte tenu du fait que cette somme‑là représente la moitié des frais de repas et de représentation engagés aux fins de l’entreprise.
+[60] Le ministre a soutenu que cette déduction ne devrait pas dépasser 471,49 $.
+[61] L’appelant a témoigné qu’il avait engagé ces frais pour solliciter des clients pour l’entreprise, pour établir une clientèle et pour comprendre les besoins de ses clients.
+[62] Le ministre a accordé une déduction correspondant à environ la moitié des frais dont l’appelant a demandé la déduction. En l’absence d’éléments de preuve plus détaillés, je ne peux pas accorder une déduction plus importante que celle qu’a permise le ministre.
+Frais pour un téléphone cellulaire
+[63] L’appelant a demandé une déduction de 921,48 $ pour l’utilisation d’un téléphone cellulaire.
+[64] Dans la cotisation, le ministre a entièrement refusé cette déduction, mais il a maintenant accepté de permettre une déduction de 200 $ à cet égard.
+[65] J’accepte la position voulant que les frais de téléphone raisonnablement liés à l’entreprise dépassaient 200 $. En l’absence d’une preuve convaincante, je suis prête à conclure qu’une augmentation arbitraire à 400 $ de la déduction pour l’utilisation commerciale d’un téléphone cellulaire est raisonnable.
+Frais de déplacement
+[66] Dans sa déclaration de revenus pour l’année en cause, l’appelant a demandé une déduction de 2 026,16 $ pour des frais de déplacement relatifs à l’entreprise. Le ministre a entièrement refusé cette déduction.
+[67] L’appelant n’a pas essayé de justifier la totalité de ces frais à l’audience. Il a simplement demandé une déduction pour les billets d’avion et la location d’une voiture relativement à un voyage d’une semaine qu’il a fait avec sa conjointe au Nevada. L’appelant a reconnu qu’une partie de ce voyage était de nature personnelle.
+[68] L’appelant a déposé en preuve une lettre provenant d’une connaissance vivant au Nevada. Dans la lettre, cette personne affirme que l’appelant l’avait rencontré au Nevada pour le convaincre d’investir dans l’entreprise.
+[69] J’accepte que cette rencontre a eu lieu, mais je ne suis pas convaincue que l’aspect commercial du voyage au Nevada était substantiel. Plus particulièrement, je n’accepte pas le témoignage de l’appelant voulant que la réunion d’affaires ait duré plusieurs jours.
+[70] À mon avis, le ministre a eu raison de n’accorder aucune déduction à l’égard du voyage au Nevada. Si un contribuable consacre un peu de temps à des activités commerciales lors d’un voyage qui est essentiellement de nature personnelle, je suis d’avis que les frais liés au voyage n’en deviennent pas déductibles pour autant. Il s’agit d’une question de degrés, mais, en l’espèce, je ne suis pas convaincue que le voyage au Nevada avait un lien suffisant avec l’entreprise pour justifier une déduction.
+Frais de stationnement
+[71] Le ministre a permis une déduction de 11,70 $ à l’égard de frais de stationnement.
+Frais liés à la résidence
+[72] Les parties se sont entendues pour dire que le ministre a eu raison de refuser la déduction des frais liés à la résidence.
+Conclusion
+[73] Par conséquent, l’appel est accueilli, et la cotisation est déférée au ministre pour qu’il apporte les rajustements suivants :
+a) à l’égard de frais afférents à la camionnette, l’appelant a droit à une déduction correspondant à 30 % des sommes suivantes : (1) 2 184 $ pour l’essence, (2) 586 $ pour les assurances et (3) 4 012,75 $ pour une déduction pour amortissement. De plus, une déduction pour les frais d’entretien et de réparation s’élevant à 1 032,30 $ est accordée à l’appelant;
+b) à l’égard des dépenses générales d’entreprise, une déduction totale de 1 077 $ est accordée pour les dépenses courantes, et la somme de 2 810 $ est considérée comme une dépense en capital pour de l’équipement;
+c) à l’égard des frais de repas et de représentation, une déduction de 471,49 $ est accordée;
+d) à l’égard des frais d’utilisation d’un téléphone cellulaire, une déduction de 400 $ est accordée;
+e) à l’égard des frais de stationnement, une déduction de 11,70 $ est accordée.
+[74] Pour ce qui est des dépens, chaque partie supportera ses propres frais.
+Signé à Toronto (Ontario), ce 22e jour de mai 2009.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 6e jour de juillet 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 278
+No DU DOSSIER DE LA COUR :
+2008-3147(IT)I
+INTITULÉ :
+Donald S. Tobin et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATES DE L’AUDIENCE :
+Les 3 et 6 avril 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge J. Woods
+DATE DU JUGEMENT :
+Le 22 mai 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Leona K. Tesar
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

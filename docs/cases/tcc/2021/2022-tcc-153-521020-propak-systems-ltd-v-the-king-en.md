@@ -1,0 +1,448 @@
+---
+title: "Propak Systems Ltd. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521020/index.do"
+last_modified: "2021-12-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 153"
+citation2: ""
+neutral_citation: "2022 TCC 153"
+decision_date: "2021-12-02"
+language: "en"
+item_id: "521020"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5815
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:01:36.592000+00:00"
+cases_cited_count: 27
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "76ca99272b4dc05118f1779c7a3a1a7348b44b4f1640720a8a76dd25334f44ef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Propak Systems Ltd. v. The King
+
+- Citation: 2022 TCC 153
+- Decision date: 2021-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5815, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Propak Systems Ltd. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-12-02
+Neutral citation
+2022 TCC 153
+File numbers
+2018-3818(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-3818(IT)G
+BETWEEN:
+PROPAK SYSTEMS LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion to strike commenced on November 3, 2021, at Calgary, Alberta. Continued by written representations.
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Thomas Brook Marie-Claude Marcil Brittany Rossler
+Counsel for the Respondent:
+Grant Nash Allan Mason
+ORDER
+Having heard the Respondent’s motion seeking preliminary rulings under the Tax Court of Canada Rules (General Procedure) (“Rules”) raised at the hearing, leave to bring a motion to strike pursuant to section 8 of the Rules and motion to strike portions of the Appellant’s notice of Appeal pursuant to section 53 of the Rules;
+IT IS ORDERED THAT:
+The Respondent’s request for leave to strike paragraph 12 and Exhibits at paragraphs 15 to 19 inclusive of the Hunter Affidavit is dismissed;
+The part of the Respondent’s motion seeking to strike paragraphs 42, 43, 44, 45, 46, 74, and in paragraph 49 the phrase “unlike the Settlement Proposal” and the entire sentence from the notice of appeal is granted, without leave to amend, and those paragraphs are struck out;
+The remaining part of the Respondent’s motion seeking to strike paragraphs 65(a), 65(b), 67(a), 67(b), 68, 69, 70, 71, 72, 73, 75 and 76 from the notice of appeal is dismissed and remain in the notice of appeal;
+Costs of this Motion are payable by the Respondent to the Appellant in any event of the cause; and,
+On or before January 9, 2023 the parties shall file a joint application to fix a time and place for the hearing in accordance with section 123 of the Tax Court of Canada Rules (General Procedure).
+Signed at Ottawa, Canada, this 2nd day of December, 2022.
+“K. Lyons”
+Lyons J.
+Citation: 2022TCC153
+Date: 20221202
+Docket: 2018-3818(IT)G
+BETWEEN:
+PROPAK SYSTEMS LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Lyons J.
+I. INTRODUCTION
+[1] The Respondent brings this motion. [1] Central to the motion is the request to strike out allegations and issues from the notice of appeal filed by Propak Systems Ltd. (“Propak”) brought pursuant to section 53 of the Tax Court of Canada Rules (General Procedure) (the “Rules”). [2] The Respondent also seeks rulings under section 8 of the Rules for leave, where necessary, to bring the motion to strike (the “Motion” or “strike Motion”)
+[2] In the notice of motion, the Respondent identifies five grounds and refers generically to section 53 of the Rules. At the hearing, the Respondent indicated the grounds were reduced to two: jurisdiction and no reasonable grounds for the appeal under paragraph 53(1)(d) of the Rules.
+[3] In the notice of motion, the Respondent seeks:
+An Order pursuant to section 53 of the Rules striking out the following parts of the Appellant’s Notice of Appeal:
+a) paragraphs 42, 43, 44, 45, 46 and in paragraph 49 the phrase “unlike the Settlement Proposal,” and the entire second sentence;
+b) paragraphs 65(b), 67(b), 72, 73, 74, 75 and 76; and,
+c) paragraphs 65(a), 67(a) 68, 69, 70 and 71. [3]
+[4] Collectively, paragraphs 42, 43, 44, 45, 46, 65(b), 67(b), 69, 72 to 76 and in paragraph 49 the phrase “unlike the Settlement Proposal,” and the entire second sentence, and the phrase “In addition, notwithstanding such admission,” in paragraph 70, will be referred to as the “Impugned Paragraphs”.
+[5] Collectively, paragraphs 65(a), 67(a) 68, 69, 70 and 71 will be referred to as the “Onus of Proof Paragraphs”.
+[6] The parties asked that I hear all matters, including those in the notice of motion as clarified by the Respondent and other applications raised for the first time at the hearing.
+[7] At the conclusion of the day scheduled for the hearing, Propak had completed its submissions with respect to only section 8 of the Rules. It requested that its remaining submissions be provided in writing because when the Respondent raised at the hearing the grounds of frivolous and abuse of the process of the Court in paragraphs 53 (1) (b) and (c), of the Rules, respectively, Propak said it had been “ambushed” given representations previously made by the Respondent and the Respondent’s approach was convoluted and confusing. Also, such paragraphs were not in the notice of motion, the only proper ground mentioned was no reasonable grounds for the appeal without also articulating paragraph 53(1)(d) of the Rules.
+[8] Propak’s request was granted. The notice of motion lacked clarity regarding the actual grounds relied on in section 53 of the Rules. It was not until the Respondent’s oral submissions that it was confirmed paragraphs 53(1)(b) and (c) of the Rules were also relied on predicated on matters raised that are beyond the Court’s jurisdiction. [4]
+[9] Instead of using sections, subsections and paragraphs of the Rules, these will be described as “Rule” followed by the relevant number, and in each instance will be understood to be referring to the Rules.
+II. MATTERS AND APPLICATIONS BEFORE THE MOTION
+[10] Before hearing the Motion, the following matters and applications were raised.
+[11] First, Propak consented at the hearing to filing the Amended Reply. In the notice motion, the Respondent had sought leave to file it pursuant to Rule 54. [5]
+[12] Second, Propak requested and the Respondent consented to the replacement of the redacted portion with the un-redacted portion of the transcript of the examination for discovery of Propak’s nominee pursuant to Rule 100(3). [6]
+[13] Third, the Respondent acknowledged that for the purposes of a motion to strike under Rule 53(1)(d), that Rule 53(2) precludes an affidavit in support based on the ground a pleading discloses no reasonable grounds for appeal.
+[14] As I understood it, the Respondent suggested that even though parts of the strike Motion do not rely on Rule 53(1)(d), nevertheless the Court should use the same restriction in Rule 53(2) - that no evidence is admissible - to also apply to Rules 53(1)(b) and (c). The Respondent said it would be “appropriate” to proceed with the Motion on that basis, alluded to the decision in Sentinel Hill Productions (1999) Corp. v R and referred to the usual principle that allegations in a motion to strike are assumed to be true. [7] I agree with the usual principle as stated.
+[15] If it was the Respondents’ suggestion that no evidence is admissible under current Rules 53(1)(b) and (c), which was not entirely clear nor fully argued, I will make some brief observations regarding that decision. In Sentinel Hill, Chief Justice Bowman (as he then was) stated the following involving a motion to strike:
+(a)The facts as alleged in the impugned pleading must be taken as true subject to the limitations stated in Operation Dismantle Inc. v. R., [1985] 1 S.C.R. 441 at 455. It is not open to a party attacking a pleading under Rule 53 to challenge assertions of fact.
+…
+(d) Rule 53 and not Rule 58, is the appropriate rule on a motion to strike. [8]
+[16] Of note, Chief Justice Bowman said that Rule 53, not Rule 58, is the appropriate rule on a strike motion. Although not raised at the hearing in the present appeal, I observe that former Rules 58 (1) (b) and 58(2) were consolidated with the current iteration of Rule 53 (in 2014, seven years after Sentinel Hill). Those former Rules effectively became the current iteration of Rules 53(1)(d) and 53(2), respectively. It must be remembered that the determination in Sentinel Hill was based on the previous iteration of Rule 53.
+[17] Admittedly, the previous and current iterations of Rules 53(1)(b) and(c) closely parallel each other, but the previous iteration of Rule 53 did not include provisions comparable to the current iteration of Rules 53(1)(d) and 53(2), effective February 17, 2014.
+[18] The current iteration of Rules 53(1) and (2) read:
+53 (1) The Court may, on its own initiative or on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that the pleading or other document:
+(a)may prejudice or delay the fair hearing of the appeal;
+(b)is scandalous, frivolous or vexatious;
+(c)is an abuse of the process of the Court; or
+(d)discloses no reasonable grounds for appeal or opposing the appeal.
+(2) No evidence is admissible on an application under paragraph (1)(d).
+…
+[19] While I accept that there might be instances where no evidence is needed when invoking the grounds in Rules 53(1)(b) or (c), those Rules leave open the possibility of introducing evidence, if necessary, when invoking those grounds. Conversely, no such flexibility exists under Rule 53(1)(d) where by virtue of Rule 53(2) “no evidence is admissible” on a motion to strike.
+[20] Propak noted that despite the Respondent’s submissions, confusingly the Respondent filed the “Topham Affidavit” and the “Supplemental Affidavit” (each including three exhibits). I note these are said to be in support of the Motion for a ruling under Rule 8 and for an order under Rule 53 to strike paragraphs 42 to 46 inclusive, 65(b), 67(b), and 72 to 76 from Propak’s notice of appeal. [9]
+[21] The Respondent then submitted it is unclear whether the enactment of Rule 53(1)(d) in 2014 was giving effect to the decision of the Supreme Court of Canada in Knight v Imperial Tobacco Canada Ltd (“Knight”) based on common law. [10]
+[22] In Knight, the general test for determining whether pleadings should be struck was restated as whether it is plain and obvious that the passages of the pleading discloses no reasonable cause of action or, put another way, no reasonable prospect of success. Noting established jurisprudence, Chief Justice McLachlin (as she was then) in discussing striking pleadings stated:
+[17] (…) A claim will only be struck if it is plain and obvious, assuming the facts pleaded to be true, that the pleading discloses no reasonable cause of action: [citation omitted]. Another way of putting the test is that the claim has no reasonable prospect of success. Where a reasonable prospect of success exists, the matter should be allowed to proceed to trial: [citation omitted]. [11]
+[23] I note that in French v R, [12] the Federal Court of Appeal stated that:
+[25] On a motion to strike pursuant to rule 53(1)(d) of the TCC Rules, the question which arises is whether it is plain an obvious that the argument has no reasonable prospect of success (Knight v. Imperial Tobacco Canada Ltd., 2011 SCC 42 (S.C.C.) at paragraph 17).
+[24] Clearly, the ground in Knight aligns with the ground in Rule 53(1)(d) “discloses no reasonable grounds for appeal or opposing the appeal”. In either instance, evidence is inadmissible on a motion to strike pleadings. Again, when Rule 53(1)(d) is invoked, evidence is inadmissible by virtue of Rule 53(2).
+Application for leave to dispense with time limit to file a third affidavit
+[25] Fourth, at the hearing, the Respondent requested leave, under Rule 12(1), to file yet a third affidavit thereby dispensing with the time limit under the Rules (the “Third Affidavit”); this contains Propak’s financial statements.
+[26] Rule 12 allows the Court to extend a time limit under the Rules where a motion for a direction extending time is made whether before or after the expiration of the prescribed time. Rule 12 reads:
+Extension or Abridgement
+12 (1) The Court may extend or abridge any time prescribed by these rules or a direction, on such terms as are just.
+[27] Combined, I note that Rules 12(1) and 9 enables the Court to dispense with compliance with any rule at any time.
+[28] Respondent counsel, Mr. Nash, explained it was his oversight in failing to submit the Third Affidavit on time which he had realized three days before the hearing; he informed Propak the next day. Further, the strike Motion is premised on jurisdiction and the large corporation rules. The Minister and Propak identified it to be a large corporation for the relevant years as defined in subsection 225.1(8) of the ITA. Propak confirmed its financial statements were prepared in accordance with generally accepted accounting principles, were audited by a third party and regard is to be had to those as contemplated by provisions in the ITA that apply to determine if Propak was a large corporation. [13]
+[29] The Respondent set out the test and governing principles from the jurisprudence to extend time under Rule 12, made submissions with respect to each step, and indicated that the Third Affidavit is limited to identifying documents not for the truth of the contents. [14]
+[30] Propak opposed the request because the Respondent had previously indicated that Rule 53(1)(d) would be at issue and Rule 53(2) precludes all affidavit evidence in bringing a motion. And, the Respondent filed two affidavits before the hearing, and now seeks to file the Third Affidavit, which would be late filed under the Rules as was the Supplemental Affidavit.
+[31] Propak then requested that the Court abey the ruling under Rule 12(1) until all submissions were heard under Rule 53. I agreed to the request. After reply submissions, Propak then indicated it would be prepared to consent to the admission and service of the Third Affidavit after all if the Court on the strike Motion were to consider Rules 53(1) (b) and or (c) which it ultimately did.
+[32] In any event, I would have found it is necessary and just to extend the time to file and serve the Third Affidavit.
+Application for leave to strike portions of Hunter Affidavit
+[33] Fifth, the Respondent sought leave to strike paragraphs 10, 11, 12, 13, and 14 the five exhibits referred to at paragraphs 15 to 19 inclusive (the “Exhibits”) in the affidavit filed by Regan Hunter in opposition to the Motion (“Hunter Affidavit”). The Respondent made detailed submissions with respect to each of those paragraphs premised on the failure to comply with Rule 72.
+[34] After a recess, Propak then consented to all paragraphs being struck from the Hunter Affidavit except for paragraph 12 and the Exhibits.
+[35] Rule 72 reads as follows:
+72. Contents of Affidavit – An affidavit for use on a motion may contain statements of the deponent’s information and belief, if the source of the information and fact of belief are specified in the affidavit.
+[36] The Respondent’s submission with respect to paragraph 12 was that although the affiant made it on information provided by a person, the affiant did not identify the person.
+[37] I note that paragraph 12 states “I am informed by counsel, and do verily believe, that in the intervening time between the pleadings and this motion, the parties have undertaken the following steps….”. It then describes pre-trial steps with dates including examination for discovery through to satisfaction of undertakings and other steps. I agree with Propak’s characterization this was a “minor deficiency” especially since the affiant had narrowed down “person” to counsel, a limited number of people. I observe that some, if not all, of the information in paragraph 12 is consistent with information in the Respondent’s letter sent to the Court dated April 1, 2021 appended to the Supplemental Affidavit. In response to that, Propak filed the Hunter Affidavit in which three exhibits relate to the Respondent’s list of documents that are referred to in the Supplemental Affidavit.
+[38] It is only just, in my view, to dispense with full compliance with Rule 72. I decline to grant leave to strike paragraph 12 and the Exhibits from the Hunter Affidavit.
+III. THE MOTION
+[39] At the hearing, the Respondent framed and presented the issues in the Motion as follows:
+i) Whether leave under Rule 8 applies in respect of a motion to strike pleadings involving the Court’s jurisdiction?
+ii) If Rule 8 applies, whether the Court should refuse to grant leave in respect of the strike Motion?
+iii) Whether the Impugned Paragraphs contain allegations or issues that involve matters of the Court’s jurisdiction?
+If so, whether the Court should order the Impugned Paragraphs be struck pursuant to Rules 53(1)(b) and (c)?
+iv) Whether leave should be granted under Rule 8 for the Respondent to make the Motion to strike the Onus of Proof Paragraphs?
+If so, whether the Court should order the Onus of Proof Paragraphs be struck pursuant to Rule 53(1)(d)?
+Parties’ positions
+[40] The Respondent challenges the allegations and issues in the Impugned Paragraphs because these involve behaviour, statements or actions (collectively, “conduct”) of the Minister of National Revenue or CRA officials (collectively, “tax officials”) or the process leading up to the reassessments in issue. Therefore, the Impugned Paragraphs are outside this Court’s jurisdiction such that leave under Rule 8 to bring the strike Motion is not required nor applies. If required, leave should be granted. If the Court declines to strike Impugned Paragraphs 65(b), 67(b) and 72–76, alternatively, these should be struck for non-compliance with paragraphs 165 (1.11) (a) and (b) of the Income Tax Act (“ITA”), the large corporation rules.
+[41] Recognizing that leave under Rule 8 to bring the Motion to strike the Onus of Proof Paragraphs is required, the Respondent submits it should be granted.
+[42] Consequently, the following should be struck from the notice of appeal without leave for Propak to amend:
+a) the Impugned Paragraphs on the grounds these are frivolous or an abuse of the process of the Court pursuant to Rules 53(1)(b) or (c), respectively; and
+b) the Onus of Proof Paragraphs on the ground it is plain and obvious these disclose no reasonable grounds for appeal pursuant to Rule 53(1)(d).
+[43] Conversely, Propak’s position is that the Impugned Paragraphs and Onus of Proof Paragraphs should not be struck as those contain important questions pertaining to its position as to the validity of the Reassessments or onus of proof that the parties bear and should be tried and decided by the trial judge. Even if there are irregularities, these are mere irregularities. Further, leave of the Court is required to bring the strike Motion. However, it should be denied because the Respondent failed to attack the alleged irregularities within a reasonable time after obtaining knowledge of the alleged irregularities. Also, since numerous fresh litigation steps were taken after Propak served its pleading, the Respondent is barred under the fresh step rule from bringing the strike Motion.
+III. BACKGROUND
+[44] To situate the issues some background is necessary.
+[45] Propak identified itself, and as later confirmed by the Minister, as a large corporation within the meaning of subsection 225.1(8) of the ITA in its taxation years ending January 31, 2014 and ending January 31, 2015 (“2014”, “2015” and collectively the “relevant years”). [15]
+[46] The Minister determined the normal reassessment period for Propak for each of 2014 and 2015. Before such period ended for 2014, Propak filed a waiver on June 28, 2017 in prescribed form to waive the normal reassessment period provided in subparagraph 152(4)(a)(ii) of the ITA to allow the Minister to reassess in respect of the determination of income and taxable income in respect of 2014.
+[47] Around May or June 2017 and up to early December 2017, CRA and Propak held discussions regarding the appropriate method to recognize income for the relevant years, during which time options were discussed and CRA made a proposal.
+Reassessments
+[48] The Minister reassessed Propak by increasing its taxable income by $93,096,707 and by $89,356,963 (“income inclusions”) for 2014 and for 2015, respectively, under Part I of the ITA resulting in tax payable (the “Reassessments”). [16] In doing so, the Minister determined it was appropriate to utilize the ‘percentage of completion method’ of income recognition for profit computation (the “Minister’s method”), and rejected Propak’s use of the ‘completed contract method’ (“Propak’s method”) it had used for the relevant years and historically.
+Notice of Appeal
+[49] After filing its 2014 and 2015 notices of objection to the Reassessments for 2014 and 2015, Propak filed its notice of appeal to the Reassessments.
+[50] The underlying dispute in the appeal is about the proper method in computing its income from its equipment business in in order to determine its profit in the relevant years. The Minister contends Propak’s method is inconsistent with the ITA, established legal principles, well-accepted business principles and does not give an accurate picture of profit in the relevant years.
+[51] In paragraph 65 of its notice of appeal, Propak pled issues as follows:
+(a) Whether the Minister bears the onus of proving the facts supporting the 2014 Reassessment and the 2015 Reassessment (collectively, the Reassessments”).
+(b) Whether the purported protective Reassessments are valid.
+(c) …
+(d) Whether the Minister’s Reassessments are correct at law.
+(e) What was Propak’s income, net income and taxable income for its 2014 Taxation Year and 2015 Taxation Year, and in particular:
+i) Whether Propak can be forced to use the Minister’s method if Propak’s method provides an accurate picture of Propak’s yearly profit and is not inconsistent with the provisions of the Act, established case law principles, and well-accepted business principles.
+ii) Whether the Minister can perpetuate an error made in a prior year by assessing on the basis of two methods of income recognition in a single taxation year.
+[52] Propak asserts, amongst other things, that the Reassessments are not valid and should be vacated because these were the result of its “unwillingness to agree to the terms the Settlement Proposal” made by tax officials in 2017. [17]
+Litigation steps [18]
+[53] Propak’s notice of appeal was filed and served on October 3, 2018,
+[54] After that, the following steps ensued:
+a) The Respondent filed and served the Reply on March 29, 2019.
+b) The Respondent filed a list of documents on September 30, 2019. Propak filed its list of documents on January 23, 2020.
+c) The Respondent filed a supplementary list of documents on December 5, 2019. Propak filed supplementary lists of documents November 25, 2019 and February 13, 2020.
+d) The parties conducted examinations for discovery on February 5 to 7, and 20, 2020.
+e) The Respondent sent Propak a letter on February 10, 2020 reiterating the concern regarding the issue in Propak’s pleading as to “Whether the purported protective Reassessments are valid”, and stated the Respondent’s position that the Court does not have jurisdiction.
+f) The parties exchanged their answers to the undertakings on September 14, 2020. Parties exchanged their follow-up questions arising from the answers on December 14, 2020.
+g) Propak issued a request to admit on December 2, 2020, as revised on December 16, 2020. The Respondent responded to the request to admit on December 17, 2020.
+h) The parties exchanged their answers to further questions on undertakings on February 26, 2021.
+i) The parties jointly requested on April 1, 2021 that the Court amend its amended Order dated August 14, 2020, confirmed the steps above were taken regarding undertakings and stated “The parties will be discussing whether some of the undertakings have been improperly refused or insufficiently answered by the opposing party”. And, sought an extension to report to the Court until May 28, 2021.
+j) The Respondent requested clarification from Propak’s answers on June 11, 2021. Propak provided additional documents to the Respondent on June 25, 2021.
+k) The Respondent filed and served the Motion and the Topham Affidavit on July 29, 2021, and filed the Supplemental Affidavit on October 27, 2021.
+IV. ANALYSIS
+a) Impugned Paragraphs
+[55] Issues i, ii and iii in the Motion will be addressed in a different order than presented by the Respondent. The first question to be determined is whether any of the Impugned Paragraphs raise allegations and issues that are beyond this Court’s jurisdiction. If so, whether Rule 8 applies. Whether or not Rule 8 applies, the third question is whether the Impugned Paragraphs should be struck on the grounds of being frivolous or an abuse of the process of the Court pursuant to Rules 53(1)(b) and (c).
+Jurisdiction – legal principles
+[56] Section 12 of the TCCA provides the Tax Court with exclusive jurisdiction to hear and determine an appeal, brought by a taxpayer under section 169 of the ITA, from an income tax assessment. [19]
+[57] This Court’s jurisdiction in an appeal of an income tax assessment is restricted to determining the validity and correctness of the assessment based on the applicable provisions of the ITA applied to relevant facts to ascertain whether the Minister correctly assessed taxes owed by a taxpayer. [20] However, it does not have jurisdiction to vacate an assessment predicated on tax officials’ conduct, including reprehensible conduct, their motivations, abuse of power, abuse of process, including the possible underlying process or process by which the assessment was established, nor unfairness. [21] All of which have no bearing on whether the Minister validly or correctly assessed a taxpayer. [22]
+[58] In Ereiser, the Federal Court of Appeal reviewed “the statutory provisions that define the jurisdiction and role of the Tax Court with respect to appeals from income tax assessments” and set out well established principles that limits the jurisdiction, summarized as follows: [23]
+[31] …this Court has held that the role of the Tax Court of Canada in an appeal of an income tax assessment is to determine the validity and correctness of the assessment based on the relevant provisions of the Income Tax Act and the facts giving rise to the taxpayer's statutory liability. Logically, the conduct of a tax official who authorizes an assessment is not relevant to the determination of that statutory liability. It is axiomatic that the wrongful conduct by an income tax official is not relevant to the determination of the validity or correctness of an assessment. This is explained in Roitman v Canada, 2006 FCA 266 at paragraph 21:
+[21] It is also settled law that the Tax Court of Canada does not have jurisdiction to set aside an assessment on the basis of abuse of process or abuse of power (see Main Rehabilitation Co. Ltd. v. The Queen, [2004] F.C.J. No. 2030, 2004 FCA 403, at paragraph 6; Obonsawin v. The Queen, 2004 G.T.C. 131 (T.C.C.); Burrows v. Canada, [2005] T.C.J. No. 614, 2005 TCC 761; Hardtke v. Canada, [2005] T.C.J. No. 188, 2005 TCC 263).
+[32] Statements to the same effect were made in Main Rehabilitation at paragraphs 6 to 8:
+[6] In any event, it is also plain and obvious that the Tax Court does not have the jurisdiction to set aside an assessment on the basis of an abuse of process at common law or in breach of section 7 of the Charter.
+[7] As the Tax Court Judge properly notes in her reasons, although the Tax Court has authority to stay proceedings that are an abuse of its own process (see for instance Yacyshyn v. Canada, 1999 D.T.C. 5133 (F.C.A.)), Courts have consistently held that the actions of the CCRA cannot be taken into account in an appeal against assessments.
+[8] This is because what is in issue in an appeal pursuant to section 169 is the validity of the assessment and not the process by which it is established (see for instance the Queen v. the Consumers' Gas Company Ltd., 87 D.T.C. 5008 (F.C.A.) at p. 5012). Put another way, the question is not whether the CCRA officials exercised their powers properly, but whether the amounts assessed can be shown to be properly owing under the Act (Ludco Enterprises Ltd. v. R., [1996] 3 C.T.C. 74 (F.C.A.) at p. 84).
+[59] Two recent Federal Court of Appeal decisions reaffirmed the principles from Main and Ereiser that “the conduct of a tax official who authorizes an assessment is not relevant to that purpose and, therefore, to what the Tax Court of Canada must determine” and the underlying process or tax officials motivations cannot be taken into account by the Tax Court. [24]
+i) Did the Impugned Paragraphs raise allegations and issues beyond the jurisdiction of the Tax Court?
+[60] The Respondent asserts the Impugned Paragraphs relate to conduct and statements of tax officials in making the Reassessments as opposed to determining the validity or correctness of the Reassessments, therefore are beyond this Court’s jurisdiction.
+[61] Propak argues this Court has jurisdiction. It referred to the Federal Court of Appeal decisions in Roitman and Johnson for the proposition that where the taxpayer’s “true attack was an attack on the validity and correctness of the assessment”, the Tax Court has jurisdiction over the matter. [25] I agree with that proposition as stated.
+[62] However, Propak’s reliance on Roitman expands that proposition to suggest that as part of the characterization of an appellant’s claim, if the impugned paragraphs indirectly challenge the tax assessment, over which the Court has jurisdiction, the impugned paragraphs may remain in the taxpayer’s pleading. Hence, where claims rest on allegations that the Minister acted wrongfully towards taxpayers, these form part of the challenge to the tax assessment. If that is Propak’s premise, I respectfully disagree and do not read the decisions in Roitman nor Ereiser as supportive of that expanded proposition.
+[63] In Roitman, it was alleged that in reassessing, the Respondent engaged in “deliberate conduct… to deny…” Mr. Roitman the benefit of the law. The Court found that although the allegations were framed to indicate that tax officials acted wrongfully toward him, it was in essence a challenge to the reassessment such that the damages are in reality based on a wrong interpretation of the law therefore the legality or correctness in law of the reassessment is in issue. That determination was made in the context of deciding which court had jurisdiction necessitating the nature or “essence of the claim” be ascertained. [26] Similarly, in Horseman v Canada, [27] the Federal Court of Appeal in discussing whether a claim is in substance an attack of an underlying assessment stated:
+[5] … a court "must gain 'a realistic appreciation' of the [claim's] 'essential character' by reading it holistically and practically without fastening onto matters of form" (JP Morgan, at paragraph 50). This requires that a court "look beyond the words used, the facts alleged and the remedy sought" to satisfy itself that the claim is not a disguised attempt to do indirectly what can be done directly in another, more appropriate forum: Roitman v. R., 2006 FCA 266 (F.C.A.), at paragraph 16.
+[64] Notably, in Ereiser the Court quoted paragraph 21 of Roitman to reaffirm that wrongful conduct by a tax official is not relevant to the determination of the validity or correctness of an assessment.
+[65] In the present case, the nature of the dispute is that Propak is seeking to attack the validity and correctness of the Reassessments.
+[66] I will now analyze whether the Impugned Paragraphs below involve allegations and issues that challenge the validity and correctness of the Reassessments.
+[67] Paragraphs 42 to 46 inclusive – These include allegations that during the audit, tax officials made a settlement proposal to Propak during discussions that ended in December 2017 over six months in which a proposed adjustment would use the Minister’s method for tax purposes, the implications of that and that an official opined it would not accord with the ITA. If Propak did not accept the proposal, CRA would make the income inclusions to its taxable income resulting in half of the income inclusions (because it was a large corporation) becoming immediately collectible if reassessments were raised.
+[68] Paragraph 49 with the phrase “…unlike the Settlement Proposal…” and the second sentence (collectively, the “portion of Paragraph 49”) – This alleges the income inclusions in the Reassessments was a function of its unwillingness to agree to the terms of the Settlement Proposal.
+[69] Essentially, Propak alleges misfeasance by tax officials that authorized an increase in an inflated amount in reassessing and submits that that conduct, the motivations and the processes leading up to the Reassessments are relevant and material facts to attack the validity and or correctness of the Reassessments. Further, it says these would allow Propak to adduce evidence that proves that the amount of tax reassessed is incorrect and relies on Ereiser for the proposition that there are circumstances where the Minister’s conduct may be relevant for determining the validity of an assessment. [28]
+[70] Respectfully, I am not persuaded by Propak’s submissions nor that its situation aligns with the unusual circumstances in Ereiser, and agree with the Respondent that the comment in Ereiser regarding conduct was made in the context of an evidentiary issue. Of note, the Court stated “The fact that a seizure of documents is unlawful may affect the admissibility of evidence obtained as a result of the seizure, but wrongful conduct unrelated to an evidentiary matter generally is not relevant to the admissibility of evidence” in circumstances involving a criminal tax investigation and Charter issues engaging the taxpayers rights. [29]
+[71] Again, that and other decisions of the Court have consistently held that allegations alleging wrongful conduct by tax officials has no bearing on the validity or correctness of the assessment in determining statutory liability. I find that the allegations made by Propak and issues identified by it in Impugned Paragraphs 42 to 46 and the portion of Paragraph 49 can not be taken into account as these are premised on tax officials’ conduct, their motivations or the processes leading up to the Reassessments that are beyond this Court’s jurisdiction.
+[72] Paragraph 74 – This refers to the “egregious” income inclusions in the purported protective Reassessments, which goes far beyond what is necessary to protect the Minister’s position. Propak confirmed it seeks relief from the Court under this Paragraph based on allegations of “bad faith”. [30] I find that the allegation in this Paragraph is also beyond the jurisdiction of this Court because of how tax officials conducted themselves.
+[73] Paragraphs 65(b), 67(b) and 72 – These raise the issue “Whether the purported protective Reassessments are valid”, submits these are not valid, and asserts the Minister’s presumption of “assessment validity” under subsection 152(8) of the ITA has been forfeited.
+[74] Paragraph 73 – This refers to the Reassessments resulting in the income inclusions in the relevant years as purportedly necessary to protect the Minister’s position in the event Propak objected to the 2014 Reassessment but not the 2015 Reassessment.
+[75] Paragraphs 69, 75, 76 and “In addition, notwithstanding such admission” in Paragraph 70 – These include submissions that under subsection 152(1) of the ITA the Minister is required to assess the tax payable for the relevant years, not arbitrarily double count income. Tax officials double counted knowingly by the income inclusions in the purported protective Reassessments. Hence, additional income increased taxable income, exceeded the actual tax owed by Propak and resulted in double taxation that fall outside the confines of the ITA. Reassessing taxable income in such manner, far exceeds the amount necessary to protect the Minister’s position rendering such purported protective Reassessments invalid.
+[76] The Respondent submits Impugned Paragraphs 65(b), 67(b) and 72 to 76 should be struck because these centre on tax officials’ conduct and Paragraphs 69, 70 and 71 because these rely on statements of a tax official on an opinion of law and the incorrectness of the amount reassessed both under the guise of challenging the validity of the Reassessments. Propak contends these Paragraphs speak to the validity of the underlying Reassessments.
+[77] I agree with Propak and find that the allegations and issues in Impugned Paragraphs 65 (b), 67(b), 69, 70, 72 to 76 appear to have some bearing in determining validity and correctness of the Reassessments (“the remaining Impugned Paragraphs”) and not conduct as suggested by the Respondent.
+Did Propak reasonably describe the issue to be decided and the relief sought in respect of the issue in its objections in compliance with paragraphs 165 (1.11) (a) and (b) of the ITA ?
+[78] Given that finding, I must now consider an alternative argument raised by the Respondent regarding the remaining Impugned Paragraphs that contain the issue of the validity of the “purported protective Reassessments”. The Respondent asserts this was not raised as an issue, nor relief sought in respect of the issue, by Propak in its notices of objections (the “2014 objection”, the “2015 objection” and collectively the “objections”). The Respondent compares the situation to Telus in which Telus had not raised an issue in its objection thus lacked jurisdiction. As such, Propak failed to comply the “large corporation rules”, such that subsection 169(2.1) of the ITA precludes the Court from hearing the issue as it does not have jurisdiction. [31] Propak disagrees.
+[79] Sections 165(1.11) and 169(2.1) read as follows:
+Objections by large corporations
+165(1.11) Where a corporation that was a large corporation in a taxation year (within the meaning assigned by subsection 225.1(8)) objects to an assessment under this Part for the year, the notice of objection shall
+(a) reasonably describe each issue to be decided;
+(b) specify in respect of each issue, the relief sought, expressed as the amount of a change in a balance (within the meaning assigned by subsection 152(4.4)) or a balance of undeducted outlays, expenses or other amounts of the corporation; and
+(c) provide facts and reasons relied on by the corporation in respect of each issue.
+Limitation on appeals by large corporations
+169(2.1) Notwithstanding subsections 169(1) and 169(2), where a corporation that was a large corporation in a taxation year (within the meaning assigned by subsection 225.1(8)) served a notice of objection to an assessment under this Part for the year, the corporation may appeal to the Tax Court of Canada to have the assessment vacated or varied only with respect to
+(a) an issue in respect of which the corporation has complied with subsection 165(1.11) in the notice, or
+(b) an issue described in subsection 165(1.14) where the corporation did not, because of subsection 165(7), serve a notice of objection to the assessment that gave rise to the issue
+and, in the case of an issue described in paragraph 169(2.1)(a), the corporation may so appeal only with respect to the relief sought in respect of the issue as specified by the corporation in the notice.
+[80] Summarized, the statutory conditions in the large corporations rules requires a large corporation to reasonably describe each issue to be decided and the relief sought for each issue, quantified as a change in a balance as defined, in a notice of objection. Under subsection 169(2.1), a large corporation can only appeal to the Court where its notice of objection complies with the mandatory provisions in subsection 165(1.11).
+[81] The Tax Court has no jurisdiction to deal with an issue that was not properly raised in the notice of objection. [32]
+[82] In Bakorp Management Ltd. v R, [33] the Federal Court of Appeal stated:
+[16] Since Bakorp is a large corporation there are restrictions imposed on its right to appeal matters to the Tax Court of Canada (…)
+[17] A large corporation can only appeal to the Tax Court of Canada with respect to an issue in respect of which it has complied with subsection 165(1.11) of the Act in its notice of objection (…)
+[83] In Potash Corp v R, the Federal Court of Appeal discussed the meaning to be given to the words “each issue” in the phrase “reasonably describe each issue to be decided” in paragraph 165 (1.11)(a) of the ITA, and held while an issue is not required to be described “exactly”, it is to be described “reasonably”. [34] That differs in each case depending on the degree of specificity required so that the Minister knows each issue to be decided.
+[84] As noted by Justice Boyle in Ford Motor Co of Canada, Ltd. v R, the French version of the text of paragraph 165(1.11)(a) is expressed as each question to be settled must have a sufficient description. [35] In elaborating on the requirement in that paragraph Justice Boyle stated:
+[55] A sufficient description of an issue is one that will allow the Minister to determine what is actually in dispute. A reasonable description of the issue will allow for the quantification of the effect that its resolution will have on the taxpayer. A reasonably described issue should satisfy the purpose of the provisions - that the Minister know the nature and quantum of disputed taxes at the objection stage. In particular circumstances, a reasonable description may require the taxpayer to commit to a particular interpretation or application of a provision in the ITA or the ETA (Bakorp).
+[56] A description of an issue can be reasonable and sufficient even if it does not refer to all of the facts and reasons (BC Transit, CIBC and Devon).
+[85] The purpose of the large corporation rules is to allow the Minister at the objection stage to know the nature and quantum of the issue in pending tax litigation and its potential financial impact facilitated by the notice of objection. [36]
+[86] With those governing principles in mind, I turn now to the question whether Propak complied with the statutory conditions in paragraphs 165(1.11) (a) and (b). Specifically, whether the validity of the protective Reassessments raised in the Impugned Paragraphs in the notice of appeal, were reasonably or sufficiently described in the objections for the relevant years so that the Minister knew the issue to be decided as well as the relief sought.
+[87] The Respondent argues neither were raised in the objections, such that the Minister was not able to determine the nature and quantum of pending tax litigation and its potential financial impact. When completing the 2014 objection, the Respondent says Propak did not have the opportunity to refer to the income inclusions for the relevant years because these were unknown, therefore it was unable to fully process the combined effect. Further, when completing the 2015 objection although Propak was aware of the income inclusions, the amount in the Reassessments and was in a position to make arguments regarding the protective Reassessments and the impact and validity of those, it chose not to do so. Respectfully, I disagree with the Respondent. [37]
+Notices of Objection
+[88] In Ford, Justice Boyle stated that “…as is evidenced from Justice Webb’s decision in Bakorp, a court can be expected to seek to find and identify the issue described in the objection having regard to the contents of the objection read as a whole, including references to the taxpayer’s filings and to the issues in the reassessment, and having regard to the quantification of the issue therein.” [38]
+[89] When Propak was completing the 2014 objection in March 2018, the income inclusions for the relevant years were known to Propak. These had also been “proposed” during CRA’s audit early in 2017 (“CRA Memo”) and later discussed up to December 2017. [39]
+[90] In its 2014 objection under the sub-heading “The Assessment under Objection” (the “sub-heading”), Propak describes the income inclusions for the relevant years in Option 2 and “The Minister would raise the Reassessment and increase the Taxpayer’s taxable income by $93,096,707 for…2014… and by $89,356,963 for…2015”. [40] Even though it “may” not have had the 2015 Reassessment (as the Respondent pointed out), the income inclusions were known to Propak at that time. Option 2 is reiterated verbatim in the 2015 objection. [41]
+[91] Under “ISSUES” in each of the objections, Propak articulates as issues III and II for 2014 and 2015, respectively, as follows:
+III whether the Minister’s Reassessment is correct in law and, in particular, whether the Minister erred in:
+i. including in income the amount of $23,614,029 for the balance of the deferred revenue at February 1, 2013 under paragraph 12(1)(e);
+ii. including in income the amount of $2,381,229 for the change in deferred revenue balance at January 31, 2014 under subsection 9(1); and
+iii. denying the reserve claimed by the Taxpayer in the amount of $67,101,449 and including this amount in income under subsection 9(1); [42]
+…
+II whether the Minister’s Reassessment is correct in law and, in particular, whether the Minister erred in:
+i. including in income the amount of $25,995,258 for the change in deferred revenue balance at January 31, 2014 under subsection 9(1);
+ii. including in income the amount of $33,433,334 for the change in deferred revenue balance at January 31, 2015 under subsection 9(1); and
+iii. denying the reserve claimed by the Taxpayer in the amount of $29,928,371 and including this amount in income under subsection 9(1). [43]
+[92] It is noteworthy that the total of the three amounts in each of issues III and II, equate with the income inclusion for each of 2014 and 2015. Details contained in each of those issues are largely reiterated under the sub-heading for each year to which the objection relates. The income inclusions in the objections correspond exactly with the total amount identified in Impugned Paragraph 73 of the notice of appeal as well as the CRA memo. The notice of appeal refers to subsection 9(1) and paragraph 12(1)(e) of the ITA.
+[93] Immediately following Option 2 in the 2014 objection, Propak sets out its concerns. In one paragraph, Propak pinpoints correspondence from CRA highlighting the term “protective adjustment” with references to appealing to the Tax Court regarding such adjustment. This can be seen as follows:
+Furthermore, by way of letter dated December 18, 2017, the CRA stated that the $93,096,707 that would be assessed on the Reassessment and included in income for the Taxpayer’s 2014 Taxation Year should be removed to prevent double taxation:
+We are aware that the income in the amount of $93,096,707 which is being included in the year ending January 31, 2014 should be removed to prevent double taxation. However, since the taxpayer does not concur with the adjustment and told us that they would be appealing to the Tax Court of Canada, we are not removing this amount from the year ending January 2015 as a protective adjustment as the taxpayer will be objecting and appealing the reassessment for the year ending January 31, 2014 but may not object or appeal the year ending January 31, 2015 as there would be a decrease to taxable income.
+[94] In the 2015 objection, Propak refers to statements in CRA’s Memo regarding the Reassessment double counting income already included in an adjoining taxation year and after detailing the components of the proposed income inclusion of $89,356,963 for 2015, it states:
+The above is a protective adjustment to protect the positon of the Crown. We understand this proposal is double counting income already included in the fiscal year ended January 31, 2014”. [44]
+Futhermore, by way of letter dated May 25, 2017, the CRA stated that the $93,096,707 that would be assessed on the Reassessment and included in income for the Taxpayer’s 2015 Taxation Year was a “protective adjustment” and amounted to double taxation:
+These adjustments include $93,096,707 of income which we are proposing to include in the previous year ending January 31, 2014. As this amount has not been deducted in the year ending January 31, 2015, this amount is being taxed in both years. As outlined in our Memo of March 29, 2017 (Appendix A – Query 2.1) we have included the amount in the year ending January 31, 2015 as a “protective adjustment.” [45]
+[95] CRA’s characterization “protective adjustment” in the objections, which CRA acknowledged led to the Reassessments, is akin to Propak’s characterization “purported protective Reassessments” in the Impugned Paragraphs of its notice of appeal. [46] The term “double counting” is also used in the objections and Impugned Paragraph 75 of the notice of appeal. Using comparable language as the Minister did when auditing and reassessing would, in my view, describe to the Minister what is in dispute thus know the nature and quantum of the disputed taxes and its potential financial impact or the Minister should have understood that.
+[96] Apart from the content of the objections, the Motion materials indicate protective adjustments was a recurring topic during the six months of discussions, noted in CRA documentation, and tax officials had presented two options to Propak, one being Option 2 that was implemented in the Reassessments. [47]
+[97] Again, an issue in an objection need not be described exactly. Having regard to the contents of the 2014 and 2015 objections read as a whole, in my view Propak provided a reasonable and sufficient description of the issue of the validity of the purported protective Reassessments in its objections to be decided for the purpose of the large corporation rules. It also adequately quantified and specified the amounts in the objections, as noted above, as to the relief sought in respect of that issue. Consequently, the statutory conditions under paragraph 165(1.11) (a) and (b) of the ITA were satisfied in my view. This part of the Motion is denied. Impugned Paragraphs 65(b), 67(b), 69, 70 and 72 to 76 are to remain intact in the notice of appeal.
+ii) Whether Rule 8 applies in respect of a motion to strike that involve matters beyond the Court’s jurisdiction?
+[98] Given my finding that the matters in Impugned Paragraphs 42 to 46, 74 and the portion of Paragraph 49 go beyond this Court’s jurisdiction. I must now consider if Rule 8 applies.
+[99] Pleadings define the issues in dispute between the parties, determine the scope of document production, examinations for discovery and trial. Under the Rules, a party pleading is required “… to set forth a concise statement of the material facts upon which she relies. Material facts are those facts which, if established at the trial, will tend to show that the party pleading is entitled to the relief sought….” [48] A notice of appeal must also contain statutory provisions, reasons relied on, the issues to be decided, and the relief sought. [49]
+[100] Rule 8 reads as follows:
+Attacking Irregularity - 8 A motion to attack a proceeding or a step, document or direction in a proceeding for irregularity shall not be made,
+(a) after the expiry of a reasonable time after the moving party knows or ought reasonably to have known of the irregularity, or
+(b) if the moving party has taken any further step in the proceeding after obtaining knowledge of the irregularity,
+except with leave of the Court.
+[101] An irregularity is described in Rule 7 as a “failure to comply” with the Rules but does not render a document a nullity. [50]
+[102] Unless leave is obtained from the Court, Rule 8 limits the time and circumstances where a moving party may bring a “motion to attack a proceeding or a step, document or direction in a proceeding for irregularity”. The decision to grant leave to a moving party bring a motion to strike an irregularity is discretionary. [51]
+[103] In Dilalla, the Federal Court of Appeal upheld the Tax Court’s dismissal of an appellant’s application for leave pursuant to Rule 8 to bring a motion to strike for an order striking the Respondent’s reply. The motion was brought three years after the reply was filed, two years after all pre-trial proceedings had been completed and 10 months after a joint application for trial. The Court found, as it relates to Rule 8(a), that this was far too late in the litigation process. [52] In referring to Rule 8(b), the Court noted that “The fresh step rule is designed to ensure the orderly movement of litigation through to trial. The rule is based on the view that if the party pleads over to a pleading, it implies a waiver of any irregularity that might have been attacked…” [53]
+[104] In Teelucksingh v R, [54] this Court held notwithstanding some assumptions are conclusions of law, it was too late for the taxpayer’s motion to strike assumptions of fact from the reply as the parties had exchanged documents and conducted several days of examination for discovery. Leave was denied on the basis fresh steps were taken in the litigation process.
+[105] Summarized, the Respondent submits Rule 8 is not required and should not be applied in cases involving jurisdiction because a party “through its delay or through a procedural step may” effectively permit a matter to remain before the Tax Court where the Tax Court lacks jurisdiction. [55] Alternatively, the Respondent asserts if leave is required, it should be granted because the strike motion involves matters of jurisdiction and this Court cannot grant itself jurisdiction. If the Tax Court refuses to grant leave, it would place the Rules in conflict with the Acts.
+[106] Conversely, Propak’s submits leave is required under Rule 8 but should not be granted because the Respondent became aware of the alleged irregularities when it filed its Reply, delayed in bringing the Motion, and after filing the reply took fresh steps in the litigation process.
+[107] Rule 8 was not expressly raised in Telus Communications (Edmonton) Inc. v the Queen. [56] However, the Federal Court of Appeal discussed the ‘pleading over principle’ and held it does not prevent a motion to strike involving the Tax Court’s jurisdiction and said that pleading over facts that are outside of the Court’s jurisdiction does not alter the statutory jurisdiction and observed that:
+[23] (…) The conduct of the parties cannot govern when the jurisdiction of the Tax Court is denied by statute (R. v. Krahenbil, [2000] 3 C.T.C. 178 (Fed. C.A.)).
+[108] Lack of jurisdiction, in my view, is a substantive or foundational deficiency, whereas Rule 8 attacks a mere irregularity.
+[109] In discussing Rule 8 and related jurisprudence in Sandia Mountain Holdings Inc. and Elizabeth Kulla v R, Justice C. Miller remarked that Justice Bowman in Imperial Oil et al v The Queen and Justice Rip in Gee v Queen (as they then were) in motions to strike pleadings did not apply Rule 8 because of substantial deficiencies in pleadings. He said:
+Justice Bowman put it this way:
+... a rather wide-ranging attack on the appellants right to appeal, including allegations that this court has no jurisdiction, that the appeals are frivolous, vexatious, and an abuse of process is hardly an attack on an irregularity.
+I conclude that my colleagues consider gross deficiencies to be something more than irregularities, and for that reason, Rule 8 does not come into play. [57]
+[110] In any event, Rule 8 is subordinate to the Tax Court of Canada Act (“TCCA”) and the ITA that grants jurisdiction (collectively the “Acts”). [58]
+[111] In Canada (National Revenue) v Cameco Corporation, the Federal Court of Appeal held where there is a conflict between the Rules and the Acts, the Rules are subordinate. [59]
+[112] In Friends of the Oldman River Society (Friends of Oldman River), the Supreme Court of Canada stated:
+“subordinate legislation cannot conflict with its parent legislation”. Where there is inconsistency between the two, and the “two legislative enactments cannot stand together”, “one is deemed to repeal the other by virtue of the inconsistency”
+Just as subordinate legislation cannot conflict with its parent legislation (Belanger v. R. (1916), 54 S.C.R. 265, 20 C.R.C. 343, 34 D.L.R. 221 ), so too it cannot conflict with other Acts of Parliament (R. & W. Paul Ltd. v. Wheat Commission, [1937] A.C. 139, [1936] 2 All E.R. 1243(H.L.) ), unless a statute so authorizes (Re Grey, 57 S.C.R. 150, [1918] 3 W.W.R. 111, 42 D.L.R. 1 ). Ordinarily, then, an Act of Parliament must prevail over inconsistent or conflicting subordinate legislation. However, as a matter of construction a court will, where possible, prefer an interpretation that permits reconciliation of the two. "Inconsistency" in this context refers to a situation where two legislative enactments cannot stand together: see Daniels v. White[1968] S.C.R. 51764 W.W.R. 3854 C.R.N.S. 176[1969] 1 C.C.C. 2992 D.L.R. (3d) 1. [60]
+[113] Recently, in McNeeley v Canada, the Federal Court of Appeal applied the principle from Friends of Oldman River that subordinate legislation regulations “cannot conflict with their parent legislation”. [61] Therefore, Rule 8 should not apply where it is inconsistent with the Acts regarding matters of the Tax Court’s jurisdiction.
+[114] I agree with the Respondent’s submissions that Rule 8 does not apply in respect of a motion to strike involving the Court’s jurisdiction because the Rules are subordinate to the Acts and that this Court cannot grant itself jurisdiction where it has none.
+iii) Whether the Court should allow the Respondent’s Motion to strike Impugned Paragraphs 42 to 46, 74 and the portion of Paragraph 49 as abusive and frivolous under Rules 53(1)(c) and (b)?
+[115] Generally, under Rule 53 the Court can strike all or part of a pleading (or other document) with or without leave to amend. The test to strike is a stringent one. Assuming the facts pleaded to be true, it must be plain and obvious that the allegation or position has no hope of succeeding. The approach must be generous and err on the side of permitting novel but an arguable claim to proceed to trial.
+Rules 53(1)(b) and (c)
+[116] In Ereiser, the Court held that pleadings relating to the misfeasance in public office were properly struck by the Tax Court, which cannot possibly succeed.
+[117] In Telus, the Court found that raising the due diligence defence in its amended notice of appeal constituted an abuse of process because there was no jurisdiction (as it had not been raised in the objection) and stated:
+[24] … I am reminded that in Weider v. Beco Industries Ltd. (1976), 29 C.P.R. (2d) 175 (Fed. T.D.), at 176, Mahoney J. observed that "...pleading a cause of action that is beyond the Court's jurisdiction to adjudicate is a clear abuse of process..." The appellant's motion under rule 53 of the Tax Court of Canada Rules (General Procedure) was therefore in order.
+[118] I find it is plain and obvious that the allegations in Impugned Paragraphs 42 to 46, 74 and the portion of Paragraph 49, found by me not to be within the jurisdiction of the Court, cannot possibly succeed. Retaining such pleadings is an abuse of the Court’s process and frivolous under Rule 53(1)(c) and (b), respectively, and are to be stricken from the notice of appeal. [62] Striking out claims that cannot possibly succeed, promotes a litigation efficiency, reducing time and cost. This part of the Motion is granted.
+b) Onus of Proof Paragraphs
+[119] Issue IV in the Motion is whether the Court should grant leave to the Respondent under Rule 8 to make the Motion to strike the Onus of Proof Paragraphs from Propak’s notice of appeal. If so, whether Court should order these be struck without leave to Propak to amend on the ground these disclose no reasonable grounds for appeal under Rule 53(1)(d).
+[120] Onus of Proof Paragraphs 65 (a) and 67 (a) set out the issue and Propak’s position of the law, respectively. Paragraphs 68 and 71 are Propak’s conclusions that the Minister has forfeited the right to the presumption of validity of the Reassessments and the Minister bears the onus of proving the facts. Paragraphs 69 and 70 set out allegations regarding the tax officials admission of double taxation resulting in the Reassessments and being counter to the ITA.
+[121] Before considering leave under Rule 8, I will briefly summarize the parties positions submissions regarding the strike Motion. Propak contends the issue and allegations in the Onus of Proof Paragraphs support its position that the initial burden of proof rests with the Minister because the facts underlying the tax debt are exclusively within the knowledge of the Minister.
+[122] The Respondent asserts there are no reasonable grounds for appeal. Propak’s argument - that an incorrect assessment results in a shifting of onus in an IT appeal - is “nonsensical” because the Court can only determine if a reassessment is correct or not (a question of mixed fact and law) based on findings of fact having regard to the evidence. The Court cannot determine that the Respondent has the burden of proof or onus in an income tax appeal based on the incorrectness of an assessment when the determination of incorrectness must follow the tendering of evidence and findings of fact by the Court to the effect the reassessment is incorrect. Propak’s relies on two facts. First, an admission by a tax official that the Reassessment may result in double taxation and the protective nature. Second, the Reassessments are patently incorrect. The Respondent suggests once the first fact is removed, the Court is left with if its incorrect, the onus shifts and how would a court apply that? Further, the onus argument is not novel nor arguable and has been decided by the Supreme Court.
+Leave under Rule 8
+[123] As noted, leave is required if the moving party either did not attack an irregularity in a document within a reasonable time under Rule 8(a), or took fresh steps in the litigation under Rule 8(b).
+[124] Recently, in Chad v The Queen, Justice Sommerfeldt dismissed a taxpayer’s motion to strike out pleadings from the Minister’s amended reply on the basis of restrictions in Rule 8. Even though the impugned paragraphs contained conclusions of law that may have otherwise been struck on the merits of a Rule 53 motion, he nevertheless refused leave because of the taxpayer’s delay in bringing the motion under Rule 8(a). Also, the fresh step rule was invoked under Rule 8(b), but since Chad had plead over the impugned paragraphs, Chad had waived any irregularities. [63]
+[125] The jurisprudence reveals that a proper time for filing a motion to strike is shortly after the notice of appeal is filed or by the time the Respondent has fully considered the pleading upon preparing the reply. [64]
+[126] The following chronology illustrates the timeline between receipt of Propak’s pleading in October 2018 and bringing the strike Motion in July 2021:
+In January 2020, Propak served its list of documents, and in November 2019 and February 2020 filed supplementary lists of documents.
+In September and December 2019, the Respondent served the list of documents, and supplementary list of documents, respectively.
+On February 5, 6, 7, and 20, 2020, the parties conducted examinations for discovery.
+In September 2020, the parties exchanged undertakings, in December 2020 they exchanged questions arising from the undertaking and by April 1, 2021, the parties provided answers to such questions. [65]
+In December 2020, Propak issued and revised a request to admit, and the Respondent responded.
+In February 2021, answers to further questions on undertakings were exchanged.
+In June 2021, the Respondent requested clarification from Propak’s answers, and Propak responded with additional documents.
+[127] Any irregularities would have been known when Propak’s notice of appeal was served on the Respondent or shortly thereafter when preparing the reply, filed in March 2019. Yet, the Respondent waited until July 2021, two and a half years after the Respondent knew or ought to have known of the alleged irregularities, to bring the strike Motion. I find that bringing it this late in the litigation process was not a reasonable amount of time contemplated in Rule 8(a) to bring the strike Motion. Given only one criteria need be satisfied, it dispenses with the necessity to consider Rule 8(b) with the Respondent’s submission there was no pleading over.
+[128] Based on the foregoing, I am not exercising my discretion to grant leave to the Respondent under Rule 8 to bring the strike Motion pursuant to Rule 53(1) (d) pertaining to paragraphs 65(a), 67(a), 68, 69, 70 and 71 of Propak’s notice of appeal. This part of the Motion is dismissed.
+IV. CONCLUSION
+[129] Based on the foregoing, the Respondent’s Motion:
+a) seeking to strike paragraphs 42, 43, 44, 45, 46, 74, and in paragraph 49 the phrase “unlike the Settlement Proposal” and entire second sentence from the notice of appeal is granted, without leave to amend, and those paragraphs are struck out; and
+b) the remaining parts of the Motion seeking to strike paragraphs 65(a), 65(b), 67(a), 67(b), 68, 69, 70, 71, 72, 73, 75 and 76 from the notice of appeal is dismissed and remain in the notice of appeal.
+[130] Costs of this Motion are awarded to the Appellant, payable by the Respondent in any event of the cause.
+Signed at Ottawa, Canada, this 2st day of December, 2022.
+“K. Lyons”
+Lyons J.
+CITATION:
+2022TCC153
+COURT FILE NO.:
+2018-3818(IT)G
+STYLE OF CAUSE:
+PROPAK SYSTEMS LTD. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+November 3, 2021. Continued by written submissions
+REASONS FOR ORDER BY:
+The Honourable Justice K. Lyons
+DATE OF ORDER:
+December 2, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Marie-Claude Marcil Brittany Rossler Thomas Brook
+Counsel for the Respondent:
+Grant Nash
+Allan Mason
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Though the Respondent in the appeal filed the motion and is the applicant in the motion, I will nevertheless continue to refer to the Respondent in the same manner in the motion as in the appeal.
+[2] Tax Court of Canada Rules (General Procedure) (SOR/90-688a)[Rules].
+[3] Notice of Motion, paragraph 2.
+[4] The Respondent also clarified that although not in the notice of motion, an alternative argument would be advanced on a different ground with respect to impugned paragraphs 69 and 70.
+[5] Amended Reply appended as Schedule C to the motion materials.
+[6] Exhibit A1.
+[7] 2007 TCC 742 [Sentinel Hill].
+[8] In Sentinel Hill it was also stated that “(b) To strike out a pleading or part of a pleading under Rule 53 it must be plain and obvious that the position has no hope of succeeding. The test is a stringent one and the power to strike out a pleading must be exercised with great care. (c) A motions judge should avoid usurping the function of the trial judge in making determinations of fact or relevancy. Such matters should be left to the judge who hears the evidence.”
+[9] Ashley Topham’s affidavit filed with the notice of motion and Katy Quackenbush’s affidavit filed on October 27, 2021.
+[10] 2011 SCC 42 [Knight]. The defendant attempted to introduce affidavit evidence in the lower court to defend itself on a motion to strike pleadings on the basis there is no reasonable cause of action. The Court commented that the defendant had misunderstood the basis for a strike motion as a strike motion as that ground restricts admissibility of evidence such that the allegations pled are assumed to be true, and no evidence is required See also Canadian Imperial Bank of Commerce 2013 FCA 122 [Imperial Bank], at paragraph 7, stated that (… In the context of a motion to strike the Respondent's reply in an income tax appeal, the motion to strike will be granted only if it is plain and obvious, assuming the facts as pleaded in the reply are true, that the reply fails to state a reasonable basis for concluding that the reassessment under appeal is correct”
+[11] See also Canadian Imperial Bank of Commerce 2013 FCA 122 [Imperial Bank], at paragraph 7, stated that (… In the context of a motion to strike the Respondent's reply in an income tax appeal, the motion to strike will be granted only if it is plain and obvious, assuming the facts as pleaded in the reply are true, that the reply fails to state a reasonable basis for concluding that the reassessment under appeal is correct”
+[12] 2016 FCA 64 [French].
+[13] Topham Affidavit, Exhibit C.
+[14] The test: whether the applicant has demonstrated: a continuing intention to take proceedings within the time limit; has an arguable case; the cause and actual length of the delay and prejudice.
+[15] Topham Affidavit, Exhibits B and C Propak’s notices of objections dated March 19, 2018 and June 22, 2018 to the Reassessments for 2014 and 2015, respectively, notices of which are dated December 22, 2017 and March 29, 2018.
+[16] Propak had reported $7,627,392 and $80,025,706 as its income in 2014 and 2015, respectively.
+[17] Notice of appeal, paragraph 49 also raises the issue whether Propak can be assessed on the basis of two methods of income recognition in a single taxation year and, moreover, if certain income reported on the basis of the completed contract method in 2014 must, by operation of law, escape taxation if the Minister reassesses this taxation year on the basis of the percentage of completion method.
+[18] Supplemental Affidavit and Hunter Affidavit.
+[19] Under subsection 171(1) of the ITA, this Court may dismiss an appeal, or allowing it by vacating, varying or referring the assessment back to the Minister for reconsideration and reassessment. Subsection 152(8) of the ITA deems an assessment to be valid and binding unless varied or vacated in accordance with the appeals process under the ITA.
+[20] Main Rehabilitation Co. Ltd. v HMQ, 2003 TCC 454, paragraphs 6 to 8. The FCA considered a taxpayer’s appeal from a Tax Court judgment granting the Minister’s motion to strikeout parts of the pleading alleging abuse of process during the course of CCRA’s audit. In Ereiser v Canada, 2013 FCA 20, Ereiser appealed and the Minister cross-appealed to the FCA. Both appeals were dismissed.
+[21] Main, Ereiser, paragraphs 31 and 32. J.P.Morgan Asset Management (Canada) Inc.v FCA.
+[22] In Ereiser, the Court noted that “valid” describes an assessment made in compliance with procedural provisions of the ITA, and “correct” describes an assessment in which the amount of tax assessed based on relevant provisions of the ITA and the facts.
+[23] The Federal Court of Appeal acknowledged that the Tax Court had exercised its discretion in dismissing the Respondent’s motion to strike paragraphs in Ereiser’s pleading relating to the alleged misfeasance of a tax official in a settlement proposal, paragraphs 43-49.
+[24] Bonev v Canada 2020 FCA 138. 9162-4676 Québec Inc. c R, paragraph 2.
+[25] 2006 FCA 266 [Roitman] paragraph 24. Johnson v. Canada, 2015 FCA 52 I was unable to find the proposition stated in Propak’s written submissions (paragraph 74 and footnotes 41 and 42) to be consistent the proposition in Johnson.
+[26] The Minister had disallowed certain claims for expenses. Later, Mr. Roitman was reassessed in accordance with the settlement with the Minister. He did not object to the reassessment. Instead, he filed a statement of claim in the Federal Court under its rules seeking various heads of damages. The dispute centred on whether the claim he filed, framed as a claim for misfeasance of public office amongst other things, was within the exclusive jurisdiction of the Tax Court. Factually, the claim rested on the allegation the Minister had issued a notice of assessment under the ITA knowing the amount was based on an incorrect interpretation of the law. The Respondent moved to strike the entire claim on the grounds the claim was “immaterial, redundant, scandalous, frivolous and vexatious, and was otherwise an abuse of the process of the Court” because it challenges the legality of the reassessments of income tax by the Minister, a matter of exclusive jurisdiction of the Tax Court.
+[27] Horseman v Canada, 2016 FCA 252.
+[28] Trancript of Propak’s nominee; un-redacted page 285 and page 286.
+[29] Paragraph 40. The Court acknowledged the Tax Court had exercised its discretion in dismissing the Respondent’s motion to strike the taxpayer’s arguments relating to the conduct of the Minister.
+[30] Topham Affidavit, Transcript of examinations for discovery of Propak’s nominee, page 291.
+[31] Devon.
+[32] Canada v Telus Communications (Edmonton) Inc., 2005 FCA 159, paragraph 17 (Telus).
+[33] 2014 FCA 104 [Bakorp]. The FCA considered Bakorp’s appeal from the Tax Court granting the Minister’s strike motion to dismiss the appeal from assessment because it had failed to comply with the requirements of subsection 169(2.1) of the ITA.
+[34] 2003 FCA 471 [Potash]. Paragraphs 21, 22, 24 to 26.
+[35] 2015 TCC 39 [Ford Motor].
+[36] Potash, paragraph 4. Devon Canada Corp v R 2015 FCA 214 [Devon], paragraph 21. Ford, paragraph 57.
+[37] Paragraph 165(1.11)(c), requiring facts and reasons is part of the large corporation rules but was not raised in this appeal. Department of Finance Technical Notes states additional facts and reasons may be raised by a taxpayer after filing an objection.
+[38] Paragraph 53.
+[39] Propak’s objections are appended to the Topham Affidavit: paragraph 7 states “Attached to my Affidavit as “Exhibit C” are the documents from Tab 19 and 30 of Exhibit R-1 from those examinations and described as the Appellant’s 2014 and 2015 Notices of Objection dated March 19, 2018 and June 22, 2018, respectively, which were confirmed as the Appellant’s Notices of Objection by the Appellant’s nominee during those examinations.”
+CRA Memo of March 29, 2017, page 7 with “Proposed income inclusion” for each of 2014 and 2015.
+[40] Topham Affidavit, 2014 objection, page 3.
+[41] 2015 objection, page 3.
+[42] 2014 objection, paragraph 60, pages 9 and 10.
+[43] 2015 objection, paragraph 64 pages 10 and 11.
+[44] Paragraph 13.
+[45] Paragraph 14.
+[46] Hunter Affidavit, Exhibit D –Transcript of examination for discovery of Respondent’s nominee, page 196.
+[47] Hunter Affidavit, Exhibits A, pages 6, 7 and 8, C, page 12, and B, page 4.
+[48] Zelinski v the Queen, 2002 DTC 1204.
+[49] Rules 21(1)(a) and 48 and Form 21(1)(a).
+[50] Section 166 provides that “an assessment shall not be vacated or varied on appeal or by reason only of any irregularity…on the part of any person in the observation of any directory provision of …” the ITA.
+[51] Dilalla v Canada, 2020 FCA 39 [Dilalla] at paragraph 7.Kossow v The Queen, 2009 FCA 83, paragraphs 17 and 18.
+[52] In Dilalla, the Court did not address the nature of the impugned paragraphs.
+[53] Dilalla, at paragraph 8
+[54] Teelucksingh v R, 2010 TCC 94 [Teelucksingh] paragraphs 11 and 12. The taxpayer argued that the impugned subparagraphs either pleaded evidence rather than material facts or asserted conclusions of law, or in some cases mixed fact and law. See also,Chad v The Queen, 2021 TCC 45 [Chad]
+[55] Respondent’s Written Submissions, paragraph 48.
+[56] 2005 FCA 159 [Telus]. The Minister had pleaded over Telus’ amended pleading which responded to the issue of due diligence. The Tax Court dismissed the Minister’s motion to strike on the basis that the Minister had pleaded over an issue raised by the taxpayer before the Tax Court, which was not raised in the taxpayer’s notice of objection. The Federal Court of Appeal stated “…notwithstanding the pleadings, the Tax Court, in an appeal involving a "specified person", has no jurisdiction to deal with an issue that was not properly raised in the notice of objection”, paragraphs 17, 13 and 14.
+[57] 2005 TCC 136 [Sandia], paragraph 7. Ultimately, the Court found Rule 8 precluded the appellants from bringing the motion to strike portions of the amended reply after they had taken fresh steps after the reply was served.
+[58] Combined, sections 17 and 20 of the TCCA provide Rule 20 (1) refers to approval of rules for regulating the pleadings, practice and procedure in the Court, as particularized in Rule 20(1.1) (a) through to (m), inclusive. By virtue of section 20 of the TCCA, the Rules are subordinate to the legislation.
+[59] Canada (National Revenue) v Cameco Corporation, 2019 FCA 67 at paragraph 41.
+[60] [1992] 1 S.C.R. 3 Justice La Forest at paragraph 41 [Oldman River]. The Court went on to say explain “The rule in that case was stated in respect of two inconsistent statutes where one was deemed to repeal the other by virtue of the inconsistency. However, the underlying rationale is the same as where subordinate legislation is said to be inconsistent with another Act of Parliament — there is a presumption that the legislature did not intend to make or empower the making of contradictory enactments. There is also some doctrinal similarity to the principle of paramountcy in constitutional division of powers cases where inconsistency has also been defined in terms of contradiction, i.e., "compliance with one law involves breach of the other": see Smith v. R.[1960] S.C.R. 776 at 80033 C.R. 318128 C.C.C. 14525 D.L.R. (2d) 225 [Ont.].”
+[61] 2021 FCA 218. In McNeeley, the Court held that the definition of an “employee benefit plan” found in the ITA governed because the definition of “prescribed trust” was found in the Regulations, and “[i]f Parliament had intended to exclude prescribed trusts from the definition of an employee benefit plan, a reference to a prescribed trust could have been added”, paragraphs 19, and 29 to 31.
+[62] Cheikhezzein v The Queen 2013 TCC 348, paragraph 15. Justice Bocock noted it is the retention of those “impossibly successful” pleadings which causes the delay, is frivolous or is abusive.
+[63] Chad v The Queen, 2021 TCC 45 [Chad]. Paragraphs 17, 18 and 47.
+[64] In Dilalla, the strike motion was brought three years after the reply to notice of appeal was filed. In Kossow, a motion to strike was dismissed as it was brought two and a half years after knowing about the irregularities; it was upheld by the Federal Court of Appeal. In Gould v. The Queen, the applicant had moved with the requisite dispatch by filing a motion to strike within a period of approximately one month. In Sandia Mountains, a motion to strike brought 14 months after filing the disputed pleading was too long to grant leave. In Metrobec leave was granted to the Respondent to present the motion to strike as it was bought within the time limit to file the Reply. In Teelucksingh, it was determined that moving to attack a pleading after production of documents and the commencement of discoveries is too late.
+[65] Supplemental Affidavit, Exhibit A, Parties’ joint letter to the Court.

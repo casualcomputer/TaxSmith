@@ -1,0 +1,172 @@
+---
+title: "Golden View Management Group Inc. v. M.N.R."
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521539/index.do"
+last_modified: "2025-11-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 167"
+citation2: ""
+neutral_citation: "2025 TCC 167"
+decision_date: "2025-11-13"
+language: "en"
+item_id: "521539"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5599
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-12-02T09:01:14.886000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0a8fb1ec79c289e4d366753de1ff888500432304d6f2002f41b0bca6c4f00cda"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Golden View Management Group Inc. v. M.N.R.
+
+- Citation: 2025 TCC 167
+- Decision date: 2025-11-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5599, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Golden View Management Group Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-11-13
+Neutral citation
+2025 TCC 167
+File numbers
+2025-250(CPP), 2025-251(CPP)
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2025-250(CPP)
+Docket: 2025-251(CPP)
+BETWEEN:
+GOLDEN VIEW MANAGEMENT GROUP INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal Heard on September 9, 2025, at Kelowna, British Columbia.
+Before: The Honourable Justice Randall S. Bocock
+Appearances:
+Agent for the Appellant:
+Jack Mann
+Counsel for the Respondent:
+Benjamin Roizes
+JUDGMENT
+WHEREAS the Court has published its reasons for judgment on this date.
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeals to set aside the decisions of the Minister of National Revenue, both dated October 31, 2024, are allowed because the worker’s CPT30 election to cease contributions was filed after his application for Canada Pension Plan benefits and during a period when such benefits were ultimately and retroactively determined to be payable to the worker by the Minister of Employment and Social Development;
+The matter is referred to the Minister of National Revenue for reconsideration and reassessment; and,
+Costs are fixed and payable in the amount of $200 to the Appellant and payable within 60 days of this judgment.
+Signed at Ottawa, Ontario, this 13th day of November 2025.
+“R.S. Bocock”
+Bocock J.
+Citation:2025 TCC 167
+Date: 20251113
+Docket: 2025-250(CPP)
+Docket: 2025-251(CPP)
+BETWEEN:
+GOLDEN VIEW MANAGEMENT GROUP INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGEMENT
+Bocock J.
+These appeals relate to the assessment and liability of an employer to pay Canada Pension Plan (“CPP”) contributions for someone who was both an employee and a CPP recipient (“pensioner”) in the 2022 and 2023 taxation year. That CPP pensioner/employee, Mr. Mann, is also the sole director, shareholder and officer of the Appellant, Golden View Management Group Inc. (“Golden View”).
+Pensioner applies for CPP benefits
+[1] Mr. Mann first qualified for full CPP benefits upon turning 65 in 2021. A potential recipient of CPP must apply to receive benefits: subsection 60(1) of the CPP.
+[2] So, Mr. Mann dutifully applied for CPP benefits in July 2021. The Minister of Employment and Social Development, not the responding Minister (of National Revenue) in these appeals, approved CPP benefits for Mr. Mann on May 7, 2022. That Minister paid CPP to the pensioner retroactively to the communicated “Effective date: 2021-07”.
+Pensioner wishes to cease CPP contributions
+[3] All would have been fine, but Mr. Mann did not wish to continue to contribute to the CPP while drawing benefits. This common place desire is allowed under section 12(1.1) of the CPP, provided:
+12(1)
+c. a person has “reach[ed] sixty-five years of age [and]
+a retirement pension … is payable to the [person] under this Act; and,
+subject to (1.1), [a person has made] an election to exclude the income (the “election”)
+Form to cease contributions filed before CPP benefits paid/received
+[4] Mr. Mann duly filed his election to stop contributing to the CPP using the prescribed form under the CPP: a CPT30. He did so on September 14, 2021. Chronologically, this means Mr. Mann filed to stop his CPP contributions after he applied for CPP and before he received the actual payment of any benefit. His current and retroactive CPP payments pension benefits were not paid to him until shortly after May 7, 2022, some 8 months later. This makes all the difference in the Minister’s opinion, a late forming thought though it was. In the proposed amended replies, accepted for filing at the hearing by the Court, served within a fortnight of trial, the Minister struck the irrelevant and erroneous grounds for resisting these appeals and got to the nub of the Minister’s reason for refusing Mr. Mann’s request:
+13. The AGC submits that the Worker did not have a retirement pension payable to him in accordance with subparagraph 12(1)(c)(i) and subsection 6(1)(a) of the CPP when he submitted the 2021 CPT30 to the Minister.
+By implication, this refusal imposed on Golden View through reassessment the obligation to collect and remit CPP contributions on Mr. Mann’s behalf for all of 2022 and 2023.
+Minister says no form my be filed before CPP payable; meaning “paid”
+[5] In asserting the correctness of the Minister’s assessment for CPP contributions for 2022 and 2023, Respondent’s counsel asserts that the CPP does not allow the filing of an election, the CPT30, to cease CPP contributions before the pension is “payable”. Implicitly in their interpretation, the Minister’s agents embed the term “not in receipt of CPP in the 2021 year” into the term “payable”, as was described above in the late filed amended replies.
+[6] In support of the denial based upon the statute, Respondent’s counsel referenced the deferred effect of any election in paragraph (b) of subsection 12(1.1) which states the election:
+(b). shall commence to have effect on the first day of the month following the month in which it is made….
+Conjunctively, the Minister says he cannot give force to a election which cannot yet be effectively filed because no CPP was payable at the time of filing the election.
+Two Ministers: who’s on first?
+[7] The implications of the Minister’s decision, assumptions and legal position are several (and were communicated in Court to counsel during the hearing):
+(i)the pensioner cannot submit an election to the Minister of National Revenue until “in receipt of CPP” payments;
+(ii)the pensioner cannot be “in receipt of CPP” until the Minister of Employment and Social Development (“Minister of Employment”) decides and communicates that the pensioner is approved to receive CPP benefits;
+(iii)the Minister of National Revenue asserts that under the law the CPP “is not payable” until such decision to approve CPP benefits is approved, and even then, only on a non-retroactive basis despite the Minister of Employment’s communication that such CPP benefits were payable retroactively and effectively to the date of CPP application which predates the CPT30 filing;
+(iv)it is not possible for the applicant to apply for CPP in advance of the year (12 months) in which the pensioner wishes to receive CPP benefits;
+(v)it is not possible practically for the Minister of Employment to contemporaneously approve benefits with the application (in these appeals it took 8 months);
+(vi)the Minister of Employment has no maximum time set as a service standard for CPP benefit approval;
+(vii)although CPP contributions were ultimately “payable” during and allocable to the CPP retroactive benefit periods, the Minister of National Revenue will not accept as valid an election (to stop premiums) for such retroactive CPP benefit periods (implicitly because the pensioner had not been “paid” the CPP benefits when he applied).
+(viii)as a consequence, both legally and factually, the Minister of Employment’s duration of decision in granting CPP benefits, and nothing else, determines, first, the date after which the pensioner may submit the CPT30 election and, second, the subsequent date when an election to stop contributions will be effective, neither of which may occur before the CPP benefit is received by, as in paid to, the pensioner.
+Minister’s response in essence: “it is what it is”
+[8] When confronted with these implications, counsel for the Minister reiterated that the critical words “payable” and “in receipt” may result in a hard case, but it is the wording Parliament chose and the Minister’s (of National Revenue) textual interpretation of the “timing issue” is correct.
+[9] In terms of jurisprudence, counsel for the Minister singularly identified Justice Boyle’s decision in Maxi Maid Services (1998) Ltd. v. MNR 2016 TCC 30 as the possible relevant authority on this issue. With respect, counsel is wrong on both counts.
+[10] First, Maxi Maid is not materially applicable or related. In Maxi Maid, Justice Boyle dealt with the liability of an arm’s length employer where an employee provided the employer with an ineffective Form CPT30. The Court relieved the employer of certain obligations to remit CPP contributions where the employer relied on the ostensibly compliant CPT30. Justice Boyle in that case dealt neither with the sequencing of the filed CPT30 in relation to the pensioner’s CPP application date nor the Minister’s decision date to grant the pension benefits.
+[11] As to the second error, ironically and not cited by counsel, Justice Boyle did comment on the use of the words “paid” and “payable” within the CPP in a different appeal: Reid v. HMQ 2008 TCC 421. That appeal related to CPP contributions and dealt with time computations. It also otherwise focused on self-employment earnings in section 13 rather than employment earnings in section 12. However, more applicably, Justice Boyle analyzed the uses of both “paid” and “payable” and stated:
+[18] The Crown pointed out that, in any event, subparagraph 13(1)(b)(ii) refers to the time the pension becomes “payable” and argued that Mr. Reid’s pension became payable in June, the month following his sixtieth birthday. The Crown points out that even though the Division heading and the marginal note for subsection 44(1) refers to Benefits Payable, the provision sets out when the pension is to be “paid”. I am unable to agree with the Crown’s argument on this point. The CPP is not clear or precise in its use of the terms paid and payable in the way that the Income Tax Act is. This is highlighted by the Crown’s written submissions on this argument. To look further than section 44 requires an analysis of other provisions that do not mesh any better with section 13 and would, on these facts, arrive at the same result in any event.
+Which interpretation to use?
+[12] While “payable” and “paid” are used in the CPP, they are not defined or consistent, but as above are used variably and loosely.
+Absurdity beyond this appeal could occur if CPP “payable” means “paid”
+[13] There are other cases which explore the quandary of whether to apply or resist applying the meaning of “paid” to amounts otherwise described as “payable”. In these present appeals, the ultimate reductio ad absurdum result steers the Court to allow these appeals. For example, fairly imagine a world of remote work, two distinct government departments and Ministers and waning service standards, where at age 65 a pensioner applies for CPP benefits and thereafter files a CPT30 election to cease contributions. Should the benefits be approved 12, 24, 36, or 48 months later, and the Minister’s present interpretation of “payable” were to be accepted, a CPT30 cannot “effectively” be filed until after the date the benefits are approved, no matter that the CPP benefits are retroactively paid to the very day the pensioner turned 65. To further stretch the absurdity, a 60-month delay resulting in retroactive approval to age 65, should the Minister’s present interpretation be embraced, means a pensioner can never qualify for a CPP contribution commutation, since no one may contribute to CPP after age 70. These 5 years of CPP contributions are effectively mandatory because the faultless pensioner is barred by the Minister’s interpretation from ever filing an effective CPT30. A taxpayer never wishing to make such additional contributions would do so because the “system” could not, owing to the chosen interpretation against retroactivity, provide a “current CPP payable start date” such that a “CPP contribution stop date” for the filing a CPT30 might be established.
+Broad and generous interpretation needed
+[14] This “logic” embraced by the Minister, which results in this described absurdity, is foreign and antipodal to the purpose and subject of this benefit conferring legislation. The Federal Court of Appeal in Villani v. Canada (A.G.), 2001 FCA 248, applied such an approach when interpreting section 42 of the very same CPP. The object and scheme of the CPP as “benefits-conferring” necessitates that it ought to be interpreted in a “broad and generous manner”; any doubt arising from the “difficulties of language” should be resolved in favour of the claimant. Armed with the various articulations of the absurdity doctrine in relation to statutory interpretation, courts of all levels “…pay Parliament the respect of not assuming readily that it has enacted legislative inconsistencies or absurdities”: Morgentaler v. The Queen 1975, SCJ No.48 at 676.
+Balancing the interpretations
+[15] The CPP is not precise in its use and interchangeability of “payable” and “paid”; a broader interpretation of “payable” is appropriate. Various provisions of the CPP imply a definition of “payable” militating towards a right or entitlement to something, as opposed to outright and actual delivery of payment. This entitlement includes the right, statutorily provided, to stop contributions at age 65. The variable use of both “paid” and “payable” in the CPP, suggests that “payable” does not affix the same temporally fixed consequences as “paid” when read within the confines of the text. This is particularly noticeable when coupled with the expressed and communicated retroactive effective date of another Minister’s own CPP benefit determination. Further, as a piece of “social” or “benefits-conferring” legislation, the interpretation of “payable” that lends itself towards conferring the intended benefit to the claimant marches along with the spirit and purpose of the legislation: Re: Rizzo & Rizzo Shoes Ltd 1 SCR 27. The Minister’s claim that “payable” ought to align with being “in receipt of” or “actually paid” the physical sum fails because of the absurd consequence it lays upon the CPP.
+[16] For these reasons the Court finds that:
+Mr. Mann had a CPP retirement pension payable to him when he submitted the 2021 CPT30 election to the Minister by virtue of the retroactive payment determination which reaches back to a time before that election was filed;
+Mr. Mann filed a valid election under subsection 12(1.1) to exclude his earnings due from the Appellant as pensionable earnings in both 2022 and 2023;
+the Appellant is not liable for the CPP contributions for the 2022 and 2023 period; and
+the decision of the Minister is vacated.
+[17] Given the late filed replies and the varying positions taken by the Minister, the Court will exercise its residual discretion as a superior court to do so and assesses fixed notional costs of $200, such costs to be payable within 60 days by the Minister to the Appellant.
+Signed at Ottawa, Ontario, this 13th day of November 2025.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2025 TCC 167
+COURT FILE NO.:
+2025-250(CPP)
+2025-251(CPP)
+STYLE OF CAUSE:
+GOLDEN VIEW MANAGEMENT GROUP INC. AND THE MININSTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 9th, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Randall S. Bocock
+DATE OF JUDGMENT:
+November 13th, 2025
+APPEARANCES:
+For the Appellant:
+Jack Mann
+Counsel for the Respondent:
+Benjamin Roizes
+COUNSEL OF RECORD:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

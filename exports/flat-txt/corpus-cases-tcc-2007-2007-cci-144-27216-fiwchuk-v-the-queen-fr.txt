@@ -1,0 +1,152 @@
+Title: Fiwchuk v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27216/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-144-27216-fiwchuk-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-03-13
+
+# Fiwchuk v. The Queen
+
+- Citation: 2007 CCI 144
+- Decision date: 2007-03-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 822, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fiwchuk v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-13
+Référence neutre
+2007 CCI 144
+Numéro de dossier
+2006-2049(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2049(IT)I
+ENTRE :
+STEVE R. FIWCHUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Mary L. Fiwchuk
+(2006‑2050(IT)I) le 5 mars 2007, à Toronto (Ontario).
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Pour l’appelant : L’appelant lui-même
+Avocat de l’intimée : Me Josh Hunter
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est accueilli sans dépens, et la cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation afin de réduire à 34 160 $ le revenu figurant dans le T4 de Steve R. Fiwchuk.
+Signé à Ottawa, Canada, ce 13e jour de mars 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 26e jour de juillet 2007.
+Marie-Christine Gervais, traductrice
+Dossier : 2006-2050(IT)I
+ENTRE :
+MARY L. FIWCHUK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Steve R. Fiwchuk
+(2006-2049(IT)I) le 5 mars 2007, à Toronto (Ontario).
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Pour l’appelante : L’appelante elle-même
+Avocat de l’intimée : Me Josh Hunter
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est accueilli sans dépens, et la cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation afin de réduire à 21 039,72 $ le revenu figurant dans le T4 de Mary L. Fiwchuk.
+Signé à Ottawa, Canada, ce 13e jour de mars 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 26e jour de juillet 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI144
+Date : 20070313
+Dossiers : 2006-2049(IT)I
+ENTRE :
+STEVE R. FIWCHUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+- ET -
+2006-2050(IT)I
+ENTRE :
+MARY L. FIWCHUK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Les présents appels ont été entendus ensemble. Ils concernent l’ajout de certains montants au revenu des appelants, qui sont mari et femme.
+[2] Si je me souviens bien, de décembre 1999 jusqu’à leur mise à pied en 2004, les appelants travaillaient chez York Region Condominium Corporation #865 (la société « YRCC »). Steve Fiwchuk (ci‑après « M. Fiwchuk ») était le régisseur d’un ensemble d’habitations en rangée et de tours, et sa femme (ci‑après « Mme Fiwchuk ») était la nettoyeuse en chef des immeubles.
+[3] Dans leurs déclarations de revenu pour 2003, M. et Mme Fiwchuk ont déclaré un revenu d’emploi de 31 610 $ et de 18 260 $, respectivement. Ces montants étaient fondés sur leurs talons de chèque de paye. La société YRCC a par la suite établi et envoyé à l’Agence du revenu du Canada (l’« ARC ») des feuillets T4 dans lesquels il était indiqué que le revenu de M. Fiwchuk était de 36 101 $ et que celui de Mme Fiwchuk de 21 264 $, ce qui constitue une augmentation de revenu de 4 491 $ et de 3 004 $, respectivement.
+[4] Les montants figurant sur les feuillets T4, que les appelants n’ont jamais reçus, étaient fondés sur les calculs effectués par M. Richard Wronzberg, un comptable agréé qui était le gestionnaire immobilier de YRCC. La pièce R‑3 comprend, outre l’annexe établie par M. Wronzberg, un nombre important de factures que les appelants avaient présentées à la société YRCC, de même que des chèques payés que la société YRCC avait émis aux appelants. Les montants avaient été versés pour des services rendus, ainsi que pour les services pour lesquels les appelants étaient payés et qui venaient s’ajouter à leur salaire de base (28 500 $ dans le cas de M. Fiwchuk et 18 260 $ dans le cas de Mme Fiwchuk).
+[5] De plus, M. Fiwchuk a dit qu’il avait reçu un avantage imposable : il pouvait utiliser un appartement sans payer de loyer. L’avantage a été établi à 184,61 $ pour chaque période de deux semaines ou à 4 800 $ pour l’année. Par conséquent, si nous additionnons son salaire de base de 28 500 $ et l’avantage imposable, nous obtenons un total de 33 300 $, ce qui est plus élevé que le montant déclaré par l’appelant. Il n’est indiqué dans aucun des documents où cet avantage a été inclus dans son revenu.
+[6] L’annexe de M. Wronzberg indique un total de 4 490,47 $, lequel montant est considéré comme le revenu que M. Fiwchuk a tiré de la prestation d’autres services, comme l’installation de tuyaux pour les machines à laver des appartements et les réparations dans les immeubles. Le montant a été ajouté au montant de 31 610 $, ce qui a permis d’obtenir le montant de 36 101 $ indiqué dans le feuillet T4. De même, dans le cas de Mme Fiwchuk, le montant est de 3 139,72 $ pour les services qu’elle a fournis – elle s’est occupée principalement du nettoyage et de l’entretien des suites pour les invités.
+[7] Pour établir la cotisation à l’égard de M. Fiwchuk, le ministre s’est tout d’abord fondé sur le revenu d’emploi de 31 610 $ que celui‑ci avait déclaré. Il s’agissait d’ailleurs du montant qui figurait sur une reproduction en langue anglaise du feuillet T4, sous la rubrique « pens. earn » (gains ouvrant droit à pension, je présume). Le montant de 4 490,47 $ calculé par M. Wronzberg a été ajouté à ce montant, ce qui a permis d’obtenir le montant de 36 101 $ sur lequel le ministre s’est fondé pour établir la cotisation à l’égard de M. Fiwchuk.
+[8] L’intimée concède maintenant que parmi les montants totalisant 4 490,47 $, deux montants, soit 1 498 $ et 441,71 $, avaient été reçus en 2002 et n’auraient pas dû être inclus dans le revenu. Le montant supplémentaire aurait donc dû être réduit à 2 550,76 $, et le revenu rajusté de M. Fiwchuk aurait dû être de 34 160,76 $.
+[9] L’intimée allègue toutefois que M. Fiwchuk a lui‑même admis que son revenu, compte non tenu des montants supplémentaires totalisant 4 490,47 $ calculés par M. Wronzberg, était de 28 500 $ plus les avantages imposables s’élevant à 4 800 $, soit de 33 300 $. Par conséquent, même si nous ajoutons le montant réduit de 2 550,76 $, nous n’excédons toujours pas le montant de 36 101 $ qui a servi pour l’établissement de la cotisation à l’égard de M. Fiwchuk.
+[10] Cela soulève une question qui peut sembler plutôt insignifiante, mais qui porte sur une question de principe. Nous connaissons tous le principe classique énoncé par le juge Thurlow (tel était alors son titre) dans Harris v. M.N.R., 64 DTC 5332, selon lequel le ministre ne peut pas appeler de sa propre cotisation et la cour ne peut pas renvoyer une cotisation au ministre pour lui permettre d’augmenter le montant de la cotisation. Il vaut la peine de reproduire les propos tenus par le juge à la page 5337 :
+[traduction]
+Comme il a déjà été mentionné, l’avocat du ministre a fait observer que si je tirais la conclusion que l’appelant avait droit à une déduction pour amortissement fondée sur un coût en capital de 19 500 $ pour le bien, la bonne façon de procéder serait de renvoyer la cotisation au ministre pour qu’il refuse la déduction des frais de location et qu’il accorde une déduction pour amortissement appropriée. Comme aucune question n’a été soulevée concernant la déduction des frais de location de 775,02 $ accordée, l’avocat du ministre a également demandé l’autorisation de modifier la réponse afin de pouvoir soulever la question, de façon à ce que la déduction de 775,02 $ puisse être refusée dans le cas où la déduction pour amortissement serait accordée.
+Toutefois, je ne crois pas qu’il s’agit de la bonne façon de régler la question. Lorsqu’un contribuable interjette appel devant la Cour, la question fondamentale à trancher est de savoir si la cotisation est trop élevée. Cela peut dépendre des montants qui peuvent être déduits dans le calcul du revenu et de ceux qui ne le peuvent pas, mais, à mon avis, on statue sur ces questions seulement dans le but de tirer une conclusion relativement à la question fondamentale. La loi ne permet pas au ministre d’appeler de la cotisation devant la Cour, et comme dans les circonstances en l’espèce le refus de la déduction du montant de 775,02 $ et l’autorisation de la déduction du montant de 525 $ entraînerait une augmentation de la cotisation, le renvoi de l’affaire au ministre à cette fin aurait pour effet d’augmenter la cotisation et donc essentiellement d’accueillir un appel interjeté devant la Cour par le ministre. La demande d’autorisation de modifier la réponse est donc refusée.
+[11] L’avocat de l’intimée reconnaît ce principe. La difficulté que j’éprouve est celle de décider la méthode à utiliser pour calculer le revenu. Dois‑je commencer avec le revenu de 31 610 $ que M. Fiwchuk a déclaré et sur lequel le ministre et M. Wronzberg se sont fondés, ajouter le montant de 4 490,47 $, puis soustraire le montant de 1 939,71 $ qui, selon ce que la Couronne a concédé, n’aurait pas dû être inclus dans le revenu, pour obtenir un montant de 34 160,76 $? Il semble que rien ne permet de conclure que le ministre avait inclus le montant des avantages imposables s’élevant à 4 800 $ dans le revenu de 36 101 $ pour l’établissement de la cotisation. Par conséquent, ces avantages imposables ne sont pas inclus dans le montant de 34 160 $. L’autre méthode consiste à prendre le montant de 33 300 $ de M. Fiwchuk et d’y ajouter le montant rajusté de 2 550,76 $ établi par M. Wronzberg pour ainsi obtenir un montant de 35 850,76 $, ce qui est quand même inférieur au montant de 36 101 $.
+[12] Je pense que la première option est plus équitable. À ce moment‑ci, nous avons affaire à une cotisation que le ministre a établie en se fondant sur certaines hypothèses — les contribuables ont déclaré un revenu ainsi que certains montants supplémentaires qui ont fait augmenter le montant du revenu dans le feuillet T4.
+[13] Si on prend un calcul que le contribuable a effectué devant la cour et qu’on y ajoute un élément rajusté qui fait partie du montant figurant sur le T4, cela donne lieu à un montant hybride inacceptable qui me paraît inéquitable pour un contribuable non représenté. Par conséquent, j’accueille l’appel de Steve Fiwchuk et je renvoie l’affaire au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en vue de réduire à 34 160 $ le revenu figurant dans son T4.
+[14] La Couronne a concédé que, dans les calculs effectués pour Mme Fiwchuk, le montant de 3 139,72 $ figurant dans la pièce R‑3 devrait être réduit de 360 $ et passer à 2 779,72 $. C’est 224,28 $ de moins que le montant de 3 004 $ ajouté au revenu qu’elle avait déclaré. L’appel de Mme Fiwchuk doit être accueilli afin de réduire à 21 039,72 $ le revenu figurant dans son T4.
+[15] Mme Mary Fiwchuk a demandé que les pénalités pour production tardive soient supprimées. La présente Cour n’a pas le pouvoir de faire cela. Le ministre voudra peut‑être envisager de renoncer aux pénalités en exerçant son pouvoir discrétionnaire. Mme Fiwchuk a dit qu’elle avait produit les déclarations en retard parce qu’elle n’avait pas reçu les feuillets T4.
+[16] Aucune ordonnance ne sera rendue concernant les dépens.
+Signé à Ottawa, Canada, ce 13e jour de mars 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 26e jour de juillet 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2007CCI144
+NOS DES DOSSIERS :
+2006-2049(IT)I
+2006-2050(IT)I
+INTITULÉ :
+Steve R. Fiwchuk et Mary L. Fiwchuk
+c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 5 mars 2007
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge en chef D.G.H. Bowman
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 13 mars 2007
+COMPARUTIONS :
+Pour les appelants:
+Les appelants eux-mêmes
+Avocat de l’intimée :
+Me Josh Hunter
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour les appelants :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

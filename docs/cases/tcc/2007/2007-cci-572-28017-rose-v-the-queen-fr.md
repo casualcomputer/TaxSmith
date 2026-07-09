@@ -1,0 +1,215 @@
+---
+title: "Rose v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28017/index.do"
+last_modified: "2007-09-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 572"
+citation2: ""
+neutral_citation: "2007 CCI 572"
+decision_date: "2007-09-28"
+language: "fr"
+item_id: "28017"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1603
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:14:59.624000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7105a69651d49e64c74181ab945f5f1c322c77b9a61d29fc271388eb5036aa91"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rose v. The Queen
+
+- Citation: 2007 CCI 572
+- Decision date: 2007-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1603, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rose v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-28
+Référence neutre
+2007 CCI 572
+Numéro de dossier
+2007-1555(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1555(IT)I
+ENTRE :
+SHAWN ROSE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Robert Kerr (2007‑1669(IT)I) le 17 septembre 2007, à Montréal (Québec)
+Devant : L’honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Annick Provencher
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de l’avis de détermination du ministre du Revenu national (le « ministre »), daté du 18 novembre 2005, établi en application de la Loi de l’impôt sur le revenu à l’égard de la Prestation fiscale canadienne pour enfants pour les années de base 2003 et 2004, et à l’encontre de l’avis de détermination daté du 4 novembre 2005 établi à l’égard du crédit pour taxe sur les produits et services pour les années d’imposition 2003 et 2004, est accueilli, et les déterminations sont déférées au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles déterminations conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 6e jour de novembre 2007.
+Marie-Christine Gervais, traductrice
+Dossier : 2007-1669(IT)I
+ENTRE :
+ROBERT KERR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Shawn Rose (2007‑1555(IT)I) le 17 septembre 2007, à Montréal (Québec)
+Devant : L’honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Annick Provencher
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de l’avis de détermination du ministre du Revenu national (le « ministre »), daté du 18 août 2006, établi en application de la Loi de l’impôt sur le revenu à l’égard de la Prestation fiscale canadienne pour enfants pour les années de base 2004 et 2005, et à l’encontre de l’avis de détermination daté du 28 juillet 2006 établi à l’égard du crédit pour taxe sur les produits et services pour les années d’imposition 2004 et 2005, est rejeté conformément aux motifs du jugement ci‑joints
+Signé à Ottawa, Canada, ce 28e jour de septembre 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 6e jour de novembre 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI572
+Date : 20070928
+Dossier : 2007-1555(IT)I
+ENTRE :
+SHAWN ROSE,
+ROBERT KERR,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Les appels ont été entendus ensemble. La question en litige est de savoir lequel des deux appelants assumait principalement la responsabilité pour le soin du fils, James Kerr, pour la période allant de novembre 2004 au 6 août 2005.
+[2] Les hypothèses de fait formulées par le ministre du Revenu national (le « ministre ») à l’égard de M. Kerr sont décrites ainsi au paragraphe 6 de la réponse à l’avis d’appel (la « réponse ») :
+[traduction]
+a) L’appelant était marié avec Shawn Rose;
+b) Deux enfants sont nés du mariage, une fille, Erin, née le 17 novembre 1986 et un fils, James, né le 11 août 1988;
+c) Après s’être séparés, l’appelant et Shawn Rose ont conclu un Accord sur les mesures provisoires daté du 1er septembre 2004;
+d) Conformément aux modalités de l’Accord sur les mesures provisoires, l’appelant devait, à partir du 15 octobre 2004, partager avec Shawn Rose le duplex situé au 61 et au 59, rue Greenfield (l’appelant résidant au 59, rue Greenfield à l’étage supérieur et Shawn Rose résidant au 61, rue Greenfield à l’étage inférieur);
+e) Conformément aux modalités de l’Accord sur les mesures provisoires, les enfants devaient décider l’endroit où ils voulaient résider et auraient accès de façon égale au 59 ou au 61, rue Greenfield;
+f) Le 4 août 2005, le ministre a reçu de l’appelant une demande de PFCE et de CTPS pour les deux enfants pour la période commençant après le 22 octobre 2004;
+g) À la suite de la réception de la demande de l’appelant, un agent de l’Agence du revenu du Canada a communiqué avec Shawn Rose pour confirmer avec qui les enfants vivaient;
+h) Shawn Rose a confirmé que les enfants vivaient avec l’appelant;
+i) Le 10 novembre 2005, Shawn Rose a appelé l’agent de l’Agence du revenu du Canada et a nié avoir dit que les enfants ne vivaient pas avec elle depuis le 22 octobre 2004;
+j) Le 17 novembre 2005, le ministre a envoyé à l’appelant et à Shawn Rose un questionnaire concernant le soin et l’éducation d’Erin et de James et leur lieu de résidence;
+k) En se fondant sur les observations fournies avec les questionnaires et sur les observations reçues de l’appelant dans le cadre de ses oppositions, le ministre a conclu que personne n’était le particulier admissible aux fins de la PFCE et du CTPS;
+l) Pour toutes les périodes pertinentes et jusqu’en octobre 2004, le ministre avait versé la PFCE et le CTPS pour les enfants, Erin et James, à Shawn Rose en tant que particulier admissible.
+[3] Pendant l’audience, M. Kerr a mentionné qu’il ne demandait la Prestation fiscale canadienne pour enfants (la « PFCE ») et le crédit pour taxe sur les produits et services (le « CTPS ») que pour James.
+[4] Il n’est pas nécessaire de reproduire les hypothèses de fait formulées par le ministre dans le cadre de l’appel de Mme Rose, étant donné qu’elles ne sont pas vraiment différentes de celles formulées concernant l’appel de M. Kerr.
+[5] Comme on n’a pas discuté de la question de savoir qui assumait principalement la responsabilité pour le soin de la fille, Erin, et étant donné que la preuve révèle qu’Erin résidait avec sa mère pendant la totalité de la période en litige et que celle‑ci lui fournissait logement et nourriture, Mme Rose est donc la personne qui assumait principalement la responsabilité pour le soin d’Erin.
+[6] Il convient de noter ici que le 61, rue Greenfield, mentionné à l’alinéa d) de la réponse était la résidence de la famille avant la séparation. Après la séparation, Mme Rose est demeurée dans le logement et M. Kerr a déménagé à l’étage supérieur, au 59, rue Greenfield.
+[7] M. Kerr a produit en preuve sous la cote A‑1, l’accord sur les mesures provisoires. Le paragraphe 15 de l’accord est intitulé [traduction] « “Résidence des enfants” : Les enfants décideront de l’endroit où ils veulent résider et auront accès de façon égale aux deux résidences ». Le dernier paragraphe est intitulé « “Garde” : Les parties auront la garde conjointe de leurs enfants ».
+[8] Dans son avis d’appel, M. Kerr a indiqué que son fils demeurait avec lui depuis que lui et son épouse s’étaient séparés. Dans les lettres qu’il a envoyées aux divers agents concernés par cette affaire, il a mentionné qu’il avait aménagé une chambre pour son fils dans son logement et que c’était là que celui‑ci passait la plus grande partie de son temps. L’ordinateur, les jeux vidéo, les prix, les photos, les vêtements, le lit pliant et les effets personnels de son fils étaient dans cette chambre. Lors de l’audience, M. Kerr a répété que son fils résidait avec lui la plus grande partie du temps.
+[9] M. Kerr a dit qu’il conduisait son fils à l’école tous les matins. Lorsque la Cour lui a demandé où James déjeunait, il a répondu que, d’habitude, James ne déjeunait pas avant d’aller à l’école.
+[10] Comme elle l’avait fait dans son avis d’appel, lors de l’audience, Mme Rose a nié avoir jamais admis à l’agent du ministre, comme il est mentionné à l’alinéa h) de la réponse, que ses enfants ne vivaient pas avec elle, parce c’était complètement l’inverse.
+[11] Mme Rose a témoigné que son fils allait en bas pour dormir dans sa propre chambre chez elle tous les soirs, même si très souvent, à son avis, il rentrait trop tard. James avait toujours gardé la chambre qu’il avait lorsque la résidence était le domicile de ses parents. Le matin, il déjeunait chez elle et, le soir, il soupait également chez elle. Au début, il arrivait souvent que M. Kerr soupe avec eux aussi. James dînait à l’école.
+[12] Mme Rose lavait également le linge de son fils.
+[13] Les deux parents participaient aux réunions entre les parents et les enseignants. M. Kerr payait pour les activités scolaires.
+[14] James n’a jamais changé d’adresse municipale, comme le montre son permis de conduire.
+[15] Mme Rose estime qu’elle achète 80 % ou 90 % de la nourriture que son fils mange et 60 % des vêtements qu’il porte. C’est elle qui prend les rendez‑vous chez le médecin pour les deux enfants et qui les accompagne lors de leurs rendez‑vous.
+Analyse et conclusion
+[16] L’article 122.5 de la Loi de l’impôt sur le revenu (la « Loi ») définit ainsi l’expression « particulier admissible » aux fins du CTPS :
+« particulier admissible » Par rapport à un mois déterminé d'une année d'imposition, particulier, à l'exception d'une fiducie, qui, avant ce mois, selon le cas :
+a) a atteint l'âge de 19 ans;
+b) a résidé avec un enfant dont il était le père ou la mère;
+c) était marié ou vivait en union de fait.
+[17] L’article 122.6 de la Loi définit ainsi l’expression « particulier admissible » aux fins de la PFCE :
+« particulier admissible » S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne – père ou mère de la personne à charge – qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+c) elle réside au Canada ou, si elle est l'époux ou conjoint de fait visé d'une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l'année d'imposition qui comprend ce moment, y a résidé au cours d'une année d'imposition antérieure;
+d) elle n'est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+[...]
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues par règlement;
+h) les critère prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+[18] Ces définitions exigent que la personne à charge admissible réside avec le particulier.
+[19] À mon avis, le fils, James, ne résidait pas avec M. Kerr, mais avec Mme Rose. La chambre de James n’était pas située dans le logement du père. Elle était restée dans le logement de la mère et il s’agissait de la seule chambre que James avait. C’est également dans le logement de la mère que James prenait ses repas et se lavait et que son linge était lavé.
+[20] Il est ressorti de la preuve que le fils ne dormait jamais sur le divan‑lit. Il est vrai qu’il passait ses soirées chez son père pour utiliser l’ordinateur, mais il allait toujours en bas pour dormir chez sa mère, même s’il y allait très tard et plus tard que sa mère ne l’aurait voulu.
+[21] La personne qui fournit le logement et la nourriture est celle qui fournit la résidence, et, à cet égard, la mère assumait principalement sinon totalement ce rôle. Il est également important de noter que James n’a pas changé d’adresse municipale.
+[22] M. Kerr ne peut pas être considéré comme un particulier admissible parce qu’il ne résidait pas avec la personne à charge admissible, comme il est exigé dans les définitions de l’expression « particulier admissible ».
+[23] J’ai conclu que James résidait seulement avec Mme Rose. Aux fins de la PFCE, je me devais de conclure qu’elle est la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge admissible.
+[24] Si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge admissible est présumée être la mère. Cette présomption ne s’appliquera pas dans les circonstances prévues à l’article 6302 du Règlement de l’impôt sur le revenu, qui est rédigé ainsi :
+6302 Critères – Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[25] Il n’existe aucune raison de douter que M. Kerr était attentif aux besoins de son fils et qu’il participait à la vie de celui‑ci. La mère n’a pas contesté que la relation entre le fils et le père était pleine d’affection. Elle était au contraire contente qu’il en soit ainsi.
+[26] Toutefois, la preuve a révélé que James prenait tous ses repas chez sa mère, que c’était elle qui faisait son lavage et qui subvenait à ses besoins en matière de vêtements, et qu’elle participait, tout comme le père, à ses activités scolaires. Si je tiens compte de tous ces éléments, je conclus que Mme Rose était la personne qui assumait principalement la responsabilité pour le soin et l'éducation de la personne à charge admissible aux fins de la Prestation fiscale canadienne pour enfants.
+[27] L’appel de Mme Rose est accueilli. L’appel de M. Kerr est rejeté.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 6e jour de novembre 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2007CCI572
+NOS DES DOSSIERS : 2007-1555(IT)I
+2007-1669(IT)I
+INTITULÉS : SHAWN ROSE c. LA REINE
+ROBERT KERR c. LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 17 septembre 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : Le 28 septembre 2007
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocate de l’intimée :
+Me Annick Provencher
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet:
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

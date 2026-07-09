@@ -1,0 +1,401 @@
+Title: Loewen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28551/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-703-28551-loewen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-11-20
+
+# Loewen v. The Queen
+
+- Citation: 2007 TCC 703
+- Decision date: 2007-11-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1084, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Loewen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-20
+Neutral citation
+2007 TCC 703
+File numbers
+2001-3839(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-3839(IT)G
+BETWEEN:
+CHARLES B. LOEWEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motions in Andrew Pringle, 2003-446(IT)G and Michael De Pencier, 2003-1073(IT)G,
+on October 24, 2007, at Toronto, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+A. Christina Tari
+Counsel for the Respondent:
+Annie Paré and Elizabeth Chasson
+____________________________________________________________________
+ORDER
+Upon motion by the respondent for an Order granting leave to amend the Reply to the Notice of Appeal, and in particular, by the inclusion of the following paragraphs:
+25. No application was made pursuant to subsection 237.1(2) of the Act for a tax shelter identification number in relation to the Software and no identification number was issued by the Minister under section 237.1(2) of the Act.
+26. The Appellant did not file the prescribed form, including the identification number for the tax shelter, under section 237.1(6) of the Act.
+27. Prior to the acquisition of the Software, statements or representations were made or proposed to be made by AIRS II Inc., or on its behalf, to prospective purchasers of the Software.
+28. The statements or representations state that each prospective purchaser, who purchased a unit in the amount of $500,000 in 1993, would make a cash investment of $75,000 in each 1993 and 1994 taxation year, and would be able to write-off $250,000 in 1993 and $250,000 in 1994 against all income.
+29. The issues are whether:
+a) The Software is a tax shelter within the meaning of section 237.1 of the Act;
+31. He submits that the software was a tax shelter as defined in section 237.1 of the Act. He further submits that no application for a tax shelter identification number was made and as a result, no tax shelter identification number was issued by the Minister. Consequently no amount may be deducted or claimed by the Appellant in respect of the software by virtue of subsection 237.1(6) of the Act.
+And upon reading the material filed, and hearing counsel for the parties;
+It is ordered that the motion is allowed and the Respondent shall have leave to file and serve an amended Reply to the Notice of Appeal in the form annexed to the Notice of Motion within seven days from the date of this Order.
+And it is further ordered that the parties shall bear their own costs of the motion, and costs attributable to the delay in bringing this motion since the production of Appendix I shall be to the appellant, in the cause, on a party and party basis.
+Signed at Ottawa, Canada, this 20th day of November, 2007.
+“E.A. Bowie”
+Bowie J.
+Docket: 2003-446(IT)G
+BETWEEN:
+ANDREW PRINGLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motions in
+Charles B. Loewen, 2001-3839(IT)G
+and Michael De Pencier, 2003-1073(IT)G,
+on October 24, 2007, at Toronto, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+A. Christina Tari
+Counsel for the Respondent:
+Annie Paré and Elizabeth Chasson
+____________________________________________________________________
+ORDER
+Upon motion by the respondent for an Order granting leave to amend the Reply to the Notice of Appeal, and in particular, by the inclusion of the following paragraphs:
+21. No application was made pursuant to subsection 237.1(2) of the Act for a tax shelter identification number in relation to the Software and no identification number was issued by the Minister under section 237.1(2) of the Act.
+22. The Appellant did not file the prescribed form, including the identification number for the tax shelter, under section 237.1(6) of the Act.
+23. Prior to the acquisition of the Software, statements or representations were made or proposed to be made by AIRS II Inc., or on its behalf, to prospective purchasers of the Software.
+24. The statements or representations state that each prospective purchaser, who purchased a unit in the amount of $500,000 in 1993, would make a cash investment of $75,000 in each 1993 and 1994 taxation year, and would be able to write-off $250,000 in 1993 and $250,000 in 1994 against all income.
+25. The issues are whether:
+a) The Software is a tax shelter within the meaning of section 237.1 of the Act;
+27. He submits that the software was a tax shelter as defined in section 237.1 of the Act. He further submits that no application for a tax shelter identification number was made and as a result, no tax shelter identification number was issued by the Minister. Consequently no amount may be deducted or claimed by the Appellant in respect of the software by virtue of subsection 237.1(6) of the Act.
+And upon reading the material filed, and hearing counsel for the parties;
+It is ordered that the motion is allowed, without costs, and the Respondent shall have leave to file and serve an amended Reply to the Notice of Appeal in the form annexed to the Notice of Motion within seven days from the date of this Order.
+And it is further ordered that the parties shall bear their own costs of the motion, and costs attributable to the delay in bringing this motion since the production of Appendix I shall be to the appellant, in the cause, on a party and party basis.
+Signed at Ottawa, Canada, this 20th day of November, 2007.
+“E.A. Bowie”
+Bowie J.
+Docket: 2003-1073(IT)G
+BETWEEN:
+MICHAEL DE PENCIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motions in
+Charles B. Loewen, 2001-3839(IT)G and Andrew Pringle, 2003-446(IT)G on October 24, 2007, at Toronto, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+A. Christina Tari
+Counsel for the Respondent:
+Annie Paré and Elizabeth Chasson
+____________________________________________________________________
+ORDER
+Upon motion by the respondent for an Order granting leave to amend the Reply to the Notice of Appeal, and in particular, by the inclusion of the following paragraphs:
+22. No application was made pursuant to subsection 237.1(2) of the Act for a tax shelter identification number in relation to the Software and no identification number was issued by the Minister under section 237.1(2) of the Act.
+23. The Appellant did not file the prescribed form, including the identification number for the tax shelter, under section 237.1(6) of the Act.
+24. Prior to the acquisition of the Software, statements or representations were made or proposed to be made by AIRS II Inc., or on its behalf, to prospective purchasers of the Software.
+25. The statements or representations state that each prospective purchaser, who purchased a unit in the amount of $500,000 in 1993, would make a cash investment of $75,000 in each 1993 and 1994 taxation year, and would be able to write-off $250,000 in 1993 and $250,000 in 1994 against all income.
+26. The issues are whether:
+a) The Software is a tax shelter within the meaning of section 237.1 of the Act;
+28. He submits that the software was a tax shelter as defined in section 237.1 of the Act. He further submits that no application for a tax shelter identification number was made and as a result, no tax shelter identification number was issued by the Minister. Consequently no amount may be deducted or claimed by the Appellant in respect of the software by virtue of subsection 237.1(6) of the Act.
+And upon reading the material filed, and hearing counsel for the parties;
+It is ordered that the motion is allowed, without costs, and the Respondent shall have leave to file and serve an amended Reply to the Notice of Appeal in the form annexed to the Notice of Motion within seven days from the date of this Order.
+And it is further ordered that the parties shall bear their own costs of the motion, and costs attributable to the delay in bringing this motion since the production of Appendix I shall be to the appellant, in the cause, on a party and party basis.
+Signed at Ottawa, Canada, this 20th day of November, 2007.
+“E.A. Bowie”
+Bowie J.
+Citation: 2007TCC703
+Date: 20071120
+Docket: 2001-3839(IT)G
+2003-446(IT)G
+2003-1073(IT)G
+BETWEEN:
+CHARLES B. LOEWEN,
+ANDREW PRINGLE and
+MICHAEL DE PENCIER,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowie J.
+Background
+[1] There are motions before me in each of these three appeals, brought by the respondent seeking leave to amend the Replies to the Notices of Appeal. The pleadings in the three appeals are identical in all material aspects, as are the amendments that the respondent wishes to make to the Replies. That is because these three appeals are representative of a group of appeals pending before the Court on behalf of 17 taxpayers, each of whom was a purchaser of an undivided interest in certain computer software that changed hands under an agreement for purchase and sale that was executed on December 31, 1993. In his Reasons in relation to an earlier motion, Bowman C.J. recited the background to these appeals in some detail, and I think it would be useful to reproduce that here.
+3 The appellant is a businessman with a degree in economics from the University of British Columbia as well as from Harvard Business School. Throughout his career he has been active at a senior level in financial, corporate, management and investment matters. The allegations that are germane to this motion are contained in the appellant's affidavit filed in support of the motion as well as the notice of appeal. They are:
+- In 1993 the appellant acquired a 6.25% interest in computer software known as Arachnae Information Retrieval System Software II ("AIRS II"). He was one of 17 co-owners. He alleges in his affidavit that he paid $500,000 for his interest.
+- Computer software is a class 12 asset and capital cost allowance ("CCA") may be deducted under Schedule II to the Income Tax Regulations at 100%, subject to the rule that in the year of acquisition a taxpayer may deduct only one half of the amount of CCA otherwise deductible.
+- The appellant therefore deducted CCA of $250,000 in 1994. The claim in 1994 put the appellant in a loss position in that year and he therefore carried forward a loss of $32,822 to 1995.
+4 The Minister reassessed the appellant for each of the three years 1993, 1994 and 1995 as follows:
+(a) For 1993 he disallowed the entire claim for CCA on the basis that the software was not available for use until 1994.
+(b) For 1994 he assessed on the basis that the fair market value of 100% of the software was $1,600,000 and not $8,000,000, the basis upon which the appellant filed. Therefore the appellant's deduction for CCA on the software was reduced to $50,000, as follows:
+$1,600,000 X $500,000 X ½ = $50,000
+$8,000,000
+(c) For 1995 the appellant did not claim CCA on the software evidently on the assumption that it had all been used up in 1993 and 1994. The Minister did not allow the non-capital loss carry-forward on the theory that the appellant had none. Moreover the Minister - inadvertently I assume - did not allow the appellant even the CCA of $50,000 which on the Minister's theory he would have been entitled to. That however is not germane to this motion.
+5 The assessments for 1993, 1994 and 1995 were all dated February 27, 2001.
+6 The appellant signed a waiver of the "normal reassessment period" as defined in section 152 of the Income Tax Act in respect of the 1993 taxation year on April 4, 1997 and in respect of the 1994 taxation year on April 28, 1998.
+7 The waivers for the taxation years were revoked by notices of revocation of waiver signed by the appellant on October 12, 2000. The effect of revoking the waivers was that the normal reassessment period ended in respect of 1993 and 1994 six months after the revocation was filed, i.e. on April 21, 2001.
+8 No waiver was filed with respect to 1995.
+9 The original assessment for 1995 was made on May 9, 1996. Therefore the normal reassessment period for 1995 expired on May 10, 1999.
+10 On March 2, 2000 an auditor for the Canada Customs and Revenue Agency, Ms. Jang, wrote to the appellant with respect to the AIRS II Co-ownership proposing adjustments in respect to his investment. Only two issues were identified:
+(a) Valuation.
+After a lengthy discussion of the valuation of the software she stated
+Since the original valuation of $8.0 million is considered unreasonable it has been determined that at the date of valuation, i.e., December 31, 1993 the fair market value of the Software acquired by the Co-ownership was $1.6 million supported by our valuation. Therefore the capital cost used for the purpose of capital cost allowance ("CCA") is limited to $1.6 million. The excess of $6.4 million is proposed to be disallowed.
+(b) Availability for use.
+She stated that the software was not available for use until 1994 and therefore CCA should not be claimed on it in 1993.
+11 On March 20 and March 30, 2000 the appellant wrote to Ms. Jang making representations on the matter of valuation and suggesting that she issue a reassessment based on the $1.6 million valuation. He seems to have assumed that as soon as he received a notice of reassessment he could appeal to the court. He also observed that she would have to reassess the other 16 investors.
+12 On May 12, 2000 Ms. A. Christina Tari, counsel for the appellant, made a lengthy submission to Ms. Jang on the available for use issue.
+13 On January 19, 2001 Ms. Jang wrote again to the appellant with respect to the years 1993, 1994 and 1995. She reiterated her position that the $1.6 million valuation by Cole Valuation Partners was proper and her position on the available for use issue. She commented in detail on Ms. Tari's representations. She concluded with the observation:
+We believe that we have gathered enough evidence to support our conclusion. As stated in our proposal letter, we accepted that the Software was available for use in 1994. Therefore CCA should only be claimed in 1994 and the subsequent years. Enclosed please find a Revised Capital Allowance Schedule and a Revised Non-Capital Loss Schedule.
+14 The schedules reduced the CCA claim for 1993 to zero and for 1994 to $50,000 (($500,000 X $1,600,000/$8,000,000) X 50%) and the non-capital loss carry-forward to 1995 to nil.
+15 The reassessments for 1993, 1994 and 1995 followed on February 27, 2001. The notices of reassessment each bore on their face the notation:
+We have made an adjustment according to our letter of January 19, 2001.
+16 On April 30, 2001 Ms. Jang sent to Ms. Tari an audit report (T20-R1). The report describes the software and deals in detail with two and only two issues: valuation and available for use.
+17 A very substantial part of the report was the CCRA's response to the 50 page representations by the co-owners with respect to the Cole Valuation report.
+18 There was no discussion in the report of the question whether the co‑owners or the appellant were dealing at arm's length with the vendor of the software, although on page 8 of the report, under "Explanation of All Changes" the following appears.
+1. CCA Disallowed*
+Income Tax Act: Sec. 67, Subsection 9(2), Paragraph 69(1)(a), Paragraph 251(1)(b), Subsection 13(26), Subsection 13(27), Paragraph 20(1)(a)
+*
+Please note that as the result of this audit, a balance of ???? of Capital Cost Allowance is being carried forward to future year. The T/P did not request in writing to claim the remaining balance.
+See explanation on the following pages.
+19 Paragraph 69(1)(a) of the Income Tax Act deals with the tax consequences of transfers between persons not dealing at arm's length. Paragraph 251(1)(b) provides that it is a question of fact whether unrelated persons are dealing at arm's length, and subsections 13(26) and 13(27) have to do with the available for use restriction on CCA claims.
+20 In addition to the audit report Ms. Jang sent Ms. Tari on May 9, 2001 a document called a Position Paper dated November 21, 2000. This report dealt with a number of issues in addition to the two discussed in the audit report. In it she states:
+C. PROBLEM OR ISSUE
+The issues to be decided are:
+1. did the Co-Owners acquire the software for the purpose of carrying on a business with a reasonable expectation of profit or were the expenses incurred for the purpose of earning income from a business or property (paragraphs 18(1)(a) and 18(1)(h)), and was the software acquired for the purpose of gaining or producing income (paragraph 1102(1)(c));
+2. whether the amounts allegedly paid or payable to the vendor of Software are reasonable under the circumstances or was the value of the Software inflated (section 67);
+3. was the Software available for use on December 31, 1993 (subsection 13(26));
+4. are the Notes real or contingent liabilities (paragraph 18(1)(e));
+5. was the Software purchased by the Co-Ownership a new product developed by Arachnae?
+...
+F. RECOMMENDATIONS AND CONCLUSION
+Our position here is mainly relied on the Valuation Report from Cole and Partners. It has been determined that the value of the Software should be in the $1.6 million range. We accept this amount as the fair market value for the AIRS II Software. We agree with the Cole's FMV for the following reasons:
+1. The Software was not ready at the valuation date. There were a lot of uncertainties involved, i.e., would the Software function as described or expected, when will the Software be available for use, how strong the competitors be, etc.
+2. Although the sum of $5,102,315 had been invested on the original AIRS and AIRS II and additional funds of $2.4 million was expected to be invested in the AIRS II Software by the Co-Owners, it does not mean that the new AIRS II Software should worth $8 million.
+3. As stated previously, the historical results from AIRS was very poor. The AIRS Software was only able to generate $1,249,377 gross revenue for the entire 10 years. Yet the total development costs came to $2,284,315 which was almost twice as much as the gross revenue. It is questionable that their projections were achievable and attainable.
+4. For the entire period in question, Arachnae was not able to demonstrate one successful contract.
+5. The success of Excite, Inc. does not suggest that the similar outcome could have been happened to AIRS II.
+6. The entry of Excite may or may not be the main reason for the failure of the Software.
+Please note that we do not consider "no reasonable expectation of profit" for the business. During the meeting of February 8, 2000, we re-considered what Mr. Phil McDonnell had suggested which were as follows:
+￭ Was it run as a company?
+￭ Was there proper management?
+￭ Was there sales force to marketing the product?
+￭ Was the product out there in the market?
+￭ Was there a roadblock?
+The answers to the above are "yes". In addition, all of the available correspondence indicates that reasonable efforts were put into the operation. They were doing everything a genuine business would do. As far as the profit is concerned, we cannot refuse a business due to lack of profit alone.
+CONCLUSION:
+It is recommended that total CCA deductions is limited to $1.6 million for all the Co-Owners as stated in our first position above. As stated in "Availability For Use" above, it has been determined that the Software was not available for use on December 31, 1993. Therefore no CCA is being allowed for 1993. It appears that the Software was available for use in 1994. Thus deduction for CCA is recommended in the taxation year of 1994 and onward.
+21 On the question whether the notes were contingent she said:
+Promissory Notes details:
+For each unit cost of $500,000 the promissory note is for $350,000 together with interest on such amount, at a rate equal to five percent (5%) per annum calculated annually not in advance.
+Maker - the various purchasers/co-owners/investors
+Payee - AIRS II Inc.
+Payment date - is December 31, 2003 for those notes made in 1993 and December 31, 2004 for those made in 1994
+Prior to the Payment date, payments of principal and interest on this promissory note shall only be made out of the Maker's share of Adjusted Revenues.
+If the Maker's share of Adjusted Revenues is insufficient to pay the interest payable on any anniversary date, such interest shall accrue.
+This promissory note may be repaid at any time or times without notice or bonus.
+The maker shall have the right upon notice of the Payee at any time prior to the Payment date to extend the payment date for up to an additional 10 years.
+This promissory note shall be unsecured.
+The Payee agrees that this promissory note cannot be assigned to or endorsed in favor of, a third party without the consent of the maker, which consent may be unreasonably withheld.
+We have tried to verify the authenticity of the Promissory notes. To date, the Notes have not been paid off. Per representation of June 10, 1999, from Mr. Frank Penny, the terms of the Notes remain the same. The current status of the Acquisition Notes is that they are still outstanding and will be dealt with between AIRS II Inc. and the Co-Owners according to their terms. The carrying charges with respect to the Acquisition Notes are accrued on the books of AIRS II Inc. and will be paid according to the terms of the loan.
+The unusual long due date in relation to the economic life of the Software and the lack of proper security do not seem to agree with normal business practice. However there is no evidence to support that the debt was not intended to be repaid.
+22 It is clear from the position paper that Ms. Jang considered the question of contingency and decided that the notes were not contingent. She considered the question whether the software was acquired for the purpose of gaining or producing income from a business or property and decided that it was.
+23 She said in her affidavit:
+15. At the time of the audit I believed that the facts that I had gathered and assumed raised several legal issues, which are detailed in the Position Paper. However, I chose to proceed with the reassessment on the basis of two legal conclusions:
+(a) the fair market value of the Software did not exceed 1.6 million dollars as at December 31, 1993, and
+(b) the Software was not available for use in the Appellant's 1993 taxation year.
+16. Upon my review of the Reply to the Notice of Appeal, I can state that additional legal conclusions may be drawn from the facts that I assumed and gathered during the course of my audit. These legal conclusions are:
+(a) the Appellant did not acquire an interest in the Software for the purpose of gaining or producing income;
+(b) the Appellant, the co-owners of the Software, AIRS II Inc. and Arachnae were not dealing with each other at arm's length;
+(c) the deduction of the CCA claimed by the Appellant in his 1993 and 1994 taxation years was unreasonable;
+(d) the $350,000 set out in the So-Called Promissory Note provided by the Appellant to AIRS II Inc. was a contingent liability.
+17. I am advised that these conclusions were made based on the facts and information that I gathered and assumed during the audit. I believe this advice to be true.
+24 The statement in paragraph 15 that she decided to proceed with the reassessment on the basis of two legal conclusions, fair market value and available for use, is correct.
+[2] Mr. Loewen’s Notice of Appeal was filed in October 2001, and the Reply in January 2002. In the other two appeals, the Notices of Appeal were filed in early 2003 and the Replies in May 2004. The respondent now seeks to amend the Reply in each appeal to add the following five paragraphs and one sub-paragraph, and to add section 237.1 to paragraph 26, which sets out the statutory provisions upon which the respondent relies.
+25. No application was made pursuant to subsection 237.1(2) of the Act for a tax shelter identification number in relation to the Software and no identification number was issued by the Minister under section 237.1(2) of the Act.
+26. The Appellant did not file the prescribed form, including the identification number for the tax shelter, under section 237.1(6) of the Act.
+27. Prior to the acquisition of the Software, statements or representations were made or proposed to be made by AIRS II Inc., or on its behalf, to prospective purchasers of the Software.
+28. The statements or representations state that each prospective purchaser, who purchased a unit in the amount of $500,000 in 1993, would make a cash investment of $75,000 in each 1993 and 1994 taxation year, and would be able to write-off $250,000 in 1993 and $250,000 in 1994 against all income.
+29. The issues are whether:
+a) The Software is a tax shelter within the meaning of section 237.1 of the Act;
+31. He submits that the software was a tax shelter as defined in section 237.1 of the Act. He further submits that no application for a tax shelter identification number was made and as a result, no tax shelter identification number was issued by the Minister. Consequently no amount may be deducted or claimed by the Appellant in respect of the software by virtue of subsection 237.1(6) of the Act.
+The numbering above refers to the Loewen appeal. The proposed amendments to the other two Replies are identical but the paragraph numbers are different. The motions are opposed by counsel for the appellants on several grounds that she summarized under the following headings in an outline of her argument:
+(i) No prima facie right to amend pleadings
+(ii) No reasonable cause of action
+(iii) Prejudice
+(iv) Not an “alternative argument”
+(v) Fairness/Common Sense/Interests of Justice
+(vi) Abuse of Process/Policy Concerns
+I shall deal with (i), (ii) and (iv) under those headings, with (iii) and (v) together under the heading discretionary considerations, and finally (vi).
+no prima facie right to amend pleadings
+[3] Ms. Tari contrasts Rule 54,[1] under which these motions are brought, with Ontario Rule 26.01:[2]
+54. A pleading may be amended by the party filing it, at any time before the close of pleadings, and thereafter either on filing the consent of all other parties, or with leave of the Court, and the Court in granting leave may impose such terms as are just.
+26.01 On motion at any stage of an action the court shall grant leave to amend a pleading on such terms as are just, unless prejudice would result that could not be compensated for by costs or an adjournment.
+Rule 54 must be applied having in mind the provisions of Rule 4:
+4(1) These rules shall be liberally construed to secure the just, most expeditious and least expensive determination of every proceeding on its merits.
+There is considerable jurisprudence surrounding Rule 54, but the accepted statement of principle is that of the present Chief Justice of this Court made in Continental Bank Leasing v. The Queen,[3] where he said at page 302:
+In the cases in the courts of Ontario and of British Columbia to which I was referred a number of tests have been developed -- whether an admission was inadvertent, whether there is a triable issue raised by an amendment or the withdrawal of an admission and whether the other party would suffer a prejudice not compensable in costs. Although I find that these tests have been met I prefer to put the matter on a broader basis: whether it is more consonant with the interests of justice that the withdrawal or amendment be permitted or that it be denied. The tests mentioned in cases in other courts are of course helpful but other factors should also be emphasized, including the timeliness of the motion to amend or withdraw, the extent to which the proposed amendments would delay the expeditious trial of the matter, the extent to which a position taken originally by one party has led another party to follow a course of action in the litigation which it would be difficult or impossible to alter and whether the amendments sought will facilitate the court's consideration of the true substance of the dispute on its merits. No single factor predominates nor is its presence or absence necessarily determinative. All must be assigned their proper weight in the context of the particular case. Ultimately it boils down to a consideration of simple fairness, common sense and the interest that the courts have that justice be done.
+That passage was cited with approval by the Federal Court of Appeal in Canderel v. Canada,[4] and more recently in Merck & Co. v. Apotex Inc.[5] Proposed amendments, therefore, must be considered in the light of the factors enumerated in Continental Bank Leasing, and considering as well the question whether they raise a reasonable cause of action, or in the present context, whether they raise a viable defence to the appeals. It would make no sense to permit an amendment to a pleading that, if pleaded in the first instance, would have been susceptible of being struck out as immaterial.
+no reasonable cause of action
+[4] The principle that an amendment to a pleading will not be permitted if it raises no cause of action, or, in the context of a Reply to a Notice of Appeal in this Court, it would afford no defence of the assessment from which the appeal has been brought is self-evident. As I have said above, it would make no sense to permit an amendment to a pleading that, had it been included initially, would have been susceptible of striking out.
+[5] Section 237.1 was added to the Income Tax Act (the “Act”) in 1989. It defines the term “tax shelter”, and it requires that the promoter of a tax shelter register it with the Minister, and thereby obtain a tax shelter identification number. Subsection 237.1(6) provides as follows:
+237.1(6) In computing the amount of income, taxable income, taxable income earned in Canada, tax or other amount payable by, or refundable to a taxpayer under this Act for a taxation year, or any other amount that is relevant for the purposes of computing that amount, no amount may be claimed or deducted by the taxpayer in respect of an interest in a tax shelter unless the taxpayer provides the Minister with the identification number for the shelter.
+It is this subsection that the respondent now wishes by these amendments to invoke against the appellants. For the Crown to succeed in any such argument would require that the evidence establish that the AIRS II software met the definition of “tax shelter” as it stood at the relevant time in 1993 and 1994. As the decision of this Court in Baxter v. The Queen,[6] and the decision of the Federal Court of Appeal reversing that decision show, the application of that definition is no simple matter. Key to that determination is a document referred to in the argument before me simply as Appendix I, and, of course, the definition of “tax shelter” as it appeared in the Act in 1993 and 1994. That definition then read:
+237.1(1) In this section,
+"tax shelter" means any property in respect of which it may reasonably be considered having regard to statements or representations made or proposed to be made in connection with the property that, if a person were to acquire an interest in the property, at the end of any particular taxation year ending within 4 years after the day on which the interest is acquired,
+(a) the total of all amounts each of which is
+(i) a loss represented to be deductible in computing income in respect of the interest in the property and expected to be incurred by or allocated to the person for the particular year or any preceding taxation year, or
+(ii) any other amount represented to be deductible in computing income or taxable income in respect of the interest in the property, and expected to be incurred by or allocated to the person for the particular year or any preceding taxation year, other than any amount included in computing a loss described in subparagraph I,
+would exceed
+(b) the amount, if any, by which
+(i) the cost to the person of the interest in the property at the end of the particular year,
+would exceed
+(ii) the total of all amounts each of which is the amount of any prescribed benefit that is expected to be received or enjoyed, directly or indirectly, in respect of the interest in the property, by the person or another person with whom the person does not deal at arm's length.[7]
+Ms. Tari argues that on the face of Appendix I the software does not fall within the definition as it appeared in 1993 and 1994. The requirement of the definition was expressed this way by Rip J. in Maege v. The Queen:[8]
+30 In terms of the financial aspects of an investment and whether or not it is a tax shelter, the provisions defining "tax shelter" can be reduced to a simple equation: there may be a tax shelter if A > (B - C) where A is the aggregate of deductions against income (including losses), B is the amount of the investment or cost, and C is the amount of prescribed benefits received (in this case, tax credits.)
+The cost of one unit of the software (B in the equation above) is shown by Appendix I to consist of one payment of $75,000, three payments of $25,000 each, and a promissory note for $350,000, a total of $500,000, and the CCA deductible (A in the equation) in each of 1993 and 1994 is shown to be $250,000, a total of $500,000. The latter is only equal to but not greater than the former, and so the property, it is argued, could not be a tax shelter.
+[6] The Respondent’s position is that there must be deducted from the cost side of the equation (B) the amount of the $350,000 note (C), because it is a prescribed benefit within the description of that expression found in Income Tax Regulation 231(6). The relevant operative words in the Regulation as it read at the relevant time were:
+231(6) For the purposes of paragraph (b) of the definition “tax shelter” in subsection 237.1(1) of the Act, “prescribed benefit” in relation to a tax shelter means any amount … and includes such an amount
+(a) that is, either immediately or in the future, owed to any other person by the purchaser … to the extent that
+(i) liability to pay that amount is contingent,
+…
+It is alleged in subparagraph 22(h) of the Reply in Loewen (19 and 20 in Pringle and De Pencier) that the liability under the note is contingent. The proposed amendment, therefore, would raise a triable issue.
+not an “alternative argument”
+[7] The normal reassessment period prescribed by subsection 152(4) of the Act for all the years under appeal by each of these appellants has long since expired. Consequently, the appellants argue that to permit the proposed amendment would offend the rule in Continental Bank of Canada v. Canada.[9] The respondent relies on subsection 152(9):
+152(9) The Minister may advance an alternative argument in support of an assessment at any time after the normal reassessment period unless, on an appeal under this Act
+(a) there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court; and
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+The appellants’ objection under this head of argument is that what the respondent proposes is not simply to raise a new argument in support of the assessments now under appeal, but rather to raise a different assessment based upon new and different transactions or events. Counsel relied on the decision of this Court in Papiers Cascades Cabano Inc. v. The Queen,[10] and that of the Federal Court of Appeal in Pedwell v. Canada.[11] In my view, Papiers Cascades has no application to the present case. It dealt with the application of the New St. James principle[12] to the carry forward of unused investment tax credits, where the Minister, in assessing the 1966 taxation year, reduced the amount carried forward from an earlier statute‑barred year as the result of a revision of the amount of the credit to which the taxpayer was entitled for that earlier year. The trial Judge, in obiter, accepted an alternative argument for the appellant that to permit the Minister to recalculate the entitlement for a statute-barred year was, in effect, to permit him to appeal from his own assessment. In the Federal Court of Appeal, the Minister’s appeal was allowed and the New St. James principle was affirmed. The Court did not find it necessary to consider subsection 152(9).
+[8] In Pedwell, the Minister initially assessed the taxpayer to tax on two transactions, one an appropriation of property from a corporation, and the other a sale of property. Following objection, the Minister reassessed to allow the objection relating to the sale transaction, and confirmed the assessment arising out of the appropriation. An appeal was taken from this assessment, and the trial judge, while allowing the appeal in respect of the appropriation of property, referred the assessment back to the Minister with a direction to reassess on the basis that the proceeds of the sale transaction and of another transaction were income of the appellant. This decision was set aside by the Court of Appeal, reasoning that the appellant had not been assessed on that basis, and that the Court could not ex proprio motu substitute an entirely different assessment for the Minister’s assessment that was under appeal. The ratio of the Court of Appeal decision is found in the following excerpt from the judgment:[13]
+21 The Minister advances two arguments. The first is that the issue in a tax appeal is whether the tax is too high. The implication of this argument is that anything can be argued in the Tax Court and the Tax Court Judge is limited only to the amount of the assessment. In other words, as long as a finding does not exceed the amount of the tax assessed by the Minister, the Tax Court Judge is free to find liability against the taxpayer on any basis, whether included in the notice of reassessment or not, provided the taxpayer has notice and an opportunity to respond.
+22 I think Continental Bank is dispositive on this point. The Crown and therefore the Court are bound by the assessment appealed from, unless it has been amended, or adequate notice given of an intention to rely on a different basis for it, within the limitation period and certainly before judgment is rendered by the Tax Court. This was not the case here.
+23 The second of the Crown's arguments is that what transpired is all part of one scheme; that the acquisition of the 84 acres, the sale to Eulers and the deposit received from Landpark cannot be separated for tax purposes. However, what transpired were three separate transactions involving different parties:
+(1) the acquisition of the 84 acres;
+(2) the sale of one lot to Eulers; and
+(3) the deposit received from Landpark for 16 lots.
+This is seen in the Minister's notice of reassessment. In the October 1, 1994 reassessment, the appropriation of the 84 acres is listed, followed by the alleged unreported profit on the Euler sale. On the April 4, 1996 notice of reassessment, the Euler transaction is eliminated. The necessary implication is that the appellant need have no further worry that the Euler proceeds constituted an appropriation to him and that he may concentrate on the acquisition of the 84 acres. This was confirmed before the Tax Court Judge in the excerpt from the transcript quoted above. Finally, nowhere on the reassessments is there any mention of the Landpark deposit of $22,500.
+24 I do not say that the Minister might not base an assessment on a scheme consisting of more than one transaction. However, taxation is transaction-based (or perhaps deemed transaction-based) and if more than one transaction is to form the basis of assessment, the assessment must reflect that fact. Where the basis of the Minister's assessment is one transaction, the Court cannot, ex post facto, broaden the scope of the assessment to include other transactions.
+Pedwell is distinguishable from the present cases on several grounds. First, the prohibition arising out of Pedwell is against shifting to an entirely different transactional basis of assessment from that appealed from; second, in Pedwell the taxpayer never had notice of the proposed basis of the assessment directed by the judgment of the Court; third, subsection 152(9) applies only to appeals disposed of after June 17, 1999; the decision of this Court in Pedwell was rendered on October 29, 1988, and in the words of Rothstein J.A. the subsection “… is not relevant here in any event …”.
+[9] For purposes of considering the application of subsection 152(9), the decisions that are relevant, and binding on me, are Canada v. Anchor Pointe Energy Ltd.,[14] Canada v. Loewen,[15] and Walsh v. Canada.[16] Anchor Pointe is in all respects parallel to the present cases. There the Minister’s reassessment of the taxpayer was based upon the opinion that certain seismic data, the cost of which was claimed as a Canadian Exploration Expense, had a fair market value that was less than the amount claimed. The taxpayer objected. After the normal reassessment period had expired, the Minister, relying on the then recent judgment of the Federal Court of Appeal in Global Communications Ltd. v. The Queen,[17] confirmed the reassessment. In doing so, he relied upon both the valuation issue that gave rise to the reassessment, and on the added reason that the seismic data had been acquired for the purpose of resale and not for the purpose of exploration as the Act required. The question raised on a motion attacking the Reply to the Notice of Appeal was whether subsection 152(9) permitted the Minister to rely on this new alternative argument. In concluding that it did, Rothstein J.A., for a unanimous Court, said this at paragraphs 37 to 41:
+37 Subsection 152(9) permits the Minister to rely upon an alternative argument in support of an assessment after the normal reassessment period. There is no suggestion here that Anchor Pointe is no longer able to adduce relevant evidence with respect to the Minister's new basis or argument. Therefore, if the Global decision constitutes a new basis or argument in support of the reassessment, the Minister may rely upon it even though it was not relied upon prior to expiry of the normal reassessment period.
+38 Anchor Pointe tries to distinguish between a new basis of assessment and a new argument in support of an assessment. I do not find that semantical argument productive. The question is whether the Minister is purporting, through reliance on the Global decision, to increase the amount of Anchor Pointe's income that was not included in an assessment or reassessment made within the normal reassessment period.
+39 In my opinion, he was not. This case is unlike cases such as Pedwell v. The Queen, 2000 D.T.C. 6050 (F.C.A.), where the Minister sought to take into account different transactions than the ones that formed the basis of the reassessments that were made within the normal reassessment period. I do not say that taking into account other transactions is the only thing the Minister cannot do after expiry of the normal reassessment period. Anything that increases tax payable from what would have been the case prior to expiry of the normal reassessment period would be objectionable.
+40 Here, the Minister does not seek to rely on Global to increase Anchor Pointe's taxes payable over what was included in the Minister's reassessment prior to expiry of the normal reassessment period. The reassessment increased taxes payable by reducing CEE deductions by the difference between the amount claimed and the amount based on the Minister's estimation of the fair market value of the seismic data. On confirming the reassessment, the Minister does not seek to increase that amount. He is not introducing a new transaction. He is only relying on an additional argument, that there is no CEE deduction allowed where the acquisition of the seismic data is for resale or licensing.
+41 In these circumstances, I agree with Rip J.'s conclusion that there is nothing objectionable about the Crown's Reply containing an additional argument based on the Global decision.
+[10] Ms. Tari argues that the addition in this case of the allegations that the AIRS II software was a tax shelter and that the appellants did not comply with the requirement to file the prescribed form containing the prescribed information required by subsection 237.1(6) of the Act would amount to adding new transactions to the basis for the reassessments. I do not agree. These allegations are precisely analogous to the added requirement in Anchor Pointe that the seismic data be purchased for the purpose of exploration. As in Anchor Pointe, the Minister does not seek to increase the amount of the assessment, even though the new ground, if raised in time, would have led to a higher reassessment of tax. To paraphrase the final three sentences of paragraph 40 of Rothstein J.A.’s reasons in making this amendment to the pleading, the Respondent does not seek to increase the amount of tax. He is not introducing a new transaction. He is only relying on an additional argument that there is no deduction for CCA in respect of the asset where it is an unregistered tax shelter and the taxpayer has not filed the prescribed form with the Minister.
+[11] The proposed amendment is also analogous to the addition in the Replies filed some years ago in these cases of the argument in support of the reassessments that the appellants did not acquire the software for the purpose of gaining or producing income. In allowing an appeal from the Order of this Court striking that allegation out of the Reply, Sharlow J.A. said this for a unanimous Court:[18]
+46 In Mr. Loewen's case, the Crown wishes to argue that Mr. Loewen did not acquire his interest in the software for the purpose of gaining or producing income. If that argument is valid, Mr. Loewen should not have been permitted to deduct any capital cost allowance. Because the statutory limitation period has passed, the Minister cannot now reassess to increase Mr. Loewen's tax liability by reducing his capital cost allowance deduction. However, the Crown is not seeking to reduce the capital cost allowance deduction to nil, but only to defend the Minister's reassessment, which reduced the deduction to reflect what the Minister alleges is the fair market value of Mr. Loewen's interest in the software. That is essentially what the Crown was permitted to do in Anchor Pointe.
+47 ]It is argued for Mr. Loewen that Anchor Pointe is not relevant to the issues in this case because in Anchor Pointe the Crown's new argument emerged at the conclusion of the objection stage, while in this case the Crown presented its new argument for the first time at the pleading stage. I see no relevant distinction. The issue in both cases is whether the Crown is permitted to defend an assessment on the basis of an argument that is asserted for the first time after the expiry of the time limit for reassessments.
+48 In my view, Anchor Pointe is dispositive of the issues raised in this part of the Crown's appeal. Therefore, it is not necessary for me to deal with the other arguments presented for Mr. Loewen on this issue. I conclude that the Judge erred in striking these provisions from the reply, and that the Crown's appeal should be allowed on this point.
+[12] In Walsh v. Canada,[19] after referring to Anchor Pointe, Richard C.J. summarized the matter succinctly in paragraph 18 of his unanimous reasons:
+18 The following conditions apply when the Minister seeks to rely on subsection 152(9) of the Act:
+1) the Minister cannot include transactions which did not form the basis of the taxpayer’s reassessment;
+2) the right of the Minister to present an alternative argument in support of an assessment is subject to paragraphs 152(9)(a) and (b), which speak to the prejudice to the taxpayer; and
+3) the Minister cannot use subsection 152(9) to reassess outside the time limitations in subsection 152(4) of the Act, or to collect tax exceeding the amount in the assessment under appeal.
+In the present cases, the Respondent does not seek to reassess, she does not seek to collect more tax than that which was assessed within the normal reassessment period, and she does not seek to rely on transactions other than those put into issue by the original reassessments. She does seek to rely on an additional argument, that subsection 237.1(6) precludes the deductions that have been disallowed by the reassessments under appeal, and that additional argument requires that she allege an additional fact – that the prescribed form containing the prescribed information was not filed by the appellants. Subsection 152(9) permits that. The proviso contained in paragraphs (a) and (b) has no application here; only in an appellate court is leave required to adduce evidence. Whether the addition of this new factual issue at this stage is unfair to the appellants is a different issue, and I shall turn to that now.
+discretionary considerations
+[13] Ms. Tari advances a number of discretionary grounds in opposing leave to amend. She says that 14 years have passed since the transactions that gave rise to the assessments took place. Arachnae Management Limited, the vendor to AIRS II, has gone out of business and its principal has moved to the United States. There is no longer a source at which to search for additional documents of Arachnae. It would be difficult or impossible to establish now whether it ever made any representations, or registered the software under section 237.1 of the Act. The original search for documents, she says, was focused on documents relating to the issues of value and availability for use originally relied on by the assessor. Since then, other issues have been added, and to add yet another issue at this stage would prejudice the appellants in that they have no means available to them to rebut the allegation that the software was an unregistered tax shelter. The appellants also assert that to permit a further amendment now would inevitably cause undue delay in bringing these cases to trial, to the detriment not only of these three appellants, but also 14 others whose appeals are awaiting the outcome of these. The Loewen appeal was begun some six years ago, and the others almost five years ago. The appellants concluded their discovery of the respondent in May 2005. They wish to proceed to trial without further delay, and say that they are ready to do so. Many of the appellants are of advanced age, and I am told that two have died since these proceedings began.
+[14] In opposing the amendments, counsel relies as well on Rule 4.
+4(1) These rules shall be liberally construed to secure the just, most expeditious and least expensive determination of every proceeding on its merits.
+The proposed amendments, she argues, would add expense and delay, as well as new issues not previously addressed in preparation for trial, and thereby would deny the appellants the just and most expeditious determination of their appeals that they are entitled to.
+[15] The Respondent’s explanation of the lateness of the application to make the proposed amendments is found in the affidavit of Laura Alescio filed in support of the motions. A critical document relating to the AIRS II investment is entitled “An Opportunity to Participate in the Information Age Through the Investment in a Search and Retrieval Engine by way of a Joint Venture Investment” (the Opportunity document). It is dated December 9, 1993, and it consists of a cover page, followed by pages numbered 2 to 6, followed by Appendices I to VI. The Appendices contain 17 pages in total. It is Appendix I that counsel for the respondent argues is indicative that the software falls into the definition of “tax shelter” in section 237.1. The affidavit establishes that this Appendix I was never seen by the assessor, and that the assessor did not consider the possibility that she was dealing with an investment that was a tax shelter. This evidence was not refuted by the appellants, and I conclude that the Minister’s assessor was prevented from considering the very issue that the respondent now seeks to raise because she was provided with only seven pages of a 17-page document, one of the missing pages – Appendix I – being the critical one that spells out the cost to purchase a unit and the anticipated CCA deduction over the two-year period following acquisition.
+[16] Ms. Alescio’s affidavit establishes also that the appellants’ counsel first produced a copy of the document containing Appendix I (but not the other Appendices) to the respondent’s counsel no earlier than February 2005. The complete document, it appears, was not produced until April 2006 in response to an undertaking given by Mr. Pringle on his examination for discovery. The pleadings in these cases were closed by the middle of April 2004, following the decision of the Federal Court of Appeal that dismissed the appellant’s attack on the original Reply in the Loewen appeal.
+[17] The Respondent’s explanation of the delay in bringing this motion is that “… the Attorney General did not turn its [sic] mind to whether the investment in AIRS II is a tax shelter…”[20] until the decision of the Federal Court of Appeal in Baxter[21] was released on April 30, 2007. By May 9, 2007, counsel for the respondent had advised counsel for the appellant of her intention to bring the motion. The delay between then and October 24 is attributable to the unavailability of the appellants’ counsel.
+[18] I do not wish to be taken as condoning the two year period that it took for the Attorney General to appreciate the significance of Appendix I, and then react to it. It was the same Attorney General, after all, who had been litigating the Baxter case in this Court and in the Federal Court of Appeal since 2002. This motion should have been brought much sooner following the production of Appendix I. That said, it is obvious that if the assessor had not been furnished with an incomplete copy of the Opportunity document, then she would have been able to canvas the tax shelter issue before the reassessments were issued. Whether that is the fault of the appellants or of Arachnae is not necessarily clear on the evidence before me, but the period of delay for which the respondent is answerable began no sooner than February 2005, and it ended in May 2007.
+documentary evidence
+[19] The affidavit filed on behalf of the appellants in opposition to the motion is concerned largely with the fact that Arachnae is no longer in business and its principal, Mr. McCutcheon, has moved to the United States. All of this had happened by about the year 2000. It appears that the Appellants’ counsel has possession of such documents of Arachnae as there were to be found after these events. Certainly there is no evidence before me that suggests that any documents relevant to the tax shelter issue have disappeared or been destroyed since February 2005. It is significant, too, that the respondent will have the burden of proving the material facts that she wishes now to allege for the first time. There is no reason, therefore, to conclude that the delay between February 2005 and May 2007 has caused any prejudice to the appellants in terms of their ability to secure documents. Nor have the appellants pursued a course of conduct in advancing their appeals that they would be required to alter if the amendments were permitted.
+delay of the trial
+[20] The appellants assert that they wish to proceed to trial as soon as possible, and that it would be unfair to permit the amendment as that would occasion more delay. I do not wish to attribute the considerable delay that has taken place up to now to either party in greater degree than the other. The fact is that these cases are not at this moment ready for trial. The discovery of the appellants is not complete. As recently as October 15, 2007, counsel for the appellants acknowledged the right of the respondent to further discovery of the appellants Pringle and De Pencier, and proposed that the examinations take place in January or February 2008.
+[21] The Chief Justice ordered a year ago that the appellants produce the source code for the AIRS II software. That Order has not yet been complied with. The reason given for that is that the tapes in possession of the appellants are said to be corrupted. I was told during the hearing that, at a pre-hearing conference in June, the Order for production of it had been modified by the pre-hearing Judge, but in fact the Court docket shows that no such Order has been made. A suggestion that the parties’ experts meet to consider the feasibility of extracting information from the tapes apparently was made, but has not yet been acted upon.
+[22] Appellants’ counsel advised me during the hearing of the motions that another copy of the source code has been held by a national accounting firm under an escrow agreement since the closing date in December 1993. That firm, it seems, has not been able to produce it in response to her inquiries. At present, there is no application before the Court to amend the Chief Justice’s Order, or for directions, to resolve this issue. These appeals cannot be ready for hearing until the matter of production of the source code is resolved in one way or another.
+[23] During the hearing of the motions, I asked counsel how long she would require to examine the respondent’s representative on the new issue if I were to permit the amendment. She was unwilling to hazard an estimate. Considering that the issue whether the notes are contingent is already raised in the Replies filed, the new factual issues that the amendments would raise are whether representations were made, whether the promoter registered AIRS II as a tax shelter, and whether the appellants filed the prescribed form with the prescribed information. I see no reason why discovery on these issues could not be conducted in a day or two.
+[24] Ms. Tari suggests that the addition of the tax shelter issue would require delay of the trial until the Supreme Court decides an application for leave to appeal in the Baxter case that was filed in June 2007, and if leave is granted, then until that appeal is heard and decided. Case law is always in a state of flux; the trial courts are not required to refrain from hearing cases because they involve legal issues that may be affected by the outcome of appeals that are proceeding elsewhere.
+interests of justice
+[25] The issue that the respondent now seeks to raise in these cases is a significant one. The matter at issue in the appeals is the right of the appellants to deductions for CCA. The respondent wishes to allege that a component of that, under the Act as it stood at the relevant times, is the requirement to comply with subsection 237.1(6). To permit the amendments would enable the Court to consider the true substance of the appellants’ claims for CCA to be decided on their merits, taking all relevant provisions of the Act into account. It was in quite similar circumstances that Bowman A.C.J., as he then was, after referring to his earlier decision in Continental Bank Leasing, permitted amendments to be made to the Notices of Appeal after the trial had begun in Scavuzzo and Scavuzzo v. The Queen.[22] The trial was adjourned to permit new pleadings to be filed by both parties, and further production and discovery to take place, so that all possible grounds of appeal could be fully considered at the trial. He said at page 170:
+I can see no prejudice to the Crown that is not compensable in costs. The possibility that the appellants might succeed on the new point is not the kind of prejudice the case law contemplates in cases of this kind.
+[26] In summary, the delay in bringing these motions for some two years after Appendix I to the Proposal document was produced certainly militates against permitting the amendments, but that alone is not fatal to the motions: see Bradley Holdings Ltd v. The Queen.[23] The appellants will not be prejudiced in dealing with the new issue by that two year delay. The appeals certainly have taken far too long to reach the stage that they are at, but that delay is apparently no more attributable to the respondent than to the appellants. The respondent has apparently been fully examined for discovery, but the examinations of two of the appellants have not been completed and there are also issues remaining concerning production of the source code. To permit the amendments would be to permit all relevant provisions bearing on the appellants’ right to the claimed deductions to be considered at trial. In my view, to permit the amendments to be made will not cause prejudice to the appellants that cannot be compensated in costs.
+abuse of process
+[27] Ms. Tari advanced the argument that these motions are an abuse of process, and that they should be dismissed on that basis alone. She characterized the motions as having been brought as part of a deliberate strategy of delay on the part of counsel for the respondent, the purpose of which, she said, is to make this litigation so expensive for the appellants that they will be reluctantly driven to accept a compromise settlement. I have examined the material before me carefully for evidence to support that submission and have found none. That kind of accusation, made without foundation, is inexcusable. There has been a decline in civility in litigation in recent years that has attracted the attention of The Advocates’ Society, The Canadian Bar Association and others. It has been addressed by the Advocates’ Society in its Principles of Civility, published on the Society’s website.[24] It condemns unfounded allegations against opposing counsel of this kind. For the most part, the conduct of counsel appearing in this Court has always been in the best traditions of the bar. I would like to think that that will continue to be so, and that what occurred here is an isolated incident that will not be repeated.
+conclusion
+[28] For the foregoing reasons, the motions are allowed. The respondent shall have leave to file an amended Reply in each of these appeals in the form annexed to the Notices of Motion. The Amended Replies shall be served and filed within seven days from the date of the Order. A case management conference will be scheduled to deal with expediting any further production and discovery that may be required.
+costs
+[29] Ms. Tari’s submission is that the motions should be dismissed, and that the appellants should have their costs of the motions on a solicitor and client basis, and that if the motions are allowed then the appellants should have the costs of the motions and any costs occasioned by the amendments on a solicitor and client basis. She relies on the decision of Bonner J. in Bradley Holdings Ltd.[25] He said at paragraphs 19-20:
+19 Mr. Silver points out that this case was launched more than three years ago. What is in question is the amendment to an already amended Reply. The form of the Amended Amended Reply attached to the Notice of Motion is not the same as the Amended Amended Reply which the Respondent sought to file only a few weeks ago. In the course of the hearing of this motion, the Respondent found it necessary to seek further amendments or further changes to paragraph 7 of the Amended Amended Reply to make it comprehensible. Following the hearing of last Friday of the motion to amend, he sought a further clarification in the form of a corrected paragraph 27. All of this happened following discoveries and at a time when the case was apparently ready for trial and the hearing date had been fixed.
+20 No doubt the principle underlying costs on a party-and-party scale is that the costs should not form an undue burden on the loser. I recognize too that a party acting reasonably may be obliged to amend its pleadings if investigation during preparation of the case or if answers on discovery paint the case in a fresh light. Such amendments are, I think, normal and usual. Here however, nothing of the sort is suggested in the affidavit filed in support of the motion. It would seem, so far as I can tell, that the amendment is required simply because the Respondent failed to properly analyze his case in a timely fashion. All of that should have been done long before this application for amendment was made. In my view, the circumstances here meet the scandalous and outrageous conduct threshold for the award of costs on a solicitor and client scale. Costs of this motion and costs thrown away will be awarded on that scale.
+Were it not for the submission to which I have referred at paragraph 27 above, I would be inclined to award costs of the motions and costs of any additional production and discovery required as a result of the amendments, to the appellants, but on a party and party basis. Unlike Bradley Holdings, this is not a case of the respondent failing to analyze the case properly in a timely way. The opportunity to analyze the case properly only arose with the production of Appendix I in 2005. The assessor had no such opportunity, and while I do not condone the delay between 2005 and 2007 in bringing the motions, the fact remains that much of the added cost of the litigation to all parties from the amendments is the result of the failure to produce Appendix I along with the rest of the document. Under these circumstances, I consider that the parties should each bear their own costs of the motions. Any costs attributable to the delay in bringing the motions since the production of Appendix I shall be to the appellants, in the cause, on a party and party basis.
+Signed at Ottawa, Canada, this 20th day of November, 2007.
+“E.A. Bowie”
+Bowie J.
+ADDENDUM
+After these Reasons had been prepared, but before they were signed, counsel for both parties communicated with the Registry by letter. To put it shortly, counsel for the appellants asserted that there was newly acquired evidence in her possession that would be germane to the issues dealt with at paragraphs 15 to 18 of these Reasons. She furnished a copy to counsel for the respondent, who did not consider that it had any bearing on the issues before me. When I was advised of this correspondence, I directed the Registry to advise both counsel that I would delay issuing my Orders for 10 days to give any of the parties who chose to do so the opportunity to put a Motion before me to reopen these motions for the purpose of permitting additional evidence and argument. Those 10 days have now expired, and no party has chosen to do so. I therefore am releasing the Orders, and the Reasons for them, today.
+Signed at Ottawa, Canada, this 20th day of November, 2007.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2007TCC703
+COURT FILE NOS.: 2001-3839(IT)G, 2003-446(IT)G
+and 2003-1073(IT)G
+STYLES OF CAUSE: CHARLES B. LOEWEN, ANDREW PRINGLE and MICHAEL DE PENCIER and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 24, 2007
+REASONS FOR ORDERS BY: The Honourable Justice E.A. Bowie
+DATE OF ORDERS: November 20, 2007
+APPEARANCES:
+Counsel for the Appellants:
+A. Christina Tari
+Counsel for the Respondent:
+Annie Paré and Elizabeth Chasson
+COUNSEL OF RECORD:
+For the Appellant:
+Name: A. Christina Tari
+Firm: Richler and Tari
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Tax Court of Canada Rules (General Procedure), S.O.R./90-688a.
+[2] Rules of Civil Procedure, R.R.O. 1990, Reg. 194.
+[3] 93 DTC 298 @ p. 302.
+[4] [1993] 2 C.T.C. 213 @ 219.
+[5] [2004] 2 F.C. 459; 2003 FCA 488.
+[6] Baxter v. The Queen, [2006] 3 C.T.C. 2427; 2006 TC 230; rev. 2007 FCA 172.
+[7] This is the wording for 1994 and it is not materially different from 1993 for present purposes.
+[8] 2006 TCC 117.
+[9] [1998] 2 S.C.R. 358.
+[10] 2006 DTC 2305; rev. 2007 DTC 5129.
+[11] [2000] 4 F.C. 616.
+[12] New St. James Ltd. v. M.N.R., [1966] Ex.C.R. 977.
+[13] Supra, note 9 @ paras. 21-4.
+[14] [2004] 5 C.T.C. 98.
+[15] [2004] 4 F.C. 3.
+[16] 2007 FCA 222.
+[17] [1999] 3 C.T.C. 537.
+[18] Loewen, supra, note 13, @ paras. 46-8.
+[19] Supra, note 14.
+[20] Affidavit of Laura Alescio, para. 4.
+[21] Supra, note 5.
+[22] 2005 DTC 169.
+[23] [2004] 3 C.T.C. 2432.
+[24] http://www.advocates.ca/pdf/100_Civility.pdf
+[25] Supra, note xx.

@@ -1,0 +1,347 @@
+Title: Sakitawak Development Corporation c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29280/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-529-29280-sakitawak-development-corporation-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-12-12
+
+# Sakitawak Development Corporation c. La Reine
+
+- Citation: 2008 CCI 529
+- Decision date: 2008-12-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7081, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sakitawak Development Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-12-12
+Référence neutre
+2008 CCI 529
+Numéro de dossier
+2002-4838(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4838(IT)G
+ENTRE :
+SAKITAWAK DEVELOPMENT CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 février 2008 à Saskatoon (Saskatchewan).
+Observations écrites supplémentaires reçues de
+l’appelante et de l’intimée le 22 avril 2008.
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Avocat de l’appelante :
+Me Ron Cherkewich
+Avocat de l’intimée :
+Me Lyle Bouvier
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté de la nouvelle cotisation établie sous le régime de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 1999 est admis, avec dépens, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que le règlement municipal no 02 (Bylaw No. 02) constitue une « convention écrite » au sens de l’alinéa 149(1.2)a) et que, par conséquent, l’appelante a droit à l’exemption fiscale prévue à l’alinéa 149(1)d.5) de la Loi.
+Signé à Ottawa, Canada, ce 12e jour de décembre 2008.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 3e jour de juin 2009.
+François Brunet,réviseur
+Référence : 2008CCI529
+Date : 20081212
+Dossier : 2002-4838(IT)G
+ENTRE :
+SAKITAWAK DEVELOPMENT CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Il s’agit, dans le présent appel, de décider si l’appelante, une administration municipale, a droit à l'exemption fiscale prévue par les alinéas 149(1)d.5) et 149(1.2)a) de la Loi de l’impôt sur le revenu (la « Loi ») relativement au revenu gagné en dehors des limites géographiques de la municipalité ayant procédé à sa constitution.
+[2] Le présent appel a été entendu à partir de l'exposé des moyens de droit invoques, d’un énoncé conjoint des faits et d’un recueil conjoint de documents. Les faits admis sont les suivants :
+[TRADUCTION]
+1. Depuis le 1er octobre 1983, Ile a la Crosse (« IOX ») est une municipalité du Nord aux termes de la Northern Municipalities Act.
+2. Sakitawak Development Corporation (« SDC » ou l’« appelante ») était exploitée sous le régime de la Northern Municipalities Act, art. 70 et 111.7[1].
+3. L’article 111.7 est une modification apportée à la Northern Municipalities Act qui a pris effet en 1988‑1989 et qui permet aux municipalités du Nord de constituer des sociétés de développement municipal.
+4. Le District administratif du Nord (Northern Administration District) (le « DAN ») comprend pour l’essentiel l’ensemble du Nord de la Saskatchewan (excluant, pour des raisons administratives seulement, les régions géographiques comprenant les réserves indiennes, les municipalités du Nord et, dans un cas, un champ d’exercice de bombardement militaire).
+5. Le 23 janvier 1998, IOX a adopté, conformément à la Northern Municipalities Act, le règlement municipal no 102[2] confirmant la qualité de SDC à titre de société de développement municipal comme le prévoit l’art. 111.7 de ce texte législatif.
+6. La plus grande partie du revenu réalisé par l’appelante depuis sa constitution a été gagnée en dehors des limites géographiques d’IOX dans le district qui est désigné, sur le plan municipal et géographique, comme le DAN. Le revenu que l’on tente d'imposer vise l’année 1999. Le DAN est constitué de terres provinciales.
+7. Avant 1999, l’appelante bénéficiait de l'exemption fiscale en prévue par l’alinéa 149d) de la Loi de l’impôt sur le revenu (la « Loi »).
+[3] Après l’audition de l’appel, les parties, à mon invitation, ont présenté des observations écrites sur la question suivante :
+[TRADUCTION]
+Le règlement municipal no 2 signé le 23 janvier 1998 et présenté comme pièce dans la présente instance constitue‑t‑il une « convention écrite » au sens de l’alinéa 149(1)d.5) et de l’alinéa 149(1.2)a) de la Loi de l’impôt sur le revenu?
+Les faits
+[4] Ile-a-la-Crosse est un village situé dans le Nord de la Saskatchewan, dans une région de la province que la Northern Municipalities Act[3] désigne comme le [TRADUCTION] « District administratif du Nord de la Saskatchewan »[4] (Northern Saskatchewan Administration District). Le District administratif du Nord de la Saskatchewan comprend un vaste territoire composé de terres provinciales[5] qui correspond, pour ainsi dire, à la moitié septentrionale de la Saskatchewan entre les frontières que partage cette province avec l’Alberta et le Manitoba et, au nord, avec les Territoires du Nord‑Ouest. Sa limite sud consiste en la ligne qui traverse la province au nord des collectivités de Meadow Lake, de Prince Albert et de Nipawin[6].
+[5] La Northern Municipalities Act prévoit la possibilité de créer des municipalités exerçant des activités à l’intérieur du District administratif du Nord de la Saskatchewan. L'expression [TRADUCTION] « municipalité du Nord »[7] (« northern municipality ») y est définie comme [TRADUCTION] « une ville[8], un village du Nord[9], un hameau du Nord[10] ou le district »[11]. Selon l’alinéa 2(1)i), le terme [TRADUCTION] « district » (district) désigne [TRADUCTION] « le District administratif du Nord de la Saskatchewan à l’exclusion des zones situées à l’intérieur des limites d’une ville, d’un village du Nord ou d’un hameau du Nord ». Il s’ensuit qu’il existe une distinction juridique entre le « District administratif du Nord de la Saskatchewan » et le « district ». En effet, le premier consiste en la totalité de la région précisée du Nord de la Saskatchewan tandis que le second ne désigne que l’une des municipalités du Nord situées à l’intérieur du premier. (La municipalité du Nord qui constitue le district est ci‑après désignée comme le « District »). Les limites géographiques du District ne peuvent être établies qu’en fonction des limites municipales des autres municipalités du Nord situées dans le District administratif du Nord de la Saskatchewan, des villes, des villages du Nord et des hameaux du Nord.
+[6] En 1983, conformément à la Northern Municipalities Act, le village du Nord de l’Ile-a-la-Crosse est devenu la municipalité du Nord de l’Ile-a-la-Crosse, avec un maire élu, un conseil municipal et divers fonctionnaires. Par contre, la municipalité du Nord du District est administrée par la province de la Saskatchewan par l’entremise de sa direction des services municipaux du Nord[12]. Son « conseil »[13] est le ministre provincial responsable du Nord de la Saskatchewan et son « secrétaire municipal »[14] est l’administrateur provincial nommé par ce ministre. À titre d’exemple, en 2006, Randy Braaten, directeur des services municipaux du Nord du ministère des relations gouvernementales de la Saskatchewan, a été nommé au poste de secrétaire municipal du District par un arrêté ministériel daté du 19 décembre 2006[15].
+[7] Les pouvoirs et les obligations des conseils municipaux sont énoncés dans la partie VIII de la Northern Municipalities Act. L’article 70 de ce texte législatif est pertinent en l’espèce et il dispose que :
+[TRADUCTION]
+70(1) Sous réserve du paragraphe (3) et des restrictions expresses prévues dans la présente loi ou dans d'autres lois, les municipalités du Nord ont tous les pouvoirs suivants :
+a) se livrer à des entreprises commerciales ou industrielles, à l’intérieur ou à l’extérieur de la municipalité du Nord;
+b) participer d'une autres personnes, dans le cadre d’une société ou d’autres formes de partenariat que le conseil estime appropriée, à des entreprises commerciales ou industrielles, à l’intérieur ou à l’extérieur de la municipalité du Nord;
+c) constituer une société en vue de se livrer à des entreprises commerciales ou industrielles, à l’intérieur ou à l’extérieur de la municipalité du Nord;
+d) acquérir des actions d’une société engagée dans des entreprises commerciales ou industrielles.
+(2) Aux fins de la présente loi, l’activité exercée par une municipalité du Nord conformément au paragraphe (1) constitue une fin municipale.
+[8] Au cours de la session législative 1988‑1989, le gouvernement de la Saskatchewan a modifié la Northern Municipalities Act pour permettre aux municipalités du Nord, sous réserve de l’approbation du ministre provincial, de prendre un règlement portant constitution d’une société de développement économique. Suivant le paragraphe 111.7(3), la municipalité du Nord [TRADUCTION] « doit soumettre » le règlement au ministre, lequel jouit, selon le paragraphe 111.7(4), du plein pouvoir discrétionnaire de l’approuver ou non. Les objets de cette société sont énoncés au paragraphe 111.7(2) :
+[TRADUCTION]
+(2) Malgré les dispositions de la loi en vertu de laquelle la société est constituée, les objets de la société constituée en application du paragraphe (1) sont les suivants :
+a) définir les possibilités de développement économique et social, de même qu’élaborer et modifier une stratégie ou un plan de développement économique et social visant la municipalité du Nord ou les parties à la convention;
+b) établir et maintenir la communication avec le gouvernement du Canada, le gouvernement de la Saskatchewan et leurs organismes respectifs afin de connaître et d’utiliser les programmes qu’offrent ces gouvernements et organismes et qui sont susceptibles de promouvoir le développement économique et social dans le Nord de la Saskatchewan;
+c) établir et maintenir la communication avec les municipalités du Nord et d’autres organismes en ce qui touche le développement économique et social du Nord de la Saskatchewan;
+d) établir et réaliser des programmes économiques et sociaux au profit des personnes résidant dans le Nord de la Saskatchewan;
+d.1) établir et exercer des activités industrielles et commerciales visant à promouvoir le développement économique et social dans le Nord de la Saskatchewan;
+e) réaliser les autres objets liés au développement économique et social du Nord de la Saskatchewan et prévus par règlement.
+[9] Lorsque ces dispositions modificatrices ont été présentées à l’assemblée législative de la Saskatchewan, le ministre alors responsable a précisé que l’on avait conféré ces pouvoirs aux municipalités du Nord pour les raisons suivantes :
+[TRADUCTION]
+[…]
+Monsieur le Président, je souhaite attirer l’attention des députés sur une autre disposition du présent projet de loi. L’article 20 confère aux municipalités du Nord le pouvoir de créer des sociétés de développement économique ou de participer à leur création. Dans le Sud de la province, les municipalités urbaines et rurales sont habilitées par la Rural Development Act à participer conjointement à ce genre de société. En l’absence d’une structure municipale rurale, le modèle appliqué dans le Sud de la Saskatchewan ne peut être suivi dans le Nord de la province compte tenu du vaste éloignement des collectivités qui s’y trouvent.
+Jusqu’à maintenant, les municipalités du Nord ont fait preuve d’ingéniosité et d’un esprit novateur pour favoriser les activités économiques dans leurs collectivités, mais la législation actuelle les a empêchées de concrétiser leurs idées en des activités permanentes qui se traduisent par des avantages à long terme. Les modifications proposées offrent un mécanisme par lequel les particuliers, conjointement avec d’autres municipalités du Nord ou d’autres personnes ou municipalités du Nord autorisées, pourront entreprendre des activités économiques à long terme qui procureront des avantages durables à la collectivité et à ses résidents[16]. [Non souligné dans l’original.]
+[10] En 1990, la municipalité du Nord de l’Ile-a-la-Crosse s’est prévalue de ces modifications pour constituer l’appelante en société[17].
+[11] En 1991, certaines modifications techniques ont été apportées aux dispositions relatives aux administrations municipales prévues dans La Northern Municipalities Act. Au moment de présenter ces modifications à l’assemblée législative de la Saskatchewan, la nouvelle ministre, l’honorable Carol Carson, a réitéré la politique sous‑jacente aux modifications initiales visant les sociétés de développement municipal :
+[TRADUCTION]
+[…]
+Depuis la modification de la Loi en 1988, plusieurs sociétés de développement économique du Nord ont été établies dans cette région. À l’heure actuelle, leurs activités intéressent principalement le domaine de la foresterie dans le Nord de la Saskatchewan. Et, si j’ai bien compris, elles exercent aussi des activités économiques touchant la construction, l’exploitation minière et l’utilisation d’autres ressources du Nord [18].
+[12] Pendant les débats de l’assemblée législative, le député de Cumberland, circonscription du Nord de la Saskatchewan, a fait état des différentes sortes d’activités qui étaient déjà exercées dans cette région :
+[TRADUCTION]
+[…]
+À titre de député de Cumberland, j’appuie vigoureusement cette modification particulière. Et je pense qu'en ce qui concerne un grand nombre de ces activités, qu’il s'agisse d’exploitation minière, de développement forestier, de pêche ou de riz sauvage, que sais-je, les personnes qui y participent seront satisfaites de cette modification[19].
+[13] Plus tard, devant le comité plénier, la ministre Carson a répondu ainsi à la question suivante :
+[TRADUCTION]
+[…]
+M. Martens : M. le Président, ma prochaine question vise les changements apportés à la structure. Je sais qu’il y a certaines […] certaines des collectivités il y a – comme Patuanak – une partie du village est située à l’extérieur de la réserve et l’autre à l’intérieur. Et la partie qui se trouve à l’intérieur obtient des subventions publiques fédérales tandis que la partie située à l’extérieur relève exclusivement de la responsabilité du gouvernement provincial.
+A-t-on l’intention, dans le cadre des négociations, d’examiner certains de ces aspects puisqu’ils touchent aux avantages susceptibles de découler du développement du potentiel industriel si le gouvernement fédéral y jouait un rôle plus direct?
+Hon. Mme Carson : M. le Président, c’est une bonne question, nous en convenons. Je pense que cette loi a pour effet de rendre possible la mise sur pied de coentreprises entre les collectivités situées à l’intérieur de la municipalité et les collectivités situées à l’extérieur de celle‑ci.
+Cette question sera certainement examinée et je comprends ce point de vue[20]. [Non souligné dans l’original.]
+[14] Depuis sa constitution, l’appelante exerce des activités économiques dans le District. Quelque temps avant le 23 janvier 1998, le ministre compétent a informé la municipalité du Nord de l’Ile‑a‑la‑Crosse qu’on avait omis, [TRADUCTION] « par inadvertance »[21], de prendre le règlement requis par le paragraphe 111.7(2) de la Northern Municipalities Act[22]. Le règlement municipal no 02 a donc été pris afin, notamment, de confirmer que l’appelante était bien une « société de développement municipal » au sens de l’article 111.7 de la Northern Municipalities Act[23].
+[15] C’est dans ce contexte que l’appelante tirait en 1999 un revenu des activités économiques qu’elle exerçait dans le District. Au cours de toutes les années précédentes, son revenu avait été exonéré d’impôt en application de l’alinéa 149(1)d) de la Loi de l’impôt sur le revenu. Toutefois, en 1998, les dispositions de ce texte législatif visant les administrations municipales ont été modifiées. Lorsqu’il a établi la cotisation à l’égard du revenu de l’appelante pour 1999, le ministre du Revenu national a déterminé que l’appelante n’était pas exonérée d’impôt parce qu’elle ne satisfaisait pas aux nouveaux critères.
+[16] N’eût été des modifications apportées à la Loi de l’impôt sur le revenu, le revenu que l’appelante avait tiré de ses activités en 1999 aurait continué d’être exonéré d’impôt. Cependant, il va sans dire que, peu importe les règles de droit antérieures, la dette fiscale du contribuable pour une année donnée doit faire l’objet d’une cotisation conforme aux dispositions alors en vigueur.
+Les textes législatifs
+[17] Selon le droit antérieur, le lieu où une administration municipale exerçait ses activités génératrices de revenu ne constituait pas un facteur pertinent pour décider si elle était ou non exonérée d’impôt. L’ancienne disposition pertinente était l’alinéa 149(1)d), dont voici les parties pertinentes :
+149.(1) Exemptions diverses. Aucun impôt n’est payable en vertu de la présente partie, sur le revenu imposable d’une personne, pour la période où cette personne était :
+[…]
+d) Administrations municipales ou provinciales – une société […] dont au moins 90 % des actions ou du capital appartenaient à […] une municipalité canadienne […]
+[18] Or, selon le nouveau texte, l’admissibilité des administrations municipales à une exemption fiscale a été soumise à une deuxième condition. En effet, l’alinéa 149(1)d.5) de la Loi dispose :
+149.(1) Exemptions diverses. Aucun impôt n’est payable en vertu de la présente partie, sur le revenu imposable d’une personne, pour la période où cette personne était :
+[…]
+d.5) Administrations municipales – sous réserve des paragraphes (1.2) et (1.3), une société, commission ou association dont au moins 90 % du capital appartenait à une ou plusieurs municipalités du Canada, pourvu que le revenu de la société […] pour la période provenant d’activités exercées en dehors des limites géographiques des municipalités ne dépasse pas 10 % de son revenu pour la période ; [Non souligné dans l’original.]
+[…]
+[19] L’alinéa 149(1)d.5) doit être lu de concert avec l’alinéa 149(1.2)a) de la Loi. Les parties pertinentes de cette disposition disposent :
+(1.2) Revenu exclu. Pour l’application des alinéas (1)d.5) […], le revenu d’une société […] provenant d’activités exercées en dehors des limites géographiques d’une municipalité ne comprend pas le revenu provenant d’activités exercées, selon le cas :
+a) aux termes d’une convention écrite entre :
+(i) d’une part, la société […],
+(ii) d’autre part, Sa Majesté du chef […] d’une province […],
+dans les limites géographiques suivantes :
+[…]
+(iv) si elle [la convention] est conclue avec Sa Majesté du chef d’une province […], celles de la province,
+[…]
+[20] Par conséquent, lorsqu’elle tire plus de 10 pour 100 de son revenu d’activités qu’elle exerce en dehors des limites géographiques de sa municipalité, l'administration municipale peut néanmoins être exonérée d’impôt si elle est en mesure d’établir que ces activités étaient exercées aux termes d’une « convention écrite » au sens de l’alinéa 149(1.2)a).
+La thèse de l’intimée
+[21] L’intimée convient que, comme elle appartenait à 100 pour 100 à la municipalité du Nord de l’Ile‑a‑la‑Crosse, l’appelante répond aux exigences relatives à la propriété du capital fixées à l’alinéa 149(1)d.5). Cependant, comme plus de 10 pour 100 (d'ailleurs, presque la totalité) de son revenu en 1999 provenait d’activités exercées en dehors des limites géographiques de la municipalité du Nord de l’Ile‑a‑la‑Crosse, l’appelante ne répond pas au deuxième volet du critère. L’alinéa 149(1.2)a) joue donc obligatoirement. Selon l’intimée, l’appelante ne peut utilement invoquer cette disposition puisqu’en 1999, il n’existait aucune « convention écrite » de quelque nature que ce soit entre celle-ci et la province de la Saskatchewan.
+[22] L’intimée soutient que, selon une interprétation correcte de l’alinéa 149(1.2)a), le sens du terme « convention écrite » doit être restreint à un contrat en bonne et due forme qui est conclu « entre » la société de développement municipal et l’autorité extérieure compétente, qui nomme ces dernières à titre de « parties » et qui est signé par elles. L’intimée soutient en outre que la convention écrite doit définir chacune des activités pertinentes pour que le revenu en provenant soit exonéré en application de l’alinéa 149(1.2)a).
+[23] Selon ma lecture de l’alinéa 149(1.2)a), il ne comporte pas ces exigences supplémentaires. À l’exception du fait que cette interprétation favorise sa cliente, l’avocat de l’intimée n’a invoqué aucun fondement susceptible de l'étayer. Le législateur aurait pu libeller cette disposition de sorte qu'il soit imposé au contribuable de telles conditions; cependant il a choisi de ne pas le faire. Selon son libellé actuel, l’alinéa 149(1.2)a) fait simplement état d’une « convention écrite », sans aucun des éléments que l’intimée tente instamment d’y rattacher.
+La thèse de l’appelante
+[24] L’appelante soutient d’abord qu’elle peut (soit de son propre chef, soit à titre de mandataire de la municipalité du Nord de l’Ile‑a‑la‑Crosse) invoquer l’exemption qui est accordée à la « municipalité » à l’alinéa 149(1)c) de la Loi. Je conviens avec l’intimée que ce moyen ne peut être retenu. Comme la Loi contient des dispositions distinctes pour le traitement fiscal des municipalités, d’une part, et des administrations municipales, de l’autre, la question de l'imposabilité de l’appelante doit être tranchée conformément à l’alinéa 149(1)d.5), disposition qui vise expressément les administrations municipales.
+[25] À titre subsidiaire, l’appelante fait valoir que la pièce A‑4, soit une entente écrite signée le 4 février 2008, constitue une « convention écrite » au sens de l’alinéa 149(1.2)a). Environ deux semaines avant l’audition du présent appel, M. Braaten, représentant la province de la Saskatchewan en sa qualité de secrétaire de la municipalité du Nord de District, et les signataires autorisés des municipalités du Nord de l’Ile‑a‑la‑Crosse et de Buffalo Narrows ainsi que leur administration municipale respective ont signé la pièce A‑4. Dans ce document, les parties font état de leur intention de confirmer par écrit, entre autres, l'entente conclue entre l’appelante et la province de la Saskatchewan selon laquelle l’appelante exerçait, exerce et continuera d’exercer ses activités génératrices de revenu dans la municipalité du Nord de District. M. Braaten était présent à l’audition du présent appel, de même que M. Favel, maire du village du Nord de l’Ile‑a‑la‑Crosse, M. Woods, maire du village du Nord de Buffalo Narrows, et M. Eddy, directeur général de la société de développement municipal de Buffalo Narrows.
+[26] L’appelante soutient que la pièce A-4 constitue une « convention écrite » au sens de l’alinéa 149(1.2)a). Il s’agit d’une entente écrite qui a été conclue entre l’appelante et la province de la Saskatchewan et, en réponse à l’interprétation que l’intimée a donnée de l’alinéa 149(1.2)a), qui a été « signée » par les « parties ». Bien qu’elle n’ait été signée que le 4 février 2008, la clause 4 de la pièce A‑4 prévoit que ses stipulations s’appliquent rétroactivement au 31 décembre 1997, soit bien avant les modifications apportées aux dispositions relatives aux administrations municipales. De plus, la clause 1 de cette pièce exprime l'entente entre la province de la Saskatchewan et l’appelante à propos des activités exercées par celle‑ci dans le District :
+[TRADUCTION]
+EN CONSÉQUENCE, les parties, conformément aux dispositions du NMA et, sans restreindre ce qui précède, de son article 131, à titre onéreux et en contrepartie des engagements réciproques prévus aux présentes, et avec l’intention d’être liées par ceux‑ci, conviennent de ce qui suit :
+RECONNAISSANCES ET ENTENTES :
+1. Le District accepte et confirme que IOX et son administration municipale, SDC, et BN et sa société de développement municipal, BNDC, peuvent continuer d’exercer les activités visées à l’article 70 dans le DANS aux fins énoncées aux articles 70 et 111.7 du DAN.
+2. La présente convention a pour condition que IOX, SDC, BN et BNDC respectent l’ensemble des exigences prévues par la Northern Municipalities Act et, sans restreindre ce qui précède, par l’article 70, l’article 111.7 et le paragraphe 111.7(3) selon lesquels de règlement municipal autorisant la création d’une société de développement municipal doit être approuvé par le ministre des Affaires municipales.
+3. Les parties conviennent, aux fins de la présente entente, que le terme « activités » en ce qui concerne celles qui sont exercées dans le DANS englobe la poursuite et l’expansion des activités commerciales et d’affaires actuelles, notamment dans les secteurs de l’exploitation minière, de la foresterie, de la fibre ligneuse, de l’excavation, de la construction, de l’hébergement, du transport et de la pêche, ainsi que la fourniture de la main‑d’œuvre, d’infrastructures et de services destinés à ces secteurs et à ces activités industrielles au sein du DANS, le tout en vue de mettre en oeuvre les objets énoncés à l’article 70 du NMA.
+[…]
+[27] L’intimée rejette la thèse de l’appelante parce que, premièrement, même si la pièce A‑4 se présente sous la forme d’un contrat, il ne s’agit pas d’une « convention écrite » puisqu’elle ne précise pas chacune des activités exercées par l’appelante dans le District. Pour les raisons susmentionnées, je rejette l'idée qu’une « convention écrite » au sens de l’alinéa 149(1.2)a) doit nécessairement comporter un tel degré de précision. À mon avis, la pièce A‑4 est suffisamment claire en ce qui concerne les activités génératrices de revenu que l’appelante exerçait en 1999. En revanche, le deuxième volet de la thèse de la Couronne a davantage de poids : la pièce A‑4 n’est pas une « convention écrite » au sens de l’alinéa 149(1.2)a) parce qu’elle n’existait pas en 1999. Le moment pertinent pour décider si l’appelante a satisfait aux critères relatifs à l’exemption est l’année d’imposition pour laquelle on demande l’exemption. La stipulation touchant l’application rétroactive qui figure dans la pièce A‑4 ne change rien au fait qu’en 1999, le document n’existait pas encore. La pièce A‑4 ne constitue donc pas en soi une « convention écrite » au sens de l’alinéa 149(1.2)a). L’effet de ce document sera toutefois examiné plus loin.
+Les observations écrites relatives au règlement municipal no 02
+[28] Enfin, voici la réponse intégrale de l’intimée sur le point de savoir si le règlement municipal no 02 constitue une « convention écrite » au sens de l’alinéa 149(1.2)a) :
+[TRADUCTION]
+L’intimée soutient que le règlement municipal no 2 n’est pas une convention écrite entre l’appelante et la province au sens de l’alinéa 149(1)d.5), puisque l’appelante n’est pas partie à la convention. Il s’agit d’un règlement municipal pris par la municipalité du Nord de l’Ile a la Crosse afin de réorganiser l’appelante en administration municipale en application de l’article 111.7 de la Northern Municipalities Act.
+[29] Naturellement, l’appelante avance la thèse contraire. Elle estime que l’expression « aux termes d’une convention écrite entre » l’appelante et la province de la Saskatchewan doit être interprétée comme si elle était libellée de la façon suivante : [TRADUCTION] « avec le consentement écrit de » la province de la Saskatchewan quant aux activités de l’appelante. Selon cette interprétation, et compte tenu de la situation particulière de l’appelante, le règlement municipal no 02 constitue une convention écrite au sens de l’alinéa 149(1.2)a).
+[30] Dans ses observations supplémentaires, l’appelante cite les remarques suivantes faites dans la décision Bank of Nova Scotia v. Canada (Minister of National Revenue)[24]. Elles portent sur les principes régissant l’interprétation des lois :
+[TRADUCTION]
+Selon Driedger in Construction of Statutes, 3e éd. (Londres, Butterworths, 1994), à la page 131, la règle moderne d’interprétation des lois est la suivante :
+Il n’existe qu’une seule règle d’interprétation moderne : les tribunaux sont tenus d’interpréter un texte législatif dans son contexte global, en tenant compte de l’objet du texte en question, des conséquences des interprétations proposées, des présomptions et des règles spéciales d’interprétation, ainsi que des sources acceptables d’aide extérieure. Autrement dit, les tribunaux doivent tenir compte de tous les indices pertinents et acceptables du sens d’un texte législatif. Cela fait, ils doivent ensuite adopter l’interprétation qui est appropriée. L’interprétation appropriée est celle qui peut être justifiée en raison a) de sa plausibilité, c’est‑à‑dire sa conformité avec le texte législatif, b) de son efficacité, dans le sens où elle favorise la réalisation de l’objet du texte législatif, et c) de son acceptabilité, dans le sens où le résultat est raisonnable et juste [25].
+[31] Dans l’arrêt Québec (Communauté urbaine) c. Corp. Notre‑Dame de Bon‑Secours, la Cour suprême du Canada cite également Driedger au sujet de l’interprétation des textes fiscaux :
+[…] l’interprétation des lois fiscales devrait être soumise aux règles ordinaires d’interprétation. Driedger, à la p. 87 de son volume Construction of Statutes (2e éd. 1983), en résume adéquatement les principes fondamentaux : [traduction] « … il faut interpréter les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur »[26].
+[32] Le point de départ étant donc le sens ordinaire de l’expression « convention écrite », je retiens l’argument de l’appelante selon lequel, même si ces termes peuvent notamment être interprétés comme le soutient l’intimée, leur sens suivant le dictionnaire est en outre suffisamment large pour englober la notion de consentement écrit :
+[TRADUCTION]
+agree’ment [convention]
+Prononciation : \ə-ˈgrē-mənt\
+Fonction : nom
+Date : 15e siècle
+1 a : le fait de s’entendre b : concordance d’opinion, d’action ou de caractère : CONCORDE
+2 a : entente quant à une ligne de conduite b : ACCORD, TRAITÉ
+3 a : contrat dûment signé ayant force obligatoire b : libellé ou instrument donnant forme à un tel contrat[27].
+[33] Je retiens également la thèse de l’appelante selon laquelle il n’y a pas lieu de restreindre le sens du terme « convention » à celui de contrat en bonne et due forme. Elle s'appuie sur les observations suivantes faites dans la décision Bow River Pipe Lines Ltd. v. Canada[28], auquelles renvoie M. le juge Bowie dans la décision General Motors of Canada Ltd. v. Canada[29]:
+Quel est donc l’objet ou le but [de la disposition transitoire]? À mon avis, si un contribuable a consacré du temps ou de l’argent, ou du temps et de l’argent, dans l’intention de se fonder sur [l’alinéa abrogé] dans la conduite de ses affaires, l’abrogation de la disposition ne s’applique pas lorsque cette intention se manifeste par des conventions écrites, qui ne sont pas nécessairement de nature contractuelle, mais qui ont été conclues avant le 4 décembre 1985 [...]. Cependant, ces conventions doivent déclencher la prise de mesures qui mènent directement à la conclusion de conventions du genre décrit aux alinéas 26(5)a), b) et c) après cette date, lesquelles donnent naissance à des obligations contractuelles. Je ne crois pas que la mention d’une convention dans une loi ou dans un autre contexte signifie que la convention doit créer des droits et obligations de nature contractuelle[30]. [Non souligné dans l’original.]
+[34] Cette question a précisément été examinée et la réponse confirmée par la Cour d’appel fédérale dans l’arrêt Bow River Pipe Lines, où l’on déclare que ce principe avait déjà été « précisé »[31] dans l’arrêt Canada v. Trade Investments Shopping Centre Ltd.[32] du même tribunal. Quoiqu’elle ait en définitive conclu que la contribuable n’avait pas été tenue d’acheter le bien avant l’expiration du délai prévu par la loi, la Cour d’appel a expressément accepté la conclusion tirée par le juge de première instance dans la décision Bow River Pipe Lines voulant qu’une série de lettres échangées entre les parties ait suffi à constituer une « convention écrite » même si, en date de l’échéance fixée dans la disposition transitoire, certaines conditions relatives à la création d’une obligation contractuelle d’acquérir le bien n’avaient pas encore été remplies.
+[35] Dans la jurisprudence General Motors, la contribuable, pour être en mesure de se prévaloir d’une disposition transitoire, devait établir que certains biens avaient été acquis « conformément à une obligation écrite » avant l’expiration du délai prévu par la loi. Après avoir examiné les observations tirées de la décision Bow River Pipe Lines citée plus haut, le juge Bowie établit une distinction entre le document invoqué par la contribuable et la série de lettres en cause dans l'affaire Bow River Pipe Lines. Il a conclu que le libellé du document qui lui était présenté « ne se rapportait nullement à l’acquisition, par l’appelante »[33], du bien en cause et que, par conséquent, il ne constituait pas une « obligation écrite » au sens de la disposition transitoire.
+[36] Pour se prononcer, le juge Bowie a en outre examiné la jurisprudence Trade Investments; la disposition transitoire à interpréter soustrayait à l’application des nouvelles dispositions législatives les « […] dispositions [de certains biens] effectuées conformément à une convention écrite conclue au plus tard »[34] à une date donnée. Il s’agissait de savoir si un bail, qui comportait une clause d’option d’achat visant un centre d’achats, constituait une « convention écrite » au sens des dispositions législatives applicables. Selon la thèse avancée par le ministre (et à laquelle, « strictement parlant »[35], la Cour a souscrit), la convention écrite en vertu de laquelle la disposition du centre d’achats a réellement été effectuée était la convention d’achat signée au moment où l’option prévue dans le bail a finalement été levée, événement qui s’est produit bien après l’expiration du délai fixé par la disposition transitoire.
+[37] Monsieur le juge Noël (tel était alors son titre) a rejeté l’interprétation restreinte fermement défendue par le ministre. Il a plutôt choisi d’examiner l’objet de la disposition transitoire pour ensuite décider si la clause d’option d’achat prévue dans le bail respectait cet objet, ce qui aurait permi à la contribuable de se prévaloir de la disposition transitoire. Après avoir conclu que « […] [c]’est exclusivement dans le but de protéger un éventuel vendeur qui s’était obligé contractuellement sous le régime de l’ancienne loi que la mesure transitoire fut promulguée […] »[36], la Cour s’est demandée si le bail avait donné naissance, au regard de la contribuable, la venderesse du centre d’achats, à une obligation contractuelle irrévocable d’en disposer, même si, au moment pertinent, on ne savait pas encore si la venderesse serait en définitive tenue d’exécuter cette obligation. Convaincue que la convention de bail produisait bien cet effet, la Cour a conclu que la situation dont elle était saisie était conforme à l’objet visé par la disposition transitoire et qu’il s’agissait donc d’une « convention écrite ».
+[38] Comme dans les affaires Bow River Pipe Lines et General Motors, la Cour, dans l’affaire Trade Investments, a examiné le fond du document invoqué par la contribuable et non seulement sa forme. Cette approche est conforme aux règles d’interprétation énoncées par la Cour suprême du Canada dans l’arrêt Québec (Communauté urbaine) c. Corp. Notre‑Dame de Bon‑Secours : « […] Primauté devrait être accordée au fond sur la forme dans la mesure où cela est compatible avec le texte et l’objet de la loi »[37].
+[39] Quel est l’objet des alinéas 149(1)d.5) et 149(1.2)a)? Selon certaines publications ministérielles, les modifications apportées aux dispositions en matière municipale de la Loi de l’impôt sur le revenu visaient l’objet pertinent suivant :
+[TRADUCTION]
+[…] empêcher les sociétés appartenant à une municipalité de se livrer à des activités concurrencielles en franchise d’impôt dans le cadre d’activités commerciales menées en dehors des limites de la municipalité. Permettre aux sociétés municipales de gagner jusqu’à 10 pour 100 de leur revenu à l’extérieur des limites géographiques de leur municipalité favorise l’équilibre entre la promotion du développement économique et le risque de donner à ces sociétés un avantage injuste sur leurs concurrents[38].
+[40] Dans ses observations écrites, l’intimée a réitéré ce point de vue lorsqu’elle a affirmé que [TRADUCTION] « […] l’existence d’une convention écrite aux termes du paragraphe 149(1.2) permet à l’administration municipale de continuer à se prévaloir de l’exemption si elle gagne plus de 10 pour 100 de son revenu en dehors des limites géographiques de la municipalité »[39]. L’avocat de l'intimée a précisé quelque peu la thèse du ministère au cours des débats:
+[TRADUCTION]
+On a prévu cette exemption parce qu’il n’est pas souhaitable que les sociétés de développement municipal puissent participer à la vie commerciale et économique ordinaire et concurrencer d’autres personnes qui ne bénéficient pas de la même exemption[40].
+[…]
+[…] cette approche peut paraître fort restrictive, mais sa raison d’être tombe sous le sens. En effet, s’il existe une convention écrite pour chaque activité, la province qui bénéficie de l’exemption partage déjà celle‑ci avec la société contribuable. Cela est manifestement lié à l’activité commerciale, et la même chose est vrai pour la municipalité[41].
+[41] La Cour suprême du Canada a reconnu que la législation fiscale ne vise plus seulement à lever des fonds et qu’elle peut aussi servir à des fins d’intervention sociale et économique[42]. L’objectif du ministre, qui est d'établir un équilibre entre [TRADUCTION] « la promotion du développement économique et le risque de donner à ces sociétés [municipales] un avantage injuste sur leurs concurrents » met en lumière l’aspect économique de l’objectif sous‑jacent à l’alinéa 149(1.2)a). Le contexte dans le cadre duquel l’appelante exerçait ses activités commerciales, c.‑à‑d. en tant qu’administration municipale d’une municipalité (exonérée d’impôt) fonctionnant dans une autre municipalité administrée par la province de la Saskatchewan (également exonérée d’impôt) dans une région de la province qui relève aussi de sa compétence constitue un élément pertinent.
+[42] La question de savoir en quoi consiste une « convention écrite » dépend de la disposition législative pertinente et de la nature du document invoqué par le contribuable, compte tenu de l’ensemble de la situation particulière de ce dernier. Malgré son emploi fréquent dans la Loi de l’impôt sur le revenu, le terme « convention écrite » n’y est pas défini et il n’a pas de sens technique figé. On peut donc en déduire que le législateur, lorsqu’il a utilisé cette expression à l’alinéa 149(1.2)a), voulait une disposition suffisamment souple pour viser les situations extrêmement variées de chaque contribuable distinct.
+[43] Dans la trilogie de décisions examinée plus haut, il se trouvait au cœur des dispositions législatives pertinentes visaient, fondamentalement, des opérations (acquisitions ou dispositions) qui, de par leur nature même, donnaient naissance à des obligations contractuelles qui devaient être constatées par écrit selon la loi. Il en va autrement de l’alinéa 149(1.2)a). On cherchait, par les modifications touchant les administrations municipales, à concilier le risque de donner à celles-ci un avantage concurrentiel injuste, d’une part, et le développement économique, de l’autre. Contrairement aux dispositions examinées plus haut, l’essence de la relation entre la société de développement municipal et l’autorité extérieure visée à l’alinéa 149(1.2)a) ne s’apparente pas à une obligation contractuelle réciproque constatée par une convention écrite. Avec la « convention écrite » prévue à l’alinéa 149(1.2)a), il est possible d’établir que l’autorité extérieure est au courant des activités de la société de développement et qu’elle consent à ce que ces activités soient exercées dans les limites de son territoire. À mon avis, lorsqu’il est examiné à la lumière de la Northern Municipalities Act et du rôle que joue la province de la Saskatchewan à l’égard de l’appelante et pour tout ce qui concerne ce texte législatif, l’effet du règlement municipal no 02 est conforme à cet objet législatif : il fournit une preuve écrite du fait que les activités de l’appelante dans le District étaient exercées à la connaissance et avec le consentement de la province de la Saskatchewan. Dans ces circonstances, permettre à l’appelante de bénéficier, au titre de ses activités dans le District, de l’exonération d’impôt dont jouit la province de la Saskatchewan ne donne lieu à aucun risque de préjudice.
+[44] Le fait est que le règlement municipal no 02 a été pris après que la province de la Saskatchewan eut informé la municipalité du Nord de l’Ile‑a‑la‑Crosse qu’elle ne respectait pas l’article 111.7 de la Northern Municipalities Act. À ce moment, l’appelante exerçait déjà des activités dans le District. La municipalité du Nord de l’Ile‑a‑la‑Crosse a répondu au coup de pouce amical du ministre provincial en donnant instruction à ses avocats (lesquels représentaient à la fois la municipalité du Nord de l’Ile‑a‑la‑Crosse et l’appelante[43]) de prendre les mesures nécessaires dictées par la Northern Municipalities Act. Les avocats ont formulé les recommandations suivantes :
+[TRADUCTION]
+[…] il serait dans l’intérêt du village du Nord et [de l’appelante] de faire en sorte que [celle‑ci] respecte l’article 111.7 de la Northern Municipalities Act et, sans restreindre ce qui précède, de prendre les mesures suivantes :
+2.5.1 prémunir le village du Nord contre toute contestation fondée sur le fait que l’actuelle société de développement municipal outrepasse les pouvoirs actuels du conseil municipal;
+2.5.2 prémunir les membres du conseil municipal et du conseil d’administration contre d’éventuelles critiques pour avoir maintenu la société de développement dans sa forme actuelle;
+2.5.3 obtenir l’exonération d’impôt que l’article 149 de la Loi de l’impôt sur le revenu accorde aux administrations municipales.
+[45] L’article 2.5.3 fait expressément état de la volonté [TRADUCTION] d’« obtenir » l’exonération d’impôt en faveur de l’appelante, à titre d’administration municipale, prévu par l’article 149 de la Loi de l’impôt sur le revenu.
+[46] À l’article 2.6, on mentionne le [TRADUCTION] « souhait » de la municipalité du Nord de l’Ile‑a‑la‑Crosse et de l’appelante [TRADUCTION] « de régulariser » la situation de celle‑ci. On ajoute qu’à [TRADUCTION] « […] cette fin, elles conviennent que le conseil municipal du village du Nord de l’Ile‑a‑la‑Crosse doit prendre ce règlement municipal »[44]. Avec l’article 2.7.3, il s'agissait de faire en sorte que l’appelante respecte les objets des sociétés de développement municipal au regard de la Northern Municipalities Act, lesquels comprennent l’exercice d’activités économiques dans le Nord de la Saskatchewan, tant à l’intérieur qu’à l’extérieur des limites géographiques de la municipalité ayant procédé à leur constitution. Le ministre provincial a clairement fait état de cet objet lorsque la Northern Municipalities Act a été modifié et, pour faciliter la lecture des présents motifs, je reprends la portion pertinente de l’allocution à laquelle j’ai renvoyé plus haut :
+[TRADUCTION]
+Les modifications proposées assurent un mécanisme par lequel les particuliers, conjointement avec d’autres municipalités du Nord ou d’autres personnes ou municipalités du Nord autorisées, pourront entreprendre des activités économiques à long terme qui procureront des avantages durables à la collectivité et à ses résidents[45].
+[47] Cet objectif a été repris lorsque la Northern Municipalities Act a été modifiée à nouveau en 1991 : [TRADUCTION] « Cette loi permet la mise sur pied de coentreprises entre les collectivités situées à l’intérieur de la municipalité et les collectivités situées à l’extérieur de celle‑ci »[46].
+[48] L’examen des débats consignés dans le hansard révèle que c’est ce manque de possibilités à l’intérieur des limites géographiques des villes, des villages du Nord et des hameaux du Nord qui a incité la province de la Saskatchewan à conférer aux municipalités du Nord le pouvoir d’exploiter les ressources du District par l’intermédiaire des administrations municipales. Grâce à ces dernières, les municipalités du Nord pouvaient améliorer le sort économique des personnes vivant dans des régions habitées par l’exercice d’activités économiques dans la municipalité du Nord du District, laquelle est riche en ressources, mais pratiquement inhabitée. Il pouvait s’agir d’activités comme [TRADUCTION] « […] la foresterie […] la construction, l’exploitation minière et l’utilisation d’autres ressources du Nord »[47], [TRADUCTION] « la pêche et la culture du riz sauvage […] »[48]et [TRADUCTION] « l’exploitation de mines d’uranium »[49]. Concrètement, ces activités, de par leur nature même, ne pouvaient vraisemblablement être exercées qu'en dehors des limites géographiques municipales des villes, des villages du Nord et des hameaux du Nord.
+[49] Bref, c’est la province de la Saskatchewan qui a reconnu les besoins économiques des municipalités situées dans le Nord de la Saskatchewan, qui a conçu la politique selon laquelle les municipalités du Nord pouvaient constituer des administrations municipales et qui, en définitive, a adopté des lois permettant aux administrations municipales comme l’appelante d’exercer des activités économiques dans le District. C’est la province de la Saskatchewan elle‑même qui a rappelé à la municipalité du Nord de l’Ile‑a‑la‑Crosse qu’elle devait régulariser sa situation au regard de la Northern Municipalities Act. Et c’est dans ce cadre que le ministre provincial (sachant que l’appelante exerçait déjà des activités économiques dans le District) a exercé son pouvoir discrétionnaire d’approbation du règlement municipal no 02 dans lequel on énumère les activités de l’appelante au sein du District, lequel relève aussi, il faut s’en souvenir, du ministre détenant l’autorité administrative municipale. En l’absence de l’approbation du ministre provincial, l’appelante, suivant la Northern Municipalities Act, n'aurait pu exercer ses activités commerciales. Dans ces circonstances, il n’y avait aucun risque que le mal que l’alinéa 149(1.2)a) visait à empêcher ne se produise : le règlement municipal no 02 constitue une preuve suffisante du fait que la province de la Saskatchewan avait consenti à l’exercice d’activités qu’elle avait elle‑même prescrites, activités desquelles l’appelante tirait son revenu en 1999.
+[50] Comme je l’ai mentionné plus haut, il convient d'examiner plus en détail la pièce A‑4, à savoir l’entente écrite conclue entre l’appelante et la province de la Saskatchewan le 4 février 2008. Bien qu’il ne soit pas nécessaire de la prendre en compte pour conclure que le règlement municipal no 02 constitue une « convention écrite » au sens de l’alinéa 149(1.2)a), la pièce A‑4 va dans ce sens. À mon avis, la pièce A‑4 est analogue au contrat qui a finalement été signé dans l'affaire Bow River Pipe Lines par suite de la série de lettres qui, selon le tribunal, constituait une « convention écrite ». Même si elles ne donnaient pas en soi naissance à des obligations contractuelles, ces lettres constituaient une convention écrite parce qu’elles « […] déclench[aient] la prise de mesures [ayant mené] directement à la conclusion de conventions du genre décrit [dans la disposition transitoire] après [la date d’échéance], lesquelles donn[aient] naissance à des obligations contractuelles »[50]. De même, le règlement municipal no 02 établit l’existence d’une convention écrite par laquelle la province de la Saskatchewan a consenti aux activités de l’appelante en 1999. Il ouvrait en outre la voie à la pièce A‑4, contrat en bonne et due forme – du genre prôné par l’intimée – conclu entre l’appelante et la province de la Saskatchewan et autorisant les activités de l’appelante dans le District.
+[51] Les intentions ressortant de la pièce A‑3, lettre adressée au ministre du Revenu national de l’époque, suivant les instructions de M. Braaten, pour confirmer que la province de la Saskatchewan consentait aux activités de l’appelante, concordent également à la fois avec la pièce A‑4 et avec le règlement municipal no 02. L’avocat de l’appelante s’est exprimé en ces termes au sujet de la pièce A‑3 :
+[TRADUCTION]
+Il y a un – il y a un document dont vous êtes saisi, A‑3. J’avais initialement renvoyé à ce document dans – sous ce point, mais je me suis rendu compte, au moment de rédiger la version définitive, que je n’en avais pas encore parlé avec mon savant collègue, et je l’ai donc supprimé. Mais j’en ai depuis référé à ce dernier et je puis donc vous présenter le document en question. Nous nous retrouvons en quelque sorte au point où nous en étions la dernière fois. Nous en étions là, la dernière fois, lorsque nous allions procéder aux débats devant vous et nous ne l’avons pas fait, et nous sommes ici pour une raison supplémentaire. Nous avons pensé boucler la boucle sur la question de cette convention écrite en obtenant une lettre de M. [Braaten], de la province de la Saskatchewan, adressée au gouvernement fédéral et dans laquelle on dit, relativement à l’article 149, voici comment les choses se passaient avant, voici comment elles se passent maintenant et voici comment elles vont continuer de se passer à l’avenir. Les initiales ici – j’ai M. [Braaten], juste pour – c’est son écriture au haut de la feuille. « La présente peut être adressée à toutes les municipalités du Nord du DAN » et il a apposé ses initiales ce matin, simplement par acquis de conscience, et mon savant collègue convient que ce document peut être produit devant vous. Au bas, on fait mention du maire Duane Favel et du maire Bobby Woods, et Ina Fietz‑Ray, New North, Saskatchewan Association Northern Municipality – soit l’équivalent de […] SUMA [Saskatchewan Urban Municipalities Association] et SARM [Saskatchewan Association of Rural Municipalities]. Il s’agit d’une association de municipalités du Nord. Ce qu’on y dit – ce que dit la convention, ce que dit le hansard, ce que je dis depuis le début, cette convention nous permet en quelque sorte de boucler la boucle sur ce point, et je ne l’examinerai donc pas ici. Je laisserai simplement la Cour en prendre connaissance[51].
+[52] Il importe d’examiner un dernier point avant de conclure : selon l’avocat de l’intimée, [TRADUCTION] « en droit fiscal, la forme a de l’importance et, pour pouvoir bénéficier d’une exemption, il faut rigoureusement respecter chacune des exigences qu’elle comporte, faute de quoi on ne peut l'invoquer »[52]. L’avocat de l’appelante paraissait être du même avis. Or, dans l’arrêt Québec (Communauté urbaine) c. Corp. Notre‑Dame de Bon‑Secours, la Cour suprême du Canada a dit qu’il n’existe plus de présomption contre le droit d’un contribuable à se prévaloir d’une exemption[53]. Il incombe donc au contribuable de montrer, à la lumière d’une interprétation correcte de la disposition pertinente, qu’il a satisfait à l’ensemble des critères prévus par la loi. C’est ce que l’appelante a fait en l’espèce.
+[53] Pour ces motifs, je conclus que le règlement municipal no 02 constitue une « convention écrite » au sens de l’alinéa 149(1.2)a) et, par conséquent, l’appelante a droit à l’exemption fiscale prévue à l’alinéa 149(1)d.5) de la Loi de l’impôt sur le revenu. L’appel est admis avec dépens.
+Signé à Ottawa, Canada, ce 12e jour de décembre 2008.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 3e jour de juin 2009.
+François Brunet, Réviseur
+ANNEXE
+[TRADUCTION]
+Entreprises commerciales municipales
+70(1) Sous réserve du paragraphe (3) et des restrictions expresses prévues dans la présente loi ou dans toute autre loi, les municipalités du Nord jouissent des pleins pouvoirs suivants :
+a) se livrer à des activités commerciales ou industrielles, à l’intérieur ou à l’extérieur de la municipalité du Nord;
+b) participer avec d'autres personnes, dans le cadre d’une société ou d’une autre forme de partenariat que le conseil estime appropriée, à des entreprises commerciales ou industrielles, à l’intérieur ou à l’extérieur de la municipalité du Nord;
+c) constituer une société en vue de se livrer à activités commerciales ou industrielles, à l’intérieur ou à l’extérieur de la municipalité du Nord;
+d) acquérir des actions de sociétés se livrant à des activités commerciales ou industrielles.
+(2) Aux fins de la présente loi, l’activité exercée par une municipalité du Nord conformément au paragraphe (1) constitue une fin municipale.
+(3) Sauf disposition contraire de la présente loi ou d’une autre loi, les municipalités du Nord ne peuvent :
+a) ni garantir le paiement d’obligations émises par une entreprise commerciale ou industrielle;
+b) ni garantir les prêts consentis à une personne, quelle qu’elle soit.
+[…]
+Sociétés de développement municipal
+111.7(1) Malgré les autres dispositions de la présente loi, mais sous réserve des paragraphes (2) et (3), les municipalités du Nord peuvent, par règlement, en vue de constituer une société sous le régime de la Business Corporations Act, de la Non-profit Corporations Act, de la New Generation Co-operatives Act ou de la Co-operatives Act :
+a) ordonner la rédaction de statuts constitutifs;
+b) conclure des ententes avec :
+(i) d'autres municipalité du Nord;
+(ii) Sa Majesté la Reine du chef de la Saskatchewan;
+(iii) des sociétés d’État ou de leurs organismes;
+(iv) Sa Majesté la Reine du chef du Canada;
+(v) les bandes au sens de la Loi sur les Indiens (Canada), et ses modifications;
+(vi) toute autre personne;
+(vi) tout groupe de personnes et/ou d’entités mentionnées aux sous‑alinéas (i) à (vi).
+(2) Malgré les dispositions de la loi en vertu de laquelle la société est constituée, les objets de la société constituée aux termes du paragraphe (1) sont les suivants :
+a) définir les possibilités de développement économique et social, de même qu’élaborer et modifier une stratégie ou un plan de développement économique et social visant la municipalité du Nord ou les parties à la convention;
+b) établir et maintenir la communication avec le gouvernement du Canada, le gouvernement de la Saskatchewan et leurs organismes respectifs afin de connaître et d’utiliser les programmes qu’offrent ces gouvernements et organismes et qui sont susceptibles de promouvoir le développement économique et social dans le Nord de la Saskatchewan;
+c) établir et maintenir la communication avec les municipalités du Nord et d’autres organismes en ce qui touche le développement économique et social du Nord de la Saskatchewan;
+d) établir et réaliser des programmes économiques et sociaux au profit des personnes résidant dans le Nord de la Saskatchewan;
+d.1) établir et exercer des activités industrielles et commerciales visant à promouvoir le développement économique et social dans le Nord de la Saskatchewan;
+e) réaliser les autres objets liés au développement économique et social du Nord de la Saskatchewan et prévus par règlement.
+(3) La municipalité du Nord qui propose de prendre un règlement en vertu du paragraphe (1) doit soumettre le projet de règlement à l’approbation du ministre avant que le règlement ne fasse l’objet d’une troisième lecture.
+(4) Le ministre peut approuver ou désapprouver un règlement qui lui est soumis en vertu du paragraphe (3).
+(5) Lorsqu’il approuve un règlement aux termes du paragraphe (4), le ministre peut soumettre a mise en œuvre de celui-ci à toutes les conditions qu’il estime utiles.
+(6) Malgré les autres dispositions de la présente loi ou les dispositions d’autres lois, les municipalités du Nord peuvent devenir membre ou acquérir des actions, des obligations ou d’autres titres d’une société constituée aux termes d’une entente conclue conformément au paragraphe (1).
+(7) Malgré les autres lois :
+a) le lieutenant gouverneur en conseil peut, à la demande d’une société constituée aux termes du paragraphe (1), liquider et dissoudre cette société et, dans le cadre de ce processus, il peut disposer de ses actifs et régler ses obligations d’une manière jugée utile pour le bien public;
+b) au moins trois semaines avant le début de la procédure de liquidation, le greffier du conseil exécutif doit publier dans la Gazette et dans un numéro d’un journal distribué à l’endroit où se situe le siège social de la société, un avis du projet de liquidation faisant état :
+(i) de la disposition proposée des actifs;
+(ii) des mesures proposées en ce qui concerne les obligations de la société.
+(8) Le ministre peut fournir aux sociétés constituées aux termes du paragraphe (1) une aide financière par voie de subvention, de garantie de prêt ou d’autres moyens analogues, conformément aux conditions fixées par règlement.
+(9) Sous réserve des règlements, le ministre peut accorder des subventions ou des prix aux municipalités constituées aux termes du paragraphe (1), aux municipalités du Nord ou aux autres personnes dont le bilan des réalisations au chapitre de la promotion du développement économique et social dans le Nord de la Saskatchewan est d’un intérêt exceptionnel.
+(10) Sur recommandation du ministre, le lieutenant gouverneur en conseil peut prendre des règlements :
+a) excluant l’application, totale ou partielle, de l’une ou l’autre des dispositions de la loi constitutive de la société, ou modifiant ces dispositions, de sorte que la société puisse réaliser ses objets d’une manière plus efficace et plus pratique;
+b) énonçant les objets de n’importe quelle société ou catégorie de sociétés outre ceux mentionnés aux alinéas (2)a) à d.1);
+c) aux fins des paragraphes (8) et (9).
+RÉFÉRENCE : 2008CCI529
+NO DU DOSSIER DE LA COUR : 2002-4838(IT)G
+INTITULÉ DE LA CAUSE : Sakitawak Development Corporation et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 19 février 2008
+MOTIFS DU JUGEMENT PAR : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 12 décembre 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Ron Cherkewich
+Avocat de l’intimée :
+Me Lyle Bouvier
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom : Me Ron Cherkewich
+Cabinet : Legal Services
+Prince Albert (Saskatchewan)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Annexe jointe aux présents motifs.
+[2] On désigne ce règlement de différentes façons dans le dossier : règlement municipal no « 102 » (Bylaw No. “102”), règlement municipal no « 2 » (Bylaw No. “2”) et règlement municipal no « 02 » (Bylaw No. “02”). La désignation exacte de ce règlement figure à la pièce A‑2, onglet 6; il s’agit du « règlement municipal no 02 » (“Bylaw No. 02”).
+[3] La Northern Municipalities Act, paragraphe 3(1).
+[4] Ci-dessus, alinéa 2(1)i).
+[5] Pièce A-2, onglet 5; pièce A-1, paragraphes 4 et 6.
+[6] Pièce A-5.
+[7] Pièce A-2, onglet 5.
+[8] Terme énuméré à l’alinéa 2(1)p) de La Northern Municipalities Act, mais non défini ailleurs.
+[9] La Northern Municipalities Act, alinéa 2(1)r).
+[10] Ci-dessus, alinéa 2(1)o).
+[11] Ci-dessus, alinéa 2(1)i).
+[12] Pièce A-1, paragraphe 6; recueil conjoint de documents, onglet 1, La Northern Municipalities Act, article 4; pièce A-3.
+[13] la Northern Municipalities Act, alinéa 2(1)f).
+[14] la Northern Municipalities Act, alinéa 2(1)e).
+[15] Recueil conjoint de documents, onglet 1.
+[16] Recueil conjoint de documents, onglet 2, pages 2656 et 2657 du hansard, 13 juillet 1989.
+[17] Pièce A-2, onglet 6, article 2.1.
+[18] Recueil conjoint de documents, onglet 3, page 246 du hansard, 12 décembre 1991.
+[19] Recueil conjoint de documents, onglet 3, page 247 du hansard, 12 décembre 1991.
+[20] Recueil conjoint de documents, onglet 3, page 369 du hansard, 19 décembre 1991.
+[21] Pièce A-2, onglet 6, article 2.3.
+[22] Pièce A-2, onglet 6, articles 2.2 et 2.4.
+[23] Pièce A-1, paragraphe 5.
+[24] 2000 SKQB 361.
+[25] Ci-dessus, paragraphe 32.
+[26] [1994] 3 R.C.S. 3, paragraphe 22.
+[27] Observation supplémentaire présentée pour le compte de la contribuable, paragraphe 22.
+[28] [1997] 1 C.T.C. 2306 (C.C.I.); confirmé, [1997] 3 C.T.C 397 (C.A.F.).
+[29] [2002] 3 C.T.C. 2008.
+[30] Ci‑dessus, pages 2021 et 2022.
+[31] 97 D.T.C. 5385, page 5398.
+[32] (1996), 96 D.T.C. 6570; [1993] 2 C.T.C. 333 (C.F. 1re inst.).
+[33] [2002] 3 C.T.C. 2008 (C.C.I.), paragraphe 14.
+[34] [1993] 2 C.T.C. 333, paragraphe 7.
+[35] Ci-dessus, paragraphe 22.
+[36] Ci-dessus, paragraphe 40.
+[37] Plus haut, paragraphe 25.
+[38] Observation écrite présentée pour le compte de l’intimée, paragraphe 33.
+[39] Recueil conjoint de documents, onglet 7.
+[40] Transcription, page 62, lignes 10 à 15.
+[41] Transcription, page 72, lignes 15 à 23.
+[42] Québec (Communauté urbaine) c. Corp. Notre-Dame de Bon-Secours, plus haut, paragraphe 20.
+[43] Pièce A-2, onglet 6, article 2.5.
+[44] Pièce A-2, onglet 6.
+[45] Recueil conjoint de documents, onglet 2, hansard, 13 juillet 1989, page 2657.
+[46] Recueil conjoint de documents, onglet 3, hansard, 19 décembre 1991, page 369.
+[47] Recueil conjoint de documents, onglet 3, hansard, 12 décembre 1991, page 246.
+[48] Ci-dessus, page 247.
+[49] Recueil conjoint de documents, onglet 3, hansard, 19 décembre 1991, page 369.
+[50] [1997] 1 C.T.C. 2306, paragraphe 38.
+[51] Transcription, page 48, lignes 24 et 25, inclusivement, page 50, lignes 1 à 8, inclusivement.
+[52] Transcription, page 62, lignes 15 à 19.
+[53] Plus haut, paragraphes 22 à 25.

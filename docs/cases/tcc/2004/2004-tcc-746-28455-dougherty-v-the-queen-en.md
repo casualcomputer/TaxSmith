@@ -1,0 +1,153 @@
+---
+title: "Dougherty v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28455/index.do"
+last_modified: "2004-11-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 746"
+citation2: ""
+neutral_citation: "2004 TCC 746"
+decision_date: "2004-11-18"
+language: "en"
+item_id: "28455"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1202
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:49:48.370000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c3a4f45c9e6c8d77969501585cb54534ad0dc376b94f2307bdc6cdbd567ca502"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dougherty v. The Queen
+
+- Citation: 2004 TCC 746
+- Decision date: 2004-11-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1202, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dougherty v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-18
+Neutral citation
+2004 TCC 746
+File numbers
+2003-4056(IT)I
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Citation No. 2004TCC746
+Docket: 2003-4056(IT)I
+BETWEEN:
+BETTY ELILA DOUGHERTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Saint John, New Brunswick on July 12, 2004)
+Margeson J.
+[1] The matter before the Court for decision at this time is that of Betty Elila Dougherty and Her Majesty the Queen.
+[2] The sole question before the Court is whether or not the Appellant has established on the balance of probabilities that she was the eligible individual during the period from July 1999 to 2002 under section 122.6 of the Income Tax Act ("Act"). Was she the "eligible individual" with respect to the qualified dependant during the period in question?
+[3] In the years in question section 122.6 of the Act read as follows:
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant ...
+and for the purposes of this definition,
+(f) where a qualified dependant resides with the dependant's female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+[4] Part 6302 of the Regulations sets out the factors which the Court must consider in deciding whether or not the person has bet the definition of "eligible individual".
+6302. For the purposes of paragraph (h) of the definition of "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, education, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygenic [sic] needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[5] The whole case then boils down to whether or not the Appellant has met the burden of showing that she was the "eligible individual" during the period in question, bearing in mind that the Court Order provided that the child was entitled to go with either parent, and he did, according to his evidence.
+[6] The evidence was very contradictory. The evidence of the mother of the child (the Appellant) is completely at odds with the evidence of the father of the child.
+[7] The Court thought that the conflict might be resolved by the evidence of the child, but it was not. The evidence of the child was different from the evidence of the other two parties and indeed contradicted not one but both of the parties. It can be of little assistance to either one.
+[8] The father is not before the Court as the Applicant or the Appellant. The Court need not decide whether the father was the "eligible individual" or not. It has to decide whether the Appellant has established on the balance of probabilities that she was the "eligible individual" during the period in question. But in doing so, it has to consider the evidence of the father, the mother, the child and all of the documentary evidence which has been given.
+[9] The documentary evidence is inconclusive, indeed part of it is at odds with the other parts of it. For instance, the calendars that were introduced by both parties are contradictory, one to the other. The Court considers the calendars produced by the father and kept by him in his own handwriting. The Court considers the calendars kept by the mother in her own handwriting. They both said that they completed them at the time that the incidents occurred and yet they are at odds with each other. Either somebody fudged the calendars or they made incorrect entries in the calendars because they both cannot be right. They are contradictory as is the evidence of the father and the mother. Further, the evidence of the son has contradicted the evidence given by the father and it has contradicted the evidence given by the mother. It does not resolve the issue of the accuracy of either calendar.
+[10] The Court considers other pieces of evidence such as the addresses on the letters that were sent to the son. In some cases the evidence indicates that the address of the son was the mother's address. In other cases the evidence indicates that the address of the son was the father's address. The indicated address depended upon where the son was at any given time. The Court cannot draw any conclusive finding from a letter written to the son at the father's address any more than it can draw any conclusive finding from a letter that was written to the son at the mother's address.
+[11] Counsel for the Appellant has put the matter squarely, in his argument, that the burden is on the Appellant to establish on a balance of probabilities that she was the "eligible individual" during the period in question. He says that she has met that burden.
+[12] He admits that the evidence of the ex-husband and wife are contradictory. He agrees that the evidence is not reconcilable, and the Court agrees with him.
+[13] He has concluded that Jeffrey's evidence was the middle ground and does not aid either of the parties nor does it aid the Court in determining the question of whether or not the Appellant was the primary caregiver.
+[14] Counsel for the Appellant said that there is authority for the proposition that such a finding requires that the primary care giver must provide the care for more than 50 percent of the time. That is not the same as the majority of the time or a substantial or reasonable portion of the time. The primary caregiver has to be the person who provides the care more than 50 percent of the time.
+[15] Therefore, the burden on the Appellant is to satisfy the Court on the balance of probabilities that she was the primary caregiver for more than 50 percent of the time.
+[16] If the Court accepts her evidence, she was; if the Court accepts the evidence of the husband she was not. If the Court accepts the evidence of the son, it cannot decide either way. The Court cannot decide that she was because the son said that they each gave 50 percent of the care. They each provided primary care for him as referred to in the Regulations, 50 percent of the time.
+[17] The Court is satisfied that during the period of time that the Appellant and the ex-husband provided the care that they fulfilled all of these requirements. That still begs the question as to whether or not the Appellant has established on a balance of probabilities that she was the primary caregiver for more than 50 percent of the time.
+[18] With respect to the evidence given by the ex-husband, and the evidence given by the Appellant, there is very little to choose between them. They both gave evidence on basically the same issues and both provided documentary evidence that they said they had prepared. They both had a letter saying that the son was living with them. One said that he spent all of his time with his mother or the majority of the time with his mother and another letter said that he spent the majority of the time with his father and it suggested that the father was the primary caregiver.
+[19] The Court pays little attention to those letters and the calendars in that respect, because they are at odds, first of all, with the son's general testimony, and they are also at odds with the son's testimony that each of the parents provided 50 percent of the care for him.
+[20] The Court is satisfied that there was great pressure on the child. He was treading very softly and he was being very careful not to side with one party or the other. If either party goes away from this court thinking that the son sided with one or the other they are wrong because he did not. He said what he thought was right under the circumstances.
+[21] Each party will probably believe that perhaps he was not being absolutely straightforward. But the Court is satisfied that on the basis of his evidence he was trying to be straightforward. He was of the firm conviction that during the period in issue both the father and the mother provided the primary care on an equal basis. The Court has to accept his testimony in that respect. The testimony of the father and of the mother is completely contradictory and there is no independent evidence to verify one or the other.
+[22] There were apparently other people who knew what was going on in this case. Relatives were referred to and neighbours were referred to. The mother referred to neighbours who knew what was going on. The father referred to other documents which he might have produced such as letters from doctors that might have corroborated him when he said that he provided the majority of the visits to the doctor but he did not produce them and the relatives and neighbours were not called to testify. The son said that each of his parents took him their 50 percent of the time.
+[23] If it were the determining factor and there was no evidence given by the son to tilt the scale, the Court would find that the husband's evidence was a little more direct, a little more complete, a little more conclusive and a little more substantial. Overall, his evidence was probably more believable but the evidence of both was contradicted by the evidence of the son.
+[24] The end result is that the Court is not satisfied that the Appellant has met the burden on her of establishing that during the period July 1999 to July 2002 inclusive, the period in question, that she was the primary caregiver or was the eligible individual during that period of time under the appropriate legislation.
+[25] Counsel for the Respondent says that that is the issue. The child splits the case right down the middle. He submits that Jeffrey had pressure put on him by both parties.
+[26] The Court is satisfied from his evidence that he does not really remember the oath that he was supposed to have signed. The Court is not satisfied that it was necessarily signed by him in the presence of a commissioner. He said that he never visited a commissioner's office. The Court is not satisfied as to when it was actually signed.
+[27] The Court is not satisfied as to when the other letters were signed. There is a real basis there for the Court to have some considerable concern about these documents. The Court does not believe that they are all that they purport to be.
+[28] In any event the Court is not satisfied on the balance of probabilities that the Appellant was the eligible individual and was the primary caregiver during the period in issue.
+[29] The Court is not finding that the husband was the primary caregiver or that anyone else was. The Court finds that the Appellant has not proved that she was the primary caregiver.
+[30] Now, looking at the case law, the case cited to the Court was that of Nelson v. RR[1]. This case is different from the case at bar because in that particular case Judge Campbell (as she then was) decided that she was going to split the child tax benefit because the divorced parents had both rather evenly contributed to the care and upbringing of the children. In that particular case the Applicant was not claiming the child tax benefit for both of the children anyway; he was only claiming it for one and he was content to have his wife receive the benefit for one child. That can be done. You could have a different primary caregiver for one and another primary caregiver for a different child. You might have a different primary caregiver for different periods of time.
+[31] But there was no evidence before this Court to enable it to conclude on a balance of probabilities that the mother was the primary caregiver for a definite period of time, or that the father was the primary caregiver for another period of time because the son's testimony is contrary to such a conclusion. He said that during the whole period of time the mother and father provided equally. He went two weeks with one and then he went two weeks with the other. The father contributed equally to his sports activities. The father contributed equally to his expenses. The mother contributed equally to the house. They both had a room in their own house, for him and all of the other factors were 50/50.
+[32] The Court is unable to concede to counsel for the Appellant's request in that regard, that it divide up the eligibility for a certain period of time for each one because the Court does not have sufficient evidence which would enable it to do that.
+[33] At the end of the day then, the Court must dismiss the appeal and confirm the Minister's assessment.
+Signed at Ottawa, Canada, this 18th day of November 2004.
+"T. E. Margeson"
+Margeson J.
+CITATION:
+2004TCC746
+COURT FILE NO.:
+2003-4056(IT)I
+STYLE OF CAUSE:
+Betty Elila Dougherty v. The Queen
+PLACE OF HEARING:
+Saint John, New Brunswick
+DATE OF HEARING:
+July 12, 2004
+ORAL REASONS FOR JUDGMENT BY:
+The Honourable Justice T. E. Margeson
+DATE OF REASONS FOR JUDGMENT:
+November 18, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Jack M. Blackier
+Counsel for the Respondent:
+Christa MacKinnon
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2003] 1 C.T.C. 307. This case was overturned on appeal.

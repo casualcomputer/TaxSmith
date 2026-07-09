@@ -1,0 +1,143 @@
+Title: Ngyen c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26821/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-773-26821-ngyen-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-12-06
+
+# Ngyen c. M.R.N.
+
+- Citation: 2005 CCI 773
+- Decision date: 2005-12-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 692, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ngyen c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-06
+Référence neutre
+2005 CCI 773
+Numéro de dossier
+2005-423(EI)
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-423(EI)
+ENTRE :
+HONG NHAT NGUYEN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 29 septembre 2005, à Montréal (Québec).
+Devant : L'honorable juge Pierre R. Dussault
+Comparutions :
+Représentant de l'appelante :
+Claude C.G. Gagné
+Représentante de l'intimé :
+Catherine Gagnon (stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté, et la décision du ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2005.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2005CCI773
+Date : 20051206
+Dossier : 2005-423(EI)
+ENTRE :
+HONG NHAT NGUYEN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Il s'agit d'un appel d'une décision du ministre du Revenu national (le « ministre » ) selon laquelle l'appelante n'a pas occupé un emploi assurable pour la période du 2 novembre 2003 au 29 mai 2004 lorsqu'elle était au service de Duc-Chung Nguyen et Thi-Hanh Nguyen, qui exploitent le restaurant Pho Chieu Tim (le « payeur » ).
+[2] Le fondement de la décision est exposé aux paragraphes 5 et 6 de la Réponse à l'avis d'appel. Ces paragraphes se lisent :
+5. L'appelante et le payeur sont des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+a) Duc-Chung Nguyen et Thi-Hanh Nguyen sont co-propriétaires du restaurant;
+b) l'appelante est la fille de Duc-Chung Nguyen et de Thi-Hanh Nguyen.
+6. Le ministre a déterminé que l'appelante et le payeur avaient un lien de dépendance entre eux dans le cadre de l'emploi. En effet, le ministre a été convaincu qu'il n'était pas raisonnable de conclure que l'appelante et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) le payeur exploitait un restaurant de 50 places depuis environ 8 ans;
+b) durant la période en litige, le restaurant employait 4 personnes : les 2 associés, l'appelante et un gérant;
+c) le restaurant du payeur était ouvert 7 jours par semaine, de 10h00 à 21h00;
+d) durant la période en litige, l'appelante travaillait à la cuisine et s'occupait principalement de la fabrication des rouleaux impériaux, elle préparait également les légumes, les viandes et les salades;
+e) selon ses différentes versions, l'appelante travaillait 10 heures par jour les lundis, mardis, jeudis et vendredis, elle travaillait de 10 h à 16 h avec une pause-repas de 30 minutes du lundi au vendredi ou bien elle travaillait 40 heures par semaine selon des horaires qui variaient à chaque jour;
+f) l'appelante prétend qu'elle faisait 40 heures par semaine alors qu'elle avait déjà déclaré qu'elle ne faisait que 27,5 heures par semaine;
+g) l'appelante recevait une rémunération fixe de 400 $ par semaine;
+h) le 2 novembre 2003, l'appelante était enceinte lorsqu'elle a débuté son emploi au restaurant;
+i) le 29 mai 2004, l'appelante cessait de travailler pour cause de grossesse;
+j) de 1998 à juin 2000, l'appelante avait déjà travaillé pour le payeur;
+k) elle avait alors cessé de travailler pour cause de grossesse;
+l) l'appelante a prétendu qu'elle n'était pas retournée travailler au restaurant avant le 2 novembre 2003 parce qu'elle n'avait pas trouvé de gardienne alors que son premier enfant était à plein temps à la garderie depuis janvier 2003;
+m) après le départ de l'appelante, le payeur n'a embauché personne pour la remplacer.
+[3] Les personnes suivantes ont témoigné : l'appelante, madame Danielle Lacoste, agente d'assurabilité, et madame Mireille Lapierre, agente des appels.
+[4] L'appelante a expliqué qu'elle avait commencé à travailler au restaurant de ses parents en 1997 comme serveuse. Elle a quitté en l'an 2000 parce qu'elle était enceinte et n'est retournée travailler au restaurant que le 2 novembre 2003, à la demande de ses parents, mais cette fois comme cuisinière. Selon elle, sa mère était surchargée et n'en pouvait plus et c'est à cause d'un problème de garderie qu'elle n'aurait pas commencé à travailler plus tôt. Selon l'appelante, le travail à la cuisine lui permettait d'avoir un horaire plus flexible, ce qui l'aidait à respecter l'horaire de la garderie pour son enfant. Toutefois, si l'achalandage était très élevé, elle pouvait agir comme serveuse et s'occuper de la caisse. Elle a expliqué que ses horaires variaient chaque semaine, qu'ils étaient établis par sa mère et que ses heures de travail étaient comptabilisées sur papier. Dans son témoignage, elle a d'abord affirmé qu'elle travaillait quatre jours par semaine, de 10 h à 16 h ou 16 h 30 selon l'horaire de son conjoint et qu'elle avait une pause de 30 minutes pour dîner. Les lundis, mardis et jeudis, elle devait préparer des mets à l'avance, tels les rouleaux, les salades et les viandes, elle a affirmé qu'elle commençait alors son travail à 8 h et que, certains jours, elle finissait également plus tard et qu'elle fermait même le restaurant à 21 h, à l'occasion. Par la suite, elle a affirmé qu'elle travaillait cinq jours par semaine, habituellement de 10 h à 16 h, mais qu'elle commençait à 8 h trois jours par semaine. Puis, elle a dit qu'il était difficile de comptabiliser ses heures de travail d'une semaine à l'autre, puisque son horaire variait selon les activités du restaurant. Toutefois, elle a affirmé à plusieurs reprises qu'elle avait toujours travaillé 40 heures par semaine et qu'elle avait toujours été payée pour ce nombre d'heures au taux de 10 $ l'heure.
+[5] Après sa cessation d'emploi le 29 mai 2004, l'appelante n'a pas été remplacée avant janvier 2005. Elle a expliqué qu'il n'était pas évident de trouver un cuisinier pour un restaurant vietnamien, car il y avait pénurie de cuisiniers.
+[6] Madame Danielle Lacoste a communiqué avec le père de l'appelante, qui est co-propriétaire du restaurant. Selon elle, celui-ci lui a d'abord affirmé que l'appelante travaillait de 10 h à 15 h, du lundi au vendredi, avec une pause de 30 minutes pour dîner. Confronté au fait que cela ne totalisait que 22,5 heures par semaine, il aurait ensuite affirmé qu'elle finissait plutôt à 16 h 30. Comme madame Lacoste avait remarqué que cela ne totalisait toujours pas 40 heures par semaine, il aurait alors ajouté que l'appelante travaillait aussi le samedi. Madame Lacoste lui ayant fait part que le compte n'y était toujours pas, il aurait renchéri en disant qu'elle commençait plus tôt s'il y avait plus de travail.
+[7] Madame Lacoste a affirmé que l'appelante lui avait déclaré qu'elle travaillait habituellement de 10 h à 16 h et qu'elle pouvait arriver plus tôt s'il y avait plus de travail, mais qu'elle pouvait aussi finir plus tôt et qu'elle travaillait également le samedi à l'occasion.
+[8] Madame Lacoste a reconnu que l'appelante avait reçu des prestations d'assurance-emploi à la suite de sa première grossesse.
+[9] Madame Mireille Lapierre, agente des appels, a communiqué par téléphone avec le père de l'appelante, qui lui aurait affirmé que les heures de travail de l'appelante n'étaient pas contrôlées « de façon écrite » mais qu'il avait pu contrôler ses présences et que c'est la mère de l'appelante qui assumait les tâches de cette dernière après sa cessation d'emploi.
+[10] Madame Lapierre a également rencontré l'appelante, qui lui a expliqué qu'elle travaillait 40 heures par semaine, selon un horaire variable, de sorte qu'il lui était difficile de vérifier le nombre réel d'heures de travail par semaine. L'appelante lui a également dit qu'elle devait quitter son travail à 16 h pour aller chercher son enfant à la garderie.
+[11] Madame Lapierre a déposé en preuve un document obtenu du payeur démontrant qu'un autre employé du restaurant décrit comme un aide-cuisinier, qui avait travaillé du 19 mai 2001 au 23 août 2003, avait été payé à un taux horaire de 7 $, puis de 7,20 $, et enfin de 7,30 $ à compter de février 2003 et ce, jusqu'au moment de son départ (pièce I-1).
+[12] Ce document ne couvre pas la période complète de travail de l'appelante, laquelle a débuté le 2 novembre 2003; il couvre uniquement les périodes de paye à compter du début de janvier 2004 jusqu'à sa cessation d'emploi le 29 mai 2004. Il indique qu'elle était cuisinière et que son salaire était de 10 $ l'heure. Toutefois, pour onze périodes de paye régulières de deux semaines, on constate que l'appelante n'a pas travaillé pendant 80 heures, mais plutôt 64 heures au cours de deux périodes de paye, et 72 heures au cours d'une autre période de paye. Pourtant, elle a été payée le même salaire qu'au cours des périodes durant lesquelles elle a travaillé pendant 80 heures.
+[13] La représentante de l'intimé s'appuie sur l'alinéa 5(2)i) de la Loi sur l'assurance-emploi (la « Loi » ) et affirme que la preuve démontre que les conditions d'emploi de l'appelante ne sont pas les mêmes que celles consenties aux autres employés. Ainsi, elle rappelle que l'appelante bénéficiait d'une rémunération très élevée, de 10 $ l'heure, alors que la pièce I-1 démontre qu'un autre employé était payé de 7 $ à 7,30 $ l'heure selon les périodes.
+[14] En ce qui concerne la durée de l'emploi, la représentante de l'intimé souligne que l'appelante n'a travaillé qu'au cours d'une période de sept mois débutant en novembre 2003 sous prétexte qu'elle n'avait pas de gardienne, alors que les reçus produits indiquent qu'elle avait une gardienne au moins depuis le mois d'août 2003. Elle rappelle également que personne d'autre n'a été engagé avant le début de la période d'emploi de l'appelante et qu'elle n'a pas non plus été remplacée lors de la cessation de son emploi en mai 2004, de sorte qu'on peut se demander si son emploi correspondait vraiment aux besoins de l'employeur et si ceux-ci justifiaient un emploi de 40 heures de travail par semaine.
+[15] Par ailleurs, la représentante de l'intimé estime que l'appelante n'a pas démontré qu'elle avait effectivement travaillé pendant 40 heures par semaine au cours de sa période d'emploi et ainsi qu'elle avait, en réalité, été payée plus que 10 $ l'heure.
+[16] Au soutien de ses arguments, la représentante de l'intimé se réfère aux décisions de la Cour d'appel fédérale dans les affaires Légaré c. Canada (ministre du Revenu national - M.R.N.), no A-392-98, 28 mai 1990, [1999] A.C.F. no 878, et Pérusse c. Canada (ministre du Revenu national - M.R.N.), no A-722-97, 10 mars 2000, [2000] A.C.F. no 310.
+[17] La représentante de l'intimé s'appuie également sur la décision de la Cour d'appel fédérale dans l'affaire Canada (Procureur général) c. Jencan Ltd., [1998] 1 C.F. 187, [1997] A.C.F. no 876, pour affirmer que la décision du ministre doit être maintenue s'il existe suffisamment de faits pour l'appuyer, même si certaines hypothèses du ministre sont rejetées.
+[18] Le représentant de l'appelante souligne pour sa part, en ce qui concerne le salaire horaire, qu'il faut distinguer les tâches qu'accomplissait l'appelante comme cuisinière de celles accomplies antérieurement par un autre employé qui n'était qu'aide-cuisinier.
+[19] Sur la question de l'horaire de travail de l'appelante, il souligne que le témoignage de celle-ci est qu'elle travaillait effectivement 40 heures par semaine selon un horaire variable et flexible en fonction des besoins du restaurant, mais au moins de 10 heures à 16 heures. Il rappelle qu'elle a témoigné qu'elle pouvait travailler plus tard lorsque son conjoint pouvait lui-même aller chercher l'enfant de l'appelante à la garderie.
+[20] Quant aux besoins de l'employeur, le représentant de l'appelante souligne la pénurie de cuisiniers pour travailler dans les restaurants vietnamiens et le fait que la mère de l'appelante pouvait augmenter ses tâches lorsqu'elle ne pouvait trouver quelqu'un pour l'aider.
+[21] Le représentant de l'appelante rappelle également que l'emploi de celle-ci a déjà été considéré comme étant un emploi assurable dans le passé.
+[22] Il importe d'abord de préciser que ce n'est pas parce qu'un emploi a été considéré comme assurable dans le passé qu'il l'est nécessairement pendant une autre période. Ce sont les modalités de l'emploi pendant la période en litige qui importent, rien d'autre.
+[23] L'alinéa 5(2)i) de la Loi prévoit que « l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance » n'est pas un emploi assurable.
+[24] Par ailleurs, le paragraphe 5(3) de la Loi précise ce qui suit :
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance
+[25] Dans l'arrêt Légaré c. Canada, précité, le juge Marceau de la Cour d'appel fédérale décrivait le rôle de la Cour canadienne de l'impôt dans un appel de la décision du ministre dans les termes suivants, au paragraphe 4 des motifs du jugement :
+4. La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[26] Dans l'arrêt Pérusse c. Canada, précité, le juge Marceau reprenait la même analyse. De plus, au paragraphe 15 des motifs du jugement, il ajoutait :
+15 Le rôle du juge d'appel n'est donc pas simplement de se demander si le ministre était fondé de conclure comme il l'a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l'interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s'enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre, sous l'éclairage nouveau, paraît toujours « raisonnable » (le mot du législateur). La Loi prescrit au juge une certaine déférence à l'égard de l'appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. [...]
+[27] Ces propos ont été repris plus récemment par le juge en chef Richard de la Cour d'appel fédérale dans l'arrêt Denis c. Canada (ministre du Revenu national, - M.R.N.), 2004 CAF 26, [2004] A.C.F. no 400, au paragraphe 5 des motifs du jugement.
+[28] La représentante de l'intimé prétend que les besoins de l'employeur ne justifiaient pas un travail de 40 heures par semaine de la part de l'appelante, puisqu'aucun autre employé n'exécutait ses tâches avant et après sa période d'emploi. Elle soutient également que le témoignage de l'appelante ne permet pas d'établir qu'elle avait travaillé 40 heures par semaine; sa rémunération n'était donc pas de 10 $ l'heure mais plus élevée et ainsi nettement supérieure à celle d'un autre employé, laquelle avait varié de 7 $ à 7,30 $ l'heure au cours de sa période d'emploi du 6 mai 2001 au 23 août 2003 (pièce I-1).
+[29] D'abord, je dirai que la comparaison entre un salaire de 7 $ à 7,30 $ l'heure d'une personne considérée comme aide-cuisinier et le salaire de 10 $ l'heure payé à l'appelante comme cuisinière n'est pas significative, puisqu'on ne compare pas une caractéristique commune aux deux personnes. À première vue, il s'agit d'emplois différents requérant des tâches différentes et il n'a jamais été démontré en quoi ils seraient à ce point semblables qu'ils devraient justifier un salaire équivalent.
+[30] Sur la question de la durée de l'emploi de l'appelante et sur l'importance de son travail compte tenu des besoins du payeur, je remarquerai que l'aide-cuisinier embauché avant l'appelante a travaillé sans interruption du 6 mai 2001 au 23 août 2003 et ce, à raison de 40 heures par semaine. L'appelante a expliqué que c'est sa mère qui lui avait demandé de revenir travailler au restaurant parce qu'elle était surchargée et l'appelante a accepté de le faire à compter du 2 novembre 2003. Que la mère de l'appelante ait dû affronter une surcharge de travail à la suite du départ de l'aide-cuisinier et qu'elle ait alors demandé à l'appelante de revenir travailler au restaurant m'apparaît une explication tout à fait logique et cohérente dans les circonstances, puisqu'elle s'est alors retrouvée seule pour travailler à la cuisine.
+[31] Quant au fait que l'appelante n'a pas été remplacée après son départ le 29 mai 2004, l'explication donnée selon laquelle il était difficile de la remplacer à cause de la pénurie de cuisiniers dans les restaurants vietnamiens m'apparaît tout à fait plausible.
+[32] Par ailleurs, je dois reconnaître que les explications fournies par l'appelante concernant son horaire de travail et l'affirmation qu'elle avait travaillé pendant 40 heures par semaine tout au long de sa période d'emploi ne sont pas aussi convaincantes.
+[33] De plus, la pièce I-1 obtenue de l'employeur indique clairement que pour les onze périodes régulières de paye de deux semaines s'échelonnant de janvier à mai 2003, l'appelante a toujours reçu le même salaire, alors que pour trois périodes elle n'a pas complété 80 heures de travail, mais seulement 64 heures pour deux périodes et 72 heures pour une autre période. Ainsi, ce document confirme, d'une part, que l'appelante n'a pas toujours travaillé 40 heures par semaine et, d'autre part, qu'elle a été rémunérée pour des heures de travail qu'elle n'a pas complétées et ce, pour plus de 27 % des périodes comprises dans ce document. J'estime qu'il ne s'agit pas là d'une condition qui serait consentie par un payeur à un travailleur avec lequel il n'aurait aucun lien de dépendance.
+[34] À lui seul, cet élément est suffisamment important pour conclure que la décision du ministre paraît toujours raisonnable dans les circonstances.
+[35] En conséquence, l'appel est rejeté et la décision du ministre est confirmée.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2005.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE : 2005CCI773
+N º DU DOSSIER DE LA COUR : 2005-423(EI)
+INTITULÉ DE LA CAUSE : Hong Nhat Nguyen et M.R.N.
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 29 septembre 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Pierre R. Dussault
+DATE DU JUGEMENT : le 6 décembre 2005
+COMPARUTIONS :
+Représentant de l'appelante :
+Claude C.G. Gagné
+Représentante de l'intimé :
+Catherine Gagnon (stagiaire en droit)
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Étude :
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

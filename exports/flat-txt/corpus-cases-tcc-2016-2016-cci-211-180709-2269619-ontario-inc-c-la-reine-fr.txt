@@ -1,0 +1,103 @@
+Title: 2269619 Ontario Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/180709/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-211-180709-2269619-ontario-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-07-06
+
+# 2269619 Ontario Inc. c. La Reine
+
+- Citation: 2016 CCI 211
+- Decision date: 2016-07-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2897, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2269619 Ontario Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-07-06
+Référence neutre
+2016 CCI 211
+Numéro de dossier
+2015-2031(GST)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2016 CCI 211
+Date : 20160927
+Dossier : 2015-2031(GST)I
+ENTRE :
+2269619 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 22 juin 2016 à Toronto [Ontario].)
+La juge V. A. Miller
+[1] Les questions soulevées dans le présent appel visaient à déterminer (1) si l’appelante avait fourni un service de transport de marchandises détaxé durant la période du 1er janvier 2012 au 31 décembre 2013; (2) si elle était admissible à recevoir un crédit de taxe sur les intrants supplémentaire de 1 245,84 $ pour la période du 1er janvier au 31 décembre 2012; (3) si elle était admissible à recevoir un crédit de taxe sur les intrants de 6 666,94 $ pour la période du 1er janvier au 31 décembre 2013.
+[2] L’appelante était représentée par Ranjit Billing, qui était le seul témoin à l’audience. M. Billing a fait son témoignage par l’intermédiaire d’un interprète.
+[3] Il est ressorti clairement du témoignage de M. Billing que l’appelante n’avait pas déposé d’avis d’opposition pour la période du 1er janvier au 31 décembre 2013. Par conséquent, comme l’appel concernant la période de déclaration de 2013 ne m’a pas été présenté à juste titre, il est annulé.
+Service de transport de marchandises détaxé [4] M. Billing a fait constituer l’appelante en société le 4 janvier 2011. En janvier 2011, l’appelante a été inscrite aux fins de la taxe sur les produits et services (TPS). Le 2 juillet 2011, l’appelante a acheté un camion.
+[5] Durant son témoignage, M. Billing a indiqué qu’il était chauffeur et qu’il travaillait comme employé occasionnel en 2011. Il n’a pas utilisé le camion de l’appelante en 2011 puisqu’il n’arrivait pas à obtenir un poste en tant que propriétaire-exploitant de camion.
+[6] Durant la période du 1er janvier au 10 juillet 2012, M. Billing a travaillé comme chauffeur pour diverses entreprises. Il a mentionné, dans son témoignage, qu’il avait travaillé pour ces entreprises à titre d’employé. Je souligne que deux documents compris dans la pièce A-10 sont des bulletins de paie datant d’avant juillet 2012. Il semble que l’appelante ait été engagée comme sous‑traitante par ASL Global Logistics pour la période du 16 au 29 février 2012. M. Billing, et non l’appelante, a travaillé pour M&M Carriers durant la période du 1er au 15 juin 2012. Il a déclaré qu’il avait été embauché comme chauffeur par M&M Carriers.
+[7] Le 10 juillet 2012, l’appelante a été engagée en tant que propriétaire‑exploitant par Sahauli Transport Ltd. (« Sahauli »). Selon une lettre présentée par M. Billing, il a travaillé pour Sahauli en tant qu’entrepreneur indépendant durant la période du 18 juillet au 15 décembre 2012. Je souligne que cette lettre était datée du 25 juillet 2014. Elle portait la mention [traduction] « À qui de droit » et était signée par « Manpreet » à titre de gestionnaire. Elle était rédigée sur une feuille de papier ordinaire et ne portait aucun en-tête.
+[8] M. Billing a déclaré que l’appelante n’avait pas reçu de paiement de TPS de la part de Sahauli. Dans son témoignage, il a précisé que seuls les chauffeurs recevaient des paiements de TPS. Il a déclaré que l’appelante avait été payée par Sahauli, mais que ces paiements ne comprenaient pas la TPS puisque l’appelante possédait son propre camion.
+[9] Comme l’a expliqué M. Billing, il allait chercher de l’acier, du bois ou tout autre bien que Sahauli lui demandait d’aller chercher, et il transportait les chargements à divers endroits aux États-Unis ou au Canada. M. Billing a présenté des documents expliquant en détail les paiements versés par Sahauli à l’appelante durant la période du 18 juillet au 15 décembre 2012.
+[10] Le ministre du Revenu national (le « ministre ») a présumé que l’appelante avait réalisé des ventes d’une valeur de 97 243 $ en 2012 et que ces ventes étaient liées à des services taxables.
+[11] Dans son avis d’opposition, l’appelante a fait valoir que M. Billing avait travaillé comme chauffeur de janvier à août 2012 puis comme propriétaire‑exploitant de septembre à décembre 2012. Dans son avis d’appel, l’appelante a soutenu que ses services étaient détaxés puisqu’elle n’offrait que des services de transport de marchandises d’un transporteur à un autre. Ces positions ne sont cependant pas tout à fait cohérentes avec la position adoptée par l’appelante à l’audience.
+[12] Les conditions qui doivent être satisfaites pour qu’un service soit considéré comme détaxé ont été résumées comme suit par David Sherman :
+1) Il doit s’agir d’un « service de transport de marchandises », c’est-à-dire un service de transport de biens meubles corporels, au sens du paragraphe 1(1) de la Partie VII de l’Annexe VI.
+2) Le service doit être fourni par un « transporteur », c’est-à-dire une personne qui fournit un service de transport de marchandises au sens du paragraphe 123(1) de la Loi sur la taxe d’accise.
+3) Le service doit être fourni à un deuxième « transporteur ». Le deuxième transporteur doit être la personne qui est tenue, par obligation contractuelle, de payer le premier transporteur.
+4) Le service doit faire partie d’un « service continu de transport de marchandises », ce qui signifie le « transport d’un bien meuble corporel par un ou plusieurs transporteurs à une destination précisée par l’expéditeur, si tous les services de transport de marchandises fournis par les transporteurs le sont par suite des instructions de l’expéditeur ».
+5) Le deuxième transporteur ne doit être ni l’« expéditeur », au sens du paragraphe 1(1) de la Partie VII de l’Annexe VI, ni le « consignataire ».
+[13] Le témoignage de M. Billing était vague et incohérent. L’appelante n’a pas fourni suffisamment d’éléments de preuve pour me permettre de conclure qu’elle agissait à titre d’intertransporteur et que, de ce fait, ses services étaient détaxés. Rien ne me permettait de conclure que les conditions 3, 4 ou 5 étaient satisfaites.
+[14] J’ai conclu, selon les éléments de preuve, que l’appelante avait fourni des services en tant qu’entrepreneur indépendant de juillet à décembre 2012.
+[15] J’ai également conclu qu’avant juillet 2012, M. Billing avait été employé durant toute la période sauf du 16 au 29 février 2012, période durant laquelle l’appelante avait travaillé en sous-traitance pour ASL Global Logistics. Par conséquent, les ventes de l’appelante n’ont pas totalisé 97 243 $ en 2012 comme l’a déterminé le ministre. Selon mon calcul, les ventes ont totalisé 84 324,96 $ en 2012. Voir la pièce A-9.
+Crédits de taxe sur les intrants [16] Pour la période du 1er janvier au 31 décembre 2012 (la « période de déclaration de 2012 »), l’appelante a réclamé un crédit de taxe sur les intrants (« CTI ») d’une valeur totale de 2 741,32 $. Le ministre a accordé un CTI de 1 495,48 $. Par conséquent, la valeur du CTI en litige est de 1 245,84 $. Lors de l’audience du présent appel, l’appelante a présenté des factures indiquant qu’elle avait payé 902,09 $ au titre de la taxe de vente harmonisée (TVH) au cours de la période de déclaration de 2012.
+[17] Rien ne démontrait que les montants de TVH indiqués sur les factures présentées avaient été pris en compte dans le CTI déjà accordé par le ministre. Par conséquent, je suis d’avis que l’appelante est admissible à un CTI supplémentaire de 902,09 $ pour la période de déclaration de 2012.
+[18] L’appel visant la période de déclaration de 2012 est accueilli pour les motifs suivants :
+a) les ventes de l’appelante pour 2012 ont totalisé 84 324,96 $;
+b) l’appelante est admissible à un CTI supplémentaire de 902,09 $.
+[19] L’appel visant la période de déclaration de 2013 est annulé.
+Signé à Ottawa, Canada, ce 27e jour de septembre 2016.
+« V.A. Miller »
+La juge V. A. Miller
+RÉFÉRENCE :
+2016 CCI 211
+No DU DOSSIER DE LA COUR :
+2015-2031(GST)I
+INTITULÉ :
+2269619 ONTARIO INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 22 juin 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 6 juillet 2016
+DATE DES MOTIFS DU JUGEMENT :
+Le 27 septembre 2016
+COMPARUTIONS :
+Représentant de l’appelante :
+Ranjit Billing
+Avocate de l’intimée :
+Me Alisa Apostle
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

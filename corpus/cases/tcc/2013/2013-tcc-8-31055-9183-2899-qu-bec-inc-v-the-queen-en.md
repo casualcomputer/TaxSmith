@@ -1,0 +1,203 @@
+---
+title: "9183-2899 Québec Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31055/index.do"
+last_modified: "2013-01-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 8"
+citation2: ""
+neutral_citation: "2013 TCC 8"
+decision_date: "2013-01-11"
+language: "en"
+item_id: "31055"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4848
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:22:14.688000+00:00"
+cases_cited_count: 8
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "767bccf6ae5311020874bffb144a880a963e6eba1d92ccf41e07730ccd91f12e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9183-2899 Québec Inc. v. The Queen
+
+- Citation: 2013 TCC 8
+- Decision date: 2013-01-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4848, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9183-2899 Québec Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-01-11
+Neutral citation
+2013 TCC 8
+File numbers
+2011-1854(GST)I
+Judges and Taxing Officers
+Jean-Louis Batiot
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-1854(GST)I
+BETWEEN:
+9183-2899 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 4, 2012, at Montréal, Quebec.
+Before: The Honourable Jean-Louis Batiot, Deputy Judge
+Appearances:
+Counsel for the appellant:
+Richard Généreux
+Counsel for the respondent:
+Laurence Marteau
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated April 6, 2010, and bears no identifying number, for the period from July 1, 2007, to February 28, 2009, is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 11th day of January 2013.
+“Jean-Louis Batiot”
+Batiot D.J.
+Translation certified true
+on this 21st day of February 2013
+Margarita Gorbounova, Translator
+Citation: 2013 TCC 8
+Date: 20130111
+Docket: 2011-1854(GST)I
+BETWEEN:
+9183-2899 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Batiot D.J.
+[1] The appellant is appealing from an assessment dated April 6, 2010, for a total amount of $5,398.35 (interest included) for the period from July 1, 2007, to February 28, 2009. The respondent (eventually) disallowed an input tax credit (ITC) of $4,861.62 for the purchase of dismantled spare car parts from 9183-7302 Québec Inc. (the supplier), as indicated on its invoices: the supplier was unable to deliver the supplies to the appellant; therefore, these were simply accommodation invoices and the appellant was not entitled to the ITC.
+[2] The appellant, however, submits the following:
+[Translation]
+1. To the appellant’s knowledge, 9183-7302 Québec Inc. was its supplier. It had always been its supplier. The appellant paid the invoices by cheque in exchange for the delivery of the parts after verifying the merchandise and the supplier’s status with Revenu Québec.
+2. The invoices show that there was a commercial activity and that the appellant has made a prima facie case that demolishes the respondent’s assumptions.
+3. Although illegal, the activities of 9183-7302 Québec Inc. were still commercial and taxable; since the GST number was valid, the amounts paid by the appellant to that company are inputs that may be claimed against its own remittances to Revenu Québec. It referred to Québec (Sous-ministre du Revenu) c. Parent, 2008 QCCA 1476.
+4. It is important to respect the GST system, including inputs; its client paid these amounts in good faith; it is entitled to its claim.
+5. The appellant always acted in good faith. Revenu Québec indicated that the supplier’s registration number was valid. The appellant has the right to rely on this information.
+6. The respondent should have removed the registration number much more quickly: she was the only one who knew whether 9183-7302 Québec Inc. was engaged in illegal commercial activity and the only one who could verify whether the supplier was an offender.
+7. The respondent assessed 9183‑7302 Québec Inc. for a significant invoice amount ($4,345,600). She is the only one who knows whether any part of the amount paid by the appellant had already been paid by the supplier, which is a fact she would not disclose to the appellant. Therefore, a double recovery of GST, which would be contrary to the system itself and penalize the appellant or any other entity in the same situation, should be avoided.
+THE FACTS
+[3] Gaétan Laferrière, who has worked in vehicle recycling for 45 years, is an experienced businessman. He is now 66 years old and has been retired for two years. He created 9183-2899 Québec Inc., the appellant, after selling another company a few years ago. He operated the company under the name Recyclage d'autos G.L.
+[4] The appellant purchased about 2,500 cars per year as well as disassembled parts. It resold the parts to garages and dealerships. It had some 12 employees and had annual sales of about $1,200,000.
+[5] Mr. Laferrière performed three quarters of the purchases and signed all cheques once assured by his employees that the part was in good condition and that the supplier’s tax number was valid.
+[6] Mr. Laferrière always bought inexpensive car parts from a hundred or so suppliers and even from individuals. He paid cash even though, when the parts were resold, the appellant had to extend credit to its best clients.
+[7] His business relationship with the supplier in this case began following a visit to the premises of a salesperson and the first invoice (2007-08-29). It continued with three salespeople, Michel Manceau, Dave LeFrançois and one more whose name he cannot recall, until February 23, 2009, the date of the last invoice. Later in his testimony, he remembered only the first names Pierre and Paul. These salespeople always carried Entreprises Trudeau cards. The total amount of these invoiced exchanges is $103,597.71; therefore, the ITCs in this case are $4,861.62.
+[8] At the time of purchase, the appellant checked only the condition of the merchandise delivered, its identification number and the status of the supplier’s registration number with the respondent (which the respondent admits). But it did not verify whether the supplier held a vendor licence for selling car parts as required by article 153 of the Highway Safety Code, R.S.Q., c. C-24.2.
+[9] The evidence was presented by means of well-organized books of documents (A-1 and A-2) with 77 tabs. Tabs 8 to 77 contain purchase invoices, cheques in consideration and the appellant's invoices for the sale of some relevant disassembled parts. The appellant's invoices and cheques date from August 27, 2007, to February 23, 2009, but they are not always in correct chronological order (for example, an invoice and its consideration cheque dated February 12, 2009, can be found at tab 68, while an invoice and cheque dated December 24, 2008, can be found at tab 77). The purpose is to create a paper trail for each transaction in question. Parts that are not sold are added to the appellant's inventory.
+[10] For example, Exhibit A-1, tab 8, contains an invoice from 9183-7302 Québec Inc, the supplier, in the amount of $1,139.50. It has a description of parts from two different car models (Sedona and MPV), which cost $500 each plus GST and QST, dated August 23, 2007, including its valid GST number (857444954RT0001), a cheque (#246) for $4,558 (to pay for several invoices) issued on September 14, 2007, and cashed (the date is illegible) at a C.E.C.M. (described as a cheque-cashing centre) as well as the appellant's invoice to Luxe Automobile for the sale of one of these parts (Sedona) for $846.56, tax included.
+[11] This is repeated for each invoice, for one or more parts, with a cheque in consideration of one or more invoices (for example, Exhibit A-1, tab 21) and the appellant's invoice, if any, for the any resold parts.
+[12] All the invoices, whether they were issued to or received by the appellant, include relevant GST and QST (or GST and Prov. Tax) as well as the unique identification number of each part. We can see the excellent profit that can sometimes be made.
+[13] The respondent does not question the validity of the serial numbers on the invoices. The two books of exhibits were also admitted in evidence by mutual agreement.
+[14] The respondent does not deny that the transactions took place and that the dismantled car parts were exchanged for consideration. She simply states that the supplier was not 9183-7302 Québec Inc. but several other people who remain unknown to her; that 9183-7302 Québec Inc. did not have the physical means to carry on this type of business or perform such transactions because it had no warehouse, no employees, no administrative or transportation services and no sub‑contractors; that it was only a supplier of accommodation invoices; and that therefore the GST number associated with 9183-7302 Québec Inc. is not valid for these transactions. In fact, the number was removed in December 2009 following the audit investigation started by Serge Giroux in March 2009.
+Was 9183-7302 Québec Inc. the appellant's supplier?
+[15] The appellant claims that it was and reiterates it in its submissions: the invoices prove it; the purchase of dismantled parts supports it; the cheques in consideration show it, the resales demonstrate it. These facts are sufficient to demolish the assumptions on which the assessment in this case is based.
+[16] The appellant paid 76 invoices to 9183-7302 Québec Inc. from August 29, 2007, to February 23, 2009, and received in exchange the car parts described, which it resold in part. It is therefore conclusive evidence of commercial transactions, made possible only by the transactions with 9183-7302 Québec Inc.
+[17] Both Mr. Laferrière's testimony and the documentary evidence show that cheques were issued only after a satisfactory verification of the registration number's validity with Revenu Québec. A certificate of this is added to the books of exhibits starting at tab 33 for a transaction dated January 28, 2008. This certificate indicates only the status of the QST number; the status of the GST number was not available. There is no explanation for this change of practice.
+[18] The company 9183-7302 Québec Inc., business number 1164504897, received a licence number on June 15, 2007, the day it was registered with the Quebec Enterprise Register. It is described there as licensed, without a shareholder or president, secretary, chief executive officer, delegated authority and having a sole director, Trudeau, Guy, having the same address, 9251 15th Avenue, Montréal, Quebec H1Z 3P4 (Exhibit A-1). That Exhibit is dated 2011-06-07. It may not reflect the reality during the period at issue (2007-08-29 to 2009-02-23), but there is no evidence to that effect.
+[19] Mr. Laferrière has never met Guy Trudeau. He never visited his head office. Indeed, the address on his invoices is different (251 15th Avenue). It is missing the first number, but the city and postal code are the same. This address does not exist.
+[20] The invoices are the only connection between the appellant and 9183-7302 Québec Inc. Neither Pierre nor Paul nor Michel Manceau nor Dave LeFrançois testified. The only evidence is that of Mr. Laferrière and of Mr. Giroux, the respondent's witness who was also called by the appellant, explaining the supplier's status as discovered by him a few months after the last invoice.
+[21] There is no evidence nor is it suggested that the appellant was in collusion with the supplier on the accommodation invoice scheme described in the respondent's reply. From Mr. Laferrière's point of view, his company had a business relationship with the supplier for almost 18 months on the most basic level: an exchange of inexpensive merchandise that it needed for a cheque, without credit or security. He simply followed his usual practice. Is that prima facie evidence?
+[22] In Amiante Spec Inc. v. Canada, 2009 FCA 139, Justice Trudel states the following at paragraph 23:
+A prima facie case is one “supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved. . . . (Stewart v. Canada, [2000] T.C.J. No. 53, paragraph 23).
+At paragraph 24, referring to Orly Automobiles inc. v. Canada, 2005 FCA 425, Justice Trudel states the following:
+. . . the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted . . .
+and that the taxpayer
+. . . knows how and why it is run in a particular fashion rather than in some other ways. He [or she] knows and possesses information that the Minister does not. He [or she] has information within his [or her] reach and under his [or her] control” (ibid.).
+[23] I accept Mr. Laferrière's testimony for the appellant, which, given all the transactions made in its name that were verified with the authorities, believed that it was doing business with the supplier. At this stage of the hearing (prima facie case), we heard the respondent's evidence and her very clear position: 9183-7302 Québec Inc. existed only in name, and, even though it had valid tax numbers, it simply did not have the means to perform the transactions described by the appellant.
+[24] The testimony of the two auditors, Mr. Giroux for 9183-7302 Québec Inc. and Lise Lavoie for the appellant, can be summarized as follows:
+[25] 9183-7302 Québec Inc.:
+- gave a false address on its invoices, 251 15th Ave., Montréal, which does not exist;
+- had a phone number that was not in service (at least during the 2009 audit);
+- had a real address, 9251 15th Ave., Montréal, in a residential area, with no evidence of commercial activity;
+- had a director, Guy Trudeau, at the same address, indicated in the enterprise register. He did not live there during Mr. Giroux's audit;
+- had no warehouse;
+- had no means of transportation (truck);
+- had no officer or director
+- had a sole shareholder, Guy Trudeau, a tax offender who remains unreachable
+- issued many invoices often without respecting their numerical sequence, to some 195 "clients";
+- did not hold a valid licence that would enable it to sell dismantled car parts, as prescribed in article 153 of the Highway Safety Code.
+- was assessed for sales of over $4 million on evidence of numerous invoices from 195 accounts including that of the appellant.
+- never provided the GST reports required of it as an agent of Revenu Québec.
+[26] These facts are sufficient to prove the respondent's assumptions, which are the basis for the assessment in this case: 9183-7302 Québec Inc. provided accommodation invoices and could not carry on the business described in the invoices issued to the appellant. Therefore, the appellant made an error.
+Did the appellant exercise due diligence in order to prevent the error?
+[27] It argues that it acted in good faith and that the respondent, who is responsible for her own proper administration, was negligent in keeping the tax registration number on which the appellant relied valid on her Web site.
+[28] The respondent began the audit of 9183-7302 Québec Inc. only in March 2009, almost two years after its creation, but had already received a significant number of ITC claims relating to this supplier, even if it was only from the appellant, which reported every quarter.
+[29] It seems that different sections of Revenu Québec do not always communicate and that an ITC claim is not always connected with the agent who collected or ought to have collected and remitted the tax, which would explain the delay of this audit that had uncovered significant fraud.
+[30] I accept that the appellant verified the registration number even before it retained a copy of this certificate in its files (practice instituted on January 25, 2008, tab 33). I also accept that, without a valid number, it would not have paid the invoice and that there is no evidence or suggestion of collusion between the appellant and the supplier.
+[31] It argues that it acted in good faith and that it should not have to insure Revenu Québec, who, not having received the money from its agent, turned on it without justification.
+[32] The appellant refers to Joseph Ribkoff Inc. v. The Queen, 2003 TCC 397, and Québec (Sous-ministre du Revenu) c. Vêtements de sport Chapter One Inc., 2008 QCCA 598.
+[33] The latter deals with an appeal from a Court of Québec decision allowing the taxpayer's appeal in respect of a QST assessment for disallowed ITCs. At paragraph 26, the Court of Appeal of Québec approved the defence of good faith as stated by Revenu Québec in its Interpretation Bulletin and determines that the issue is simply as follows:
+[Translation]
+. . . whether the respondent was in good faith, that is, whether, based on the assessment of the facts of the case, it could legitimately believe, as a person who is reasonable, diligent and experienced in its area of activity, that the author of the invoices it produced in support of its claim was the actual supplier.
+[34] In Corp. de l'École Polytechnique v. Canada, 2004 FCA 127, the Federal Court of Appeal states that there are two separate defences: that of good faith and that of due diligence (for charges involving strict liability). It observes the following at paragraph 29:
+The defence of due diligence should not be confused with the defence of good faith, which applies in the area of criminal liability, requiring proof of intent or guilty knowledge. The good faith defence enables a person to be exonerated if he or she has made an error of fact in good faith, even if the latter was unreasonable, whereas the due diligence defence requires that the error be reasonable, namely, an error which a reasonable person would have made in the same circumstances. The due diligence defence, which requires a reasonable but erroneous belief in a situation of fact, is thus a higher standard than that of good faith, which only requires an honest, but equally erroneous, belief.
+[35] The difference between these two judgments is more apparent than real since both stress the importance of due diligence to be informed about the circumstances. I am bound by the Federal Court of Appeal judgment.
+[36] Given the evidence adduced in this appeal, the appropriate defence for this error is whether the appellant made a reasonable error in its understanding that the supplier was 9183-7302 Québec Inc. or took reasonable precautions to prevent it.
+[37] Indeed, this is the key issue in this appeal.
+[38] From the outset, the appellant did business only with salespeople who claimed to be representatives of 9183-7302 Québec Inc. That was its normal practice. It had its usual clients from whom it purchased parts regularly. Indeed, that was what it did with the supplier for 18 months. The ending of the relationship after February 23, 2009, remains unexplained.
+[39] Because it made cash purchases without security or credit, I infer that it did not need to contact the company itself. Every transaction was carried out on its premises.
+[40] Certainly, the audit after the fact shows a lack of numerical order in some invoices, sometimes on the same day. But in this case, purchasing from various itinerant salespeople is not in itself extraordinary. It is not shown that all businesses must save and regularly verify this type of statistics.
+[41] Several invoices were dated earlier than the payment date. I accept that payment was made on delivery of the merchandise after its quality was verified. I infer that these invoices were probably orders for certain parts needed, which were delivered later. Exhibit I-2 demonstrates this, for example, for payments dated 2008‑10-09 (invoices dated 2008-09-26 and 2008-10-08); 2008-04-28 (invoices dated 2008-04-28 and 2008-04-25); 2008-04-29 (invoices dated 2008-04-25 and 2008‑04-29); 2007-10-04 (invoices dated 2007-09-07, 2007-09-10, 2007-09‑11, 2007‑09-12, 2007-09-13 and 2007-09-03).
+[42] The appellant made sure that this supplier existed on the Revenu Québec and enterprise register Web sites. The first Web site had only the QST registration number. However, the appellant reported both taxes to Revenu Québec, which admits that the two numbers were valid until they were removed at the end of November– beginning of December 2009, some nine months after the last invoice. I accept Mr. Laferrière's testimony that the validity of these numbers was a prerequisite to every payment, as required by the Act and case law (Systematix Technology Consultants Inc. v. Canada, 2007 FCA 226 and Comtronic Computer Inc. v. Canada, 2010 TCC 55, rendered on January 28, 2010). The only way to make sure of it is to check Revenu Québec's Web site or to call them. That was what it did every time. The QST number was valid. It filed its returns and claimed its ITCs for QST and GST in respect of this supplier every three months since August 2007. It received a notice that there was a problem from the respondent only in 2010, more than a year after its last return that included ITCs for this supplier.
+[43] Although it held a licence under article 153 of the Highway Safety Code, it never requested that relevant information from salespeople. Such a licence is obtained after its holder has given a security to guarantee adequate reimbursement to the owner of a stolen road vehicle or execution of a judgment or of a transaction . . . opposing a consumer and the holder of a licence (art. 154 H.S.C.).
+[44] I note that the appellant saved identification numbers of road vehicles or their parts on its own invoices and those it received from the supplier. This is admitted by the respondent, and there is therefore no question of whether this information meets the standards set out in article 155. It seems to do so prima facie, for example, the identification number of every road vehicle . . . a description of its major components and the identification thereof by means of the identification number, etc.
+[45] It would have been preferable that the appellant obtain this licence number, but the direct result of this omission is that, in case of a claim (by the owner of a stolen road vehicle . . . or . . . a consumer), the appellant is the only one who is liable and cannot hold the surety jointly and severally liable, as set out in article 154.
+[46] Given the circumstances at the time of these transactions, the appellant exercised the necessary due diligence required to prevent the error that is now attributed to it by the respondent based on her submissions.
+[47] The appeal is allowed.
+Signed at Montréal, Quebec, this 11th day of January 2013.
+"Jean-Louis Batiot"
+Batiot D.J.
+Translation certified true
+on this 21st day of February 2013
+Margarita Gorbounova, Translator
+CITATION: 2013 TCC 8
+COURT FILE No.: 2011-1854(GST)I
+STYLE OF CAUSE: 9183-2899 QUÉBEC INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 4, 2012
+REASONS FOR JUDGMENT BY: The Honourable Jean-Louis Batiot
+Deputy Judge
+DATE OF JUDGMENT: January 11, 2013
+APPEARANCES:
+Counsel for the appellant:
+Richard Généreux
+Counsel for the respondent:
+Laurence Marteau
+COUNSEL OF RECORD:
+For the appellant:
+Name: Richard Généreux
+Firm: Avocat - Fiscaliste
+Ile-des-Sœurs, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,231 @@
+---
+title: "Oasis Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27966/index.do"
+last_modified: "2003-06-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 370"
+citation2: ""
+neutral_citation: "2003 TCC 370"
+decision_date: "2003-06-02"
+language: "en"
+item_id: "27966"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1814
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:05:58.660000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "33525d252a0acdd2fb0f87dc9f4905f25e2927d22ef4dbac0084241c00a16b61"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Oasis Ltd. v. M.N.R.
+
+- Citation: 2003 TCC 370
+- Decision date: 2003-06-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1814, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Oasis Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-02
+Neutral citation
+2003 TCC 370
+File numbers
+2002-1583(EI)
+Judges and Taxing Officers
+Michael H. Porter
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-1583(EI)
+BETWEEN:
+OASIS LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 25, 2003 at Edmonton, Alberta,
+Before: The Honourable Deputy Judge Michael H. Porter
+Appearances:
+Agent for the Appellant:
+Richard Scheer
+For the Respondent:
+Laura Dunham (Student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Calgary, Alberta, this 2nd day of June 2003.
+"M.H. Porter"
+D.J.T.C.C.
+Citation: 2003TCC370
+Date:20030602
+Docket: 2002-1583(EI)
+BETWEEN:
+OASIS LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Porter, D.J.T.C.C.
+[1] This appeal was heard in Edmonton, Alberta on February 25, 2003. The Appellant was represented by Richard Scheer, a director of the Company.
+[2] The Appellant has appealed from the decision of the Minister of National Revenue (hereinafter called the “Minister”) dated January 25, 2002, that the employment with it of Wesley St. Jean (the “Worker”) for the period of October 7 to December 31, 2000 was insurable under the Employment Insurance Act (the “EI Act”) for the following reason:
+...Wesley St. Jean was employed under a contract of service. Therefore, he was an employee.
+The decision was said to be issued pursuant to section 93 of the EI Act and was based on paragraph 5(1)(a) thereof.
+[3] The material facts reveal that the Appellant, during the period in question, was carrying on a furniture assembly business. The Worker was engaged by the Appellant as a labourer and his duties included assembling furniture and doing some deliveries. The engagment was pursuant to a written contract which was entitled “Sub contractor Agreement for Services”. The Minister has decided that despite the written agreement, the work was in fact carried out by the Worker as an employee pursuant to a contract of service. The Appellant maintains otherwise that the Worker was a subcontractor working under a contract for services. This is the issue before the Court.
+The Law
+Contracts Of/For Service
+[4] The manner in which the Court should go about deciding whether any particular working arrangement is a contract of service and thus an employer/employee relationship or a contract for services and thus an independent contractor relationship, has long been guided by the words of MacGuigan J. of the Federal Court of Appeal in the case of Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025. The reasoning in that case was amplified and explained further in cases emanating from that Court, namely in the cases of Moose Jaw Kinsmen Flying Fins Inc. v. M.N.R., 88 DTC 6099, Charbonneau v. Canada (M.N.R.), [1996] F.C.J. No. 1337, and Vulcain Alarme Inc. v. The Minister of National Revenue, (1999) 249 N.R. 1, all of which provided useful guidance to a trial Court in deciding these matters.
+[5] The Supreme Court of Canada has now revisited this issue in the case of 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. No. 61, 2001 SCC 59, 274 N.R. 366. The issue in that case arose in the context of a vicarious liability situation. However, the Court recognized that the same criteria applied in many other situations, including employment legislation. Mr. Justice Major, speaking for the Court, approved the approach taken by MacGuigan J. in the Wiebe Door case (above), where he had analyzed Canadian, English and American authorities, and, in particular, referred to the four tests, for making such a determination enunciated by Lord Wright in City of Montreal v. Montreal Locomotive Works Ltd., [1974] 1 D.L.R. 161 at 169-70. MacGuigan J. concluded at page 5028 that:
+Taken thus in context, Lord Wright's fourfold test [control, ownership of tools, chance of profit, risk of loss] is a general, indeed an overarching test, which involves "examining the whole of the various elements which constitute the relationship between the parties". In his own use of the test to determine the character of the relationship in the Montreal Locomotive Works case itself, Lord Wright combines and integrates the four tests in order to seek out the meaning of the whole transaction.
+At page 5029 he said:
+... I interpret Lord Wright's test not as the fourfold one it is often described as being but rather as a four-in-one test, with emphasis always retained on what Lord Wright, supra, calls "the combined force of the whole scheme of operations," even while the usefulness of the four subordinate criteria is acknowledged. (emphasis mine)
+At page 5030 he had this to say:
+What must always remain of the essence is the search for the total relationship of the parties…
+He also observed:
+There is no escape for the Trial Judge, when confronted with such a problem, from carefully weighing all of the relevant factors…
+[6] Mr. Justice MacGuigan also said this:
+Perhaps the best synthesis found in the authorities is that of Cooke J. in Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732, 738-9:
+The observations of Lord Wright, of Denning L.J., and of the judges of the Supreme Court in the U.S.A. suggest that the fundamental test to be applied is this: "Is the person who has engaged himself to perform these services performing them as a person in business on his own account?" If the answer to that question is "yes", then the contract is a contract for services. If the answer is "no" then the contract is a contract of service. No exhaustive list has been compiled and perhaps no exhaustive list can be compiled of considerations which are relevant in determining that question, nor can strict rules be laid down as to the relative weight which the various considerations should carry in particular cases. The most that can be said is that control will no doubt always have to be considered, although it can no longer be regarded as the sole determining factor; and that factors, which may be of importance, are such matters as whether the man performing the services provides his own equipment, whether he hires his own helpers, what degree of financial risk be taken, what degree of responsibility for investment and management he has, and whether and how far he has an opportunity of profiting from sound management in the performance of his task. The application of the general test may be easier in a case where the person who engages himself to perform the services does so in the course of an already established business of his own; but this factor is not decisive, and a person who engages himself to perform services for another may well be an independent contractor even though he has not entered into the contract in the course of an existing business carried on by him.
+[7] In the case of Kinsmen Flying Fins Inc. case, above, the Federal Court of Appeal said this:
+... like MacGuigan J. we view the tests as being useful subordinates in weighing all of the facts relating to the operations of the Applicant. That is now the preferable and proper approach for the very good reason that in a given case, and this may well be one of them, one or more of the tests can have little or no applicability. To formulate a decision then, the overall evidence must be considered taking into account those of the tests which may be applicable and giving to all the evidence the weight which the circumstances may dictate.
+[8] The nature of the tests referred to by the Federal Court of Appeal can be summarized as:
+a) The degree or absence of control exercised by the alleged employer;
+b) Ownership of tools;
+c) Chance of profit;
+d) Risk of loss;
+In addition, the Court must consider the question of the integration, if any, of the alleged employee's work into the alleged employer's business.
+[9] In the Sagaz decision (above) Major J. said this:
+…control is not the only factor to consider in determining if a worker is an employee or an independent contractor…
+[10] He dealt with the inadequacy of the ‘control test’ by again approving the words of MacGuigan J. in the Wiebe Door case (above) as follows:
+A principal inadequacy [with the control test] is its apparent dependence on the exact terms in which the task in question is contracted for: where the contract contains detailed specifications and conditions, which would be the normal expectation in a contract with an independent contractor, the control may even be greater than where it is to be exercised by direction on the job, as would be the normal expectation in a contract with a servant, but a literal application of the test might find the actual control to be less. In addition, the test has broken down completely in relation to highly skilled and professional workers, who possess skills far beyond the ability of their employers to direct.
+[11] He went on to say this:
+In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, …([1952] 1 The Times L.R. 101) that it may be impossible to give a precise definition of the distinction (p.111) and, similarly, Fleming observed that “no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations …” (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, … (Vicarious Liability in the Law of Torts. London: Butterworths, 1967), at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose…. The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[12] I also find guidance in the words of Décary J.A. in the Charbonneau case (above) when speaking for the Federal Court of Appeal he said this:
+The tests laid down by this Court ... are not the ingredients of a magic formula. They are guidelines which it will generally be useful to consider, but not to the point of jeopardizing the ultimate objective of the exercise, which is to determine the overall relationship between the parties. The issue is always, once it has been determined that there is a genuine contract, whether there is a relationship of subordination between the parties such that there is a contract of employment ... or, whether there is ... such a degree of autonomy that there is a contract of enterprise or for services. ... In other words, we must not pay so much attention to the trees that we lose sight of the forest. ... The parts must give way to the whole. (emphasis mine)
+[13] I also refer to the words of Létourneau J.A. in the Vulcain Alarme case (above), where he said this:
+… These tests derived from case law are important, but it should be remembered that they cannot be allowed to compromise the ultimate purpose of the exercise, to establish in general the relationship between the parties. This exercise involves determining whether a relationship of subordination exists between the parties such that the Court must conclude that there was a contract of employment within the meaning of art. 2085 of the Civil Code of Quebec, or whether instead there was between them the degree of independence which characterises a contract of enterprise or for services….
+[14] I am further mindful that as a result of the recent decisions of the Federal Court of Appeal in Wolf v. Canada, [2002] F.C.J. No. 375, and Precision Gutters Ltd. v. Canada (Minister of National Revenue-M.N.R.), [2002] F.C.J. No. 771, a considerable degree of latitude seems now to have been allowed to creep into the jurisprudence enabling consultants to be engaged in a manner in which they are not deemed to be employees as they might formerly been. I am particularly mindful of the words of Mr. Justice Décary in the Wolf decision (above) where he said:
+In our day and age, when a worker decides to keep his freedom to come in and out of a contract almost at will, when the hiring person wants to have no liability towards a worker other than the price of work and when the terms of the contract and its performance reflect those intentions, the contract should generally be characterised as a contract for services. If specific factors have to be identified, I would name lack of job security, disregard for employee-type benefits, freedom of choice and mobility concerns. (my emphasis)
+[15] Thus, it seems to this Court that the pendulum has started to swing, so as to enable parties to govern their affairs more easily in relation to consulting work and so that they may more readily be able to categorize themselves, without interference by the Courts or the Minister, as independent contractors rather than employees working under contracts of service.
+[16] In conclusion, there is no set formula. All these factors bear consideration and as Major J. said in the Sagaz case (above), the weight of each will depend upon the particular facts and circumstances of the case. Many of the tests can be quite neutral and can apply equally to both types of situation. In such case, serious consideration has to be given to the intent of the parties. Thus is the task of the trial Judge.
+The Facts
+[17] The Minister was said in the Reply to the Notice of Appeal, signed on his behalf, to have relied upon the following assumptions of fact (I have placed the agreement or disagreement of the Appellant in parenthesis):
+6.(a) The Appellant is in the furniture assembly business. (Agreed)
+(b) The Worker was hired as a labourer and his duties included assembling furniture and some deliveries. (Agreed: Subject to the word “hired” being replaced by “engaged”)
+(c) The Worker performed most of his services at the Appellant’s location. (Agreed)
+(d) The Worker was required to sign a written agreement prior to working for the Appellant. (Agreed)
+(e) The Worker earned a set wage of $10.00 per hour. (Agreed)
+(f) The Worker also received 1.5 times the set wage for any overtime worked. (Agreed)
+(g) The Appellant set the wage rates. (Disagreed – the parties negotiated the rate between them)
+(h) The Worker was paid bi-weekly. (Agreed, generally speaking – they were paid within 30 days of the work being done)
+(i) The Worker normally worked from 8:00 a.m. to 4:30 p.m. (Disagreed)
+(j) The Appellant determined the Worker’s hours and days of work. (Disagreed)
+(k) The Worker was required to keep track of his hours on a timesheet. (Agreed)
+(l) The Worker reported to the Appellant’s premises every morning. (Agreed – in most cases)
+(m) The Appellant obtained and assigned the work. (Agreed)
+(n) The Appellant set all schedules and deadlines. (Disagreed)
+(o) The Appellant instructed and supervised the Worker. (Disagreed – but explanation follows)
+(p) The Worker normally worked along side the Appellant’s foreman. (Disagreed)
+(q) The Worker could not replace himself or hire his own helpers. (Disagreed)
+(r) The Worker provided his own small hand tools. (Agreed)
+(s) The Appellant provided the large tools including dollies, carts, cordless tools, and a delivery truck. (Agreed, but not cordless tools)
+(t) The Worker did not incur any expenses in the performance of his duties. (Disagreed)
+(u) The Worker did not charge the Appellant G.S.T. (Agreed)
+[18] Richard Scheer (“Scheer”) gave evidence on behalf of the Appellant, as did another labourer. The Worker gave evidence on behalf of the Minister.
+[19] Scheer, in his evidence, said that the Worker knew when he was engaged that it was as a subcontractor and that he, Scheer, told the Worker that he only hired subcontractors. He said they signed the contract to that effect prior to the Worker starting work. There is a form of contract provided by the Appellant, which I took to be a standard form. The Worker had no input into its wording. It read as follows (Exhibit A-1):
+Regarding: Sub Contractor Agreement for services.
+All sub contractors are responsible for supplying their own tools, to be able to install systems office furniture. O.A.S.I.S. LTD. will supply necessary equipment for movement of product from one location to another.
+All sub contractors are required to provide their own transportation to the initial site work each day. Fourteen dollars per hour will be paid to any sub contractor using his/her vehicle to transport equipment, as long as O.A.S.I.S. LTD. can invoice clients for this expense.
+All sub-contractors are required to have some form of communications equipment (cell phone, pager, etc.) which O.A.S.I.S. LTD. will not be financially responsible for.
+For any out of town work, sub contractors will receive regular rate per hour for any traveling. Overtime will be paid after eight hours a day, or forty hours a week, which ever comes first except for return traveling. Sub contractor invoices will be calculated from Sunday to Saturday being cut off, to insure accurate over time on invoices. If any training is required the sub contractor is financially and solely responsible.
+All invoices will be paid within thirty days of days worked.
+Any damage of poor workmanship will be the sole responsibility of the sub contractor. A reasonable approach will be taken to rectify the situation.
+Sub contractors will be required to meet O.A.S.I.S. LTD. client demands, with the utmost courtesy.
+All taxes and Canada Pension owed for sub contractor invoices are the sole responsibility of the sub contractor.
+[20] Scheer said he told the Worker that he could not guarantee work from one day to the next. However, the evidence later revealed that the Worker was required to check in at the Appellant’s place of business, or the coffee shop, in Canada Place, on a daily basis to receive his assignments. There was some evidence that he would only do this upon call, but I gleaned from the evidence that he went there almost on a daily basis.
+[21] Scheer said he told the Worker that he had to get his own tools and needed some form of communication, such as a cell phone or pager. According to Scheer, the Worker said that he could get some tools from his father who lived in Sherwood Park. It is apparent that he did not obtain these, at least for most of the term of the contract.
+[22] The rate of pay which was to be hourly, was discussed between them and the Worker accepted $10.00 as being satisfactory. I do not find that there was any great negotiation around this. It was offered by Scheer and accepted by the Worker.
+[23] From the outset, Scheer did not think much of the Worker’s job performance; the feedback he received from his other workers and from his clients was that the Worker was lazy and had an attitude problem. So I take it things got off to a bit of a rocky start between them and went downhill from there.
+[24] A great deal of the Appellant’s work was at Canada Place in Edmonton. Scheer said he assigned the Worker to jobs in that building. At first, the Worker went with a group of other workers. Somebody kept track of his hours. After a while, he took on some small projects on his own. Nonetheless, he was assigned to those projects by the Appellant. He had no say in which jobs he wanted to do or did not want to do.
+[25] Scheer said that the Worker could come and go as he pleased and that he did not set hours. The Worker said the custom was that all the workers turned up at the food court in the morning and were assigned work by Scheer. He said that on one occasion he phoned Scheer and asked if he might not come in the next day and was told not to bother coming in the day after either if he did not show up. The clear implication was that he would be let go if he did not attend for work.
+[26] The Worker also gave evidence that he was paired with a more experienced worker who would decide when they stopped for coffee, had lunch or went home. Thus, he felt he was being supervised and did not have the freedom to come and go as he pleased. Clearly, when the Appellant had contracted to have a project finished within a certain time, it expected the Worker to get the job done within that time limit.
+[27] Scheer said (item 6(q)) that the Worker could replace himself. He gave one example of his putting somebody else into the Worker’s place when the latter did not show up. The Appellant paid the other worker. This was not a case of the Worker hiring his own helpers or replacements, but a substitute being provided by the Appellant. The Worker never did have his own helpers or replacements, nor do I find that he would have been able to do so if he had chosen to do that.
+[28] With respect to tools, it is clear that at the outset the Worker was told that he needed to have his own tools, such as wrenches, screwdrivers and a tape measure. He indicated he would get some and did, in the end, have a small box of tools. On the whole, he borrowed tools from the other workers. Major tools such as dollies and pallet jacks were supplied by the Appellant. The Worker, it seems, never did have a cell phone or a pager and had difficulty in producing a truck for transporting materials to job sites.
+[29] There was evidence about T-shirts, which Scheer said needed to identify the workers in Canada Place. He said they could wear them or not and that he provided them for free. The evidence on one invoice provided by the Worker is that the Worker was required to pay for his T-shirt. He felt he had no option and I accept his evidence on this point.
+[30] Invoices were prepared and presented to the Appellant by the Worker every 14 days. Scheer said that the Worker must have obtained his invoice form from another worker. I think he was being less than frank. The Worker said the invoice forms were in the office and he was required to take one and complete it. In one instance at least there was a query over his hours. It seems the supervising worker would keep track of the hours spent on each job so the Appellant could bill the client appropriately. Thus, in an indirect way, the Appellant kept track of the hours of work of the different workers.
+[31] There was evidence from another worker who said that the Worker knew all along that he was a subcontractor. I did not find this evidence helpful as the implications of calling himself a subcontractor were not discussed and were unknown. Clearly there was a certain amount of bad blood between the other workers and the Worker.
+[32] That, in summary, is how I see the evidence.
+Application of the Various Factors
+[33] Whilst the necessity of reviewing a number of the factors which, prior to the Sagaz case (above), were called the four-in-one test plus an integration test, is somewhat diminished by that case it is still perhaps a useful exercise to go through.
+[34] Title: It must still be clearly understood that even where the parties choose to put a title on their relationship, if the true nature and substance of the arrangement does not accord with that title, it is the substance to which the Court must have regard. Having said that, it is also fair to say that where the parties truly choose a particular method of setting up their working arrangement, it is not for the Minister or this Court to disregard that choice. Due deference must be given to the method chosen by the parties and if on the evidence as a whole there is no substantial reason to derogate from the title chosen by the parties, then it should be left untouched. The Wolf and Precision Gutter cases (above) very much substantiate that proposition. In the case at bar, I am not at all satisfied that the Worker knew what was involved in signing himself up as a subcontractor. He was handed a standard form of contract, into which he had no input. True he was asked if he had any questions. However, to get the job he knew he had to sign it. To say that the Worker is naive when it comes to business matters would, after listening to him, be an understatement. In my view, he did not have a clue as to what this was all about. I am certainly unable to say that there was any true meeting of the minds. The title put on the arrangement does not indicate to me that this was necessarily an independent contractor arrangement, in fact.
+[35] Control: In my view, a great deal of control was exercised over of the Worker by the Appellant or his agents. He was clearly told where he would be working and with whom. He was told by his supervising worker when they would break and when they would quit. If he did not turn up, he was in jeopardy of losing his job. He was required to invoice on the company forms. He was required to wear a company T-shirt. Having observed the forceful character of Richard Scheer and the naiveté of the Worker, I have no doubt in my mind that a great deal of control was exercised over him in relation to his work.
+[36] This factor clearly, in my mind, points to an employee situation working under a contract of service.
+[37] Tools and Equipment: The Worker was expected to have his own working tools, but in fact he did not. He borrowed from other workers, although he had minimally some of his own later in the term of the contract. The major tools were provided by the Appellant. Whilst being mindful of the Precision Gutters case (above) and the words of Sexton J.A., I am not of the view that in this case the Worker had any significant tools which would place him in the same sort of category as the gutter installers in that case. Perhaps it is a matter of degree, but it is clear that many employees working under contracts of service carry their own tools and no one would suggest that they are not employees on this factor alone.
+[38] In my view, this factor points more to a contract of service than a contract for services.
+[39] Chance of Profit and Risk of Loss: Again, I see a considerable distinction in this case from the Precision Gutters case (above). The hourly rate was acceptable to the Worker, but in reality, it was set by the Appellant. There was no true negotiation around any particular project. The Worker in this case did not use his own judgment as to when he would work and whether to accept or decline any particular job. There was no ongoing negotiation of the price. The Worker was not essentially free to go and work for other installers without the risk of losing his job with the Appellant. The Worker was assigned to particular jobs and thus had no freedom to make profits elsewhere. He could not have hired others to work for him. He was liable for defects, but there is no evidence of this ever occurring or being likely to occur. It is true that there was no guarantee of work, but in reality there was work available on a daily basis.
+[40] There is no evidence that the Worker had any significant expense in purchasing tools or a cell phone or providing his truck. Any or all of these things might make a considerable difference.
+[41] The Worker could simply make more money by working more hours. He had no chance of making a profit in the entrepreneurial sense of that word, nor was he at risk for any loss. This factor clearly points, in my view, to an employee relationship not that of an independent contractor.
+[42] Integration: This is the aspect of the test which has been most often criticized. The question to be asked is: “is the Worker performing his services as a person in business on his own account?” When considering this question, it must be looked at from the point of view of the worker and not the employer’s. From the latter’s point of view, it will always look like its business. In other words, were there two businesses here or one?
+[43] In this situation, the Worker was previously employed as a security guard. He was approached by Scheer, to whom he was known, to come work for the Appellant. He was told about being a subcontractor. However, he had no inkling of being in business for himself. To him, it was a job and whatever he was called did not matter. He had no difficulty in accepting to pay his own statutory deductions. However, I gleaned from his evidence that nothing was further from his mind than being in business for himself. In summary, he simply did not have the necessary sophistication to think in that way.
+[44] I felt that in this case, it was rather like the Appellant was trying to fit a square peg into a round hole. It may be that other workers have set up with the Appellant in a more independent or entrepreneurial way, whereby they may correspond to the criteria as set out in the Precision Gutters case (above). Each one may have to be viewed in their own respective and individual circumstances. Nothing should be taken in these Reasons as necessarily applying to others who work for the Appellant. However, in the case of this Worker, he was expected to have tools, his cell phone, a truck and a G.S.T. number, all of the trappings of an independent contractor. He had none of them. Overwhelmingly, I am of the view that he just took on a job which paid $10.00 per hour and then did as he was told. The Appellant wished to put him in the category of a subcontractor, but quite frankly, the way in which he was engaged did not fit into that category. The Worker had no concept of being in business for himself. In my view, there was only one business here and the Worker was fully integrated into it. To be told, or even to sign a paper, to the effect that he was being engaged as an independent contractor and would have no statutory deductions taken off his pay, was not sufficient to change that.
+Conclusion
+[45] When I look at the forest as a whole and not just at the individual trees, I am well satisfied on the evidence that the Worker was an employee working under a contract of service. I see a considerable distinction in this case from the Wolf and the Precision Gutters cases (above). Whilst the principles enunciated in these cases may now well lead to a greater number of consultants being engaged as independent contractors rather than as employees, the situation at hand has nonetheless left me with the overall impression that the Worker in this case was, in reality, an employee.
+[46] Accordingly, the decision of the Minister is confirmed and the appeal is dismissed.
+Signed at Calgary, Alberta, this 2nd day of June 2003.
+"M.H. Porter"
+D.J.T.C.C.
+CITATION:
+2003TCC370
+COURT FILE NO.:
+2002-1583(EI)
+STYLE OF CAUSE:
+Oasis Ltd. and M.N.R.
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+February 25, 2003
+REASONS FOR JUDGMENT BY:
+the Honourable Deputy Judge
+Michael H. Porter
+DATE OF JUDGMENT:
+June 2, 2003
+APPEARANCES:
+Agent for the Appellant:
+Richard Scheer
+For the Respondent:
+Laura Dunham (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

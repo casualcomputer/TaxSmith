@@ -1,0 +1,188 @@
+---
+title: "Mah v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26615/index.do"
+last_modified: "2003-10-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 720"
+citation2: ""
+neutral_citation: "2003 TCC 720"
+decision_date: "2003-10-03"
+language: "en"
+item_id: "26615"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3590
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:40:00.059000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "79f1ae02507271c7e0c228dbcb8a840ed3aedb6613253647e1b4444d09aa51ef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mah v. The Queen
+
+- Citation: 2003 TCC 720
+- Decision date: 2003-10-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3590, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mah v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-03
+Neutral citation
+2003 TCC 720
+File numbers
+2002-2882(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2882(IT)G
+BETWEEN:
+MOON MAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 8, 2003 at Calgary, Alberta.
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellant:
+H. George McKenzie, Q.C.
+Counsel for the Respondent:
+Margaret McCabe
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1996 taxation year is allowed, with costs, and the reassessment is vacated.
+Signed at Ottawa, Canada, this 3rd day of October, 2003.
+"Gerald J. Rip"
+Rip, J.
+Citation: 2003TCC720
+Date: 20031003
+Docket: 2002-2882(IT)G
+BETWEEN:
+MOON MAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, J.
+[1] The issue in this appeal is whether a tax reassessment under Part I of the Income Tax Act for 1996 issued to Moon Mah, the appellant, notice of which is dated April 19, 2002, is statute-barred. The date of mailing of the notice of the original assessment to Ms. Mah for 1996 is May 20, 1997. Ms. Mah filed a waiver dated February 17, 2000 in respect of the normal assessment period for 1996 with the Canada Customs and Revenue Agency.
+[2] The trial in this appeal proceeded by way of the following Agreed Statement of Facts:
+1. The Appellant is an individual resident in Canada for the purposes of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supplement), as amended (the "Act").
+2. Prior to December 15, 1996, the Appellant owned 250 out of 1,000 issued and outstanding shares in the capital of Wei's Holdings Ltd. which was previously known as Wei's Western Wear Ltd. (the "Company").
+3. On December 15, 1996, the Appellant exchanged her 250 common shares of the Company for 8,000 Class "G" preferred shares of the Company in accordance with the Articles of Incorporation of the Company (the "Share Exchange").
+4. At December 15, 1996, the directors of the Company determined that the fair market value of the Appellant's 250 common shares was $800,000 and provided upon issuance of the Class "G" preferred shares for a declared redemption amount of $100 per share or $800,000 in the aggregate in accordance with the Company's Articles of Incorporation. The actual redemption amount of the Class "G" preferred shares was subsequently determined to be $140 per share.
+5. On December 20, 1996 the Company redeemed 500 of the Appellant's Class "G" preferred shares (the "Share Redemption") by payment of their declared redemption amount of $100 per share or $50,000 in the aggregate. The actual redemption amount was subsequently determined to be $140 per share or $70,000 in the aggregate in respect of the 500 Class "G" preferred shares.
+6. In her 1996 income tax return, the Appellant reported a taxable dividend in the amount of $62,498 resulting from the Share Redemption at the declared redemption amount of $100 per share.
+7. The Appellant's 1996 income tax return was assessed by Notice of Assessment dated May 20, 1997 (the "1996 Assessment").
+8. On February 23, 2000, the Canada Customs and Revenue Agency (the "CCRA") received a Form T2029 - Waiver in Respect of the Normal Reassessment Period for her 1996 taxation year (the "Waiver") from the Appellant in respect of an audit of the income tax return for 1996 with respect to the Share Exchange. A copy of the waiver is attached as Exhibit 1.[1]
+9. By Notice of Reassessment dated July 11, 2000 in respect of the Appellant's 1996 taxation year (the "First 1996 Reassessment"), the Minister of National Revenue (the "Minister") reassessed the Appellant in reliance on subsections 86(1) and 86(2) and other provisions of the Act by adding $447,753 to her income as a taxable capital gain resulting from the Share Exchange on the basis that the fair market value of the 250 common shares of the Company was $1,397,030 and not $800,000 as determined by the directors of the Company.[2]
+10. The Appellant filed a Notice of Objection to the First Reassessment in prescribed form and within the time prescribed under the Act (the "Notice of Objection").
+11. In the course of dealing with the Notice of Objection, the Appellant and the representative of the CCRA agreed
+(a) that the fair market value of the 250 shares of the Company on December 15, 1996 was $1,120,000;
+(b) to give effect to the price adjustment clause in the Share Exchange agreement; and
+(c) to adjust the redemption amount of the 8,000 Class "G" preferred shares from $100 to $140 per share or $1,120,000 in the aggregate with effect from December 15, 1996.
+12. As a result of the increase in the redemption value of the Class "G" preferred shares from $100 to $140 per share,
+(a) the amount of the capital gain resulting from the Share Exchange became nil; and
+(b) the amount of the Appellant's taxable dividend resulting from the Share Redemption increased by $25,000.
+13. By Notice of Reassessment dated April 19, 2002 (the "Second 1996 Reassessment"), the Minister reassessed the Appellant's 1996 taxation year to:
+(a) eliminate the amount of $447,754 included in income in the First Reassessment as a taxable capital gain resulting from the Share Exchange; and
+(b) in reliance of subsection 84(3) and other provisions of the Act, include the amount of $25,000 in income as the taxable amount of the increase in the deemed dividend resulting from the Share Redemption after the increase in the redemption amount of the Class "G" preferred shares from $100 to $140 per share.
+[3] The appellant states that the April 19, 2002 reassessment ("Second 1996 Reassessment") is invalid by reason of being statute-barred insofar as it purports to include in income the amount of the deemed dividend as a result of a share redemption. The waiver she executed does not refer to any share redemption.
+[4] The Minister may assess a taxpayer after the normal reassessment period of the taxpayer for the year when, among other conditions, the taxpayer has filed a waiver in respect of the year in prescribed form within the normal reassessment period for the taxpayer.[3]
+[5] For purposes of this appeal a taxpayer's normal reassessment period in respect of a taxation year is defined by paragraph 152(3.1)(b)
+... the period that ends 3 years after the earlier of the day of mailing of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of mailing of an original notification that no tax is payable by the taxpayer for the year.
+[6] Subparagraph 152(4.01)(a)(ii) provides that
+Notwithstanding subsections (4) and (5), an assessment, reassessment or additional assessment to which paragraph (4)(a) or (b) applies in respect of a taxpayer for a taxation year may be made after the taxpayer's normal reassessment period in respect of the year to the extent that, but only to the extent that, it can reasonably be regarded as relating to,
+(a) where paragraph (4)(a) applies to the assessment, reassessment or additional assessment, ...
+(ii) a matter specified in a waiver filed with the Minister in respect of the year;
+[7] In order for me to determine whether the waiver signed by Ms. Mah permits the Minister to reassess under subsection 84(3) of the Act, I must first identify the matter specified in the waiver and, second, decide whether a reassessment under subsection 84(3) can "reasonably be regarded as relating to a matter specified in the waiver".[4]
+[8] To identify the matter specified in the waiver I must consider not only the language of the waiver itself but also the contents of the letter of January 21, 2000 from the CCRA to Ms. Mah which is specifically referred to in the waiver.
+[9] The letter to Ms. Mah refers only to the share exchange transaction and to subsections 86(1) and 86(2) of the Act. The writer of the letter does not refer to the share redemption transaction of December 20, 1996 nor does she refer to subsection 84(3). It is clear, therefore, that the matter specified in the waiver is the application of subsection 86(2) to the share exchange transaction.
+[10] The Minister is of the view that the capital gain and the dividend are related to the core issue. That is, the exchange of a share and the value of a share. The valuation of a share is intrinsic to the capital gain and the redemption of the shares. The Minister has "backed out" of a capital gain and is assessing the taxpayer in the same manner the taxpayer originally filed, that is on the basis of a deemed dividend, only that there is a difference in the value of the shares.
+[11] Respondent's counsel submitted that subsection 152(4.01) provides to the Minister and the taxpayer the boundaries for the waiver. Where a matter can "reasonably be regarded as relating to another 'matter specified in the waiver', the former matter is included in the waiver." Counsel referred to Stone Container (Canada) v. Her Majesty the Queen, [5] In Stone Container, the Minister issued a reassessment on the basis of a waiver "in respect of" a shareholder benefit. The reassessment deleted an alleged shareholder benefit from the taxpayer's income. The taxpayer argued that it only waived a shareholder benefit and therefore the Minister did not have the authority to make a corresponding downward adjustment to the taxpayer's federal abatement. The federal abatement is 10% of the corporation's taxable income earned in the year in a province.[6]
+[12] In Stone Container I disagreed with the taxpayer and held that the phrase "in respect of" limited the application related to the matter specified and the calculation for any items that necessarily flow from, or are normally connected to, the matter specified. Taxable income is connected to the federal abatement by virtue of the mechanical application of section 124 and a recalculation of the abatement is connected with, and necessary flows from, a recalculation of taxable income. This is not the situation in the appeal at bar.
+[13] In Stone Container I was concerned with the phrase "in respect of" in the waiver form. In the case at bar, I am also concerned of the language of subparagraph 152(4.01)(a)(ii) and whether that provision authorizes the reassessment in issue on the basis that "it can reasonably be regarded as relating to a matter specified in the waiver". The phrase "in respect of" in the standard form of waiver limits the application of the waiver to the matter specified and, by virtue of subparagraph 152(4.01)(a)(ii), any other matters that can reasonably be regarded as relating to the matter specified. In other words, the phrase "in respect of" in the waiver is simply an expression of the reasonable relationship required by subparagraph 152(4.01)(a)(ii). It is quite clear that the Minister cannot base a reassessment on a substantive issue that is not specified in a waiver or cannot be regarded as relating to the substantive issue that is specified in the waiver.
+[14] In Pedwell v. Her Majesty the Queen[7], Rothstein, J. explained that
+... taxation is transaction-based (or perhaps deemed transaction-based) and if more than one transaction is to form the base of assessment, the assessment must reflect that fact. Where the basis of the Minister's assessment is one transaction, the Court cannot, expost facto, broaden the scope of the assessment to include other transactions.
+[15] The letter of January 21, 2000 described one transaction as the cause of a proposed reassessment; the waiver referred to that one transaction and to the January 21, 2000 letter. In reassessing after the taxpayer's normal reassessment period for a taxation year the Minister cannot reassess on the basis of another transaction, event or circumstance that is not described in the waiver nor is reasonably related to it. A distinction is to be drawn, for example, between a recalculation that necessarily flows from the mechanical application of the Act and a totally separate and unrelated transaction.
+[16] In the case at bar, unlike the facts in Stone Container, subsection 84(3) is not in any way related to subsection 86(2) by virtue of a mechanical application of the provisions of the Act. There is no relationship between these two provisions whatsoever, except that in the present case, Ms. Mah happened to trigger them both in the same year. A capital gain triggers an inclusion of income pursuant to subsection 86(2) of the Act and a deemed dividend triggers an inclusion of income under subsection 84(3) of the Act; these are two totally separate and discrete substantive issues.
+[18] Finally, the Courts have held that in interpreting a waiver, the judge should have regard to the intentions of the parties at the time the waiver was granted.[8] One should also consider whether the party opposing the waiver can demonstrate any prejudice. In the appeal at bar, the waiver specifically referred to the CCRA's own proposal letter which set out the basis for the proposed reassessment. The letter was written three years after the share exchange and share redemption transactions. Again, the letter does not refer to subsection 84(3) or to the share redemption transaction. I am sure that Ms. Mah had no intention of opening up the share redemption transaction to reassessment under subsection 84(3) when she filed the waiver and it is probable that when the January 21, 2000 letter was written, the Minister did not consider anything other than a possible assessment based on a capital gain.
+[18] The appeal should succeed, with costs.
+Signed at Ottawa, Canada, this 3rd day of October, 2003.
+"Gerald J. Rip"
+Rip, J.
+CITATION:
+2003TCC720
+COURT FILE NO.:
+2002-2882(IT)G
+STYLE OF CAUSE:
+Moon Mah v. Her Majesty the Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+August 8, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT:
+October 3, 2003
+APPEARANCES:
+Counsel for the Appellant:
+H. George McKenzie, Q.C.
+Counsel for the Respondent:
+Margaret McCabe
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+H. George McKenzie, Q.C.
+Firm:
+Felesky, Flynn
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The normal reassessment period within which the Minister may reassess tax, interest and penalties under the Act was waived for 1996 in respect of "an audit of the income tax return for 1996 with respect to a share exchange as noted to the proposal letter dated January 21, 2000.". The relevant portions of the letter of January 21, 2000 reads as follows:
+"The review of the records for the above referenced taxation years is now complete. The following is a summary of the proposed changes:
+1. Increase in Income
+1996 - $447,753.00
+The above amount consists of the taxable portion of a capital gain on the disposal of 250 common shares in a share exchange with Wei's Holdings Ltd. on December 15, 1996. Based upon the real estate appraisal and share valuation done by the department, the 250 common shares exchanged were actually worth $1,397,030, not the $800,000 as calculated by the taxpayer. Subsection 86(2) of the Income Tax Act prevents a share exchange under subsection 86(1) from being used to benefit a related person. The fair market value of the common shares immediately before the exchange was greater than the fair market value, immediately after the exchange, of the shares received. Due to the fact that there is a benefit, the proceeds of disposition of the old common shares is deemed to be the lesser of: 1) the amount of the gift, $597,030 ($1,397,030-$800,000); and 2) the fair market value of the old shares, $1,397,030. The capital gain is calculated as follows:
+proceeds of disposition of old common shares $597,030
+acb of old common shares ______25
+capital gain $597,005
+taxable capital gain $447,753
+A capital gains deduction may be available to offset this income change.
+ITA Ref: ss. 86(1), ss. 86(2)
+All of the proposed adjustments will be held in abeyance for thirty (30) days, ..."
+[2] Copies of the notices of assessment and reassessment are deleted from these reasons.
+[3]
+Subparagraph 152(4)(a)(ii).
+[4] See footnote 1
+[5] 98 DTC 1508, [1998] 3 C.T.C. 2150
+[6] Section 124
+[7] 2000 DTC 6405 (F.C.A.), para. 24. See also Anchor Pointe Energy Ltd. v. Her Majesty the Queen, 2003 F.C.A. 294, paras. 39 and 40.
+[8] See Mitchell v. Her Majesty the Queen., 2002 F.C.A. 407 at paragraph 37 citing Solberg v. Her Majesty the Queen., 92 DTC 6448 (F.C.T.D.) with approval. See also Placements T.S. v. Her Majesty the Queen, [1994] 1 C.T.C. 2464.

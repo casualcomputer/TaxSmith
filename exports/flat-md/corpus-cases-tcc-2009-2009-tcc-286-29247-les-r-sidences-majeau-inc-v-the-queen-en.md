@@ -1,0 +1,203 @@
+---
+title: "Les Résidences Majeau Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29247/index.do"
+last_modified: "2009-05-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 286"
+citation2: ""
+neutral_citation: "2009 TCC 286"
+decision_date: "2009-05-28"
+language: "en"
+item_id: "29247"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6987
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:14:42.514000+00:00"
+cases_cited_count: 1
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "29bfddbb2d33ee4abe5f7f887db23946793ccdf38fed8af25af9ccdc21264674"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Résidences Majeau Inc. v. The Queen
+
+- Citation: 2009 TCC 286
+- Decision date: 2009-05-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6987, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Résidences Majeau Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-05-28
+Neutral citation
+2009 TCC 286
+File numbers
+2007-3209(GST)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2009 TCC 286
+Date: 20090528
+Docket: 2007-3209(GST)G
+BETWEEN:
+LES RÉSIDENCES MAJEAU INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+Tardif J.
+The Reasons for Judgment that I signed on May 28, 2009, were affected by an error. The name of the Appellant’s expert is Jean-Yvon Brisson, not Jocelyn Martin as I stated in paragraphs 18, 19, 20, 32, 52 and 62 of the judgment. I apologize to the parties and have made the requisite corrections, which are identified in bold, underlined print.
+[1] This is an appeal from an assessment made under the Excise Tax Act (ETA), and more specifically under sections and subsections 123(1), 165(1), 191(4), 221, 225, 228, 238, 256.2(3), 280, 296, 299 and 300 of the ETA.
+[2] The issues for determination are, first, the fair market value (FMV), in August 2004, of the portion of a rental property created by the addition of 18 rental units to that property and, accordingly, the amount of GST payable by the Appellant in August 2004 on the deemed self-supply of the addition and, hence, the amount of the GST rebate for new rental housing to which the Appellant is entitled, and, second, whether the penalty assessed was warranted.
+[3] In making and confirming the assessment under appeal, the Respondent relied, inter alia, on the assumptions of fact set out in paragraph 29 of the Amended Reply to the Notice of Appeal and which read as follows:
+[TRANSLATION]
+(a) the admitted facts above;
+(b) the Appellant is a registrant for the purposes of Part IX of the ETA;
+(c) the Appellant owns a multiple unit residential complex intended primarily for independent seniors;
+(d) in 2004, the Appellant built an 18-unit addition to the existing building;
+(e) the total consideration for the various supplies received by the Appellant for the purpose of building the addition or having it built was $1,295,688;
+(f) in computing its net tax in respect of the construction of the addition, the Appellant claimed, and received, $90,624 as input tax credits (hereinafter “ITCs”), which corresponds to a consideration of $1,295,688 paid by the Appellant for taxable supplies received (the assessment in issue in no way pertains to the ITC amount);
+(g) during August 2004, when the addition was largely completed and the Appellant had transferred possession of one unit in the addition to an individual under a residential lease, that individual being the first to occupy such a unit, the Appellant paid, as a recipient, and collected, as a supplier, GST in the amount $50,155 in respect of the deemed self-supply of the addition, based on the addition’s estimated FMV of $716,500, and included that GST amount in computing the net tax for the monthly reporting period of August 2004 that it reported to the Minister;
+(h) the estimated FMV of the addition in August 2004 was arrived at using the income method by a person who was not a chartered appraiser;
+(i) consequently, in respect of the addition, the Appellant claimed and received from the Minister a GST rebate for new rental housing in the amount of $18,055.80, that is, 36% of $50,155;
+(j) following an audit, the Minister determined, on the basis of a valuation performed by a chartered appraiser using the replacement cost method, that the FMV of the addition in August 2004 was actually $1,295,688, that is, the amount of the consideration paid by the Appellant for all of the supplies it received for the purpose of building the addition or having it built;
+(k) the GST payable on the FMV amount referred to in the preceding subparagraph is $90,698.16, that is, 7% of $1,295,688;
+(l) the difference between the GST payable thus computed by the Minister and the amount arrived at by the Appellant, which it included in computing its net tax for the August 2004 reporting period, is $40,543.16 ($90,698.16 - $50,155);
+(m) in consequence of the above, the Minister determined that the Appellant was entitled, in respect of the addition, to a GST rebate for new rental housing of $32,651.34, that is, 36% of $90,698.16;
+(n) the difference between the GST rebate for new rental housing thus computed by the Minister and that arrived at by the Appellant, which it claimed and received, is $14,595.54 ($32,651.34 - $18,055.80);
+(o) the net amount of the adjustments to the net tax reported by the Appellant for the period in issue and the adjustments to the GST rebate for new rental housing claimed by the Appellant is $25,947.62 ($40,543.16 ‑ $14,595.54).
+[4] In support of its claims, the Appellant called Benoit Majeau and an appraisal expert, Jean‑Yvon Brisson, to testify. Benoit Majeau first explained that his grandfather had originally worked a large area of what was then essentially farmland.
+[5] Later, his father took over and changed the use of the land in question. A building contractor, he developed that land, putting up several dozen multi-family dwellings. He also built a complex with units for older tenants, which provided a wide range of services such as personal care, maintenance, meals, housekeeping, fitness training, social gatherings, medical support, and so on.
+[6] The first project using this all-inclusive concept was built in 1987. It was a complex of 20 small 2½-room units for independent persons. Mr. Majeau said that at the time he had just finished studies in business administration and his father was still a building contractor.
+[7] The project in question was a great success and the Appellant’s management had two additions built, one of 20 units and the other of 13 units.
+[8] In 1997 and 1998, the opportunity to build another project presented itself. Since the site near the hospital was exceptional, the interested parties, namely Mr. Majeau and his father, put up a building with, this time, 40 units, to which 20 more units were added a little later. Maximum use was thus being made of the land.
+[9] Early in the 2000s, the municipality in which the project near the hospital was located expressed an interest in acquiring a piece of land belonging to the family. After negotiations, an agreement was entered into and the land sought by the municipality was exchanged for land owned by the municipality and which was adjacent to the 60-unit building near the hospital and a park.
+[10] After acquiring that new site, the Appellant embarked on a third phase, with 18 units, in 2004, which was completed in August or September of that same year.
+[11] The addition of 18 units meant that the project as a whole now comprised 78 units that were all intended for people who were elderly and independent.
+[12] The rent included a long list of benefits including meals, a hairdressing salon, health services, cleaning, a garage, a lounge, janitorial services, etc.
+[13] Mr. Majeau explained that the expansion that led to the assessment under appeal was fully integrated into the existing 60-unit building.
+[14] He explained that the addition led to greater expenses, for one thing because the dining room had become too small to serve all the tenants of the 18 new units.
+[15] To get around this problem, management extended mealtimes to spread demand over a longer period.
+[16] For administration and maintenance, management had to either hire new employees or offer full-time positions to staff who, until then, had held part-time positions. According to Mr. Majeau, the addition led to the following expenses:
+[TRANSLATION]
+- LIST OF OPERATING COSTS -
+Expenses:
+Food 14.25% $42,000
+Wages 27.14% $80,000
+Administration $18,000
+Maintenance and supplies $24,000
+Electricity, heating and fuel $22,000
+Services for residents $15,000
+Activities $4,000
+Taxes $17,500
+Insurance $4,500
+Other $8,000
+Total: $235,000
+[17] Mr. Majeau also explained that he had had to deal with certain constraints during construction, to comply, in particular, with municipal by-laws but also with regulations governing the height of public buildings, since the project had two storeys. He also mentioned homogeneity, esthetics and the environment.
+[18] For the valuation, he explained, he had proceeded the same way he had for the preceding phases, using the services of the father of someone he knew very well. Thus was introduced the testimony of Jean-Yvon Brisson.
+[19] The expert, Mr. Brisson, cited Susan Martha Qureshi v. The Queen, 2006 TCC 485, [2006] G.S.T.C. 121, in support of his argument that FMV did not necessarily correspond to the construction cost of a project. In other words, he relied on that decision to discredit the cost or replacement cost method of appraisal.
+[20] Mr. Brisson’s report was very brief. He gave incomplete or even confused answers to a number of questions, saying that his memory was faulty and that he could no longer consult the documents that might have enabled him to reply, given the time that had passed since they were prepared.
+[21] Since the appraisal work had been done several years earlier, it was perhaps normal that certain elements or aspects were somewhat less well documented in terms of providing explanations. However, the mere passage of time and the fact that the appraisal work was quite superficial to begin with do not validate the quality of that work.
+[22] In his expert report, Mr. Brisson referred to the various appraisal methods available. First, he discussed the direct comparison approach, to which he devoted only one page, page 9, in his report.
+[23] Then, he looked at the cost method, to which he devoted three pages, namely pages 10, 11 and 12. He concluded, after a rather cursory analysis based on hypothetical data that patently favoured a low valuation, that the FMV was of the order of $971,600.
+[24] He ultimately settled on the income approach and devoted six pages to it. Income and expenses are obviously the essential and fundamental components of this approach.
+[25] Income was relatively easy to determine. As for expenses, although that aspect was just as important, the data used were not subjected to a very sophisticated analysis.
+[26] I am convinced, in fact, that the expert obtained the figures from the Appellant and accepted them without question.
+[27] How were these expenses arrived at? To what do they correspond? What is the average amount of expenses per residential unit? Answers to these and other questions would have made it possible to substantiate the accuracy of the expense figures used, especially since expenses were a fundamental component of this approach, which, according to the expert, was the only valid and reliable one.
+[28] The expert’s brief testimony, which was vague and imprecise and unsubstantiated by anything reliable or proven, in particular with respect to the expenses taken into account as key factors in the valuation that was arrived at, cannot constitute a valid basis for finding that the FMV of $716,500 is reasonable.
+[29] Vague answers, the absence of any reliable basis, the appraiser’s discomfort with certain questions, his superficial approach, his lack of meticulousness and his unconcern with providing a valid and credible basis for his conclusions, all seem to suggest that the expert deliberately favoured the interest of the Appellant over a serious and professional valuation. For these reasons, I find that the expert opinion submitted by the Appellant is of no use in determining FMV in this case.
+[30] The Appellant is right, however, in saying that in certain particular situations the construction cost of a building has nothing to do with its FMV. To justify my understanding of Qureshi, I note the following passages:
+[6] . . . However, where the cost of a piece of property is indicative of fmv it is in cases where the cost is the price at which a property is bought in an arm’s length sale. The cost of constructing or reproducing a property is not a reliable basis for determining fmv where, as here, there is a market to which one may look.
+[10] . . . Cost or replacement cost do not indicate fmv where we are dealing with a home that is being constructed to a homeowner’s specifications. . . .
+Analysis
+[31] Although there may be several definitions of FMV, there is one that is almost universally accepted. It consists in defining FMV according to what, to acquire a building, a reasonable buyer with no particular interest is prepared to pay a seller who, for his part, has no particular reason to sell other than receiving a reasonable consideration, taking into account the period, the site, and so on.
+[32] Mr. Brisson submitted that the construction cost had absolutely nothing to do with FMV. Indeed, Parliament has not prescribed the cost method as the one for determining the basis that must necessarily be used to calculate GST. On the other hand, it has not excluded it either.
+[33] Parliament has provided that FMV is to be used. It is easy to see the reasonableness of this approach and to subscribe to it. Indeed, the costs or expenditures for the construction of a building are certainly an indication that can prove useful, even determinative in certain situations. However, there are situations in which the cost of construction may greatly exceed FMV, hence the usefulness of Parliament’s wise approach in making FMV the basis of assessment.
+[34] Thus, the FMV of a luxurious residential or even commercial building put up in a rundown neighbourhood with no chance of being improved would obviously be lower than the construction cost.
+[35] Conversely, the FMV of a modest building in an upscale neighbourhood could be much higher than its construction cost.
+[36] So, the site, the market, the economy, the number of potential buyers, the scarcity or abundance of properties, the building’s features, design, appearance, and so on, are all elements or factors that can affect FMV.
+[37] Construction costs can also vary according to the quality and price of materials as well as the efficiency or productivity of the builders. However, there are far fewer variables and these are generally more universal and standard. In fact, the best-known and most widely adhered to reference standards call for a certain degree of weighting to take into account circumstances and the particular context.
+[38] Anyone subject to the relevant provision of the Act must appraise the supply to determine its FMV. This exercise implies serious and credible work based on explanations and data that are equally serious, reliable and reasonable.
+[39] In the case at bar, determining FMV based on costs is an entirely acceptable approach, for a number of reasons.
+[40] I note in particular the exceptional qualifications of the developers, one of whom is a contractor with many years’ experience, some of it in the type of construction that is in issue here, and the other has training in administration and also very relevant practical experience, and this in a favourable context, in the sense that the developers had considerable expertise regarding this type of project and the target clientele, in terms of both construction and management.
+[41] It is important to point out that one of the methods used to determine FMV is the economic method, that is, income less anticipated expenses, taking into account the cost and condition of the building.
+[42] The demand for the type of units that were built was very high, so much so that there was a waiting list. It is therefore no exaggeration to say that the project was one with almost no unknowns. On the contrary, one of the developers said himself that the project, on an exceptional site, attracted a great deal of interest.
+[43] Beyond these factors there were other elements supporting the project. Generally speaking, an addition such as the one built here would bring about the reduction of certain management expenses. In other words, it was realistic to expect economies of scale.
+[44] The evidence did no more than touch on this aspect. Mr. Majeau explained that the dining room had become too small. To correct this problem, meal service times were extended, which cost less than expanding the dining room or providing a new one in the new building.
+[45] One thing is certain, the developers did not embark on this project without a very detailed and comprehensive plan regarding anticipated costs and revenues, including very specific expectations with respect to profitability.
+[46] What is more, this was clearly an ideal project that would be the envy of any developer, in particular because of the following factors: an exceptional, unique site, a thorough knowledge of needs, expectations, costs, interest, demand, etc.
+[47] It is worth noting that the managers had total mastery of all the necessary ingredients for carrying out this project and maximizing its value.
+[48] The burden of proof was on the Appellant, but the evidence presented neither justified nor explained how and why the FMV was significantly lower than the cost of construction. Moreover, FMV was determined in a very superficial, not to say rather accommodating, manner.
+[49] Indeed, overall, Mr. Brisson’s approach was very simplistic. He mentioned the three possible valuation methods, namely: comparison, replacement cost and economic value. He ruled out the comparison method on the pretext that there were no comparables in the area for such a very special and specialized project.
+[50] Yet, while this is indeed a very particular field, there are a great many similar projects at many locations in Quebec. The clientele for such services is numerous and found all over Quebec; therefore comparable data or references are extensive and plentiful, and have been for some years.
+[51] I understand that the value of a comparable depends on its proximity and resemblance to the building being appraised. However, nothing prevents this approach from being taken through the use of comparable buildings in other areas. In fact, there are ways to compare using buildings that, at first glance, are not relevant.
+[52] Mr. Brisson also ruled out the cost method. He referred to the Marshall guide. He simply repeated that Marshall was the ultimate authority on the matter, a classic, an essential reference. However, it would have been useful, if not essential, to explain why he chose the unit price he did, since construction quality has a direct and major bearing on that price.
+[53] He came very quickly to the conclusion that he had to or would have had to make certain additions and subtractions for the physical obsolescence, functional aspect and economic nature of the building. He dismissed this approach out of hand, while acknowledging that it required him to set FMV at $971,600. Yet, if this method had been used and applied reasonably by taking into account the actual elements and not using hypothetical or fictitious data, the conclusion would have been very different, but clearly not to the Appellant’s liking, and the method was therefore quickly ruled out by the expert.
+[54] The evidence disclosed that the quality of materials used was very high and the quality of construction was high. As for obsolescence, I would note that this was a brand new building built by a contractor with skill and experience in this type of construction, since he had already built several such buildings in previous years.
+[55] Lastly, with regard to the approach chosen, the economic approach, I note that there was a waiting list and that the developers knew the market very well in terms of needs, expectations, popularity, etc. This may not be a determining factor, but it is certainly a relevant one. This aspect was totally ignored.
+[56] Not only was the Appellant’s expert’s work superficial and patently incomplete, but often he was unable to give clear answers to questions that were important and highly relevant. Thus, he repeated several times that he did not remember because of his age, but also because the passage of time had had its effect.
+[57] In his submissions, counsel for the Respondent mentioned settlement talks, thus suggesting a certain openness to reducing the FMV that served as the basis of the assessment. For its part, the Appellant argued that the Court was not bound by the conclusions of the parties. But the case was presented in such a manner that any reduction in the FMV determined on the basis of costs would be essentially arbitrary.
+[58] In this case, not only does the arbitrary approach in no way favour a reduction of the FMV figure used, but it would actually justify an increase. Indeed, I know of no building contractor who would agree to sell a new building at cost.
+[59] I can see no reason whatsoever to attempt an exercise using essentially arbitrary data that would necessarily produce an equally arbitrary result. The valuation used as the basis of the assessment has the merit of being objective, reasonable and reliable.
+[60] Nothing in the evidence adduced would warrant disregarding or discrediting the cost method, which was clearly unimpeachable in view of the expertise, knowledge and experience of the developers. In fact, I even believe that costs could have been far higher if the project had been carried out following a directed tender by a person whose only qualification was the desire to start a business in this field of economic activity.
+[61] As for the penalty, it must be confirmed, even though the evidence established that the Appellant had hired an appraiser to determine the building’s FMV.
+[62] The appraisal work done by Mr. Brisson must be disregarded entirely. Given the lack of rigour with which it was carried out, it is impossible to correct it by making certain adjustments.
+[63] This is a very unusual case in that the Appellant’s officers were people with very extensive knowledge and skills.
+[64] FMV is not a complex concept. It is easy to understand and know what must be done to determine FMV, especially when a person has the knowledge and experience of the Appellant’s officers. They had the expertise, the skills and all the qualifications to know full well that the FMV assigned to the building was completely unreasonable in view of the construction cost, even though I do not in any way question the fact that construction cost or replacement cost may well be very different from FMV.
+[65] Here, the context, the relevant facts, the quality of the supply and the demand for and great interest in this type of housing are such that this was a case in which FMV was obviously higher than the cost of construction, which the developers knew or should have known in view of their experience and expertise in this particular field.
+[66] The Appellant hired an appraiser whom its officers knew well and over whom they clearly had considerable influence. The poor quality of the valuation work supports the theory that the expert whose services were used essentially performed an exercise of which the aim was to justify an FMV well below the construction cost.
+[67] The FMV arrived at appears to me to have been determined, if not dictated, by the Appellant. The Appellant’s officers were closely involved in determining the FMV. Given their expertise, skills and qualifications, it would be entirely inappropriate in my view to hold that in their handling of this matter they exercised the reasonable care necessary to avoid a penalty.
+[68] The fact that Parliament expressly provided that FMV could differ from replacement cost and construction cost does not legitimize work that is incomplete, inadequate and indeed inconsistent with good practice.
+[69] In the case at bar, the FMV determined by the Appellant did not reflect the actual FMV. The fact that the Act does not attach decisive importance to costs for the purpose of determining FMV is not a valid excuse for an unreasonable FMV.
+[70] The appraisal process followed was clearly intended to validate the Appellant’s conclusion that the FMV was lower than the amount spent on construction, especially since the Act provides that FMV may be different from the cost of construction.
+[71] For all these reasons, the appeal is dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 10th day of June 2009.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 18th day of December 2009.
+Erich Klein, Revisor
+CITATION: 2009 TCC 286
+COURT FILE NO.: 2007-3209(GST)G
+STYLE OF CAUSE: LES RÉSIDENCES MAJEAU INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 9, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: June 10, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Serge Fournier
+Counsel for the Respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Serge Fournier
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

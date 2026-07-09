@@ -1,0 +1,117 @@
+Title: Di Mauro c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/143537/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-87-143537-di-mauro-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-04-12
+
+# Di Mauro c. La Reine
+
+- Citation: 2016 CCI 87
+- Decision date: 2016-04-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3117, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Di Mauro c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-04-12
+Référence neutre
+2016 CCI 87
+Numéro de dossier
+2012-4740(IT)G, 2012-4742(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012­4740(IT)G
+ENTRE :
+GIOVANNI (JOHN) DI MAURO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ORDONNANCE
+Après examen de la requête écrite déposée par l’avocat de l’appelant en vue de déposer un nouvel avis d’appel modifié pour remplacer son avis d’appel modifié, la Cour ordonne le rejet de la requête déposée par l’appelant, avec dépens, conformément aux motifs de l’ordonnance ci­joints.
+Signé à Ottawa, Canada, ce 12e jour d’avril 2016.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 21e jour d’octobre 2016.
+Mario Lagacé, jurilinguiste
+Dossier : 2012­4742(IT)G
+ENTRE :
+DEBORA DO COUTO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ORDONNANCE
+Après examen de la requête écrite déposée par l’avocat de l’appelante en vue de déposer un nouvel avis d’appel modifié pour remplacer son avis d’appel modifié, la Cour ordonne le rejet de la requête déposée par l’appelante, avec dépens, conformément aux motifs de l’ordonnance ci­joints.
+Signé à Ottawa, Canada, ce 12e jour d’avril 2016.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 21e jour d’octobre 2016.
+Mario Lagacé, jurilinguiste
+Référence : 2016 CCI 87
+Date : 20160412
+Dossiers : 2012­4740(IT)G
+2012­4742(IT)G
+ENTRE :
+GIOVANNI (JOHN) DI MAURO,
+DEBORA DO COUTO,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Boyle
+[1] Les appelants, Giovanni (John) Di Mauro et Debora Do Couto, sont représentés par le même avocat pour ce qui est, selon eux, de pertes engendrées par le mandant et le mandataire fictifs du groupe Fiscal Arbitrators. Ils ont chacun déposé une requête pour présenter de nouveaux avis d’appel modifiés en vue de remplacer leurs avis d’appel modifiés. Ils demandent que leurs requêtes soient tranchées en fonction de documents soumis à l’appui des requêtes, sans leur comparution. J’ai examiné et étudié les documents fournis par les deux parties concernant leurs requêtes.
+[2] Chaque appelant a précédemment tenté de déposer un nouvel avis d’appel modifié en vue de remplacer son avis d’appel modifié. La Cour s’y est opposée. Leurs appels devant la Cour d’appel fédérale furent infructueux à cet égard.
+[3] Dans la mesure où les nouveaux avis d’appel modifiés qui ont été proposés tentent d’ajouter des faits, des points, des questions ou des motifs que l’on cherchait à ajouter dans leur avis d’appel modifié déposé précédemment, la requête est hautement illégitime et inappropriée.
+[4] Dans la mesure où l’on tente d’ajouter, par l’entremise des nouveaux avis d’appel modifiés, la question de la perte du droit de jouir de ses biens sans l’application régulière de la‎ loi visée dans la Déclaration canadienne des droits, ou la question de la dépossession arbitraire de biens en contravention de la Déclaration universelle des droits de l’homme des Nations Unies, ces avis ne révéleraient aucune cause raisonnable d’action ni aucune possibilité raisonnable d’être accueillis. Ces arguments ont déjà été présentés sans succès dans des affaires concernant Fiscal Arbitrators; voir les ordonnances Oberkirsch and Dupuis (2016 TCC 84). Ces nouvelles modifications ne seront pas autorisées.
+[5] Dans la mesure où l’on tente de présenter, par l’entremise des nouveaux avis d’appel modifiés, un argument alléguant l’imposition d’une peine cruelle et inusitée au sens de la Charte, l’avocat n’a fourni aucune justification ni aucune jurisprudence permettant à la Cour de conclure qu’il s’agit d’une cause d’action raisonnable qui aurait une chance raisonnable d’être accueillie. Il n’incombe pas au juge de la requête de faire le travail de l’avocat. Je ne suis pas convaincu qu’un moyen raisonnable d’appel m’a été présenté.
+[6] Les requêtes des appelants sont rejetées, avec dépens. Les appels seront entendus sur la base des avis d’appel modifiés, tel qu’il a été précisé dans les motifs du jugement de la Cour d’appel fédérale.
+Signé à Ottawa, Canada, ce 12e jour d’avril 2016.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 21e jour d’octobre 2016.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2016 CCI 87
+NOS DU DOSSIER DE LA COUR :
+2012­4740(IT)G
+2012­4742(IT)G
+INTITULÉ :
+GIOVANNI (JOHN) DI MAURO, DEBORA DO COUTO c. LA REINE
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE :
+Le 12 avril 2016
+COMPARUTIONS :
+Avocat des appelants :
+Me Joel Allan Sumner
+Avocate de l’intimée :
+Me H. Annette Evans
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Joel Allan Sumner
+Cabinet :
+Sumner Law
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous­procureur général du Canada
+Ottawa, Canada

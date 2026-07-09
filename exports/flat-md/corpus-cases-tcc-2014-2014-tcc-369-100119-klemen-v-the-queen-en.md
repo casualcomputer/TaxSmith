@@ -1,0 +1,193 @@
+---
+title: "Klemen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100119/index.do"
+last_modified: "2014-12-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 369"
+citation2: ""
+neutral_citation: "2014 TCC 369"
+decision_date: "2014-12-16"
+language: "en"
+item_id: "100119"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2778
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:24:48.643000+00:00"
+cases_cited_count: 7
+cases_citing_count: 8
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "34f62fa3e0500d5a9aad85ac28f8f4f6cea35e131b797fc3473abb2d53cc4d68"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Klemen v. The Queen
+
+- Citation: 2014 TCC 369
+- Decision date: 2014-12-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2778, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Klemen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-12-16
+Neutral citation
+2014 TCC 369
+File numbers
+2009-3619(GST)G, 2010-128(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2010-128(IT)G
+2009-3619(GST)G
+BETWEEN:
+EDWARD KLEMEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application determined pursuant to section 147 of the Tax Court of Canada Rules (General Procedure).
+Before: The Honourable Justice Robert J. Hogan
+Written submissions by:
+Counsel for the Appellant:
+Sanjaya R. Ranasinghe
+Counsel for the Respondent:
+Cynthia Isenor
+ORDER
+Whereas a judgment was rendered on July 29, 2014;
+Whereas the parties were to provide written submissions on costs;
+And whereas such submissions have been received and considered;
+It is hereby ordered that the Appellant is awarded costs in the amount of $20,000 plus disbursements in accordance with the attached reasons.
+Signed at Ottawa, Canada, this 16th day of December 2014.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2014 TCC 369
+Date: 20141216
+Dockets: 2010-128(IT)G
+2009-3619(GST)G
+BETWEEN:
+EDWARD KLEMEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hogan J.
+I. Overview [1] In my judgment disposing of the appeals, I invited the parties to provide me with representations on costs. Both parties filed written submissions and I am now prepared to dispose of this matter.
+[2] The Appellant is seeking a lump sum costs award of $50,000 plus disbursements in respect of the two appeals. He says this costs award represents approximately 75% of the actual solicitor-client costs of $66,647.50. The Appellant says that of the $50,000 he seeks, $35,000 is in respect of the income tax appeal and $15,000 is in respect of the goods and services tax (“GST”) appeal.
+II. Factual Background [3] The costs award sought by the Appellant is significantly higher than the costs available to a successful party under the Tariff, which would be approximately $5,000 in this case.
+[4] The appeals were heard together on common evidence on April 28, 2014. There were four issues in the appeals:
+(a) Whether a second reassessment in respect of the 2004 taxation year was statute-barred;
+(b) Whether the proceeds of a 2005 disposition of equipment (the “Equipment”) by the Appellant were on account of capital or income;
+(c) What the adjusted cost base (“ACB”) of the Equipment was; and
+(d) What amount of GST, if any, the Appellant was liable for in respect of the transfer of the Equipment.
+[5] The Appellant was successful on the first and second issues. The Respondent was successful on the third issue. The parties had divided success on the fourth issue in that the Appellant was liable for some GST but for less than the amount sought by the Respondent.
+[6] The Respondent argues that the parties experienced divided success at trial and that thus no order for costs should be made or, if one is made in the Appellant’s favour, that the Appellant should only receive one set of Tariff B, Class B costs.
+III. Analysis [7] As Justice Campbell Miller noted in Henco Industries Limited v. The Queen,[1] “the Tax Court of Canada is quite prepared to put aside Tariff in favour of a more detailed analysis based on the factors set forth in Rule 147(1) of the Tax Court of Canada Rules (General Procedure).”
+[8] The relevant portion of section 147 of the Tax Court of Canada Rules (General Procedure) reads as follows:
+147(1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs, and the persons required to pay them.
+. . .
+(3) In exercising its discretionary power pursuant to subsection (1), the Court may consider:
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+A. Result of the Proceeding [9] As noted above, the Appellant was successful on two of the four issues and unsuccessful on one, and the parties had divided success on the fourth issue. However, the issues on which the Appellant was successful dealt with a significantly higher portion of the overall amount in issue. Overall, the Appellant was more successful in the appeals.
+[10] The jurisprudence indicates that a costs award should not be determined on the results of individual arguments but rather on the overall outcome.[2]
+[11] Given that the Appellant was largely successful in his appeals, this factor weighs strongly in favour of granting him at least Tariff costs.
+B. Amount in Issue [12] The amount in issue is not entirely clear from the parties’ submissions on costs.
+[13] In the Respondent’s submissions, the only information as to the amount in issue is a footnote stating that “the aggregate amount in issue prior to the hearing was $77,985.42, including amounts that were resolved prior to the hearing and those on which the Respondent was successful.”[3] However, the jurisprudence indicates that, when considering the amount in issue for the purposes of a costs award, the courts should not include amounts with regard to which there was a settlement before trial.[4]
+[14] The Appellant simply states that the amount of income tax he owed was reduced by $81,511.95 (not including interest), and the amount of GST he owed was reduced by $10,533 (or $19,541.77 with accrued interest and penalties), between the initial reassessment and the post-trial reassessment. This would presumably also include amounts with respect to which there was a settlement prior to trial, but it does not indicate how much money was in issue at trial.
+[15] From the parties’ submissions and the reasons for judgment in this case, I have been able to determine the following:
+(a) Issues 1 and 2: According to the Appellant’s submissions, he obtained income tax savings of $81,511.95 from the initial reassessment to the post-trial reassessment. This would include the amounts saved as a result of success on the first and second issues at trial, but also amounts saved as a result of settlements achieved before trial. The total amount saved may therefore be higher than the amounts in issue at trial on the first and second issues. However, because the first and second issues were binary (that is, tax was either payable or not payable with respect to these matters), there could not have been more money in dispute on these issues than the total amount saved as a result of a favourable finding for the Appellant.
+(b) Issue 3: The Appellant states that, had he been successful in his arguments regarding the ACB of the Equipment, the amount he would have saved would have been $14,867.
+(c) Issue 4: The fourth issue, regarding the GST obligation for 2004 and 2005, could have resulted in anywhere from zero tax owing to $16,582 in tax owing,[5] so the amount in issue in this regard is $16,582.
+[16] Thus, the total amount in issue is at most $112,961 (the total of the amounts indicated above). The costs award requested by the Appellant, not including disbursements, amounts to approximately 44% of this maximum amount in issue.
+[17] This factor weighs in favour of granting some additional costs to the Appellant, although not the full amount of additional costs requested.
+C. Importance of Issues [18] The Appellant argues that, because the issues in the appeals were of significant financial importance to him, this factor supports an increased costs award in his favour. However, the jurisprudence suggests that the question is not how important the issues are to the individual taxpayer (one might expect that any taxpayer bringing an appeal to the Tax Court of Canada would consider his case to be of significant personal importance), but rather whether the decision on the issues will have significant precedential and jurisprudential value. For example, see Henco[6] and General Electric Capital Canada Inc. v. The Queen.[7]
+[19] The issues in those cases were not of significant precedential value. That being so, this factor does not weigh in favour of granting increased costs to the Appellant.
+D. Settlement Offers [20] The Appellant made a number of written settlement offers to the Respondent, none of which was in its entirety equal to or better than the result achieved at trial. Accordingly, subsection 147(3.1) does not apply so as to entitle the Appellant to substantial indemnity costs. However, the settlement offers must be considered within the context of all the factors under subsection 147(3) when determining whether to grant increased costs.
+[21] The Respondent argues that because both parties made written settlement offers and actively attempted to resolve the issues prior to trial, this factor should not weigh in favour of granting increased costs.
+[22] The Appellant argues that his last settlement offers were very close to the result at trial and that this should result in increased costs in his favour.
+[23] Given the closeness of the Appellant’s settlement offers to the ultimate result, it seems appropriate to grant some additional costs on the basis of the settlement offers, although not the substantial indemnity costs that the Appellant requests.
+E. Volume of Work [24] Counsel for the Appellant provided a billing history entitled “Ed Klemen – Re: 2004 – 2005 Reassessment”,[8] which indicated 244.70 hours worked on the file, resulting in costs of $66,647.50.
+[25] The volume of work required of the Appellant’s counsel in this case was significantly increased due to the Appellant’s own failure to keep adequate records, and because of communication difficulties between the Appellant and his counsel.
+[26] Furthermore, the billing history provided by the Appellant does not show any breakdown of what was done during the 244.70 hours of work, and the Respondent points out that an indeterminate portion of this work may be attributable to duplication resulting from changes in counsel, or related to matters that were resolved before trial.
+[27] This factor does not weigh in favour of granting additional costs.
+F. Complexity of Issues [28] The issues in this case were not particularly complex. The Appellant points to the number of issues involved in the case and the difficulty of gathering documents. However, these elements are factors to be considered in relation to the volume of work rather than the complexity of the issues.
+[29] This factor does not weigh in favour of granting additional costs.
+G. Conduct of Party That Tended to Shorten or Lengthen Unnecessarily the Duration of the Proceeding [30] The Appellant argues that the Respondent did not properly consider the merits of the case at the beginning of the proceedings or before trial, and that this unnecessarily lengthened the proceedings. In the Appellant’s view, if the Respondent had been more reasonable in settlement discussions, a trial might not have been necessary. Essentially, the Appellant says that the Respondent should have conceded certain issues prior to trial and that her failure to do so was conduct that tended to lengthen the proceedings unnecessarily.
+[31] The Respondent has not specifically addressed this issue, but I am wary of creating a practice of awarding increased costs on the basis of hindsight. As Justice Campbell Miller noted in Henco, “[f]or this factor to be determinative, it must be clear . . . that a party has acted unreasonably in its conduct.”[9] The mere fact that the Respondent was unsuccessful on certain issues at trial does not mean that it was unreasonable to pursue those issues.
+IV. Conclusion [32] The remaining subsection 147(3) factors do not apply in this case. The applicable factors do not justify the percentage of solicitor-client costs requested by the Appellant, but they do justify awarding some amount above Tariff costs. The Appellant requested 75% of his solicitor-client costs plus disbursements. An award of approximately 30% of solicitor-client costs plus disbursements seems appropriate in this case. For these reasons, I conclude that the Appellant is entitled to a lump sum of $20,000 plus disbursements.
+Signed at Ottawa, Canada, this 16th day of December 2014.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2014 TCC 369
+COURT FILE NOS.:
+2010-128(IT)G
+2009-3619(GST)G
+STYLE OF CAUSE:
+EDWARD KLEMEN v. THE QUEEN
+REASONS FOR ORDER BY:
+The Honourable Justice Robert J. Hogan
+DATE OF ORDER:
+December 16, 2014
+WRITTEN SUBMISSIONS BY:
+Counsel for the Appellant:
+Sanjaya R. Ranasinghe
+Counsel for the Respondent:
+Cynthia Isenor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Sanjaya R. Ranasinghe
+Firm:
+Felesky Flynn LLP
+Edmonton, Alberta
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2014 TCC 278 at para. 2.
+[2] SWS Communication Inc. c. La Reine, 2012 CCI 377, [2012] G.S.T.C. 107 (TCC).
+[3] Written Submissions of the Respondent on Costs, footnote 10.
+[4] Amherst Crane Rentals Limited v. Perring, 2004 DTC 6584 (ONCA). I note that this case was decided in the Ontario Court of Appeal, under Rule 57.01 of the Ontario Rules of Civil Procedure (the equivalent of section 147 of the Tax Court of Canada Rules (General Procedure)), and is cited for the above principle in the current edition of McMechan and Bourgard’s Tax Court Practice.
+[5] Klemen v. The Queen, 2014 TCC 244, 2014 DTC 1170 at para. 20.
+[6] Supra, footnote 1, at paras. 7-11.
+[7] 2010 TCC 490, 2010 DTC 1353 at paras. 32-33.
+[8] Written Submissions of the Appellant on Costs, Appendix A.
+[9] Henco, supra, footnote 1, at para. 20.

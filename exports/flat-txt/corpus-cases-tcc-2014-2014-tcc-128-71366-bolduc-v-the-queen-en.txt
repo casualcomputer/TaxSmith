@@ -1,0 +1,147 @@
+Title: Bolduc v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71366/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-128-71366-bolduc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-04-30
+
+# Bolduc v. The Queen
+
+- Citation: 2014 TCC 128
+- Decision date: 2014-04-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5296, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bolduc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-04-30
+Neutral citation
+2014 TCC 128
+File numbers
+2012-816(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-816(IT)G
+BETWEEN:
+BRIAN BOLDUC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on April 23, 2014 at Ottawa, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+James Rhodes
+Counsel for the Respondent:
+Paul Klippenstein
+ORDER
+Upon consideration of a Motion by the Appellant for an Order directing the parties to file and serve on each other a list of documents pursuant to section 82 of the Tax Court of Canada Rules (General Procedure);
+The motion is dismissed in accordance with the attached reasons; and,
+The Respondent is awarded costs.
+Signed at Toronto, Ontario, this 30th day of April 2014.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2014TCC128
+Date: 20140430
+Docket: 2012-816(IT)G
+BETWEEN:
+BRIAN BOLDUC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+V.A. Miller J.
+[1] The Appellant has brought a Motion in which he requests:
+(a) an Order directing that the parties file and serve on each other a list of documents pursuant to section 82 of the Tax Court of Canada Rules (General Procedure) (the “Rules”);
+(b) an Order permitting the Appellant to conduct further oral discovery upon a nominee of the Respondent that is knowledgeable in respect of documents included in the Respondent’s list of documents served on the Appellant pursuant to the Order requested above; and,
+(c) an Order for costs of this motion.
+[2] The only issue in this appeal is whether the Appellant is liable for gross negligence penalties which were assessed against him in respect of false business losses he claimed in his income tax return for 2009.
+[3] The parties agree to the following facts.
+[4] In 2009, the Appellant participated in a tax savings scheme (the “Scheme”) promoted by Solutions 21 Financial (“Solutions 21”). According to this Scheme, the Appellant reported in his 2009 return that he had gross business income of $100,209.59; and, a business expense of $426,336.97 which he described as “AMT TO PRINCIPAL FR AGENT”. The Appellant claimed net business losses of $326,127.38.
+[5] The Appellant applied the business losses to his employment income for 2009 so that there were nil federal taxes owing. He also requested that the remaining losses be carried back to his 2006, 2007 and 2008 taxation years so that he would receive a refund of the taxes he had paid in those years.
+[6] The Minister of National Revenue (the “Minister”) disallowed the net business losses and assessed a gross negligence penalty of $42,028.51 against the Appellant.
+[7] The Appellant did not receive any of the refunds he requested.
+[8] The Appellant did not have a business in 2009.
+[9] The parties have already exchanged lists of documents pursuant to section 81 of the Rules and they have held oral discoveries.
+Appellant’s Position [10] It is the Appellant’s position that gross negligence penalties should not have been assessed against him because he believed that the Scheme which had been marketed to him and thousands of other taxpayers was legitimate. In order to demonstrate that his negligence did not rise to the level of gross negligence, he will argue that he acted reasonably in the circumstances by comparing his actions with that of the “reasonable person”. The Appellant submitted that he should be able to present the full circumstances of the Scheme, and the fact that many other taxpayers also participated in it.
+[11] I inferred from counsel’s submissions that he will argue that the “reasonable person” is all the other individuals who claimed false business losses in their returns in circumstances similar to the Appellant.
+[12] Counsel for the Appellant stated that the Minister had an audit project for the Scheme which involved thousands of taxpayers. The Minister controlled the audit project, the resulting assessments and the investigations. It is the Appellant’s view that the Minister has the documents which will assist him in establishing what the reasonable person did and/or what was reasonable in the circumstances similar to that of the Appellant.
+[13] As part of its Motion Record, the Appellant included the affidavit which was used by an officer of the Canada Revenue Agency (“CRA”) to obtain search warrants against the promoters of Fiscal Arbitrators. (Fiscal Arbitrators also operated a tax savings scheme identical to the one promoted by Solutions 21.) Counsel for the Appellant has requested all documents used to obtain the search warrants; all documents obtained as a result of the search warrants; the names of all CRA employees who have knowledge of the Scheme and similar schemes; all documents the CRA may have with respect to the Scheme and similar schemes; and, the CRA files for all taxpayers who have been assessed under this Scheme and those similar to it. Counsel stated that if this section 82 motion is granted, it will reduce the number of subpoenas which would have to be issued for the hearing of this appeal.
+The Law [14] Section 82 of the Rules provides in part:
+(1) The parties may agree or, in the absence of agreement, either party may apply to the Court for an order directing that each party shall file and serve on each other party a list of all the documents that are or have been in that party's possession, control or power relevant to any matter in question between or among them in the appeal.
+[15] The party requesting full disclosure of documents under section 82 must demonstrate that the requested documents are relevant to the issues raised in the pleadings and that there are reasonable grounds for such an order: Mintzer v R, 2008 TCC 72.
+[16] In making its decision for full disclosure, the Court must be satisfied that full disclosure will secure the just, most expeditious and least expensive determination of the proceeding: Section 4(1) of the Rules.
+[17] In accordance with subsection 4(1) of the Rules, the Court should also consider whether the issues under appeal are such that the increased expense and time required to assemble the requested documents are warranted: Long v R, 2010 TCC 197 at paragraphs 17. The objectives of efficiency, effectiveness, practicality and the ‘need to get on with the litigation’ also play a part in the Court’s decision for full disclosure: Canadian Imperial Bank of Commerce v R, 2013 TCC 170 at paragraph 106.
+[18] When deciding whether it would exercise its discretion to grant an order for full disclosure of documents, this Court has also considered the importance of the principle of proportionality in tax litigation. In Canadian Imperial Bank of Commerce (supra), Jorre J. stated:
+109 Both parties have significant resources, there is a good deal of tax at stake and there appears to be significant and serious issues at stake. In the sense proportionality is often discussed, it is probably not an issue here.
+110 However, there is a long tradition in tax of trying to keep down, if possible, the amount of time and effort spent on pretrial stages of the proceeding. It is reflected in the choice of Rule 81 as the default rule. Arguably, this tradition is also a kind of consideration of proportionality although, to my knowledge, discussions of proportionality started much more recently than this tradition.
+[19] Although the burden of discovery should remain proportionate to the issues, interest, and money at stake in an appeal, the Court must also question whether the requested documents are material with respect to the issue or whether they will add significant value to the Court’s appreciation of the evidence: Cameco Corporation v R, 2014 TCC 45 at paragraphs 42 and 43.
+Analysis [20] It is my view that the Appellant has not demonstrated that full disclosure of documents should be granted in this appeal. He has not shown that the documents he requested or the names of all employees of the CRA who have knowledge of the Scheme are relevant to the issue in this appeal.
+[21] The sole issue that the trial judge has to decide in this case is whether the Appellant made his claim for false business losses “knowingly, or under circumstances amounting to gross negligence”. In the recent decision of Torres v R, 2013 TCC 380, C Miller J. analyzed the existing case law with respect to gross negligence penalties and identified the leading principles which were considered in those cases. He summarized those principles as follows:
+Based on this jurisprudence and the evidence that I have heard in the six Appeals before me, I draw the following principles:
+a) Knowledge of a false statement can be imputed by wilful blindness.
+b) The concept of wilful blindness can be applied to gross negligence penalties pursuant to subsection 163(2) of the Act and it is appropriate to do so in the cases before me.
+c) In determining wilful blindness, consideration must be given to the education and experience of the taxpayer.
+d) To find wilful blindness there must be a need or a suspicion for an inquiry.
+e) Circumstances that would indicate a need for an inquiry prior to filing, or flashing red lights as I called it in the Bhatti decision, include the following:
+i) the magnitude of the advantage or omission;
+ii) the blatantness of the false statement and how readily detectable it is;
+iii) the lack of acknowledgment by the tax preparer who prepared the return in the return itself;
+iv) unusual requests made by the tax preparer;
+v) the tax preparer being previously unknown to the taxpayer;
+vi) incomprehensible explanations by the tax preparer;
+vii) whether others engaged the tax preparer or warned against doing so, or the taxpayer himself or herself expresses concern about telling others.
+f) The final requirement for wilful blindness is that the taxpayer makes no inquiry of the tax preparer to understand the return, nor makes any inquiry of a third party, nor the CRA itself.
+[22] The focus of the inquiry at the hearing of this appeal will be on facts specific to the Appellant’s education, experience, knowledge and conduct. The documents sought by the Appellant are not relevant to these facts nor will the requested documents add any value to the Court’s appreciation of the evidence with respect to the Appellant’s state of mind and belief. An Order for full disclosure in this case will not secure the just, most expeditious and least expensive determination of the proceeding.
+[23] Counsel for the Appellant stated that his objective will be to establish why it was reasonable in the circumstances for the Appellant to believe that the Scheme was legitimate. He plans to make an argument based on the “reasonable person” and he seeks information with respect to other taxpayers who also claimed false losses in their tax returns. However, the personal information with respect to other taxpayers is not relevant to the Appellant’s appeal: Sinclair v R, 2003 FCA 348. It is my opinion that the Appellant has sufficient information to make the “reasonable person” argument. The Respondent has already given him data with respect to the number of taxpayers who have been audited for false business losses for the period 2009 to 2014. I make no decision as to the relevancy of the Appellant’s proposed argument.
+[24] The Appellant has alleged that the auditor referred to information when he decided that a penalty should be assessed against him and this information has not been disclosed to him. My review of the discovery transcript has shown that counsel for the Appellant conjectured that there was a master file of “scripted responses and other things” which the auditor used in his penalty report. The Respondent took the following under advisement:
+“To determine whether there is a master file that the auditor was referring to with respect to this assessment, and if so, to produce that master file.”
+The answer given to this question was:
+“The auditor did not review a master file with respect to this assessment,”
+[25] It is my view that the Respondent has answered the question which he took under advisement.
+[26] It was also the Appellant’s position that the documents obtained by the Minister in his investigation of the scheme promoters are directly relevant to the Appellant’s case. While these documents may assist the Appellant in giving the background to the Scheme, the cost and time required for such full disclosure of documents outweighs any possible benefit to the Appellant. It is arguable whether the background to the Scheme will be relevant to whether the Appellant is liable for gross negligence penalties but that issue is best left to the trial judge.
+[27] In addition to the reasons given above, I have also concluded that the amount in issue in this appeal ($42,028.51) does not warrant the costs which would be incurred in complying with an order for full disclosure of documents.
+[28] In conclusion, the Appellant has not demonstrated that the documents he seeks are relevant to the issue in his appeal. Even if some of these documents may be relevant, I am not satisfied that full disclosure will secure the just, most expeditious and least expensive determination of the issue under appeal. The motion is dismissed with costs to the Respondent.
+Signed at Toronto, Ontario, this 30th day of April 2014.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2014TCC128
+COURT FILE NO.:
+2012-816(IT)G
+STYLE OF CAUSE:
+BRIAN BOLDUC AND THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+April 23, 2014
+REASONS FOR ORDER BY:
+The Honourable Justice Valerie Miller
+DATE OF ORDER:
+April 30, 2014
+APPEARANCES:
+Counsel for the Appellant:
+James Rhodes
+Counsel for the Respondent:
+Paul Klippenstein
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+James Rhodes
+Firm:
+Taxation Lawyers
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,204 @@
+Title: 2870258 Canada Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27819/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-407-27819-2870258-canada-inc-c-la-reine-en.md
+Document type: case_law
+Last modified: 2007-05-01
+
+# 2870258 Canada Inc. c. La Reine
+
+- Citation: 2007 TCC 407
+- Decision date: 2007-05-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 359, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2870258 Canada Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-01
+Neutral citation
+2007 TCC 407
+File numbers
+2003-2120(GST)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2007TCC407
+Date: 20070803
+Docket: 2003-2120(GST)G
+BETWEEN:
+2870258 CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on May 1, 2007, at Montréal, Quebec, and amended for clarification and precision.)
+Archambault J.
+[1] 2870258 Canada Inc. ("Manco") is appealing from an assessment made by the Ministère du Revenu du Québec ("the MRQ") as an agent of the Minister of National Revenue ("the Minister") under the Excise Tax Act, R.S.C. 1985, c. E‑15 ("the Act" or "the ETA"). The Minister disallowed an input tax credit (ITC) of $70,000, claimed by Manco for the period from June 1 to August 31, 1988, in respect of property that belonged, at a certain time, to Solma Electroplating Ltd. ("Solma") or Empire Electroplating Works Ltd. ("Empire"). In addition, the Minister imposed a penalty of $17,500 under section 285 of the ETA.
+[2] The assessment was made by the Minister on the basis of the following factual assumptions:
+[TRANSLATION]
+(a) The facts admitted to above.
+(b) The Appellant is a registrant for the purposes of Part IX of the ETA. (admitted)
+(c) The Appellant operates a metal plating business. (admitted)
+(d) Mr. Ron Di Pasquale was the Appellant's president at all times relevant to this dispute. (admitted)
+(e) Mr. Michele Mangione was the Appellant's director of production at all times relevant to this dispute. (admitted)
+(f) Mr. Michele Mangione was also the president of 9044-2435 Québec Inc. at all times relevant to this dispute. (admitted)
+(g) Mr. Maurice Faille, Michel Faille's father, was a director of 9044‑2435 Québec Inc. at all times relevant to this dispute. (admitted)
+(h) Mr. Michel Faille was an officer of Seahawk Financial Services Ltd. and of Seahawk Investments Ltd. at all times relevant to this dispute. (admitted)
+(i) The Appellant was the recipient of the supply, by way of sale, of the assets of the bankruptcy of Solma Electroplating Ltd. on or about January 8, 1997, from Friedman & Friedman Inc., trustees in bankruptcy, in consideration of $15,000, plus GST in the amount of $1,050 (7% of $15,000) and QST in the amount of $1.043.25 ($15,000 x 1.07 x 6.5%). (denied)
+(j) Mr. Ron Di Pasquale, on behalf of the Appellant and in his capacity as president thereof, signed the contract reflecting the supply, received by the Appellant, of the said assets of the bankruptcy of Solma Electroplating Ltd. (admitted)
+(k) The Appellant was the owner of the said assets from the time that this supply was received from the trustee in bankruptcy on or about January 8, 1997, until and including the period in issue. (denied)
+(l) 9044-2435 Québec Inc. received a supply, by way of sale, of the assets of the bankruptcy of Empire Electroplating Works Ltd. on March 7, 1997, from Schwartz Levitsky Feldman Inc., trustees in bankruptcy, in consideration of $35,000, plus GST in the amount of $2,450 (7% of $35,000) and QST in the amount of $2,434.25 ($35,000 x 1.07 x 6.5%). (admitted)
+(m) This supply was pursuant to an offer to purchase the said assets for $35,000 plus GST and QST. 9044­-2435 Québec Inc. submitted that offer to the trustee in bankruptcy on January 31, 1997, along with a deposit consisting of 20% of the total amount, that is to say, $7,976.85 (20% of $35,000 x 1.07 x 1.065). (admitted)
+(n) Mr. Michele Mangione, on behalf of 9044‑2435 Québec Inc. and in his capacity as president thereof, signed the offer of purchase and the contract reflecting the supply of the said assets of the bankruptcy of Empire Electroplating Works Ltd. (admitted)
+(o) The Appellant paid the deposit by means of a cheque co-signed by Mr. Michele Mangione as drawer.[1]
+(p) In its accounting books, the Appellant stated that it acquired the assets of the bankruptcy of Empire Electroplating Works Ltd. for $7,976.85. (admitted)
+(q) From the time that the said assets were supplied by the trustee in bankruptcy until and including the period in issue, the Appellant's own books stated that it was the owner of the assets. (denied)
+(r) Among the total ITCs that it claimed in computing its net tax for the period in issue, the Appellant claimed $70,000 in respect of its receipt of the supply of the two aforementioned bankruptcies in issue in consideration of $1,000,000 from a supplier named Seahawk Financial Services Ltd. (admitted)
+(s) The Minister refused to allow this ITC claimed by the Appellant in computing the Appellant's net tax for the period in issue. (admitted)
+(t) The voucher that the Appellant submitted to the Minister in support of its $70,000 ITC claim while the Appellant's net tax return was being considered was issued by Seahawk Investments Ltd., not Seahawk Financial Services Ltd., the alleged supplier referred to in the Notice of Appeal. (denied)
+(u) Seahawk Investments Ltd. did not directly or indirectly receive from the trustees in bankruptcy the supply, by way of sale, of the assets of the bankruptcies of Solma Electroplating Ltd. and Empire Electroplating Works Ltd. (denied)
+(v) Seahawk Investments Ltd. did not supply to the Appellant, by way of sale, the assets of the two bankruptcies in issue in consideration of $1,000,000. (denied)
+(w) Seahawk Investments Ltd. ceased all commercial activities in 1995. (no knowledge)
+(x) On July 17, 1997, the registration of Seahawk Investments Ltd. for the purposes of the Act respecting the legal publicity of sole proprietorships, partnerships and legal persons, R.S.Q., c. P-45, was struck off ex officio by the Inspecteur général des institutions financières pursuant to section 50 of that Act, and that striking­‑­off entailed the dissolution of the corporation under that section. (admitted)
+(y) As for Seahawk Financial Services Ltd., it did not directly or indirectly receive from the trustees in bankruptcy the supply, by way of sale, of the assets of the bankruptcies of Solma Electroplating Ltd. and Empire Electroplating Works Ltd. (denied)
+(z) Seahawk Financial Services Ltd. did [not] supply to the Appellant, by way of sale, the assets of the two bankruptcies in issue in consideration of $1,000,000. (denied)
+(aa) There is no voucher from Seahawk Financial Services Ltd. in support of the $70,000 ITC claim, even though that corporation is the one from which the Appellant claims, in its Notice of Appeal, to have received the supply of the assets in issue in consideration of $1,000,000. (denied)
+(bb) The voucher which the Appellant submitted to the Minister in support of the $70,000 ITC claim when its net tax return was being considered, and which was issued by Seahawk Investments Ltd., is a fraudulent or false document. (denied)
+(cc) All documents related to this purported supply of the assets in issue, of which the Appellant is the recipient, whether from Seahawk Financial Services Ltd. or Seahawk Investments Ltd., are false or fraudulent documents obtained as a result of a fraud committed by one of those corporations or by the Appellant. (denied)
+(dd) The Appellant participated in a scheme one of the purposes of which was to unduly add a $70,000 ITC in computing its net tax for the period in issue. (denied).
+(ee) The voucher for the $70,000 ITC claim is an invoice of convenience, intended, among other things, to artificially create a negative net tax balance and seek a refund thereof for the period in issue, as opposed to the positive balance that would have been payable to the Receiver General (read "the Minister"). (denied).
+(ff) Thus, the Appellant is liable to the Minister for the amount of the adjustment to the net tax that it reported for the period in issue, and for the net interest and the penalties. (denied)
+Factual background
+[3] Manco was incorporated in November 1992 and began operating its plating business in December 1992. It acquired its assets following the bankruptcy of Manco TGV, a corporation belonging to Mr. Mangione and formed in 1988. Mr. Mangione was Manco's director of production throughout the period in issue. Since Mr. Mangione had 18 years of experience in the metal plating business, Ron Di Pasquale apparently wanted to attract his family's interest in Manco. Three of Mr. Mangione's children are the equal shareholders of 2961‑9525 Québec Inc., which holds 50% of Manco, and Mr. Di Pasquale, through 3178331 Canada Inc., holds the other 50% of Manco (Exhibit A‑1, tab 15, page 11). Before founding Manco TGV, Mr. Mangione held 50% of the shares of Solma, another metal plating company, from 1974 to 1988.
+[4] Solma had financial troubles in 1996, as shown by the application for an extension of the deadline for filing a proposal with the official receiver, submitted pursuant to the Bankruptcy and Insolvency Act (Exhibit A‑1, tab 5, page 1). The application states that Solma wanted to get such an extension because it was in discussions with a potential investor that would inject new funds into Solma; the investor in question was Seahawk Financial Services Ltd. ("Seahawk"). Seahawk was incorporated on July 19, 1993 (Exhibit A‑1, tab 23). Its articles of incorporation state that it was founded by Seahawk Investments Ltd. ("Seahawk Investments") and that the president of Seahawk Investments is Michel Faille. Seahawk Investments was incorporated on August 14, 1992. According to the notice concerning the membership of the board of directors, a notice received by the Inspecteur général des institutions financières on August 14, 1992, Michel Faille was its director. According to the testimony of Sylvain Vinet, the MRQ's investigator, Seahawk Investments was struck off ex officio by the Inspecteur général des institutions financières in July 1997 and its GST number has been revoked since July 31, 1995. As for Seahawk, it was never assigned a GST number, and, what is more, there is no trace of that corporation in CIDREQ.
+[5] In 1997, Frank Di Pasquale, one of Mr. Di Pasquale's brothers, was the president of Empire, another metal plating business, which was also in financial difficulty. Before going bankrupt, it had labour relations problems with its employees, as evidenced by the 1996 strike. Ron Di Pasquale even intervened to help Empire in certain dealings with the MRQ.
+[6] According to Ron Di Pasquale's testimony, Mr. Faille, acting on behalf of Seahawk, contacted Mr. Mangione to encourage him to operate Solma. Ron Di Pasquale personally met Mr. Faille through Mr. Mangione. Mr. Di Pasquale feared that Mr. Faille would become one of Manco's competitors.[2] Mr. Di Pasquale said that, in order not to lose Mr. Mangione's services, Manco wished to acquire the assets of the two bankrupt corporations, namely Solma and Empire ("the bankruptcy assets") but its financial health was precarious and it was not able to finance that acquisition. Thus, Manco allegedly turned to Seahawk, which would act as an intermediary in the purchase of these assets. An agreement was allegedly reached on January 6, 1997, between Manco, Seahawk and 9044‑2435 Québec Inc. ("2435"), as represented by its president, Mr. Mangione. 2435 was a corporation that belonged to Mr. Faille's father, Maurice Faille, who, in all likelihood, was just acting as a frontman for his son. Maurice Faille was also a director of 2435. In the agreement, Seahawk granted Manco a purchase and rental option in respect of the assets once owned by Solma. According to Mr. Di Pasquale, this agreement was drafted by Mr. Faille or one of his representatives. The agreement (Exhibit A‑1, tab 6) provides as follows:
+[TRANSLATION]
+THIS AGREEMENT DATED JANUARY 6, 1997
+Between: 2870258 Canada INC., doing business as Manco Domplex, 8895 Crescent 3, Anjou, QC, duly represented by its president Mr. Ron Di Pasquale, hereinafter MANCO.
+And: 9044‑2435 QUÉBEC INC., duly represented by its president Mr. Michele Mangione, hereinafter QUÉBEC INC.
+And: SEAHAWK FINANCIAL SERVICES LTD., 505 De Maisonneuve West, Suite 904, Montréal, QC, hereinafter SEAHAWK.
+Preamble:
+Whereas MANCO is engaged in the business of plating metals of all kinds;
+Whereas QUÉBEC INC. wishes to purchase the position of the Caisse populaire St‑Albert‑Le‑Grand in the matter of the bankruptcy of SOLMA ELECTROPLATING LTD.;
+Whereas SEAHAWK wishes to be reassigned the assignment of claims between Caisse populaire St‑Albert‑Le‑Grand and QUÉBEC INC.;
+And whereas SEAHAWK wishes to grant MANCO an option to purchase and/or lease the equipment that once belonged to SOLMA.
+It is agreed that:
+1. The preamble forms an integral part hereof.
+2. In order to pay off the professional fees owed to FRIEDMAN & FRIEDMAN in connection with the SOLMA bankruptcy, MANCO agrees to acquire the SOLMA assets directly from FRIEDMAN & FRIEDMAN for approximately $15,000.
+3. Since MANCO does not have the necessary working capital or borrowing capacity to purchase the SOLMA assets and buy back the Caisse populaire's position, it shall sign an agreement with SEAHAWK, under which it shall commit itself to purchase and/or lease all the SOLMA equipment from SEAHAWK.
+4. QUÉBEC INC., shall proceed to buy back the Caisse populaire's interest (± $500,000) so that it can be assigned the rights to the SOLMA equipment, and shall release MANCO when it acquires the equipment from FRIEDMAN & FRIEDMAN.
+5. QUÉBEC INC. shall assign, to SEAHAWK, its rights in the SOLMA assets under the assignment of claim that it shall obtain from the Caisse populaire St‑Albert‑Le‑Grand.
+6. SEAHAWK shall grant MANCO an option to purchase the SOLMA equipment for a total of $750,000. MANCO shall have until December 31, 1997, to exercise that option. If the option shall not have been exercised, MANCO shall pay SEAHAWK rent of $10,000 per month for the lease of the equipment, retroactive to January 1, 1997.
+On the date that the option expires, SEAHAWK shall reserve the right to sell all the SOLMA assets to the highest bidder should MANCO not exercise its option. In addition, MANCO shall defray all costs necessary for the restoration of the SOLMA equipment to perfect condition, and carry out the necessary repairs and defray all costs related to the transaction.
+. . .
+[7] Two days later, that is to say, on January 8, 1997, the trustee of the Solma bankruptcy transferred the Solma assets to Manco, including inventory and equipment, for a total of $15,000, plus taxes, for a total of $17,093.25. This amount of $17,093.25 was entered entirely under [TRANSLATION] "Machinery and Equipment" in Manco's accounting records.
+[8] On January 31, 1997, 2435 made an offer to the trustee in the Empire bankruptcy to purchase Empire's equipment for $35,000, plus taxes, for a total of $39,884.25. Attached to that offer was a cheque in the amount of $7,976.85, which consisted of 20% of the offer amount, and the balance was to be payable on February 7, 1997. This cheque was made by Manco on January 31, 1997, and another cheque, in the amount of $31.907.40, was made by Michel Faille, likely on behalf of one of his corporations, on February 13, 1997 (Exhibit A‑1, tab 11, second sheet). On February 3, 1997, three days after this offer was submitted, Manco and Seahawk entered into the following agreement:
+[TRANSLATION]
+. . .
+PREAMBLE
+Whereas Manco Domplex is engaged in the business of plating metals of all kinds;
+Whereas Seahawk acquired all the capital assets of the Solma and Empire companies, which had been engaged in the business of plating metals of all kinds;
+Whereas Manco wishes to obtain an option to acquire the capital assets that once belonged to Solma and Empire and are now owned by Seahawk;
+And whereas Seahawk wishes to grant an option to Manco Domplex,
+IT IS AGREED THAT:
+1. The preamble forms an integral part hereof.
+2. Seahawk grants Manco Domplex an option to acquire all the capital assets of Solma, with the exception of the building, for a fixed price of seven hundred and fifty thousand dollars ($750,000).
+Manco Domplex will have until December 31, 1997, to exercise its option. If the option is not exercised, Manco Domplex shall pay Seahawk ten thousand dollars ($10,000) per month as rent for the said equipment, retroactive to January 1, 1997.
+Seahawk reserves the exclusive right to sell all the equipment to the highest bidder if Manco has not exercised its option by the expiry date.
+Manco Domplex shall defray all the costs necessary to restore the Solma equipment to perfect condition, carry out the necessary repairs and defray all the costs related to the transaction.
+3. Seahawk grants Manco Domplex an option to acquire all the capital assets of Empire, with the exception of the building, for a fixed price of two hundred and fifty thousand dollars ($250,000).
+Manco Domplex shall have until December 31, 1997, to exercise its option. If the option is not exercised, Manco Domplex shall pay Seahawk four thousand dollars ($4,000) per month as rent for the said equipment, retroactive to February 1, 1997.
+Seahawk reserves the exclusive right to sell all the equipment to the highest bidder if Manco has not exercised its option by the expiry date.
+Manco Domplex shall defray all costs necessary to make the Empire premises leasable and to return the Empire equipment in perfect condition. Furthermore, Manco shall make all the necessary repairs and defray all costs related to the transaction.
+. . .
+[9] The contract of sale between the trustee of the Empire bankruptcy and 2435 (Exhibit A‑1, tab 14), giving effect to the offer of January 31, 1997, was signed on March 7, 1997.
+[10] On May 21, 1997, Manco retained the services of Ronald Schiller, a chartered accountant, whom Mr. Faille had introduced to Mr. Di Pasquale. Mr. Schiller's mandate was to help Manco obtain the necessary funding to exercise the options granted to it by Seahawk for the purchase of the bankruptcy assets. Mr. Schiller prepared a business plan, and submitted it in November 1997 (Exhibit A‑1, tab 15). At page 15 of the document, Mr. Schiller wrote:
+[TRANSLATION]
+The management took a big gamble when they entered into the agreements with Seahawk. However, as shown by the actual results as at September 30, 1997, that gamble paid off. Sales and profits have increased dramatically.
+They must now buy back the options held by Seahawk and purchase all the equipment definitively.
+As shown by the financial forecasts for 1998 and 1999, the project as a whole will enable Manco to increase its sales and net profit while ensuring that it has the necessary funds for debt service.
+Earlier on in the document, at page 13, he had written:
+[TRANSLATION]
+Manco's sales grew by 66% from 1994 to 1995 and by 33% from 1995 to 1996. Although management might have settled for those high rates, the economic climate has made a phenomenal 77% growth rate possible for the year 1996‑97 (based on current results after 10 months of operation and on sales projections for the last two months of Manco's fiscal year.)
+[11] According to Mr. Di Pasquale, Manco took possession of the Solma assets in January 1997, and took possession of the Empire assets in mid‑February 1997 because the owner of the building in which the Empire assets were located was in a state of panic. Mr. Schiller paints the same picture at page 14 of his business plan. Thanks Mr. Schiller's efforts, financing was obtained from the TD Bank. To this end, Manco obtained a $1,200,000 loan guarantee from the Société de développement industriel du Québec ("SDI"), as confirmed by a letter dated June 29, 1998 (Exhibit A‑1, tab 19). SDI had asked the Ministère de l'Industrie, du Commerce, de la Science et de la Technologie (MICST) for a sectoral opinion on December 9, 1997. In its opinion of January 28, 1998, the MICST's chemical and materials industries directorate expressed a favourable view of Manco's project and recommended that SDI grant the loan guarantee applied for (Exhibit A‑1, tab 16). The description of the financing package states that it includes $750,000 for the acquisition of Solma and $250,000 for the acquisition of Empire. The opinion states that [TRANSLATION] "Manco would like to acquire the plating equipment that belonged to Solma and Empire, two companies that went bankrupt last year, in order to increase its production capacity so that it can become more competitive." (Exhibit A‑1, tab 16, page 2, under the heading [TRANSLATION] "The Company"). The report goes on to say the following at page 3, under the heading [TRANSLATION] "The Company's Capacity": "[I]t can be seen that the company is in somewhat fragile financial health. This means that it could experience difficulty if the sales forecasts are not attained." Lastly, the factors justifying the recommendation include, at page 4, "the acquisition of plating equipment that is still in good condition for a relatively low price" and the fact that "in recent years, Manco‑Domplex has become one of the largest industrial plating subcontractors in Quebec."
+[12] Alejandro Morales of SDI testified at the hearing and confirmed that it is standard practice to visit a company that will be getting a loan guarantee. According to Ron Di Pasquale, Mr. Morales and an MICST representative did indeed visit Manco's facilities. The loan guarantee offer attached to Mr. Morales's letter dated June 29, 1998, specified that the $1,200,000 loan was to be used exclusively to finance the plan to acquire machinery and equipment ($1,000,000), make leasehold improvements ($200,000) and set up a $400,000 working capital, for a total of $1,600,000. SDI was to provide a $1,200,000 loan guarantee, and a Québec Business Investment Company (QBIC) was to invest $400,000. SDI's commitment was conditional upon a $350,000 line of credit being obtained, and upon a written confirmation by Manco's external auditor that a QBIC would be investing $400,000. In a letter dated April 9, 1999, Frank Bruzzese confirmed to the SDI that Manco had issued 1,500 Class A shares to SPEQ Placage Montréal Inc. [a QBIC] for a total consideration of $400,000 (Exhibit A‑1, tab 21). Mr. Di Pasquale said that the QBIC in question was founded on November 30, 1998.
+[13] In July 1998, Mr. Di Pasquale called Mr. Faille to notify him that he was ready to finalize the acquisition of the bankruptcy assets, and that the TD Bank needed an invoice in order to advance the money. The invoice in question (Exhibit A‑1, tab 20) was issued by Seahawk Investments to Manco on July 9, 1998. It describes the assets as [TRANSLATION] "Machinery, equipment and facilities, as set out in the appendices hereto, which form an integral part of this invoice" and specifies the price, namely $1,000,000, plus GST in the amount of $70,000 and QST in the amount of $80,250, for a total of $1,150,250. The invoice also provides GST and QST registration numbers. Mr. Di Pasquale confirmed that no new agreement was made between Manco and Seahawk Investments. He claims that the assets were transferred in accordance with the agreement of February 3, 1998, under which Seahawk granted Manco an option for $1,000,000. At the hearing, when Mr. Di Pasquale's lawyer pointed out to him that Seahawk on the invoice was not the same entity, he replied that Mr. Faille had told him that it was [TRANSLATION] "the same thing."
+[14] Later, on August 5, 1998, the TD Bank issued two $575,125 bank drafts payable to Seahawk Investments. The drafts, which totalled $1,150,250, were endorsed by Michel Faille for "Seahawk" — there is no specification as to whether this was a reference to Seahawk or Seahawk Investments — and the Royal Bank of Canada guaranteed the endorsement. Jacqueline Bastien, the account director at TD Bank, testified in order to offer the two bank drafts and the resolution that the Royal Bank gave her in connection with its guarantee of the endorsement. However, the resolution was issued to Seahawk, not Seahawk Investments (Exhibit A‑2).
+[15] When Mr. Bruzzese recorded the cost of the bankruptcy assets in Manco's accounting records as $1,000,000, he was relying on the invoice from Seahawk Investments and on the verifications that he presumed the TD Bank had done before it financed the acquisition. He was told that the $17,093 for the acquisition of the Solma assets were just a down payment.
+[16] Manco claimed the $70,000 ITC in its GST return dated September 28, 1998 (Exhibit I‑1). Normand O'Reilly, the Minister's auditor, contacted Manco the following month to obtain the documents relevant to this claim. On November 25, 1998, he paid a visit to Manco's place of business in order to have a look at its equipment. He obtained the serial numbers of four items of property chosen at random, and, according to Mr. Di Pasquale, these numbers were not consistent with the numbers set out in the appendices to the invoice of July 9, 1998. Mr. O'Reilly disallowed the ITCs because he was not certain who had sold the bankruptcy assets.[3] It must be added that Mr. O'Reilly did not ask to check the more important equipment serial numbers in the plant. Mr. Di Pasquale said that these serial numbers were located on filters and other property of that kind. Apparently, there were no serial numbers on the more important equipment.
+[17] The MRQ was not content merely to disallow Manco's ITC claim; it also decided to conduct an investigation to determine whether a criminal prosecution was warranted. It entrusted this task to Mr. Vinet in May 1999. After checking with the trustees of the Solma and Empire bankruptcies, Mr. Vinet determined that the purchaser of the Solma assets was Manco, which paid $15,000; that the purchaser of the Empire assets was 2435; and that the Solma assets had been entered solely under the heading [TRANSLATION] "Machinery and Equipment" into Manco's account #1560; that the $1,000,000 invoice had been issued by Seahawk Investments, not Seahawk; that Seahawk Investments was struck off in July 1997; that its GST registration number had been deleted since July 31, 1995; that Seahawk never obtained a GST registration number; and that there was no evidence regarding ownership title to the assets. Based on these facts, he determined that Manco filed a false statement in order to unduly obtain an ITC, and criminal prosecutions were commenced against Manco and its two directing minds, Michele Mangione and Renaldo Di Pasquale.
+[18] Madam Justice Céline Lacerte‑Lamontagne rendered her decision on December 4, 2003, after a three-day trial in which only the Crown called witnesses. The main witnesses were Mr. O'Reilly, the auditor, and Mr. Vinet, the investigator. Madam Justice Lacerte-Lamontagne held that the Crown had failed to meet its burden to prove all constituent elements of the offences beyond a reasonable doubt. Consequently, Manco and Messrs. Di Pasquale and Mangione were acquitted. The Crown appealed, and the Honourable Mr. Justice Jean‑Guy Boilard of the Superior Court dismissed the appeal.
+[19] In his testimony before me, Mr. Vinet confirmed that he obtained all the documents that he had requested from Manco, and that, according to his recollection, Manco's representatives had cooperated with him.
+[20] Lastly, it must be mentioned that, on October 13, 2004, Mr. Faille pleaded guilty to the charge of participating in the making, by Manco, of false or misleading statements for the period from June 1, 1998 to September 30, 1998, and of permitting Manco to unduly obtain a $70,000 ITC, thereby committing offences under subsections 327(1) and 329(1) of the Act (Exhibit I‑13). In his testimony before this Court, Mr. Faille explained that he pleaded guilty without familiarizing himself with the charges, simply to limit his legal fees. However, he acknowledged that he did not remit the $70,000 in GST or the $80,250 in QST, purportedly because he had been harassed by the tax authorities for many years.
+Analysis
+[21] The Minister's position is that the $1,000,000 invoice is false, and that Manco did not genuinely receive the bankruptcy assets from Seahawk for that amount. In the Minister's submission, the true acquisition occurred earlier, when Manco acquired the Solma assets directly for $15,000, and I presume that the Minister is arguing that the Empire assets were acquired in a similar manner for $35,000.
+[22] In my opinion, the evidence as a whole favours Manco's position that it acquired the bankruptcy assets for $1,000,000. First of all, the testimony of Mr. Di Pasquale and Mr. Faille has shown that the game plan was essentially to acquire these assets through the interposition of Seahawk, once the $1,000,000 in financing was in place.
+[23] Although this approach leaves a lot to be desired, the purchase contract between the Solma bankruptcy and Manco merely sought to give the bankruptcy enough money to pay off the trustee's fees. Mr. Faille, the apparent mastermind of the whole scheme, drafted the contracts quite carelessly; some of them, such as the contract for the purchase of the Solma assets, do not adequately reflect reality. I believe that the true agreement between Manco and Seahawk was that the bankruptcy assets were to be acquired by Manco through Mr. Faille and/or one of his numerous dummy corporations, and that the true consideration for these assets was indeed to be $1,000,000.
+[24] The facts that support this finding are as follows. From the beginning, before the Solma assets were even sold by the trustee to Manco, there was an agreement dated January 6, 1997, by which [TRANSLATION] "Seahawk [grants] Manco an option to purchase the Solma equipment for . . . $750,000." A few days later, that is to say, on February 3, 1997, Seahawk granted a similar option in respect of the Empire assets, [TRANSLATION] "with the exception of the building, for . . . $250,000." In my view, these agreements more plausibly reflect the reality of the transactions that the parties were contemplating. As well, a feasibility study was done by Mr. Schiller, and resulted in the recommendation that a $1.2 million loan be obtained from the TD Bank. There was also proof that payment of the invoice issued by Seahawk Investments was made on August 5, 1998, by means of two bank drafts for $575,125 each, totalling $1,150,250. In addition to the foregoing evidence, there was a guarantee provided by the SDI with the approval of the MICST. Thus, based on the evidence as a whole, I find that Manco did indeed acquire the bankruptcy assets for $1,000,000 through Mr. Faille.
+[25] However, in order to be entitled to an ITC in respect of these assets, certain conditions must be met, including these set out in paragraph 169(4)(a) of the Act, which provides:
+169(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+. . .
+[26] Subparagraph 3(b)(i) of the Input Tax Credit Information (GST/HST) Regulations ("the Regulations") provides:
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+. . .
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more . . . :
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+[Emphasis added.]
+[27] The evidence in the case at bar has shown that the invoice submitted in support of the ITC claim contained a GST registration number, but that the number had been revoked one year before the transfer of the bankruptcy assets by Seahawk Investments. In Systematix Technology Consultants Inc. v. The Queen, 2006 TCC 277, I had to decide a case similar to the case at bar. At paragraph 5 of that decision, I wrote:
+In the second category, the invoices do provide a registration number but the number was not valid at the relevant time. This category can be divided into three subcategories. In the first of these, a valid registration number appears but only for a period prior to the relevant period. . .
+[28] Following my analysis, at paragraph 15 of my decision, of the meaning of the words in subparagraph 3(b)(i) of the Regulations, that is to say, the question whether the invoice has to provide a registration number attributed in accordance with subsection 241(1) of the Act, I held that the absence of a valid registration number at the relevant time precludes a business from being entitled to an ITC.
+[29] I am aware that Systematix is being appealed from before the Federal Court of Appeal, but, unfortunately, at the time that I rendered my decision in the case at bar, the Federal Court of Appeal had not yet decided the merits of that appeal. Thus, for the time being, I adopt the same interpretation that I adopted there.[4]
+[30] Naturally, the other basis upon which the ITC could be disallowed was that, at the relevant time, Seahawk Investments had been dissolved and had no legal existence. After the parties' oral submissions, I suspended the hearing of this appeal, which took place from October 16 to October 20, 2006, in order to enable the parties to settle not only this dispute, but also the disputes in the related taxation files. Unfortunately, the parties were unable to achieve such a settlement. However, the suspension enabled Manco to obtain a ruling that revoked the striking of Seahawk Investment's corporate registration. Since I also allowed new evidence to be submitted, a facsimile of that ruling (Exhibit A‑8) was tendered in evidence by counsel for Manco at the hearing on May 1, 2007. But counsel for the Respondent submits that, in view of section 57 of the Act respecting the legal publicity of sole proprietorships, partnerships and legal persons, reproduced below, that retroactive ruling cannot be set up against the Respondent:
+57. Subject to the rights acquired by any person or group, the registration of a registrant is deemed to have never been struck off and the legal person constituted in Québec is deemed to have never been dissolved.
+[Emphasis added.]
+[31] Indeed, counsel for the Respondent submits that the Minister had "acquired rights" because more than four years had elapsed since the acquisition of the bankruptcy assets, and the Minister could invoke the expiration of the limitation period. Thus, at the relevant time, namely the time that the GST return was filed, the supplier (Seahawk Investments) no longer existed. Under these circumstances, he submits, Manco could not obtain the ITC. In my opinion, it is unnecessary to decide this issue given my finding that a GST registration number is required in order to be entitled to an ITC.
+[32] The Minister imposed a penalty under section 285 of the Act, which provides:
+285. False statements or omissions − Every person who knowingly, or under circumstances amounting to gross negligence, makes or participates in, assents to or acquiesces in the making of a false statement or omission in a return, application, form, certificate, statement, invoice or answer (each of which is in this section referred to as a "return") made in respect of a reporting period or transaction is liable to a penalty of the greater of $250 and 25% of the total of
+. . .
+[Emphasis added.]
+[33] The onus was on the Minister to show that Manco knowingly, or in circumstances amounting to gross negligence, made a false statement in its net tax return for the relevant period. Naturally, if I had been satisfied that the acquisition of the bankruptcy assets for $1,000,000 was merely a sham and had no economic substance, the Minister's burden would have been lighter. However, since I have determined, based on the evidence as a whole, that the equipment was genuinely acquired for $1,000,000 (though one cannot be certain who the true seller of that equipment was) and since I have no reason to believe that Manco was aware that Seahawk had no valid GST registration number, I rule that it would be entirely unwarranted to impose a penalty on Manco under the circumstances.
+[34] In addition, Mr. Faille testified that he decided not to remit the $70,000 in GST to the MRQ without consulting with or notifying anyone. Consequently, there is no evidence that Manco and its representatives were involved in the failure to remit. He also confirmed that there was no reason to believe that Manco was aware of his plan to avoid remitting, to the MRQ, the GST that Manco had paid upon acquiring the bankruptcy assets.
+[35] For all these reasons, Manco's appeal is allowed, and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the penalty imposed under section 285 of the Act must be cancelled, without costs in view of the circumstances.
+Signed at Vancouver, British Columbia, this 3rd day of August 2007.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 20th day of February 2008.
+François Brunet, Revisor
+CITATION: 2007TCC407
+COURT FILE NO.: 2003-2120(GST)G
+STYLE OF CAUSE: 2870258 CANADA INC. v. THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 16 to October 20, 2006, and May 1, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: August 3, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Franco Iezzoni
+Counsel for the Respondent:
+Benoît Denis
+Jean-Philippe Dumas
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Franco Iezzoni
+Firm: Pateras & Iezzoni
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant admitted to this paragraph, except that it contended that Ms. Assunta Mangione was the co-signer.
+[2] In his testimony following the reopening of the hearing of evidence, Mr. Faille asserted that he wanted to participate in the reorganization of plating businesses in Quebec and had decided to associate with Messrs. Mangione and Di Pasquale in order to consolidate the assets of the Soma and Empire bankruptcies under the aegis of Manco.
+[3] See the third page of Exhibit I‑16, Mr. O'Reilly's report.
+[4] After I decided this appeal, the Federal Court of Appeal confirmed my decision in Systematix, 2007 FCA 226.

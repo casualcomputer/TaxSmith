@@ -1,0 +1,134 @@
+---
+title: "ARCHIVED - Crown Corporation Employees Abroad"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it106r3/archived-crown-corporation-employees-abroad.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Crown Corporation Employees Abroad
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-106R3**
+
+DATE: November 19, 2002
+
+SUBJECT: INCOME TAX ACT**Crown Corporation Employees Abroad**
+
+REFERENCE: Subsection 250(1) (also subsection 2(1))
+
+### Notice—Bulletins do not have the force of law
+
+This document is also available for [download in other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it106r3.html).
+
+## Crown Corporation Employees Abroad
+
+**This version is only available electronically.**
+
+## Contents
+
+- *[Application](#P18_267)*
+
+- *[Summary](#P20_346)*
+
+- *[Discussion and Interpretation](#P22_605)*
+
+- *[Explanation of Changes](#P44_9403)*
+
+## Application
+
+This bulletin replaces and cancels IT-106R2 dated February 15, 1991.
+
+## Summary
+
+This bulletin deals with employees of federal or provincial Crown corporations or agencies who live and work outside Canada. Such employees may be deemed to be resident in Canada and thus subject to Canadian income tax on their income from all sources.
+
+## Discussion and Interpretation
+
+**¶ 1.** Subsection 250(1) deems various categories of individuals to be resident in Canada. However, individuals who are factual residents in Canada cannot be deemed residents in Canada under subsection 250(1). See the current version of Interpretation Bulletin IT-221, [*Determination of an Individual's Residence Status*](https://www.canada.ca/E/pub/tp/it221r3-consolid/it221r3-consolid-e.html), for a review of the criteria referred to by the CCRA in determining factual residence status and for a discussion of how to distinguish between factual and deemed residence status. Deemed residents in Canada, like factual residents in Canada, are taxable under subsection 2(1). Officers and servants of Canada and officers and servants of a province who are absent from Canada and are not factual residents in Canada are deemed to be resident in Canada by virtue of paragraph 250(1)(*c*) if the circumstances discussed in ¶ [3](#P30_4082) are applicable.
+
+In certain circumstances, an individual who is factually or deemed resident in Canada may be deemed to not be resident in Canada pursuant to subsection 250(5). This "deemed non-resident" provision overrides subsection 250(1), and should be taken into account in all cases where an individual is living abroad in a country with which Canada has a tax treaty. For a discussion on the application of subsection 250(5), see the current version of IT-221.
+
+**¶ 2.** The term "officer or servant of Canada" or "officer or servant of a province" includes any officer or employee of a federal or provincial Crown corporation or agency if, in the statute under which it is organized or established, its officers and employees are given the status of servants of Her Majesty or are designated as being part of the public service of Canada or the province. If the corporation or agency is designated as an agent of her Majesty without specific mention being made as to the status of its officers and employees, they will be assumed to be officers or servants of Canada or a province, as the case may be. If the corporation or agency is designated not to be an agent of her Majesty, or its officers and employees are designated not to be part of the public service of Canada or a province (as applicable), then the officers and employees of the Crown corporation or agency will not be officers or servants of Canada or a province for purposes of paragraph 250(1)(*c*).
+
+An officer or employee of a Crown corporation or agency who is determined to be an "officer or servant" of Canada or a province for purposes of paragraph 250(1)(*c*), and who is on an approved leave of absence from his or her office or employment, may be considered to be an "officer or servant" of Canada or a province during the period of absence if the relevant employment statute provides that an officer or employee is considered to remain a member of the public service during an approved leave of absence. Evidence that may indicate that the officer or employee remains a member of the public service while on a leave of absence includes the following:
+
+- the officer or employee continues to be eligible to contribute to a federal or provincial employee superannuation plan;
+
+- the officer or employee continues to be eligible to contribute to and benefit from federal or provincial employee benefit plans (such as medical and dental benefit plans); or
+
+- the approved period of absence is included in the calculation of the officer's or employee's years of continuous service for the purpose of calculating vacation or sick leave entitlements.
+
+**¶ 3.** Officers or servants of Canada or a province who are not factual residents in Canada are, by virtue of paragraph 250(1)(*c*), deemed to be resident in Canada throughout a taxation year if they received representation allowances, or if immediately prior to their appointment or employment by Canada or the province, they were
+
+- resident in Canada or
+
+- deemed to be resident in Canada (e.g., members of the Canadian Forces who were not factual residents in Canada and had been serving abroad).
+
+The children of an officer or servant described in paragraph 250(1)(*c*) are, if they are not factual residents in Canada, also deemed by paragraph 250(1)(*f*) to be resident in Canada if they were dependent on the officer or servant for support and were
+
+- under 18 years of age at any time during the year, or
+
+- 18 years of age or over throughout the year and dependent either by reason of physical or mental infirmity, and
+
+the income of each such child does not exceed the amount set out in paragraph 118(1)(*c*), that is, the basic personal amount.
+
+Also, the spouse or common-law partner of an officer or servant described in paragraph 250(1)(*c*) may, if he or she is not a factual resident of Canada, be deemed to be resident in Canada pursuant to 250(1)(*g*). A person who is not a factual resident in Canada, and who is not deemed to be resident in Canada pursuant to another specific provision (for example, paragraph 250(1)(*c*)), is deemed by paragraph 250(1)(*g*) to be resident in Canada if he or she at any time in the year was, under an agreement or a convention (including a tax treaty) between Canada and another country, entitled to an exemption from an income tax that would otherwise be payable in that other country in respect of income from any source and
+
+- the exemption under the agreement or convention applies to all or substantially all of his or her income from all sources (that is, the person is subject to tax in the other country on less than 10% of his or her income as a result of the exemption), and
+
+- the person was entitled to the exemption because he or she was related to, or a member of the family of, an individual (other than a trust) who was resident (including deemed resident) in Canada at the particular time.
+
+**¶ 4.** An officer or servant referred to in ¶ 3 who is not a factual resident in Canada is deemed to be resident in Canada throughout a taxation year regardless of where the officer or servant lives or performs the services. If such an officer or servant ceases to be described in ¶ 3 at any time in a taxation year, then subsection 250(2) deems that person to have been resident in Canada only during the part of the year preceding that time. Subsection 250(2) also applies to deem children of the officer or servant to have been resident in Canada only during the part of the year preceding that time if they had been deemed to be resident in Canada before that time. After an officer or servant ceases to be a person referred to in ¶ 3, the residency status will depend on the factors outlined in the current version of [IT-221](https://www.canada.ca/E/pub/tp/it221r3-consolid/it221r3-consolid-e.html).
+
+**¶ 5.** Individuals who are deemed to be resident in Canada are required to file Canadian income tax returns and pay tax accordingly. In addition to federal income tax, such individuals must pay, in lieu of provincial income tax, the additional tax as described in subsection 120(1).
+
+**¶ 6.** An officer or employee of a Crown corporation or agency who is required to perform the duties of an office or employment outside Canada for an extended period of time should carefully consider his or her tax position. The corporation or agency should be asked to provide advice as to whether or not he or she is an officer or servant of Canada, or of a province, and whether or not tax would be payable as a resident in Canada under subsection 250(1) when serving abroad (assuming that the officer or employee is not actually a factual resident of Canada while abroad). It should be borne in mind that a person claiming to be a non-resident for income tax purposes may be required to substantiate such a claim. An officer or employee of a Crown corporation or agency who intends to make such a claim by reason of the fact that he or she is not an officer or servant of Canada or a province should ask the corporation or agency to provide suitable evidence to that effect.
+
+**¶ 7.** Any Crown corporation or agency requiring assistance in determining whether its officers and employees are officers or servants of Canada, or of a province, may write to the Income Tax Rulings Directorate for a technical interpretation or an advance income tax ruling. Reference should be made to the statute under which the corporation or agency was organized or established and to the number of officers and employees likely to be affected by subsection 250(1) of the Act. The International Tax Services Office (ITSO) should be contacted for assistance in determining the residence status of a particular officer or employee. As explained in IT-221, ITSO can provide a non-binding opinion as to the residence status of an individual for income tax purposes, and it is recommended that such an opinion be obtained before the officer or employee leaves Canada. Contact information for both the Income Tax Rulings Directorate and the International Tax Services Officer can be found in the current version of [IT-221](https://www.canada.ca/E/pub/tp/it221r3-consolid/it221r3-consolid-e.html).
+
+## Explanation of Changes
+
+**Introduction**
+
+The purpose of the *Explanation of Changes* is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised interpretations of the CCRA.
+
+**Reasons for the Revision**
+
+We have revised this bulletin primarily to reflect amendments to subsection 250(1) of the Act as a result of S.C. 1999, c. 22, as well as to update references to Interpretation Bulletin IT-221, *Determination of an Individual's Residence Status*.
+
+The revised bulletin incorporates changes to the law up to and including S.C. 2001, c. 17.
+
+**¶ [1](#P23_636)** is revised to provide a reference to the current version of IT-221, [*Determination of an Individual's Residence Status*](https://www.canada.ca/E/pub/tp/it221r3-consolid/it221r3-consolid-e.html). This paragraph is also revised to add a reference to subsection 250(5) of the Act, which is now applicable to individuals.
+
+**¶ [2](#P25_1943)** is revised to add further commentary on how an employee's status as a member of the public service may affect his or her status as an officer or servant of Canada or a province for purposes of paragraph 250(1)(*c*), particularly while on a leave of absence.
+
+**¶ [3](#P30_4082)** is revised to reflect the repeal of paragraph 250(1)(*e*) of the Act, amendments to paragraph 250(1)(*f*) of the Act, and the addition of paragraph 250(1)(*g*) to the Act.
+
+**¶ [4](#P40_6302)** is revised to reflect the repeal of paragraph 250(1)(*e*) of the Act and to update the reference to IT-221, *Determination of an Individual's Residence Status*.
+
+**¶ [5](#P41_7130)** is revised to delete the reference to IT-221R2, *Determination of an Individual's Residence Status*, and in particular to delete the reference to the so-called "two-year presumption". The interpretative and administrative position of the CCRA is that there is no particular length of time outside Canada that leads to a presumption that an individual is a non-resident of Canada. This paragraph is also revised to remove the comment that a non-resident normally does not have to file a Canadian income tax return. This comment was considered to be potentially misleading, as there are in fact many situations in which it is either necessary (e.g., when earning Canadian employment income) or beneficial (e.g., to obtain a refund of certain withholding taxes) for a non-resident to file a Canadian income tax return.
+
+**¶ [6](#P42_7410)** is revised to reflect the importance of distinguishing between factual and deemed residence and to otherwise be more consistent with IT-221R3, [*Determination of an Individual's Residence Status*](https://www.canada.ca/E/pub/tp/it221r3-consolid/it221r3-consolid-e.html).
+
+**¶ [7](#P43_8386)** is revised to provide updated contact information for obtaining assistance from the CCRA in determining whether an officer or employee of a Crown corporation or agency is an officer or servant of Canada for purposes of paragraph 250(1)(*c*) of the Act. Also, a brief description of the role of the International Tax Services Office in providing non-binding residence status determinations has been added.
+
+### Notice—Bulletins do not have the force of law
+
+At the Canada Customs and Revenue Agency (CCRA), we issue income tax interpretation bulletins (ITs) in order to provide technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, ITs are used primarily by our staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, we offer other publications, such as tax guides and pamphlets.
+
+While the comments in a particular paragraph in an IT may relate to provisions of the law in force at the time they were made, such comments are not a substitute for the law. The reader should, therefore, consider such comments in light of the relevant provisions of the law in force for the particular taxation year being considered, taking into account the effect of any relevant amendments to those provisions or relevant court decisions occurring after the date on which the comments were made.
+
+Subject to the above, an interpretation or position contained in an IT generally applies as of the date on which it was published, unless otherwise specified. If there is a subsequent change in that interpretation or position and the change is beneficial to taxpayers, it is usually effective for future assessments and reassessments. If, on the other hand, the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date on which the change is published.
+
+***If you have any comments regarding matters discussed in an IT, please send them to:***
+
+***Manager, Technical Publications and Projects Section Income Tax Rulings Directorate Policy and Legislation Branch Canada Customs and Revenue Agency Ottawa ON K1A 0L5***
+
+Most of our publications are available on our [Web site](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax.html).

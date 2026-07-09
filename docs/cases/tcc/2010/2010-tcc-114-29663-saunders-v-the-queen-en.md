@@ -1,0 +1,138 @@
+---
+title: "Saunders v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29663/index.do"
+last_modified: "2010-02-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 114"
+citation2: ""
+neutral_citation: "2010 TCC 114"
+decision_date: "2010-02-26"
+language: "en"
+item_id: "29663"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6231
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:37:06.105000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f00803703cd7e8c633710d100659a66855f927466ebeaf2f68d2be545a002661"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Saunders v. The Queen
+
+- Citation: 2010 TCC 114
+- Decision date: 2010-02-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6231, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saunders v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-26
+Neutral citation
+2010 TCC 114
+File numbers
+2009-2641(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2641(IT)I
+BETWEEN:
+ELIZABETH SAUNDERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 17, 2010, at Montréal, Quebec
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Agent for the Appellant:
+Nicolas Karavolas
+Counsel for the Respondent:
+Emmanuel Jilwan
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessment made under the Income Tax Act for the 2007 taxation year is allowed and the assessment of a late filing penalty under subsection 162(1) of the Act is vacated.
+Signed at Ottawa, Canada, this 26th day of February, 2010.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2010TCC114
+Date: 20100226
+Docket: 2009-2641(IT)I
+BETWEEN:
+ELIZABETH SAUNDERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The only issue in this appeal is whether the Appellant, Elizabeth Saunders, is liable for a penalty under subsection 162(1) of the Income Tax Act for having failed to file her 2007 income tax return, as required by section 150(1)(d), on or before April 30, 2008.
+[2] Subsection 162(1) provides that:
+162.(1) Failure to file return of income - Every person who fails to file a return of income for a taxation year as and when required by subsection 150(1) is liable to a penalty equal to the total of
+(a) an amount equal to 5% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+(b) the product obtained when 1% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 12, from the date on which the return was required to be filed to the date on which the return was filed.
+[3] There is no question that the Appellant’s return was due on April 30, 2008 and that the unpaid tax payable was $44,813.55. What is in dispute is the date upon which the return was filed.
+[4] The Minister assessed a late filing penalty on the basis that the return was filed on May 20, 2008, the date stamped on the return by the Canada Revenue Agency.
+[5] The Appellant’s position is that, in fact, the return was filed on April 29, 2008, the date it was placed by her accountant in a container designated for the collection of returns located in the Canada Revenue Agency offices in Montreal.
+[6] At the commencement of the hearing, counsel for the Respondent requested and was granted an order for the exclusion of the Appellant’s witnesses.
+[7] The Appellant, a lady in her 80’s, did not appear at the hearing of this appeal. She was represented by Nicolas Karavolas, a Certified General Accountant, who also testified on her behalf. Also called for the Appellant were Rita Doherty and David Boilly, accountants associated with Mr. Karavolas’ office. I found all three witnesses to be credible in their testimony.
+[8] The Minister called Phillippe Demeule, the Canada Revenue Agency official who reviewed the Appellant’s Notice of Objection and who testified as to the standard filing procedures of the Canada Revenue Agency in place in April 2008. Because Mr. Demeule was also present as the Minister’s representative, the order excluding witnesses did not include him. I have no reason to doubt the veracity of his testimony; its only weakness was that as an official working out of the Canada Revenue Agency offices in Shawinigan, he had no personal knowledge of the return collection facilities and procedures in place in the Montreal office between April 29 and May 20, 2008, or of how the Appellant’s return was treated at the time of filing.
+[9] Having had the opportunity to hear each of the witnesses, I am satisfied on a balance of probabilities that the Appellant’s return was filed on April 29, 2008 when Mr. Boilly deposited it in the return collection box in the Montreal Canada Revenue Agency office.
+[10] I accept, in particular, Mr. Karavolas’ evidence that the practice in his office was to prepare several individual returns until a sufficiently large number were ready for delivery to the Canada Revenue Agency. Mrs. Doherty would then type a list of the returns to be filed on a particular day and Mr. Boilly would take them to the Canada Revenue Agency office for filing.
+[11] Prior to 2008, this system had worked very well as the returns were received by an official who, upon their presentation, would date stamp each return with the current date. In 2008, however, the Canada Revenue Agency changed its procedure. Although taxpayers still had the option of presenting their returns to an official at the counter, this usually involved a long wait in line. Perhaps in the hope of expediting the process, in 2008, the Canada Revenue Agency offered an alternative filing method: the taxpayer could avoid the counter line up by simply inserting the return in the slot of a closed container similar to a Canada Post mailbox. As the Appellant was later to find out, the weakness of the new system was that it was without any mechanism for recording the date of its insertion into the collection box. Mr. Demeule confirmed this fact but countered that there was a procedure in place to ensure the noting of the time of filing of the returns placed in the collection box: at day’s end or, at the very latest, early the next morning, an official was charged with retrieving the filed returns from the box and delivering them to the mailroom. There, the returns were entrusted to other officials for date stamping prior to turning them over to yet other officials to dispatch to the appropriate Canada Revenue Agency office for processing.
+[12] Interestingly, any return filed on any day prior to May 1st, 2008 was simply stamped “April 30, 2008” rather than with its actual date of filing. The rationale behind this policy was apparently that only late-filed returns attracted penalties so there was no need to record the actual date of filing. (While there is some logic to this, it strikes me as a poor practice, especially for a government agency that oils its machinery with due dates and timely actions.) Nonetheless, when asked in direct examination as to the reliability of the new system, Mr. Demeule’s opinion was that it was “pretty” reliable. Indeed, in reaching his conclusion that a penalty was correctly assessed against the Appellant, he relied “basically” on the May 20, 2008 date stamp on her return. He was also influenced by the fact that in the Appellant’s Notice of Objection[1], Mr. Karavolas had stated that her return had been delivered to the Montreal office on April 28, not April 29, 2008 as he would later claim. Further, he noted that of the returns listed in Exhibit A-1 as having been filed on April 29, 2008, about half bore Canada Revenue Agency date stamps indicating filing dates after April 30, 2008. In his view, that discovery outweighed Mr. Karavolas’ assertions that all of the returns in Exhibit A-1 had been deposited in the Canada Revenue Agency collection box on the same day.
+[13] I must say that I do not share Mr. Demeule’s faith in the infallibility of a huge government bureaucracy, especially during its busiest time of the year. First of all, even if I accept Mr. Demeule’s otherwise uncorroborated findings during the objection stage, it seems equally likely that the different date stamps resulted from the mishandling of the returns by the roster of unidentified (and, for the Appellant’s purposes, unidentifiable) officials charged with retrieving, stamping and redirecting the flood of returns that would have been deposited at the Montreal office in the dying days of April 2008. Furthermore, Mr. Karavolas’ error in identifying the date of filing in the Notice of Objection as “April 28” is no more a blot on his credibility than Mr. Demeule’s own slip when he said, during his testimony, that the return had been date stamped “May 29” when he meant to say “May 20”. While I can understand Mr. Demeule’s belief that the system was supposed to work, I am not convinced in the Appellant’s case that it did.
+[14] The filing procedures employed in Mr. Karavolas’ office were consistent with prudent business management. It would hardly have been cost-effective to have had his colleague Mr. Boilly running to the Canada Revenue Agency office to file individual returns as each was completed. Furthermore, I am persuaded by his challenge of the date stamps which apparently appeared on the returns of some of his other clients listed in Exhibit A-1: his evidence was that he normally prepared the returns of husbands and wives at the same time to ensure harmony in the reporting of transferable credits and so on. This is a perfectly sensible approach that lends credence to his testimony that it was also his practice to send the spouses’ returns for filing on the same day. In reviewing the Appellant’s Notice of Objection, however, Mr. Demeule noted that the returns of a certain Mr. and Mrs. Robertson listed in Exhibit A-1 bore date stamps “May 21” and “May 20”, respectively, leading him to conclude that the list was uncorroborative of Mr. Karavolas’ position. In my view, this says more about the likelihood of human error in one of the various departments at the Canada Revenue Agency than the truth of when the Appellant’s return was filed.
+[15] Mrs. Doherty was responsible for preparing the list of taxpayers’ names according to the batches of prepared returns provided by Mr. Karavolas and Mr. Boilly and their date of delivery to the Montreal office of the Canada Revenue Agency. This strikes me as an imminently sensible way of recording such information, especially since the Canada Revenue Agency procedure had no independent validating system of its own in place.
+[16] The Appellant’s return was prepared by Mr. Boilly. I accept his evidence that he met with the Appellant early in April 2008 to advise her that a significant amount of tax would be payable; because the Appellant needed time to transfer funds to her chequing account to cover the cheques she would ultimately be sending to the Canada Revenue Agency and Revenu Québec, he put her return aside until the end of April. After having made the necessary arrangements, the Appellant brought to his office the cheques needed for her provincial and federal taxes. According to the assumption in paragraph 7(f) of the Reply to the Notice of Appeal, a cheque for $47,324.35 was enclosed with the Appellant’s federal income tax return. His evidence is also supported by Exhibit A-3, a portion of the Appellant’s bank statement showing a wire transfer into her account on April 28, 2008 of $96,000 making for a total balance of $101,137.84, more than enough to cover her federal and provincial tax. Further, there was no late filing penalty in the 2007 Notice of Assessment from Revenu Québec[2] and the bank statement confirms that on May 5, 2008, the amount owed to Revenu Québec of $48,475 (noted as “No.3”) was debited to the Appellant’s account. On May 21, the amount owed to the Canada Revenue Agency of $47,324.35 (noted as “No.4” and suggesting that the cheque was written concurrently with the one to Revenu Québec) was taken out of her account.
+[17] In these circumstances, it is highly unlikely that Mr. Boilly, after going to the trouble of preparing the Appellant’s returns, advising her of the attendant tax liabilities, ensuring that she had funds in place to cover the amounts payable and properly filing her provincial return, would then neglect to file her federal return until May 20, 2008. Once inserted into the Canada Revenue Agency collection box, the Appellant’s 2007 income tax return was beyond her control and that of Mr. Karavolas’ office. Up to that point, they had done all that could reasonably have been expected of them to ensure the timely filing of the Appellant’s return. In closing, it is interesting to note that after 2008, the Canada Revenue Agency modified the collection box procedure to allow for date stamping upon delivery.
+[18] All in all, any doubt must be resolved in favour of the Appellant. For the reasons set out above, I am satisfied that the Appellant’s 2007 return was duly filed at the Montreal Canada Revenue Agency on April 29, 2008; accordingly, the appeal is allowed and the assessment of a late filing penalty is vacated.
+Signed at Ottawa, Canada, this 26th day of February, 2010.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2010TCC114
+COURT FILE NO.: 2009-2641(IT)I
+STYLE OF CAUSE: ELIZABETH SAUNDERS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: February 17, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: February 26, 2010
+APPEARANCES:
+Agent for the Appellant:
+Nicolas Karavolas
+Counsel for the Respondent:
+Emmanuel Jilwan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1.
+[2] Exhibit A-2.

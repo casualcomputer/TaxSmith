@@ -1,0 +1,10 @@
+---
+title: "EDN61 CANCELLED Excise Stamping Regime - Transition to New Contract"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edn61.html
+last_modified: 2019-08-07
+---
+# EDN61 CANCELLED Excise Stamping Regime - Transition to New Contract
+
+## This publication was cancelled
+
+This publication was cancelled as of 2026-04-15 and replaced with [EDN61 Excise stamping regime – Transition to new contract](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-notices/edn61-excise-stamping-regime-transition-new-contract.html).

@@ -1,0 +1,73 @@
+Title: Brampton Vee World Motors Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27012/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-34-27012-brampton-vee-world-motors-limited-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-01-07
+
+# Brampton Vee World Motors Limited v. The Queen
+
+- Citation: 2005 CCI 34
+- Decision date: 2005-01-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 622, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brampton Vee World Motors Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-07
+Référence neutre
+2005 CCI 34
+Numéro de dossier
+2003-4429(GST)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2005CCI34
+Date : 20050107
+Dossier : 2003-4429(GST)I
+ENTRE :
+BRAMPTON VEE WORLD MOTORS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Représentant de l'appelante : Khalil Hasan
+Avocate de l'intimée : Me Lorraine Edinboro
+___________________________________________________________________
+MOTIFS DE L'ORDONNANCE
+(Rendus oralement à l'audience à
+Toronto (Ontario), le 5 novembre 2004)
+Le juge McArthur
+[1] Il s'agit d'une requête présentée par l'intimée en vue d'obtenir une ordonnance interdisant au représentant de l'appelante, M. Khalil Hasan, d'agir à titre de témoin expert, exception faite du prétendu rapport d'expert fourni par M. Hasan comme preuve présentée au procès, et lui interdisant d'agir comme témoin au procès.
+[2] L'intimée dit qu'il ne convient pas que M. Hasan agisse comme représentant et comme témoin, qu'il n'est pas objectif puisqu'il est devenu un défenseur de l'appelante lorsqu'il a déposé l'avis d'opposition en son nom en avril 2003, et qu'il continue d'agir à titre de représentant de l'appelante dans cet appel. De plus, le prétendu rapport d'expert est inapproprié en soi parce qu'il contient davantage d'opinions en matière de droit que de points établis par un expert comptable. La question dans cette affaire se rapporte à une détermination de fait et, par conséquent, le juge de première instance est en mesure de déterminer l'issue de l'appel.
+[3] L'appelante a interjeté appel d'une cotisation du ministre du Revenu national, cotisation pour laquelle la méthode de l'avoir net a été utilisée pour établir à 17 317 $ la taxe sur les produits et services non versée par l'appelante, et à 14 715 $ les intérêts et pénalités applicables, pour la période du 1er janvier 1994 au 31 décembre 1998. M. Hasan, qui représente l'appelante, je crois, depuis plusieurs années relativement à cette cotisation portée en appel, a présenté un rapport avec pièces jointes de plus de dix pages. Son paragraphe d'introduction à l'appelante se lit comme suit :
+[TRADUCTION]
+Conformément aux instructions, j'ai rédigé un rapport d'expert à l'égard de l'avis de nouvelle cotisation no 05DP0015671, daté du 23 janvier 2003, envoyé par Revenu Canada à la société en question et visant un montant de 32 033,53 $ se rapportant à la taxe sur les produits et services (la TPS) pour la période du 1er janvier 1994 au 31 décembre 1998. J'ai également accepté de comparaître comme témoin expert devant la Cour canadienne de l'impôt, la Cour d'appel fédérale et la Cour suprême du Canada relativement au rapport. Des copies du rapport seront présentées à l'intimée et déposées à la Cour canadienne de l'impôt sous peu.
+Le papier à en-tête de M. Hasan indique qu'il est titulaire d'un baccalauréat en commerce et qu'il est un comptable agréé dont la pratique se limite à la fiscalité. Ayant lu son curriculum vitae et ayant entendu M. Hasan en audience publique, je crois qu'il est très compétent dans son domaine de comptabilité.
+[4] La requête de l'intimée découle d'une directive donnée par le juge Margeson après une conférence préparatoire à l'audience, directive qui se lit en partie comme suit :
+[TRADUCTION]
+L'intimée est invitée à présenter une requête selon laquelle Khalil Hasan, le mandataire de l'appelante, ne peut représenter l'appelante à l'audition de cet appel et présenter un témoignage à titre d'expert ou témoigner autrement à l'instance ou déposer un rapport d'expert qu'il a produit.
+Je traiterai d'abord de la requête interdisant au représentant de l'appelante d'agir à titre de témoin expert. Je suis d'accord avec l'intimée, et il existe suffisamment de jurisprudence à l'appui de la position de l'intimée. Je n'ai pas à regarder plus loin que l'affaire Bande indienne de Squamish c. Canada, [1998] A.C.F. no 330 (1re inst.), où la juge Simpson a dit ce qui suit :
+7. De même, l'interdiction d'autoriser la présentation d'arguments par un témoin expert est bien établie. Dans l'arrêt Yewdale c. Insurance Corp. of British Columbia..., le juge Newbury... a exprimé le droit dans les termes suivants :
+Compte tenu du privilège spécial qui est accordé aux experts qui donnent leurs propres opinions en témoignage, ils ne doivent pas se faire l'avocat d'une cause. Ils doivent exprimer leurs opinions en tant qu'opinions et laisser à la Cour le soin de tirer les conclusions de droit qui s'imposent. En théorie tout au moins, la Cour "connaît le droit" - en pratique, elle a la responsabilité d'en prendre connaissance et de l'appliquer. Ainsi, l'expert exprimera son opinion d'une manière objective et impartiale, et il ne doit pas présenter un plaidoyer sous le couvert d'une preuve d'expert.
+Elle poursuit en citant le juge McColl dans Surrey Credit Union c. Willson, 45 B.C.L.R. (2d) 310 (C.S.C.-B.), qui dit ce qui suit :
+Les avis d'experts deviennent inadmissibles quand ils ne sont rien de plus qu'une reformulation des arguments des avocats qui participent à la cause. Quand un argument est présenté sous le couvert d'un avis d'expert, il sera rejeté pour ce qu'il est.
+Je suis d'avis que ces deux citations s'appliquent à la présente situation. Le bon sens veut que la participation active de M. Hasan à la réussite de l'appelante le rende inadmissible à fournir un témoignage d'expert. Il n'a pas l'objectivité requise. Son témoignage d'expert ne peut en aucun cas être présenté comme preuve, mais je n'ai pas d'objection à ce que ce témoignage ou une partie de celui-ci soit inclus dans son plaidoyer final s'il choisit de le faire, mais cela dépend évidemment de la décision du juge de première instance.
+[5] L'avocate de l'intimée a demandé une ordonnance limitant le témoignage de M. Hasan pour en exclure les avis comptables et juridiques. Il s'agit-là d'une prérogative du juge de première instance et il ne convient pas que j'intervienne. Le juge de première instance est en bien meilleure position pour déterminer ce qui est pertinent et ce qui ne l'est pas. Il serait évidemment préférable que l'appelante soit représentée par un avocat qui interrogerait M. Hasan dans le cadre de l'interrogatoire principal et du réinterrogatoire après le contre-interrogatoire. Je crois que l'appelante ne peut s'offrir ce luxe et M. Hasan souhaite assumer les deux rôles.
+[6] En règle générale, cette cour permet au représentant de l'appelante de présenter son témoignage dans le cas des appels entendus dans le cadre de la procédure informelle, et je ne vois aucune circonstance extraordinaire faisant obstacle à cette façon de faire. Par conséquent, une ordonnance sera rendue interdisant à M. Hasan d'agir comme témoin expert dans cette affaire. Le rapport produit par M. Hasan et daté du 15 septembre 2004 doit être exclu de la preuve à l'audition de cet appel. Cependant, il n'est pas interdit à M. Hasan d'agir comme témoin pendant l'audience et je ne rends aucune ordonnance à l'égard des frais étant donné la réussite partagée de cette requête.
+Signé à Ottawa, Canada, ce 7e jour de janvier 2005.
+« C.H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 2e jour de septembre 2005.
+Joanne Robert, traductrice

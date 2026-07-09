@@ -1,0 +1,234 @@
+Title: Bérubé v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/98244/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-304-98244-b-rub-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-10-24
+
+# Bérubé v. The Queen
+
+- Citation: 2014 TCC 304
+- Decision date: 2014-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5250, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bérubé v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-10-24
+Neutral citation
+2014 TCC 304
+File numbers
+2013-3194(IT)APP
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-3194(IT)APP
+BETWEEN:
+JACQUES BÉRUBÉ,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Application heard on June 13, 2014, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the applicant:
+Chantale Bouchard
+Counsel for the respondent:
+Sara Jahanbakhsh
+JUDGMENT
+First, the applicant sought to obtain an order extending the time in which to file an appeal from the assessments made pursuant to the Income Tax Act for the 2001 and 2004 taxation years.
+Second, he amended his application on June 27, 2014, to obtain an order for a review of the assessment for the 2002 taxation year.
+Upon reading the parties' submissions, the application is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of October 2014.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+On this 12th day of December 2014
+Margarita Gorbounova, Translator
+Citation: 2014 TCC 304
+Date: 20141024
+Docket: 2013-3194(IT)APP
+BETWEEN:
+JACQUES BÉRUBÉ,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] At first, this was an application for an extension of time for an appeal in order to ultimately obtain some corrections to an assessment for a specific year.
+[2] In support of his application, the applicant cited many grievances against the respondent's representatives.
+[3] When the application was filed, the applicant hired counsel very close to the scheduled hearing date.
+[4] The respondent thus submitted that the application should be dismissed because it was barred for two reasons. First, it was out of time, and, second, the assessment in respect of which the application was filed is a nil assessment.
+[5] The applicant, who was from then on represented by counsel, then sought an adjournment to allow her to examine the pleading more thoroughly and to potentially file an amended pleading.
+[6] The adjournment was granted, and the Tax Court of Canada (the Court) suggested to the parties to state their arguments in writing within a time limit agreed to by the parties.
+[7] Following the filing of written submissions, the parties submitted that they consented to have the judgment rendered based on the written submissions.
+[8] On September 18, 2002, the Minister of National Revenue (the Minister) issued to the applicant a notice of original assessment for the 2001 taxation year.
+[9] No other notice was issued after that for that year.
+[10] On March 8, 2012, the applicant submitted an adjustment request in order to claim allowable capital business investment losses for Poutres lamellées Leclerc Inc. (ABILs) for the 2001 and 2004 taxation years.
+[11] On May 30, 2012, the ABIL for 2001 was disallowed on the ground that the adjustment request was statute-barred when it was filed, in accordance with subsection 152(4.2) of the Income Tax Act (the ITA).
+[12] On July 24, 2013, the applicant asked the Court for an extension of time to enable him to correct the application of the ABIL for 2001 by an amount of $506,840 retroactively.[1]
+[13] Assessments for the 2002 to 2008 taxation years were issued on October 5, 2009. After appropriate returns were subsequently filed, the Canada Revenue Agency launched an audit process for the years at issue.
+[14] Then, on April 19, 2012, the Minister issued reassessments to the applicant for the 2002, 2003, 2004, 2005 and 2007 taxation years.
+[15] On May 14, 2012, the applicant objected to the reassessments.
+[16] On July 2, 2013, the Minister made a decision regarding the objection to the reassessments, that no tax was payable for the 2002, 2003, 2004, 2005 and 2007 taxation years.
+[17] As mentioned above, on March 8, 2012, the applicant submitted adjustment requests in order to claim ABILs for the 2001 and 2004 taxation years.
+[18] On May 30, 2012, an ABIL was allowed for the 2004 taxation year and applied to that year as well as to the 2002, 2003, 2005 and 2007 taxation years. This adjustment led to nil assessments for the years concerned.
+[19] On July 24, 2013, in the request for extension of time concerning the ABIL for the 2001 taxation year, the applicant requested that the Court also correct the ABIL allocation for the 2004 taxation year.
+I. The applicant's claims and arguments
+[20] The applicant submits that his appeal should be allowed on the ground that new evidence has been obtained. He submits that he has obtained [Translation] "evidence [which was neither accessible nor available at the time of the respondent's analysis] that the loss that he believed to have incurred in 2001 had actually been realized in 2002".[2]
+[21] He maintains that, after filing his Notice of Appeal, he obtained information from individuals who are complicit in misappropriating his assets in the business for which he is claiming the ABIL for the 2001 taxation year. They informed him of the new facts; thus, it was only in the fall of 2013 that he obtained all of the relevant information.
+[22] According to him, this new evidence shows that the ABIL took effect in 2002, not in 2001.
+[23] Accordingly, on June 27, 2014, he asked the Court to order a review of his assessment for the 2002 taxation year, which had become a nil assessment, in order to validate the eligibility of the loss initially submitted for 2001.
+[24] In addition, he wants to be able to allocate the ABIL allowed for the 2004 taxation year as well as for the 2002 taxation year himself if his application for review is allowed.
+[25] He submits that he is entitled to a review of the assessments for the 2002, 2003, 2004, 2005 and 2007 taxation years, as apparent from the relief sought:[3]
+[Translation]
+ALLOW the application for appeal to the Tax Court of Canada on the grounds of the appellant Jacques Bérubé.
+Correct the application of allowable business investment losses for Poutres lamellées Leclerc Inc. for 2002 in the allowable amount of $506,840 and retroactive application for three (3) years for 2001, 2000 and 1999.
+Correct the application of allowable business investment losses of Royal UV Inc. for 2004 in the amount of $130,000.
+II. The respondent's claims and arguments [26] For her part, the respondent argues that the applicant can neither object to nor appeal from the assessment issued for the 2002 taxation year because the new evidence was discovered after a nil assessment was issued for that year and after he filed his application for extension with the Court.
+[27] The respondent alleges, for the 2001 taxation year, that the applicant is [Translation] "outside the time limit to appeal to this Court regarding this assessment".[4]
+[28] Since on July 2, 2013, the 2002 taxation year was subject to a notice that no tax was payable, this is now [Translation] "a nil assessment within the meaning of the case law, to which the applicant cannot object and from which he cannot appeal".[5]
+[29] The paragraphs above refer to comments and observations whose only goal is to establish the file in its overall context.
+[30] In fact, since June 27, 2014, the Court has had before it an application to review an assessment because the original pleading was amended. Thus, there is no longer a need to examine the issue regarding the extension of time.
+[31] The respondent stated that there is no disagreement between the taxpayer and the Minister on the quantum of the ABIL, rather, it relates to its application to the 2002 taxation year. Consequently, a request for the determination of losses by the applicant does not apply in this case.
+[32] The respondent also submits that the applicant cannot claim that the Minister applied the ABIL in a discretionary manner because he himself had discovered the new evidence only after the notice stating that no tax was payable for the 2002 taxation year was issued.
+[33] Finally, because the assessment for 2004 taxation year is a nil assessment and because it was issued after the Minister had accepted the applicant's $130,000 ABIL for 2004, the applicant can neither object to nor appeal from it because of the limitation.
+III. Issues [34] The application raises the following issues:
+(a) Is the applicant entitled to request a review of a nil assessment for 2002?
+(b) Is the applicant entitled to have a loss apply to his 2002 taxation year after new evidence has been obtained even though it was initially claimed for the 2001 taxation year?
+(c) Can the applicant choose at his own discretion the years to which the eligible losses apply?
+IV. Appeal of a nil assessment
+A. Applicable provisions [35] The general provision regarding appeals to the Court, namely, subsection 169(1) of the ITA, applies:
+169. (1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been sent to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[36] Subsection 152(4) of the ITA deals with the notice of a nil assessment:
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year . . . .
+[37] In addition, subsections 152(1.1) and (1.2) of the ITA are relevant because they relate to one of the exceptions to the principle that no appeal may be heard regarding a nil assessment:
+152(1.1) Where the Minister ascertains the amount of a taxpayer’s non-capital loss, net capital loss, restricted farm loss, farm loss or limited partnership loss for a taxation year and the taxpayer has not reported that amount as such a loss in the taxpayer’s return of income for that year, the Minister shall, at the request of the taxpayer, determine, with all due dispatch, the amount of the loss and shall send a notice of determination to the person by whom the return was filed.
+. . .
+152(1.2) Paragraphs 56(1)(l) and 60(o), this Division and Division J, as they relate to an assessment or a reassessment and to assessing or reassessing tax, apply, with any modifications that the circumstances require, to a determination or redetermination under subsection (1.01) and to a determination or redetermination of an amount under this Division or an amount deemed under section 122.61 to be an overpayment on account of a taxpayer’s liability under this Part . . . .
+V. Jurisprudence [38] Okalta Oils Ltd. v. M.N.R.[6] is undoubtedly the landmark judgment on the subject of limiting the right to appeal from a nil assessment. In a unanimous judgment, the Supreme Court of Canada decided that it was impossible for a taxpayer to appeal from an assessment under which no tax is payable.
+[39] In that case, the original assessment to which the appellant had objected was for $1,000 for the 1946 taxation year. After consideration, the Minister issued a reassessment according to which no tax was payable for the 1946 taxation year due to the carry-over of losses in previous years.
+[40] The appellant appealed the Minister's decision to the Income Tax Appeal Board (the Board). The Board dismissed the appeal, and the decision was confirmed by the Exchequer Court.
+[41] In that decision, Justice Fauteux reiterates that the right of appeal is a right of exception which exists only when given by statute. To that end, the ITA provides that it is possible to appeal the Minister's decision after a notice of objection only to decrease an assessment amount or to reduce it to zero.
+[42] He argues that the word "assessment" essentially refers to the actual amount of tax payable by a taxpayer so that a nil assessment would not be equivalent to an "assessment" within the meaning of the ITA since no amount is claimed in it. He concluded by stating that therefore there is no right of appeal for nil assessments.
+[43] In Canada v. Consumers’ Gas Co.,[7] faced with the respondent's procedural argument, the Federal Court of Appeal (the FCA) confirmed the principle of the limitation to appeals from a nil assessment:[8]
+. . . While the word "assessment" can bear two constructions, as being either the process by which tax is assessed or the product of that assessment, it seems to me clear, from a reading of sections 152 to 177 of the Income Tax Act, that the word is there employed in the second sense only. This conclusion flows in particular from subsection 165(1) and from the well established principle that a taxpayer can neither object to nor appeal from a nil assessment.
+[44] This quote by Justice Hugessen has been cited and followed many times in subsequent judgments including Bormann v. Canada[9] and Joshi v. The Queen.[10]
+[45] Canada v. Interior Savings Credit Union[11] deals with an appeal to the FCA regarding an interlocutory order dismissing the Crown’s motion to strike out the Interior Savings Credit Union’s Notice of Appeal.
+[46] In its Notice of Appeal, the corporation was not disputing the assessment amount, but rather the adjustment indicated for one of its current accounts. In support of its motion to strike the Notice of Appeal, the Crown argued that subsection 169(1) of the ITA is restricted to challenges of (the amount of )the tax assessed for the year. Given that the corporation was not disputing the amount, the Crown was asking the Court to dismiss the appeal.
+[47] In that judgment, Justice Noël explained the basis of the principle that a nil assessment cannot be appealed. First, "an appeal must be directed against an assessment and an assessment which assesses no tax is not an assessment".[12] Then, he explained that any other objection but one related to an amount claimed as taxes is lacking the object giving rise to the right of appeal. Thus, there is no right to appeal an assessment under which no tax is payable.
+[48] The first aspect specifies that the Minister must determine, through an assessment, the amount of refund, if any, to which the taxpayer is entitled or of tax deemed to be payable for a given taxation year and provides at subsection 152(1.2) of the ITA that the provisions dealing with objections and appeals apply with necessary adaptations to the determined amounts.
+[49] The second aspect provides that, in case of a discrepancy with regard to certain losses suffered by a taxpayer, the Minister may be required to determine the loss amount if the taxpayer requests it of him. In such a case, the procedure provided for objections and appeals also applies, under subsection 152(1.2) of the ITA.
+[50] It is therefore clearly established in the case law that a taxpayer cannot appeal from a nil assessment for the simple reason that an assessment under which no tax is payable is not an "assessment" within the meaning of the ITA.
+[51] In addition, the purpose of the right to appeal from an assessment is to reduce the tax payable or to eliminate it. To dispute a nil assessment would be to ignore the purpose itself of the right to appeal.
+[52] In this case, the applicant acknowledges the general rule that a nil assessment is not subject to appeal. However, he submits that he is entitled to claim that the exception to that rule applies, in accordance with Joshi:
+[Translation]
+Indeed, the jurisprudence teaches us that, when a nil assessment results from a loss being applied by the department and when that decision in itself is disputed and, if not for that decision, the assessment would have been positive, that constitutes an exception to the rule, which makes it possible to review said assessment (ref.: Joshi v. The Queen, 2004 TCC 757);
+[53] Justice Noël summarized it well in Interior Savings Credit Union: over the years, Parliament enacted some exceptions to the principle that no right of appeal is granted for nil assessments.
+[54] The purpose of the application in this case relates to the ABIL. We must therefore rule out the exemption provided by paragraph 152(1)(a) of the ITA. In addition, the determination relative to paragraph 152(1)(b) of the ITA also does not apply here.
+[55] With regard to subsection 152(1.1) of the ITA, it is recognized by the FCA that that provision clearly establishes a procedure containing a series of measures or facts that must take place in order for there to be a valid determination of losses:[13]
+. . . These steps are: (a) the Minister ascertains the amount of a taxpayer's non-capital loss for a taxation year in an amount that differs from the one reported in the taxpayer's income tax return; (b) the taxpayer requests that the Minister determine the amount of the loss; (c) the Minister thereupon determines the amount of the loss and issues a notice of loss determination to the taxpayer. . . .
+[56] Not until these conditions are met can the exceptional regime of subsection 152(1.1) apply and a right of appeal thus be granted (subsection 152(1.2) ITA).
+[57] In this case, there was no disagreement between the Minister and the appellant concerning the quantum of the ABIL.
+[58] The applicant stated himself that he had submitted on March 8, 2012, a request to allow an ABIL for the 2001 and 2004 taxation years. In her decision dated May 30, 2012, regarding this request, the respondent dealt with an application for review made by the applicant. The documents on the record, in turn, concern a request for the adjustment of a T1.
+[59] Thus, it appears that the applicant made no request for determination under subsection 152(1.1) of the ITA. In any case, if there was disagreement, it was not on the amount of the loss but on its application. The application of the exemption to the right of appeal, which is in subsection 152(1.1) of the ITA, should be excluded.
+[60] In support of his re-amended application, the applicant referred to Joshi, as mentioned above. We believe that this decision does not apply in this case for the reasons below.
+[61] In that decision, the exact amounts of deductions applicable to the appellant’s moving expenses had to be determined for the 2001 and 2002 taxation years.
+[62] A preliminary issue raised by the Minister was before the Tax Court of Canada. The Minister argued that the appeal in respect of the 2001 taxation year had to be dismissed on the ground that the assessment provided that no tax was payable.
+[63] In his analysis, Justice O’Connor acknowledged that 2001 was a taxation year for which a nil assessment had been issued, but still allowed the appeal for the following reasons:
+. . . In my view, the appeal ought not to be quashed because a determination with respect to the 2001 taxation year impacts the Appellant’s tax liability in respect of the 2002 taxation year. This is so because moving expenses are deductible in the year in which they are incurred and in the subsequent year.[14]
+[64] Justice O’Connor cited Joshi v. The Queen[15] (Joshi #2), Martens v. M.N.R.,[16] Aallcann Wood Suppliers Inc. v. The Queen,[17] Liampat Holdings Ltd. v. The Queen[18] and Canada v. Bruner.[19]
+[65] Yet, in Interior Savings Credit Union, the FCA rejected the application of Joshi #2 to argue that a nil assessment can be appealed. Indeed, Justice Noël stated that that decision seems to never have proceeded to trial even though the judge had indicated that his decision not to quash a notice of appeal concerning a nil assessment was not final, and that the issue would be determined at trial.[20]
+[66] With regard to Martens, that was essentially an appeal from a nil assessment that resulted from the exception to the general rule at paragraph 152(1)(b) of the ITA. The Court refused to vacate a nil assessment, but the appellant was not disputing the tax assessment; rather, he was disputing the calculation of the refundable investment tax credit.
+[67] In this case, the exceptions do not apply; Martens may be relied on to claim that a nil assessment may be subject to an appeal because it deals specifically with the statutory exception, which specifies that Parliament has explicitly allowed a taxpayer to object to or to appeal from the Minister’s determination.
+[68] This is the case for Aallcann Wood Suppliers. Justice O’Connor dealt with that decision in Joshi but interpreted it as allowing that “the determination of capital losses in a nil assessment may be considered by the Court if they affect the taxpayer’s position in subsequent years (i.e., loss carry-forwards)”.
+[69] Justice Noël subsequently invalidated that interpretation and re-established the fact that, in Aallcann Wood Suppliers, “[t]he year in issue was not a nil assessment year”.[21]
+[70] For those reasons, Aallcann Wood Suppliers cannot be used as a basis in this case for the right to appeal a nil assessment.
+[71] In conclusion, the relevant case law does not validate the applicant’s arguments concerning the right to appeal a nil assessment.
+[72] The applicant submits to the Court the argument that he would be entitled to have an ABIL that was initially requested to be allowed for the 2001 taxation year applied to 2002 after new evidence was obtained showing that the loss was incurred in 2002.
+[73] The applicant has insisted a great deal on the fact that he now has information that he could not have when his file was being processed by the respondent. Accepting the applicant’s argument would result in allowing him to do indirectly what he cannot do directly, that is, appeal from a nil assessment.
+[74] The applicant discovered these new facts after he had received his Notice of Assessment stating that no tax was payable for the 2002 taxation year. The Notice stemmed from a carry-over of an ABIL incurred in 2004 and allowed by the respondent.
+[75] It seems that the only way for the applicant to be granted an ABIL for the 2002 taxation year in a way that allows him to be within the 10‑year time limit (subsection 152(4.2) of the ITA) would be to apply for a review of the original request for adjustment filed on March 8, 2012, to the FCA, as stated by Justice Woods in Furlong v. The Queen.[22]
+[76] The applicant does not seem to be raising that perspective, at least not as stated in his Re-amended Notice of Application:
+[Translation]
+In doing so, the applicant is requesting that the Court order a review of his assessment for the 2002 taxation year in order to validate the eligibility of the loss originally submitted for the 2001 taxation year;
+[Emphasis added.]
+[77] We therefore believe that, given that the exceptions to the principle that no appeal can be filed from a nil assessment do not apply to the applicant, he cannot appeal from the nil assessment for the 2002 taxation year.
+[78] However, he will be able to appeal from subsequent true assessments (which are not reduced to nil) and submit to the Court said new evidence in order to be able to deduct his losses from 2002 in his subsequent taxation years subject to the appropriate time limits.
+[79] In any case, if the evidence put forward by the applicant is established, it would also be open to him to deduct this loss in respect of the 2010 and later taxation years, but as net capital losses under paragraph 111(1)(a) of the ITA.[23] An ABIL unused during the seven years that follow becomes a net capital loss in the eighth year.
+[80] In the circumstances, I do not have to decide on the issue regarding the allocation of losses at the applicant’s discretion.
+[81] For these reasons, the applicant’s application must be dismissed given that he cannot request a review of a nil assessment for the 2002 taxation year. A taxpayer can neither object to nor appeal from a nil assessment.
+Signed at Ottawa, Canada, this 24th day of October 2014.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+On this 12th day of December 2014
+Margarita Gorbounova, Translator
+CITATION:
+2014 TCC 304
+COURT FILE NO:
+2013-3194(IT)APP
+STYLE OF CAUSE:
+JACQUES BÉRUBÉ v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+June 13, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+October 24, 2014
+APPEARANCES:
+Counsel for the applicant:
+Chantale Bouchard
+Counsel for the respondent:
+Sara Jahanbakhsh
+COUNSEL OF RECORD:
+For the applicant:
+Name:
+Chantale Bouchard
+Firm:
+Chantale Bouchard, avocats
+Québec, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Noting that this pleading is inappropriate, the applicant amended his pleading replacing his initial application with a notice of application to review an assessment.
+[2] Re-amended Notice of Application dated June 27, 2014, para. 5.
+[3] Ibid, preamble.
+[4] Written submissions of the respondent dated July 11, 2014, para. 27.
+[5] Ibid., para. 30.
+[6] [1955] S.C.J. No. 77 (QL), 55 DTC 1176.
+[7] [1986] F.C.J. No. 838 (QL), 87 DTC 5008.
+[8] Ibid.
+[9] 2006 FCA 83, para. 8.
+[10] 2004 TCC 757, para. 4.
+[11] 2007 FCA 151, para. 17.
+[12] Ibid., para. 17.
+[13] Inco Limited v. The Queen, 2004 TCC 373, para. 13 (decision confirmed by the Federal Court of Appeal).
+[14] Supra, footnote 10.
+[15] 2003 DTC 1550.
+[16] 88 DTC 1382.
+[17] 94 DTC 1475.
+[18] [1995] F.C.J. No. 1621 (QL), 96 DTC 6020.
+[19] 2003 FCA 54.
+[20] Supra, footnote 11.
+[21] Supra, footnote 19.
+[22] 2014 TCC 69, para. 7.
+[23] This is a rule applicable to non-capital losses incurred during taxation years ending before March 24, 2004; the carry-over period is thus limited to the seven taxation years that follow.

@@ -1,0 +1,162 @@
+---
+title: "Groupe Nepveu Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/483298/index.do"
+last_modified: "2020-07-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 80"
+citation2: ""
+neutral_citation: "2020 TCC 80"
+decision_date: "2020-07-30"
+language: "en"
+item_id: "483298"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4573
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:06:05.437000+00:00"
+cases_cited_count: 8
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0cf02c45d65ec9a9b4b2e2596ce5993339d9050ff058faaca4edb7cd03ac5e3a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Groupe Nepveu Inc. v. The Queen
+
+- Citation: 2020 TCC 80
+- Decision date: 2020-07-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4573, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Groupe Nepveu Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-07-30
+Neutral citation
+2020 TCC 80
+File numbers
+2017-3692(IT)I, 2017-3693(IT)G, 2017-3695(IT)G, 2017-3697(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2017-3692(IT)I
+2017-3693(IT)G
+2017-3695(IT)G
+2017-3697(IT)G
+BETWEEN:
+GROUPE NEPVEU INC., MARTIN NEPVEU,
+BENOIT NEPVEU, BÉTON DU PARC ST-EUSTACHE LTÉE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motions Heard
+on March 2, 2020, at Montreal, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellants:
+Louis Sirois
+Counsel for the Respondent:
+Christina Ham
+ORDER
+In terms of the first motion, namely the motion filed by counsel for the appellants to obtain an order removing a solicitor of record for the appellant in each of the four appeals;
+The motion for an order removing Mr. Sirois as a solicitor of record is allowed. The appellants, Benoit Nepveu, Martin Nepveu and Béton du Parc St-Eustache Ltée, must pay $1,050 in costs split equally between Mr. Sirois and the respondent.
+As for the second motion, namely the motion filed by the four appellants to obtain an order giving Benoit Nepveu leave to represent Martin Nepveu and Béton du Parc St-Eustache Ltée in the hearing of motions;
+And the parties having been heard;
+The motion is allowed, without costs.
+As for the third motion, namely the motion filed by the four appellants to obtain an adjournment for the two‑day hearing scheduled on March 2;
+And the parties having been heard;
+The adjournment is granted with $4,000 in total costs, to be paid by the three appellants, Benoit Nepveu, Martin Nepveu and Béton du Parc St-Eustache Ltée.
+The parties are ordered to contact the Court by September 15, 2020 to indicate whether a transaction took place or whether the appeals are ready to be set down for hearing.
+Signed at Ottawa, Canada, this 30th day of July 2020.
+“Patrick Boyle”
+Boyle J.
+Citation: 2020 TCC 80
+Date: 20200730
+Dockets: 2017-3692(IT)I
+2017-3693(IT)G
+2017-3695(IT)G
+2017-3697(IT)G
+BETWEEN:
+GROUPE NEPVEU INC., MARTIN NEPVEU, BENOIT NEPVEU, BÉTON DU PARC ST-EUSTACHE LTÉE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Boyle J.
+[1] At the beginning of the hearing of the appeals on the merits—which were set down for a two‑day hearing over a year ago—the Court heard three motions.
+[2] For the first motion, Mr. Sirois, counsel for the appellants, requested a direction removing the counsel from the record. Mr. Sirois filed this motion on February 24. He did so after the appellants informed the Court in writing on February 21, 2020, that he no longer represented them. The appellants had not retained the services of another solicitor to represent them nor did they want to represent themselves during the hearing on the merits. For this reason, section 32 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) could not be invoked. According to section 33, once the hearing date has been set, the counsel of record cannot simply be removed; counsel must ask the Court, pursuant to section 34 of the Rules, for a direction to remove him or her as counsel of record.
+[3] Under the circumstances, Mr. Sirois’ motion must be granted. His clients terminated his mandate and have not yet replaced him. As a result, Mr. Sirois was required to file a motion and appear before the Court.
+[4] I award costs for a single appeal totalling $1,050, half of which is payable to the respondent and the other half to Mr. Sirois, from the three appellants for the appeals subject to the general procedure. This amount is the estimated total for the fees for preparing and hearing a motion for Class C proceedings.
+[5] The second motion, filed by the two appellant companies, Groupe Nepveu Inc. (“Groupe Nepveu”) and Béton du Parc St-Eustache Ltée (“Béton du Parc”), was to obtain leave for Groupe Nepveu and Béton du Parc to be represented during the hearing of the three motions discussed here by the appellant Benoit Nepveu, who is also president of Groupe Nepveu and vice-president of Béton du Parc. Given section 30 of the Rules, the second motion is necessary for Béton du Parc because they filed an appeal under the general procedure. Groupe Nepveu does not require leave of the Court to be represented by Benoit Nepveu in their appeal, which is subject to the informal procedure.
+[6] Subsection 30(2) of the Rules provides that, in an appeal under the general procedure, a corporation must obtain leave of the Court to be represented by a person other than a lawyer. Several recent decisions rendered by our Court discuss determining whether subsection 30(2) of the Rules is reconcilable with section 17.1 of the Tax Court of Canada Act (the “TCC Act”), which provides that, before our Court, a party may appear in person or be represented by a lawyer.
+[7] In the decisions that I rendered in Suchocki Accounting Ltd. v. The Queen, 2018 TCC 88 and Masa Sushi Japanese Restaurant Inc. v. The Queen, 2018 TCC 98 (Masa Sushi 2018), I concluded that a corporation must be represented by a lawyer in an appeal filed under the general procedure. In doing so, I was being consistent with previous case law, Masa Sushi Japanese Restaurant Inc. v. The Queen, 2017 TCC 239 (Masa Sushi 2017), and this same approach was also adopted more recently in 1532099 Ontario Ltd. v. The Queen, 2020 TCC 30. Our Court expressed a different point of view, however, in BCS Group Business Services Inc. v. The Queen, 2018 TCC 120 and Sutlej Foods Inc. v. The Queen, 2019 TCC 20.
+[8] After careful consideration, I repudiate the conclusion, expressed in my own previous decisions, that a corporation cannot appear in person. Instead, I have taken the view of Justices Miller and Russel: section 17.1 of the TCC Act clearly provides that any party may appear in person, which also extends to a corporation.
+[9] Subsection 30(2) may be read in a way that is compatible and in line with section 17.1 of the TCC Act. Despite this provision, our Court has the inherent authority to regulate its own internal procedure. Section 17.1 allows corporations to appear in person, and section 30(2) of the Rules sets out the process by which our Court determines how a corporation may appear in person.
+[10] This seems to reflect the context of subsection 30(2) of the Rules. Subsection 30(1) provides that a private individual may appear in person or be represented by a lawyer. Under subsection 30(2), parties who are not individuals must be represented by counsel except with leave of the Court and on any conditions that it may determine. This allows our Court to determine whether the representative proposed by a corporation has leave to act as a representative of that corporation when the corporation exercises its right to appear in person. This leads to careful reflection of considerations like those included in WJZ Enterprises v. The Queen, 2017 TCC 57 and White Star Copper Mines Limited v. The Queen, 2007 TCC 669, to decide whether, given the particular circumstances of the proposed representative and of the appeal, it would be appropriate to accept this representative. Our Court has the inherent right to exercise this authority in relation to its procedure without violating section 17.1 of the TCC Act.
+[11] This interpretation is also in line with subsection 30(3) of the Rules, which stipulates that the representative (for example, a trustee or a guardian) of a party under a legal disability in a proceeding shall be represented by counsel and cannot appear in person, except where that person is also counsel acting in such a capacity. This interpretation does not give corporations a right that is not granted to individuals, namely to retain the services of a person other than a lawyer to represent them, which, in any case, would be in violation of section 17.1 of the TCC Act.
+[12] Subject 30 of the Rules seems to comply with the right enjoyed by all parties under section 17.1, to appear in person, while taking account of the Court’s concern, from a procedural point of view, about the ability of a party’s representative (other than a lawyer) to fulfill his or her role appropriately and satisfactorily. The text of section 30 surely acknowledges such an interpretation.
+[13] When subsection 30(2) is applied, all relevant circumstances must be assumed, including those covered by WJZ Enterprises and White Star Copper. Section 17.1 of the TCC Act stipulates that when a party is represented by a lawyer, this person must be a duly qualified lawyer in a province. Subsection 30(2) can never be invoked to allow a person who is not a lawyer to be hired or compensated to represent a party in an appeal filed under the general procedure.
+[14] I grant the request made by the appellant corporation Béton du Parc that they be represented by the appellant Benoit Nepveu, their vice-president, during the March 2 hearing, but only for the purposes of the three motions. Mr. Nepveu indicated that the appellants still intended to retain the services of a new lawyer before the matter is set down for hearing once again.
+[15] The second motion is allowed, without costs.
+[16] For the third motion, the four appellants requested an adjournment of the two‑day hearing, the date of which had been set over a year ago, to have the time to find a new lawyer to represent them. I agreed to grant them the adjournment and asked the parties how much time they thought they needed to retain the services of a new lawyer and asked them about costs, given that the direction to remove a counsel of record and the application for adjournment were filed at the last minute, meaning that the Crown prepared for a hearing that will no longer be held for some time in addition to having to appear today. This direction and application also wasted precious public resources, seeing as the two hearing days scheduled for these appellants could not be used.
+[17] The adjournment was granted during the hearing. The Court orders the parties to inform the Court by September 15, 2020, whether a transaction has occurred or whether the appeals are ready to be set down for hearing. The costs for a single appeal, amounting to $4,000 in total, are payable to the respondent by the three appellants who filed the appeal under the general procedure.
+Signed at Ottawa, Canada, this 30th day of July 2020.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2020 TCC 80
+COURT FILE NOS.:
+2017-3692(IT)I
+2017-3693(IT)G
+2017-3695(IT)G
+2017-3697(IT)G
+STYLE OF CAUSE:
+GROUPE NEPVEU INC., MARTIN NEPVEU, BENOIT NEPVEU, BÉTON DU PARC ST-EUSTACHE LTÉE v. THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+March 2, 2020
+REASONS FOR ORDER BY:
+The Honourable Justice Patrick Boyle
+DATE OF ORDER:
+July 30, 2020
+APPEARANCES:
+Counsel for the Appellants:
+Louis Sirois
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Louis Sirois
+Firm:
+Sirois & Cohen
+Montreal, Quebec
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

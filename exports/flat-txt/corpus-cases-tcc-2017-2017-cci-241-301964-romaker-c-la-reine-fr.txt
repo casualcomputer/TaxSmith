@@ -1,0 +1,215 @@
+Title: Romaker c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/301964/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-241-301964-romaker-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-12-01
+
+# Romaker c. La Reine
+
+- Citation: 2017 CCI 241
+- Decision date: 2017-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7726, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Romaker c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-12-01
+Référence neutre
+2017 CCI 241
+Numéro de dossier
+2012-1943(IT)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1943(IT)G
+ENTRE :
+PHILIP ROMAKER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 6 juillet 2017, à Hamilton (Ontario).
+Devant : L’honorable juge B. Russell
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocates de l’intimée :
+Me Dominique Gallant
+Me Katie Beahen
+JUGEMENT MODIFIÉ
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (Canada) pour les années d’imposition 2007, 2008 et 2009 de l’appelant est rejeté, avec dépens, conformément aux motifs du jugement modifiés ci‑joints.
+Le présent jugement modifié remplace le jugement daté du 1er décembre 2017.
+Signé à Ottawa (Canada), ce 8e jour de février 2018.
+« B. Russell »
+Juge Russell
+Traduction certifiée conforme
+ce 14e jour de février 2020.
+Erich Klein, réviseur
+Référence : 2017 CCI 241
+Date : 20180208
+Dossier : 2012‑1943(IT)G
+ENTRE :
+PHILIP ROMAKER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Russell
+Introduction
+[1] L’appelant, Philip Romaker, a interjeté sous le régime de la procédure générale son appel à l’encontre de nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (Canada) (la « Loi ») à l’égard de ses années d’imposition 2007, 2008 et 2009. Il interjette appel de ce que l’on appelle des pénalités pour faute lourde imposées en application du paragraphe 163(2) de la Loi relativement à des déductions demandées dans ses déclarations de revenus pour 2007, 2008 et 2009, telles qu’elles ont été préparées par des personnes auxquelles l’appelant dit avoir fait confiance, mais dont il affirme qu’ils l’ont trompé.
+Preuve
+[2] L’appelant, qui n’était pas représenté par un avocat, a déclaré dans son témoignage qu’il a un niveau de scolarité de 13e année. Il est maintenant à la retraite, après avoir travaillé pendant 29 ans comme agent de police à Hamilton, en Ontario. En 2008, apparemment sur l’insistance d’amis, il a assisté à deux présentations publiques, offertes par « Sovereign Trusts », sur la façon dont les contribuables qui avaient principalement un revenu déclaré sur le feuillet T4 pourraient obtenir d’importants remboursements d’impôt sur le revenu. Il dit qu’il n’a pas compris une bonne partie de ce qu’il avait entendu à ces séances (et il affirme maintenant que c’était surtout du [TRADUCTION] « charabia »). Toutefois, il a décidé d’aller de l’avant et de demander le remboursement d’impôt sur le revenu qu’il avait versé au cours des années précédentes. Par conséquent, il a retenu les services du conférencier à ces présentations, un certain Christian Lachappelle (« monsieur L. »), pour le guider dans sa démarche.
+[3] L’appelant a témoigné qu’il avait signé des formulaires que monsieur L. avait préparés et par la suite présentés pour lui à l’Agence du revenu du Canada (l’« ARC »). Il a plus tard reçu des réponses négatives de l’ARC. Monsieur L. l’a encouragé à continuer, l’avisant que l’ARC était simplement réticente à lui verser les remboursements d’impôt. L’ARC a continué à lui répondre par la négative. Finalement, l’appelant a perdu ses illusions par rapport à monsieur L. et il a plutôt continué en obtenant d’un certain R. Terracina (« monsieur T. »), qui était apparemment un associé de monsieur L., des conseils pour la préparation d’observations et la soumission de celles-ci à l’ARC à l’étape de l’opposition pour chacune des années visées. Initialement, monsieur T., par l’intermédiaire d’un adjoint, aurait donné à l’appelant une liste de dépenses d’entreprise inventées à présenter à l’ARC.
+[4] L’appelant a déclaré avoir été dupé par messieurs L. et T., qui étaient les [TRADUCTION] « cerveaux derrière la fraude ». Il dit qu’il en a été victime et que maintenant l’ARC veut le rendre une deuxième fois victime. Il dit qu’il a [TRADUCTION] « appris sa leçon » et que c’était [TRADUCTION] « un triste gâchis ». Il souhaite maintenant simplement aller de l’avant et il n’est [TRADUCTION] « pas nécessaire de remuer le couteau dans la plaie ».
+[5] En contre‑interrogatoire, l’appelant a reconnu qu’il n’avait jamais eu d’entreprise. C’est lui‑même — ou une autre personne lorsqu’il s’agissait transmission électronique — qui a toujours préparé ses déclarations de revenus. Avant que cette affaire ne survienne, il n’avait jamais payé un professionnel pour préparer ses déclarations de revenus. Il a répété que des amis l’avaient beaucoup influencé, l’incitant à payer les frais pour assister aux deux séances de Sovereign Trusts et à faire préparer par Sovereign Trusts ses déclarations de revenus pour 2008 et 2009 et sa demande de modification pour 2007.
+[6] Certains documents ont été déposés en preuve. Ils comprennent la pièce A‑1, l’annonce de Sovereign Trusts pour un [TRADUCTION] « séminaire privé d’une journée » comprenant une séance de trois heures sur [TRADUCTION] « la façon de réduire mes impôts », à laquelle l’appelant a assisté deux fois. Il est précisé sur l’annonce qu’elle a été [TRADUCTION] « révisée » le 14 mai 2008.
+[7] La pièce R‑2 est un document de cinq pages que monsieur L. a fourni à l’appelant et qui est intitulé [TRADUCTION] « Se préparer pour appliquer le processus C2++ ». Son [TRADUCTION] « Introduction » commence par la déclaration suivante (telle qu’elle est réellement écrite) :
+[traduction]
+Vous, en tant qu’homme ou femme qui vit, êtes appelé un Être humain, dans la terminologie du Processus C2++. Vous êtes considéré comme étant souverain, vous possédez donc le libre arbitre pour vous gouverner vous-mêmes.
+[8] La section se conclut ainsi :
+[traduction]
+Selon le principe sous‑jacent du Processus C2++, les prêts ne sont PAS des revenus. Votre employeur n’est pas imposé sur le capital qu’il a reçu de votre part, n’est‑ce pas? Les banques ne sont pas imposées sur leurs prêts, n’est‑ce pas? Vous avez demandé un emprunt à une banque et l’argent que vous avez reçu n’est pas imposable, n’est‑ce pas? Ce n’est que la valeur accumulée qui l’est! Le profit est imposable. Comme vous n’êtes pas dans le commerce, mais que vous êtes utilisé par le commerce, vous ne générez pas de profits. Vous avez prêté une certaine valeur et elle est revenue sans profit. Vous recevez simplement le remboursement de votre capital.
+[9] L’appelant a dit que, lorsqu’il avait [TRADUCTION] « parcouru » le document en le recevant, il ne l’avait pas compris, mais qu’il considérait monsieur L. comme un expert.
+[10] Au nombre des autres documents déposés en preuve au cours du contre‑interrogatoire de l’appelant figurait la pièce R‑4, qui était un courriel daté du 2 février 2009 que monsieur L. avait adressé à l’appelant. Ce courriel comportait en annexe six documents que l’appelant devait signer et renvoyer par messagerie à monsieur L. Parmi ces documents, il y en avait un qui était intitulé [TRADUCTION] « résolution de l’entreprise en vue d’accepter un contrat de service », un autre intitulé [TRADUCTION] « état de financement selon l’UCC » et un autre intitulé [TRADUCTION] « résolution de l’entreprise en vue d’accepter la facture annuelle ». Ils ne signifiaient essentiellement rien pour l’appelant.
+[11] Les pièces R‑5, R‑6 et R‑8 sont, respectivement, la déclaration de revenus de l’appelant pour 2008, produite le 30 juin 2010, sa déclaration de revenus pour 2009, produite le 30 avril 2010, et sa lettre du 2 septembre 2008, adressée à la Division des appels de l’ARC, concernant sa demande de modification pour 2007.
+[12] Dans la déclaration de revenus pour 2009, la déduction d’une perte d’entreprise de 22 610 $ est demandée. La déclaration est signée par l’appelant, sous le paragraphe habituel ainsi libellé : « J’atteste que les renseignements donnés dans cette déclaration et dans tous les documents annexés sont exacts, complets et révèlent la totalité de mes revenus. »
+[13] La déclaration pour 2008 comprenait une déduction de 89 713 $ à titre de [TRADUCTION] « Somme due à l’animateur (mandant) en tant que mandataire » et déclarait comme autres revenus (s’ajoutant à un revenu d’emploi de 83 214 $) un montant de 16 450 $ pour une déduction nette pour perte de 73 216 $. La déclaration pour 2008 était signée par l’appelant directement au-dessous de la déclaration dactylographiée suivante : [TRADUCTION] « La présente déclaration de revenus, faite involontairement sous la protestation et la contrainte, utilise un processus selon lequel l’animateur (mandant) se voit rembourser son capital humain qu’il a prêté à la société, par l’entremise de son mandataire. » À la droite, dans la même case de signature, est dactylographiée en lettres majuscules et minuscules, telle qu’elle est ici reproduite, la déclaration suivante : [TRADUCTION] « TOUS DROITS RÉSERVÉS, SANS PRÉJUDICE UCC 1‑308. CONTRAT NON ASSUMPSIT, SANS COMPRÉHENSION. Fait par l’animateur pour le mandataire. » La déclaration suivante qui figure habituellement sur ce formulaire prescrit de déclaration de revenus est absente : « J’atteste que les renseignements donnés dans cette déclaration et dans tous les documents annexés sont exacts, complets et révèlent la totalité de mes revenus. »
+[14] La demande de modification pour l’année d’imposition 2007 visait à obtenir que le chiffre à la case des revenus d’entreprise nets, qui était zéro sur la déclaration initiale, soit modifié pour indiquer une perte de 69 558 $. Cette demande de modification a été signée, elle aussi, par l’appelant, cette fois‑ci directement au-dessous de la mention suivante : [TRADUCTION] « Tous droits réservés, sans préjudice, UCC 1‑308 contrat non assumpsit, sans compréhension pour la personne physique PHILIP ROMAKER. » Puis, directement au-dessous de sa signature se trouve la mention [TRADUCTION] « par Philip : Romaker, animateur pour la personne physique PHILIP ROMAKER. Correspondance acceptée par écrit seulement. »
+[15] Chacun des trois documents produits en preuve a été signé par l’appelant, monsieur L. ayant transmis à ce dernier les documents pour signature. Devant la Cour, l’appelant n’a pas cherché à faire valoir que les mentions un peu particulières qui accompagnent ses signatures et qui sont reproduites en l’espèce, ne se trouvaient pas sur les documents lorsqu’il les avait signés.
+Actes de procédure
+[16] Les principales hypothèses de fait formulées par l’intimée, au paragraphe 15 de la réponse, sont les suivantes :
+[traduction]
+a) le revenu total de l’appelant pour l’année d’imposition 2007 était de 85 412 $, étant composé d’un revenu d’emploi versé par la Ville de Hamilton et la Toronto Police Association et de revenus de placements;
+b) le revenu total de l’appelant pour l’année d’imposition 2008 était de 83 435,02 $, étant composé d’un revenu d’emploi versé par la Ville de Hamilton et de revenus de placements;
+c) le revenu total de l’appelant pour l’année d’imposition 2009 était de 83 443 $, étant composé d’un revenu d’emploi versé par la Ville de Hamilton et de revenus de placements.
+Déduction pour perte à titre de mandataire pour 2007
+a) lorsqu’il a produit une Demande de redressement d’une T1 pour l’année d’imposition 2007, l’appelant a déduit une perte d’entreprise de 69 557,61 $ (la déduction pour perte à titre de mandataire définie précédemment);
+b) la déduction pour perte à titre de mandataire, si elle était admissible, aurait entraîné le remboursement de tous les impôts retenus à la source pour l’année d’imposition 2007;
+c) l’appelant a déclaré dans sa Demande de redressement d’une T1 pour l’année d’imposition 2007 que l’entreprise était une « entreprise par défaut »;
+d) la déduction pour perte à titre de mandataire de 69 557,61 $ ne se rapportait pas à la prétendue « entreprise par défaut » de l’appelant;
+e) lorsqu’il a demandé le redressement d’une T1 pour tenir compte d’une perte nette d’entreprise de 69 557,61 $ pour l’année d’imposition 2007, l’appelant a demandé que le montant au complet soit déduit dans l’année 2007;
+f) l’appelant a indiqué dans sa Demande de redressement d’une T1 pour l’année que le revenu de cette « entreprise » était un « revenu d’entreprise » et que ses dépenses, qui étaient décrites comme étant un « remboursement des dépenses conformément à un contrat privé », étaient de 69 557,61 $ (les « dépenses de 2007 dont la déduction a été refusée »);
+g) l’appelant a signé ainsi sa Demande de redressement d’une T1 pour l’année 2007 : « par Philip : Romaker, animateur pour la personne physique PHILIP ROMAKER »;
+h) l’appelant a affirmé ce qui suit :
+À la lumière de plusieurs communications avec divers représentants de l’ARC, nous pouvons vous donner cet indice : dans nos lettres vous entrerez en contact avec l’être humain Philipp : Romaker et la personne physique PHILIP ROMAKER, qui est la société. Pour les différencier, chaque fois que vous voyez le mot « personne », il s’agit de la construction juridique, de la société, de la personne morale, de la personnalité juridique, comme ces termes sont définis et utilisés en droit. De plus, lorsque vous voyez les deux points « : » dans le nom, c’est précisément le signe que ce nom désigne un être humain. Ces deux points signifient « de la famille ». Nous espérons que cela vous en facilitera la compréhension.
+[…]
+L’être humain Philipp : Romaker a conclu un contrat privé avec la société PHILIP ROMAKER (la personne physique). Ce contrat reconnaît la valeur inestimable de Philip : Romaker pour le fonctionnement de la société PHILIP ROMAKER (la personne physique). Ainsi, la société PHILIP ROMAKER s’est engagée, au moyen du contrat privé et à titre de rémunération d’efforts incommensurables, à rembourser à l’être humain Philip : Romaker toutes les dépenses qu’il a engagées pendant la période visée par le contrat. Il s’agit du remboursement de dépenses engagées par le contribuable (la personne physique ou la société PHILIP ROMAKER) et ayant eu pour objet de gagner un revenu pour toutes les entreprises dans lesquelles la société s’était engagée, conformément à l’alinéa 18(1)a) de la Loi de l’impôt sur le revenu ou de son équivalent provincial. Il convient de noter qu’aux fins de l’impôt sur le revenu seule une partie de ces dépenses a été prise en compte (voir « Autres dépenses » dans le formulaire T2124 déjà soumis).
+i) la position de l’appelant est fondée sur un scénario;
+j) le scénario montre que l’appelant a sciemment participé à une espèce de groupe de détaxation pour éviter de payer l’impôt;
+k) l’appelant n’a exercé aucune activité commerciale quelle qu’elle soit;
+l) l’appelant n’avait aucune source de revenus qui était reliée à sa prétendue entreprise;
+m) la demande de « remboursement des dép. conformément au contrat privé » qu’a faite l’appelant ne portait que sur des frais personnels et de subsistance;
+n) l’appelant n’a pas engagé en vue de tirer un revenu d’une entreprise ou d’un bien les dépenses visées dans sa demande de « remboursement des dép. conformément au contrat privé »;
+Perte au titre d’autres déductions pour 2008
+o) lorsqu’il a produit sa déclaration de revenus pour 2008, l’appelant a demandé une déduction de 89 713,35 $ à titre de « Somme due à l’animateur en tant que mandataire » (les autres déductions, définies précédemment) et il a déclaré d’autres revenus de 16 450,18 $ à titre de « Dépôts divers », ce qui a entraîné une perte de 73 263,17 $ (décrite comme étant la « perte au titre d’autres déductions »);
+p) la perte au titre d’autres déductions, si elle était déductible, aurait entraîné le remboursement de tous les impôts retenus à la source pour l’année d’imposition 2008;
+q) l’appelant prétendait dans sa déclaration de revenus pour l’année d’imposition 2008 que l’entreprise était celle de « mandataire en tant que service de transmission »;
+r) la perte au titre d’autres déductions, s’élevant à 73 263,17 $, ne se rapportait pas à la prétendue « entreprise de mandataire en tant que service de transmission » de l’appelant;
+s) l’appelant affirmait que son revenu provenant de cette prétendue entreprise consistait en des « sommes perçues par le mandataire pour l’animateur »;
+t) l’appelant a indiqué dans sa déclaration de revenus pour 2008 que le revenu tiré de l’« entreprise » (précisé au paragraphe 7 ci-dessus) était de 16 450,18 $ (décrit comme consistant en des sommes perçues par le mandataire pour l’animateur et NON déclarées par des tiers). L’appelant a fait valoir que ses dépenses, qu’il a décrites comme étant des « sommes dues à l’animateur par le mandataire en papier‑monnaie », s’élevaient à 89 713,35 $ (les « dépenses de 2008 dont la déduction a été refusée »);
+u) l’appelant a signé l’attestation suivante dans sa « Déclaration annuelle des activités de mandataire » pour l’année d’imposition 2008 :
+« J’atteste que je suis l’animateur (mandant) du mandataire, PHILIP ROMAKER, et que les renseignements fournis dans la présente déclaration sont vrais et exacts. La présente déclaration, rédigée par l’animateur, constitue un reçu original »;
+v) l’appelant a signé sa déclaration de revenus pour l’année d’imposition 2008 en déclarant ceci :
+« La présente déclaration de revenus, faite involontairement sous la protestation et la contrainte, utilise un processus selon lequel l’animateur (mandant) se voit rembourser son capital humain qu’il a prêté à la société, par l’entremise de son mandataire.
+TOUS DROITS RÉSERVÉS, SANS PRÉJUDICE UCC 1‑308 CONTRAT NON ASSUMPSIT, SANS COMPRÉHENSION
+Fait par l’animateur pour le mandataire
+PAR : P. Romaker »
+w) l’appelant a fourni un « avis d’utilisation » ainsi libellé :
+« Veuillez prendre note qu’à partir du 27 mai 2009 la personne physique, aussi connue comme étant le contribuable PHILIP ROMAKER (ci‑après « le mandataire à qui le NAS 449XXXXXX a été attribué »), agit comme mandataire dans le commerce, étant chargé de fournir un service de transmission à son animateur souverain, autonome et libre de choisir sa gouvernance spirituelle, soit Philip de la famille Romaker, aussi connu sous le nom de Philip : Romaker (ci‑après l’« animateur »).
+Le rôle du mandataire consiste à accepter le capital humain fourni par son animateur comme un prêt temporaire consenti à la société sans intérêt ni usure, et, par la suite, à rembourser intégralement l’animateur, moins la rétribution du mandataire.
+[…]
+En outre, l’animateur n’a vu aucun élément de preuve à l’appui de la prétendue présomption selon laquelle l’animateur est la caution du mandataire, qui est insolvable par nature, et toute réclamation contre le mandataire qui a une valeur sera présentée au receveur général, qui acceptera l’instrument de paiement tel qu’il est présenté et fera le nécessaire pour que s’opère la compensation entre la valeur acceptée de la réclamation et le compte d’exonération portant le numéro […] »;
+x) la position de l’appelant est fondée sur un scénario;
+y) le scénario montre que l’appelant a sciemment participé à une espèce de groupe de détaxation pour éviter de payer l’impôt;
+z) l’appelant n’a exercé aucune activité commerciale quelle qu’elle soit;
+aa) l’appelant n’avait aucune source de revenus qui était reliée à sa prétendue entreprise;
+bb) les « sommes dues à l’animateur par le mandataire en papier‑monnaie », dont l’appelant a demandé la déduction, ne consistent qu’en des frais personnels et de subsistance;
+cc) l’appelant n’a pas engagé ou effectué en vue de tirer un revenu d’une entreprise ou d’un bien les dépenses déduites au titre des « sommes dues à l’animateur par le mandataire en papier‑monnaie »;
+Perte d’entreprise déduite pour 2009
+dd) lorsqu’il a produit sa déclaration de revenus pour 2009, l’appelant a déduit une perte d’entreprise de 22 610 $ (la perte d’entreprise déduite, définie précédemment);
+ee) la perte d’entreprise déduite, si la déduction était admissible, aurait entraîné un remboursement d’une partie de l’impôt retenu à la source pour l’année d’imposition 2009;
+ff) l’appelant prétendait dans l’état des résultats des activités d’une entreprise accompagnant sa déclaration de revenus pour l’année d’imposition 2009 que l’entreprise était une « entreprise de services artistiques et de gestion de placements »;
+gg) la position de l’appelant est fondée sur un scénario;
+hh) la perte d’entreprise déduite de 22 610 $ ne se rapportait pas à la prétendue « entreprise de services artistiques et de gestion de placements » de l’appelant;
+ii) en déclarant une perte nette d’entreprise de 22 610 $ pour l’année d’imposition 2009, l’appelant a déduit de son revenu la totalité de ce montant;
+jj) l’appelant affirmait n’avoir reçu aucun revenu de sa prétendue entreprise;
+kk) les dépenses dont il est fait état à l’annexe A ci-jointe et dont l’appelant demandait la déduction ne consistaient qu’en des frais personnels et de subsistance (les « dépenses de 2009 dont la déduction a été refusée »);
+ll) l’appelant n’a pas engagé ou effectué les dépenses de 2009 dont la déduction a été refusée (indiquées à l’annexe A ci-jointe) en vue de tirer un revenu d’une entreprise ou d’un bien;
+mm) l’appelant n’a exercé aucune activité commerciale quelle qu’elle soit;
+nn) l’appelant n’avait aucune source de revenus qui était reliée à sa prétendue entreprise;
+oo) en ce qui concerne la perte d’entreprise déduite, l’appelant ne l’a pas subie en vue de tirer un revenu d’une entreprise ou d’un bien;
+[…]
+Pénalités aux termes du paragraphe 163(2)
+17. Lorsqu’il a imposé une pénalité en vertu du paragraphe 163(2) de la Loi pour les années d’imposition 2007, 2008 et 2009, le ministre s’est fondé sur les faits suivants :
+a) les hypothèses énoncées au paragraphe 15 ci-dessus;
+Nouvelles cotisations et question à trancher
+[17] Dans les nouvelles cotisations subséquentes, toutes les déductions de dépenses d’entreprise ont été refusées et des pénalités ont été imposées en vertu du paragraphe 163(2), comme l’ont été également les pénalités provinciales correspondantes, pour un total de 7 139 $, de 9 013 $ et de 1 337 $ pour les années d’imposition 2007, 2008 et 2009 de M. Romaker.
+[18] Je suis d’avis qu’à l’audience l’appelant n’a pas réussi à réfuter l’une ou l’autre des hypothèses reproduites plus haut. Je ne crois pas qu’il ait particulièrement cherché à le faire. L’appelant a simplement fait valoir qu’il avait été induit en erreur par de soi‑disant experts et qu’il ne devrait pas être pénalisé pour avoir été trompé, selon ses propres mots, par ces [TRADUCTION] « cerveaux derrière la fraude ».
+Analyse
+[19] La partie du paragraphe 163(2) portant sur la pénalité pour « faute lourde » qui est pertinente aux fins de la présente analyse est ainsi rédigée :
+(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants […]
+[20] Les deux éléments du paragraphe 163(2) qu’il faut établir sont les suivants :
+a) un faux énoncé ou une omission dans une déclaration;
+b) le fait d’avoir agi sciemment ou d’une manière constituant une faute lourde en faisant ce faux énoncé ou cette omission, en y consentant ou en y acquiesçant.
+Selon la décision Venne c Canada, [1984] ACF no 314 (1re inst.), la faute lourde doit dépasser la simple négligence. Il doit y avoir un degré important de négligence qui correspond à une action délibérée ou une indifférence au respect de la Loi.
+[21] J’ai pris en considération la jurisprudence suivante : Torres c. R., 2013 CCI 380; Strachan c. R., 2015 CAF 60; Lauzon c. R., 2016 CCI 71; Lauzon c R, 2016 CAF 298; Tomlinson c. R., 2016 CCI 246; Chartrand c. R., 2015 CCI 298.
+[22] Comme on le fait observer dans la décision Torres (précitée), au paragraphe 62, il est bien établi en droit que la faute lourde peut comprendre l’aveuglement volontaire. Voir également l’arrêt Villeneuve c. Canada, 2004 DTC 6077 (CAF).
+[23] L’appelant a témoigné que monsieur L. lui avait dit de simplement inventer une entreprise pour pouvoir le mieux demander des déductions, étant donné que l’appelant n’avait pas d’entreprise réelle. L’appelant en a donc inventé une, soit une entreprise de prestation de [TRADUCTION] « services artistiques et de gestion de placements ». Il a déclaré que l’idée venait du fait que son épouse s’intéressait à l’art. (Voir à cet égard la pièce R‑7, un formulaire de l’ARC intitulé « État des résultats des activités d’une entreprise ou d’une profession libérale » pour l’année d’imposition 2009 de l’appelant.) La description ci-dessus de l’entreprise figure dans la section intitulée « Produit ou service principal ». (À la partie 5 se trouve une liste détaillée des dépenses d’entreprise qui auraient été effectuées, le total de 22 610 $ étant inscrit à la ligne 9369 comme une perte nette.) La signature de l’appelant n’a pas été apposée sur le document.
+[24] Le fait d’acquiescer à une demande d’inventer une entreprise commerciale indique qu’il s’agit d’un faux énoncé intentionnel. Toutefois, pour accorder à l’appelant le bénéfice du doute, je trancherai son appel en me fondant sur l’aveuglement volontaire constituant une faute lourde.
+[25] La jurisprudence directrice à cet égard est la décision Torres (précitée), qui établit une liste de vérification des facteurs qu’il faut considérer comme des « signaux d’alarme » indiquant la nécessité de s’enquérir de la situation, à défaut de quoi on peut conclure à un aveuglement volontaire constituant une faute lourde.
+[26] Un des signaux d’alarme est l’importance de l’omission ou de l’avantage souhaité. En l’espèce, il ressort de la pièce R‑8 que, pour l’année d’imposition 2007, la déduction d’une perte d’entreprise de près de 70 000 $ a été demandée dans une lettre datée du 2 septembre 2008 adressée au bureau des services fiscaux de Sudbury. La perte au titre d’« autres déductions » relativement à une [TRADUCTION] « somme due à l’animateur en tant que mandataire », dont la déduction a été demandée pour l’année d’imposition 2008, s’élevait à un montant brut de 89 713 $ et à un montant net de 73 263 $. Tout cela était fictif. Et pour ce qui est de l’année 2009, une perte d’entreprise de 22 610 $ a été déduite relativement à [TRADUCTION] « [l’]entreprise de services artistiques et de gestion de placements » fictive. Il s’agit de montants considérables qui ont fait l’objet d’un faux énoncé et d’une fausse demande de déduction, apparemment sans que l’appelant ait senti le besoin de s’en enquérir.
+[27] Le niveau d’instruction et l’expérience du contribuable sont un signal d’alarme important. L’appelant est un policier qui vient de prendre sa retraite et qui, tout au cours de sa carrière de policier, a sans doute eu affaire à des personnes dont les actes étaient illégaux et les intentions illégales. Je me sens obligé de dire qu’une personne ne garderait certainement pas longtemps son poste de policier si elle était aussi crédule que l’appelant se présente comme l’étant en l’espèce. De plus, le niveau d’instruction de l’appelant n’est pas négligeable : il a terminé sa treizième année et a donc fait ses études secondaires au complet.
+[28] Le caractère flagrant des faux énoncés quant à l’existence d’une entreprise fictive, quant aux pertes se rapportant à celle-ci et quant à la perte au titre d’« autres déductions » pour 2008 est extrême. Il s’agit d’un autre signal d’alarme important.
+[29] Un autre signal d’alarme qu’il faut souligner est une correspondance du soi‑disant expert qui est inintelligible et absurde. C’est sûrement le cas en l’espèce. Pour le démontrer, des passages contenant un tel langage, y compris de larges extraits tirés des actes de procédure de l’intimée, sont cités abondamment dans les présents motifs. De plus, comme il en a été déjà fait mention, l’appelant a décrit ce qu’il avait entendu à l’un des séminaires auxquels il avait assisté comme étant surtout du [TRADUCTION] « charabia ». Il n’est tout simplement pas crédible, compte tenu de l’ensemble des circonstances en l’espèce, que l’appelant, un policier de carrière retraité, ait fait abstraction du [TRADUCTION] « charabia » au motif que celui qui le prononçait était un expert, de sorte que lui, l’appelant, ne s’attendrait pas, ou ne pouvait s’attendre ni ne devrait s’attendre, à comprendre ce qui était dit.
+[30] Ces observations s’appliquent également au langage absurde et inintelligible figurant dans la case de signature de la déclaration de revenus de l’appelant pour 2008 (pièce R‑5 susmentionnée).
+Conclusion
+[31] Compte tenu de ce qui précède, je conclus sans difficulté que l’appel doit être rejeté. Il est clair, à mon avis, que les pénalités pour faute lourde qui font l’objet de l’appel ont été imposées à juste titre à l’égard des années d’imposition 2007, 2008 et 2009 de l’appelant. L’appel est rejeté, avec dépens comme l’a demandé l’intimée.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement datés du 1er décembre 2017.
+Signé à Ottawa, Canada, ce 8e jour de février 2018.
+« B. Russell »
+Juge Russell
+Traduction certifiée conforme
+ce 14e jour de février 2020.
+Erich Klein, réviseur
+RÉFÉRENCE :
+2017 CCI 241
+No DU DOSSIER DE LA COUR :
+2012‑1943(IT)G
+INTITULÉ :
+PHILIP ROMAKER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 6 juillet 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 1er décembre 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocats de l’intimée :
+Me Dominique Gallant
+Me Katie Beahen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

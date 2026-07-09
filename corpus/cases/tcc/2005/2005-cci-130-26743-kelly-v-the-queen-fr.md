@@ -1,0 +1,235 @@
+---
+title: "Kelly v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26743/index.do"
+last_modified: "2005-02-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 130"
+citation2: ""
+neutral_citation: "2005 CCI 130"
+decision_date: "2005-02-11"
+language: "fr"
+item_id: "26743"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3457
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:15:35.543000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "96b8cbc33c44eb48cf8c9d9538ff67383ad689435603b2d52594f5c656211731"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kelly v. The Queen
+
+- Citation: 2005 CCI 130
+- Decision date: 2005-02-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3457, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kelly v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-11
+Référence neutre
+2005 CCI 130
+Numéro de dossier
+2004-2304(IT)I
+Juges et Officiers taxateurs
+Gordon Teskey
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2304(IT)I ENTRE :
+JAMES E. KELLY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Toronto (Ontario), le 9 février 2004.
+Devant : L'honorable juge Gordon Teskey
+Comparutions :
+Représentant de l'appelant :
+M. Roy J. Fabbiani
+Avocate de l'intimée :
+Me Livia Singer
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont rejetés selon les motifs de jugement ci-joints.
+Signé à Toronto (Ontario), ce 11e jour de février 2005.
+« Gordon Teskey »
+Juge Teskey
+Traduction certifiée conforme
+ce 1er jour de novembre 2005.
+Sara Tasset
+Référence : 2005CCI130
+Date : 20050211
+Dossier : 2004-2304(IT)I
+ENTRE :
+JAMES E. KELLY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Teskey
+[1] Dans l'avis d'appel par lequel il a interjeté appel de ses cotisations d'impôt pour les années 2000 et 2001, l'appelant a choisi la procédure informelle.
+Point litigieux
+[2] Les dépenses de 13 445 $ et de 7 540 $ dont la déduction a été refusée pour les années 2000 et 2001 ont-elles été effectuées ou engagées en vue de tirer un revenu d'une entreprise et, dans l'affirmative, ces dépenses étaient-elles déraisonnables eu égard aux circonstances, de sorte qu'elles ne devaient pas être admises?
+Les faits
+[3] L'appelant travaille à temps plein comme pompier pour la ville de Toronto depuis 25 ans.
+[4] En sa qualité de pompier, l'appelant travaille en moyenne 42 heures par semaine. Le poste de jour est de dix heures et le poste de nuit est de 14 heures.
+[5] En 1991, l'appelant s'est lancé dans une nouvelle activité appelée « Learn Not to Burn » .
+[6] L'appelant a décrit cette activité comme une entreprise de commercialisation, en ce sens qu'il recrutait comme parrains des sociétés dont les logos étaient représentés sur sa voiture de course et qu'il effectuait également du travail de promotion pour le parrain.
+[7] En 1991, Nissan a fourni à l'appelant une berline, que celui-ci a utilisée jusqu'en 1995, lorsqu'il a commencé à conduire une Formule 1200; en 1999, l'appelant s'est mis à conduire une Formule 1600.
+[8] En 1990, l'appelant voulait être conducteur de voiture de course, de sorte qu'il a suivi des cours dans une école de course cette année-là; il a entrepris son activité « Learn Not to Burn » en 1991 et s'est de nouveau inscrit dans une école de course. Il a également fréquenté une école de course en 1992.
+[9] L'appelant a déclaré que les prix offerts étaient négligeables et qu'en 1991 et en 1992, il a remis l'argent des prix à des organismes de bienfaisance, car il estimait que cela serait une bonne publicité.
+[10] Étant donné que les prix représentaient un montant minime, l'appelant croyait que la façon de réaliser un profit consistait à attirer comme parrains des sociétés qui produiraient un revenu brut suffisant pour rendre l'activité rentable.
+[11] L'appelant affirme que, du mois de mai au mois de septembre, il consacrait de 400 à 1 000 heures aux courses.
+[12] Pendant le contre-interrogatoire, l'appelant a déclaré qu'il consacrait à cette activité autant de temps qu'à son emploi de pompier à temps plein, soit en moyenne 42 heures par semaine.
+[13] Pendant toute la période où l'activité était exercée, l'appelant travaillait pour 353543 Ontario Ltd.; il sollicitait des hypothèques. Il touchait un salaire annuel de 12 500 $ pour ce travail, auquel il consacrait 20 heures par semaine.
+[14] Pendant onze ans, l'appelant a eu Loblaws comme parrain. Le montant accordé était négocié chaque année au mois de janvier.
+[15] Au cours de l'année 2000, l'appelant a tiré 17 500 $ du parrainage de Loblaws, ce qui représentait les recettes brutes totales provenant de cette activité.
+[16] Étant donné que les recettes brutes pour l'année 1999 s'élevaient également à 17 500 $, je conclus que la totalité du montant représentait les sommes accordées par Loblaws.
+[17] Au cours de l'année 2001, Loblaws a versé à titre de parrain un montant de 20 000 $ à l'appelant et, en 2002, Loblaws a versé un montant de 10 000 $.
+[18] En 1992, trois sociétés, en plus de Loblaws, parrainaient l'appelant.
+[19] L'année 1997 est celle au cours de laquelle l'appelant a attiré le plus grand nombre de parrains, ce qui représentait un montant de 28 222 $ en tout. Cette année-là, l'appelant n'a pas déclaré de revenu net d'entreprise; il a déclaré que cette année-là, l'activité atteignait le seuil de rentabilité.
+[20] L'appelant a déclaré qu'en tentant d'attirer un plus grand nombre de sociétés pour le parrainer pendant la période, il a changé de méthode ou d'approche.
+[21] L'appelant changeait chaque année de personnel, mais aucun élément de preuve n'a été soumis afin de permettre à la Cour de savoir s'il s'agissait d'une mesure d'économie ou si les emplois étaient strictement de nature saisonnière et qu'il fallait de toute façon changer de personnel.
+[22] L'appelant a déclaré que plus il remportait de succès à la piste de courses, plus il était facile de se faire parrainer. Une année, il s'est classé au deuxième rang sur le circuit.
+[23] Du début de l'année 1991 à l'année 1994 inclusivement, l'appelant représentait Nissan.
+[24] En 1992, Loblaws a acheté le capot du véhicule de l'appelant.
+[25] Le tableau qui figure ci-dessous pour la période allant de l'année 1987 à l'année 2003 indique les recettes brutes provenant des activités, les dépenses y afférentes et les pertes qui ont été déduites. Les recettes des années 1987 à 1990 inclusivement provenaient d'une activité différente qui n'a pas été mentionnée devant la Cour et dont il n'est pas tenu compte :
+ANNÉE
+RECETTES BRUTES
+DÉPENSES
+PERTES
+1987
+4 325 $
+9 764 $
+5 439 $
+1988
+1 825
+7 073
+5 284
+1989
+3 600
+7 998
+4 398
+1990
+6 350
+9 187
+2 837
+1991
+8 500
+29 977
+21 477
+1992
+22 110
+34 492
+12 382
+1993
+12 925
+22 930
+10 000
+1994
+20 243
+31 151
+10 908
+1995
+18 200
+24 922
+6 722
+1996
+14 135
+20 100
+5 965
+1997
+28 222
+28 222
+0
+1998
+18 000
+29 056
+11 056
+1999
+17 500
+26 997
+9 497
+2000
+17 500
+30 945
+13 440
+2001
+20 000
+27 530
+7 530
+2002
+10 000
+25 303
+15 303
+2003
+L'activité a cessé
+La jurisprudence
+[26] Dans l'arrêt Stewart c. Canada, [2002] 2 R.C.S. 645, la Cour suprême du Canada a dit ce qui suit :
+50 Il est manifeste que, pour que l'art. 9 s'applique, le contribuable doit d'abord déterminer s'il a une source de revenu constituée soit d'une entreprise, soit d'un bien. Comme nous l'avons vu, une activité commerciale qui ne constitue pas véritablement une entreprise peut néanmoins être une source de revenu constituée d'un bien. De même, il est clair que certaines démarches de contribuables ne sont ni des entreprises, ni des sources de revenu constituées d'un bien, mais sont uniquement des activités personnelles. On peut recourir à la méthode à deux volets suivante pour trancher la question de l'existence d'une source :
+(i) L'activité du contribuable est-elle exercée en vue de réaliser un profit, ou s'agit-il d'une démarche personnelle?
+(ii) S'il ne s'agit pas d'une démarche personnelle, la source du revenu est-elle une entreprise ou un bien?
+Le premier volet du critère vise la question générale de savoir s'il y a ou non une source de revenu; dans le deuxième volet, on qualifie la source d'entreprise ou de bien.
+[...]
+52 Ce premier volet du critère vise simplement à établir une distinction entre les activités commerciales et les activités personnelles et, comme nous l'avons vu, il se peut fort bien que telle ait été à l'origine l'intention du juge Dickson lorsqu'il a mentionné l' « expectative raisonnable de profit » dans l'arrêt Moldowan. Vus sous cet angle, les critères énoncés par le juge Dickson représentent une tentative de dresser une liste objective de facteurs permettant de déterminer si l'activité en cause est de nature commerciale ou personnelle. Ces facteurs sont ce que le juge Bowman a qualifié d' « indices de commercialité » ou de « caractéristiques commerciales » : Nichol, précité, par. 13. Ainsi, lorsque la nature de l'entreprise du contribuable comporte des aspects indiquant qu'elle pourrait être considérée comme un passe-temps ou une autre activité personnelle, mais que l'entreprise est exploitée d'une manière suffisamment commerciale, cette entreprise sera considérée comme une source de revenu aux fins d'application de la Loi.
+Aux paragraphes 54, 55 et 60, la Cour suprême a dit ce qui suit :
+54 Il y a également lieu de souligner que la détermination de l'existence d'une source de revenu n'est pas un processus purement subjectif. Outre le fait que, pour qu'une activité soit qualifiée de commerciale par nature, le contribuable doit avoir l'intention subjective de réaliser un profit, il faut aussi, tel que mentionné dans l'arrêt Moldowan, que cette détermination se fasse en fonction de divers facteurs objectifs. Ainsi, sous une forme plus élaborée, le premier volet du critère susmentionné peut être reformulé ainsi : « Le contribuable a-t-il l'intention d'exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l'activité et que cette activité a été exercée conformément à des normes objectives de comportement d'homme d'affaires sérieux.
+55 Les facteurs objectifs énumérés par le juge Dicksondans Moldowan, précité, p. 486, étaient (1) l'état des profits et pertes pour les années antérieures, (2) la formation du contribuable, (3) la voie sur laquelle il entend s'engager, et (4) la capacité de l'entreprise de réaliser un profit. Comme nous le concluons plus loin, il n'est pas nécessaire pour les besoins du présent pourvoi d'ajouter d'autres facteurs à cette liste; nous nous abstenons donc de le faire. Nous tenons cependant à réitérer la mise en garde du juge Dickson selon laquelle cette liste ne se veut pas exhaustive et les facteurs diffèrent selon la nature et l'importance de l'entreprise. Nous tenons également à souligner que, même si l'expectative raisonnable de profit constitue un facteur à prendre en considération à ce stade, elle n'est ni le seul facteur, ni un facteur déterminant. Il faut déterminer globalement si le contribuable exerce l'activité d'une manière commerciale. Cette détermination ne devrait toutefois pas servir à évaluer après coup le sens des affaires du contribuable. C'est la nature commerciale de son activité qui doit être évaluée, et non son sens des affaires.
+[...]
+60 En résumé, la question de savoir si le contribuable a ou non une source de revenu doit être tranchée en fonction de la commercialité de l'activité en cause. Lorsque l'activité ne comporte aucun aspect personnel et qu'elle est manifestement commerciale, il n'est pas nécessaire de pousser l'examen plus loin. Lorsque l'activité peut être qualifiée de personnelle, il faut alors déterminer si cette activité est ou non exercée d'une manière suffisamment commerciale pour constituer une source de revenu. Toutefois, refuser la déduction de pertes pour le seul motif que les pertes indiquent l'inexistence d'une entreprise (ou d'un bien) comme source de revenu va à l'encontre du texte et de l'économie de la Loi. La question de savoir s'il existe une entreprise est distincte de celle de la déductibilité des dépenses. Comme l'a laissé entendre l'appelant, refuser des déductions en fonction d'une analyse de l'expectative raisonnable de profit équivaudrait à une règle jurisprudentielle sur la minimisation des pertes, qui serait contraire aux principes d'interprétation établis susmentionnés qui s'appliquent à la Loi. De même, à la différence de nombreuses règles législatives sur la minimisation des pertes, dès que des déductions sont refusées à la suite de l'application du critère de l'ERP, le contribuable ne peut reporter ces pertes sur un revenu futur si jamais l'activité devient rentable. Comme l'a affirmé le juge Bowman, dans la décision Bélec, précitée, par. 16 : « Ce serait [...] inacceptable de permettre au ministre [de dire] au contribuable : " Le fait que tu as perdu de l'argent [...] prouve que tu n'avais pas d'espoir raisonnable de profit, mais dès que tu gagnes de l'argent, ça prouve que maintenant, tu en as". »
+[27] Dans l'arrêt Nadoryk c. Canada, [2003] A.C.F. no 1786 (QL), la Cour d'appel fédérale a dit ce qui suit, au paragraphe 13 :
+13 L'arrêt Stewart n'a pas aboli le critère de l'attente raisonnable de profit, mais il a plutôt restreint son application aux cas où l'activité en cause comporte un aspect personnel. [...]
+Analyse
+[28] Le témoignage factuel de l'appelant n'a jamais été contesté et je le retiens.
+[29] L'appelant a admis que l'activité comportait un élément personnel.
+[30] Sur la foi de la déclaration de l'appelant, à savoir : [traduction] « Je voulais être coureur automobile » , je conclus que l'activité comportait un élément personnel fort important.
+[31] De toute évidence, la déclaration de l'appelant selon laquelle s'il avait reçu des parrains un montant supérieur aux dépenses, l'activité aurait été rentable est exacte.
+[32] De 1998 à 2003 inclusivement, l'appelant n'avait qu'un seul parrain, Loblaws. Avant le début de la saison des courses en 1998, l'appelant savait qu'il disposait d'une somme de 18 000 $ seulement au titre du parrainage. Les dépenses annuelles moyennes pour les sept années précédentes s'élevaient à environ 27 400 $, de sorte que l'appelant savait, avant même le début de la saison des courses, qu'il allait subir une perte d'environ 10 000 $; le montant des pertes s'est en fait élevé à 11 056 $.
+[33] De même, en 1999, avant le début de la saison des courses, l'appelant savait qu'il disposait d'une somme de 17 500 $ seulement au titre du parrainage. Les dépenses annuelles moyennes pour les huit années précédentes s'élevaient à environ 27 500 $, de sorte que l'appelant savait avant le début de la saison des courses qu'il subirait une perte d'environ 10 000 $; le montant des pertes s'est en fait élevé à 9 497 $.
+[34] Encore une fois, en l'an 2000, avant le début de la saison des courses, l'appelant savait que par le passé il avait subi une perte d'environ 10 000 $; le montant de la perte s'est en fait élevé à 13 445 $.
+[35] Et encore une fois, en 2001, avant le début de la saison des courses, l'appelant savait que par le passé il avait subi une perte d'environ 7 500 $, le montant de la perte s'est en fait élevé à 7 530 $.
+[36] En 2002, l'appelant, qui avait reçu 10 000 $ seulement de Loblaws, a néanmoins participé à des courses tout en sachant, compte tenu de ses propres documents, que les dépenses s'élèveraient, selon l'estimation la plus prudente, à au moins 20 000 $ et qu'il y aurait donc une perte de 10 000 $, la perte subie s'étant en fait élevée à 15 300 $.
+[37] Je suis convaincu que si ce n'avait été de l'emploi lucratif de pompier que l'appelant exerçait et du fait qu'il effectuait du démarchage pour des hypothèques, ce qui lui avait permis, en l'an 2000, de réaliser un revenu brut de 72 440 $, et en 2001, un revenu brut de 76 200 $, l'appelant aurait mis fin à l'activité en question bien avant l'année 2003.
+[38] Ce passe-temps, à savoir la course automobile, coûtait cher; il était financé au moyen des deux autres emplois.
+[39] Je suis convaincu que les heures et l'effort qui ont été consacrés à l'activité dans son ensemble et à la sollicitation de parrains étaient plus que raisonnables.
+[40] De toute évidence, les compétences de l'appelant, lorsqu'il s'agissait de conduire une voiture de course et de solliciter des parrains, ne permettaient pas à celui-ci, dans leur ensemble, de réunir des fonds suffisants au moyen du parrainage pour financer ce passe-temps coûteux.
+[41] Dans cet appel, la question de la planification n'entre pas en ligne de compte; en effet, l'appelant savait, compte tenu de ses documents, qu'il devait obtenir des parrains des sommes supérieures à celles qu'il pouvait obtenir. La somme de 28 200 $ qu'il a obtenue grâce au parrainage en 1997 était la plus élevée qu'il avait réussi à réunir.
+[42] Les pertes totales pour les années 1991 à 2002 inclusivement s'élèvent à environ 125 300 $, soit en moyenne 11 400 $ par année.
+[43] Même si l'appelant a qualifié l'activité d'entreprise de commercialisation, l'utilisation de son véhicule à moteur et la prestation de services de promotion à des parrains découlaient entièrement, en fin de compte, du fait que l'appelant désirait conduire une voiture de course.
+[44] Je conclus donc également que les dépenses dont la déduction a été refusée en 2000 et en 2001 n'ont pas été effectuées ou engagées en vue de tirer un revenu d'une entreprise ou de biens; en effet, l'appelant savait chaque année avant la saison des courses qu'il lui était impossible de réaliser un profit.
+[45] Je conclus également que toutes les dépenses en sus de l'argent provenant du parrainage étaient déraisonnables, étant donné que l'activité était essentiellement exercée dans le cadre de la poursuite du passe-temps de l'appelant, à savoir conduire une voiture de course.
+[46] Pour les motifs susmentionnés, les appels sont rejetés.
+Signé à Toronto (Ontario), ce 11e jour de février 2005.
+« Gordon Teskey »
+Juge Teskey
+Traduction certifiée conforme
+ce 1er jour de novembre 2005.
+Sara Tasset

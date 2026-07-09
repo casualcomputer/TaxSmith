@@ -1,0 +1,202 @@
+Title: Munro v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27102/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-294-27102-munro-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-05-23
+
+# Munro v. The Queen
+
+- Citation: 2006 CCI 294
+- Decision date: 2006-05-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 972, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Munro v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-23
+Référence neutre
+2006 CCI 294
+Numéro de dossier
+2005-2251(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2251(IT)I
+ENTRE :
+NANCY MUNRO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel de David Munro (2005-2252(IT)I) le 8 février et le 17 mai 2006, à Calgary (Alberta)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Avocat de l'appelante : Me David Stuart
+Avocate de l'intimée : Me Marla Teeling
+JUGEMENT
+L'appel de la nouvelle cotisation interjeté en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 est admis et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de mai 2006.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 1er jour de juin 2006.
+Yves Bellefeuille, réviseur
+Dossier : 2005-2252(IT)I
+ENTRE :
+DAVID MUNRO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel de Nancy Munro (2005-2251(IT)I) le 8 février et le 17 mai 2006, à Calgary (Alberta)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Avocat de l'appelant : Me David Stuart
+Avocate de l'intimée : Me Marla Teeling
+JUGEMENT
+L'appel de la nouvelle cotisation interjeté en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 est admis et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de mai 2006.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 1er jour de juin 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI294
+Date : 20060523
+Dossier : 2005-2251(IT)I
+ENTRE :
+NANCY MUNRO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2005-2252(IT)I
+ET ENTRE :
+DAVID MUNRO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Les présents appels ont été entendus ensemble, sur preuve commune, à Calgary (Alberta) le 8 février et le 17 mai 2006. L'évaluateur des appelants, Randolph Peters, bachelier en éducation, a témoigné. Rien ne prouve que M. Peters soit un évaluateur agréé. L'évaluateur de l'intimée, Robert Kotchon, membre agréé de l'Institut canadien des évaluateurs (A.A.C.I.), a témoigné. L'évaluateur de l'intimée a été d'abord appelé à témoigner par l'avocat des appelants et ensuite, il a été appelé à témoigner par l'avocat de l'intimée en contre-preuve. Il n'a pas été demandé à la Cour d'autoriser l'un ou l'autre de ces témoins à donner un témoignage d'expert en ce qui a trait au bien en cause.
+[2] La question en cause est la valeur de 4 acres de terrain situées à l'ouest de Calgary et au nord-est de Cochrane (Alberta) sur lesquelles la résidence des appelants était située au moment de la vente de leur maison, de leur étable, de leur manège couvert et de leur quart de section dont la désignation est NW 8, 26-3-W5th, dans le district municipal de Rocky View, le 15 janvier 1999, pour 2 425 000 $.
+[3] L'évaluateur des appelants est parvenu à une valeur de 170 000 $ composée de :
+4 acres à 30 000 $ l'acre
+120 000 $
+Valeur contributive des services publics et des commodités
+50 000 $
+Total
+170 000 $
+(Voir la page 17 du rapport.)
+La valeur selon l'évaluateur de l'intimée était :
+4 acres à 26 225 $ l'acre
+106 900 $
+Coût non amorti des améliorations du site
+13 100 $
+Total
+120 000 $
+[4] Les détails entourant la vente elle-même se trouvent aux paragraphes 12 à 16 de la réponse à l'avis d'appel pour l'appel n ° 2005-2251(IT)I. Ils sont ainsi libellés :
+[TRADUCTION]
+12. En établissant et en ratifiant les nouvelles cotisations d'impôt de l'appelante, le ministre s'est basé sur les mêmes hypothèses de fait, à savoir :
+a) en 1991, l'appelante et son époux ont acheté le bien dont la désignation est NE ¼-8-26-3 W5, situé près de Cochrane (Alberta) (le « bien de Cochrane » );
+b) l'appelante et son époux avaient chacun un intérêt de 50 % dans le bien de Cochrane;
+c) la superficie du bien de Cochrane était de 158 acres et il comprenait une résidence, une étable et un manège couvert;
+d) l'appelante et son époux ont acheté le bien de Cochrane au coût de 1 167 209,08 $;
+e) le bien de Cochrane a été vendu le 15 janvier 1999;
+f) le produit total de la vente du bien de Cochrane était de 2 600 000 $;
+g) le contrat de vente du bien de Cochrane répartissait le prix de vente de la façon suivante :
+Résidence et 2 acres
+625 000 $
+Étable principale
+600 000 $
+Manège couvert
+600 000 $
+Terrain
+600 000 $
+Outils, clôture, maison mobile, équipement, appareils, etc.
+175 000 $
+Total
+2 600 000 $
+h) l'appelante et son époux ont obtenu de l'argent comptant et un terrain en contrepartie du bien de Cochrane;
+i) le terrain obtenu en contrepartie du bien de Cochrane a été vendu et, par la suite, l'appelante et son époux ont acheté un bien-fonds près de Airdrie, en Alberta;
+j) les règles relatives aux biens de remplacement énoncées à l'article 44 de la Loi s'appliquent lorsqu'on détermine les 50 % de la partie du gain qui appartiennent à l'appelante à l'issue de la vente du bien de Cochrane;
+k) en plus du produit de la vente de la résidence principale et de 2 acres, qui était de 625 000 $ comme énoncé à l'alinéa 12(g) ci-dessus, l'appelante avait besoin, pour l'usage de la résidence principale du bien de Cochrane, de 2 acres supplémentaires;
+l) du produit de la vente attribué au terrain, soit 600 000 $ comme énoncé à l'alinéa 12(g) ci-dessus, au maximum 7 594,94 $, soit 2 acres au coût de 3 797,47 $ l'acre, sont attribuables à la résidence principale;
+m) dans le calcul du gain en capital découlant de la vente du bien de Cochrane, la répartition du produit de la vente du terrain, soit 600 000 $, est la suivante :
+Part de la résidence principale
+(2 acres à 3 797,47 $ l'acre)
+7 594,94 $
+Reste : part non liée à la résidence principale
+592 405,06 $
+Total
+600 000 $
+n) au maximum quatre acres de terrain étaient nécessaires pour l'usage de la résidence principale du bien de Cochrane;
+B. POINTS EN LITIGE
+13. La question à trancher est de savoir si, du produit de la vente attribué au terrain, soit 600 000 $, un montant de plus de 7 594,94 $ peut être attribué à la partie du bien de Cochrane qui constitue la résidence principale et, si c'est le cas, quel est le montant qui peut être attribué.
+C. DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+14. L'intimée se fonde sur les articles 3, 13, 38, 39, 40, 44, 53, 54 et 110.6 et sur le paragraphe 248(1) de la Loi telle que modifiée pour l'année d'imposition 1999.
+15. Elle soutient que, du produit de la vente attribué au terrain, soit 600 000 $ comme énoncé à l'alinéa 12(g) ci-dessus, au maximum 7 594,94 $, soit 2 acres au coût de 3 797,47 $ l'acre, sont attribuables à la résidence principale.
+16. Elle soutient que l'appelante avait un gain en capital imposable pour le terrain du bien de Cochrane d'au moins 108 702,53 $ comme énoncé au paragraphe 8 ci-dessus; ce montant avait été établi selon les articles 38, 39, 40, 44, 53 et 54 de la Loi et avait été inclus dans le revenu selon l'article 3 de la Loi.
+[5] M. Peters se base entièrement sur le bien comparable n ° 8 qu'il a examiné. De son témoignage, la Cour conclut qu'il n'a physiquement inspecté aucun des 7 autres prétendus biens comparables. Il les a plutôt simplement tirés d'une recherche informatique sur les ventes de terrains dans la région de Cochrane. M. Kotchon a physiquement inspecté tous les biens comparables proposés par les deux parties. Il a également fait une recherche sur le transfert du bien comparable n ° 8, qui était un transfert de 4,25 acres. Ce chiffre réduit le calcul de M. Peters sur la superficie du terrain à environ 28 235 $ l'acre. Il en résulte que la différence de la valeur du terrain selon les experts n'est que de 2 010 $ l'acre.
+[6] La différence principale entre les parties porte sur les « services publics et commodités » qui existaient au moment de la vente. Ceux-ci incluaient l'électricité, le gaz et un chemin goudronné de la route à la maison, ainsi qu'un aménagement paysager sur le site fait de gazon, de buissons et d'arbres. M. Peters a physiquement inspecté le site et le bien comparable n ° 8. Il a obtenu son évaluation en se fondant sur le manuel publié par Marshall & Swift. Dès la réception de cette évaluation, M. Kotchon a inspecté les améliorations en question à partir de la route, mais il ne s'est rendu ni sur les lieux du bien, ni sur les lieux du bien comparable n ° 8. M. Kotchon a ensuite augmenté le montant de son évaluation de 13 100 $ dans son rapport d'évaluation pour le coût non amorti de ces « améliorations du site » . Ni l'un ni l'autre n'a témoigné qu'il avait en fait contacté les services de gaz et d'électricité, des entrepreneurs en plomberie ou des paysagistes pour ces calculs.
+[7] Ces améliorations du site ont une valeur, mais un nouvel acquéreur pourrait ne pas vouloir l'aménagement paysager qu'il a acheté. Néanmoins, les améliorations aux systèmes de gaz, d'électricité et d'égouts ont assurément une valeur durable. Il est toutefois certain que le service d'égouts a une durée de vie limitée sur un terrain rural.
+[8] La Cour accepte l'évaluation de M. Kotchon des améliorations du terrain sur la base de l'analyse au paragraphe [7] ci-dessus et parce qu'aucune évaluation de l'aménagement paysager faite par un paysagiste n'a été présentée en preuve. Il s'ensuit que j'accepte que la valeur des améliorations est de 13 100 $, comme établi par l'évaluateur de l'intimée.
+[9] Selon l'expert des appelants, le site en cause a une vue orientée vers le sud et l'ouest. C'est une vue qui a une valeur dans la région de Cochrane. Il a également témoigné que le bien comparable n ° 8 était semblable à cet égard. Il n'y a pas de preuve suffisante par rapport à la vue des autres biens comparables, qui sont tous situés dans une région de hautes montagnes vallonnées et de profondes vallées autour de la rivière Bow. Pour cette raison, la Cour ajoute à la « juste valeur marchande révisée » de M. Kotchon les calculs suivants :
+2 010 $
+x
+4
+8 040 $
+À la dernière page de son rapport, il établit la valeur en litige de la façon suivante :
+120 000 $
++
+8 040 $
+128 040 $
+[10] L'appel est admis et la présente affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que la valeur du terrain et des améliorations du site de la résidence principale était de 128 040 $ le 15 janvier 1999.
+Signé à Ottawa (Ontario), ce 24e jour de mai 2006.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 1er jour de juin 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2006CCI294
+N ° DU DOSSIER DE LA COUR :
+2005-2251(IT)I et 2005-2252(IT)I
+INTITULÉ DE LA CAUSE :
+NANCY MUNRO ET SA MAJESTÉ LA REINE et DAVID MUNRO ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Calgary (Alberta)
+DATE DE L'AUDIENCE :
+le 8 février et le 17 mai 2006
+MOTIFS DU JUGEMENTS PAR :
+L'honorable juge D. W. Beaubier
+DATE DU JUGEMENT :
+le 24 mai 2006
+COMPARUTIONS :
+Avocat de l'appelant :
+Me David Stuart
+Avocate de l'intimée :
+Me Marla Teeling
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Me David Stuart
+Étude :
+Meyers Norris Penny LLP
+Calgary (Alberta)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

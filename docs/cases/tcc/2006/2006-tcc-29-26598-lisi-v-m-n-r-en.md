@@ -1,0 +1,285 @@
+---
+title: "Lisi v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26598/index.do"
+last_modified: "2006-02-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 29"
+citation2: ""
+neutral_citation: "2006 TCC 29"
+decision_date: "2006-02-28"
+language: "en"
+item_id: "26598"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3554
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:19:03.192000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "76d6ae27fa983972629906ba4ca9e1895461403c667a67f925f574cba2225cc4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lisi v. M.N.R.
+
+- Citation: 2006 TCC 29
+- Decision date: 2006-02-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3554, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lisi v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-28
+Neutral citation
+2006 TCC 29
+File numbers
+2005-895(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-895(EI)
+BETWEEN:
+MASSIMO LISI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 17 and 18, 2005, at Montreal, Quebec
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Stephan Fuchs
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Montreal, Québec, this 28th day of February 2006.
+"S.J. Savoie"
+Savoie D.J.
+Citation: 2006TCC29
+Date: 20060228
+Docket: 2005-895(EI)
+BETWEEN:
+MASSIMO LISI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Savoie, D.J.
+[1] This appeal was heard at Montreal, Quebec, on October 17 and 18, 2005.
+[2] This is an appeal from a decision of the Minister of National Revenue (the "Minister") wherein he informed the Appellant that while he was working for 9078-8134 Quebec Inc. (the Payor) from January 5 to May 15, 2004, the period under review, his employment was not insurable.
+[3] In reaching his decision, the Minister relied on the following assumptions of fact:
+(a) the Payor was incorporated on June 17, 1999;
+(b) the Payor was operating a beauty salon under the name of "Tête en Folie";
+(c) the Payor employed three hairdressers;
+(d) the Appellant claimed that he was the manager of the Payor during the disputed period while, in fact, he did not work for the Payor;
+(e) during the disputed period, the Appellant never received a salary from the Payor;
+(f) the Appellant was operating an investigation and security business in the same premises as the Payor;
+(g) on May 17, 2004, the Payor issued a record of employment to the Appellant, for the period beginning on January 5, 2004 and ending on May 15, 2004, with an alleged earnings of $21,600.00 and an (sic) total of alleged insurable hours of 1200;
+(h) the record of employment does not reflect the reality concerning the employment, the period of work, the hours worked and the salary earned by the Appellant.
+[4] The Appellant ignored the assumption of fact the Minister set out in paragraph 5(a) of the Reply to the Notice of Appeal, admitted those set out in paragraphs (b), (c) and (e) and denied those set out in paragraphs (d), (f), (g) and (h).
+[5] Jennifer Bryant was a hairdresser at the Payor's place of business. She was there at all times throughout the disputed period. The Appellant was introduced to her as the manager of the Payor.
+[6] She testified that the Appellant was always there, at the Payor's place of business, Monday to Saturday. He did, according to her, "pretty much everything".
+[7] Under the Payor's direction, Ms. Bryant prepared the Record of Employment of the Appellant (Exhibit A-3), which Ms. Galati signed on May 17, 2004. This document established the period of employment of the Appellant from January 5 to May 15, 2004, his insurable hours at 1,200 and his total insurable remuneration at $21,600.00.
+[8] Amanda Reed, another hairdresser, testified with respect to the duties of the Appellant. Her testimony supports that of Jennifer Bryant. She also stated that the Appellant was introduced to her as the manager of the Payor's business. She stated that the Appellant took care of all appointments, handled the cash, took all the telephone calls and generally performed a great deal of tasks, described by the Appellant in his affidavit received in evidence as Exhibit R-5.
+[9] For the purpose of this exercise, it will be useful to reproduce hereunder Exhibit R-5:
+AFFIDAVIT
+I, the undersigned, MASSIMO LISI, domiciled and residing at 26 Sauvé, in Châteauguay, province of Québec, district of Beauharnois, duly sworn, declare the following:
+1. I was hired as the manager of the beauty salon "La Tête en Folie" and commenced on January 5th 2004;
+2. I was dismissed on May 15th 2004;
+3. I managed a staff of three and my daily tasks included:
+· Opening salon doors;
+· Unlocking office and tanning rooms;
+· Making the coffee;
+· Turning on the radio;
+· Checking answering machine for messages;
+· Preparing cash for the day;
+· Picking up the mail at the main mailbox;
+· Answering the telephone and taking appointments for the hairdressers;
+· Folding the towels;
+· Washing the bowls, brushes, rollers, streak papers;
+· Sweeping and washing the floors;
+· Cleaning the mirrors and hairdressing stations;
+· Washing the sinks;
+· Cleaning tanning bed after each client;
+· Washing the ashtrays;
+· Emptying the garbage cans and taking them out;
+· Closing the cash and Interac [sic];
+· Balancing the cash;
+· Filling in the hours in the payroll book for employees;
+· Making sure all the hairdressing equipment was unplugged;
+· Locking back door, office, tanning rooms and supply cupboard;
+· Closing salon doors;
+4. My weekly tasks included:
+· Calculating and noting weekly sales;
+· Filling out pay slips for employees;
+· Faxing documents;
+· Placing orders for hairdressing products;
+· Talking and meeting with representatives from different companies;
+· Inventory;
+· Consultations for hair extensions;
+· Picking up products in Montreal for the salon;
+· Purchasing supplies on a regular basis at Couche-Tard, Jean-Coutu and Bureau en Gros;
+· Filling shampoo and conditioner bottles;
+· Decorating and removal of decorations for all of the holidays;
+· Cleaning and stocking shelves;
+5. My hours at work as a manager were:
+· Monday: 9:00 a.m. to 5:00 p.m.;
+· Tuesday and Wednesday: 9:00 a.m. to 6:00 p.m.;
+· Thursday and Friday: 9:00 a.m. to 9:00 p.m.;
+· Saturday: 8:00 to 5:00 p.m.
+6. La Tête en Folie is located at 233 St-Jean-Baptiste boulevard, door #92, in Châteauguay, province of Quebec;
+7. I possessed a complete set of keys for this salon;
+8. My salary at La Tête en Folie was $18.00 per hour or $1,080.00 per week;
+9. The president of La Tête en Folie is Teresa Galati;
+10. Teresa Galati was seldom at her salon;
+11. Teresa Galati is publicly slandering me by stating that I stole from her;
+12. Teresa Galati is making false reports concerning G.S.T. and Q.S.T.;
+13. All the allegations set out in the foregoing Affidavit are true;
+AND I HAVE SIGNED:
+___________________________
+MASSIMO LISI
+Solemnly affirmed before me
+at Châteauguay, this 23rd day of
+July 2004
+______________________________#120776
+Filomena Petosa
+Commissioner of oaths for all judicial
+districts of the province of Québec
+[10] The Appellant testified that he was hired by Ms. Galati at a New Year's Eve party as manager and worked full time for the Payor from January 5 to May 29, 2004. Ms. Galati, on behalf of the Payor, promised him a salary of $18.00 per hour. His testimony established that he worked a total of 60 hours per week. He put forward a claim for 1,200 insurable hours and a total of $21,600.00 as insurable earnings. The Appellant stated that he frequently made demands of the Payor for payment of his salary and Ms. Galati kept promising that his salary would be paid shortly. Catherine Hillcoat, the Appellant's wife, also stated that she approached Ms. Galati on numerous occasions asking her to pay her husband's salary to which Ms. Galati told her: "Don't worry, things will be taken care of soon". The work schedule of the Appellant was as follows:
+Monday: 9:00 a.m. to 6:00 p.m.;
+Tuesday: 9:00 a.m. to 6:00 p.m.;
+Wednesday: 9:00 a.m. to 6:00 p.m.;
+Thursday: 9:00 a.m. to 6:00 p.m.;
+Friday: 9:00 a.m. to 6:00 p.m.;
+Saturday: 9:00 a.m. to 5:00 p.m.
+[11] The duties of the Appellant are as described in Exhibit R-5.
+[12] The Appellant testified that although a security business was registered, it never became operational. The Appellant never saw a permit, the business had one or two clients only, in 2003; the business was abandoned. It was never bonded. The Appellant never saw one single client in that agency. The Appellant was present with Jennifer Bryant when the Payor, Ms. Galati, signed his record of employment.
+[13] Exhibit A-7 is a letter signed by Ms. Galati establishing that the Appellant held employment with the Payor as of January 14, 2003 at a salary of $36,000.00 per year, as manager. The Appellant followed the rules set down by Ms. Galati, the sole shareholder of the Payor. The Appellant was the only employee who was not paid a salary. The others were hairdressers, employed under a government subsidized program whereby they received 60% of their salary from the Payor and the remaining portion from the Quebecgovernment.
+[14] Other witnesses have established that the Appellant was present at the business premises of the Payor such as Zahra Khozouei. She was also a hairdresser for the Payor during the disputed period. She was not familiar with the duties of the Appellant but stated that he was there every day. Another hairdresser, Valerie Ménard, who rented her chair from the Payor, stated that sometimes the Appellant would work out of the back office at the investigation agency. She also stated that the Appellant would help her in her work as a hairdresser.
+[15] With respect to the work duties of the Appellant and his attendance at the Payor's place of business, this Court heard the testimony of Ludwig Kemp, Maria Fiocco and Ms. Theresa Galati. They testified on behalf of the Respondent. Their testimony challenged the testimony of the hairdressers on that point. However, I have found their evidence totally unreliable.
+[16] Ms. Galati made allegations that the Appellant had marital problems. She stated that he had started an affair with one of the hairdressers. This was very strongly challenged by the Appellant and his wife. This Court finds that those allegations are totally unfounded. Ms. Galati stated that she does not recall signing Exhibit A-7, the letter confirming the employment of the Appellant and his salary of $36,000.00 per year, but states that she did sign something for the Appellant at a time when he was about to lose his home.
+[17] With respect to the record of employment of the Appellant, she claimed that she signed it in blank, when she was sick. Then, she stated that she saw the document in question for the first time on May 29, 2004. However, both the Appellant and Jennifer Bryant testified that Ms. Galati signed the record of employment in their presence. With respect to the investigation agency, Ms. Galati admitted that the agency made no money and had only two or three clients.
+[18] Confronted with the contradictory testimony of Catherine Hillcoat, the Appellant's wife, and of the Appellant regarding the offer of employment she made to the Appellant on New Year's Eve, she simply stated that they lied.
+[19] Both Jennifer Bryant and Amanda Reed testified that they had no keys to the hairdressing salon, which supported the Appellant's testimony that he opened up the business. To this, Ms. Galati stated that they both lied. With respect to the record of employment of the Appellant which Jennifer Bryant stated she prepared for her signature, Ms. Galati said that Jennifer Bryant was lying. All employees/hairdressers stated under oath that they were paid in cash by the Payor while Ms. Galati testified that all three were lying. She said that Zahra Khozouei lied when she stated that she was paid $150.00 per week in cash. Ms. Galati was at a loss to explain why she had described the Appellant as an "employee" in a statement she made to Mr. M. St-Pierre, who investigated the matter of a criminal proceeding initiated by a complaint that Jennifer Bryant and the Appellant had been caught stealing hairdressing materials of the Payor.
+[20] Ms. Galati concluded her testimony by stating that the statement of the Appellant and his wife to the effect that they had both made demands for payment of the Appellant's salary, was a lie.
+[21] Ms. Galati became aware that some employees found her business practices questionable or even illegal. She became apprehensive and on May 29, 2004, Ms. Galati terminated the employment of Jennifer Bryant saying to her that she preferred to "bring her down" rather than herself being "brought down" by a bad report to the government.
+[22] Some of the witnesses who testified on behalf of the Respondent have challenged the evidence presented in support of the Appellant's contention that he was fully employed, was constantly at his place of employment with the Payor and carried the functions and duties he described in his affidavit received in evidence as Exhibit R-5. I will briefly refer to the testimony of some of those witnesses.
+[23] Witnesses Ludwig Kemp, Maria Fiocco and Theresa Galati, in particular, testified on matters about which they had limited or no knowledge, such as the presence and activities of the Appellant at the Payor's place of business, because their own presence at that location was infrequent, according to otherwise credible evidence. Their testimony became therefore suspect.
+[24] Maria Fiocco is the Payor's daughter. While her testimony is understandably very supportive of her mother, it became clear at the hearing that her testimony was not unbiased and forthright. Indeed, her claim that the Appellant was seldom at the Payor's premises and her challenge of the Appellant's duties performed, as described in Exhibit R-5, were contradicted by a number of independent and credible witnesses. Furthermore, her claim that the Appellant had an affair with one of the hairdressers was unsupported by the rest of the evidence and was strongly denied and contradicted by the testimony of the Appellant and his wife in their rebuttal evidence.
+[25] The testimony of Ludwig Kemp was very contradictory and otherwise unsupported by the rest of the evidence. On the whole, his testimony is totally biased and, as a witness, this Court has found him untrustworthy.
+[26] The testimony of Ms. Galati, regrettably, has to suffer the same fate. There was credible and corroborated evidence heard that she exploited her employees, used questionable business practices and generally was demeaning and degrading towards them.
+[27] The evidence also established that Ms. Galati often challenged her employees' legitimate claims for employment benefits. She even laid criminal charges against the Appellant and caused a criminal investigation to be launched against him. The Appellant, however, was vindicated by the Quebec Municipal Court, which dismissed the charges. Furthermore, the Cour du Québec awarded the Appellant's claim for unpaid wages and related benefits in a judgment, Exhibit A-1, signed by Judge Marie-Andrée Villeneuve on May 10, 2005, for the amount of $23,701.56.
+[28] The issue to be determined is whether the Appellant held insurable employment under the Employment Insurance Act. The relevant provision is found at paragraph 5(1)(a) of that Act. It reads as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+...
+[29] The above paragraph provides a definition of insurable employment. It is employment held under a contract of service. But, the law does not define such a contract.
+[30] A contract of service is a concept under the civil law found in the Quebec Civil Code. Therefore, the nature of the contract under study must be determined in accordance with the provisions of the Civil Code.
+[31] In a paper entitled "Contract of Employment": "Why Wiebe Door Services Ltd. does not apply in Quebec and What should replace it?", published by l'Association de planification fiscale et financière (APFF) and the federal Department of Justice in the Second recueil d'études en fiscalité from the series l'Harmonisation de la législation fédérale avec le droit civil québécois et le bijuridisme canadien, Judge Pierre Archambault of this Court describes, in regard to all employment periods subsequent to May 30, 2001 the approach to be taken by the courts since June 1, 2001, when section 8.1 of the Interpretation Act, R.S.C. (1985), Ch. I-21, as amended, came into effect when dealing with an issue such as the one before the Court.
+[32] In that regard, it will be useful to follow the approach recommended by Judge Archambault and his reasoning set out in the above paper. I have quoted hereunder a lengthy excerpt from that paper, which reads as follows:
+Property and Civil Rights
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province's rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+[Emphasis added]
+[33] It is useful to reproduce the relevant provisions of the Civil Code of Québec, which will serve to determine whether an employment contract, as distinguished from a contract of enterprise, exists:
+Contract of employment
+2085 A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+2086 A contract of employment is for a fixed term or an indeterminate term.
+Contract of enterprise or for services
+2098 A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client, or to provide a service, for a price which the client binds himself to pay.
+2099 The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[34] The provisions of the Civil Code of Québec reproduced above establish three essential conditions for the existence of an employment contract: (1) the employee's prestation in the form of work; (2) remuneration by the employer for that work; and (3) a relationship of subordination. The significant distinction between a contract of service and a contract of employment is the existence of a relationship of subordination - the fact that the employer has a power of direction or control over the worker.
+[35] Scholarly writers have reflected on the concept of "power of direction or control" and its flip side, subordination. Here is what Robert P. Gagnon wrote in Le droit du travail du Québec, 5th ed. (Cowansville: Yvon Blais, 2003):
+(c) Subordination
+90 - Distinguishing factor - The most significant feature characterizing a contract of employment is the subordination of the employee to the person for whom he works. It is by this feature that a contract of employment can be distinguished from other onerous contracts which also involve the performance of work for the benefit of another person for a price, such as a contract of enterprise or a contract for services under articles 2098 ff C.C.Q. Thus, while the contractor or the provider of services "is free", under article 2099 C.C.Q., "to choose the means of performing the contract" and while between the contractor or the provider of services and the client "no relationship of subordination exists . . . in respect of such performance," it is a characteristic of a contract of employment, subject to its terms and conditions, that the employee personally performs the work agreed upon under the employer's direction and within the framework established by the employer.
+. . .
+92 - Concept - Historically, the civil law first developed a so-called strict or classical concept of legal subordination that was used as a test for the application of the principle of the civil liability of a principal for injury caused by the fault of his agents and servants in the performance of their duties (art. 1054 C.C.L.C.; art. 1463 C.C.Q.). This classical legal subordination was characterized by the immediate control exercised by the employer over the performance of the employee's work in respect of its nature and the means of performance. Gradually, it was relaxed, giving rise to the concept of legal subordination in a broad sense. The diversification and specialization of occupations and work techniques often mean that the employer cannot realistically dictate regarding, or even directly supervise, the performance of the work. Thus, subordination has come to be equated with the power given a person, accordingly recognized as the employer, of determining the work to be done, overseeing its performance and controlling it. From the opposite perspective, an employee is a person who agrees to be integrated into the operating environment of a business so that it may receive the benefit of his work. In practice, one looks for a number of indicia of supervision that may, however, vary depending on the context: compulsory attendance at a workplace, the fairly regular assignment of work, imposition of rules of conduct or behaviour, requirement of activity reports, control over the quantity or quality of the work done, and so on. Work in the home does not preclude this sort of integration into the business.
+[36] It is incumbent upon this Court, mandated to determine the type of contract binding the parties in Quebec, to follow the approach recommended by Judge Archambault, in the above paper which he has followed in the case of Vaillancourt c. Canada (ministre du Revenu national - M.R.N.), [2004] A.C.I. no 685 where he wrote the following:
+In my opinion, the rules governing the contract of employment in Quebec law are not identical to those in common law and as a result, it is not appropriate to apply common law decisions such as Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553 (F.C.A.) and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, 2001 SCC 59 [For a thorough summary of the reasons justifying this conclusion, see the article on Wiebe Door, supra.] In Quebec, a court has no other choice but to decide whether a relationship of subordination exists or not to decide whether a contract is a contract of employment or a contract for service.
+The approach to take is the one adopted by, among others, Létourneau J. of the Federal Court of Appeal [See also Sauvé v. Canada, [1995] F.C.J. No. 1378 (Q.L.), Lagacé v. Canada, [1994] F.C.J. No. 885 (Q.L.) (F.C.A.), confirming a Tax Court of Canada decision, [1991] T.C.J. No. 945 (Q.L.) and Charbonneau v. Canada , [1996] F.C.J. No. 1337 (Q.L.). It must be noted that the Federal Court of Appeal, in D & J Driveway and Charbonneau did not specifically dismiss the application of Wiebe Door.], who, in D & J Driveway Inc. v. Canada, (2003), 322 N.R. 381, 2003 FCA 453, found that there was no contract of employment by using the provisions of the Civil Code as a basis and, in particular, by noting the absence of a relationship of subordination, a relationship that "is the essential feature of the contract of employment." [See p. 16 of the decision.]
+[37] I have also found useful the reasoning of Judge Dussault of this Court in the case of Lévesque c. Canada (ministre du Revenu national - M.R.N.), [2005] A.C.I. no 183 where he was asked to determine whether there existed a bond of subordination (lien de subordination) between the parties, and wrote the following:
+[translation]
+Moreover, in D & J Driveway Inc. v. Canada, F.C.A., No. A-512-02, November 27, 2003, 322 N.R. 381, [2003] F.C.J. No. 1784 (Q.L.), Létourneau J.A. of the Federal Court of Appeal stated that an employer-employee relationship does not necessarily exist simply because a person who gives out work can control its result. He put the matter as follows at paragraph 9 of the judgment:
+A contract of employment requires the existence of a relationship of subordination between the payer and the employees. The concept of control is the key test used in measuring the extent of the relationship. However, as our brother Décary J.A. said in Charbonneau v. Canada (Minister of National Revenue - M.N.R.), [1996] F.C.J. No. 1337, [1996] 207 N.R. 299, followed in Jaillet v. Canada (Minister of National Revenue - M.N.R.), 2002 FCA 394 (CanLII) , 2002 FCA 394, control of the result and control of the worker should not be confused. At paragraph 10 of the decision, he wrote:
+It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker.
+In the case at bar, is there a relationship of subordination between Ms. St-Jules and Mr. Lévesque enabling us to conclude that a contract of employment exists? Several indicia can be taken into account in ascertaining whether or not a relationship of subordination exists. In Seitz v. Entraide populaire de Lanaudière inc., Court of Québec (Civil Division), No. 705-22-002935-003, November 16, 2001, [2001] Q.J. No. 7635 (QL), Judge Monique Fradette provided a series of indicia that can help determine whether or not subordination exists. She discussed this as follows at paragraphs 60-62 of the judgment:
+In order for there to be an employment contract, the jurisprudence requires the existence of a right of supervision and immediate direction. The mere fact that a person provides general instructions about the way in which the work is performed, or reserves the right to supervise or inspect the work, is not sufficient to convert the agreement into an employment contract.
+A series of indicia developed by the jurisprudence enables courts to determine whether there is a relationship of subordination between the parties.
+The indicia of control include:
+- mandatory presence at a workplace
+- compliance with the work schedule
+- control over the employee's absences on vacations
+- submission of activity reports
+- control over the quantity and quality of work
+- imposition of the methods for performing the work
+- power to sanction the employee's performance
+- source deductions
+- benefits
+- employee status on income tax returns
+- exclusivity of services for employer
+[38] It must be noted that a number of the indicia of supervision, listed above, have been established by the evidence, such as the mandatory presence of the Appellant at the place of business of the Payor, the adherence to a work schedule, the control of the quantity and quality of the work and the work methods to be followed, etc.
+[39] The Minister relied heavily on the absence of documentation by the Appellant to support his claim for insurable employment. Further, a great deal of importance was attributed to the Appellant's failure to take steps to receive proper retribution for his work during the employment period. This, however, was explained by the Appellant at the hearing. His explanation was corroborated by the testimony of his wife. Furthermore, the Appellant, following his period of employment, sought and obtained a favourable judgment from the Cour du Québec, which awarded him his claim for unpaid wages.
+[40] It must be pointed out that the Commission des normes du travail supported the Appellant's claim for unpaid wages, although it had no jurisdiction to adjudicate the matter of the insurability of his employment, and neither did the Cour du Québec, which awarded him his claim for unpaid wages.
+[41] The evidence at the hearing supports the existence of a contract of employment between the Appellant and the Payor. It was established by the testimony of the Appellant and corroborated by the testimony of the Appellant's wife. Although, according to Ms. Galati, this verbal contract did not exist, this Court has rejected her testimony because it lacked credibility.
+[42] The Minister concluded that Ms. Galati could not afford to hire the Appellant, much less pay him the salary he is claiming, when her own salary for 2002 and 2003 was established at $7,600.00 and $7,500.00 respectively. However, that is irrelevant because the period in question is in 2004. Furthermore, the Payor is 9078-8134 Quebec Inc., and not Theresa Galati.
+[43] The claim that the Appellant was operating an investigation and security business was unsupported by the evidence. That business was registered, granted, but for all practical purposes, it never got off the ground, was never licensed or bonded. If it operated at all, which was not established, it was in 2003, clearly outside the period in question.
+[44] This Court had the opportunity to hear witnesses and assess their credibility. Some of the facts that were disclosed at the hearing were not available to the Minister when he made his determination relative to the insurability of the employment of the Appellant.
+[45] Having concluded this exercise as mandated by the Tax Court of Canada Act and the Employment Insurance Act, this Court concludes that the Appellant, during the period in question, held insurable employment as contemplated by section 5(1)(a) of the Act.
+[46] What remains to be determined is the insurable earnings of the Appellant. This is determined in accordance with Part I of the Insurable Earnings and Collection of Premiums Regulations, under the Employment Insurance Act, specifically paragraphs 2(1)(a) and 2(2), which provide as follows:
+2.(1) For the purposes of the definition "insurable earnings" in subsection 2(1) of the Act and for the purposes of these Regulations, the total amount of earnings that an insured person has from insurable employment is
+(a) the total of all amounts, whether wholly or partly pecuniary, received or enjoyed by the insured person that are paid to the person by the person's employer in respect of that employment, and
+...
+(2) For the purposes of this Part, the total amount of earnings that an insured person has from insurable employment includes the portion of any amount of such earnings that remains unpaid because of the employer's bankruptcy, receivership, impending receivership or non-payment of remuneration for which the person has filed a complaint with the federal or provincial labour authorities, except for any unpaid amount that is in respect of overtime or that would have been paid by reason of termination of the employment.
+[47] At the hearing, the Respondent's solicitor expressed the view that if this Court concluded that the Appellant held insurable employment, the Minister would be prepared to concede that the insurable earnings of the Appellant were as determined by the Commission des normes du travail du Québec.
+[48] As was stated above, this Commission had no jurisdiction or mandate to determine the insurability of the Appellant's employment, but, as requested by the Appellant, it adjudicated his claim for unpaid wages.
+[49] Therefore, having concluded that the Appellant held insurable employment during the period in question and in view of the Minister's consent regarding the amount of the Appellant's insurable earnings, this Court determines the insurable earnings in accordance with the above Regulations and the findings of the said Commission as follows:
+The hourly rate is based on the minimum wage scale of $7.30 and $7.45 per hour which prevailed during the relevant period. The Appellant's insurable earnings are in the amount of $10,743.32.
+[50] Consequently, the appeal is allowed and the decision of the Minister is vacated.
+Signed at Montreal, Québec, this 28th day of February 2006.
+"S.J. Savoie"
+Savoie D.J.
+CITATION: 2006TCC29
+COURT FILE NO.: 2005-895(EI)
+STYLE OF CAUSE: MASSIMO LISI AND M.N.R.
+PLACE OF HEARING: Montreal, Québec
+DATE OF HEARING: October 17 and 18, 2005
+REASONS FOR JUDGMENT BY: The Honourable S.J. Savoie, Deputy Judge
+DATE OF JUDGMENT: February 28, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Stephan Fuchs
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Stephan Fuchs
+Firm: Stephan Fuchs
+Châteauguay, Québec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

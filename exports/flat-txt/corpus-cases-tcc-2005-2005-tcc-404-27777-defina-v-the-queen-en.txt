@@ -1,0 +1,157 @@
+Title: Defina v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27777/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-404-27777-defina-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-06-22
+
+# Defina v. The Queen
+
+- Citation: 2005 TCC 404
+- Decision date: 2005-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 265, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Defina v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-22
+Neutral citation
+2005 TCC 404
+File numbers
+2004-1240(IT)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1240(IT)I
+BETWEEN:
+MARIA DEFINA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+MATTHEW CUTRARA,
+Third Party.
+____________________________________________________________________
+Appeals heard on January 31, 2005, at Toronto, Ontario,
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+Counsel for the Appellant:
+Kim B. Larsen
+Counsel for the Respondent:
+John Grant
+For the Third Party:
+The third party himself
+JUDGMENT ON A DETERMINATION OF QUESTIONS
+UNDER SECTION 174 OF THE INCOME TAX ACT
+By Order dated November 1, 2004, Mathew Cutrara was added as a Third Party to the appeal of Maria Defina for the purpose of determining the following questions:
+1. What amounts receivable and/or received by Maria Defina from Mathew Cutrara are to be included by her in computing her income for her 2001 and 2002 taxation years pursuant to paragraph 56(1)(b) of the Income Tax Act?
+2. What amounts paid and/or payable by Mathew Cutrara to Maria Defina in the 2001 and 2002 taxation years are deductible by him in computing his income pursuant to paragraph 60(b) of the Act?
+Upon hearing the evidence of the Appellant and the Third Party; and upon hearing submissions from all three parties;
+It is determined that:
+(a) The answer to question 1 is the amount of $7,200 received by Maria Defina from Matthew Cutrara is to be included by her in computing income in each of the 2001 and 2002 taxation years, pursuant to paragraph 56(1)(b) of the Act; and
+(b) The answer to question 2 is the amount of $7,200 paid by Matthew Cutrara to Maria Defina is to be deductible by him in computing his income in each of the 2001 and 2002 taxation years, pursuant to paragraph 60(b) of the Act.
+The appeals from assessments of tax made under the Act for the 2001 and 2002 taxation years are dismissed.
+Signed at Ottawa, Canada, this 22nd day of June, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+Citation: 2005TCC404
+Date: 20050622
+Docket: 2004-1240(IT)I
+BETWEEN:
+MARIA DEFINA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+MATTHEW CUTRARA,
+Third Party.
+REASONS FOR JUDGMENT
+Sarchuk J.
+[1] This is an application by the Minister of National Revenue made under section 174 of the Income Tax Act for the determination of questions in respect of Maria Defina (Defina) and Matthew Cutrara (Cutrara). The questions to be determined are:
+(a) What amounts receivable and/or received by Maria Defina from Mathew Cutrara are to be included by her in computing her income for her 2001 and 2002 taxation years pursuant to paragraph 56(1)(b) of the Act? and
+(b) What amounts paid and/or payable by Mathew Cutrara to Maria Defina in the 2001 and 2002 taxation years are deductible by him in computing his income pursuant to paragraph 60(b) of the Act?
+Evidence
+[2] Cutrara and Defina were married in 1986. They are the parents of three children, Matthew, Christopher and Briana. By 1996, the marriage relationship had deteriorated and on August 10 of that year, Cutrara moved out of the matrimonial home. A handwritten document captioned "formal separation agreement" was entered into evidence.[1] Cutrara confirmed that it was sworn before a Justice of the Peace on August 29, 1996. The relevant portion of this document reads as follows:
+I, Matthew J. Cutrara … would like to advise Revenue Canada, that effective August 10th/96, I no longer live with my spouse Maria M. Cutrara. …
+The joint ownership of 7606 Netherwood Road, has been given to Maria M. Cutrara on August 19th/96. I, Matthew J. Cutrara will support our three children with payment of $600.00 monthly, with first payment due September 10th/96.
+Cutrara testified that he was under undue emotional stress from the break-up when this document was signed and that he does not view the agreement as valid. He stated he did not want to "go through the aggravation of a lawyer" when he could "do the document" himself. For her part, Defina testified that she considered the 1996 agreement to be legally binding at the time.
+[3] A consent Order of the Ontario Court, Provincial Division dated April 2, 1998, awarded custody of the children to the wife.[2] Paragraph 4 of that Order provided that the existing support deduction was to continue without prejudice to Cutrara's ability to bring an application to vary the support. The copy of this Order tendered as an exhibit is not signed. However, the parties agree that the Order was endorsed by the Court at some point of time. Cutrara further testified that he made the required payments of $600 per month pursuant to the agreement.
+[4] Cutrara and Defina signed a new separation agreement on August 17, 1999 and August 24, 1999, respectively.[3] Both parties were represented by counsel. This agreement makes specific reference to child support, the relevant portions of which read:
+11. CHILD SUPPORT
+The husband and wife acknowledge that:
+(a) there is presently an Order of the Ontario Court (Family Division) in Court File No. 1194/97 requiring the husband to pay to the wife total support for the aforesaid children in the amount of $600 per month;
+(b) there are arrears of support under the aforesaid support Order and that, in consideration of the following, the wife agrees to an Order rescinding any and all such support arrears;
+(c) the parties shall execute the necessary documentation to withdraw the enforcement of the husband's child support obligation from the Family Responsibility Office;
+(d) that the husband's child support obligation, pursuant to the Federal Child Support Guidelines, and based on his 1998 gross income of $29,429.14, is $556 per month;
+(e) the husband and wife have agreed that there is owing by the wife to the husband the sum of $36,000 as at July 9, 1999. Such sum represents a combination of the child support arrears owing by the husband to the wife and the sum owing by the wife to the husband with respect to the sale proceeds received by her from the former matrimonial home.
+In lieu of the wife paying the lump of of (sic) $36,000 to the husband and the husband making child support payments to the wife, the parties agree as follows:
+(a) commencing July 9th, 1999, the husband shall pay to the wife child support in the amount of $600 per month. The husband shall not make the $600 monthly payment to the wife but instead his support obligation will be effected by the amount due and owing by the wife to the husband being reduced at the rate of $600 per month;
+(b) Upon the total sum of $36,000 being repaid by the wife to the husband in the aforesaid manner, the husband's child support obligation shall be set in accordance with the provisions of the Federal Child support Guidelines;
+(c) …
+Defina confirmed that the first $600 “payment” to reduce the $36,000 amount was made July 9, 1999 and that the arrangement ended 60 payments later in June 2004. It is not disputed that Cutrara made no other support payments during that time period.
+Appellant's position
+[5] Counsel for Defina argued that changing the series of payments to a lump sum payment created a new commencement day, a result of which any payments made thereafter are governed by the new provisions of the Income Tax Act. More specifically, counsel referred to the fact that as a result of the agreement, the proceeds of the sale of the matrimonial home by Defina were now to be taken into account and therefore, the child support obligations were suspended to permit her to repay Cutrara for his share.
+[6] Reference was made to Pelletier v. Canada[4] in which case the husband, by agreement was to pay the Appellant $150 per week as maintenance. A subsequent agreement was executed and it indicated that the amount of maintenance would not be paid for a period of time because the Appellant was paying her husband an amount reflecting his equity in the mobile home they had jointly owned. In Pelletier, the Court concluded that its analysis "leads fairly conclusively to a firm inference that the purpose of the supplementary agreement from the outset was to avert the periodic alimony completely to replace it with the lump sum which half the price of the mobile home would represent". Thus, Mrs. Pelletier did not receive “alimony or other allowance payable on a periodic basis” in 1990. Counsel for Defina, relying on this decision, argued that the nature of the agreement between her and Cutrara provides for the transformation of what in other circumstances could have been an obligation to make periodic payments into an obligation to pay a lump sum. For that reason, the amounts in issue should not be included in computing Defina's income for her 2001 and 2002 taxation years.
+Respondent's position
+[7] Counsel for the Respondent submitted that the evidence does not support the Appellant's position that the amounts in issue are tax-free to the Appellant and not deductible by Cutrara. More specifically, there was no new commencement date and second, the amount in issue cannot be considered to be a lump sum payment within the meaning of the Act.
+Conclusion
+[8] I am unable to accept the Appellant’s position that the separation agreement made on June 21, 1999 was intended to and did transform an obligation to make periodic payments into an obligation to pay a lump sum. Pelletier, for its part provides no assistance to the Appellant since the agreement in that case was clearly made to avert the periodic alimony completely, and to replace it with a lump sum that would be payment for the Appellant’s husband’s share of the mobile home.
+[9] In an earlier decision, I observed:[5]
+7 It is generally accepted that periodic payments which have fallen into arrears and were accumulating and subsequently paid in lump sum are nonetheless deductible in the hands of the payor and in appropriate circumstances, taxable in the hands of the recipient. This is consistent with the position set out by the Federal Court of Appeal in The Queen v. Sills that "the payments do not change in character merely because they are not paid on time". On the other hand, where a lump sum in an amount substantially less than the amount owing is agreed to be paid so as to release the payor from any future obligations, the character of the payments is altered and the lump sum payment is not deductible.
+8 In the present appeal, there is no question that the amount of $16,095 to be paid "as arrears of spousal support" did not represent the full amount of arrears due and owing at that particular time. There is equally no question that the amount agreed to formed part of the consideration paid so as to release the Appellant from any future obligations. …
+{Emphasis added}
+In such a case obviously, the very character of the payments is altered and thus the lump sum payments in such circumstances are not deductible.
+[10] I am unable to read the agreement in issue as one which extinguished either the present or future obligations of Cutrara to pay periodic alimony. In fact, I must note that both parties were represented by counsel and that the language they used and agreed upon was selected very carefully so as to ensure that it did not have the effect of creating a lump sum payment situation. What we have in this particular case is an offset between the two amounts, i.e. Defina paid the amount of $600 to her husband and he in turn, paid her the $600 required pursuant to the maintenance agreement. The fact that they did not exchange cheques is, in my view, irrelevant since the intention to use the offset mechanism was clear on the face of it.
+[11] Accordingly, I have concluded that:
+(a) the child support amounts of $7,200 received by Maria Defina from Matthew Cutrara in each of 2001 and 2002 are to be included by her in computing her income for those years pursuant to paragraph 56(1)(b) of the Act; and
+(b) the child support amounts of $7,200 paid by Matthew Cutrara to Maria Defina in each of 2001 and 2002 are deductible by him in computing his income pursuant to paragraph 60(b) of the Act.
+[12] The appeals are dismissed.
+Signed at Ottawa, Canada, this 22nd day of June, 2005.
+“A.A. Sarchuk”
+Sarchuk J.
+CITATION:
+2005TCC404
+COURT FILE NO.:
+2004-1240(IT)I
+STYLE OF CAUSE:
+Maria Defina and Her Majesty the Queen and Matthew Cutrara
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+January 31, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+June 22, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Kim B. Larsen
+Counsel for the Respondent:
+John Grant
+For the Third Party:
+The third party himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Kim B. Larsen
+Firm:
+Kim B. Larsen
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1, Tab 8 of the Joint Book of Documents.
+[2] Exhibit A-2, Tab 11 of the Joint Book of Documents.
+[3] Exhibit A-3, Tab 13, of the Joint Book of Documents.
+[4] [1994] T.C.J. No. 200.
+[5] Glazier v. Canada, 2003TCC2.

@@ -1,0 +1,199 @@
+---
+title: "Bleau c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27119/index.do"
+last_modified: "2005-09-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 36"
+citation2: ""
+neutral_citation: "2006 CCI 36"
+decision_date: "2005-09-07"
+language: "fr"
+item_id: "27119"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 923
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:33:05.461000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c84b78e3c5f9024be0f5597cc0a9ff0def578d64ae40cb7ed1c3d14c62cdf96b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bleau c. La Reine
+
+- Citation: 2006 CCI 36
+- Decision date: 2005-09-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 923, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bleau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-07
+Référence neutre
+2006 CCI 36
+Numéro de dossier
+2002-4525(IT)G
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4525(IT)G
+ENTRE :
+HUGUETTE BLEAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 22 août 2005, à Montréal (Québec).
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Avocat de l'appelante :
+Me Yves Ouellette
+Avocate de l'intimée :
+Me Marie-Aimée Cantin
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu du paragraphe 160(1) de la Loi de l'impôt sur le revenu, dont l'avis porte le numéro 30092 et est daté du 28 juin 2001, est rejeté sans dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Ontario, ce 16e jour de janvier 2006.
+« Pierre Archambault »
+Juge Archambault
+Référence : 2006CCI36
+Date : 20060116
+Dossier : 2002-4525(IT)G
+ENTRE :
+HUGUETTE BLEAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] Madame Huguette Bleau interjette appel d'une cotisation établie le 28 juin 2001 par le ministre du Revenu national (ministre) selon le paragraphe 160(1) de la Loi de l'impôt sur le revenu (Loi). Le ministre tient madame Bleau solidairement responsable de la dette fiscale de la société 2525-6421 Québec Inc. (6421) à l'égard de l'année d'imposition 1990. La cotisation du ministre concernant 6421 a été établie le 13 mars 1995, le montant d'impôt exigé étant de 39 368 $ et les intérêts s'élevant à environ 63 416 $. Le montant de cette dette fiscale n'est pas en soi en litige. La cotisation concernant madame Bleau découle du transfert en 1992 d'une somme de 53 244 $ par 6421 à madame Bleau. À la date de cette cotisation, le montant de la dette fiscale de 6421 s'élevait à 174 331 $. Madame Bleau soutient que la cotisation la concernant est mal fondée pour plusieurs motifs, dont le plus important est que la dette fiscale de 6421 était éteinte lors de la cotisation du 28 juin 2001 en raison de la prescription prévue à l'article 32 de la Loi sur la responsabilité civile de l'état et le contentieux administratif (Loi sur la responsabilité civile), L.R.C. 1985, ch. C-50. En outre, la Cour suprême du Canada a reconnu dans l'arrêt Markevich c. Canada, [2003] 1 R.C.S. 94, que cet article s'applique au recouvrement de dettes fiscales.
+Les faits
+[2] La société 6421 appartenait en parts égales à deux actionnaires, à savoir madame Bleau et sa soeur, Cécile Bleau. Cette société a été constituée dans le but d'exploiter un immeuble locatif situé sur la rue St-Hubert, à Montréal. Les deux soeurs étaient aussi actionnaires d'une autre société exploitant le même genre d'entreprise, à savoir Les Projets C.H. Bleau Inc. (Projets). Projets a d'ailleurs été la première des deux sociétés à exploiter un immeuble locatif. Dans le but de financer la rénovation d'un immeuble de Projets situé sur la rue Clark à Montréal, madame Huguette Bleau aurait avancé à Projets environ 85 000 $ en 1987. Selon les états financiers de cette société au 28 février 1992, une somme de 110 757 $ était due par Projets à ses administrateurs. Selon madame Bleau, c'était à elle que toute cette somme était due. Un an plus tard, au 28 février 1993, le montant de cette dette apparaissant aux états financiers est réduit à 8 946 $. Selon ses états financiers au 28 février 1992, Projets aurait avancé à d'autres sociétés privées une somme s'élevant à 118 140 $[1]. Au bilan de 6421, à la même date, un total de 46 693 $ apparaît comme dû à des sociétés associées. Selon une lettre de madame Bleau du 24 octobre 1994 adressée au vérificateur du ministre, cette somme était due à Projets (pièce I-1, onglet 27, à la page 4). Au 28 février 1993, plus rien n'est dû par 6421 à des sociétés associées[2].
+[3] Quelques mois auparavant, soit le 11 septembre 1992, 6421 avait vendu son immeuble de la rue St-Hubert et, le 22 septembre 1992, à même le produit de cette vente, a déposé par virement interbancaire dans le compte bancaire de madame Bleau une somme de 80 384 $. Le 14 décembre 1992, madame Bleau a déposé dans son compte une somme additionnelle de 18 597 $ versée par 6421 à même le paiement du solde du prix d'achat effectué par l'acheteur de l'immeuble en question. Finalement, 6421 a payé une mensualité de 956 $ due à l'égard de l'hypothèque consentie par madame Bleau pour financer les activités de Projets. Selon le vérificateur du ministre, cette somme de 956 $ et celle de 18 597 $ - totalisant 19 553 $ - avaient été, au point de vue comptable, traitées par 6421 comme une avance de cette société en faveur de ses actionnaires.
+[4] Lors de sa vérification concernant madame Bleau, le vérificateur du ministre a présenté un projet de cotisation dans lequel il ajoutait à son revenu le montant de 80 384 $ comme appropriation de fonds selon le paragraphe 15(1) de la Loi et 19 553 $ au titre d'un prêt non remboursé avant la fin de la deuxième année, selon le paragraphe 15(2) de la Loi. Lors de sa rencontre avec le vérificateur, madame Bleau a réussi à le convaincre qu'une somme de 46 693 $ devait être soustraite de l'appropriation de 80 384 $ parce que 6421 devait cette somme à Projets et que cette dernière devait environ 70 000 $ à madame Bleau. Le vérificateur a donc accepté qu'une partie du versement effectué par 6421 à madame Bleau soit considérée comme un remboursement par 6421 d'une somme due par Projets à madame Bleau[3]. Par conséquent, le montant de l'inclusion dans le revenu de madame Bleau a été réduit à 53 244 $ (80 384 + 19 553 - 46 693).
+[5] Le vérificateur du ministre a expliqué que cette façon de procéder n'est pas habituelle, mais que dans certaines circonstances on peut agir ainsi pour des raisons d'équité, en particulier s'il s'agit d'un contribuable ayant peu d'expérience dans le domaine comptable et fiscal. Par contre, la décision d'accorder ce traitement était soumise à la condition que madame Bleau accepte les autres modifications proposées à ses déclarations de revenus pour 1990, 1991 et 1992, modifications qui comprenaient notamment une pénalité imposée en vertu du paragraphe 163(2) de la Loi. La compensation d'avances a été faite par le vérificateur « pour fins de règlement final du dossier dans son ensemble » .
+[6] La preuve a aussi révélé que le ministre n'a pris relativement à la dette fiscale de 6421 à l'égard de l'année d'imposition 1990 aucune mesure de perception entre le 13 mars 1995 (date de la cotisation de 6421) et le 28 juin 2001 (date de la cotisation de madame Bleau en vertu de l'article 160 de la Loi).
+[7] Finalement, il faut mentionner que le procureur de madame Bleau a soutenu qu'il pouvait y avoir eu d'autres avances consenties par Projets à 6421. Cette affirmation est fondée sur le fait que les états financiers de Projets indiquent des avances à des sociétés associées s'élevant à 118 140 $ et que le vérificateur aurait dû vérifier le détail des avances consenties par Projets à ces sociétés privées. Par contre, les états financiers de 6421 au 28 février 1992 indiquent que le montant dû au titre de prêts consentis par des sociétés associées ne s'élève qu'à 46 693 $. De plus, dans une lettre du 11 février 1994 adressée à Revenu Canada, madame Bleau indique qu'il n'y a pas eu d'avance faite à 6421 par les actionnaires pour la période du 1er janvier 1990 au 31 décembre 1992. En outre, dans sa lettre du 24 octobre 1994, madame Bleau indique qu'au moment de la vente de l'immeuble par 6421, cette dernière devait 46 693 $ à Projets. Il n'y a donc aucune preuve d'avances en plus de celle de 46 693 $ consenties par Projets.
+Position des parties
+[8] Le procureur de madame Bleau soutient qu'au moment de l'établissement de la cotisation en vertu de l'article 160 de la Loi, soit le 28 juin 2001, la dette fiscale de 6421 était prescrite en raison de l'application de l'article 32 de la Loi sur la responsabilité civile, qui édicte que les procédures se prescrivent par six ans. En vertu de l'article 225.1 de la Loi, le fait générateur pour calculer le délai de prescription pour le recouvrement de cette dette fiscale se situe, selon le procureur de madame Bleau, au 10 juin 1995[4], soit 90 jours après le 13 mars 1995, date de l'établissement de la cotisation concernant 6421. Comme cela a été reconnu par la Cour suprême du Canada dans l'arrêt Markevich (précité), le recouvrement d'une dette fiscale se prescrit par l'écoulement d'une période de six ans à compter du fait générateur. Par conséquent, comme il n'y a eu aucune mesure de recouvrement durant la période allant du 13 mars 1995 au 28 juin 2001, la dette fiscale de 6421 était éteinte au 10 juin 2001 ou à tout le moins non payable.
+[9] L'avocat ajoute qu'il faut se référer aux dispositions du Code civil du Québec (Code civil) en raison de l'utilisation du concept de solidarité énoncé à par l'article 160 et en raison de l'application de l'article 8.1 de la Loi d'interprétation. Comme l'article 160 crée une solidarité et qu'il s'agit d'une solidarité à l'égard d'une même dette et non pas de deux dettes distinctes, les articles 1531 et 1671 du Code civil s'appliquent[5].
+[10] Subsidiairement, il soutient, avec raison, qu'un remboursement d'avance n'est pas un transfert au sens de l'article 160 de la Loi. Cependant, le seul remboursement d'avance qui a été établi devant moi est le remboursement des 46 693 $ que devait 6421 à Projets et ce montant ne fait pas partie du montant de la cotisation. Par conséquent, cet argument n'est pas fondé compte tenu des faits.
+[11] Le dernier argument du procureur de madame Bleau est que le ministre avait informé celle-ci que l'offre de règlement était globale; madame Bleau ne pouvait, par conséquent, se douter qu'une cotisation serait établie en vertu de l'article 160 de la Loi.
+[12] Quant à l'intimée, sa procureure soutient que la dette fiscale de 6421 à l'égard de son année d'imposition 1990 n'était pas éteinte puisque c'est au moment du transfert en 1992 (moins de deux ans après la création de la dette fiscale) que la responsabilité de madame Bleau a pris naissance et non au moment de la cotisation du 28 juin 2001, comme l'affirme le procureur de madame Bleau. La procureure s'appuie notamment sur la décision rendue par la Cour d'appel fédérale dans l'affaire Heavyside c. Canada, [1996] A.C.F. no 1608 (QL), en particulier sur les paragraphes 9 et 10 des motifs du juge Décary, que je reproduis :
+9 Une fois que les conditions du paragraphe 160(1) sont respectées, comme c'est le cas en l'espèce, le bénéficiaire du transfert devient personnellement responsable de l'impôt payable en vertu de ce paragraphe (en l'espèce 2 759,50 $). Cette responsabilité prend naissance au moment du transfert (en l'espèce le 6 juin 1989) et elle est solidaire avec celle de l'auteur du transfert. Le ministre peut donc établir « à une date quelconque » une cotisation à l'égard du bénéficiaire du transfert (selon le paragraphe 160(2)) et la responsabilité solidaire du bénéficiaire du transfert ne s'éteint que par le paiement que l'auteur du transfert ou lui-même effectue conformément au paragraphe 160(3)).
+10 La date choisie par le ministre pour établir la cotisation d'impôt à l'égard de la bénéficiaire du transfert n'entraîne aucune conséquence. Il est bien établi que la responsabilité fiscale découle de la Loi et non pas de la cotisation et qu'en l'espèce c'est le transfert qui a donné naissance à la responsabilité. Par conséquent, l'intimée était personnellement responsable, pour son année d'imposition 1989, de l'impôt sur le revenu à l'égard des gains tirés de la disposition du bien qui lui a été transféré et comme sa responsabilité est solidaire avec celle de son conjoint, cette responsabilité est indépendante de celle de son conjoint et elle ne s'est pas éteinte en même temps que la propre obligation fiscale de son conjoint quand celui-ci a fait faillite en 1994. Le fait que la cotisation à son égard n'ait été établie qu'en 1994 et uniquement après la libération de son conjoint n'a aucun effet sur sa propre obligation fiscale.
+[Je souligne.]
+[13] La procureure de l'intimée cite également le paragraphe 16 de la décision de la Cour suprême du Canada dans l'affaire Markevich (précitée), où ladite cour souligne qu'une cotisation selon l'article 160 de la Loi peut être établie en tout temps en raison du paragraphe 160(2)[6] :
+16 Le fait que la LIR traite expressément des délais de prescription dans ses dispositions sur les cotisations appuie cette conclusion. La Cour conclut dans Friesen, précité, par. 27, que « [l]'ajout de mots dans une définition qui figure dans une loi est encore moins acceptable lorsque les termes qui doivent être ajoutés figurent dans plusieurs autres définitions de cette même loi » . De nombreuses dispositions de la LIR prévoient expressément que le ministre peut établir une cotisation en tout temps : voir les par. 152(4), 152(4.2), 159(3), 160(2), 160.1(3), 160.2(3), 160.3(2), 160.4(3) et 227(10.1). Le législateur démontre une intention claire de traiter de la question des délais de prescription dans la LIR lorsqu'il le juge nécessaire. Comme le souligne le juge Rothstein au par. 22, « [l]e législateur a réfléchi à la question de la prescription relativement à la Loi de l'impôt sur le revenu et quand il souhaite qu'aucun délai de prescription ne s'applique, il le dit clairement. » Il faut donc inévitablement conclure que le langage clair des dispositions sur le recouvrement ne permet pas d'inférer que le législateur veut soustraire les pouvoirs de recouvrement du ministre à l'application des dispositions sur la prescription.
+[Je souligne.]
+[14] Par conséquent, puisque le ministre pouvait établir une cotisation en vertu de l'article 160 en tout temps, qu'au moment pertinent, soit à la date du transfert par 6421 à madame Bleau, la dette fiscale de cette société n'était pas éteinte en raison de l'application d'une règle de prescription et que les autres conditions d'application de l'article 160 sont réunies, la cotisation du ministre est bien fondée.
+[15] Subsidiairement, l'intimée soutient que les modifications apportées à l'article 222 de la Loi, en particulier l'ajout du nouveau paragraphe 222(10), font en sorte que, même si la Cour devait conclure à la prescription de la dette fiscale de 6421, cette dette fiscale a été rétablie à compter du 4 mars 2004 et, par conséquent, la cotisation établie en vertu de l'article 160 est bien fondée. Elle a cité à l'appui de sa position la décision de la Cour d'appel fédérale dans Gibson v. Canada, [2005] F.C.J. No. 817(QL), 2005 FCA 180.
+Analyse
+[16]Les dispositions pertinentes de l'article 160 de la Loi sont les suivantes :
+Transfert de biens entre personnes ayant un lien de dépendance - (1) Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+[...]
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s'appliquent :
+[...]
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l'auteur du transfert doit payer en vertu de la présente loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n'est toutefois réputée limiter la responsabilité de l'auteur du transfert en vertu de quelque autre disposition de la présente loi.
+(2) Cotisation - Le ministre peut, en tout temps, établir une cotisation à l'égard d'un contribuable pour toute somme payable en vertu du présent article. Par ailleurs, les dispositions de la présente section s'appliquent, avec les adaptations nécessaires, aux cotisations établies en vertu du présent article comme si elles avaient été établies en vertu de l'article 152.
+(3) Extinction de l'obligation - Dans le cas où un contribuable donné devient, en vertu du présent article, solidairement responsable, avec un autre contribuable, de tout ou partie d'une obligation de ce dernier en vertu de la présente loi, les règles suivantes s'appliquent :
+a) tout paiement fait par le contribuable donné au titre de son obligation éteint d'autant l'obligation solidaire;
+b) tout paiement fait par l'autre contribuable au titre de son obligation n'éteint l'obligation du contribuable donné que dans la mesure où le paiement sert à réduire l'obligation de l'autre contribuable à une somme inférieure à celle dont le contribuable donné est solidairement responsable en vertu du présent article.
+Tax liability re property transferred not at arm's length - (1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+[...]
+(c) a person with whom the person was not dealing at arm's length,
+the following rules apply:
+[...]
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+(2) Assessment - The Minister may at any time assess a taxpayer in respect of any amount payable because of this section and the provisions of this Division apply, with any modifications that the circumstances require, in respect of an assessment made under this section as though it had been made under section 152.
+(3) Discharge of liability - Where a particular taxpayer has become jointly and severally liable with another taxpayer under this section in respect of part or all of a liability under this Act of the other taxpayer,
+(a) a payment by the particular taxpayer on account of that taxpayer's liability shall to the extent of the payment discharge the joint liability; but
+(b) a payment by the other taxpayer on account of that taxpayer's liability discharges the particular taxpayer's liability only to the extent that the payment operates to reduce that other taxpayer's liability to an amount less than the amount in respect of which the particular taxpayer is, by this section, made jointly and severally liable.
+[Je souligne.]
+[17] Pour les raisons invoquées par la procureure de l'intimée et exposées aux paragraphes 12 à 14 plus haut, je suis d'avis que la dette fiscale de 6421 n'était pas prescrite au moment pertinent. En effet, la cotisation selon l'article 160 peut être établie en tout temps et n'est donc assujettie à aucun délai de prescription. En ce qui a trait aux conditions d'application de l'article 160, la seule condition en jeu ici était l'existence d'une dette de l'auteur du transfert envers le fisc et, comme le moment pertinent pour déterminer si une telle dette fiscale existait est la date du transfert - ici moins de deux ans après la création de la dette fiscale -, il n'y a pas eu d'extinction de cette dette en raison d'un délai de prescription. Par conséquent, la cotisation du ministre est bien fondée[7] et il n'est pas nécessaire de commenter l'argument subsidiaire de la procureure de l'intimée.
+[18] En ce qui a trait à l'argument subsidiaire de madame Bleau, basé sur le concept de solidarité et sur les modes d'extinction prévus par le Code civil, il m'apparaît également mal fondé. En effet, pour appliquer les dispositions du Code civil, il faut, tel que cela est requis par l'article 8.1 de la Loi d'interprétation[8], qu'il soit nécessaire de recourir à ses règles en vue d'assurer l'application de la Loi et il ne doit pas y avoir de règle de droit qui s'y oppose. Voici ce que cet article édicte :
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s'il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d'assurer l'application d'un texte dans une province, il faut, sauf règle de droit s'y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l'application du texte.
+[Je souligne.]
+[19] Ici, je ne vois rien qui puisse indiquer qu'il faut avoir recours à la notion de solidarité qu'on trouve dans le Code civil ou aux causes d'extinction prévues aux articles 1531 et 1671 du Code civil. Au contraire, l'article 160 de la Loi fournit, à mon avis, un code complet des règles concernant la responsabilité qui incombe au bénéficiaire du transfert d'un bien relativement à la dette fiscale de l'auteur de ce transfert. Le montant à l'égard duquel un tel bénéficiaire peut être tenu responsable est calculé notamment selon l'alinéa 160(1)e) de la Loi. Le paragraphe 160(3) de la Loi décrit les circonstances dans lesquelles l'obligation du bénéficiaire du transfert de payer la dette fiscale de l'auteur du transfert peut être éteinte. Le recours aux dispositions du Code civil constituerait une immixtion injustifiée dans l'exercice des pouvoirs conférés par la Loi au ministre pour percevoir l'impôt fédéral.
+[20] À l'appui de cette interprétation, il y a ces commentaires du juge Décary dans l'arrêt Heavyside, aux paragraphes 12 et 14 :
+12 Il ne fait aucun doute que la libération du conjoint consécutive à sa faillite le soustrait à son obligation de payer au ministre la somme qu'il devait aux termes de l'article 160 de la Loi de l'impôt sur le revenu; c'est ce qui ressort clairement du paragraphe 178(2) de la Loi sur la faillite. Mais l'ordonnance de libération n'éteint pas la dette; cette dette est une responsabilité personnelle du conjoint et elle ne porte aucunement atteinte à la responsabilité de l'intimée qui est conjointement liée. Comme le soulignait le juge Sarchuk, de la C.C.I., dans la décision Garland, au sujet de l'article 179 de la Loi sur la faillite, il est clair que l'intention de cet article n'est pas de libérer une personne qui était « conjointement liée » au failli au moment de la libération de ce dernier. À moins qu'un paiement ne soit fait aux termes du paragraphe 160(3) de la Loi, la responsabilité du bénéficiaire du transfert demeure en vigueur, et la libération obtenue aux termes de la Loi sur la faillite n'est tout simplement pas un paiement aux termes du paragraphe 160(3).
+[...]
+14 Si la Cour permettait à l'intimée de se soustraire à son obligation fiscale à cause de la libération de son conjoint suite à sa faillite, elle entérinerait ce que le législateur a précisément cherché à interdire en adoptant l'article 160.
+[Je souligne.]
+[21] Finalement, je crois que doit être rejeté l'argument selon lequel l'entente intervenue lors de l'établissement de cotisations à l'égard de madame Bleau selon l'article 15 de la Loi constituait un règlement définitif et selon lequel cela empêchait le ministre d'établir une cotisation selon l'article 160 de la Loi. Tout d'abord, mentionnons qu'il n'a jamais été question, lors de ce règlement, de cotisations établies en vertu de l'article 160. Une cotisation selon cet article ne vise pas à imposer un impôt sur le revenu du contribuable; il s'agit plutôt d'une procédure de perception de l'impôt auprès d'un tiers. Quoique la preuve soit silencieuse sur cette question, il serait fort surprenant que le vérificateur du ministre chargé du dossier personnel de madame Bleau ait été conscient des problèmes de perception du ministre concernant l'impôt de 6421.
+[22] De plus, il me semble que l'objet de l'entente globale que les parties ont conclue portait plutôt sur l'arrangement permettant à madame Bleau de bénéficier d'une réduction du montant à être inclus dans son revenu selon l'article 15 de la Loi si elle acceptait l'application de la pénalité, comme l'a relaté le vérificateur du ministre, qui a témoigné à l'audience.
+[23] Même si on pouvait croire que l'entente globale visait l'article 160, le procureur de madame Bleau n'a cité aucune jurisprudence pour appuyer l'argument que le ministre ne pouvait établir la nouvelle cotisation en vertu de l'article 160 de la Loi. Si toutes les conditions prévues à l'article 160 sont réunies, la Cour doit appliquer cet article et n'a pas d'autre choix que de confirmer la cotisation[9].
+[24] Pour tous ces motifs, l'appel de madame Bleau est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2006.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE : 2006CCI36
+N º DU DOSSIER DE LA COUR : 2002-4525(IT)G
+INTITULÉ DE LA CAUSE : Huguette Bleau c. Sa Majesté La Reine
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 22 août 2005
+MOTIFS DE JUGEMENT PAR : l'honorable juge Pierre Archambault
+DATE DU JUGEMENT : le 16 janvier 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Yves Ouellette
+Avocate de l'intimée :
+Me Marie-Aimée Cantin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Yves Ouellette
+Cabinet : Gowling Lafleur Henderson s.r.l.
+Montréal (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Voir pièce I-1, onglet 8.
+[2] Voir pièce I-1, onglet 4.
+[3] Dans ses feuilles de travail, le vérificateur indique : « H. Bleau a prêté 107 343,10 $ à Les projets C.H. Bleau inc. C.H. Bleau inc. doit 46 693,00 $ à 2525-6421 Québec. [Il s'agit d'une erreur, c'est plutôt 6421 qui devait l'argent à Projets.] Nous accordons une compensation pour les sommes du[es] à 2525-6421 par C.H. Bleau inc. Car ce montant aurait pu être remis à la cliente sans incidence fiscale » . (Pièce I-1, onglet 30, p. 2.)
+[4] Selon mes calculs, il s'agirait plutôt du 11 juin 1995. Mais cela est sans conséquences ici.
+[5] Ces articles édictent :
+1531. Le débiteur solidaire qui, par le fait du créancier, est privé d'une sûreté ou d'un droit qu'il aurait pu faire valoir par subrogation, est libéré jusqu'à concurrence de la valeur de la sûreté ou du droit dont il est privé.
+1671. Outre les autres causes d'extinction prévues ailleurs dans ce code, tels le paiement, l'arrivée d'un terme extinctif, la novation ou la prescription, l'obligation est éteinte par la compensation, par la confusion, par la remise, par l'impossibilité de l'exécuter ou, encore, par la libération du débiteur.
+[6] Comme l'a indiqué le juge Little de cette Cour dans Madsen c. La Reine, 2004 CCI 511, au para. 31, le délai de prescription pour le recouvrement de l'impôt exigé dans une cotisation établie selon l'article 160 de la Loi ne commence à courir que 90 jours après la date de cette cotisation.
+[7] Les décisions de cette Cour que le procureur de madame Bleau a citées, notamment Caplan v. M.N.R., 1995 CarswellNat 617 et Gamache c. La Reine, 1996 CarswellNat 2863, [1996] 3 C.T.C. 2597, sont incompatibles avec celle de la Cour d'appel fédérale dans Heavyside.
+[8] Pour une discussion des conditions d'application de cet article, voir un article que j'ai écrit, « Contrat de travail : Pourquoi Wiebe Door Services Ltd. ne s'applique pas au Québec et par quoi on doit le remplacer » , p. 2:1, dans le Deuxième recueil d'études en fiscalité (2005) dans la collection L'harmonisation de la législation fédérale avec le droit civil québécois et le bijuridisme canadien, l'Association de planification fiscale et financière et le ministère de la Justice du Canada, en particulier aux paragraphes 26 et suivants. Je me contenterai de citer ici les paragraphes 27, 28 et 30 :
+[27] Pour que cet article 8.1 s'applique, il y trois conditions à réunir. Tout d'abord, il doit y avoir un « texte » à être appliqué dans une province. Ici, il s'agit du paragraphe 5(1) LAE. Le mot « texte » est défini à l'article 2 LI comme signifiant « tout ou partie d'une loi ou d'un règlement » et le mot « loi » comme ayant le sens de « loi fédérale » . La première condition est donc remplie.
+[28] La deuxième condition est qu'il doit être nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils. Pour définir ce qu'on entend par « propriété et [...] droits civils » , il est important de rappeler qu'on trouve la même expression au paragraphe 92(13) de la Loi constitutionnelle de 1867, qui précise les catégories de sujets à l'égard desquelles les législatures provinciales peuvent faire exclusivement des lois. Les professeurs Brun et Tremblay nous éclairent sur la portée du paragraphe 92(13) :
+Le paragraphe 92(13) légitime la majeure partie de ce qui est considéré comme du droit civil au Québec et qui est traditionnellement inclus dans le Code civil. Dans les autres provinces, les matières correspondantes qui participent du système de common law sont aussi de compétence provinciale.
+[...]
+[30] Quant à la troisième condition, elle veut qu'il ne doive pas y avoir de « règle de droit » s'opposant au recours aux règles, principes ou notions du domaine de la propriété et des droits civils. Dans sa version anglaise, on utilise l'expression « unless otherwise provided by law » . Les propos de Me Molot nous éclairent sur la portée de cette condition :
+[...] Dans le cas de l'article 8.1, il semble qu'à deux étapes du processus d'interprétation un texte fédéral puisse s' « opposer » . Le texte fédéral peut rendre non « nécessaire de recourir » aux principes provinciaux de droit privé, ou il peut faire ressortir clairement l'intention qu'on n'ait pas recours aux règles, principes et notions de la province concernée. Une loi pourrait, par exemple, définir de manière si exhaustive ses propres termes que cela exclue implicitement tout recours au droit privé provincial comme source externe d'interprétation et d'application. Une loi fédérale pourrait aussi renvoyer expressément à une autre source externe d'interprétation, ce qui dénoterait une intention contraire quant à la nécessité « de recourir à des règles (...) dans une province » . [Je souligne.]
+[Notes infrapaginales omises.]
+[9] Par contre, il est plutôt troublant de constater que madame Bleau a été imposée en vertu de l'article 15 de la Loi sur la somme de 53 244 $ que lui a remise 6421 et qu'elle est maintenant tenue de remettre cette somme au ministre, en raison de l'article 160, en paiement de l'impôt dû par 6421. Il me semble que madame Bleau devrait avoir droit, lorsqu'elle aura payé le montant de la cotisation établie en vertu de l'article 160, à une déduction dont l'effet serait de neutraliser l'impôt qu'elle a déjà versé en raison de l'application de l'article 15. L'alinéa 20(1)j) de la Loi prévoit qu'on a le droit de déduire le montant d'un prêt impayé qui a été ajouté à son revenu en vertu du paragraphe 15(2) de la Loi, lorsqu'il y a remboursement de ce montant au prêteur. En ce qui a trait au montant inclus dans le revenu de madame Bleau en vertu du paragraphe 15(1) de la Loi, je ne connais pas de disposition semblable qui s'y applique. Je souhaite qu'un arrangement administratif puisse être trouvé, de façon à neutraliser l'effet abusif qui en résulte lorsqu'on applique à la fois l'article 15 et l'article 160 de la Loi. On devrait songer également à modifier la Loi pour assurer un traitement équitable des contribuables qui se trouvent dans une telle situation.

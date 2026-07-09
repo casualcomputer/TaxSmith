@@ -1,0 +1,179 @@
+Title: Galbraith v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27309/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-536-27309-galbraith-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-10-03
+
+# Galbraith v. The Queen
+
+- Citation: 2006 CCI 536
+- Decision date: 2006-10-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 849, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Galbraith v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-03
+Référence neutre
+2006 CCI 536
+Numéro de dossier
+2005-3119(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3119(IT)I
+ENTRE :
+GAIL GALBRAITH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+WILLIAM GALBRAITH,
+partie jointe en vertu de l’article 174
+de la Loi de l’impôt sur le revenu.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Renvoi fondé sur l’article 174 de la Loi de l’impôt sur le revenu entendu le 18 septembre 2006, à Toronto (Ontario).
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Pour l’appelante : L’appelante elle-même
+Avocate de l’intimée : Me Kandia Aird
+Avocat de la partie jointe : Me J. Waldo Baerg
+____________________________________________________________________
+JUGEMENT
+La réponse à la question énoncée dans le renvoi fondé sur l’article 174 de la Loi de l’impôt sur le revenu,
+[traduction]
+3. Il s’agit de savoir si les paiements s’élevant à 25 566,72 $ que William Galbraith a faits à l’appelante au cours de l’année d’imposition 2003, lesquels représentent l’impôt à payer par l’appelante pour les années d’imposition 1999 et 2000, doivent être inclus dans de calcul du revenu de l’appelante pour l’année d’imposition 2003;
+est la suivante :
+Le montant de 25 166,72 $ doit être inclus dans le revenu de l’appelante pour l’année d’imposition 2003.
+L’appel de l’appelante est accueilli afin de réduire le montant qui doit être inclus dans son revenu de 400 $, lequel montant passe donc de 25 566,72 $ à 25 166,72 $.
+Signé à Ottawa, Canada, ce 3e jour d’octobre 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 23e jour de janvier 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2006CCI536
+Date : 20061003
+Dossier : 2005-3119(IT)I
+ENTRE :
+GAIL GALBRAITH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+WILLIAM GALBRAITH,
+partie jointe en vertu de l’article 174
+de la Loi de l’impôt sur le revenu.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] La présente affaire a débuté par un appel interjeté par Gail Galbraith à l’encontre d’une cotisation d’impôt établie pour l’année d’imposition 2003. L’appel a été transformé lorsque le ministre du Revenu national a demandé qu’il fasse l’objet d’un renvoi fondé sur l’article 174 de la Loi de l’impôt sur le revenu (la « Loi »). La Cour a ordonné que William Galbraith soit constitué comme partie au renvoi.
+[2] Essentiellement, il s’agit de savoir si les paiements totalisant 25 566,72 $ que William Galbraith a faits à son ex‑épouse constituent une « pension alimentaire » au sens de l’article 56.1 de la Loi. Si c’est le cas, les paiements doivent être inclus dans le revenu de l’appelante en application de l’alinéa 56(1)b) de la Loi et peuvent être déduits par son ex‑époux en vertu de l’alinéa 60b). L’expression « pension alimentaire » est définie ainsi au paragraphe 56.1(4) :
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex‑époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+[3] Gail Galbraith et William Galbraith se sont séparés en 1998 et ont conclu un accord de séparation en date du 8 décembre 1998. L’article 15 de l’accord de séparation est rédigé ainsi :
+[traduction]
+15. PENSION ALIMENTAIRE POUR CONJOINT
+a) L’époux versera à l’épouse un montant qui sera déductible du revenu brut de l’époux et imposable entre les mains de l’épouse de façon à ce que l’épouse reçoive après impôt la somme d’au moins 2 500 $ par mois, et l’époux paiera à l’épouse tout impôt exigible sur le montant de pension alimentaire pour conjoint que l’épouse reçoit.
+b) De plus, au moyen d’une pension alimentaire pour conjoint, l’époux versera à l’épouse un tiers de sa prime annuelle brute et un tiers de ses primes trimestrielles nettes, ainsi que tout impôt exigible sur les sommes ainsi payées à l’épouse que celle‑ci doit inclure dans son revenu.
+[4] M. Galbraith a pris du retard dans ses paiements, et, en avril 2001, les parties se sont retrouvées devant madame la juge Goodman de la Cour supérieure de justice de l’Ontario. Madame la juge Goodman a rédigé des motifs détaillés et exhaustifs. Les paragraphes 45 et 46 de ses motifs sont rédigés ainsi :
+[traduction]
+ARRIÉRÉ :
+[45] Montants à payer pour 1999 relativement à la pension alimentaire – Après avoir examiné la preuve, j’estime qu’en 1999 M. Galbraith devait payer à son épouse les montants approximatifs suivants :
+(i) 2 500 $ par mois, de janvier à novembre; et 2 500 $, rajusté à la hausse de 3,1 %, pour le mois de décembre 1999;
+(ii) 6 987,66 $, c’est‑à‑dire un tiers de la prime annuelle brute de 20 963 $ qu’il a reçue;
+(iii) 4 000 $, c’est‑à‑dire un tiers du total net estimé des primes de rendement qu’il a reçues et dont le montant brut se chiffrait à 21 000 $. Aucun élément de preuve n’a été présenté en ce qui concerne le taux d’imposition de M. Galbraith en 1999. Toutefois, compte tenu de sa déclaration de revenus et du taux d’imposition marginal maximum combiné du revenu des particuliers de 48,8 % qui s’appliquait en 1999, il serait tout à fait raisonnable d’accepter que le montant net des primes de rendement que M. Galbraith a reçues en 1999 est de 12 000 $;
+(iv) le montant d’impôt que Mme Galbraith est tenue de payer pour 1999 à l’égard de la pension alimentaire qu’elle a effectivement reçue de M. Galbraith en 1999.
+Mme Galbraith doit, dans un délai de 30 jours, établir deux ébauches de déclaration de revenus pour 1999. Dans la première ébauche, elle doit inclure tous les paiements de pension alimentaire qu’elle a reçus en 1999 en vertu de l’accord de séparation, alors que, dans la deuxième ébauche, elle ne doit pas inclure ces paiements. L’impôt à payer en application du sous‑alinéa (iv) ci‑dessus sera la différence entre les montants d’impôt à payer selon les deux déclarations. Elle doit donner ces deux déclarations de revenus à M. Galbraith dans un délai de 30 jours.
+[46] Montants à payer pour 2000 relativement à la pension alimentaire – Étant donné que M. Galbraith est tenu, en raison de la présente décision, de commencer à verser une pension alimentaire mensuelle à son épouse à compter du 1er novembre 2000, je conclus qu’en 2000 il était tenu de payer les montants suivants à son épouse au titre de la pension alimentaire pour conjoint :
+(i) 2 500 $ par mois, rajusté à la hausse de 3,1 %, pour les mois de janvier 2000 à octobre 2000 inclusivement;
+(ii) 0 $ pour ce qui est de la prime annuelle, parce que je ne suis pas convaincue qu’une telle prime a été gagnée ou payée;
+(iii) 4 000 $, c’est‑à‑dire un tiers du total net des primes de rendement qui ont été payées à M. Galbraith en 2000. J’ai utilisé le paiement des primes de 20 600 $ indiqué dans le « bordereau » de paye du 23 septembre 2000 (à la page 109 du dossier continu) comme total des primes de rendement payées ou à payer avant la fin du mois d’octobre 2000. Encore une fois, compte tenu de la déclaration de revenus de M. Galbraith pour 2000 et du taux d’imposition marginal maximum combiné du revenu des particuliers de 47,9 % qui s’appliquait en 2000, il serait tout à fait raisonnable d’accepter que le montant net des primes que M. Galbraith a reçues pour l’année est de 12 000 $;
+(iv) le montant d’impôt à payer sur tous les paiements de pension alimentaire que Mme Galbraith a reçus en vertu de l’accord en 2000, jusqu’à la fin du mois d’octobre;
+(v) 3 500 $, exigible pour chacun des mois de novembre et de décembre 2000.
+Mme Galbraith doit, dans un délai de 30 jours, établir deux ébauches de déclaration de revenus pour 2000. Dans la première ébauche, elle doit inclure tous les montants reçus en application des sous‑alinéas (i) et (iii) ci‑dessus, alors que, dans la deuxième ébauche, elle ne doit pas inclure ces montants. Elle ne doit inclure les montants à payer en application du sous‑alinéa (v) dans aucune de ces deux déclarations. L’impôt à payer en application du sous‑alinéa (iv) ci‑dessus sera la différence entre les montants d’impôt à payer selon les deux déclarations. Elle doit donner ces deux déclarations de revenus à M. Galbraith dans un délai de 30 jours.
+[5] L’ordonnance formelle précise notamment ce qui suit :
+[traduction]
+LA COUR ORDONNE que l’accord de séparation daté du 8 décembre 1998, et enregistré en tant qu’ordonnance de la Cour le 26 octobre 2000, en vertu de l’article 35 de la Loi sur le droit de la famille, L.R.O. 1990, ch. F3, soit modifié ainsi :
+1. À compter du 8 novembre 2000, et le 8e jour de chacun des mois suivants, le défendeur versera une pension alimentaire pour conjoint de 3 500 $ par mois à l’épouse demanderesse;
+2. Le montant de l’arriéré dû (pension alimentaire pour conjoint) par le défendeur à la demanderesse selon l’accord de séparation du 8 décembre 1998, modifié par la présente ordonnance, est de 60 446,16 $, y compris l’intérêt, en date du 31 octobre 2001;
+3. Les années où le défendeur paye une partie de l’arriéré de pension alimentaire pour conjoint dû en application des sous‑alinéas 45(i) à (iii) ou 46(i) à (iii) des motifs de l’ordonnance rendue par la juge Goodman le 22 octobre 2001, la demanderesse doit établir deux ébauches de déclaration de revenus au plus tard le 15 avril de l’année suivante. Dans la première ébauche, elle doit inclure l’arriéré payé, alors que, dans la deuxième, elle ne doit pas l’inclure. La différence entre les montants d’impôt à payer selon les deux déclarations constitue le montant d’impôt que le défendeur doit verser à la demanderesse en application de l’article 15 de l’accord de séparation. La demanderesse doit donner au défendeur les deux ébauches de déclaration de revenus au plus tard le 20 avril. Le défendeur doit payer à la demanderesse le montant d’impôt dû par celle‑ci au moyen d’un chèque certifié au plus tard le 29 avril.
+[6] En résumé, madame la juge Goodman a donc modifié l’accord et l’ordonnance enregistrée de façon à ce que ceux‑ci prévoient que, à compter du 8 novembre 2000, M. Galbraith devait payer 3 500 $ par mois à Mme Galbraith et que celui‑ci n’était pas tenu de verser l’impôt à payer sur ce montant à son ex‑épouse. Pour la période allant jusqu’au 8 novembre 2000, il devait lui payer l’arriéré et lui rembourser l’impôt exigible.
+[7] En conséquence, en 2003, l’appelante a reçu 52 013,50 $ au titre de la pension alimentaire et 25 166,72 $ au titre de l’impôt à payer sur l’arriéré de pension alimentaire pour 1999 et 2000. Le montant d’impôt à rembourser est de 15 013,24 $ pour 1999 et de 10 294,48 $ pour 2000. Mme Galbraith ne conteste pas le fait que le montant de 52 013,50 $ est imposable entre ses mains, mais sa position est que le montant de 25 166,72 $, qu’elle décrit comme étant des [traduction] « paiements effectués à des fins déterminées », n’est pas imposable entre ses mains.
+[8] La position de M. Galbraith est que le montant correspondant au remboursement de l’impôt à payer est lui‑aussi un « montant de pension alimentaire » et que ce montant est donc déductible par lui et imposable entre les mains de Mme Galbraith.
+[9] Mme Galbraith allègue que l’intention des époux à l’article 15 de l’accord de séparation était de faire en sorte que les paiements de pension alimentaire qu’elle devait recevoir soient nets d’impôt. Le mot « net » ne figure pas dans l’article 15 de l’accord, mais je suis d’accord avec Mme Galbraith dans la mesure où le mot « net » signifie que M. Galbraith est tenu que payer l’impôt exigible à l’égard des paiements de pension alimentaire qu’elle a reçus.
+[10] Cela ne répond toutefois pas à la question de savoir si le montant que M. Galbraith verse à Mme Galbraith, en plus des paiements de pension alimentaire mensuels de 2 500 $, pour lui rembourser l’impôt qu’elle doit payer fait partie de la pension alimentaire. J’ai cité ci‑dessus la définition de « pension alimentaire ». Les mots‑clés de la définition, du moins aux fins du présent appel, sont les suivants : « allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas [...] ».
+[11] Je commencerai par dire que, selon moi, le principe général qu’il faut appliquer lorsqu’un paiement (le « montant de base ») est « majoré », pour reprendre les termes habituellement utilisés dans ces circonstances, afin d’inclure l’impôt dans le montant de base est celui‑ci : lorsqu’un payeur accepte de payer à un bénéficiaire un montant afin de compenser l’impôt qui peut être exigible sur le montant de base, le montant supplémentaire qui est payé pour compenser l’impôt (le « montant d’impôt ») est assimilé au montant de base. Par conséquent, si le paiement d’un salaire est majoré afin de compenser l’impôt que le bénéficiaire doit payer, le montant d’impôt fait partie du salaire. Si le montant de base est le produit de la vente d’un bien, le montant supplémentaire prévu pour l’impôt fait partie du produit. En l’espèce, le montant de base est un montant de pension alimentaire. Le montant supplémentaire prévu pour l’impôt fait donc partie de la pension alimentaire.
+[12] Voilà ce qui, selon moi, constitue une façon d’examiner le problème qui est fondée sur une interprétation large de l’objet visé par la loi et qui est conforme au bon sens. Certains peuvent toutefois trouver que cette manière de procéder est trop simple. Je m’efforcerai donc d’analyser la question de façon plus structurée d’un point de vue juridique. Si l’interprétation de la loi fondée sur le texte, le contexte et l’objet visé admettait une analyse déconstructive de la loi et du paiement, j’arriverais à la même conclusion. Il faudrait séparer le montant de pension alimentaire de base du paiement supplémentaire nécessaire pour compenser l’impôt exigible sur le montant de pension (le « montant d’impôt ») et, en examinant uniquement le montant payé à l’égard de l’impôt, traiter ce dernier comme un élément distinct dont la qualification aux fins de l’impôt n’est pas influencée par la qualification du montant de base auquel il se rapporte. Une analyse déconstructive consistant à appliquer la loi au paiement supplémentaire donnerait le résultat suivant :
+[13] Le montant d’impôt est‑il une allocation? L’acception courante du terme « allocation », si on ne tient compte d’aucun précédent jurisprudentiel, appuierait la position selon laquelle le montant est une allocation. Il s’agit d’un montant versé à l’appelante pour lui permettre de s’acquitter de ses frais de subsistance.
+[14] Le sens du terme « allocation » a été examiné par la Cour suprême du Canada dans l’arrêt Gagnon v. The Queen, 86 DTC 6179. Dans les motifs unanimes de la Cour suprême du Canada, le juge Beetz a formulé des commentaires concernant la définition du terme « allocation » donnée par le juge Pratte de la Cour d’appel fédérale dans l’arrêt The Queen v. Pascoe, 75 DTC 5427 :
+Selon nous, une allocation est une somme d'argent limitée et déterminée à l'avance, versée afin de permettre à celui qui la reçoit de faire face à certains types de dépenses; sa quotité est établie à l'avance et celui qui la touche en a la libre disposition, sans comptes à rendre à personne. Un versement effectué pour satisfaire à une obligation d'indemniser ou de rembourser quelqu'un ou de le défrayer de dépenses réellement engagées n'est pas une allocation; il ne s'agit pas en effet d'une somme susceptible d'être affectée par celui qui la touche, à sa discrétion, à certains types de dépenses.
+Le juge Beetz croyait que la troisième condition imposée par le juge Pratte était indûment restrictive. Il a dit ce qui suit à la page 6182 :
+Selon la définition de l'arrêt Pascoe, il faut, pour que l'on puisse qualifier une somme d'argent d'« allocation », qu'elle satisfasse à trois conditions : (1) la somme doit être limitée et déterminée à l'avance; (2) la somme doit être versée afin de permettre à celui qui la reçoit de faire face à un certain type de dépenses; (3) cette somme doit être à l'entière disposition de celui qui la touche sans qu'il ait de comptes à rendre à personne.
+Et à la page 6184, il a mentionné ce qui suit :
+Dans The Queen v. Poynton, 72 DTC 6329, le juge Evans qui rend le jugement unanime de la Cour d'appel de l'Ontario adopte spécifiquement le ratio de l'arrêt James et, à la p. 6335, suggère des critères additionnels permettant de déterminer si une somme reçue par un contribuable est de la nature d'un revenu :
+[traduction] [...] la manière dont elle est reçue, le contrôle sur celle‑ci, les obligations et les restrictions qui s'y rattachent, l'usage qu'en fait le détenteur, la personne qui retire les bénéfices. Voilà certaines des circonstances dont on doit tenir compte.
+Vue dans ce contexte, la troisième condition imposée par l'arrêt Pascoe doit être corrigée : pour qu'une somme constitue une allocation, au sens de l'al. 60b) de la Loi de l'impôt sur le revenu, il faut que le bénéficiaire puisse en disposer complètement à son profit, abstraction faite des restrictions qui lui sont imposées quant à la manière d'en disposer et d'en profiter.
+Pour revenir aux circonstances de l'espèce, il ne fait pas de doute que la récipiendaire des sommes en question, l'ex‑épouse de l'appelant, pouvait en disposer complètement et qu'elle en retirait ce que le juge Burton appelle, dans l'arrêt Rutkin, à la p. 137, une [traduction] « valeur économique facilement réalisable ». L'obligation où elle se trouvait d'affecter ces sommes à des fins particulières n'affecte pas le profit qu'elle en retirait. Ces sommes sont pour elle de la nature d'un revenu et se qualifient comme « allocations » tant au sens de l'al. 60b) que de l'al. 56(1)b) de la Loi de l'impôt sur le revenu.
+[15] Après que l’arrêt Gagnon a été rendu, la Loi de l'impôt sur le revenu a été modifiée par l’ajout de l’exigence énoncée dans la définition précitée selon laquelle le bénéficiaire doit pouvoir utiliser le montant à sa discrétion. Je traiterai de cette partie de l’exigence plus loin dans les présents motifs.
+[16] Pour ce qui est des autres critères figurant dans la définition judiciaire du terme « allocation », je pense que le montant d’impôt les remplit. Il s’agit d’une somme d’argent déterminée à l’avance. Le fait que l’impôt doit être calculé annuellement et qu’il peut varier en fonction des taux d’imposition applicables et des autres revenus, des déductions et des crédits des bénéficiaires n’enlève rien au fait qu’il est déterminé à l’avance. Voir l’arrêt Pach v. The Queen et al., 2003 DTC 5634 (C.A.F.). Le montant vise clairement à permettre à l’appelante de s’acquitter de l’obligation de payer son impôt.
+[17] Le montant d’impôt sert‑il à subvenir aux besoins de l’appelante? L’impôt, comme la nourriture, le logement et les autres besoins essentiels, fait partie des frais associés à la vie quotidienne. De toute évidence, un montant payé pour permettre à l’appelante de payer son impôt est un montant qui sert à subvenir à ses besoins.
+[18] Le montant d’impôt est‑il payable à titre d’allocation périodique? Le montant de pension alimentaire de 2 500 $ par mois constitue bien évidemment une allocation périodique. Le montant d’impôt doit être calculé et payé annuellement étant donné que l’impôt sur le revenu est quelque chose qui doit être payé chaque année. L’exigence relative à la périodicité est donc remplie.
+[19] L’appelante peut‑elle utiliser le montant d’impôt à sa discrétion? Le montant que M. Galbraith doit payer à l’appelante est déterminé en fonction de l’impôt applicable au montant d’argent que celle‑ci reçoit de lui. Après avoir reçu le montant d’impôt de son époux, elle est libre de faire ce qu’elle veut avec celui‑ci. Comme le juge Beetz l’a dit dans l’arrêt Gagnon : « L'obligation où elle se trouvait d'affecter ces sommes à des fins particulières n'affecte pas le profit qu'elle en retirait. » Le critère de la discrétion est donc rempli.
+[20] Dans la décision Hak v. The Queen, 99 DTC 36, l’appelant a accepté de payer le loyer, les primes de régime de soins de santé et les factures de services publics directement au lieu de verser à son épouse un montant fixe chaque mois. J’ai conclu que les montants payés étaient des montants de pension alimentaire et qu’ils étaient donc déductibles par l’appelant. Les faits de cette affaire étaient très semblables à ceux de l’affaire The Queen v. Arsenault, 96 DTC 6131, où une conclusion semblable tirée par la Cour canadienne de l’impôt a été confirmée par la Cour d’appel fédérale. Il semble y avoir une contradiction entre l’arrêt Arsenault et l’arrêt The Queen v. Armstrong, 96 DTC 6315. Dans la décision Hak, la Cour a écarté l’arrêt Armstrong et a suivi l’arrêt Arsenault. Comme la juge Woods l’a souligné dans la décision Sears v. The Queen, 2004 DTC 3660, la jurisprudence n’est pas totalement cohérente. Toutefois, selon moi, la totalité du montant majoré (le montant de base et le montant d’impôt) constitue un montant de pension alimentaire.
+[21] Mme Galbraith a dit qu’en traitant le montant d’impôt comme une partie du paiement de pension alimentaire, j’oblige les parties à effectuer un ensemble de calculs mathématiques, étant donné que le montant d’impôt que M. Galbraith doit lui payer concerne un montant qui ne cesse de diminuer. À titre d’exemple, si « a » est le montant de pension alimentaire de base de 2 500 $ par mois, que « b » est l’impôt applicable à « a », que « c » est l’impôt applicable à « b », que « d » est l’impôt applicable à « c », et que « e » est l’impôt applicable à « d », l’obligation de M. Galbraith correspond à a + b + c + d + e, et ainsi de suite jusqu’à ce que le montant soit d’un cent. Même s’il se peut que l’Agence du revenu du Canada cesse de faire les calculs après « b » ou « c » pour des raisons administratives, il n’en demeure pas moins que cela est le résultat auquel on parvient, aussi ennuyeux que cela puisse être de faire un ensemble de calculs. Ce point a fait l’objet de discussions approfondies par un tribunal de trois commissaires de la Commission d’appel de l’impôt, soit Fabio Monet, c.r., W.S. Fisher, c.r. et R.S.W. Fordham, c.r., dans la décision New York Central Railroad Co. v. M.N.R., (1952) 7 Tax A.B.C. 334. Je félicite Me Aird, l’avocate de l’intimée, pour la diligence dont elle a fait preuve en trouvant ce précédent vénérable et peu connu. Je ne citerai pas de passage de la discussion éclairée qu’on y trouve sur le calcul de l’impôt applicable à l’impôt, applicable à l’impôt. Je ne ferai que souligner qu’elle appuie ma conclusion. Je mentionnerai toutefois que, selon l’article 15 de l’accord de séparation, tout impôt supplémentaire que Mme Galbraith doit payer sur les montants que son époux lui a versés doit également lui être remboursé par M. Galbraith.
+[22] La question énoncée dans le renvoi est la suivante :
+[traduction]
+3. Il s’agit de savoir si les paiements s’élevant à 25 566,72 $ que William Galbraith a faits à l’appelante au cours de l’année d’imposition 2003, lesquels représentent l’impôt à payer par l’appelante pour les années d’imposition 1999 et 2000, doivent être inclus dans de calcul du revenu de l’appelante pour l’année d’imposition 2003;
+De ce montant, 400 $ ne constituent pas une partie de l’impôt exigible sur les paiements de pension alimentaire. Par conséquent, la réponse à la question énoncée dans le renvoi est qu’un montant de 25 166,72 $ doit être inclus dans le calcul du revenu de l’appelante pour l’année d’imposition 2003.
+[23] L’appel de Mme Galbraith doit donc être accueilli afin de réduire le montant qui doit être inclus dans son revenu de 400 $, lequel montant passe donc de 25 566,72 $ à 25 166,72 $.
+Signé à Ottawa, Canada, ce 3e jour d’octobre 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 23e jour de janvier 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2006CCI536
+NO DU DOSSIER DE LA COUR :
+2005-3119(IT)I
+INTITULÉ DE LA CAUSE :
+Gail Galbraith c. Sa Majesté la Reine
+et William Galbraith (intervenant)
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 18 septembre 2006
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge en chef D.G.H. Bowman
+DATE DU JUGEMENT ET DES
+MOTIFS DU JUGEMENT :
+Le 3 octobre 2006
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Kandia Aird
+Avocat de l’intervenant :
+Me J. Waldo Baerg
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

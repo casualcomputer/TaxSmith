@@ -1,0 +1,237 @@
+---
+title: "Dow Chemical Canada Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28066/index.do"
+last_modified: "2007-11-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 668"
+citation2: ""
+neutral_citation: "2007 CCI 668"
+decision_date: "2007-11-01"
+language: "fr"
+item_id: "28066"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1586
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:07:42.832000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b2af6e11c02ae4dae45966725dbd70960f85a31ab33e49b2634fe20fdb75d517"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dow Chemical Canada Inc. c. La Reine
+
+- Citation: 2007 CCI 668
+- Decision date: 2007-11-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1586, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dow Chemical Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-01
+Référence neutre
+2007 CCI 668
+Numéro de dossier
+2007-133(IT)G
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-133(IT)G
+ENTRE :
+DOW CHEMICAL CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 5 juin 2007, à Calgary (Alberta).
+Devant : L’honorable juge M.A. Mogan
+Comparutions :
+Avocat de l’appelante :
+Me Michel Bourque
+Avocate de l’intimée :
+Me Bonnie F. Moon
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2001 est accueilli, avec dépens, et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que le montant en litige (30 990 628 $) ne doit pas être inclus dans le calcul du revenu.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2007.
+« M.A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 12e jour de décembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI668
+Date : 20071101
+Dossier : 2007-133(IT)G
+ENTRE :
+DOW CHEMICAL CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Mogan
+[1] La société appelante a été créée le 1er octobre 2001, au moment où deux sociétés remplacées ont été fusionnées en vertu des dispositions de la Loi canadienne sur les sociétés par actions. La première année d’imposition de l’appelante commençait le 1er octobre 2001 et se terminait le 31 décembre 2001. Lorsque l’appelante a produit sa déclaration fiscale à l’égard de la première année, elle a déclaré une perte nette de 35 066 100 $ aux fins de l’impôt sur le revenu et une perte autre qu’en capital de 61 604 100 $ pour l’exercice considéré.
+[2] Par un avis de nouvelle cotisation daté du 29 juin 2004, le ministre du Revenu national (le « ministre ») a corrigé le revenu net déclaré par l’appelante pour sa première année d’imposition en incluant un montant de 30 990 628 $ désigné comme des « montants impayés ». L’appelante conteste cette nouvelle cotisation et prétend que le montant de 30 990 628 $ ne devrait pas être comptabilisé dans le calcul du revenu pour sa première année d’imposition. La seule question en litige dans le présent appel est de savoir si le ministre est autorisé, en vertu du paragraphe 78(1) de la Loi de l’impôt sur le revenu, à inclure le montant de 30 990 628 $ (le « montant en litige ») dans le calcul du revenu de la nouvelle société issue de la fusion (l’appelante) pour sa première année d’imposition. Il n’y a pas de solution intermédiaire. Le montant en litige est soit inclus, soit exclu.
+[3] Au début de l’audience, les avocats des parties ont déposé un exposé conjoint des faits renfermant 29 paragraphes numérotés, ainsi qu’un recueil conjoint de documents (18 onglets) contenant les documents dont il est question dans l’exposé conjoint des faits. L’exposé conjoint des faits est la pièce 1, et le recueil conjoint de documents est la pièce 2. Personne n’a été assigné à témoigner oralement. Les pièces 1 et 2 constituent la seule preuve dont la Cour dispose. Les avocats ont procédé directement à la présentation de leurs arguments. Je reproduis ci‑dessous l’exposé conjoint des faits tel qu’il apparaît dans la pièce 1 :
+[traduction]
+A. Les parties
+1. Dow Chemical Company (« Dow ») a été créée en 1897 en vertu des lois de l’État du Michigan et restructurée en 1947 en vertu des lois de l’État du Delaware. Le certificat de constitution à jour de Dow déposé le 18 mai 2004 est reproduit à l’onglet 1 du recueil conjoint de documents.
+2. Dow Chemical Canada Inc. (« DCCI ») (anciennement dénommée « Dow Chemical of Canada, Limited ») a été constituée en société sous le régime de la Loi canadienne sur les sociétés par actions (la « LCSA ») le 5 juin 1942. Les lettres patentes de la DCCI, datées du 5 juin 1942, sont reproduites à l’onglet 2 du recueil conjoint de documents.
+3. Avant le 1er octobre 2001, Dow détenait toutes les actions de DCCI. Le registre des actionnaires inscrits jusqu’au 30 avril 1990 est reproduit à l’onglet 3 du recueil conjoint de documents. Il demeure entendu que les parties conviennent que Dow a détenu toutes les actions de DCCI jusqu’au 1er octobre 2001, même si la dernière inscription à l’onglet 3 est datée du 30 avril 1990.
+4. Union Carbide Corporation (« UCC ») a été créée le 1er novembre 1917 en vertu des lois de l’État de New York. Le certificat de constitution à jour de UCC déposé en date du 25 juin 1998 est reproduit à l’onglet 4 du recueil conjoint des documents.
+5. Union Carbide Canada Inc. (« UCCI ») (anciennement 965089 Ontario Limited et Union Carbide Chemicals and Plastics Canada Inc.) a été constituée le 27 novembre 1991 en vertu des lois de la province de l’Ontario. Les statuts constitutifs de 956089 Ontario Limited [sic], en date du 27 novembre 1997, les statuts de modification qui ont suivi et les statuts de prorogation établis en vertu de la LCSA, en date du 10 septembre 2001, sont tous reproduits à l’onglet 5 du recueil conjoint de documents.
+6. Union Carbide Canada Finance Inc. (« UCCFI ») a été constituée en société le 18 novembre 1998 en vertu de la Business Corporations Act de l’Alberta. Le certificat de constitution daté du 18 novembre 1998 est reproduit à l’onglet 6 du recueil conjoint de documents.
+7. Le 6 février 2001, Dow a acquis le contrôle de UCC (l’« acquisition du contrôle »).
+8. Avant le 6 février 2001, ni Dow ni DCCI n’était liée à UCC ou à UCCI.
+9. Le 10 septembre 2001, UCCI a été prorogée en vertu des dispositions de la LCSA.
+10. Le 1er octobre 2001, UCCI et DCCI ont été fusionnées en vertu des dispositions de la LCSA (la « fusion »). L’entité issue de la fusion a conservé la dénomination de Dow Chemical Canada Inc. (la « société issue de la fusion »). Le certificat de fusion et les statuts de fusion, en date du 1er octobre 2001, sont reproduits à l’onglet 7 du recueil conjoint de documents. La société issue de la fusion est l’appelante en l’espèce.
+B. Prêt à l’origine de la question en litige dans le présent appel
+11. Le 28 décembre 1998, UCC et UCCI ont conclu une entente de prêt intersociétés (le « prêt ») suivant laquelle UCCI pouvait emprunter jusqu’à 1 000 000 000 $ ($CAN) de UCC au taux d’intérêt interbancaire offert à Londres à six mois, plus 100 points de base, avec paiement tous les six mois. Une copie du prêt est présentée à l’onglet 8 du recueil conjoint de documents.
+12. Le 30 mars 1999, ou vers cette date, UCC a cédé à UCCFI les intérêts qu’elle avait dans le prêt consenti (la « cession »). L’acte de cession est reproduit à l’onglet 9 du recueil conjoint de documents.
+13. Au moment où UCC et UCCI ont signé l’entente de prêt et au moment où UCC a fait cession à UCCFI de ses intérêts dans le prêt, UCC, UCCI et UCCFI étaient toutes les trois liées entre elles, au sens du paragraphe 251(2) de la Loi de l’impôt sur le revenu (la « Loi »).
+14. Aucune des modalités du contrat de prêt, notamment le montant, la date d’échéance et le montant payable à l’échéance, n’a été modifiée à la suite de la cession ou de la fusion.
+15. Pour l’année d’imposition se terminant le 31 décembre 2000, UCCI a déduit un montant de 30 990 627, en vertu de l’alinéa 20(1)c) de la Loi, à titre d’intérêts courus sur le prêt pour l’année civile 2000 (le montant des intérêts pour 2000).
+16. En 2001, les années d’imposition de UCCI se divisaient comme suit :
+a) du 1er janvier 2001 au 6 février 2001;
+b) du 7 février 2001 au 30 septembre 2001.
+17. La première année d’imposition de la société issue de la fusion a commencé le 1er octobre 2001 et s’est terminée le 31 décembre 2001 (l’« année d’imposition 2001 de la société issue de la fusion »).
+18. À toutes les époques pertinentes, le montant des intérêts pour 2000 était impayé et demeurait dû.
+C. Cotisations, nouvelles cotisations et décisions qui ont mené à l’appel
+19. La société issue de la fusion a envoyé par la poste sa déclaration fiscale aux fins de la partie I de la Loi pour son année d’imposition se terminant le 31 décembre 2001, et le ministre du Revenu national l’a reçue le 2 juillet 2002, ou vers cette date (la « déclaration fiscale de 2001 »). Le formulaire T2 – Déclaration de revenus des sociétés pour l’année d’imposition allant du 1er octobre au 31 décembre 2001 est reproduit à l’onglet 10 du recueil conjoint de documents.
+20. Dans sa déclaration fiscale de 2001, la société issue de la fusion a déclaré notamment une perte nette de 35 066 100 $ et une perte autre qu’en capital de 61 604 100 $ pour l’exercice considéré.
+21. Le 25 octobre 2002, l’intimée a envoyé un avis de cotisation de société dans lequel elle établissait la perte autre qu’en capital à 61 596 430 $ pour l’exercice considéré de la société issue de la fusion. Cet avis de cotisation daté du 23 octobre 2002 est reproduit à l’onglet 11 du recueil conjoint de documents.
+22. Le 16 juin 2004, l’intimée a fait d’autres rajustements à la déclaration fiscale pour 2001, et elle a envoyé un formulaire T7W-C indiquant un revenu net révisé de 17 156 489 $ et un revenu imposable révisé de zéro aux fins de la partie I de la Loi. Le formulaire T7W-C daté du 16 juin 2004 est reproduit à l’onglet 12 du recueil conjoint de documents. L’un des rajustements apportés était l’ajout du montant des intérêts pour 2000 dont il a été question aux paragraphes 15 et 18, et c’est ce rajustement qui est visé par l’appel. L’intimée a également fait d’autres rajustements à l’impôt aux fins des parties I et I.3 de la Loi, mais ces rajustements ne sont pas pertinents dans le cadre du présent appel.
+23. Le 29 juin 2004, l’intimée a envoyé un avis de nouvelle cotisation pour l’année d’imposition 2001 de la société issue de la fusion qui tenait compte des rajustements décrits au paragraphe précédent (la « nouvelle cotisation »). La nouvelle cotisation établie à l’égard de l’impôt aux fins de la partie 1 de la Loi indiquait qu’aucun impôt n’était payable. La nouvelle cotisation est reproduite à l’onglet 13 du recueil conjoint de documents.
+24. Le 28 septembre 2004, la société issue de la fusion a déposé un avis d’opposition à la nouvelle cotisation. Cet avis est reproduit à l’onglet 14 du recueil conjoint de documents.
+25. Le 5 avril 2006, l’intimée a envoyé un avis de ratification du ministre confirmant la nouvelle cotisation, y compris les rajustements ayant donné lieu à un impôt à payer nul aux fins de la partie I de la Loi. L’avis de ratification est reproduit à l’onglet 15 du recueil conjoint de documents.
+26. Le 30 juin 2006, ou vers cette date, la société issue de la fusion a présenté une demande en vertu du paragraphe 152(1.1) de la Loi afin d’obtenir de l’intimée qu’elle détermine le montant des pertes subies aux fins de la partie I de la Loi pour l’année d’imposition 2001. Cette demande est reproduite à l’onglet 16 du recueil conjoint de documents.
+27. Le 26 juillet 2006, l’intimée a délivré un avis de détermination des pertes de la société issue de la fusion pour l’année d’imposition 2001 (la « détermination »). L’intimée a établi que le montant des pertes autres qu’en capital se chiffrait à 9 381 511 $ pour l’exercice considéré et que le montant des intérêts pour 2000 était l’un des éléments qui réduisaient la perte autre qu’en capital de l’exercice considéré pour l’année d’imposition 2001. L’avis de détermination est reproduit à l’onglet 17 du recueil conjoint des documents.
+28. Le 30 août 2006, ou vers cette date, la société issue de la fusion a fait signifier à l’intimée un avis d’opposition à la détermination. Cet avis d’opposition daté du 30 août 2006 est reproduit à l’onglet 18 du recueil conjoint de documents.
+29. Plus de 90 jours se sont écoulés entre la signification à l’intimée de l’avis d’opposition à la détermination et le dépôt par la société issue de la fusion de l’avis d’appel à la Cour.
+[4] Les documents contenus dans la pièce 2 dont j’ai pris connaissance corroborent les faits relatés dans l’exposé conjoint des faits. Par conséquent, je vais trancher l’appel sur la foi de l’exposé conjoint des faits uniquement, sauf en ce qui concerne certaines observations sur les avis d’opposition figurant aux onglets 14 et 18 de la pièce 2. Étant donné que les faits ne sont pas contestés, la décision sera fondée sur l’interprétation et l’application de certaines dispositions de la Loi de l’impôt sur le revenu (la « Loi »). Dans le présent appel, la disposition la plus importante est l’alinéa 78(1)a), lequel est rédigé comme suit :
+78(1) Lorsqu’une somme, relative à des dépenses déductibles et due par un contribuable à une personne avec laquelle il avait un lien de dépendance au moment où les dépenses ont été engagées et à la fin de la deuxième année d’imposition qui suit celle durant laquelle ces dépenses ont été engagées, n’a pas encore été payée à la fin de la deuxième année d’imposition, il faut :
+a) soit inclure la somme ainsi impayée dans le calcul du revenu du contribuable pour la troisième année d’imposition suivant celle au cours de laquelle les dépenses ont été engagées;
+b) […] [disposition non pertinente.]
+[5] L’alinéa 78(1)(a) vise à limiter la période où des dépenses déductibles (telles que des intérêts, un loyer ou une redevance) peuvent être comptabilisées (sans être payées) si le contribuable débiteur et le créancier ont un lien de dépendance, à moins que le montant constaté ne soit ultérieurement acquitté dans un délai raisonnable. Le paragraphe 78(1) établit ce délai raisonnable à deux années d’imposition du contribuable débiteur après l’année d’imposition durant laquelle ces dépenses déductibles ont été engagées.
+[6] La paragraphe 11 de l’exposé conjoint des faits décrit une entente de prêt intervenue entre Union Carbide Corporation (« UCC », une grande société américaine) et Union Carbide Canada Inc. (« UCCI », une société ontarienne). Le paragraphe 12 de l’exposé conjoint des faits décrit la cession par UCC de l’entente de prêt à Union Carbide Canada Finance Inc. (« UCCFI », une société albertaine). L’exposé conjoint des faits ne dit pas qui possédait les actions émises de UCCI ou de UCCFI à un moment donné, mais je conclus que UCCI et UCCFI étaient, directement ou indirectement, des filiales appartenant en propriété exclusive à UCC. En tout état de cause, il est mentionné au paragraphe 13 de l’exposé conjoint des faits que UCC, UCCI et UCCFI étaient liées entre elles (c’est‑à‑dire qu’elles avaient un lien de dépendance) aux termes de la Loi à toutes les dates pertinentes.
+[7] Comme UCCI et UCCFI avaient un lien de dépendance durant toute l’année civile 2000, le montant en litige (30 990 628 $), comptabilisé et déduit par UCCI dans le calcul de son revenu pour 2000, était une dépense déductible remplissant les conditions du paragraphe 78(1). Autrement dit, le délai a commencé à courir le 31 décembre 2000, à l’égard de UCCI, en application du paragraphe 78(1), quant à savoir si elle paierait le montant en litige avant la fin de la deuxième année d’imposition après 2000.
+[8] Deux événements, sous le régime de la Loi, ont amené UCCI à avoir des années d’imposition écourtées dans les neufs premiers mois de l’année civile 2001. Premièrement, Dow Chemical Company (« Dow ») a acquis le contrôle de UCC le 6 février 2001 (exposé conjoint des faits, paragraphe 7). En vertu du paragraphe 249(4), l’acquisition du contrôle d’une société modifie la fin de l’année d’imposition dans laquelle le contrôle est acquis. Cette disposition est rédigée comme suit :
+249(4) En cas d’acquisition du contrôle d’une société à un moment donné (sauf une société étrangère affiliée d’un contribuable résidant au Canada, qui n’a pas exploité d’entreprise au Canada au cours de sa dernière année d’imposition commençant avant ce moment) par une personne ou un groupe de personnes, les règles suivantes s’appliquent dans le cadre de la présente loi :
+a) sous réserve de l’alinéa c), l’année d’imposition de la société qui, sans le présent alinéa, comprendrait ce moment est réputée se terminer immédiatement avant ce moment;
+b) une nouvelle année d’imposition de la société est réputée commencer à ce moment;
+En conséquence de l’application du paragraphe 249(4), la première année d’imposition de UCCI après l’année civile 2000 était la période allant du 1er janvier au 6 février 2001.
+[9] Le deuxième événement qui a amené UCCI à avoir une autre année d’imposition écourtée en 2001 était sa fusion avec Dow Chemical Canada Inc. (« DCCI ») en date du 1er octobre 2001 (exposé conjoint des faits, paragraphe 7). Aux termes de l’alinéa 87(2)a), lorsque plusieurs sociétés fusionnent, l’année d’imposition des sociétés remplacées se termine au moment de la fusion.
+87(2) Lorsqu’il y a eu fusion de plusieurs sociétés après 1971, les règles suivantes s’appliquent :
+a) pour l’application de la présente loi, l’entité issue de la fusion est réputée être une nouvelle société dont la première année d’imposition est réputée avoir commencé au moment de la fusion et l’année d’imposition d’une société remplacée, qui se serait autrement terminée après la fusion, est réputée s’être terminée immédiatement avant la fusion;
+En conséquence de l’application de l’alinéa 87(2)a), la deuxième année d’imposition de UCCI après l’année civile 2000 était la période allant du 7 février au 30 septembre 2001.
+[10] L’exposé conjoint des faits, aux paragraphes 7, 10 (première phrase) et 16, fait état de ces deux événements qui ont amené UCCI à avoir des années d’imposition écourtées dans les premiers mois de l’année civile 2001. Je reproduis ces paragraphes ci‑dessous.
+[traduction]
+7. Le 6 février 2001, Dow a acquis le contrôle de UCC (l’acquisition du contrôle).
+10. Le 1er octobre 2001, UCCI et DCCI ont été fusionnées en vertu des dispositions de la LCSA (la « fusion »). […]
+16. En 2001, les années d’imposition de UCCI se divisaient comme suit :
+a) du 1er janvier 2001 au 6 février 2001;
+b) du 7 février 2001 au 30 septembre 2001.
+[11] Le fait que le montant en litige était impayé et demeurait dû à toutes les époques pertinentes (exposé conjoint des faits, paragraphe 18) déclenche l’application du paragraphe 78(1) à l’égard de UCCI. La société appelante a été constituée le 1er octobre 2001 au moment de la fusion de UCCI et de DCCI. Elle a conservé la dénomination de l’une des sociétés remplacées. La question en litige, reformulée depuis le paragraphe 2, est de savoir si le montant en litige doit être inclus dans le calcul du revenu de l’appelante pour sa première année d’imposition, qui s’étend du 1er octobre au 31 décembre 2001.
+Arguments des avocats
+[12] L’avocat de l’appelante a allégué que le paragraphe 78(1) ne peut s’appliquer à une société issue d’une fusion (comme l’appelante) si elle est créée avant le dernier jour de ce qui serait par ailleurs la deuxième année d’imposition suivant l’année d’imposition dans laquelle une société remplacée s’est endettée dans les circonstances décrites dans ce paragraphe. À l’égard de UCCI, il n’y a pas de « troisième année d’imposition », aux termes du paragraphe 78(1), dans laquelle le montant en litige peut être inclus dans le calcul du revenu. Le paragraphe 78(1) devrait être interprété à l’égard d’une personne particulière (UCCI) pour laquelle trois années d’imposition consécutives peuvent être établies. UCCI ne comptait pas trois années d’imposition après le 31 décembre 2000.
+[13] Pour l’application du paragraphe 78(1), le débiteur et le créancier doivent être des personnes qui avaient un « lien de dépendance » au moment où les dépenses déductibles ont été engagées et à la fin de la deuxième année d’imposition suivant celle durant laquelle ces dépenses déductibles ont été engagées. D’après les faits de l’appel, l’appelante (en tant que nouvelle société issue d’une fusion) ne pouvait avoir eu de relation (avec ou sans lien de dépendance) avec le créancier, UCCFI, dans l’année civile 2000 au moment où les dépenses déductibles ont été engagées.
+[14] L’avocate de l’intimée a allégué que le paragraphe 87(7) est suffisant en lui‑même pour le maintien de la cotisation faisant l’objet de l’appel. La partie pertinente du paragraphe 87(7) est rédigée comme suit :
+87(7) Lorsqu’il y a eu fusion de plusieurs sociétés après le 6 mai 1974 et que :
+a) d’une part, une dette ou autre engagement d’une société remplacée qui n’avait pas été réglé immédiatement avant la fusion est devenu une dette ou autre engagement de la nouvelle société lors de la fusion;
+b) d’autre part, le montant que doit payer la nouvelle société à l’échéance de la dette ou de l’engagement est le même que celui que la société remplacée aurait dû payer à l’échéance,
+les dispositions de la présente loi :
+c) ne s’appliquent pas à l’égard du transfert de cette dette ou de cet autre engagement à la nouvelle société;
+d) s’appliquent comme si la nouvelle société avait contracté la dette ou l’engagement au moment où la société remplacée l’a contracté en vertu de la convention conclue le jour où la société remplacée a conclu une convention en vertu de laquelle la dette ou l’engagement a été contracté. […]
+[15] L’intimée s’appuie en particulier sur l’alinéa 87(7)d) pour le maintien de la cotisation. Suivant cette disposition, lorsqu’une dette contractée par une société remplacée devient une dette de la société issue de la fusion, d’autres dispositions de la Loi s’appliquent « comme si » la société issue de la fusion avait contracté la dette : i) au moment où la société remplacée l’a contractée; ii) en vertu des modalités de la convention concernant la dette conclue par la société remplacée. Même si la société issue de la fusion est une « nouvelle » société, elle s’est substituée à la société remplacée débitrice en ce qui a trait aux modalités d’une dette dont elle a hérité.
+[16] Les « dispositions de la présente loi » dont il est question immédiatement après l’alinéa 87(7)b) comprennent l’article 78, selon lequel une dépense déductible engagée mais impayée doit être incluse dans le revenu du débiteur si elle demeure impayée après un délai raisonnable. Il importe, suivant les conditions prescrites à l’article 78, que le contribuable débiteur et le créancier aient un « lien de dépendance » au moment où la dépense est engagée et à la fin de la deuxième année d’imposition suivant ce moment.
+[17] L’intimée allègue qu’en vertu du paragraphe 251(3.1) ou 251(3.2), l’appelante sera réputée avoir été liée aux sociétés remplacées (en particulier à UCCI) immédiatement avant la fusion.
+251(3.1) Lorsqu’il y a eu fusion ou unification de plusieurs sociétés et que la nouvelle société formée à la suite de la fusion ou l’unification ainsi que toute société remplacée auraient été liées immédiatement avant la fusion ou l’unification, si la nouvelle société avait existé à ce moment et si les personnes qui étaient les actionnaires de la nouvelle société immédiatement après la fusion ou l’unification avaient été les actionnaires de la nouvelle société à ce moment, la nouvelle société toute société remplacée sont réputées avoir été des personnes liées.
+251(3.2) En cas de fusion ou d’unification de plusieurs sociétés qui étaient liées (autrement qu’à cause d’un droit visé à l’alinéa (5)b)) les unes aux autres immédiatement avant la fusion ou l’unification, la société issue de la fusion ou de l’unification et chacune des sociétés remplacées sont réputées avoir été liées les unes aux autres.
+Analyse
+[18] Je ne vois aucune ambiguïté à l’article 78. L’objet de cette disposition est clair. Je crois cependant que l’article 87 est ambigu. En particulier, il m’est difficile de décider si les dispositions de l’alinéa 87(2)a) et du paragraphe 87(7) imposent à la nouvelle société issue de la fusion l’obligation, en vertu de l’alinéa 78(1)a), d’inclure dans le revenu un montant qui, n’eut été de la fusion, aurait été inclus dans le revenu d’une société remplacée.
+[19] Les arguments de chaque partie sont fort valables. Pour l’intimée, le paragraphe 87(7) vise les circonstances du présent appel, où la dette d’une société remplacée est devenue la dette de la société issue de la fusion. L’alinéa 87(7)c) prévoit un transfert de la dette libre d’impôt à la société issue de la fusion. L’alinéa 87(7)d) applique « les dispositions de la présente loi » comme si la société issue de la fusion avait contracté la dette au moment où la société remplacée l’a contractée. Les dispositions de la Loi comprennent bien entendu l’article 78.
+[20] Il vaut la peine de répéter la règle énoncée à l’alinéa 87(2)a) :
+a) pour l’application de la présente loi, l’entité issue de la fusion est réputée être une nouvelle société dont la première année d’imposition est réputée avoir commencé au moment de la fusion et l’année d’imposition d’une société remplacée, qui se serait autrement terminée après la fusion, est réputée s’être terminée immédiatement avant la fusion;
+Je note à l’alinéa a) que l’année d’imposition d’une société remplacée est « réputée s’être terminée immédiatement avant la fusion » mais que la société remplacée elle‑même n’est pas réputée avoir pris fin au moment de la fusion.
+[21] Comme condition importante, le paragraphe 78(1) exige que le débiteur de la dépense déductible ait un lien de dépendance avec le créancier au moment où la dépense est engagée. Le paragraphe 251(3.1) semble répondre à la question relative aux personnes liées (c‑.‑à‑d. avec lien de dépendance) en ce qui concerne l’appelante et UCCI « immédiatement avant la fusion », parce que Dow était l’actionnaire exerçant le contrôle sur les deux sociétés remplacées à ce moment‑là et que Dow était l’actionnaire exerçant le contrôle sur l’appelante « immédiatement après la fusion ». En vertu de l’alinéa 251(1)a), les personnes liées sont réputées avoir un lien de dépendance et, en vertu de l’alinéa 251(2)c), deux sociétés sont liées si elles sont contrôlées par la même personne.
+[22] Immédiatement avant la fusion, UCCI et UCCFI étaient liées parce qu’elles étaient toutes les deux contrôlées par Dow, et UCCI était réputée avoir été liée à l’appelante en vertu du paragraphe 251(3.1), comme il a été souligné précédemment. En vertu du paragraphe 251(3), deux sociétés liées à la même société sont réputées être liées entre elles. Par conséquent, d’un point de vue hypothétique, l’appelante était liée à UCCFI immédiatement avant la fusion par application des paragraphes 251(3) et 251(3.1).
+[23] Compte tenu des dispositions législatives examinées aux paragraphes 21 et 22 ci‑dessus, peut‑on dire que l’appelante, même d’un point de vue hypothétique, était liée à UCCFI et avait donc un lien de dépendance avec elle dans l’année civile 2000, lorsque le montant en litige a été engagé ou constaté? Il me semble que le libellé clair du paragraphe 87(7) et les dispositions de l’article 251 relatives au lien de dépendance ne justifient pas pareille conclusion.
+[24] Le libellé clair du paragraphe 87(7) couvre toute les dettes d’une société remplacée (au titre du revenu et au titre du capital) qui sont devenues les dettes de la société issue de la fusion. L’article 78 concerne seulement les dépenses déductibles lorsque le contribuable débiteur et le créancier ont un lien de dépendance. Pour tous les types de dette, l’article 78 vise une cible étroite, tandis que le paragraphe 87(7) vise une cible beaucoup plus grande. Je n’ai aucun motif de conclure que le paragraphe 87(7) a été rédigé en fonction de l’article 78. En fait, si le paragraphe 87(7) avait été rédigé pour étendre le principe énoncé à l’article 78 aux règles relatives à la fusion des sociétés, je m’attendrais à trouver au paragraphe 87(7) un libellé plus proche de celui de l’article 78.
+[25] Au paragraphe 78(1), il est question d’un débiteur qui « avait un lien de dépendance » avec le créancier « au moment où les dépenses ont été engagées ». Bien que, au paragraphe 87(7), il ne soit pas question de personnes ayant un lien de dépendance, les règles énoncées aux paragraphes 251(3.1) et (3.2) font qu’une nouvelle société issue d’une fusion sera réputée avoir été liée à une société remplacée « immédiatement avant la fusion » si certaines conditions sont remplies. Je suis convaincu qu’il a été satisfait aux conditions du paragraphe 251(3.1) et qu’il a également été satisfait à celles du paragraphe 251(3.2). Par conséquent, l’appelante est réputée avoir été liée à UCCI et DCCI (et avoir eu un lien de dépendance avec elles) immédiatement avant la fusion.
+[26] Il existe cependant une distinction importante entre i) une relation dans laquelle l’appelante est réputée avoir eu un lien de dépendance avec UCCI et DCCI immédiatement avant la fusion et ii) la question de savoir si l’appelante et UCCFI (le créancier) peuvent être réputées avoir été des personnes liées au cours de l’année civile 2000, avant que Dow n’acquière le contrôle de UCC et au moment où UCCI et DCCI n’avaient aucun lien de dépendance. À mon avis, les règles « déterminatives » des paragraphes 251(3.1) et (3.2) ne font pas en sorte que l’appelante ait été liée à UCCI ou UCCFI au cours de l’année civile 2000, relativement longtemps avant la fusion, lorsque UCCI n’avait guère de lien de dépendance avec Dow et DCCI.
+[27] Suivant mon interprétation de l’article 87, j’ai conclu que l’appel devait être accueilli parce que l’appelante ne satisfait pas à l’une des conditions fondamentales du paragraphe 78(1). Plus particulièrement, l’appelante (ayant hérité du montant en litige comme une dette de UCCI au moment de la fusion) n’était pas liée à UCCI ou à UCCFI, dans les faits ou par application d’une règle déterminative, durant l’année civile 2000 lorsque le montant en litige a été engagé comme une dette de UCCI envers UCCFI.
+[28] Trois propositions soutiennent la conclusion que je viens de formuler au paragraphe 27. Premièrement, la cotisation visée par l’appel n’est pas compatible avec l’objet de l’article 78. Deuxièmement, il existe une distinction entre une nouvelle société issue d’une fusion et les sociétés remplacées. Troisièmement, la Loi comporte une lacune. Je vais discuter de ces propositions dans l’ordre.
+[29] Premièrement, l’article 78 prévoit une période de deux années d’imposition au cours de laquelle le contribuable débiteur peut en fait payer les dépenses déductibles avant qu’elles ne soient incluses dans le calcul du revenu de la troisième année d’imposition. Voir l’alinéa 78(1)a). L’année d’imposition d’une société compte normalement 12 mois ou au plus 53 semaines. Voir les paragraphes 249(1) et 249.1(1). Les deux premières années d’imposition de UCCI (la société débitrice) après le 31 décembre 2000 ont été abrégées en raison, d’une part, de l’acquisition du contrôle de UCC par Dow en date du 6 février 2001 et, d’autre part, de la fusion de UCCI et de DCCI le 1er octobre 2001. Voir les paragraphes 8, 9 et 10 ci‑dessus.
+[30] D’un point de vue hypothétique, si Dow n’avait pas acquis le contrôle de UCC et s’il n’y avait pas eu de fusion, UCCI aurait pu payer les dépenses déductibles, en tout ou en partie, à UCCFI au cours des années civiles 2001 et 2002, avant que les montants impayés ne puissent être inclus dans le calcul du revenu « pour la troisième année d’imposition » aux termes de l’alinéa 78(1)a). L’appelante et l’intimée conviennent que, dans les neuf premiers mois de 2001, UCCI a eu deux années d’imposition (exposé conjoint des faits, paragraphe 16).
+[31] Le ministre invoque le changement de contrôle du 6 février 2001 et la fusion du 1er octobre 2001 pour reprendre le calcul du délai relativement aux deux années d’imposition dont il est question au paragraphe 78(1). L’appelante reconnaît qu’il y a eu deux années d’imposition abrégées dans les neuf premiers mois de 2001, mais elle allègue ceci : i) comme le contribuable débiteur initial au paragraphe 78(1) n’a pas survécu à la fusion, les montants impayés n’ont pu être inclus dans le calcul du revenu de la troisième année d’imposition après le 30 septembre 2001; ii) elle ne peut être réputée avoir été liée à UCCFI dans l’année civile 2000 lorsque la dépense déductible a été engagée.
+[32] Dans Placer Dome Canada Ltd. c. Ontario (Ministre des Finances), [2006] 1 R.C.S. 715, la Cour suprême du Canada a réitéré sa position sur l’interprétation des lois fiscales. Le juge LeBel, s’exprimant au nom de la Cour dans un jugement unanime, a déclaré ce qui suit aux paragraphes 23 et 24 :
+[23] […] Lorsque, comme en l’espèce, la disposition peut recevoir plus d’une interprétation raisonnable, il faut accorder plus d’importance au contexte, à l’économie et à l’objet de la loi en question. Par conséquent, l’objet d’une loi peut servir non pas à mettre de côté le texte clair d’une disposition, mais à donner l’interprétation la plus plausible à une disposition ambiguë.
+[24] Bien qu’il existe une présomption résiduelle en faveur du contribuable, elle demeure seulement résiduelle et ne s’applique donc que dans le cas exceptionnel où les principes d’interprétation ordinaires ne permettent pas de régler la question en litige : Notre-Dame de Bon-Secours, p. 19. […]
+[33] À mon avis, les parties pertinentes de l’article 87 peuvent recevoir plus d’une interprétation raisonnable, et les principes d’interprétation ordinaire ne permettent pas de régler la question en litige. La cotisation visée par l’appel va à l’encontre de ce que je considère comme étant le contexte, l’économie et l’objet de l’article 78 si elle accorde seulement neuf mois pour le paiement de la dépense déductible. De plus, la cotisation va à l’encontre de la présomption résiduelle en faveur du contribuable.
+[34] Deuxièmement, en ce qui concerne la distinction entre une nouvelle société issue d’une fusion et les sociétés remplacées, j’invoque l’arrêt de la Cour d’appel fédérale dans The Queen (Appellant) v. Pan Ocean Oil Ltd. (Respondent), 94 DTC 6412. Le contribuable (Pan Ocean) était une société issue de la fusion de deux sociétés albertaines désignées « ALBERTA » et « POOL ». La société POOL avait elle‑même été constituée à la suite d’un certain nombre de fusions qui lui avaient permis de devenir la détentrice de certains biens pétroliers et gaziers, hérités d’une ancienne société qui avait engagé des frais d’exploration au Canada (« FEC ») avant 1972. Pan Ocean a cherché à déduire certains de ces frais d’exploration à l’égard des années d’imposition 1974 et 1975.
+[35] En 1971 et 1972, POOL avait déduit du calcul de son revenu une partie des FEC hérités de l’ancienne société. En conséquence, POOL était une « seconde corporation remplaçante » au sens du paragraphe 83A(8d) de la Loi dans sa forme antérieure à 1972. La législation pertinente (la nouvelle Loi postérieure à 1971 et la règle transitoire) ne permettait pas la déduction des FEC par une troisième société remplaçante ou une société remplaçante subséquente. La question en litige était de savoir si Pan Ocean était une deuxième société remplaçante et avait ainsi droit à la déduction des FEC.
+[36] En accueillant l’appel de la Couronne (c.‑à‑d. Revenu Canada), le juge Hugessen s’est exprimé comme suit au nom de la Cour d’appel fédérale, à la page 6416 :
+Si j’applique le droit tel que je le comprends aux faits de l’espèce, il est clair que cet appel doit être accueilli. Les parties reconnaissent que POOL était une seconde corporation remplaçante et que la fusion de POOL et ALBERTA est régie par l’article 87. Cela étant, l’intimée est, aux fins de l’impôt, réputée être une nouvelle corporation dont la première année d’imposition est réputée avoir commencé au moment de la fusion. En tant que nouvelle corporation, l’intimée n’est manifestement pas POOL, quelle que puisse être la situation en vertu des règles ordinaires du droit corporatif. […]
+[37] Je vais appliquer le raisonnement suivi par la Cour d’appel fédérale aux faits de la présente affaire. En tant que nouvelle société issue d’une fusion, l’appelante n’est manifestement pas UCCI. Par conséquent, la première année d’imposition de l’appelante, du 1er octobre au 31 décembre 2001, ne peut être considérée comme la « troisième année d’imposition » de UCCI au sens de l’alinéa 78(1)a).
+[38] Troisièmement, la législation comporte‑t‑elle une lacune? L’article 87 de la Loi établit des règles à l’égard de la fusion de plusieurs sociétés canadiennes. L’article 88 de la Loi établit les règles de la liquidation d’une filiale canadienne à l’intérieur de sa société mère canadienne. Par souci de commodité, certaines des règles énoncées à l’article 87 ont été incorporées à l’article 88 par renvoi. Les parties pertinentes de l’alinéa 88(1)e.2) sont rédigées comme suit :
+88(1) Lorsqu’une société canadienne imposable (appelée « filiale » au présent paragraphe) a été liquidée après le 6 mai 1974, qu’au moins 90 % des actions émises de chaque catégorie de son capital‑actions appartenaient, immédiatement avant la liquidation, à une autre société canadienne imposable (appelée « société mère » au présent paragraphe) […], les règles suivantes s’appliquent […] :
+e.2) les alinéas 87(2)c), d.1), e.1), (e.3), g) à l), l.3) à u), x), z.1), z.2), aa), cc), ll), nn), pp), rr), tt) et uu), le paragraphe 87(6) et, sous réserve de l’article 78, le paragraphe 87(7) s’appliquent à la liquidation, avec les modifications suivantes : […]
+[39] Je me suis interrogé à savoir si les mots « et, sous réserve de l’article 78, le paragraphe 87(7) s’appliquent à la liquidation » qui apparaissent à l’alinéa 88(1)e.2) pouvaient indiquer que le principe énoncé à l’article 78 devait être incorporé au paragraphe 87(7). Après avoir examiné les observations des avocats, j’ai conclu que les mots « sous réserve de l’article 78 » avaient été employés à l’alinéa 88(1)e.2) seulement parce que le paragraphe 78(2) contient une règle propre à la liquidation d’une société contribuable ayant engagé une dépense déductible auprès d’une personne avec laquelle elle avait un lien de dépendance, dépense qui demeure impayée lorsque la société contribuable est liquidée. Le libellé du paragraphe 78(2) illustre le problème du ministre dans le présent appel :
+78(2) Lorsqu’une somme, relative à des dépenses déductibles et due par un contribuable qui est une société à une personne avec laquelle il avait un lien de dépendance, n’a pas encore été payée au moment de la liquidation de la société qui est le contribuable et que cette liquidation a lieu avant la fin de la deuxième année d’imposition suivant celle au cours de laquelle les dépenses ont été engagées, la somme ainsi impayée doit être incluse dans le calcul du revenu du contribuable pour l’année d’imposition au cours de laquelle a eu lieu la liquidation.
+[40] Le paragraphe 78(2) m’enseigne que la Loi a prévu la liquidation d’une société contribuable ayant engagé une dépense déductible qui n’a pas été payée dans le contexte du paragraphe 78(1). Par ailleurs, il manque dans la Loi une disposition correspondante prévoyant la fusion d’une société contribuable ayant engagé une dépense déductible qui n’a pas été payée dans le contexte du paragraphe 78(1). Il existe une abondante jurisprudence suivant laquelle les tribunaux ne doivent pas chercher à combler une lacune dans un texte de loi. Voir Trans World Oil & Gas Ltd. v. The Queen, [1995] 1 C.T.C. 2087, au paragraphe 32.
+[41] Lorsque l’appelante a fait signifier au ministre l’avis d’opposition daté du 25 août 2006 (pièce 2, onglet 18), la conclusion suivante était tirée au paragraphe 33 de cet avis :
+[traduction]
+[…] Même si le montant des intérêts pour 2000 n’était pas encore payé le 31 décembre 2001, il devait, aux termes du paragraphe 78(1), demeurer impayé à la fin de la deuxième année d’imposition qui, dans le cas de la société issue de la fusion, se terminait le 31 décembre 2002. Le montant des intérêts pour 2000 ne pouvait alors être inclus que dans la troisième année d’imposition de la société issue de la fusion, qui se terminait le 31 décembre 2003.
+[42] Au cours de la présentation des arguments, j’ai demandé à l’avocat de l’appelante (qui a fait signifier l’avis d’opposition) si, dans le cas où son interprétation de l’article 87 était acceptée, l’appelante serait tenue d’inclure le montant en litige dans son revenu. Il a dit que cela était possible mais il a ajouté, assez justement, que nous n’avions pas besoin de répondre à cette question pour trancher l’appel. Je conviens que ma question était alors seulement hypothétique. L’appel visant l’année d’imposition 2001 de l’appelante est accueilli, avec dépens, compte tenu du fait que le montant en litige (30 990 628 $) ne doit pas être inclus dans le calcul du revenu.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2007.
+« M.A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 12e jour de décembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI668
+NO DE DOSSIER DE LA COUR : 2007-133(IT)G
+INTITULÉ DE LA CAUSE : DOW CHEMICAL CANADA INC. c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 5 juin 2007
+MOTIFS DU JUGEMENT : L’honorable juge suppléant M.A. Mogan
+DATE DU JUGEMENT : Le 1er novembre 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Michel Bourque
+Avocate de l’intimée :
+Me Bonnie F. Moon
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Michel Bourque
+Cabinet : Burnet, Duckworth & Palmer LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

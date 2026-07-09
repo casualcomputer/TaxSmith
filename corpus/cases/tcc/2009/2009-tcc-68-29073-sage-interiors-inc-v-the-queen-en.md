@@ -1,0 +1,160 @@
+---
+title: "Sage Interiors Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29073/index.do"
+last_modified: "2009-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 68"
+citation2: ""
+neutral_citation: "2009 TCC 68"
+decision_date: "2009-01-30"
+language: "en"
+item_id: "29073"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6819
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:37:59.776000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f0ecdeff7efc930cb6ceb49227f5f4c2dda1b95b3e64583c195af408731ab153"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sage Interiors Inc. v. The Queen
+
+- Citation: 2009 TCC 68
+- Decision date: 2009-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6819, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sage Interiors Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-30
+Neutral citation
+2009 TCC 68
+File numbers
+2007-4911(GST)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-4911(GST)I
+BETWEEN:
+SAGE INTERIORS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 27, 2009 at Edmonton, Alberta
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Jeffrey Sieben
+Counsel for the Respondent:
+Marta Burns
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Excise Tax Act for the period from November 1, 2002 to October 31, 2003 is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that tax be reduced by $15,077.29 and that penalties be reduced accordingly.
+Each party shall bear their own costs.
+The Registry is directed to refund the Court’s filing fee to the appellant.
+Signed at Edmonton, Alberta this 30th day of January 2009.
+“J. Woods”
+Woods J.
+Citation: 2009TCC68
+Date: 20090130
+Docket: 2007-4911(GST)I
+BETWEEN:
+SAGE INTERIORS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on January 29, 2009.)
+Woods J.
+[1] These are reasons delivered orally in the matter of Sage Interiors Inc. and Her Majesty the Queen. The appeal was scheduled on a peremptory basis and was heard under the Court’s informal procedure.
+[2] Sage Interiors carried on a business of providing interior construction services such as drywalling. It appeals a GST assessment made for the period from November 1, 2002 to October 31, 2003.
+[3] The appellant was represented at the hearing by Jeffrey Sieben, who worked with his father, Derald Sieben, in the business. They, along with Derald Sieben’s spouse, were the shareholders of the corporation.
+[4] Jeffrey Sieben was the only witness for the appellant at the hearing. The father did not testify but counsel for the respondent informed me that she had been told that the father had health problems. The appeals officer provided testimony for the Minister.
+[5] I turn now to the details of the assessment. The Minister made a number of adjustments to the tax payable. In the appellant’s return filed for the period, the appellant claimed a refund in respect of net tax in the amount of $53,900. In the assessment, the Minister made adjustments in respect of several items and the computations are complex. They are summarized in paragraph 18 of the Minister’s reply and I will not repeat them here.
+[6] The items that were in dispute at the hearing were agreed by the parties during opening statements.
+[7] Counsel for the Minister, Ms. Burns, conceded during the opening that the assessment was excessive by the amount of $15,077.29. She then outlined what she thought the outstanding issues between the parties were.
+[8] Mr. Sieben agreed with this description and indicated that the appellant would not be pursuing its additional claim for a new housing rebate.
+[9] Based on the opening statements, I prepared a written summary of the issues in dispute as an aide to the parties before evidence was led.
+[10] The items in dispute may be categorized into two types.
+[11] The first relates to a number of condos located in a building called the Liberty building. The appellant had contracted to provide finishing services on this building for a corporation called Pinehurst Developments Inc. The appellant also purchased some condos in the building for itself from Pinehurst.
+[12] The Minister submits that the appellant did not properly account for GST on condos that it purchased and then sold. According to the Minister, the appellant should have collected and remitted GST on the sales in the following amounts: $20,214.95 in respect of Unit 20, $20,934.58 in respect of Unit 29 and $13,738.31 in respect of Unit 27.
+[13] The second category of items in dispute relates to GST on construction services for Pinehurst at the Liberty building. The Minister submits that the appellant failed to remit a proper amount of GST on these services.
+[14] There are several items in dispute in relation to the services.
+[15] First, the Minister submits that the appellant did not properly account for work done in invoices identified through invoice numbers 311 to 315. The Minister submits that GST in the amount of $14,521.03 should have been remitted.
+[16] The second item is GST of $425 in respect of invoice number 316.
+[17] The third item is $2,388.61 which is alleged to be an under-reporting of GST in respect of other services performed. It appears that this amount was a rough estimate by the Minister because there were no proper books and records on which a proper calculation could be made.
+[18] The fourth item is an amount of $22,638.70 which is alleged to be an under‑reporting of services in respect of Units 26 and 28. Again this appears to be a rough estimate that the Minister had to make because of lack of records.
+[19] In total, the amount of GST at issue is over $80,000. Penalties have also been imposed.
+[20] The adjustments that the Minister made for these items were complex because the Minister had to give credit for what was already reported by the appellant. I find no fault with what the Minister did in the assessment. If there were errors in the calculations, the appellant should have been able to establish this through its books and records.
+[21] Before discussing the merits of the appeal, I should briefly mention that the amounts that I have described as amounts at issue exclude the amount conceded by the Minister.
+[22] I turn now to the substantive issues. The appellant has the burden in this case to present some reliable evidence to support that the disputed amounts are incorrect. My conclusion is that this burden has not been satisfied.
+[23] For many of the items in dispute, it was not possible for me to ascertain any argument being made by the appellant.
+[24] I wish to comment about two of the arguments that were made.
+[25] The first concerns GST on invoices numbers 311 to 315. The Minister assumed that these invoices were issued to Pinehurst and that they represented work done for Pinehurst.
+[26] Mr. Sieben testified that this work was done on condos that were owned by the appellant itself.
+[27] If the appellant is correct that the work was done on condos that it owned, then I do not see how it assists the appellant. If Pinehurst was charged for work, I was not provided with a reason why GST should not have been remitted on these charges.
+[28] Although that is sufficient to dispose of the appellant’s argument, I would also note that the Minister introduced into evidence copies of invoices numbers 311 to 315. The invoices show that virtually all of the work was done in parts of building that the appellant did not own.
+[29] In cross-examination, Mr. Sieben did not acknowledge the authenticity of these invoices. However, there is no reason to doubt their authenticity. The invoices have Derald Sieben’s signature at the bottom and according to the testimony Derald Sieben’s fax number is at the top. According to the appeals officer, the invoices were provided to the auditor by Derald Sieben.
+[30] In the context of this appeal under the informal procedure I accept the invoices’ authenticity.
+[31] Before leaving the issue concerning these invoices, I would briefly mention that the invoices reveal that a small amount of work was done in units that at some point were owned by the appellant. According to counsel for the Minister the amount is approximately $200.
+[32] I do not think that it would be appropriate to make an adjustment for this $200 amount. Pinehurst was clearly billed for this work. There are several possible reasons for the charges and I am not satisfied that the assessment was incorrect to include it.
+[33] In the result, I do not think it is appropriate to make any adjustment to the assessment in relation to invoices 311 to 315.
+[34] The second argument of the appellant that I wish to comment on concerns construction work that the appellant did in Units 26 and 28. The amount in dispute is $22,638.70.
+[35] The dispute between the parties was whether these units were ever purchased by the appellant. The Minister assessed GST on construction work done on these units on the basis that the appellant never did own them. In the alternative, the Minister argued that even if the units were owned by the appellant, then GST should have been remitted when the units were sold by the appellant to others. It was suggested that this tax would have exceeded the amount that was actually assessed.
+[36] Mr. Sieben led some evidence to support that the units were actually owned by the appellant. I accept this evidence. However, it does not assist the appellant because the appellant was not able to satisfactorily address the alternative argument of the Minister. Accordingly I see no reason to disturb the assessment on this issue.
+[37] In the final analysis, I am not persuaded that there is any basis to reduce the amounts that have been assessed except for the concession by the Minister. In particular, I am not persuaded by any of the appellant’s other arguments.
+[38] Further, I do not think that is appropriate to vacate the penalties on grounds of due diligence. The number of items on which adjustments were made, and the amounts at issue, amply justifies the imposition of penalties.
+[39] As a final matter, I would note that the auditor made a number of estimates for purposes of the assessment. It is very likely that the figures are not completely accurate. In the absence of any reliable evidence by the appellant to dispute these figures, however, it is not appropriate to make any adjustment.
+[40] In the result, the appeal will be allowed, and the assessment will be referred back to the Minister for reassessment on the basis that tax should be reduced by $15,077.29 as conceded by the Minister. Penalties should also be reduced accordingly.
+[41] As for costs, each party should bear their own.
+Signed at Edmonton, Alberta this 30th day of January 2009.
+“J. Woods”
+Woods J.
+CITATION: 2009TCC68
+COURT FILE NO.: 2007-4911(GST)I
+STYLE OF CAUSE: SAGE INTERIORS INC. AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: January 27, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice J. Woods
+DATE OF JUDGMENT: January 30, 2009
+APPEARANCES:
+Agent for the Appellant:
+Jeffrey Sieben
+Counsel for the Respondent:
+Marta Burns
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

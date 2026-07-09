@@ -1,0 +1,124 @@
+---
+title: "Fontana v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27814/index.do"
+last_modified: "2007-06-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 450"
+citation2: ""
+neutral_citation: "2007 TCC 450"
+decision_date: "2007-06-25"
+language: "en"
+item_id: "27814"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 323
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:58:55.205000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "00796ad3c00b49c371000d3c7ef619cb1711fc52aaff5ce705c75154020cf016"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fontana v. The Queen
+
+- Citation: 2007 TCC 450
+- Decision date: 2007-06-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 323, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fontana v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-25
+Neutral citation
+2007 TCC 450
+File numbers
+2004-1317(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1317(IT)G
+BETWEEN:
+JOSEPH FONTANA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal called for hearing on June 25, 2007 at Windsor, Ontario
+Before: The Honourable Justice G.A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Roland Peter Schwalm
+Counsel for the Respondent:
+Daniel Bourgeois
+____________________________________________________________________
+ORDER
+Upon the Respondent bringing a motion to quash the Appellant’s appeal on the ground that it is moot;
+And upon reading the materials filed by the parties, including the affidavit of Jo-Ellen Mutnjakovic and having heard her testimony on cross-examination;
+And having heard the submissions of counsel;
+IT IS HEREBY ORDERED THAT:
+1. The Respondent’s motion is dismissed, with costs to be determined by the trial judge at the hearing of this appeal. The Registry is directed to set this matter down for hearing on a peremptory basis in Windsor, Ontario.
+Signed at Ottawa, Canada, this 2nd day of August 2007.
+“G.A. Sheridan”
+Sheridan J.
+Citation: 2007TCC450
+Date: 20070802
+Docket: 2004-1317(IT)G
+BETWEEN:
+JOSEPH FONTANA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Sheridan, J.
+[1] The Appellant’s appeal of the assessments of the Minister of National Revenue of his 2001 and 2002 taxation years disallowing the amounts claimed as an Overseas Employment Tax Credit was called for hearing on June 25, 2007. At the commencement of the appeal, the Respondent moved for the quashing of the appeal on the ground that it was moot. The Respondent’s motion record had been duly filed on June 15, 2007.
+[2] Counsel for the Respondent advised the Court that the Minister was conceding that errors had been made in the calculation of the amount of Foreign Tax Credits (a related matter) in each of the taxation years and that the appeals ought to be allowed on that basis to permit the Minister to reassess accordingly. In all other respects, he submitted that the Appellant’s appeals, even if successful, would not result in any reduction in the Appellant’s federal tax liability, over and above the amounts the Crown was conceding. Further, the determination of the Appellant’s OETC entitlement was relevant only to the computation of his tax under the Income Tax Act of Ontario, pursuant to which a taxpayer may appeal an assessment of provincial tax to the Superior Court of Justice. Accordingly, the Crown took the position that, in these somewhat unusual circumstances, the doctrine of mootness ought to apply to warrant the quashing of the Appellant’s appeal.
+[3] Counsel for the Respondent referred the Court to the following decisions: Joseph Borowski v. The Attorney General of Canada,[1989] 1 S.C.R. 342 (S.C.C.); Orlando Corporation v. Her Majesty the Queen,[1994] 1 C.T.C. 2113; Sanofi-Aventis Canada Inc. et al v. Apotex Inc. and the Minister of Health, 2006 FCA 328. I am not convinced that the criteria set out in Borowski are satisfied in the present case. The other two cases, though helpful from an analytical perspective, are not particularly on point.
+[4] While counsel for the Respondent made a compelling argument in support of the Respondent’s motion, on balance I remain reluctant to take the drastic step of quashing the Appellant’s appeal, thereby denying him his day in Court. As counsel for the Respondent acknowledged, there is no question that this Court has jurisdiction to hear the appeal; nor is there any argument to be made that the Appellant is appealing from a nil assessment. While at the end of the day the amount of tax assessed may only affect the provincial component of the Appellant’s tax liability, this question is better adjudicated in a full hearing on the merits. If there are facts or issues that are not in dispute, the parties can advise the trial judge accordingly at the commencement of the hearing. The parties have completed all steps preparatory to litigation and are ready to proceed. For these reasons, I am of the view that justice is better served if the Appellant is given an opportunity to make his case.
+[5] The Respondent’s motion to quash is dismissed, with costs to be determined by the trial judge at the hearing of the appeal. The Registry is directed to set the appeal down for hearing on a peremptory basis in Windsor, Ontario.
+Signed at Ottawa, Canada, this 2nd day of August 2007.
+“G.A. Sheridan”
+Sheridan J.
+CITATION: 2007TCC450
+COURT FILE NO.: 2004-1317(IT)G
+STYLE OF CAUSE: JOSEPH FONTANA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: June 25, 2007
+REASONS FOR ORDER BY: The Honourable Justice G.A. Sheridan
+DATE OF ORDER: August 2nd, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Roland Peter Schwalm
+Counsel for the Respondent:
+Daniel Bourgeois
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Roland Peter Schwalm
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

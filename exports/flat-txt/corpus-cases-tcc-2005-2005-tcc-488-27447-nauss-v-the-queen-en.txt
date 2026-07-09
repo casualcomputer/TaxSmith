@@ -1,0 +1,172 @@
+Title: Nauss v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27447/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-488-27447-nauss-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-08-29
+
+# Nauss v. The Queen
+
+- Citation: 2005 TCC 488
+- Decision date: 2005-08-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 203, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nauss v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-29
+Neutral citation
+2005 TCC 488
+File numbers
+2005-785(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-785(IT)I
+BETWEEN:
+DARRELL FRANK NAUSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeal heard on July 20, 2005 at Charlottetown, Prince Edward Island.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Agent for the Appellant:
+Gerald J. Arsenault
+Counsel for the Respondent:
+Edward Sawa
+_______________________________________________________________
+JUDGMENT
+The appeal from the reassessment under the Income Tax Act for the 2002 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the reasons for judgment on the basis that:
+(a) the appellant’s taxable capital again on the sale of the property at 90 Eisenhauer Road, Oakland, Nova Scotia, before taking into account the real estate commissions and legal fees is $30,051.25.
+.../2
+(b) the real estate commissions and legal fees referred to at the beginning of the Reasons for Judgment totalling $23,001.85 should be taken into account in determining the capital gain, shared between the appellant and his sister.
+(c) the expenses agreed to by the parties in relation to the appellant’s knitting business in the amount of $1,771.22 are to be allowed in computing the appellant’s income.
+The appellant is entitled to his costs in accordance with the tariff.
+Signed at Ottawa, Canada, this 30th day of August 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2005TCC488
+Date: 20050829
+Docket: 2005-785(IT)I
+BETWEEN:
+DARRELL FRANK NAUSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] This appeal is from an assessment for the appellant’s 2002 taxation year. It involves the somewhat recondite question of the valuation of a life interest and a remainder interest in real property. It arises in the context of a capital gain realized by the appellant in 2002 on the disposition of real property. Before I come to the substantive issue there are two points that should be disposed of.
+[2] The basic question is the computation of the appellant’s capital gain. The agent for the appellant adduced evidence of other expenses incurred in connection with the sale of the property. A major expense which was not recognized on assessing was the real estate commission and legal fees totalling $23,001.85. These should be allowed as a cost of disposition of the property, shared between the appellant and his sister who had a one-half interest in the property.
+[3] There are few other relatively small expenses claimed by the appellant as part of the cost of disposition such as travel, repairs, food and incidentals. I do not think it has been established that these expenses properly form part of the cost of disposition of the property.
+[4] A second issue has to do with a number of expenses claimed by the appellant in his business called the Knitting Nook. The parties now agree that $1,771.22 additional expenses should be allowed as deductions in computing the appellant’s income.
+[5] I turn now to the issue of valuation.
+[6] The appellant’s grandmother, Reta Leone Eisnor was the owner of land and buildings at 90 Eisenhauer Road, Oakland, Nova Scotia. The property had been in the Eisenhauer family (the name became Eisnor at some point) since the 1700s. The house was built in 1764. Paragraph 5 of Reta Eisnor’s last will dated 11 April, 1978, read:
+5. I GIVE AND DEVISE all of my real property to my daughter, MARGARET LOUISE NAUSS, for her use during her lifetime and upon her death I give that property to my grandchildren, LEONE SUSAN RUSSELL and DARRELL FRANK NAUSS, equally, share and share alike for their own use absolutely.
+[7] Margaret Louise Nauss was Mrs. Eisnor’s daughter and Leone Susan Russell and Darrell Frank Nauss (the appellant) were the children of Margaret Louise Nauss. Mrs. Eisnor died on September 15, 1997.
+[8] The last will and testament of Margaret Louise Nauss was dated March 12, 1997. It provided in clause 6:
+6. I GIVE, DEVISE AND BEQUEATH all the rest, residue and remainder of my estate, of whatsoever nature and kind and wheresoever situate (including any property over which I may have a general power of appointment) to my husband, LLOYD LEAMAN NAUSS, as his own property absolutely. In the event that my husband, LLOYD LEAMAN NAUSS, has predeceased me, then I give all of the rest, residue and remainder of my estate to my son, DARRELL FRANK NAUSS, and my daughter, LEONA SUSAN RUSSELL, or the survivor of them alive at the time of my death, equally share and share alike as their own property absolutely.
+I mention Mrs. Nauss’ will simply for the sake of completeness. It is not relevant to this case because the property was sold prior to her death.
+[9] Mrs. Nauss and her husband lived in the property until 1997 when they moved out. Mrs. Nauss died November 12, 2003 and her husband died February 12, 2003.
+[10] Before I come to the sale on November 29, 2002 giving rise to the capital gain in question here it is useful to review the legal position that existed upon the death of the grandmother, Mrs. Eisnor, until immediately prior to the sale. When Mrs. Eisnor died she left a life interest to her daughter, Mrs. Margaret Louise Nauss, and a remainder interest to the appellant and his sister, Mrs. Russell. On September 15, 1997, Mrs. Nauss was 70 years of age. Under paragraph 70(5)(b) of the Income Tax Act the legatees of the property under Mrs. Eisnor’s will are deemed to have acquired it at its fair market value (“fmv”) at the date of death. In the result, Margaret Louise Nauss who at that time was 70 years of age, acquired her life interest at its fmv and Mr. Nauss and his sister, Mrs. Russell, each acquired 50 percent of the remainder interest at its fmv.
+[11] The life interest and the remainder interests together represent the totality of the interest in the property capable of being owned, that is to say, the fee simple.
+[12] On November 29, 2002 the property was sold by means of a Warranty Deed to Tye W. Burt. The grantors were Darrell Frank Nauss, his sister Leona Susan Russell and Margaret Louise Nauss. The appellant signed in his own capacity. Leona Susan Russell signed in her own capacity and as attorney for Margaret Louise Nauss and as attorney for Lloyd Leaman Nauss, the husband of Margaret Louise Nauss. He was simply releasing any claim that he might have under the Matrimonial Property Act of Nova Scotia. Thus the entire interest in the property was disposed of and the price was $385,000.
+[13] The assessment was based on the view that the appellant and his wife received the entire property in 1997 when the grandmother died. Therefore, the capital gain was determined to be $385,000 less the assumed fmv on the date of the grandmother’s death of $245,000 = $140,000. The appellant’s portion was $70,000 and the taxable portion was $35,000.
+[14] The respondent now admits that this view was wrong and takes the position that the capital gain realized by the appellant and his sister should be the difference between the fmv of their remainder interests on September 15, 1997 and the portion of the proceeds of $385,000 attributable to the remainder interests. I agree with the principle. The numbers, however, present something of a problem.
+[15] The way the respondent says the gain should be calculated under the new basis is set out below. The fmv of the entire property on December 15, 1997, $245,000 was based on an appraisal provided by Mrs. Russell’s husband. The appraiser called by the respondent, Bill Chappell, looked at the appraisal and found it reasonable. The figure in any event was not challenged and so I accept it. I have no other figure.
+[16] The Crown’s new calculation is based on the following:
+b) the Appellant and his sister received a Remainderman Interest in the property in 1997 which had a FMV of not more than $136,820, the Appellant’s 50% share being $68,410 ($136,820 x 50%);
+c) the Appellant’s ACB of his Remainderman Interest was $68,410;
+d) Margaret Louise Nauss received a Life Interest in the property in 1997, which had a FMV of not less than $108,180;
+e) in 2002, the entire property, consisting of both the Life Interest and the Remainderman Interest, was sold for total proceeds of $385,000; and
+f) the portion of the proceeds that was attributable to the Remainderman Interest was not less than $273,801, the Appellant’s 50% share being $136,900.50 ($273,801 x 50%).
+12. The Appellant’s taxable capital gain on the disposition of his Remainderman Interest in the property in 2002 is properly calculated as follows:
+Proceeds of Disposition $136,900.50
+ACB 68,410.00
+Capital Gain $ 68,490.50
+Taxable Capital Gain $34,245.25
+The expert called by the respondent, Mr. Chappell, is an experienced and competent real estate appraiser. He admitted however that he had never valued life interests or remainder interests and indeed had not even studied the valuation of such interests in the courses he took to obtain his accreditation. I considered not accepting him as an expert in this case despite his otherwise impressive credentials and experience. However, we are in the informal procedure and I am faced with the practical consideration that, if I did not, I would have to do something with the appeal and the most reasonable thing to do was to hear what his conclusions were and his reasons. I found him a candid and intelligent witness and our discussion of the problem was helpful. In the informal procedure we must obtain assistance from whatever sources are available.
+[17] Mr. Chappell did do some research and he set out what strikes me as a fairly reasonable starting point in valuing life interests and remainder interests. The valuation of such interests is at best an imprecise calculation. It is not like valuing a house in a subdivision where one can look to comparable sales. Life interests and remainder interests are, after all, not exactly a hot commodity on the real estate market. In any event, you either take the total value and deduct from it the value of the remainder interest to arrive at the value of the life interest or else you take the total value and deduct from it the value of the life interest to arrive at the value of the remainder interest. The latter method is difficult but the former is virtually impossible. A life interest has a finite and, at least in theory, an ascertainable value. You cannot determine a remainder interest in a vacuum or in the abstract. You have to determine the value of the life interest first and excise it out of the total value before you value the remainder interest.
+[18] The virtual impossibility of determining the remainder interest in some manner other than by first valuing the life interest is illustrated by the following passage from Mr. Chappell’s report:
+3.2.4. Method 1 Remainderman Interest
+In calculating the Remainderman Interest the first step is to forecast the total future value of the subject property at the date that the Life Estate is expected to expire (based on mortality tables). This total future value is then discounted back to the effective date of valuation to provide an indication of the total present worth of the value. This present value is representative of the Remainderman Interest and indicates the current value to the property owner. By deducting this Remainderman Interest from the total fair market at the effective date one can arrive at the value of the Life Interest as a residual value.
+3.2.5 Method 2 Life Interest
+The calculation of the Life Estate considers the present value of the potential net revenue that the property may be capable of producing. Only the Life Tenant has the right to receive rent from the property during the life tenancy. With this method, an estimate of the income the property can produce and the expenses it would incur must be estimated. The net income is then capitalized at an appropriate rate to provide a present value of the anticipated cash flow over the estimated term of the Life Interest based on mortality tables. By deducting this Life Interest from the total fair market at the effective date one can arrive at the value of the Remainderman Interest as a residual value.
+In the case of the subject property, the Remainderman Interest is the interest that accrues to the grandchildren, Darrell Nauss and Leone Russell. It is the value of the right to own the property when the life estate is ultimately extinguished. A similar calculation was made for both dates. The first date is the date that the Life Interest was created and the second date is the date when the Life Interest was extinguished.
+3.2.6 Remainderman Interest
+In order to estimate the Remainderman Interest in the property at each date we must follow 3 steps as noted above:
+Step 1. Estimate the fair market value of the property at the date the life estate was created – September 1997 and the date of the sale of the property in November 2002.
+Step 2. Forecast the future value of the property when it is anticipated that the Life Interest will cease to exist and the grandchildren will gain the fee simple interest in the property. This must be done for each of the two dates.
+Step 3. Discount that estimated future value back to provide a present value based on the expected duration of the life estate. This also must be done for each of the two dates.
+In addressing the valuation issues we have broken the process into two sections. The first addresses the value allocation as of the date the Life Interest was created i.e. September 1997. The second addresses the value allocation as of the date the Life Interest was extinguished i.e. November 2002.
+In the result we have to start by valuing the life interest at the two dates – December 15, 1997 and November 27, 2002.
+[19] I come back to the Crown’s calculations set out above. A few things strike me as interesting, if not peculiar. The first is that Mr. Nauss’ taxable capital gain on the new calculations is $34,245 whereas the capital gain on the old and erroneous assumption that Mr. Nauss and his sister got the entire fee simple in 1997 and sold it in 2002 results in a taxable capital gain for him of $35,000 – a difference of only $755. This despite the fact that Mr. Nauss’ mother in 1997 at 70 had an actuarial life expectancy of 16.02 years and in 2002 of 12.44 years. Another thing that is somewhat odd is that according to the above calculations the fmv of the life interest in 1997 as calculated by the Minister’s expert is $108,180 whereas five years later in 2002 when Mrs. Nauss was 75 the fmv of her life interest was $111,199. Now it is true that the overall value of the property rose by $140,000 from $245,000 to $385,000. A purely mathematical calculation would look something like this, assuming the fmv of the life interest to be $108,180 in 1997:
+$108,180 X 385,000 = 169,997 X 12.44 = 132,007.76
+245,000 16.02
+[20] It should also be borne in mind that the use of any factor that increases the proportion of the entire value that is attributable to the remainder interest is a two-edged sword. In 1997 it increases the appellant’s adjusted cost base of the remainder interest. In 2002 it also increases the proportion of $385,000 that is attributable to the sale of the remainder interest so that the capital gain on the sale of the remainder interest is adjusted both ways and remains relatively constant.
+[21] According to Mr. Chappell the life interest on September 15, 1997 was 44.15 percent of the total value whereas on November 22, 2002, it represented 35.55 percent of the total. This is roughly consistent with the fact that Mrs. Nauss’ actuarial life expectancy had declined from 16.02 years to 12.44 years. It is interesting, albeit irrelevant, that statistically Mrs. Nauss was expected in 2002 to live for 12.44 years whereas she in fact died on November 12, 2003. It certainly proves the truth of the statement that we know neither the day nor the hour.
+[22] The question of using the actual date of death rather than actuarial mortality tables arose in Ithaca Trust Co. v. United States, 279 U.S. 151. The answer seems obvious – the actuarial tables should be used. However, I am pleased that this view was confirmed by no less an authority than Justice Oliver Wendell Holmes, who said at pages 154-5:
+The second question is raised by the accident of the widow having died within the year granted by the statute, section 404, and regulations, for filing the return showing the deductions allowed by section 403, the value of the net estate and the tax paid or payable thereon. By section 403(a)(3) the net estate taxed is ascertained by deducting among other things gifts to charity such as were made in this case. But as those gifts were subject to the life estate of the widow of course their value was diminished by the postponement that would last while the widow lived. The question is whether the amount of the diminution, that is, the length of the postponement, is to be determined by the event as it turned out, of the widow's death within six months, or by mortality tables showing the probabilities as they stood on the day when the testator died. The first impression is that it is absurd to resort to statistical probabilities when you know the fact. But this is due to inaccurate thinking. The estate so far as may be is settled as of the date of the testator's death. The tax is on the act of the testator not on the receipt of property by the legatees. Therefore the value of the thing to be taxed must be estimated as of the time when the act is done. But the value of property at a given time depends upon the relative intensity of the social desire for it at that time, expressed in the money that it would bring in the market. Like all values, as the word is used by the law, it depends largely on more or less certain prophecies of the future, and the value is no less real at that time if later the prophecy turns out false than when it comes out true. Tempting as it is to correct uncertain probabilities by the now certain fact, we are of opinion that it cannot be done, but that the value of the wife's life interest must be estimated by the mortality tables. Our opinion is not changed by the necessary exceptions to the general rule specifically made by the act.
+(Case law citations omitted)
+The same view was expressed by Frank, Circuit Judge in Commissioner of Internal Revenue v. Marshall, 141 A.L.R. 445, 125 F.2d 943 at 946. (Circuit Court of Appeals, Second Circuit.)
+It is also argued that Congress could not have intended to be so unjust as to impose a tax based upon an estimate of value, taken from the mortality tables, which may turn out to be not in accordance with reality. Thus the Board refers to the fact that, under Section 510, the donee of a gift may be personally liable for a gift tax not otherwise paid 'to the extent of the value of such gift'; suppose, then, argues the Board, that the children, under that section, were required to pay a tax on the value of their remainders at the date of the gift, computed actuarially, and that the life tenants die while the donor still lives; in such circumstances, says the Board, 43 B.T.A. 99, 'the children would thus have paid a gift tax on something which they never received'.
+That argument proves too much. It would preclude a tax on any 'value' which is not almost certain to correspond with actual enjoyment. But 'value' seldom does so correspond. The fallacy in that argument stems largely from lack of recognition of the eely character of the word 'value'. It is a bewitching word which, for years, has disturbed mental peace and caused numerous useless debates. Perhaps it would be better for the peace of men's minds if the word were abolished.7 Reams of good paper and gallons of good ink have been wasted by those who have tried to give it a constant and precise meaning. The truth is that it has different meanings in different contexts,8 even in the restricted field of 'tax law'.9 And there, as almost always, 'value' involves a conjecture, a guess, a prediction, a prophecy. With reference to the taxation of life estates, the Supreme Court has relied on educated guesses, as of a given date, based on the mortality tables, disregarding the fact that actually, in the particular case before it, the prophecy has turned out to be wrong because the life tenant did not live up to her life expectancy. 'Like all values, as the word is used by the law, it depends largely on more or less certain prophecies of the future; and the value is no less real * * * if later the prophecy turns out false than when it comes out true. ' Ithaca Trust Co. v. United States, 279 U.S. 151, 155, 49 S.Ct. 291, 292, 73 L.Ed. 647. The rationale of that case is controlling here. Treasury Regs. 79, Art. 19 adopts the actuarial method of valuing remainders. That method is not so arbitrary as to be unreasonable and invalid.
+It is immaterial that actuarial estimates may not accord with realities. Few estimates of value do, whether used by courts or laymen: For purposes of corporate reorganization, value, generally, is a reasonable capitalization of future earnings as reasonably foreseeable at the date of reorganization; reliance is had upon an educated guess or peering into the future, which, being a human conjecture, may be wrong. No one can foretell what changes in technology will do to the earnings of any business.10 Anyone who wants to eliminate uncertainties from 'value' will have a sad time getting along in this world. All aspects of living are chancy. We cannot, by the use of a symbol, 'value', convert the risky into risklessness, Canute restless change out of existence. Businessmen sometimes pay cash for value which exists only in 'moonshin or dreamland'.11 That 'market value', for instance, in the case of city real estate, is often a mirage, has been strikingly shown by Abrams, Revolution in Land (1939) 198-200, cf. 132-133, 81-89. Accordingly, we reject the argument that, merely because the 'value' of the contingent remainders, measured actuarially, may be inaccurate, Congress must be deemed to have intended that such remainders should not be subject to a gift tax.
+(Footnotes omitted)
+[23] We all know the definition of fmv in Henderson Estate v. M.N.R., 73 DTC 5471. Nonetheless the determination of the value of life interests and remainder interests is at best an imprecise exercise. It is based on a variety of imponderables not the least of which are actuarial mortality tables and capitalization rates. Mr. Chappell also looked at residential rental rates which he projected to 2013 and then discounted them at 12 percent to 1997 to arrive at a fmv for the life interest of $89,869. Whether it is in 2005 possible to predict rental rates in Nova Scotia in 2013 while theoretically standing in 1997, or to use as appropriate a discount rate of 12 percent, or whether it is acceptable to use residential rental rates in valuing a 250 year old historic property is open to question. The assumptions upon which such calculations are based vary within a range of indeterminate magnitude. At all events the computation results in a fmv for the remainder interest of $155,131 ($245,000 - $89,969 = $155,131) on September 15, 1997. The exercise that I performed above would increase the fmv of the life interest in 2002 as follows:
+$ 89,869 X 385,000 = 141,222 X 12.44 = 109,663.00
+245,000 16.02
+[24] On this basis we would attribute $275,337 to the remainder interest in 2002 ($385,000 less $109,663) and the capital gain would be $275,337 minus $155,131 = $120,205 ÷ 2 = $60,102.50. Mr. Nauss’ taxable capital gain is $30,051.25. I daresay I could do some more tinkering and fine tuning but it would not make an appreciable difference.
+[25] This strikes me as a somewhat more reasonable result than that arrived at by the Minister. I do not think it is reasonable to base a valuation of the remainder interests on hypotheses and premises that result in the capital gain on the sale of the remainder interests being virtually identical to that realized on the sale of the entire fee simple. The result appeals as much to my common sense as to my sense of mathematical or logical congruity. As Viscount Simon said in Gold Coast Selection Trust v. Humphrey, [1948] A.C. 459 at 472:
+In my view, the principle to be applied is the following. In cases such as this, when a trader in the course of his trade receives a new and valuable asset, not being money, as the result of sale or exchange, that asset, for the purpose of computing the annual profits or gains arising or accruing to him from his trade, should be valued as at the end of the accounting period in which it was received, even though it is neither realized nor realizable till later. The fact that it cannot be realized at once may reduce its present value, but that is no reason for treating it, for the purposes of income tax, as though it had no value until it could be realized. If the asset takes the form of fully paid shares, the valuation will take into account not only the terms of the agreement but a number of other factors, such as prospective yield, marketability, the general outlook for the type of business of the company which has allotted the shares, the result of a contemporary prospectus offering similar shares for subscription, the capital position of the company, and so forth. There may also be an element of value in the fact that the holding of the shares gives control of the company. If the asset is difficult to value but is none the less of a money value, the best valuation possible must be made. Valuation is an art, not an exact science. Mathematical certainty is not demanded nor indeed is it possible. It is for the commissioners to express in the money value attributed by them to the asset their estimate, and this is a conclusion of fact to be drawn from the evidence before them.
+[Emphasis added]
+This passage has frequently been cited and followed and it illustrates in my view the need to keep in mind some sense of reality and common sense in valuing property that is hard to value.
+[26] In light of the paucity of helpful material in this area, I looked to foreign sources to see how other jurisdictions dealt with the matter of valuing life and remainder interests. The United States yielded a substantial amount of material but it was of no assistance because regulations under the Internal Revenue Code prescribe specific proportions to be ascribed to life estate and remainder interests. For example, for a person of 70 years the split between a life estate and a remainder interest is .36617 and .63383. For a person of 75 it would be .30375 and .69625. If I were required or entitled to use these figures the life estate and remainder interest in 1997 would have a value of $89,711.65 and $155,288.35, respectively. In 2002, when the mother was 75, they would be $116,943.75 and $268,056.25, respectively based on a fmv of the fee simple in 1997 of $245,000 and in 2002, $385,000.
+[27] Thus the capital gain on the remainder interest would be $112,767.90 and the taxable capital gain would be $56,383.95 and Mr. Nauss’ share of the taxable capital gain (before costs of disposition) would be $28,191.98. I mention this simply to illustrate the discrepancy that may result from different methods. However, whatever value the tables prescribed by the IRS may have in the United States, they have none here and cannot be used without an evidentiary foundation being laid. Nonetheless, I suspect that the figures in the tables are actuarially sound although this conclusion is not based on anything presented in the evidence in this case. It is interesting however that the figure of $28,191.98 arrived by the use of the United States tables is relatively close to my figure of $30,051.25.
+[28] The appeal will therefore be allowed with costs in accordance with the tariff on the following basis:
+(a) the appellant’s taxable capital before taking into account the real estate commissions and legal fees is $30,051.25.
+(b) the real estate commissions and legal fees totalling $23,001.85 referred to at the beginning of these reasons should be taken into account in determining the capital gain.
+(c) the expenses agreed to by the parties in relation to the appellant’s knitting business in the amount of $1,771.22 are to be allowed in computing the appellant’s income.
+Signed at Ottawa, Canada, this 30th day of August 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2005TCC488
+COURT FILE NO.:
+2005-785(IT)I
+STYLE OF CAUSE:
+Darrell Frank Nauss and
+Her Majesty The Queen
+PLACE OF HEARING
+Chalottetown, P.E.I.
+DATE OF HEARING
+July 20, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman
+Chief Justice
+DATE OF JUDGMENT
+August 30, 2005
+APPEARANCES:
+Agent for the Appellant:
+Gerald J. Arsenault
+Counsel for the Respondent:
+Edward Sawa
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

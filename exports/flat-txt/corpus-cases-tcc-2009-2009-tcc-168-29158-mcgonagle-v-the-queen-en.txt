@@ -1,0 +1,213 @@
+Title: McGonagle v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29158/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-168-29158-mcgonagle-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-02-25
+
+# McGonagle v. The Queen
+
+- Citation: 2009 TCC 168
+- Decision date: 2009-02-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6718, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McGonagle v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-25
+Neutral citation
+2009 TCC 168
+File numbers
+2007-3936(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3936(IT)G
+BETWEEN:
+REEMA McGONAGLE
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on February 24 and 25, 2009,
+at Vancouver, British Columbia,
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+George Douvelos
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+UPON motion by the Respondent for an Order quashing the purported appeals from reassessments made under the Income Tax Act for the 1996, 1997 and 1998 taxation years, and for an Order for costs;
+AND UPON reading the materials filed, and hearing the witnesses and counsel for the parties;
+IT IS ORDERED THAT the Respondent’s motion is granted and the purported appeals from reassessments for 1996, 1997 and 1998 are quashed, with costs.
+Signed at Ottawa, Canada, this 24th day of March 2009.
+“Campbell J. Miller”
+C. Miller J.
+Docket: 2007-3938(IT)G
+BETWEEN:
+RANDY PARIHAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on February 24 and 25, 2009,
+at Vancouver, British Columbia,
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+George Douvelos
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+UPON motion by the Respondent for an Order quashing the purported appeals from reassessments made under the Income Tax Act for the 1997 and 1998 taxation years, and for an Order for costs;
+AND UPON reading the materials filed, and hearing the witnesses and counsel for the parties;
+IT IS ORDERED THAT the Respondent’s motion is granted and the purported appeals from reassessments for 1997 and 1998 are quashed, with costs.
+Signed at Ottawa, Canada, this 24th day of March 2009.
+“Campbell J. Miller”
+C. Miller J.
+Docket: 2007-3939(IT)G
+BETWEEN:
+RABINDER PARIHAR
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on February 24 and 25, 2009,
+at Vancouver, British Columbia,
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+George Douvelos
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+UPON motion by the Respondent for an Order quashing the purported appeals from reassessments made under the Income Tax Act for the 1996, 1997 and 1998 taxation years, and for an Order for costs of this motion;
+AND UPON reading the materials filed, and hearing the witnesses and counsel for the parties;
+IT IS ORDERED THAT the Respondent’s motion is granted and the purported appeals from reassessments for 1996, 1997 and 1998 are quashed, with costs.
+Signed at Ottawa, Canada, this 24th day of March 2009.
+“Campbell J. Miller”
+C. Miller J.
+Docket: 2008-207(IT)G
+BETWEEN:
+AAREMIC TRAVEL CORP.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on February 24 and 25, 2009,
+at Vancouver, British Columbia,
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+George Douvelos
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+UPON motion by the Respondent for an Order quashing the purported appeals from reassessments made under the Income Tax Act for the 1996, 1997 and 1998 taxation years, and for an Order for costs of this motion;
+AND UPON reading the materials filed, and hearing the witnesses and counsel for the parties;
+IT IS ORDERED THAT the Respondent’s motion is granted and the purported appeals from reassessments for 1996, 1997 and 198 are quashed, with costs.
+Signed at Ottawa, Canada, this 24th day of March 2009.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2009 TCC 168
+Date: 20090324
+Docket: 2007-3936(IT)G, 2007-3938(IT)G
+2007-3939(IT)G, 2008-207(IT)G
+BETWEEN:
+REEMA McGONAGLE, RANDY PARIHAR,
+RABINDER PARIHAR and AAREMIC TRAVEL CORP.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] The Respondent brings a motion to quash the purported appeals for the 1996, 1997 and 1998 taxation years of Reema McGonagle, Rabinder Parihar and Aaremic Travel Corp., and the purported appeals for the 1997 and 1998 taxation years of Randy Parihar on the basis that by signing waivers, waiving the right to appeal, the Appellants are now precluded, by the operation of subsection 169(2.2) of the Income Tax Act from appealing. The Appellants argue that they (specifically Mr. Randy Parihar, who influenced his wife and daughter) were coerced by the Canada Revenue Agency (“CRA”) into signing the waivers and that I should, therefore, find the waivers are invalid.
+[2] The operative sections of the Income Tax Act read as follows:
+165(1.2) Notwithstanding subsections (1) and (1.1), no objection may be made by a taxpayer to an assessment made under subsection 118.1(11), 152(4.2), 169(3) or 220(3.1) nor, for greater certainty, in respect of an issue for which the right of objection has been waived in writing by the taxpayer.
+…
+169(2.2) Notwithstanding subsections (1) and (2), for greater certainty a taxpayer may not appeal to the Tax Court of Canada to have an assessment under this Part vacated or varied in respect of an issue for which the right of objection or appeal has been waived in writing by the taxpayer.
+[3] To be clear at the outset, this is not a matter of the reassessments not reflecting the proposals set forth in the waivers (the Appellants acknowledge the reassessments do reflect the waivers), but a question of the waivers not reflecting the Appellants’ understanding of the settlement agreement they believe they had reached with CRA. Unfortunately, the Appellants did not appear to appreciate the dollar impact on the settlement contained in the waivers until receiving the subsequent reassessments.
+Facts
+[4] This matter has a lengthy history relating to the Appellants’ 1996, 1997 and 1998 taxation years. It has clearly been a frustrating experience for the taxpayers, with auditors coming and going, lengthy delays and what can best be described as a frosty relationship between Mr. Parihar and the latest auditor, Mr. Dennis Han, who took over conduct of the file at CRA in late 2005.
+[5] It is clear from Mr. Han’s detailed notes and his oral evidence, corroborated by Mr. Parihar’s affidavit and oral evidence, that there was considerable communication throughout 1996 between Mr. Han and Mr. Parihar. Mr. Parihar claimed that he would be asked for materials that he believed he had already provided to the CRA. His frustration caused him to involve Mr. Han’s team leader, Ms. Izumi, who also testified at the hearing of the motion. She appreciated that a good deal of the delay was the responsibility of CRA, and in September 2006, she authorized a waiver of interest for a 26‑month period. The question of interest is a major area of disagreement between Mr. Parihar and Ms. Izumi and Mr. Han. Mr. Parihar maintains that in his meetings and communications with both Ms. Izumi and Mr. Han, they agreed to waive all interest. Both Mr. Han and Ms. Izumi testified that they never agreed to such, but only ever agreed to waive interest for the 26-month period I have mentioned. The documentation with respect to interest, confirming the Government’s position, is the Fairness Cancellation Request Form signed September 27, 2006 by Ms. Izumi. The documentation confirming Mr. Parihar’s understanding is a faxed letter of October 6, 2006 from Mr. Parihar to Mr. Han in which Mr. Parihar states that he had been assured all interest and penalties accrued on the files would be waived.
+[6] Although for purposes of this motion, I need not reach a decision on the issue of waiver of interest, on balance, I find that there was never any agreement for waiving all interest. If I had found otherwise, what recourse would have been available to the Appellants? It is not through this Court, which deals with assessments of tax and penalties. If the Appellants feel the Court has reneged on an agreement to waive interest, recourse may lie with the Federal Court.
+[7] Throughout 2006, Mr. Han requested information from Mr. Parihar, who cooperated, though believed he was being asked for documents already provided. Starting in late April 2006, Mr. Han indicated to Mr. Parihar that enough time had been provided to him and that Mr. Han was going to close the file. Mr. Han made mention of this in his notes on several occasions from April to September. Mr. Parihar testified that he took those comments as threats. In fact, Mr. Han did not close the file notwithstanding his comments.
+[8] On October 6, 2006, Mr. Parihar faxed Mr. Han asking for a further meeting to explain the numbers previously provided by CRA. A meeting was scheduled for October 19th. Mr. Parihar attended that meeting with his accountant, Mr. Yasin. Both Mr. Han and Ms. Izumi from CRA were present. Mr. Han presented a proposal in the form of a waiver that:
+(i) reduced subsection 15(1) benefits for the individual Appellants, Reema McGonagle and Rabinder Parihar;
+(ii) reduced subsection 246(1) benefits for Randy Parihar;
+(iii) reduced commissions and allowed costs of sales deductions and various other deductions for Aaremic; and
+(iv) adjusted gross negligence penalties accordingly.
+[9] Mr. Parihar’s accountant, Mr. Yasin, testified that he did not read the proposal at the meeting. He presumed he reviewed it later, but was uncertain as to any advice he may have provided to Mr. Parihar, prior to a second meeting a week later on October 26th, with the same four participants. Clearly, some negotiation took place at that second meeting as all gross negligence penalties were dropped for the individual Appellants and a significant change was made to Aaremic’s cost of sales deductions.
+[10] Ms. Izumi testified that once it was clear there was an agreement, she left the second meeting on October 26, 2006. Mr. Parihar testified that he made notes indicating the taxable amount for the individuals was so much per year, totalling $162,000, on which he estimated tax would be approximately $65,000. Mr. Han prepared new waivers. Mr. Parihar picked up the new waivers later that day. Mr. Yasin, who was present at both meetings, testified he was not called by Mr. Parihar for advice on the proposal. I found Mr. Yasin’s testimony questionable. It simply makes no sense that a professional advisor who attends two settlement negotiations with his client does not follow up with his client.
+[11] The November 6, 2006 waiver[1] Mr. Parihar, his wife and daughter and Aaremic were asked to sign stated in part:
+I waive my right of objection or appeal in respect of all issues if CRA re-assesses as follows: …
+I am familiar with subsections 165(1.2) and 169(2.2) of the Income Tax Act and understand that I will be precluded from filing an Objection or an Appeal with respect to that issue.
+[12] Mr. Parihar acknowledged that he understood what this meant. The issues referred to in both Ms. McGonagle’s and Ms. Parihar’s waivers related to shareholder benefits and gross negligence penalties. In Mr. Parihar’s waiver, the issues related to subsection 246(1) and gross negligence penalties. With respect to Aaremic Travel Corp., the issues related to commissions, cost of sales deductions, auto expense deductions, advertising and promotion deductions, hotel and accommodation deductions and gross negligence penalties.
+[13] Mr. Parihar indicated that he had a call the next day from Mr. Han asking if he had signed the waivers. He said he felt pressured. Mr. Han’s detailed notes of all calls made throughout 2006 make no mention of any such call. He denied ever threatening Mr. Parihar.
+[14] Mr. Parihar did not sign the waivers until November 6th. He had his wife and daughter sign at the same time and returned all waivers to Mr. Han on November 8th. Reassessments were issued by CRA to the Appellants in December 2006. I am satisfied the reassessments accurately reflect the proposals set out in the waivers.
+[15] When Mr. Parihar received the reassessments in December 2006, the tax and interest owing were significantly greater than what he believed he had agreed to. Notices of Objection were filed for all Appellants, and on June 27, 2007, the Minister confirmed the reassessments. The Appellants appealed. They framed the issue as follows:
+d) …
+Whether the Appellant can appeal on an issue for which the right of objection or appeal appears to have been waived through a waiver signed by the Appellant on November 6, 2006 (the “LOA”) for failing to represent the true intention between the parties.[2]
+[16] In the appeals, the Appellants seek to quash the Respondent’s Notices of Confirmation. I am not entirely sure what they mean by this, or indeed if this Court can “quash a Notice of Confirmation”. It is evident the Appellants want to have the waivers invalidated, but I question what that practically accomplishes for the Appellants, as their appeals goes no further. They do not present any substantive issues that go to the assessments of tax. If they did proceed with the appeals as framed and were successful in “quashing the Notices of Confirmation” (whatever that procedure really means and on the basis the Tax Court of Canada could even do such a thing – unlikely), where would they be left? Would the reassessments which the Notices of Confirmation confirm still be in play? If not, would the first assessments be reinstituted? The Appellants do not appear to be appealing the reassessments, but simply appealing the validity of the waivers. With respect, the Appellants’ appeals should have been against the reassessments, accepting that their first hurdle would be overcoming the waivers they signed. By its motion, the Respondent has put the matter clearly before the Court.
+Issue
+[17] The issue in this motion is whether the waivers signed by the Appellants are effective to preclude them from appealing the issues contained therein.
+Analysis
+[18] The Appellants argue that the behaviour of the auditor, Mr. Han, constitutes coercion or undue influence, invalidating the waivers. The behaviour complained of consists of the following:
+- several statements by Mr. Han to Mr. Parihar throughout 2006 that he will close the file;
+- not allowing sufficient time to Mr. Parihar to have his accountant, Mr. Yasin, advise him of the ramifications of the settlement contained in the waivers, including asking for the waiver the day after providing it to Mr. Parihar.
+I will deal with each of these actions.
+[19] First, it is clear from comments of the Supreme Court of Canada in Smerchanski v. Minister of National Revenue,[3] that waiver agreements are voidable on the ground of undue influence. In that case, it was held that the threat of prosecution did not render the settlement based on a waiver voidable. Subsequent cases have provided some guidance as to what constitutes undue influence vis-à-vis the signing of a waiver.
+[20] In the case of Nguyen v. R.,[4] Justice Dussault stated that informing a taxpayer that he was liable to civil penalties as a result of an audit does not constitute an extraordinary threat or intimidation. There was no evidence before Justice Dussault to suggest the taxpayer did not freely consent nor that he was unduly pressured.
+[21] In the case of Anthony v. R.,[5] Justice Webb indicated that the only evidence of any pressure from CRA was that the auditor wanted to close the file. This did not constitute undue influence.
+[22] Turning then to the facts before me, was the auditor’s behaviour such as to unduly influence the Appellants to sign the waivers? First, I will review Mr. Han’s repeated comments to Mr. Parihar that he would close the file. Mr. Han took over the file in late 2005 and started a steady stream of communication with Mr. Parihar, seeking information and attempting to move the matter along. He confirmed that Mr. Parihar too seemed anxious to resolve the matter. Mr. Han first advised Mr. Parihar in late April 2006 that he wanted to close the file, but later agreed to a meeting in late May to continue discussions. More information was requested by Mr. Han. On July 20th, Mr. Han suggested to Mr. Parihar that he would close the file if discussions with the accountant, Mr. Yasin, were not productive. On July 26th, Mr. Parihar asked for another meeting and Mr. Han advised he intended to wrap the file up in a couple of weeks. A proposal was discussed in late August which was unacceptable to Mr. Parihar, though he wanted to discuss it with Mr. Yasin. On September 11th, Mr. Han advised Mr. Parihar that if he did not agree with the proposal he would close the file based on available information. The parties then met on October 19th and October 26th to negotiate a settlement.
+[23] While I appreciate these matters have gone on for some time, to Mr. Parihar’s obvious frustration, I do not find that Mr. Han’s repeated suggestions of closing the file have such a cumulative effect to constitute undue influence. The parties were negotiating. That can be a painful process. However, Mr. Han did not close the file in April, May, June, July, August or September. And, indeed, he had two meetings with Mr. Parihar and his advisor on October 19th and October 26th to go over very specific proposals. The timing of Mr. Han’s suggestions to close the file, the fact that he did not close the files, and the fact there were two final negotiation sessions a week apart are not circumstances that in my mind constitute threats of such a pressure as to have unduly influenced Mr. Parihar to sign waivers on November 6th.
+[24] Next, I turn to the Appellants’ allegation that Mr. Han did not allow Mr. Parihar sufficient time to consider the settlement proposal contained in the waiver. This allegation simply does not accord with the facts. Mr. Parihar had known since August 30th the type of proposal Mr. Han was putting forward. Mr. Parihar had his professional advisor with him on October 19th when meeting with both Mr. Han and Ms. Izumi to go over the details of the proposal. He then had a week to review the proposal before meeting a second time with Mr. Han and Ms. Izumi, again with his advisor. It is clear that the CRA made further concessions at that meeting as the individuals’ waivers presented at the October 19th meeting were amended on October 26th to delete all gross negligence penalties. In the letter accompanying the waivers, which Mr. Parihar picked up later in the day on October 26th, Mr. Han does ask that they be returned as soon as possible. This is not undue pressure, especially given Mr. Han’s and Ms. Izumi’s testimony that, in their view, an acceptable agreement had been reached at the October 26th meeting.
+[25] Mr. Parihar testified that Mr. Han phoned him on October 27th asking when the waivers will be signed. There is no record in Mr. Han’s detailed notes of such a call. Even if such a call was made, it did not cause Mr. Parihar to return the waivers immediately, as he and his family did not sign them until November 6th ‑ 10 days after having received them. These circumstances do not suggest to me any undue pressure.
+[26] I have no doubt Mr. Parihar’s experience with the CRA on these tax matters has been a frustrating and painful one, given lengthy delays and a personality conflict with an auditor anxious to close the file. Yet, Mr. Parihar signed the waivers, knowing fully the effect of doing so. The settlement provisions of the waivers were detailed at two meetings in consultation with Mr. Parihar’s professional advisor. He had almost three weeks from October 19th before signing the waivers, sufficient time to conduct a detailed review. Only when he received the reassessments did the bottom line catch his attention, as there was significant interest and tax beyond his $65,000 estimate. I have not been convinced that the CRA, through either Mr. Han or Ms. Izumi, ever agreed to a reassessment that would only result in that amount of tax. I conclude the waivers are valid, and the Appellants cannot appeal the issues set out in the waivers. In their pleadings, the Appellants did not identify any other issues, other than those itemized in the waivers; neither did they raise any further issues at the hearing of the motion. As previously mentioned, the appeals themselves only deal with the validity of the waivers. The motion is granted. The Appellants cannot appeal the reassessments in respect of issues for which they waived their right of appeal. The Respondent is entitled to one set of costs.
+Signed at Ottawa, Canada, this 24th day of March, 2009.
+“Campbell J. Miller”
+C. Miller J.
+CITATION: 2009 TCC 168
+COURT FILE NO.: 2007-3936(IT)G, 2007-3938(IT)G,
+2007-3939(IT)G, 2008-207(IT)G
+STYLE OF CAUSE: REEMA McGONAGLE, RANDY PARIHAR, RABINDER PARIHAR, AAREMIC TRAVEL CORP. and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: February 24 and 25, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: March 24, 2009
+APPEARANCES:
+Counsel for the Appellant:
+George Douvelos
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellant:
+Name: George Douvelos
+Firm: Davison Wiebe Douvelos
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Affidavit of Dennis Han sworn February 16, 2009, Exhibit “G”.
+[2] Notices of Appeal dated September 25, 2007 and November 15, 2007, paragraph d).
+[3] [1977] 2 S.C.R. 23.
+[4] 2005 TCC 697.
+[5] 2007 TCC 606.

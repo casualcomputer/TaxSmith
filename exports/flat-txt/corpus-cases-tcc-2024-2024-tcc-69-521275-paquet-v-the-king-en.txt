@@ -1,0 +1,229 @@
+Title: Paquet v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521275/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-69-521275-paquet-v-the-king-en.md
+Document type: case_law
+Last modified: 2024-05-16
+
+# Paquet v. The King
+
+- Citation: 2024 TCC 69
+- Decision date: 2024-05-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5509, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paquet v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-05-16
+Neutral citation
+2024 TCC 69
+File numbers
+2019-2997(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-2997(IT)G
+BETWEEN:
+STEVE PAQUET,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on February 13, 14, 15 and 16, and May 24, 2023, at Montreal, Quebec
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the appellant:
+Philippe-Alexandre Otis
+Christopher Mostovac
+Counsel for the respondent:
+Anne Poirier
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act is allowed with costs.
+Signed at Toronto, Ontario, this 16th day of May 2024.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 3rd day of June 2026
+Margarita Gorbounova, Senior Jurilinguist
+Docket: 2019-2997(IT)G
+BETWEEN:
+4527976 CANADA INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on February 13, 14, 15 and 16, and May 24, 2023, at Montreal, Quebec
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the appellant:
+Philippe-Alexandre Otis
+Christopher Mostovac
+Counsel for the respondent:
+Anne Poirier
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act is allowed with costs.
+Signed at Toronto, Ontario, this 16th day of May 2024.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 3rd day of June 2026
+Margarita Gorbounova, Senior Jurilinguist
+Citation: 2024 TCC 69
+Date: 20240516
+Docket: 2019-2997(IT)G
+BETWEEN:
+STEVE PAQUET,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+and
+Docket: 2019-2998(IT)G
+BETWEEN:
+4527976 CANADA INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Boyle J.
+I. Overview [1] These are appeals by Steve Paquet and his company 4527976 Canada Inc. (“Héritage”), doing business as Héritage and previously as Les Volailles Héritage. The appeals are from income tax assessments for 2010 to 2013 in the case of Mr. Paquet, and for 2010 to 2014, in the case of Héritage. The majority of the assessments were made after the normal reassessment period. The amounts included in income are a series of large cash amounts delivered by Garda to Héritage’s business address. Garda obtained the cash to be delivered from a company that was unrelated to the appellants, and the Garda delivery envelopes were addressed to that company at Héritage’s address. The cash amounts, ranging from $15,000 to $150,000, were delivered every week, sometimes several times a week. For the years in issue, the total amount exceeded $20,000,000. The Canada Revenue Agency (“CRA”) included all those amounts in the income of the two appellants, which it is authorized to do, but this allows for the double counting of income that is almost always inconsistent and ultimately incorrect.[1] Given that the two appellants’ taxation years do not end at the same time, different totals were included in their income.[2] Penalties for gross negligence were also imposed on both appellants in relation to the amounts on which they were assessed.
+[2] Criminal proceedings that were somewhat parallel were underway in the Court of Québec concerning Mr. Paquet’s and Héritage’s potential liability in the mischaracterization of financial transactions in financial records they had created. The issues before the Court of Québec are not tax related and are very different, but they relate largely to the same facts. I will not defer to the findings of the Court of Québec at trial, since those findings were essentially set aside on appeal by the Superior Court of Québec, there was no new trial, and there may never be. I have also not assigned any weight to the evidence presented to the Court of Québec since no previous testimony or evidence presented to the Court of Québec was raised before the witnesses in this appeal or otherwise filed in evidence in this proceeding. If the parties wanted to, they could have called any of the witnesses heard by the Court of Québec to testify in this proceeding.
+[3] The appellants ran a wholesale poultry business. Héritage’s gross income was about $20 million. The Agence du revenu du Québec (“ARQ”) named the appellants and other intermediaries as parties to a series of transactions on the poultry market in connection with which large amounts of cash were delivered by Garda to Héritage’s business address. The ARQ carried out both an investigation and an audit, and the CRA involved its audit team and its collections team. Witnesses from both agencies testified.
+[4] The ARQ’s audit resulted in reassessments of both appellants. The ARQ provided the CRA with the results of its investigation and audit and with the reassessments made. For Mr. Paquet, the CRA made reassessments that it described as mirroring the ARQ’s reassessments. This meant that the CRA had included the same amount in his income as the ARQ did, without doing an actual independent audit. The CRA reassessed Héritage on an entirely different basis, which simply included in Héritage’s income the total cash amount delivered to its premises by Garda, with no further audit, adjustment or allocation. The respondent did not advance any reasonable and logical grounds to explain why the analysis and reassessment for the two appellants were carried out on such different bases.
+[5] The appellants’ witnesses were Mr. Paquet, Maria D’Amico (the receptionist, who usually signed for Garda’s deliveries if Mr. Monette was absent and kept the packages in her office until Mr. Monette collected them), Nathalie Paquet (administrative assistant at Héritage and Mr. Paquet’s sister), Daniel Dauplaise (vice-president of operations for Garda in Quebec) and Rima Skaf (the ARQ auditor).
+[6] The respondent’s witnesses were David Sawyer (the CRA collections officer), Geneviève Robillard (the CRA auditor, now team leader) and Minyu Chiu (the ARQ investigator).
+[7] For the reasons that follow, the appeals will be allowed in full because the Court has not received sufficient reliable, credible and consistent evidence, whether direct or indirect and whether corroborated or not, to conclude, on a balance of probabilities, that the cash delivered by Garda belonged to either of the appellants, had been claimed by either of them or had been used for their benefit. The Court is unable to conclude, on the basis of that standard, that the amounts in question should be included in the income of either of the appellants. In these circumstances, the CRA was not authorized to reassess for years outside the normal reassessment period. For the years that are not statute-barred, the CRA must reassess in order to exclude the amounts included in income and cancel the penalties for gross negligence.
+[8] It must in no way be inferred that the Court finds that this series of cash deliveries by Garda as well as the orders, deliveries and securities that were circulated correspond to all of the underlying genuine transactions that took place among the various participants. On the contrary, it seems that one or more participants engaged in suspicious activities. The Court simply did not have sufficient evidence to conclude that the transactions took place for the benefit of the appellants. The ARQ and the CRA both seemed to have suspicions about the appellants’ activities that were prima facie reasonable and which prompted them to carry out investigations and audits. Unfortunately, the respondent planted similar suspicions in the Court’s mind, which is far from proving, on a balance of probabilities, that including the amounts in either appellant’s income was warranted. The Court cannot confirm the suspicions of the ARQ and the CRA that the amounts in question were obtained by one or both of the appellants and for the benefit of one or both. The Court simply concludes that it was not proven that those suspicions had merit.
+II. Onus of proof [9] Insofar as there is an approach that supplements legislation with respect to the onus of proof that the parties must meet and which governs this Court’s assessment of evidence and decision making, as explained by the Supreme Court in Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, I conclude that the appellants have fully met the entire initial onus that rested on them.
+[10] In Brasserie Futuriste de Laval Inc. v. The Queen, 2006 TCC 503, at paragraphs 159 and 160, Justice Dussault commented that the idea of demolishing assumptions with at least a prima facie case, as set out in Hickman Motors, is expressly in line with this Court’s previous statement in Kamin v. M.N.R., 93 DTC 62:
+[160] At paragraph 96 of the decision, L’Heureux‑Dubé J. cited with approval the following comment made by Brulé J. of the Tax Court of Canada in Kamin v. M.N.R., 93 DTC 62, at page 64:
+The Minister does not have a carte blanche in terms of setting out any assumption which suits his convenience. On being challenged by evidence in chief he must be expected to present something more concrete than a simple assumption.
+[Emphasis in the original.]
+[11] In Cantore v. The Queen, 2010 TCC 367, at paragraph 18, applying the principle in Hickman Motors, Justice Hogan noted that when the CRA auditor takes a blatant shortcut, for example, by not analyzing all of the appellant’s bank accounts, and no satisfactory reason why is given or is apparent from the record, that will necessarily affect the type of evidence that must be brought by the appellant to meet the initial burden.
+[12] I have taken into account the comments made by these two judges in my review of Hickman Motors in this case and in my conclusion that the appellants have met the entire initial burden that rested on them.
+III. Facts and evidence [13] The ARQ audited Termont Inc. (“Termont”) and its sole shareholder, Laurent Monette, as well as Héritage and Mr. Paquet. Termont reported no income for 2010 to 2012. It kept no books and retained no supporting documentation. The ARQ analyzed bank records, and that is how it found that Termont was moving cash through Garda.[3]
+[14] All of the money in question was delivered in cash by Garda to a business address belonging to Héritage, with packages being addressed to Termont. Garda received delivery instructions and authorization forms from Termont. The money was transferred to Garda from a bank account belonging to Termont. Mr. Monette was then contacted and came to pick up the sealed envelopes. There is nothing proving that the cash was given to either of the appellants, directly or indirectly.
+[15] The evidence did not clearly establish what happened to the cash next. The investigations and audits carried out by the tax authorities did not determine what became of the cash after it was delivered by Garda. The evidence did not show whether the cash was withdrawn from these arrangements to be used for other purposes. It is entirely possible that the same money was circulated several times for purposes or reasons that remain unknown.
+[16] Mr. Monette asked Mr. Paquet whether he could use Héritage’s address for the deliveries of cash from Termont by Garda, given that Garda required a place of business that it was satisfied was safe for everyone concerned. Garda refused to make deliveries to a residence. Garda terminated its contract with Mr. Monette and Termont when, on a day Mr. Monette was not present for a delivery, it received a last-minute instruction to leave an envelope full of cash on the trunk of a car in the parking lot rather than delivering it inside the building as had been stated and agreed to as an acceptable safe method approved by Garda for Termont. The Court heard no evidence to indicate who gave those conflicting instructions, who owned the vehicle, or who was to pick up the money in the vehicle.
+[17] Mr. Monette died before this appeal was heard. The affidavit he had sworn and submitted to the tax authorities in 2015 was filed in evidence. In that affidavit, he acknowledged that he had collected all the money delivered to Héritage’s address, that all the money Termont had Garda deliver did belong to Termont, and that it did not belong to either Mr. Paquet or Héritage. I cannot conclude that the evidence rebuts Mr. Monette’s affidavits. He may very well have kept the cash and used it for undetermined personal purposes. The evidence shows that the source of Mr. Monette’s income and some of his activities may have been suspicious. According to the CRA, he had previously been involved in the theft of $150,000 from his employer and firearms had been found in his home during a search.[4] Mr. Monette was terminally ill when he swore his affidavit.
+[18] The ARQ concluded that Termont and Desco were two of Héritage’s main customers. André Auger, Termont’s accountant, informed the ARQ that Termont had used the cash to pay some of its suppliers, whom he refused to identify. However, after the audits of Termont and Héritage and their shareholders, which included a very detailed reconciliation of bank statements and a thorough audit of purchases and sales, the ARQ was unable to conclude that any portion of the cash delivered by Garda had been a payment for purchases made between Termont and Héritage.
+[19] Termont’s accountant, Mr. Auger, explained to the ARQ that Termont used cash to pay its suppliers in order to avoid attracting attention from its bank. He refused to identify Termont’s suppliers Mr. Monette paid with the cash. It should be noted that neither the CRA nor the ARQ identified any unreported associated sales supposedly made by Héritage to Termont or to anyone else.
+[20] Guy Chevalier, another person who participated in these transactions, was questioned by the tax authorities regarding his participation and what he knew. His company, Desco, also carried on business in the poultry industry. Mr. Chevalier was not called as witness by any of the parties in this appeal. However, when the tax authorities questioned him in connection with their investigations and audits, he explained that he had arranged the transactions to improve the financing of his poultry inventory and of his debt to the bank. The transactions made it possible for his company to enter into its books the sale of part of its inventory to another of the parties concerned as debt and then as an amount received, even though the transactions continued since it bought the same inventory back from the other company. It was also argued that those transactions helped Desco manage its quota problems. It is difficult to determine whether Desco’s poultry left the warehouse just to then return to it. I have no details as to its banking arrangements or bank financing. Desco had approximately 250 employees, and its revenue was about $30 million. Neither the CRA nor the ARQ audited Desco in connection with this, but their audits of Héritage revealed that all purchase and sale transactions between Héritage and Desco had been properly recorded and entered into the books by Héritage. Poultry sales were the only connection between Héritage and Termont. To the knowledge of Héritage and Mr. Paquet, the two companies had no common customers.
+[21] Although the tax authorities questioned Mr. Chevalier in connection with their investigation and audit of the appellants, they conducted little to no investigations or audits concerning Mr. Chevalier and Desco, their participation in these transactions, and their business activities. The tax authorities did not check with the bank that financed Desco’s inventory as to whether the explanation given by Mr. Chevalier was supported by Desco’s bank records.
+[22] The explanation provided by Mr. Chevalier is not necessarily inconsistent with that of Mr. Auger.
+[23] Even though it is not strictly necessary for Mr. Paquet’s and Héritage’s appeals, I am not able to draw a conclusion regarding the origin of the money Termont had in the bank, which it sent to itself through Garda, using the address of a building where Héritage carried on business. The ARQ was not able to conclude that the cash had been redeposited into Termont’s, Mr. Monette’s or his spouse’s account, or that it had been reallocated or otherwise used in connection with Termont’s business or for any other purpose.
+[24] The ARQ and CRA auditors, the CRA investigator and the CRA collections officer explained that both agencies had worked diligently for five years to try to shed light on the situation surrounding the deliveries of cash by Garda. I do not have to rule on that issue, even though it would certainly be useful to do so. I must rule only on the correctness of the reassessments of Mr. Paquet and Héritage.
+[25] Despite five years of investigations and audits, the respondent did not produce enough evidence during the entire week that the trial lasted to prove on a balance of probabilities that the assessments are correct, nor was the respondent able, in cross-examining the appellants and their witnesses, to raise sufficient doubt as to the credibility of their testimony.
+[26] The respondent produced hardly any evidence to show that the tax authorities had diligently sought to identify the initial source or the final recipient of the cash. The investigation and audits carried out by the two tax authorities over five years never confirmed where the cash came from or what it was used for. Clearly, they did not use all of their statutory powers to investigate, audit and collect information in order to obtain that key information.
+[27] The evidence shows how little effort was made by the tax authorities, who had received information directly from Mr. Chevalier, to try to understand how Desco’s scheme worked and whom it benefited in order to confirm or reject it. The tax authorities had the power to obtain that evidence so that it could be presented to the Court if it supported the assessments in issue. They gave no satisfactory reason for not having done so before deciding to assess Mr. Paquet and Héritage or before the hearing. Even though the appellants could have compelled Mr. Chevalier to appear and testify, they have none of the agencies’ powers to first carry out audits and investigations.
+[28] The same is true of the audits of the appellants. Neither of the two agencies carried out a net worth analysis or a complete reconciliation of bank statements or used another audit method. The CRA only looked into bank deposits and withdrawals relating to one of Mr. Paquet’s banks, even though it knew he did business with at least two other banks. The CRA did not compare his general lifestyle or standard of living to his sources of income or capital.
+[29] There was no evidence to show that Mr. Paquet owned significant assets other than the following: his half of a hypothecated middle-class family home, a $300,000 cottage in Mont‑Tremblant that he sometimes rented out, an expensive boat, and a $500,000 condo in Montreal owned by his company and made available for his use, which was reported and entered in the books. None of that was paid for in cash. The respondent tried to show that Mr. Paquet’s reported income could not explain the purchase of a new Bentley during one of the years in issue, which he then traded for a new Rolls Royce. However, the tax authorities failed to take into account that Mr. Paquet’s reported income during the year in question or the previous year included a taxable capital gain of $800,000, which meant that Mr. Paquet also had the non-taxable portion of the capital gain, which was more than sufficient to explain the purchase of a luxury car. In addition, the purchase price was paid out of Mr. Paquet’s bank account, not in cash. The respondent also acknowledged that the Range Rover on which the tax authorities had also focused was a vehicle leased by Mr. Paquet’s company and that it had been duly recorded and entered in the books.
+[30] There were four offices in the building where Garda delivered the money. One of the offices was occupied by the accounting firm of Alain Lemay, whose services the appellants retained. Another was used by Maria D’Amico, the building receptionist, who did not work for Héritage. Anyone who entered the building had to pass by her office. Ms. D’Amico was also a bookkeeper in Mr. Lemay’s accounting firm. The third office was occupied by a real estate company or construction firm, and the fourth office was Mr. Paquet’s.
+[31] Mr. Paquet did not know Mr. Auger, Termont’s accountant. Apart from keeping a customer of Héritage happy, the appellants got nothing out of allowing Termont or Mr. Monette to use Héritage’s business address for the Garda deliveries. Mr. Paquet had understood that Mr. Monette made payments in cash to a supplier or suppliers of Termont. Mr. Paquet did not know who normally signed for the Garda deliveries. Termont bought poultry from Héritage and supplied poultry to it.
+[32] In her testimony, Ms. D’Amico said that Mr. Monette was often present in their offices for the Garda deliveries. When he was not there, he called Ms. D’Amico to alert her that Garda was coming; she then signed for the package and kept it in her office until the arrival of Mr. Monette, who quickly came to pick up the package. Since she was the receptionist, Ms. D’Amico signed for other unrelated deliveries for other tenants in the building.
+[33] Natalie Paquet, who is Mr. Paquet’s sister, worked for Héritage as an administrative assistant. Sometimes she was at Héritage’s office, and on occasion she signed for Garda deliveries if Mr. Monette was not there, presumably because Ms. D’Amico was not available to sign and keep the package in her office. When Natalie Paquet signed for this type of delivery, she left the money in her brother’s office. She did not know what happened to the money.
+[34] Garda’s vice-president of operations in Quebec said he had met Mr. Monette once and did not know Mr. Paquet or Héritage. Garda’s contract for the deliveries was with Termont and stated that Termont was the recipient of the deliveries. The delivery slips also stated that Termont was the recipient of the deliveries.
+[35] The person who audited Termont was Ms. Skaf from the ARQ. She confirmed that, on the basis of her audit, Termont’s income was approximately $60 million. She allowed expenses of approximately $30 million given that Mr. Monette and Mr. Auger had told her that the company had significant cash expenses. She concluded that this was very likely the case and accepted what Mr. Monette and Mr. Auger said. Her audit found no evidence that anyone other than Mr. Monette controlled Termont’s bank account. She did not examine the signed Garda receipts to see who had signed them. She did not know who had signed most of the receipts, but she knew that Mr. Paquet had signed for one delivery. She did not find any evidence showing that Mr. Paquet was the recipient of the cash, apart from the connection established by the fact that the cash was delivered by Garda to Héritage’s place of business. She did not ask Mr. Paquet whether he knew what became of the cash; she put that question only to Mr. Auger. She also audited Mr. Monette and the two appellants. She confirmed that she had also not asked Mr. Paquet that question during the audits.
+[36] Mr. Sawyer, the CRA collections officer, testified that his investigations had led him to believe that neither Termont nor Mr. Monette’s estate had any assets. He did not know that the ARQ had concluded that Termont had $60 million in income, and he testified that, had he been informed of that, he would have examined Termont again. Mr. Sawyer spoke with Mr. Chevalier several times but was unable to conclude that the false transactions or false sales referred to by Mr. Auger and Mr. Chevalier had not occurred and did not explain the deliveries of cash by Garda. Mr. Sawyer stated that he had seen no reason to doubt the affidavit sworn by Mr. Monette, and he acknowledged that it was possible that the cash transported by Garda belonged to neither Héritage nor Mr. Paquet. From what he had been told by his Collections colleagues at the ARQ, it was his understanding that Mr. Monette was living large; there had been talk of valuable jewelry, a hockey card collection and a Riopelle piece. He added that he had no reason to doubt the affidavit sworn by Jean Hamel, who had also stated that he knew that the cash delivered was intended for Termont or Mr. Monette since he had personally given some envelopes to Mr. Monette. Mr. Sawyer stated that his investigations and efforts made up a large portion of his work for one or two years and that he might have spent a thousand hours on this file. He confirmed that, when he was on the collections team, not the audit team, to his knowledge, all the transactions carried out by Mr. Paquet and his company were entered in the books, reported to the tax authorities, and recorded in Mr. Paquet’s and his company’s banking records, with no indication or hearsay about cash being used.
+[37] Geneviève Robillard was the CRA auditor who carried out the audits of Termont, Mr. Monette, Héritage and Mr. Paquet. She is a Chartered Professional Accountant (“CPA”) and has a bachelor’s degree in accounting, and she has held audit positions with the CRA for over 20 years.
+[38] She first dealt with the audits of Termont and Mr. Monette. She obtained the ARQ’s working documents and assessments. She prepared assessments that mirrored the ARQ’s without doing any further audit work.
+[39] Ms. Robillard then audited Héritage and Mr. Paquet. She conducted her own analysis of Mr. Paquet’s bank statements, given that the ARQ had not provided her with a copy of such an analysis. She assessed Mr. Paquet accordingly. As for Héritage, the CRA did not take the same approach as the ARQ to assessing it and decided to include all of the money delivered by Garda to Héritage’s address in its income. That decision was made for the following reasons: (i) Mr. Monette retracted the version of events he had given under oath; (ii) Mr. Auger stated that the cash had been used for paying suppliers; (iii) the cash was delivered to Héritage’s address, and (iv) Héritage was one of Termont’s suppliers—although neither agency found evidence of cash sales.
+[40] Ms. Robillard did speak to Mr. Chevalier and learned that the billing between Desco and Mr. Paquet’s companies was false, as were the transactions and sales. The purpose of this was to record the sales in Desco’s accounts.
+[41] Ms. Robillard’s testimony confirmed that, when she audited the appellants for the CRA,
+she did not reconcile the payments made by Héritage to Mr. Paquet;
+she did not determine whether Mr. Paquet deposited all his income;
+she did not ask Mr. Paquet whether he deposited all his income;
+she considered determining net worth, but did not do so and acknowledged that net worth assessments required a great deal of work;
+she did not understand how purchases and sales were made by intermediaries in the poultry industry, despite the explanations she was given by a third party;
+she was unable to trace the cash given that it was really difficult to do so; she lost track of the cash when she tried to trace it, and she was completely unable to trace the cash after it was delivered to Mr. Monette by Garda, but she felt that something was not right even though she did not really know what it was;
+she thought this was an “in and out scheme”, but she did not examine Desco’s accounts and so was unable to trace the money;
+she could not say whether the cash had been deposited into an account;
+she assessed Héritage for unreported income and assessed Mr. Paquet for receiving a personal benefit from Héritage’s unreported income;
+she did not analyze Desco’s or anyone else’s bank statements to try to determine the origin of the cash and find out what happened to it. That suggests that the respondent did not put in enough effort to establish the origin of the cash or to find that money;
+she did not know what Mr. Chevalier meant when he stated that the invoices and cash sales were [translation] “false”;
+she did not ask Mr. Chevalier whether he knew who controlled Termont’s bank account or whether the account was controlled by someone other than Mr. Monette;
+she had no opinion as to whether she had any reason to doubt the testimony of any of the appellants’ witnesses in this case (she was present throughout the proceedings);
+she did not analyze Mr. Paquet’s lifestyle, but was indirectly aware that he owned a very expensive car, visited casinos, and went on vacations;
+she chose not to doubt Mr. Auger’s explanation when he said the cash was used to pay a supplier or suppliers of Desco;
+after analyzing the bank accounts, she did not find that there were specific amounts of unreported income;
+she did not think the credit card that Mr. Monette allowed Mr. Paquet to use was relevant to the CRA’s assessments given that the assessments were based only on all of the money delivered by Garda;[5]
+she did not know who controlled Termont’s bank account, who was in charge of the amounts of the Garda deliveries and the times when they took place, where the cash that Termont gave to Garda came from, who was in charge of the Garda envelopes when they were delivered to Héritage’s address, or how the cash was ultimately used. She believed that the ARQ investigator was in a better position to answer these kinds of questions since that was the purpose of her investigation; and
+she did not present any facts to support the respondent’s position that Mr. Paquet controlled the use or final destination of the cash delivered.
+[42] I concluded that at times Ms. Robillard had a very defensive attitude in giving some of these answers in cross-examination. Her answers did not go so far as to undermine her credibility since she declined to give unfavourable answers and was at times encouraged by the unfounded objections and interruptions by counsel for the respondent during her cross-examination.
+[43] In income tax appeals relating to unreported income, the respondent does not need to be able to determine the origin of the income or the use made of it. One obvious example is a net worth assessment, in which the CRA instead focuses on other evidence to support its assessment. The taxpayer appellant must then object to the net worth assessment or produce better evidence concerning their income. In this case, however, the assessments of the appellants simply relied on the cash amounts delivered by Garda. For that reason, the respondent’s position in these appeals is undermined by an accumulation of weaknesses in the evidence.
+[44] Given, among other things, what Mr. Chevalier told the revenue agencies regarding the purpose of the cash transactions and the fact that the money did return to the starting point and given that Mr. Auger partially corroborated those statements, it can be concluded from the fact that the respondent did not ask Mr. Chevalier, Mr. Auger or anyone else associated with Desco to attend the hearing and testify before this Court that testimony of that kind would probably not have helped the respondent prove that the balance of probabilities supports the assessments in issue.
+[45] Ms. Chiu was the ARQ investigator in charge of these cases. She started working for the CRA in 2017. Investigations in connection with Projet Volailles [project poultry] were opened in September 2014; she was assigned to investigate in November 2014. The investigations carried out in connection with Projet Volailles targeted not only Héritage and Mr. Paquet but also Termont and Mr. Monette, as well as Desco and Mr. Chevalier.
+[46] Ms. Chiu stated in several of her vague answers that she no longer had access to the relevant ARQ files concerning Mr. Paquet, Héritage or the others. The respondent never explained why access to the ARQ files was not obtained in order to justify the assessments under appeal. If that is the case, it is unexpected, surprising and disappointing. If it is not, the respondent should have corrected her.
+[47] Ms. Chiu confirmed the following in her testimony:
+she concluded that Mr. Paquet controlled Termont and therefore Termont’s bank account on the basis of some incomplete emails discovered on a computer belonging to Héritage;
+she did not know whether Mr. Paquet had other bank accounts;
+in the investigation she conducted for the ARQ, she was unable to trace the cash after it had been delivered by Garda;
+she found no evidence showing that the cash had been deposited into a bank account held by Mr. Paquet or one of his companies;
+she discovered no purchases paid in cash by Mr. Paquet in relation to assets or investments;
+she did not remember whether she had discovered cash transactions involving Héritagein her analysis of the bank records or at some other time;
+she did not follow the conclusion Ms. Skaf drew from her audit, namely that Termont carried on real activities producing income from a business; she found no evidence that disclosed real activities, only false receipts, false purchases, false sales, and transfers of money;
+the texts and emails she examined did not indicate the purposes for which the cash was delivered or the purposes for which it was used;
+she did not talk about the texts or emails with Mr. Monette or Mr. Paquet;
+all the cash mentioned above appeared in Termont’s bank records;
+no trace was found of instructions given to Mr. Monette by Mr. Paquet;
+the ARQ investigator did not have access to the invoices paid with the credit cards belonging to Mr. Monette that are in issue. She only had credit card and bank account statements. It was impossible for her to know who had used which card for which purchase;
+in her report, she recommended that no criminal charges be brought against Mr. Paquet or against Héritage; and
+in the Projet Volailles investigation, Ms. Chiu was to examine Desco and Mr. Chevalier. However, she did not tell the Court what conclusions, if any, the ARQ had drawn regarding Desco’s and Mr. Chevalier’s role or activities in the transactions in issue that the ARQ was investigating. Ms. Chiu stated only that she had questioned Mr. Chevalier concerning the false receipts and the texts and emails in issue.
+[48] Even if Mr. Paquet was the person who indicated how much money to deliver or to distribute in connection with these transactions involving cash deliveries by Garda, that is of very little help when it comes to whether the appellants kept that money for themselves.
+IV. Conclusion [49] In these appeals, based on the explanations given to the authorities by Mr. Auger and Mr. Chevalier and to this Court by the respondent, the evidence relating to Mr. Chevalier and Desco’s financial scheme involving the cash can indeed explain the agencies’ decisions that the appellants appropriated the cash. In addition, the statement by Mr. Monette himself that it was Termont’s money from Termont’s account that was delivered to him by Garda, combined with the balance of the evidence to the effect that Mr. Monette himself collected almost all of the cash at Héritage’s office, would be consistent with the idea that Termont or Mr. Monette was one of the unidentified suppliers mentioned by Mr. Auger as being involved in financing Desco’s inventory rather than the financial planning scheme involving receivables. It would also be consistent with Mr. Monette collecting the cash for other personal purposes, without leaving or returning a portion directly or indirectly to Héritage or Mr. Paquet (for which, in any event, there is no evidence).
+[50] The evidence in these appeals in no way shows that one or both of the appellants personally profited from all or part of the cash delivered by Garda. The appellants deny it. Mr. Chevalier and Desco, Mr. Lemay, Mr. Auger and Mr. Houle all gave versions of the facts that ran counter to that conclusion. The information provided by Mr. Lemay and Mr. Chevalier implicated persons other than Termont, Mr. Monette, Héritage and Mr. Paquet in respect of the cash delivered by Garda.
+[51] For these reasons, the Court cannot conclude, on a balance of probabilities, that the assessments in issue are supported by the facts in evidence, and the appeals are allowed with costs.
+Signed at Toronto, Ontario, this 16th day of May 2024.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 3rd day of June 2026
+Margarita Gorbounova, Senior Jurilinguist
+CITATION:
+2024 TCC 69
+COURT FILE NOs.:
+2019-2997(IT)G, 2019-2998(IT)G
+STYLES OF CAUSE:
+STEVE PAQUET AND HIS MAJESTY THE KING
+4527976 CANADA INC. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montreal, Quebec
+DATES OF HEARING:
+February 13, 14, 15 and 16, and May 24, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+May 16, 2024
+APPEARANCES:
+Counsel for the appellant:
+Philippe-Alexandre Otis
+Christopher Mostovac
+Counsel for the respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Philippe-Alexandre Otis
+Christopher Mostovac
+Firm:
+For the respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See AgraCity Ltd v. Canada, 2015 FCA 288
+[2] $17,358,000 was included in Mr. Paquet’s income for 2010 to 2013 and $21,443,000 was included in Héritage’s income for the period from December 1, 2010, to November 30, 2014.
+[3] In its audit of Termont, the ARQ allowed tens of millions of dollars in business expenses, even though the ARQ investigator found no actual activities carried on by Termont. The Court has no idea why the investigator and auditor were not of the same opinion.
+[4] I do not know whether Mr. Monette was charged or convicted for his involvement in the theft or whether his firearms were registered and stored correctly.
+[5] She knew what answers Mr. Paquet had given in his testimony regarding his use of the card.

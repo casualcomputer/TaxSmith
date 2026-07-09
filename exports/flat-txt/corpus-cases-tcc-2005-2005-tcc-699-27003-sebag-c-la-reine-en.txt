@@ -1,0 +1,207 @@
+Title: Sebag c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27003/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-699-27003-sebag-c-la-reine-en.md
+Document type: case_law
+Last modified: 2005-10-27
+
+# Sebag c. La Reine
+
+- Citation: 2005 TCC 699
+- Decision date: 2005-10-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 548, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sebag c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-27
+Neutral citation
+2005 TCC 699
+File numbers
+2003-485(IT)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-485(IT)G
+BETWEEN:
+ROBERT SEBAG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+MICHÈLE SALCITO,
+Added Party.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on September 1, 2005, in Montreal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Josée Cavalancia
+Counsel for the Respondent:
+Julie David
+Counsel for the Added party:
+Yves Archambault
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000 and 2001 taxation years are allowed with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 27th day of October 2005.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 15th day of May 2007.
+Erich Klein, Revisor
+Citation: 2005TCC699
+Date: 20051027
+Docket: 2003-485(IT)G
+BETWEEN:
+ROBERT SEBAG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+MICHÈLE SALCITO,
+Added Party.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] On November 8, 2004, this Court made an order under section 174 of the Income Tax Act (the “Act”) joining Michèle Salcito to the appeal by the appellant. As a result, in this appeal we have an appellant, an added party and the respondent.
+[2] The issue is whether for the 2000 and 2001 taxation years an amount of $50,000 in 12 monthly instalments of $4,166.66 and an amount of $33,333 also in monthly instalments of $ 4,166.66, paid by the appellant to the added party, are in the nature of support amounts within the meaning of subsection 56.1(4) of the Act. If such be the case, the appellant could claim these amounts as tax deductions under paragraph 60(b) of the Act and, conversely, the added party would have to include them in her income under paragraph 56(1)(b) of the Act.
+[3] The Minister of National Revenue (the “Minister”) denied the $50,000 and $33,333 deductions claimed by the appellant. In so doing the Minister followed this Court's decision of July 4, 2002, allowing the appeal of Michèle Salcito for the 1999 taxation year and determined that the periodic payments totalling $50,000 were not in the nature of support amounts.
+[4] With regard to the Tax Court decision, it must be noted that the appellant was not involved in the appeal proceedings and that since that decision there has been a judgment of the Superior Court of Quebec, rendered on June 5, 2005, after a lengthy hearing, dealing in particular with an application for support. This judgment, to which I will refer later, has been filed as Exhibit A‑5.
+[5] In making his assessments, the Minister relied on the facts set out in paragraph 21 of the Reply to the Notice of Appeal (the “Reply”) as follows:
+[TRANSLATION]
+(a) the appellant and Michèle Salcito (hereinafter “ex‑wife”) were married on June 26th, 1978, and separated in 1993;
+(b) they had two children, Alexandra and Yannick;
+(c) during the 2000 and 2001 taxation years, the appellant and his ex-wife were living separate and apart;
+(d) on August 3rd, 1993, the appellant and his ex-wife, with the assistance of their respective lawyers, signed a written agreement (see Appendix A);
+(e) clause 7 of the agreement states that:
+[TRANSLATION] Instead of paying her a lump sum of $400,000, the husband shall pay the wife support of $4,166.66 monthly for a fixed period of eight (8) years, effective August 1, 1993; this amount will not be indexed, however the support payments will be deductible from the husband's taxable income and shall be reported by the wife as income;
+(f) clause 8 of the agreement states that:
+[TRANSLATION] Subject to all the foregoing, the parties acknowledge that no support or lump sum shall be payable by either spouse for the maintenance of the other, each party declaring himself/herself to be self-sufficient and able to provide for himself/herself, and that their mutual support obligations have been terminated once and for all; accordingly, the parties waive irrevocably any present, past or future right to support, notwithstanding any changes that may occur in their circumstances;
+(g) in clause 9 the parties agreed that the appellant would cover reasonable expenses related to schooling, recreational activities and clothing;
+(h) on November 6, 1997, the Honourable Justice Jean‑Louis Léger of the Superior Court ruled on a motion for corollary relief brought by the ex-wife, setting at $2,000 per month the amount of support payable by the appellant to his ex-wife for their two children;
+(i) the appellant deducted for the 2000 and 2001 taxation years the aggregate amount of $50,000 (for 2000) and $33,333 (for 2001) as support amounts or other allowance payable on a periodic basis for the maintenance of his ex-wife;
+(j) the ex-wife did not include in her income the aggregate amount of $50,000 for the 2000 taxation year or $33,333 for the 2001 taxation year as support amounts or other allowance payable on a periodic basis for her own maintenance;
+(k) on June 28, 2002, the Honourable Judge Lamarre of the Tax Court of Canada allowed the appeal by the ex-wife and ruled that the periodic payments totalling $50,000 made by the appellant herein to his ex-wife in the 1999 taxation year were not to be included in the ex-wife's income as support amounts or other allowance payable on a periodic basis.
+[6] Mr. Robert Sebag, as the appellant, and Ms. Michèle Salcito, as the added party, both testified.
+[7] Counsel for the appellant first referred to the settlement agreement signed on August 3, 1993, filed as Exhibit A‑1. The payments at issue were made pursuant to this agreement signed by both parties.
+[8] Counsel referred specifically to clauses 7 to 9 appearing under the heading [TRANSLATION] “Support and Other Maintenance” and to clauses 11 and 12 titled “Compensatory Allowance”:
+[TRANSLATION]
+SUPORT AND OTHER MAINTENANCE
+7. Instead of paying her a lump sum of $400,000, the husband shall pay the wife support of $4,166.66 monthly for a fixed period of eight (8) years, effective August 1, 1993; this amount will not be indexed, however the support payments will be deductible from the husband's taxable income and shall be reported by the wife as income;
+8. Subject to all the foregoing, the parties acknowledge that no support or lump sum shall be payable by either spouse for the maintenance of the other, each party declaring himself/herself to be self-sufficient and able to provide for himself/herself, and that their mutual support obligations have been terminated once and for all; accordingly, the parties waive irrevocably any present, past or future right to support, notwithstanding any changes that may occur in their circumstances;
+9. With regard to the maintenance of the children, the husband alone shall cover reasonable expenses for schooling, sports, recreational activities and clothing for the children;
+. . .
+COMPENSATORY ALLOWANCE
+11. Instead of dividing up the family assets and by way of compensatory allowance, the husband shall pay the wife an aggregate amount of $550,000 as follows:
+(a)
+$250,000 within thirty (30) days;
+(b)
+$150,000 within six (6) months;
+(c)
+$150,000 within a year;
+12. Furthermore, within thirty (30) days, the husband shall purchase in the wife's name a new car, namely, a Lumina APV, of which he is to bear the cost.
+[9] Counsel for the appellant asked him to explain the apparent contradiction between clauses 7 and 8.
+[10] The appellant explained that at the time of the separation, his ex-wife was 40 years old. There was an understanding between the parties to the agreement that the payment of support for a period of eight years should allow her to achieve self-sufficiency. This is what clause 8 states. Clause 8 is subject to clause 7. It is subject to the payment of support in the amount of $50,000 per year over a period of eight years. In clause 8, the parties acknowledge that they have no entitlement to support and no obligations with respect to support, effective immediately for the husband and in eight years for the wife.
+[11] The appellant explained that in eight years one of their children would have reached the age of majority and that the other would be 16 years old. Furthermore, under clause 9 of the agreement, the appellant alone was to cover reasonable expenses for schooling, sports, recreational activities and clothing for the children.
+[12] The appellant testified that when signing the agreement both parties had the assistance of their respective lawyers.
+[13] Ms. Salcito testified that the amount of $400,000 represented a lump sum set in advance and payable on a periodic basis. She explained that at the time of their separation Mr. Sebag was unable to pay her the full amount of the compensatory allowance and that they thus agreed to payment in instalments.
+[14] She admits having included the amounts so paid in the computation of her income starting in 1993, the year that the agreement was signed. She did so because this was what was specified in the agreement. However, in her mind, it was the payment of a lump sum. Her attention was drawn to her mistake by Revenu Québec agents and agents from the provincial office for the collection of support payments. In 1999, she received a full refund of the overpaid income tax from the Quebec government.
+Submissions
+[15] Counsel for the appellant referred to the decision of the Federal Court of Appeal in Gagné v. Canada, [2001] F.C.J. No. 1573 (Q.L.), and more specifically to paragraph 10 of that decision:
+10 It is settled law, in Quebec civil law, that if the common intention of the parties in an agreement is doubtful, the judge [TRANSLATION] “must try to find what the parties truly intended by their agreement” (Jean-Louis Baudouin, Les Obligations, 4th Ed., 1993, Les Éditions Yvon Blais, p. 255). The judge must [TRANSLATION] “place greater weight on the real intention of the contracting parties than on the apparent intention, objectively manifested by the formal expression” (p. 255), and he must ascertain the effect that the parties intended the contract to have (p. 256). To do so, the judge must have a [sic] overall picture of the parties’ intention, which calls for an analysis of all of the clauses in the contract in relation to one another (p. 258). If there is any remaining doubt as to the parties’ real intention, the judge may [TRANSLATION] “examine the manner in which the parties conducted themselves in relation to the contract, in their negotiations, and most importantly their attitude after entering into the contract, that is, the manner in which the parties have interpreted it in the past...” (pp. 258-259).
+[16] Counsel pointed out that the conduct of the parties after signing the agreement was this: the added party included the amount in computing her income and the appellant deducted that same amount. Counsel for the appellant also observed that the amounts paid were so paid in accordance with clause 7 of the agreement and that this clause appeared under the heading “Support and Other Maintenance”.
+[17] Counsel for the appellant submitted as well regarding this Court's judgment for the 1999 taxation year that the appellant was not involved in the hearing that led to the judgment issued on July 4, 2002.
+[18] Counsel referred to the judgment of the Superior Court of Quebec rendered in 2005 following a lengthy hearing and in which it is noted in a number of paragraphs that support was paid.
+[19] Counsel for the added party submitted that it is not for the parties to stipulate what may be deducted under the Act, that the entitlement to deduct and the duty to include in income are provided for rather by the Act. Accordingly, one must not rely on what the agreement says with respect to the deduction and the inclusion of the amounts in question.
+[20] Counsel submits that in clause 7 of the agreement there may be an Anglicism in that the French words “au lieu de” really mean “in lieu of”. These words actually mean in French “au titre de”. Clause 7 would then read: “Au titre d’un montant global de 400 000 $, Monsieur paiera à Madame une pension alimentaire.” Thus, the true purpose of this clause was to effect the payment of a lump sum of $400,000 over a fixed period of eight years.
+Analysis and conclusion
+[21] With respect to this Court’s decision of July 4, 2002, the reasons for judgment were read from the bench and no transcript was requested. The decision is accordingly short and reads as follows:
+[TRANSLATION] The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount of $50,000 received by the appellant in that year did not constitute an amount received as a periodic allowance for the maintenance of the appellant within the meaning of subsection 56.1(4).
+[22] As mentioned earlier, the appellant was not involved in that hearing either as a witness or as an added party. It should be noted also in this regard that the decision of the Superior Court of Quebec had not yet been issued.
+[23] While this Court is not bound by the Superior Court’s decision, it was rendered following a lengthy hearing and it is most interesting to read the various findings of the Superior Court judge. In this connection, I refer to paragraphs 63, 64, 67, 78, 85, 91, 93, 94, 104, 187 and 188:
+[TRANSLATION]
+63 Furthermore, although they negotiated the terms of their agreement directly, the parties were being assisted by their respective counsel, in whose presence the agreement was in fact signed.
+64 In view of the foregoing, the Court fails to see in the circumstances surrounding the execution of the agreement any reason to set it aside.
+. . .
+67 Under the agreement, the wife:
+(a) received a lump sum amount of $400,000 as support for herself payable in 96 monthly instalments of $4,166,66 (clause 7);
+(b) received a compensatory allowance of $550,000 payable in full within 12 months (clause 11); and
+(c) retained the amounts paid in her name in a Registered Retirement Savings Plan, estimated at approximately $250,000.
+These amounts total $1,200,000.
+. . .
+78 She says that she has had to liquidate all her assets and spend the monthly support amount, which she was receiving for herself, to provide for the children.
+. . .
+85 For all these reasons, in light of the criteria set out in the Miglin case, the Court can find nothing in the evidence that would justify setting aside the agreement dated August 3, 1993, and the agreement will accordingly be confirmed by the Court.
+. . .
+91 It seems obvious that at that time Madam Justice Zerbizias merely confirmed the agreement between the parties and added nothing to the husband's obligations with respect to the support he was to pay to the wife.
+. . .
+93 The evidence shows that, since August 2001, the husband has been paying the wife support of $3,000 per month under an agreement signed on September 10, 2003 (for five months), $2,000 per month in accordance with the order issued by Justice Mongeon (for nine months) and $2,000 per month in accordance with the interim order issued during the hearing of this case (for eight months), for an aggregate amount of $49,000.
+94 He now seeks permanent discharge from this support obligation, since he has met all the obligations he assumed in this connection in the agreement of 1993.
+. . .
+104 It is clear that the husband was required to remedy the economic hardship that the breakdown of the marriage would cause the wife and this is what he did when the parties agreed on a support amount of $400,000 for her payable over a period of eight years.
+. . .
+187 CONFIRMS and RENDERS ENFORCEABLE the agreement on corollary relief signed by the parties on August 3, 1993, and ORDERS them to comply therewith;
+188 DISMISSES the applicant’s application for support.
+[24] In the fact situation described by the judge in the decision of the Superior Court of Quebec, there was no need to determine whether the amount at issue in the present case represented support or not. However, the judge always referred to it as a support amount, both in setting out the facts described by the parties and in his analysis of the facts and the law.
+[25] I refer now to the definition of “support amount” in subsection 56.1(4) of the Act:
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[26] A support amount is an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, who must have discretion as to the use of the amount.
+[27] It is true, as stated by counsel for the added party, that the parties cannot themselves determine what may be deducted and what must be included in the computation of income. It is the provisions of the Act that govern the method of computation of income. However, the terms of an agreement may be taken into consideration as showing the intent of the parties thereto when executing the agreement.
+[28] According to the Federal Court of Appeal in the Gagné decision (supra), the judge must have an overall picture of the parties’ intention, which calls for an analysis of all of the clauses in the contract in relation to one another.
+[29] Looking at the relevant clauses of the agreement, which are quoted earlier in these reasons for judgment, it seems to me they clearly indicate that what was to be immediately payable to the ex-wife was not a lump sum but a support amount. Instead of a lump sum, a support amount was to be paid. Even if I were to accept the submission of counsel that the French words “au lieu” must be read as meaning “au titre de”, the result would be the same: we are dealing here not with the payment of a lump sum but rather with the payment of a support amount.
+[30] The parties have divided the agreement into various sections and given each of these a heading. The headings under which are found the clauses of the agreement that are of interest to us are: [TRANSLATION] “Support and Other Maintenance” and [TRANSLATION] “Compensatory Allowance”. To hold that a payment coming under the “Support” heading and so characterized in clause 7 is not a support amount but a payment that must be added to the compensatory allowance would amount to changing the intention of the parties.
+[31] In my view, the wording of clause 7 of the agreement can admit of only one interpretation, namely, that we are dealing here with a support amount. This support is limited both as to its duration and its amount, but that does not alter its nature as a support amount. The ex-wife was not gainfully employed at the time of the separation. The payment of a periodic allowance over a period of eight years would allow her to support herself during the period deemed necessary for her to become self-sufficient and she had full discretion as to the use of this money. See in this connection the decision of the Federal Court of Appeal in McKimmon v. M.N.R. (C.A.), [1990] 1 F.C. 600.
+[32] In conclusion, the appellant is entitled to deduct in computing his income the amounts paid under clause 7 of the agreement. The added party must include those amounts in her income.
+[33] The appeal is allowed with costs.
+Signed at Ottawa, Canada, this 27th day of October 2005.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 15th day of May 2007.
+Erich Klein, Revisor
+CITATION:
+2005TCC699
+DOCKET:
+2003-485(IT)G
+STYLE OF CAUSE:
+Robert Sebag v. Her Majesty The Queen and Michèle Salcito
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+September 1, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT:
+October 27, 2005
+APPEARANCES:
+For the Appellant:
+Josée Cavalancia
+For the Respondent:
+Julie David
+For the Added Party:
+Yves Archambault
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Josée Cavalancia
+Firm:
+Brouillette Charpentier Fortin
+Montreal, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

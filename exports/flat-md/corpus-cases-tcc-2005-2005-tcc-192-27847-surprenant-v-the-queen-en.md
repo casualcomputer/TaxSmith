@@ -1,0 +1,1029 @@
+---
+title: "Surprenant v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27847/index.do"
+last_modified: "2005-04-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 192"
+citation2: ""
+neutral_citation: "2005 TCC 192"
+decision_date: "2005-04-04"
+language: "en"
+item_id: "27847"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 355
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:52:25.038000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e88aa32ce1cb6cd45cfd9e4e01167fbbb30977046844347a86a62b9e7790d432"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Surprenant v. The Queen
+
+- Citation: 2005 TCC 192
+- Decision date: 2005-04-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 355, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Surprenant v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-04
+Neutral citation
+2005 TCC 192
+File numbers
+2004-1707(IT)I
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1707(IT)I
+BETWEEN:
+PASCAL SURPRENANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances :
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-1708(IT)I
+BETWEEN:
+PATRICE LÉVESQUE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeal heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-1709(IT)I
+BETWEEN:
+DENIS LEPAGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-1713(IT)I
+BETWEEN:
+ANDRÉ GRANGER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-1724(IT)I
+BETWEEN:
+SAMUEL FORTIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeal heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-1819(IT)I
+BETWEEN:
+DANIEL DARAÎCHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-1820(IT)I
+BETWEEN:
+MARTIN CHARRON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-1821(IT)I
+BETWEEN:
+STÉPHANE AUGER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-1823(IT)I
+BETWEEN:
+CHRISTOPHE ASENJO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-1825(IT)I
+BETWEEN:
+MICHEL BELLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-1954(IT)I
+BETWEEN:
+VINCENT PILON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-1958(IT)I
+BETWEEN:
+ALAIN BORDELEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-1959(IT)I
+BETWEEN:
+GHISLAIN PELLERIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-1960(IT)I
+BETWEEN:
+LOÏC CALVEZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-1961(IT)I
+BETWEEN:
+PHILIPPE CLAVERI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-1962(IT)I
+BETWEEN:
+LUC DEMANCHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeal heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-1963(IT)I
+BETWEEN:
+YAN GAUTHIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeal heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-2140(IT)I
+BETWEEN:
+RÉAL BELLEMARE,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-2142(IT)I
+BETWEEN :
+VITA ELENA CANDELIERE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-2144(IT)I
+BETWEEN:
+FRED HINTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeal heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-2145(IT)I
+BETWEEN:
+SOPHIE LAMOTHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeal heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-2149(IT)I
+BETWEEN:
+CHANTAL PAQUET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-2150(IT)I
+BETWEEN:
+MICHAEL SAINI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeal heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-2152(IT)I
+BETWEEN:
+ISABELLE SERRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-2437(IT)I
+BETWEEN:
+MARTIN BEAUCHAMP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeal heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-2441(IT)I
+BETWEEN:
+MARTIN LABELLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeal heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-2443(IT)I
+BETWEEN:
+STÉPHANE PAQUETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-2445(IT)I
+BETWEEN:
+DANIEL LONGCHAMPS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-2447(IT)I
+BETWEEN:
+PATRICK POLLA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-2668(IT)I
+BETWEEN:
+MARTIN BEAUCHAMP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2001 and 2002 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-2669(IT)I
+BETWEEN:
+RÉAL BELLEMARE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Carl Gauthier (2004‑2670(IT)I), Daniel Longchamps (2004-3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2001 and 2002 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-2670(IT)I
+BETWEEN :
+CARL GAUTHIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeal heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Daniel Longchamps (2004‑3734(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-3734(IT)I
+BETWEEN:
+DANIEL LONGCHAMPS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I) and Mélanie Babineau (2004‑4113(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2001 and 2002 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Docket: 2004-4113(IT)I
+BETWEEN:
+MÉLANIE BABINEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________ Appeals heard on common evidence with the appeals of Pascal Surprenant (2004‑1707(IT)I), Patrice Lévesque (2004‑1708(IT)I), Denis Lepage (2004‑1709(IT)I), André Granger (2004‑1713(IT)I), Samuel Fortin (2004-1724(IT)I), Daniel Daraîche (2004‑1819(IT)I), Martin Charron (2004‑1820(IT)I), Stéphane Auger (2004‑1821(IT)I), Christophe Asenjo (2004‑1823(IT)I), Michel Belley (2004‑1825(IT)I), Vincent Pilon (2004-1954(IT)I), Alain Bordeleau (2004‑1958(IT)I), Ghislain Pellerin (2004‑1959(IT)I), Loïc Calvez (2004‑1960(IT)I), Philippe Claveri (2004‑1961(IT)I), Luc Demanche (2004‑1962(IT)I), Yan Gauthier (2004‑1963(IT)I), Réal Bellemare (2004‑2140(IT)I), Vita Elena Candeliere (2004‑2142(IT)I), Fred Hinton (2004‑2144(IT)I), Sophie Lamothe (2004‑2145(IT)I), Chantal Paquet (2004‑2149(IT)I), Michael Saini (2004‑2150(IT)I), Isabelle Serre (2004‑2152(IT)I), Martin Beauchamp (2004‑2437(IT)I), Martin Labelle (2004‑2441(IT)I), Stéphane Paquette (2004‑2443(IT)I), Daniel Longchamps (2004‑2445(IT)I), Patrick Polla (2004‑2447(IT)I), Martin Beauchamp (2004-2668(IT)I), Réal Bellemare (2004‑2669(IT)I), Carl Gauthier (2004‑2670(IT)I) and Daniel Longchamps (2004‑3734(IT)I), on March 2, 2005 at Montréal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Cantin
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2001 and 2002 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+Citation: 2005TCC192
+Date: 20050404
+Dockets: 2004-1707(IT)I, 2004‑1708(IT)I, 2004‑1709(IT)I,
+2004‑1713(IT)I, 2004-1724(IT)I, 2004‑1819(IT)I,
+2004‑1820(IT)I, 2004‑1821(IT)I, 2004‑1823(IT)I,
+2004‑1825(IT)I, 2004-1954(IT)I, 2004‑1958(IT)I,
+2004‑1959(IT)I, 2004‑1960(IT)I, 2004‑1961(IT)I,
+2004‑1962(IT)I, 2004‑1963(IT)I, 2004‑2140(IT)I,
+2004‑2142(IT)I, 2004‑2144(IT)I, 2004‑2145(IT)I,
+2004‑2149(IT)I, 2004‑2150(IT)I, 2004‑2152(IT)I,
+2004‑2437(IT)I, 2004‑2441(IT)I, 2004‑2443(IT)I,
+2004‑2445(IT)I, 2004‑2447(IT)I, 2004-2668(IT)I,
+2004‑2669(IT)I, 2004‑2670(IT)I, 2004‑3734(IT)I
+and 2004‑4113(IT)I
+BETWEEN :
+PASCAL SURPRENANT, PATRICE LÉVESQUE, DENIS LEPAGE,
+ANDRÉ GRANGER, SAMUEL FORTIN, DANIEL DARAÎCHE,
+MARTIN CHARRON, STÉPHANE AUGER, CHRISTOPHE ASENJO,
+MICHEL BELLEY, VINCENT PILON, ALAIN BORDELEAU,
+GHISLAIN PELLERIN, LOÏC CALVEZ, PHILIPPE CLAVERI,
+LUC DEMANCHE, YAN GAUTHIER, RÉAL BELLEMARE,
+VITA ELENA CANDELIERE, FRED HINTON, SOPHIE LAMOTHE,
+CHANTAL PAQUET, MICHAEL SAINI, ISABELLE SERRE,
+MARTIN BEAUCHAMP, MARTIN LABELLE, STÉPHANE PAQUETTE,
+DANIEL LONGCHAMPS, PATRICK POLLA, MARTIN BEAUCHAMP,
+RÉAL BELLEMARE, CARL GAUTHIER, DANIEL LONGCHAMPS
+and MÉLANIE BABINEAU,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Dussault, J.
+[1] These appeals were heard under the informal procedure. These are appeals from assessments whereby the Minister of National Revenue (the “Minister”) refused each of the 31 Appellants[1] the overseas employment tax credit (“OETC”), as set forth in section 122.3 of the Income Tax Act (the “Act”), for one or more of the 1999, 2000, 2001 and 2002 taxation years, as applicable.
+[2] As all the cases involve the same factual situation, the parties agreed to proceed with the hearing in the case of Philippe Claveri (2004‑1961(IT)I), the evidence and arguments being applicable to each of the other cases, except of course that the taxation years and amounts in question vary from one case to another.
+[3] In refusing Philippe Claveri the OETC, the Minister relied on the assumptions of fact stated in paragraphs (a) to (j) of section 7 of the Reply to the Notice of Appeal, which read as follows:
+[translation]
+(a) in his income tax returns for the 1999 and 2000 taxation years, the Appellant claimed the OETC in the amounts of $1,973.31 and $4,713.88 respectively and attached form T626, completed by MCI Canada Inc.;
+(b) the Appellant is an engineer specializing in informatics;
+(c) all shares in MCI Canada Inc. are held by EMC2, a non‑resident company located in the United States. EMC2 also holds all shares in MCI SA France;
+(d) MCI Canada Inc. is an investment and staff recruiting company specializing in informatics;
+(e) MCI Canada Inc. recruited computer specialists to work with MCI SA France in France;
+(f) MCI Canada Inc. does not operate any companies in France;
+(g) MCI Canada Inc. did not sign any business contracts with companies in France and worked on no computer engineering projects;
+(h) during his stay in France, the Appellant rendered services to clients of MCI SA France;
+(i) during his stay in France, the Appellant’s work was controlled by MCI SA France and the latter’s clients;
+(j) The Appellant was paid by MCI Canada Inc., which invoiced MCI SA France for the amounts paid to the Appellant.
+Summary of Evidence
+[4] Philippe Claveri, Denis Lepage, Martin Beauchamp and Renée Gallant testified for the Appellants. René St‑Roch testified for the Respondent.
+[5] Mr. Claveri explained that, after seeing an advertisement in the La Presse newspaper, he became interested in MCI Canada Inc. (“MCI Canada”), which offered various overseas positions in computer engineering. He submitted his résumé, and was invited to an interview at the company’s offices, then located at 507 Place d’Armes in Montréal. There, he met with the secretary, Claire Sénécal, and Philippe Teman. He was told that MCI Canada carried out its activities in various fields of expertise in various countries, including France, Israel and the United States. Interested in the benefits of holding an overseas position, particularly in Paris, and the prospects of obtaining tax deductions, Mr. Claveri decided, after some reflection, to contact the company to seek employment.
+[6] Mr. Claveri submitted as evidence a copy of the contract signed with MCI Canada on March 5, 2001 (Exhibit A‑1). In reality, Mr. Claveri signed his first contract with MCI Canada in May 1999. According to him, the pre‑printed wording of the contracts was always the same.
+[7] Mr. Claveri explained that, upon his arrival in Paris, the cost of the hotel was paid for two weeks to give him time to find an apartment. In terms of the work, he was to see the project managers at the offices of MCI SA France, as MCI Canada had no offices in France. The project managers indicated the contracts available with clients. Mr. Claveri explained that the role of the managers was to find work contracts on the market. He stated that he had met some ten project managers at MCI SA France, who attempted to meet the needs of their clients by placing individuals with the skills necessary for performing a given contract. To this end, MCI SA France had a database of persons available and their résumés. He stated that the employee could choose the contract to be performed and that he had, at the start, refused a contract, preferring to accept another offered by other managers. The client for whom the contract was performed dealt with the project manager regarding disciplinary issues and the manager referred them to Claire Sénécal and Philippe Teman in Montréal. According to Mr. Claveri, Mr. Teman frequently came to Paris and followed up on contracts performed by any given worker. Mr. Claveri stated that, if something were not right while he was carrying out a contract for a client, he would see the project manager. The project manager would visit the client to ensure that everything was proceeding well both for the client and for Mr. Claveri. According to Mr. Claveri, there was no direct contact between officials at MCI Canada and the clients. Mr. Claveri stated that, upon completion of the contract, while he was awaiting another contract, he was to advise MCI Canada of his situation and remain available. He continued to be paid by MCI Canada in the meantime. He stated that he was paid for a period of three months following his initial hiring before he began to work for a client.
+[8] According to Mr. Claveri, once a contract was accepted, the main relationship was with the client and the person in charge for the client, who established the “framework” for performing the contract. The work was carried out at the client’s premises, with the client’s equipment. In terms of leave, Mr. Claveri stated that he took leave based on when the client was closed, that he advised the project manager and contacted the individuals in charge at MCI Canada to advise them. According to him, MCI Canada had control over the workers hired. After a contract was completed, no reports were given to the project manager. Mr. Claveri stated that Quebecers hired by MCI Canada often met together in Paris and that their loyalty was to MCI Canada rather than MCI SA France.
+[9] Denis Lepage is a computer programmer-analyst. He was hired by MCI Canada to work in France from February 1998 to October 2000. In 1997, he had worked for Consultem Canada in Paris. He submitted in evidence documents indicating that, following an audit, he was granted an OETC for 1998 and 1999 (Exhibit A-2). Questioned regarding the involvement of MCI Canada officials in France, Mr. Lepage stated that they came to France every month to organize information meetings, as well as social meetings, such as dinners. He also indicated that he had been “between contracts” for a period of three months. Given the explanations provided by Mr. Claveri in this regard, I understand that this a period during which the employee is without work and must remain fully available, as he continued to be paid by MCI Canada.
+[10] Renée Gallant was the accountant at MCI Canada. In her testimony, she stated that Michel Teman and Philippe Teman were both involved in MCI Canada, but that she did not believe that they were involved in MCI SA France. Regarding the company EMC2, she simply stated that the shareholders were American. Ms. Gallant filed in evidence a letter dated January 11, 2000 in response to a request for clarification regarding a request from her office for an advance ruling on MCI Canada employees’ eligibility for the OETC (Exhibit A‑3). In paragraph 6(a) on page 3 of the letter, the following question is asked:
+[translation]
+Are employees entitled to the overseas employment tax credit given that MCI Inc, their payor, does not carry out engineering contracts overseas?
+[11] In a letter dated May 17, 2000 from the International Tax Directorate (Exhibit A‑3), the following answer is given to this question:
+[translation]
+Paragraph 8 of Interpretation Bulletin IT‑479R3[2] answers the question raised in paragraph 6(a) of your letter. According to your information, MCI employees should be eligible for the OETC, even though MCI does not carry out eligible activities, on condition that they provide services to a non‑resident company that does carry out an eligible activity and meets all other conditions.
+[12] Based on this response, Ms. Gallant concluded that MCI Canada employees could benefit from the OETC and she sent out a memo indicating that MCI Canada would issue T626 forms to all employees so they could claim the OETC, as it was already doing for Quebec income tax, issuing each employee a Relevé 17 (Exhibit I‑1).
+[13] René St‑Roch, an international auditor, conducted the audit in early 2003 regarding the OETCs claimed by the Appellants. The first T626 forms submitted by the Appellants having been completed for MCI Canada by one Marc‑André Tremblay, Mr. St‑Roch attempted to contact him to determine whether the conditions for credit eligibility had been met. He was informed that a woman by the name of Manon Lacoursière had replaced Mr. Tremblay. When Mr. St-Roch requested the business contracts between MCI Canada and overseas clients, Ms. Lacoursière informed him that all contracts were at the offices of MCI SA France. However, since Ms. Lacoursière was in contact with one Éric Polgari, the Assistant Director General of MCI SA France, Mr. St‑Roch sent him a request to obtain all contracts related to the claims for tax credits for 2001 and for the 50 designated employees (Exhibit I‑5). Following this request, Mr. St‑Roch received three contracts. The first is a service agreement between MCI Canada and MCI SA France (Exhibit I‑2). The other two are contracts between MCI SA France and two clients (Exhibits I‑3 and I‑4). Deeming the information obtained to be confidential, Mr. St‑Roch did not forward it to the employees who had claimed the credit.
+[14] Counsel for the Appellants objected to the contracts being submitted in evidence, as no one at MCI Canada or MCI SA France could testify to their content or even their application. I reserved my decision on the objection. Upon reflection, I decided to admit the contracts in evidence. First, it would appear that MCI Canada has no longer been actively operating since the spring of 2003 and is in bankruptcy. As the contracts were obtained directly from MCI SA France, it would be of no use to attempt to obtain testimony from an official from that company, particularly for appeals governed by the informal procedure. The contracts are obviously relevant in attempting to determine the true relationship between the various parties, i.e., the employees, MCI Canada, MCI SA France and the overseas clients, if possible. Finally, following a request as part of an audit, the contracts were provided directly by an authorized person from MCI SA France. At the very least, they certainly have a measure of reliability that could shed some light on the true relationships between the parties, and that can be useful in determining whether eligibility conditions were met for the OETCs claimed by the appellants.
+[15] Upon receiving the contracts, Mr. St‑Roch found that, on the one hand, they were between MCI SA France — not MCI Canada — and overseas clients and that, on the other hand, MCI SA France was not a foreign affiliate of MCI Canada and could thus not be considered a “specified employer” as defined in paragraph 122.3(2)(c) of the Act. According to Mr. St‑Roch, MCI Canada and MCI SA France were both “held” by an American, and later a European, company, EMC2. He also found that the relationship required for MCI SA France to be considered a foreign affiliate of MCI Canada was not present, contrary to what might be suggested by the corporate structure described in paragraph 2(b) of Exhibit A‑3, the response to the request for clarifications regarding the request for an advance ruling.
+[16] Continuing his analysis, Mr. St‑Roch found that MCI Canada had not operated a business overseas. Furthermore, in his opinion, all employees hired by MCI Canada worked exclusively for MCI SA France, and the latter assumed all financial risks, as MCI Canada was reimbursed for all employee salaries under article 7 of the contract between the two companies (Exhibit I‑2). In cross‑examination, however, Mr. St‑Roch admitted that, under article 7.2 of the contract, MCI Canada assumed 50% of the salary paid to employees prior to their first contract.
+[17] In his testimony, Mr. St‑Roch also indicated that Ms. Lacoursière had informed him during the audit that MCI Canada subleased premises in the offices of its accountant in St‑Lambert and owned no other premises where consultations or computer work could be conducted. As regards the question of the nature of MCI Canada’s activities in 2003 and prior years, Ms. Lacoursière responded that the company recruited staff and sent people to MCI SA France.
+[18] In rebuttal evidence, Counsel for the Appellants called Martin Beauchamp to testify; he described himself as a programmer‑analyst. Mr. Beauchamp explained that he had worked for MCI Canada from February 1998 to March 2003 and that he reported to Claire Sénécal, Michel Teman and Philippe Teman, who were in Quebec. According to him, these individuals were also involved in France, where there were planning and information meetings regarding the company and discussions about the contracts of the people in Paris.
+[19] As regards Manon Lacoursière, Mr. Beauchamp stated that she was not known in Paris and that he had only spoken with her in 2003 when she was handling payroll. Mr. Beauchamp also explained that the company’s situation was deteriorating and that not much was happening any more in Montréal in March 2003.
+The Appellants’ Position
+[20] Counsel for the Appellants claims that the Respondent must present prima facie evidence that MCI Canada was not operating a company overseas, as such a conclusion is based on independent elements beyond the control of the Appellants and that, as such, a determination regarding the burden of evidence must reflect the specific circumstances of each case. In this regard, Counsel for the Appellants referred to the decisions in Brown v. Canada, [2000] F.C.J. No. 890 (Q.L), Gestion Yvan Drouin Inc. v. The Queen, 2001 DTC 72, [2000] T.C.J. No. 872 (Q.L) and First Fund Genesis Corp. v. The Queen, 90 DTC 6337, [1990] F.C.J. No. 346 (Q.L.).
+[21] On the issue of the employer‑employee relationship, Counsel for the Appellants claims that this relationship only existed between MCI Canada and the Appellants, as it was MCI Canada that selected and hired employees, paid them, had control over them and took disciplinary measures, as applicable. According to Counsel for the Appellants, this employment relationship was not broken between the contracts assigned to a given employee, who continued to be employed by MCI Canada. According to Counsel, this situation is very different from one in which an employee is recruited and placed with a third party, resulting in a break in the relationship with the placed person. Furthermore, despite the presence of project managers at MCI SA France, employees were not integrated into that company. In addition, MCI Canada always kept a tie to its employees in France through monthly meetings.
+[22] Counsel for the Appellant thus claims, in essence, that MCI SA France acted as a general contractor with clients in France for computer engineering projects and that the work was carried out with MCI Canada as a subcontractor. According to Counsel, the Appellants’ employer was in fact MCI Canada, which thus operated its business in France through its employees working there. The decision in Timmins v. Canada, [1999] 2 F.C. 563, [1999] F.C.J. No. 244 (Q.L.), is cited in support of this argument. Thus, according to Counsel for the Appellants, MCI Canada had the status of specified employer and the Appellants should be able to benefit from the OETC. On the matter of subcontracting, Counsel for the Appellants referred more specifically to the decision in Gonsalves v. Canada, [1999] T.C.J. No. 745 (Q.L.), 2000 DTC 1491, which, in his opinion, presents a similar situation. He also relies on paragraph 8 of Interpretation Bulletin IT‑497R4, which expressly sets forth the possibility of a specified employer acting as a sub‑contractor for qualifying work carried out overseas.
+The Respondent’s Position
+[23] Counsel for the Respondent, on the other hand, claims that MCI Canada does not meet the conditions for a specified employer and that MCI SA France or the client was the true employer. Counsel for the Respondent notes that the employees recruited in Canada were released in France and reported to project managers who had contracts with clients, that they worked at the client’s premises using the client’s equipment, in accordance with a framework and schedule set by the client or by MCI SA France. It is thus the clients or MCI SA France that controlled these various elements and that must be considered the true employers. Counsel for the Respondent further feels that, if the Court finds that MCI Canada was in fact a specified employer, it must be found that MCI Canada was not operating, directly or through subcontracting, a computer engineering business in France. Counsel notes that, under the terms of the contracts between MCI SA France and the clients, it is the former that took out liability insurance, and that MCI Canada was in no way party to the contracts or involved with clients. Given these elements and the manner in which MCI SA France invoiced its clients, Counsel for the Respondent concludes that MCI SA France was operating the overseas business and that MCI Canada only operated a recruiting and placement business in Montréal. Counsel for the Respondent relies specifically on the decision in Fonta v. Canada, [2001] T.C.J. No. 62 (Q.L.), in which it was ruled that a company residing in Canada was only acting as a specialized personnel agency, not as a subcontractor for an overseas engineering contract.
+Analysis
+[24] The portion of subsection 122.3 of the Act that is relevant in this case reads as follows:
+SECTION 122.3: Deduction from tax payable where employment out of Canada
+(1) Where an individual is resident in Canada in a taxation year and, throughout any period of more than 6 consecutive months that commenced before the end of the year and included any part of the year (in this subsection referred to as the "qualifying period")
+(a) was employed by a person who was a specified employer, other than for the performance of services under a prescribed international development assistance program of the Government of Canada, and
+(b) performed all or substantially all the duties of the individual's employment outside Canada
+(i) in connection with a contract under which the specified employer carried on business outside Canada with respect to
+(A) . . .
+(B) any construction, installation, agricultural or engineering activity, or
+(C) . . .
+(ii) . . .
+. . .
+4 122.3(2) 3
+(2) Definitions. In subsection 122.3(1),
+“specified employer” ‑ "specified employer" means
+(a) a person resident in Canada,
+(b) . . .
+(c) a corporation that is a foreign affiliate of a person resident in Canada;
+[25] The Appellants are not contesting the fact that MCI SA France does not meet the required conditions to be a specified employer, not being a foreign affiliate of MCI Canada.
+[26] Nor is the Respondent contesting the fact that the Appellants performed all or substantially all of the duties of their employment overseas for a period of more than six months of each year in connection with computer engineering projects.
+[27] The issue consists of two questions. First, was MCI Canada the Appellants’ employer and thus a specified employer? Second, was MCI Canada operating a business overseas in connection with computer engineering projects?
+[28] As regards the first question, I feel that the Respondent’s position that the Appellants were employees of MCI SA France or its clients, not employees of MCI Canada, must be rejected, as it goes directly against the contracts signed in good faith by the parties in question and in which their will is clearly expressed.
+[29] Exhibit A‑1 is a contract of employment duly signed by Appellant Philippe Claveri and MCI Canada. This contract sets forth, in great detail, the conditions for the Appellant’s employment with MCI Canada. Article 1 indicates that the employer, i.e., MCI Canada, hires the employee, i.e., said Appellant, as a network engineer to be assigned full time in France to provide technical assistance and computer system development for the computer services company, MCI SA France.
+[30] Section 2085 of the Civil Code of Québec defines a contract of employment as a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer. In the contract of employment in question here, the remuneration (annual salary and housing allowance) is set forth in article 1, the normal work week is indicated in article 4 and the duration of the contract in article 9. Several provisions indicate the desire to establish a subordinate relationship between the Appellant and MCI Canada. It is appropriate to mention here the exclusivity clauses in article 7 of the contract of employment (prohibiting the employer from working for another employer, competing with the employer or disclosing to a third party the employer’s business practices, etc.) and the provisions in article 9 regarding cancellation of the contract. Among other conditions, we can look at articles 2 and 5, which set forth the right to five weeks of annual paid leave and an airline ticket (Paris‑Montréal‑Paris) for such leave.
+[31] Furthermore, Exhibit I‑2, the service agreement between MCI Canada and MCI SA France, clearly states that MCI Canada employees cannot legally be assimilated into the MCI SA France workforce (article 6).
+[32] Finally, article 10 of exhibits I‑3 and I‑4, technical assistance contracts between MCI SA France and its clients, also clearly indicate that employees of MCI SA France or a subcontractor cannot legally be assimilated into the client’s workforce.
+[33] The evidence also demonstrates that, between contracts performed for MCI SA France’s clients, the Appellants were required to remain available and continued to be paid by MCI Canada and, in this regard, the Appellants were required to report to MCI Canada. I would simply add that the fact that an employee of a company is assigned to another company to perform contracts obtained by the latter in no way signifies the end of the employment relationship with the first company, unless of course such is the clear intent expressed by the parties. This is not the case before us.
+[34] It is important to note that the intent of the parties is a key factor in contract law. In this regard, I cite Décary J. of the Federal Court of Appeal in Wolf v. Canada, [2002] 4 F.C. 396, at paragraphs 117 and 119:
+[117] The test, therefore, is whether, looking at the total relationship of the parties, there is control on the one hand and subordination on the other. I say, with great respect, that the courts, in their propensity to create artificial legal categories, have sometimes overlooked the very factor which is the essence of a contractual relationship, i.e. the intention of the parties. Article 1425 of the Civil Code of Québec establishes the principle that "[t]he common intention of the parties rather than the adherence to the literal meaning of the words shall be sought in interpreting a contract". Article 1426 C.C.Q. goes on to say that "[i]n interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account".
+. . .
+[119] Taxpayers may arrange their affairs in such a lawful way as they wish. No one has suggested that Mr. Wolf or Canadair or Kirk-Mayer are not what they say they are or have arranged their affairs in such a way as to deceive the taxing authorities or anybody else. When a contract is genuinely entered into as a contract for services and is performed as such, the common intention of the parties is clear and that should be the end of the search . . ..
+(Emphasis added)
+[35] The Appellants signed a contract of employment with MCI Canada and MCI Canada only (Exhibit A‑1). The will of the parties is clearly expressed, as it is in the service agreement between MCI Canada and MCI SA France (Exhibit I‑2) and the technical assistance contracts between MCI SA France and its clients (Exhibits I‑3 and I‑4). Nothing indicates to me that these contracts were not signed in good faith or were not carried out in accordance with their terms and conditions. I therefore conclude that MCI Canada was the Appellant’s employer and, as such, was a specified employer. I would add here that I see nothing unusual in the fact that article 7 of the service agreement between MCI Canada and MCI SA France provides that the amount that MCI SA France agreed to pay to MCI Canada for providing MCI Canada employees was based on a higher daily rate, while the latter had set its employees’ remuneration based on an annual rate (Exhibit A-1, Exhibit 1). The financial risk for MCI Canada surely resulted to a large extent from this situation and the risk cannot, in my opinion be seen as having been incurred by MCI SA France alone, as is claimed by the Counsel for the Respondent.
+[36] The second issue is whether MCI Canada operated a business overseas in connection with computer engineering projects. In Timmins, supra, Noël J. of the Federal Court of Appeal was required to interpret the expression “carry on business”. He stated the following at paragraphs 9 to 12 of his decision:
+[9] The expressions "carry on business," "carrying on business" or "carried on business," while undefined must, when regard is had to the ordinary meaning of the words, refer to the ongoing conduct or carriage of a business. It would seem to follow that where one "carries on" a business in the ordinary sense or by pursuing one or more of the included activities under subsection 248(1) over time, one is "carrying on business" under the Act.
+[10] The Trial Judge in his reasons twice refused to confront this definition and in particular the argument that the Department was carrying on business within the defined meaning. The Trial Judge stated:
+The plaintiff contends that the Department was carrying on an "undertaking of any kind whatever". However, the above provision [i.e. the definition of "business" in s. 248(1)] does not define "business"; rather, it lists a number of examples which are included in the term: Canadian Marconi Co v. The Queen, [1984] CTC 319 (F.C.A.), reversed on other grounds, [1986] 2 S.C.R. 522. [Emphasis added.]
+The point had indeed been made by this Court in Canadian Marconi but only for the purpose of making it clear that beyond the included activities listed in subsection 248(1), the word "business" retains its ordinary meaning.
+[11] Whether one reads the definition of "business" in subsection 248(1) as a definition or as something else, it inescapably brings within the meaning of this word the specific activities which it lists. The result is that profits generated by the carriage of these activities are, for purposes of the Act, business profits and taxable as such. While subsections 8(10) and 122.3(1) do not impose a tax but extend a benefit, it cannot be seriously argued that on that account only, the word business should be construed differently. There is nothing in the language of these subsections which excludes from their application the defined meaning of the word "business."
+[12] Applying this definition, it seems clear that even if it could be said that the Department was not carrying on a business in the ordinary sense, it was at least engaged in an "undertaking of any kind whatever," namely the provision of services under a contract for a fee. As such it was carrying on business under a contract as contemplated by subsections 8(10) and 122.3(1).
+(Footnotes have been omitted. My emphasis.)
+[37] I am convinced that, under the service agreement (Exhibit I‑2) between MCI Canada and MCI SA France, the Appellant’s employer, i.e., MCI Canada, operated an overseas business related to computer engineering projects. The preamble of the service agreement signed by MCI Canada and MCI SA France, which is part of the agreement under article 1, reads as follows:
+[translation]
+M.C.I. Inc.[3] is a computer consultation and technical assistance company. It offers its clients computer competency based on the quality of its professional recruitments in this field.
+M.C.I. S.A.[4] is a computer engineering services company whose clients, large French companies, expect the best service quality for development and implementation of projects and applications.
+M.C.I. Inc. and M.C.I. S.A indicate their mutual interest in establishing an ongoing business relationship to ensure their mutual development.
+[38] Article 2 of the same agreement indicates that MCI Canada agrees to assist MCI SA France in carrying out computer projects requiring [TRANSLATION] “a high level of competency”. In my opinion, the agreement between MCI Canada can be considered to be related to engineering projects, given that MCI Canada assisted, through the services of its employees, in carrying out this type of project, for which MCI SA France had signed contracts with its clients.
+[39] In Gonsalves, supra, Teskey J. had determined whether a Canadian employer could be considered as having operated a foreign company as sub‑contractor by providing the services of an employee. At paragraphs 19, 20, 23 and 24 of his decision, he stated the following:
+19 Wheeler Canada supplied in the course of its business and for profit, the services of its employee (the Appellant), an engineer, to work as a plant inspector in a refinery restoration project being carried out in Kuwait.
+. . .
+20 I am satisfied that section 122.3 does not require that the specified employer also be the main or prime contractor of any qualifying project outside of Canada.
+. . .
+23 All that was required is that Wheeler Canada provided services in connection with a contract under which Wheeler Canada carried on business outside Canada with respect to qualifying activities.
+24 Wheeler Canada was a sub-contractor in the Kuwait project and carried on its engineering business in Kuwait by providing engineering services to the main contractor of the project.
+[40] I am thus of the opinion that, given the service agreement between it and MCI SA France and having provided the latter with the services of its employees, MCI Canada participated in carrying out contracts related to computer engineering projects in France and that such participation can be qualified as subcontracting according to the generally accepted definition of the term, i.e., the full or partial completion by one person of a contract obtained by another person.
+[41] In light of the foregoing, the appeals are allowed, with costs, and the assessment(s) in question for each appellant is (are) referred back to the Minister for reconsideration and reassessment in accordance with the attached Reasons for Judgment. However, as all the appeals were heard on common evidence, fees for preparation of the hearing, for the hearing and for assessment of costs are limited to those that would apply to a single appeal.
+Signed at Ottawa, Canada, this 4th day of April 2005.
+“P. R. Dussault”
+Dussault, J.
+Translation certified true
+on this 21st day of April 2005.
+Gerald Woodard, Translator
+[1] Three appellants filed two separate notices of Appeal for different years.
+[2] This is an inversion. It should read Interpretation Bulletin IT‑497R3.
+[3] MCI Canada in these Reasons for Judgment
+[4] MCI SA France in these Reasons for Judgment

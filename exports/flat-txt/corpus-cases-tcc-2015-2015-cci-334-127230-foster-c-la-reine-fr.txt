@@ -1,0 +1,143 @@
+Title: Foster c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/127230/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-334-127230-foster-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-12-16
+
+# Foster c. La Reine
+
+- Citation: 2015 CCI 334
+- Decision date: 2015-12-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3043, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Foster c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-12-16
+Référence neutre
+2015 CCI 334
+Numéro de dossier
+2014-2390(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014‑2390(IT)G
+ENTRE :
+GLENN FOSTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête écrite
+L'honorable juge B. Paris
+Avocat de l'appelant :
+Me John Townsend
+Avocat de l'intimée :
+Me Stan McDonald
+ORDONNANCE
+Vu la requête présentée par l'appelant pour que soit tranchée avant l'audience la question suivante en vertu du paragraphe 58(1) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles ») :
+Le ministre du Revenu national (le « ministre ») avait‑il le pouvoir d'établir la nouvelle cotisation d'impôt du 23 mai 2014 pour l'année d'imposition 2007 de M. Foster conformément au paragraphe 152(5) de la Loi de l'impôt sur le revenu du Canada (la « Loi »)?
+Vu les observations des avocats et les documents déposés;
+La question qui précède est tranchée de la façon exposée dans les motifs de l'ordonnance joints aux présentes. L'adjudication de dépens pour la présente requête est laissée à la discrétion du juge du procès.
+Signé à Vancouver (Colombie‑Britannique), ce 16e jour de décembre 2015.
+« B. Paris »
+Le juge Paris
+Référence : 2015 CCI 334
+Date : 20151216
+Dossier : 2014‑2390(IT)G
+ENTRE :
+GLENN FOSTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Paris
+[1] L'appelant a présenté une requête en vertu du paragraphe 58(1) des Règles de la Cour canadienne de l'impôt (procédure générale) en vue de faire trancher la question suivante :
+Le ministre du Revenu national (le « ministre ») avait‑il le pouvoir d'établir la nouvelle cotisation d'impôt du 23 mai 2014 pour l'année d'imposition 2007 de M. Foster conformément au paragraphe 152(5) de la Loi de l'impôt sur le revenu du Canada (la « Loi »)?
+[2] L'intimée ne s'oppose pas à ce que la Cour tranche la question posée par l'appelant. Il s'agit là d'une position appropriée, parce que l'appelant soulève une question mixte de fait et de droit dans son avis d'appel, et que le fait de trancher cette question en faveur de l'appelant réglerait l'appel.
+LES FAITS [3] Le 2 mai 2007, l'appelant a constitué Kate and Jerr Fisheries Ltd. (« KJF ») en société pour exploiter une entreprise de pêche. L'appelant était l'unique actionnaire de KJF.
+[4] Le 6 juin 2007, l'appelant a conclu une convention d'achat‑vente (la « CAV ») avec Brian Lord (le « vendeur ») pour l'achat d'un navire de pêche et d'équipement de pêche (collectivement, l'« équipement ») et de permis de pêche (les « permis »). Le prix d'achat de l'équipement et des permis s'élevait à 415 000 $. Sur le prix d'achat de 415 000 $, la CAV allouait 414 999 $ aux permis de pêche et 1 $ à l'équipement.
+[5] L'appelant a également conclu une convention de prêt à l'achat (la « CPA ») avec By the Water Shellfish Inc. (le « prêteur ») aux termes de laquelle le prêteur a accepté de consentir un financement à l'appelant pour l'acquisition de l'équipement et des permis.
+[6] L'appelant avait l'intention d'acquérir l'équipement et les permis pour le compte de KJF, même si cela ne se reflétait pas dans la CAV ou dans la CPA.
+[7] Au moment de conclure la CAV, KJF a payé 200 000 $ au vendeur. Le reste du prix d'achat a été financé en vertu d'un contrat de prêt conclu entre l'appelant et une autre société.
+[8] L'appelant a produit sa déclaration de revenus des particuliers pour l'année d'imposition 2007 et a fait en sorte que KJF produise sa déclaration de revenus des sociétés de 2007 en tenant pour acquis que KJF avait acquis l'équipement et les permis, et que le coût de l'équipement était de 200 000 $, alors que celui des permis s'élevait à 215 000 $.
+[9] Le 20 mai 2008, le ministre a établi une cotisation initiale à l'égard de l'appelant, pour l'année d'imposition 2007 de celui‑ci.
+[10] Le 5 janvier 2012, le ministre a établi une nouvelle cotisation à l'égard de l'appelant afin d'inclure dans son revenu un avantage conféré à un actionnaire de 70 000 $. Cette nouvelle cotisation a été établie après l'expiration de la période normale de nouvelle cotisation en raison d'une renonciation produite par l'appelant le 27 avril 2011.
+[11] Lorsqu'il a établi la nouvelle cotisation à l'égard de l'appelant, le ministre a tenu pour acquis que l'appelant avait fait l'acquisition de l'équipement et des permis à titre personnel et que la juste valeur marchande de l'équipement s'élevait à 130 000 $ au moment de l'acquisition, alors que la juste valeur marchande des permis était de 285 000 $.
+[12] Le ministre a également tenu pour acquis qu'après avoir reçu l'équipement et les permis, l'appelant a transféré l'équipement à KJF pour 200 000 $ (le « supposé transfert »), recevant ainsi un avantage conféré à un actionnaire égal à l'excédent du montant payé par KJF pour l'équipement sur sa juste valeur marchande.
+[13] Le 30 janvier 2012, l'appelant a déposé un avis d'opposition à la nouvelle cotisation.
+[14] Le 25 mai 2012, l'appelant a introduit une demande à la Cour du Banc de la Reine du Nouveau‑Brunswick pour rectifier la CAV et la CPA afin d'y substituer KJF en tant qu'acheteur de l'équipement et des permis et en tant qu'emprunteur des fonds.
+[15] Avec le consentement du ministre, la Cour du Banc de la Reine a rendu une ordonnance partielle sur consentement selon laquelle, lors de la conclusion de la CAV, l'appelant détenait l'équipement et les permis en tant que simple fiduciaire pour KJF.
+[16] Par conséquent, les parties conviennent que le supposé transfert n'a pas eu lieu.
+[17] L'appelant a déposé un avis de révocation de la renonciation le 23 août 2012.
+[18] Le 23 mai 2014, le ministre a établi une nouvelle cotisation pour l'année d'imposition 2007 de l'appelant réduisant l'avantage conféré à un actionnaire, soit l'appelant, de 70 000 $ à 50 000 $.
+[19] Lorsqu'il a établi la nouvelle cotisation, le ministre a tenu pour acquis que la juste valeur marchande de l'équipement était de 150 000 $ au moment où il a été acquis par KJF et que l'excédent de la somme versée par KJF au vendeur lors de la conclusion de la CAV (200 000 $) sur la juste valeur marchande de l'équipement constituait une contribution de KJF à l'achat des permis par l'appelant. Par conséquent, le ministre a conclu que KJF avait conféré à l'appelant un avantage de 50 000 $.
+[20] Il n'est pas contesté que la nouvelle cotisation du 23 mai 2014 a été établie plus de six mois après la révocation de la renonciation et que, par conséquent, le ministre ne peut se fonder sur la renonciation afin d'établir la nouvelle cotisation.
+La thèse de l'appelant [21] L'appelant soutient que l'inclusion de l'avantage conféré à un actionnaire dans son revenu par la nouvelle cotisation du 23 mai 2014 est interdite conformément au paragraphe 152(5) de la Loi, qui dispose que le ministre ne peut établir une nouvelle cotisation à l'égard d'un contribuable après l'expiration de la période normale de nouvelle cotisation pour inclure dans le revenu du contribuable des sommes qui n'étaient pas incluses dans une cotisation ou une nouvelle cotisation établie pendant la période normale de nouvelle cotisation.
+[22] Le paragraphe 152(5) est rédigé ainsi :
+N'est pas à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition en vue de l'établissement, après la période normale de nouvelle cotisation qui lui est applicable pour l'année, d'une cotisation, d'une nouvelle cotisation ou d'une cotisation supplémentaire en vertu de la présente partie le montant qui n'a pas été inclus dans le calcul de son revenu en vue de l'établissement, avant la fin de cette période, d'une cotisation, d'une nouvelle cotisation ou d'une cotisation supplémentaire en vertu de cette partie.
+[23] L'appelant affirme que l'avantage conféré à un actionnaire de 50 000 $ ajouté à son revenu par la nouvelle cotisation du 23 mai 2014 était un montant qui n'avait pas été inclus dans son revenu aux termes de la cotisation initiale du 20 mai 2008 ou de la nouvelle cotisation du 5 janvier 2012. Plus précisément, l'appelant affirme que l'avantage de 50 000 $ conféré à un actionnaire ne faisait pas partie de l'avantage de 70 000 $ conféré à un actionnaire ajouté à son revenu aux termes de la nouvelle cotisation du 5 janvier 2012.
+[24] L'appelant soutient que l'avantage de 50 000 $ conféré à un actionnaire était fondé sur le présumé versement par KJF d'une partie du prix d'achat des permis, tandis que l'avantage de 70 000 $ conféré à un actionnaire inclus dans son revenu aux termes de la nouvelle cotisation du 5 janvier 2012 était fondé sur un supposé transfert de l'équipement par l'appelant à KJF. L'appelant soutient qu'en raison de l'ordonnance partielle sur consentement, il n'y a pas eu de transfert de l'équipement par l'appelant à KJF. Par conséquent, le montant inclus dans le revenu aux termes de la nouvelle cotisation du 23 mai 2014 est un montant différent du montant inclus dans le revenu selon la nouvelle cotisation du 5 janvier 2012, car ces montants découlaient de transactions présumées différentes entre des parties différentes.
+[25] L'appelant fait valoir que, bien que le paragraphe 165(3) de la Loi autorise le ministre à établir une nouvelle cotisation en dehors de la période normale de nouvelle cotisation s'il reçoit un avis d'opposition, toute nouvelle cotisation établie en vertu de cette disposition est assujettie à la restriction prévue au paragraphe 152(5).
+[26] L'appelant soutient qu'étant donné que la période normale de nouvelle cotisation pour son année d'imposition 2007 avait expiré avant le 23 mai 2014, le ministre n'avait pas le pouvoir d'établir une nouvelle cotisation en tenant compte d'une transaction différente de celle sur laquelle s'appuyait la nouvelle cotisation du 5 janvier 2012, car cela aurait mené à l'inclusion dans le revenu d'un montant qui n'avait pas été inclus dans une cotisation ou une nouvelle cotisation antérieure établie durant la période normale de nouvelle cotisation.
+[27] L'appelant soutient également que cette approche est compatible avec l'approche adoptée par les tribunaux pour l'application du paragraphe 152(9) de la Loi. Cette disposition autorise le ministre à avancer un nouvel argument à l'appui d'une cotisation après l'expiration de la période normale de nouvelle cotisation. Toutefois, les tribunaux ont conclu que le paragraphe 152(9) n'autorise pas le ministre à s'appuyer sur un nouvel argument qui se fonde sur des transactions non prises en compte dans la nouvelle cotisation du contribuable.
+La thèse de l'intimée [28] L'intimée fait valoir que le paragraphe 152(5) n'est pas applicable à une nouvelle cotisation établie en vertu du paragraphe 165(3) par suite de la réception d'un avis d'opposition.
+[29] L'intimée affirme subsidiairement que si le paragraphe 152(5) s'applique, il limite uniquement la somme pour laquelle le ministre peut établir une nouvelle cotisation après l'expiration du délai de prescription normal et que la nouvelle cotisation du 23 mai 2014 est compatible avec cette limite parce que le montant de 50 000 $ inclus dans le revenu de l'appelant fait partie du montant de 70 000 $ qui avait déjà été inclus dans son revenu aux termes de la nouvelle cotisation du 5 janvier 2012.
+[30] Subsidiairement, si la nouvelle cotisation du 23 mai 2014 est jugée invalide, l'intimée soutient que la nouvelle cotisation du 5 janvier 2012 serait valide et que l'appelant serait tenu de payer de l'impôt sur l'avantage conféré à un actionnaire de 70 000 $ qui a été inclus dans cette nouvelle cotisation.
+Analyse [31] Les questions à trancher consistent à savoir si le paragraphe 152(5) s'applique à une nouvelle cotisation établie en vertu du paragraphe 165(3) après qu'un avis d'opposition a été déposé et, le cas échéant, si la nouvelle cotisation du 23 mai 2014 est conforme au paragraphe 152(5).
+[32] Je suis d'accord avec l'appelant pour dire que les nouvelles cotisations établies en vertu du paragraphe 165(3) sont assujetties aux restrictions aux nouvelles cotisations prévues au paragraphe 152(5).
+[33] Le paragraphe 165(3) oblige le ministre à examiner un avis d'opposition et à annuler, à ratifier ou à modifier la cotisation ou la nouvelle cotisation. Le paragraphe 165(5) prévoit expressément que les restrictions prévues aux paragraphes 152(4) et (4.01) de la Loi ne s'appliquent pas aux nouvelles cotisations établies en vertu du paragraphe 165(3). Étant donné que le paragraphe 152(5) n'est pas visé par le paragraphe 165(5), il faut en déduire que ce paragraphe s'applique à une nouvelle cotisation établie en vertu du paragraphe 165(3). Les paragraphes 165(3) et (5) prévoient ce qui suit :
+165(3) Sur réception de l'avis d'opposition, le ministre, avec diligence, examine de nouveau la cotisation et l'annule, la ratifie ou la modifie ou établit une nouvelle cotisation. Dès lors, il avise le contribuable de sa décision par écrit.
+[...]
+165(5) Les restrictions prévues aux paragraphes 152(4) et (4.01) ne s'appliquent pas aux nouvelles cotisations établies en vertu du paragraphe (3).
+[34] Dans l'arrêt R. c. Anchor Pointe Energy Ltd., 2003 CAF 294, la Cour d'appel fédérale a conclu que la restriction prévue au paragraphe 152(5) s'applique aux nouvelles cotisations établies en vertu du paragraphe 165(3). Aux paragraphes 34 et 35 de cet arrêt, la Cour s'est prononcée de la sorte :
+34 L'avocate de la Couronne concède que le ministre ne peut augmenter l'impôt à payer une fois expirée la période normale de nouvelle cotisation. Je partage l'avis de l'avocate. Comme elle le souligne, le paragraphe 152(5) prévoit en effet ce qui suit :
+(5) N'est pas à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition en vue de l'établissement, après la période normale de nouvelle cotisation qui lui est applicable pour l'année, d'une cotisation, d'une nouvelle cotisation ou d'une cotisation supplémentaire en vertu de la présente partie le montant qui n'a pas été inclus dans le calcul de son revenu en vue de l'établissement, avant la fin de cette période, d'une cotisation, d'une nouvelle cotisation ou d'une cotisation supplémentaire en vertu de cette partie.
+(5) There shall not be included in computing the income of a taxpayer for a taxation year, for the purpose of an assessment, reassessment or additional assessment made under this Part after the taxpayer's normal reassessment period in respect of the year, any amount that was not included in computing the taxpayer's income for the purpose of an assessment, reassessment or additional assessment made under this Part before the end of the period.
+35 À mon avis, le paragraphe 165(5) autorise le ministre à établir une nouvelle cotisation après l'expiration de la période normale de nouvelle cotisation lorsqu'un avis d'opposition a été déposé, mais pas de manière à inclure dans le revenu du contribuable des sommes qui n'étaient pas incluses dans une cotisation ou une nouvelle cotisation établie pendant la période normale de la nouvelle cotisation.
+[35] Je suis également d'accord avec l'appelant pour dire que lorsqu'il établit une nouvelle cotisation conformément au paragraphe 165(3) après l'expiration de la période normale de nouvelle cotisation, le ministre ne peut pas modifier le fondement de la nouvelle cotisation établie à l'égard du contribuable. La Cour d'appel fédérale, dans l'arrêt Walsh c. La Reine, 2007 CAF 222, a conclu qu'après l'expiration de la période normale de nouvelle cotisation, le ministre ne peut pas s'appuyer sur un nouvel argument qui porte sur des transactions non visées par la nouvelle cotisation du contribuable. Malgré le fait que cette affaire portait sur l'application du paragraphe 152(9) de la Loi, je juge que le même principe s'applique aux nouvelles cotisations établies après l'expiration de la période normale de nouvelle cotisation visées par le paragraphe 165(3).
+[36] Le renvoi dans le paragraphe 152(5) au « montant » dans le passage « le montant qui n'a pas été inclus dans le calcul de son revenu en vue de l'établissement, avant la fin de cette période, d'une cotisation, d'une nouvelle cotisation ou d'une cotisation supplémentaire » doit être interprété comme signifiant non seulement les montants en dollars, mais également les montants qui ont trait aux transactions précises effectuées par le contribuable. Par conséquent, le ministre n'est pas autorisé, après l'expiration de la période normale de nouvelle cotisation, à inclure des montants découlant de transactions autres que celles qui sous‑tendent une cotisation ou une nouvelle cotisation établie pendant la période normale de nouvelle cotisation, même si le montant en dollars de la nouvelle cotisation demeurait inchangé.
+[37] Il faut alors déterminer si les transactions qui sous‑tendent la nouvelle cotisation du 23 mai 2014 sont les mêmes que celles sur lesquelles reposait la nouvelle cotisation du 5 janvier 2012. À mon avis, c'est le cas.
+[38] Les principales transactions dans la présente affaire étaient l'acquisition de l'équipement et des permis du vendeur et le paiement de 200 000 $ par KJF à ce même vendeur. Ces opérations sont communes aux deux nouvelles cotisations, soit celle du 5 janvier 2012 et celle du 23 mai 2014. Ce qui a changé entre ces nouvelles cotisations était l'appréciation qu'a faite le ministre du rôle de l'appelant et de KJF dans ces transactions, un changement qui découle de l'ordonnance de rectification que l'appelant a lui‑même obtenue.
+[39] À mon avis, le fondement des deux nouvelles cotisations du ministre est identique : KJF a trop payé l'équipement de pêche, et le montant versé en trop est un avantage conféré à un actionnaire reçu par l'appelant. Dans la première nouvelle cotisation, le ministre a déterminé que le paiement par KJF de 200 000 $ avait donné lieu à un paiement en trop et à un avantage conféré à un actionnaire de 70 000 $, calculés en supposant que l'équipement de pêche avait une valeur de 130 000 $. Dans la deuxième nouvelle cotisation, le ministre a accepté que la valeur de l'équipement de pêche soit portée à 150 000 $, ce qui entraînait un paiement en trop par KJF de 50 000 $ et un avantage conféré à un actionnaire versé à l'appelant d'un montant égal. Dans chaque cas, les transactions invoquées ont été conclues entre l'appelant, KJF et M. Lord.
+[40] Pour ces motifs, je conclus que le ministre avait le pouvoir d'établir la nouvelle cotisation du 23 mai 2014 à l'égard de l'année d'imposition 2007 de l'appelant.
+Signé à Vancouver (Colombie‑Britannique), ce 16e jour de décembre 2015.
+« B. Paris »
+Le juge Paris
+RÉFÉRENCE :
+2015 CCI 334
+N° DU DOSSIER DE LA COUR :
+2014‑2390(IT)G
+INTITULÉ :
+GLENN FOSTER ET SA MAJESTÉ LA REINE
+Requête écrite
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge B. Paris
+DATE DE L'ORDONNANCE :
+Le 16 décembre 2015
+Avocat de l'appelant :
+Me John Townsend
+Avocat de l'intimée :
+Me Stan McDonald
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Me John Townsend
+Cabinet :
+Cox & Palmer
+Pour l'intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,1020 @@
+---
+title: "Les Entreprises Mallet Ltée c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26566/index.do"
+last_modified: "2004-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 409"
+citation2: ""
+neutral_citation: "2004 TCC 409"
+decision_date: "2004-06-22"
+language: "en"
+item_id: "26566"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3574
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:18:55.138000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "368fe96b3e9247551bf8d0c6e63b4826523560cec73637766b13961aceae6e1a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Entreprises Mallet Ltée c. M.R.N.
+
+- Citation: 2004 TCC 409
+- Decision date: 2004-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3574, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Entreprises Mallet Ltée c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-22
+Neutral citation
+2004 TCC 409
+File numbers
+2002-4440(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2002-4440(EI)
+2002-4441(EI)
+2002-4443(EI)
+2002-4444(EI)
+BETWEEN:
+LES ENTREPRISES MALLET LTÉE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on common evidence with the appeals of
+Gilberte Chiasson (2002-4301(EI)),
+Joanne Mallet (2002-4303(EI)) and (2003-1167(EI)),
+Jacinthe Mallet (2002-4304(EI)) and (2003-1166(EI)),
+Diane Mercier (2002-4305(EI)) and (2003-1165(EI))
+May 17, 2004, at Bathurst, New Brunswick
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellants:
+Basile Chiasson
+Counsel for the Respondent:
+Claude Lamoureux
+JUDGMENT
+The appeals are dismissed and the decisions of the Minister of National Revenue are confirmed in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 22nd day of June 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 19th day of October 2004.
+Shulamit Day, Translator
+Docket: 2002-4301(EI)
+BETWEEN:
+GILBERTE CHIASSON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of
+Les Entreprises Mallet Ltée(2002-4440(EI)), (2002-4441(EI)),
+(2002-4443(EI)) and (2002-4444(EI)),
+Joanne Mallet (2002-4303(EI)) and (2003-1167(EI)),
+Jacinthe Mallet (2002-4304(EI)) and (2003-1166(EI)),
+Diane Mercier (2002-4305(EI)) and (2003-1165(EI))
+May 17, 2004, at Bathurst, New Brunswick
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellants:
+Basile Chiasson
+Counsel for the Respondent:
+Claude Lamoureux
+JUDGMENT
+The appeals are dismissed and the decisions of the Minister of National Revenue are confirmed in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 22nd day of June 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 19th day of October 2004.
+Shulamit Day, Translator
+Dockets: 2002-4303(EI)
+2003-1167(EI)
+BETWEEN:
+JOANNE MALLET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on common evidence with the appeals of
+Les Entreprises Mallet Ltée(2002-4440(EI)), (2002-4441(EI)),
+(2002-4443(EI)) and (2002-4444(EI)),
+Gilberte Chiasson (2002-4301(EI)),
+Jacinthe Mallet (2002-4304(EI)) and (2003-1166(EI)),
+Diane Mercier (2002-4305(EI)) and (2003-1165(EI))
+May 17, 2004, at Bathurst, New Brunswick
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellants:
+Basile Chiasson
+Counsel for the Respondent:
+Claude Lamoureux
+JUDGMENT
+The appeals are dismissed and the decisions of the Minister of National Revenue are confirmed in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 22nd day of June 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 19th day of October 2004.
+Shulamit Day, Translator
+Dockets: 2002-4304(EI)
+2003-1166(EI)
+BETWEEN:
+JACINTHE MALLET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on common evidence with the appeals of
+Les Entreprises Mallet Ltée(2002-4440(EI)), (2002-4441(EI)),
+(2002-4443(EI)) and (2002-4444(EI)),
+Gilberte Chiasson (2002-4301(EI)),
+Joanne Mallet (2002-4303(EI)) and (2003-1167(EI)),
+Diane Mercier (2002-4305(EI)) and (2003-1165(EI))
+May 17, 2004, at Bathurst, New Brunswick
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellants:
+Basile Chiasson
+Counsel for the Respondent:
+Claude Lamoureux
+JUDGMENT
+The appeals are dismissed and the decisions of the Minister of National Revenue are confirmed in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 22nd day of June 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 19th day of October 2004.
+Shulamit Day, Translator
+Dockets: 2002-4305(EI)
+2003-1165(EI)
+BETWEEN:
+DIANE MERCIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on common evidence with the appeals of
+Les Entreprises Mallet Ltée(2002-4440(EI)), (2002-4441(EI)),
+(2002-4443(EI)) and (2002-4444(EI)),
+Gilberte Chiasson (2002-4301(EI)),
+Joanne Mallet (2002-4303(EI)) and (2003-1167(EI)),
+Jacinthe Mallet (2002-4304(EI)) and (2003-1166(EI))
+May 17, 2004, at Bathurst, New Brunswick
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellants:
+Basile Chiasson
+Counsel for the Respondent:
+Claude Lamoureux
+JUDGMENT
+The appeals are dismissed and the decisions of the Minister of National Revenue are confirmed in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 22nd day of June 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 19th day of October 2004.
+Shulamit Day, Translator
+Citation: 2004TCC409
+Date: 20040622
+Dockets: 2002-4440(EI)
+2002-4441(EI)
+2002-4443(EI)
+2002-4444(EI)
+BETWEEN:
+LES ENTREPRISES MALLET LTÉE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+Dockets: 2002-4301(EI)
+2002-4303(EI)
+2002-4304(EI)
+2002-4305(EI)
+2003-1165(EI)
+2003-1166(EI)
+2003-1167(EI)
+BETWEEN:
+GILBERTE CHIASSON,
+JOANNE MALLET,
+JACINTHE MALLET,
+DIANE MERCIER,
+DIANE MERCIER,
+JACINTHE MALLET,
+JOANNE MALLET,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Justice Angers
+[1] These are eleven appeals heard on common evidence. During the periods addressed by the appeal, the four individuals appealing worked for Entreprises Mallet Ltée (hereinafter the "Business"). The Business also appealed the decision of the Minister with respect to the employment of the four Appellants for the same periods, with the exception of those files which begin with 2003. The Minister, in all the files, notified the Appellants that the four jobs with the Business did not qualify as insurable employment since they were not governed by a genuine contact of service. Alternatively, if these jobs were genuine contracts of service, they are excluded due to the Business of a real or factual non-arm's length relationship between the Appellants and the Business, under paragraphs 5(1)(a), 5(2)(i) and 5(3)(b) of the Employment Insurance Act (EIA) and section 251 of the Income Tax Act (the "Act"). Before the hearing, the first reason was added to all the Replies to the Notice of Appeal for all the files from which it had been omitted.
+[2] The periods at issue are: from November 8, 1998, to September 18, 1999, from November 14, 1999, to August 26, 2000, from October 22, 2000, to September 22, 2001, in the file for Appellant Gilberte Chiasson; from January 28 to July 14, 2001, and from January 27, 2002, to June 15, 2002, in the file for Joanne Mallet; from June 4 to October 28, 2000, from February 4, 2001, to January 26, 2002, and from October 21, 2001, to June 22, 2002, in Jacinthe Mallet's file; and from September 10, 2000, to January 20, 2001, from April 22 to September 29, 2001, and from October 21, 2001, to June 29, 2002, for Diane Mercier's file.
+[3] The Business is a corporation duly incorporated on February 10, 1982. All shares are held by Jeannot Mallet. However, his spouse, Raymonde, thinks she holds one share. The Business operates as Gino Gas Bar. The Business sells gas and operates a lunch counter, a bank of vending machines and a convenience store that sells mainly hunting and fishing products. The normal hours of operation are from 6:30 a.m. to 9:00 p.m. During some of the periods at issue, it closed at 11:00 p.m. Jeannot Mallet and his wife Raymonde managed the Business. Appellants Jacinthe and Joanne Mallet are their children.
+[4] The Business is open all year, seven days a week. According to the evidence, there is a period of greater activity that begins in the spring and lasts until the autumn. This period coincides with the opening of the fish plants. The Business needs pump attendants since the gas pumps are not self-serve. The convenience store requires a cashier and a cook to prepare meals for the lunch counter, which is open for breakfast and lunch. The lunch counter closes at 1:00 p.m. The pump attendants have their own cash register and are responsible for selling gas and taking care of the proper readings at the end of each work shift. Sometimes the pump attendants are asked to watch the convenience store and the bar, and to work in the gifts section when customer traffic so requires. Therefore, a minimum of two employees is required at all times, with a cook when the lunch counter is open. More are required during busy periods.
+[5] To ensure that there are always employees available, the Business uses several employees whose hours of employment vary. Thus, during the summer months, there are students participating in summer employment programs and other employees who sometimes work fewer hours than the four Appellants. The number of employees in a year can vary from 12 to 14, including the owners. Raymonde Mallet sets the schedules and assigns staff. However, there is no pre-set work schedule, and the employees are called without notice to work for the Business. The Business does not keep track of employee work hours. Employees keep track of their own hours. They submit information to Ms. Raymonde Mallet; paycheques are prepared based on that information. In fact, the payroll only indicates the hours worked per week and the Business does not retain the document provided by the employees.
+[6] Gilberte Chiasson worked for the Business for close to 12 years. She has not worked there for two years. During the periods at issue, she was hired as a pump attendant. She worked every second week. During her work week, she worked approximately 10 hours per day for seven continuous days. She came to work at 6:30 a.m. and worked until 3:00 p.m., or afternoons from 3:00 p.m. until closing. Thus, she accumulated 60 to 70 hours per week. Ms. Chiasson worked when Raymonde Mallet called her. She stated that she had no input and that the decisions were made from day to day. She was paid minimum wage and received her paycheque the Monday following her work week. According to Ms. Chiasson, she kept track of her work hours and notified Raymonde Mallet. After notifying Ms. Mallet, she threw out her notes. She said that Raymonde Mallet also counted her work hours. Appellant Jacinthe Mallet was responsible for the same duties as Gilberte Chiasson.
+[7] Ms. Chiasson admitted that she was present at the business establishment during periods in which she did not work. She said she was often at the convenience store working. She shopped and made bank deposits for the Business at the request of Raymonde Mallet, without being paid. She acknowledged that she did a great deal, even during her vacation. She sometimes signed documents confirming deliveries from suppliers during periods in which she was not working. Ms. Chiasson did not think that the services she was rendering constituted work, which is why she says she told the investigator that she did not work outside of her work shifts. She also performed such services during the periods in which she was receiving employment insurance benefits.
+[8] Ms. Chiasson received benefits for 36 weeks in 1999, 2000 and 2001. After each period of unemployment, she was re-hired. The reason for her layoff was lack of work. The Records of Employment submitted indicate the last day paid was August 26, 2000, and September 22, 2001. During the periods at issue, Ms. Chiasson was on the Business's payroll for the weeks ending on the following dates:
+Date
+1999
+Number of Hours
+Hourly Rate
+$
+Pay
+$
+February 27
+60
+5.50
+330.00
+March 27
+65
+5.50
+357.50
+April 17
+70
+5.50
+385.00
+May 8
+70
+5.50
+385.00
+May 29
+70
+5.50
+385.00
+June 12
+70
+5.50
+385.00
+June 26
+70
+5.50
+385.00
+July 24
+70
+5.50
+385.00
+August 14
+79
+5.50
+434.50
+August 28
+70
+5.50
+385.00
+September 18
+73
+5.50
+401.50
+November 20
+60
+5.75
+345.00
+December 4
+60
+5.75
+345.00
+December 25
+60
+5.75
+345.00
+2000
+January 8
+75
+5.50
+412.50
+February 19
+73
+5.75
+419.75
+March 11
+60
+5.75
+345.00
+March 25
+60
+5.75
+345.00
+April 15
+60
+5.75
+345.00
+April 29
+64
+5.75
+368.00
+May 27
+64
+5.75
+368.00
+June 17
+63
+5.75
+362.50
+July 1
+63
+5.75
+362.50
+August 5
+62
+5.75
+356.50
+August 19
+62
+5.75
+356.50
+August 26
+63
+5.75
+362.50
+October 28
+64
+5.75
+368.00
+November 11
+70
+5.75
+402.50
+December 2
+62
+5.75
+356.50
+Date
+2001
+Number of Hours
+Hourly Rate
+$
+Pay
+$
+April 7
+70
+5.75
+402.50
+May 5
+70
+5.75
+402.50
+May 19
+70
+5.75
+402.50
+June 2
+70
+5.75
+402.50
+June 16
+70
+5.75
+402.50
+June 30
+70
+5.75
+402.50
+July 21
+70
+5.90
+413.00
+August 11
+70
+5.90
+413.00
+August 25
+70
+5.90
+413.00
+September 8
+70
+5.90
+413.00
+September 22
+70
+5.90
+413.00
+October 27
+12
+5.90
+70.80
+[9] Questioned about her layoff, Ms. Chiasson explained that winter was a difficult time for a woman to operate gas pumps. However, the record above indicates that she worked in February and March, 1999, and in January, February and March 2000. It also indicates that she was allegedly laid off on August 26, 2000, and September 22, 2001. Ms. Chiasson was always hired after exhausting her employment insurance benefits.
+[10] Appellant Jacinthe Mallet has worked for the Business since 1979. She no longer works for them because she had problems collecting her employment insurance benefits. She had the same responsibilities as Appellant Gilberte Chiasson. This scenario is almost the same as Gilberte Chiasson's, in other words, her mother, Raymonde Mallet, called her to work as needed. She worked every second week. During her seven-day work week, she alternated with another employee, so that she did not work more than ten hours per day. Thus she worked approximately 70 hours per week. She was paid minimum wage, the Monday following her work week. She counted her work hours and submitted her record of hours on a piece of paper at the end of the week. The piece of paper was not kept. She did not know whether her mother counted her work hours. As with Appellant Gilberte Chiasson, she spent time at the convenience store when she was not working. She shopped and made deposits for the Business at the bank or the Caisse populaire and went to the post office. She stated that she was often at the convenience store.
+[11] During the periods at issue, Jacinthe Mallet was on the Business's payroll record for the weeks ending on the following dates:
+Date
+2000
+June 11
+June 24
+July 8
+August 5
+August 19
+September 2
+September 9
+September 16
+September 23
+September 30
+October 7
+October 14
+October 21
+October 28
+2001
+February 17
+March 17
+April 14
+Number of Hours
+73
+74
+73
+73
+70
+70
+70
+70
+70
+70
+70
+73
+70
+70
+70
+70
+70
+Hourly Rate
+$
+5.75
+5.75
+5.75
+5.75
+5.75
+5.75
+5.75
+5.75
+5.75
+5.75
+5.75
+5.75
+5.75
+5.75
+5.75
+5.75
+5.75
+Pay
+$
+419.75
+725.50
+419.75
+419.75
+402.50
+402.50
+402.50
+402.50
+402.50
+402.50
+402.50
+419.75
+402.50
+402.50
+402.50
+402.50
+402.50
+Date
+2002
+February 2
+March 9
+March 16
+March 23
+April 6
+May 4
+May 11
+May 18
+May 25
+June 1
+June 8
+June 15
+Total
+Number of Hours
+8
+16
+16
+16
+16
+10
+10
+25
+25
+25
+22
+5
+194
+Hourly Rate
+$
+6.25
+5.90
+5.90
+5.90
+5.90
+5.90
+5.90
+6.00
+6.00
+6.00
+6.00
+6.00
+Pay
+$
+50.00
+94.40
+94.40
+94.40
+94.40
+59.00
+59.00
+150.00
+150.00
+150.00
+132.00
+30.00
+1,157.60
+[12] Jacinthe Mallet also worked for Fruits de mer Oceanis during the period at issue, from April 20 to June 29, 2002. According to the Records of Employment, the last day worked for the periods at issue was June 4, 2000, and the layoff occurred on October 28, 2000, due to lack of work. She returned to work on February 4, 2002, and was laid off on January 26, 2002. During this last period, on May 12, 2001, she gave birth to a child. She did not work from May 6 to October 27, 2001, but she acknowledged that she worked as a volunteer at the Business's convenience store.
+[13] Appellant Diane Mercier is a cashier at the Business's convenience store. She was responsible for everything except operating the gas pumps. Her work schedule varied from week to week, and she shared her duties with Joanne Mallet. Raymonde Mallet decided when the Appellant was required to work. The Appellant noted her hours of work and submitted this information to Raymonde before being paid. She did not keep a copy of this information. She explained that her employment did not last for the whole year. The reason indicated for her layoff was lack of work, but she admitted that someone else took her job while she received employment insurance benefits. She was replaced by Joanne Mallet or Jeannot and Raymonde Mallet.
+[14] When she was not working or she was receiving employment insurance benefits, she was often at the convenience store. She shopped, went to the post office and made deposits for the Business before or after her work shift and when she was unemployed. She used her car, and her expenses were not covered. The first table indicates September 10, 2000, as the first day of work and January 20, 2001, as the last. She returned to work on April 22 and was laid off on September 29, 2001. During the period at issue, the Appellant was on the Business's payroll record for the weeks ending on the following dates:
+Date
+2000
+Number of Hours
+Rate of Pay
+$
+Pay
+$
+January 8
+60
+5.50
+330.00
+January 22
+60
+5.50
+330.00
+February 5
+60
+5.50
+330.00
+September 16
+60
+5.50
+330.00
+October 7
+60
+5.50
+330.00
+October 14
+60
+5.50
+330.00
+October 21
+60
+5.50
+330.50
+October 28
+60
+5.50
+330.50
+November 4
+60
+5.50
+330.50
+November 11
+60
+5.50
+330.50
+November 18
+60
+5.50
+330.50
+November 25
+60
+5.50
+330.00
+December 2
+60
+5.50
+330.00
+December 9
+60
+5.50
+330.00
+December 16
+60
+5.50
+330.00
+December 23
+60
+5.50
+330.00
+2001
+January 20
+60
+5.50
+330.00
+April 28
+60
+5.50
+330.00
+May 12
+60
+5.50
+330.00
+May 19
+60
+5.50
+330.00
+June 9
+60
+5.50
+330.00
+July 21
+60
+5.90
+354.00
+July 28
+60
+5.90
+354.00
+August 4
+60
+5.90
+354.00
+August 12
+60
+5.90
+354.00
+August 18
+60
+5.90
+354.00
+August 25
+60
+5.90
+354.80
+September 1
+60
+5.90
+354.80
+September 8
+60
+5.90
+354.80
+September 15
+60
+5.90
+354.80
+September 22
+60
+5.90
+354.80
+September 29
+October 26
+60
+6
+5.90
+5.90
+354.80
+59.00
+Date
+2001
+Number of Hours
+Hourly Rate
+$
+Pay
+$
+October 26
+10
+5.90
+59.00
+November 3
+12
+5.90
+70.80
+November 10
+9
+5.90
+53.10
+November 17
+12
+5.90
+70.80
+November 24
+9
+5.90
+53.10
+December 1
+10
+5.90
+59.00
+December 8
+12
+5.90
+70.80
+December 15
+12
+5.90
+70.80
+December 22
+14
+5.90
+82.60
+December 29
+14
+5.90
+82.60
+2002
+January 5
+12
+5.90
+70.80
+January 12
+12
+5.90
+70.80
+January 26
+11
+5.90
+64.90
+February 2
+10
+5.90
+59.00
+February 16
+10
+5.90
+59.00
+February 23
+12
+5.90
+70.80
+March 2
+10
+5.90
+59.00
+March 9
+10
+5.90
+59.00
+March 23
+10
+5.90
+59.00
+March 30
+10
+5.90
+59.00
+April 6
+10
+5.90
+59,00
+April 20
+40
+7.00
+280.00
+April 27
+40
+7.00
+280.00
+May 4
+40
+7.00
+280.00
+May 11
+40
+7.00
+280.00
+May 18
+May 25
+40
+40
+7.00
+7.00
+280.00
+280.00
+June 1
+40
+7.00
+280.00
+June 8
+40
+7.00
+280.00
+June 15
+40
+7.00
+280.00
+June 22
+June 29
+Total
+40
+40
+671
+7.00
+7.00
+280.00
+280.00
+4,442.90
+[15] Appellant Joanne Mallet has not worked for the Business for two years. During the periods at issue, she performed the same duties as Appellant Diane Mercier. Her hours of work were set by her mother. The Appellant had to count her hours and submit the total to her mother. Her vacation weeks were also determined by her mother. She could not explain why her hours varied between 25, 40, 50 and 62 hours per week. She was paid $6.00 per hour and acknowledged that she performed services for the Business before or after her working hours, specifically making deposits at the bank and at the Caisse populaire, going to the post office and shopping. She was often at the convenience store.
+[16] Questioned about her availability when her mother called her to work, given that she had two children, the Appellant explained that she had no problem finding babysitters. The Appellant's Records of Employment were not submitted. However, she admitted that she had been laid off due to a lack of work, although after that her position was taken by her mother or Appellant Diane Mercier. She acknowledged that she had received all the employment insurance benefits to which she was entitled and returned to work when they ended. She was on the Business's payroll record for the weeks ending on the following dates:
+Date
+2001
+Number of Hours
+Hourly Rate
+$
+Pay
+$
+February 3
+62
+5.50
+330.00
+February 10
+62
+5.50
+330.00
+March 31
+62
+6.00
+360.00
+April 6
+62
+6.00
+360.00
+April 28
+62
+6.00
+360.00
+May 4
+62
+6.00
+360.00
+May 26
+62
+6.00
+360.00
+June 2
+62
+6.00
+360.00
+June 9
+62
+6.00
+360.00
+June 15
+62
+6.00
+360.00
+June 20
+62
+6.00
+360.00
+June 30
+62
+6.00
+360.00
+July 7
+62
+6.00
+360.00
+July 14
+62
+6.00
+360.00
+Date
+2001
+Number of Hours
+Hourly Rate
+$
+Pay
+$
+October 24
+9
+6.00
+54.00
+2002
+February 2
+50
+7.00
+350.00
+March 9
+50
+7.00
+350.00
+March 16
+50
+7.00
+350.00
+March 30
+50
+7.00
+350.00
+April 6
+50
+7.00
+350.00
+April 13
+50
+7.00
+350.00
+April 20
+10
+5.90
+59.00
+May 4
+10
+5.90
+59.00
+May 11
+25
+5.90
+147.50
+June 15
+40
+7.00
+280.00
+June 22
+40
+7.00
+280.00
+Total
+434
+2,779.50
+[17] Raymonde Mallet manages the Business. She makes practically every decision. The work schedules are set from day to day according to the needs of the Business. She acknowledged that to operate properly, the Business needed two pump attendants and two cashiers to take turns and a cook to work the lunch counter. Therefore, four employees were required per week, plus a cook. The four employees worked more than 40-hour weeks because they worked seven days a week. She and her spouse replaced the Appellants on occasion. The Business hired other employees, such as students, during the periods at issue to operate the pumps. These workers accumulated fewer hours than the Appellants.
+[18] She admitted that she did not count her employees' work hours and relied on them to prepare the pay. She has always worked this way and has never kept the documents on which the hours were written. The payroll record for 2000, 2001 and 2002 indicated the number of hours worked by each employee per week, not daily. None of the employees had pre-set schedules and Raymonde Mallet called them at the last minute.
+[19] Payroll records for the Business for 1998 and 1999 were not submitted as evidence. These two documents and several others, such as the general ledger for 1998, 1999 and 2000, as well as receipts for meals served at the lunch counter and the gasoline tank readings were required by the Human Resources Canada investigator at the audit stage. These documents were not submitted to the investigator because, according to Ms. Mallet, they had been destroyed at the time because they were planning to close the business. At the hearing she stated that the documents had been found in her garage and that, at home, she had the two payroll records at issue, the gasoline tank readings and the general ledger for the three years at issue.
+[20] Ms. Mallet acknowledged that she had destroyed the bottom portion of a series of deposit slips indicating the name of the person who made the deposit. Further, a significant number of the lower portions cut off in this way were placed in evidence: they indicated Gilberte Chiasson as the employee who made the deposits. Ms. Mallet also pleaded guilty to a charge of having cut the said deposit slips.
+[21] Ms. Mallet also admitted that she told the investigator responsible for the Business file, in an interview dated November 20, 2001, that she no longer had any documents in her possession and that, if she still had any, they were going into the shredder. Finally, she asserted that she had sent the investigator a box of bills.
+[22] The payroll records submitted as evidence still did not indicate the periods during which Ms. Mallet and her spouse Jeannot Mallet worked or replaced their employees. In fact, there is a period of eight weeks during which no one is entered in the payroll record. During these periods, she and her spouse were the only workers. Finally, she stated that the layoffs were due to a lack of work even though the person laid off had been replaced.
+[23] Monique Boulay was the investigator on the Business's file. This file was given to her after it was noticed that Appellant Gilberte Chiasson had worked a great number of hours one week and none at all the following week. Ms. Boulay's investigation proved quite difficult due to the lack of cooperation from Ms. Mallet in providing the documentation required and in holding a meeting. Ms. Mallet apparently never had the time to meet with Ms. Boulay. After several attempts, she obtained the payroll register for 2000 and 2001. Her review of the records showed that the four Appellants worked one week with a very high number of hours and none at all the following weeks. There were weeks during which the Business had no employees working and, when one employee was laid off, another was hired as a replacement.
+[24] She obtained very few answers to her questions. When she received the deposit slips, the lower portion was missing. She had to make a formal request. Although she did not receive any answers to her questions, she nonetheless obtained the lower portion of the deposit slips which Ms. Mallet had cut off (Exhibit I-9). The charge against Ms. Mallet is non-compliance with the formal request, and Ms. Mallet pleaded guilty.
+[25] During her audit, Ms. Boulay noted that the working hours of the four Appellants were subject to change, and she therefore insisted on obtaining the payroll records. Ms. Mallet allegedly explained to her that the documents from 1999-2000 and 2001 had been destroyed because they were thinking about closing the business. After Ms. Boulay presented her formal request, she was told that she could not have the documents and that they were going into the shredder. In the end, she only obtained the payroll records for 2000, 2001 and 2002.
+[26] Charles Albert is an Investigation Officer. He reviewed the payroll records and prepared a comparative table for 2000 and 2001. During his review, he noted that Jeannot Mallet's name did not appear anywhere in the records, and Raymonde Mallet was only listed occasionally. There are weeks in which no name is entered in the records. Mr. Albert also noted that starting October 21, 2001, there are weeks in which fewer number of hours are worked. He also noted that in some weeks, there are more hours worked per week in 2002 than were worked during the same periods in 2000 and 2001. As an example, for the week ending December 31, 2000 and 2001, no hours were entered, although for the corresponding week in 2002, 117 hours were recorded. This is also the case for several other weeks. There were therefore fewer employees and fewer hours recorded in 2001 than in 2002. In fact, he noted that there were four more employees per week in 2002 than in 2001, despite the fact that the owners worked. The only explanation from the Business is that in 2001 the owners performed a greater portion of the work and they received help from Jeannot Mallet's sisters.
+[27] It is the responsibility of the Appellants to demonstrate, on a balance of probabilities, that the decisions of the Minister are not founded in fact and in law. The Minister's decisions are based mainly on the fact that the employment of the four Appellants was not governed by genuine contracts of service within the meaning of the EIA. Whereas the Court has to decide whether these are genuine contracts of service, the Minister asserts that the employment is not insurable because the Appellants Jacinthe and Joanne Mallet and the Business have a real non-arm's length relationship with one another, and there is a factual non-arm's length relationship between the Business and Appellants Gilberte Chiasson and Diane Meunier and that, as a result, this is excluded employment.
+[28] Do the facts and the circumstances of the case support the Minister's first assumption that the Appellants' employment was not governed by genuine contracts of service? A contract of services is invalidated when the terms and conditions of employment are designed to exploit the EIA. It is thus essential that the employment to be insured is real employment, and not the result of an artificial or false arrangement for the purposes of helping workers obtain employment insurance benefits. This Court has dealt with this issue in recent decisions.
+[29] In Thibeault v. Canada, [1998] T.C.J. No. 690 (QL), Justice Tardif stated:
+Genuine employment is employment remunerated according to market conditions, which contributes in a real and positive way to the advancement and development of the business paying the salary in consideration of work performed. These are basically economic factors that leave little, if any, room for generosity or compassion.
+. . .
+Of course, it is neither illegal nor reprehensible to organize one's affairs so as to profit from the social program that is the unemployment insurance scheme, subject to the express condition that nothing be misrepresented, disguised or contrived and that the payment of benefits occur as a result of events over which the beneficiary has no control. Where the size of the salary bears no relation to the economic value of the services rendered, where the beginning and end of word periods coincide with the end and the beginning of the payment period and where the length of the work period also coincides with the number of weeks required to requalify, very serious doubts arise as to the legitimacy of the employment contract. Where the coincidences are numerous and improbable, there is a risk of giving rise to an inference that the parties agreed to an artificial arrangement to enable them to profit from the benefits.
+[30] The Federal Court of Appeal confirmed Justice Tardif's decision in Laverdière v. Canada, [1999] T.C.J. No. 124 (QL). Justice Tardif added the following:
+Of course, a contract of employment May be lawful and legitimate even if it sets out all kinds of other conditions, including remuneration much higher or lower than the value of the work performed; some contracts May even involve work performed gratuitously. Work May be performed on a volunteer basis. All kinds of assumptions and scenarios can be imagined.
+Any contract of employment that includes special terms can generally be set up only against the contracting parties and is not binding on third parties, including the respondent.
+This is the case with any agreement or arrangement whose purpose and object is to spread out or accumulate the remuneration owed or that will be owed so as to take advantage of the Act's provisions. There can be no contract of service where there is any planning or agreement that disguises or distorts the facts concerning remuneration in order to derive the greatest possible benefit from the Act.
+[31] In Duplin v. Canada, [2001] T.C.J. No. 136 (QL), he added:
+The parties May agree on whatever they wish between themselves, but the respondent has no obligation to respect or accept what they choose. The insurability of work depends on certain fundamental conditions being met. In some cases, even where the parties have agreed on or imposed certain conditions or features, these are in no way enforceable against third parties, including the respondent.
+Only the real facts are to be taken into account in determining whether or not a genuine contract of service existed. Often, the facts have been falsified, disguised or even hidden, which is why the Court must rely on the whole of the available tendered evidence. The only relevant facts and information are those relating to the performance of work, to the remuneration paid and to the existence or non-existence of a relationship of subordination.
+In other words, the intention of the parties to a work agreement is in no way conclusive for the purpose of characterizing that agreement as a contract of service. It is basically one factor among many.
+The fundamental components of a contract of service are essentially economic in nature. The records kept, such as payroll journals and records concerning the mode of remuneration, must be genuine and must also correspond to reality. For example, the payroll journal must record hours worked corresponding with the wages paid. Where a payroll journal records hours that were not worked or fails to record hours that were worked during the period shown, that is a serious indication of falsification. Such is the case where pay does not correspond with the hours worked. Both situations create a very strong presumption that the parties have agreed on a false scenario in order to derive various benefits therefrom, including benefits with respect to taxes and employment insurance.
+It is possible for an arrangement to be more profitable for one party than the other, but this is a secondary effect that is not relevant in characterizing a contract of service, since as soon as a contract of employment is shaped by false or inaccurate information, it no longer meets the essential conditions for being characterized as a contract of service. Thus, when the evidence shows that the records containing the information essential to the existence of a genuine contract of employment are false and incomplete, it becomes essential to prove conclusively that the real facts support the existence of a genuine contract of service.
+[32] Justice Charron, in Martineau c. Canada, [2000] A.C.I. no 270, stated:
+[translation]
+Any agreement or arrangement setting out terms for the payment of remuneration based not on the time or the period during which the paid work is performed but on other objectives, such as taking advantage of the Act's provisions, is not in the nature of a contract of service.
+Moreover, there is no room for other considerations such as generosity or accommodation. It has often been said that unemployment insurance is a social initiative to assist those who truly lose their jobs and not a program of grants to help businesses or to benefit recipients who distort or modify the structure and terms of payment of the remuneration they are owed for the work they perform.
+Any agreement or arrangement involving the accumulation or spreading out of hours has the effect of invalidating the contract of service, especially since it creates a contractual relationship that is hardly or not at all conducive to the existence of a relationship of subordination, which is an essential component of a contract of service.
+[33] In this case, it is obvious that this is a business operated year round, seven days a week, with business hours from 6:30 a.m. to 9:00 or 11:00 p.m. These are weeks of between 101.5 and 115.5 hours. The Business cannot operate unless there are at least two employees present at all times at the convenience store and service station. A cook is also required for the lunch counter. Given the business hours, the Business needs at least four employees, plus the cook, for a full day of work. This is the case for all seven days of the week. In addition to the Appellants, the names of other employees appeared on the payroll records that were submitted. There is a cook and especially pump attendants, including students, and who worked for shorter periods than did the Appellants. It can also be noted that Raymonde Mallet's name, is entered on several occasions, as is her spouse Jeannot Mallet, but the number of hours they worked at the convenience store is not indicated. It is therefore very difficult to understand how this business operated and in particular how it used its labour force.
+[34] We have here a business that does not keep track of its employees' work hours and which relies on its employees to prepare the paycheques. Appellant Gilberte Chiasson is the only one who believes that Raymonde Mallet recorded her hours of work. The payroll records indicated the number of hours worked weekly, not daily. They do not indicate the records worked by Jeannot and Raymonde Mallet, so it is impossible to find out the number of hours they spent at their business replacing staff. If their payroll records are to be believed, there are long periods in which no one seemed to be working. The documents noting the hours worked were thrown out. There was no set work schedule. The Appellants accumulated almost twice the usual number of hours than usual during a normal work week. Some of them only worked every second week. The Appellants were at the convenience store during their day or their week off, during their vacation and even during periods when they were receiving employment insurance benefits. During these periods, they performed all the shopping, bank or Caisse populaire deposits, went to the post office and signed documents for the receipt of orders for the Business. They were laid off when they became eligible for employment insurance benefits under the pretext that there was a lack of work when in fact they were replaced. Once their employment insurance benefits were exhausted, the Appellants returned to work. Some of the layoffs took place during the busy periods. According to the records, Appellant Gilberte Chiasson worked during the winter months even though, in her opinion, it was too cold for a woman to operate the pumps.
+[35] It was alleged that the Business did not give employees any notice with respect to their work shifts. The Appellants were called at the last minute, and this allegedly did not cause them any problems, not even with respect to the child care required for the children of one of the Appellants. Their availability seems remarkable. The managers of the Business first asserted that the payroll records and all other relevant documents for 1998 and 1999 no longer existed or were destroyed, or would soon be. Then, suddenly, they state they found them in the garage, but they were not produced during the hearing, although these documents address the periods at issue.
+[36] Neither can I ignore the lack of cooperation from the managers of the Business during the investigation. Their refusal to cooperate with the investigator and to produce the relevant documents, paired with the fact that they hid the names of the depositors on the deposit slips, can only raise serious doubts about the legality of the actions of the Business with respect to the employment insurance system, leading me to believe that the Business was indirectly deriving benefit from the system.
+[37] The Appellants' testimony and explanations in this case have not succeeded in convincing me that their way of doing things was required for the proper operation of the Business.
+[38] Rather I am left with the clear impression that the Business and the Appellants were deriving benefit from the employment insurance system in order to subsidize the Business. The Appellants collected as many benefits as possible and they remained available to the Business throughout the year. This is very far from the employment insurance regime's raison d'être. The version of the facts given by the Appellants and the representatives of the Business is at the very least improbable, and I give them no credibility.
+[39] This is a situation in which people desired to derive benefit from the system. The Appellants did not discharge their onus in this case.
+[40] For these reasons, I conclude that the employment in all the periods in this case was not governed by a genuine contract of services and that there were a multitude of arrangements reached by the Appellants in order to derive benefit from the employment insurance system. Given this conclusion, I do not see the need to deal with the second point as issue. The appeals are therefore all dismissed.
+Signed at Edmundston, New Brunswick, this 22nd day of June 2004.
+"François Angers"
+Justice Angers
+Translation certified true
+on this 19th day of October 2004.
+Shulamit Day, Translator

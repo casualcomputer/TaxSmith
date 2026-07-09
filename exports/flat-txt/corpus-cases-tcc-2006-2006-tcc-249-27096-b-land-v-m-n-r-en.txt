@@ -1,0 +1,361 @@
+Title: Béland v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27096/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-249-27096-b-land-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-06-01
+
+# Béland v. M.N.R.
+
+- Citation: 2006 TCC 249
+- Decision date: 2006-06-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 966, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Béland v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-01
+Neutral citation
+2006 TCC 249
+File numbers
+2003-4599(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-4599(EI)
+BETWEEN:
+GAÉTAN BÉLAND,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+René Béland (2003-4597(EI)), Joël Béland (2003-4600(EI))
+and Denise Pelletier (2003-4598(EI))
+on January 31, 2006, at Rivière-du-Loup, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Frank Lemieux
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1st day of June 2006.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of March 2007.
+Susan Deichert, Reviser
+Docket: 2003-4597(EI)
+BETWEEN:
+RENÉ BÉLAND,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Gaétan Béland (2003-4599(EI)), Joël Béland (2003-4600(EI))
+and Denise Pelletier (2003-4598(EI))
+on January 31, 2006, at Rivière-du-Loup, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Frank Lemieux
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister of National Revenue is confirmed, except with respect to the period from June 27, 1994, to June 29, 1996, which precedes the proclamation of the Employment Insurance Act, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1st day of June 2006.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of March 2007.
+Susan Deichert, Reviser
+Docket: 2003-4600(EI)
+BETWEEN:
+JOËL BÉLAND,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Gaétan Béland (2003-4599(EI)), René Béland (2003-4597(EI)),
+and Denise Pelletier (2003-4598(EI))
+on January 31, 2006, at Rivière-du-Loup, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Frank Lemieux
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1st day of June 2006.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of March 2007.
+Susan Deichert, Reviser
+Docket: 2003-4598(EI)
+BETWEEN:
+DENISE PELLETIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+______________________________________________________________
+Appeal heard on common evidence with the appeals of
+Gaétan Béland (2003‑4599(EI)), René Béland (2003-4597(EI))
+and Joël Béland (2003-4600(EI))
+on January 31, 2006, at Rivière-du-Loup, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Frank Lemieux
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1st day of June 2006.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of March 2007.
+Susan Deichert, Reviser
+Citation: 2006TCC249
+Date: 20060601
+Dockets: 2003-4599(EI)
+2003-4597(EI)
+2003-4600(EI)
+2003-4598(EI)
+BETWEEN:
+GAÉTAN BÉLAND,
+RENÉ BÉLAND,
+JOËL BÉLAND,
+DENISE PELLETIER,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] These are four appeals, heard on common evidence, from a decision rendered by the Minister of National Revenue (the "Minister") on September 26, 2003, that the Appellants were not employed in insurable employment with the payor Béland & Béland Transport inc. (the "payor"), within the meaning of the Employment Insurance Act (the "Act") and the Unemployment Insurance Act, during certain periods specified in the paragraphs below.
+[2] The periods in issue in the matter of the Appellant Gaétan Béland are from March 11 to October 5, 1996, from October 13, 1996 to August 2, 1997, from May 3 to August 1, 1998, and from March 22 to October 29, 1999. The Minister determined that the Appellant Gaétan Béland was not employed under a contract of service, and that even if he was, he and the payor were not dealing with each other at arm's length, so it was reasonable to conclude, having regard to the circumstances, that they would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length. The Minister is relying on paragraphs 5(1)(a) and 5(2)(i), subsection 5(3) and sections 91 and 93 of the Act, as well as subsection 3(1) and paragraph 3(2)(c) of the Unemployment Insurance Act. In making his decision, the Minister relied on the following assumptions of fact, which were admitted or denied by the Appellant as indicated below:
+[TRANSLATION]
+(a) Prior to 1994, the Appellant operated a transportation business called "Transport Jumelé Inc." (admitted)
+(b) That company went bankrupt in 1994 (admitted) and the Appellant personally went bankrupt as well. (denied)
+(c) The payor was registered on March 22, 1995, with the Appellant's six children as its shareholders.
+(d) The payor transported peat moss, refrigerated fruits and vegetables, and paper, both locally and over long distances. (admitted)
+(e) The business was operated throughout the year, but the payor’s peak periods were in the late winter and the spring. (admitted)
+(f) In 1997, 1998 and 1999, the payor had 23, 41, and 29 employees, respectively. (denied)
+(g) The Appellant managed and supervised all the payor's activities daily. (denied)
+(h) In particular, the Appellant hired staff, occasionally drove trucks, replaced the dispatcher, and did mechanical work in the garage. (denied)
+(i) The Appellant was involved in everything and was unable to specify his main activity within the payor's business. (denied)
+(j) The Appellant had no specific work schedule and did not have to report to anyone about his hours of work. (denied)
+(k) The Appellant performed services at the payor's office, at the garage or on the road. (denied)
+(l) Except for the period in 1998 during which he was incarcerated, the Appellant provided services to the payor throughout the year, regardless of the periods in which he was entered in the payor's payroll journal. (denied)
+(m) In 1998, the Appellant was entered in the payroll journal from May 3 to August 2 but was not providing any services to the payor during that time because he was incarcerated. (denied)
+(n) On October 18, 1996, the payor issued a Record of Employment (ROE) to the Appellant for the period from March 11 to October 5, 1996, which indicated 17 insurable weeks and $12,730 in insurable earnings. (admitted)
+(o) On January 15, 1998, the payor issued a ROE to the Appellant for the period from August 21, 1995 [sic] to August 2, 1997, which indicated that he had accumulated 660 insurable hours and a total of $7,488 in insurable earnings over the 27 preceding weeks. (admitted)
+(p) On February 25, 1999, the payor issued a ROE to the Appellant for the period from May 3 to August 1, 1998, which indicated that he had accumulated 840 insurable hours and a total of $13,520 in insurable earnings. (admitted)
+(q) On November 5, 1999, the payor issued a ROE to the Appellant for the period from March 22 to October 29, 1999, which indicated that he had accumulated 1,920 insurable hours and a total of $20,080 in insurable earnings over the 27 preceding weeks. (denied)
+(r) The ROEs issued by the payor do not reflect the periods actually worked or the earnings actually made by the Appellant during the periods in issue. (denied)
+6. The Appellant and the payor are related within the meaning of the Income Tax Act because
+(a) during the periods in issue, Serge, Joël, Joé, Chantale, René and Renaud Béland were the payor's equal shareholders, (admitted)
+(b) the Appellant is the father of the six shareholders, (admitted) and
+(c) the Appellant is related to persons who are members of a related group that controls the payor. (denied)
+7. In addition, the Minister determined that the Appellant and the payor were not dealing with each other at arm's length with respect to the employment. Specifically, the Minister was satisfied that it was reasonable to conclude that the Appellant and the payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, having regard to the following circumstances:
+(a) Nature and importance of work performed
+i. even though the Appellant was not a shareholder of the payor, he was the directing mind in relation to all its activities; and
+ii. the Appellant rendered numerous services to the payor throughout the year, even when he was not entered in the payor's payroll journal.
+(b) Duration of work
+i. the Appellant was entered in the payor's payroll journal only during the periods indicated in the ROEs, but he provided services throughout the year; and
+ii. the Appellant was not generally entered in the payor's payroll journal during the fall and the spring, yet these were the payor's busiest periods.
+(c) Remuneration
+i. in 1996 and 1997, the Appellant's fixed weekly pay was $748.80, and, as of 1998, it was $1,040, regardless of the hours and periods actually worked;
+ii. the Appellant worked for the payor, without receiving remuneration from the payor, outside the weeks during which his name was entered in the payroll journals; and
+iii. the payor paid the Appellant in 1998 even though he was not working because he was incarcerated.
+(d) Terms and conditions of employment
+i. the Appellant had no work schedule to comply with, and accumulated hours as he saw fit; and
+ii. the Appellant directed and controlled the payor's day-to-day activities.
+[3] In the matter of the Appellant René Béland, the periods in issue are from June 27, 1994 to July 31, 1998, and from July 12, 1999 to August 11, 2000. The Minister determined that the Appellant René Béland was not employed in insurable employment because he was satisfied, having regard to all the circumstances, that the Appellant and the payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, within the meaning of paragraph 5(2)(i) and subsection 5(3) of the Act. In making his decision, the Minister relied on the following assumptions of fact, which were admitted or denied by the Appellant as indicated below:
+[TRANSLATION]
+5. The Appellant and the payor are related within the meaning of the Income Tax Act because
+(a) the payor incorporated on August 2, 1993, (admitted)
+(b) during the periods in issue, the Appellant and Chantale, Joé, Joël, Renaud and Serge Béland were the payor's equal shareholders, (admitted)
+(c) the shareholders consist of brothers and a sister, (admitted) and
+(d) the Appellant is a member of a related group that controls the payor. (denied)
+6. The Minister determined that the Appellant and the payor were not dealing with each other at arm's length with respect to the employment. Specifically, the Minister was satisfied that it was reasonable to conclude that the Appellant and the payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, having regard to the following circumstances:
+(a) The payor operated a transportation business. (admitted)
+(b) The payor transported peat moss, refrigerated fruits and vegetables, and paper, both locally and over long distances. (admitted)
+(c) The business was operated throughout the year, but the payor's peak periods were in the late winter and the spring. (admitted)
+(d) In 1997, 1998 and 1999, the payor had 23, 41 and 29 employees, respectively. (denied)
+(e) Depending on whether Gaétan Béland's version, Joël Béland's version or the Appellant's version is to be believed, the payor had no trucks, a single truck, or 6 to 8 trucks. (denied)
+(f) During the periods in issue, the Appellant was the sole shareholder of B & B Export inc., a transportation business that owned a truck that was lent to the payor. (denied)
+(g) During the periods in issue, the Appellant worked for the payor as a driver, and did local trips and long-distance trips (trips to the United States). (admitted)
+(h) The Appellant spent 95% of his time working as a truck driver, but would occasionally work at the office and replace the dispatcher. (admitted)
+(i) In 1996, the Appellant received fixed pay of $720 per week regardless of the number of hours actually worked. (denied)
+(j) The Appellant earned $400 per week in 1997 and went back to earning $720 per week in 1998. He was unable to explain these variations. (denied)
+(k) Unlike the Appellant, the payor's other truck drivers were paid based on mileage driven. (denied)
+(l) The payor's busiest period fell between September and May, but the Appellant was not entered in the payor's payroll journal during these periods in 1997 or 1998. (denied)
+(m) The Appellant's alleged periods of employment did not correspond to the payor's true needs. (denied)
+(n) The Appellant rendered services to the payor while he was not entered in the payroll journal and was receiving unemployment insurance benefits.
+[4] The periods in issue in the matter of the Appellant Joël Béland are from January 2 to May 17, 1997, from November 16, 1997 to June 13, 1998, from October 5, 1998 to May 14, 1999, from September 7, 1999 to January 28, 2000, and from June 17, 2000 to May 26, 2001. The Minister determined that the Appellant Joël Béland was not employed in insurable employment, and that the reasons for this were the same as those in respect of René Béland: non-arm's length dealing with the payor. In making his decision, the Minister relied on the following assumptions of fact, which were admitted or denied by the Appellant as indicated below:
+[TRANSLATION]
+5. The Appellant and the payor are related persons within the meaning of the Income Tax Act because
+(a) during the periods in issue, the Appellant and Chantale, Joé, René, Renaud and Serge Béland were the payor’s equal shareholders, (admitted)
+(b) the shareholders consist of brothers and a sister, (admitted) and
+(c) the Appellant is a member of a related group that controls the payor. (denied)
+6. The Minister determined that the Appellant and the payor were not dealing with each other at arm's length with respect to the employment. Specifically, the Minister was satisfied that it was reasonable to conclude that the Appellant and the payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, having regard to the following circumstances:
+(a) The payor incorporated on August 2, 1993. (admitted)
+(b) The payor transported peat moss, refrigerated fruits and vegetables, and paper, both locally and over long distances. (admitted)
+(c) The business was operated throughout the year but the payor’s peak periods were in the late winter and the spring. (admitted)
+(d) In 1997, 1998 and 1999, the payor had 23, 41, and 29 employees, respectively. (denied)
+(e) Depending on whether Gaétan Béland's version, René Béland's version or the Appellant's version is to be believed, the payor had no trucks, 6 to 8 trucks, or a single truck. (denied)
+(f) During the periods in issue, the Appellant worked as a driver of one of the trucks used by the payor. (denied)
+(g) The Appellant claims that he worked mainly as a dispatcher for the payor starting in June 2000. (denied)
+(h) Neither the payor nor the Appellant could specify or substantiate the actual amount of time that the Appellant spent working as a dispatcher. (denied)
+(i) The Appellant had no work schedule to comply with, and the payor did not do any accounting of his hours of work except when those hours were recorded in the truck's logbook. (denied)
+(j) The Appellant claims that most of his trips were to the United States, whereas Gaétan Béland and Denise Pelletier claimed that he did not want to do any trips there. (denied)
+(k) When he was entered in the payor's payroll journal, the Appellant received fixed remuneration of $748.80 until 1998 and $780 thereafter, and this pay was supposedly for 60 hours of work, but in reality, he never earned such amounts in one week. (denied)
+(l) The periods during which he was entered in the payroll journal did not correspond to the payor's actual needs. (denied)
+(m) There is no correlation between the periods worked by the Appellant and the periods worked by the other workers of the payor, when the Appellant was working as a dispatcher starting in June 2000. (denied)
+(n) The Appellant rendered services to the payor at times other than those respecting which he was entered in the payor's payroll journal. (denied)
+(o) On May 30, 1997, the payor issued a Record of Employment (ROE) to the Appellant for the period from October 14, 1996 to May 17, 1997, which indicated that he had accumulated 420 insurable hours and a total of $5,421.60 in insurable earnings, which corresponds to seven weeks at $748.90 per week within the last 27 weeks of the period. (admitted)
+(p) On June 22, 1998, the payor issued a ROE to the Appellant for the period from November 16, 1997 to June 13, 1998, which indicated that he had accumulated 600 insurable hours and a total of $7,488 in insurable earnings, including eight weeks at $748.80 within the last 27 weeks of the period. (admitted)
+(q) On June 9, 1999, the payor issued a ROE to the Appellant for the period from October 5, 1998 to May 14, 1999, which indicated that he had accumulated 900 insurable hours and a total of $10,920 in insurable earnings over the 27 preceding weeks, which corresponds to 14 weeks at $780 per week. (admitted)
+(r) On February 4, 2000, the payor issued a ROE to the Appellant for the period from September 7, 1999 to January 28, 2000, which indicated that he had accumulated 1,020 insurable hours and a total of $13,260 in insurable earnings, which corresponds to 17 weeks at $780 per week. (admitted)
+(s) On May 25, 2001, the payor issued a ROE to the Appellant for the period from June 17, 2000 to May 26, 2001, which indicated that he had accumulated 1,740 insurable hours and a total of $10,140 in insurable earnings over the 27 preceding weeks, which corresponds to 13 weeks at $780 per week. (admitted)
+(t) The ROEs issued by the payor do not reflect the periods actually worked or the earnings actually made by the Appellant during the periods in issue. (denied)
+[5] In the matter of the Appellant Denise Pelletier, the periods in issue are from January 27 to June 28, 1997, from February 2 to October 2, 1998, and from October 7, 1998 to May 26, 2001. The Minister determined that the Appellant was not employed in insurable employment because she and the payor were not dealing with each other at arm's length. In making his decision, the Minister relied on the following assumptions of fact, which were admitted or denied by the Appellant as indicated below:
+[TRANSLATION]
+5. The Appellant and the payor are related within the meaning of the Income Tax Act because
+(a) the payor incorporated on August 2, 1993, (admitted)
+(b) during the periods in issue, the payor's equal shareholders were Chantale, Joël, Renaud, René and Serge Béland, (admitted)
+(c) Gaétan Béland is the father of the six shareholders and the Appellant is his spouse, (admitted) and
+(d) the Appellant is related to persons who are members of a related group that controls the payor. (denied)
+6. The Minister determined that the Appellant and the payor were not dealing with each other at arm's length with respect to the employment. Specifically, the Minister was satisfied that it was reasonable to conclude that the Appellant and the payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, having regard to the following circumstances:
+(a) The payor operated a transportation business. (admitted)
+(b) The payor transported peat moss, refrigerated fruits and vegetables, and paper, both locally and over long distances. (admitted)
+(c) The business was operated throughout the year, but the payor’s peak periods were in the late winter and the spring. (admitted)
+(d) In 1997, 1998 and 1999, the payor had 23, 41, and 29 employees, respectively. (denied)
+(e) Depending on whether Gaétan Béland's version, Joël Béland's version or René Béland's version is to be believed, the payor had no trucks, a single truck, or 6 to 8 trucks. (denied)
+(f) Chantal Auto Ltée, whose shareholders were the same as the payor's, had four or five trucks which it rented to the payor. (denied)
+(g) The Appellant claims that she worked for the payor as a secretary-clerk during the periods in issue, that she was responsible for billing, deposits and paycheques, and that she ran errands and occasionally answered the telephone, yet she did not work for the payor prior to December 1997, and worked thereafter only a few hours a day, specifically, 2 to 3 hours. (denied)
+(h) During the periods in issue, the payor generally had two secretaries working for it. (denied)
+(i) The Appellant carried out her duties at the payor's office as well as doing maintenance and cleaning. (denied)
+(j) The Appellant claims that she always worked 40 hours per week, but her hours were not accounted for, and it was she who determined her hours as well as the weeks in which she was to be entered in the payroll journal. (denied)
+(k) The Appellant's purported periods of work were inconsistent from year to year and varied constantly based on her own needs, not the payor's needs. (denied)
+(l) The Appellant's name and signature appear on many of the payor's documents at times that she was not entered in the payor's payroll journal. (denied)
+(m) From January 9 to October 30, 1999, the Appellant purportedly worked on alternate weeks, whereas she worked every week, performing the same duties, from November 6, 1999, to January 6, 2001. (denied)
+(n) There was no secretary in the payor's payroll journal from July to December 1998 even though the payor continued to operate during that time. (denied)
+(o) There is no correlation between the periods that the Appellant purportedly worked and the periods that the other workers worked. (denied)
+(p) On July 18, 1997, the payor issued a Record of Employment (ROE) to the Appellant for the period from July 29, 1996 to June 28, 1997, which indicated that she had accumulated 800 insurable hours and a total of $9,360 in insurable earnings over the 27 preceding weeks. (admitted)
+(q) On October 8, 1998, the payor issued a ROE to the Appellant for the period from February 2 to October 2, 1998, which indicated that she had accumulated 1,427 insurable hours and a total of $12,636 in insurable earnings over the 27 preceding weeks. (admitted)
+(r) On May 28, 2001, the payor issued a ROE to the Appellant for the period from October 7, 1998, to May 26, 2001, which indicated that she had accumulated 2,120 insurable hours and a total of $13,676 in insurable earnings over the 27 preceding weeks. (admitted)
+(s) The ROEs issued by the payor do not reflect reality in terms of whether the Appellant was even employed in 1996 and 1997, or in terms of the periods that she worked or her earnings during the periods in issue. (denied)
+[6] The payor incorporated on August 2, 1993. Its shareholders, all of whom own equal shares, are the Appellants René and Joël, their sister Chantale Béland, and their brothers Joé, Renaud and Serge Béland. They are the children of the Appellants Gaétan Béland and Denise Pelletier. All of them are related within the meaning of sections 251 and 252 of the Income Tax Act, a fact that the Appellants' counsel acknowledged during the oral submissions.
+[7] The payor operated a transportation business at all relevant times up to the present. The business transported peat moss, refrigerated fruits and vegetables, and paper, over long and short distances. The business is operated throughout the year, but the late winter and the spring are the busiest periods.
+[8] The payor was the subject of an RCMP search in 2001, followed by an investigation into the terms and conditions of its workers' employment. Senior Investigations officer Guy Savard met with roughly thirty of the payor's employees, all of whom confirmed that the Appellant Gaétan Béland was the payor's directing mind. The investigation revealed that Mr. Béland had set up a scheme under which employees banked hours. In the course of the investigation, the officer found a number of documents signed by employees at times that they were working, but were not entered in the payroll journal, and were receiving employment insurance benefits.
+[9] Consequently, Guy Savard prepared a table (Exhibit I-13) for the years 1997 through 2001 using the payroll journal, the Records of Employment (ROEs) and the benefit periods for each employee, including the Appellants. The table sets out the weeks in which each Appellant either worked, obtained benefits or did neither, and the week in which the employment insurance benefit claim was made. The table shows that some of the Appellants, such as Gaétan and Joël Béland, worked for one or two weeks and obtained benefits the following week. The frequency of their work varied greatly, as did that of the other two Appellants.
+[10] The Respondent called Sylvie Roy and Claudine Pelletier, two former employees of the payor, as witnesses. Ms. Roy worked for the payor from June 1993 to November 1997 as an accounting secretary and dispatcher. Among other things, she entered accounting data and the amount of time that the employees worked, using the payor's "Avantage" software, in order to prepare the paycheques. The information regarding the number of hours that each employee worked was given to her orally by the Appellant Gaétan Béland. She claims never to have used software called "Maximum" in the course of her job.
+[11] Upon hiring Ms. Roy, the Appellant Gaétan Béland asked her to bank her hours because she was an employment insurance beneficiary. In fact, the payor had a scheme under which all the employees banked their hours. The employees' hours as recorded in the computer were different from the employees' hours as entered in the payor's payroll journal; only the journal reflected reality. The information that was used to prepare the employees' ROEs was obtained from the Avantage software. When the payor did not have enough money to pay his employees, he told them to collect benefits for a week. In Ms. Roy's case, during the week that she received benefits, the difference was paid to her in cash so that she would get her full hourly rate, and her banked hours were reduced accordingly. The Appellant Gaétan Béland taught her how to use this system; she and Mr. Béland were the ones who coordinated it.
+[12] Ms. Roy claims that while she herself was working, the Appellant Denise Pelletier was paid a salary even though she was not working. It was only in late 1997 that the Appellant Denise Pelletier learned how the computer worked and began making the payor's deposits. According to Ms. Roy, Ms. Pelletier's ROEs from June 18, 1996 to 1997 are false because she was not working during that time.
+[13] As for the Appellant Joël Béland, Ms. Roy claims that he was paid as a full‑time employee even though he did not work full time. In fact, he was sometimes even paid for no work, or simply so that he could qualify for employment insurance benefits. From 1993 to 1997, he purportedly did little driving, and only took on a few loads and errands.
+[14] Ms. Roy says that the Appellant Gaétan Béland was always around when she was working, except when he was on a driving trip. She says that the P.C. Miler device was used for the purposes of the fuel tax because the miles driven in each U.S. state had to be noted in order to fill out the tax forms. She cannot say whether the payor used the device for other purposes. She says that she left her employment because she was tired of the way in which the payor operated.
+[15] Claudine Pelletier worked for the payor from November 1997 to June 1998 in the same capacity as Ms. Roy. Thus, she looked after the payroll and worked with the Avantage software and a journal (a ring binder) and was familiar with the time-banking system. The information entered in the computer with the Avantage software was pre-stored and was always the same, whereas the ring binder contained the number of hours banked by the employees — that is to say, their actual hours — as well as the miles driven by the employees who were drivers. For example, Ms. Pelletier says that for a trip from Rivière‑du‑Loup to New York, the number of miles times the price per mile, minus the regular salary paid to the driver, was calculated, and the difference was credited to the driver. This method was used for all employees. According to Ms. Pelletier, the Appellant Gaétan Béland and the drivers called this method [TRANSLATION] "using unemployment" (i.e., getting paid for a week and going on unemployment the following week) and the excess mileage was banked or accumulated. Ms. Pelletier said that when an employee stopped working for the payor, [TRANSLATION] "the bank was emptied." When the value of the number of banked hours exceeded the value of the employee’s pay, the employee would receive the pay, and if it was lower, no pay was issued and the employee was put back on employment insurance benefits.
+[16] According to Ms. Pelletier, the Appellant Gaétan Béland was always present except from May to July 1998, and was the boss. She prepared ROEs for the employees at his request based on the information in the computer system, which did not reflect reality. The Appellant Gaétan Béland told her that he did not have enough funds to do otherwise.
+[17] As for the work done by the Appellant Denise Pelletier, Claudine Pelletier says that when her employment began, Denise Pelletier came to prepare and make the deposits, and subsequently worked only one to three hours per week. It is only in June 1998 that Denise Pelletier explained the system to her. As for the Appellant René Béland, she noticed that he drove trips to the United States but did little work and was always paid the same salary. The Appellant Joël Béland, for his part, drove short trips, but did not do enough driving to justify the salary of $720 per week that he was paid.
+[18] René Béland testified that he worked for the payor in 1997, 1998 and 1999. According to the table (Exhibit I‑13), he also worked for the payor in 2000 and in the spring of 2001. He was the long-distance driver, and, in between trips, he stayed at home and rested as he waited to be called back. His salary of $720 per week was based on his mileage. He would sometimes be a dispatcher, in which case he was paid an hourly rate instead of a mileage‑based rate. He says that there is a slowdown during the summer months and that he is often on standby.
+[19] According to the table (Exhibit I-13), the Appellant René Béland received employment insurance benefits from January to mid‑July 1997 and worked from mid‑July 1997 to late July 1998. He received benefits from August 1998 to late June 1999. He returned to work from mid‑July 1999 to mid‑July 2000, then alternated between work and benefits every two weeks, then worked full time during the first three months of 2001, and then began to receive benefits again. He says that he received benefits because of work shortages. He also says that, in 1998, he did not do any driving, and that is when he was at the office working as a dispatcher for $400 per week.
+[20] Exhibits I-1, I-2 and I-3 contain an impressive number of documents which show that the Appellant René Béland rendered services to the payor while he was receiving employment insurance benefits. Logbooks and various invoices show that he made unpaid deliveries or trips for the payor. In fact, the Appellant René Béland acknowledged in his testimony that he went to the payor's office regularly while receiving employment insurance benefits. He brought his lunch to the office and this was all part of his routine. It was in his interest that the payor obtain transportation contracts. He thinks that a paternal leave accounts for the fact that he did not work for a few months in 1999, but he does not recall. He also admits that he accompanied drivers during trips while receiving employment insurance benefits. The drivers that he accompanied reimbursed him for his expenses.
+[21] The Appellant Joël Béland was mainly a driver for the payor throughout the period in issue. He did short trips, that is, from Rivière‑du‑Loup to Montréal or from Québec to Rimouski. He says that he was paid $0.30 per mile. During the period in issue, he received employment insurance benefits because of a shortage of work. Certain periods of unemployment were lengthy, and in other such periods, there were one or two weeks of unemployment followed by a return to work for one or two weeks. He acknowledges that he went to the office during one period of unemployment; he says that it was the dispatcher who decided who would be called back to work, but he did not identify the dispatcher. On cross‑examination, he added that his father was the person who called him and had even decided his salary. When asked who the payor's manager was, he responded that it was not his father, but he had to revise that response when he was confronted with a statement that he had made to the investigators on May 21, 2002, to the effect that his father owned the payor, was the boss, made all the administrative decisions, and hired and dismissed staff.
+[22] While working as a dispatcher, the Appellant Joël Béland was paid the same salary of $720 per week. He would work 60 hours one week and receive benefits the following week. Several documents were tendered showing that throughout the period in issue, just like the Appellant René Béland, he rendered services to the payor while receiving employment insurance benefits.
+[23] The Appellant Denise Pelletier received benefits in January 1997. She worked from February to June 1997 and then received benefits until late January 1998. She returned to work from February to late September 1998, and then went on unemployment for the last three months of the year, but she reported a few hours of work during those months. From January to October 1999, she alternated between a week of work and a week of employment insurance benefits. In October of that year, she resumed work on a full-time basis until May 2001. According to her testimony, she was an accounting clerk for the payor throughout the period in issue. She did the accounting manually even though the Avantage software was used for the computer system. She says that in October 1998, the payor replaced the Avantage software with a program called Maximum, which Sylvie Roy had won. She did not specify the circumstances.
+[24] Ms. Pelletier acknowledges that in 1997 and early 1998, while receiving employment insurance benefits, she went to the payor's place of business to learn how the Avantage software worked. It was during this period that Ms. Roy had to leave, and that she trained Claudine Pelletier. The Appellant Denise Pelletier resumed full‑time work in February 1998, and requested the assistance of someone named Gilles Côté in June 1998 to help her learn how to use the Maximum software. She says that she worked more hours in January or February 1998, but cannot remember how many. According to the table constituting Exhibit I‑13, she was unemployed in January 1998 and worked full time in February 1998. One thing is certain: she worked while she was on unemployment, and it was only in November and December 1998 that she reported a day of work to the employment insurance system.
+[25] On cross-examination, she acknowledged that she worked for companies other than the payor in 1997 and 1998. She also acknowledges that she worked one day a week for two or three months to learn how the computer operated, and that she went by the office every day during her periods of unemployment to check whether there was anything to sign or do. She says that, in 1997, 1998 and 1999, she was the one who decided when there was work and when she had to make an employment insurance benefit claim, just as she decided to work full time during 2000, and up until May 2001.
+[26] When Denise Pelletier was questioned about Claudine Pelletier's statement that she only worked two or three hours a day, she replied that this was plausible. Later on, she said that she always worked the 40 hours a week that she was supposed to. With regard to her salary, which was comparable to that of Sylvie Roy and Claudine Pelletier who were both bilingual, she said that her manual work was equal in value to theirs.
+[27] The Appellant Gaétan Béland explained that the payor paid its drivers $0.20 per mile. Initially, the mileage was based on the truck's odometer, but that was not always accurate. The payor adopted the P.C. Miler device, which was much more accurate. The payor paid the drivers $720 per week. Because of the trucking logbooks, the drivers had to be given time off to rest, so if a driver went on a two‑week trip, he had to be given a week of rest. According to Mr. Béland, with the increase in rates, the weekly salaries remained $720 per week, but the payor accumulated hours of work. He says that the payor could not pay drivers regularly and could not hire them at a fixed weekly or hourly rate. Consequently, he had to bank the hours in order to issue the drivers another paycheque.
+[28] Mr. Béland testified that Sylvie Roy won software called Maximum in 1997 or 1998, but preferred the Avantage software. He testified that the Appellant Denise Pelletier obtained explanations on how to use Maximum from Gilles Côté in late 1998. He says that no one was paid any salary while receiving benefits. He tried to minimize the importance of the work that the other Appellants did while they were on unemployment.
+[29] Gaétan Béland acknowledges that he received his salary from June to August 1998 while he was incarcerated. He worked every other week from January to August 1997, and received benefits during the weeks that he did not work. He worked from January to July 1998, and received benefits from September 1998 to late January 1999. He worked from April to mid‑October 1999 and went back on unemployment from November to late February 2000. During the roughly 30 weeks that he was not paid, he still worked for the payor. In order to enable the payor to pay the drivers, he did not take his pay. He says that [TRANSLATION] "if you want your business to survive, you have to do that."
+[30] The Appellant Gaétan Béland was also confronted with exhibits that show that he worked while receiving employment insurance benefits, and during periods when he was not entered in the payroll journal. Ultimately, he admitted that he drove trips for which he cannot recall whether he was paid. He acknowledges that the payor banked miles and that this is common practice in the transportation industry. He does not recognize the phrase "using unemployment", and says that the P.C. Miler was not used during the periods in which Sylvie Roy and Claudine Pelletier were employed. He denied any telephone conversation with Canada Revenue Agency Appeals Officer Lyne Courcy, and later said that he could not confirm that he spoke with her while he was at his lawyer's office.
+[31] The Respondent submits that none of the Appellants' jobs constitute insurable employment because he is satisfied that it is not reasonable to conclude, having regard to all the circumstances, that the Appellants would have entered into a substantially similar contract of employment if they had been dealing with the payor at arm's length within the meaning of the Act. Further, with respect to the Appellant Gaétan Béland, he submits that Mr. Béland was not employed under a contract of service, and therefore did not hold insurable employment within the meaning of the Act and the Unemployment Insurance Act.
+[32] The roles of the Minister and the Court in cases where the Minister must determine if an employment is excluded from insurable employment by reason of non‑arm's length dealing were defined by the Federal Court of Appeal in Légaré v. Canada, A-392-98, May 28, 1999, [1999] F.C.J. No. 878 (QL), where Marceau J.A. summarized in the following terms, at paragraph 4, the approach that must be adopted:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[33] In fact, the Federal Court of Appeal reiterated its position in Pérusse v. Canada, A-722-97, March 10, 2000, [2000] F.C.J. No. 310 (QL). Marceau J.A., referring to the above excerpt from Légaré, added the following at paragraph 15:
+The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[34] The provisions of the Act under which employment is excluded from insurable employment where the employer and employee are not dealing with each other at arm's length, and the provisions that apply to situations where such non-arm's length dealing is deemed not to exist, are worded as follows:
+5. . . .
+Excluded employment
+(2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+Arm's length dealing
+(3) For the purposes of paragraph (2)(i),
+. . .
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[35] In Louis-Paul Bélanger v. M.N.R., 2005 TCC 36, Archambault J. of this Court analyzed a set of decisions of both the Federal Court of Appeal and the Tax Court of Canada on the issue of non-arm's length dealing and the process that the Court must follow in an appeal from a decision of the Minister based on the statutory provisions quoted above.
+[36] Thus, this analysis is based on these decisions.
+[37] In light of the foregoing, the burden is on the Appellants to provide proof, on a balance of probabilities, that would enable me to conclude that the Minister's decision in the instant case does not still seem reasonable having regard to the evidence adduced by the Appellants. The non-arm's length dealing is not in issue in these appeals. Thus, I must decide whether the Minister's decision was well-founded.
+[38] In the appeal of René Béland, the first period in issue begins on June 27, 1994 and ends on July 31, 1998, and the second period spans from July 12, 1999 to August 11, 2000. The provisions of the Act on which the Minister relies came into force on June 30, 1996, so they cannot have any effect on the period preceding the proclamation of the Employment Insurance Act. In order for a provision to be relied upon, it must be pleaded (see The Queen v. Littler, [1978] C.T.C. 235 (F.C.A.), at page 240). Consequently, this decision will only apply to the periods of employment that are subsequent to June 30, 1996. Of his own admission, the Appellant René Béland worked for the payor in 1997, 1998 and 1999. The information obtained by the investigators shows that he also worked in 2000 and 2001. The duration of his employment varied from year to year and was inconsistent with the needs of the payor, whose busy period was from September to May. It is sufficient for me to state that the Appellant was unemployed from January to mid‑July 1997 and from September 1998 to June 1999, and then worked alternate weeks from the fall of 2000 to the spring of 2001.
+[39] The Appellant René Béland attributes his periods of unemployment to the fact that the payor had a shortage of work. Not only has it been clearly shown that he was on unemployment during the busy period, there is also abundant evidence, adduced by the Respondent, which clearly shows that the Appellant René Béland never stopped providing services to the payor. The duration of his employment or his periods of employment are unrelated to the payor's true needs. There was always work for him. He himself admits that he went to the payor's premises every day as part of his routine, and that it was in his interest that the payor obtain transportation contracts.
+[40] The Minister's submission that the Appellant René Béland was paid a fixed rate of $720 per week regardless of the actual number of hours that he worked is also well‑founded. It is clear that the payor had a system in which hours and mileage were banked, and that the weekly earnings were unrelated to actual mileage or hours. The testimony of Sylvie Roy and Claudine Pelletier confirms this state of affairs, and there was nothing in their testimony capable of casting doubt on its credibility. In fact, Ms. Pelletier stated that the Appellant René Béland did little work and always received the same salary. The Appellant René Béland's testimony was full of generalities and uncertainty, and this prevented a genuine assessment of the terms and conditions, duration, nature or importance of his work. There were a few minimal clarifications here and there, but not a single document was tendered that could confirm his statements. In my opinion, by reason of the non-arm's length dealing with the payor, the Minister correctly concluded that the employment was not insurable during the periods in which the Act applied. It was therefore reasonable of the Minister to conclude, having regard to all the circumstances, that the employment contract entered into by the Appellant René Béland and the payor would not have been similar if they had been dealing with each other at arm's length.
+[41] The Appellant Joël Béland was unable to demolish the allegations made by the Minister in subparagraphs 6(h), (i), (j), (k), (l), (m), (n) and (t) of the Reply to the Notice of Appeal. No documentation, payroll journal, time log, hourly rate or other document was tendered in evidence that could demolish the Minister's allegations or even confirm Mr. Béland's testimony. He was unable to establish his terms and conditions of employment with certainty; instead of doing so, he gave nonsensical answers to the questions that he was asked. He claims that he was paid $720 per week while he was a dispatcher, and yet his brother René testified that he received only $400 per week when he was doing the same job. He said that his salary was based on his mileage, and yet his salary was the same when he was a dispatcher, which leads me to the conclusion that there is no way that his salary could be based on accumulated mileage.
+[42] I cannot overlook the testimony of Sylvie Roy, who stated that she noticed — at least during the period that she was with the payor — that the Appellant Joël Béland got full-time pay even though he did not work full time, and that he was paid for no work in order to qualify for employment insurance benefits. Claudine Pelletier added that the Appellant Joël Béland drove short trips and that his salary was not based on the distances that he drove. Nothing in the evidence satisfies me that this Appellant's methods changed in any way after these two employees left.
+[43] There is also abundant evidence that his layoff due to a shortage of work was a fiction: the documentary evidence shows the payor needed his services during each of his periods of unemployment, and that he rendered services throughout those periods. The remuneration paid, the duration of the employment and the terms and conditions thereof depart markedly from normal arm's length dealings. In my opinion, the Minister's conclusion is reasonable having regard to the circumstances and does not warrant intervention by this Court.
+[44] The same remarks apply to the Appellant Denise Pelletier's appeal. Her testimony was often contradictory. It was not in any way confirmed by documentary evidence showing that the payor kept a record of her hours, nor was it confirmed by her hourly rate or her job description. What is certain is that she was not seen on the payor's premises prior to December 1997, but was still paid a salary from February to June of that year. Thereafter, she worked only a few hours, but was paid a full salary. She kept a handwritten journal even though there was an electronic one. In fact, she referred to her handwritten journal in the course of her testimony, notably when she spoke about the new Maximum software that Ms. Roy had won. Neither Ms. Roy nor Ms. Pelletier, both of whom were assigned to similar positions, had heard anything about this software.
+[45] Given that there was always work to be done before Ms. Roy and Ms. Pelletier left, it is strange that after they left, the Appellant Denise Pelletier only worked alternate weeks from January to September 1999, and then worked full time. It is also unusual that Denise Pelletier, an employee, and not the payor, was the person who decided whether there was work to be done and when she should claim employment insurance benefits or work full time. Moreover, she acknowledges that she went to the office every day during her periods of unemployment in order to sign documents or do other things. In my opinion, such terms and conditions of employment are not found in employment contracts negotiated between arm's length parties. Thus, the Minister's decision is reasonable under the circumstances.
+[46] Based on the evidence that I have heard, it seems perfectly clear to me that the Appellant Gaétan Béland was the directing mind of the payor during the periods in issue of all the Appellants. It is also very clear to me, despite his testimony denying the practice of [TRANSLATION] "using unemployment", that the payor had a system, implemented by the Appellant Gaétan Béland, which enabled the payor to take full advantage of the employment insurance system as a way to subsidize the payor's business, rather than for the purposes set out in the Act. The fact that the Appellants' hours and miles were banked as they received employment insurance benefits supports this conclusion. The evidence submitted by the Appellant has not satisfied me that the Minister's decision was not well-founded or that it was unreasonable having regard to the circumstances surrounding the employment of the Appellant Gaétan Béland. It is also very clear that since he was the directing mind, he was on the payor's premises at all times, including the periods in which he was receiving employment insurance benefits. He was even paid by the payor at times when he was not working. In my opinion, such terms and conditions of an employment contract would be unusual for persons dealing with each other at arm's length.
+[47] The factual assumptions on which the Minister based his decision were not disturbed by the Appellants' evidence. In fact, it can be concluded that even the Appellant Gaétan Béland's ROEs do not reflect reality. This conclusion is based not only on the testimony of Sylvie Roy and Claudine Pelletier, but also on the fact that no evidence was submitted to show that the payor recorded the Appellant's hours of work and that its methods reflect reality.
+[48] In my opinion, during the periods in issue, there was no contract of service between the Appellant Gaétan Béland and the payor within the meaning of the Act and the Unemployment Insurance Act because there was no relationship of subordination between them. In any event, even if such a contract existed during the periods in issue, the employment of the Appellant Gaétan Béland would not be insurable by reason of the non-arm's length dealing, since, in my opinion, the Minister's decision seems reasonable having regard to all the circumstances.
+[49] All the appeals are dismissed, except, insofar as the Appellant René Béland is concerned, for the period preceding the proclamation of the Act on June 30, 1996.
+Signed at Ottawa, Canada, this 1st day of June 2006.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of March 2007.
+Susan Deichert, Reviser
+CITATION: 2006TCC249
+COURT FILE NOS.: 2003-4599(EI), 2003-4597(EI)
+2003-4600(EI), 2003-4598(EI)
+STYLES OF CAUSE: Gaétan Béland and M.N.R.
+René Béland and M.N.R.
+Joël Béland and M.N.R.
+Denise Pelletier and M.N.R.
+PLACE OF HEARING: Rivière-du-Loup, Quebec
+DATE OF HEARING: January 31, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: June 1, 2006
+APPEARANCES:
+Counsel for the Appellants:
+Frank Lemieux
+Counsel for the Respondents:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Frank Lemieux
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

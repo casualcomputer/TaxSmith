@@ -1,0 +1,114 @@
+Title: Lennox c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29295/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-360-29295-lennox-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-07-07
+
+# Lennox c. La Reine
+
+- Citation: 2009 CCI 360
+- Decision date: 2009-07-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7096, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lennox c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-07-07
+Référence neutre
+2009 CCI 360
+Numéro de dossier
+2007-1096(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1096(IT)I
+ENTRE :
+ROSAMUND LENNOX,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+Appel entendu le 18 février 2009, à St. Catharines (Ontario).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentant de l’appelante :
+M. Paul Beck
+Avocate de l’intimée :
+Me Alexandra Humphrey
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2005 est accueilli, et la question est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que, en application du paragraphe 204.1(2.1) de la Loi, l’appelante doit payer un impôt pour la période allant de janvier à juillet 2005, inclusivement, ainsi que les pénalités et intérêts afférents.
+Le droit de dépôt de 100 $ payé par l’appelante lui sera remboursé.
+Signé à Ottawa, Canada, ce 7e jour de juillet 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 8e jour d’octobre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 360
+Date : 20090707
+Dossier : 2007-1096(IT)I
+ENTRE :
+ROSAMUND LENNOX,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] En 2005, l’appelante a fait une cotisation excédentaire de 20 071 $ à son compte de REER. Pour l’année d’imposition 2005, le ministre du Revenu national (le « ministre ») a établi une cotisation d’impôt relativement à « l’excédent cumulatif » au sens du paragraphe 204.1(2.1) de la Loi de l’impôt sur le revenu (la « Loi »), disposition qui est ainsi rédigée :
+204.1(2.1) Impôt payable par les particuliers – cotisations postérieures à 1990 – Le particulier qui, à la fin d’un mois donné postérieur au mois de décembre 1990, a un excédent cumulatif au titre de régimes enregistrés d’épargne‑retraite doit, pour ce mois, payer un impôt selon la présente partie égal à 1 % de cet excédent.
+[2] L’appelante reconnaît avoir fait une cotisation excédentaire à son compte de REER en 2005, mais elle soutient que son obligation fiscale au titre du paragraphe 204.1(2.1) de la Loi devrait se limiter aux mois de janvier, février et mars 2005. Pendant cette période, l’appelante ne s’était pas encore rendu compte qu’elle avait fait une cotisation excédentaire, et elle a reconnu qu’elle avait un excédent cumulatif au titre de son compte de REER à la fin de chacun de ces mois‑là. Immédiatement après s’être rendu compte de son erreur le 25 avril 2005 – en fait, le lendemain même –, l’appelante a chargé son comptable, Paul Beck, d’informer l’Agence du revenu du Canada (l’« ARC ») de l’erreur, de prendre les mesures nécessaires pour retirer la cotisation excédentaire et de demander au ministre de renoncer, en vertu du paragraphe 204.1(4) de la Loi, à l’impôt dont l’appelante était redevable. Le paragraphe 204.1(4) de la Loi est rédigé de la façon suivante :
+204.1(4) Renonciation – Le ministre peut renoncer à l’impôt dont un particulier serait, compte non tenu du présent paragraphe, redevable pour un mois selon le paragraphe (1) ou (2.1), si celui-ci établit à la satisfaction du ministre que l’excédent ou l’excédent cumulatif qui est frappé de l’impôt fait suite à une erreur acceptable et que les mesures indiquées pour éliminer l’excédent ont été prises.
+[Non souligné dans l’original.]
+[3] L’ARC a accusé réception des documents envoyés par le comptable de l’appelante en mai 2005. D’autres discussions ont eu lieu en juillet, et l’excédent a finalement été retiré du compte de REER de l’appelante avant la fin d’août 2005.
+[4] En vertu du paragraphe 204.1(2.1) de la Loi, le ministre a ensuite établi une cotisation relativement à l’excédent cumulatif pour la période allant de janvier à août 2005. À l’audience, l’avocate de l’intimée a avisé la Cour que le ministre est maintenant d’avis qu’aucun impôt n’aurait dû être imposé pour le mois d’août 2005, car le compte de REER de l’appelante ne comportait pas d’excédent cumulatif à la fin de ce mois‑là. L’avocate de l’intimée a présenté une nouvelle réponse à l’avis d’appel qui comportait la modification suivante : l’excédent cumulatif au titre des primes de REER non déduites restantes dans le régime enregistré d’épargne‑retraite de l’appelante à la fin de l’année d’imposition 2005 était de 140 497 $ et non pas de 200 852 $, et l’impôt dû en application de la partie X.1 de la Loi s’élève donc à 1 404,97 $. L’avocate de l’intimée a aussi dit que le ministre ne se fondait plus sur les hypothèses de faits exposées aux alinéas 10g), h), k) et m) de la réponse à l’avis d’appel. Enfin, elle a demandé que l’appel soit accueilli pour permettre au ministre d’établir une nouvelle cotisation imposant seulement l’impôt, les intérêts et les pénalités pour la période allant de janvier à juillet 2005, inclusivement.
+[5] Le ministre soutient que, par son libellé, le paragraphe 204.1(2.1) de la Loi est obligatoire : « [l]e particulier qui, à la fin d’un mois donné […], a un excédent cumulatif au titre de régimes enregistrés d’épargne‑retraite doit, pour ce mois, payer un impôt […] ». Selon le ministre, malgré les mesures prises par l’appelante pour corriger son erreur, la bonne interprétation de cette disposition fait que le ministre était obligé d’établir une cotisation d’impôt pour chaque mois où le compte de REER de l’appelante comportait un excédent de cotisation, à savoir de janvier à juillet 2005. Quoique le ministre ait le pouvoir discrétionnaire de renoncer aux pénalités en vertu du paragraphe 204.1(4) de la Loi, il a choisi de ne pas le faire. (À l’audience, le ministre n’avait pas encore terminé l’examen de la demande de renonciation présentée par l’appelante. Par la suite, l’avocate de l’intimée a expliqué que le ministre avait rejeté cette demande).
+[6] L’appelante a affirmé que son obligation fiscale au titre du paragraphe 204.1(2.1) de la Loi aurait dû cesser de courir dès qu’elle avait informé le ministre de son erreur et pris les mesures correctives nécessaires. Elle soutient qu’après le 26 avril 2005, il lui était impossible de retirer l’excédent de cotisation de son compte de REER. Selon l’appelante, le fait que l’excédent était encore dans son compte de REER à la fin des mois d’avril, de mai, de juin et de juillet 2005 est entièrement attribuable à la lenteur du traitement de son dossier par le ministre.
+[7] À mon avis, c’est le ministre qui a présenté la bonne interprétation du paragraphe 204.1(2.1) de la Loi. Pour que cette disposition s’applique, il faut qu’il existe « un excédent cumulatif au titre de régimes enregistrés d’épargne‑retraite ». Il est incontestable que l’excédent de cotisation n’a pas été remboursé à l’appelante avant le début d’août 2005. Le paragraphe 204.1(2.1) de la Loi s’applique donc automatiquement, et l’appelante doit payer un impôt pour la période allant de janvier à juillet 2005. Comme l’a dit le juge en chef adjoint Noël (tel était alors son titre) dans Canada v. Simard‑Beaudry Inc.[1], « [l]a responsabilité d’un contribuable, en effet, provient de la Loi et non de la cotisation ». Le fait que l’article 204.1 de la Loi comporte une disposition permettant au ministre de renoncer à l’impôt dû à cause d’une cotisation excédentaire démontre que le législateur voulait que le paragraphe 2104.1(2.1) de la Loi soit obligatoire.
+[8] Pour ce qui est de la demande de renonciation aux pénalités présentée par l’appelante, le paragraphe 204.1(4) de la Loi confère au ministre le pouvoir discrétionnaire de décider si, selon les critères décrits dans la disposition, il est justifié de renoncer à l’impôt. Le caractère discrétionnaire du pouvoir conféré par le paragraphe 204.1(4) de la Loi découle de l’emploi des termes « à la satisfaction du ministre » et « peut renoncer » dans cette disposition. L’avocate de l’intimée a raison de dire que la Cour canadienne de l’impôt n’a pas compétence pour réviser le bien‑fondé de l’exercice de ce pouvoir discrétionnaire qu’a fait le ministre en refusant la demande de renonciation présentée par l’appelante[2]. C’est la Cour fédérale qui a compétence à cet égard. Bien que je ne puisse pas trancher cette question, je tiens à dire que, compte tenu des mesures qu’a rapidement prises l’appelante, la décision du ministre me semble sévère.
+[9] Compte tenu du fait que le ministre a reconnu avoir commis une erreur dans la cotisation en cause, l’appel est accueilli et la question est déférée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que, en application du paragraphe 204.1(2.1) de la Loi, l’appelante doit payer un impôt pour la période allant de janvier à juillet 2005, inclusivement, ainsi que les pénalités et intérêts afférents.
+Signé à Ottawa, Canada, ce 7e jour de juillet 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 8e jour d’octobre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 360
+No DU DOSSIER DE LA COUR :
+2007-1096(IT)I
+INTITULÉ :
+Rosamund Lennox et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+St. Catharines (Ontario)
+DATE DE L’AUDIENCE :
+Le 18 février 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT :
+Le 7 juillet 2009
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Paul Beck
+Avocate de l’intimée :
+Me Alexandra Humphrey
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 71 D.T.C. 5511, paragraphe 20.
+[2] Neubauer c. La Reine, 2006 CCI 457, paragraphe 10.

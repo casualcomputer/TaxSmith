@@ -1,0 +1,148 @@
+Title: Computer Hospital Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30674/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-28-30674-computer-hospital-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2012-01-20
+
+# Computer Hospital Inc. c. M.R.N.
+
+- Citation: 2012 CCI 28
+- Decision date: 2012-01-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7171, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Computer Hospital Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-01-20
+Référence neutre
+2012 CCI 28
+Numéro de dossier
+2010-311(EI)APP
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2010-311(EI)APP
+2010-312(CPP)APP
+ENTRE :
+COMPUTER HOSPITAL INC.,
+requérante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 25 mars 2011 à Toronto (Ontario).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Représentant de la requérante :
+M. Silverio Ferrari
+Avocate de l’intimé :
+Me Sandra K.S. Tsui
+____________________________________________________________________
+JUGEMENT
+Vu la demande visant à obtenir une ordonnance prorogeant le délai imparti pour interjeter appel des évaluations établies en vertu de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada;
+Et après avoir entendu les parties;
+Conformément aux motifs du jugement ci‑joints, la demande est rejetée.
+Signé à Winnipeg (Manitoba), ce 20e jour de janvier 2012.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 18e jour d’avril 2012.
+Erich Klein, réviseur
+Référence : 2012 CCI 28
+Date : 20120120
+Dossiers : 2010-311(EI)APP
+2010-312(CPP)APP
+ENTRE :
+COMPUTER HOSPITAL INC.,
+requérante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] Il s’agit d’une demande de prorogation du délai pour déposer des avis d’appel à l’égard d’évaluations relatives à des cotisations d’assurance-emploi et à des cotisations au Régime de pensions du Canada (le « RPC ») [1].
+[2] En l’espèce, la preuve se composait du témoignage de Silverio Ferrari, l’unique actionnaire et l’unique administrateur de la requérante, de l’affidavit et de l’affidavit supplémentaire de Danny Ducas et de l’affidavit et de l’affidavit supplémentaire de Scott Cowell ainsi que de trois pièces[2].
+[3] À l’examen de l’ensemble de la preuve, il en ressort finalement que la requérante demande une prorogation de délai relativement à ce qui suit :
+a) une évaluation datée du 20 mars 2002 concernant des cotisations d’assurance‑emploi et des cotisations au RPC non versées de 4 704 $ (plus les pénalités et les intérêts) à l’égard de l’année d’imposition 2001;
+b) une évaluation datée du 20 mars 2002 concernant des cotisations d’assurance‑emploi et des cotisations au RPC non versées de 392 $ (plus les pénalités et les intérêts) à l’égard de l’année d’imposition 2002[3];
+c) une évaluation datée du 8 janvier 2007 concernant des cotisations d’assurance‑emploi non versées de 66,53 $ (plus les intérêts y afférents) à l’égard de l’année d’imposition 2003;
+d) une évaluation datée du 8 janvier 2007 concernant des cotisations d’assurance‑emploi non versées de 107,42 $ (plus les intérêts y afférents) à l’égard de l’année d’imposition 2004. Les évaluations du 8 janvier 2007 concernent toutes deux Roman Kowalczuk[4].
+Les deux évaluations établies le 20 mars 2002
+[4] Selon l’article 92 de la Loi sur l’assurance‑emploi (la « LAE »), lorsque le ministre du Revenu national (le « ministre ») a évalué une somme payable par l’employeur au titre des cotisations d’assurance‑emploi, l’employeur peut, dans les quatre‑vingt‑dix jours suivant la date à laquelle il reçoit l’avis d’évaluation, demander au ministre de reconsidérer l’évaluation. L’article 27.1 du RPC énonce une règle analogue.
+[5] En ce qui concerne les deux premières évaluations, datées du 20 mars 2002, la requérante a déposé, le 30 mars 2007 ou vers cette date, un avis d’opposition daté du 10 septembre 2006. Le ministre a répondu au moyen d’une lettre datée du 21 août 2008 dans laquelle il disait ne pas accepter l’opposition au motif qu’elle avait été faite hors délai[5].
+[6] Selon le paragraphe 103(1) de la LAE, une personne que concerne une décision rendue au titre de l’article 92 peut interjeter appel devant la Cour canadienne de l’impôt. C’est essentiellement ce que prévoit aussi le paragraphe 28(1) du RPC.
+[7] La lettre datée du 21 août 2008 dans laquelle le ministre a dit qu’il n’acceptait pas l’opposition n’est pas une décision[6].
+[8] Vu ce qui précède et compte tenu du fait que le droit d’appel créé au paragraphe 103(1) de la LAE est un droit d’interjeter appel de la décision du ministre, il n’y a rien dont on puisse interjeter appel devant la Cour et, par conséquent, il n’existe rien à l’égard duquel la Cour pourrait rendre une décision faisant droit à une demande de prorogation de délai[7]. La même conclusion s’impose en vertu du paragraphe 28(1) du RPC.
+[9] Par conséquent, la demande de prorogation de délai relativement aux évaluations datées du 20 mars 2002 doit être rejetée[8].
+Les deux évaluations datées du 8 janvier 2007
+[10] Le 19 octobre 2006, le ministre a envoyé à la requérante une lettre faisant état de sa décision selon laquelle M. Kowalczuk était un employé. À l’audience, la requérante a admis qu’elle ne s’était pas donné la peine de faire appel de cette décision[9].
+[11] Les deux évaluations datées du 8 janvier 2007 représentaient un montant total d’environ 174 $ plus les intérêts. Il n’y a rien dans la preuve qui démontre que la requérante a fait appel de ces deux évaluations auprès du ministre en vertu de l’article 92 de la LAE.
+[11]
+[12] Comme cela a été expliqué plus haut, il ne peut pas y avoir d’appel valide interjeté à la Cour en l’absence d’une décision du ministre. En conséquence, et pour les mêmes motifs que pour les évaluations datées du 20 mars 2002, il n’y a rien qui puisse faire l’objet d’un appel devant la Cour et, par conséquent, il n’existe rien à l’égard duquel la Cour pourrait rendre une décision faisant droit à une demande de prorogation de délai[10].
+[13] La demande concernant les évaluations établies le 8 janvier 2007 sera également rejetée.
+Conclusion[11]
+[14] Pour les motifs exposés ci‑dessus, la demande sera rejetée.
+Signé à Winnipeg (Manitoba), ce 20e jour de janvier 2012.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 18e jour d’avril 2012.
+Erich Klein, réviseur
+RÉFÉRENCE : 2012 CCI 28
+NOS DES DOSSIERS DE LA COUR : 2010-311(EI)APP, 2010-312(CPP)APP
+INTITULÉ DE LA CAUSE : COMPUTER HOSPITAL INC. c. M.R.N.
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 25 mars 2011
+MOTIFS DU JUGEMENT PAR : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 20 janvier 2012
+COMPARUTIONS :
+Représentant de la requérante :
+M. Silverio Ferrari
+Avocat de l’intimé :
+Me Sandra K.S. Tsui
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Ontario
+[1] La requérante a déposé à la Cour de nombreuses pages de copies de documents et d’observations en même temps que sa demande de prorogation de délai datée du 23 janvier 2010; elle a également produit, à d’autres moments, d’autres documents et observations relativement à la présente affaire. Dans toutes ces pages, on ne voit pas très clairement quelles sont les évaluations ou les décisions à l’égard desquelles la requérante demande une prorogation de délai, mais à la page 7 de 27 de la demande, envoyée à la Cour par télécopieur, on peut lire très clairement ce qui suit, sur le formulaire type d’avis d’appel, à la case « Type d’appel » : « Loi sur l’assurance‑emploi, Régime de pensions du Canada ». Plus loin, à la case « Date de la nouvelle cotisation, de la ratification ou de la décision reçue de l’ADRC (jj/mm/aaaa) », la requérante a inscrit la date du « 23/06/2009 ». Il s’agit là d’un renvoi à une lettre, à la page 10 de 27 de la demande, émanant de la Division des appels RPC/AE. Je note également que la requérante a déposé à la Cour une demande séparée relativement à l’impôt sur le revenu; cette demande a été déposée peu de temps avant l’instruction de la présente affaire.
+[2] J’ajouterais que j’ai examiné tous les divers documents que la requérante a déposés auprès de la Cour et, quoique leur contenu ne constitue pas de la preuve, je ferais remarquer que je n’ai rien vu dans ces documents qui aurait modifié l’issue de la demande, même si ces documents avaient constitué de la preuve et que j’avais retenu cette preuve. J’aimerais aussi faire observer que la Couronne a bel et bien fait en sorte que M. Cowell soit disponible à l’audience pour qu’il soit contre‑interrogé par la requérante, mais cette dernière ne s’est pas prévalue de la possibilité de le contre‑interroger.
+[3] Voir l’onglet A de l’affidavit de Danny Ducas. Je voudrais signaler que, bien que les deux évaluations du 20 mars 2002 concernant des cotisations d’assurance‑emploi et des cotisations au RPC aient été communiquées dans le même avis que celui concernant les retenues à la source effectuées au titre de l’impôt sur le revenu, elles constituent, du point de vue juridique, des évaluations séparées établies en vertu de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada, qui sont distinctes des cotisations établies en vertu de la Loi de l’impôt sur le revenu relativement aux retenues à la source.
+[4] Voir l’onglet G de l’affidavit de Scott Cowell.
+[5] Voir les paragraphes 36 et 37 et les onglets M et N de l’affidavit de Danny Ducas.
+[6] Voir Power c. M.R.N., 2005 CCI 200, en particulier au paragraphe 5.
+[7] Voir Wenngatz v. M.N.R., 2009 CCI 454, en particulier au paragraphe 15.
+[8] Je fais remarquer que, même si la lettre du 21 août 2008 avait constitué une décision, je serais parvenu à la même conclusion finale.
+À moins que la requérante n’ait pas été avisée des évaluations, l’avis d’opposition a été manifestement déposé hors délai, et ce serait le cas même s’il avait été déposé le 10 septembre 2006.
+Parfois, la requérante semblait soutenir qu’elle n’avait pas reçu les évaluations. Par exemple, à un moment donné, M. Ferrari a dit : [traduction] « Toutefois, je ne me souviens pas d’avoir reçu des avis d’évaluation pour les années 1998, 1999, 2000, 2001 et 2002. » Voir la transcription à la page 8, lignes 6 à 8. À un autre moment, M. Ferrari a déclaré qu’il n’était pas au courant des évaluations en août 2006. Voir la transcription, de la page 12, ligne 19, à la page 13, ligne 2.
+Dans la mesure où la requérante prétend ne pas avoir reçu les avis d’évaluation, elle n’a pas réussi à me convaincre à cet égard. Je suis convaincu que la requérante a été avisée au moment où les deux avis d’évaluation ont été établis.
+Je ne crois pas M. Ferrari lorsqu’il dit qu’il n’était pas au courant des évaluations en août 2006. En effet, je suis convaincu, pour plusieurs raisons, qu’il était au courant des évaluations « des années » avant septembre 2006.
+Premièrement, dans l’avis d’opposition de la requérante daté du 10 septembre 2006 et signé par M. Ferrari, dans la section où on demande à la personne qui fait opposition d’exposer les faits pertinents et les motifs de l’opposition, il est mentionné, en partie, ce qui suit :
+[traduction]
+Je, Silverio Ferrari, ne devrais pas être tenu responsable par suite de ces évaluations arbitraires établies à l’égard de Computer Hospital Inc.
+La société Computer Hospital Inc. n’a jamais effectué de retenues à la source parce qu’elle n’a jamais eu d’employés salariés. Tous les travaux faits pour Computer Hospital Inc. ou pour son compte ont été effectués de MANIÈRE CONTRACTUELLE.
+C’est ce que j’essaie d’expliquer à l’ARC et à un bon nombre de ses représentants depuis des années maintenant. Malheureusement [...].
+Deuxièmement, il y a eu beaucoup d’interaction entre la requérante et l’ARC, particulièrement dans la période allant du 20 mars 2002 à février 2005. Il y a eu notamment des appels téléphoniques, des lettres et, en particulier, une réunion tenue le 13 juin 2003 entre deux agents de l’ARC et M. Ferrari pour discuter des retenues à la source de la requérante. L’ARC voulait effectuer un examen des comptes en fiducie et avait des difficultés à obtenir les livres et documents comptables. Il est inconcevable qu’au cours d’une telle réunion il n’aurait pas été question des avis d’évaluation; à ce moment-là, une évaluation d’environ 60 000 $ avait été établie à l’égard de la requérante concernant des retenues à la source, dont la plupart étaient des retenues d’impôt sur le revenu. Voir les paragraphes 17 à 26 de l’affidavit de Danny Ducas. De manière plus générale, l’affidavit révèle que la requérante avait tendance à reporter la production de documents demandés par l’ARC. De plus, la requérante avait été constituée en société le 6 décembre 1996. Les déclarations de revenus des sociétés de la requérante pour les années 1998, 1999, 2000 et 2001 avaient été produites le 5 mai 2003; celles pour les années 2002, 2003 et 2004 avaient été produites le 27 octobre 2006.
+Cette conclusion est compatible avec l’allégation à la première page, au quatrième paragraphe, de la demande de prorogation de délai présentée par la requérante et datée du 23 janvier 2010 (page 2 de 27 des pages envoyées par télécopieur), où il est déclaré ce qui suit : [traduction] « Durant la période de l’évaluation initiale, j’étais beaucoup trop préoccupé pour accorder toute mon attention aux subtilités des évaluations établies par l’ARC et des délais s’y rapportant. »
+En conséquence, l’avis d’opposition avait été déposé hors délai.
+[9] Voir la transcription, de la page 25, ligne 3, à la page 26, ligne 2.
+[10] Je fais remarquer également que, à la deuxième page de la demande de prorogation de délai de la requérante (page 3 de 27 des pages envoyées par télécopieur), aux quatre premiers paragraphes, il est affirmé ce qui suit à l’égard de M. Kowalczuk :
+[traduction]
+Je ne me suis pas donné la peine de faire appel de la décision prise par la femme ou de l’évaluation subséquente […] pour les raisons suivantes :
+1. Le montant en question était tellement insignifiant que cela ne valait pas la peine.
+[...]
+[11][11] La requérante a présenté un argument relatif à la [traduction] « règle de la possibilité raisonnable de découvrir ». Bien qu’aucune décision précise n’ait été mentionnée, dans les observations écrites de la requérante intitulées [traduction] « Défense concernant la prorogation de délai », il y a la citation suivante : « […] une cause d’action prend naissance, aux fins de la prescription, lorsque les faits importants sur lesquels repose cette cause d’action ont été découverts par le demandeur ou auraient dû l’être s’il avait fait preuve de diligence raisonnable; [...]. » Cette citation semble être tirée de l’arrêt Central Trust Co. c. Rafuse, [1986] 2 R.C.S. 147, à la page 224. Ce n’est pas le critère en l’espèce. Toutefois, si ce l’était, le fait pertinent qui devrait être découvert serait l’existence des évaluations, et la requérante était au courant de leur existence depuis le moment où les évaluations avaient été établies; en outre, même si la requérante n’avait pas été au courant des évaluations, je suis convaincu que l’existence des évaluations datées du 20 mars 2002 aurait pu être découverte, si on avait fait preuve de diligence raisonnable, au plus tard en juin 2003. Voir les paragraphes 1 à 19 de l’affidavit de Danny Ducas.

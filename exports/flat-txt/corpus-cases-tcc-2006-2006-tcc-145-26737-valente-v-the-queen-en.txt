@@ -1,0 +1,118 @@
+Title: Valente v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26737/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-145-26737-valente-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-03-09
+
+# Valente v. The Queen
+
+- Citation: 2006 TCC 145
+- Decision date: 2006-03-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3418, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Valente v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-09
+Neutral citation
+2006 TCC 145
+File numbers
+2005-2411(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2411(IT)I
+BETWEEN:
+LINDA E. VALENTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 21, 2006 at Vancouver, British Columbia
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Selena Sit
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of an assessment made under the Income Tax Act for the 2003 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to the tuition tax credit under section 118.5 of the Act.
+Signed at Toronto, Ontario, this 8th day of March, 2006.
+"J. Woods"
+Woods J.
+Citation: 2006TCC145
+Date: 20060309
+Docket: 2005-2411(IT)I
+BETWEEN:
+LINDA E. VALENTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This is an appeal by Linda Valente in respect of an assessment under the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), as amended, for the 2003 taxation year. In the assessment, the Minister disallowed a tax credit in respect of tuition fees paid to a university in England that provides online courses. The amount of tuition and incidental fees at issue is $11,084.46.
+[2] The question to be decided concerns the meaning of "full-time attendance" for purposes of determining eligibility for the tuition tax credit in respect of a university outside Canada in paragraph 118.5(1)(b) of the Act. The relevant part of the provision reads:
+(b) where the individual was during the year a student in full-time attendance at a university outside Canada in a course leading to a degree, an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual's tuition paid in respect of the year to the university, except any such fees
+(i) paid in respect of a course of less than 13 consecutive weeks duration, [...]
+(Emphasis added)
+[3] In 2002 Ms. Valente, a resident of Vancouver, decided to undertake a post-graduate degree. After extensive research on programs that would suit her career goals, she decided to enrol at Open University in England in a program leading to a Masters of Science in Manufacturing, Management and Technology.
+[4] Ms. Valente testified that the program that she enrolled in was not available in Canada and that the online format suited her because she is raising a young family in Vancouver and she did not have to move.
+[5] Ms. Valente decided to try the program on a part-time basis first and maintained a consulting business during this period. Once she was satisfied with the program, she terminated her consulting practice and enrolled on a full-time basis. The full-time course load involved two courses each semester starting in May and November, 2003. Ms. Valente must now complete a dissertation in order to earn the masters degree and this is expected to take about a year.
+[6] Open University was described by Ms. Valente as a leader in online education and she described their teaching methods as follows. At the start of each semester, students are provided with books and software materials and an outline of course requirements, including deadlines for assignments. Although there are no lectures as such, demonstrations and other visual presentations are provided in CD format. All students are given access to a dedicated online connection similar to a "chatroom" for each course so that issues can be discussed among the students and with the tutors. Exams are supervised and Ms. Valente arranged to write her exams at the University of British Columbia.
+Analysis
+[7] The phrase "full-time attendance" in s. 118.5(1)(b) has been the subject of considerable judicial comment. The earlier cases focussed on the meaning of "full-time," which is not in dispute in this appeal. Pratte J. of the Federal Court of Appeal described full-time as being a "difficult expression and one which it may be impossible to define exactly": The Queen v. Gaudet, 71 D.T.C. 5047.
+[8] More recently, this Court has considered the meaning of "attendance" in the context of distance education programs such as that taken by Ms. Valente. The question is whether the expression "full-time attendance" requires physical presence at a university campus and the decisions of this Court are not unanimous on this point. I note that all of the decisions that I was referred to were heard under the Court's Informal Procedure and are not precedent setting. This is also true of the current appeal.
+[9] The first published decision on the issue appears to be Hlopina v. The Queen, [1998] 2 C.T.C. 2669 (T.C.C.), in which Bowie J. reluctantly concluded that physical presence at a university is necessary for purposes of s. 118.5(1)(b). The decision, however, was not based on the word "attendance," which Justice Bowie viewed as ambiguous. Rather, it was based on the French version, which uses the word "fréquente," which the judge interpreted as requiring physical presence.
+[10] The Hlopina decision was subsequently followed by McArthur J. in Clevelandv. The Queen, 2004 D.T.C. 2199 (T.C.C.), which involved internet courses similar to those taken by Ms. Valente.
+[11] Shortly thereafter, the same issue arose in Krause v. The Queen, 2004 D.T.C. 3265 (T.C.C.), but Bowman C.J. did not have to decide the point because the appeal was from a nil assessment and had to be dismissed on that ground. Nevertheless, the Chief Justice took the unusual step of writing considered reasons in obiter which expressed strong reservation about an interpretation which denied the tax credit for internet courses.
+[12] Bowman C.J. considered both the English and French versions of the legislation and their context. In regard to the English version, he noted that applying the word "attend" to someone who participates electronically by way of the internet is consistent with its meaning. As for the French version, he disagreed with the earlier decisions and held that the word "fréquente" was just as ambiguous as "attendance."
+[13] Although the Chief Justice reasoned that the matter was not clear, he thought that the common sense result was in the taxpayer's favour. At para. 24 he stated:
+It is obvious therefore that the matter is by no means clear-cut. Although I need not decide the point since the appeal must be dismissed in any event because it is from a nil assessment, I think it is strongly arguable that full-time attendance at a foreign university can include full-time attendance through the internet or on-line as is the case here. That view conforms to common sense and to the reality of modern technology. If there continues to be doubt on the point Parliament should move to resolve that doubt.
+[14] Very recently, Rip J. had to consider the meaning of the word "commute" in the context of internet courses: Yankson v. The Queen, 2005 D.T.C. 1709. The judge reluctantly found that the word "commute" requires physical presence but he also expressed the view in obiter that the word "attendance" should be given a broader interpretation and that s. 118.5(1)(b) should apply to internet courses.
+[15] Unlike the judges in Krause and Yankson, I am required in this appeal to make a finding as to whether s. 118.5(1)(b) requires physical presence at a university. With the assistance of the prior decisions, I have little hesitation in finding that it does not. The expression "full-time attendance" is ambiguous and in my view it should be interpreted liberally to include programs that require the "attention" of the student on a full-time basis, such as the online program taken by Ms. Valente.
+[16] In Hlopina, Bowie J. felt bound to give meaning to the French version which he viewed as clear and unambiguous. The Krause decision calls that into question. In this appeal, the respondent did not provide any argument on the meaning of the word "fréquente." In that circumstance I see no reason to depart from the conclusion of the Chief Justice in Krause that the meaning of the French version is also ambiguous.
+[17] Denying the tax credit in Ms. Valente's circumstances does not provide a fair and liberal interpretation of the provision that is reasonable in the context of the tuition tax credit. Parliament is certainly entitled to require a student's physical presence at a foreign university for purposes of the credit. The legislation does not clearly provide that requirement, however, and I do not think that it should be inferred from a narrow interpretation of the expression "full-time attendance."
+[18] The appeal is allowed, with costs.
+Signed at Toronto, Ontario, this 8th day of March, 2006.
+"J. Woods"
+Woods J.
+CITATION:
+2006TCC145
+COURT FILE NO.:
+2005-2411(IT)I
+STYLE OF CAUSE:
+Linda E. Valente and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+February 21, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+March 8, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Selena Sit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

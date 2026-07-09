@@ -1,0 +1,171 @@
+---
+title: "Middleton v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27687/index.do"
+last_modified: "2004-02-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 120"
+citation2: ""
+neutral_citation: "2004 TCC 120"
+decision_date: "2004-02-05"
+language: "en"
+item_id: "27687"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 506
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:50:42.244000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "de01945915483caf1b24ce77dd74d390f188544c96fc205216c9c35634e2d92d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Middleton v. The Queen
+
+- Citation: 2004 TCC 120
+- Decision date: 2004-02-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 506, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Middleton v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-05
+Neutral citation
+2004 TCC 120
+File numbers
+2002-4475(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4475(IT)I
+BETWEEN:
+IAN MIDDLETON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+LESLEY MIDDLETON,
+Third party.
+____________________________________________________________________
+Appeal heard on November 21, 2003 at Toronto, Ontario
+Before: The Honourable Justice Brent Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Third Party:
+Neil P. Gill
+Counsel for the Respondent:
+Lorraine Edinboro
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of the reassessment made under the Income Tax Act for the 2000 taxation year is dismissed.
+Signed at Ottawa, Canada, on this 5th day of February 2004.
+"Brent Paris"
+Paris, J.
+Citation: 2004TCC120
+Date: 20040205
+Docket: 2002-4475(IT)I
+BETWEEN:
+IAN MIDDLETON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+LESLEY MIDDLETON,
+Third party.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] Mr. Ian Middleton is appealing the disallowance of deductions totalling $11,375 in his 2000 taxation year, which he claimed in respect of child support payments made to his ex-spouse, Ms. Lesley Middleton. Ms. Middleton was joined as a party to the appeal pursuant to subsection 174(1) of the Income Tax Act (the "Act") at the request of the Respondent.
+[2] The issue in this appeal is whether the payments made by Mr. Middleton were made pursuant to an agreement entered into with his ex-spouse in 1987 or pursuant to a subsequent agreement dated August 22, 2000. If the payments were paid under the former agreement, the parties are in agreement that the payments would be deductible to Mr. Middleton in accordance with paragraph 60(b) of the Act. If the payments were made under the latter agreement the payments would not be deductible.
+[3] Mr. and Ms. Middleton were married in 1982 and had a son in 1984. They separated in 1987. By a written agreement dated September 30, 1987 Mr. Middleton agreed to pay Ms. Middleton child support of $300 per month. He paid the child support for approximately four years, and then ceased. He had remarried and had children by his second spouse at that time.
+[4] In April 2000 Ms. Middleton, through her solicitor, advised Mr. Middleton that he was in arrears of child support in the amount of $26,400 and that she wished to resolve the matter. Subsequently, on August 22, 2000 Mr. and Ms. Middleton entered into a written agreement by which he agreed to pay her $10,000 "in full satisfaction of any and all arrears of child support" up to June 30, 2000. He also agreed to pay her child support of $275 per month commencing July 1, 2000.
+[5] Mr. Middleton testified that, in the discussions he had with Ms. Middleton's lawyer concerning the resolution of the arrears issue, he was told that he would be able to deduct the arrears payment and that the original agreement did not need to be changed. He said that he was aware that if the agreement were altered that he would not be able to claim the amounts as deductions.
+[6] Ms. Middleton did not include the support payments she received from Mr. Middleton in 2000 in her income tax return. She testified that she never witnessed any discussion between her lawyer and Mr. Middleton in which he was told that the support payments would be deductible to him.
+[7] The position of the Minister in this case is that the $10,000 payment made under the August 22, 2000 agreement was a final settlement in regard to the arrears owed by Mr. Middleton and that it was not paid as an allowance on a periodic basis for the maintenance of the child of the marriage as required under paragraph 60(b) of the Act.
+Paragraph 60(b) of the Act read as follows:
+There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer's income for a preceding taxation year;
+[8] The terms "child support amount" and "support amount" are defined in subsection 56.1(4) of the Act:
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a natural parent.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[9] Counsel relied on the decision of this Court in Widmer v. Canada, [1995] T.C.J. No. 1115 (Q.L.). There, the taxpayer accepted a $15,000 settlement from her former spouse in lieu of the $50,590 owed to her for outstanding child support payments. The Minister included the $15,000 in the taxpayer's income. The taxpayer argued that the payment was neither a periodic payment nor a maintenance payment but was a lump sum settlement and therefore was not to be included in her income. My colleague stated at paragraph 15 that:
+... When the amount actually received ($15,000) is so different from and so much smaller than the amount owed ($50,590), I cannot regard the amount received as having the same character as the amount owed. In other words, I cannot regard the $15,000 amount received by the Appellant as having been received for the maintenance of the three children. In my opinion, this small amount was paid by David in one lump sum firstly, to obtain a release from his very real liability to pay the remaining $35,590, and secondly, to obtain a reduction in the aggregate amount of his monthly maintenance payments from $795 per month to $600 per month. In summary, the $15,000 amount was paid to obtain a release from existing obligations and a reduction in future obligations, and not for the maintenance of the three children.
+[10] The evidence in this case is that Mr. Middleton paid $10,000 in order to obtain a release of his obligation to pay support arrears of $26,400, and to obtain a reduction in the monthly support payments to $275 from $300. The wording of the 2000 agreement supports this conclusion. The amount was not paid for the maintenance of their child and therefore does not fall within the definition of "support amount" found in the Act. It is not relevant that Mr. Middleton did not intend to vary the tax treatment of the support amount. The definition of the term "support amount" is clear and does not include an amount that is not paid on a periodic basis for the maintenance of a former spouse or child of the recipient.
+[11] Even if I had found that the payments made by Mr. Middleton in 2000 were support amounts, they still would not have been deductible to him because the August 22, 2000 agreement varied the terms of the 1987 agreement in terms of the amount of the monthly support payments Mr. Middleton was obligated to make. The fact that the earlier agreement was varied after May 1997 caused the agreement to have a "commencement day", pursuant to subsection 56.1(4) of the Act which reads (in part):
+"commencement day" at any time of an agreement or order means
+(a) ...
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+...
+[12] The 2000 agreement required the first payment of the revised child support amount on July 1, 2000. This would be the commencement day of the agreement, and amounts that became payable after this date are not deductible to the payor. The $10,000 payment in issue became payable forthwith after the execution of the agreement in August 2000, which is after its commencement day and therefore it would not be deductible from the Appellant's income by reason of paragraph 60(b) of the Act.
+[13] The appeal is therefore dismissed.
+Signed at Ottawa, Canada, on this 5th day of February 2004.
+"Brent Paris"
+Paris, J.
+CITATION:
+2004TCC120
+COURT FILE NO.:
+2002-4475(IT)I
+STYLE OF CAUSE:
+Ian Middleton v. The Queen and Lesley Middleton (Third party)
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 21, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+February 5, 2004
+APPEARANCES:
+For the Appellant
+The Appellant himself
+Counsel for the Third party Lesley Middleton:
+Neil P. Gill
+Counsel for the Respondent:
+Lorraine Edinboro
+COUNSEL OF RECORD:
+For the Appellant
+Name:
+Firm:
+For the Third Party
+Name:
+Neil P. Gill
+Firm:
+Black Sutherland
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,164 @@
+Title: Carreau c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25632/index.do
+Corpus path: corpus/cases/tcc/2004/2006-cci-20-25632-carreau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-10-20
+
+# Carreau c. La Reine
+
+- Citation: 2006 CCI 20
+- Decision date: 2004-10-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2438, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carreau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-20
+Référence neutre
+2006 CCI 20
+Numéro de dossier
+2002-4205(IT)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4205(IT)G
+ENTRE :
+FRANÇOIS CARREAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 20 octobre 2004 à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Sylvain Dorais
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établi en vertu de l'article 160 de Loi de l'impôt sur le revenu dont l'avis porte le numéro 24693 et est daté du 22 octobre 2001, est rejeté, avec frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour de janvier 2006.
+« Paul Bédard »
+Juge Bédard
+Référence : 2006CCI20
+Date : 20060119
+Dossier : 2002-4205(IT)G
+ENTRE :
+FRANÇOIS CARREAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Par voie d'avis de cotisation daté du 22 octobre 2001, le ministre du Revenu national (le « ministre » ) a réclamé de l'appelant le paiement d'une somme de 29 095,27 $ conformément à l'article 160 de la Loi de l'impôt sur le revenu (la « Loi » ).
+[2] L'appelant est un informaticien qui a constitué la société par actions 9043-5769 Québec inc. ( « 9043 » ) au mois de novembre 1996. L'appelant était le seul actionnaire, administrateur et dirigeant de 9043 pendant les années d'imposition 1998, 1999 et 2000. Pendant la période pertinente, 9043 a obtenu des contrats de sous-traitance d'une seule société, soit Sodéfi informatique inc. ( « Sodéfi » ). Les contrats de sous-traitance obtenus de Sodéfi concernaient un seul et unique client, soit Hydro-Québec ( « Hydro » ). Pendant cette même période, l'appelant était le seul travailleur de 9043.
+[3] Le ministre a déterminé que 9043 était une entreprise de prestation de services personnels tel que définie au paragraphe 125(7) de la Loi et de nouvelles cotisations furent émises à l'encontre de 9043 le 16 mai 2001, afin de refuser la déduction pour petites entreprises à l'égard des années d'imposition 1998, 1999 et 2000 :
+i) 1998 - 10 316 $
+ii) 1999 - 12 219 $
+iii) 2000 - 1 239 $
+[4] Le 31 mai 2001 ou vers cette date, 9043 faisait faillite.
+[5] Durant les années d'imposition 1998, 1999 et 2000, l'appelant avait reçu de 9043 des dividendes totalisant les sommes respectives de 56 783 $, de 70 525 $ et de 58 600 $. L'appelant avait inclus, dans le calcul de son revenu pour les années d'imposition 1998, 1999 et 2000, les sommes respectives de 73 978 $, de 88 156 $ et de 73 250 $ à titre de dividendes majorés.
+[6] Le ministre a considéré que le paiement de ces dividendes par 9043 constituait un transfert de biens au sens de l'article 160 de la Loi et, le 22 octobre 2001, il a tenu l'appelant solidairement responsable de payer une somme égale à la dette fiscale de 9043 à l'égard des années d'imposition 1998, 1999 et 2000; les exercices de la société se terminaient le 31 octobre de chacune de ces années.
+[7] Essentiellement, l'appelant conteste le bien-fondé des nouvelles cotisations émises à l'encontre de 9043 le 16 mai 2001 en soutenant que cette dernière n'était pas une entreprise de prestation de services personnels mais bien une entreprise exploitée activement et qu'ainsi elle avait droit à la déduction pour petites entreprises. Aussi, il prétend qu'il ne peut être tenu solidairement des dettes fiscales impayées de 9043 pour la période pertinente puisque le ministre a refusé à tort à 9043e la déduction pour petites entreprises à l'égard des années d'imposition 1998, 1999 et 2000.
+[8] La seule question en litige dans la présente affaire est la suivante : est-ce que 9043 était une entreprise de prestation de services personnels au sens du paragraphe 125(7) de la Loi pendant la période pertinente?
+[9] La partie pertinente du paragraphe 125(7) de la Loi se lisait comme suit :
+« entreprise de prestation de services personnels »
+« entreprise de prestation de services personnels » S'agissant d'une entreprise de prestation de services personnels exploitée par une société au cours d'une année d'imposition, entreprise de fourniture de services dans les cas où :
+a) soit un particulier qui fournit des services pour le compte de la société - appelé « employé constitué en société » à la présente définition et à l'alinéa 18(1)p);
+b) soit une personne liée à l'employé constitué en société,
+est un actionnaire déterminé de la société, et où il serait raisonnable de considérer l'employé constitué en société comme étant un cadre ou un employé de la personne ou de la société de personnes à laquelle les services sont fournis, si ce n'était de l'existence de la société, à moins :
+c) soit que la société n'emploie dans l'entreprise tout au long de l'année plus de cinq employés à temps plein;
+[...]
+[10] Pour déterminer si 9043 était, pendant la période pertinente, une entreprise de prestation de services personnels au sens du paragraphe 125(7) de la Loi, il faudra déterminer s'il aurait été raisonnable, en l'espèce, de considérer l'appelant constitué en société comme étant un employé d'Hydro, à laquelle les services avaient été fournis, n'eût été de l'existence de 9043.
+[11] Sodéfi, une entreprise de services informatiques, obtenait en 1999 un contrat d'Hydro (le « contrat » ) selon lequel elle s'engageait à rendre à cette dernière des services d'analyse et de programmation dans le langage informatique « Focus » . Le 23 mars 1999, Sodéfi et 9043 signaient une entente (le « sous-contrat » ) selon laquelle 9043 s'engageait à réaliser le contrat. Le sous-contrat stipulait que 9043 devait retenir les services de l'appelant pour réaliser les mandats qui lui avaient été ainsi confiés par Sodéfi. La durée du sous-contrat était d'un an. Le sous-contrat prévoyait qu'il prendrait fin automatiquement lors de la fin du contrat, et que dans cette éventualité aucun recours, de quelque nature que ce soit, ne pourrait être exercé par 9043 en raison de la fin du sous-contrat. Le sous-contrat prévoyait aussi que si Hydro était d'avis que 9043 n'exécutait pas ses obligations à son entière satisfaction, Sodéfi pourrait mettre fin au sous-contrat, sans préavis ou indemnité. Le sous-contrat qui devait ainsi se terminer le 31 mars 2000 a toutefois été renouvelé à plusieurs reprises. Selon les termes du sous-contrat, Sodéfi devait verser à 9043 des honoraires de 55 $ l'heure pour chaque heure de travail de l'appelant pour Hydro. La méthode de paiement était la suivante : Sodéfi payait 9043 pour le travail effectué par l'appelant sur réception d'un état de compte détaillant le travail et les heures réelles de travail de l'appelant pour un mois donné. La société 9043 devait faire parvenir mensuellement son état de compte à Sodéfi dans les cinq jours ouvrables qui suivaient la fin de chaque mois. Enfin, le sous-contrat prévoyait que, pour protéger la position de Sodéfi auprès de ses clients, 9043 et l'appelant n'accompliraient pas de travaux semblables pour Hydro pendant l'année suivant la fin du sous-contrat.
+[12] On peut donc affirmer que c'est 9043 qui rendait les services à Hydro à titre de sous-contractant de Sodéfi. Alors, n'eût été de l'existence de 9043, c'est l'appelant qui aurait rendu les services à Hydro à titre de sous-contractant de Sodéfi. La question qu'il faut maintenant se poser est la suivante : n'eût été de l'existence de 9043, est-ce qu'il serait raisonnable de considérer l'appelant comme un employé d'Hydro, à laquelle les services ont été rendus? Pour répondre à cette question, il faudra déterminer essentiellement s'il y avait ou non un lien de subordination « de facto » entre l'appelant et Hydro, car on peut dire qu'au Québec, ce qui distingue fondamentalement un entrepreneur d'un employé est l'absence, dans le premier cas, d'un lien de subordination entre le prestataire de services et le client et la présence, dans le second cas, du droit de l'employeur de diriger et de contrôler l'employé. En effet, il faut se rappeler que quand les tribunaux ont à définir des notions de droit privé québécois aux fins de l'application d'une loi fédérale, ils doivent se conformer à la règle d'interprétation à l'article 8.1 de la Loi d'interprétation du Canada. Ainsi, pour distinguer un entrepreneur d'un employé, on est tenu, du moins depuis le 1er juin 2001, de se fonder sur les dispositions pertinentes du Code civil du Québec (C.C.Q.). Ces règles sont incompatibles avec les règles énoncées dans des arrêts comme Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, et 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983. Contrairement à la situation en common law, les éléments constitutifs des contrats de travail ont été codifiés et les tribunaux n'ont plus, depuis l'entrée en vigueur de l'article 2085 C.C.Q. et de l'article 2099 C.C.Q., le 1er janvier 1994, la latitude qu'ont les tribunaux de common law pour définir ce qui constitue un contrat de travail ou un contrat d'entreprise. S'il est nécessaire de s'appuyer sur des décisions jurisprudentielles pour déterminer si l'appelant a rendu « de facto » des services à Hydro à titre d'employé ou d'entrepreneur, il faudra choisir celles qui ont appliqué une approche conforme aux principes de droit civil.
+[13] L'appelant a donc le fardeau de faire la preuve, selon la prépondérance des probabilités, de l'absence d'un lien de subordination entre lui et Hydro. Pour ce faire, des indices d'autonomie tels que ceux qui ont été utilisés dans l'affaire Wiebe Door, précitée, soit la propriété des outils et le risque de perte ou la possibilité de profit, pourront être utilisés pour démontrer qu'il y avait absence de lien de subordination entre l'appelant et Hydro. Bien que ces indices d'autonomie ne sont pas des éléments essentiels à un contrat de service, ils peuvent toutefois être très révélateurs à l'égard de l'absence d'un lien de subordination.
+Le travail de l'appelant pour Hydro
+[14] L'appelant a témoigné qu'il était un analyste-programmeur spécialiste du langage « Focus » et qu'à ce titre, il avait élaboré des applications informatiques pour certains services d'Hydro (le « client » ). Il a expliqué qu'il avait aussi élaboré des bases de données pour le client et, enfin, qu'il avait remis des rapports de gestion.
+[15] L'appelant a témoigné qu'Hydro faisait appel à des consultants pour des projets précis qui nécessitaient une expertise absente chez ses employés. Monsieur Pierre Lortie, un employé d'Hydro qui travaillait avec l'appelant, a témoigné dans le même sens. L'appelant a expliqué que ses services avaient été retenus par Hydro parce que ses employés n'avaient pas l'expertise nécessaire dans le langage « Focus » pour réaliser ces projets. Il a ajouté que 50 pour cent des membres de l'équipe informatique à laquelle il avait été affecté étaient des consultants. Monsieur Lortie a témoigné dans le même sens.
+[16] L'appelant a relaté que les mandats étaient assignés à l'appelant de la façon suivante : monsieur Phaneuf (le patron de l'équipe informatique pour laquelle il travaillait) lui demandait de rencontrer le client qui avait un projet informatique à réaliser. Lors de ces rencontres, le client expliquait à l'appelant la nature du projet et lui demandait son avis quant au nombre d'heures nécessaires à la réalisation du projet. Par la suite, le client déterminait l'échéancier du projet et en avisait monsieur Phaneuf. L'appelant a expliqué qu'il n'avait participé à aucune décision quant à l'aspect budgétaire du projet, cet aspect faisant l'objet de discussions entre monsieur Phaneuf et le client.
+[17] L'appelant a expliqué que personne ne lui disait comment faire le travail qu'il devait exécuter, car personne chez Hydro n'avait vraiment la compétence et l'expertise pour le diriger. En fait, il faisait généralement son travail seul, bien qu'il ait été appelé à communiquer avec les employés d'Hydro.
+[18] L'appelant a témoigné que pour faire son travail, il pouvait utiliser un ordinateur fourni par Hydro. Pour des motifs de sécurité, il ne pouvait avoir accès à cet ordinateur que s'il était dans les locaux d'Hydro. Il a expliqué qu'il aurait pu faire l'essentiel de son travail à sa résidence, avec son propre ordinateur, si Hydro lui avait permis d'accéder chez lui aux banques de données. Les motifs de sécurité invoqués par Hydro interdisaient de faire ainsi.
+[19] L'appelant a relaté qu'il devait respecter, à toutes fins utiles, le même horaire de travail que les employés d'Hydro qui faisaient partie de son équipe de travail de façon à pouvoir communiquer avec eux. Toutefois, il a expliqué qu'il avait travaillé, en plus des heures de travail prévues dans cet horaire, pendant de nombreuses heures, et ce, même les fins de semaine, de façon à respecter les échéanciers des clients. Il a révélé qu'il devait aviser monsieur Phaneuf en cas d'absence en raison de maladie. Il a témoigné qu'avant de prendre des congés, il devait aviser le client, monsieur Phaneuf et Sodéfi. Enfin, il a expliqué que pendant toute la période où il avait rendu des services à Hydro, il n'avait pas pris de vacances prolongées. Tout au plus avait-il pris à l'occasion quelques jours de congé pour prolonger les fins de semaine.
+[20] L'avocat de l'intimée a admis que les conditions de travail de l'appelant étaient fort différentes de celles des employés d'Hydro qui faisaient partie de son équipe de travail. En effet, contrairement à ces employés, l'appelant n'avait pas droit à des vacances payées ou à des congés de maladie payés et il ne participait à aucun régime de retraite. Il ne bénéficiait pas d'avantages sociaux. De plus, il ne savait pas quand son travail se terminerait et il n'avait aucune promesse de contrats à venir; enfin, il ne faisait partie d'aucun syndicat.
+Analyse
+[21] Je déterminerai maintenant l'existence ou non d'un lien de subordination entre Hydro et l'appelant à la lumière de la preuve soumise. En l'espèce, la preuve a révélé qu'une fois que le mandat était donné à l'appelant et que l'échéancier du mandat était déterminé, c'était à l'appelant de décider comment il allait procéder. Il ressort aussi de la preuve que personne chez Hydro n'avait la compétence et l'expertise pour contrôler l'appelant. Nous faisons donc face encore une fois à une situation où les compétences et l'expertise du travailleur excèdent celles du donneur d'ouvrage, donc à une situation où le donneur d'ouvrage peut exercer peu de contrôle sur la façon dont le travail doit être exécuté. Le fait qu'une tâche ait été donnée à l'appelant et qu'un échéancier lui ait été imposé n'établissait sûrement pas, à mon avis, un lien de subordination. En effet, ne retrouvons-nous pas les mêmes exigences dans un contrat d'entreprise? La preuve est donc concluante, à mon avis, sur le fait qu'Hydro ne donnait pas ou donnait peu de directives à l'appelant sur la manière de faire le travail (le « comment » ). Toutefois, il ne faut pas conclure pour autant qu'il n'y a pas de lien de subordination tout simplement parce que le donneur d'ouvrage exerçait peu de contrôle sur le « comment » , étant donné que l'expertise et les compétences du travailleur dépassent celles du donneur d'ouvrage. Ainsi, un chercheur qui bénéficie pourtant d'une grande liberté quant à l'exécution de son travail peut tout de même faire l'objet d'un lien de subordination. Dans un tel cas, le lien de subordination peut se traduire par l'imposition de règles de conduite ou par les directives du donneur d'ouvrage sur l'endroit où les travaux doivent être exécutés et sur le moment et le délai dans lequel le travail doit être effectué. Ce lien de subordination peut aussi se traduire par un degré élevé d'intégration du travailleur aux activités du donneur d'ouvrage, ce qui est en soi un indice de lien de subordination.
+[22] Est-ce qu'Hydro donnait ou pouvait donner des directives sur l'endroit où les travaux devaient être exécutés? Le témoignage de l'appelant à cet égard mérite d'être cité[1] :
+Q. Quel était votre lieu de travail ou l'emplacement où vous travailliez?
+R. Bien, principalement, à Crémazie.
+Q. Le même endroit où monsieur...
+R. Oui.
+Q. ... que monsieur Lortie a décrit tout à l'heure?
+R. Oui.
+Q. Est-ce qu'il y avait d'autres endroits?
+R. Des fois, parce qu'il y avait différents secteurs. Des fois, j'ai souvent travaillé au secteur Richelieu qui est à Saint-Bruno. J'ai travaillé aussi au siège social, l'édifice, là, avec le signe d'Hydro.
+Q. René-Lévesque?
+R. J'ai travaillé aussi dans le secteur Ouest, ça fait que, c'est ça.
+Q. Qu'est-ce qui déterminait l'endroit où vous travailliez, est-ce que c'était le client? Monsieur Phaneuf? Vous-même?
+R. Bien, dépendant où le client était, des fois, j'avais à me déplacer puis des fois, je travaillais sur place, mettons, au secteur Richelieu, je travaillais à Saint-Bruno. J'étais là quatre jours semaine, j'étais à Saint-Bruno puis une journée, j'étais à mon bureau à Crémazie.
+[...]
+Q. Est-ce que vous pouviez travailler à partir de votre domicile?
+R. Oui, j'étais connecté à la centrale via un modem mais c'était assez, c'était plutôt rare qu'on le faisait parce que les données, c'étaient des données confidentielles puis Hydro n'était pas à l'aise à ce qu'on ait accès en dehors, bien, du bureau, à ces données-là.
+[23] Le fait que le travail ne pouvait généralement pas être exécuté à la résidence de l'appelant n'a pas pour effet de m'amener à conclure en soi que l'appelant était un employé. Cette exigence était plutôt dictée par des raisons de sécurité (confidentialité des données). Toutefois, l'obligation faite à l'appelant de répondre fréquemment à des convocations d'Hydro et de rendre des services aux différents endroits assignés par cette dernière m'apparaît une indication d'un lien de subordination, bien que cette obligation ne soit pas à elle seule décisive. Cette obligation de travailler dans les différents locaux d'Hydro de façon à ce que l'appelant puisse communiquer avec les employés d'Hydro illustre également une certaine intégration de l'appelant aux activités d'Hydro.
+[24] Est-ce qu'Hydro donnait ou pouvait donner des directives sur le moment où le travail devait être effectué? Le témoignage de l'appelant à cet égard mérite d'être cité[2] :
+Q. Quant à l'horaire de travail maintenant, pouvez-vous décrire votre horaire de travail?
+R. Bien comme...
+Q. Monsieur Lortie.
+R. Monsieur Lortie, il fallait être là, je crois entre neuf heures et demie (9 h 30) et onze heures et demie (11 h 30) et entre une heure et demie (1 h 30) et trois heures et demie (3 h 30) l'après-midi.
+Q. Puis ça, c'était obligatoire?
+R. Bien, c'est parce que, écoutez, c'est les heures, c'étaient les heures du client. Nous autres, on « dealait » avec les clients, ça fait qu'on pouvait, ce n'était pas la nuit qu'il fallait se présenter, là. Il fallait se présenter aux heures où le client était là.
+Q. Et pour le reste du temps, parce que, bon?
+R. Ah, bien, ça, c'était flexible, moi, des fois, je rentrais à sept heures et demie (7 h 30), des fois, je rentrais à neuf heures et demie (9 h 30). Des fois, une journée, je pouvais faire neuf heures, une autre journée, je pouvais faire six heures, ainsi de suite.
+Il ressort de la preuve qu'Hydro donnait des directives à l'appelant relativement au respect d'un horaire déterminé. Ces directives comportaient l'obligation d'être disponible à certaines heures, mais prévoyaient aussi le contrôle des heures de travail au moyen de feuilles de temps et d'une horloge de pointage[3]. Ces faits ne démontrent sûrement pas l'inexistence d'un lien de subordination entre l'appelant et Hydro.
+[25] De plus, Hydro imposait des règles de conduite à l'appelant. En effet, la preuve a révélé que l'appelant devait aviser monsieur Phaneuf en cas d'absence en raison de maladie. De plus, l'appelant a témoigné qu'avant de prendre un congé, il devait aviser monsieur Phaneuf. Est-ce qu'un entrepreneur aurait pu avoir les mêmes contraintes? J'en doute. Généralement, un entrepreneur n'a pas à demander la permission d'un donneur d'ouvrage pour s'absenter ou prendre des vacances. L'entrepreneur détermine généralement lui-même ses vacances et ses absences. Sa seule obligation est de respecter l'échéancier.
+[26] À mon avis, l'appelant a accepté de s'intégrer au cadre de fonctionnement d'Hydro pour la faire bénéficier de son travail. En l'espèce, l'appelant a consacré à un seul payeur environ 40 heures de travail par semaine à longueur d'année, et ce, pendant toute la période pertinente. La présence obligatoire à des lieux de travail assignés conformément à l'horaire établi de façon à ce que l'appelant puisse communiquer avec les autres employés d'Hydro me laisse ainsi croire que l'appelant était largement intégré à l'entreprise d'Hydro. L'assignation régulière de tâches à exécuter et l'imposition de règles de conduite m'amènent aussi à conclure qu'il y avait en l'espèce un degré élevé d'intégration de l'appelant aux activités d'Hydro, ce qui démontre en soi qu'il y avait un lien de subordination en l'espèce entre l'appelant et Hydro.
+[27] Puisque la preuve me permet de discerner clairement qu'il existait un lien « de facto » de subordination entre Hydro et l'appelant, je suis d'avis qu'il aurait été raisonnable de considérer l'appelant constitué en société comme étant un employé d'Hydro, à laquelle les services avaient été rendus, n'eût été de l'existence de 9043.
+[28] Pour ces motifs, l'appel est rejeté, avec frais.
+Signé à Ottawa, Canada, ce 19e jour de janvier 2006.
+Juge Bédard
+RÉFÉRENCE :
+2006CCI20
+No DU DOSSIER DE LA COUR :
+2002-4205(IT)G
+INTITULÉ DE LA CAUSE :
+François Carreau et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 20 octobre 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 19 janvier 2006
+COMPARUTIONS :
+Pour l'appelant :
+Me Sylvain Dorais
+Pour l'intimée :
+Me Simon-Nicolas Crépin
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Sylvain Dorais
+Étude :
+Polak Therrien Turcotte
+Montréal (Québec)
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir les notes sténographiques aux pages 61 à 63, paragraphes 224 à 229 et paragraphe 234.
+[2] Voir les notes sténographiques aux pages 62 et 63, paragraphes 230 à 233.
+[3] Voir la page 83 des notes sténographiques.

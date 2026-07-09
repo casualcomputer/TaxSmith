@@ -1,0 +1,150 @@
+Title: Fletcher v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27776/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-414-27776-fletcher-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-06-28
+
+# Fletcher v. The Queen
+
+- Citation: 2007 TCC 414
+- Decision date: 2007-06-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 264, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fletcher v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-28
+Neutral citation
+2007 TCC 414
+File numbers
+2006-3243(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3243(IT)I
+BETWEEN:
+ROY FLETCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 28, 2007 at Edmonton, Alberta
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gregory Perlinski
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2005 taxation year is dismissed for the reasons set forth in the attached Reasons for Judgment. There shall be no costs.
+Signed at Ottawa, Canada this 13th day of July, 2007.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2007TCC414
+Date: 20070713
+Docket: 2006-3243(IT)I
+BETWEEN:
+ROY FLETCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] The issue in this appeal is whether the Appellant was properly assessed Canada Pension Plan (“CPP”) contributions on self-employed earnings in the amount of $2,481.63 for the 2005 taxation year.
+[2] The assumptions of the Minister in confirming the assessment are set out in paragraph 11 of the Reply to the Notice of Appeal and it was confirmed at the hearing of this appeal that the Appellant agreed with the assumptions. Paragraph 11 reads as follows:
+11. In confirming the Assessment, the Minister assumed the following facts:
+(a) at all material times, the Appellant was a resident of Canada;
+(b) the Appellant received employment income from Petro-Canada in the amount of $306.12 in 2005;
+(c) during the 2005 taxation year, the Appellant operated, as a proprietorship, a project consulting business (the “Consulting Business”);
+(d) the fiscal period of the Consulting Business was from January 1, 2005 to December 31, 2005;
+(e) the Appellant earned net income from the Consulting Business in the amount of $47,414.55 in the 2005 taxation year;
+(f) during the 2005 taxation year, the Appellant operated, as a proprietorship, a woodlot business (the “Woodlot Business’);
+(g) the fiscal period of the Woodlot Business was from January 1, 2005 to December 31, 2005;
+(h) the Appellant earned net income from the Woodlot Business in the amount of $1,100.87 in the 2005 taxation year;
+(i) the Appellant was born on April 15, 1943;
+(j) on April 5, 2005,the Appellant made application for a retirement pension under the Canada Pension Plan; and
+(k) the Appellant began receiving a retirement pension under the Canada Pension Plan in September, 2005.
+[3] The actual calculation of the assessment is set forth in paragraph 7 of the Reply as follows:
+Net Professional Income
+$47,414.55
+Net Farming Income
+1,100.87
+Total Pensionable Earnings
+$48,515.42
+Less: Basic Exemption
+3,500.00
+Earnings Subject to Contributions
+(Maximum $37,600.00)
+$37,600.00
+Months in the Year Subject to Contributions
+x 8/12
+Maximum Pensionable Earnings
+$25,067.00
+Contribution Rate for 2005
+x 9.9%
+Canada Pension Plan Contributions Payable
+$ 2,481.63
+[4] There does not appear to be any dispute as to the calculations as these have been made in accordance with section 13 of the CPP which, in rather complicated language, sets forth the factors which determine the CPP contribution required on self-employed earnings.
+[5] I have reviewed the calculations set forth in the Reply and they are correct.
+APPELLANT’S SUBMISSIONS:
+[6] The Appellant’s appeal and objection relate essentially to two problems. Firstly, he feels he is being charged with both an employee and an employer contribution amount after he had received from the CPP authorities a document which he furnished to Petro-Canada and on the basis of which that company made no employer contribution with respect to the Appellant’s contract work. The difficulty with this is that the Appellant declared the net amount in question, namely $47,414.55, on his income tax return as self-employment income as opposed to employment income. The facts support the conclusion that it was self-employment income. Under the provisions of the CPP, the self-employed person is responsible for both the employer and the employee portions of the contributions. One must remember, however, that for income tax purposes a self-employed person is entitled to more deductions than an employee. For example, in the present case, the Appellant’s gross total self-employment income was $68,607 whereas his net income was $47,414.
+[7] The thrust of the Appellant’s second problem is that he received false information from the CPP authorities after he had specifically advised them of his intentions and of his desire not to be liable for any further CPP contributions. More specifically, his Notice of Appeal reads, in part, as follows:
+Clearly, if I had not received false information from CPP I would have received CPP benefits before returning to work and therefore would not have been assessed the CPP contributions in dispute. Unfortunately I chose to delay receiving benefits until September because the CPP agent asked me when I wanted benefits to start. She assured me that I was already exempt from further contributions and that the start date would not impact contributions. She was absolutely clear on that point, otherwise I would have asked for benefits to start at once. If she had not asked me to choose a start date I would have achieved the desired outcome automatically because I didn’t return to work until early July long after applying for CPP benefits on April 5th.
+[8] Regrettably, the Appellant can not succeed in his appeal simply because he relied on false information from CPP representatives. The calculations must be made in accordance with the CPP and not on the basis of the false information given by those representatives.
+[9] In Boynton v. R. [2001] 3 C.T.C. 2320, Hamlyn T.C.J. stated:
+11 The statements by the CCRA official relied upon by the Appellant to his detriment does not constitute a bar to the reassessment. The law is clear that if an employee of Revenue Canada imparts erroneous information to a taxpayer who acts on it to his or her detriment, that of itself does not bar the Minister from assessing the taxpayer's liability to tax, interest and penalties in accordance with the applicable statutory provisions.
+[10] This dicta referred to erroneous information by a Canada Revenue Agency official, but the same applies to erroneous information by a CPP official.
+[11] The Appellant also produced at the hearing a copy of a Canada Revenue Agency news release which reads as follows:
+CANADA’S NEW GOVERNMENT ANNOUNCES TAXPAYER BILL OF RIGHTS AND TAXPAYERS' OMBUDSMAN
+Toronto, Ontario, May 28, 2007… The Honourable Carol Skelton, Minister of National Revenue, joined by the Honourable Jim Flaherty, Minister of Finance and Regional Minister for the Greater Toronto area, today announced two new initiatives, a Taxpayer Bill of Rights and a Taxpayers' Ombudsman, to ensure Canada Revenue Agency (CRA) is more accountable to Canadians.
+This news release mentions that the government believes in strong accountability but fairness, and that taxpayers would have the right to complete accurate, clear and timely information. More particularly, paragraphs 6, 11 and 12 of the news release read as follows:
+6. You have the right to complete, accurate, clear, and timely information.
+You can expect us to provide you with complete, accurate and timely information that will explain in plain language the laws and policies that apply to your situation, to help you get your entitlements and meet your obligations.
+11. You have the right to expect us to be accountable.
+You have the right to expect us to be accountable for what we do. When we make a decision about your tax or benefit affairs, we will explain that decision and inform you about your rights and obligations in respect of that decision. We are also accountable to Parliament, and through Parliament to Canadians, for what we do. We report to Parliament on our performance with respect to tax services and benefit programs and the results we achieve against our published service standards.
+12. You have the right to relief from penalties and interest under tax legislation because of extraordinary circumstances.
+You can expect us to consider your request to waive or cancel in whole or in part any penalty and interest charges if you were prevented from complying with your tax obligations because of circumstances beyond your control, e.g. a disaster such as a flood or fire, or if penalty or interest arose primarily because of erroneous actions of the CRA, e.g. material available to the public contained errors which led you to file incorrect returns or make incorrect payments based on incorrect information.
+[12] It remains to be seen how this news release can benefit taxpayers or persons such as the Appellant for periods of time after the Taxpayer Bill of Rights is fully effective, but it cannot benefit the Appellant in respect of his CPP contribution assessment for the 2005 taxation year.
+[13] The Appellant also raised the issue that his pension benefits did not increase, notwithstanding the additional contribution he was obliged to make. That may or may not be grounds for an appeal to the Minister and possibly further to the Review Tribunal under sections 81 and 82 of the of the CPP and any other applicable sections, but that issue is not at present before the Court. (See CCH – Canadian Employment Benefits and Pension Guide Vol. 1 – No. 856 and following.)
+RESPONDENT’S SUBMISSIONS
+[14] The Respondent submits that the Appellant was properly assessed a contribution payable in respect of self-employed earnings in the amount of $2,481.63 for the 2005 taxation year under the Canada Pension Plan.
+[15] The Respondent submits further that, in assessing the Appellant for the 2005 taxation year, the Minister:
+(a) properly allowed the Appellant a deduction in the amount of $1,240.81 for a contribution payable under the Canada Pension Plan in respect of self-employed earnings pursuant to paragraph 60(e) of the Act; and
+(b) properly allowed the Appellant a credit in the amount of $186.12 ($1,240.81 x 15%) for a contribution payable under the Canada Pension Plan in respect of self-employed earnings pursuant to section 118.7 of the Act.
+[16] The Respondent requests that the appeal be dismissed.
+[17] In my opinion, the calculations of the Minister described and discussed above are correct and are not affected by the erroneous advice received by the Appellant nor by the other submissions of the Appellant.
+[18] Consequently, for all of the above reasons the appeal is dismissed.
+Signed at Ottawa, Canada this 13th day of July, 2007.
+"T. O'Connor"
+O'Connor, J.
+CITATION: 2007TCC414
+COURT FILE NO.: 2006-3243(IT)I
+STYLE OF CAUSE: Roy Fletcher v. The Queen
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: June 28, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: July 13, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gregory Perlinski
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

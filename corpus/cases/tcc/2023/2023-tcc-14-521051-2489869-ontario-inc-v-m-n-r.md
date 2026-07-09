@@ -1,0 +1,165 @@
+---
+title: "2489869 Ontario Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521051/index.do"
+last_modified: "2023-01-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 14"
+citation2: ""
+neutral_citation: "2023 TCC 14"
+decision_date: "2023-01-31"
+language: "en"
+item_id: "521051"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5783
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:52:24.569000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3aa2405c541944055c4be913bde54b7103835fc7cfe48482e5b7cc86a42c533e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 2489869 Ontario Inc. v. M.N.R.
+
+- Citation: 2023 TCC 14
+- Decision date: 2023-01-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5783, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2489869 Ontario Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-01-31
+Neutral citation
+2023 TCC 14
+File numbers
+2018-4858(CPP), 2018-4860(EI)
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2018-4860(EI)
+2018-4858(CPP)
+BETWEEN:
+2489869 ONTARIO INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Motion in writing to set aside Judgments
+Before: The Honourable Justice Gaston Jorré, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Jodie Wolfe
+Counsel for the Respondent:
+Niboofar Sharif
+AMENDED JUDGMENT
+In accordance with the attached Reasons for Judgment, the Appellant’s Motion is dismissed.
+There will be no order for costs.
+Signed at Ottawa, Canada, this 31st day of January 2023.
+“G. Jorré”
+Jorré D.J.
+Citation: 2023 TCC 14
+Date: 20230131
+Docket: 2018-4860(EI)
+2018-4858(CPP)
+BETWEEN:
+2489869 ONTARIO INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Jorré D.J.
+[1] The representative of the Appellant sent a letter dated 2 September 2022 to the court withdrawing the company’s EI and CPP appeals.
+[2] Under section 16.2 of the Tax Court of Canada Act:
+a. 16.2(1) A party who instituted a proceeding in the Court may, at any time, discontinue that proceeding by written notice.
+b. (2) Where a proceeding is discontinued under subsection (1), it is deemed to be dismissed as of the day on which the Court receives the written notice.
+[3] As a result the two appeals were dismissed on the date that the letter was received. This has the same effect as a Judgment dismissing an appeal.
+[4] The Appellant now seeks to have the dismissals set aside. [1]
+[5] The reason given is that the Appellant believed that no monies were owing and only learned after withdrawing the appeals that there were still withholdings plus interest owing.
+[6] It is well established that once the Court has rendered judgment dealing with an appeal, the court has fulfilled its function and, subject only to very limited exceptions, may no longer deal with the matter.
+[7] There are no specific provisions in the Tax Court of Canada Act, Tax Court of Canada Rules of Procedure respecting the Employment Insurance Act or the Tax Court of Canada Rules of Procedure respecting the Employment Insurance Act that deal with setting aside judgments.
+[8] However, this Court has an implied jurisdiction allowing it to deal with procedural and evidentiary matters to the extent that they are not dealt with in the Tax Court of Canada Act, the relevant regulations made under that Act or any other applicable law. There is no directly applicable law or regulation.
+[9] While section 172 of the Tax Court of Canada Rules (General Procedure) does not apply to Employment Insurance or Canada Pension Plan proceedings in the court, it may usefully be considered in applying this court’s implied jurisdiction given that it sets out the factors usually considered by courts in deciding whether or not a judgment should be set aside or amended.
+[10] Section 172 says:
+(1) A judgment that,
+(a) contains an error arising from an accidental slip or omission, or
+(b) requires amendment in any matter on which the Court did not adjudicate,
+may be amended by the Court on application or of its own motion.
+(2) A party who seeks to,
+(a) have a judgment set aside or varied on the ground of fraud or of facts arising or discovered after it was made,
+(b) suspend the operation of a judgment, or
+(c) obtain other relief than that originally directed.
+may make a motion for the relief claimed.
+[11] The only part of section 172 that could be relevant is part of paragraph 172(2)(a). Given that no fraud is alleged, the question whether there are “facts arising or discovered” after the judgment that could, in the circumstances, justify setting aside the Judgment.
+[12] Subsection 172 is permissive and the jurisprudence has established criteria to consider in deciding whether or not to set aside a judgment.
+[13] As set out by Justice Monaghan, as she then was, in Supavititpatana v. The Queen [2] in applying section 172 :
+… regardless of how sympathetic a taxpayer’s circumstances might be, this Court should not exercise this power lightly. As the Federal Court of Appeal has said, “there is more at stake here on this issue than sympathy:
+… In other words, setting aside a judgment is an exceptional measure because the finality of litigation is desirable and fundamental to the efficient and proper administration of justice. There is a:
+… need, in the public interest, to put an end to litigation. A party is certainly entitled to assume as a general rule that litigation has been brought to an end when an appeal is deemed to be dismissed. It is entitled to assume that the dead proceeding will not be resurrected. . .
+(footnotes omitted)
+and [3]
+… the applicant must establish three things: (i) new facts arose or are discovered after the judgment; (ii) the new facts could not with reasonable diligence have been discovered before the judgment; and (iii) the new facts would probably have resulted in a different judgment had they initially been brought forward. … Obviously, the new facts must be ones that would have affected the judgment. Moreover, as in the case of fraud, the applicant has some responsibility to exercise due diligence to discover the relevant facts before the judgment is issued.
+(footnotes omitted)
+[14] Based on the Appellant’s submissions I am not satisfied that the fact that there were still amounts owing could not have been discover with reasonable diligence prior to the letter of 2 September 2022. [4]
+[15] Accordingly, the Motion is dismissed without costs.
+This Judgment and Reasons for Judgment is issued in substitution for the Judgment dated January 26, 2023 to correct the style of cause.
+Signed at Ottawa, Canada, this 31st day of January 2023.
+“G. Jorré”
+Jorré D.J.
+CITATION:
+2023 TCC 14
+COURT FILE NO.:
+2018-4860(EI); 2018-4858(CPP)
+STYLE OF CAUSE:
+2489869 ONTARIO INC. AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+In writing
+Submissions received by the judge:
+During the week of December 5, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré, Deputy Judge
+DATE OF JUDGMENT:
+January 31, 2023
+APPEARANCES:
+For the Appellants:
+Jodie Wolfe
+Counsel for the Respondent:
+Niloofar Sharif
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant made the applications in a letter dated 11 October 2022. The Respondent responded by letter.
+[2] 2020 TCC 46 (CanLII) at paragraph 11.
+[3] At paragraph 17 of Supavititpatana.
+[4] It is not necessary for me to decide whether the fact that money was still owing was otherwise relevant to the motion.
+The Motion was not supported by an Affidavit. However, the Respondent did not challenge the facts alleged in the Appellant’s letter. In the circumstances, given that the Respondent did not challenge the facts alleged, given that subsection 18.15(3) of the Tax Court of Canada Act provides that “the Court is not bound by any legal or technical rules of evidence in conducting a hearing and the appeal shall be dealt with by the Court as informally and expeditiously as the circumstances and considerations of fairness permit” and given that, in any event, the alleged facts do not form a basis for setting aside the Judgment, I am satisfied that it is appropriate to decide the matter in the absence of an Affidavit much as one might deal with an application to strike a Notice of Appeal on the basis that it discloses no grounds for appeal.

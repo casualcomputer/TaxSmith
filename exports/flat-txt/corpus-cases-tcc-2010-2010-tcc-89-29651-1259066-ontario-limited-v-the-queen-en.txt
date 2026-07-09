@@ -1,0 +1,126 @@
+Title: 1259066 Ontario Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29651/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-89-29651-1259066-ontario-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-02-16
+
+# 1259066 Ontario Limited v. The Queen
+
+- Citation: 2010 TCC 89
+- Decision date: 2010-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6158, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1259066 Ontario Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-16
+Neutral citation
+2010 TCC 89
+File numbers
+2008-2232(GST)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-2232(GST)I
+BETWEEN:
+1259066 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 19, 2009, at Ottawa, Canada
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Agent for the Appellant:
+Warren Johnson
+Counsel for the Respondent:
+Mélanie Sauriol
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessment made under the Excise Tax Act for the period June 1, 2005 to May 31, 2006 is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to a refund of $856.
+IT IS FURTHER ORDERED that the filing fee of $100 be refunded to the Appellant.
+Signed at Montréal, Quebec, this 16th day of February, 2010.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2010TCC89
+Date: 20100216
+Docket: 2008-2232(GST)I
+BETWEEN:
+1259066 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The issue in this appeal is whether the Appellant is entitled to a refund of what it claims was an overpayment of goods and services tax under the Excise Tax Act.
+[2] The Appellant was represented by its principal, Warren Johnson, who also testified at the hearing. I found him to be a clear and credible witness. Also testifying for the Appellant were Alain Mercier, the CEO and director of the Appellant’s primary client during the years relevant to the appeal, Wrapped Apps Corporation (“Wrapped Apps”), and Marc Thibault, the Appellant’s accountant. I have no reason to doubt any of their testimony.
+[3] For the reasons set out below, I am satisfied that the Appellant is entitled to a refund of $856.
+[4] The Appellant’s fiscal year-end was May 31. It had elected to use the Streamlined Accounting (GST) Regulations known informally as the “Quick Method”[1] for filing its GST returns. Under the Quick Method, a taxpayer is not entitled to claim, among other things, input tax credits[2] or refunds in respect of “bad debts”[3].
+[5] The events giving rise to this appeal occurred from 2001-2004. During that time, the Appellant was providing general business consulting advice to Wrapped Apps, a high technology R&D company in Ottawa. By 2003, the hi-tech “dot com” bubble had burst. In the face of the ensuing financial crisis, many of Wrapped Apps’ other suppliers began discounting their billings. In the hope that following suit would enable it to retain Wrapped Apps as a client when the industry eventually righted itself, Mr. Johnson began negotiations with Mr. Mercier with a view to adjusting the amounts that had been billed for services rendered up to May 31, 2003[4]. From 2001 to May 31, 2003, the Appellant had billed a total of $100,000 to Wrapped Apps for services rendered during that period, $85,981 of which remained outstanding as of that date. It was understood that the Appellant would continue to invoice Wrapped Apps for the full amounts due but that they would eventually be adjusted upon the completion of their negotiations. (Mr. Johnson was later to realize that organizing the adjustments in this way contributed to the Appellant’s GST difficulties; even though the amounts billed remained outstanding, GST was collectible and remittable immediately upon the Appellant’s issuance of an invoice to Wrapped Apps.) In any event, the Appellant and Wrapped Apps agreed that in satisfaction of the $85,981 outstanding, Wrapped Apps would pay approximately $7,177.57 in cash (ultimately paid in October 2003) and the balance of $78,803 would be reduced to $20,000, to be paid in the months ahead. There is no dispute that the Appellant remitted GST of $3,701.96 on the $78,803 originally invoiced.
+[6] Having made this arrangement with Wrapped Apps, the next hurdle for the Appellant was how to recover the GST already paid on the discounted amount of $58,803. As it was not obviously apparent to Mr. Johnson how to describe the particular circumstances of his claim within the confines of the standard form Quick Method return[5], he sought the help of Canada Revenue Agency officials. Even though he had explained from the outset (and continued to do so throughout the ensuing audits[6]) that it was really an overpayment resulting from having paid GST on the same amount twice, Mr. Johnson ultimately decided to follow the Quick Method ‘Helpline’ advice and framed his request for a refund of the overpayment as if it had been a “bad debt”. As he would later learn, this strategy was doomed to failure since, as a Quick Method filer, the Appellant was not entitled to rely on the “bad debt” provisions. Worse, all this back and forth with officials ultimately triggered audits under both the Excise Tax Act and the Income Tax Act which led, in turn, to many more discussions, further delays and a heart attack thrown in for good measure. By 2005, Mr. Johnson found himself well and truly down the rabbit hole of GST bureaucracy.
+[7] The upshot was that the Minister denied the Appellant’s request for a refund of GST of $3,701.96 remitted in respect of the original billings of $78,803 because it had been claimed as a “bad debt”; the Minister also denied the Appellant’s alternative request for a refund of the GST paid on “replacement billings” of $20,000 on the basis that that amount was not part of the $85,981 billed as of May 31, 2003 but rather, represented new billings for services rendered in 2004. In support of this contention, counsel for the Respondent referred the Court to Exhibits R-4 and R-5.
+[8] Exhibit R-4 is an undated invoice from the Appellant to Wrapped Apps which states:
+In consideration for all outstanding invoices from 1259066 Ontario Ltd. to Wrapped Apps Corp. for work performed prior to June 1, 2003. Resulting in an outstanding balance for services from June 1, 2003 to October 31, 2003 of $20,000 plus GST ($1,400.00).
+[9] Exhibit R-5 is a letter dated April 4, 2005 from Mr. Mercier on behalf of Wrapped Apps to Mr. Johnson for the Appellant. The text of the letter reads:
+Reference: Outstanding invoices
+As per your recent request, this letter will serve to confirm that as of FY2003, Wrapped Apps Corporation, in consideration for a payment of $7,680.00 ($7,177.57 + $502.43 GST), has cancelled all outstanding invoices from 1259066 Ontario Ltd. for all work performed prior to June 1, 2003, totaling $78,803.
+As a result, the books of Wrapped Apps Corporation reflect an outstanding balance for services rendered by 1259066 Ontario Ltd. from June 1 to October 31, 2003 of $20,000.00 plus GST ($1,400.00).
+[10] Before considering these documents and notwithstanding my recounting of the Appellant’s dealings with the Canada Revenue Agency, it goes without saying that a taxpayer cannot rely on having acted on bad advice from officials to challenge the correctness of his assessment[7]. That determination must be made in accordance with the law as it is, not as misinterpreted by an official. However, Mr. Johnson’s evidence regarding his efforts to conform to what officials advised would be required if the Appellant hoped to recover what it claimed was an overpayment of GST, is important to understanding certain discrepancies between the documentation filed and what actually happened.
+[11] Returning, then, to Exhibits R-4 and R-5, counsel for the Respondent submitted that the combined effect of these documents was to prove that the Appellant wrote off the entire $78,803 outstanding for 2003 and invoiced Wrapped Apps for new services performed in its 2004 taxation year of $20,000. In further support of the Minister’s position, counsel pointed to the Appellant’s 2004 T2[8] in which it reported the $20,000 as sales and claimed a bad debt expense of $74,628. Counsel also noted that the $7,177 Wrapped Apps paid to the Appellant in October 2003 was not reported in the 2004 T2.
+[12] Turning, first, to the 2004 T2’s, I do not find them determinative of the issue. None of the Minister’s assumptions refer to the Appellant’s reporting of these amounts under the Income Tax Act. Further, there was no clear evidence before me as to how these figures were ultimately treated by the Minister in the flurry of audit activity that occurred once the GST problems were flagged. The Respondent called as its only witness Denis Desloges, the CRA Litigation Officer whose involvement with the Appellant’s file was limited to drafting the Minister’s Reply to the Notice of Appeal. While Mr. Desloges’ evidence was fine as far as it went, it would have been more helpful to the Court to have heard from one of the officials directly involved in the various audits. In the absence of such testimony, the evidence of the Appellant’s accountant, Mr. Thibault, was persuasive. Although he was not involved with the original GST audit, Mr. Thibault was the Appellant’s representative for the subsequent Income Tax Act audit of the 2004 ‑ 2007 taxation years during which time, the GST overpayment issue was still unresolved. His evidence was that when he inquired as to why the audit was going back so far, he was told by the auditor that “… we’re going to straighten out this GST mess as part of it, that’s what she wanted to do and that’s the last we heard of ‘03/04.”[9] Against this backdrop, I found convincing his explanation of events surrounding the “bad debt” confusion:
+Q. Was the amounts at issue here ever shown as a bad debt in the corporate records of 1259?
+A. Not within the bookkeeping records for 1259. It was never shown as such. It was shown as a credit unentered.
+Q. What is your understanding from what occurred in '04/05 as why they appeared as if they were bad debts for GST purposes?
+A. Based on what you [Mr. Johnson] had told me at that time, that when you were filing your GST return you called CRA for advice on how to deal with this rebilling and you were told to treat it as a bad debt.
+Q. Thank you. Why then did the income tax statements of 1259 show these as bad debts?
+A. Because of the unique nature of the fact that your revenues ended up in the negative amount in total for the year. The tax program I was using at the time, Dr. Tax which is a data program has a restriction on it that did not allow me to put in a negative amount, and in order to be consistent with the GST records, I went with the advice followed -- they said well put in the 20,000 and put in the rebilling or the negative credit memo as a bad debt.
+Q. This would have no impact on the actual income tax results on that period anyway?
+A. The bottom line doesn’t change, no.[10]
+[13] Having also heard the evidence of Mr. Johnson and Mr. Mercier, I am not persuaded by counsel’s interpretation of Exhibits R-4 and R-5. These documents are, on their face, equally supportive of the Appellant’s position. When read together and in the context of the economic realities the two companies were facing in 2003 and 2004, the letter and invoice express - perhaps not with a lawyer’s precision, but clearly enough - their agreement that of the $78,803 left outstanding for services rendered prior to May 31, 2003, only $20,000 would be payable. Both Exhibit R-4 and Exhibit R-5 link the $78,803 amount to the services rendered prior to June 1, 2003. Furthermore, given the financial difficulties plaguing the hi-tech community, in general, and the Appellant and Wrapped Apps, in particular, in 2004, it strikes me as unlikely that any new services would have been rendered. Regardless of how it was further described in the invoice and in the books of Wrapped Apps (the latter being, in any event, beyond the control of the Appellant), I am simply unable to believe that the $20,000 was anything other than the salvageable portion of the $78,803 that remained unpaid after Wrapped Apps’s cash payment of $7,177.57 in October 2003.
+[14] The relevant portions of section 230(1) of the Excise Tax Act provide that:
+230.(1) Where a person has paid installments or interim net tax for a reporting period of the person … that exceed the amount of the net tax remittable by the person for the period and the person claims a refund of the excess in a return … for the period filed under this Division by the person, the Minister shall refund the excess to the person with all due dispatch after the return is filed.
+[15] At the hearing, counsel for the Respondent conceded that if the Court was satisfied that the $20,000 amount represented accounts receivable for services rendered before June 1, 2003, then the GST of $856 would be an overpayment of net tax because that amount was no longer “remittable” once the GST had been remitted on the $78,803 invoiced in 2003.
+[16] Being so satisfied, I am allowing the appeal and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to a refund of $856. In these circumstances, it is not necessary for me to consider the very ably presented submissions of counsel for the Respondent in respect of bad debts, discounted prices and rebates.
+Signed at Montréal, Quebec, this 16th day of February, 2010.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2010TCC89
+COURT FILE NO.: 2008-2232(GST)I
+STYLE OF CAUSE: 1259066 ONTARIO LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: November 19, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: February 16, 2010
+APPEARANCES:
+Agent for the Appellant:
+Warren Johnson
+Counsel for the Respondent:
+Mélanie Sauriol
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Section 227.
+[2] Subsection 227(5).
+[3] Through the combined operation of subsection 231(1) and subsection 227(6).
+[4] Transcript, page 47, lines 16-25 to page 51, lines 1-3. Exhibit R-3.
+[5] A puzzle not restricted to taxpayers; see Transcript, page 130, lines 3-13, inclusive.
+[6] Exhibits A-4, paragraph 2; R-3, paragraph 1; R-4; R-5, paragraph 1; R-6; R-8, paragraph 3.
+[7] Goldstein v. Her Majesty the Queen, [1995] 2 C.T.C. 2036. (T.C.C.)
+[8] Exhibit R-11.
+[9] Transcript, page 108, lines 6-8.
+[10] Transcript, page 104, lines 18-25 to page 105, lines 1-24.

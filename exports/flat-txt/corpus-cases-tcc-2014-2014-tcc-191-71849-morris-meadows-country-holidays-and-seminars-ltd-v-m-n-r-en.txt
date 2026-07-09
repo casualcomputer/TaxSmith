@@ -1,0 +1,267 @@
+Title: Morris Meadows Country Holidays and Seminars Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71849/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-191-71849-morris-meadows-country-holidays-and-seminars-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2014-06-06
+
+# Morris Meadows Country Holidays and Seminars Ltd. v. M.N.R.
+
+- Citation: 2014 TCC 191
+- Decision date: 2014-06-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5389, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morris Meadows Country Holidays and Seminars Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-06-06
+Neutral citation
+2014 TCC 191
+File numbers
+2013-3599(EI), 2013-3600(CPP)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2013-3599(EI)
+2013-3600(CPP)
+BETWEEN:
+MORRIS MEADOWS COUNTRY HOLIDAYS AND SEMINARS LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on May 14, 2014, at Edmonton, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Sid Morris
+Counsel for the Respondent:
+Paige MacPherson,
+Brandi Davies, student-at-law
+AMENDED JUDGMENT
+The Appeal pursuant to subsection 103(1) of the Employment Insurance Act and subsection 28(1) of the Canada Pension Plan is allowed only with respect to the worker, Barbara Benner, and the Minister of National Revenue’s decision that Barbara Benner was in insurable and pensionable employment is vacated.
+This Amended Judgment is issued in substitution of the Judgment dated June 6, 2014.
+Signed at Vancouver, British Columbia, this 23rd day of June 2014.
+“Campbell J. Miller
+C. Miller J.
+Citation: 2014 TCC 191
+Date: 20140606
+Docket: 2013-3599(EI)
+2013-3600(CPP)
+BETWEEN:
+MORRIS MEADOWS COUNTRY HOLIDAYS AND SEMINARS LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Morris Meadows Country Holidays and Seminars Ltd. (“Morris Meadows”), according to its brochure, offers meeting facilities, sleeping facilities and dining facilities. In doing so it hires workers, as required, to perform certain duties such as cleaning, gardening, maintenance, cooking and serving food. The Minister of National Revenue (the “Minister”) assessed Morris Meadows under the Employment Insurance Act (the “Act”) and the Canada Pension Plan (“CPP”) legislation on the basis the workers performing such duties were employees. By letter dated June 21, 2013 the Minister confirmed that many, but not all, of the workers were employees.
+[2] Morris Meadows maintains the workers were not in insurable or pensionable employment because they were either independent contractors in business on their account or casual employees not employed for the purposes of Morris Meadows’ business. The Respondent maintains the workers were neither independent contractors nor casual employees not employed for the purpose of Morris Meadows’ business.
+[3] Mr. Morris, the moving force behind Morris Meadows, was the only witness for the Appellant. He was refreshingly forthright in his testimony to the point of offering me work as a cook at Morris Meadows. I declined the offer.
+[4] Mr. Morris clearly believed in the underlying concept of the rural retreat known as Morris Meadows. The brochure described it as follows:
+The concept of Morris Meadows developed from Sid Morris’ love of the country tranquility which restored his energy after a gruelling week in the business world. It was his belief that others who did not have the opportunity for such a retreat on a working farm may enjoy the same tranquility he did. Hence was born the concept of a small business and seminar center where a company or firm could afford to rent this “country club” setting and thus have their energy restored by its tranquility.
+[5] It is clear that Morris Meadows was available for retreats or major events such as weddings. According to Mr. Morris, business at Morris Meadows started slowly in 1996 with ladies’ clubs booking Morris Meadows and wanting to have lunches served. Mr. Morris’ herdsman could cook so Mr. Morris enlisted his help to do the cooking, splitting the increased income with him. The herdsman left in 2001 and a couple, the Pollocks, took over the food service for a period, but for the years in issue a number of workers were involved in providing the food service. For 2008, 2009 and 2010, Ms. Linda Andrews cooked for Morris Meadows. She testified and confirmed that she, not Morris Meadows, provided the requisite health certificate. She also indicated that Mr. Morris normally provided the groceries for food for the guests, though occasionally she might have to do some shopping for which she would be reimbursed. The menu for meals was set by Morris Meadows, though Ms. Andrews would contact guests to determine what they wanted.
+[6] Of the 25 workers in issue (see Appendix A attached hereto) Mr. Morris identified six as providing what he called catering services (those marked with “c” in Appendix A). He acknowledged that Morris Meadows provided the kitchen with all the equipment though some workers, Ms. Andrews for example, would bring their own knives. Mr. Morris testified he would not look into whether the caterers would cater for others, though Ms. Andrews indicated she did not feel she had time to do so as she would wait for a call from Mr. Morris to cook for him. She confirmed work depended on the guest bookings.
+[7] Morris Meadows would charge guests who requested food so much per plate, while paying the cook an hourly rate. Mr. Morris maintained that Morris Meadows was not in the restaurant business but would only supply meals if requested, and would then have to arrange for a cook or caterer as he called them.
+[8] Mr. Morris provided a copy of Morris Meadows’ business card which stated:
+WE OFFER
+COMPLETE WEDDING PACKAGES
+COMBINE A FAMILY REUNION FOR BOTH SIDES OF THE FAMILY IN THIS TRANQUIL SETTING
+SKATING POND / SLIDING HILL / CLUB MEETINGS
+FAMILY REUNIONS / BIRTHDAY PARTIES
+FIRST NATIONS TEE PEE VILLAGE
+SMALL BUSINESS MEETINGS FEATURING OVERNIGHT FACILITIES
+IGLOO FOR INDOOR RECREATION
+NATURE TRAIL FOR A TRANQUIL WALK – GREAT FOR BIRD WATCHING
+[9] Appendix A lists the workers in issue with their corresponding income over the years. 11 workers (those marked with an asterisk) served as waitresses. Mr. Morris offered no explanation for these workers individually but testified that Morris Meadows would be asked by the caterer/cook to get servers. Mr. Morris would then hire servers and Morris Meadows would pay them directly on an hourly basis. There was no written agreement. The servers would simply jot down on a paper the hours worked. As can be seen from Appendix A, apart from the Blocks and Alicia Mckendrick, the servers do not appear to have had very steady work.
+[10] With respect to the provision of food generally, Mr. Morris explained he looked on this as he did any other additional service a customer could get at Morris Meadows, for example manicure, pedicure or massage. He indicated he knew little about cooking and would be unable to supervise in the kitchen.
+[11] Mr. Morris did testify about all but one of the remaining individual workers. Mr. Morris had the following comments with respect to the workers who cooked.
+Linda Andrews [12] She had previously owned a café in Alix and continued to provide catering for small jobs after she sold the café. She did not do this while working for Morris Meadows. In her testimony Ms. Andrews stated that she believed she was an employee and that her work simply depended on Morris Meadows’ bookings.
+Linda Bellaney [13] Mr. Morris stated Ms. Bellaney was a camp cook for oil companies and would help them out when others could not. He tried to reach an agreement with her to be Morris Meadows’ cook but could not offer sufficient work.
+Lori Deets [14] Ms. Deets appears to have provided most of the cooking in 2010 but, according to Mr. Morris, after several months it was clear it was not going to work out for her to take over the catering for Morris Meadows. Mr. Morris testified that she had tried to get a catering business going.
+Crystal French [15] Ms. French worked in 2011 and 2012 and, according to Mr. Morris, was also trying to start a catering business in Mirror. She also sold baked goods at Morris Meadows over Christmas.
+Julie Richardson [16] Ms. Richardson worked at Morris Meadows in 2010 and 2011. She was a daughter of a friend who said she was a good cook and wanted to get into catering. Mr. Morris had her work with another caterer before she cooked for a weekend event herself. She did not work out.
+[17] With respect to other workers, Mr. Morris commented as follows.
+Barbara Benner [18] Ms. Benner looked after cleaning at Morris Meadows for a few years. At the time Mr. Morris hired her he understood that she had seven clients for whom she cleaned house on a regular basis. He advised her he could not guarantee the same day each week as it depended on bookings, but she could come on any of the two or three days after an event. She requested mileage but Mr. Morris told her he would not pay that. She cut back on her time when she had a baby and eventually Mr. Morris had to move the cleaning service to Swanson’s Home Maintenance.
+Wanda Mckendrick [19] Ms. Mckendrick was a neighbour who sold health products for Nikken Inc. She rented at Morris Meadows on a few occasions for this purpose. Mr. Morris described her as a host, a position she had with the Alix Agricultural Society. Mr. Morris asked her to act as such at Morris Meadows after his wife died. She would also help making beds.
+Nadine Lamb [20] Ms. Lamb worked for the Lacombe Experimental Farm, but she helped out as a handyman when the regular handyman was not available. She also did garden work or painting, supplying her own paintbrush. She occasionally helped with the beds.
+Pat Raabis [21] Ms. Raabis also worked as a handyman and worked as such for other customers.
+Tracey Richmire [22] According to Mr. Morris, Ms. Richmire had a lawn care business in Alix for a few years. He used her mainly for yard cleanup in the fall.
+Loree Smith [23] Ms. Smith was a neighbour across the road who would help out cleaning when needed. She did not expect to be paid but Mr. Morris paid her anyway.
+Sharon Smith [24] Sharon Smith was Loree’s daughter and helped out infrequently cleaning.
+Mary Anne Stevenson [25] Ms. Stevenson is a nurse who offers safety courses throughout Alberta. She helped her friend, Crystal French, once at a Christmas party.
+[26] Mr. Morris generalized that all workers came on a job-by-job basis. The cleaning workers brought their own supplies. Some cooks brought their own knives. He was unconcerned if any of them worked elsewhere.
+[27] Alicia Mckendrick also testified that she served as a waitress, helped cleaning, made beds, did some lawn care and also did some gardening. During the year she worked, she was attending high school. She believed she was an employee on an hourly wage subject to do whatever Morris Meadows required. She showed up when called or if needed for gardening or special events such as a wedding.
+[28] While there is no uniformity as to the responsibility of all the workers in issue, there are some common elements:
+- hired as and when needed dependent on bookings
+- paid on an hourly basis at a rate determined by Mr. Morris
+- no written agreement
+- with some minor exceptions equipment to perform work was supplied by Morris Meadows
+Issue [29] Is Morris Meadows required to withhold and remit Employment Insurance and CPP source deductions for the 25 workers? To determine this issue it must be asked:
+(1) Were the workers employees or independent contractors? (2) If they were employees, was the employment of a casual nature other than for the purpose of Morris Meadows’ business? Analysis (a) Employee v Independent Contractor [30] The oft-cited starting point for the employee versus independent contractor discussion is the Supreme Court of Canada’s comments on the subject in 671122 Ontario Ltd. v Sagaz Industries Canada Inc.:[1]
+47. Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+48. It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[31] The Federal Court of Appeal in 1392644 Ontario Inc. o/a Connor Homes v Minister of National Revenue[2] massaged this approach with its review of recent jurisprudence as to the role of intention in the analysis, a factor not mentioned by the Supreme Court of Canada. The Federal Court of Appeal offered the following:
+37. Because the employee-employer relationship has important and far reaching legal and practical ramifications extending to tort law (vicarious liability), to social programs (eligibility and financial contributions thereto), to labour relations (union status) and to taxation (GST registration and status under the Income Tax Act), etc., the determination of whether a particular relationship is one of employee or of independent contractor cannot simply be left to be decided at the sole subjective discretion of the parties. Consequently, the legal status of independent contractor or of employee is not determined solely on the basis of the parties declaration as to their intent. That determination must also be grounded in a verifiable objective reality.
+38. Consequently, Wolf and Royal Winnipeg Ballet set out a two step process of inquiry that is used to assist in addressing the central question, as established in Sagaz and Wiebe Door, which is to determine whether the individual is performing or not the services as his own business on his own account.
+39. Under the first step, the subjective intent of each party to the relationship must be ascertained. This can be determined either by the written contractual relationship the parties have entered into or by the actual behaviour of each party, such as invoices for services rendered, registration for GST purposes and income tax filings as an independent contractor.
+40. The second step is to ascertain whether an objective reality sustains the subjective intent of the parties. As noted by Sharlow J.A. in TBT Personnel Services Inc. v. Canada, 2011 FCA 256 (CanLII), 2011 FCA 256, 422 N.R. 366 at para. 9, “it is also necessary to consider the Wiebe Door factors to determine whether the facts are consistent with the parties’ expressed intention.” In other words, the subjective intent of the parties cannot trump the reality of the relationship as ascertained through objective facts. In this second step, the parties intent as well as the terms of the contract may also be taken into account since they colors the relationship. As noted in Royal Winnipeg Ballet at para. 64, the relevant factors must be considered “in the light of” the parties’ intent. However, that being stated, the second step is an analysis of the pertinent facts for the purpose of determining whether the test set out in Wiebe Door and Sagaz has been in fact met, i.e whether the legal effect of the relationship the parties have established is one of independent contractor or of employer-employee.
+41. The central question at issue remains whether the person who has been engaged to perform the services is, in actual fact, performing them as a person in business on his own account. As stated in both Wiebe Door and Sagaz, in making this determination no particular factor is dominant and there is no set formula. The factors to consider will thus vary with the circumstances. Nevertheless, the specific factors discussed in Wiebe Door and Sagaz will usually be relevant, such as the level of control over the worker’s activities, whether the worker provides his own equipment, hires his helpers, manages and assumes financial risks, and has an opportunity of profit in the performance of his tasks.
+[32] In the case before me there is no mutual intent; there is no written agreement expressing intent. I am left with pursuing a traditional Sagaz/Wiebe Door Services Ltd. v. Minister of National Revenue[3] analysis to determine the central question whether the worker who has been engaged to perform the services does so as a person in business on his or her own account.
+[33] In conducting this analysis, I am going to divide the workers into four categories: waitresses (11), caterers/cooks (6), cleaners (3) and the rest.
+Waitresses [34] In considering the 11 workers who served as waitresses it becomes apparent that not all of the traditional factors play a determinative role in figuring out the workers’ status. For example, with respect to control, there was certainly no evidence that Mr. Morris was bustling around telling them how to serve tables. Having to show up at a certain time because, for example, there is a wedding, is a neutral factor as far as whether the workers show up as employees or independent contractors. What else is controllable? These were very informal unwritten arrangements. If a worker did not show up on the day and sent a sister I have no doubt Mr. Morris would have found this perfectly acceptable. Does this suggest the worker is in the business of serving tables? I think not.
+[35] There is no equipment the worker serving as a waitress requires; a non‑factor.
+[36] What it comes down to with respect to these workers is, what was their chance of profit, and conversely, risk of loss? I find there was none. They simply showed up for an event to serve meals and receive their hourly wage, a wage determined by Mr. Morris, for doing so – no more, no less. They incurred no expense. They were exposed to no liability. Any concerns by customers would be directed to Morris Meadows. There is no evidence to suggest these workers performed the services as a person in business on her own account. They were employees.
+Caterers/cooks [37] There were six individuals who cooked at Morris Meadows identified as such in Appendix A. Ms. Andrews was the only one to testify. But it was clear from her testimony, and that of Mr. Morris, that while Mr. Morris had no hands on supervision as such in the kitchen, Morris Meadows set the menu and for the most part bought the necessary food. Ms. Andrews, and the other caterers/cooks, simply worked in Morris Meadows’ kitchen. In the food industry, control over what to serve and control over the buying of the necessary groceries is significant. I do not accept that a cook is in business on her own account when she only controls how to cook but not what to cook and with what groceries.
+[38] I add to the control factor that Morris Meadows had over the caterers/cooks the fact that the caterers/cooks used Morris Meadows’ kitchen without any accounting or adjustment to the remuneration to reflect some rental of the kitchen. It confirms my view that the caterers/cooks were not independent contractors. I do acknowledge that Ms. Andrews provided the requisite health certificate and used her own knives, but on balance, I find these factors do not outweigh the provision of a fully equipped kitchen without change.
+[39] Further, Ms. Andrews testified she did not believe she could hire her own helpers. Though there was no direct testimony on point from Mr. Morris, my overall impression of Morris Meadows’ modus operandi was that it would simply hire extra help if needed. While Mr. Morris referred to this group of workers as caterers, I conclude that they were cooks, hired on an individual basis, not as a catering service which would in turn hire assistant cooks, waiters or cleaning staff. That was left to Morris Meadows.
+[40] Finally, with respect to this group of workers, and similar to the waitresses, there is nothing to suggest the cooks had either opportunity for greater profit or any risk of loss. It was Mr. Morris who simply set an hourly rate on what I gather was a take it or leave it basis.
+[41] I conclude that an objective review of the factors points more to an employment relationship than that of independent contractor. I find the six cooks were not in business on their own account.
+[42] I wish to address Mr. Morris’ evidence that with a couple of the cooks they were attempting to start a catering business. Without further collaborative evidence this does not convince me these workers were in business. At best, I view the situation as Mr. Morris providing some cooking experience.
+Cleaners [43] Morris Meadows’ primary cleaner during the years in issue was Ms. Benner, with a neighbour, Ms. Smith, helping when necessary. Unfortunately there was little evidence, but the key facts with respect to Ms. Benner are: Mr. Morris set the hourly rate though he denied Ms. Benner’s request for mileage, Ms. Benner could clean on any two or three days following an event, Ms. Benner had other clients, Ms. Benner supplied cleaning supplies.
+[44] There was no evidence Mr. Morris had any control over how Ms. Benner cleaned the property.
+[45] With respect to chance of profit and risk of loss, Ms. Benner could arrange her schedule as she saw fit to accommodate attendance to her other regular customers. The fact that she sought mileage, although denied by Mr. Morris, does illustrate a business arrangement being negotiated. Though the facts are scant, I do see Ms. Benner in a different light from the others. It appears she was in fact in the cleaning business. I conclude that she was not an employee but an independent contractor.
+[46] With respect to the neighbours, Ms. Smith and her daughter, given they were called on an as needed basis, I do not find they necessarily had cleaning supplies at the ready. While again there was no evidence of any controlling factor, there is also no evidence they were in the cleaning business. They were neighbours helping, gratuitously paid by Mr. Morris. There was no chance of profit or risk of loss. On balance, I find the work was in the nature of employment.
+Other workers [47] Of the remaining workers, two worked in gardening (Ms. Alicia Mckendrick indicated she did some gardening as well as a number of other jobs), two as handymen and one as a hostess and one on an one-off basis to help a friend at a certain event. I have no evidence from these workers to flush out in greater detail the true working relationship. I am left to rely on Mr. Morris’ evidence, which with respect to all but Ms. Wanda Mckendrick is sketchy. He did, however, testify that Ms. Richmire had a lawn care business and he used her for fall yard clean work. Yet, without providing any detail of the real working arrangement, this evidence of Mr. Morris simply stating that she was an independent contractor is insufficient. Ms. Alicia Mckendrick did testify though that she did some gardening work, but at Mr. Morris’ direction, indicating that Mr. Morris would set the hours and the rate and that she had to report to him. Further, all equipment she needed was provided. With no evidence from Ms. Richmire as to what she provided, what she did or how she did it, I find Mr. Morris has not proven on balance that she was an independent contractor.
+[48] With respect to Ms. Wanda Mckendrick, her major role was to act as a hostess for events held at Morris Meadows, though also did some housekeeping work. Mr. Morris suggested that Ms. Mckendrick was a member and paid host of the Alix Agricultural Society. Again, I have nothing to substantiate or corroborate that Ms. Mckendrick was a professional host. There is no evidence of control one way or the other. There is no equipment. Ms. Mckendrick showed up as needed to act as host and was paid her hourly wage. There was no evidence of any negotiations over remuneration. There was no evidence of any chance of profit or risk of loss. Regrettably there was simply little evidence. Mr. Morris has not proven that Ms. Mckendrick was an independent contractor.
+[49] Apart from Ms. Benner who I find was carrying on her own business, I conclude the remaining workers were not.
+Casual employment [50] Were any workers in casual employment as contemplated by paragraph 5(2)(a) of the Act? It reads:
+5(2) Insurable employment does not include
+(a) employment of a casual nature other than for the purpose of the employer’s trade or business;
+…
+[51] In the Federal Court of Appeal decision of Roussy v Minister of National Revenue[4] the court described casual employment as follows:
+7. Hence, the duration of the time a person works is not conclusive in categorizing employment as casual; the length of time may be a factor to be considered, but a more important aspect is whether the employment is “ephemeral” or “transitory” or, if you will, unpredictable and unreliable. It must be impossible to determine its regularity. In other words, if someone is spasmodically called upon once in a while to do a bit of work for an indeterminate time, that may be considered to be casual work. If, however, someone is hired to work specified hours for a definite period or on a particular project until it is completed, this is not casual, even if the period is a short one. The Tax Court Judge was, therefore, wrong to focus exclusively on the “built-in expiration known to both at the commencement”, and on the need to provide “ongoing employment”. That is not an automatic requirement.
+[52] The workers were hired on an event-by-event basis. This may have been “spasmotic” to borrow a word from the Federal Court of Appeal, but the event had a definite start and finish, even if it may have been short. This work is more properly described as part-time than as casual. While there is an element of unpredictability, on balance I find this work was not casual employment. However, even if I determine that the workers were engaged in casual employment, there is a second hurdle in the legislation to overcome, that it must have been “other than for the purpose of the employer’s trade or business”.
+[53] Unfortunately, in publishing the requirements for the application of this provision, the Canada Revenue Agency (the “CRA”) writes that employment is not insurable in the situation of “casual employment if it is not for your usual trade or business”. Mr. Morris has grabbed hold of the term “usual” and argued that providing food was never part of Morris Meadows’ “usual” trade or business, and therefore the workers who served food were casual employees excluded from insurability and pensionability under the legislation. He points to the fact that in the years in issue he would rely on the caterers to prepare the food. Indeed, Morris Meadows did not have the requisite health certificate, which he would require from the caterers who did provide the food. I have, however, found that the caterers or cooks were employees of Morris Meadows.
+[54] While I can appreciate Mr. Morris’ concern that by adding “usual” to their understanding of subsection 5(2) of the Act, the CRA has confused what should be relatively clear. I need not address whether the serving of food was Morris Meadows’ “usual” trade or business. The legislation does not distinguish business from a “usual” business. And I conclude that by advertising dining facilities, available for business meetings or weddings, by hiring workers itself to serve the food and by profiting from such commerce, Morris Meadows was indeed in a business to which the employment related; that is the casual employment was for the purpose of Morris Meadows’ business. This is to be contrasted for example to a private wedding at the home of the parents of the bride, where the parents pay workers to serve cocktails. The parents are not in the business of hosting weddings. Morris Meadows was.
+[55] The workers do not fall under excluded employment as defined in both the Act and CPP legislation.
+[56] In summary, I allow the Appeals only with respect to the worker, Barbara Benner, who I find was an independent contractor. The balance of the workers were in contracts of service and, consequently, in insurable and pensionable employment with Morris Meadows.
+Signed at Ottawa, Canada, this 6th day of June 2014.
+“Campbell J. Miller”
+C. Miller J.
+APPENDIX A
+2008
+2009
+2010
+2011
+2012
+Freda Anderson *
+$210.00
+Linda M Andrews (c)
+$1,686.00
+$10,321.00
+$1,673.00
+Linda Bellaney (c)
+$2,126.00
+$307.50
+Barbara Benner
+$2,187.00
+$1,556.00
+$2,380.00
+$120.00
+Jessica Black *
+$112.00
+$235.00
+$111.00
+Marie Black *
+$100.00
+Naomi Block *
+$1,462.00
+$1,110.00
+$616.00
+Rachel Block *
+$1,448.00
+$1,155.00
+$1,460.00
+$266.00
+Lori Deets (c)
+$10,403.00
+Crystal French (c)
+$4.205.00
+$664.50
+Celine Gerber *
+$30.00
+$160.00
+$294.00
+$180.00
+Sharon Gwynn *
+$958.00
+Sherry Hull *
+$180.00
+Nadine Lamb
+$1,912.00
+Flora L Macosky (c)
+$95.00
+Alicia Mckendrick *
+$180.00
+$1,369.00
+$202.00
+Carla Mckendrick *
+$150.00
+$456.00
+Wanda Mckendrick
+$4,474.00
+$4,134.00
+$5,000.00
+Kristle Pearce *
+$140.00
+$80.00
+Pat Raabis
+$143.00
+Julie Richardson (c)
+$1,806.00
+$534.00
+Tracey L Richmire
+$1,226.00
+$1,480.00
+$373.00
+Loree Smith
+$1,881.00
+$400.00
+$1,702.00
+$144.00
+Sharon Smith
+$108.00
+Mary Anne Stenson
+$60.00
+CITATION:
+2014 TCC 191
+COURT FILE NO.:
+2013-3599(EI), 2013-2600(CPP)
+STYLE OF CAUSE:
+MORRIS MEADOWS COUNTRY HOLIDAYS AND SEMINARS LTD. AND THE MINISTRY OF NATIONAL REVENUE
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+May 14, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+June 23, 2014
+APPEARANCES:
+Agent for the Appellant:
+Sid Morris
+Counsel for the Respondent:
+Paige MacPherson,
+Brandi Davies, student-at-law
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2001 SCC 59.
+[2] 2013 FCA 85.
+[3] [1986] 2 C.T.C. 200.
+[4] 192 CarswellNat 1046, 148 N.R. 74.

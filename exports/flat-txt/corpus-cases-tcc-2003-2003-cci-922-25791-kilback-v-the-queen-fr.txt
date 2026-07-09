@@ -1,0 +1,150 @@
+Title: Kilback v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25791/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-922-25791-kilback-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-12-19
+
+# Kilback v. The Queen
+
+- Citation: 2003 CCI 922
+- Decision date: 2003-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3815, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kilback v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-19
+Référence neutre
+2003 CCI 922
+Numéro de dossier
+2003-1900(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1900(IT)I
+ENTRE :
+LARRY KILBACK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 5 décembre 2003 à Kelowna (Colombie-Britannique)
+Devant : L'honorable juge D. W Beaubier
+Comparutions :
+Représentant de l'appelant :
+G. D. Mason
+Avocat de l'intimée :
+Me Gavin Laird
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1998 est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Saskatoon, Canada, ce 19e jour de décembre 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 26e jour d'avril 2004.
+Nancy Bouchard, traductrice
+Dossier : 2003-1901(IT)I
+ENTRE :
+CAROL KILBACK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 5 décembre 2003 à Kelowna (Colombie-Britannique)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Représentant de l'appelante :
+G. D. Mason
+Avocat de l'intimée :
+Me Gavin Laird
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1998 est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Saskatoon, Canada, ce 19e jour de décembre 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 26e jour d'avril 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI922
+Date : 20031219
+Dossier : 2003-1900(IT)I
+ENTRE :
+LARRY KILBACK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2003-1901(IT)I
+ET ENTRE :
+CAROL KILBACK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Les présents appels ont été entendus ensemble sur preuve commune à Kelowna, en Colombie-Britannique, le 5 décembre 2003. Larry Kilback a été le seul témoin à témoigner. Il est l'époux de Carol. L'appel qu'interjette Larry porte sur l'année 1998 et sur une nouvelle cotisation établie pour cette année dans laquelle sa demande de crédit d'impôt pour conjoint au montant de 5 380 $ a été refusée. L'issue de son appel porte sur la question de savoir si l'appel de Carol est accueilli. Par conséquent, l'essentiel des présents motifs concerne Carol.
+[2] Les paragraphes 3 à 12 inclusivement de la Réponse à l'avis d'appel de Carol sont ainsi formulés :
+[traduction]
+3. En ce qui concerne le paragraphe 3 de l'Avis d'appel, il admet que les actions (les « actions » ) de l'entreprise Nevada Bob's Canada Inc (la « NBCI » ) sont les seules qu'a achetées l'appelante et que l'intention était de les revendre, mais par ailleurs, il ignore et n'admet pas les faits contenus dans ce paragraphe.
+4. En ce qui concerne le paragraphe 4 de l'Avis d'appel, il admet que les actions ont été achetées en vue de les revendre à profit, mais par ailleurs, il ignore et n'admet pas les faits contenus dans ce paragraphe.
+5. Il nie toutes les autres allégations de fait énoncées dans ce paragraphe.
+6. En produisant sa déclaration de revenus pour l'année d'imposition 1998, l'appelante a déclaré une perte d'entreprise de 38 291 $ (la « perte » ) liée à la disposition des actions.
+7. Le ministre du Revenu national (le « ministre » ) a établi une première cotisation à l'égard de l'appelante pour l'année d'imposition 1998 le 26 avril 1999, comme l'appelante l'avait produite.
+8. Le 28 février 2002, le ministre a établi une nouvelle cotisation à l'égard de l'appelante pour l'année d'imposition 1998 dans laquelle il a refusé la perte à titre de perte d'entreprise et l'a plutôt admise à titre de perte en capital.
+9. En établissant ainsi une cotisation à l'égard de l'appelante pour l'année d'imposition 1998, le ministre s'est appuyé sur les hypothèses de fait suivantes :
+a) l'appelante n'a exploité aucune entreprise active pendant l'année d'imposition 1998;
+b) pendant la période du 14 mai 1998 au 24 juin 1998, l'appelante a acheté 122 100 actions de l'entreprise NBCI en utilisant les fonds que lui a fournis son époux;
+c) l'époux de l'appelante lui a prêté les fonds sans intérêt et sans aucune modalité de remboursement;
+d) le 3 novembre 1998 ou vers cette date, l'appelante a vendu 36 000 de ses actions pour la somme de 34 863 $;
+e) l'appelante a déclaré la perte découlant de la vente de ses actions à titre de perte d'entreprise qui a été calculée de la façon suivante :
+Revenu brut
+34 863 $
+Moins : achats
+73 154 $
+Perte nette
+38 291 $
+f) après le 31 décembre 1998, l'appelante a transféré le reste de ses actions à son époux sans percevoir aucun produit;
+g) pendant toute la période pertinente, l'appelante :
+i) n'était ni négociateur ni courtière en valeurs mobilières,
+ii) n'avait aucune vaste expérience dans l'achat ou la vente d'actions;
+iii) n'avait aucune connaissance ni aucune expérience dans le marché des valeurs mobilières;
+h) l'achat et la vente d'actions ne faisaient pas partie intégrante des activités commerciales ordinaires de l'appelante;
+i) le temps qu'a consacré l'appelante à l'achat et à la vente des actions était minime;
+j) ni l'appelante ni son époux n'ont obtenu des renseignements d'initié concernant les actions.
+B. QUESTION EN LITIGE À TRANCHER
+10. Il s'agit de savoir si la perte qu'a déclarée l'appelante est une perte d'entreprise ou une perte en capital.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+11. Il se fonde sur les articles 9, 38 et 39 ainsi que sur le paragraphe 248(1) de la Loi de l'impôt sur le revenu (la « Loi » ), telle qu'elle a été modifiée pour l'année d'imposition 1998.
+D. MOTIFS INVOQUÉS ET MESURE DE REDRESSEMENT DEMANDÉE
+12. Il soutient que la perte qu'a subie l'appelante pour l'année d'imposition 1998 découlant de la disposition de ses actions n'était pas liée à une entreprise qu'exploitait l'appelante ni à un projet comportant un risque de caractère commercial et que, par conséquent, il ne s'agissait pas d'une perte d'entreprise. La perte a donc été à bon droit évaluée comme une perte en capital, conformément à l'article 38 de la Loi.
+[3] Les hypothèses énoncées aux points b), c), d), e), f), g), h) et i) du paragraphe 9 n'ont pas été réfutées par la preuve. Les hypothèses énoncées aux points a) et j) du paragraphe 9 sont au coeur du litige.
+[4] La Cour admet l'ensemble du témoignage de Larry comme vrai. Elle conclut également que Larry était l'âme dirigeante des opérations de Carol, bien que cette dernière les ait effectuées de son propre gré. La Cour parvient à cette conclusion dans le contexte de ce qui s'est produit.
+[5] Larry et un associé possédaient chacun 50 p. 100 des actions d'une société qui exploitait deux franchises de Nevada Bob's dans le Lower Mainland, en Colombie-Britannique. En 1997, ils ont vendu ces deux franchises en vue d'obtenir des fonds et d'acheter des actions dans l'entreprise NBCI lorsque celle-ci a acheté systématiquement toutes ses franchises au Canada. Larry et Carol ont alors déménagé pour aller s'installer à Kelowna et prendre leur retraite. Larry semble être à l'approche de la soixantaine. Ses actions qu'il avait achetées dans l'entreprise NBCI étaient bloquées en vertu d'une convention semblable à une convention de blocage de titres, de sorte qu'il ne pouvait pas les vendre sur le marché boursier de l'Alberta où était inscrite la NBCI ni d'ailleurs sur aucun autre marché. Néanmoins, en 1998 il a encaissé une somme d'environ 250 000 $ ou un peu plus suivant la vente de la franchise.
+[6] Larry est demeuré en contact avec ses anciens employés du Nevada Bob's dans le Lower Mainland ainsi qu'avec l'employé de la NBCI qui avait négocié la vente de la franchise dont Larry était propriétaire. Il a également joué au golf avec le fonctionnaire en chef de la NBCI, Ian Higginson, qui vivait à Kelowna. Les modalités liées à ses actions dans la NBCI stipulaient qu'il pouvait vendre 137 500 actions après le 31 mai de chacune des années 1998, 1999, 2000 et 2001.
+[7] Ces personnes ont informé Larry que la NBCI envisageait de racheter de ses franchisés toutes ses franchises aux États-Unis et de transférer son inscription à la cote sur la Bourse de Toronto. Le prix des actions de la NBCI avait augmenté et, selon le consensus, il allait plus que doubler. Larry et Carol avaient discuté de ce sujet et tel était également leur avis. Étant donné la situation fiscale de Larry et les restrictions concernant ses actions, ils ont décidé que Carol achèterait des actions de la NBCI grâce à un prêt que Larry lui consentirait, ce qu'elle a fait par l'entremise d'un courtier de la région.
+[8] Larry a témoigné, et la Cour accepte son témoignage à cet égard, qu'ils s'étaient attendus à ce que la valeur des actions doublerait au moins avant avril 1999 et qu'ils avaient donc prévu que Carol vendrait les actions lorsqu'elles auraient doublé de valeur, qu'elle rembourserait le prêt à Larry et qu'il pourrait ensuite utiliser cet argent pour payer son important impôt à la fin d'avril 1999. La Cour croit à ce témoignage notamment parce qu'au même titre que les appelants, c'est ce que penseraient, planifieraient de faire et feraient la plupart des couples heureux qui ne connaissent pas bien les activités commerciales relatives au capital social, les risques qu'elles comportent ainsi que les manipulations et les machinations qui peuvent se tramer. De même, ce témoignage correspond totalement à leur situation financière, à ce qu'ils ont constaté et à ce qu'ils ont entendu dire concernant les actions de la NBCI.
+[9] Cependant, le prix des actions a chuté et a continué de baisser. Ils avaient besoin de cet argent. Carol a donc vendu ses actions à perte en novembre 1998. Elle avait détenu ses actions pour une période de moins de six mois.
+[10] Selon le témoignage, Carol s'est servie de l'argent emprunté pour effectuer l'opération; elle a acheté les actions rapidement et les a détenues pendant une courte période et elle avait l'intention de les revendre dans un délai de douze mois ou moins, ce qu'elle a fait; elle a, semble-t-il, verrouillé tout l'argent du couple dans les actions de la NBCI, elle a acheté des actions qui n'avaient produit aucun dividende par le passé et qui étaient inscrites sur un marché boursier moindre et, toujours selon le témoignage, elle n'exploitait aucune autre entreprise ou n'avait aucun intérêt financier; elle n'avait aucune autre source de revenu. Il s'agissait d'un plan organisé en vue de tirer rapidement un profit considérable en vendant promptement un nombre très considérable d'actions.
+[11] De l'avis de la Cour, Carol a effectué une opération commerciale; il s'agissait d'un projet comportant un risque de caractère commercial.
+[12] Les appels sont accueillis et les affaires sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation en conséquence.
+Signé à Saskatoon, Canada, ce 19e jour de décembre 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 26e jour d'avril 2004.
+Nancy Bouchard, traductrice

@@ -1,0 +1,186 @@
+Title: Nixon v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521197/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-4-521197-nixon-v-the-king.md
+Document type: case_law
+Last modified: 2024-01-08
+
+# Nixon v. The King
+
+- Citation: 2024 TCC 4
+- Decision date: 2024-01-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5652, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nixon v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-01-08
+Neutral citation
+2024 TCC 4
+File numbers
+2014-4399(IT)G
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-4399(IT)G
+BETWEEN:
+RICHARD JOHN NIXON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Written cost submissions of the Respondent filed on September 29, 2023, no written cost submissions of
+the Appellant filed
+Before: The Honourable Justice Ronald MacPhee
+Participants:
+Counsel for the Appellant:
+David R. Davies
+Vivian Esper
+Counsel for the Respondent:
+Aaron Tallon
+Jasmeen Mann
+ORDER
+The Respondent’s motion for enhanced costs is granted. The Respondent is entitled to costs in the amount of $170,060.43.
+Signed at Ottawa, Canada, this 8th day of January 2024.
+“R. MacPhee”
+MacPhee J.
+Citation: 2024 TCC 4
+Date: 20240105
+Docket: 2014-4399(IT)G
+BETWEEN:
+RICHARD JOHN NIXON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+MacPhee J.
+I. Introduction
+[1] Mr. Nixon’s Appeal (concerning claimed charitable donations) was heard on May 8-11, 2023. A decision was rendered on August 22, 2023 dismissing the appeal. Pursuant to the decision, costs were payable by the Appellant to the Respondent. If the parties were unable to agree upon costs, the Respondent was to file written submissions concerning costs on or before September 29, 2023. The Appellant had until October 31, 2023 to file any responding written submission. The Respondent filed written submissions on September 29, 2023. The Appellant has not filed any responding submissions.
+II. The Respondent’s Position
+[2] The Respondents seeks costs of the litigation (up to and including the trial) beyond the Tariff amounts (“enhanced costs”) in a lump sum of $158,652.80. This amounts to 35% of their solicitor-client costs incurred. The Respondent seeks an additional $6,407.63 in disbursements for a total of $165,060.43.
+[3] Concerning preparation for this cost motion, the Respondent seeks $5,000 in additional costs. This amount is sought on the basis that the Respondent attempted to settle the issue of costs by way of an offer to settle but did not receive a response. Given the lack of a response from the Appellant to the settlement offer, as well as the necessity for the Respondent to provide written submissions on the costs motion, I will grant the $5,000 sought for the costs of this motion.
+[4] The Respondent has set out a number of factors which they state supports their claim for $165,060.43 in litigation costs. I will deal with each of these factors below.
+III. Analysis
+[5] Section 147 of the Rules gives the Court broad discretion in awarding costs. The section provides a non-exhaustive list of factors for the Court to consider in exercising its discretionary power to award costs beyond the Tariff amounts.
+[6] Some key principles of costs awards were helpfully summarized by Justice Lafleur in Hillcore Financial Corporation v. The King, TCC 144 (Tax Court of Canada [General Procedure]), and are reproduced here:
+8. The general rule is that costs should be “compensatory and contributory” and “not punitive” (see Grenon v. The Queen, 2021 TCC 89, at para 12). Further, an award of costs is generally not intended to fully compensate the actual costs incurred by a party (see Velcro Canada Inc. v. The Queen, 2012 TCC 273, [ Velcro ], at para 29).
+9. …
+10. The broad discretion of the Court to award costs should not be exercised in an arbitrary manner but must be exercised on a principled basis; further, the quantum of costs must be reasonable and also determined on a principled basis (The Queen v. Lau, 2004 FCA 10, at para 5; The Queen v. Landry, 2010 FCA 135, at paras 22 and 54; Guibord v. Canada, 2011 FCA 346, at para 10 The King v. Bowker, 2023 FCA 133, at para 32).
+11. Subsection 147(3) of the Rules provides a list of factors the Court should consider in exercising its discretion to award costs pursuant to subsection 147(1) of the Rules. However, none of the factors listed in subsection 147(3) of the Rules are determinative and as such, the Court should consider all relevant factors in exercising its discretion (Velcro, supra , at paras 12-13). As indicated by this Court in Velcro , the Tariff is “... a reference point only should the Court wish to rely upon it” (at para 8).
+12. The relevant parts of the Rules read as follows:
+147 (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+…
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+…
+14. This Court is not limited to applying the Tariff. Subsection 147(4) of the Rules provides that the Court “... may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs”.
+15. The case law has held that “...increased costs beyond the Tariff are not tied to exceptional circumstances, such as misconduct, malfeasance or undue delay” (see Duffy v. The Queen, 2020 TCC 135 [ Duffy ], at para 21; Daishowa-Marubeni International Ltd v. The Queen, 2013 TCC 275, at para 4; Ford Motor, supra , at para 7). Indeed, recent case law held that a greater recognition of the work involved in tax litigation should be a factor to consider in awarding costs (see Duffy, supra, at para 21; Blackburn Radio Inc. v. the Queen, 2013 TCC 98, at paras 14-15; Invesco Canada Ltd v. The Queen, 2015 TCC 92, at paras 17 and 25; Spruce Credit Union v. The Queen, 2014 TCC 42, at para 52; Univar Holdco Canada ULC v. The Queen, 2020 TCC 15, at para 33).
+[7] The Respondent has set out a number of factors that they wish the Court to consider in justifying their claim for enhanced costs. I will focus my attention on these submissions rather than walking through numerous factors which are of no weight to my decision.
+A. Paragraph 147(3)(a): The results of the proceeding
+[8] The Crown was entirely successful. This was not an all or nothing appeal. It was conceivable at the outset of trial that either all or some portion of the Appellant’s claimed gift be allowed, such as the cash contributions made pursuant to the Berkshire Program. As set out in their costs submissions, at one point the Respondent had offered to settle the litigation by allowing $60,000 as a charitable gift allowed to be claimed by the Appellant in the 2003 taxation year.
+[9] This factor does support the Respondent’s claim for a partial indemnity costs of $35%.
+B. Paragraph 147(3)(c): The importance of the issues [10] The Respondent argues that the Nixon decision may influence the next steps for other related litigation files that are being held in abeyance. Given the large volume of decisions dealing with charitable donations, I do not find that the issues in this case were novel, complicated, nor added much precedential value. I find this factor neutral.
+C. Paragraph 147(3)(d): Any offer of settlement made in writing
+[11] The Respondent attempted to settle a portion this matter by way of an offer made on February 25, 2015. The offer would have allowed the Appellant to claim as a donation $60,000 for the 2003 taxation year. This offer was revoked on December 11, 2020. It therefore does not meet the requirements of 147(3)(d)[1]. Nevertheless, case law has consistently found, as I have in this instance, that a settlement offer, even if it does not meet the requirements of 147(3)(d) can be taken into account by the trial judge in awarding costs. The parties are expected to make reasonable settlement offers. The Crown has done so. I will therefore consider the offer as a factor supporting the enhanced costs sought by the Crown.
+D. Paragraph 147(e) The volume of work
+[12] The Respondent has provided detailed submissions supporting the fact that preparing for and conducting this appeal involved a great deal of work. Lawyers and paralegals documented 1848 hours both preparing this matter for trial and conducting the trial. This preparation work includes a large amount of time spent working on a particular undertaking sought by the Appellant. This is referenced simply for the fact that it supports the large amount of hours spent on the file by the Respondent. The hearing took a full sitting week and was scheduled to continue into a second week. The exceptionally large amount of work spent on this matter does support an award for enhance costs as sought by the Respondent.
+E. Appellant chose to mislead the Court
+[13] After hearing the evidence, it was my conclusion that the Appellant’s testimony, in particular concerning the $300,000 he claimed to have gifted in both 2002 and 2003, defied logic and was misleading. Yet I do not feel I should consider increasing costs as a punitive step. I will simply consider this factor in considering whether one party did anything that may have prolonged the trial.
+[14] The Appellant’s testimony in Chief required a fairly extensive cross examination, with numerous documents being put to the Appellant. The cross examination was effective in assisting me to reach many of the conclusions I did in this matter. But, it also resulted in a longer trial than was necessary. I do accept that this factor supports the position of the Respondent concerning costs.
+[15] I should be clear that I am not double counting this factor, it simply supports the conclusion that the Respondent, in spending 1848 hours on this matter, is entitled to enhanced costs in part because of the volume of work required. The Appellant’s conduct at trial added to the volume of work necessary.
+F. Paragraph 147(3)(h): The denial or the neglect or refusal of any party to admit anything that should have been admitted
+[16] The Respondent claims they are entitled to costs above the tariff in part because the Appellant refused to admit facts that should have been admitted. Specifically the Appellant lead the Respondent to believe that they would challenge the facts surrounding the operation of the Berkshire program, only to inform the Court on the first day of trial that the Appellant did not see the need to put in evidence facts concerning the mechanics of the Berkshire program.
+[17] It is my understanding that to walk through the various component parts of the Berkshire program would have taken several days of additional evidence and several additional witnesses.
+[18] The Respondent also served a request to admit on the Appellant that primarily dealt with the operation of the Berkshire program. The Appellant refused to admit the majority of the facts set out on the basis that he had no knowledge.
+[19] I accept the Respondent’s submission that the refusal to admit the facts concerning the operation of the underlying Berkshire program, as well as the lack of communication with the Respondent concerning the Appellant’s intention not to put in issue at trial the various components of the Berkshire program, greatly increased the time spent by the Respondent in preparing for trial. This factor does support the enhanced costs sought by the Respondent.
+G. Paragraph 147(1)(j): The Appellant brought an appeal that was unwinnable and without merit
+[20] The only question before the Court was whether the Appellant made gifts as per the meaning of ss.118.1(1) of the Income Tax Act (the “Act”) in the 2002 and 2003 taxation years. There is a large body of case law from both the Tax Court and the Court of Appeal concerning various legal issues that arise in some of the charitable gift donation programs.
+[21] As set out in paragraph 44 of the Nixon decision, one such issue is that in order to be a valid gift for Income Tax purposes, the donation of a charitable gift requires an impoverishment of the donor[2]. This factor was explored by the Federal Court of Appeal in the Markou decision.
+[22] The evidence in this case indicated that that the Appellant would have an “annual cash flow benefit” as a result of his participation in the Berkshire program (see paragraph 10 of the Nixon decision). Furthermore, the facts of this matter supported the conclusion that the Appellant was to receive, on the same day he made his donation, the $300,000 amount he paid to the charity (See paragraph 38 (v)(vi) and (vii) and paragraph 40 of the Nixon decision for analysis). Based on numerous objective factors that were prevalent in this matter, I do agree with the Respondent’s submission that this was an unwinnable case for the Appellant. This favours an award beyond the Tariff amount.
+[23] In a recent cost judgment Justice Spiro canvassed various costs awards, providing a helpful analysis as to what the court has awarded[3]. I have reproduced the analysis below:
+[22] I have considered the percentage of costs awarded by the Court, including the following:
+Enhanced Costs Award
+Case
+20%
+General Electric Capital Canada Inc. v The Queen, 2010 TCC 490
+20% (and 60%)
+Grenon v The Queen, 2021 TCC 89
+30%
+Klemen v R, 2014 TCC 369
+35%
+Cameco Corporation v The Queen, 2019 TCC 92
+35%
+Damis Properties Inc. v The Queen, 2021 TCC 44
+36%
+CIT Group Securities (Canada) Inc. v The Queen, 2017 TCC 86
+39%
+Chad v The King, 2023 TCC 76
+40%
+Invesco Canada Ltd. v R, 2015 TCC 92
+45%
+Paletta Estate v The Queen, 2021 TCC 41
+50%
+Univar Holdco Canada ULC v The Queen, 2020 TCC 15
+IV. Conclusion [24] In light of my consideration of the factors set out in subsection 147(3) of the Rules, and my review of other Tax Court’s costs decisions, 35% of total costs is an appropriate cost award for the Respondent.
+[25] This amounts to a fixed cost award of $158,652.80. The Respondent is also entitled to recover disbursements of $6,407.63.
+[26] As for the costs of this motion, the Respondent states that they attempted to settle the issue of costs by way of offer to the Appellant, yet received no response. The Appellant also has not made any submissions in this matter. I will therefore award costs for this motion at an additional $5,000 as requested by the Respondent.
+[27] The total amount payable from the Appellant to the Respondent is $170,060.43.
+Signed at Ottawa, Canada, this 8th day of January 2024.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2024 TCC 4
+COURT FILE NO.:
+2014-4399(IT)G
+STYLE OF CAUSE:
+RICHARD JOHN NIXON v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Ontario
+COST SUBMISSIONS:
+Cost submissions filed by the Respondent on September 29, 2023, no written submissions filed by the Appellant
+REASONS FOR ORDER BY:
+The Honourable Justice Ronald MacPhee
+DATE OF ORDER:
+January 8, 2024
+APPEARANCES:
+Counsel for the Appellant:
+David Davies
+Vivian Esper
+Counsel for the Respondent:
+Aaron Tallon
+Jasmeen Mann
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David Davies Vivian Esper
+Firm:
+Thorsteinssons LLP Vancouver, British Columbia
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Subsections 147(3.1) to (3.8) are engaged where a party has made a written offer of settlement at least 90 days before the hearing, that has not been withdrawn and has not expired. In such instances, the successful party may be entitled to “substantial indemnity costs” defined as “80% of solicitor and client costs.”
+[2] See paragraphs 10 and 44 of Nixon. Also see Markou v. Her Majesty The Queen, 2019 CarswellNat 7409, 2019 FCA 299, 2019 CAF 299, 2019 D.T.C. 5140 (Federal Court of Appeal) at paragraph 60.
+[3] Fareed Ahamed TFSA v. The King, 2023 TCC 177 at paragraph 22.

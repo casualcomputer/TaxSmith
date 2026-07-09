@@ -1,0 +1,179 @@
+Title: Bilodeau c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28496/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-53-28496-bilodeau-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-02-07
+
+# Bilodeau c. M.R.N.
+
+- Citation: 2008 CCI 53
+- Decision date: 2008-02-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1293, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bilodeau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-07
+Référence neutre
+2008 CCI 53
+Numéro de dossier
+2007-3425(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-3425(EI)
+ENTRE :
+MÉLANY-MANON BILODEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+9169-9843 QUÉBEC INC.,
+intervenante.
+____________________________________________________________________
+Appel entendu le 16 janvier 2008, à Sherbrooke (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Christina Ham
+Représentant de l'intervenante :
+Michel Raymond
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi (la « Loi ») est rejeté au motif que le travail exécuté par l'appelante du 1er juin 2006 au 7 juin 2007 est exclu des emplois assurables en vertu de l'alinéa 5(2)i) de la Loi, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour de février 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008CCI53
+Date : 20080207
+Dossier : 2007-3425(EI)
+ENTRE :
+MÉLANY-MANON BILODEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+9169-9843 QUÉBEC INC.,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une décision en vertu de l'alinéa 5(2)i), du paragraphe (3) et des articles 91 et 93 de la Loi sur l'assurance‑emploi (la « Loi »), en date du 20 septembre 2007, selon laquelle le travail exécuté par l'appelante du 1er juin 2006 au 7 juin 2007, lorsqu'elle était au service de l'intervenante 9169‑9843 Québec Inc., ne constituait pas un emploi assurable étant donné le lien de dépendance qui existait entre l'entreprise et l'appelante.
+[2] Pour rendre sa décision, le ministre du Revenu national (le « ministre ») s'est fondé sur les hypothèses de fait suivantes :
+5a) le payeur, constitué en société le 25 mai 2006, exploite une entreprise de déneigement et un atelier de réparation mécanique sous la raison sociale de Déneigement EMR; (admis)
+b) l'appelante et le payeur ont admis et confirmé que l'appelante avait rendu des services au payeur du 1er juin au 30 septembre 2006 mais qu'elle n'avait reçu aucune rémunération du payeur durant cette période. (admis)
+L'appelante et le payeur sont des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+6a) lors de la constitution de la société, les actions votantes du payeur étaient également réparties entre l'appelante et M. Michel Raymond; (admis)
+b) le 1er août 2006, les actions de l'appelante ont été rachetées par le payeur; (nié)
+c) le 1er août 2006, M. Michel Raymond devenait l'unique actionnaire des actions comportant droit de vote du payeur; (admis)
+d) l'appelante est la conjointe de M. Michel Raymond. (admis)
+e) depuis le 1er août 2006, l'appelante est liée à une personne qui contrôle le payeur; (admis)
+7a) le payeur a débuté son entreprise en achetant l'achalandage de 310 clients de l'entreprise antérieure qui appartenait à M. Frank Raymond, frère de l'actionnaire du payeur; (admis)
+b) le payeur a acquis 3 véhicules (tracteurs) pour faire du déneigement; M. Michel Raymond en possédait déjà un pouvant servir de dépannage au payeur; (admis)
+c) durant sa première saison d'exploitation, le payeur a embauché 3 chauffeurs pour opérer ses tracteurs et effectuer du déneigement; (admis)
+d) un des chauffeurs du payeur agissait comme contremaître et recevait une rémunération fixe alors que les deux autres étaient rémunérés uniquement pour faire du déneigement; (admis)
+e) l'appelante a débuté à rendre des services au payeur le ou vers le 1er juin 2006, mais ce n'est que le 1er octobre que le payeur l'embauchait contre rémunération; (admis)
+f) le payeur a embauché l'appelante à titre de secrétaire-comptable; (nié)
+g) l'appelante avait une formation en secrétariat et travaillait auparavant à temps partiel pour une clinique dentaire; (admis)
+h) en juin 2006, l'appelante a débuté à rendre des services au payeur pour structurer les registres de la compagnie et, au début de septembre, après avoir cessé son travail à la clinique dentaire, elle débutait à plein temps pour le payeur; (admis)
+i) en septembre, alors qu'elle n'était pas rémunérée, elle fait parvenir une facturation aux 310 clients du payeur et 250 d'entre eux ont renouvelé leur contrat; (nié)
+j) en octobre et novembre, après avoir fait de la publicité dans les journaux, le payeur obtenait 200 nouveaux clients pour un total de 450 pour la saison 2006-2007; (nié)
+k) chacun des clients du payeur versait 50 % du montant du contrat à la signature et versait l'autre 50 % par un chèque postdaté au 1er février 2007; (nié)
+l) les contrats de déneigement prenaient fin le 31 mars mais le payeur a fait une sortie additionnelle le 5 avril 2007 suite à une bonne précipitation; (admis)
+m) à partir d'octobre 2006, les principales tâches de l'appelante se résumaient à :
+- prendre les appels des clients,
+- faire la tenue des livres comptables du payeur,
+- préparer la facturation aux clients,
+- aller à la banque et faire les dépôts,
+- faire diverses courses comme allé chercher des pièces pour la machinerie; (nié)
+n) en octobre et novembre 2006, l'appelant a reçu une rémunération mensuelle brute de 1 200 $ et, durant le reste de la période en litige, elle recevait 810 $ par 2 semaines; (nié)
+o) lors des journées de neige, c'est M. Raymond qui avisait les chauffeurs des déneigements à faire et l'appelante pouvait recevoir les communications des clients à partir de 8 h; (admis)
+p) après sa mise à pied, le 30 mars 2007, l'appelante a continué de rendre des services au payeur en complétant les fins de mois, en préparant les rapports trimestriels, en préparant la paie de l'un des chauffeurs ayant demeuré à l'emploi du payeur plus longtemps et en faisant certains travaux requis pour fermer l'année financière; (admis)
+q) à partir du 1er octobre 2006, alors que tous les contrats étaient renouvelés, le payeur aurait embauché l'appelante, à raison de 30 heures par semaine, pendant 17 semaines, pour répondre au téléphone et faire quelques entrées comptables à l'ordinateur. (nié)
+r) le peu de tâches confiées à l'appelante ne justifiaient pas une charge de travail de 30 heures par semaine; (nié)
+s) durant la période en litige, l'appelante recevait une rémunération plus élevée que les chauffeurs embauchés pour effectuer le déneigement, la nature même de l'existence du payeur; (nié)
+t) de juin à la fin de septembre 2006, alors que le payeur devait lancer son entreprise et qu'il y avait un surplus de travail, l'appelante travaillait sans rémunération; (nié)
+u) il n'est pas raisonnable de croire qu'un étranger aurait accepté de travailler pour le payeur aux conditions offertes à l'appelante. (nié)
+[3] Monsieur Michel Raymond, actionnaire unique et conjoint de l'appelante la représentait à l'audience. Après avoir été assermenté, il a admis les faits dont il est question aux alinéas 6 a), 6 c), 6 d), 6 e), 7 a) à 7 e), 7 g), 7 h), 7 l), 7 o) et 7 p) :
+6a) lors de la constitution de la société, les actions votantes du payeur étaient également réparties entre l'appelante et M. Michel Raymond; (admis)
+c) le 1er août 2006, M. Michel Raymond devenait l'unique actionnaire des actions comportant droit de vote du payeur; (admis)
+d) l'appelante est la conjointe de M. Michel Raymond. (admis)
+e) depuis le 1er août 2006, l'appelante est liée à une personne qui contrôle le payeur; (admis)
+7a) le payeur a débuté son entreprise en achetant l'achalandage de 310 clients de l'entreprise antérieure qui appartenait à M. Frank Raymond, frère de l'actionnaire du payeur; (admis)
+b) le payeur a acquis 3 véhicules (tracteurs) pour faire du déneigement; M. Michel Raymond en possédait déjà un pouvant servir de dépannage au payeur; (admis)
+c) durant sa première saison d'exploitation, le payeur a embauché 3 chauffeurs pour opérer ses tracteurs et effectuer du déneigement; (admis)
+d) un des chauffeurs du payeur agissait comme contremaître et recevait une rémunération fixe alors que les deux autres étaient rémunérés uniquement pour faire du déneigement; (admis)
+e) l'appelante a débuté à rendre des services au payeur le ou vers le 1er juin 2006, mais ce n'est que le 1er octobre que le payeur l'embauchait contre rémunération; (admis)
+g) l'appelante avait une formation en secrétariat et travaillait auparavant à temps partiel pour une clinique dentaire; (admis)
+h) en juin 2006, l'appelante a débuté à rendre des services au payeur pour structurer les registres de la compagnie et, au début de septembre, après avoir cessé son travail à la clinique dentaire, elle débutait à plein temps pour le payeur; (admis)
+l) les contrats de déneigement prenaient fin le 31 mars mais le payeur a fait une sortie additionnelle le 5 avril 2007 suite à une bonne précipitation; (admis)
+o) lors des journées de neige, c'est M. Raymond qui avisait les chauffeurs des déneigements à faire et l'appelante pouvait recevoir les communications des clients à partir de 8 h; (admis)
+p) après sa mise à pied, le 30 mars 2007, l'appelante a continué de rendre des services au payeur en complétant les fins de mois, en préparant les rapports trimestriels, en préparant la paie de l'un des chauffeurs ayant demeuré à l'emploi du payeur plus longtemps et en faisant certains travaux requis pour fermer l'année financière; (admis)
+[4] Il a expliqué comment il en était arrivé à exploiter l'entreprise de déneigement. Il a indiqué que sa disponibilité était limitée étant donné qu'il exploitait une autre entreprise avec un associé.
+[5] L'appelante occupait un poste de secrétaire-comptable dans un cabinet de dentiste où elle travaillait à temps partiel, soit une vingtaine d'heures par semaine. Elle a quitté ce travail pour s'associer sur une base 50‑50 avec son conjoint dans la nouvelle entreprise qu'il avait créée.
+[6] Il avait été convenu qu'elle s'occuperait de tout l'aspect administratif et comptable de la nouvelle entreprise étant donné la disponibilité limitée de son conjoint.
+[7] Ainsi, dans un premier temps, elle s'est occupée des nombreux renouvellements de contrats avant de s'investir dans des initiatives de promotion pour recruter de nouveaux clients. Le recrutement d'un nouveau client représentait une somme de travail plus grande qu'un simple renouvellement.
+[8] Au départ, alors qu'elle était co‑actionnaire, il était convenu que l'appelante devait recevoir une rémunération de 1 200 $ par mois. Un peu plus tard, elle a cédé, sans contrepartie, ses actions à son conjoint; il fut alors convenu qu'elle recevrait un salaire de 800 $ par période de deux semaines pour son travail.
+[9] L'appelante aurait transféré ses actions à titre gratuit au motif qu'elle trouvait les responsabilités inhérentes à son statut d'actionnaire contraignantes et elle préférait ne pas assumer de telles responsabilités.
+[10] Ce sont là les principaux éléments soumis par l'appelante et son conjoint. Quant à la charge de travail, l'appelante et son conjoint ont expliqué que la quantité de travail justifiait tant le salaire que la création même du poste. Ils ont fait valoir que le travail et sa rémunération étaient raisonnables. Ils ont également allégué que, bien que l'appelante était rémunérée à forfait pour chaque période de deux semaines, elle accomplissait environ 30 heures de travail par semaine.
+[11] Un calcul rapide permet de constater que, sur une base de 30 heures par semaine, elle recevait un salaire équivalent à celui qu'elle a reçu lorsqu'elle travaillait au cabinet de dentiste, ce qui vient étayer la thèse de l'appelante que la rémunération que lui versait l'intervenante était raisonnable.
+[12] Quant à la quantité de travail, l'appelante et son conjoint ont fourni plusieurs explications pour justifier la pertinence des tâches accomplies. L'intimé avait conclu que l'appelante avait exagéré en affirmant que ses tâches justifiaient une charge de travail de 30 heures par semaine.
+[13] Pour en arriver à cette conclusion, la vérificatrice a tenté de quantifier le temps requis pour répondre au téléphone, préparer des chèques, recevoir et payer les comptes, préparer des soumissions et des contrats et pour faire toutes les entrées dans le système informatique. Je n'accepte pas les calculs de la vérificatrice au motif qu'ils ne sont pas raisonnables.
+[14] En effet, toute entreprise, et plus particulièrement une nouvelle entreprise, se doit d'avoir une personne disponible en tout temps, particulièrement durant les heures normales d'affaires, pour répondre aux appels des clients, des clients potentiels et de toute personne voulant obtenir des renseignements.
+[15] Le calcul simpliste du temps consacré à l'exécution de chacune des tâches administratives n'est pas une formule acceptable pour calculer les heures assurables d'un travail. Le temps nécessaire pour assurer la continuité des services est un volet tout aussi important et fondamental qui a complètement été occulté de l'analyse. Or, il s'agit là d'une faiblesse importante dans l'analyse puisque, manifestement, le ministre a donné une importance déterminante à cet élément ayant conduit à la détermination.
+[16] Il y a donc lieu de refaire l'analyse à partir des éléments et des faits révélés par la preuve. À cet égard, j'ai retenu en termes de contexte que l'appelante n'avait rien investi dans un premier temps pour obtenir 50 % des actions de la société; quelques mois plus tard, elle cédait ses actions sans contrepartie. Ce sont là évidemment des éléments très peu pertinents quant à la question de l'assurabilité du travail. Par contre, ces faits illustrent bien le contexte particulier de la situation ou la dimension familiale caractérisant les relations entre les parties.
+[17] Pour ce qui est des faits pertinents et déterminants, l'appelante a bel et bien exécuté du travail. Il ne s'agissait aucunement d'un emploi de convenance. Il s'agissait d'un travail nécessaire qui a réellement été fourni.
+[18] Or, bien qu'à première vue, cette conclusion semble favoriser la thèse de l'appelante, elle a l'effet contraire.
+[19] Comment expliquer que ce travail réel et important n'a pas été rémunéré dès ses débuts? D'ailleurs, en matière de déneigement, le travail relatif à la recherche de contrats, de renouvellement, de présentation de soumissions et de réponses aux demandes de renseignements est un volet fondamental d'une telle entreprise. Or, une partie importante de ces tâches a été effectuée avant le début de la période de rémunération. Conséquemment, il ressort de la preuve que l'appelante a effectué une charge de travail fort importante sans rémunération, ce qu'un tiers n'aurait évidemment pas accepté de faire à titre gratuit.
+[20] Un autre élément fort important est la question de la rémunération. Au début, il avait été convenu que l'appelante recevrait une rémunération de 1 200 $ par mois, alors qu'elle était une actionnaire n'ayant rien investi, je le rappelle.
+[21] Or, une fois que l'appelante a cédé ses actions, voilà que les parties s'entendent pour que le salaire ne soit plus versé à raison de 1 200 $ par mois, mais à raison de 800 $ à toutes les deux semaines, c'est-à-dire 1 720 $ (calculé à raison de 400 $ semaine multiplié par le facteur 4.3) bénéficiant ainsi d'une augmentation de 520 $ par mois. Il est peu probable qu'une telle situation se serait produite si le travail avait été exécuté par un tiers. Un tel écart de salaire pour la même prestation de travail n'est certainement pas la norme sur le marché du travail dans le cas où les deux parties sont des tiers.
+[22] Un autre élément important est le fait que monsieur Michel Raymond a affirmé que l'appelante signait seule tous les chèques de l'entreprise. Encore là, un tiers n'aurait pas bénéficié d'un tel pouvoir. Il aurait probablement prévu qu'il fallait deux signatures aux chèques de l'entreprise, celle de l'employé et de monsieur Raymond.
+[23] Finalement, eu égard à la vocation de l'entreprise, la durée et l'intensité du travail auraient dû faire l'objet d'une description adoptée aux diverses périodes stratégiques; en effet, tel qu'indiqué précédemment, une entreprise dont la vocation est le déneigement doit investir temps et énergie au recrutement maximal de clients avant le début de l'hiver de manière à pouvoir planifier l'exécution du travail et l'obtention du matériel et de l'équipement pour l'exécution des contrats.
+[24] Dans un second temps, il s'agit essentiellement de recevoir les plaintes, de planifier l'exécution du travail et de voir à ce que les clients versent leur deuxième paiement au moment opportun.
+[25] Ainsi, de ces particularités découlent le fait que des heures de travail sont manifestement plus nombreuses au début de la période hivernale qu'au milieu de celui‑ci, où la question des horaires des personnes qui font le déneigement devient la plus grande préoccupation.
+[26] Finalement, la fin de la période de paye de l'appelante à la fin mars ne correspond pas, là non plus; avec la réalité des activités d'une telle entreprise.
+[27] De plus, il s'agit d'une entreprise dont les activités sont, d'après sa vocation même, saisonnières, d'où la preuve du début et de la fin des activités s'avère quelque chose de relativement simple à établir.
+[28] Cependant, en l'espèce, cette dimension semble avoir fait l'objet d'une évaluation influencée par la réalité familiale. En effet, l'appelante a de toute évidence travaillé sans rémunération en début de période pour la bonne et simple raison que l'entreprise n'avait pas suffisamment généré de revenus pour la rémunérer. Or, un tiers n'accepterait pas de travailler sans rémunération peu importent les raisons.
+[29] L'appelante et son conjoint ont affirmé avoir été en tout temps de bonne foi, ce dont je ne doute aucunement; ils ont manifestement été conseillés de manière à ce que l'appelante puisse recevoir des prestations d'emplois, eu égard à l'activité saisonnière de l'entreprise, ce qui en soi est tout à fait légitime.
+[30] Néanmoins, pour que l'appelante soit admissible aux prestations, il était impératif qu'elle conclue d'un contrat de louage de services comparable et similaire en tout point à celui qu'un tiers dans un contexte semblable aurait accepté.
+[31] Un tiers travaillerait moyennant une rémunération raisonnable; il ne travaillerait pas sans rémunération. De son côté, un employeur ne rémunérerait pas un employé s'il ne travaillait pas. Il rémunérerait un employé selon un barème raisonnable pour l'exécution d'une prestation de travail raisonnable.
+[32] En l'espèce, le contrat de travail de l'appelante ne correspondait pas à celui qu'une tierce personne aurait pu conclure. En effet, il s'agit d'une entreprise où les besoins de main-d'œuvre administrative (genre de travail effectué par l'appelante) sont très importants avant le début de la saison hivernale (renouvellement, publicité, contrat, cédule – Plan – demande de renseignements, et ainsi de suite).
+[33] Une fois la saison engagée, il y a nécessairement un ralentissement au niveau administratif et l'accent est alors mis sur l'exécution des travaux de déneigement. Après la saison, il y a toutes les charges liées à la cessation des activités, à la préparation des rapports, etc.
+[34] La meilleure approche pour une personne ayant un lien de dépendance est de conclure un contrat de travail qui serait en tout point conforme à celui qu'un tiers obtiendrait dans un contexte semblable.
+[35] Pour toutes ces raisons, bien que l'analyse qui a été faite dans le cadre du pouvoir discrétionnaire prévu à l'alinéa 5(2)i) de la Loi présente de graves lacunes, je dois confirmer la justesse et le bien-fondé de la détermination selon laquelle le lien de dépendance qui existait entre l'appelante et l'entreprise a exercé une influence sur le contrat de travail qu'elles ont conclu.
+[36] Pour toutes ces raisons, l'appel est donc rejeté.
+Signé à Ottawa, Canada, ce 7e jour de février 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2008CCI53
+Nº DU DOSSIER DE LA COUR : 2007-3425(EI)
+INTITULÉ DE LA CAUSE : MÉLANY-MANON BILODEAU ET MRN
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : le 16 janvier 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 7 février 2008
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Christina Ham
+Représentant de l'appelante :
+Michel Raymond
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Pour l'intervenante :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

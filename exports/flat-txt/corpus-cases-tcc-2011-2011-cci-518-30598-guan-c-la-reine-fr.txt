@@ -1,0 +1,204 @@
+Title: Guan c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30598/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-518-30598-guan-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-11-10
+
+# Guan c. La Reine
+
+- Citation: 2011 CCI 518
+- Decision date: 2011-11-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7153, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-11-10
+Référence neutre
+2011 CCI 518
+Numéro de dossier
+2008-2034(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2034(IT)G
+ENTRE :
+XIU J. GUAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 octobre 2011, à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Sheherazade Ghorashy
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années 2002, 2003, 2004, 2005 et 2006 est rejeté avec dépens conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 10e jour de novembre 2011.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 29e jour de décembre 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2011 CCI 518
+Date : 20111110
+Dossier : 2008-2034(IT)G
+ENTRE :
+XIU J. GUAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V. A. Miller
+[1] En l’espèce, il s’agit de savoir si l’appelante avait un revenu non déclaré provenant de la vente d’alcool pour chacune des années d’imposition 2002 à 2006. Le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’égard des années d’imposition 2002 à 2006 de l’appelante.
+Année
+d’imposition
+Revenu
+déclaré
+Revenu net
+non déclaré
+Pénalités pour
+faute lourde
+2002
+14 500,00 $
+47 505,61 $
+4 491,00 $
+2003
+28 150,00 $
+165 969,08 $
+21 950,00 $
+2004
+28 150,00 $
+39 018,38 $
+3 978,00 $
+2005
+0,00 $
+44 348,47 $
+2 639,00 $
+2006
+0,00 $
+126 325,11 $
+12 763,00 $
+La nouvelle cotisation relative à l’année d’imposition 2002 a été établie après l’expiration de la période normale de nouvelle cotisation suivant le paragraphe 152(4) de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Le ministre est d’avis qu’au cours des années visées par l’appel, l’appelante achetait de l’alcool au Nouveau‑Brunswick et la vendait au Québec ou en Ontario au double[1] du prix d’achat. Il estime donc que le revenu net non déclaré de l’appelante correspond au prix d’achat de l’alcool. Je signale que, dans le rapport de vérification[2], le vérificateur a supposé que l’appelante avait peut‑être envoyé une partie de l’alcool à Hong Kong, où l’alcool acheté par l’appelante se vend pour une somme dix fois plus élevée. La cotisation n’est toutefois pas fondée sur cette hypothèse.
+[3] Ont témoigné à l’audience, l’appelante; Martin Béliveau, sergent‑superviseur à la Sûreté du Québec; Veronica Hatt, chef de l’équipe de vérification à l’Agence du revenu du Canada (l’« ARC »); William Hatfield, ancien directeur de magasin auprès de la Société des alcools du Nouveau‑Brunswick; John Boise, directeur adjoint auprès de la Société des alcools du Nouveau‑Brunswick; et Richard Potvin, sergent d’état‑major à la Gendarmerie royale du Canada (la « GRC »).
+[4] Comme c’est le cas dans un grand nombre d’affaires où la question en litige porte sur un revenu non déclaré, l’issue de l’appel repose sur les conclusions tirées en matière de crédibilité. Après avoir apprécié l’ensemble de la preuve, je conclus que la preuve de l’appelante n’est pas digne de foi. La preuve dont j’ai été saisie est énoncée ci‑dessous.
+[5] L’appelante est également connue sous le nom de « Jenny » et de « Hsui Kin Kwan ».
+[6] Pendant la période visée par l’appel, l’appelante et Weng Sang Wong étaient copropriétaires d’un comptoir de mets chinois à emporter situé à Saint John, au Nouveau‑Brunswick. Le restaurant était connu sous le nom de Hong Kong Take-Out Corporation (le « restaurant »).
+[7] L’appelante travaillait au restaurant pendant la période visée par l’appel et y a travaillé jusqu’à la vente de celui‑ci en septembre 2009. Son revenu déclaré en 2002, en 2003 et en 2004 provenait du restaurant.
+[8] Le restaurant ne détenait pas de permis de vente d’alcool, il ne possédait pas les installations nécessaires pour vendre de l’alcool et il ne vendait pas d’alcool.
+[9] Au cours d’une enquête menée en 2004, la GRC a découvert que Weng Sang Wong faisait la culture de la marijuana dans une maison qui appartenait à l’appelante. Au cours de la même enquête, la GRC a également appris que l’appelante achetait de grandes quantités d’alcool dispendieux (surtout du cognac) au moyen de montants importants d’« argent comptant ». La plupart des achats de l’appelante étaient effectués au magasin d’alcools no 36 du Nouveau‑Brunswick (le « magasin no 36 »), qui était situé au Parkway Mall à Saint John.
+[10] En 2004, la GRC a demandé à la Société des alcools du Nouveau‑Brunswick de lui fournir des copies des reçus de toutes les ventes d’alcool faites à l’appelante entre 2002 et 2004 au magasin no 36. Elle lui a également demandé de conserver des copies des reçus de toutes les ventes futures qui seraient faites à l’appelante.
+[11] William Hatfield, qui était directeur du magasin no 36 pendant la période visée par l’appel, a témoigné qu’il connaissant l’appelante en raison de ses visites au magasin no 36. Le bureau principal lui avait donné comme consigne de conserver les copies des reçus des achats de l’appelante et il avait donné la même consigne à ses employés.
+[12] Richard Potvin, un sergent d’état‑major qui travaillait dans la Division intégrée des produits de la criminalité, a dit que, jusqu’en mai 2006, il recevait tous les reçus qui avaient été demandés du directeur du magasin no 36. Comme la preuve recueillie ne permettait pas à la GRC de cerner une infraction précise, la GRC a renvoyé l’affaire à l’Agence du revenu du Canada (l’ « ARC »).
+[13] Un vérificateur à l’ARC a demandé des renseignements financiers à l’appelante afin de pouvoir établir une cotisation fondée sur la valeur nette. L’appelante n’a pas fourni les renseignements demandés et n’a pas non plus répondu à une lettre que le ministre lui a envoyée par la suite et dans laquelle il l’informait de son intention d’établir de nouvelles cotisations à l’égard de ses années d’imposition 2001 à 2006. Au cours du contre‑interrogatoire, l’appelante a mentionné qu’elle n’avait pas fourni de relevés bancaires parce qu’il aurait fallu qu’elle débourse 300 $ pour recevoir des copies de ses relevés bancaires de chacune des banques où elle détenait des comptes.
+[14] La preuve de l’appelante révélait que, au cours de la période, elle avait deux cartes de crédit et des comptes bancaires dans six banques différentes. Le ministre était seulement au courant de l’existence des deux cartes de crédit et de deux des comptes bancaires. Le ministre a reçu les relevés bancaires de l’appelante pour ces comptes suivant l’envoi d’une demande péremptoire aux banques.
+[15] Pour établir les nouvelles cotisations à l’égard de l’appelante pour les années d’imposition 2002 à 2006, le ministre a tenu pour acquis les faits que j’ai mentionnés ci‑dessus et les faits suivants :
+[traduction]
+h) en plus de travailler au restaurant, l’appelante participait à l’achat et à la revente d’alcool;
+i) pendant la période visée par l’appel, l’appelante a acheté de l’alcool haut de gamme au Nouveau‑Brunswick en vue de le revendre au Québec et en Ontario;
+j) l’appelante a transporté au Québec et en Ontario l’alcool qu’elle avait acheté au Nouveau‑Brunswick;
+k) l’appelante a vendu l’alcool qu’elle avait acheté au Nouveau‑Brunswick à divers endroits au Québec et en Ontario;
+l) l’appelante a déposé l’argent provenant de la vente de l’alcool au Québec et en Ontario dans son compte à la Banque Royale du Canada dans diverses succursales de la Banque Royale du Canada;
+m) les dépôts susmentionnés ont été effectués à diverses succursales de la Banque Royale du Canada le long du parcours que l’appelante empruntait pour transporter l’alcool du Nouveau‑Brunswick au Québec et en Ontario;
+n) l’appelante a fait plusieurs achats d’alcool au moyen de montants importants d’argent comptant;
+o) l’appelante a acheté la majeure partie de l’alcool au magasin no 36 de la Société des alcools du Nouveau‑Brunswick situé au Parkway Mall à Saint John, au Nouveau‑Brunswick;
+p) le magasin d’alcools no 36 au Nouveau‑Brunswick est situé à moins de cinq kilomètres du restaurant et à moins de un kilomètre de la succursale de la Banque Royale du Canada où l’appelante avait un compte;
+q) l’appelante a acheté surtout du Remy Martin X.O., du Hennessy X.O. et du Courvoisier;
+r) l’appelante n’a pas acheté l’alcool afin de le consommer personnellement, d’en faire la collection ou de l’offrir en cadeau;
+s) l’appelante a payé l’alcool au Nouveau‑Brunswick au moyen de divers modes de paiement, notamment son compte à la Banque Royale du Canada, son compte VISA à la Banque de Montréal et de l’argent comptant;
+t) l’appelante a vendu l’alcool qu’elle avait acheté au Nouveau‑Brunswick à un prix majoré de 100 % à divers endroits au Québec et en Ontario;
+u) l’appelante n’a pas déclaré le revenu tiré de la vente de l’alcool qui s’est élevé à 47 505,61 $, à 165 969,08 $, à 39 018,38 $, à 44 348,47 $ et à 126 325,11 $ dans ses déclarations de revenus pour les années d’imposition 2002, 2003, 2004, 2005 et 2006, respectivement;
+v) l’appelante exploitait sa propre entreprise;
+w) le 26 octobre 2005, l’appelante et son associé, Dazhen Lin, ont été interceptés par la Sûreté du Québec alors qu’ils se déplaçaient dans un véhicule sur les routes du Québec et ont été trouvés en possession de 165 bouteilles d’alcool;
+x) le 26 octobre 2005, l’appelante a été arrêtée par la Sûreté du Québec et accusée de transport d’alcool à partir du Nouveau‑Brunswick;
+y) la valeur de l’alcool susmentionné trouvé en possession de l’appelante par la Sûreté du Québec s’élevait à 30 412 $ (16 515,56 $ au Nouveau‑Brunswick);
+z) les dépôts de l’appelante dans son compte à la Banque Royale du Canada étaient beaucoup plus importants que le revenu qu’elle tirait du restaurant;
+aa) l’appelante savait que les dépôts dans son compte à la Banque Royale du Canada étaient beaucoup plus importants que le revenu qu’elle tirait du restaurant;
+bb) l’appelante a utilisé les fonds du restaurant pour acheter l’alcool aux fins de revente;
+cc) à partir de décembre 2005, les ventes et les recettes du restaurant ont été déposées dans le compte personnel de l’appelante à la Banque Royale du Canada.
+Preuve de l’appelante
+[16] La preuve de l’appelante en ce qui a trait aux hypothèses du ministre était la suivante :
+a) Elle a reconnu avoir acheté l’alcool, mais elle a toutefois nié l’avoir vendu. Elle a affirmé avoir acheté l’alcool pour Dazhen Lin, le gérant du restaurant. Elle l’aidait et elle ne savait pas qu’il le vendrait. Elle a insisté sur le fait qu’il n’est pas illégal d’acheter de l’alcool et qu’elle faisait seulement ce qu’on lui disait de faire. Plus loin dans son témoignage, l’appelante a affirmé qu’elle commandait l’alcool du magasin no 36 pour le compte d’autres personnes et que, parfois, elle allait au magasin pour l’acheter, alors qu’à d’autres occasions, d’autres personnes allaient au magasin pour payer l’alcool. Elle a mentionné que ces autres personnes étaient vietnamiennes. Elle n’avait pas acheté l’alcool à des fins personnelles, elle l’avait acheté pour ses amis.
+b) Elle n’avait pas transporté d’alcool au Québec et en Ontario et elle n’avait jamais déposé d’argent dans son compte à la Banque Royale du Canada (la « RBC ») par l’intermédiaire d’une succursale de la RBC au Québec. Elle déposait parfois de l’argent dans son compte de la RBC à des succursales de la RBC en Ontario. Elle a mentionné qu’elle faisait des dépôts en Ontario parce que sa mère et sa fille vivaient là.
+c) L’appelante a reconnu que certains de ses achats d’alcool étaient payés au moyen de montants importants d’argent comptant, alors que d’autres achats étaient payés par chèque, par carte de crédit ou au moyen de la carte de débit de son compte à la RBC. Elle avait fait l’achat d’alcool avec des montants de 10 000 $ en argent comptant, mais elle ne se rappelait pas à quelle fréquence. Elle a contesté le fait que la majeure partie de l’alcool acheté était du cognac et elle a affirmé qu’elle avait acheté divers types d’alcool, même du vin rouge.
+d) L’appelante a nié le fait qu’elle était avec Dazhen Lin lorsqu’il a été arrêté au Québec pour le transport d’alcool provenant du Nouveau‑Brunswick. Selon elle, Dazhen Lin conduisait la voiture de l’appelante, mais ce n’était pas elle qui était avec lui dans le véhicule, c’était la fille de Dazhen Lin. Elle n’a jamais été arrêtée et accusée par la Sûreté du Québec. Elle a insisté sur le fait que, si elle avait été accusée, on ne lui aurait jamais accordé la citoyenneté canadienne.
+e) Il était impossible que les dépôts dans son compte à la RBC aient été beaucoup plus élevés que ce qu’elle avait gagné au restaurant, étant donné qu’il y avait très peu d’argent dans son compte. Le restaurant ne lui rapportait qu’environ 25 000 $ annuellement.
+f) Le compte bancaire du restaurant était à la même succursale de la RBC que son compte personnel, mais il était au nom de 510594 New Brunswick Inc. Elle a nié le fait que, à compter de décembre 2005, les recettes provenant du restaurant étaient déposées dans son compte personnel à la RBC.
+g) Elle a affirmé que, de 2002 à 2006, son revenu provenait uniquement du restaurant.
+[17] L’appelante a produit trois pièces :
+a) Son passeport chinois, qui a été délivré le 10 mars 2003 et dont la date d’expiration était le 9 mars 2008. Elle a dit que le passeport démontrait qu’à maintes reprises elle était absente du Canada lors de l’achat de l’alcool;
+b) Une lettre datée du 15 novembre 2007 de l’appelante à l’intention du magasin no 36 dans laquelle l’appelante demande confirmation pour les éléments suivants :
+(i) elle avait un compte au magasin depuis 2002;
+(ii) Andrew Dazhen Lin, ses amis et elle achetaient l’alcool en donnant son nom et en utilisant son compte;
+(iii) ses amis utilisaient son compte lorsqu’elle n’était pas à Saint John.
+La lettre comportait un post‑scriptum indiquant [traduction] « confirmant cette situation » et était signée par W. Hatfield.
+c) Une lettre datée du 15 mars 2010 de l’appelante à l’intention de l’ARC, qui reprenait essentiellement le contenu de la lettre datée du 15 novembre 2007 susmentionnée.
+[18] En l’espèce, c’est l’appelante qui avait le fardeau d’établir que le revenu calculé par le ministre était erroné. Elle aurait pu le faire en prouvant qu’elle n’avait pas de revenu non déclaré ou que le montant de la cotisation était trop élevé[3].
+[19] Cependant, le témoignage de l’appelante a été contredit par les documents et par d’autres témoins. J’ai conclu que son témoignage n’était pas digne de foi.
+[20] Elle a affirmé avoir acheté l’alcool pour ses amis, mais elle n’a pas demandé à ses amis de témoigner en sa faveur. Lorsqu’on lui a demandé quel avantage elle avait tiré de ces achats, elle a mentionné qu’elle avait agi de la sorte afin de recevoir les boîtes gratuitement du magasin d’alcools. Elle utilisait les boîtes pour les commandes à emporter au restaurant. Toutefois, selon le témoignage de William Hatfield, il n’était pas nécessaire d’effectuer un achat pour obtenir des boîtes du magasin et le magasin ne facturait pas les boîtes vides.
+[21] William Hatfield et John Boise ont tous les deux confirmé que les seuls reçus qui étaient conservés et remis à la GRC étaient les reçus des achats effectués par l’appelante. William Hatfield a dit qu’il avait vu l’appelante au magasin avec Dazhen Lin, mais qu’aucun reçu n’était conservé lorsque d’autres personnes achetaient l’alcool. John Boise ne se rappelait pas avoir vu qui que ce soit acheter de l’alcool pour le compte de l’appelante. Il a affirmé que, parfois, des personnes venaient au magasin avec l’appelante, mais c’était toujours l’appelante qui achetait l’alcool.
+[22] Selon John Boise, l’appelante achetait surtout du Remy Martin X.O. et, entre 2002 et 2006, elle a été la seule personne à acheter des quantités importantes de cognac. Cet élément de preuve a été corroboré par William Hatfield, qui a affirmé que, la majeure partie du temps, l’appelante achetait du cognac dispendieux et qu’elle était la seule cliente qui achetait du cognac en grande quantité au magasin no 36. En fait, le magasin n’avait pas beaucoup de cognac en stock et l’appelante appelait le magasin pour commander du cognac. M. Hatfield commandait le cognac pour l’appelante et l’appelait lorsque le magasin recevait la marchandise.
+[23] La preuve documentaire révélait également que l’appelante avait acheté de grandes quantités de cognac, surtout du Remy Martin X.O. Le nombre de bouteilles de Remy Martin X.O. achetées en 2002, en 2003 et en 2006 s’élevait à 424, à 1473 et à 847, respectivement. Il n’existe aucune preuve du nombre de bouteilles achetées en 2004 et en 2005.
+[24] M. Hatfield a mentionné que l’appelante n’avait pas de compte au magasin no 36. Seules les entreprises qui avaient un permis de vente d’alcool avaient un compte au magasin. À son avis, le contenu de la lettre datée du 15 novembre 2007 était faux. Il ne savait pas pourquoi il avait signé la lettre, et, à l’époque, il ne voyait rien de mal à signer la lettre.
+[25] Je conclus que la déclaration de l’appelante selon laquelle elle n’était pas avec Dazhen Lin lors de son arrestation au Québec a été réfutée par le témoignage de Martin Béliveau, sergent‑superviseur à la Sûreté du Québec. Il a déclaré qu’il avait participé à l’arrestation de deux personnes, un homme et une femme, le 26 octobre 2005, près de la ville de Québec sur l’autoroute 20. Les personnes avaient 165 bouteilles d’alcool (principalement du cognac) dans le véhicule et elles avaient été arrêtées pour transport d’alcool. Il a affirmé que le dossier relatif à cette affaire avait depuis été détruit, mais qu’il avait toujours ses notes concernant l’arrestation. Selon ses notes, la femme dans la voiture était la propriétaire de l’automobile, Hsui Kin Kwan. L’homme, Dazhen Lin, avait été inculpé et déclaré coupable de transport d’alcool. Les deux occupants de la voiture avaient été arrêtés, mais la femme n’avait pas été accusée parce que Dazhen Lin avait dit que l’alcool lui appartenait.
+[26] Compte tenu de la preuve, je suis convaincue que le revenu non déclaré ajouté au revenu de l’appelante ne comprenait pas de montants reçus pour l’alcool acheté par d’autres personnes. Je suis également convaincue que le prix d’achat de l’alcool saisi qui appartenait à Dazhen Lin n’a pas été inclus dans le revenu non déclaré établi à l’égard de l’appelante.
+[27] Un examen des relevés bancaires du compte de l’appelante à la RBC a révélé que les dépôts dans son compte s’élevaient à 76 788,63 $, à 51 553,29 $ et à 23 271,45 $ en 2002, en 2003 et en 2004, respectivement. Certains des dépôts ont été effectués dans d’autres succursales de la RBC, mais je n’ai été saisie d’aucun élément de preuve quant à l’emplacement de ces succursales. À partir de décembre 2005, les ventes et les recettes du restaurant ont également été déposées dans le compte de l’appelante à la RBC.
+[28] L’appelante a répondu à bon nombre de questions de façon évasive et cavalière. Par exemple, lorsqu’on lui a demandé de lire des parties de son passeport qui étaient dans une langue autre que l’anglais, elle a répondu que je pouvais consulter un agent d’immigration. Les timbres d’immigration que je pouvais lire montraient de l’appelante s’était rendue à Hong Kong six fois en 2003 et une fois en 2005. Dans la plupart des cas, elle était arrivée à Hong Kong et en était repartie le jour même. De plus, aucune des inscriptions n’étayait la preuve de l’appelante selon laquelle elle était à l’extérieur du pays lorsque les achats d’alcool avaient été effectués.
+[29] Mon analyse de la preuve de l’appelante, le manque de documents de la part de l’appelante, les réponses évasives qu’elle a données dans son témoignage et l’absence de témoins essentiels m’ont amenée à conclure que l’appelante ne s’est pas acquittée du fardeau qui lui incombait.
+[30] Le ministre a établi une nouvelle cotisation pour l’année d’imposition 2002 après l’expiration de la période normale de nouvelle cotisation et c’est à lui qu’il incombe de montrer que, dans sa déclaration de revenus, l’appelante a fait une présentation erronée des faits, par négligence, inattention, omission volontaire ou fraude.
+[31] Dans l’arrêt Lacroix c. R.[4], la Cour d’appel fédérale a traité de la façon dont le ministre pouvait s’acquitter du fardeau de la preuve dans une situation où le contribuable a fait l’objet d’une cotisation fondée sur la valeur nette établie après l’expiration de la période normale de cotisation. Rédigeant les motifs de la Cour d’appel fédérale, le juge Pelletier a formulé les commentaires suivants :
+30 Les faits en preuve, dans un tel cas, sont que la déclaration de revenu du contribuable fait une présentation erronée des faits et que la seule explication offerte par le contribuable est jugée non crédible. Évidemment, il doit y avoir une autre explication pour ce revenu. Il faut donc conclure que le contribuable a une source de revenu qu’il n’a pas déclarée, qu’il est au courant de cette source et qu’il refuse de la divulguer puisque les explications qu’il a offertes n’ont pas été jugées crédibles. En de telles circonstances, la conclusion que la fausse déclaration de revenu a été produite sciemment ou dans des circonstances équivalant à faute lourde me semble inéluctable. Cela justifie non seulement l’imposition d’une pénalité mais aussi l’établissement de la nouvelle cotisation hors de la période statutaire.
+[…]
+32 Qu’en est-il alors du fardeau du ministre? Comment s’en acquitte‑t‑il? Il se peut que dans certaines circonstances, le ministre soit en mesure de faire une preuve directe de l’état d’esprit du contribuable lorsque ce dernier a produit sa déclaration de revenu. Mais dans la grande majorité des cas, le ministre ne pourra que miner la crédibilité du contribuable, soit par des éléments de preuve qu’il apporte, soit en contre-interrogatoire du contribuable. Dans la mesure où la Cour canadienne de l’impôt est persuadée que le contribuable touche un revenu qu’il n’a pas déclaré et que l’explication offerte par le contribuable pour l’écart constaté entre son revenu déclaré et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de preuve qui lui incombe aux termes du sous‑alinéa 152(4)a)(i) et du paragraphe 162(3).
+33 Comme le dit si bien le juge Létourneau dans Molenaar c. Canada, 2004 CAF 349, 2004 D.T.C. 6688, au paragraphe 4 :
+4 À partir du moment où le ministère établit selon des données fiables un écart, substantiel dans le cas présent, entre les actifs d’un contribuable et ses dépenses et où cet écart demeure inexpliqué et inexplicable, le ministère a assumé son fardeau de preuve. Il appartient alors au contribuable d’identifier la source et d’établir la nature non imposable de ses revenus.
+[32] J’ai conclu que l’appelante n’a pas fourni d’explication crédible à l’égard de l’écart entre son revenu déclaré et le revenu établi par le ministre. Le revenu non déclaré était beaucoup plus élevé que son revenu déclaré. L’omission de l’appelante d’inclure le revenu non déclaré n’était pas un simple oubli. Elle était une femme d’affaires comptant plusieurs années d’expérience. Elle avait recours aux services d’un comptable pour l’aider à établir ses déclarations de revenus. Aucun élément de preuve crédible permettant de réfuter les hypothèses formulées par le ministre n’a été présenté. Je suis convaincue que l’appelante a gagné un revenu non déclaré. Par conséquent, le ministre s’est acquitté du fardeau qui lui incombait en vertu du sous‑alinéa 152(4)a)(i) et du paragraphe 163(2) de la Loi.
+[33] L’appel est rejeté avec dépens.
+Signé à Toronto (Ontario), ce 10e jour de novembre 2011.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 29e jour de décembre 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011 CCI 518
+NO DU DOSSIER DE LA COUR : 2008-2034(IT)G
+INTITULÉ : XIU J. GUAN c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 12 octobre 2011
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 10 novembre 2011
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Sheherazade Ghorashy
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Un vérificateur à l’ARC a comparé le prix de chaque type d’alcool acheté par l’appelante au Nouveau‑Brunswick et leur prix en Ontario et au Québec. Il a constaté qu’en moyenne l’alcool acheté par l’appelante au Nouveau‑Brunswick était vendu en Ontario et au Québec au double du prix payé au Nouveau‑Brunswick.
+[2] Pièce R-1, onglet 29
+[3] Commercial Hotel Ltd. v. M.N.R., [1948] Ex. C. R. 108
+[4] 2008 CAF 5625

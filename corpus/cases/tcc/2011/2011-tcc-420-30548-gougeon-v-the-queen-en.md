@@ -1,0 +1,142 @@
+---
+title: "Gougeon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30548/index.do"
+last_modified: "2011-10-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 420"
+citation2: ""
+neutral_citation: "2011 TCC 420"
+decision_date: "2011-10-11"
+language: "en"
+item_id: "30548"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7320
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:14:18.968000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ca5f039d90e1e4217e9599df3d70a738e7146ce7a8d09eb45f8cc6dca58a14da"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gougeon v. The Queen
+
+- Citation: 2011 TCC 420
+- Decision date: 2011-10-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7320, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gougeon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-11
+Neutral citation
+2011 TCC 420
+File numbers
+2010-2628(GST)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-2628(GST)I
+BETWEEN:
+PIERRE GOUGEON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 28 and August 31, 2011, at Ottawa, Ontario
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Éric Bernatchez
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under Part IX of the Excise Tax Act, notice of which is dated January 6, 2009, and concerns the period from February 28, 2006, to February 29, 2008, is dismissed.
+Signed, this 11th day of October 2011.
+“François Angers”
+Angers J.
+Translation certified true
+On this 31st day of October 2011.
+Johanna Kratz, Translator
+Citation: 2011 TCC 420
+Date: 20111011
+Docket: 2010-2628(GST)I
+BETWEEN:
+PIERRE GOUGEON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from an assessment of the Appellant dated January 6, 2009, under Part IX of the Excise Tax Act (the “Act”). The Appellant was assessed for $10,015.92 in net tax, and associated interest and penalties, which the corporation Quadrisard Canada ltée (the “corporation”) should have paid under subsection 228(2) of the Act. The Appellant was the corporation’s sole director during the relevant period.
+[2] It is undisputed that the corporation is a body corporate duly incorporated and registered for the purposes of Part IX of the Act. The corporation failed to remit the tax it had collected. It was assessed for tax, including penalties and interest, for the February 28, 2006, to February 29, 2008, period.
+[3] On November 10, 2008, the corporation went bankrupt, and the Minister of National Revenue (the “Minister”) registered a certificate for the tax, penalties and interest payable by the corporation ,within the time prescribed at paragraph 323(2)(c).
+[4] The only issue is whether the Appellant, in his capacity as director, exercised the degree of care, diligence and skill to prevent the failure that a reasonably
+prudent person would have exercised in comparable circumstances, as required by subsection 323(3) of the Act, thereby avoiding liability under subsection 323(1) of the Act.
+[5] According to the Appellant, the corporation’s financial difficulties began in 2000, when it lost its computer data. As he still believed that the corporation was able to generate profit, he prepared a new business plan in 2003 or 2004. The corporation was a local business that sold and manufactured framed and laminated wall decorations.
+[6] The Appellant was a senior manager of the corporation and, as we know, its sole director. As the corporation was already late in its remittances, in September 2005, he applied to the bank for an increase in the corporation’s line of credit. The application was denied. He then invested his own money in the corporation so that the corporation could meet its financial obligations. He thus succeeded in paying some of the tax arrears payable by the corporation to the Minister, and his evidence includes letters proposing various arrangements for paying the corporation’s tax arrears.
+[7] The corporation ran into difficulties, particularly in 2005 and 2006, that hardly helped its financial situation. These difficulties involved disputes with its tenant and with employees. As for paying taxes under the Act, the corporation paid only the arrears. In fact, the amount of the assessment under appeal was calculated using the returns produced by the corporation during the periods at issue, for which it had not, however, made any payments.
+[8] The Appellant has undoubtedly put a great deal of effort into making his business profitable, which, however, ran into difficulties that definitely did not help. It must however be recalled that what the Act requires of a director is to demonstrate that he or she was specifically concerned about the corporation’s failure to remit its taxes and that he or she exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[9] In a recent decision, Buckingham v. Canada, 2011 FCA 142, the Federal Court of Appeal reminded us of Parliament’s intention regarding the relevant provisions. At paragraphs 52, 56 and 57, the Court stated as follows:
+Parliament did not require that directors be subject to an absolute liability for the remittances of their corporations. Consequently, Parliament has accepted that a corporation may, in certain circumstances, fail to effect remittances without its directors incurring liability. What is required is that the directors establish that they were specifically concerned with the tax remittances and that they exercised their duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts.
+. . .
+A director of a corporation cannot justify a defence under the terms of subsection 227.1(3) of the Income Tax Act where he condones the continued operation of the corporation by diverting employee source deductions to other purposes. The entire scheme of section 227.1 of the Income Tax Act, read as a whole, is precisely designed to avoid such situations. In this case, though the respondent had a reasonable (but erroneous) expectation that the sale of the online course development division could result in a large payment which could be used to satisfy creditors, he consciously transferred part of the risks associated with this transaction to the Crown by continuing operations knowing that employee source deductions would not be remitted. This is precisely the mischief which subsection 227.1 of the Income Tax Act seeks to avoid.
+Once the trial judge found as a matter of fact that the respondent’s efforts after February 2003 were no longer directed towards the avoidance of failures to remit, no successful defence under either subsection 227.1(3) of the Income Tax Act or subsection 323(3) of the Excise Tax Act could be sustained.
+[10] The Appellant managed his business for several years, and throughout these years, the corporation was consistently late in its remittances, explaining the amount of interest and penalties in the assessment. It becomes clear therefore that the corporation cared little about making its remittances when they were due and that the Appellant, being its directing mind and fully aware of the situation, cared little about this duty. In his capacity as director, it was also his duty to ensure that the corporation make its remittances when they were due.
+[11] It seems clear to me in the present matter that the director preferred to use this money to finance the corporation’s activities, which the statutory provision actually intends to prevent. I quote here another excerpt from Buckingham v. Canada, 2011 FCA 142:
+49 The traditional approach has been that a director’s duty is to prevent the failure to remit, not to condone it in the hope that matters can be rectified subsequently: Canada v. Corsano, [1999] 3 F.C. 173 (C.A.) at para. 35, Ruffo v. Canada, 2000 D.T.C. 6317, [2000] 4 C.T.C. 39 (F.C.A.). Contrary to the suppliers of a corporation who may limit their financial exposure by requiring cash-in-advance payments, the Crown is an involuntary creditor. The level of the Crown’s exposure to the corporation can thus increase if the corporation continues its operations by paying the net salaries of the employees without effecting employee source deductions remittances, or if the corporation decides to collect GST/HST from customers without reporting and remitting these amounts in a timely fashion. In circumstances where a corporation is facing financial difficulties, it may be tempting to divert these Crown remittances in order to pay other creditors and thus ensure the continuation of the operations of the corporation. It is precisely such a situation which both section 227.1 of the Income Tax Act and section 323 of the Excise Tax Act seek to avoid. The defence under subsection 227.1(3) of the Income Tax Act and under subsection 323(3) of the Excise Tax Act should not be used to encourage such failures by allowing a due diligence defence for directors who finance the activities of their corporation with Crown monies on the expectation that the failures to remit could eventually be cured.
+[12] The Appellant has not demonstrated that he took concrete steps to ensure that the remittances be made when they were due. Rather, his steps were curative in nature, since he preferred negotiating long-term payment agreements for paying the arrears.
+[13] The Appellant has failed to demonstrate that his inaction in this case was justified because he lacked the knowledge or ability to prevent the failure. The appeal is dismissed.
+Signed, this 11th day of October 2011.
+“François Angers”
+Angers J.
+Translation certified true
+On this 31st day of October 2011.
+Johanna Kratz, Translator
+CITATION: 2011 TCC 420
+COURT FILE NO.: 2010-2628(GST)I
+STYLE OF CAUSE: Pierre Gougeon v. Her Majesty the Queen
+PLACE OF HEARING: Ottawa, Ontario
+DATES OF HEARING: June 28, and August 31, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: October 11, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Éric Bernatchez
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

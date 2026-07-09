@@ -1,0 +1,117 @@
+Title: Rasmussen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/107976/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-34-107976-rasmussen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-02-11
+
+# Rasmussen v. The Queen
+
+- Citation: 2015 TCC 34
+- Decision date: 2015-02-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2749, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rasmussen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-02-11
+Neutral citation
+2015 TCC 34
+File numbers
+2013-3925(GST)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-3925(GST)I
+BETWEEN:
+TOM R. RASMUSSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 19, 2014, at Ottawa, Canada.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Pierre Ranger
+Counsel for the Respondent:
+Carole Plourde
+JUDGMENT
+The appeal from the reassessments made under the Excise Tax Act for the periods beginning October 1, 2007 and ending September 30, 2011 is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of February 2015.
+“Patrick Boyle”
+Boyle J.
+Citation: 2015 TCC 34
+Date: 20150211
+Docket: 2013-3925(GST)I
+BETWEEN:
+TOM R. RASMUSSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] In this Informal Procedure appeal, Mr. Rasmussen has appealed to the Court in respect of the denial by Canada Revenue Agency (“CRA”) of input tax credits (“ITCs”) in respect of his racehorse farming activities for the periods beginning October 1, 2007 and ending September 30, 2011. It is the Respondent’s position that Mr. Rasmussen did not qualify for ITCs because he was not engaged in commercial activities. Specifically, it is the Respondent’s position that Mr. Rasmussen’s activities did not have a reasonable expectation of profit or “REOP”. The taxpayer agrees that the issue to be determined is whether his activities were commercial activities. It is the taxpayer’s position that his activities constituted a business carried on by him with a REOP.
+Facts [2] Mr. Rasmussen testified as the only witness. He began his farming activities in 1991. On the evidence before the Court at the hearing, I find that from the outset, or at least from very early on, this was comprised of both standardbred horse breeding and standardbred horse racing activities. In most of the years preceding the years in issue, horse breeding was the primary farming activity and horse racing the secondary.
+[3] The horse breeding activities involved the purchase of brood mares that Mr. Rasmussen felt were promising and attractive, their impregnation, and the sale of their yearlings at auction.
+[4] The horse racing activities involved the buying of yearlings (or an interest in a yearling) that Mr. Rasmussen felt were promising and attractive at auction, having them trained, and having them race at racetracks for purses. It does not appear that any of the yearlings bred by him were trained and raced by him. Over the years, Mr. Rasmussen usually owned or had interests in between one and four race horses.
+[5] Both parties agree that Mr. Rasmussen lost money each year between 1991 and 2010 at an average rate of about $20,000 annually. Mr. Rasmussen ended his breeding activities altogether in 2004 or 2005. About that time race track purses in Ontario had been significantly enhanced. He chose then to focus solely on horse racing. His losses from 2004 increased through 2010. Neither his losses, nor his increase in losses beginning in 2004, appear to result from horses being purchased and deducted on a cash basis as is allowed for farmers in computing income for tax purposes.
+[6] Mr. Rasmussen had no previous farming experience, including in respect of horse breeding or horse racing. Mr. Rasmussen began his activities about the same time he retired from his career in the federal public service. Once he started horse breeding he established the appropriate and needed relationships with trainers, veterinarians, ferriers et cetera. He also acquired memberships in a number of related equine organizations.
+[7] Mr. Rasmussen’s tracking of his expenses and revenues, by the nature of the item and separately for each horse is insufficient to constitute a plan or a course of action to attain profitability. The fact he changed his focus to horse racing in order to make money, and remained confident he would attain profitability is insufficient. Similarly, the fact that he took the best care of his horses’ health and training in the hope of maximizing his likelihood of winning the utmost purse monies is insufficient. His evidence of his plans and course of action does not rise to the needed level of commerciality.
+[8] Mr. Rasmussen put in some select evidence that supported his position that he had some profitable quarters in the years after 2010. This did not include any tax returns, financial statements or profit and loss statements. This evidence certainly did not rise to the level required to even prima facie challenge assumption 12(a) in the Respondent’s Reply that Mr. Rasmussen claimed a $9,007 loss in his 2011 income tax return. The testimony about post-2011 profitable quarters is of dubious value; there was little or no supporting GST/HST returns, income tax returns or similar written evidence for most if not all of them. There is no evidence his own numbers or backup documents were ever provided to or reviewed by CRA, nor of the current status of any filings.
+[9] I must also observe that Mr. Rasmussen was very determined to stick to his view of things to the point of being difficult at times. He tended to be evasive in answering the difficult key questions. For example, he was very slow to acknowledge that racing horses, in addition to breeding horses, had been an integral, albeit perhaps the secondary, part of his pre-2004 farming activities. He avoided correcting his counsel’s confusion on this point, and only finally clearly answered in response to a request for clarification from the judge. I have little doubt that Mr. Rasmussen did this in order to be better able to argue that racing horses was a new business and to try isolating it from the first dozen or more years’ consistent losses. These aspects of his testimony leave me looking for more corroborating evidence of key parts of his oral testimony than I might have otherwise.
+Law [10] Paragraph 123(1)(a) of the HST/GST legislation defines “commercial activity” as:
+123.(1) Definitions – In Section 121, this Part and Schedules V to X,
+“commercial activity” of a person means”
+123.(1) Définitions – Les définitions qui suivent s’appliquent à l’article 121, à la présent partie et aux annexes V à X.
+« activité commerciale » constituent des activités commerciales exercées par une personne :
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exem pt supplied by the person.
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées.
+[11] The REOP requirement in HST/GST matters is a statutory test that forms part of the definition of “commercial activity” in the GST/HST legislation. The REOP test was considered by the Supreme Court of Canada in Moldowan v. Canada, [1978] 1 S.C.R. 480. The Supreme Court of Canada’s comments in Moldowan on REOP remain relevant in GST/HST cases notwithstanding the Supreme Court of Canada’s decision on REOP in Stewart v. Canada, 2002 SCC 46 for purposes of the Income Tax Act. Moldowan says that in considering REOP:
+There is a vast case literature on what reason-able [sic] expectation of profit means and it is by no means entirely consistent. In my view, whether a taxpayer has a reasonable expectation of profit is an objective determination to be made from all of the facts. The following criteria should be considered: the profit and loss experience in past years, the taxpayer’s training, the taxpayer’s intended course of action, the capability of the venture as capitalized to show a profit after charging capital cost allowance. The list is not intended to be exhaustive. The factors will differ with the nature and extent of the undertaking: The Queen v. Matthews. One would not expect a farmer who purchased a productive going [sic] operation to suffer the same start-up losses as the man who begins a tree farm on raw land.
+[12] The Courts’ reasoning and analysis in Craig v. Canada, [2010] 3 C.T.C. 2341, [2011] 2 F.C.R. 436, [2012] S.C.R. 489 do not address the issue of REOP in determining whether there was either a commercial activity or a business. It is clear from Justice Hershfield’s reasons that the Crown had conceded Mr. Craig’s horse farming activities constituted a business. It was the Crown’s position that Mr. Craig’s seeming indifference to its lack of profitability indicated it was not his primary source of income for purposes of the section 31 restricted farm loss rules.
+[13] On the evidence before the Court, the Appellant has not satisfied it on a balance of probabilities that his horse racing activities constituted a commercial activity in the periods in question through to 2011. Given the few or weak indicia of commerciality and a 20 plus year history of losses, it appears Mr. Rasmussen was, on a personal level, enjoying gambling on the sport of kings in his breeding and training activities instead of at a betting window.
+[14] The appeal is dismissed.
+Signed at Ottawa, Canada, this 11th day of February 2015.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2015 TCC 34
+COURT FILE NOs.:
+2013-3925(GST)I
+STYLES OF CAUSE:
+TOM R. RASMUSSEN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+November 19, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+February 11, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Pierre Ranger
+Counsel for the Respondent:
+Carole Plourde
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Pierre Ranger
+Firm:
+1000-141 Laurier Avenue W.
+Ottawa, Ontario
+K1P 5J3
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,127 @@
+Title: DaSilva c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/309165/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-74-309165-dasilva-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-04-19
+
+# DaSilva c. La Reine
+
+- Citation: 2018 CCI 74
+- Decision date: 2018-04-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7441, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DaSilva c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-04-19
+Référence neutre
+2018 CCI 74
+Numéro de dossier
+2017-840(GST)I
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-840(GST)I
+ENTRE :
+KERRY DaSILVA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 9 mars 2018, à Toronto (Ontario)
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Avocat de l’appelante :
+Me John Sorensen
+Avocats de l’intimée :
+Sabina Burdo (étudiante en droit) Me Rita Araujo
+JUGEMENT
+L’appel du rejet du remboursement de la TPS/TVH pour habitations neuves est accueilli sans dépens et la question est déférée au ministre pour nouvelle cotisation au motif que l’appelante a droit au remboursement.
+Signé à Ottawa, Canada, ce 19e jour d’avril 2018
+« David E. Graham »
+Juge Graham
+Référence : 2018 CCI 74
+Date : 20180419
+Dossier : 2017-840(GST)I
+ENTRE :
+KERRY DaSILVA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Kerry DaSilva a demandé un remboursement de la TPS/TVH pour habitations neuves. Le ministre du Revenu national a refusé le remboursement. Mme DaSilva a interjeté appel du refus. L’intimée a présenté une requête préliminaire pour annuler l’appel au motif que les conditions préalables pour déposer l’appel n’étaient pas remplies. Plus particulièrement, l’intimée soutient que Mme DaSilva ne s’est pas opposée à la cotisation dans le délai imparti pour le faire, qu’elle n’a pas demandé une prorogation du délai pour s’opposer dans le délai imparti pour le faire et qu’elle est maintenant hors délai pour présenter une telle demande. Comme l’opposition à une cotisation est une condition préalable pour interjeter appel à l’encontre d’une cotisation devant la Cour, l’intimée soutient que l’appel devrait être annulé [1] .
+[2] De son côté, Mme DaSilva est d’avis qu’elle a déposé un avis d’opposition dans le délai de 90 jours pour le faire, qu’elle a ensuite attendu la période requise de 180 jours pour voir si le ministre traiterait l’opposition et que, lorsque le ministre a omis de le faire, elle a exercé son droit d’appel directement auprès de la Cour [2] .
+[3] Bien qu’il semble s’agir de positions radicalement opposées, le désaccord des parties se résume essentiellement à une question : à quel moment l’avis de cotisation a-t-il été envoyé? Selon l’intimée, l’avis de cotisation en question a été posté le 11 janvier 2013. Mme DaSilva admet que si l’avis de cotisation a été posté à cette date, l’appel devrait être annulé. Mme DaSilva allègue que l’avis de cotisation n’a pas été posté le 11 janvier 2013, mais qu’il lui a été envoyé pour la première fois le 22 août 2016, au moment où un agent des recouvrements de l’ARC lui en a remis une copie. L’intimée admet que si l’avis de cotisation a été envoyé pour la première fois à cette date, Mme DaSilva s’est opposée dans le délai et que l’appel ne devrait pas être annulé. Ainsi, l’unique question en ce qui concerne la présente requête préliminaire concerne le moment où l’avis de cotisation a été envoyé.
+[4] La Cour canadienne de l’impôt et la Cour d’appel fédérale ont souvent eu l’occasion d’examiner ce qui arrive lorsqu’un contribuable allègue que le ministre n’a pas posté un avis de cotisation ou un avis de ratification. J’ai déjà résumé les étapes qui ont découlé de ces cas en ce qui concerne les avis de cotisation (voir Mpamugo c. La Reine [3] ) et les avis de ratification (voir Boroumend c. La Reine [4] ) en vertu de la Loi de l’impôt sur le revenu. Je reproduis ces étapes ci‑dessous, accompagnées des modifications nécessaires pour porter sur les avis de cotisation établis en vertu de la Loi sur la taxe d’accise.
+a) Étape 1 : le contribuable doit affirmer que l’avis de cotisation n’a pas été envoyé [5] . Il le fait normalement de deux façons. Il peut affirmer qu’il n’a pas reçu l’avis de cotisation et qu’il croit donc qu’il n’a pas été posté. Subsidiairement, il peut affirmer que l’avis a été posté à la mauvaise adresse, sans que ce soit de sa faute, et qu’il n’a donc pas été posté. La Cour d’appel fédérale a précisé que si l’affirmation du contribuable n’est pas crédible, il n’est pas nécessaire de passer à l’étape 2 [6] .
+b) Étape 2 : si le contribuable affirme que l’avis de cotisation n’a pas été envoyé, le ministre doit déposer suffisamment d’éléments de preuve pour prouver, selon la prépondérance des probabilités, que l’avis de cotisation a réellement été envoyé ou, si le contribuable a affirmé qu’il a été envoyé à la mauvaise adresse, qu’il a été envoyé à l’adresse que l’ARC a correctement indiquée au dossier [7] .
+c) Étape 3 : si le ministre peut prouver que l’avis de cotisation a été envoyé, l’envoi est alors présumé être survenu à la date indiquée sur l’avis (paragraphe 335(10)). Il s’agit d’une présomption réfutable [8] . Le contribuable peut déposer des éléments de preuve pour prouver qu’il a réellement été envoyé à une autre date. Le délai prévu pour le dépôt d’un avis d’opposition est calculé à compter de la date établie à la suite de cette étape (paragraphe 301(1.1)).
+d) Étape 4 : lorsque la date d’envoi est établie (au moyen de la présomption ou de la preuve d’une date différente), la cotisation est réputée établie à cette date (paragraphe 335(11)) et l’avis de cotisation est réputé avoir été reçu à cette date (paragraphe 334(1)). Ces dispositions déterminatives ne sont pas réfutables [9] . L’étape 4 n’est pas strictement pertinente à la détermination du délai prévu pour le dépôt d’un avis d’opposition. Cette détermination est faite à l’étape 3. L’étape 4 précise simplement que le fait que le contribuable n’a pas réellement reçu l’avis de cotisation n’est pas pertinent.
+Étape 1 : affirmation crédible selon laquelle l’avis de cotisation n’a pas été posté
+[5] Mme DaSilva a affirmé que l’avis de cotisation en question n’a pas été posté. J’ai entendu le témoignage et le contre‑interrogatoire de Mme DaSilva et de sa mère, Margaret DaSilva. Je suis d’avis qu’elles étaient toutes les deux des témoins crédibles. Mme DaSilva a fait l’objet d’une cotisation de trois façons différentes en ce qui concerne la même transaction d’achat et de vente d’un condominium. Sa mère et elle ont indiqué qu’elle a reçu un avis de nouvelle cotisation d’impôt et un avis de cotisation sur la TVH et qu’elle s’est opposée aux deux, mais qu’elle n’a pas reçu l’avis de cotisation visant le remboursement de la TPS/TVH en question. Je crois qu’il est très peu probable que Mme DaSilva ait reçu trois avis de cotisation liés à l’achat et à la vente d’un condominium et qu’elle ne s’est opposée qu’à deux d’entre eux. Par conséquent, je conclus que Mme DaSilva a formulé une affirmation crédible selon laquelle le ministre n’a pas posté l’avis de cotisation en question.
+Étape 2 : preuve de mise à la poste
+[6] Comme Mme DaSilva a formulé une affirmation crédible selon laquelle l’avis de cotisation n’a pas été posté, le ministre doit prouver qu’il l’a été. Compte tenu de la taille des activités et du nombre considérable de cotisations qui sont postées chaque année, le ministre déposera en général une preuve indiquant la procédure normale qui est suivie par l’ARC quant à la mise à la poste des avis de cotisation et fournira une raison pour laquelle la Cour devrait accepter que cette procédure a été suivie dans le cas de la contribuable.
+[7] L’intimée s’en remet à la déclaration sous serment de Trevor Neill pour prouver que l’avis de cotisation a été posté à Mme DaSilva. M. Neill est un gestionnaire de la Division du système d’impression‑courrier à l’ARC. Il a été contre‑interrogé à ce sujet à l’audience. Je suis d’avis qu’il était un témoin crédible et bien informé.
+[8] Le paragraphe 335(6) indique les exigences particulières qui doivent être remplies pour que le ministre puisse invoquer une déclaration sous serment pour prouver la mise à la poste. La déclaration sous serment de M. Neill ne respecte pas ces exigences. M. Neill indique en détail le fonctionnement du système de mise à la poste à l’ARC. Il a une connaissance personnelle de ce système. J’accepte son témoignage à cet égard. Toutefois, M. Neill s’en est remis à une agente principale de programmes, appelée Stacey Dougay, pour lui fournir un renseignement essentiel. Cet élément essentiel vise le numéro du cycle du Système de communication avec les entreprises (le « cycle du SCE ») dans lequel l’avis de cotisation de Mme DaSilva devait être imprimé. M. Neill a personnellement confirmé que le cycle du SCE dont le numéro a été fourni par Mme Dougay s’est déroulé sans erreur. C’est pour ce motif qu’il a conclu que l’avis de cotisation de Mme DaSilva avait été posté. Le problème est que M. Neill n’avait pas une connaissance personnelle du cycle du SCE qui contenait l’avis de nouvelle cotisation de Mme DaSilva. Le paragraphe 335(6) exige que si le ministre souhaite invoquer une déclaration sous serment pour prouver la mise à la poste, le déposant doit avoir la charge des registres pertinents et les avoir examinés. On ne peut pas dire que M. Neill a examiné les registres, c’est plutôt Mme Dougay qui l’a fait.
+[9] Le fait que cette partie de la déclaration sous serment de M. Neill ne se conforme pas au paragraphe 335(6) ne signifie pas que je dois l’écarter. Si le ministre n’est pas en mesure de fournir une déclaration sous serment conforme au paragraphe 335(6), la Cour doit évaluer la preuve fournie par le ministre par rapport à celle fournie par la contribuable pour décider si, selon toute vraisemblance, l’avis a été posté.
+[10] Le témoignage de M. Neill en ce qui concerne le cycle du SCE est fondé sur éléments qu’il tient pour véridiques sur la foi de renseignements. L’article 72 des Règles de la Cour canadienne de l’impôt (procédure générale) permet la preuve par déclaration sous serment selon des faits tenus pour véridiques sur la foi de renseignements, pourvu que la source de ces renseignements et le fait qu’ils sont tenus pour véridiques y soient indiqués. Toute préoccupation quant à la nécessité de la preuve par ouï‑dire ou à sa fiabilité concerne le poids que la Cour devrait accorder à la preuve. La déclaration sous serment de M. Neill est conforme à l’article 72. Il y indique les éléments qu’il tient pour véridiques, sur la foi de renseignements, ainsi que les sources de ces éléments. Par conséquent, je conclus que le témoignage de M. Neill en ce qui concerne le cycle du SCE est admissible. Toutefois, la question du poids que je devrais lui accorder demeure.
+[11] Il aurait certainement été préférable d’avoir une déclaration sous serment de Mme Dougay en ce qui concerne le cycle du SCE. Il s’agit d’une preuve importante sans laquelle tout ce dont je dispose est la preuve du fonctionnement du système de mise à la poste et celle selon laquelle il a fonctionné correctement à une occasion. Rien dans la preuve n’établit un lien entre cette occasion et l’avis de cotisation de Mme DaSilva. Je sais qu’un cycle du SCE précis a été posté avec succès, mais je ne sais pas si l’avis de cotisation de Mme DaSilva en faisait partie. Mme DaSilva a été privée de la possibilité de contre‑interroger un témoin en ce qui concerne cette question, même si Mme Dougay est employée de l’ARC et qu’elle travaille en fait dans le même bureau que M. Neill. Je ne suis pas convaincu qu’il était nécessaire pour l’intimée d’invoquer les éléments que M. Neill tenait pour véridiques, sur la foi de renseignements dans sa déclaration sous serment. L’intimé aurait pu facilement obtenir une déclaration sous serment de la part de Mme Dougay sur cette question. Par conséquent, je n’accorde aucun poids à cette partie de la déclaration sous serment de M. Neill.
+[12] Il ne me reste donc qu’une preuve insatisfaisante selon laquelle l’avis de cotisation a été posté que je dois soupeser en fonction du témoignage crédible selon lequel il n’a jamais été reçu. Dans les circonstances, je conclus que l’intimée ne s’est pas acquittée de son fardeau de prouver la mise à la poste.
+[13] Par conséquent, la requête de l’intimée pour annuler l’appel est rejetée.
+Autre question en litige
+[14] L’intimée reconnaît que si la requête en annulation est rejetée, l’appel devrait donc être accueilli. Par conséquent, l’appel est accueilli et la question est déférée au ministre pour nouvelle cotisation au motif que Mme DaSilva avait droit au remboursement.
+Signé à Ottawa, Canada, ce 19e jour d’avril 2018.
+« David E. Graham »
+Juge Graham
+RÉFÉRENCE :
+2018 CCI 74
+No DU DOSSIER DE LA COUR :
+2017-840(GST)I
+INTITULÉ :
+KERRY DaSILVA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 9 mars 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 19 avril 2018
+COMPARUTIONS :
+Avocat de l’appelante :
+Me John Sorensen
+Avocats de l’intimée :
+Sabina Burdo (étudiante en droit) Me Rita Araujo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me John Sorensen
+Cabinet :
+Gowling WLG (Canada) S.E.N.C.R.L., s.r.l.
+Toronto, Ontario
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Le délai d’opposition est prévu au paragraphe 301(1.1) de la Loi sur la taxe d’accise. Le délai pour demander une prorogation du délai est indiqué à l’alinéa 303(7)a). L’exigence selon laquelle une opposition doit être déposée avant d’interjeter appel auprès de la Cour canadienne de l’impôt est indiquée à l’article 306.
+[2] La possibilité d’interjeter appel directement auprès de la Cour canadienne de l’impôt après la période de 180 jours est prévue à l’alinéa 306b).
+[3] 2016 CCI 215. Confirmé en appel (2017 FCA 136).
+[4] 2016 CCI 256. Confirmé en appel (2017 FCA 245).
+[5] Aztec Industries Inc. c. Canada, 1995 CarswellNat 278 (C.A.F.); Schafer c. R., 2000 CarswellNat 1948 (C.A.F.); appliqué dans le cadre d’une remarque incidente sur la TPS dans Chomatas c. La Reine, 2013 CCI 319.
+[6] Mpamugo (C.A.F.) aux paragraphes 11 et 12.
+[7] Schafer c. R., 2000 CarswellNat 1948 (C.A.F.); Scott v. Minister of National Revenue, [1961] Ex. C.R. 120 (C. de l’É. Can.); La Reine c. 236130 British Columbia Ltd., 2006 CAF 352; Bowen c. Ministre du Revenu national, 1991 CarswellNat 520 (C.A.F.).
+[8] McGowan (R.) c. Canada, 1995 CarswellNat 381 (C.A.F.) en remarque incidente au paragraphe 19.
+[9] Schafer (CAF).

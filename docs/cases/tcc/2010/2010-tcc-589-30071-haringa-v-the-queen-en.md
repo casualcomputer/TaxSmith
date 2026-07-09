@@ -1,0 +1,151 @@
+---
+title: "Haringa v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30071/index.do"
+last_modified: "2010-11-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 589"
+citation2: ""
+neutral_citation: "2010 TCC 589"
+decision_date: "2010-11-12"
+language: "en"
+item_id: "30071"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7616
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:51:07.191000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2efd6a5f29900b7422e620fb95bf4357f111b88a5d301ac27f0de36c3f13bfeb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Haringa v. The Queen
+
+- Citation: 2010 TCC 589
+- Decision date: 2010-11-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7616, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Haringa v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-12
+Neutral citation
+2010 TCC 589
+File numbers
+2010-1843(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1843(IT)I
+BETWEEN:
+DAVID HARINGA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 27, 2010 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Iris Kingston
+Richard Patterson (student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2005 and 2006 taxation years is dismissed.
+Signed at Toronto, Ontario this 12th day of November 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 589
+Date: 20101112
+Docket: 2010-1843(IT)I
+BETWEEN:
+DAVID HARINGA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] In the 2005 and 2006 taxation years, David Haringa withdrew $6,774 and $4,000, respectively, from registered retirement savings plans (RRSPs) in order to pursue PhD studies at an online university based in the United States, Capella University. He received his degree in 4½ years.
+[2] The issue is whether the RRSP withdrawals are eligible for the special provisions known as Lifelong Learning Plans in section 146.02 of the Income Tax Act.
+[3] In reassessments for these years, the Minister of National Revenue included the withdrawals in the appellant’s income and denied the application of section 146.02.
+[4] It is the position of the respondent that one of the legislative requirements has not been satisfied. It mandates that the appellant be enrolled at Capella in a course of at least 13 consecutive weeks duration.
+Lifelong Learning Plans
+[5] Section 146.02 of the Act provides a legislative scheme that enables individuals to withdraw funds from their RRSPs to finance education. The withdrawals can be made on a tax-free basis as long as the funds are returned to the RRSPs within a ten year period. The maximum amount that may be withdrawn is $20,000.
+[6] In general, the legislation requires that the individual be enrolled as a full-time student in a qualifying educational program. It is useful to set out the definition of “qualifying educational program” in section 146.02(1).
+“qualifying educational program” means a program at a designated educational institution, as defined in subsection 118.6(1), of not less than three consecutive months duration that requires that each student taking the program spend not less than ten hours per week on courses or work in the program and that is
+(a) of a technical or vocational nature designed to furnish a person with skills for, or improve a person’s skills in, an occupation, if the program is at an institution described in subparagraph (a)(ii) of that definition; and
+(b) at a post-secondary school level, in any other case.
+[7] Canadian universities qualify for these purposes as “designated educational institutions.” Foreign universities, on the other hand, qualify only if the individual satisfies a further enrollment requirement. The relevant provision is paragraph (b) of the definition of “designated educational institution” in s. 118.6(1) of the Act. The definition is reproduced in its entirety.
+“designated educational institution” means
+(a) an educational institution in Canada that is
+(i) a university, college or other educational institution designated by the Lieutenant Governor in Council of a province as a specified educational institution under the Canada Student Loans Act, designated by an appropriate authority under the Canada Student Financial Assistance Act, or designated by the Minister of Higher Education and Science of the Province of Quebec for the purposes of An Act respecting financial assistance for students of the Province of Quebec, or
+(ii) certified by the Minister of Human Resources and Skills Development to be an educational institution providing courses, other than courses designed for university credit, that furnish a person with skills for, or improve a person’s skills in, an occupation,
+(b) a university outside Canada at which the individual referred to in subsection (2) was enrolled in a course, of not less than 13 consecutive weeks duration, leading to a degree, or
+(c) if the individual referred to in subsection (2) resided, throughout the year referred to in that subsection, in Canada near the boundary between Canada and the United States, an educational institution in the United States to which the individual commuted that is a university, college or other educational institution providing courses at a post-secondary school level;
+(Emphasis added.)
+Analysis
+[8] The appellant’s position is succinctly set out in his notice of appeal. It is reproduced in full below.
+- I was a full time PhD student attending a US university online (Capella).
+- Capella University is recognized by the CRA and regionally accredited by the Higher Learning Commission.
+- I enrolled in 2 courses at a time (10 weeks) throughout the course track portion of the program.
+- I believe that a regionally accredited PhD program requires a full time commitment from any learner to be successful. This work represents more effort than a typical 10 week course.
+[9] An issue similar to this was considered by the Tax Court of Canada in Fayle v. The Queen, 2005 TCC 71; [2005] 1 CTC 2840. The taxpayer in that case was a student enrolled at a foreign university in a course that carried post-graduate level credit towards a masters degree. The course was offered in two forms, one lasting 13 weeks and a more intensive course lasting six weeks. The courses were otherwise identical. The taxpayer enrolled in the six week course and was denied her claim for a tuition tax credit.
+[10] Bowie J. reluctantly dismissed the appeal for the following reasons:
+[3] In presenting her case, the Appellant argued that this is a literal but not a wise interpretation of the Act. I could not agree more. However, the mandate of this Court, and the appellate courts as well, is to apply the literal meaning of the words enacted by Parliament, where that meaning is clear. The Courts may interpret legislation that is ambiguous, but they may not, in the name of wisdom or otherwise, stray from the intent of Parliament if it has been expressed in unambiguous terms.[1] Neither the expression “a course of less than 13 consecutive weeks duration” in English, nor “des cours d’une durée inférieure à 13 semaines consecutives” in French, is at all ambiguous.
+[4] It is with considerable regret that I must dismiss the appeal. The only avenue for relief open to the Appellant is to seek a remission order under section 23 of the Financial Administration Act, but that is a remedy that is outside my jurisdiction.
+[1] Bell ExpressVu Limited Partnership v. Rex, [2002] 2 S.C.R. 559.
+[11] I agree with the reasoning of Bowie J. The appellant’s enrollment in courses of 10 weeks duration at a foreign university does not satisfy the definition of “designated educational institution.”
+[12] The appellant’s PhD program also had a dissertation requirement in addition to the course requirement. Brief testimony regarding this phase was given by the appellant at the hearing. He testified that the dissertation component did not involve courses, and that he worked on it throughout the 4½ year program even though the dissertation element commenced after the two-year course requirement was finished.
+[13] In keeping with a purposive interpretation of the legislation, I have no problem with construing the term “course” to include a formal plan of study involved with a dissertation or thesis. The problem in this case is that there is not sufficient evidence that this formal period of study commenced in the taxation years at issue. I accept that the appellant did some work on his dissertation throughout the PhD program, but I am not satisfied on the evidence that the appellant was either required or expected by the university to work on this while the course work was being completed.
+[14] Finally, I would mention that the appellant indicated at the hearing that he had not been aware of the 13 week course requirement when he made the RRSP withdrawals. I have some sympathy for this because when I reviewed a CRA guide dealing with Lifelong Learning Plans (RC4112(E), Rev.10), I could not find any direct reference to this requirement. This appears to be unfortunate, but it cannot assist the appellant in this appeal.
+[15] The appeal will be dismissed.
+Signed at Toronto, Ontario this 12th day of November 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 589
+COURT FILE NO.: 2010-1843(IT)I
+STYLE OF CAUSE: DAVID HARINGA and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 27, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: November 12, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Iris Kingston
+Richard Patterson (student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,189 @@
+---
+title: "Duncan c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/484618/index.do"
+last_modified: "2020-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 89"
+citation2: ""
+neutral_citation: "2020 CCI 89"
+decision_date: "2020-08-26"
+language: "fr"
+item_id: "484618"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4559
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:59:01.046000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "633a2d3fdd2b5ab4ec404cdd85ff8440a42bcb9a07effd2b875a2dddc8317f7c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Duncan c. La Reine
+
+- Citation: 2020 CCI 89
+- Decision date: 2020-08-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4559, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duncan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-08-26
+Référence neutre
+2020 CCI 89
+Numéro de dossier
+2019-615(GST)APP
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2019-615(GST)APP
+ENTRE :
+FLOYD DUNCAN,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 14 novembre 2019, à Toronto (Ontario)
+Devant : L’honorable juge suppléant Gaston Jorré
+Comparutions :
+Avocat du requérant :
+Me Adam Z. Serota
+Avocat de l’intimée :
+Me Eric Myles
+ORDONNANCE
+Conformément aux motifs de l’ordonnance ci-joints, la demande de prorogation du délai accordé pour la présentation d’un avis d’opposition à l’avis de cotisation daté du 15 décembre 2016 concernant le remboursement de la taxe sur les produits et services et de la taxe de vente harmonisée (TPS/TVH) pour une habitation neuve est par les présentes accueillie.
+L’avis d’opposition daté du 3 janvier 2019, déposé auprès de l’Agence du revenu du Canada à la même date et joint à la demande de prorogation du délai d’opposition du requérant est, par les présentes, réputé valide et instruit à la date de la présente ordonnance.
+Signé à Ottawa, Canada, ce 26e jour d’août 2020.
+« G. Jorré »
+Le juge suppléant Jorré
+Référence : 2020 CCI 89
+Date : 20200826
+Dossier : 2019-615(GST)APP
+ENTRE :
+FLOYD DUNCAN,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge suppléant Jorré
+I. INTRODUCTION
+[1] Il s’agit d’une demande de prorogation du délai accordé pour déposer un avis d’opposition. Pour les motifs qui suivent, la demande sera accueillie.
+[2] Le requérant a demandé le remboursement de la TPS/TVH pour une habitation neuve. Sa demande de remboursement a par la suite été rejetée par le biais d’un avis de cotisation daté du 15 décembre 2016 [1] .
+[3] Le requérant a ultérieurement déposé un avis d’opposition daté du 3 janvier 2019.
+[4] L’Agence a estimé que l’opposition n’était pas valide au motif qu’elle était hors délai; le requérant présente maintenant une demande de prorogation du délai devant la Cour en application de l’article 304 de la Loi sur la taxe d’accise [2] .
+[5] Quatre témoins ont été entendus à l’audience, à savoir le requérant, son épouse et deux représentants de l’Agence. Un certain nombre de documents ont été déposés en preuve, notamment de longs imprimés réalisés à partir de certaines bases de données de l’Agence rendant compte de renseignements et de mesures prises par l’Agence, dont des communications avec le requérant. Les longs imprimés comprennent un grand nombre d’abréviations et ne sont pas toujours faciles à lire.
+[6] Les dispositions pertinentes de l’article 304 sont rédigées comme suit :
+Prorogation du délai par la Cour canadienne de l’impôt
+304(1) La personne qui a présenté une demande en application de l’article 303 peut demander à la Cour canadienne de l’impôt d’y faire droit après :
+a) le rejet de la demande par le ministre;
+b) [...]
+Toutefois, une telle demande ne peut être présentée après l’expiration d’un délai de 30 jours suivant l’envoi de la décision à la personne selon le paragraphe 303(5).
+Modalités
+(2) […]
+Copie au commissaire
+(3) […]
+Pouvoirs de la Cour canadienne de l’impôt
+(4) La Cour canadienne de l’impôt peut rejeter la demande ou y faire droit. Dans ce dernier cas, elle peut imposer les conditions qu’elle estime justes ou ordonner que l’avis d’opposition soit réputé valide à compter de la date de l’ordonnance.
+Acceptation de la demande
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 303(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour faire opposition ou présenter la requête en application du paragraphe 274(6);
+b) la personne démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l’avis ou présenter la requête, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons invoquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à sa demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+[7] Au cours de l’audience, l’accent a été mis principalement sur la question de savoir si la demande de prorogation du délai avait été déposée dans le délai de prescription d’un an qui est mentionné à l’alinéa 304(5)a). La réponse à cette question dépend de l’envoi effectif ou non de l’avis de cotisation et, le cas échéant, de la date de cet envoi.
+[8] Dans la décision DaSilva c. La Reine [3] , le juge Graham résume la méthode employée pour examiner cette question :
+La Cour canadienne de l’impôt et la Cour d’appel fédérale ont souvent eu l’occasion d’examiner ce qui arrive lorsqu’un contribuable allègue que le ministre n’a pas posté un avis de cotisation ou un avis de ratification. J’ai déjà résumé les étapes qui ont découlé de ces cas en ce qui concerne les avis de cotisation (voir Mpamugo c. La Reine) et les avis de ratification (voir Boroumend c. La Reine) en vertu de la Loi de l’impôt sur le revenu. Je reproduis ces étapes ci‑dessous, accompagnées des modifications nécessaires pour porter sur les avis de cotisation établis en vertu de la Loi sur la taxe d’accise.
+a) Étape 1 : le contribuable doit affirmer que l’avis de cotisation n’a pas été envoyé. Il le fait habituellement de deux façons. Il peut affirmer qu’il n’a pas reçu l’avis de cotisation et qu’il croit donc qu’il n’a pas été posté. Subsidiairement, il peut affirmer que l’avis a été posté à la mauvaise adresse, sans que ce soit de sa faute, et qu’il n’a donc pas été posté. La Cour d’appel fédérale a précisé que si l’affirmation du contribuable n’est pas crédible, il n’est pas nécessaire de passer à l’étape 2.
+b) Étape 2 : si le contribuable affirme que l’avis de cotisation n’a pas été envoyé, le ministre doit déposer suffisamment d’éléments de preuve pour prouver, selon la prépondérance des probabilités, que l’avis de cotisation a réellement été envoyé ou, si le contribuable a affirmé qu’il a été envoyé à la mauvaise adresse, qu’il a été envoyé à l’adresse que l’ARC a correctement indiquée au dossier.
+c) Étape 3 : si le ministre peut prouver que l’avis de cotisation a été envoyé, l’envoi est alors présumé être survenu à la date indiquée sur l’avis (paragraphe 335(10)). Il s’agit d’une présomption réfutable. Le contribuable peut déposer des éléments de preuve pour prouver qu’il a réellement été envoyé à une autre date. Le délai prévu pour le dépôt d’un avis d’opposition est calculé à compter de la date établie à la suite de cette étape (paragraphe 301(1.1)).
+d) Étape 4 : lorsque la date d’envoi est établie (au moyen de la présomption ou de la preuve d’une date différente), la cotisation est réputée établie à cette date (paragraphe 335(11)) et l’avis de cotisation est réputé avoir été reçu à cette date (paragraphe 334(1)). Ces dispositions déterminatives ne sont pas réfutables. L’étape 4 n’est pas strictement pertinente à la détermination du délai prévu pour le dépôt d’un avis d’opposition. Cette détermination est faite à la 3e étape. L’étape 4 précise simplement que le fait que le contribuable n’a pas réellement reçu l’avis de cotisation n’est pas pertinent.
+[Renvois omis.]
+[9] Je mentionnerai plus loin certaines adaptations qu’il est nécessaire d’apporter à cette méthode, compte tenu des circonstances factuelles en l’espèce.
+[10] Dans leur témoignage, le requérant et son épouse ont tous deux affirmé ne pas avoir reçu l’avis de cotisation. Un certain nombre d’éléments de preuve indiquent que plusieurs correspondances n’ont pas été reçues, tandis que d’autres l’ont été [4] . J’estime que le témoignage du requérant est sincère [5] , et je conclus qu’il a répondu aux questions selon ce qu’il se rappelle des événements; j’accepte ses éléments de preuve selon lesquels il n’a pas reçu l’avis de cotisation daté du 15 décembre 2016. J’accepte également les éléments de preuve apportés par son épouse [6] .
+[11] En ce qui concerne la deuxième étape, le requérant a présenté un grand nombre d’éléments de preuve, sous la forme d’affidavits et de témoignages de deux employés de l’Agence, M. Wu et M. Trevor Neill. Les éléments de preuve contribuent grandement à étayer l’envoi de l’avis de cotisation en litige.
+[12] La situation factuelle est toutefois grandement assimilable à celle de l’affaire DaSilva en ce qui concerne M. Neil, dans la mesure où, n’ayant pas eu accès à un certain système, il s’est fondé sur certains renseignements que lui a fournis une autre représentante de l’Agence, Stacy Dugay.
+[13] Dans l’arrêt DaSilva, le juge Graham a mentionné ce qui suit :
+[8] Le paragraphe 335(6) indique les exigences particulières qui doivent être remplies pour que le ministre puisse invoquer une déclaration sous serment pour prouver la mise à la poste. La déclaration sous serment de M. Neill ne respecte pas ces exigences. M. Neill indique en détail le fonctionnement du système de mise à la poste à l’ARC. Il a une connaissance personnelle de ce système. J’accepte son témoignage à cet égard. Toutefois, M. Neill s’en est remis à une agente principale de programmes, appelée Stacey Dougay, pour lui fournir un renseignement essentiel. Cet élément essentiel vise le numéro du cycle du Système de communication avec les entreprises (le « cycle du SCE ») dans lequel l’avis de cotisation de Mme DaSilva devait être imprimé. M. Neill a personnellement confirmé que le cycle du SCE dont le numéro a été fourni par Mme Dougay s’est déroulé sans erreur. C’est pour ce motif qu’il a conclu que l’avis de cotisation de Mme DaSilva avait été posté. Le problème est que M. Neill n’avait pas une connaissance personnelle du cycle du SCE qui contenait l’avis de nouvelle cotisation de Mme DaSilva. Le paragraphe 335(6) exige que si le ministre souhaite invoquer une déclaration sous serment pour prouver la mise à la poste, le déposant doit avoir la charge des registres pertinents et les avoir examinés. On ne peut pas dire que M. Neill a examiné les registres, c’est plutôt Mme Dougay qui l’a fait.
+[9] Le fait que cette partie de la déclaration sous serment de M. Neill ne se conforme pas au paragraphe 335(6) ne signifie pas que je dois l’écarter. Si le ministre n’est pas en mesure de fournir une déclaration sous serment conforme au paragraphe 335(6), la Cour doit évaluer la preuve fournie par le ministre par rapport à celle fournie par la contribuable pour décider si, selon toute vraisemblance, l’avis a été posté.
+[10] Le témoignage de M. Neill en ce qui concerne le cycle du SCE est fondé sur éléments qu’il tient pour véridiques sur la foi de renseignements. L’article 72 des Règles de la Cour canadienne de l’impôt (procédure générale) permet la preuve par déclaration sous serment selon des faits tenus pour véridiques sur la foi de renseignements, pourvu que la source de ces renseignements et le fait qu’ils sont tenus pour véridiques y soient indiqués. Toute préoccupation quant à la nécessité de la preuve par ouï‑dire ou à sa fiabilité concerne le poids que la Cour devrait accorder à la preuve. La déclaration sous serment de M. Neill est conforme à l’article 72. Il y indique les éléments qu’il tient pour véridiques, sur la foi de renseignements, ainsi que les sources de ces éléments. Par conséquent, je conclus que le témoignage de M. Neill en ce qui concerne le cycle du SCE est admissible. Toutefois, la question du poids que je devrais lui accorder demeure.
+[11] Il aurait certainement été préférable d’avoir une déclaration sous serment de Mme Dougay en ce qui concerne le cycle du SCE. Il s’agit d’une preuve importante sans laquelle tout ce dont je dispose est la preuve du fonctionnement du système de mise à la poste et celle selon laquelle ce système a fonctionné correctement à une occasion. Rien dans la preuve n’établit un lien entre cette occasion et l’avis de cotisation de Mme DaSilva. Je sais qu’un cycle du SCE précis a été posté avec succès, mais je ne sais pas si l’avis de cotisation de Mme DaSilva en faisait partie. Mme DaSilva a été privée de la possibilité de contre-interroger un témoin en ce qui concerne cette question, même si Mme Dougay est employée de l’ARC et qu’elle travaille en fait dans le même bureau que M. Neill. Je ne suis pas convaincu qu’il était nécessaire pour l’intimée d’invoquer les éléments que M. Neill tenait pour véridiques, sur la foi de renseignements dans sa déclaration sous serment. L’intimé aurait pu facilement obtenir une déclaration sous serment de la part de Mme Dougay sur cette question. Par conséquent, je n’accorde aucun poids à cette partie de la déclaration sous serment de M. Neill.
+[12] Il ne me reste donc qu’une preuve insatisfaisante selon laquelle l’avis de cotisation a été posté que je dois soupeser en fonction du témoignage crédible selon lequel il n’a jamais été reçu. Dans les circonstances, je conclus que l’intimée ne s’est pas acquittée de son fardeau de prouver la mise à la poste.
+[14] Compte tenu des éléments de preuve dont je suis saisi, j’ai tiré une conclusion semblable. Le ministre n’a pas démontré l’envoi de l’avis de cotisation. Par conséquent, le délai d’opposition n’a pas commencé le 15 décembre 2016.
+[15] J’examinerai maintenant les dernières étapes de l’analyse.
+[16] À ce stade, je dois tenir compte de certains éléments de preuve dont j’ai été saisi et, en raison de ces éléments de preuve, j’appliquerai les dernières étapes de l’analyse de manière quelque peu différente.
+[17] Plus précisément, puisqu’il est admis que le requérant a finalement reçu l’avis de cotisation avant de présenter son avis d’opposition [7] , je dois établir la date de réception de cet avis de cotisation. S’il a été reçu 90 jours avant la présentation de l’avis d’opposition, aucune prorogation de délai n’est nécessaire et l’opposition est valide; s’il a été reçu plus tôt, une prorogation de délai est nécessaire pour que l’opposition soit valide. Aucun élément de preuve n’indique une date d’envoi antérieure à 2018 [8] .
+[18] Dans son témoignage, le requérant a affirmé avoir vu pour la première fois l’avis de cotisation dans le bureau de son avocat. La preuve ne permet pas d’établir la date à laquelle cette rencontre a eu lieu ni comment cet avis de cotisation s’est retrouvé à cet endroit. Compte tenu des éléments de preuve restreints dont je suis saisi, je conclus qu’il est plus probable que le requérant ait reçu l’avis de cotisation sous la forme d’une pièce jointe à la lettre de l’Agence datée du 6 mars 2018, ce qui a pour effet que l’opposition est hors délai, sauf si j’accorde une prorogation de délai [9] .
+[19] Il en découle que le délai de prescription pour déposer l’avis d’opposition a commencé à courir le 6 mars 2019 ou aux alentours de cette date, et que la demande de prorogation du délai d’opposition a été présentée environ six mois après la fin du délai, soit pleinement pendant le délai d’un an qui est mentionné à l’alinéa 304(5)a) de la Loi sur la taxe d’accise.
+[20] J’ajouterai simplement qu’à l’égard des autres exigences pour une prorogation de délai, je conclus qu’elles sont satisfaites en l’espèce [10] .
+[21] La demande sera par conséquent accueillie, et l’avis d’opposition daté du 3 janvier 2019, déposé auprès de l’Agence à cette même date et joint à la demande de prorogation du délai d’opposition du requérant, est par conséquent réputé valable et instruit à la date de la présente ordonnance.
+Signé à Ottawa, Canada, ce 26e jour d’août 2020.
+« G. Jorré »
+Le juge suppléant Jorré
+RÉFÉRENCE :
+2020 CCI 89
+NO DU DOSSIER DE LA COUR :
+2019-615(GST)APP
+INTITULÉ :
+FLOYD DUNCAN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 14 novembre 2019
+DATE DE RÉCEPTION DE LA TRANSCRIPTION :
+Le 2 décembre 2019
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge suppléant Gaston Jorré
+DATE DU JUGEMENT :
+Le 26 août 2020
+COMPARUTIONS :
+Avocat du requérant :
+Me Adam Z. Serota
+Avocat de l’intimée :
+Me Eric Myles
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+Me Adam Z. Serota
+Cabinet :
+BRS Tax Lawyers, S.E.N.C.R.L.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] L’avis de cotisation en litige s’intitule en effet : [traduction] « Avis de (nouvelle) cotisation ». Étant donné qu’aucun élément de preuve ne révèle l’existence d’une cotisation antérieure et que personne n’a laissé entendre le contraire, je tiens pour acquis qu’il s’agissait d’un avis de cotisation.
+[2] D’un point de vue procédural, l’avis d’opposition que le requérant a déposé auprès de l’Agence comprend à la fois l’avis d’opposition et la demande de prorogation du délai d’opposition. L’Agence a alors répondu que l’avis d’opposition avait été transmis après le délai prescrit de 90 jours; elle a d’ailleurs indiqué que le délai ne pouvait pas être prorogé au motif que la demande de prorogation du délai avait été déposée plus d’un an après la période au cours de laquelle une prorogation du délai aurait été possible et que, pour cette raison, elle avait rejeté la prorogation.
+[3] 2018 CCI 74, au paragraphe 4.
+[4] Notamment, certaines correspondances concernant la Loi de l’impôt sur le revenu.
+[5] Par exemple, il a reconnu spontanément lors du contre-interrogatoire avoir reçu la lettre datée du 6 mars 2018 – transcription, à la page 23.
+[6] Pour être plus précis, je conclus qu’il n’a jamais reçu la moindre correspondance pouvant raisonnablement être reliée à la cotisation lui ayant été envoyée le 15 décembre 2016 ou aux environs de cette date. Le requérant a finalement reçu une copie de l’avis de cotisation avant de déposer son avis d’opposition daté du 3 janvier 2019 – voir plus loin.
+[7] Même si le ministre ne démontre pas la date d’envoi du courrier, si l’avis de cotisation a été envoyé par courrier ou autrement envoyé ou produit au requérant, la plus récente de ces dates lance le chronomètre pour établir si l’avis de cotisation a été produit en temps opportun – en ce qui concerne les autres moyens de production, voir l’arrêt Grunwald c. Canada, 2005 CAF 421 (rejet de l’autorisation d’interjeter appel devant la Cour suprême du Canada, [2006] G.S.T.C. 44).
+[8] Je souligne que, même s’il avait été envoyé à la date de l’avis d’opposition, l’avis de cotisation serait opportun dans tous les cas.
+[9] Bien qu’aucun élément de preuve ne l’indique, en théorie, l’avocat pourrait avoir obtenu l’avis de cotisation en sa qualité de représentant du requérant. Cette version des faits est toutefois peu probable, car elle va à l’encontre du fait que l’Agence a demandé un avocat pour la validation d’un formulaire d’accès en ligne le 3 janvier 2019, un formulaire RC59 – voir la saisie d’écran 5 de la pièce I de l’affidavit de M. Wu, pièce R-3. D’un autre côté, le requérant a reconnu avoir reçu la lettre datée du 6 mars 2018 et, compte tenu des commentaires figurant dans les notes électroniques de l’Agence concernant les questions du requérant, les probabilités penchent en faveur du fait que le requérant a reçu l’avis de cotisation en même temps que cette lettre, même s’il est possible qu’il n’en ait pas saisi la nature.
+[10] Les notes électroniques de l’Agence montrent clairement que le requérant n’acceptait pas la cotisation et souhaitait la contester. Compte tenu de l’existence, en parallèle pendant cette période, d’une question concernant une dette fiscale et compte tenu du fait que j’ai conclu que le requérant s’était sans doute embrouillé concernant le remboursement de la TPS/TVH pour une habitation neuve parce qu’elle ne lui était pas versée directement, je conclus que la demande a été présentée dès que les circonstances l’ont permis. Pour finir, il est évident qu’il serait juste et équitable d’accueillir la demande.

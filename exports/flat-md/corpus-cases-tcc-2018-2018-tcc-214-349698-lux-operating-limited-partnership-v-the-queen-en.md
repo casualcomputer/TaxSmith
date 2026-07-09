@@ -1,0 +1,178 @@
+---
+title: "Lux Operating Limited Partnership v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/349698/index.do"
+last_modified: "2018-10-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 214"
+citation2: ""
+neutral_citation: "2018 TCC 214"
+decision_date: "2018-10-31"
+language: "en"
+item_id: "349698"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5019
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:36:16.288000+00:00"
+cases_cited_count: 0
+cases_citing_count: 10
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4f7f1541e8dc28c58a29069fb4e8e72b693fb5c540a5ea0899012efe94912e40"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lux Operating Limited Partnership v. The Queen
+
+- Citation: 2018 TCC 214
+- Decision date: 2018-10-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5019, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lux Operating Limited Partnership v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-10-31
+Neutral citation
+2018 TCC 214
+File numbers
+2012-3093(IT)G, 2012-3094(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2012-3093(IT)G
+2012-3094(IT)G
+BETWEEN:
+2078970 ONTARIO INC., in its capacity as designated partner of LUX OPERATING LIMITED PARTNERSHIP,
+and
+2078702 ONTARIO INC., in its capacity as designated partner of LUX INVESTORs LIMITED PARTNERSHIP,
+Applicants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+ORDER AS TO COSTS
+Before: The Honourable Justice David E. Graham
+Participants:
+Counsel for the Applicants:
+David R. Davies Shawn W. Tryon
+Counsel for the Respondent:
+Michael Taylor Raj Grewal
+ORDER
+One set of costs is awarded to the Applicants in the amount of $66,592.75 plus $735.95 in disbursements plus applicable GST.
+No costs are awarded to either party in respect of their submissions on costs.
+Payment of the above amounts may be deferred until after the Respondent’s appeal to the Federal Court of Appeal is resolved.
+Signed at Ottawa, Canada, this 31st day of October 2018.
+“David E. Graham”
+Graham J.
+Citation: 2018 TCC 214
+Date: 20181031
+Dockets: 2012-3093(IT)G
+2012-3094(IT)G
+BETWEEN:
+2078970 ONTARIO INC., in its capacity as designated partner of LUX OPERATING LIMITED PARTNERSHIP,
+and
+2078702 ONTARIO INC., in its capacity as designated partner of LUX INVESTORs LIMITED PARTNERSHIP,
+Applicants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] In my order dated July 11, 2018, I answered a question put to me pursuant to section 58 of the Tax Court of Canada Rules (General Procedure) (“Rule 58”) in the Applicants’ favour. I also awarded costs to the Applicants. I provided the parties with time to reach an agreement on costs, failing which the parties were to make written submissions regarding costs. The parties were unable to reach an agreement and have now made written submissions.
+[2] The Applicants are requesting costs of $194,038.10 plus disbursements and GST. Those costs represent 50% of the Applicants’ fees from the time of the preparation and filing of the Notices of Appeal until the drafting of the notices of motion for the Rule 58 motion, 75% of the Applicants’ fees thereafter, and all disbursements and relevant GST. The Applicants are only seeking one set of costs between them.
+[3] The Respondent submits that costs equal to 20-25% of the Applicants’ actual costs in respect of the Rule 58 motion would be more appropriate.
+[4] There are two issues that I must address. The first is the scope of the costs. The second is the quantum of the costs.
+Scope of Costs
+[5] The Applicants are seeking costs in respect of their entire appeals. The Respondent submits that costs should only be payable in respect of the Rule 58 motion. I agree with the Respondent.
+[6] Paragraph 147(5)(a) of the Rules allows the Court to award costs in respect of part of a proceeding. In my order, I awarded costs to the Applicants for both stages of the Rule 58 motion. [1] I did not award costs in respect of the appeal itself. While it may be that my decision on the Rule 58 motion has the effect of resolving the appeals, that has not yet occurred. On the contrary, the Respondent has appealed my decision to the Federal Court of Appeal. As a result, it would be both inappropriate and premature for me to deal with costs relating to the appeals as a whole. If the Federal Court of Appeal upholds my decision and the Respondent ultimately consents to judgment in the Applicants’ favour, the parties can deal with costs relating to the appeal at that point.
+[7] Based on all of the foregoing, I will be dealing only with costs relating to the Rule 58 motion.
+Quantum of Costs
+[8] Subsection 147(3) of the Tax Court of Canada Rules (General Procedure) sets out the factors that the Court may consider in awarding costs.
+Result of the Proceeding
+[9] The result of a proceeding can affect costs in two ways. The degree of a party’s overall success is an important factor in determining whether costs should be awarded to a party. Once a court decides to award costs to a party, the degree of the party’s overall success may also be a factor in determining the quantum of those costs.
+[10] In my view, when determining the quantum of costs to be awarded, the result of the proceeding is only an appropriate factor to consider if it is possible for a party to have had mixed success in the proceeding. If a proceeding involves a number of different issues and a party has been completely successful on all of those issues, that will argue in favour of higher costs. If a proceeding involves a number of different issues and a party has had mixed success on those issues, the degree of the party’s overall success will be relevant when determining the quantum of costs. If a proceeding involves a single issue over which there are a number of different potential outcomes (e.g. a valuation issue), the degree of a party’s success on that issue will be relevant to the quantum of costs. However, when the only issue before the Court is a black-or-white issue on which there is no potential for partial success, the fact that a party succeeded on that issue should not, in my view, affect the quantum of costs awarded. The party achieved success. That success was no better or worse than what the party could have hoped to achieve and thus neither argues for higher nor lower costs.
+[11] The Applicants were entirely successful in the Rule 58 motion. That success is the reason that I awarded costs to them. It is not, however, a reason for a higher award of costs. The issue in the Rule 58 motion was a black-or-white issue. Thus, the fact that the Applicants were entirely successful, says nothing more than that they won. As a result, in determining the amount of costs to award to the Applicants, I do not give any weight to the fact that the Applicants were entirely successful.
+Amount in Issue
+[12] The amount in issue in the appeals is significant. It totals $33,876,914 in disallowed deductions and income inclusions. Because a decision in the Applicants’ favour on the Rule 58 motion should result in the Applicants succeeding in their appeals, the amount in issue in the Rule 58 motion is the same as the amount in issue in the appeals. This significant amount argues in favour of a higher award of costs.
+Importance of the Issues
+[13] The issue determined on the Rule 58 motion is important to the development of tax law. The decision clarifies the mechanics of a number of provisions of the Income Tax Act that have not previously been considered and, in doing so, provides procedural certainty to both the Minister of National Revenue and taxpayers.
+[14] In addition, it appears that the decision may have an immediate impact on the Sentinel Hill proceedings. [2] It is not my place to either analyze or describe what that impact may be. I am, however, satisfied that, at a minimum, the legal analysis in the decision will be of assistance to the parties in that appeal and to the Court.
+[15] All of the foregoing argues in favour of a higher award of costs.
+Settlement Offers
+[16] No settlement offers were made in the course of the Rule 58 motion. This is hardly surprising given the all-or-nothing nature of the question that I was asked to determine.
+Complexity of the Issues
+[17] The issues in the Rule 58 motion were complex. They required a textual, contextual and purposive analysis of subsection 152(1.4). Given the lack of jurisprudence concerning that subsection and related subsections 152(1.7) and (1.8), the contextual analysis was particularly complex. Overall, the complexity of the issues argues in favour of higher costs.
+Volume of Work
+[18] The amount of work involved in the Rule 58 motion was not significant and was commensurate with the complexity of the issues. There were one-and-a-half days of hearing: a half day for the first stage of the motion and full day for the second stage. As a result, I am not giving any additional weight to this factor.
+Conduct Affecting the Duration of the Proceeding
+[19] When dealing with costs in respect of a Rule 58 motion, it is important to consider the effect that bringing the motion had on the underlying appeal. A Rule 58 motion that determines or significantly shortens the length of an underlying appeal, results in savings of time and money for both parties. The expense that gives rise to those savings is the expense of conducting the Rule 58 motion. Therefore, the logical time to consider those savings is when dealing with costs on the Rule 58 motion. Postponing considering those savings until awarding costs in respect of the underlying appeal would require the Court to revisit the costs that had already been awarded for the Rule 58 motion and determine whether some additional part of those costs should be covered in respect of the appeal as a whole. This seems unnecessarily complicated. It also has the potential of putting the trial judge in the position of second guessing the costs awarded by the judge who heard the Rule 58 motion. Based on all of the foregoing, I conclude that it is appropriate to consider the effect of a Rule 58 motion on the trial as a whole when awarding costs on the Rule 58 motion.
+[20] By bringing and then successfully arguing the Rule 58 motion, the Applicants have avoided a lengthy trial involving a multitude of complex issues of fact and law. This has saved both parties a great deal of time and cost. All of this argues strongly in favour of higher costs.
+Denial or Refusal to Admit
+[21] There was no evidence that would suggest that either party had denied or refused to admit anything that should have been admitted.
+Improper, Vexatious or Unnecessary Stages
+[22] There was no evidence that would suggest that any stage in the proceeding was improper, vexatious or unnecessary.
+Stages Taken Through Negligence, Mistake or Excessive Caution
+[23] There was no evidence that would suggest that any stage in the proceeding was taken through negligence, mistake or excessive caution.
+Justification of Expert Witnesses
+[24] There were no expert witnesses.
+Other Relevant Matters
+[25] The Respondent argues that the Applicants’ costs in respect of the Rule 58 motion are too high and that it should not fall to the Respondent to compensate the Applicants for their “extravagant” costs. The Respondent points to the quantum of costs awarded in other proceedings which the Respondent argues were more complex.
+[26] The Applicants’ actual costs for the Rule 58 motion were $133,185.50. I agree with the Respondent that that seems high for a one-and-a half day motion. However, it does not seem wildly out of line considering the amount in issue and the complexity of the issue. Overall, this factor argues in favour of slightly lower costs.
+Conclusion
+[27] Overall, considering all of the above factors and, in particular, the importance of the issues and the amount of time saved by bringing the Rule 58 motion, I find that costs equal to 50% of the Applicants’ actual costs are appropriate. The Applicants’ actual costs for the Rule 58 motion were $133,185.50. Therefore, I award one set of costs to the Applicants in the amount of $66,592.75.
+[28] The Applicants’ disbursements related to the Rule 58 motion were $735.95. The Respondent shall pay those disbursements.
+[29] The Respondent shall pay all applicable GST on all of the foregoing.
+[30] No costs are awarded to either party in respect of their submissions on costs.
+[31] Given that this matter is under appeal to the Federal Court of Appeal, payment of the above amounts may be deferred until after that appeal is resolved.
+Signed at Ottawa, Canada, this 31st day of October 2018.
+“David E. Graham”
+Graham J.
+CITATION:
+2018 TCC 214
+COURT FILE NOS.:
+2012-3093(IT)G
+2012-3094(IT)G
+STYLE OF CAUSE:
+2078970 ONTARIO INC., in its capacity as designated partner of LUX OPERATING LIMITED PARTNERSHIP and 2078702 ONTARIO INC., in its capacity as designated partner of LUX INVESTORs LIMITED PARTNERSHIP v. HER MAJESTY THE QUEEN
+DATE OF HEARING:
+Motion determined by Written Submissions
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+October 31, 2018
+PARTICIPANTS:
+Counsel for the Applicant:
+David R. Davies Shawn W. Tryon
+Counsel for the Respondent:
+Michael Taylor Raj Grewal
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+David R. Davies Shawn W. Tryon
+Firm:
+Thorsteinssons LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Although I did not hear the first stage of the Rule 58 motion, Justice Visser’s order dated September 7, 2017 provided that costs for that stage were to be determined by the judge who heard the second stage of the motion.
+[2] Sentinel Hill Productions IV Corporation in its capacity as designated member of SHAAE (2001) Master Limited Partnership v. The Queen, Tax Court file no. 2009-2248(IT)G.

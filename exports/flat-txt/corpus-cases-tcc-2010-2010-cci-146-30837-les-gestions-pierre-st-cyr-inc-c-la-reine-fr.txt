@@ -1,0 +1,128 @@
+Title: Les Gestions Pierre St-Cyr Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30837/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-146-30837-les-gestions-pierre-st-cyr-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-04-21
+
+# Les Gestions Pierre St-Cyr Inc. c. La Reine
+
+- Citation: 2010 CCI 146
+- Decision date: 2010-04-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7396, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Gestions Pierre St-Cyr Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-21
+Référence neutre
+2010 CCI 146
+Numéro de dossier
+2007-4218(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2010 CCI 146
+Date : 20100517
+Dossier : 2007-4218(IT)G
+ENTRE :
+LES GESTIONS PIERRE ST-CYR INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Angers
+[1] L'appelante interjette appel à l'égard des nouvelles cotisations établies le 20 juillet 2005 pour les années d'imposition se terminant les 30 septembre 2002 et 2003 et ratifiées le 5 juillet 2007. Le ministre du Revenu national (le « Ministre ») a refusé d’admettre les montants de 29 602 $ et de 41 273 $ déduits par l'appelante à titre de dépenses courantes pour les dites années d'imposition respectivement.
+[2] De plus, lors de l’établissement de ces nouvelles cotisations, l'intimée a déterminé qu'un montant de 58 350 $, composé d'une somme de 28 106 $ versée dans les années antérieures à 2002 et d'une somme de 30 244 $ versée en 2002 pour l’acquisition de contrats de service de télésurveillance, et qu'une somme de 119 257 $ ayant servi à acquérir des contrats de service de télésurveillance en 2003, constituaient des dépenses en capital admissibles selon la définition de cette expression au paragraphe 14(5) de la Loi de l'impôt sur le revenu (la « Loi »).
+[3] L'intimée a par conséquent accordé des déductions supplémentaires de 3 053 $ pour l'année d'imposition se terminant le 30 septembre 2002 et de 9 110 $ pour l'année d'imposition se terminant le 30 septembre 2003 à titre de montant cumulatif des immobilisations admissibles conformément à l'alinéa 20(1)b) de la Loi.
+[4] Le point en litige porte donc sur la question de savoir si les acquisitions de contrats de télésurveillance effectuées par l'appelante au cours de ses exercices financiers qui ont pris fin les 30 septembre 2002 et 2003 constituaient des dépenses de nature capitale ou des dépenses de nature courante.
+[5] Les activités commerciales de l'appelante ont débuté en 1973. Elle oeuvrait dans le domaine de l'installation, de la réparation et de l'entretien de systèmes d'alarme. En 1981, elle a mis en opération une centrale d'alarme pour recevoir des signaux à distance. Après avoir diversifié ses activités commerciales, en 1996 elle a cessé de vendre, d’installer et d’entretenir des systèmes d’alarme pour se concentrer uniquement sur l'exploitation d'une centrale de surveillance des systèmes d'alarme.
+[6] À cette époque, les clients de l'appelante étaient liés, soit contractuellement à l'appelante, soit contractuellement à des installateurs de systèmes d'alarme que l'appelante facturait directement. L'industrie des systèmes d'alarme, selon le président de l'appelante, compte quatre secteurs, soit la vente, l’installation, les services et la surveillance. En ce qui concerne l'appelante, elle exploite une entreprise de surveillance.
+[7] L'appelante avait donc ses propres clients qu'elle facturait directement et elle avait des installateurs qu'elle facturait directement pour le service de surveillance qu'elle fournissait aux clients des installateurs. Entre 1998 et 2003, l'appelante a fait l’acquisition d'une dizaine de ses clients installateurs, ce qui, selon son président, permettait à l'appelante de protéger sa source de revenus étant donné qu'elle devenait partie aux contrats d'abonnement de surveillance des clients des installateurs.
+[8] Selon le président de l'appelante, la durée des contrats de surveillance variait entre un an et cinq ans mais elle s’établissait en moyenne à environ 36 mois. Il y aurait un taux de résiliation d'environ 12% dû à des circonstances telles que les déménagements, la séparation de conjoints, etc. Selon l'industrie, le prix d'achat de contrats avec des clients se situe entre 18 et 24 fois la mensualité facturée.
+[9] En tout et partout, l'appelante a acheté quelque 1 300 contrats avec des clients des installateurs et elle fait maintenant affaire directement avec les anciens clients des installateurs. Selon la preuve, environ 60 de ces clients n'étaient pas branchés au central de l'appelante. L'appelante a donc acquis 60 nouveaux clients.
+[10] Huit contrats couvrant la période du 28 octobre 1998 au 12 mars 2003 ont été déposés en preuve. Chacun des contrats prévoit la vente des contrats de service et de tous les dossiers de clients branchés à la Centrale de contrôle d'alarme du Québec ou à toute autre centrale de surveillance appartenant à l'entreprise du vendeur. Certains contrats stipulent que l'appelante a le droit d'utiliser la dénomination sociale du vendeur. Un contrat en particulier stipule dans son préambule que le vendeur vend le secteur d'activité de son entreprise. Un autre contrat prévoit la vente de la « clientèle », l'achalandage, tous les dossiers des clients, les numéros de téléphone de l'entreprise du vendeur, l'appareil cellulaire, la dénomination sociale, bref l'entreprise au complet.
+[11] Chacun de ces contrats comporte une clause de non-concurrence dont les modalités diffèrent selon chaque contrat tout comme le montant de la pénalité en cas du non-respect de l'engagement par le vendeur. Le prix d'achat représente de 18 à 22 fois les revenus mensuels récurrents.
+[12] Les dispositions législatives pertinentes en l'espèce se trouvent aux articles 18 et 20 de la Loi. L'alinéa 18(1)a) prévoit qu'une dépense n'est pas déductible sauf dans la mesure où elle a été engagée en vue de tirer un revenu d'une entreprise ou d'un bien. L'alinéa 18(1)b) précise que des dépenses de nature capitale ne sont pas déductibles, sauf ce qui est permis par la Loi.
+18.(1) Exceptions d'ordre général – Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) Restriction générale – les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+b) Dépense ou perte en capital – une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[13] Donc, par le truchement de l'alinéa 18(1)b), les alinéas 20(1)a) et b) permettent la déduction d'une dépense en capital à titre d'amortissement.
+20.(1) Déductions admises dans le calcul du revenu tiré d'une entreprise ou d'un bien – Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d'une entreprise ou d'un bien pour une année d'imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu'il est raisonnable de considérer comme s'y rapportant :
+a) Coût en capital des biens [DPA] – la partie du coût en capital des biens supporté par le contribuable ou le montant au titre de ce coût ainsi supporté que le règlement autorise;
+b) Montant cumulatif des immobilisations admissibles – la somme qu'un contribuable déduit au titre d'une entreprise, ne dépassant pas 7 % du montant cumulatif des immobilisations admissibles relatives à l'entreprise à la fin de l'année; toutefois, lorsque l'année compte moins de douze mois, la somme déductible en application du présent alinéa ne peut dépasser la proportion de la somme maximale déductible par ailleurs que représente le nombre de jours de l'année d'imposition par rapport à 365;
+[14] Les expressions « dépenses courantes » et « dépenses en capital » ne sont pas définies dans la Loi. Il faut donc se tourner vers la jurisprudence pour connaître les critères permettant de distinguer les expressions. L'arrêt de principe en ce qui concerne cette question est Canada c. Johns-Manville Canada Inc., [1985] 2 S.C.R. 46. Le juge Estey, qui a rédigé le jugement, a repris les propos du juge Fauteux, dans l'arrêt Minister of National Revenue c. Algoma Central Railway, [1968] R.C.S. 447, qui affirmait que :
+[TRADUCTION] [L]e Parlement ne définit pas les expressions « dépense … de capital » ou « dépense à compte de capital ». Comme il n'y a pas de critère législatif, appliquer ou non ces expressions à toutes dépenses particulières doit dépendre des circonstances propres à l'affaire. Nous ne pensons pas qu'un critère unique permet d'élaborer cette définition …
+[15] Le juge Estey a dressé une liste de facteurs et de critères provenant de la jurisprudence canadienne, australienne et britannique et il a écrit ce qui suit :
+[I]l y a presque une infinité de nuances d'expressions qui servent à établir la différence entre des dépenses à porter au compte de revenu et des dépenses de capital. On a dit que la terminologie utilisée tente simplement d'identifier les facteurs particuliers qui peuvent faire pencher la balance dans un sens ou dans l'autre, dans un cas donné.
+[16] Il a également mentionné l'idée exprimée par Lord Reid dans l'arrêt Regent Oil Co. v. Strulz que le poids qu'il faut accorder aux circonstances particulières d'un cas donné doit dépendre du bon sens plutôt que de l'application stricte d'un principe juridique quelconque. Dans son analyse, et en s'appuyant toujours sur cette jurisprudence, le juge Estey ajoutait que la question de la catégorisation d'une dépense peut être abordée en examinant l'effet envisagé de la dépense d'un point de vue pratique et commercial plutôt que la classification juridique des droits.
+[17] Selon la jurisprudence citée dans l'arrêt Johns-Manville, une dépense faite « une fois pour toutes » dans le « but de créer un bien ou un avantage à l'entreprise de façon durable » est de nature capitale. De plus, « durable » ne signifie pas nécessairement permanent ni même « perpétuel ». Une dépense « faite en vue de répondre à une demande continue » est une dépense courante, et ce, même si elle n'est pas fait annuellement.
+[18] Selon le juge Tremblay de notre Cour, dans l'affaire Robert Verrier & Fils Ltée c. le M.R.N., 92 DTC 2344, l'achat d'une liste de clients est une dépense en capital s'il est effectué dans le cadre de l'achat d'une entreprise. Il a tiré une liste d'indicateurs de la jurisprudence qui peut être utilisée pour déterminer la nature de l'achat. Il précise comme suit :
+[. . .] La liste de ces guides, critères ou indicateurs n'est pas exhaustive. De plus, chacun d'eux n'a pas nécessairement toujours le même poids. Un même critère peut avoir plus d'importance dans une affaire et moins dans une autre. Chaque cas doit être étudié à son mérite. Dans un cas, un guide peut être très significatif, mais dans un autre, à cause de circonstances différentes, sa force probante peut être négligeable ou ne prendre de la force qu'à cause de l'existence d'autres guides ou indicateurs.
+Indicateurs ou guides favorables à la thèse de la déductibilité de la dépense
+1. Lorsque le seul objet de la vente est une liste de personnes ou de clients;
+2. Lorsqu'il est défendu à l'acheteur de se servir du nom du vendeur;
+3. Lorsque l'acheteur et le vendeur étaient libres d'essayer d'acquérir des clients à partir de la liste.
+Indicateurs ou guides favorables à la thèse de la dépense de capital
+1. Lorsque l'objet de la vente, en plus d'une liste de clients, consiste aussi en de l'achalandage;
+2. Lorsque le but de la transaction est d'éliminer un compétiteur;
+3. Lorsque la transaction comprend une clause de non concurrence de la part du vendeur;
+4. Lorsque les paiements sont basés sur les revenus des années à venir;
+5. Lorsque le prix est payable sur plusieurs années;
+6. Lorsque des employés importants du vendeur vont travailler dans l'entreprise de l'acheteur;
+7. Lorsque l'avantage reçu s'étale sur plusieurs années;
+8. Lorsque la transaction élargit la structure de revenu de l'entreprise de l'acheteur.
+[19] Dans l'arrêt Gifford c. Canada, [2004] A.C.S. no 13, la Cour suprême a décidé, en reprenant les critères énoncés dans l'arrêt Johns-Manville, que l'achat d'une liste de clients est une dépense en capital. Le juge Major, qui a rédigé la décision unanime de la Cour, a souligné que l'achat a élargi le réseau de clients de monsieur Gifford et lui a procuré un avantage durable. Selon le juge, l'achat de l'achalandage dont une autre personne s'est progressivement dotée n'équivaut pas aux frais de commercialisation récurrents que l'appelant aurait eu à engager pour créer son propre achalandage.
+[20] Le critère de création d'un avantage durable pour l'entreprise a été retenu dans l'arrêt Southam Business Publications Limited v. M.N.R., 67 DTC 5150, afin de catégoriser une dépense au titre de dépense en capital.
+[21] Dans l'arrêt Cumberland Investments Limited c. La Reine, [1975] A.C.F. no 511, l'appelante s'était engagée à payer, au cours d'une période de six ans, la somme de 750 000 $ pour l'achat des comptes de sous-agence d'un concurrent exploitant une agence générale de surveillance d'assurance. Le vendeur s'était engagé à ne pas faire concurrence à l'appelante et avait contacté les sous-agents afin de leur faire part de la vente et leur demander de coopérer avec l'appelante. L'appelante prétendait que le montant payé représentait une dépense courante. L'appelante faisait valoir qu'au lieu d'acheter les comptes de son concurrent, elle aurait pu engager des personnes qui auraient obtenu la faveur des sous-agents et ensuite déduire cette dépense comme dépense courante.
+[22] Le juge Urie de la Cour d'appel fédérale n'a pas souscrit à cet argument et a déclaré qu'on ne résout pas le problème en faisant ensuite mention d'un moyen qui n'aurait pas exigé que l'on choisisse entre les deux qualifications. Selon le juge Thurlow, l'appelant avait effectué une dépense en capital en achetant la liste. Le juge a dit ceci au paragraphe 3 :
+[. . .] l'appelante visait l'absorption du commerce d'agence de surveillance d'assurance de la W.R. MacInnes & Co., éliminant, de ce fait, ladite entreprise et son propriétaire en tant que concurrent. Je considère donc que la dépenses engagée par l'appelante avait pour but une expansion immédiate et importante de son commerce ainsi que l'accroissement de sa clientèle, en lui permettant de conserver la plus grande partie possible des affaires et de la clientèle de la W.R. MacInnes & Co., avec la bénédiction du propriétaire de ladite entreprise, Austin E. Hayes.
+[23] Le juge a aussi pris note des facteurs suivants en précisant qu'aucun ne conduisait inévitablement à la conclusion qu’il s’agissait d’une dépense en capital mais qu'il n'y avait rien dans les faits lui permettant de repousser cette conclusion.
+[. . .] L’achat de concurrents ne constituait pas un besoin courant indispensable aux activités de l'appelante, qui consistent à recevoir des demandes et à préparer des polices d'assurance. [. . .] Il s'agissait d'une somme forfaitaire payable à un concurrent dans le but de le persuader de céder son commerce et sa clientèle. Ce n'était donc pas une dépense ordinaire propre au domaine de l'assurance [. . .] l'on devait s'attendre non pas à un avantage à court terme mais plutôt à un avantage à long terme.
+[24] Cela étant dit, les tribunaux doivent donc s'inspirer des critères appliqués par la jurisprudence tout en fondant leur jugement sur le bon sens à la lumière des circonstances propres à chaque cas.
+[25] L'appelante soutient que les dépenses en l'espèce sont des dépenses récurrentes et font partie du processus d'exploitation de son entreprise. À mon avis, les faits de l'espèce n'appuient pas un tel énoncé. Chaque dépense, à mon avis, a été faite une fois pour toutes étant donné qu'une fois achetés, ces contrats avec des clients sont devenus la propriété de l'appelante. L'appelante n'aurait pas pu acheter les mêmes contrats ou une dénomination sociale (contrat 7-A et 7-H) plus d'une fois. De plus, prétendre que les dépenses font partie intégrante du processus d'exploitation de l'entreprise de l'appelante me semble faux puisque les dépenses n'étaient pas nécessaires à l'exploitation de l'entreprise car elle avait environ 20 000 clients. Il n'a pas été démontré qu'elle n'aurait pas pu continuer d'exploiter son entreprise sans effectuer les dépenses en question.
+[26] Il ne faut pas oublier qu'avant d'effectuer les achats, l'appelante facturait les installateurs (les vendeurs) pour les services de surveillance et ceux-ci facturaient leurs clients en retour plus cher afin de leur permettre de réaliser un profit. Le prix payé par les clients pour le service de surveillance est demeuré inchangé après les achats mais le revenu brut de l'appelante a augmenté en raison du fait que ces achats lui ont permis de facturer les abonnés directement. Elle a aussi acquis une soixantaine de nouveaux clients par la même occasion. L'appelante a soutenu que son profit n'a pas augmenté étant donné que la hausse des frais administratifs associés à la nouvelle facturation a absorbé l'augmentation du revenu brut. L'appelante n'a cependant soumis aucun précédent appuyant la thèse qu'il faut examiner les profits et non les revenus bruts d'une entreprise afin de déterminer si une dépense confère un avantage durable.
+[27] L'appelante soutient également que l'achat des contrats avec des clients des installateurs a été fait dans le but de préserver sa source de revenu et non pour obtenir un « avantage durable ». Elle appuie son argument sur l'arrêt Pantorama Industries Inc. c. Canada, [2006] 1 R.C.F. 56 dans lequel la Cour d'appel fédérale avait décidé que des dépenses nécessaires pour poursuivre les activités rentables de l'entreprise figuraient au compte de dépenses courantes. La preuve en l'espèce ne démontre pas cependant que les activités de l’entreprise n'auraient plus été rentables si l'appelante n'avait pas effectué les dépenses.
+[28] L'appelante soutient également qu'elle aurait perdu sa source de revenus si elle n'avait pas effectué ces achats puisque les installateurs auraient pu vendre les contrats avec des clients à d'autres entreprises de télésurveillance. À mon avis, l'élimination de compétiteurs potentiels est un indice que les dépenses conféraient un avantage durable à l'appelante. Les achats permettent à l’appelante d’entretenir des relations directes avec 1 300 abonnés additionnels et de les inciter à renouveler leur contrat avec elle. Le fait de perdre de 11 % à 13 % des clients en raison de ces achats ne fait pas perdre à l’appelante l'avantage durable qu’elle obtient. Le taux de résiliation de ces nouveaux clients, selon la preuve, est similaire au taux de résiliation des abonnés de l'appelante, de sorte qu'il est difficile de les attribuer avec certitude à l’achat de ces contrats. Cela fait aussi partie des risques commerciaux. Il ne s’agit donc pas d’un facteur permettant de conclure que les dépenses n'ont pas conféré à l’appelante un avantage durable.
+[29] À la lecture des contrats, il est difficile de conclure que le seul but de l’appelante était de maintenir sa source de revenu au même niveau en achetant les contrats avec les clients. Dans certains cas, il s'agit d'une acquisition complète de l'entreprise du vendeur. Dans d'autres cas, les contrats font référence à l'achalandage. Il est vrai que les clients des vendeurs étaient déjà branchés à la centrale de surveillance de l'appelante et que cette dernière aurait pu solliciter les clients des vendeurs pour les inciter à faire affaire directement avec elle sans acheter les contrats mais, dans quatre des contrats, il est prévu que les vendeurs doivent fournir à l’appelante tous les codes utilisés par les techniciens pour programmer les panneaux de contrôle faisant l'objet des ventes. La question qui se pose alors est de savoir si l'appelante, du moins dans le cas de ces quatre contrats, aurait pu faire affaire directement avec les clients des installateurs. Il y avait aussi, à mon avis, une vente d'achalandage.
+[30] Pour protéger sa source de revenus, l'appelante tentait d'éliminer des compétiteurs potentiels ou, du moins, de s'assurer que les contrats avec les clients ne soient pas vendus à un compétiteur. Cet objectif étaye la thèse de la dépense en capital.
+[31] Je dois aussi prendre en considération le fait que les contrats comportaient des engagements de non‑concurrence de la part des vendeurs. Les clauses de certains de ces contrats prévoyaient que les vendeurs ne pouvaient divulguer à qui que ce soit d’autre que l'appelante, des renseignements concernant les contrats et les dossiers des clients, ni solliciter les clients ayant fait affaire avec eux pour une période de cinq ans. Une clause dans le contrat figurant à l'onglet 7-H est encore plus restrictive. Elle stipule que le vendeur doit s'abstenir de participer de quelque façon que ce soit à une entreprise de même nature que celle de l'acheteur pour une période de 5 ans dans la région Mauricie-Bois-Francs. Ces clauses favorisent également la thèse de la dépense en capital.
+[32] Enfin, la valeur des contrats est basée sur les revenus des années à venir, et est calculée en multipliant de 18 à 22 fois les mensualités facturées aux clients ayant renouvelé leur contrat de surveillance avec l'appelante.
+[33] Pour tous ces motifs, je conclus qu'il s'agit de dépenses en capital et que le Ministre a correctement refusé d’admettre les montants déduits par l'appelante à titre de dépenses courantes et qu'il a correctement établi que les montants pour les années antérieures à 2002 et pour les années d'imposition se terminant le 30 septembre 2002 et le 30 septembre 2003 furent versés par l'appelante pour acquérir des contrats de service de télésurveillance et constituaient des « dépenses en capital admissibles » selon la définition de cette expression au paragraphe 14(5) de la Loi.
+[34] Les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 17e jour de mai 2010.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2010 CCI 146
+Nº DU DOSSIER DE LA COUR : 2007-4218(IT)G
+INTITULÉ DE LA CAUSE : Les Gestions Pierre St-Cyr Inc. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 17 décembre 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 21 avril 2010
+DATE DES MOTIFS DU
+MODIFIÉS : le 17 mai 2010
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Bernard Gaudreau et
+Me Sébastien Gingras
+Avocate de l'intimée :
+Me Marie-Claude Landry
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante:
+Noms : Me Bernard Gaudreau et
+Me Sébastien Gingras
+Cabinet : Ogilvy Renault
+Québec, Québec
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

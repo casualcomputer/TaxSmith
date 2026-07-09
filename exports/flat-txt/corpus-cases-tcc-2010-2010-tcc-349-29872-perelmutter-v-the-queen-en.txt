@@ -1,0 +1,190 @@
+Title: Perelmutter v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29872/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-349-29872-perelmutter-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-06-23
+
+# Perelmutter v. The Queen
+
+- Citation: 2010 TCC 349
+- Decision date: 2010-06-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6429, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perelmutter v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-23
+Neutral citation
+2010 TCC 349
+File numbers
+2009-3208(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3208(IT)I
+BETWEEN:
+LEWIS PERELMUTTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 8, 2010, at Ottawa, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+K.E. Koshy, C.A.
+Counsel for the Respondent:
+Mélanie Sauriol
+____________________________________________________________________
+JUDGMENT
+The appeal for the 2005 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+The Appellant’s share of the terminal loss is $8,039 and his share of the capital loss is $1,524; and
+The Appellant is entitled to claim one half of the current expenses associated with the Burnley Property. His share of those expenses is $3,305.
+The appeal for the 2006 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to a capital loss of $17,488.
+Signed at Ottawa, Canada, this 23rd day of June 2010.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2010TCC349
+Date: 20100623
+Docket: 2009-3208(IT)I
+BETWEEN:
+LEWIS PERELMUTTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The Appellant has appealed the reassessments for his 2005 and 2006 taxation years which disallowed his claim for capital losses of $42,930 and $8,627 respectively. On reassessment, the Minister of National Revenue (the “Minister”) allowed a capital loss of $1,552 and nil in 2005 and 2006 respectively. In the Reply to Notice of Appeal, the Minister conceded that the Appellant is entitled to a capital loss of $8,627 for his 2006 taxation year.
+[2] The issues in this appeal are:
+2005
+a) whether the Appellant and Drupatty Rupnarain carried on business in partnership for the acquisition of the property at 34 Burnley Court in Nepean (the “Burnley Property”);
+b) whether the loss on the disposition of the Burnley Property was a terminal loss or a capital loss;
+c) what was the quantum of the loss on the Burnley Property;
+2006
+a) whether the Appellant is entitled to a business loss or a capital loss with respect to the property at Lucinda Palm Court in Florida (the “Florida Property”).
+2005 – Burnley Property
+[3] The witnesses at the hearing were the Appellant, Drupatty Rupnarain and Robert Taylor, an officer with the CRA.
+[4] In 1999 or 2000, the Appellant hired Rupnarain, a nurse’s assistant, to care for his wife who was bedridden with Parkinson’s disease.
+[5] The Appellant and Rupnarain explained their relationship and how they came to be joint tenants with respect to the Burnley Property.
+[6] Rupnarain testified that it was her idea to someday own and operate a seniors’ residence as she enjoyed working with seniors. She stated that she spoke to the Appellant about her plan and he asked if they could go into business together as he would have nothing to do after his wife died. Rupnarain consented and they started to look for a suitable property. They engaged a real estate agent who found the Burnley Property.
+[7] The Appellant and Rupnarain acquired the Burnley Property as joint tenants on January 7, 2005. They advertised the seniors’ residence by posting flyers in various places, speaking to doctors and social workers and at retirement homes and hospitals.
+[8] Both the Appellant and Rupnarain thought that the Burnley Property was suitable for their purposes as it had an elevator. However, the house was in poor repair. Rupnarain and her husband personally did all of the renovations to the Burnley Property. They constructed two bathrooms and an extra bedroom in the basement. They laid laminate and tile floors in the basement. They removed old carpet and laid laminate floors upstairs. They cleaned the backyard. Rupnarain had draperies made for the house.
+[9] It was Rupnarain’s evidence that she paid for all expenses associated with the renovations of the Burnley Property. She gave the receipts to the Appellant as they had agreed that he would prepare the books for the business.
+[10] The Burnley Property was zoned residential and the Appellant and Rupnarain were unable to get it rezoned to carry on their business of a seniors’ residence. They sold the Burnley Property on July 15, 2005.
+[11] It was the Appellant’s position that he and Rupnarain were not business partners. It was not his intention to be partners in the business or the Burnley Property as he paid for all expenses that were incurred save for $5,000 which was paid by Rupnarain.
+[12] The Appellant stated that it was out of kindness that he had Rupnarain’s name placed on the deed for the Burnley Property.
+[13] The documentary evidence contradicts the Appellant’s evidence. According to the Mortgage Commitment, the Scotiabank instructed the solicitor who would complete the property transaction that both the Appellant and Rupnarain “are to be registered on title”.
+[14] The term partnership is not defined in the Income Tax Act (the “Act”)[1]. The Supreme Court of Canada has held that partnership is a legal term and Parliament must have intended that the term be given its legal meaning as found in various provincial and territorial partnership statutes[2].
+[15] Section 2 of the Ontario Partnerships Act[3] defines partnership as “the relation that subsists between persons carrying on a business in common with a view to profit”.
+[16] The Supreme Court of Canada in Backman[4] discussed some of the relevant factors that must be analysed when a court is determining if a partnership exists. It stated:
+19 In law, the meaning of "carrying on a business" may differ depending on the context in which it is used. Provincial partnership acts typically define "business" as including "every trade, occupation and profession". The kinds of factors that may be relevant to determining whether there is a business are contained in the existing legal definitions. One simple definition of "carrying on trade or business" is given in Black's Law Dictionary (6th ed. 1990), at p. 214: "To hold one's self out to others as engaged in the selling of goods or services." Another definition requires at least three elements to be present: (1) the occupation of time, attention and labour; (2) the incurring of liabilities to other persons; and (3) the purpose of a livelihood or profit: see R. v. Gordon, [1961] S.C.R. 592 (S.C.C.) per Cartwright J., dissenting but not on this point, at p. 603.
+20 The existence of a valid partnership does not depend on the creation of a new business because it is sufficient that an existing business was continued. Partnerships may be formed where two parties agree to carry on the existing business of one of them. It is not necessary to show that the partners carried on a business for a long period of time. A partnership may be formed for a single transaction. As was noted by this Court in Continental Bank, supra, at para. 48, "[a]s long as the parties do not create what amounts to an empty shell that does not in fact carry on business, the fact that the partnership was created for a single transaction is of no consequence." Furthermore, to establish the carrying on of a business, it is not necessary to show that the parties held meetings, entered into new transactions, or made decisions: Continental Bank, supra, at paras. 31-33 …
+21 In determining whether a business is carried on "in common", it should be kept in mind that partnerships arise out of contract. The common purpose required for establishing a partnership will usually exist where the parties entered into a valid partnership agreement setting out their respective rights and obligations as partners. As was noted in Continental Bank, supra, at paras. 34-35, a recognition of the authority of any partner to bind the partnership is relevant, but the fact that the management of a partnership rests with a single partner does not mandate the conclusion that the business was not carried on in common. This is confirmed in Lindley & Banks on Partnership (17th ed. 1995), at p. 9, where it is pointed out that one or more parties may in fact run the business on behalf of themselves and the others without jeopardizing the legal status of the arrangement. It may be relevant if the parties held themselves out to third parties as partners, but it is also relevant if the parties did not hold themselves out to third parties as being partners. Other evidence consistent with an intention to carry on business in common includes: the contribution of skill, knowledge or assets to a common undertaking, a joint property interest in the subject-matter of the adventure, the sharing of profits and losses, the filing of income tax returns as a partnership, financial statements and joint bank accounts, as well as correspondence with third parties: see Continental Bank, supra, at paras. 24 and 36.
+[17] I have considered those factors and I find that the Appellant and Rupnarain were in partnership with respect to the Burnley Property. They operated a seniors’ residence in partnership and they were equal partners. I have relied on the following facts in making this decision:
+a) The Appellant and Rupnarain held themselves out to others that they were engaged in the business of operating a seniors’ residence;
+b) They purchased the Burnley Property as joint tenants and they were jointly responsible for a mortgage loan to Scotiabank;
+c) They both participated in the advertisement of the seniors’ residence. I believe Rupnarain when she stated that they used her car to drive to the various places where they advertised the seniors’ residence;
+d) They opened a joint bank account at the TD Bank and they applied for and received a joint TD Visa;
+e) Rupnarain gave the Appellant money which he deposited into their joint account. The Appellant stated that Rupnarain gave him $5,000 whereas Rupnarain said it was $4,000;
+f) The Appellant paid the down payment and some of the expenses associated with the Burnley Property. Rupnarain and her husband personally made the renovations to the property and paid for the materials used in the renovations;
+g) The gas and hydro connections for the Burnley Property were registered to both the Appellant and Rupnarain;
+h) I accept Rupnarain’s evidence that they had intended that the Appellant would take care of the books for the business and she would run the business by living in the house and actually caring for the seniors on a 24/7 basis;
+i) The Appellant stated that any profit made by the business would be divided equally between them.
+[18] Mr. Koshy, agent for the Appellant argued that since the Appellant paid most of the money for the Burnley Property, there was no partnership. He stated that the Appellant paid the down payment of $34,750 and made the mortgage payments. It was his position that the Appellant was responsible for the mortgage loan on the property. He argued that Rupnarain did not have the means to pay the mortgage loan if there was a default. He insinuated that Scotiabank did not do a credit check on Rupnarain.
+[19] I disagree with the agent and I find his statements to be condescending. Both the Appellant and Rupnarain signed the Mortgage Agreement and both were jointly responsible for the loan. I note that on exhibit R-5, the Mortgage Commitment, Rupnarain had to give verification of her income for the 2003 and 2004 taxation years. According to this document, Scotiabank instructed the solicitor who acted on behalf of the Appellant and Rupnarain to ensure that they each owned their homes “Free and Clear” and that both of them were to be registered on title, but only Rupnarain was to occupy the Burnley Property.
+[20] In conclusion, the Appellant and Rupnarain did carry on business in common with a view to profit and they were partners with respect to the Burnley Property.
+[21] Between January 7 and July 15, 2005, the Appellant and Rupnarain held the Burnley Property as a capital property in their business. They sustained a loss on the sale of the property. As the building was depreciable property, it gave rise to a terminal loss whereas the land was non-depreciable property and it gave rise to a capital loss.
+[22] The Minister assumed that the purchase price and proceeds of disposition for the Burnley Property were attributable to the land and building in the ratio 25/75. Agent for the Appellant agreed with this allocation for the purchase price. He argued that the proceeds of disposition should be wholly allocated to the building as the value of the land remained constant. The Appellant gave no evidence to support this position. I find that this argument is not correct because even if the value of the land remained constant, the entire proceeds of disposition would not be allocated to the building.
+[23] In order to calculate the terminal loss on the building and the capital loss on the land I have determined from the exhibits that the building was under renovation for three months. The terminal and capital losses are as follows:
+Purchase Price
+$347,500
++ Closing costs
+5,081
+$352,581
+Building 75%
+Land 25%
+$264, 436
+$88,145
+Renovations
+$ 2,709
+Mortgage Interest
+2,551
+Property Taxes
+983
+Gas
+584
+Hydro
+108
+Total Cost:
+$271,371
+Sale Price
+$361,014
+Less:
+Real Estate Commission
+15,494
+Legal Fees
+724
+Mortgage Discharge
+4,405
+20,623
+$340,391
+Building 75%
+Land 25%
+$255,293
+$85,098
+Terminal Loss
+$ 16,078
+Capital Loss
+$ 3,047
+The Appellant’s share of the terminal loss is $8,039 and his share of the capital loss is $1,524.
+[24] The Appellant is entitled to claim one half of the current expenses associated with the Burnley Property. I have calculated his share of those expenses to be $3,305.
+2006 – Florida Property
+[25] In 2005, the Appellant and Steven Smith decided to purchase a property in Florida. It was their intention to have a single family home built. They put a deposit of $29,244.27US on Lot #107C in Carlsberg Estates, in Lake Wales, Florida. The purchase price of the home was $194,961.80.
+[26] The Appellant and his partner did not close on the property. It was the Appellant’s evidence that they did not acquire the property as the area had been hit by Hurricane Katrina and there was a downturn in the American housing system. He and his partner decided to reduce their losses by not closing the transaction and thus forfeiting their deposit.
+[27] Steven Smith lived in Florida and was a professional colleague and friend of the Appellant’s. The Appellant visited Florida each winter for four months.
+[28] It is the Appellant’s position that his purchase of an interest in the Florida Property was an adventure in the nature of a trade. He stated that it was his intention to keep the property for a while and then to sell it.
+[29] In Canada Safeway Limited v. The Queen[5] Nadon J.A. stated:
+43 I agree entirely with the authors of Principles of Canadian Income Tax Law, supra, when they say, at page 334, that although the courts have used various factors to determine whether a transaction constituted an adventure in the nature of trade or a capital transaction, namely, those found in IT-218R, the most determinative factor is the intention of the taxpayer at the time of acquiring the property. If that intention reveals a scheme for profit-making, then the Court will conclude that the transaction is an adventure in the nature of trade.
+[30] The Appellant gave no evidence to support his declared intention that this transaction was an adventure in the nature of trade. On cross examination the Appellant stated that he never saw the Florida property but Steven Smith did see the model home in the project. Counsel for the Respondent asked the Appellant what his intention was when he signed the Agreement of Purchase and Sale. His answer was that he was not sure; he may have rented the home but he was not sure. He did not do a market study with respect to the feasibility of renting or selling the Florida Property. I find that there was no evidence that revealed a scheme for profit-making with respect to the Florida property.
+[31] It is not enough that a taxpayer state that he had a primary or a secondary intention at the time of purchase to sell a property. He must give some evidence, either oral or documentary, that will support his statement. I am not persuaded that the Appellant was engaged in an adventure in the nature of trade with respect to the Florida Property.
+[32] The Appellant’s agent has calculated that the Appellant’s share of the deposit in Canadian funds is $17,488. I accept his calculations. In 2006, the Appellant is entitled to a capital loss in this amount.
+[33] The appeal is allowed in accordance with these reasons.
+Signed at Ottawa, Canada, this 23rd day of June 2010.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2010TCC349
+COURT FILE NO.: 2009-3208(IT)I
+STYLE OF CAUSE: LEWIS PERELMUTTER AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: June 8, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: June 23, 2010
+APPEARANCES:
+Agent for the Appellant:
+K.E. Koshy, C.A.
+Counsel for the Respondent:
+Mélanie Sauriol
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Backman v. Canada, [2001] SCC 10 at paragraph 17
+[2] Supra at paragraph 17
+[3] R.S.O. 1990 C. P.5
+[4] Supra, footnote 1
+[5] 2008 FCA 24

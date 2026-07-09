@@ -1,0 +1,139 @@
+Title: HSBC Bank Canada v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30172/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-37-30172-hsbc-bank-canada-v-the-queen.md
+Document type: case_law
+Last modified: 2011-01-21
+
+# HSBC Bank Canada v. The Queen
+
+- Citation: 2011 TCC 37
+- Decision date: 2011-01-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7813, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+HSBC Bank Canada v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-21
+Neutral citation
+2011 TCC 37
+File numbers
+2006-3579(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3579(IT)G
+BETWEEN:
+HSBC BANK CANADA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard on January 19, 2011, at Toronto, Ontario
+Before: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Edwin G. Kroft, Q.C. and
+Deborah J. Toaze
+Counsel for the Respondent:
+John Shipley and Justine Malone
+____________________________________________________________________
+ORDER
+The Appellant’s Motions pursuant to Rule 58 of the Tax Court of Canada Rules (General Procedure) (the "Rules") are dismissed.
+Costs shall be in the cause.
+Signed at Ottawa, Canada, this 21st day of January 2011.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2011 TCC 37
+Date: 20110121
+Docket: 2006-3579(IT)G
+BETWEEN:
+HSBC BANK CANADA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+C. Miller J.
+[1] The Appellant, HSBC Bank Canada, brings a motion pursuant to Rule 58(1)(a) of the Tax Court of Canada Rules (General Procedure) (the "Rules") for a Determination of questions before hearing and, pursuant to Rule 58(2)(a) for leave of the Court to consider certain evidence in support of the first motion. This is a two-step process. This application is the first step, in which, as Motion’s Judge, I decide whether the questions are appropriate to be heard in a Determination hearing. If I decide they are, the parties must file factums in accordance with Rule 62.
+[2] Since 2004, Rule 58 provides for a determination of questions of law, fact or mixed fact and law. The questions put by the Appellant have been framed as questions of law and are as follows:
+1. Did section 21 of the Canada Deposit Insurance Act require the Canada Deposit Insurance Corporation ("CDIC") to assess and collect, from the Appellant, a premium in respect of deposits insured by CDIC for each of the taxation years at issue in this Appeal?
+2. Was the Hongkong and Shanghai Banking Corporation legally obligated to guarantee all of the deposit liabilities of the Appellant’s depositors including those deposit liabilities assumed by the Appellant from the Bank of British Columbia, during the taxation year ended August 31, 1996 and the month of September 1996?
+3. Was the deed of guarantee, dated January 15, 1987 and issued by The Hongkong and Shanghai Banking Corporation, an unconditional, continuing and unlimited guarantee covering all of the deposit liabilities of the Appellant as those deposit liabilities are defined in the deed of guarantee?
+4. Was HSBC Holdings plc or HSBC Holdings BV legally obligated to provide, to the depositors of the Appellant or to CDIC, an unconditional, continuing and unlimited guarantee covering all of the deposit liabilities of the Appellant and its subsidiaries during the period of October 1, 1996 through December 31, 2000?
+5. Was the deed of guarantee dated October 1, 1996 and issued by HSBC Holding plc, an unconditional, continuing and unlimited guarantee covering all of the deposit liabilities of the Appellant and its subsidiaries, as those deposit liabilities are defined in the deed of guarantee?
+6. Was the deed of guarantee (the "HHBV Guarantee"), dated October 1, 1996 and issued by HSBC Holdings BV to CDIC, an unconditional continuing and unlimited guarantee covering all of the deposit liabilities of the Appellant and its subsidiaries, as those deposit liabilities are defined in the deed of guarantee?
+7. Was the HHBV Guarantee enforceable by CDIC directly and/or by CDIC as the subrogee to or assignee of the rights and interest of any or all of the depositors of the Appellant and the Appellant’s subsidiaries?
+8. Effective October 1, 1996, was HSBC Holdings BV legally obligated to pay, to CDIC directly or as subrogee to or assignee of all of the depositors of the Appellant, any and all amounts which CDIC paid depositors of the Appellant in respect of the Appellant’s failure to pay all principal and interest due in respect of the deposit liabilities of the Appellant when such principal and interest was due?
+9. Effective October 1, 1996, was HSBC Holdings BV legally obligated to pay, to CDIC directly or as subrogee to or assignee of all of the depositors of the Appellant’s subsidiaries, any and all amounts which CDIC paid depositors of the Appellant’s subsidiaries in respect of the Appellant’s subsidiaries failure to pay all principal and interest due in respect of the deposit liabilities of the Appellant’s subsidiaries when such principal and interest was due?
+10. Effective October 1, 1996, was HSBC Holdings BV legally obligated to indemnify HSBC Holdings plc, against all actions, claims, demands, liabilities, losses, damages, costs, charges and expenses of whatever nature which HSBC Holdings plc might sustain, suffer or incur in connection with HSBC Holdings plc’s guarantee of the deposit liabilities of the Appellant and the Appellant’s subsidiaries?
+11. Was the Appellant legally obligated pursuant to an agreement between the Appellant and HSBC Holdings BV, dated October 1, 1996, to pay a fee (the "Guarantee Fee"), to HSBC Holdings BV, equal to 16 2/3 basis points times the amount of the Appellant’s deposits and the Appellant’s subsidiaries deposits which enjoyed the benefit of the HHBV Guarantee?
+12. Pursuant to section 9 and paragraph 18(1)(a) of the Income Tax Act (Canada), was the Appellant entitled to deduct, in respect of the taxation years ended October 31, 1996, through December 31, 2000, the amount of the deposit liabilities also insured by Canada Deposit Insurance Corporation?
+[3] The Appellant also seeks an order that the Court consider as evidence a statement of facts, attached to its Motion, along with the Affidavit of Susan Washbern, a legal assistant with the Appellant’s counsel’s law firm, containing thirty two attachments.
+[4] This litigation has been rife with procedural issues; the parties have, notwithstanding platitudes to the contrary, assumed strongly opposing views on several procedural matters that has caused some frustrations on both sides. There is no question there is a considerable amount at issue in this transfer pricing case. The Respondent initially assessed on the basis that the Appellant was limited in deducting, as a guarantee fee to its parents, an amount considerably less than what the Appellant actually paid, but some amount nonetheless. In her Reply, the Respondent raised additional allegations of fact, that, if proven, would mean no amount of the guarantee fees were deductible as they were not incurred for the purpose of gaining or producing income. The Crown acknowledges it has the onus to prove such allegations.
+[5] As an alternative position, the Crown raised in her pleadings that if the Appellant did pay anything as a guarantee fee to its parents for the purpose of earning or producing income, then it cannot deduct an amount paid that is equivalent to what was in fact paid to CDIC for its guarantee of deposits. This issue was raised in paragraph 65(b) of the Amended Reply as follows:
+In the alternative, whether the payment of the guarantee fees in relation to the portion of its deposit liabilities which were already covered by the CDIC insurance was made for the purpose of earning or producing income from its business pursuant to paragraph 18(1)(a) of the Act.
+I will refer to this as the "CDIC issue"
+[6] The Appellant’s grounds as set out in its motion read:
+The grounds for this Motion are that the determinations will dispose of the issue raised in paragraph 65(b) of the Amended Reply, may substantially shorten the hearing and result in a substantial savings of costs.
+[7] At the hearing of the application, the Appellant’s counsel suggested that, notwithstanding how he framed the grounds for the motion, it was open to me to consider the first 11 questions separately from the 12th question, which deals with the CDIC issue. I am disinclined to separate the questions. My view is that the resolution of the CDIC issue is what underlies the Appellant’s motion. However, Mr. Kroft went on to argue that answers to the first 11 questions would clarify matters for experts who will comment on the appropriate quantum of the guarantee fees, would clarify the appropriate paradigm for the application of Section 69 and Section 247 of the Income Tax Act (the "Act"), and would assist the parties in getting an agreed statement of facts and joint book of documents. With respect, I am not swayed by these arguments. The first question deals with the interpretation of statutory law and the next 10 deal with interpretation of contracts. The contracts are not in dispute. Although it was pointed out to me that the contracts were authenticated, but that the Respondent did not agree to the truth of the contents, there is no doubt they will be in evidence at trial. They are not contentious. The parties do not, I suggest, need a Motion’s Judge to interpret the contracts, especially without the context of all the surrounding facts in connection with the creation of the contracts, or to assist experts, or to establish some paradigm or to assist the parties compile an agreed statement of facts or joint book of documents. The experts can read the documents and determine the paradigm. If they believe there is any ambiguity they can provide alternatives. As far as the Determination on these questions to help the parties compile a joint of book of documents or agreed statement of facts, I have great confidence in counsel that, given little, if any contention regarding the documents they can and will reach such an accord. All to say, I am not going to segregate the first 11 questions from the 12th question. I will deal with them all together with emphasis on what I perceive to be the true issue the Appellant was addressing – the impact of the payment by the Appellant of a guarantee fee to CDIC.
+[8] Rule 58(1) and (2) reads as follows:
+58(1) A party may apply to the Court,
+(a) for the determination, before hearing, of a question of law, a question of fact or a question of mixed law and fact raised by a pleading in a proceeding where the determination of the question may dispose of all or part of the proceeding, substantially shorten the hearing or result in a substantial saving of costs, or
+(b) to strike out a pleading because it discloses no reasonable grounds for appeal or for opposing the appeal,
+and the Court may grant judgment accordingly.
+(2) No evidence is admissible on an application,
+(a) under paragraph (1)(a), except with leave of the Court or on consent of the parties, or
+(b) under paragraph (1)(b).
+…
+[9] The Appellant correctly points out the three requirements for success at this first stage of a Rule 58 application:
+a) there are questions of law, fact or mixed fact and law. Here the Appellant claims there are 12 questions of law;
+b) they are raised by the pleadings;
+c) the answers may dispose of all or part of the proceeding, may substantially shorten the hearing of the appeal and may result in a substantial savings of costs.
+[10] Mr. Kroft also urges me to consider this provision in light of what he describes is an objective of the Tax Court of Canada Rules to find ways to resolve issues without the need for trial. He points out our new rules on pre-hearing and settlement conferences as examples of this thrust. While I agree with the sentiment, I remain of the view that a Determination is not a substitute for trial. This is a view expressed in the case of Carma Developers Ltd. v. H.M.Q..[1] The Appellant claims this request is not made as an alternative to trial, yet does acknowledge that both sides may need to call evidence at the Determination.
+[11] Case law has also established that on a Determination there should be no dispute as to the facts underpinning the questions of law to be answered. The Appellant placed considerable emphasis on the changes in 2004 to Rule 58 which extended Determinations on questions of law to Determinations of fact or mixed fact and law as well, suggesting the Rule now specifically contemplates that a Determination of questions of law may first require a Determination of facts. That sounds very much to me like a trial.
+[12] The Appellant attempted to distinguish cases decided based on the Federal Court Rule (see Perera for example) and pre-2004 Rule 58 on the one hand from cases decided pursuant to the new Rule 58. I note, however, former Chief Justice Bowman’s ruling in Banque National du Canada,[2] where he expressed concern about a Motion Judge under the new Rule 58 making a determination without evidence. He clearly did not contemplate Mr. Kroft’s approach of the Motion’s Judge hearing considerable evidence.
+[13] The Respondent argues that the major fact, over which there is dispute, underpinning the overriding issue is whether any amount paid by the Appellant to its parents as a guarantee fee was incurred for the purpose of producing income. The Respondent has alleged as additional facts in its Reply that there is no such purpose and acknowledges it is for the Respondent to prove this. Any Determination cannot be complete without facing that dispute head-on. The Appellant invites the Respondent to call evidence at the Determination. Notwithstanding the new wording of Rule 58, I do not agree that calling such evidence at a Determination of the 12 questions of law before me is in order. The CDIC issue as framed in the Reply is a question of fact: was there the necessary purpose to incur the fee to produce income. Interestingly, the Appellant has framed its question for Determination as a question of law – is the fee to the parents deductible vis-à-vis the deposit liabilities insured by CDIC. The answer to the legal question can only be determined by answering the factual question, and that notwithstanding the new wording of Rule 58, is a finding so fundamental to the overall appeal that only a full-blown trial with all the benefits of trial rules and procedures is the appropriate place for such an adjudication.
+[14] The Appellant maintains there are two fundamental issues:
+a) the reasonableness of the fee to the parents; and
+b) the impact of the fee for the CDIC insurance.
+The Appellant has jumped over the fundamental issue from the Respondent’s perspective whether any amount of the fees was incurred for the purpose of earning or producing income. In seeking a Determination on the CDIC issue without a trial the Appellant is attempting to resolve the Respondent’s major contentious issue. This goes to the very heart of what a trial judge, with all the evidentiary rules and procedures at his or her disposal, is to hear. No, I find the Appellant’s request for the resolution of the CDIC issue is an attempt to bifurcate the trial, with the result a Motion’s Judge may be forced to reach conclusions on facts which should, and
+must, go to trial for a fair hearing, and to reach those conclusions without the benefit of the evidentiary protections afforded to both sides at a trial. I simply have not been convinced that the parties can reach into this complicated mass of documents and surrounding circumstances and pluck out only those facts that are necessary to answer the CDIC issue. It simply cannot work.
+[15] Given my view that the questions are not appropriate for a Determination, it is not necessary to address the requirements that the answers may dispose of all or part of the proceeding, substantially shorten the hearing or result in a substantial saving of costs. Notwithstanding Mr. Kroft’s imploring tone that such a Determination will also provide an additional benefit of spurring the parties into settlement, that is not an objective of Rule 58. The Respondent, with good reason, declined to comment on settlement. In any event, I do not see how a Determination of the issue the Appellant wishes to have determined could be handled in any fair way other than by a trial.
+[16] I conclude that the most efficient manner both time-wise and cost-wise to proceed is to:
+a) set a trial date and work diligently towards completing all preliminary steps in a timely fashion to meet that date;
+b) set a date for a settlement conference, where it is absolutely clear that the parties are to prepare for settlement discussions, not for rehashing their legal positions with a view to convincing a settlement judge whose position is stronger: in this case that approach serves little purpose. The Appellant argued that a Determination of the CDIC issue, if in its favour, would substantially move the parties forward in settlement discussions. This was a delicate issue to address for obvious reasons. However, I believe a diligent, well‑prepared, open-minded settlement conference with parties intent on settling, and acting reasonably, would be a far more expeditious and fruitful exercise than a Determination, as rather than simply moving the parties forward towards settlement, it could, and should, settle the matter.
+[17] The applications are dismissed. Costs will be in the cause.
+Signed at Ottawa, Canada, this 21st day of January 2011.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2011 TCC 37
+COURT FILE NO.: 2006-3579(IT)G
+STYLE OF CAUSE: HSBC BANK CANADA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 19, 2011
+REASONS FOR ORDER BY: The Honourable Justice Campbell J. Miller
+DATE OF ORDER: January 21, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Edwin G. Kroft, Q.C. and Deborah J. Toaze
+Counsel for the Respondent:
+John Shipley and Justine Malone
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Edwin G. Kroft, Q.C. and Deborah J. Toaze
+Firm: Blake, Cassels & Graydon LLP
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 96 D.T.C. 1803 (T.C.C.).
+[2] 2006 TCC 363.

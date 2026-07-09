@@ -1,0 +1,168 @@
+Title: Wong v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31155/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-130-31155-wong-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-04-29
+
+# Wong v. The Queen
+
+- Citation: 2013 TCC 130
+- Decision date: 2013-04-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4744, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wong v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-04-29
+Neutral citation
+2013 TCC 130
+File numbers
+2011-3753(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3753(IT)I
+BETWEEN:
+TONY L. WONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 11, 2013, at Vancouver, British Columbia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Zachary Froese
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2008 taxation year is quashed.
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2005 taxation year is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s income is to be reduced by $11,244.00.
+The appeal from the reassessment made under the Income Tax Act for the 2003, 2004, 2006 and 2007 taxation years is dismissed.
+Signed at Ottawa, Canada, this 29th day of April 2013.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2013TCC130
+Date: 20130429
+Docket: 2011-3753(IT)I
+BETWEEN:
+TONY L. WONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] This appeal relates to the Appellant’s 2003, 2004, 2005, 2006, 2007 and 2008 taxation years. The 2004 and 2005 taxation years were reassessed beyond the normal reassessment period pursuant to subparagraph 152(4)(a)(i) of the Income Tax Act (the “Act”).
+[2] The only issue raised by the Appellant in this appeal is whether his gains and loss from his sale of securities was on account of income or capital.
+[3] When he filed his income tax returns for the years at issue, the Appellant did not report any amount from the sale of his securities.
+[4] On December 29, 2010, the Minister of National Revenue (the “Minister”) reassessed the Appellant’s 2004, 2005, 2006 and 2007 taxation years to include unreported gains from securities as net business income in the amount of $13,771, $28,898, $21,296 and $17,436 respectively. On the same date, she reassessed the Appellant’s 2008 taxation year to include a net business loss of $11,710. On January 17, 2011, the Minister initially assessed the Appellant’s 2003 taxation year to include unreported net business income of $17,884.
+Preliminary Matters
+[5] At the beginning of the hearing, counsel for the Respondent brought a motion to quash the appeal for the 2008 year on the basis that the assessment for that year was a “nil assessment”. He also brought a motion to amend the Reply to the Notice of Appeal. The Appellant had been given notice of these motions prior to the hearing of the appeal and he opposed them.
+[6] In support of the motion to quash the appeal for the 2008 year, the Respondent relied on the affidavit of May Yu, an Officer of the Canada Revenue Agency (the “CRA”) in the Vancouver Tax Services Office. The affidavit contained reconstructed copies of the original assessment and the reassessment for the Appellant’s 2008 year. Both of these documents disclosed that no tax, interest or penalty was assessed for the 2008 year. The reassessment for the 2008 year is a nil assessment.
+[7] The jurisprudence is clear that a taxpayer can neither object to nor appeal from a nil assessment: Bormann v. Canada, 2006 FCA 83, F.C.J. No. 283, at paragraph 8. As a result, the appeal for the 2008 year is quashed.
+[8] As stated earlier, the Minister relied on subsection 152(4) of the Act to reassess the Appellant’s 2004 and 2005 years. In the Reply, the Respondent failed to plead that the Minister relied on subsection 152(4) to reassess the 2005 year. Counsel made a motion to amend the Reply to correct this omission.
+[9] In his “Reply to the Respondent’s Motion and Amended Reply” the Appellant objected to the motion on the basis that the “2005 taxation year was already mentioned several times in the Reply” and there was no need to amend the Reply.
+[10] I agree with the Appellant that the 2005 year was mentioned several times in the Reply. However, for the sake of completeness, I allowed the Amended Reply to be filed.
+[11] The witnesses at the hearing were the Appellant and Luann Huynh, the auditor with the Canada Revenue Agency (“CRA”) who performed the audit which resulted in the reassessments at issue.
+Facts
+[12] The Appellant is licensed as a real estate and insurance broker in the Province of Ontario.
+[13] He has bought and sold securities since 1988. He completed levels I and II of the Canadian Securities Program and at some time in the past (no date was given) he held a mutual funds licence.
+[14] The Appellant and his former spouse, Margaret Wai Ching Tong, jointly held various investment accounts. It was his evidence that, when they divorced, his former spouse received the matrimonial home and he received the investment accounts. It is the sale of securities from these accounts which is at issue in this appeal and the Appellant agreed that he executed all the securities transactions in these accounts.
+[15] When he filed his income tax returns, the Appellant reported the following amounts of income:
+INCOME
+2003
+2004
+2005
+2006
+2007
+2008
+Employment
+$16,000
+Other
+$1,800
+Employment
+Insurance
+$7,874
+Business
+TOTAL
+$0
+$16,000
+$7,874
+$1,800
+$0
+$0
+[16] In July 2008, he made a request under the Voluntary Disclosures Program (“VDP”) to include unreported capital gains from the sale of his securities in each of his 2003 to 2007 years. In respect of this request, he submitted a T1 Adjustment Request which showed his unreported taxable capital gains to be $777, $7,063, $9,916, $7,305 and $8,985 for 2003, 2004, 2005, 2006 and 2007 respectively. The request was refused on the basis that it did not meet all of the conditions of the VDP guidelines. One of those conditions was that the Appellant had not filed his 2003 income tax return.
+[17] I found the Appellant’s testimony to be vague, inconsistent and at times evasive. I did not find him to be a credible witness.
+[18] One example of an inconsistency in his evidence related to how he earned money to support his lifestyle. At first he stated that he made his living from gambling and he reported this income in the United States. When cross examined about his gambling activities, he changed his position to state that he made very little money from gambling. He then testified that he supported his lifestyle from his lines of credit with the bank and the casinos. In cross examination, he stated that he also supported himself from his business as a real estate broker. I note that during the years in issue, he reported no income from his business as a real estate broker or an insurance broker. However, he was reassessed for the 2006 and 2007 taxation years to include unreported income which he had earned from the sale of real estate. The amount included for each year was $10,000.
+Appellant’s Position
+[19] For the years 1996 to 2000, the Appellant had been reassessed on the basis that he had incurred a capital loss from the sale of his securities. As of the end of the 2002 taxation year, he had a net capital loss of $61,641 available for carry forward. It was the Appellant’s position that he bought and sold securities in the years at issue so that he could claim the capital gains he made in these years against the capital loss which had been assessed to him in 2001.
+[20] The Appellant testified that his investment style did not change from 1996 to the present and it is misleading for the CRA to reach different conclusions with respect to the same investor and the same investment account.
+[21] The Appellant stated that he was not a professional investor. He travelled extensively to gamble and he invested in securities by instinct. He watched the news on CNN and BNN to assist him with his purchases and sales of securities.
+[22] During the years at issue, it was his intention to earn his income from the sale of real estate and insurance. It cost him thousands of dollars each year to keep current in these fields so that he could keep his licences.
+[23] He did not report a gain or loss from his sale of securities when he filed his income tax returns because he knew he had the capital loss from prior years and he thought he had no taxes payable. He was also waiting for the settlement of the Enron and WorldCom class actions.
+[24] The Appellant also disputed the method used by the auditor to calculate the gain.
+[25] In conclusion, it was his opinion that the auditor with the VDP agreed with him that his gain from securities was on account of capital.
+Analysis
+Income vs. Capital
+[26] It is a question of fact whether one’s gain or loss from selling securities is on account of income or capital. The gain or loss is on account of income, if it is found that the transactions are part of the Appellant’s business. “Business” is broadly defined in the Act to include an adventure in the nature of a trade.
+[27] In Vancouver Art Metal Works Ltd. v. Canada, [1993] 2 F.C. 179 (FCA), Letourneau J.A. listed some of the factors to consider when determining whether a taxpayer’s gains from securities are on account of income or capital. Those factors are:
+a) the frequency of the transactions;
+b) the duration of the holdings;
+c) the intention to acquire the securities for resale at a profit;
+d) the nature and quantity of the securities; and,
+e) the time spent on the activity.
+[28] The critical factor in determining whether a taxpayer’s gains from securities are on account of income or capital is the intention of the taxpayer at the time he acquired the securities: Rajchgot v The Queen, 2004 TCC 548, 2004 D.T.C. 3090, at paragraph 17. The taxpayer’s intention is ascertained from his entire course of conduct. Rip J., as he then was, stated it as follows in Rajchgot:
+[18] …In determining Mr. Rajchgot's intention, factors such as the frequency of the transactions, the duration of the holdings (whether, for instance, it is for a quick profit or a long term investment), the nature and quantity of the securities held or made, the subject matter of the transaction, whether the securities are heavily financed, the time spent on the activity, motive and the particular knowledge he possessed all have to be taken into consideration. It is not the lack or presence of one or more factors that will determine whether a transaction is on capital or income account; it is the combined force of all of the factors that is important There is no magic formula to determine which factors are more or less important. Some factors compliment each other. Each case is different. A judge must balance all the factors. …
+[29] According to the “Trading Summaries” produced as exhibits, the Appellant engaged in more than 90 transactions in 2003, 69 transactions in 2004, 136 transactions in 2005, 154 transactions in 2006 and 168 transactions in 2007. In total the Appellant engaged in excess of 600 transactions over the 5 year period and I note that only a portion of the “Trading Summary” was given for the 2003 taxation year.
+[30] A review of the exhibits shows that the Appellant did buy some of the securities prior to the years under appeal, but he gave no evidence with respect to these purchases. The “Trading Summaries” submitted disclosed that the Appellant held most of the securities for a short time with some being purchased and sold within a few days and a few being purchased and sold the same day.
+[31] Most of the securities held by the Appellant were blue chip stocks. However, very few of these stocks were held for any length of time. During the period he purchased more than 226,000 shares and he sold more than 216,000 shares.
+[32] The Appellant stated that he spent very little time on his activity with securities. He stated that he watched television to decide whether he would purchase or sell securities. I find this testimony to be implausible. The number of securities which he traded during the period and the duration of the holdings do not support his statement. It is my view that he watched the market to make his decisions and he spent a significant time on this activity.
+[33] I have concluded from the number of transactions and the frequency with which the Appellant purchased and sold securities that he had the intention to trade in securities.
+[34] I find that the Appellant’s number of trades, the short duration of the holdings, the number of shares purchased and sold definitively indicate that he was engaged in trading in securities during the period. I conclude that the Appellant’s gain from his trading in securities was on account of income and was properly assessed by the Minister. This is a classic example of someone engaged in an adventure in the nature of trade: Mittal v Canada, 2012 TCC 417, [2012] T.C.J. No. 328.
+Assessment of Prior Years
+[35] The fact that, in prior years, the Minister assessed the Appellant’s transactions with securities on account of capital does not preclude the Minister from taking a different view of the matter in later years: Schumaker v The Queen, [2002] 3 C.T.C. 2206 (TCC). As stated by Cattanach J in Admiral Investment Ltd. v Minister of National Revenue, [1967] 2 Ex. CR 308 at paragraph 42:
+There is nothing inconsistent with the Minister altering his decision according to the facts as he finds them from time to time. An assessment is conclusive as between the parties only in relation to the assessment for the year which it was made.
+[36] The reassessments for the 1996 to 2000 years were not appealed. Those years are not before me and I have no jurisdiction to consider the correctness of those reassessments or to grant a remedy based on the position the Minister may have taken when he reassessed the 1996 to 2000 years.
+Calculation of Income
+[37] Counsel for the Respondent conceded that the Minister made an error of $11,244 in her calculation of the amount which should be included in income for the 2005 year. The Appellant’s income for 2005 will therefore be reduced by $11,244.
+[38] The auditor calculated the gain using zero as the cost of the securities for three transactions in 2003. She explained that she had asked the Appellant for the Transfer Summaries which showed his purchase of these securities. This he failed to do.
+[39] The auditor used the weighted mean to calculate the Appellant’s gain from his transactions. The Appellant disputed this method but he did not submit another method or any evidence on this position.
+Subsection 152(4)
+[40] On a review of the evidence, I have concluded that the Appellant made a misrepresentation attributable to wilful default when he filed his 2004 and 2005 income tax returns. He knew that he was making gains from his transactions with securities and yet he did not report these gains. The Appellant is well educated. He had been audited for prior years for failure to report. He was fully aware of his responsibility to report the gains or losses from his trading activities.
+[41] The Minister was correct to reassess the Appellant for the 2004 and 2005 years.
+[42] In conclusion, the appeal for the 2008 year is quashed. The appeal for the 2005 year is allowed and the Appellant’s income is to be reduced by $11,244. The appeal for the 2003, 2004, 2006 and 2007 years is dismissed.
+Signed at Ottawa, Canada, this 29th day of April 2013.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2013TCC130
+COURT FILE NO.: 2011-3753(IT)I
+STYLE OF CAUSE: TONY L. WONG AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: April 11, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: April 29, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Zachary Froese
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

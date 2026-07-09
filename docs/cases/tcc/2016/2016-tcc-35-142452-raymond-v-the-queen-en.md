@@ -1,0 +1,549 @@
+---
+title: "Raymond  v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/142452/index.do"
+last_modified: "2016-02-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 35"
+citation2: ""
+neutral_citation: "2016 TCC 35"
+decision_date: "2016-02-10"
+language: "en"
+item_id: "142452"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3013
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:59:40.485000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "81dcbf0034f8e17560ffbd1cfbd08b1adce834932baecbd02145228abf78cb45"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Raymond  v. The Queen
+
+- Citation: 2016 TCC 35
+- Decision date: 2016-02-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3013, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Raymond v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-02-10
+Neutral citation
+2016 TCC 35
+File numbers
+2015-1106(IT)I, 2015-146(IT)I, 2015-158(GST)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-146(IT)I
+BETWEEN:
+SHELLEY RAYMOND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Gilbert Ludlow 2015-1106(IT)I and Shelley Raymond & Gilbert Ludlow 2015-158(GST)I on October 28, 2015, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Susan Cunningham
+Counsel for the Respondent:
+Tony Cheung
+JUDGMENT
+The reassessments of the Appellant’s 2006 and 2007 taxation years made under the Income Tax Act are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that gross negligence penalties pursuant to subsection 163(2) were properly imposed but the amount of income which the Appellant failed to report was $13,171 and $8,798 in 2006 and 2007 respectively.
+Signed at Ottawa, Canada, this 10th day of February 2016.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2015-1106(IT)I
+BETWEEN:
+GILBERT LUDLOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Shelley Raymond 2015-146(IT)I and Shelley Raymond & Gilbert Ludlow 2015-158(GST)I on October 28, 2015, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Susan Cunningham
+Counsel for the Respondent:
+Tony Cheung
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act with respect to the 2006 taxation year is dismissed.
+Signed at Ottawa, Canada, this 10th day of February 2016.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2015-158(GST)I
+BETWEEN:
+SHELLEY RAYMOND & GILBERT LUDLOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Gilbert Ludlow 2015-1106(IT)I and Shelley Raymond 2015-146(IT)I on October 28, 2015, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Susan Cunningham
+Counsel for the Respondent:
+Tony Cheung
+JUDGMENT
+The appeal from the Notice of Reassessment dated November 6, 2014 made under Part IX of the Excise Tax Act for the period January 1, 2006 to December 31, 2008 is dismissed.
+Signed at Ottawa, Canada, this 10th day of February 2016.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2016TCC35
+Date: 20160210
+Docket: 2015-146(IT)I
+BETWEEN:
+SHELLEY RAYMOND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2015-1106(IT)I
+AND BETWEEN:
+GILBERT LUDLOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2015-158(GST)I
+AND BETWEEN:
+SHELLEY RAYMOND & GILDBERT LUDLOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] These appeals were heard on common evidence. The only issue in each appeal is whether the Minister of National Revenue (the “Minister”) correctly assessed gross negligence penalties against the Appellants:
+a) In the appeal of Shelley Raymond, gross negligence penalties were assessed against her for the 2006 and 2007 taxation years under subsection 163(2) of the Income Tax Act (“ITA”) on the basis that she underreported her income by $25,163 and $20,681 respectively.
+b) In the appeal of Gilbert Ludlow, a gross negligence penalty was assessed against him for the 2006 taxation year under subsection 163(2) of the ITA on the basis that he underreported his income by $3,324.
+c) In the GST appeal, the partnership, Shelley Raymond & Gilbert Ludlow (the “Partnership”), was assessed gross negligence penalties pursuant to section 285 of the Excise Tax Act (“ETA”) for each quarterly period between January 1, 2006 and September 30, 2008 inclusive. Attached to my decision is Appendix A which shows the net tax reported by the Partnership and the net tax reassessed by the Minister.
+[2] I have reviewed the tables in the “Report on Objection” for each of the Appellants and it is my view that the Minister made a mistake when he calculated the amount of income which Shelley Raymond failed to report in 2006 and 2007. I have calculated that she underreported her income by $13,171 in 2006 and $8,798 in 2007.
+[3] The witnesses at the hearing were the Appellants and Lianne Durant, an appeals officer with the Canada Revenue Agency (“CRA”).
+[4] Shelley Raymond and Gilbert Ludlow are spouses of each other.
+[5] Shelley Raymond operated the following three businesses as a sole proprietor for the periods indicated:
+a) The Muskoka Trade Source (“Muskoka”) which, in 2006, 2007 and 2008, was an on-line and newsstand business directory for construction companies operating in the Muskoka region.
+b) Kumon franchises (“Kumon”) which were after school tutoring programs. In 2006, she had two franchises. She sold one in 2007 and she continued to operate her remaining franchise in 2007 and 2008.
+c) In October 2007, she became a real estate agent and continued as such in 2008.
+[6] In 2006, 2007 and 2008, the Partnership operated GLW Real Estate Rentals (the “Rental Operation”) and Gilbert Ludlow Woodworking (the “Woodworking Business”). The Rental Operation consisted of one building. The first floor of the rental building was leased to a commercial tenant and the upper floor and the addition to the building were leased to residential tenants. The Woodworking Business constructed and installed custom built stairs and handrails for customers in the Muskoka region.
+[7] In each of the years the Partnership reported the Rental Operation and the Woodworking Business as one business the income and expenses of the business were comingled.
+[8] In 2006 and 2007, Shelley Raymond reported total income in the amount of $29,296 and $31,557 respectively. Gilbert Ludlow reported income of $4,172 and $8,452 in 2006 and 2007 respectively.
+[9] In an attempt to reconcile the Appellants’ lifestyle to their reported income, the Minister performed a bank deposit analysis of their bank accounts. There were differences between the sales reported and the deposits into the bank accounts and the Minister concluded that the Appellants did not report all of their income. At the audit stage of this case, the Minister increased the gross income for Muskoka for 2006 by $6,159 and for the Woodworking Business for 2007 by $37,950. The Minister also disallowed numerous expenses which had been claimed by the various businesses on the basis that the Appellants were unable to provide documentation to support the expenses and/or the expenses were personal living expenses. At the audit stage, the Minister assessed gross negligence penalties against each of the Appellants.
+[10] According to the appeals officer, Lianne Durant, many of the expenses claimed by the Appellants were not supported by documentation. She was told that many receipts were lost when there was a flood at the Appellants’ business. However, the Appellants did give her a box of receipts to review. Ms. Durant stated that the receipts were not organized; and some of the receipts pertained to more than one business. It appeared that the funds from the businesses were commingled. One example given was that the Kumon business paid for expenses which were claimed by the Woodworking Business. Some expenses were paid through the internet and no documentation was provided to support which expense had been paid and whether the expense was business or personal. Ms. Durant found that some of the expenses claimed by the Appellants were expenses for personal items. In the final result, at the objection stage, the Minister reduced the amount of net income which had been assessed to the Appellants at the audit stage but maintained that gross negligence penalties applied as indicated in paragraphs 1 and 2 above.
+[11] The final adjustments made by the Minister with respect to the income tax appeals were as follows:
+Shelley Raymond
+2006 Net Income
+Reported
+Reassessed
+Total Net Business Income
+$11,529
+$24,653
+Net Rental Operation Income
+1,548
+8,389
+Net Woodworking Business Income
+16,219
+9,425
+Total Net Income
+$29,296
+$42,467
+2007 Net Income
+Reported
+Reassessed
+Total Net Business Income
+$624
+$10,898
+Net Rental Operation Income
+(290)
+(3,687)
+Net Woodworking Business Income
+22,747
+26,804
+T4 Earnings
+9,239
+9,239
+Net Commission Income
+(762)
+(2,899)
+Total Net Income
+$31,557
+$40,355
+Gilbert Ludlow
+2006 Net Income
+Reported
+Reassessed
+Net Woodworking Business Income
+$2,624
+$(893)
+Net Rental Operation Income
+1,548
+8,389
+Total Net Income
+$4,172
+$7,496
+2007 Net Income
+Reported
+Reassessed
+Net Woodworking Business Income
+$8,743
+$11,155
+Net Rental Operation Income
+(291)
+(3,687)
+Total Net Income
+$8,452
+$7,468
+The Law [12] Subsection 163(2) of the ITA provides for the imposition of gross negligence penalties as follows:
+163(2) False statements or omissions -- Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of …
+[13] Pursuant to subsection 163(3) of the ITA, “the burden of establishing the facts justifying the assessment of the penalty is on the Minister”. The Crown must therefore prove (1) that the Appellants made a false statement or omission in their income tax returns, and (2) that the statement or omission was either made knowingly, or under circumstances amounting to gross negligence.
+[14] The seminal definition of gross negligence was given in Venne v The Queen, 84 DTC 6247 (FCTD), at page 6256, where Strayer, J stated:
+"Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[15] Some of the factors to be considered when deciding whether there was gross negligence are the magnitude of the omission in relation to the income declared; the opportunity the taxpayer had to detect the error; and the taxpayer’s education. No single factor predominates: DeCosta v The Queen, 2005 TCC 545.
+Analysis A. Shelley Raymond [16] Shelley Raymond was responsible for maintaining the books and records for her businesses and for the Partnership. In this regard, she engaged a bookkeeper to assist her. She stated that the bookkeeper prepared an excel spread sheet for each month for each year during the period. Ms. Raymond prepared a summary sheet with the total monthly expenses incurred in each category. This summary sheet was given to the accounting firm which Ms. Raymond engaged to prepare the income tax returns for her and her spouse. Ms. Raymond prepared and filed the GST returns.
+[17] Ms. Raymond did not keep copies of all invoices issued during the period. However, those that she did keep were placed in a box with receipts in no particular order. The invoices and receipts in the box related to all five businesses. In short, her record keeping was totally inadequate.
+[18] At the hearing, Ms. Raymond stated that she and her bookkeeper were responsible for maintaining the receipts and invoices for the five businesses. With respect, Ms. Raymond cannot blame the inadequacy in her records on the bookkeeper. She had three different bookkeepers during the period. The ultimate state of the businesses and the records for those businesses were Ms. Raymond’s responsibility and not the bookkeepers.
+[19] The Appellants included personal living expenses as business expenses. Some of the items expensed included the purchase of a large screen television and accessories for the television; iPods; home theatre equipment; expenses for the operation of the Appellants’ hot tub; construction of a fireplace; and, payments to the activity fund for their daughter’s school.
+[20] The magnitude of income which Ms. Raymond underreported compared to the income reported was significant. According to my calculations, the ratio of the underreported income to the income declared was 45% in 2006 and 28% in 2007. She failed to report 31% of her income in 2006 and 22% of her income in 2007. Ms. Raymond was in charge of maintaining the books and records for the businesses. Her income tax returns were prepared with the documents she gave to her accountants. She stated that she relied on the accountants and she signed her returns without reading them. However, the accountants could only work with the documents which she supplied to them and their work was only as accurate as the materials they were given.
+B. Gilbert Ludlow [21] Gilbert Ludlow stated that he is a carpenter. He did not take care of the books and records. He collected the receipts for the Woodworking Business and he gave them to his spouse, Ms. Raymond. When his tax returns were prepared, he signed them but he didn’t review them.
+[22] Mr. Ludlow failed to report 44% of his income in 2006. The ratio of the income he failed to report to the income he declared was 80%. The amount of underreported income was huge when compared with the amount of income Mr. Ludlow reported in 2006. Mr. Ludlow blindly trusted his spouse and his accountant to prepare his books and records and his income tax returns. He as well signed his income tax returns without reading them. It is my view that he was totally indifferent as to whether the law was complied with or not.
+C. The Partnership [23] Some of the input tax credits (“ITCs”) claimed by the Partnership were disallowed because there was no supporting documentation while other ITCs were disallowed because they were claimed on personal expenditures or the ITCs related to the sole proprietorships, Kumon and Muskoka.
+[24] The Partnership claimed 29.5% more ITCs than it was entitled to receive. It claimed that it had to pay net tax of $3,885.21 when the actual net tax was $8,818.59. The Partnership underreported its net tax by more than 200%.
+[25] It is my opinion that the Minister has satisfied his onus and gross negligence penalties were properly assessed against Ms. Raymond, Mr. Ludlow and the Partnership. The appeals for Mr. Ludlow and the Partnership are dismissed. The appeal for Ms. Raymond is referred back to the Minister to recalculate the gross negligence penalty on the basis that she failed to report income of $13,171 and $8,798 in 2006 and 2007 respectively.
+Signed at Ottawa, Canada, this 10th day of February 2016.
+“V.A. Miller”
+V.A. Miller J.
+Appendix A
+2006-01-01 to 2006-03-31
+As Filed
+Per Audit
+Per Appeals
+Sales
+$20,834.00
+$20,834.00
+$17,227.36
+GST collectible
+$ 1,196.20
+$ 1,196.20
+$ 1,205.92
+ITCs
+$ 823.43
+$ 508.50
+$ 762.53
+Net Tax
+$ 372.77
+$ 687.70
+$ 443.39
+Gross Negligence Penalties (GNP)
+$ 78.73
+$ 15.23
+2006-04-01 to 2006-06-30
+As Filed
+Per Audit
+Per Appeals
+Sales
+$40,775.00
+$40,775.00
+$35,724.37
+GST collectible
+$ 2,500.01
+$ 2,500.01
+$ 2,500.71
+ITCs
+$ 1,643.47
+$ 1,033.19
+$ 1,242.84
+Net Tax
+$ 856.54
+$ 1,466.82
+$ 1,254.01
+Gross Negligence Penalties
+$ 152.57
+$ 100.16
+2006-07-01 to 2006-09-30
+As Filed
+Per Audit
+Per Appeals
+Sales
+$54,906.00
+$54,906.00
+$49,316.19
+GST collectible
+$ 2,915.47
+$ 2,915.47
+$ 2,958.97
+ITCs
+$ 1,978.46
+$ 1,198.31
+$ 1,377.89
+Net Tax
+$ 937.01
+$ 1,717.16
+$ 1,581.08
+Gross Negligence Penalties
+$ 195.04
+$ 150.14
+2006-10-01 to 2006-12-31
+As Filed
+Per Audit
+Per Appeals
+Sales
+$21,416.00
+$21,416.00
+$20,711.42
+GST collectible
+$ 1,212.26
+$ 1,212.26
+$ 1,242.69
+ITCs
+$ 1,514.89
+$ 1,210.26
+$ 1,444.09
+Net Tax
+($ 302.63)
+$ 2.00
+($ 201.40)
+Gross Negligence Penalties
+$ 76.16
+$ 17.70
+2007-01-01 to 2007-03-31
+As Filed
+Per Audit
+Per Appeals
+Sales
+$63,745.00
+$63,745.00
+$58,391.08
+GST collectible
+$ 3,463.85
+$ 4,170.04
+$3,503.46
+ITCs
+$ 2,906.37
+$ 2,106.48
+$2,536.39
+Net Tax
+$ 557.48
+$ 2,063.56
+$967.08
+Gross Negligence Penalties
+$ 199.97
+$92.50
+2007-04-01 to 2007-06-30
+As Filed
+Per Audit
+Per Appeals
+Sales
+$52,302.00
+$52,302.00
+$47,451.75
+GST collectible
+$ 2,912.41
+$ 3,751.08
+$ 2,847.11
+ITCs
+$ 2,768.37
+$ 1,845.98
+$ 2,328.82
+Net Tax
+$ 144.04
+$ 1,905.10
+$ 518.29
+Gross Negligence Penalties
+$ 230.60
+$ 109.89
+2007-07-01 to 2007-09-30
+As Filed
+Per Audit
+Per Appeals
+Sales
+$42,730.00
+$42,730.00
+$41,432.54
+GST collectible
+$ 2,534.07
+$ 2,795.81
+$ 2,485.95
+ITCs
+$ 1,686.31
+$ 1,118.33
+$ 1,141.29
+Net Tax
+$ 847.76
+$ 1,677.48
+$ 1,344.66
+Gross Negligence Penalties
+$ 141.99
+$ 136.26
+2007-10-01 to 2007-12-31
+As Filed
+Per Audit
+Per Appeals
+Sales
+$27,021.00
+$27,021.00
+$26,003.00
+GST collectible
+$ 1,529.53
+$ 1,747.56
+$ 1,560.18
+ITCs
+$ 1,503.26
+$ 968.44
+$ 1,004.20
+Net Tax
+$ 26.27
+$ 779.12
+$ 555.98
+Gross Negligence Penalties
+$ 133.70
+$ 124.77
+2008-01-01 to 2008-03-31
+As Filed
+Per Audit
+Per Appeals
+Sales
+$23,560.00
+$23,560.00
+$23,560.00
+GST collectible
+$ 1,446.33
+$ 1,446.33
+$ 1,178.00
+ITCs
+$ 1,400.55
+$ 263.46
+$ 592.77
+Net Tax
+$ 45.78
+$ 1,182.87
+$ 585.23
+Gross Negligence Penalties
+$ 284.27
+$ 201.95
+2008-04-01 to 2008-06-30
+As Filed
+Per Audit
+Per Appeals
+Sales
+$35,002.00
+$35,002.00
+$35,002.00
+GST collectible
+$ 1,666.76
+$ 1,666.76
+$ 1,750.10
+ITCs
+$ 1,642.52
+$ 425.25
+$ 898.08
+Net Tax
+$ 24.24
+$ 1,241.51
+$ 852.03
+Gross Negligence Penalties
+$ 304.32
+$ 186.11
+2008-07-01 to 2008-09-30
+As Filed
+Per Audit
+Per Appeals
+Sales
+$45,626.00
+$45,626.00
+$45,626.00
+GST collectible
+$ 2,043.37
+$ 2,043.37
+$ 2,281.30
+ITCs
+$ 1,950.44
+$ 559.69
+$ 1,118.62
+Net Tax
+$ 92.93
+$ 1,483.68
+$ 1,162.68
+Gross Negligence Penalties
+$ 347.69
+$ 207.96
+2008-10-01 to 2008-12-31
+As Filed
+Per Audit
+Per Appeals
+Sales
+$29,385.00
+$29,385.00
+$29,385.00
+GST collectible
+$ 1,399.28
+$ 1,399.28
+$ 1,469.25
+ITCs
+$ 1,116.26
+$ 360.52
+$ 1,713.60
+Net Tax
+$ 283.02
+$ 1,038.76
+($ 244.35)
+Gross Negligence Penalties
+$ 188.94
+NIL
+CITATION:
+2016TCC35
+COURT FILE NO.:
+2015-146(IT)I;
+2015-1106(IT)I;
+2015-158(GST)I
+STYLE OF CAUSE:
+SHELLEY RAYMOND AND HER MAJESTY THE QUEEN
+GILBERT LUDLOW AND HER MAJESTY THE QUEEN
+SHELLEY RAYMOND & GILBERT LUDLOW AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 28, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+February 10, 2016
+APPEARANCES:
+Agent for the Appellant:
+Susan Cunningham
+Counsel for the Respondent:
+Tony Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,266 @@
+---
+title: "Reward Construction Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26322/index.do"
+last_modified: "2004-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 478"
+citation2: ""
+neutral_citation: "2004 CCI 478"
+decision_date: "2004-06-29"
+language: "fr"
+item_id: "26322"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3269
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:17:15.976000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "475996e8efa4bb60145614599c48d44c2be9d24768eec5935d6c5e0a0d489185"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Reward Construction Ltd. v. M.N.R.
+
+- Citation: 2004 CCI 478
+- Decision date: 2004-06-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3269, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reward Construction Ltd. v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-29
+Référence neutre
+2004 CCI 478
+Numéro de dossier
+2002-4277(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2002-4277(EI)
+ENTRE :
+REWARD CONSTRUCTION LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Simon Amyotte (2002-4278(EI)) et de Charles Amyotte (2002-4279(EI)) à Edmonton (Alberta), le 23 mars 2004.
+Devant : L'honorable J.M. Woods
+Comparutions :
+Avocat de l'appelante :
+Me Deryk W. Coward
+Avocate de l'intimé :
+Me Dawn Taylor
+____________________________________________________________________
+JUGEMENT
+L'appel de la décision rendue par le ministre du Revenu national en vertu de la Loi sur l'assurance-emploi est accueilli et la décision selon laquelle Simon et Charles Amyotte exerçaient un emploi assurable chez Reward Construction Ltd. est annulée.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Dossier : 2002-4278(EI)
+ENTRE :
+SIMON AMYOTTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Reward Construction Ltd. (2002-4277(EI)) et de Charles Amyotte (2002-4279(EI)) à Edmonton (Alberta), le 23 mars 2004.
+Devant : L'honorable J.M. Woods
+Comparutions :
+Avocat de l'appelant :
+Me Deryk W. Coward
+Avocate de l'intimé :
+Me Dawn Taylor
+____________________________________________________________________
+JUGEMENT
+L'appel de la décision rendue par le ministre du Revenu national en vertu de la Loi sur l'assurance-emploi est accueilli et la décision selon laquelle Simon Amyotte exerçait un emploi assurable chez Reward Construction Ltd. est annulée.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Dossier : 2002-4279(EI)
+ENTRE :
+CHARLES AMYOTTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Simon Amyotte (2002-4278(EI)) et de Reward Construction Ltd. (2002-4277(EI)) à Edmonton (Alberta), le 23 mars 2004
+Devant : L'honorable J.M. Woods
+Comparutions :
+Avocat de l'appelant :
+Me Deryk W. Coward
+Avocate de l'intimé :
+Me Dawn Taylor
+____________________________________________________________________
+JUGEMENT
+L'appel de la décision rendue par le ministre du Revenu national en vertu de la Loi sur l'assurance-emploi est accueilli et la décision selon laquelle Charles Amyotte exerçait un emploi assurable chez Reward Construction Ltd. est annulée.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Référence : 2004CCI478
+Date : 20040629
+Dossier : 2002-4277(EI)
+ENTRE :
+REWARD CONSTRUCTION LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé;
+ET ENTRE :
+Dossier : 2002-4278(EI)
+SIMON AMYOTTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé;
+ET ENTRE :
+Dossier : 2002-4279(EI)
+CHARLES AMYOTTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Il s'agit d'appels interjetés par Simon Amyotte, par son frère Charles Amyotte et par leur employeur Reward Construction Ltd. contre des décisions par lesquelles le ministre du Revenu national a conclu que les frères exerçaient un emploi assurable pour l'application de la Loi sur l'assurance-emploi pendant l'année civile 2001. Les appels ont été entendus ensemble sur preuve commune.
+[2] Les parents des deux frères, Réal et Léona Amyotte, sont titulaires des actions de Reward Construction, qui est essentiellement un sous-entrepreneur se spécialisant dans les travaux de béton pour des immeubles commerciaux et des immeubles servant à l'industrie légère. Pendant la période pertinente, la société employait plusieurs membres de la famille, dont les deux frères, et environ trois personnes sans lien de dépendance. Le père gérait l'entreprise. Simon, qui avait 25 ans, agissait comme superviseur sur les chantiers de construction. Charles, qui avait 23 ans, occupait un poste moins important en sa qualité de contremaître, mais il était également l'homme de confiance de son frère. Les deux frères vivaient dans une maison située sur une propriété où Reward Construction avait un atelier et entreposait le matériel lourd qu'elle utilisait.
+[3] En ce qui concerne la question de savoir si une personne exerce un emploi assurable au sens de la Loi sur l'assurance-emploi, l'emploi d'une personne qui est liée à l'employeur, comme l'étaient les deux frères Amyotte, est exclu à moins que le ministre ne soit convaincu que les modalités d'emploi sont à peu près semblables à celles qui s'appliqueraient en l'absence d'un lien de dépendance.
+[4] Ces appels ont été interjetés à la suite d'une demande de remboursement des cotisations versées au titre de l'assurance-emploi présentée par Simon et Charles Amyotte ainsi que par Reward Construction. Le ministre a conclu que les modalités d'emploi étaient à peu près semblables à celles qui s'appliqueraient en l'absence d'un lien de dépendance et a décidé que l'emploi était assurable.
+Dispositions législatives applicables
+[5] Les dispositions législatives pertinentes figurent aux alinéas 5(2)i) et (3)b) de la Loi sur l'assurance-emploi; elles sont libellées comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l'application de l'alinéa (2)i) :
+[...]
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+(Je souligne)
+[6] Le présent appel était l'un de quatre appels similaires que j'ai entendus à Edmonton (Alberta) sur une période d'une semaine. Dans les motifs qui ont été prononcés dans une autre affaire, C & B Woodcraft Ltd., j'ai fait des remarques générales sur la portée de ces dispositions. Je ne les reprendrai pas ici.
+La décision du ministre
+[7] Le ministre a conclu que Simon et Charles Amyotte exerçaient un emploi assurable parce que les modalités d'emploi étaient à peu près semblables à celles qui s'appliqueraient en l'absence d'un lien de dépendance. Les faits sur lesquels le ministre s'est fondé sont énoncés en tant qu'hypothèses de fait dans les actes de procédure; ces hypothèses sont énoncées à l'appendice des présents motifs.
+[8] Le père et les deux fils ont tous témoigné à l'audience. Compte tenu de leurs témoignages, je conclus que le ministre n'a pas tenu compte de plusieurs faits qui auraient dû influer sur la décision. Il s'agit notamment des faits suivants :
+- Le ministre n'a pas tenu compte de la quantité de travail que les deux frères effectuaient pour aider à l'exploitation de l'entreprise; ils entretenaient notamment le matériel, conduisaient aux chantiers les employés qui n'avaient pas de voiture, allaient chercher les matériaux et les livraient aux chantiers, planifiaient la journée de travail suivante après que les autres employés étaient partis chez eux et discutaient, le soir, de l'état des travaux avec leur père. Le père estimait que ses fils effectuaient une semaine de travail d'environ 65 heures, alors que le ministre a supposé qu'ils effectuaient beaucoup moins de travail, à savoir entre 44 et 50 heures dans le cas de Simon Amyotte et 44 heures dans le cas de Charles Amyotte.
+- Étant donné que ministre n'a pas tenu compte du nombre d'heures effectuées par chaque frère, il a supposé erronément que leur rétribution était conforme aux normes de l'industrie. Simon touchait un salaire annuel de 40 000 $, ce qui ne serait probablement pas conforme aux normes de l'industrie étant donné le nombre d'heures qu'il effectuait. Charles touchait 16 $ l'heure, mais il était uniquement rétribué pour le nombre d'heures consignées, qui étaient limitées aux heures de travail effectuées sur les chantiers par les employés sans lien de dépendance. Le père a affirmé que le salaire horaire touché par Charles était élevé pour une personne comptant ce nombre d'années de service, mais je n'ai fait aucun cas de ce témoignage parce que Charles avait énormément d'expérience puisqu'il avait travaillé pour son père pendant plus de dix ans.
+- Le ministre n'a pas tenu compte du fait que Simon était rétribué lorsqu'il prenait congé pendant deux semaines en plus de toucher une paie de vacances pour la même période. Le père a témoigné que la chose était attribuable à une inadvertance de sa part, mais il a déclaré qu'il se serait montré plus vigilant dans le cas d'un employé sans lien de dépendance.
+- Le ministre a tenu compte du fait que les fils pouvaient prendre des congés sans avoir à obtenir l'autorisation de leur employeur, mais il n'a pas tenu compte du fait que les employés sans lien de dépendance ne pouvaient pas le faire.
+- Le ministre a correctement supposé que Reward Construction fournissait tous les outils, mais il n'a pas tenu compte du fait que les frères utilisaient certains outils qui leur appartenaient sans être dédommagés.
+- Le ministre n'a pas tenu compte du fait que les frères vivaient là où était situé l'atelier où le matériel était entreposé et qu'ils payaient les comptes de services publics de l'atelier sans être dédommagés.
+- Le ministre n'a pas tenu compte du fait que les gratifications accordées aux deux frères étaient légèrement supérieures à celles qui étaient accordées aux employés sans lien de dépendance, ces derniers touchant 100 $ plutôt que 200 $ ou 300 $.
+[9] Considérés dans leur ensemble, ces facteurs indiquent que les modalités d'emploi dont le ministre a tenu compte étaient passablement différentes des modalités d'emploi qui s'appliquaient en fait à Simon et à Charles Amyotte. Cela étant, j'ai conclu que la décision du ministre n'est pas justifiable.
+Les modalités d'emploi sont-elles celles qui s'appliqueraient en l'absence d'un lien de dépendance?
+[10] Dans l'appel de NeeraltaWelding & Sales Ltd. que j'ai entendu la même semaine, j'ai fait remarquer qu'il n'est pas surprenant que les modalités d'emploi qui s'appliquent dans une petite entreprise tendent à être fort différentes pour les membres de la famille et pour les employés sans lien de dépendance. C'est ce qui se produit ici. Dans ce cas-ci, la principale différence en ce qui concerne les modalités d'emploi est que Simon et Charles Amyotte effectuaient un nombre d'heures de travail beaucoup plus élevé que des travailleurs sans lien de dépendance et que les heures effectuées en dehors de la journée normale de travail n'étaient pas rétribuées. On ne saurait considérer que ces modalités sont à peu près semblables à celles qui s'appliqueraient en l'absence d'un lien de dépendance.
+Conclusion
+[11] Les appels sont accueillis et la décision du ministre selon laquelle Simon et Charles Amyotte exerçaient un emploi assurable est annulée.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+[traduction]
+APPENDICE
+Hypothèses de fait
+Dans sa décision, le ministre s'est fondé sur les hypothèses de fait ci-après énoncées :
+a) l'appelante est entrepreneur en construction;
+b) les actionnaires de l'appelante sont Réal et Léona Amyotte;
+c) Réal Amyotte exerçait un contrôle sur les activités quotidiennes de l'appelante;
+d) les travailleurs sont les fils de Réal et de Léona Amyotte;
+e) les travailleurs et l'appelante ont entre eux un lien de dépendance au sens de la Loi de l'impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1, dans sa forme modifiée (la « Loi » );
+f) Simon agissait comme chef de chantier; il supervisait notamment les travaux et organisait le travail des travailleurs et le travail manuel;
+g) Simon s'occupait également de temps en temps de faire des estimations au bureau de l'appelante;
+h) Simon est ingénieur de profession;
+i) Charles était apprenti charpentier et contremaître adjoint;
+j) Charles agissait également de temps en temps comme contremaître;
+k) Simon touchait un salaire annuel fixe;
+l) Charles touchait un salaire horaire fixe de 16 $;
+m) les travailleurs étaient rétribués toutes les deux semaines;
+n) des retenues étaient effectuées sur les salaires des travailleurs au titre de l'assurance-emploi;
+o) l'appelante fixait les salaires des travailleurs en se fondant sur les normes de l'industrie et en fonction de leurs qualifications;
+p) les employés sans lien de dépendance sont rétribués en fonction de leurs qualifications de la même façon que les travailleurs;
+q) les travailleurs avaient droit à des vacances annuelles payées;
+r) Simon effectuait normalement 44 à 50 heures de travail par semaine, du lundi au vendredi;
+s) Charles effectuait normalement une semaine de travail de 44 heures, du lundi au vendredi;
+t) les heures de travail de Charles étaient consignées;
+u) le travail de Simon n'était pas supervisé, mais il faisait l'objet d'inspections;
+v) Charles était supervisé par un contremaître;
+w) les travailleurs avisaient l'appelante lorsqu'ils voulaient prendre un congé;
+x) si les travailleurs n'étaient pas disponibles, il fallait les remplacer;
+y) les travailleurs n'avaient pas de pouvoir de signature à l'égard du compte bancaire de l'entreprise et ils n'avaient pas garanti de prêts;
+z) l'appelante fournissait les outils et le matériel nécessaires;
+aa) Charles fournissait ses propres outils à main;
+bb) les travailleurs étaient employés auprès de l'appelante en vertu d'un contrat de louage de services;
+cc) les travailleurs ne réinvestissaient pas leurs salaires dans l'entreprise de l'appelante;
+dd) les travailleurs étaient assujettis aux mêmes modalités d'emploi que les employés sans lien de dépendance;
+ee) le ministre a tenu compte de tous les facteurs pertinents qui ont été portés à sa connaissance, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli; et
+ff) le ministre était convaincu qu'il était raisonnable de conclure que les travailleurs et l'appelante auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+RÉFÉRENCE :
+2004CCI478
+Nos DES DOSSIERS DE LA COUR :
+2002-4277(EI)
+2002-4278(EI)
+2002-4279(EI)
+INTITULÉ :
+Reward Construction Ltd. c. MRN
+Simon Amyotte c. MRN
+Charles Amyotte c. MRN
+LIEU DE L'AUDIENCE :
+Edmonton (Alberta)
+DATE DE L'AUDIENCE :
+Le 23 mars 2004
+MOTIFS DU JUGEMENT :
+Mme la juge Woods
+DATE DU JUGEMENT :
+Le 29 juin 2004
+COMPARUTIONS :
+Avocat des appelants :
+Me Deryk W. Coward
+Avocate de l'intimé :
+Me Dawn Taylor
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Deryk W. Coward
+Cabinet :
+D'Arcy et Deacon
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

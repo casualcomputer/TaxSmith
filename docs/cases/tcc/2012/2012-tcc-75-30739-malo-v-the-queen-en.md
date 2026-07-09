@@ -1,0 +1,234 @@
+---
+title: "Malo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30739/index.do"
+last_modified: "2012-03-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 75"
+citation2: ""
+neutral_citation: "2012 TCC 75"
+decision_date: "2012-03-07"
+language: "en"
+item_id: "30739"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7487
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:33:42.329000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "501c4af4e65cd0734f7629f4b6b831398f8199016b7d3068d105e2db02b19a49"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Malo v. The Queen
+
+- Citation: 2012 TCC 75
+- Decision date: 2012-03-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7487, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Malo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-03-07
+Neutral citation
+2012 TCC 75
+File numbers
+2011-377(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-377(IT)I
+BETWEEN:
+JEAN-GUY MALO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on December 2, 2011, at Montréal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Marie-France Dompierre
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2006, 2007 and 2008 taxation years is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of March 2012.
+Robert J. Hogan
+Hogan J.
+Translation certified true
+on this 13th day of June 2012.
+Daniela Possamai, Translator
+Citation: 2012 TCC 75
+Date: 20120307
+Docket: 2011-377(IT)I
+BETWEEN:
+JEAN-GUY MALO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+I. Summary of facts
+[1] This is an appeal from assessments made under the Income Tax Act (the Act) for the 2006, 2007 and 2008 taxation years. In making the assessments, the Minister of National Revenue (the Minister) relied on the facts set out in paragraphs (a) to (s) of the Reply to the Notice of Appeal. The paragraphs read as follows:
+[Translation]
+(a) during the years in issue, the appellant’s income was derived essentially from pensions and totalled $36,402 for 2006, $36,663 for 2007 and $36,944 for 2008;
+(b) the appellant claims that he operated a precious trees planting business in Costa Rica as “Malo Forestales;”
+(c) the contract of mandate and services for the planting of “precious crop” trees submitted by the appellant reveals the following information:
+· “Maya Trust” represents “Maya Forestales S.A.” in Canada;
+· “Maya Trust S.A.” shall hold, on behalf of producers, “crop tree” lots that will be designated by GPS at the time of thinning;
+· the appellant claims to have become a lumber producer;
+· “Maya Forestales S.A.” shall provide the following planting services: preparation of seedlings, soil, forest roads, transplanting seedlings into pots and into the field, fertilization and herbicide applications , where necessary, designation of lots by GPS, expertise and administrative fees;
+· The appellant agrees to pay $100 per “precious crop tree” to be planted;
+· “Maya Forestales S.A.” guarantees a 40% tax-free rate of return per year, based on the growth of the trees only (except for the planting year);
+· “Maya Trust S.A.” shall hold the titles and immovable or movable rights on behalf of the appellant;
+· the appellant mandates “Maya Forestales S.A.” to plant on its behalf;
+· the number of trees is 250 and the cost is $25,000.
+(d) for each of the years in issue, the appellant reported no income from the operation of said business but claimed business losses of $25,000 per year;
+(e) an invoice totalling $25,000, identifying the services described in subparagraph (c) was issued to the appellant by “Maya Trust S.A.;”
+(f) the appellant claims to have paid $25,000 per year in cash to purchase trees and for planting services. As for 2008, he claims to have paid $20,000, and that the other $5,000 was paid to him for various services rendered to his brother-in-law Michel Maheux, who represented “Maya Trust;”
+(g) the appellant has not demonstrated that he paid the amounts he claims having spent on the operation of his business;
+(h) “Maya Trust” acted as agent for Maya Forestales S.A and promoted, through Michel Maheux, investments in the planting of precious trees in Costa Rica;
+(i) the objective was to sell a timber harvesting business to an investor, while promising him generous tax deductions;
+(j) the appellant has never been to Costa Rica;
+(k) he has no expertise in the forestry business;
+(l) he devotes no time to his business;
+(m) he states that the business will be profitable in about 10 years when the trees are mature;
+(n) according to the appellant, it is Michel Maheux who is in charge of selling the trees;
+(o) he has no specific business plan and has been unable to demonstrate that he made serious efforts to establish that the activity he claims to have carried on was undertaken in a sufficiently commercial manner;
+(p) Michel Maheux is the subject of a number of judgments prohibiting him from making investment contracts. In a judgment pronounced on June 17, 2005, the Court of Quebec corroborated the decision of October 15, 2003, rendered by the Commission des Valeurs Mobilières du Québec (CVMQ), now the Autorité des Marchés Financiers, prohibiting Québec Forestales and Michel Maheux from making investment contracts. In that decision, the Court of Quebec mentioned that it was demonstrated that Québec Forestales did not engage in any forestry activities and did not provide its members with any goods or services;
+(q) on October 11, 2005, a permanent injunction order was issued by the Honourable Justice Jocelyn Verrier of the Superior Court of Quebec who ordered, inter alia, the Coopérative de producteurs de bois précieux Québec Forestales and Michel Maheux to cease and abstain from making any preferred shares investments by the Coopérative de producteur de bois précieux Québec Forestales, investment contracts or any other form of investment provided for in section 1 of the Securities Act, by any means, including by letter or via Internet site;
+(r) the appellant acquired a tax shelter;
+(s) the appellant did not submit the requisite identification number to claim an amount in respect of a tax shelter;
+[2] The appellant called his brother-in-law, Michel Maheux, as a witness. The following facts emerge from his testimony and make it possible to better understand Mr. Maheux’s and the appellant’s planting business:
+[Translation]
+(a) Mr. Maheux’s family has been operating precious wood plantations since 1981.
+(b) The plantation in issue in the appeal is located in Las Delicias, Costa Rica. The land was purchased in 1991 or 1992 with money from an investors’ group.
+(c) The business corporation (Corp.) Maya Forestales was incorporated in Costa Rica.
+(d) The ownership of the land and trees planted on the land was divided. Maya Forestales is the bare owner of the land and the trees planted on the land have been designated as usufruct. Each investor, such as the appellant, owns a certain number of designated trees.
+(e) The cost of the land is between $90,000 and $100,000. The tree planting is carried out by a forestry engineer and the tree planting contracts provide for a number of trees per hectare. A contract for 1,000 trees per hectare results in approximately 800 trees per hectare. At the time, the cost of the trees was about $10 per tree. According to Mr. Maheux, the tree’s value, 10 years later, is $500 per tree.
+(f) The appellant invested $25,000 per year in the project for three years, 2006, 2007 and 2008, in exchange for which he obtained 750 of the plantation’s trees.
+(g) The plantations generate income through the sale of thinning logs that are transformed into boards. However, the purpose of the plantation is not to engage in short-term wood cutting operations. The expected profit must be derived from the resale of standing timber considering the high demand for trees grown in ecological plantations.
+(h) Mr. Maheux is also the President of Maya Trust S.A., which administers all of the investors’ titles in the precious wood in Costa Rica. Maya Trust S.A. only carries on business as an agent. Indeed, the appellant may dispose of the trees or cut them at will.
+(i) In light of the continual tree plantings in Costa Rica, Mr. Maheux can scarcely say whether the trees the appellant acquired were planted before or after the signing of the contract.
+(j) The appellant’s trees were designated following the signing of the contract.
+II. Issue
+[3] The issue is whether or not the losses the appellant claimed in 2006, 2007 and 2008 are deductable business losses.
+III. The respondent’s position
+[4] The respondent submits that the Minister properly disallowed the business loss of $25,000 that the appellant claimed for each of the 2006, 2007 and 2008 taxation years. In support of his argument, the respondent proposed the following four arguments:
+(a) The appellant did not actually incur the expenses claimed. I will not pursue this first argument any further. In oral argument, counsel for the respondent recognized that the appellant had been credible when he explained where the $75,000 he invested in the tree planting came from.
+(b) The appellant made a tax shelter investment. In this case, the deductions cannot be claimed, as no identification number was assigned to the tax shelter beforehand.
+(c) The tree planting activities do not constitute a business. For that reason, the losses cannot be allowed as businesses losses.
+(d) If it were a business, the expense would not constitute a current expenditure, but rather a capital expenditure.
+IV. Analysis
+Concept of tax shelter
+[5] The term “tax shelter” is defined as follows in section 237.1 of the Act:[1]
+“tax shelter” means
+(a) a gifting arrangement described by paragraph (b) of the definition “gifting arrangement”; and
+(b) a gifting arrangement described by paragraph (a) of the definition “gifting arrangement”, or a property (including any right to income) other than a flow-through share or a prescribed property, in respect of which it can reasonably be considered, having regard to statements or representations made or proposed to be made in connection with the gifting arrangement or the property, that, if a person were to enter into the gifting arrangement or acquire an interest in the property, at the end of a particular taxation year that ends within four years after the day on which the gifting arrangement is entered into or the interest is acquired,
+(i) the total of all amounts each of which is
+(A) an amount, or a loss in the case of a partnership interest, represented to be deductible in computing the person’s income for the particular year or any preceding taxation year in respect of the gifting arrangement or the interest in the property (including, if the property is a right to income, an amount or loss in respect of that right that is stated or represented to be so deductible), or
+(B) any other amount stated or represented to be deemed under this Act to be paid on account of the person’s tax payable, or to be deductible in computing the person’s income, taxable income or tax payable under this Act, for the particular year or any preceding taxation year in respect of the gifting arrangement or the interest in the property, other than an amount so stated or represented that is included in computing a loss described in clause (A),
+would equal or exceed
+(ii) the amount, if any, by which
+(A) the cost to the person of the property acquired under the gifting arrangement, or of the interest in the property at the end of the particular year, determined without reference to section 143.2,
+would exceed
+(B) the total of all amounts each of which is the amount of any prescribed benefit that is expected to be received or enjoyed, directly or indirectly, in respect of the property acquired under the gifting arrangement, or of the interest in the property, by the person or another person with whom the person does not deal at arm’s length.
+[Emphasis added.]
+[6] The purpose of section 237.1 of the Act is administrative. The provision is designed to ensure that a promoter of investments in certain tax-advantaged property registers the property and obtains a tax identification number before marketing it to potential investors.[2] Parliament thus facilitates the audit of such investment schemes under the definition of the term “tax shelter;” the authorities make sure they can target all future investors. In effect, when a taxpayer invests in a tax shelter, he or she must indicate the identification number for the tax shelter in his or her income tax return if he or she wishes to take advantage of the tax benefit announced.[3]
+[7] Hence, section 237.1 of the Act seeks to increase the effectiveness of tax authorities by allowing them to better target files that require follow-up or more stringent audits. This explains why the definition of a tax shelter was drafted in such a way as to encompass all investment schemes or structures which meet the following two main conditions:
+(1) A promoter makes statements or representations to an investor emphasizing the tax benefits of the investment before the investor invests in the project;
+(2) The subject matter of the statements or representations is the emphasis on the fact that the investor can deduct an amount equal to or in excess of the cost of his or her investment within the four taxation years following his or her investment.
+[8] These two conditions summarize the definition of the term “tax shelter” without going into all the subtleties on which the application of the definition to specific facts might depend.
+[9] In Canada v. Baxter,[4] the decision of the Federal Court of Appeal touched on the concept of tax shelter. In that decision, Ryer J.A. wrote that the property contemplated by the definition of tax shelter is each and every property that is offered for sale to prospective purchasers.[5] The judge added that the definition requires that to conclude a tax shelter exists, statements or representations must be made, at some time, in connection with the property that is offered for sale.[6] Statements must have been made prior to any actual sale by the person who proposes to sell.
+[10] Also in Baxter, Ryer J.A. added that the subject matter of the statements or representations must have been a description of an amount that the prospective purchaser would be able to deduct, in computing income in respect of the property, as a consequence of an acquisition of the property. [7]
+[11] Moreover, the definition does not specify either whether the statements or representations must take a particular form or whether they must be made in any particular manner.[8] It is also generally accepted that any communication may be made in speech or writing.[9]
+[12] In this appeal, as Mr. Maheux explained during his testimony, there were no formal solicitations per se. In effect, the discussions Mr. Maheux had with the appellant regarding the tree planting project were rather personal and intimate when the appellant provided a home for Mr. Maheux. The appellant, as well as his entire family, were well aware of Mr. Maheux’s background.
+[13] The appellant therefore knew of the tree planting project’s existence and that a number of persons had already invested money into the project. Moreover, Mr. Maheux was in a precarious financial situation, seeing as all his assets were seized, and was in need of assistance.
+[14] It was in that context that Mr. Maheux discussed the investment project with the appellant. According to the appellant’s testimony, Mr. Maheux told him that the acquisition of the trees on his plantation in Costa Rica would be a good investment for him. The money invested would allow the appellant to acquire seedlings that he could cultivate and then sell trees once they reached their optimum size. It was only through the sale of the trees that the appellant intended to realize the expected profits.
+[15] Mr. Maheux also informed the appellant that he would be able to deduct the money invested, as it constituted a current business expense. The information Mr. Maheux thus shared with the appellant confirm the existence of a tax shelter in accordance with the interpretation of the terms “statements” or “representations” used in the definition of a tax shelter. Following the guidance of Baxter, it suffices that Mr. Maheux discussed with the appellant the investment opportunity and that he presented to the appellant the amount of possible deductions for the definition of tax shelter to apply.
+[16] It is important to note that the concept of tax shelter is so broad because the provision is primarily intended to guarantee that the promoters obtain a tax identification number for their investment schemes before prospective purchasers acquire the property presented.
+[17] Given that Mr. Maheux’s project met the two main requirements of the definition of a tax shelter, namely, (1) the existence of statements or representations, and (2) the requirement for computing the two amounts, Mr. Maheux’s tree planting project should have been registered as a tax shelter.[10] In the absence of a tax identification number, the appellant cannot benefit from the loss represented to be deductible,[11] that is, the business losses of $25,000 claimed for each of the taxation years in issue, even though, at the end of the day, the losses were recognized as valid.
+[18] Seeing as that finding is sufficient for me to dismiss the appellant’s appeal, I will simply make summary observations on the other arguments put forward by the respondent.
+[19] According to the third argument put forward by the respondent, the expenses claimed by the appellant are not deductible as the trees were not purchased for the purposes of operating a business. The respondent submits that the evidence shows that the appellant invested in the tree planting project for personal reasons. According to the respondent, the appellant wanted to help his brother-in-law, Mr. Maheux, obtain a tax benefit, or achieve both goals. The expenses were not incurred for the purpose of operating a business. Furthermore, according to the respondent, the expenditures incurred by the appellant were capital in nature.
+[20] I disagree with the respondent on that point. The evidence shows that the appellant did operate a business, or at least, that the purchase of the trees constituted a business activity. The appellant’s sole purpose, when he participated in Mr. Maheux’s project, was to resell the 750 trees for a profit. That was the only way he could profit from his investment. Accordingly, I conclude that the expenses were business expenses.
+[21] The appellant submits that the $75,000 he spent were current expenses and are deductible as business losses. According to the appellant, the invoices submitted to him by Mr. Maheux are proof of the nature of said expenses.
+[22] I disagree with the appellant on that point. Three identical invoices were filed in evidence. Each of them break down the expenditures of $25,000 that were incurred as follows:
+· $2,500 for the preparation of the seedlings;
+· $5,000 for the preparation of the soil;
+· $2,500 for the preparation of the forest roads and firewalls;
+· $5,000 for the transplanting of seedlings into pots and into the field;
+· $5,000 for herbicide and fertilizer;
+· $3,000 for the GPS designation;
+· $2,000 for expertise and administrative fees.
+Despite the details of these invoices, no other evidence was submitted to show that the appellant’s funds were actually used to pay the expenses indicated. It is unlikely that each year the appellant incurred expenses identical in amount and form. Furthermore, during his testimony, Mr. Maheux even explained having used $26,000 of the money given to him by the appellant to pay the arrears of farm monitoring costs.[12] For that reason, the invoices do not make it possible to find that the $75,000 was used to pay the expenditures indicated on the invoices.
+[23] A review of the facts adduced in evidence rather indicates that the $75,000 paid by the appellant allowed him to purchase 750 trees that he intended to grow with a view to reselling them in ten years or so.
+[24] There are no definitions in the Act to distinguish between a current expenditure and a capital expenditure. In the absence of specific legislative criteria, the issue must be resolved by looking at the specific facts and circumstances of each case.[13]
+[25] When viewed in this way, the expenses are rather the cost of acquiring the inventory, namely, the 750 trees the appellant purchased in Costa Rica.
+[26] As inventory, the cost of the trees could be allowed as a deduction by following a method different from that applicable to current expenditures. I will not comment on how and when to claim this expense because the sum of $25,000 claimed by the appellant for each of the taxation years in issue is not deductible owing to the previous finding.
+[27] For these reasons, the appeal from the assessments made for the 2006, 2007 and 2008 taxation years is dismissed.
+Signed at Ottawa, Canada, this 7th day of March 2012.
+Robert J. Hogan
+Hogan J.
+Translation certified true
+on this 13th day of June 2012.
+Daniela Possamai, Translator
+CITATION: 2012 TCC 75
+COURT FILE NO.: 2011-377(IT)I
+STYLE OF CAUSE: JEAN-GUY MALO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: December 2, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: March 7, 2012
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Marie-France Dompierre
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1]R.S.C. 1985, c. 1 (5th Supp.).
+[2] Rosemarie Wertschek and James R. Wilson, “Shelter from the Storm: The Current State of the Tax Shelter Rules in Section 237.1” (2008) 56:2 Canadian Tax Journal, 296 (Wertschek).
+[3] Income Tax Act, subs. 237.1(6).
+[4] 2007 FCA 172
+[5] Ibid., para. 8.
+[6] Ibid., para. 9.
+[7] Ibid., para. 10.
+[8] Ibid., para. 14.
+[9] Wertschek, opt. cit. note 2, p. 303.
+[10] Subs. 237.1(4) of the Act.
+[11] Subs. 237.1(6) of the Act.
+[12] Transcript, p. 66, para. 197.
+[13] In Rona Inc. v. The Queen, 2003 TCC 121 (general procedure) (Rona), at para. 32, Archambault J. quotes lengthy passages from Oxford Shopping Centres Ltd. v. The Queen, [1980] 2 F.C. 89, (F.C.T.D.) (Oxford), which summarize the most relevant decisions respecting the characterization of business expenses.

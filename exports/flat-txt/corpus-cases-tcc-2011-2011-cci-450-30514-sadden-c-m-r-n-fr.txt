@@ -1,0 +1,228 @@
+Title: Sadden c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30514/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-450-30514-sadden-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2011-09-26
+
+# Sadden c. M.R.N.
+
+- Citation: 2011 CCI 450
+- Decision date: 2011-09-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7254, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sadden c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-09-26
+Référence neutre
+2011 CCI 450
+Numéro de dossier
+2009-2547(EI)
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-2547(EI)
+ENTRE :
+OBIDA SADDEN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 18 août 2010 à Lethbridge (Alberta).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Neil Goodridge
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel est rejeté, sans dépens, et la décision datée du 25 mai 2009 rendue par le ministre du Revenu national en vertu de la Loi sur l’assurance-emploi est confirmée.
+Signé à Ottawa (Ontario), ce 26e jour de septembre 2011.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 9e jour de novembre 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 450
+Date : 20110926
+Dossier : 2009-2547(EI)
+ENTRE :
+OBIDA SADDEN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] Il s’agit d’une affaire regrettable étant donné qu’elle découle, au moins en partie, de ce qui semble être une conception erronée courante, si je me fie à un certain nombre d’affaires que j’ai entendues.
+[2] L’appelant interjette appel de la décision du ministre du Revenu national (le « ministre ») datée du 25 mai 2009.
+[3] Dans cette décision, le ministre a conclu qu’Edward Himour, le bénéficiaire, était employé en vertu d’un contrat de louage de services auprès de l’appelant, le payeur, pour la période du 15 août 2006 au 9 janvier 2008, et que le bénéficiaire exerçait donc un emploi assurable[1].
+[4] L’appelant soutient que M. Himour était un entrepreneur indépendant.
+Le droit
+[5] Dans la décision Doan-Gillan c. M.R.N., 2009 CCI 157, la juge V.A. Miller a résumé le droit applicable de la manière suivante :
+16 L’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc [2001 CSC 59] est l’arrêt de principe en ce qui concerne la distinction entre un contrat de louage de services et un contrat d’entreprise. Le juge Major a rendu l’arrêt de la Cour suprême et a examiné les quatre critères définis dans l’arrêt Wiebe Door Services Ltd. c. Ministre du Revenu national [[1986] 3 C.F. 553]. Aux paragraphes 47 et 48 de sa décision, le juge Major a affirmé que la démarche suivie dans la décision Market Investigations Ltd. v. Minister of Social Security [[1968] 3 All E.R. 732] offrait une solution convaincante. Il a déclaré :
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses aides, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches. [Non souligné dans l’original.]
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[6] De nombreux autres facteurs peuvent être pertinents, y compris l’intention des parties. Bien que l’intention puisse être un facteur important dans certains cas, particulièrement si les autres facteurs ne sont pas nettement déterminants, elle n’est pas déterminante si les autres facteurs ne concordent pas avec l’intention des parties[2].
+Les faits et l’analyse
+[7] Pour établir les déterminations, le ministre s’est fondé sur les hypothèses de fait suivantes (dans les hypothèses, l’intimé désigne M. Himour, le bénéficiaire, comme le « travailleur ») :
+[traduction]
+a) l’activité de l’appelant consistait à injecter de l’isolant dans les greniers de bâtiments résidentiels et commerciaux;
+b) l’appelant obtenait les contrats et le travail;
+c) le travailleur était engagé comme poseur de matériaux isolants, et ses tâches comprenaient l’utilisation d’une machine à injecter dans les greniers de bâtiments;
+d) l’appelant employait aussi un opérateur de trémie, qui vidait les sacs d’isolant dans la trémie de la machine à injecter;
+e) le travailleur et l’opérateur de trémie travaillaient en équipe;
+f) le travailleur et l’appelant n’avaient pas conclu de contrat écrit;
+g) le travailleur rendait ses services sur le terrain;
+h) le travailleur était payé aux pièces de la manière suivante :
+-0,05 $ par pied carré pour des bâtiments neufs,
+-0,06 $ par pied carré pour des bâtiments existants;
+i) le travailleur recevait un salaire fixe de 16 $ l’heure pour le temps de déplacement relativement aux travaux effectués en dehors de la ville;
+j) l’appelant garantissait au travailleur un salaire mensuel minimum de 2 300 $;
+k) l’appelant fixait le taux de rémunération du travailleur;
+l) l’appelant déterminait le volume de travail à accomplir;
+m) le travailleur ne soumissionnait pas pour des travaux;
+n) le travailleur ne facturait pas l’appelant;
+o) l’appelant calculait la rémunération du travailleur compte tenu du travail accompli;
+p) l’appelant rémunérait le travailleur sur une base mensuelle et lui accordait une avance semi-mensuelle;
+q) l’appelant versait aussi au travailleur une gratification de fin d’année;
+r) le travailleur effectuait les heures nécessaires pour accomplir le travail qui lui était attribué;
+s) le travailleur travaillait habituellement de 7 h à 18 h durant les périodes de travail intense d’automne et d’hiver;
+t) le travailleur travaillait des heures réduites en été;
+u) le travailleur était sous la direction et le contrôle de l’appelant;
+v) l’appelant établissait l’horaire de travail;
+w) l’appelant attribuait le travail au travailleur;
+x) le travailleur n’avait pas le pouvoir d’accepter ou de refuser du travail;
+y) l’appelant donnait instruction au travailleur quant à la quantité d’isolant à installer;
+z) le travailleur informait l’appelant lorsqu’il devait s’absenter;
+aa) le travailleur ne pouvait pas engager des personnes pour l’aider ou le remplacer;
+bb) l’appelant fournissait et rémunérait toutes les personnes engagées pour aider ou pour remplacer le travailleur;
+cc) l’appelant fournissait tous les outils et le matériel nécessaires, y compris un camion de cinq tonnes doté d’un système d’injection, un tuyau de 200 pieds, des couteaux, des combinaisons de travail, des masques, des lunettes de protection et des chaussures de sécurité;
+dd) le nom commercial de l’appelant figurait au dos des combinaisons fournies par l’appelant;
+ee) le travailleur ne fournissait aucun outil ni matériel;
+ff) l’appelant fournissait toutes les fournitures et tous les matériaux nécessaires, y compris l’isolant;
+gg) le travailleur n’engageait aucune dépense dans l’exercice de ses fonctions;
+hh) le travailleur n’était tenu responsable d’aucun dommage;
+ii) le travailleur n’avait ni possibilité de profit ni risque de perte;
+jj) l’intention du travailleur était d’exercer un emploi;
+kk) l’appelant considérait l’opérateur de trémie comme un employé;
+ll) le travailleur ne souscrivait pas sa propre assurance responsabilité civile;
+mm) le travailleur ne facturait pas la TPS à l’appelant;
+nn) le travailleur n’exploitait pas une entreprise pour son propre compte lorsqu’il rendait des services pour l’appelant.
+[8] L’appelant, l’épouse de l’appelant et le bénéficiaire, M. Himour, ont témoigné.
+L’intention
+[9] Il y avait de nombreux éléments de preuve quant à la question de savoir quelle était l’intention des parties.
+[10] L’appelant et le bénéficiaire n’avaient pas conclu de contrat écrit.
+[11] Les éléments de preuve étaient quelque peu inhabituels. L’appelant a déclaré qu’il avait toujours voulu que la relation soit une relation d’employeur‑employé, mais que le bénéficiaire avait refusé et avait tenu à être traité comme un entrepreneur indépendant. Le bénéficiaire a déclaré qu’il voulait que la relation soit une relation d’employeur‑employé, mais que l’appelant avait refusé et avait tenu à ce que le bénéficiaire soit un entrepreneur indépendant.
+[12] Manifestement, le payeur et le bénéficiaire ne peuvent pas tous deux avoir raison. Quelle que soit la vérité dans cette affaire, il n’a pas pu y avoir d’intention commune[3].
+[13] En l’absence d’une intention commune, l’intention n’est pas un facteur utile. Il n’est donc pas nécessaire que la Cour établisse une conclusion de fait quant à savoir qui a donné la bonne version en ce qui concerne l’intention.
+[14] Quant à la preuve concernant les autres facteurs, les éléments de preuve présentés par le payeur et par le bénéficiaire étaient plus ou moins largement compatibles mêmes s’il y avait quelques divergences.
+Les autres facteurs
+[15] Les questions cruciales sont les suivantes : lorsque le bénéficiaire accomplissait le travail de poseur de matériaux isolants pour le compte de l’appelant, pour quelle entreprise travaillait‑il? Le bénéficiaire exploitait‑il sa propre entreprise ou ne faisait‑il qu’effectuer la partie du travail nécessaire pour l’entreprise de l’appelant?
+[16] Durant la période en question, le bénéficiaire a accompli des fonctions de poseur d’isolant injecté pour le compte de l’appelant. Il installait occasionnellement de l’isolant matelassé dans des murs pour le compte de l’appelant.
+[17] Le travail était effectué à divers endroits dans la ville et en dehors de la ville.
+[18] À l’époque pertinente, l’appelant avait une seule équipe pour l’injection d’isolant, bien que la composition de l’équipe pouvait varier.
+[19] Sauf à de rares occasions où une troisième personne était nécessaire, une équipe était composée de deux personnes : le poseur de matériaux isolants qui était au bout du tuyau et qui dirigeait l’isolant au bon endroit, et l’aide qui versait le contenu des sacs d’isolants dans la trémie du système d’injection situé sur le camion.
+[20] La plupart du temps, il était de la responsabilité du bénéficiaire d’aller chercher l’aide et de l’amener au lieu de travail. L’appelant versait au bénéficiaire, sur une base mensuelle, un certain montant pour de l’essence afin de tenir compte du fait que le bénéficiaire allait chercher les aides. L’appelant avait également avancé de l’argent au bénéficiaire pour lui permettre d’acheter la voiture. Le bénéficiaire remboursait à l’appelant un certain montant par mois; ces remboursements étaient déduits des paiements que l’appelant effectuait à l’égard du bénéficiaire.
+[21] Le bénéficiaire avait sa propre entreprise d’installation d’isolants en matelas. La mère du bénéficiaire et divers amis de ce dernier travaillaient avec lui dans cette entreprise.
+[22] Durant l’automne et l’hiver, les périodes les plus intenses pour l’entreprise de l’appelant, le bénéficiaire travaillait à partir d’environ 7 h et finissait autour de 18 h, bien que les heures pouvaient varier.
+[23] Durant l’été, le bénéficiaire a déclaré qu’il pouvait habituellement travailler des heures réduites du lundi au vendredi. C’était au cours de ces périodes d’activité peu intense que le bénéficiaire faisait des travaux pour sa propre entreprise.
+Le contrôle
+[24] Pour tenir compte du facteur du contrôle, il faut considérer non seulement le contrôle proprement dit, mais aussi le pouvoir d’exercer le contrôle, peu importe que ce pouvoir soit utilisé ou non.
+[25] L’appelant informait le bénéficiaire du lieu de travail, lui précisait les tâches à accomplir et lui donnait un échéancier. À cause des intémpéries et d’autres facteurs, il n’était pas toujours possible de respecter l’échéancier.
+[26] La plupart du temps, l’appelant ne se rendait pas sur les lieux de travail et comptait sur le bénéficiaire pour que le travail soit fait correctement.
+[27] Les éléments de preuve étaient contradictoires quant à la question de savoir si le bénéficiaire avait refusé de faire certains travaux. Selon l’appelant, cette situation s’est produite un certain nombre de fois. Selon le bénéficiaire, cette situation était rare et était dictée par le fait qu’habituellement, il lui était difficile d’obtenir un congé. Le bénéficiaire a également déclaré que ces problèmes découlaient du fait que sa conjointe de fait avait à cette époque des soucis de santé qui ont fait en sorte que le bénéficiaire a dû s’absenter du travail.
+[28] La pièce R‑2 est une note manuscrite que l’appelant a adressée au bénéficiaire. Elle est intitulée [traduction] : « Ed : Améliorations nécessaires pour l’équipe » et comportait des déclarations telles que :
+[traduction]
+(2) […] faire preuve de plus de patience à l’égard de toute personne avec qui nous travaillons.
+(3) Limiter l’envoi de messages textes si ces messages vous empêchent de travailler.
+[…]
+(5) S’atteler davantage à résoudre les problèmes liés au travail et ceux concernant les employés, de sorte à ne pas avoir à me solliciter aussi souvent.
+[…]
+(B) J’ai confiance en l’avenir et nous continuerons à prospérer, de sorte que nos chèques de paie augmenteront en conséquence.
+[…]
+(D) Ed, vous devez prendre des mesures pour régler les questions mentionnées.
+[Souligné dans l’original.]
+[29] Bien que l’essentiel des éléments de preuve concernant l’existence, ou non, du pouvoir d’exercer le contrôle ne semblent pas être décisifs, tout doute est balayé à l’égard de ce facteur au vu de la pièce R‑2.
+[30] Non seulement le ton de la note cotée sous la pièce R­‑2 est beaucoup plus compatible avec une relation d’employeur‑employé qu’avec une situation d’entrepreneur indépendant, mais aussi la note traduit l’exercice réel du contrôle.
+[31] Ce facteur tend à démontrer l’existence d’une relation d’employeur‑employé.
+La possibilité de profits et le risque de perte
+[32] L’appelant rémunérait le bénéficiaire en fonction du travail effectué bien que le taux était fixé de différentes manières selon les circonstances.
+[33] Pour les déplacements effectués en dehors de Medicine Hat, le bénéficiaire recevait 16 $ l’heure. La plupart des travaux étaient rémunérés au taux de 0,05 $ le pied carré pour des bâtiments neufs et de 0,06 $ le pied carré pour des bâtiments existants. Toutefois, certains travaux étaient rémunérés selon un taux fixe établi pour le travail.
+[34] Enfin, selon le bénéficiaire, il est arrivé qu’un travail de pose d’isolant soit rémunéré à des taux horaires différents qui variaient en fonction de la soumission présentée par l’appelant pour faire le travail.
+[35] Selon le témoignage de l’appelant, les taux étaient alors négociés. Le bénéficiaire a soutenu qu’il n’avait pas grand-chose à dire dans la fixation des taux de rémunération.
+[36] Il était garanti au bénéficiaire une rémunération minimum de 2 000 $ par mois ainsi qu’une avance semi‑mensuelle.
+[37] Le bénéficiaire recevait une gratification de fin d’année.
+[38] L’appelant fournissait l’isolant et l’essence pour le camion et il assurait l’entretien du camion.
+[39] Le bénéficiaire ne supportait aucune dépense relativement au travail. Il importait peu qu’au bout du compte le travail prenne plus ou moins d’isolant que prévu, cela n’avait pas d’incidence sur le montant qu’il recevait.
+[40] Le bénéficiaire ne courait aucun risque financier; il ne pouvait pas subir de perte.
+[41] Le bénéficiaire était simplement rémunéré pour le travail. Comme le taux de rémunération de certains travaux étaient fixé aux pièces, le bénéficiaire pourrait à certaines occasions consacrer au travail moins de temps que prévu pour gagner sa rémunération. Il ne pouvait toutefois pas gagner plus que la rémunération convenue.
+[42] Le facteur concernant la possibilité de profits et le risque de pertes est compatible avec une relation employeur-employé.
+La propriété des instruments de travail et de l’outillage
+[43] La pièce principale de l’équipement utilisé consistait en un camion de cinq tonnes doté d’un système d’injection et d’un long tuyau. Cet équipement, ainsi que les combinaisons de travail, les masques et les couteaux, était fourni par l’appelant.
+[44] Le bénéficiaire devait disposer de ses propres équerres pour découper et de divers tubes pour le calfeutrage; il devait également avoir d’autres petits outils comme des brocheuses-cloueuses, des marteaux et des clous.
+[45] L’investissement en matière d’équipement était plus important pour l’appelant que pour le bénéficiaire. Encore une fois, ce facteur milite en faveur d’une relation employeur‑employé.
+Les autres facteurs
+[46] C’est l’appelant qui décidait s’il fallait ou non engager un particulier en tant qu’aide. L’appelant rémunérait aussi les aides.
+[47] Lorsque le bénéficiaire n’était pas disponible, l’appelant engageait et rémunérait la personne remplaçante, bien qu’on attendait du bénéficiaire qu’il fasse en sorte qu’il y ait une autre personne disponible. Il est apparu que, de manière générale, un ami du bénéficiaire remplaçait celui‑ci lorsqu’il s’absentait du travail.
+[48] Le bénéficiaire et l’aide portaient tous deux des combinaisons au dos desquelles figuraient le logo et le nom commercial de la société.
+[49] Une fois de plus, il se dégage des facteurs mentionnés sous cette rubrique que le revenu d’emploi était versé dans le cadre d’une relation employeur‑employé.
+[50] Quelle est la conséquence du fait que le bénéficiaire avait sa propre entreprise de sous‑traitant dans le domaine de l’isolation?
+[51] Je ferais observer que, dans l’exploitation de sa propre entreprise, le bénéficiaire installait des isolants en matelas alors que l’entreprise de l’appelant procédait essentiellement à l’isolation par injection. Dans sa propre entreprise, le bénéficiaire engageait aussi à son propre compte une personne pour l’aider, et ses clients concluaient un contrat avec lui pour obtenir un résultat, à savoir l’isolation d’un bâtiment, et non pour obtenir que le bénéficiaire fasse un certain travail nécessaire pour arriver à ce résultat.
+[52] La nature du travail effectué par le bénéficiaire dans son entreprise était nettement distincte de celle du travail de poseur d’isolants qu’il accomplissait pour le compte de l’appelant.
+[53] En conséquence, je conclus que le travail effectué par le bénéficiaire pour le compte de l’appelant ne faisait pas partie de l’activité exercée par le bénéficiaire dans son entreprise d’installation d’isolants en matelas.
+L’intégration
+[54] Le facteur de l’intégration est souvent compatible avec les deux types de contrats.
+[55] En l’espèce, toutefois, la nature du travail effectué, à savoir procéder uniquement à la pose de l’isolant lorsque le travail doit être effectué avec l’aide d’une autre personne et en recourant à l’utilisation d’un équipement spécialisé, rend la tâche plutôt difficile à une personne qui voudrait établir une entreprise qui ne consiste qu’à effectuer le travail de pose de l’isolant, sans faire appel à l’autre travailleur et sans fournir l’équipement. Le client devrait simultanément prendre des dispositions afin de fournir les deux autres éléments essentiels nécessaires pour que l’isolant soit effectivement posé.
+[55]
+[56] Un modèle d’entreprise aussi peu commun pourrait être possible dans des circonstances particulières, mais je crois qu’en l’espèce, l’intégration du travail de l’appelant dans le processus de pose d’isolant milite en faveur de la conclusion selon laquelle la relation était une relation employeur‑employé.
+Conclusion
+[57] Compte tenu de tous les facteurs susmentionnés qui militent en faveur d’une relation employeur‑employé et qui sont incompatibles avec une situation où l’appelant serait un entrepreneur indépendant, je suis convaincu que le ministre a conclu à juste titre que la relation entre l’appelant et M. Himour était une relation employeur‑employé.
+[58] L’appel est rejeté sans dépens.
+[59] J’ai déclaré au début des présents motifs que cette affaire était regrettable. Je l’ai dit parce que j’ai eu l’impression que l’appelant avait peut‑être cru comprendre que l’intention des parties était déterminante, quelle que soit la véritable entente entre les parties.
+Signé à Ottawa (Ontario), ce 26e jour de septembre 2011.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 9e jour de novembre 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 450
+NO DU DOSSIER D E LA COUR : 2009-2547(EI)
+INTITULÉ : OBIDA SADDEN
+c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Lethbridge (Alberta)
+DATE DE L’AUDIENCE : Le 18 août 2010
+MOTIFS DU JUGEMENT : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 26 septembre 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Neil Goodridge
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1]Cette conclusion découle de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi dont voici en partie le libellé :
+[...] est un emploi assurable :
+a) l’emploi exercé au Canada […], aux termes d’un contrat de louage de services […] exprès ou tacite, écrit ou verbal, […] que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[2] Voir les paragraphes 60 à 62 des motifs de la juge Sharlow dans l’arrêt Royal Winnipeg Ballet c. Canada, 2006 CAF 87.
+[3] Compte tenu des éléments de preuve, je ne peux pas conclure que les parties au contrat avaient, en raison de leur incapacité à s’entendre sur un contrat d’emploi, accepté par défaut que le bénéficiaire soit un entrepreneur indépendant. Par exemple, bien que l’appelant délivrait des feuillets T5018 (état des paiements contractuels) au bénéficiaire et inscrivait sur la ligne objet des chèques tirés en faveur du bénéficiaire des mentions telles que « avance à un sous‑traitant » et « rémunération d’un sous‑traitant », il avait aussi, dans une lettre datée du 13 mars 2007 et adressée à la Banque royale du Canada, présenté le bénéficiaire comme un employé à temps plein qui avait été promu au poste de poseur de matériaux isolants. On avait demandé au bénéficiaire s’il avait produit ses déclarations de revenus en fonction du fait que les sommes reçues de l’appelant représentaient un revenu d’entreprise ou un revenu d’emploi. À ces questions, le bénéficiaire avait répondu qu’il n’avait pas produit sa déclaration de revenus le moment venu, parce qu’il ne savait pas comment s’y prendre, étant donné qu’il avait reçu des feuillets T5018 au lieu de feuillets T4. Cela importe peu, compte tenu du fait qu’une réponse claire se dégage des autres facteurs.

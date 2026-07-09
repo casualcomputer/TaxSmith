@@ -1,0 +1,208 @@
+Title: Thompson Bros. (Constr.) Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/493565/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-15-493565-thompson-bros-constr-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-02-26
+
+# Thompson Bros. (Constr.) Ltd. v. The Queen
+
+- Citation: 2021 TCC 15
+- Decision date: 2021-02-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4612, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thompson Bros. (Constr.) Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-02-26
+Neutral citation
+2021 TCC 15
+File numbers
+2014-2393(IT)G, 2014-2395(IT)G, 2014-2398(IT)G, 2014-2399(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Notes
+Decision Content
+Dockets: 2014-2393(IT)G
+2014-2395(IT)G
+BETWEEN:
+THOMPSON BROS. (CONSTR.) LTD.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Dockets: 2014-2398(IT)G
+2014-2399(IT)G
+AND BETWEEN:
+LARRY THOMPSON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion to compel heard by telephone conference
+on September 10, 2020 at Ottawa, Ontario
+Before: The Honourable Justice B. Russell
+Participants:
+Counsel for the Applicants:
+Robert Neilson and Jeremy Comeau
+Counsel for the Respondent:
+Ron Wilhem, Shannon Fenrich,
+Eric Brown and Jamie Hansen
+ORDER
+The Respondent is to answer questions identified as Questions 1 through 7 in the accompany Reasons for Order, and is not required to answer Question 8 as also identified in the Reasons for Order. Costs will go to the Applicants, in the fixed amount of $1,000, to be tendered in reasonable due course.
+Signed at Halifax, Nova Scotia, this 26th day of February 2021.
+“B. Russell”
+Russell J.
+Citation: 2021 TCC 15
+Date: 20210226
+Dockets: 2014-2393(IT)G
+2014-2395(IT)G
+BETWEEN:
+THOMPSON BROS. (CONSTR.) LTD.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Dockets: 2014-2398(IT)G
+2014-2399(IT)G
+AND BETWEEN:
+LARRY THOMPSON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Russell J.
+[1] The two Applicants have moved for an order that the Respondent Crown answer certain discovery examination questions it has declined to answer. The discovery examination of the Respondent is an interlocutory step in the herein four appeals the Applicants qua Appellants have brought respecting certain reassessments raised under the federal Income Tax Act.
+[2] By way of background I note that the Applicants’ notice of motion sets out the following several facts. They were members of a general partnership known as LTI Partnership (LTI); a general partnership known as CTR Partnership (CTR) was established by LTI and two other entities; during a relevant period CTR and LTI engaged in foreign currency forward (FCF) contracts with ODL Securities Ltd. (ODL), a brokerage based in London, U.K. of which Tim Hodgins was a trader.
+[3] One basis for the raising of the appealed reassessments is the Respondent’s assertion that CTR and LTI’s FCF contracts were sham agreements.
+[4] Concurrently with the audit leading to the appealed reassessments, Canada Revenue Agency (CRA) was engaged in looking into activities of ODL, including questioning ODL officials at ODL’s U.K. office.
+[5] Principles of discovery examination questioning are set out in many decisions of this and other courts. I have noted the various authorities put forward by both parties. The “overarching” principle is that questions on discovery examination must be relevant in respect of some matter expressed in either party’s pleadings. And, at discovery, relevance “should be broadly and liberally construed” and its threshold “is lower . . . than at trial” (Ahamed v. Canada, 2020 FCA 213, para.19).
+[6] In Paletta v. Canada, 2017 TCC 233, my colleague D’Arcy J. likewise addressed a motion to compel, in factual circumstances having more than passing similarity to the present matter. I reiterate here paragraphs 11, 12 and 13 of Paletta, summarizing applicable legal principles:
+11. The law with respect to discovery principles is well settled. My colleague Justice Campbell provided the following summary of the core discovery principles in her reasons for judgement in Burlington Resources Finance Co. v. The Queen [2015 TCC 71 at para. 11]:
+11 Caselaw is clear and abundant. The core of discovery principles is that its scope should be wide, with relevance construed liberally, without, however, allowing it to enter the realm of a fishing expedition. These basic principles are essential because the purpose of discovery is to enable parties to know the case they have to meet at trial, to know the facts upon which the opposing party relies, to narrow or eliminate issues, to obtain admissions that will facilitate the proof of matters in issue and, finally, to avoid surprise at trial (General Electric Capital Canada Inc. v. The Queen, 2008 TCC 668…at para. 14). This is all with a view to making the hearing of an appeal streamlined and to ensure that the parties are focussed on the appropriate issues.
+12 After reviewing Justice Campbell’s decision and and numerous other decisions of this Court and the Federal Court of Appeal, Chief Justice Rossiter, in Canadian Imperial Bank of Commerce v. The Queen (2015 TCC 280, para. 18) provided the following summary of points stated in the numerous decisions:
+18. The above principles governing discovery thus reveal the following salient points:
+- Relevant is extremely broad and should be liberally construed. The threshold for relevancy on discovery is very low but does not allow for a fishing expedition, abusive questions, delaying tactics or completely irrelevant questions;
+- Everything is relevant that may directly or indirectly add the party seeking the discovery to maintain its case or combat that of its adversary. If the questions are broadly related to the issues raised, they should be answered;
+- Discovery is limited by the pleadings to some extent; and
+- The examining party conducting the discovery is doing so for the purposes of: supporting his or her own case; obtaining admissions; attacking the opponent’s case; limiting the issues of trial; and revealing the case that he or she must meet at trial and the facts that the opponent relies upon.
+13. A principle that has been annunciated by this court on numerous occasions is that one must always remember that emotions judge is in a very different position from the trial judge, who hears the entire case and has better place to judge whether something is or is not relevant.
+[7] Question 1 that the Respondent has declined to answer, which was put as a further follow-up question, is:
+Did CRA headquarters or the Commissioner’s office maintain a file or files regarding these [FCF] contract trading audits? If CRA headquarters or if the Commissioner’s office maintained a file or files regarding the series of audits of [FCF] contract trading involving [ODL], Tim Hodgins or John Hodgins, of which the audit of the appellants here was but one, please produce the complete files.
+[8] The Respondent on January 31, 2018 answered:
+This question has already been answered. Please see our Answer to Follow-up Questions relating to Undertaking #18, listed as (2). There is no indication that any of the requested material was considered by anyone involved in the Appellants’ audit. We have nothing further to add.
+Response to 18(2):
+There is no common file or database on ODL . . . Tim and John Hodgins or [FCF] trading. There is a “shared drive” that contains documents (such as Position Papers, proposal letters) coming from audits of taxpayers involved in straddle files. But there was no compiling of information from the various audits into a database containing information regarding ODL . . . or the Hodgins [sic] for example. To the extent the auditor at issue reviewed or relied on any documents from the “shared drive”, copies would be expected to be found in the Audit File. As indicated, no such documents appear to be part of the Audit File at issue.
+[9] The Respondent’s February 21, 2020 “additional arguments” are:
+The auditor did not have access to the shared drive referred to in the January 31, 2018 answer. This question seeks information beyond what was relied on by the auditor. The question is irrelevant and constitutes improper follow-up. The request for information that was not relied on by the auditor falls outside of the scope of the initial request which was for documents relied on by the auditor. The request for all documents regarding ODL, John Hodgins or Tim Hodgins is also overly broad and would be an onerous task to satisfy.
+[10] There is a plethora of jurisprudence from this Court noting jurisprudence governing the legal propriety of discovery examination questions. What is abundantly clear is that relevance to any of the matters in issue between the parties is the fundamental test. That test is quite broader than simply asking whether the CRA auditor happened to have viewed a particular document. Her Majesty the Queen (in right of Canada) is the respondent - not the CRA auditor. What is pertinent is what is in Her Majesty’s - not the auditor’s - possession, authority or control that relates to any of the matters in issue. Further, at this motions stage, well prior to the actual hearing stage of these appeals, relevance is to be construed particularly broadly.
+[11] Regarding whether Question 1 is an appropriate further follow-up question, I note from Exhibit “E” of the Doreen Prasad affidavit sworn January 13, 2020, that Undertaking 12 that commenced this sequence was the Respondent’s undertaking, “To produce any previous audit work or documentation relied upon by [the auditor] Mr. Lila in determining that trades were a sham.” Subsequently, the first follow-up question was preceded with the statement, “The answer to undertaking 12 does not appear to be fully responsive to the question posed. In short, counsel asked for any audit work or documentation that had been performed or gathered on this or other files involving ODL Securities Ltd. . . . to the extent that the auditor reviewed and relied on same in the course of this audit.”
+[12] This description of Undertaking 12 as inclusive of files involving ODL, no doubt because of the “sham” reference in the undertaking, drew no criticism or objection from the Respondent in dealing with the first follow-up question being, “1. Did the auditor review any other documents from audits or audit work conducted on files involving ODL? If yes please produce all such documents.” The Respondent’s response to this was simply, “The Audit File does not contain any documentation [re] files involving ODL.” Consequently, I consider that this further follow-up question, being Question 1, logically flows from the previous questions insofar as it continues the questions regarding production of OPD related documentation in the possession of CRA if not the auditor himself.
+[13] Lastly regarding Question 1, the Respondent has asserted that it is “overly broad and would be an onerous task to satisfy”. No particulars were provided to support these assertions. It is not apparent from Question 1 itself that such should be so. My view is that otherwise acceptable discovery questions should be answered unless evidence makes apparent that the work to generate the answer clearly would be excessive.
+[14] In conclusion regarding Question 1, the Respondent is directed to make full answer.
+[15] Question 2 that the Respondent has declined to answer, is:
+In general, we note that the audit file provided appears as though it may not be complete. Please conform that you have provided us with the complete audit file with respect to the appellants, including any electronic portion of the file or communications and, if you have not done so, please provide us with those documents.
+[16] The Respondent’s answer provided January 31, 2018 is:
+To the best of our knowledge, we have provided a complete audit file. We have nothing further to add, expect to ask what exactly would lead to the conclusion that the audit file appears as though it may not be complete?
+[17] The Respondent’s February 21, 2020 “additional arguments” are:
+The appellants have not provided any indication as to why they take the position that the audit file is not complete. The respondent has produced all documents relied on by the auditor.
+[18] In response I direct the Respondent to take all reasonable steps to ensure the audit file copy provided to the Applicants is as complete as possible. In this regard I understand the Respondent provided the Applicants a CD electronically holding the complete contents of the audit file.
+[19] However, I understand also from paragraph 26(c) of the Applicants’ reply submissions that “CRA destroyed all of [the auditor] Mr. Lila’s emails regarding this audit.” Thus the audit file as produced is incomplete in this significant respect.
+[20] Consequently, I direct further that Question 2 should be responded to in the following fashion, if and to the extent not already done. The Respondent should make all reasonable efforts to locate or generate copies of the destroyed emails and produce same to the Applicants, as part of the requested copy of the audit file. These reasonable efforts would include, but not necessarily be restricted to, the searching of relevant CRA computer servers to generate copies of any such emails and provide any such copies to the Applicants. As well, likely CRA recipients and originators of relevant emails from and to the auditor, including team leaders and CRA head office personnel, should be identified and contacted to ascertain if they have (and if so provide to the Applicants) copies of relevant email correspondence. I anticipate but do not know with certainty whether at least some such reasonable efforts already have been expended.
+[21] Question 3 to be considered, that the Respondent declined to answer, is:
+Please provide us with a copy of the documents maintained on the shared drive.
+[22] To this, Respondent’s January 31, 2018 response is:
+See our previous response. We have nothing further to add to it. This is a fishing expedition. There is no indication that any of the requested material was considered by anyone involved in the Appellant’s [sic] audit.
+[23] The Respondent’s February 21, 2020 “additional arguments” are:
+The auditor did not have access to the shared drive referred to in the January 31, 2018 answer. This question seeks information beyond what was relied on by the auditor. The question is irrelevant and constitutes improper follow-up. The request for information that was not relied on by the auditor falls outside of the scope of the initial request which was for a copy of the RSD Report.
+[24] I find that Question 3 should be answered by the Respondent. The contents of the shared drive that are at all relevant to any of the matters in issue, including but not limited to anything referencing or concerning ODL and either or either of the Hodginses should be disclosed to the Applicants. See comments above regarding relevance of Question 1, which apply equally here.
+[25] Further, as noted above, what the auditor looked at or did not look at is not determinative of relevance. As well expressed in Paletta, supra, para. 22, the CRA auditor is not “the gatekeeper” as to what documents should be produced. I add in this regard that typically it is not the auditor that decides the audit position anyway. The auditor’s recommended audit position normally is referred to his/her Audit team leader for approval – particularly where as here the tax issue is not a usual one. And who knows what other CRA officer(s) if any the team leader may consult in deciding whether to approve. Further, where a notice of objection is being responded to, it is a CRA Appeals officer that will review the audit position. And in turn that officer typically will refer his/her recommendation to his/her Appeals team leader. And again who knows what other CRA person(s) if any that team leader may consult in deciding whether to approve. Thus the idea that disclosure should start and end with the auditor’s work is quite unfounded, both legally and sensibly.
+[26] Question 4, that the Respondent declined to answer, is:
+In preparing his position paper regarding the appellants, did the auditor have access to a position paper guideline prepared by David LeBlanc out of the Edmonton TSO, working papers or position papers prepared by auditors on other files involving ODL or Tim and John Hodgins, or a lengthy foreign exchange position paper prepared by the Vancouver TSO? Please provide these documents to the extent they are not part of the shared drive.
+[27] To this, the Respondent’s January 31, 2018 response is:
+We imagine the auditor might have had access to his colleagues’ position papers; however, there is nothing to indicate that he ever actually accessed any of them or looked at them, much less relied on them. There is no indication that any of the requested material was considered by anyone involved in the Appellants’ audit.
+[28] The Respondent’s February 21, 2020 “additional arguments” are:
+The respondent has produced all documents reviewed or relied upon by the auditor. Specifically, the auditor did not have access to a position paper prepared by David LeBlanc. The request for all documents ODL, John Hodgins or Tim Hodgins is also overly broad and would be an onerous task to satisfy.
+[29] Question 4 should be responded to by the Respondent providing a copy of the David LeBlanc position paper to the Applicants. My comments respecting Questions 1 and 3 apply equally here.
+[30] Question 5, that the Respondent declined to answer, is:
+With respect to your Answers 5(a)(ii), 5(b)(ii), 5(c)(ii) and 5(d)(ii), the questions posed are relevant and the RSD report was plainly relied on by CRA and the auditor in issuing the reassessments at issue in these appeals. What is irrelevant is whether the respondent now intends to rely upon the RSD Report. Please answer the questions posed.
+#5(a)(ii) Does the respondent disagree with the answer provided by RSD? If so what are all of the reasons why the respondent disagrees?
+#5(b)(ii) Does the respondent agree with RSD’ response that ODL was able to act as a broker and counterparts in the context of the [FCF] contract trading being examined in the Report? If not, what are all of the reasons why the respondent disagrees?
+#5(c)(ii) Does the respondent agree with RSD’s response? If not, what are all the reasons why not?
+#5(d)(ii) Does the respondent disagree with the answer provided by RSD? If so, what are all of the reasons why the respondent disagrees?
+[31] Respondent’s answer to each of the above questions #5(a)(ii), 5(b)(ii), 5(c)(ii) and 5(d)(ii) is:
+The respondent does not intend to rely on the RSD Report. Further, the Report does not deal with the transactions at issue in the within appeals. The respondent’s position on whether it agrees with any of the conclusions in the Report is thus irrelevant. The respondent’s position on the trades in issue in the within matters is as set out in the Reply’s [sic] to the Notices of Appeal and was given at discovery.
+[32] The Respondent’s February 21, 2020 “additional arguments” are:
+RSD Solutions Inc. prepared the Report in the factual context of other transactions and other taxpayers. The questions asked about the Report in follow-up are improper.
+[33] The Applicants in their reply submissions (para. 22) reflect that the auditor Mr. Lila testified in cross-examination on his affidavit that he had included excerpts of the RSD Report in his audit position paper, and that it corroborated the arguments he (Mr. Lila) was making. He agreed also that the Report, “dealt with trading that’s similar to what [he was] dealing with in [his] audit.” Also he concurred that the Report, “dealt with…either or both of ODL and the Hodginses as well, is that right?”
+[34] These responses of the auditor, Mr. Lila, quite well demonstrate the relevance of the RSD Report and of the questions relating thereto (#5(a)(ii) through #5(d)(ii) above), posed by the Applicants. The Respondent is directed to fully answer those four follow-up questions comprising Question 5.
+[35] Question 6, that the Respondent declined to answer, is (#18(3)):
+Aside from information or documents already provided, please provide any information or documents received by CRA in respect of this audit or the related [FCF] forward trading audits, regarding whether the trading activities undertaken by ODL, Tim or John Hodgins were a sham or regarding whether the [FCF] trading contracts were legally effective.
+[36] The Respondent’s January 31, 2018 answer is:
+All documents received by the CRA in respect of this audit that we are aware of have been produced. This is a fishing expedition. There is nothing in the file to indicate that the auditor ever reviewed any other audit, any issues relating to ODL, Tim or John Hodgins or any other file regarding whether the [FCF] trading contracts were legally effective.
+[37] The Respondent’s February 21, 2020 “additional arguments” are:
+The auditor did not rely on any documents outside of those already produced. This question seeks information beyond what was relied on by the auditor. The question is irrelevant and constitutes improper follow-up. A request for information that was not relied on by the auditor falls outside the scope of the initial request which was for a copy of the Report. The request for all documents regarding ODL, John Hodgins or Tim Hodgins is also overly broad and would be an enormous task to satisfy.
+[38] The Appellants, at para. 15 of their reply submissions, urge:
+The information and documents requested by the [appellants] involve ODL and trading in FCF contracts, both of which were at issue in Paletta [v. Canada, 2017 TCC 233]. Relevance, not reliance, is the deciding factor with respect to disclosure, and there are no material differences between the present appeals and the Paletta case. It follows that the respondent should be ordered to produce the information and documents requested by the [appellants], in line with what the Court ordered the respondent to do in Paletta.
+[39] The Respondent argues that the CRA auditor never looked at the requested documents, and so those documents are not susceptible to production. I disagree that absent reliance the sought documentation need not be disclosed. Relevance is the determining factor, and jurisprudence indicates relevance is to be construed broadly, particularly at this early interlocutory stage of the underlying appeals. The Respondent seems not to be asserting that the requested documentation is irrelevant. In any event I consider it to be relevant, at least in the context of this discovery stage.
+[40] As well, as noted above, the auditor’s emails in this audit were “destroyed” by CRA – negating a primary indicator as to what information including documentation the auditor actually may have considered in the course of his audit work.
+[41] I conclude respecting Question 6 that the documentation requested thereby should be produced, to the extent not produced already in accordance with any of the above directions for production.
+[42] Question 7, that the Respondent declined to answer, is (#21(1)(b)):
+Please provide any documents or information in possession of the respondent from ODL, John or Tim Hodgins regarding foreign currency trading audits undertaken by CRA, other than trading statements or account opening statements.
+[43] The Respondent’s January 31, 2018 response is:
+This is a fishing expedition. The documents or information you are requesting, if it exits, would not have been prepared in the context of the audit of the appellants and there is nothing to suggest that the auditor considered any document or information such as what is described. There is no indication that any of the requested material was considered by anyone involved in the appellants’ audit.
+[44] The Respondent’s February 21, 2020 “additional arguments” are:
+The auditor did not rely on any documents outside of those already produced. This question seeks information beyond what was relied on by the auditor. The question is irrelevant and constitutes improper follow-up. The request for information that was not relied on by the auditor falls outside of the scope of the initial request which was for documents relating to an interview with ODL. The request for all documents regarding ODL, John Hodgins or Tim Hodgins is also overly broad and would be an onerous task to satisfy.
+[45] As stated and restated above, the test is relevance - not what the auditor may or may not have looked at. The requested documentation, to the extent same is within the possession, authority or control of Her Majesty, is quite relevant, particularly at this stage, insofar as the Applicants may thereby be informed as to what the Respondent knows of ODL and the Hodginses, being central players in the sham asserted by the Respondent against the Applicants. It is not obvious why answering this question, focused on ODL, et al., should be an unduly onerous exercise.
+[46] Accordingly, I direct that the Respondent fully answer Question 7.
+[47] Question 8, that the Respondent declined to answer, is (#21(1)(c)):
+Please provide any position papers or proposal letters in respect of audits involving foreign currency trading in ODL, John or Tim Hodgins.
+[48] The Respondent’s January 31, 2018 response is:
+This is a fishing expedition. The documents or information you are requesting, if it exits, would not have been prepared in the context of the audit of the appellants and there is nothing to suggest that the auditor considered any document or information such as what is described. There is no indication that any of the requested material was considered by anyone involved in the appellants’ audit.
+[49] The Respondent’s February 21, 2020 “additional arguments” are:
+The auditor did not rely on any documents outside of those already produced. This question seeks information beyond what was relied on by the auditor. The question is irrelevant and constitutes improper follow-up. The request for information that was not relied on by the auditor falls outside of the scope of the initial request which was for documents relating to an interview with ODL. The request for all documents regarding ODL, John Hodgins or Tim Hodgins is also overly broad and would be an onerous task to satisfy.
+[50] I am not prepared to agree that Question 8 is an appropriate question. What may have been proposed to other taxpayers as to ODL – related transactions would at best be of negligible relevance to the Applicants. While as a matter of legal principle the Minister of National Revenue is required to treat equal situations equally, the jurisprudence also is clear that how one taxpayer was assessed is irrelevant for purposes of another taxpayer challenging an assessment based on the same factual matrix or one without significant difference. I will direct that the Respondent is not required to answer Question 8.
+Signed at Halifax, Nova Scotia, this 26th day of February 2021.
+“B. Russell”
+Russell J.
+CITATION:
+2021 TCC 15
+COURT FILE NOS.:
+2014-2393(IT)G, 2014-2395(IT)G,
+2014-2398(IT)G and 2014-2399(IT)G
+STYLES OF CAUSE:
+THOMPSON BROS. (CONSTR.) LTD. v. THE QUEEN
+LARRY THOMPSON v. THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+September 10, 2020
+REASONS FOR ORDER BY:
+The Honourable Justice B. Russell
+DATE OF ORDER:
+February 26, 2021
+APPEARANCES:
+Counsel for the Applicants:
+Robert Neilson and Jeremy Comeau
+Counsel for the Respondent:
+Ron Wilhem, Shannon Fenrich, Eric Brown and Jamie Hansen
+COUNSEL OF RECORD:
+For the Applicants:
+Name:
+Robert Neilson
+Firm:
+Felesky Flynn LLP
+Edmonton, Alberta
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,205 @@
+---
+title: "Murphy c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29946/index.do"
+last_modified: "2010-08-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 434"
+citation2: ""
+neutral_citation: "2010 CCI 434"
+decision_date: "2010-08-20"
+language: "fr"
+item_id: "29946"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6492
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:39:14.333000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "68b39b339bfc518e8b86a85730b81968335facfad9f4aff2ba604107b94138c6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Murphy c. La Reine
+
+- Citation: 2010 CCI 434
+- Decision date: 2010-08-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6492, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Murphy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-08-20
+Référence neutre
+2010 CCI 434
+Numéro de dossier
+2009-2427(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2427(IT)I
+ENTRE :
+EDWARD MURPHY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 mai 2010 à Ottawa (Ontario).
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Antoine Lamarre
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est accueilli, avec dépens, le cas échéant, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant a droit à la déduction d’un montant supplémentaire de 2 002 $ à titre de frais médicaux qu’il a engagés pour son épouse relativement à des traitements d’acupuncture.
+Signé à Ottawa, Canada, ce 20e jour d’août 2010.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 7e jour d’octobre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 434
+Date : 20100820
+Dossier : 2009-2427(IT)I
+ENTRE :
+EDWARD MURPHY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s’agit d’un appel interjeté à l’encontre d’une cotisation établie par le ministre du Revenu national (le « ministre ») par laquelle le ministre refusait à l’appelant la déduction d’environ 2 000 $ de frais médicaux relatifs à des traitements d’acupuncture pour l’année d’imposition 2007 de l’appelant.
+[2] Le ministre a conclu que les frais payés par l’appelant pour les traitements d’acupuncture fournis à sa femme (Cathy MacKechnie) n’avaient pas été payés à une personne ou à une organisation autorisée à exercer dans la province d’Ontario au sens des alinéas 118.2(2)a) et 118.4(2)a) de la Loi de l’impôt sur le revenu (la « Loi »)[1].
+Les faits
+[3] L’appelant a fait la déclaration incontestée suivante, au paragraphe 2 de l’avis d’appel :
+[traduction]
+2. Ma femme a reçu des traitements d’acupuncture dans le cadre de longs traitements contre la stérilité. Heureusement, ces traitements ont finalement abouti à la naissance de notre fille. L’introduction de l’acupuncture dans le processus de traitement a été (du moins à notre avis) un facteur décisif qui a transformé des mois d’échec en un succès (la grossesse). Les traitements d’acupuncture étaient fournis par l’acupuncteur affilié au Centre de fertilité d’Ottawa, Steve Ryu. Ce dernier est un acupuncteur agréé (N.Y.), et est membre de la Canadian Society of Chinese Medicine and Acupuncture.
+[4] L’issue du présent appel dépend de la question de savoir si un acupuncteur en Ontario est un « médecin » au sens de la Loi. La preuve n’était pas contestée. L’appelant, qui est avocat, et Antoine Lamarre, avocat de l’intimée, ont présenté une argumentation détaillée. Les observations des parties sont résumées ci‑après.
+Position de l’appelant
+[5] La question consiste à savoir si un acupuncteur qui exerçait en Ontario en 2007 était à ce moment‑là un « médecin » au sens de la Loi. Deux critères doivent être pris en compte. Premièrement, les frais dont la déduction est demandée doivent avoir été engagés relativement à des services médicaux fournis par un médecin autorisé à exercer en Ontario. Deuxièmement, il faut répondre à la question de savoir si la profession d’acupuncteur est reconnue par les lois de l’Ontario.
+[6] L’appelant soutient que le paragraphe 27(1) de la Loi de 1991 sur les professions de la santé réglementées[2], (ci‑après appelée la « LPSR ») prévoit que « nul ne doit accomplir un des actes autorisés [...] », mais que l’article 8 du Controlled Acts, Règlement de l’Ontario 107/96 (le « Règlement ») soustrait l’acupuncture à l’application de cette restriction. En 2007, les acupuncteurs étaient légalement autorisés à travailler en Ontario (Loi de 2006 sur les praticiens en médecine traditionnelle chinoise). Dans l’arrêt Couture c. Sa Majesté la Reine[3], le juge Boyle, de la Cour, a conclu que l’abrogation des dispositions interdisant l’exercice de l’acupuncture constituait une étape réglementaire en vue d’autoriser l’exercice de l’acupuncture, par le fait de la reconnaissance officielle de cette dernière en tant que discipline régie par les lois de l’Ontario[4]. La Cour d’appel fédérale[5] (ci‑après la « CAF ») a infirmé cette décision lorsqu’elle a conclu que l’abrogation des dispositions interdisant l’exercice de l’acupuncture ne constitue pas une reconnaissance officielle ou une autorisation.
+[7] L’espèce peut être distinguée de l’affaire sur laquelle s’était penchée la CAF en ce sens que, pour cette dernière, l’appel portait sur les années d’imposition 2003 et 2004. En l’espèce, l’appel porte sur l’année d’imposition 2007, et, en 2006, la Loi de 2006 sur les praticiens en médecine traditionnelle chinoise[6] (ci‑après la « LPMTC ») a été adoptée en Ontario[7]. L’appelant a cité le Hansard pour justifier que les traitements médicaux fondés sur l’acupuncture constituent une partie importante de notre système de soins de santé.[8]
+[8] L’appelant ajoute que la LPMTC comporte des dispositions de fond qui ne sont pas encore en vigueur et qui présideraient à la réglementation de la profession et au fonctionnement d’un ordre régissant la profession. Et pourtant, la CAF a déclaré dans Couture[9]que la question est de savoir si l’acupuncture a bénéficié d’une reconnaissance officielle à titre de discipline régie par les lois de la province, à savoir la LPMTC. Cette reconnaissance officielle a eu lieu parce que l’Ontario a mis sur pied un cadre législatif. Au paragraphe 13 de l’arrêt Couture, le juge Ryer mentionne que le verbe « autoriser » signifie accorder une autorisation formelle ou approuver formellement. Par contre, si une réglementation sur le fond était une condition préalable, la CAF l’aurait dit. L’Assemblée législative a mis sur pied une fondation pour la création d’un ordre professionnel, en vue d’arriver à une reconnaissance officielle.
+Les observations de l’intimée
+[9] En 2007, un professionnel de la santé en Ontario était une personne autorisée à exercer sa profession par la législation applicable là où elle rendait ses services.
+[10] L’intimée soutient que, dans Couture, la CAF exige aux paragraphes 13 et 14 l’existence d’une certaine autorisation formelle de l’acupuncture, laquelle autorisation doit aller au delà de la dispense accordée à l’article 8 du Règlement à l’application des dispositions interdisant l’exercice de l’acupuncture au titre de l’article 27(1) de la Loi de 1991 sur les professions de la santé réglementées. Pour être autorisé à exercer, l’acupuncteur doit être membre de l’Ordre des praticiens en médecine traditionnelle chinoise et des acupuncteurs de l’Ontario (l’« Ordre ») conformément aux articles 4 et 8 de la LPMTC dont une des dispositions abroge l’article 8 du Règlement, lequel soustrait l’acupuncture à l’application des dispositions interdisant l’exercice de l’acupuncture au titre de l’article 27(1). Cet article n’était pas non plus en vigueur en 2007, de sorte qu’au cours de cette année‑là, la dispense à l’application des dispositions interdisant l’exercice de l’acupuncture était applicable, mais l’autorisation d’exercer au titre de la LPMTC n’existait pas.
+Analyse
+[11] La position de l’appelant repose essentiellement sur le fait qu’après la décision de la CAF dans Couture, les choses ont changé. La LPMTC a été édictée afin de conférer une reconnaissance légale à l’acupuncture en tant que discipline. Les dispositions de fond de la LPMTC ne sont pas encore en vigueur, mais tout ce qui était exigé, c’était que le législateur édicte la LPMTC, ce qui a été fait lorsque la sanction royale a été accordée au mois de décembre 2009.
+[12] Le point central de la position de l’intimée réside dans le fait que les dispositions de la LPMTC ne sont pas toutes en vigueur et que ce n’est qu’au moment où elles le seront toutes que l’interdiction et toutes les dispenses correspondantes disparaîtront pour être remplacées par une autorisation d’exercer l’acupuncture.
+[13] Les deux parties ont mis l’accent sur le fait qu’il fallait se fonder sur l’arrêt Couture de la CAF. Je suis redevable au juge Boyle de la Cour canadienne de l’impôt et au juge Ryer de la Cour d’appel fédérale, respectivement, pour leurs analyses. Le juge Boyle, dont la décision a été infirmée par le juge Ryer, a eu à trancher la même question que celle en l’espèce, mais pour les années d’imposition 2003 et 2004.
+[14] D’entrée de jeu, il convient de citer l’article 27 de la Loi de 1991 sur les professions de la santé réglementées [10], et les dispositions pertinentes sont ainsi rédigées :
+Restrictions relatives aux actes autorisés
+27(1) Lorsqu’il donne des soins médicaux à un particulier, nul ne doit accomplir un des actes autorisés visés au paragraphe (2) sauf dans les cas suivants :
+a) il est membre autorisé à accomplir cet acte par une loi sur une profession de la santé;
+[…]
+27(2) Par « acte autorisé », on entend [...]
+2. La pratique d’interventions sur le tissu situé sous le derme […]
+[15] L’article 27 interdit effectivement l’exercice de l’acupuncture, mais l’article 8 du Règlement soustrait l’acupuncture à l’application de l’article 27. La question consiste à savoir si cette dispense suffit pour conclure qu’un acupuncteur était autorisé en 2007 à exercer en Ontario, et s’il a été satisfait aux exigences de l’alinéa 118.4a) de la Loi, dont voici le libellé :
+118.4(2) Tout audiologiste, dentiste, ergothérapeute, infirmier, infirmière, médecin, médecin en titre, optométriste, orthophoniste, pharmacien, physiothérapeute ou psychologue visé aux articles 63, 64, 118.2, 118.3 et 118.6 doit être autorisé à exercer sa profession :
+a) par la législation applicable là où il rend ses services, s’il est question de services;
+b) [...]
+[16] Le juge Ryer de la CAF a conclu, au sujet de l’appel formé contre la décision du juge Boyle dans Couture[11], que l’abrogation des dispositions interdisant l’exercice de l’acupuncture en Ontario n’équivaut pas à une autorisation d’exercer l’acupuncture en Ontario, au sens de l’alinéa 118.4(2)a) de la Loi.
+[17] Le juge Ryer a déclaré ce qui suit aux paragraphes 13, 15 et 16 de l’arrêt Couture[12] :
+[13] D’après chacune de ces définitions, « autoriser » peut signifier [traduction] « accorder une autorisation formelle » ou [traduction] « approuver formellement ». Je suis d’avis que ces sens s’appliquent en ce qui concerne l’interprétation à donner aux mots « autorisé à exercer » au paragraphe 118.4(2). Il faut donc démontrer que l’acupuncture revêt un certain caractère formel ou bénéficie d’une reconnaissance officielle à titre de discipline accréditée sous le régime des lois de l’Ontario.
+[15] La Couronne soutient qu’une approbation législative particulière et que la réglementation d’un domaine particulier d’une pratique ou d’une profession, en l’occurrence l’acupuncture, sont requis pour démontrer que cette pratique est autorisée par la législation applicable. À l’appui de cet argument, la Couronne cite un passage de la décision Noddin, où le juge Bowie déclare au paragraphe 8 :
+À coup sûr, l’objectif politique veut que le crédit soit accordé uniquement s’il existe une garantie de compétence légiférée en ce qui concerne la personne qui fournit le service.
+[16] Je suis d’avis que le degré d’autorisation législative invoqué par la Couronne serait clairement suffisant pour démontrer l’autorisation législative requise. Cependant, je n’écarterais pas la possibilité qu’un degré différent puisse être suffisant dans d’autres circonstances. En l’espèce, la seule mention de l’acupuncture dans les textes de loi se trouve dans le Controlled Acts Regulations où il est précisé qu’il s’agit d’un exercice qui n’est plus interdit. Comme je l’ai dit précédemment, je suis d’avis que cette seule mention dans un texte de loi ne suffit pas pour établir que la pratique de l’acupuncture a été formellement approuvée par la législation applicable en Ontario en 2003 et en 2004.
+[Non souligné dans l’original.]
+[18] Les règles de droit relatives à l’exercice de l’acupuncture en Ontario ont changé après 2004 lorsque la LPMTC a été adoptée. L’exigence d’une reconnaissance juridique officielle de l’acupuncture en tant que discipline médicale a été admise depuis lors.
+[19] L’intention du législateur ontarien a été exprimée par le ministre de la Santé et des Soins de longue durée en ces termes[13] :
+[traduction]
+Par conséquent, il est aujourd’hui opportun pour l’assemblée législative de l’Ontario d’aller de l’avant en tant que deuxième province au Canada, et incontestablement l’une des rares, et de déclarer que nous créerons les circonstances nécessaires pour permettre à l’Ordre des praticiens en médecine traditionnelle chinoise et des acupuncteurs de l’Ontario de voir le jour, en lui conférant une reconnaissance juridique officielle prouvant aux membres de la population de l’Ontario que nous avons compris le message qu’ils nous ont adressé en grand nombre.
+[Non souligné dans l’original.][14]
+[20] Je reconnais que certaines dispositions de la LPMTC n’étaient pas en vigueur au cours de l’année d’imposition 2007, notamment les articles 4, 5, 6, 8 et 19. L’article 4 autorise les membres de l’Ordre à exercer l’acupuncture. L’article 5 crée l’Ordre. L’article 8 interdit l’exercice de l’acupuncture par quiconque n’est pas membre de l’Ordre. Compte tenu du fait que ces dispositions n’étaient pas en vigueur, l’intimée soutient qu’en 2007, il n’y avait pas eu création d’un ordre, et que, par conséquent, il n’y avait pas de membres, et comme il faut être membre pour exercer l’acupuncture, personne n’était autorisé à exercer l’acupuncture en Ontario au cours de cette année‑là. L’intimée a conclu que les acupuncteurs n’étaient pas « autorisés » à exercer en Ontario au sens du terme « autorisé » à l’alinéa 118.4(2)a) de la Loi. Je rejette cette opinion et cette conclusion car elles sont contraires à la réalité actuelle. Je prends connaissance d’office du fait que l’acceptation de l’acupuncture par la population de l’Ontario est un phénomène en croissance. En ce qui concerne l’usage courant des termes, un acupuncteur est un « médecin », mais, bien entendu, pas un médecin en titre ou un chirurgien.
+[21] Je tiens à souligner que l’article 13 de la LPMTC était en vigueur et avait permis la constitution d’un conseil transitoire doté de pouvoirs étendus.
+Transition avant l’entrée en vigueur de certaines dispositions
+13(1) Le lieutenant-gouverneur en conseil peut constituer un conseil transitoire.
+Registrateur
+13(2) Le lieutenant-gouverneur en conseil peut nommer un registrateur qui peut faire tout ce que peut faire le registrateur en vertu de la Loi de 1991 sur les professions de la santé réglementées.
+Pouvoirs du conseil transitoire et du registrateur
+13(3) Avant l’entrée en vigueur de l’article 6, le registrateur ainsi que le conseil transitoire et ses employés et comités peuvent faire tout ce qui est nécessaire ou souhaitable pour la mise en oeuvre de la présente loi et tout ce que le registrateur ainsi que le conseil et ses employés et comités pourraient faire en vertu de la présente loi.
+[22] L’intimée soutient que l’article 19(1) de la LPMTC[15] (qui abroge l’article 8 du Règlement, lequel comporte une dispense à l’application de la règle d’interdiction prévue à l’article 27(1) de la LPSR) n’était pas en vigueur en 2007, de sorte que la dispense à l’application des dispositions interdisant l’exercice de l’acupuncture au titre de l’article 27 était toujours applicable, mais l’autorisation d’exercice au titre de la LPMTC ne l’était pas. Je ne souscris pas à cet argument. L’abrogation des dispositions interdisant l’exercice de l’acupuncture, par application de la LPSR et du Règlement, et l’autorisation, au titre de la LPMTC, peuvent être applicables simultanément et de façon harmonieuse. Elles ne sont pas incompatibles. En outre, alors que le paragraphe 19(1), s’il était en vigueur, supprimerait la dispense à l’application des dispositions interdisant l’exercice de l’acupuncture, le paragraphe 19(2), qui n’était pas non plus en vigueur à ce moment‑là, aurait ajouté à nouveau la dispense à l’application des dispositions interdisant l’exercice de l’acupuncture dans un tableau du Règlement. En bref, l’article 19 est de nul effet et s’il était en vigueur, la dispense à l’application des dispositions interdisant l’exercice de l’acupuncture subsisterait à côté de l’autorisation accordée par la LPMTC.
+[23] Si le législateur et la CAF avaient voulu qu’un règlement ultérieur relatif aux acupuncteurs entre en vigueur, ils l’auraient précisé.
+Conclusion
+[24] J’accepte la position de l’appelant. La CAF a défini le terme « autoriser ». Le terme « autoriser » exige que l’acupuncture bénéficie d’une reconnaissance officielle à titre de discipline accréditée sous le régime des lois de l’Ontario. La reconnaissance officielle doit aller au delà d’une simple dispense de l’application des règles interdisant l’exercice de l’acupuncture, mais elle ne doit pas nécessairement être exprimée dans un règlement. Le fait que la LPMTC ait reçu la sanction royale et les déclarations contenues dans le Hansard relativement à la LPMTC constituent une reconnaissance officielle suffisante de l’acupuncture en tant que discipline reconnue sous le régime des lois de l’Ontario en 2007, et font en sorte que l’acupuncture répond à la définition du terme « autorisé » que l’on retrouve à l’alinéa 118.4(2)a) de la Loi. J’arrive à cette conclusion nonobstant le fait que toutes les dispositions de la LPMTC n’étaient pas en vigueur en 2007.
+[25] Selon la CAF, il n’était pas essentiel que l’acupuncture soit réglementée pour que les acupuncteurs soient « autorisés » à exercer. Au paragraphe 12 de l’arrêt Couture, le juge Ryer a donné les définitions suivantes du terme « autoriser » : « [a]ccorder une autorisation formelle » ou « [a]pprouver formellement ». Le terme « réglementé » a un sens très différent de celui du terme « autorisé » et exige bien plus qu’une autorisation officielle. The Oxford Paperback Dictionary, nouvelle édition augmentée 1998, que l’appelant a fourni à la Cour, définit le terme « réglementer » comme étant [traduction] « assujettir à des règles ou soumettre à des restrictions ». Si le législateur avait voulu exiger que le « médecin » exerce une profession réglementée pour que le contribuable puisse avoir droit au crédit d’impôt pour frais médicaux, il aurait parlé de l’exercice d’une profession « réglementée » au lieu de la formulation actuelle comportant le terme « autorisé » à l’alinéa 118.4(2)a) de la Loi.
+[26] L’appel est accueilli avec dépens.
+Signé à Ottawa, Canada, ce 20e jour d’août 2010.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 7e jour d’octobre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 434
+NO DU DOSSIER DE LA COUR : 2009-2427(IT)I
+INTITULÉ : Edward Murphy
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 13 mai 2010
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : August 20, 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Antoine Lamarre
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant : s/o
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Réponse à l’avis d’appel.
+[2] L.O. 1991, ch. 18.
+27(1) Lorsqu’il donne des soins médicaux à un particulier, nul ne doit accomplir un des actes autorisés visés au paragraphe (2) sauf dans les cas suivants :
+a) il est membre autorisé à accomplir cet acte par une loi sur une profession de la santé;
+[...]
+27(2) Par « acte autorisé », on entend l’un ou l’autre des actes suivants accomplis à l’égard d’un particulier :
+[...]
+2. La pratique d’interventions sur le tissu situé sous le derme, sous la surface des muqueuses, à la surface de la cornée ou des dents, ou au-delà, y compris le détartrage des dents.
+[3] 2008 CCI 171.
+[4] 2008 CAF 412, au paragraphe 7, le juge Ryer de la CAF a résumé les conclusions du juge Boyle de la manière suivante :
+[7] [...] le juge de la Cour de l’impôt a estimé que la Couronne n’avait pu indiquer quoi que ce soit dans Loi de 1991 sur les professions de la santé réglementées, L.O. 1991, ch. 18, qui interdise la pratique de la médecine traditionnelle chinoise ou de l’acupuncture en 2003 et en 2004, et qu’il n’avait rien pu trouver à ce sujet dans cette loi. Il a de plus déclaré qu’il n’avait rien vu dans la loi qui laissait croire que le professeur Cheung n’était pas autorisé à exercer la médecine traditionnelle chinoise et l’acupuncture en 2003 et en 2004. Enfin, le juge de la Cour de l’impôt a conclu que l’abrogation des dispositions interdisant l’exercice de l’acupuncture au titre d’acte autorisé en vertu du paragraphe 27(1) de la Loi de 1991 sur les professions de la santé réglementées, par l’article 8 du Controlled Acts, O. Reg. 107/96 (Controlled Acts Regulations) signifiait que, pour les années en cause, toute personne était autorisée à pratiquer l’acupuncture en Ontario.
+[5] 2008 CAF 412.
+[6] L.O. 2006, ch. 27.
+[7] Onglet 4 du recueil de documents de l’appelant.
+[8] Onglet 5, à la page 6419 du recueil de documents de l’appelant.
+[traduction]
+L’honorable George Smitherman (Vice‑premier ministre, ministre de la Santé et des Soins de longue durée) s’est ainsi exprimé :
+Je vous remercie. Nous nous réunissons aujourd’hui − l’Assemblée législative de l’Ontario est présente — et nous nous unissons pour reconnaître que la médicine traditionnelle chinoise et l’acupuncture constituent une partie importante de notre système de soins de santé. Notre réaction est une réponse à une réalité bien connue, à savoir que beaucoup de nos électeurs retirent des avantages de ces services.
+[9] Onglets 1 et 2 du recueil de jurisprudence et de doctrine de l’intimée.
+[10] L.O. 1991, ch. 18.
+[11] 2008 CAF 412.
+[12] Ibid.
+[13] Assemblée législative de l’Ontario (Deuxième session, 38e législature) Rapport officiel des débats (Hansard), 23 novembre 2006, à la page 6421.
+[15] 19.(1) le paragraphe 1 de l’article 8 du Règlement de l’Ontario 107/96 (Controlled Acts) pris en vertu de la Loi de 1991 sur les professions de la santé réglementées est abrogé.

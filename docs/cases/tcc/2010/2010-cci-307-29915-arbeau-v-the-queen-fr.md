@@ -1,0 +1,245 @@
+---
+title: "Arbeau v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29915/index.do"
+last_modified: "2010-06-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 307"
+citation2: ""
+neutral_citation: "2010 CCI 307"
+decision_date: "2010-06-04"
+language: "fr"
+item_id: "29915"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6434
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:55:02.934000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3681ef29f494ed79683b61e17910018220cda1ce5d574dc80597388274af8f03"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Arbeau v. The Queen
+
+- Citation: 2010 CCI 307
+- Decision date: 2010-06-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6434, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arbeau v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-04
+Référence neutre
+2010 CCI 307
+Numéro de dossier
+2009-1008(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1008(IT)I
+ENTRE :
+SHAWN A. ARBEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus le 19 avril 2010, à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge Wyman Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Mary Murray
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté par l’appelant à l’égard de la nouvelle cotisation établie pour son année d’imposition 2004 est accueilli, sans dépens, et la question est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant pour acquis que l’appelant a droit à une déduction supplémentaire de 30 $ au titre des frais d’utilisation de la résidence à des fins commerciales dans le calcul de son revenu pour 2004.
+L’appel interjeté par l’appelant à l’égard de la nouvelle cotisation établie pour son année d’imposition 2005 est rejeté, sans dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 4e jour de juin 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 22e jour de juillet 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2010 CCI 307
+Date : 20100604
+Dossier : 2009-1008(IT)I
+ENTRE :
+SHAWN A. ARBEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] En l’espèce, la question principale est de savoir si l’appelant exploitait une seule entreprise ou s’il exploitait deux entreprises distinctes. Cette question découle des déductions demandées par l’appelant au titre de frais d’utilisation de la résidence à des fins commerciales pour 2004 et 2005. Pendant plusieurs années antérieures à 2004, l’appelant avait soutenu pouvoir reporter prospectivement des frais d’utilisation de sa résidence à des fins commerciales dépassant les revenus nets tirés de son entreprise de réparation d’appareils électroniques. L’appelant avait accumulé un montant à reporter prospectivement totalisant 33 941 $ pour les frais d’utilisation de la résidence à des fins commerciales. L’appelant a appliqué ce solde à deux années : 21 062,68 $ pour 2004 et 12 878,32 $ pour 2005. L’appelant soutient qu’il exploitait une seule entreprise et qu’il pouvait donc déduire le montant à reporter prospectivement de ses revenus pour ces années‑là. L’intimée soutient que l’appelant exploitait une entreprise distincte en 2004 et en 2005 et qu’il ne pouvait donc pas déduire le montant à reporter prospectivement pour ces années‑là. L’intimée avait aussi réduit le montant que l’appelant pouvait reporter prospectivement.
+[2] Le paragraphe 18(12) de la Loi de l’impôt sur le revenu (la « Loi ») est ainsi rédigé :
+18(12) Malgré les autres dispositions de la présente loi, dans le calcul du revenu d’un particulier tiré d’une entreprise pour une année d’imposition :
+a) un montant n’est déductible pour la partie d’un établissement domestique autonome où le particulier réside que si cette partie d’établissement :
+(i) soit est son principal lieu d’affaires,
+(ii) soit lui sert exclusivement à tirer un revenu d’une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l’entreprise;
+b) si une partie de l’établissement domestique autonome où le particulier réside est son principal lieu d’affaires ou lui sert exclusivement à tirer un revenu d’une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l’entreprise, le montant déductible pour cette partie d’établissement ne peut dépasser le revenu du particulier tiré de cette entreprise pour l’année, calculé compte non tenu de ce montant et des articles 34.1 et 34.2;
+c) tout montant qui, par le seul effet de l’alinéa b), n’est pas déductible pour une partie d’établissement domestique autonome dans le calcul du revenu d’entreprise du particulier pour l’année d’imposition précédente est déductible dans le calcul du revenu d’entreprise du particulier pour l’année, sous réserve des alinéas a) et b).
+[Non souligné dans l’original.]
+[3] Le montant qu’un particulier peut déduire dans le calcul de son revenu tiré d’une entreprise pour une année donnée relativement à l’utilisation de sa résidence à des fins commerciales ne peut dépasser le revenu tiré par le particulier de l’entreprise exploité au moyen de la résidence. La disposition en question fait référence à cette entreprise, et non pas à une entreprise. Pour avoir le droit d’utiliser le montant à reporter prospectivement, le revenu pour lequel l’appelant demande la déduction du montant à reporter prospectivement doit avoir été tiré de la même entreprise que celle qui était exploitée au moyen de la résidence de l’appelant pendant les années antérieures.
+[4] En 1994, l’appelant a fondé une entreprise de réparation d’appareils électroniques. Il réparait des télévisions (y compris des télévisions ACL et à plasma), des jeux d’arcade, des lecteurs DVD, des appareils audio, des radios, des récepteurs de télévision par satellite, des réfrigérateurs, des cuisinières, des laveuses, des sécheuses, des lave‑vaisselle et d’autres électroménagers. L’appelant réparait une grande variété d’appareils électroniques et d’électroménagers.
+[5] En 2004, l’appelant a commencé à travailler, en sous‑traitance, comme inspecteur de la sécurité publique pour BC Hydro. Le rôle de l’appelant était d’inspecter les poteaux électriques et les lignes de transport d’électricité et de s’assurer qu’il n’y avait pas de problème. Les inspections portaient principalement sur les poteaux électriques et leur structure. Comme l’appelant ne grimpait pas dans les poteaux, il faisait ses tests et ses observations à partir du sol. Il menait divers tests et prenait des photographies. Il lui fallait parfois faire des tests sous le niveau du sol, et, lorsque le poteau électrique était dans un environnement urbain et entouré de béton, il devait employer des outils pour couper le béton. Quand l’appelant découvrait un problème, il communiquait avec BC Hydro et celle‑ci le réglait.
+[6] L’appelant soutient qu’il exploitait une seule entreprise et que les activités qu’il menait à titre d’inspecteur de la sécurité publique faisaient partie de son entreprise de réparation d’appareils électroniques. Il semble n’y avoir aucune jurisprudence portant sur cette question relativement à l’application du paragraphe 18(12) de la Loi. Toutefois, il existe des décisions portant sur la question de savoir si une personne exploitait une seule entreprise ou plus d’une entreprise pour décider si, aux fins des déductions pour amortissement, elle devait conserver des catégories distinctes pour des biens amortissables qui auraient autrement fait partie d’une seule catégorie. Le paragraphe 1101(1) du Règlement de l’impôt sur le revenu (le « Règlement ») est rédigé de la sorte :
+1101(1) Lorsque l’annexe II comporte la description de plus d’un des biens d’un contribuable, sous la même catégorie, et
+a) qu’un des biens a été acquis aux fins de gagner ou de produire le revenu d’une entreprise, et
+b) qu’un des biens a été acquis aux fins de gagner ou de produire le revenu d’une autre entreprise ou des biens,
+une catégorie distincte est prescrite pour les biens qui
+c) ont été acquis aux fins de gagner ou de produire le revenu de chaque entreprise; et
+d) seraient par ailleurs compris dans la catégorie.
+[7] Pour l’application du paragraphe 1101(1) du Règlement, il faut déterminer si une personne exploite une seule entreprise ou si elle exploite au moins deux entreprises distinctes. Dans Du Pont Canada Inc. c. La Reine, 2001 CAF 114, 2001 D.T.C. 5269, [2001] 2 C.T.C. 315, la Cour d’appel fédérale s’est penchée sur la question de savoir si Du Pont Canada Inc. exploitait une seule entreprise ou si elle exploitait deux entreprises distinctes. Au nom de la Cour d’appel fédérale, la juge Sharlow s’est exprimée de la sorte :
+[11] Il n’y a pas de jurisprudence faisant intervenir des faits exactement semblables à ceux de l’espèce ou soulevant précisément la même question. Toutefois, il existe des décisions qui peuvent éclairer de manière générale la façon de déterminer l’existence d’une entreprise distincte. Le jugement le plus couramment cité est Scales (H.M. Inspector of Taxes) v. George Thompson & Company, Limited (1927), 13 T.C. 83, 138 L.T. 331 (Eng. K.B.), qui concernait une entreprise exploitant des navires et engagée aussi dans les assurances. La question était de savoir s’il y avait une entreprise ou deux. Le juge Rowlatt a conclu qu’il y en avait deux. Il a déclaré à la page 89 :
+[traduction] Je ne puis concevoir deux entreprises qui puissent être plus facilement séparées que ces deux-là. À part le fait qu’elles concernent toutes les deux des navires, elles ne dépendent pas l’une de l’autre, elles ne sont pas interdépendantes, elles ne se raccordent pas l’une à l’autre, si ce n’est que les personnes qui en font partie ont des connaissances sur les navires, mais la conduite effective des entreprises n’indique pas que les deux sont raccordées l’une à l’autre. La fin de l’activité d’assurances n’affecterait pas l’exploitation des navires. La fin de l’exploitation des navires n’affecterait pas l’activité d’assurances.
+[...]
+[...] Je pense que la véritable question est de savoir s’il y avait une interdépendance entre ces deux entreprises, s’il y avait une unité quelconque; [...].
+Le dernier énoncé cité est devenu le critère généralement reconnu pour décider si un contribuable exploite une entreprise distincte.
+[12] La décision The Howden Boiler and Armaments Company, Limited v. Stewart (H.M. Inspector of Taxes) (1924), 9 T.C. 204, 1925 S.C. 110 (Scot. Ct. of Sessions) intéresse une société qui exploitait deux usines, l’une de fabrication de chaudières et l’autre de fabrication d’obus pour le gouvernement français au cours de la guerre. Chaque exploitation avait ses propres locaux, ses propres ouvriers, son propre personnel technique et administratif, ses propres livres et ses propres comptes d’exploitation. Toutefois, les deux étaient exploitées par la même direction et étaient réunies dans un même jeu d’états financiers. Les frais de financement et de gestion étaient imputés à la société de manière générale, sans répartition. Il a été décidé que la société constituait une seule entreprise.
+[13] Au Canada, l’arrêt clé est Frankel Corporation Ltd. v. Minister of National Revenue, [1959] S.C.R. 713, [1959] C.T.C. 244, 59 D.T.C. 1161. La société Frankel s’occupait de ferraille, de métaux non ferreux affinés ou non affinés, effectuait des opérations de récupération et de sauvetage, fabriquait de l’acier et construisait des ouvrages en acier. En 1952, elle a vendu à une autre société la division d’affinage des métaux non ferreux, y compris les stocks. La portion du prix de vente attribuée aux stocks était plus élevée que le coût des stocks pour Frankel. Selon la législation de l’impôt sur le revenu alors en vigueur, Frankel n’avait pas d’impôt à payer en raison de la vente s’il s’agissait de la vente d’une entreprise distincte, car dans ce cas la totalité de l’opération serait inscrite à un compte en capital. Si l’opération de vente ne concernait pas une entreprise distincte, Frankel serait assujettie à l’impôt sur le bénéfice découlant de la vente des stocks.
+[14] Un certain nombre de facteurs établissaient la séparation entre les activités d’affinage des métaux non ferreux et les autres activités de Frankel. Les sources d’approvisionnement en matériel et en fournitures étaient distinctes. Les groupes de travailleurs étaient distincts. Les machines étaient distinctes, aménagées dans des locaux distincts de Frankel. Les clients étaient distincts. Il y avait des marques de commerce et des noms commerciaux distincts. La supervision du personnel était distincte. Mais il y avait aussi quelques liens. De faibles quantités de ferraille étaient achetées auprès des activités de sauvetage. Il y avait une certaine intégration de la comptabilité des métaux ferreux et non ferreux. Il y avait un seul conseil d’administration, une seule convention collective pour l’ensemble du personnel et les mêmes régimes de retraite et d’assurances pour tout le personnel. L’établissement final du compte de résultats reflétait les résultats globaux de la société. Quant à l’opération de vente proprement dite, elle comprenait non seulement la cession des stocks, mais également le transfert de l’équipement, le droit d’utiliser les locaux pour une durée déterminée, le transfert de commandes de clients non remplies, le transfert du personnel ainsi que le transfert du nom commercial, de la marque de commerce et du fonds commercial. En outre, l’opération de vente impliquait que Frankel se retirait du commerce de l’affinage des métaux non ferreux. Ayant pris tous ces facteurs en considération, la Cour a conclu en faveur de Frankel que l’activité d’affinage de métaux non ferreux était la vente d’une entreprise distincte, bref une opération en capital.
+[15] Dans l’affaire Utah Co. of the Americas v. Minister of National Revenue, [1960] Ex. Ct. 128, [1959] C.T.C. 496, 59 D.T.C. 1275, la question soulevée était de savoir si le contribuable exploitait une ou deux entreprises, une entreprise minière et une entreprise de construction. Chacune de ces activités était menée de manière indépendante, sous la direction de cadres distincts, mais sous la supervision générale d’un seul conseil d’administration. La comptabilité des deux activités était distincte. Il n’y avait pas de relations fonctionnelles entre les deux activités, elles n’étaient pas interreliées, interdépendantes ou entremêlées. Elles faisaient appel à des procédés différents, elles fournissaient des produits et services différents, avaient des clientèles, des locaux, des conventions collectives et des personnels différents. Les coûts du siège social étaient répartis entre les deux divisions. Parfois, l’équipement d’une division était utilisé par l’autre. La Cour a conclu que le contribuable exploitait deux entreprises distinctes.
+[16] Dans l’arrêt H.A. Roberts Ltd. v. Minister of National Revenue, [1969] S.C.R. 719, [1969] C.T.C. 369, 69 D.T.C. 5249, la question qui se posait était de déterminer si l’activité du contribuable en matière de gestion de créances hypothécaires dans le cadre d’un contrat de mandat constituait une entreprise distincte de son entreprise de courtage immobilier. Le personnel affecté aux deux activités travaillait dans des locaux distincts, sous la direction de cadres différents. L’activité de gestion hypothécaire avait son propre système comptable. Il était interdit au personnel affecté à la gestion hypothécaire d’échanger des renseignements avec ceux qui travaillaient au courtage immobilier. Le seul élément commun était le conseil d’administration. L’arrêt a établi que l’activité de gestion des créances hypothécaires formait une entreprise distincte.
+[17] L’affaire River Estates Sdn Bhd v. Director General of Inland Revenue, [1984] S.T.C. 60 (P.C.) intéressait un appel interjeté à l’encontre de la Cour fédérale de Malaisie. Le contribuable a fait valoir que ses plantations et ses activités d’exploitation forestière sur cinq domaines constituaient une seule entreprise. Les commissaires spéciaux, agissant, semble-t-il, à titre de tribunal de première instance, ont conclu que les activités de déboisement à des fins agricoles formaient une entreprise distincte des activités forestières menées sur les terres qui n’appartenaient pas au contribuable et qui n’étaient pas destinées à l’agriculture. Le Conseil privé a confirmé la décision au motif qu’il s’agissait d’une conclusion raisonnable compte tenu de la preuve.
+[8] Dans Du Pont Canada Inc., la Cour d’appel fédérale a conclu que la société exploitait une seule entreprise. La juge Sharlow a formulé la conclusion de la Cour d’appel de la façon suivante :
+[49] Le juge de la Cour de l’impôt a conclu que les activités de fabrication d’explosifs de Du Pont formaient une entreprise distincte. Elle a résumé sa conclusion en ces termes (aux paragraphes 35 et 36) :
+[35] Les principes énoncés par la Cour suprême du Canada dans les arrêts Frankel et H.A.Roberts Ltd. ne diffèrent pas de ceux qui avaient été énoncés par les tribunaux britanniques dans l’affaire Scales, et mon analyse de ces principes est la suivante : on considérera qu’il y a une seule entreprise lorsqu’il existe une interdépendance telle que l’on peut conclure à l’existence d’une seule entité productive de revenu; on considérera qu’il y a une entreprise distincte lorsque les circonstances sont telles que l’ensemble du processus donnant lieu à la réalisation de profits est bien distinct des autres, malgré le fait que l’entreprise n’aie pas fait l’objet de statuts constitutifs distincts. À mon sens, cette interprétation offre l’avantage d’être conforme au concept d’entreprise au sens de la Loi.
+[36] À mon avis, la preuve indique clairement que la division Explosifs était gérée comme étant en soi une entité productive de revenu : la fabrication, la supervision et l’orientation, la commercialisation, les ventes des produits, le personnel ainsi que la comptabilité relevaient d’un organe central, malgré le fait que certaines règles s’appliquaient de façon générale à toutes les divisions et à certains services. Donc, il s’agissait d’une entreprise distincte de l’appelante.
+[50] Je suis d’accord avec la formulation du critère juridique adoptée par le juge de la Cour de l’impôt. Cependant, je suis d’avis que le juge a [sic] correctement appliqué le critère. Il me semble qu’il a été induit en erreur par une mauvaise compréhension de la preuve relative à la combinaison particulière d’un pouvoir décisionnel à la fois au niveau central et au niveau divisionnel adoptée et pratiquée par Du Pont au cours des années, et par les relations fonctionnelles importantes entre ses activités de fabrication d’explosifs et ses autres activités commerciales. Cette mauvaise compréhension se traduit dans sa description de ces dimensions de l’entreprise de Du Pont, qu’elle qualifie simplement de certaines « règles [qui] s’appliquaient de façon générale à toutes les divisions » et de « certains services [qui] sont centralisés ».
+[51] Une société telle que Du Pont qui fabrique divers produits dans diverses usines a d’innombrables choix en matière d’organisation de ses activités. Elle peut, par exemple, faire de chaque usine une entreprise distincte, autonome, ayant son propre pouvoir décisionnel sur tous les aspects des affaires. C’est le choix fait, par exemple, dans les affaires Scales et H.A. Roberts. Elle peut encore s’organiser comme une seule entreprise, possédant plusieurs divisions n’ayant aucune autonomie ou indépendance, situation où aucune division ne constitue une entreprise distincte. Toutes les positions intermédiaires sont également possibles, les divisions étant autonomes pour certains aspects de leur exploitation mais non pour les autres.
+[52] Du Pont a choisi une position intermédiaire. Cela étant posé, la question à trancher est de savoir, compte tenu de l’organisation adoptée par Du Pont pour ses affaires, si les dimensions de ses activités typiques d’une entreprise unique intégrée sont plus importantes que les dimensions caractérisant des entreprises distinctes.
+[53] Les indicateurs les plus importants de l’intégration sont ici la centralisation du financement, de la gestion du crédit et des achats ainsi que les installations de recherche communes. Le revers de cette médaille est l’absence d’autonomie de l’usine d’explosifs de Nipissing à l’égard de ces fonctions commerciales fondamentales. Ces faits distinguent la présente affaire de la jurisprudence établie dans les jugements Frankel, Utah Co. et H.A. Roberts, qui avaient conclu à l’existence d’entreprises distinctes.
+[54] Autre fait important, le nom commercial et les marques de commerce de Du Pont ont toujours été utilisés pour tous les produits de Du Pont, mais ont cessé de l’être pour les explosifs produits à l’usine de Nipissing après la vente. Dans l’arrêt Frankel au contraire, l’existence d’une entreprise distincte a été établie, le nom commercial et la marque de commerce ayant été cédés avec l’usine.
+[55] Un autre fait distingue l’espèce des affaires Frankel, Utah Co. et H.A. Roberts. Il s’agit du degré d’intégration des produits attesté par la pratique des ventes croisées. La division des explosifs en particulier avait des clients en commun avec d’autres usines de Du Pont et leur vendait des produits qui n’étaient pas fabriqués à l’usine de Nipissing. C’est là un résultat naturel et prévisible de la stratégie générale d’entreprise de Du Pont, décrite ci-dessus.
+[56] Certains facteurs séparaient les activités de fabrication d’explosifs du reste des affaires de Du Pont. Ainsi, l’usine de Nipissing était matériellement séparée des autres activités de Du Pont, ce qui séparait naturellement la plupart de ses employés des autres, sauf de ceux de Mississauga et de Kingston qui fournissaient des services destinés à la fabrication des explosifs. Cependant, je ne puis conclure à partir des faits en l’espèce que ces indicateurs de séparation sont suffisants pour l’emporter sur les nombreux indicateurs importants attestant que Du Pont exploite une seule entreprise intégrée.
+[57] La Couronne s’appuie sur la présence du « fonds commercial » parmi les actifs vendus pour soutenir que les actifs vendus doivent constituer une entreprise autonome parce que, dans le cas contraire, il n’y aurait pas de fonds commercial à céder. Cette position contredit la déclaration de l’acheteur qui reconnaît qu’il n’acquiert pas la totalité des actifs nécessaires à une entreprise de fabrication d’explosifs. À mon avis, la Couronne veut accorder beaucoup trop d’importance à une disposition type qui, dans les circonstances, s’explique suffisamment par la cession d’actifs incorporels tels que les contrats, les listes de clients et les renseignements confidentiels.
+[58] Pour ces motifs, je conclus que les activités de fabrication d’explosifs de Du Pont ne formaient pas une entreprise distincte. […]
+[9] En l’espèce, pour pouvoir conclure que l’appelant exploitait une seule entreprise et non pas deux entreprises, il faut évaluer le degré d’interdépendance qui existait entre les deux activités. Dans Du Pont Canada Inc., la juge Sharlow a dit être d’accord sur la formulation suivante du critère juridique (elle était toutefois en désaccord sur la façon dont il avait été appliqué) :
+[…] on considérera qu’il y a une seule entreprise lorsqu’il existe une interdépendance telle que l’on peut conclure à l’existence d’une seule entité productive de revenu; on considérera qu’il y a une entreprise distincte lorsque les circonstances sont telles que l’ensemble du processus donnant lieu à la réalisation de profits est bien distinct des autres, malgré le fait que l’entreprise n’aie pas fait l’objet de statuts constitutifs distincts. […]
+[10] Dans Du Pont Canada Inc., la Cour d’appel fédérale a noté la présence d’indicateurs importants d’intégration, à savoir « […] la centralisation du financement, de la gestion du crédit et des achats ainsi que les installations de recherche communes ». En l’espèce, exception faite de certains travaux d’une valeur de 2 200 $ confiés à un sous‑traitant en 2005, tous les travaux faits par l’entreprise (ou les entreprises) de l’appelant en 2004 et en 2005 ont été faits par l’appelant lui‑même. Étant donné que l’appelant était le seul dirigeant de l’entreprise (ou des entreprises), les fonctions administratives étaient centralisées, comme dans toute entreprise individuelle.
+[11] À mon avis, les facteurs pertinents pour décider si une grande société comptant de nombreux employés exploite une seule entreprise ou au moins deux entreprises distinctes ne sont pas les mêmes que ceux qui sont pertinents pour décider si une entreprise individuelle comptant un seul « employé » exploite une seule entreprise ou plus d’une entreprise.
+[12] L’affaire Blanchard (s/n Four Pillar Financial) c. La Reine, [2001] A.C.I. no 484, [2001] G.S.T.C. 94, portait sur une entreprise individuelle, et le juge Bowie devait trancher la question de savoir si le propriétaire unique de la société exploitait une seule entreprise ou plus d’une entreprise. Le juge Bowie s’est exprimé de la sorte :
+[18] Je conclus qu’en 1996 et en 1997, Four Pillar Financial constituait une entreprise individuelle et qu’elle était la propriété d’Andrew Blanchard. Selon les témoignages de M. Blanchard et de Mme Pimm en ce qui concerne les activités, je conclus que les commissions gagnées, à la fois directes et spéciales, et les frais perçus relativement à la préparation des déclarations de revenus constituaient des activités totalement liées et interdépendantes. Bien que M. Blanchard ait déclaré dans le cadre de son témoignage que la préparation de déclarations de revenus serait devenue une entreprise rentable s’il n’y avait pas eu de vérification fiscale de ses affaires, elle a, en fait, été créée afin de donner des clients potentiels aux conseillers et de les garder dans la succursale de M. Blanchard. Les mêmes employés travaillaient à la fois pour l’entreprise du FCG et pour la préparation de déclarations de revenus. Les mêmes lieux et le même équipement étaient utilisés. Il n’y avait pas de comptes distincts et aucun effort n’était apparemment effectué pour répartir les dépenses entre les deux types de revenu. Je conclus qu’il n’y avait qu’une seule entreprise et que M. Blanchard en était le propriétaire : voir les affaires Scales v. George Thompson and Company Limited1, Frankel Corporation v. M.N.R.2 et H. A. Roberts Ltd. v. Canada3.
+[Les notes en bas de page ont été ajoutées par le juge Bowie.]
+[13] Dans Blanchard, les activités de la société étaient interdépendantes, car l’une des activités servait à fournir des clients potentiels à l’autre. Il existait une seule entité productive de revenu.
+[14] Dans la présente affaire, la situation de l’appelant est semblable à celle qu’avait décrit le juge Rowlatt dans Scales (Inspector of Taxes) v. George Thomson & Co., l’une des décisions citées par la juge Sharlow dans Du Pont Canada Inc. Les deux activités de l’appelant ont un lien avec l’électricité. En dehors de cela, elles ne dépendent pas l’une de l’autre, elles ne sont pas interdépendantes et elles ne se raccordent pas l’une à l’autre. La seule interdépendance entre les activités vient du fait que c’est l’appelant qui fournissait les services nécessaires aux deux activités. Toutefois, si ce facteur était suffisant pour conclure à l’existence d’une seule entreprise, tout propriétaire unique exploiterait forcément une seule entreprise, peu importe la diversité des activités de sa société. Je ne crois pas qu’il s’agisse du résultat voulu. Il n’est pas rare que les propriétaires uniques demandent des déductions au titre de frais d’utilisation de la résidence à des fins commerciales, car ces frais ont trait à l’utilisation d’une résidence. Comme seules les dépenses de l’entreprise sont déductibles, le législateur a sûrement voulu que le simple fait qu’un propriétaire unique mène seul diverses activités ne l’empêche pas d’exploiter plus d’une entreprise. Au contraire, le critère est de savoir si les activités sont tellement interdépendantes que le propriétaire unique mène une seule activité productive de revenu.
+[15] En l’espèce, chaque activité exigeait une formation différente. Pour la réparation d’appareils électroniques et d’électroménagers, l’appelant avait suivi un cours de deux ans au collège communautaire, et il a terminé ce cours en un an et demi. Pour faire son travail d’inspecteur de la sécurité publique en sous‑traitance, l’appelant devait détenir un permis et il avait reçu de la formation spécialisée de BC Hydro. Il recevait aussi de la formation continue. Selon moi, la formation permettant de déceler des problèmes relatifs aux poteaux électriques est fort différente de celle qui permet de réparer des télévisions au plasma et d’autres appareils électroniques ou électroménagers.
+[16] Les clients potentiels de l’entreprise de réparation d’appareils électroniques sont tous les propriétaires d’appareils électroniques et d’électroménagers devant être réparés. Cette entreprise aurait donc un grand nombre de clients. Pour son travail d’inspecteur de la sécurité publique, l’appelant n’avait qu’un client : la société qui avait remporté le contrat de BC Hydro. Il ne pouvait pas y avoir de vente croisée des services fournis aux clients d’une activité à ceux de l’autre.
+[17] L’appelant a tenu un seul ensemble de documents comptables. Cependant, il n’est pas tout à fait clair si l’appelant a tiré des revenus des activités de réparation d’appareils électroniques en 2004 ou en 2005. L’appelant ne se rappelait plus s’il avait tiré des revenus de cette activité en 2004 ou en 2005. Il a dit qu’il n’avait pas réparé de télévision en 2004 ou en 2005. Il a aussi expliqué que des clients lui apportaient parfois des appareils à réparer, mais que son travail d’inspecteur de la sécurité publique faisait qu’il avait moins de temps à consacrer aux travaux de réparation. Il semble donc que l’appelant ait réparé un certain nombre d’appareils électroniques en 2004 et en 2005, mais rien ne me permet de savoir quelles sommes il a reçues en contrepartie. Les ventes réalisées par l’appelant de 2001 à 2003, alors que la réparation d’appareils électroniques était sa seule entreprise, sont les suivantes :
+Année
+Ventes
+2001
+298 $
+2002
+381 $[1]
+2003
+285 $
+[18] À mon avis, si les activités de réparation d’appareils électroniques ont produit des revenus en 2004 ou en 2005, ces revenus ont été minimes.
+[19] Selon moi, le travail fait en sous‑traitance par l’appelant comme inspecteur de la sécurité publique ne faisait pas partie de l’entreprise de réparation d’appareils électroniques que l’appelant avait exploitée pendant les années antérieures. Chacune de ces activités exigeait une formation différente. Les clients n’étaient pas les mêmes, et aucune des entreprises ne faisait de vente croisée aux clients de l’autre. L’emplacement des deux entreprises était différent. En général, l’entreprise de réparation d’appareils électroniques menait ses activités dans la résidence de l’appelant (bien que l’appelant allait parfois faire des réparations chez les clients). L’inspection des poteaux électriques était faite là où les poteaux se trouvaient, c’est‑à‑dire partout en Colombie‑Britannique. L’appelant était absent de chez lui pendant plusieurs jours de suite lorsqu’il allait inspecter les poteaux à divers endroits. Lorsqu’il allait faire des inspections dans des endroits éloignés, il dormait dans une caravane classique qu’il emportait avec lui.
+[20] Bien que certains outils aient pu servir aux deux activités, il s’agissait seulement d’outils de base. Les outils de précision nécessaires à la réparation de télévisions au plasma ne sont pas les mêmes que ceux qui servent à percer un trou dans un poteau électrique pour en vérifier la solidité.
+[21] Chacune des activités était menée indépendamment de l’autre. Il n’y avait pas une seule, mais bien deux entités productives de revenus. Les processus par lesquels chaque activité produisait des revenus étaient distincts et ils n’étaient pas interdépendants. Par conséquent, aucun montant qui pourrait être reporté prospectivement relativement aux frais d’utilisation de la résidence à des fins commerciales pour toute année antérieure à 2004 ne peut être déduit dans le calcul des revenus tirés par l’appelant de son entreprise de sous‑traitance comme inspecteur de la sécurité publique. Comme l’appelant n’a pas démontré qu’il avait tiré le moindre revenu de son entreprise de réparation d’appareils électroniques en 2004 ou en 2005, aucun montant qui pourrait être reporté prospectivement relativement aux frais d’utilisation de la résidence à des fins commerciales pour toute année antérieure à 2004 ne peut être déduit dans le calcul des revenus de l’appelant pour 2004 ou 2005. Ainsi, il n’est pas nécessaire de déterminer précisément le montant pouvant être reporté prospectivement.
+[22] Il est vrai que l’intimée a accordé une déduction pour l’utilisation de la résidence à des fins commerciales en tenant pour acquis que l’appelant avait utilisé 120 pieds carrés de sa résidence et 40 pieds carrés d’une remise extérieure pour exploiter son entreprise d’inspecteur de la sécurité publique. Il semble que la seule activité menée par l’appelant dans sa résidence pour cette entreprise‑là était des tâches administratives qui exigeaient l’utilisation d’un bureau et d’un ordinateur. Par conséquent, l’appelant n’a pas réussi à réfuter la présomption voulant que seulement 120 pieds carrés de sa résidence servaient à l’exploitation de cette entreprise, et aucun rajustement ne sera apporté au pourcentage de la résidence utilisé pour l’entreprise. De plus, l’appelant n’a pas démontré qu’il utilisait plus de 40 pieds carrés de la remise extérieure pour l’entreprise. Il reste aussi la question de savoir si toutes les dépenses relatives à la résidence doivent être appliquées de la même manière à la superficie de la remise. Comme la remise comportait un radiateur électrique, les frais de chauffage de la remise devraient faire partie des frais d’électricité et non pas des frais de chauffage. De plus, il n’est pas certain que les 40 pieds carrés de la remise devraient être traités de la même façon qu’une superficie équivalente dans la maison pour calculer les intérêts hypothécaires déductibles. Le ministre du Revenu national ne peut pas interjeter appel de sa propre cotisation[2], et la déduction accordée pour l’utilisation de la résidence à des fins commerciales ne peut donc par être réduite. Ainsi, aucun rajustement ne sera apporté relativement aux 40 pieds carrés de la remise qui ont été traités comme s’il s’agissait d’une superficie équivalente de la résidence. En effet, la superficie totale de la remise (160 pieds carrés) a été ajoutée à la superficie totale de la résidence (2 200 pieds carrés) pour arriver au résultat que 6,8 % de la superficie combinée ((120+40)/(2 200+160)) servait à exploiter l’entreprise. Par conséquent, aucun rajustement ne sera apporté aux pourcentages d’utilisation de la remise et de la résidence.
+[23] Certains rajustements ont été aussi apportés aux sommes dépensées pour le chauffage, l’électricité, les assurances et les intérêts hypothécaires. Toutefois, l’appelant n’a pas su expliquer pourquoi les déductions demandées – sauf pour les frais de chauffage en 2005 – étaient supérieures aux dépenses admises par l’intimée. Aucun rajustement ne sera donc fait à l’égard de ces sommes‑là.
+[24] L’appelant a aussi parlé des frais de téléphone et de câble. Il a soutenu que la connexion de câble était nécessaire pour tester les télévisions après leur réparation. Cependant, je ne sais pas vraiment si la déduction de ces dépenses a déjà été accordée. Selon la réponse à l’avis d’appel, il semble que la nouvelle cotisation établie à l’égard de l’appelant visait seulement à réduire les déductions pour l’utilisation de la résidence à des fins commerciales. Cela voudrait dire que les autres déductions demandées par l’appelant lui avaient été accordées.
+[25] Pour 2004, les déductions demandées par l’appelant dans son État des résultats des activités d’une entreprise (demandées séparément de la déduction pour les frais d’utilisation de la résidence à des fins commerciales) incluaient les sommes suivantes[3] :
+Élément
+Déduction demandée
+Téléphone et services publics
+645 $
+[26] Pour 2004, l’appelant a inclus les sommes suivantes dans le calcul de la déduction demandée au titre de frais d’utilisation de la résidence à des fins commerciales :
+Élément
+Déduction demandée
+Chauffage
+826 $
+Électricité
+890 $
+Services publics
+520 $
+[27] Pour la somme de 520 $ relative aux services publics que l’appelant avait incluse dans la déduction demandée au titre des frais d’utilisation de la résidence à des fins commerciales pour 2004, l’intimée a accordé une déduction de 45 $. Je ne sais pas vraiment ce que l’appelant avait inclus dans la déduction demandée pour le téléphone et les services publics (plutôt que dans la déduction demandée pour les frais d’utilisation de la résidence à des fins commerciales). L’appelant a affirmé que la somme relative aux services publics incluse dans la déduction demandée au titre des frais d’utilisation de la résidence à des fins commerciales avait trait aux factures d’eau. Il a déposé en preuve des copies des factures d’eau pour 2004, et ces factures semblent indiquer qu’aucun montant dû pour 2004 n’avait été payé avant 2005. Il semble donc que les dépenses encourues pour l’eau en 2004 totalisaient 480 $. Comme l’appelant était tenu de déclarer ses revenus selon la méthode de comptabilité d’exercice, la somme dépensée pour 2004 était de 480 $, même si la facture a seulement été réglée en 2005. J’admets le témoignage de l’appelant à cet égard et je conclus que les frais d’utilisation de la résidence à des fins commerciales pour 2004 doivent refléter une somme supplémentaire de 435 $ (480 $ - 45 $) pour les services publics. Le pourcentage de ces frais qui peuvent être déduits est de 6,8 % – le pourcentage de la résidence qui servait à l’exploitation de l’entreprise d’inspecteur de la sécurité publique – et l’appelant a donc droit à une déduction supplémentaire de 30 $ dans le calcul de son revenu pour 2004.
+[28] Comme il est difficile de savoir si l’appelant avait inclus les coûts du câble dans les frais de « téléphone et services publics » dont il avait demandé la déduction à titre de dépense (séparément de la déduction pour les frais d’utilisation de la résidence à des fins commerciales pour 2004) et comme il semble qu’une déduction ait été accordée pour les frais de téléphone pour 2004, aucun rajustement ne sera fait pour le téléphone et le câble pour 2004.
+[29] L’appelant a présenté des copies de factures de téléphone et d’Internet pour 2005. Toutefois, il avait aussi inclus la somme suivante dans les dépenses déclarées dans l’État des résultats d’une entreprise pour 2005 (et dont la déduction avait été demandée séparément de la déduction pour les frais d’utilisation de la résidence à des fins commerciales) :
+Élément
+Déduction demandée
+Téléphone et services publics
+1 873 $
+[30] Pour 2005, l’appelant a inclus les sommes suivantes dans le calcul de la déduction demandée au titre de frais d’utilisation de la résidence à des fins commerciales :
+Élément
+Déduction demandée
+Chauffage
+851 $
+Électricité
+579 $
+Services publics
+1 388 $
+Câble
+448 $
+Services publics
+689 $
+[31] Pour les deux sommes relatives aux services publics, l’intimée a accordé une déduction de 493 $. Je ne sais pas vraiment pourquoi deux déductions distinctes ont été demandées pour 2005 pour les services publics relativement aux frais d’utilisation de la résidence à des fins commerciales. En 2005, l’appelant travaillait à temps plein comme inspecteur de la sécurité publique. Les revenus qu’il tirait de cette entreprise sont passés d’environ 34 850 $ en 2004 à quelque 90 250 $ en 2005. Cela concorde avec le témoignage de l’appelant selon lequel son travail d’inspecteur de la sécurité publique occupait la majeure partie de son temps et il lui restait très peu ou même aucun temps à consacrer à son entreprise de réparation d’appareils électroniques. Je ne sais pas du tout en quoi le câble était nécessaire au travail d’inspecteur de la sécurité publique en 2005. Comme les frais de câble étaient inclus dans les frais d’utilisation de la résidence à des fins commerciales, il fallait qu’ils aient un lien avec cette entreprise‑là, car l’appelant a été incapable de confirmer qu’il avait tiré des revenus de l’entreprise de réparation d’appareils électroniques en 2005. De même, il m’est impossible de savoir si ces frais‑là avaient déjà été inclus dans les frais de « téléphone et services publics » de 1 873 $ dont la déduction avait été demandée séparément de celle des frais d’utilisation de la résidence à des fins commerciales et dont la déduction semble d’ailleurs avoir été accordée. Ainsi, il semble qu’une déduction ait été accordée au titre des frais de téléphone pour 2005. Par conséquent, aucun rajustement ne sera fait pour 2005 relativement à la demande de déduction de l’appelant pour les frais de téléphone et de câble.
+[32] L’appelant a aussi affirmé que, lorsqu’il était chez lui, il entreposait sur son terrain la caravane dans laquelle il dormait quand il se rendait faire des inspections loin de chez lui. Cependant, je ne sais pas quelle portion des dépenses relatives à la résidence s’applique à l’entreposage de la caravane. Manifestement, aucune partie des frais de chauffage n’a de lien avec l’entreposage de la caravane. Les intérêts hypothécaires n’ont pas été répartis entre le terrain et l’immeuble. Dans la mesure où l’hypothèque a été contractée pour acquérir l’immeuble, les intérêts relatifs à cette partie de l’hypothèque n’ont aucun lien avec l’entreposage de la caravane. De plus, je ne suis pas certain de la fréquence à laquelle la caravane était entreposée sur le terrain. Par conséquent, aucun rajustement ne sera fait à l’égard de l’entreposage de la caravane.
+[33] Bien qu’il semble que l’appelant utilisait une plus grande partie de sa résidence pour exploiter son entreprise de réparation d’appareils électroniques, comme l’appelant n’a pas pu se rappeler s’il avait tiré des revenus de cette entreprise en 2004 ou en 2005, il n’aura droit à aucune déduction supplémentaire dans le calcul de ses revenus pour 2004 ou 2005 relativement aux frais d’utilisation de la résidence à des fins commerciales.
+[34] Par conséquent, l’appel interjeté par l’appelant à l’égard de la nouvelle cotisation établie pour son année d’imposition 2004 est accueilli, sans dépens, et la question est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant pour acquis que l’appelant a droit à une déduction supplémentaire de 30 $ au titre des frais d’utilisation de la résidence à des fins commerciales dans le calcul de son revenu pour 2004.
+[35] L’appel interjeté par l’appelant à l’égard de la nouvelle cotisation établie pour son année d’imposition 2005 est rejeté, sans dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 4e jour de juin 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 22e jour de juillet 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2010 CCI 307
+No DU DOSSIER DE LA COUR :
+2009-1008(IT)I
+INTITULÉ :
+Shawn A. Arbeau c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 19 avril 2010
+MOTIFS DU JUGEMENT :
+L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT :
+Le 4 juin 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Mary Murray
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pour 2002, une somme de 381 $ était attribuée aux ventes et une somme supplémentaire de 133 $ était attribuée aux autres revenus. Aucune explication n’a été fournie au sujet de l’existence de deux sommes distinctes et, de toute manière, la somme supplémentaire correspondant aux autres revenus était faible.
+[2] Skinner (Succession) c. La Reine, 2009 CCI 269, 2009 DTC 1358.
+[3] Ces sommes sont tirées de la copie du formulaire déposée en preuve à l’audience par l’intimée. L’appelant a aussi déposé une copie de l’État des résultats des activités d’une entreprise pour 2004, mais il semble que la deuxième page de la copie de l’appelant, qui était différente de la deuxième page de la copie présentée par l’intimée, était en fait la deuxième page de l’État des résultats des activités d’une entreprise pour 2003, car elle avait été imprimée le 26 avril 2004 et faisait état d’un montant à reporter prospectivement totalisant 33 941 $ à la fin de l’année, le même montant à reporter prospectivement que l’appelant avait déclaré à la fin 2003.

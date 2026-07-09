@@ -1,0 +1,280 @@
+Title: Pellerin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109843/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-130-109843-pellerin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-05-22
+
+# Pellerin v. The Queen
+
+- Citation: 2015 TCC 130
+- Decision date: 2015-05-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2827, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pellerin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-05-22
+Neutral citation
+2015 TCC 130
+File numbers
+2013-2920(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2920(IT)I
+BETWEEN:
+MIKA PELLERIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on February 6, 2015, at Granby, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+José Luis Baz
+Counsel for the Respondent:
+Marielle Thériault
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act with respect to the Appellant’s 2008, 2009 and 2010 taxation years is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Montreal, Quebec, this 22nd day of May 2015.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 7th day of July 2015.
+Erich Klein, Revisor
+Citation: 2015 TCC 130
+Date: 20150522
+Docket: 2013-2920(IT)I
+BETWEEN:
+MIKA PELLERIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Boyle J.
+[1] This is an appeal brought under the informal procedure and concerning Mika Pellerin’s 2008 taxation year. In 2008, he turned one year old. The issue in this case is whether the shares sold by the Appellant before his second birthday qualified for the capital gains exemption for qualified small business corporation shares (“QSBCS”) under section 110.6 of the Income Tax Act (the “Act”). Consequential appeals in respect of minimum tax credits for 2009 and 2010 were heard at the same time. Those appeals are entirely incidental and raise no issues relevant to the determination of these appeals. The parties filed an Agreed Statement of Facts, a copy of which is attached hereto. Both parties’ counsel’s arguments at the hearing were supplemented with later written submissions.
+[2] The trust was established by deed of trust creating the Fiducie Famille Mathio Pellerin in January 2005 (the “trust”) for the benefit of, among others, Mathio Pellerin, his children and his grandchildren, from their birth or their adoption, as well as any legal person controlled by Mathio Pellerin. It is a personal trust as defined for purposes of the Act. The Appellant, Mika Pellerin, was born March 8, 2007 and is the son of Mathio Pellerin. It was agreed that the Appellant, Mika Pellerin, was conceived about nine months before his birth, that is, around June 2006.
+[3] Certain shares that had been owned by the Trust for at least 24 months were transferred to Mika from the Trust as a capital distribution on October 1, 2008 and were sold by Mika the following day, giving rise to part of the capital gain at issue. Similarly, on November 27, 2008, the Trust transferred to Mika, as a capital distribution, shares of another corporation that it had held for at least 24 months, which were sold by Mika later that same day, giving rise to the rest of the capital gain at issue. Mika reported these capital gains, claimed the capital gains exemption available in respect of QSBCS under section 110.6 of the Act, and paid alternative minimum tax (“AMT”) in respect of his income subject thereto that year.
+[4] The sole issue in this case is whether the requirement that shares be held by the taxpayer or persons related to the taxpayer for a 24-month period prior to the disposition is satisfied through the taking into account of the several months before Mika’s birth. The shares in question are accepted by the Respondent as otherwise qualified and the Respondent has not put quantum or anything else in issue. The issue arises solely because Mika was not yet two years old when he sold the shares. Throughout the 24-month period preceding their distribution to Mika, the shares were held by the Trust.
+[5] The questions to be decided as a result of Mika being not yet 24 months old when he sold his shares result in the need to consider the period during which Mika had been conceived but was not yet born. Those questions are the following:
+(1) Once born viable, was Mika a beneficiary of the trust for the purposes of the relevant provisions of the Act, pursuant to the Quebec law applicable to the Trust?
+(2) What is the significance of Article 5.1 of the Trust deed, which provides that children are beneficiaries from their birth if that provision is in conflict with applicable Quebec law?
+[6] (3) Does the phrase “throughout the 24 months immediately preceding” in paragraph (b) of the definition of QSBCS in subsection 110.6(1) apply to both the ownership of the shares and to the status of the individual (Mika) and another owner of the shares (the Trust) as being related to each other? More specifically, is the requirement in paragraph (b) satisfied if, throughout the 24-month period preceding the sale of the shares by Mika, the only other owner of the shares was the Trust, which was related to him at the particular time he sold the shares (and had been ever since he became a person at birth)?
+The relevant provisions of the definition of QSBCS are as follows:
+110.6 (1) [Capital gains exemption—] Definitions -- For the purposes of this section,
+. . .
+110.6 (1) [Exonération des gains en capital—définitions] -- Les définitions qui suivent s'appliquent au présent article.
+. . .
+“qualified small business corporation share” of an individual (other than a trust that is not a personal trust) at any time (in this definition referred to as the “determination time”) means a share of the capital stock of a corporation that,
+. . .
+«action admissible de petite entreprise» S'agissant d'une action admissible de petite entreprise d'un particulier (à l'exception d'une fiducie qui n'est pas une fiducie personnelle) à un moment donné, action du capital-actions d'une société qui, à la fois :
+. . .
+(b) throughout the 24 months immediately preceding the determination time, was not owned by anyone other than the individual or a person or partnership related to the individual . . .
+b) tout au long de la période de 24 mois qui précède le moment donné, n'est la propriété de nul autre que le particulier ou une personne ou société de personnes qui lui est liée;
+Subparagraph 110.6(14)(c)(i) of the Act provides as follows:
+(14) Related persons, etc. [miscellaneous rules re shares] -- For the purposes of the definition “qualified small business corporation share ” in subsection (1),
+. . .
+(14) Précisions sur les actions admissibles de petite entreprise [règles diverses relatives aux actions] -- Pour l'application de la définition de «action admissible de petite entreprise » au paragraphe (1) :
+. . .
+(c) a personal trust shall be deemed
+c) une fiducie personnelle est réputée, à la fois :
+(i) to be related to a person or partnership for any period throughout which the person or partnership was a beneficiary of the trust, and
+(i) être liée à une personne ou société de personnes pendant chaque période tout au long de laquelle cette personne ou société de personnes est bénéficiaire de la fiducie,
+Article 5.1 of the deed of trust specifically provides:
+Les bénéficiaires du revenu et du capital de la Fiducie sont M. Mathio Pellerin, ses enfants, ses petits-enfants, à compter de leur naissance ou de leur adoption ainsi que toute personne morale dont M. Mathio Pellerin détient le contrôle.
+[TRANSLATION]
+The beneficiaries of the Trust’s capital and income are Mr. Mathio Pellerin, his children and grandchildren from their birth or their adoption, as well as any legal person controlled by Mathio Pellerin.
+1. In 2008, for the purposes of paragraph 110.6(1)(b), was Mika considered to have been a beneficiary of the Trust after he was conceived but not yet born?
+[7] The Appellant relies upon articles 1267, 1279 and 1814 of the Civil Code of Québec, the relevant portions of which provide as follows:
+1267. A personal trust is constituted gratuitously for the purpose of securing a benefit for a determinate or determinable person.
+1267. La fiducie personnelle est constituée à titre gratuit, dans le but de procurer un avantage à une personne déterminée ou qui peut l'être.
+1279. Only a person having the qualities to receive by gift or by will at the time his right opens may be the beneficiary of a trust constituted gratuitously.
+. . .
+1279. Le bénéficiaire d'une fiducie constituée à titre gratuit doit avoir les qualités requises pour recevoir par donation ou par testament à l'ouverture de son droit.
+. . .
+1814. The father, mother or tutor may accept gifts made to a minor or, provided he is born alive and viable, to a child conceived but yet unborn.
+[…]
+1814. Les père et mère ou le tuteur peuvent accepter la donation faite à un mineur ou, sous la condition qu'il naisse vivant et viable, à un enfant conçu mais non encore né.
+[…]
+[8] The Appellant also relies upon the Supreme Court of Canada decisions in Montreal Tramways Co. v. Léveillé, [1933] S.C.R. 456 and in Ivanhoe inc. v. UFCW, Local 500, [2001] 2 S.C.R. 565, 2001 SCC 47.
+[9] Montreal Tramways was decided under the Civil Code of Lower Canada. The Court referred to the relevant legal issue as follows, beginning at page 460:
+The rights of an unborn child under the civil law are based on two passages found in the Digest of Justinian, lib. 1, tit. 5, ss. 7 and 26, as follows:— 7. Qui in utero est, perinde ac si in rebus humanis esset, custoditur, quoties de commodis ipsius partas quaeritur.
+(An unborn child is taken care of just as much as if it were in existence in any case in which the child’s own advantage comes in question.)
+26. Qui in utero sunt in toto paene jure civili intelliguntur in rerum naturâ esse.
+(Unborn children are in almost every branch of the civil law regarded as already existing.)
+The Civil Code of Quebec makes provision for the appointment of a curator to the person or to the property of children conceived but not yet born. Arts. 337 and 338 C.C.
+. . .
+This article practically embodies the Roman Law rule first above quoted.
+Art. 608 C.C. reads as follows:—
+. . .
+2. Infants who are not viable when born;
+Under this article the right to inherit is made to depend upon civil existence. A conceived but unborn child, therefore, is deemed to have civil existence if subsequently born viable.
+Articles 771 and 838 C.C. deal with gifts inter vivos and by will. The former article reads:—
+. . .
+Article 838 C.C. contains a similar provision in respect of a conceived but unborn child taking a benefit under a will.
+It was contended by the Company that as the civil code by express provision had declared that the conceived but unborn child should possess the rights and capacities of a born child in respect of the matters mentioned in articles 608, 771 and 838 C.C., it limited by implication the cases in which a child en ventre would be deemed to be born to those expressly mentioned. On the other hand the respondent contended that the matters referred to in these articles, though specially dealt with in the civil code, are merely illustrative instances of the rule that an unborn child shall be deemed to be born whenever its interests require it, but that they in no way limit the meaning of article 345 C.C., which is general in its terms.
+The Code Napoléon of France contains articles similar to articles 608 and 771 of the Quebec civil code. The French authorities may, therefore, be helpful in determining whether or not, under the civil law, the rule is of general application.
+In Baudry-Lacantinerie et Houques-Fourcadé’s Droit Civil Français, 3rd ed., tome 1, at page 270, the learned authors say:—
+289. L’homme constitue une personne dès le moment même de sa naissance. Jusque-là il n’est pas une personne distincte, il n’est encore que pars viscerum matris. Pourtant, en droit romain, on considérait, par une fiction de droit, l’enfant simplement conçu comme déjà né, lorsque son intérêt l’exigeait. Ce principe, admis aussi dans notre ancien droit, a été en ces termes: infans conceptus pro nato habetur, quoties de commodis ejus agitur. Le code civil en consacre lui-même plusieurs applications, qui prouvent qu’il a été maintenu dans toute sa généralité.
+In Aubry et Rau, Droit Civil Français, 4th ed., tome 1, par. 53, page 262, the author says:—
+Dans le sein de sa mère, l’enfant n’a point encore d’existence qui lui soit propre, ni par conséquent, à vrai dire, de personnalité. Mais, par une fiction des lois civiles, il est considéré comme étant déjà né, en tant du moins que son intérêt l’exige. En vertu de cette fiction, l’enfant simplement conçu jouit d’une capacité juridique provisoire, subordonnée, quant à ses effets définitifs, à sa naissance en vie et avec viabilité.
+And in Mignault’s Droit Civil Canadien, we find the following:—
+Une vieille maxime dit que l’enfant conçu est déjà réputé né toutes les fois qu’il s’agit de ses intérêts.
+Then, after referring to the nomination of the curator under article 345 C.C., the learned author continues:—
+Il n’est pas nécessaire de citer les cas qui nécessitent cette nomination. Elle se fait dans tous les cas où l’intérêt de l’enfant l’exige.
+In determining the generality of the application of the fiction reference may also be made to the opinions expressed by certain English judges familiar with that law.
+In Burnet v. Mann, Lord Chancellor Hardwicke said:—
+The general rule is that they (unborn children) are considered in esse for their benefit not for their prejudice. and in Wallis v. Hudson, the same judge, at page 116, stated that a child en ventre sa mère “was a person in rerum naturâ.” Then, after referring to the Statute of Distributions which he said was to be construed by the civil law, he proceeded as follows:—
+As to the civil law, nothing is more clear, than that this law considered a child in the mother’s womb absolutely born, to all intents and purposes, for the child’s benefit.
+This statement as to the civil law was referred to with approval by Lord Atkinson in Villar v. Gilby. See also Schofield v. Orrel Colber.
+In Doe v. Clark, Butler J. used this language:—
+It seems indeed now settled that an infant en ventre sa mère shall be considered, generally speaking, as born for all purposes for its own benefit.
+In many of the English cases in which effect was given to the rule of the civil law it was applied simply as a rule of construction by which the term “child” or “children” was held to include a child en ventre sa mère. But in Doe v. Lancashire, the question was not one of construction but of the revocation of a will by the birth of a child, and Gross J., at page 63, said:—
+I know of no argument, founded on law and natural justice, in favour of the child who is born during his father’s life, that does not equally extend to a posthumous child.
+These learned judges undoubtedly considered the fiction to be of general application.
+. . .
+For these reasons I am of opinion that the fiction of the civil law must be held to be of general application. The child will, therefore, be deemed to have been born at the time of the accident to the mother. . . .
+[Emphasis added.]
+[10] Ivanhoe, being a 2001 decision, was written by the Supreme Court of Canada when the new Civil Code of Québec applied. In reviewing and canvassing certain areas of Quebec law that involved legal fictions, the Court had this to say about Montreal Tramways and the child conceived but not yet born :
+100 In the law of persons, this Court held, in Montreal Tramways Co. v. Léveillé, [1933] S.C.R. 456, that a child born alive and viable could maintain an action in its own name for damages against the person who caused the injury sustained by it in its pre-natal state, even though in the civil law legal personality cannot exist until birth (see also Dobson (Litigation Guardian of) v. Dobson, [1999] 2 S.C.R. 753, at paras. 13-18). In that case, this Court recognized the existence of the civil law principle that when a child is born alive and viable, its legal personality is retroactive to the date of conception, through a legal fiction that operates only for the benefit of the child and can never be used against it (see É. Deleury and D. Goubau, Le droit des personnes physiques (2nd ed. 1997), at pp. 11‑17). This principle is expressly recognized by the legislature in certain fields, such as successions (art. 617 C.C.Q.), substitution (art. 1242 C.C.Q.), trusts (art. 1279 C.C.Q.), gifts (art. 1814 C.C.Q.) and insurance of persons (art. 2447 C.C.Q.). In Montreal Tramways, supra, this Court recognized that even where the rule had not been generally codified, legal personality can be retroactive to the date of conception whenever this is required in the interests of a child born alive and viable.
+[Emphasis added.]
+[11] In its 1989 decision in Tremblay v. Daigle, [1989] 2 S.C.R. 530, a decision which cannot be considered as generally favouring the rights of unborn children, the Supreme Court of Canada wrote (at 563):
+. . . A foetus is treated as a person only where it is necessary to do so in order to protect its interests after it is born. . . .
+[12] In addition to the texts and doctrine referred to by the Supreme Court of Canada in the Montreal Tramways and Ivanhoe decisions, the Appellant relies also on Ms. Lambert’s 2010 “Commentaire sur l’article 1814 du C.c.Q.” (“Comment on article 1814 C.c.Q.”), wherein she writes:
+Cas de l’enfant conçu qui n’est pas encore né
+Tout être humain possède de la personnalité juridique [art. 1 CcQ]. Toutefois, l’enfant conçu qui n’est pas encore né, n’a pas encore cette personnalité. Certains droits de nature patrimoniale lui sont néanmoins moins conférés par le Code civil, généralement à la condition qu’il naisse vivant et viable. Cette personnalité juridique rétroagira alors à la date de sa conception. [Note 13 : Voir É. DELEURY et D. GOUBAU, op. cit., note 9, nos 9 et s. et 525 et 526, p. 18 et s., 458, EYB2008DPP3 et 459, EYB2008DPP18.][1]
+[TRANSLATION]
+Child conceived but not yet born
+Every human being possesses juridical personality [art.1 C.c.Q.].However, a child conceived but not yet born does not have such personality. The Civil Code nonetheless confers on the unborn child certain rights that are patrimonial in nature, generally on the condition that the child be born alive and viable. This juridical personality will then exist retroactively to the date of conception. [Note 13: see É. DELEURY and D. GOUBAU, op. cit. note 9, No.9 ff. and 525 and 526, p. 18 ff., 458, EYB2008DPP3 and 459, EYB2008DPP18.]
+[Emphasis added.]
+[13] Under the Quebec law applicable to Mika and the Trust, as presented and argued by the parties, once Mika was born viable, he was retroactively considered a beneficiary, indeed a person, as of his conception for the purposes of all generally applicable public laws, if that was beneficial for Mika.
+[14] By reason of this legal fiction applicable in Quebec law, (i) the 24-month holding period requirement is satisfied by virtue of the shares only ever having been owned by Mika and by the Trust before Mika disposed of them, and (ii) the Trust was related to Mika throughout that period by virtue of his having been a beneficiary of the Trust from his birth, and by virtue of his being deemed to have been a beneficiary of the Trust during the period of 24 months that preceded his birth.
+2. Is Article 5.1 of the trust deed inconsistent with the Civil Code and, if so, how is the conflict to be resolved?
+[15] To determine whether Article 5.1 of the trust deed will prevail in this appeal, one must also consider the language of that provision.
+[16] It is the Respondent’s position that, notwithstanding the discussion above under question 1, the settlor of the Trust determined that a child would only be a beneficiary from its birth and that this alone precludes the 24-month holding period requirement being satisfied on the facts of this case.
+[17] I do not find this position meritorious for two reasons. Firstly, Article 5.1 of the trust deed can and should be read to conform with applicable Quebec law, including the Civil Code. It is clear from the Supreme Court of Canada’s pronouncements in Montreal Tramways and Ivanhoe that it is only once a child is born viable that it is retroactively considered to be a beneficiary or a person, if that benefits the child. Hence, the rule of general application in Quebec described by the Supreme Court of Canada is triggered only if and when the child is born viable. Only then does the legal fiction retroactively regard Mika as being a beneficiary or a person when he had been conceived but was not yet born. Article 5.1 of the trust deed is not inconsistent with that. It similarly provides that a child is only a beneficiary once he or she is born. It does not by its terms negate the legal fiction that thereafter that child will also retroactively be considered to have been a beneficiary prior to his or her birth. I do not believe that on a reasonable reading Article 5.1 is inconsistent with the Quebec law generally applicable to the Trust in this respect.
+[18] Secondly, the Civil Code provides in Articles 8 and 9 that generally applicable laws of public order may not be departed from by private acts of parties. Thus, even if the terms of Article 5.1 did in fact preclude a child born viable from becoming a beneficiary and retroactively being considered to have been a beneficiary while conceived but not yet born, it would appear that the provision would have no effect.
+3. Does the phrase “throughout the 24 months” apply to the related person status and require that this status exist throughout the period and not simply at the determination time?
+[19] The French and English texts are consistent in this regard in their grammatical construction. Both are clearly capable of being read, and arguably are best read, on the basis that the phrase “throughout the 24 months” applies to the ownership requirements, and does not require that the related person status have existed throughout. The text and grammatical construction do not specifically require that the related person status have existed at each moment in the 24-month period.
+[20] If one has regard to other provisions of the section 110.6 capital gains exemption regime, one sees for example that paragraphs (c), (d), (e) and (f) of the definition of QSBCS are clear in stating “for any particular period of time in the 24-month period”, “at any time in the 24-month period ending at the determination time” and “throughout that part of the 24 months immediately preceding the determination time”.
+[21] It appears that the purpose of the paragraph (b) 24-month holding period requirement is to preclude a taxpayer who disposes of a share from claiming a capital gains exemption in respect of gains that accrued that while the share was owned by a third party. That purpose can be achieved by regarding as third parties persons who are not related to the person disposing of the share at the time that person disposed of the share. Neither the language nor the purpose of the provision would require anything broader in scope.[2]
+[22] I conclude that it is sufficient if, at the time of the taxable event, the taxpayer was related to any other person who owned the property during the 24‑month ownership requirement period (subject of course to abusive tax avoidance considerations, which are not applicable or involved in this case).
+[23] Finally, I would note that none of the above analysis is materially affected by the interposition of the Trust between Mika and his father. The same questions would arise, and I would answer them in the same manner, if the facts involved a parent and a child born during the 24-month holding period, or two persons who become spouses during that 24-month period, or a person who adopts a child in that 24-month period (except that in this last case Question 1 may or may not arise).
+[24] The appeal is allowed.
+Signed at Montreal, Quebec, this 22nd day of May 2015.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 7th day of July 2015.
+Erich Klein, Revisor
+APPENDIX
+[Translation]
+2013-2920(IT)I
+TAX COURT OF CANADA
+BETWEEN:
+MIKA PELLERIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AGREED STATEMENT OF FACTS
+The parties agree on the following facts:
+1. The FIDUCIE FAMILLE MATHIO PELLERIN (the Trust) set up on January 15, 2005 (Al-1) is a “personal trust”[3] as defined in the Income Tax Act, R.S.C. 1985, c. 1 (5th Suppl.) (the ITA) in the version applicable to this dispute.
+2. Counsel for the appellant is the settlor of the Trust.
+3. Mathio Pellerin and his brother Charles Pellerin are the trustees of the Trust.
+4. Article 5.1 of the deed establishing the Trust reads as follows:
+The income and capital beneficiaries of the Trust are Mathio Pellerin, his children, his grandchildren, from the time of their birth or adoption, as well as any legal person controlled by Mathio Pellerin.
+5. The appellant, born on March 8, 2007, is the son of Mathio Pellerin (Al-2); he was conceived about 9 months earlier, around June 2006.
+6. On October 1, 2008, the Trust had been the owner for at least 24 months of 1,091,246 Class A shares of Les Industries PMA Inc. (PMA).
+7. On October 1, 2008, a little less than 19 months after his birth, the appellant received from the Trust, as a capital distribution pursuant to subsection 107(2) of the ITA, 115,619 Class A shares of PMA (Al-3).
+8. On October 2, 2008, the appellant disposed of the 115,619 Class A shares of PMA (Al-4). He realized a capital gain of $115,616, half of which ($57,808) was included in the computation of his income for his 2008 taxation year (Al-5).
+9. On November 27, 2008, the Trust had been the owner for at least 24 months of 29 Class A shares of Estimation Construction Canada (FOML) Inc. (Estimation).
+10. On November 27, 2008, a little less than 21 months after his birth, the appellant received from the Trust, as a capital distribution pursuant to subsection 107(2) of the ITA, 14.5 Class A shares of Estimation (Al-6).
+11. On November 27, 2008, the appellant disposed of the 14.5 Class A shares of Estimation (Al‑7). He realized a capital gain of $46,235, half of which ($23,117.50) was included in the computation of his income for his 2008 taxation year (Al-5).
+12. In his income tax return for the 2008 taxation year (Al-5), the appellant claimed in the computation of his taxable income an $80,925.50 “capital gains deduction with respect to the disposition of qualified small business corporation shares” pursuant to subsection 110.6(2.1) of the ITA; the amount of this deduction corresponds to the total taxable capital gains realized by the appellant on the disposition of the 115,619 Class A shares of PMA and 14.5 Class A shares of Estimation.
+13. On July 27, 2011, the Minister of National Revenue (Minister) reassessed the appellant for his 2008 taxation year (Al-8), disallowing in the computation of his taxable income the $80,925.50 “capital gains deduction with respect to the disposition of qualified small business corporation shares” and consequently cancelling the alternative minimum tax.
+14. On July 27, 2011, the Minister reassessed the appellant for his 2009 taxation year (Al-9), disallowing the alternative minimum tax credit claimed in relation to the alternative minimum tax for the 2008 taxation year.
+15. On July 27, 2011, the Minister reassessed the appellant for his 2010 taxation year (Al-10), disallowing the alternative minimum tax credit claimed in relation to the alternative minimum tax for the 2008 taxation year.
+16. The appellant duly objected to the reassessments dated July 27, 2011 for the 2008, 2009 and 2010 taxation years, and the Minister confirmed them on May 6, 2013.
+17. The “the aggregate of all amounts” in issue within the meaning of section 2.1 of the Tax Court of Canada Act is
+• $12,211 for the 2008 taxation year;
+• $1,838 for the 2009 taxation year; and
+• $991 for the 2010 taxation year.
+Victoriaville, February 3, 2015
+Counsel for the appellant
+[signature]
+José Luis Baz, Counsel
+117 Notre-Dame East, Suite 203
+Victoriaville, Quebec G6P 3Z9
+Telephone: 819-758-2532
+Fax: 819-758-4644
+Montreal, February 3, 2015
+William F. Pentney, Q.C.
+Deputy Attorney General of Canada
+Counsel for the respondent
+[signature]
+Per: Marielle Thériault, Counsel
+DEPARTMENT OF JUSTICE
+Quebec Regional Office
+Guy-Favreau Complex
+200 René-Lévesque Blvd. West
+East Tower, 9th Floor
+Montreal, Quebec H2Z 1X4
+Telephone: 514-283-8001
+Fax: 514-283-3103
+File No.: 3040725
+EXHIBITS
+Al-1: trust deed
+Al-2: appellant’s birth certificate
+Al-3: capital distribution of October 1, 2008
+Al-4: contract dated October 2, 2008, between the appellant and PMA
+Al-5: appellant’s 2008 income tax return
+Al-6: capital distribution of November 27, 2008
+Al-7: contract dated November 27, 2008, between the appellant and Mathio Pellerin
+CITATION:
+2015 TCC 130
+COURT FILE NO.:
+2013-2920(IT)I
+STYLE OF CAUSE:
+MIKA PELLERIN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Granby, Quebec
+DATE OF HEARING:
+February 6, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+May 22, 2015
+APPEARANCES:
+Counsel for the Appellant:
+José Luis Baz
+Counsel for the Respondent:
+Marielle Thériault
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+José Luis Baz
+Firm:
+117 rue Notre-Dame Est
+Suite 203
+Victoriaville (Quebec)
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Tab 6, Appellant’s book of authorities.
+[2] While it is not strictly on point, the Canada Revenue Agency (“CRA”) has published an opinion on the 24-month holding requirement. This opinion reflecting, purposive interpretations, also contributes to the context within which paragraph (b) of the definition of QSBCS in subsection 110.6(1) of the Act should be interpreted. It is consistent with the decision herein. See CRA interpretation 2012-0439271E5 dated June 4, 2012 and entitled “Qualified small business corporation shares deduction by the beneficiary” (in Thomson Reuters, Taxnet Pro, CRA Views).
+[3] Subsection 248(1) of the ITA.

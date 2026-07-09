@@ -1,0 +1,86 @@
+Title: New Haven Development Ltd v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27236/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-328-27236-new-haven-development-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-06-07
+
+# New Haven Development Ltd v. The Queen
+
+- Citation: 2006 TCC 328
+- Decision date: 2006-06-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 842, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+New Haven Development Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-07
+Neutral citation
+2006 TCC 328
+File numbers
+2004-3524(GST)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2006TCC328
+Date: 20060607
+Docket: 2004-3524(GST)G
+BETWEEN:
+NEW HAVEN DEVELOPMENT LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on June 5, 2006, at Lethbridge, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+Thomas M. Stevens
+Counsel for the Respondent:
+Mark Heseltine
+____________________________________________________________________
+REASONS FOR ORDERS ANDORDERS
+Beaubier, J.
+[1] This motion dated May 25, 2006, was brought by Respondent's counsel and was heard in Lethbridge, Alberta on June 5, 2006 at the request of the Appellant's representative, Thomas Stevens. It is supported by the Affidavit of Wendy Houston dated May 25, 2006 which has exhibited to it the Examination for Discovery of Thomas Stevens of March 2, 2006 and Thomas Stevens' response to a Request to Admit dated June 3, 2005. It will be dealt with according to the chronology of the Order requested.
+[2] The first request is that Thomas Stevens be directed to answer questions in respect of "Thomas Stevens doing business as "New Haven Development"" ("NHD") as they may relate to all issues in this appeal. This is an appeal of an assessment denying the Appellant Input Tax Credits for vehicles allegedly purchased or brokered in Canadaand exported to Montanain the Appellant's name, where they were sold. "New Haven Development" is an alleged business entity in Sweetgrass, Montana. The Appellant allegedly received $793,720 Canadian from this in the period. It is obvious from the transcript of the Examination for Discovery that Mr. Stevens is deliberately confusing the Appellant and the alleged entity - for it may not exist at all - NHD. Mr. Stevens alleged that the Montanaincome was reported on the "Canadian tax return". (Page 55) He was unclear as to whether this was NHD income and expenses. (Pages 26 and 27) He said "But to get real specific about, you know, this Montanaoperation you're going to have to go through international to do it." This of course is balderdash. When told that this might prove expensive for the Appellant, Mr. Stevens went on to say "Okay. We're not concerned about expenses here. We're just here to have a little fun and kind of enjoy the legal system." (Pages 26 and 27) As a result, this request is granted by the Court. It is clear from the transcript that the Appellant's conduct verges on contempt.
+[3] The second request is that the Appellant answer undertakings 1, 2 and 5 and in particular to provide a list of all vehicles sent from Canadato the United Statesby the Appellant and/or "from Stevens doing business as New Haven Development". These undertakings arise from the same March 2, 2006 Examination for Discovery. For the reasons and based on the quotations described in paragraph [2] hereof, this request is also granted by the Court.
+[4] The third request is that the Court require the Appellant to be represented by counsel in these proceedings and that failing such appointment by 30th June, 2006, this appeal be dismissed without costs and without further order of this Court. Based on the conduct of Mr. Stevens in the Examination for Discovery and in his answer to the Request to Admit exhibited to Ms. Houston's Affidavit and the evidence that:
+1. The Appellant can afford a lawyer.
+2. Mr. Stevens will likely be a witness for the Appellant at the hearing.
+3. The tax in dispute ($52,627) is significant.
+4. The issues, Input Tax Credits, are technical - Mr. Stevens did not know what "ITCs" or an input tax credit is in his Examination for Discovery (Page 52).
+5. A lawyer may assist in arriving at a settlement and will understand what an input tax credit - the very matter in dispute - is.
+For these reasons this request is granted with the further order that the lawyer so appointed shall be licenced to practice law in Canada, shall enter an appearance as stated with a full legal Canadian postal address with a fax and telephone number in Canada and with an undertaking to continue to represent the Appellant through to the completion of the hearing of this appeal before the Tax Court of Canada.
+[5] The fourth request is that the Examination for Discovery be reconvened at an agreed upon date in the event that the Appellant appoints a lawyer. Rather than this request, the Respondent's counsel is instructed to apply to this Court for the Court to fix an appointed date and place for the Examination for Discovery to be reconvened.
+[6] The fifth request, that the Appellant pay all costs of this application forthwith and all costs for the recommended Examination for Discovery within 30 days of the close of Discovery is granted. The costs of this application are fixed by this Court at $1,000 to be paid by the Appellant to the Respondent forthwith.
+Signed at Calgary, Alberta this 7th day of June, 2006.
+"D. W. Beaubier"
+Beaubier J.
+CITATION: 2006TCC328
+COURT FILE NO.: 2004-3524 (GST)G
+STYLE OF CAUSE: New Haven Development Ltd. v. The Queen
+PLACE OF HEARING: Lethbridge, Alberta
+DATE OF HEARING: June 5, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: June 7, 2006
+APPEARANCES:
+Agent for the Appellant:
+Thomas M. Stevens
+Counsel for the Respondent:
+Mark Heseltine
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

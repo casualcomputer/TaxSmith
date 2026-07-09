@@ -1,0 +1,209 @@
+---
+title: "Trung Thanh Mai op TTT Transportation v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28323/index.do"
+last_modified: "2007-12-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 734"
+citation2: ""
+neutral_citation: "2007 TCC 734"
+decision_date: "2007-12-14"
+language: "en"
+item_id: "28323"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1856
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:28:25.980000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "31c83fc6a65978f63e6f04253c3ee8d3f39874a8fbae7021d59aaf31d07ed0fa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Trung Thanh Mai op TTT Transportation v. M.N.R.
+
+- Citation: 2007 TCC 734
+- Decision date: 2007-12-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1856, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trung Thanh Mai op TTT Transportation v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-12-14
+Neutral citation
+2007 TCC 734
+File numbers
+2007-1769(EI)
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2007-1769(EI)
+BETWEEN:
+TRUNG THANH MAI op TTT TRANSPORTATION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal
+of Trung Thanh Mai op TTT Transportation (2007-1770(CPP))
+on November 22, 2007 at Vancouver, British Columbia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Trung Thanh Mai
+Counsel for the Respondent:
+Stacey Repas
+____________________________________________________________________
+JUDGMENT
+The appeal under the Employment Insurance Act in relation to the issue of whether Dung Le was employed by the Appellant in insurable employment for the purposes of the Employment Insurance Act during the period from March 1, 2004 to February 28, 2005 and whether Hai Son Le was employed by the Appellant in insurable employment for the purposes of the Employment Insurance Act during the period from February 1, 2005 to February 28, 2006, is dismissed, without costs.
+Signed at Ottawa, Canada this 14th day of December, 2007.
+“Wyman W. Webb”
+Webb, J.
+Docket: 2007-1770(CPP)
+BETWEEN:
+TRUNG THANH MAI op TTT TRANSPORTATION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal
+of Trung Thanh Mai op TTT Transportation (2007-1769(EI))
+on November 22, 2007, at Vancouver, British Columbia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Trung Thanh Mai
+Counsel for the Respondent:
+Stacey Repas
+____________________________________________________________________
+JUDGMENT
+The appeal under the Canada Pension Plan is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Dung Le was employed by the Appellant in pensionable employment for the purposes of the Canada Pension Plan during the period from March 1, 2004 to February 28, 2005 and that Hai Son Le was employed by the Appellant in pensionable employment for the purposes of the Canada Pension Plan during the period from February 1, 2005 to February 28, 2006.
+Signed at Ottawa, Canada this 14th day of December, 2007.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2007TCC734
+Date: 20071214
+Docket: 2007-1769(EI)
+2007-1770(CPP)
+BETWEEN:
+TRUNG THANH MAI op TTT TRANSPORTATION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The issue in this case is whether Dung Le was employed by the Appellant in pensionable employment for the purposes of the Canada Pension Plan ("CPP") and in insurable employment for the purposes of the Employment Insurance Act ("EI") during the period from March 1, 2004 to February 28, 2005 and whether Hai Son Le was employed by the Appellant in pensionable employment for the purposes of the CPP and in insurable employment for the purposes of the EI during the period from February 1, 2005 to February 28, 2006. The Respondent had determined that Dung Le and Hai Son Le were not employed by the Appellant in pensionable employment for the purposes of the CPP and were not employed in insurable employment for the purposes of the EI during the periods referred to above.
+[2] Dung Le is the Appellant’s aunt. She is a sister of Hai Son Le who, therefore, is the Appellant's uncle.
+[3] The Appellant operated a simple trucking business. He operated one truck which he would use to transport mushrooms for Champs Mushrooms Inc. from Abbotsford, British Columbia to its customers in the states of Washington and Oregon. Occasionally on some trips he would pick up loads in the United States that were to be delivered to Champs Mushrooms Inc. in Abbotsford, British Columbia.
+[4] Only the Appellant testified during the hearing. Neither one of the alleged workers testified. The Appellant's testimony was that Dung Le would look after the paperwork for his business. He also testified that she would take information to the accountant to have the GST returns prepared. She would also collect all the receipts from the trips. However, the receipts would be minimal, as the only items that would be purchased would be gas, meals and occasionally repairs to the vehicle.
+[5] The Appellant indicated that he paid Dung Le $1,250 per month for her services. He indicated that, in his estimation, it would take her approximately one to two hours per day to complete the paperwork or approximately 5 to 10 hours per week, which would be approximately 20 to 40 hours per month.
+[6] Counsel for the Respondent introduced, as an exhibit, copies of two invoices rendered by the Appellant to Champs Mushrooms Inc. One invoice, which was invoice number 73, shows a billing date of November 23 to December 6, 2005. This invoice shows a trip on November 25, 2005, a trip on November 26, 2005, a trip on November 11, 2005 and two items identified as back hauled. For each trip, other than the back hauled, there are two amounts shown. No explanation was provided with respect to why there were two separate dollar amounts for each trip. For invoice number 73, there are 12 line items, not including the total at the bottom and not including the GST and PST lines both of which showed “0”.
+[7] Invoice number 74 (which presumably was the next one issued) shows a billing date of December 28, 2005 to January 3, 2006. Two trips are shown on this invoice. One on December 28, 2005 and another on January 2, 2006. There is also an item identified as back hauled 21 pallets - terminal freezer. There are also two dollar amounts for each trip (other than the back haul) and no explanation was provided to explain why there were two dollar amounts for each trip. The total number of line items in this invoice is eight, not including the line for the total amount and not including the lines for GST and PST for which the amounts were shown as “0”.
+[8] The Appellant also referred to trip records that were prepared by Dung Le but no copies of any trip records were introduced.
+[9] It does not seem reasonable that the completion of these items of paperwork would take 20 to 40 hours per month.
+[10] The Appellant indicated that Hai Son Le was a co-driver. He indicated that they would go together on the trips, and that Hai Son Le would drive the truck back to Abbotsford, British Columbia. The Appellant also indicated that Hai Son Le would clean the truck inside and out. The Appellant indicated that it would take Hai Son Le about two and a half hours to wash the truck and about 30 to 45 minutes for him to clean the trailer. This would be done a couple of times each week. Hai Son Le was paid $3,000 per month, regardless of the number of trips that the Appellant completed.
+[11] The Appellant testified that Hai Son Le and Dung Le were paid in cash, because he did not want to incur the service charges that would have been imposed by the bank if he would have paid them by cheque.
+[12] For the purposes of the CPP, pensionable employment is defined as follows:
+6. (1) Pensionable employment is
+(a) employment in Canada that is not excepted employment;
+(b) employment in Canada under Her Majesty in right of Canada that is not excepted employment; or
+(c) employment included in pensionable employment by a regulation made under section 7.
+6. (2) Excepted employment is
+(a) employment in agriculture or an agricultural enterprise, horticulture, fishing, hunting, trapping, forestry, logging or lumbering by an employer who either pays the employee less than two hundred and fifty dollars in cash remuneration in a year or employs the employee, on terms providing for payment of cash remuneration, for a period of less than twenty-five working days in a year;
+(b) employment of a casual nature otherwise than for the purpose of the employer's trade or business;
+(c) employment as a teacher on exchange from a country other than Canada;
+(d) employment of a person by the person's spouse or common-law partner, unless the remuneration paid to the person may be deducted under the Income Tax Act in computing the income of the spouse or common-law partner;
+(e) employment of a member of a religious order who has taken a vow of perpetual poverty and whose remuneration is paid either directly or by the member to the order;
+(f) employment for which no cash remuneration is paid where the person employed is the child of, or is maintained by, the employer;
+(g) employment as a member of the Canadian Forces or the Royal Canadian Mounted Police, except as provided by any other Act of Parliament;
+(h) employment in Canada by an employer who employs persons in Canada but under the terms of a reciprocal agreement between the Government of Canada and the government of another country is exempt from liability to make the contribution imposed on an employer by this Act;
+(i) employment by Her Majesty in right of a province or by an agent of Her Majesty in right of a province;
+(j) employment in Canada by the government of a country other than Canada or by an international organization;
+(j.1) employment of an Indian, as defined in the Indian Act, in respect of which the earnings are not included in computing income for purposes of the Income Tax Act; or
+(k) employment excepted from pensionable employment by a regulation made under section 7.
+[13] The definition of excepted employment in subsection 6(2) of the CPP does not include employment by a person with whom the worker is not dealing at arm’s length. This exception is present in the EI, but not in the CPP.
+[14] In Gill v. The Minister of National Revenue, 2004 CarswellNat 4067; 2004 TCC 744 Campbell Miller, J. made the following comments:
+19 The Respondent relied on the cases of Klein v. M.N.R.,[1] Castonguay v. M.N.R.[2] and Polusny v. M.N.R.[3] as authority for the proposition that if the relationship was artificial, there is no contract of service. None of these cases however are on all fours with the situation before me. In Klein, the issue was whether the Appellant actually worked at all - clearly there would be no contract if there was no work. With respect to Ms. Gill, I am satisfied she did in fact work for Mr. Gill throughout the summer of 2003.
+20 All the Federal Court of Appeal said in the Castonguay case was:
+... That question was not, as he assumed, whether the contract concluded between the applicant and her alleged employer was a contract of service or a contract for services; rather, it was as to whether the contract of employment which had allegedly existed between the parties was real or artificial.
+It does not explore the issue of whether a discrepancy between hours actually worked and hours reported for employment insurance benefits purposes renders a contract of employment artificial. The Polusny case dealt with a total lack of records to support the period of employment, an entirely separate issue.
+21 I am unconvinced that an exaggeration of hours by an employee renders a contract of employment artificial to the point that there is no contract of employment, except in cases where such exaggeration goes to the fundamental core of the contract; for example, if a claim to have worked is not supportable at all, that is, the employee simply did not work. In such a situation there would be no consideration for a contract to exist.
+[15] The Appellant has satisfied the onus of proof that is upon him in establishing that, on the balance of probabilities, both Hai Son Le and Dung Le performed some services that were directly related to his business for the purpose of the CPP and that they were paid. The reasonableness of the amount paid by the Appellant to each of these individuals is not relevant for the purposes of the CPP nor is the issue of whether the Appellant was dealing with these individuals at arm’s length. All that is relevant is that some services were provided for consideration. Therefore I find that both Hai Son Le and Dung Le were employed by the Appellant in pensionable employment for the purpose of the CPP during the periods in question.
+[16] In the EI, paragraph 5 provides in part as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+5. (2) Insurable employment does not include
+…
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+5. (3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[17] Since Hai Son Le is the Appellant’s uncle and Dung Le is the Appellant’s aunt, neither of these two individuals are related to the Appellant for the purposes of the Income Tax Act. Section 251 of the Income Tax Act provides in part as follows:
+251 (2) Definition of “related persons” — For the purpose of this Act, “related persons”, or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or common-law partnership or adoption;
+251 (6) Blood relationship, etc. — For the purposes of this Act, persons are connected by
+(a) blood relationship if one is the child or other descendant of the other or one is the brother or sister of the other;
+(b) marriage if one is married to the other or to a person who is so connected by blood relationship to the other; and
+(b.1) common-law partnership if one is in a common-law partnership with the other or with a person who is connected by blood relationship to the other; and
+(c) adoption if one has been adopted, either legally or in fact, as the child of the other or as the child of a person who is so connected by blood relationship (otherwise than as a brother or sister) to the other.
+[18] Since neither Hai Son Le nor Dung Le is related to the Appellant for the purposes of the Income Tax Act, the provisions of paragraph 5 (3) (b) of the EI are not applicable.
+[19] However for the purpose of the EI, insurable employment does not include employment if the employer and employee are not dealing with each other at arm’s length.
+[20] In Parill v. The Minister of National Revenue [1998] F.C.J. No. 836, the Federal Court of Appeal made the following comments with respect to the onus of proof in an appeal dealing with the issue of whether a worker was dealing at arm’s length with his employer for the purposes of determining whether the employment was insurable employment:
+4 … At the same time, it must be remembered that the onus rested on the applicant to establish on a balance of probabilities that he and his employer did in fact deal at arm's length and therefore that he qualifies to receive benefits under the Act in respect of the disputed employment.
+[21] Although it was the worker who was appealing the determination in Parill and in this case it is the employer, the same principle will apply. The onus of proof is on the Appellant to establish, on a balance of probabilities, that he was dealing at arm’s length with Dung Le and Hai Son Le.
+[22] In the decision of this Court in Parill v. The Minister of National Revenue [1996] T.C.J. No. 1680 (which was affirmed by the Federal Court of Appeal), Cuddihy, J. stated that:
+20 From these cases parties are not dealing at arm's length when the predominant consideration or the overall interest or the method used amount to a process that is not typical of what might be expected of parties that are dealing with each other at arm's length.
+21 Parties will not be dealing with each other at arm's length if there is the existence of a common mind which directs the bargaining for both parties to a transaction or that the parties to a transaction are acting in concert without separate interests or that either party to a transaction did or had the power to influence or exert control over the other and that the dealings of the parties are not consistent with the object and spirit of the provisions of the law and they do not demonstrate a fair participation in the ordinary operation of the economic forces of the market place1.
+22 Therefore the existence of a combination of one or several of these initiatives that would be inconsistent or interfere, in due process negotiating between employer and employee and with the object and intent of the legislation, will not survive the arm's length test.
+[23] In this case the Appellant has failed to satisfy the onus of proof that is upon him to establish that he was dealing with Hai Son Le at arm’s length and that he was dealing with Dung Le at arm’s length. As noted above, neither Hai Son Le nor Dung Le testified during the hearing. I am not satisfied, in the absence of their testimony, that the Appellant was dealing with Hai Son Le and Dung Le at arm’s length. The evidence, as presented, raises serious concerns with respect to the amounts paid to Dung Le in relation to the services that she was providing. With respect to Hai Son Le, the fact that Hai Son Le was paid the same amount per month regardless of the number of trips made in any particular month and in particular that he was paid $3,000 for the month of November 2005 (when three trips were made) and $3,000 for the month of December 2005 (when one trip was made) raise questions about the reasonableness of the amount paid to him and whether the Appellant was dealing with him at arm’s length.
+[24] As a result the appeal under the EI is dismissed.
+[25] The appeal under the CPP is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Hai Son Le and Dung Le were employed by the Appellant in pensionable employment for the purposes of the CPP during the periods in question.
+Signed at Ottawa, Canada this 14th day of December, 2007.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2007TCC734
+COURT FILE NO.: 2007-1769(EI)
+STYLE OF CAUSE: TRUNG THANH MAI op TTT TRANSPORTATION AND
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: November 22, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: December 14, 2007
+APPEARANCES:
+Agent for the Appellant:
+Trung Thanh Mai
+Counsel for the Respondent:
+Stacey Repas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

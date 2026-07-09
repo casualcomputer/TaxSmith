@@ -1,0 +1,354 @@
+Title: Chartier and Nadeau v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27142/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-37-27142-chartier-and-nadeau-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-04-18
+
+# Chartier and Nadeau v. The Queen
+
+- Citation: 2007 TCC 37
+- Decision date: 2007-04-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1011, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chartier and Nadeau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-18
+Neutral citation
+2007 TCC 37
+File numbers
+2005-1235(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1235(IT)G
+BETWEEN:
+ALAIN CHARTIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Claudet Nadeau (2005-1258(IT)G),
+on November 6, 2006, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Sébastien Gingras and
+Bernard Goudreau
+Counsel for the Respondent:
+Michel Lamarre
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under the Income Tax Act (ITA) for the 1999 taxation year is allowed, the Appellants shall be entitled to the costs in one cause, and the Appellant's file shall be referred back to the Canada Customs and Revenue Agency for reconsideration and reassessment on the basis that the Appellant is entitled to a capital gains deduction under subsection 110.6(2.1) of the ITA, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of April 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 20th day of February 2008.
+François Brunet, Revisor
+Docket: 2005-1258(IT)G
+BETWEEN:
+CLAUDET NADEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Alain Chartier (2005‑1235(IT)G),
+on November 6, 2006, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Sébastien Gingras and
+Bernard Goudreau
+Counsel for the Respondent:
+Janie Payette
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act (ITA) for the 1999 taxation year is allowed, the Appellants shall be entitled to the costs in one cause, and the Appellant's file shall be referred back to the Canada Customs and Revenue Agency for reconsideration and reassessment on the basis that the Appellant is entitled to a capital gains deduction under subsection 110.6(2.1) of the ITA, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of April 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 20th day of February 2008.
+François Brunet, Revisor
+Citation: 2007TCC37
+Date: 20070418
+Dockets: 2005-1235(IT)G
+2005-1258(IT)G
+BETWEEN:
+ALAIN CHARTIER,
+CLAUDET NADEAU,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This appeal pertains to the 1999 taxation year. The provisions of the Income Tax Act that apply to the dispute are sections 110.6 and subsections 125(7), 248(1) and 251(5) of the ITA.
+[2] The Court must first determine whether the Minister of National Revenue ("the Minister") correctly determined that the call option, conferred by the Option Agreement of October 17, 1997, was not a right under a purchase and sale agreement relating to a share of the capital stock of a corporation within the meaning of paragraph 110.6(14)(b) of the ITA, and that therefore, the Class D shares sold by the Appellant Chartier during the year in issue were not qualified small business corporation shares because the Centre funéraire Côte‑des‑Neiges Inc. was not a Canadian‑controlled private corporation.
+[3] Secondly, the Court must determine whether the Minister correctly disallowed the $239,321 deduction claimed by the Appellants under subsection 110.6(2.1) of the ITA.
+[4] Since the facts were the same in the matters of Alain Chartier (2005‑1235(IT)G) and Claudet Nadeau (2005-1258(IT)G), the parties agreed that the evidence would be common to both matters. Throughout the judgment, I will be using the following abbreviations: Service Corporation International (Canada) shall be abbreviated as "SCI Canada" and the Centre funéraire Côte‑des‑Neiges Inc. shall be abbreviated as "CFCDN".
+[5] There is no real dispute as to the facts. The dispute is essentially about the scope of an agreement (Exhibit A-1, tab 3).
+[6] Indeed, the Appellant Claudet Nadeau admitted to almost all the facts upon which the assessment under appeal was explained and justified. The following facts were admitted to:
+[TRANSLATION]
+(a) On October 17, 1997, a share purchase and sale agreement was entered into between Service Corporation International (Canada) Limited ("SCI Canada"), the purchaser, and Services Memoria Inc. and 9042‑2098 Québec Inc., the vendors, with respect to their shares in the capital stock of CFCDN ("the Purchase and Sale Agreement").
+(b) SCI Canada is controlled by an American corporation.
+(c) Prior to the transaction of October 17, 1997, the issued and outstanding shares of CFCDN were held as follows:
+Shareholder
+Class A shares
+Class B voting shares
+Class D shares
+Services Memoria Inc.
+9042
+Sylvie Carrier
+Louis-Philippe Carrier
+Valérie Carrier
+Claudette Nadeau
+Alain Chartier
+17,569,549
+1,100
+504,178
+504,178
+504,178
+319,000
+319,000
+(d) Only the Class B shares were voting shares.
+(e) The shares sold under the Purchase and Sale Agreement are as follows:
+Shareholder
+Class A shares sold
+Class B shares sold
+%
+of shares sold
+Purchase price
+Services Memoria Inc.
+9042
+17,569,549
+539
+100%
+49%
+$17,568,951
+$49
+(f) On the same day, following this share Purchase and Sale Agreement, an option agreement was entered into between SCI Canada, 9042‑2098 Québec Inc., and the minority shareholders of the preferred Class D shares, including the Appellant Chartier and Kaufman Laramée, who were representing the minority shareholders (the "Option Agreement").
+(g) The Option Agreement provided as follows:
+· 9042-2098 Québec Inc. granted SCI Canada the option, exercisable at any time after January 1, 1999, to purchase its remaining 561 Class B voting shares of the capital stock of CFCDN.
+· The minority shareholders granted SCI Canada the option, exercisable at any time after January 1, 1999, to purchase all of their Class D shares of the capital stock of CFCDN.
+· Conversally, SCI Canada granted each of the minority shareholders the right to sell all their shares at any time after January 1, 1999, at a price of $1 per share plus accrued unpaid dividends.
+(h) The shares contemplated by the Option Agreement are as follows:
+Shareholder
+Class B shares
+Class D shares
+%
+of shares
+Purchase price
+9042
+Sylvie Carrier
+Louis-Philippe Carrier
+Valérie Carrier
+Claudette Nadeau
+Alain Chartier
+561
+504,178
+504,178
+504,178
+319,100
+319,100
+51%
+Total
+$51
+$504,178
+$504,178
+$504,178
+$309,000
+$309,000
+$2,150,734
+(j) On January 31, 1999, SCI Canada exercised the options contemplated in the Option Agreement; 9042‑2098 Québec Inc. sold SCI Canada its 561 Class B voting shares in the capital stock of CFCDN, and the minority shareholders, including the Appellant Chartier, sold SCI Canada their CFCDN Class D shares.
+(k) In his 1999 income tax return, the Appellant Chartier reported a taxable capital gain of $239,321 in respect of this disposition and claimed a deduction equal to that amount under subsection 110.6(2.1) of the ITA.
+[7] The only paragraph the contents of which were denied is as follows:
+[TRANSLATION]
+(i) As of October 17, 1997, CFCDN was controlled by SCI Canada, and SCI Canada was controlled by a non-resident American corporation.
+[8] As for the Respondent, she admitted to almost all the facts set out in the Appellant Chartier's Notice of Appeal, namely:
+[TRANSLATION]
+1. On October 17, 1999, a share purchase and sale agreement ("the Purchase and Sale Agreement") was entered into between Service Corporation International (Canada) Limited ("SCI Canada"), as purchaser, and Services Memoria Inc. and 9042‑2098 Québec Inc., as vendors, in respect of certain shares of Centre Funéraire Côté‑des‑Neiges Inc. ("CFCDN").
+2. Immediately prior to the Purchase and Sale Agreement, the shareholders of CFCDN were as follows:
+Name
+Number and class of shares
+Services Memoria Inc.
+9042‑2098 Québec Inc.
+Sylvie Carrier
+Louis-Philippe Carrier
+Valérie Carrier
+Claudet Nadeau
+Alain Chartier (Appellant)
+17,569,549 Class A shares
+1,100 Class B shares
+504,178 Class D shares
+504,178 Class D shares 504,178 Class D shares 319,100 Class D shares 319,100 Class D shares
+3. Only the Class B shares, all of which were held by 9042‑2098 Québec Inc., were voting shares.
+4. Under the Purchase and Sale Agreement, SCI Canada purchased from Services Memoria Inc. all of the Class A shares held by Services Memoria Inc. and 539 Class B shares held by 9042‑2098 Québec Inc., for a total of 49% of the Class B shares.
+5. SCI Canada is a taxable Canadian corporation controlled by a non-resident corporation for the purposes of the Income Tax Act, R.S.C. 1985 (5th Supp.) c. 1, as amended ("ITA").
+6. Concurrently with the Purchase and Sale Agreement, an option agreement ("the Option Agreement") was entered into between SCI Canada and the shareholders (including the Appellant Chartier) who had not disposed of their CFCDN shares.
+7. Under the Option Agreement, 9042‑2098 Québec Inc. granted SCI Canada the option to purchase the balance of its CFCDN Class B shares, that is to say, 561 shares representing 51% of CFCDN's voting rights, which option could be exercised at any time after January 1, 1999.
+8. As for the other shareholders, they granted SCI Canada the option to purchase all their CFCDN Class D shares at any time after January 1, 1999, and SCI Canada granted them the option to sell all their CFCDN Class D shares at any time after January 1, 1999, at a price of one dollar ($1.00) per share.
+. . .
+11. On January 31, 1999, a Purchase and Sale Agreement concerning the shares referred to in the preceding paragraph was entered into between SCI Canada, 9042‑2098 Québec Inc. and the other CFCDN shareholders, including the Appellant Chartier.
+12. The Appellant Chartier disposed of his shares in consideration of $319,000, plus accrued unpaid dividends.
+13. In his 1999 income tax return, the Appellant Chartier reported a taxable capital gain of $239,321 from the disposition of his CFCDN Class D shares and claimed a deduction equal to that amount under subsection 110.6(2.1) of the ITA in connection with a purported disposition of qualified small business corporation shares.
+14. By notice of reassessment dated January 20, 2003, for the 1999 taxation year, the Canada and Revenue Agency disallowed the deduction of the $239,321 in computing the Appellant Chartier's income on the basis that the capital gain did not qualify for the capital gains exemption under subsection 110.6(2.1) of the ITA.
+15. The said reassessment was issued on the basis that the Class D shares which the Appellant Chartier disposed of did not come within the definition of "qualified small business corporation share" in section 110.6 of the ITA because CFCDN was not, at the time that the shares were disposed of, a "Canadian‑controlled private corporation" in view of paragraph 251(5)(b) of the ITA.
+16. The Appellant Chartier duly objected to the reassessment issued on January 20, 2003, in respect of the 1999 taxation year, on the basis that, despite the application of paragraph 251(5)(b) of the ITA, CFCDN was a Canadian‑controlled private corporation for the purposes of the definition of "qualified small business corporation share" in view of paragraph 110.6(14)(b) of the ITA.
+17. On January 17, 2005, the Canada Revenue Agency issued a Notification of Confirmation, confirming the reassessment of January 20, 2003, on the basis that paragraph 110.5(14)(b) of the ITA did not apply to the instant case and that the CFCDN Class D shares therefore did not come within the definition of "qualified small business corporation shares" set out in section 110.6 of the ITA.
+[9] The facts which were denied, or in respect of which no knowledge was claimed, were as follows:
+[TRANSLATION]
+6. Concurrently with the Purchase and Sale Agreement, an Option Agreement was entered into between SCI Canada and the minority shareholders (including the Appellant Chartier) who had not disposed of their CFCDN shares. (denied)
+9. The Option Agreement was under the Purchase and Sale Agreement and was in accordance with the terms of that Agreement, being an integral part of it. (denied)
+10. On January 22, 1999, SCI Canada duly sent a notice that it was exercising the option to purchase the Class B shares of CFCDN held by 9042‑2098 Québec Inc. and a notice that it was exercising the option to purchase the Class D shares of CFCDN held by the other shareholders, including the shares held by the Appellant Chartier. (no knowledge)
+[10] Based on all the admitted facts, the Appellant is essentially claiming that he is entitled to the capital gains deduction because the Class "D" shares of which he disposed are eligible small business corporation shares because CFCDN was a Canadian‑controlled private corporation upon the disposition of the shares in question.
+[11] In support of his submissions, he relies on paragraph 110.6(14)(b) of the ITA, which provides that the right referred to in paragraph 251(1)(b) of the ITA does not include a right under a purchase and sale agreement relating to a share of the capital stock of a corporation.
+[12] Therefore, he submits that the right to purchase the shares (the Option Agreement) was a right under a purchase and sale agreement relating to the shares of the capital stock of a corporation.
+[13] The Respondent, for her part, submits that while the Option Agreement was signed on the same day, it was not part of the Purchase and Sale Agreement, and therefore, that the exception provided for in 110.6(14)(b) of the ITA does not apply.
+[14] Under paragraph 251(5)(b) of the ITA, the right to purchase results in SCI Canada being deemed to own all the voting shares of CFCDN, and thus, to be in control of CFCDN, thereby preventing CFCDN from being a Canadian‑controlled private corporation at the time that the Appellants' shares were disposed of.
+[15] In order to be entitled to the capital gains deduction referred to in subsection 110.6(2.1) of the ITA, certain essential conditions must be met:
+110.6. [Definitions]
+(2.1) In computing the taxable income for a taxation year of an individual (other than a trust) who was resident in Canada throughout the year and who disposed of a share of a corporation in the year or a preceding taxation year and after June 17, 1987 that, at the time of disposition, was a qualified small business corporation share of the individual, there may be deducted such amount as the individual may claim not exceeding the least of
+(a) the amount determined by the formula in paragraph (2)(a) in respect of the individual for the year;
+(b) the amount, if any, by which the individual's cumulative gains limit at the end of the year exceeds the amount deducted under subsection 110.6(2) in computing the individual's taxable income for the year,
+(c) the amount, if any, by which the individual's annual gains limit for the year exceeds the amount deducted under subsection 110.6(2) in computing the individual's taxable income for the year, and
+(d) the amount that would be determined in respect of the individual for the year under paragraph 3(b) (other than an amount included in determining the amount in respect of the individual under paragraph 110.6(2)(d)) in respect of capital gains and capital losses if the only properties referred to in paragraph 3(b) were qualified small business corporation shares disposed of by the individual after June 17, 1987.
+[Emphasis added.]
+[16] The main condition provided for in this provision, which is, in fact, highly relevant to the matter at hand, is that the shares of the capital stock of CFCDN must be qualified small business corporation shares, which are defined in section 110.6 of the ITA:
+110.6. [Definitions]
+(1) In this section,
+"qualified small business corporation share" of an individual (other than a trust that is not a personal trust) at any time (in this definition referred to as the "determination time") means a share of the capital stock of a corporation that:
+(a) at the determination time, is a share of the capital stock of a small business corporation owned by the individual, the individual's spouse or common-law partner or a partnership related to the individual,
+. . .
+[Emphasis added.]
+[17] The condition that is relevant to the instant case is, of course, that of a "small business corporation", a phrase defined in subsection 248(1) of the ITA:
+248. [Definitions]
+(1) In this Act,
+"small business corporation", at any particular time, means, subject to subsection 110.6(15), a particular corporation that is a Canadian‑controlled private corporation all or substantially all of the fair market value of the assets of which at that time is attributable to assets that are:
+(a) used principally in an active business carried on primarily in Canada by the particular corporation or by a corporation related to it,
+. . .
+[Emphasis added.]
+[18] This definition is closely tied to the definition of Canadian‑controlled private corporation, which must be met in order for the shares to qualify. That definition is set out in subsection 125(7) of the ITA:
+125. [Small business deduction]
+(7) Definitions. In this section
+"Canadian-controlled private corporation" means a private corporation that is a Canadian corporation other than
+(a) a corporation controlled, directly or indirectly in any manner whatever, by one or more non-resident persons, by one or more public corporations (other than a prescribed venture capital corporation), by one or more corporations described in paragraph (c), or by any combination of them,
+. . .
+[Emphasis added.]
+[19] On January 31, 1999, CFCDN was not controlled by a non‑resident corporation; however, in view of paragraph 251(5)(b) of the ITA, SCI Canada had to be deemed to have owned all the voting shares of CFCDN because it had a contingent right, that is to say, an option, to acquire the remaining shares. That paragraph reads as follows:
+251. [Arm's length]
+(5) [Control by related groups, options, etc.] For the purpose of subsection 251(2) and the definition "Canadian-controlled private corporation" in subsection 125(7),
+. . .
+(b) where at any time a person has a right under a contract, in equity or otherwise, either immediately or in the future and either absolutely or contingently,
+(i) to, or to acquire, shares of the capital stock of a corporation or to control the voting rights of such shares, the person shall, except where the right is not exercisable at that time because the exercise thereof is contingent on the death, bankruptcy or permanent disability of an individual, be deemed to have the same position in relation to the control of the corporation as if the person owned the shares at that time,
+. . .
+[Emphasis added.]
+[20] This is the basis of the Respondent's position, which is that that provision applies and that the Appellant Chartier is not entitled to his capital gains deductions because his shares do not qualify. For his part, the Appellant Chartier relies on the exception to paragraph 251(5)(b) of the ITA, which is set out at paragraph 110.6(14)(b) of the ITA:
+(14) For the purposes of the definition "qualified small business corporation share" in subsection 110.6(1),
+. . .
+(b) in determining whether a corporation is a small business corporation or a Canadian-controlled private corporation at any time, a right referred to in paragraph 251(5)(b) shall not include a right under a purchase and sale agreement relating to a share of the capital stock of a corporation;
+[Emphasis added.]
+[21] The language of paragraph 110.6(14)(b) is clear. The Court must therefore comply with the general principle enunciated in Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622, a decision of the Supreme Court of Canada, and in LGL Ltd. v. Canada, [1999] T.C.J. No. 99, a decision of Chief Judge Bowman of the Tax Court of Canada.
+[22] The Appellant Chartier argues that the Option Agreement was under the Purchase and Sale Agreement. Further, he submits that the option is implicitly provided for in the contract; his explanation or justification for why this was not expressly provided for was that it was essentially a drafting error. In the Appellant's submission, it was clear at all times that the parties intended to sell all the CFCDN shares, and the Option Agreement was an integral part of the relevant contract.
+[23] In support of their arguments, the Appellants submit that one must read together sections 1.5, 3.1 and 6.1 of the Share Purchase Agreement (Exhibit A-1, tab 3, page 1), and it can then be seen that the Option Agreement is an integral part of the Purchase and Sale Agreement. The sections in question provide:
+Section 3.1 Capacity, Organization, Standing, Authority and Capitalization
+. . .
+(g) . . . Except as provided in the January 14 Agreement and the Option Agreement described in 6.1(c), there are no existing options, warrants, conversion rights, calls or commitments of any character relating to the capital of the Company.
+Section 6.1 Execution of Collateral Instruments and Agreements. Each of the various instruments and agreements contemplated by this Agreement shall be duly executed and delivered on the Closing Date by the parties indicated therein, and shall contain the provisions of and be in the forms of the instruments and agreements attached as exhibits hereto and shall be made a part hereof, which shall include but not be limited to the following:
+(a) Management Agreement. Services Memoria Inc. and the Company shall have executed a Management Agreement substantially in the form attached hereto as Exhibit C.
+(b) Management Employment Agreements. The Company and Yvon Rodrigue shall have executed a Management Employment Agreement substantially in the form attached hereto as Exhibit D. The Company and Alain Chartier shall have executed a Management Employment Agreement substantially in the form attached hereto as Exhibit E. SCIC hereby acknowledges that in the event that Alain Chartier and/or Yvon Rodrigue fail to fulfill the terms of their Management Employment Agreement with de Company, SCIC shall not have the right to deduct or offset any amounts owed to Vendor pursuant to the terms and conditions of this Agreement against any amount that the Company and/or SCIC may claim or purport to claim from Alain Chartier and/or Yvon Rodrigue as a result of such failure.
+(c) Non-Competition Agreements. The Vendor, the Company, Johnny Carrier and SCIC shall have executed a Non-Competition Agreement substantially in the form attached hereto as Exhibit F.
+[Emphasis added.]
+[24] The Appellants further submit that section 6.1 lists the "agreements" that form an integral part of the Agreement of Purchase and Sale. Since the list "shall . . . not be limited", the Option Agreement could be such an agreement and therefore form an integral part of the Purchase and Sale Agreement on the same basis as the agreements named in that section.
+[25] Secondly, the Appellants refer to section 3.1, which states that the Option Agreement is described in section 6.1(c). However, section 6.1(c) does not describe the Option Agreement; rather, it refers to a non-competition agreement. The Appellants see this as proof that there was a simple drafting error and that the Option Agreement should have been in that section, or, more specifically, section 6.1(c).
+[26] The Appellants then refer to section 1.5 of the Agreement, which reads:
+Section 1.5 Non-Competition. In addition to the Purchase Price, SCIC shall pay to the Vendor on the Closing Date the sum of five Million Dollars ($5,000,000) for the undertaking of Johnny Carrier and the Vendor not to compete with SCIC and the Company, the whole upon the terms and conditions set out in the Non-Competition Agreement contemplated by Section 6.1b) of this Agreement.
+[27] According to this provision, the non-competition agreement should have been referred to in section 6.1(b), not section 6.1(c). Essentially, the Appellants submit that this was simply a drafting error and that the Option Agreement should have been referred to in section 6.1, or, more specifically, section 6.1(c).
+[28] The Appellants then submit that since there was a drafting error, the contract must be interpreted. Although I do not believe that it is necessary to resort to the rules of contract interpretation to decide this matter, here is what the Superior Court of Quebec instructs us about cases where the principles of contract interpretation can be applied:
+26 In support of its submissions, VMM relies on articles 1425, 1426, 1427 and 2684 of the Civil Code of Québec, which pertain to the interpretation of contracts. VMM suggests that the Court should hold that the parties wanted VMM's monetary obligations to be reduced if Deslauriers did not comply with his exclusivity commitment until he reached the age of 60.
+27 VMM is correct when it says that the Court has a broad discretion in seeking the parties' intention.
+28 It is also correct to assert that our courts are playing an increasingly interventionist role, as Professor Jobin noted in Les obligations, 6th ed. (Cowansville, Quebec: Yvon Blais, 2005)]:
+[TRANSLATION]
+434. Actually, the role of judges is a matter of some controversy: must they merely clarify the scope of that which has been expressed in the contract, or may they add or subtract an element in appropriate cases? If they may do the latter, interpreting will sometimes mean "redoing" or "revising", rather than "further explaining" and "clarifying". We will see that although Quebec courts have not committed themselves to a firm position in this scholarly debate, they have decided to play an active role with regard to certain questions, notably through the "implicit obligations" technique. In fact, the legislator has expressed some measure of approval of this judicial interventionism by codifying certain judge-made rules in the new Civil Code. With the emergence and codification of the general principle of good faith, the courts are continuing to play this creative role with respect to certain questions, but are taking a broader outlook when doing so. As one author has emphasized, this is another form of judicial interventionism.
+29 However, the rules of contractual interpretation will only be applied where some ambiguity exists. Professor Jobin states:
+[TRANSLATION]
+435. The ambiguity requirement — Where the contract is clear, the judge's role is to apply, not interpret. The difference between the two is not merely semantic: the objective of the application process is to apply a defined legal rule to a given set of factual circumstances, whereas the objective of interpretation is to define the scope of the legal rule before it can be applied. Thus, in order for the interpretive process to be triggered, there must be some ambiguity or doubt as to the meaning to be given to the terms of a contract: the courts have held numerous times that where there is no such ambiguity, a court must not distort a clear contract on the pretext that it is seeking this intention. It must simply apply what is literally expressed, proceeding from the assumption that the wording faithfully reflects the parties' intention. But where there is reasonable doubt, the situation is different and the rules of interpretation will set aside the literal meaning in favour of the parties' true intention at the time that the contract was formed. Nonetheless, the court, having analysed this issue, might well conclude that, despite the ambiguity, the literal meaning is the most appropriate meaning under the circumstances.
+The fact that the parties differ on a matter of interpretation does not automatically mean that a genuine ambiguity exists. This means that there is something unusual, if not paradoxical, about the judge's role. In a sense, the judge must first interpret the contract to determine whether it is clear or ambiguous; if it is ambiguous, the judge must interpret it again to resolve the ambiguity. It is the second step, not the first, that involves the application of the rules enacted by the legislator in articles 1425 to 1432 of the Civil Code. The question whether a contract is clear or ambiguous can only be answered on a case-by-case basis because, as one writer has noted, [TRANSLATION] "there are no hard and fast rules for what constitutes doubt or ambiguity." Thus, the courts have complete discretion to decide whether a contract is clear or ambiguous. (Emphasis added.)
+Valiquette, Martin, Montmarquet & Associés inc. c. Deslauriers, 2006 QCCS 5247, 2006 EYB 2006-110597 (REJB)
+[29] It is not really helpful to resort to the rules of interpretation in the instant case because there is no genuine ambiguity. What must be decided is whether there was really an error in the way the parties' intentions were written down.
+[30] There is indeed a reference to the Option Agreement in section 3.1. Can such a reference to a right create a "right under a purchase and sale agreement" [un droit prévu par convention d'achat-vente]?
+[31] Indeed it can: Hubert Reid, Dictionnaire de droit québécois et canadien, 2d ed. (Cowansville, Que.: Wilson & Lafleur, 2001); the term "prévu" is defined at page 438 as [TRANSLATION] "imagined, envisaged".
+[32] Thus, it is enough for the option to have been contemplated or envisaged in the purchase and sale agreement, and section 3.1 shows that the option in the instant case was so contemplated or envisaged. Moreover, the evidence is clear that the Option Agreement was envisaged at the time that the Purchase and Sale Agreement was signed.
+[33] The Appellants even argued that a drafting error was the only reason that the agreement was not expressly discussed in the contract.
+[34] Based on the terms of the contract, I find that the option in question is indeed a "right under a purchase and sale agreement" within the meaning of paragraph 110.6(14)(b) of the ITA.
+[35] In addition, I think it is necessary to specify that since the Option Agreement is a contract, it creates rights between the parties — in this instance, an option. The effect of contracts is discussed in article 1433 of the Civil Code of Québec, S.Q. 1991, c. 64:
+1433. A contract creates obligations and, in certain cases, modifies or extinguishes them.
+In some cases, it also has the effect of constituting, transferring, modifying or extinguishing real rights.
+[36] How can such a conclusion be reconciled with the general principle that the provisions of the ITA must be applied to what taxpayers have done, as opposed to what they would have wished to do?
+[37] One often encounters situations in which a taxpayer wants to play all the angles in order to maximize his tax savings. In order to achieve this objective, the taxpayer often uses ambiguous or very imprecise wording that can allow for and warrant several interpretations.
+[38] In the case at bar, the vendors' intention from the very beginning was so patently clear that there was nothing potentially ambiguous about it. This is not a justification after the fact or an attempt to capitalize on something obscure or ambiguous, or even to take advantage of a situation; essentially, the Court is being asked to recognize a reality that the Appellants intended, and, though I admit that their intention was expressed ambiguously, they put some of the elements in place to give effect to it.
+[39] During the planning stage, the person or people responsible for the drafting happened to make a mistake. Based on the inconsistency generated by that mistake, the Agency, using a very restrictive interpretation, submits that the assessments must be rooted in the literal version of the text and that the mistake should simply not be taken into consideration.
+[40] On a few occasions, I have stated that the respondent should not have to bear the consequences of the negligence, carelessness or irresponsibility of various stakeholders when it is determining the tax treatment to be afforded to a given case. In addition, on several occasions, I have cited with approval the general principle that an assessment must be based on what was done, not on what the taxpayer wanted to do.
+[41] I do not believe that the case at bar involves either of these situations, because the preponderance of the evidence argues in favour of a simple recognition that there was a mistake, just as one would recognize a mistake in making a calculation involving several figures.
+[42] The Respondent asserts that the Option Agreement cannot have been an integral part of the contract because it did not involve the same parties or the same subject matter. Nothing prevents two parties to a contract from providing that they will have to comply with another contract that other parties will sign later.
+[43] In the case at bar, the two agreements did not have the same subject matter; one of them pertained to the purchase and sale of shares, and the other pertained to a call option. There is nothing irregular about parties to a sale stating that they will have to comply with a second agreement under which other shares might be sold.
+[44] As for the argument that it would have been easy, at the time that the purchase and sale agreement was drafted, to clearly provide for the option because the parties knew, on October 17, 1997, that there would be a second purchase and sale transaction involving the remaining shares, that argument does not stand up to scrutiny because the likely reason that this was not done was that the people who signed the contracts were not the same in both cases. In addition, the Appellants' submissions that the option was meant to be explicitly provided for are reasonable and plausible, because the situation was brought about solely by virtue of a mistake.
+[45] The Appellants add that the following paragraph from the Purchase and Sale Agreement clearly shows that the parties always intended to sell all the CFCDN shares to SCI Canada:
+WHEREAS the parties desire to provide for the sale and transfer to SCIC of all of the issued and outstanding shares of the share capital of the Company owned by the Vendor, the whole in exchange for cash and other good and valuable consideration, and upon the terms and subject to the conditions herein set forth; and
+[46] The exception in paragraph 110.6(14)(b) of the ITA does not instruct us to gauge the parties' intent, but solely to determine whether the option is under the purchase and sale agreement.
+[47] It seems clear in this instance that the shareholders intended to sell everything and that the only reason that they wanted to wait to sell all the shares to a non‑resident corporation was for the shareholders to have the benefit of the capital gains deduction.
+[48] In my opinion, the parties' intention is clear: they wanted to sell all the shares of CFCDN. This is not a case in which the intention of the parties must be interpreted. The issue is essentially whether to accept or reject the argument that an error was committed.
+[49] As for the Respondent, her last argument was that the CRA's position at the 2002 conference of the Association de planification fiscale et financière (APFF), as stated by D. Lachapelle et al. in Table ronde sur la fiscalité fédérale, Congrès 2002 (Montréal: APFF, 2002), 57:11, at page 57:16, Question No. 6, Sens du terme « convention d’achat‑vente » à l'alinéa 110.6(14)b) de la L.I.R., was that an option contract is not a purchase and sale agreement. The question asked was, in part, as follows:
+[TRANSLATION]
+In a situation where a shareholder agrees in one contract to grant a call option to a potential purchaser and this purchaser in a second contract grants the shareholder an option to sell him his shares, is this a purchase and sale agreement within the meaning of paragraph 110.6(14)(b) I.T.A.?
+The answer was, in relevant part, as follows:
+[TRANSLATION]
+It is our opinion that an option to purchase or an option to sell shares does not constitute a purchase and sale agreement of shares for the purposes of applying paragraph 110.6(14)(b) I.T.A. The call option is usually an agreement to agree which precedes the purchase and sale agreement that will result if the opportunity afforded by the option is grasped. It is a unilateral contract that is binding on the one who grants the option but it creates no obligation on the one who holds the option.
+[The translation is from CRA Electronic Library Document No. 2002‑01567450, Question No. 6.]
+[50] While this may be so, what must be assessed here, in my view, is whether an option agreement, contemplated by a purchase and sale agreement, can trigger the exception in paragraph 110.6(14)(b) of the ITA, not whether the option agreement is itself a purchase and sale agreement.
+[51] It is obvious that a contract entitled "Option Agreement" would not be a purchase and sale agreement; however, a clause in a contract, stating that the purchaser and vendor offer each other the option to sell or purchase the remaining shares, could be a "right under a purchase and sale agreement" [droit prévu par convention d'achat-vente].
+[52] It is clear to me that since the Option Agreement was referred to, and therefore envisaged, in the Purchase and Sale Agreement, it was "under" that agreement and was therefore an integral part of it.
+[53] The exception in paragraph 110.6(14)(b) of the ITA applies to the case at bar. As for paragraph 251(5)(b) of the ITA, it does not apply, and thus, the presumption that SCI Canada was already the owner of the shares on October 17, 1997, a presumption that would have caused CFCDN to lose the status of Canadian‑controlled private corporation, is not to be made.
+[54] For all these reasons, I allow the appeal, with costs in one cause to the Appellants. The matter shall be referred back to the Canada Customs and Revenue Agency for reconsideration and reassessment on the basis that the Appellants are entitled to their capital gains deductions under subsection 110.6(2.1) of the ITA.
+Signed at Ottawa, Canada, this 18th day of April 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 20th day of February 2008.
+François Brunet, Revisor
+CITATION: 2006TCC37
+COURT FILE NOS.: 2005-1235(IT)G and 2005-1258(IT)G
+STYLES OF CAUSE: Alain Chartier and Claudet Nadeau v.
+Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: November 6, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENTS: April 18, 2007
+APPEARANCES:
+Counsel for the Appellants:
+Sébastien Gingras and Bernard Goudreau
+Counsel for the Respondent:
+Michel Lamarre
+COUNSEL OF RECORD:
+For the Appellants:
+Names: Sébastien Gingras and Bernard Goudreau
+Firm: Ogilvy Renault
+City: Québec, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,116 @@
+Title: Lapierre c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26975/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-720-26975-lapierre-c-la-reine-en.md
+Document type: case_law
+Last modified: 2005-10-26
+
+# Lapierre c. La Reine
+
+- Citation: 2005 TCC 720
+- Decision date: 2005-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 534, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lapierre c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-26
+Neutral citation
+2005 TCC 720
+File numbers
+2005-2227(IT)I
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Income Tax Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2005-2227(IT)I
+BETWEEN:
+MICHELLE LAPIERRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 24, 2005, at Montreal (Quebec).
+Before: The Honourable Justice Pierre R. Dussault
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeals of the determinations of the Canada Child Tax Benefit for the period from August 2002 to June 2004 for the base years 2001 and 2002 are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 3rd day of November 2005.
+« P. R. Dussault »
+Dussault J.
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2005TCC720
+Date: 20051103
+Docket: 2005-2227(IT)I
+BETWEEN:
+MICHELLE LAPIERRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Dussault J.
+[1] These are appeals from determinations by the Minister of National Revenue (the “Minister”) dated June 18 and May 20, 2004, according to which the appellant is not entitled to the Canada Child Tax Benefit with respect to her son Mathieu Giard for the base years 2001 and 2002 relative to the period from August 2002 to June 2004.
+[2] The basis of the determinations is outlined in sub-paragraphs a) to d) of paragraph 5 of the Reply to the Notice of Appeal which read as follows:
+[TRANSLATION]
+(a) The appellant and Jean-François Giard are the parents of Mathieu Giard born on March 23, 1988 and of Audrey Anne Giard born on May 18, 1989;
+(b) Following the appellant’s and Mr. Giard’s separation, the couple’s children resided with the appellant until the month of July, 2002;
+(c) Pursuant to the court order of July 31, 2002, Mathieu went to live with his father while Audrey Anne stayed with the appellant;
+(d) Mathieu resided with his father during the entire period in dispute.
+[3] The appellant contests subparagraphs c) and d). She was the only witness.
+[4] The appellant explained that in spite of the interim order of temporary measures set down on July 31, 2002, which determined that the child Mathieu Girard’s residence was with his father, she herself was always available to receive Mathieu at her residence where she kept a room for him so that, as she stated, Mathieu could come to her residence as often as he wished and that he actually did go regularly both during the week and on weekends.
+[5] The appellant stated that in April 2003, she wanted to request Mathieu’s custody anew but since the child’s father did not attend court, the July 31, 2002 order was maintained. In July 2003, Mathieu was struck by bone cancer and the appellant devoted more time to take care of him both at the hospital as well as at her residence and had to be frequently absent from work to do so. From the beginning of November 2003 to the beginning of June 2004, the appellant was on sick leave, and thus had more time to take care of her son at the hospital during his treatments and at her residence during his convalescence. In fact, she filed as evidence a letter from her employer and from a work colleague confirming her frequent absences and her work stoppage to take care of her son.
+[6] The appellant stated that Mr. Giard, the child’s father was initially in agreement with her receiving the Canada Child Tax Benefit with respect to both children even though the July 31 court order had determined Mathieu’s residence to be with him. She also emphasized that the Tax Benefit she received with respect to Mathieu was used to maintain living accommodation that allowed for him to have his own room when he came to her residence and to cover the additional costs necessary to take care of him, especially during his illness. However, she acknowledged that Mathieu was living mainly at his father’s residence. On the other hand, she stated that it was not only every second weekend that she had cared for him but that Mathieu had come regularly to her residence.
+[7] Counsel for the respondent insists on the fact that the two orders about temporary measures, namely that of July 31, 2002 (Exhibit I-1) and that of April 15, 2003, (Exhibit I-2), determine that Mathieu’s residence was set down to be with his father.
+[8] The interim order of temporary measures of July 31 reads as follows as to Mathieu Giard’s residence:
+[TRANSLATION]
+“The court determines that Mathieu Giard’s residence will be with his father.”
+[9] The only relevant clause of the April 15, 2003 order reads as follows:
+[TRANSLATION]
+“[…] Reserves the applicant’s rights to apply for access to the minor child Mathieu.”
+[10] As can be seen, neither of the orders determines the appellant’s access to her son Mathieu. Counsel for the respondent also relies on the appellant’s testimony as well as the documents filed in evidence by her to conclude that the child Mathieu Giard lived mainly with his father.
+[11] The appellant testified that she had always been available to receive her son at her residence, that he could come there as often as he wished and that in fact he had come regularly during the week and on weekends. She also explained that she had had to be absent from her work frequently to take care of him during his illness, either at the hospital or at her residence, and that she had been even more available for this purpose during her work stoppage from November 2003 to June 2004.
+[12] For the purposes of the Canada Child Tax Benefit, the definition of “eligible individual” found in Section 122.6 of the Income Tax Act (the “Act”) sets out a certain number of conditions that an individual must satisfy at “a given time”. For purposes of calculating the Benefit pursuant to subsection 122.61(1), account is to be taken of the eligible dependents with respect to which a person is the eligible individual at the beginning of each month. That is the “given time” referred to in the definition of “eligible individual” in Section 122.6 of the Act. So the determination as to whether an individual satisfies the conditions set out in the definition is made on the basis of the situation prevailing at the beginning of each month. The first condition for an individual to be considered an “eligible individual” is stated in paragraph (a) of the definition of this expression which requires that this individual “reside with the dependent”. It is with respect to this condition only that the Minister made the determinations in issue.
+[13] Although residence is the fundamental concept applied to determine if a person is subject to income tax under the Act, that term is nonetheless not defined therein and it is the courts that have attempted to establish its scope. Essentially a question of fact, a person’s residence in a given place is determined by a certain number of criteria of time, object, intention and continuity that do not necessarily always carry the same weight and which can vary according to the circumstances of each case. (see Thomson v. M.N.R., [1946] S.C.R. 209). All things considered, residence implies a certain constancy, a certain regularity or else a certain permanence according to a person’s usual lifestyle in relation to a given place and is to be distinguished from what might be called visits or stays for specific purposes or of a sporadic nature. When the Act sets as a condition to reside with another person, I do not consider it appropriate to attribute to the verb “to reside” a meaning which deviates from the concept of residence as it has been developed by the courts. To reside with someone is to live or stay with someone in a given place with a certain constancy, a certain regularity or else in an habitual manner.
+[14] It is in fact in such terms that the condition “to reside with a dependent” has been analyzed (see, inter alia, S.R. v. Canada, [2003] T.C.J. No. 489 (QL), Bachand v. Canada, [2004] T.C.J. No. 26 (QL) et Boutin v. Canada, [2004] T.C.I. No. 379 (QL)).
+[15] Relative to this condition of residing with the dependent, nothing in the appellant’s testimony nor in the documents submitted in evidence is really precise as to the frequency and duration of her son’s stays at her residence, so that one cannot conclude that she actually was residing with her son Mathieu at the beginning of each month during the period from the month of August 2002 to the month of June 2004.
+[16] As a result, the appeals are dismissed.
+Signed at Ottawa, Canada, this 3rd day of November 2005.
+« P. R. Dussault »
+Dussault, J.
+Translation certified true
+on this 10th day of February 2006.
+Jean Mongenais, Translator
+CITATION: 2005TCC720
+COURT FILE NO.: 2005-2227(IT)I
+STYLE OF CAUSE: MICHELLE LAPIERRE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: October 24, 2005
+REASONS FOR JUDGMENT BY: The honourable Justice Pierre R. Dussault
+DATE OF JUDGMENT : November 3, 2005
+APPEARANCES :
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

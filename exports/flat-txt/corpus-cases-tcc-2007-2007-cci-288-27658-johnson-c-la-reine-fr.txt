@@ -1,0 +1,210 @@
+Title: Johnson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27658/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-288-27658-johnson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-03-26
+
+# Johnson c. La Reine
+
+- Citation: 2007 CCI 288
+- Decision date: 2007-03-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 414, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-26
+Référence neutre
+2007 CCI 288
+Numéro de dossier
+2006-459(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-459(IT)G
+ENTRE :
+EARL JOHNSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 mars 2007, à Sudbury (Ontario).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Avocat de l’appelant :
+Me Paul A. Lefebvre
+Avocat de l’intimée :
+Me George Boyd Aitken
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001 et 2002 sont rejetés, avec dépens.
+Signé à Ottawa (Canada), ce 22e jour de mai 2007.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 18e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI288
+Date : 20070522
+Dossier : 2006-459(IT)G
+ENTRE :
+EARL JOHNSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L’appel porte sur une nouvelle cotisation visant l’année d’imposition 2001 de l’appelant et une cotisation visant son année d’imposition 2002, dans lesquelles le ministre du Revenu national a établi que l’appelant résidait habituellement au Canada et l’a imposé sur ses revenus provenant du monde entier pendant ces années en vertu du paragraphe 2(1) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi »).
+[2] L’appelant soutient qu’il a cessé d’être résident du Canada le 22 mars 2001, date à laquelle il a déménagé à Dubaï, dans les Émirats arabes unis (les « Émirats »).
+[3] L’intimée concède que l’appelant était résident des Émirats en 2001 et en 2002, mais elle soutient qu’il était également résident du Canada pendant ces années. Le Canada n’a pas de traité fiscal avec les Émirats. Par conséquent, le seul enjeu de l’appel est de savoir si l’appelant résidait habituellement au Canada, au sens du paragraphe 250(3) de la Loi pendant les années visées par l’appel.
+[4] Les dispositions de la Loi qui doivent guider la décision sur l’appel sont les suivantes :
+2(1) Impôt payable par les personnes résidant au Canada – Un impôt sur le revenu doit être payé, ainsi qu’il est prévu par la présente loi, pour chaque année d’imposition, sur le revenu imposable de toute personne résidant au Canada à un moment donné au cours de l’année.
+250(3) Résident habituel. Dans la présente loi, la mention d’une personne résidant au Canada vise aussi une personne qui, au moment considéré, résidait habituellement au Canada.
+Faits
+[5] Pour établir la nouvelle cotisation de l’appelant, le ministre s’est appuyé sur les hypothèses de fait suivantes, exposées au paragraphe 20 de la réponse à l’avis d’appel :
+[traduction]
+a) le 20 juillet 2000, l’appelant a conclu un accord d’« affectation temporaire à l’étranger » (l’« accord ») avec Mitel Corporation (« Mitel »), accord assorti des conditions suivantes :
+1) l’accord dispose qu’Ottawa est le lieu d’attache de l’appelant et que la devise utilisée est le dollar canadien, à quelques exceptions près;
+2) l’appelant assume les fonctions de directeur du développement commercial dans un lieu de travail situé à Dubaï, dans les Émirats arabes unis;
+3) l’accord prévoit un mandat de 36 mois qui peut être reconduit et prolongé;
+4) chacune des parties peut de son propre gré révoquer l’accord en donnant un avis écrit de 90 jours, après une période d’un an à compter de l’entrée en vigueur de l’affectation, à moins d’un motif justifiant la révocation;
+5) l’accord prévoit que, si le mandat vient à expiration ou est interrompu, l’appelant et sa femme rentreront au Canada aux frais de Mitel;
+6) Mitel accepte de fournir pendant toute la durée de l’accord un logement entièrement meublé dans les Émirats arabes unis;
+7) Mitel doit assurer la protection et la péréquation fiscales pour chacune des années passées en totalité ou en partie en affectation à l’étranger;
+8) si l’appelant demande sans succès le statut de non-résident aux fins de l’impôt, Mitel accepte de lui verser un montant supplémentaire de façon à garantir que, en fait, l’appelant ne paie aucun impôt sur le revenu, les avantages et les allocations reçus aux termes de l’accord pendant le séjour dans les Émirats;
+9) Mitel accepte de fournir des services de consultation en fiscalité et de préparation des déclarations, services assurés par la firme comptable Ernst & Young, à Ottawa.
+b) Mitel est une société qui a son siège au Canada;
+c) l’accord visait à assurer à l’appelant un niveau de revenu et d’avantages fondé sur le revenu et les avantages qu’il recevrait au Canada;
+d) la relation de travail de l’appelant avec Mitel au cours des années d’imposition 2001 et 2002 était fidèle aux conditions prévues par l’accord;
+e) l’appelant n’a jamais eu l’intention de rompre ses liens avec le Canada;
+f) au cours de l’année d’imposition 2001, le contribuable était propriétaire d’une maison au 11 Parkmount Crescent, à Nepean, en Ontario (la « maison de Parkmount »);
+g) aux termes d’un bail daté du 14 février 2001, la maison de Parkmount a été louée à Alex et Eliyanah Fitzpatrick pour la période allant du 1er avril 2001 au 30 juin 2003;
+h) l’appelant pouvait emménager dans la maison de Parkmount en donnant un préavis de 90 jours;
+i) pendant l’année d’imposition 2002, l’appelant a acheté une maison située au 32 Bentgrass Green, à Nepean, en Ontario (la « maison de Bentgrass »);
+j) aux termes d’un bail daté du 10 juin 2002, la maison de Bentgrass a été louée à Ian et Anna Woods pour la période allant du 1er juillet 2002 au 30 mai 2003;
+k) tout au long des années d’imposition 2001 et 2002, l’appelant a conservé avec le Canada des liens de la nature de ceux d’un résident, notamment les suivants :
+1) des comptes REER au Canada;
+2) des placements dans des sociétés ouvertes canadiennes;
+3) un permis de conduire canadien;
+4) des cartes de crédit canadiennes;
+5) des comptes bancaires dans des institutions financières canadiennes;
+6) une résidence principale au Canada, aux fins de l’impôt;
+7) un passeport canadien;
+8) des meubles entreposés au Canada;
+9) des liens avec des membres de sa famille et des amis au Canada.
+l) les liens de l’appelant avec les Émirats dépendaient de son emploi avec Mitel;
+m) l’appelant est rentré au Canada en juillet 2003 et habite depuis lors dans sa maison de Bentgrass.
+[6] La preuve a montré que l’appelant est né en Angleterre et y a reçu sa formation d’ingénieur. Il est venu au Canada avec sa femme et ses deux fils en 1980, et il est entré au service de Recherches Bell-Northern, à Ottawa, en 1981. Il a accepté un détachement, par l’entremise de Bell Canada International, pour travailler en Arabie Saoudite de 1985 à 1989. Il est rentré au Canada à la fin de son contrat, et il a décroché un poste de gestionnaire chez Télésat Canada, qui était alors une nouvelle division de Bell. Chez Télésat, il a mis sur pied une nouvelle unité commerciale pour la société à Phoenix, où il a habité avec sa famille pendant cinq ans.
+[7] Vers la fin de son séjour à Phoenix, l’appelant a rencontré un dirigeant de Mitel Corporation qui l’a incité à postuler un poste dans cette entreprise. L’invitation a coïncidé à peu près avec le retour de l’appelant à Ottawa, chez Télésat. Il a continué à travailler pour Télésat à Ottawa jusqu’en juin 2000 et, le 30 juin, il a accepté le poste de directeur du développement commercial au Proche‑Orient pour Mitel. Peu après son embauche, on a accru les fonctions de son poste pour y englober la responsabilité des ventes dans toute la région Asie‑Pacifique de Mitel. La responsabilité principale de l’appelant était d’ouvrir un bureau de Mitel au Proche‑Orient. Son contrat d’embauche chez Mitel comprenait la modalité suivante :
+[traduction]
+Votre pays d’attache sera le Canada et, dans la région, vous serez installé à Dubaï, dans les Émirats arabes unis, en affectation à l’étranger. Nous projetons d’effectuer cette transition d’ici l’automne 2000. L’ensemble des détails de l’affectation à l’étranger seront abordés et documentés dans un accord sur cette affectation.
+[8] Les détails de l’affectation à l’étranger ont été énoncés dans une lettre de Mitel à l’appelant, datée du 12 juillet 2000, et deux annexes à cette lettre datées du 21 décembre 2000 et du 27 février 2001.
+[9] Selon les conditions de l’affectation, le point d’attache de l’appelant était Ottawa, et l’affectation devait durer au moins 36 mois, mais pouvait être révoquée par l’une ou l’autre des parties après deux ans (au départ, ce délai était d’un an), sur préavis de 90 jours. L’affectation pouvait être prolongée par accord mutuel. Le salaire de l’appelant était versé par Mitel à Ottawa, et l’appelant touchait une prime de service à l’étranger de 15 % du salaire de base et une indemnité de vie chère, car les biens et les services coûtaient plus cher dans les Émirats. Mitel lui accordait une protection fiscale, c’est‑à‑dire que, si l’appelant ne pouvait obtenir le statut de non‑résident aux fins de l’impôt sur le revenu, la société lui verserait un montant supplémentaire [traduction] « de façon à garantir que, en fait, l’appelant ne paie aucun impôt sur le revenu, les avantages et les allocations reçus aux termes de l’accord » pendant l’affectation à l’étranger.
+[10] Mitel avait également accepté de fournir à l’appelant un véhicule et un logement complètement meublé dans les Émirats, de lui rembourser tous les frais de gestion engagés pour la location de sa maison au Canada, de payer un montant équivalant au coût de deux voyages aller-retour par avion chaque année entre l’étranger et Ottawa pour la femme et les deux fils de l’appelant et de payer les frais d’entreposage des meubles et appareils ménagers de l’appelant à Ottawa. Mitel avait aussi accepté d’offrir des avantages en matière de soins médicaux et dentaires conformément à son régime d’avantages sociaux du personnel à l’étranger.
+[11] L’appelant pouvait aussi être réaffecté, avec son consentement, en tout autre lieu où Mitel avait des installations. À la fin de l’affectation, Mitel acceptait de ramener l’appelant et sa femme chez eux, à Ottawa, et de rembourser un maximum de 30 jours de dépenses courantes dans un logement temporaire. L’accord prévoyait encore qu’à la fin de l’affectation, Mitel ferait tout son possible pour donner à l’appelant un poste semblable dans l’entreprise à Ottawa dans les trois mois suivant son retour.
+[12] L’appelant a travaillé à Ottawa pour Mitel jusqu’au 21 mars 2001, date à laquelle il a quitté le Canada avec sa femme pour se rendre dans les Émirats. Lui et sa femme ont engagé une société de gestion de biens immobiliers à Ottawa pour gérer la location de leur maison de Parkmount Crescent, à Nepean. Ils avaient acheté cette maison en 1981.
+[13] Le 14 février 2001, le gestionnaire de biens immobiliers a signé pour l’appelant et sa femme un bail de location de la maison portant sur la période du 1er avril 2001 au 30 juin 2003 et comprenant une clause qui permettait à l’appelant et à sa femme de mettre fin au bail avec un préavis de trois mois, au cas où l’employeur muterait l’appelant à Ottawa. L’appelant a dit qu’il avait confié la location de la maison au gestionnaire et n’était pas au courant de cette disposition du bail. Il a ajouté qu’il n’avait rien à voir avec le choix de la date de la fin du bail, qui était de deux ans et 90 jours à partir du début de la location de la maison.
+[14] L’appelant et sa femme ont également acheté une autre maison en novembre 2000, avant de partir pour les Émirats. La maison devait être construite au 32 Bentgrass Green, à Nepean. L’appelant a dit que la maison lui semblait une bonne solution de rechange aux placements dans les actions technologiques et qu’elle avait été achetée pour être louée. La maison a été achevée au milieu de 2002 et louée du 1er juillet 2002 au 31 mai 2003 par les soins de la même société de gestion de biens immobiliers. Le même formulaire de location a été utilisé, mais, cette fois, la disposition sur les trois mois d’avis a été biffée. L’appelant a dit que, dans ce cas non plus, il n’était pas au courant des détails de la location, dont le gestionnaire s’était chargé. L’appelant a admis qu’il avait désigné la maison de Bentgrass Green comme son domicile principal aux termes du paragraphe 45(2) de la Loi, mais il a ajouté que cela n’avait été fait que pour des raisons de planification fiscale.
+[15] Le loyer des deux maisons était déposé dans un compte chèques conjoint de l’appelant et de sa femme à la Banque de Montréal. Le gestionnaire en déduisait les retenues d’impôt. L’appelant conservait également un compte d’épargne à la même banque, bien qu’il ait dit que, avant de partir pour les Émirats, il avait pris des dispositions pour qu’aucun des comptes ne paie d’intérêts. Il croyait savoir que c’était là un facteur qui pouvait être pris en compte pour l’établissement de son pays de résidence aux fins de l’impôt sur le revenu.
+[16] Avant de partir pour les Émirats, l’appelant et sa femme ont également fermé leurs comptes de téléphone et de services publics, vendu deux de leurs trois véhicules, donné un véhicule à leur fils et vendu quelques appareils ménagers électriques; ils ont entreposé la majeure partie de leurs meubles et de leurs biens personnels après en avoir donné une partie, et ils ont emporté avec eux 90 % de leurs vêtements ainsi que des articles de maison comme des photos, des tableaux, des articles de décoration et des articles de cuisine. L’appelant a dit que 26 boîtes d’effets personnels avaient été expédiées dans les Émirats.
+[17] L’appelant n’a pas annulé son permis de conduire ontarien, et il a conservé son REER et ses actions de BCE, de Telus et de quelques entreprises de haute technologie. Par contre, il a laissé expirer sa protection du Régime d’assurance‑maladie de l’Ontario et son statut de membre de l’Ordre des ingénieurs de l’Ontario, et il a changé son adresse postale pour une adresse aux Émirats.
+[18] L’appelant a déclaré dans son témoignage que, lorsqu’il a quitté le Canada, il voulait rester dans les Émirats le plus longtemps possible. Il espérait et prévoyait que Mitel prolongerait son affectation au-delà de 36 mois. Il a admis que l’affectation était de durée limitée et que rien n’en garantissait le renouvellement. La durée du séjour dépendait apparemment de la réussite des activités de Mitel dans cette région du monde. Selon la lettre initiale du 12 juillet 2000 qui décrivait les conditions de l’affectation de l’appelant à l’étranger, l’affectation était révocable après un an, période qui a été portée à deux ans dans l’accord final. L’appelant dit avoir négocié cette modification parce que, selon lui, il faudrait plus de temps pour mettre en marche le bureau dans les Émirats. L’appelant a dit que, pendant son séjour dans les Émirats, lui et sa femme ont envisagé de déménager en Espagne au terme de l’affectation parce qu’ils avaient un certain nombre d’amis qui avaient pris leur retraite dans ce pays.
+[19] Dans les Émirats, l’appelant s’est procuré un permis de résidence de trois ans, un permis de conduire et une carte de crédit, et il est devenu membre d’un club de golf. Il a pris une adresse postale aux Émirats. Il est également devenu membre d’un club de réseautage dans le milieu des affaires, d’un club social et d’un club de santé. Il a été incapable de trouver un logement meublé acceptable, si bien qu’il a loué une villa non meublée en juin 2001, et Mitel a accepté d’acheter des meubles. Il fallait acheter des petits appareils et dispositifs électriques parce que, dans les Émirats, l’alimentation en électricité se faisait à une tension différente de celle du Canada.
+[20] L’appelant a dit que, pendant qu’il y habitait, les Émirats étaient au centre de sa vie d’homme d’affaires et de sa vie sociale. Sa femme n’est pas retournée au Canada, et ses fils ont rendu visite à leurs parents là-bas. Il n’est revenu au Canada que quatre ou cinq fois, et seulement pour affaires. Pendant ses passages au Canada, il séjournait à l’hôtel et il n’a rencontré ni amis, ni membres de la famille. Il se rendait au Royaume-Uni toutes les trois ou quatre semaines pour rencontrer son supérieur immédiat. Toutefois, dans le formulaire de détermination du statut de résident remis à l’Agence de revenu du Canada en novembre 2002, l’appelant a dit n’avoir passé que deux ou trois jours au Royaume-Uni pour affaires pendant cette année civile.
+[21] L’appelant et sa femme ont habité dans une villa à Dubaï, dans les Émirats, jusqu’en avril 2002. Ils ont ensuite déménagé plus près du centre de Dubaï, dans la tour d’habitation du Fairmont Hotel, pour mieux répondre aux besoins professionnels de l’appelant. Les deux habitations ont été louées pendant un an.
+[22] L’appelant a dit qu’il n’avait pas envisagé d’acheter une habitation dans les Émirats. Cela ne l’intéressait pas. Du reste, au moins au moment de son arrivée là-bas, les étrangers ne pouvaient pas y être propriétaires.
+[23] L’appelant a loué des locaux pour les bureaux de Mitel à Dubaï et a commencé à essayer d’implanter Mitel sur le marché du Proche-Orient. Il travaillait à une coentreprise avec les organisations publiques des Émirats et du Koweït en vue de mettre sur pied une usine de fabrication de puces ou de combinés, et il a participé à des entretiens de haut niveau avec le gouvernement des Émirats. Il s’est également rendu en Extrême-Orient à titre de directeur des ventes dans cette région. Toutefois, en novembre, Mitel l’a informé que son contrat dans les Émirats prendrait fin. Il croyait la décision attribuable au fait qu’il n’avait pu obtenir le statut de non‑résident aux fins de l’impôt au Canada. Mitel était ainsi tenue de lui verser un montant substantiel pour l’indemniser de l’impôt à payer au Canada, puisqu’il n’y avait pas d’impôt dans les Émirats.
+[24] L’appelant a continué de travailler dans les Émirats jusqu’au 28 juin 2003, date à laquelle lui et sa femme sont rentrés au Canada et ont emménagé dans leur maison de Bentgrass Green. Il n’a pas précisé si Mitel avait engagé quelqu’un pour le remplacer dans les Émirats. Il est resté au service de Mitel à Ottawa jusqu’au 28 septembre 2003. Son poste a alors été supprimé.
+Argumentation de l’appelant
+[25] Le premier argument de l’appelant porte sur la charge de la preuve. L’avocat a soutenu qu’il incombait à l’intimée de prouver que l’appelant était un résident habituel du Canada, car il n’a pas été soutenu expressément comme hypothèse dans la réponse à l’avis d’appel que l’appelant résidait habituellement au Canada en 2001 et en 2002.
+[26] L’appelant s’appuie sur la décision rendue par la Cour dans Laurin v. The Queen, 2006 CCI 634. Cette affaire portait sur le statut de résident du contribuable au Canada pendant certaines périodes. Le juge en chef Bowman a conclu que la nouvelle cotisation avait été établie au motif que le contribuable était considéré comme résident du Canada aux termes du paragraphe 250(1) de la Loi de l’impôt sur le revenu, car il avait séjourné au Canada pendant 183 jours ou plus au cours de chacune des années visées. À l’audition de l’appel, l’intimée a admis que le contribuable n’avait pas passé 183 jours ou plus au Canada chaque année, mais a soutenu par ailleurs que le contribuable était un résident habituel du Canada au sens du paragraphe 250(3) de la Loi.
+[27] La Cour a alors fait remarquer que ce point n’avait pas été signalé dans la réponse et ajouté que l’intimée n’avait pas fait valoir, ni comme hypothèse ni autrement, que le contribuable était un résident habituel du Canada. La Cour a conclu que l’appelant n’avait pas la charge de la preuve à cet égard. Tout en déclarant qu’il n’était pas nécessaire de trancher la question, la Cour a statué que, sur la foi de la preuve qui lui était présentée, le contribuable n’était pas un résident habituel du Canada.
+[28] Dans l’affaire en cause, les paragraphes 16 et 17 de la réponse contiennent des énoncés relatifs au statut de résident habituel du Canada de l’appelant. Le texte de ces paragraphes suit :
+[traduction]
+16. Le ministre a accepté telle quelle la déclaration de revenus de l’appelant pour l’année d’imposition 2002, et il a établi la cotisation fiscale en fonction de la qualité de résident de fait du Canada de l’appelant, aux fins de l’impôt, dans un avis daté du 22 novembre 2004.
+17. Dans des avis de nouvelle cotisation datés du 26 juillet 2004, le ministre a établi de la façon suivante une nouvelle cotisation fiscale à l’égard de l’appelant pour l’année d’imposition 2001 :
+a) il a établi que l’appelant était un résident habituel du Canada pendant l’année d’imposition 2001;
+b) il a refusé la déduction d’un montant de 137 021 $ au titre de l’exclusion d’un revenu d’emploi au Canada;
+c) il a annulé la cotisation établie par le ministre en date du 3 septembre 2002 à l’égard de la déclaration que l’appelant avait choisi de produire à titre de non‑résident, aux termes du paragraphe 216(1) de la Loi.
+[29] L’avocat de l’appelant soutient que ces passages ne suffisent pas à faire retomber sur son client la charge de prouver qu’il n’était pas un résident habituel du Canada.
+[30] L’appelant soutient que l’intimée n’a pas produit d’éléments de preuve pour démontrer que l’appelant était un résident habituel, puisqu’elle n’a cité aucun témoin et n’a présenté aucun élément de preuve contredisant le témoignage digne de foi de l’appelant.
+[31] L’avocat de l’appelant soutient que, même si je conclus qu’il incombe à l’appelant de prouver qu’il n’était pas un résident habituel du Canada, la preuve montre clairement que, pendant les années d’imposition 2001 et 2002, l’appelant était un résident habituel des Émirats et non du Canada. Il habitait dans les Émirats et y travaillait, il n’avait ni personne à charge ni foyer au Canada. Il entendait rester dans les Émirats le plus longtemps possible et ne prévoyait pas rentrer au Canada. Sa vie sociale et professionnelle était centrée sur les Émirats, et il avait rompu tous les liens à caractère résidentiel pertinents avec le Canada.
+[32] L’avocat soutient que l’emploi de l’appelant par une société canadienne, le fait qu’il possède des biens et des placements au Canada et son passeport canadien ne suffisent pas en soi à prouver le statut de résident au Canada. Il s’appuie sur la décision rendue par la Cour dans Boston v. The Queen, 98 D.T.C. 1124. Dans cette affaire, le contribuable avait quitté le Canada pour travailler à l’étranger aux termes d’un contrat de trois ans. La conjointe du contribuable en cause était restée au Canada, et les visites du contribuable au Canada duraient plus longtemps que celles de l’appelant, et son salaire était payé par son employeur canadien. Dans cette autre affaire, il a été conclu que le contribuable n’était pas un résident habituel du Canada pendant qu’il travaillait à l’étranger.
+[33] L’avocat fait remarquer que la situation de l’appelant est encore plus convaincante que celle du contribuable de l’affaire Boston, car il n’avait aucun lien familial avec le Canada et n’a pas rendu visite à des amis ou à des membres de la famille au Canada pendant la durée de son séjour dans les Émirats. Comme le contribuable de l’affaire Boston, l’appelant entendait rester après la première période de trois ans de son contrat. L’avocat s’est appuyé sur le passage suivant, au paragraphe 26 de la décision Boston :
+La jurisprudence nous enseigne depuis longtemps que la résidence et le domicile sont deux choses tout à fait différentes. Une personne peut être domiciliée dans un endroit particulier sans y être physiquement présente. Toutefois, pour résider dans un endroit particulier, il faut habituellement qu’elle y soit présente à certains moments. Pendant les quatre années ici en cause, l’appelant n’a été présent au Canada que brièvement. En fait, il n’a été présent au Canada que pendant 14 jours en 1990 et pendant une autre période de 14 jours en 1992. En 1989 ou en 1991, il n’est pas venu au Canada. Si, comme le juge Rand l’a fait remarquer dans le jugement Thomson, il faut faire une distinction entre la « résidence » d’une part et un « séjour » ou une « visite » d’autre part, je crois qu’en ce qui concerne les années 1990 et 1992, il peut être plus exact de considérer que l’appelant a visité le Canada. Je conclus que de 1989 à 1992, l’appelant ne résidait pas au Canada.
+[34] Enfin, l’avocat de l’appelant soutient que le statut de résident du contribuable doit être établi sur une base annuelle, en fonction de la situation du contribuable pendant l’année en question et sans tenir compte de l’endroit dont le contribuable était résident habituel pendant les années antérieures.
+Argumentation de l’intimée
+[35] L’avocat de l’intimée soutient que l’appelant n’a pas rompu ses liens de résident permanent avec le Canada lorsqu’il est parti travailler dans les Émirats en 2001. Le Canada est demeuré son pays d’attache tant sur le plan personnel que professionnel, comme ce fut le cas lorsque, dans les années antérieures, il avait travaillé en Arabie Saoudite et à Phoenix. L’avocat fait remarquer que l’appelant est propriétaire de deux maisons au Canada. Il possède l’une d’elles depuis 20 ans et elle a été sa résidence principale pendant de longues années. L’autre a été construite au moins en partie selon les indications de l’appelant et elle devait devenir sa résidence principale. L’avocat ajoute que l’appelant pouvait prendre possession de l’une ou l’autre des maisons en donnant un avis de 90 jours et que, de toute façon, les deux baux prenaient fin à peu près à la date à laquelle l’affectation de l’appelant dans les Émirats pouvait se terminer au plus tôt. L’appelant avait un compte REER, des cartes de crédit et des placements, et il avait laissé la majeure partie de ses biens en entreposage au Canada.
+[36] L’avocat avance que l’appelant n’a pas établi de lien permanent dans les Émirats en 2001 et 2002, et que son séjour là-bas était provisoire et à court terme. Son affectation et son lieu d’habitation étaient temporaires, son véhicule était loué et le mobilier de son habitation appartenait à Mitel. Le retour de l’appelant au Canada était prévisible dès le début de l’affectation, et l’appelant entendait rentrer une fois l’affectation terminée.
+[37] L’avocat de l’intimée compare la situation de l’appelant à celle du contribuable dans la décision Gaudreau v. The Queen, 2004 ACI 673, dans lequel il a été jugé que le contribuable était demeuré un résident canadien tout en habitant et en travaillant en Égypte pendant plus de trois ans. Dans cette affaire, les liens du contribuable avec le Canada étaient à peu près semblables à ceux de l’appelant en l’espèce.
+Analyse
+[38] Je ne suis pas d’accord avec l’avocat de l’appelant pour dire qu’il incombe à l’intimée de prouver que l’appelant était un résident habituel du Canada en 2001 et 2002. La présente affaire diffère notablement de l’affaire Laurin. S’il y a eu nouvelle cotisation dans cet autre cas, ce n’était pas parce que le contribuable était résident habituel du Canada dans les années visées par l’appel, et la question de savoir si l’appelant était résident habituel du Canada n’avait été soulevée nulle part dans la réponse.
+[39] En l’espèce, le seul motif d’établissement d’une nouvelle cotisation énoncé dans la réponse est que l’appelant était un résident habituel du Canada en 2001 et 2002, ce qui est clairement énoncé aux paragraphes 16 et 17 de la réponse. En outre, l’omission de l’appelant d’invoquer une hypothèse précise voulant que l’appelant était un résident habituel du Canada pendant la période visée n’inverse pas la charge de la preuve, l’intimée ayant soutenu, comme hypothèses sur lesquelles le ministre s’est appuyé, qu’il existait des faits suffisants pour tirer cette conclusion. Les hypothèses dans cette affaire seraient suffisantes, avec les affirmations concernant les motifs de la nouvelle cotisation pour 2001 et de la cotisation pour 2002, aux paragraphes 16 et 17 de la réponse, pour appuyer les nouvelles cotisations en cause, en l’absence de tout élément de preuve produit par l’appelant.
+[40] Pour passer à l’enjeu principal, l’arrêt de principe en matière de détermination du lieu de résidence aux fins de l’impôt sur le revenu est Thompson v. M.N.R. [1946] R.C.S. 209. À la page 231 de cette décision, le juge Estey écrit, aux pages 231-232 :
+[traduction]
+[...] On « séjourne » à un endroit que l’on visite ou dans un lieu où l’on demeure exceptionnellement, occasionnellement ou par intermittence. Dans le premier cas, c’est le caractère permanent qui prédomine, et dans le second, le caractère temporaire. La différence ne peut être exprimée d’une manière claire et nette, chaque cas devant être déterminé compte tenu de tous les facteurs pertinents, mais ce qui précède indique d’une façon générale la différence essentielle. Ce n’est pas la longueur de la visite ou du séjour qui détermine la question. [...]
+Il est bien établi qu’une personne peut avoir plus d’une résidence ; […]
+Dans la même décision, le juge Rand écrit aux pages 224-225 :
+[traduction]
+L’expression « résidence habituelle » a un sens restrictif et, alors qu’à première vue elle implique une prépondérance dans le temps, les décisions rendues en vertu de la loi anglaise ont rejeté ce point de vue. On a jugé qu’il s’agit de résidence au cours du mode habituel de vie de la personne en question, par opposition à une résidence spéciale, occasionnelle ou fortuite. Pour appliquer le critère de la résidence habituelle, il faut donc examiner le mode général de vie.
+Aux fins de la législation de l’impôt sur le revenu, il est nécessaire de considérer que chaque personne a, en tout temps, une résidence. Il n’est pas nécessaire à cet effet qu’elle ait une maison ni un endroit particulier où elle demeure, ni même un abri. Elle peut dormir en plein air. Ce qui importe seul, c’est de déterminer dans l’espace les limites dans lesquelles elle passe sa vie ou auxquelles se rattache ce mode de vie ordonné ou coutumier. La meilleure façon d’apprécier la résidence habituelle est d’en examiner l’antithèse, la résidence occasionnelle, temporaire ou extraordinaire. Cette dernière semble nettement être non pas seulement temporaire et exceptionnelle quant à ses circonstances, mais s’accompagne également d’une notion de caractère provisoire et de retour.
+Mais dans les différentes situations de prétendues « résidences permanentes », « résidences temporaires », « résidences habituelles », « résidences principales » et ainsi de suite, les adjectifs n’influent pas sur le fait qu’il y a dans tous les cas résidence; cette qualité dépend essentiellement du point jusqu’auquel une personne s’établit en pensée et en fait, ou conserve ou centralise son mode de vie habituel avec son cortège de relations sociales, d’intérêts et de convenances, au lieu en question. Il se peut qu’elle soit limitée en durée dès le début ou qu’elle soit indéterminée, ou bien, dans la mesure envisagée, illimitée. Sur le plan inférieur, les expressions comportant le terme « résidence » doivent être distinguées, comme elles le sont je crois dans le langage ordinaire, du concept de « séjour » ou de « visite ».
+[41] En l’espèce, à mon avis, l’appelant n’a pas rompu ses liens de résident avec le Canada lorsqu’il est parti travailler dans les Émirats en avril 2001, et son mode de vie ordinaire était en fait toujours centré sur le Canada tout au long de 2001 et de 2002. D’après tous les éléments de preuve qui m’ont été présentés, il semble que le déménagement de l’appelant dans les Émirats, avec sa femme, n’était que temporaire.
+[42] Bien que l’appelant ait déclaré avoir eu l’intention de travailler dans les Émirats pendant au moins cinq ans, l’affectation n’était que de trois ans et elle a été interrompue dès que possible, après deux ans et trois mois. Le fait qu’il était prévu au contrat qu’à la fin de l’affectation, Mitel serait tenue de ramener l’appelant et sa femme au Canada et de faire tout son possible pour trouver un poste à l’appelant dans ses services au Canada, est aussi important.
+[43] Pendant toute la période passée dans les Émirats, l’appelant et sa femme ont conservé la propriété de leur maison de Parkmount Crescent, qui avait été la maison familiale pendant 20 ans. Même une fois acceptée l’affectation dans les Émirats, l’appelant et sa femme ont acheté une deuxième maison à Ottawa et l’ont désignée comme leur résidence principale. Je n’admets pas que la désignation de résidence principale ait été faite seulement pour réduire les impôts. À mon avis, elle trahit également l’intention de l’appelant, au moment de l’acquisition, d’utiliser la maison pour lui et sa femme à la fin du séjour dans les Émirats. À leur retour, en juillet 2003, ils ont emménagé dans cette maison, où ils habitent toujours.
+[44] Il est vrai que les deux maisons ont été louées pendant le séjour de l’appelant dans les Émirats, mais au moins l’une d’elles était disponible sous réserve d’un préavis de trois mois aux locataires. Bien que l’appelant prétende n’avoir pas été au courant de la clause d’avis de trois mois qui figurait dans le bail de la maison de Parkmount Crescent, je remarque que le formulaire NR-73, Détermination du statut de résidence, qu’il a rempli en novembre 2002 attestait qu’il était propriétaire d’une maison au Canada, maison qui était louée à une personne sans lien de dépendance aux termes d’un bail écrit qui comprenait une clause prévoyant une annulation avec préavis de trois mois.
+[45] L’appelant et sa femme ont également entreposé à Ottawa la majeure partie de leurs biens et n’ont emporté dans les Émirats que de petits appareils ménagers et des vêtements.
+[46] L’assertion de l’appelant voulant que lui et sa femme aient eu l’intention de déménager des Émirats en Espagne au lieu de rentrer au Canada n’est corroborée par aucun élément de preuve, et je la rejette. L’appelant a été incapable de signaler quelque mesure que ce soit que lui ou sa femme auraient prise pour concrétiser ce projet.
+[47] Parmi les autres liens que l’appelant a conservés avec le Canada, notons son permis de conduire de l’Ontario, des cartes de crédit canadiennes et des placements en actions canadiennes.
+[48] Je reconnais avec l’avocat de l’appelant que le fait que ce dernier ait été au service d’un employeur canadien ne suffit pas en soi à établir la résidence, mais les conditions de l’emploi sont pertinentes. Dans ce cas, Mitel était tenue de ramener l’appelant et sa femme au Canada à la fin de l’affectation et d’essayer de trouver à l’appelant un poste équivalant dans les activités de la société au Canada.
+[49] Je conviens également que l’appelant n’avait de lien important avec aucun lieu autre que le Canada et les Émirats en 2001 et 2002, et que ses liens avec les Émirats n’étaient que temporaires. Les habitations où il a demeuré dans les Émirats étaient louées pour des périodes d’un an, son véhicule était loué, son affectation était de 36 mois, et il a préféré ne pas emporter avec lui la majeure partie de ses biens. Bien que l’appelant ait signalé être devenu membre de certains clubs dans les Émirats, rien ne permet d’affirmer qu’il avait payé des droits d’adhésion permanente à ces organisations.
+[50] Je suis d’accord avec l’intimée pour dire que les liens de l’appelant avec les Émirats étaient semblables à ceux établis par le contribuable de l’affaire Gaudreau v. The Queen en Égypte, liens qui ont été décrits par la juge Lamarre comme des liens contractés par le contribuable pendant son absence et qui devaient permettre, au contribuable et à son épouse, de jouir d’un mode de vie acceptable, auquel le contribuable s’attendait en Égypte, et qui ont disparu au retour au Canada. Comme dans la décision Gaudreau, les liens de l’appelant avec les Émirats ont complètement disparu au moment du retour au Canada.
+[51] Les liens de l’appelant avec le Canada étaient également de nature et de portée semblables à ceux maintenus par le contribuable en cause dans la décision McFadyen v. The Queen, 2000 DTC 2473, pendant les trois années où ce contribuable a habité au Japon. Dans la décision McFadyen, la Cour a statué :
+[103] J’ai conclu que les liens de l’appelant avec le Canada durant la période de trois ans étaient importants.
+[104] De la manière dont je vois la preuve, l’appelant peut être considéré comme ayant accompagné sa conjointe dans une affectation temporaire à l’étranger. Il est revenu au Canada à trois occasions durant l’affectation de sa conjointe au Japon. Il avait maintenu avec sa conjointe deux comptes bancaires en commun au Canada, dont un était utilisé pour les paiements hypothécaires relatifs à un de leurs immeubles, tandis que l’autre était utilisé pour tout le reste, y compris pour les paiements hypothécaires relatifs à un autre immeuble. L’appelant était propriétaire de deux maisons au Canada et, à son retour au Canada, a occupé une de ces deux maisons comme résidence, après avoir donné aux locataires un avis de deux mois. Durant les années en cause, il avait maintenu à ses propres frais son affiliation professionnelle à l’association appelée « Association of Professional Engineers of Ontario ». Les faits suivants reflètent le caractère transitoire de l’affectation au Japon : l’appelant avait remisé au Canada de gros meubles et des appareils ménagers, avait gardé un coffre bancaire et avait maintenu un régime enregistré d’épargne-retraite, ainsi qu’une carte de crédit et un permis de conduire à jour de l’Ontario. Ces liens étaient surtout économiques, mais également personnels en partie.
+[105] La preuve étaye l’allégation selon laquelle l’appelant avait quitté le Canada pour le Japon avec l’intention de ne pas revenir, et j’accepte le témoignage de l’appelant voulant qu’il ait fait des efforts importants pour ne pas revenir. Toutefois, l’appelant avait maintenu les liens avec le Canada au cas où il reviendrait. Il est en fait revenu et a repris ses liens avec le Canada.
+[52] Comme dans l’affaire dont je suis saisi, aucun des contribuables en cause dans les décisions Gaudreau et McFadyen n’est rentré au Canada fréquemment au cours des années en question, mais chacun d’eux a été considéré comme un résident habituel du Canada. En outre, dans les deux cas, ces contribuables ont été à l’étranger pendant plus de trois ans, ce qui est plus long que la période passée à l’étranger par l’appelant en l’espèce. Et dans les deux cas, la décision selon laquelle ils étaient des résidents habituels du Canada pendant leurs années passées à l’étranger a été maintenue par la Cour d’appel fédérale.
+[53] Enfin, les propos suivants du juge Mahoney, dans la décision Reeder v. The Queen, 75 D.T.C. 5160, page 5163, semblent également s’appliquer en l’espèce :
+Le défendeur en était à une époque de son existence où les déplacements sont fréquents. Il pouvait, désirait et même tenait à voyager. En cela il ne différait pas de ses contemporains, et c’est dans ce contexte qu’il faut considérer les faits de la cause. Il est constant qu’avant le 29 mars 1972 et après le 1er décembre 1972 il résidait au Canada. Ses attaches, quelles qu’elles soient, n’ont cessé un seul moment d’être au Canada, sauf les liens contractés pendant son absence et qui devaient permettre à lui et à sa famille de jouir en France d’un mode de vie acceptable, auquel il s’attendait. Son absence était temporaire quoique, strictement parlant, de durée indéterminée. Ses liens avec la France étaient temporaires et ont disparu à son retour au Canada.
+Je suis convaincu que si, durant son séjour en France, on avait demandé au défendeur où il habitait de manière régulière, normale ou habituelle, il aurait répondu au Canada. Je conclus que le défendeur résidait au Canada durant toute l’année 1972. […]
+[54] Je suis également d’accord avec l’avocat de l’appelant pour dire que chaque année en cause doit être prise en considération isolément des autres années lorsqu’il s’agit d’établir si l’appelant était un résident habituel du Canada. Je suis toutefois incapable de trouver une distinction notable, dans la situation de l’appelant, entre les deux années en question. Et il n’a pas été soutenu que ces distinctions fussent présentes.
+[55] Pour tous ces motifs, je conclus que l’appelant était un résident habituel du Canada en 2001 et en 2002, et l’appel est donc rejeté, avec dépens.
+Signé à Ottawa (Canada), ce 22e jour de mai 2007.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 18e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI288
+No DU DOSSIER DE LA COUR : 2006-459(IT)G
+INTITULÉ : EARL JOHNSON C.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sudbury (Ontario)
+DATE DE L’AUDIENCE : Le 26 mars 2007
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 22 mai 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Paul A. Lefebvre
+Avocat de l’intimée :
+Me George Boyd Aitken
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Paul A. Lefebvre
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

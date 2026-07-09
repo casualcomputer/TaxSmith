@@ -1,0 +1,166 @@
+---
+title: "Nocon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/99507/index.do"
+last_modified: "2014-11-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 345"
+citation2: ""
+neutral_citation: "2014 CCI 345"
+decision_date: "2014-11-18"
+language: "fr"
+item_id: "99507"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5273
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:39:11.550000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e57c8fb3f9bf3be7c73a2506c6118d9315897df61cf25c923147c987210e6fff"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nocon c. La Reine
+
+- Citation: 2014 CCI 345
+- Decision date: 2014-11-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5273, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nocon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-11-18
+Référence neutre
+2014 CCI 345
+Numéro de dossier
+2013-635(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-635(IT)I
+ENTRE :
+RUBEN NOCON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 16 septembre 2014, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocates de l’intimée :
+Me Selena Sit
+Me Christa Akey
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2008 et 2009 sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 18e jour de novembre 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 3e jour de décembre 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2014 CCI 345
+Date : 20141118
+Dossier : 2013-635(IT)I
+ENTRE :
+RUBEN NOCON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Aperçu [1] L’appelant, Ruben Nocon, interjette appel à l’encontre de nouvelles cotisations par lesquelles le ministre du Revenu national (le « ministre ») a refusé les montants déduits au titre de dons de bienfaisance de la manière suivante :
+Année d’imposition
+Montants déduits au titre de dons de bienfaisance
+Montants refusés au titre de dons de bienfaisance
+2008
+1 950 $
+1 950 $
+2009
+950 $
+950 $
+[2] Le ministre soutient que l’appelant a acheté de faux reçus pour dons de bienfaisance auprès de ses comptables, Fareed Raza et Saheem Raza (les « frères Raza »). Les frères Raza fournissaient des services de comptabilité et des services en matière fiscale sous les noms commerciaux Fareed Raza & Co. Inc. et F & A Accounting Corporation (le cabinet « FA »). Les frères Raza ont été accusés de fraude pour avoir fait de faux énoncés dans les déclarations de revenus qu’ils avaient établies pour leurs clients.
+[3] Il incombe à l’appelant de réfuter les hypothèses formulées par le ministre.
+II. Contexte factuel [4] L’appelant s’est établi au Canada en 1982 en provenance des Philippines. Durant les années visées par l’appel, il a travaillé chez Holiday Inn, au service d’entretien ménager.
+[5] L’appelant a témoigné qu’il s’était rendu au cabinet FA pour la première fois en 2009 pour faire établir sa déclaration de revenus pour 2008 avant la date d’échéance de production des déclarations pour 2008. Il a choisi le cabinet FA parce qu’un de ses amis lui avait dit qu’il pouvait déduire des montants au titre de dons de bienfaisance afin d’obtenir un remboursement d’impôt.
+[6] L’appelant a admis que la déduction de 1 950 $ qu’il avait demandée dans sa déclaration de revenus pour 2008 au titre de don fait à la fiducie Mehfuz Children Welfare (la « fiducie Mehfuz ») n’était pas correcte. Il a témoigné qu’il avait donné 200 $ à l’un des frères Raza relativement à cette déduction.
+[7] La même pratique a été suivie en 2010 pour l’année d’imposition 2009. L’appelant a admis qu’il avait donné 200 $ à l’un des frères Raza ou au personnel qui travaillait pour eux. Il n’a pas nié qu’il était conscient du fait qu’il avait déduit 950 $ pour son année d’imposition 2009 au titre de don fait à la fiducie Mehfuz, même s’il avait donné une somme beaucoup plus petite.
+[8] Mme Jane Yang, une enquêteuse de la Division de l’exécution au Bureau des services fiscaux de Vancouver de l’Agence du revenu du Canada (l’« ARC »), a témoigné pour le compte de l’intimée. En octobre 2008, alors qu’elle assistait à une séance de formation interne à Toronto, Mme Yang a appris qu’un de ses collègues à Toronto avait réussi à découvrir des stratagèmes utilisés par des spécialistes en déclarations de revenus pour vendre de faux reçus pour dons de bienfaisance à leurs clients.
+[9] À son retour à Vancouver, Mme Yang a découvert qu’un certain nombre de clients du cabinet FA semblaient avoir fait des dons importants à la fiducie Mehfuz. La façon dont les dons étaient faits semblait anormale. Les contribuables faisaient don d’une partie importante de leur revenu net à la fiducie Mehfuz.
+[10] Une enquête criminelle a été ouverte et, le 14 juillet 2010, une saisie a été effectuée aux bureaux du cabinet FA. Les documents saisis comprenaient des reçus provenant de la fiducie Mehfuz, que Mme Yang croyait être des faux, et un calendrier de bureau de M. Raza. Le calendrier comportait des annotations qui laissaient croire que M. Raza consignait des montants qu’il recevait en échange de reçus pour fourniture de soins et pour dons de bienfaisance. Mme Yang a pu établir que, dans de nombreux cas, le montant figurant sur le calendrier à côté du nom d’un client représentait 8 % à 11 % du montant déduit dans la déclaration de revenus du client en tant que don fait à la fiducie Mehfuz. Mme Yang a également remarqué que les reçus de la fiducie Mehfuz saisis aux bureaux du cabinet FA étaient différents des reçus officiels délivrés par la fiducie Mehfuz.
+[11] Au terme de son enquête, Mme Yang a conclu que les frères Raza avaient contrefait des reçus pour dons de bienfaisance totalisant environ 12 000 000 $. Mme Yang a estimé que ce stratagème avait occasionné une perte de revenus fiscaux d’environ 4 700 000 $.
+[12] M. Mashud Miah, président et fondateur de la fiducie Mehfuz, a également témoigné pour le compte de l’intimée. M. Miah est né au Bangladesh et s’est établi au Canada en 1985. En plus des fonctions qu’il exerçait à la fondation Mehfuz de 2001 à 2009, M. Miah travaillait comme nettoyeur.
+[13] M. Miah a expliqué qu’il avait donné à la fondation Mehfuz le nom de son fils, Mehfuz, qui était né prématurément à un hôpital de Vancouver. Il croit que, si son fils était né prématurément au Bangladesh, il n’aurait vraisemblablement pas survécu. En 1997, M. Miah a eu deux accidents de voiture graves, et, en raison des soins qu’il avait reçus alors qu’il était hospitalisé, il avait encore une fois pris conscience de la qualité des soins de santé offerts dans les hôpitaux canadiens. Ces événements l’ont motivé à créer la fondation Mehfuz en 2000‑2001, avec l’aide de Fareed Raza, comme moyen de lever des fonds au Canada dans le but de construire et d’exploiter une clinique médicale au Bangladesh. Selon M. Miah, la clinique a été construite et, de 2003 à 2009, elle a offert des soins de santé à des enfants pauvres et handicapés. La clinique a cessé ses activités en 2009, lorsque la fiducie Mehfuz a été éclaboussée par la controverse entourant les agissements des frères Raza.
+[14] M. Miah soutient qu’en 2008, il a découvert Saheem Raza en train de falsifier des reçus pour dons de bienfaisance de la fiducie Mehfuz lorsqu’il était entré dans le bureau de M. Saheem Raza, qu’il devait nettoyer relativement à une entente qu’il avait conclue avec le cabinet FA concernant des services de nettoyage. Il a témoigné qu’il avait vu M. Saheem Raza signer son nom (celui de M. Miah) sur un reçu. Par la suite, il a vu des reçus contrefaits qui traînaient dans le bureau. Au printemps 2008, après avoir consulté un avocat, il a signalé à l’ARC qu’il soupçonnait que les frères Raza falsifiaient des reçus pour dons de bienfaisance au nom de la fiducie Mehfuz. M. Miah a témoigné qu’il avait arrêté d’utiliser les services de comptabilité du cabinet FA en 2007, en raison des soupçons qu’il avait eus concernant les irrégularités commises par les frères Raza.
+III. Analyse [15] L’intimée a présenté une preuve commune dans les présents appels et dans les appels de Jose Vekkal (2013‑882(IT)I), de Remmy Vekkal (2013‑883(IT)I), de Martin Izkendar (2013‑220(IT)I), d’Azim Bani (2012‑3541(IT)I), d’Iraj Rasuli (2013‑886(IT)I), de Khorshid Rasuli (2013‑887(IT)I), de Ladan Abootaleby‑Pour (2013‑1779(IT)I) et d’Oleg Komarynsky (2013‑3354(IT)I).
+[16] À l’issue de l’audience des présents appels, on a soulevé la question de savoir si les éléments de preuve présentés par les huit autres appelants ou obtenus par l’intimée au moyen du contre‑interrogatoire de ces appelants devraient faire partie du dossier de l’appelant dans la présente affaire. Je tiens à souligner que, lorsqu’il a fixé les appels au rôle pour audition, le juge responsable de la gestion de l’instance n’a pas traité cette question de procédure. Je tiens également à préciser que l’appelant n’a pas reçu signification des actes de procédure concernant les autres appels et qu’il n’a pas pris part à l’interrogatoire ou au contre‑interrogatoire des autres appelants. Par conséquent, je ne tiendrai pas compte des éléments de preuve des autres appelants pour statuer sur les présents appels.
+[17] En tout état de cause, cela n’est pas important en l’espèce, car je n’ai pas trouvé que les éléments de preuve en question étaient particulièrement pertinents quant à l’issue des présents appels.
+[18] Par souci de concision, j’intègre par renvoi les conclusions que j’ai tirées sur la crédibilité concernant les témoignages de Mme Jane Yang et de Mashud Miah, tels qu’ils figurent aux paragraphes 24, 25, 26 et 27 des motifs du jugement rendus dans les appels de Jose Vekkal (2013‑882(IT)I) et de Remmy Vekkal (2013‑883(IT)I), lesquels ont été rendus le même jour que les présents motifs du jugement.
+[19] Étant donné qu’aucune des années d’imposition en cause n’est frappée de prescription, il incombe à l’appelant de prouver qu’il a réellement fait don à la fiducie Mehfuz des montants déduits dans ses déclarations de revenus.
+[20] L’appelant était la seule personne à témoigner pour son compte en l’espèce. Pour que l’appelant obtienne gain de cause, son témoignage doit être jugé crédible en ce qui concerne les circonstances entourant les dons allégués pour lesquels il n’existe aucun élément de preuve corroborant. Je suis d’avis que le témoignage de l’appelant est loin d’être crédible à cet égard.
+[21] D’une part, M. Nocon a admis qu’il n’avait pas fait de dons correspondant aux montants qu’il avait déduits dans ses déclarations de revenus. En fait, il a reconnu qu’il s’était adressé au cabinet FA sur les conseils d’un ami qui lui avait dit qu’il pouvait acheter des reçus pour dons de bienfaisance.
+[22] D’autre part, les dons ne correspondaient pas aux habitudes de l’appelant en matière de dons.
+[23] Dans son avis d’appel et dans ses observations écrites fournies après l’audience, l’appelant semble vouloir faire porter le blâme à son spécialiste en déclarations de revenus pour les fausses déductions pour dons. Il sollicite également l’indulgence de la Cour en raison de ses problèmes de santé, de ses problèmes conjugaux et de ses moyens financiers limités.
+[24] Bien que je reconnaisse que les frères Raza aient été les instigateurs du stratagème concernant les faux reçus pour dons, je conclus que l’appelant est tout aussi blâmable. Plus précisément, il a découvert que les montants déduits pour dons de bienfaisance dans ses déclarations de revenus pour 2008 et 2009 ne correspondaient pas aux montants donnés à Fareed Raza, pourtant il a décidé de faire comme si de rien n’était.
+[25] Quant à la détresse émotionnelle de l’appelant qui aurait été causée par sa séparation d’avec son épouse et par une blessure à l’épaule, il convient de souligner qu’il n’appartient pas à la Cour d’accueillir des appels pour des considérations d’ordre humanitaire. Cela relève du pouvoir discrétionnaire du ministre. Si l’appelant le souhaite, il peut tenter d’obtenir un allègement sous la forme d’une renonciation aux intérêts en application du paragraphe 220(3.1) de la Loi de l’impôt sur le revenu ou d’un décret de remise en application du paragraphe 23(2) de la Loi sur la gestion des finances publiques.
+[26] Pour les motifs exposés ci‑dessus, les nouvelles cotisations sont confirmées et l’appel est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de novembre 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 3e jour de décembre 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE :
+2014 CCI 345
+No DU DOSSIER DE LA COUR :
+2013-635(IT)I
+Intitulé :
+RUBEN NOCON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 16 septembre 2014
+Motifs du jugement :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 18 novembre 2014
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocates de l’intimée :
+Me Selena Sit
+Me Christa Akey
+Avocats inscrits au dossier :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

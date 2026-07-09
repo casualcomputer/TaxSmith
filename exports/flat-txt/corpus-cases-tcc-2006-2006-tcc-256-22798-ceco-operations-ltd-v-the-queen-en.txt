@@ -1,0 +1,383 @@
+Title: Ceco Operations Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22798/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-256-22798-ceco-operations-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-06-12
+
+# Ceco Operations Ltd. v. The Queen
+
+- Citation: 2006 TCC 256
+- Decision date: 2006-06-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2245, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ceco Operations Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-12
+Neutral citation
+2006 TCC 256
+File numbers
+2004-2878(IT)G
+Judges and Taxing Officers
+Michael J. Bonner
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2878(IT)G
+BETWEEN:
+CECO OPERATIONS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 26, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice Michael J. Bonner
+Appearances:
+Counsel for the Appellant:
+Joel A. Nitikman
+Lynn Jenkins
+Counsel for the Respondent:
+Robert Carvalho, Susan Wong and Bruce Senkpiel
+JUDGMENT
+The appeal will be allowed with costs to the Respondent and the reassessment will be referred back to the Respondent for reassessment to reflect the agreed value of the additional boot.
+Signed at Toronto, Ontario, this 12th day of June 2006.
+"Michael J. Bonner"
+Bonner, J.
+Citation: 2006TCC256
+Date: 20060612
+Docket: 2004-2878(IT)G
+BETWEEN:
+CECO OPERATIONS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bonner, J.
+Introduction
+[1] This is an income tax appeal involving what is commonly called a subsection 97(2) rollover.
+[2] On March 1, 1998 the Appellant sold its business assets consisting of equipment, goodwill and inventory to a partnership, Madill Equipment Canada, (the Partnership) for $35,461,674.00.
+[3] In respect of the sale of the business assets, for purposes of a rollover under ss. 97(2) of the Income Tax Act (the "Act") the Appellant and the Partnership jointly filed a prescribed form of election T2059 in the prescribed manner and by the required deadline and thereby elected under subsection 97(2) at $17,123,002.
+[4] At the heart of this appeal is a transaction which took place one day after the completion of the sale. That later transaction took the form of a subscription and payment by the Partnership for preference shares of a sister corporation of the Appellant. That price, which was paid in cash, very greatly exceeded the value of the shares.
+[5] The Partnership agreement contained a provision which might be described as a back-flow preventer. That provision prevented the Partnership from retaining anything of value whether capital or income from its investment in the preference shares.
+[6] The Respondent points to the relationships among the various parties and to events both before and after the subscription transaction and says that the payment for the shares was really "additional consideration" for the property sold to the Partnership. Details now follow.
+[7] The provisions of the Act of immediate concern are s. 97, paragraphs 85(1)(a) to (f), ss. 56(2) and s. 245. They are set out in schedule A to these reasons.
+[8] Superficially, at least, the asset sale transaction complied in every way with sections 97 and 85. Immediately after the 97(2) rollover the aggregate fair market value of the business assets was $35,461,674.
+[9] Immediately after the 97(2) rollover the aggregate cost amount of the business assets to the Partnership was $17,123,002.
+[10] As consideration for sale of the business assets, the Appellant received from the Partnership boot[1] with an aggregate fair market value of $16,848,600 and an interest in the Partnership called a Class "F" Unit with fair market value of $18,613,074 for a total of $35,461,674.
+[11] By Notice of Reassessment dated November 6, 2002 (the "Reassessment") the Minister of National Revenue (the "Minister") reassessed tax for the Appellant's 1999 taxation year. The Minister included in the Appellant's income the additional amount that would have been included had the Partnership paid the $18,726,561 in cash to the Appellant on March 1, 1998 as additional boot for the s. 97(2) rollover instead of the Class "F" Unit. Specifically, he added to declared income:
+a) recaptured depreciation in the amount of $150,490 pursuant to subsection 13(1) of the Act, and
+b) the amount of $13,726,028 representing the taxable portion of the sale of goodwill pursuant to subsection 14(1) of the Act.
+[12] The Minister took the position that the boot received by the Appellant on the sale of the business assets to the Partnership included the payment of $18,726,561.00 which had been made on March 2, 1998 by the Partnership. That payment was made, not to the Appellant, the seller of the assets, but rather to the Appellant's sister corporation, Ceco Holdings Ltd. ("Holdings"). That payment was ostensibly made as consideration for the issuance by Holdings to the Partnership of preference shares.
+[13] In reassessing, the Minister assumed that:
+a) the $18,726,561 payment came within subsection 56(2) of the Act and therefore should be treated as having been "received" by the Appellant as additional boot for purposes of subsection 97(2), or, alternatively, that
+b) pursuant to subsection 245(2) of the Act it would be reasonable to treat the Appellant as having received the $18,726,561 as additional boot for purposes of subsection 97(2).
+The basic issue in this appeal is whether the Minister was right.
+[14] It is necessary to set out the background against which the sale to the Partnership took place. That background was relied on by counsel for the Respondent in support of his contention that the goal of a group of individuals who were responsible for bringing about the transactions under review (the "employees") was to extract a price of US $ 29,400,000[2] as the "past value"[3] of the business sold by the Appellant to the Partnership.
+[15] In the beginning, in 1996[4], S. Madill Ltd. was a Canadian Corporation carrying on the business of manufacturing and selling logging equipment in Canada and the United States. S. Madill Ltd. later changed its name to Ceco Properties Ltd. I will refer to it as "Properties".
+[16] Properties was 100% owned by Cypress Equipment Ltd. ("Cypress") which served as a holding company.
+[17] The shares of Cypress were owned by six holding companies (the "Holdcos"). They in turn were owned, directly or indirectly, by six key employees of Properties (the "employees") as follows:
+i) Seata Investments Ltd. ("Seata"), owned 100% by Gilbert Schmunk;
+ii) Klee-Wyck Investments Ltd. ("Klee-Wyck"), owned 100% by Keith Ollis;
+iii) Kamyn Investments Ltd. ("Kamyn"), owned 100% by Daniel A. Willard;
+iv) Dorjola Holdings Ltd. ("Dorjola"), owned 100% by Barry Kenna;
+v) Cove Holdings Ltd. ("Cove"), owned 100% by Dexter Olund;
+vi) Keltar Investments Ltd. ("Keltar"), owned 100% by Henry Volp.
+[18] In June of 1996 a meeting of the employees took place for the purpose of considering the present position and future prospects of both Properties' business and of themselves as shareholders and as employees. A number of options were considered including sale of the business. According to the witness Gilbert Schmunk, who played a leadership role among the employees, an immediate sale of the business was rejected because the value of the business at that time would not reflect all benefits thought to be likely to be generated during the next few years by business initiatives already underway. However at least one of the employees wanted to retire soon and realize his interest in the business.
+[19] Not long after the meeting Mr. Schmunk retained Exvere Inc. ("Exvere") to determine the value of Properties for reasons relating to a possible sale of Properties to a competitor, Ross Corporation. Ross Corporation was thought to be interested in buying Properties. As well, an update on the value of the business was of interest for reasons relating to Properties' shareholder agreement. Exvere's conclusion was that the value of Properties was at least $35.6 million (including real estate).
+[20] Late in April of 1997 Properties again retained Exvere to perform services including a valuation analysis of Properties and "a search for acquisition/merger/sale candidates". In addition to a valuation fee, Properties agreed to pay the following "success fee":
+2.5% of the Gross Transaction Proceeds up to $US 30 million plus 5% of the Gross Transaction Proceeds over $US 30 million.
+The agreement with Exvere identified a Minimum Transaction Value of $US 30 million for the issued shares and outstanding debentures Cypress.
+[21] In the summer of 1997, as a result of Exvere's efforts, the employees were introduced to the Key Group of companies. After some discussion, the Key Group, who were merchant bankers, produced a letter of intent dated September 30, 1997.
+[22] In that letter of intent, Key proposed that the employees and Key would form a new corporation which would purchase all of the shares of Cypress for $31,000,000 (U.S.) payable $28,000,000 in cash and $3,000,000 by promissory note. At least 5 of the six employees were to be employed by the new corporation and were to take a 25% equity stake in it. In addition the 5 employees were to have an opportunity to earn additional "sweat equity" of 10% of the equity over a five-year period.
+[23] That letter was not accepted. Discussions followed between Key and the employees who were represented, I gather, by Mr. Schmunk. A second letter of intent dated November 4, 1997 resulted.
+[24] The November 4, 1997 letter of intent was addressed by Key to Mr. Schmunk as president of Cypress. It called for the formation of a new company by Key. The management team[5] was to be entitled to acquire up to 25% of Newco and to earn an additional 10%. Newco was to acquire Properties from Cypress for $29,400,000 (U.S.) payable $3,000,000 by subordinated note and the balance in cash on closing. The price was not to include real estate belonging to Cypress. The price was to be subject to adjustment for changes in net working capital.
+[25] The letter of November 4 recited:
+"... It is understood that this letter of intent merely constitutes a statement of our mutual intention with respect to the proposed purchase and sale of the shares of Madill, does not contain all matters upon which agreement must be reached in order for the proposed purchase and sale to be consummated, does not constitute a binding commitment with respect to the proposed purchase and sale, and does not create ..."
+[26] In the pleadings the Appellant stated and the Respondent admitted that the Holdcos did not accept the second letter of intent. I note that, in fact, the copy found at Tab 4, Subtab 221 of Exhibit R-1 appears to bear the acceptance of the Holdcos. Litigators should note that in this Court cases governed by the General Procedure are tried on issues as defined by the pleadings. Facts which are admitted are not in issue. Thus, for purposes of this proceeding I must take the facts as admitted to be true.
+[27] In regard to the form of the contemplated transaction the letter stated:
+It is also understood that for tax efficiency the form of the transaction may change after we have had an opportunity to review this proposal with our tax lawyers and accountants; ...
+[28] As a result of a review undertaken by tax advisors during the interval between December, 1997 and January, 1998, the form of the transaction under discussion changed from a share sale to an asset sale. The entity to be formed to acquire Properties' business was changed from a corporation to a partnership.
+[29] In a memorandum dated January 12, 1998 to the other five members of the employee group Mr. Schmunk said that "... all current six shareholders will share the proceeds (of the Key transaction) on a pro rata basis".
+[30] In preparation for the implementation of the agreement contemplated by the November 4 letter of intent, (as changed in form), two corporations were formed:
+a) The Appellant was incorporated on February 26, 1998 under the laws of British Columbia. It became the wholly owned subsidiary of Properties.
+b) Ceco Holdings Ltd. ("Holdings") was incorporated on or about February 26, 1998. It too became a wholly owned subsidiary of Properties.
+[31] Immediately prior to March 1, 1998 the aggregate fair market value of the business assets of Properties other than real estate, receivables, cash and prepaids was $35,461,674. Those assets consisted of equipment goodwill and inventory. The cost amount of those assets was $15,831,350.
+[32] On March 1, 1998 Properties sold the business assets to the Appellant for $35,461,674 utilizing s.85 of the Act. Properties and the Appellant jointly elected at $17,123,002 under subsection 85(1). As consideration for the sale of the Business Assets, Properties received from the Appellant promissory notes ("Notes"), assumption of debt and cash with an aggregate fair market value of $15,972,568 plus preference shares of the Appellant with an aggregate fair market value of $19,489,106 for a total of $35,461,674. Immediately after the s.85 rollover the aggregate fair market value of the Business Assets was $35,461.674 and the cost amount to the Appellant of the Business Assets was $17,123,002.
+[33] On March 1, 1998 Properties sold to the Appellant all of its receivables, with a face value of $3,571,720, for $3,469,260, payable by promissory note. It made a s. 22 election with respect to the receivables.
+[34] Immediately prior to March 1, 1998 and throughout the Appellant's 1999 taxation year SML Holdings Corp. ("SMLH") was a Delaware, USA corporation that was a direct or indirect subsidiary of Key. SML Operations (Canada) Ltd. ("SMLO") was incorporated on February 24, 1998 under the laws of Ontario. Immediately prior to March 1, 1998 and throughout the Appellant's 1999 taxation year the shares of SMLO were owned by SMLH.
+[35] Effective March 1, 1998 the Appellant and SMLO agreed to carry on, in partnership, (the "Partnership") the business of manufacturing and selling forestry equipment. The Partnership was called Madill Equipment Canada.
+[36] Effective March 1, 1998 the Appellant contributed $500,000 U.S. and SML contributed $1,500,000 U.S. to the Partnership. In exchange the Appellant received 53,125 common units and 398 preferred units of the Partnership. SMLO received 150,000 common and 1,125 preferred units.
+[37] Next, on March 1, 1998, the Appellant sold the business assets to the Partnership for $35,461,674 using s. 97(2) of the Act. As already noted, the parties elected at $17,123,002 and the Appellant received from the Partnership cash, promissory notes and assumption of debt for a total of $16,848,600. It also received one Class "F" preferred partnership unit valued at $18,613,074. The Appellant reported this transaction accordingly.
+[38] It was admitted by the Respondent in the Reply to the Notice of Appeal that the fair market value of the Class "F" unit was $18,613,074.
+[39] At this point it is convenient to note that paragraph 3.1(g) of the Partnership Agreement of Madill Equipment Canada, which I have described as a back-flow preventer, provided:
+"(g) Notwithstanding anything herein to the contrary, in the event the Partnership receives any payments in respect of any preferred securities held by the Partnership (other than securities of a subsidiary of the Partnership or other securities in which the Partnership has invested excess available cash), the Partnership shall make Distributions to the holders of Class F Units[6] (pro rata among such holders based on the total number of Class F Units held by each such holder) in the aggregate amount equal to such payments received in respect of preferred securities."
+[40] On March 1st 1998 the Partnership held cash of at least $18,726,561 made up of the subscription price paid by SML Operations for Class "E" partnership units and equity contributions made by the partners.
+[41] On March 2, 1998, the Partnership subscribed for 18,726,561 non-voting, non-retractable, non-cumulative, 6% Class "A" preferred shares of Holdings (the "Holdings Preferred Shares") for a cash payment of $18,726,561 to Holdings. Holdings, it will be remembered, was the Appellant's newly-incorporated sister.
+[42] I note in passing that it is rather difficult to imagine why any intelligent person or partnership would pay good money to buy preference shares in a recently formed corporation when that person had already given up the right to retain any payments which might be received in respect of such shares. Moreover there was no suggestion that Holdings had during its brief lifetime carried on any business. There was no suggestion that there was any plan to commence business. It would seem that there was little likelihood that dividends would ever be paid.
+[43] The assumptions of fact made by the Minister when making the assessment under appeal include the following:
+"1) The terms of the Holdings Preferred Shares are such that their fair market value is much less than what was paid for them.
+2) The fair market value of the Holdings Preferred Shares is no more than $1,872,656.
+3) On March 6, 1998, Holdings subscribed for the following non-voting, non-retractable, non-cumulative 6% Class "A" Preferred Shares of the Holdcos (the "Holdcos Preferred Shares") for a cash payment of $18,726,561 to the Holdcos.
+Name:
+% of Amount:
+# of Shares:
+Amount:
+Klee-Wyck
+8.57
+1,337,675
+$1,337,675
+Kamyn
+7.14
+1,605,203
+1,605,203
+Dorjola
+17.71
+3,317,224
+3,317,224
+Cove
+21.14
+3,959,319
+3,959,319
+Seata
+24.28
+4,547,821
+4,547,821
+Keltar
+21.14
+3,959,319
+3,959,319
+Total
+100.00
+18,726,561
+$18,726,561
+4) The terms of the Holdcos Preferred Shares are such that their fair market value is much less than what was paid for them.
+5) The fair market value of Holdcos Preferred Shares is no more than $1,872,656.
+6) Between 1998 and 2001, no dividends were received by the Partnership on the Holdings Preferred Shares."
+Those assumptions were not challenged.
+[44] It was admitted that the Holdcos never did pay any dividends to Holdings on their preference shares nor did they ever redeem them. In effect Holdings served as a stepping stone which facilitated the movement of $18,726,561 from the partnership to the Holdcos. It also enabled the Appellant to say that it did not receive any part of the consideration paid by the partnership for the business assets (if the subscription price for the Holdings preference shares were to be viewed as disguised boot).
+[45] The Appellant did of course challenge other assumptions made by the Minister including:
+"The $18,726,561 received by Holdings on March 2, 1998 from the Partnership on the Preferred Share subscription is additional cash consideration to the Appellant on the subsection 97(2) rollover.
+The Partnership paid $18,726,561 to Holdings with the concurrence of the Appellant as a benefit that the Appellant wished to confer on Holdings.
+Had the payment been made directly to the Appellant, the amount would have been taxable to the Appellant as additional proceeds received on the subsection 97(2) rollover to the Partnership."
+[46] After the completion of the sale to the Partnership which was the subject of the assessment under appeal, the success fee referred to in paragraph 17 of these Reasons was paid. In a letter to Mr. Schmunk regarding the fee, Exvere noted:
+"We can only hope that your opinion of our work reflects the fact that your shareholders received net U.S. $27,000,000 for 75% of S. Madill, Ltd. We are extremely proud of this result and believe our marketing and negotiation assistance were major contributing factors to your success."
+[47] Gilbert Schmunk testified at the hearing of the appeal. He held many offices including president of the Partnership, of the Appellant, of Properties, of Cypress Equipment Ltd. and of Seata.
+[48] Mr. Schmunk admitted that the changes to the structure of the transaction as outlined in the November 4 letter of intent from a share sale to an asset sale were made in order to maximize the after tax proceeds to the shareholders (the employees).
+[49] Further, Mr. Schmunk admitted that the following transactions were part of a series which was, as a result of the consultations with tax advisors, planned to take place in the following sequence:
+a) The Appellant, having received a $35 million business on March 1, 1998 from Properties, sold the business to the Partnership,
+b) The Appellant took back $17 million in cash, debt, and assumption of liabilities plus a Class "F" unit valued at $18.7 million.
+c) The next day the Partnership purchased preference shares of Holdings for $18,726,561.
+[50] Mr. Schmunk further admitted that part of the "game plan" was that the value which was to be assigned to the Class "F" unit on the election was to be paid by the Partnership to Holdings. He agreed that Holdings was intended to be a way to get the tax deferred proceeds and distribute them to the Holdcos. Further he admitted that one of the employees' objectives underlying the series of transactions was to remove the value of the business so it would not be under the control of the Partnership.
+[51] A variety of reasons were offered by the Appellant for moving the $18,726,561 from the Partnership to the Holdcos. The Notice of Appeal suggests that it was to protect "cash equal to the fair market value of the Class "F" unit which represented the tax-deferred sale proceeds" from the creditors of the Partnership. That does not explain the use of Holdings to detour the flow of the money around the Appellant and up to the Holdcos. Mr. Schmunk was unable to explain the role of Holdings and the preference shares which it issued to the Partnership except to agree that it was on the advice of his tax advisors.
+[52] Mr. Schmunk then pointed out that the money which flowed up to the Holdcos could be held by them and later be reinvested in the Partnership following redemption of preference shares. He agreed that such a procedure would require the concurrence of the Holdcos. There was no written agreement that they would do so, just, he said, an "understanding". The objective fact is however that no such reinvestment has yet been made. This area of Mr. Schmunk's evidence was in my opinion disingenuous, a mere ex post facto rationalization.
+[53] There are three issues to be decided:
+a) Was the payment of $18,726,561 made by the Partnership to Holdings on March 2, 1998 additional consideration (other than an interest in the Partnership) "received" by the Appellant within the meaning of ss. 97(2) and paragraph 85(1)(b) of the Act.
+b) Was the payment made by the Partnership to Holdings required to be included in the Appellant's income pursuant to ss. 56(2) of the Act.
+c) Does s. 245 of the Act apply.
+[54] The position of the Respondent on the first issue is that the fact that the $18.7 million payment was made by the Partnership to Holdings ostensibly as consideration for the Holdings preference shares and not as additional consideration to the Appellant for the business assets is not conclusive. He submitted that the "true nature" of the $18.7 million payment was additional consideration on the ss. 97(2) rollover. In support he referred to cases[7] involving ss. 97(2) rollovers in which the courts have found subsequent payments to be additional consideration for the property transferred.
+[55] In my view there are at least two reasons for rejecting the submission. First the Respondent has admitted that the business assets were sold to the Partnership for $35,461,674 and that, as consideration, the Appellant received boot with an aggregate fair market value of $16,848,600 and a Class "F" unit with a fair market value of $18,613,074. As a simple matter of arithmetic there is no room for even a penny of additional consideration when the legal form of the transactions governs. There was an additional payment made by the Partnership it is true, but the admission precludes a finding that the payment was consideration for the sale of the business assets. Second, the cases cited appear to involve a preference for the supposed substance of the transactions over their form. The use by the Courts of such an approach is now precluded by the decision of the Supreme Court of Canada in Shell Canada Ltd. v. Canada[8] where the following is said:
+"...Unless the Act provides otherwise, a taxpayer is entitled to be taxed based on what it actually did, not based on what it could have done, and certainly not based on what a less sophisticated taxpayer might have done.
+...
+...in the absence of a specific statutory bar to the contrary, taxpayers are entitled to structure their affairs in a manner that reduces the tax payable: ... An unrestricted application of an ... "economic effects" approach does indirectly what this Court has consistently held Parliament did not intend the Act to do directly."
+[56] Next the Respondent contended that the payment of $18,726,561 by the Partnership to Holdings was required to be included in the income of the Appellant pursuant to ss. 56(2) of the Act. It was argued that the payment was made pursuant to the direction of or with the concurrence of the Appellant for the benefit of the Appellant or as a benefit that the Appellant desired to be conferred on Holdings.
+[57] Ss. 56(2) may apply if four requirements are met:
+"(1) the payment must be to a person other than the reassessed taxpayer;
+(2) the allocation must be at the direction or with the concurrence of the reassessed taxpayer;
+(3) the payment must be for the benefit of the reassessed taxpayer or for the benefit of another person whom the reassessed taxpayer wished to benefit; and
+(4) the payment would have been included in the reassessed taxpayer's income if it had been received by him or her."[9]
+[58] Counsel for the Respondent argued that at the behest of the Appellant, the Partnership paid the $18,726,561 to Holdings, not to the Appellant, and that the amount is equal to the additional proceeds that would otherwise have been paid to the Appellant for the business assets. This argument rested on the premise that it was part of the plan conceived by or on behalf of the employees that additional consideration be received by Holdings rather than by the Appellant in order to avoid the tax that would otherwise have fallen on the Appellant.
+[59] Ss. 56(2) may well apply if a person who has sold property causes the consideration which might otherwise have been received by him as vendor to be paid to a designated recipient and if the forth condition is met. Here, however, as already noted, it was admitted on the pleadings that the total value of the boot and the Class "F" share received by the Appellant on March 1st was equal to the price for which the business assets were sold to the Partnership. I repeat, there was no room for the additional consideration which the Appellant is said to have diverted to Holdings.
+[60] No doubt the Appellant wanted to avoid the tax that would have been imposed if it had chosen to receive, as consideration for the sale of the business assets, boot of $18.7 million in addition to, the Class "F" share. However it did not make that choice. Ss. 56(2) cannot help the Respondent. It deals with the diversion of payments of money but does not change the nature or quality of the payments. The subscription for the Holdings preference shares cannot be disregarded on the basis of the supposed substance of that transaction.
+[61] Finally I turn to s. 245 of the Act. To put the provision in context I refer to paragraph 1 of the reasons for judgment of the Supreme Court of Canada in Canada Trustco Mortgage Co. v. Canada, 2005 S.C.C. 54. The Court discussed and stated:
+" the interplay between the general anti-avoidance rule (the "GAAR") and the application of more specific provisions of the Income Tax Act, ... . The Act continues to permit legitimate tax minimization; traditionally, this has involved determining whether the taxpayer brought itself within the wording of the specific provisions relied on for the tax benefit. Onto this scheme, the GAAR has superimposed a prohibition on abusive tax avoidance, with the effect that the literal application of provisions of the Act may be seen as abusive in light of their context and purpose."
+[62] The Respondent framed its argument on the three steps involved in the application of the GAAR:
+"... The first step is to determine whether there is a "tax benefit" arising from a "transaction" under s. 245(1) and (2). The second step is to determine whether the transaction is an avoidance transaction under s. 245(3), in the sense of not being "arranged primarily for bona fide purposes other than to obtain the tax benefit". The third step is to determine whether the avoidance transaction is abusive under s. 245(4). All three requirements must be fulfilled before the GAAR can be applied to deny a tax benefit."[10]
+[63] The Respondent argued that the tax benefit to the Appellant was the deferral of tax on the additional cash consideration received by way of issuance of the Holdings Preferred Shares, i.e. the reduction of the income tax payable by the Appellant on the sale of its business.
+[64] The Appellant conceded that because the essence of a ss. 97(2) rollover is the reduction of tax that a seller would otherwise pay on the sale of its assets it received a tax benefit on the ss. 97(2) rollover.
+[65] The Respondent argued that the following were avoidance transactions that were part of a series of transactions that resulted directly or indirectly, in a tax benefit to the Appellant and that they were not arranged primarily for a bona fide purpose other than to obtain a tax benefit, within the meaning of ss. 245(1) and 245(3):
+a) the rollover of the Assets from the Appellant to the Partnership and the election pursuant to subsection 97(2);
+b) the purchase and issuance of the Holdings Preferred Shares; and
+c) the purchase and issuance of the Holdcos Preferred Shares.
+[66] On the evidence, there is simply no room for doubt that the transactions formed a series. They were planned and sequenced to extract the value of the consideration attributed to the Class "F" share from the Partnership and to cause it to by-pass the Appellant and flow up to the Holdcos.
+[67] Counsel argued that the Appellant wanted to use the ss. 97(2) rollover to defer immediate taxation on $18.6 of the $18.7 million so that the Holdcos would have more money to invest in the Partnership and that there was therefore a bona fide non tax purpose and thus no avoidance transaction. Counsel suggested that the position was analogous to the RRSP example set out at paragraph 33 of the reasons for judgment of the Supreme Court of Canada in Canada Trustco Mortgage (supra).
+[68] In my opinion the inescapable conclusion on the evidence is that the series of transactions identified in paragraph 65 was part of a series that was undertaken exclusively to defer the taxation of the portion of the sale price represented by the Class "F" share.
+[69] The Appellant argued that both Key and Ceco's management believed that there were significant future growth opportunities for the Partnership that would require the investment of cash and that the primary purpose was to be able to reinvest in the Partnership in a tax-efficient manner.
+[70] Mr. Schmunk was the only witness called on this point. I do not find that his evidence regarding possible reinvestment was credible. The decision to structure the transaction in the manner ultimately adopted was made after consultations with tax advisors. No witness from the Key Group was called to testify that reinvestment by the Holdcos in the Partnership was ever seriously considered. While I accept counsel's statement that one of the principal Key decision makers had died, I'd be surprised if other informed Key officials were unavailable. None of the other members of the employee group was called to testify and it was not suggested that one or more of them was unavailable. Finally I note that Mr. Schmunk's alleged purpose was never supported by persuasive evidence of the supposed intent. There was no overt action taken to implement that purpose. In my view subparagraph 245(3)(b) of the Act cannot assist the Appellant.
+[71] The final step in the GAAR analysis is the determination of the question whether the avoidance transaction is abusive under ss. 245(4) that is to say whether the tax benefit sought is consistent with the object, spirit and purpose of the relevant statutory provisions. This involves a consideration of the scheme of the Act, of the statutory provisions in play and of permissible extrinsic aids.
+[72] A textual analysis of ss. 97(2) presents no difficulty. It is an elective rollover provision permitting the transfer of property to a partnership on a tax-deferred basis provided that the transferor does not extract non share consideration (boot) greater than the cost of the transferred property. The immediate context is ss. 97(1) which would otherwise apply to deem the acquisition to have taken place at fair market value possibly triggering the recognition of a gain for tax purposes.
+[73] The ss. 97(2) permission to defer tax on a gain comes at a cost. The eminent author, Krishna, explains it as follows[11]:
+(b) - Elected Amount Cannot be Less than Boot
+Second, the elected amount cannot be less than the value of any non-share consideration ("boot") received from the purchaser corporation.50 This places a lower limit on the election. Where the elected amount is less than the value of boot received, the Act deems the value of the boot to be the elected amount. The purpose of this limit is to prevent a taxpayer from actually realizing and extracting the economic value of a gain without, at the same time, recognizing the gain for tax purposes.
+[74] In Continental Bank of Canadav. The Queen[12] Bowman J. (as he then was) explains the object of ss. 97(2) (if not the spirit) as follows:
+"The answer to the question what tax is payable in any given circumstances depends, of course, upon the words of the legislation imposing it. Where the meaning of those words is difficult to ascertain it may be of assistance to consider which of two constructions contended for brings about a result which conforms to the apparent scheme of the legislation.
+What, then, is the object and spirit of subsection 97(2)? I am not sure what its spirit, if any is, - spirits tend to be somewhat elusive - but its object seems rather straightforward. It is to permit a taxpayer to transfer assets to a partnership in return for a partnership interest without triggering the immediate tax result that such a transfer would normally entail. Tax is not avoided; it is deferred and the potential tax is preserved within the partnership until the assets are disposed of, unless, of course, a second rollover is subsequently made to a corporation under section 85. That deferral is not obtained without a certain hidden cost. Both the assets within the partnership and the partnership interest have, for the purposes of the Income Tax Act, a lower cost base than they would have had if no subsection 97(2) election had been filed. This may result in an element of potential double taxation but it is something that taxpayers are normally informed of by their advisors and are prepared to live with. The apparent premise upon which the rollover provisions of both section 85 and subsection 97(2) are based is that where a taxpayer transfers assets to a corporation or a partnership and receives as consideration shares or a partnership interest, as the case may be, for a portion of the value of the assets exceeding the "cost amount", the taxpayer's real economic position has not been enhanced. The interest in the assets is merely being held in a different vehicle."
+[75] The answer to the question whether, in this case, the transaction is abusive depends on whether, at the conclusion of the series of transactions, it can be said that the elected amount, $17,123,002, is greater than boot: $16,848,600, as the Appellant says, or $16,848,600 plus the $18,613,074 attributed to the Class "F" unit, as the Respondent says.
+[76] If the Respondent is right the Appellant will have realized and extracted the economic value of the gain contrary to the object and purpose of ss. 85(1) and ss. 97(2).
+[77] The Appellant argued that:
+"The Respondent has conceded that when Operations rolled in $35.4 million worth of business assets, it received back $16.8 million worth of Boot and $18.6 million worth of Class "F" unit. It now wants to treat Operations as if it had received an additional $18.7 million worth of consideration for the business assets, which would give it $54.1 million worth of consideration for assets worth only $35.4 million. That is self-evidently impossible. The Respondent's position is fatally flawed. The appeal should be allowed."
+[78] That argument rests on the assumption that the Class "F" Partnership unit was an interest in the Partnership within the meaning of ss. 97(2). Technically it was. In the real world, however, it was symbolic only. In practical terms, it represented nothing more that an undertaking to pay $18.7 million for Holdings preference shares, which were of no practical value to the Partnership by reason of the Partnership agreement.
+[79] I infer the existence of that undertaking from the events which took place. The fact that the subscription price paid by the Partnership for the Holdings preference shares and value of the Class "F" unit were almost the same is hardly a coincidence. As already noted, paragraph 3.1(g) of the Partnership Agreement precluded the retention by the Partnership of "any payments in respect of such shares". In that symbolic role the Class "F" share was clearly worth $18.7 million during the brief period prior to the purchase of the Holdings preference shares and the payment of the consideration which replaced the Class "F" share. As I see it the use of the avoidance transactions to secure the rollover and permit the "tax deferred proceeds" to reach the Holdcos results in a patent abuse of ss. 97(2).
+[80] The appeal would therefore fail but for the fact that an adjustment must be made to limit the additional boot to $18,613,074, the agreed value of the Class "F" share. The appeal will therefore be allowed with costs to the Respondent and the reassessment will be referred back to the Respondent for adjustment to reflect the agreed value of the additional boot. The Appellant is not entitled to further relief.
+Signed at Toronto, Ontario, this 12th day of June 2006.
+"Michael J. Bonner"
+Bonner, J.
+SCHEDULE A
+97. (1) Contribution of property to partnership - Where at any time after 1971 a partnership has acquired property from a taxpayer who was, immediately after that time, a member of the partnership, the partnership shall be deemed to have acquired the property at an amount equal to its fair market value at that time and the taxpayer shall be deemed to have disposed of the property for proceeds equal to that fair market value.
+(2) Rules where election by partners - Notwithstanding any other provision of this Act, other than subsection 85(5.1), where at any time after November 12, 1981 a taxpayer has disposed of any capital property, a Canadian resource property, a foreign resource property, an eligible capital property or an inventory to a partnership that immediately after that time was a Canadian partnership of which the taxpayer was a member, if the taxpayer and all the other members of the partnership have jointly so elected in prescribed form and within the time referred to in subsection 96(4), the following rules apply:
+(a) the provisions of paragraphs 85(1)(a) to (f) apply to the disposition as if
+(i) the reference therein to "corporation's cost" were read as a reference to "partnership's cost",
+(ii) the references therein to "other than any shares of the capital stock of the corporation or a right to receive any such shares" and to "other than shares of the capital stock of the corporation or a right to receive any such shares" were read as references to "other than an interest in the partnership",
+(iii) the references therein to "shareholder of the corporation" were read as references to "member of the partnership",
+(iv) the references therein to "the corporation" were read as references to "all the other members of the partnership", and
+(v) the references therein to "to the corporation" were read as references to "to the partnership";
+(b) in computing, at any time after the disposition, the adjusted cost base to the taxpayer of the taxpayer's interest in the partnership immediately after the disposition,
+(i) there shall be added the amount, if any, by which the taxpayer's proceeds of disposition of the property exceed the fair market value, at the time of the disposition, of the consideration (other than an interest in the partnership) received by the taxpayer for the property, and
+(ii) there shall be deducted the amount, if any, by which the fair market value, at the time of the disposition, of the consideration (other than an interest in the partnership) received by the taxpayer for the property so disposed of by the taxpayer exceeds the fair market value of the property at the time of the disposition; and
+(c) where the property so disposed of by the taxpayer to the partnership is taxable Canadian property of the taxpayer, the interest in the partnership received by the taxpayer as consideration therefor shall be deemed to be taxable Canadian property of the taxpayer.
+(3) Where property acquired from majority interest partner - Where, at any time after November 12, 1981, a taxpayer has disposed of any capital property to a partnership and, immediately after the disposition, the taxpayer was a majority interest partner of the partnership and, but for this subsection, the taxpayer would have had a capital loss therefrom, the following rules apply:
+(a) notwithstanding any other provision of this Act, the taxpayer's capital loss therefrom shall be deemed to be nil; and
+(b) except where the property so disposed of was, immediately after the disposition, an obligation that was payable to the partnership by a corporation that is related to the taxpayer or by a corporation or partnership that would be related to the taxpayer if paragraph 80(2)(j) applied for the purposes of this paragraph, in computing at any time after the disposition the adjusted cost base to the taxpayer of the taxpayer's interest in the partnership immediately after the disposition, there shall be added the amount, if any, by which
+(i) the cost amount to the taxpayer, immediately before the disposition, of the property exceeds
+(ii) the taxpayer's proceeds of disposition of the property.
+(3.1) Deemed majority interest partner - For the purposes of subsection (3), a taxpayer shall be deemed to be a majority interest partner of a partnership at any time if
+(a) the total of the taxpayer's share, the share of the taxpayer's spouse and the share of a person or group of persons that, directly or indirectly in any manner whatever, controlled or was controlled by the taxpayer, of the income of the partnership from any source for the fiscal period of the partnership that includes that time exceeds ½ of the income of the partnership from the source for that period; or
+(b) the total of the taxpayer's share, the share of the taxpayer's spouse and the share of a person or group of persons that, directly or indirectly in any manner whatever, controlled or was controlled by the taxpayer, of the total amount that would be paid to all members of the partnership (otherwise than as the share of any income of the partnership) if it were wound up at that time exceeds ½ of that amount.
+(4) Where capital cost to partner exceeds proceeds of disposition - Where subsection (2) has been applicable in respect of the acquisition of any depreciable property by a partnership from a taxpayer who was, immediately after the taxpayer disposed of the property, a member of the partnership and the capital cost to the taxpayer of the property exceeds the taxpayer's proceeds of the disposition, for the purposes of sections 13 and 20 and any regulations made under paragraph 20(1)(a)
+(a) the capital cost to the partnership of the property shall be deemed to be the amount that was the capital cost thereof to the taxpayer; and
+(b) the excess shall be deemed to have been allowed to the partnership in respect of the property under regulations made under paragraph 20(1)(a) in computing income for taxation years before the acquisition by the partnership of the property.
+S. 85.(1) Transfer of property to corporation by shareholders
+(1) Where a taxpayer has, in a taxation year, disposed of any of the taxpayer's property that was eligible property to a taxable Canadian corporation for consideration that includes shares of the capital stock of the corporation, if the taxpayer and the corporation have jointly elected in prescribed form and in accordance with subsection (6), the following rules apply:
+(a) the amount that the taxpayer and the corporation have agreed on in their election in respect of the property shall be deemed to be the taxpayer's proceeds of disposition of the property and the corporation's cost of the property;
+(b) subject to paragraph (c), where the amount that the taxpayer and the corporation have agreed on in their election in respect of the property is less than the fair market value, at the time of the disposition, of the consideration therefor (other than any shares of the capital stock of the corporation or a right to receive any such shares) received by the taxpayer, the amount so agreed on shall, irrespective of the amount actually so agreed on by them, be deemed to be an amount equal to that fair market value;
+(c) where the amount that the taxpayer and the corporation have agreed on in their election in respect of the property is greater than the fair market value, at the time of the disposition, of the property so disposed of, the amount so agreed on shall, irrespective of the amount actually so agreed on, be deemed to be an amount equal to that fair market value;
+(c.1) where the property was inventory, capital property (other than depreciable property of a prescribed class), a NISA Fund No. 2 or a property that is eligible property because of paragraph (1.1)(g) or (g.1), and the amount that the taxpayer and corporation have agreed on in their election in respect of the property is less than the lesser of
+(i) the fair market value of the property at the time of the disposition, and
+(ii) the cost amount to the taxpayer of the property at the time of the disposition,
+the amount so agreed on shall, irrespective of the amount actually so agreed on by them, be deemed to be an amount equal to the lesser of the amounts described in subparagraphs (i) and (ii);
+(c.2) subject to paragraphs (b) and (c) and notwithstanding paragraph (c.1), where the taxpayer carries on a farming business the income from which is computed in accordance with the cash method and the property was inventory owned in connection with that business immediately before the particular time the property was disposed of to the corporation,
+(i) the amount that the taxpayer and the corporation agreed on in their election in respect of inventory purchased by the taxpayer shall be deemed to be equal to the amount determined by the formula
+(A × B/C) + D
+where
+A is the amount that would be included because of paragraph 28(1)(c) in computing the taxpayer's income for the taxpayer's last taxation year beginning before the particular time if that year had ended immediately before the particular time,
+B is the value (determined in accordance with subsection 28(1.2)) to the taxpayer immediately before the particular time of the purchased inventory in respect of which the election is made,
+C is the value (determined in accordance with subsection 28(1.2)) of all of the inventory purchased by the taxpayer that was owned by the taxpayer in connection with that business immediately before the particular time, and
+D is such additional amount as the taxpayer and the corporation designate in respect of the property,
+(ii) for the purpose of subparagraph 28(1)(a)(i), the disposition of the property and the receipt of proceeds of disposition therefore shall be deemed to have occurred at the particular time and in the course of carrying on the business, and
+(iii) where the property is owned by the corporation in connection with a farming business and the income from that business is computed in accordance with the cash method, for the purposes of section 28,
+(A) an amount equal to the cost to the corporation of the property shall be deemed to have been paid by the corporation, and
+(B) the corporation shall be deemed to have purchased the property for an amount equal to that cost,
+at the particular time and in the course of carrying on that business;
+(d) where the property was eligible capital property in respect of a business of the taxpayer and the amount that, but for this paragraph, would be the proceeds of disposition of the property is less than the least of
+(i) 4/3 of the taxpayer's cumulative eligible capital in respect of the business immediately before the disposition,
+(ii) the cost to the taxpayer of the property, and
+(iii) the fair market value of the property at the time of the disposition,
+the amount agreed on by the taxpayer and the corporation in their election in respect of the property shall, irrespective of the amount actually so agreed on by them, be deemed to be the least of the amounts described in subparagraphs (i) to (iii);
+(d.1) for the purpose of determining after the time of the disposition the amount to be included under paragraph 14(1)(b) in computing the corporation's income, there shall be added to the amount otherwise determined for Q in the definition "cumulative eligible capital" in subsection 14(5) the amount determined by the formula
+(A x B/C) - 2(D - E)
+where
+A is the amount, if any, determined for Q in that definition in respect of the taxpayer's business immediately before the time of the disposition,
+B is the fair market value immediately before that time of the eligible capital property disposed of to the corporation by the taxpayer,
+C is the fair market value immediately before that time of all eligible capital property of the taxpayer in respect of the business,
+D is the amount, if any, that would be included under subsection 14(1) in computing the taxpayer's income as a result of the disposition if
+(i) the amounts determined for C and D in subparagraph 14(1)(a)(v) were zero, and
+(ii) paragraph 14(1)(b) were read as follows:
+"(b) in any other case, the excess shall be included in computing the taxpayer's income from that business for that year.", and
+E is the amount, if any, that would be included under subsection 14(1) in computing the taxpayer's income as a result of the disposition if the amount determined for D in subparagraph 14(1)(a)(v) were zero;
+(e) where the property was depreciable property of a prescribed class of the taxpayer and the amount that, but for this paragraph, would be the proceeds of disposition thereof is less than the least of
+(i) the undepreciated capital cost to the taxpayer of all property of that class immediately before the disposition,
+(ii) the cost to the taxpayer of the property, and
+(iii) the fair market value of the property at the time of the disposition,
+the amount agreed on by the taxpayer and the corporation in their election in respect of the property shall, irrespective of the amount actually so agreed on by them, be deemed to be the least of the amounts described in subparagraphs (i) to (iii);
+(e.1) where two or more properties, each of which is a property described in paragraph (d) or each of which is a property described in paragraph (e), are disposed of at the same time, paragraph (d) or (e), as the case may be, applies as if each property so disposed of had been separately disposed of in the order designated by the taxpayer before the time referred to in subsection (6) for the filling of an election in respect of those properties or, if the taxpayer does not so designate any such order, in the order designated by the Minister;
+(e.2) where the fair market value of the property immediately before the disposition exceeds the greater of
+(i) the fair market value, immediately after the disposition, of the consideration received by the taxpayer for the property disposed of by the taxpayer, and
+(ii) the amount that the taxpayer and the corporation have agreed on in their election in respect of the property, determined without reference to this paragraph,
+and it is reasonable to regard any part of the excess as a benefit that the taxpayer desired to have conferred on a person related to the taxpayer (other than a corporation that was a wholly owned corporation of the taxpayer immediately after the disposition), the amount that the taxpayer and the corporation agreed on in their election in respect of the property shall, regardless of the amount actually so agreed on by them, be deemed (except for the purposes of paragraphs (g) and (h)) to be an amount equal to the total of the amount referred to in subparagraph (ii) and that part of the excess;
+(e.3) where, under any of paragraphs (c.1), (d) and (e), the amount that the taxpayer and the corporation have agreed on in their election in respect of the property (in this paragraph referred to as "the elected amount") would be deemed to be an amount that is greater or less than the amount that would be deemed, subject to paragraph (c), to be the elected amount under paragraph (b), the elected amount shall be deemed to be the greater of
+(i) the amount deemed by paragraph (c.1), (d) or (e), as the case may be, to be the elected amount, and
+(ii) the amount deemed by paragraph (b) to be the elected amount;
+(e.4) where
+(i) the property is depreciable property of a prescribed class of the taxpayer and is a passenger vehicle the cost to the taxpayer of which was more than $20,000 or such other amount as may be prescribed, and
+(ii) the taxpayer and the corporation do not deal at arm's length,
+the amount that the taxpayer and the corporation have agreed on in their election in respect of the property shall be deemed to be an amount equal to the undepreciated capital cost to the taxpayer of the class immediately before the disposition, except that, for the purposes of subsection 6(2), the cost to the corporation of the vehicle shall be deemed to be an amount equal to its fair market value immediately before the disposition;
+(f) the cost to the taxpayer of any particular property (other than shares of the capital stock of the corporation or a right to receive any such shares) received by the taxpayer as consideration for the disposition shall be deemed to be an amount equal to the lesser of
+(i) the fair market value of the particular property at the time of the disposition, and
+(ii) that proportion of the fair market value, at the time of the disposition, of the property disposed of by the taxpayer to the corporation that
+(A) the amount determined under subparagraph (i)
+is of
+(B) the fair market value, at the time of the disposition, of all properties (other than shares of the capital stock of the corporation or a right to receive any such shares) received by the taxpayer as consideration for the disposition;
+...
+56(2) Indirect payments - A payment or transfer of property made pursuant to the direction of, or with the concurrence of, a taxpayer to some other person for the benefit of the taxpayer or as a benefit that the taxpayer desired to have conferred on the other person (other than by an assignment of any portion of a retirement pension pursuant to section 65.1 of the Canada Pension Plan or a comparable provision of a provincial pension plan as defined in section 3 of the Act or of a prescribed provincial pension plan) shall be included in computing the taxpayer's income to the extent that it would be if the payment or transfer had been made to the taxpayer.
+245.(1) Definitions - In this section,
+"tax benefit" means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act;
+"tax consequences" to a person means the amount of income, taxable income, or taxable income earned in Canada of, tax or other amount payable by or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount;
+"transaction" includes an arrangement or event.
+(2) General anti-avoidance provision - Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+(3) Avoidance transaction - An avoidance transaction means any transaction
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+(4) Where s. (2) does not apply - For greater certainty, subsection (2) does not apply to a transaction where it may reasonably be considered that the transaction would not result directly or indirectly in a misuse of the provisions of this Act or an abuse having regard to the provisions of this Act, other than this section, read as a whole.
+(5) Determination of tax consequences - Without restricting the generality of subsection (2),
+(a) any deduction in computing income, taxable income, taxable income earned in Canada or tax payable or any part thereof may be allowed or disallowed in whole or in part,
+(b) any such deduction, any income, loss or other amount or part thereof may be allocated to any person,
+(c) the nature of any payment or other amount may be recharacterized, and
+(d) the tax effects that would otherwise result from the application of other provisions of this Act may be ignored,
+in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly, from an avoidance transaction.
+(6) Request for adjustments - Where with respect to a transaction
+(a) a notice of assessment, reassessment or additional assessment involving the application of subsection (2) with respect to the transaction has been sent to a person, or
+(b) a notice of determination pursuant to subsection 152(1.11) has been sent to a person with respect to the transaction, any person (other than a person referred to in paragraph (a) or (b) shall be entitled, within 180 days after the day of mailing of the notice, to request in writing that the Minister make an assessment, reassessment or additional assessment applying subsection (2) or make a determination applying subsection 152(1.11) with respect to that transaction.
+(7) Exception - Notwithstanding any other provision of this Act, the tax consequences to any person, following the application of this section, shall only be determined through a notice of assessment, reassessment, additional assessment or determination pursuant to subsection 152(1.11) involving the application of this section.
+(8) Duties of Minister - On receipt of a request by a person under subsection (6), the Minister shall, with all due dispatch, consider the request and, notwithstanding subsection 152(4), assess, reassess or make an additional assessment or determination pursuant to subsection 152(1.11) with respect to that person, except that an assessment, reassessment, additional assessment or determination may be made under this subsection only to the extent that it may reasonably be regarded as relating to the transaction referred to in subsection (6).
+CITATION:
+2006TCC256
+COURT FILE NO.:
+2004-2878(IT)G
+STYLE OF CAUSE:
+CECO OPERATIONS LTD. and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+October 26, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice
+Michael J. Bonner
+DATE OF JUDGMENT:
+June 12, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Joel A. Nitikman
+Lynn Jenkins
+Counsel for the Respondent:
+Robert Carvalho, Susan Wong and Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Joel A. Nitikman
+Lynn Jenkins
+Firm:
+Fraser Milner Casgrain
+Vancouver, British Columbia
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The term boot is used in lieu of the statutory words "other than an interest in the Partnership" in s. 97 and "other than any shares of the capital stock of the corporation or a right to receive any such shares " in s. 85.
+[2] It is hard to reconcile that US $ figure with other Cdn. $ figures bandied about. Counsel tried to do so without success.
+[3] The term 'past value' was used by the employees to mean value existing at the point of time under discussion.
+[4] It is not necessary to review events before 1996.
+[5] All of the employees other than Mr. Ollis who wished to retire.
+[6] Despite references here and there to 100 Class "F" units it was common ground that only one existed.
+[7] Haro Pacific Enterprises v. H.M.Q. 90 DTC 6583, MDS Health Group Limited v. H.M.Q. 96 DTC 1324 aff'd 97 DTC 5009.
+[8] [1999] 3. S.C.R. 622.
+[9] Neuman v. Minister of National Revenue, [1998] 1 S.C.R. 770 at para. 32.
+[10] CanadaTrustco (supra) at paragraph 17.
+[11] Krishna The Fundamentals of Canadian Income Tax, 8th Edition.
+[12] 94 DTC 1858

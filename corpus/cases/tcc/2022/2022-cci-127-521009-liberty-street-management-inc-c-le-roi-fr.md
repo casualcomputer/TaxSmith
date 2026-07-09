@@ -1,0 +1,246 @@
+---
+title: "Liberty Street Management Inc. c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521009/index.do"
+last_modified: "2022-11-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 127"
+citation2: ""
+neutral_citation: "2022 CCI 127"
+decision_date: "2022-11-01"
+language: "fr"
+item_id: "521009"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5805
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:07:37.222000+00:00"
+cases_cited_count: 8
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d384cc540b5e57c6ab37ebbc3a23a1610860920abbf876d51a9fba5996c28a4a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Liberty Street Management Inc. c. Le Roi
+
+- Citation: 2022 CCI 127
+- Decision date: 2022-11-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5805, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Liberty Street Management Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-11-01
+Référence neutre
+2022 CCI 127
+Numéro de dossier
+2021-588(GST)G
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2021-588(GST)G
+ENTRE :
+LIBERTY STREET MANAGEMENT INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue par vidéoconférence
+sur preuve commune avec les requêtes d’Adboss, Ltd. (2021-586(GST)G) et
+de Bluecove Management Ltd. (2021-587(GST)G),
+le 15 septembre 2022, à Ottawa, Canada
+Devant : l’honorable juge Dominique Lafleur
+Comparutions :
+Avocats de l’appelante :
+Me Mark Tonkovich
+Me Alexe Corbeil-Courchesne
+Avocat de l’intimé :
+Me Tony C. Cheung
+ORDONNANCE
+APRÈS avoir lu l’avis de requête du 26 avril 2022 (la « requête ») et les autres éléments de preuve documentaire, notamment l’affidavit d’Andrea William, en vue de l’obtention d’une ordonnance :
+1-radiant les alinéas 12.w) et x) de la réponse de l’intimé du 9 juillet 2021 en vertu des alinéas 53(1)a) et c) des Règles de la Cour canadienne de l’impôt(procédure générale), sans autorisation de les modifier ou, à titre subsidiaire, radiant les alinéas en question avec autorisation de les modifier conformément aux directives que peut donner la Cour;
+2-adjugeant les dépens relativement à la requête, payables immédiatement, quelle que soit l’issue de la cause;
+3-énonçant les autres conditions ou directives que les avocats peuvent recommander et que notre Cour estime justes et appropriées;
+ET APRÈS avoir examiné les observations écrites des parties et entendu leurs observations;
+CONFORMÉMENT AUX motifs de l’ordonnance ci-joints, la Cour ordonne ce qui suit :
+1-la requête est accueillie et les alinéas 12.w) et x) de la réponse de l’intimé du 9 juillet 2021 sont radiés, sans autorisation de les modifier;
+2-les dépens sous forme d’une somme globale de 6 000 $ sont adjugés à l’appelante pour la requête ainsi que pour les requêtes d’Adboss, Ltd. (2021‑586(GST)G) et de Bluecove Management Ltd. (2021‑587(GST)G), payables immédiatement, quelle que soit l’issue de la cause.
+Signé à Edmonton (Alberta), ce 1er jour de novembre 2022.
+« Dominique Lafleur »
+La juge Lafleur
+Traduction certifiée conforme
+ce 29e jour d’août 2023
+Karyne St-Onge
+Référence : 2022 CCI 127
+Date : 20221101
+Dossier : 2021-588(GST)G
+ENTRE :
+LIBERTY STREET MANAGEMENT INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Lafleur
+I. REQUÊTE [1] L’appelante a déposé devant notre Cour un avis de requête daté du 26 avril 2022 (la « requête ») ainsi que d’autres éléments de preuve documentaire, notamment l’affidavit d’Andrea William (l’« affidavit »), en vue d’obtenir une ordonnance :
+1-radiant les alinéas 12.w) et x) de la réponse de l’intimé du 9 juillet 2021 (la « réponse ») en vertu des alinéas 53(1)a) et c) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») sans autorisation de les modifier ou, à titre subsidiaire, radiant les alinéas en question avec autorisation de les modifier conformément aux directives que peut donner la Cour;
+2-adjugeant les dépens relativement à la requête, payables immédiatement, quelle que soit l’issue de la cause;
+3-énonçant les autres conditions ou directives que les avocats peuvent recommander et que notre Cour estime justes et appropriées.
+II. CONCLUSION [2] Pour les motifs qui suivent, la requête est accueillie et les alinéas 12.w) et x) de la réponse sont radiés, sans autorisation de les modifier. Les dépens sous forme d’une somme globale de 6 000 $ sont adjugés à l’appelante pour la requête ainsi que pour les requêtes d’Adboss, Ltd. (2021-586(GST)G) et de Bluecove Management Ltd. (2021-587(GST)G), payables immédiatement, quelle que soit l’issue de la cause.
+III. FAITS [3] Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation concernant la taxe nette de l’appelante en application de la partie IX de la Loi sur la taxe d’accise (L.R.C. 1985, ch. E-15) (la « LTA ») pour les 18 périodes de déclaration trimestrielles allant du 12 février 2013 au 30 septembre 2017 (les « périodes visées »), et l’avis à leur égard est daté du 14 décembre 2020. Selon le ministre, l’appelante aurait dû percevoir la TPS/TVH à l’égard des services qu’elle a fournis à deux clientes, à savoir Lowfroc Investments Limited (« Lowfroc ») et WebOps S.A.R.L. (« WebOps »), puisque ces services constituaient des fournitures taxables effectuées au Canada au profit de résidentes du Canada en application de la LTA et non des fournitures de services détaxées effectuées au profit de non‑résidentes du Canada. Le ministre a également imposé des pénalités en application de l’article 285 de la LTA.
+[4] Au paragraphe 12 de la réponse sont énoncées diverses hypothèses sur lesquelles le ministre s’est fondé en établissant la nouvelle cotisation de la taxe nette de l’appelante pour les périodes visées.
+[5] Plus particulièrement, les alinéas 12.j) à x) de la réponse sont ainsi rédigés :
+[traduction]
+12. En établissant la nouvelle cotisation de la taxe nette de l’appelante pour les périodes visées, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+[…]
+Lieu de résidence de Lowfroc et de WebOps
+j) Lowfroc a été constituée en société à Chypre;
+k) WebOps a été constituée en société au Luxembourg;
+l) Lowfroc était théoriquement détenue et exploitée par diverses personnes à Chypre;
+m) WebOps était théoriquement détenue et exploitée par diverses personnes au Luxembourg;
+n) il n’y a eu aucune correspondance commerciale de quelque nature que ce soit entre l’appelante et l’une quelconque des personnes à Chypre qui possédaient et exploitaient théoriquement Lowfroc;
+o) il n’y a eu aucune correspondance commerciale de quelque nature que ce soit entre l’appelante et l’une quelconque des personnes au Luxembourg qui possédaient et exploitaient théoriquement WebOps;
+p) Lowfroc n’avait aucun numéro de téléphone ou site Web ni aucun dossier dans les bases de données financières disponibles;
+q) WebOps n’avait aucun numéro de téléphone ou site Web ni aucun dossier dans les bases de données financières disponibles;
+r) les personnes à Chypre n’assuraient aucune forme de contrôle ou de gestion à l’égard de Lowfroc;
+s) les personnes au Luxembourg n’assuraient aucune forme de contrôle ou de gestion à l’égard de WebOps;
+t) « Eliteadultwebmasters.com » était une affiliée de Lowfroc;
+u) « Eliteadultwebmasters.com » avait des serveurs à Toronto, en Ontario;
+v) l’emplacement des serveurs de « Eliteadultwebmasters.com » était à proximité de l’adresse postale de John Rodriguez;
+w) à toutes les périodes visées, l’âme dirigeante et la direction de Lowfroc se trouvaient au Canada;
+x) à toutes les périodes visées, l’âme dirigeante et la direction de WebOps se trouvaient au Canada;
+[6] En août 2021, l’appelante a demandé des précisions à l’intimé concernant les alinéas 12.w) et x) de la réponse, demandant ce que signifiait l’énoncé [traduction] « l’âme dirigeante et la direction de Lowfroc/WebOps se trouvaient au Canada » et si une personne en particulier agissait à titre [traduction] « [d’]âme dirigeante et [assurait] la direction » de ces deux sociétés au Canada, et, le cas échéant, de quelle façon cette direction était exercée (pièce A de l’affidavit). L’intimé était d’avis qu’il ne s’agissait pas d’une demande de précisions appropriée et que ces questions pouvaient être posées à l’interrogatoire préalable (pièce B de l’affidavit).
+[7] En novembre 2021, l’appelante a de nouveau demandé des précisions, cette fois au sujet du paragraphe 19 de la réponse (pièce C de l’affidavit). Le paragraphe 19 figure dans la section de la réponse où sont énoncés les moyens invoqués par l’intimé, et est ainsi rédigé :
+[traduction]
+19. […] À toutes les périodes visées, l’âme dirigeante et la direction de Lowfroc ainsi que celles de WebOps se trouvaient au Canada et, par conséquent, Lowfroc et WebOps étaient des résidentes du Canada. […]
+[8] L’intimé était d’avis qu’il ne s’agissait pas d’une demande de précisions appropriée (pièce D de l’affidavit).
+IV. POSITION DE L’APPELANTE [9] Les alinéas 12.w) et x) de la réponse devraient être radiés, car il ne s’agit pas de conclusions de fait, mais de conclusions mixtes de fait et de droit. Ces conclusions n’ont pas leur place dans l’énoncé des hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation, et l’intimé aurait dû extraire les hypothèses de fait qui ont amené le ministre à conclure que [traduction] « l’âme dirigeante et la direction » de Lowfroc et [traduction] « l’âme dirigeante et la direction » de WebOps se trouvaient au Canada (Canada c. Anchor Pointe Energy Ltée, 2003 CAF 294 [Anchor Pointe], par. 25 et 26).
+[10] Les alinéas 53(1)a) et c) des Règles confèrent à la Cour le pouvoir de radier les alinéas 12.w) et x) de la réponse.
+[11] L’appelante a versé des honoraires d’avocat s’élevant à 25 000 $ pour la requête ainsi que pour les requêtes d’Adboss, Ltd. (2021-586(GST)G) et de Bluecove Management Ltd. (2021-587(GST)G). L’appelante demande des dépens sous forme d’une somme globale de 15 000 $ pour la requête ainsi que pour les requêtes d’Adboss, Ltd. (2021-586(GST)G) et de Bluecove Management Ltd. (2021‑587(GST)G), payables immédiatement, quelle que soit l’issue de la cause.
+V. POSITION DE L’INTIMÉ [12] L’intimé reconnaît que le ministre, en exposant les conclusions ou les hypothèses de fait sur lesquelles il s’est fondé en établissant sa cotisation, ne peut pas simplement présumer que Lowfroc et WebOps étaient des résidentes du Canada. Cependant, il peut émettre l’hypothèse que [traduction] « l’âme dirigeante et la direction » de Lowfroc et [traduction] « l’âme dirigeante et la direction » de WebOps se trouvaient au Canada parce que cette hypothèse est une conclusion ou une hypothèse de fait qui ne constitue qu’un élément du critère juridique de la résidence d’une société. Par conséquent, les alinéas 12.w) et x) de la réponse ne devraient pas être radiés.
+[13] En outre, selon l’intimé, le ministre avait extrait les éléments factuels de sa conclusion selon laquelle Lowfroc et WebOps étaient des résidentes du Canada, et plaidé ces conclusions ou hypothèses de fait aux alinéas 12.j) à x) de la réponse.
+[14] À l’audience, l’intimé a reconnu que, si la Cour accueillait la requête, il ne serait pas nécessaire pour lui d’obtenir l’autorisation de modifier sa réponse puisque toutes les conclusions ou les hypothèses de fait concernant le lieu de résidence de Lowfroc et de WebOps ont été correctement énumérées dans les conclusions ou dans les hypothèses de fait énoncées au paragraphe 12 de la réponse.
+[15] Enfin, si les dépens sont adjugés à l’intimé pour la requête, ils devraient l’être selon le tarif. Si les dépens sont adjugés à l’appelante, la Cour ne devrait accorder qu’un seul mémoire de dépens s’élevant à 3 000 $ pour la requête ainsi que pour les requêtes d’Adboss, Ltd. (2021-586(GST)G) et de Bluecove Management Ltd. (2021-587(GST)G).
+VI. ANALYSE 6.1 Critère de la common law pour déterminer le lieu de résidence d’une société/conclusion de fait ou conclusion mixte de fait et de droit [16] Les parties font valoir que les expressions [traduction] « l’âme dirigeante et la direction » et « le centre de gestion et de contrôle » ont le même sens et sont synonymes. Une conclusion quant à la synonymie de ces deux expressions n’est pas nécessaire pour les besoins de la requête, mais je présumerai qu’il s’agit de synonymes. Cependant, lorsque la résidence d’une société est en cause, la jurisprudence plus moderne fait généralement référence à l’expression « le centre de gestion et de contrôle » ou « la gestion centrale et le contrôle » et non à l’expression [traduction] « l’âme dirigeante et la direction ».
+[17] Du point de vue de l’intimé, selon l’état actuel du droit, la résidence est une question de fait. Comme je le mentionne plus haut, l’intimé est d’avis que le lieu où se trouvent [traduction] « l’âme dirigeante et de la direction » est un élément du critère de la common law pour déterminer le lieu de résidence d’une société, et constitue donc une conclusion de fait et non une conclusion mixte de fait et droit. De plus, cette conclusion de fait est utilisée pour étayer la conclusion mixte de fait et de droit selon laquelle Lowfroc et WebOps étaient des résidentes du Canada, laquelle conclusion est énoncée uniquement dans la section des arguments de la réponse et non dans la section détaillant les hypothèses de fait sur lesquelles s’est fondé le ministre en établissant sa cotisation.
+[18] Pour les motifs qui suivent, je ne suis pas d’accord avec l’intimé. Pour déterminer le lieu de résidence d’une société, la Cour doit tenir compte des facteurs pertinents afin d’établir où se trouve réellement « le centre de gestion et de contrôle » de la société. L’emplacement du « centre de gestion et de contrôle » d’une société n’est pas seulement un élément du critère de la common law pour déterminer le lieu de résidence d’une société; il s’agit en fait du critère juridique qui doit être appliqué pour déterminer le lieu de résidence d’une société. Par conséquent, pour les motifs qui suivent et conformément à la position de l’appelante, puisque pour répondre à une question mixte de fait et de droit il faut déterminer si les faits avérés satisfont au critère juridique pertinent, je conclus que le lieu où se trouvent réellement [traduction] « l’âme dirigeante et la direction » de Lowfroc ainsi que [traduction] « l’âme dirigeante et la direction » de WebOps est une conclusion mixte de fait et de droit, et non une conclusion de fait.
+[19] Pour étayer son argument, l’intimé renvoie notamment à la déclaration de la Cour suprême du Canada dans l’arrêt Fundy Settlement c. Canada, 2012 CSC 14, [2012] 1 R.C.S. 520 [Fundy], au paragraphe 7 :
+« […] Quoique la Loi de l’impôt sur le revenu […] contienne certaines présomptions quant au lieu de résidence, […] la détermination de celui-ci demeure généralement une question de fait. »
+[20] Dans cette phrase, la Cour suprême du Canada ne fait que déclarer que le lieu de résidence est généralement déterminé au vu des faits, bien que le lieu de résidence d’une société puisse être déterminé en application de présomptions contenues dans la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.).
+[21] La Cour suprême du Canada a déclaré qu’une société réside « là où s’exercent effectivement sa gestion centrale et son contrôle » (Fundy, par. 8). La Cour suprême du Canada a fait un renvoi avec approbation à l’arrêt bien connu De Beers Consolidated Mines, Ltd. c. Howe, [1906] A.C. 455 (H.L.), à la page 458 :
+[traduction]
+En appliquant la notion de résidence à une société, nous devrions, à mon avis, procéder autant que possible par analogie avec un particulier. Une société ne peut pas manger ou dormir, mais elle peut avoir pignon sur rue et faire des affaires. Nous devrons donc nous demander où elle a réellement pignon sur rue et fait réellement des affaires. […] [P]our les besoins de l’impôt sur le revenu, une société réside là où sont exercées ses activités véritables. […] Je considère qu’il s’agit là de la vraie règle, et les activités véritables sont exercées là où s’exercent effectivement sa gestion centrale et son contrôle.
+[Non souligné dans l’original.]
+[22] De plus, la Cour suprême du Canada a souscrit aux observations de la Cour d’appel fédérale dans la même affaire selon lesquelles, en règle générale, la gestion centrale et le contrôle d’une société sont exercés là où son conseil d’administration exerce ses responsabilités, et a ajouté que « dans les cas où la gestion centrale et le contrôle d’une société sont exercés par un actionnaire qui réside dans un autre pays et y prend les décisions relativement à celle-ci, la société sera considérée comme résidant au même endroit que l’actionnaire » (Fundy, par. 9, renvoyant à l’arrêt Unit Construction Co. c. Bullock, [1960] A.C. 351 (HL); et St. Michael Trust Corp. c. Canada, 2010 CAF 309 [Fundy CAF], par. 56).
+[23] Il ressort donc clairement de la jurisprudence que le critère de la common law servant à déterminer le lieu de résidence d’une société est l’endroit où s’exercent effectivement « la gestion centrale et le contrôle » de cette société, et divers facteurs doivent être pris en compte pour prendre cette décision, notamment, en règle générale, l’endroit où les administrateurs exercent leurs responsabilités en matière de gestion et de contrôle. Au paragraphe 62 de l’arrêt Fundy CAF, la Cour d’appel fédérale a déclaré ce qui suit au sujet du critère approprié pour déterminer le lieu de résidence d’une fiducie, qui, selon la Cour, est le même critère que celui servant à déterminer le lieu de résidence d’une société, avec les adaptations nécessaires :
+[…] J’estime par conséquent que lorsque se pose, aux fins de l’impôt, la question de la résidence d’une fiducie, il faut procéder à une analyse des faits afin de décider où est effectivement situé le centre de gestion et de contrôle de la fiducie.
+[Non souligné dans l’original.]
+[24] Dans l’arrêt Canada (Directeur des enquêtes et recherches) c. Southam Inc., [1997] 1 R.C.S. 748, au paragraphe 35, la Cour suprême du Canada établit une distinction entre une question de droit, une question de fait et une question mixte de fait et de droit :
+[…] En résumé, les questions de droit concernent la détermination du critère juridique applicable; les questions de fait portent sur ce qui s’est réellement passé entre les parties; et, enfin, les questions de droit et de fait consistent à déterminer si les faits satisfont au critère juridique. Un exemple simple permettra d’illustrer ces concepts. En droit de la responsabilité civile délictuelle, la question de savoir en quoi consiste la « négligence » est une question de droit. Celle de savoir si le défendeur a fait ceci ou cela est une question de fait. Une fois qu’il a été décidé que la norme applicable est la négligence, la question de savoir si le défendeur a respecté la norme de diligence appropriée est une question de droit et de fait […]
+[Non souligné dans l’original.]
+[25] En d’autres termes, les « questions mixtes de fait et de droit supposent l’application d’une norme juridique à un ensemble de faits » (Housen c. Nikolaisen, 2002 CSC 33, [2002] 2 R.C.S. 235 [Housen], par. 26).
+[26] De plus, dans l’arrêt Housen, la Cour suprême du Canada déclare, dans une remarque incidente, que la question consistant à déterminer si certaines personnes font partie des âmes dirigeantes d’une société est une question mixte de fait et de droit (par. 34).
+6.2 Règles (1) Paragraphe 49(1) des Règles
+[27] Pour les motifs suivants, étant donné ma conclusion selon laquelle le lieu où se trouvent [traduction] « l’âme dirigeante et la direction » de Lowfroc ainsi que [traduction] « l’âme dirigeante et la direction » de WebOps est une conclusion mixte de fait et de droit, les alinéas 12.w) et x), tels qu’ils sont rédigés, ne peuvent pas être inclus dans la section de la réponse où sont énoncées « les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation ». Le fait de plaider des conclusions de droit ou des conclusions mixtes de fait et de droit dans la section de la réponse où sont énoncées « les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation » constitue un acte de procédure fautif (Preston Family Trust II c. La Reine, 2021 CCI 79, par. 26).
+[28] Selon le paragraphe 49(1) des Règles, la réponse indique :
+a) les faits admis;
+b) les faits niés;
+c) les faits que l’intimée ne connaît pas et qu’elle n’admet pas;
+d) les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation;
+e) tout autre fait pertinent;
+f) les points en litige;
+g) les dispositions législatives invoquées;
+h) les moyens sur lesquels l’intimée entend se fonder;
+i) les conclusions recherchées.
+(a) the facts that are admitted,
+(b) the facts that are denied,
+(c) the facts of which the respondent has no knowledge and puts in issue,
+(d) the findings or assumptions of fact made by the Minister when making the assessment,
+(e) any other material fact,
+(f) the issues to be decided,
+(g) the statutory provisions relied on,
+(h) the reasons the respondent intends to rely on, and
+(i) the relief sought.
+[29] Conformément à l’alinéa 49(1)d) des Règles, les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation doivent être énoncées dans chaque réponse. Dans l’arrêt Anchor Pointe (par. 25 et 26), la Cour d’appel fédérale a conclu que le ministre ne peut pas plaider des conclusions de droit s’il plaide des conclusions ou des hypothèses de fait, qu’il ne devrait présumer que les éléments de fait d’une conclusion mixte de fait et de droit :
+[25] J’estime également que les déclarations ou conclusions juridiques n’ont pas leur place dans l’énoncé des hypothèses de fait du ministre. Il en découlerait pour le contribuable le fardeau de réfuter une déclaration ou conclusion juridique et, bien sûr, cela ne doit pas être. Le critère juridique à appliquer n’a pas à être prouvé par les parties comme s’il s’agissait d’un fait. Les parties doivent présenter leurs arguments relativement au critère juridique, mais c’est à la Cour qu’il incombe en bout de ligne de trancher les questions de droit.
+[26] […] Le ministre peut présumer les éléments de fait d’une conclusion mixte de fait et de droit. S’il souhaite le faire, toutefois, il devra extraire les éléments de fait présumés, de façon à ce que le contribuable sache exactement quelles hypothèses de fait il doit réfuter pour avoir gain de cause. Il ne convient pas que les faits présumés soient enfouis dans une conclusion mixte de fait et de droit.
+[Non souligné dans l’original.]
+[30] Plus récemment, la Cour d’appel fédérale a confirmé ces principes dans l’arrêt Banque Canadienne Impériale de Commerce c. Canada, 2013 CAF 122, au paragraphe 92.
+[31] Je note que le paragraphe 19 de la réponse, qui se trouve dans la section intitulée [traduction] « Dispositions législatives, moyens invoqués et conclusions recherchées », contient le passage suivant : « […] À toutes les périodes visées, l’âme dirigeante et la direction de Lowfroc ainsi que celles de WebOps se trouvaient au Canada et, par conséquent, Lowfroc et WebOps étaient des résidentes du Canada […] ». Cette conclusion mixte de fait et de droit se trouve à juste titre dans cette section de la réponse.
+(2) Paragraphe 53(1) des Règles
+[32] Le paragraphe 53(1) des Règles permet à la Cour de radier les conclusions mixtes de fait et de droit énoncées dans les « conclusions et les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation ».
+[33] Le paragraphe 53(1) des Règles est ainsi rédigé :
+Radiation d’un acte de procédure ou d’un autre document
+53(1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+Striking out a Pleading or other Document
+53(1) The Court may, on its own initiative or on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that the pleading or other document
+(a) may prejudice or delay the fair hearing of the appeal;
+(b) is scandalous, frivolous or vexatious;
+(c) is an abuse of the process of the Court; or
+(d) discloses no reasonable grounds for appeal or opposing the appeal.
+[34] L’intimé fait valoir que la radiation de certaines parties d’un acte de procédure en vertu de l’article 53 des Règles devrait se limiter aux cas les plus évidents et les plus manifestes et qu’il convient davantage de laisser au juge du procès le soin de trancher les questions de poids et de pertinence (Sentinel Hill Productions (1999) Corporation c. La Reine, 2007 CCI 742, par. 4; et Gould c. La Reine, 2005 CCI 556, par. 23).
+[35] En outre, selon l’intimé, l’appelante ne subit aucun préjudice de l’inclusion des alinéas 12.w) et x) dans la réponse. L’appelante n’a pas été maintenue dans l’ignorance au sujet des fondements factuels de l’allégation du ministre à l’égard de la résidence puisque les hypothèses concernant [traduction] « l’âme dirigeante et la direction », notamment les précisions sur ces hypothèses, sont détaillées dans les arguments à l’appui des hypothèses de fait au paragraphe 12 de la réponse.
+[36] Pour les motifs qui suivent, je ne suis pas d’accord avec l’intimé. Comme elle l’affirme, l’appelante doit se livrer à de la spéculation sur les hypothèses de fait qu’elle doit réfuter pour obtenir gain de cause à l’égard de sa position selon laquelle Lowfroc et WebOps, qui sont des tiers, ne sont pas des résidentes du Canada. Comme l’indique la Cour d’appel fédérale dans l’arrêt Anchor Pointe (par. 26), le ministre doit extraire les éléments de fait d’une conclusion mixte de fait et de droit, et donc, en l’espèce, le ministre doit extraire les éléments de fait de la conclusion mixte de fait et de droit selon laquelle [traduction] « l’âme dirigeante et la direction de Lowfroc ainsi que celles de WebOps » se trouvent au Canada.
+[37] Par conséquent, parce que l’appelante doit se livrer à de la spéculation quant aux faits sur lesquels est fondée la conclusion mixte de fait et de droit du ministre selon laquelle [traduction] « l’âme dirigeante et la direction » de Lowfroc ainsi que [traduction] « l’âme dirigeante et la direction » de WebOps se trouvaient au Canada, et parce que l’appelante ne peut donc pas se préparer correctement et procéder aux interrogatoires préalables, cette situation constitue un recours abusif à la Cour, et la poursuite équitable de l’appel sera compromise ou retardée.
+[38] Pour ces motifs, les alinéas 12.w) et x) de la réponse sont radiés en vertu des alinéas 53(1)a) et c) des Règles. Étant donné que l’intimé a expressément demandé à la Cour de ne pas autoriser la modification de la réponse, la Cour n’accorde pas cette autorisation.
+6.3 Dépens [39] Comme je le mentionne plus haut, l’appelante demande des dépens sous forme d’une somme globale de 15 000 $ pour la requête ainsi que pour les requêtes d’Adboss, Ltd. (2021-586(GST)G) et de Bluecove Management Ltd. (2021‑587(GST)G), payables immédiatement, quelle que soit l’issue de la cause, en tenant compte du fait qu’elle a versé des honoraires d’avocat s’élevant à 25 000 $ pour la requête ainsi que pour les requêtes d’Adboss, Ltd. (2021‑586(GST)G) et de Bluecove Management Ltd. (2021-587(GST)G). Toutefois, selon l’intimé, les dépens devraient être limités à 3 000 $ pour les trois requêtes.
+[40] Je conclus que les dépens sous forme d’une somme globale de 6 000 $ doivent être adjugés à l’appelante pour la requête ainsi que pour les requêtes d’Adboss, Ltd. (2021‑586(GST)G) et de Bluecove Management Ltd. (2021‑587(GST)G), payables immédiatement, quelle que soit l’issue de la cause. Je suis parvenue à cette conclusion en tenant compte du fait que l’appelante a obtenu entièrement gain de cause à l’égard de sa position et que l’audience a duré environ une demi-journée. Je conclus également que les questions juridiques se rapportant à la requête n’étaient ni complexes ni importantes, et que la charge de travail n’était pas considérable.
+Signé à Edmonton (Alberta), ce 1er jour de novembre 2022.
+« Dominique Lafleur »
+La juge Lafleur
+RÉFÉRENCE :
+2022 CCI 127
+NO DU DOSSIER DE LA COUR :
+2021-588(GST)G
+INTITULÉ :
+LIBERTY STREET MANAGEMENT LTD. c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Le 15 septembre 2022
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Dominique Lafleur
+DATE DE L’ORDONNANCE :
+Le 1er novembre 2022
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Mark Tonkovich
+Me Alexe Corbeil-Courchesne
+Avocat de l’intimé :
+Me Tony C. Cheung
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Mark Tonkovich
+Me Alexe Corbeil-Courchesne
+Cabinet :
+Blake, Cassels & Graydon S.E.N.C.R.L./s.r.l. Toronto (Ontario)
+Pour l’intimé :
+François Daigle Sous-procureur général du Canada Ottawa, Canada

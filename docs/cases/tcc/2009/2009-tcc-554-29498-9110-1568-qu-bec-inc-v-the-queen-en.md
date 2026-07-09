@@ -1,0 +1,495 @@
+---
+title: "9110-1568 Québec Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29498/index.do"
+last_modified: "2009-10-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 554"
+citation2: ""
+neutral_citation: "2009 TCC 554"
+decision_date: "2009-10-28"
+language: "en"
+item_id: "29498"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6255
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:47:55.678000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "df9fea05ed34f70e912fba7453ff7748c32304385b987ed4170d8401b17306ac"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9110-1568 Québec Inc. v. The Queen
+
+- Citation: 2009 TCC 554
+- Decision date: 2009-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6255, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9110-1568 Québec Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-28
+Neutral citation
+2009 TCC 554
+File numbers
+2007-214(GST)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-214(GST)I
+BETWEEN:
+9110-1568 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 3, 4, and 5, and May 5, 6 and 7, 2009,
+at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the appellant:
+Jean-François Poulin
+Counsel for the respondent:
+Benoît Denis
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made December 7, 2005, with notice number 66 201 267, is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment so as to increase the goods and services tax reported by $11,947.21 instead of by $25,256.32 and reduce the input tax credits by $877.37 instead of by $4,096.08, which would mean an net tax adjustment of $12,824.58 instead of $29,352.40, with consequential adjustments to the penalties and interest, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 28th day of October 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 21st day of December 2009
+Elizabeth Tan, Translator
+Citation: 2009 TCC 554
+Date: 20091028
+Docket: 2007-214(GST)I
+BETWEEN:
+9110-1568 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal from an assessment made under Part IX of the Excise Tax Act (the Act) for the period of December 1, 2001, to November 30, 2001 (the "period in question").
+[2] In this assessment, the appellant's reported goods and services tax (GST) was increased by $25,256.32 and the input tax credit (ITC) was reduced by $4,096.08, representing an adjustment of $29,352.40 to the net tax. The assessment also includes a $3,520.36 penalty and $1,432.74 interest for a total of $34,305.50.
+[3] I immediately note that at the return of the hearing on May 4, 2009, the respondent agreed to reduce the GST assessed by $5,340.94.
+[4] The appellant operates a restaurant on St-Denis Street in Montreal, under the name "La Sila". Franco Iaconetti is the appellant's manager.
+[5] The appellant acquired the restaurant "La Sila" in 2001. Its fiscal year is December 1 to November 30.
+[6] The audit of the appellant's company was carried out by Denis Duval and Sylvie Dagenais. The audit began in 2005.
+[7] From the start of the audit, Ms. Dagenais noted that the appellant did not have a computerized accounting system, that the appellant used unnumbered, undated, hand-written bills (70%), that the appellant used cash accounting and the data collected were calculated and processed by hand. Ms. Dagenais also noted that the appellant did not have a general ledger, supplier's ledger, general journal, journal of purchases and sales, or an inventory control report. Lastly, Ms. Dagenais noted that the appellant did not keep records of the bonuses that were allegedly granted to clients and porters at certain hotels.
+[8] Inventory was taken only at the end of each fiscal year. The documents in support of this inventory taking were not kept. Information related to the inventory taking was given to the appellant's accountant verbally. It must immediately be noted that the appellant's financial records as of November 30, 2002 (Exhibit I-12) show that the inventory of that fiscal year was zero. However, the appellant sent the Minister an inventory report dated December 1, 2001, showing the value of the inventory at the beginning of that fiscal year was many thousands of dollars. Ms. Dagenais also explained that the appellant's accountant sent her a letter (Exhibit I-18) that explained how the sales figures in the appellant's November 30, 2002, financial records had been established. The appellant's accountant explained in this letter that he deducted GST and QST, tips set at 8% and advances granted to the appellant by Mr. Iaconetti from the total amount the appellant deposited in its bank account. The letter indicates the following:
+Total deposits
+$824,173.41
+Net sales
+$542,589.19
+GST
+$ 37,985.08
+QST
+$ 43,542.77
+Tips
+$ 49,929.36
+Loan Director
+$150,127.00
+I immediately note that the appellant's financial records as of November 30, 2002, show that the loans to be repaid to the administrators was $59,130 not $150,127.
+[9] Since the appellant's accounting books and records were, to say the least, incomplete and in order to verify the accuracy of the taxable supplies declared, the Minister used an alternative measure to reconstitute the taxable supplies made by the appellant during the period in question, based on alcoholic beverages the appellant purchased during the same period.
+[10] More specifically, the Minister reconstituted the total amount of taxable supplies made by the appellant during the period in question using the method explained below:
+(i) for each of the appellant's fiscal years during the period in question, the Minister verified all the invoices of alcohol purchased and determined the total number of litres of alcohol purchased each year. The Minister established that the appellant had purchased 5,564.522 litres of alcohol (see Exhibit I‑2), 5,371.712 litres of alcohol (see Exhibit I‑3) and 6,233.33 litres of alcohol (see Exhibit I-4) during the periods of December 1, 2001, to November 30, 2002 (year 1), December 1, 2002, to November 30, 2003 (year 2) and December 1, 2003, to November 30, 2004 (year 3), respectively. Then, the number of litres of alcohol the appellant purchased was reduced by the following allowances granted by the Minister for losses, breakage, bonuses, promotions and kitchen use (see Exhibit I‑9):
+NAME: 9110-1568 Québec Inc. "La Sila"
+GST: 144242377 RT 0001
+QST: 1090011061 TQ0001
+ANALYSIS OF TOTAL PERCENTAGE GRANTED ANNUALLY
+These figures are in working papers tabs 200x and 200x
+Years
+Litres purchased
+Kitchen allowance
+Manager employees promo party consumption
+Allowance for increase
+final inventory
+Various allowances
+theft, breakage
+Litres for resale
+Allowance in percentage without kitchen
+Allocation in percentage
+2001-12-01 to
+2002-11-30
+5,564.77
+664.00
+433.46
+67.87
+4,399.45
+9%
+21%
+2002-12-01 to
+2003-12-31
+[sic]
+5,351.71
+736.00
+422.60
+65.02
+4,128.08
+9%
+23%
+2003-12-01 to
+2004-11-30
+6,233.33
+821.00
+431.00
+160.00
+75.03
+4,746.30
+8%
+24%
+17,149.81
+2,221.00
+1,287.06
+160.00
+207.92
+13,273.83
+9%
+23%
+Nota: No physical inventory record was submitted with the financial records, in support of the items in stock.
+This resulted in:
+Litres of alcohol purchased
+Allowance granted by the Minister
+Litres of alcohol considered sold
+Year 1
+5,564.522
+1,165.33
+4,399.45
+Year 2
+5,371.712
+1,223.62
+4,128.08
+Year 3
+6,233.33
+1,487.03
+4,746.30
+Generally, the Minister presumed that all the litres of alcohol purchased (minus the allowances granted) had been sold, given that the ITC were claimed for all the purchases and there was no alcohol inventory at the beginning of each of the years in question.
+(ii) Then, the Minister reviewed the sales receipts. To estimate the actual sales, and compare them to the reported sales, the Minister carried out a sampling. It was a statistical sampling of the food bills. The Minister calculated the appellant's sales (from which he deducted the rebates and the GST and QST billed to the clients) and the litres of alcohol sold during 55 days (selected at random by a computer program) from year 1, 47 days (selected at random by a computer program) from year 2, and 43 days (selected at random by a computer program) from year 3. Then, the Minister established a sales ratio for the sample periods, dividing the total sales by the total number of litres of alcohol sold. This resulted in:
+Net sales
+Litres of alcohol sold
+Ratio
+Year 1 (55 days)
+80,471.65
+559.048
+$143.9440
+Year 2 (47 days)
+70,868.52
+458.493
+$154.5682
+Year 3 (43 days)
+71,316.91
+451.524
+$157.9470
+In other words, according to this method, each litre of alcohol sold would have generated net sales of $143.9440, $154.5682 and $157.9470 in year 1, year 2 and year 3, respectively. Ms. Dagenais explained that the ratios in question represent values used to estimate the total sales for the relevant years. Since the purchase invoices indicated that 4,399.45 litres of alcohol had been purchased in year 1 (after deducting the allowance), the Minister multiplied the number of litres purchased by $143.9440 (year 1 ratio) and calculated that the appellant had made taxable supplies of $633,237.82 that year. I note that the appellant had reported making $542,588.00 in taxable supplies in year 1. According to the Minister, the appellant allegedly made unreported taxable supplies of $90,649.82 (representing a difference of 16.71%). Since the purchase invoices showed that 4,128.086 litres of alcohol had been purchased in year 2 (after deducting the allowance), the Minister multiplied the number of litres purchased by $154.5682 (year 2 ratio) and calculated that the appellant had made taxable supplies of $638,070.92 that year. I note that the appellant had reported making $506,335.00 in taxable supplies in year 2. According to the Minister, the appellant allegedly made unreported taxable supplies of $131,735.92 in year 2 (representing a difference of 26.02%). Since the purchase invoices indicated that 4,746.30 litres of alcohol had been purchased in year 3 (after deducting the allowance), the Minister multiplied the number of litres purchased by $157,9470 (year 3 ratio), and calculated that the appellant had made taxable supplies of $749,634.41 that year. I note that the appellant had reported making $610,881 in taxable supplies in year 3. According to the Minister, the appellant allegedly made unreported taxable supplies of $138,753.41 in year 3 (representing a difference of 22.71%).
+[11] During the October 2007 hearing, the appellant showed some of the Minister's errors regarding the litres of alcohol sold during the sample days. The hearing was adjourned to allow the parties to discuss all the errors the Minister might have made in this regard. At the return of the hearing in May 2009, the Minister admitted he made certain errors during the initial audit. After a second audit, the Minister established that during the sample period of year 1 (55 days), the appellant made net sales of $80,277.39 (after deducting the rebates and GST and QST billed to clients) and had sold 571.90 litres of alcohol during that period. The Minister established the new sales ratio during this sample period at $140.3695 (a difference of 3.75% compared to the sales ratio initially established by the Minister) and therefore, the appellant made taxable supplies of $617,486.19 during year 1. After this second audit, the Minister established that during the sample period of year 2 (47 days) the appellant made net sales of $69,702.00 and had sold 475,265 litres of alcohol during that period. The Minister established the new sales ratio for this period at $146.659 (a difference of 7.91% compared to the sales ratio initially established by the Minister) and therefore, the appellant made taxable supplies of $605,409.05 during year 2. As for year 3, the Minister did not conduct a new audit of the appellant's net sales and litres of alcohol sold during the sample period (45 days) for that year. Moreover, he determined the new sales ratio for year 3 was $152.04. The Minister determined this ratio using the following calculation:
+(Z) – ( (X + Y) ) x (Z) ) = $152.04
+2
+Z being the initially established sales ratio for year 3, in this case $157.95;
+X being the difference in percentage between the sales ratio initially established by the Minister ($143.94) and the sales ratio subsequently established by the Minister ($140.37) for year 1, in this case, a difference of 2.48%;
+Y being the difference in percentage between the sales ratio initially established by the Minister ($154.57) and the sales ratio subsequently established by the Minister ($146.66) for year 2, in this case, a difference of 5%.
+The Minister used this new sales ratio to determine that the appellant had made unreported taxable supplies in the amount of $110,957 in year 3.
+[12] To summarize, after the second audit, the Minister established the sales ratios at $140.3697, $146.6592 and $152.04 for year 1, year 2 and year 3 respectively. I will restate that after the first audit, the Minister had established the sales ratios at $143.9440, $154.5682 and $157.9470 for year 1, year 2 and year 3 respectively. As a result, after the second audit, the Minister established that the appellant had made unreported sales of $74,898.19, $99,074.059 and $110,957 in year 1, year 2 and year 3 respectively. After the first audit, the Minister had established that the appellant had made unreported sales of $90,649.82, $131,735.92 and $138,753.41 in year 1, year 2 and year 3 respectively. As a result, after the second audit, the appellant's alleged unreported sales dropped by $76,209.28, which explains that at the return of the hearing in May 2009, the Minister agreed to reduce the amount of the GST initially assessed by $5,340.94.
+Appellant's position
+[13] The appellant claims that:
+(i) the Minister was not justified in using an indirect method of auditing its business;
+(ii) the indirect method used by the Minister is purely arbitrary, an estimation that does not have the required level of reliability, in particular:
+(a) the Minister's errors regarding the number of litres of alcohol sold during the sample days were substantial;
+(b) the number of litres of alcohol purchased or sold by the appellant simply has no direct link to the number of meals sold or the value of those meals;
+(c) the Minister's sample is simply not representative of its commercial reality;
+(iii) the allowance for losses, breakage, bonuses, promotion and kitchen use granted by the Minister does not reflect reality;
+(iv) the Minister is not within his right to reduce the ITC by $4,096.08.
+Analysis and conclusion
+Indirect audit method
+[14] In regard to the appellant's position that the Minister was not justified in using the indirect audit method, my comments will be very brief. When financial records are not reliable and when books and registers are inadequate or even nonexistent, the taxpayer is at risk for an audit that might lead the Minister to use less precise methods to establish the amount of under-estimated taxable supplies. Considering the evidence before me, the Minister was justified in using the indirect method in this case.
+Errors by the Minister regarding number of litres of alcohol sold during the sample days
+[15] Counsel for the appellant admits that his client had the burden of proving that the estimation method the Minister used to establish the appellant's sales was unreliable. However, he claims that by showing that the Minister committed significant errors regarding the litres of alcohol sold during the sample days, his client had, in a way, shown prima facie evidence that the method was unreliable. He added that from the time this prima facie evidence was made by his client, it was the Minister's responsibility to show that his estimation method was reliable. The truth is, during the hearing in October 2007, the appellant claimed that after having raised certain errors the Minister had made in that regard, the estimation method he used was unreliable and, to a certain extent, the burden of proof was reversed. I then asked counsel for the appellant if the appellant was able to show that the errors were significant. Clearly, the appellant was not able to do so. In a purely generous gesture, I adjourned the hearing, in particular to allow the appellant to better prepare itself, make note of the errors the Minister might have made and, lastly, to inform the Minister of them, when relevant, before the return of the hearing. The appellant finally did the work that, in my opinion, should have been done at the objection stage. Once the Minister was informed of his errors, he admitted them, except for a minor error regarding the consumption of 20 glasses of kir that had allegedly been sold in 2004 and represented an error of 1.7 litres of alcohol. I note that the Minister did not want to correct this error on the ground that he had been sufficiently generous by acknowledging the errors he had been informed of (after the adjournment in October 2007), and because after obtaining the invoices of the appellant's alcohol purchases from the SAAQ [sic] for the period in question (after the adjournment), he realized that substantial quantities of alcohol the appellant had purchased during that period were not included in the calculations when the assessment was made since the appellant had not given the Minister all the alcohol purchase invoices at the audit stage. In my opinion, the appellant is trying to defend the indefensible. It is using unjustified procedural tactics to attack an assessment by arguing an alleged reversed onus. In my opinion, this argument must be dismissed.
+Non-representative sample of the appellant's commercial reality
+[16] Counsel for the appellant claims that his client made a prima facie case that the method used by the Minister was not reliable and that his sample was not representative of the commercial reality and that the burden of proof was therefore reversed. Since counsel for the appellant basically read from his litigation plan during his arguments, I will reproduce the relevant part below, so as not to distort his reasoning:
+[translation]
+B- Non-representative sample (i) 2001-2002 period
+29. The appellant respectfully submits that the Revenue Quebec sample is not representative of its commercial reality, for the following reasons.
+30. The appellant was located in the immediate vicinity of the Théâtre St‑Denis, at approximately 320 metres.
+31. Because of this advantageous location, the restaurant's is much busier on show nights because most people enjoy evenings with dinner and a show, and the restaurant had a good reputation; this was not contradicted by Revenue Quebec.
+32. Under the circumstances, the Revenue Quebec sample was not proportional to the relationship between evenings with a show and evenings without a show, whereas this is an essential consideration.
+33. According to pamphlet A-8, the relationship between evenings with a show and evenings without a show during the year is as follows, using the 2001-2002 period as an example:
+Table A
+Distribution over 365 days
+%
+Days with show
+211
+57.808
+Days without show
+154
+42.192
+34. The Revenue Quebec sample is distributed as follows for the same year:
+Table B
+Distribution over 55 days
+%
+Days with show
+26
+46.4
+Days without show
+30
+53.6
+35. It is important to note that the Revenue Quebec sample for the 2001-2002 period includes 349 days.
+36. Since it is rather tedious to determine exactly which of the 365 days were not used in the sample, and to then determine whether there were shows on those days, we will use the same ratios established in Table A:
+211 X (349/365) = 202 days
+154 X (349/365) = 147 days
+37. In fact, the analysis of the survey attached as Appendix "A" confirms that wine, cocktails and beer consumption was considerably higher on days with a show:
+Average drinks/day
+Days with show
+15.89
+Days without show
+5.03
+38. Using this data to adjust the results of the Revenue Quebec survey based on days with a show and days without, the reported consumption would be:
+Year
+Average drinks/day
+Total litres reported
+Days with show
+202
+15.89
+3,209.78
+Days without show
+147
+5.03
+739.41
+Total
+349
+n/a
+3,949.19
+39. The difference between litres sold (reported) and litres not sold (unreported) is therefore significantly modified:
+Total litres sold according to RQ
+4,399.45
+Total litres reported according to sample adjusted to be representative
+3,949.19
+Difference
+450.26
+Previous difference according to Revenue Quebec, using the method that does not consider days with a show
+533.578
+40. The difference between reported and unreported alcohol sales is greatly modified under this new method and provides an explanation for a significant number of litres:
+533.578L – 450.26L = 83.318L
+(ii) 2002-2003 Period
+41. The appellant notes that the difference for the 2002-2003 period is even greater than for the preceding period.
+42. The Revenue Quebec sample is not proportional to the relationship between evenings with a show and evenings without.
+43. According to pamphlet A-8, the relationship between evenings with a show and evenings without in a year is as follows, using 2001-2002 as an example:
+Table A
+Distribution for one year
+%
+Days with show
+190
+52.054
+Days without show
+175
+47.945
+44. The Revenue Quebec sample is distributed as follows for the same year:
+Table B
+Distribution according to RQ sample
+%
+Days with show
+21
+44.68
+Days without show
+26
+55.32
+45. It is significant to note that the Revenue Quebec sample for 2001-2002 includes 349 days.
+46. Since it is rather tedious to determine exactly which of the 365 days were not used in the sample, and to then determine whether there were shows on those days, we will use the same ratios established in Table A:
+190 X (348/365) = 182 days
+175 X (349/365) = 167 days
+47. According to the analysis of the survey, Exhibit A-18 confirms that wine, cocktails and beer consumption was significantly higher on days with a show:
+Average drinks/day
+Days with show
+15.47
+Days without show
+5.13
+48. Using this data to adjust the results of the Revenue Quebec survey based on days with a show and days without, the reported consumption would be:
+Year
+Average drinks/day
+Total reported litres
+Days with show
+182
+15.47
+,2815.54
+Days without show
+167
+5.13
+856.71
+Total
+349
+n/a
+3,672.25
+49. The difference between litres sold (reported) and litres not sold (unreported) is significantly modified as follows:
+Total litres sold according to RQ
+4,128.05
+Total litres reported according to sample adjusted to be representative
+3,672.25
+Difference
+455.83
+Previous difference according to Revenue Quebec, per the method that does not consider days with a show
+675.539
+50. The difference between the reported and unreported alcohol sales is greatly modified under this new method and provides an explanation for a significant number of litres:
+675.539L – 455.83L = 219.709L
+(iii) 2003-2004 Period
+51. The appellant respectfully submits that the results regarding the alcohol sold for the 2 preceding periods should be transposed to the last year.
+52. The formula the appellant suggests is:
+83.18L explained (2001-2002) + 219L explained (2002-2003) = 302.889L
+Average for 2003-2004: 302.889/2 = 151.445L
+53. In light of this, using 151 litres is also clarified, solely for the 2003-2004 period.
+54. It is therefore clear that the Revenue Quebec sample was not representative for the periods in question.
+55. At the time the hearing was adjourned in 2007, Revenue Quebec had stated that it would have an expert testify to show the accuracy of the audit method used.
+56. However, nothing came of it and in the end, Revenue Quebec did not have an expert witness testify upon the return of the hearing this week.
+57. The appellant notes that the reasonableness of a sample is not considered judicial notice, and moreover, the appellant has shown a reality that is its own and the sample used does not reflect its factual situation.
+58. The relevance of the expert witness is clearer when the many faults revealed are taken into consideration.
+59. The appellant refers, in particular, to Brasserie Futuriste de Laval v. The Queen (book of authorities, tab 7, paragraph 158):
+It goes without saying that the gross profit margins in the restaurant industry, and the pub sector in particular, fall outside the scope of judicial notice.
+If the tax authorities believe that the only way to determine the sales of a taxpayer whose accounting is deficient and who does not have the appropriate documents is to mark up its sales by a certain percentage, they must still show, by means of evidence regarding industry standards or otherwise, and, if not by an expert, then with statistics, that the markup being applied is a recognized, reasonable and appropriate standard for the taxpayer's business.
+I cannot accept the submission by counsel for the Respondent that the presumption of an assessment's validity automatically carries with it a presumption that all the assumptions on which the Minister relied to make the assessment are valid and that no evidence of any kind need ever be offered. The 200% markup that Ms. Morand used may well constitute a recognized, reliable and reasonably applicable standard in this case, though I doubt it under the circumstances. It is also possible that the appropriate markup was 175%, 150% or even less.
+In short, when a taxpayer can raise a serious doubt, it must be shown that the markup used is not a purely subjective standard, but, rather, a standard that is objective, reliable and acceptable under the circumstances. One cannot hide behind the presumption of an assessment's validity in order to avoid having to offer such evidence. To claim otherwise is to open the door to arbitrariness by allowing the tax authorities to propound any theory with the assurance that it would be deemed valid.
+Just because a taxpayer has failed to meet its obligations, has deficient accounting, does not have the appropriate documents, or has destroyed those documents, does not mean that all assumptions are warranted and that those assumptions will be deemed valid under all circumstances.
+60. In this context, the appellant respectfully submits that it has shown that the estimation method used by Revenue Quebec had many flaws that, when considered as a whole, tend to indicate that the assessments made are unfounded in fact and in law.
+[17] Counsel for the appellant is essentially claiming that his client made a prima facie case before the court that demolished the Minister's assumptions when reconstituting the appellant's sales. He claims that failing in the duty to keep accurate records and reliable accounting do not give the Minister carte blanche to rely on arbitrary assumptions when establishing an assessment. In other words, relying on the decision by Dussault J. in Brasserie Futuriste de Laval Inc. v. The Queen 2006 TCC 503, he claims that it is not because the appellant failed in its obligations to keep accurate records, has deficient accounting or does not have the relevant documents or has destroyed them that the Minister may assume anything and claim those assumptions are valid in all circumstances. Counsel for the appellant claims that an appellant may, using prima facie evidence, demolish the respondent's assumptions, as L'Heureux-Dubé wrote in Hickman Motors, [1997] 2 S.C.R. 336, at paragraphs 92 and 93 :
+…The Minister, in making assessments, proceeds on assumptions…and the initial onus is on the taxpayer to “demolish” the Minister’s assumptions in the assessment …The initial burden is only to “demolish” the exact assumptions made by the Minister but no more…
+This initial onus of “demolishing” the Minister’s exact assumptions is met where the appellant makes out at least a prima facie case…
+[18] In this case, the appellant claims to have made a prima facie case that the sampling was not representative of the commercial reality of the restaurant La Sila, by showing that the alcohol consumption at its restaurant was much higher on days when shows were held at the Théâtre St-Denis (days with show) than days when there were no shows at the Théâtre St-Denis (days without show) and that the days with show were significantly under-considered in the Minister's sampling, for each of the years in the period in question.
+[19] Whether or not alcohol consumption was significantly higher on days with a show in no way indicates, in my opinion, that the Minister's sampling did not take the appellant's commercial reality into consideration. In fact, could the alcohol consumption have been higher during days with show than days without simply because the appellant's restaurant was busier during days with shows than days without? If the appellant had made a prima facie case that the sales ratio (net sales divided by litres of alcohol consumed) on days with a show was significantly lower than the sales ratio on days without show, if only for one of the years during the period in question, in my opinion, it would have raised serious doubt as to the validity of the Minister's sample where days with shows were significantly under-considered and the burden of proof would have been reversed. The minister would then have had the burden of showing (probably with an expert) that his sample was acceptable and reliable considering the specific circumstances of operating that restaurant. In this case, not only did the appellant not make this case, but it also admitted that the sales ratio during days without shows was essentially the same as the sales ratio during days with shows.
+Allowances
+Employee bonuses
+[20] The appellant alleges that it gave its service and kitchen employees 416.5 litres of alcohol during each of the three years of the period in question, or 238 litres of alcohol during the lunch shift (an average of four employees who, during the lunch shift, would have had one 170 ml glass of wine each, for 349 days) and 178.5 litres for the evening shift (an average of four employees who, during the evening shift would have had one 170 ml glass of wine each, for 350 days). It must be noted that the appellant's evidence in this regard is based essentially on the testimony of Mr. Iaconetti and Youssef Ouali.
+[21] Moreover, I note that Ms. Dagenais, whose credibility is not questioned, testified that at their first meeting on June 2, 2005, Mr. Iaconetti claimed that the appellant did not offer free alcoholic beverages to its employees during the period in question. Ms. Dagenais explained that later, Mr. Iaconetti claimed that employees assigned to the kitchen and service had consumed the equivalent of 297 litres of wine during the three years of the period in question (an average of five employees who would have had the equivalent of one 170 ml glass of wine each per day, for 349 days). Ms. Dagenais added that she included the allowance of 297 litres Mr. Iaconetti declared on behalf of the appellant, despite the first statement he made that the appellant had not offered any free alcoholic beverages to its employees during the period in question. Now, the appellant is asking for such an allocation for 416.5 litres for each of the three years of the period in question.
+[22] It is definitely not by changing the version of the facts three times regarding the free alcoholic beverages offered to employees during the period in question that Mr. Iaconetti will convince me that the appellant's employees had consumed not 287 litres of alcohol but 416.5 during each of the three years of the period in question. I think Ms. Dagenais was being very accommodating and generous towards the appellant by granting this allowance of 297 litres of alcohol per year considering the representative's initial statement on the subject.
+Wine used in the kitchen
+[23] The appellant claims that in addition to using "Auberge" and "Entre-Côte " wines when preparing dishes in the kitchen, its employees had to use other types of wine when the "Auberge" and "Entre-Côte" types ran out. The appellant claims that around two one-litre bottles of wine per week were used in the kitchen, namely one bottle of red wine (valued at around $10) and one bottle of white wine (valued at around $10). I note that during the audit, the Minister acknowledged that all the four‑litre sized Entre-Côte and Auberge brand wines purchased by the appellant during the period in question were used to prepare dishes in the kitchen; this represented 664.00, 736.00, and 821.00 litres of wine in year 1, year 2 and year 3 respectively, not considered to have been sold by the appellant during the period in question. In short, the appellant is asking for an additional allowance of 99.72 litres of alcohol for each of the three years of the period in question.
+[24] The appellant's evidence on this is based solely on the testimony of Mr. Iaconetti, Youssef Ouali and Frank Mellace. On this, Mr. Mellace, the appellant's head chef during the period in question, testified that, on average, he used one one‑litre bottle of wine per week when preparing dishes. Moreover, Mr. Ouali testified that he himself brought an average of five or six one-litre bottles of wine into the kitchen to prepare dishes. Lastly, Mr. Iaconetti testified that around two one-litre bottles of wine (one red and one white) per week were used in the kitchen. I note that Ms. Dagenais testified that Mr. Iaconetti had stated during the first meeting that the appellant only used "Auberge" and "Entre-Côte" wines in the kitchen.
+[25] In all, the appellant's testimony was based on three accounts that were rather inconsistent. It is not by presenting three such inconsistent accounts that the appellant could hope to convince me it used 99.72 litres of alcohol in the kitchen to prepare dishes in each of the years of the period in question in addition to the allowance the Minister already granted in this category. At any rate, it seems unlikely to me that the appellant had to use an average of two bottles of wine (one litre format) per week to help out the chefs who had depleted their stock of four-litre wine. In other words, the appellant is asking me to believe that it was always out of stock of wine (four-litre format) while Mr. Iaconetti, the chairperson and main shareholder, performed weekly inventory of alcohol and went to an SAAQ [sic] outlet many times a week, close to the La Sila restaurant (in this case, on Maisonneuve) in particular to purchase wine. I feel that the Minister was very generous towards the appellant by granting these allowances at the audit; I cannot support this generosity under the circumstances. For these reasons, the additional allowance requested by the appellant is simply dismissed.
+Grayline party
+[26] The appellant claims it had a verbal agreement with the company Grayline, under the terms of which it benefitted from free publicity in Grayline's fliers, in exchange for free meals (including free alcoholic beverages) offered during the holiday season to porters invited by Grayline; these superintendants had worked for Grayline during each of the years of the period in question.
+[27] In this case, I do not see how the appellant can claim that the alcoholic beverages offered to these superintendants had not been sold or, in other words, that they were not taxable supplies. The appellant did not offer free alcoholic beverages to the superintendants. In fact, the appellant received consideration for this by benefitting from publicity in the Grayline fliers. The appellant bartered with Grayline. Therefore, it made a taxable supply by providing the alcoholic beverages to the superintendants invited by Grayline.
+Bonuses for friends and members of the Iaconetti family
+[28] The appellant claims that during the period in question:
+(i) nine family parties were held at the restaurant La Sila;
+(ii) on average, 40 members of Mr. Iaconetti's family, including 5 or 6 children, attended each of these parties;
+(iii) during these parties, alcoholic beverages were offered by the appellant for free;
+(iv) each guest consumed an average of 500 ml of alcohol, less than two beers or around three glasses of wine.
+[29] The appellant is requesting an allowance of 50 litres, 57 litres and 45.5 litres of alcohol for year 1, year 2 and year 3, respectively. I note that the Minister granted such an allocation of 39.75 litres of alcohol for each of the three years of the period in question.
+[30] The appellant's evidence on this is based on the testimony of Mr. Iaconetti and his sister Cindy Reiss, and a table (Exhibit A‑14, tab 5) indicating the dates of the parties and the number of people who allegedly attended. I note that the table is new as of the hearing, and was therefore created using Mr. Iaconetti's memories since the appellant did not keep any records regarding these bonuses.
+[31] Mr. Iaconetti essentially testified that large amounts of alcohol were consumed at the appellant's expense during these nine family parties. Mr. Iaconetti explained that he estimated each guest consumed 500 ml of alcohol (beer and wine). Mr. Iaconetti's sister reported that she attended nine of these family parties. She also said the alcohol (beer and wine) had been offered for free during these nine parties. Lastly, Mr. Iaconetti's sister-in-law essentially testified that she attended four of the nine family parties. She also stated that alcohol was offered by the appellant during these four family parties.
+[32] Counsel for the appellant, relying on 9022‑8891 Québec Inc. v. R., 2006 G.T.C. 214 claims that the testimony of the appellant's director, uncontradicted and moreover corroborated by the testimony of his sister and sister-in-law, constitute a prima facie case sufficient to reverse the burden of proof. In 9022‑8891 Québec Inc., which also addressed the issue of unreported alleged sales made in the operation of a bar, the auditor set the proportion of alcoholic beverages lost and used for promotions at 10% of total sales, whereas the appellant claims it was 30% of the total sales. The Court allowed the appeal, having accepted the testimony of the appellant's senior director.
+[33] Here, the testimony given by Mr. Iaconetti was corroborated by the testimony of witnesses who cannot be qualified as independent witnesses; at any rate, these accounts did not shed any light on the amounts of alcohol consumed or how many people attended these family parties. Mr. Iaconetti's testimony was not supported by any documentary evidence such as a database with the names of the guests who attended each of the family parties, the amount of alcohol consumed and the nature of that alcohol. Mr. Iaconetti's testimony cannot be considered reliable since he was rather vague and inaccurate. Mr. Iaconetti used the words "I estimate" and "around" regarding the amounts of alcohol consumed a little too often. In general, the appellant's evidence on this subject does not create the degree of probability required for a prima facie case. I feel that the allowance the Minister granted as such was more than reasonable in the circumstances.
+[34] Moreover, I note that regarding the decision raised by counsel for the appellant that, even if the judge had indicated that the testimony of the senior director of the appellant had not been corroborated, the appellant did in fact present a book proving the promotional activities carried out by the bar, and the judge accepted this in support of the testimony.
+Bonuses for VIP members
+[35] Counsel for the appellant claims that his client gave its clients (to whom it had sent VIP member cards) 47.74 litres of beer and 214.20 litres of wine in each of the three years of the period in question. However, counsel for the appellant only requested an allowance on behalf of his client for 250 litres of alcohol (wine and beer) for each of the three years of the period in question. I note that during the audit, the Minister had admitted that the appellant gave its clients with VIP member cards 22.08, 33 and 30.87 litres of beer in year 1, year 2 and year 3 respectively. Moreover, during the audit, the Minister did not acknowledge that the appellant gave glasses of wine to its VIP cardholders during the period in question.
+[36] The appellant's evidence in this regard is essentially based on the testimony of Mr. Iaconetti, his sister Giovanna, Youssef Ouali and a few clients (Normand Yergeau and Antoine Donato). Moreover, the appellant submitted to evidence the invoices related to the purchase of VIP cards (Exhibit A-14, tab 4), a list of VIP members (Exhibit A-14, tab 2), the evaluation card VIP members filled out (Exhibit A-14, tab 1) and the letter (to which the membership card was attached) that the appellant sent to its clients who had completed the evaluation card (Exhibit A-14, tab 3).
+[37] Mr. Iaconetti testified that:
+(i) as soon as the appellant acquired the restaurant La Sila, it used alcohol as a promotional tool and offered a free glass of wine or beer to all its clients that became V.I.P. members of the restaurant. Mr. Iaconetti explained that to become a V.I.P. member, a client merely had to fill in an evaluation card for the restaurant, which was given out after the meal; then the appellant sent a letter by mail (Exhibit A‑14, tab 1), with a numbered V.I.P. member card and another V.I.P. member card (with the same number) in the spouse's name as it appeared on the evaluation card. I note that the letter essentially explains the conditions for activating the V.I.P. card and the advantages it gives to the holder. From the letter, I note that the holder of the V.I.P. card who has completed the evaluation card could enjoy the bonus (a glass of wine or a beer) by taking the V.I.P. member card and the letter to the restaurant within three months of receiving it. Mr. Iaconetti explained that he had distributed around 9,000 member cards during the period in question, around 6,000 of which were to clients who had filled in the evaluation card and around 3,000 to their spouses. The appellant submitted three invoices to evidence in this regard (Exhibit A‑14, tab 4) that show it purchased a batch of 5,000 V.I.P. member cards on October 11, 2001, another of 5,000 cards on December 23, 2002, and a last batch of 5,000 on October 4, 2004;
+(ii) around 5,000 clients (who had filled in the evaluation card) brought back the letter giving them the right to the bonus. Among them, 90% preferred the free glass of wine to a free beer. I immediately note that counsel for the appellant claimed in his arguments that around 1,400 of the appellant's clients had enjoyed a free beer or glass of wine under this V.I.P. promotion, for each of the years of the period in question;
+(iii) the evaluation cards, once completed, were given to his sister Giovanna who then sent the letter and V.I.P. member cards by mail to the clients who had filled them in. Mr. Iaconetti explained that his sister had kept a database with all the names of the clients who had completed the evaluation cards, the names of their spouses, their address and membership number. The appellant submitted a list to evidence (Exhibit A-14, tab 2) with all the above-noted information, but this list had been printed on September 29, 2007;
+(iv) he had given his sister all the letters the clients had brought back to the restaurant to use the bonus offered during the promotion. Mr. Iaconetti explained that his sister wrote the number of the member who brought the letter back on the letter, by hand. Mr. Iaconetti added that his sister kept these letters at her home.
+[38] Giovanna Iaconetti essentially repeated her brother's testimony regarding her role in the V.I.P. promotion. Moreover, Youssef Ouali (a server for the appellant during the period in question) testified that an average of 5 to 7 clients per week gave him a letter during the period in question in order to enjoy the bonus offered by the appellant under the V.I.P. promotion.
+[39] Counsel for the appellant states that his client made a prima facie case that under the promotion, it had given 214.20 litres of wine in each of the three years of the period in question, to clients holding V.I.P. member cards who brought back the letter in question.
+[40] In Stewart v. M.N.R., [2000] T.C.J. No. 53, paragraph 23, Cain J. states that "[a] prima facie case is one supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved." In my opinion, the evidence submitted by the appellant regarding this promotion was much more substantiated than that related to the other allowance requests. Mr. Iaconetti's corroborated and uncontradicted testimony, while unclear as to the exact quantities of wine given out during this promotion, was supported by sufficient documentary evidence (a list of names of V.I.P. members who had completed an evaluation card, the name of their spouse where relevant, their address and membership number, letters that were brought back by the clients to enjoy the bonus offered under the promotion and invoices related to the purchase of 15,000 membership cards) created, in my opinion, such a degree of probability in favour of the appellant that the Court must consider the evidence submitted by the appellant on this subject as a prima facie case.
+[41] For these reasons, I feel that the GST assessed must be reduced by the following additional amounts: $2,102.70 for year 1 (($140.3697 x 214.20 litres) x (7 %)), $2,199.00 for year 2 (($146.6592 x 214.20 litres) x (7 %)) and $2,279.68 for year 3 (($152.04 x 214.20 litres) x (7 %)).
+Bonuses for the best clients who were not V.I.P. members
+[42] The appellant claims that it gave its best clients around 100 750 millilitre bottles of wine per year. It therefore asks for an annual allowance of 75 litres of alcohol.
+[43] I immediately point out that further to the appellant's initial observations on this subject on November 3 and 9, the Minister granted an annual allowance of 30 litres of alcohol (or 40 750 millilitre bottles of La Fonte wine). When these initial observations were presented, the appellant submitted a letter to the Minister (Exhibit I-10) that indicated it had offered 40 of its V.I.P. members a free bottle of La Fonte wine. Now, the appellant is claiming it also gave out around 60 bottles of wine to its best clients, who were not even V.I.P. members.
+[44] The appellant's evidence on this subject relies solely on the testimony of Messrs. Iaconetti, Ouali (one of the appellant's servers) and Yergeau (one of the appellant's clients). I will note that the appellant did not keep a record of these bonuses.
+[45] Mr. Iaconetti's testimony on this could be summarized as follows: he and the appellant's servers gave the appellant's best clients who were not V.I.P. members around 60 bottles of wine. I must note that Mr. Iaconetti's testimony does not make reference to:
+(i) the name of the clients who allegedly benefitted from such a bonus;
+(ii) the brand of the wine given and, as a result, of the cost of the wine given, only that, in year 1, the cost of a bottle of wine given was between $25 and $50 (see May 5, 2009, transcript, at paragraph 77);
+(iii) the number of bottles of wine each of the servers gave out.
+[46] Moreover, Mr. Ouali's testimony told us little on the subject other than he had given 15 to 25 bottles of wine to his best clients per year.
+[47] Finally, Mr. Yergeau, one of the appellant's good clients, simply said that he had occasionally received a bottle of wine from the appellant.
+[48] In this case, the appellant claims to have made a prima facie case that it gave around 60 bottles of wine per year to its best clients who were not V.I.P. members (this represents an annual allowance of 45 litres of alcohol). In my opinion, the evidence submitted by the appellant on this subject did not create a sufficient degree of probability to be considered a prima facie case. First, Mr. Iaconetti's testimony was not supported by adequate documentary evidence such as a database with the names of those who benefitted from this promotion, the date the bonuses were received and the type of wine given as such. Moreover, Mr. Iaconetti's testimony cannot be considered reliable because he was deliberately vague and unclear. The word "around" was used to qualify his statements too often. Also, the testimony given by Messrs. Ouali and Yergeau do not really support Mr. Iaconetti's testimony because they were as vague and unclear (and therefore unreliable) as Mr. Iaconetti. The appellant must know that evidence based on uncontradicted testimony or even on testimony corroborated by other testimony does not necessarily create the degree of probability required to be considered a prima facie case. Overall, the appellant is asking me to make a somewhat arbitrary decision, which it criticized the Minister of doing many times. For these reasons, I feel the Minister was within his right to disallow the allocation for 40 litres of alcohol the appellant requested.
+Bonus for porters
+[49] The appellant claims that it gave Montréal hotel porters 26.25, 43.1, and 70.2 litres of wine in year 1, year 2 and year 3 of the period in question, respectively. The Minister disallowed all such claims. The appellant's testimony is essentially based on many tables (see Exhibit A-14, tab 6) (created by the appellant for the purposes of this case) that indicate the names of the porters who received these bonuses and the date they allegedly received them. I note that the tables are supported by receipts (see Exhibit A-14, tab 6) that the porters allegedly signed.
+[50] Mr. Iaconetti testified that:
+(i) he had a verbal agreement with porters (one or two per hotel) that worked at five or six hotels in Montréal, under the terms of which they could have a free meal and free bottle of wine (valued at around $10) per month if they distributed coupons from the restaurant La Sala to clients at their hotels;
+(ii) he made sure these porters only used the bonus once a month;
+(iii) the porters had to sign a receipt related to the bonus.
+[51] Mr. Greiss testified that he entered into an agreement with the appellant that was similar to that described by Mr. Iaconetti at the time he worked as a porter at the Grand Plaza Hotel in Montréal. I note, however, that Mr. Greiss did not recall the frequency agreed to for the bonuses.
+[52] Mr. Iaconetti's uncontested testimony was supported this time by documentary evidence that I feel is reliable (even though the Minister noted that the table related to the bonuses granted to Mr. Greiss had a four-litre error regarding the November 4, 2004, invoice) and by independent and credible testimony. In other words, the evidence the appellant submitted on this subject created the degree of probability required for it to be a prima facie case. As a result, I feel that the appellant has the right to an allowance of 26.25, 42.31 and 65.2 litres of alcohol for year 1, year 2 and year 3, respectively. As a result, I feel that the GST assessed must be reduced by $1,386.19, or $257.92 in year 1 (($140.3697 x 26.25 litres) x (7 %)), $434.36 in year 2 (($146.6592 x 42.31 litres) x (7 %)) and $693.91 in year 3 ($152.04 x 65.2 litres).
+Disallowed ITC
+[53] As we saw, the ITC was reduced by $4,096.08 in the Minister's assessment. From Exhibit I-8, we see that the disallowed ITC were in reference to the following expenses, that the Minister did not consider were incurred in the course of its commercial activities:
+(i) Employee bonuses
+297 litres
+(ii) Owner drinks
+41.65 litres
+(iii) Baptism and personal bottle
+35.25 litres
+Total litres disallowed
+373 litres
+From Exhibit I-8, I note that the Minister used the value of the inventory according to the appellant's accounting records to determine the value of the disallowed litres. The Minister's calculation indicates he valued 373 litres at $19,505.20, or $52.29 per litre.
+[54] First, we shall address the issue of whether the value of these 373 litres is $19,505.20. On this, I refer to Mr. Iaconetti's testimony that the appellant gave its employees and family members and friends Giacondi brand wine, the cost of which was around $10 a litre. Moreover, I cannot easily explain why the Minister used the value of the inventory according to the appellant's accounting records. In fact, it is illogical, to say the least, that the Minister would use the appellant's books to determine the value of the litres of alcohol given and at the same time claim that the accounting, accounting books and financial records were very deficient. It is therefore not surprising that the use of this deficient accounting led to results that are rather unlikely and unrealistic. In other words, I am not convinced that the appellant gave its employees and family member wine valued at $52.29 a litre. Mr. Iaconetti's testimony on this seems more believable and likely.
+[55] We will now examine the issue of whether the appellant's expenses related to these bonuses entitled it to claim the ITC.
+[56] Subsection 169(1) of the Act sets out the general rule for ITC. This provision provides that any property or service acquired or imported by a registrant for use in the course of their commercial activities entitles that to claim ITC in proportion to the actual or projected use of that property in the course of their commercial activities. The provision states:
+169.(1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is:
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,;
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+[57] The term "commercial activity" is defined at subsection 123(1) of the Act, which states:
+"commercial activity" of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person;
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and;
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply.
+[58] As a result, the question I must answer can be stated as follows: were the appellant's expenses related to the bonuses incurred when carrying out its commercial activities? In my opinion, the litres of wine enjoyed by Mr. Iaconetti (41.65 litres in each of the periods in question) and his family and friends (35.25 litres in each of the periods in question) were clearly not consumed or used when carrying out the appellant's commercial activities. Moreover, in light of the teachings of Campbell J. in General Motors of Canada Ltd. v. R., [2008] G.S.T.C. 41 (T.C.C.), I feel the appellant's expenses related to employee bonuses were incurred when carrying out its commercial activities and the company used these bonuses to solidify employee morale, maintain good relations with them and ensure their loyalty, all elements that contributed to the success of the restaurant La Sila. In other words, the costs associated to the employee bonuses can be considered only indirectly linked to the operation of the restaurant but still an integral part of the general commercial success of the restaurant. The costs related to the bonuses the employees received are, in my opinion, part of the appellant's commercial activities and they meet the need to attract and keep the number of employees required for the proper operations of the activities. In my opinion, the fact that the advantages granted to the employees were not added to their employment income is not relevant to determining the issue in question.
+[59] As a result, I feel that the appellant is entitled to the additional ITC of $3,218.80, in that the ITC in the assessment should have been reduced by $877.37 ((79.90 litres x $52.29 x 3) x (7 %)) rather than by $4,096.08.
+Penalty
+[60] With regard to the penalty imposed on the appellant under subsection 280(1) of the Act, I note that the appellant did not submit any evidence that showed Mr. Iaconetti did his due diligence. I add that counsel for the appellant did not even address this issue in his arguments. As a result, I must find that the Minister was within his right to impose the penalty in application of section 280 of the Act.
+Conclusion and costs
+[61] For all these reasons, the appeal from the assessment made December 7, 2005, is allowed, to take into consideration the Minister's admission as stated at paragraph 3 and in my findings at paragraphs 41, 52 and 59. The GST claimed by the appellant should be increased by $11,947.21 rather than by $25,256.32, the ITC should be decreased by $877.37 rather than by $4,096.08, with consequential adjustment of penalties and interest.
+Signed at Ottawa, Canada, this 28th day of October 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 21st day of December 2009.
+Elizabeth Tan, Translator
+CITATION: 2009 TCC 554
+COURT FILE NO.: 2007-214(GST)I
+STYLE OF CAUSE: 9110-1568 QUÉBEC INC. and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: May 4, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: October 28, 2009
+APPEARANCES:
+Counsel for the appellant:
+Jean-François Poulin
+Counsel for the respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the appellant:
+Name: Jean-François Poulin
+Firm: Ravinsky Ryan Lemoine
+Montréal, Quebec
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

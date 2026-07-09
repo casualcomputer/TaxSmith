@@ -1,0 +1,286 @@
+---
+title: "Mohamed v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521620/index.do"
+last_modified: "2026-05-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 72"
+citation2: ""
+neutral_citation: "2026 TCC 72"
+decision_date: "2026-05-06"
+language: "en"
+item_id: "521620"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5550
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-05-09T09:09:13.911000+00:00"
+cases_cited_count: 8
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b8d19e91d88831075adff95cfb579758d630a763d50c62f48d72b2ad2a8cda8f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mohamed v. The King
+
+- Citation: 2026 TCC 72
+- Decision date: 2026-05-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5550, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mohamed v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-05-06
+Neutral citation
+2026 TCC 72
+File numbers
+2025-1242(IT)I
+Judges and Taxing Officers
+Michael U. Ezri
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2025-1242(IT)I
+BETWEEN:
+ABDIWELI A. MOHAMED,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on November 24, 2025, and on March 9 and 10, 2026, at Winnipeg, Manitoba
+Before: The Honourable Justice Michael U. Ezri
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Allanah Smith, Anna Kozak
+JUDGMENT
+The appeal from the Minister’s redetermination of the appellant’s entitlement to the Canada Child Benefit for the months of August 2024 to June 2025 in relation to the appellant’s 2023 base year is dismissed without costs, in accordance with the attached reasons for judgment, on the basis that the Appellant is not an eligible individual within the meaning of s. 122.6 of the Income Tax Act
+Signed this 6th day of May 2026.
+“Michael Ezri”
+Ezri J.
+Citation: 2026 TCC 72
+Date: 20260506
+Docket: 2025-1242(IT)I
+BETWEEN:
+ABDIWELI A. MOHAMED,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Ezri J.
+[1] It is sometimes said that hard cases make bad law. Here, bad law has made for a hard case. Abdiweli Mohamed has two children and he is of modest means but he has fallen through a crack in the legal system and cannot get the Canada Child Benefit (CCB) for them. Despite my feeling that he should receive the CCB I have not found a way to allow his appeal.
+Mr. Mohamed’s background and family circumstances [2] Mr. Mohamed fled Somalia with his family when he was only a boy and ended up in the United States. He grew up as an American, but he did not become a US citizen. In March of 2018 following some interactions with US law enforcement, Mr. Mohamed’s time in the US was drawing to a close so he crossed into Canada illegally, phoned the RCMP to report himself and was escorted to a border crossing at Emerson Manitoba for processing.
+[3] In May 2018, Immigration, Refugee and Citizenship Canada determined that he was not eligible to be considered for a grant of refugee status because of prior criminal convictions in the United States. He could not be sent back to the United States. That left only a return to Somalia as an option. First however, a pre-removal assessment was performed in order to determine whether a return to Somalia, a country by now wholly foreign to Mr. Mohamed, would be safe for him. A preliminary view against removal was formed in August of 2018, but it would take another five years for that view to mature into a final decision. That final decision concluded that Mr. Mohamed would be at risk if he were to be removed to Somalia.
+[4] In the interim, Mr. Mohamed did his best to make a life for himself in Canada. He received permission to work and took a job. In 2020 he got married and later had two children. He paid taxes and in all other respects comported himself admirably.
+[5] I want to put right up front that I find Mr. Mohamed is a responsible individual whose brushes with the law are long in the past. That is not just my opinion. The delegate of the Minister of Immigration, Refugees and Citizenship of Canada (“Minister of Immigration”) in ruling that Mr. Mohamed’s removal order should be stayed, wrote the following about Mr. Mohamed:
+[325]…Based on the evidence before me, I am satisfied that Mr. Mohamed is rehabilitated and leading a pro-social life at this time.[1]
+[6] Mr. Mohamed’s personal life in Canada began to unravel in 2022 and 2023. He and his spouse separated in April 2024. Mr. Mohamed made some fairly serious allegations about his wife’s conduct. She did not testify and those allegations do not directly affect the outcome of the case. The evidence did establish however that the spouse was to stay away from the appellant and the children, an arrangement that continues to the present.
+Mr. Mohamed’s CCB Benefits [7] Mr. Mohamed’s spouse is a Canadian citizen and a status Indian under the Indian Act. Her status as a Canadian Citizen grounded her and Mr. Mohamed’s entitlement to CCB benefits prior to his separation from her. The Canada Revenue Agency (“CRA”) issued determinations entitling Mr. Mohamed to benefits for his children for the 2022 base year (payable July 2023 to June 2024) and for the 2023 base year (payable July 2024 to June 2025).
+[8] When Mr. Mohamed informed the CRA of his separation in April 2024, a 90 day waiting period kicked in to permit a reconciliation and during which time the CCB was still payable. Despite the waiting period, the CRA issued redeterminations denying Mr. Mohamed the benefits for the 2022 and 2023 base year and requiring repayments of amounts paid to Mr. Mohamed for May and June 2024. The parties to this appeal have since consented to judgment allowing this appeal as it relates to the May, June and July 2024 periods and a judgment to that effect was issued on January 27, 2026.
+Mr. Mohamed’s Financial Position [9] Mr. Mohamed led evidence to establish significant financial hardship following the breakdown of his marriage. He became the sole caregiver of his children and stopped working. He led evidence to show that:
+He received social assistance from the province of Manitoba;
+He received top up payments to help him meet the cost of rent and utilities;
+He fell behind on his electricity and phone bills;
+He received regular assistance from a food bank;
+He had difficulty paying for the minimum required levels of auto insurance;
+He could not make the co-payments for the dental care of one of his children; and
+He received winter clothing for his children through a charitable organization.
+[10] Mr. Mohamed has no other family or support systems available to him in Canada.
+The ITA and its interaction with the IRPA [11] In order for Mr. Mohamed to be eligible for CCB following the breakdown of his marriage, he needs to be a “protected person” within the meaning of the Immigration and Refugee Protection Act (IRPA).
+[12] I find that Mr. Mohamed is not a protected person. I come to this conclusion with some trepidation because while I am presumed to be fully conversant with all Canadian statutes and jurisprudence, the reality is that I can no more profess an in-depth understanding of IRPA than an immigration judge might profess a comprehensive understanding of the intricacies of the Income Tax Act (“ITA”).
+[13] The ITA reference to IRPA is found in the definition of an eligible individual for CCB purposes in s. 122.6 of the ITA:
+eligible individual in respect of a qualified dependant at any time means a person who at that time
+(a) …
+and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+…
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act, who was resident in Canada throughout the 18 month period preceding that time,
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act;
+[14] The respondent did consider whether Mr. Mohamed might be a temporary resident, but it is clear that he is not. His work permits specified that was not a temporary resident. That leaves subparagraph (e)(iii) and its reference to “protected person within the meaning of the Immigration and Refugee Protection Act”.
+[15] Is Mr. Mohamed a protected person within the meaning of the IRPA? The answer is no. “Protected person” is narrowly defined in subsection 95(2) as follows:
+2) A protected person is a person on whom refugee protection is conferred under subsection (1), and whose claim or application has not subsequently been deemed to be rejected under subsection 108(3), 109(3) or 114(4).
+[16] A protected person has had “refugee protection” conferred on them by subsection 95(1).
+[17] Subsection 95(1) in turn provides refugee protection in one of the following circumstances:
+95 (1) Refugee protection is conferred on a person when
+(a) the person has been determined to be a Convention refugee or a person in similar circumstances under a visa application and becomes a permanent resident under the visa or a temporary resident under a temporary resident permit for protection reasons;
+(b) the Board determines the person to be a Convention refugee or a person in need of protection; or
+(c) except in the case of a person described in subsection 112(3), the Minister of Immigration allows an application for protection.
+[18] Paragraph 95(1)(a) does not apply as Mr. Mohamed was not determined to be a Convention refugee under the circumstances described and is neither a permanent nor a temporary resident.
+[19] Paragraph 95(1)(b) deals with determinations of the Immigration and Refugee Board. No such determinations were made by the Board.
+[20] The appellant made his refugee claim while present in Canada. Such claims must, under subsection 99(3) of IRPA, be made to an officer. Under subsection 100(1) the officer must determine whether the claim is eligible to be referred to the Refugee Protection Division. Under paragraph 101(1)(f) the claim cannot be referred if the claimant has been determined to be inadmissible on grounds of ‘serious criminality’. Paragraph 101(2)(b), which echoes paragraph 36(1)(b) limits ‘serious criminality’ to, among other things, convictions outside of Canada for an offence that if committed in Canada would be subject to a maximum sentence of at least 10 years imprisonment.
+[21] Unfortunately, Mr. Mohamed’s brushes with the law in the United States are caught by paragraphs 101(2)(b) and 101(1)(f). This was the finding of two reports marked as Ex. R12 (called s. 44 reports). The first report does not matter since it simply found that Mr. Mohamed had illegally entered Canada and lacked appropriate documentation. The second report does matter. It determined that Mr. Mohamed’s failure to properly identify himself to a police officer in Texas was equivalent to the crime of identity fraud in paragraph 403(1)(d) of Canada’s Criminal Code. In Canada that offence carries a maximum punishment of ten years.
+[22] So, paragraph 95(1)(b) was foreclosed to Mr. Mohamed. He could not be determined to be a person in need of protection by the Immigration and Refugee Board because he was not eligible for a hearing before the Board. That left open only an application for protection to the Minister of Immigration described in paragraph 95(1)(c). Paragraph 95(1)(c) in turn references persons described in subsection 112(3) of the IRPA. Subsection 112(3) comes into play this way:
+[23] A person subject to a removal order can apply under section 112 to the Minister of Immigration for protection.
+[24] Mr. Mohamed applied under s. 112. That s. 112 application to stay the order was ultimately granted by the Minister of Immigration, and Mr. Mohamed was not deported and is unlikely to ever be deported.
+[25] The problem with Mr. Mohamed’s s. 112 application is that under subsection 112(3) of IRPA, refugee protection may not be conferred on a person who is determined to be inadmissible on the grounds of serious criminality with respect to a conviction outside of Canada for an offence that would if committed in Canada be punishable by up to 10 years imprisonment. Mr. Mohamed’s problems in Texas are again caught by that description. He is a person described by subsection 112(3) of IRPA.
+[26] As we have just seen, paragraph 95(1)(c) excludes from protection, persons described in subsection 112(3) and so Mr. Mohamed is excluded. This in turn means that Mr. Mohamed is not a “protected person” within the meaning of subsection 95(2).
+[27] Paragraph 114(1)(b) also makes it clear that an application for protection that is allowed for a person described in subsection 112(3) stays the removal order but nothing more. This can be contrasted with paragraph 114(1)(a) which applies to those not described in subsection 112(3), and does confer refugee protection.
+[28] And so Mr. Mohamed is stuck. The IRPA allows him to remain in Canada potentially indefinitely because he cannot be safely returned to Somalia but it carefully and exhaustively shuts him out of the status of having “refugee protection” under subsection 95(1) of the IRPA which in turn excludes him from being a protected person under subsection 95(2). All of this results because he because of his prior serious criminality history.
+Xie and Li cases [29] In concluding that Mr. Mohamed is not a protected person, I have considered the case of Xie v Canada[2] to assess whether the Federal Court of Appeal has adopted a more expansive view of a “protected person”.
+[30] Xie, states that there are three ways for a person to become a protected person, namely the three ways that we have considered: 1) convention refugee; 2) person in need of protection; and 3) a section 112 application.[3]
+[31] After noting that section 95 excludes persons described by subsection 112(3) the Federal Court of Appeal held that:
+[30] But exclusion from refugee protection is not exclusion from protection.[4]
+[32] The Court of Appeal noted that persons who are not caught by subsection 112(3) have access to the status of permanent residents and cannot be ‘refouled’ i.e. sent to a country where they are at risk of persecution, torture or subject to cruel and unusual punishment. The Court then summarized the processes thusly:
+[33] That is the structure of the Act as it relates to the determination of claims for protection. It has two streams, claims for refugee protection and claims for protection in the context of pre-removal risk assessments. Those who are subject to the exclusion in section 98 are excluded from the refugee protection stream but are eligible to apply for protection at the PRRA stage. The basis on which the claim for protection may be advanced is the same, but the Minister can have regard to whether the granting of protection would affect the safety of the public or the security of Canada. If protection is granted, the result is a stay of the deportation order in effect against the claimant. The claimant does not have the same access to permanent resident status as does a successful claimant for refugee protection.
+[33] Per the FCA, a finding that a person cannot obtain refugee protection status because of accusations of criminality rather than a conviction for criminality, did not preclude the right to seek protection under s. 112. The Court went on to hold that, “protection remains available though subject to considerations of public safety and security of Canada”. And in answering the certified question before it, the FCA wrote:
+…a claimant can be excluded from refugee protection by the Refugee Protection Division for a purely economic offence. I stress refugee protection because the certified question appears to suggest that the exclusion applies to claims for protection, which is not the case. It applies only to claims for refugee protection”[5]
+[34] So, the FCA states twice, at paragraph 30 and again at paragraph 33 that a person can be protected even if they are excluded from “refugee protection” and at paragraph 40 they distinguish ‘refugee protection’ from ‘protection’.
+[35] The ITA does not provide that a person have “refugee protection” in order to be entitled to the CCB, only that the applicant be a “protected person”. A person who files an application “with the Minister for protection” under s. 112 and whose application is granted, could perhaps be a protected person for purposes of the ITA.
+[36] Based on the foregoing, I have been very tempted to read Xie as including in the ambit of a “protected person” someone who is not refugee protected but who is merely protected from deportation. I reluctantly decline to read the case in that manner. The IRPA is tolerably clear that a protected person is one on whom refugee protection is conferred and that status is not available to persons described in subsection 112(3). The Federal Court of Appeal in Xie is simply highlighting the distinct roles of the Immigration and Refugee Board on an initial application for refugee status and the broader powers of the Minister of Immigration on a s. 112 protection application. I don’t think that Xie goes further than that to include in “protected persons” those individuals like Mr. Mohamed whose s. 112 applications are accepted, thus staying deportation, but subject to the restriction in paragraph 95(1)(c) which denies refugee protection to persons described in subsection 112(3) of IRPA.
+[37] Finally, I also considered Li v Canada, 2010 FCA 75 which summarizes Li v Canada 2009 FCA 85 by stating that:
+[40] As a result, applications for protection made under section 112 may result in applicants being accorded refugee protection (as contemplated by section 95 and paragraph 114(1)(a) or may result in a stay of the removal orders made against them. In the latter case, applicants are afforded a form of protection, a stay of removal, even though, by virtue of section 98, they are not granted refugee protection nor are they considered to be persons in need of protection.
+The FCA goes on to state that if there are grounds for exclusion, “…the best possible outcome for the applicant is a limited form of protection, namely an indefinite stay of the deportation order…”[6] but makes it clear that:
+[52] In proceeding under paragraph 113(d), the PRRA officer is not considering the applicant as a candidate for the status of a person in need of protection, as suggested by the Li brothers. Section 98 is conclusive against this argument. The PRRA officer is engaged in a process of determining whether execution of the deportation order in force against the applicant ought to be stayed.
+And, commenting on paragraph 40 of Xie:
+[54] ... Thus, while the Li brothers are excluded from refugee protection, they may yet benefit from protection in the form of a stay of the deportation orders in force against them.
+[38] Li does not treat the “protection” afforded by a stay to which subsection 112(3) applies as conferring ‘protected person’ status but simply uses the word, “protection” in the ordinary way of protecting a person from deportation even if they are not eligible for refugee protection.
+[39] I conclude that Mr. Mohamed’s protection from deportation does not make him a ‘protected person’ for the purposes of s. 95 of the IRPA and so by extension he is not a ‘protected person’ for the purposes of subparagraph 122.6(e)(iii) of the definition of an “eligible person” in the ITA.
+The Charter Challenge [40] I turn next to the Charter challenge. The appellant’s notice of constitutional question is not a model of clarity, but it does allege that s. 122.6 of the ITA denies the appellant the CCB on the basis of parental immigration status. He adds that it harms his children by restricting their access to welfare, health, education and cultural participation. He relies on s. 15(1) of the Charter.
+[41] I do not believe that Mr. Mohamed has made out his claim for discrimination. The distinctions drawn here are not based on immigration status per se but rather on serious criminality as set out in the IRPA.
+[42] Section 15(1) of the Charter provides as follows:
+Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[43] Section 15(1) protects against laws that directly discriminate on the basis of the grounds set out in the text, but it also applies to two other kinds of distinctions:
+a. Distinctions that are similar to the ones set out above but are not directly mentioned. These are called analogous grounds of discrimination. For example, discrimination on the basis of sexual orientation is not explicitly named in section 15 but it is a prohibited ground of discrimination; and
+b. Laws that don’t directly rely on prohibited grounds of discrimination but have the effect of discriminating on the basis of an enumerated or analogous ground.
+[44] In practice these two aspects of the section 15 analysis are often collapsed into a single analysis as illustrated in Kanyinda.[7]
+[50] At the first step of the test, the claimant must show that the challenged law creates a distinction based on listed or analogous grounds, either on its face or through its impact. Where a measure does not explicitly distinguish based on a protected ground, the claimant can still show that the law creates a distinction in effect because of the law’s disproportionate impact on the protected group (Sharma, at para. 40; Fraser, at para. 52).
+Immigration Status is not by itself sufficient to ground a Charter Challenge
+[45] In Kanyinda[8] Ms. Kanyinda entered Quebec and claimed refugee status. While waiting for her claim to be adjudicated she obtained a work permit and applied for subsidized daycare under Quebec’s universal daycare program for her three children. She found that she could not get subsidized daycare because while the relevant Quebec regulations extended subsidized day care to citizens, permanent residents, foreign students, and even to, “refugees and protected persons” it did not extend to refugee claimants whose applications had not yet been approved. The issue ended up at the Supreme Court.
+[46] The Supreme Court considered whether a distinction based on a person’s status as an immigrant or in Ms. Kanyinda’s case, a refugee applicant, was itself prohibited under subsection 15(1) of the Charter as an analogous ground. The majority of the Supreme Court preferred not to decide that issue. Chief Justice Wagner was prepared to hold that being a refugee claimant was an analogous ground to those set out in section 15(1).[9] Justices Rowe and Côté held the opposite view, namely that refugee claimant status was not an analogous ground.[10]
+Immigration Status as indirectly discriminatory [47] The Supreme Court then considered whether a person’s status as a refugee claimant could give rise to discrimination if that status impacted a Charter protected group. A majority of the Court held that the regulations created a distinction on the basis of sex. Although the regulations applied equally to men and women, the impact of the regulations fell disproportionately on women.[11] The law was then found to be discriminatory because it adversely affected refugee claimants who were women, and it perpetuated or exacerbated a series of disadvantages that they were already experiencing. Female refugee claimants were already suffering the effects of lack of opportunity in the job market and the regulations worsened those problems.[12] The female refugee claimants suffered particularly because as women they were disproportionately responsible for child care.[13]
+The Yao Decision [48] Prior to Kanyinda, the Federal Court of Appeal had held on several occasions, notably in Toussaint[14] that immigration status is not in and of itself a distinction that is analogous to the grounds enumerated in section 15 of the Charter.
+[49] In Yao this Court was asked to find that section 122.6 of the ITA infringed the Charter because it discriminated, among other things on the basis of refugee claimant status contrary to s. 15 thereof.[15]
+[50] This Court declined to so find partly because it was bound by Toussaint[16] and also independently because refugee claimant status is not immutable or difficult to change in the way that other elements of personal identity are.[17] This Court also considered whether refugee claimant exclusion had the effect of discriminating on the basis of sex by excluding CCB claimants who are women and/or visible minorities but this Court was not prepared to so find.[18]
+[51] Yao is currently under appeal to the Federal Court of Appeal, under the name Zhang, but the hearing of the appeal was adjourned by the FCA pending the decision in Kanyinda and the receipt of supplemental submissions in response thereto. At the conclusion of the hearing of this appeal, I inquired of both parties whether they wished to wait for the hearing and decision in Zhang before having me decide this case. Both parties were of the view that I should go ahead and give a decision.
+[52] It might have been helpful to my analysis to have the guidance of the Federal Court of Appeal in Zhang. However, it is also true that Informal Procedure appellants are entitled to speedy justice that is sometime imperfect and for that reason is not precedential. It is also true that the ground of distinction in this case is not refugee claimant status as was the case in Kanyinda and as is the case in Yao but rather, a distinction based on prior criminal history. Under those circumstances, the request of the parties and the appellant in particular, that I decide the case now, is not unreasonable.
+[53] Applying the cases referenced above as best I can, I conclude that Mr. Mohamed’s claim of discrimination on the basis of s. 15 is not made out.
+Criminal History is the Issue in this case [54] The reason that Mr. Mohamed does not enjoy protected person status is that the IRPA draws a distinction on the basis of “serious criminality”. It is that distinction that prevented his s. 112 protection order from conferring protection under subsection paragraph 95(1)(c) of the IRPA.
+[55] Serious criminality has not been determined to be a distinction that is an analogous ground under s. 15 of the Charter. Far from it. More than almost any other characteristic, criminality is the one behaviour where society can and should expect a person to change over time. Indeed, Mr. Mohamed has long since shed all vestiges of his past conduct. However, it is his criminal history that precludes a successful claim for ‘protected person’ status in this case. This leads to a question: Is a distinction that is based on criminal history one that violates s. 15 of the Charter?
+Criminal History not a Stand-alone ground for s. 15 purposes
+[56] Recently, in Thibault,[19] the Ontario Divisional Court was asked to consider whether the rights of two tow truck drivers had been infringed on the basis of criminal history. Both had worked in their industry for decades but had long ago been issued lifetime weapons prohibitions. As a result, they were precluded from obtaining tow certificates under new licensing requirements despite having committed no offenses in decades.
+[57] The Court in Thibault was unwilling to decide whether criminal history constitutes an analogous ground for the following reasons:
+a. The test for recognizing new analogous grounds is high;[20] and
+b. The applicants did not provide the kind of evidence required to adjudicate the question. This latter ground was canvassed in detail by that Court. The Court focused in particular on the need to show that the distinction is a personal characteristic that is immutable or not easily changed and on the lack of evidence linking economic disadvantage with the criminal history identity distinction.[21]
+[58] The Court in Thibault did leave the door open for the issue to be considered in other cases. Unfortunately, I cannot go through that door for the same reasons as those articulated in Thibault. I have no record of any kind upon which to determine whether a distinction on the basis of a past history of serious criminality is the basis of stereotypical decisions on the basis of a personal characteristic that is immutable or changeable only at an unacceptable cost to personal identity.[22]
+[59] One can however ask whether prior criminal history might be joined to some other distinction in order to engage a s. 15 analysis. This is what I understand to be the intersectional analysis conducted in Kanyinda.
+No Evidence advance an Intersectional Analysis in this case
+[60] In Kanyinda, refugee claimant distinctions disproportionately exacerbated disadvantages among female refugee claimants which created a distinction based on an enumerated section 15 ground, sex.
+[61] In Mr. Mohamed’s case, any sort of intersectional analysis based on criminal history is confronted by a lack of evidence to advance the analysis.
+[62] There must be at least some explanation as to how the distinction exacerbates a disadvantage suffered by a group that is identified based on an enumerated or analogous ground. There was absolutely no evidence led as to the existence of a connection between the ‘serious criminality history’ exclusion and a group of people who are distinguished by an enumerated or analogous ground in the Charter. By contrast, in Kanyinda numerous references were made to studies and articles to drive the Supreme Court’s analysis.
+[63] Likewise, in Yao, four experts testified that refugee claimants tend to be poor, racialized and more likely to be women. Further, Poverty negatively affects the social, development and ultimate outcomes of children. Justice Bocock found those conclusions to be so self-evident that one could almost take judicial notice of them.[23] However, the status of “refugee claimant” was not, per the jurisprudence, an immutable characteristic so it was not by itself an analogous ground. There was also no evidence before this Court that racialized individuals were disproportionately impacted by the requirements of s. 122.6 of the ITA.
+[64] So Yao does not help Mr. Mohamed. At best it holds that refugees are poor, and often racialized, but s. 122.6 does not discriminate against refugees claimants.[24]
+[65] In this case, unlike in Yao, refugee claimant status is not in issue. Further, I repeat that I have no evidence of a group covered by s. 15 of the Charter who have been historically disadvantaged and whose disadvantages are being exacerbated by ‘serious criminality’ requirement. For example, I might be willing to assume that the group with serious criminality backgrounds is racialized, but then what? There is no evidence that the serious criminality group to whom CCB is denied is more racialized than the refugee group as a whole, who gets the benefit. I need evidence to show that ‘serious criminality’ leads to an impact on a Charter protected group. I have no such evidence.
+[66] The best I can say is that on a better record the interplay between the serious criminality history exclusion and s. 15 of the Charter raises issues worth exploring. They are not issues that I can adjudicate on the record before me.
+[67] Before concluding, I note that there is a 2020 journal article arguing that parental undocumented status might constitute an analogous ground of discrimination.[25] That article which is cited in the concurring opinion of the Chief Justice of the Supreme Court in Kanyinda,[26] touches on the s. 122.6 issue. The author, Mr. Rahimian wrote that s. 122.6 excludes children whose parents who do not have a regularized immigration status, such as “…those who cannot leave Canada because of a moratorium on removal to their country of origin.”[27] He argues that expanding access to the children of those parents would add only $30 million a year in expenses to a $20 billion program.[28]
+[68] Mr. Rahimian goes onto argue, at length, that the broader ground of “parental undocumented status” is an analogous ground for Charter purposes and that it is the children of those parents who are the group that is subject to the distinctions. However, I am concerned that “parental undocumented status” is not helpful given that Mr. Mohamed’s problems are not simply documentary in nature; he has been determined ineligible for ‘protected person’ status. I am also concerned that the arguments advanced by Mr. Rahimian are generic in nature and do not apply with any specificity to the ITA. The arguments remain highly normative i.e. policy based, and have not yet been accepted by the rest of the Supreme Court.
+Conclusion on Charter Argument [69] Mr. Mohamed’s Charter arguments do not succeed today for the following reasons:
+a. Refugee claimant status is not a stand alone-ground that is analogous to an enumerated section 15 Charter ground, though in Kanyinda it did form the basis for an intersectionality analysis leading to a finding that ‘refugee claimant’ status discriminates on the basis of sex;
+b. Criminal history/serious criminality is not a stand-alone ground that is analogous to an enumerated section 15 Charter ground; and
+c. There was no argument or evidence placed before me to permit a consideration of whether criminal history/serious criminality could create discrimination within a Charter protected group in the same way as was found by the Supreme Court in Kanyinda for female refugee claimants.
+Under the ITA, some children’s parents get the CCB and some do not, but I cannot say that the distinctions on eligibility at play in this case, turn on grounds that are enumerated in s. 15 of the Charter or that are analogous to those enumerated grounds.
+Mr. Mohamed’s Children as Status Indian [70] Mr. Mohamed reminded me that he is pursuing registration of his children as Status Indians and asked that I consider this in my deliberations. I am prepared to assume that he will succeed in this endeavour, but no coherent argument was presented to me as to how this affects the interpretation of s. 122.6. Mr. Mohamed alluded to Jordan’s Principle. Jordan’s Principle is an important component of the Federal Government’s commitment to First Nations children, but it is not a tool of statutory interpretation and it does not assist in the resolution of this case.
+Policy Issues [71] Although I am unable to adopt the Charter arguments, in Mr. Rahimian’s journal article, I do echo his concerns about the policy results of s. 122.6 of the ITA. This case is an unhappy one all the way around.
+[72] I have reviewed the circumstances surrounding the “protected person” element of s. 122.6. I can find no indication that Parliament was even aware of the exclusions that this element embeds in it. It follows of course that there is nothing in the background to the legislation that explains why the government might wish to not provide the CCB to parents who will be remaining in Canada for what may be an indefinite period of time.
+[73] The legislative history of s. 122.6 stretches back to the 1940’s when Canada first introduced family allowance payments. In 1979 Canada introduced refundable and non-refundable child tax credits and in 1992 the government brought these programs together in the form of a child tax benefit under newly enacted s. 122.6 of the ITA.
+[74] There is very little in the legislative history that touches on the interplay of s. 122.6 and the immigration regime. However, a 1992 hearing before the Senate’s Standing Committee on Social Affairs Science and Technology did include testimony to the effect that eligibility requirements were being enhanced to extend benefits to refugees.[29]
+[75] In the years that followed, s. 122.6 was amended from time to time to mirror changes in immigration legislation, to expand the scope of the program, now renamed to the Canada Child Credit, and to ensure that Indians within the meaning of the Indian Act were considered eligible individuals.
+[76] However, at no time after 1992 is there any record showing that Parliament was aware that gaps existed that deprived parents of CCB because they were allowed to remain in Canada not as ‘protected persons’ but merely as persons whose removal had been stayed.
+[77] In February 2001, Bill C-11, which became the Immigration and Refugee Protection Act was introduced to streamline and simplify the refugee claim process.[30] Under the new regime, serious criminals would be simply excluded from the refugee determination process.[31]
+[78] Bill C-11 included co-ordinating amendments[32] to the definition of ‘eligible person’ in the ITA to update references to the IRPA and its statutory scheme instead of to the Immigration Act.
+[79] Absent from the Parliamentary debates on IRPA or the co-ordinating ITA amendments was any recognition of possible collateral impacts on legislation that build upon the more stringent IRPA, such as the ITA. This oversight was exacerbated by the intent of the legislation to speed up the removal process of ineligible claimants, while completely overlooking what might happen when it became apparent that they could not in fact be removed and that they represented no risk if they remained in Canada.
+[80] The acute difficulty in appropriately tailoring immigration legislation was highlighted by Senator Marjorie Lebreton who noted in committee that:
+We are on the horns of a dilemma. The minister and the government tell us we must pass the bill immediately to deal with this new threat. He tells us we should go slowly and take time to examine the bill carefully. He went on to point out the legislation is complex, detailed and multi-step. It lacks fairness in some respects, denies international standards in some respect and drags out proceedings unnecessarily.[33]
+Those comments, made in the context of an accelerated committee review following the 9-11 attacks, would have been even more prescient had the Senator’s attention been drawn to the collateral tax consequences of the regime both pre- and post amendment.
+[81] I am not the first Judge of this Court to flag the underinclusive nature of s. 122.6 of the ITA. The matter was raised some 25 years ago in the Kwawukumey decision. In that case Justice Campbell Miller was presented with an appellant who had been denied refugee status but who benefitted from a deferred removal order on humanitarian grounds. He eventually was granted refugee status but not until after the time period in issue.
+[82] Like me, Justice Miller systematically ruled out every category of admissibility that would have entitled the appellant to the Child Tax Benefits in issue (this being the predecessor benefit to the current CCB regime. He concluded that the appellant was falling through the cracks of the system because, legislators lacked a comprehensive understanding of the interplay between the tax and immigration regimes and so omitted to provide benefits to someone who they would have wanted to include. I reproduce, Justice Miller’s statement on the matter:
+What is to be done when someone falls between the cracks of legislation, as that is certainly how I perceive this matter. For someone to qualify as an eligible individual under section 122.6 of the Act required more than mere residence: it required citizenship, permanent residence, visitor status, holder of a permit or convention refugee status. Had the legislators been intimately familiar with the amended regulations under the immigration laws, I believe someone with Mr. Kwawukumey's status would have likewise been contemplated by this list. I cannot however operate on conjecture. Neither Mr. Kwawukumey nor his wife "fit" which is most regrettable. If there was any way to fit a square peg into a round hole I would like to have found it. Unfortunately I have been unable to do so. I considered the purposive approach to statutory interpretation which might allow the ordinary meaning of a provision to be rejected in favour of an interpretation more consistent with the purpose; however this approach is only available if the preferred interpretation is one the words are capable of bearing. The words "permanent resident", "visitor" and "holder of a permit" are so readily definable by the Immigration Act I cannot interpret any of them to include a person holding a Working Authorization under the Deferred Order Removal Class, even though the purpose would have been met by including such a person.[34]
+[83] It is unfortunate that Justice Miller’s decision was released in July 2001, after Bill C-11 had been passed by the House of Commons but before it was passed by the Senate and more specifically, shortly before the 9-11 attacks which loomed large in the Senate’s review of C-11. In any event, I have been unable to find in any of the debates on the IRPA any references to the issues raised by Justice Miller.
+Conclusion [84] I reluctantly dismiss Mr. Mohamed’s appeal. He is not an eligible individual within the meaning of s. 122.6 of the ITA because he is not a “protected person” within the meaning of IRPA. His Charter arguments cannot advance because his prior criminal history status is not per se an analogous ground under s. 15 of the Charter. It could form the basis of an intersectional analysis as was the case in Kanyinda but there is no evidence before me to engage in that analysis.
+[85] I very much regret this decision coming as it does some 25 years after an almost identical problem was flagged by this Court for the consideration of Parliament and then ignored.
+Signed this 6th day of May 2026.
+“Michael Ezri”
+Ezri J.
+CITATION:
+2026 TCC 72
+COURT FILE NO.:
+2025-1242(IT)I
+STYLE OF CAUSE:
+ABDIWELI A. MOHAMED AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+November 24, 2025 and March 9 and 10, 2026
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Michael U. Ezri
+DATE OF JUDGMENT:
+May 6th, 2026
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Allanah Smith, Anna Kozak
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N-A
+Firm:
+N-A
+For the Respondent:
+Marie-Josée Hogue
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Ex A5, redacted reasons for stay of removal dated July 18, 2023.
+[2] Xie v R. 2004 FCA 250, leave to appeal ref’d 2004 SCCA No. 418.
+[3] Ibid, para 27-28.
+[4] Ibid, para 30.
+[5] Ibid, para 40.
+[6] Li v Canada 2010 FCA 75, para 51.
+[7] Quebec (Attorney General) v Kanyinda, 2026 SCC 7, para 51.
+[8] Ibid
+[9] Ibid. para 209.
+[10] Ibid. para 346.
+[11] Ibid, para 72 and 82.
+[12] Ibid, para 85-86
+[13] Ibid.
+[14] Toussaint v Canada (AG), 2001 FCA 2013, para 99, and Almadhoun v Canada (AG), 2018 FCA 112, para 28.
+[15] Yao, v R, 2024 TCC 19, para 93.
+[16] Ibid, para 184.
+[17] Ibid. para 186-188.
+[18] Ibid. para 199-200.
+[19] Thibault v Ontario (AG) 2025 ONSC 647 (Div. Ct.).
+[20] Ibid. para 64.
+[21] Ibid. paras 65-71, esp para.67-69.
+[22] Ibid. citing to Corbiere v Canada (Minister of Indian and Northern Affairs), [1999] 2 SCR 203, para 13.
+[23] Yao, supra note 15, para 101.
+[24] Leaving aside “refugee claimants” a category to which Mr. Mohamed does not belong.
+[25] T. Rahimian, “Parental Undocumented Status as an Analogous Ground of Discrimination” (2020), 16 J.L. & Equality 93.
+[26] Kanyinda, supra note 8, para 221.
+[27] Ibid, p. 104.
+[28] Ibid, p. 105
+[29] Senate, Standing Committee on Social Affairs, Science and Technology, 34-3, (7 October 1992) at 21:23—21:24, 21:29.
+[30] Enacted as Immigration and Refugee Protection Act, SC 2001, c. 27.
+[31] Evidence of Hon. Elinor Caplan, Minister of Citizenship and Immigration; Senate, Standing Committee on Social Affairs, Science and Technology, ( 4 October 2001) 37-1.
+[32] Supra, note 30, c. 27 s. 254.
+[33] Ibid, statement of Senator Marjorie Lebreton.
+[34] Kwawukumey v R, [2001] 4 CTC 2566 (IP), para 14.

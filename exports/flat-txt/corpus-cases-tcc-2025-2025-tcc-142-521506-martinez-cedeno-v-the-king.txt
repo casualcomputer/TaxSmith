@@ -1,0 +1,105 @@
+Title: Martinez Cedeno v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521506/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-142-521506-martinez-cedeno-v-the-king.md
+Document type: case_law
+Last modified: 2025-10-07
+
+# Martinez Cedeno v. The King
+
+- Citation: 2025 TCC 142
+- Decision date: 2025-10-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5438, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martinez Cedeno v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-10-07
+Neutral citation
+2025 TCC 142
+File numbers
+2023-2115(IT)I
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2023-2115(IT)I
+BETWEEN:
+DINORAH PATRICIA MARTINEZ CEDENO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on October 1, 2025, at Yellowknife,
+Northwest Territories
+Before: The Honourable Justice David E. Graham
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Levi Smith
+JUDGMENT
+The appeal of the reassessment of the Appellant’s 2021 tax year is dismissed without costs.
+Signed this 7th day of October 2025.
+“David E. Graham”
+Graham J.
+Citation: 2025 TCC 142
+Date: 20251007
+Docket: 2023-2115(IT)I
+BETWEEN:
+DINORAH PATRICIA MARTINEZ CEDENO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] I am publishing these reasons because I need to draw attention to conduct of the Canada Revenue Agency that is potentially depriving taxpayers of their legal rights of appeal and wasting this Court’s resources.
+[2] Sometimes a taxpayer, like the Appellant, reports their province or territory of residence as a certain province or territory on their tax return and the CRA decides that it was, in fact, a different province or territory. As a result, the CRA reassesses the taxpayer.[1] The taxpayer then files a notice of objection with the CRA to dispute the reassessment. This is the appropriate step to take. If the CRA sticks to its position, it then issues a notice of confirmation. This is where the problem arises.
+[3] Normally, after receiving a notice of confirmation, a taxpayer can continue their dispute by filing a notice of appeal with the Tax Court of Canada. The notice of confirmation helpfully tells taxpayers how to do so. However, when the problem involves a dispute over whether the taxpayer was a resident of one province or territory and another, then the next step depends on the laws of the province or territory that the CRA thinks the taxpayer resided in. The Tax Court has no jurisdiction to hear an appeal relating to provincial tax unless the province in question has conferred jurisdiction on the Court (Quigley v. The Queen[2]).
+[4] For example, if, as happened in the Appellant’s case, the CRA thinks that the taxpayer resided in Ontario instead of Nunavut, then the taxpayer is not able to continue their fight by appealing to the Tax Court. Instead, they must appeal to the Ontario Superior Court of Justice (s. 125(2) of the Taxation Act (Ontario)[3]).
+[5] The problem is that the notices of confirmation that the CRA issues to taxpayers in these circumstances still tell the taxpayer to appeal to the Tax Court. As a result, taxpayers who dutifully follow the CRA’s instructions end up in the wrong court. By the time the Tax Court hears their appeal and tells them that they are in the wrong court, it may be too late for them to appeal to the correct court.
+[6] To their credit, the lawyers at the Department of Justice do draw this to taxpayers’ attention but, too often, self-represented taxpayers are left uncertain who to listen to and simply continue their appeals.
+[7] The Appellant’s appeal is the third time in two years that I have seen this problem. It is unfair to mislead taxpayers in this manner and potentially deprive them of their rights to appeal. Notices of confirmation should contain accurate information.
+[8] I understand that it might be more complicated if a reassessment involves both a residence issue and an issue involving federal tax. For example, a change of residence from Nunavut to Ontario combined with a downwards adjustment in the northern residents deduction would complicate the instructions the CRA would need to give to taxpayers in a notice of confirmation. This is because the first issue would fall outside the Tax Court’s jurisdiction while the second issue would fall within it. But the CRA should nonetheless make the effort to correctly point taxpayers to the court or courts where they need to file their appeal or appeals.
+[9] I recognize that the Appellant’s notice of confirmation was issued in July 2023 and that it is possible that the CRA has already changed its practices. If that is the case, then I applaud the change. However, I do not know whether a change has yet been made and I am unwilling to stay quiet in the hope that it has.
+[10] I told the Appellant that my reasons for judgment would focus far more on the CRA’s conduct than on her specific appeal. She understands that, because she followed the CRA’s advice, she appealed to the wrong court and I had no choice but to dismiss her appeal. She asked that I publish these reasons in the hope that others will not face the same problem.
+[11] I have intentionally avoided commenting on the specific facts of the Appellant’s appeal or my thoughts on whether she was a resident of Nunavut or Ontario as it is not my place to either hear or comment on such evidence when the Court lacks jurisdiction to hear the appeal.
+Signed this 7th day of October 2025.
+“David E. Graham”
+Graham J.
+CITATION:
+2025 TCC 142
+COURT FILE NO.:
+2023-2115(IT)I
+STYLE OF CAUSE:
+DINORAH PATRICIA MARTINEZ CEDENO v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Yellowknife, Northwest Territories
+DATE OF HEARING:
+October 1, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+October 7, 2025
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Levi Smith
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Section 120 of the Income Tax Act allows the Minister of National Revenue to determine a taxpayer's income earned in the year in a province. Under section 35 of the Interpretation Act, provinces include territories.
+[2] 2009 FCA 287, at para. 5.
+[3] SO 2007, c. 11, Sched A, as amended.

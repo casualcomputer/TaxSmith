@@ -1,0 +1,147 @@
+---
+title: "Neenah Paper Company of Canada, formerly known as Kimberly-Clark Nova Scotia Limited v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25661/index.do"
+last_modified: "2005-05-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 302"
+citation2: ""
+neutral_citation: "2005 TCC 302"
+decision_date: "2005-05-09"
+language: "en"
+item_id: "25661"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3828
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:44:22.262000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2da007534a8a1d012bc57494a0c963947f30a52db19346e847fb1dc8e3e3b255"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Neenah Paper Company of Canada, formerly known as Kimberly-Clark Nova Scotia Limited v. M.N.R.
+
+- Citation: 2005 TCC 302
+- Decision date: 2005-05-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3828, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Neenah Paper Company of Canada, formerly known as Kimberly-Clark Nova Scotia Limited v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-09
+Neutral citation
+2005 TCC 302
+File numbers
+2004-3821(EI)
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Employment Insurance Act
+Decision Content
+Citation 2005TCC302
+Date: 20050509
+Docket: 2004-3821(EI)
+BETWEEN:
+NEENAH PAPER COMPANY OF CANADA,
+Formerly known as Kimberley-Clark Nova Scotia Limited,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+(Edited from the transcript of Reasons for Judgment delivered orally from the Bench on March 17, 2005 at Halifax, Nova Scotia)
+REASONS FOR JUDGMENT
+CampbellJ.
+[1] The Appellant has appealed a determination made by the Minister that the worker, Layton Desmond, was employed in insurable employment with the payor/Appellant pursuant to a contract of service within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (the "Act"). The period under appeal is January 1, 2003 to January 16, 2004. The issue to be decided is whether the worker was engaged in insurable employment with the Appellant for the period under appeal, or, more simply stated, whether the worker was an employee or an independent contractor. The onus is on the Appellant to overcome or demolish the assumptions of fact as they are listed at paragraph 13 of the Respondent's Reply to the Notice of Appeal. Those assumptions of fact are as follows:
+a) the facts admitted above;
+b) the Worker was hired by the Appellant as part of a crew of 4 for the maintenance of the filter plant;
+c) the Worker was a filter press operator and his duties were to run the press and carry out maintenance and repairs;
+d) the Worker has a certificate in Waste Water Treatment;
+e) the Appellant reserved the right to add extra duties as it saw fit;
+f) the Worker was required to work on site 40 hours a week, 8 hours a day, including weekend shifts;
+g) the Worker had to be available for emergency calls outside his normal hours of work;
+h) the Worker had to submit time sheets to the Appellant;
+i) the Worker was paid a set weekly salary, with yearly increases;
+j) the Worker did not receive overtime pay but was allowed to take time off for any overtime worked because of emergencies;
+k) the Worker was given 5 weeks of paid vacation each year and at least 5 days of paid sick leave;
+l) the Appellant had first call on the Worker's time;
+m) the Worker had to perform the services personally;
+n) the Appellant paid for any training the Worker required and paid a membership fee to the Maritime Waste Water Operations Association to have access to training at a reduced rate;
+o) the Worker was supervised in the performance of his duties and had to report to the Appellant on a regular basis;
+p) any decisions made by the Worker were subject to the Appellant's approval;
+q) the Appellant would bear the cost of redoing any incorrect or incomplete work performed by the Worker;
+r) all the tools and equipment required were provided by the Appellant including an on-site vehicle;
+s) the Appellant retained the right to terminate the Worker's employment; and
+t) the services performed by the Worker were a necessary and integral part of the Appellant's operation.
+[2] The Appellant relied on the evidence of both the worker and Mr. Wark, the human resources leader for the Appellant. The Respondent called one witness, Charlene Moore, the appeals officer.
+[3] During the period under appeal the Appellant operated a mill at Abercrombie Point in Nova Scotia for the purpose of manufacturing bleached craft pulp. During this period and at other times the worker was a member of a crew of four that maintained the filter plant which is located 10 to 15 kilometres from the mill. As I understood Mr. Desmond's evidence, the filter plant separates the by-product from the mill. The solids, which the plant separates from the water, are stockpiled and eventually these solids, which are the wood chips, are trucked back to the mill to be burned. This process prevents much of the by-product escaping into and polluting the Northumberland Strait.
+[4] Mr. Desmond is a filter press operator. He worked at this plant between 1994 and 1996 as an employee for the Province of Nova Scotia. It was his evidence that when Scott Paper purchased the mill in 1996 he continued to work at the plant but as an independent contractor. His contract for work was introduced as Exhibit A-1 at Tab 2. It was executed in December 2002, for the period January 1, 2003 to December 31, 2005. He stated he executed it voluntarily and that he had an opportunity to discuss it. The contract identified the worker as an independent contractor and not an employee of the Appellant. His evidence was that he understood himself to be an independent contractor. He stated that he was responsible for maintenance of the whole plant, including taking water samples, readings, water levels, running the filter press, repairing pumps, electrical work and some computer work.
+[5] In respect to the assumptions in the Reply to the Notice of Appeal, Mr. Desmond disagreed with or clarified 15 of the 19 assumptions relied on by the Minister of National Revenue (the "Minister"). Desmond agreed with assumptions (c), (l), (m) and (n). He clarified assumption (b), stating that he was not hired by the Appellant but that he signed a contract to work as an independent contractor for the Appellant. He does not have a certificate in waste water treatment as alleged in assumption (d). He disagreed with (e), as he did not believe there could be any other services that the Appellant could add to the services listed in Appendix "A" of the contract. He added that he has never been asked to do anything additional. He flatly disagreed with (f), stating that he worked flexible hours. His usual daily hours would be 8:00 a.m. till 3:00 or 4:00 p.m., but he testified he could show up for work at different times and that no one dictated when he would report for work or leave the plant. Every weekend one of the crew of four had to attend the plant to pick up samples and complete readings. This took approximately one hour on each Saturday and Sunday and Desmond stated he could do this any time on each of these weekend days. Desmond also disagreed with (g), explaining that an emergency call was made to one of four individuals on a list and if someone was not available or did not respond they called the next person on that list. He was, in fact, third on this list. He disagreed with (h), as he stated that time sheets were not kept even though they were referred to in Appendix "A" to the contract. He stated that he did not punch a time clock, nor did he submit his hours to the Appellant. Desmond disagreed with the wording in (i), as he stated that he received a weekly pay and not a salary. On cross-examination he clarified that he felt "salary" meant payment plus benefits and he did not receive benefits. Paragraph 6 of the contract referred to "compensation for all services" and to the term "some". In respect to assumption (j) Desmond agreed partially with this assumption, but again clarified that if he worked one or two hours of overtime then he could take an entire day off. He explained that it had to be within reason but that it was up to himself what time he took off. He also stated that he took Fridays off when this happened and that he could choose which day of the week he would take off from work. He disagreed with (k). Paragraph 8 of the contract allowed Desmond to be absent from his work for five weeks for personal reasons. He stated this was not for vacation time and that the basis of entitlement was simply the provision of his services. Desmond also disagreed with the wording of assumption (o) in that it referred to duties performed for the Appellant while the term "services" was used in the contract, and as well the appendix to the contract. He went on to explain that he was not supervised and there was no one there to tell him what to do. A company representative, Joe Van Buskirk, sometimes came by the site for 15 minutes to half an hour but this did not occur every day. In fact, in 2003, on cross-examination, he stated that it was only once per week. This individual became involved with bug tours at the harbour and was at the site more often, however he did not give Desmond orders or instructions, and if he did try to give orders, Desmond stated he would simply walk away from him or just ignore him. He stated that his primary connection to this individual was for ordering parts when he needed them at the plant. He went on to state that he did not report in any way to the Appellant. He disagreed with (p) because he said he made decisions without the Appellant's approval, although he might inform them. He clarified (r) by explaining that the crew shared the equipment and tools which consisted of motors, pumps, a five-tonne truck and the filter press, which would be too large to take back and forth to the work-site. With respect to assumption (s), Desmond disagreed with its reference that he was employed and stated that the Appellant had the right to terminate his work but that he also had the same right of termination. And regarding the last assumption, (t), he stated that the mill could operate without the plant but that the plant was integral only in respect to helping the environment.
+[6] The worker also completed a questionnaire and returned it to Canada Revenue Agency ("CRA"), which was at Tab 1 of Exhibit A-1. In respect to 5(a) of the questionnaire, he wrote that he was paid by "salary" but testified that it was a "weekly sum" that he was paid and this word or term was not contained within the body of the questionnaire as a choice, although the term "salary" was. Therefore he chose "salary" when answering the question. In respect of Question 7 where he answered that the hours of operation of the business was 24 hours per day, he clarified that he was referring to the mill, not the plant. Some of his answers, particularly to Questions 8 and 12, were different from his testimony but he testified that he did not "know why I put it down that way but it's wrong".
+[7] On cross-examination Respondent counsel took Desmond through each of the services listed in Appendix "A" to the contract. He testified that he filled in daily log sheets for monitoring various items but that these records were filed away and not submitted to the Appellant. He said he simply answered the phone by saying "Hello" without a business greeting or any reference to the Appellant. He explained that if a problem was encountered, for example a pH balance problem, he simply called a number to report it but that the plant crew did not take initiative to fix the problem, as it generally originated with the mill and not with the plant. He admitted that he did not know what the BOD or SS levels should be or how much of these products could be sent into the harbour. He also testified that if he was sick he called the plant and simply informed one of the members of his crew. He also stated that he struck the agreement on his overtime and time off with a company representative, Joe Van Buskirk, but that it was nothing formal and simply referred to in casual conversation.
+[8] The Appellant's second witness, Mr. Wark, testified that the mill employed 250 employees who are unionized and approximately 75 salaried staff. They receive a full benefit package, including life insurance, pension, medical/dental, short-term and long-term disability, vacation and some minor items such as bereavement pay and jury duty. Most of these were non-contributing benefits by employees except for the pension. He explained that the Appellant also engaged independent contractors who did not receive any benefits. The witness stated that he was aware that Desmond was an independent contractor. Independent contractors were paid 25 to 30 percent more per hour than employees were paid. As human resource leader, he had access to salary studies for comparable jobs of employees. The base hourly rate of the independent contractor is then grossed up.
+[9] On cross-examination Mr. Wark testified that the contract with Desmond was a contract to operate the plant and for services to operate the treatment facility in an ongoing basis. He viewed the Appendix "A" to the contract as containing an articulation of the broad functions or services required in operating the treatment plant. Workers' Compensation was paid by the Appellant because he felt that under that Act the Appellant might be obliged to pay this even with respect to independent contractors. With respect to paragraph 8 of the contract, which was "time off for personal reasons", he stated that because the services required more than one contract worker and no one could work an entire 52 weeks per year without time off, it was simply a fairness issue that the Appellant felt it was the right thing to do with these independent contractors.
+[10] The appeals officer, Charlene Moore, reviewed Exhibit R-1, her report on the appeal determination. She also forwarded the questionnaire to Desmond for completion, as well as the employer. She reviewed the Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025 four fold test which she employed in her analysis to arrive at her conclusion that Desmond was not self-employed but an employee of the Appellant.
+Analysis:
+[11] I have no reason to reject any of Mr. Desmond's evidence. He presented himself as an honest, straightforward individual and I accept what he told me as credible. He disagreed with the majority of the Respondent's assumptions and provided plausible explanations as to why he did disagree. Many of the assumptions are just clearly incorrect, including such basic assumption as (d) where the Respondent relied on the statement that the worker has a certificate of waste water treatment when he does not and also assumption (h) which stated the worker had to submit time sheets to the Appellant when he did not. The worker clearly considered himself an independent contractor in 2003 and executed an agreement in December 2002 to reflect such a work relationship with the Appellant. He considered his work extended to the very broad spectrum of operating the entire plant with the other three crewmembers. He was able to explain the full gamut of his services, and they certainly extended beyond operation of the press together with repairs as contended in assumption (c). His services ensured the overall safe and efficient operation of the plant as contemplated in paragraph 5 of his contract. According to both Desmond and Wark, Appendix "A" was simply the detailed breakdown of the services which would be essential to accomplish this. Although paragraph 5 referred to other services that the Appellant could direct Desmond to complete from time to time, Wark's evidence on cross-examination was that the Appellant might have to add or delete services as dictated by environmental and safety regulations and rules that change through time and ultimately are imposed on the Appellant. Paragraph 5 concludes by referring to the Appellant changing the times for performance of these services but only "after prior consultation with Desmond". This is not the usual clause that one would expect to find in an employment relationship of employee and employer. Here for simple time changes of services, the Appellant had to first consult Desmond. It is clear from the worker's evidence that his hours were flexible. There were no time sheets. He came to work and left according to his own schedule. If he worked overtime he tracked it himself and decided which day of the week he would take off. I do believe that the worker felt he had to be available for emergency calls. If he was ill or simply not available, however, he knew there were several others on the list that could be called. In fact, this worker was, I believe, third down on the list. Neither Desmond nor Wark characterized the time off for personal reasons as vacation and the contract does not label it in that manner. The evidence of two witnesses plus the contract itself certainly overcomes assumption (k) which refers to vacation time. The worker clearly was not supervised. The only contact person was a company representative who was on the site, before he started his bug tours, maybe 15 minutes to half an hour per week in 2003. He was little more than the conduit through which the worker relayed his request for equipment parts. This request was never questioned, nor apparently refused. In fact, Van Buskirk had absolutely no control over the worker, who stated that he simply disregarded or did not listen to Van Buskirk when he tried to give instructions. I believe Desmond referred to it as Van Buskirk - and I quote - "speaking his mind" rather than something akin to orders or instructions. Desmond's evidence is uncontradicted that he made decisions in consultation with his crewmembers, who were also independent contractors but certainly without any reference to input from the Appellant. The right to terminate on notice belonged equally to the Appellant and to the worker.
+[12] With respect to the inconsistencies between the worker's oral testimony and some of the responses contained in the questionnaire, I believe the worker had difficulty completing a rather lengthy questionnaire. He has grade nine education, and while I am not taking anything away from this witness because of this, I believe it is just logical and reasonable to conclude that he could not complete it with the same care and understanding as someone with more schooling. However, he gave his evidence competently before this Court and I accept his evidence that some of his questionnaire replies were simply wrong as he either did not think about the answers or he chose some of the suggested answers which were contained in the questionnaire's wording.
+[13] The case of Wiebe Door sets out a four fold test as the basis upon which such appeals are to be decided. One of the key elements in deciding if an individual is an employee or an independent contractor is supervision or control. The work relationship here is not a typical one but clearly there was little, if any, potential for supervision of the worker in his operation of the plant. The parties freely contracted in an open market to set out the list of services in the appendix to the contract. The worker agreed to be paid an amount over a period of ime to operate the plant and agreed to complete the services outlined. He was free of interference or control by the Appellant. The only individual who had any contact with the worker was Joe Van Buskirk, who in the end was simply a liaison person who ordered equipment parts pursuant to the worker's direction. Van Buskirk had absolutely no control or potential for control beyond this. If he tried to give advice, the worker walked away, ignoring him. Desmond kept no time sheets, he dictated his own hours, he decided when he would complete the services required to operate the plant efficiently, within the guidelines of Appendix "A" and he decided which day he would take off if he worked overtime. He kept logs of the testings, but these records were simply filed and never given to the Appellant. The evidence does not even hint that the Appellant may have ever reviewed these logs. There is no evidence the worker ever reported to the Appellant in any manner or that the Appellant expected him to do so. Even the evidence, on such a basic task as answering the phone, is indicative that the Appellant had no presence in the operation of the plant as the worker merely said "Hello" without identifying it as part of the Appellant's business operations. The element of control strongly favours the relationship as one of independent contractor and not employee.
+[14] The next factor, ownership of tools, is a neutral factor here. The smaller tools were shared by the crew. The larger tools, such as the press, are simply something that would have to be stationary on the site in any event.
+[15] The worker here was exposed to a huge risk factor. According to Wark's evidence, the mill's employees and staff were entitled to comprehensive benefit packages down to the fine details of jury duty compensation. The worker had absolutely none of these, and of course that is a loss factor that the percentage of grossing up could not completely compensate. In addition, he had no job security beyond the time limit specified in his contract. The evidence of both the worker and Wark, including the contents of the contract, do not indicate that the five-week period was considered vacation but was given to the worker by a fair and reasonable employer who recognized that even the independent contractor required time away from his work. Overall the worker assumed financial risks for higher pay than the mill employees and staff received but enjoyed the advantage of flexible hours and days off together with a work environment where, as the worker put it - "there was no one bossing us around". These factors clearly point again to an independent contractor relationship.
+[16] The mill and the plant are interrelated only to the extent the mill had to comply with environmental regulations. The mill operated independently from the plant. It was a necessary adjunct to the mill but it is clear that the Appellant intended that the operation of the plant be contracted out and that the worker was fully aware that he entered this contract as an independent contractor and not as an employee. The integration test is not as significant a factor as the other elements, and in any event, should be viewed from the perspective of the worker. From the worker's perspective, he contracted to provide his expertise and experience to operate the plant within the guidelines of the contract. At the conclusion of the contract he was free to negotiate again with the Appellant or look elsewhere for work.
+[17] The majority of these factors point to an independent contractor relationship. In addition, I am supported in my conclusions by the contract between the parties. I believe this contract was entered into fairly. The intention of the parties was clear. The evidence of the worker and the Appellant's representative substantiate this. They had a mutual understanding of their working relationship that was properly and legally committed to writing. Unless there is clear evidence of a sham or an intent to achieve some unlawful benefit, or unless one party has been clearly disadvantaged in its bargaining position, I do not believe the courts should lightly interfere with taxpayers who choose to legitimately arrange their affairs to achieve some lawful end result. The oral evidence here clearly supports the contractual relationship outlined in the contract and I allow the appeal on the basis that the worker is an independent contractor and not an employee.
+Signed at Ottawa, Canada, this 9th day of May 2005.
+"Diane Campbell"
+Campbell J
+CITATION
+2005TCC302
+COURT FILE NO.:
+2004-3821(EI)
+STYLE OF CAUSE:
+Neenah Paper Company of Canada, Formerly known as Kimberly-Clark Nova Scotia Limited and
+The Minister of National Revenue
+PLACE OF HEARING
+Halifax, Nova Scotia
+DATE OF HEARING
+March 15, 2005
+REASONS FOR JUDGMENT BY:
+the Honourable Justice Diane Campbell
+DATE OF ORAL JUDGMENT
+March 17, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Bruce S. Russell, Q.C.
+Counsel for the Respondent:
+Edward Sawa
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Bruse S. Russell, Q.C.
+Firm:
+McInnes Cooper
+Halifax, Nova Scotia
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

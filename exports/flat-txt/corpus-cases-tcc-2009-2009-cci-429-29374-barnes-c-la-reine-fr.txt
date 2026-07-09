@@ -1,0 +1,117 @@
+Title: Barnes c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29374/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-429-29374-barnes-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-09-01
+
+# Barnes c. La Reine
+
+- Citation: 2009 CCI 429
+- Decision date: 2009-09-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6865, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barnes c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-01
+Référence neutre
+2009 CCI 429
+Numéro de dossier
+2008-2407(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2407(IT)I
+ENTRE :
+COLIN J. BARNES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 août 2009, à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Rishma Bhimji (étudiante en droit)
+Me Elizabeth Chasson
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu à l’égard de l’appelant pour l’année d’imposition 2005 est rejeté sans dépens conformément aux motifs ci‑joints.
+Signé à Ottawa, Canada, ce 1er jour de septembre 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 16e jour de septembre 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 429
+Date : 20090901
+Dossier : 2008-2407(IT)I
+ENTRE :
+COLIN J. BARNES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] L’appelant a demandé un crédit d’impôt pour frais médicaux (le « CIFM ») en vertu de l’alinéa 118.2(2)l.2) à l’égard du coût d’une piscine installée pour sa fille Zoë et utilisée principalement par elle à des fins de physiothérapie et de soulagement de certains symptômes de son handicap moteur grave et prolongé. La Couronne est d’avis que, malgré le soulagement que la piscine procure à sa fille, la piscine ne satisfait pas exigences prévues à l’alinéa 118.2(2)l.2).
+[2] Zoë est maintenant adolescente et, depuis sa naissance, elle souffre d’hémiplégie associée à des lésions cérébrales, ainsi que de paralysie cérébrale affectant le côté droit de son corps. Ce trouble affecte sa démarche et fait en sorte qu’elle traîne les membres du côté droit. Elle souffre également d’épilepsie et est sujette à avoir des crises violentes. L’épilepsie peut aggraver son hémiplégie, et inversement. À la suite d’une crise, il faut jusqu’à six mois à Zoë pour retourner à l’état dans lequel elle se trouvait auparavant. Ces troubles médicaux affectent sa capacité de marcher, de s’habiller et d’aller aux toilettes.
+[3] Elle reçoit des traitements de physiothérapie en permanence pour les troubles dont elle souffre. L’exercice aide également sensiblement. Les variations de température et du taux d’humidité affectent également son état.
+[4] Zoë participe au programme de natation des Jeux Olympiques spéciaux et s’entraîne à cette fin. Son entraînement comprend un programme de renforcement de l’endurance physique. Le programme des Jeux Olympiques spéciaux s’étend du mois de septembre au mois d’avril ou de mai chaque année.
+[5] La natation a été fortement recommandée par les deux neurochirurgiens de Zoë à des fins thérapeutiques pour améliorer ses fonctions et ses capacités neuromusculaires. En plus de la faire participer au programme de natation des Jeux Olympiques spéciaux, le physiothérapeute de Zoë a eu recours à la natation dans le cadre des traitements de physiothérapie de Zoë. La natation permet à Zoë d’avoir plus de force et un meilleur contrôle, ce qui a comme conséquence directe d’améliorer sensiblement sa capacité à monter les marches, à s’habiller et à aller aux toilettes seule.
+[6] Les parents de Zoë ont décidé de faire installer une piscine de taille modeste dans leur cour arrière afin d’aider Zoë pour ses traitements permanents de physiothérapie pendant les mois où elle ne pouvait pas participer au programme de natation des Jeux Olympiques spéciaux. Il s’agit d’une piscine ordinaire qui n’a pas été conçue sur mesure pour Zoë. Elle occupe presque toute la cour. Elle est principalement utilisée par Zoë et pour elle. Ses parents s’inquiétaient du fait que le programme de natation des Jeux Olympiques spéciaux de Zoë ne se poursuivait pas pendant les mois d’été chauds et humides qui avaient pour effet d’aggraver son état. Pendant la période estivale chaude et humide, Zoë ne pouvait pas faire d’autres types d’exercices comme la bicyclette, étant donné qu’ils causaient des crises. De plus, aucun traitement de physiothérapie par hydrothérapie n’était offert aux enfants dans les hôpitaux communautaires. Ce genre de traitement était seulement offert à deux hôpitaux situés au centre‑ville de Toronto. Pendant l’été, le physiothérapeute de Zoë et ses parents travaillaient avec elle dans la piscine. Zoë n’est pas bien accueillie dans une piscine publique et ce genre de piscine n’est pas bien aménagée pour elle. Selon le physiothérapeute de Zoë, le fait que Zoë avait accès à une piscine à la maison l’été l’a beaucoup aidée dans ses traitements de physiothérapie de réadaptation et la piscine est complément nécessaire à l’ensemble du programme de physiothérapie de Zoë.
+[7] Avant que les modifications n’aient été apportées aux dispositions relatives au CIFM dans la Loi de l’impôt sur le revenu (la « Loi ») en 2005, les dépenses engagées dans un cas comme celui de Zoë auraient été admissibles. Zoë ne jouit pas d’un développement physique normal et a un handicap moteur grave et prolongé. La piscine lui permet de mieux se déplacer dans son habitation et d’y accomplir les tâches de la vie quotidienne.
+[8] En 2005, le législateur a modifié la disposition prévoyant le CIFM en question en ajoutant les sous‑alinéas (i) et (ii) à l’alinéa 118.2(2)l.2). Les sous‑alinéas ont été ajoutés à la suite de décisions de la Cour et d’arrêts de la Cour d’appel fédérale dans lesquels il avait été statué que les frais engagés pour l’achat de cuves thermales et de planchers en bois franc étaient des frais admissibles dans des circonstances appropriées.
+[9] Aux fins de l’appel interjeté par Colin Barnes (« M. Barnes ») pour l’année 2005, la disposition prévoit ce qui suit :
+(2) Frais médicaux – Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+[...]
+l.2) pour les frais raisonnables afférents à des rénovations ou transformations apportées à l’habitation du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a) — ne jouissant pas d’un développement physique normal ou ayant un handicap moteur grave et prolongé — pour lui permettre d’avoir accès à son habitation, de s’y déplacer ou d’y accomplir les tâches de la vie quotidienne, pourvu que ces frais, à la fois :
+(i) ne soient pas d’un type dont on pourrait normalement s’attendre à ce qu’ils aient pour effet d’augmenter la valeur de l’habitation,
+(ii) soient d’un type que n’engagerait pas normalement la personne jouissant d’un développement physique normal ou n’ayant pas un handicap moteur grave et prolongé;
+[10] Le sous‑alinéa (i) prévoit que, en plus de par ailleurs donner droit au CIFM, les frais afférents à des rénovations ou à des transformations apportées à l’habitation ne doivent pas être d’un type dont on pourrait normalement s’attendre à ce qu’ils aient pour effet d’augmenter la valeur de l’habitation en question. M. Barnes et sa femme ont mis leur maison en vente l’année passée parce que son aménagement sur deux étages avait cessé de convenir à Zoë au fil des ans. Ils n’ont pas vendu la maison au printemps 2008. Selon le témoignage de l’agent inscripteur [traduction] « même si la piscine était très bien aménagée, elle occupait toute la cour arrière et cela avait eu une incidence négative sur le prix ». En l’espèce, je suis convaincu qu’on ne pouvait pas s’attendre à ce que la piscine des Barnes, une fois installée, ait pour effet d’augmenter la valeur de leur habitation. Le sous‑alinéa (i) n’a pas pour effet de rendre les frais engagés pour la piscine inadmissibles dans ce cas‑ci.
+[11] Le nouveau sous‑alinéa (ii) est plus problématique. Même s’il a peut-être été rédigé avec une certaine maladresse, il exige essentiellement que les rénovations ou les transformations admissibles apportées à l’habitation soient d’un type que n’engagerait pas normalement une personne jouissant d’un développement physique normal. La Couronne n’a présenté aucun élément de preuve concernant ce que les personnes jouissant d’un développement physique normal font habituellement, mais je pense que je dois admettre d’office qu’un grand nombre de Canadiens qui ne souffrent d’aucun handicap installent de telles piscines dans leur cour arrière. À mon avis, une piscine ordinaire située dans une cour arrière comme celle des Barnes ne satisfait pas à cette dernière exigence.
+[12] Il est peut‑être regrettable que, dans un cas comme celui de Zoë Barnes, cette dernière restriction s’applique peu importe la raison pour laquelle ou la mesure dans laquelle la piscine était utilisée. M. Barnes pourrait fort bien avoir raison de mettre en doute une politique qui n’accorde pas de mesures de redressement, même si la piscine a principalement été installée et qu’elle est principalement utilisée pour répondre aux besoins de Zoë. Cependant, l’intention du législateur ne saurait être plus claire. Elle est confirmée par les notes explicatives et les documents budgétaires du ministère de Finances accompagnant les modifications législatives apportées en 2005, et cela concorde avec la décision du juge Paris dans Hendricks v. The Queen, 2008 CCI 497, 2008 DTC 4852, qui portait sur l’installation de planchers en bois franc afin d’aider une personne souffrant d’asthme grave.
+[13] Cela ne veut pas dire que, dans des circonstances appropriées, une piscine conçue ou modifiée spécialement pour une personne à des fins de physiothérapie thérapeutique ne pourra pas constituer une dépense admissible.
+[14] L’appel de M. Barnes doit être rejeté pour la seule et unique raison que le sous‑alinéa (ii) impose une exigence que la piscine ne satisfait pas. Le législateur a clairement fait en sorte que la barre à franchir soit haute. La Couronne m’a vivement recommandé de façon plus générale de ne pas permettre aux piscines de donner droit à un CIFM parce que cela entraînerait une avalanche de réclamations relatives à des piscines. Je n’ai pas du tout tenu compte de cette recommandation. À mon avis, dans une affaire portant sur le crédit d’impôt pour personne handicapée ou le CIFM, il est totalement inapproprié de prendre en considération les conséquences qu’il pourrait y avoir non seulement sur la personne sur laquelle la décision a un effet préjudiciable mais aussi sur les Canadiens eux‑mêmes.
+[15] La Cour regrette de ne pas pouvoir, en vertu des dispositions de la Loi, accorder à M. Barnes les mesures de redressement demandées. La Cour lui souhaite à lui et à Zoë de continuer d’obtenir du succès dans les traitements de celle‑ci et a pu constater, d’après le témoignage de M. Barnes et les observations qu’il a présentées devant la Cour, que, pour lui, le soulagement de Zoë et les progrès qu’elle fait dans ses traitements sont vraiment plus importants que l’impôt réclamé en l’espèce.
+[16] La Loi exige que je rejette l’appel.
+Signé à Ottawa, Canada, ce 1er jour de septembre 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 16e jour de septembre 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 429
+NO DU DOSSIER DE LA COUR : 2008-2407(IT)I
+INTITULÉ : COLIN J. BARNES c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 17 août 2009
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 1er septembre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Rishma Bhimji (étudiante en droit)
+Me Elizabeth Chasson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

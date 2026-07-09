@@ -1,0 +1,250 @@
+---
+title: "Ménard Audet c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26431/index.do"
+last_modified: "2004-03-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 177"
+citation2: ""
+neutral_citation: "2004 CCI 177"
+decision_date: "2004-03-17"
+language: "fr"
+item_id: "26431"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3182
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:41:55.715000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b83fe6c68ab2d859793dc5c1c7b542b0cac8093f0d04b74a908aad6a0b090d07"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ménard Audet c. M.R.N.
+
+- Citation: 2004 CCI 177
+- Decision date: 2004-03-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3182, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ménard Audet c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-17
+Référence neutre
+2004 CCI 177
+Numéro de dossier
+2003-2687(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2003-2687(EI)
+2003-2688(EI)
+ENTRE :
+DENYSE MÉNARD AUDET,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appels entendus le 9 février 2004 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Agathe Cavanagh
+_______________________________________________________________
+JUGEMENT
+Les appels, en vertu de la Loi sur l'assurance-emploi concernant une décision du ministre du Revenu national en date du 21 mai 2003, sont accueillis et la décision rendue par le Ministre est modifiée en ce que le travail exécuté par l'appelante pour le payeur Jude Audet et pour le service de Placements Jude Audet Inc., au cours de la période allant du 1er janvier 2001 au 14 mars 2002, constituait un travail assurable et cela, pour les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour de mars 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI177
+Date : 20040317
+Dossiers : 2003-2687(EI)
+2003-2688(EI)
+ENTRE :
+DENYSE MÉNARD AUDET,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de deux appels relatifs à l'assurabilité du travail exécuté par l'appelante.
+[2] Le premier dossier porte le numéro 2003-2687(EI) et concerne la période du 1er janvier 2001 au 18 avril 2002 et le travail a été exécuté pour Jude Audet.
+[3] Le deuxième, porte le numéro 2003-2688(EI) et a trait également à une détermination du 21 mai 2003; il concerne la même période du 1er janvier 2001 au 18 avril 2002. Le payeur de la rémunération était alors la compagnie de Placements Jude Audet Inc.
+[4] Dans le dossier 2003-2687(EI), les faits pris pour acquis pour soutenir la détermination furent les suivants :
+a) le payeur exploitait une station-service;
+b) le payeur était le seul propriétaire de l'entreprise;
+c) Le 14 mai 2002, le payeur a fait faillite;
+d) l'appelante est la conjointe du payeur;
+e) l'appelante travaillait comme commis de bureau pour le payeur;
+f) les tâches de l'appelante consistaient à préparer les commandes, à faire les payes, à payer les comptes, à entrer la comptabilité sur ordinateur, à faire les dépôts et à concilier les fins de mois;
+g) selon le journal des salaires du payeur, l'appelante travaillait 40 heures par semaine alors que durant la période en litige, l'appelante apparaissait également pour 40 heures par semaine au journal des salaires de la société Placements Jude Audet Inc.;
+i) en fait, l'appelante travaillait simultanément pour les deux payeurs;
+j) avant la période en litige, l'appelante avait travaillé des années pour le payeur sans rémunération déclarée;
+k) durant toute la période en litige, l'appelante était inscrite au journal des salaires du payeur avec une rémunération de 480,77 $ par semaine alors que du 9 septembre 2001 au 18 avril 2002, l'appelante n'a reçu aucune rémunération du payeur;
+l) de plus, durant la période en litige, l'appelante a déposé deux de ses chèques de paye au compte de banque du payeur;
+m) l'appelante n'a pas déposé de plainte à la Commission des normes du travail pour du salaire impayé;
+n) l'appelante n'a pas fait de réclamation à la faillite du payeur pour le salaire impayé;
+o) durant la période en litige, la situation financière du payeur se détériorait;
+p) l'appelante a vendu de ses actifs pour financer l'entreprise du payeur;
+q) l'appelante avait un risque de perte financière dans l'entreprise du payeur.
+r) le 19 novembre 2001, le payeur a été victime de problèmes de santé le laissant inapte à s'occuper de ses biens et de ses affaires;
+s) le 14 mars 2002, l'appelante était nommée curatrice du payeur, suite à un jugement de la Cour Supérieure;
+t) depuis le 19 novembre 2001, l'appelante gérait l'entreprise du payeur;
+u) le 20 mai 2002, le payeur émettait un relevé d'emploi à l'appelante, pour la période débutant du 1er janvier 1971[sic] et se terminant le 18 avril 2002, et qui indiquait 2 120 heures assurables et une rémunération assurable totale de 5 192,37 $ pour les 27 dernières semaines de la période;
+v) après sa prétendue mise à pied, l'appelante a continué à rendre des services au payeur jusqu'à sa faillite;
+w) après sa prétendue mise à pied, l'appelante rendait des services au payeur et à Placements Jude Audet de 35 à 40 heures par semaine;
+x) le relevé d'emploi n'est pas conforme à la réalité quant à la période travaillée, quant aux heures travaillées ni quant à la rémunération reçue.
+[5] Quant au dossier 2003-2688(EI), les faits pris pour acquis pour justifier la détermination furent les suivants :
+a) le payeur a été constitué en société le 19 décembre 1989;
+b) le payeur exploitait une salle de billard;
+c) Jude Audet était l'actionnaire unique du payeur;
+d) l'appelante est la conjointe de Jude Audet;
+e) le 14 mai 2002, le payeur a fait faillite;
+f) l'appelante travaillait comme commis de bureau pour le payeur;
+g) les tâches de l'appelante consistaient à préparer les commandes, à faire les payes, à payer les comptes, à entrer la comptabilité sur ordinateur, à faire les dépôts et à concilier les fins de mois;
+h) selon le journal des salaires du payeur, l'appelante travaillait 40 heures par semaine alors que durant la période en litige, l'appelante apparaissait également pour 40 heures par semaine au journal des salaires de l'entreprise de son conjoint Jude Audet qui exploitait une station-service;
+i) en fait, l'appelante travaillait simultanément pour les deux payeurs;
+j) avant la période en litige, l'appelante avait travaillé des années pour le payeur sans rémunération déclarée;
+k) durant toute la période en litige, l'appelante était inscrite au journal des salaires du payeur avec une rémunération de 192,31 $ par semaine alors que l'appelante n'a jamais reçu de rémunération du payeur;
+l) l'appelante n'a pas déposé de plainte à la Commission des normes du travail pour du salaire impayé;
+m) l'appelante n'a pas fait de réclamation à la faillite du payeur pour le salaire impayé;
+n) durant la période en litige, la situation financière du payeur se détériorait;
+o) l'appelante a vendu de ses actifs pour financer l'entreprise du payeur;
+p) l'appelante avait un risque de perte financière dans l'entreprise du payeur.
+q) le 19 novembre 2001, le payeur a été victime de problèmes de santé le laissant inapte à s'occuper de ses biens et de ses affaires;
+r) le 14 mars 2002, l'appelante était nommée curatrice du payeur, suite à un jugement de la Cour Supérieure;
+s) depuis le 19 novembre 2001, l'appelante gérait l'entreprise du payeur;
+t) le 20 mai 2002, le payeur émettait un relevé d'emploi à l'appelante, pour la période débutant du 1er janvier 1971[sic] et se terminant le 18 avril 2002, et qui indiquait 2 120 heures assurables et une rémunération assurable totale de 5 192,37 $ pour les 27 dernières semaines de la période;
+u) après sa prétendue mise à pied, l'appelante a continué à rendre des services au payeur jusqu'à sa faillite;
+v) après sa prétendue mise à pied, l'appelante rendait des services au payeur et à Jude Audet de 35 à 40 heures par semaine;
+w) le relevé d'emploi n'est pas conforme à la réalité quant à la période travaillée, quant aux heures travaillées ni quant à la rémunération reçue.
+[6] Les faits étant connexes, il a été convenu de présenter une preuve commune aux deux dossiers.
+[7] Aux termes des deux déterminations, l'intimé a décidé que le travail exécuté par l'appelante pour le compte et bénéfice de la compagnie Placements Jude Audet Inc. et de Jude Audet, pour la période allant du 1er janvier 2001 au 18 avril 2002, devait être exclu des emplois assurables en vertu des dispositions de la Loi sur l'assurance-emploi, ( « Loi » ), à l'effet que tout travail exécuté par une personne ayant un lien de dépendance avec l'employeur est exclu des emplois assurables.
+[8] L'intimé est arrivé à cette conclusion après avoir examiné et analysé les faits jugés pertinents pour évaluer si le travail en litige avait été exécuté dans des conditions et suivant des modalités comparables à ce qui aurait existé n'eut été du lien de dépendance.
+[9] Après avoir exercé sa discrétion, l'intimé en est venu à la conclusion que le travail exécuté par l'appelante avait été façonné ou influencé par le lien de dépendance qui existait entre elle et son conjoint.
+[10] L'intimé a aussi soutenu que le travail exécuté par l'appelante devait être exclu des emplois assurables à compter du 14 mars 2002, date où elle est devenue curatrice de son conjoint, conséquemment à une ordonnance de la Cour Supérieure.
+[11] D'entrée de jeu, l'intimé a reconnu que l'appelante avait bel et bien travaillé et que son travail avait été utile, nécessaire voire même essentiel à la bonne marche des entreprises contrôlées et dirigées par son conjoint.
+[12] L'intimé a questionné la raisonnabilité du salaire; il a surtout fait abondamment état des incohérences quant aux inscriptions au livre des salaires, à l'absence de chèque de paye et aux retards pour leur encaissement. L'intimé a aussi soulevé l'absence de contrôle et, finalement, soutenu qu'à compter du 14 mars 2002, l'appelante était devenue responsable de plus de 40 p. 100 des actions votantes de la compagnie.
+[13] De son côté, l'appelante a affirmé qu'elle avait travaillé avec et pour son conjoint sans rémunération au début des années 80. Le comptable et le Ministère du Revenu de l'époque, lors d'une vérification ont recommandé que la comptabilité reflète la réalité, d'où à compter de ce moment, l'appelante s'est vue attribuer un salaire en contrepartie de ses prestations de travail; la rémunération convenue fut dès lors imputée aux différentes activités commerciales qu'exerçait son conjoint. En d'autres termes, le salaire versé à l'appelante était réparti entre les diverses activités économiques dirigées par son conjoint.
+[14] Il n'y a aucun doute qu'un travail important a été exécuté par l'appelante. Le travail a été rémunéré. Le travail a été effectué d'une manière continue et sans aucun arrêt lors de très nombreuses années. Les fonctions de l'appelante sont bien décrites aux sous-alinéas 5 f) et 5 g) de chacun des dossiers. Il y a lieu d'en reproduire le contenu :
+dossier 2003-2687(EI) :
+f) les tâches de l'appelante consistaient à préparer les commandes, à faire les payes, à payer les comptes, à entrer la comptabilité sur ordinateur, à faire les dépôts et à concilier les fins de mois;
+g) selon le journal des salaires du payeur, l'appelante travaillait 40 heures par semaine alors que durant la période en litige, l'appelante apparaissait également pour 40 heures par semaine au journal des salaires de la société Placements Jude Audet Inc.;
+dossier 2003-2688(EI)
+f) l'appelante travaillait comme commis de bureau pour le payeur;
+g) les tâches de l'appelante consistaient à préparer les commandes, à faire les payes, à payer les comptes, à entrer la comptabilité sur ordinateur, à faire les dépôts et à concilier les fins de mois;
+[15] L'appelante n'a donc jamais eu l'occasion de faire évaluer ou apprécier l'assurabilité de son travail par l'intimé puisqu'elle n'a ni demandé ni obtenu quelque prestation d'assurance-emploi au cours des nombreuses années précédant la période en litige.
+[16] La fin de la période en litige a été marquée par toute une série de faits très malheureux qui ont eu, de toute évidence, plusieurs effets sur la façon dont le travail était jusqu'alors exécuté mais aussi au niveau de la mécanique comptable.
+[17] En effet, le conjoint de l'appelante a été frappé très gravement par une attaque cardio-vasculaire ( « A.C.V. » ) au point d'avoir perdu sa capacité de gérer tant sa personne que son patrimoine. L'appelante fut ainsi nommée curatrice le 14 mars 2002.
+[18] Parallèlement, les deux commerces pour lesquels l'appelante travaillait depuis nombre d'années ont connu de graves difficultés au point que l'aventure s'est soldée par une faillite.
+[19] Durant cette période où rien n'allait plus, l'appelante a dû faire de nombreux ajustements, prendre des décisions difficiles, s'ajuster tout simplement au nouveau contexte sur lequel elle n'avait aucun contrôle.
+[20] Lors de cette déconfiture totale, l'appelante a, de toute évidence, voulu épargner le plus possible les conséquences néfastes sur son patrimoine personnel ce qui, soit dit en passant, n'avait rien à voir avec l'assurabilité de son travail.
+[21] L'intimé fait une analyse méticuleuse de tous les faits et gestes de l'appelante et conclu que jamais un tiers n'aurait agi ainsi, fait autant de choses pour son employeur et finalement accepté tout cela.
+[22] Pour justifier la détermination et conclure à l'exclusion du travail des emplois assurables, l'intimé ne fait aucune distinction entre les faits et gestes d'une personne qui travaillait pour le bénéfice de son conjoint et ceux posés comme ès-qualité de conjointe du payeur et cela, dans le contexte d'un dramatique A.C.V. qui a rendu son conjoint totalement invalide en plus de devoir faire face à la déconfiture financière.
+[23] Le conjoint de l'appelante était arpenteur géomètre de profession; l'appelante s'occupait de l'administration et l'aspect clérical de la pratique professionnelle de son conjoint. Elle s'occupait également du bon fonctionnement des deux commerces, soit la station de services et la salle de billard et cela en plus du travail de secrétaire du cabinet d'arpenteurs géomètres.
+[24] En 2001, les choses ont commencé à se détériorer lorsque les commerces ont commencé à battre de l'aile. Parallèlement, la santé du conjoint de l'appelante s'est aussi considérablement dépréciée au point qu'il est devenu totalement incapable. L'appelante est d'ailleurs devenue curatrice et la cession de biens est venue s'ajouter aux problèmes déjà énormes.
+[25] Durant ce temps, l'appelante travaillait et voyait à tout par la force des choses, elle est devenue seule maître à bord. La période est devenue très fertile en faits susceptibles de justifier l'exclusion de son travail des emplois assurables et particulièrement si les faits en question étaient analysés hors de leur contexte très particulier.
+[26] Lors d'une récente décision, dans l'affaire Louis-Paul Bélanger et M.R.N.(ministre du Revenu national), [2003] A.C.F. no 455, (Q.L.), l'honorable juge Létourneau de la Cour d'appel fédérale affirmait :
+4. Au paragraphe 20 de sa décision, le juge a reconnu qu'il avait le droit d'examiner les faits qui se trouvaient devant le ministre pour « décider si ces faits sont prouvés réels » . Mais il n'a pas fait cet examen. Il s'est contenté de dire « compte tenu de toutes les circonstances, je suis convaincu que l'appelant n'a pas réussi à établir, selon la prépondérance de la preuve, que le ministre a agi d'une façon capricieuse ou arbitraire » . De toute évidence, il s'en est remis à la jurisprudence antérieure à Pérusse et Légaré, jurisprudence antérieure qu'il a d'ailleurs citée : voir le paragraphe 17 de la décision.
+[27] Le virage jurisprudentiel fut d'ailleurs très bien exprimé dans les récentes décisions suivantes :
+a) Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no. 878, (Q.L.); A-392-98 et A-393-98 :
+4. La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+12. [...] Et l'exception de 1990 a simplement voulu diminuer la portée de la présomption de fait en acceptant d'exclure de la sanction (ce qui n'était que justice) les cas où la crainte d'abus n'avait plus raison d'être. C'est dans cet esprit qu'à notre avis, après avoir reconnu ici la réalité de l'emploi, l'importance des tâches, la normalité de la rémunération, il est difficile d'attacher l'importance que le ministre a attaché aux faits invoqués par lui pour exclure l'application de l'exception. Ce sont sur les éléments essentiels du contrat de louage de services qu'il faut s'attarder pour se convaincre que l'existence du lien de dépendance entre les contractants n'a pas eu sur la détermination des conditions de l'emploi une influence abusive
+b) Pérusse c. Canada ((ministre du Revenu national - M.R.N.), [2000] A.C.F. no. 310, (Q.L.); A-722-97 :
+15. Le rôle du juge d'appel n'est donc pas simplement de se demander si le ministre était fondé de conclure comme il l'a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l'interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s'enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre, sous l'éclairage nouveau, paraît toujours « raisonnable » (le mot du législateur). La Loi prescrit au juge une certaine déférence à l'égard de l'appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux.
+c) Massignani c. Canada (ministre du Revenu national - M.R.N.), [2003] A.C.F. no. 542, (Q.L.); A-458-01 :
+2. Premièrement, le juge suppléant a omis de considérer et de remplir le rôle qui lui était confié par la Loi sur l'assurance-chômage, S.C. 1970-71-72, ch. 48 (la « Loi » ), paragraphe 3(2)c), rôle que notre Cour a précisé dans les arrêts Légaré v. Canada (1999), 246 N.R. 176 et Pérusse v. Canada (2000), 261 N.R. 150 qui ont été suivis dans Valente v. Minister of National Revenue, [2003] A.C.F. no 418, 2003 FCA 132. Ce rôle ne permet pas au juge de substituer sa discrétion à celle du ministre, mais il emporte l'obligation de « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus et, après cette vérification, ... décider si la conclusion dont le ministre était « convaincu » paraît raisonnable » : voir Légaré, précité, à la page 179, Pérusse, précité, à la page 162.
+d) Louis-Paul Bélanger, précité :
+3. Comme le disait cette Cour dans Massignani précité, au paragraphe 2, « ce rôle ne permet pas au juge de substituer sa discrétion à celle du ministre, mais il comporte l'obligation de vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus et, après cette vérification, (...) décider si la conclusion dont le ministre était convaincu paraît raisonnable » .
+e) Francine Denis c. M.R.N (ministre du Revenu national), [2004] A.C.F. no 26. (Q.L.) :
+5. Le rôle du juge de la Cour canadienne de l'impôt dans un appel d'une détermination du ministre sur les dispositions contenues aux paragraphes 5(2) et (3) de la Loi est de s'enquérir de tous les faits auprès des parties et les témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre paraît toujours raisonnable. Toutefois, le juge ne doit pas substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus (voir Pérusse c. Canada (ministre du Revenu national - M.R.N.) ...
+[28] En l'espèce, l'intimé a effectivement compilé l'inventaire des faits habituellement pertinents pour procéder à une détermination rationnelle quant à l'assurabilité du travail en litige.
+[29] Malgré le travail accompli à cet égard, je crois que la conclusion de l'intimé retenue est totalement déraisonnable et ce, pour les raisons suivantes. D'abord, il présume que l'appelante n'a pas été rémunérée les semaines où elle n'a pas reçu de chèque. Il ignore complètement l'explication voulant que la rémunération qui lui était due ait été appliquée sur une dette contractée pour l'acquisition d'actions.
+[30] Le fait de ne pas avoir de chèque ne prouve en rien l'absence de rémunération; un salaire peut être fait en argent comptant, par le biais d'une reconnaissance de dette, où comme ce fut le cas, en l'espèce, en règlement partiel ou total d'une dette.
+[31] L'intimé n'a aucunement tenu compte de faits pourtant identifiés lors de l'investigation, soit l'existence du formulaire T-4 émis au nom de l'appelante pour la période en litige et dont les montants correspondaient précisément avec le registre des salaires et les prétentions de l'appelante.
+[32] Certes, il s'agissait là d'une preuve secondaire mais quand même pertinente et acceptable pour soutenir les prétentions de l'appelante. L'intimé a complètement écarté de son analyse cet élément et a accordé une importance déterminante à un fait découlant non pas de la preuve mais d'une interprétation, à savoir que l'appelante n'avait pas été rémunérée pour et durant certaines périodes.
+[33] Quant à l'importante question du contrôle, l'intimé s'exprime comme suit dans son compte rendu à la pièce I-7, page 9 :
+[...]
+Contrôle :
+Au cours de la période en litige la travailleuse contrôlait son temps et ses efforts à concentrer à l'un ou l'autre des payeurs.
+À partir du 19 novembre 2001, compte tenu de la maladie de Jude Audet, elle est responsable de l'exploitation de la station-service de Jude Audet et de la salle billard exploitée par :Les Placements Jude Audet Inc.
+[...]
+[34] Cette appréciation quant à la notion de contrôle est tout à fait inappropriée. En effet, l'intimé a, dans un premier temps, reconnu que l'appelante avait expertise et connaissance pour l'exécution du travail. Elle a d'ailleurs affirmé à la rubrique « Nature et importance du travail » , ce qui suit :
+[...]
+Le travail de comptabilité de l'appelante était nécessaire à la bonne marche des 2 payeurs.
+[...]
+[35] Le fait qu'une personne connaisse parfaitement le travail qu'elle doit exécuter, voire même mieux que son employeur, ne signifie pas pour autant qu'elle ne soit pas assujettie à un quelconque pouvoir de contrôle.
+[36] L'intimé conclut que le travail de l'appelante ne faisait l'objet d'aucun contrôle et conclusion ni confirmée, ni soutenue par quoi que ce soit.
+[37] La preuve a essentiellement démontré que l'appelante travaillait, était compétente et connaissait très bien tous les paramètres du travail qu'elle devait exécuter. Rien dans les faits ne permet de conclure que le conjoint de l'appelante ait renoncé ou abdiqué son pouvoir de contrôle. L'autonomie de l'appelante découlait de son expertise et de son savoir-faire.
+[38] L'absence de rémunération, facteur déterminant des conclusions retenues, n'a pas été constaté mais a découlé d'une interprétation de certains faits. L'intimé a fait diverses extrapolations à partir de cette fausse prémisse contredite par le formulaire T-4.
+[39] Au niveau de la rémunération, la façon de faire de l'employeur et de l'appelante n'était évidemment pas la meilleure et j'admets qu'il eût été possible de tirer certaines conclusions des divers constats surtout dans l'optique d'une analyse « fait par fait » plutôt qu'à partir d'une approche globale tenant compte de l'ensemble du contexte très spécial.
+[40] Les explications soumises par l'appelante sont crédibles et tout à fait vraisemblables dans le contexte et les circonstances tout à fait particulières de la période où cela s'est produit.
+[41] Le fait que l'appelante connaissait très bien la nature du travail à exécuter et qu'elle l'ait exécuté à sa manière ne prouve en rien que l'employeur avait renoncé à son pouvoir de contrôler ses faits et gestes ou avait abdiqué en sa faveur un tel pouvoir.
+[42] L'intimé semble avoir complètement occulté de son analyse le contexte très particulier du dossier pour une partie de la période en litige où le conjoint de l'appelante a été affecté par un très grave problème de santé.
+[43] Encore là l'avocate de l'intimé a pris en considération plusieurs faits qu'elle a isolés de leur contexte. Elle les a, par la suite, réunis pour tirer des conclusions totalement hors contexte.
+[44] Les conclusions retenues sont déraisonnables en ce qu'elles ne tiennent pas compte du contexte particulier de la situation qui prévalait au moment où ces éléments ont été colligés.
+[45] En prévoyant les dispositions 5(2)c) de la Loi, le législateur a manifestement voulu éviter les abus tout en ne pénalisant personne à cause de ses liens familiaux ou d'affaires.
+[46] Une recherche et analyse visant à faire la lumière sur une relation de travail entre personnes ayant entre elles un lien de dépendance ne peuvent pas totalement occulter de l'analyse le contexte et certaines circonstances tout à fait particulières.
+[47] En d'autres termes, je ne crois pas que le législateur impose à une personne travaillant pour une personne avec qui elle a un lien de dépendance à ignorer ou couper tout lien d'une manière absolue comme s'il n'existait pas.
+[48] Il existe des circonstances particulières et un contexte qui peuvent expliquer et justifier certains comportements de manière à ce qu'ils ne génèrent aucun préjudice au niveau de l'ensemble des faits à prendre en considération dans le cadre d'une détermination quant à l'assurabilité d'un travail.
+[49] En l'espèce, comme dans tout dossier de ce genre, il est important de regarder le dossier avec un certain recul pour éviter le piège de l'approche du contact trop près de l'arbre qui a souvent pour effet de faire en sorte qu'on oublie l'existence de la forêt.
+[50] Au début, l'appelante collabore et travaille à la bonne marche des activités commerciales de son conjoint. Sur les conseils du comptable, il est convenu qu'il serait dans l'ordre des choses qu'elle reçoive une rémunération. La rémunération est répartie entre les différentes activités commerciales. Elle connaît bien le travail à faire et l'exécute pour le meilleur intérêt de tous. Elle s'investit et tout semble se dérouler normalement durant plusieurs années. À un moment donné, les affaires commencent à se détériorer et un malheur n'arrivant jamais seul, son conjoint se voit terrasser par une très grave attaque cardio-vasculaire.
+[51] L'appelante, conjointe du payeur, a probablement tenté de sauver les meubles, ce qu'elle n'a manifestement réussi pas puisqu'une faillite intervient. Durant ce temps, la situation de santé de son conjoint ne s'améliore pas au point que l'appelante est nommée curatrice aux biens et à la personne de son conjoint le 14 mars 2002.
+[52] Je crois qu'il est fondamental de faire une nette distinction entre le travail que l'appelante a exécuté en qualité d'employée responsable de la gestion et son rôle de conjointe d'une personne devenue subitement et complètement incapable dans un contexte de débandade financière.
+[53] Je fais cependant droit à l'argument de l'intimé voulant qu'à compter du 14 mars 2002, date à laquelle l'appelante est devenue curatrice aux biens de son conjoint, elle ne pouvait plus être assujettie au pouvoir de contrôle de ce dernier.
+[54] Pour toutes ces raisons, les appels sont accueillis en ce que le travail exécuté par l'appelante pour le payeur Jude Audet et pour le service de Placements Jude Audet Inc., au cours de la période allant du 1er janvier 2001 au 14 mars 2002, constituait un travail assurable.
+Signé à Ottawa, Canada, ce 17e jour de mars 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI177
+NosDES DOSSIERS DE LA COUR :
+2003-2687(EI) et 2003-2688(EI)
+INTITULÉ DES CAUSES :
+Denyse Ménard Audet
+et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE
+le 9 février 2004
+MOTIFS DU JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 17 mars 2004
+COMPARUTIONS :
+Pour l'appelante:
+L'appelante elle-même
+Avocate de l'intimé:
+Me Agathe Cavanagh
+AVOCAT(E) INSCRIT(E) AUX DOSSIERS :
+Pour l'appelante :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

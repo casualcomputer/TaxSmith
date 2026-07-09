@@ -1,0 +1,149 @@
+Title: Chow v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30352/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-263-30352-chow-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-04-13
+
+# Chow v. The Queen
+
+- Citation: 2011 TCC 263
+- Decision date: 2011-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7963, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chow v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-04-13
+Neutral citation
+2011 TCC 263
+File numbers
+2008-328(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2011TCC263
+Date: 20110512
+Docket: 2008-328(IT)G
+BETWEEN:
+BILL CHOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on April 13, 2011, in Toronto, Ontario.)
+V.A. Miller J.
+[1] The Appellant has appealed reassessments dated May 18, 2006 for 2001, 2002 and 2003 and a reassessment dated October 18, 2007 for 2004. The Minister of National Revenue (the “Minister”) reassessed the Appellant on a net worth basis to include $22,043.72, $23,131.07, $55,233.38 and $31,395.34 in income for 2001, 2002, 2003 and 2004 respectively. Penalties pursuant to subsection 163(2) were also assessed.
+[2] The Appellant filed his income tax return for the 2001 taxation year on a timely basis. In August 2004, he was arrested for drug related offences and on August 30, 2004, he was served with requirements to complete net worth statements for 2001, 2002, 2003 and 2004. In this regard, the Appellant engaged John Klein, CGA, who had been his accountant since 1997. The Appellant filed his 2002 and 2003 income tax returns in October 2004 and his 2004 income tax return in September 2005.
+[3] The Appellant reported the following net income on his income tax returns:
+Year
+2001
+2002
+2003
+2004
+Net Income
+$34,197.60
+$18,204.93
+$43,842.34
+$38,374.42
+Appellant’s Position
+[4] It is the Appellant’s position that there was no unreported income in the years at issue and that Mr. Klein made several errors in the net worth statements which were submitted to the Canada Revenue Agency (“CRA”). In particular, counsel for the Appellant stated that the cash on hand in the net worth calculations included the amounts listed under assets in the bank accounts. Therefore, the amounts of $2,490, $4,390, $6,160, $49,725 and $32,974 in 2000, 2001, 2002, 2003 and 2004 respectively were duplicated in the net worth statements. It was also the Appellant’s position that the amount of $109,600 which had been seized by the police in 2004 was savings which the Appellant had accumulated over the years. In 2004, there is a duplication of $25,000 listed in the assets owned by the Appellant. The Appellant also disputed many of the amounts listed in the Personal Expenditure Schedule of the net worth statements.
+[5] Counsel for the Respondent agreed with the Appellant that in 2004 the asset “Business Interest” was listed twice in the net worth schedules. Therefore the appeal will be allowed to delete the amount of $25,000 from the “Personal Expenditures” in 2004.
+Facts
+[6] The Appellant was born and raised in Hamilton, Ontario.
+[7] In 1989, he obtained a real estate licence and began working as a real estate agent. In 1994, he began to specialize in commercial real estate, especially leasing and today he is a broker. He worked very hard to develop his business and took courses to upgrade his licence. I gather from the Appellant’s evidence that he is an astute businessman.
+[8] In 2003 the Appellant left Royal Lepage and began to work with The Effort Trust Co. and in 2004 he became self-employed.
+[9] In 2001, the Appellant became a user of cocaine and by 2003 he was addicted to cocaine. He continued to use drugs until his arrest in August 2004. He was charged with eight counts of possession for the purpose of trafficking, possession of the proceeds of crime and trafficking. The Hamilton Police seized cocaine, marijuana, a set of scales and $3,600 in cash from the Appellant’s car. They searched his family’s home and found more drugs and $106,000 in cash. The drugs seized were valued by the Hamilton Police at $44,303.
+[10] The Appellant pled guilty on June 5, 2006 to trafficking in cocaine and marijuana and being in the possession of the proceeds of crime. He was sentenced to 30 months in a federal penitentiary and served 6 months.
+[11] Mrs. Duk-Yown Chow, the Appellant’s mother, testified on his behalf. It was her evidence that when her husband died in 1993, she traded in his Cadillac, purchased a Chevrolet Corsica for the Appellant, and received cash of $10,000.19. She stated that in 1993 and 1994, she gave the Appellant $25,000. He kept it with his savings in a briefcase in his bedroom.
+[12] The Appellant stated that he always lived at home with his family. He started to work delivering newspapers when he was 12 years old. At the age of 15, he started to work in his family’s restaurant and he has filed income tax returns since he was 16. When he worked for his family, he was paid in cash and he saved his money at home. After he started to work in real estate, he often cashed his cheques and saved the money at home. He never owned stocks or RRSPs. The $106,000 which was seized from his bedroom was his personal savings which he had acquired over the years.
+[13] It was the Appellant’s evidence that for the first few years he saved $5,000 to $10,000 each year. In 2003 and 2004, he saved $20,000 each year. This cash was kept in his bedroom in bundles of $5,000. He didn’t spend this money. At another point in his evidence, the Appellant stated that in 2003, at the height of his drug use, he started to keep his money in the bank.
+[14] With respect to the net worth statements prepared by his accountant, John Klein, the Appellant stated that the numbers were not accurate. However, on September 1, 2005, he signed the statements certifying that the information given in the statements was a true and complete declaration of his assets, liabilities and living expenses. In 2006, he became “uncomfortable” with his accountant and he hired a tax lawyer and a forensic accountant who both advised him that the net worth statements prepared by Klein were inaccurate.
+[15] The Appellant stated that he never used credit cards unless it was a business expense. However, in May 2004, the Appellant used his credit card to complete the purchase of his BMW.
+[16] With respect to his drug use, the Appellant stated that he started to smoke marijuana in the late 1990s. In 2001, he started to use cocaine. At first, he received the drugs for free from his friends. By 2002, he started to spend his own money to buy drugs. He did a lot of drugs. In 2003, he started to sell marijuana to support his cocaine habit. However, according to the Appellant, his main income was still from real estate. At present, it is all a blur to him and he has not used drugs since his arrest in 2004.
+Analysis & Conclusion
+[17] Whether I accept the Appellant’s evidence with respect to the calculations in the net worth schedules depends on my findings of credibility. In assessing the credibility of the Appellant and his witness, I may accept all, some or none of their evidence. I may accept parts of evidence and reject other parts. In assessing credibility, I can consider inconsistencies or weaknesses in the evidence. I can consider the overall sense of the evidence. That is, when common sense is applied to the testimony, does it suggest that the evidence is possible, impossible probable or highly improbable[1].
+[18] Mrs. Chow has stated that she gave her son $25,000 cash in 1993 or 1994. I find it improbable that if she did give him this money in 1993 and 1994 that he still had it in 2000 to 2004. No documentation has been presented. Her evidence was that of a mother who was trying to help her son.
+[19] It was the Appellant’s evidence that the “Cash on Hand” in the net worth schedules duplicated the amounts listed in the bank accounts. He has presented no documents to support his position. He stated that his former accountant made an error and he asked him to change it. I find this evidence to be suspect for two reasons. First, the Appellant signed the net worth statements prior to their being presented to CRA. Second, the Appellant could have subpoenaed Mr. Klein to appear at this hearing and I do make a negative inference from the fact that Mr. Klein was not subpoenaed.
+[20] It appears from exhibit A-1, tab 17 that the Appellant not only furnished the information that was included in the net worth schedules, but he had his accountant send them to his tax lawyer, Mr. Paquette, for his “input on the figures as presented”. In the letter to Mr. Paquette, Mr. Klein stated that there were more detailed information and assumptions available if they were needed. That detailed information and assumptions could have been available to this court if Mr. Klein had been subpoenaed. I note that the calculations in the draft schedules which had been sent to Mr. Paquette were changed.
+[21] I do not accept the Appellant’s evidence unless it is corroborated by documented evidence. His evidence was self serving. I acknowledge that the Appellant has gone through a difficult time in his life. However, he placed himself in that situation. He now blames others for his tax problems. At the hearing of this appeal and when he was speaking to Elaine Collingwood, the Appeals Officer from CRA, who worked on his file at the objection stage, the Appellant complained about and blamed his accountant and his lawyer for his tax problems. In his conversation with Elaine Collingwood, he stated that he could not get any information from his accountant until he paid him. I find that the Appellant has no one to blame for his tax problems but himself.
+[22] The Appellant would have me believe that he had $106,000 in cash in his bedroom and this was his savings which he did not touch. Yet, he started to traffic in marijuana and cocaine to “feed his cocaine” habit. Frankly, I find this evidence unbelievable. He forfeited this money as proceeds of crime and I believe they were proceeds of crime.
+[23] However, counsel for the Appellant has shown, through documents presented to the court that the following adjustments should be made in the net worth schedule:
+(a) “Loan Payable” under “Personal Liabilities” was $0, $14,561.31, $12,243.17 and $9,633.67 in 2000, 2001, 2002 and 2003 respectively.
+(b) The credit card balance in 2004 was $7,875.36.
+(c) The life insurance premium of $163.54 in 2004 is to be deleted. It does not appear elsewhere in the personal expenditures.
+(d) The Personal Expenditure for Transportation was $1,371.59, $1,822.71, $741.06 and $1,286.04 in 2001, 2002, 2003 and 2004.
+[24] Counsel for the Appellant has argued that Mr. Chow should get a credit for the $109,600 which was seized from him on his arrest. He has relied on the decision in 65302 British Columbia Ltd. v R[2] to argue that public policy does not prohibit the deduction of the amount forfeited to the Crown.
+[25] In 65302 British Columbia Ltd. v R, at paragraph 69, Justice Iacobucci stated:
+Finally, at para. 17, my colleague states that penal fines are not, in the legal sense, incurred for the purpose of gaining income. It is true that s. 18(1)(a) expressly authorizes the deduction of expenses incurred for the purpose of gaining or producing income from that business. But it is equally true that if the taxpayer cannot establish that the fine was in fact incurred for the purpose of gaining or producing income, then the fine or penalty cannot be deducted and the analysis stops here.
+[26] Paragraph 18(1)(a) of the Income Tax Act (the “Act”) sets out the limitations on the deductions that can be made from business income as follows:
+General limitations
+18. (1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+General limitation
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+[27] The forfeiture of $109,600 by the Appellant to the police was not made for the purpose of gaining or producing income from his business. As I stated in Anjaria v R[3] at paragraph 6:
+First of all, the forfeiture of the proceeds of crime was not an expense or outlay incurred by the Appellant. The proceeds of crime were the profits or net income earned by the Appellant. The forfeiture was not incurred to gain or produce income from business and did not assist the Appellant in producing income from his business of selling drugs. Justice Angers recently decided the appeal of Brizzi v. R., [2007] 4 C.T.C. 2334 (T.C.C. [Informal Procedure]), an appeal where the facts were very similar to those in the present appeal. I agree with his decision and especially in paragraph 7 when he stated the following:
+… The loss incurred through the forfeiture is in my opinion a consequence of carrying on an illegal business activity and therefore certainly not an expense that assisted or resulted in producing income.
+[28] It is also my opinion that section 67.6 of the Act prohibits the deduction of the forfeited amount. Section 67.6 reads as follows:
+Non-deductibility of fines and penalties
+67.6 In computing income, no deduction shall be made in respect of any amount that is a fine or penalty (other than a prescribed fine or penalty) imposed under a law of a country or of a political subdivision of a country (including a state, province or territory) by any person or public body that has authority to impose the fine or penalty.
+[29] This section is applicable to fines and penalties imposed after March 22, 2004. It provides that no deduction shall be made in respect of any amount that is a fine or penalty with certain exceptions. Forfeiture of the proceeds of crime is a penalty for illegal activities.
+Subsection 163(2) Penalties
+[30] Subsection 163(2) of the Act reads, in part, as follows:
+False statements or omissions
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty …
+[31] In the years under appeal, the Appellant used an accountant to prepare his income tax returns. The Appellant controlled the information that he gave to his accountant. This appeal is novel in that the Appellant, with the advice of his accountant and his then tax lawyer, prepared the net worth schedules. The Appellant signed those schedules and they disclosed that the Appellant had failed to report a significant amount of income in each year.
+[32] The Appellant has stated that he obtained professional help to prepare the net worth schedules and his income tax returns and when he signed them, he was just following instructions.
+[33] In Venne v R[4], Strayer J made the following comments with respect to the meaning to be given to the term “gross negligence” in subsection 163(2) of the Act:
+“Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[34] When I consider all of the evidence and the amounts which will be allowed in this appeal, there is still a considerable amount of unreported income in 2001, 2002 and 2003. The Appellant is a successful businessman. In the years under appeal, he had only two sources of income and yet he chose to report only that income from his real estate practice. He cannot now blame his accountant for this failure in his attempt to avoid gross negligence penalties. As Rip J stated in DeCock v Minister of National Revenue[5]:
+35 True – if we accept the appellant’s evidence – the appellant’s accountant was extremely negligent. But a taxpayer, in particular a businessman who knew his various sources of income, cannot and does not exculpate himself from liability by handing over his tax affairs to a professional and blindly, without question, and in this case without even any interest, accepting what the professional has done.
+[35] In this appeal, I don’t accept the Appellant’s evidence that his accountant was extremely negligent or even negligent. The accountant used the information given by the Appellant to prepare the Appellant’s income tax returns. As I have stated earlier, I have taken an adverse inference from the fact that the accountant was not called as a witness. I am satisfied that the Appellant’s failure to report all of his income in 2001, 2002 and 2003 was attributable to intentional acting and wilful misrepresentation.[6] He deliberately concealed his source of income from his illegal activities. The penalties are upheld for 2001, 2002 and 2003. When I consider the concessions made by the Respondent and the amounts which I have allowed, there is no unreported income in 2004. Therefore the penalties for that year will be deleted.
+[36] In conclusion, the appeal is allowed as follows:
+(a) In the “Summary of Personal Expenditures”, the amount of $25,000 is to be deducted from the total for 2004;
+(b) The amounts listed as “Loan Payable” under “Personal Liabilities” is to be changed to $0, $14,561.31, $12,243.17 and $9,633.67 in 2000, 2001, 2002 and 2003 respectively.
+(c) The credit card balance in 2004 is $7,875.36.
+(d) The life insurance premium of $163.54 in 2004 is to be deleted from Personal Expenditure.
+(e) The Personal Expenditure for Transportation is $1,371.59, $1,822.71, $741.06 and $1,286.04 in 2001, 2002, 2003 and 2004.
+[37] The subsection 163(2) penalties are deleted for 2004. In all other respects the appeal is dismissed.
+[38] There is no award of costs.
+Signed at Ottawa, Canada, this 12th day of May 2011.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2011TCC263
+COURT FILE NO.: 2008-328(IT)G
+STYLE OF CAUSE: BILL CHOW AND
+THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 11 – 12 - 13, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: May 9, 2011
+DATE OF REASONS FOR
+JUDGEMENT: May 12, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Y. David Payne
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Y. David Payne
+Firm: Payne Law
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Nichols v R. 2009 TCC 334 at paragraphs 22 and 23
+[2] [1999] 3 S.C.R. 804
+[3] 2007 TCC 746
+[4] [1984] C.T.C. 223 (FCTD)
+[5] (1984), 84 D.T.C. 1523 (T.C.C.)
+[6] Dao v R, 2010 TCC 84

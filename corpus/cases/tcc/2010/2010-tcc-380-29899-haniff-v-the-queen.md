@@ -1,0 +1,178 @@
+---
+title: "Haniff v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29899/index.do"
+last_modified: "2010-07-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 380"
+citation2: ""
+neutral_citation: "2010 TCC 380"
+decision_date: "2010-07-19"
+language: "en"
+item_id: "29899"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6392
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:09:26.810000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "72ee1bff306615f8b1b3b9af94a90b117f4bb89332e3825a01b381712d9818ec"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Haniff v. The Queen
+
+- Citation: 2010 TCC 380
+- Decision date: 2010-07-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6392, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Haniff v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-19
+Neutral citation
+2010 TCC 380
+File numbers
+2008-3837(IT)G, 2008-3838(GST)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2008-3837(IT)G
+2008-3838(GST)G
+BETWEEN:
+SYLVIA HANIFF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on May 4, 2010 at Toronto, Ontario
+With written submissions received on May 21, 2010, May 28, 2010
+and June 4, 2010
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Osborne G. Barnwell
+Counsel for the Respondent:
+Justin Kutyan
+ORDER
+The Appellant’s motion for an Order directing the Respondent to present an appropriate person who has first-hand knowledge of the audit process which led to the reassessment of the Appellant for discovery is denied. Costs shall be in the cause.
+Signed at Halifax, Nova Scotia, this 19th day of July, 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC380
+Date: 20100719
+Dockets: 2008-3837(IT)G
+2008-3838(GST)G
+BETWEEN:
+SYLVIA HANIFF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb, J.
+[1] The Respondent had selected the appeals officer for the Canada Revenue Agency to be examined for discovery on behalf of the Respondent. Counsel for the Appellant asked the appeals officer various questions at the discovery examination and determined that the appeals officer was not “knowledgeable” and then terminated the discovery examination and brought this Motion. The Notice of Motion provides that the Motion is for:
+An Order directing that the Respondent presents an appropriate person who has firsthand knowledge of the audit process which led to the reassessment at issue;
+[2] Rule 93(3) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) provides that:
+(3) The Crown, when it is the party to be examined, shall select a knowledgeable current or former officer, servant or employee, nominated by the Deputy Attorney General of Canada, to be examined on behalf of that party, but, if the examining party is not satisfied with that person, the examining party may apply to the Court to name some other person.
+[3] Counsel for the Appellant questioned the appeals officer for approximately one hour. It appears that the main concern of the Appellant is that it was the auditor for the Canada Revenue Agency (and not the appeals officer) who prepared the reassessment and who prepared the schedules that were used to reassess the Appellant. During the discovery examination, counsel for the Appellant only asked for two undertakings.
+[4] It seems to me that it is important to understand clearly the role that a nominee for the Crown has at a discovery examination and what knowledge is required of that person. Justice Strayer stated in Champion Truck Bodies Ltd. v. The Queen, [1986] 3 F.C. 245, that:
+... An examinee is not necessarily giving "evidence" of his personal knowledge and observations as does a witness at trial, but rather is there to state the position of the party he represents. In doing so he may be giving purely hearsay evidence. The purpose of the examination is not to obtain disclosure of the intended evidence of the particular examinee but rather of facts relevant to the pleadings which are within the knowledge of the other party. ...
+[5] The purpose of a discovery examination is to examine the opposing party to determine the facts that are within the knowledge of that party. The Crown’s representative would not have direct knowledge of the Appellant’s revenue and expenses but should have knowledge of the position of the Respondent and the assumed facts that formed the basis for the reassessment of the Appellant. In reassessing the Appellant the Respondent would have made certain assumptions of fact and it seems to me that the relevant knowledge would be knowledge of the assumptions of fact that were made in reassessing the Appellant.
+[6] The issue in an appeal to this Court is whether the assessment (or reassessment) is correct. The issue is not the process by which the assessment (or reassessment) is established. In the decision of the Federal Court of Appeal in the case of Main Rehabilitation Co. v. R., (2004 FCA 403) (leave to appeal to the Supreme Court of Canada was dismissed (343 N.R. 196 (note))), the Federal Court of Appeal made the following comments:
+6 In any event, it is also plain and obvious that the Tax Court does not have the jurisdiction to set aside an assessment on the basis of an abuse of process at common law or in breach of section 7 of the Charter.
+7 As the Tax Court Judge properly notes in her reasons, although the Tax Court has authority to stay proceedings that are an abuse of its own process (see for instance Yacyshyn v. R. (1999), 99 D.T.C. 5133 (Fed. C.A.) ), Courts have consistently held that the actions of the CCRA cannot be taken into account in an appeal against assessments.
+8 This is because what is in issue in an appeal pursuant to section 169 is the validity of the assessment and not the process by which it is established (see for instance the Consumers' Gas Co. v. R. (1986), 87 D.T.C. 5008 (Fed. C.A.) at p. 5012). Put another way, the question is not whether the CCRA officials exercised their powers properly, but whether the amounts assessed can be shown to be properly owing under the Act (Ludco Enterprises Ltd./Entreprises Ludco Ltée v. R. (1994), [1996] 3 C.T.C. 74 (Fed. C.A.) at p. 84).
+(emphasis added)
+[7] Therefore the relevant facts are the facts that establish whether the amount assessed is correct or is not correct. The knowledge that will be required of the representative of the Crown is the knowledge of the assumptions of fact that were made in reassessing the Appellant. The Appellant may ask questions that will elicit information that is of assistance in advancing her case or in defeating the case of the Respondent. The Appellant would presumably also want to know what facts are known to the Respondent that will assist the Respondent’s case so that the Appellant can be prepared for the hearing or decide whether to pursue a particular issue.
+[8] The train of inquiry test of relevance for discovery examinations was discussed by the Federal Court of Appeal in SmithKline Beecham Animal Health Inc. v. The Queen, 2002 FCA 229, [2002] 4 C.T.C. 93. Justice Sharlow, in this case, stated as follows:
+22 The Tax Court of Canada Rules (General Procedure) contain extensive and detailed rules for pre-trial disclosure of documents and oral examinations for discovery. The main provisions relating to the issues in this appeal read as follows (emphasis added):
+DISCOVERY OF DOCUMENTS
+List of Documents (Full Disclosure)
+82. (1) The parties may agree or, in the absence of agreement, either party may apply to the Court for a judgment directing that each party shall file and serve on each other party a list of all the documents which are or have been in that party's possession, control or power relating to any matter in question between or among them in the appeal.
+EXAMINATION FOR DISCOVERY
+…
+Scope of Examination
+95.(1) A person examined for discovery shall answer, to the best of that person's knowledge, information and belief, any proper question relating to any matter in issue in the proceeding ...
+…
+24 The scope and application of the rules quoted above depend upon the meaning of the phrases “relating to any matter in question between ... them in the appeal” and “relating to any matter in issue in the proceeding”. In Cie Financière du Pacifique v. Peruvian Guano Co. (1882), 11 Q.B.D. 55 (Eng. Q.B.), Brett, L.J. said this about the meaning of the phrase “a document relating to any matter in question in the action” (at page 63):
+It seems to me that every document relates to the matters in question in the action, which not only would be evidence upon any issue, but also which, it is reasonable to suppose, contains information which may — not which must — either directly or indirectly enable the party requiring the affidavit either to advance his own case or to damage the case of his adversary. I have put in the words “either directly or indirectly,” because, as it seems to me, a document can properly be said to contain information which may enable the party requiring the affidavit either to advance his own case or to damage the case of his adversary, if it is a document which may fairly lead him to a train of inquiry, which may have either of these two consequences.
+25 The “train of inquiry” test for documentary discovery was expressly approved by this Court in Everest & Jennings Canada Ltd. v. Invacare Corp., [1984] 1 F.C. 856, 55 N.R. 73, 79 C.P.R. (2d) 138 (Fed. C.A.), adopting the test from Boxer v. Reesor (1983), 43 B.C.L.R. 352, 35 C.P.C. 68 (B.C. S.C.). See also Ikea Ltd./Ikea Ltée v. Idea Design Ltd., [1987] 3 F.C. 317, 13 F.T.R. 306, 16 C.P.R. (3d) 65 (Fed. T.D.) and Oro Del Norte S.A. v. R. (1990), 35 F.T.R. 107, [1990] 2 C.T.C. 67, 90 D.T.C. 6373 (Fed. T.D.).
+26 The Tax Court has consistently applied the same test; see, for example, Ouellet c. R. (1993), [1994] 1 C.T.C. 2645, 94 D.T.C. 1315 (Eng.). In Owen Holdings Ltd. v. R. (1996), [1997] 3 C.T.C. 2286, 97 D.T.C. 380 (T.C.C.), the test was stated as follows at paragraph 29:
+The party demanding a document must demonstrate that the information in the document may advance his own case or damage his or her adversary's case.
+27 The judgment in Owen Holdings was varied on appeal to this Court, but the statement of the test was approved: Owen Holdings Ltd. v. R. (1997), 216 N.R. 381, [1997] 3 C.T.C. 351, 97 D.T.C. 5401 (Fed. C.A.). Marceau J.A., for the majority, said this at paragraph 6:
+... It is our opinion, therefore, that the learned Tax Court judge adopted the proper approach and his findings with respect to the documents in categories (i), (ii), (v) and (vi) should not be disturbed. His assessment that those documents, which did not tend to establish “legislative facts” but rather set forth the “opinions of writers,” were so remotely related to the issues in controversy that they could not lead to a line of inquiry that could be of any use to the appellant, appears to us to be perfectly sound.
+28 Isaac C.J., as he then was, dissented in part in the result, but he approved the “train of inquiry” test.
+29 The cases cited above also establish that the question of whether a document or question “relates to” an issue in the case depends upon a reasonable interpretation of the pleadings, see particularly: Compagnie Financiere, supra; Boxer v. Reesor, supra; and R. v. Special Risks Holdings Inc. (1982), [1983] 2 F.C. 743, 46 N.R. 361, [1983] C.T.C. 36, 83 D.T.C. 5046 (Fed. C.A.).
+30 In this case, the Tax Court Judge cited R. v. Stinchcombe, [1991] 3 S.C.R. 326 (S.C.C.) as the basis of his understanding of the test of relevance at the pre-trial discovery stage. This appears at paragraph 10 of his reasons:
+On discovery the examining party may seek information and admissions which will assist it not only to defeat its opponent's case but also to advance the case which it seeks to put forward.
+31 In my view, this statement of the test is substantially the same as the “train of inquiry” test and thus is correct….
+(emphasis added by Justice Sharlow)
+[9] In this case the Appellant was carrying on business as a sole proprietor and was reassessed under the Income Tax Act for 2002, 2003 and 2004. The issues as gleaned from the pleadings are:
+(a) whether the Appellant had unreported business income for each of these years and if so, what was the amount of such unreported income;
+(b) whether certain expenses that had been claimed by the Appellant and denied by the Respondent were deductible in determining the income of the Appellant;
+(c) whether the rental losses as claimed by the Appellant and denied by the Respondent can be claimed by the Appellant;
+(d) whether the penalties imposed pursuant to subsection 163(2) of the Income Tax Act were properly imposed; and
+(e) whether the reassessment of the 2002 taxation year was issued after the normal reassessment period (neither the Notice of Appeal nor the Reply provide the date that the Appellant was assessed for 2002 and the date that she was reassessed) and if the reassessment was issued after the normal reassessment period, whether the requirements of paragraph 152(4)(a) of the Income Tax Act have been satisfied to permit the Respondent to reassess the Appellant’s 2002 taxation year.
+[10] The issues related to the appeal filed under the Excise Tax Act are related to the additional GST that was assessed in relation to the additional revenue that was assessed under the Income Tax Act, the reduction in input tax credits in relation to the expenses that the Appellant was not allowed to claim as a deduction in computing her income for the purposes of the Income Tax Act, and the assessment of the penalty pursuant to subsection 285(1) of the Excise Tax Act.
+[11] The knowledge of the representative of the Respondent would be the knowledge of the facts that were assumed by the Respondent in reassessing the Appellant. The facts would be the facts related to whether the reassessments are correct not the process by which the reassessments were established. The facts would relate to the assumed (or known) facts related to the additional revenue, the expenses that were not allowed as a deduction in computing income, the rental losses that were denied, the requirements of paragraph 152(4)(a) of the Income Tax Act in relation to the reassessment of the 2002 taxation year (assuming that the reassessment for this year was issued after the normal reassessment period) and the imposition of the penalties under the Income Tax Act and the Excise Tax Act.
+[12] The train of inquiry test would limit questions to those that could elicit answers that would advance the Appellant’s case or damage the Respondent’s case. Questions that could elicit answers that would advance the Respondent’s case or damage the Appellant’s case would also be permitted. However questions related to the audit process would not be part of a proper train of inquiry as it is the validity of the assessment that is in issue, not the process by which it is established.
+[13] Counsel for the Appellant at the beginning of the discovery examination expressed his concerns about the knowledge of the appeals officer. In part he stated as follows:
+The concern that I have is that you wouldn’t have direct knowledge. I’m just repeating myself, but I’m putting in more cogent form. The concern that I have is that you wouldn’t have direct knowledge as to what precipitated the audit or the initiate of the audit. A person who commenced the audit, that person would be in a position to advise the court as to why the audit commenced and why 2002, at the end of the day, fit 152(4) of the Income Tax Act. I’m just putting it in summary form. Of course 152(4) talks about a whole lot of other things.
+[14] The issue in relation to a reassessment issued after the normal reassessment period is whether the requirements of paragraph 152(4)(a) of the Income Tax Act have been met. This paragraph provides that:
+(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+(ii) has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of the year;
+[15] The issues would therefore be whether the Appellant “made any misrepresentation that is attributable to neglect, carelessness or wilful default or … committed any fraud in filing [her] return or in supplying any information under this Act” - not why the audit was commenced. It is the validity of the reassessment that is in issue (including whether the Appellant made a misrepresentation as described in paragraph 152(4)(a) of the Income Tax Act) not the audit process or why the Appellant was audited.
+[16] No questions were asked about the misrepresentation that the Respondent believes the Appellant made. No questions were asked about the expenses that the Respondent disallowed. The questions (when there were questions addressed to the nominee for the Respondent) were mainly related to the revenue issue. In my opinion the Appellant has not established that the representative of the Respondent was not knowledgeable in relation to the relevant facts. The relevant facts would be those related to the validity of the reassessment that has been issued and not the process by which it was established. It is also not necessary that the representative of the Respondent have first-hand knowledge of the relevant facts[1]. There is no representative of the Respondent who would have first-hand knowledge of the income and expenses of the Appellant. Any knowledge acquired by any representative of the Respondent would only be acquired by reviewing books and records or obtained from other people. No representative of the Respondent would have first-hand knowledge of whether a particular deposit was made from revenue from the business or from other sources or whether certain expenses had been incurred or for what purpose such expenditures were incurred. The Appellant is the person who would have first-hand knowledge of these matters.
+[17] As a result, the Appellant’s motion is dismissed. Costs shall be in the cause.
+Signed at Halifax, Nova Scotia, this 19th day of July, 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC380
+COURT FILE NOS.: 2008-3837(IT)G; 2008-3838(GST)G
+STYLE OF CAUSE: SYLVIA HANIFF AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING
+OF THE MOTION: May 4, 2010 with written submissions received on May 21, 2010, May 28, 2010 and June 4, 2010
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER: July 19, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Osborne G. Barnwell
+Counsel for the Respondent:
+Justin Kutyan
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Osborne G. Barnwell
+Firm: Osborne G. Barnwell
+Barrister & Solicitor
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Ashton v. The Queen, [2000] T.C.J. No. 285, [2000] G.S.T.C. 31.

@@ -1,0 +1,172 @@
+Title: Home Depot of Canada Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29241/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-281-29241-home-depot-of-canada-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-05-26
+
+# Home Depot of Canada Inc. v. The Queen
+
+- Citation: 2009 TCC 281
+- Decision date: 2009-05-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7042, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Home Depot of Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-05-26
+Neutral citation
+2009 TCC 281
+File numbers
+2008-1491(GST)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-1491(GST)G
+BETWEEN:
+HOME DEPOT OF CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 22, 2009, at Toronto, Ontario,
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Jacques Bernier and Preet Bell
+Counsel for the Respondent:
+Brianna Caryll and Sharon Lee
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated September 19, 2006, for the periods November 1, 2005 to November 30, 2005 and January 1, 2006 to January 31, 2006, is allowed, with costs, and the assessment is vacated.
+Signed at Ottawa, Canada, this 26th day of May 2009.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2009 TCC 281
+Date: 20090526
+Docket: 2008-1491(GST)G
+BETWEEN:
+HOME DEPOT OF CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Home Depot of Canada Inc. (“Home Depot”) collects and remits GST for the Government of Canada. Since 2005, it has contracted out its GST compliance requirements to Deloitte Tax LLP (“Deloitte Tax”), a U.S.-based organization in the business of completing and remitting sales tax forms and payments for major organizations across North America. With two exceptions, Home Depot has filed on a timely basis and remitted a great deal of money. The two exceptions are the November 2005 filing (due at the end of December) and the January 2006 filing (due at the end of February). Due to a clerical error, Deloitte Tax sent the returns and remittances to the Canada Revenue Agency at an incorrect address. When this was discovered in March and September respectively, Home Depot immediately took steps to file and pay and did so in late March and in late September 2006. The Minister assessed late filing penalties pursuant to subsection 280(1) of the Excise Tax Act in the amounts of $77,097.76 and $326,223.74 for the periods in question. Home Depot claims that it exercised due diligence and should be relieved of any penalty. I agree with Home Depot.
+Facts
+[2] Home Depot entered into an agreement in December 2004 with Deloitte Tax for Deloitte Tax to provide sales tax compliance services. According to Mr. Tomala, Senior Director of Sales Tax Compliance Services for Deloitte Tax (now Thompson Reuters), Deloitte Tax is the largest North American provider of such services with 160 major corporate clients, including 20 Canadian clients. It files 730 returns per month alone for Home Depot (including eight in Canada). Deloitte Tax has approximately 80 people, working in five teams, each team with a senior manager, a couple of additional managers, some clerks and other staff. In 2005‑2006, the staff was trained on the job by use of a buddy system and by monthly meetings. Deloitte Tax also had a reference manual.
+[3] Mr. Tomala described how Deloitte Tax had to convince Home Depot that it had the processes, capabilities and controls to do the job. Deloitte Tax guaranteed Home Depot that if Home Depot provided all the required data on a timely basis, Deloitte Tax would be responsible for any penalty or interest if returns were filed late, due to their error. Home Depot signed on.
+[4] Mr. Tomala testified that, as Home Depot was such a significant and important customer, he assigned the most experienced team to the task. Deloitte Tax started in early 2005 filing returns on behalf of Home Depot.
+[5] According to Mr. Tomala, Deloitte Tax is a very process-driven business. They have processes to obtain the raw data from their clients, summarize it and, where possible, get it into their software programs, they generate returns, advise the clients of their proposed filings and necessary remittances, prepare the delivery slip, set a mid-month internal timeline for submission and deliver the returns and cheques by overnight delivery to Canadian authorities. There are some distinctions between the U.S. and Canada filings. First, the U.S. forms can be completed by computer, while Canadian forms are completed manually. Also, Canadian remittances are by cheque while most U.S. remittances are done electronically. Deloitte Tax has a reference manual setting out the processes, though it appears to be more geared to the U.S. processes, which for the most part are the same.
+[6] To ensure Home Depot GST returns were filed on a timely basis, if Deloitte Tax did not receive Canada Revenue Agency pre-printed forms, a staff member would copy a previously completed form, with the numbers whited out. Several copies would be made for future use. The Canada Revenue Agency form is a two-page form, but only the first page needs to be filled in, so only the first page is copied. At the bottom of the first page there is typed in an address of Home Depot’s Canadian lawyers: B-11 Sales Tax, 2400 ‑ 250 Yonge Street, Toronto, Ontario. According to Mr. Tomala, on many of the U.S. forms the address for remittance is normally found in this spot on the form. On the Canadian form, the address for remittance is found on the reverse or second page.
+[7] Deloitte Tax has an internal document that follows the returns through the process and is checked by a staff member indicating that the various steps in the process have been completed. With respect to the November filings due at the end of December, this internal form indicated the remittance amount was due December 13th (an internal requirement to allow sufficient time to file), the returns were in fact completed December 13th and DHL Express (“DHL”) slips for mailing were also completed. The DHL slip is Deloitte Tax’s proof of timely filing. The DHL slip was addressed to Canada Customs Revenue Agency at the Toronto address cited earlier. Deloitte Tax had asked DHL for pre-printed delivery slips with the correct addresses but DHL would not accommodate them. Deloitte Tax’s internal form summarized the amounts owing for each of the Canadian jurisdictions. The amount for the Canadian remittance for November was $4,904,740.29 (January’s amount was $9,527,344).
+[8] Home Depot produced copies of the uncashed cheques for those amounts dated December 9, 2005, and February 20, 2006, respectively.
+[9] Home Depot was made aware in early March of the missing November remittance and forwarded a replacement cheque which CRA received in early April. In August and September 2006, a CRA trust accounts examiner, Ms. Metella, was asked by Collections to examine Home Depot accounts. There were some concerns with respect to amounts being posted to the wrong account. Ms. Metella discovered returns with dates missing and incorrect postings by CRA. She also determined that January’s filing and remittance was missing. Home Depot replaced that payment by the end of September.
+[10] Since these errors, Deloitte Tax instituted a second level review of returns by a senior manager, including a comparison of the delivery slip to the correct address. As well as the internal return tracking checklist, a vendor code has been added with the Canadian remittance mailing addresses.
+Analysis
+[11] For the period in question, section 280 of the Excise Tax Act read as follows:
+280(1) Subject to this section and section 281, where a person fails to remit or pay an amount to the Receiver General when required under this Part, the person shall pay on the amount not remitted or paid
+(a) a penalty of 6% per year, and
+(b) interest at the prescribed rate,
+computed for the period beginning on the first day following the day on or before which the amount was required to be remitted or paid and ending on the day the amount is remitted or paid.
+[12] Can Home Depot avail itself of the due diligence defence? The Respondent argues that the jurisprudence relating to the development of the due diligence defence in tax matters supports a narrow, restrictive use of the term. The Respondent relies in large measure on comments of the Federal Court of Appeal in the 1998 decision of Canada (Attorney General) v. Consolidated Canadian Contractors Inc.,[1] to the effect that the defence is available in situations of uncertainty as to the correct amount to be paid on a timely basis. This approach appears to have been captured in the Government’s Policy Statement P-237 dated July 28, 2008,[2] which states:
+Making a determination of due diligence
+…
+The CRA may accept a due diligence defence in a situation where a person remits or pays an amount that is less than the amount actually owed where that amount was arrived at after having made an incorrect assumption based on genuine uncertainty regarding the application of the ETA. In addition, in a situation where a person is a recipient who fails to report and remit the tax on a self-assessment situation and this failure can be attributed to an incorrect assumption based on genuine uncertainty over the application of the ETA, a due diligence defence may be accepted by the CRA. Also, the CRA may accept a due diligence defence where a person believed on reasonable grounds in a non-existent fact situation, which if it had existed, would have made the person’s actions or omission innocent; that is, the person relied on a reasonable but erroneous belief in a fact situation. In any case, for a person to be duly diligent it must be clearly evident that despite making an incorrect assumption, or having an erroneous belief in a fact situation, all reasonable care has been taken to the best of the person’s ability in ensuring that the correct amount was remitted or paid, and the return filed, when required.
+Limitations on the application of due diligence
+…
+Late payment or remittance
+The CRA would not generally accept a due diligence defence where the correct amount was paid or remitted after the due date. In particular, where the CRA determines that a person has complied with the obligation to collect the correct amount as required but has failed to remit this amount when required, the person’s due diligence defence would not be accepted. It is the CRA’s position that a person who has failed to take reasonable care to ensure that the correct amount was paid or remitted by its due date, has not exercised due diligence.
+[13] Indeed, the latter wording is the wording cited in the Notice of Confirmation sent to Home Depot. I do not agree that the jurisprudence is as restrictive as suggested by the Respondent. In the 2004 Federal Court of Appeal decision of Corporation de l’École Polytechnique v. Canada,[3] the Court stated:
+27 This Court has held that there is no bar to the defence argument of due diligence, which a person may rely on against charges involving strict liability, being put forward in opposition to administrative penalties. In particular, it has held that section 280 of the Excise Tax Act, by its wording and content, gives rise to that defence: Canada (A.G.) v. Consolidated Canadian Contractors Inc., [1999] 1 F.C. 209 (F.C.A.). It may be worth reviewing the principles governing the defence of due diligence before applying them to the facts of the case at bar.
+28 The due diligence defence allows a person to avoid the imposition of a penalty if he or she presents evidence that he or she was not negligent. It involves considering whether the person believed on reasonable grounds in a non-existent state of facts which, if it had existed, would have made his or her act or omission innocent, or whether he or she took all reasonable precautions to avoid the event leading to imposition of the penalty. See The Queen v. Sault Ste. Marie, [1978] 2 S.C.R. 1299; The Queen. v. Chapin, [1979] 2 S.C.R. 121. In other words, due diligence excuses either a reasonable error of fact, or the taking of reasonable precautions to comply with the Act.
+29 The defence of due diligence should not be confused with the defence of good faith, which applies in the area of criminal liability, requiring proof of intent or guilty knowledge. The good faith defence enables a person to be exonerated if he or she has made an error of fact in good faith, even if the latter was unreasonable, whereas the due diligence defence requires that the error be reasonable, namely, an error which a reasonable person would have made in the same circumstances. The due diligence defence, which requires a reasonable but erroneous belief in a situation of fact, is thus a higher standard than that of good faith, which only requires an honest, but equally erroneous, belief.
+[14] The defence of due diligence is not to be limited to only those situations where there is a disagreement as to amount. It is available for consideration in cases such as this, where there has been an error. The questions to be addressed are whether:
+(i) there was a reasonable error of fact; or
+(ii) Home Depot took reasonable precautions to comply with the Act.
+[15] Both sides agree that it is not a matter of just reviewing Home Depot’s actions, but to answer those questions, I must consider the actions of Deloitte Tax. This approach was made clear in former Chief Justice Bowman’s statement in Roberts v. Canada:[4]
+9 Here it is true the appellant hired bookkeepers for one of the periods in question and paid them what appears to me to be excessive amounts for their incompetence and inaction. This might justify an action by the appellant against them, but it does not amount to due diligence. The accountants are after all the appellant’s agents and the appellant is responsible of what they did or failed to do. In the same way as the exercise of due diligence on the part of a taxpayer’s accountants or bookkeepers would be attributed to the taxpayer and would justify the removal of a penalty, so too does the absence of due diligence on the part of the taxpayer’s accountants or bookkeepers disentitle him or her to the relief envisaged by the Pillar Oilfield case.
+[16] I am satisfied that in choosing Deloitte Tax, an organization devoted to handling sales tax returns, Home Depot acted prudently and reasonably. It had to be convinced, and it was, that Deloitte Tax was capable of handling the significant requirements demanded by the Excise Tax Act. It is, however, the behaviour of Deloitte Tax that must be subjected to closer scrutiny.
+[17] The Respondent argues that in considering the question of what reasonable precautions were taken, the issue must be narrowed to ask were reasonable precautions taken to ensure the remittance was mailed or delivered to the correct address. The Appellant argues that the proper question is the broader question ‑ were reasonable precautions taken to remit an amount to the Receiver General when required, tracking the language of section 280; in effect, to comply with the Act. I favour the latter approach but recognize the delivery of the cheque as an integral element to ensure compliance, so that step must be reviewed, but in the context of the overall system instituted by Deloitte Tax.
+[18] Mr. Tomala certainly satisfied me that Deloitte Tax, as a process-driven organization, specializing in accurately completing sales tax returns and ensuring timely remittances, had processes and policies in place that far exceeded what any reasonable person might expect. Let us not lose sight of who is the reasonable person in this case that requires the reasonable precautions. It is the Government of Canada. The Government of Canada has established a sales tax system which legislates that Home Depot must collect and remit the sales tax for the Government of Canada. So, what does Home Depot do? It contracts out its obligation to a reputable organization, paying for this service, so it can meet the Government of Canada’s requirements. Deloitte Tax has set up an elaborate process of collecting the raw data, summarizing it, creating a monthly calendar, creating a checklist that follows the return through each step, setting an internal deadline two weeks ahead of the due date, and requisitioning funds by that date. It also has an internal training system including an extensive reference manual. Further, in Home Depot’s case, it puts its most experienced team on the job, given Home Depot files 730 returns a month and is a significant customer. This was no fly-by-night operation. This is a well-oiled sales tax remitting machine. But what happened? A staff member addressed the return to the Canada Revenue Agency at the wrong address.
+[19] The Respondent argues that notwithstanding all its procedures and systems, Deloitte Tax did not specifically address the Canadian situation, and given the Canadian returns were ultimately completed manually, it was foreseeable this error would occur. Specifically, the Respondent identifies the following areas as indicative of a lack of reasonable precautions:
+- a manual completion of the return and the DHL mailing slip with no managerial review;
+- no process to ensure double-sided copying of the CRA form;
+- no rigid adherence to the reference manual but development of unofficial practices; and
+- allowing three different staff members to fill out the forms.
+I will address each of these concerns.
+Manual Completion without Managerial Review
+[20] There was no suggestion the determination of tax owing, by accumulating and summarizing data from Home Depot, was incorrectly done. The concern pointed out by the Respondent was the incorrect address and, on one form indicating there were 31 days in November. To suggest that a managerial review is required for addressing and dating seems insignificant compared to ensuring the calculation of the correct tax owing and obtaining a cheque for that amount on a timely basis. The Deloitte Tax system did have an address for the Canada Revenue Agency, but the staff relied upon the address on the front of the previous form, which happened to be positioned in the same place where the U.S. form identifies a U.S. office for remittances. The staff simply made a mistake. Deloitte Tax has now instituted a second level review of the process. I put this concern in the category of seeking perfection as opposed to simply acting reasonably. There must be a recognition that even in the best system, there is room for human error. Because Deloitte Tax has taken this corrective measure is no reason for any suggestion that the lack of such a measure is illustrative of lack of due diligence.
+Double-sided Copying
+[21] Yes, if a staff person had copied the reverse side of the CRA form, the correct CRA address would have appeared. But to suggest the lack of a process or procedure for copying both sides of a document is the lack of a reasonable precaution is unwarranted. That is unnecessary overkill. The staff person copied the portion of the form that required completing. That is a reasonable thing to do. It is not reasonable to strip employees of every last scrap of discretion in as simple a task as copying and mailing a form.
+Unofficial Practices
+[22] The Respondent suggests that unofficial practices developed outside the framework provided by the reference manual. This is not surprising in connection with the Canadian returns as they were not as computer-friendly in many respects as the U.S. returns. The manual relies heavily on processing data electronically. Mr. Tomala was clear, however, that the manual was reviewed on an ongoing basis to keep it current. It is helpful to reproduce the part of the manual[5] dealing with copies and mailing to get a flavour of the detail covered:
+COPIES
+After the checks have been signed, copies need to be made. Two sets of the returns are needed: one set for the client and another for Deloitte’s files. If the checks were prepared by Deloitte, only one copy is necessary for the file. If the checks were done by the client, a second set should be made to send to them.
+When making copies, pay close attention to the forms as they are fed through the copier.
+· Make sure the feeder pulls only one page at a time
+· Forms smaller than the standard 8½ x 11 will need to be placed on the glass by hand
+· Watch for double sided forms to make certain both sides are copied
+Sign and date the return checklist after the copies are made and placed in the appropriate bins (usually located on top of the file cabinet where the returns are filed).
+MAILING
+After the copies are done, the returns and applicable payments can be put in envelopes (“stuffed”). For EFT and $0.00 returns, blank white envelopes are used with a label for the mailing address and the return address is stamped. Window envelopes are used for returns with a check, so that both the mailing and return address from the check shows through.
+There are six items that should be checked before putting the checks and returns in envelopes:
+1) The date on the check matches the date on the return
+2) The payee on the check matches the payee on the return
+3) The address on the check matches the address on the return
+4) The amount of the check matches the amount on the return
+5) The client name in the memo is correct
+6) Both the return and check are signed
+When putting the returns in envelopes, the order should be kept the same (alphabetically by state). Make sure the mailing address is clearly visible through the window of the envelope.
+Once all returns are stuffed, they are ready for postage. The date on the postage meter needs to be changed to the due date of the returns. Be sure to change the date back to the current date once finished. All envelopes containing more than two or three pages need to be weighed to ensure the proper postage amount. The postage machine can be set to seal the envelopes as the postage is stamped. However each envelope needs to be checked to make sure it is actually sealed.
+[23] I fail to see what closer adherence to the manual in this case would have prevented this particular clerical error. The clerk checked the address on the front of the return: unfortunately it was the wrong address.
+The Use of Three Staff Members
+[24] Finally, the Respondent argues that allowing three different people to fill out forms and address and have them delivered along with the cheques is increasing the risk of error, and therefore, does not meet the requirement of taking reasonable precautions. I disagree. This is not a complicated task, requiring years of training. More than adequate training was in place. The team dealing with the Home Depot account was the most senior, experienced team. Checklists were in place to follow the returns. The actual physical addressing and delivery of a return did not require a single specialist in that skill. Having two or three clerks “trained” in addressing envelopes does not make it reasonably foreseeable one of them is more likely to make this type of error.
+[25] Even taken cumulatively, the suggested lack of safeguards does not outweigh the overall care and attention of Deloitte Tax in fulfilling its obligation to Home Depot and others to file returns on a timely basis. It had expertise, systems, manuals, ongoing reviews and processes that I find were not just reasonable, but quite extraordinary in ensuring they provided a quality service that would continue to attract Fortune 500 clients.
+[26] The Respondent goes on to argue that if I find Home Depot did, through its agent, exercise due diligence with respect to the November filing, then its actions in not discovering the error for a couple of months shows a lack of diligence such that the second failure is not saved by a defence of due diligence. The Respondent suggested, though there is no evidence to this effect, that Home Depot could not have done bank reconciliations or have paid any attention to them if they did, or they would have readily discovered an uncashed several million dollar cheque. And, had they found out sooner, they would have taken the corrective measures so that the second error would not have occurred.
+[27] The second error occurred approximately two months after the first. In response to an undertaking from discovery,[6] Home Depot indicated:
+Uncashed cheques are monitored through the accounting and treasury functions of Home Depot of Canada and Home Depot U.S. as the amount of the cheque stays on as a liability on the financial statements. This is consistent with good treasury practices in the industry. Specific inquiries are made in cases where suppliers assert not having received payment. Home Depot also advises that there is a review process of uncashed amounts if an escheat issue were to arise. …
+[28] It was also pointed out that on the cheque itself there was a notation “void after 90 days”. I do not see how the lack of inquiry into a two-month old cheque is such a failure to exercise due diligence that makes the second clerical error any more reasonably foreseeable. Even if I found Home Depot somehow did not act with due diligence in tracking the uncashed cheque, which I do not (as the only evidence I have in that regard is that the practice was to monitor such items), I find there is too remote a connection between that “failure” and the clerical error. I conclude that the level of due diligence exercised in connection with the second error is sufficient to relieve Home Depot of any penalty.
+Conclusion
+[29] It is easy to be critical of behaviour after an error has been committed. In considering whether a taxpayer acted with due diligence to minimize the possibility of error, one can always find something else the taxpayer might have done. But that is not the test. The test is whether what the taxpayer in fact did was sufficient reasonable precaution – not that the taxpayer did not hold the hand of the employee throughout every single task no matter how menial, though Deloitte Tax went a long way to doing exactly that. I have been convinced Home Depot took all reasonable precautions and can rely on the defence of due diligence.
+[30] I cannot leave this matter without expressing some concern regarding the Government’s approach to this penalty provision. I am presuming the matter is before me because Home Depot had no success with their fairness application, again, presumably, as Government officials exercised their discretion to decline such a request. At some point, at some level, someone must look at the trees and see the forest. Here is a corporate taxpayer remitting millions of dollars monthly to the Government and paying experts to do so, so it can meet, as a good corporate citizen should, the collection obligations imposed upon it by the Government. A clerk mistakenly addresses two remittances. Once Home Depot discovers its error it immediately re-remits. It pays interest. What does the Canada Revenue Agency do? It imposes a half-million dollar penalty and then pursues the matter through the litigation process to a trial. I am not suggesting this is egregious behaviour by the CRA officials that might warrant solicitor-client costs, but I am saying that a step back for a balanced look by a CRA official exercising a good dose of commercial common sense should not have resulted in relentless pursuit of a half-million dollar penalty. Yes, the Act stipulates taxpayers are to be penalized for remitting late, but do not bite the hand that feeds you when the hand tries so diligently to ensure you get every mouthful.
+[31] The appeal is allowed, with costs. The assessment of penalties is vacated.
+Signed at Ottawa, Canada, this 26th day of May 2009.
+“Campbell J. Miller”
+C. Miller J.
+CITATION: 2009 TCC 281
+COURT FILE NO.: 2008-1491(GST)G
+STYLE OF CAUSE: HOME DEPOT OF CANADA INC. and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 22, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: May 26, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Jacques Bernier and Preet Bell
+Counsel for the Respondent:
+Brianna Caryll and Sharon Lee
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jacques Bernier
+Firm: Bennett Jones LLP
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1999] 1 F.C. 209 (F.C.A.).
+[2] Joint Book of Authorities, Tab 14.
+[3] 2004 FCA 127.
+[4] [1997] T.C.J. No. 771 (QL).
+[5] Exhibit A-1, Statement of Agreed Facts and Joint Book of Documents, Sales & Use Tax Center Reference Manual, Tab 18, pages 45 and 46.
+[6] Exhibit R-1, Respondent’s Read-Ins and Appellant’s Answers to Undertakings from the Examination for Discovery of Chet Tomala on November 24, 2008, Response to Undertaking #14, Tab 2B.

@@ -1,0 +1,136 @@
+Title: Wachsmann c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29370/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-420-29370-wachsmann-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-08-31
+
+# Wachsmann c. La Reine
+
+- Citation: 2009 CCI 420
+- Decision date: 2009-08-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6894, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wachsmann c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-31
+Référence neutre
+2009 CCI 420
+Numéro de dossier
+2007-68(IT)G
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-68(IT)G
+ENTRE :
+JEANETTE WACHSMANN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 13 et 14 mai 2009, à Montréal (Québec) et
+conférence téléphonique tenue le 22 octobre 2009 à Ottawa (Ontario).
+Devant : L’honorable juge Pierre Archambault
+Comparutions :
+Avocat de l’appelante :
+Me Louis-Frédérick Côté
+Avocat de l’intimée :
+Me Pierre Cossette
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Les appels relatifs aux années d’imposition 1997, 1998 et 2000 sont accueillis et les cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations au motif que les frais d’intérêts qui devraient être refusés pour les deux premières années sont ceux qui apparaissent dans l’admission déposée sous la cote R‑2. Pour l’année d’imposition 2000, il doit être tenu compte du fait que Mme Wachsmann n’avait pas droit à la déduction des frais d’intérêts de 164 680 $ et que le gain en capital imposable et la récupération de l’amortissement issu de la disposition du bien locatif devraient être exclus de son revenu.
+L’intimée a droit à tous ses débours et à 50 % des autres dépens engendrés relativement aux procédures qui ont eu lieu après le 8 avril 2009.
+Signé à Ottawa, Canada, le 27 octobre 2009.
+« Pierre Archambault »
+Juge Archambault
+Traduction certifiée conforme
+ce 3e jour de mars 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2009 CCI 420
+Date : 20091027
+Dossier : 2007-68(IT)G
+ENTRE :
+JEANETTE WACHSMANN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Archambault
+[1] Il s’agit de la triste histoire d’une contribuable qui a trop fait confiance à son frère et qui n’a pas porté une attention suffisante à ses propres affaires, plus particulièrement à ses déclarations de revenus. M. Issac Zahler, le père de la contribuable, Mme Jeanette Wachsmann, a acheté un bien locatif (le bien locatif) situé à Mississauga, en Ontario, aux environs du 4 décembre 1980 au prix de 2,5 millions de dollars. Bien que la situation ne soit pas claire, il semble que le bien a été payé en entier par Issac Zahler à même ses propres fonds (voir la pièce R-1, onglet 12, paragraphe 7). Le bien locatif était destiné à être détenu en deux parts égales au bénéfice de Mme Wachsmann et de son frère, Maurice Zahler. Le titre de propriété du bien était détenu en fiducie par une société, Carjeane Investments Inc. Le père était à l’époque négociant diamantaire et vivait en Belgique alors que Mme Wachsmann vivait avec son mari à Londres, en Angleterre. Son frère était établi à Toronto. Il semble que la gestion du bien locatif a été confiée à ce dernier. Mme Wachsmann a quitté l’Angleterre en 1989 et est déménagée à Toronto où elle a demeuré pendant 10 ans. Elle a par la suite déménagé à Montréal.
+[2] Mme Wachsmann soutient qu’elle n’a jamais vu le bien locatif, alors même qu’elle vivait à Toronto, et qu’elle s’en remettait entièrement à son frère pour sa gestion. Les états financiers pour la propriété, de même que ses déclarations de revenus étaient préparés par le comptable de son frère, M. Edward M. Kalkstein, de la firme Zeifman & Company.
+[3] Une série de prêts hypothécaires s’élevant à environ 2 millions de dollars ont été souscrits entre 1983 et 1990. En 1995, M. Maurice Zahler a souscrit un prêt hypothécaire de 3,5 millions de dollars. Mme Wachsmann prétend qu’elle n’a jamais été avisée de l’existence de ces prêts hypothécaires. Le prêt hypothécaire de 3,5 millions de dollars est consigné dans les états financiers du bien locatif pour les exercices 1996 à 1998 et des intérêts au montant de 324 291 $ en 1997 constituent la dépense la plus importante qui apparaît dans l’état des résultats d’exploitation. La totalité de ces frais d’intérêts a été déduite dans le calcul, aux fins de l’impôt, du revenu provenant du bien locatif.
+[4] La propriété a été vendue en septembre 2000 pour la somme de 6 080 000 $. Mme Wachsmann soutient de plus ne pas avoir été mise au courant de la disposition du bien avant mars 2002, quand son frère l’en a avisé. Elle ajoute qu’elle n’a jamais reçu sa part des profits de la vente du bien locatif. Dans le cadre d’une action en justice qu’elle a entamée contre son frère en avril 2002, elle a déclaré que son frère s’était approprié les profits de la vente du bien locatif et que les fonds obtenus du prêt hypothécaire de 3,5 millions de dollars souscrit en 1995 avaient été utilisés par son frère pour l’acquisition d’éléments d’actif en son nom personnel. Étonnamment, Mme Wachsmann a abandonné cette action en 2006, parce qu’elle ne disposait apparemment pas des fonds nécessaires pour la mener à terme (voir la pièce R‑1, onglet 16).
+[5] En se fondant sur ces faits, le ministre du Revenu national (le ministre) a établi de nouvelles cotisations pour Mme Wachsmann et M. Maurice Zahler et a refusé tous les frais d’intérêts hypothécaires déduits de 1997 à 1999. La portion du gain en capital de Mme Wachsmann, soit 1 193 333 $, a aussi été ajoutée à son revenu pour l’année 2000, de même que le montant de 685 540 $ pour sa portion de la récupération de la déduction pour amortissement (la récupération) demandée relativement au bien locatif. Le ministre n’a pas refusé les frais d’intérêts du prêt hypothécaire de 3,5 millions de dollars déduits aux fins de calcul du revenu locatif net pour l’année d’imposition 2000.
+[6] À l’ouverture de l’audience, l’intimée a produit une admission par laquelle elle a reconnu que les montants des frais d’intérêts qui auraient dû être refusés en 1997 et 1998 s’établissaient comme suit :
+1997 162 145,50 $
+1998 160 892,50 $
+Il a de plus été reconnu que, pour l’année 2000, le montant de la récupération devait s’élever à 685 540 $ et que le montant du gain en capital imposable devait être réduit à 1 154 021 $. Le montant des frais d’intérêts refusé pour 1999 est maintenu à 164 680 $.
+[7] Mme Wachsmann a déposé un avis d’opposition et a ensuite interjeté appel devant la présente Cour pour contester le refus de la déduction des intérêts en s’appuyant sur le fait qu’elle n’a jamais tiré quelque bénéfice personnel des sommes obtenues grâce à l’hypothèque et en soutenant que c’est son frère qui devait être imposé sur le montant des frais d’intérêts. De façon subsidiaire, elle a soutenu que, dans le calcul de son revenu locatif, elle devait avoir droit à une déduction égale au montant de son revenu volé par son frère. Elle fonde son argument sur le Bulletin d’interprétation IT-460. Elle a présenté un argument similaire à l’égard du gain en capital imposable et de la récupération pour l’année d’imposition 2000.
+[8] Il importe de souligner que le ministre a établi une nouvelle cotisation applicable à Mme Wachsmann après l’expiration de la période normale de nouvelle cotisation. Il incombe donc à l’intimée d’établir que Mme Wachsmann a, dans ses déclarations de revenus, fait une présentation erronée des faits par négligence, inattention ou omission volontaire, comme le prévoit le paragraphe 152(4) de la Loi de l’impôt sur le revenu (la Loi)[1].
+Analyse
+[9] Tout d’abord, en ce qui concerne les années d’imposition prescrites, la preuve révèle que Mme Wachsmann, qui avait fait des études de niveau secondaire et qui a été enseignante à la maternelle à Toronto pendant un certain temps, pour ensuite œuvrer dans la vente dans l’industrie du textile, s’en remettait totalement à son frère pour la production de ses déclarations de revenus. Son frère faisait appel aux services de son propre comptable, qui préparait ces déclarations ainsi que les états financiers. Mme Wachsmann n’a pas signé les déclarations de revenus pour les années d’imposition pertinentes et ne les pas examinées avant leur production. Elle n’a pas non plus examiné les états financiers qui avaient été préparés pour le bien locatif. Lorsqu’elle a déménagé à Montréal en 1999, elle a engagé son propre comptable agréé, M. Ronnie Jakobovits, qui a préparé ses déclarations de revenus sur la foi des états financiers préparés par M. Kalkstein. Même alors, Mme Waschmann n’a ni signé ni examiné les déclarations de revenus. Elle s’en remettait totalement à son nouveau comptable, lequel obtenait pour sa part ses renseignements du comptable précédent. En ce qui concerne l’année d’imposition 2000, M. Jakobovits a déclaré qu’il n’a jamais reçu les états financiers pour cette année d’imposition. Il a précisé qu’il a obtenu les renseignements de M. Kalkstein directement et qu’il a préparé une déclaration des revenus et dépenses en utilisant la formule du ministre.
+[10] À mon avis, une distinction peut être établie entre les années d’imposition 1997 à 1999 et celle de 2000. Le fait que Mme Wachsmann n’ait jamais pris connaissance des déclarations de revenus qui avaient été préparées en son nom dénote clairement à mon avis un manque de diligence de sa part à l’égard de la préparation de ces déclarations. Un tel comportement appelle un désastre. Si Mme Wachsmann avait fait preuve de diligence dans la production de ses déclarations de revenus ne serait-ce qu’en procédant, par exemple, à un examen sommaire des renseignements, elle se serait aperçue que le bien locatif était grevé d’une hypothèque de 3,5 millions de dollars depuis 1995. Comme elle l’a admis lors de son contre-interrogatoire, elle aurait alors été en mesure de poser des questions sur l’objet d’un emprunt aussi important qui, en plus de grever le bien locatif, nuisait à sa rentabilité. Elle aurait aussi constaté qu’une part nettement plus importante des profits que produisait le bien locatif avait été distribuée à son frère (ou à l’épouse de celui-ci) plutôt qu’à elle (voir la pièce R-1, onglets 8, 9 et 10, Déclaration de défaut de la participante). En 1999, par exemple, les retraits effectués au nom de l’épouse de son frère s’élevaient à 522 827 $, alors que ceux qui ont été effectués en son nom étaient de 19 714 $. Il importe de souligner que son frère n’a pas contesté le refus par le ministre de la déduction des intérêts dans le calcul de son revenu ou l’ajout du gain en capital et de la récupération. Compte tenu du fait que les sommes ont été utilisées à des fins personnelles et non pour tirer des revenus du bien, les frais d’intérêts n’étaient pas déductibles.
+[11] Comme la présentation erronée des faits par Mme Waschmann dans ses déclarations de revenus peut être attribuable à de la négligence de sa part, le ministre est en droit d’établir une nouvelle cotisation concernant l’impôt pour ces années d’imposition après la période normale de nouvelle cotisation. Cela dit, il incombait à Mme Wachsmann d’établir que les frais d’intérêts pouvaient être déduits du calcul de son revenu provenant du bien locatif. L’un des arguments présentés par son avocat est que Mme Wachsmann a gagné des revenus de placement importants en 1998, principalement de la Banque Toronto Dominion, et qu’il est possible que le capital investi pour générer ces revenus provienne du prêt hypothécaire souscrit en 1995.
+[12] Toutefois, dans son témoignage, Mme Wachsmann a toujours déclaré qu’elle n’a aucunement touché le produit du prêt hypothécaire souscrit par son frère en 1995. Ses quatre enfants ont aussi confirmé qu’ils n’ont pas reçu d’argent de leur mère ou de leur oncle, Maurice Zahler, pour financer l’achat d’une maison ou contribuer au démarrage de leur propre entreprise. De plus, Mme Wachsmann n’était pas en mesure de déterminer la provenance des fonds utilisés pour générer ses importants revenus de placement au montant de 17 178 $ en 1999, de 18 082 $ en 2000 et de 27 944 $ en 2001. Dans de telles conditions, la Cour n’est pas convaincue que la part des intérêts de Mme Wachsmann, déduite du calcul de son revenu tiré du bien locatif, peut être déductible. Il est loin de ressortir de la preuve qu’elle a gagné ce revenu à quelque moment que ce soit et, même si c’était le cas, la Cour ne dispose d’aucun élément de preuve pour distinguer la proportion du produit de l’hypothèque qui a été utilisée à des fins de placement de celle qui a été utilisée pour répondre aux besoins de son ménage.
+[13] En ce qui concerne l’année d’imposition 2000, je ne suis pas convaincu que l’intimée a réussi à établir que la présentation erronée des faits liés au gain en capital imposable et à la récupération était attribuable à la négligence de Mme Wachsmann. Bien qu’il soit clair qu’elle a fait preuve de négligence en n’examinant pas ses déclarations de revenus, je ne suis pas convaincu que la présentation erronée des faits en lien avec le calcul de son gain en capital et avec le montant de la récupération peut être mise sur le compte de cette négligence. En fait, je souscris à l’argument de son avocat selon lequel Mme Wachsmann n’a pas été avisée en 2000 ou 2001 qu’il avait été disposé du bien locatif en septembre 2000 et qu’elle ne pouvait le savoir.
+[14] De plus, il n’y a pas de preuve établissant que les états financiers ont été préparés pour cette année. Son comptable a reçu les données financières qu’il a utilisées pour calculer le revenu locatif brut pour l’année d’imposition 2000. Il est étrange que le montant du revenu locatif brut, qui s’élève à 964 317 $, soit supérieur au revenu locatif brut pour l’année précédente qui avait été fixé à 935 881 $[2]. À mon avis, l’intimée n’a pas réussi à établir que pour l’année d’imposition 2000, le ministre aurait pu établir une nouvelle cotisation concernant l’impôt de Mme Wachsmann pour le gain en capital imposable et la récupération.
+[15] L’intimée a toutefois présenté un argument subsidiaire pour justifier l’établissement d’une cotisation inférieure concernant l’impôt pour 2000. Cet argument a été présenté dans le cadre d’une réponse modifiée à l’avis d’appel et une demande visant à permettre au ministre de déposer cette réponse modifiée a été présentée à la Cour le jour de l’audience. Il faut mentionner que l’avocat de Mme Wachsmann a été avisé plusieurs mois avant l’audience, par lettre datée du 24 octobre 2008, de l’intention du ministre de faire valoir ce nouvel argument et de demander l’autorisation à la Cour de déposer une réponse modifiée. La déduction des frais d’intérêts de 164 680 $, qui représente la part de Mme Wachsmann des dépenses totales, demandée dans le calcul de son revenu locatif net devrait, selon l’intimée, être refusée pour les mêmes motifs que pour les années d’imposition 1997 et 1999. Le ministre avait omis de refuser cette dépense lorsqu’il a procédé à la nouvelle cotisation pour l’année d’imposition 2000. Même si l’année d’imposition 2000 est également prescrite, l’intimée soutient qu’elle a établi que, dans la cadre de la préparation et la production de ses déclarations de revenus, Mme Wachsmann a fait une présentation erronée des faits par négligence en ce qui concerne le revenu locatif net.
+[16] L’avocat de Mme Wachsmann a fait valoir qu’il est impossible de considérer que l’intimée soulève un nouvel argument à la défense de la cotisation du ministre puisqu’il s’agit de l’établissement d’une toute nouvelle cotisation par celui-ci plusieurs années après que l’année d’imposition 2000 soit devenue prescrite.
+[17] La disposition clé qui s’applique en l’espèce est le paragraphe 152(9) de la Loi, qui est libellé comme suit :
+152(9) Le ministre peut avancer un nouvel argument à l’appui d’une cotisation après l’expiration de la période normale de nouvelle cotisation, sauf si, sur appel interjeté en vertu de la présente loi :
+a) d’une part, il existe des éléments de preuve que le contribuable n’est plus en mesure de produire sans l’autorisation du tribunal;
+b) d’autre part, il ne convient pas que le tribunal ordonne la production des éléments de preuve dans les circonstances.
+[non souligné dans l’original.]
+[18] Il est de notoriété publique que ce paragraphe a été inséré dans la Loi par suite de l’arrêt de la Cour suprême du Canada Banque Continentale du Canada c. Canada, [l998] 2 R.C.S. 358. Bien que cette disposition ait eu pour objet d’adopter une interprétation moins restrictive que celle préconisée dans Banque Continentale, l’avocat de Mme Wachsmann continue de proposer une interprétation restrictive du libellé du paragraphe 152(9). Il soutient qu’il faut établir une distinction entre un nouvel « argument » et un nouveau « fondement ». Par exemple, lorsqu’un avantage a été accordé à un contribuable et que le ministre a imposé cet avantage conformément à l’article 6 de la Loi, il serait possible d’en conclure que le ministre avance un nouvel argument pour justifier l’imposition de l’avantage en s’appuyant sur une autre disposition de la Loi, comme le paragraphe 15(1), qui régit les avantages conférés à un actionnaire ou l’article 246, qui traite d’un avantage conféré à une personne. Par contre, lorsque l’impôt qui doit être établi résulte d’une nouvelle série de faits, comme une transaction différente, il ne s’agit pas d’un nouvel argument et les principes énoncés dans Banque Continentale du Canada devraient s’appliquer. Selon l’avocat de Mme Wachsmann, tel est le cas en l’espèce. L’inclusion du gain en capital imposable et la récupération provoquée par la disposition du bien locatif en septembre 2000 constituent un fondement de l’imposition différent de celui qui prévalait à l’égard du revenu locatif gagné avant la disposition du bien locatif.
+[19] En réponse à cet argument, les avocats de l’intimée ont cité les motifs du juge Rothstein, alors juge de la Cour d’appel fédérale, dans l’arrêt Sa Majesté la Reine c. Anchor Pointe Energy Ltd., 2003 DTC 5512, 2003 CAF 294, au paragraphe 38, où il affirme qu’il « ne trouve pas utile cette argumentation sémantique ».
+[20] Reconnaissant qu’il s’agit du droit applicable, j’estime que l’intimée n’est pas précluse de présenter le nouvel argument fondé sur le refus des frais d’intérêts dans le calcul du revenu locatif provenant du bien locatif pour l’année d’imposition 2000. Les restrictions sont celles qui sont prévues aux alinéas 152(9)a) et b) de la Loi et elles ne s’appliquent pas en l’espèce. Ce nouvel argument ne cause aucun préjudice à Mme Wachsmann. La question soulevée en ce qui concerne l’année 2000 est exactement la même que pour les années d’imposition 1997 à 1999. La défense invoquée par Mme Wachsmann pour ces années d’imposition, qui n’a toutefois pas été accueillie, s’appliquait tout autant à l’année d’imposition 2000. De plus, l’intimée ne fait pas indirectement ce qu’elle n’aurait pu faire directement. La Cour ne peut examiner le nouvel argument que si l’intimée la convainc que Mme Wachsmann a, par sa négligence, fait une présentation erronée des faits dans sa déclaration de revenus. J’ai conclu qu’en l’espèce l’intimée a réussi à le faire. L’intimée ne contourne pas le paragraphe 152(4) de la Loi. En conséquence, l’autorisation de déposer une réponse modifiée à l’avis d’appel est accordée. Mes motifs en ce qui concerne le refus de la déduction des intérêts pour les années d’imposition 1997 à 1999 s’appliquent également à l’année d’imposition 2000 et, en conséquence, les intérêts ne sont pas déductibles de la portion du revenu de Mme Wachsmann provenant du bien locatif.
+[21] Pour tous ces motifs, les appels portant sur les années d’imposition 1997, 1998 et 2000 sont accueillis et les cotisations sont déférées au ministre pour qu’il les réexamine et qu’il établisse de nouvelles cotisations compte tenu du fait que les frais d’intérêts qui devraient être refusés pour les deux premières années sont ceux dont il est fait état dans l’admission déposée sous la cote R-2. Pour l’année d’imposition 2000, il doit être tenu compte du fait que Mme Wachsmann n’avait pas droit à la déduction des frais d’intérêts de 164 680 $ et que le gain en capital imposable et la récupération de l’amortissement issus de la disposition du bien locatif devraient être exclus de son revenu. L’intimée a droit à tous ses débours et à 50 % des autres dépens engendrés relativement aux procédures qui ont eu lieu après le 8 avril 2009.
+Signé à Ottawa, Canada, le 27 octobre 2009.
+« Pierre Archambault »
+Juge Archambault
+Traduction certifiée conforme
+ce 3e jour de mars 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2009 CCI 420
+NO DU DOSSIER DE LA COUR : 2007-68(IT)G
+INTITULÉ : JEANETTE WACHSMANN
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Les 13 et 14 mai 2009
+MOTIFS DU JUGEMENT : L’honorable juge Pierre Archambault
+DATE DU JUGEMENT MODIFIÉ : Le 27 octobre 2009
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Louis-Frédérick Côté
+Avocats de l’intimée :
+Me Pierre Cossette
+Me Annick Provencher
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Louis-Frédérick Côté
+Cabinet :
+Spiegel Sohmer Inc.
+Montréal (Québec)
+Pour l’intimée :
+Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Cette disposition est libellée en partie comme suit :
+Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi ….
+[2] Je ne suis pas convaincu que, si elle avait examiné les chiffres, elle aurait été à même de s’apercevoir que le bien locatif avait été vendu le 7 septembre 2000 (voir la pièce R-1, onglet 19). Il est difficile de comprendre comment le niveau de revenus bruts pour l’année d’imposition 2000 aurait pu être supérieur au revenu locatif brut gagné en 1999 compte tenu du fait qu’il a été disposé du bien en septembre 2000. Un quart du revenu locatif brut a été gagné après la vente!

@@ -1,0 +1,185 @@
+---
+title: "Paris v. Human Resources"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28636/index.do"
+last_modified: "2008-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 213"
+citation2: ""
+neutral_citation: "2008 TCC 213"
+decision_date: "2008-04-16"
+language: "en"
+item_id: "28636"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1168
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:20:19.925000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d57ba0fc9798d0e298adb6e91fb57405eb27843730d78b690111a6140fea626e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Paris v. Human Resources
+
+- Citation: 2008 TCC 213
+- Decision date: 2008-04-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1168, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paris v. Human Resources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-16
+Neutral citation
+2008 TCC 213
+File numbers
+2007-4090(OAS)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Old Age Security Act
+Decision Content
+Docket: 2007-4090(OAS)
+BETWEEN:
+YVON PARIS,
+Appellant,
+and
+THE MINISTER OF SOCIAL DEVELOPMENT,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 13, 2008, at Sherbrooke, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 28(2) of the Old Age Security Act from a decision of the Minister of Social Development dated May 16, 2006, for the payment period from June 2005 to May 2006, for the 2005 base calendar year, is dismissed without costs in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of April 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of May 2008.
+Brian McCordick, Translator
+Docket: 2007-4091(OAS)
+BETWEEN:
+NICOLE GAGNÉ,
+Appellant,
+and
+THE MINISTER OF SOCIAL DEVELOPMENT,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 13, 2008, at Sherbrooke, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 28(2) of the Old Age Security Act from a decision of the Minister of Social Development dated May 16, 2006, for the payment period from June 2005 to May 2006, for the 2005 base calendar year, is dismissed without costs in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of April 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of May 2008.
+Brian McCordick, Translator
+Citation: 2008TCC213
+Date: 20080416
+Dockets: 2007-4090(OAS)
+2007-4091(OAS)
+BETWEEN:
+YVON PARIS,
+NICOLE GAGNÉ,
+Appellants,
+and
+THE MINISTER OF SOCIAL DEVELOPMENT,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] These are two appeals under sections 2, 14, 19 and 22 and paragraph 18(a) of the Old Age Security Act, R.S.C. 1985, c. O‑9 ("the Act").
+[2] The issues for determination are whether the Minister of Social Development ("the Minister"),
+(a) in the appeal of Yvon Paris, 2007-4090(OAS), correctly calculated the amount of the monthly Guaranteed Income Supplement to which the Appellant was entitled under the Act, and
+(b) in the appeal of Nicole Gagné, 2007‑4091(OAS), correctly calculated the amount of the Appellant's allowance under the Act.
+[3] The facts in support of the decisions under appeal are as follows:
+In the appeal of Yvon Paris, 2007-4090(OAS):
+[TRANSLATION]
+(a) On March 22, 2005, the Appellant signed a form entitled "Statement of Estimated Income after Retirement or Reduction in Retirement Income –Year 2005" ("the election") so that his Guaranteed Income Supplement would be revised based on his estimated income for the year 2005.
+(b) On that form, he reported a monthly pension of $616.05 from the Québec Pension Plan (QPP).
+(c) He also reported receiving $3,000 per month from a Registered Retirement Income Fund (RRIF) and stated that payments in respect of that RRIF would be ending on May 16, 2005.
+(d) The Appellant reported no other amounts of money for 2005 in his election.
+(e) In April 2005, the Minister calculated the amount of the Guaranteed Income Supplement to which the Appellant would be entitled from June 2005 to May 2006.
+(f) In his calculations, the Minister took into account the monthly QPP pension that the Appellant would be receiving during the year 2005, as well as his spouse's income.
+(g) In May 2006, the Minister received the information from the Canada Revenue Agency concerning the Appellant's 2005 income tax return.
+(h) The Minister noticed that, in addition to the QPP pensions referred to in the election, the Appellant received $1,311 from a Registered Retirement Savings Plan (RRSP).
+(i) On May 16, 2006, the Minister accordingly reduced the amount of the Guaranteed Income Supplement to which the Appellant was entitled based on the RRSP received in 2005.
+In the appeal of Nicole Gagné, 2007-4091(OAS):
+(a) On March 22, 2005, Yvon Paris, the Appellant Nicole Gagné's spouse, signed a form entitled "Statement of Estimated Income after Retirement or Reduction in Retirement Income –Year 2005" ("the election") in which he reported his estimated income for the year 2005.
+(b) On this form, Mr. Paris reported a monthly pension of $616.05 from the Québec Pension Plan.
+(c) He also reported receiving $3,000 a month from a Registered Retirement Income Fund (RRIF) and stated that payments in respect of that RRIF would be ending on May 16, 2005.
+(d) The Appellant reported no other amounts of money for 2005 in his election.
+(e) In April 2005, the Minister calculated the Appellant's allowance for the period from June 2005 to May 2006 based in part on Mr. Paris's income as estimated in the election.
+(f) In May 2006, the Minister received the information from the Canada Revenue Agency concerning Mr. Paris's 2005 income tax return.
+(g) The Minister noticed that the Appellant received $1,311 from a Registered Retirement Savings Plan (RRSP).
+(h) Mr. Paris had not mentioned this source of income in his election.
+(i) On May 16, 2006, the Minister accordingly reduced the amount of the allowance to which the Appellant Ms. Gagné was entitled based on the RRSP received by Mr. Paris in 2005.
+[4] The only person who testified was the Appellant Mr. Paris. He was so bitter and aggressive that I had to intervene very firmly several times.
+[5] It appears that the Appellants understood absolutely nothing about the processing of their files. At the Respondent's request, the proceedings were suspended for the purpose of holding discussions to enable the Appellants to better understand and, above all, better explain themselves and better challenge the decisions, with which they clearly disagreed.
+[6] Despite this suspension, it appears that the explanations that they were given did not make the slightest difference in the stance taken by the Appellants, whose vigorous challenge was based on an assertion that blatant errors were made in their regard.
+[7] The explanations that the Appellants provided were in no way relevant to their challenge.
+[8] The Respondent, for his part, explained the decision under appeal very well. Despite his clarity and the clarifications that he provided, the Appellants responded with irrelevant comments and continued to claim that the people responsible for their files misunderstood them and made blatant mistakes.
+[9] In my opinion, given its technical and even mathematical dimensions, it would not be helpful to repeat the information provided by the Respondent.
+[10] Suffice it to say that the Appellants made choices about the tax treatment of their respective files and that these choices led to what were essentially mathematical exercises.
+[11] The process that the Respondent followed complied with the relevant provisions of the Act in every respect. Despite the Appellants' vehement assertions that the Respondent made blatant mistakes that were prejudicial to them, they never explained what these mistakes were.
+[12] In closing, I believe that a consultation with a resource person would provide the Appellants with the benefit of a straightforward and accessible explanation of the requirements and consequences of the relevant provisions of the Act.
+[13] The provisions of the Act are clear and precise and leave no room for interpretation. Moreover, the Appellants provided no elements, explanations or evidence showing that their appeals have merit.
+[14] Consequently, the appeals are dismissed without costs.
+Signed at Ottawa, Canada, this 16th day of April 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of May 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC213
+COURT FILE NOS.: 2007-4090(OAS) and 2007-4091(OAS)
+STYLES OF CAUSE: Yvon Paris and Nicole Gagné v. Minister of Social Development
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: March 13, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: April 16, 2008
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

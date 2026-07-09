@@ -1,0 +1,107 @@
+Title: Chalmers v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28202/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-647-28202-chalmers-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-12-22
+
+# Chalmers v. M.N.R.
+
+- Citation: 2006 TCC 647
+- Decision date: 2006-12-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1983, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chalmers v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-22
+Neutral citation
+2006 TCC 647
+File numbers
+2006-1078(EI)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Citation: 2006TCC647
+2006-1078(EI)
+2006-1080(CPP)
+BETWEEN:
+MELANIE CHARLMERS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+CERTIFICATION OF TRANSCRIPT OF
+REASONS FOR JUDGMENT
+Let the attached certified transcript of my Reasons for Judgment delivered orally from the Bench at Hamilton, Ontario, on August 23, 2006, be filed, subject to corrections on pages 3, 5, 8, 9.
+“N. Weisman”
+Weisman D.J.
+Signed in Toronto, Ontario on this 2nd day of December 2006.
+Citation: 2006TCC647
+Court File Nos. 2006-1078(EI)
+2006-1080(CPP)
+TAX COURT OF CANADA
+IN RE: the Income Tax Act
+BETWEEN:
+MELANIE CHALMERS
+Appellant
+- and -
+HER MAJESTY THE QUEEN
+Respondent
+HEARD BEFORE THE HONOURABLE MR. JUSTICE WEISMAN
+at the John Sopinka Court House,
+45 Main Street East,
+Hamilton, Ontario
+on Wednesday, August 23, 2006 at 3:45 p.m.
+APPEARANCES:
+Ms M. Chalmers for the Appellant
+Mr. P. Torchetti for the Respondent
+Also Present:
+Mr. Colin Nethercut Court Registrar
+Ms Donna Sloan Court Reporter
+A.S.A.P. Reporting Services Inc. © 2006
+200 Elgin Street, Suite 1004 130 King Street West, Suite 1800
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5X 1E3
+(613) 564-2727 (416) 861-8720
+Hamilton, Ontario
+---Upon commencing after submissions on Wednesday, August 23, 2006 at 3:45 p.m.
+JUSTICE WEISMAN: I have heard four appeals today, two each by Melanie Chalmers and Gerald Smerdon against assessments by the Ministry of National Revenue, of Canada Pension Plan contributions and employment insurance premiums. Before proceeding further, having mentioned the name Smerdon, I will amend the style of cause which incorrectly has his name spelled S-M-E-R-D-E-N. We have heard in the evidence that it's to be S-M-E-R-D-O-N.
+Mr. Smerdon's assessments relate to work he did for Melanie Chalmers in the years 2004 and 2005. His complaint is that he was paid by the Workplace Safety and Insurance Board, hereinafter called WSIB, and his understanding is that WSIB payments were exempt from source deductions in his hands. Ms Chalmers' position is that the DHL pool of 14 runners that did the manual labour of loading and unloading her truck in the years 2002, 2003, 2004 and 2005 when she was injured were all either employees of DHL or independent contractors and were therefore responsible for their own source deductions.
+For the record the 14 workers, hereinafter called the runners, are Gerald Smerdon, Jack Bachensky, Elizabeth Bashford, Brian W. J. Ensor, Frank Farago, James John Robert Forbes, Karen Kearns, Elizabeth Kirchoefel, Donna M. Phillips, Sharon Ratzlaff, Dorothy M. Smith, Devin Staples, Trevar Staples and Mark Vance.
+It has been agreed by all parties present that all four appeals would be heard on common evidence.
+In order to resolve the issues before the court the total relationship between the parties and the combined force of the whole scheme of operations must be considered in order to resolve the central or fundamental question as to whether the runners were performing their services for Ms Chalmers on their own account or performing them in the capacity of employees of hers. To this end, the evidence in this matter must be subjected to the four-in-one test laid down as guidelines by the Federal Court of Appeal in Wiebe Door Services Limited v. The Minister of National Revenue which is cited at 87 Dominion Tax Cases, 5025 as confirmed in 671122 Ontario Limited v. Sagaz Industries Canada Incorporated, [2001] 2 Supreme Court Reports 983 in the Supreme Court of Canada, and Precision Gutters Limited v. Canada, [2002] F.C.J., No. 771 in the Federal Court of Appeal.
+The four elements of the guidelines originally set out in Wiebe Door Services are control, ownership of tools, chance of profit and risk of loss. Adverting first to the control element, I have heard viva voce evidence from witnesses which establishes that Melanie Chalmers supervised the runners. She admits this on page three of her notice of appeal dated April 10, 2006. This, however, is not always an admission of control. The Federal Court of Appeal in Charbonneau v. The Minister of National Revenue, [1996] F.C.J., No. 1337 says "Monitoring the result must not be confused with controlling the worker". And, again, "In terms of control the court should not confuse control over the result or quality of the work with control over its performance by the worker responsible for doing it".
+In the matter before me, the nature of the courier business and DHL's requirements imposed substantial controls over Ms Chalmers and her runners. She had to pick up her freight by 7:30 or 8:00 in the morning, had to return it to the warehouse by 6:00 or 7:00 in the evening in order to catch the line haul truck that would take the freight onward to the next step in its journey. In addition, there were specific deliveries that had time constraints such as the Fonthill delivery that required Ms Chalmers and the runner to be there by 10:30 in the morning. In addition, all the runners were selected from the DHL pool, they were all experienced, and there is no evidence that Ms Chalmers controlled the handling and operation of the Orbit scanner. And, therefore, I am not satisfied that control over these runners has been established on the evidence.
+Another element of control mentioned in the cases is subordination. Again, Charbonneau to which I have already alluded, talks about there being a relationship of subordination between an employer and an employee that is not characteristic of the relationship between an independent contractor and one of his or her customers.
+In the matter before me, the runners work along with Ms Chalmers in her truck and were supervised by her. There was no evidence that they were free to come and go as they pleased as would an independent contractor. So, the subordination factor tends to indicate that these 14 runners were employees. So, while there was no direct control and the main control was by virtue of the requirements of the courier industry itself, I do find there was a degree of subordination by these 14 runners to Ms Chalmers which would tend to point towards their being employees rather than independent contractors.
+Generally, I find that the runners were subject to the same time constraints as was Ms Chalmers and she, in my view, was clearly an independent contractor and my view was fortified by the case put before us by the Minister, Mayne Nickless Transport v. The Minister of National Revenue, [1999] T.C.J., No. 132 by my brother, Justice Porter. She clearly had a chance of profit, risk of loss and a financial investment in a vehicle despite the various controls imposed both by DHL and by the nature of the courier industry.
+So, generally, aside from the subordination issue I don't find that the control factor indicates strongly one way or another that these 14 runners were either employees or independent contractors, and I conclude that the control factor is not probative.
+Which brings me to the second test, which is tools. It is clear that the Orbit scanner was provided by DHL to Ms Chalmers and then to the runners, and that is a necessary tool of the job. The runners wore DHL uniforms, and I have evidence that even the workboots were provided in, I would say, most cases. Originally the evidence was that the steel boots were provided only to those runners who were also employees of DHL. But then we got the evidence of James Forbes who was a runner, but was not someone who worked in the DHL warehouse and he was provided with steel-toed boots. It wasn't clear to him who provided them, who paid for them, but he didn't. The evidence is that the runners supplied no tools at all, and therefore the tools factor indicates that they were employees.
+The Minister, in passing, invited me to find that the truck was a necessary tool provided by Ms Chalmers and I decline to adopt that suggestion. It is true the truck was a necessary means of transportation from site to site, but these runners were not owner/operators; they were merely manual labourers in my view in the truck, and I would analogize their position to workers who work in the DHL warehouse. It cannot be said that the warehouse was a tool. And, similarly, I do not find that the truck was a tool that was necessary for the worker; the worker was working in the truck and the truck took him from site to site. But aside from the truck the rest of the evidence with reference to tools indicates that the runners were, indeed, employees.
+Chance of profit. All the runners were paid $130 per hour (sic) whether the day was short or the day was long. The evidence is that they couldn't profit by selecting another runner from DHL's pool and paying them $100 and keep the $30 because anyone in the pool could do the same work for $130 a day. So, I do not see any chance for any of the runners to profit by initiative, enterprise and good management; they would still get the $130 whether they finished early or finished late. There was a suggestion by the appellant that if they finished early they could take on other work and thereby profit, but I find that there is no guarantee of finishing early on a regular enough basis that they could commit themselves to other employment, and in the second place the evidence of Mr. Kis was that if DHL found that they were not getting their money's worth at $130 a day because people were regularly finishing early, they would review the situation and make any necessary changes to maximize efficiency.
+So, I find that these runners had no incentive for profit and no chance of profit, which indicates that they were employees and not independent contractors.
+So far as risk of loss is concerned, they had no expenses, and even if some of them did provide their own workboots that's a matter of something like, I believe the evidence was, $130 which is not a significant expense. More importantly, they had no responsibility for any goods that they inadvertently damaged or any missed or late deliveries and accordingly they had no risk of loss. And the evidence is that an independent contractor is responsible for damages that he does, but an employee normally gets his regular pay if he makes mistakes and he does not have to fix on his own time and at his own expense. So, with there being no risk of loss this factor also indicates that these 14 runners were employees.
+The cases do talk about integration but not in the sense, or it is not relevant in the sense as discussed by counsel for the Minister. There is something that I call cultural integration. In other words, the cases talk about integration in two ways, and the case of Rousselle v. The Minister of National Revenue [1990], F.C.J., No. 990 in the Federal Court of Appeal, talks about "Their weeks of work were not in any way integrated into or co-ordinated with the operations of the company paying them". And, so, it is relevant as to whether or not the worker was integrated in a cultural sense into the operations of the business. And here we have these workers required to wear DHL uniforms, and the strict time requirements, they have a DHL scanner. In my view, this is cultural integration and they were employees.
+Devin Staples was a witness and he is in a slightly different situation from the other 13 because in the five weeks that he worked for Ms Chalmers he actually drove her truck and he received $160 a day rather than 130, and the question becomes was he an independent contractor and not an employee. But his evidence is very clear that he is an hourly paid employee of DHL to this very day. In the five weeks that he performed Ms Chalmers' function, he was supplied with the main tool which was the truck. So, in his case the truck is of great relevance. Also, he had no expenses, even gas was reimbursed. So, receiving $160 a day to cover Ms Chalmers' route, he clearly had no chance of profit or risk of loss. She hired him at $160 a day to replace her, and I therefore find that he was an employee just like all the 13 other people who were strictly runners.
+And Mr. Smerdon himself was one of the 14 runners, and he was an employee of Ms Chalmers just like the rest. The four-in-one test applies to him equally as with the other ones, and therefore he is responsible for Canada Pension contributions and Employment Insurance premiums. Again, I do not find that he was an independent contractor in business on his own account.
+Ms Chalmers' notice of appeal suggests that the 14 runners were employees of DHL, in addition to her submission today that they were independent contractors, and that either DHL or the WSIB used her as a conduit to pay the runners. This is of interest because there is an argument to be made that these runners were employees of DHL. In the first place, they were selected from a pool maintained and trained by DHL. They were wearing DHL uniforms. They were mostly supplied with boots by DHL and with the Orbit scanner. DHL set the rate of pay, and it was the source of the funds to pay them. On the other hand, there is no evidence before the court of any contract of service between DHL and the 14 runners in their capacity as runners; they were certainly employees in the warehouse.
+There is evidence of a contract of service between these 14 runners and Melanie Chalmers: she was the one who actually paid them; they worked under her supervision; the original source of funds might have been DHL or WSIB but that is not determinative of the issue; and of importance, if one peruses her April 10, 2006 notice of appeal in three separate places she admits that she engaged the runners. On page two I quote "I was required to engage the services of a runner". Same page, "....so that I could afford to engage the services of a runner to assist me". And on page six she says "If I decided to terminate my relationship with a particular runner...." In my view the evidence is clear that she was the employer of the 14 runners.
+I certainly understand Ms Chalmers' grievance, but it is all in the way that it has been arranged and organized and imposed upon her by DHL. Generally, I find that the tools factor, the chance of profit factor, the risk of loss factor and the subordination factor indicate that the 14 runners were employees under contracts of service with Melanie Chalmers, the appellant. Cases such as Sagaz Industries and Precision Gutters require me to ask what business, if any, the worker, and in this case workers, were in on their own account and the factors to be considered are the degree of financial risks taken, whether they hire their own helpers, the degree of responsibility for investment. All these factors describe Ms Chalmers' situation and not the 14 runners in any way. I can find no business that they were carrying on in their own right, and that is fortified, as I have already said, by Justice Porter's conclusion in Mayne Nickless Transport.
+I find that the 14 runners were employees of Ms Chalmers when they functioned as her runners.
+The law is that the burden is on the appellant, and in this case the appellants, to demolish the assumptions contained in the Minister's reply to the notice of appeal. Both appellants have failed to do so. In the result, I find that all four assessments were objectively reasonable and accordingly the assessments will be confirmed and the appeals will be dismissed.
+I appreciate the assistance of everybody here today. Thank you.
+--- Whereupon the hearing concluded.
+I HEREBY CERTIFY THAT I have, to the best
+of my skill and ability, accurately recorded
+by Shorthand and transcribed therefrom, the
+foregoing proceeding.
+Donna Sloan

@@ -1,0 +1,278 @@
+Title: Mac's Convenience Stores Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31016/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-393-31016-mac-s-convenience-stores-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-11-13
+
+# Mac's Convenience Stores Inc. c. La Reine
+
+- Citation: 2012 CCI 393
+- Decision date: 2012-11-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4898, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mac's Convenience Stores Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-11-13
+Référence neutre
+2012 CCI 393
+Numéro de dossier
+2009-2677(GST)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-2677(GST)G
+ENTRE :
+MAC’S CONVENIENCE STORES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 4 et 5 juin 2012 à Toronto (Ontario).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l’appelante :
+Me D’Arcy Schieman
+Me Martha K. MacDonald
+Me Al Meghji
+Avocats de l’intimée :
+Me Michael Ezri
+Me Darren Prevost
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés des cotisations établies en vertu de la Loi sur la taxe d’accise relativement à la période du 29 avril 2002 au 24 avril 2005 sont accueillis sans dépens et l’affaire est renvoyée au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2012.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 5e jour de mars 2013.
+François Brunet, réviseur
+Référence : 2012 CCI 393
+Date : 20121113
+Dossier : 2009-2677(GST)G
+ENTRE :
+MAC’S CONVENIENCE STORES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Introduction
+[1] Les cotisations qui font l’objet du présent appel ont été établies en vertu de la Loi sur la taxe d’accise (la « LTA ») pour la période du 29 avril 2002 au 24 avril 2005. L’appelante, Mac’s Convenience Stores Inc. (« Mac’s »), est une division d’Alimentation Couche‑Tard Inc., un important exploitant de dépanneurs en Amérique du Nord.
+[2] L’appel porte principalement sur la prestation de services de guichets automatiques bancaires (« GAB ») dans les dépanneurs de l’appelante. Les services de GAB étaient assurés de deux manières : par les GAB qui étaient la propriété de la Banque Canadienne Impériale de Commerce (la « CIBC ») ou de sa filiale à cent pour cent, Amicus Corporation, (ci‑dessous appelées, ensemble ou séparément, la « CIBC ») et par les GAB dont l’appelante était la propriétaire.
+[3] Les clients se servaient des GAB pour effectuer des retraits d’argent comptant de leurs comptes bancaires et payaient des frais d’administration de 1,50 $ pour chaque transaction.
+[4] La CIBC percevait les frais d’administration pour les GAB dont elle était la propriétaire et qu’elle donnait à bail, lesquels avaient été placés dans les dépanneurs de l’appelante en vertu de plusieurs accords de licence. Elle versait à l’appelante une part des frais ainsi perçus des utilisateurs qui n’étaient pas des clients de la CIBC. Il faut rechercher si la part du revenu versée à l’appelante par la CIBC constitue une contrepartie pour une fourniture exonérée de services financiers, comme le soutient l’appelante, ou une contrepartie pour la fourniture taxable d’un immeuble, comme le soutient l’intimée.
+[5] En ce qui a trait aux GAB dont l’appelante était la propriétaire, et qu’elle exploitait indépendamment de la CIBC, il faut rechercher si l’appelante a droit à des crédits de taxe sur les intrants (« CTI ») relativement à la taxe sur les produits et services (la « TPS ») payée par elle lors de l’achat de ces GAB.
+[6] Enfin, l’appelante conteste les pénalités qui lui ont été imposées, et elle le fait au motif qu’elle a pris les mesures nécessaires pour s’acquitter des obligations que lui impose la LTA.
+II. Résumé des faits
+[7] En novembre 2001, l’appelante et Amicus Corporation, une filiale à cent pour cent de la CIBC, ont conclu un accord aux termes duquel la CIBC obtenait le droit de placer dans certains dépanneurs de l’appelante des GAB dont elle était propriétaire ou qu’elle donnait à bail.
+[8] Deux contrats régissaient initialement cet arrangement : l’un entre la division ontarienne de l’appelante et la CIBC, et l’autre, entre la division de l’Ouest de l’appelante et la CIBC (les « accords de 2001 »). Ces contrats comportaient essentiellement les mêmes conditions.
+[9] Les utilisateurs de GAB qui n’étaient pas des clients de la CIBC devaient payer des frais d’administration de 1,50 $. La part de ces frais d’administration qui revenait à l’appelante pouvait fluctuer mensuellement entre 10 pour 100 et 55 pour 100, selon l’utilisation d’ensemble du réseau de GAB. Les accords de 2001 donnaient à chacune des parties, sous réserve du consentement de l’autre partie, la possibilité de modifier les frais d’administrations demandés aux utilisateurs des GAB qui n’étaient pas des clients de la CIBC.
+[10] Aux termes des accords de 2001, l’appelante avait convenu de n’avoir dans ses dépanneurs aucun GAB d’une autre banque, sauf ceux qui s’y trouvaient déjà.
+[11] L’appelante et la CIBC ont conclu, en 2004, un nouveau contrat (l’« accord de 2004 »). Cet accord apportait plusieurs modifications aux conventions entre les parties. Aux termes de l’accord de 2004, seule la CIBC pouvait modifier les frais d’administration. De même, l’accord de 2004 permettait à Mac’s d’installer ses propres GAB dans ses magasins.
+[12] Aux termes de l’accord de 2004, l’appelante fournissait les lignes de communication communes servant à la transmission des données requises pour effectuer les opérations de retrait d’argent comptant traitées par les GAB dont la CIBC était propriétaire ou qu’elle donnait à bail. Lors de l’instruction, les parties ont reconnu que l’appelante percevait et remettait la TPS relative aux paiements effectués pour les lignes de communication communes pendant la durée de l’accord de 2004.
+III. Les GAB dont CIBC était propriétaire ou qu’elle donnait à bail
+[13] Comme il a déjà été relevé, selon l’appelante, la part de revenu qu’elle recevait de la CIBC constituait la contrepartie d’une fourniture exonérée de services financiers. L’appelante invoque la définition de « service financier » figurant au paragraphe 123(1) de la LTA. Cette définition est fondée sur le concept de [traduction] « inclusion et exclusion ». Elle inclut d’abord, aux alinéas a) à m), diverses activités sous la rubrique des services financiers, puis elle exclut certaines de ces mêmes activités aux alinéas n) à t). Voici les parties pertinentes de la définition :
+« service financier »
+a) L’échange, le paiement, l’émission, la réception ou le transfert d’argent, réalisé au moyen d’échange de monnaie, d’opération de crédit ou de débit d’un compte ou autrement;
+[...]
+l) le fait de consentir à effectuer, ou de prendre les mesures en vue d’effectuer, un service qui, à la fois :
+(i) est visé à l’un des alinéas a) à i),
+(ii) n’est pas visé aux alinéas n) à t);
+[...]
+La présente définition exclut :
+[...]
+r.4) le service, sauf un service visé par règlement, qui est rendu en préparation de la prestation effective ou éventuelle d’un service visé à l’un des alinéas a) à i) et l), ou conjointement avec un tel service, et qui consiste en l’un des services suivants :
+(i) un service de collecte, de regroupement ou de communication de renseignements,
+(ii) un service d’étude de marché, de conception de produits, d’établissement ou de traitement de documents, d’assistance à la clientèle, de publicité ou de promotion ou un service semblable;
+r.5) un bien, sauf un effet financier ou un bien visé par règlement, qui est livré à une personne, ou mis à sa disposition, conjointement avec la prestation par celle-ci d’un service visé à l’un des alinéas a) à i) et l);
+[14] Les alinéas r.4) et r.5) sont réputés avoir pris effet le 17 décembre 1990. Toutefois, ils ne jouent pas relativement au service rendu aux termes d’une convention, constatée par écrit, pour une fourniture si :
+a) la totalité de la contrepartie de la fourniture est devenue due ou a été payée avant le 15 décembre 2009;
+b) le fournisseur n’a pas exigé, perçu ni versé de montant avant cette date au titre de la taxe prévue par la partie IX de la même loi relativement à la fourniture;
+c) le fournisseur n’a pas exigé, perçu ni versé de montant avant cette date au titre de la taxe prévue par la partie IX de la même loi relativement à une autre fourniture, effectuée aux termes de la convention, qui comprend la prestation d’un service visé à l’un des alinéas q), q.1) et r.3) à r.5) de la définition de « service financier » au paragraphe 123(1) de la même loi, modifiée par les paragraphes (1) à (4). [L.C. 2010, ch. 12][1].
+[Non souligné dans l’original.]
+[15] L’appelante fait valoir que les fournitures qu’elle a effectuées à la CIBC en vertu des accords de 2001 et de 2004 consistaient à prendre des mesures en vue d’assurer un service financier. Selon l’appelante, ces activités relèvent de l’alinéa l) de la définition. L’appelante se qualifie de [traduction] « lien » entre la CIBC et les clients de l’appelante qui utilisent les GAB[2]. Elle déclare avoir [traduction] « fait des plans et pris les mesures nécessaires en vue de l’installation des GAB, fait en sorte que des transactions aux GAB aient lieu et pris des dispositions en vue de telles transactions[3] ».
+[16] L’appelante s’oppose à la thèse de la Couronne selon laquelle la fourniture effectuée à la CIBC était essentiellement une fourniture de biens par licence. Elle soutient au contraire avoir fourni à la CIBC l’accès à ses clients[4]. L’appelante attire l’attention de la Cour sur les points suivants qui ressortent des éléments de preuve produits à l’appui de cette thèse :
+a. la convention relative à la part de revenu payée à l’appelante, qui ne comportait aucune clause de revenu garanti;
+b. le droit de l’appelante, aux termes des accords de 2001, de modifier les taux de frais d’administration demandés aux clients utilisant les GAB;
+c. une lettre d’Amicus aux gérants de dépanneurs de l’appelante selon laquelle les GAB [traduction] « seraient avantageux pour notre partenariat », [traduction] « feraient augmenter l’achalandage dans les magasins » et [traduction] « augmenteraient les possibilités de toucher des revenus pour votre entreprise »;
+d. la fourniture de renseignements par la CIBC à l’appelante[5].
+[17] Selon l’appelante, le fait que ses employés ne s’occupaient généralement pas de manière active de la prestation de services de GAB aux clients n’est pas déterminant, étant donné le caractère automatique des services qui sont fournis grâce à ces machines[6].
+[18] L’intimée soutient, pour sa part, que l’appelante n’effectuait pas une fourniture consistant à prendre des mesures en vue d’assurer un service financier[7]. Selon elle, l’élément dominant de la fourniture effectuée à la CIBC était un immeuble. L’appelante ne jouait aucun rôle dans la prestation d’un service financier aux clients utilisant les GAB; en d’autres termes, elle n’était pas une intermédiaire dans les transactions aux GAB[8]. Selon l’intimée, la conduite de l’appelante était [traduction] « semblable au rôle joué par tout locateur, lorsqu’elle fournit un espace pour un GAB[9] ».
+[19] L’intimée soutient que les modifications rétroactives jouent bel et bien en l’espèce, car l’appelante facturait la TPS à l’égard des lignes de communication communes qu’elle fournissait en vertu de l’accord de 2004[10]. Les lignes de communication communes faisaient partie intégrante de la fourniture globale, parce que les GAB n’auraient pas pu fonctionner sans elles et que les services assurés à la CIBC par ces lignes n’auraient eu aucune valeur sauf dans le cadre de la fourniture globale d’espace et d’installations pour les GAB[11].
+[20] L’intimée fait valoir que les modifications rétroactives, particulièrement les alinéas r.4) et r.5), [traduction] « éliminent toute possibilité que les services à la clientèle, le travail de promotion ou les immeubles de Mac’s puissent constituer le fondement de la prise de mesures en vue d’effectuer un service[12] ».
+[21] L’alinéa l) de la définition de « service financier » au paragraphe 123(1) précise que les éléments suivants constituent des services financiers :
+l) le fait de consentir à effectuer, ou de prendre les mesures en vue d’effectuer, un service qui, à la fois :
+(i) est visé à l’un des alinéas a) à i),
+(ii) n’est pas visé aux alinéas n) à t);
+[22] Il n’est pas controversé entre les parties que les clients qui utilisaient des GAB recevaient un service financier. « Service financier » s’entend de « l’échange, le paiement, l’émission, la réception ou le transfert d’argent, réalisé au moyen d’échange de monnaie, d’opération de crédit ou de débit d’un compte ou autrement[13] ». La question est de savoir si l’appelante a pris des mesures en vue de la prestation d’un tel service aux clients qui utilisaient les GAB dont CIBC était la propriétaire ou qu’elle donnait à bail.
+[23] Antérieurement aux modifications de 2010, qui ont ajouté les alinéas r.4) et r.5), l’Agence du revenu du Canada (l’« ARC ») avait émis un énoncé de politique intitulé « Signification de l’expression “prendre les mesures en vue de l’effectuer” que l’on trouve dans la définition de “service financier”[14] ». Suivant les modifications de 2010, cet énoncé de politique a été classé comme [traduction] « caduc ». Plusieurs juges y ont toutefois fait référence en examinant la portée de l’expression « prendre les mesures en vue d’effectuer » dans la jurisprudence examinée ci‑dessous.
+[24] L’énoncé de politique informe le lecteur que :
+Pour qu’un service puisse être considéré comme consistant à « prendre les mesures en vue d’effectuer » la fourniture d’un service financier, chacun des éléments suivants doit être présent :
+· l’intermédiaire aidera le fournisseur ou l’acquéreur, ou les deux, relativement à la fourniture d’un service financier;
+· le fournisseur et/ou l’acquéreur compte sur un intermédiaire (ou plusieurs) pour obtenir de l’aide au cours de la fourniture d’un service financier;
+· l’intermédiaire est directement engagé dans le processus de fourniture d’un service financier et consacrera donc le temps et les efforts nécessaires pour effectuer la fourniture d’un service décrit aux alinéas a) à i) de la définition de service financier.
+Par conséquent, pour rechercher si le service d’un intermédiaire est admissible à titre de service consistant à « prendre les mesures en vue de l’effectuer », on doit considérer l’ensemble des faits entourant la transaction, y compris le degré d’engagement de l’intermédiaire dans la prestation du service financier et, s’il y a lieu, les activités normales d’un intermédiaire dans une industrie donnée[15].
+[25] La jurisprudence relative à l’expression « prendre les mesures en vue d’effectuer » que l’on trouve à l’alinéa l) enseigne que la portée de cette disposition est plutôt large. Le juge Bowie a examiné la portée de l’alinéa l) dans l’affaire Banque Royale du Canada c. La Reine[16]. La question en litige était de savoir si les « services de succursale » assurés par la banque appelante à une société de fonds communs de placement filiale (FIRI) étaient des services financiers et constituaient, ainsi, des fournitures exonérées. Dans le cadre de ces services de succursale, certains employés de la Banque Royale, aux succursales de celle‑ci, assuraient des services à la clientèle et vendaient des parts de fonds communs de placement pour le compte de la FIRI[17].
+[26] Le juge Bowie a fait référence à la définition du dictionnaire du verbe « to arrange » (« prendre des mesures ») selon laquelle ce terme signifie : « planifier ou prévoir; faire en sorte qu’une chose se produise[18] ». Il a statué que la banque n’assurait pas seulement des services de personnel et l’utilisation d’un espace dans les succursales à la société de fonds communs de placement. Les employés étaient en tout temps des employés de la banque, et non de la société de fonds communs de placement, et la banque n’avait pas accordé, à la société de fonds communs de placement, le droit d’occuper les locaux de la banque[19]. Le juge a plutôt statué que le service fourni par la banque consistait à « prendre des mesures pour la distribution de fonds communs de placement ainsi qu’à fournir des services continus à la clientèle[20] ». Il a conclu que la prise de mesures en vue de la distribution de fonds communs de placement était « l’élément dominant » de la fourniture effectuée par la banque[21]. La Cour d’appel a confirmé la décision du juge Bowie[22].
+[27] Par la décision L’Association canadienne de protection médicale c. La Reine, le juge Bowman (tel était alors son titre) a conclu que les gestionnaires de placements payés par l’ACPM assuraient un service financier consistant à prendre des mesures en vue du transfert de propriété d’effets financiers[23]. Pour décider si les gestionnaires de placements assuraient un service financier à l’ACPM, le juge Bowman a soulevé deux questions. Premièrement, quels services les gestionnaires de placements assuraient-ils en contrepartie des honoraires qui leur étaient versés? Cette question appelait un constat de fait. Deuxièmement, cette activité était‑elle visée par la définition de service financier au paragraphe 123(1)[24]? Le juge a statué que les services assurés par les gestionnaires de placements constituaient des services financiers en raison des alinéas d) et l), car ils constituaient « [la prise de] mesures en vue [...] [du] transfert de propriété [...] d’un effet financier[25] ».
+[28] La Cour d’appel fédérale a confirmé la décision du juge Bowman au motif que l’effet des services de gestionnaires de placements était de « prendre les dispositions en vue d’effectuer la cession de propriété […] d’un effet financier[26] ». La juge Desjardins a en outre conclu que les expressions « give instructions » « make preparation for » et « prendre les dispositions en vue de » constituaient toutes des définitions acceptables pour « arrange for » (« prendre les mesures pour »)[27].
+[29] Au vu des faits de l’espèce, les jurisprudences les plus pertinentes sont La Banque Le Choix du Président c. La Reine[28] et Global Cash Access (Canada) Inc. c. La Reine[29].
+[30] L’affaire Banque PC portait, en partie, à un accord entre la CIBC et les Compagnies Loblaw Limitée (« Loblaw »), aux termes duquel la CIBC assurait des services bancaires au détail sous la marque de commerce Choix du Président de Loblaw (intitulée « Services financiers Choix du Président »). Aux termes de cet accord, la CIBC devait verser à Loblaw (et, par la suite, à la Banque PC, une filiale de Loblaw) des redevances calculées par référence aux nouveaux comptes ouverts et à la moyenne des fonds et des avoirs gérés par les Services financiers Choix du Président[30]. Aux termes d’un autre accord, les parties avaient également mis sur pied un programme de fidélisation fondé sur des points.
+[31] Cette affaire soulevait plusieurs points controversés, notamment celui de savoir si les redevances versées par la CIBC à Loblaw, puis à la Banque PC, constituaient la contrepartie de la prise de mesures en vue d’effectuer un service financier. La Banque PC soutenait qu’il en était bien ainsi. La Couronne faisait valoir que la redevance avait été versée en contrepartie de la « fourniture d’installations, de marques de commerce, de services publicitaires et autres services non financiers[31] ».
+[32] La juge Lamarre a conclu que les fournitures de la Banque PC à la CIBC avaient consisté en la prise de mesures en vue d’assurer des services financiers. Les redevances versées par la CIBC ne constituaient pas la contrepartie de l’émission de points en vertu du programme de fidélisation[32]. Les redevances ne constituaient pas non plus la contrepartie de l’utilisation exclusive de la marque de commerce Choix du Président[33]. L’accord sur les services financiers entre les parties reflétait plutôt « la volonté de Loblaw/la Banque PC de promouvoir, simplement à titre d'exemple, le compte bancaire sans frais ou les prêts hypothécaires à faible taux d’intérêt offerts à ses clients[34] ». La CIBC payait la Banque PC « pour le rôle important qu’elle jouait dans la vente, à ses [clients], de produits financiers attrayants[35] ». À l’appui de cette conclusion, la juge Lamarre a relevé les éléments suivants :
+· Les redevances versées par la CIBC à la Banque PC étaient calculées par référence aux nouveaux comptes ouverts et à la moyenne des fonds et avoirs gérés[36].
+· Loblaw a exercé son influence pour s’assurer que les produits et services financiers offerts par CIBC sous la marque Services financiers Choix du président soient plus attrayants que ceux accessibles par ailleurs aux consommateurs[37].
+· Un comité directeur, composé à égalité de représentants des deux parties, dont le rôle était de s’assurer que la CIBC réponde aux exigences de Loblaw ou de la Banque PC, a été constitué[38]. Ce comité pouvait réévaluer le programme ou résilier l’accord de services financiers si certains seuils (minimum requis des fonds sous gestion par année) n’étaient pas atteints[39].
+· Loblaw/la Banque PC avait détaché entre 10 et 15 de ses employés auprès de la CIBC pour définir les conditions qui s’attacheraient aux produits financiers[40].
+· Au cours des années en cause, la Banque PC était investie des pleins pouvoirs d’une banque selon la Loi sur les banques[41].
+[33] Certains des facteurs sur lesquels la juge Lamarre s’est appuyée sont présents en l’espèce. Selon le témoignage de M. Todd Hayman, auparavant directeur de marchandisage auprès de l’appelante, des réunions mensuelles avaient lieu entre les gérants de catégorie de l’appelante et des représentants de la CIBC[42]. M. Hayman a en outre déclaré qu’il rencontrait plusieurs fois par année des représentants de la CIBC pour discuter la convention[43].
+[34] Cependant, rien n’indique que l’appelante avait l’intention d’exercer son influence afin d’obtenir un taux de frais de transaction au GAB plus avantageux que celui du marché pour ses clients, ou bien qu’elle l’a fait. En contre-interrogatoire, M. Hayman a déclaré que Mac’s ne poursuivait pas ce but[44]. De plus, au cours de la période pertinente, les frais pour une transaction étaient généralement dans l’industrie de 1,50 $[45]. Les accords de 2001 donnaient à chacune des parties la possibilité de modifier les frais d’administration de GAB sous réserve du consentement de l’autre partie[46]. L’accord de 2004 prévoyait seulement que la CIBC pouvait modifier le taux des frais si elle en avisait l’appelante[47]. Le taux n’a pas été modifié au cours des années en cause[48].
+[35] Les accords entre l’appelante et la CIBC comportaient des clauses de résiliation aux termes desquelles chacune des parties pouvait soit soustraire aux accords des dépanneurs particuliers, soit résilier les accords eux‑mêmes. Cependant, les parties n’ont pas constitué un comité directeur ou une autre entité semblable, comme c’était le cas dans l’affaire Banque PC. Il ne ressort pas non plus des éléments de preuve que des employés de l’appelante ont participé à la conception des produits de service financier offerts par les GAB.
+[36] L’appelante ne donnait aucune assistance relativement à la prestation des services financiers de la CIBC aux clients qui utilisaient les GAB et n’intervenait pas directement non plus relativement à une telle prestation. Son rôle en ce qui a trait à la prestation de tels services était beaucoup plus passif. L’élément central de sa fourniture à la CIBC était la fourniture d’espace dans ses dépanneurs. Cela se reflète dans les conditions des accords de 2001 ainsi que dans celles de l’accord de 2004.
+[37] Dans l’affaire Global Cash, la juge Woods a recherché si les frais qu’un fournisseur de services d’accès à des fonds versait à des casinos canadiens constituaient la contrepartie de la prise de mesures en vue d’assurer un service financier. La juge Woods a cerné trois fournitures distinctes effectuées par les casinos à Global Cash :
+1. permettre que des kiosques soient installés dans les locaux;
+2. fournir des services de soutien aux cages des caisses, par exemple quant au processus de transaction et aux transactions effectuées pour le compte des clients;
+3. encaisser les chèques de Global[49].
+[38] La juge Woods a conclu que les deux premières de ces fournitures, soit, le fait de permettre que des kiosques soient installés dans les locaux et le fait de fournir des services de soutien aux cages des caisses, constituaient une prise de mesures en vue de l’émission de chèques par Global Cash[50]. Elle a relevé que les casinos « sont directement engagés dans l’émission de chèques » et qu’ils « s’occupent activement de le faire, puisqu’ils permettent l’installation de kiosques dans leurs locaux et qu’ils fournissent des services de soutien quant au processus de transaction et aux transactions effectuées pour le compte des clients[51] ». Elle a fondé cette conclusion sur son interprétation de l’expression « prendre des mesures » : elle signifiait « planifier ou prévoir; faire en sorte qu’une chose se produise », une lecture que le juge Bowie avait retenue dans l’affaire Banque Royale, 2005[52]. De plus, elle s’est appuyée sur l’énoncé de politique P‑239[53]. Il est difficile de savoir si la juge Woods aurait jugé que l’exploitation des kiosques dans les casinos constituait une prise de mesures en vue d’assurer un service financier en l’absence de services de soutien aux cages des caisses. Elle semble avoir examiné les deux activités de concert.
+[39] En l’espèce, l’événement qui constitue la cause du service est la décision du client de se servir de la machine. De plus, on ne peut dire que l’appelante a donné des instructions relativement aux transactions. L’on pourrait dire que l’appelante a pris des dispositions en vue des services, mais seulement au sens général de la fourniture d’espace dans ses magasins pour que les transactions aux GAB aient lieu. Elle n’a pas pris de dispositions en vue de transactions particulières, lesquelles se produisaient strictement entre la CIBC (l’exploitant des GAB) et les clients utilisant les GAB.
+[40] L’appelante n’intervenait pas à titre d’intermédiaire à l’égard des transactions aux GAB. Elle ne remplissait pas d’argent comptant les GAB dont CIBC était propriétaire. Elle n’était pas chargée de débiter les comptes des clients utilisant les GAB. Ses employés ne donnaient pas d’assistance aux clients utilisant les GAB, sinon en leur fournissant un numéro de téléphone pour joindre la CIBC. L’appelante était, dans une grande mesure, une spectatrice à l’égard des transactions aux GAB.
+[41] Par les motifs exposés ci-dessus, il est plus juste de considérer la fourniture effectuée par l’appelante à la CIBC comme la fourniture d’un immeuble (un espace dans des magasins), plutôt que comme une fourniture en vue d’assurer un service financier.
+[42] Je ne suis pas appelé à examiner les observations écrites des parties sur la portée des exclusions prévues dans les nouveaux alinéas r.4) et r.5), puisque j’ai conclu que l’appelante n’a pas assuré un service financier à la CIBC au sens des alinéas a) à m) de la définition.
+IV. Les GAB de l’appelante
+[43] Il est constant que l’appelante a fourni des services financiers à ses clients par l’exploitation des GAB dont elle était propriétaire. L’intimée nie toutefois que l’appelante a le droit de demander des CTI relativement à la TPS payée lors de l’achat des GAB qu’elle a installés dans ses magasins.
+[44] En général, les contribuables ne peuvent demander des CTI à l’égard de la TPS payée ou exigible relativement aux produits et services utilisés ou consommés par l’acquéreur de la fourniture à l’occasion de la prestation de services commerciaux. Le paragraphe 185(1) de la LTA prévoit une exception à cette règle générale. En voici le texte :
+Services financiers – crédits de taxe sur les intrants
+185(1) Dans le cas où la taxe applicable à un bien ou un service acquis, importé ou transféré dans une province participante par un inscrit devient payable par l’inscrit à un moment où il n’est ni une institution financière désignée, ni une personne qui est une institution financière par l’effet de l’alinéa 149(1)b), les présomptions suivantes s’appliquent dans le cadre de la sous-section d et aux fins du calcul du crédit de taxe sur les intrants applicable, dans la mesure (déterminée en conformité avec le paragraphe 141.01(2)) où le bien ou le service a été acquis, importé ou transféré dans la province, selon le cas, pour être consommé, utilisé ou fourni dans le cadre de la fourniture de services financiers liés aux activités commerciales de l’inscrit :
+a) dans le cas où l’inscrit est une institution financière par l’effet de l’alinéa 149(1)c), le bien ou le service est réputé, malgré le paragraphe 141.01(2), avoir été ainsi acquis, importé ou transféré dans la province pour consommation, utilisation ou fourniture dans le cadre de ces activités commerciales, sauf dans la mesure où il a été ainsi acquis, importé ou transféré dans la province pour consommation, utilisation ou fourniture dans le cadre des activités de l’inscrit qui sont liées :
+(i) soit à des cartes de crédit ou de paiement qu’il a émises,
+(ii) soit à l’octroi d’une avance ou de crédit ou à un prêt d’argent;
+b) dans les autres cas, le bien ou le service est réputé, malgré le paragraphe 141.01(2), avoir été ainsi acquis, importé ou transféré dans la province pour consommation, utilisation ou fourniture dans le cadre de ces activités commerciales.
+[Non souligné dans l’original.]
+[45] Cette disposition permet à l’inscrit qui « n’est ni une institution financière désignée, ni une personne qui est une institution financière par l’effet de l’alinéa 149(1)b) » (l’appelante n’est ni l’une, ni l’autre de ces deux possibilités) de demander des CTI pour des biens ou des services consommés ou utilisés par lui « dans le cadre de la fourniture de services financiers liés aux activités commerciales de l’inscrit ». Ce résultat est obtenu parce que le bien ou service utilisé pour effectuer la fourniture d’un « service financier » est réputé avoir été acquis en vue de son utilisation dans le cadre d’activités commerciales pour lesquelles des CTI peuvent être demandés. Pour que l’inscrit puisse bénéficier du traitement favorable prévu au paragraphe 185(1), les services financiers fournis doivent être « liés aux » activités commerciales de l’inscrit.
+[46] L’intimée soutient que, vu les mots « liés aux », je suis appelé à rechercher si l’appelante a placé les guichets automatiques bancaires dans son entreprise afin de faciliter ses principales activités commerciales. Selon l’intimée, un service financier doit être accessoire ou connexe aux principales activités commerciales de l’inscrit pour donner droit au traitement favorable accordé par le paragraphe 185(1). L’intimée soutient que l’appelante n’avait pas à offrir des services de retrait d’argent comptant à ses clients parce qu’elle acceptait les paiements par carte de crédit et par carte de débit bancaire. Le service de GAB constituait un centre de profit distinct pour l’appelante. Par ces motifs, l’intimée soutient que l’exploitation des GAB n’était pas liée aux autres activités commerciales de l’appelante.
+[47] Je ne peux retenir l’interprétation de l’intimée. Le critère proposé par l’intimée n’est pas conforme au sens ordinaire des mots « liés aux » et ne tient pas compte du contexte et de l’objet du paragraphe 185(1).
+[48] Par l’arrêt Hypothèques Trustco Canada[54], la Cour suprême du Canada enseigne que, lorsque le libellé d’une disposition n’est pas équivoque, le sens ordinaire des mots joue un rôle primordial, mais que, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important et l’interprétation repose alors sur la loi qui consiste un ensemble harmonieux.
+10 [...] Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux[55].
+[49] Le sens ordinaire du mot « relate » (« liés aux » dans la version française de la LTA) va dans le sens de la thèse de l’appelante. Par exemple, The Canadian Oxford Dictionnary définit le mot « relate » de la manière suivante :
+[traduction]
+Relate, verbe
+3. (habituellement suivi de to) mettre en relation (l’un avec l’autre); établir un lien entre (mon expérience ne permet pas de comprendre « relate » votre opinion)[56].
+[50] Par l’arrêt Nowegijick c. La Reine[57], la Cour suprême du Canada a décidé que les mots « quant à » ont la portée la plus large. Chose intéressante, pour tirer cette conclusion, la Cour suprême a observé (à la page 39) que ces mots signifient, entre autres, « concernant », « relativement à » ou « par rapport à ». Par l’arrêt Slattery[58], la Cour suprême a discuté la définition de « in respect of » (« quant à ») et de « relating to » (« ayant trait à ») au regard du paragraphe 241(3) de la Loi de l’impôt sur le revenu. La Cour suprême a conclu que les observations formulées par l’arrêt Nowegijick sur « in respect of » (« quant à ») étaient également applicables à « relating to » (« ayant trait à ») :
+Selon moi, ces commentaires s’appliquent également à l’expression anglaise « relating to ». The Pocket Oxford Dictionary (1984) définit ainsi le mot anglais « relation » :
+[traduction]
+[...] rapport qui existe entre des personnes ou des choses, façon de se situer ou d’être par rapport à quelqu’un d’autre ou quelque chose d’autre, sorte de lien, de correspondance, de contraste ou de sentiment entre des personnes ou des choses […]
+Ainsi, les deux expressions conjonctives que l’on trouve dans la version anglaise du par. 241(3) portent à croire qu’il y a lieu d’adopter une interprétation large plutôt qu’étroite en examinant si une communication proposée se rapporte à des poursuites ayant trait à l’application ou à l’exécution de la Loi de l’impôt sur le revenu[59].
+[Non souligné dans l’original.]
+À la lumière de ces jurisprudences, l’inscrit n’a qu’à établir l’existence d’un lien entre la fourniture d’un service financier, pour laquelle elle demande des CTI, et ses autres activités commerciales. Il n’est pas nécessaire que les services financiers soient considérés comme accessoires ou connexes aux autres activités de l’appelante pour donner droit au traitement favorable prévu par le paragraphe 185(1). Le seuil est beaucoup plus bas que celui que l’intimée fait valoir.
+[51] L’intimée fait remarquer que, si je retiens la thèse de l’appelante, celle‑ci bénéficiera d’un avantage fiscal injuste, car elle recevra un plein crédit pour la TPS payée relativement à l’achat et à l’exploitation de ses GAB alors que les services de retrait d’argent comptant offerts par elle demeureront un service financier exonéré aux fins de la TPS. Les règles du jeu seront ainsi inéquitables, car les banques paient la TPS sur les coûts relatifs aux offres de tels services.
+[52] Le paragraphe 185(1) est une mesure de simplification. Cette disposition vise à réduire la controverse en exemptant les inscrits de la tâche difficile de ventiler la TPS payée entre les activités qui donnent lieu au crédit et celles qui n’y donnent pas lieu. L’inscrit peut demander des CTI relativement à des services financiers visés par le paragraphe 185(1) parce que le législateur a choisi de considérer les intrants relatifs à des transactions de service financier comme des intrants relatifs à des activités commerciales. Le revenu tiré de telles transactions échappe à la TPS parce que l’activité demeure une fourniture exonérée aux fins de la TPS. Contrairement à ce que soutient l’intimée, il ne fait aucun doute que le législateur était conscient de ce résultat et qu’il a favorisé la simplicité plutôt que les préoccupations de neutralité fiscale lorsqu’il a utilisé un libellé large pour définir l’admissibilité au paragraphe 185(1).
+[53] Compte tenu des preuves dans leur ensemble, je ne vois aucune différence entre les GAB de l’appelante et ses autres offres de produits et services. Il ressort des preuves que toutes les offres de produits et services de l’appelante étaient gérées de manière à augmenter le chiffre d’affaires brut et le bénéfice net. Les GAB de l’appelante avaient aussi pour but de dépanner ses clients, tout comme les autres offres de produits et services de l’appelante.
+[54] L’appelante a installé des GAB dans ses dépanneurs pour maximiser les visites de ses clients. Les GAB étaient stratégiquement placés afin de favoriser le plus possible leur utilisation. Les services de GAB permettaient aux clients d’accéder à leurs comptes bancaires tout en facilitant l’achat des autres produits et services de l’appelante. Il ressort des éléments de preuve que les utilisateurs des GAB effectuaient des achats spontanés à la suite d’un retrait d’argent de leurs comptes bancaires. L’appelante profitait des deux transactions. À mon avis, cela constitue un lien ou un rapport suffisant pour justifier la conclusion que les opérations de GAB de l’appelante « lié[e]s à » ses autres activités de dépanneurs.
+V. Moyen de défense fondé sur la diligence raisonnable
+[55] Le ministre a imposé des pénalités à l’appelante en vertu de l’article 280 de la LTA relativement au défaut de l’appelante de percevoir la TPS à l’égard des paiements qu’elle recevait de la CIBC au titre des accords de 2001 et de 2004. L’appelante soutient qu’elle a pris les mesures nécessaires pour conclure qu’elle n’avait pas à percevoir la TPS de la CIBC et que les pénalités doivent être annulées pour ce motif. Il est bien établi que le moyen de défense fondé sur la diligence raisonnable ne peut être utilement invoqué que dans une de deux circonstances : lorsqu’il existe une erreur factuelle raisonnable ou lorsque le contribuable a pris toutes les mesures raisonnables pour se conformer à la LTA. L’appelante n’a produit aucun élément de preuve montrant pourquoi elle avait conclu que les paiements reçus de CIBC n’étaient pas assujettis à la TPS. Par conséquent, je conclus que l’appelante a fait une erreur ayant trait à l’interprétation et à l’application de la loi. Une erreur de droit de ce type ne constitue pas un moyen de défense utile contre une pénalité établie en vertu de l’article 280. Par conséquent, la pénalité prévue à cet article doit être confirmée.
+[56] Aucuns dépens ne sont adjugés parce que les issues de la présente affaire sont partagés.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2012.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 5e jour de mars 2013.
+François Brunet, réviseur
+RÉFÉRENCE : 2012 CCI 393
+NO DU DOSSIER DE LA COUR : 2009-2677(GST)G
+INTITULÉ : MAC’S CONVENIENCE STORES INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 4 et 5 juin 2012
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 13 novembre 2012
+COMPARUTIONS :
+Avocats de l’appelante :
+Me D’Arcy Schieman
+Me Martha K. MacDonald
+Me Al Meghji
+Avocats de l’intimée :
+Me Michael Ezri
+Me Darren Prevost
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Noms : D’Arcy Schieman
+Martha K. MacDonald
+Al Meghji
+Cabinet : Osler, Hoskin & Harcourt S.E.N.C.R.L./s.r.l.
+Avocats
+Boîte 50, 1 First Canadian Place
+Toronto (Ontario) M5X 1B8
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+[1] L.C. 2010, ch. 12, par. 55(5).
+[2] Observations écrites de l’appelante, au par. 78.
+[3] Ibid.
+[4] Ibid, au par. 80.
+[5] Ibid, au par. 85.
+[6] Ibid, au par. 86.
+[7] Observations écrites de l’intimée, au par. 85.
+[8] Ibid, aux par. 88 et 89.
+[9] Ibid, au par. 93.
+[10] Ibid, au par. 97.
+[11] Ibid.
+[12] Ibid, au par. 96.
+[13] LTA, par. 123(1), définition de « service financier », alinéa a).
+[14] Agence du revenu du Canada, Énoncé de politique P-239, « Signification de l’expression “prendre des mesures en vue de l’effectuer” que l’on trouve dans la définition de “service financier” », 14 décembre 2009
+[15] Ibid.
+[16] Banque Royale du Canada c. La Reine, 2005 CCI 802, [2005] G.S.T.C. 198 (Banque Royale, 2005).
+[17] Ibid, au par. 8.
+[18] Ibid, au par. 15.
+[19] Ibid.
+[20] Ibid.
+[21] Ibid.
+[22] 2007 CAF 72, [2007] G.S.T.C. 18; autorisation d’appel refusé [2007] CSCR no 193 (QL).
+[23] L’Association canadienne de protection médicale c. La Reine, 2008 CCI 33, [2008] G.S.T.C. 88.
+[24] Ibid, au par. 42.
+[25] Ibid, au par. 48.
+[26] Association canadienne de protection médicale c. Canada, 2009 CAF 115, [2010] 2 R.C.F. 368, [2009] G.S.T.C. 65, au par. 64.
+[27] Ibid, au par. 61.
+[28] La Banque le Choix du Président c. La Reine, 2009 CCI 170, [2009] G.S.T.C. 60 (Banque PC).
+[29] Global Cash Access (Canada) Inc. c. La Reine, 2012 CCI 173 (Global Cash).
+[30] Banque PC, précitée note 27, au par. 3.
+[31] Ibid, au par. 30.
+[32] Ibid, au par. 34.
+[33] Ibid.
+[34] Ibid.
+[35] Ibid.
+[36] Ibid.
+[37] Ibid, au par. 35.
+[38] Ibid.
+[39] Ibid.
+[40] Ibid, au par. 38.
+[41] Ibid.
+[42] Transcription, à la page 61.
+[43] Ibid, à la page 63.
+[44] Ibid, à la page 95.
+[45] Ibid, à la page 94.
+[46] Accords de 2001, pièces A-1 et A-2, à l’alinéa 4.5a).
+[47] Accord de 2004, pièce A-3, à l’alinéa. 4.4d).
+[48] Extraits de la transcription de l’intimée, onglet 1, extrait de la transcription de l’interrogatoire préalable de Ziyad Mansour, le 8 juillet 2010, aux pages 55 et 56; extraits de l’intimée, onglet 2, lettre d’engagement de l’appelante datée du 17 décembre 2010, à la page 8.
+[49] Global Cash, précitée, note 29, au par. 63.
+[50] Ibid, au par. 72.
+[51] Ibid.
+[52] Ibid, au par. 70.
+[53] Ibid, au par. 71.
+[54] Hypothèques Trustco Mortgage Canada c. Canada, 2005 CSC 54, [2005] 2 R.C.S. 601.
+[55] Ibid.
+[56] The Canadian Oxford Dictionary, 2e éd.
+[57] Nowegijick c. La Reine, [1983] 1 R.C.S. 29.
+[58] Slattery (Syndic de) c. Slattery, [1993] 3 R.C.S. 430, aux pages. 445 et 46, [1993] 2 C.T.C. 243, aux pages 248 et 249, 93 D.T.C. 5443, à la page 5447.
+[59] Ibid, aux pages 445 et 446, RCS, page 249, C.T.C, page 5447, DTC. La définition de « relation » tirée du The Pocket Oxford Dictionnary est inclue dans la définition de « in relation to » dans Canada Tax Words, Phrases and Rules, Marc Jolin, vol. 1 (Toronto, Carswell, 2009), feuillet mobile.

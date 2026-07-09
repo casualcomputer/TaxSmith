@@ -1,0 +1,153 @@
+Title: Smith v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521001/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-145-521001-smith-v-the-king-en.md
+Document type: case_law
+Last modified: 2022-11-14
+
+# Smith v. The King
+
+- Citation: 2022 TCC 145
+- Decision date: 2022-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5802, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Smith v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-11-14
+Neutral citation
+2022 TCC 145
+File numbers
+2022-74(IT)I
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-74(IT)I
+BETWEEN:
+LINDELL SMITH,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on October 25, 2022, at Halifax, Nova Scotia
+Before: The Honourable Justice Susan Wong
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tanner McInnis
+Sophie Dupré
+JUDGMENT
+The appeal from a reassessment made under the Income Tax Act for the Appellant’s 2019 taxation year is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 14th day of November 2022.
+“Susan Wong”
+Wong J.
+Citation: 2022TCC145
+Date: 20221114
+Docket: 2022-74(IT)I
+BETWEEN:
+LINDELL SMITH,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+Introduction/Overview
+[1] The issue in this appeal is whether the Minister of National Revenue properly disallowed the wholly dependent person credit (also known as the “equivalent to spouse” or “eligible dependant” credit) to Mr. Smith for his 2019 taxation year.
+Legislative framework
+[2] Paragraph 118(1)(b) of the Income Tax Act sets out the specific qualifying criteria for the credit. They include such factors as marital/common-law status, self-contained domestic establishment (i.e. where the claimant and the wholly dependent person live), residency, the relationship between the claimant and the wholly dependent person, and whether the wholly dependent person is under 18 years of age or dependent by reason of mental or physical infirmity.
+[3] Subsection 118(5) prohibits the claiming of the credit where the claimant pays support with respect to the wholly dependent person, and reads as follows:
+118(5) Support – No amount may be deducted under subsection (1) in computing an individual’s tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (within the meaning assigned by subsection 56.1(4)) to the individual’s spouse or common-law partner or former spouse or common-law partner in respect of the person and the individual
+(a) lives separate and apart from the spouse or common-law partner or former spouse or common-law partner throughout the year because of the breakdown of their marriage or common-law partnership; or
+(b) claims a deduction for the year because of section 60 in respect of a support amount paid to the spouse or common-law partner or former spouse or common-law partner.
+[4] A “support amount” under subsection 56.1(4) essentially consists of spousal and/or child support arising from either a written agreement or a court order, and is payable on a periodic basis. The full definition reads as follows:
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[5] With respect to the deduction of a support amount under section 60, the practical effect of the formula set out in paragraph 60(b) typically leads to a deduction for spousal support payments and not child support, where the initial court order or written agreement dealing with child support is dated after April 1997. [1] Considering that it is now 2022, that would likely be most situations.
+[6] Lastly, subsection 118(5.1) says that where by virtue of the prohibition under subsection 118(5), no one qualifies for the credit, then the prohibition does not apply, i.e. the wholly dependent person credit can be claimed. The section reads as follows:
+118(5.1) Where subsec. 118(5) does not apply – Where, if this Act were read without reference to this subsection, solely because of the application of subsection (5), no individual is entitled to a deduction under paragraph (b) or (b.1) of the description of B in subsection (1) for a taxation year in respect of a child, subsection (5) shall not apply in respect of that child for that taxation year.
+Issue
+[7] The dispute in the present appeal does not lie with the qualifying criteria in paragraph 118(1)(b). Rather, it lies in whether the subsection 118(5) prohibition or the subsection 118(5.1) exemption applies to Mr. Smith’s 2019 taxation year.
+Brief facts
+[8] Mr. Smith and his former common-law spouse are the parents of a child (“JS”) born in 2009. He testified that they ended their common-law relationship and separated in about 2011 or 2012. He stated that their relationship continued to be cordial and they agreed no spousal or child support would be paid to each other. To that end, they signed a simple agreement on October 10, 2012, confirming that they would share custody and that there would be no child support payments. [2]
+[9] He stated that they shared custody equally but retained flexibility depending on their respective schedules. At the time, Mr. Smith was employed full-time and his former common-law spouse was a student. With respect to costs relating to JS, they agreed to share costs such as school and clothing, while Mr. Smith paid for extracurricular expenses and child care. He described that he always bore a greater cost as a result of this arrangement and it worked for them from the time of their separation in 2011/2012 to 2018.
+[10] On March 27, 2019, his former common-law spouse filed an application in Nova Scotia Supreme Court for child support. They represented themselves and attended a settlement conference before the court in June 2020. A consent order was granted at the end of the settlement conference in June and then issued in writing on July 17, 2020. [3]
+[11] The preamble to the July 17, 2020 consent order set out: (1) their respective incomes for the purpose of determining child support (under the Federal Child Support Guidelines [4] ), (2) that they agreed to a shared parenting arrangement, and (3) that they agreed to use the set-off amount with respect to child support.
+[12] The July 17, 2020 consent order itself set out the following (among other things) with respect to child support:
+a) the monthly table amount of child support for one child was $747.27;
+b) the set-off amount of child support was $440.00 payable by Mr. Smith monthly beginning on July 1, 2020; and
+c) a follow-up settlement conference in August 2020 to discuss arrears and payment of special expenses (under section 7 of the Guidelines).
+[13] With respect to the June settlement conference which led to the July 17, 2020 consent order, Mr. Smith explained that the judge did not agree with their historical approach to child support and instead referred to the Guidelines, resulting in the arrears to be discussed at the August settlement conference.
+[14] At the August settlement conference, Mr. Smith and his former common-law spouse represented themselves again. A consent order was granted at the end of the settlement conference and issued in writing on August 28, 2020. [5]
+[15] The preamble to the August 28, 2020 consent order was largely unchanged from July and referred to the same respective incomes of Mr. Smith and his former common-law spouse for the purposes of determining child support. The order itself set out the following (among other things) with respect to child support:
+a) the monthly table amount of child support payable by Mr. Smith’s former common-law spouse was $321.15;
+b) the monthly table amount of child support payable by Mr. Smith was $760.53;
+c) the set-off amount of child support was $440.00 payable by Mr. Smith monthly beginning on July 1, 2020;
+d) the agreed amount of child support arrears owing by Mr. Smith was $17,550.00; and
+e) beginning October 1, 2020, Mr. Smith would pay $598.00 per month, comprised of $440.00 in ongoing child support and $158.00 toward child support arrears.
+[16] Mr. Smith testified that during the August 2020 settlement conference, the judge used the standard child support tables to arrive at the amount of arrears. He also stated that the terms of the consent order have not been varied since then.
+Analysis and discussion
+[17] I found Mr. Smith to be a very credible person and the tenor of the consent orders suggests to me that the relationship between him and his former common-law spouse was and continued to be cordial. He capably argued that the fact the child support arrears were determined in August 2020 should not replace the fact that back in 2019, he conducted himself based on the genuine understanding that no child support was payable under the agreement with his former common-law spouse. In other words, the prohibition under subsection 118(5) should not apply because he was not paying support with respect to a wholly dependent person.
+[18] In Tossell [6] (also known as Peterson), the Federal Court of Appeal drew a nuanced distinction between a legal obligation to pay retroactive child support versus a legal obligation to pay arrears of child support, with the former being a new obligation. In doing so, the court considered the fact that in Ontario, the term “retroactive” in the context of support payments was a temporal reference (i.e. support to be paid in respect of a period before the date of the court order) and not intended to change history. [7] In that case, the dispute arose over the meaning of the term “retroactive additional periodic child support” in the minutes of settlement and resulting court order. [8]
+[19] The Federal Court of Appeal also stated that in order for a court order to oblige a person to pay child support arrears, there must be (at the time the court order is made): (1) an express or implied recognition of a pre-existing obligation to pay child support for a prior period, (2) an express or implied recognition of a complete or partial breach of that obligation, resulting in arrears of child support, and (3) an obligation set out in the court order to pay the arrears in whole or in part. [9]
+[20] In the present appeal, the wording of the August 2020 order meets all the above indicia of an order obliging a person to pay child support arrears. I must assume that the judges who issued the July and August 2020 consent orders intended to refer to the additional child support amount as arrears, i.e. to create not only a pre-existing obligation but also a breach of that obligation. [10] As an aside, I do not see temporal terminology in the Nova Scotia Parenting and Support Act [11] or the Nova Scotia Provincial Child Support Guidelines [12] , similar to what was referenced about Ontario in Tossell.
+[21] The August 2020 order is not specific about the period covered by the arrears and given that the arrears amount is a rounded number, I would infer on a balance that it was intentionally non-specific and likely meant to address the entire period following the end of the common-law relationship in 2011/2012.
+[22] As a result, I must find that Mr. Smith was paying a support amount for a wholly dependent person in 2019 and pursuant to subsection 118(5), cannot qualify for the wholly dependent person credit that year.
+[23] I would add, however, that the wording of the August 2020 order seems to contemplate the possible application of the subsection 118(5.1) exemption going forward, as paragraph 2 of the order refers to child support payable by both parents. It appears to be a deliberate change in wording from the July 2020 order and I would again be inclined to infer intent on the part of the presiding judge.
+Conclusion
+[24] The appeal is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 14th day of November 2022.
+“Susan Wong”
+Wong J.
+CITATION:
+2022 TCC 145
+COURT FILE NO.:
+2022-74(IT)I
+STYLE OF CAUSE:
+Lindell Smith v. His Majesty The King
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+October 25, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+November 14, 2022
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tanner McInnis
+Sophie Dupré
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Definition of “commencement day”, subsections 56.1(4) and 60.1(4)
+[2] Exhibit A-1
+[3] Exhibit R-1
+[4] SOR/97-175
+[5] Exhibit R-2
+[6] Tossell v. Canada, 2005 FCA 223
+[7] Tossell v. Canada, 2005 FCA 223 at paragraphs 41 and 42
+[8] Tossell v. Canada, 2005 FCA 223 at paragraph 29
+[9] Tossell v. Canada, 2005 FCA 223 at paragraph 36
+[10] Bayliss v. The Queen, 2007 TCC 387 at paragraph 10
+[11] RSNS 1989, chapter 160
+[12] NS Reg. 53/1998, amended to OIC 2022-75 (effective April 1, 2022), NS Reg. 49/2022

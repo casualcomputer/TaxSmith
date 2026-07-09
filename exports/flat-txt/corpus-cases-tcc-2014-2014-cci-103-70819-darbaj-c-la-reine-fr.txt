@@ -1,0 +1,107 @@
+Title: Darbaj c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/70819/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-103-70819-darbaj-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-04-01
+
+# Darbaj c. La Reine
+
+- Citation: 2014 CCI 103
+- Decision date: 2014-04-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5334, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Darbaj c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-04-01
+Référence neutre
+2014 CCI 103
+Numéro de dossier
+2012-1179(GST)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-1179(GST)I
+ENTRE :
+HASSEN DARBAJ et WAFAA DARBAJ,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 mars 2014, à Hamilton (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant des appelants :
+M. Mustapha Darbaj
+Avocat de l’intimée :
+Me Jan Jensen
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise au moyen d’un avis daté du 17 janvier 2011 est rejeté. Les parties assumeront leurs propres frais.
+Signé à Toronto (Ontario), ce 1er jour d’avril 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 13e jour de mai 2014.
+Marie‑Christine Gervais, traductrice
+Référence : 2014 CCI 103
+Date : 20140401
+Dossier : 2012-1179(GST)I
+ENTRE :
+HASSEN DARBAJ et WAFAA DARBAJ,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Hassen et Wafaa Darbaj ont acheté une maison neuve le 29 mars 2007 et sont devenus admissibles au remboursement de la taxe sur les produits et services (la « TPS ») au titre du paragraphe 256.74(1) de la Loi sur la taxe d’accise (la « Loi »). Le montant du remboursement s’élève à 1 848,59 $, soit 1 pour 100 de la contrepartie de la maison.
+[2] Malheureusement pour les appelants, ils n’ont pas respecté le délai de deux ans prévu pour la présentation d’une demande de remboursement. Le délai prescrit est prévu au paragraphe 256.74(7) de la Loi, qui est rédigé en ces termes :
+256.74(7) Demande de remboursement – Un remboursement prévu au présent article relativement à un immeuble d’habitation n’est accordé à une personne que si elle en fait la demande dans les deux ans suivant le jour où la propriété de l’immeuble lui est transférée.
+[3] Lorsqu’ils se sont rendu compte qu’ils n’avaient pas respecté le délai, les appelants ont décidé de quand même demander le remboursement. Dans la demande de remboursement, qui a été envoyée le 22 juin 2009, ils ont informé l’Agence du revenu du Canada (l’« ARC ») que la demande était présentée en retard.
+[4] Bien que l’ARC ait été informée de la question du respect du délai, la demande a été approuvée et le remboursement a été versé le 15 juillet 2009.
+[5] Il semble que l’ARC a par la suite procédé à un nouvel examen de la demande et que cela a donné lieu à un avis de nouvelle cotisation qui a été envoyé le 17 janvier 2011. Dans la nouvelle cotisation, le remboursement a été refusé en raison de la présentation tardive de la demande.
+[6] À l’audience, les appelants étaient représentés par leur fils, Mustapha Darbaj. Celui‑ci a fait valoir qu’il n’était pas juste que ses parents soient tenus de rembourser le montant qu’ils avaient reçu. Il a fait remarquer que ses parents avaient agi de manière raisonnable en avisant l’ARC qu’ils n’avaient pas respecté le délai, que ses parents croyaient que l’ARC avait décidé de ne pas tenir compte du délai et que cela faisait longtemps qu’ils avaient dépensé l’argent qu’ils avaient reçu à titre de remboursement.
+Analyse
+[7] La question à trancher dans le présent appel est de savoir si la nouvelle cotisation dans laquelle le remboursement a été refusé doit être confirmée.
+[8] À mon avis, rien ne permet d’annuler la nouvelle cotisation. Selon le paragraphe 256.74(7) de la Loi, un remboursement ne peut être accordé que si le contribuable en fait la demande dans un délai de deux ans. Bien que le ministre ait tout d’abord accordé le remboursement, il lui est loisible de réexaminer sa décision et d’établir une nouvelle cotisation au titre du paragraphe 297(2) de la Loi. Cette disposition est libellée ainsi :
+297.(2) Nouvelle cotisation – Le ministre peut établir une nouvelle cotisation ou une cotisation supplémentaire au titre d’un remboursement sans tenir compte des cotisations établies antérieurement à ce titre.
+[9] Les appelants soutiennent que la nouvelle cotisation devrait être annulée pour des motifs d’équité. Cependant, il ressort clairement de la jurisprudence que, si la loi permet l’établissement d’une cotisation, la Cour ne peut pas annuler la cotisation pour des motifs d’équité, même si le problème découle d’une erreur commise par l’ARC. Par conséquent, les arguments fondés sur l’équité sont rejetés.
+[10] Je conclus que la nouvelle cotisation établie le 17 janvier 2011 est exacte et que l’appel doit être rejeté.
+Signé à Toronto (Ontario), ce 1er jour d’avril 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 13e jour de mai 2014.
+Marie‑Christine Gervais, traductrice
+RÉFÉRENCE : 2014 CCI 103
+NO DU DOSSIER DE LA COUR : 2012-1179(GST)I
+INTITULÉ : HASSEN DARBAJ et WAFAA DARBAJ c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 12 mars 2014
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 1er avril 2014
+COMPARUTIONS :
+Représentant des appelants :
+M. Mustapha Darbaj
+Avocat de l’intimée :
+Me Jan Jensen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

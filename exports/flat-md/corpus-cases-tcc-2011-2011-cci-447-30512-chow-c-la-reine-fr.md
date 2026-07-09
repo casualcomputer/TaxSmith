@@ -1,0 +1,109 @@
+---
+title: "Chow c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30512/index.do"
+last_modified: "2011-04-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 447"
+citation2: ""
+neutral_citation: "2011 CCI 447"
+decision_date: "2011-04-13"
+language: "fr"
+item_id: "30512"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7252
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:56:46.437000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a26cef1412b451ccd5c09e754c890e127aefba72ffd527f105298a28beb1a05e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chow c. La Reine
+
+- Citation: 2011 CCI 447
+- Decision date: 2011-04-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7252, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chow c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-04-13
+Référence neutre
+2011 CCI 447
+Numéro de dossier
+2008-328(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2011 CCI 447
+Date : 20110922
+Dossier : 2008-328(IT)G
+ENTRE :
+BILL CHOW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE LA DÉCISION CONCERNANT LES DÉPENS
+(Rendus oralement à l'audience le 13 avril 2011, à Toronto (Ontario).)
+Le juge V. A. Miller
+[1] Je vous ferai part de ma décision et je vous en expliquerai ensuite les raisons. Ma décision dans le présent appel est qu'aucuns dépens ne doivent être adjugés. Je crois que chaque partie peut supporter ses propres dépens et ma décision est basée sur ce qui suit : selon l'article 147 des Règles, en exerçant mon pouvoir discrétionnaire, je peux tenir compte du résultat de l'instance. C'est ce que j'ai fait. Selon ce résultat, l'appelant a réussi à faire réduire le revenu non déclaré. La Couronne a en grande partie eu gain de cause, mais l'appelant a eu un certain succès.
+[2] L'autre élément pertinent que je devais considérer concernait les offres de règlement. En regardant les offres de règlement, je conviens avec l'avocat de l'appelant que, dans la première lettre d'offre, les montants que la Couronne était disposée à concéder s'élevaient à 15 000 $ pour l'année 2001. Je présume qu'il s'agit du prêt de 15 000 $. J'ai vu la preuve documentaire attestant ce montant et je suis d'accord avec l'avocat de l'appelant pour dire que, lorsqu'une preuve documentaire est produite dans le cas d'une cotisation fondée sur l'avoir net, les montants étayés par les documents doivent être accordés et ne doivent même pas être mis en doute. C'est mon opinion et j'ai agi dans ce dossier conformément à celle‑ci.
+[3] D'après l'avocat de l'intimée, le montant de 6 000 $ que la Couronne était disposée à accepter ou à concéder dans le règlement pour l'année 2004 correspond presque entièrement au montant de la carte de crédit. Le chiffre exact est attesté par une preuve documentaire. La dernière offre de règlement du 7 avril était la même pour les 15 000 $ concédés en 2001, et il y a maintenant 31 000 $. Il s'agit du montant supplémentaire de 25 000 $ qui a été concédé ici même pour 2004, et que j'aurais accordé de toute façon. Un simple coup d'oeil sur les annexes de l'avoir net me permettait de voir que ce montant figurait en double.
+[4] Normalement, j'aurais recours aux offres de règlement pour adjuger les dépens à la personne qui a fait l'offre de règlement, particulièrement dans le cas où l'autre partie n'aurait même pas participé au processus de règlement. Cependant, dans la présente affaire, on aurait dû simplement renoncer aux montants ayant fait l'objet d'offres de règlement. Il s'agissait de montants attestés par la preuve documentaire. Les montants que j'ai accordés étaient compris dans la lettre d'offre de règlement de l'avocat de l'appelant du 25 février 2011. Le montant du prêt à rembourser était exactement celui que j'ai accordé. Il en était de même pour le montant de la carte de crédit. Le montant demandé pour la résidence n'a pas été accordé, mais aucun argument ne m'a été présenté relativement à ce montant particulier; je ne lui donne donc vraiment aucune importance. Je le répète, les montants qui ont été accordés étaient attestés par des documents présentés par l'appelant.
+[5] Selon la Couronne, il y aurait eu prolongation inutile de l'instance. À mon humble avis, je ne pense avoir vu aucun élément ayant prolongé l'instance que l'on puisse imputer à l'appelant. L'intimée a prolongé la durée de l'instance en refusant la preuve documentaire présentée par l'appelant.
+[6] Au moment de décider des pénalités, j'ai fait un calcul sommaire et j'ai constaté qu'il y avait encore un montant non déclaré. Selon ma décision, il y a un faible montant de revenu non déclaré en 2001; il y a toujours un montant considérable de revenu non déclaré en 2002 et en 2003; il n'y a plus de revenu non déclaré en 2004. En conséquence, eu égard à tous ces éléments, je conclus qu'il n'y aura aucuns dépens adjugés. Telle était mon opinion avant de me présenter, mais je savais que je devais tenir compte des offres de règlement parce qu'elles auraient pu avoir une incidence sur celle‑ci.
+[7] Mon opinion reste inchangée; aucuns dépens ne seront donc adjugés dans la présente affaire.
+Mis en paragraphes et révisé légèrement par souci de clarté.
+Signé à Ottawa, Canada, ce 22e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 2e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2011 CCI 447
+NO DU DOSSIER DE LA COUR : 2008-328(IT)G
+INTITULÉ : BILL CHOW c. LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Les 11, 12 et 13 avril 2011
+MOTIFS DU JUGEMENT : L'honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 9 mai 2011
+DATE DES MOTIFS DE LA DÉCISION Le 22 septembre 2011
+CONCERNANT LES DÉPENS :
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Y. David Payne
+Avocat de l'intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Me Y. David Payne
+Cabinet : Payne Law
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

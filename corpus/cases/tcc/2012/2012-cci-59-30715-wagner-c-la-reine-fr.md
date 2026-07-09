@@ -1,0 +1,184 @@
+---
+title: "Wagner c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30715/index.do"
+last_modified: "2012-02-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 59"
+citation2: ""
+neutral_citation: "2012 CCI 59"
+decision_date: "2012-02-23"
+language: "fr"
+item_id: "30715"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7517
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:47:26.638000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "746b8c453202277f0565bb44434bfc625b89e26d3da5eba6559ca2ee1cb24a56"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wagner c. La Reine
+
+- Citation: 2012 CCI 59
+- Decision date: 2012-02-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7517, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wagner c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-02-23
+Référence neutre
+2012 CCI 59
+Numéro de dossier
+2004-4348(GST)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-4348(GST)G
+ENTRE :
+RAYMOND F. WAGNER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 9 novembre 2011, à Halifax (Nouvelle‑Écosse).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat de l’appelant :
+Me Gerard Tompkins, c.r.
+Avocats de l’intimée :
+Me Dominique Gallant
+Me Scott Millar
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli en partie et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation de manière à tenir compte d’une réduction de 25 pour 100 de la taxe due par l’appelant et de rajustements relatifs à l’intérêt et aux pénalités, comme en a convenu l’intimée. Les dépens seront fixés après audition des deux parties. À tous les autres égards, la cotisation est confirmée.
+Signé ce 23e jour de février 2012.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 31e jour de mai 2012.
+Erich Klein, réviseur
+Référence : 2012 CCI 59
+Date : 20120222
+Dossier : 2004-4348(GST)G
+ENTRE :
+RAYMOND F. WAGNER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’un appel interjeté à l’égard d’une nouvelle cotisation établie le 30 juin 2004 en vertu de la partie IX de la Loi sur la taxe d’accise (la « Loi ») pour la période du 1er janvier 1999 au 30 septembre 2001. La nouvelle cotisation se rapporte à un montant de taxe que l’appelant aurait omis de percevoir et de verser au titre de sommes facturées à ses clients. La taxe établie dans la cotisation initiale a fait l’objet de redressements, et l’intérêt et les pénalités ont été réduits. La taxe sur les produits et services et la taxe de vente harmonisée (la « TPS/TVH ») établie s’élève à 43 393,67 $, l’intérêt à 4 407,41 $, moins un rajustement de 1 195,97 $, et les pénalités à 6 043,55 $, moins un redressement de 1 404,41 $.
+[2] À l’audience, les avocats ont informé la Cour que le montant de la TPS/TVH déterminée dans la cotisation établie à l’égard de l’appelant doit être réduit de 25 pour 100, ce qui correspond à une somme de 10 848 $ et fait passer le montant de taxe établie à 32 544 $. De plus, l’appelant a reconnu que la cotisation est valable en partie, soit à hauteur d’une somme de 5 641 $. Le solde est toujours en litige et concerne la TPS/TVH que l’appelant aurait dû percevoir ou n’avait pas à percevoir, selon le cas, au titre de débours figurant sous la rubrique des rapports d’examen médical indépendant (les « EMI »).
+[3] L’appelant exerce le droit depuis février 1980. Depuis 1995, son cabinet se spécialise exclusivement dans la représentation de demandeurs ayant subi des lésions corporelles. À tous les moments pertinents au cours de la période visée par l’appel, l’appelant avait comme associés trois avocats, et chacun procédait de la même manière.
+[4] Les services de l’appelant sont retenus presque exclusivement en vertu d’une convention d’honoraires conditionnels; il s’agit d’un contrat type qui énonce les conditions et les détails des arrangements financiers pris entre le client et l’appelant. Les honoraires de l’avocat sont payables selon certains pourcentages, et le paiement est subordonné à l’obtention d’une conclusion de responsabilité ou au règlement de la demande du client.
+[5] La convention d’honoraires conditionnels prévoit en outre que, peu importe les résultats obtenus, le client est responsable de la totalité des débours et des dépenses appropriés et raisonnables faits par l’avocat. La partie pertinente de la convention d’honoraires conditionnels à cet égard est ainsi libellée :
+[traduction]
+ii) Peu importe les résultats obtenus, le client est responsable de la totalité des débours et dépenses appropriés et raisonnables faits par l’avocat. Les débours et les dépenses payés par l’avocat sont facturés au client dès qu’on pourra raisonnablement le faire après leur paiement. Le client doit rembourser l’avocat dès qu’il pourra raisonnablement le faire après la facturation.
+iii) Mis à part le paiement de la totalité des débours et dépenses appropriés et raisonnables, le client n’est tenu de payer aucun montant autre que les sommes perçues par l’avocat, à l’exclusion des dépens auxquels le client est condamné. Le client assume l’entière responsabilité de ces dépens, lesquels ne font pas partie de la présente convention.
+iv) Comme il est précisé plus loin, avant que ne soient calculés les honoraires dus aux avocats, seront d’abord déduits du montant global des dommages‑intérêts accordés la totalité des débours et dépenses raisonnables afin d’obtenir un résultat net.
+[6] Comme je l’ai mentionné plus haut, les débours en cause dans le présent appel sont pour des rapports médicaux ainsi que des examens médicaux indépendants qui sont nécessaires pour faire avancer la cause du client et qui aident à déterminer les soins et les traitements médicaux dont ce dernier a besoin. De façon générale, l’abréviation EMI a été employée pendant toute l’audition du présent appel pour désigner les rapports médicaux établis par des médecins généralistes ou spécialistes ainsi que les examens médicaux indépendants qui sont effectués par une personne autre que les médecins traitants. En d’autres termes, les services en cause concernent l’utilisation de services offerts par des professionnels de la santé.
+[7] Même si la convention d’honoraires conditionnels prévoit le remboursement des débours à l’avocat dès que le client peut raisonnablement le faire après la facturation, il n’en demeure pas moins qu’en réalité, selon l’appelant, le client n’est presque jamais en mesure de payer ces frais pour diverses raisons évidentes. Il est de pratique courante au cabinet de l’appelant de payer les EMI et de les traiter dans le grand livre comme des débours non facturés tant que l’affaire n’est pas résolue de manière définitive ou qu’une avance n’est pas versée au titre de la demande du client.
+[8] Tous les EMI sont demandés au nom du client après avoir discuté avec lui de l’importance de ces rapports tant au regard de l’instance elle‑même que du point de vue des soins et des traitements médicaux dont il fait l’objet. Le paiement des EMI est assujetti à une règle de pratique adoptée à la fin des années 1990 par la Nova Scotia Barristers’ Society. Selon cette règle, le médecin qui reçoit une demande visant à obtenir un rapport médico‑légal doit fournir ce rapport dans un délai de 45 jours, et l’avocat qui a fait la demande ne doit pas attendre que le paiement puisse se faire à l’aide des fonds du client ou par un autre moyen, mais il doit lui‑même payer la facture dans un délai de 45 jours.
+[9] L’appelant reconnaît que le contenu d’un EMI est un élément indispensable pour conseiller ses clients et que l’EMI fait partie intégrante de la cause d’un client. Il est utile pour recommander un règlement ou pour déterminer comment il convient de donner suite à la demande. Pour les EMI, l’appelant s’adresse à un médecin en particulier depuis près de 20 ans, et il reconnaît que la lettre demandant un tel rapport mentionne que la demande est faite au nom de son client; il reconnaît aussi que cette lettre ne précise pas que ce dernier est responsable du paiement. La facture relative à l’EMI est adressée à l’avocat; l’appelant reconnaît que c’est à lui que le médecin demande paiement et qu’il n’est nullement mentionné que qui que ce soit d’autre est responsable du paiement.
+[10] En définitive, l’appelant facture ses services et les débours à son client. Il ne fait aucun doute que la prestation de services par le médecin constitue une fourniture exonérée. Il s’agit en l’espèce de décider si l’appelant était tenu de percevoir et de remettre la TPS/TVH au titre de sommes facturées à ses clients pour les services d’EMI fournis par des médecins et qu’il a lui‑même payés.
+[11] L’avocat de l’appelant invoque la décision rendue par notre Cour dans Riverfront Medical Evaluations Limited c. Canada, [2001] A.C.I. no 381 (QL), [2001] G.S.T.C. 80, confirmée par la Cour d’appel fédérale (2002 CAF 341), pour affirmer que les services fournis en l’espèce par des médecins constituent une fourniture exonérée, qu’il importe peu de savoir qui prend les dispositions nécessaires pour obtenir les services ou qui les paye, et que les services ne devraient pas devenir taxables simplement en raison du rôle joué par l’appelant. De plus, il soutient que l’appelant agissait en qualité de mandataire de son client et qu’il n’était donc pas tenu de percevoir ou de verser la TPS/TVH au titre des EMI.
+[12] L’avocate de l’intimée invoque l’arrêt récent Canada c. Merchant Law Group, 2010 CAF 206, dans lequel la Cour d’appel fédérale a conclu que, pour qu’un avocat ne soit pas l’acquéreur des produits ou des services, il doit établir qu’au moment de leur acquisition il agissait à titre de mandataire de son client. Selon l’avocate de l’intimée, l’appelant ne s’est pas acquitté de ce fardeau en l’espèce. Elle soutient en outre que la fourniture des services dans la présente affaire a été effectuée par l’appelant au bénéfice de son client et que les EMI font partie des éléments dont l’appelant a besoin pour pouvoir fournir des conseils et des services professionnels à son client.
+[13] Dans la décision Riverfront Medical Evaluations Limited, précitée, l’appelante avait engagé des médecins pour fournir des rapports d’EMI à des compagnies d’assurance et à des avocats dans des affaires relatives à des lésions corporelles. Il s’agissait de savoir si les services d’EMI fournis par l’appelante constituaient des soins médicaux et étaient donc exonérés selon la Loi et si l’appelante administrait un « établissement de santé » au sens de la Loi. Notre Cour a répondu par l’affirmative aux deux questions et elle a en fin de compte conclu que la fourniture des rapports aux avocats et aux compagnies d’assurance n’était pas assujettie à la TPS/TVH. Cette conclusion a été confirmée par la Cour d’appel fédérale.
+[14] L’exemple d’une facture qu’un médecin a envoyée à l’appelant en l’espèce montre sans équivoque qu’aucune TPS/TVH n’a été facturée à ce dernier ni perçue auprès de lui par le médecin, ce qui est entièrement compatible avec la décision Riverfront, précitée, et, du reste, avec la Loi. Par contre, cela n’autorise pas l’avocat à ne pas percevoir la TPS/TVH au titre des EMI qu’il facture comme débours à son client.
+[15] La Cour d’appel fédérale s’est prononcée sur cette dernière situation dans l’arrêt Merchant Law Group, précité. Madame la juge Dawson expose clairement le régime législatif, au paragraphe 11 :
+En règle générale, la section II de la partie IX de la Loi prévoit le paiement de la TPS par « l’acquéreur d’une fourniture taxable effectuée au Canada ». Voir : le paragraphe 165(1) de la Loi. Les termes « acquéreur », « fourniture » et « fourniture taxable » sont définis pour l’essentiel comme suit au paragraphe 123(1) de la Loi :
+123(1). « acquéreur »
+a) Personne qui est tenue, aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+…
+« fourniture » Sous réserve des articles 133 et 134, livraison de biens ou prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation.
+« fourniture taxable » Fourniture effectuée dans le cadre d’une activité commerciale.
+123(1). "recipient" of a supply of property or a service means
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+[...]
+"supply" means, subject to sections 133 and 134, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+"taxable supply" means a supply that is made in the course of a commercial activity.
+[16] Elle poursuit, aux paragraphes 12, 13 et 14, en affirmant qu’un avocat peut effectuer des débours de deux façons, et elle précise comment ceux‑ci doivent être traités.
+12 Il existe deux façons pour un avocat d’effectuer des débours. Il peut le faire à titre de mandataire de son client, ou pour son propre compte, comme dépense engagée dans le cadre de la prestation de services juridiques. La façon de traiter les débours dans l’un ou l’autre cas n’est pas en litige.
+13 Dans le premier cas, l’avocat n’est pas l’acquéreur de la fourniture au sens du paragraphe 123(1) de la Loi si l’avocat n’est pas l’entité qui est tenue de payer la contrepartie prévue au contrat avec le tiers fournisseur. L’avocat n’effectue pas une fourniture. Il agit simplement à titre de mandataire ou de représentant de son mandant. Dans ce cas, le débours ne fait pas partie des dépenses engagées par l’avocat. L’obligation de payer revient au client et l’avocat exécute cette obligation pour le compte de son client.
+14 Dans le deuxième cas, où l’avocat est l’« acquéreur » d’une fourniture, le débours est effectué à ses propres frais. Le client peut lui rembourser la dépense engagée, mais il n’est pas tenu de payer le tiers fournisseur. L’avocat a engagé la dépense afin de fournir des services juridiques au client. Puisque les produits ou les services ont été acquis pour être utilisés ou consommés dans le cadre de la fourniture de services juridiques, les avocats inscrits aux fins de la TPS peuvent demander un crédit de taxe sur les intrants et soustraire la TPS du débours initial. L’avocat facture ensuite à son client le débours excluant la TPS. Si elle est exigible, la TPS est alors prélevée sur le compte du client, y compris le débours excluant la TPS.
+[17] Madame la juge Dawson énonce ensuite les conditions qui doivent être réunies pour qu’il existe une relation de mandataire et mandant, et elle précise les éléments que doit établir l’avocat pour démontrer qu’il n’était pas l’« acquéreur » des produits et services. Elle fait les commentaires suivants aux paragraphes 15 à 18 et au paragraphe 21 :
+15 Le litige en l’espèce porte sur la question de savoir si l’intimé a effectué les débours en cause à titre de mandataire de ses clients. La position de l’Agence du revenu du Canada concernant la question de savoir si une personne agit à titre de mandataire est formulée dans l’Énoncé de politique sur la TPS/TVH no P‑182R. La Cour a déjà conclu que l’énoncé n’a pas de force obligatoire, mais qu’il « constitue un instrument utile pour se prononcer sur l’existence d’une relation de mandataire ». Voir : Glengarry Bingo Assn. c. Canada (1999), 237 N.R. 63.
+16 L’énoncé de politique no P‑182R énumère les trois conditions essentielles d’une relation de mandataire. Dans le cadre du présent appel, la condition qui nous intéresse est celle voulant qu’un mandataire ait le pouvoir d’influer sur la situation juridique du mandant.
+17 Il est bien établi en common law qu’une relation de mandataire exige que le mandataire puisse influer sur la situation juridique du mandant à l’égard des tiers, en concluant des contrats pour le compte du mandant ou en disposant des biens du [sic] celui‑ci. Voir, par exemple, G.H.L. Fridman, Canadian Agency Law, (Markham : LexisNexis Canada Inc., 2009), à la page 4, et F.M.B. Reynolds, Bowstead and Reynolds on Agency, 17e éd. (London : Sweet & Maxwell, 2001), au paragraphe 1‑001. Pour reprendre les propos du professeur Fridman, qui cite la décision Royal Securities Corp. Ltd. c. Montreal Trust Co., [1967] 1 O.R. 137, page 155 (H.C.J.), conf. par [1967] 2 O.R. 200 (C.A.), [traduction] « le droit des mandats ne s’appliquera que lorsque les actes accomplis par une personne pour le compte d’une autre personne modifient la situation juridique de celle‑ci, c’est‑à‑dire les droits et les obligations qu’elle a à l’égard des autres personnes. La cession du droit d’exercer les pouvoirs juridiques d’une autre personne, et d’influer ainsi sur sa situation juridique, constitue une caractéristique essentielle de la relation de mandataire. »
+18 L’énoncé de politique no P‑182R porte ensuite sur les huit indices qui seraient utiles pour déterminer si les conditions essentielles du mandat sont présentes dans une opération donnée. Parmi eux, les indices suivants sont pertinents pour le présent appel :
+· Pratiques comptables : Bien que les mandataires n’aient pas nécessairement l’obligation de maintenir des comptes distincts, le fait qu’une personne sépare de ses propres fonds des sommes reçues ou payées dans le cadre d’une relation avec une autre personne révèle qu’il est possible qu’il s’agisse d’une relation de mandataire.
+· Modification du bien acquis : En règle générale, les mandataires ne modifient pas la nature des biens acquis d’un tiers avant de les transmettre au mandant. Toutefois, cela est également vrai dans de nombreux cas où quelqu’un acquiert un bien d’un tiers autrement qu’à titre de mandataire.
+· Responsabilité en vertu d’un contrat ou à l’égard d’un paiement : Lorsqu’une personne achète des biens pour le compte d’une autre personne, et que cette autre personne est tenue de payer ce que le fournisseur a vendu, la personne qui agit pour le compte de l’acheteur est considérée comme le mandataire de l’acheteur.
+· Propriété des biens : En règle générale, le mandataire n’acquiert pas de droit de propriété dans le bien qu’il acquiert à ce titre pour le compte du mandant, puisque la propriété passe directement au mandant. Toutefois, le mandant et le mandataire peuvent s’entendre pour que le mandataire détienne le titre de propriété.
+[…]
+21 Comme il a été mentionné, pour qu’un avocat qui acquiert des produits ou des services ne soit pas l’« acquéreur » de ces produits ou services, il doit démontrer qu’il agissait à titre de mandataire, pour le compte de ses clients lors de leur acquisition. Il incombe à l’avocat de prouver l’existence d’une relation de mandataire. Voir : Glengarry Bingo, au paragraphe 10.
+[18] La conclusion tirée par la Cour d’appel fédérale – et il m’incombe, à mon avis, de trancher le même point en l’espèce – est énoncée aux paragraphes 25 et 26 ainsi que dans une partie du paragraphe 35 de la décision :
+25 En toute déférence, le juge a commis une erreur de droit en se fondant sur la nature générale de la relation entre un avocat et son client. En droit, ce n’est pas parce que la relation avocat‑client est généralement une relation de mandataire, que toutes les obligations financières assumées par un avocat dans le cadre de la fourniture de services juridiques sont assumées par lui à titre de mandataire de ses clients. En fait, le juge l’a reconnu en rejetant la partie de l’appel portant sur les frais de bureau engagés par l’intimé pour le compte de ses clients. Pour appliquer le critère approprié, le juge devait déterminer si les clients de l’intimé étaient liés par les contrats conclus avec des tiers fournisseurs et si de ce fait, ils étaient responsables des paiements en vertu des contrats et s’ils étaient en outre exposés à des risques comme partie au contrat. Dans l’affirmative, il s’ensuit que l’intimé a effectué des paiements aux fournisseurs uniquement à titre de mandataire.
+26 L’absence de toute preuve à l’appui de la conclusion selon laquelle les clients de l’intimé étaient liés par les contrats conclus avec des tiers fournisseurs signifie que l’intimé s’est acquitté de l’obligation qui lui incombait de démontrer qu’il a agi à titre de mandataire de ses clients lorsqu’il a effectué les débours en cause. Il s’ensuit que les produits et les services faisant l’objet des débours constituaient des fournitures taxables reçues par l’intimé et qu’il devait donc percevoir et verser la TPS sur les débours.
+[…]
+35 Enfin, comme il a été expliqué ci‑dessus, c’est une erreur de droit que de conclure que, puisque la relation avocat‑client est généralement une relation de mandataire, l’avocat prend toutes les mesures qu’il prend à titre de mandataire de son client. Pour établir que l’avocat n’était pas l’acquéreur d’une fourniture taxable, il faut présenter au moins quelques éléments de preuve quant à l’opération particulière et quant à la mesure dans laquelle l’avocat avait la capacité de lier son client par cette opération. […]
+[19] La conclusion à tirer dépend de la capacité de l’appelant d’influer sur la situation juridique de son client et du fait pour l’appelant de prendre sur lui l’obligation du client de payer le médecin pour les EMI.
+[20] Notre dernière citation concernant la relation qui existe en droit contractuel entre un mandant et un tiers est tirée de l’ouvrage de Gerald Fridman intitulé Canadian Agency Law, Markham (Ontario), LexisNexis, 2009, aux pages 139 à 140 :
+[traduction]
+Si un mandataire conclut un contrat verbal ou écrit avec un tiers pour le compte d’un mandant connu qui existe vraiment et qui a autorisé le mandataire à conclure un tel contrat, le mandant peut poursuivre le tiers et être poursuivi par lui relativement à ce contrat. Une relation contractuelle directe est ainsi créée entre le mandant et le tiers par les actes du mandataire, lequel ne fait pas lui‑même partie de cette relation.
+Le mandataire doit avoir été habilité à conclure le contrat. Un mandant n’est pas lié par un contrat conclu par un mandataire qui a outrepassé ses pouvoirs – peu importe comment ceux‑ci lui ont été conférés –, et il ne pourra intenter des poursuites fondées sur ce contrat. Aux fins de la présente discussion, on peut résumer l’analyse précédente en disant que, pour qu’une relation contractuelle directe résulte des actes d’un mandataire, il faut établir l’existence de l’une ou l’autre des situations suivantes : (i) le mandant a expressément autorisé le mandataire à conclure le contrat; (ii) le mandataire agissait dans les limites d’un pouvoir implicite quelconque, en ce sens qu’il était nécessaire, courant ou habituel qu’un mandataire ayant le même métier, exploitant le même genre d’entreprise ou exerçant la même profession que le mandataire conclue un tel contrat; (iii) le mandant avait présenté le mandataire comme une personne habilitée à conclure le contrat; (iv) le mandataire n’avait pas le pouvoir de conclure un contrat de ce genre, mais ses actes ont subséquemment été ratifiés; (v) la conclusion de ce contrat relevait nécessairement du pouvoir d’un mandataire.
+[21] À mon sens, la preuve présentée en l’espèce ne me permet pas de conclure que les clients de l’appelant étaient tenus, aux termes des contrats conclus avec le médecin, de payer celui‑ci pour les EMI. La seule obligation juridique qu’avait le client lorsqu’il signait la convention d’honoraires conditionnels consistait à rembourser à l’appelant la totalité des débours et des dépenses appropriés et raisonnables que ce dernier effectuait et payait. Le client n’était nullement tenu en l’espèce de payer à un tiers quelconque, et notamment à des médecins, les dépenses ou les débours effectués relativement aux EMI. J’admets que l’appelant a demandé les EMI au nom de son client et que des EMI ne peuvent être obtenus sans le consentement du client, mais ni l’un ni l’autre de ces faits ne rend le client responsable du paiement ni ne l’expose à une obligation juridique quelconque envers le médecin. Le consentement n’est nécessaire que pour autoriser le médecin à remettre le rapport, compte tenu de sa nature confidentielle, à l’avocat et n’emporte aucune obligation, expresse ou implicite, pour le client‑patient de payer directement le médecin pour les EMI. Pour que l’avocat soit le mandataire de son client, il faut qu’il y ait une preuve établissant sans équivoque que le mandat a été divulgué au médecin et que le client‑patient est la seule personne responsable du paiement des services même si l’avocat paye le compte au nom de son client.
+[22] Il ressort clairement de la situation factuelle en l’espèce que les médecins demandaient paiement à l’appelant. La facture produite sous la cote A‑1 est adressée seulement à l’appelant et les paiements effectués pour les EMI sont assujettis à une règle de pratique sur laquelle se sont entendus les professionnels de la santé et la Nova Scotia Barristers’ Society et selon laquelle les avocats doivent payer les EMI dans un délai de 45 jours. Le client n’a aucune obligation de payer le médecin. Il s’ensuit que l’avocat appelant en l’espèce est l’acquéreur d’une fourniture, étant donné que le débours constitue une dépense faite par lui. Même s’il pourra rembourser l’avocat appelant de cette dépense, le client n’est nullement tenu de payer le médecin. Il s’agit précisément du genre de situation visé par la deuxième façon d’effectuer des débours énoncée dans l’arrêt Merchant Law Group, à savoir que l’avocat peut le faire pour son propre compte, comme dépense engagée dans le cadre de la prestation de services juridiques.
+[23] Dans une telle situation, l’obtention d’un EMI fait partie des services que l’appelant fournit à son client dans le cadre de la prestation de services juridiques. L’avocat a besoin des EMI pour être en mesure de bien conseiller ses clients : les EMI l’aident dans les causes de ceux-ci, car ils influent réellement sur la manière dont il conseillera ses clients et notamment sur la décision de régler le litige ou d’intenter des poursuites judiciaires. Ils font partie intégrante de la preuve dont dispose le client et ils sont acquis pour être utilisés aux fins de la fourniture de services juridiques. Par conséquent, la TPS/TVH est exigible.
+[24] L’appel est accueilli en partie et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation de manière à tenir compte d’une réduction de 25 pour 100 de la taxe due par l’appelant et de rajustements relatifs à l’intérêt et aux pénalités, comme en a convenu l’intimée. Les dépens seront fixés après audition des deux parties. À tous les autres égards, la cotisation est confirmée.
+Signé ce 23e jour de février 2012.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 31e jour de mai 2012.
+Erich Klein, réviseur
+RÉFÉRENCE : 2012 CCI 59
+NO DU DOSSIER DE LA COUR : 2004-4348(GST)G
+INTITULÉ DE LA CAUSE : Raymond F. Wagner c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Le 9 novembre 2011
+MOTIFS DU JUGEMENT PAR : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 23 février 2012
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Gerard Tompkins, c.r.
+Avocats de l’intimée :
+Me Dominique Gallant
+Me Scott Millar
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Gerard Tompkins, c.r.
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général Canada
+Ottawa, Canada

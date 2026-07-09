@@ -1,0 +1,140 @@
+---
+title: "Motkoski v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26227/index.do"
+last_modified: "2003-02-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 40"
+citation2: ""
+neutral_citation: "2003 TCC 40"
+decision_date: "2003-02-11"
+language: "en"
+item_id: "26227"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4024
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:33:51.270000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8ab5996f9f204efc4592b6429e3f5128278e5b41a5fc9a3499587a63eb33f4e9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Motkoski v. The Queen
+
+- Citation: 2003 TCC 40
+- Decision date: 2003-02-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4024, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Motkoski v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-11
+Neutral citation
+2003 TCC 40
+File numbers
+2002-1614(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC40
+Date: 20030211
+Docket: 2002-1614(IT)I
+BETWEEN:
+JACQUELINE MOTKOSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Edmonton, Alberta, on January 7, 2003)
+Miller J.
+[1] Jacqueline Motkoski appeals the assessment of her 2000 taxation year pursuant to the Informal Procedure. She claimed a medical expense of $8,179 for the installation of hardwood flooring pursuant to paragraph 118.2(2)(l.2) of the Income Tax Act. The Crown has denied the claim as not qualifying as a medical expense pursuant to that paragraph.
+[2] Mrs. Motkoski testified that her four-year old son Lucas suffered numerous ear infections in 2000. He was diagnosed with severe allergies and asthma. A letter from Lucas' doctor referred to him as a highly allergic asthmatic individual. Mrs. Motkoski was also concerned about his speech development and had him tested by a speech language pathologist, who found his use of words to be slightly delayed. Her physician, Dr. Carr, made a number of recommendations to the Motkoskis, including relocating their pets and removing their carpeting. They followed all the doctor's advice, and replaced relatively new carpeting with hardwood floors, recovered their furnishings and did relocate their pets. They also acquired a Hepa filter and dehumidifier. The cost of the installation of the hardwood flooring was $8,179; there is no dispute as to the cost of that renovation.
+[3] Mrs. Motkoski indicated it would be difficult for Lucas to engage in normal activities without medication and a safe environment. He is mobile and he does interact with other children.
+[4] Although the Motkoskis briefly raised the possibility of the hardwood floor renovations qualifying pursuant to paragraph 118.2(2)(m) of the Act, that position was not argued vigorously, and for good reason. The renovations do not qualify as a device or equipment as contemplated by that paragraph. No, what the Motkoskis relied on primarily is paragraph 118.2(2)(l.2) of the Act, and I will just read part of it.
+... for reasonable expenses relating to renovations or alterations to a dwelling of the patient who lacks normal physical development or has a severe and prolonged mobility impairment, to enable the patient to gain access to, or to be mobile or functional within, the dwelling ...
+[5] So, there are four criteria to be met for the hardwood floor expense to qualify as a medical expense. First, the expense must be reasonable. Second, the expense must be for renovations or alterations to a dwelling. Third, the dwelling must be of someone who either (a) lacks normal physical development; or (b) has severe and prolonged mobility impairment. And fourth, the expense must have been incurred to either enable the patient to gain access to, or be mobile or functional within the dwelling.
+[6] There is no dispute the expenses related to renovations. The Crown argued that the other three conditions have not been met by the Appellant. First, that the patient, Lucas, neither lacks normal physical development, nor has a severe and prolonged mobility impairment. Second, that the renovations have not enabled Lucas to be functional, but has simply enhanced his well-being. And third, the expense was unreasonable, given an alternative such as linoleum would have been considerably cheaper.
+[7] The Appellant argues that the three criteria have been met. First, relying on Judge Hershfield's decision in Russell v. Canada,[1] she maintains that someone suffering with asthma can be found to lack normal physical development. As Judge Hershfield put it, in referring to a child with asthma:[2]
+What is lacking for Michael is a natural maturation of his respiratory system. He has an incapacity to function normally due to physical imperfection.
+With respect to the second criteria, the Appellant maintains that the environment provided by them has clearly enabled Lucas to function normally. Third, they maintain the expenses were reasonable, as it would be unreasonable for the whole main floor to be lined with linoleum.
+[8] The Crown also dealt with the question of a severe and prolonged impairment, arguing that such did not exist in Lucas' case, and further that this was not a question of enabling mobility. I agree. This is not a matter of Lucas suffering a severe and prolonged mobility impairment. This is a question of first, whether a child with severe asthma lacks normal physical development, and second, whether the renovations have enabled Lucas to be functional in the home.
+[9] Turning first then to the issue of the lack of normal physical development, I agree with Judge Hershfield's comment in Russell as follows:[3]
+I can find no medical or legal definition of the phrase "normal physical development". I believe it is fair to say it lacks both legal and medical certainty as to its intended meaning and should, therefore, be given a liberal, large meaning according to the common usage and understanding of the words comprising the phrase.
+This accords with the direction Judge Hershfield pointed out from Coté v. The Queen,[4] which is as follows:[5]
+... while there are provisions specifying what medical expenses are, the Court is required to give the most equitable and large interpretation possible to this legislation that is compatible with the attainment of its object.
+[10] So, within that broad context, can I find that Lucas lacked normal physical development? I have no medical evidence as to whether severe asthma constitutes a lack of normal physical development. What I do have is information provided by the Motkoskis from a consortium, including the Canadian Lung Association, which states that:
+... those suffering asthma have a chronic condition in which the lining of the lungs' airways is inflamed, swollen and extra sensitive to certain triggers.
+This certainly sounds to the non-medical ear like a physical problem. Why some children suffer from this affliction more severely than others does not appear to be known, certainly from the materials before me. In non-medical layman terms, though, I am prepared to accept that the airways of the severe asthmatic have developed differently than those of the child without asthma. As a chronic condition, there must always be something in the lungs' airways that cause the lungs to be constantly under siege. It is not a quantum leap to find that this has something to do with the development of the lungs' airways. I do not need a medical expert to put any finer definition on the term "normal physical development" than what I have arrived at. I find Lucas as a severe asthmatic lacks normal physical development because his lungs chronically do not work as they should.
+[11] The second condition to consider is whether the renovation simply went to Lucas' well-being, or really did enable him to be functional at home. The Respondent cited certain hot tub cases in support of the position that improved well-being is not sufficient. Those cases, however, dealt with more of the issue of mobility as opposed to functionality. That expression, in the context of this case, has to do with functioning as a normal two or three-year old would function. I am satisfied from Mrs. Motkoski's description of Lucas that his environment and medication are essential to his functioning normally.
+[12] Now, it is not possible to quantify what contributed more to this ability, but I believe it is unnecessary to do so. Lucas functions as much as possible as a child without asthma due partly to the environment that his parents have provided for him. The second condition is therefore met.
+[13] So, are the expenses reasonable? If any part of the $8,179 relates to refinishing hardwood floors, as opposed to installing new floors, that refinishing expense should be excluded as being unreasonable. The Crown suggested much cheaper linoleum would have served a similar purpose. Yet, presumably no one would want their whole main floor done in linoleum. The Motkoskis reasonably would want a floor that not only is safe for Lucas, but is also aesthetically pleasing. But, while what they did is in that respect reasonable, the reasonableness should relate only to the medical advantage sought by the renovations, not to the aesthetics. This is not to suggest that a reasonable expense necessarily implies the cheapest alternative. There must be some balancing of the reasonable medical expense versus the home improvement.
+[14] The expense was incurred for Lucas' benefit, but so to could a parquet or linoleum floor have been installed for his benefit. It is necessary to be somewhat arbitrary in making a determination on the reasonableness of the medical expense of the hardwood floor. I suggest that one should consider the range of possible appropriate floorings for medical purposes, and determine an average reasonable expenditure. Anything over that is more home improvement than medical expense.
+[15] The only evidence before me on this issue was the Crown's contention that linoleum would be one-third to one-half the cost of the hardwood. The Motkoskis suggested that the third figure was low. I therefore suggest an alternative flooring was approximately half of the hardwood, and therefore averaging the hardwood cost and the alternative cost would yield a reasonable expense of 75 per cent of the hardwood cost, or approximately $6,000, and this is what I allow as a medical expense.
+[16] I want to be clear that this broad interpretation of paragraph 118.2(2)(l.2) is not an open invitation to the home renovation industry, but is premised on some key significant facts from the case before me. First, the patient, in this case Lucas, has a severe case of asthma. Second, a doctor highly recommended the renovations, amongst other recommendations. Third, the Appellant undertook all of the doctor's recommendations, and fourth, the Appellant did so immediately upon the diagnosis of her son's condition. There was no delay.
+[17] The appeal is allowed and referred back to the Minister for reassessment on the basis that the Appellant is entitled to a medical expense pursuant to paragraph 118.2(2)(l.2) of the Income Tax Act, in the amount of $6,000.
+Signed at Ottawa, Canada, this 11th day of February, 2003.
+"Campbell J. Miller"
+J.T.C.C.
+CITATION:
+2003TCC40
+COURT FILE NO.:
+2002-1614(IT)I
+STYLE OF CAUSE:
+Jacqueline Motkoski and Her Majesty
+the Queen
+PLACE OF HEARING
+Edmonton, Alberta
+DATE OF HEARING
+January 6, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Campbell J. Miller
+DATE OF JUDGMENT
+January 14, 2003
+APPEARANCES:
+Agent for the Appellant:
+Gordon Motkoski
+Counsel for the Respondent:
+Carla Lamash
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2001] T.C.J. No. 442.
+[2]
+ibid, at paragraph 26.
+[3]
+ibid, at paragraph 25.
+[4] [2001] 3 C.T.C. 2607 TCC.
+[5]
+ibid, at paragraph 27.

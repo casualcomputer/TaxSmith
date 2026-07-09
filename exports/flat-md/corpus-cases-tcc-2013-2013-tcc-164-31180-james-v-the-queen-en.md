@@ -1,0 +1,198 @@
+---
+title: "James  v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31180/index.do"
+last_modified: "2013-05-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 164"
+citation2: ""
+neutral_citation: "2013 TCC 164"
+decision_date: "2013-05-17"
+language: "en"
+item_id: "31180"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5075
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:06:51.934000+00:00"
+cases_cited_count: 5
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ef82e695749d263ad607d4e63c44e78db75fa51b6ca7e6c7f7097338489092af"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# James  v. The Queen
+
+- Citation: 2013 TCC 164
+- Decision date: 2013-05-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5075, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+James v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-05-17
+Neutral citation
+2013 TCC 164
+File numbers
+2011-1748(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1748(IT)G
+BETWEEN:
+CRAIG JAMES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 6, 2013, at Vancouver, British Columbia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Gavin Laird and Melanie Magnusson
+Counsel for the Respondent:
+Max Matas
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2009 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s payment of $169,775 was a support amount, for which he is entitled to a deduction.
+Costs to the Appellant.
+Signed at Ottawa, Canada, this 17th day of May 2013.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2013 TCC 164
+Date: 20130517
+Docket: 2011-1748(IT)G
+BETWEEN:
+CRAIG JAMES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Mr. James agreed to a consent order in March 2004 which ordered spousal support payments of $5,750 per month. In July 2005, Justice Holmes of the Supreme Court of British Columbia dismissed Ms. James’ application to increase spousal support retroactively, but the British Columbia Court of Appeal on June 10, 2009, allowed Ms. James’ appeal varying the monthly sum to $9,000 and ordering the increased sum to be payable retroactively to January 1, 2005. On July 30, 2009, Mr. James paid Ms. James an amount that included $169,775, representing the difference between $9,000 and $5,750 for the periods from January 1, 2005 to the date of payment. The issue is whether the $169,775 is deductible as a support amount under subsection 60(b) of the Income Tax Act (the "Act"). The Respondent argues, relying on the Federal Court of Appeal in Peterson v. The Queen[1] that the payment was not on a periodic basis and therefore does not meet the definition of support amount. The Appellant counters, relying on the cases of Dale v. R.[2] and Sills v. The Queen[3] that the British Columbia Court of Appeal judgment created a liability retroactive to January 1, 2005, of monthly (periodic) payments which the Appellant paid in a lump sum and the payment does, therefore, meet the definition of support amount.
+Facts
+[2] The following summary of the facts is taken from an Agreed Statement of Facts, a Joint Book of Documents and the testimony of Mr. Jeffrey Rose, Q.C., Mr. James’ lawyer in the Family Law proceedings.
+[3] Mr. James married Lynn Anne James on February 28, 1982. They have two children. On December 1, 2001, Mr. James and Ms. James separated. On March 22, 2004, they entered into a consent order (the "Consent Order"), under the terms of which, Mr. James was to pay Ms. James spousal support of $5,750 per month commencing on April 1, 2004.
+[4] On July 4, 2008, Justice Holmes of the Supreme Court of British Columbia issued an order (the "Holmes Order"), which, amongst other things, dismissed an application by Ms. James to vary the amount of spousal support under the Consent Order.
+[5] On June 10, 2009, the British Columbia Court of Appeal allowed Ms. James’ appeal from the Holmes Order and stated in its reasons the following:
+When the parties entered into the consent order in March 2004, it was considered that the sum to be payable as spousal maintenance was appropriate having regard to the then estimated income of the respondent husband in the range of $500,000. The chambers judge found a significant enhancement had occurred in the income level of the respondent husband, albeit some of the income attributed was in the form of a dividend or bonus payment declared for tax reasons by the corporation. Giving the best consideration I can to the matter, I consider an increase in the monthly sum to be paid as spousal maintenance should be ordered. I would vary the sum to $9,000 per month and I would order this increased sum to be payable retroactive to January 1, 2005, the date stipulated in the application for variance filed by the appellant wife.
+I will refer to this as the BCCA Court Order.
+[6] Prior to the British Columbia Court of Appeal issuing its reasons for judgment, from January to June 2009, Mr. James paid Ms. James $5,750 per month in spousal support. After the British Columbia Court of Appeal issued its reasons for judgment, from July to December 2009, Mr. James paid Ms. James $9,000 per month in spousal support.
+[7] On July 30, 2009, Mr. James paid Ms. James an amount that included $169,775 representing the retroactive spousal support ordered by the British Columbia Court of Appeal.
+[8] Mr. Rose testified that it was his understanding that both Mr. James and Ms. James had intended that the payment be considered support amounts eligible for deduction. He was not aware of anything further that he or the Court of Appeal could have done to ensure that result.
+Issue
+[9] Does the payment of $169,775 made by Mr. James in July 2009 qualify as a support amount deductible under subsection 60(b) of the Act?
+Analysis
+[10] What is key is the definition of support amount and the jurisprudence considering that expression. Support amount is defined in subsection 56.1(4) of the Act as:
+support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[11] There are several cases that have considered what is meant by payable on a periodic basis. I will start by considering the Sills decision. Sills dealt with a separation agreement calling for $100 per month maintenance payments from the husband to the wife plus $200 per month for child support. Mr. Sills got in arrears which he made up, though never fully, by three payments of $1,000 each. The Court of Appeal found the payments were "payable on a periodic basis", stating that:
+So long as the agreement provides that the monies are payable on a periodic basis, the requirement of the subsection is met. The payments do not change in character merely because they are not made on time.
+[12] In the case before me, does the BCCA Court Order provide that the monies are payable on a periodic basis, when it says:
+I would vary the sum to $9,000 per month and I would order this increased sum to be payable retroactively to January 1, 2005.
+Obviously, the amounts cannot be paid on a periodic basis as the time has passed, though payments are required to be payable going forward and indeed were. The retroactive monthly amount is indicated to be payable – it is by necessity paid in a lump sum. I do not see how the character of periodic payments payable has changed. There is nothing else the British Columbia Court of Appeal could have done to retain that character.
+[13] How literal then, or how effective, can a court order be interpreted to make something payable periodically for a period that has passed? To address this, I turn to another Federal Court of Appeal decision, Dale.
+[14] In Dale, the taxpayer had obtained a rectification order from the Supreme Court of Nova Scotia declaring certain shares that were not previously validly issued, due to failing to get supplementary letters patent, were nevertheless validly issued as of a prior date. This resulted in the acceptance of a successful section 85 of the Act election. The Federal Court of Appeal stated the following:
+13. In determining whether a legal transaction will be recognized for tax purposes one must turn to the law as found in the jurisdiction in which the transaction is consummated. Often that determination will be made without the aid of guiding precedents which are on point and, hence, the effectiveness of a transaction may depend solely on the proper application of general common law and equitable principles. In some instances it will be necessary for the Tax Court to interpret the statutory law of a province. As for the Minister, he must accept the legal results which flow from the proper application of common law and equitable principles, as well as the interpretation of legislative provisions. This leads me to the question of whether the Minister is bound by an order issued by a superior court, which order has its origins in the interpretation and application of the provisions of a provincial statute.
+…
+15. The first principle is that the record of a superior court is to be treated as "absolute verity so long as it stands unreversed" (per McIntyre J. at 599, quoting Monnin J.A. in the Manitoba Court of Appeal). Second, an order which has not been set aside must receive full effect according to its terms (at 604). Third, the order is binding on all the world (at 601, citing Bird J.A. in Canadian Transport (U.K.) Ltd. v. Alsbury, [1953] 1 D.L.R. 385 (B.C.C.A.) at 418). Fourth, a collateral attack is deemed to include proceedings other than those whose specific object is to effect a reversal or nullification of the order. At page 599 McIntyre held as follows:
+It has long been a fundamental rule that a court order, made by a court having jurisdiction to make it, stands and is binding and conclusive unless it is set aside on appeal or lawfully quashed. It is also well settled in the authorities that such an order may not be attacked collaterally--and a collateral attack may be described as an attack made in proceedings other than those whose specific object is the reversal, variation, or nullification of the order or judgment.
+…
+18. On the facts of this appeal, the Nova Scotia court granted the June 25, 1992 order on the basis of section 44 of the Nova Scotia Companies Act. In my view, any objection that the court lacked jurisdiction to issue that order is without foundation. If the legislature of a province authorizes its courts to deem something to have occurred on a date already past, then it is not for the Minister to undermine the legislation by refusing to recognize the clear effect of the deemed event. In any case I am not prepared to concede that section 44 has the revisionist effect advanced by the Minister. This is not a case where a court order deems shares to have been issued when in fact they were not. This is a case where shares were issued, but not validly so until such time as either supplementary letters patent were obtained in Prince Edward Island or the Nova Scotia court granted the June 25, 1992 order. After all, no one has argued that the share issuance constituted a nullity, nor could it be so argued.
+[15] Finally, in disagreeing with Justice Pratte’s dissent, Justice Robertson also stated:
+24. … In my opinion, to impose the requirement that retroactive orders not be based on facts arising after the end of the taxation year, if such orders are to have any force in tax proceedings, is to unduly restrict the effectiveness of such orders and provide the Minister with a more effective means of avoiding the rule against collateral attacks. Finally, I have serious reservations about adopting an inflexible rule requiring that facts be established as of the end of the taxation year. I prefer to leave that issue for another day.
+[16] The Respondent argues that the Dale case simply stands for the proposition that orders of superior courts must not be subject to collateral attack in subsequent proceedings. The Appellant relies on Justice Bowie’s interpretation of Dale in the case of Brian Bayliss v. Her Majesty the Queen[4] that, "when an order purports to operate retroactively that must be taken as effectively changing history". I do not need to resolve this debate to resolve the issue before me. Clearly, this is not a case of any collateral attack by one court order against another. The British Columbia Court of Appeal is simply varying an amount upwards as it has the legal authority to do. This is taken from the Family Relations Act:
+93(5) An order under this section may also provide for one or more of the following:
+(a) payment periodically, annually or otherwise, and either for an indefinite or limited period or until the happening of a specified event;
+(b) payment of a lump sum directly or in trust on terms provided;
+(c) charging of property with payment under the order;
+(d) payment of support in respect of any period before the order is made;
+(e) payment for expenses arising from and incidental to
+(i) the prenatal care of the mother or child, or
+(ii) the birth of a child.
+[17] The British Columbia Court of Appeal did order payment in respect of periods before the date of its order – many periods. It also ordered $9,000 on a periodic basis, monthly, going forward. It did not order a lump sum: it was silent as to how the increase of $3,250 per month ($9,000 minus $5,750) was to be paid. It would be fair to presume a lump sum was likely contemplated, and certainly that is how Mr. James did in fact pay. Would it change the nature of the order to increase monthly amounts had Mr. James written 54 cheques for $3,250? The combination of the Sills concept, the authority of the British Columbia Court of Appeal to make an order for payment of support "in respect of any period before the order is made", the binding nature of such an order on all the world ("Dale"), leads me to conclude that given how the British Columbia Court of Appeal framed its order, it was ordering increased payments for each of the preceding 54 month periods, and as such, the requirement for payable on a periodic basis is met. The legal obligation, even if considered to be created currently, is an obligation to make good the periodic payments, but more on this later.
+[18] This accords not only with my sense of logic, but my understanding of the purpose of the support payment deduction. It goes to the nature of the payment. Mr. James was ordered to pay $9,000 a month back to day one and going forward. These are all periodic payments. The fact that the concept of time has not been lassoed by science so that one can travel back in time, making it impossible to physically make 54 - $3,250 payments from 2005 to 2009, does not strip the support from maintaining its periodic nature. This is not a situation where the purpose of the one‑time lump sum payment is to settle all future support entitlements once and for all. As Justice Mogan at the trial in Peterson was clear, such lump sums are not deductible. Here, however, we have an arrangement of ordered periodic payments, some of which were, by necessity, paid in one lump sum.
+[19] This is certainly the approach followed by Justice Bowie in Bayliss, a case the Respondent suggests was wrongly decided. In Bayliss, the Court ordered retroactive support for a year period of $1,400 per month for a total of $16,800, payable by deduction of the husband’s share of proceeds from the sale of the home: so, a lump sum for a one-year period. Even in those circumstances, Justice Bowie interpreted Dale to the effect an order operating retroactively must be taken as changing history, so that the payment of $16,800 was payment of accumulated arrears of spousal support, and thus maintained their character of periodic payments. He declined to rely on Peterson, limiting its application to agreements not court orders. He also mentioned that Peterson does not refer to Dale. A review of Justice Mogan’s decision at trial in Peterson would suggest that the payment was made not just with respect to an agreement but also with respect to an order. It is for this reason the Respondent suggests Justice Bowie’s distinction is incorrect.
+[20] Bayliss, however, was followed by Justice Little in the similar case of Gary Salzman v. her Majesty the Queen,[5] where an order for $3,600 a month for spousal support was retroactive a couple of years. The payer made a $90,000 lump sum payment. Justice Little again distinguished Peterson on the basis the amount paid in Peterson did not reflect exactly the support arrears. I interpret this distinction by Justice Little of Peterson as suggesting that an amount not reflecting periodic payments, such as a settlement amount, is what really drove the Federal Court of Appeal decision in Peterson.
+[21] This leads inexorably to a consideration of the Federal Court of Appeal decision in Peterson, that the Respondent argues is a complete bar to the Appellant’s success. To be clear, Justices Bowie and Little stick-handled around Peterson, incorrectly according to the Respondent. The Respondent emphasized the need in our precedential system to ensure jurisprudential consistency, citing the Supreme Court of Canada’s recent comments in the Queen v. Craig[6] decision to the effect that a lower court can identify why a precedent may be problematic, but it is not our role to overrule it. Indeed, the Respondent pointed out at a recent British Columbia case (Kerman v. Kerman[7]) which referred to the Peterson decision, suggesting that it understood Peterson to mean that a retroactive award of support is received tax‑free. The Respondent’s point is certainly not lost on me, and I will tackle Peterson with that concern very much in mind.
+[22] To be clear, relying on Sills and Dale, on the Tax Court of Canada cases of Bayliss and Salzman, on a purposive interpretation of "spousal amount", and on a good dose of logic and common sense, I readily conclude that the amount paid by Mr. James qualifies as a support amount to which he is entitled to a deduction. Am I precluded from maintaining this result by the principle set out by the Federal Court of Appeal in Peterson?
+[23] The Respondent suggests that the Peterson decision stands for the proposition that a legal obligation, arising by order or agreement to pay retroactive child support is not a legal obligation to pay arrears of child support and, therefore, cannot be seen to be payments payable on a periodic basis. I agree that the BCCA Court Order does create a legal obligation to pay an amount, but that it does, in this case, retain the character of periodic payments, notwithstanding it was paid in one amount. Therein lies the basic difference between the case before me and Peterson. In effect, even if not considered a legal obligation to pay arrears of child support, the BCCA Court Order is a legal obligation that has purposely retained the character of periodic payments – that is what governs, not that this may not be arrears. The circumstances of Peterson are unique and there is a glaring difference between them and the circumstances before me. In Peterson, Justice Sharlow recognized there was insufficient proof that the $36,000 was intended to represent 36 months of periodic payments.
+[24] Before providing some excerpts from the Federal Court of Appeal reasons in Peterson, I will quickly outline the facts of Peterson. Mr. and Ms. Peterson, both lawyers, made the unfortunate mistake of drafting their own separation agreement. It contained a provision for payment of child support of $2,000 a month, with a proviso that if Ms. Peterson lost her job and earned a lesser amount then the child support would increase to $36,000 a year. There was considerable ambiguity whether circumstances ensued causing the higher amount to click-in. Ms. Peterson brought an action. A settlement conference was held before Justice Pardu, of the Ontario Court, which resulted in Minutes of Settlement stipulating:
+6. Defendant (Mr. Peterson) will pay retroactive additional periodic child support to the Plaintiff, Ms. Tossell (for each of the aforementioned children in the amount of $36,000 for the twelve months from January 1, 1996 to and including December 1, 1996. Payments are taxable in hands of Plaintiff and deductible by Defendant.
+[25] The evidence suggested the amount owed by Mr. Peterson might have been as much as $56,000 before this settlement. The evidence was apparently confusing. At trial, Justice Mogan found the amount was arrears of child support and also found the payment was made pursuant to both an agreement between the parties and also the court order.
+[26] Justice Sharlow, interpreted the $36,000 payment differently. Her reasons read in part as follows:
+29. The dispute about the tax treatment of the $36,000 paid in December, 1996, arises from the difficulty of interpreting the first sentence of section 6 of the Minutes of Settlement (which is substantially the same as section 6 of the Court Order)…
+…
+31. There is no doubt that the $36,000 payment was intended as child support, and that it was made pursuant to a written agreement, the Minutes of Settlement. However, an amount does not come within the scope of paragraph 56(1)(b) and paragraph 60(b) of the Income Tax Act unless it is payable on a periodic basis. An amount is payable on a periodic basis if the payment obligation recurs at intervals. Although section 6 of the Minutes of Settlement describes the $36,000 payment as "periodic", it refers to a single payment in the amount of $36,000. It does not describe an obligation to make payments on a periodic basis.
+32. Mr. Peterson argued in the Tax Court, and in this Court, that the $36,000 was actually a payment of arrears of child support payable on a periodic basis pursuant to the 1991 separation agreement. That argument invokes the authority of The Queen v. Sills, reflex, [1985] 2 F.C. 200 (F.C.A.), which stands for the proposition that an obligation to pay an amount on a periodic basis maintains that character even if several such amounts are paid late in a single lump sum.
+…
+34. This conclusion is relevant only if the $36,000 payment required by section 6 of the Minutes of Settlement was intended to refer to arrears of child support accrued under the 1991 separation agreement, in which case the Sills principle would apply. The Judge found that the $36,000 payment was so intended. …
+35. I must respectfully disagree with the Judge that the reasons stated in paragraph 55 support the conclusion that the $36,000 payment referred to in section 6 of the Minutes of Settlement was intended to be for arrears of child support.
+36. In my view, a written agreement or court order cannot be interpreted as obliging a person to pay arrears of child support unless, at the time the written agreement or court order is made, there is (1) an express or implied recognition of a pre-existing obligation to pay child support for a prior period, (2) an express or implied recognition of a complete or partial breach of that obligation, resulting in arrears of child support, and (3) an obligation set out in the written agreement or court order to pay the arrears in whole or in part.
+37. There is no express recognition in the Minutes of Settlement, or the subsequent Court Order, of a pre-existing child support obligation, or the existence of arrears of child support. On December 16, 1996, when the Minutes of Settlement were signed, Ms. Tossell and Mr. Peterson had not agreed as to what Mr. Peterson's child support obligations were under the 1991 separation agreement, after March of 1993. If Pardu J. had a view on that point, there is no evidence as to what it was, except the recollections of Ms. Tossell and Mr. Peterson's lawyer, which are far from conclusive.
+…
+39. In my view, there is no basis for concluding that there is any implicit recognition, as of December 16, 1996, that Mr. Peterson was in arrears of child support. That is sufficient, in my view, to establish that section 6 of the Minutes of Settlement cannot be interpreted as requiring a payment of arrears of child support.
+40. However, I would reach the same conclusion even if there had been an implicit recognition that Mr. Peterson was in arrears of child support because, in my view, section 6 of the Minutes of Settlement cannot reasonably be interpreted as an obligation to pay $36,000 as arrears of child support. I base that conclusion on the fact that section 6 describes the payment as "retroactive". The word "retroactive" does not simply mean "based on the past", as the Judge stated in paragraph 52 of his reasons. On the contrary, to describe the payment of a past due obligation as a "retroactive payment" is a misuse of the language.
+…
+42. It is clear from this statutory description of retroactive support payments that a legal obligation to pay retroactive child support is a new obligation. It could be, for example, a new obligation to pay child support for a specified prior period for which there was no pre-existing obligation. Or, it could be a new obligation to pay child support for a specified prior period in addition to child support payable under a previous agreement that has been found inadequate. Either way, a legal obligation to pay retroactive child support is the converse of a legal obligation to pay arrears of child support.
+…
+44. … In my view, that evidence establishes only that Mr. Peterson's lawyer had a negotiating position. It is not capable of proving the nature of the $36,000 payment referred to in section 6 of the Minutes of Settlement.
+…
+46. … They might have settled the unpaid child support issues in a way that would formally recognize the arrears, and provide for their payment or partial payment. Or, they might have put aside the issue of arrears of child support and created an entirely new obligation. It is impossible to determine from the record that either one of those solutions would have been more reasonable than the other.
+[27] Apologies for the lengthy excerpt but it is important to capture the flavour of the reasoning. Justice Sharlow found that the new legal obligation created in these specific circumstances were not in the nature of periodic payments paid in one lump sum, that might have attracted the Sills principle. She acknowledges in paragraph 46 that it might have been arranged otherwise. Clearly, from paragraph 44, the payment was viewed as a settlement amount, insufficient proof otherwise of its nature. This, I would respectfully suggest, is key.
+[28] So, while the Appellant argues that the British Columbia Court of Appeal created a retroactive legal obligation and, therefore, effectively legally created an arrears of support payments that would have the Sills principle apply, even if I conclude that is not the case but that the British Columbia Court of Appeal created a new legal obligation, I find that such a new obligation is dissimilar from the one in Peterson. Justice Sharlow’s statement that "a legal obligation to pay retroactive child support is the converse of a legal obligation to pay arrears of child support" must be taken in the context of the specific facts of the Peterson case. The Federal Court of Appeal found this was not arrears but was a legal obligation to pay a lump sum, not a payment that retained the nature of periodic payment obligations. But here, the British Columbia Court of Appeal was clear, the parties, according to Mr. Rose, were clear: there was no ambiguity as in Peterson. There was no mention of a lump sum payment. The payment ordered was meant to be, and I find was, a payment in the nature of periodic payments paid in a lump sum and the requirements of the definition of support payment are satisfied.
+[29] I interpret the reasoning in Peterson to confirm that, provided the nature of the payment reflects a periodic payment obligation, then the definition is met. In Peterson, that simply could not be proven. I do not believe the result I have reached in this case is in conflict with the Peterson decision.
+[30] I allow the Appeal and refer the matter back to the Minister of National Revenue for reconsideration and reassessment on the basis that Mr. James’ payment of $169,775 was a support amount, for which he is entitled to a deduction. Costs to the Appellant.
+Signed at Ottawa, Canada, this 17th day of May 2013.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2013 TCC 164
+COURT FILE NO.: 2011-1748(IT)G
+STYLE OF CAUSE: CRAIG JAMES AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 6, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: May 17, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Gavin Laird and Melanie Magnusson
+Counsel for the Respondent:
+Max Matas
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gavin Laird and Melanie Magnusson
+Firm: Laird & Company
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2005 FCA 223.
+[2] 1997 CarswellNat 391.
+[3] [1985] 2 FC 200 (CA).
+[4] 2007 TCC 387.
+[5] 2008 TCC 527.
+[6] 2012 SCC 43.
+[7] 2008 BCSC 852.

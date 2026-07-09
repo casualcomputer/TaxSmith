@@ -1,0 +1,246 @@
+---
+title: "Assemblage Général Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27446/index.do"
+last_modified: "2005-12-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 212"
+citation2: ""
+neutral_citation: "2005 TCC 212"
+decision_date: "2005-12-20"
+language: "en"
+item_id: "27446"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 202
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:00:03.092000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0608963fa18e1767bde6899279a48fdfa39975bb6eb8915d07073f898013f47e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Assemblage Général Inc. v. The Queen
+
+- Citation: 2005 TCC 212
+- Decision date: 2005-12-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 202, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Assemblage Général Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-20
+Neutral citation
+2005 TCC 212
+File numbers
+2004-4252(IT)APP
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4252(IT)APP
+BETWEEN:
+JEAN-MARC BERGERON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard with the applications of Assemblage Général Inc. (2004-4250(IT)APP) and of Jean-Paul Bergeron (2004-4251(IT)APP)
+on January 21, 2005, at Sherbrooke, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Applicant:
+Robert Jodoin
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+ORDER
+Whereas the application for an order extending the time in which an appeal from the assessments under the Income Tax Act for the 1998, 1999, 2000 and 2001 taxation years may be filed;
+And in light of the arguments put forward by the parties;
+The application in respect of the 1998, 1999, 2000 and 2001 taxation years is dismissed, without costs, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 20th day of December 2005.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 26th day of May 2006
+Monica F. Chamberlain, Reviser
+Docket: 2004-4251(IT)APP
+BETWEEN:
+JEAN-PAUL BERGERON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard with the applications of Assemblage Général Inc. (2004-4250(IT)APP) and of Jean-Marc Bergeron (2004-4252(IT)APP)
+on January 21, 2005, at Sherbrooke, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Applicant:
+Robert Jodoin
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+ORDER
+Whereas the application for an order extending the time in which an appeal from the assessments under the Income Tax Act for the 1998, 1999, 2000 and 2001 taxation years may be filed;
+And in light of the arguments put forward by the parties;
+The application in respect of the 1998, 1999, 2000 and 2001 taxation years is dismissed, without costs, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 20th day of December 2005.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 26th day of May 2006
+Monica F. Chamberlain, Reviser
+Docket: 2004-4250(IT)APP
+BETWEEN:
+ASSEMBLAGE GÉNÉRAL INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard with the applications of Jean-Paul Bergeron (2004-4251(IT)APP) and of Jean-Marc Bergeron (2004-4252(IT)APP)
+on January 21, 2005, at Sherbrooke, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Applicant:
+Robert Jodoin
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+ORDER
+Whereas the application for an order extending the time in which an appeal from the assessments under the Income Tax Act for the 2000 and 2001 taxation years may be filed;
+And in light of the arguments put forward by the parties;
+The application in respect of the 2000 and 2001 taxation years is dismissed, without costs, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 20th day of December 2005.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 18th day of May 2006
+Monica F. Chamberlain, Reviser
+Citation: 2005TCC212
+Date: 20051220
+Docket: 2004-4250(IT)APP
+BETWEEN:
+ASSEMBLAGE GÉNÉRAL INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2004-4251(IT)APP
+AND:
+JEAN-PAUL BERGERON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2004-4252(IT)APP
+AND:
+JEAN-MARC BERGERON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Bédard J.
+[1] The instant case involves applications made pursuant to subsection 167(5) of the Income Tax Act (the "Act") for orders extending the time to appeal from the decisions of the Minister of National Revenue (the "Minister"). The Court must determine whether the application of each of the Applicants for an extension of the time to appeal in respect of the 1998, 1999, 2000 and 2001 taxation years in the case of Jean-Paul and Jean-Marc Bergeron and in respect of the 2000 and 2001 taxation years in respect of Assemblage Général Inc. (the "Corporation") is well founded.
+[2] The Minister sent to Jean-Paul Bergeron Notices of Reassessment on May 7, 2003, for the 1998, 1999, 2000 and 2001 taxation years. The taxpayer informed the Minister of his objection to the reassessments on or about July 25, 2003. By registered letter postmarked on April 8, 2004, the Minister advised Jean-Paul Bergeron that he had confirmed the reassessments dated May 7, 2003, for the 1998, 1999, 2000 and 2001 taxation years. Jean-Paul Bergeron did not file an appeal with the Court within the prescribed time, which expired on July 7, 2004, since the reassessments of May 7, 2003, for the 1998, 1999, 2000 and 2001 taxation years were all confirmed on April 8, 2004. On November 1, 2004, Jean-Paul Bergeron filed with the Court an application for an extension of time to appeal in respect of the reassessments dated May 7, 2003, for the 1998, 1999, 2000 and 2001 taxation years.
+[3] The Minister mailed reassessment notices to Jean-Marc Bergeron on June 9, 2003, in respect of the 1998, 1999, 2000 and 2001 taxation years. The taxpayer informed the Minister of his opposition to the reassessments on or about July 25, 2003. The Minister notified Jean-Marc Bergeron by registered letter postmarked March 16, 2004, that he had confirmed the reassessments dated June 9, 2003, for the 1998, 1999, 2000 and 2001 taxation years. Jean-Marc Bergeron did not file an appeal with the Court within the prescribed time, which expired on June 14, 2004, since the reassessments of June 9, 2003, for the 1998, 1999, 2000 and 2001 taxation years were all confirmed on March 16, 2004. On November 1, 2004, Jean-Marc Bergeron filed with the Court an application for an extension of time to appeal in respect of the reassessments dated June 9, 2003, for the 1998, 1999, 2000 and 2001 taxation years.
+[4] The Minister mailed reassessment notices to the Corporation on April 22, 2003, in respect of the 2000 and 2001 taxation years. The Corporation indicated to the Minister its objection to the reassessments on or about June 27, 2003. By registered letter postmarked March 16, 2004, the Minister notified the Corporation that he had confirmed the reassessments dated April 22, 2003, for the 2000 and 2001 taxation years. The Corporation did not file an appeal with the Court within the prescribed time limit, which expired on June 14, 2004, since the reassessments of April 22, 2003, for the 2000 and 2001 taxation years were all confirmed on March 16, 2004. On November 1, 2004, the Corporation filed with the Court an application for an extension of time to appeal in respect of the reassessments dated April 22, 2003, for the 2000 and 2001 taxation years.
+Analysis
+[5] It should be noted that the evidence brought by the Applicants was based essentially on the testimony of Jean-Paul and Jean-Marc Bergeron.
+Testimony of Jean-Marc Bergeron
+[6] The testimony of Jean-Marc Bergeron can be summarized as follows: he explained that he had been seriously ill from the beginning of March 2004 until the end of 2004 and that he had delegated his brother Jean-Paul to write the Notice of Appeal and to do what was necessary in that regard. His answer when he was questioned about this by Counsel for the Respondent deserves to be quoted:
+[TRANSLATION]
+Q. During all that time, had you delegated your brother to act on your behalf, to write the Notice of Appeal, etc.?
+A. Yes.[1]
+Testimony of Jean-Paul Bergeron
+[7] The first part of the testimony of Jean-Paul Bergeron had to do with the mandate that the Applicants had entrusted to Tom Sawyer. He related that:
+(i) Following the receipt of the Notices of Assessment, the Applicants had delegated Mr. Sawyer to challenge the assessments and to negotiate with the tax authorities. It should be noted at this point that in their application for an extension, the Applicants had all stated that they had entrusted Mr. Sawyer with the mandate after they had received the Notices of Assessment. Neither the testimony of Jean-Paul Bergeron, nor the applications for extension described the work to be performed by Mr. Sawyer before the assessments were issued.
+(ii) Mr. Sawyer had prepared and produced the Notices of Objection. To support his testimony, Jean-Paul Bergeron submitted in evidence (Exhibit A-1) the Notices of Objection that Mr. Sawyer had allegedly prepared and produced on behalf of the Applicants.
+(iii) The Corporation had paid $5,000 in fees to Mr. Sawyer. In support of his testimony, Jean-Paul Bergeron submitted in evidence the cheques (Exhibit A-2) payable to Mr. Sawyer, which the Corporation had issued.
+(iv) He had become aware of the impersonation by Mr. Sawyer after the assessments had been confirmed, but prior to the meeting that he and his brother had with Chantale Boisvert of the Appeals Division of the Canada Customs and Revenue Agency ("CCRA"). He stated that he had at that point become aware that Mr. Sawyer had done virtually nothing in connection with his mandate. The description by Jean-Paul Bergeron of the work that Mr. Sawyer should have performed deserves to be quoted:
+[TRANSLATION]
+Q. What did Mr. Sawyer do exactly? Did he just prepare the Notices of Objection? Did he meet with the tax authorities? Did ...
+A. I don't think that he met with them, although he told us that he had done so, but according to my information, he did not do so. I believe that he had had a telephone conversation.[2]
+He and his brother Jean-Marc had accordingly gone on their own to the meeting with Ms. Boisvert. It is necessary to analyze the testimony of Jean-Paul Bergeron on the subject of the mandate given by the Applicants to Mr. Sawyer, and of the objective proof provided by Jean-Paul Bergeron in support of his testimony. We should recall first that the testimony of Jean-Paul Bergeron and the applications for an extension indicated that the Applicants had commissioned Mr. Sawyer following receipt of Notices of Assessment. Neither this testimony nor the applications for extension described the work performed by Mr. Sawyer prior to receipt of the Notices of Assessment. Nonetheless, 80% of the fees had been paid by the Corporation to Mr. Sawyer before the Notices of Assessment had even been issued. I conclude from this that the fees of $5,000 had been paid by the Corporation to Mr. Sawyer as part of another mandate altogether that had been entrusted to him, especially since no invoice describing the nature of the services rendered by Mr. Sawyer was introduced in evidence. The fact that the Corporation had paid $1,000 in fees to Mr. Sawyer after the Applicants had discovered the impersonation merely strengthens my conviction that Mr. Sawyer never received any such mandate from the Applicants. The explanations by Jean-Paul Bergeron in this respect were to say the least ambiguous, imprecise, vague and implausible.[3] Lastly, the fact that the Notices of Objection that Mr. Sawyer supposedly had prepared and produced were completed by hand, that they made no mention of the grounds for appeal, that the name of Mr. Sawyer did not appear as the representative of the Applicants and that they were neither dated nor signed, merely added to my conviction that the Applicants' claims are not credible. How can the claims and assertions of Jean-Paul Bergeron be believed subsequently when they are not supported either by serious, objective proof or by independent, credible testimony?
+[8] Jean-Paul Bergeron explained that he had not filed an appeal within the prescribed time because he had been very upset by the illness of his brother Jean-Marc, and he was waiting for Jean-Marc's health to improve before taking action. The relevant portion of his testimony in this regard deserves quoting:
+[TRANSLATION]
+Q. O.K. But on the other hand, it was your brother who was sick, not you?
+A. No, but ... yes, that's true, you're right. But I needed him to do the ... to write all that. I can't do that all on my own. And in addition I haven't got the skills to ... it had to be appealed, so I was waiting for him to come out of it, for him to be well. To start with, when he was sick, he didn't see these notices. He was sick when that happened. And it's not the time, when you're between life and death, to come and bring that kind of thing. That meant that I felt that we had time, that I would wait for him to get better to explain all that to him and then say to him "and now, what do we do about that?" Because the only thing to do is for me to pay everything; he pays too. So that's the story. I was waiting for him to get better.[4]
+When his brother Jean-Marc's health had improved, Jean-Marc Bergeron and his brother met with Richard Généreux, a tax advisor, on June 30, 2004. It was at that point that the Applicants realized that they were late in appealing. His testimony in this connection is worth quoting:
+[TRANSLATION]
+Q. Did you not make any appointments with anyone before that?
+A. I don't think we'd even noticed that we were late. Mr. Généreux was the one who said to us: "Hey guys, you're late, you're going to need a notice of ..."[5]
+He then recounted that the Applicants had not hired Mr. Généreux, because he felt that his services were too expensive, as he had demanded a fee of $300 in cash for a 30-minute consultation. Jean-Paul Bergeron maintained that he had called the Court the following day and that he had been reassured by the conversation that he had had with an employee of the Registry of the Court. Apparently this employee had told him that Applicants had one year to submit an application for an extension of time to appeal. Following this call, he no longer felt any urgency. He was relieved. This employee of the Court had even explained the procedure and had faxed him the forms. Subsequently, Jean-Paul Bergeron contacted the Court on several occasions to obtain additional information. He added that he had tried for approximately a month to complete the applications for an extension and the Notices of Appeal. He had then realized that he would not be able to do so. He then made an appointment with Mr. Jodoin towards the end of October 2004. Without further delay, Mr. Jodoin produced, on behalf of the Applicants, applications for an extension of time for filing an appeal on November 1. Once again, I have difficulty giving credence to Jean-Paul Bergeron's testimony. In fact, Jean-Paul Bergeron, in my view, knew full well that Applicants had 90 days to file an appeal.[6] Jean-Paul Bergeron accordingly must have known before the June 30 meeting with Mr. Généreux that the deadline for filing an appeal had expired on June 14, 2004, in respect of his brother Jean-Marc and the Corporation and would expire on July 7 in his own case. However, Jean-Paul Bergeron would have me believe that Mr. Généreux was the one who had told him that he was late. It seems to me unlikely that Mr. Généreux, an acknowledged tax expert, would not have informed Jean-Paul Bergeron that he still had approximately a week to file an appeal. Why did he not file an appeal before July 7? This question has remained unanswered. It is accordingly difficult for me to believe that Mr. Généreux had not advised the Applicants that the Corporation and Jean-Marc Bergeron had to submit an application for an extension as early as possible. It would have been interesting to hear the testimony of Mr. Généreux in this regard. Furthermore, Jean-Paul Bergeron attempted to make me believe that an employee of the Court had told him that Applicants had one year to file an application for an extension. I have difficulty believing that this person did not explain to Jean-Paul Bergeron that the Corporation and his brother Jean-Marc had to submit their application for an extension as quickly as possible, and that the deadline for him to file an appeal had not yet expired. Did Jean-Paul Bergeron really contact the Court? We may be forgiven for doubting that he did. In fact, he was not even able to say whether he had spoken to a man or a woman. Another worrying fact is that Jean-Paul Bergeron stated on two occasions that he had contacted the Court the day after his meeting with Mr. Généreux which, we should recall, took place on June 30. When he realized that the date on which he contacted the Court was July 1, he changed his version of the facts somewhat by stating that he may have contacted the Court on the very day of his meeting with Mr. Généreux.
+[9] Have Jean-Paul Bergeron and Assemblage Général Inc. in the case at bar met the conditions set out at subsection 167(5) of the Act? The evidence of these two Applicants, upon whom lay the burden of proving to me, on the balance of probability, that they had met these conditions, rests essentially on the testimony of Jean-Paul Bergeron. The explanations given by Jean-Paul Bergeron were often confused, unintelligible, laborious and contradictory. Most of the time he did no more than make statements that were general, lacking in truthfulness and often implausible. He could on numerous occasions have substantiated his claims with independent, credible testimony. He did not do so. I infer from this that such evidence would not have been in his favour. In short, these Applicants have quite simply not convinced me that they met the conditions stipulated in subsection 167(5) of the Act.
+[10] Did Jean-Marc Bergeron satisfy the conditions stipulated in subsection 167(5) of the Act? The evidence of Jean-Marc Bergeron, who had the burden of proving to me, on the balance of probability, that he had satisfied the conditions stipulated in subsection 167(5) of the Act, rested essentially on the testimony of his brother Jean-Paul, to which I assign little probative value, and on his testimony, which could be summarized as follows: he had been seriously ill from March 2004 until the end of the year and he believed that his brother was looking after his affairs. Even if I were convinced that Jean-Marc Bergeron was unable to act or to delegate someone else to act during the designated period for filing an appeal, in view of the state of his health, it is nonetheless true that he had to convince me that the application for an extension of time for filing an appeal had been submitted as soon as circumstances permitted. The evidence revealed that he was still sufficiently healthy to meet with Mr. Généreux on June 30, 2004. Why did he wait four months to submit such an application? What was he doing during those four months? His testimony was silent on this point, except to explain that he had commissioned his brother to do so. He should at least have found out from his brother how the file was progressing during these four months. It is not asking the impossible to ask a taxpayer to display a minimum of diligence and also to follow up, which he did not do.
+[11] For these reasons, the applications are dismissed, without costs.
+Signed at Ottawa, Canada, this 20th day of December 2005.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 26th day of May 2006
+Monica F. Chamberlain, Reviser
+CITATION:
+2005TCC212
+COURT FILE NO.:
+2004-4250(IT)APP
+STYLE OF CAUSE:
+Assemblage Général Inc. and Her Majesty The Queen, Jean-Paul Bergeron and Her Majesty The Queen, Jean-Marc Bergeron and Her Majesty The Queen
+PLACE OF HEARING:
+Sherbrooke, Quebec
+DATE OF HEARING:
+January 21, 2005
+REASONS FOR ORDER BY:
+The Honourable Justice Paul Bédard
+DATE OF ORDER:
+December 20, 2005
+APPEARANCES:
+Counsel for the Applicants:
+Robert Jodoin
+Counsel for the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Applicants:
+Name:
+Robert Jodoin
+Firm:
+Jodoin Huppé
+Granby, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See page 59 of the transcript.
+[2] See page 13 of the transcript.
+[3] See pages 14, 15, 18, 19, 20, 42 and 43 of the transcript.
+[4] See pages 25 and 26 of the transcript.
+[5] See page 45 of the transcript.
+[6] See page 45 of the transcript.

@@ -1,0 +1,155 @@
+---
+title: "Brown v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28387/index.do"
+last_modified: "2004-05-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 387"
+citation2: ""
+neutral_citation: "2004 TCC 387"
+decision_date: "2004-05-28"
+language: "en"
+item_id: "28387"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1906
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:23:53.240000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e0010329f572c3f6b400e4ec0f4e603eca82d0fdefa23e0ba473751d7aa47bda"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brown v. The Queen
+
+- Citation: 2004 TCC 387
+- Decision date: 2004-05-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1906, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brown v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-28
+Neutral citation
+2004 TCC 387
+File numbers
+2004-461(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-461(IT)I
+BETWEEN:
+KENTON BROWN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 20, 2004 at Grande Prairie, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John-Paul Hargrove
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1999 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 28th day of May 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC387
+Date: 20040528
+Docket: 2004-461(IT)I
+BETWEEN:
+KENTON BROWN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Grande Prairie, Alberta on May 20, 2004. The Appellant was the only witness.
+[2] Paragraphs 2 to 10 inclusive of the Reply to the Notice of Appeal outline the matters in dispute. They read:
+2. In computing income for the 1999 taxation year, the Appellant deducted a net business loss of $20,133.00 from a business known as Mulberry Lane Variety, (hereinafter the "Business"). The net business loss reported by the Appellant was calculated as follows:
+Net Loss for 1999 from the Business
+$40,267
+50% Reported by the Appellant
+$20,133
+3. The Appellant's 1999 income tax return was initially assessed on September 11, 2001, and the net business loss reported by the Appellant was allowed as claimed.
+4. By Notice of Reassessment dated January 13, 2003, the Minister of National Revenue (the "Minister"), disallowed the business loss claimed of $20,133.00 as the Appellant did not participate in the Business as a partner or otherwise.
+5. On April 9, 2003, the Appellant filed a Notice of Objection to the Notice of Reassessment of January 13, 2003.
+6. The Minister confirmed the reassessment of the 1999 taxation year by means of a Notification of Confirmation dated November 12, 2003.
+7. In so reassessing the Appellant for the 1999 taxation year and in so confirming the reassessment, the Minister relied on the following assumptions of fact:
+(a) during the 1999 year, the Appellant's spouse, Beverly Brown, was the sole proprietor of the Business;
+(b) on filing her return for the 1999 year, Beverly Brown reported, among other things, a net loss from the business of $40,267, being 100% of the net loss from the Business;
+(c) on filing her return for the years 1996, 1997 and 1998, Beverly Brown reported 100% of the loss from the Business;
+(d) on filing his returns for the 1996, 1997 and 1998 years the Appellant did not report any amount from the Business;
+(e) during the 1999 year, the Appellant was not a partner of the Business, nor did he have any interest in the Business.
+B. ISSUES TO BE DECIDED
+8. The issue is whether the Appellant is entitled to claim a share of the loss from the Business.
+C. STATUTORY PROVISIONS RELIED ON AND RELIEF SOUGHT
+9. He relies on sections 9, 96 and 103 of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp) (the "Act") as amended for the 1999 taxation year.
+10. He submits that the Appellant is not entitled to a deduction for any portion of the loss incurred from the Business as he did not have a partnership interest, nor any other interest in the Business during the 1999 year.
+[3] Assumptions 7 (b), (c) and (d) were not refuted.
+[4] The evidence is that the Appellant and his wife, Beverly, purchased the Business together on January 10, 1996 (Exhibit A-2). They registered the Business under the Excise Tax Act in both names with a GST registration number 891717852RT (Exhibit A-1).
+[5] Nonetheless, Beverly then reported everything, including the sale of the Business, for Income Tax purposes as being 100 per cent hers. Upon sale the Appellant reported an additional 50 per cent of the concluding business loss as his.
+[6] None of the documents respecting the sale, and none of the reporting GST documents were put in evidence.
+[7] Based on the reporting by Beverly described in assumptions 7 (b), (c) and (d) and the lack of documentation after the date of purchase, it is entirely possible that the entire business was transferred to Beverly after it was purchased.
+[8] The Appellant stated that all of their other businesses were in both their names and that their accountant reported the 100 per cent in Beverly's name from 1996 until 1999 in error. If all of their businesses were in both names and they were (as stated) using that accountant for everything, that "error" is amazing since he would have been filling out forms for everything else in both names and then, unusually, Mulberry Lane Variety, in Beverly's name.
+[9] Moreover, Kenton and Beverly were signing Income Tax returns similarly through those years and allegedly failed to notice this unusual item.
+[10] In these circumstances, without the supporting testimony of the accountant in question and the GST documents for the years in question and any other supporting evidence, it is quite possible that the business was indeed 100 per cent Beverly's, as assumed, and Kenton's testimony, by itself, has failed to refute the remaining assumptions. In fact testimony by an accountant or another professional person, admitting such an error, is not unusual where such a thing actually occurs.
+[11] For these reasons the appeal is dismissed.
+Signed at Ottawa, Canada, this 28th day of May 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC387
+COURT FILE NO.:
+2004-461(IT)I
+STYLE OF CAUSE:
+Kenton Brown v. The Queen
+PLACE OF HEARING:
+Grande Prairie, Alberta
+DATE OF HEARING:
+May 20, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable D.W. Beaubier
+DATE OF JUDGMENT:
+May 28, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John-Paul Hargrove
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

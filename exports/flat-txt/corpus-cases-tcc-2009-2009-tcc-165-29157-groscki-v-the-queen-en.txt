@@ -1,0 +1,83 @@
+Title: Groscki v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29157/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-165-29157-groscki-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-01-28
+
+# Groscki v. The Queen
+
+- Citation: 2009 TCC 165
+- Decision date: 2009-01-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6717, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Groscki v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-28
+Neutral citation
+2009 TCC 165
+File numbers
+2008-1645(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2009 TCC 165
+Date: 20090424
+Docket: 2008-1645(IT)I
+BETWEEN:
+JOHN F. GROSCKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Saba Zarghami and Laurent Bartleman
+AMENDED REASONS FOR JUDGMENT
+(Delivered orally from the bench on
+January 28, 2009, in Toronto, Ontario.)
+Miller J.
+[1] This appeal is allowed and referred back to the Minister of National Revenue for reconsideration and reassessment on the following basis. First, as agreed between the parties, the Appellant is entitled to an additional interest expense deduction of $30,752; second, travel expenses as claimed by the Appellant in the amount of $21,357 are deductible. The balance of the assessment I find to be correct.
+[2] The only two items left for determination by me at this trial were Mr. Groscki's expenses in connection with travel and bad debts. I have been satisfied by Mr. Groscki's evidence that his extensive travel requirements, in connection with his work as a C.A., are more properly reflected in his claim than the auditor's and appeals officer's adjustments. I understood that the dollar amount of expenses were not at issue, but the dispute was a question of personal versus business use.
+[3] I appreciate that Mr. Groscki did not provide me with logs or detailed records, but I accept his oral evidence with respect to the kilometers traveled by each vehicle, and I find the percentage of business use he has attached to each vehicle is reasonable in the circumstances. I therefore allow that aspect of the appeal.
+[4] The second issue I have to deal with is the matter of a $12,000 bad debt expense Mr. Groscki claims on his income tax return. He calculated this expense by determining an allowance for doubtful accounts in year one and in year two, and determining the difference. When the appeals officer attempted to explain to Mr. Groscki that such a determination was not a bad debt for income tax purposes, but an increase in an allowance for doubtful accounts, Mr. Groscki accused the appeals officer of not knowing what he was talking about. With respect, that was unfair, and was inaccurate.
+[5] I wish to repeat a brief excerpt that I read to you already from the CCH commentary, but I wish to have it in my reasons:
+In view of the fact that many taxpayers keep their accounts on an accrual basis and consequently include in their incomes accounts which are receivable but of which payment has not been received, it is obvious that some provision must be made for deductions in respect of debts which are doubtful or which have proved to be uncollectible. The system provided in the Income Tax Act for dealing with bad and doubtful debts can be determined only by reading paragraphs 20(1)(l) and 20(1)(p) together with paragraphs 12(1)(d) and 12(1)(i). Paragraph 20(1)(l) provides that a taxpayer may deduct a reasonable amount as a reserve for certain doubtful debts. Paragraph 12(1)(d) provides for the inclusion in income of the amount which the taxpayer deducted as a reserve for doubtful debts in the previous year. Consequently, there must be an annual re‑appraisal of the doubtful accounts receivable of a company in order to arrive at the net deduction in each year. When a debt is no longer doubtful but is finally established to be bad, it may be deductible under paragraph 20(1)(p).
+Under the provisions of the Act, there is clearly a distinction between an allowance for doubtful accounts and bad debts. They are not the same thing.
+[6] What the Appellant has done is simply determined his doubtful accounts, and yes, the result of doing so is to effectively create a $12,000 deduction in the 2002 taxation year, but it is not a deduction for bad debts as that expression is used in the Income Tax Act. If I were to allow your claim, I would be endorsing an unacceptable methodology for bad debt deductibility as it is meant to be set up in the income tax returns.
+[7] The taxpayer who makes a reasonable effort to assess his doubtful accounts is entitled to deduct such amount one year, but bring it into income the next year. In Mr. Groscki's case, if he can satisfy Canada Revenue Agency that he brought $226,000 in income in 2002, and that $238,000 is a reasonable estimate of his 2002 doubtful accounts, then he should have been able to deduct the 238,000. Instead, Mr. Groscki claims he has $12,000 bad debt expense which, as I have said, is not the same thing. I do have some concern, based on Mr. Groscki's comments, about where is he supposed to put this adjustment to the reserve on a T1? Certainly not as a bad debt.
+[8] The statement of professional activities does include a line item to bring in reserves deducted from the previous year. When you look at the statement of professional activities, it indicates income, professional fees, minus a number of things, plus work-in-progress, and then there is a line: "Reserves deducted last year." So the form does indicate that, but it does not go further. It would be helpful if there was a line for the deduction of reserves in the current year, and that is certainly something I suggest the Department of Finance needs to consider.[1]
+[9] The issue before me, however, is not whether Mr. Groscki has properly calculated his allowance for doubtful accounts, but whether he has proven he had $12,000 of bad debts in 2002. He has not provided me any evidence with respect to bad debts for 2002. I hope that, in future, filings will be made in accordance with the Income Tax Act to obtain the deductions that you are indeed entitled to.
+Signed at Ottawa, Canada, this 24th day of April, 2009.
+“Campbell J. Miller”
+C. Miller J.
+CITATION: 2009 TCC 165
+COURT FILE NO.: 2008-1645(IT)I
+STYLE OF CAUSE: JOHN F. GROSCKI and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 28, 2009
+AMENDED REASONS FOR
+JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: February 6, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Saba Zarghami and Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In a review of the Canada Revenue Agency guide to the preparation of the T1 return, the Government suggests that the current year’s reserve for doubtful accounts should go on the line entitled “Other Expenses”.

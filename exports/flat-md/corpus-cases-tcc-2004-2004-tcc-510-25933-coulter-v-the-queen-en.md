@@ -1,0 +1,176 @@
+---
+title: "Coulter v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25933/index.do"
+last_modified: "2004-07-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 510"
+citation2: ""
+neutral_citation: "2004 TCC 510"
+decision_date: "2004-07-29"
+language: "en"
+item_id: "25933"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3666
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:10:57.230000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "83da2076563314dbac111a83bc1d32a001172f2f8426cb5c2b8608fe8ba0e670"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Coulter v. The Queen
+
+- Citation: 2004 TCC 510
+- Decision date: 2004-07-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3666, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coulter v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-07-29
+Neutral citation
+2004 TCC 510
+File numbers
+2003-3756(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3756(IT)G
+BETWEEN:
+MAUREEN COULTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on January 23, 2004 at Halifax, Nova Scotia
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Caitlin Ward
+____________________________________________________________________
+ORDER
+Upon considering the Amended Notice of Motion made by the Respondent;
+And upon reading the Affidavits of Maureen Coulter and Joan Bradley;
+The Motion is allowed in accordance with the attached Reasons for Order.
+Signed at Vancouver, British Columbia, this 29th day of July 2004.
+"L.M. Little"
+Little J.
+Citation: 2004TCC510
+Date: 20040729
+Docket: 2003-3756(IT)G
+BETWEEN:
+MAUREEN COULTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+A. Statement of Facts:
+[1] The Appellant, a Registered Nurse, was employed by the Queen Elizabeth II Health Science Centre (the "Employer") in Halifax, Nova Scotia.
+[2] In 1992 the Appellant became disabled due to an environment illness as a result of toxins in the Hospital operated by the Employer.
+[3] From 1992 to 2001 the Employer made a total of $132,914.31 in payments to the Appellant. The payments are referred to in the Notice of Appeal as 'Advances on Worker's Compensation payments'.
+[4] The various 'Advances on Worker's Compensation payments' were reported as income by the Appellant in each of the 1992 to 2001 taxation years. income taxes, CPP and EI were deducted and withheld by the Employer.
+[5] In 2001 the Appellant settled her worker's compensation claim and received $136,812.19 from the Worker's Compensation Board of Nova Scotia (the "Board"). Of this amount $132,914.31 was paid by the Board directly to the Employer as a repayment of the 'Advances on Worker's Compensation payments' paid to the Appellant from 1992 to 2001.
+[6] On July 9, 2002 the Minister of National Revenue (the "Minister") issued a Notice of Assessment for the 2001 taxation year. In the Assessment the amount of $132,914.31 was included in income for the 2001 taxation year.
+[7] On August 7, 2002 a Request was filed by the Appellant with the Canada Revenue Agency ("CRA") under the Fairness legislation. No written response has been received by the Appellant to this request.
+[8] A Notice of Objection was filed by the Appellant to the Notice of Assessment issued for the 2001 taxation year.
+[9] On July 28, 2003 a Notice of Reassessment for the 2001 taxation year was issued by the Minister. In the Notice of Reassessment all payments received from the Board were included in the Appellant's income under paragraph 56(1)(v) of the Act and deducted under paragraph 110(1)(f) of the Act.
+[10] A further Notice of Objection was filed by the Appellant.
+[11] The Appellant maintains that since the settlement that she made with the Board was not taxable, the 'Advances on Worker's Compensation payments' that she received from 1992 to 2001 - which were intended to be advances on her non-taxable settlement - should not be taxable either. The Appellant relies on the CRA Information Bulletin IT-202R2 (and other policy statements) as support for her position, and notes that most of the settlement that she received from the Board in 2001 was paid directly by the Board to the Employer as a reimbursement of the Advances that were paid from 1992 to 2000.
+[12] The Respondent argues that no Notices of Objection were filed with respect to the Notices of Assessment/Reassessment issued for the 1992 to 2000 taxation years.
+[13] The Respondent maintains that the Notices of Assessment/Reassessment issued for the 1992 to 2000 taxation years are therefore not properly before the Court.
+[14] With respect to the Appellant's 2001 taxation year, the Respondent argues that although a valid Notice of Objection was filed by the Appellant within the prescribed time limit, a nil assessment cannot be objected to.
+[15] On January 14, 2004 the Respondent filed an Amended Notice of Motion. In the Amended Notice of Motion, Counsel for the Respondent stated as follows:
+1. with respect to the 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999 and 2000 taxation years, the Appellant has not filed a Notice of Objection pursuant to section 165 of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act"), and therefore has not met a condition set out in section 169 of the Act; and
+2. with respect to the Appellant's 2001 taxation year, that the assessment is a nil assessment and therefore the Appellant is not appealing with respect to an assessment of tax, interest or penalties pursuant to subsection 169(1) of the Act.
+B. ISSUE
+[15] Should the Amended Notice of Motion filed by counsel for the Respondent be granted?
+C. ANALYSIS:
+[16] Under the provisions of the Income Tax Act (the "Act") a taxpayer cannot file Notices of Objection to the 1992 - 2000 taxation years after the period specified in the Act for filing Notices of Objection. New St. James Ltd. v. M.N.R., 66 DTC 5241 stands for the proposition that a loss incurred in a statute barred year can be recalculated for the purpose of reassessing a non-statute barred year. However, that court decision will not permit the Appellant in this case to open up prior years for which no valid Notice of Objection was filed.
+[17] I must next consider whether the Appellant can file a Notice of Objection to the Notice of Reassessment issued on July 28, 2003 for the 2001 taxation year. The courts have held that there is no right of appeal from a nil assessment.
+[18] I have concluded that the Notice of Motion that was filed by the Respondent should be granted.
+[19] Before concluding my remarks I would like to re-examine the Appellant's tax position with respect to the Advances that were paid by the Board.
+[20] Subsection 23(2) of the Financial Administration Act provides that the Governor-in-Council may refund taxes paid where the Minister considers that the collection of the tax was unreasonable or unjust or that it is otherwise in the public interest to remit the tax or penalty. Remission Orders can be applied for by writing to the taxpayer's District Taxation Office. If granted, the Remission Orders are issued on the recommendation of the Minister. The Order is approved by a committee of Cabinet through an Order-in-Council and is published in The Canada Gazette.
+[21] The Appellant's argument is that the 'Advances on Worker's Compensation payments' should not have been taxed, since they were simply an advance or a loan that was repayable out of her eventual non-taxable Worker's Compensation Board settlement. The Appellant points out that almost all of her settlement went directly to the Employer to repay the amounts she was advanced. The Appellant also notes that if she had received the settlement at the time of her disability (i.e. 1992) she would have received the full amount tax-free.
+[22] There are a number of administrative policy statements issued by the CRA that would tend to support the Appellant's argument. Paragraph 7 of Interpretation Bulletin IT-202R2 - Employees' or Workers' Compensation states:
+7. Where it can be established that an employee received a loan or advance from his or her employer which is to be repaid from future payments of compensation, the loan or advance constitutes neither income to the employee nor deductible expense to the employer. However, when the compensation is paid and is received by the employee, it will be treated in accordance with 3 and 5 above. The amount received by the employer from or on behalf of the employee in repayment of the loan or advance will not constitute income to the employer.
+In a Revenue Canada notice issued on September 9, 1999 and reproduced in the 17th and 18th editions of the Practitioners Income Tax Act, the following comment is found:
+WCB advances (loans)
+An employer will still be allowed to make an advance or loan to an employee while waiting for a decision on a claim, and we will not consider this amount to be employment income.
+[23] Therefore, if the 'Advances on Worker's Compensation payments' were a loan or advance to the Appellant from her employer, income taxes, CPP and EI should not have been deducted or withheld. It should also be noted that irrespective of CRA policy on this issue, under general income tax principles loan proceeds are not considered income, and loans are not taxable under section 3 of the Act.
+[24] In The Queen v. Whitney the following comments are found:
+(...) an amount is not within the scope of paragraph 56(1)(v) and subparagraph 110(1)(f)(ii) unless it is paid in accordance with a workers' compensation law. A payment made under a contractual arrangement, even one that includes an extra-statutory adjudication by a workers' compensation board or commission, is outside the scope of those provisions. To the extent that IT-202R2 is inconsistent with this interpretation, it is wrong in law.
+The Queen v. Whitney, [2002] F.C.J. No. 948, 2002 FCA 266. See also Suchon v. Canada, [2002] F.C.J. No. 972, 2002 FCA 282.
+[25] In other words, based on the above decisions, only amounts received by an injured employee directly from a provincial Worker's Compensation Board are included in income under paragraph 56(1)(v) and deductible under paragraph 110(1)(f) (i.e. tax free). Furthermore, it is important to note that the settlement amount that the Appellant eventually received from the Worker's Compensation Board in 2001 was deducted from her income under paragraph 110(1)(f). As a result, the settlement was not included in her income for the 2001 taxation year.
+CONCLUSION:
+[26] The issue in this case is the proper characterization of the 'Advances on Worker's Compensation payments' the Appellant received from 1992 to 2000. If those payments are characterized as income they are taxable under section 5 or paragraph 6(1)(a), and the Appellant should not be entitled to succeed (i.e. obtain a Remission Order) since the 'Advances on Worker's Compensation payments' were not paid "... in accordance with a workers' compensation law", and since she has already deducted the Worker's Compensation settlement she received in 2001 under paragraph 110(1)(f) she should not be entitled to a second deduction under paragraph 110(1)(f).
+[27] However, if the 'Advances on Worker's Compensation payments' are properly characterized as loan proceeds, then they were not taxable under section 5 or paragraph 6(1)(a) to begin with, and the Appellant's employer should not have deducted and withheld taxes on those amounts. If that is in fact the case, this would appear to be a case where a Remission Order should be granted.
+[28] The cases referred to above (Whitney and Suchon) both dealt with amounts that were paid under a collective agreement or a disability plan and were clearly caught by section 5 as income. There was no obligation on the taxpayers to pay the amounts back once a settlement was received. The issue before the Court in those cases was whether the amounts were deductible under paragraph 110(1)(f) notwithstanding that they were not paid under a workers' compensation law. On the other hand, the issue in the present case is whether the amounts (i.e. the 'Advances on Worker's Compensation payments') are really loan proceeds as opposed to income, and therefore not taxable to the Appellant at all.
+[29] It appears that the amounts received by the Appellant from the 1992 to 2000 taxation years were non-taxable loan proceeds.
+[30] In determining whether a Remission Order should be issued the Minister considers the following guidelines:
+(a) extreme hardship;
+(b) incorrect departmental action or advice that leads directly to additional tax;
+(c) other factors such as
+- conditions beyond the client's control
+- client errors that the Department should reasonably have caught.
+[31] Based on the two documents submitted into evidence (Exhibits A-1 and A-2) there is evidence of conditions beyond the client's control as well as an error (i.e. the error of the Employer withholding and remitting tax, CPP and EI). Furthermore this type of error is the type of error that should have been picked up by officials of the CRA.
+[32] Under the unusual and unfortunate circumstances that are referred to above this may be a case where the Minister should issue a Remission Order under the Financial Administration Act.
+Signed at Vancouver, British Columbia, this 29th day of July 2004.
+"L.M. Little"
+Little J.
+CITATION:
+2004TCC510
+COURT FILE NO.:
+2003-3756(IT)G
+STYLE OF CAUSE:
+Maureen Coulter and
+Her Majesty the Queen
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+January 23, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+July 29, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Caitlin Ward
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

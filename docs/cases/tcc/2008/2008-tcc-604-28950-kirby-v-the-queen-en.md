@@ -1,0 +1,143 @@
+---
+title: "Kirby v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28950/index.do"
+last_modified: "2008-11-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 604"
+citation2: ""
+neutral_citation: "2008 TCC 604"
+decision_date: "2008-11-05"
+language: "en"
+item_id: "28950"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1390
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:41:09.120000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2e6a557ad18ddc8b018bd18942ad53f753bf09e8027006065e5f570da8dd613e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kirby v. The Queen
+
+- Citation: 2008 TCC 604
+- Decision date: 2008-11-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1390, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kirby v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-05
+Neutral citation
+2008 TCC 604
+File numbers
+2007-4903(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2007-4903(IT)I
+2007-4904(GST)I
+BETWEEN:
+JOHN KIRBY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 21, 2008 at London, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Paul Golian (student-at-law)
+Counsel for the Respondent:
+Suzanie Chua
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to director liability assessments made under the Income Tax Act and the Excise Tax Act is allowed, and the assessments are vacated. The appellant is entitled to costs in accordance with the tariff.
+Signed at Toronto, Ontario this 5th day of November 2008.
+“J. Woods”
+Woods J.
+Citation: 2008TCC604
+Date: 20081105
+Dockets: 2007-4903(IT)I
+2007-4904(GST)I
+BETWEEN:
+JOHN KIRBY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on October 30, 2008)
+Woods J.
+[1] Let the record show that these are reasons delivered orally in the matter of John Kirby and Her Majesty the Queen.
+[2] John Kirby is a lawyer practicing in Sarnia, Ontario and he has appealed two director liability assessments issued against him, one for income tax source deductions in the amount of $6,332.91 and the other for GST remittances in the amount of $9,545.84.
+[3] The appeals were heard under the Court’s informal procedure and Mr. Kirby, who testified on his own behalf, was represented at the hearing by Paul Golian, who is currently doing his articles with Mr. Kirby.
+[4] I will now describe the background facts.
+[5] The assessments were issued to Mr. Kirby because he was a director of 811349 Ontario Limited. In fact he was the sole director and also the sole shareholder of this corporation, which I will now call 811 for convenience.
+[6] 811 was incorporated on January 27, 1989. I do not think that anything turns on this, but I mention it because it is contrary to an assumption stated in the reply which is that 811 was incorporated in 1996. I base the factual finding that 1989 is the year of incorporation from the Crown’s own exhibit, exhibit R-1.
+[7] Turning to more relevant facts, the arrangements with which we are concerned began in 1992. In that year, Mr. Kirby entered into an oral business arrangement with Mr. Lee Zeytinoglu to jointly operate a charity bingo hall in Sarnia. It appears that Mr. Zeytinoglu is an established businessman in Sarnia.
+[8] Under the arrangement, which was never documented by a written agreement, a corporation owned by Mr. Zeytinoglu was to own the bingo hall facility and lease it to a partnership which would operate the business. There were two partners of the partnership, Mr. Zeytinoglu and 911833 Ontario Limited. The numbered company, 911, was incorporated by Mr. Kirby to hold his interest in the partnership and Mr. Kirby was 911’s sole shareholder.
+[9] Also as part of the arrangement, the partnership engaged 811 to manage the business on behalf of the partners.
+[10] As part of 811’s management duties, it obtained a gaming license, it hired employees and it registered for GST and payroll source deductions.
+[11] The partnership, managed by 811, operated the bingo hall for about ten years and then in the fall of 2004 Mr. Kirby decided to get out of the business because of adverse effects from a new non-smoking law.
+[12] Mr. Kirby was not able to come to a satisfactory arrangement with Mr. Zeytinoglu in a timely fashion concerning Mr. Kirby’s exit from the business and so in December 2004 Mr. Kirby unilaterally closed the business after giving his partner notice of this.
+[13] Within a short period of time, Mr. Zeytinoglu decided to take over the business and apparently he still owns it today.
+[14] It is not in dispute that there are unpaid source deductions and GST remittances with respect to the bingo hall operations. The dispute centres on the actions of the Minister to assess 811 for these and not the partners who owned the business.
+[15] If the partners were liable for the tax remittances, as Mr. Kirby suggests in his notice of appeal, then Mr. Kirby would share any potential liability with Mr. Zeytinoglu. On the other hand, if 811 were liable for the remittances, as the Crown suggests, then Mr. Kirby was potentially liable on his own as a director of 811.
+[16] Unfortunately there was very little evidence on which I could make a determination as to whether 811 was properly assessed for the failure to make the tax remittances. Although the reassessments against 811 are deemed to be accurate, the case law suggests that Mr. Kirby can dispute this in the appeal regarding his liability as director.
+[17] The impression that I formed at the hearing is that the Crown did not focus on this issue and that the appellant did not address it in detail in evidence because he did not understand the basis on which 811 had been assessed.
+[18] The problem that we have in this appeal is that the replies do not set out the factual basis on which it was determined that 811 was liable for the tax remittances. It was important that Mr. Kirby have this information in the replies so that he could provide evidence that would be relevant to the determination as to whether 811 or the partners were liable. It was especially important that the replies set this out when Mr. Kirby states in his notice of appeal that the partners should be primarily liable for the remittances.
+[19] In the circumstances, the Crown should bear the burden to establish the facts which would support the assessments against 811. The legal principle that should be applied is set out in the Federal Court of Appeal decision in Roll v. The Queen. Essentially it must be determined whether 811 had the authority to make the tax remittances. The evidence does not establish that 811 did in fact have that authority. To the contrary, there was some evidence from Mr. Kirby that Mr. Zeytinoglu had to sign all the cheques. I would conclude that the Crown has failed to satisfy the burden and that the assessments should be vacated on that basis.
+[20] Before concluding I would briefly mention another procedural point.
+[21] The replies of the Crown were filed several months late and in this case the Crown bears the burden to disprove facts as alleged in the notice of appeal. Neither party was aware of this shifting of onus until I raised it during the hearing. This was not an ideal state of affairs because the appellant no doubt prepared his case thinking that he had the burden of proof. In any event, it has not been necessary for me to consider whether the Crown has satisfactorily satisfied this burden because I have concluded that the assessments should be vacated for other reasons.
+[22] In the result, the appeals will be allowed and the assessments will be vacated. The appellant is entitled to his costs in accordance with the tariff.
+Signed at Toronto, Ontario this 5th day of November 2008.
+“J. Woods”
+Woods J.
+CITATION: 2008TCC604
+COURT FILE NOS.: 2007-4903(IT)I
+2007-4904(GST)I
+STYLE OF CAUSE: JOHN KIRBY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: October 21, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice J. Woods
+DATE OF JUDGMENT: November 5, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Paul Golian (student-at-law)
+Counsel for the Respondent:
+Suzanie Chua
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Paul Golian (student-at-law)
+Firm: D. John Kirby
+Sarnia, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

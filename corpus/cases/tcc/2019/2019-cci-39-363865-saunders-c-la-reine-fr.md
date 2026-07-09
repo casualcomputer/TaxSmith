@@ -1,0 +1,246 @@
+---
+title: "Saunders c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/363865/index.do"
+last_modified: "2019-02-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 39"
+citation2: ""
+neutral_citation: "2019 CCI 39"
+decision_date: "2019-02-20"
+language: "fr"
+item_id: "363865"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4358
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:24:56.667000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ae01b56ac57ddd4764d1861842d66d5817bd943495cafa0b957ad52e5e4ed37"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Saunders c. La Reine
+
+- Citation: 2019 CCI 39
+- Decision date: 2019-02-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4358, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saunders c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-02-20
+Référence neutre
+2019 CCI 39
+Numéro de dossier
+2016-3364(IT)I
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-3364(IT)I
+ENTRE :
+ERIK SAUNDERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 11 mai 2017 à Kamloops (Colombie-Britannique) et le 7 décembre 2018 à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Mary Softley
+Me Mary Softley
+Me P. Mahil Pandher
+JUGEMENT
+Conformément aux motifs du jugement ci-joints :
+L’appel interjeté à l’encontre d’une nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 de l'appelant est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 20e jour de février 2019.
+« S. D’Arcy »
+Juge D’Arcy
+Référence : 2019 CCI 39
+Date : 20190220
+Dossier : 2016-3364(IT)I
+ENTRE :
+ERIK SAUNDERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] L'appelant a interjeté appel d’une pénalité pour faute lourde imposée par le ministre en vertu du paragraphe 163(2). Le ministre a imposé cette pénalité car l’appelant a déclaré, dans sa déclaration de revenus pour l'année d’imposition 2011, une perte d'entreprise ainsi qu'une perte en capitale net fictives.
+[2] Une entité appelée DeMara Consulting Inc. (« DeMara ») a préparé la déclaration de revenus de l’appelant en 2011. Les dirigeants de DeMara ont été condamnés criminellement pour leurs actes dans la préparation des déclarations de revenus de nombreux contribuables. Plus de 200 de ces contribuables en ont appelé des cotisations à la Cour.
+[3] Je crois comprendre que la Cour entend de tels appels pour la première fois. J'ai procédé à l’instruction de l'appel selon les règles de procédures informelles de la Cour.
+I. Résumé des faits
+[4] Au cours des années en cause, la principale source de revenus de l'appelant était son emploi en tant que mineur de fond. Il exploitait également une ferme que son père lui avait léguée.
+[5] Il touchait un revenu d’emploi considérable en tant que chef d’équipe dans une mine. Il a expliqué que son travail consistait à assurer la sécurité des travailleurs, de la mine et de l’équipement minier. Pour recevoir sa carte de qualification pour devenir chef d’équipe, il a dû passer un examen écrit.
+[6] Avant 2010, un comptable agréé, M. Murray Rossworn, préparait les déclarations de revenus de l’appelant. L’appelant a déclaré que, chaque année, il se rendait au bureau de M. Rossworn pour y déposer ses reçus et d’autres documents. Une fois que M. Rossworn avait terminé de préparer la déclaration de revenus de l’appelant, ce dernier retournait au bureau de M. Rossworn afin d’examiner sa déclaration. L’appelant a décrit cette visite en ces termes : [traduction] « nous entrions, il s’assoyait et nous montrait ce que nous devions payer – ou ce que je gagnais, ce que je payais. Il me montrait quelques déductions. Ensuite nous avions à signer les documents et c’était tout [1] ».
+[7] Les déclarations de revenus préparées par M. Rossworn pour les années d’imposition 2008 et 2009 de l’appelant faisaient état des revenus suivants :
+- Pour l’année d’imposition 2008, le revenu total de 109 413,81 $ est réparti de la façon suivante :
+o Un revenu d’emploi de 118 163,81 $;
+o Une perte agricole de 8 750 $.
+o Un revenu d’emploi de 8 736,00 $;
+o Prestations d’assurance-emploi et autres de 19 575 $;
+o Un revenu de REER de 8 955 $.
+o Une perte agricole de 12 116,21 $.
+- Pour l’année d’imposition 2009, le revenu total de 25 149,79 $ est réparti de la façon suivante :
+[8] À un moment donné en 2010, des connaissances de l’appelant lui ont parlé de DeMara. Elles lui ont dit que les gens de DeMara étaient des spécialistes en déclarations de revenus qui obtenaient des remboursements d’impôts pour leurs clients. Il a rencontré un représentant de DeMara à l’automne 2010. Le représentant lui a dit que son comptable ne recourait pas à toutes [traduction] « les astuces » qu’il pouvait utiliser pour préparer ses déclarations de revenus.
+[9] En novembre 2010, à la recommandation de DeMara, l’appelant a présenté une demande afin d’obtenir un numéro d’inscription aux fins de la TPS. Les gens de DeMara l’avaient informé que le numéro d’inscription aux fins de la TPS les aiderait lorsqu’ils prépareraient ses déclarations de revenus. L’Agence du revenu du Canada (l’« ARC ») lui a délivré le numéro le 25 novembre 2010. En décembre 2010, l’appelant a signé un formulaire d’autorisation afin de permettre à DeMara de le représenter devant l’ARC.
+[10] Le 20 janvier 2011, l’appelant et son épouse ont signé un formulaire autorisant DeMara à préparer leurs déclarations de revenus. Le formulaire comporte un avis de consentement et de renonciation, qui stipule, entre autres [traduction] « [j]e sais aussi que [je] suis responsable d’examiner ma déclaration avant de la signer ».
+[11] Le 27 avril 2011, la déclaration de revenus de 2010 de l’appelant a été transmise à l’ARC. DeMara avait préparé la déclaration de revenus, qui faisait état d’un revenu total de 0 $, comprenant les éléments suivants :
+- Un revenu d’emploi de 74 263,82 $;
+- Un autre revenu d’emploi de 121,36 $;
+- Un revenu de REER de 788,64 $;
+- Une perte d’entreprise de 205 978,15 $.
+[12] L’appelant a également indiqué, dans sa déclaration de revenus, une perte en capital de 205 978 $.
+[13] Un formulaire T5 Sommaire intitulé « Déclaration des revenus de placements » était joint à la déclaration de revenus. L'appelant y figurait à titre de déclarant. Le formulaire servait à calculer les totaux des feuillets T5 qui s’élèvent à 205 978,15 $ (le montant déclaré en perte d’entreprise), et qui représentent tous des intérêts payés par l’appelant à des tiers. Les feuillets T5 qui y sont annexés montrent que l’appelant a prétendument payé des intérêts à diverses parties telles que CIBC, Telus, Insight Tire and Auto et American Express.
+[14] Un formulaire T5008 Sommaire intitulé « Déclaration des opérations sur titres » était également joint à la déclaration de revenus. L’appelant y figurait aussi à titre de déclarant. Les feuillets T5008 qui y sont annexés indiquent que l’appelant avait reçu des montants pour des opérations sur titres concernant les mêmes entreprises mentionnées dans les feuillets T5 produits avec la déclaration de revenus.
+[15] Le 13 juin 2011, l’ARC a envoyé une lettre à l’appelant, à son adresse domiciliaire, lui demandant des renseignements pour justifier la réclamation dans sa déclaration de revenus de 2010 d’une perte d’entreprise de 205 978 $ et d’une perte en capital de 205 978 $. L’appelant a affirmé avoir parcouru la lettre avant de l’envoyer à DeMara. Les gens de DeMara lui ont dit qu’ils [traduction] « s’en occuperaient ».
+[16] Le 28 juin 2011 et le 19 juin 2011, DeMara a produit, au nom de l’appelant, des déclarations de revenus modifiées pour ses années d’imposition 2008 et 2009, respectivement. Ces déclarations font état du même revenu total que le revenu déclaré dans les déclarations préparées par M. Rossworn, sauf qu’elles y ajoutent des pertes d’entreprise de 85 250,17 $ et 137 373,22 $ pour les années d’imposition 2008 et 2009, respectivement. Les déclarations de revenus modifiées faisaient également état de pertes en capital de 85 250 $ et de 137 373 $ pour les années d’imposition 2008 et 2009, respectivement.
+[17] La déclaration de revenus modifiée de 2009 contient un T5 Sommaire, des feuillets de renseignements T5, un T5008 Sommaire et des feuillets de renseignements T5008 semblables à ceux produits avec la déclaration de revenus de 2010. Le montant total des prétendus intérêts équivaut à la perte d’entreprise de 137 373,22 $.
+[18] Le 27 juillet 2012, l’appelant a reçu une lettre par courrier recommandé l’informant que l’ARC refusait la perte d’entreprise de 205 978 $ et la perte en capital de 205 978 $ réclamées dans sa déclaration de revenus de 2010. La lettre indiquait que l’ARC était en train d’examiner les pertes d’entreprises et les pertes en capital réclamées dans les déclarations de revenus modifiées de l’appelant pour 2008 et 2009. La lettre se conclut avec une mention à la pénalité pour faute lourde prévue au paragraphe 163(2) et une indication que l’ARC envisage de lui imposer une telle pénalité.
+[19] L’appelant a déclaré avoir [traduction] « parcouru » la lettre du 27 juillet 2012 avant de l’envoyer à DeMara.
+[20] Le 22 février 2013, l’ARC a envoyé une lettre à l’appelant, à son adresse domiciliaire, lui indiquant que l’ARC refusait les pertes d’entreprise et les pertes en capital réclamées dans ses déclarations modifiées de 2008 et 2009 ainsi que dans sa déclaration de 2010. L’appelant a déclaré qu’il avait probablement lu la lettre avant de la transmettre à DeMara. Il a compris qu’il y avait un problème avec les déclarations de revenus.
+[21] Le ministre a ensuite établi une nouvelle cotisation pour l'appelant afin de refuser les pertes d’entreprise et les pertes en capital réclamées dans ses déclarations de revenus pour 2008, 2009 et 2010 et de lui imposer des pénalités pour faute lourde. L’appelant a par la suite déposé une demande en vue d’obtenir une ordonnance visant la prorogation du délai dont il dispose pour porter les nouvelles cotisations en appel. La Cour a rendu une ordonnance rejetant sa demande le 1er octobre 2015.
+[22] La preuve dont je dispose indique que les feuillets T5 et T5008 produits avec les déclarations de revenus de 2008, 2009 et 2010 de l’appelant ne représentent pas des intérêts réels payés dans le cadre d’une entreprise ou de la disposition de titres. Les montants inscrits sur les feuillets se basent sur des dépenses personnelles que l’appelant aurait engagées au cours de l’année en cause.
+[23] Le 24 juin 2013, DeMara a produit, à titre de mandataire de l’appelant, la déclaration de revenus de 2011 de l’appelant qui fait état d’un revenu total de 56 149,03 $ et qui comprend les éléments suivants :
+- Un revenu d’emploi de 144 853,82 $;
+- Un revenu autre de 182,37 $;
+- Une perte agricole de 26 181,45 $;
+- Une perte d’entreprise de 62 705,71 $;
+- Une perte en capital de 62 206 $.
+[24] L’état des résultats des activités d’une entreprise ou d’une profession libérale produite avec sa déclaration de revenus de 2011 indique qu’il a exploité une entreprise de conseil qui n’a généré aucun revenu et engagé des frais d’intérêt de 62 205,71 $ de même que des frais comptables, juridiques, et autres honoraires de 500 $.
+[25] L’appelant a déclaré qu’il n’a jamais exploité d’entreprise de conseil et qu’il n’a pas subi la perte de 62 205,71 $.
+[26] L’annexe 3, jointe à sa déclaration de revenus de 2011, montre qu’il s’est départi d’obligations, de débentures, de billets à ordre et d’autres biens semblables, dont le prix de base rajusté est de 62 206,00 $, pour une contrepartie nulle. Le nom de l’émetteur de ses biens y était inscrit comme étant [traduction] « feuillets T5008 ».
+[27] L’appelant a déclaré ne pas s’être départi d’obligation, de débenture, etc. en 2011 et ne pas avoir subi de perte en capital.
+[28] Un document d’une page intitulé « DeMara Consulting, DeMara Safeguard Shield Association » était joint à la déclaration de revenus. Il s’adresse à l’Agence du revenu du Canada, au sujet d’Erik Saunders, et indique ceci :
+[...]
+[traduction] [i]l s’agit d’un avis de courtoisie visant à informer le destinataire d’un contrat conclu entre la DeMara Safeguard Shield Association, ses membres et l’Agence du revenu du Canada (CRA-ARC). Le contrat peut être consulté en ligne à l’adresse suivante : doc.DeMara.org/Vgqax0.
+Le contrat décrit les obligations de l’ARC de traiter les documents annexés tels que produits, comme le stipule le contrat. Si vous manquez à ces obligations, il y aura rupture de contrat, et des pénalités seront imposées conformément au barème tarifaire.
+[...]
+[29] Le jour même où DeMara a produit la déclaration de revenus de l’appelant pour 2011, DeMara a également transmis à l’ARC un T5 Sommaire, des feuillets T5, un T5008 Sommaire et des feuillets T5008.
+[30] Comme pour les années d’imposition antérieures, l’appelant figure sur le T5 Sommaire en tant que déclarant. Le T5 Sommaire indique que les feuillets T5 qui y sont annexés font état d’intérêts de sources canadiennes totalisant 62 205,71 $, ce qui correspond aux frais d’intérêt déclarés dans l’état des résultats des activités d’une entreprise produit avec la déclaration de l’appelant.
+[31] Trois feuillets T5 étaient joints au T5 Sommaire. Deux des feuillets T5 indiquent que la CIBC est bénéficiaire des paiements d’intérêts. Le troisième indique qu’American Express est en bénéficiaire.
+[32] Chacun des feuillets T5 où la CIBC figure comme bénéficiaire comporte des numéros de compte dans la case intitulée « Numéro de compte du bénéficiaire ». L’appelant a affirmé que ces numéros étaient les numéros de compte de sa ligne de crédit et de sa carte de crédit à la CIBC. Le feuillet T5 où American Express figure comme destinataire comportait également un numéro de compte. L’appelant n’était pas certain s’il s’agissait du numéro de son compte American Express.
+[33] Le ministre a ensuite établi une nouvelle cotisation afin de refuser à l’appelant la perte d’entreprise de 62 705 $ et la perte en capital de 62 206 $ réclamées dans sa déclaration de revenus. Le ministre a également imposé une pénalité pour faute lourde. C’est cette cotisation qui se trouve au centre du litige devant la Cour. L’appelant a souligné au début de l’audience qu’il ne conteste que l’imposition d’une pénalité pour faute lourde. Il a fait valoir que le ministre n’aurait pas dû lui imposer une pénalité et que le calcul de la pénalité imposée est inexact.
+II. La Loi
+[34] La seule question dont la Cour est saisie consiste à déterminer si l’appelant doit payer des pénalités pour faute lourde.
+[35] Voici les dispositions liminaires du paragraphe 163(2) de la Loi de l’impôt sur le revenu :
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total [...]
+[36] Les dispositions liminaires indiquent deux conditions qui doivent être remplies si l’imposition par le ministre d’une pénalité au titre du paragraphe 163(2) de la Loi de l’impôt sur le revenu doit être maintenue :
+L’appelant doit avoir fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse ou y avoir participé, consenti ou acquiescé (collectivement « une déclaration »).
+Le faux énoncé ou l’omission doit avoir été fait par l’appelant sciemment ou dans des circonstances équivalant à faute lourde, ou l’appelant doit avoir participé, consenti ou acquiescé à ce faux énoncé ou à cette omission sciemment ou dans des circonstances équivalant à faute lourde.
+[37] Aux termes du paragraphe 163(3) de la Loi de l’impôt sur le revenu, il incombe au ministre d’établir, selon la prépondérance des probabilités, les faits qui justifient l’imposition d’une pénalité prévue au paragraphe 163(2) de la Loi de l’impôt sur le revenu.
+III. Position de l’appelant
+[38] La position de l’appelant est qu’il n’a pas commis de faute lourde. Il a affirmé ne pas avoir examiné ou signé sa déclaration de revenus de 2011 avant qu’elle ne soit produite et ne pas savoir que DeMara avait déclaré d’importantes pertes d’entreprise et pertes en capital dans sa déclaration de revenus. Il possède une neuvième année en anglais, une neuvième année en mathématique et en science ainsi qu’une dixième année en sciences humaines et il est dépassé par [traduction] « le jargon juridique et les trucs du genre ».
+[39] Il pensait que DeMara était une firme de spécialistes fiables en matière fiscale, et qu’ils se conformeraient à la loi.
+IV. Règlement d’un appel
+[40] La première condition de la pénalité pour faute lourde prévue au paragraphe 163(2) est remplie, car l’appelant a fait un faux énoncé dans sa déclaration de revenus de 2011, ou y a participé, y a consenti ou y a acquiescé.
+[41] L’appelant admet que deux faux énoncés ont été faits dans la déclaration de revenus, à savoir la déclaration d’une perte d’entreprise de 62 705,71 $ et d’une perte en capital de 62 206 $. Je conclus, comme question de fait, que les faux énoncés ont été fait par DeMara, ses spécialistes en déclarations de revenus autorisés, à un moment où l’appelant savait que DeMara avait déclaré des pertes d’entreprise et des pertes en capital pour une entreprise qu’il n’a jamais eue et des titres qu’il n’a jamais possédés ou vendus.
+[42] L’appelant a reçu une lettre de l’ARC le 13 juin 2011, l’avertissant du fait que des pertes d’entreprise et des pertes en capital importantes ont été réclamées dans sa déclaration de revenus de 2010. Le 27 juillet 2012, il a reçu une deuxième lettre de l’ARC l’informant que les pertes d’entreprise et les pertes en capital réclamées dans sa déclaration de revenus de 2010 avaient été refusées, que des pertes semblables avaient été réclamées dans ses déclarations de revenus modifiées de 2008 et 2009 et que l’ARC envisageait de lui imposer des pénalités pour faute lourde.
+[43] Le 22 février 2013, l’appelant a reçu une troisième lettre de l’ARC l’avisant que le ministre refusait toutes les pertes réclamées dans les trois déclarations de revenus.
+[44] Au début de chacune des lettres, l’auteur indique clairement que des pertes d’entreprise et des pertes en capital ont été réclamées, ainsi que le montant de ces pertes. Par exemple, voici le texte du premier paragraphe de la lettre du 13 juin 2011 :
+[traduction]
+La présente lettre concerne votre déclaration de revenus de 2010. Vos déclarations comprennent les réclamations suivantes qui ont été sélectionnées pour examen.
+Revenu (perte) net d’entreprise (205 978 $)
+Gain (perte) brut en capital de (205 978 $)
+[45] Les pertes réclamées sont précisées de façon similaire dans les deux autres lettres de l’ARC. Après avoir lu les lettres, l’appelant savait que DeMara réclamait des pertes d’entreprise et des pertes en capital fictives dans ses déclarations de revenus, mais il leur a tout de même permis de produire sa déclaration de revenus pour 2011 le 24 juin 2013. En autorisant DeMara a produire sa déclaration de revenus de 2011 dans de telles circonstances, l’appelant a fait un énoncé dans déclaration de revenus de 2011, ou y a participé, consenti ou acquiescé.
+[46] La deuxième condition énoncée au paragraphe 163(2) ne sera remplie que si l’appelant a fait ce faux énoncé ou cette omission sciemment ou dans des circonstances équivalant à faute lourde.
+[47] Quant à savoir si le faux énoncé ou l’omission a été fait sciemment, la Cour doit déterminer si l’appelant avait la connaissance subjective qu’il avait fait un faux énoncé dans ses déclarations de revenus au moment où il les a produites.
+[48] Comme l’a fait remarquer mon collègue, le juge Owen, dans la décision Peck c. The Queen [2] , en s’appuyant sur l’arrêt Wynter c. Canada [3] , il est possible de démontrer qu’un contribuable avait la connaissance subjective qu’il faisait un faux énoncé par des éléments de preuve établissant, selon la prépondérance des probabilités, que le contribuable a fait preuve d’ignorance volontaire quant aux faux énoncés contenus dans sa déclaration.
+[49] Voici comment le juge Owen a résumé les éléments nécessaires pour établir l’ignorance volontaire :
+[traduction]
+[46] Pour établir qu’il y a eu ignorance volontaire, il faut prouver, selon la prépondérance des probabilités, que l’appelant savait que les énoncés présents dans sa déclaration et la demande étaient probablement faux, mais qu’il a choisi délibérément de ne pas se renseigner davantage, parce qu’il savait subjectivement ou soupçonnait fortement qu’il découvrirait des renseignements qui confirmeraient que les énoncés étaient bel et bien faux (voir Sansregret c. La Reine, [1985] 1 R.C.S. 570, à la page 584, R. c. Jorgensen, [1995] 4 R.C.S. 55, aux paragraphes 102 et 103, et Briscoe c. La Reine, 2010 CSC 13, [2010] 1 R.C.S. 411, aux paragraphes 21 à 23). L’arrêt Wynter définit le critère de l’ignorance volontaire en ces mots :
+[13] Un contribuable fait preuve d’ignorance volontaire lorsqu’il prend conscience de la nécessité de se renseigner, mais refuse de le faire parce qu’il ne veut pas connaître la vérité ou qu’il évite soigneusement de la connaître. Il s’agit de la notion de l’ignorance délibérée : R. c. Briscoe, 2010 CSC 13, aux paragraphes 23 et 24, [2010] 1 R.C.S. 411 (Briscoe); Sansregret, au paragraphe 24. Dans ces circonstances, la notion de l’ignorance volontaire impute une connaissance au contribuable : Briscoe, au paragraphe 21. [...]
+[47] La connaissance subjective requise pour conclure à la connaissance réelle ou à l’ignorance volontaire fait référence à la connaissance réelle ou subjective qu’a la personne qui commet l’acte prohibé, et non à la connaissance objective ou présumée qu’aurait une personne raisonnable dans les mêmes circonstances (voir, de façon générale, Shand c. The Queen, 2011 ONCA 5, au paragraphe 188 et Roks c. The Queen, 2011 ONCA 526, au paragraphe 132) [4] .
+[50] Je crois que l’appelant était au courant des faux énoncés, ou qu’il les a ignorés volontairement. Comme je viens de le dire, il savait que de faux énoncés avaient été faits dans les années antérieures. Pourtant, il n’a jamais questionné DeMara quant aux raisons pour lesquelles ils déclaraient des pertes d’entreprise de plusieurs centaines de milliers de dollars alors qu’il n’exploitait pas d’entreprise.
+[51] L’appelant a témoigné qu’il avait cru comprendre que DeMara produirait ses déclarations de revenus de 2008 jusqu’en 2011 à l’aide d’un processus [traduction] « de réparation ». L’appelant et son épouse ont participé à des conférences téléphoniques hebdomadaires au cours desquelles les représentants de DeMara expliquaient le processus de réparation/de T5. Il déclaré avoir lu les documents fournis par DeMara concernant le processus de réparation, mais qu’il n’en avait à peu près rien compris et qu’il n’avait pas compris que DeMara réclamerait des pertes d’entreprise et des pertes en capital. Cependant, il se souvenait que le processus faisait appel aux feuillets T5 et T5008.
+[52] Je n’accepte pas le témoignage de l’appelant sur ce point. J’estime qu’il savait que DeMara réclamait ses dépenses personnelles à titre de dépenses d’entreprise et déclarait les dépenses personnelles sur des feuillets T5. Autrement dit, l’appelant savait que DeMara faisait de faux énoncés dans ses déclarations de revenus.
+[53] Avant même que DeMara n’ait produit une seule des déclarations de revenus de l’appelant, l’appelant a, sous la direction de DeMara, demandé un numéro d’inscription aux fins de la TPS pour une entreprise fictive. Ces éléments de preuve démontrent que l’appelant était au courant que DeMara faisait comme s’il exploitait une entreprise.
+[54] L’appelant a fourni les renseignements dont DeMara s’est servi pour calculer les montants des pertes d’entreprise, qui correspondaient également aux montants figurant sur les feuillets T5. L’appelant (ou son épouse) a fourni à DeMara ses relevés bancaires et de carte de crédit ainsi que d’autres documents qui quantifiaient les dépenses personnelles de l’appelant. On le constate sur les feuillets T5, où les numéros de compte de l’appelant sont inscrits.
+[55] La pièce R-23, qui contient un courriel de l’épouse de l’appelant destiné à DeMara, témoigne du fait que l’appelant savait que DeMara déduisait ses dépenses personnelles : [traduction] « Nous avons aussi une facture pour des services médicaux, je suppose que nous devrions payer pour ça et les T5 plus tard. »
+[56] Je suis également d’avis que l’appelant a fait de faux énoncés dans sa déclaration de revenus pour 2011 dans des circonstances équivalant à faute lourde.
+[57] L’expression « faute lourde » qui figure au paragraphe 163(2) de la Loi de l’impôt sur le revenu a fait l’objet d’un examen dans la décision Venne c. Canada, 84 DTC 6247 (CF 1re inst.), qui a été largement adoptée. Dans cette décision, le juge Strayer a écrit, à la page 6256 :
+[...] On doit considérer que la « faute lourde » est plus grave que le défaut de faire preuve de diligence raisonnable. Il doit y avoir un degré d’important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. [...]
+[58] Comme l’indique la décision Venne, une constatation de « faute lourde » exige un degré important de négligence. L’existence (ou la non-existence) d’un degré important de négligence est déterminée en fonction de la norme objective de la personne raisonnable placée dans les mêmes circonstances que la personne visée par la pénalité, et non pas en fonction des caractéristiques ou des croyances subjectives de cette personne.
+[59] La norme objective n’est assouplie que s’il est établi que la personne est incapable de comprendre le devoir de ne pas faire un faux énoncé ou une omission dans une déclaration de revenus.
+[60] Il ressort clairement de la preuve dont je dispose que l’appelant est capable de comprendre son devoir de ne pas faire un faux énoncé ou une omission dans une déclaration de revenus. Il est intelligent, et il sait très bien qu’il doit produire ses déclarations de revenus et déclarer son revenu réel.
+[61] Il appartient donc à l’intimée d’établir, selon la prépondérance des probabilités, que les faits qui conduisent à la conclusion que les faux énoncés figurant dans la déclaration de revenus de 2011 de l’appelant constituaient un écart si marqué et important par rapport à la conduite d’une personne raisonnable dans les mêmes circonstances qu’ils équivalaient à une faute lourde.
+[62] L’intimée a établi ces faits.
+[63] L’appelant a affirmé avoir participé à une conférence téléphonique et avoir reçu des documents de DeMara décrivant le processus [traduction] « de réparation ». Il a déclaré ne pas avoir compris le processus. Il a également déclaré qu’il croyait que cela générerait d’importants remboursements. Une personne raisonnable aurait demandé conseil à un comptable ou à un avocat avant d’autoriser DeMara à produire ses déclarations de revenus en recourant au processus de réparation, surtout si cette personne est au courant du fait que le processus consiste à déclarer des dépenses personnelles comme des dépenses d’entreprise de façon à recevoir de gros remboursements.
+[64] Une personne raisonnable aurait certainement demandé conseil après avoir reçu des lettres de l’ARC refusant les pertes d’entreprise et les pertes en capital réclamées au cours des années précédentes.
+[65] Après avoir reçu les lettres de l’ARC, l’appelant savait, avant même que DeMara n’ait produit sa déclaration de revenus pour 2011, que DeMara avait réclamé des pertes d’entreprise et des pertes en capital fictives dans ses déclarations de revenus des années antérieures. Dans une telle situation, une personne raisonnable aurait examiné sa déclaration de revenus de 2011 avant qu’elle soit produite afin de s’assurer que DeMara n’a pas réclamé d’autres pertes fictives.
+[66] L’appelant était bien au courant qu’un contribuable doit examiner sa déclaration de revenus avant de la transmettre à l’ARC. Il a examiné ses déclarations de revenus de 2008 et 2009 préparées par M. Rossworn, un comptable agréé, avant qu’elles ne soient produites à l’ARC. De plus, l’appelant a reconnu, dans l’entente qu’il a conclue avec DeMara, qu’il était responsable d’examiner ses déclarations de revenus.
+[67] Cependant, il a fait le choix de ne pas examiner les déclarations de revenus préparées par DeMara. Cela est particulièrement troublant, puisqu’il a déclaré en savoir très peu sur les dirigeants de DeMara, et surtout, ne pas savoir s’ils étaient comptables.
+[68] À mon avis, compte tenu des éléments de preuve dont je dispose, la conduite de l’appelant en ce qui a trait aux dirigeants de DeMara constitue un écart si marqué et important par rapport à la conduite d’une personne raisonnable placée dans les mêmes circonstances que celle-ci équivaut à une faute lourde, comme il est expliqué dans la décision Venne.
+[69] Je conclus donc que l’appelant a fait de faux énoncés dans sa déclaration de revenus de 2011 dans des circonstances équivalant à faute lourde.
+V. Calcul de la pénalité pour faute lourde
+[70] L’appelant a aussi contesté le calcul du ministre de la pénalité pour faute lourde. Mme Marion Pomery, agente des appels de l’ARC, a témoigné pour l’intimée. À l’aide de la pièce R-114, elle a expliqué comment le ministre a procédé au calcul de la pénalité pour faute lourde.
+[71] Le calcul est conforme aux dispositions de la Loi de l’impôt sur le revenu.
+[72] Pour les motifs qui précèdent, l’appel est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 20e jour de février 2019.
+« S. D’Arcy »
+Juge D’Arcy
+RÉFÉRENCE :
+2019 CCI 39
+Nº DU DOSSIER DE LA COUR :
+2016-3364(IT)I
+INTITULÉ :
+ERIK SAUNDERS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Kamloops (Colombie-Britannique)
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 11 mai 2017
+Le 7 décembre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT :
+Le 20 février 2019
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Mary Softley
+Me Natasha Wallace
+Me P. Mahil Pandher
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)
+[1] Transcription, à la page 29.
+[2] Peck c. The Queen, 2018 CCI 52.
+[3] Wynter c. Canada, 2017 CAF 195.
+[4] Peck, précité.

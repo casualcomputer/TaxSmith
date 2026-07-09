@@ -1,0 +1,205 @@
+---
+title: "Excell Duct Cleaning Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26675/index.do"
+last_modified: "2005-12-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 776"
+citation2: ""
+neutral_citation: "2005 CCI 776"
+decision_date: "2005-12-06"
+language: "fr"
+item_id: "26675"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3617
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:14:48.705000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "308e0c1e6292e99de014c5e69fabe401c7402bad3ef24f64acc67ae01527c3e2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Excell Duct Cleaning Inc. c. La Reine
+
+- Citation: 2005 CCI 776
+- Decision date: 2005-12-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3617, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Excell Duct Cleaning Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-06
+Référence neutre
+2005 CCI 776
+Numéro de dossier
+2001-2083(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-2083(IT)G
+ENTRE :
+EXCELL DUCT CLEANING INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 21 octobre 2005 à Hamilton (Ontario)
+Devant l’honorable juge Diane Campbell
+Comparutions :
+Avocat de l’appelante :
+Me Lawrence A. Rotenberg
+Avocat de l’intimée :
+Me Charles M. Camirand
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 1995 est admis avec dépens et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, en conformité avec les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, le 6 décembre 2005.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 27e jour de juin 2008.
+Christian Laroche, juriste-traducteur
+Référence : 2005CCI776
+Date : 20051206
+Dossier : 2001-2083(IT)G
+ENTRE :
+EXCELL DUCT CLEANING INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Campbell
+[1] L’appelante, une franchiseuse, a avancé des sommes d’argent à une autre société, 991830 Ontario Inc., une de ses franchisées, au cours des années d’imposition 1992, 1993, 1994 et 1995. En raison de difficultés d’exploitation et de pertes croissantes, 991830 Ontario Inc. a mis un terme à ses activités. Pour l’année d’imposition 1995, l’appelante a réclamé les dépenses suivantes relativement à ces avances qui n’avaient pas été remboursées :
+a) 177 009,00 $ au titre de créances irrécouvrables;
+b) 28 003,00 $ au titre de dépenses connexes de la société.
+Les parties ont convenu que le ministre du Revenu national (le « ministre ») avait refusé le montant de 28 003,00 $ à juste titre et que le seul montant en litige aux fins du présent appel était celui de 177 009,00 $.
+[2] Le ministre a cotisé l’appelante en considérant que ces avances, totalisant 177 009,00 $, étaient des dépenses en capital et n’étaient donc pas déductibles à titre de dépenses d’entreprise. La question en litige est celle de savoir si la dépense de 177 009,00 $ de l’appelante est au titre du capital ou s’il s’agit d’une dépense courante, et donc si les prêts ont été consentis en vue de tirer un revenu de l’entreprise de l’appelante, de sorte que cette dépense pourrait être déduite conformément à l’alinéa 18(1)a) de la Loi de l’impôt sur le revenu (la « Loi »).
+[3] En plus des actes de procédure, les parties ont produit l’exposé conjoint des faits qui suit :
+[traduction]
+Description générale de l’appelante
+L’appelante est la franchiseuse d’une entreprise de nettoyage de conduits au Canada. Une partie de son entreprise consiste à accroître son marché en vendant des franchises à des propriétaires-exploitants. Une partie de cette activité consiste à aider le franchisé à établir son entreprise, à fournir des conseils techniques et à assurer un contrôle de la qualité. Il est arrivé à l’occasion que l’appelante aide financièrement ses franchisés pendant un certain temps afin d’alléger les coûts de démarrage et d’attirer/d’aider des franchisés prometteurs. L’appelante appréciait au cas par cas l’opportunité d’octroyer de tels prêts. Certains prêts portaient intérêts tandis que d’autres étaient sans intérêts. Le revenu total en intérêts généré constitue une part très modeste des revenus de l’appelante.
+L’appelante détient des franchises dans 26 localités à l’échelle du Canada.
+Les deux propriétaires de l’appelante, M. Gottfried et M. Guitard avaient une expérience considérable comme exploitants de franchiseurs avant de créer l’appelante. M. Gottfried s’occupe davantage du volet administratif de la direction de l’appelante, tandis que M. Guitard s’occupe davantage du travail opérationnel comme la formation et le soutien technique.
+Les obligations de l’appelante à titre de franchiseuse, aux termes de la licence qui lui est concédée par SEARS, consistent à donner de la formation, à fournir de l’aide, à préparer les véhicules et à voir à leur approvisionnement, à procéder à l’embauche, à mettre en place des systèmes, à prendre contact avec les personnes intéressées et à obtenir l’équipement requis.
+L’entreprise des franchisés de l’appelante a pour objet le nettoyage de conduits d’air, aux termes d’une licence les autorisant à employer le nom de SEARS. L’identification est uniforme : leurs camions arborent le nom de SEARS et leurs employés portent l’uniforme SEARS.
+Les modalités de partage des profits
+Les profits sont partagés comme suit :
+Pour chaque dollar (1,00 $) dépensé par un client de Sears pour des services de nettoyage de conduits d’air, l’appelante reçoit 90 ¢. De ces 90 ¢, le franchisé reçoit 80 ¢.
+Diagramme :
+L’acheteur au détail paie 1,00 $ pour un service fourni par 991830
+Sears
+Sears paie 90 ¢
+Appelante
+L’Appelante paie 80 ¢
+aux franchisés
+991830 (franchisée)
+Franchisé no 2
+Franchisé no 3…
+991830
+Sears a demandé à ce que le service de nettoyage de conduits soit offert dans la région de Toronto. Ce projet concernait un marché très important et les services devaient être fournis dans une région très développée, ce qui allait exiger de nombreux ajustements dans les modalités de fonctionnement habituelles de l’appelante.
+Pour l’aider à démarrer la franchise de Toronto, MM. Bill Gottfried et Wallace Guitard, agissant pour le compte de l’appelante, sont entrés en contact avec M. Mike Hand pour mettre sur pied l’entreprise, en escomptant que ce dernier pourrait éventuellement exploiter la franchise. M. Hand avait de l’expérience comme exploitant d’une franchise prospère établie à Burlington. Il a vendu sa participation dans cette franchise afin de démarrer 991830.
+Le capital-actions de 991830 était réparti en parts égales entre MM. Bill Gottfried, Wallace Guitard et Mike Hand, à raison de 33 actions ordinaires chacun, tandis que l’appelante détenait une action ordinaire.
+La détention d’au moins une action de la franchisée correspondait à une exigence de Sears, relativement à chaque franchise. Dans le cas de la franchise de Toronto, Sears a aussi consenti à ce que MM. Wallace Guitard et Bill Gottfried détiennent des actions de la franchisée. M. Hand verrait aux activités courantes de 991830 et l’appelante fournirait du financement. Le financement fourni par l’appelante a augmenté au cours de l’exploitation de 991830 (des fonds ont été fournis pour acheter de l’équipement et pour payer des dépenses à mesure qu’elles se présentaient). Un compte rendu détaillé des prêts consentis à l’appelante est joint à l’annexe A.
+De nombreux problèmes sont vite apparus évidents lorsque l’exploitation de l’entreprise a débuté. Les problèmes étaient tels que M. Guitard, qui fournissait normalement des services de soutien technique pour tous les franchisés, s’est trouvé à devoir passer plus de la moitié de son temps chez 991830.
+Les difficultés techniques importantes comprenaient notamment les problèmes suivants :
+• Problèmes de bureau
+Le bureau choisi n’était pas rentable. Il était situé à l’étage supérieur d’un centre commercial, ce qui n’a pas de sens lorsque l’on travaille avec des camions. Pour empirer les choses, le bureau ne comprenait pas d’espace de stationnement et les véhicules devaient être garés de l’autre côté de la rue.
+• Problèmes de stationnement
+L’appelante est très soucieuse de la qualité de ses services et elle exige l’utilisation d’un très gros camion. Or, de nombreuses rues ne comportaient pas de grand espace de stationnement devant l’endroit où les services de nettoyage étaient demandés. Même lorsqu’il y avait de l’espace, il était difficile de trouver un espace de stationnement assez grand ou assez proche. Par ailleurs, à certains endroits (comme dans des ruelles), les camions ne pouvaient pas stationner du tout.
+• Unités à plusieurs étages
+La plupart des endroits où les services étaient fournis étaient des immeubles à plusieurs étages, ce qui posait différents problèmes techniques en rapport avec l’équipement.
+• Problèmes d’image
+En raison du fait que l’appelante utilisait le nom de Sears sur le camion et sur le costume, 991830 ne pouvait pas être aussi cavalière que la plupart des concurrents dans cette région, qui n’hésitaient pas à reculer sur la pelouse ou encore à bloquer la circulation avec leur véhicule. Si quelqu’un portait plainte auprès de Sears, cela pourrait avoir une incidence négative sur l’ensemble de l’entreprise de l’appelante, puisque celle-ci était complètement dépendante de la marque Sears.
+Profits générés par 991830
+Comme il a été mentionné précédemment, le but de la création de toute franchise est d’obtenir les 10 ¢ sur le dollar de revenu pour l’appelante. Le financement d’une franchise est aussi fourni en vue de générer ce revenu. Au cours de la période durant laquelle 991830 a été exploitée, celle-ci a généré des ventes de plus de deux millions de dollars, qui ont produit un revenu de redevances de 218 474,63 $ au cours des années d’imposition 1993, 1994 et 1995 de l’appelante, un revenu qu’elle a dûment déclaré aux fins de l’impôt. Un compte rendu détaillé des revenus de redevances est joint à l’annexe B.
+991830 a mis un terme à ses activités
+Étant donné les nombreux problèmes éprouvés et les pertes croissantes, 991830 a mis un terme à ses activités. L’appelante a subi des pertes de 177 009 $ au titre des montants avancés et jamais remboursés. Le montant de ce prêt est trois fois plus élevé que le prêt le plus important parmi ceux non remboursés par d’autres franchisés.
+Le montant total réclamé au titre de créances irrécouvrables était de 205 402 $, mais les parties conviennent maintenant que le ministre du Revenu national a refusé à juste titre un montant de 28 033 $ et ce montant n’est pas contesté.
+[4] L’appelante soutient que la demande de Sears d’établir une franchise sur le marché de Toronto était une exigence et que l’appelante n’avait d’autre choix que de s’y conformer afin de préserver sa relation d’affaires avec Sears. L’intimée a soutenu que l’exposé conjoint des faits employait le mot « demand » (« demande ») (exposé conjoint des faits, page 2), relativement à la demande de Sears d’établir une franchise à Toronto, et non le mot « required » (« a exigé »). Pour prouver qu’une demande est plus qu’une simple demande, mais en fait une exigence, l’appelante devrait appeler des témoins pour soutenir cette position. Cependant, l’intimée a avancé que cet argument était dénué de pertinence, puisque l’exposé conjoint des faits n’indique pas que c’était là le motif qui avait déterminé l’octroi de ces prêts. L’appelante a aussi soutenu que le financement était une composante nécessaire de ses activités commerciales. Étant donné la taille et le caractère concurrentiel du marché de Toronto, l’appelante a avancé des sommes d’argent plus importantes à 991830 Ontario Inc. qu’à tout autre franchisé. En outre, selon l’appelante, la participation des actionnaires de l’appelante dans cette société franchisée est dénuée de pertinence, parce que l’intention première de l’appelante était de générer un revenu de redevances comme dans le cas de ses autres franchisés. L’appelante a aussi soutenu que le but de ces prêts s’inscrivait dans la nature de son entreprise consistant à générer des revenus en recrutant de nouveaux franchisés et en fournissant du financement pour que ces franchisés demeurent viables. Cette prétention va à l’encontre de l’allégation de l’intimée selon laquelle ces prêts avaient pour but d’acquérir une nouvelle survaleur en augmentant le nombre de franchisés de l’appelante, ce qui créait un actif procurant un avantage durable, qui est donc de la nature d’une immobilisation. Une augmentation du nombre et de la taille des franchisés entraînait une croissance de l’entreprise de l’appelante qui se traduisait par quelque chose de nature durable pour l’appelante. En conséquence, il y avait un « flux de revenu » provenant de chacun de ces franchisés qui augmentait et favorisait la survaleur de l’appelante.
+[5] Bien que l’avis d’appel désigne les prêts comme une dépense visée à l’alinéa 20(1)p) de la Loi, les deux parties ont convenu que cette disposition ne s’appliquait pas dans les circonstances du présent appel.
+Analyse :
+[6] Ma décision en l’espèce dépend de la question de savoir si les prêts consentis par l’appelante l’ont été dans le but d’acquérir un avantage durable et d’accroître sa survaleur ou si ces prêts visaient à accroître sa rentabilité et à protéger sa survaleur existante.
+[7] Dans Easton et al. c. The Queen, 51 DTC 5464, la Cour d’appel fédérale a affirmé le principe général selon lequel une avance faite par un actionnaire à une société ou au nom d'une société sera considérée comme un prêt consenti dans l'intention de fournir un fonds de roulement à cette société. Toute perte en résultant sera donc une perte en capital, puisque le prêt aura été consenti soit pour générer un flux de revenu soit pour acquérir un avantage durable. Cependant, dans l’arrêt Easton, précité, la Cour d’appel fédérale a reconnu certaines exceptions à ce principe général. Ainsi, entre autres exceptions, il y a le cas où le prêt a été consenti dans le cours normal des activités. Il a été reconnu que cette exception s’étendait aux cas où le prêt avait été consenti aux fins de produire un revenu dans le cadre de l’entreprise du contribuable (The Queen c. Lavigueur, 73 DTC 5538 et Paco Corporation c. The Queen, 80 DTC 6328). Constituent d’autres exemples de cette exception les cas où le prêt est consenti aux fins d’accroître la rentabilité de l’entreprise du contribuable (Williams Gold Refining Co. of Canada Limited c. The Queen, 2000 DTC 1829) et le cas où le prêt est consenti aux fins de protéger la survaleur existante de l’entreprise du contribuable (L. Berman & Co. Ltd. c. M.N.R., 61 DTC 1150).
+[8] D’après l’exposé conjoint des faits dans le présent appel, l’appelante exerce ses activités dans le cadre d’une licence concédée par Sears et l’entreprise de nettoyage de conduits de chacun des franchisés détient une licence l’autorisant à utiliser le nom de Sears. Les camions arborent le nom de Sears, tout comme les uniformes des employés. Sears a « demandé » (« demanded ») à ce que l’appelante ouvre une franchise sur le marché de Toronto. L’intimée a soutenu que le mot « demand » (« demande ») dans l’exposé conjoint des faits ne signifiait pas que l’on avait « exigé » (« required ») que l’appelante développe ce marché. Cependant, je pense que l’appelante « fend les cheveux en quatre » ici. Les termes « demand » (« demande ») et « requirement » (« exigence ») sont définis comme suit dans l’Oxford English Dictionary, 2e éd. :
+« demand » – [traduction] « – l’action de demander en vertu d’un droit ou d’une autorité; une demande autoritaire ou péremptoire; aussi, par ext., l’objet de la demande, ce qui est demandé. »
+« requirement » – [traduction] « – l’action d’exiger; une requête, une demande; le fait d’être requis; nécessité; ce qui est nécessaire ou demandé; une condition qui doit être remplie. » [Non souligné dans l’original.]
+Le mot « demand » (« demander ») englobe certainement le mot « require » (« exiger ») et je rejette donc l’argument de l’intimée.
+[9] Je pense qu’il est raisonnable de déduire que, lorsque Sears a demandé à l’appelante d’établir une franchise dans la région de Toronto, l’appelante a estimé qu’il était essentiel qu’elle prenne de l’expansion sur ce marché afin de préserver sa relation d’affaires existante avec Sears. Après tout, son entreprise dépendait entièrement de cette relation avec Sears. Bien que les faits soient silencieux sur ce point, il semble logique de déduire qu’il s’agissait là d’un des motifs sous-jacents à l’octroi de ces prêts. Les prêts contribuaient au succès du franchisé, ce qui avait une incidence directe sur la rentabilité de l’appelante, mais ces mêmes prêts assuraient aussi la continuité de la relation d’affaires de l’appelante avec Sears. Les prêts étaient à la fois pratiques et prudents d’un point de vue commercial dans ces circonstances.
+[10] La démarche adoptée pour établir une franchise à Toronto a été légèrement différente par rapport à celle adoptée dans d’autres régions, et ce, à deux égards : d’une part, l’ampleur des avances, et d’autre part, la détention d’actions par les deux actionnaires de l’appelante dans la société franchisée. Il ne fait aucun doute ici que les fonds avancés ont été employés exclusivement dans le cadre de l’entreprise de la franchisée. Dans certains cas, l’appelante décide d’aider financièrement ses franchisés, de sorte que les avances accordées à 991830 Ontario Inc. s’inscrivaient dans le cours normal des activités de l’entreprise de l’appelante. Les prêts que l’appelante a consentis à cette franchisée étaient plus importants que ceux consentis à d’autres franchisés. Cependant, étant donné la taille du marché de Toronto, avec toutes ses complexités, à comparer à d’autres marchés, on s’attendrait à ce que les avances, que l’appelante a accordées à 991830 Ontario Inc. pour l’aider à pénétrer le marché de Toronto, doivent être plus importantes que dans d’autres régions où l’appelante avait recruté des franchisés. Pour ce qui est du deuxième facteur distinctif, Sears exigeait en fait que l’appelante elle-même détienne une action dans chaque entreprise franchisée. En plus de l’action unique de 991830 Ontario Inc. détenue par l’appelante, Sears a consenti à ce que les deux actionnaires de l’appelante eux-mêmes détiennent les deux tiers des actions de la société franchisée. Une tierce partie indépendante, recrutée par l’appelante, était propriétaire d’un tiers des actions et exploitait au quotidien la société 991830 Ontario Inc. Il ne faisait aucun doute que ces dispositions avaient été prises régulièrement d’un point de vue commercial et qu’elles avaient été approuvées par Sears. L’appelante a simplement modifié sa démarche habituelle à l’égard du marché de Toronto, parce que cela semblait constituer la méthode la plus viable commercialement. En outre, je suis d’accord avec les prétentions de l’avocat de l’appelante selon lesquelles les actionnaires de l’appelante auraient peu à gagner à réduire les fonds de l’appelante, dont ils étaient propriétaires à 100 p. 100, en transférant des montants à la franchisée, alors qu’ensemble, ces personnes ne détenaient qu’une participation à hauteur des deux tiers dans la franchisée.
+[11] D’après l’exposé conjoint des faits, [traduction] « le but de la création de toute franchise est d’obtenir les 10 ¢ sur le dollar de revenu pour l’appelante » et les avances accordées à des franchisés, y compris à 991830 Ontario Inc., l’étaient [traduction] « en vue de générer ce revenu » (exposé conjoint des faits, à la page 3, dernier paragraphe). Chaque fois que l’appelante s’adjoignait un nouveau franchisé, elle augmentait simultanément sa propre rentabilité tout en créant un actif procurant un avantage durable, soit la nouvelle entreprise franchisée. À première vue, donc, il semblerait que ces prêts soient vraisemblablement imputables au compte en capital. Cependant le facteur distinctif déterminant dans le présent appel est que l’entreprise de l’appelante est le franchisage. Son entreprise consiste à accroître le nombre de ses franchisés qui créent de nouvelles franchises représentant des actifs conférant un avantage durable. Les avances, que l’appelante accorde, ont été accordées dans le cours des activités de l’entreprise de l’appelante afin de générer un revenu d’entreprise directement à partir des activités de ses franchisés. À cet égard, l’affaire Lavigueur est particulièrement utile. Dans cette affaire, un bailleur avait consenti des prêts au locataire d’un espace commercial, comme il avait l’habitude de le faire avec d’autres locataires, pour appuyer les activités de l’entreprise du locataire et conserver un locataire payant un loyer. La Cour fédérale a permis que les prêts au locataire soient déduits du revenu à titre de dépenses engagées en vue de produire un revenu. À la page 5545 de cette décision, la Cour fédérale a affirmé :
+[traduction]
+[…] Les prêts faisaient apparemment partie intégrante des activités à but lucratif de l’entreprise, puisque, de temps à autre, bien qu’ils n’exploitent pas une entreprise de prêt d’argent comme telle, [les propriétaires] prêtaient effectivement de l’argent à des locataires pour les conserver comme locataires en vue de faire en sorte que les espaces restent loués et de percevoir de ces locataires autant de loyer que possible. […]
+[12] En outre, dans Panda Realty Limited c. M.N.R., 86 DTC 1266, où un contribuable avait garanti le prêt d’un locataire afin de préserver sa source régulière de revenu locatif, la Cour a jugé que la perte en résultant était imputable au revenu, parce que la garantie était essentielle à l’entreprise du contribuable et avait été accordée pour préserver une source régulière de revenu locatif.
+[13] Étant donné que l’entreprise de l’appelante est le franchisage, son but est de gagner un revenu en redevances grâce à la création de nouvelles franchises. Des prêts à de nouveaux franchisés ont été accordés dans le cours normal des activités, mais non pour acquérir une nouvelle survaleur, comme l’a soutenu l’intimée. Une fois qu’une nouvelle franchise est créée dans une région, c’est à ce moment que l’appelante acquiert toute « nouvelle survaleur », le cas échéant. Je vois les prêts comme un moyen de préserver une « survaleur existante ». L’intimée soutient que l’accroissement du nombre de franchises signifiait une croissance des activités de l’appelante par la création d’un « flux de revenu » provenant de chaque franchisé. Selon l’intimée, chaque fois que l’appelante s’est adjoint un nouveau franchisé, sa survaleur a augmenté, ce qui a créé un actif procurant un avantage durable. Si j’admets l’argument de l’intimée selon lequel un « flux de revenu » tiré par l’appelante d’un franchisé doit être qualifié comme une survaleur, comment puis-je concilier cette prétention avec l’exposé conjoint des faits qui énonce que le « flux de revenu », en soi, au profit de l’appelante, est un revenu de redevances? Plus précisément, au dernier paragraphe de la page 3 de l’exposé conjoint des faits, il est écrit :
+[traduction]
+[L]e but de la création de toute franchise est d’obtenir les 10 ¢ sur le dollar de revenu pour l’appelante. Le financement d’une franchise est aussi fourni en vue de générer ce revenu. […]
+[14] Le but et l’objet principaux de l’appelante sont de générer un revenu de redevances. Dans Morflot Freightliners Ltd. c. M.N.R., 89 DTC 5182 (C.F. 1re inst.), la Cour fédérale a affirmé à la page 5185 :
+[traduction]
+Il a souvent été dit dans des affaires comme celle-ci qu’il faut tenter de qualifier la situation d’un point de vue commercial et pratique pour déterminer dans quel but l’argent a été fourni. […]
+[15] La croissance de l’entreprise de l’appelante est directement liée à l’acquisition de nouvelles franchises. Cette croissance a découlé de l’expansion de son entreprise de nettoyage de conduits sur de nouveaux marchés, réalisée en recrutant et en vendant des franchises à de nouveaux exploitants. Une partie de son entreprise consistait à aider de nouveaux franchisés à démarrer leur entreprise en fournissant de la formation et en assurant un contrôle de la qualité. À l’occasion, l’appelante a aussi aidé à financer un franchisé. Telle est la nature de son entreprise et la façon dont ses revenus sont générés. Dans certains cas, l’appelante visait à aider un franchisé en avançant des fonds pour assurer la croissance et la continuité de son propre revenu. En l’espèce, 991830 Ontario Inc. a généré et payé à l’appelante un revenu de redevances considérable avant d’éprouver des problèmes financiers. Il est tout simplement erroné de tenter de qualifier ces prêts comme quelque chose qui s’apparente à un avantage permanent ou durable.
+[16] Lorsque je considère la substance et la nature des transactions de prêt à la lumière de l’entreprise de franchisage de l’appelante, je conclus que l’appelante a consenti les prêts aux fins de tirer un revenu de son entreprise, malgré le fait que les actionnaires de l’appelante aient détenu, de façon accessoire, des actions de la franchisée.
+[17] L’appel est admis avec dépens pour permettre à l’appelante de déduire le montant de 177 009,00 $ à titre de dépense générale d’entreprise.
+Signé à Ottawa, Canada, le 6 décembre 2005.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 27e jour de juin 2008.
+Christian Laroche, juriste-traducteur
+RÉFÉRENCE :
+2005CCI776
+DOSSIER DE LA COUR :
+2001-2083(IT)G
+INTITULÉ :
+Excell Duct Cleaning Inc. c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 21 octobre 2005
+MOTIFS DU JUGEMENT :
+L’honorable juge
+Diane Campbell
+DATE DU JUGEMENT :
+Le 6 décembre 2005
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Lawrence A. Rotenberg
+Avocat de l’intimée :
+Me Charles M. Camirand
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Me Lawrence A. Rotenberg
+Dundas, Ontario
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

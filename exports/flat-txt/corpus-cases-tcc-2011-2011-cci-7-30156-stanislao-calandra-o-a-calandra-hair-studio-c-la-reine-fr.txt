@@ -1,0 +1,300 @@
+Title: Stanislao Calandra o/a Calandra Hair Studio c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30156/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-7-30156-stanislao-calandra-o-a-calandra-hair-studio-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-01-07
+
+# Stanislao Calandra o/a Calandra Hair Studio c. La Reine
+
+- Citation: 2011 CCI 7
+- Decision date: 2011-01-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7831, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stanislao Calandra o/a Calandra Hair Studio c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-07
+Référence neutre
+2011 CCI 7
+Numéro de dossier
+2010-908(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-908(GST)I
+ENTRE :
+STANISLAO CALANDRA
+s/n CALANDRA HAIR STUDIO
+et STANISLAO CALANDRA,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appels entendus sur preuve commune avec les appels no 2010‑909(IT)I
+les 9 et 10 novembre 2010, à Toronto (Ontario)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Représentant des appelants :
+Costa Abinajem
+Avocat de l’intimée :
+Me Darren Prevost
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi sur la taxe d’accise, et dont les avis portent la date du 15 février 2007, sont accueillis et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, compte tenu du fait que l’appelant a omis de verser, au titre de la taxe sur les produits et services, la somme de 1 885,58 $ pour la période de déclaration se terminant le 31 décembre 2002, la somme de 1 716,13 $ pour la période de déclaration se terminant le 31 décembre 2003 et la somme de 2 070,35 $ pour la période de déclaration se terminant le 31 décembre 2004, et les pénalités pour faute lourde doivent être annulées.
+Signé à Ottawa, Canada, ce 7e jour de janvier 2011.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 31e jour de janvier 2011.
+Semra Denise Omer, traductrice
+Dossier : 2010-909(IT)I
+ENTRE :
+STANISLAO CALANDRA
+s/n CALANDRA HAIR STUDIO
+et STANISLAO CALANDRA,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur la preuve commune avec les appels no 2010‑908(GST)I
+les 9 et 10 novembre 2010, à Toronto (Ontario)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Représentant des appelants :
+Costa Abinajem
+Avocat de l’intimée :
+Me Darren Prevost
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté contre la nouvelle cotisation établie en vertu de Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est accueilli et la nouvelle cotisation est annulée.
+Les appels interjetés contre les nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 sont accueillis et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, compte tenu du fait que le revenu non déclaré de l’appelant s’élevait à 24 516,21 $ en 2003 et à 29 576,36 $ en 2004, et les pénalités pour faute lourde doivent être annulées.
+Signé à Ottawa, Canada, ce 7e jour de janvier 2011.
+« B. Paris »
+Le juge Paris
+Traduction certifiée conforme
+ce 31e jour de janvier 2011.
+Semra Denise Omer, traductrice
+Référence : 2011CCI7
+Date : 20110107
+Dossier : 2010-908(GST)I et 2010-909(IT)I
+ENTRE :
+STANISLAO CALANDRA
+s/n CALANDRA HAIR STUDIO
+et STANISLAO CALANDRA,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Il s’agit d’appels de nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003 et 2004 de l’appelant, et de cotisations concernant la taxe sur les produits et services (TPS) établies en vertu de la Loi sur la taxe d’accise pour les périodes de déclaration de l’appelant se terminant le 31 décembre 2002, le 31 décembre 2003 et le 31 décembre 2004. Les cotisations et les nouvelles cotisations ont résulté d’une vérification de la valeur nette à la suite de laquelle le ministre du Revenu national a conclu que le revenu d’entreprise non déclaré de l’appelant s’élevait à 33 550,98 $ en 2002, à 30 900,14 $ en 2003 et à 36 485,19 $ en 2004. Des pénalités pour faute lourde ont été exigées relativement au revenu non déclaré. Le ministre a également établi une cotisation à l’égard de l’appelant relativement au montant de 9 801,70 $ au titre de la TPS, en tenant compte du fait que le revenu d’entreprise non déclaré était tiré des fournitures taxables effectuées et qu’il avait omis de verser la TPS perçue sur ces fournitures. Des intérêts et des pénalités pour production tardive et des pénalités pour faute lourde étaient également incluses dans les cotisations TPS.
+[2] Dans ses déclarations d’impôt sur le revenu, l’appelant a déclaré des pertes afférentes à deux entreprises pour 2002, un revenu peu élevé provenant d’une entreprise pour 2003 et un revenu peu élevé provenant de deux entreprises pour 2004. Il a déclaré une perte de 3 193 $ relativement à toutes les sources pour 2002, et un revenu imposable de 1 345,70 $ pour 2003 et de 238,88 $ pour l’année 2004. Son épouse a déclaré un revenu imposable de 12 085 $ pour 2002, de 14 544 $ pour 2003 et de 10 875 $ pour 2004.
+[3] La vérificatrice auprès de l’Agence du revenu du Canada chargée du dossier de l’appelant doutait que le revenu déclaré par celui‑ci et par son épouse était suffisant pour subvenir à leurs besoins et aux besoins de leurs trois enfants, et a tenté d’effectuer une vérification du revenu d’entreprise de l’appelant. L’appelant n’a cependant pas répondu à ses demandes visant à obtenir les registres et les livres de comptes de celui‑ci. En l’absence de documents, elle a affirmé que la seule solution était d’effectuer une vérification de la valeur nette.
+[4] Compte tenu du manque de coopération de l’appelant, la vérificatrice a disposé de peu de documents pour effectuer la vérification de la valeur nette. Puisqu’elle n’avait aucune information sur les éléments d’actif et de passif de l’appelant pour les années en question, la vérificatrice a présumé que ceux‑ci n’avaient pas été modifiés au cours de la période de trois ans. Elle a calculé ensuite les dépenses personnelles de l’appelant à partir des chiffres fournis par Statistique Canada relativement à la moyenne nationale des dépenses d’une famille comprenant deux adultes et trois enfants. Elle a rajusté ces chiffres dans les cas où elle a été en mesure d’obtenir des renseignements sur des dépenses de l’appelant relatives, par exemple, à l’intérêt hypothécaire or à l’impôt foncier.
+[5] La vérificatrice a déduit le revenu tiré par l’appelant ou par son épouse de sources non imposables, ainsi que les revenus que ceux‑ci avaient indiqués dans leurs déclarations de revenus. Ces calculs ont révélé un écart entre le revenu apparent et le revenu déclaré de l’appelant pour les années en question. La vérificatrice a présumé que cet écart constituait le revenu d’entreprise non déclaré ainsi que la TPS perçue sur les fournitures taxables effectuées par l’appelant. Elle a présumé que le montant restant après la déduction de la TPS constituait le revenu d’entreprise non déclaré. Voici le sommaire du calcul de la valeur nette et le revenu non déclaré résultant ainsi que la TPS percevable qui figurent à l’annexe A de chacune des réponses à l’avis d’appel :
+Ajouts :
+2002
+2003
+2004
+Dépenses personnelles
+57 715,71 $
+58 909,68 $
+59 865,47 $
+Déductions :
+Remboursement d’impôt sur le revenu (contribuable)
+932,07
+888,50
+814,11
+Remboursement d’impôt sur le revenu (épouse)
+182,60
+Remboursement de crédit de TPS/TVH reçu
+751,50
+381,00
+Prestations fiscales pour enfant
+7 201,65
+7 575,80
+7 937,63
+Revenu selon la valeur nette
+48 830,49
+50 064,38
+50 931,13
+Moins
+Revenu déclaré (contribuable)
+1 345,00
+239,00
+Revenu déclaré (épouse)
+12 085,00
+14 544,00
+10 875,00
+Revenu d’entreprise non déclaré (TPS incluse)
+36 745,49
+34 175,38
+39 817,13
+Moins :
+TPS/HVH perçue
+3 194,51
+3 275,24
+3 331,94
+Revenu d’entreprise non déclaré
+33 550,98 $
+30 900,14 $
+36 485,19 $
+[6] La vérificatrice a envoyé à l’appelant une lettre indiquant les résultats de la vérification et les détails relatifs aux nouvelles cotisations proposées, et lui a accordé 30 jours pour fournir des renseignements ou des explications qu’il souhaitait soumettre à l’examen de la vérificatrice. L’appelant n’a pas répondu.
+[7] L’appelant a déposé un avis d’opposition aux cotisations et aux nouvelles cotisations. Toutefois, le représentant de l’appelant a refusé de fournir quelque information ou quelque document que ce soit à l’agent des appels de l’ARC. Le représentant de l’appelant, qui était aussi la personne qui avait préparé ses déclarations de revenus, a dit qu’il était contrarié du fait que l’agent des appels a refusé de le rencontrer et qu’il a donc choisi de ne pas traiter avec lui. Le représentant de l’appelant a cependant admis avoir reçu une lettre de la Division des appels de l’ARC lui demandant de soumettre des documents à l’appui de la thèse de l’appelant, et l’informant qu’il serait décidé par la suite s’il y avait lieu de rencontrer l’agent des appels.
+[8] La vérification de la valeur nette a été brièvement décrite dans la décision Bigayan c. La Reine[1], où le juge Bowman (plus tard Juge en chef) a dit ce qui suit, au paragraphe 2 :
+La méthode de la valeur nette est, comme on le faisait observer dans l’affaire Ramey c. R. (1993), 93 D.T.C. 791 (C.C.I.), une solution de dernier recours que l’on emploie lorsque tout le reste a échoué. On l’utilise souvent lorsqu’un contribuable a omis de produire des déclarations de revenus ou n’a pas conservé de documents. C’est un instrument imprécis, exact à l’intérieur d’un registre dont le champ est indéterminé. Elle repose sur le postulat selon lequel, si l’on soustrait la valeur nette d’un contribuable en début d’année à sa valeur nette en fin d’année, si l’on ajoute les dépenses du contribuable durant l’année et si l’on soustrait les encaissements non imposables et les plus‑values d’actifs existants, alors le résultat net, après déduction de toute somme déclarée par le contribuable, doit être attribuable au revenu non déclaré gagné durant l’année, sauf si le contribuable peut apporter une preuve contraire. C’est au mieux une méthode insatisfaisante, qui est arbitraire et inexacte, mais quelquefois c’est le seul moyen d’arriver à un chiffre qui se rapproche du revenu d’un contribuable.
+Dans la décision Bigayan, le juge Bowman a également énoncé les moyens par lesquels un contribuable pouvait obtenir l’annulation d’une cotisation fondée sur la valeur nette. Il a dit ce qui suit, aux paragraphes 3 et 4 :
+[3] Le meilleur moyen de contester une cotisation fondée sur la valeur nette est de produire la preuve de ce qu’est véritablement le revenu du contribuable. Un moyen moins satisfaisant, mais néanmoins acceptable, est décrit par le juge Cameron dans l’affaire Chernenkoff v. Minister of National Revenue (1949), 49 D.T.C. 680 (C. de l’É.) à la page 683 :
+[traduction] En l’absence de documents, l’autre moyen offert à l’appelant consistait à prouver que, même après une application en règle de la formule de la valeur nette, les cotisations étaient erronées.
+[4] Ce moyen de contester une cotisation fondée sur la valeur nette est reconnu, mais, même après que l’on a procédé aux rajustements, on reste avec le sentiment trouble que la vérité n’a pas été pleinement découverte. Il est peu probable que l’on rende parfait en le modifiant un instrument qui, par nature, est imparfait. […]
+En l’espèce, l’appelant a choisi de contester les cotisations fondées sur la valeur nette au motif que les estimations de Statistique Canada concernant les dépenses personnelles utilisées par la vérificatrice étaient inexactes.
+[9] Les chiffres de Statistique Canada ont été répartis en sous‑catégories relatives à l’alimentation, au logement, à l’habillement, aux cadeaux, aux soins de santé et à autres types de dépenses personnelles. Le représentant de l’appelant lui a demandé d’indiquer les sommes qu’il avait dépensées en 2002, en 2003 et en 2004 pour chacune des catégories de dépenses énumérées par Statistique Canada. Pour la plupart, l’appelant n’a pas été en mesure d’indiquer avec une quelconque certitude les dépenses que lui et son épouse avaient engagées à l’égard des diverses sous‑catégories, mais il a donné des chiffres qui, selon lui, étaient raisonnables. L’appelant a dit, à maintes reprises, que c’était il y a longtemps, qu’il ne pouvait pas se prononcer et il a avancé ensuite un chiffre. Je qualifierais les chiffres qu’il a fournis lors de son témoignage de suppositions avant tout, et je conclus que son témoignage est peu convaincant.
+[10] Je suis également préoccupé du fait que l’appelant a refusé de collaborer avec la vérificatrice, ou qu’il n’a pas exigé de son représentant qu’il fournisse des renseignements à l’agent des appels. L’appelant n’avait pas réussi à expliquer son manque de coopération, et son omission de contester les montants que la vérificatrice a utilisés quant à ses dépenses personnelles, alors qu’il a eu plusieurs fois l’occasion de le faire, m’incite à douter de ses efforts en vue de quantifier ses dépenses lors de l’audience. En outre, sauf à une occasion que j’examinerai brièvement, l’appelant n’a présenté aucune preuve concordante relativement aux années en question, ni sous forme documentaire, ni sous forme de déposition d’autres témoins, par exemple son épouse. De plus, la preuve a montré que l’appelant et son épouse ont détenu au moins une carte de crédit au cours des années en question, mais aucun relevé de carte de crédit n’a été fourni. Les relevés auraient probablement donné un aperçu des dépenses de l’appelant au cours des années en question.
+[11] À l’audience, l’appelant a présenté des documents qui étaient, selon lui, des relevés imprimés des opérations effectuées, pour la période allant du 1er janvier 2000 au 31 décembre 2004, dans son compte bancaire personnel et sur une ligne de crédit. Ces relevés devaient censément indiquer des sommes dues à la fin de 2002, de 2003 et de 2004 sur la ligne de crédit et des soldes de compte peu élevés dans les comptes bancaires personnels. Toutefois, comme l’a fait observer l’avocat de l’intimée, rien dans les relevés n’établissait des liens entre les comptes de l’appelant, ni n’indiquait la banque auprès de laquelle les comptes étaient détenus. En l’absence de ces renseignements, je n’accorde aucun poids à ces éléments de preuve.
+[12] L’appelant a également produit une lettre provenant des Services financiers le Choix du Président qui indiquait les détails de l’hypothèque grevant la résidence familiale ainsi que les paiements hypothécaires mensuels. La lettre montrait qu’en 2002 et en 2003, l’appelant et son épouse ont payé 348,55 $ par mois (soit 4 182,60 $ par année), soit 6 593,40 $ de moins que le chiffre utilisé par la vérificatrice. Un autre état du compte de prêt hypothécaire, pour l’année 2005, montrait que les mensualités avaient baissé de 35,07 $ depuis le 1er octobre 2004, ce qui signifie que le montant total payé pour 2004 s’élevait à 4 077,48 $ et que, par conséquent, le chiffre utilisé par la vérificatrice pour l’année 2004 devrait être diminué de 6 698,52 $. L’intimée n’a pas contesté cette preuve et j’admets que les relevés produits indiquent les paiements hypothécaires effectifs.
+[13] J’estime que deux autres rajustements des dépenses personnelles s’imposent. Premièrement, les données de Statistique Canada comprennent un montant au titre des cotisations d’assurance‑emploi qui auraient été payées chaque année par une famille composée de cinq membres. Ces montants semblent trop élevés : ils dépassent les cotisations d’AE prévues pour le revenu d’emploi gagné par l’appelant et son épouse en 2002, en 2003 et en 2004. Tout d’abord, les montants non déclarés que le ministre a inclus dans le revenu de l’appelant étaient considérés comme des revenus d’entreprise (voir l’annexe A de la réponse à l’avis d’appel, 2010-909(IT)I) et, à ce titre, ils ne devraient pas être assujettis aux cotisations d’AE. En 2002, l’appelant a déclaré un revenu d’emploi de 13 000 $, mais il n’a pas réclamé des déductions pour les cotisations d’AE à la ligne 312 de sa déclaration de revenus. En 2003 et 2004, il n’a déclaré aucun revenu d’emploi. Le revenu d’emploi de son épouse s’élevait à 12 085 $ en 2002, à 14 544,00 $ en 2003 et à 10 875,00 $ en 2004. Le taux de cotisation des employés relativement à l’AE était de 2,2 % en 2002, de 2,1 % en 2003 et de 1,98 % en 2004. Les cotisations d’AE pour le revenu d’emploi de l’épouse de l’appelant auraient dû être les suivantes :
+AE
+2002
+265,87 $
+2003
+305,43 $
+2004
+215,32 $
+Les cotisations d’AE selon les estimations de Statistique Canada s’élevaient à 1 229,33 $ pour 2002, à 1 263,42 $ pour 2003 et à 1 287,18 $ pour 2004. L’écart entre ces estimations et les cotisations requises sur le revenu d’emploi de l’épouse de l’appelant était de 947,62 $ pour 2002, de 957,99 $ pour 2003 et de 1 071,86 $ pour 2004.
+[14] Deuxièmement, selon l’appelant, dont j’accepte le témoignage, lui et sa famille ne dépensaient rien pour les coupes de cheveux parce que l’appelant, ancien coiffeur, coupait les cheveux des membres de sa famille, et se faisait couper les cheveux à son tour par son père qui était lui aussi coiffeur. La preuve montrait que l’appelant a exploité un salon de coiffure au cours des années antérieures.
+[15] En résumé, la réduction des dépenses personnelles devrait être la suivante :
+2002
+2003
+2004
+Logement
+6 593,40 $
+6 593,40 $
+6 698,52 $
+Coupe de cheveux
+382,06
+392,65
+400,04
+Cotisations d’AE
+963,46
+957,99
+1 071,860
+TOTAL
+7 923,08 $
+7 944,04 $
+8 170,42 $
+[16] Selon l’appelant, une source majeure des fonds ayant servi au paiement des dépenses personnelles était sa ligne de crédit, qui constituait une source de revenus non imposables. J’ai déjà indiqué que je ne peux accorder aucun poids aux relevés imprimés allégués, mais il existe d’autres raisons de rejeter cet argument. Premièrement, même si l’appelant a retiré des fonds d’une ligné de crédit, il n’y a aucun moyen de savoir si les fonds ont servi à payer les dépenses personnelles ou à d’autres fins, notamment à l’acquisition d’éléments d’actif qui aurait un effet sur la détermination de son avoir net. Il aurait été possible d’effectuer une enquête à ce sujet si la vérificatrice ou peut‑être même l’agent des appels avaient reçu des renseignements à cet égard en temps opportun. Or, en l’absence de toute garantie que l’appelant a communiqué tous ses éléments d’actif et de passif à la Cour, la preuve de son passif (si une telle preuve avait été acceptée) ne suffit pas à elle seule pour montrer que la vérification de la valeur nette est entachée d’une erreur. Deuxièmement, si l’on devait accepter le témoignage de l’appelant concernant les fonds retirés de sa ligne de crédit ainsi que ses dépenses, même selon le calcul effectué par son représentant, son revenu déclaré serait trop élevé de 15 561 $ en 2002, de 22 403 $ en 2003 et de 6 364 $ en 2004. L’appelant n’a aucunement expliqué comment il a pu déclarer un revenu trop élevé pour les années en question.
+[17] L’appelant a également contesté le droit du ministre d’établir une nouvelle cotisation pour l’année d’imposition 2002 après l’expiration de la période normale de nouvelle cotisation. Sur ce point, je suis d’accord avec l’appelant. Pour revenir sur une année prescrite, l’intimée doit prouver que l’appelant a fait une présentation erronée des faits par négligence, inattention ou omission volontaire lorsqu’il a produit sa déclaration de revenus pour l’année 2002. L’allégation selon laquelle l’appelant a fait une présentation erronée de son revenu repose sur une vérification de la valeur nette dans laquelle la vérificatrice n’a pas vérifié la grande majorité des données utilisées parce que l’appelant a refusé de collaborer. Sans preuve directe sur les dépenses de l’appelant ou sur l’augmentation de ses actifs au cours des années en question, et en l’absence de toute admission de l’appelant en ce qui concerne ses dépenses ou ses actifs, il n’existe aucune preuve de l’écart entre son revenu réel et son revenu déclaré comme il est exigé pour revenir sur une année prescrite. L’intimée ne peut invoquer les hypothèses formulées par la vérificatrice au moment de l’établissement de la nouvelle cotisation pour s’acquitter de la charge qui lui incombe de prouver qu’il y a eu présentation erronée des faits. C’est ce que nous enseigne la Cour d’appel fédérale dans l’arrêt Lacroix c. Canada[2], au paragraphe 26 :
+26 Bien que le ministre bénéficie des présomptions de fait qui sous‑tendent la nouvelle cotisation, il ne jouit d’aucun avantage semblable pour ce qui est de la preuve des faits justifiant l’établissement d’une nouvelle cotisation hors de la période statutaire, ou encore des faits justifiant l’imposition d’une pénalité en raison de l’inconduite du contribuable dans la production de sa déclaration de revenu. Le ministre est indéniablement dans l’obligation de mettre en preuve les faits justifiant l’invocation de ces mesures exceptionnelles.
+Le ministre aurait pu, lors de la vérification, obtenir une telle preuve, le cas échéant, en envoyant des sommations à l’appelant et aux tiers, mais pour une raison ou pour une autre, il ne l’a pas fait. En l’absence d’autres éléments de preuve, les hypothèses formulées dans la réponse ne permettent pas, à elles seules, de maintenir la nouvelle cotisation d’impôt sur le revenu pour l’année d’imposition 2002.
+[18] La situation visée en l’espèce se distingue des cas présents dans les arrêts Molenaar c. Canada[3] et Lacroix, qui concernaient la valeur nette. Il s’agissait des affaires où la Cour d’appel fédérale a conclu que le ministre s’est acquitté de la charge qui lui incombait de prouver que les contribuables en cause avaient fait des présentations erronées de leurs revenus et qu’il était donc en droit d’établir de nouvelles cotisations hors de la période normale de nouvelle cotisation ainsi que d’imposer des pénalités pour faute lourde. En concluant que l’intimée s’est acquittée de la charge de prouver que le contribuable a fait une présentation erronée des faits, la Cour a dit ce qui suit, dans l’affaire Molenaar :
+4. À partir du moment où le ministère établi selon des données fiables un écart, substantiel dans le cas présent, entre les actifs d’un contribuable et ses dépenses et où cet écart demeure inexpliqué et inexplicable, le ministère a assumé son fardeau de preuve. Il appartient alors au contribuable d’identifier la source et d’établir la nature non imposable de ses revenus.
+[19] Dans les affaires Lacroix et Molenaar, le ministre a établi, selon des données fiables, un écart entre les actifs d’un contribuable et ses dépenses qui n’avait pas été comptabilisé dans son revenu déclaré. Dans l’affaire Lacroix, le contribuable a fourni lui‑même les renseignements concernant ses actifs et ses dépenses. Dans l’affaire Molenaar, les renseignements ont été fournis par le contribuable et par des tiers. En l’espèce, la plupart des dépenses de l’appelant n’ont pas été vérifiées et l’appelant n’a fourni aucun renseignement. La vérificatrice s’est appuyée sur les données de Statistique Canada qui n’ont pas été prouvées devant la Cour en faisant témoigner la personne qui avait compilé ces données. Le ministre est incapable de démontrer l’existence des dépenses en cause pour prouver l’écart existant entre ces dépenses et le revenu déclaré de l’appelant.
+[20] Il en va de même des pénalités pour faute lourde imposées en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu. Les pénalités pour faute lourde seront donc annulées. En ce qui concerne les pénalités pour faute lourde établies en vertu de l’article 285 de la Loi sur la taxe d’accise, l’intimée n’a démontré aucune présentation erronée des faits ou omission dans les déclarations de TPS de l’appelant pour les périodes de déclaration en cause pour le simple motif que celui‑ci n’a produit aucune déclaration pour ces périodes. Ce fait est énoncé au paragraphe 6e) de la réponse relative aux cotisations de TPS. Ces pénalités seront également annulées.
+[21] Le représentant de l’appelant soutient également que les cotisations de TPS devraient être annulées parce qu’elles avaient été traitées sous un numéro d’inscription aux fins de la TPS que l’appelant avait annulé depuis quelques années. La vérificatrice a dit qu’elle n’avait pas été en mesure de trouver un numéro d’inscription actif concernant l’appelant, et que lorsqu’elle a vérifié les cotisations, elle a rouvert un compte que l’appelant avait utilisé dans le passé.
+[22] Étant donné que, lorsqu’on a établi une cotisation de TPS à l’égard de l’appelant, l’ancien numéro d’inscription avait été réactivé, je suis d’avis qu’on ne peut dire que ce numéro était erroné. Cependant, si tel était le cas, l’utilisation d’un numéro d’inscription aux fins de la TPS qui est vieux ou erroné n’aurait aucune incidence sur l’obligation de l’appelant relative à la TPS. Selon l’alinéa 296(1)a) de la Loi sur la taxe d’accise, « [L]e ministre peut établir [une cotisation, une nouvelle cotisation ou une cotisation supplémentaire pour déterminer] la taxe nette d’une personne, prévue à la section V, pour une période de déclaration », et la taxe nette d’une personne est calculée en application du paragraphe 225(1). Le terme « personne » est défini au paragraphe 123(1) comme comprenant un particulier. Par conséquent, l’obligation relative à la TPS incombe plutôt à un particulier qu’à un compte ou un numéro d’inscription, et toute erreur concernant ce dernier ne saurait remettre en question l’obligation fiscale. Je ferais également référence au paragraphe 299(2) de la Loi sur la taxe d’accise qui prévoit que « [L]‘inexactitude, l’insuffisance ou l’absence d’une cotisation ne change rien aux taxes, pénalités, intérêts ou autres montants dont une personne est redevable aux termes de la présente partie ».
+[23] J’ai toutefois conclu qu’il y a erreur dans le calcul de la TPS applicable aux fournitures taxables que l’appelant aurait effectuées et qui étaient à l’origine du revenu d’entreprise non déclaré. Pour expliquer cette erreur, il est utile de reproduire le résumé du calcul de la valeur nette et du revenu d’entreprise non déclaré et de la TPS percevable qui en résultent :
+Ajouts :
+2002
+2003
+2004
+Dépenses personnelles
+57 715,71 $
+58 909,68 $
+59 865,47 $
+Déductions:
+Remboursement d’impôt sur le revenu (appelant)
+932,07
+888,50
+814,11
+Remboursement d’impôt sur le revenu (épouse)
+182,60
+Remboursement de crédit de TPS/TVH reçu
+751,50
+381,00
+Prestations fiscales pour enfant
+7 201,65
+7 575,80
+7 937,63
+Revenu selon la valeur nette (TPS incluse)
+48 830,49 $
+50 064,38 $
+50 931,13 $
+Moins
+Revenu déclaré (contribuable)
+1 345,00
+239,00
+Revenu déclaré (épouse)
+12 085,00
+14 544,00
+10 875,00
+Revenu d’entreprise non déclaré (TPS incluse)
+36 745,49 $
+34 175,38
+39 817,13
+Moins :
+TPS/TVH perçue
+3 194,51
+3 275,24
+3 331,94
+Revenu d’entreprise non déclaré
+33 550,98 $
+30 900,14 $
+36 485,19 $
+[24] Il ressort du sommaire que la vérificatrice a considéré que le « Revenu d’entreprise non déclaré (TPS incluse) » de l’appelant s’élevait à 36 745,49 $ en 2002, à 34 175,38 $ en 2003 et à 39 817,13 $ en 2004. La TPS incluse correspondrait à 7/107 de ces montants, soit 2 403,92 $ pour 2002, 2 235,84 $ pour 2003 et 2 604,86 $ pour 2004. Les montants établis par la vérificatrice étaient de 3 194,51 $, de 3 275,24 $ et de 3 331,94 $ respectivement. Selon moi, la vérificatrice a calculé la TPS à partir des chiffres figurant à la rubrique « Revenu selon la valeur nette » correspondant au total des fournitures taxables effectuées par l’appelant plus la TPS, et non à partir des chiffres figurant à la rubrique « Revenu d’entreprise non déclaré (TPS incluse) » parce que la TPS calculée pour chaque période correspond à 7/107 des montants figurant à la rubrique « Revenu selon la valeur nette ». Ce serait une erreur, parce que les montants figurant à la rubrique « Revenu selon la valeur nette » ont été rajustés pour tenir compte du revenu déclaré de l’appelant et de son épousé pour les années en question. En utilisant les chiffres mentionnés, la vérificatrice a établi une cotisation de TPS à l’égard de l’appelant à partir du montant correspondant au revenu de son épouse pour chaque année d’imposition.
+[25] Comme j’ai conclu que le montant relatif aux dépenses personnelles de l’appelant était inférieur à celui déterminé par le vérificateur, le revenu d’entreprise non déclaré (TPS incluse) de l’appelant sera réduit du même montant, et par conséquent, la TPS que l’appelant a omis de verser pour chacune des périodes de déclaration réduira comme suit le montant de son revenu d’entreprise non déclaré :
+Revenu d’entreprise non déclaré révisé (TPS incluse) :
+2002 : 36 745,49 $ – 7 923,08 $ = 28 822,41 $
+2003 : 34 176,38 $ – 7 944,04 $ = 26 232,34 $
+2004 : 39 817,13 $ – 8 170,42 $ = 31 646,71 $
+TPS
+2002 : 28 822,41 $ x 7/107 = 1 885,58 $
+2003 : 26 232,34 $ x 7/107 = 1 716,13 $
+2004 : 31 646,71 $ x 7/107 = 2 070,35 $
+Revenu d’entreprise non déclaré
+2002 : 28 822,41 $ – 1 885,58 $ = 26 936,83 $
+2003 : 26 232,34 $ – 1 716,13 $ = 24 516,21 $
+2004 : 31 646,71 $ – 2 070,35 $ = 29 576,36 $
+[26] Pour les motifs qui précèdent, les appels sont accueillis. La nouvelle cotisation pour l’année d’imposition 2002 est annulée et les nouvelles cotisations d’impôt sur le revenu pour les années d’imposition 2003 et 2004 sont renvoyées au ministre pour nouvel examen, compte tenu du fait que le revenu non déclaré de l’appelant s’élevait à 24 516,21 $ en 2003 et à 29 576,36 $ en 2004, et les pénalités pour faute lourde doivent être annulées. Les cotisations de TPS seront renvoyées au ministre pour qu’il établisse de nouvelles cotisations en tenant compte du fait que l’appelant a omis de verser, au titre de la TPS, la somme de 1 885,58 $ pour la période de déclaration se terminant le 31 décembre 2002, la somme de 1 716,13 $ pour la période de déclaration se terminant le 31 décembre 2003 et la somme de 2 070,35 $ pour la période de déclaration se terminant le 31 décembre 2004, et les pénalités pour faute lourde doivent être annulées.
+Signé à Ottawa, Canada, ce 7e jour de janvier 2011.
+« B. Paris »
+Le juge Paris
+Traduction certifiée conforme
+ce 31e jour de janvier 2011.
+Semra Denise Omer, traductrice
+RÉFÉRENCE : 2011CCI7
+NO DU DOSSIER DE LA COUR : 2010-908(GST)I et 2010-909(IT)I
+INTITULÉ : STANISLAO CALANDRA s/n CALANDRA HAIR STUDIO et STASNISLAO CALANDRA et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 9 et 10 novembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Brent Paris
+DATE DU JUGEMENT : Le 7 janvier 2011
+COMPARUTIONS :
+Représentant des appelants :
+Costa Abinajem
+Avocat de l’intimée :
+Me Darren Prevost
+AVOCATS INSCRITS AU DOSSIER :
+Pour :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2000 DTC 1619, au paragraphe 2.
+[2] 2008 CAF 241.
+[3] 2004 CAF 349.

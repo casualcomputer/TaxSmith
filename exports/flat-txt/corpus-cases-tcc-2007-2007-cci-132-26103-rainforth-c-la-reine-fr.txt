@@ -1,0 +1,184 @@
+Title: Rainforth c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26103/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-132-26103-rainforth-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-03-02
+
+# Rainforth c. La Reine
+
+- Citation: 2007 CCI 132
+- Decision date: 2007-03-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4164, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rainforth c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-02
+Référence neutre
+2007 CCI 132
+Numéro de dossier
+2003-3553(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3553(IT)G
+ENTRE :
+HAROLD RAINFORTH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 15, 16, 18 et 19 janvier 2007 à Calgary (Alberta)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelant :
+Me John D’Arcy Boulton
+Avocates de l’intimée :
+Me Wendy Burnham
+Me Deborah Horowitz
+____________________________________________________________________
+JUGEMENT
+L’appel des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1995, 1996, 1997 et 1998 est rejeté.
+L’intimée a droit aux dépens.
+Signé à Ottawa, Canada, ce 2e jour de mars 2007.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 22e jour de janvier 2008.
+Jean David Robert, traducteur
+Référence : 2007CCI132
+Date : 20070302
+Dossier : 2003-3553(IT)G
+ENTRE :
+HAROLD RAINFORTH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] La Cour est saisie d’un appel concernant des transactions portant sur des données sismiques auxquelles l’appelant, Harold Rainforth, a participé conjointement avec plusieurs autres investisseurs. Les transactions ont été effectuées par M. Rainforth chaque année de 1991 à 1998, mais l’appel ne vise que les quatre dernières de ces années.
+[2] Pour chacune des années d’imposition en cause, M. Rainforth a déduit dans le calcul de son revenu un montant de 50 000 $ au titre de frais d’exploration au Canada (les « FEC ») en vertu du paragraphe 66.1(3) de la Loi de l’impôt sur le revenu (la « Loi »). Par des avis de nouvelle cotisation datés du 14 septembre 1999, les déductions ont été refusées en totalité.
+Les points en litige
+[3] L’essence de la position de l’appelant est énoncée dans son avis d’appel. Il affirme qu’il a participé à une série de coentreprises, que chacune d’elles lui a permis d’obtenir des données sismiques moyennant 50 000 $, que les données sismiques ont été acquises à des fins d’exploration et qu’elles ont été utilisées à cet effet.
+[4] La Couronne, par contre, fait valoir que M. Rainforth n’a pas acquis d’intérêt sur des données sismiques ou, s’il l’a fait, que les dépenses engagées n’ont pas été effectuées à des fins d’exploration.
+[5] Subsidiairement, la Couronne soutient que les dépenses ne sont pas raisonnables et, donc, que les déductions en cause sont interdites par l’article 67 de la Loi.
+[6] Subsidiairement encore, la Couronne prétend que le montant des déductions doit être réduit, soit parce qu’une partie des dépenses sont éventuelles, ou que l’appelant a acquis les données dans le cadre de transactions avec un lien de dépendance à des coûts supérieurs à la juste valeur marchande des données.
+Le contexte factuel
+[7] Le moteur de ces transactions était un homme d’affaires de Calgary appelé Sig Gutsche.
+[8] À la fin des années 1980, le comptable fiscaliste de M. Rainforth, Roger McLeod, s’est rendu compte que M. Gutsche proposait à des investisseurs des transactions portant sur des données sismiques. Il s’en est suivi une relation qui a duré une dizaine d’années, au cours de laquelle M. McLeod négociait chaque année des affaires portant sur des données sismiques avec M. Gutsche au nom de plusieurs investisseurs, dont M. Rainforth.
+[9] M. Rainforth et M. McLeod ont tous deux témoigné à l’audience, mais pas M. Gutsche.
+[10] Comme les investisseurs aux noms desquels agissait M. McLeod souhaitaient contribuer des sommes relativement peu élevées, il a fait en sorte que les transactions soient effectuées par deux sociétés agissant comme intermédiaires. Les investissements de M. Rainforth ont été réalisés par l’entremise d’une de ces sociétés, à savoir NR Management Ltd. (ci‑après « NRM »).
+[11] La relation juridique qu’il y a entre NRM et les investisseurs n’est pas claire au vu de la documentation soumise à la Cour. La Couronne a fait valoir que NRM avait conclu les contrats de coentreprise en tant que débitrice principale et que cette société avait ensuite cédé ses intérêts aux investisseurs. Il peut également être soutenu que NRM a agi en qualité de mandataire.
+[12] Il ne m’est pas nécessaire de me prononcer sur cette question pour les besoins de ma décision, et je n’ai pas l’intention de le faire compte tenu des arguments insuffisants des avocats sur ce point[1].
+[13] Il n’y a aucune différence significative entre les transactions qui ont été réalisées au cours de chacune des années d’imposition en cause. Je décrirai donc les transactions effectuées en 1996 comme étant représentatives de toutes les transactions en question.
+[14] À l’automne 1996, M. McLeod a cherché à obtenir des engagements de la part d’investisseurs, et, à cet effet, NRM a transmis des lettres de demande à des investisseurs potentiels, dont M. Rainforth.
+[15] La lettre envoyée à M. Rainforth a été écrite en termes simples et n’expose pas clairement les modalités de la transaction. En général, elle traite de l’achat de FEC dans le cadre d’une coentreprise portant sur des données sismiques. La quote‑part de la coentreprise qui reviendrait à l’investisseur potentiel est fonction du montant des FEC achetés. La lettre ne spécifie pas le prix d’achat des « FEC », mais il y est indiqué que le montant des FEC que chacun des investisseurs achètera est fonction de sa contribution financière, qui sera apportée au moyen d’un chèque établi à l’ordre de NRM et qui sera attestée par un billet à ordre avec droit de recours limité.
+[16] M. Rainforth s’est engagé à investir 50 000 $ et a fourni un chèque de 8 355 $ établi à l’ordre de NRM.
+[17] M. McLeod et M. Gutsche ont par la suite fait en sorte que NRM conclue les transactions, qui ont pris effet le 23 décembre 1996.
+[18] La principale transaction était un contrat de coentreprise (le « contrat ») conclu par NRM et 667523 Alberta Ltd. (l’« exploitante »). M. McLeod a supposé que l’exploitante faisait partie de l’organisation de M. Gutsche.
+[19] Le contrat est très long et quelque peu difficile à interpréter parce que ce ne sont pas toutes les clauses qui semblent être pertinentes. Pour autant que j’en puisse juger par la teneur du contrat, les objectifs stipulés de l’entreprise sont les suivants : (1) acquérir un intérêt indivis sur 19,97 % des données sismiques pour une zone appelée « lac Tedji », située dans les Territoires du Nord‑Ouest (les « T.N.‑O. »), et (2) mener des activités d’exploration relativement à des sites d’intérêt pour le pétrole et le gaz naturel relevés par l’interprétation de ces données (partie 2 du contrat). Cette description coïncide aussi avec l’explication de l’entreprise faite par M. McLeod.
+[20] Le contrat stipule que NRM paiera à l’exploitante une somme d’argent décrite comme la [traduction] « somme relative au programme », qui sera utilisée par l’exploitante pour atteindre les objectifs de la coentreprise, notamment pour supporter les dépenses engagées pour le compte de NRM (partie 4 du contrat).
+[21] Le contrat fixe le montant de la somme relative au programme à 962 000 $, laquelle a été payée par NRM à l’exploitante, au moyen d’un chèque, à la clôture du contrat.
+[22] Les investisseurs ont contribué à hauteur de 129 870 $, ce qui représentait la somme totale reçue par NRM des investisseurs, moins la commission touchée par celle‑ci. La part des 129 870 $ investie par M. Rainforth était de 6 750 $.
+[23] Le reste de la somme relative au programme, soit 832 130 $, a été emprunté par NRM avec droit de recours limité d’une société à dénomination numérique, soit 512668 Alberta Ltd. (la « prêteuse »). M. McLeod a témoigné qu’il ne savait pas qui étaient les mandants de la prêteuse. Je tiens à souligner, cependant, que le contrat de prêt semble avoir été signé pour le compte de la prêteuse par M. Gutsche.
+[24] Le prêt portait intérêts à un taux de huit pour cent, lesquels devaient être payés avec le capital à l’échéance dans 15 ans. Le prêt devait être garanti par les données sismiques portant sur la zone du lac Tedji, et, dans l’éventualité où le prêt n’était pas remboursé à l’échéance, la prêteuse ne pouvait se rabattre que sur la sureté pour obtenir remboursement. La prêteuse a aussi reçu une cession de 50 % [traduction] « des recettes nettes de la vente et de la concession de licence » issues de la sûreté.
+[25] Selon le témoignage de M. McLeod, le total de la somme relative au programme (962 000 $) devait servir à acquérir les données sismiques portant sur la zone du lac Tedji. Il n’existe aucun document à l’appui de cette affirmation, mais cela aurait pu être l’intention parce que M. Gutsche avait fourni à M. McLeod des rapports d’évaluation, selon lesquels un intérêt sur 19,97 % des données portant sur la zone du lac Tedji avait une valeur de 962 000 $. À la lumière de ma conclusion mentionnée ci‑dessous, il ne m’est pas nécessaire de décider si les données ont réellement été acquises, et je renonce à le faire[2].
+[26] Ce qui précède est une brève description de la transaction de 1996, et, comme je l’ai déjà mentionné, la documentation se rapportant aux autres années d’imposition en cause est pratiquement identique à celle portant sur cette année‑là.
+[27] Aucun des investissements n’a porté ses fruits. Aucun droit de forage n’a été acquis, et le revenu total de M. Rainforth tiré des huit investissements qu’il a réalisés au cours de la période de 1991 à 1998 ne totalisait que 581 $.
+[28] De plus, après que la documentation a été signée, ni M. McLeod ni M. Rainforth n’ont véritablement assuré le suivi des activités de la coentreprise. Il est vrai que M. Gutsche montrait des rapports techniques à M. McLeod lors des fréquentes visites informelles de ce dernier auprès de M. Gutsche, mais M. McLeod a admis qu’il ne prêtait pas beaucoup d’attention aux rapports.
+[29] L’appelant n’a pas présenté de preuve d’expert relativement à la valeur des données en cause, et ce, pour quelque année d’imposition en cause que ce soit. Cependant, la Couronne, quant à elle, a produit des preuves en ce qui concerne la valeur de ces données en fournissant des renseignements sur une vente antérieure de certaines de celles‑ci conclue sans lien de dépendance.
+[30] La Couronne a assigné comme témoin Ross Nelson, un comptable de Deloitte & Touche, qui avait agi pour le compte d’une société en faillite dans le cadre de la vente de données sismiques effectuée en juin 1997. M. Nelson a témoigné que les données, qui portaient sur une zone appelée « rivière Horton », située dans les T.N.-O., étaient en vente depuis quelque temps et que, jusqu’à la vente, en 1997, personne n’avait manifesté d’intérêt à leur égard. La société en faillite a vendu un très grand intérêt sur les données au prix de 20 000 $.
+[31] Plus tard au cours de cette année‑là, les mêmes données, ou plus particulièrement un intérêt sur 18,8 % de celles‑ci, ont été évaluées pour les besoins de la transaction effectuée en 1997 par NRM à environ 850 000 $. De plus, l’année suivante, un intérêt sur 20,2085 % des mêmes données a été évalué pour les besoins de la transaction réalisée en 1998 par NRM à environ 823 000 $.
+[32] Par conséquent, NRM aurait acquis des intérêts indivis sur les mêmes données au cours de deux opérations distinctes en contrepartie de sommes totalisant plus de 1 673 000 $ peu après qu’un intérêt beaucoup plus grand sur les données avait été vendu pour 20 000 $ dans le cadre d’une transaction sans lien de dépendance.
+[33] Mentionnons également qu’en contre‑interrogatoire M. McLeod a admis qu’il n’avait pas remarqué auparavant que NRM avait acquis des intérêts sur les mêmes données au cours de deux années consécutives. À cet égard, il a dit qu’il avait fait preuve d’un manque de diligence raisonnable.
+[34] La Couronne a aussi cité Gary Wong, un vérificateur de l’Agence du revenu du Canada, qui a témoigné pour le compte de la Couronne au sujet de sa vérification fiscale de l’organisation de M. Gutsche. Sa vérification a notamment porté sur les transactions conclues avec NRM au cours de trois des quatre années d’imposition en cause.
+[35] En plus de livrer son témoignage, M. Wong a produit en preuve plusieurs documents se rapportant à ces transactions qui lui avaient été fournis par l’organisation de M. Gutsche, y compris des relevés comptables et des dossiers bancaires.
+[36] L’avocat de M. Rainforth a fait valoir qu’il ne fallait pas accorder beaucoup de poids à ces documents. Je suis d’accord. Comme personne de l’organisation de M. Gutsche n’était disponible pour être contre‑interrogé, la preuve du vérificateur de l’ARC n’est pas très utile. Par conséquent, je n’ai accordé aucun poids à la preuve de M. Wong, excepté dans la mesure où elle appuie la position de l’appelant.
+[37] Je tiens également à signaler qu’il ne m’apparaît pas évident que les prescriptions de la Loi sur la preuve au Canada ont été respectées en ce qui a trait aux documents produits en preuve par M. Wong. Le juge en chef adjoint Rip traite de ces exigences dans la décision Les Gestions Rodney Cleary & Fils Ltee v. The Queen, 2005 DTC 1280 (C.C.I.), aux par. 22 à 35.
+Le critère de l’objet prévu par la loi
+[38] L’appelant avance qu’il a engagé une dépense de 50 000 $ au cours de chacune des années d’imposition en cause aux fins d’exploration de pétrole et de gaz naturel.
+[39] La principale disposition en cause est l’alinéa a) de la définition des FEC donnée au paragraphe 66.1(6) de la Loi, qui est ainsi libellé :
+« frais d’exploration au Canada » Relativement à un contribuable, les dépenses suivantes, engagées après le 6 mai 1974 :
+a) une dépense, y compris une dépense à des fins géologiques, géophysiques ou géochimiques, engagée par le contribuable (à l'exception d’une dépense engagée pour le forage ou l’achèvement d’un puits de pétrole ou de gaz, la construction d’une route d’accès temporaire au puits ou la préparation d’un emplacement pour un tel puits) en vue de déterminer l’existence, la localisation, l’étendue ou la qualité d’un gisement de pétrole ou de gaz naturel (à l’exception d'une ressource minérale) au Canada;
+[…]
+[Non souligné dans l’original.]
+[40] Selon le critère de l’objet énoncé à l’alinéa a), la dépense effectuée doit être engagée en vue de déterminer l’existence, la localisation, l’étendue ou la qualité d’un gisement de pétrole ou de gaz naturel. En l’espèce, M. Rainforth est loin d’avoir établi, même prima facie, qu’une dépense a été engagée à cette fin.
+[41] Le critère de l’objet peut être rempli soit s’il est prouvé qu’il existait une fin admissible régissant l’utilisation des données ou s’il est établi qu’il y avait un plan crédible visant cette utilisation (voir l’arrêt Petro-Canada v. The Queen, 2004 DTC 6329 (C.A.F.), au par. 35.
+[42] La preuve de l’utilisation effective des données en l’espèce consiste généralement en des déclarations de M. McLeod selon lesquelles il a été informé que les données en cause étaient examinées par un géologue et que M. Gutsche lui avait montré des rapports techniques. Toutefois, M. McLeod n’avait aucune connaissance directe de l’utilisation effective des données et il a admis qu’il avait prêté peu d’attention à ces rapports.
+[43] Quant à un plan crédible d’utilisation des données, la preuve consiste dans une large mesure en les clauses des contrats de coentreprise et en les témoignages de M. Rainforth et de M. McLeod au sujet de leur compréhension des objectifs des coentreprises. Encore une fois, ni M. Rainforth ni M. McLeod n’avaient de connaissance directe de plans explicites visant à utiliser les données.
+[44] Il est vrai que les contrats stipulent que les activités d’exploration seraient exercées par les exploitants. Toutefois, M. Rainforth n’a pas prouvé que ces objectifs vagues ont abouti à un plan crédible visant à utiliser les données d’une telle manière. En fait, je me demande si les contrats n’étaient rien de plus qu’une façade.
+[45] De plus, à mon avis, on doit tirer une inférence défavorable du fait que l’appelant n’a pas fait témoigner un représentant des exploitants des coentreprises. Ils sont les seules personnes qui auraient eu une connaissance directe de l’utilisation effective ou prévue des données.
+[46] L’avocat de M. Rainforth a soutenu qu’il ne serait pas approprié de faire une telle inférence puisque M. Gutsche serait probablement un témoin hostile. Je conviens que celui‑ci pourrait être un témoin hostile. Il avait fait l’objet d’une vérification relativement aux transactions en cause, et sa version des faits livrée aux fins de vérification pourrait être différente de celle de l’appelant. Cependant, il ne s’agit pas d’une réponse satisfaisante qui puisse justifier l’omission de l’appelante d’assigner comme témoin M. Gutsche ou tout autre représentant des exploitants des coentreprises. Le témoignage d’une telle personne était crucial pour que l’appelant ait une chance d’avoir gain de cause dans son appel parce que ni M. Rainforth ni M. McLeod ne savaient ce que faisaient ou prévoyaient faire les exploitants avec les données en cause.
+[47] En fait, si l’on observe les actions de MM. Rainforth et McLeod, les deux hommes semblent avoir été indifférents à la question de savoir si quelque activité que ce soit a en fait été exercée par les coentreprises.
+[48] M. Rainforth en savait très peu sur les transactions en cause, excepté pour ce qui est des conséquences fiscales favorables qui en découleraient. Bien qu’il ne soit pas inhabituel pour des investisseurs d’avoir largement recours aux services de conseillers, il serait peu commun pour un investisseur d’effectuer le même type d’investissement huit années de suite sans avoir de preuve objective concernant le rendement de l’investissement.
+[49] Quant à M. McLeod, il n’a pas fait de tentative sérieuse de surveiller et de déterminer ce qui était fait avec les données en cause. S’il s’intéressait un tant soit peu aux activités que menaient les coentreprises, ses actions n’en témoignaient pas.
+[50] M. McLeod a affirmé que ce manque de diligence n’est pas différent de la façon dont on fait des investissements par le truchement du marché boursier. Cependant, cet argument ne tient pas compte du fait que la vente d’actions au public par l’entremise des marchés boursiers est légalement réglementée. Les transactions en cause étaient privées, et les investisseurs concernés comptaient sur M. McLeod pour qu’il représente leurs intérêts.
+[51] La preuve dans son ensemble porte à croire que M. Rainforth et M. McLeod étaient tous deux indifférents à la question de savoir si les coentreprises menaient véritablement des activités d’exploration.
+[52] J’en viens à la conclusion que M. Rainforth n’a pas satisfait au critère de l’objet prévu par la loi. Compte tenu de l’ensemble de la preuve et de son insuffisance, les données en cause n’ont pas été utilisées, ou prévues pour être utilisées, en vue de déterminer l’existence, la localisation, l’étendue ou la qualité d’un gisement de pétrole ou de gaz naturel.
+Les autres arguments
+[53] Compte tenu de cette conclusion, je ne traiterai pas des arguments subsidiaires soulevés par la Couronne. Non seulement il ne m’est pas nécessaire de le faire pour les besoins de ma décision, mais je ne crois pas que ce serait utile à la lumière d’appels interjetés à l’encontre de deux décisions judiciaires ayant trait à des transactions portant sur des données sismiques.
+[54] L’issue d’un pourvoi en instance interjeté à l’encontre de l’arrêt McLarty v. The Queen, 2006 DTC. 6340 (C.A.F.) devant la Cour suprême du Canada pourrait avoir une incidence sur bon nombre des arguments subsidiaires de la Couronne.
+[55] De même, le résultat d’un appel en instance de la décision Anchor Pointe Energy Ltd. v. The Queen, [2006] 4 C.T.C. 2353 (C.C.I.), dont a été saisie la Cour d’appel fédérale, pourrait avoir une influence sur ces arguments. Cette décision porte sur le fardeau de la preuve, et la Couronne concède que cela a pour conséquence de faire reposer sur elle la charge de preuve relativement aux arguments subsidiaires si la décision est confirmée en appel.
+[56] Ma conclusion, qui est fondée sur le critère de l’objet prévu par la loi, n’est influencée par aucun de ces appels.
+[57] Finalement, je tiens à faire observer qu’aucun des avocats n’a soulevé la question de la charge de la preuve qui est en litige dans la décision Anchor Pointe, mais que c’est moi qui l’ai mentionnée pour la première fois après que les avocats ont fait leurs déclarations d’ouverture.
+[58] N’étant pas fiscaliste, l’avocat de M. Rainforth n’avait pas connaissance de la décision Anchor Pointe et il a supposé que l’appelant avait le fardeau de prouver tous les faits pertinents. Par contre, les avocates de la Couronne étaient certainement au courant de la décision puisqu’elles représentent l’une des deux parties à cette affaire.
+[59] Je trouve très troublant que la Couronne n’ait pas porté cette décision à mon attention au début de l’audience. Ses avocates sont sans doute conscientes de l’obligation déontologique prescrite par les barreaux des provinces selon laquelle elles doivent aviser la Cour des décisions judiciaires défavorables. Les avocates ont affirmé que cette exigence n’est pas applicable en l’espèce parce que la question du fardeau de la preuve n’a pas été soulevée par l’appelant. Je ne suis pas d’accord. Il ne s’agit pas d’une question dont la Cour ne doit tenir compte que si elle est soulevée par l’une des parties à l’instance.
+[60] En tirant le rideau sur cette question et en prétendant que le fardeau de la preuve reposait entièrement sur l’appelant, contrairement à ce qui a été décidé dans la décision Anchor Pointe, la Couronne a, à mon avis, adopté une position inappropriée.
+[61] Il convient de se reporter à un récent arrêt de la Cour suprême du Canada qui a porté sur la question des normes de conduite visant les procureurs de la Couronne. Dans l’arrêt R. c. Trochym, 2007 CSC 6, la Cour suprême a cité les propos suivants tenus par le juge Rand dans l’arrêt Boucher c. La Reine, [1955] R.C.S. 16, aux pages 23 et 24 :
+[traduction]
+On ne saurait trop répéter que les poursuites criminelles n’ont pas pour but d’obtenir une condamnation, mais de présenter au jury ce que la Couronne considère comme une preuve digne de foi relativement à ce qu’on allègue être un crime. Les avocats sont tenus de veiller à ce que tous les éléments de preuve légaux disponibles soient présentés : ils doivent le faire avec fermeté et en insistant sur la valeur légitime de cette preuve, mais ils doivent également le faire d’une façon juste. Le rôle du poursuivant exclut toute notion de gain ou de perte de cause; il s’acquitte d’un devoir public, et dans la vie civile, aucun autre rôle ne comporte une plus grande responsabilité personnelle. Le poursuivant doit s’acquitter de sa tâche d’une façon efficace, avec un sens profond de la dignité, de la gravité et de la justice des procédures judiciaires.
+[62] Bien que le commentaire précité ait été formulé dans le contexte d’une instance criminelle, il doit aussi s’appliquer, à mon avis, aux avocates de la Couronne qui se présentent devant la Cour.
+[63] Je tiens également à mentionner que les deux avocates de la Couronne se sont par ailleurs conduites d’une façon exemplaire tout au long de l’audience. J’en conclus que leur omission de signaler la décision Anchor Pointe correspond à un manque de jugement plutôt qu’à une violation délibérée des normes déontologiques applicables.
+[64] L’appel est rejeté, avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 2e jour de mars 2007.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 22e jour de janvier 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE :
+2007CCI132
+Nº DU DOSSIER DE LA COUR :
+2003-3553(IT)G
+INTITULÉ :
+Harold Rainforth et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATES DE L’AUDIENCE :
+Les 15, 16, 18 et 19 janvier 2007
+MOTIFS DU JUGEMENT :
+L’honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 2 mars 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me John D’Arcy Boulton
+Avocates de l’intimée :
+Me Wendy Burnham
+Me Deborah Horowitz
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me John D’Arcy Boulton
+Cabinet :
+Boulton’s Law Office
+Sundre (Alberta)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] La relation entre NRM et les investisseurs est pertinente par rapport à la question de la dette éventuelle. Si NRM a agi en tant que mandataire, il peut être soutenu que la contrepartie n’était nullement éventuelle puisque NRM a effectué la totalité de l’investissement par chèque. L’appelant n’a pas pris cette position, cependant, et a reconnu que les billets à ordre faisaient partie de la contrepartie pour les données sismiques.
+[2] Compte tenu des actes de procédure, on peut soutenir que la Couronne doit avoir le fardeau de prouver que l’appelant n’a pas acquis les données sismiques. Aucune des parties n’a soulevé cet argument à l’audience.

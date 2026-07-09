@@ -1,0 +1,188 @@
+---
+title: "Bégin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26294/index.do"
+last_modified: "2004-10-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 593"
+citation2: ""
+neutral_citation: "2004 TCC 593"
+decision_date: "2004-10-15"
+language: "en"
+item_id: "26294"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3306
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:55:21.882000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "55afeee1a50ee01e279f978c42a2e07e54ca6d59455139180cdc6af68f9bf4b1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bégin c. La Reine
+
+- Citation: 2004 TCC 593
+- Decision date: 2004-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3306, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bégin c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-15
+Neutral citation
+2004 TCC 593
+File numbers
+2003-4470(IT)I
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4470(IT)I
+BETWEEN:
+GILLES BÉGIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeals heard on July 6, 2004, at Montréal, Quebec
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the Appellant:
+François Fisette
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments made under the Income Tax Act for the 2000 and 2002 taxation years are dismissed, in accordance with the attached reasons.
+Signed at Ottawa, Canada, this 15th day of October 2004.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 26th day of January 2005.
+Colette Dupuis-Beaulne, Translator
+Citation: 2004TCC593
+Date: 20041015
+Docket: 2003-4470(IT)I
+BETWEEN:
+GILLES BÉGIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Archambault J.
+[1] Mr. Gilles Bégin is appealing from the tax assessments made for the 2000 and 2002 taxation years. At the outset of the hearing, counsel for Mr. Bégin acknowledged that he had received the tax credit for mental or physical impairment for 2000. The issue therefore relates solely to Mr. Bégin's entitlement to that credit for 2002.
+[2] During the 2002 taxation year, Mr. Bégin suffered from narcolepsy and, essentially, the issue is to determine whether Mr. Bégin's ability to perform a basic activity of daily living was markedly restricted during that taxation year. The other conditions that must be met, listed under subsection 118.3(1) of the Income Tax Act (Act), were not at issue during the hearing. Specifically, the fact that Mr. Bégin suffered from a severe and prolonged mental impairment was not challenged. The fact that on October 8, 1997, a doctor from the Sleep Clinic wrote that Mr. Bégin appeared unable to continue working as a teacher certainly suggests the severity of his impairment. Moreover, it is recognized that this impairment has been ongoing for several years.
+[3] However, the Respondent maintains, contrary to what is indicated by the general practitioner, Dr. Lemaître-Auger, on the Disability Tax Credit Certificate dated April 6, 2001, that Mr. Bégin was able to think, perceive and remember.[1] Furthermore, the Respondent is challenging the assessment made by that doctor, who indicated, in the questionnaire filed under A-6, that Mr. Bégin's ability to perceive, think and remember was markedly restricted. On the questionnaire, care was taken to provide the following explanations:
+Answer yes only if, even with therapy, aids and medication, your patient is unable to perceive, think or remember (without taking an inordinate amount of time).
+If your patient is unable to manage personal affairs (provide himself or herself with food, clothing, etc.) or see to personal care (feed, wash or dress himself or herself) without supervision, we consider your patient's ability to be markedly restricted.
+[4] I should add that this was the only activity of Mr. Bégin's daily living for which the doctor answered "Yes." She indicated that none of his other activities of daily living were markedly restricted.
+Facts
+[5] We will now examine the evidence. Only Mr. Bégin testified at the hearing. Mr. Bégin was born in 1937 and worked as a teacher until 1990. His testimony revealed that he has suffered from narcolepsy since his early 20s. To deal with the periods of excessive sleepiness while teaching his students, he had developed certain techniques, including getting up to open a window. It should also be noted that Mr. Bégin resigned from his teaching position in December 1990 because of pressure from his principal, who threatened to dismiss him in June 1991 because of difficulty communicating with his students.[2] Rather than have to face dismissal, he had instead decided to resign on December 5, 1990 (see Exhibit A-4).
+[6] Narcolepsy is defined as a sleep disorder, the symptoms of which include sleep attacks and temporary paralysis. Dr. J. Paul Caldwell, in Sleep: The Complete Guide to Sleep Disorders and a Better Night's Sleep, Canadian Medical Association: Your Personal Health Series, Key Porter Books, 1995, describes the four symptoms of this disorder on pages 140-41:
+. . . It was learned that there are four classical symptoms: excessive daytime sleepiness with attacks of irresistible sleep, drop attacks (cataplexy), sleep paralysis, and sleep-related hallucinations. Many patients with narcolepsy do not have all these symptoms, but all narcoleptics have excessive daytime sleepiness - the tendency to fall asleep quickly when the environment is quiet or nonstimulating.
+[...]
+All patients with narcolepsy have excessive daytime somnolence, and most develop sleep attacks over the course of many years.
+[7] Citing a work by Drs. Montplaisir and Godbout entitled Les troubles du sommeil et de la vigilance, Mr. Bégin described having the following symptoms when experiencing sleep attacks: decreased visual activity, tunnel vision, misjudging distances, decreased attention, decreased aural reception, impaired memory, impaired judgment, motor difficulties. He wrote that excessive sleepiness is frequent, persistent and occurs at all hours of the day and that the decreased alertness and daytime sleepiness have adverse effects on the socio-economic status and quality of life of individuals.
+[8] When cross-examined on this description of the symptoms he experienced during the period in question, Mr. Bégin acknowledged that they appeared when he had his sleep attacks. He specified that those sleep attacks could occur five or six times a day and last up to fifteen minutes. They could occur twice in the morning and the afternoon and once or twice in the evening. He could fall asleep while eating or reading.
+[9] It was not until 1995 that doctors were able to identify the illness disrupting Mr. Bégin's life. It was at that time that he saw Dr. Montplaisir at the Montréal Sacred Heart Hospital Sleep Clinic, who diagnosed narcolepsy. This final diagnosis was made after Mr. Bégin underwent laboratory tests to measure his level of sleepiness. During the tests, Mr. Bégin was under continuous audio-visual surveillance for one night and five daytime naps in accordance with the "iterative sleepiness test" (IST) standard protocol. Dr. Montplaisir explained his diagnosis as follows:
+[TRANSLATION]
+The daytime nap recording confirms, beyond all doubt, the diagnosis of narcolepsy since the patient fell asleep, for each of the five IST naps, on average within 2.8 minutes. The patient also fell directly into REM sleep twice and is a carrier of the HLA DR2 (DR15)-DQW1 antigen.
+[10] Mr. Bégin underwent similar tests two years later, in 1997, when he was re-examined by Dr. Montplaisir. The 1997 recording took place over two days because Mr. Bégin was on medication, namely Ritalin SR, 20 mg.[3] The medication was being used to treat Mr. Bégin's decreasing alertness due to the narcolepsy. The tests took place over two nights and two days. An IST, conducted over the course of the first day, was followed by a vigilance test over the course of the second day. Dr. Lespérance described the tests as follows:
+[TRANSLATION]
+[...] The test consisted of two nights, an iterative sleepiness test over the course of the first day and a vigilance test over the course of the second day. The nap tests measure the ability to fall asleep, while the second day, the ability to stay awake in a quiet, dark environment. Each therefore measures different aspects of alertness. The second relates more to the ability to engage in intellectual activities, such as those of a teacher.
+[11] Even under the effect of the 20-mg dose of Ritalin SR, the average nap latency was approximately 7.6 minutes. The vigilance test found that Mr. Bégin fell asleep within 20 minutes on average, but during the first three naps, he fell asleep in less than 10 minutes. Following these tests, Dr. Lespérance concluded as follows:
+[TRANSLATION]
+My conclusion is that this patient currently appears to be unable to continue working as a teacher. I will submit the application to the Régie des rentes du Québec later, once the patient is 60 years old.[4]
+[12] To illustrate the effects of his illness, Mr. Bégin stated that he had trouble remembering things and that when he went grocery shopping, he had to bring a shopping list. It was during this explanation that he stated that he drove his own vehicle. Surprised that a person who is unable, all or substantially all of the time, to perceive, think and remember, without taking an inordinate amount of time, is able to drive a vehicle, I asked him how the Société de l'assurance automobile du Québec (SAAQ) could have allowed him to keep his driver's licence. Mr. Bégin then offered to provide the Court with the medical examination report he had given to the SAAQ, which he did by faxing[5] the report dated May 2, 2003, completed by Dr. Lemaître-Auger. In the report, she indicates that in 1997, Dr. Lespérance had deemed Mr. Bégin able to drive. It was on the strength of that medical report that the SAAQ informed Mr. Bégin on July 3, 2003, that they were maintaining his current licence.
+[13] Mr. Bégin, at the Court's request, faxed Exhibit A-9, the medical report from Dr. Lespérance dated November 19, 1997. In the report, Dr. Lespérance provides the following medical history:
+[TRANSLATION]
+For several years, the patient has experienced excessive daytime sleepiness that, unfortunately, had never been specifically investigated. For this reason, no treatment had been initiated. The excessive daytime sleepiness is such that the patient can fall asleep at inappropriate times, and this has been ongoing since his early twenties. The patient has long thought that this was beyond his control. More recently, he decided to consult a physician to be sure. Because the patient also presented the symptoms of cataplexy-the weakening of muscle tone brought on by certain emotions, such as anger, surprise, laughter and joy-and hypnagogic hallucinations, a diagnosis of narcolepsy had to be eliminated.
+[14] The following description is found under the heading "Physical and Mental Observations":
+[TRANSLATION]
+The prognosis for this condition is indefinite chronic progression. The patient will not deteriorate, but neither has he any chance of substantially improving his ability to be wakeful and remain alert. This time we also tested the change in his alertness under medication. The changes were slight; specifically, I am referring to the vigilance test on the second day of recording under medication. There remains a significant degree of sleepiness despite an optimal dose of 20 mg of Ritalin per day.
+[15] In the same report, the doctor answers "Yes" to the following questions: "Does the claimant have the mental capacity to handle his affairs?" and "Is the claimant able to drive a motor vehicle?" In the medical report dated November 19, 1997, submitted to the Régie des rentes du Québec, Dr. Lespérance makes the following observations:
+[TRANSLATION]
+Although one could imagine that this patient is able to perform certain motor tasks, this difficulty in concentration and alertness hampers, in my opinion, all tasks related to teaching. I therefore find that even if he were able to carry out any gainful employment for probably 35 hours, he could not do so as a teacher or in an equivalent position. For these reasons, I believe it is reasonable that the patient be considered a person with a disability given [illegible] conditions with regard to the Régie des rentes du Québec.
+[16] Mr. Bégin stated that he could feel the sleep attacks coming on and that he could therefore allow himself to drive short distances. He did not, however, make long trips. Moreover, he acknowledged that the symptoms described above (impaired memory, decreased visual activity, decreased aural reception, and motor difficulties) occurred during those sleep attacks and that he was able to function normally the rest of the time.
+[17] In a letter dated June 22, 2001 (Exhibit A-9), addressed to the Canada Customs and Revenue Agency (CCRA), Mr. Bégin provides this explanation:
+[TRANSLATION]
+[...]
+During an attack of cataplexy:
+(1) Vision becomes blurred and eyelids drop, eyes roll back.
+(2) Walking requires holding on before bending and standing still.
+(3) Speech is illogical even though senses remain active ... language remains irrational.
+(4) Mental faculties (perceiving, thinking and remembering) are seriously affected by this decrease in alertness and concentration.
+[18] I therefore conclude that, although Mr. Bégin does indeed suffer from a severe and prolonged illness, the effects of that illness are not such that he is unable all or substantially all of the time to perform, without taking an inordinate amount of time, a basic activity of daily living, specifically, in this case, perceiving, thinking and remembering. I should point out that on the morning of the hearing, Mr. Bégin awoke at 6:30 a.m., began testifying at 9:30 a.m., and finished testifying around 11:30 a.m. He stated during his testimony that, during the break, he had taken a brief nap for a few minutes. During the argument, I noticed that Mr. Bégin was holding his head in both hands and that he appeared to be dozing, although I cannot be certain of this.
+[19] However, while testifying, he was able to clearly answer the questions he was asked. He was able to explain clearly to the Court the symptoms of his illness and was able to refer to the tests conducted in 1995 and 1997, to relate the steps that led to his diagnosis in 1995, etc.
+[20] There is no doubt that when a person sleeps, they are unable to exercise their faculties to think, perceive and remember. However, in the case of Mr. Bégin, the periods of irresistible sleep, added to the normal periods in which a person not suffering from narcolepsy sleeps, represent in all an additional hour and a half a day. An hour and a half accounts for 6.3% of a 24-hour day. If we look at that hour and a half in a 16-hour period as opposed to 24, the percentage is 9.4%. There is no doubt that, unlike those who do not suffer from this type of illness, Mr. Bégin's life is disrupted by the fact that he is overcome by irresistible sleep attacks. Such a circumstance can complicate the professional life of a person teaching young students.
+[21] However, I cannot conclude that Mr. Bégin was unable all or substantially all of the time to perceive, think and remember in 2002, the period in question. Aside from the hour and a half periods of necessary napping and uncontrollable sleep, Mr. Bégin could think, perceive and remember. Moreover, how could the SAAQ have allowed Mr. Bégin to keep his driver's licence if he had been unable, all or substantially all of the time, without taking an inordinate amount of time, to perceive, think and remember? If Mr. Bégin had indeed experienced a decrease in visual activity, was unable to accurately justice distances, experienced decreased attention, decreased aural reception, and impaired judgment, how could he drive a vehicle? Moreover, according to Dr. Lemaître-Auger, Dr. Lespérance had concluded in 1997 that Mr. Bégin was able to drive. It is astonishing, in my humble opinion, that a doctor, in two separate medical reports, could conclude that Mr. Bégin is able to drive a vehicle and yet was unable all or substantially all of the time to perceive, think and remember, even with medication, and that he was unable to manage personal affairs (provide himself with food, clothing) or see to personal care (feed, wash or dress himself) without supervision.
+[22] Human nature being what it is, it would seem that doctors, pressured by their patients seeking to take advantage of the financial benefits provided for in certain Acts, have difficulty refusing the demands made to them by those patients. In my opinion, while it is true that the provisions of the Act must be interpreted compassionately,[6] this does not mean that they should be interpreted complacently. As far as I am concerned, I have no other choice but to find that Mr. Bégin did not meet all of the conditions required by the Act to be entitled to the tax credit for mental or physical impairment.
+[23] For all of these reasons, Mr. Bégin's appeals are dismissed.
+Signed at Ottawa, Canada, this 15th day of October 2004.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 26th day of January 2005.
+Colette Dupuis-Beaulne, Translator
+CITATION:
+2004TCC593
+COURT FILE No.:
+2003-4470(IT)I
+STYLE OF CAUSE:
+Gilles Bégin and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+July 6, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT:
+October 15, 2004
+APPEARANCES:
+For the Appellant:
+François Fisette
+For the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+François Fisette
+Firm:
+Gérin Leblanc & Associés
+Sherbrooke, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Note, however, that on a similar certificate dated April 23, 1999, the same doctor came to the opposite conclusion. Dr. Lemaître-Auger did not testify to explain the change in her assessment of Mr. Bégin's condition.
+[2] On May 11, 1990, Mr. Bégin had had a rather frightening altercation with a student whom he had to expel from the class.
+[3] In general, the administration of medication, such as 10 mg of Ritalin or a stronger 20-mg dose, allows a person suffering from narcolepsy to resist sleep attacks better. Mr. Bégin indicated that on the day of the hearing, he took a 20-mg dose of Ritalin. Another technique Mr. Bégin uses is to take a nap before initiating an activity. This is how he is able to go for a 30- to 45-minute bike ride with his wife. He can also play tennis; however, he no longer plays competitively, as he once did.
+[4] Mr. Bégin's lawyer explained the reason for this strategy to the Court. When a person reaches 60 years of age, they are entitled to a disability pension if they are found unable to perform their usual tasks; however, if the person is under 60, that person must be found unable to perform all other tasks. In actual fact, Mr. Bégin received a disability pension from the Régie des rentes du Québec, as indicated in Exhibit A-1, which shows the payment of a benefit of $8,611.90 for 1998.
+[5] I have marked this document Exhibit A-8.
+[6] See paragraph 10 of the Federal Court of Appeal ruling in Johnston v. Canada, [1998] F.C.J. No. 169 (Q.L.), 98 DTC 6169, in which it states that the provisions at issue here must be given a humane and compassionate construction.

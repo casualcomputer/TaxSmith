@@ -1,0 +1,133 @@
+---
+title: "Zailo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/67062/index.do"
+last_modified: "2014-02-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 60"
+citation2: ""
+neutral_citation: "2014 TCC 60"
+decision_date: "2014-02-26"
+language: "en"
+item_id: "67062"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5966
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:55:49.296000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "09aa0139a3277ee2626835a8beef44e9a77773fc867079c370a405d75f76fa99"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zailo v. The Queen
+
+- Citation: 2014 TCC 60
+- Decision date: 2014-02-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5966, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zailo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-02-26
+Neutral citation
+2014 TCC 60
+File numbers
+2013-2400(IT)I
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2400(IT)I
+BETWEEN:
+NATHAN ZAILO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 7, 2014, at Vancouver, British Columbia.
+Before: The Honourable Eugene P. Rossiter, Associate Chief Justice
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Paige MacPherson
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2011 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of February, 2014.
+“E.P. Rossiter”
+Rossiter A.C.J.
+Citation: 2014 TCC 60
+Date: 20140226
+Docket: 2013-2400(IT)I
+BETWEEN:
+NATHAN ZAILO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rossiter A.C.J.
+[1] The Appellant in 2011 was enrolled full-time in the Musicians Institute College of Contemporary Music Audio Engineering program. The Musicians Institute is a “university outside Canada” for the purposes of paragraph 118.5(1)(b) of the Income Tax Act (“ITA”), offering bachelor’s degrees, associate’s degrees and non‑degree programs. The Audio Engineering program can lead to an associate of arts degree when combined with one of the Musicians Institute’s performance programs. The Audio Engineering program does not, however, lead to a bachelor’s degree at the Musicians Institute. Rather, it leads to a certificate. The Musicians Institute offers two bachelor programs, one in composition and one in performance. The Audio Engineering program can lead to an associate of arts degree if combined with a performance program. The associate of arts degree could then be used towards a bachelor’s degree. But the Appellant did not pursue a performance program to complete the association of arts degree. Rather, he resolved to complete the program of Audio Engineering, a certificate. The Audio Engineering program does not contribute to either of the bachelor programs in composition or performance at the Musician’s Institute. The Appellant claimed a tuition credit of $9,160 based on tuition fees of $8,400, a student recovery fee of $22.50 and some audio engineering equipment of $750, which the Appellant asserts is required in order to take the program. The Minister of National Revenue (Minister) refused the tuition credit on the basis that the Appellant was not in “a course leading to a degree” as required by paragraph 118.5(1)(b) of the ITA, with the Minister asserting a “degree” in this context is a bachelor’s degree or higher.
+[2] The Appellant attended the same program in 2012. The Minister allowed the tuition credits for the Appellant in his 2012 income tax return, but denied the same credits for the 2011 return. The taxation year before the Court is in relation to 2011.
+[3] The issue before the Court is: Does “degree” as used in paragraph 118.5(1)(b) of the ITA include associate’s degrees such that students enrolled in associate’s degrees at universities outside Canada can receive the tuition credit? The position of the Appellant is that the tuition credits for 2011 ought to be granted as it is not a requirement for the Appellant to complete a degree in order to obtain the tuition credits and he did the first part of this degree initially and, further, paragraph 118.5(1)(b) was complied with, in that the ITA does not exclude the program of the Appellant’s attending. Also the Appellant is of the view that the same tuition credits were allowed by the Minister for 2012 and the Minister is obliged to apply the law consistently and therefore such tuition credits for 2011 ought to be granted.
+[4] The Respondent’s position is that the certificate obtained by the Appellant in 2011 is not a degree as contemplated in paragraph 118.5(1)(b) and therefore that paragraph was not complied with and the tuition credits were correctly denied. Further, the Respondent’s position is that the only taxation year before the Court is 2011, and what the Minister did and did not do with respect to the Appellant’s tuition credits claimed for 2012 is irrelevant and is not a factor to be considered by the Court. Paragraph 118.5(1)(b) of the ITA states as follows:
+118.5(1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted,
+. . .
+(b) where the individual was during the year a student in full-time attendance at a university outside Canada in a course leading to a degree, an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual’s tuition paid in respect of the year to the university, except any such fees . . .
+[Emphasis added.]
+[5] It is my view that the Appellant does not meet the requirements for receiving a tuition credit under paragraph 118.5(1)(b) because he is not enrolled in a program leading to a degree of the bachelor’s level or above. Paragraph 118.5(1)(b) of the ITA specifically requires that the individual be a full-time student at a university outside Canada “in a course leading to a degree”. The ITA does not define the term “degree”.
+[6] In the process of defining “university outside Canada” for the purposes of paragraph 118.5(1)(b) of the ITA in Klassen v. Canada,[1] the Federal Court of Appeal equated a “degree” to a bachelor’s degree or higher. The Federal Court of Appeal concluded:
+21 . . . the expression “university outside Canada” refers to an educational institution which confers degrees usually granted by universities, that is a doctorate degree, a master degree or at minimum degrees at the baccalaureate level or its equivalent. . . .
+[7] This raises the question, does “degree” used in paragraph 118.5(1)(b) of the ITA mean a bachelor’s degree or higher for determining whether an educational institute is a university, but include associate’s degrees for determining which programs qualify for the tuition credit? While the Federal Court of Appeal did not specifically state that lesser degrees from a university outside of Canada are ineligible for the tuition credit, it could be said that principles of statutory interpretation prohibit a word in a provision to have two contradictory meanings. However, in the context, why would courses leading to an associate’s degree, which could in fact be included as part of the qualification to a bachelor’s degree, not be eligible for a tuition credit? It is noted that the evidence at trial showed that at least two of the courses which the Appellant would have to take in order to receive a bachelor of music in performance were part of the Audio Engineering program: “Studio Recording I” and “Studio Recording II”. The answer is that, as per the Appellant’s testimony, these courses were used towards a certificate program and not towards a bachelor’s degree.
+[8] It should also be noted that, for educational institutions in Canada and for cross-border commuters, the legislation in question extends the benefits of tuition credits common to those enrolled in a “college or other educational institution providing courses at a post-secondary school level”.[2] Therefore, Parliament obviously distinguished between universities and colleges or other post-secondary educational institutions. The distinguishing factor is that universities offer bachelor’s degrees and higher while the others do not. If associate’s degrees are accepted in the definition of “degree”, then universities and other post-secondary institutions are no longer distinguishable and the legislative scheme becomes incoherent.
+[9] The Federal Court of Appeal’s decision in Klassen strongly suggests that an associate’s degree is not eligible for a tuition credit. I find this to be a reasonable conclusion in law, especially in light of the incoherent nature that the legislation would become if associate’s degrees were accepted in the definition of “degree”, in light of subparagraphs 118.5(1)(a)(i) and 118.5(1)(c)(i) and paragraph 118.6(1)(c) of the ITA.
+[10] Lastly, the Minister’s treatment of the Appellant’s 2012 taxation year has no bearing on this appeal.
+[11] On the basis of the foregoing, I would dismiss the appeal.
+Signed at Ottawa, Canada, this 26th day of February, 2014.
+“E.P. Rossiter”
+Rossiter A.C.J.
+CITATION: 2014 TCC 60
+COURT FILE NO.: 2013-2400(IT)I
+STYLE OF CAUSE: NATHAN ZAILO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: February 7, 2014
+REASONS FOR JUDGMENT BY: The Honourable Eugene P. Rossiter, Associate Chief Justice
+DATE OF JUDGMENT: February 26, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Paige MacPherson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2007 FCA 339.
+[2] See subparagraphs 118.5(1)(a)(i) and 118.5(1)(c)(i) and paragraph 118.6(1)(c) of the ITA.

@@ -1,0 +1,167 @@
+Title: Szlavy c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29390/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-449-29390-szlavy-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-09-09
+
+# Szlavy c. La Reine
+
+- Citation: 2009 CCI 449
+- Decision date: 2009-09-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6881, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Szlavy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-09
+Référence neutre
+2009 CCI 449
+Numéro de dossier
+2007-868(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-868(IT)G
+ENTRE :
+MARTIN SZLAVY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 9 et 10 février 2009 et le 26 mai 2009 à
+Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Selena Sit
+Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000 et 2001 est accueilli sans dépens, et la cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+Signé à Summerside (Île-du-Prince-Édouard), ce 9e jour de septembre 2009.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 4e jour de novembre 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2009 CCI 449
+Date : 20090909
+Dossier : 2007-868(IT)G
+ENTRE :
+MARTIN SZLAVY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] L’appel porte sur les années d’imposition 2000 et 2001. Le ministre du Revenu national (le « ministre ») a procédé à une vérification des années d’imposition de l’appelant au moyen d’une analyse de contrôle indirecte appelée analyse des dépôts bancaires. Cette analyse a entraîné l’inclusion de dépôts bancaires non identifiés à titre de revenus non déclarés dans le revenu de l’appelant, lesquels sont venus s’ajouter au revenu et aux avantages que l’appelant avait déclarés à l’égard de ses activités commerciales dans les déclarations de revenus produites en retard pour chacune de ces années d’imposition. De nombreuses déductions ont également été refusées et des pénalités pour faute lourde ont été imposées.
+[2] Pendant les années d’imposition 2000 et 2001, l’appelant exploitait une entreprise dans le cadre de laquelle il fournissait ses services à titre de cascadeur. Il a témoigné avoir également travaillé comme acteur, mécanicien d’automobile et entrepreneur. L’intimée est d’avis que, au cours des années d’imposition visées par l’appel, l’appelant exploitait des entreprises, outre celle qu’il exploitait pour son travail en tant que cascadeur, c’est‑à‑dire qu’il travaillait dans le domaine de la construction et de la réparation automobile. L’appelant a témoigné qu’il avait bel et bien exploité un atelier de réparation automobile, mais avant la période en litige en l’espèce. Il a également mentionné qu’il avait seulement commencé à travailler dans le domaine de la construction après les années d’imposition 2000 et 2001. L’intimée a soutenu que les activités de l’appelant dans le domaine de l’automobile et de la construction avaient débordé sur les années d’imposition en cause qui ont fait l’objet de l’établissement d’une nouvelle cotisation.
+[3] Pour chacun des emplois qu’il occupait en tant que cascadeur, l’appelant était payé par l’intermédiaire de l’Union of B.C. Performers (l’« Union »), qui avait recours à une entreprise de service de paye appelée TBD Televector. Dans certains cas, l’Union lui versait directement des droits de suite lorsque la diffusion d’émissions cessait, puis reprenait, mais l’appelant a témoigné que les droits qu’il recevait à cet égard étaient minimes. L’intimée a toutefois supposé que l’appelant était payé en espèces pour un grand nombre de ses emplois.
+[4] Pendant les années d’imposition en cause, l’appelant avait quatre comptes bancaires à la HSBC : un compte d’affaires canadien, un compte d’affaires américain, un compte personnel ouvert après son divorce et un compte conjoint qu’il détenait avec son ex‑épouse.
+[5] L’appelant a témoigné avoir créé une société dénommée Picture Car qu’il utilisait essentiellement pour déposer les chèques qu’il recevait principalement pour les cascades qu’il effectuait avec des véhicules dans le cadre de son travail.
+[6] Un des plus grands obstacles auquel l’appelant fait face dans le présent appel est l’absence de documents à l’appui. Pour ce qui est des dépôts bancaires effectués en 2000, l’appelant a témoigné que la difficulté qu’il avait eue à produire les documents de base pour chacun des dépôts découlait du fait que sa banque n’avait pas pu trouver les documents et les lui fournir parce qu’elle avait confié l’entreposage de ces documents à des sous‑traitants. L’appelant a admis que cela nuisait particulièrement à sa cause (Transcription, pages 294‑295) parce qu’il détenait un compte conjoint avec son épouse, qui est maintenant son ex‑épouse, au cours de la même année, soit en 2000. Il a admis que son ex‑épouse faisait aussi des dépôts dans le compte conjoint. De plus, même si l’appelant a expliqué pourquoi il n’avait pas accès à ses renseignements bancaires pour l’année d’imposition 2000, il n’a pas suffisamment étayé de documents les dépôts effectués au cours de l’année d’imposition suivante, soit 2001, alors que sa banque aurait apparemment été en mesure de trouver et de fournir les documents allégués. À ce manque de documentation vient s’ajouter le fait que le témoignage de l’appelant n’était pratiquement pas corroboré et était principalement constitué de souvenirs vagues et imprécis.
+[7] Avant l’audience et au cours de celle‑ci, un grand nombre de concessions et de rajustements ont été faits par l’intimée lorsque l’appelant a produit des états révisés des résultats des activités de son entreprise et modifié les déductions demandées. Par conséquent, comme les montants qui avaient initialement servi pour l’établissement de la nouvelle cotisation ont été rajustés, les montants en litige en l’espèce ont également changé.
+Revenu non déclaré selon l’analyse des dépôts bancaires :
+[8] En ce qui concerne le revenu non déclaré, l’intimée a concédé un montant de 21 963,38 $ pour l’année 2000 et un montant total de 4 605,10 $ pour l’année 2001. Cela signifie que des montants de 34 539,71 $ et de 26 820,90 $ sont encore en litige pour les années 2000 et 2001, respectivement. Le montant concédé de 21 963,38 $ était attribuable à une source non imposable, étant donné qu’il s’agissait d’un montant que l’appelant avait reçu dans le cadre du refinancement de l’hypothèque sur sa maison. Toutefois, après avoir examiné le dépôt du 23 mai 2000, j’ai constaté qu’il était de 26 259,97 $ (Pièce R‑1, onglet 7, page 3) et, d’après le témoignage de l’appelant, il s’agissait du montant accordé pour le refinancement et du moment approximatif où le refinancement a eu lieu (Transcription, page 125). Selon les observations de l’intimée (Transcription, page 251), celle‑ci était prête à concéder le dépôt du 23 mai 2000 parce qu’il correspondait à un montant reçu pour le refinancement de la maison de l’appelant. Aucune explication n’a été fournie concernant l’écart entre les deux montants. J’accorderai donc à l’appelant la totalité du montant de 26 259,97 $, étant donné qu’on ne m’a pas expliqué pourquoi seulement une partie de ce montant est attribuée au refinancement du 23 mai 2000. Cela a pour effet d’augmenter de 4 296,59 $ le montant concédé de 21 963,38 $ et de réduire à 30 243,12 $ le montant inclus dans le revenu de l’appelant pour 2000 (34 539,71 $ (revenu non déclaré en litige pour 2000) moins 4 296,59 $ (montant de refinancement accru)).
+[9] Comme il n’y a pas de documents et qu’aucun témoin n’a été appelé à témoigner pour corroborer les prétentions de l’appelant concernant le reste des dépôts effectués en 2000, à l’égard desquels aucune concession n’a été faite par l’intimée, l’appelant ne s’est pas acquitté du fardeau qui lui incombait. Il n’a traité que d’une petite partie des dépôts pour l’année 2000 et n’a fourni que des explications imprécises et peu convaincantes. Son témoignage à cet égard est ponctué d’expressions comme : [traduction] « le montant semble » (Transcription, page 126), cela [dépôt en espèces de 1 900 $] [traduction] « pourrait être plusieurs choses » (Transcription, page 126), ce dépôt provient [traduction] « possiblement de » (Transcription, page 126), le paiement représente [traduction] « une sorte de chèque » (Transcription, page 126) et [traduction] « il s’agit très probablement de chèques de paye […] je peux seulement avancer des hypothèses […] » (Transcription, page 131). Étant donné la nature du témoignage de l’appelant, je ne suis tout simplement pas disposée à soustraire d’autres montants du revenu imposé de l’appelant pour l’année 2000 en ce qui concerne les dépôts non identifiés de l’année 2000 à l’égard desquels il n’y a pas eu de concession.
+[10] En ce qui concerne les concessions effectuées au sujet du revenu non déclaré pour l’année d’imposition 2001, l’intimée a accepté que divers montants de dépôt totalisant 4 605,21 $ soient rajustés, étant donné qu’il s’agissait de sources de revenus non imposables. Ce total correspondait aux dépôts effectués le 4 mai 2001, le 29 août 2001, le 27 février 2001, le 4 mai 2001 et le 2 mars 2001.
+[11] La situation est quelque peu différente pour le reste des dépôts de 2001 non identifiés que l’intimée n’a pas concédés comparativement aux dépôts de l’année d’imposition précédente parce que l’appelant a appelé Ken Lelek (« M. Lelek ») à témoigner pour corroborer ses explications concernant la provenance des fonds pour certains des dépôts de 2001. Au cours de l’année 2001, M. Lelek a tiré six chèques au nom de l’appelant totalisant 10 300 $. L’appelant a dit que les six montants correspondaient à de l’argent reçu afin d’acheter des matériaux de rénovation pour M. Lelek, à des prêts consentis par M. Lelek et à de l’argent reçu pour acheter des pièces d’automobile et de bateau pour M. Lelek. M. Lelek a corroboré le témoignage de l’appelant à l’égard de ces montants.
+[12] L’intimée est d’avis que l’appelant exploitait une entreprise de construction au cours des années d’imposition 2000 et 2001. L’intimée a fait valoir que la déclaration de revenus de l’appelant pour l’année 2000 (Pièce R‑4) étaye cette thèse parce qu’il ressort de l’état des résultats des activités d’une entreprise dans la déclaration que le principal produit ou service de l’appelant était la construction. L’intimée mentionne également le premier chèque de 1 500 $ daté du 5 janvier 2001 que M. Lelek a fait à l’ordre de l’appelant et sur lequel M. Lelek a écrit « rénovations ». L’intimée soutient donc que ce chèque constitue un paiement effectué pour des travaux de rénovation que l’appelant a exécutés pour M. Lelek dans le cadre de son travail dans le domaine de la construction.
+[13] La position de l’appelant est qu’il n’exerçait pas d’activités de construction pendant les années en cause, même s’il a plus récemment exercé ce genre d’activités. De plus, il a témoigné qu’il n’avait pas pu travailler dans le domaine de la construction pendant la période en cause parce qu’il s’était blessé à l’épaule et qu’il s’était fait opéré pour cette blessure. Selon son témoignage, son comptable, qui avait établi sa déclaration, avait inscrit par erreur le mot [traduction] « rénovations » dans l’espace réservé aux notes sur le chèque et a fait allusion par erreur au fait que la construction pouvait être une source de revenu d’entreprise.
+[14] Le chèque daté du 5 janvier 2001 est le seul chèque qui fait référence à des [traduction] « rénovations ». L’appelant a expliqué qu’il avait reçu le chèque pour acheter des matériaux de rénovation pour M. Lelek, explication qui a été corroborée par M. Lelek. Même si c’était un paiement effectué pour des travaux de rénovation, la preuve révèle qu’il s’agissait d’une opération unique, ce qui ne constitue pas une entreprise. L’intimée n’a pas invoqué d’autres chèques ou dépôts qui pourraient avoir découlé de l’entreprise de construction alléguée. Je suis donc prête à accepter le témoignage de l’appelant selon lequel il n’exerçait pas d’activités de construction pendant la période en cause. Je ne crois pas non plus qu’il exploitait une entreprise de réparation et de vente d’automobiles pendant la période en question. L’appelant a peut‑être vendu quelques automobiles pendant la période (Transcription, pages 353‑355), mais je ne crois pas qu’il exploitait une entreprise pouvant donner lieu à une source de revenu tiré d’une entreprise.
+[15] Même si le témoignage de l’appelant ne me permet pas de dire dans quelle mesure, s’il y a lieu, l’appelant a utilisé les montants reçus de M. Lelek aux fins qu’il a invoquées, la majorité des renseignements figurant dans les relevés bancaires donne seulement à penser qu’un retrait en espèces au guichet automatique bancaire avait été effectué. Je suis donc disposée, compte tenu de la corroboration du témoignage de l’appelant par M. Lelek, à soustraire ces montants du revenu imposé de l’appelant, ce qui aura pour effet de réduire le revenu de l’appelant pour 2001 de 10 300 $ et de le faire passer à 16 520,90 $ (26 820,90 $ – 10 300 $). Je ne suis pas prête à accepter le reste des prétentions de l’appelant concernant les dépôts effectués en 2001. Je n’accepte que ceux totalisant 10 300 $ qui ont été corroborés par le témoignage de M. Lelek. Les autres dépôts ont été décrits comme des remboursements de prêts, la vente d’un aquarium et une traite bancaire, mais aucun document à l’appui ni aucun autre élément de preuve corroborant n’a été fourni à l’appui des vagues affirmations de l’appelant.
+Dépenses dont la déduction a été refusée :
+[16] Lorsqu’il a établi la nouvelle cotisation, le ministre a également refusé d’accorder la déduction de certaines dépenses qui avait été demandée par l’appelant. Pendant l’audience, l’appelant a présenté un état révisé des résultats des activités de son entreprise à l’égard de l’année 2000.
+[17] En ce qui concerne les dépenses dont la déduction a été refusée pour 2000, l’appelant a demandé la déduction des montants suivants qui ont été concédés par l’intimée :
+1) Taxes professionnelles, droits, permis et cotisations – 565,90 $;
+2) Intérêts – 119,10 $;
+3) Frais de bureau – 144,64 $;
+4) Frais comptables, juridiques et autres honoraires professionnels – 472,50 $.
+[18] Pour la déduction au titre de frais de téléphone et de services publics de 1 648,83 $, demandée par l’appelant, l’intimée a concédé la moitié du montant et a considéré que l’autre moitié correspondait à des dépenses effectuées à des fins personnelles. Je crois que c’est raisonnable.
+[19] L’appelant n’a demandé qu’une déduction de 1 621,80 $ pour les fournitures. Toutefois, à la suite d’un examen des reçus, l’intimée a cru qu’il aurait fallu que certains montants comptabilisés dans d’autres catégories soient inclus dans la catégorie des fournitures. Les montants en question ont donc été transférés dans la catégorie des fournitures. Cela explique pourquoi l’appelant n’a rien inscrit dans la catégorie des achats dans son état révisé des résultats des activités de son entreprise pour l’année 2000, le montant approprié de la déduction à demander pour les achats ayant peut‑être été inclus par inadvertance dans la catégorie des contrats de sous‑traitance dont le montant s’élevait à 6 236,27 $. Cela a donné lieu à une concession de 5 625,27 $ pour la catégorie des fournitures, même si le montant révisé pour lequel l’appelant demandait une déduction au titre des fournitures pour 2000 n’était que de 1 621,80 $.
+[20] L’appelant a demandé la déduction de frais de voyage s’élevant à 2 086,02 $ pour l’année 2000, mais en raison de l’absence de documents, l’intimée n’a rien concédé. Du montant total de la déduction demandée, l’appelant a témoigné avoir engagé 1 104,20 $ pour un voyage fait en Hongrie afin de rencontrer un coordonnateur de cascades. Le deuxième montant identifié, qui s’élève à 857 $, a été consigné le 18 décembre 2000. Les deux montants totalisent 1 961,20 $, ce qui laisse un écart de 124,82 $, lequel pourrait être lié à un voyage pour faire de la planche à neige selon l’appelant. Il ressort de la preuve que les activités commerciales de l’appelant exigeaient que celui‑ci engage certains frais de voyage pour se rendre aux endroits où les films étaient tournés et pour rencontrer des coordonnateurs de cascades. Je suis donc prête à accorder à l’appelant les frais de voyage étayés qui s’élèvent à 1 961,20 $, mais je ne suis pas disposée à rajuster davantage les dépenses dont la déduction a été refusée pour l’année 2000 parce que je considère que les concessions faites par l’intimée sont par ailleurs raisonnables. Par conséquent, les dépenses relatives à ces catégories dont la déduction a été refusée pour l’année 2000 seront réduites à 3 182,02 $ (par rapport au montant initial de 5 143,23 $).
+[21] La concession de 3 809,75 $ que l’intimée a effectuée à l’égard des dépenses relatives aux véhicules à moteur pour l’année 2000, alors que l’appelant avait initialement demandé une déduction de 6 148,65 $, est raisonnable compte tenu de l’absence de documents et de la justification générale des assertions.
+[22] L’appelant a également demandé une déduction de 26 446,81 $ au titre de frais d’utilisation de la résidence aux fins de l’entreprise pour l’année 2000 et l’intimée a accepté de déduire 22 878,51 $. Encore une fois, en raison de la nature imprécise du témoignage de l’appelant et du manque de documents ou d’autres éléments de preuve corroborant, cette concession est plus que raisonnable.
+[23] Enfin, pour ce qui est de l’année 2000, dans son état révisé pour l’année, l’appelant a demandé une déduction pour amortissement (« DPA ») de 239,39 $ pour de l’équipement de photographie qui, selon lui, a été utilisé exclusivement à des fins professionnelles. Comme il n’y a aucun document à l’appui ni séquence vidéo permettant d’établir que le caméscope a été utilisé à des fins professionnelles, l’intimée a concédé la moitié de la déduction demandée. Encore une fois, je crois que l’intimée a traité la déduction demandée par l’appelant de façon raisonnable.
+[24] En ce qui concerne les dépenses dont la déduction a été refusée pour 2001, l’intimée a concédé les montants suivants dont l’appelant avait demandé la déduction :
+1) Achats – 1 871 $;
+2) Publicité – 74,63 $;
+3) Taxes professionnelles, droits, permis et cotisations – 655 $;
+4) Frais de bureau – 365,88 $.
+[25] Pour ce qui est de la déduction demandée par l’appelant au titre de frais d’intérêts de 319,58 $ et de frais de téléphone et de services publics de 1 549,71 $, l’intimée a essentiellement concédé la moitié des montants de 319,58 $ et de 1 375,76 $ (l’appelant ayant admit que la déduction demandée au titre des frais de téléphone et de services publics devait être de 1 375,76 $ et non de 1 549,71 $). Compte tenu de la preuve, ces concessions sont raisonnables.
+[26] Pour l’année 2001, l’appelant a également demandé la déduction de frais de repas et de représentation s’élevant à 306,27 $ (la moitié de 612,54 $). Étant donné le genre d’activités commerciales qu’il exerçait et comme il s’agit d’un montant raisonnable, je suis disposée à accorder à l’appelant le montant demandé en m’appuyant sur le même raisonnement que celui que j’ai suivi pour admettre la déduction demandée à l’égard des frais de déplacement pour l’année 2000.
+[27] L’appelant n’a pas été en mesure de produire de documents à l’appui de la déduction des dépenses relatives à un véhicule à moteur de 6 561,59 $ demandée pour 2001. La concession de l’intimée, qui totalise 5 282,26 $, est raisonnable dans les circonstances.
+[28] La déduction révisée demandée par l’appelant à l’égard de l’utilisation de la résidence à des fins commerciales pour 2001 n’est pas contestée, étant donné que l’intimée a concédé la somme de 20 968,71 $.
+Pénalité pour production tardive :
+[29] Même si, aux paragraphes 6 et 8 de la réponse à l’avis d’appel, il est mentionné que les déclarations de revenus pour les années d’imposition 2000 et 2001 ont été produites tardivement, il ressort des commentaires initiaux formulés par l’intimée (Transcription, page 12) que les pénalités pour production tardive sont imposées en application du paragraphe 162(1) et à l’égard de l’année d’imposition 2001 seulement. De plus, l’intimée a souligné que cette pénalité devrait être imposée en fonction du 8 octobre 2003 comme date de production et non pas en fonction du 19 octobre 2004. L’appelant impute à son comptable la production tardive de sa déclaration de revenus et de la pénalité qui en a résulté, mais il n’a pas appelé le comptable à témoigner. Il n’a pas fait grand-chose pour réfuter les hypothèses du ministre à cet égard; il a simplement rejeté le blâme sur d’autres personnes. La pénalité pour production tardive à l’égard de l’année 2001 est justifiée.
+Pénalités pour faute lourde :
+[30] Le ministre a également imposé des pénalités en application du paragraphe 163(2) à l’égard du revenu non déclaré. Le paragraphe 163(2) porte que :
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants […]
+[31] L’intimée s’est fondée sur la décision rendue par la Cour d’appel fédérale dans l’arrêt Lacroix c. La Reine, 2008 CAF 241, 2009 D.T.C. 5029, et plus précisément sur le paragraphe 32, qui est formulé ainsi :
+[…] Dans la mesure où la Cour canadienne de l’impôt est persuadée que le contribuable touche un revenu qu’il n’a pas déclaré et que l’explication offerte par le contribuable pour l’écart constaté entre son revenu déclaré et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de preuve qui lui incombe aux termes du sous‑alinéa 152(4)a)(i) et du paragraphe 162(3).
+[32] L’intimée a présenté les observations suivantes au sujet de l’arrêt Lacroix :
+[traduction]
+[…] en l’espèce où nous avons une analyse des dépôts bancaires non identifiés, si Mme la juge est convaincue, compte tenu de la preuve, que les explications fournies concernant les dépôts inexpliqués ne sont pas satisfaisantes, l’arrêt Lacroix permet donc clairement d’affirmer dans le présent appel que les pénalités pour faute lourde ont été imposées à juste titre.
+(Transcription, page 447)
+[33] Je ne souscris pas à l’interprétation de l’arrêt Lacroix par l’intimée. L’affaire portait principalement sur le paragraphe 152(4) et, dans une moindre mesure, sur des pénalités pour faute lourde imposées en application du paragraphe 163(2). La question en litige dans Lacroix était mentionnée en ces termes au paragraphe 1 :
+[…] Le ministre peut-il conclure, à partir de l’écart entre l’actif d’un contribuable et le revenu qu’il a déclaré dans sa déclaration de revenu, d’une part, et de l’absence d’une explication crédible pour cet écart, d’autre part, à l’existence d’une faute justifiant l’établissement d’une nouvelle cotisation hors délai ou encore l’imposition d’une pénalité?
+(Non souligné dans l’original.)
+[34] La conclusion tirée par la Cour d’appel, qui est énoncée au paragraphe 32 de l’arrêt et sur laquelle se fonde l’intimée, renvoie à la fourniture d’une explication crédible pour l’écart constaté entre le revenu déclaré et l’avoir net (ou l’analyse des dépôts bancaires comme c’est le cas en l’espèce). Je ne crois pas que Lacroix permet d’affirmer, comme le soutient l’intimée, que le simple fait qu’il y a des dépôts inexpliqués justifie l’imposition de pénalités pour faute lourde en application du paragraphe 163(2). La question en litige dans Lacroix à la Cour canadienne de l’impôt portait sur la crédibilité du contribuable qui avait fabriqué des éléments de preuve tout en ayant délibérément omis de déclarer des revenus de l’ordre de 516 000 $. Certains des éléments de preuve présentés à la Cour canadienne de l’impôt étaient en fait considérés comme des trompe‑l’œil visant à masquer la vérité.
+[35] La Cour d’appel fédérale a confirmé la décision de la Cour canadienne de l’impôt et a mentionné ce qui suit dans l’arrêt Lacroix, au paragraphe 26 :
+Bien que le ministre bénéficie des présomptions de fait qui sous‑tendent la nouvelle cotisation, il ne jouit d’aucun avantage semblable pour ce qui est de la preuve des faits justifiant l’établissement d’une nouvelle cotisation hors de la période statutaire, ou encore des faits justifiant l’imposition d’une pénalité en raison de l’inconduite du contribuable dans la production de sa déclaration de revenu. Le ministre est indéniablement dans l’obligation de mettre en preuve les faits justifiant l’invocation de ces mesures exceptionnelles.
+[36] La Cour d’appel fédérale a également cité la décision Farm Business Consultants Inc. v. The Queen, 95 D.T.C. 200, où le juge Bowman (tel était alors son titre) a mentionné ce qui suit à la page 205 :
+Une cour doit faire preuve d’une prudence extrême lorsqu’elle sanctionne l’imposition de pénalités prévues au paragraphe 163(2). Une conduite qui légitime l’établissement d’une nouvelle cotisation à l’égard d’une année frappée de prescription ne justifie pas d’office l’imposition d’une pénalité, et l’imposition systématique de pénalités, par le ministre, est une pratique qui est à déconseiller. Une conduite du genre de celle qui est envisagée au sous‑alinéa 152(4)a)(i) peut, dans certaines circonstances, servir aussi de fondement à l’imposition d’une pénalité prévue au paragraphe 163(2), qui implique la pénalisation d’une conduite plus répréhensible. Dans un tel cas, une cour doit, même en appliquant une norme de preuve civile, étudier soigneusement la preuve et chercher un degré de probabilité supérieur à celui auquel on s’attendrait dans les situations où l’on cherche à établir le bien‑fondé d’allégations moins sérieuses. Par ailleurs, quand une pénalité est imposée en vertu du paragraphe 163(2) même si une norme de preuve civile est exigée, lorsque la conduite d’un contribuable cadre avec deux hypothèses viables et raisonnables, l’une qui justifie la pénalité et l’autre pas, il convient d’accorder le bénéfice du doute au contribuable, et de supprimer la pénalité. Je crois qu’en l’espèce, l’intimée a fait la preuve du degré de probabilité requis, et qu’au vu de la preuve produite, aucune hypothèse incompatible avec celle que l’intimée a avancée ne peut être défendue.
+[37] Je ne crois pas que l’arrêt Lacroix change quoi que ce soit à l’état du droit en ce qui concerne les pénalités prévues au paragraphe 163(2). La disposition utilise l’expression « […] sciemment ou dans des circonstances équivalant à faute lourde ». Ce libellé exige l’existence d’une intention coupable ou d’une négligence. Le paragraphe 163(2), par son libellé même, exige que le contribuable ait eu une intention coupable ou ait fait preuve de négligence en établissant sa déclaration ou en y acquiesçant. Conclure le contraire pourrait entraîner l’imposition de pénalités pour faute lourde dans tous les appels sur l’avoir net rejetés et retourner le fardeau au contribuable. Ce n’est pas le but de cette disposition.
+[38] Je ne crois pas que l’intimée a prouvé que l’appelant a sciemment fourni de faux renseignements dans ses déclarations de revenus. En fait, il est raisonnable de conclure que, si la banque avait pu trouver les documents relatifs à l’année 2000 dont l’entreposage avait été confié à des sous‑traitants, l’appelant aurait eu la possibilité de produire les documents appropriés pour réfuter la totalité ou presque des hypothèses du ministre. À cet égard, le défaut de tenir les registres voulus ne constitue pas, en soi, une faute lourde. Cela ne revient pas non plus à sciemment établir de fausses déclarations ni à y acquiescer. Si les faits avaient été semblables à ceux dans l’affaire Lacroix, je ne crois pas que l’intimée aurait fait le nombre de concessions qu’elle a faites. J’ai également rejeté le point de vue de l’intimée voulant que l’appelant ait exploité deux autres entreprises pendant la période en question. Les problèmes en l’espèce ne découlent pas de questions de crédibilité, ils découlent plutôt d’un manque de documents à l’appui attribuable en partie à l’incapacité de l’appelant d’accéder à ces documents qui sont détenus par sa banque, ainsi qu’à ses souvenirs vagues et imprécis. Les pénalités pour faute lourde seront donc enlevées. Comme les parties ont toutes les deux partiellement eu gain de cause, je ne ferai aucune adjudication des dépens.
+[39] Par conséquent, l’appel est accueilli sans dépens.
+Signé à Summerside (Île-du-Prince-Édouard), ce 9e jour de septembre 2009.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 4e jour de novembre 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2009 CCI 449
+NO DU DOSSIER DE LA COUR :
+2007-868(IT)G
+INTITULÉ :
+Martin Szlavy et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATES DE L’AUDIENCE :
+Les 9 et 10 février 2009 et
+le 26 mai 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 9 septembre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Selena Sit
+Me Raj Grewal
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,186 @@
+---
+title: "Reimer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26190/index.do"
+last_modified: "2004-10-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 674"
+citation2: ""
+neutral_citation: "2004 TCC 674"
+decision_date: "2004-10-06"
+language: "en"
+item_id: "26190"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3921
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:57:11.242000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "64b45142de8b477f2d407da0fe464f5727b80b117405aa6c8945d0d75f959b5f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Reimer v. The Queen
+
+- Citation: 2004 TCC 674
+- Decision date: 2004-10-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3921, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reimer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-06
+Neutral citation
+2004 TCC 674
+File numbers
+2002-340(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-340(IT)I
+BETWEEN:
+REGINALD REIMER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 17, 2004, at Toronto, Ontario, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Craig Maw
+JUDGMENT
+The appeal from an assessment of tax made under the Income Tax Act for the 1996 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to a clergy residence deduction pursuant to paragraph 8(1)(c) of the Act.
+Signed at Ottawa, Canada, this 6th day of October, 2004.
+"Campbell J. Miller"
+Miller J.
+Citation: 2004TCC674
+Date: 20041006
+Docket: 2002-340(IT)I
+BETWEEN:
+REGINALD REIMER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller, J.
+[1] Mr. Reginald Reimer is an Official Worker and career missionary of the Christian and Missionary Alliance in Canada (CMAC). He was employed by the Evangelical Fellowship of Canada (EFC) in full-time administrative service in 1996. For that year, he claimed a deduction in accordance with paragraph 8(1)(c) of the Income Tax Act (the Act) (commonly referred to as the clergyman's residence deduction) in the amount of $13,200. The Respondent denied the deduction on the basis that Mr. Reimer met neither the status or the function test set out in paragraph 8(1)(c). I find that Mr. Reimer did meet both the status and function test.
+Facts:
+[2] The Appellant called as his witnesses four current or retired members of the CMAC: Mr. David Irwin, retired minister; Mr. David Freeman, Vice President of Advancement for the CMAC; Dr. Arnold Cook, President of the CMAC from 1992 to 2000; and Dr. Brian Stiller, President of Tyndale University College and Seminary and President of the EFC from 1983 to 1997. Each of these gentlemen personally knew Mr. Reimer and gave evidence of their relationship. However, before reviewing the specifics of Mr. Reimer's activities in 1996, I shall, based on what I heard from these witnesses, describe in general terms the structure and membership of the CMAC, and how the CMAC is connected to the EFC and to the World Evangelical Fellowship (WEF).
+[3] The CMAC is a religious, evangelical denomination. It recognizes three stages of participation:
+(i) accreditation;
+(ii) licensing; and
+(iii) ordination.
+Individuals are first accredited or approved for placement, though not yet placed. This requires the completion of formal training at a Canadian bible college, Canadian theological seminary or other Christian and Missionary Alliance Bible Colleges or Seminaries. Only accredited individuals can become licensed, which, for a missionary, requires further Bible School studies as well as practical training. Training at a Bible College covered both marriage and funeral services and performance of sacraments generally.
+[4] An individual is licensed as an Official Worker, lay pastor, Christian Worker or Vocational Worker. There are several categories of Official Worker, some of whom are licensed by the national authority of the CMAC and some of whom are licensed by the district authority of the CMAC. So, for example, pastors and associates pastors of churches, ministers of music and ministers in women's ministries are licensed by a district, while missionaries and faculty of officially related post-secondary educational institutions are licensed at a national level. The missionary and pastor otherwise go through the same licensing process. I note that the manual of the CMAC states that women are eligible for a variety of ministries with the exception of senior pastor and ordination. The certificate of Christian Worker and Vocational Worker does not include clergy privileges, which are included for the Official Worker.
+[5] Ordination requires further study, though, according to Mr. Freeman, it is just confirmation that the Church did the right thing in licensing this particular individual as an Official Worker. He suggested that the rights and privileges of an Official Worker and ordained individual are the same; indeed, an Official Worker can perform all the same functions as an ordained individual. The manual describes ordination in the following terms:[1]
+Ordination is the solemn observance whereby representatives of the church corporate, together with the Elders representing the local congregation, set apart and charge those men whom God has called already and equipped for ministry, through the laying on of hands and the offering of prayer for spiritual enduement.
+Senior pastors are either ordained or going through the ordination process.
+[6] The CMAC is currently a member of the EFC and was also a member in 1996. The EFC can best be described as an umbrella organization for over 100 denominations with the following mission:[2]
+In order to promote Christian mission in life and society, the Evangelical Fellowship of Canada is a national movement that purposes to engage an increasingly inclusive participation of evangelicals to accomplish together mission, ministry and witness.
+It is overseen by a council. The CMAC had representation on the council as well as on the Executive Committee of the EFC. Dr. Stiller, former president of the EFC, described evangelism as a Protestant religious community on the renewal side, with a high reliance on the Holy Scriptures, the divinity of Jesus Christ, personal conversion and the responsibility to carry Jesus Christ's deeds into the world.
+[7] The EFC links to the rest of the world through the WEF, the worldwide umbrella organization for evangelical denominations.
+[8] Mr. Reimer described the missionary, the CMAC, the EFC and the WEF as an "organic unity" in terms of their main beliefs, as well as organizationally connected, given members of the CMAC sat on the executive of both the EFC and the WEF.
+[9] I turn now to the specifics of Mr. Reimer's involvement with the CMAC. As indicated at the outset, Mr. Reimer was an Official Worker and career missionary of the CMAC. He has not been ordained in the CMAC. Mr. Reimer has worked extensively as a missionary in South-east Asia.
+[10] According to Dr. Stiller, issues were surfacing in the mid-1990s for the WEF and a candidate was required to assist the WEF. Mr. Reimer, with his relevant missionary background in South-east Asia, was available to fill this assignment, specifically as the Director of the Department of Church and Society for the WEF. It is not clear how this position for Mr. Reimer came to be. Dr. Stiller suggested Mr. Reimer became an employee of the EFC to be seconded to this role with the WEF in cooperation with the appointment by the CMAC. Mr. Reimer was paid by the EFC. Dr. Stiller described the assignment as consistent with the values of the EFC. In a memo of January 21, 1994 Dr. Stiller wrote to the Executive Committee as follows:[3]
+Mr. Reginald Reimer has been assigned to serve the World Evangelical Fellowship under the auspices of EFC.
+His assignment to assist on the world scene flows out of, and is consistent with, section four of our Mission Statement, "Assist individuals and groups in proclaiming the Gospel and advancing Christian values in our nation and around the world".
+EFC has as its purpose in this arrangement, to assist our world body [of which we are a member]. Thus, EFC has designated him, as a staff member to WEF. In this seconding role he will be under the authority of EFC but with specific assignments as per his job description. This ministry project of EFC will report to our Executive Committee as do all other projects.
+[11] Dr. Cook described the "appointment" by the CMAC of Mr. Reimer to the EFC, with an ongoing secondment to the WEF, as of some benefit to the CMAC, to maintain the relationship with other churches of the world, specifically in South-east Asia. He indicated that Mr. Reimer did not report to the CMAC but to the EFC, who appointed him along with the Church.
+[12] Mr. Freeman described how "appointment" works in the CMAC; for example, a local church may interview a candidate for pastor and invite the individual to be pastor: the CMAC then makes the appointment. Similarly, with respect to other organizations, an organization, such as the EFC, may approve and then invite an individual, who is then appointed by the CMAC. Mr. Freeman indicated that in this context Mr. Reimer was appointed to serve the EFC.
+[13] There is no dispute Mr. Reimer's function was in full-time administrative service. Mr. Reimer reported to the EFC with respect to the WEF work, and the EFC would report back to the CMAC. Mr. Reimer also described how he maintained an accountability to the local church in which he was rooted.
+[14] As a missionary, Mr. Reimer's primary focus had always been outside Canada. He had never been asked to perform a marriage or funeral service in Canada, though believed he was licensed as an Official Worker to do so, along with communions and baptisms.
+[15] The EFC and the WEF entered into an Agency Agreement in August 1996 which stated in part:[4]
+1. WEF agrees that:
+(a) it will continue to devote all of its resources, and conduct all of its activities, for the purpose of promoting, advancing and fostering the historic, evangelical doctrines of the Christian faith and Christian values;
+(b) it will use all funds received from EFC and other regional and national evangelical fellowships and associate member bodies for such purposes;
+(c) in particular, if EFC shall provide funding designed as support for any WEF employee engaged in such activities, WEF shall apply such funds toward the salary/benefits of such person, except when otherwise specifically authorized by EFC.
+Analysis
+[16] There are two issues in this appeal: one pertains to Mr. Reimer's status and the other pertains to his function.
+[17] Paragraph 8(1)(c) read as follows for 1996:
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+...
+(c) where the taxpayer is a member of the clergy or of a religious order or a regular minister of a religious denomination, and is in charge of or ministering to a diocese, parish or congregation, or engaged exclusively in full-time administrative service by appointment of a religious order or religious denomination, an amount equal to
+[18] With respect to status, there are two elements in Mr. Reimer's case. First, is there a religious denomination? Second, is Mr. Reimer a regular minister of the religious denomination? There is no issue with respect to the CMAC being a religious denomination - it is. The issue is whether Mr. Reimer was, in 1996, a regular minister of the CMAC.
+[19] With respect to function, again there are two elements in Mr. Reimer's case. First, was he engaged exclusively in full-time administrative service? The Respondent admits that Mr. Reimer was so engaged in 1996. Second, was Mr. Reimer appointed by the CMAC to that role?
+Status
+[20] The Respondent argues that Mr. Reimer was not a regular minister of the CMAC in 1996 as, although he was an Official Worker, the status of Official Worker does not, in and of itself, bestow all the privileges of a regular minister, such as performing all sacraments. The Respondent reasoned that because women can be Official Workers, but cannot become ordained, Official Worker status does not fall within the definition of regular minister. I am not convinced. Mr. Reimer underwent the same training as an Official Worker who serves as a pastor, and can perform all the same functions. Why is he not to be considered a regular minister because he chose a missionary role, as opposed to a pastor, a minister of music or superintendent role? All these individuals are Official Workers, but are licensed for different purposes. All, however, are intended to be in a full-time capacity in their chosen ministry.
+[21] Was Mr. Reimer, as a missionary of the CMAC, a regular minister? It is helpful to consider some of the case law in this regard. Firstly, it is unnecessary that an individual be ordained to be considered a regular minister (see a good summary in the case of Noseworthy v. The Queen,[5] which cited Justice Rip in Hardy v. The Queen,[6] and Associate Chief Justice Bowman in Austin v. The Queen[7]). What is most useful and telling is the practice of the CMAC itself. It is clear from the testimony of all witnesses that Official Workers with missionary status are set apart for placement in ministry and are considered regular ministers.
+[22] Mr. Reimer was not ordained but he was certainly placed in the ministry of the Church in his role as a career missionary. In the case of Hardy, Justice Rip concluded that: "Without the authority to perform all the sacraments or rites of her Church she cannot be said to be a 'regular' minister". Justice Rip did not state the individual must perform all the sacraments, but was more concerned with the authority to do so. Notwithstanding the evidence suggested that women in the CMAC may not have such full authority, and notwithstanding Mr. Reimer did not actually perform all the sacraments in Canada, I find, based on the testimony of the leaders of the Church, that Mr. Reimer had such authority. He did not exercise it in Canada as his duties were primarily overseas in the form of missionary work.
+[23] Although in McGorman et al. v. M.N.R.[8] Associate Chief Justice Bowman was dealing with the issue of whether an organization was a religious order, once he found that it was, he had no hesitation in finding a missionary with such an order qualified for the deduction. I recognize that the issue of status in this case is framed in terms of "a regular minister of a religious denomination", as opposed to a "member of a religious order", but I have difficulty denying a missionary of a religious denomination the qualifying status, if a missionary of a religious order qualifies, even though the former must meet some higher standard of a "regular minister" and not just a "member". I am swayed by the evidence of the Church leaders that, in the CMAC, the licensing of a man as an Official Worker is akin to the designating of a minister in other denominations. I find Mr. Reimer meets the status requirement.
+Function
+[24] As indicated earlier, the issue with respect to function is whether Mr. Reimer was appointed by the CMAC to his role with the EFC, working with the WEF. The Respondent does not deny the CMAC was involved in Mr. Reimer's getting the full-time administrative position, but objects to its being viewed as an "appointment". On occasion, judges, lawyers and administrators of the tax system engage in interpretative hair splitting that leaves taxpayers scratching what little hair they have left on their collective head. Mr. Reimer may have been recommended, commended, designated, placed, selected, allotted, chosen, nominated, seconded or positioned - but was he appointed?
+[25] What exactly does appointment entail? In the case of Fitch et al. v. The Queen,[9] Associate Chief Justice Bowman was clear that a religious denomination can appoint to another organization. Justice Bowman elaborated in considerable detail the connection between the appointing denomination and the recipient organization and concluded that one was "an integral part" of the other. Justice Bowman again raised this requirement of a connection between the denomination appointing and the recipient organization in Kraft et al. v. M.N.R.,[10] where he indicated at paragraph 44:
+I do not think that Mr. Nielsen meets the function test because the administrative service performed by him was not "by appointment of a religious denomination". There is an insufficient nexus between his religious denomination and his appointment to do administrative work by Intercom.
+Is there sufficient connection between the CMAC, the denomination, and the EFC, the entity employing Mr. Reimer? The situation is murky as the full-time administrative position was with the WEF pursuant to what was described as the secondment from the EFC. Should then the nexus extend further to the WEF? There is not the same intimate relationship amongst the three organizations as there was between the two organizations in the Fitch case. While it cannot be said that the CMAC is an integral part of the EFC or the WEF or vice versa, there is definitely a connection. The CMAC is a member of the EFC, an umbrella organization, and clearly had some influence in that organization given the standing of the CMAC officers on the executive of the EFC. Similarly, the EFC was a member of the world organization, the WEF. These organizations shared the beliefs and mission of evangelism.
+[26] There is a further connection between the EFC and the WEF beyond the simple organizational structure of one being an umbrella organization for the other; there was the Agency Agreement of August 15, 1996. This was tendered as evidence of the arrangement pursuant to which Mr. Reimer was seconded to the WEF from the EFC. From a review of paragraphs (a), (b) and (c) of the Agency Agreement (see paragraph 15 of these reasons), it appears that the EFC, by providing the funding for Mr. Reimer to be the Director of Church and Society for the WEF, could demand that the WEF use the funds for that purpose. In effect, the WEF could not decline the services of Mr. Reimer. I find this would constitute sufficient nexus to find the placement by the EFC of Mr. Reimer with the WEF amounted to an appointment. However, the EFC is not the religious denomination - the CMAC is. I must, therefore, explore the nexus between the CMAC and the EFC. There is certainly a connection between the two: the EFC is the umbrella organization, the two organizations share the same beliefs, and there are opportunities for members of the CMAC to serve on the executive of the EFC. But the connection, or nexus, must be something more; it must be one whereby the denomination's choice of an individual to serve the other organization must be paramount. Appointment by a denomination means it is the denomination's call. This does distinguish the appointment from the recommendation, which implies the right of the recipient organization to reject the recommendation. An appointment is final.
+[27] The actual specifics surrounding Mr. Reimer's being put in the position of Director of Church and Society for the WEF, albeit as an employee of the EFC, are just not clear. There was no appointment letter as such, though there was the January 21 memo from Dr. Stiller to the Executive Committee indicating that: "Mr. Reimer has been assigned to serve the WEF under the auspices of the EFC". The memo does not mention how Mr. Reimer came from the CMAC.
+[28] My impression is that the evangelical community of the CMAC, the EFC and the WEF involved individuals who knew one another and worked together. Dr. Stiller, as President of the EFC, testified that Mr. Reimer was available and that he agreed to receive Mr. Reimer's appointment from the CMAC. But it was the CMAC that made the placement. After the CMAC made the appointment, would the EFC have said "no, we do not want Mr. Reimer to fill this position"? No, because the EFC and the CMAC were jointly involved in the process of getting Mr. Reimer. Mr. Reimer was an Official Worker of the CMAC. It was for the CMAC to appoint Mr. Reimer. The EFC might say it wanted Mr. Reimer, but without the CMAC making the appointment, Mr. Reimer would not have been the Director of Church and Society. I conclude that there was sufficient nexus between the CMAC and the EFC. The circumstances were such that Mr. Reimer obtained his full-time administrative position as a result of the appointment by the CMAC, a religious denomination.
+[29] For these reasons, I allow the appeal.
+Signed at Ottawa, Canada, this 6th day of October, 2004.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2004TCC674
+COURT FILE NO.:
+2002-340(IT)I
+STYLE OF CAUSE:
+Reginald Reimer and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 17, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+October 6, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1, page 63.
+[2] Exhibit A-4.
+[3] Exhibit A-3.
+[4] Exhibit R-4.
+[5] [1999] T.C.J. No. 209.
+[6] [1998] 2 C.T.C. 2013.
+[7] 99 DTC 710.
+[8] 99 DTC 699.
+[9] [1999] T.C.J. No. 129.
+[10] 99 DTC 693.

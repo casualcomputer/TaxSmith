@@ -1,0 +1,337 @@
+---
+title: "Mompérousse c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29710/index.do"
+last_modified: "2010-03-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 172"
+citation2: ""
+neutral_citation: "2010 CCI 172"
+decision_date: "2010-03-25"
+language: "fr"
+item_id: "29710"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6215
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:08:26.581000+00:00"
+cases_cited_count: 6
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ea36629193bd01a105bac3e31858a1e64de9433487dfb972206b4a2151f050fa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mompérousse c. La Reine
+
+- Citation: 2010 CCI 172
+- Decision date: 2010-03-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6215, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mompérousse c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-25
+Référence neutre
+2010 CCI 172
+Numéro de dossier
+2008-3233(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3233(IT)I
+ENTRE :
+MAURICE MOMPÉROUSSE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 20 janvier 2010, à Montréal (Québec).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l’intimée :
+Me Simon Olivier de Launière
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005 est accueilli, sans frais, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci-joints.
+Il est ordonné que le droit de dépôt de 100 $ soit remboursé à l’appelant.
+Signé à Ottawa, Canada, ce 25e jour de mars 2010.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2010 CCI 172
+Date : 20100325
+Dossier : 2008-3233(IT)I
+ENTRE :
+MAURICE MOMPÉROUSSE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+INTRODUCTION
+[1] Il s’agit d’un appel portant sur les années d’imposition 2003, 2004 et 2005. Le ministre du Revenu national (le « ministre ») a établi des avis de nouvelle cotisation à l’encontre de Maurice Mompérousse (l’« appelant ») en se basant sur une méthode de cotisation de rechange, soit la méthode de projections.
+[2] En produisant sa déclaration de revenus pour chacune des années d’imposition en litige, l’appelant a déclaré des sommes respectives de 1 095 $, de 2 321 $ et de 5 072 $ à titre de revenu d’entreprise net. Le ministre a procédé aux changements suivants à l’égard des années en litige :
+a) révision du revenu net d’entreprise à des sommes respectives de 14 374 $, de 19 704 $ et de 17 366 $,
+b) établissement, à titre de pénalité pour faute lourde, des sommes respectives de 2 136,23 $, de 2 247,39 $ et de 1 186,70 $.
+[3] Les questions en litige sont de savoir si :
+a) l’appelant a touché les revenus non déclarés mentionnés ci-dessus,
+b) le ministre a établi les conditions donnant droit à l’imposition de la pénalité pour faute lourde,
+c) le ministre s’est acquitté du fardeau de la preuve quant aux faits qui doivent être démontrés pour permettre l’établissement d’un avis de nouvelle cotisation après la période normale de nouvelle cotisation pour l’année d’imposition 2003.
+LES FAITS
+[4] L’appelant est chauffeur de taxi. Il détient un permis T-11 qui lui permet d’exploiter son entreprise dans le centre-ville de Montréal et à Montréal-Nord. Il est propriétaire de sa voiture de taxi, qui a coûté approximativement 45 000 $. Il a financé l’achat de cette voiture à l’aide d’une institution financière. Il est détenteur d’un permis de taxi qu’il a payé environ 56 000 $.
+[5] L’appelant demeure à Laval avec son épouse et leurs quatre enfants. Le couple est propriétaire d’une maison qui a coûté environ 95 000 $.
+[6] Le dossier d’impôt de l’appelant a été choisi pour vérification lors d’un programme de vérification entrepris par l’Agence du revenu du Canada (l’« ARC ») pour l’industrie du taxi.
+[7] La preuve démontre que l’appelant ne tenait pas des livres et des registres comptables adéquats pour son entreprise. L’appelant conserve des notes dans un agenda où il indique le revenu total accumulé durant une semaine de travail en établissant approximativement les recettes brutes à la fin de chaque semaine. Il n’avait fait aucune mention du nombre de voyages avec ou sans passagers, ni du kilométrage, ni des revenus gagnés par course.
+[8] Émilie Bergeron, la vérificatrice de l’ARC chargée de l’examen du dossier de l’appelant, a procédé à une analyse des dépôts bancaires de l’appelant. L’analyse a démontré que l’appelant n’a déposé au compte de l’entreprise qu’une partie des revenus nécessaires pour payer le prêt automobile et l’hypothèque de sa maison. La majorité des dépenses personnelles de l’appelant est payée à même les revenus au comptant de son entreprise. La vérificatrice a procédé à une esquisse de l’avoir net étant donné l’absence de registres adéquats. Ce projet de l’avoir net produit à l’onglet 5 de la pièce I-1 démontre que les revenus familiaux déclarés ne peuvent subvenir aux besoins d’une famille ayant quatre enfants.
+[9] Mme Bergeron a utilisé la méthode de projections afin d’établir la présence de revenus non déclarés. Pour les années d’imposition 2003, 2004 et 2005, le ministre a estimé que l’appelant avait parcouru un kilométrage total de 46 048 km, de 45 668 km et de 43 758 km, respectivement, sur la foi des registres d’entretien mécanique du taxi obtenus de la Société de l’assurance automobile du Québec. Le ministre a également tenu compte des données suivantes pour établir le revenu non déclaré provenant de l’entreprise de l’appelant :
+2003
+2004
+2005
+a)
+kilométrage total
+46 048
+45 668
+43 758
+b)
+moins : kilométrage personnel
+18 419
+18 267
+17 503
+c)
+kilométrage de l’appelant — affaires
+27 629
+27 401
+26 255
+d)
+déplacements avec clients (50 %)
+13 814
+13 700
+13 127
+e)
+taux […] au kilomètre
+1,20 $
+1,30 $
+1,30 $
+f)
+nombre de déplacements (5 km/client)
+2 76[3]
+2 740
+2 625
+g)
+revenus — tarif […] au kilomètre
+13 814 x 1,20 $
+16 577 $
+13 700 x 1,30 $
+17 810 $
+13 127 x 1,30 $
+17 065 $
+h)
+tarif de départ — client
+2,50 $
+2,75 $
+2,75 $
+i)
+pourboires
+10 %
+10 %
+10 %
+[10] L’analyse des données mentionnées ci-dessus a permis au ministre de découvrir des écarts entre le revenu d’entreprise brut déclaré et le revenu d’entreprise net calculé selon la méthode de projections :
+2003
+2004
+2005
+i)
+revenus [selon les] kilomètres [parcourus]
+16 577 $
+17 810 $
+17 065 $
+ii)
+revenus — tarif de départ par client
+2 763 x 2,50 $
+6 907 $
+2 740 x 2,75 $
+7 535 $
+2 625 x 2,75 $
+7 220 $
+iii)
+pourboires
+(16 577 $ + 6 907 $) x 10 %
+2 349 $
+(17 810 $ + 7 535 $) x 10 %
+2 535 $
+(17 065 $ + 7 220 $) x 10 %
+_______
+_______
+2 429 $
+iv)
+revenus bruts d’entreprise révisés
+25 833 $
+27 880 $
+26 714 $
+v)
+moins : revenus bruts d’entreprise déclarés
+13 660 $
+13 040 $
+17 387 $
+vi)
+écart — revenus bruts d’entreprise
+12 173 $
+14 840 $
+9 327 $
+[11] À la suite de l’omission par l’appelant de déclarer la totalité du revenu de son entreprise de taxi, le ministre a établi la pénalité pour faute lourde en se fondant sur le revenu net non déclaré.
+[12] Le ministre a également refusé, à titre de dépenses d’entreprise à l’égard du taxi pour les années en litige, une partie des dépenses de l’appelant parce que son taux d’utilisation du véhicule à des fins personnelles était de 40 % plutôt que de 20 % comme il est mentionné dans les déclarations de revenus :
+2003
+2004
+2005
+i)
+taux révisé à des fins personnelles
+40 %
+40 %
+40 %
+ii)
+dépenses refusées (frais de véhicule [automobile])
+a) 5 530 $ x 20 %
+1 106 $
+b) 12 713 $ x 20 %
+2 543 $
+c) 14 833 $ x 20 %
+2 967 $
+[13] À la suite des calculs ci-dessus, le ministre a procédé aux changements suivants lors du calcul du revenu de l’appelant :
+2003
+2004
+2005
+i)
+revenus bruts d’entreprise non déclarés
+12 173 $
+14 840 $
+9 327 $
+ii)
+dépenses d’entreprise refusées
+1 106 $
+2 543 $
+2 967 $
+13 279 $
+17 383 $
+12 294 $
+ANALYSE
+[14] Il est bien établi en fiscalité canadienne que le ministre peut établir des cotisations arbitraires en employant toute méthode appropriée en tenant compte des circonstances particulières[1]. L’appelant a-t-il touché des revenus non déclarés?
+[15] Dans la présente cause, le kilométrage total parcouru par l’appelant pendant chaque année en litige provient directement de la lecture de l’odomètre qui, aux fins réglementaires, est faite tous les six mois. Les autres données retenues par le ministre proviennent de la réglementation applicable à l’industrie du taxi ou de statistiques établies par la Commission des transports du Québec lors d’une enquête publique ayant pour but de fixer les tarifs applicables à l’île de Montréal et ailleurs au Québec. Les statistiques furent acceptées par les diverses associations qui ont pris part aux débats publics au nom des chauffeurs de taxi à l’île de Montréal. L’appelant n’accepte pas les calculs du ministre, mais n’offre aucune méthode de remplacement à considérer, lui-même étant incapable de préciser le nombre de voyages rémunérés qu’il a faits chaque jour pour son entreprise et les revenus y correspondant.
+Cotisation et nouvelle cotisation (délai de prescription)
+[16] L’expression « période normale de nouvelle cotisation » est définie comme suit au paragraphe 152(3.1) de la Loi de l’impôt sur le revenu (la « LIR ») :
+152(3.1) Période normale de nouvelle cotisation — Pour l'application des paragraphes (4), (4.01), (4.2), (4.3), (5) et (9), la période normale de nouvelle cotisation applicable à un contribuable pour une année d'imposition s'étend sur les périodes suivantes :
+a) quatre ans suivant soit le jour de mise à la poste d'un avis de première cotisation en vertu de la présente partie le concernant pour l'année, soit, s'il est antérieur, le jour de mise à la poste d'une première notification portant qu'aucun impôt n'est payable par lui pour l'année, si, à la fin de l'année, le contribuable est une fiducie de fonds commun de placement ou une société autre qu'une société privée sous contrôle canadien;
+b) trois ans suivant le premier en date de ces jours, dans les autres cas.
+[17] Le sous-alinéa 152(4)a)(i) de la LIR porte sur le délai de prescription pour établir des cotisations :
+152(4) Cotisation et nouvelle cotisation [délai de prescription] — Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu'aucun impôt n'est payable pour l'année à toute personne qui a produit une déclaration de revenu pour une année d'imposition. Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[…]
+[Je souligne.]
+[18] Le juge Bowman (tel était alors son titre) a déclaré dans l’affaire Biros c. La Reine qu’« […] [a]fin de rouvrir l'année frappée de prescription, le ministre a le fardeau d'établir qu'il y a eu présentation erronée des faits […] »[2].
+[19] Le juge Bowie a rappelé ceci dans l’affaire College Park Motors Ltd. c. La Reine[3] :
+20 […] le sous-alinéa 152(4)a)(i) est une disposition réparatrice, et non pénale. Elle concilie la nécessité, pour le contribuable, que son obligation fiscale afférente à une année d'imposition soit arrêtée de façon définitive, avec les exigences propres à un système autodéclaratif faisant en sorte que le fisc ne soit pas empêché d'établir une nouvelle cotisation lorsque, en raison de sa conduite, un contribuable a bénéficié d'une cotisation plus avantageuse que celle qui aurait dû être établie, au mieux, par manque de diligence ou d'attention ou, au pire, par fraude volontaire. La présente espèce, à bon droit, ne relève pas de l'ordre pénal. […]
+[20] Le juge a aussi déclaré que le sous-alinéa 152(4)a)(i) « […] n'a nullement pour objet d'établir une quelconque culpabilité de la part du contribuable. D'autres dispositions de la Loi sont en place pour cela. […] » [4].
+[21] Le juge Tardif a revu la jurisprudence portant sur le sens des expressions « négligence » et « présentation erronée des faits » au sous-alinéa 152(4)a)(i) dans l’affaire Savard c. La Reine[5]. Le juge a cité avec approbation les propos suivants du juge Cardin de la Commission de révision de l'impôt dans l’affaire J.J. Froese v. M.N.R.[6] :
+I do not believe that in this context any inference other than their generally accepted meaning can or should be given to the words "neglect" or "carelessness" which is the contrary of the reasonable care that is ordinarily, usually, or normally given by a wise and prudent person in any given circumstances.
+[22] Le juge Strayer de la Cour fédérale a déclaré ce qui suit dans l’arrêt Venne c. Canada[7] en ce qui a trait au fardeau du ministre :
+[I]l suffit au Ministre, pour invoquer son pouvoir en vertu de l'alinéa 152(4)a)(i) de la Loi, de démontrer la négligence du contribuable, à l'égard d'un ou plusieurs éléments de sa déclaration de revenus au titre d'une année donnée. Cette négligence est établie s'il est démontré que le contribuable n'a pas fait preuve de diligence raisonnable. C'est sûrement là le sens des termes « présentation erronée des faits, par négligence », en particulier avec d'autres motifs comme l'inattention ou l'omission volontaire qui font référence à un degré de négligence plus élevé ou à une mauvaise conduite délibérée.
+[23] Le juge Strayer a conclu que le contribuable n’avait pas fait preuve de diligence raisonnable dans la préparation et la production de ses déclarations de revenus et a noté que « [c]ette conclusion est en partie inspirée par l'importance du revenu non déclaré »[8].
+[24] La Cour d’appel fédérale (la « CAF »), sous la plume du juge Pelletier, a reconnu dans l’arrêt Lacroix c. Canada[9] que dans la grande majorité des cas, le ministre peut difficilement présenter une preuve directe de l’état d’esprit du contribuable lorsqu’il a produit sa déclaration de revenus :
+32 […] Dans la mesure où la Cour canadienne de l'impôt est persuadée que le contribuable touche un revenu qu'il n'a pas déclaré et que l'explication offerte par le contribuable pour l'écart constaté entre son revenu déclaré et l'accroissement de son actif est non crédible, le ministre s'est acquitté du fardeau de preuve qui lui incombe aux termes du sous-alinéa 152(4)(a)(i) et du paragraphe 162(3) [sic].
+[25] Les propos du juge Létourneau de la CAF dans l’affaire Molenaar c. Canada[10] vont dans le même sens que les propos du juge Pelletier dans l’arrêt Lacroix :
+4 À partir du moment où le ministère établi selon des données fiables un écart, substantiel dans le cas présent, entre les actifs d'un contribuable et ses dépenses et où cet écart demeure inexpliqué et inexplicable, le ministère a assumé son fardeau de preuve. […]
+Pénalités
+[26] Le paragraphe 163(2) de la LIR inflige une pénalité au contribuable qui, sciemment ou dans des circonstances équivalant à une faute lourde, fait un faux énoncé ou une omission dans une déclaration de revenus :
+163(2) Faux énoncés ou omissions — Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants : […]
+[27] Le paragraphe 163(3) de la LIR impose au ministre le fardeau de prouver que les circonstances justifiant l’imposition d’une pénalité en vertu du paragraphe 163(2) sont présentes :
+163(3) Charge de la preuve relativement aux pénalités — Dans tout appel interjeté, en vertu de la présente loi, au sujet d'une pénalité imposée par le ministre en vertu du présent article ou de l'article 163.2, le ministre a la charge d'établir les faits qui justifient l'imposition de la pénalité.
+[28] Selon ce qui est prescrit au paragraphe 163(2) et par la jurisprudence, il incombe au ministre d'établir les faits justifiant l'imposition d’une pénalité en vertu du paragraphe 163(2)[11]. Dans l’affaire Corriveau c. Canada[12], le juge Archambault décrit le fardeau du ministre comme suit :
+26 […] le ministre doit prouver : 1) que le contribuable a fait un faux énoncé ou une omission dans une déclaration; 2) que ce faux énoncé ou cette omission a été fait sciemment ou dans des circonstances équivalant à faute lourde.
+[29] Dans l’affaire Venne, le juge Strayer a déclaré, en ce qui a trait au paragraphe 163(2) :
+Il faut se souvenir comme l'a dit le juge Cattanach dans l'affaire Udell (précitée) qu'il s'agit d'une disposition pénale et qu'elle doit être interprétée de façon restrictive. Le paragraphe ne vise évidemment pas à imposer de responsabilité stricte mais il n'autorise les pénalités que si le contribuable a un degré élevé de faute, notamment la connaissance ou la mauvaise conduite insouciante[13].
+[30] Dans l’affaire Morin c. M.R.N. [14], le juge en chef Couture a déclaré ceci :
+Pour échapper aux pénalités prévues aux dispositions du paragraphe 163(2) de la Loi il est nécessaire, à mon avis, que l'attitude et le comportement général du contribuable soient tels qu'aucun doute quant à sa bonne foi et sa crédibilité ne puissent être sérieusement entretenus et cela pendant toute la période couverte par la cotisation […].
+[31] Dans l’affaire Venne, la CAF dit ceci :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi[15].
+[32] Dans l’affaire Farm Business Consultants Inc. c. Canada[16], le juge Bowman a déclaré ceci :
+22 […] Toutefois, si la présentation erronée des faits est attribuable à une « omission volontaire », il est bien plus difficile de conclure qu'il ne s'agit pas également d'un « faux énoncé » que l'appelante a fait « sciemment » au sens du paragraphe 163(2). […]
+Le juge a aussi dit que les expressions « négligence » et « inattention » du sous‑alinéa 152(4)a)(i) sont comprises dans l’expression « faute lourde » du paragraphe 163(2) et que l’expression « omission volontaire » au sous‑alinéa 152(4)a)(i) fait partie implicitement de l’expression « sciemment » au paragraphe 163(2) :
+23 […] Les mots « Négligence, inattention, omission volontaire ou... fraude » (« Neglect, carelessness, wilful default or ... fraud ») englobent une vaste gamme d'omissions ou d'actions fautives, involontaires ou délibérées, auxquelles peut être attribuable une présentation erronée des faits dans une déclaration. Il n'y a aucun hiatus entre les mots de cette série, qui commence par une négligence ordinaire et progresse graduellement jusqu'à la fraude, qui justifieraient l'imposition d'une pénalité en vertu du paragraphe 163(2). Le type de négligence ou d'inattention qu'englobe le sous-alinéa 152(4)a)(i) peut inclure — sans être aussi étendu toutefois — celui qu'envisagent les mots « faute lourde » au paragraphe 163(2) (« gross negligence »), lesquels sous-entendent une conduite caractérisée par un degré de faute à ce point élevé qu'il frise l'insouciance. Il serait difficile de conclure que l'état d'esprit que requiert une « omission volontaire » (« wilful default ») n'est pas le même que celui qui est implicite dans le mot « sciemment » (« knowingly »).
+[33] Dans l’affaire Lacroix[17], la CAF a conclu que le contribuable avait commis une faute lourde. Selon elle, le contribuable n’avait pas expliqué de façon crédible la présentation erronée des faits dans sa déclaration de revenus :
+29 […] En l'instance, le ministre constate un revenu non déclaré qu'il demande au contribuable de justifier. Celui-ci fournit une explication que ni le ministre ni la Cour canadienne de l'impôt ne jugent crédible. Il n'y a donc pas d'hypothèse viable et raisonnable qui pourrait porter le décideur à accorder le bénéfice du doute au contribuable. La seule hypothèse offerte est jugée non crédible.
+30 Les faits en preuve, dans un tel cas, sont que la déclaration de revenu du contribuable fait une présentation erronée des faits et que la seule explication offerte par le contribuable est jugée non crédible. Évidemment, il doit y avoir une autre explication pour ce revenu. Il faut donc conclure que le contribuable a une source de revenu qu'il n'a pas déclarée, qu'il est au courant de cette source et qu'il refuse de la divulguer puisque les explications qu'il a offertes n'ont pas été jugées crédibles. En de telles circonstances, la conclusion que la fausse déclaration de revenu a été produite sciemment ou dans des circonstances équivalant à faute lourde me semble inéluctable. Cela justifie non seulement l'imposition d'une pénalité mais aussi l'établissement de la nouvelle cotisation hors de la période statutaire.
+[34] Ces propos de la CAF dans l’affaire Lacroix résument la conclusion qui s’impose en l’espèce. Le ministre s’est acquitté de son fardeau de la preuve. Le ministre a démontré des écarts entre le revenu d’entreprise brut déclaré par l’appelant et le revenu d’entreprise net calculé selon la méthode de cotisation de rechange. Bien que l’appelant ne reconnaisse pas les calculs du ministre, il n’offre aucune méthode de remplacement fiable. En effet, l’appelant ne tenait pas des livres et des registres comptables adéquats et est donc incapable de préciser le nombre de courses rémunérées qu’il a effectuées pour son entreprise et les revenus y correspondant. L’appelant soutient que son entreprise ne rapportait qu’un faible revenu. Il explique qu’il a acheté son permis d’exploitation d’entreprise de taxi non pas pour le revenu annuel gagné par l’entreprise, mais pour le gain en capital qu’il gagnera à revendre le permis. La Cour doute fortement que le permis gagne de la valeur si l’entreprise n’était pas rentable. Il est aussi peu probable qu’une institution financière aurait consenti à un financement d’approximativement 100 000 $ pour permettre à l’appelant d’exploiter une entreprise de taxi qui, selon celui-ci, lui aurait permis de gagner les faibles revenus nets déclarés.
+[35] L’esquisse de l’avoir net préparée par la vérificatrice démontre que les revenus familiaux déclarés ne peuvent subvenir aux besoins d’une famille ayant quatre enfants. L’appelant n’a pas offert d’explication crédible quant à l’écart entre le coût de la vie de sa famille et les faibles revenus nets déclarés.
+Frais de déplacement
+[36] Dans ses déclarations de revenus pour les années d’imposition 2003, 2004 et 2005, l’appelant a réclamé les sommes respectives de 12 565 $, de 10 719 $ et de 12 315 $ à titre de dépenses pour gagner un revenu d’entreprise. Dans sa déclaration de revenus pour 2003, l’appelant a indiqué que 80 % du kilométrage qu’il avait effectué avec son taxi était pour gagner un revenu d’entreprise. L’appelant a témoigné au procès que ce pourcentage était également applicable en 2004 et en 2005.
+[37] La preuve démontre qu’au cours de la vérification l’appelant a fait à la vérificatrice des observations selon lesquelles l’aller-retour de sa résidence de Laval à Montréal représentait un trajet de 40 km qu’il effectuait cinq jours par semaine, et ce, 48 semaines par année. L’appelant a argumenté que ce kilométrage doit être exclu lors du calcul de son revenu parce qu’il était habilité à servir des clients sur l’île de Montréal seulement. Toutefois, selon l’appelant, il demeure que les dépenses faites pour se déplacer entre sa résidence et l’île de Montréal restent des dépenses d’entreprise parce qu’il utilise sa résidence comme lieu pour garer sa voiture et qu’il y effectue toutes les tâches administratives de son commerce de taxi.
+[38] La preuve démontre que la vérificatrice a traité ce kilométrage pour l’aller‑retour à la maison comme du kilométrage personnel, réduisant ainsi le pourcentage d’utilisation commerciale de 80 % à 60 %. Par conséquent, le ministre a refusé à l’appelant des dépenses de 1 106 $ pour 2003, de 2 543 $ pour 2004 et de 2 967 $ pour 2005. J’estime que le ministre a eu tort de traiter ces dépenses comme des dépenses personnelles. L’outil principal de l’appelant pour gagner son revenu d’entreprise est sa voiture. Il doit garer sa voiture dans un endroit sécuritaire pour s’assurer qu’elle soit disponible le lendemain pour servir des clients. Il ne peut pas exercer son travail sans avoir un lieu sécuritaire pour garer sa voiture afin d’éviter le vol ou des dommages à cette dernière. Par conséquent, j’estime que le kilométrage de l’aller-retour à la maison représente une dépense d’entreprise et non une dépense personnelle. À ce sujet, je note que le bulletin d’interprétation IT‑521R, « Frais de véhicule à moteur déduits par des travailleurs indépendants », prévoit ce qui suit :
+Observations générales
+24. Bien qu'un particulier puisse déduire les frais de déplacement entre différents locaux d'une même entreprise s'il y a droit par ailleurs, il ne peut pas déduire les frais de déplacement entre son domicile et son lieu d'affaires, à moins qu'il ne prouve que son principal lieu d'affaires est son domicile. Si ce particulier a un bureau ou un lieu d'affaires fixe ailleurs, son domicile n'est habituellement pas considéré comme son lieu d'affaires. Le fait qu'il assure tous ses services au lieu d'affaires d'un autre n'en fait pas nécessairement son propre lieu d'affaires. Son domicile peut être son lieu d'affaires, même s'il n'y possède pas de pièce distincte utilisée exclusivement pour gagner le revenu. Le domicile des personnes suivantes pourrait par exemple être considéré comme leur lieu d'affaires :
+[…]
+c) le domicile d'un plombier, d'un électricien ou d'un peintre qui a son bureau chez lui, y garde tout son matériel, n'a pas d'autre lieu d'affaires et fournit ses services à ses clients aux endroits où il doit se rendre pour exécuter ses contrats.
+[Je souligne.]
+[39] Je ne fais aucune distinction légitime entre le cas d’un plombier décrit précédemment et celui de l’appelant. Ce dernier doit garer sa voiture dans un lieu sécuritaire. Il utilise également sa résidence pour accomplir des tâches administratives. Par conséquent, les dépenses faites par l’appelant pour effectuer l’aller-retour au domicile sont des dépenses d’entreprise. Je souligne que cette conclusion n’affectera pas le calcul du revenu de l’appelant, tel qu’il est argumenté par l’avocat de l’intimée. La preuve démontre que l’appelant n’était pas habilité à exploiter son entreprise ailleurs que sur l’île de Montréal.
+CONCLUSION
+[40] Pour tous ces motifs, j’accueille l’appel en partie seulement. Les nouvelles cotisations sont déférées au ministre afin de permettre la déduction des dépenses additionnelles de 1 106 $ pour 2003, de 2 543 $ pour 2004 et de 2 967 $ pour 2005. Tous les autres éléments des nouvelles cotisations demeurent inchangés.
+Signé à Ottawa, Canada, ce 25e jour de mars 2010.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE : 2010 CCI 172
+Nº DU DOSSIER DE LA COUR : 2008-3233(IT)I
+INTITULÉ DE LA CAUSE : MAURICE MOMPÉROUSSE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 20 janvier 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 25 mars 2010
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l’intimée :
+Me Simon Olivier de Launière
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Hsu c. Canada, 2001 CAF 240, paragraphe 22; Richard c. Canada, [1997] A.C.I. no 643 (QL), paragraphes 13 et 15.
+[2] 2007 CCI 248, paragraphe 24.
+[3] 2009 CCI 409.
+[4] Ibid., paragraphe 13.
+[5] 2008 CCI 62.
+[6] Ibid., paragraphe 52, en citant Froese, [1981] C.T.C. 2282, page 2288.
+[7] [1984] A.C.F. no 314 (QL); voir aussi Savard, paragraphe 53.
+[8] Ibid.
+[9] 2008 CAF 241.
+[10] 2004 CAF 349.
+[11] Lacroix, paragraphe 26; Venne, paragraphe 35.
+[12] [1998] A.C.I. no 1122 (QL).
+[13] Note 7.
+[14] [1988] A.C.I. no 108 (QL).
+[15] Note 7.
+[16] [1994] A.C.I. no 760 (QL); confirmée [1996] A.C.F. no 82 (QL).
+[17] Note 9.

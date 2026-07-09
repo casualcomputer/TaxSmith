@@ -1,0 +1,153 @@
+Title: Syrydiuk c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30018/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-520-30018-syrydiuk-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-10-15
+
+# Syrydiuk c. La Reine
+
+- Citation: 2010 CCI 520
+- Decision date: 2010-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7667, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Syrydiuk c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-15
+Référence neutre
+2010 CCI 520
+Numéro de dossier
+2010-766(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-766(IT)I
+ENTRE :
+JEFFREY SYRYDIUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 août 2010, à Toronto (Ontario).
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Alisa Apostle
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 sont rejetés.
+Signé à Ottawa, Canada, ce 15e jour d’octobre 2010.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme ce 29e jour de novembre 2010.
+Marie-Christine Gervais
+Référence : 2010 CCI 520
+Date : 20101015
+Dossier : 2010-766(IT)I
+ENTRE :
+JEFFREY SYRYDIUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s’agit d’un appel d’une cotisation par laquelle le ministre du Revenu national (le « ministre ») a ajouté la somme de 14 971 $ au revenu imposable de l’appelant pour les années d’imposition 2005 et 2006.
+[2] Il s’agit de savoir si l’appelant a reçu un avantage imposable sous la forme de primes d’assurance à l’égard de l’assurance-invalidité payée par son employeur, Vitaid Ltd. (« Vitaid »), au cours des années visées par l’appel.
+[3] L’appelant prend notamment la position selon laquelle la police d’assurance‑invalidité a été achetée au profit de l’employeur; subsidiairement, la police d’assurance faisait partie du régime d’assurance collective contre la maladie ou les accidents de l’employeur, de sorte qu’elle est exonérée de l’impôt en vertu du sous‑alinéa 6(1)a)(i) de la Loi de l’impôt sur le revenu (la « Loi »); et finalement, Vitaid a induit le contribuable en erreur au sujet des incidences fiscales de l’assurance et elle devrait donc être tenue de payer l’impôt exigible.
+[4] L’intimée soutient que les primes relatives à l’assurance-invalidité que l’employeur du contribuable a payées constituent un avantage imposable en vertu de l’alinéa 6(1)a) de la Loi et qu’elles ne sont pas exonérées en vertu du sous-alinéa 6(1)a)(i). L’assurance-invalidité était un avantage conféré au contribuable et tout avantage qu’en retirait l’employeur était accessoire; l’« assurance collective » devrait être définie compte tenu de la législation en matière d’assurance; or, la police du contribuable n’est pas visée par cette définition; un malentendu sur les incidences fiscales n’a pas pour effet d’entraîner une exonération de l’impôt à payer.
+[5] Dans l’ensemble, les faits ne sont pas contestés. Une version révisée des hypothèses de fait, et mes commentaires, figurent ci-dessous.
+[6] Au cours des années visées par les appels, soit en 2005 et en 2006, l’appelant travaillait pour Vitaid. L’appelant déclarait un revenu annuel d’environ 205 000 $ à 225 000 $. Vitaid payait les primes des polices individuelles d’assurance‑invalidité et d’assurance contre les maladies graves de l’appelant. Je crois que Vitaid payait les primes de trois polices d’assurance dirigeants d’entreprise.
+[7] Le ministre nie les prétentions de l’appelant lorsque celui-ci affirme qu’il s’agissait de polices collectives ou de polices types d’assurance contre la maladie ou contre les accidents de Vitaid.
+[8] L’appelant affirme que c’était Vitaid qui bénéficiait du paiement des primes et de la couverture d’assurance en résultant. Il déclare ce qui suit dans son avis d’appel :
+[traduction]
+Selon l’equity, M. Syrydiuk ne devrait pas être redevable des impôts non déclarés pour les années d’imposition 2005 et 2006, étant donné que ces impôts résultaient d’une situation inutilement créée par Vitaid Ltd. au profit de Vitaid Ltd., et ce, à l’insu de M. Syrydiuk, sans que celui-ci y consente et sans qu’il y puisse quoi que ce soit.
+L’avis est rédigé à la troisième personne, mais l’appelant a ajouté ce qui suit :
+[traduction]
+Les présentes polices ont clairement été établies par Vitaid Ltd. et au profit de Vitaid Ltd. Le coût annuel des primes de ces polices s’élevait à plus de 30 000 $ et, sur ce montant, la police d’assurance‑invalidité s’élevait à elle seule à plus de 14 000 $. Au mois de novembre 2002, M. Syrydiuk n’avait pas les moyens d’acheter, ni même d’accepter, l’une ou l’autre de ces polices si les coûts associés lui étaient attribués, étant donné la situation financière précaire dans laquelle il se trouvait et l’absence de relation formelle avec Vitaid.
+Vitaid a également omis, d’une façon délibérée, de communiquer des renseignements au sujet de l’avantage imposable personnel qu’elle avait créé pour M. Syrydiuk et n’a pas révélé que son revenu augmenterait en conséquence lorsqu’elle a décidé d’omettre de déclarer ces avantages fiscaux en préparant les formulaires T4 de M. Syrydiuk pour les années 2005 et 2006 comme l’exige la loi. Ces actes de négligence de la part de Vitaid ont empêché M. Syrydiuk d’être mis au courant de cette pratique répréhensible ou d’exercer un recours. Il importe de noter qu’à part les questions se rattachant à la police d’assurance-invalidité, M. Syrydiuk était mis au courant comme il se doit de tous les autres avantages imposables qui étaient ajoutés à sa rémunération pendant qu’il travaillait pour Vitaid (pièces 5 et 6). Cette anomalie montre que Vitaid a sciemment et délibérément omis de communiquer des renseignements et qu’elle a mis M. Syrydiuk dans une situation inéquitable. sur laquelle celui‑ci n’exerçait aucun contrôle.
+M. Syrydiuk ne devrait pas être redevable des impôts exigibles, des intérêts ou des pénalités étant donné que l’ignorance des faits qui ont donné lieu à une dette fiscale n’est pas assimilable à l’ignorance de la loi.
+[...] Vitaid était tenue de déclarer, de retenir et de verser tous les impôts se rapportant à la présente cotisation et la Cour devrait lui ordonner de le faire.
+De plus, Revenu Canada aurait pu résoudre la question immédiatement dès que les avantages fiscaux non déclarés accordés aux employés ont été découverts lors de la vérification de Vitaid Ltd. en refusant la demande de Vitaid et en exigeant que Vitaid paie les impôts exigibles, les intérêts et les pénalités. Cette mesure aurait empêché de mettre, d’une façon inéquitable, M. Syrydiuk, à son insu, dans une situation qui ne relevait pas de son contrôle, de lui causer des difficultés excessives et de lui faire supporter des frais inutiles au cours de l’année qui vient de s’écouler.
+Vitaid était pleinement au courant des obligations fiscales qu’elle avait créées en désignant M. Syrydiuk comme titulaire de la police d’assurance‑invalidité. La chose a été confirmée à M. Syrydiuk le 20 juillet 2009 lors de la conversation qu’il a eue avec Kent Wooton, de Worthington Financial, l’agent d’assurance qui a vendu les polices à M. Steward/Vitaid en 2002.
+M. Syrydiuk a de toute évidence été pris par surprise lorsque le service de la vérification de l’Agence du revenu du Canada a communiqué avec lui le 8 janvier 2009 (pièce 3), six ans après que les polices eurent été établies. C’était la première fois que M. Syrydiuk était mis au courant de la possibilité qu’un avantage personnel soit créé à cause des polices d’assurance dirigeants d’entreprise achetées par Vitaid en 2002. Au départ, M. Syrydiuk a toujours cru comprendre que ces polices avaient été souscrites au profit de Vitaid et que ces polices particulières ne donneraient pas lieu à un avantage imposable entre ses mains, ce qui est par ailleurs étayé par les faits suivants : [...]
+[9] Les prétentions de l’appelant étaient notamment les suivantes : Vitaid a reçu un avantage par suite de l’achat d’une assurance pour l’appelant ainsi que pour deux employés clés. M. Syrydiuk se reporte au témoignage de M. Wooton, l’agent d’assurance, qui a déclaré que Vitaid avait acheté l’assurance afin de se protéger. L’appelant a invoqué la décision Rachfalowski c. La Reine[1] à l’appui de l’assertion selon laquelle, si c’est l’employeur qui bénéficie principalement de l’avantage, l’avantage ne devrait pas être imposable entre les mains de l’employé. Dans la décision Rachfalowski, la Cour canadienne de l’impôt a conclu que c’était l’employeur qui bénéficiait de l’adhésion au club de golf et qu’il ne s’agissait donc pas d’un avantage imposable entre les mains de l’employé.
+[10] L’appelant se fonde sur le bulletin d’interprétation et sur la circulaire d’information de l’Agence du revenu du Canada (l’« ARC ») à l’appui de la position selon laquelle il est possible de combiner des polices d’assurance individuelles détenues par des employés afin de créer un régime commun. Il se fonde également sur la décision Meyer v. The Queen[2], dans laquelle le contribuable était l’unique employé participant à un régime collectif.
+[11] L’appelant soutient qu’étant donné que Vitaid a créé cette dette fiscale à son insu ou sans son consentement, il devrait être ordonné à Vitaid de la payer.
+[12] L’intimée invoque notamment le critère énoncé par la Cour suprême du Canada dans l’arrêt La Reine c. Savage[3] (tel qu’il a été cité dans l’arrêt Schroter c. Canada[4]) :
+Dans La Reine c. Savage, [1983] 2 R.C.S. 428, la Cour suprême du Canada a statué que le sens des mots « avantages de quelque nature que ce soit » à l’alinéa 6(1)a) était « nettement […] très large » et que les mots « quant à » avaient la portée la plus large possible. Elle a conclu que l’alinéa visait une acquisition matérielle qui conférait un avantage économique, dans la mesure où l’avantage économique ne tombait pas sous le coup d’une exception et où l’acquisition était liée à l’emploi.
+[13] En outre, s’il existe un avantage pour l’employeur lorsqu’une assurance est achetée pour le contribuable, cet avantage est uniquement accessoire. L’avantage principal de la présente police d’assurance était conféré au contribuable.
+[14] En ce qui concerne la position selon laquelle il ne s’agissait pas d’une police collective, le ministre se fonde sur le passage suivant tiré de la décision Plumb v. The Minister of National Revenue[5] :
+[traduction]
+Je suis d’avis que les mots « assurance collective » ont leur sens ordinaire commun, soit un contrat par lequel une assurance est fournie à un certain nombre de personnes individuellement. Un exemple typique est le contrat conclu entre un assureur et un employeur, par lequel une assurance est fournie aux employés de l’employeur.
+[15] L’avocate affirme que la définition suivante tirée de l’ouvrage de Carswell sur le droit des assurances devrait s’appliquer lorsqu’il s’agit de décider si la police en question constitue un « régime d’assurance collective contre la maladie ou les accidents », en vertu du sous‑alinéa 6(1)a)(i) de la Loi :
+[traduction]
+« Assurance collective » Assurance, autre qu’une assurance collective des créanciers et une assurance familiale, par laquelle les vies d’un certain nombre de personnes sont assurées individuellement en vertu d’un seul contrat conclu entre un assureur et un employeur ou une autre personne.
+Les dispositions législatives
+Loi de l’impôt sur le revenu[6]
+6. (1) Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables :
+Valeur des avantages
+a) la valeur de la pension, du logement et autres avantages quelconques qu’il a reçus ou dont il a joui au cours de l’année au titre, dans l’occupation ou en vertu d’une charge ou d’un emploi, à l’exception des avantages suivants :
+(i) ceux qui résultent des cotisations de son employeur à un régime de pension agréé, un régime d’assurance collective contre la maladie ou les accidents, un régime privé d’assurance‑maladie, un régime de prestations supplémentaires de chômage, un régime de participation différée aux bénéfices ou une police collective d’assurance temporaire sur la vie.
+Analyse
+[16] Le premier argument de l’appelant, tiré de ses moyens d’appel, est fondé sur l’equity. L’appelant affirme que [traduction] « [s]elon l’equity, [il] ne devrait pas être redevable des impôts non déclarés ». Il poursuit en plaidant d’une façon détaillée que son impôt additionnel a été créé par Vitaid à son insu et que Vitaid devrait donc être tenue de payer l’impôt. Il est clair que la présente cour n’a pas compétence pour exempter un contribuable de toute responsabilité pour des motifs fondés en equity. La Cour de l’impôt est créée par une loi fédérale. Les dispositions de la Loi peuvent être interprétées, et elles sont interprétées, d’une façon juste et équitable, mais la Cour ne peut rien changer au droit. Il s’agit d’une prérogative du législateur (Grimard c. La Reine[7]).
+[17] Il faut donner une interprétation large à l’expression « autres avantages quelconques », à l’alinéa 6(1)a)[8]. Les avantages ne se limitent pas au salaire qu’une personne tire de son emploi. Dans l’arrêt Hoefele (répertorié sous l’intitulé Krull v. Canada[9]), la Cour d’appel fédérale a conclu que l’aide au paiement des intérêts fournie par l’employeur à l’égard de l’hypothèque d’un employé n’accroissait pas la valeur réelle de la résidence du contribuable et qu’il ne s’agissait donc pas d’un avantage. En l’espèce, les primes de la police n’accroissaient pas la valeur nette de l’appelant, mais de toute évidence, l’appelant en tirerait parti en cas d’invalidité ou de maladie grave. L’épouse de l’appelant, Alexandra, a été désignée à titre de bénéficiaire dans la police d’assurance‑invalidité. L’appelant a consenti à ces polices, au moyen de sa signature, avant qu’elles soient établies. Par conséquent, sur le plan contractuel, il s’agissait de la police de l’appelant. Dans la décision Rachfalowski, le juge Bowman a conclu que c’était principalement 1’employeur qui tirait parti de l’adhésion au club de golf, l’employeur ayant insisté pour que 1’employé l’accepte. En l’espèce, M. Syrydiuk ne savait pas que les primes seraient imposables entre ses mains, mais il était au courant de l’avantage dont il bénéficierait en cas de maladie ou d’accident. Je ne doute aucunement qu’une personne raisonnable ordinaire n’hésiterait pas à conclure que ces primes élevées constituent un avantage personnel pour le contribuable. Je ne dispose pas de suffisamment d’éléments de preuve pour conclure que Vitaid en a bénéficié plus que l’appelant et je ne suis pas convaincu que la chose aurait influé sur la décision.
+[18] Les motifs énoncés dans la décision Mindszenthy v. R.[10] s’appliquent également à M. Syrydiuk. Dans l’affaire Mindszenthy, l’appelant avait acheté une imitation d’une montre Rolex pour une présentation commerciale. L’employeur avait découvert la chose et avait présenté une véritable montre Rolex à l’appelant. La Cour canadienne de l’impôt a conclu que l’appelant avait reçu la montre en sa qualité d’employé, de sorte qu’il s’agissait d’un avantage imposable en vertu de l’alinéa 6(1)a). Le juge en chef Bowman a dit ce qui suit :
+Il [le contribuable] a accepté de bonne foi un cadeau sans en réaliser les incidences fiscales. Peut-être aurait-il refusé le cadeau s’il avait su qu’il était imposable. Au lieu de constituer pour lui un pur avantage, il lui crée une obligation et, sur le plan économique, l’oblige à payer en impôts beaucoup plus qu’il n’aurait payé pour s’acheter une montre.
+[19] J’examinerai maintenant la question de savoir si la police en question est exonérée de l’impôt en vertu du sous-alinéa 6(1)a)(i), qui exempte un « régime d’assurance collective contre la maladie ou les accidents ». Dans l’affaire Meyer, il s’agissait de savoir si un régime d’assurance contre la maladie et les accidents fourni par l’employeur constituait un régime d’assurance collective même si l’employeur n’avait qu’un employé à son service. La cour a conclu que même si elle pouvait conclure que l’employeur avait un régime d’assurance contre la maladie et les accidents, ce régime ne constituait néanmoins pas un régime « collectif ».
+[20] Les remarques suivantes que le juge Cattanach a faites dans la décision Plumb s’appliquent également en l’espèce :
+[traduction]
+Je suis d’avis que les mots « assurance collective » ont leur sens ordinaire commun, soit un contrat par lequel une assurance est fournie à un certain nombre de personnes individuellement. Un exemple typique est le contrat conclu entre un assureur et un employeur, par lequel une assurance est fournie aux employés de l’employeur.
+La police de l’appelant n’est pas visée par cette description. La police de M. Syrydiuk a été conçue pour lui seul; elle n’a pas été créée afin de couvrir un groupe. Je ne puis accepter qu’une police unique s’appliquant à une seule personne puisse être visée par la définition d’une « police collective » (« group policy » en anglais) étant donné que le mot « group » est défini, dans le Canadian Oxford Dictionary 2005, comme [traduction] « un certain nombre de personnes ou de choses considérées ensemble ». La police de l’appelant n’était pas considérée comme s’appliquant à un certain nombre de personnes ou de choses. Il ne s’agissait pas d’une police collective au sens ordinaire du terme.
+[21] Dans son second argument, l’appelant a en outre soutenu que Vitaid n’avait pas augmenté son revenu afin de couvrir l’avantage imposable et qu’elle avait peut‑être bien caché la chose à l’appelant et à l’ARC. Cette question ne concerne que l’appelant et Vitaid. Si, comme l’a dit l’appelant, les actions de Vitaid ont eu pour effet de réduire de beaucoup sa rémunération, l’appelant peut exercer un recours contre son ancien employeur.
+[22] L’appelant était une partie contractante pour ce qui est de la police d’assurance souscrite auprès de La Maritime. L’appelant et son épouse étaient les bénéficiaires désignés. C’est l’appelant, et non Vitaid, qui a signé la police. Le contrat entre l’appelant et La Maritime était de nature privée et Vitaid n’y était pas partie. La preuve n’étaye pas les prétentions de l’appelant lorsqu’il affirme qu’il s’agissait de la police de Vitaid et que c’était Vitaid qui en tirait parti. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 15e jour d’octobre 2010.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme ce 29e jour de novembre 2010.
+Marie-Christine Gervais
+RÉFÉRENCE : 2010 CCI 520
+NO DU DOSSIER DE LA COUR : 2010-766(IT)I
+INTITULÉ : JEFFREY SYRYDIUK
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 24 août 2010
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 15 octobre 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Alisa Apostle
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2008 CCI 258.
+[2] [1977] CTC 2581.
+[3] [1983] 2 R.C.S. 428.
+[4] 2010 CAF 98, par. 16.
+[5] 64 DTC 5145.
+[6] L.R.C. (1985), ch. 1 (5e suppl.).
+[7] 2009 CAF 47.
+[8] La Reine c. Savage, [1983] 2 R.C.S. 425.
+[9] [1996] 1 CTC 131 (C.A.F.) (répertorié sous l'intitulé : Krull v. Canada).
+[10] [1993] 2 CTC 2648.

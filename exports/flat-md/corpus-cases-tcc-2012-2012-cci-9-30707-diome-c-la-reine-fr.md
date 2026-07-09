@@ -1,0 +1,176 @@
+---
+title: "Diome c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30707/index.do"
+last_modified: "2012-02-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 9"
+citation2: ""
+neutral_citation: "2012 CCI 9"
+decision_date: "2012-02-15"
+language: "fr"
+item_id: "30707"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7510
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:47:50.729000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8c8ad3fa4e4458bdf48ebe9d867b1d2f3153a9b9ef99f3e641dec8f539847035"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Diome c. La Reine
+
+- Citation: 2012 CCI 9
+- Decision date: 2012-02-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7510, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Diome c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-02-15
+Référence neutre
+2012 CCI 9
+Numéro de dossier
+2011-307(GST)APP
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-307(GST)APP
+ENTRE :
+LEAH DIOME,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 26 octobre 2011 à Montréal (Québec).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocats de la requérante :
+Me Étienne Retson Brisson
+Me Boriana Christov
+Avocat de l’intimée :
+Me Marc Lesage
+____________________________________________________________________
+ORDONNANCE
+La demande de prorogation de délai en vue de déposer une opposition à l’égard d’un avis de cotisation établi en vertu de la Loi sur la taxe d’accise est rejetée conformément aux motifs de l’ordonnance ci‑joints.
+Signé ce 15e jour de février 2012.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 16e jour de juillet 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2012 CCI 9
+Date : 20120215
+Dossier : 2011-307(GST)APP
+ENTRE :
+LEAH DIOME,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Angers
+[1] Le 16 décembre 2009 ou vers cette date, un avis de cotisation établi en vertu de la Loi sur la taxe d’accise (la « LTA ») du Canada a été envoyé à la requérante. Le 8 avril 2010, une demande officielle de paiement de la dette fiscale a été envoyée à la requérante. Le 3 mai 2010 ou vers cette date, la requérante a engagé un avocat et, le 14 mai 2010, une demande de prorogation de délai en vue de déposer une opposition à l’avis de cotisation a été présentée au ministre du Revenu national (le « ministre »). La demande a été refusée le 6 janvier 2011. La requérante sollicite maintenant la Cour pour qu’elle rende une ordonnance accueillant la demande et déclarant que la demande de prorogation de délai est réputée valide. La présente demande est datée du 27 janvier 2011.
+[2] Une demande en vue d’obtenir une telle ordonnance est accueillie si les conditions énoncées au paragraphe 304(5) de la LTA sont réunies. Ce paragraphe est ainsi libellé :
+(5) Acceptation de la demande – Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 303(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour faire opposition ou présenter la requête en application du paragraphe 274(6);
+b) la personne démontre ce qui suit :
+(i) dans le délai d’opposition par ailleurs imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’opposition est raisonnablement fondée.
+[3] La requérante est membre de la Nation Mohawk et est une Indienne inscrite aux fins de l’application de la Loi sur les Indiens. Elle réside dans la réserve indienne de Kahnawake où elle exploite une entreprise constituée d’un dépanneur et d’une station-service. La requérante est une inscrite selon la LTA depuis 2004‑2005, et le permis d’exploitation de l’entreprise est en son nom.
+[4] En octobre 2008, Jeannot Vachon, un vérificateur de Revenu Québec, a reçu le mandat d’effectuer une vérification de l’entreprise de l’appelante relativement aux versements de la taxe de vente provinciale (la « TVP ») et de la taxe sur les produits et services (la « TPS ») pour l’année 2007 et l’année 2008. À cette époque, la requérante avait l’obligation de produire des déclarations trimestrielles. Aucune déclaration trimestrielle concernant la station‑service n’avait été produite pour 2007 et une seule déclaration avait été produite en 2006. Le vérificateur a communiqué avec la requérante pour lui demander les documents comptables de l’entreprise, et il lui a envoyé une lettre à cet effet. Il n’a reçu aucune réponse, mais la requérante a demandé, en décembre 2008, une prorogation de délai jusqu’à la mi‑janvier 2009 pour pouvoir se conformer à la demande. Les documents demandés n’ont jamais été produits.
+[5] En mai 2009, le vérificateur a envoyé à la requérante une demande officielle de production de documents, mais en vain. En octobre 2009, il a établi une cotisation estimative et l’a envoyée par courrier certifié à la requérante, à la même adresse que celle figurant dans le dossier; cette adresse a été confirmée par la requérante et n’a pas changé au fil des ans. Encore une fois, il n’a reçu aucune réponse de la requérante. Cette dernière est toujours une inscrite selon la LTA, et elle ne produit toujours pas ses déclarations trimestrielles.
+[6] Le 16 décembre 2009, un avis de cotisation a été envoyé à la requérante. Daniel Gagnon, chef du service d’expédition du courrier, a expliqué en détail le processus d’envoi suivi par Revenu Québec à l’égard des avis de cotisation et de tout autre document. Je ne m’attarderai pas à tous les détails de ce processus. Il suffit de dire que je suis convaincu qu’en l’espèce, l’avis de cotisation a été mis à la poste, et qu’il a donc été envoyé à la requérante, à la date d’établissement de la cotisation.
+[7] En mars 2010, le dossier de la requérante a été envoyé à la section chargée du recouvrement à Revenu Québec et, le 10 mars 2010, une lettre de demande de paiement a été envoyée à la requérante. Revenu Québec n’a reçu aucune réponse de la requérante. Le 8 avril 2010, des ordonnances de saisie‑arrêt ont été rendues à l’égard de deux tierces parties pour recouvrer toute somme qu’elles devaient à la requérante. Le 29 avril 2010 et le 10 mai 2010, un avocat agissant pour le compte de la requérante a finalement communiqué avec Revenu Québec pour demander des renseignements concernant les ordonnances de saisie‑arrêt rendues à l’égard des tierces parties et relativement à un relevé de compte. Ces documents, ainsi qu’une copie de l’avis de cotisation, ont été envoyés à l’avocat.
+[8] La mère de la requérante s’occupe de l’exploitation quotidienne de l’entreprise. Lorsque la requérante reçoit du courrier concernant l’entreprise, elle le remet à sa mère. La requérante ne se rappelle pas exactement si elle a été mise au courant de cette affaire étant donné qu’elle traversait une période difficile à l’automne 2010. Elle a certainement donné des documents à sa mère. Elle se rappelle avoir été une inscrite depuis 2004 ou 2005. Elle a rempli une demande d’inscription et elle a déclaré qu’elle devait avoir vu la demande lorsque celle‑ci lui avait été présentée, mais qu’elle ne savait plus quand cela s’était passé. Elle se souvient d’avoir parlé avec le vérificateur qui s’occupait de son dossier et de s’être rendue à son bureau, mais elle ne se rappelle pas avoir eu une quelconque discussion avec lui relativement à une cotisation établie au titre de la TPS.
+[9] L’adresse de la requérante et celle de l’entreprise n’ont pas changé depuis 2008. En décembre 2009, un ami de la requérante ramassait le courrier de cette dernière, l’ouvrait et l’empilait, après quoi la requérante le voyait. La requérante ne sait pas si elle a reçu l’avis de cotisation, mais elle admet qu’elle est consciente du fait que parfois, des lettres provenant de Revenu Québec lui sont envoyées. La requérante ne se rappelle pas avoir reçu la cotisation estimative. Selon son témoignage, la requérante a bel et bien produit des déclarations de TPS et elle reçoit les formulaires utilisés pour effectuer les versements, mais elle ne s’occupe pas des documents concernant la station‑service. Elle ne connaît pas les chiffres de l’entreprise, pas plus qu’elle n’est au courant des ordonnances de saisie‑arrêt rendues à l’égard des tierces parties.
+[10] Comme cela a été mentionné plus tôt, la mère de la requérante s’occupe de l’exploitation quotidienne de l’entreprise. La requérante détient la licence d’achat d’essence pour la station-service. Tout le courrier provenant du gouvernement est acheminé à la requérante, qui le remet à sa mère.
+[11] La mère de la requérante reconnaît avoir reçu pendant l’hiver et le printemps 2010 ce qu’elle appelle des [traduction] « affaires du gouvernement », dont certains documents en français. Elle sait que sa fille a reçu des avis, mais comme elles ne paient pas de taxe dans la réserve et qu’elles n’avaient jamais eu à produire quoi que ce soit auprès de qui que ce soit, le fait de recevoir tous ces documents ne l’a jamais inquiétée. Elle savait, pourtant, que d’autres personnes dans la réserve recevaient aussi des avis et elle a donc retenu les services d’un avocat. C’est à ce moment‑là qu’elle a rejoint, en mai 2010, un groupe qui avait déjà une affaire judiciaire en instance.
+[12] La mère de la requérante soutient que sa fille a choisi de produire ses déclarations de TPS annuellement. La mère reconnaît qu’elle avait produit des déclarations de TPS, mais qu’elle l’avait fait contre son gré. Elle admet qu’elle ne facture pas de taxe sur l’essence, même à des non‑Indiens. Elle a affirmé que, dans la réserve, personne ne s’occupe des taxes étant donné que les Mohawks n’en paient pas. Elle avait eu de graves problèmes de santé en 2010, mais elle avait été capable de continuer à gérer l’entreprise.
+[13] Selon la mère de la requérante, le groupe que sa fille a rejoint après avoir consulté un avocat au printemps 2010 était Jack W. Leclaire et al. Dans l’affaire Jack W. Leclaire et al. c. Québec, la Cour supérieure du Québec avait rendu un jugement le 17 juin 1994 par suite d’une demande interlocutoire présentée par le groupe susmentionné. Il y avait onze requérants, qui étaient tous des Indiens inscrits et qui exploitaient des points de vente d’essence au détail dans les réserves de Kahnawake et de Kanesatake. Chacun des requérants détenait un certificat d’inscription en vertu de Loi sur la taxe de vente du Québec (la « LTVQ »). La LTVQ exige de toute personne qui détient un tel certificat qu’elle perçoive auprès des consommateurs non indiens la TVP sur le carburant et qu’elle la verse au ministre du Revenu du Québec. Des cotisations avaient été établies à l’égard des requérants parce qu’ils ne s’étaient pas conformés à ces exigences, et la province a exigé une garantie relativement aux montants dus par chacun d’eux. Le jugement de 1994 a été rendu en réponse à une demande interlocutoire qui avait été présentée en vue de mettre fin aux mesures de recouvrement prises par le ministre du Revenu du Québec.
+[14] Les requérants ont soutenu que, en raison de leurs droits ancestraux qui sont protégés par les chartes canadienne et québécoise des droits et libertés, ils sont exonérés de toute responsabilité au titre de la Loi concernant la taxe sur les carburants du Québec, de la partie IX de la LTA et de la Loi concernant l’impôt sur la vente en détail du Québec.
+[15] La Cour supérieure a ordonné un sursis de toutes les mesures d’application prises par le ministre du Revenu du Québec, mais à condition que les requérants respectent leur obligation de percevoir et de verser la taxe imposée aux consommateurs de carburant non indiens. La condition est énoncée de la manière suivante :
+Ordonne aux requérants de percevoir et de remettre au ministre du Revenu les taxes imposées en vertu de la Loi concernant l’impôt sur la vente en détail, de la Loi sur la taxe de vente du Québec et de la Loi sur la taxe d’accise aux consommateurs non-Indiens qui se procurent du carburant à leur station-service, et ce, dès le moment où ils recommenceront à exploiter leur commerce de vente au détail de carburant. Des rapports mensuels accompagnés des remises des montants de taxe perçus devront être remis au ministre. Le premier rapport ainsi que les montants de taxe perçus devront être remis au ministre du Revenu le 1er août 1994 et à tous les premiers jours de chaque mois par la suite jusqu’à ce qu’un jugement au fond soit prononcé.
+[16] Le 25 mai 2010, la requérante, Leah Diome, a demandé à la Cour supérieure de rendre un jugement déclaratoire, de suspendre toutes les mesures d’exécution et de joindre sa requête à l’affaire de Jack W. Leclaire et al. pour audition. La preuve ne révèle pas l’issue de la requête, mais il ressort de la pièce A‑3, datée du 7 juillet 2010, que la Cour supérieure du Québec a adopté une directive à l’égard de toutes les parties, directive selon laquelle la gestion des deux affaires était confiée à un seul juge qui devait les entendre ensemble.
+[17] Le premier argument de la requérante concerne une obligation qui incombe au ministre d’accorder la prorogation de délai à la requérante pour qu’elle puisse déposer un avis d’opposition à la cotisation compte tenu du fait qu’elle est Indienne. La requérante se fonde sur l’arrêt Nation haïda c. Colombie-Britannique (Ministre des Forêts) [2004] 3 R.C.S. 511 rendu par la Cour suprême du Canada, dans lequel la cour a établi un cadre général d’application de l’obligation de consultation et d’accommodement de la Couronne avant que les revendications de titre et droits ancestraux soient tranchées. C’est ce que l’on appelle l’honneur de la Couronne. Aussitôt que la Couronne a connaissance de l’existence potentielle d’un droit ancestral revendiqué et dès qu’elle envisage des mesures susceptibles d’avoir un effet préjudiciable sur celui‑ci, la Couronne devrait honorer son obligation de consultation.
+[18] Le contenu et l’étendue de l’obligation de consultation dépendent des circonstances. Dans l’arrêt Delgamuukw c. Colombie‑Britannique, [1997] 3 R.C.S. 1010, la Cour suprême du Canada a fait les observations suivantes, au paragraphe 168 :
+[...] La nature et l’étendue de l’obligation de consultation dépendront des circonstances. Occasionnellement, lorsque le manquement est moins grave ou relativement mineur, il ne s’agira de rien de plus que la simple obligation de discuter des décisions importantes qui seront prises au sujet des terres détenues en vertu d’un titre aborigène. Évidemment, même dans les rares cas où la norme minimale acceptable est la consultation, celle-ci doit être menée de bonne foi, dans l’intention de tenir compte réellement des préoccupations des peuples autochtones dont les terres sont en jeu. Dans la plupart des cas, l’obligation exigera beaucoup plus qu’une simple consultation. Certaines situations pourraient même exiger l’obtention du consentement d’une nation autochtone, particulièrement lorsque des provinces prennent des règlements de chasse et de pêche visant des territoires autochtones.
+[Non souligné dans l’original.]
+[19] À mon avis, l’argument de la requérante selon lequel l’obligation qui lui incombe de percevoir et de verser de la TPS au titre de la LTA constitue une violation de ses droits ancestraux, qui consistent à ne pas être assujetti à une quelconque imposition, doit être l’une des violations les moins graves si une violation des droits ancestraux a bel et bien eu lieu. La LTA n’exige d’un inscrit que la perception de la TPS et le versement du montant ainsi perçu que l’inscrit détient en fiducie. Outre le fait qu’ils entraînent un certain fardeau administratif, la perception et le versement de la TPS ne constituent pas une violation des droits ancestraux ni n’influent sur eux. Il ne s’agit pas, en l’espèce, d’une situation où une dette fiscale réelle est imposée à une personne ayant le statut d’Indien.
+[20] Dans l’arrêt R. c. Adams, [1996] 3 R.C.S. 101, au paragraphe 29, la Cour suprême du Canada a réitéré la position qu’elle avait antérieurement adoptée dans l’arrêt R. c. Van der Peet, [1996] 2 R.C.S. 507 concernant la substance des droits ancestraux. La Cour suprême du Canada a cité le passage suivant tiré de l’arrêt Van der Peet :
+[...] Les droits ancestraux découlent non seulement de l’occupation antérieure du territoire, mais aussi de l’organisation sociale antérieure et des cultures distinctives des peuples autochtones habitant ce territoire. Pour déterminer si le bien-fondé de la revendication d’un droit ancestral a été établi, les tribunaux doivent considérer et les rapports qu’entretient le demandeur autochtone avec le territoire et les coutumes, pratiques et traditions de la société à laquelle il appartient et de la culture distinctive de cette société.[…]
+[21] Je ne crois pas que les circonstances de l’espèce influent de quelque manière que ce soit sur les droits ancestraux comme cela est décrit ci‑dessus, et elles n’obligent donc pas la Couronne à honorer son obligation de consultation.
+[22] À mon avis, l’article 87 de la Loi sur les Indiens n’exonère pas les personnes ayant le statut d’Indien de leur obligation de percevoir et de verser la TPS lorsqu’ils vendent des biens sur le marché ordinaire à des consommateurs non indiens. Si, en effet, elles fournissaient des biens et des services à des personnes ayant le statut d’Indien et qu’elles percevaient la taxe à leur égard, ces mêmes personnes pourraient avoir le droit de demander un remboursement. Dans les arrêts R. v. Johnson, 156 N‑S.R. (2d) 71 (C.A. N‑É.) et Tseshaht Band v. British Columbia, 1992 Carswell 188, 69 B.C.L.R. (2d) 1 (C.A. C‑B.), il a été jugé que le fait de percevoir et de verser des taxes sur les ventes faites au consommateur ne constitue pas en soi le paiement d’une taxe. Dans l’arrêt Tseshaht, (précité), la Cour d’appel de la Colombie‑Britannique a fait les observations suivantes :
+[traduction]
+Selon l’article 87 de la Loi sur les Indiens, les biens meubles d’un Indien ou d’une bande situés sur une réserve sont exempts de taxation, et nul Indien ou bande n’est assujetti à une taxation concernant la propriété, l’occupation, la possession ou l’usage d’un tel bien. Selon le régime de la loi relative à la taxe sur les carburants (Motor Fuel Tax Act) et de la loi de la taxe sur le tabac (Tobacco Tax Act ), la taxe est payable par les « acheteurs » et les « consommateurs », respectivement, lorsque le produit est acheté pour usage personnel. Les dispositions en place, au moyen desquelles les montants égaux à la taxe qui devait être perçue par le détaillant étaient remis au vendeur par l’acheteur dans la chaîne de distribution, ont été conçues pour faciliter l’administration et la comptabilité, mais le paiement d’un tel montant n’était pas en soi le paiement d’une « taxe ».
+[23] Dans les motifs de l’arrêt R. v. Johnson, (précité), le juge Hallett a traité de l’intention du législateur, qu’il a résumée de la manière suivante :
+[traduction]
+Les vendeurs au détail indiens qui vendent des produits du tabac dans des réserves à des non‑Indiens (comme c’est le cas pour M. Johnson) vendent le tabac au même titre que tous les autres vendeurs au détail. M. Johnson, en tant que vendeur au détail, ne bénéficie pas d’exonération au titre de l’alinéa 87(1)b) relativement à des ventes faites à des non‑Indiens étant donné que le législateur ne peut jamais avoir eu l’intention selon laquelle un Indien qui effectue des opérations sur le marché ordinaire, à l’instar de M. Johnson, ne les ferait pas au même titre que les autres Canadiens. M. Johnson, un vendeur au détail qui vend du tabac à des non-Indiens, doit acheter du tabac d’un marchand grossiste et payer un montant équivalent à la taxe imposée au consommateur, à moins qu’il ne dispose d’un quota selon le système des quotas. S’il fait de l’importation, il doit avoir un permis de marchand grossiste. M. Johnson ne s’est pas procuré le tabac en question en tant que consommateur indien dans une réserve, mais en qualité de vendeur au détail qui effectue des ventes à des non‑Indiens.
+[24] Avant de me pencher sur la question de savoir si la requérante a respecté les obligations et conditions énoncées au paragraphe 304(5) de la LTA, je veux simplement insister sur le fait que la Cour a compétence exclusive pour entendre et trancher les renvois et les appels portés devant elle sur les questions découlant de l’application de la partie IX de la LTA. Le paragraphe 12(1) de la Loi sur la Cour canadienne de l’impôt est ainsi libellé :
+La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application de la Loi sur le droit pour la sécurité des passagers du transport aérien, du Régime de pensions du Canada, de la Loi sur l’exportation et l’importation de biens culturels, de la partie V.1 de la Loi sur les douanes, de la Loi sur l’assurance-emploi, de la Loi de 2001 sur l’accise, de la partie IX de la Loi sur la taxe d’accise, de la Loi de l’impôt sur le revenu, de la Loi sur la sécurité de la vieillesse, de la Loi de l’impôt sur les revenus pétroliers et de la Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre, dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle.
+[25] La demande présentée au ministre pour obtenir une prorogation de délai en vue de déposer un avis d’opposition a été faite au titre du paragraphe 303(1) de la LTA dans l’année suivant l’expiration du délai par ailleurs imparti par la partie IX pour faire opposition. La cotisation est datée du 16 décembre 2009 et la demande a été faite le 14 mai 2010.
+[26] L’étape suivante consiste pour la requérante à démontrer que, dans le délai par ailleurs imparti par la LTA pour faire opposition, à savoir le délai de 90 jours suivant la date du 16 décembre 2009, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom ou qu’elle avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête.
+[27] L’avocat de la requérante a soutenu que la requérante et sa mère n’ont pas pu agir en raison de problèmes de santé. Elles ont chacune décrit leurs problèmes de santé, mais elles n’ont pas réussi, dans leur témoignage, à établir comment leurs problèmes de santé les ont réellement empêchées de faire opposition ou de mandater quelqu’un à cet égard. La requérante a admis sans équivoque que tout le courrier reçu relativement à l’exploitation de l’entreprise est remis à sa mère et qu’elle ne s’occupe pas des documents concernant la station‑service. Bien qu’elle ne se rappelle pas avoir reçu la cotisation, elle reconnaît le fait que, parfois, elle reçoit des lettres de Revenu Québec. À mon avis, l’état de santé de la requérante pendant les périodes en question n’aurait pas été un facteur pertinent, compte tenu du fait qu’elle n’exploite pas l’entreprise et qu’elle ne s’occupe pas des documents. De plus, il ressort de la preuve que la mère de la requérante, malgré son état de santé fragile, a continué à diriger et à exploiter l’entreprise au quotidien. Je ne vois donc pas comment l’état de santé de la requérante et de sa mère les aurait toutes les deux empêchées d’agir dans ce cas‑ci ou de mandater quelqu’un pour agir au nom de la requérante. La preuve ne révèle pas non plus que la requérante a mandaté sa mère pour agir en son nom à l’égard de la cotisation.
+[28] Quant à la question de savoir si la requérante avait véritablement l’intention de faire opposition à la cotisation, l’avocat de la requérante a soutenu que la mesure que la requérante et sa mère ont prise en mai 2010 lorsqu’elles ont rejoint le groupe qui avait déposé une demande interlocutoire à la Cour supérieure du Québec montre que la requérante avait véritablement l’intention de faire opposition. Cette mesure peut bien démontrer une intention de la requérante de prendre part au processus judiciaire engagé par ce groupe‑là, mais cette intention n’a rien à voir avec la cotisation établie le 16 décembre 2009; et, quand bien même elle aurait eu quoi que ce soit à voir avec la cotisation, la mesure a été prise en dehors du délai de 90 jours pour faire opposition. De plus, la réaction de la requérante a été motivée par le fait que des demandes officielles de paiement avaient été faites et que des ordonnances de saisie‑arrêt avaient été rendues à l’égard du fournisseur d’essence de la requérante.
+[29] Le défaut d’agir de la requérante durant la période de 90 jours semble compatible avec l’attitude affichée par la requérante à l’égard de Revenu Québec avant l’établissement de la cotisation. Je conclus que la requérante a fait preuve d’indifférence ou de négligence dans son attitude générale relativement à ses obligations découlant de la LTA et particulièrement au regard du dépôt d’une opposition à un avis de cotisation.
+[30] En conséquence, il n’y a rien dans la preuve dont je suis saisi qui me permette de conclure que, à un quelconque moment durant la période de 90 jours, dans laquelle elle aurait pu s’opposer à la cotisation, la requérante avait véritablement eu quelque intention que ce soit de s’opposer à la cotisation. À mon avis, la situation qui nous occupe n’en est pas une où une demande de prorogation de délai en vue de faire opposition à un avis de cotisation doit être accueillie. Il n’est pas nécessaire que j’examine les autres obligations compte tenu des conclusions qui précèdent.
+[31] La demande est donc rejetée.
+Signé ce 15e jour de février 2012.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 16e jour de juillet 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2012 CCI 9
+NO DU DOSSIER DE LA COUR : 2011-307(GST)APP
+INTITULÉ : Leah Diome
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 26 octobre 2012
+MOTIFS DE L’ORDONNANCE : L’honorable juge François Angers
+DATE DE L’ORDONNANCE : Le 15 février 2012
+COMPARUTIONS :
+Avocats de la requérante :
+Me Étienne Retson Brisson
+Me Boriana Christov
+Avocat de l’intimée :
+Me Marc Lesage
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom : Étienne Retson Brisson
+Boriana Christov
+Cabinet : BCF LLP
+Montréal (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,196 @@
+Title: Campbell c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521195/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-170-521195-campbell-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-12-15
+
+# Campbell c. Le Roi
+
+- Citation: 2023 CCI 170
+- Decision date: 2023-12-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5650, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Campbell c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-12-15
+Référence neutre
+2023 CCI 170
+Numéro de dossier
+2022-1303(GST)APP
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2022-1303(GST)APP
+ENTRE :
+MIKE CAMPBELL,
+requérant
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 8 mars 2023, à Kelowna (Colombie-Britannique)
+Devant : l’honorable juge David E. Spiro
+Comparutions :
+Pour le requérant :
+Le requérant lui-même
+Avocate de l’intimé :
+Me Erin Krawchuk
+JUGEMENT
+La demande de prorogation du délai pour interjeter appel des nouvelles cotisations établies en date du 28 mai 2018 pour les dix trimestres de déclaration commençant le 1er juillet 2009 et se terminant le 31 décembre 2011, fondée sur le paragraphe 305(1) de Loi sur la taxe d’accise, est rejetée sans dépens.
+Signé à Toronto (Ontario), ce 15e jour de décembre 2023.
+« David E. Spiro »
+Le juge Spiro
+Référence : 2023 CCI 170
+Date : 20231215
+Dossier : 2022-1303(GST)APP
+ENTRE :
+MIKE CAMPBELL,
+requérant
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Spiro
+[1] Le requérant, M. Mike Campbell, un spécialiste de l’entretien à Kelowna (Colombie-Britannique), demande la prorogation du délai pour interjeter appel des nouvelles cotisations établies sur le fondement de la Loi sur la taxe d’accise (la « LTA ») pour les dix trimestres de déclaration commençant le 1er juillet 2009 et se terminant le 31 décembre 2011.
+Cadre juridique applicable
+[2] Après l’établissement par l’Agence du revenu du Canada (l’« ARC ») d’une nouvelle cotisation, le contribuable visé a 90 jours pour présenter au ministre du Revenu national (le « ministre ») un avis d’opposition s’il souhaite contester la cotisation.
+[3] Si le ministre décide de confirmer la cotisation, il envoie un avis de confirmation. Le contribuable visé a 90 jours après l’envoi de l’avis de confirmation pour déposer un avis d’appel auprès de la Cour.
+[4] À défaut de déposer un avis d’appel auprès de la Cour dans ce délai de 90 jours, un contribuable peut présenter à la Cour une demande de prorogation du délai pour interjeter appel à condition de le faire dans l’année suivant l’expiration du délai de 90 jours. Le respect de ce délai prolongé d’un an est une condition nécessaire, mais non suffisante, pour que la Cour accueille la demande.
+[5] Si la demande est déposée dans le délai d’un an de l’expiration du délai de 90 jours, la Cour vérifie si les autres conditions prévues par la Loi sont réunies. Ces conditions sont les suivantes :
+a) dans le délai de 90 jours, le requérant n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention d’interjeter appel,
+b) il est juste et équitable de faire droit à la demande,
+c) la demande a été présentée dès que les circonstances le permettaient,
+d) l’appel est raisonnablement fondé.
+[6] Il incombe au requérant de démontrer, selon la balance des probabilités, que chacune de ces conditions est remplie. Comme je le mentionne plus haut, la première de ces conditions est que la demande soit déposée dans le délai de prorogation d’un an. J’ai reproduit toutes les dispositions applicables de la LTA à l’annexe « A ».
+[7] Le Parlement a accordé une prorogation de délai additionnelle dans une loi promulguée en réponse à la pandémie de COVID-19 qui a débuté à la mi-mars 2020. En vertu de l’alinéa 6(1)c) de la Loi sur les délais et autres périodes (COVID-19)(la « LDAP »), la période du 13 mars 2020 au 13 septembre 2020 ne doit pas être prise en compte dans la computation du délai prolongé d’un an prévu à l’alinéa 305(5)a) de la LTA.
+Question
+[8] La seule question est celle de savoir si M. Campbell a fait une demande de prorogation du délai pour interjeter appel dans le délai prolongé d’un an prévu par la LTA et la LDAP.
+Affidavit erroné et ajournement de l’audience
+[9] Préalablement à l’audience, l’intimé a déposé un affidavit d’un fonctionnaire de l’ARC. Au début de l’audience, Me Krawchuk, l’avocate de l’intimé, a attiré l’attention de la Cour sur le fait qu’il n’avait pas été tenu compte de l’alinéa 6(1)c) de la LDAP dans l’affidavit. En attirant l’attention de la Cour sur cette erreur dès qu’elle en a pris connaissance, Me Krawchuk a fait honneur à la tradition de déontologie du Barreau.
+[10] J’ai alors décidé d’ajourner l’audience afin de permettre a) à l’intimé de déposer un nouvel affidavit, et b) à M. Campbell de produire des éléments de preuve additionnels en réponse au nouvel affidavit de l’intimé, s’il le souhaitait.
+[11] Avant cela, toutefois, j’ai donné à M. Campbell l’occasion de présenter sa preuve, sans préjudice de son droit de présenter de nouveaux éléments de preuve après la réception du nouvel affidavit de l’intimé. Je présente ci-dessous la chronologie de l’audience :
+Le 8 mars 2023, l’audience a débuté devant moi, à Kelowna (Colombie-Britannique);
+Après le témoignage de M. Campbell, j’ai ajourné l’audience dans l’attente du dépôt et de la signification d’un nouvel affidavit par l’intimé;
+Le 21 mars 2023, l’intimé a déposé et signifié un nouvel affidavit;
+Le 21 juillet 2023, l’audience, qui devait reprendre par conférence téléphonique, a été annulée en raison des problèmes de santé continus de M. Campbell;
+Plus tard le même jour, la Cour a envoyé à M. Campbell une lettre l’invitant à soumettre tout élément de preuve additionnel en réponse au nouvel affidavit au plus tard le 31 août 2023.
+[12] La Cour n’a reçu aucun élément de preuve additionnel produit par M. Campbell, que ce soit avant ou après cette date limite.
+Audience
+[13] M. Campbell n’était pas représenté à l’audience. Il avait auparavant été représenté par Mme Cheryl Butler de l’agence Altogether Tax Inc. Mme Butler a cessé de représenter M. Campbell peu de temps avant l’audience. Il n’a pas été clairement établi en quoi consistait son rôle de conseillère de M. Campbell à divers moments, puisqu’elle n’a pas été citée à comparaître comme témoin.
+[14] Lors de l’audience, M. Campbell a décrit les graves difficultés personnelles qu’il vivait depuis 2009, notamment d’importants problèmes de santé chroniques. Il a expliqué pourquoi il estimait que les nouvelles cotisations étaient erronées. À son avis, le ministre avait correctement établi ses cotisations d’impôt sur le revenu qu’il tirait de son entreprise pendant les années d’imposition visées. Le problème tenait aux nouvelles cotisations de taxe nette établies par le ministre pour les périodes de déclaration correspondantes. Le requérant affirme que les cotisations de la taxe sur les produits et services (TPS) établies par le ministre étaient incompatibles avec les cotisations d’impôt sur le revenu établies par le ministre. Il m’a demandé d’accueillir sa demande afin qu’il puisse contester les nouvelles cotisations de TPS devant la Cour.
+Conclusions de fait
+[15] Je tiens les faits suivants du nouvel affidavit déposé par l’intimé le 21 mars 2023, qui n’a pas été contesté, et j’en tire les conclusions suivantes, par inférence :
+Le 28 mai 2018, l’ARC a établi une nouvelle cotisation en vertu de la LTA à l’égard de M. Campbell pour dix périodes de déclaration commençant le 1er juillet 2009 et se terminant le 31 décembre 2011.
+Le 25 juillet 2018, M. Campbell a déposé des avis d’opposition aux nouvelles cotisations de TPS.
+Le 4 juillet 2019, le ministre a envoyé à M. Campbell un avis confirmant les nouvelles cotisations de TPS. L’avis de confirmation informait M. Campbell qu’en cas de désaccord avec la décision du ministre de confirmer les nouvelles cotisations, M. Campbell pouvait interjeter appel auprès de la Cour dans les 90 jours de la date de l’avis de confirmation.
+Le 2 octobre 2019, le délai de 90 jours imparti à M. Campbell pour déposer un avis d’appel visant les nouvelles cotisations auprès de la Cour a expiré.
+Le 2 octobre 2020, le délai prolongé d’un an pour demander à la Cour une prorogation du délai d’appel aurait expiré, n’eût été l’alinéa 6(1)c) de la LDAP en vertu duquel la période du 13 mars 2020 au 13 septembre 2020 n’est pas prise en compte dans la computation du délai prolongé d’un an.
+Le 2 décembre 2020, M. Campbell a demandé à l’ARC de procéder à certains redressements de ses déclarations de TPS concernant les périodes de déclaration visées par les nouvelles cotisations établies le 28 mai 2018.
+Le 17 mars 2021, l’ARC a envoyé à M. Campbell dix lettres identiques a) rejetant sa demande d’ajustement de sa déclaration de TPS pour chacune des périodes de déclaration et b) relevant que l’ARC avait déjà établi des cotisations pour ces périodes de déclaration et suggérant à M. Campbell de déposer un avis d’opposition à ces cotisations dans les 90 jours de la date de l’avis de cotisation.
+Le 6 avril 2021, compte tenu de l’alinéa 6(1)c) de la LDAP, le délai prolongé imparti à M. Campbell pour demander à la Cour une prorogation du délai pour interjeter appel des nouvelles cotisations établies le 28 mai 2018 a expiré.
+Le 22 septembre 2021, M. Campbell a déposé des avis d’opposition au rejet par le ministre de ses demandes de redressement.
+Le 8 novembre 2021, l’ARC a informé M. Campbell qu’elle ne pouvait pas accepter les avis d’opposition récemment déposés par M. Campbell puisque le ministre avait déjà confirmé les nouvelles cotisations établies le 28 mai 2018 par l’avis de confirmation du 4 juillet 2019. L’ARC a ajouté que M. Campbell pouvait [Traduction] « demander à la Cour de proroger le délai pour interjeter appel ».
+Le 16 mai 2022, M. Campbell a demandé à la Cour de proroger le délai pour interjeter appel.
+Analyse
+[16] Il s’agit d’une triste histoire. Le 2 décembre 2020, M. Campbell a demandé à l’ARC de redresser ses déclarations de TPS pour des périodes de déclaration qui avaient déjà fait l’objet de nouvelles cotisations. On ne sait pas trop quel rôle a joué sa conseillère, Mme Butler, concernant la présentation de cette demande tragiquement mal avisée, mais, en tout état de cause, une telle demande constituait – à cette étape – une grave erreur. Au lieu de présenter des demandes de redressement de ses déclarations de TPS (qui avaient déjà fait l’objet de nouvelles cotisations, qui avaient elles-mêmes déjà étaient confirmées), il aurait dû déposer une demande de prorogation du délai pour interjeter appel auprès de la Cour.
+[17] L’ARC a ensuite inutilement compliqué les choses. Tout d’abord, par dix lettres, identiques en tout point, sauf pour la période de déclaration, envoyées à M. Campbell le 17 mars 2021, et dans lesquelles l’ARC a informé celui-ci du rejet de sa demande de redressement de la déclaration de TPS produite pour chacune des périodes de déclaration. L’ARC a également rappelé qu’une cotisation avait déjà été établie pour chaque période de déclaration. Cependant, elle a ensuite fait une déclaration scandaleusement trompeuse dans les circonstances en écrivant à M. Campbell :
+[Traduction] Si vous souhaitez vous opposer à la cotisation établie par voie de vérification, vous pouvez faire opposition auprès de votre bureau des services fiscaux local. Votre avis d’opposition ou d’appel doit être déposé dans les 90 jours de la date de l’avis de cotisation que vous contestez.
+[18] Cette suggestion était mal avisée puisque l’ARC savait que M. Campbell avait déposé des avis d’opposition aux nouvelles cotisations plusieurs années auparavant (le 25 juillet 2018). L’ARC savait également qu’elle avait déjà confirmé ces avis de cotisations (le 4 juillet 2019). Enfin, l’ARC savait que le délai imparti pour M. Campbell pour demander à la Cour de proroger le délai pour interjeter appel courait.
+[19] Pour couronner le tout, l’ARC a écrit à M. Campbell le 8 novembre 2021 pour lui suggérer de demander à la Cour une prorogation du délai pour interjeter appel. On peine à le croire, mais l’ARC a fait cette absurde suggestion sept mois après l’expiration du délai dont disposait M. Campbell pour ce faire.
+[20] Bien que les déclarations de l’ARC aient été inexactes sur le plan juridique, la Cour n’a pas le pouvoir de proroger les délais prévus par la loi à la lumière de telles déclarations. La Cour a récemment examiné les principaux précédents sur la question dans la décision Adams v. The King, 2023 CCI 86, par. 20 à 25 [Notes de bas de page omises.] :
+[Traduction] [20] Dans la décision Waldron c. La Reine, notre Cour s’est prononcée sur le délai de deux ans prévu par la Loi sur la taxe d’accise pour le dépôt d’une demande de remboursement pour habitation neuve dans une affaire dans laquelle une fonctionnaire de Revenu Canada (le prédécesseur de l’ARC) avait fait une déclaration concernant le délai pour le dépôt de la demande qui n’était pas entièrement exacte. La requérante n’a pas agi dans le délai pour le dépôt de la demande, car elle s’est fiée à cette déclaration.
+[21] S’appuyant sur le raisonnement du juge Bowman, plus tard juge en chef, dans la décision Goldstein c. La Reine, le juge Sarchuk a conclu que le délai accordé par la Loi sur la taxe d’accise s’appliquait malgré la déclaration de droit inexacte faite par Revenu Canada et le fait que l’appelante s’y était fiée :
+[5] L’appelante est d’avis que le ministre est préclus de modifier sa position et qu’il est lié par la déclaration de faits d’une fonctionnaire de Revenu Canada. Cette déclaration est décrite au paragraphe 16 de l’exposé des faits admis qui est libellé comme suit :
+[TRADUCTION] 16. […] que Linda Saunderson a affirmé aux appelants à deux reprises que le délai pour présenter la demande de remboursement était de deux ans à compter de la date à laquelle les travaux sont achevés en grande partie; elle ne les a en aucun temps avisé que le délai était de deux ans suivant soit le jour où les travaux sont achevés en grande partie ou le jour où ils ont occupé pour la première fois la maison, la première de ces éventualités étant retenue. [Les caractères gras sont de moi.]
+[…]
+[7] La question de la préclusion a été examinée dans un certain nombre d’affaires, et le principe qu’on peut généralement en dégager est qu’aucune déclaration portant sur une interprétation de la loi par un fonctionnaire ou un agent de l’État ne peut lier la Couronne pour le motif qu’a admirablement bien exposé le juge Bowman de la C.C.I. dans l’affaire Goldstein v. The Queen [96 DTC 1029, à la page 1034] :
+On dit parfois que la préclusion n’est pas recevable contre la Couronne. Cette affirmation n’est pas exacte et semble provenir d’une mauvaise application du terme préclusion. Le principe de la préclusion lie la Couronne, tout comme d’autres principes de droit. La préclusion du fait du comportement, telle qu’elle s’applique à la Couronne, comprend des déclarations de faits de fonctionnaires de la Couronne sur lesquelles le sujet s’est fondé et en fonction desquelles il a agi, à son détriment. La doctrine n’a aucune application lorsqu’une interprétation particulière d’une loi a été communiquée à un sujet par un fonctionnaire de l’État, que le sujet s’est fondé sur cette interprétation à son détriment et que le gouvernement a ensuite retiré ou modifié l’interprétation. Dans un tel cas, un contribuable cherche parfois à invoquer la doctrine de la préclusion. Ce n’est pas approprié non pas parce que ces déclarations donnent lieu à une préclusion qui ne lie pas la Couronne, mais plutôt parce qu’aucune préclusion ne peut se poser lorsque de telles déclarations ne sont pas conformes au droit. Bien que la préclusion soit maintenant un principe de droit positif, elle prend son origine dans le droit de la preuve et, en tant que telle, se rapporte aux déclarations de faits. Elle n’a aucun rôle à jouer lorsque des questions d’interprétation du droit sont en cause, car la préclusion ne peut déroger au droit.
+[8] Compte tenu de ce qui précède, il est évident que la préclusion peut s’appliquer si un fonctionnaire de l’État a fait une déclaration de faits sur laquelle l’appelante en l’espèce s’est fondée et en fonction de laquelle elle a agi, à son détriment [Voir The Queen v. Langille, 1977 CanLII 3183 (CF), 77 DTC 5086.]. La question à trancher en l’espèce est celle de savoir si les renseignements fournis par Mme Saunderson au mari de l’appelante constituaient une déclaration de faits ou de droit.
+[9] La déclaration faite par la fonctionnaire de l’État, Linda Saunderson, portait sur le paragraphe 256(3) de la Loi, tel qu’il était alors libellé; elle n’était pas entièrement exacte, mais l’appelante s’est fondée sur cette déclaration, à son détriment. Plus particulièrement, la déclaration montre que la fonctionnaire n’a pas précisé qu’aux termes de la disposition législative la personne qui demande un remboursement doit présenter sa demande dans les deux années suivant soit la date à laquelle la résidence est occupée pour la première fois soit celle où la propriété est transférée, comme il est précisé au sous-alinéa 2d)(ii) de la Loi. Cela, à mon avis, entre dans la catégorie de l’interprétation du droit, et la question de la préclusion ne se pose donc pas.
+[Non souligné dans l’original.]
+[22] La décision de notre Cour dans l’affaire Casey c. La Reine est tout aussi pertinente. Dans cette décision, le juge Hamlyn était saisi d’une demande en vue d’obtenir la prorogation du délai imparti pour interjeter appel devant notre Cour, conformément à la Loi. En l’espèce, le délai pour déposer un avis d’appel avait commencé à courir au moment de l’envoi par Revenu Canada d’un avis de ratification au requérant en réponse à l’avis d’opposition de celui-ci. Dans l’affaire Casey, le requérant n’avait pas convenu de la ratification de la cotisation et surtout, sa compréhension était que Revenu Canada procédait toujours à l’examen de son opposition. Revenu Canada avait laissé croire au requérant que ses rouages administratifs tournaient encore et qu’il n’était donc pas nécessaire de déposer un avis d’appel.
+[23] S’appuyant à nouveau sur le raisonnement du juge Bowman dans la décision Goldstein, la Cour a rejeté l’argument de la préclusion soulevé par le requérant :
+[19] La prétention du requérant selon laquelle la préclusion résultant du comportement s’applique à son cas est erronée. Dans l’arrêt Can. Superior Oil Ltd. c. Paddon-Hughes Development Co. Ltd., [1970] R.C.S. 932, le juge Martland déclare aux pages 939 et 940 que trois facteurs doivent être présents pour que le principe de la préclusion puisse s’appliquer : il doit y avoir une affirmation, ou une conduite y équivalant, qui a pour but d’inciter la personne à qui elle a été faite à adopter une certaine ligne de conduite; l’action ou l’omission de cette personne doit résulter de l’affirmation; et, finalement, l’action ou l’omission doit causer un préjudice à la personne. Le requérant n’a pas présenté de preuve montrant que ces exigences étaient satisfaites.
+[20] Même si ces exigences avaient été satisfaites, la théorie de la préclusion s’applique uniquement aux affirmations portant sur les faits et non à celles portant sur le droit [Voir la décision Goldstein v. The Queen, 96 DTC 1029 (C.C.I.).].
+[21] Une affirmation des fonctionnaires de Revenu Canada selon laquelle il n’était pas nécessaire de déposer un avis d’appel dans le délai imparti par l’article 169 constituait une affirmation portant sur le droit à laquelle la théorie de la préclusion ne s’applique pas.
+[Non souligné dans l’original.]
+[24] Je conclus que par sa lettre du 23 octobre 2018, et lors des conversations téléphoniques qu’elle a eues par la suite avec M. Adams, l’ARC a porté celui-ci à croire qu’il n’était aucunement nécessaire pour lui de s’opposer aux nouvelles cotisations établies à son égard pour les années 2016 et 2017, puisque l’ARC procédait toujours à l’examen ou au réexamen de ses demandes de redressement de son T1. Je conclus que, ce faisant, l’ARC a fait des déclarations de droit inexactes.
+[25] Malheureusement pour M. Adams, les enseignements des décisions Goldstein, Waldron et Casey vont tous dans le même sens : les délais prévus par la loi doivent être appliqués nonobstant les déclarations de droit inexactes faites par l’ARC, même lorsque le contribuable s’y est fié à son détriment.
+[21] Fort malencontreusement, le 17 mars 2021, un peu plus de deux semaines avant l’expiration du délai prolongé d’un an, l’ARC a suggéré à M. Campbell de déposer des avis d’opposition. L’ARC aurait plutôt dû l’informer qu’il avait à peine plus de deux semaines pour demander à la Cour de proroger le délai pour interjeter appel. La raison pour laquelle elle ne l’a pas fait est un mystère.
+[22] Je compatis grandement avec M. Campbell. Toutefois, le rôle de la Cour concernant la présente demande se limite à déterminer s’il a déposé sa demande dans le délai prévu par la Loi. Bien qu’il puisse être injuste ou inéquitable dans les circonstances d’appliquer les délais promulgués par le Parlement, je n’ai pas d’autre choix. Il ne me reste qu’à citer la fin des motifs de la juge Lafleur, dans la décision Pietrovito c. La Reine :
+[86] Finalement, voici mes dernières observations : aucune considération d’impartialité ou d’équité ne peut aider l’appelant étant donné que la Cour est une cour créée par la loi. Comme on l’a expliqué dans la décision Odebala-Fregene, précitée [2015 CCI 44] :
+22 Compte tenu de la nature spécialisée du régime prévu par la Loi et du fait que la Cour a été créée par la loi, les exigences en matière d’équité ne s’appliquent pas. Dans ses observations, l’avocat de l’intimée fait référence à l’arrêt Chaya c Canada, 2004 CAF 327, 2004 DTC 6676 (CAF), dans lequel la Cour d’appel fédérale a souligné que la Cour n’a pas compétence pour déroger au délai pour des raisons d’équité. Au paragraphe 4 de la décision, le juge d’appel Rothstein (tel était alors son titre) a déclaré ce qui suit :
+4 […] Elle ne peut pas déroger aux dispositions législatives pour des raisons liées à l’équité. S’il estime que la Loi est inéquitable, le demandeur doit avoir recours au Parlement et non pas à la Cour.
+Conclusion
+[23] En vertu de l’article 306 de la LTA, M. Campbell disposait d’un délai de 90 jours à compter de la date de confirmation des nouvelles cotisations (le 4 juillet 2019) pour interjeter appel devant notre Cour. Ce délai de 90 jours a expiré le 2 octobre 2019.
+[24] En application de l’alinéa 305(5)a) de la LTA, M. Campbell aurait eu jusqu’au 2 octobre 2020 pour déposer une demande de prorogation du délai pour interjeter appel devant la Cour, mais ce délai a été prorogé jusqu’au 6 avril 2021 par l’effet de l’alinéa 6(1)c) de la LDAP. Malheureusement, ce n’est que le 15 mai 2022 que M. Campbell a déposé sa demande de prorogation auprès de la Cour.
+[25] M. Campbell n’ayant pas déposé sa demande dans le délai prescrit par le Parlement, la Cour n’a pas le pouvoir de proroger le délai pour interjeter appel. Comme l’a écrit le juge Tardif dans la décision Banque Nationale du Canada c. La Reine :
+[5] Quant aux délais prévus par l’article 305 de la Loi, il s’agit là de délai de rigueur. Peu importe les motifs ou les explications qui peuvent être soumis, le non-respect est fatal et, cette Cour n’a pas l’autorité pour accorder une prorogation lorsqu’une demande lui est soumise après l’expiration des délais prévus.
+[26] Compte tenu de ce qui précède, la Cour n’a d’autre choix que de rejeter la demande de prorogation du délai pour interjeter appel des cotisations établies le 28 mai 2018 pour ses dix trimestres de déclaration commençant le 1er juillet 2009 et se terminant le 31 décembre 2011, présentée par M. Campbell sur le fondement du paragraphe 305(1) de la LTA.
+Postface
+[27] Les choses auraient-elles été différentes si l’ARC n’avait pas suggéré à M. Campbell, le 17 mars 2021, de déposer des avis d’opposition, mais lui avait plutôt rappelé qu’il ne lui restait qu’un peu plus de deux semaines pour déposer une demande de prorogation du délai pour interjeter appel auprès de la Cour? Nous ne le saurons jamais. Ce que nous savons, c’est que l’ARC a fait des déclarations de droit d’une flagrante inexactitude à M. Campbell quelques semaines avant l’expiration du délai qui lui était imparti pour demander une prorogation à la Cour.
+[28] L’ARC était-elle en droit de percevoir les montants figurant sur les nouvelles cotisations? La réponse est oui. Mais qu’elle choisisse d’exercer ce droit dans les circonstances est une autre histoire – une histoire à l’égard de laquelle la Cour n’a d’autre choix que de garder le silence.
+Signé à Toronto (Ontario), ce 15e jour de décembre 2023.
+« David E. Spiro »
+Le juge Spiro
+Annexe « A »
+Délai de 90 jours pour déposer un avis d’appel de cotisations établies en vertu de la Loi sur la taxe d’accise
+301(1.1) La personne qui fait opposition à la cotisation établie à son égard peut, dans les 90 jours suivant le jour où l’avis de cotisation lui est envoyé, présenter au ministre un avis d’opposition, en la forme et selon les modalités déterminées par celui-ci, exposant les motifs de son opposition et tous les faits pertinents.
+***
+301(3) Sur réception d’un avis d’opposition, le ministre doit, avec diligence, examiner la cotisation de nouveau et l’annuler ou la confirmer ou établir une nouvelle cotisation.
+301(4) Le ministre peut confirmer une cotisation sans l’examiner de nouveau sur demande de la personne qui lui fait part, dans son avis d’opposition, de son intention d’en appeler directement à la Cour canadienne de l’impôt.
+301(5) Après avoir examiné de nouveau ou confirmé une cotisation, le ministre fait part de sa décision par avis envoyé par courrier recommandé ou certifié à la personne qui a fait opposition à la cotisation.
+***
+306 La personne qui a produit un avis d’opposition à une cotisation aux termes de la présente sous-section peut interjeter appel à la Cour canadienne de l’impôt pour faire annuler la cotisation ou en faire établir une nouvelle lorsque, selon le cas :
+a) la cotisation est confirmée par le ministre ou une nouvelle cotisation est établie;
+b) un délai de 180 jours suivant la production de l’avis est expiré sans que le ministre n’ait notifié la personne du fait qu’il a annulé ou confirmé la cotisation ou procédé à une nouvelle cotisation.
+Toutefois, nul appel ne peut être interjeté après l’expiration d’un délai de 90 jours suivant l’envoi à la personne, aux termes de l’article 301, d’un avis portant que le ministre a confirmé la cotisation ou procédé à une nouvelle cotisation.
+Délai d’un an pour déposer une demande de prorogation du délai pour déposer un avis d’appel de cotisations établies en vertu de la Loi sur la taxe d’accise
+305(1) La personne qui n’a pas interjeté appel en application de l’article 306 dans le délai imparti peut présenter à la Cour canadienne de l’impôt une demande de prorogation du délai pour interjeter appel. Cette cour peut faire droit à la demande et imposer les conditions qu’elle estime justes.
+***
+305(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai d’appel par ailleurs imparti;
+b) la personne démontre ce qui suit :
+(i) dans le délai d’appel par ailleurs imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+RÉFÉRENCE :
+2023 CCI 170
+NO DU DOSSIER DE LA COUR :
+2022-1303(GST)APP
+INTITULÉ :
+MIKE CAMPBEL c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Kelowna (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 8 mars 2023
+MOTIFS DU JUGEMENT :
+l’honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 15 décembre 2023
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui-même
+Avocate de l’intimé :
+Me Erin Krawchuk
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+S. O.
+Cabinet :
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,101 @@
+Title: Osei-Yaw v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29571/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-627-29571-osei-yaw-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-12-15
+
+# Osei-Yaw v. The Queen
+
+- Citation: 2009 TCC 627
+- Decision date: 2009-12-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6327, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Osei-Yaw v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-12-15
+Neutral citation
+2009 TCC 627
+File numbers
+2009-2823(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2823(IT)I
+BETWEEN:
+MICHAEL OSEI-YAW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 8, 2009, at Montreal, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dany Leduc
+____________________________________________________________________
+JUDGMENT
+The appeal from assessments made under the Income Tax Act with respect to the Appellant’s 2006 and 2007 taxation years is dismissed.
+Signed at Ottawa, Canada, this 15th day of December 2010.
+"Patrick Boyle"
+Boyle J.
+Citation: 2009 TCC 627
+Date: 20091215
+Docket: 2009-2823(IT)I
+BETWEEN:
+MICHAEL OSEI-YAW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] Mr. Osei-Yaw has appealed the reassessments of his 2006 and 2007 taxation years under the Court’s Informal Procedure.
+[2] In 2006, and again in early 2007, Mr. Osei-Yaw withdrew funds from his registered retirement savings plans (“RRSPs”). It was his intention that the withdrawals would be part of the Home Buyers’ Plan provisions of the Income Tax Act (the “Act”) which permit tax-free withdrawals when certain conditions are met.
+[3] The only question in this case is whether Mr. Osei-Yaw intended to occupy the house which he bought in early 2007 with the RRSP proceeds within one year from the dates of the withdrawals.
+[4] Mr. Osei-Yaw withdrew approximately $20,000 from his RRSPs. He used the money towards a down payment on a triplex rental property on Ile Perrot. The purchase closed in February 2007 at which time a written notice of the change of landlord was given to the tenants to ensure the proper receipt of the rents. No notices to terminate were given to tenants at that time.
+[5] At that time Mr. Osei-Yaw and his wife were living in a rented home on Terrasse St-Roch in Montreal.
+[6] The taxpayer testified that he had originally intended for him and his family to occupy the third floor unit which was the largest of the three. He said two things caused him to change his mind shortly after the purchase. First, the third floor tenant was handicapped and would need more time to find a new apartment. Secondly, when he surprised his wife with the new house, she indicated she had no desire to live on Ile Perrot.
+[7] According to Mr. Osei-Yaw he then decided he should occupy the basement apartment. He said he asked Ms. McGregor, the basement tenant, to leave several times orally in meetings with her. He said that she always wanted to postpone the departure date and was clearly reluctant to leave. In cross-examination he said he thought she was also handicapped and suffering from mental disorders so he thought she too may need more time.
+[8] In December 2008, Mr. Osei-Yaw gave final written notice for the termination of Ms. McGregor’s lease at the end of June 2009.
+[9] In March 2009, Mr. Osei-Yaw gave notice to his Montreal landlord that he did not intend to renew that lease. His wife continues to live in the Terrasse St‑Roch home under some arrangement with the landlord which may or may not involve Mr. Osei-Yaw.
+[10] Mr. Osei-Yaw testified that he moved into the basement apartment of his Ile Perrot triplex in early July 2009 once Ms. McGregor had moved out. His wife continues to live in the Terrasse St-Roch home. Mr. Osei-Yaw works nights. Before going to work he goes to the Terrasse St-Roch home where his wife will have prepared dinner. After work he said he goes to his Ile Perrot home to sleep since his wife would have already left for work. His weekend time seems to be centered around spending time with his wife at the Terrasse St-Roch home.
+[11] Ms. McGregor was called as a witness by the Crown. She categorically denied that she had ever been asked to leave or told her lease would be terminated before receiving the written notice of December 2008. She certainly did not appear to be mentally or otherwise handicapped. She said she was not aware that any other tenant was handicapped.
+[12] I am not satisfied on the evidence before me that, at the time Mr. Osei-Yaw withdrew the amounts from his RRSPs, he intended to begin to use the Ile Perrot property as a principal place of residence within a one year period. I have only Mr. Osei-Yaw’s testimony to that effect and there is no supporting evidence to corroborate that was his intention at any time before December 2008 until he gave written notice to terminate the lease.
+[13] I do not accept Mr. Osei-Yaw’s version of the events on this point. Ms. McGregor testified he had not told her before December 2008 that he wanted to terminate the lease and I accept that. Mr. Osei-Yaw was aware throughout that he could terminate her lease on six month’s notice. He could not provide much detail of any of their discussions about terminating the lease or vacating. His December 2008 notice was after he had been reassessed on the basis the RRSP withdrawals did not qualify under the Home Buyer’s Program. It appears he raised the issue of Ms. McGregor being mentally handicapped to better align with his previous written submissions to Canada Revenue Agency about being sympathetic to a handicapped tenant he described as the upstairs tenant. His explanation that he and his wife now have separate homes is certainly possible but, it is noted, also conveniently fits the facts and desired outcome. His wife did not testify.
+[14] All of these problems with the state of the evidence before me leaves me unable to be satisfied, even on a balance of probabilities, that Mr. Osei-Yaw had an intention to live in the Ile Perrot building within a year of his 2006 and 2007 RRSP withdrawals.
+[15] The appeal is dismissed.
+Signed at Ottawa, Canada, this 15th day of December 2009.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2009 TCC 627
+COURT FILE NO.: 2009-2823(IT)I
+STYLE OF CAUSE: MICHAEL OSEI-YAW v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: December 8, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: December 15, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dany Leduc
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

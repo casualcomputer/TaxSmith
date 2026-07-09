@@ -1,0 +1,171 @@
+---
+title: "Yang c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26477/index.do"
+last_modified: "2004-04-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 268"
+citation2: ""
+neutral_citation: "2004 CCI 268"
+decision_date: "2004-04-15"
+language: "fr"
+item_id: "26477"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3161
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:35:29.629000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "59f609236e5271fa91a7bb9c9ae394f1c601e4f92b734b6eb1def470c9670aa1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Yang c. La Reine
+
+- Citation: 2004 CCI 268
+- Decision date: 2004-04-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3161, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yang c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-15
+Référence neutre
+2004 CCI 268
+Numéro de dossier
+2003-1488(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2003-1488(IT)I
+ENTRE :
+CHIU-CHENG YANG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu par M. le juge François Angers à
+Vancouver (Colombie-Britannique), le 26 février 2004.
+Comparutions :
+Pour l'appelant :
+M. Hector Wong
+Avocat de l'intimée :
+Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+Les appels de cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1996 et 1997 sont rejetés conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 15e jour d'avril 2004.
+« François Angers »
+J.C.C.I.
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL.L.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2004CCI268
+Date : 20040415
+Dossier : 2003-1488(IT)I
+ENTRE :
+CHIU-CHENG YANG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers, C.C.I.
+[1] Ces appels portent sur les années d'imposition 1996 et 1997. L'appelant s'est vu imposer des arriérés d'intérêts et des pénalités pour production tardive à l'égard d'impôts impayés pour les deux années d'imposition. En établissant ainsi une nouvelle cotisation à l'égard de l'appelant, le ministre du Revenu national (le ministre) s'est fondé sur les dispositions des paragraphes 161(1), 161(7), 162(1) et 162(11) de la Loi de l'impôt sur le revenu (la Loi).
+[2] L'appelant est arrivé au Canada à titre d'immigrant en 1989. Il exploitait une entreprise d'aménagement immobilier par l'entremise de deux sociétés possédées en propriété exclusive : Gen Hwa Enterprises Ltd. et Shun Gen Developments Ltd. C'est dans le cadre d'une vérification de ces deux sociétés que certains faits ont été découverts, lesquels ont abouti à une vérification de l'impôt sur le revenu personnel de l'appelant pour les deux années d'imposition. Il a en fait été découvert que le revenu de location des deux sociétés avait été déposé dans le compte bancaire personnel de l'appelant et que l'appelant avait également un revenu non déclaré provenant de deux maisons dont il était personnellement propriétaire. L'appelant a fait l'objet d'une cotisation en vertu du paragraphe 15(1) de la Loi à l'égard des deux années d'imposition.
+[3] L'appelant n'a pas produit de déclarations de revenu pour les deux années d'imposition visées par l'appel et il n'en a pas non plus produit pour les années 1998, 1999 et 2000. Le vérificateur a rencontré le représentant de l'appelant le 4 octobre 2001; il a été informé que l'appelant avait subi des pertes autres qu'en capital à l'égard de la perte déductible au titre d'un placement d'entreprise (la PDTPE) de 1998. Une demande a été faite par écrit le 20 février 2002 pour que ladite perte autre qu'en capital soit reportée aux années 1996 et 1997 ainsi qu'à l'année 1999 afin de ramener le revenu imposable à zéro. Étant donné que le représentant de l'appelant n'avait pas à sa disposition les formulaires T-1 nécessaires pour préparer les déclarations de revenu de l'appelant relatives aux années 1996 à 2000, il a été convenu que le vérificateur préparerait les documents se rapportant aux cinq années ici en question. La cotisation est datée du 3 juin 2002 et la date de production est le 6 mars 2002.
+[4] Le revenu de location non déclaré et les sommes attribuées à l'actionnaire pour les années d'imposition 1996 et 1997 s'élèvent à 82 170 $ et à 123 176 $ respectivement. Le 15 octobre 2002, le ministre a établi une nouvelle cotisation à l'égard des années d'imposition 1996 et 1997 afin de permettre que des pertes autres qu'en capital de 82 170 $ et de 123 176 $ pour chaque année d'imposition respectivement soient reportées rétrospectivement depuis l'année d'imposition 1998. La date de report utilisée était le 27 septembre 2002. L'appelant s'est également vu imposer des arriérés d'intérêts et des pénalités pour production tardive.
+[5] Le 28 octobre 2002, l'appelant a déposé des avis d'opposition pour les deux années d'imposition. Le 26 février 2003, le ministre a établi une nouvelle cotisation à l'égard des années d'imposition 1996 et 1997 de l'appelant afin de rajuster le solde des arriérés d'intérêts sur les impôts et les pénalités pour production tardive en utilisant le 8 mars 2002 au lieu du 27 septembre 2002, soit la date initialement utilisée, afin de mettre fin à l'accumulation des pénalités pour production tardive et des intérêts imputables à ces années.
+[6] L'appelant ne conteste pas la nouvelle cotisation fondée sur le revenu non déclaré pour les deux années d'imposition. Ses appels se rapportent aux pénalités pour production tardive et aux intérêts calculés sur les impôts impayés qui ont été établis pour les deux années d'imposition. L'appelant demande à la Cour de réduire le montant des intérêts et des pénalités pour production tardive ou d'y renoncer complètement. Le représentant de l'appelant soutient qu'il n'était pas nécessaire de produire des déclarations de revenu pour les deux années d'imposition puisqu'il n'y avait pas de revenu à déclarer initialement et que, par la suite, même s'il y avait un revenu, les pertes reportées sur une année antérieure avaient pour effet d'annuler les impôts exigibles. Cela étant, aucune pénalité pour production tardive et aucun intérêt ne devraient être imposés. Le représentant de l'appelant affirme que le ministre aurait dû procéder plus tôt à la vérification et que la date à laquelle les intérêts et pénalités pour production tardive devaient cesser de s'accumuler devrait être la date à laquelle l'appelant a soumis ses pertes reportées sur une année antérieure, à savoir le 4 octobre 2001. Il déclare que l'appelant devrait être traité équitablement.
+Intérêts
+[7] Le paragraphe 161(1) de la Loi prévoit qu'un contribuable doit payer des intérêts après la date d'exigibilité du solde pour une année d'imposition sur l'excédent :
+Dans le cas où le total visé à l'alinéa a) excède le total visé à l'alinéa b) à un moment postérieur à la date d'exigibilité du solde qui est applicable à un contribuable pour une année d'imposition, le contribuable est tenu de verser au receveur général des intérêts sur l'excédent, calculés au taux prescrit pour la période au cours de laquelle cet excédent est impayé :
+a) le total des impôts payables par le contribuable pour l'année en vertu de la présente partie et des parties I.3, VI et VI.1;
+b) le total des montants représentant chacun un montant payé au plus tard à ce moment au titre de l'impôt payable par le contribuable et imputé par le ministre, à compter de ce moment, sur le montant dont le contribuable est redevable pour l'année en vertu de la présente partie ou des parties I.3, VI ou VI.1.
+[8] Dans le cas qui nous occupe, l'excédent est en fait le montant total des impôts payables par l'appelant pour les deux années d'imposition visées par l'appel étant donné qu'aucun impôt n'a de fait été payé avant la date d'exigibilité du solde. Les intérêts ont donc été calculés à compter de la date d'exigibilité du solde, soit à compter du 30 avril de l'année d'imposition suivante pour chaque année (voir la définition de la date d'exigibilité du solde au paragraphe 248(1)). Le représentant de l'appelant affirme qu'aucun impôt n'était payable par suite de l'utilisation des pertes reportées sur une année antérieure, mais le paragraphe 161(7) de la Loi prévoit que la déduction de pertes reportées sur une année antérieure utilisée afin de réduire l'impôt sur le revenu d'une année d'imposition antérieure n'influe pas sur le calcul des intérêts jusqu'au trentième jour suivant le dernier en date de quatre jours possibles. Le paragraphe 161(7) est rédigé comme suit :
+Pour le calcul des intérêts à verser en application des paragraphes (1) ou (2) sur l'impôt ou sur une partie d'un acompte provisionnel pour une année d'imposition et pour l'application de l'article 163.1 :
+a) l'impôt payable par le contribuable pour l'année en vertu de la présente partie et des parties I.3, VI et VI.1 est réputé égal au montant qui serait payable si les conséquences de la déduction ou de l'exclusion des montants suivants n'étaient pas prises en compte :
+(i) un montant déduit, en application de l'article 119, relativement à une disposition effectuée au cours d'une année d'imposition ultérieure,
+(ii) un montant déduit, en application de l'article 41, à l'égard de la perte relative à des biens meubles déterminés que le contribuable a subie pour une année d'imposition ultérieure,
+(iii) un montant exclu de son revenu pour l'année, en application de l'article 49, à l'égard de la levée d'une option au cours d'une année d'imposition ultérieure,
+(iv) un montant déduit, en application de l'article 118.1, à l'égard d'un don fait au cours d'une année d'imposition ultérieure ou, en application de l'article 111, à l'égard d'une perte subie pour une année d'imposition ultérieure,
+(iv.1) un montant déduit en application soit du paragraphe 126(2) à l'égard de la fraction inutilisée du crédit pour impôt étranger (au sens du paragraphe 126(7)), soit des paragraphes 126(2.21) ou (2.22) à l'égard des impôts étrangers payés, pour une année d'imposition ultérieure
+(iv.2) un montant déduit dans le calcul de son revenu pour l'année à cause d'un choix effectué par son représentant légal au cours d'une année d'imposition ultérieure en vertu de l'alinéa 164(6)c) ou d),
+[...]
+b) la somme qui est appliquée en réduction de l'impôt payable par le contribuable pour l'année en vertu de la présente partie et des parties I.3, VI et VI.1 par suite de la déduction ou de l'exclusion de montants visés à l'alinéa a) est réputée avoir été versée au titre de son impôt payable pour l'année en vertu de la présente partie le trentième jour suivant le dernier en date des jours suivants :
+(i) le premier jour qui suit cette année d'imposition ultérieure,
+(ii) le jour où la déclaration de revenu du contribuable ou de son représentant légal pour cette année d'imposition ultérieure a été produite,
+(iii) le jour où une déclaration de revenu modifiée du contribuable pour l'année a été produite ou un formulaire prescrit modifiant sa déclaration de revenu pour l'année a été présenté conformément au paragraphe 49(4) ou 152(6) ou à l'alinéa 164(6)e), dans le cas où il y a une telle production ou présentation,
+(iv) le jour de la demande écrite à la suite de laquelle le ministre établit une nouvelle cotisation concernant l'impôt du contribuable pour l'année et qui tient compte de la déduction ou de l'exclusion, dans le cas où il y a une telle nouvelle cotisation.
+[9] Dans l'arrêt Connaught Laboratories Ltd. c. Canada, [1994] A.C.F. no 1681, la Cour d'appel fédérale a statué que le libellé du paragraphe 161(7) n'était pas ambigu et a conclu que son interprétation n'allait pas à l'encontre du but ou des objectifs de la Loi. Les déclarations de revenu de l'appelant pour les années 1996 et 1997 ont été produites le 5 mars 2002, soit le dernier jour applicable en vertu de la disposition. Le ministre a donc utilisé la bonne date pour réduire le montant des impôts payables sur lequel les intérêts devaient être calculés. Le libellé du paragraphe 161(7) montre d'une façon passablement claire que le ministre a eu raison de calculer les intérêts qui auraient été payables sur l'impôt qui aurait été payable si ce n'avait été de la perte reportée sur une année antérieure, jusqu'à la date à laquelle les déclarations ont été produites.
+Pénalités pour production tardive
+[10] Le paragraphe 162(1) de la Loi est rédigé comme suit :
+Toute personne qui ne produit pas de déclaration de revenu pour une année d'imposition selon les modalités et dans le délai prévus au paragraphe 150(1) est passible d'une pénalité égale au total des montants suivants :
+a) 5 % de l'impôt payable pour l'année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+b) le produit de 1 % de cet impôt impayé par le nombre de mois entiers, jusqu'à concurrence de 12, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+[11] L'autre disposition pertinente est le paragraphe 162(11), qui est rédigé comme suit :
+Pour le calcul des pénalités prévues aux paragraphes (1) et (2) pour non-production de la déclaration de revenu d'une personne pour une année d'imposition, l'impôt payable par la personne pour l'année en vertu de la présente partie est calculé avant la prise en compte des conséquences fiscales futures déterminées pour l'année.
+[12] La conséquence fiscale future déterminée est définie au paragraphe 248(1) et s'entend de la conséquence de la déduction ou de l'exclusion d'un montant mentionné à l'alinéa 161(7)a) précité.
+[13] La présente cour a déjà examiné cette question. La décision Leach Bros Stores Ltd. c. M.R.N., [1985] 1 C.T.C. 2067 fait autorité à l'égard des pénalités pour production tardive. Au paragraphe 5, le juge en chef adjoint Christie, de la Cour canadienne de l'impôt, (tel était alors son titre) a énuméré les étapes à suivre en imposant une pénalité en vertu du paragraphe 162(1) de la Loi. Voici ce que le juge a dit :
+Quelle que soit la date à laquelle une pénalité est imposée conformément au paragraphe 162(1), il faut suivre les trois étapes suivantes. Tout d'abord, établir la date à laquelle la déclaration aurait dû être produite. Deuxièmement, calculer le montant d'impôt qui n'était pas payé à cette date. Troisièmement, fixer le montant de la pénalité en ajoutant 5 % du montant calculé à la deuxième étape au produit obtenu lorsque 1 % de l'impôt non payé à la date où la déclaration devait être produite est multiplié par le nombre de mois complets, jusqu'à concurrence de douze, à partir de la date où la déclaration devait être produite jusqu'à la date où elle a été déposée. À mon sens, rien n'est prévu dans la Loi pour tenir compte des pertes autres que des pertes en capital qui naissent après la date à laquelle la déclaration devait être produite.
+[14] La question a été examinée plus à fond par la présente cour dans les décisions Reemark Chelsea Terraces Project Ltd. c. R., 93 D.T.C. 469, et Jonathan Cloud c. Canada, 95 D.T.C. 547. Cette dernière affaire est à peu près identique à celle qui nous occupe, en ce sens qu'en vertu du paragraphe 15(2) de la Loi, le ministre avait inclus un montant dans le revenu du contribuable pour l'année d'imposition 1985. Or, le contribuable avait produit sa déclaration de revenu pour l'année 1985 le 26 novembre 1986 seulement. Le contribuable avait soutenu que, par suite de l'imputation d'une perte autre qu'en capital subie au cours d'une année ultérieure à son année d'imposition 1985, le montant des intérêts et des pénalités devait être réduit. La Cour a statué que le montant inclus dans le revenu du contribuable en vertu du paragraphe 15(2) devait être inclus dans le revenu au moment où la déclaration du contribuable devait être produite, à savoir le 30 avril 1986. Le même raisonnement s'applique en l'espèce, en ce sens que le revenu imposé en vertu du paragraphe 15(1) devait être inclus dans le revenu de l'appelant au moment où la déclaration de revenu de l'appelant devait être produite, à savoir le 30 avril 1997 et le 30 avril 1998. En vertu du paragraphe 162(11), il faut calculer la pénalité sur l'impôt payable par l'appelant pour l'année avant de prendre en compte les pertes reportées rétrospectivement. Ces dispositions ne sont pas ambiguës.
+Équité
+[15] Il a été dit à maintes reprises que la présente cour n'est pas un tribunal d'équité. En vertu du paragraphe 220(3.1), le ministre possède le pouvoir discrétionnaire de renoncer à tout ou partie de quelque pénalité ou intérêt payable en application de la Loi, ou de l'annuler en tout ou en partie. Dans la décision Succession Floyd c. M.R.N., 93 D.T.C. 5499, voici ce que la Cour a dit :
+Soulignons au départ qu'il n'appartient pas à la Cour de décider si les intérêts par ailleurs payables par la contribuable doivent faire l'objet d'une renonciation ou être annulés. Cela relève du pouvoir discrétionnaire du ministre.
+[16] En l'espèce, la Cour n'a pas compétence pour renoncer aux pénalités et aux intérêts ou pour les annuler. Pour les motifs susmentionnés, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 15e jour d'avril 2004.
+« François Angers »
+J.C.C.I.
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL.L.
+RÉFÉRENCE :
+2004CCI268
+No DU DOSSIER DE LA COUR :
+2003-1488(IT)I
+INTITULÉ :
+Chiu-Cheng Yang et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 26 février 2004
+MOTIFS DU JUGEMENT :
+M. le juge François Angers
+DATE DU JUGEMENT :
+Le 15 avril 2004
+COMPARUTIONS :
+Pour l'appelant :
+M. Hector Wong
+Avocat de l'intimée :
+Me Raj Grewal
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

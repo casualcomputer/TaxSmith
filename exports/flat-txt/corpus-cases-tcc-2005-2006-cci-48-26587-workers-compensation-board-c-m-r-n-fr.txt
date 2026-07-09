@@ -1,0 +1,165 @@
+Title: Workers' Compensation Board c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26587/index.do
+Corpus path: corpus/cases/tcc/2005/2006-cci-48-26587-workers-compensation-board-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-12-13
+
+# Workers' Compensation Board c. M.R.N.
+
+- Citation: 2006 CCI 48
+- Decision date: 2005-12-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3530, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Workers' Compensation Board c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-13
+Référence neutre
+2006 CCI 48
+Numéro de dossier
+2004-3954(EI), 2004 3955(EI)
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Référence : 2006CCI48
+Date : 20060125
+Dossiers : 2004‑3954(EI)
+2004‑3955(EI)
+ENTRE :
+WORKERS’ COMPENSATION BOARD,
+JOHN C. TAYLOR,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Revus à partir de la transcription des motifs prononcés oralement
+à l’audience le 13 décembre 2005, à Edmonton, en Alberta.)
+Le juge Little
+A. LES FAITS
+[1] Les appels susmentionnés ont été instruits à Edmonton (Alberta) sur la base d’une preuve commune ou mutuelle.
+[2] L’appelant, le Dr Taylor, est un médecin expérimenté qui a reçu une formation d’urgentologue. Il est membre du American College of Occupational and Environmental Medicine. Il est également membre du Collège royal des urgentologues du Canada.
+[3] La Workers’ Compensation Board, ci‑après « la Commission », est un organisme établi par le Workers’ Compensation Act de l’Alberta, dont le mandat est de procéder aux examens médicaux des travailleurs qui se blessent au travail et qui répondent aux conditions du système d’indemnisation des accidents du travail.
+[4] L’appelant fournit des services médicaux à la Commission depuis 1998. Durant l’année 2002, lui et neuf autres médecins ont fourni des services médicaux à la Commission. Dans chaque cas, les services médicaux étaient fournis à la Commission par les dix médecins par l’entremise du Centre de santé Millard, à Edmonton. Le Centre de santé Millard, ci‑après le « Centre de santé », est une entité qui a été établie par la Commission, et dont la Commission est le propriétaire et l’exploitant.
+[5] La période de référence va du 1er février 2002 au 31 décembre 2002. Je voudrais mentionner que l’avis d’appel précise que la période allait du 1er janvier 2002 au 31 décembre 2002; cependant, au cours de l’audience, j’ai été expressément informé que la période de référence va du 1er février 2002 au 31 décembre 2002.
+[6] Le Dr Taylor et la Commission ont conclu un accord portant la date du 12 février 2001 (voir la pièce A‑9). Cet accord énonçait les conditions arrêtées entre les parties. La clause 7.1 de l’accord prévoit ce qui suit :
+[traduction] Les services de l’entrepreneur [le Dr Taylor] sont ceux d’un entrepreneur indépendant. Il n’est pas dans l’intention des parties que l’entrepreneur soit considéré comme un employé, un mandataire, un préposé ou un représentant de la WCB [la Commission].
+[7] Lorsque les fonctionnaires de l’Agence du revenu du Canada (l’« ARC ») ont examiné cette situation, ils ont conclu que le Dr Taylor était un employé de la Commission durant la période allant du 1er février 2002 au 31 décembre 2002.
+B. POINT LITIGIEUX
+[8] Le point que doit décider la Cour est le suivant : Le Dr Taylor était‑il un employé de la Commission du 1er février 2002 au 31 décembre 2002 pour l’application de la Loi sur l’assurance‑emploi?
+[9] Pour savoir si, dans une relation d’affaires, un travailleur est un employé ou un entrepreneur indépendant, les tribunaux canadiens ont élaboré plusieurs critères.
+[10] Les critères suivants ont été établis :
+N° 1 – Contrôle
+[11] Si le travailleur est rigoureusement contrôlé par le payeur, alors, selon les tribunaux, ce contrôle implique une relation employeur‑employé. En l’espèce, le Dr Taylor a témoigné qu’il n’était pas supervisé par quiconque au sein de la Commission ou au Centre de santé. Il a dit qu’il savait que, en tant que médecin en titre, il était responsable de la qualité de son travail.
+[12] Le Dr Aashif Esmail, chef des services médicaux au Centre de santé, a lui aussi témoigné au nom du Dr Taylor. Le Dr Esmail a dit qu’il agit en tant qu’intermédiaire professionnel entre le Centre de santé et les autres médecins qui y travaillent.
+[13] S’agissant du critère du contrôle, le Dr Esmail a dit que, lorsqu’il engage un médecin au Centre de santé, il ne s’attend pas à devoir le former ou lui expliquer la manière de faire des examens médicaux.
+[14] Le Dr Esmail a dit que la norme de soin à laquelle était soumis un médecin était la norme habituelle de soin à laquelle sont soumis les professionnels qui pratiquent dans la collectivité. Il a dit également que l’unique différence qui lui importait au regard de la formation ou du contrôle au Centre de santé se rapportait à la rédaction des rapports destinés aux gestionnaires de dossiers de la Commission.
+[15] Sandra Hanington, infirmière autorisée, a elle aussi témoigné au nom de l’appelant. Elle est responsable des services médicaux au Centre de santé. Priée de dire si elle exerçait un contrôle sur les neuf médecins du Centre de santé, elle a répondu ce qui suit : [traduction] « Je n’exerce aucun contrôle sur les neuf médecins qui soit comparable à celui que j’exerce sur les autres employés. »
+[16] Le Dr Taylor a également affirmé qu’il choisissait les périodes au cours desquelles il fournissait des services au Centre de santé et, en l’occurrence, il avait choisi le lundi après‑midi, le mardi, durant sept ou huit heures, le mercredi et le jeudi, durant la même période, enfin le vendredi – je crois que c’était le vendredi après‑midi. Le Dr Taylor a dit que le lundi et le vendredi étaient des demi‑journées et que le mardi, le mercredi et le jeudi étaient des journées complètes. Il était libre également de fournir des services médicaux à Altasteel et à Capilano Medical, et c’est ce qu’il faisait.
+[17] Après avoir procédé à un examen minutieux des faits qui m’ont été soumis, et en particulier du témoignage du Dr Taylor et des deux autres témoins, je suis arrivé à la conclusion que ni la Commission, ni le Centre de santé n’exerçaient à l’égard du Dr Taylor le genre de contrôle qu’un employeur exercerait normalement à l’égard d’un employé.
+N° 2 – Mode de rémunération
+[18] L’appelant a dit qu’il présentait une facture à la Commission pour les services rendus; une copie de facture a été déposée. L’appelant a dit aussi qu’il avait été convenu, à la suite de négociations avec le groupe de médecins en 2002, que le médecin recevrait 52 p. 100 des honoraires, et la Commission 48 p. 100. Il a été précisé que ce pourcentage avait été légèrement modifié, mais, en 2002, la répartition des honoraires était la suivante : 52 p. 100 au médecin, et 48 p. 100 à la Commission.
+[19] Ce type de « mode de rémunération » est assimilable à ce que l’on observe lorsqu’un entrepreneur indépendant est rémunéré pour les services qu’il rend. En revanche, un employé reçoit généralement un salaire, sans égard à la quantité de travail qu’il exécute effectivement et sans égard au temps qu’il passe à son travail.
+[20] Au soutien de sa position, l’avocate du ministre a cité la décision rendue par le juge en chef Bowman dans l’affaire Marcoux v. Minister of National Revenue, 2001 CarswellNat 2592. Cependant, les faits de l’affaire Marcoux étaient très différents, en particulier pour la rémunération. Au paragraphe 60, le juge en chef Bowman écrivait ce qui suit :
+Ils [c’est‑à‑dire les médecins dans l’affaire Marcoux] fournissaient leurs services dans des locaux de leurs employeurs, et ces derniers fournissaient tout le personnel de soutien, ainsi que l’ensemble du mobilier et tout autre équipement nécessaire. Les appelants recevaient une rémunération fixe par période de facturation de quatre heures, et ce, que les patients se présentent ou non aux rendez‑vous.
+Je ferais observer que la situation n’était pas la même que dans la présente affaire.
+N° 3 – Propriété des instruments de travail
+[21] Le facteur suivant dont les tribunaux tiennent compte concerne la propriété des instruments de travail. Selon les tribunaux, si c’est le payeur qui est le propriétaire de la totalité ou de la quasi‑totalité des instruments en question, alors il y a probablement une relation employeur‑employé.
+[22] En l’espèce, le Dr Taylor a dit que les instruments utilisés par lui pour procéder aux examens médicaux étaient un stéthoscope et un otoscope, qu’il avait achetés lui‑même. Il a dit aussi qu’il utilisait un téléavertisseur au cours des examens médicaux pour rester en contact avec le Centre de santé. Il a dit qu’il avait payé lui‑même le téléavertisseur.
+[23] La Commission fournissait le bureau ainsi que les petites fournitures telles que les abaisse‑langue et le papier à table d’examen.
+[24] L’avocate des appelants a fait valoir que le Dr Taylor payait effectivement les fournitures mises à sa disposition par la Commission étant donné que la Commission recevait une partie des honoraires, à savoir environ 48 p. 100 des honoraires bruts, afin d’amortir les frais généraux. Je crois que l’avocate de l’appelant avance un bon argument et, par conséquent, ce critère permet lui aussi d’affirmer que l’appelant était un entrepreneur indépendant.
+N° 4 – Chances de bénéfice et risques de perte
+[25] Nos tribunaux ont jugé que, si le travailleur n’a aucune chance de bénéfice ni n’assume aucun risque de perte, alors il se trouve dans une relation employeur‑employé. En revanche, si le travailleur peut réaliser un bénéfice ou essuyer une perte, alors il devient un entrepreneur indépendant.
+[26] En l’espèce, il convient de noter les points suivants. Le Dr Taylor était rémunéré à l’acte. Lorsqu’il n’avait pas de rendez‑vous, c’était lui qui subissait la perte. En outre, les rendez‑vous annulés plus de 24 heures à l’avance étaient également pour lui des pertes. Également, lorsque le patient ne se présentait pas, ou lorsque le rendez‑vous était annulé moins de 24 heures à l’avance, le Dr Taylor ne recevait alors que des honoraires partiels. Dans certains cas, cela représentait la moitié des honoraires et, dans d’autres, c’était, semble‑t‑il, moins que cela.
+[27] La Commission ne garantissait pas au Dr Taylor un nombre minimum d’heures de pratique par jour, par semaine ou par mois. Elle ne garantissait pas au Dr Taylor un montant minimum d’honoraires. Le Dr Taylor était donc exposé à un risque de perte.
+[28] S’agissant des chances de bénéfice, si le Dr Taylor décidait d’augmenter le nombre des examens qu’il pouvait effectuer, c’est‑à‑dire en faire davantage en moins de temps, alors il pouvait augmenter son bénéfice. Si le Dr Taylor acceptait de travailler des heures additionnelles, alors il pouvait avoir droit à des honoraires accrus.
+N° 5 – Déclaration explicite de statut
+[29] Le critère suivant concerne la déclaration explicite de l’appelant selon laquelle il était un entrepreneur indépendant. En l’espèce, j’ai indiqué plus haut que les parties avaient clairement précisé que le Dr Taylor serait un entrepreneur indépendant.
+[30] Dans l’arrêt Wolf v. The Queen, 2002 DTC 6853, le juge Décary, de la Cour d’appel fédérale, écrivait ce qui suit, au paragraphe 119 :
+[…] Lorsqu’un contrat est signé de bonne foi comme un contrat de service et qu’il est exécuté comme tel, l’intention commune des parties est claire et l’examen devrait s’arrêter là […]
+[31] Or, sur ce point, je ferais observer que, d’après le témoignage pertinent, neuf des dix médecins avaient signé un accord dans lequel ils affirmaient être des entrepreneurs indépendants.
+[32] Le dixième médecin travaillant au Centre de santé préférait faire son travail en tant qu’employé parce qu’il voulait conserver le régime de retraite qu’il avait transféré d’une autre source; Mme Hanington a dit qu’elle pensait qu’il s’agissait d’un régime de retraite du gouvernement fédéral.
+[33] Neuf des dix médecins ont donc signé cet accord. Huit des dix médecins ont été considérés par l’ARC comme des entrepreneurs indépendants, le Dr Taylor étant celui qui ne fut pas considéré tel.
+[34] Je ferais observer finalement que, selon la jurisprudence, nous nous devons de considérer tous les facteurs possibles intéressant la relation. Je me réfère aux observations faites par le juge Major dans l’arrêt Sagaz Industries, [2001] A.C.S. n° 61 (C.S.C.).
+[35] En l’espèce, le Dr Taylor n’avait pas de régime de retraite. Il suivait à ses propres frais des cours de formation et des cours d’accréditation. Il payait lui‑même sa cotisation au College of Physicians and Surgeons of Alberta. De plus, il assumait lui‑même ses frais d’assurance médicale.
+[36] Le Dr Taylor ne recevait pas d’indemnité de vacances contrairement aux autres employés du Centre de santé. Il ne bénéficiait pas de prestations‑maladie contrairement aux autres employés du Centre de santé. Il n’avait pas de régime dentaire auprès de la Commission, contrairement aux autres employés du Centre de santé.
+[37] Je relèverais en particulier que huit de ses collègues ont été considérés par l’ARC comme des entrepreneurs indépendants. Si le neuvième ne l’a pas été, c’était parce qu’il préférait être considéré comme un employé, et le Dr Taylor a été le seul à se voir accorder un traitement différent.
+[38] Je constate que tous les critères ci‑dessus montrent que le Dr Taylor n’était pas un employé, mais un entrepreneur indépendant.
+[39] Eu égard aux points que j’ai signalés ci‑dessus, et compte tenu des témoignages sous serment ainsi que des documents qui ont été produits, je suis arrivé à la conclusion que le Dr Taylor était un entrepreneur indépendant durant la période allant du 1er février 2002 au 31 décembre 2002.
+[40] Je suis donc arrivé à la conclusion que l’appel interjeté par le Dr Taylor devrait être accueilli, et la décision du ministre annulée. Je suis aussi arrivé à la conclusion que l’appel de la Workers’ Compensation Board devrait être accueilli, et la décision du ministre annulée.
+Signé à Ottawa, Canada, ce 25e jour de janvier 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de mars 2009.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE :
+2006CCI48
+N° DU DOSSIER DE LA COUR :
+2004‑3954(EI)
+INTITULÉ :
+Workers’ Compensation Board et
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 12 décembre 2005
+MOTIFS DU JUGEMENT :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 13 décembre 2005
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Cheryl A. Gibson
+Avocate de l’intimé :
+Me Marla N. Teeling
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cheryl A. Gibson
+Cabinet :
+Fraser Milner Casgrain LLP
+Pour l’intimé :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+RÉFÉRENCE :
+2006CCI48
+N° DU DOSSIER DE LA COUR :
+2004‑3955(EI)
+INTITULÉ :
+John C. Taylor et
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 12 décembre 2005
+MOTIFS DU JUGEMENT :
+L’honorable L.M. Little
+DATE DU JUGEMENT :
+Le 13 décembre 2005
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Cheryl A. Gibson
+Avocate de l’intimé :
+Me Marla N. Teeling
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cheryl A. Gibson
+Cabinet :
+Fraser Milner Casgrain LLP
+Pour l’intimé :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

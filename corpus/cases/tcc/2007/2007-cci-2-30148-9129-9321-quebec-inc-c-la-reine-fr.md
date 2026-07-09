@@ -1,0 +1,249 @@
+---
+title: "9129–9321 Quebec Inc c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30148/index.do"
+last_modified: "2007-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 2"
+citation2: ""
+neutral_citation: "2007 CCI 2"
+decision_date: "2007-01-30"
+language: "fr"
+item_id: "30148"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7810
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:59:55.906000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f63a54e0dbd0194fc082cbe904d00f16c16dcd7c4828313bb11bf60806bcdfb5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9129–9321 Quebec Inc c. La Reine
+
+- Citation: 2007 CCI 2
+- Decision date: 2007-01-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7810, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9129–9321 Quebec Inc c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-01-30
+Référence neutre
+2007 CCI 2
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Contenu de la décision
+Dossier : 2005-1778(EA)G
+ENTRE :
+9129–9321 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 8 août 2006 à Montréal (Québec).
+Devant : L’honorable D.G.H. Bowman, juge en chef
+Comparutions :
+Avocat de l’appelante :
+Me Conrad Shatner
+Avocate de l’intimée :
+Me Marie-Andrée Legault
+___________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de l’article 42 de la Loi de 2001 sur l’accise est accueilli avec dépens et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement, afin que soient supprimés les droits de 825 008,90 $ imposés en application de l’article 42 de la Loi de 2001 sur l’accise ainsi que les intérêts et les pénalités y afférents qui peuvent avoir été imposés.
+Signé à Calgary, Alberta, ce 30e jour de janvier 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Référence : 2007CCI2
+Date : 20070130
+Dossier : 2005-1778(EA)G
+ENTRE :
+9129–9321 QUÉBEC INC.,
+appelante,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Il s’agit d’un appel interjeté à l’encontre d’une cotisation d’un montant de 825 008,90 $, établie en vertu du paragraphe 42(1) de la Loi de 2001 sur l’accise (la « Loi »).
+[2] Comme il s’agit de la première affaire soumise à la Cour sous le régime de la Loi, laquelle impose des droits sur les spiritueux, le vin et le tabac, il est utile de citer ou de mentionner quelques‑unes des dispositions législatives pertinentes.
+[3] Le paragraphe 42(1) de la Loi prévoit :
+42. (1) Un droit sur les produits du tabac fabriqués au Canada ou importés et sur le tabac en feuilles importé est imposé aux taux figurant à l’annexe 1 et est exigible :
+a) dans le cas de produits du tabac fabriqués au Canada, du titulaire de licence de tabac qui les a fabriqués, au moment de leur emballage;
+[...]
+[4] Le terme « fabrication » est ainsi défini à l’article 2 de la Loi :
+« fabrication » Comprend toute étape de la préparation ou de la façon du tabac en feuilles pour en faire un produit du tabac, notamment l’empaquetage, l’écôtage, la reconstitution, la transformation et l’emballage du tabac en feuilles ou du produit du tabac.
+[5] L’expression « tabac fabriqué » est définie dans les termes suivants :
+« tabac fabriqué » Produit réalisé en tout ou en partie avec du tabac en feuilles par quelque procédé que ce soit, à l’exclusion des cigares et du tabac en feuilles emballé.
+[6] L’expression « emballage réglementaire » est définie en détail dans le Règlement sur l’estampillage et le marquage des produits du tabac, C.P. 2003‑1202 du 13 août 2003. Il n’est pas nécessaire que je reproduise ce règlement. Il contient des dispositions détaillées concernant les indications devant figurer sur les emballages des produits du tabac. L’expression « produit du tabac » est définie ainsi dans la Loi :
+« produit du tabac » Le tabac fabriqué, le tabac en feuilles emballé et les cigares.
+[7] L’annexe 1 de la Loi prévoit les différents taux du droit applicable aux produits du tabac. Il semble que c’est le taux de 53,981 $ le kilogramme qui s’applique en l’espèce.
+[8] L’article 188 permet au ministre du Revenu national d’établir une cotisation concernant le droit exigible; l’article 195 traite des oppositions aux cotisations; l’article 198 confère un droit d’interjeter appel à la Cour; l’article 203 prévoit les décisions que la Cour peut rendre relativement à un appel. Toutes ces dispositions correspondent aux dispositions essentiellement semblables contenues dans d’autres lois fiscales canadiennes, par exemple la Loi de l’impôt sur le revenu et la Loi sur la taxe d’accise.
+[9] Il s’agit en l’espèce de décider si, comme l’intimée l’allègue, l’appelante doit payer un droit de 53,981 $ le kilogramme sur 15 283,32 kilogrammes de tabac, ce qui représente une somme totale de 825 008,90 $, ou si, comme le prétend l’appelante, elle doit payer ce droit sur 253 kilogrammes. La question est de savoir quelle version des faits il faut accepter.
+[10] L’appelante, par la voix de son président et unique actionnaire, Nuruddin Wallani, a déclaré qu’elle a acheté, le 5 novembre 2003, 248 livres de tabac, et, le 12 novembre 2003, 310 livres de tabac, de Les tabacs du Québec, une entreprise de gros en tabac appartenant à Daniel Coutu et exploitée par celui‑ci. Le total de 558 livres équivaut aux 253 kilogrammes que l’appelante admet avoir achetés et sur lesquels elle dit avoir payé un droit.
+[11] En ce qui concerne le fardeau de la preuve et les hypothèses, les règles qui s’appliquent dans les affaires relevant de la Loi sont les mêmes que dans les appels fondés sur la Loi de l’impôt sur le revenu et sur la Loi sur la taxe d’accise.
+[12] Les hypothèses sur lesquelles la cotisation était fondée sont exposées de la manière suivante dans la réponse à l’avis d’appel :
+[TRADUCTION]
+a) L’appelante est une société possédée en propriété exclusive par Nuruddin Wallani;
+b) l’appelante a obtenu, en juillet 2003, une licence l’autorisant à fabriquer des produits du tabac au Canada sous la dénomination sociale « Les Tabacs d’Or du Québec »;
+c) entre le 5 novembre 2003 et le 28 mai 2004, l’appelante a acheté à différents grossistes plus de 16 009 kilogrammes de tabac en feuilles et de tabac haché fin mélangé;
+d) l’appelante a toutefois déclaré seulement des achats de 253 kilogrammes de tabac en feuilles, sur lesquels elle a payé les droits prévus par la Loi de 2001 sur l’accise, de sorte qu’il reste des achats de 15 756 kilogrammes de tabac haché fin mélangé qui n’ont pas été déclarés et sur lesquels aucun droit n’a été payé;
+e) l’appelante est donc tenue de payer un droit d’accise de 825 008,90 $, calculé de la manière suivante :
+Achats non déclarés 15 756 kilogrammes
+moins 3 % pour pertes 472,68 kilogrammes
+15 283,32 kilogrammes
+à un taux de droit de 53,981 $ 825 008,90 $
+le kilogramme (pour le tabac
+haché fin mélangé)
+[13] De même, dans la partie B de la réponse à l’avis d’appel, la Couronne formule la question en litige dans les termes suivants :
+[TRADUCTION]
+B. QUESTIONS EN LITIGE
+6. La Cour doit décider si, entre le 5 novembre 2003 et le 28 mai 2004, l’appelante a acheté au moins 15 756 kilogrammes de tabac haché fin mélangé qu’elle n’a pas déclarés et sur lesquels elle n’a donc pas payé de droit d’accise.
+[14] L’assujettissement au droit prenant naissance au moment de l’emballage suivant l’alinéa 42(1)a), j’aurais pensé qu’aurait été faite une hypothèse ou une allégation selon laquelle l’appelante a emballé le tabac et selon laquelle son obligation de payer le droit a pris naissance à ce moment‑là. Le fait de pouvoir s’appuyer sur des hypothèses et l’effet de cela sur le fardeau de la preuve confèrent à la Couronne un avantage important. Il incombe donc à la partie intimée dans un appel de faire valoir que le ministre a formulé des hypothèses qui tendent clairement à établir l’assujettissement à la taxe qui est allégué. Lorsque ni les hypothèses ni les affirmations de la partie intimée n’ont cet effet, la partie appelante aurait le droit de demander à la Cour de rendre un jugement sur la foi des actes de procédure. Aucune requête en ce sens n’a été présentée, et je suis de toute façon réticent à trancher une affaire sur la foi des actes de procédure. De plus, cela n’a pas réellement d’importance puisque j’accepte la version des faits qu’a donnée l’appelante. Si j’avais rejeté la preuve de l’appelante et accepté celle présentée par l’intimée, j’aurais eu à examiner le caractère suffisant des hypothèses formulées dans la réponse. Je statuerai donc sur le présent appel en fonction de la question de fait qui m’a été soumise : l’appelante a‑t‑elle acheté 15 756 kilogrammes de tabac haché fin entre le 5 novembre 2003 et le 28 mai 2004?
+[15] La preuve de M. Wallani était claire et sans équivoque. Il a fait deux achats de tabac en feuilles non coupé, un de 248 livres le 5 novembre 2003 et un autre de 310 livres le 12 novembre 2003, pour un total de 558 livres. Il a coupé le tabac et en a vendu une partie. Selon ses documents, il en a vendu 16,2 kilogrammes, soit environ 35 livres, entre novembre et décembre et 42 livres de janvier à avril. Au bout du compte, il en a vendu 134 livres et il lui en est resté 424 livres ou 192 kilogrammes.
+[16] M. Wallani a déclaré dans son témoignage qu’il avait essayé, mais sans succès, de convaincre le vendeur de reprendre le tabac en feuilles non vendu et qu’il a téléphoné à Richard Granger, un agent des droits d’accise au service de l’Agence du revenu du Canada, qui a inspecté l’entrepôt et lui a remis, le 31 mai 2004, un certificat attestant que 354 livres avaient été détruites, de même que 11 600 sacs de 200 grammes vides. Il a ajouté que, pour détruire le tabac, on l’avait placé dans des contenants d’huile usagée.
+[17] M. Wallani a témoigné que c’était à des dépanneurs qu’il avait vendu le tabac effectivement vendu et qu’il avait perçu les droits applicables. Il a affirmé également qu’il n’avait acheté du tabac que lors de ses deux visites à l’établissement de M. Coutu et qu’il avait payé ce tabac par chèque. Il a dit qu’un assistant, Hussein, l’accompagnait.
+[18] M. Wallani a témoigné avec franchise. Son témoignage n’a pas été ébranlé lors du contre‑interrogatoire et rien dans son attitude pendant qu’il témoignait ne m’amène à mettre en doute son témoignage. De plus, celui‑ci ne contenait aucune contradiction ou invraisemblance. Donc, à la fin du témoignage de M. Wallani, l’appelante avait présenté une preuve suffisante à première vue pour démontrer qu’elle n’avait pas acheté 15 283,32 kilogrammes de tabac, mais en avait acheté seulement 253 kilogrammes. Cette preuve, si elle n’était pas réfutée, permettrait de trancher l’appel.
+[19] La preuve de la Couronne a été présentée par trois témoins.
+[20] Le premier était Richard Granger. Ce fonctionnaire, qui semblait consciencieux, a confirmé qu’il s’était rendu dans les locaux de l’appelante et qu’il avait autorisé la destruction de 354 livres de tabac et de 11 600 sacs vides.
+[21] Il n’a pas été en mesure de produire une preuve directe de l’achat des 15 756 kilogrammes additionnels. D’ailleurs, la destruction de 11 600 sacs vides semble démontrer que l’appelante n’a pas acheté la grande quantité de tabac que la Couronne prétend qu’elle l’a fait et certainement qu’elle n’a pas emballé une telle quantité. En outre, le fait que M. Wallani a téléphoné à M. Granger et l’a invité à se rendre dans ses locaux pour dresser l’inventaire du tabac qui s’y trouvait n’est guère conciliable avec l’achat par l’appelante de 15 756 kilogrammes additionnels de tabac sur lesquels elle n’a pas payé les droits d’accise.
+[22] Le témoignage de M. Granger concernant la grande quantité de tabac que l’appelante aurait achetée est, je le dis respectueusement, insuffisant pour établir l’assujettissement au droit d’accise. Il s’agit en partie de ouï‑dire et en partie de conjecture. L’extrait suivant est tiré de son témoignage recueilli lors de l’interrogatoire principal :
+Q. Puis, ça serait quoi la différence par rapport à du tabac qui est du « fine cut »? Les droits sont payables à quel moment?
+R. Le droit est payable quand le matériel est emballé, qu’il a été ouvragé, là, emballé puis que vous allez le...
+Q. O.K. Mais quand vous n’avez pas de preuve qu’il est emballé, là, pourquoi ici, comme par exemple, si on ne sait pas quand est-ce qu’il a été emballé, pourquoi qu’on émet la cotisation?
+R. Par rapport à ce que l’on a cotisé, là?
+Q. Oui. Oui.
+R. Bon. Étant donné qu’on a trouvé ou j’ai trouvé qu’il y avait eu des quantités de tabac haché qui avaient été achetées, c’est du tabac qui est prêt à être emballé ou qu’on pourrait faire des cigarettes avec, là, il est déjà ouvragé ce tabac-là. Alors, il a été acheté, il n’a pas été déclaré sur des déclarations mensuelles chez nous comme quoi il a été acheté puis on n’a pas de trace de ce qui est arrivé après. Tout ce qu’on peut, c’est présumer qu’il a été vendu sur le marché canadien alors il y a des droits d’accise qui sont payables là-dessus, c’est comme...
+Q. Comme par exemple, si je reviens au tabac que monsieur Wallani dit avoir acheté, qui n’était pas coupé...
+R. Oui.
+Q. ... O.K., il l’a coupé mais il n’était pas vendu?
+R. Oui.
+Q. Est-ce qu’il a payé des douanes là-dessus?
+R. Des droits d’accise, non.
+Q. Des droits d’accise, excusez.
+R. Non. Étant donné qu’il a été détruit puis en ma présence, puis que moi, j’étais assuré, là, suffisamment, que ce tabac-là n’était pas... était impropre à la consommation donc qu’il ne pourrait pas se retrouver sur le marché de consommation domestique, bien, il n’y a pas de droits à payer.
+Q. O.K. Ça fait que ce n’est pas parce qu’il n’a pas été vendu, là, c’est parce qu’il a été détruit?
+R. Non, non. Ça aurait pu être du tabac qu’il aurait déjà emballé puis qu’il n’aurait pas vendu puis qu’il nous aurait payé les droits, bien là, s’il l’avait détruit, on aurait pu... il aurait pu réclamer un crédit puis on aurait pu lui donner un crédit, là, mais ce n’était pas le cas.
+[23] M. Granger était incapable d’attester sous serment que l’argent (de l’argent comptant, prétend-on) qui avait été déposé dans le compte en banque du vendeur, Les tabacs du Québec, venait de M. Wallani. En outre, il ne disposait d’aucune preuve que le tabac, peu importe sa quantité, avait été emballé. Aucune preuve digne de foi ou recevable démontrant que l’appelante avait acheté plus de 558 livres de tabac n’a été produite devant moi.
+[24] Dans l’affaire Chomica c. Canada, [2003] A.C.I. no 57 (QL), 2003 DTC 535, j’ai analysé de manière assez détaillée la force probante du témoignage des vérificateurs. Il s’agit habituellement de ouï‑dire. L’extrait suivant figure aux paragraphes 26 à 30 (DTC, pages 538 et 539) :
+[26] Je n’ai pas l’intention d’entreprendre dans ce jugement une discussion sur les récents développements touchant la règle du ouï-dire. Il ne fait aucun doute que cette notion évolue; cela est évident en lisant la discussion figurant dans The Law of Evidence in Canada, précité, aux pages 187 à 220. Cependant, la règle est toujours là et il faut en tenir compte. Même si je pensais qu’il serait possible de forcer les principes énoncés dans les décisions récentes, ce qui exigerait au moins que les éléments de preuve soient fiables et nécessaires, il faudra toujours exclure le rapport de la vérificatrice et les notes de service. Par exemple, aucun témoin n’a pu dire qui avait préparé les notes aux onglets A, B et C de l’onglet 18. On a déclaré qu’elles provenaient de la documentation saisie par un enquêteur de la police et étaient des fichiers de l’ordinateur personnel d’Alan Benlolo.
+[27] Ces éléments de preuve sont, au mieux, peu crédibles et, au pire, totalement inadmissibles.
+[28] Il est possible de présenter en preuve de tels rapports de l’ADRC (rapports T-20 et T-401) dans le but précis de montrer sur quelle base s’appuie la cotisation, mais non pour prouver la véracité de leur contenu. Je ne vois pas d’objection à ce que l’ADRC fonde ses cotisations sur le ouï-dire - il est nécessaire qu’elle établisse ses cotisations selon les renseignements disponibles, même s’il doit s’agir de ouï-dire[1]. Toutefois, si l’intimée doit prouver le bien‑fondé d’une cotisation en présentant des preuves, la preuve doit être admissible selon les règles ordinaires régissant l’admissibilité.
+[29] Non seulement faut-il suivre les règles de la preuve, particulièrement dans les affaires régies par la procédure générale - mais de plus, si des allégations graves de fraude sont faites, la Cour doit étudier soigneusement ces éléments de preuves. Madame le juge L’Heureux-Dubé fait allusion à cette question au second paragraphe de son jugement dans Hickman Motors, précité.
+[30] Dans l’affaire Farm Business Consultants Inc. c. Sa Majesté la Reine, C.C.I., n° 92-2597(IT)G, 16 septembre 1994, 95 D.T.C. 200, conf. C.A.F., n° A‑542-94, 18 janvier 1996, 96 D.T.C. 6085, la même question a été soulevée concernant le soin avec lequel la preuve fournie pour l’imposition de pénalités doit être étudiée, même si la norme de preuve est de nature civile. Il ne s’agit pas ici de pénalités, mais d’une allégation que l’appelant a participé à un stratagème frauduleux. Aux pages 12-13 (D.T.C. : aux pages 205-6), il est énoncé ce qui suit :
+Une cour doit faire preuve d’une prudence extrême lorsqu’elle sanctionne l’imposition de pénalités prévues au paragraphe 163(2). Une conduite qui légitime l’établissement d’une nouvelle cotisation à l’égard d’une année frappée de prescription ne justifie pas d’office l’imposition d’une pénalité, et l’imposition systématique de pénalités, par le ministre, est une pratique qui est à déconseiller. Une conduite du genre de celle qui est envisagée au sous-alinéa 152(4)a)(i) peut, dans certaines circonstances, servir aussi de fondement à l’imposition d’une pénalité prévue au paragraphe 163(2), qui implique la pénalisation d’une conduite plus répréhensible. Dans un tel cas, une cour doit, même en appliquant une norme de preuve civile, étudier soigneusement la preuve et chercher un degré de probabilité supérieur à celui auquel on s’attendrait dans les situations où l’on cherche à établir le bien‑fondé d’allégations moins sérieuses3. Par ailleurs, quand une pénalité est imposée en vertu du paragraphe 163(2) même si une norme de preuve civile est exigée, lorsque la conduite d’un contribuable cadre avec deux hypothèses viables et raisonnables, l’une qui justifie la pénalité et l’autre pas, il convient d’accorder le bénéfice du doute au contribuable, et de supprimer la pénalité4. Je crois qu’en l’espèce, l’intimée a fait la preuve du degré de probabilité requis, et qu’au vu de la preuve produite, aucune hypothèse incompatible avec celle que l’intimée a avancée ne peut être défendue.
+___________________
+3 Voir Continental Insurance Co. v. Dalton Cartage Co., [1982] 1 R.C.S. 164; 131 D.L.R. (3rd) 559; 25 C.P.C. 72, le juge en chef Laskin, p. 168-171; D.L.R. 562-564; C.P.C. 75-77). Bater v. Bater, [1950] 2 All E.R. 458, p. 459; Pallan et al v. M.N.R. 90 D.T.C. 1102, p. 1106; W. Tatarchuk Estate v. M.N.R., [1993] 1 C.T.C. 2440, p. 2443.
+4 Il ne s’agit pas simplement d’une extrapolation de la règle énoncée dans l’affaire Hodge’s Case (1838) 2 Lewin 227; 168 E.R. 1136, qui se rapporte à des questions de nature criminelle comme celle que vise, par exemple, l’article 239 de la Loi de l’impôt sur le revenu, qui requiert une preuve au-delà du doute raisonnable. Il s’agit simplement d’une application du principe selon lequel une pénalité ne peut être imposée que dans les cas où la preuve le justifie clairement. Si cette dernière est compatible avec, à la fois, l’état d’esprit qui justifie une pénalité en vertu du paragraphe 163(2) et l’absence de cet état d’esprit - j’hésite à employer les mots innocence ou culpabilité dans ces circonstances - cela voudrait dire que la Couronne ne s’est pas acquittée du fardeau qui pesait sur ses épaules.
+[25] En l’espèce, on me demande de conclure que M. Wallani n’a pas dit la vérité sous serment. Il s’agit là d’une allégation grave et la preuve qui l’appuie doit être éclatante.
+[26] La correspondance suivante, échangée entre M. Granger et M. Wallani, illustre la différence frappante entre les positions des parties :
+[TRADUCTION]
+9129‑9321 Québec Inc.
+faisant affaire sous la dénomination sociale de
+Les Tabacs d’Or du Québec
+829, place Simon
+St-Laurent (Québec)
+H4M 2W3
+À l’attention du président, Monsieur Nuruddin Wallani
+Objet : Licence n° 51-TL-49
+Identificateur de compte n° 14505 3690 RD 0001
+La présente lettre vise à vous faire savoir que, selon les renseignements dont nous disposons, 9129‑9321 Québec Inc., faisant affaire sous la dénomination sociale de Les Tabacs d’Or du Québec, a acheté, entre le 5 novembre 2003 et le 28 mai 2004, plus de 16 009 kilogrammes de tabac à différents grossistes en tabac en feuilles et en tabac haché fin mélangé.
+Toutefois, les déclarations mensuelles B267 E des droits d’accise du titulaire de licence de tabac, qui ont été remplies par votre compagnie pendant la même période, indiquent que vous avez déclaré seulement des achats de 253 kilogrammes de tabac en feuilles, alors que 15 756 kilogrammes de tabac haché fin mélangé ont aussi été achetés par votre compagnie, mais n’ont pas été mentionnés dans les déclarations en question.
+Par conséquent, nous vous prions de nous fournir des explications au sujet des 15 756 kilogrammes qui représentent la différence entre les 253 kilogrammes et les achats totaux de 16 009 kilogrammes.
+Si vous ne nous fournissez pas d’explications satisfaisantes, nous n’aurons pas d’autre choix que d’établir, à l’égard de votre compagnie, 9129‑9321 Québec Inc., une cotisation d’un montant de 850 524,63 $, plus les intérêts et les pénalités applicables, soit le montant correspondant à 15 756 kilogrammes de tabac haché fin au taux de droit de 53,981 $ le kilogramme.
+Prenez note que les renseignements demandés doivent être fournis au plus tard le 30 juillet 2004, à défaut de quoi un avis de cotisation officiel sera établi.
+N’hésitez pas à communiquer avec moi par téléphone, au 514-229‑0584, ou par télécopieur, au 514-283‑6154, si vous avez besoin d’un complément d’information.
+Nous vous serions grandement reconnaissants de votre collaboration afin que nous puissions régler cette affaire.
+Veuillez agréer, Monsieur, nos salutations distinguées.
+Richard Granger
+Agent des droits d’accise
+Agence du revenu du Canada
+Bureau de district de Montréal
+[TRADUCTION]
+Agence des douanes et du revenu du Canada
+305, boulevard René‑Lévesque Ouest
+Montréal (Québec) H2Z 1A6
+À l’attention de Monsieur Richard Granger
+Agent des droits d’accise
+Objet : Licence n° 51‑TL‑49
+Compte n° 14505 3690 RD0001
+Nous avons reçu votre lettre du 12 juillet 2004 et vous informons que nous avons acheté un total de 253 kilogrammes de tabac en feuilles à deux occasions différentes et que nous n’avons rien acheté d’autre nulle part par la suite.
+Si vous vous en souvenez, M. Granger, nous vous avons téléphoné au cours de la dernière semaine de mai 2004 et vous avons demandé de bien vouloir venir dans nos locaux à Dorval pour effectuer l’inspection nécessaire, car nous n’étions pas en mesure de payer le loyer d’avril 2004. Nous vous avons alors expliqué qu’il fallait procéder d’urgence à cette inspection étant donné que nous avions avisé le propriétaire de notre incapacité de payer le loyer jusqu’à la fin du bail et qu’il avait trouvé de nouveaux locataires qui voulaient louer les locaux à compter du 1er juin 2004. Comme je ne savais pas du tout si nous pouvions déménager notre stock de tabac sans votre consentement, vous avez accepté de venir dans nos locaux le 31 mai 2004 pour procéder d’urgence à l’inspection comme nous vous l’avions demandé.
+Le 31 mai 2004, vous avez inspecté tout le stock de tabac coupé et non coupé. Vous avez pesé chaque kilogramme que nous avions dans les locaux et vous avez compté tous les sacs de plastique, après quoi vous avez rapproché toutes les entrées, vérifié les factures et délivré le certificat de destruction.
+Monsieur, si vous vous rappelez bien, vous nous avez dit que, si nous ne voulions pas continuer à exercer ce genre d’activité dans l’avenir, vous deviez détruire ces sacs parce que la mention « Tabac D’Or » y apparaissait. Nous avons accepté sans hésitation et vous avons remis les sacs pour qu’ils soient détruits. Compte tenu de ce qui précède, nous vous demandons de bien vouloir abandonner toutes les accusations qui ont été déposées contre nous et de confirmer dès que possible que vous l’avez fait.
+Nous vous remercions et vous prions d’agréer, Monsieur, l’expression de nos meilleurs sentiments.
+_____________
+N. Wallani
+Pour 9129‑9321 Québec Inc.
+Le 13 juillet 2004
+[27] Le propriétaire de Les tabacs du Québec inc., Daniel Coutu, a déposé en preuve, en liasse, des factures. Les deux premières qui sont adressées à l’appelante (9129‑9321 Québec inc.), ont trait au tabac que M. Wallani reconnaît avoir acheté et sur lequel il admet avoir payé le droit d’accise. Ce tabac a été payé par chèque. Toutes les autres factures sont adressées à 9129‑9326 Québec inc. Elles concernent des quantités importantes de tabac. Elles totalisent plus de 150 000 $ et leur montant varie de quelques centaines de dollars à plus de 10 000 $. Les opérations ont eu lieu à quelques jours d’intervalle et le prix aurait été payé en espèces dans tous les cas.
+[28] M. Coutu a déclaré que les personnes qui allaient chercher le tabac s’appelaient Nacime (ou, selon la transcription, Nissim) et Adam. Il a rencontré M. Wallani (qui se faisait appeler Jack). Il a dit que « Jack » lui téléphonait ou téléphonait à son fils pour commander du tabac. M. Wallani nie tout cela. Il affirme qu’il n’a jamais téléphoné à M. Coutu à l’établissement de la compagnie de celui-ci et que les seules opérations qu’il a conclues avec Les tabacs du Québec inc. étaient les deux achats totalisant 558 livres. Je ne suis pas convaincu que M. Mathieu Coutu pouvait reconnaître la voix de son interlocuteur au téléphone, si tant est qu’il ait eu les conversations téléphoniques qu’il prétend avoir eues.
+[29] Je ne suis pas d’avis que la preuve de M. Daniel Coutu est suffisante pour réfuter le témoignage de M. Wallani et ce, pour plusieurs raisons :
+a) la dénomination qui figure sur toutes les factures, à l’exclusion des deux premières, est 9129‑9326 Québec inc., et non la dénomination de l’appelante, 9129‑9321 Québec inc. Une erreur peut avoir été commise une fois, mais pas sur des douzaines de factures;
+b) M. Wallani ne connaissait personne qui s’appelait Nacime ou Adam et M. Coutu ne connaissait personne qui s’appelait Hussein;
+c) le simple fait qu’il est improbable que de grandes quantités de tabac haché fin aient été payées comptant par M. Wallani sans qu’il y en ait de trace milite contre l’affirmation selon laquelle M. Coutu a vendu de telles quantités de tabac à M. Wallani ou à sa compagnie.
+[30] En outre, en ce qui concerne le témoignage de Mathieu, le fils de Daniel Coutu, je ne pense pas que je puisse m’appuyer là-dessus pour conclure que M. Wallani a menti. Mathieu a témoigné qu’il n’avait jamais vu « Jack » lorsqu’il livrait le tabac au 2236, rue Pitre. Et M. Wallani a témoigné qu’il n’avait jamais vu cet endroit avant la veille de l’audience.
+[31] Dans la décision Faulkner c. M.R.N., 2006, C.C.I. no 239, j’ai écrit :
+[13] Je pense qu’il est important que les juges ne soient pas trop prompts à tirer des conclusions relatives à la crédibilité. J’ai dit ce qui suit dans la décision 1084767 Ontario Inc. (Celluland) c. Canada, [2002] A.C.I. no 227 (QL) :
+8 La preuve de chacun des deux témoins est radicalement opposée à celle de l’autre. J’ai pris le jugement en délibéré puisque je ne crois pas approprié de tirer à la légère des conclusions relatives à la crédibilité ou, de façon générale, de rendre ces conclusions oralement à l’audience. Le pouvoir et l’obligation d’établir des conclusions relatives à la crédibilité est l’une des plus lourdes responsabilités d’un juge de première instance. Le juge doit exercer cette responsabilité avec soin et après mûre réflexion puisqu’une conclusion défavorable de la crédibilité suppose que l’une des parties ment sous la foi du serment. Vouloir mettre un terme rapidement à une affaire ne peut être une excuse justifiant le mauvais usage de ce pouvoir. La responsabilité qui repose sur le juge d’un procès qui doit tirer des conclusions relatives à la crédibilité doit être particulièrement rigoureuse si l’on considère que l’on ne peut pratiquement pas en appeler de telles conclusions.
+[14] J’estime toujours qu’à titre de juges nous avons envers les personnes qui comparaissent devant nous le devoir de faire preuve de prudence et de prendre le temps nécessaire pour bien réfléchir lorsqu’il s’agit de tirer des conclusions au sujet de la crédibilité. Selon les études que j’ai consultées, les juges ne réussissent pas mieux que les autres à parvenir à une conclusion exacte sur la crédibilité. Nous n’avons pas la monopole de la perspicacité et de l’acuité et ne sommes pas supérieurs à d’autres personnes, comme les psychologues, les psychiatres ou les profanes qui ont été testés. Étant donné que nous devons, dans le cadre de notre travail, arriver à des conclusions au sujet de la crédibilité, nous devons au moins nous acquitter de cette tâche avec une certaine humilité et en étant conscients de notre propre faillibilité. Je sais que les tribunaux d’appel disent qu’ils doivent faire preuve de retenue à l’égard des conclusions de fait des juges de première instance parce que ces derniers ont eu l’occasion d’observer le comportement des témoins au moment de leur témoignage. Eh bien, j’ai pour ma part vu des menteurs accomplis me regarder droit dans les yeux et me raconter les mensonges les plus flagrants de façon confiante, directe et franche ; par contre, il y a des témoins honnêtes qui évitent de regarder le juge dans les yeux, qui bégayent, qui hésitent en parlant, qui se contredisent et qui finissent par présenter un témoignage qui est un fouillis total. Certains juges semblent quand même croire qu’ils peuvent instantanément faire la distinction entre ce qui est vrai et ce qui est faux et prononcer sur-le-champ un jugement fondé sur la crédibilité. La réalité est tout simplement que les juges, lorsqu’ils entendent des témoignages contradictoires, n’ont probablement, au mieux, qu’une chance sur deux de tirer la bonne conclusion quant à la crédibilité, et que leurs chances de le faire diminuent probablement s’ils fondent leur conclusion sur une simple réaction viscérale à un témoin. De plus, si une conclusion défavorable au sujet de la crédibilité est tirée, il faut absolument exposer les motifs à l’appui de la conclusion.
+[32] Dans les circonstances, je suis convaincu, selon la prépondérance des probabilités, que l’appelante s’est acquittée du fardeau de la preuve qui lui incombait et a établi qu’elle n’a pas acheté les 15 283,32 kilogrammes de tabac que l’intimée prétend qu’elle a achetés. Pour les motifs exposés ci‑dessus, je ne pense pas que la preuve de la Couronne soit suffisamment digne de foi pour me permettre de conclure que M. Wallani s’est livré à une évasion massive du droit d’accise et que, de plus, il a commis un parjure. Des allégations graves de ce genre exigent une preuve éclatante.
+[33] L’avocat de l’appelante a dit que les factures étaient peut-être des documents fabriqués tandis que l’avocate de l’intimée a dit que M. Wallani a peut‑être agi ou été utilisé comme homme de paille d’une autre personne. Pour intéressant qu’il puisse être d’examiner ces hypothèses conjecturales (lesquelles, je dois le dire, ne sont appuyées par aucune preuve), je n’ai qu’à me prononcer sur la question plus banale de savoir si l’appelante a acheté 15 756 kilogrammes de tabac haché fin mélangé. Or, je suis convaincu, compte tenu de la preuve, qu’elle ne l’a pas fait.
+[34] Par conséquent, l’appel est accueilli avec dépens et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux présents motifs, afin que soient supprimés les droits de 825 008,90 $ imposés en application de l’article 42 de la Loi de 2001 sur l’accise ainsi que les intérêts et les pénalités y afférents qui peuvent avoir été imposés.
+Signé à Calgary, Alberta, ce 30e jour de janvier 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+RÉFÉRENCE :
+2007CCI2
+NO DU DOSSIER DE LA COUR :
+2005-1778(EA)G
+INTITULÉ :
+9129 – 9321 Québec Inc. c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 8 août 2006
+MOTIFS DU JUGEMENT :
+Le juge en chef D.G.H. Bowman
+DATE DU JUGEMENT ET
+DES MOTIFS DU JUGEMENT :
+Le 30 janvier 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Conrad Shatner
+Avocate de l’intimée :
+Me Marie-Andrée Legault
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Conrad Shatner
+Cabinet :
+2425, boulevard Grand, bureau 16
+Montréal (Québec) H4B 2X2
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il ne s’agit pas ici d’éléments de preuve obtenus de façon illégale, d’une façon qui contrevient aux droits du contribuable en vertu de la Charte ou d’une façon qui contrevient à un engagement en matière de confidentialité. Cela soulève des considérations totalement différentes : voir O’Neill Motors Limited c. Sa Majesté la Reine, C.C.I., n° 94-820(IT)G, 9 novembre 1995, 96 D.T.C. 1486, conf. [1998] 4 C.F. 180, 98 D.T.C. 6424; The Promex Group Inc. c. Sa Majesté la Reine, C.C.I., n° 95‑1950(IT)G, 24 mars 1998, 98 D.T.C. 1588; Crestbrook Forest Industries Ltd. c. Sa Majesté la Reine, C.A.F., n° A-1034-91, 21 février 1992, [1992] 1 C.T.C. 100, 92 D.T.C. 6187.

@@ -1,0 +1,205 @@
+Title: Dr. James Singer Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26667/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-205-26667-dr-james-singer-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-04-05
+
+# Dr. James Singer Inc. v. The Queen
+
+- Citation: 2006 TCC 205
+- Decision date: 2006-04-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3609, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dr. James Singer Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-04-05
+Neutral citation
+2006 TCC 205
+File numbers
+2005-2726(GST)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-2726(GST)I
+BETWEEN:
+DR. JAMES SINGER INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 20, 2006 at Vancouver, British Columbia.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Carl Beck
+Counsel for the Respondent:
+Shawna Cruz
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated December 17, 2004 and bears number 89223 2521 RT0001, is dismissed.
+Signed at Ottawa, Ontario, this 5th day of April 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2006TCC205
+Date: 20060405
+Docket: 2005-2726(GST)I
+BETWEEN:
+DR. JAMES SINGER INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] This appeal is from an assessment made under the Excise Tax Act (ETA) in respect of the Goods and Services Tax (GST) for the reporting period from September 1, 2002 to August 31, 2003.
+[2] The appellant is a corporation owned by Dr. James Singer, a dentist. It carries on the business of providing dental services and supplying dentures, crowns and bridges. In the period in question the appellant claimed input tax credits (ITCs) of $14,900. The Canada Revenue Agency (CRA) allowed it $2,195 and disallowed $12,705. It is this amount that is in dispute. The question is whether that portion of the appellant's practice that is attributable to the supply of crowns, bridges and dentures is a zero-rated, exempt or taxable supply. If it is zero-rated or taxable, the appellant is entitled to ITCs in respect thereof. If it is exempt, no ITCs are available.
+[3] Mr. Beck, an accountant, presented the legal arguments supporting the appellant's case with skill. He argued that about 30% of the appellant's dental practice was devoted to the supply of dentures or artificial teeth, bridges and crowns and that therefore the appellant should be entitled to ITCs in the amount of 30.75% of the appellant's expenses in 2001 and 30.99% in 2002. The Crown calculated the percentage of the appellant's practice attributable to zero-rated supplies to be 9%.
+[4] The problem with Mr. Beck's able presentation of the appellant's case was that whatever may be the interpretation of the relevant provisions of the ETA, the absence of any evidentiary underpinning does not permit me to afford any relief to the appellant. The supplies that Mr. Beck says are zero-rated fall within a number of categories each of which has its own code under the British Columbia Association of Dental Surgeons Fee Guide. They are set out in Mr. Beck's analysis in Tab 15 of Exhibit A-1 in which he concludes that the percentage of zero-rated supplies is 30.99% or 30.75%. That analysis is reproduced below:
+DR. JAMES SINGER INC.
+Zero-rated REVENUE ANALYSIS
+August 31, 2001/2002
+Proc. #
+__________Description_________
+Amt. 2001
+Amt. 2002
+22311
+Permanent Post Prefabricated
+$ 1,720
+$ 862
+23601
+Composite Glass Ionomer Core
+14,958
+10,280
+25731
+Posts Prefabricated
+3,209
+2,763
+25732
+Posts Prefabricated
+801
+747
+27201
+Crown Porcelain Ceramic Jacket
+19,516
+14,331
+27211
+Crown Porcelain Ceramic Metal
+65,287
+65,030
+27301
+Crown Metal Case Uncomplicated
+50,261
+47,226
+62501
+Pontic Procelain Fused Metal
+7,874
+8,017
+62502
+"
+338
+-
+67201
+Abutment
+1,497
+4,118
+67211
+Abutment
+32,927
+17,401
+67301
+Abutment
+1,123
+1,824
+89700
+Mthly Ortho Fee
+35,267
+42,231
+89701
+Initial Ortho Fee
+___8,830
+__11,786
+243,608
+226,616
+Total Revenue - 2001 792,222
+Percentage Zero-Rated Revenue - 2001 30.75%
+Total Revenue - 2002 731,284
+Percentage Zero-Rated Revenue - 2002 30.99%
+[5] While the rules of evidence in the informal procedure are not as strictly enforced as they are in the Tax Court of Canada Rules (General Procedure), nonetheless, I do not think that this analysis by itself satisfies the onus that an appellant has of showing the assumptions on which the assessment was based are wrong. Those assumptions are as follows:
+a) the Appellant is a professional corporation that provides dental services in a general practice;
+b) the Appellant registered under Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended, (the "Act"), effective September 1, 2002 and was assigned GST Registration number 892232521RT;
+c) the appellant was required to file its GST returns on an annual basis for the Assessment Period;
+d) at all material times, the Appellant supplied artificial teeth and orthodontic appliances in the course of providing dental care services;
+e) the supplied artificial teeth and orthodontic appliances were not performed for cosmetic purposes;
+f) the revenue for the artificial teeth and orthodontic services included both installation services and supply of artificial teeth and orthodontic appliances;
+g) the artificial teeth and orthodontic appliances provided by the Appellant to its patients is a supply;
+h) installation of artificial teeth and orthodontic appliances is a separate supply;
+i) at all material times, the Appellant's supply of artificial teeth and orthodontic appliances generated no more than 9% of its total revenue;
+j) in its GST return for the Assessment Period, the Appellant reported no GST collectible, ITCs in the amount of $13,823.00 and a net tax refund of $13,823.00;
+k) the Appellant subsequently revised its ITCs claim to $14,901.00 for the Assessment Period;
+l) $2,195.00 of the ITCs claimed by the Appellant related to the supply of artificial teeth and orthodontic appliances to the Appellant's patients; and
+m) $12,706.00 of the ITCs claimed by the Appellant related to expenses incurred for the supply of dental care services, overhead and indirect expenses.
+[6] I would require some evidence from Dr. Singer to explain the nature of the various services described in the analysis and some substantiation of the figures. I appreciate that Dr. Singer does not wish to take time away from an apparently lucrative dental practice to support a claim of about $12,000 in ITCs. That is his choice but if there is a question of principle involved that may affect his calculation of GST, it is important that he take his case seriously. Most people have a general idea of what goes on in a dentist's office but I do not think that I can reasonably be expected to take judicial notice of the meaning of the technical terms of the procedures.
+[7] That is enough to dispose of the case. Out of deference to the careful arguments of Mr. Beck and counsel for the respondent, I shall deal briefly with a question of interpretation, albeit by way of obiter dictum.
+[8] Schedules V and VI read in part as follows:
+SCHEDULE V - EXEMPT SUPPLIES
+PART II - HEALTH CARE SERVICES
+2. A supply of an institutional health care service made by the operator of a health care facility if the service is rendered to a patient or resident of the facility, but no including a supply of a service related to the provision of a surgical or dental service that is performed for cosmetic purposes and not for medical or reconstructive purposes.
+5. A supply made by a medical practitioner of a consultative, diagnostic, treatment or other health care service rendered to an individual (other than a surgical or dental service that is performed for cosmetic purposes and not for medical or reconstructive purposes).
+SCHEDULE VI - ZERO-RATED SUPPLIES
+PART II - MEDICAL AND ASSISTIVE DEVICES
+1. In this Part, "medical practitioner" means a person who is entitled under the laws of a province to practice the profession of medicine.
+11. A supply of artificial teeth.
+11.1 A supply of an orthodontic appliance.
+25. A supply of a medical or surgical prosthesis, or an ileostomy, colostomy or urinary appliance or similar article that is designed to be worn by an individual.
+26. A supply of an article or material, not including a cosmetic, for use by a user of, and necessary for the proper application and maintenance of, a prosthesis, appliance or similar article described in section 25.
+34. A supply of a service (other than a service the supply of which is included in any provision of Part II of Schedule V except section 9 of that Part and a service related to the provision of a surgical or dental service that is performed for cosmetic purposes and not for medical or reconstructive purposes) of installing, maintaining, restoring, repairing or modifying a property described in any of sections 2 to 32 and 37 to 40 of this Part or any part for such a property if the part is supplied in conjunction with the service.
+[9] Now it will be obvious that the vast majority of dental services fall under Schedule V as exempt. The CRA's position is that dental services are either exempt or taxable, as stated in their letter to the appellant of December 9, 2004.
+Also enclosed is a summary of audit adjustments and our analysis of 0-rated revenue for your information. Please note that 0-rated revenue has been calculated based on the average proportion that laboratory charges billed were of total charges on the Dental Claim forms provided by your accountant. This resulted in 31.3% of the total charges in these procedure codes relating to artificial teeth being 0-rated. This percentage has been applied to the analysis of revenue provided by your accountant for 2001 and 2002. When the 0-rated portion was totalled including the initial orthodontic fees, the 0-rated portion of your total revenue was 9%. Per this analysis, less than 10% of your revenue is commercial revenue and this results in ITCs not being allowed on overhead or indirect expenses. We have calculated allowable ITCs of 9% on the dental supplies reported.
+Your representative, Carl Beck, has indicated that he believes the supply of artificial teeth is a zero-rated service because these services are performed for cosmetic purposes. This is not the position of the Agency. Our position is that the dentist's services are either exempt or taxable depending on whether or not they are cosmetic. However, as indicated above, we are allowing some input tax credits based on the zero rating of revenue from artificial teeth and orthodontic devices. We are accepting that a dentist supplying zero-rated devices along with their services can split up the two supplies if they invoice them such that there is a zero-rated component (the supply of the manufacture of the artificial tooth or orthodontic device) and an exempt component (the dentist's services of diagnosis and treatment).
+[10] This is not in my view correct. Some supplies are zero-rated and in the assessment this is recognized. The respondent's position is that the cost of an artificial tooth is zero-rated under Schedule VI, Part II, section 11, but that the cost of installing it is not. With respect, I disagree. Paragraph 34 speaks specifically of "the supply of a service of ... installing ... a property described in any of sections 2 to 32 ...". The wording in my view is clear and specific. I do not think that anything in this case turns on whether any of the procedures are for cosmetic purposes. If it were relevant I would require evidence to be adduced.
+[11] Counsel argues that the installation of an artificial tooth is "a supply of a service (other than a service the supply of which is included in any provision of Part II of Schedule V...". The words in parentheses in section 34 are in my view general. The words outside the parentheses are specific and prevail over the general words. Therefore, on this narrow question of law I think the appellant is correct. On the facts however I must dismiss the appeal.
+Signed at Ottawa, Canada, this 5th day of April 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2006TCC205
+COURT FILE NO:
+2005-2726(GST)I
+STYLE OF CAUSE:
+Dr. James Singer Inc. and
+Her Majesty The Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+March 20, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+April 5, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Carl Beck
+Counsel for the Respondent:
+Shawna Cruz
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+Beck & Associates
+6824 Chalet Court
+Delta, British Columbia
+V4E 3C1
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,173 @@
+---
+title: "Kelowna Christian Center Society c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28495/index.do"
+last_modified: "2008-02-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 80"
+citation2: ""
+neutral_citation: "2008 CCI 80"
+decision_date: "2008-02-04"
+language: "fr"
+item_id: "28495"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1292
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:11:35.164000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "13dc31ef77aff2409ed1e3479e3733ace906c3842eaa5a2a1aee36d89860d4aa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kelowna Christian Center Society c. M.R.N.
+
+- Citation: 2008 CCI 80
+- Decision date: 2008-02-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1292, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kelowna Christian Center Society c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-04
+Référence neutre
+2008 CCI 80
+Numéro de dossier
+2007-2067(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2007-2067(EI)
+2007-2068(CPP)
+ENTRE :
+KELOWNA CHRISTIAN CENTER SOCIETY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+HEATHER WIK,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 22 janvier 2008, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelante :
+Me David M. Towill
+Avocate de l’intimé :
+Me Christa Akey
+Pour l’intervenante :
+L’intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des décisions du ministre du Revenu national rendues en vertu de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada sont admis, et les décisions sont annulées au motif que Heather Wik n’exerçait pas un emploi assurable ou ouvrant droit à pension pendant la période du 5 septembre 2005 au 30 juin 2006.
+Chaque partie assume ses propres dépens.
+Signé à Toronto (Ontario), ce 4e jour de février 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 18e jour de mars 2008.
+Michèle Ledecq, réviseure
+Référence : 2008CCI80
+Date : 20080204
+Dossiers : 2007-2067(EI)
+2007-2068(CPP)
+ENTRE :
+KELOWNA CHRISTIAN CENTER SOCIETY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+HEATHER WIK,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience, le 30 janvier 2008.)
+La juge Woods
+[1] Il s’agit des motifs rendus oralement dans le cadre des appels introduits par la Kelowna Christian Center Society (l’« organisme ») contre le ministre du Revenu national.
+[2] La Cour doit trancher la question de savoir si Heather Wik a été engagée à titre d’employée ou d’entrepreneuse indépendante par l’organisme pour agir comme enseignante pendant un semestre scolaire de dix mois en 2005 et en 2006. Le ministre du Revenu national a décidé qu’elle exerçait un emploi assurable et ouvrant droit à pension pour l’application de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada. L’organisme interjette appel de cette décision.
+[3] Mme Wik a participé à l’audience en qualité d’intervenante, et elle souhaite que la décision du ministre selon laquelle elle est une employée soit confirmée, principalement pour les besoins de l’établissement des prestations de maternité sous le régime de la Loi sur l’assurance‑emploi.
+[4] Il convient en premier lieu de fournir quelques renseignements au sujet de l’appelante et de l’intervenante.
+[5] L’appelante est un organisme sans but lucratif dont les activités consistent notamment à diriger un certain nombre d’écoles. Certaines de ces écoles fonctionnent selon le modèle traditionnel, avec des classes fixes, mais l’établissement visé en l’espèce offre un apprentissage à distance au moyen de l’éducation en ligne. De façon générale, l’école virtuelle fournit de l’aide aux étudiants, de la maternelle à la 12e année, qui bénéficient de l’enseignement à domicile.
+[6] Lorsque des enseignants sont embauchés par l’appelante pour enseigner dans les classes traditionnelles, ils le sont à titre d’employés. Mais lorsque les enseignants s’engagent par contrat à enseigner à l’école virtuelle, l’intention de l’appelante consiste alors à les engager à titre d’entrepreneurs indépendants. Il importe toutefois de signaler que le contrat‑type que signe chaque enseignant de l’école virtuelle ne fait pas explicitement état de cette intention.
+[7] Mme Wik a été embauchée à titre d’enseignante à l’école virtuelle pour un semestre de dix mois.
+[8] Si j’ai bien compris, l’école virtuelle offre deux genres de services aux familles dont l’instruction est fournie à la maison. L’un de ces services vise les cours en ligne. Certains enseignants sont embauchés expressément à cette fin, mais ce n’est pas le cas de Mme Wik. Ce service n’est donc pas en cause dans les présents appels. L’autre service offert aux familles dont l’instruction est fournie à la maison est appelé le programme individualisé. Je crois comprendre que ce programme a pour principal objectif d’aider les familles dont l’instruction est fournie à la maison à se conformer aux règlements gouvernementaux touchant les résultats d’apprentissage. Mme Wik s’est engagée par contrat à enseigner dans le cadre de ce programme.
+[9] Mme Wik avait pour fonction de travailler avec un nombre fixe d’étudiants, soit 13 ou 14 personnes dans son cas. L’école avait prévu que l’enseignant aurait à travailler environ une heure par semaine par étudiant et s’attendait donc à ce que la charge de travail de Mme Wik soit d’environ 14 heures par semaine.
+[10] Habituellement, les fonctions de Mme Wik l’obligeaient d’abord à collaborer avec chacune des familles afin d’élaborer un projet d’apprentissage individualisé permettant d’atteindre les résultats d’apprentissage fixés par le gouvernement. Mme Wik aidait ensuite les parents à mettre en œuvre le projet d’apprentissage pendant toute l’année scolaire, principalement au moyen de communications électroniques hebdomadaires. Elle était en outre tenue d’évaluer le travail de l’étudiant trois fois par année et de déterminer si les résultats d’apprentissage étaient atteints.
+[11] J’examinerai maintenant la question à trancher.
+[12] Le principe juridique qu’il faut appliquer dans les situations comme celle dont je suis saisie est bien établi, et je ne le répéterai pas ici. Pour l’essentiel, il s’agit de décider si Mme Wik exploitait sa propre entreprise. La réponse à cette question se fonde sur un examen approfondi de l’ensemble des faits et des circonstances et sur l’appréciation de certains facteurs comme le pouvoir de l’école d’exercer un contrôle sur la façon dont Mme Wik exécutait son travail, la propriété du matériel et des fournitures utilisés par cette dernière, la possibilité que Mme Wik réalise un profit ou le risque qu’elle subisse une perte et, enfin, l’intention des parties.
+[13] À la lumière de la preuve présentée en l’espèce, je conclus que les relations entre l’école virtuelle et Mme Wik sont davantage compatibles avec une relation à titre d’entrepreneuse indépendante. Les raisons qui m’ont incité à tirer cette conclusion sont les suivantes.
+[14] Je vais en premier lieu examiner l’intention des parties. J’estime, à la lumière de l’ensemble de la preuve, qu’il n’existait pas entre l’école virtuelle et Mme Wik d’entente explicite voulant que cette dernière ait été engagée à titre d’entrepreneuse indépendante. Dans son témoignage, Mme Wik a fait des assertions en ce sens, et j’ajoute foi à celles‑ci.
+[15] Même s’il n’y avait pas d’entente entre les parties, je conclus en outre que l’administration scolaire a tenté de communiquer aux enseignants la nature de son intention à l’occasion d’une réunion d’orientation tenue au début de l’année et à laquelle tous les enseignants étaient tenus d’assister. J’accepte le témoignage du surintendant scolaire, Gregory Bitgood, lorsqu’il a affirmé qu’il croyait que l’intention de l’école était implicite. Je crois que, vraisemblablement, la plupart des enseignants auraient compris la position de l’école à cet égard.
+[16] Bien que Mme Wik n’ait pas saisi qu’elle était engagée à titre d’entrepreneuse indépendante, je pense qu’elle a omis de prêter attention à un certain nombre de signaux d’alarme. Aucune retenue salariale n’était faite. Un cours sur la façon d’exploiter sa propre entreprise était offert aux enseignants lors de la réunion d’orientation. De plus, la rémunération des enseignants de l’école virtuelle était différente de celle versée pour un poste d’enseignant habituel. En revanche, l’un des facteurs susceptibles de créer une confusion légitime tient au fait que l’administration scolaire qualifiait les enseignants de membres du personnel. Tout bien pesé, je crois cependant que Mme Wik aurait dû se rendre compte que cette relation était fondamentalement différente de celle qui régissait ses précédents emplois d’enseignante.
+[17] Où en sommes-nous, donc, avec le facteur relatif à l’intention? Manifestement, les parties n’avaient pas d’intention commune, mais j’estime important de relever que l’administration scolaire a déployé des efforts de bonne foi pour faire connaître son intention. Si Mme Wik avait bien fait attention à ce qui était communiqué, je crois qu’elle aurait à tout le moins véritablement douté qu’il s’agissait d’une relation employeur‑employée.
+[18] Je signale toutefois que l’école a omis de préciser ce fait dans le contrat‑type, et il semble que l’école a également omis d’aviser explicitement les enseignants que ce contrat d’enseignement ne pouvait être pris en compte en vue de l’obtention de prestations de maternité. Cette situation est fort regrettable, mais ce n’est pas une raison suffisante pour me justifier de conclure qu’il s’agissait d’une relation employeur‑employée.
+[19] Je vais maintenant me pencher sur les modalités du contrat, lesquelles sont très différentes de celles qui s’appliquent dans le cadre d’une relation d’emploi traditionnelle où les heures de travail sont fixes, la période d’embauche est indéterminée et la rémunération consiste en un salaire horaire. Dans la présente affaire, Mme Wik recevait une somme annuelle par étudiant et elle était libre de fournir les services au moment et à l’endroit de son choix. Elle pouvait même travailler en voyageant puisque tout ce dont elle avait besoin était un accès Internet. En outre, l’école tentait de confier aux enseignants la charge de travail qu’ils souhaitaient. Mme Wik, quant à elle, voulait environ 15 étudiants, ce qui constitue une charge de travail nettement moindre qu’un emploi à plein temps, lequel correspond à environ 40 étudiants. De surcroît, je remarque que Mme Wik recevait certains avantages, comme un régime de soins dentaires, mais ces avantages étaient optionnels, et Mme Wik devait contribuer à leur coût. Lorsqu’ils sont examinés ensemble, ces facteurs étayent la thèse avancée par l’appelante.
+[20] Je signale également que Mme Wik devait acheter son propre matériel et ses propres fournitures, mais le fait que l’école offrait une indemnité pour certains de ces frais me paraît pertinent. J’estime que ce facteur est neutre puisqu’il ne fait pencher la balance en faveur ni d’une relation d’emploi ni d’une relation à titre d’entrepreneuse indépendante.
+[21] Un autre point soulevé à l’audience concerne le fait que les enseignants avaient la possibilité de sous‑traiter leur travail. Je ne crois pas qu’il s’agisse d’un facteur important en l’espèce parce que rien ne permet de penser que Mme Wik ait été informée de cette possibilité. J’accepte le témoignage de Mme Wik selon lequel elle ne croyait pas qu’elle pouvait recourir à la sous‑traitance.
+[22] La dernière question est celle touchant au contrôle. Il s’agit en l’espèce de savoir dans quelle mesure l’école pouvait imposer à Mme Wik la façon dont elle devait remplir ses fonctions d’enseignante.
+[23] J’estime pertinent, à l’examen de ce facteur, de noter que l’école pensait de toute évidence qu’elle s’était engagée dans une relation avec une entrepreneure indépendante. Rien dans le contrat signé par Mme Wik ne laisse croire que l’école avait le pouvoir d’imposer à cette dernière, de manière générale, la façon dont elle devait remplir ses fonctions. Certes, le contrat énonce des politiques précises, comme celles relatives à la communication, et il prévoit que l’école peut formuler certaines exigences dans des domaines connexes, comme la rédaction d’articles pour le bulletin d’information ou les relations avec les parents. Mais, en ce qui a trait aux fonctions essentielles de l’enseignement et de l’évaluation, le contrat offrait à Mme Wik une latitude appréciable pour s’acquitter de sa tâche comme bon lui semblait. À la lumière du contrat dans son ensemble, je conclus que celui‑ci étaye la thèse de l’appelante voulant qu’elle n’ait pas le pouvoir d’exercer un contrôle sur la façon dont le travail était accompli.
+[24] L’affaire ne se termine pas là pour autant puisqu’il est également nécessaire de se demander si, au‑delà du contrat, l’administration scolaire a réellement tenté de dire à Mme Wik comment effectuer son travail. Si l’administration scolaire avait tenté d’exercer un contrôle appréciable sur la façon dont le travail était accompli, je crois qu’il s’agirait d’un fait important.
+[25] À cet égard, l’intimé a produit un document désigné comme le manuel de l’enseignant qui énonce les politiques et les méthodes que doivent suivre les enseignants. De manière générale, je conclus que ce manuel ne peut être assimilé à une tentative visant à exercer un contrôle sur la façon dont les enseignants doivent accomplir leur travail. Les méthodes fournissent un cadre de travail aux enseignants, mais leur laissent beaucoup de latitude, comme on peut s’y attendre lorsqu’il s’agit d’enseignement à domicile où les parents jouent un rôle fondamental.
+[26] De plus, l’intimé a appelé Mme Wik à témoigner, et cette dernière a déclaré qu’une enseignante travaillant pour l’administration, Janet Rainbow, communiquait très fréquemment avec elle. Elle a affirmé avoir reçu de Mme Rainbow plus de 80 courriels, dont l’un a été déposé en preuve à titre d’exemple pour établir la nature de la relation.
+[27] Je crois que les communications de Mme Rainbow s’apparentent en grande partie à du soutien offert à un enseignant plutôt qu’à des directives. À l’audience, on a dit plus d’une fois de Mme Rainbow qu’elle était une excellente personne‑ressource. Les courriels laissent entendre qu’il arrivait à Mme Rainbow d’imposer des exigences aux enseignants, mais cela est prévisible lorsqu’il faut respecter des règlements gouvernementaux et répondre aux attentes des parents. Mme Rainbow a, à une ou deux occasions, dépassé les limites, à mon avis, mais je ne crois pas que ce soit suffisant pour faire pencher la balance en faveur d’une relation d’emploi.
+[28] Il convient aussi de signaler que Mme Wik a été engagée à un moment où ce programme était encore relativement nouveau. Il était donc normal que de nombreuses communications soient échangées entre l’administration et les enseignants puisque chacun tentait de trouver la meilleure façon de fournir les services aux familles tout en respectant les règlements gouvernementaux.
+[29] Dans l’ensemble, j’arrive à la conclusion que l’administration scolaire n’a pas exercé un contrôle suffisant pour faire de Mme Wik une employée et que le contrat ne lui conférait pas le pouvoir d’exercer un tel contrôle.
+[30] Après avoir apprécié chacun des facteurs susmentionnés, je conclus que les faits étayent la thèse de l’appelante voulant que Mme Wik ait été engagée à titre d’entrepreneuse indépendante. Même si certains éléments donnent à penser qu’il s’agissait d’une relation d’emploi, je crois que la plupart des facteurs jouent en faveur de l’appelante.
+[31] Les appels seront accueillis, et les décisions du ministre seront annulées au motif que Mme Wik n’exerçait pas un emploi assurable ou ouvrant droit à pension. Il n’y aura aucune adjudication de dépens.
+Signé à Toronto (Ontario), ce 4e jour de février 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 18e jour de mars 2008.
+Michèle Ledecq, réviseure
+RÉFÉRENCE : 2008CCI80
+NO DU DOSSIER DE LA COUR : 2007-2067(EI); 2007-2068(CPP)
+INTITULÉ DE LA CAUSE : Kelowna Christian Center Society
+c.
+Le ministre du Revenu national et
+Heather Wik
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 22 janvier 2008
+MOTIFS DU JUGEMENT PAR : L’honorable juge J. Woods
+DATE DU JUGEMENT : Le 4 février 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me David M. Towill
+Avocate de l’intimé :
+Me Christa Akey
+Pour l’intervenante :
+L’intervenante elle-même
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom : Me David M. Towill
+Cabinet : Thomas Butler LLP Vancouver (Colombie-Britannique)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l’intervenante : S/O

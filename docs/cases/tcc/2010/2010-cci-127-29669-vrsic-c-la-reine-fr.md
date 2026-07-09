@@ -1,0 +1,177 @@
+---
+title: "Vrsic c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29669/index.do"
+last_modified: "2010-03-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 127"
+citation2: ""
+neutral_citation: "2010 CCI 127"
+decision_date: "2010-03-03"
+language: "fr"
+item_id: "29669"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6237
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:13:15.387000+00:00"
+cases_cited_count: 8
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "48bc098b52c70ee7cb1af162db86978716f855362e84e25ec7bacfb558579308"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vrsic c. La Reine
+
+- Citation: 2010 CCI 127
+- Decision date: 2010-03-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6237, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vrsic c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-03
+Référence neutre
+2010 CCI 127
+Numéro de dossier
+2009-2268(GST)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-2268(GST)I
+ENTRE :
+MICHAEL VRSIC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 15 janvier 2010, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocate de l’appelant :
+Me Deborah Corcoran
+Avocat de l’intimée :
+Me Darren Prevost
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des cotisations établies sous le régime de la Loi sur la taxe d’accise pour la période de déclaration se terminant le 31 décembre 2005 et pour les périodes de déclaration se terminant le 31 mars 2007 et le 30 juin 2007 sont accueillis, et l’affaire est renvoyée au ministre du Revenu national pour modification, compte tenu du fait que, pour le trimestre se terminant le 31 décembre 2005, la cotisation est réduite de 6 694 $, et pour les deux trimestres se terminant le 31 mars et le 30 juin 2007, la cotisation est réduite de 31 000 $, et que l’intérêt et les pénalités sont ajustés en conséquence. Pour les trimestres se terminant le 31 mars, le 30 juin, le 30 septembre et le 31 décembre 2006, les appels sont rejetés. M. Vrsic a droit à des dépens de 250 $.
+Signé à Ottawa, Canada, ce 3e jour de mars 2010.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 4e jour de mai 2010.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2010CCI127
+Date : 20100303
+Dossier : 2009-2268(GST)I
+ENTRE :
+MICHAEL VRSIC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Monsieur Vrsic interjette appel, dans le cadre de la procédure informelle, d’une cotisation fondée sur la responsabilité de l’administrateur en matière de TPS et visant une somme d’environ 68 000 $ exigée d’A.C. Standard Industrial Supply Ltd. (« AC » ou la « société »). À l’instruction, M. Vrsic a avancé une défense de diligence raisonnable, mais il est devenu évident, après examen du tableau des sommes exigibles présenté par l’Agence du revenu du Canada (l’« ARC ») (voir l’annexe A ci‑jointe), que la cotisation sous‑jacente établie à l’égard de la société soulevait une importante difficulté. J’ai informé les parties que je me pencherais sur la question de savoir s’il m’était possible de faire quoi que ce soit au sujet de la cotisation sous‑jacente et que, dans l’affirmative, j’autoriserais l’intimée à produire des observations écrites. C’est finalement ainsi que les choses se sont passées et j’ai maintenant reçu ces observations écrites, lesquelles j’examinerai plus loin dans mes motifs. L’appelant n’a pas présenté d’autres observations bien qu’il ait eu l’occasion de le faire.
+Les faits
+[2] AC a été constituée en société en 1980 par le père de M. Vrsic et un partenaire d’affaires. Les activités de la société consistaient à fournir des outils, des fixations, etc., dans le secteur des outils et matrices. Après le décès du partenaire d’affaires, M. Vrsic s’est joint à son père dans l’entreprise familiale. Il a alors abandonné des études commerciales de deux ans au Sheridan College. En 1988, il a commencé à travailler à temps plein chez AC, d’abord comme camionneur et plus tard comme responsable des ventes de la société. Il a été nommé administrateur en 1989 et secrétaire‑trésorier en 1996.
+[3] AC avait une aide‑comptable interne, Mme Louise Armstrong, qui tenait les comptes de la société, et à laquelle il incombait notamment d’établir et de remettre les taxes. Bien qu’il ait été un signataire autorisé – et il a reconnu qu’il était la personne chargée de surveiller la tenue de livres –, M. Vrsic laissait Mme Armstrong s’occuper de ces questions. Il lui avait même confié un timbre de sa signature pour lui éviter d’avoir à le chercher à chaque fois qu’un chèque devait être signé. Il demandait périodiquement si les remises de taxe étaient faites et on lui disait toujours que c’était le cas. L’ARC procédait à des vérifications de TPS à l’occasion – soit à chaque deux ou trois ans – et M. Vrsic demandait aussi à l’ARC si elle estimait que tout était en ordre, et elle lui répondait par l’affirmative.
+[4] La société était assez prospère et elle a augmenté ses effectifs et ses ventes au fil des ans. M. Vrsic a reconnu qu’après le 11 septembre 2001, puis à nouveau avec les difficultés survenues dans le secteur de l’acier et plus tard dans le secteur de l’automobile, les affaires et, plus important encore, le flux de trésorerie, s’étaient détériorés. Ce n’est toutefois qu’à l’été 2006 que M. Vrsic s’est rendu compte de la gravité des problèmes financiers de la société. Il s’était fié aux états financiers, lesquels laissaient entendre que l’entreprise se maintenait. Son père, qui avait subi un accident vasculaire cérébral en 2003 et qui continuait de participer à l’entreprise, mais uniquement d’une façon incidente, a informé M. Vrsic en 2006 qu’il y avait un problème avec les remises de taxe. Selon M. Vrsic, depuis un certain temps en 2005, Mme Armstrong émettait des chèques pour les remises de taxe à l’ordre de l’ARC, mais elle omettait de les faire parvenir à celle‑ci. M. Vrsic ne s’en était pas aperçu puisqu’il n’avait pas vérifié si tous les chèques émis avaient été compensés. Dans son témoignage, il a mentionné qu’il avait recours à des experts‑comptables, qu’il rencontrait une fois par année, mais, de toute évidence, ils n’ont pas remarqué ce manquement et ils ont supposé que les remises de taxe étaient tout simplement effectuées.
+[5] Reconnaissant que l’avenir financier de la société s’en allait rapidement à vau‑l’eau, M. Vrsic a lui‑même injecté une somme de 300 000 $ dans l’entreprise en 2006. Il avait tenté d’exiger de ses clients qu’ils payent scrupuleusement leurs comptes dans un délai de 30 jours, mais certains des plus importants clients n’ont pas tenu compte de sa demande et ont continué de payer en retard.
+[6] Lorsque M. Vrsic a su ce que Mme Armstrong faisait, il lui a demandé des explications. Elle est partie. Elle avait été une employée appréciée pendant 20 ans et elle est simplement partie, laissant l’ensemble de la tenue des comptes à M. Vrsic, et omettant même de fournir le code qui permettait d’avoir accès aux dossiers informatisés.
+[7] Monsieur Vrsic croyait que la seule façon de remplir les obligations de la société, y compris la dette au titre de la taxe, consistait à vendre les éléments d’actif de la société. Il a tenté de conclure un marché avec un concurrent, pensant qu’il pourrait obtenir au moins 300 000 $ pour le stock de la société. Le concurrent s’est regimbé et M. Vrsic s’est finalement départi du stock pour seulement 5 000 $. Il avait consciemment décidé de veiller à ce que ses employés soient bien traités, dans la mesure permise par les ressources limitées de la société.
+[8] Les ventes de la société sont passées de 100 000 $ par mois à moins de 25 000 $ par mois au cours des derniers mois de la survie de la société. M. Vrsic a reconnu, dans un débordement d’émotions, qu’il était responsable du défaut de la société de payer les taxes, mais qu’il avait tenté de trouver des fonds suffisants, premièrement en déposant 300 000 $ dans le compte de la société, puis en essayant de vendre le stock.
+[9] Dans son témoignage, M. Qadir, de l’ARC, a déclaré que cette dernière avait estimé la dette d’AC pour les deux premiers trimestres de 2007 à la lumière de l’historique des ventes. De plus, comme AC avait omis de produire des déclarations pour ces deux trimestres, le gouvernement n’a tenu compte d’aucun crédit de taxe sur les intrants (« CTI ») dans le calcul de la dette d’AC. Le gouvernement a tenté, sans succès, de percevoir la somme due par AC. Il a ensuite produit le certificat requis avant de poursuivre l’administrateur, M. Vrsic.
+Les points en litige
+i) Monsieur Vrsic peut‑il invoquer la défense fondée sur la diligence raisonnable?
+ii) La cotisation sous‑jacente établie à l’égard de la société peut‑elle être examinée à nouveau?
+iii) Dans l’affirmative, la cotisation est‑elle exacte?
+Analyse
+[10] Les dispositions applicables sont les paragraphes 323(1), (2) et (3) de la Loi sur la taxe d’accise (la « Loi ») :
+323(1) Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payé ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+(2) L’administrateur n’encourt de responsabilité selon le paragraphe (1) que si :
+a) un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l’article 316 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+b) la personne morale a entrepris des procédures de liquidation ou de dissolution, ou elle a fait l’objet d’une dissolution, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant le premier en date du début des procédures et de la dissolution;
+c) la personne morale a fait une cession, ou une ordonnance de faillite a été rendue contre elle en application de la Loi sur la faillite et l’insolvabilité, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant la cession ou l’ordonnance.
+(3) L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[11] Il n’est pas encore bien établi dans la jurisprudence quel critère il convient d’appliquer en qui touche la défense de diligence raisonnable visée au paragraphe 323(3) : le critère objectif subjectif énoncé dans l’arrêt Soper c. R.[1] ou simplement le critère objectif formulé par la Cour suprême du Canada dans l’arrêt Magasins à rayons Peoples inc. (Syndic de) c. Wise[2] (voir, par exemple, les observations de M. le juge Ryer aux paragraphes 11 et 12 de l’arrêt Hartrell c. R.[3]). À mon avis, M. le juge Rothstein s’est exprimé en les termes les plus succincts et précis dans l’arrêt Moriyama c. La Reine[4] :
+[…]
+19. Il sera toujours possible d’établir qu’un administrateur n’a pas pris de mesures pour empêcher une société d’omettre de payer des impôts. Cependant, le critère de la diligence raisonnable en vertu du paragraphe 323(3) ne porte pas sur toutes les mesures imaginables qui peuvent avoir été prises, mais plutôt sur les mesures qu’auraient prises pour éviter ce défaut « une personne raisonnablement prudente dans les mêmes circonstances ».
+[…]
+[12] Monsieur Vrsic a‑t‑il agi comme l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances? De toute évidence, M. Vrsic participait aux activités quotidiennes de l’entreprise. Il a admis qu’il avait notamment pour fonction de surveiller la tenue des comptes de la société. Quelles mesures a‑t‑il prises en cette qualité pour veiller à ce que les remises soient effectuées? Il avait confié cette responsabilité à une employée de longue date qui, pendant près de 20 ans, avait régulièrement et efficacement exercé ses fonctions, y compris, au cours des dernières années, l’établissement et la remise de la TPS. M. Vrsic demandait périodiquement à Mme Armstrong si elle s’était chargée de la TPS. Il demandait aux vérificateurs de l’ARC à l’occasion de leurs visites si tout allait bien. Même en 2004 et en 2005, lorsque le flux de trésorerie commençait à causer des difficultés, il croyait que les remises étaient effectuées, et c’était le cas. C’est au dernier trimestre de 2005 que Mme Armstrong a pour la première fois conclu que la société ne disposait pas des fonds suffisants pour s’acquitter de ses obligations au titre de la TPS. Jusqu’à ce moment, j’estime que M. Vrsic a agi prudemment en se fiant à sa compétente aide‑comptable, en demandant périodiquement si les remises avaient lieu et en se renseignant sur ce point à l’occasion auprès des vérificateurs de l’ARC. Comme l’a exprimé le juge Rothstein, l’appelant aurait peut‑être pu prendre d’autres mesures pour prévenir le manquement à la fin de 2005 mais, selon la prépondérance des probabilités, je conclus que M. Vrsic a, jusque‑là, agi comme l’aurait fait une personne raisonnablement prudente.
+[13] Je me préoccupe des efforts de M. Vrsic et de l’absence de contrôles permettant de vérifier si l’ARC recevait les remises. En 2006, la situation financière de la société avait empiré. Par un simple rapprochement bancaire, M. Vrsic aurait pu, et aurait dû, déceler le fait que l’ARC n’avait pas encaissé un chèque de quelques 8 000 $ pour le dernier trimestre de 2005. À un certain moment en 2006, on l’a en outre explicitement mis au courant du problème lié à la TPS. Lorsqu’il injecte des capitaux dans la société, il prend sciemment la décision de favoriser ses employés avant de payer l’ARC. Dans l’ensemble, ses actes ne reflètent aucune diligence à tenter de prévenir le manquement lié à la remise de la taxe. Ses actes visant à tenter de préserver une partie du stock en vue de payer l’ARC ne peuvent être assimilés à l’exercice d’une diligence raisonnable pour prévenir le manquement : il s’agissait d’une tentative de payer la dette après le fait. Cela n’est pas suffisant.
+[14] Je conclus que M. Vrsic peut invoquer la défense de diligence raisonnable pour le dernier trimestre de 2005, mais non après. S’il n’y avait rien d’autre, on pourrait ainsi réduire la cotisation établie à son endroit à titre personnel d’une somme de 6 694 $ plus la pénalité et l’intérêt afférents à l’exercice se terminant le 31 décembre 2005.
+[15] Je me penche maintenant sur la question de la cotisation sous‑jacente et, en particulier, de la cotisation s’élevant à 20 000 $ établie relativement à chacun des deux premiers trimestres de 2007. Selon M. Qadir, cette cotisation se fondait sur l’hypothèse formulée par le gouvernement voulant que les ventes en 2007 correspondent à l’historique des ventes pour les années antérieures. En réalité, comme l’a mentionné M. Vrsic pendant son témoignage, les ventes en 2007 se chiffraient à moins du quart de ce qu’elles étaient auparavant. De plus, le gouvernement n’a rien accordé au titre des CTI parce qu’AC a omis de produire une demande à cet effet. J’estime que la cotisation visant les deux premiers trimestres est nettement surévaluée. Puis‑je faire quelque chose à cet égard? Je le crois.
+[16] Premièrement, M. Vrsic peut‑il contester la cotisation sous‑jacente dont AC a fait l’objet? Deux courants s’opposent sur cette question au sein de la Cour canadienne de l’impôt (voir, par exemple, les décisions Kern c. R.[5], Scavuzzo c. R.[6], Maillé c. R.[7] et Zaborniak c. R.[8]). Je m’en tiens aux observations que j’ai formulées dans la décision Kern, selon lesquelles le libellé de la Loi permet aux administrateurs de contester la cotisation sous‑jacente lorsque la société ne l’a pas elle‑même fait. Appliquant en outre l’approche fondée sur les principes de la justice naturelle suivie par la Cour d’appel fédérale dans l’arrêt Gaucher v. R.[9], je conclus qu’il est loisible à M. Vrsic de contester la cotisation établie à l’égard d’AC.
+[17] L’intimée fait pourtant valoir que l’appelant ne peut obtenir gain de cause relativement à une question qui n’a pas été alléguée. Elle affirme qu’elle était dans l’impossibilité de débattre d’hypothèses et de faits importants invoqués à l’appui de la cotisation. De plus, elle n’a pu produire certains éléments de preuve et elle a été privée de l’occasion de préparer sa preuve et de débattre de celle‑ci pour étayer la cotisation. Aucun de ces arguments ne me convainc. Il s’agit d’une affaire présentée dans le cadre de la procédure informelle. Bien que certaines règles s’appliquent, les instances sont dans une certaine mesure instruites d’une façon quelque peu rudimentaire et désordonnée en vue de permettre un processus rapide et une issue appropriée. Insinuer que M. Vrsic aurait dû modifier ses actes de procédure revient à imposer, dans une affaire instruite selon la procédure informelle, les règles de la procédure générale. En outre, le fait que l’intimée laisse entendre qu’elle n’a pas eu l’occasion de se préparer relativement à cette nouvelle question ou d’en débattre me confond totalement. J’ai expressément accordé à cette fin à l’intimée un délai d’un mois, et j’ai reçu et examiné ses arguments. Je me demande bien ce qu’il y aurait d’autre à faire. Enfin, l’insinuation de l’intimée selon laquelle d’autres éléments de preuve auraient pu être produits est également dénuée de tout fondement. L’intimée a appelé un représentant de l’ARC à témoigner. Il était à ce point évident à la lumière du propre recueil de documents de l’intimée qu’un gouffre séparait la réalité de la cotisation établie par le gouvernement à l’égard des deux derniers trimestres d’AC que j’ai posé des questions à ce sujet au représentant de l’ARC. J’ai ensuite demandé à l’avocat de l’intimée s’il avait des questions à cet égard. J’ai également envoyé des lettres de suivi aux avocats pour leur demander des observations supplémentaires sur ces deux derniers trimestres. Je n’accepte pas l’insinuation de l’intimée voulant que, dans le cadre de la présente procédure informelle, elle ait d’une façon ou d’une autre été privée d’une réelle possibilité de traiter cette question. En conséquence, j’ai l’intention d’examiner l’exactitude de la cotisation de 40 000 $ au titre de la TPS pour les deux derniers trimestres de la vie commerciale d’AC.
+Les éléments de preuve
+[18] Premièrement, je suis saisi du témoignage de M. Qadir selon lequel les deux cotisations de 20 000 $ se fondaient sur les ventes historiques d’AC sans qu’il soit tenu compte d’aucun CTI. Deuxièmement, je dispose du témoignage non contesté de M. Vrsic, qui était direct et honnête, voulant que, pendant les deux derniers trimestres, les ventes aient chuté de plus de 75 pour 100.
+[19] Sans aucun doute, le gouvernement peut établir une cotisation arbitraire; il est alors permis au contribuable de réfuter cette cotisation. Le gouvernement fait valoir que l’appelant n’a présenté aucun élément de preuve visant à établir l’inexactitude de la cotisation. J’ai certainement entendu un témoignage selon lequel la TPS visée par la cotisation du gouvernement se fondait sur des ventes beaucoup plus importantes que celles effectivement réalisées par AC. Certes, je suis uniquement saisi du témoignage oral de M. Vrsic, mais j’avais déjà une impression favorable quant à son honnêteté et à son intégrité, et j’accepte que les ventes aient chuté comme il l’a laissé entendre. Ce fait est entièrement compatible avec l’ensemble du récit touchant les succès et les échecs de cette entreprise.
+[20] J’estime que la cotisation de 20 000 $ établie par le gouvernement au titre de la TPS pour les deux derniers trimestres a été réfutée d’emblée puisqu’elle se fondait sur des ventes quatre ou cinq fois supérieures à celles qui ont plus vraisemblablement été réalisées. Même sans tenir compte des CTI, je déduis en conséquence la TPS de 20 000 $ par trimestre à 4 500 $ par trimestre.
+[21] Quant à la possibilité de déduire des CTI, l’avocat de l’intimée a renvoyé aux observations formulées par M. le juge Bowie dans la décision Key Property Management Corp. c. R.[10], où la Cour se demandait si les exigences prévues au paragraphe 169(4) en matière de demande de CTI sont de nature obligatoire ou si elles s’apparentent davantage à une indication :
+Les renseignements visés par règlement sont énoncés dans le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) (le Règlement). Aux termes du Règlement, la quantité de renseignements qu’un inscrit doit obtenir à l’appui d’une demande de CTI augmente à mesure que la contrepartie de la fourniture augmente, et les exigences à chaque niveau sont assez précises. Les avocats de l’appelante semblaient être d’avis que le témoignage oral de M. Krauel devrait être considéré comme satisfaisant adéquatement aux exigences particulières de la Loi et du Règlement. Je rejette une telle position. Nous savons bien que tout régime fiscal fondé sur la valeur ajoutée peut être vulnérable aux abus, et que l’un des aspects comportant le plus de risques concerne les demandes de crédits de taxe sur les intrants. Le but même de l’alinéa 169(4)a) et du Règlement est de protéger le Trésor contre les violations tant frauduleuses qu’innocentes. Ce but ne peut être atteint que si les exigences sont considérées comme étant obligatoires et sont rigoureusement appliquées. Le fait de les envisager simplement comme une indication ne serait pas seulement malencontreux, mais serait une grave violation de l’intégrité du texte législatif. [Non souligné dans l’original.]
+[22] L’intimée a reconnu qu’il n’est pas nécessaire de produire devant le tribunal les documents requis aux termes du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH), mais il doit y avoir une certaine preuve testimoniale établissant que de tels documents existaient au moment pertinent. En réalité, je ne suis saisi d’aucun élément de preuve sur ce point.
+[23] Dans son témoignage, M. Vrsic a fait état des ventes de la société au cours des deux derniers trimestres, mais il n’a offert aucun élément de preuve quant aux dépenses de la société, ou à ses fournisseurs; rien qui puisse me justifier de conclure que les exigences fixées au paragraphe 169(4) ont été remplies relativement à une quelconque somme donnée. Même s’il pouvait être conforme au bon sens commercial de penser que les fournitures étaient de l’ordre de 25 pour 100 au cours des deux derniers trimestres, et que les CTI devraient être accordés sur ce fondement, il s’agirait d’une totale conjecture de ma part, que la preuve ne permettrait nullement d’étayer. Je ne puis accorder des CTI dans ces circonstances.
+[24] En conclusion, les appels sont accueillis et renvoyés au ministre pour nouvelles cotisations, compte tenu du fait que les cotisations établies à l’égard de M. Vrsic devraient être réduites de 6 694 $ pour le trimestre se terminant le 31 décembre 2005 et d’une somme supplémentaire de 31 000 $ pour les deux derniers trimestres se terminant le 31 mars 2007 et le 30 juin 2007, soit une réduction totale de 37 694 $ plus l’intérêt et les pénalités applicables. J’adjuge à M. Vrsic des dépens de 250 $.
+Signé à Ottawa, Canada, ce 3e jour de mars 2010.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 4e jour de mai 2010.
+Christian Laroche, LL.B.
+Réviseur
+ANNEXE A
+RÉFÉRENCE : 2010 CCI 127
+NO DU DOSSIER DE LA COUR : 2009-2268(GST)I
+INTITULÉ : Michael Vrsic et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 15 janvier 2010
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 3 mars 2010
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Deborah Corcoran
+Avocat de l’intimée :
+Me Darren Prevost
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Deborah Corcoran
+Cabinet : Tibollo & Associates
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1998] 1 C.F. 124, 51 DTC 5407.
+[2] 2004 CSC 68.
+[3] 2008 CAF 59.
+[4] 2005 CAF 2007.
+[5] 2005 CCI 314.
+[6] 2005 CCI 772.
+[7] 2003 CCI 222.
+[8] 2004 CCI 560.
+[9] [2001] 1 CTC 125.
+[10] 2004 CCI 210.

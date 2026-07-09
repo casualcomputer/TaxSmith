@@ -1,0 +1,314 @@
+---
+title: "Gouveia v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/65450/index.do"
+last_modified: "2013-12-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 414"
+citation2: ""
+neutral_citation: "2013 TCC 414"
+decision_date: "2013-12-20"
+language: "en"
+item_id: "65450"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5983
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:41:09.929000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a831484eb1ccf16bc7addab1a4f7892cf18f9c1ffb8b37b8ac7675f2656da011"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gouveia v. The Queen
+
+- Citation: 2013 TCC 414
+- Decision date: 2013-12-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5983, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gouveia v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-12-20
+Neutral citation
+2013 TCC 414
+File numbers
+2009-3370(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3370(IT)G
+BETWEEN:
+PATRICK A. GOUVEIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 17, 2013, at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Vern Krishna
+Isabella Mentina
+Counsel for the Respondent:
+Brooke Sittler
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments for the 2003, 2004, 2005 and 2006 taxation years made by the Minister of National Revenue pursuant to the Income Tax Act are dismissed in accordance with the attached reasons for judgment.
+The appeal from the reassessment for the 2007 taxation year is allowed and the matter is referred back to the Minister for reconsideration and reassessment solely to give effect to the concession made by the Minister to reduce the business income of the appellant for that year by $33,000.
+The whole with costs to the Respondent.
+Signed at Ottawa, Canada, this 20th day of December 2013.
+"Réal Favreau"
+Favreau J.
+Citation: 2013 TCC 414
+Date: 20131220
+Docket: 2009-3370(IT)G
+BETWEEN:
+PATRICK A. GOUVEIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant appeals from the assessments for the 2003, 2004, 2005 and 2006 taxation years initially issued on June 10, 2004, May 19, 2005, April 27, 2007 and September 20, 2007 respectively (the “assessments”) and from the reassessment for the 2007 taxation year issued by a notice of reassessment dated September 22, 2008 (the “reassessment”).
+[2] By way of the assessments and the reassessment, the Minister of National Revenue (the “Minister”) disallowed the following legal expenses claimed by the appellant in connection with his defence against two legal proceedings: the charges brought by the Ontario Securities Commission (the “OSC proceedings") and the charges in a class action lawsuit (the “Class Action”):
+Year
+Amount Claimed
+2003
+$446,030.79
+2004
+$710,607.72
+2005
+$335,982.59
+2006
+$1,184,612.87
+2007
+$711,860.40
+[3] The appeal with respect to the 2003 taxation year is quashed because it is not properly before the Court. The Notice of Objection for the 2003 taxation year was not filed within the limitation set under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the “Act”).
+The Issue
+[4] The issue is whether the Minister properly disallowed the legal fees claimed by the appellant in his 2004, 2005, 2006 and 2007 taxation years.
+[5] The appellant's position is that the legal fees were incurred to gain, produce or protect income from business and are deductible under the general concept of "profit" pursuant to subsection 9(1) of the Act, and not prohibited under paragraph 18(1)(a) of the Act.
+[6] Although the Minister agrees that the appellant incurred certain legal fees, the Minister's view is that the fees were not incurred to gain or produce income from business or property and, therefore, are not deductible pursuant to paragraph 18(1)(a) and subsection 9(1) of the Act.
+[7] The parties filed a Statement of Agreed Facts at the hearing. The specific transactions that were carried out and the events that took place are described in paragraphs 5 to 52, which are reproduced here:
+Atlas and the Trust
+5. On May 14, 1997, the Associated Freezers Income Trust ("AFIT") made an initial public offering on the Toronto Stock Exchange.
+6. AFIT was an open-ended, limited purpose trust established under the laws of the Province of Ontario, which was created to invest in common shares, preferred shares and notes of Associated Freezers Ltd. ("AFL").
+7. On August 10, 2000, AFL merged with Atlas Cold Storage Holdings Limited. The merged entity was called the ACS Freezers Income Trust ("ACSFIT").
+8. ACSFIT changed its name to Atlas Cold Storage Income Trust (the "Trust") on June 25, 2001.
+9. The Trust was an open-ended, limited purpose trust established under the laws of the Province of Ontario. Its head office was in Toronto.
+10. The Trust, through its wholly owned subsidiary, Atlas Cold Storage Holdings Inc. ("Atlas" or "ACSHI"), and through the wholly-owned subsidiaries of ACSHI, operated a Canadian and US based network of public refrigerated warehouse facilities, a transportation business, and a retail management business.
+11. The earnings of Atlas and its subsidiaries flowed to the Trust and the Trust paid cash distributions to unit holders quarterly, as approved by the trustees of the Trust on the advice of the Directors of Atlas.
+12. Pursuant to Ontario securities law, the Trust, ACSFIT and AFIT were obliged to file audited financial statements, and various other reporting documents, with the Ontario Securities Commission (the "OSC”).
+13. On October 30, 2006, Eimskip Atlas Canada Inc. ("Eimskip") acquired all of the issued and outstanding units of the Trust and on November 3, 2006, the trustees of the Trust resigned.
+14. On November 3, 2006, the Trust units ceased trading on the Toronto Stock Exchange as a consequence of the Eimskip purchase.
+The appellant
+15. In or about November of 2003, the appellant, through 1177325 Ontario Ltd., held approximately 8.1% of the units of the Trust.
+16. The appellant was a director, the president and the chief executive officer of Atlas commencing August 11, 2000.
+17. The appellant had a contract of employment dated August 11, 2000 with Associated Freezers Ltd. ("AFL") [the "Employment Agreement"]. Under the Employment Agreement, the appellant received a base salary of $ 400,000 and was entitled to receive a bonus in each calendar year of no less than $100,000, payable in quarterly instalments.
+18. Pursuant to the Employment Agreement, the appellant was appointed the Chief Executive Officer of Atlas. His employment as Chief Executive Officer was for an indefinite term commencing August 11, 2000 and subject to termination not later than the appellant reaching the retirement age of 65, or earlier at the appellant's sole discretion in accordance with Atlas' early retirement policies.
+19. The appellant was also entitled to participate in the Trust Unit Option Plan of AFIT. Under the terms of the Employment Agreement, the appellant received an initial grant of options to purchase units in AFIT, the underlying units having a market value of $2,000,000. At the discretion of the Board of Directors, the appellant was entitled to additional grants of options to purchase units in AFIT. The additional grants were to have an approximate market value of $1,000,000.
+20. AFL also had a Restricted Phantom Unit ("RPU") Plan, in which the appellant was entitled to participate. The appellant received an initial grant of RPUs with an approximate market value of $150,000 at the effective date of the Employment Agreement. Pursuant to the terms of the Employment Agreement, the appellant was entitled to a payment in the amount of $1,014,081 in respect of the RPU Plan.
+21. The RPU Plan provided that the appellant would be entitled to receive additional payments within three years. The payments were to be determined by reference to the average of the closing prices of the units in AFIT on the Toronto Stock Exchange at the relevant time and no later than December 31 of the year that was three years from the date of the grant.
+22. The RPU Plan provided that the RPUs vested three years after the date of granting and could be redeemed for cash, calculated at the aggregate of the then market value of the AFIT units plus the cash distribution paid over the intervening years.
+23. The RPU Plan was a bonus plan, wherein the amount of the appellant's bonus was calculated on a formula that included share value and distributions that were paid on the trust units. The grant of RPUs was notional.
+24. The appellant never received a transfer of RPUs nor any cash payments under the RPU Plan.
+25. After the second quarter of 2003, no executives, officers, or employees of Atlas received a notional grant of RPUs under the RPU plan.
+26. The appellant was entitled to a termination payment under the terms of the Employment Agreement.
+27. Under the terms of the Employment Agreement, there is a difference between payments to the appellant if he was terminated for cause and if employment was terminated without cause.
+28. If termination was for cause, the appellant was entitled to any amounts owing to him up to and including the date of termination of his employment income together with any accrued vacation pay.
+29. If, however, the appellant was terminated without cause, he would be entitled to accelerate all of his granted but unvested unit options that he held and that would have vested within a term of two years from the date of termination. Further, in the latter case, the appellant could also accelerate the issue of the units in respect of the RPUs. The accelerated options would be dealt with according to the terms and conditions of the applicable stock option plans.
+30. The Employment Agreement also provided for termination payments in the event of a change of control of the company.
+31. On August 29, 2003, the Trust announced that it would be restating the results for the 2001 and 2002 fiscal years. Amended and Restated Consolidated Financial Statements for the years ended December 31, 2001 and 2002 were issued thereafter, as were Financial Statements for the year ended December 31, 2003.
+Termination of employment with Atlas
+32. The appellant resigned from Atlas on November 21, 2003.
+33. The appellant made a wrongful dismissal claim against Atlas and its successors. It was an arbitration proceeding. The wrongful dismissal proceeding was settled in November 2010 without admission of liability on the part of any party.
+1177325 Ontario Limited
+34. At all material times, the appellant held the majority of the shares in 1177325 Ontario Limited.
+35. Since the appellant's resignation of November 21, 2003, the appellant has provided consulting work exclusively for 1177325 Ontario Limited, through Spire Group Limited, a related company.
+36. Prior to his resignation from Atlas, the appellant performed the same work for 1177325 Ontario Ltd., through Spire Group Limited, a related company, as he performed after his resignation.
+Patrick Gouveia Consulting
+37. Since 2002, the appellant has reported income from a sole proprietorship known as Patrick Gouveia Consulting ("PGC').
+38. PGC is a management consultancy business. Its purpose is to manage the business of 1177325 Ontario Ltd., through Spire Group Limited, a related company, and to solicit business in the public refrigerated warehousing industry.
+39. From 2002 onwards, the appellant reported income in the form of management fees from PGC, paid to PGC by Spire Group Limited, a related company to 1177325 Ontario Ltd., as follows:
+a) 2002: $230,000
+b) 2003: $230,000
+c) 2004: $250,000
+d) 2005: $0
+e) 2006: $0
+f) 2007: $583,000[1]
+40. The appellant continues to carry on business through PGC.
+OSC Proceedings
+41. On or about June 2, 2004, the OSC brought charges against the appellant in the Ontario Court of Justice with respect to the filing of the Trust's annual financial statements for the years ending 2001 and 2002, and the first and second reporting periods for the Trust's 2003 financial year.
+42. The OSC alleged that senior employees of Atlas, including the appellant, engaged in a course of conduct that was intended to present an improperly improved picture of the financial performance of the Trust for the period including the financial years 2001, 2002, and the first two reporting periods of 2003.
+43. The OSC alleged that this conduct included the inappropriate capitalization of expenses, not matching expenses to revenue, improperly accounting for a refund under an asset purchase agreement as a reduction of expenses, and the funding of a subsidiary in breach of a covenant in a lending agreement.
+44. The OSC sought an order reprimanding the appellant and prohibiting him from trading in securities or serving as a director or officer of a reporting issuer.
+45. On February 27, 2007, counsel for the OSC advised the Ontario Court of Justice as follows: "Given the new information that has come to our attention over the last several weeks, and the comprehensive review that we [i.e., the OSC] have conducted in light of it, we have determined that the prosecution no longer has a reasonable prospect of conviction" and requested that the charges against the appellant be dismissed. The Ontario Court of Justice then dismissed all charges against the appellant.
+The Class Action
+46. On or about February 4, 2004, a lawsuit was commenced against Atlas, the appellant, certain other directors and officers of Atlas, certain trustees of the Trust, the auditors for Atlas and the Trust (Ernst & Young, LLP), and the lead underwriter for the Trust unit offerings (the "Class Action").
+47. A multitude of causes were alleged against the various defendants, including the appellant, and the Plaintiffs sought various orders, declarations and damages in excess of $400 million. Among the relief sought was a declaration that the appellant account to the Plaintiffs for all proceeds received from trading in trust units.
+48. In 2008, the parties to the Class Action reached a settlement. The settlement resolved the Class Action without prejudice or admission of liability.
+Legal Fees
+49. The appellant retained legal counsel to represent him regarding the OSC proceedings and the Class Action.
+50. The appellant incurred legal fees in the following amounts with respect to the OSC proceedings and the Class Action, which the appellant says are deductible and the Minister says are not deductible:
+Year
+OSC
+Proceedings
+Class Action
+Class Action
+& OSC
+Total for Year
+2004
+$0.00
+$0.00
+$70,123.18
+$70,123.18
+2005
+$363,832.11
+$0.00
+$363,832.11
+2006
+$1,154,593.49
+$13,359.92
+$1,167,953.41
+2007
+$587,488.81
+$52,323.76
+$639,812.57
+TOTAL:
+$2,105,914.41
+$65,683.68
+$70,123.18
+$2,241,721.27
+51. No further amounts are in dispute between the parties to this appeal.
+52. All of the legal fees at issue in this appeal relate to post-employment charges. None of the legal fees at issue in this appeal were incurred with respect to the appellant's employment income.
+[8] At the hearing, the parties filed a joint Brief of Documents and the respondent filed the following exhibits:
+- the arbitration agreement made effective as of January 27, 2006 (R-1);
+- the notice to arbitrate dated September 12, 2008 (R-2);
+- the statement of arbitration claim dated February 17, 2009 (R-3);
+- an addendum to arbitration agreement made effective as of October 19, 2006 (R-4);
+- the statement of arbitration defence and counterclaim of Versacold Logistics Canada Inc. dated March 16, 2009 (R-5);
+- the settlement agreement dated November 18, 2010 (R-6); and
+- the full and final mutual release dated November 29, 2010 (R-7).
+[9] The facts referred to in the above-mentioned exhibits complete the Statement of Agreed Facts.
+[10] Before the hearing, the parties had come to an agreement with respect to the quantum of legal fees which was being contested. The appellant confirmed that he was not pursuing anymore the issue of whether the legal fees were incurred for the purpose of gaining, producing and protecting income from property.
+The Appellant’s Position
+[11] The appellant submitted that he is entitled to deduct his legal fees incurred to gain or produce income from his consulting business pursuant to subsection 9(1) of the Act and that the OSC proceedings and the Class Action threatened his ability to generate income from his consulting business.
+[12] Concerning the determination of net income under section 9 and paragraph 18(1)a) of the Act, the appellant submitted that:
+(a) the legal fees incurred to gain or protect income from business and property are deductible as expenses under the general concept of “profit” under section 9 of the Act;
+(b) the determination of profit under subsection 9(1) is a question of law, not fact. The essential test is under subsection 9(1) and not under paragraphs 18(1)a) and h);
+(c) the Minister cannot simply assume as a fact what must be determined as a question of law.
+[13] Concerning the deductibility of legal fees incurred to protect the appellant’s ability to gain or produce income from his consulting business, the appellant submitted the following:
+(a) it is not necessary for an expense to lead directly to the production of income, or for a taxpayer to prove a causative relationship between a particular expense and a particular receipt to claim the deduction. The question to ask is “were the expenses incurred for the purpose of gaining or producing income from a business?” This is ultimately a question of fact to be decided with due regard in all circumstances;
+(b) the connection between the legal expenses and the consulting income was direct and not too remote. Conviction would have destroyed his income from business;
+(c) the legal fees incurred by the appellant directly facilitated his ability to earn income from his consulting business;
+(d) the legal fees incurred by the appellant to defend himself against false criminal charges in respect of his business practices are deductible; all the more so, where the charges are withdrawn and the taxpayer is presumed innocent;
+(e) the ultimate finding of guilt or innocence is immaterial to the deductibility of legal fees;
+(f) the mere fact that an expense has a personal aspect is not enough to conclude that it is not deductible.
+The Respondent’s Position
+[14] The respondent’s submissions are:
+(a) the legal fees were not incurred to gain or produce income from business in that:
+(i) the legal fees did not constitute expenses “normally incurred by others” involved in the business activity;
+(ii) the legal proceedings were not a normal and ordinary risk and incidental to the appellant’s consulting business activity;
+(iii) the onus is on the appellant to show the connection between the expenses and the business;
+(iv) the legal fees with respect to the OSC proceedings and the Class Action would have been incurred regardless of whether the appellant was engaged in consulting activities as Patrick Gouveia Consulting;
+(v) the OSC proceedings and the Class Action arose directly as a result of the appellant’s employment with AFL and could only indirectly and potentially impact the appellant’s consulting activities;
+(b) any connection between the legal fees incurred by the appellant and his consulting activities is too remote to enable the appellant to deduct the legal fees; it is the activities that resulted in the charges and its connection to the business that determine the deductibility of the legal expenses associated with the defence;
+(c) the legal fees were incurred to preserve the appellant’s reputation and his capacity to earn future earnings, which are outlays in respect of capital;
+(d) in the alternative, the amounts claimed are not reasonable and should be restricted pursuant to section 67 of the Act. The legal fees far outweigh the average income reported by the appellant with respect to the consulting activities carried on between 2002 and 2007. No income from his consulting activities was reported in his 2005 and 2006 taxation years.
+Analysis
+[15] The relevant provisions of the Act governing the deductibility of expenses for the determination of business income are subsection 9(1) and paragraphs 18(1)a) and 18(1)h). They read as follows:
+9. (1) Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+18. (1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+. . .
+(h) personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer’s business;
+[16] The concept of profit found in subsection 9(1) is inherently a net concept and the deductions of business expenses are allowed to the extent that they are consistent with "well accepted principles of business (or accounting) practice" or "well accepted principles of commercial trading" as referred to by Iacobucci, J., at paragraph 43 in the decision of Symes v. The Queen, 1993 CarswellNat 1178, [1993] 4 S.C.R. 695.
+[17] Section 18 of the Act provides a number of prescribed statutory limitations of expense deductions. Paragraph 18(1)a) sets out a general prohibition denying a deduction unless the amount is paid or incurred for the purpose of gaining or producing income while paragraph 18(1)h) prohibits the deductibility of personal and living expenses.
+[18] The leading case which considered the deductibility of business expenses under paragraph 18(1)a) is Symes, supra. That case involved a partner of a law firm who employed a nanny to care for her children and deducted the wages she paid to the nanny as a business expense. At paragraph 73, the Supreme Court of Canada stated that the determination of whether an expense is deductible under paragraph 18(1)a) simply depends if it is incurred for the purpose of gaining or producing income from a business. At paragraph 74, Iacobucci J., in writing for the majority, made the following comment concerning the determination of the purpose of an expenditure:
+. . . Courts will, instead, look for objective manifestations of purpose, and purpose is ultimately a question of fact to be decided with due regard for all of the circumstances. For these reasons, it is not possible to set forth a fixed list of circumstances which will tend to prove objectively an income gaining or producing purpose.
+[19] Despite the lack of an exhaustive list of factors to determine whether or not the purpose of an expenditure is to produce income from a business, Iacobucci J. did set out a number of relevant factors to consider in deciding if a business expense is deductible:
+(a) whether the expense is one normally incurred by others involved in the taxpayer's business and whether the deduction is ordinarily allowed as a business expense by accountants (paragraph 75);
+(b) whether a particular expense would have been incurred if the taxpayer was not engaged in the pursuit of business income (paragraph 76);
+(c) whether a particular expense would have met a "business need" or a "but for" test that was outlined by the Court, at paragraph 79, in the following terms:
+. . . In particular, it may be helpful to resort to a "but for" test applied not to the expense but to the need which the expense meets. Would the need exist apart from the business? If a need exists even in the absence of business activity, and irrespective of whether the need was or might have been satisfied by an expenditure to a third party or by the opportunity cost of personal labour, then an expense to meet the need would traditionally be viewed as a personal expense. . . .
+[20] In Gordon Ironside v. The Queen, 2013 TCC 339, Campbell J. reviewed the caselaw concerning the issue of "connectivity" between the need which the expense met and the business itself, in the context of legal and professional fees paid by the appellant to defend himself against allegations of committing improper disclosures after being charged by the Alberta Securities Commission. Campbell J. summarized her review, at paragraph 43, as follows:
+In the context of the caselaw, which I have outlined, it is clear that the need which the expense meets and the business itself must be directly related and that the expense must either be incapable of being severed from the income earning operations or be the consequence of a necessary risk to earn income in that regard. Ancillary expenses may be deductible, and may provide the required connection between the expenses and the business, so long as they are essential and necessary to the business activities.
+[21] Campbell J. applied the principles from the jurisprudence to the evidence that was before her and concluded at paragraph 45, that:
+. . . the legal and professional fees, that the Appellant paid in defending himself against allegations before the Alberta Securities Commission, were not incurred to gain or produce income from his chartered accounting business. Instead, the expenses were a direct resulting consequence of his position that he held as an officer and employee of BRRC. The expenses were incurred to protect his reputation within the oil and gas industry where he focussed his business activities. As such, they were personal in nature and were not incurred to protect the income earning potential associated with his professional accounting business.
+[22] The facts in the Gordon Ironside's appeals are very similar to the facts in this case and the same conclusion is drawn from them. In this case, the appellant incurred legal fees in defending himself against allegations in the OSC proceedings and in the Class Action. The legal fees were not incurred to gain or produce income from his consulting business as they were a direct result of the position that he held as director, president and executive officer of Atlas. The expenses were incurred to protect his reputation within the cold storage industry where he focussed his consulting business activities. As such, the legal expenses were personal in nature and were not incurred to protect the income earning potential associated with his consulting business.
+[23] A review of the factors enunciated by the Supreme Court of Canada in Symes, support my conclusion as it did in the Gordon Ironside's appeals.
+Whether the expense is one normally incurred by others involved in the taxpayer's business and whether a deduction is ordinarily allowed as a business expense by accountants?
+[24] The legal expenses engaged by the appellant in defending himself against charges relating to infringements of provincial securities legislation are not generally considered a usual and accepted business expense associated with consulting services.
+Whether a particular expense would have been incurred if the taxpayer was not engaged in the pursuit of business income?
+[25] The answer is yes. The appellant would have have to defend himself whether or not he was engaged in the pursuit of his consulting business. The charges laid against him were a direct result of his conduct and activities as President, Chief Executive Officer and Director of Atlas and as a result of his holding and trading in units of the Trust. This conclusion is supported by both the evidence and the Agreed Statement of Facts submitted by the parties.
+[26] The fact that a portion of the legal fees incurred by the appellant was covered by the insurance policy that Atlas provided for the benefit of its corporate directors and officers, also suggests the conclusion that the charges laid against the appellant were as a direct result of his position as a director and officer of Atlas. The fact that the $50 million settlement reached in the Class Action was paid by the insurer of Atlas in the amount of $40 million and by Atlas itself in the amount of $10 million, supports also that conclusion.
+[27] While the appellant was defending the OSC proceedings and the Class Action, the appellant was also engaged in wrongful dismissal proceedings with Atlas. The appellant's employment and the legal proceedings were closely linked together during the taxation years in issue. Clearly, the need of the appellant to defend himself against the OSC proceedings and the Class Action was separate from his consulting business and would have existed apart from it.
+The "business need" or "but for" test
+[28] As mentioned in the preceding paragraph, the need for the appellant to defend himself against the OSC proceedings and the Class Action was separate from his consulting business. The potential consequences from a conviction in the OSC proceedings or a finding of liability in the Class Action would have directly impacted the appellant's employment but indirectly impacted his consulting activities.
+[29] There is no evidence in this case to suggest that the charges and allegations that formed the basis of the OSC proceedings and the Class Action suit have impacted the appellant's consulting business. In fact, it appears that these charges and allegations did not have any material impact.
+[30] The appellant resigned from Atlas on November 21, 2003 and he made a wrongful dismissal claim against Atlas and its successors on January 27, 2006. The wrongful dismissal suit was settled on November 18, 2010. The Class Action was commenced on or about February 4, 2004 and was settled in 2008. The OSC proceedings began on or about June 2, 2004 and were abandoned on February 27, 2007. All these legal proceedings took place from the end of 2003 to the end of 2010, over a seven-year period. During that period, the appellant received management fees from Patrick Gouveia Consulting in the amounts of $230,000 in 2003, $250,000 in 2004, nothing in 2005 and 2006 and $583,000 ($550,000 excluding GST) in 2007. The invoice for 2007 is dated January 31, 2007 and is for consulting and professional services rendered for the period from February 1, 2006 to January 31, 2007. Most of it is attributable to services rendered in 2006. Considering the fact that the amount of the invoice represents the double of what was charged annually, it is conceivable that the amount charged in 2007 also included the services rendered in 2005. In any event, the appellant seems to have earned approximately the same amount in consulting or management fees throughout the period despite the various legal litigations. The management fees charged by the appellant seem to be fixed and regular from year to year. It does not appear to fluctuate in proportion to the business income earned by 1177325 Ontario Ltd., a company controlled by the appellant.
+[31] The appellant testified at the hearing that he continued to provide consulting services to 1177325 Ontario Ltd. throughout the period and that the absence of fees in 2005 and 2006 was attributable to the fact that the closings of some transactions were delayed. The appellant admitted that because of the no-competition clause in his employment agreement, he was not allowed to carry on business in the United States of America, Canada and Western Europe. While he was working on his various defences, the appellant tried to re-emerge his consulting business in Eastern Europe and he did succeed in making joint ventures in Ukraine, Georgia, and India. While I can appreciate the appellant's argument that it took him years to reinstate his credibility with financiers around the world even after the charges were dropped, there was no direct or apparent relationship established in this case between the acts that created the "need" and the appellant's consulting business. Connection was not sufficient and too remote to justify the deduction.
+[32] The Federal Court of Appeal stated in R. v. Doiron, 2012 FCA 71 (FCA) at paragraph 43, that the onus is on the taxpayer to show the connection between the expenses and the business. In 412237 Ontario Ltd. v. R., 1993 CarswellNat 1241 (TCC) at paragraph 19, the Tax Court of Canada described the threshold as being "some nexus or other connection between the earning of income and the payment of the fees".
+[33] As stated by the Tax Court of Canada in Leduc v. R., 2005 CarswellNat 227, at paragraph 26:
+. . . it is the activity that resulted in the charges and its connection to the business that determines the deductibility of the legal expenses associated with the defence.
+[34] In Cimolai v. R., 2006 CarswellNat 3558 (FCA), the Federal Court of Appeal agreed with the Tax Court of Canada that the taxpayer could not deduct as business expenses, legal fees incurred in prosecution of action of defamation to preserve the taxpayer's professional reputation because they were incurred with respect to legal proceedings that resulted from his employment activities. The Federal Court of Appeal identified the taxpayer's business activities (self-employed) and concluded at paragraph 14 that ". . . income earning activities capable of supporting a deduction under paragraph 18(1)(a) were very limited".
+[35] By incurring the legal fees, what risk was the appellant trying to avert? According to the appellant, it was the risk of losing the opportunities to make lucrative transactions such as joint ventures in the cold storage industry. The appellant incurred the legal fees to defend the OSC proceedings and the Class Action to protect his ability to earn business income through Patrick Gouveia Consulting which depends on the appellant's unblemished record of business experience, acumen and service.
+[36] By way of the OSC proceedings, what was sought was an order reprimanding the appellant and prohibiting him from trading in securities or serving as a director or officer of a reporting issuer. This, in and by itself, would not deprive the appellant of his ability to earn business income through Patrick Gouveia Consulting in countries not covered by the non-competition clause of the appellant's employment agreement.
+[37] With respect to the Class Action, among the relief sought was a declaration that the appellant accounts to the plaintiffs for all proceeds received from trading in trust units. The appellant's motivation for defending the Class Action and the consequences that may have resulted from the Class Action do not appear to have any relationship to the consulting activities of the appellant.
+[38] The consequences that the appellant was facing from a conviction in the OSC proceedings or from a finding of liability in the Class Action would impact more directly his future employment prospects than his current and future consulting activities. In my opinion, the connection between the legal expenses incurred and the consulting activities is too remote to enable the appellant to deduct them.
+The preservation of the appellant's reputation and capacity to earn future income
+[39] Preserving the appellant's reputation and his capacity to earn future income was central to his decision to defend himself at the OSC proceedings and the Class Action. The appellant's unblemished record of business experience, acumen and service was under attack by the OSC proceedings and the Class Action (paragraph 12 of Section G of the Notice of Appeal).
+[40] In Cimolai, supra, at paragraph 15, the Federal Court of Appeal confirmed that "legal expenditures made to protect one's professional reputation and hence one's capacity for future earnings are by definition capital in nature".
+[41] Deduction of legal fees incurred to preserve the appellant's reputation and capacity to earn future income is prohibited by paragraph 18(1)(b) of the Act and is considered to be capital in nature.
+[42] The appeals from the assessments for the 2003, 2004, 2005 and 2006 taxation years are dismissed and the appeal from the reassessment for the 2007 taxation year is allowed solely to give effect to the concession made by the Minister to reduce the business income of the appellant for that year by an amount of $33,000; the reassessment is referred back to the Minister for reconsideration and reassessment on the basis that the business income of the appellant for the 2007 taxation year shall be reduced by an amount of $33,000.
+[43] The whole with costs to the Respondent.
+Signed at Ottawa, Canada, this 20th day of December 2013.
+"Réal Favreau"
+Favreau J.
+CITATION: 2013 TCC 414
+COURT FILE NO.: 2009-3370(IT)G
+STYLE OF CAUSE: Patrick A. Gouveia and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 17, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: December 20, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Vern Krishna
+Isabella Mentina
+Counsel for the Respondent:
+Brooke Sittler
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Vern Krishna
+Isabella Mentina
+Firm: Borden Ladner Gervais LLP
+Toronto, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The amount reported by the Appellant in relation to this taxation year was inclusive of GST, whereas the amounts reported by the appellant in relation to the 2002, 2003 and 2004 taxation years was exclusive of GST.

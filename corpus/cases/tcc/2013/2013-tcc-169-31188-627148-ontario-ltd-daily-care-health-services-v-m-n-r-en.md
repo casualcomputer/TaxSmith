@@ -1,0 +1,217 @@
+---
+title: "627148 Ontario Ltd. (Daily Care Health Services) v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31188/index.do"
+last_modified: "2013-05-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 169"
+citation2: ""
+neutral_citation: "2013 TCC 169"
+decision_date: "2013-05-28"
+language: "en"
+item_id: "31188"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5085
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:06:21.604000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3f1d38a0f7fb988cced052dbe3a2b1f0130d1fe9290c0549bf7be5093baa0df0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 627148 Ontario Ltd. (Daily Care Health Services) v. M.N.R.
+
+- Citation: 2013 TCC 169
+- Decision date: 2013-05-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5085, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+627148 Ontario Ltd. (Daily Care Health Services) v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-05-28
+Neutral citation
+2013 TCC 169
+File numbers
+2010-2461(CPP)
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2010-2461(CPP)
+BETWEEN:
+627148 ONTARIO LIMITED
+O/A DAILY CARE HEALTH SERVICES AND THE RELATED PARTIES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+GRACE ATADERO,
+Intervenor.
+____________________________________________________________________
+Appeal heard on May 6, 2013, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Ed Sarmiento
+Counsel for the Respondent:
+Suzanne M. Bruce
+Laurent Bartleman
+For the Intervenor
+No appearance
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the assessment is to be reduced by the amount of $32,915.09. In all other respects, this appeal is dismissed.
+Signed at Ottawa, Canada, this 28th day of May 2013.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2013TCC169
+Date: 20130528
+Docket: 2010-2461(CPP)
+BETWEEN:
+627148 ONTARIO LIMITED
+O/A DAILY CARE HEALTH SERVICES AND THE RELATED PARTIES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+GRACE ATADERO,
+Intervenor.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The Appellant appeals the assessment dated March 27, 2009 made by the Minister of National Revenue (the “Minister”) that its Workers were employed in pensionable employment while working for the Appellant during the period January 1, 2005 to December 31, 2007.
+[2] In making the assessment, the Minister relied on paragraph 6(1)(c) of the Canada Pension Plan (“CPP”) and subsection 34(1) of the Canada Pension Plan Regulations (the “Regulations”). They read as follows:
+6(1) Pensionable employment -- Pensionable employment is
+(a) employment in Canada that is not excepted employment;
+(b) employment in Canada under Her Majesty in right of Canada that is not excepted employment; or
+(c) employment included in pensionable employment by a regulation made under section 7.
+…
+34(1) Where any individual is placed by a placement or employment agency in employment with or for performance of services for a client of the agency and the terms or conditions on which the employment or services are performed and the remuneration thereof is paid constitute a contract of service or are analogous to a contract of service, the employment or performance of services is included in pensionable employment and the agency or the client, whichever pays the remuneration to the individual, shall, for the purposes of maintaining records and filing returns and paying, deducting and remitting contributions payable by and in respect of the individual under the Act and these Regulations, be deemed to be the employer of the individual.
+Preliminary Matter
+[3] The Minister intended to assess the Appellant for CPP contributions of $50,075.22 and Employment Insurance (“EI”) premiums of $32,915.09. However, he mistakenly included the amount of the EI premiums in the assessment of CPP contributions. The agent for the Appellant spoke to this matter and counsel for the Respondent confirmed that the CPP assessment should be reduced by the amount of $32,915.09. The Minister did not make an assessment for the EI premiums and therefore the only matter before me is the assessment of CPP contributions.
+[4] The witnesses at this hearing were Mr. Levi Frias, the owner of the Appellant, Ms. Verona Roswell, a registered practical nurse (“RPN”), Emelyn Dela Cruz, a personal support worker (“PSW”) and Batool (Betty) Khalili, a registered nurse (“RN”). Ms. Roswell, Ms. Dela Cruz and Ms. Khalili were Workers with the Appellant during the period under appeal.
+[5] Subsection 34(1) of the Regulation is satisfied if the following requirements are met:
+(a) The Appellant is a placement agency;
+(b) The Worker is placed in her employment by a placement agency;
+(c) The Worker performed services for the Appellant’s client;
+(d) The Worker is paid by the Appellant;
+(e) The Worker performed services for the Appellant’s client under terms or conditions that constitute a contract of service or are analogous to a contract of service.
+[6] Mr. Frias agreed with the majority of the assumptions of fact made by the Minister. I will discuss his evidence under each of the requirements above.
+(a) Placement Agency
+[7] The Appellant is a placement agency in the business of providing RNs, RPNs or PSWs to private nursing homes. It has been in this business since 1985. During the period January 1, 2005 to December 31, 2007, the Appellant had only two clients, Extendicare (York Central) (“York”) and ValleyView Residence (“ValleyView”). The Appellant entered into a contract with each of its clients to provide nursing staff who would temporarily replace or augment the client’s regular staff. It warranted to its clients that the Workers it provided were qualified RNs, RPNs or PSWs who possessed the necessary licences. The Appellant and its clients agreed that the client would pay the Appellant directly at the following hourly rates:
+Client
+RNs
+RPNs
+PSWs
+ValleyView
+$38
+$32
+$18
+York
+$38
+$32
+$21
+(b) and (c) Worker is placed in her employment by the placement agency and the Worker performed services for the Appellant’s client
+[8] When a member of the client’s regular staff was unavailable, the client would notify the Appellant, usually by telephone, that it needed a Worker. The client specified the date, time and duration of the shift and the category of Worker it required. The Appellant would then notify one of the Workers who was registered with it to ascertain if the Worker was available to take the shift. The Worker was free to refuse the shift but if she accepted the shift, she worked at the client’s premises under the terms specified by the client.
+(d) Worker is paid by the Appellant
+[9] The Appellant paid its Workers by cheque at the following rates:
+Category
+Rate of Pay
+RNs
+$23 to $27 hourly
+RPNs
+$18 to $24 hourly
+PSWs
+$10 to $11 hourly
+[10] It was Mr. Frias’ evidence that the Workers negotiated their rate of pay with the Appellant. Many of them worked for other placement agencies and they demanded a comparable rate of pay. The Workers were supposed to issue an invoice to the Appellant for their pay; but, in those cases where no invoice was given, the Appellant knew the Worker’s hours. It kept track of the shifts worked by each Worker. In addition, it had the log-in sheets which the Worker signed at the clients’ premises.
+(e) Contract of Service or Conditions Analogous to a Contract of Service
+Intention
+[11] The Appellant intended to engage its Workers as independent contractors. I have concluded from the evidence of both Ms. Roswell and Ms. Dela Cruz that they intended to work with the Appellant as independent contractors.
+[12] However, it is my view that in the circumstances of this appeal, the intention of the Appellant and the Workers is not a relevant factor. The requirement in subsection 34(1) of the Regulations is satisfied, if the Workers’ services are performed for the Appellant’s clients under terms or conditions that either constitute a contract of service or are analogous to a contract of service regardless of their intention. If the conditions in subsection 34(1) are satisfied, then the person who pays the Workers’ remuneration is deemed to be the employer.
+[13] The factors from Wiebe Door Services Ltd. v MNR, [1986] 3 FC 553 (FCA) are used to analyze the work relationship between the Workers and the Appellant’s clients. Those factors follow.
+Control
+[14] Prior to working with a client for the first time, the Workers were required to attend an orientation session at the client’s premises. At the job, the client assigned the duties to the Workers. All Workers’ were expected to:
+a) sign in upon arrival at the clients’ location to begin a shift and sign out upon completion of their shift;
+b) receive assignment of duties, instructions and priorities from the charge nurse and the outgoing staff they were replacing;
+c) give verbal reports at the end of their shift to the oncoming staff;
+d) follow the clients’ routines, schedules, policies, and procedures; and,
+e) attend the clients’ meetings if they occurred during the scheduled work shift.
+[15] The Workers performed duties similar to those of the clients’ regular staff and they were supervised by the clients. Their daily duties were determined by the clients. At the end of each shift, the Workers completed written reports which were reviewed and approved by the clients.
+[16] If there were problems with a Worker’s performance, the Appellant was notified.
+[17] The Workers wore a name tag which identified them as representing the Appellant.
+[18] The Workers were required to complete their scheduled shift. They could not leave early unless they had permission from the client. They could not send a replacement Worker. If a Worker was unable to attend a scheduled shift, the Appellant would arrange for a replacement.
+[19] It was the Appellant’s position that the clients could direct the Workers in their duties but the clients could not direct the Workers how to perform their duties. The Workers were trained professionals and knew how to perform their tasks.
+[20] It is my view that this is normal when one is engaged for her expertise. When the worker is a professional, she may not have to be told how to perform her duties. However, the crucial question is whether the clients had the right to exercise control over the Workers: Groupe Desmarais Pinsonneault & Avard Inc v Canada, [2002] FCA 144 at paragraph 5.
+[21] I have concluded that not only did the clients have the right to exercise control over the Workers; but they did exercise control over the Workers. See paragraph 14, 15 and 18 above.
+Ownership of Tools
+[22] The Workers provided their own uniform. Most of the RNs and RPNs also provided their own stethoscope but it was not necessary that they do so. The clients provided stethoscopes that the RNs and RPNs could use. All other tools, supplies and equipment which the Workers needed to perform their duties were provided by the clients.
+Chance of Profit/Risk of Loss
+[23] The Workers were paid a set hourly rate for the shifts they worked. If they worked on a statutory holiday, they received one and one-half times their regular rate. They incurred no expenses in the performance of their duties except the cost of a uniform and a stethoscope.
+[24] The Appellant paid for liability insurance which it was required to show to its clients. The Appellant also provided its client with a guarantee of the work performed by the Workers.
+[25] The Workers signed a “Letter of Agreement” with the Appellant that they would not interfere with the contract between the Appellant and its clients by taking direct employment with any of the Appellant’s clients.
+[26] The agent for the Appellant argued that the Workers had a chance of profit if they worked more shifts and a risk of loss, if they did not work.
+[27] I disagree. This is not the meaning of the terms “Chance of Profit/Risk of Loss”. These terms are to be understood in the entrepreneurial sense.
+Conclusion
+[28] The agent for the Appellant argued that the evidence in this case was inconclusive. I disagree. The admissions made by Mr. Frias were sufficient for me to find that the requirements of section 34(1) of the Regulations had been met. When I consider all of the factors, I conclude that the services provided by the Workers to the Appellant’s clients were under terms and conditions that constituted or were analogous to a contract of service.
+[29] In the circumstances of this appeal, the requirements of subsection 34(1) of the Regulations have been satisfied.
+[30] The agent for the Appellant also argued that most of the Workers held full time employment and only worked with the Appellant on a part time basis. He argued that these Workers had already maximized their CPP contributions from their regular employment and it is neither logical nor justifiable to enforce Regulation 34.
+[31] There was no evidence before me that any Worker had maximized her CPP contributions. Even if that evidence had been presented, it would not be a reason to find that the Worker was not engaged in pensionable employment with the Appellant.
+[32] In Ruban Insurance Brokers Inc. v Canada (Minister of National Revenue), [1992] T.C.J. No.356 (TCC), Beaubier T.C.J. was faced with the question whether an employer had to remit CPP contributions on behalf of an employee who was also employed by another employer who had made its contributions for the employee for the year. Beaubier T.C.J. stated:
+Pursuant to subsection 11.1(2) and paragraph 113.1(7)(a) the employee and the employer pay the same rate, calculated upon the same base. This may occur more than once, if the employee is employed by more than one employer during a year. In the case of C.D. Ruban, if all of the premiums were paid the employee and the employers together might very well pay more than the maximum contributions due if C.D. Ruban were employed by only one employer during the year. In such a case, which is the case presented by the Appellant to this Court, C.D. Ruban may apply under subsection 8(2) and obtain a refund of the excess employee contributions above her employee's rate applied to the greater of her salary, wages and earnings or maximum contributory earnings for the year, because the amounts so deducted for employee's contributions are "deemed to be an overpayment made by the employee on account of the employee's contribution for that year". Upon a proper application being made, a refund would occur. However, neither of her employers has a right to make such an application or to obtain a similar refund in whole or in part under section 9 of the Act or any other provision of the Act.
+A similar possibility was discussed in the House of Commons at the time that the proposed provisions of the Canada Pension Plan were reviewed. In particular, the Honourable J.W. Monteith, Q.C., M.P., Stratford, Ontario, stated as follows:
+"Mr. Chairman, I am not sure that this is the time I should make the few remarks I wish to make, but I will preface them by stating that it is not politically popular to speak on behalf or in defence of employers at this time. There is an aspect of this clause which I feel should be brought to the general attention of the people of Canada. While contributions are to be paid by both employer and employee, if an employee occupies more than one position during a year - six months with one firm and six months with another - he will have paid his full annual deduction twice. If the employee occupies a position for which he is paid a high salary he is apt to have his full deductions made in the first three months, or perhaps even in the first month. If an employee of that type worked for two or three different firms in a period of a year, making his full contribution through pay-roll deduction by each of the three employers, he is entitled by the provisions of this clause to a refund. However, there is no provision which would allow an employer who has made full contributions on behalf of three individuals occupying one position in one year to apply for a refund.
+As I have stated, I realize it is not politically popular at this time to plead an employer's case, but I think these facts should be made known to the public. This attitude was adopted by the government, as explained to the committee, at least partially because this is what is done in the United States. I am not complaining about this situation, nor do we intend to amend the clause or vote against it, but I feel the public should understand the situation. I understand that government actuaries have accepted the fact that there will be overpayments by employers and that these overpayments are not subject to a refund." (House of Commons Debates, February 25, 1965, page 11757)
+[33] Accordingly, once it is found that the Workers were employed in pensionable employment with the Appellant, CPP contributions must be made by the Appellant on behalf of the Workers.
+[34] The agent made various other arguments; one of which is that section 34 of the Regulations is ambiguous. However, he has failed to demonstrate to me how precisely the section is ambiguous.
+[35] In conclusion, during the period January 1, 2005 to December 31, 2007, the Appellant’s Workers were employed by it in pensionable employment. In accordance with the agreement of the parties, the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the assessment is to be reduced by the amount of $32,915.09.
+Signed at Ottawa, Canada, this 28th day of May 2013.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2013TCC169
+COURT FILE NO.: 2010-2461(CPP)
+STYLE OF CAUSE: 627148 ONTARIO LIMITED
+O/A DAILY CARE HEALTH SERVICES AND THE RELATED PARTIES AND
+M.N.R. AND
+GRACE ATADERO
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 6, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: May 28, 2013
+APPEARANCES:
+Agent for the Appellant:
+Ed Sarmiento
+Counsel for the Respondent:
+Suzanne M. Bruce
+Laurent Bartleman
+For the Intervenor
+No appearance
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

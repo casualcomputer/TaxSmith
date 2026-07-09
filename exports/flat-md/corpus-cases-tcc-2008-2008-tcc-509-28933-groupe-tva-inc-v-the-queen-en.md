@@ -1,0 +1,304 @@
+---
+title: "Groupe TVA Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28933/index.do"
+last_modified: "2008-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 509"
+citation2: ""
+neutral_citation: "2008 TCC 509"
+decision_date: "2008-10-24"
+language: "en"
+item_id: "28933"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1373
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:43:04.102000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "afae97fcd6ae1b3c41c7eb664c1f1253b2d140e7151b784a54ca89755489945e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Groupe TVA Inc. v. The Queen
+
+- Citation: 2008 TCC 509
+- Decision date: 2008-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1373, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Groupe TVA Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-24
+Neutral citation
+2008 TCC 509
+File numbers
+2006-1806(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1806(IT)G
+BETWEEN:
+GROUPE TVA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on October 22, 2007, at Montréal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Dominic C. Belley
+Counsel for the Respondent:
+Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made pursuant to the Income Tax Act for the 1995 and 1996 taxation years are allowed with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of October 2008.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 12th day of May 2009.
+François Brunet, Reviser
+Citation: 2008 TCC 509
+Date: 20081024
+Docket: 2006-1806(IT)G
+BETWEEN:
+GROUPE TVA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant is appealing under the General Procedure from reassessments made May 26, 2000, in its regard by the Canada Customs and Revenue Agency (CRA), for the taxation years 1995 and 1996, the notices of which are numbered 7002038[1] and 7002041.[2]
+[2] The reassessments were confirmed by the Minister of National Revenue (the Minister) by Notice of Confirmation[3] dated March 21, 2006.
+[3] In support of the reassessments, the Minister is relying on sections 3, 9, 18, 38, 39 and 50 of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) ("the Act"), to disallow the deductions claimed by the Appellant of $5,868,431 and $1,248,707 for the taxation years 1995 and 1996, respectively, because these amounts constituted capital expenditures and business investment losses ("amounts at issue").
+[4] The amounts were paid by the Appellant following a judgment[4] of the Quebec Court of Appeal dated May 19, 1995 (rectificatory judgment dated September 18, 1995), ordering the Appellant to pay these amounts to the National Bank of Canada pursuant to a surety bond entered into February 8, 1982[5], by the corporations prior to the Appellant in the course of carrying on the Appellant’s business.
+List of parties’ admissions
+[5] The parties agreed to the following list of admissions[6] that I have reproduced here in its entirety:
+i) The Appellant, Groupe TVA inc., is a major Canadian company active in, among others, the area of television and production and the broadcasting of entertainment and general-interest programs;
+- Notice of Appeal, paragraph 4
+- Reply to the Notice of Appeal, paragraph 4
+ii) The Appellant is the successor to Télé-Métropole inc. and Télé‑Métropole International inc.;
+- Notice of Appeal, paragraph 4
+- Reply to the Notice of Appeal, paragraph 4
+iii) Télé-Métropole International inc. was, during the relevant periods, a wholly-owned subsidiary of Télé‑Métropole inc, with a research and development mandate to offer the technical services of the group of companies to independent producers to the full extent of its market;
+- Notice of Appeal, paragraph 6
+- Reply to the Notice of Appeal, paragraph 4
+iv) During the relevant periods, Sonolab inc. was a wholly-owned subsidiary of Télé‑Métropole inc., and provided technical services in the television and film production area;
+- Notice of Appeal, paragraph 5
+- Reply to the Notice of Appeal, paragraph 4
+v) During the relevant periods, Sonolab’s services were used for technical projects in relation to the production of a film called “The Neighbour”;
+- Notice of Appeal, paragraph 9
+- Reply to the Notice of Appeal, paragraph 7
+vi) The film was produced by Les Films du Neighbour inc., a subsidiary of Les Productions Claude Léger inc.;
+- Reply to the Notice of Appeal, subparagraphs 12 (c) and (d)
+vii) For a number of reasons, financing for the film proved to be difficult;
+- Notice of Appeal, paragraph 10
+- Reply to the Notice of Appeal, paragraph 7
+viii) On January 4, 1982, Les Productions Claude Léger inc. obtained a letter of credit for $3,150,000 from the bank Albert de Bary & Co NV (Netherlands), with certain conditions;
+- Exhibit A‑1
+ix) However, due to the financial difficulties experienced by Les Films du Neighbour inc. in the production of the film, the Mercantile Bank of Canada demanded guarantees for the required financing;
+- Reply to the Notice of Appeal, subparagraph 12 (c)
+x) On February 4, 1982, an agreement was reached between Télé-Métropole International inc., Les Films du Neighbour inc. and Les Productions Claude Léger inc., whereby Télé‑Métropole International inc. agreed to issue a surety bond to the Mercantile Bank of Canada with respect to the production of the film under certain conditions;
+- Reply to the Notice of Appeal, subparagraph 12 (d)
+xi) The agreement signed by the parties on February 4, 1982, mentions, among other things, that Télé‑Métropole International inc. received the following in exchange for the surety bond:
+a) $50,000 in fees;
+b) A settlement of all debts owed to Télé‑Métropole inc. and its affiliates;
+c) Commitment to continue using the services of Télé‑Métropole International inc. and its affiliates’ for the production of the film;
+d) A $200,000 advance for services to be rendered by Sonolab inc.;
+e) A 12% to 34% interest in the net profit of the film (depending on the circumstances); and
+f) Option to purchase the film (with certain conditions)
+- Notice of Appeal, paragraph 12
+- Reply to the Notice of Appeal, paragraph 7 and subparagraph 12 (e)
+- Exhibit A‑1, tab 12
+xii) Neither Télé‑Métropole inc. nor Télé‑Métropole International inc. exercised the option to purchase the film;
+- Reply to the Notice of Appeal, paragraph 12 (m)
+xiii) On February 8, 1982, Télé‑Métropole International inc. signed a surety bond with the Mercantile Bank for Canada for a maximum of $3,150,000, payable March 1, 1983;
+- Notice of Appeal, paragraph 11
+- Reply to the Notice of Appeal, paragraph 7 and subparagraph 12 (f)
+- Exhibit A‑1, tab 16
+xiv) On February 8, 1982, Télé‑Métropole inc. undertook to meet all obligations and commitments of Télé‑Métropole International inc. to the Mercantile Bank of Canada in the amount of $3,150,000;
+- Reply to the Notice of Appeal, subparagraph 12 (g)
+- Exhibit A‑1, tab 17
+xv) At the same time, Mercantile Bank of Canada loaned Les Films du Neighbour inc. $3,150,000, with terms;
+- Exhibit A‑1, tab 15
+xvi) In 1983, the Mercantile Bank of Canada did not collect the entirety of its loan to Les Films du Neighbour inc. and required Télé‑Métropole inc. or Télé‑Métropole International inc. to honour the surety bond in accordance with the terms of the bond;
+- Notice of Appeal, paragraph 13
+- Reply to the Notice of Appeal, paragraph 7 and paragraph 12 (i)
+- Exhibit A‑1, tab 19
+xvii) Télé‑Métropole inc. and Télé‑Métropole International inc. refused to pay;
+- Reply to the Notice of Appeal, subparagraph 12 (i)
+xviii) A judgment of the Superior Court of Quebec dated May 29, 1989, then a judgment of the Quebec Court of Appeal dated May 19, 1995 (rectificatory judgment: September 18, 1995) ordered Télé‑Métropole inc. and Télé‑Métropole International inc. to remedy the situation by paying the National Bank of Canada (plaintiff in continuance of suit by the Mercantile Bank of Canada) $5,868,431 in 1995 and $1,248,707 in 1996;
+- Notice of Appeal, paragraph 14
+- Reply to the Notice of Appeal, paragraph 7 and subparagraphs 12 (j) and (k)
+- Exhibit A‑1, tabs 25 and 26
+xix) The amounts were paid by Télé‑Métropole inc. and were deducted as current expenses, both for tax and for accounting purposes;
+- Notice of Appeal, paragraph 15
+- Exhibit A‑1, tabs 1, 2, 20, 21, 23 and 24
+xx) On May 26, 2000, the Minister issued two (2) Notices of Reassessment against the Appellant, who was the successor to Télé‑Métropole inc. and Télé‑Métropole International inc., for the 1995 and 1996 taxation years, respectively numbered 7002038 and 7002041;
+- Exhibit A‑1, tabs 3 and 4
+xxi) On August 25, 2000, the Appellant objected to the said assessments;
+- Notice of Appeal, paragraph 17
+- Reply to the Notice of Appeal, paragraph 10
+- Exhibit A‑1, tabs 5 and 6
+xxii) On September 21, 2000, the Appellant amended his Notices of Objection;
+- Notice of Appeal, paragraph 17
+- Reply to the Notice of Appeal, paragraph10
+- Exhibit A‑1, tabs 7 and 8
+xxiii) On March 21, 2006, the Minister confirmed the assessments, hence this appeal;
+- Notice of Appeal, paragraph 17
+- Reply to the Notice of Appeal, paragraph 10
+- Exhibit A‑1, tab 9
+xxiv) In making the assessment, the Minister accepted that
+a) The amounts paid by Télé‑Métropole inc. were paid in the course of carrying on a business and for the purpose of gaining or producing income;
+b) The amounts represented capital expenses that could not be deducted as current expenses;
+c) The amounts are eligible as “business investment losses”;
+- Notice of Appeal, paragraph 16
+xxv) The only issue in this case is the following: in view of the circumstances, are the Appellant’s expenses in 1995 and in 1996 on account of income, as claimed by the Appellant, or on account of capital, as claimed by the Respondent?
+Testimony
+[6] André Fleury and Michel Éthier testified in support of the Appellant’s position. Only Denis Audet testified in support of the Respondent’s.
+André Fleury’s testimony
+[7] According to the highly credible testimony of André Fleury, an electrical engineer who is now retired,
+i) towards the end of the 1960s, Mr. Fleury formed Sonolab inc. (Sonolab) for the purpose of buying assets of Trans-World Film, which the provided technical services, such as dubbing, for television and film productions. The first Sonolab shareholders were Mr. Fleury and Mr. DeSèves, who held 60% and 40% of the company’s shares respectively. Mr. DeSèves was then the primary shareholder of Télé‑Métropole inc. (TM) in addition to being the chairman and chief executive officer;
+ii) In the early 1970s, at the request of Mr. DeSèves, still president and majority shareholder of TM, Mr. Fleury created and supervised the assembly of a production and post-production studio for films and television series;
+iii) following Mr. DeSèves’ death, Roland Giguère was appointed president of TM. At Mr. Giguère’s request, Mr. Fleury sold his Sonolab shares in 1978 and took charge of all film and television series production and post-production activities as well as sales and technical services to independent producers at TM;
+iv) the CRTC having strongly urged TM (as part of the renewal of its licence as a broadcaster) to participate in the development of the film industry in Quebec, TM created a subsidiary in 1980, called Télé‑Métropole International inc. (TMI), with a research and development mandate to offer the technical services of the TM group of companies to independent producers to the full extent of its market. Mr. Fleury also explained that TMI was a co-producer of films. Finally, he testified that TM constantly had to fund TMI, which was not financially independent;
+v) Les Productions Claude Léger inc. (Les Productions Léger) was always a good client of TM and its subsidiaries, even well before the production of the film “The Neighbour”;
+vi) TMI initially refused to help finance the film “The Neighbour”. Mr. Fleury explained that TMI systematically refused to invest in films produced by independent Quebec producers because Quebec films are, by and large, unprofitable;
+vii) the production of the film “The Neighbour” was interrupted due to financial difficulties experienced by the Les Films Du Neighbour inc. (Les Films Neighbour). When the production of the film was interrupted, Les Films Neighbour owed TM and its subsidiaries $200,000 to $300,000 for services rendered;
+viii) the granting of the surety bond by TM allowed Les Films Neighbour to resume production of the film “The Neighbour”;
+ix) during the surety bond negotiation, Mr. Fleury was a senior executive of TM, receiving instructions directly from Mr. Giguère, chairman and chief executive officer, who had authority not only over TM, but also over Sonolab and TMI. In other words, Mr. Giguère managed TMI and Sonolab as though they were divisions of TM. Following Mr. Giguère’s instructions, Mr. Fleury was to arrange for a surety bond such that the cash inflows from various sources and activities of TM and its subsidiaries would continue. Mr. Fleury therefore negotiated in the name of each entity in the TM group as a whole and did not make any distinction in the revenues that might be generated by them individually. To use Mr. Fleury’s expression, it was all treated like a "melting pot". In other words, Mr. Fleury had to ensure, during the surety bond negotiation, that TM and its subsidiaries as a whole did not lose the revenues for past and future work in favour of Les Films Neighbour and Les Productions Léger, which was a long-standing client of TM and its subsidiaries;
+x) after being assured by TM’s legal advisors that the financial risks for TMI and TM with respect to their surety bond were practically non-existent and after assuming that the surety bonds directly and indirectly generated substantial cash inflows in TM and its subsidiaries, Mr. Fleury had recommended to TM to grant the surety bond. In this regard, Mr. Fleury explained that the production of the film “The Neighbour” generated only $500,000 in revenues for Sonolab. Mr. Fleury finally declared that, as part of the agreement reached on February 4, 1982, between TM, Les Productions Léger and Les Films Neighbour, TM, TMI and Sonolab got $220,201, $155,402 and $239,632 respectively.
+Michel Éthier’s testimony
+[8] Moreoever, Michel Éthier’s testimony, which dealt primarily with the tax and accounting treatment of the amounts at issue, revealed the following information:
+i) the Appellant, which is the successor to TM, TMI and Sonolab, is a subsidiary of Quebecor Média;[7]
+ii) Mr. Éthier is a chartered accountant and is Vice-President, Taxation at Quebecor Média. He did not participate in the transactions and negotiation with regard to the surety bond;
+iii) Mr. Éthier was responsible for auditing and dealt directly with the CRA with respect to matters related to the case at issue. Even though more than five years had elapsed between the Appellant’s Notices of Objection and the Minister’s confirmation of the reassessments, the only question at issue remained the same: determining whether the expenses incurred to honour the surety bond were current or capital.[8] The CRA never suggested the amounts at issue be divided among TM, TMI and Sonolab.[9]
+Denis Audet’s testimony
+[9] The following was revealed in Denis Audet’s testimony:
+i) Mr. Audet is a certified general accountant (CGA) employed by the Agency since 1988;
+ii) Mr. Audet was selected by the CRA to audit the Appellant’s 1995 and 1996 taxation years. The audit took place in 1999 and 2000;[10]
+iii) during his audit, Mr. Audet met Mr. Éthier. At no time did Mr. Audet try to meet one of the Appellant’s senior executives (like Mr. Fleury) who had personal knowledge of the purposes of the surety bond and the related events and consequences;
+iv) Mr. Audet’s explanations about the rationale and reasons underlying the Respondent’s position to the effect that the amounts at issue are current expenses were simply incomprehensible. Indeed, Mr. Audet explained that the CRA’s position was based on a two-step analysis; first, he scrutinized the original intent of the taxpayer and, second, he evaluated the taxpayer’s conduct. With respect to the first step, Mr. Audet also explained why, in his view, TM granted the surety bond: [TRANSLATION] “ultimately, the whole group [TM and its subsidiaries] will benefit.”[11] With respect to the step concerning the taxpayer’s conduct, Mr. Audet said: [TRANSLATION] “If we granted a surety bond and then did care about the 12% and the 34%, it is because somewhere, we were simply interested in having our accounts receivable reimbursed and then blithely proceeding and obtaining what we call notoriety.”[12]
+v) the CRA never considered the possibility of breaking down the amounts at issue among TM, TMI and Sonolab;
+vi) even though Mr. Audet made ample reference to the clause in the surety bond contract providing for TM’s interest in the net profit of the film (under certain conditions), his testimony is contradictory in this regard. During his cross-examination, counsel for the Appellant asked him if the potential revenues from the sale of the film were taken into account by the CRA in making the reassessments. His response was as follows: [TRANSLATION] “We took that into account when we determined the taxpayer’s conduct.”[13] Following this, counsel for the Appellant asked him essentially the same question but phrasing it as follows: [TRANSLATION] “Télé-Métropole, as a group, was entitled to 12% and 34% in royalties. Does this, as far as you are concerned, make it a capital or a current expense? Or is that not relevant?” Mr. Audet’s response was as follows: [TRANSLATION] “For us, it was not relevant because Télé-Métropole had come to an end because Télé-Métropole’s conduct did not show that any measures would be taken that would save the production.”[14]
+vii) Mr. Audet also seems to understand that the surety bond was primarily destined to allow the completion of the production of the film “The Neighbour” ended and the reimbursement of the overdue accounts.[15]
+Issue
+[10] The only issue is whether the amounts the Appellant paid to the National Bank of Canada, pursuant to the Quebec Court of Appeal judgment dated May 19, 1995 (rectificatory judgment: September 18, 1995) ordering the Appellant to honour a surety bond granted February 8, 1982, are expenses on account of income, as argued by the Appellant, or expenses on account of capital, as claimed by the Respondent.
+Respondent’s position
+[11] The Respondent argued, basically relying on the Federal Court of Appeal decision in Easton,[16] that there is a rebuttable presumption that a loss sustained following a surety bond like the one granted by TM is a capital loss. I would point out that, in Easton, the issue was whether a payment made by a shareholder as guarantor of a loan contracted by a corporation of which he or she was a shareholder was to be treated as a current expense. I would like to emphasize that, in that case, the Federal Court of Appeal first reiterated the basic principle propounded by the Supreme Court of Canada in Steer[17], when it made the following comments:
+16 As a general proposition, it is safe to conclude that an advance or outlay made by a shareholder to or on behalf of the corporation will be treated as a loan extended for the purpose of providing that corporation with working capital. In the event the loan is not repaid the loss is deemed to be of a capital nature for one of two reasons. Either the loan was given to generate a stream of income for the taxpayer, as is characteristic of an investment, or it was given to enable the corporation to carry on its business such that the shareholder would secure an enduring benefit in the form of dividends or an increase in share value. As the law presumes that shares are acquired for investment purposes it seems only too reasonable to presume that a loss arising from an advance or outlay made by a shareholder is also on capital account. The same considerations apply to shareholder guarantees for loans made to corporations. In Minister of National Revenue v. Steer, [1967] SCC. 34, it was held that a guarantee given to a bank for a company's indebtedness by the taxpayer in consideration for shares in the company was to be treated as a deferred loan to the company and that monies paid to discharge that indebtedness were to be treated as a capital loss. That case, however, does not stand for the proposition that every time a corporation fails to reimburse a shareholder with respect to an advance, outlay or payment on a guarantee that the loss is necessarily on capital account. There is only a rebuttable presumption of such. [Emphasis added.]
+I would also point out that in Easton, the Federal Court of Appeal specified that there were two exceptions to this rule:
+17 There are two recognized exceptions to the general proposition that losses of the nature described above are on capital account. First, the taxpayer may be able to establish that the loan was made in the ordinary course of the taxpayer's business. The classic example is the taxpayer/shareholder who is in the business of lending money or granting guarantees. The exception, however, also extends to cases where the advance or outlay was made for income-producing purposes related to the taxpayer's own business and not that of the corporation in which he or she holds shares. For example, in Berman, L., & Co. Ltd. v. M.N.R., [1961] CTC 237 (Ex. Ct.) the corporate taxpayer made voluntary payments to the suppliers of its subsidiary for the purpose of protecting its own goodwill. The subsidiary had defaulted on its obligations and as the taxpayer had been doing business with the suppliers it wished to continue doing so in future. (Berman was cited with apparent approval in the Supreme Court decision in Stewart & Morrison Ltd. v. M.N.R., [1974] S.C.C. 477, at page 479.)
+18 The second exception is found in Freud. Where a taxpayer holds shares in a corporation as a trading asset and not as an investment then any loss arising from an incidental outlay, including payment on a guarantee, will be on income account. This exception is applicable in the case of those who are held to be traders in shares. For those who do not fall within this category, it will be necessary to establish that the shares were acquired as an adventure in the nature of trade. I do not perceive this "exceptional circumstance" as constituting a window of opportunity for taxpayers seeking to deduct losses. I say this because there is a rebuttable presumption that shares are acquired as capital assets: see Mandryk (O.) v. Canada , [1992] 1 C.T.C. 317 (F.C.A.), at pages 323-324. [Emphasis added.]
+[12] More specifically, the Respondent contended that the Appellant cannot benefit from the first exception of the basic rule laid down by the Federal Court of Appeal in Easton because TM did not grant the surety bond for income-producing purposes related to its own business. On this, counsel for the Respondent should be quoted[18]:
+[TRANSLATION]
+. . . I submit that…in general, by agreeing to grant the surety bond, Télé-Métropole strengthened the corporate structure by bailing out its subsidiaries; it was augmenting its asset base. My colleague was saying that there was no income- generating structure acquired or obtained by Télé-Métropole by agreeing to grant the surety bond. There was perhaps nothing new as such but what is it was doing, was maintaining its assets, which were TMI and Sonolab.
+Ultimately, if these assets increase in value, Télé-Métropole wins: either in terms of dividends, or through the subsequent sale of the companies. One thing is certain, when the subsidiaries increase in value, Télé-Métropole gains.
+[13] Moreover, counsel for the Respondent maintained in his submission that the evidence clearly shows that the two TM subsidiaries earned business income and received all the benefits related to their activities following the granting of the surety bond and this income had nothing to do with TM’s activities during the relevant period.
+[14] Finally, though he maintained his position throughout his submission that the surety bond did not serve two purposes (that it was granted by TM to produce income both for its own business and for that of its subsidiaries), counsel for the Respondent, relying on the Federal Court of Appeal’s decision in Forest,[19] argued that the Court was satisfied that the surety bond did serve two purposes and had to break down the losses sustained following the surety bond as there was positive evidence allowing it to identify on a reasonable basis the composition of a global amount.
+Analysis
+[15] The amounts at issue paid by the Appellant in 1995 and 1996 constituted damages paid by the Appellant within the meaning of civil law. However, the Act does not specifically provide for the tax treatment of the damages; we have to refer to the general provisions on the computation of income, that is, sections 3, 9 and 18. According to paragraph 3(a) of the Act, the income of a taxpayer, for a taxation year for the purposes of Part I is determined by computing all amounts each of which is the taxpayer’s income for the year from a source inside or outside Canada, including the income from each business and property. Subsection 9(1) of the Act provides that a taxpayer’s income from a business or property in a taxation year is the taxpayer’s profit from that business or property for the year. More specifically, paragraph 18(1)(a) of the Act provides that, in the computation of the taxpayer’s income from a business or property, the expenses are not deductible unless they are incurred by the taxpayer for the purpose of gaining or producing income from the business or property. Moreover, pursuant to paragraph 18(1)(b) of the Act, a payment on account of capital is not deductible when the income from a business or property is computed. It can be seen from the foregoing that, for an expense to be deductible in the computation of the business income of a taxpayer, this expense must be
+a) made incurred for the purpose of gaining income; and
+b) current not capital.
+In the present case, it is admitted that the amounts at issue were paid for the purpose of gaining business income. The only issue is therefore to determe whether it is a capital expense or not.
+[16] To determine the nature of the expense, the starting point for the analysis is, in my view, Tsiaprailis v. Canada, [2005] 1 S.C.R 113, a case decided by the Supreme Court of Canada in 2005. In her reasons, on behalf of the majority in Tsiaprailis, Madame Justice Charron explains that an amount paid as damages is inherently neutral for tax purposes and the assessment of whether monies are taxable depends on what they are intended to replace. Charron J. expressed herself as follows at pages 117 and 118, paragraph 7:
+... awards of damages and settlement payments are inherently neutral for tax purposes. My colleague takes no issue with this principle. As she explains, in assessing whether the monies will be taxable, we must look to the nature and purpose of the payment to determine what it is intended to replace. The inquiry is a factual one. The tax consequences of the damage or settlement payment is then determined according to this characterization. In other words, the tax treatment of the item will depend on what the amount is intended to replace. This approach is known as the surrogatum principle. As noted by Abella J., it was defined in London and Thames Haven Oil Wharves, Ltd. v. Attwooll, [1967] 2 All E.R. 124 (C.A.), ….
+Further in her opinion, at page 120, paragraph 15, Charron J. sets out two questions that must be asked to determine the tax treatment of damages:
+The determinative questions are: (1) what was the payment intended to replace? And, if the answer to that question is sufficiently clear, (2) would the replaced amount have been taxable in the recipient’s hands? …
+[17] The principle above is derived from a leading British case London and Thames Haven Oil Wharves, Ltd. v. Attwooll, [1967] 2 All E.R. 124 (C.A.), in which Lord Willmer made the following comments at page 127:
+In the course of the argument we have been referred to a considerable number of authorities, to some of which I shall have to refer in the course of this judgment. It seems, however, to me that the question which we have to decide is eminently a question of fact, which depends on the answer to the question: what did the sum of £21,404 represent? To adopt a phrase used in one of the authorities to which we have been referred, what place in the economy of the tax payer company’s business does this payment take?
+[18] Lord Willmer therefore invites us to determine the place the payment holds in the economy of the taxpayer’s business. To do so, his learned friend, Lord Harman, invites us to take a more in-depth look at each fact relevant to the issue in question, at page 133:
+Questions relating to capital and income are among points that in my experience arise no less in the region of fiscal law, in which we are here involved, that in that of inheritance, where they are as thick as autumn leaves; and it is tempting to try to classify them and to decide whether they fall on one side of the line or the other. The judge in the court below seems at one time to have been tempted to farm out the authorities in this way; but as he rightly reminds himself in his judgment (29):
+“Judges have from time to time been careful to say that no clear and comprehensive rule can be formulated, and no clear line of demarcation can be drawn, by reference to which it can be determined in every case whether the sum received should be regarded as a capital receipt or as a revenue receipt to be taken into account in arriving at the profits or gains of the recipient’s trade. Each case must be considered on its own facts.”
+[19] Even though the case law cited above dealt with a situation in which the tax treatment of damages from the perspective of the recipient had to be determined, the surrogatum principle also applies for the purposes of determining the tax treatment from the point of view of the person responsible for paying the damages, more particularly for determining if the payment of damages is deductible pursuant to subsection 9(1) and paragraphs 18(1)(a) and 18(1)(b) of the Act. The Exchequer Court propounded that principle in Imperial Oil Ltd. v. M.N.R., [1947] 3 D.T.C. 1090 (Exchequer Court). More recently, in McNeil v. The Queen, [2000] 2 C.T.C. 304 (F.C.A.), the Federal Court of Appeal confirmed the payment of damages as a deductible expense pursuant to subsection 9(1) and paragraphs 18(1)(a) and 18(1)(b) of the Act insofar as it replaces a current expense and not a capital expense. Therefore, for the payment of damages to be deductible in the computation of the business income of a taxpayer, the expenses that the damages replace must meet the conditions set out in subsection 9(1) and paragraphs 18(1)(a) and 18(1)(b) of the Act.
+[20] In the case at bar, the damages paid by the Appellant result from a surety bond granted by TM. It must therefore be determined what tax treatment is appropriate in relation to damages resulting from a surety bond, and whether the damages are a current expense or a capital expense. We can find in the case law a number of examples that can guide us in this case in determining the tax treatment of damages resulting from a surety bond:
+i) L. Berman & Co. Ltd. v. M.N.R., [1961] C.T.C. 237 (Exchequer Court), is to the effect that
+1) if the payment is related to the taxpayer’s business, it is deductible;
+2) if the payment is deductive pursuant to the generally accepted business principles, it is deductible for tax purposes;
+3) if the payment is made in the course of an activity destined to generate income, it is deductible;
+4) the fact that no income was generated that, the granting of the guarantee (or loan) had disastrous results or that the payment significantly exceeded the income generated has no impact on its deductibility;
+ii) M.N.R. v. Freud, [1969] S.C.R. 75 is to the effect that if the guarantee is speculative, it cannot be considered a capital expense;
+iii) The Queen v. F.M. Jones Tobacco Sales Co. Ltd., [1973] C.T.C. 784 (F.C.A.), and Panda Realty Ltd. v. M.N.R., 86 D.T.C. 1266 (T.C.C.) decided that if the guarantee (or the loan) is granted to avoid losing the current or future revenue of a client, the expense is deductible. In other words, if the guarantee (or loan) is granted to avoid losing a client and this client does business with a competitor, the expense is current;
+iv) The Queen v. Lavigueur, [1973] C.T.C. 773 (F.C.T.D.) decided that if the guarantee (or the loan) is granted to keep a business running when the client is experiencing financial difficulty, the expense is current;
+v) Lavigueur and Easton, supra, decided that if the guarantee (or the loan) does not end in the acquisition or creation of a property or permanent structure, the expense is current;
+vi) finally, F.H. Jones Tobacco Sales Co. Ltd., supra, decided that the situation must be considered from the point of view of the businessperson who makes the decision to grant the guarantee.
+[21] To determine the nature of the expense pursuant to paragraph 18(1)(b) of the Act, in my opinion, the taxpayer’s reason for incurring the expense must be determined. In the case at bar, TM’s reason for undertaking on February 8, 1982, to meet all obligations and commitments of its subsidiary TMI to Mercantile Bank must be determined.
+[22] It seems evident to me, in the light of Mr. Fleury’s testimony and the documentary evidence (Exhibit A-1, tabs 12 and 18), that TMI granted the surety bond so as not to lose income for past and future activities, for the benefit of Les Films du Neighbour and its parent company, Les Productions Claude Léger. By granting the surety bond, TM wanted, among other things, to ensure it would be paid by Les Films du Neighbour inc. and Les Productions Claude Léger for all the accounts that were due to it by them. Did the evidence not reveal that following the surety bond, TM received $156,402 in payment of its accounts payable? The evidence also shows that TM wanted to ensure, with this bond, the continued operation of its own business by helping Les Films du Neighbour, a customer experiencing financial difficulties. The evidence also shows that TM wanted to be assured, with this bond, that Les Productions Claude Léger and Les Films du Neighbour did not do business with a competitor in the future. It must be recalled that these two corporations were TM’s clients and that TM rents their equipment, studios, offices, and sets. I would also point out that the business relationship between TM and Claude Léger and/or Les Productions Claude Léger had existed long before the production of “The Neighbour”. The evidence showed among other things that TM had retained the services of Claude Léger to produce the film Lucky Star, well before the film “The Neighbour”.
+[23] There is no doubt that the evidence also shows that TM granted the surety bond to prevent its two subsidiaries from losing income from future and past activities, to the benefit of Les Films du Neighbour and Les Productions Claude Léger. This appears from a letter dated February 4, 1982 between the surety bond parties. Furthermore, this agreement reveals that TMI received fees of $50,000. Sonolab received $200,000 for technical services that it had rendered and that it would render for the production of the film “The Neighbour”. Moreover, the agreement also shows that both TM subsidiaries would receive all outstanding accounts owing to it as of February 4, 1982, by Les Films du Neighbour and Les Productions Claude Léger. In other words, by granting the bond, TM also wanted to ensure the continued operation of the two subsidiaries’ businesses by helping a client (Les Films du Neighbour), which was experiencing financial difficulties. TM also wanted to ensure that Les Films du Neighbour and Les Productions Claude Léger continued to use both subsidiaries’ services and did not do business with any competitors. It should also be recalled that the business relationship between Sonolab and Les Productions Claude Léger had existed long before the production of the film “The Neighbour”. Counsel for the Respondent also stressed the fact that the surety bond gave TMI an interest in the net profit generated by the film “The neighbour” in addition to an option of buying the film, under certain conditions. In this regard, it should be noted immediately that Mr. Fleury’s testimony revealed that the future interest in the net profit generated by the film was in no way an element considered by TM in its decision to grant the bond as it knew that the chances of a Quebec film being profitable at the time were practically non-existent. Moreover, Mr. Audet’s testimony shows that, this interest in the profit was not taken into consideration when the decision was made.
+[24] Contrary to what the Respondent is alleging, it can be found, in the light of the evidence submitted, that the surety bond was granted by TM for income-producing purposes related to its business and to that of its two subsidiaries. In other words, it can be found that the surety bond had two objectives or a dual purpose. Consequently, the Respondent’s argument that the Appellant did not meet the first exception to the basic rule propounded by the Federal Court of Appeal in Easton because TM did not grant the surety bond to produce income in relation to its business does not stand up to analysis. In my view, Easton cannot be read as holding that a taxpayer can deduct the loss sustained further to a guarantee only if it was granted exclusively or principally for the purpose of producing income with respect to its own business. I am rather of the view that a taxpayer may deduct the loss sustained further to a guarantee if there is a sufficient nexus between the guarantee and its own income-producing activity. In the case at bar, the evidence shows that there was such a nexus and that it was direct and significant. I would like to add that, by using in Easton the phrase “income-producing purposes”, the Federal Court of Appeal also wanted to reiterate the principle that income need not be generated further to the guarantee for the loss further to the guarantee to be deductible. I would point out that, according to Berman, the fact that no income was generated, that the granting of a guarantee (or loan) had disastrous results, or that the payment significantly exceeded than the income generated has no impact on its deductibility.
+[25] I would like to point out that, at the hearing, counsel for the Respondent stood by his position that the surety bond did not have a dual purpose and added, referring to Forest, that if the Court was satisfied that the bond had a dual purpose, then the losses sustained would have to be broken down to the extent that there is some proof by which the composition of the total amount can be ascertained. In this regard, counsel for the Respondent suggested that the letter dated February 10, 1982, supported his position. Having read that letter, I note that at the end of the bond TM, TMI and Sonolab, received $156,402 (or 25% of the total), $239,632 and $220,201 respectively. A breakdown made on this basis would dictate that 25% of the amount at issue is current, which is the portion of income generated directly by TM. However, I am of the view that this letter cannot constitute an objective basis on which to proceed with a reasonable breakdown. This letter does not establish what proportion of the surety bond was granted by each of the participating entities, where applicable. On the contrary, the testimony evidence reveals that there was never any breakdown. This letter does not reveal what the parties took into account to arrive at the bond. This letter does not show exchanges between the parties bearing on a breakdown, not even indirectly. This letter merely shows that there was a cash in flow following the granting of the surety bond, a few days after it was finalized. This letter does not indicate that it was a final payment or if other payments followed. In this regard, Mr. Fleury’s testimony suggests that it was not a final payment. In a nutshell, this letter contains highly fragmented information and is not reliable enough to serve as an objective basis for a fair breakdown, on a balance of probabilities. Finally, I emphasize that evidence of the breakdown must be made by the party that raises it, also on a balance of probabilities. It is the Respondent in this case who has this burden and she did not discharge this burden. It is very interesting to note that the Respondent never tried to make a breakdown, whether during the audit, assessment, objection or confirmation, even going so far at the appeal stage to conclude that the only issue is to determine if the expenses incurred in 1995 and 1996 are on account of income or capital.
+[26] In my view, in cases where a guarantee has two purposes, as in this situation, the loss sustained further to the bond can be broken down in law only if the purpose of the guarantee is purely objective. For example, if in the present case, TM had granted the bond for the sole purpose of preventing itself and its subsidiaries from losing money for past works, a breakdown would have been possible. However, when a guarantee has two purposes and is both subjective (for example, preventing the client from doing business with a competitor in the future) and objective (avoiding losing income for past work), it seems evident that a breakdown is not possible and the following basic rule applies: the taxpayer may deduct all losses sustained further to a guarantee that has two purposes if there is a sufficient link between the guarantee and its own income-generating activities. In the case at bar, I find that there was such a nexus and that it was direct and significant.
+[27] For these reasons, the appeal is allowed with costs.
+Signed at Ottawa, Canada, this 24th day of October 2008.
+Paul Bédard
+Bédard J.
+Translation certified true
+on this 12th day of May 2009.
+François Brunet, Reviser
+CITATION: 2008 TCC 509
+COURT FILE NO.: 2006-1806(IT)G
+STYLE OF CAUSE: Groupe TVA Inc. v. Her Majesty The Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 22, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: October 24, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Dominic C. Belley
+Counsel fßor the Respondent:
+Martin Gentile
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Dominic C. Belley
+Firm: Ogilvy Renault
+City: Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A‑1, tab 3.
+[2] Exhibit A‑1, tab 4.
+[3] Exhibit A‑1, tab 9.
+[4] Exhibit A‑1, tabs 25 and 26.
+[5] Exhibit A‑1, tabs 16 and 17.
+[6] Exhibit A‑3.
+[7] See stenographer’s notes, pages 87 and 98.
+[8] Hearing transcript, pages 97 and 101.
+[9] Hearing transcript, pages 98 and 104.
+[10] Hearing transcript, pages 111 and 112.
+[11] Hearing transcript, page 122.
+[12] Hearing transcript, page 123.
+[13] Hearing transcript, page 133.
+[14] Hearing transcript, page 134.
+[15] Hearing transcript, page 137.
+[16] Easton v. Canada, [1997] F.C.J. No. 1282, 97 D.T.C. 5464 (FCA).
+[17] M.N.R. v. Steer, [1967] S.C.R. 34, 66 D.T.C. 5481.
+[18] See stenographer’s notes, pages 170 and 171.
+[19] Forest v. The Queen, 2007 D.T.C. 632 (FCA).

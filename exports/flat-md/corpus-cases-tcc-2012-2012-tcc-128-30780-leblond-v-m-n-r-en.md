@@ -1,0 +1,216 @@
+---
+title: "Leblond v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30780/index.do"
+last_modified: "2012-04-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 128"
+citation2: ""
+neutral_citation: "2012 TCC 128"
+decision_date: "2012-04-20"
+language: "en"
+item_id: "30780"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7584
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:28:13.448000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0238a3429d6b239ba328c803d98f1738064a02ea342e619ce88757ddc7b194d1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leblond v. M.N.R.
+
+- Citation: 2012 TCC 128
+- Decision date: 2012-04-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7584, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leblond v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-04-20
+Neutral citation
+2012 TCC 128
+File numbers
+2011-855(EI)
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2011-855(EI)
+BETWEEN:
+ANDRÉ LEBLOND AND ALINE LAGRANGE,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 22, 2011, at Québec, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Agent for the appellants:
+André Leblond
+Counsel for the respondent:
+Marie-France Dompierre
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal filed under the Employment Insurance Act is dismissed, and the decision of the Minister of National Revenue dated January 28, 2011, is confirmed.
+Signed at Ottawa, Canada, this 20th day of April 2012.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 8th day of June 2012
+Margarita Gorbounova, Translator
+Citation: 2012 TCC 128
+Date: 20120420
+Docket: 2011-855(EI)
+BETWEEN:
+ANDRÉ LEBLOND AND ALINE LAGRANGE,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Jorré J.
+[1] The respondent determined that Yves Leblond (the worker) did not hold insurable employment during the periods from October 24 to November 21, 2009 (the first period), from June 14 to July 16, 2010 (the second period), and from August 2 to 27, 2010 (the third period), when he was employed by the appellants (the payers).
+[2] The appellants are challenging this determination.
+[3] The respondent does not dispute that the worker was an employee of the appellants.
+[4] However, the respondent concluded that the worker held excluded employment because the worker and the payers would not have entered into a similar contract of employment if they had been dealing with each other at arm's length.
+[5] The relevant provisions of the Employment Insurance Act are the following subsections of section 5:
+(2) Excluded employment — Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+(3) Arm's length dealing — For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[6] This is mostly a question of fact.
+[7] The appellants are sole proprietors of a farm and the worker is their son.
+[8] The appellants did not dispute that they were related to the worker within the meaning of the Income Tax Act.
+[9] In Lavoie v. M.N.R., 2010 TCC 580, Justice Bédard summarizes the role of the Court as follows at paragraphs 7 to 9:
+7 The Federal Court of Appeal has repeatedly defined the role conferred on Tax Court of Canada judges by the Act. That role does not permit the judge to substitute his or her discretion for the Minister's, but does involve an obligation to "verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, . . . decide whether the conclusion with which the Minister was "satisfied" still seems reasonable" (see Légaré v. Canada (Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878 (QL), at paragraph 4).
+8 In other words, before deciding whether the Minister's conclusion still seems reasonable to me, I must verify, in light of the evidence before me, whether the Minister's allegations are in fact correct, having regard to the factors set out in paragraph 5(3)(b) of the Act. At issue, then, is whether appellant Lavoie and the payer would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+9 Appellant Lavoie had the burden of proving that the Minister did not exercise his discretion in accordance with the principles that apply in this regard, essentially, that the Minister did not examine all of the relevant facts or failed to have regard to all of the facts that were relevant.
+[10] Consequently, having heard all of the evidence, I must determine whether the Minister's conclusion that the payers and an arm's-length person would not have entered into a substantially similar contact of employment still seems reasonable to me.
+[11] The appellants testified as did Donald Royer, a farmer, and Claire Grant, a rulings officer in employment insurance at the Canada Revenue Agency.[1] The appellants were not represented by counsel.
+[12] In making his determination, the Minister relied on the following assumptions of fact:
+[Translation]
+(a) Since January 1, 1978, André Leblond and Aline Lagrange have operated a farm raising cattle and rabbits for meat, of which they are the sole proprietors;
+(b) The appellants' activities are agriculture, excavation, foundations, construction, tree clearing, drainage, raising livestock, feeding, cleaning, manure spreading, transportation, equipment and machinery maintenance and accounting;
+(c) The farm has several buildings, 60 head of cattle and 8,000 to 9,000 rabbits;
+(d) The farm operates year-round;
+(e) Normally, the farm's owners run the farm without outside help;
+(f) Occasionally, the appellants hire employees for periods ranging from 1 to 5 months, and the employees are usually part of their family;
+(g) The worker started working for the appellants in 2009;
+(h) The worker's duties for each period of work were as follows:
+• From October 21 to November 21, 2009, the worker worked with his father on building a steel shed [a garage], fed the livestock and cleaned the buildings;
+• From June 17 to July 16, 2010, the worker fed the livestock, did the cleaning, cut and stored firewood, did mechanical maintenance and haying;
+• From August 2 to 27, 2010, the worker fed the livestock, cleaned, did welding for cattle feeding installations and did installation work;
+(i) The worker's schedule was determined by the appellants and varied by work period, namely, for the first period, the work was full time, 48 hours per week, while for the other two periods, the work was part time, 15 hours per week;
+(j) The worker had no set schedule, especially during the last two periods during which the hours worked were quite variable and could be done during the day or at night depending on when he was available;
+(k) During all of the periods at issue, the appellants kept track of the hours worked by the worker;
+(l) The worker's duties were determined by André Leblond as were priorities and deadlines;
+(m) The worker had to comply with the appellants' requirements, for example, not to smoke on the business's premises;
+(n) The appellants provided all tools needed by the worker to perform his duties;
+(o) André Leblond determined the worker's pay by consulting the "Online Placement" guide and set it at $14.10 per hour;
+(p) According to Emploi-Québec, the hourly wage for an agricultural worker in 2007-2009 was between $9 and $13.79.
+(q) The worker was paid based on the hours actually worked.
+(r) The worker was paid in cash every week;
+(s) The appellants deducted an amount for his room and board from the worker's pay;
+(t) The worker did not receive vacation pay;
+(u) If the worker had not been available for building the shed or cutting trees, according to Aline Lagrange, the work could have waited or been done by her spouse and herself, but if the work had been urgent, they could have hired someone else;
+(v) It was agreed between the parties that, when the worker had a full-time job elsewhere, priority was given to that other job;
+(w) In addition, Aline Lagrange stated that the appellants did not obligate the worker to help out at the farm when he had a full-time job elsewhere;
+(x) From June 14 to July 16, 2010, that is, during 5 weeks, the worker worked 40 hours per week spread over 5 days for Construction G.P. Martineau and 15 hours per week for the appellants. On July 5, 2010, he added another 40‑hour‑per­‑week job spread over 5 days for Fraisière Michel Perreault. Therefore, for 2 weeks, the worker worked 95 hours per week for 3 employers;
+(y) From August 2 to 27, 2010, that is, during 4 weeks, the worker worked 40 hour per week for Fraisière Michel Perreault and 15 hours per week for the appellants;
+(z) On August 4, 2010, the appellants issued the worker a record of employment bearing number A87619289 indicating June 14, 2010, as the first day of work and July 16, 2010, as the last day of work, 75 insurable hours and $1,067.50 in insurable earnings;
+(aa) On August 27, 2010, the appellants issued the worker a record of employment bearing number A88543961 indicating August 2, 2010, as the first day of work and August 27, 2010, as the last day of work, 60 insurable hours and $846.00 in insurable earnings;
+(bb) According to HRSDC, the worker needed these hours to be eligible for employment insurance benefits;
+Remuneration and conditions of employment
+[13] The worker was paid per hour and the appellants deducted a small amount from his pay for his room and board.
+[14] Although the respondent's report on an appeal seems to have retained as one of the reasons for the determination the fact that, during the first period at issue, the worker did very little work, which did not warrant the number of hours paid during that period,[2] paragraph 6 of the Reply to the Notice of Appeal does not list assumptions of fact that would support such a reason.
+[15] Having considered all of the evidence, including the testimony of André Leblond, I find that, in the first period, the employment was real and corresponded to the hours paid.[3]
+[16] As for remuneration, the respondent assumed that, according to Emploi‑Québec, from 2007 to 2009, the hourly wage for an agricultural worker was between $9 and $l3.79. Given that the periods at issue were in 2009 and 2010, and that the worker performed various tasks including welding, $14.10 does not seem to be outside the norm for the period at issue.[4]
+Would the appellants have hired a third party if the worker had not been available?
+[17] The Minister assumed the following:[5]
+1. If the worker had not been available to build the shed [garage], this work could have waited or been done by the appellants, but, if the work had been urgent, the appellants would have hired someone else.
+2. It was agreed between the appellants and the worker that, when the worker had a full-time job elsewhere, priority was given to that other job.
+3. The appellants did not obligate the worker to help out at the farm when he had a full-time job elsewhere.
+[18] The worker moved back in with his parents in the fall of 2009. He had left home 14 years earlier.
+[19] When the worker returned to live at home, he did not have a job.
+[20] André Leblond offered him construction work; they worked together on expanding a garage[6] during the first period at issue. During that same period, the son also took care of the rabbits. During that period, Yves Leblond worked full time for about 48 hours per week.
+[21] No evidence proving the urgency of expanding the garage was filed.
+[22] During the second and third periods at issue, the worker worked around 15 hours per week.
+[23] During the second and third periods, the worker had two other full-time jobs. He worked for a contractor, and then he worked at a strawberry farm.
+[24] The worker did his work at the farm early in the morning or in the evening before or after his full-time jobs. He took care of the rabbits, picked up wood, did welding. The welding was done in a building that had been used for the rabbits but which the farm was converting into a cattle barn.
+[25] During the second and third periods, by mutual agreement, the worker's full‑time jobs were his priority.[7]
+[26] Other than during the worker's work periods and on the few rare occasions when their other children helped them out, the appellants worked alone in 2009 and 2010.
+[27] In 2009, another one of their sons, Étienne, took two weeks' vacation from his regular job and worked with his father during that time haying. Étienne was not paid for this work.
+[28] The other children were not paid when they helped out. However, they were rewarded.
+[29] André Leblond testified that, as he got older, he needed more help, especially with haying season. However, the evidence does not show that people other than the worker had been hired with pay during the two years at issue, namely, 2009 and 2010.
+[30] The appellants' evidence failed to rebut the assumptions of fact found at paragraph 17.
+Analysis[8]
+[31] For the appellants and the worker to be deemed to be dealing with each other at arm's length, the Minister must be satisfied, having regard to all of the circumstances, including the nature and duration of the work, that they would have concluded a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[32] I cannot help but find that the worker, the appellants' son, was hired because he was available, but that an unrelated third party would not have been hired during these periods to do the same work. If the son had not been available, the work would have been done by the appellants or would have waited (in the case of expanding the garage).
+[33] If no employee would have been hired to do the work,[9] I do not see how it would be possible to find that the appellants would have entered into a substantially similar contract of employment with a person at arm's length. Such a contract would not have been concluded with a third party.
+[34] Accordingly, I do not see how I could find that the Minister's decision was not reasonable.
+Conclusion
+[35] It follows that I must dismiss the appeal.
+Signed at Ottawa, Canada, this 20th day of April 2012.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 8th day of June 2012
+Margarita Gorbounova, Translator
+CITATION: 2012 TCC 128
+COURT FILE NO.: 2011-855(EI)
+STYLE OF CAUSE: ANDRÉ LEBLOND AND ALINE LAGRANGE v. M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: August 22, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: April 20, 2012
+APPEARANCES:
+Agent for the appellants:
+André Leblond
+Counsel for the respondent:
+Marie-France Dompierre
+COUNSEL OF RECORD:
+For the appellants:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Yves Leblond did not file an intervention and did not testify. At the time of the hearing, he was in the hospital. See also the report in Exhibit A‑4, especially the third hand-written line.
+[2] See the second-last page of the report on an appeal, the second paragraph entitled [Translation] "Conditions of employment" in Exhibit I-1. According to the report, the information that conclusion is based on comes from a telephone interview between the rulings officer and the worker — see paragraphs 28 to 43 at pages 3 of 7 and 4 of 7 of the report.
+[3] I acknowledge that the respondent relied on the interview during which the worker seems to have stated the opposite; however, the first paragraph of the interview report in Exhibit I-2 and the report in Exhibit A-4 must be taken into account (see third and fourth hand-written lines, including the date on the right).
+[4] In addition, the appellant provided for comparison a job offer for an agricultural job starting on December 14, 2010, from Emploi-Québec's Online Placement Web site the hourly wage for which ranged from $13.50 to $14.50 based on experience.
+Mr. Royer, a farmer who knows André Leblond and who worked for him around 1980, testified that he would agree to work on building a garage for $14.10 per hour. He also testified that he would agree to work very irregular and very long hours for that hourly wage. However, the fact that Mr. Royer would agree to do this type of work for this hourly wage does not in itself show that $14.10 per hour is the market rate.
+[5] See paragraphs 12(u) to (w) above.
+[6] See questions 99 and 100 of the transcript.
+[7] See, among others, question 32 at page 15 of Exhibit A‑1.
+[8] The appellants filed in evidence two letters from the Minister of Revenue, in which he had agreed in 1998 that two of their other children had held insurable employment with the appellants. See Exhibit A‑1 for two letters dated February 12, 1999, numbered n and o, which follow the Notice of Appeal. Clearly, determinations regarding other people made more than 10 years earlier cannot be used to decide the issue in this case.
+[9] Even though the remuneration and conditions of employment would have been the same if a third party had been hired.

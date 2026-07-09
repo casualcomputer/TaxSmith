@@ -1,0 +1,251 @@
+Title: Hopmeyer v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26030/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-185-26030-hopmeyer-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-03-30
+
+# Hopmeyer v. The Queen
+
+- Citation: 2006 CCI 185
+- Decision date: 2006-03-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4090, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hopmeyer v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-30
+Référence neutre
+2006 CCI 185
+Numéro de dossier
+2002-2842(IT)G
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-2842(IT)G ENTRE :
+ESTELLE HOPMEYER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus à Montréal (Québec), les 2 et 3 novembre 2005.
+Devant : l’honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l’appelante :
+Me Aaron Rodgers
+Avocat de l’intimée :
+Me Bernard Fontaine
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1999 et 2000 sont rejetés, avec dépens en faveur de l’intimée, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 30e jour de mars 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 25e jour d’avril 2008.
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI185
+Date : 20060330
+Dossier : 2002-2842(IT)G
+ENTRE :
+ESTELLE HOPMEYER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Les présents appels visent les années d’imposition 1999 et 2000. Ils intéressent l’application possible de la division 50(1)b)(iii)(B) de la Loi de l’impôt sur le revenu (la « Loi ») à la fin de l’année d’imposition 1999.
+[2] L’alinéa 50(1)b) est ainsi rédigé :
+50(1) Créances reconnues comme irrécouvrables et actions d’une société en faillite
+Pour l’application de la présente sous‑section, lorsque, selon le cas :
+[…]
+b) une action du capital-actions d’une société (autre qu’une action reçue par un contribuable en contrepartie de la disposition d’un bien à usage personnel) appartient au contribuable à la fin d’une année d’imposition et :
+(i) soit la société est devenue au cours de l’année un failli au sens du paragraphe 128(3),
+(ii) soit elle est une personne morale visée à l’article 6 de la Loi sur les liquidations, insolvable au sens de cette loi et au sujet de laquelle une ordonnance de mise en liquidation en vertu de cette loi a été rendue au cours de l’année,
+(iii) soit les conditions suivantes sont réunies à la fin de l’année :
+(A) la société est insolvable,
+(B) ni la société ni une société qu’elle contrôle n’exploite d’entreprise,
+(C) la juste valeur marchande de l’action est nulle,
+(D) il est raisonnable de s’attendre à ce que la société soit dissoute ou liquidée et ne commence pas à exploiter une entreprise,
+le contribuable est réputé avoir disposé de la créance ou de l’action à la fin de l’année pour un produit nul et l’avoir acquise de nouveau immédiatement après la fin de l’année à un coût nul, à condition qu’il fasse un choix, dans sa déclaration de revenu pour l’année, pour que le présent paragraphe s’applique à la créance ou à l’action.
+[3] La principale question en litige consiste à savoir si, à la fin de l’année 1999, Aqua Vision Systems Inc. (« AVSI ») exploitait une entreprise. Dans la négative, la Cour devra se demander, à titre subsidiaire, si l’appelante a fait un choix dans sa déclaration de revenu pour l’année 1999, pour que le paragraphe reproduit ci‑dessus s’applique aux actions qu’elle détenait dans AVSI.
+[4] Il faut préciser de prime abord que la demande de perte déductible au titre d’un placement d’entreprise (« PDTPE »), fondée sur la disposition susmentionnée, a été présentée pour la première fois dans un avis d’appel modifié produit le 18 janvier 2005. Selon l’avis d’appel, produit le 19 juillet 2002, la demande de PDTPE pour 1999 se fonde sur des prêts de 74 074 $ que l’appelante est supposée avoir consentis et sur une dette de 144 931 $ contractée au titre d’une garantie d’emprunt que l’appelante est supposée avoir accordée. À la fin de l’année d’imposition 1999, 79 pour 100 de ces sommes étaient irrécouvrables et, pour l’année 2000, la demande de PDTPE concernait le solde des prêts et de la garantie ainsi que la perte subie au moment de la disposition des actions en faveur de la fille de l’appelante.
+[5] Dans l’avis d’appel modifié, on a ajouté un paragraphe, lequel énonce la seule question en litige examinée à l’audience. Ce paragraphe mentionne :
+[TRADUCTION] 13. L’appelante a en outre fait un choix pour que l’alinéa 50(1)b) de la Loi de l’impôt sur le revenu s’applique à ses actions parce que la société était insolvable, elle était en liquidation, elle s’attendait à être dissoute et la valeur de ses actions était nulle.
+[6] Dans l’avis d’appel modifié on affirmait donc, au sujet de l’exigence prévue à la division 50(1)b)(iii)(B) de la Loi selon laquelle la société n’exploitait pas d’entreprise à la fin de l’année d’imposition 1999, que la société était en liquidation.
+[7] D’après l’intimée, AVSI exploitait toujours une entreprise à la fin de 1999 et pendant une bonne partie de 2000. Il ressortira de la preuve que la société avait du personnel, se rendait à des salons professionnels, acceptait des commandes, assemblait des produits, puis les vendait.
+[8] L’appelante a mentionné que la société AVSI participait à l’élaboration et à la fabrication de matériel destiné à la photographie sous‑marine. Elle ne fabriquait pas les caméras, mais les boîtiers ou les carters des caméras. Le matériel était vendu sous le nom commercial d’Aquatica.
+[9] L’appelante a ajouté qu’elle ne participait pas activement à AVSI. Il s’agissait de l’entreprise de son mari et sa seule participation véritable touchait au placement de fonds. Son mari est comptable de formation et c’est lui qui prépare les déclarations de revenu de l’appelante. Celle-ci a reçu de l’argent au titre de son emploi et aussi d’un héritage. Elle était propriétaire des maisons familiales, l’une à la campagne et l’autre à la ville. Ces deux résidences ont été hypothéquées afin d’obtenir des fonds pour AVSI et ont dû être vendues vers 1997. Elle croit qu’une somme d’environ un million de dollars a été perdue à cause d’AVSI, et une bonne partie de cet argent était le sien.
+[10] Son mari a lancé l’entreprise AVSI en 1991. En 1996, au grand plaisir de la famille, AVSI a conclu un contrat avec Nikon. Les attentes liées à ce contrat étaient énormes. En 1997, AVSI a adhéré à un programme connu sous le nom de programme SPEQ. (SPEQ est le sigle de « sociétés de placements dans l’entreprise québécoise »). Malheureusement, en 1998, l’entente avec Nikon n’a pas eu les effets escomptés. En 1999, il a fallu soumettre une proposition aux créanciers.
+[11] L’appelante a déclaré qu’elle détenait la moitié des actions d’AVSI. Le 27 décembre 2000, elle a transféré ses 1 900 000 actions à sa fille (pièce A‑10).
+[12] Aux pièces A‑1, A‑2 et R‑1 figure une lettre datée du 26 octobre 2000 que l’appelante a adressée à l’Agence des douanes et du revenu du Canada (l’« Agence »). Cette lettre était accompagnée d’un questionnaire envoyé par l’Agence que M. Hopmeyer avait rempli au nom de l’appelante. Cette dernière a précisé que, même si elle avait signé les documents, ceux‑ci ont été établis par son mari.
+[13] L’une des questions posées dans le questionnaire est la suivante : [TRADUCTION] « Nombre d’employés à temps plein ». La réponse donnée est cinq. Une autre question consiste à savoir si la société avait fait faillite ou cessé ses activités. La réponse a été fournie dans une annexe jointe au questionnaire. Elle fait notamment état de ce qui suit :
+[TRADUCTION] 1. Le 27 janvier 1999, Aqua‑Vision Systems Inc. (AVS) a demandé la protection de ses créanciers sous le régime de la Loi sur la faillite et l’insolvabilité du Canada en vue de produire une proposition à l’intention de ses créanciers. On a présenté aux créanciers ordinaires une proposition de 0,21 $ payable en trois versements annuels débutant un an après la date de ratification par la Cour. La proposition a été acceptée par les créanciers ordinaires et ratifiée par la Cour le 1er juillet 1999.
+[14] L’appelante a conclu son témoignage en affirmant que la société n’exploitait pas d’entreprise à la fin de l’année d’imposition 1999. Elle n’existait que de façon artificielle, réussissant tout juste à survivre.
+[15] M. Gilles Bruneau est devenu administrateur d’AVSI en 1997. Il a contribué activement à ce que la société AVSI adhère au programme SPEQ en octobre 1997. Une société appelée SPEQ Aqua Vision Inc. a été établie et a servi, de la fin de 1997 jusqu’en 1998, comme moyen d’obtenir des investissements dans AVSI.
+[16] Les états financiers d’AVSI datés du 31 octobre 1997 ont été déposés en preuve sous la cote A‑17. Ils montrent que les ventes s’élevaient à 2 558 653 $ en 1996 et à 1 502 829 $ en 1997. M. Bruneau a mentionné que, pendant la première année de l’entente avec Nikon, qui a débuté en janvier 1996, le volume des ventes avait été massif. L’année suivante, Nikon a manqué à ses obligations contractuelles relatives aux commandes, tardant à publier son catalogue et à mettre sur pied ses sites Web. Nikon a aggravé la situation quand, à la fin de 1998 ou au début de 1999, elle s’est livrée au dumping en introduisant sur le marché des produits achetés d’AVSI en 1996 et en les vendant aux principaux distributeurs de cette dernière.
+[17] M. Bruneau a affirmé que les objectifs visés par l’entente au titre du programme SPEQ n’ont jamais été atteints. L’objectif était de trois millions de dollars, mais seulement la moitié de ce chiffre a été atteint. À l’automne 1998, à cause de la situation financière fragile d’AVSI, les administrateurs ont refusé un paiement de 250 000 $ offert par des courtiers dans le cadre du programme SPEQ. En raison de l’échec du contrat avec Nikon et des pressions exercées par la banque, on a décidé que la société devait déposer une proposition à l’intention des créanciers.
+[18] Selon M. Bruneau, il aurait peut‑être fallu introduire une requête de mise en faillite, mais une personne (M. Hopmeyer) s’était consacrée entièrement à l’entreprise, de récents investisseurs avaient avancé des fonds, il y avait toujours des stocks et un bon produit, malgré certaines difficultés de distribution et un manque de disponibilités.
+[19] Le témoin a produit en preuve sous la cote A‑20 une résolution du conseil d’administration d’AVSI datée du 20 janvier 1999, qui avait pour objet d’approuver le transfert de 1 900 000 actions de catégorie B du capital‑actions de la société de Stanley Hopmeyer à Estelle Hopmeyer.
+[20] M. Marc Rodrigue a témoigné ensuite.
+[21] Le 26 janvier 1999, AVSI a déposé un avis d’intention de faire une proposition à ses créanciers. La proposition a été déposée le 8 avril 1999 (pièces A‑21 et A‑22).
+[22] Dans un document daté du 13 avril 1999, le syndic de faillite a présenté en ces termes ses conclusion et recommandation au sujet de la proposition (pièce A‑21) :
+[TRADUCTION]
+VII. CONCLUSION ET RECOMMANDATION
+Le dépôt initial de la demande de protection par voie d’un avis d’intention a donné à Aqua Vision le temps nécessaire pour rencontrer ses divers créanciers garantis en vue de renégocier les sommes impayées qu’elle leur devait. La présente proposition vise à conclure des concordats avec les créanciers garantis ainsi que des remises de dette avec les créanciers ordinaires. Comme Aqua Vision ne prévoit pas avoir les moyens de générer des rentrées de fonds importantes dans un proche avenir, elle a l’intention de payer ses créanciers au cours d’une période de trois (3) ans.
+Si les créanciers acceptent la présente proposition, Aqua Vision espère être en mesure d’attirer d’autres investissements de capitaux qui permettront à l’entreprise de croître et d’être plus viable. Si les créanciers décident de rejeter la proposition, une faillite s’ensuivra automatiquement, ce qui entraînera la liquidation de l’actif de la société. Dans cette éventualité, nous n’envisageons pas qu’il subsiste un quelconque dividende de liquidation pour les créanciers ordinaires. En outre, nous nous attendons à ce que les créanciers garantis subissent aussi une perte considérable si la société fait faillite.
+Le syndic recommande donc aux créanciers d’accepter la présente proposition et de donner à Aqua Vision l’occasion de se rétablir.
+[23] M. Rodrigue agissait en qualité de surveillant pour la Banque Nationale du Canada, un des créanciers garantis. Tous les chèques étaient soumis à son approbation. Il a approuvé la participation à un salon professionnel afin de maintenir la viabilité de l’entreprise. Il a déclaré que les activités se poursuivaient, bien qu’à plus petite échelle.
+[24] Il agissait encore en cette qualité au moment de la vente en février 2001. M. Hopmeyer discutait de la question avec lui depuis un certain temps et il était arrivé à la conclusion que l’entreprise pourrait être vendue aux employés.
+[25] M. Rodrigue a déposé en preuve, sous la cote A‑23, un avis de demande de libération du syndic relativement à la proposition. Le document est daté du 15 mars 2005. Il ressort de l’état des encaissements et décaissements du syndic, joint à la demande, que, sur approbation des inspecteurs, un avis de défaut a été envoyé aux créanciers le 25 août 2001, mais qu’il n’y a pas eu faillite à ce moment-là. La société a subséquemment fait cession de ses biens le 17 décembre 2002.
+[26] Pendant son interrogatoire principal, M. Hopmeyer a exposé les mêmes faits. Il a également affirmé qu’en réalité, à la fin de l’année d’imposition 1999, la société n’exploitait pas d’entreprise, mais qu’elle tentait de son mieux de liquider son actif. Cela explique pourquoi il s’est rendu au salon professionnel au début de 2000, pourquoi les locaux étaient encore ouverts et pourquoi il avait conservé certains membres du personnel à son service.
+[27] Quant à savoir si la société exploitait une entreprise pendant l’année d’imposition 2000, M. Hopmeyer a déclaré ce qui suit (transcription, 2 novembre 2005, aux pages 241 et 242) :
+[TRADUCTION]
+Q. Pensez-vous qu’il serait raisonnable de s’attendre qu’à la fin de l’année, la société soit dissoute ou liquidée et qu’elle cesse d’exploiter une entreprise?
+R. Oui, je veux dire, c’était vraiment le, selon moi, je continuais de l’exploiter juste pour voir, vous savez, juste pour rembourser l’emprunt à la banque et aussi juste pour, vous savez, juste pour faire une distinction dans le temps à partir du moment où des fonds ont été reçus dans le cadre du programme SPEQ, mais il y avait, elle était inactive, l’entreprise était inactive. Il n’y avait aucun espoir de reconstitution, il aurait fallu une somme de deux millions ou trois millions ou quatre millions de dollars pour, somme qu’il était impossible d’obtenir. J’avais épuisé, je veux dire, j’ai épuisé toutes les sources de financement possibles, les prêts aux petites entreprises, les prêts STI, les prêts de la Banque fédérale de développement, le financement du programme SPEQ, le financement bancaire, il ne restait aucune autre source. J’ai utilisé, j’ai épuisé tout, tout, j’ai utilisé tout notre argent et un million de dollars aussi, donc.
+Q. Votre épouse était-elle disposée à continuer d’emprunter de l’argent pour appuyer AVS?
+R. Jamais de la vie! Elle était, elle est très affligée par le montant d’argent que nous avions déjà investi. […]
+Q. Maintenant, lorsque le, vous avez plus tôt expliqué à la Cour ce qui se passait en 1999 pendant que vous tentiez de donner effet, je suppose, à la proposition, quelles étaient vos activités quotidiennes, cela a continué, je suppose, en 2000 dans une certaine mesure? La même sorte de […]
+R. Oui, c’était la même chose, la même histoire, nous perdons encore de l’argent. Nous remboursions le prêt bancaire, tant que cela durait, la banque tolérait la situation.
+[28] Pendant le contre‑interrogatoire, on lui a montré la demande de déduction faite par AVSI pour l’année 2000 au titre de dépenses de RS&DE relatives au projet de boîtier de caméra A100 qui avaient été engagées au cours de la période allant du 1er novembre 1998 au 31 octobre 1999 (pièce R‑2). La demande a été présentée le 25 juin 2002. Le dossier concernant cette demande a été produit en preuve sous la cote R‑3. Il y est fait état des salaires payés aux employés pendant toute l’année 2000. Le dossier contient les T4 ainsi que le résumé du livre de paye d’AVSI pour cette même année. Il ressort de ces documents que, cette année‑là, cinq personnes étaient employées de façon habituelle pour les mois de janvier à décembre 2000. En tout, il y avait neuf employés pendant toute l’année 2000.
+[29] Selon le résumé du livre de paye pour 2000, les salaires suivants ont été versés aux employés : 44 556,83 $, 44 480,85 $, 26 460,08 $, 16 762,20 $ et 21 466,83 $ pour les employés permanents, 5 825,80 $ pour un employé qui avait travaillé pendant les trois premiers mois, 8 864,32 $ pour un employé qui avait travaillé de mars à septembre, 2 934,20 $ pour un employé qui avait travaillé deux mois et demi et 29 335,20 $ pour un employé qui avait travaillé de janvier à septembre. Les salaires pour l’année 2000 totalisent 200 686,31 $.
+[30] Aux pages 268, 269, 271, 276, 277 et 278 de la transcription (2 novembre 2005), M. Hopmeyer explique ce qui s’est passé avec le modèle de boîtier A100 et comment l’entreprise a évolué pendant l’année 2000 :
+[TRADUCTION]
+Q. Maintenant, que s’est‑il passé après le 31 octobre 1999 en ce qui concerne ce boîtier A100?
+R. Eh bien, nous avons continué en octobre et en novembre à le mettre au point de telle sorte que nous avons pu faire produire des moules à la fin du mois de décembre. Je crois que nous avions quelques modèles disponibles pour le salon international en janvier, à la DEMA [Diving Equipment & Marketing Association].
+Q. Parlez-moi de ce salon international. Que s’est‑il passé là‑bas?
+R. Eh bien, nous nous sommes rendus au salon avec beaucoup de produits que nous voulions vendre, habituellement, nous allions au salon avec six ou sept personnes.
+Q. Hum, hum. Et?
+R. Nous sommes allés au salon avec deux personnes.
+Q. Qui est allé?
+R. Norma et moi‑même.
+Q. Entendu. Et avez‑vous fait des ventes au salon en janvier 2000?
+R. Nous avons probablement enregistré quelques commandes, vendu certains produits, nous avons emporté des articles en stock, nous avons vendu certains articles en stock, mais pas autant que je l’avais espéré.
+[…]
+Q. Donc, simplement pour en revenir à ma question, vous n’alliez pas là‑bas en disant : « C’est une liquidation, c’est une vente de faillite », vous vous êtes rendus là‑bas pour montrer votre dernière innovation et dire : « Nous investissons dans le marché des moyennes entreprises »?
+R. Nous tentons d’intéresser les gens pour qu’ils achètent une partie de notre stock et la seule façon d’acheter ces produits, c’est dans le cadre d’un salon professionnel. Si nous exposons et que nous déclarons : « Nous allons nous retirer des affaires », croyez‑vous que quelqu’un va acheter le produit? Achèteriez‑vous un produit si vous ne pouviez bénéficier d’un service à la clientèle? Non. Vous ne le feriez pas, vous ne dépenseriez pas 6 000 $ pour acheter un bien pour lequel vous ne pourriez jamais bénéficier d’un service à la clientèle.
+[…]
+Q. Maintenant, Norma qui est allée avec vous au salon en janvier 2000 […]
+R. Oui.
+Q. […] à cette époque, avait‑on déjà commencé à parler, vous savez, de trouver un acheteur pour l’entreprise ou pour le matériel ou pour le nom commercial ou pour le stock?
+R. Je ne, je ne laissais pas vraiment les gens savoir ce que je pensais, il s’agissait en réalité, vous savez, nous allions bientôt cesser nos activités. Ce n’était qu’une question […]
+Q. Donc, même Norma, vous n’avez pas […]
+R. Elle aurait quitté et aurait trouvé du travail ailleurs. Donc, que devais‑je faire? Je ne pouvais pas assembler les boîtiers.
+Q. Donc, en d’autres termes, vous nous dites qu’elle contribuait réellement à liquider la société, mais que, si on lui avait posé la question, elle aurait répondu non?
+R. C’est exact.
+Q. Elle aurait dit, non, l’entreprise est exploitée et en activité […]
+R. Eh bien, en ce qui la concernait […]
+Q. […] et nous allons à la DEMA pour vendre ses produits?
+R. Elle ne connaissait pas la situation financière de la société.
+[…]
+Q. Entendu. Et pendant combien de temps Norma a‑t‑elle vendu des caméras pour Aqua Vision après le salon auquel elle a participé avec vous en janvier 2000?
+R. Jusqu’au moment où je lui ai dit que nous ne pouvions continuer.
+Q. Entendu. Et quand lui avez‑vous dit cela?
+R. C’était, je suppose, en, en réalité, je lui ai dit que j’envisageais de trouver un acheteur pour certains éléments d’actif et elle m’a alors répondu qu’elle était intéressée à les acheter.
+Q. Entendu. Et quand […]
+R. Et si je ne les achetais pas, elle, elle ferait beaucoup de bruit.
+Q. Voulant dire par là qu’elle souhaitait continuer d’exploiter l’entreprise elle‑même?
+R. C’est exact.
+Q. Quand lui avez‑vous dit cela? Que vous envisagiez de vendre les éléments d’actif?
+R. Octobre, je crois, octobre, novembre, quelque chose comme cela.
+Q. 2000?
+R. Oui, j’oublie, juste avant que nous recevions son offre qui est […]
+Q. Entendu. Quand avez‑vous reçu cette offre de sa part?
+R. Je ne me souviens pas de la date, je crois que c’était […]
+Q. Approximativement?
+R. Novembre, je ne suis pas certain de la date.
+[31] L’actif de la société a été vendu en janvier 2001, comme il est mentionné dans une lettre signée par M. Hopmeyer et datée du 24 avril 2001 (pièce A‑15) qui est adressée aux syndics chargés de la proposition. Dans ce document, on affirme que la société a cessé ses activités le 20 décembre 2000. Voici le texte de cette lettre :
+[TRADUCTION]
+Cécile Bérubé
+Richter et associés
+2, Place Alexis Nihon
+Bureau 2200
+Montréal (Québec)
+H3Z 3C2
+Madame,
+Nous souhaitons vous informer qu’en date du 20 décembre 2000, la société avait mis fin à ces activités et que nous tentions de vendre les éléments d’actif.
+Le 20 janvier 2001, nous avons accepté une offre de Norma Alonzo visant les actifs d’exploitation de la société, sous réserve de l’approbation de la Banque Nationale du Canada, le créancier garanti de premier rang. Par la suite, la banque a approuvé la vente et pris les mesures nécessaires pour vendre le reste des immobilisations de la société.
+Par conséquent, la société ne peut respecter les engagements qu’elle a pris dans le cadre de la proposition présentée à ses créanciers, laquelle a été approuvée par la Cour le 1er juillet 1999.
+Auriez-vous l’obligeance de bien vouloir me confirmer par écrit qu’en raison de son incapacité à tenir ses engagements aux termes de la proposition, la société est réputée avoir été en faillite au moment où elle a demandé la protection de ses créanciers sous le régime de la Loi sur la faillite et l’insolvabilité du Canada, soit le 27 janvier 1999.
+[32] Dans une lettre envoyée par l’avocat de l’appelante à l’Agence (pièce A-4), il est mentionné qu’une prolongation de la proposition a été obtenue en août 2000, que la société a cessé ses activités en décembre 2000 et qu’en février 2001, avec le consentement du syndic, le créancier garanti a disposé de tous les éléments d’actif non réalisés de la société.
+[33] Selon les états financiers d’AVSI (pièce R‑4), le volume des ventes se chiffrait à 704 713 $ en 1998 et à 450 055 $ en 1999. Les états financiers produits avec la déclaration de revenu d’AVSI pour l’année d’imposition se terminant le 31 octobre 2000 montrent que le volume des ventes pour l’année 2000 s’élève à 541 746 $.
+[34] L’avocat de l’intimée a attiré l’attention de M. Hopmeyer sur des propos qu’il a échangés par télécopieur avec un certain M. Serge Alary en 2002 (pièce R‑6). Le message de M. Alary est ainsi libellé :
+[TRADUCTION]
+[…]
+Objet : Lettre de confirmation de la cessation des activités
+Bonjour Stan. Comme je le mentionnais au téléphone, la société devait être en exploitation en 2001 pour être admissible à une PDTPE (perte déductible au titre d’un placement d’entreprise) aux yeux des actionnaires de Speq. Voilà pourquoi nous avons besoin d’une confirmation de votre part avant d’envoyer la lettre aux actionnaires relativement à cette déduction. Prière de me téléphoner si cela vous pose un problème.
+[35] En sa qualité de président d’AVSI, M. Hopmeyer a répondu ce qui suit :
+OBJET : Aqua‑Vision Systems inc. / cessation des opérations
+À qui de droit,
+La présente est pour confirmer que la société Aqua‑Vision Systems inc. a cessé définitivement ses opérations en février 2001.
+Débat
+[36] L’avocat de l’appelante a examiné les faits. Il a signalé qu’à un moment, en 1998, il est devenu évident pour M. Hopmeyer et les autres administrateurs de la société que les perspectives d’avenir de cette dernière n’étaient pas aussi reluisantes que l’année précédente, au moment de la conclusion de l’entente avec Nikon. En vue de protéger la société de ses créanciers, un avis d’intention de faire une proposition aux créanciers a été déposé en janvier 1999. La proposition a suivi, laquelle a été approuvée en avril 1999. La banque a donné son consentement à la condition que soit nommé un surveillant, M. Rodrigue. Elle a accepté que certaines dépenses soient engagées, mais l’avocat a soutenu que cette mesure visait davantage à permettre le remboursement des prêts bancaires que la poursuite de l’exploitation de l’entreprise.
+[37] L’avocat a avancé que la notion d’« exploitation d’entreprise » signifie l’« exploitation d’une entreprise en vue de réaliser un bénéfice ».
+[38] L’avocat a invoqué l’arrêt Stewart c. Canada, [2002] 2 R.C.S. 645, de la Cour suprême du Canada, et en particulier le paragraphe 38 de cette décision :
+En fait, assimiler le terme « entreprise » à l’expression « expectative raisonnable de profit » n’est pas conforme à la définition traditionnelle du mot « entreprise », qui est donnée en common law, à savoir : [traduction] « tout ce qui occupe le temps, l’attention et les efforts d’un homme et qui a pour objet la réalisation d’un profit est une entreprise » (Smith c. Anderson (1880), 15 Ch. D. 247 (C.A.), p. 258; Terminal Dock and Warehouse Co. c. M.R.N., [1968] 2 R.C. de l’É. 78, conf. par 68 D.T.C. 5316 (C.S.C.)). […]
+[39] L’avocat a affirmé qu’il n’avait pas fait valoir qu’aucune activité n’avait été poursuivie après 1999. Cependant, les activités n’avaient plus pour objet la réalisation d’un bénéfice, mais le remboursement des prêts bancaires. La banque, et non M. Hopmeyer, assumait le contrôle financier. Il ne s’agissait plus d’une entreprise au sens de la définition traditionnelle donnée en common law et énoncée par la Cour suprême du Canada dans l’arrêt Stewart. Le temps et les efforts consacrés par la société à ses activités visaient non pas à réaliser un bénéfice, mais à rembourser les prêts bancaires. Pour l’application de l’article 50 de la Loi, le niveau d’activité de la société en l’espèce n’a pas atteint le niveau de l’exploitation d’une entreprise, contrairement à ce que prévoit cette disposition.
+[40] Dans la Loi, les termes « exploiter une entreprise » visent l’exploitation d’une entreprise en vue de réaliser un bénéfice ou de tirer un revenu ou un quelconque avantage. Il ne s’agit pas simplement de mesures prises pour liquider les stocks lorsque l’entreprise échoue.
+[41] À cet égard, l’avocat a renvoyé aux paragraphes 25 à 27 de la décision Jacques St‑Onge Inc. v. R., [2004] 1 C.T.C. 2094, et aux extraits suivants de la décision Tantus Estates Ltd. v. M.N.R., 73 DTC 24, aux pages 24 et 25 :
+[TRADUCTION]
+L’appelante a ensuite demandé l’application des dispositions du paragraphe 85E(4), ce que le ministre a refusé pour les raisons suivantes :
+1. L’appelante n’avait pas cessé ses activités puisqu’elle a continué à recouvrer des paiements au titre du prix d’achat jusqu’au mois d’avril 1968, relativement à une partie de ses stocks;
+2. L’appelante a continué ses travaux d’asphaltage et d’installation de bordures sur les terrains restants après sa vente du début de l’été 1967, continuant ainsi à exploiter une entreprise.
+[…]
+Dans la présente affaire, l’appelante a disposé de tous ses stocks en 1967. La vente était conditionnelle à ce que les travaux d’asphaltage et d’installation de bordures dans les rues soient terminés. Le défaut, par l’appelante, de satisfaire aux conditions prévues par la convention d’achat‑vente aurait sans aucun doute donné lieu à des poursuites judiciaires introduites à l’initiative de l’acquéreur. À mon avis, il ne s’agissait donc pas d’exploiter une entreprise d’aménagement de terrain, mais simplement de se conformer aux conditions de vente d’une entreprise.
+[42] L’avocat de l’appelante a allégué que, de même, la seule intention d’AVSI en 2000 était de se conformer aux conditions fixées dans les ententes conclues avec ses créanciers garantis.
+[43] De son côté, l’avocat de l’intimée a soutenu qu’il était loisible à la Cour, lorsqu’elle applique le sous‑alinéa 50(1)b)(iii), de conclure qu’à la fin de 1999, la société était insolvable, au sens où ses dettes excédaient ses éléments d’actif, et qu’à la fin de cette même année, la juste valeur marchande des actions détenues par Mme Hopmeyer était nulle. L’avocat de l’intimée a avancé que le point en litige en l’espèce touchait l’exigence suivante, qui est expressément prévue par la division 50(1)(b)(iii)(B) de la Loi : ni la société ni une société qu’elle contrôle n’exploite d’entreprise. L’avocat a mentionné les faits mis en preuve dans la présente affaire : la présence au salon professionnel au début de l’année 2000, le nombre d’employés permanents et temporaires conservés pendant toute l’année 2000, le fait qu’AVSI exploitait une entreprise de façon habituelle quant à ses clients et à ses employés et le fait que les mêmes locaux avaient été conservés. Il a par la suite affirmé qu’il ressortait de tout ce qui précède que la société exploitait une entreprise. Ses relations avec la banque étaient tendues, difficiles, mais cela ne signifie pas qu’aucune entreprise n’était exploitée, même si la société devait subir une surveillance étroite de la part de la banque.
+[44] L’avocat de l’intimée a conclu en soulevant des questions quant à la crédibilité du président d’AVSI, M. Hopmeyer. C’est dans le cadre du présent appel que M. Hopmeyer a déclaré pour la première fois que la société n’exploitait pas d’entreprise. L’avocat a renvoyé à la pièce R‑6, laquelle montre qu’en réponse à la demande de M. Alary, M. Hopmeyer avait écrit que la société était en exploitation jusqu’en février 2001.
+Analyse et conclusion
+[45] Je conviens avec l’avocat de l’appelante qu’une personne exploite une entreprise si elle a pour objet de réaliser un bénéfice. Voir l’arrêt Stewart c. Canada, [2002] 2 R.C.S. 645, paragraphes 48 et suivants.
+[46] Dans la récente décision Geddes Contracting Co. c. Canada, [2005] A.C.I. no 6 (QL) (confirmée par [2006] A.C.F. no 162 (QL)), laquelle intéresse une personne qui cherchait à générer une perte, le juge Bowie a déclaré au paragraphe 14 : « […] Il est tout à fait clair à la lecture de l’arrêt de la Cour suprême dans l’affaire Stewart que la recherche d’un profit est un élément essentiel d’une activité commerciale […] ».
+[47] L’avocat de l’appelante a fait valoir qu’à partir de la fin de 1999, les actes de la société avaient essentiellement pour objet de payer ses emprunts bancaires. Il laisse entendre qu’en raison de cette situation, la société n’exploitait plus d’entreprise en vue de réaliser un bénéfice.
+[48] À ma connaissance, aucune décision judiciaire ne permet d’affirmer que le fait d’avoir pour objectif le paiement de dettes peut avoir pour effet de modifier l’objectif de réalisation d’un bénéfice visé par une personne.
+[49] Une société peut avoir comme objectif important de rembourser ses dettes, mais cela ne peut signifier qu’elle ne cherche plus à réaliser un bénéfice. Il me semble qu’il serait contraire aux habitudes normales du commerce de tirer une telle conclusion.
+[50] Je ne crois pas non plus, à la lumière de la preuve, que M. Hopmeyer avait perdu le contrôle d’AVSI et que ce contrôle était exercé par la banque, même si celle-ci devait approuver les décisions relatives aux dépenses. La banque ne donnait pas de directives à M. Hopmeyer quant à ce qui devait être fait. C’est encore lui qui prenait les décisions et il en est allé ainsi jusqu’à la décision touchant la vente des éléments d’actif de la société (paragraphe 31 des présents motifs).
+[51] Quoi qu’il en soit, j’estime que le facteur du contrôle d’une société ne permet pas de trancher la question de savoir si cette société exploite une entreprise en vue de réaliser un bénéfice. Le facteur déterminant à cet égard tient à la conduite de la société. Comment fonctionne‑t‑elle? Liquide‑t‑elle ses éléments d’actif, comme il est mentionné dans l’avis d’appel modifié? A‑t‑elle pour seul objet de générer une perte? Demeure-t‑elle tenace dans une situation financière difficile?
+[52] En l’espèce, il s’agit d’une société qui exploitait une entreprise depuis un certain nombre d’années. Sa conduite a‑t‑elle changé? Pour trancher ce point, nous devons examiner les faits touchant l’année 2000.
+[53] Tous les faits pertinents ont déjà été exposés par l’avocat de l’intimée. Les voici à nouveau : déplacement et présence au salon professionnel, service à la clientèle assuré de façon habituelle, employés travaillant comme d’habitude, commandes enregistrées et remplies, recouvrement des comptes débiteurs, rémunération des employés, retenues salariales effectuées et versées. Au 26 octobre 2000, il y avait cinq employés permanents (paragraphes 12 et 13 des présents motifs). La société continuait d’élaborer, de fabriquer et de vendre du matériel spécialisé. Des dépenses de RS&DE ont été déduites en 2000.
+[54] J’ajoute à cela que la proposition visait expressément à offrir à AVSI l’occasion de se rétablir (paragraphe 22 des présents motifs) et que les états financiers pour l’année 2000 montrent un volume de ventes qui est même plus élevé que celui de 1999 (paragraphe 33 des présents motifs).
+[55] Il ressort sans équivoque de ces faits que la société n’était pas en voie d’être liquidée en 2000, contrairement à ce que l’avis d’appel modifié laisse entendre. Elle n’avait pas cessé d’exploiter une entreprise, même si celle‑ci peut avoir été exploitée d’une manière artificielle en raison des exigences de la banque.
+[56] Pour conclure, la preuve révèle qu’AVSI exploitait une entreprise au cours de l’année 2000.
+[57] L’appel doit donc être rejeté, avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 30e jour de mars 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 25e jour d’avril 2008.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2006CCI185
+NO DU DOSSIER DE LA COUR : 2002-2842(IT)G
+INTITULÉ DE LA CAUSE : ESTELLE HOPMEYER
+c.
+LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : Les 2 et 3 novembre 2005
+MOTIFS DU JUGEMENT : L’honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : Le 30 mars 2006
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Aaron Rodgers
+Avocat de l’intimée :
+Me Bernard Fontaine
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Aaron Rodgers
+Cabinet : Spiegel Sohmer
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

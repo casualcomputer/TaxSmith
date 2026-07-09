@@ -1,0 +1,344 @@
+---
+title: "Desbiens c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26068/index.do"
+last_modified: "2004-08-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 557"
+citation2: ""
+neutral_citation: "2004 CCI 557"
+decision_date: "2004-08-18"
+language: "fr"
+item_id: "26068"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4077
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:08:24.604000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4c05fd75355d7ac265626bbc56f4228f41d785eaf6994aba519303ac1875fea1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Desbiens c. M.R.N.
+
+- Citation: 2004 CCI 557
+- Decision date: 2004-08-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4077, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desbiens c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-08-18
+Référence neutre
+2004 CCI 557
+Numéro de dossier
+2003-4666(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2003-4666(EI)
+2003-4667(EI)
+ENTRE :
+RICHARD DESBIENS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Jacky Desbiens (2003-4669(EI) et 2003-4670(EI)),
+le 21 juillet 2004, à Chicoutimi (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me Pierre Parent
+Avocate de l'intimé :
+Me Nancy Dagenais
+_______________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi sont rejetés, et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour d'août 2004.
+« Alain Tardif »
+Juge Tardif
+Dossiers : 2003-4669(EI)
+2003-4670(EI)
+ENTRE :
+JACKY DESBIENS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Richard Desbiens (2003-4666(EI) et (2003-4667(EI)),
+le 20 juillet 2004, à Chicoutimi (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me Pierre Parent
+Avocate de l'intimé :
+Me Nancy Dagenais
+_______________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi sont rejetés, et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour d'août 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI557
+Date : 20040818
+Dossiers : 2003-4666(EI)
+2003-4667(EI)
+ENTRE :
+RICHARD DESBIENS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET ENTRE :
+Dossiers : 2003-4669(EI)
+2003-4670(EI)
+JACKY DESBIENS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de quatre appels distincts qui concernent les appelants dans une proportion de deux dossiers chacun. Chaque appel porte sur plusieurs périodes. Les appels concernent les périodes et les payeuses suivantes :
+Les appelants
+et les numéros de dossiers
+La payeuse
+et les périodes en question
+Richard Desbiens (2003-4666(EI))
+Jacky Desbiens (2003-4669(EI))
+(suite)
+Ambois Inc.
+du 19 juillet au 22 octobre 1999,
+du 10 juillet au 10 novembre 2000
+et du 5 novembre au 23 novembre 2001
+Les appelants
+et les numéros de dossiers
+La payeuse
+et les périodes en question
+Richard Desbiens (2003-4667(EI))
+Jacky Desbiens (2003-4670(EI)
+Les entreprises forestières F.G. Inc.
+du 30 novembre au 18 décembre 1998,
+du 31 mai au 16 juillet 1999,
+du 1er au 19 novembre 1999,
+du 29 mai au 7 juillet 2000,
+du 13 novembre au 8 décembre 2000,
+du 11 juin au 21 septembre 2001,
+du 29 octobre au 2 novembre 2001,
+du 3 juin au 13 septembre 2002
+et du 14 octobre au 20 décembre 2002.
+[2] Les parties ont accepté d'entreprendre les débats au moyen d'une seule et même preuve pour les quatre dossiers.
+[3] Les présomptions de fait sur lesquelles sont fondées les déterminations dont il est fait appel étant sensiblement les mêmes pour les quatre dossiers, l'avocat des appelants a fait certaines admissions à partir des faits allégués au dossier Jacky Desbiens (2003-4669(EI)); il s'agit des admissions suivantes :
+a) le payeur exploitait une entreprise de coupes forestières;
+b) durant les périodes en litige, le payeur a embauché l'appelant pour bûcher sur les terres du payeur;
+d) l'appelant travaillait en équipe avec Richard Desbiens;
+e) les tâches de l'appelant consistaient soit à conduire la débusqueuse, soit à faire l'abatage des arbres;
+g) il n'y avait pas de contrat écrit signé entre l'appelant et le payeur;
+h) les tâches de l'appelant consistaient à bûcher et à transporter le bois;
+i) le payeur n'imposait pas de quota de bois à couper à l'appelant;
+j) le payeur n'imposait pas d'horaire de travail à l'appelant;
+k) le payeur rémunérait l'appelant selon la quantité de bois coupé et mesuré;
+m) au journal des salaires du payeur, pour la période du 19 juillet au 22 octobre 1999, l'appelant était inscrit pour une rémunération de 812 $ pour les 8 premières semaines et de 754 $ pour les 4 dernières semaines, pour la période du 10 juillet au 10 novembre 2000, l'appelant était inscrit pour 754 $ par semaine et pour la période du 5 au 23 novembre 2001, l'appelant était inscrit pour 780,16 $ par semaine;
+o) l'appelant était rémunéré par dépôt direct;
+p) la totalité des sommes versées à l'appelant devait correspondre à la quantité de bois coupé par l'appelant et mesuré;
+q) suite au dernier mesurage, le payeur versait à l'appelant un paiement final;
+s) l'appelant était responsable de l'entretien et des réparations de sa débusqueuse;
+u) l'appelant devait prendre, à ses frais, des assurances adéquates pour la machinerie;
+v) l'appelant et Richard Desbiens fournissaient un pick-up et différents outils;
+w) l'appelant et Richard Desbiens assumaient les coûts de l'essence de la débusqueuse et du pick-up;
+x) l'appelant fournissait sa scie mécanique;
+y) l'appelant devait assumer les coûts et de l'entretien de sa scie mécanique;
+z) le 2 novembre 1999, le payeur émettait un relevé d'emploi à l'appelant, pour la période débutant le 19 juillet 1999 et se terminant le 22 octobre 1999, et qui indiquait 540 heures assurables et une rémunération assurable totale de 10 454,72 $;
+aa) le 23 novembre 2000, le payeur émettait un relevé d'emploi à l'appelant, pour la période débutant le 10 juillet 2000 et se terminant le 10 novembre 2000, et qui indiquait 810 heures assurables et une rémunération assurable totale de 13 572,00 $;
+bb) le 5 décembre 2001, le payeur émettait un relevé d'emploi à l'appelant, pour la période débutant le 5 novembre 2001 et se terminant le 23 novembre 2001, et qui indiquait 135 heures assurables et une rémunération assurable totale de 2 340,48 $;
+[4] Le contenu des alinéas suivants fut nié.
+c) depuis 12 ans, l'appelant et son père RIchard Desbiens étaient copropriétaires d'une débusqueuse « Timber Jack » d'une valeur de 33 000 $;
+f) l'appelant et Richard Desbiens n'acceptaient pas qu'une autre personne conduise la machinerie;
+l) l'appelant recevait des avances sous forme d'un prétendu salaire-homme et d'un prétendu salaire-machine;
+n) le prétendu salaire-machine équivalait à 80 % du prétendu salaire-homme;
+r) le payeur soustrayait des sommes dues à l'appelant, les prétendus salaires-homme et salaires-machine versés à l'appelant incluant les cotisations patronales et ouvrières;
+t) en cas de bris de la débusqueuse, le payeur n'attribuait pas d'autres tâches à l'appelant;
+cc) l'appelant et Richard Desbiens exploitaient leur propre entreprise.
+[5] La Cour canadienne de l'impôt et la Cour d'appel fédérale ont rendu plusieurs jugements dans des dossiers regroupant des faits similaires. Dans la majorité des dossiers, elles ont conclu qu'il s'agissait de contrats d'entreprise.
+[6] Les avocats des parties avaient une très bonne connaissance des jugements en question. La preuve a donc été présentée d'une manière très ciblée.
+[7] L'avocat des appelants avait minutieusement préparé ses dossiers et surtout n'avait strictement rien négligé pour que les appelants puissent se décharger du fardeau de la preuve qui leur incombait. À cet effet, il a fait témoigner toutes les personnes pouvant apporter un éclairage sur ce qui avait trait au travail des appelants.
+[8] Il a particulièrement insisté sur un certain nombre d'éléments et de faits dans le but de démontrer que les dossiers des appelants étaient très différents de la plupart de ceux où les tribunaux s'étaient prononcés et d'une manière toute particulière de celui de la Cour d'appel fédérale dans l'affaire Tremblay c. Canada (Ministre du Revenu national - M.R.N.), [2004] A.C.F. no 802, (Q.L.). Il a donc fait ressortir certains aspects de l'affaire qui, selon lui, justifient une conclusion favorable aux appelants.
+[9] Outre les appelants, messieurs Armand Gagnon, Jeannot Simard et Marc Gilbert ont témoigné.
+[10] Dans un premier temps, il a été établi que les deux compagnies payeuses avaient sensiblement la même vocation. La compagnie Ambois Inc. regroupait trois actionnaires, soit messieurs Armand Gagnon, Jeannot Simard et Marc Gilbert. Pour ce qui est de la compagnie Les entreprises forestières F.G. Inc., elle comptait un seul actionnaire, soit monsieur Armand Gagnon.
+[11] Cette dernière compagnie, contrairement à la compagnie Ambois Inc., possédait de l'équipement et de la machinerie, notamment des camions, une pelle mécanique, une ébrancheuse, une tronçonneuse, une débusqueuse et un tracteur.
+[12] Les deux compagnies possédaient plusieurs terres à bois et avaient des droits de coupe sur divers terrains. En outre, elles exécutaient régulièrement des travaux dans le cadre de plans d'aménagement.
+[13] Souvent, il s'agissait de surfaces enclavées, par des bornes, cours d'eau, lacs, etc. Il a été également indiqué que les règlements applicables étaient nombreux et pouvaient varier d'un endroit à l'autre et d'un chantier à l'autre.
+[14] Âgé de 73 ans, monsieur Armand Gagnon, propriétaire de la totalité des actions de la compagnie Les entreprises forestières F.G. Inc. et du tiers de la compagnie Ambois Inc., était un passionné de la forêt.
+[15] Ayant travaillé toute sa vie en forêt à divers titres, surtout comme contremaître, la coupe du bois n'avait aucun secret pour lui. Son co-actionnaire, monsieur Gilbert, a même affirmé qu'il passait ses journées complètes en forêt et qu'il en serait probablement ainsi jusqu'au jour où il ne serait plus en mesure de marcher.
+[16] Monsieur Gagnon était donc toujours présent sur l'un de ses chantiers, notamment sur ceux où les appelants exécutaient leur travail. Comme les appelants n'étaient pas les seuls à effectuer des travaux forestiers pour l'une ou l'autre des sociétés, il arrivait que monsieur Gagnon se rende sur d'autres chantiers que ceux où oeuvraient les appelants.
+[17] Messieurs Simard et Gilbert prenaient, à l'occasion, la relève si bien que, de façon générale, des représentants des compagnies payeuses, soit Ambois Inc., soit Les entreprises forestières F.G. Inc., étaient présents sur les lieux où les appelants exécutaient leur travail.
+[18] S'appuyant sur cette présence d'un représentant de l'une ou l'autre des compagnies payeuses sur les lieux de travail, les appelants ont soutenu que leur travail avait, en tout temps, fait l'objet d'un contrôle continu, serré et très important. Pour établir l'existence du pouvoir de contrôle et du contrôle de facto à l'égard du travail exécuté, les appelants ont insisté sur les points suivants :
+· présence pratiquement continue des représentants de l'un ou l'autre des payeuses qui voyaient à ce que le travail soit bien exécuté conformément aux attentes en termes de quantité et de qualité, et ce, dans le respect de tous les règlements applicables;
+· surveillance constante pour que le travail de coupe soit exécuté aux bons endroits;
+· nombreux endroits et arbres rubanés, pour s'assurer de la protection de certains arbres et du respect de certains emplacements, pour maintenir une certaine distance par rapport aux cours d'eau, aux escarpements, aux sols humides, aux lieux dangereux et autres;
+· préoccupation constante des représentants sur place que le travail soit effectué convenablement;
+· supervision effectuée dans le but de s'assurer que le bois soit bien placé pour faciliter les opérations ultérieures.
+[19] Les appelants étaient rémunérés suivant une pratique courante en cette matière: ils recevaient en général une rémunération hebdomadaire, basée sur une évaluation approximative du bois coupé.
+[20] Quant à la débusqueuse, dont les appelants étaient co-propriétaires, ils recevaient, à titre de frais de location, 80 % du montant obtenu pour leur travail. Les frais de location établis à 80 % couvraient toutes dépenses requises pour l'entretien, l'usage et la réparation de la débusqueuse et autres déboursés, telles les primes pour une police d'assurance responsabilité.
+[21] Le contrat de location de la débusqueuse était verbal. Par conséquent, aucun écrit ne faisait état du droit et des obligations des locateurs et des locataires.
+[22] La rémunération, contrairement à certains dossiers dans ce genre d'activités économiques, n'était pas liée au prix éventuellement obtenu lors de la vente du bois pour le sciage ou la pulpe; elle était plutôt établie au moyen d'une première évaluation déterminée généralement par l'un des actionnaires des sociétés payeuses. La valeur précise du travail était confirmée par un mesureur dûment qualifié et accrédité pour ce genre de travail. L'évaluation était établie à partir d'un tableau préparé par l'industrie où les tarifs payés étaient fonction du diamètre du pied de l'arbre coupé.
+[23] Effectivement, à cet égard, le dossier des appelants était particulier, en ce que la rémunération qui était payable tant à eux que pour la machine, n'était pas fixée en fonction de la vente du bois à la fin du processus, mais essentiellement en fonction de l'opération de mesurage sur place faite par le mesureur qualifié des payeuses.
+[24] Les payeuses ayant une expérience tout à fait exceptionnelle dans le domaine de la foresterie et les parties ayant convenu que la rémunération était comptabilisée à partir d'un tableau reconnu dans ce domaine, il y avait très peu de variables entre la rémunération estimée et la rémunération réelle finale à laquelle ils avaient droit après l'évaluation par le mesureur officiel.
+[25] Le tableau indiquait le prix suivant la dimension du diamètre des arbres coupés; le prix était donc établi en fonction de la grosseur du tronc des arbres. Plus les arbres avaient un diamètre important à leur base, plus le montant payé pour la coupe était élevé et ce, peu importe la longueur.
+[26] Cette façon de faire pour établir la valeur des services rendus tant par les appelants que par la débusqueuse dont ils étaient co-propriétaires permettait aux payeuses des appelants de déterminer le prix à payer d'une manière relativement précise. Le bois coupé par les appelants était ultérieurement vendu à des tiers pour la pâte ou pour le sciage. Le montant alors obtenu n'avait aucun effet ou incidence sur les sommes déjà payées aux appelants.
+[27] La débusqueuse dont les appelants étaient co-propriétaires avait été payée 24 000 $; pendant les périodes en question, elle avait une valeur se situant entre 15 000 $ et 20 000 $.
+[28] Tous les frais d'utilisation, tels l'huile, l'essence, les frais d'entretien et de réparation, étaient à la charge exclusive des appelants. Les compagnies payeuses n'assumaient aucune dépense inhérente à l'utilisation et à la réparation de la débusqueuse.
+[29] D'ailleurs, de part et d'autre, il a été reconnu que les payeuses n'auraient jamais retenu les services des appelants n'eut été du fait qu'ils possédaient une débusqueuse. En d'autres termes, il n'y aurait pas eu de relations contractuelles entre les payeuses et les appelants si ces derniers n'avaient pas possédé une débusqueuse. L'entente dont bénéficiaient les appelants était identique à celles des autres équipes effectuant le même travail pour les compagnies payeuses, au nombre de trois ou quatre, dépendamment des années, périodes et chantiers.
+[30] Pour toutes les périodes en question, les appelants ont travaillé exclusivement pour l'une ou l'autre des compagnies payeuses, soit Ambois Inc. ou Les entreprises forestières F.G. Inc.; ils n'ont jamais fait de travaux semblables pour d'autres propriétaires de boisés ou de droits de coupe durant, avant ou après les périodes en question. En fait, les appelants ont effectué ce travail de façon continue et répétitive, année après année, durant une période de plus de 15 ans, soit pendant une période plus longue que les périodes en question.
+[31] Pour les compagnies payeuses, les appelants étaient des professionnels et de véritables experts dans leur domaine. Ils bénéficiaient en outre d'une certaine priorité pour l'exécution des travaux.
+[32] Chaque année, les payeuses s'organisaient pour fournir du travail aux appelants. Ils ont fait cela d'une façon non-interrompue pour une période de plus de 15 ans. À une question relative à la qualité du travail et à la productivité d'autres équipes, la réponse fut que les services de travailleurs incompétents ou peu ou pas productifs n'étaient tout simplement pas retenus.
+[33] À plusieurs reprises, les représentants des compagnies payeuses ont affirmé que la façon de faire le travail, la façon de procéder était « la norme » , la pratique courante.
+[34] Les appelants étaient tous deux qualifiés pour conduire la machine; ils s'entendaient entre eux pour décider qui des deux la conduirait. La question de savoir si les sociétés payeuses auraient pu en confier la conduite de la débusqueuse à d'autres personnes que les appelants est restée sans réponse. Bien qu'il ne faille pas spéculer à partir de cette question, il est probable que les appelants n'auraient pas accepté que les sociétés payeuses confie la conduite de la débusqueuse à des tiers sans aucun droit de regard de leur part.
+[35] Les appelants ont fait ressortir certains éléments particuliers, à savoir qu'ils n'avaient pas travaillé au fil des ans pour d'autres entreprises que celles des payeuses. Dans les faits, ils ont travaillé, année après année, pendant de nombreuses années pour les payeuses et ont obtenu une sorte d'assurance de pouvoir poursuivre. En d'autres termes, une relation de confiance très forte s'était construite au fil des ans entre les appelants et les sociétés payeuses.
+[36] Bien que les modalités de la rémunération des appelants aient été différentes de celles que l'on trouve dans certains autres dossiers dans le même genre d'activités économiques, les appelants étaient rémunérés en fonction de leur productivité et ce, comme les autres appelants dans tous les dossiers semblables. Il s'agissait d'un calcul établi à partir d'un tableau connu par les parties dont les taux variaient en fonction du diamètre du pied de l'arbre.
+[37] Contrairement à la situation que l'on trouve dans la plupart des dossiers de ce genre, les payeuses étaient présentes sur les lieux où était exécuté le travail.
+[38] La preuve a également fait ressortir que, dans certains cas, il pouvait s'agir d'effectuer la coupe d'arbres de surface de petites dimensions situés à des endroits particuliers, à savoir près des municipalités, des cours d'eau, de voisins aux aguets quant au respect de leur droit de propriété et de l'environnement, d'où la possibilité d'obtenir des montants supplémentaires ou compensatoires pour tenir compte des particularités.
+[39] Tous ces éléments particuliers mis en relief sont-ils suffisants et surtout déterminants pour conclure que le travail exécuté par les appelants pendant les périodes en question était exercé en vertu de contrats de louage de services?
+[40] Certes, les aspects particuliers des dossiers des appelants doivent être pris en compte tout en gardant cependant à l'esprit les grands principes dégagés par les nombreuses décisions de la Cour d'appel fédérale en cette matière. Je fais notamment référence aux décisions et extraits suivants :
+· Charbonneau c. Canada (ministre du Revenu national - M.R.N.), [1996] A.C.F. no 1337, (Q.L.), par. 4.
+4 Par ailleurs, s'il est certain que l'appréciation de la nature juridique de relations contractuelles soit affaire d'espèce, il n'en reste pas moins qu'à espèces sensiblement semblables en fait devraient correspondre en droit des jugements sensiblement semblables. Aussi, lorsque cette Cour s'est déjà prononcée sur la nature d'un certain type de contrat, point n'est besoin par la suite de refaire l'exercice dans son entier: à moins que n'apparaissent dans les faits des différences vraiment significatives, le Ministre, puis la Cour canadienne de l'impôt ne devraient pas s'écarter de la solution retenue par cette Cour.
+· Jaillet c. Canada (Ministre du Revenu national - M.R.N.), [2002] A.C.F. no 1454, (Q.L.), par. 2 :
+2 [...] dans l'arrêt Charboneau c. M.R.N. [1996] A.C.F. no. 1337, à savoir que le contrôle des résultats ne doit pas être confondu avec le contrôle du travailleur.
+· Tremblay c. Canada (Ministre du Revenu national - M.R.N.), [2004] A.C.F. no 802, (Q.L.), paragraphes 20, 22, 27, 37, 39 et 40 :
+20 Or, la plupart des clauses du contrat de location, qu'il s'agisse de l'entretien de l'équipement, des pertes de revenus résultant de son non-usage ou de retards, des pertes ou des dommages à l'équipement, des dépenses quotidiennes d'utilisation et d'opération de l'équipement, révèlent que c'est le locateur et non le locataire qui demeure en contrôle de l'équipement pendant la durée du contrat et qui assument tous les risques. N'est-ce pas là plutôt le propre d'un contrat d'entreprise où, moyennant un prix convenu, l'entrepreneur fournit, à ses frais, son travail et les outils nécessaires à la réalisation des travaux?
+22 Avec respect, je crois que ce contrat écrit que l'on dit de location et que l'on dit doublé d'un contrat verbal d'embauche est, en fait, un contrat d'entreprise où le propriétaire d'une machinerie lourde exécute, moyennant rémunération au volume, un travail qui lui est demandé, fournit son expertise et l'équipement nécessaire à la réalisation des travaux, avec risques de pertes et chances de profits, tel qu'il appert du contrat écrit. Conséquemment, l'emploi exercé par M. Denis Simard pour la période couverte par ce contrat, soit du 10 mai 1999 au 31 décembre 1999, n'était pas un emploi assurable en vertu de la Loi sur l'assurance-emploi.
+27 Le juge a, de toute évidence, apprécié l'intégration sous l'angle de l'entreprise du Payeur. C'est là une erreur car, comme le disait notre Cour dans Le Livreur Plus Inc., précitée, au paragraphe 38, apprécier l'intégration « sous l'angle de l'entreprise conduit presque toujours inéluctablement à conclure que les activités des travailleurs sont organisées et programmées au service de l'activité principale et dominante de l'entreprise. En d'autres termes, les activités des travailleurs apparaîtrons toujours comme intégrées à l'entreprise » . Il faut donc apprécier, sous l'angle des travailleurs, les services que ces derniers rendent et se demander si ces travailleurs agissent pour leur propre compte.
+37 En somme, lorsque le juge conclut au paragraphe 210 de sa décision que le Payeur « exerçait sur les travailleurs un contrôle adéquat » , il faut comprendre qu'il s'agit d'un contrôle adéquat du respect des normes gouvernementales ainsi que de la qualité et du résultat des travaux. Or, un contrôle de la qualité et du résultat des travaux n'est pas la même chose qu'un contrôle de leur exécution par l'ouvrier chargé de les réaliser : voir Vulcain Alarme Inc., précité, paragraphe 10.
+[...]
+39 Enfin, j'ajouterais sur la notion de contrôle que les défendeurs étaient propriétaires de leurs machineries lourdes et qu'ils en étaient les seuls opérateurs : voir les témoignages, par exemple de M. B. Simard et D. Simard aux pages 305, 316, 325 et 329 du Dossier du demandeur, vol. I. Le Payeur n'avait aucun contrôle sur le choix de l'opérateur des machineries appartenant aux défendeurs. Tout au plus possédait-il un droit de regard ou de veto sur le choix d'un remplaçant si un défendeur voulait s'absenter. Ce droit s'explique puisque le Payeur, qui s'était engagé auprès du ministère à respecter les conditions prescrites par ce dernier, était intéressé à honorer ses engagements et à toucher les subventions. Il s'explique aussi du fait qu'en matière d'arrosage, l'opérateur devait posséder des cartes particulières de compétence obtenues suite à un cours sur les phytocides : id., aux pages 238 et 239.
+40 En somme, malgré que l'on disait que les machineries lourdes avaient été louées par le Payeur, la preuve révèle que ce sont les défendeurs qui les opéraient à titre exclusif et d'une façon autonome, sans ce contrôle qui caractérise un contrat de travail et engendre le lien de subordination nécessaire au statut d'employé.
+· Canada (Procureur général) c. Rousselle (C.A.F.), [1990] A.C.F. no 990, (Q.L.), pp. 8 à 10 :
+[...]
+À mon avis, il est évident que le juge n'a pas compris le sens du mot contrôle. Ce n'est pas de contrôler un travail que de fixer la valeur de la rémunération ou de définir le but recherché. Le contrat d'entreprise comporte ces éléments aussi bien que le contrat de louage de services. À plus forte raison, le contrôle ne réside pas dans l'acte de paiement que ce soit par chèque ou autrement.
+Finalement, le fait de donner des instructions sur la sorte de bois à couper et la vérifier à l'occasion du mesurage, ne crée pas en lui-même un lien de subordination comme celui qui existe entre l'employeur et l'employé.
+[...]
+Il y avait de la preuve au dossier qui permettait au juge de constater qu'il était normal pour un bûcheron de fournir sa propre scie mécanique. Il en n'est pas de même, toutefois pour la débusqueuse, une pièce de machinerie lourde d'une nature radicalement différente de ce qu'on peut normalement demander qu'un ouvrier fournisse dans le contexte d'un contrat de louage de services.
+[...]
+· Elia c. Canada (Ministre du Revenu national - M.R.N.), [1998] A.C.F. no 316, (Q.L.), par. 3
+3 [...] Mais cette affirmation du juge nous paraît, elle aussi, inexacte et fondée sur une erreur de droit puisque le juge n'a pas tenu compte de la règle bien établie selon laquelle les allégations de la réponse à l'avis d'appel, où le Ministre énonce les faits sur lesquels il a fondé sa décision, doivent être tenus pour avérés aussi longtemps que l'appelant n'en a pas prouvé la fausseté
+· 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, (Q.L.), pp. 6, 7, 33, 34, 35, 36, 38, 39, 40 et 41 :
+[...] Aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Il faut toujours déterminer quelle relation globale les parties entretiennent entre elles. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches. Bien que AIM soit désignée dans le contrat comme étant un « entrepreneur indépendant » , cette désignation n'est pas toujours déterminante de la responsabilité du fait d'autrui. Compte tenu de la liste non exhaustive de facteurs énumérés dans la décision Market Investigations et de la relation globale entre les parties, il est évident que AIM était un entrepreneur indépendant.
+33 [...] Elle diffère de la relation employeur-entrepreneur indépendant qui, sous réserve de certaines exceptions limitées (voir Atiyah, op. cit., p. 327-378), ne donne généralement pas ouverture à une action en responsabilité du fait d'autrui. [...]
+34 Quelle différence y a-t-il entre un employé et un entrepreneur indépendant, et pourquoi la responsabilité du fait d'autrui est-elle plus susceptible d'être imputée dans le premier cas? Cette question a été largement débattue. C'est dans le contrôle exercé par l'employeur sur l'auteur même du délit (le travailleur) que réside la réponse. Si l'employeur ne contrôle pas les activités du travailleur, les considérations de politique générale justifiant la responsabilité du fait d'autrui ne jouent pas. Voir Flannigan, loc. cit., p. 31-32 :
+[ Je souligne. ]
+[TRADUCTION] [...] Seul le travailleur autorisé à accomplir une tâche peut influer sur la probabilité de perte car c'est lui seul qui exerce un contrôle à cet égard. Ainsi, comme il ne saurait y avoir de méfait en l'absence de contrôle par l'employeur, aucune réparation n'est nécessaire.
+35 [...] La responsabilité du fait d'autrui est équitable en principe parce qu'une entreprise doit assumer elle-même les risques qu'elle entraîne. Il n'est donc pas logique d'imputer à un employeur la responsabilité des actes accomplis par un entrepreneur indépendant qui, par définition, exploite une entreprise pour son propre compte. En outre, l'employeur n'exerce pas sur un entrepreneur indépendant le même contrôle que sur un employé et n'est pas, de ce fait, en mesure de réduire les accidents et les fautes intentionnelles au moyen d'une organisation et d'une supervision efficaces. [...] Le contrôle n'est toutefois pas le seul facteur à considérer pour décider si un travailleur est un employé ou un entrepreneur indépendant. Pour les raisons exposées plus loin, l'application de ce seul facteur risque d'induire en erreur, et il y a lieu de tenir compte d'autres facteurs pour en décider.
+37 [...] « le critère essentiel destiné à caractériser les rapports de commettant à préposé est le droit de donner des ordres et instructions au préposé sur la manière de [page1001] remplir son travail » [...]
+38 [...] Ce critère a le grave inconvénient de paraître assujetti aux termes exacts du contrat définissant les modalités du travail : si le contrat contient des instructions et des stipulations détaillées, comme c'est chose courante dans les contrats passés avec un entrepreneur indépendant, le contrôle ainsi exercé peut être encore plus rigoureux que s'il résultait d'instructions données au cours du travail, comme c'est l'habitude dans les contrats avec un préposé, mais une application littérale du critère pourrait laisser croire qu'en fait, le contrôle exercé est moins strict. En outre, le critère s'est révélé tout à fait inapplicable pour ce qui est des professionnels et des travailleurs hautement qualifiés, qui possèdent des aptitudes bien supérieures à la capacité de leur employeur à les diriger.
+39 [...] dans l'arrêt Montreal c. Montreal Locomotive Works Ltd., [1947] 1 D.L.R. 161 (C.P.), p. 169 :
+TRADUCTION] Dans des jugements antérieurs, on s'appuyait souvent sur un seul critère, comme l'existence ou l'absence de contrôle, pour décider s'il s'agissait d'un rapport de maître à serviteur, la plupart du temps lorsque des questions de responsabilité délictuelle de la part du maître ou du supérieur étaient en cause. Dans les situations plus complexes de l'économie moderne, il faut souvent recourir à des critères plus compliqués. Il a été jugé plus convenable dans certains cas d'appliquer un critère qui comprendrait les quatre éléments suivants : (1) le contrôle; (2) la propriété des instruments de travail; (3) la possibilité de profit; (4) le risque de perte. Le contrôle en lui-même n'est pas toujours concluant.
+40 [...] dans l'arrêt Stevenson Jordan and Harrison, Ltd. c. Macdonald, [1952] 1 The Times L.R. 101 (C.A.), p. 111 :
+[TRADUCTION] Un élément semble se retrouver dans tous les cas : en vertu d'un contrat de louage de services, une personne est employée en tant que partie d'une entreprise et son travail fait partie intégrante de l'entreprise; alors qu'en vertu d'un contrat d'entreprise,son travail, bien qu'il soit fait pour l'entreprise, n'y est pas intégré mais seulement accessoire.
+[ Je souligne. ]
+· Livreur Plus Inc. c. Canada (Ministère du Revenu national - M.R.N.) [2004] A.C.F. no 267, (Q.L.), par. 20 et 38 :
+20 [...] Un sous-entrepreneur n'est pas une personne libre de toute contrainte qui travaille à son gré, selon ses inclinations et sans la moindre préoccupation pour ses collègues co-contractants et les tiers. Ce n'est pas un dilettante à l'attitude cavalière, voire irrespectueuse, capricieuse ou irresponsable. Il oeuvre dans un cadre défini, mais il le fait avec autonomie et à l'extérieur de celui de l'entreprise de l'entrepreneur général. Le contrat de sous-traitance revêt souvent un caractère léonin dicté par les obligations de l'entrepreneur général : il est à prendre ou à laisser. Mais sa nature n'en est pas altérée pour autant. Et l'entrepreneur général ne perd pas son droit de regard sur le résultat et la qualité des travaux puisqu'il en assume la seule et entière responsabilité vis-à-vis ses clients
+38 Le degré d'intégration des travailleurs dans une entreprise doit s'apprécier du point de vue des travailleurs et non de celui de l'entreprise : 671122 Ontario Ltd. c. Sagaz Industries, [2001] 2 R.C.S. 983, à la page 1003. Car le faire sous l'angle de l'entreprise conduit presque toujours inéluctablement à conclure que les activités des travailleurs sont organisées et programmées au service de l'activité principale et dominante de l'entreprise. En d'autres termes, les activités des travailleurs apparaîtront toujours comme intégrées à l'entreprise.
+[41] Les appelants ont fait état du bulletin d'information dont la partie du contenu pertinent se lit comme suit : (pièce A-2) (p. 1 à 3)
+Politique d'assurance
+BULLETIN D'ASSUJETTISSEMENT 97-1
+OBJET: Assujettissement des opérateur-propriétaires
+de machinerie forestière
+[...]
+Opérateur-propriétaire
+Le fait de posséder sa propre machinerie n'est pas, en soi, un facteur déterminant quant à la détermination du statut d'un travailleur forestier. Il est donc possible, pour un opérateur-propriétaire, d'être engagé en vertu d'un contrat de louage de services tout en louant sa machinerie à son employeur en vertu d'un contrat de location. Dans cette situation, les revenus d'emploi sont considérés comme étant du salaire et les revenus générés par la machinerie constituent un revenu de location.
+Contrats écrits
+Dans le cas des opérateurs-propriétaires, il est essentiel que les ententes relatives à la location de la machinerie lourde ainsi que celle relative à l'embauche, en vertu d'un contrat de louage de services de l'opérateur-propriétaire soient produites par écrit. Dans ces circonstances, Revenu Canada considérera l'opérateur-propriétaire comme étant un employé occupant un emploi assurable pourvu que les conditions énoncées à la page 4 soient remplies.
+Aucune entente écrite
+Toute situation où il n'y a pas d'ententes écrites séparées (machinerie-employé ) doit faire l'objet d'une étude afin de déterminer si les critères essentiels à l'établissement d'un contrat de louage de services sont respectées. Si ces conditions ne sont pas rencontrées, l'opérateur-propriétaire sera considéré par Revenu Canada comme étant un travailleur autonome.
+Location de machinerie
+Le contrat de location de la machinerie entre l'opérateur-propriétaire (locateur) et l'entrepreneur principal (locataire) doit inclure certaines clauses démontrant que le locataire prend le contrôle de la machinerie pour la durée de l'entente. Voici les points qui devraient être couverts :
+a) Identification précise des parties concernées, par exemple, locateur et locataire;
+b) la durée de l'entente;
+c) le montant de la location ainsi que son mode de calcul, s'il y a lieu (à la journée, à la semaine, à l'heure, à la corde, au mètre cube ou bien à la longueur des billots manoeuvrés, etc.);
+d) les responsabilités du locataire et du locateur;
+e) le contrat doit être signé par les deux parties concernées.
+Contrat d'emploi
+Il est possible qu'un opérateur-propriétaire soit engagé en vertu d'un contrat de louage de services valide, mais de façon générale, chaque cas doit être étudié selon les circonstances qui l'entourent. Cependant, Revenu Canada peut conclure que tous les cas où le contrat d'emploi d'un opérateur-propriétaire rencontre toutes les conditions énoncées ci-dessous, cet emploi sera considéré comme un emploi en vertu d'un contrat de louage de services valide.
+[42] La jurisprudence et les bulletins d'interprétation constituent des indications et de références très utiles, tout en favorisant une cohésion et une cohérence dans les jugements portant sur des questions similaires. Par contre, il est important de se rappeler que chaque dossier, chaque situation est un cas d'espèce. Il est important de donner la priorité aux principes par rapport aux faits souvent particuliers et propres aux relations humaines aussi nombreuses et différentes qu'il peut y avoir d'individus concernés par la situation problématique.
+[43] Peut-on conclure que la présence de la payeuse ou de l'un de ses représentants sur un chantier établit et démontre qu'il existait ou pouvait exister un contrôle sur les faits et gestes de ceux qui recevaient une rémunération?
+[44] En l'espèce, la présence des représentants des payeuses principalement assurée par monsieur Gagnon s'expliquait, non pas des préoccupations de surveiller ou de contrôler le travail exécuté par les appelants, mais par son amour de la forêt et son besoin de circuler en forêt.
+[45] D'ailleurs, les trois représentants des payeuses ont reconnu et répété que les appelants connaissaient très bien leur travail, qu'ils l'exécutaient d'une façon efficace, productive et très responsable. En d'autres termes, ils connaissaient la façon de fonctionner et les exigences des payeuses et s'étaient ajustés au fil des ans en conséquence. Les payeuses étaient tellement satisfaites de la façon dont les appelants exécutaient leur travail qu'elles s'assuraient de leur fournir du travail année après année.
+[46] Le pouvoir de contrôle inclut la notion d'un lien de subordination. Pour déterminer la présence d'un lien de subordination, il est nécessaire d'aller au-delà de certains éléments et volets qui, j'en conviens, peuvent favoriser une conclusion à l'effet qu'il s'agissait d'un contrat de louage de services.
+[47] Avoir la préoccupation du travail bien fait, du respect des lois et de règlements applicables n'est pas l'apanage exclusif de ceux qui exécutent leur travail dans le cadre d'un contrat de louage de services. C'est ce qu'exigent également les donneurs d'ouvrage dans le cadre de contrats d'entreprise.
+[48] En l'espèce, la preuve a fait ressortir des éléments qui ne prêtent à aucune interprétation, ni à aucune confusion. Je fais notamment référence au fait que les appelants n'auraient jamais travaillé ni exécuté quelques travaux que ce soit pour les sociétés Ambois Inc. et Les entreprises forestières F.G. Inc. s'ils n'avaient pas été propriétaires de ladite débusqueuse qu'ils ont payée 24 000 $ et qui avait une valeur se situant entre 15 000 $ et 20 000 $ pendant les périodes en question.
+[49] Les appelants étaient responsables de tous les frais liés à l'exploitation, à l'entretien et aux réparations de la débusqueuse. Le travail des appelants dépendait de l'utilisation et de la bonne marche de la débusqueuse.
+[50] Ils avaient même souscrit une police d'assurance pour couvrir leur responsabilité dans le cadre de l'utilisation de la débusqueuse. Productivité et efficacité étaient synonymes de meilleurs revenus. Les pertes, les bris, etc., pouvaient avoir des effets directs et importants sur les revenus des appelants.
+[51] Certes, l'appelant Jacky Desbiens a affirmé que les bris étaient toujours mineurs et qu'il avait toujours les pièces de remplacement sur les lieux de manière à procéder aux réparations rapidement et sans conséquence sur l'ensemble de la production. Des problèmes importants sont survenus une fois pendant les périodes en question, soit un bris de moteur, et il avait alors procédé à la réparation en l'espace d'une journée et repris la journée de travail perdue.
+[52] Or, pour se demander ce qui serait arrivé si la débusqueuse avait été détruite par un incendie, étant donné que les appelants n'avaient pas d'assurance pour permettre son remplacement ni les moyens financiers de la remplacer.
+[53] Monsieur Desbiens, ingénieur forestier, a fait un vibrant plaidoyer en faveur des appelants dont le travail était tout à fait indispensable à la survie de l'entreprise des deux payeuses, soit Ambois Inc. et Les entreprises forestières F.G. Inc..
+[54] Il a en effet indiqué que les compagnies avaient cessé leurs activités puisque les propriétaires de débusqueuse refusaient dorénavant de travailler étant donné qu'ils n'étaient pas admissibles aux prestations d'assurance-emploi, ce qui confirme le statut très particulier des appelants; ils avaient, en effet, le pouvoir d'accepter ou de refuser de faire le travail pour les sociétés payeuses. Les appelants avaient donc une autonomie, un droit de refuser de faire du travail, ce qui confirme ainsi qu'ils avaient un statut d'égal à égal avec les entreprises payeuses.
+[55] L'intimé a attiré l'attention du tribunal sur le fait que les appelants, dans leur déclaration de revenus annuels, se définissaient comme des salariés pour une partie de leur revenu ( « T-4 » ) et des entrepreneurs quant aux revenus générés par la débusqueuse, ces derniers correspondant à un pourcentage de 80 % des recettes.
+[56] Outre les dépenses imputables directement à l'exploitation de la débusqueuse, notamment les frais d'utilisation, d'entretien, de réparation et d'assurance, les appelants ont également déduit à quelques reprises des frais de repas, des frais d'utilisation d'un camion pick-up pour se rendre sur les lieux de travail et des frais de séjour lors de déplacements éloignés. Il s'agissait là d'un choix qu'ils ont eux-mêmes fait, un choix qui est propre à un contrat d'entreprise et non à un contrat de louage de services.
+[57] Pour ce qui est du critère du contrôle, sans aucun doute le critère le plus déterminant dans le cadre d'une analyse de ce type, la présence des représentants des sociétés payeuses a été expliquée. Quel était le but de cette présence presque continue? Visait-on à intervenir auprès des appelants, à les encadrer et à imposer une certaine autorité? Les représentants des sociétés payeuses ont eux-mêmes répondu à ces questions en insistant à plusieurs reprises sur la fiabilité et l'expérience des appelants en ce qui concerne l'exécution du travail en question. Au fils des ans, les appelants avaient appris à connaître les exigences des payeuses et s'y conformaient à la lettre au point que les payeuses planifiaient leurs activités de coupe en fonction de la disponibilité des appelants.
+[58] Lorsqu'une personne confie à une autre personne ou un à groupe de personnes l'exécution de travaux de toute nature, très souvent, elle est présente du début à la fin des travaux, ce qui n'a pas pour effet de changer la nature du contrat d'entreprise.
+[59] À titre d'exemple, imaginons le propriétaire d'une résidence qui confie divers contrats, tels le paysagement, le terrassement ou la pose de pavé-uni. Ce sont là des situations où le payeur est présent, où il contrôle la qualité d'exécution du travail sans pour autant être partie à un contrat de louage de services.
+[60] En l'espèce, les appelants ont réussi à faire la démonstration qu'il y avait bel et bien des éléments particuliers qui correspondaient à un contrat de louage de services; par contre, la prépondérance de la preuve ne me permet pas de conclure à l'existence d'un contrat de louage de services pour autant.
+[61] Pour toutes ces raisons, les appels doivent être rejetés.
+Signé à Ottawa, Canada, ce 18e jour d'août 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI557
+NosDES DOSSIERS DE LA COUR :
+2003-4666(EI); 2003-4667(EI), 2003-4669(EI) et 2003-4670(EI)
+INTITULÉS DES CAUSES :
+Richard Desbiens et Jacky Desbiens
+et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Chicoutimi (Québec)
+DATE DE L'AUDIENCE
+le 21 juillet 2004
+MOTIFS DU JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 18 août 2004
+COMPARUTIONS :
+Avocat des appelants :
+Me Pierre Parent
+Avocate de l'intimé:
+Me Nancy Dagenais
+AVOCAT INSCRIT AUX DOSSIERS :
+Pour les appelants :
+Nom :
+Étude :
+Ville :
+Me Pierre Parent
+Cain Lamarre Casgrain Wells
+Chicoutimi (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

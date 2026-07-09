@@ -1,0 +1,287 @@
+---
+title: "Hall v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28976/index.do"
+last_modified: "2008-11-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 636"
+citation2: ""
+neutral_citation: "2008 TCC 636"
+decision_date: "2008-11-21"
+language: "en"
+item_id: "28976"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6786
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:37:19.803000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "df55e7e1b07514e12a55c4b1e32a9e101108a409c8886369edf210523e1f31d3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hall v. The Queen
+
+- Citation: 2008 TCC 636
+- Decision date: 2008-11-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6786, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hall v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-21
+Neutral citation
+2008 TCC 636
+File numbers
+2008-1800(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1800(IT)I
+BETWEEN:
+HELEN M. HALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 23, 2008,
+at Edmonton, Alberta.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Robert Neilson
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration on the basis that the Appellant was an eligible individual in respect of Cody Hall at the beginning of each one of the months during the period from November 2005 to May 2006 (inclusive) for the purposes of determining the Canada Child Tax Benefit (including the National Child Benefit Supplement) of the Appellant and that Cody Hall was a qualified dependent of the Appellant in relation to the months of January and April 2006 and the Appellant was an eligible individual in relation to each of these months for the purposes of determining the Goods and Services Tax Credit of the Appellant.
+Signed at Halifax, Nova Scotia, this 21st day of November, 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC636
+Date: 20081121
+Docket: 2008-1800(IT)I
+BETWEEN:
+HELEN M. HALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this case is whether the Appellant is entitled to the Canada Child Tax Benefit (the “CCTB”), the National Child Benefit Supplement (“NCBS”) and the Goods and Services Tax Credit (“GSTC”) for Cody Hall (“Cody”) for the period from November 2005 to May 2006 (the “period under appeal”). Initially CCTB Notices were issued notifying the Appellant that she was entitled to the CCTB and the NCBS for the period under appeal but following the service of a Notice of Objection by Jason Hall, Cody’s father, it was determined by the Minister of National Revenue that Jason Hall was primarily responsible for Cody for the period under appeal and therefore the Appellant was not entitled to the CCTB and the NCBS. The Appellant was also notified that she was not entitled to the GSTC for Cody for the period under appeal. Following the filing of a Notice of Objection by the Appellant, the Minister of National Revenue confirmed that the Appellant was not entitled to the CCTB, the NCBS, and the GSTC for Cody for the period under appeal.
+[2] Under the Income Tax Act ("Act") the CCTB is treated as an overpayment of the person's liability under the Act and hence, if the individual is eligible, such amount is paid to the eligible individual as a refund of this overpayment. The NCBS is the amount determined for “C” in the formula used to determine the amount of the “overpayment”. Under subsection 122.61(1) of the Act the overpayment amount is calculated on a monthly basis. This subsection provides, in part, as follows:
+Where a person ... [has] filed a return of income for the year, an overpayment on account of the person's liability under this Part for the year is deemed to have arisen during a month in relation to which the year is the base taxation year, equal to the amount determined by the formula
+1/12 [(A - B) + C + M]
+where
+A is the total of
+(a) the product obtained by multiplying $1,090 by the number of qualified dependants in respect of whom the person was an eligible individual at the beginning of the month, and
+(b) the product obtained by multiplying $75 by the number of qualified dependants, in excess of 2, in respect of whom the person was an eligible individual at the beginning of the month,
+…
+C is the amount determined by the formula
+F – (G × H)
+where
+F is, where the person is, at the beginning of the month, an eligible individual in respect of
+(a) only one qualified dependant, $1,463, and
+(b) two or more qualified dependants, the total of
+(i) $1,463 for the first qualified dependant,
+(ii) $1,254 for the second qualified dependant, and
+(iii) $1,176 for each of the third and subsequent qualified dependants,
+(emphasis added)
+[3] Because the overpayment is deemed to have arisen during a month in respect of a person who was an eligible individual in respect of a qualified dependent at the beginning of the month, this requires a determination of whether any particular person was an eligible individual at the beginning of each month in respect of that qualified dependent. As a result, it does not necessarily follow that because one particular person was the eligible individual in respect of a qualified dependent at the beginning of a particular month, that the same person would then be the eligible individual at the beginning of the following month in respect of that qualified dependent. The definitions of "eligible individual" and “qualified dependant” in section 122.6 provide that:
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+...
+and for the purposes of this definition,
+(f) where a qualified dependant resides with the dependant's female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+“qualified dependant” at any time means a person who at that time
+(a) has not attained the age of 18 years,
+(b) is not a person in respect of whom an amount was deducted under paragraph (a) of the description of B in subsection 118(1) in computing the tax payable under this Part by the person's spouse or common-law partner for the base taxation year in relation to the month that includes that time, and
+(c) is not a person in respect of whom a special allowance under the Children's Special Allowances Act is payable for the month that includes that time;
+[4] In this particular case there is no dispute that the Appellant is the female parent of the child in question. The Respondent was disputing whether Cody was residing with the Appellant during the period under appeal. If Cody was not residing with the Appellant during the period under appeal, then the Appellant would not be a qualified individual (since she would not be residing with him) and hence she would not be entitled to the CCTB and the NCBS. If Cody was residing with the Appellant, the position of the Respondent is that the presumption in paragraph (f) of the definition of “eligible individual” referred to above was not applicable and, in any event, Jason Hall was Cody’s parent who primarily fulfilled the responsibility for his care and upbringing during the period under appeal.
+[5] Paragraph (g) of the definition of “eligible individual” referred to above provides that the presumption as set out in paragraph (f) does not apply in prescribed circumstances. These prescribed circumstances (in which the presumption would not be applicable) are set out in section 6301 of the Income Tax Regulations ("Regulations") and include, as one of these circumstances, the situation where "more than one notice is filed with the Minister under subsection 122.62(l) of the Act in respect of the same qualified dependent who resides with each of the persons filing the notices if such persons live at different locations". Assuming that Cody resided with both the Appellant and Jason Hall, since both Jason Hall and the Appellant filed the notice with the Minister under subsection 122.62(1) of the Act and since they were not residing at the same location, the presumption in paragraph (f) of the definition of “eligible individual” referred to above is not applicable.
+[6] The GSTC is only determined for eligible individuals in relation to specified months. Subsection 122.5 of the Act provides in part as follows:
+(3) An eligible individual in relation to a month specified for a taxation year who files a return of income for the taxation year and applies for an amount under this subsection is deemed to have paid during the specified month on account of their tax payable under this Part for the taxation year an amount equal to ¼ of the amount, if any, determined by the formula
+A – B
+where
+A is the total of
+(c) if the individual has no qualified relation in relation to the specified month and is entitled to deduct an amount for the taxation year under subsection 118(1) because of paragraph (b) of the description of B in that subsection in respect of a qualified dependant of the individual in relation to the specified month, $213,
+(d) $112 times the number of qualified dependants of the individual in relation to the specified month, other than a qualified dependant in respect of whom an amount is included under paragraph (c) in computing the total for the specified month,
+(emphasis added)
+[7] The definitions of “eligible individual”, “qualified dependent” and “qualified relation” are in subsection 122.5 and these are as follows:
+“eligible individual”, in relation to a month specified for a taxation year, means an individual (other than a trust) who
+(a) has, before the specified month, attained the age of 19 years; or
+(b) was, at any time before the specified month,
+(i) a parent who resided with their child, or
+(ii) married or in a common-law partnership.
+“qualified dependant” of an individual, in relation to a month specified for a taxation year, means a person who at the beginning of the specified month
+(a) is the individual's child or is dependent for support on the individual or on the individual's cohabiting spouse or common-law partner;
+(b) resides with the individual;
+(c) is under the age of 19 years;
+(d) is not an eligible individual in relation to the specified month; and
+(e) is not a qualified relation of any individual in relation to the specified month.
+“qualified relation” of an individual, in relation to a month specified for a taxation year, means the person, if any, who, at the beginning of the specified month, is the individual's cohabiting spouse or common-law partner.
+[8] Subsection 122.5(4) of the Act provides that:
+(4) For the purposes of this section, the months specified for a taxation year are July and October of the immediately following taxation year and January and April of the second immediately following taxation year.
+[9] Subsection 122.5(6) of the Act provides that:
+(6) If a person would, if this Act were read without reference to this subsection, be the qualified dependant of two or more individuals, in relation to a month specified for a taxation year,
+(a) the person is deemed to be a qualified dependant, in relation to that month, of the one of those individuals on whom those individuals agree;
+(b) in the absence of an agreement referred to in paragraph (a), the person is deemed to be, in relation to that month, a qualified dependant of the individual, if any, who is, at the beginning of that month, an eligible individual within the meaning assigned by section 122.6 in respect of the person; and
+(c) in any other case, the person is deemed to be, in relation to that month, a qualified dependant only of the individual that the Minister designates.
+(emphasis added)
+[10] At the commencement of the hearing the Appellant stated that the applicable period was from October 2005 to May 2006, which includes the month of October 2005 that was not included in the period covered by the ruling made by the Minister of National Revenue. However, since the evidence was clear that Cody did not reside with the Appellant prior to Thanksgiving weekend in October 2005 and since both the CCTB (including the NCBS) and the GSTC are based on the requirement that Cody must have been a qualified dependent of the Appellant at the beginning of the month, the Appellant was not an eligible individual in respect of Cody for October 2005 nor was Cody a qualified dependent of the Appellant in relation to October 2005 and therefore the period to be considered in this appeal is the period under appeal.
+[11] The result of the foregoing definitions and requirements for CCTB (including the NCBS) and the GSTC mean that, for the purposes of this appeal, the issues are as follows:
+(a) Was Cody residing with the Appellant at the beginning of any the months from November 2005 to May 2006 for the purposes of the CCTB (including the NCBS), and if so, for which months; and was Cody residing with the Appellant at the beginning of January and / or April 2006 for the purposes of the GSTC?
+(b) If Cody was residing with the Appellant at the beginning of any of these months, was he also residing with Jason Hall at the beginning of the same month or months?
+(c) If Cody was residing at the beginning of any particular month or months with both the Appellant and Jason Hall, which parent, at the beginning of such month or months, was the parent who primarily fulfilled the responsibility for the care and upbringing of Cody at that time?
+[12] The witnesses at the hearing included the Appellant, Jason Hall and Cody. Cody was born in 1988 and since his birthday in 2005 was shortly before the commencement of the period under appeal, he would have been 17 throughout during the period under appeal. Since all three individuals who are key to the determination of whether Cody was residing with the Appellant or Jason Hall or both, testified, one would have thought that it would be easy to determine whether Cody was residing with either or both the Appellant and Jason Hall. However, it is not that easy in this case.
+[13] Justice Rand of the Supreme Court of Canada in Thomson v. M.N.R., 1945 CarswellNat 23, [1946] C.T.C. 51, made the following comments on “residing” and “ordinarily resident”:
+47 The gradation of degrees of time, object, intention, continuity and other relevant circumstances, shows, I think, that in common parlance "residing" is not a term of invariable elements, all of which must be satisfied in each instance. It is quite impossible to give it a precise and inclusive definition. It is highly flexible, and its many shades of meaning vary not only in the contexts of different matters, but also in different aspects of the same matter. In one case it is satisfied by certain elements, in another by others, some common, some new.
+48 The expression "ordinarily resident" carries a restricted signification, and although the first impression seems to be that of preponderance in time, the decisions on the English Act reject that view. It is held to mean residence in the course of the customary mode of life of the person concerned, and it is contrasted with special or occasional or casual residence. The general mode of life is, therefore, relevant to a question of its application.
+[14] Justice Bonner in S.R. v. The Queen, 2003 TCC 649, [2004] 1 C.T.C. 2386, made the following comments:
+12 The word "reside" with as used in the section 122.6 definition of the term "eligible individual" must be construed in a manner which reflects the purpose of the legislation. That legislation was intended to implement the child tax benefit. That benefit was introduced in 1993 with a view to providing a single nontaxable monthly payment to the custodial parent of a child. That payment was intended to benefit the child by providing funds to the parent who primarily fulfilled the responsibility for the care and upbringing of the child. The threshold test is whether the child resides with the parent. Physical presence of the child as a visitor in the residence of a parent does not satisfy the statutory requirement. The word "resident" as used in s. 122.6 connotes a settled and usual abode. …
+[15] In Lapierre v. The Queen, 2005 TCC 720, 2008 DTC 4248, Justice Dussault stated that:
+13 Although residence is the fundamental concept applied to determine if a person is subject to income tax under the Act, that term is nonetheless not defined therein and it is the courts that have attempted to establish its scope. Essentially a question of fact, a person's residence in a given place is determined by a certain number of criteria of time, object, intention and continuity that do not necessarily always carry the same weight and which can vary according to the circumstances of each case. (see Thomson v. M.N.R., [1946] S.C.R. 209). All things considered, residence implies a certain constancy, a certain regularity or else a certain permanence according to a person's usual lifestyle in relation to a given place and is to be distinguished from what might be called visits or stays for specific purposes or of a sporadic nature. When the Act sets as a condition to reside with another person, I do not consider it appropriate to attribute to the verb "to reside" a meaning which deviates from the concept of residence as it has been developed by the courts. To reside with someone is to live or stay with someone in a given place with a certain constancy, a certain regularity or else in an habitual manner.
+[16] In my opinion the requirement that a qualified dependent must reside with an individual for the purposes of the GSTC should be interpreted in the same manner as the requirement to reside for the purposes of the CCTB.
+[17] Therefore as a result it is necessary to determine whether Cody lived with the Appellant and / or Jason Hall on a settled and usual basis. It is not simply a question of which house he was at on the first day of any given month. Did he have a settled and usual abode with the Appellant or Jason Hall? Did he live with either or both of them regularly during this period?
+[18] There were a total of five witnesses. In addition to the Appellant, Jason Hall and Cody, the Appellant’s mother and Jason Hall’s current wife also testified. The testimony was conflicting on several points. There was, however, consistency on some points. Before the period under appeal Cody was living with Jason Hall. During the period under appeal there were several periods (in some cases a day or two and others longer) when Cody did not stay with either Jason Hall or the Appellant and Cody’s recollection of where he was staying was not clear.
+[19] The Appellant was receiving social assistance payments and was living in housing provided by Capital Region Housing Corporation with her two daughters who were born in 1996 and 1999. As well, the Appellant’s oldest daughter also moved in with her because she was pregnant. Her baby (the Appellant’s grandchild) was born in March 2006. There is no doubt that it would have been difficult for the Appellant to have another child residing with her.
+[20] Cody was having difficulties when he was living with his father in 2003, 2004 and in 2005 prior to Thanksgiving in October of 2005. Jason Hall’s girlfriend (and later his spouse) and Cody did not get along well together. Cody also stated that he was frequently being kicked out of Jason Hall’s house. It appears that it was after one of his disagreements with his father that he went to the Appellant’s for Thanksgiving in October 2005 and decided to stay with the Appellant. Although he would also spend some time at Jason Hall’s house, I find that throughout the period of appeal Cody regularly stayed with the Appellant. This was confirmed by the evidence of the Appellant, Cody and the Appellant’s mother.
+[21] Cody may also have stayed regularly with Jason Hall throughout this period but the evidence on this part was far from clear. Jason Hall’s spouse testified and she stated that Cody lived with them throughout the period under appeal. For at least part of the period under appeal, the room in the basement at Jason Hall’s house (that had been Cody’s room) was being used by Jason Hall’s father and Cody, if he stayed at Jason Hall’s home, would have to sleep on the couch. Cody stated that he had his own room at the Appellant’s apartment.
+[22] While Jason Hall’s spouse testified that Cody lived with them throughout the period under appeal, Jason Hall was not as definitive. The following is part of the exchange between counsel for the Respondent and Jason Hall:
+Q MR. NEILSON: Now, during the period October 2005 to May 2006, did Cody reside with you at your residence?
+A Yes, he did.
+Q Okay. Do you believe that you were the primary caregiver with respect to Cody for that period?
+A Yes, I do.
+Q Why do you believe that? Just tell the Court.
+A Well, I was there for him when he needed me. I provided a place for him to come to, which he did, and I provided him with some food and some guidance and structure which he wasn't getting elsewhere. So, yes, I believe I was the primary caregiver.
+Q So did you maintain a safe and secure home for Cody to reside in during that period?
+A Oh, yes, I did.
+Q And did he reside with you during that period each month? So starting in October 2005, did Cody reside with you in your residence?
+A Yes.
+Q November 2005, did he reside with you in your residence?
+A Yes, he did.
+Q Now, when you say he did, did he reside with you every single day or were there periods where he did not reside with you?
+A There was periods where ‑‑ like, as we've heard all day long, that he was probably gone for up to about three days at a time.
+Q So would this have been throughout the entire period November 2005 to May 2006 or just October and November?
+A It was pretty sporadic. It could have been every month, it could have been every second month. It just ‑‑ it did happen.
+…
+Q Did he have a room at your residence the entire time?
+A Yes, he did.
+Q Did you feed him that entire time?
+A Yes, I did.
+Q Did you buy him clothes?
+A Yes, I did.
+…
+Q Now, December 2005, where was Cody living?
+A With us.
+Q Okay. The entire month of December?
+A No, he was staying with Steve because they were trying out this job thing together. They couldn't get jobs on their own, they got it together, and they were at Julio's Barrio, so he was staying there and coming home on the weekends or whenever. Then we went to my mom's for Christmas, which we picked him up at Steve's and dropped him off at Steve's, and we were only there for a day.
+Q Like, at your mom's?
+A Yeah.
+Q Okay. And where was this?
+A Chetwynd, B.C.
+Q Okay. So January of 2006, what was Cody's status with respect to living with you?
+A I don't know.
+Q You don't recall?
+A No, I don't.
+Q Okay. What about February of '06?
+A That I don't recall either. I do recall March.
+Q Okay, what happened in March?
+A He came to my house and wanted to take more of his belongings, and we said no because he told us the last time he went to his mom's that she pawned his stuff off. So I said you can't take your stuff. Just get in the house, go to bed, let it go. He was all drugged up or whatever, and he wouldn't and threw me on the ground in the basement and started jumping on me, and Hallie dragged him off and dragged him outside, and he tried to fist fight her, so we phoned the police. My dad was there too.
+At this time, my mom was in the hospital dying of cancer. This is why I know from that ‑‑ from those moments to May where he was because he was at the hospital twice, and he knew that my mom was dying.
+Q Okay. So March 2006, there was some kind of altercation; is that correct?
+A Yeah, and the police came.
+Q The police came. So April 2006, did Cody reside with you notwithstanding that?
+A Yeah.
+Q He did?
+A Yeah.
+Q Approximately how much of the month would he have spent at ‑‑ sleeping ‑‑
+A Not much ‑‑
+Q ‑‑ and eating at your house?
+A Some mornings he was on the couch, some mornings he wasn't. We had put him on the couch because my dad was staying with my mom being in the hospital. Trying to make it easier for my dad. He didn't have to buy a hotel room or whatever. So we moved sleeping arrangements around. And Cody was there sometimes, sometimes he wasn't. We were up at the hospital every day, so I couldn't keep really good tabs on him.
+Q Sorry, just let me think for a second.
+Okay. So do you know now ‑‑ maybe I've asked you this question already. Do you know where Cody was when he wasn't sleeping at your house?
+A Well, like I said, the Xbox went missing. When I asked him where it was with 50 some odd games, he said that him and his mom ‑‑ actually he said his mom pawned it off, so I assumed he was over there. Up till that point, he hadn't seen her for a year.
+Q Up till what point?
+A Up till the point of him going over there.
+Q Which would have been ‑‑
+A I don't know, October maybe for his birthday.
+Q October of what year?
+A Of '05.
+Q So May 2006, am I right in assuming that something changed?
+A My mother died. I was at her funeral. He phoned me and he asked if he could have his stuff, his ID and all that stuff. I was never holding that stuff from him. He just wasn't allowed in the house unless we were there because he was not living up to the rules of the house. And so when we were home, he should have been home. He wasn't so he didn't have keys to the house. And I instructed him. When I get back from the funeral, I'll give your stuff, and that was pretty much the end of Cody.
+Q So he ceased residing in your residence ‑‑
+A Yeah.
+Q ‑‑ after May 2006?
+A Yeah.
+[23] Jason Hall first testified that Cody lived with him during the period under appeal but when he was asked specifically about whether Cody was living with him in January and February, 2006 his answer was that he didn’t know.
+[24] Jason Hall’s only recollection for March related to an altercation that took place on March 31, 2006. Cody indicated that he was at the Appellant’s premises when he cut his hand. The Appellant gave him some Tylenol 3’s that he took for the pain and he had a beer. His friend drove him to see a doctor who gave him some additional medication for pain and stitched up his hand. He then went with his friend to Jason Hall’s house because his friend was going to buy speakers from Jason Hall. When they arrived, Cody indicated that he started to feel ill. There was an altercation between Jason Hall and Cody and then between Jason Hall’s wife and Cody and the police were called. The police report confirms the testimony of the witnesses that the police drove Cody to the Appellant’s place.
+[25] Since Cody, who testified for the Appellant and also in rebuttal following the testimony of Jason Hall and his spouse, was vague on how many days he actually stayed at Jason Hall’s, and since most of his belongings including his identification, were at Jason Hall’s house, it seems more likely than not that he did spend some days at Jason Hall’s house throughout the period under appeal. In particular since Cody referred to spending nights on the couch at Jason Hall’s, which presumably took place after Jason Hall’s father came to stay with Jason Hall in 2006, it seems to me that Cody also resided with Jason Hall throughout the period under appeal.
+[26] The issue is then whether the Appellant or Jason Hall was the parent who primarily fulfilled the responsibility for Cody’s care and upbringing. Section 6302 of the Regulations provides that:
+6302. For the purposes of paragraph (h) of the definition “eligible individual” in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[27] With respect to this issue, the testimony of the Appellant, Jason Hall, and Cody is more important than the testimony of the other witnesses. The Appellant clearly stated that she was the parent who was primarily responsible for Cody’s care and upbringing throughout the period under appeal and Cody confirmed this. Most of the factors listed in section 6302 of the Regulations do not apply in this situation. Cody was mainly self sufficient during the period under appeal. He looked after his own transportation (usually public transit) and when he cut himself and needed to see a doctor he had a friend drive him. There was also no applicable court order.
+[28] It also seems clear that neither the Appellant nor Jason Hall supervised the daily activities of Cody. Both the Appellant and Jason Hall tried to argue that the other person’s premises were unsafe. There was an armed robbery that took place at the Appellant’s premises but there was no evidence that this was the fault of the Appellant. Therefore the main factor that is relevant in this determination in this case is the provision, generally, of guidance and companionship to Cody. It seems to me that Cody would be the best person to identify which parent was primarily for responsible for this during the period under appeal. Since Cody identified the Appellant as this person, it seems to me that it is more likely than not that it was the Appellant who was primarily responsible for generally providing guidance and companionship to Cody throughout the period under appeal.
+[29] When Cody arrived at the Appellant’s home for Thanksgiving in October 2005, he had very little with him – only what he could carry in his backpack. His clothes, his other possessions and his identification were at Jason Hall’s house. The fact that he arrived at the Appellant’s home without his identification and decided to stay with the Appellant suggests that he went there after he and Jason Hall had a disagreement over some matter. Cody described his relationship with Jason Hall during this period as strained. The fact that Cody decided to stay with the Appellant after Thanksgiving in 2005 is not consistent with Jason Hall being the parent who was primarily responsible for Cody’s care and upbringing at the beginning of November.
+[30] With respect to the month of December, 2005 the evidence was consistent that Cody travelled with Jason Hall to visit Jason Hall’s mother for Christmas. However they only stayed one day and the test is applied at the beginning of the month. This evidence of travelling for a short visit with Jason Hall’s mother at Christmas is not sufficient to find that, at the beginning of December, 2005 that it was Jason Hall who was the parent who was primarily responsible for Cody’s care and upbringing in light of the testimony of the Appellant and Cody that the Appellant and not Jason Hall was the parent who was primarily responsible for Cody’s care and upbringing throughout the period under appeal.
+[31] The main concern I have with the position of Jason Hall that he was the parent who was primarily responsible for Cody’s care and upbringing during the period under appeal arises as a result of Jason Hall’s testimony quoted above. First he stated that Cody resided with him during the period under appeal but when he was asked specifically about the months of January and February his response was that he didn’t know where Cody was residing during these months. How could he be the parent who was primarily responsible for Cody’s care and upbringing at the beginning of January and February, 2006 if he didn’t know where Cody was residing in January and February, 2006?
+[32] His only recollection about March, 2006 was the incident which resulted in the police being called in to take Cody away. This incident occurred on March 31, 2006. How could Jason Hall be the parent who was primarily responsible for Cody’s care and upbringing at the beginning of March, 2006 if his only recollection for March, 2006 (following his statement that he didn’t know where Cody was residing for the previous two months) is an incident that occurred on the last day of March and which was an incident in which Jason Hall arranged to have the police take Cody to the Appellant’s premises? How could Jason Hall be the parent who was primarily responsible for Cody’s care and upbringing at the beginning of April (which would be the day after Cody was arrested at Jason Hall’s house)?
+[33] The only evidence provided by Jason Hall for May 2006 was Jason Hall’s recollection of receiving the call from Cody during which Cody indicated that he wanted to retrieve his belongings and his identification. Given the events that unfolded at the end of March, 2006, it seems more likely than not that it was the Appellant, and not Jason Hall who was the parent who was primarily responsible for Cody’s care and upbringing at the beginning of May, 2006.
+[34] As a result, I find that the Appellant was the parent who was primarily responsible for Cody’s care and upbringing throughout the period under appeal.
+[35] The appeal is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration on the basis that the Appellant was an eligible individual in respect of Cody at the beginning of each one of the months during the period from November 2005 to May 2006 (inclusive) for the purposes of determining the CCTB (including the NCBS) of the Appellant and that Cody was a qualified dependent of the Appellant in relation to the months of January and April 2006 and the Appellant was an eligible individual in relation to each of these months for the purposes of determining the GSTC of the Appellant.
+Signed at Halifax, Nova Scotia, this 21st day of November, 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC636
+COURT FILE NO.: 2008-1800(IT)I
+STYLE OF CAUSE: HELEN M. HALL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: October 23, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: November 21, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Robert Neilson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

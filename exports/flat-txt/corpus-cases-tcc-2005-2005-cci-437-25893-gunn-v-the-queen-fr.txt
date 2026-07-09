@@ -1,0 +1,235 @@
+Title: Gunn v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25893/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-437-25893-gunn-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-07-12
+
+# Gunn v. The Queen
+
+- Citation: 2005 CCI 437
+- Decision date: 2005-07-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3691, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gunn v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-07-12
+Référence neutre
+2005 CCI 437
+Numéro de dossier
+2003-1404(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+2003-1404(IT)G
+ENTRE :
+DOUGLAS G. GUNN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 24 février 2005, à London (Ontario)
+Devant : L'honorable juge E. A. Bowie
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Charles M. Camirand
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés contre les nouvelles cotisations d'impôt établies aux termes de la Loi de l'impôt sur le revenu pour les années d'imposition 1997, 1998 et 1999 sont rejetés, avec dépens.
+Signé à Toronto (Ontario), ce 12e jour de juillet 2005.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 27e jour de janvier 2006.
+Mario Lagacé, réviseur
+Référence : 2005CCI437
+Date : 20050712
+Dossier : 2003-1404(IT)G
+ENTRE :
+DOUGLAS G. GUNN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Les appels sont interjetés contre de nouvelles cotisations établies aux termes de la Loi de l'impôt sur le revenu (la Loi) pour les années d'imposition 1997, 1998 et 1999. L'appelant est à la fois agriculteur et avocat. Pendant les années en cause, il a subi des pertes considérables provenant de son exploitation agricole, tout en tirant un revenu important de son cabinet d'avocats. Le ministre du Revenu national a accepté le fait que l'appelant est un véritable agriculteur et que l'agriculture est une source de revenu pour lui. Toutefois, le ministre est d'avis que l'agriculture n'est pas, ni à elle seule ni combinée à la pratique du droit, la principale source de revenu de l'appelant. Il a donc invoqué l'article 31 de la Loi pour restreindre à 8 750 $, pour chacune des trois années visées, les pertes agricoles que l'appelant peut déduire dans le calcul de son revenu total en vertu de l'article 3 de la Loi. L'appelant soutient que l'agriculture et la pratique du droit ensemble constituent sa principale source de revenu, et qu'il a le droit de tenir compte du plein montant de ses pertes agricoles pour chacune des années en cause.
+[2] L'appelant a été la seule personne à témoigner, et son témoignage n'a pas été contesté par l'avocat de l'intimée. Voici les hypothèses de fait avancées par l'intimée au paragraphe 8 de la réponse :
+[TRADUCTION]
+8 En établissant lesdites nouvelles cotisations à l'égard de l'appelant, le ministre s'est appuyé, notamment, sur les hypothèses suivantes :
+a) l'appelant exerce le droit depuis 1967;
+b) à la fin des années 70, l'appelant a commencé à travailler à son propre compte, puis il a créé son propre cabinet d'avocats, Gunn & Associates, en 1984;
+c) l'appelant a tiré le revenu (subi les pertes) ci-dessous de sa profession d'avocat et de son entreprise agricole :
+Date
+Revenu de profession libérale (net)
+Revenu agricole (brut)
+Dépenses agricoles
+Revenu agricole (net)
+1987
+165 663 $
+66 719 $
+126 156 $
+(59 437 $)
+1988
+152 682
+59 481
+84 575
+(25 094)
+1989
+268 770
+30 139
+88 726
+(58 587)
+1990
+280 017
+32 307*
+82 142*
+(49 835)*
+1991
+235 854
+44 873
+98 645*
+(53 772)*
+1992
+428 077
+82 451
+130 360*
+(47 909)*
+1993
+256 723
+105 226
+191 241
+(86 015)
+1994
+270 818
+321 246
+377 862
+(56 616)
+1995
+277 869
+162 554
+222 011
+(59 457)
+1996
+221 013
+295 364
+426 683
+(131 319)
+1997
+308 686
+217 560
+272 013
+(54 453)
+1998
+204 865
+366 877
+474 383
+(107 506)
+1999
+308 447
+258 489
+417 417
+(158 928)
+2000
+428 189
+395 585
+429 213
+(33 628)
+2001
+331 419
+225 572
+272 246
+(46 674)
+* Selon la nouvelle cotisation établie par le ministre.
+d) pendant les années d'imposition 1997, 1998 et 1999, l'appelant a consacré plus de temps à la pratique du droit qu'à l'agriculture;
+e) pour les années d'imposition 1997, 1998 et 1999, la principale source de revenu de l'appelant n'était ni l'agriculture ni une combinaison de l'agriculture et d'une autre source de revenu.
+Les alinéas 8a) à 8d) ne sont pas contestés par l'appelant. L'alinéa 8e) est contesté, bien entendu, vu qu'il s'agit de la question que je devrai trancher en dernière analyse, après avoir examiné tous les faits principaux. La preuve fait également état des résultats financiers suivants pour les années postérieures à 2001 :
+Date
+Revenu d'une profession libérale (net)
+Revenu agricole (brut)
+Dépenses agricoles
+Revenu agricole (net)
+2002
+305 890 $
+231 452 $
+192 293 $
+39 159 $
+2003
+369 356
+148 406
+235 390
+(85 024)
+2004
+247 031
+326 109
+229 997
+96 112
+[3] L'appelant a grandi dans une ferme près de St. Thomas, au sud-ouest de l'Ontario, qui a d'abord appartenu à son grand-père. Son père y a élevé des bovins et des moutons et y a produit des cultures commerciales. L'appelant a travaillé avec lui pendant quelques étés, alors qu'il fréquentait l'Université de Western Ontario. Il a obtenu son diplôme de la faculté de droit de cette université en 1965 et a été reçu au Barreau de l'Ontario en 1967. Il exerce le droit depuis ce temps et, en 1984, il a créé son propre cabinet, Gunn & Associates, à St. Thomas. Au moment de l'audience en 2005, quatre autres avocats travaillaient pour lui dans son cabinet.
+[4] Au cours des 40 dernières années ou à peu près, l'appelant a développé à la fois son cabinet d'avocats et son entreprise agricole en mettant en pratique ses compétences et ses connaissances et en travaillant sans relâche. En 1962, il a acquis une participation de 25 % dans une propriété agricole. En 1972, il a acheté ce qu'il appelle sa [TRADUCTION] « ferme familiale » , près de St. Thomas. À l'époque, les bâtiments étaient délabrés, et, au fil des ans, lui et sa femme ont construit la maison dans laquelle ils vivent toujours et ont remplacé les bâtiments agricoles se trouvant sur la propriété. Ils ont actuellement cinq étables, dans lesquelles ils élèvent des bovins pur-sang de race Hereford depuis 30 ans. En 2005, la ferme de l'appelant comptait un troupeau établi d'environ 50 vaches reproductrices. De plus, l'appelant avait acquis un certain nombre de propriétés agricoles supplémentaires dans le quartier, où il cultive le seigle, le foin et sa principale culture commerciale, le tabac.
+[5] L'appelant effectue lui-même la majeure partie des travaux liés à l'élevage de bovins, avec l'aide de sa femme. Jusqu'en septembre 2004, il avait aussi à son service un ouvrier agricole. Il prend toutes les décisions qui se rapportent à l'élevage du bétail. Habituellement, il fait accoupler les bovins en avril afin que les veaux naissent dans les premiers mois de l'année suivante. Pendant la saison de mise bas, il visite les étables deux fois par jour, soit en début de matinée et le soir, pour jeter un coup d'oeil sur les bovins et pour les nourrir. Sa femme surveille les bovins pendant la journée, et l'appelant a la possibilité de rentrer à la maison dans un bref délai, au besoin. Il ne s'absente jamais de la maison pendant plus de quelques jours. Il travaille également à la ferme les fins de semaine, et parfois en semaine pendant l'été, pour effectuer la majeure partie des travaux manuels relatifs à l'ensemencement et à la fenaison, avec l'aide des ouvriers qu'il engage à titre occasionnel, au besoin. Il s'occupe aussi de tous les travaux d'écritures et de la tenue des dossiers requis en ce qui concerne l'élevage et l'enregistrement des bovins. Selon son horaire habituel, il travaille à son cabinet d'avocats de 9 h ou 9 h 30 jusqu'à environ 16 h, et effectue les travaux agricoles avant et après ces heures. Dans son témoignage, l'appelant a dit qu'il consacre généralement environ 50 heures par semaine à son cabinet d'avocats et environ 20 heures aux travaux agricoles.
+[6] Entre 1990 et 1997, l'appelant a acquis six propriétés agricoles supplémentaires dans les environs de St. Thomas. Bon nombre de ces propriétés étaient en très mauvais état, en ce qui a trait à la fois au sol et aux bâtiments et au matériel. Au cours de cette période, l'appelant a beaucoup travaillé et a dépensé énormément d'argent pour améliorer le sol de ces propriétés agricoles en y ajoutant de grandes quantités d'engrais, lequel devait être transporté par camion sur de longues distances. L'appelant a également consacré beaucoup de temps et d'argent à la rénovation des bâtiments et à la réparation du matériel, qui avait été très négligé. Parmi ces propriétés agricoles, l'appelant a acheté une plantation de tabac qui avait servi à la production de tabac jaune. Dans son témoignage, l'appelant a dit qu'il a depuis délaissé la production de tabac jaune pour se concentrer sur la production de tabac burleigh séché à l'air, dans le but de rendre la plantation moins exigeante en main-d'oeuvre et plus rentable. La culture du tabac burleigh coûte moins cher à produire et n'est pas assujettie à des contingents de production, comme c'est le cas du tabac jaune.
+[7] Dans son témoignage, l'appelant a également parlé de la synergie entre son cabinet d'avocats et son entreprise agricole. Un grand nombre des clients du cabinet d'avocats sont des gens que l'appelant a rencontrés grâce à ses relations dans le secteur agricole. Il a agi comme président de l'Ontario Crop Insurance Arbitration Board, et a participé aux activités de divers organismes qui sont liés au secteur agricole et au secteur de l'élevage bovin. C'est ainsi qu'il est entré en relation avec de nombreuses personnes qui sont ensuite devenues des clients de son cabinet d'avocats ou qui lui ont trouvé des clients. D'après son analyse des dossiers qu'il a ouverts au cours des années frappées d'appel, entre 10 % et 15 % de ces dossiers concernent des clients qu'il a rencontrés dans le cadre de ses activités agricoles. Selon lui, de nombreux autres dossiers peuvent découler de ses contrats dans le secteur agricole, mais d'une façon moins directe.
+[8] La décision de la Cour suprême du Canada dans l'affaire Moldowan[1] fait toujours autorité pour ce qui est de trancher la question dont je suis saisi. Dans cette décision, le juge Dickson (tel était alors son titre) a décrit comme suit les trois catégories d'agriculteur visées à l'article 13 de la Loi de l'impôt sur le revenu de 1952 :
+À mon avis, la Loi de l'impôt sur le revenu envisage dans son ensemble trois catégories d'agriculteur :
+(1) le contribuable qui peut raisonnablement s'attendre à tirer de l'agriculture la plus grande partie de son revenu ou à ce que ce soit le centre de son travail habituel. Ce contribuable, dont l'agriculture est le gagne-pain, est exempté de la limite imposée par le par. 13(1) pour les années où il subit des pertes provenant de son exploitation agricole;
+(2) le contribuable qui ne considère pas l'agriculture, ou l'agriculture et une source secondaire de revenu, comme son gagne-pain mais pour qui l'exploitation d'une ferme est une entreprise secondaire. Ce contribuable a droit aux déductions prévues au par. 13(1) au titre des pertes provenant d'une exploitation agricole;
+(3) le contribuable qui ne considère pas l'agriculture, ou l'agriculture et une source secondaire de revenu, comme son gagne-pain et qui poursuit une activité agricole comme passe-temps. Les pertes de ce contribuable provenant de son exploitation agricole qui ne constitue pas une entreprise, ne sont pas déductibles.
+[9] Bien que le libellé de l'article 31 de la Loi actuelle diffère quelque peu de celui de l'article 13 de l'ancienne Loi, cette description des catégories d'agriculteur s'applique toujours aujourd'hui. Afin de déterminer à quelle catégorie l'appelant appartient, je dois nécessairement tenir compte du montant des capitaux qu'il a respectivement investis dans son entreprise agricole et dans son cabinet d'avocats, du temps qu'il a consacré à chacune de ces deux entreprises, de même que de leur rentabilité potentielle respective.
+[10] D'après le témoignage de l'appelant, je suis convaincu que celui-ci s'est consacré sérieusement à l'exploitation d'une entreprise agricole pendant plus de 35 ans, qu'il s'y est toujours consacré aussi sérieusement pendant les années frappées d'appel et qu'il s'y consacre toujours pleinement aujourd'hui. L'appelant a l'intention de continuer à exercer le droit et à se livrer à des activités agricoles dans un avenir prévisible. La valeur de ses biens agricoles s'élève à environ 2 M$, dont la plus grande partie représente des terres et des bâtiments. En revanche, les capitaux qu'il a investis dans son cabinet d'avocats se chiffrent à environ 62 000 $[2]. Il consacre entre 30 % et 35 % de son emploi du temps à ses activités agricoles, et le reste à son cabinet d'avocats. Entre 1990 et 1997, il a apporté des ajouts importants à ses avoirs agricoles et a investi beaucoup de temps et d'argent pour les adapter aux normes élevées qu'il a établies pour son entreprise agricole. Cela reflète à la fois son souci pour l'environnement et sa détermination à créer et à maintenir une entreprise agricole de haute qualité. Il a diversifié ses cultures commerciales en y incluant le tabac, tant le tabac jaune que le tabac séché à l'air, ce qui a considérablement amélioré l'état des résultats de son entreprise agricole.
+[11] Les pertes que l'appelant a subies dans le cadre de son entreprise agricole sur une période de 15 ans ont été considérables et, jusqu'en 2002, continues[3]. Ces pertes ne présentent pas de tendance particulière, sauf qu'elles ont atteint leur maximum en 1996 et en 1999, alors qu'elles dépassaient 50 % du revenu net de profession libérale de l'appelant. Les pertes ont diminué de façon marquée en 2000 et en 2001, et l'appelant a réalisé des profits agricoles de 39 159 $ en 2002 et de 96 112 $ en 2004. L'appelant estime que les pertes considérables qu'il a subies au cours des années frappées d'appel sont attribuables aux frais d'intérêts, aux dépenses importantes liées à l'amélioration des propriétés agricoles récemment acquises et au coût élevé de la production du tabac. Bien qu'il s'agisse de facteurs importants dans les années frappées d'appel, ces facteurs n'expliquent pas les pertes subies au cours des années qui ont précédé la croissance de l'entreprise dans les années 90.
+[12] L'appelant a bien sûr invoqué le jugement de la Cour suprême dans l'affaire Moldowan. Il s'est également fondé sur un certain nombre de décisions de première instance de la Cour suprême et de la Cour fédérale. À mon avis, ces décisions ne sont d'aucune utilité. Comme les cours d'appel l'ont clairement indiqué, toutes les causes en question reposent sur leurs faits particuliers; elles doivent êtres réglées au moyen de l'application de principes à ces faits. Toutes les décisions de première instance que l'appelant a invoquées sont fondées sur des faits très pertinents qui sont absents dans le cas présent. Dans la décision Kasper v. The Queen[4], le juge en chef adjoint Jerome a conclu que l'appelante n'était pas assujettie à l'effet restrictif de l'article 31, car, pendant les années frappées d'appel - 1997 et 1998 -, « [...] elle avait détourné ses efforts de sa participation antérieure à l'exploitation de Motor Express Terminals Limited, pour se consacrer à la gestion de son élevage de chevaux » [5]. De façon semblable, dans la décision White v. The Queen[6], le juge Rouleau a conclu qu'au cours des années en cause, le contribuable a « [...] changé d'orientation professionnelle, laissant de côté la médecine pour se tourner vers l'agriculture » [7]. Le juge en chef adjoint Jerome a soutenu dans la décision The Queen v. Wylie[8] qu'en 1979 - la première des diverses années frappées d'appel - le contribuable s'est établi sur la propriété agricole, a consacré énormément de son temps à l'entreprise agricole (tout comme les autres membres de sa famille) et a modifié ses habitudes de travail pour que l'agriculture soit au centre de celles-ci[9]. Le juge O'Connor, de la C.C.I., a conclu dans la décision Mott-Trille v. The Queen[10] que l'appelant a consacré presque autant de temps à son cabinet d'avocats qu'à sa ferme bovine et laitière, et que sa « préoccupation majeure » était l'agriculture[11]. La décision Perron v. The Queen[12] est un autre dossier où la Cour a jugé qu'un changement d'orientation professionnelle a eu lieu pendant la période en cause. La juge Lamarre Proulx a conclu que « [...] un temps [des contribuables] presque totalement consacré aux activités de la ferme » [13].
+[13] L'appelant a également invoqué deux récentes décisions de la Cour d'appel fédérale qui annulent les décisions de cette cour de rejeter les appels interjetés dans des affaires de pertes agricoles. Dans l'arrêt Kroeker v. The Queen[14], les aveux faits par l'avocat de l'intimée selon lesquels l'agriculture était « le centre de l[a] vie [de l'appelante] » et que celle-ci « [...] "consacrait" ses capitaux, son temps et son travail à son exploitation agricole » [15] étaient cruciaux. Dans la décision Taylor v. The Queen[16], il a été déterminant, semble-t-il, que le juge de première instance ait tiré la conclusion de fait selon laquelle l'appelant a passé plus de temps à des activités agricoles qu'à gagner son revenu d'emploi[17]. Les faits apparemment essentiels de ces dossiers ne sont tout simplement pas présents en l'espèce.
+[14] Bien que l'appelant se soit consacré sérieusement à son exploitation agricole dès le début et qu'il y ait consacré énormément de temps et d'argent au fil des ans, l'agriculture n'a jamais remplacé la pratique du droit comme activité qui absorbe constamment la majeure partie du temps de l'appelant et qui constitue son gagne-pain. L'appelant n'a pas subi de changement d'orientation professionnelle. Bien qu'il ait effectivement accru ses avoirs agricoles pendant les années 90, les éléments de preuve ne me persuadent pas que l'appelant a, par le fait même, changé de quelque façon que ce soit l'orientation de sa vie et de ses activités. Son revenu de profession libérale ainsi que ses pertes agricoles ont en fait présenté une légère tendance à la hausse pendant la période en question.
+[15] Bien que la Cour suprême ait récemment critiqué[18] les remarques incidentes formulées dans l'arrêt Moldowan concernant la recherche d'une source de revenu, elle n'a jamais renoncé à son ratio decidendi. Le critère que je dois appliquer est celui que le juge Dickson a formulé dans le paragraphe suivant[19] :
+Déterminer si une source de revenu est la principale « source » de revenu d'un contribuable suppose un test à la fois relatif et objectif. Ce n'est incontestablement pas une simple question de proportion. Celui qui a exploité une ferme toute sa vie ne cesse pas d'en tirer sa principale source de revenu du simple fait qu'il a inopinément gagné à la loterie. Ce qui distingue la principale « source » de revenu du contribuable, c'est l'expectative raisonnable de revenu en provenance des diverses sources, ainsi que ses habitudes et sa façon coutumière de travailler. On peut analyser ces éléments, notamment à l'égard de chaque source de revenu, en examinant le temps consacré à celle-ci, les capitaux engagés et la rentabilité présente et future. Un changement dans les habitudes ou la façon de travailler d'un contribuable ou dans ses expectatives raisonnables peut indiquer une modification de la principale source de revenu, mais cela demeure une question de fait dans chaque cas.
+[16] La façon dont l'arrêt Moldowan doit être appliqué a été examinée par la Cour d'appel fédérale dans l'arrêt The Queen c. Morrissey[20]. Au nom de la majorité, le juge Mahoney a dit ce qui suit :
+Selon une bonne application du test proposé dans l'arrêt Moldowan, lorsque, comme c'est le cas en l'espèce, on considère improbable la rentabilité de l'entreprise agricole en dépit du temps et des capitaux que le contribuable peut et veut bien lui consacrer, la conclusion à tirer selon le fardeau de la preuve en matière civile doit être que l'agriculture n'est pas une source principale de revenu pour l'agriculteur en question. Pour constituer un revenu dans le contexte de la Loi de l'impôt sur le revenu, ce qui est reçu doit être de l'argent ou quelque chose de convertible en argent. Sans rentabilité réelle ou possible, l'agriculture ne peut être une source principale du revenu du contribuable même si la concession qu'il s'adonnait à l'agriculture avec une expectative raisonnable de profit équivaut à une concession que la preuve peut ne pas confirmer, à savoir que l'agriculture constitue au moins une source de revenu pour le contribuable.
+J'ai énoncé, justement je l'espère et assez longuement sans doute, le fondement de la plaidoirie de l'intimé fondée sur la politique gouvernementale et selon laquelle le test énoncé dans l'arrêt Moldowan devrait être appliqué comme il l'a été par le juge de première instance pour que soit atteint le but recherché par le Parlement. Je n'aurais pas fait cet énoncé si je n'avais pas été persuadé que les intentions du gouvernement communiquées au Parlement en 1951 et en 1952 peuvent en effet ne pas avoir été réalisées. Le Parlement a décidé de faire une distinction entre les gentlemen-farmers et les agriculteurs en fonction de leur source de revenu. Il peut ne pas avoir entendu traiter les contribuables tels que l'intimé comme il avait l'intention de traiter les gentlemen-farmers, ni refuser à ces derniers tout dégrèvement. Il pourrait y avoir lieu à une mesure corrective, mais on ne m'a toutefois pas convaincu que le test énoncé dans l'arrêt Moldowan est suffisamment élastique pour permettre aux tribunaux d'appliquer cette mesure. Ces derniers doivent interpréter ce qu'a dit le Parlement, ce qui n'est pas nécessairement ce qu'il peut avoir eu l'intention de dire.
+[17] Comme je l'ai indiqué, les éléments de preuve n'établissent pas que l'appelant a changé l'orientation de sa vie professionnelle en délaissant le droit pour se consacrer à l'agriculture au cours des années frappées d'appel, ou qu'il l'avait fait en 2005. Parmi les facteurs que je dois prendre en considération, seuls les capitaux investis peuvent militer en faveur de l'appelant. Il n'est pas contesté que la majeure partie de son emploi du temps est consacrée à son cabinet d'avocats, où il doit gérer un certain nombre d'employés à temps plein à son service, en plus de faire son propre travail d'avocat. Je suis bien conscient que le fait d'établir une comparaison entre le revenu agricole du contribuable et le revenu qu'il tire de sa profession d'avocat n'est pas qu'un simple exercice mathématique. Toutefois, jusqu'aux années en cause et pendant ces années, les résultats montrent que l'appelant a subi, sur une période de dix ans, des pertes considérables, dont les deux plus importantes ont été enregistrées au cours de l'année précédant les années frappées d'appel et au cours de la dernière de ces trois années. Au cours de la même décennie, le revenu que l'appelant a tiré de la pratique du droit a présenté une forte tendance à la hausse et les première et deuxième années en cause ont été deux des trois années les plus productives du cabinet d'avocats pour cette période de dix ans. Les éléments de preuve n'établissent pas non plus qu'il y a lieu de croire que cela pourrait changer considérablement dans les années à venir. Bien que des profits agricoles aient été réalisés en 2002 et en 2004, les éléments de preuve ne me persuadent pas qu'il s'agit d'une tendance qui durera nécessairement, ni que l'on puisse simplement faire abstraction des pertes en les qualifiant de pertes de démarrage. Il est vrai qu'en 1999, l'appelant s'est lancé dans la culture du tabac à titre de propriétaire d'une entreprise agricole, plutôt que sous le régime du métayage comme il avait fait auparavant. Il ne fait aucun doute que cela a aggravé ses pertes pour cette année-là - il s'agit de loin des pertes les plus importantes d'après les éléments de preuve qui m'ont été présentés. Toutefois, ce n'était qu'une question de degré; les pertes que l'appelant a subies au cours des 12 années précédentes ne peuvent être expliquées de cette façon. En outre, il est probable, d'après le témoignage de l'appelant, qu'une partie, voire la totalité, du modeste profit qu'il a réalisé en 2002 découle en partie des dépenses engagées pendant les années de démarrage, soit de 1999 à 2001. Des éléments de preuve indiquent que le revenu tiré de la culture du tabac n'a pas été produit avant l'année civile suivant la période où la majorité des dépenses ont été engagées.
+[18] Il est vrai que l'appelant a des biens agricoles, dont la valeur s'élève à environ 3 354 M$. Toutefois, sur ces 3 354 M$, 2,5 M$ représentent des terres et des bâtiments, dont certains ont été utilisés à des fins agricoles pendant la période en cause, et d'autres non. Je pense qu'il est raisonnable de conclure que les capitaux investis par l'appelant dans les terres et les bâtiments n'étaient pas à risque de la même façon que les capitaux investis dans la machinerie ou l'inventaire pourraient l'être. Je ne pense pas qu'il s'agisse d'un facteur suffisamment important pour l'emporter sur l'application respective du temps et des efforts de l'appelant ou sur la rentabilité potentielle respective du cabinet d'avocats et de l'exploitation agricole.
+[19] Il reste donc l'argument de l'appelant selon lequel la réussite financière de son cabinet d'avocats découle d'une synergie entre le cabinet d'avocats et son entreprise agricole, et que je devrais par conséquent conclure que la combinaison de ces deux entreprises constitue sa principale source de revenu, de façon que l'article 31 de la Loi ne s'applique pas à lui. À l'appui de cet argument, l'appelant se fonde sur le jugement du juge Rip dans la décision Gestion S.A.P. Inc. v. Canada[21]. Dans cette affaire, le contribuable était propriétaire d'une ferme bovine et laitière, dont il a essayé de déduire les pertes du profit de sa chaîne de magasins d'alimentation. Le juge Rip a soutenu que la principale source de revenu du contribuable était une combinaison de l'agriculture et des activités des magasins d'alimentation, et que l'article 31 ne s'appliquait pas à l'appelant. Toutefois, dans cette affaire, la raison d'être de l'entreprise agricole consistait expressément à fournir du boeuf de qualité supérieure aux magasins d'alimentation de l'appelante. La ferme a été achetée et intégrée dans l'entreprise d'alimentation sous un même toit social précisément pour cela, car le principal actionnaire avait remarqué que, pour réussir dans l'industrie de l'alimentation au détail, il faut avoir un fournisseur de viande de qualité supérieure. Le degré d'intégration est résumé par le juge Rip dans l'avant-dernier paragraphe de ses motifs :
+En achetant la ferme et en s'adonnant au type d'agriculture choisi, l'appelante visait son commerce de détail. Compte tenu des faits de l'espèce, l'activité agricole et les opérations de détail de l'appelante étaient liées, non pas par un simple fil, mais par un cordon ombilical : l'existence de la ferme était due à l'opération de détail de l'appelante, était maintenue par l'opération de détail et, selon la preuve, la ferme existait pour cette opération. La ferme et l'opération de détail visaient un objectif commun : accroître les ventes et les profits de l'appelante. Les deux étaient plus que simplement liées. Elles ont agi ensemble pour atteindre un but, celui de produire un revenu, et lorsque les opérations de détail ont cessé, celles de la ferme ont cessé aussi.
+[20] On ne peut en dire autant dans la présente affaire. Les avocats attirent des clients pour toutes sortes de raisons et de multiples façons. Je ne doute pas un seul instant que M. Gunn a obtenu de nombreux clients au fil des ans grâce aux relations qu'il a établies dans le cadre de son entreprise agricole. Toutefois, les éléments de preuve n'établissent pas le genre de synergie qui existait entre l'entreprise d'alimentation au détail et l'exploitation agricole de Gestion S.A.P. Inc. Je ne pense pas que l'on puisse dire, d'après les éléments de preuve produits à l'audience, que l'exploitation agricole de l'appelant a grandement contribué au succès de son cabinet d'avocats. En 1997, l'appelant était un avocat accompli à St. Thomas, et ce, depuis plus de 20 ans. Il avait plusieurs avocats à son service. À la lumière des éléments de preuve, je ne peux conclure que le cabinet d'avocats de l'appelant doit son existence, voire son succès, à l'entreprise agricole de celui-ci.
+[21] En résumé, l'exploitation agricole de l'appelant était, pour reprendre les propos du juge Dickson, « une entreprise secondaire[22] » . Elle n'était pas, ni à elle seule ni combinée au cabinet d'avocats, sa principale source de revenu. En établissant les cotisations à l'égard de l'appelant, le ministre a appliqué l'article 31 comme il se doit. Les appels sont rejetés, avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 12e jour de juillet 2005.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 27e jour de janvier 2006.
+Mario Lagacé, réviseur
+[1] Moldowan c. La Reine, [1978] 1 R.C.S. 480.
+[2] L'appelant a fait cette estimation en fonction des montants indiqués dans le bilan non vérifié au 31 décembre 2004. L'estimation ne tient compte ni des travaux en cours non facturés ni du fonds commercial.
+[3] La période peut être plus longue. Je n'ai aucune preuve de ses résultats financiers avant 1987, sauf pour quelques pièces de correspondance qui se trouvent à la pièce A-1 et qui se rapportent aux pertes agricoles déclarées en 1971 et en 1972.
+[4] 82 DTC 6148.
+[5] À la page 6151.
+[6] 91 DTC 5598.
+[7] À la page 5607.
+[8] 92 DTC 6294.
+[9] À la page 6297.
+[10] 94 DTC 1013.
+[11] À la page 1018.
+[12] 2004 DTC 2985.
+[13] À la page 2988.
+[14] 2002 DTC 7436.
+[15] Au paragr. 13 et 23.
+[16] 2002 DTC 7596
+[17] Au paragr. 3.
+[18] Voir Stewart c. Canada, [2002] 2 R.C.S. 645.
+[19] Moldowan (précité), p. 486.
+[20] 89 DTC 5080.
+[21] 94 DTC 1349.
+[22] Voir Moldowan c. La Reine (précité), p. 487.

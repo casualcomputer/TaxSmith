@@ -1,0 +1,203 @@
+Title: Welch v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29960/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-449-29960-welch-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-08-27
+
+# Welch v. The Queen
+
+- Citation: 2010 TCC 449
+- Decision date: 2010-08-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6445, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Welch v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-08-27
+Neutral citation
+2010 TCC 449
+File numbers
+2008-1387(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1387(IT)G
+BETWEEN:
+GREGORY J. WELCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 8, 2010, at Winnipeg, Manitoba.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Gregory M. Fleetwood
+Counsel for the Respondent:
+Cameron G. Regehr
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals with respect to the reassessments made under the Income Tax Act for the 2003 and 2004 taxation years are dismissed, with costs to the Respondent.
+Signed at Antigonish, Nova Scotia, this 27th day of August 2010.
+“S. D’Arcy”
+D'Arcy J.
+Docket: 2009-470(GST)G
+BETWEEN:
+GREGORY J. WELCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 8, 2010, at Winnipeg, Manitoba.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Gregory M. Fleetwood
+Counsel for the Respondent:
+Cameron G. Regehr
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessment made under the Excise Tax Act for the reporting periods between January 1, 2003 and December 31, 2004 is allowed, without costs.
+The assessment, dated March 15, 2007, is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Minister was required to reduce the net tax of the Appellant by the amount of GST the Appellant paid during the assessed reporting periods in respect of the payments to Cactus Cowboys Inc.
+Signed at Antigonish, Nova Scotia, this 27th day of August 2010.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2010 TCC 449
+Date: 20100827
+Docket: 2008-1387(IT)G
+2009-470(GST)G
+BETWEEN:
+GREGORY J. WELCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The Appellant has appealed income tax reassessments in respect of his 2003 and 2004 taxation years and a GST assessment in respect of his reporting periods that began on January 1, 2003 and ended on December 31, 2004.
+[2] The issues in both appeals arise from the payment of certain amounts by the Appellant to Cactus Cowboys Inc. (the "Cactus Cowboys Payments"). I will first consider the income tax appeal.
+Overview of income tax issues
+[3] The first income tax issue is the deductibility by the Appellant of the Cactus Cowboys Payments.
+[4] The Appellant is a 62-year-old lawyer who, during the relevant years, practised law as a sole practitioner in Winnipeg, Manitoba. He provided legal services to clients located in Manitoba and Ontario. The Appellant testified that in 2003 and 2004 his Manitoba practice focused on real estate law, corporate law, family law, and estate work. He noted that he had had an extensive motor vehicle personal injury practice in Manitoba prior to 1994; however, he stopped practising in this area once Manitoba adopted a no-fault insurance system.[1]
+[5] The Appellant testified that his Ontario practice was a general legal practice. He provided advice in respect of real estate law, family law, and personal injury claims. As will be discussed shortly, the issues in these appeals involve his Ontario personal injury practice.
+[6] Cactus Cowboys Inc. ("Cactus Cowboys") was incorporated in 1996. It originally had three shareholders, including the Appellant. On October 16, 1998, the Appellant purchased the shares of the other two shareholders. From 1999 onwards, the Appellant was the sole shareholder, director, and officer of the company.
+[7] From 1998 to 2004, Cactus Cowboys incurred losses from its horse racing and stable activities. These losses equalled $96,826 in 2003 and $170,036 in 2004.
+[8] The Appellant made the Cactus Cowboys Payments in 2003 and 2004 in respect of invoices issued by Cactus Cowboys. Each invoice was for "all consulting services rendered to this date" and contained a reference to a specific Ontario client of the Appellant. The invoices contained no other description of the services provided by Cactus Cowboys to the Appellant. Payments in respect of these invoices totalled $92,028 in 2003 and $163,712 in 2004. The payments were roughly equal to the amounts the Appellant billed his Ontario clients.
+[9] The Appellant did not report the fees he earned from his Ontario clients in his 2003 and 2004 income tax returns, nor did he claim deductions in those years with respect to the Cactus Cowboys Payments. He testified that this was an error[2] made by his accountant and that he had always intended to include in his taxable income the fees he earned from his Ontario clients and to claim an offsetting deduction for the Cactus Cowboys Payments.
+[10] The Minister reassessed Cactus Cowboys on April 3, 2007. The reassessment removed the Cactus Cowboys Payments from Cactus Cowboys' income.
+[11] The Minister reassessed the Appellant with respect to his 2003 and 2004 taxation years on March 29, 2007. The reassessments denied the Appellant a deduction for the Cactus Cowboys Payments. This was accomplished by including in the Appellant's income the fees he earned in the relevant years from his Ontario clients and not allowing any deductions for the Cactus Cowboys Payments.
+[12] It is the Appellant's position that the Cactus Cowboys Payments were made for services rendered by Cactus Cowboys to the Appellant. Counsel for the Appellant argued that when the Appellant rendered the services he did so in his role as an employee of Cactus Cowboys and not in his personal capacity as a lawyer. He argued that the Cactus Cowboys Payments were deductible since they were made in order to allow the Appellant to earn income and were reasonable.
+[13] It is the Respondent's position that no services were rendered by Cactus Cowboys to the Appellant. The only services rendered were those rendered by the Appellant to his clients. The Respondent argued that the Appellant was merely attempting to move income earned in his law practice to Cactus Cowboys, which had substantial non-capital losses.
+[14] The second income tax issue concerns the inclusion in the Appellant's income of certain amounts specified on invoices issued by the Appellant.
+[15] In each of the 2003 and 2004 taxation years, the Appellant issued a single invoice to Cactus Cowboys for "professional services rendered." The invoices contained no other description of the services. One invoice, dated December 3, 2003, was for $12,500 plus GST. The second invoice, dated December 30, 2004, was for $28,000 plus GST.
+[16] The Appellant included the $12,500 and $28,000 when calculating his taxable income for the 2003 and 2004 taxation years respectively. Similarly, Cactus Cowboys deducted the $12,500 and $28,000 when calculating its taxable income for those years.
+[17] In reassessing the Appellant and Cactus Cowboys, the Minister did not adjust the amounts included in the Appellant's income or the amounts deducted by Cactus Cowboys.
+[18] The Appellant' s counsel argued that by denying the deduction of the Cactus Cowboys Payments and including in income the $12,500 and $28,000 the Appellant invoiced to Cactus Cowboys, the Minister is double-counting the amounts the Appellant billed in respect of the work performed for his Ontario clients.
+[19] Counsel for the Respondent argued that the Appellant's invoices to Cactus Cowboys were legitimate invoices for professional services rendered by the Appellant.
+The Law
+[20] As counsel for the Appellant stated in his closing argument, this is a case that is to be decided on its facts.
+[21] The Appellant has the onus of establishing that the Cactus Cowboys Payments were made for services rendered by Cactus Cowboys, that those services, if they were in fact rendered, were acquired by the Appellant for the purpose of earning income from his law practice and, finally, that the Cactus Cowboys Payments were reasonable.
+The Appellant's testimony
+[22] The parties filed a Joint Book of Documents; however, the Appellant's testimony constituted most of his evidence with respect to the Cactus Cowboys Payments.
+[23] The Appellant began his testimony by summarizing his involvement with the Ontario personal injury system. He noted that in late 1996 Ontario introduced a new compensation system for individuals who suffered injuries in automobile accidents. The Appellant described the new system as a hybrid system; it had a no‑fault component, but if certain tests were satisfied, the injured party could pursue a tort action.
+[24] Apparently, the system was complicated and, in the Appellant's words, required a person with special knowledge.
+[25] The Appellant represented his first Ontario personal injury client in January 1998 and, by the summer of 1998, four other individuals retained him for advice with respect to Ontario personal injury claims. He realized that this was an excellent source of new work and began acquiring the required knowledge.
+[26] He testified that he did not personally acquire the required knowledge. Instead, in his view, Cactus Cowboys acquired that knowledge. It did so through the Appellant, who, in his capacity as an employee of Cactus Cowboys, attended numerous seminars hosted by the Law Society of Upper Canada and the Independent Insurance Adjusters Association of Ontario. He also called a number of lawyers in Thunder Bay[3] to discuss the new Ontario legislation.
+[27] The Appellant testified that in 1998 and 1999 Cactus Cowboys paid for copies of the Ontario legislation, paid his seminar fees, paid for the hotel rooms he stayed in while attending the seminars, and paid the entertainment expenses he incurred when attending the seminars. He provided no documentary evidence to support his testimony.
+[28] According to the Appellant, after he acquired the required knowledge, Cactus Cowboys began to provide expertise and expert advice with respect to the settlement of automobile injury claims under the Ontario legislation. The Appellant noted that prior to 2008 non‑lawyers were allowed to provide advice regarding the Ontario legislation.
+[29] The Appellant "got the idea" to use Cactus Cowboys in 1998. He approached his accountant for advice. The accountant thought it would be "OK" to use a corporation such as Cactus Cowboys to acquire the expertise with respect to the Ontario legislation. The Appellant did not provide any documentation evidencing the advice provided by the accountant.
+[30] The Appellant testified that Cactus Cowboys provided its services primarily to his law practice. He testified that Cactus Cowboys provided him with advice relating to such issues as the interface between accident benefits under the Ontario legislation and amounts that were required to be paid by the tortfeasor's insurance company, how to deal with situations where there were no claims under the legislation, and how to determine which insurance company was liable for the injuries suffered by his client.
+[31] He testified that he did not enter into a written contract with Cactus Cowboys. In fact, it appears that there was no correspondence between Cactus Cowboys and the Appellant with respect to the nature of the services provided by Cactus Cowboys. In addition, the Appellant did not provide the Court with copies of written memorandums, emails or other correspondence evidencing Cactus Cowboys' work product. The only written evidence before the Court regarding services being provided by Cactus Cowboys was copies of invoices issued by Cactus Cowboys to the Appellant.
+[32] The Appellant testified that Cactus Cowboys billed him on completion of each matter, since that was the point in time at which the Appellant was paid by the relevant insurance company (it appears that most, if not all, clients retained the Appellant on a contingency basis). The Joint Book of Documents contained examples of such billings. The Appellant explained that each of the billings occurred as follows:
+· The Appellant billed his individual client a certain amount for legal fees plus disbursements plus GST.
+· Either on the same day as the individual client was billed, or within one or two days, Cactus Cowboys billed the Appellant an amount equal to the legal fees billed to the client plus the disbursements shown on the invoice that were subject to GST.[4]
+· The Appellant recovered his fees from the settlement amounts paid by the relevant insurance company. Once the Appellant recovered his fees from the settlement payment, he paid the amount invoiced by Cactus Cowboys in respect of the particular client.[5]
+[33] Each of the invoices issued by the Appellant to his clients summarized the various legal services provided by the Appellant. The invoices referred to such things as attending examinations for discovery, drafting documents, service of documents, and telephone conversations. None of the invoices issued by Cactus Cowboys to the Appellant contained a description of the nature of the services provided, other than a general comment that the particular invoice was for "all consulting services rendered to this date."
+Analysis
+[34] I will begin my analysis by noting that, for the reasons discussed below, I have given very little weight to the oral testimony of the Appellant.
+[35] My concerns with the Appellant's oral evidence are illustrated by his testimony with respect to the following: Cactus Cowboys retaining third parties, Cactus Cowboys providing services to lawyers other than the Appellant, and the nature of the work performed by Cactus Cowboys.
+Cactus Cowboys providing services to lawyers other than the Appellant
+[36] The Appellant testified that Cactus Cowboys provided consulting services to other lawyers. In a letter to the CRA auditor dated February 23, 2007,[6] Mr. Robert Lee of Aikins, MacAulay & Thorvaldson, one of the Appellant's lawyers, stated, "However, in the past, the Corporation [Cactus Cowboys] has provided consulting services to other parties on a no-fees basis, in the hope of growing its consulting business."
+[37] During cross-examination, the witness, contradicting his lawyer, stated that Cactus Cowboys provided advice to some third parties on a for-fee basis, "dependent on the type of opinion that was being requested and certainly whether that opinion had to be in writing or not."[7] The story changed once again when the Court questioned the Appellant.
+[38] After the Appellant confirmed that Cactus Cowboys provided opinions to third parties for a fee, I asked him how a legal opinion could be provided on Cactus Cowboys' letterhead. The Appellant appeared to state that the written document was not an opinion but rather a summary of what he believed was the situation under the Ontario system.[8]
+[39] The Appellant did not produce any invoices or other documentation evidencing billings by Cactus Cowboys to third parties. Further, he did not provide the Court with copies of the written advice he claimed Cactus Cowboys provided to the third parties. When asked by counsel for the Respondent why he had not produced such evidence, he stated that, since the Respondent did not request the information, he did not feel any need to file it with the Court.
+Cactus Cowboys retaining third parties
+[40] The Appellant testified that Cactus Cowboys retained Ontario lawyers to provide it with advice in areas where it lacked the required expertise. He provided two examples.
+[41] The first example related to advice purportedly provided to Cactus Cowboys in 2004. The Appellant testified that Cactus Cowboys retained a law clerk employed by an Ontario law firm to research an issue that had arisen in a personal injury matter. The only documentary evidence provided by the Appellant in that regard was a copy of a cheque for $2,402.[9] The Appellant testified that Cactus Cowboys issued the cheque to the law firm that employed the law clerk. The "re" line of the cheque was blank. Although the Appellant testified that the law clerk provided a written opinion to Cactus Cowboys, the Appellant did not provide the Court with a copy of the written opinion. The Appellant could not recall whether the opinion was addressed to him (i.e. his legal practice) or to Cactus Cowboys. Further, the Appellant did not produce a copy of any other written or electronic communication between Cactus Cowboys and the law clerk (or the clerk's firm), or a copy of the invoice issued by the law firm.
+[42] The second example related to advice purportedly provided in 2004 to Cactus Cowboys by the Ontario law firm of Martin, Scrimshaw, Scott. Once again, the Appellant provided no documentary evidence to support his testimony, other than a copy of a Cactus Cowboys cheque to the law firm. He did not provide the Court with copies of the opinion, of correspondence with the law firm, or of the bill issued by the law firm. He could not recall the issue researched or the name of the related file.
+The nature of the work performed by Cactus Cowboys
+[43] The foundation of the Appellant's case was his testimony that Cactus Cowboys provided advice to him in respect of individuals who had suffered injuries in motor vehicle accidents. Tab 20 of the Joint Book of Documents contained twenty-five sample invoices issued by Cactus Cowboys to the Appellant in 2004. Each invoice contains a reference line, which, the Appellant testified, identifies the relevant client of the Appellant. For example, the Cactus Cowboys' invoice at page 1 of Tab 20 of the Joint Book of Documents is for $3,733 plus GST for "all consulting services rendered to date" in respect of a client of the Appellant who is identified on the reference line as "Besyk." The Appellant testified that "Besyk" was an individual who had suffered personal injuries in an automobile accident in Ontario.
+[44] The difficulty I have with the Appellant's testimony on this point is that seven of the twenty-five invoices in Tab 20 reference a client of the Appellant that is a corporation. Obviously, the corporations did not suffer injuries in automobile accidents. When he was asked to explain this discrepancy, I found the Appellant to be evasive. He stated that he had not reviewed these files and could not remember what services he had provided to the corporate clients.[10]
+[45] The invoices in Tab 20 are not consistent with the Appellant's testimony that the Cactus Cowboys Payments related to advice provided in respect of individuals. However, the invoices are consistent with a November 1, 2006 memorandum sent by the Appellant's accountant to the CRA auditor. The accountant states in the memorandum that "Greg's [the Appellant's] law practice generates fees from Manitoba and Ontario, fees from Greg's Ontario litigation practice are reported in Cactus Cowboys Inc., business number 894925031RC0001. All other fees are reported in Greg's personal tax return, specifically schedule T2124."[11]
+[46] The Joint Book of Documents contained two financial documents, which the Appellant identified as statements of earnings for his Ontario practice.[12] These documents show that the Cactus Cowboys Payments equalled the total revenue earned by the Appellant from his Ontario clients. The Appellant testified that, in addition to personal injury advice, he provided legal advice to his Ontario clients with respect to real estate and family law matters.
+[47] On the basis of this documentary evidence, I have concluded that the Cactus Cowboys Payments related to all of his Ontario legal practice, not just the personal injury portion of the practice.
+[48] The above three examples of the Appellant's testimony are consistent with a significant portion of his testimony. They illustrate why I have placed little weight on his oral testimony.
+[49] I am particularly concerned about the fact that nearly all of the Appellant's evidence consists of viva voce evidence, namely, his own testimony. He did not provide any documentary evidence with respect to the activities of Cactus Cowboys. In particular, he failed to produce:
+· any written or electronic communication between Cactus Cowboys and the Appellant evidencing an agreement for the provision of services by Cactus Cowboys to the Appellant;
+· any documentary evidence that the Appellant was an employee of Cactus Cowboys;
+· any documents, such as copies of memorandums, letters or emails, evidencing the work product produced by Cactus Cowboys.
+[50] The Appellant is an experienced litigator who knows the importance of documentary evidence. The Appellant did not explain why he did not produce the documentary evidence discussed above. I have consequently drawn a negative inference from this failure: either the documentation does not exist or, if it does exist, it is inconsistent with his testimony.
+[51] As noted previously, the onus is on the Appellant to establish that he made the Cactus Cowboys Payments in consideration of services rendered by Cactus Cowboys. He has not satisfied this onus. There is no reliable evidence before me to support a finding of fact that Cactus Cowboys rendered services to the Appellant.
+[52] After considering all of the evidence, I have concluded that the only services provided were the legal services provided by the Appellant to his clients.
+[53] The Appellant's counsel argued that cases such as the present one turn on their facts. He is correct. The evidence before me does not support the Appellant's position. The evidence supports the position of counsel for the Respondent that the Appellant was merely attempting to move income earned in his law practice to Cactus Cowboys.
+[54] The second income tax issue relates to the inclusion in the Appellant's income of amounts invoiced by the Appellant to Cactus Cowboys.
+[55] The Appellant testified that it was not "fair" for Cactus Cowboys to retain 100% of the fees and disbursements billed to his Ontario clients. He decided that Cactus Cowboys should pay an amount to him as consideration for his legal services. He determined that approximately 15% of the amounts billed to his clients represented a reasonable consideration for his legal services. He testified that he then issued invoices for $12,500 and $28,000 in the last month of 2003 and 2004 respectively. Copies of the invoices were included in the Joint Book of Documents. The invoices describe the services provided as follows: "For all professional services provided to you in respect of Cactus Cowboys."[13] The Appellant did not provide the Court with any documentary evidence to tie the Cactus Cowboys Payments to his annual invoices issued to Cactus Cowboys.
+[56] On the basis of the evidence before the Court, I agree with counsel for the Respondent that the invoices appear to be legitimate invoices for services rendered. The invoices refer to all professional services rendered in respect of Cactus Cowboys. It is clear from the financial statements included in the Joint Book of Documents that Cactus Cowboys' stable and horse operations were substantial. Normally, such substantial operations require, at some point in time, legal advice. As a result, I see no reason why I should remove from the Appellant's taxable income legal fees from a valid invoice issued by a lawyer (the Appellant) for legal services.
+[57] For the foregoing reasons, the Appellant's appeals with respect to the income tax issues are dismissed, with costs to the Respondent.
+GST Appeal
+[58] The Appellant did not report on his GST returns for the reporting periods that began on January 1, 2003 and ended on December 31, 2004 (the "GST Reporting Periods") any net tax in respect of his Ontario clients. He did not report any GST collected or collectable and did not claim any input tax credits.
+[59] In assessing the Appellant for the GST Reporting Periods, the Minister increased the Appellant's net tax by $17,901.80, that is, the amount of GST collected or collectable on the supplies made by the Appellant to his Ontario clients. The Minister did not allow any input tax credits in respect of the Cactus Cowboys Payments.
+[60] Both parties accepted the fact that the Appellant paid Cactus Cowboys GST in respect of the Cactus Cowboys Payments, that Cactus Cowboys remitted the GST, and that such GST equalled the GST payable by the Appellant's Ontario clients.
+[61] It was the Respondent's position that the Appellant could not claim input tax credits under subsection 169(1) of Part IX of the Excise Tax Act (the "GST legislation") since he did not acquire services from Cactus Cowboys. The Cactus Cowboys Payments were simply a transfer of funds. Counsel for the Respondent also relied upon the fact that the GST in respect of the Cactus Cowboys Payments had been refunded by the CRA to Cactus Cowboys.
+[62] It is not clear to me upon what basis the Minister refunded the GST to Cactus Cowboys. Subsection 225(1) of the GST legislation requires a person to add to his or her net tax all amounts collected or collectable by the person as or on account of tax. It is clear from the invoices included in Tabs 19, 20 and 22 of Exhibit R-1 that the amounts in question were collected by Cactus Cowboys as tax and thus were remittable under subsection 225(1) of the GST legislation. I am not aware of any provision in the GST legislation that grants the Minister the discretion to refund to a registrant tax that the registrant has properly remitted. Section 232 of the GST legislation allows a registrant, such as Cactus Cowboys, to claim a credit when it refunds tax collected in error and issues a credit note in prescribed form. The Appellant testified that this did not occur, and the Respondent did not argue that Cactus Cowboys refunded the tax to the Appellant or that it issued a prescribed credit note.
+[63] Whether or not the CRA refunded tax to Cactus Cowboys is irrelevant when one is determining whether the Appellant was entitled to credits in respect of the Cactus Cowboys Payments.
+[64] In assessing the net tax of the Appellant, the Minister was required under subsections 296(2) and (2.1) of the GST legislation to take into account any allowable input tax credits or rebates that the Appellant was entitled to claim during the applicable reporting period. In other words, the Minister was under a statutory obligation to audit to net tax.
+[65] The Appellant paid amounts to Cactus Cowboys on account of tax. However, Cactus Cowboys did not make a supply to the Appellant. As a result, all of the tax paid by the Appellant in respect of the Cactus Cowboys Payments was paid in error. The Appellant was entitled to claim, under section 261 of the GST legislation, a rebate with regard to the tax paid in error. When assessing the net tax of the Appellant, the Minister was required under subsection 296(2.1) of the GST legislation to apply the allowable rebate for the tax paid in error against the net tax of the Appellant.
+[66] For these reasons, the appeal with respect to the assessment made under the GST legislation for the reporting periods of the Appellant that began on January 1, 2003 and ended on December 31, 2004 is allowed, without costs. The assessment, dated March 15, 2007, is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Minister was required to reduce the net tax of the Appellant by the amount of GST the Appellant paid during the assessed reporting periods in respect of the Cactus Cowboys Payments.
+Signed at Antigonish, Nova Scotia, this 27th day of August 2010.
+“S. D’Arcy”
+D'Arcy J.
+CITATION: 2010 TCC 449
+COURT FILE NO.: 2008-1387(IT)G
+2009-470(GST)G
+STYLE OF CAUSE: GREGORY J. WELCH v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: April 8, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT: August 27, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Gregory M. Fleetwood
+Counsel for the Respondent:
+Cameron G. Regehr
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gregory M. Fleetwood
+Firm: Aikins, MacAulay & Thorvaldson LLP
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Apparently, Manitoba adopted this system in 1994.
+[2] The Appellant testified that he did not become aware of the error until he received the Respondent's Book of Documents in October 2009.
+[3] He had previously practised in Thunder Bay.
+[4] It is not clear to the Court why the Cactus Cowboys Payments were based, in part, on the disbursements subject to GST. I agree with counsel for the Respondent that the payments were probably calculated by dividing the total GST shown on the invoice issued to the Appellant's client by .07% (the GST rate).
+[5] The amount of the Cactus Cowboys Payment normally equalled the amount recovered from the insurance company settlement.
+[6] Exhibit R-1, Tab 1.
+[7] Transcript, page 122.
+[8] Transcript, page 152.
+[9] Exhibit R-1, Tab 26.
+[10] Although he could not remember the specific services provided, he thought that the services must have related to an employee of the corporation who had been involved in an automobile accident. He did not provide any documentation to support this thought.
+[11] Exhibit R-1, Tab 17.
+[12] Exhibit R-1, Tabs 32 and 34.
+[13] Exhibit R-1, Tabs 24 and 25.

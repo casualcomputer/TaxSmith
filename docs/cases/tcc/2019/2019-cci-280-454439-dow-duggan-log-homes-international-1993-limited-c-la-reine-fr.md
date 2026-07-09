@@ -1,0 +1,325 @@
+---
+title: "Dow & Duggan Log Homes International (1993) Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/454439/index.do"
+last_modified: "2019-12-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 280"
+citation2: ""
+neutral_citation: "2019 CCI 280"
+decision_date: "2019-12-12"
+language: "fr"
+item_id: "454439"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4292
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:04:44.540000+00:00"
+cases_cited_count: 10
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "56418d882dbf9f28daebb42a47ef43be942a2757b95595fd9e1742d8bdd6a50c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dow & Duggan Log Homes International (1993) Limited c. La Reine
+
+- Citation: 2019 CCI 280
+- Decision date: 2019-12-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4292, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dow & Duggan Log Homes International (1993) Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-12-12
+Référence neutre
+2019 CCI 280
+Numéro de dossier
+2017-2928(GST)G
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-2928(GST)G
+ENTRE :
+DOW & DUGGAN LOG HOMES INTERNATIONAL (1993) LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 28, 29 et 30 mai 2019, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Avocat de l’appelante :
+Me Gerard Tompkins, c.r.
+Avocate de l’intimée :
+Me Rhoda Lemphers
+JUGEMENT
+L’appel interjeté aux termes de la Loi sur la taxe d’accise à l’encontre de l’avis de cotisation en date du 26 septembre 2014 pour la période du 1er mai 2011 au 31 décembre 2013 est accueilli, sans dépens, et la cotisation est déférée au ministre du Revenu national pour réexamen et nouvelle cotisation, pour les motifs suivants :
+1. en ce qui concerne la TVH non perçue sur les ventes :
+a) la vente réalisée le 31 juillet 2012 pour un produit de 64 309,89 $ est une fourniture détaxée;
+b) la vente réalisée le 13 juin 2011 pour un produit de 158 372,00 $ est une fourniture détaxée;
+2. en ce qui concerne la TVH sur les avantages imposables relatifs aux véhicules, la TVH est réduite de 351,49 $ pour 2011, 2012 et 2013, ce qui donne une réduction totale de 1 054,47 $;
+3. la pénalité aux termes de l’article 285 relativement à la TVH non perçue, d’une somme de 50 814,85 $, est supprimée;
+4. la cotisation établie par le ministre est maintenue à tous les autres égards.
+Signé à Ottawa, Canada, ce 12e jour de décembre 2019.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+ce 22e jour de mai 2020.
+Mario Lagacé, jurilinguiste
+Référence : 2019 CCI 280
+Date : 20191212
+Dossier : 2017-2928(GST)G
+ENTRE :
+DOW & DUGGAN LOG HOMES INTERNATIONAL (1993) LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+Introduction
+[1] L’appelante, Dow & Duggan Log Homes International (1993) Limited, en appelle de la cotisation établie par le ministre du Revenu national, le 26 septembre 2014, aux termes de la partie IX de la Loi sur la taxe d’accise, pour la période du 1er mai 2011 au 31 décembre 2013 (la « période »).
+Questions
+[2] À la lumière de l’avis de cotisation, de l’avis de confirmation et des plaidoiries, je résumerais les questions comme suit :
+a) TVH non versée de 13 210,37 $;
+b) TVH non perçue de 202 684,94 $;
+c) crédit de taxe de vente sur les intrants rejetés de 8 280,03 $;
+d) TVH de 7 829,58 $ sur les avantages imposables relatifs aux véhicules;
+e) pénalités aux termes de l’article 285 (négligence grave) pour les points b) et d) de la présente liste.
+[3] Au début de l’audience, l’avocat de l’appelante a indiqué que les points a) et c) n’étaient plus en litige.
+[4] À la clôture de la présentation de la preuve, l’avocate de l’intimée a indiqué que celle-ci était prête à admettre les sommes suivantes :
+en ce qui concerne le point b), la somme de 8 388,25 $, qui se rapportait à une vente réalisée le 31 juillet 2012 totalisant 64 309,89 $ (TVH comprise);
+en ce qui concerne le point e), la totalité de la pénalité de 50 814,85 $ relative au point b).
+[5] Par conséquent, les questions en suspens se résument ainsi :
+TVH non perçue de 202 684,94 $, moins la somme de 8 388,25 $ admise par l’intimée;
+TVH de 7 829,58 $ sur les avantages imposables relatifs aux véhicules;
+pénalités de 1 957,15 $ aux termes de l’article 285 (négligence grave) sur les avantages imposables relatifs aux véhicules.
+A. TVH non perçue sur les ventes
+[6] Il y a 22 sommes à l’égard desquelles le ministre a établi une cotisation de TVH; celles-ci sont énumérées à l’annexe B de la réponse à l’avis d’appel. Cette annexe a été déposée en preuve [pièce R-2], et les 22 postes ont été numérotés. L’annexe indique que les sources des postes individuels comprennent des factures, des reçus, des écritures de journal générales et des chèques.
+[7] Comme il est indiqué sous la rubrique « Questions en litige » des présents motifs, la somme de 8 388,25 $ [ligne 14 de la pièce R-2] a été concédée par l’intimée à la fin de la clôture de la présentation de la preuve.
+[8] L’appelante est d’avis que les sommes assujetties à la taxe dans la pièce R-2 sont soit des exportations (et donc détaxées), soit des dépôts sur les ventes (de sorte que la TVH serait perçue sur la vente finale), soit des travaux en cours (prétraitement du bois en vue de ventes futures, de sorte qu’aucune TVH ne serait perçue parce qu’il n’y a pas eu de vente), ou soit exonérées de la taxe aux termes de l’article 87 de la Loi sur les Indiens.
+Contexte factuel – Fournitures détaxées
+[9] L’appelante est une société de la Nouvelle-Écosse qui fabrique et vend des maisons préfabriquées en bois rond.
+[10] L’appelante est détenue et exploitée par deux partenaires commerciaux, Stephen Dow et Michael Duggan.
+[11] MM. Dow et Duggan ont démarré leur entreprise à partir de zéro au début des années 1980, sous la dénomination Dow & Duggan Log Homes International Limited. La version actuelle de l’entreprise a lancé ses opérations en 1993.
+[12] M. Duggan se concentrait sur l’aspect fabrication et production de l’entreprise, tandis que M. Dow était chargé de trouver des clients potentiels pour l’appelante.
+[13] Dans son témoignage, M. Duggan a expliqué qu’au cours des dix dernières années, environ la moitié des ventes de l’appelante étaient des exportations et que la composante exportation était cyclique en raison de l’économie. Il a indiqué, à titre d’exemple, que l’appelante avait récemment vendu des maisons en bois rond au Danemark et en Allemagne, de sorte que le volet exportation de ses activités commençait à reprendre de la vigueur.
+[14] M. Dow a déclaré qu’il était responsable d’obtenir des contrats pour l’appelante, tant au pays qu’à l’étranger. Dans son témoignage, il a expliqué que l’appelante devait mettre au point un produit capable de concurrencer les fabricants allemands et suédois et de se conformer aux exigences européennes en matière d’environnement et de consommation d’énergie.
+[15] Il a déclaré que l’appelante devait également être en mesure de charger et d’expédier ses produits de façon satisfaisante. Il a témoigné que l’appelante faisait appel à une entreprise internationale de transport de marchandises appelée Alliance World Transport. Selon lui, l’appelante avait expédié trois ou quatre mille maisons en bois rond au fil des ans et Alliance avait pris part à un grand nombre de ces livraisons.
+[16] M. Duggan a témoigné que, pendant la période visée, l’appelante s’est fiée à un commis-comptable interne qui travaillait avec l’entreprise depuis 26 ans. M. Dow a témoigné que ce commis-comptable s’occupait, entre autres, de la collecte du courrier de l’appelante, de la préparation des factures et de la paie. M. Duggan a déclaré que lui et M. Dow travaillaient de longues heures et qu’ils faisaient entièrement confiance à cette personne. M. Duggan a également expliqué qu’ils ont découvert plus tard que le commis-comptable avait volé au moins 250 000 $ à l’appelante en manipulant ses dossiers et en se servant de sa carte de crédit, entre autres.
+[17] M. Dow a témoigné que l’appelante a été avisée des vols à répétition lorsque sa banque a communiqué avec elle au sujet de certaines transactions louches. Il a déclaré que le vol a été signalé à la GRC, qui leur a dit qu’une enquête prendrait beaucoup de temps et qu’il faudrait des copies des dossiers de l’appelante. Il a témoigné que l’appelante pouvait toujours demander à la GRC de faire enquête, mais qu’entre-temps, ils ont décidé de ne pas poursuivre le commis-comptable parce que tous ses biens avaient été portés au nom de son épouse.
+[18] Hayley Warner est copropriétaire et directrice générale d’Alliance World Transport (« Alliance »). Elle a déclaré qu’elle œuvrait dans le domaine du transport international de marchandises depuis 25 ans et qu’elle avait travaillé avec l’appelante pendant plusieurs années. Elle a témoigné qu’Alliance expédie de deux à trois mille conteneurs par année et que la Nouvelle-Écosse est l’un de ses marchés de moindre importance. Elle a déclaré qu’elle ne pouvait pas estimer le nombre de transactions qu’Alliance avait effectuées avec l’appelante au cours de la période, mais qu’elle pouvait affirmer que l’essentiel des affaires avec l’appelante s’est déroulé de 2011 à 2013.
+[19] On a montré à Mme Warner des copies de six formulaires DECA (Déclaration d’exportation canadienne automatisée) remplis [pièces A-8 à A-13]. Elle a indiqué que chaque exportateur est tenu de déclarer ses exportations à l’Agence des services frontaliers du Canada et à Statistique Canada. Elle a confirmé son numéro d’entreprise sur les déclarations et a déclaré qu’Alliance recevait également un numéro d’autorisation pour chaque exportation.
+[20] Mme Warner a témoigné que c’est l’exportateur qui déterminait les conditions de vente de ses marchandises en particulier, de sorte qu’Alliance ne participerait pas nécessairement au transfert de propriété de la marchandise expédiée. Elle a déclaré que le transfert de propriété a lieu lorsque le connaissement est transféré; toutefois, le transfert du connaissement ne signifie pas que le vendeur a reçu le paiement. Elle a souligné que, même lorsque Alliance participait au transfert de propriété, elle ne participait pas à la vente.
+[21] En ce qui concerne les six formulaires de déclaration DECA, elle a indiqué en contre-interrogatoire que le système de déclaration est automatisé et que ces formulaires auraient été transférés par voie électronique d’Alliance à l’ASFC. Elle a déclaré que, de ce fait, les formulaires de déclaration n’étaient plus estampillés par l’ASFC. Elle a également témoigné qu’elle avait réimprimé ces formulaires particuliers à partir des dossiers d’Alliance à la demande de l’appelante deux ou trois semaines avant la présente audience.
+[22] En ce qui concerne les six formulaires de déclaration DECA, Mme Warner les a décrits comme des exemples de transactions courantes pour l’appelante. Elle a également déclaré qu’elle reconnaissait l’un des consignataires, Quarry Walk Park Limited, comme un client régulier de l’appelante [pièce A-13].
+Cadre législatif – Fournitures détaxées
+[23] L’annexe VI de la Loi sur la taxe d’accise porte sur les fournitures détaxées, c’est-à-dire des fournitures taxables qui sont taxées à un taux de 0 %.
+[24] Plus précisément, la partie V de l’annexe VI traite des exportations; ses dispositions pertinentes sont les articles 1 et 12.
+[25] L’article 1 de la partie V de l’annexe VI traite des situations où une fourniture est effectuée au profit d’un acquéreur qui exporte immédiatement les produits. Comme il n’y avait pas d’acquéreurs intermédiaires dans le cas présent, seul l’article 12 s’applique.
+[26] L’article 12 prévoit ce qui suit :
+12. [Biens livrés à l’étranger] – La fourniture d’un bien meuble corporel (sauf un produit transporté en continu au moyen d’un fil, d’un pipeline ou d’une autre canalisation), dans le cas où le fournisseur, selon le cas :
+a) expédie le bien à une destination à l’étranger, précisée dans le contrat de factage visant le bien;
+b) transfère la possession du bien à un transporteur public ou à un consignataire qui a été chargé d’expédier le bien à une destination à l’étranger par l’une des personnes suivantes :
+(i) le fournisseur pour le compte de l’acquéreur,
+(ii) l’employeur de l’acquéreur;
+c) envoie le bien par courrier ou messager à une adresse à l’étranger.
+[27] Une fourniture qui remplit une ou plusieurs des conditions énoncées à l’article 12 sera assujettie à la taxe au taux de 0 %.
+[28] Le paragraphe 1(e) de la partie V de l’annexe VI prévoit l’exigence suivante en matière de preuve :
+1. [Biens achetés pour exportation immédiate] – La fourniture d’un bien meuble corporel, sauf un produit soumis à l’accise, effectuée par une personne au profit d’un acquéreur, autre qu’un consommateur, qui a l’intention d’exporter le bien, si à la fois :
+[...]
+e) la personne possède des preuves, que le ministre estime acceptables, de l’exportation du bien par l’acquéreur.
+[29] Le paragraphe 16 et l’annexe du Mémorandum sur la TPS/TVH 4.5.2 du ministre indiquent que, pour se conformer au paragraphe 1e) de la partie V de l’annexe VI, une preuve satisfaisante peut comprendre les documents suivants :
+– la facture de vente ou le contrat d’achat sur lequel on nomme le bien et l’acquéreur, qui correspond aux instructions d’expédition ou de livraison indiquées sur le bon de commande;
+– le document de transport décrivant le service de livraison, comme le connaissement remis par le transporteur ou en son nom, qui constitue la preuve qu’un contrat de transport a été conclu et que le bien a été livré à bord d’un moyen de transport;
+– des factures de courtiers en douane ou d’expéditionnaires se rapportant au bien exporté;
+– les documents d’importation requis par le pays où le bien est exporté;
+– dans le cas de véhicules à moteur, de bateaux, de navires et d’aéronefs, des copies de l’enregistrement auprès de l’organisme de réglementation étranger où le bien a été immatriculé;
+– une autre preuve (qui n’est pas créée par l’acquéreur), acceptable pour l’Agence du revenu du Canada de l’exportation du bien.
+[30] L’article 12 ne fait aucune mention d’un seuil de preuve, bien que le ministre adopte et applique le même seuil aux deux articles [selon le paragraphe 21 du Mémorandum sur la TPS/TVH 4.5.2].
+Analyse – Fournitures détaxées
+[31] La Cour a déjà conclu que le seuil de preuve prévu à l’article 1 de la partie V de l’annexe VI signifie : 1) que le ministre a le pouvoir discrétionnaire d’établir la norme déterminant si les éléments de preuve sont satisfaisants aux fins de la détaxation aux termes de cet article; et 2) que la Cour ne devrait pas intervenir à moins que le ministre ne commette une erreur susceptible de révision dans l’exercice de son pouvoir discrétionnaire : voir les décisions Nwaukoni c. La Reine, 2018 CCI 252, au paragraphe 15; Style Auto G.J. c. La Reine, 2007 CCI 597, [2007] ACI no 491, au paragraphe 11; et Uranus Auto Sales c. La Reine [2002] G.S.T.C. 39, au paragraphe 13.
+[32] Toutefois, c’est l’article 12 de la partie V de l’annexe VI qui s’applique au cas présent puisqu’il n’y avait pas d’acquéreurs intermédiaires des envois de l’appelante.
+[33] L’intimée soutient que la norme de preuve de l’article 1 devrait s’appliquer à l’article 12, c’est-à-dire que le ministre a le pouvoir discrétionnaire de déterminer ce qui constituera une preuve satisfaisante et que la Cour ne devrait pas intervenir à moins qu’il ne commette une erreur susceptible de révision dans l’exercice de ce pouvoir discrétionnaire.
+[34] L’intimée soutient également qu’en ce qui concerne l’article 12, la liste des éléments qui constituent une preuve satisfaisante est la même que pour l’article 1.
+[35] Dans l’arrêt Hypothèques Trustco Canada c. Canada, 2005 CSC 54, 2005 DTC 5523, au paragraphe 11, la Cour suprême a déclaré ce qui suit au sujet des lois fiscales canadiennes :
+Lorsque le législateur précise les conditions à remplir pour obtenir un résultat donné, on peut raisonnablement supposer qu’il a voulu que le contribuable s’appuie sur ces dispositions pour obtenir le résultat qu’elles prescrivent.
+[36] Dans l’arrêt A.Y.S.A. Amateur Youth Soccer Association c. Canada (Agence du revenu), 2007 CSC 42, [2007] 3 RCS 217, au paragraphe 16, la Cour suprême a également déclaré ce qui suit au sujet des lois fiscales :
+Il est bien établi que la méthode d’interprétation moderne s’applique aux lois fiscales de la même façon qu’aux autres lois, c’est-à-dire qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » (Placer Dome Canada Ltd. c. Ontario (Ministre des Finances), [2006] 1 R.C.S. 715, 2006 CSC 20, par. 21; E. A. Driedger, Construction of Statutes (2e éd. 1983), p. 87). Cependant, en raison du degré de précision et des caractéristiques particulières de nombreuses dispositions fiscales, on a souvent insisté sur l’interprétation textuelle dans le cas des lois fiscales : Hypothèques Trustco Canada c. Canada, [2005] 2 R.C.S. 601, 2005 CSC 54, par. 11; Placer Dome, par. 23. Comme la juge McLachlin (plus tard Juge en chef) l’a exposé au nom de la Cour dans Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622, par. 43 :
+La [LIR ] est un texte législatif complexe au moyen duquel le législateur tente d’établir un équilibre entre d’innombrables principes. La jurisprudence de notre Cour est constante : les tribunaux doivent par conséquent faire preuve de prudence lorsqu’il s’agit d’attribuer au législateur, à l’égard d’une disposition claire de la Loi, une intention non explicite : Canderel Ltd. c. Canada, [1998] 1 R.C.S. 147, au par. 41, le juge Iacobucci; Banque Royale du Canada c. Sparrow Electric Corp., [1997] 1 R.C.S. 411, au par. 112, le juge Iacobucci; Antosko, précité, à la p. 328, le juge Iacobucci. En concluant à l’existence d’une intention non exprimée par le législateur sous couvert d’une interprétation fondée sur l’objet, l’on risque de rompre l’équilibre que le législateur a tenté d’établir dans la Loi.
+[37] Je ne suis pas d’accord avec l’affirmation de l’intimée que, dans les situations où une disposition ne fait aucune mention d’un seuil de preuve, il est approprié ou correct de prendre un seuil d’une autre disposition et de l’appliquer à la première disposition avec la même force de loi. Une telle façon de faire va à l’encontre des principes d’interprétation des lois établis par la Cour suprême du Canada pour traiter des lois fiscales.
+[38] L’article 1 de la partie V de l’annexe VI traite des exportations concernant des acquéreurs intermédiaires et comporte un seuil de preuve équivalent au pouvoir discrétionnaire du ministre. L’article 12 de la partie V de l’annexe VI traite des exportations directes et ne fait aucunement mention d’un seuil de preuve. Selon une interprétation législative cohérente de ces deux dispositions qui se trouvent dans la même annexe et dans la même partie de la Loi, le législateur a voulu que l’article 1 soit le seul à comporter un seuil de preuve discrétionnaire.
+[39] Je suis d’avis qu’en ce qui concerne l’article 12, il est logique et raisonnable de se référer à la liste des preuves satisfaisantes établies par le ministre pour se qualifier aux termes de l’article 1 comme ligne directrice pour l’article 12. Toutefois, rien dans la Loi n’appuie l’interprétation selon laquelle le ministre a le pouvoir discrétionnaire de décider ce qui constitue une preuve suffisante aux fins de l’article 12, de sorte que la Cour ne devrait pas intervenir à moins qu’il ne commette une erreur susceptible de révision.
+[40] M. Dow, M. Duggan et Mme Warner étaient, selon moi, des témoins crédibles.
+[41] Toutefois, il est difficile d’ignorer l’absence de preuve documentaire lorsque les dispositions législatives en question s’appuient fortement sur la documentation. Par exemple, la transaction à la ligne 5 de la pièce R-2 est étayée par un reçu de vente non signé émis à un acheteur du Royaume-Uni, d’une somme de 61 730,50 $, et par un bon de commande signé; il n’y a aucun document relatif à la livraison.
+[42] Le paragraphe 286(1) de la Loi exige que toute personne qui exploite une entreprise ou qui exerce une activité commerciale tienne des livres et des registres adéquats afin que le ministre puisse déterminer toute somme due à ou par la personne. Le paragraphe 286(3) exige que ces registres soient conservés pendant une période de six ans suivant la fin de l’année qu’ils visent. Le paragraphe 286(4) dispose que, lorsqu’une question fait l’objet d’une opposition ou d’un appel, la personne est tenue de conserver ses registres jusqu’à ce qu’il en soit décidé définitivement.
+[43] La vérification a été effectuée en septembre 2014, d’après le rapport de vérification [pièce R-1, onglet 58] et l’avis de nouvelle cotisation [pièce R-1, onglet 59]. J’estime que les actes commis par le commis-comptable de l’appelante ont probablement contribué à l’absence de dossiers complets. Toutefois, je crois également que les dirigeants de l’appelante se sont fiés en grande partie à leurs connaissances et à leurs souvenirs quotidiens pour mener leurs affaires, de sorte qu’une reconstitution de leurs dossiers aurait probablement été incomplète de toute façon.
+[44] Le témoignage oral de MM. Dow et Duggan n’était pas suffisamment précis et détaillé pour que je puisse distinguer clairement une transaction d’une autre ou pour suivre une transaction particulière du début à la fin. Le manque de précision et de détails de leur témoignage a été aggravé par le fait que le vérificateur de l’Agence du revenu du Canada qui a effectué cette vérification n’a pas témoigné.
+[45] En ce qui concerne la somme de 158 372,00 $ [pièce R-2, ligne 1], je vois les références suivantes dans la preuve :
+a) une facture datée du 13 juin 2011, émise à un acheteur en Angleterre et indiquant que le destinataire est un dénommé John Harris, à Bristol [pièce R-1, onglet 2];
+b) un bon de commande daté du 2 avril 2011, signé par MM. Dow et Harris. Ce document identifie M. Harris comme étant le signataire de Canadian Log Homes U.K. Ltd; il indique que l’achat est effectué pour un complexe appelé Quarry Walk et que l’expédition nécessitera deux conteneurs de 40 pieds de hauteur [pièce R-1, onglet 2];
+c) un fil de discussion par courriel, dont les dates vont du 28 février au 16 mars 2012, entre Mme Warner, M. Harris, un commissionnaire de transport de Liverpool et le directeur général de QuarryWalkParkLtd. portant sur la logistique de l’expédition de deux conteneurs et confirmant que l’importateur sera QuarryWalkParkLtd. [pièce R-1, onglet 61];
+d) une copie d’un connaissement portant la date du 12 mars 2012, qui identifie l’appelante comme l’exportateur, QuarryWalkParkLtd. et John Harris conjointement comme les consignataires et Alliance comme le commissionnaire de transport. Le connaissement indique que deux conteneurs de 40 pieds ont été déclarés [pièce R-1, onglet 61];
+e) les documents de travail du vérificateur, qui mentionnent que cette opération est exonérée de la taxe [pièce R-1, onglets 26 et 27];
+f) le document de travail du vérificateur, qui mentionne que cette opération est exonérée de la taxe [pièce R-1, onglet 28];
+g) le document de travail du vérificateur, qui désigne cette opération par la mention « Verified England[sp] TE », où TE signifie, je présume, « exonérée de la taxe » (tax exempt) [pièce R-1, onglet 29];
+h) le rapport de vérification qui indique que [TRADUCTION] « les obligations fiscales liées à la TPS/TVH ont été vérifiées en fonction du lieu de fourniture » et que [TRADUCTION] « les fournitures détaxées ont été refusées en raison de documents incomplets » [pièce R-1, onglet 58, page F3];
+i) le rapport de vérification indiquant que cette transaction a fait l’objet d’un redressement parce que l’appelante n’a pas perçu et versé la TVH d’une somme de 20 657 $ [pièce R-1, onglet 58, page F6].
+[46] D’après les éléments de preuve ci-dessus, je conclus, selon la prépondérance des probabilités, que cette opération d’une somme de 158 372 $ était une fourniture détaxée d’un bien meuble corporel aux termes du sous-alinéa 12b)i) de la partie V de l’annexe VI, c’est-à-dire que l’appelante a transféré la propriété du bien à un transporteur public ou à un consignataire qu’elle a retenu pour le compte de l’acquéreur, afin d’expédier le bien à une destination à l’étranger.
+[47] Je ne disposais pas de suffisamment de preuves pour retracer adéquatement les autres opérations et conclure qu’elles étaient détaxées.
+Contexte factuel – Exemption aux termes de l’article 87 de la Loi sur les Indiens
+[48] L’appelante a vendu une maison en bois rond à un dénommé Charles Phillips pour la somme de 43 500 $ [pièce R-2, ligne 2].
+[49] Une copie d’un reçu de vente daté du 26 septembre 2011 indique qu’un dépôt de 10 000 $ a été versé par M. Phillips [pièce R-1, onglet 10] et une copie d’un contrat d’achat non signé daté du 6 avril 2013 indique ce qui suit :
+j) un prix d’achat de 43 500 $;
+k) aucune taxe n’a été perçue parce que M. Phillips était membre inscrit d’une Première nation;
+l) l’adresse de M. Phillips à Lower Sackville, en Nouvelle-Écosse;
+m) un point de livraison sur Lakeshore Drive, à New Russell, en Nouvelle-Écosse.
+[pièce R-1, onglet 10].
+[50] M. Dow a témoigné que, lorsqu’il a rencontré M. Phillips et son épouse, ceux-ci ne savaient pas où se procurer un camion approprié pour le chargement et le transport de leur achat. M. Dow a déclaré qu’en conséquence l’appelante a pris des dispositions pour obtenir le camion au nom de M. Phillips et a fait livrer son achat à la réserve.
+[51] M. Phillips n’a pas témoigné, mais a signé une déclaration manuscrite (la date n’est pas claire) dans laquelle il a affirmé que la maison en bois rond lui avait été livrée dans la réserve, à une station-service située sur Caldwell Road, à Dartmouth. Une copie de son certificat de statut d’Indien était jointe à la déclaration manuscrite, indiquant qu’il est membre de la Première nation de Millbrook [pièce R-1, onglet 10].
+Cadre législatif – Exemption aux termes de l’article 87 de la Loi sur les Indiens
+[52] L’article 87 de la Loi sur les Indiens dispose que :
+87. (1) Nonobstant toute autre loi fédérale ou provinciale, mais sous réserve de l’article 83 et de l’article 5 de la Loi sur la gestion financière des premières nations, les biens suivants sont exemptés de taxation :
+a) le droit d’un Indien ou d’une bande sur une réserve ou des terres cédées;
+b) les biens meubles d’un Indien ou d’une bande situés sur une réserve.
+[53] L’article 83 de la Loi sur les Indiens porte sur les règlements administratifs financiers adoptés par le conseil d’une bande, tandis que l’article 5 de la Loi sur la gestion financière des Premières nations porte sur les lois sur les recettes locales adoptées par le conseil d’une Première nation; par conséquent, ni l’un ni l’autre n’est pertinent dans le cadre du présent appel.
+Analyse – Exemption aux termes de l’article 87 de la Loi sur les Indiens
+[54] L’examen de la jurisprudence pertinente montre que l’exemption fiscale prévue à l’article 87 s’appliquera si le bien meuble est acquis dans une réserve : voir les décisions Union of New Brunswick Indians c. Nouveau-Brunswick (Ministre des Finances), 1998 CanLII 783 (CSC), aux paragraphes 35 et 43; Kelly c. Canada, 2013 CAF 171, [2013] 5 CTC 194, au paragraphe 52; Ozawagosh c. La Reine, 2013 CCI 311, au paragraphe 43.
+[55] La jurisprudence est contradictoire quant à savoir si la même exemption s’applique aux biens achetés à l’extérieur d’une réserve et ensuite livrés dans une réserve : voir les décisions 893134 Ontario Inc. (Mega Distributors) c. La Reine, 2010 CCI 357; 9000-6560 Québec inc. c. La Reine, 2001 CarswellNat 298, au paragraphe 66.
+[56] D’après la preuve fournie, je crois que la maison en bois rond de M. Phillips n’a probablement pas été livrée à un endroit situé dans une réserve.
+[57] L’appelante n’a présenté aucune preuve concernant les deux adresses de Lower Sackville et de New Russell figurant sur le contrat d’achat [pièce R-1, onglet 10], ni concernant l’adresse de Dartmouth figurant dans la déclaration manuscrite de M. Phillips [pièce R-1, onglet 10]. L’appelante n’a pas non plus demandé à M. Phillips de témoigner au sujet de la transaction. Ces deux facteurs m’amènent à conclure que le témoignage de M. Phillips n’aurait pas appuyé l’affirmation de l’appelante selon laquelle la maison en bois rond a été livrée à M. Phillips dans une réserve.
+[58] Par conséquent, je ne peux conclure que cette transaction était exemptée en application de l’article 87 de la Loi sur les Indiens.
+Contexte factuel – Dépôts et travaux en cours
+[59] En ce qui concerne les travaux en cours, M. Duggan a témoigné qu’aux fins des marges de crédit de l’appelante, il était préférable d’avoir des travaux en cours plutôt que des stocks.
+[60] Il a déclaré que l’appelante utilise un type particulier de pin produit par une seule scierie. Il a témoigné que le bois est trié et mis dans un séchoir, dont il est ensuite retiré avant de subir un autre traitement. Il a déclaré que le bois est ensuite soumis à un processus de rabotage pour le redimensionner, après quoi il est pressé et laminé. Il a expliqué que l’appelante qualifiait ce bois prétraité de travail en cours et que cela équivalait à créer un stock en prévision d’une vente future de maisons en bois rond plutôt qu’à une vente à ce moment particulier.
+[61] En ce qui concerne les dépôts sur les ventes, M. Duggan a indiqué dans son témoignage que l’appelante acceptait normalement le dépôt d’un client sans percevoir la TVH et, une fois la vente conclue, percevait alors la taxe totale due. Il a déclaré que l’appelante retournait le dépôt si le client annulait ses plans par la suite. Il a également déclaré que, lorsqu’un client décidait de reporter ses plans, l’appelante retenait habituellement le dépôt comme condition au maintien du prix convenu.
+[62] M. Duggan a expliqué que, par exemple, en 2012, l’appelante a accepté un dépôt de 80 000 $ d’un client autrichien nommé Enrico Erk. Selon le témoignage de M. Duggan, M. Erk s’est blessé plus tard dans l’année. Un fil de discussion par courriel entre M. Erk et l’appelante à partir d’octobre 2012 montre que M. Erk a demandé que son dépôt lui soit retourné [pièce R-1, onglet 11]. M. Duggan a déclaré que le dépôt avait été retourné à M. Erk sous forme de paiements partiels.
+Cadre législatif – Dépôts et travaux en cours
+[63] En ce qui concerne les dépôts, les dispositions pertinentes sont les paragraphes 152(1), 168(1), 168(2) et 168(9), qui se lisent comme suit :
+152. (1) Contrepartie due – Pour l’application de la présente partie, tout ou partie de la contrepartie d’une fourniture taxable est réputée devenir due le premier en date des jours suivants :
+a) le premier en date du jour où le fournisseur délivre, pour la première fois, une facture pour tout ou partie de la contrepartie et du jour apparaissant sur la facture;
+b) le jour où le fournisseur aurait délivré une facture pour tout ou partie de la contrepartie, n’eût été un retard injustifié;
+c) le jour où l’acquéreur est tenu de payer tout ou partie de la contrepartie au fournisseur conformément à une convention écrite.
+168. (1) Règle générale – La taxe prévue à la présente section est payable par l’acquéreur au premier en date du jour où la contrepartie de la fourniture taxable est payée et du jour où cette contrepartie devient due.
+(2) Contrepartie partielle – Par dérogation au paragraphe (1), la taxe prévue à la présente section relativement à une fourniture taxable dont la contrepartie est payée ou devient due plus d’une fois est payable à chacun des jours qui est le premier en date du jour où une partie de la contrepartie est payée et du jour où cette partie devient due et est calculée sur la valeur de la partie de la contrepartie qui est payée ou qui devient due ce jour-là.
+(9) Dépôt – Pour l’application du présent article, un dépôt (sauf celui afférent à une enveloppe ou un contenant auxquels l’article 137 s’applique), remboursable ou non, versé au titre d’une fourniture n’est considéré comme la contrepartie payée à ce titre que lorsque le fournisseur le considère ainsi.
+[64] Autrement dit, comme l’a déclaré la Cour dans la décision Tendances et Concepts Inc. c. La Reine, 2011 CCI 141, au paragraphe 18 :
+[18] Le paragraphe 168(9) de la Loi précise que les arrhes, remboursables ou non, versées au titre d’une fourniture ne sont considérées comme la contrepartie payée à ce titre que lorsque le fournisseur les considère ainsi. Ce moment ultérieur ne peut dépasser le moment où le fournisseur estime que les arrhes n’en sont plus, mais constituent une partie de la contrepartie. Si les arrhes sont appliquées à titre de contrepartie, les arrhes n’en sont plus, car elles sont dès lors un acompte et c’est le paragraphe 168(2) de la Loi qui s’applique.
+Analyse – Dépôts et travaux en cours
+[65] L’appelante affirme que les sommes aux lignes 18 et 22 de la pièce R-2, ainsi que les sommes comprises dans les sommes globales aux lignes 8 et 19 de cette pièce, étaient soit des dépôts sur les ventes soit des travaux en cours et, par conséquent, n’étaient pas assujetties à la TVH.
+[66] Toutefois, un rapprochement des dépôts des clients pour la période du 1er mai 2012 au 30 avril 2013 montre certaines sommes inscrites comme des dépôts, d’autres inscrites comme des dépôts sur les travaux en cours, et d’autres encore inscrites comme des dépôts sur les travaux en cours auxquels ont été joints les noms de clients [pièce R-1, onglet 7].
+[67] La question à savoir quand un dépôt devient une contrepartie est fondée sur le choix du moment. Bien qu’il n’y ait pas de dispositions législatives traitant spécifiquement des travaux en cours, je crois que le choix du moment jouerait logiquement un rôle dans la question de savoir si les travaux en cours sont (ou deviennent) une fourniture taxable.
+[68] Je renvoie à mes observations aux paragraphes 41 à 44 au sujet de l’obligation prévue à l’article 286 de tenir des livres et des registres adéquats, et à l’espèce.
+[69] En raison du peu de preuves documentaires accessibles, la Cour ne peut déterminer à quel moment un dépôt a été appliqué à une vente (devenant ainsi une contrepartie) ou à quel moment des travaux en cours ont été utilisés pour une vente (devenant ainsi une fourniture). De plus, le fait que les dépôts semblent avoir été versés sur les travaux en cours contredit l’explication de M. Duggan selon laquelle les travaux en cours de l’appelante n’étaient pas associés à des opérations particulières.
+[70] En ce qui concerne la ligne 18 de la pièce R-2, la seule preuve documentaire offerte est une copie d’une facture de vente datée du 30 avril 2013, émise à un acheteur de Terre-Neuve, d’une somme de 22 976,49 $ [pièce R-1, onglet 25]. La description de la vente se lit comme suit : « YE20, trf bal of credit to sales » ([TRADUCTION] : YE20 transf. solde créditeur aux ventes). Rien dans ce document ne laisse entendre qu’il s’agit d’un dépôt et il semble s’agir d’une vente à un acheteur au Canada.
+[71] En ce qui concerne la ligne 22 de la pièce R-2, la seule preuve documentaire offerte est une copie d’un reçu de vente daté du 17 octobre 2013 et délivré à Canadian Log Homes UK Ltd., pour la somme de 26 775,00 $ [pièce R-1, onglet 39]. Il n’y a aucune description de la nature de cette transaction.
+[72] En ce qui concerne la ligne 8 de la pièce R-2, la seule preuve documentaire offerte était une copie d’un courriel daté du 27 mai 2019, envoyé par M. Duggan à son avocat [pièce A-7]. Dans ce courriel, M. Duggan ventile la somme globale de 403 798,43 $ en éléments de transactions. Cependant, il n’y a pas de suivi des transactions, au-delà de sa ventilation, et la Cour n’a été saisie d’aucune preuve à l’appui des éléments énumérés dans le courriel.
+[73] En ce qui concerne la ligne 19 de la pièce R-2, aucune preuve documentaire n’était fournie concernant la somme globale de 582 480,91 $, autre que le fil de discussion du courriel concernant le dépôt de 80 000 $ d’Enrico Erk [pièce R-1, onglet 11]. Le fil de discussion est une preuve objective présentée par un tiers, sur laquelle je peux me fonder pour conclure que cette somme était un dépôt qui n’est pas devenu une contrepartie. Toutefois, le document de travail du vérificateur montre que le dépôt de M. Erk était déjà exclu du calcul de la somme globale par le ministre [pièce R-1, onglet 7].
+[74] Par conséquent, je ne suis pas en mesure de conclure que le ministre a établi une cotisation erronée pour l’une ou l’autre de ces sommes.
+B. TVH sur les avantages imposables relatifs aux véhicules
+Contexte factuel
+[75] En novembre 2007, l’appelante a acheté deux véhicules Jeep Grand Cherokee 2008 pour l’usage de MM. Dow et Duggan.
+[76] Selon les contrats de vente conditionnelle de chaque véhicule, le prix d’achat total du véhicule conduit par M. Dow était de 64 579,78 $, tandis que le prix d’achat total de celui conduit par M. Duggan était de 65 377,78 $ [pièce R-1, onglet 6]. Les véhicules et leurs modalités de financement respectives semblent être identiques. La différence de coût entre les deux véhicules semble être attribuable à un contrat de service plus coûteux acheté pour le véhicule de M. Duggan.
+[77] Le rapport et les documents de travail du vérificateur montrent que la TVH a été calculée sur un avantage relatif aux frais de fonctionnement et sur les frais pour droit d’usage pour chaque véhicule en 2011, 2012 et 2013 [pièce R-1, onglets 52 et 58].
+[78] Les documents de travail du vérificateur indiquent que l’appelante n’a tenu aucun registre de kilométrage et que, par conséquent, le vérificateur a utilisé une estimation prudente de 6 000 km de conduite personnelle par année pour chaque véhicule afin de calculer le montant des avantages relatifs aux frais de fonctionnement. Les documents de travail du vérificateur montrent également qu’en ce qui concerne les frais pour droit d’usage, le vérificateur a utilisé une estimation de 50 % d’usage personnel par année [pièce R-1, onglet 52].
+[79] M. Duggan a indiqué dans son témoignage qu’il était important d’avoir de bons véhicules pour accueillir des clients potentiels venant du Danemark ou de l’Allemagne. Il a déclaré qu’ils utilisaient les véhicules pour conduire les clients potentiels en ville, leur faire visiter des maisons et les transporter à leur hôtel. En contre-interrogatoire, il a reconnu que les véhicules étaient utilisés à la fois pour des voyages d’affaires et personnels.
+[80] Aucun registre de kilométrage n’a été déposé en preuve.
+Cadre législatif
+[81] Le paragraphe 173(1) de la Loi traite des avantages imposables des employés et des actionnaires. Il se lit en partie comme suit :
+173. (1) Avantages aux salariés et aux actionnaires – Dans le cas où un inscrit effectue la fourniture d’un bien ou d’un service, sauf une fourniture exonérée ou détaxée, au profit d’un particulier ou d’une personne liée à celui-ci et que, selon le cas :
+a) un montant (appelé « avantage » au présent paragraphe) relatif à la fourniture est à inclure, en application des alinéas 6(1)a), e), k) ou l) ou du paragraphe 15(1) de la Loi de l’impôt sur le revenu, dans le calcul du revenu du particulier pour son année d’imposition,
+[...]
+les présomptions suivantes s’appliquent :
+[...]
+[82] Les dispositions de calcul qui suivent sont plutôt longues. En résumé, la disposition précise qu’un avantage qui serait soit inclus dans le revenu d’emploi, soit imposé comme un avantage aux actionnaires en application de la Loi de l’impôt sur le revenu, est assujetti à la TVH. L’alinéa 6(1)k) porte sur les avantages liés aux frais de fonctionnement d’une automobile et l’alinéa 6(1)l), sur les frais pour droit d’usage.
+[83] La TVH sur ces avantages est réputée être devenue percevable et perçue par l’inscrit le dernier jour de l’année d’imposition au cours de laquelle l’avantage a été fourni à l’employé ou à l’actionnaire : voir le sous-alinéa 173(1)d)(vii).
+Analyse
+[84] Je renvoie de nouveau à mes observations aux paragraphes 41 à 44 au sujet de l’obligation prévue à l’article 286 de tenir des livres et des registres adéquats, et à l’espèce.
+[85] En l’absence de toute preuve documentaire, je ne peux pas conclure que la méthode utilisée par le ministre pour calculer le montant des avantages ou la TVH qui en découle est incorrecte ou déraisonnable.
+[86] Toutefois, lorsque j’examine le calcul réel de l’avantage relatif aux frais de fonctionnement du véhicule de M. Duggan, il semble que le vérificateur ait utilisé 18 290 km personnels par année dans le calcul plutôt que la somme annuelle pour 6 000 km indiquée dans les notes du vérificateur relatives à ce document de travail [pièce R-1, onglet 52].
+[87] Si le vérificateur avait utilisé 6 000 km personnels par année (comme cela a été fait pour le véhicule de M. Dow), l’avantage lié aux frais de fonctionnement pour M. Duggan serait de 1 560 $ par année, soit la même somme que l’avantage annuel de M. Dow. Comme le vérificateur a utilisé 18 290 km personnels par année dans le calcul réel, le montant de l’avantage relatif aux frais de fonctionnement était de 4 755,40 $ par année. Par conséquent, la TVH calculée sur l’avantage relatif aux frais de fonctionnement à l’égard du véhicule de M. Duggan était de 523,09 $ par année, tandis que la TVH sur le même avantage à l’égard du véhicule de M. Dow était de 171,60 $ par année.
+[88] Je crois que cet écart est une simple erreur. Par conséquent, le montant de l’avantage relatif aux frais de fonctionnement annuels du véhicule de M. Duggan devrait être réduite à 1 560,00 $ et la TVH en découlant devrait être de 171,60 $ par année. Les deux changements sont conformes à la méthode énoncée par le vérificateur dans le document de travail intitulé Annexe 6 [pièce R-1, onglet 52]. Selon mes calculs, la réduction de la TVH serait de 351,49 $ pour chacun des exercices 2011, 2012 et 2013, ce qui donne une réduction totale de 1 054,47 $.
+C. Pénalités prévues à l’article 285 pour les avantages imposables relatifs aux véhicules
+Contexte factuel
+[89] Catherine Hébert est une vérificatrice de l’Agence du revenu du Canada qui a témoigné au nom du ministre au sujet des pénalités prévues à l’article 285; toutefois, elle n’a pas effectué la vérification faisant l’objet de l’appel.
+[90] Mme Hébert a témoigné qu’avant la vérification faisant l’objet de l’appel, le ministre avait effectué une vérification antérieure de l’appelante. Elle a déclaré que la vérification précédente avait permis de déterminer les avantages liés au véhicule, d’établir une cotisation de TVH à l’égard de ces avantages et d’imposer des pénalités relativement à l’omission.
+[91] M. Duggan a déclaré qu’à la suite de la vérification précédente, il s’est souvenu avoir demandé au commis-comptable interne de l’appelante de tenir les registres nécessaires et de déclarer l’avantage relatif au véhicule en conséquence. Il a déclaré qu’il était surpris de voir que la question de l’avantage relatif au véhicule se posait de nouveau. En contre-interrogatoire, il a déclaré que M. Dow et lui-même n’ont pas tenu pas de registre de kilométrage parce qu’ils ne savaient pas que cela était nécessaire. Il a déclaré qu’ils faisaient confiance à leur commis-comptable, qui leur a affirmé avoir la situation en main.
+Cadre législatif
+[92] L’article 285 de la Loi est libellé comme suit :
+285. [Pénalité pour négligence grave] Faux énoncés ou omissions – Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse — appelés « déclaration » au présent article — établi pour une période de déclaration ou une opération, ou y participe, y consent ou y acquiesce, est passible d’une pénalité…
+[93] Le fardeau de la preuve pour justifier l’imposition de cette pénalité incombe au ministre : voir le paragraphe 285.1(16).
+Analyse
+[94] Dans la décision Venne c. La Reine, [1984] C.T.C. 223, au paragraphe 37, la section de première instance de la Cour fédérale a indiqué ce qui suit :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi.
+[95] En l’espèce, MM. Dow et Duggan semblent s’être fiés entièrement au commis-comptable interne de l’appelante, qui ne semble pas avoir bien servi l’appelante. Toutefois, je ne crois pas que le fait qu’ils se soient fiés au commis-comptable explique entièrement l’omission. Par exemple, je m’attendrais à ce que MM. Dow et Duggan comprennent que la tenue de registres sur l’utilisation de leur véhicule serait importante pour séparer l’utilisation professionnelle de l’utilisation personnelle, peu importe qu’on leur ait expressément conseillé de le faire ou non.
+[96] Compte tenu du fait supplémentaire que la même omission a été faite lors d’une vérification antérieure, ce qui a entraîné une pénalité, je conclus que le ministre s’est acquitté du fardeau qui lui incombait et, plus précisément, que la conduite de l’appelante équivalait à une indifférence quant au respect de la loi.
+Conclusion
+[97] L’appel est accueilli sans adjudication de dépens pour les motifs suivants :
+En ce qui concerne la TVH non perçue sur les ventes :
+la vente réalisée le 31 juillet 2012, pour un produit de 64 309,89 $, est une fourniture détaxée (comme en a convenu l’intimée);
+la vente réalisée le 13 juin 2011, pour un produit de 158 372,00 $, est une fourniture détaxée;
+En ce qui concerne la TVH sur les avantages imposables relatifs aux véhicules :
+3. La TVH sur les avantages taxables relatifs à un véhicule est réduite de 351,49 $ pour chacun des exercices 2011, 2012 et 2013, ce qui donne une réduction totale de 1 054,47 $;
+En ce qui concerne les pénalités prévues à l’article 285 :
+4. la pénalité de 50 814,85 $ relative à la TVH non perçue est supprimée (comme en a convenu l’intimée).
+La cotisation établie le 26 septembre 2014 par le ministre est maintenue à tous les autres égards.
+Signé à Ottawa, Canada, ce 12e jour de décembre 2019.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+ce 22e jour de mai 2020.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2019 CCI 280
+NO DU DOSSIER DE LA COUR :
+2017-2928(GST)G
+INTITULÉ :
+DOW & DUGGAN LOG HOMES INTERNATIONAL (1993) LIMITED c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE :
+Les 28, 29 et 30 mai 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 12 décembre 2019
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Gerard Tompkins, c.r.
+Avocate de l’intimée :
+Me Rhoda Lemphers
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Gerard Tompkins, c.r.
+Cabinet :
+Tompkins Law
+24-260 Brownlow Avenue
+Dartmouth (Nouvelle-Écosse) B3B 1V9
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

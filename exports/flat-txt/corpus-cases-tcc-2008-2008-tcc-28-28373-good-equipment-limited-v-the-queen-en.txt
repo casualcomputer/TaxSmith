@@ -1,0 +1,136 @@
+Title: Good Equipment Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28373/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-28-28373-good-equipment-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-01-14
+
+# Good Equipment Limited v. The Queen
+
+- Citation: 2008 TCC 28
+- Decision date: 2008-01-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1922, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Good Equipment Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-14
+Neutral citation
+2008 TCC 28
+File numbers
+2005-401(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-401(IT)G
+BETWEEN:
+GOOD EQUIPMENT LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 23, 2006, at
+Charlottetown, Prince Edward Island
+By: The Honourable Justice E.A.Bowie
+Appearances:
+Counsel for the Appellant:
+Edwin C. Harris, Q.C.
+Counsel for the Respondent:
+Lynn Gillis
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments made under the Income Tax Act for the 1998, 1999, 2000 and 2001 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of January, 2008.
+“E.A. Bowie”
+Bowie J.
+Citation: 2008TCC28
+Date: 20080114
+Docket: 2005-401(IT)G
+BETWEEN:
+GOOD EQUIPMENT LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] These appeals are brought from assessments under the Income Tax Act[1] (the Act) for the appellant’s 1998, 1999, 2000 and 2001 taxation years. The appellant’s business is the retail distribution of agricultural equipment to farmers in Prince Edward Island. A substantial number of the appellant’s transactions with farmers are leases of the equipment rather than sales, and central to the dispute in these appeals is the question who is the beneficial owner of machinery that is leased by the appellant to a customer under what was referred to in the evidence as a “Finance Lease”. The appellant’s contention is that when it delivers equipment to a customer under the terms of a Finance Lease, beneficial ownership of the equipment remains with the appellant, and the equipment, which formerly was inventory, becomes a capital asset in the appellant’s hands. The significance of this is that as depreciable capital property of the appellant, the equipment then meets the definition of “qualified property” found in subsection 127(9) of the Act, and also the definition of “prescribed machinery and equipment” found in subsection 4600(2) of the Income Tax Regulations, thus entitling the appellant to an investment tax credit (ITC).
+Facts
+[2] Trent Good is the president of the appellant, and is in charge of the day‑to‑day management of the company. In his evidence he described the typical transactions. Good is a dealer selling and leasing the equipment of Case Canada Ltd. (Case), primarily to farmers, but also to a few other purchasers. The company also sells or leases Kubota equipment, but none of those transactions are in issue here, and the terms under which they take place are therefore not relevant for present purposes. Some sales are made for cash, or by way of conditional sales contracts, but the majority of transactions, and those with which these appeals are concerned, are equipment leases, usually for a five-year term. Farmers, and their bankers, generally prefer the flexibility of lease transactions, and the lower payments that they typically require. When entering into a lease, Good typically gets quotes from various sources for the required funds, but in most cases finances the transaction through Case Credit Ltd. (Case Credit), as it usually offers the most favourable rate.
+[3] When the appellant enters into a lease to a customer of a piece of Case equipment under a Case Credit financed lease, typically the equipment has been delivered to Good some time prior, and Good is indebted to Case for the purchase price. At the time of the leasing transaction Case Credit pays the purchase price to Case, which in turn credits the appellant’s account. Case Credit debits the appellant’s account for the purchase price. Under the Case Credit standard form Finance Lease Agreement (FLA), which is used by the appellant to document these transactions,[2] the lessee is obliged to make monthly payments to Good for the period of the lease, and has the right to purchase the equipment at the end of the lease period for a termination value that is agreed upon between Good and the lessee at the time the lease is entered into, and specified in the FLA. On the same form, Good assigns the monthly payments and title to the equipment to Case Credit. By the terms of the assignment, at the end of the lease period Good is liable to pay to Case Credit the amount of the termination value of the equipment, and is entitled to have the legal title to the equipment conveyed back to it. The Case Credit standard form of FLA documents give the dealer the option in every instance to elect “full recourse”, “limited recourse”, “repurchase recourse”, or “non recourse” terms when entering into a Finance Lease arrangement. The evidence was quite clear that in every case the appellant chose “full recourse”, which under the terms of the agreement left the appellant bearing the risk if the periodic payments plus the termination value proved inadequate to retire the debt to Case Credit, or if there is any default in payment by the lessee. As Mr. Good put it in his evidence, when they pay the final amount due, Case Credit gives them back title to the equipment. If the lessee so elects, he may purchase the equipment from the appellant at the end of the term of the lease for the specified termination value. Otherwise, the appellant must look elsewhere for a buyer for the used piece of equipment.
+[4] Andrew Orrosz also gave evidence. He was Operations Manager for Case Canada and Case Credit at the relevant time. His evidence was to the effect that Case Credit, when financing a lease agreement for a dealer, did not take any ownership of the equipment under a full recourse assignment under the FLA, and that he understood that the assignment of title to Case Credit was simply a security interest. As Case Credit did not consider itself to have become the beneficial owner of the equipment, it did not claim ITCs for it. It registered its assigned Finance Leases under the provincial Personal Property Security Act. Like Mr. Good, he testified that in every case where Case Credit took an assignment from Good it was by agreement on a full recourse basis, which is to say that if the equipment was not purchased by the lessee at the end of the term then it was up to Good to find a purchaser for it, and any default in payment was at Good’s risk. If the equipment could not be sold at the termination value then it was Good’s loss, not Case Credit’s. This is in contrast to what is called the Leaserite Agreement, under which Case Credit takes the beneficial title to the equipment and assumes the risk that at the end of the lease the equipment will be worth less than the termination value.
+[5] Blair Corkum, C.A. also testified for the appellant. He is an accountant in private practice, and was retained by the appellant to do its yearend accounting and prepare its financial statements. He testified that the equipment leased by the appellant on Finance Leases is shown on its books as capital assets. The reasons for this, he said, are because the equipment is not available to be sold, and because the risks of ownership, particularly with reference to the residual value, lies with the appellant.
+Issues
+[6] The parties are in agreement that there are two issues to be decided in this case. The first is whether, on the completion of a Finance Lease agreement and the transfer of title to Case Credit, the beneficial ownership is also transferred to Case Credit, or remains with the appellant throughout the duration of the lease. If the beneficial ownership remains with the appellant, then the second question that arises is whether the appellant is correct to classify the equipment as capital assets rather than as inventory on its balance sheet. In my view, both these questions must be answered in the appellant’s favour.
+Analysis
+[7] It is trite that the effect of the contract between the appellant and Case Credit, and specifically the question whether beneficial title to the goods passes under it, must be determined on the basis of the provisions of the contract itself, including the understanding of the parties as to its effect: see Kinguk Trawl Inc. and Farocan Inc. v. The Queen.[3] It is clear from the terms of the Finance Lease documents that the transfer of title to the equipment from the appellant to Case Credit is simply as collateral to secure the debt of the appellant incurred when Case Credit pays Case the amount owed to it by the appellant in respect of the equipment. In effect, the appellant sells the income stream comprised of the lease payments to Case Credit; Case Credit pays for that income stream by retiring the debt owed by the appellant to Case; and Case Credit holds the legal title to the equipment as security until the last lease payment has been made to it, at which time it is obliged to restore the legal title to the appellant. That is the effect of the document, and it was the understanding of both parties according to their evidence. I am satisfied that during the years in question the appellant was the beneficial owner of the equipment held and operated by its customers under the Finance Lease Agreements.
+[8] The respondent contends that the leased items of equipment do not qualify as capital assets. In my view, however, the appellant correctly so classified these units during the term of each lease. The characterization of an asset as inventory or depreciable capital asset may change from time to time depending on the circumstances, and in particular, the use to which the unit is being put at a given time: see Plaza Pontiac-Buick Ltd. v. The Queen;[4] Canadian Kodak Sales Ltd v. M.N.R.[5] Equipment of which the appellant has taken possession and which is available to be sold or leased is properly treated as inventory. When it is either sold or leased, it is no longer available to be disposed of, and it ceases to be inventory.
+[9] The appellant’s leases are all for a long term, typically five years. When it enters into a lease contract with a customer, the appellant gives possession of the unit to the customer for the term of the lease, and the customer agrees to make a series of payments to the appellant at intervals during the same period. The asset then is not available to be sold, but it is being used by the appellant, who still is the beneficial owner of it, to produce income, namely the series of payments. With the change of use, the equipment has become a depreciable capital asset, and it maintains that character throughout the term of the lease. This is not affected by the fact that the appellant has assigned the series of lease payments to Case Credit in return for a present value that is credited to the appellant’s debt to Case.
+[10] At the end of the term of the lease, the asset again changes its character and becomes inventory once more. It is available for sale, but after substantial use, typically for five years, it is a much different, and much less valuable, asset than it was at the inception of the lease.
+[11] The evidence was that in only about 25% of the lease agreements entered into did the lessee exercise the option to purchase at the end of the lease period. In the other 75% of cases, the appellant would have to find a buyer for the used piece of equipment. In either event, in my view, the unit would revert to inventory at the end of the lease period, although if the purchaser chose to exercise the option to purchase, it would be inventory only momentarily until that transaction was completed. The reason for this is that the unit at that time is no longer being used as a capital asset, but is held for sale in the ordinary course of the appellant’s business, and this is so whether the sale takes place to the lessee or to a stranger to the lease arrangement.
+[12] Counsel for the respondent referred me to the Minister of National Revenue’s Interpretation Bulletin IT-102R2. I think it is useful to set it out in full.
+Interpretation Bulletin IT-102R2 – Conversion of Property, Other than Real Property, from or to Inventory
+1. This bulletin deals with conversions of business property, other than real property, either from inventory to capital property or from capital property to inventory, without a change in ownership thereof. The bulletin does not deal with the rules in section 45 concerning the determination of capital gains or losses or with the rules in subsection 13(7) concerning capital cost allowance and its recapture. See IT-218 for the Department’s views on profit on the sale of real property other than a principal residence.
+2. Inventory is defined in subsection 248(1) as being “a description of property the cost or value of which is relevant in computing a taxpayer’s income from a business for a taxation year”. Capital property is defined in paragraph 54(b) as being “any depreciable property of the taxpayer, and any property (other than depreciable property), any gain or loss from the disposition of which would, if the property were disposed of, be a capital gain or a capital loss, as the case may be, of the taxpayer”.
+3. Capital property, whether or not depreciable property of a prescribed class, that is used for the purpose of earning income from a business or property is not, as a general rule, converted to inventory simply because it is put on the market for sale. Accordingly, where capital property is sold, the sales proceeds will ordinarily be treated as proceeds of disposition of capital property for all purposes of the Act. It is, however, the Department’s position that exceptions to this general rule will occur.
+4. Where a taxpayer both sells and either rents or leases property of the same kind, it is the Department’s position that all proceeds from the sale of property that has been rented or leased constitutes income of the taxpayer from the sale of inventory unless
+(a) the taxpayer operates a separate and clearly distinguishable leasing division, including the keeping of separate records,
+(b) specific property is set aside by the taxpayer for either renting or leasing and is factually so used, and
+(c) properties that are so rented or leased are normally sold for an amount that is less than their cost to the taxpayer.
+Where the conditions in (a) to (c) above are complied with, the ultimate disposal of property used for renting or leasing will be treated as the disposal of capital property.
+5. It is recognized that a taxpayer whose business consists of the renting or leasing of property is, from time to time, required to renew such property by selling it after it has been rented or leased for a period of time, and purchasing new property. In these circumstances, where the proceeds from the disposal of each individual property normally exceed the taxpayer’s cost there, the proceeds from the sale of all of the taxpayer’s property that has been rented or leased will be considered to be received by the taxpayer on account of income rather than capital.
+6. Notwithstanding 4 and 5 above, where, at any time, a particular property is leased
+(a) without option to purchase,
+(b) for a sufficiently long period of time so that the anticipated sales price of the particular property at the time of expiry of the lease will not ordinarily exceed its cost to the lessor, and
+(c) the particular property is not ordinarily replaced by other property during the currency of the lease,
+The lessor may, from that time, treat the particular property as capital property rather than inventory for all purposes of the Act.
+7. The facts of each case will determine whether or not a conversion of property, as described in 1 above, has occurred. For example, a conversion is generally not considered to have taken place where
+(a) property that was purchased primarily for resale is temporarily withdrawn from inventory and used in a business to earn income, for example demonstrator or courtesy vehicles by a car dealer, salesmen’s sampled or the use of equipment by employees in carrying out their business responsibilities, or
+(b) the cost of property was incorrectly classified in the accounts of a business and has been reclassified to reflect the use made of the property, as capital property or inventory, as the case may be, since it was acquired.
+Capital Property Converted to Inventory
+8. Where capital property is converted to inventory, the action of conversion does not constitute a disposition within the meaning of paragraphs 13(21)(c) and 54(c). It is, however, recognized that the ultimate disposition of a property that was so converted may give rise to a gain or loss on capital account, a gain or loss on income account or a gain or loss that is partly capital and partly income. Accordingly, with respect to capital property that has been converted to inventory, taxpayers may calculate capital gains or losses, if any, on the basis that a notional disposition of such property occurred on the date of conversion. The amount of such a notionally determined capital gain or loss in respect of a property will be the difference between its adjusted cost base, as defined in paragraph 54(a), (subject to the ITAR rules for property held on December 31, 1971) and its fair market value on the date of conversion. These notionally determined capital gains or losses will be considered to give rise to taxable capital gains or allowable capital losses for the taxation year during which the actual disposition of the relevant property occurs and will be required to be so reported in that same year. The amount of any income gain or loss arising on actual disposition of converted property will be determined in accordance with generally accepted accounting principles on the basis that its initial inventory value is its fair market value on the date of conversion.
+Inventory Converted to Capital Property
+9. Where at any time a taxpayer finds it necessary to convert a particular property from inventory to capital property, its capital cost for all purposes of the Act will be its inventory value at that time. Such conversion might occur, for example, when a particular property in inventory
+(a) is required for lease in the leasing division of a taxpayer described in 4 above.
+(b) has been leased by any taxpayer under the conditions described in 6 above, or
+(c) is otherwise used by the taxpayer as a fixed asset of the business.
+10. The conversion of a unit of merchandise from inventory to capital property, as envisaged by 9 above, is not considered to be either a disposition or an acquisition. Therefore, on such conversion, the application of the half-rate capital cost allowance rules in the first year of ownership will be based on the actual date of acquisition rather than the date of conversion.
+[13] It is clear from the bulletin that the Minister recognizes that whether property has changed in character from inventory to capital, or vice versa, depends on the particular circumstances of the case. From paragraph 6, it would appear that the Minister’s real objection to the appellant in this case treating its leased equipment as capital lies in the fact that as part of the lease agreement the purchaser receives an option to purchase the property at the end of the term of the lease. This may be a relevant consideration in some cases, but I do not accept that it is a determinative one. In the present case, the leases are not simply a different way of structuring a sale, as in Algonquin Enterprises Ltd. v. Canada;[6] in fact the appellant sold only about 25% of the leased units to the lessees at the end of the term. The Minister’s view seems to be grounded in a concern that the sale under the option at the end of the lease term might somehow be treated as being on capital account, but that, in my view, would be just as wrong in principle as it would be to treat an asset that is not available to be sold for five years, and that is producing income throughout that period, as though it were inventory.
+[14] In summary, then, the appellant continued to be the beneficial owner of the equipment that it supplied by way of lease during the years under appeal, and upon it entering into those leases the equipment leased became depreciable capital property. It is common ground that as depreciable capital property the equipment met the definitions of “qualified property” in subsection 127(9) of the Act and of “prescribed machinery and equipment” in subsection 4600(2) of the Regulations. The appeals will therefore be allowed, with costs.
+Signed at Ottawa, Canada, this 14th day of January, 2008.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2008TCC28
+COURT FILE NO.: 2005-401(IT)G
+STYLE OF CAUSE: GOOD EQUIPMENT LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Charlottetown, Prince Edward Island
+DATE OF HEARING: November 23, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A.Bowie
+DATE OF JUDGMENT: January 14, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Edwin C. Harris, Q.C.
+Counsel for the Respondent:
+Lynn Gillis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Edwin C. Harris, Q.C.
+Firm: Patterson Palmer Law
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985, c.1 (5th Supp.).
+[2] A relatively small number of lease transactions are carried out between the appellant and Case Credit under what is called a LeaseRite agreement, but these transactions are not in issue here.
+[3] 2003 DTC 5168.
+[4] 94 DTC 6058.
+[5] 54 DTC 1194.
+[6] 90 DTC 6377.

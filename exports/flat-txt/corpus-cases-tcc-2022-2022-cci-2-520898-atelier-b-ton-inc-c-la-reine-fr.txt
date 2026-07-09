@@ -1,0 +1,290 @@
+Title: Atelier Béton Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520898/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-2-520898-atelier-b-ton-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-01-27
+
+# Atelier Béton Inc. c. La Reine
+
+- Citation: 2022 CCI 2
+- Decision date: 2022-01-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4437, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Atelier Béton Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-01-27
+Référence neutre
+2022 CCI 2
+Numéro de dossier
+2018-4287(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-4287(IT)I
+ENTRE :
+ATELIER BÉTON INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu les 19, 20 et 21 octobre 2020, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Représentant de l'appelante :
+Yves Hamelin
+Avocat de l'intimée :
+Me Renaud Fioramore-Beaulieu
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation établie en date du 5 septembre 2017 concernant l’année d’imposition 2015 de l’appelante est rejeté sans frais conformément aux motifs du jugement ci-joints.
+Signé à Montréal, Québec, ce 27e jour janvier 2022.
+« Réal Favreau »
+Juge Favreau
+Référence : 2022CCI2
+Date : 20220127
+Dossier : 2018-4287(IT)I
+ENTRE :
+ATELIER BÉTON INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit ici d’un appel à l’encontre d’une nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu (L.R.C. 1985, ch.1 (5e suppl.), telle que modifiée (la « Loi ») par la ministre du Revenu national (la « ministre ») en date du 5 septembre 2017 concernant l’année d’imposition 2015 de l’appelante.
+[2] Par cette nouvelle cotisation, la ministre a refusé à l’appelante la déduction d’un montant de 63,134 $ réclamé à titre de dépenses de recherche scientifique et de développement expérimental (la « RS&DE ») de même que le crédit d’impôt à l’investissement (le «CII») correspondant de 23,822 $ pour l’année d’imposition 2015.
+[3] Les dépenses de RS&DE et le CII réclamés par l’appelante concernaient les projets suivants :
+a) le développement de panneaux modulaires transportables en béton; et
+b) l’amélioration d’un procédé de mixage et de coulage de planchers en béton.
+[4] Pour établir le montant des dépenses de RS&DR déductibles et le montant du CII pour l’année 2015 de l’appelante, la ministre a tenu pour acquis les faits suivants :
+a) l’appelante est une société constituée, le 1er janvier 2008, en vertu de la Loi sur les compagnies au (sic) Québec partie 1A, RLRQ c. C-38;
+b) l’appelante est une entreprise spécialisée dans le développement de différents produits en béton pour diverses applications commerciales et résidentielles, tels que des panneaux, planches, planchers, outils de salle de bain, etc.;
+c) l’année financière de l’appelante se termine le 31 décembre;
+d) l’appelante a exercé le choix d’utiliser la méthode de remplacement pour calculer ses dépenses de RS&DE admissibles aux fins du calcul du CII pour son année d’imposition 2015;
+Développement de panneaux modulaires transportables en béton
+e) l’objectif du projet réclamé par l’appelante visait la fabrication de panneaux transportables en béton, dont l’épaisseur devait être diminuée de moitié par rapport à celle fabriquée de façon conventionnelle, et ce :
+sans gauchissement;
+sans génération de fractures;
+avec une force de compression égale ou supérieure aux panneaux fabriqués avec du béton conventionnel;
+avec des propriétés physiques supérieures au niveau de la qualité de finition, de la porosité et de la résistance mécanique;
+f) pour réaliser ce projet, l’appelante a rencontré des incertitudes de nature technique par rapport au choix de(s) :
+proportions des ingrédients pour la formulation de béton;
+additifs chimiques;
+types de fibres pour obtenir la surface de finition recherchée et les propriétés mécaniques tels que le poids, la porosité, la force de compression;
+la méthode de fabrication de panneaux;
+g) pour tenter de résoudre les incertitudes techniques susmentionnées, l’appelante a utilisé une approche par voie d’essais et erreurs (déduction), impliquant la mise à l’essai et l’expérimentation de :
+différentes formulations de mélange de béton en appliquant différents types d’additifs chimiques et de fibres, tels qu’en nylon, métal, carton, sable de verre, etc.;
+une formulation de base utilisant un nouveau type de fibre très mince acheté au Japon;
+différentes méthodes de préparations;
+h) les travaux réclamés par l’appelante incluent également :
+la confection d’un moule en polymère pour une centaine de coulées;
+modifications au moule;
+ajout d’un drap de cure standard;
+arrosage pendant la cure;
+temps de démoulage
+application d’un agent de démoulage;
+ajout d’un scellant pour prévenir le gauchissement après une période de 3 semaines;
+réduction de l’épaisseur pour minimiser les contraintes internes;
+i) l’appelante n’a aucunement identifié ou rencontré une limite de la technologie et/ou de la science actuelle pour le développement de mélanges en béton et de méthodes de fabrication de panneaux en béton;
+j) l’état actuel de la science ou de la technologie, dans le domaine du génie civil, était suffisante pour surmonter les incertitudes techniques rencontrées par l’appelante;
+k) dans son registre d’essais, l’appelante a effectué des observations, pour chacun des essais, qui ne démontrent aucune mesure, hypothèse ou analyse de nature scientifique ou technologique concernant, entre autres :
+le gauchissement en fonction du temps;
+la méthode d’incorporation de composés inconnus;
+la relation entre la science ou la technologie sous-jacente au développement de panneaux en béton et les résultats insatisfaisants de ces essais;
+l) l’appelante n’a aucunement tenté de :
+générer des renseignements ou de découvrir des connaissances contribuant à la compréhension des relations scientifiques ou de la technologie sous-jacente au développement de panneaux en béton;
+faire évoluer une technologie ou une science sous-jacente au développement de panneaux en béton;
+Amélioration d’un procédé de mixage et de coulage de planchers en béton
+m) l’objectif du projet réclamé par l’appelante visait l’amélioration du procédé de mixage et de coulage de plancher en béton poli afin de réduire la visibilité des agrégats tout en:
+respectant la résistance en compression de 30 à 50 MPa;
+éliminant la formation des fissures;
+contrôlant l’apparition des agrégats superficiels, la couleur et l’uniformité de la surface, etc.;
+n) l’appelante a rencontré des incertitudes de nature technique par rapport au choix de:
+proportions des ingrédients pour la formulation de béton pour obtenir une surface polie, sans fissuration et de bonne couleur;
+additifs chimiques;
+la méthode de coulage pour obtenir les résultat au niveau de l’apparence et des propriétés mécaniques recherchées;
+o) pour tenter de résoudre les incertitudes techniques susmentionnés, l’appelante a utilisé une approche par voie d’essais et erreurs, impliquant, entre autres:
+le développement de:
+différentes formulations de béton en modifiant le pourcentage des ingrédients;
+une recette de béton avec peu d’agrégats en surface;
+la modification de la formulation en ajoutant :
+l’additif qui est le super plastifiant;
+les cendres volantes;
+le réducteur de retrait;
+des essais de différentes formulations et de différents procédés de coulage en laboratoire;
+des essais de la formulation et du coulage de béton sur un site commercial;
+p) l’appelante n’a aucunement identifié ou rencontré une limite de la technologie et/ou de la science actuelle pour le développement d’un nouveau procédé de mixage et de coulage pour des planchers en béton poli;
+q) l’état actuel de la science ou de la technologie, dans le domaine du génie civil, était suffisante pour surmonter les incertitudes techniques rencontrées par l’appelante.
+r) pour chacun des essais, l’appelante a effectué des observations qui ne démontrent aucune mesure, hypothèse ou analyse :
+de nature scientifique ou technologique;
+concernant la relation entre la science ou la technologie sous-jacente au procédé de mixage et de coulage de planchers en béton et les résultats insatisfaisants de ces essais;
+s) l’appelante n’a aucunement tenté de :
+générer des renseignements ou de découvrir des connaissances contribuant à la compréhension des relations scientifiques ou de la technologie sous-jacente au procédé de mixage et de coulage de planchers en béton;
+faire évoluer une technologie ou une science sous-jacente au procédé de mixage et de coulage de planchers en béton.
+[5] Monsieur Frédéric Tremblay, président et propriétaire de l’appelante a témoigné à l’audience. Monsieur Tremblay détient un baccalauréat en enseignement de l’histoire et de la géographie et un baccalauréat en administration. Il est le fils d’un cimentier applicateur.
+[6] Monsieur Tremblay a débuté son entreprise en 2005 en fabriquant des comptoirs en béton.
+[7] En février 2014, monsieur Tremblay a engagé à titre de consultant un ingénieur en génie chimique, monsieur Benjamin Bousquet, un français d’origine. Ce dernier était avec monsieur Tremblay le maître d’œuvre des activités de recherche et développement de l’appelante. En juillet 2015, monsieur Bousquet est devenu un employé à plein temps de l’appelante et il y est demeuré jusqu’en juillet 2016. En juillet 2016, monsieur Bousquet a cessé d’être un employé de l’appelante mais a continué d’œuvrer pour l’entreprise à titre de consultant. Monsieur Bousquet est malheureusement décédé en 2017 suite à un accident en Colombie.
+[8] En 2015, l’appelante en était à sa première réclamation de dépenses de RS&DE et de CII à l’égard de ses deux projets de recherche, à savoir les panneaux modulaires transportables en béton et le procédé de mixage et de coulage de planchers en béton poli (terrazzo).
+[9] L’appelante a produit sa demande pour les dépenses de RS&DE à l’aide du formulaire T-661 et sa demande de CII à l’aide de l’Annexe 31 à sa déclaration de revenu (T2). L’appelante a produit des informations additionnelles le 29 mars 2017 dont un résumé des tests pour le projet de panneaux, un résumé des conditions expérimentales par essai pour les planchers, un résumé des dépenses par projet (salaires matériaux consommés, sous-traitance, etc.), une description des tâches par employé impliqué dans les activités de recherche et des factures pour les matériaux et pour le polissage et le sablage diamantaires de planchers.
+[10] Le 24 avril 2017, des représentants de l’Agence du revenu du Canada (l’« ARC ») ont visité l’atelier de l’appelante et ont discuté des projets de recherche avec monsieur Tremblay. Le rapport d’examen de la RS&DE de l’ARC a été signé le 5 juin 2017 et la demande de l’appelante a été rejetée d’où le présent litige.
+[11] Lors de son témoignage, monsieur Tremblay a fourni de valables et nombreuses informations concernant les défis techniques rencontrés par l’appelante dans le cadre de ses deux projets de recherche et les méthodes appliquées par cette dernière pour les solutionner. En ce faisant, monsieur Tremblay a fait valoir l’état de ses connaissances et son expérience dans le domaine du béton.
+[12] Concernant le projet de panneaux modulaires, monsieur Tremblay a rappelé que l’objectif du projet était de fabriquer des panneaux transportables en béton dont l’épaisseur devait être de moitié de l’épaisseur des panneaux fabriqués de façon conventionnelle, en plus d’être sans gauchissement, sans génération de fractures et ayant une force en compression égale ou supérieure aux panneaux fabriqués avec du béton conventionnel. La dimension recherchée pour les panneaux était de 4 pieds par 8 pieds ayant une épaisseur de ¼ de pouce.
+[13] Pour atteindre son objectif, l’appelante a notamment réalisés les travaux suivants :
+le développement de différentes formation de mélange de béton;
+le développement de formulations en appliquant différents types de fibres, tels qu’en nylon, en métal, en carton, en sable de verre, etc.
+le développement d’une formulation en utilisant un nouveau type de fibre très mince acheté au Japon;
+des essais avec différents types de mélanges avec différentes fibres et différents additifs chimiques pour trouver des recettes permettant d’obtenir les caractéristiques recherchées au niveau de la qualité de la finition, de la porosité, de la résistance mécanique, sans gauchissement et sans fissuration des panneaux;
+des essais avec différents types de moules et différentes techniques de démoulage et de traitement de béton pour éviter l’efflorescence.
+[14] Dans le cadre du développement des panneaux, l’appelante a rencontré les problèmes techniques suivants lesquels sont également décrits au rapport d’examen de la RS&DE de l’ARC :
+le choix des proportions des ingrédients pour la formulation du béton;
+le choix des additifs chimiques
+le choix des types de fibres pour obtenir la surface de finition recherchée et les propriétés mécaniques, tels que le poids, la porosité, la force de compression;
+le choix de la méthode de fabrication des panneaux.
+[15] Concernant le projet de mixage et de coulage de planchers en béton poli, l’objectif technologique était d’améliorer un procédé existant de mixage et de coulage de plancher en béton poli de sorte à réduire la visibilité des agrégats à 1 mm, tout en augmentant la résistance en compression de 30 à 50 MPa.
+[16] Afin d’atteindre ces objectifs, l’appelante a dû relever les deux défis majeurs suivants :
+a) développer un procédé de mixage et de coulage de façon à réduire à néant la formation de fissures et
+b) déterminer des paramètres chimiques et physiques permettant de contrôler l’apparition des agrégats superficiels et de mieux contrôler la couleur et l’uniformité de la surface.
+[17] Au cours de l’année 2015, l’appelante a notamment réalisé les travaux suivants, lesquels sont décrits dans le rapport d’examen de la RS&DE de l’ARC :
+développement de différentes formulations de béton en modifiant le pourcentage des ingrédients;
+développement d’une recette de béton avec peu d’agrégats en surface;
+modification de la formulation en ajoutant l’additif qui est le super plastifiant;
+modification de la formulation en ajoutant les cendres volantes;
+modification de la formulation en ajoutant le réducteur de retrait;
+essais de la formulation et essais de coulage de béton sur un site commercial;
+analyses des résultats obtenus en laboratoire et sur un site commercial;
+[18] En effectuant ses activités de recherche, l’appelante a rencontré les problèmes techniques suivants également décrits au rapport d’examen de la RS&DE de l’ARC :
+le choix des proportions des ingrédients pour la formation du béton pour obtenir une surface polie, sans fissuration et de bonne couleur;
+le choix des additifs chimiques;
+le choix de la façon de coulage pour obtenir les résultats au niveau de l’apparence et des propriétés mécaniques recherchés.
+[19] Lors de son témoignage, monsieur Tremblay a insisté sur le fait que les activités de recherche des deux projets n’ont pas été effectuées par tâtonnements ou par essais/erreurs comme le prétend l’ARC. Selon lui, l’appelante a adopté une approche systématique pour la réalisation de ses travaux comme en font foi les feuilles d’essais expérimentaux préparées par monsieur Bousquet pour les panneaux modulaires et par lui-même pour les planchers en béton poli.
+[20] Pour chaque hypothèse, une formulation de béton a été identifiée, de façon chronologique et évaluée à partir de moules spécifiques préparés selon une méthodologie dont les conditions rencontrent à la fois les techniques de base et les modifications expérimentales. Après chaque essai, les résultats, conclusions et suites des activités ont été notés de manière manuscrite.
+[21] Lors de son témoignage, monsieur Tremblay a également invoqué le fait que dans le cadre du projet de panneaux modulaires, il n’y avait aucune documentation sur l’approche à prendre et les consultations auprès des spécialistes de la formulation de bétons se sont avérées être infructueuses. Selon monsieur Tremblay, les connaissances reconnues dans le domaine de la technologie du béton ne permettaient pas d’arriver à la détermination des paramètres physico-chimiques nécessaires pour obtenir des panneaux modulaires transportables plus minces et pourtant plus solides. Pour ce qui est du projet de planchers en béton poli, il existait effectivement une vaste base de connaissances techniques pour résoudre des problèmes dans le secteur du béton mais peu portait sur le développement d’un matériaux composite nouveau à partir d’un procédé et d’une combinaison de produits aux propriétés inconnues. Souvent les connaissances techniques en ce domaine résultaient de travaux de recherche réalisés en milieu universitaire non accessibles au public à cause d’ententes de confidentialité avec des entreprises ou qui n’étaient accessibles que par l’obtention d’une licence à un coût prohibitif pour une entreprise de la taille de l’appelante.
+L’expert
+[22] L’intimée a mandaté monsieur David Migneault pour évaluer si les travaux effectués par l’appelante dans le cadre de ses deux projets de recherche au cours de la période du 1er janvier 2015 au 31 décembre 2015 consistait en des activités de RS&DE. Monsieur Migneault a été reconnu comme expert en chimie liée à la fabrication de produits de béton, tels que ceux fabriqués par l’appelante.
+[23] Monsieur Migneault a déclaré avoir exécuté son mandat en toute objectivité et indépendance et il a affirmé ne pas avoir vu, ni avoir tenu compte, du rapport de la conseillère en recherche et technologie de l’ARC.
+[24] À son avis, aucun des travaux des deux projets de recherche de l’appelante n’est conforme à la définition d’activités de recherche et de développement expérimental de paragraphe 248(1) de la Loi parce que les cinq questions énoncées à la décision de principe Northwest Hydraulic Consultants Ltd. c. La Reine 1998 Canlii 553 (cci), à savoir :
+Q1 : Existait-il une incertitude scientifique ou technologique?
+Q2 : Est-ce que des hypothèses visant expressément à réduire ou à éliminer cette incertitude ont été formulées?
+Q3 : Est-ce que l’approche globale adoptée était conforme à une investigation ou recherche systématique, incluant la formulation et la vérification des hypothèses par voie d’expérimentation ou d’analyse?
+Q4 : Est-ce que l’approche globale adoptée visait à réaliser un avancement scientifique ou technologique?
+Q5 : Est-ce qu’un registre des hypothèses vérifiées et des résultats a été maintenue au cours des travaux?
+doivent être répondues par la négative pour les deux projets.
+[25] Plus particulièrement concernant le projet de panneaux modulaires, monsieur Migneault a formulé les commentaires suivants :
+le panneau que l’appelante cherche à développer est une version plus grande que celle qu’elle affichait déjà dans ses produits disponibles (des panneaux en «béton » fibré de dimension de 2’x 4’ et d’une épaisseur de ½ ou ¾ de pouces);
+avec les matériaux disponibles, notamment au niveau des adjuvants, les connaissances accessibles publiquement pour la cure et l’expérience acquise par l’appelante lors du développement de produits antérieurs, l’appelante pouvait obtenir un panneau à la dimension visée de 4 x 8 pieds avec une épaisseur de ½ à ¾ de pouces;
+à chaque étape de ses travaux, l’appelante a procédé par l’application de solutions connues pour régler les problèmes de nature technique rencontrés, et ce, sans émettre d’hypothèses visant à adresser une incertitude;
+faute de ressources, l’appelante n’a pas examiné les causes possibles de ses échecs;
+l’appelante n’a pas produit de relevés concernant la résistance en flexion de ses panneaux;
+la série d’essais visant à déterminer la quantité de fibres se retrouve dans les feuilles d’expérience sans que chaque essai décrit soit accompagné de mesures quantitatives quant à l’effet de l’ajout de fibres dans la formule du ciment; les types de fibres ne sont pas non plus identifiés dans ces essais;
+le type de ciment utilisé pour les essais est indiqué aux relevés mais varie au long des essais entre trois types et une combinaison de deux d’entre eux sans explication de ce qui est recherché dans ces changements, sauf à une exception près;
+l’appelante n’a pas cherché à trouver la cause du manque de durabilité des moules;
+aucune mesure quantitative n’est rapporté dans la description du projet ou dans les feuilles d’expérience;
+les méthodes de mesure de la résistances mécanique (en compression et en flexion) n’ont pas été identifiées et les valeurs n’ont pas été rapportées;
+pour plusieurs essais, la formulation (quantité de ciment, eau et fibres) n’est pas fournie. Dans la plupart des cas, seule la quantité de ciment (en termes de poches) est indiquée.
+[26] Concernant le projet de procédé de mixage et de coulage de planchers en béton poli, monsieur Migneault a formulé les commentaires suivants :
+les planchers en béton, même polis, ne représentent pas un nouveau produit sur le marché. Ce domaine est d’ailleurs règlementé. Les connaissances publiques et les normes en vigueur fournissaient suffisamment d’indications pour mener à bien la mise au point d’un procédé de fabrication ou l’amélioration de ce type de produit;
+à partir de la formulation de départ établie par ce qui est connu dans le domaine, l’appelante a ensuite formulé des suppositions éclairées afin d’atteindre les caractéristiques désirées pour le produit, de planchers en béton polis;
+les problèmes rencontrés étaient d’ordre technique. Certains ont été réglés par des solutions connues dans le domaine : l’utilisation d’un agent réducteur de retrait et draps de cure pour la réduction de fissures en surface. D’autres solutions, comme l’ajout de cendres volantes causant une coloration indésirable, ont été simplement contournées ou abandonnées;
+pour ce projet, le type de client utilisé n’est indiqué nulle part. En consultant les factures, la majeure partie du ciment acheté pour les projets est un type de ciment spécialisé pour les réparations de structure extérieures;
+le type d’eau utilisé lors des essais n’est pas indiqué;
+la ressuage observé lors du premier essai peut avoir plusieurs causes : trop d’eau, une mauvaise manipulation après le coulage, un temps de prise trop long pour temps froid. Seule une cause a été explorée : la réduction de l’eau;
+afin d’augmenter la fluidité du béton, l’appelante a décidé d’ajouter un super plastifiant. Les super plastifiant ont la propriété de rendre le béton plus fluide (effet plastifiant) et d’augmenter la force du béton (résistance en compression) grâce à la réduction d’eau que leur utilisation permet. L’utilisation du produit conçu à cet effet donne le résultat escompté et ne constitue pas un avancement;
+dans les essais no5 et no6, les cendres volantes sont ajoutées afin de diminuer les fissures. Une coloration invisible développe en séchant. L’appelante n’a pas cherché à déterminer la cause du problème et a décidé de simplement retirer l’ingrédient de la formulation du produit;
+dans l’essai no7, les cendres volantes ont été retirées de la formulation et remplacées par un agent réducteur de retrait, un produit connu pour diminuer aussi la formulation de fissures;
+le ciment principalement utilisé (FA-56) semble contenir un entraîneur d’air (agent moussant). L’agent réducteur de retrait va diminuer cet effet, mais n’est pas suffisant à lui seul, d’où le recours au drap de cure. Donc, les problèmes de fissures à la surface du béton et pores observés ont été réglés avec des solutions connues dans le domaine et ne représente pas un avancement;
+pour les essais de reproductibilité effectué, des feuilles d’expérience ne sont pas fournies et aucun résultat n’est rapporté;
+l’appelante reconnaît, fautes de ressources, que toutes les causes possibles des échecs n’ont pas été examinées;
+le type de super plastifiant utilisé, de type naphtalène, est un plastifiant pour le béton de seconde génération avec une capacité de réduction d’eau intermédiaire. Des réducteurs d’eau de troisième génération existaient déjà à l’époque. Ils offrent une réduction d’eau supérieure tout en augmentant la résistance en compression du béton. Ce type de béton est dénommé béton UHP (Ultra Haute Performance) et est aujourd’hui en usage chez l’appelante. L’appelante a augmenté sa base de connaissances des produits disponibles sur le marché et sur la manipulation du béton. Il s’agit d’un apprentissage qui ne constitue pas un avancement;
+les travaux ont visé à soutenir l’apprentissage de l’appelante dans la fabrication d’un produit existant sur le marché, soit des planchers en béton polis;
+bien qu’un registre existe (les feuilles d’expérience), il ne contient pas d’hypothèses, ni toutes les mesures permettant d’établir une relation de cause à effet dans les paramètres explorés;
+plusieurs mesures importantes, telles que le temps de prise, le temps entre la coulée, la mesure de la dureté de la surface et la force du béton (résistance en compression ne sont pas rapportées ou sont manquantes).
+[27] Monsieur Migneault a entendu le témoignage de monsieur Tremblay à l’audience mais les informations techniques fournies par ce dernier n’ont pas été suffisantes pour le convaincre de l’admissibilité des projets de recherche de l’appelante au programme de RS&DE.
+Question en litige
+[28] Il s’agit de déterminer si les activités exercées par l’appelante dans le cadre des deux projets de recherche en litige constituent des activités de RS&DE au sens de la Loi. Si les activités exercées par l’appelante dans le cadre de l’un ou l’autre des deux projets peuvent être qualifiées d’activités de RS&DE, il faudra alors déterminer si les dépenses engagées par l’appelante dans le cadre du ou des projets sont des dépenses déductibles en vertu de l’article 37 de la Loi, ainsi que des dépenses admissibles pour le calcul du CII selon le paragraphe 127(5) de la Loi.
+Le fardeau de la preuve
+[29] Il appartient à l’appelante de démontrer, selon la prépondérance des probabilités, que les activités de recherche répondent à la définition d’activités de RS&DE et que (2) les dépenses qu’elle a engagées sont des dépenses déductibles pour activités de RS&DE selon l’article 37 de la Loi et des dépenses admissibles pour le calcul du CII. Une solide preuve documentaire est généralement nécessaire à cette fin mais elle n’est pas obligatoire.
+[30] Les dépenses de recherche réclamées par l’appelante pour l’année d’imposition 2015 ont été vérifiées par l’ARC et ne font pas l’objet d’une admission de la part de l’intimée.
+Le droit
+[31] Les activités de RS&DE sont définies au paragraphe 248(1) de la Loi de la façon suivantes :
+activités de recherche scientifique et de développement expérimental Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+a) la recherche pure, à savoir les travaux entrepris pour l’avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l’avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l’étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l’exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données. (scientific research and experimental development)
+(1) Analyse
+[32] Dans la décision Northwest Hydraulics Consultants Ltd. c. Canada [1998] A.C.I, no340(OL), le juge Bowman (tel était alors son titre) a formulé, en se basant sur la circulaire d’information 86-4R3 du 24 mai 1994 intitulé « Recherche scientifique et développement expérimental », cinq critères pour déterminer si des travaux constituent des activités de RS&DE. Ces critères doivent tous être remplis pour que les activités de recherche puissent être qualifiées d’activités de RS&DE. Les critères énoncés sous forme de questions sont reproduits au paragraphe 24 ci-dessus et font partie des questions auxquelles l’expert retenu par la ministre de la Justice du Canada a dû répondre dans le cadre de son mandat.
+(1) Existait-il une incertitude scientifique ou technologique?
+[33] À la lumière des témoignages et de la preuve documentaire soumise, je suis d’opinion que les deux projets de recherche de l’appelante ne comportaient pas d’incertitude scientifique ou technologique permettant de qualifier ses travaux de développement expérimental d’activités de RS&DE.
+[34] L’appelante a adopté des pratiques courantes pour solutionner les difficultés techniques rencontrées à chaque étape du développement de ses produits.
+[35] Comme l’a si bien dit la juge Lafleur dans Béton Mobile du Québec Inc. c. La Reine 2019 CCI 278 :
+«… la création d’un nouveau produit par l’application de techniques, de procédures et de données généralement accessibles aux spécialistes compétents dans le domaine ne constituera pas une activité de RS&DE, même s’il existe un doute quant à la façon dont l’objectif sera atteint. Autrement dit, le simple fait qu’un produit n’existe pas ne permet pas nécessairement d’inférer que son développement comporte une incertitude technologique ou scientifique (Flavor Net Inc. C. La Reine, 2017 CCI 179 (« Flavor Net ») par. 37 » (par. 43).
+(2) Hypothèses
+[36] Dans la décision de Northwest Hydraulics Consultants Ltd., précitée le juge Bowman a énoncé au paragraphe 16 un processus en cinq étapes permettant de déterminer si ce second critère est rencontré. Ces cinq étapes sont les suivantes:
+a) l’observation de l’objet du problème;
+b) la formulation d’un objectif clair;
+c) la détermination et la formulation de l’incertitude d’une hypothèse;
+d) la formulation d’une hypothèse ou d’hypothèses destinées à réduire ou à éliminer l’incertitude;
+e) la vérification méthodologique et systématique des hypothèses.
+[37] La preuve a clairement démontré que ce critère n’était pas rencontré par l’appelante à l’égard de ses deux projets de recherche. L’appelante n’a effectué aucune vérification systématique des causes des problèmes techniques rencontrés à chacune des étapes de ses projets de recherche.
+(3) Méthode scientifique
+[38] Pour déterminer si ce critère est rencontré, il y a lieu de considérer si les procédures adoptées par l’appelante sont conformes aux principes établis et aux principes objectifs de la méthode scientifique, définis par l’observation systématique, la mesure et l’expérimentation ainsi que la formulation, la vérification et la modification d’hypothèses? (voir le par. 16 de Northwest Hydraulics Consultants Ltd. précité).
+[39] L’analyse de la preuve révèle que l’appelante n’a pas adopté une méthode scientifique dans l’exécution de ses activités de recherche dans le cadre de ses deux projets. L’appelante plutôt procédé à la résolution de ses problèmes techniques par la méthodes d’essais et erreurs sans essayer de comprendre ou de résoudre les problèmes associés à la technologie utilisée.
+(4) Progrès au avancement technologique ou scientifique
+[40] L’appelante a réussi le développement de panneaux modulaires en béton et de planchers en béton poli rencontrant les caractéristiques désirées mais l’appelante y est parvenue en utilisant des technologies connues pour résoudre les problèmes techniques rencontrés. L’approche globale adoptée ne visait pas à réaliser un avancement scientifique ou technologique.
+(5) Compte rendu détaillé
+[41] Selon ce qui a été mis en preuve, la documentation (les feuilles d’expérience) soumise par l’appelante à l’égard de ses deux projets de recherche est clairement insuffisante. Les éclaircissements fournis par monsieur Tremblay lors de son témoignage, quoiqu’ utiles, ne peuvent remédier à cette déficience.
+Conclusion
+[42] Compte tenu de l’analyse des cinq critères ci-dessus énoncés, je conclus que les activités exercées par l’appelante dans le cadre de ses deux projets de recherche ne sont pas des activités de RS&DE.
+[43] Par conséquent, il n’est pas nécessaire de considérer si les dépenses réclamées par l’appelante à l’égard lesdits projets de recherche sont des dépenses déductibles en vertu de d’article 37 de la Loi et des dépenses admissibles pour le calcul du crédit d’impôt à l’investissement selon le paragraphe 127(5) de la Loi.
+[44] Pour ces motifs, l’appel de l’appelante pour l’année d’imposition 2015 est rejeté sans frais.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2022.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2022 CCI 2
+Nº DU DOSSIER DE LA COUR :
+2018-4287(IT)I
+INTITULÉ DE LA CAUSE :
+ATELIER BÉTON INC.
+ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 19, 20, 21 octobre 2020
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 27 janvier 2022
+COMPARUTIONS :
+Représentant de l'appelante :
+Yves Hamelin
+Avocat de l'intimée :
+Me Renaud Fioramore-Beaulieu
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Aucun
+Cabinet :
+BLANK
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

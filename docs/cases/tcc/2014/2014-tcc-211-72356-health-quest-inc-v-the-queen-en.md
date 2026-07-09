@@ -1,0 +1,182 @@
+---
+title: "Health Quest Inc v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/72356/index.do"
+last_modified: "2014-06-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 211"
+citation2: ""
+neutral_citation: "2014 TCC 211"
+decision_date: "2014-06-30"
+language: "en"
+item_id: "72356"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5349
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:40:01.571000+00:00"
+cases_cited_count: 9
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "50f232ff98c2e5a3b6fe1a16c724a7525c8196531a9b3659cfbedcd5ff42c340"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Health Quest Inc v. The Queen
+
+- Citation: 2014 TCC 211
+- Decision date: 2014-06-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5349, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Health Quest Inc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-06-30
+Neutral citation
+2014 TCC 211
+File numbers
+2012-5007(GST)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-5007(GST)I
+BETWEEN:
+HEALTH QUEST INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 15, 2014, at St. John's, Newfoundland
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+Heidi Scott
+Counsel for the Respondent:
+Devon Peavoy
+JUDGMENT
+The appeal, from the assessment made under Part IX of the Excise Tax Act for the periods from January 1, 2008 to December 31, 2009 with respect to Notice of Reassessment dated October 17, 2012, is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of June 2014.
+“Diane Campbell”
+Campbell J.
+Citation: 2014 TCC 211
+Date: 20140630
+Docket: 2012-5007(GST)I
+BETWEEN:
+HEALTH QUEST INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] The issue in this appeal is whether Harmonized Sales Tax (“HST”) is applicable to the sales of certain types of footwear during the period from January 1, 2008 to December 31, 2009 (the “Period”) or, more specifically, whether those shoes ought to be zero-rated under section 24.1 of Schedule VI, Part II, of the Excise Tax Act (the “Act”).
+[2] I am allowing the appeal because the Respondent, in its Reply to the Notice of Appeal, did not comply with the basic principles, established in the jurisprudence, regarding the pleading of the assumptions of fact. Those assumptions contained mixed questions of law and fact, making it impossible for the Appellant to know the case it had to meet. Consequently, the burden of proof is with the Minister of National Revenue (the “Minister”) to lead evidence to support its position. Since such evidence was not adduced by the Respondent at the hearing, the Appellant must be the successful party in this appeal.
+The Facts [3] Although a detailed review of the facts is not essential, given the basis upon which I am allowing the appeal, I believe it may be helpful to the parties, should a similar issue come before this Court in the future, if I make a few general comments concerning the type of information that would have assisted the Court. To do so, an understanding of the factual matrix before me is essential.
+[4] The Appellant was represented by Heidi Scott, its director. She is a certified pedorthist who works for the Appellant. As I understand the evidence, she has specialized training in fitting therapeutic footwear for the relief of various disabling conditions of the feet. The Appellant is a distributor of such footwear and, according to Ms. Scott, acts as a “dispensing profession”, comparable to a pharmacy.
+[5] The assessment for the Period was based on the overall sales for two months only, August and December of 2009. The Appellant was assessed for uncollected HST in the amount of $42,274.72 for the Period. After the audit, the Appellant was advised to follow the auditor’s definition of zero-rated footwear for subsequent taxation years. The auditor instructed the Appellant to “… apply tax to everything we sold that was not modified” (Transcript, page 25). Based on this advice, the Appellant applied HST to the sale of many shoes sold in 2010 and 2011 that would not normally have been taxed. According to Ms. Scott, this put the Appellant at a disadvantage in the marketplace because competitors had not been forced to adopt this practice. She testified that insurance companies and third party billers questioned their practice of taxing formerly zero-rated footwear. This prompted Ms. Scott to seek further instructions from the Minister’s office but, each time she made contact, she received conflicting advice as to which shoes should be zero-rated. One official referenced a “list” of non‑exempt shoes but others, including Craig Bourne, the appeals officer who testified at this hearing, denied that a “list” existed.
+[6] The evidence supports Ms. Scott’s testimony that she was in regular communication with Canada Revenue Agency (“CRA”) officials throughout the audit, assessment and reassessment stages. Subsequently, CRA officials advised the Appellant that its customers could apply for a rebate of HST “collected in error” for shoes that should not have been taxed initially. The Appellant’s customers were given assistance in completing the application forms. Exhibit A-1 provided a sample list of customers who successfully claimed this rebate. Although the rebates occurred after the Period before me, many of the items, for which a rebate was paid, were either the identical items that are presently in issue before this Court in this appeal or were the same brand of footwear.
+[7] The Appellant also contended that some of the shoes on the list, entitled “Taxable Supplies of Footwear”, were found to be HST-exempt by the appeals officer, while other identical shoes with the same features on the list remained taxable.
+[8] Exhibit A-1 (Tab 3) and the document entitled “Taxable Supplies of Footwear” provide an outline of the shoes that were deemed non HST-exempt by the auditor and the 45 changes that were made by the appeals officer to the auditor’s findings. The reasons for finding those additional 45 items to be zero‑rated range from extra depth, special steel shank for increased rigidity, custom moulding to double-depth footbed.
+[9] Craig Bourne testified on behalf of the Respondent. He changed some of the auditor’s findings based on some product literature that he reviewed, but stated that product literature had not been provided for many of the items of footwear. In respect to these latter items of footwear, he used the internet to search for additional information. Based on these searches, he allowed some shoes to be zero-rated but, where he did not find “compelling evidence”, he did not permit the footwear to be HST-exempt.
+[10] Ms. Scott testified that some manufacturer’s websites, aimed at the general public, also have medical websites which contain additional information. These medical websites, however, are for the exclusive access by the medical profession. Mr. Bourne would not have had access to those sites and the Appellant did not produce product literature or materials from such websites either.
+[11] There is also an additional issue in this appeal respecting the identification of those shoes which were permanently modified for a customer. The Respondent conceded such individually modified footwear would be zero-rated. Ms. Scott submitted that some of the shoes on the list had been permanently modified and, therefore, should have been zero-rated. However, she went on to testify that any shoe on the list in respect to this appeal that was not “… off-the‑shelf orthopaedic, in all likelihood it was modified, permanently modified” (Transcript, page 61). She explained that the Appellant’s software system failed to recognize and indicate whether a shoe had been permanently modified, although the client files, which were provided to the auditor, did contain this information. She testified that the CRA retained the client files throughout the audit and appeal process.
+[12] Mr. Bourne testified that he did not receive information to indicate that any of the shoes on the list had been permanently modified. In cross‑examination, Ms. Scott stated that she had given information previously that all shoes, that were determined by CRA to be taxable, had been permanently modified. The Appellant provided this Court with the client files for the month of August 2009 (Exhibit A-2) to confirm her claim that there were modifications to the footwear on the list and suggested that she had files to support such footwear modifications for the other months in the Period.
+[13] A review of these client files shows that out of 7 files, several indicate that the shoes were modified for the customer, however, not all of them contain that information.
+The Appellant’s Position [14] Many of the shoes on the list in this appeal were permanently modified and, therefore, should be zero-rated.
+[15] Where CRA issued refunds and rebates for many of the same shoes in 2010 and 2011, they were likely also tax-exempt in 2008 and 2009, the Period under appeal. Ms. Scott was frustrated by the inconsistencies in the CRA’s communications to her and the fact that rebates were being given to customers for footwear on which she was advised to apply taxes.
+[16] Availability of the shoes, at a shop such as Sport Chek, does not detract from the special features of shoes that can be used to assist crippled or deformed feet. All of the shoes on the list were for a prescribed diagnosis. In addition, even if a customer took their prescription to Sport Chek, that store would not complete a biomechanical assessment to support the doctor’s prescription.
+[17] The Appellant took issue with CRA’s interpretation that, if a healthy foot can comfortably wear an orthopaedic shoe, then it will not be tax-exempt. She argued the reverse of this theory: “It’s not that can a healthy foot go into either of these shoes; it’s can a disabled foot go into any of these shoes” (Transcript, page 45). Although a person without a foot deformity may be able to wear many of the models of footwear without damaging their feet, the footwear will have specific features that will allow a correction or improvement for an individual with a foot deformity.
+[18] Finally, the Appellant argued that some weight should be given to the opinions and criteria contained in the Canadian Podiatric Medical Association (“CPMA”) and the American Podiatric Medical Association (“APMA”) literature because they contain knowledge necessary in determining whether footwear is assisting a diagnosed ailment.
+The Respondent’s Position [19] The Minister took issue only with “off-the-shelf” shoes, for which it submitted there is no evidence to conclude that they were permanently modified. Therefore, shoes that are sold “as-is” should be subject to HST.
+[20] With respect to the interpretation of the wording of the legislative provision, the Respondent submitted that, in respect to the terms “crippled or deformed or other similar disability”, issues such as pronation or flat feet or pain due to prolonged standing are not foot ailments that meet the specified criteria set out in the Act. Although the phrase “other similar disability” is wider in scope than “crippled or deformed”, the Respondent argued that the disability must be “similar” to being crippled or deformed.
+[21] With regard to the legislative term “specially designed”, the Respondent submitted that synonyms, for the word “specially”, such as “expressly”, “specifically”, “particularly”, “especially”, “principally” or “predominantly”, mean that there must be evidence that the product manufacturer intended the footwear to be specifically or particularly for individuals with crippled or deformed feet.
+[22] The Respondent submitted that the wide availability of certain kinds of footwear at shops, such as Sport Chek, suggests that the footwear is not specially designed with a particular client base in mind.
+Analysis [23] In 2008 and 2009, the applicable provision, section 24.1 of Schedule VI, Part II of the Act read as follows:
+24.1 [Footwear] – A supply of footwear that is specially designed for use by an individual who has a crippled or deformed foot or other similar disability, when the footwear is supplied on the written order of a medical practitioner.
+It provides that certain footwear will be zero-rated for HST purposes under certain circumstances. The section has been amended slightly, with its current wording being somewhat broader and, as well, by allowing the prescriptions to come from all specified professionals, not only medical practitioners. This change would not affect the outcome of this appeal and the Respondent did not put in issue the prescriptions respecting the footwear that was sold. In fact, the parties agreed that all of the shoes that are the subject of this appeal were accompanied by the proper medical prescriptions. Prior to 1996, a written prescription was not required for shoes to be zero-rated.
+[24] The Respondent submitted that the Appellant produced insufficient evidence to enable this Court to make a proper finding on the status of the list of shoes in question. I agree with the submission that I do not have sufficient information to come to conclusions respecting the majority of the shoes on the list. I was not provided with product literature on the shoes, although I am informed that it exists, nor did I hear evidence from an expert or a medical practitioner, respecting which types of footwear and the features they may specifically possess, which would qualify the footwear as being “specially designed” for a “crippled or deformed or similarly disabled foot” as per the legislation.
+[25] However, despite this lack of evidence, the Respondent bears the burden of proof because of the problems and inadequacies with the assumptions of fact contained paragraph 7 of the Reply to the Notice of Appeal. The Respondent relied upon the following brief assumptions:
+(a) the facts stated and admitted above;
+(b) the Appellant was a GST/HST registrant;
+(c) the Appellant was required by the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the “Act”) to file its GST/HST returns on a quarterly basis;
+(d) the Appellant was a corporation involved in the supply of footwear which were specially modified by the Appellant or were specially designed by the manufacturer for persons with physical disabilities;
+(e) the products described in subparagraph 7(d) above are zero-rated for HST pursuant to Schedule VI of the Act;
+(f) the Appellant also supplied other products which were not zero-rated pursuant to Schedule VI of the Act; and
+(g) during the periods under appeal, the Appellant failed to collect tax of not less than $42,274.72 on its supply of products which were not zero-rated pursuant to Schedule VI of the Act.
+[26] Although the Respondent used the introductory phrase, “[i]n so assessing the Appellant, the Minister relied on the following” and not the usual wording “the Minister made the following assumptions” or wording similar to this effect, the Minister is not required to use that typical wording for alleged facts to constitute assumptions with a Reply (Voitures Orly Inc./Orly Automobiles Inc. v The Queen, 2005 FCA 425, [2005] FCJ No. 2116).
+[27] Assumptions (f) and (g) are the two crucial assumptions of the seven pleaded in the Reply. They both contain statements of mixed fact and law. According to the jurisprudence, the Minister is prohibited from assuming statements of mixed fact and law and is limited to making factual assumptions only.
+[28] In Canada (Director of Investigation and Research) v Southam Inc., [1997] 1 SCR 748, the Supreme Court of Canada, at paragraph 35, distinguished a question of fact, a question of law and a question of mixed law and fact in the following statements:
+35. Briefly stated, questions of law are questions about what the correct legal test is; questions of fact are questions about what actually took place between the parties; and questions of mixed law and fact are questions about whether the facts satisfy the legal tests. A simple example will illustrate these concepts. In the law of tort, the question of what “negligence” means is a question of law. The question whether the defendant did this or that is a question of fact. And, once it has been decided that the applicable standard is one of negligence, the question whether the defendant satisfied the appropriate standard of care is a question of mixed law and fact. I recognize, however, that the distinction between law on the one hand and mixed law and fact on the other is difficult. On occasion, what appears to be mixed law and fact turns out to be law or vice versa.
+[29] The Federal Court of Appeal in Anchor Pointe Energy Ltd. v The Queen, 2003 FCA 294, 2003 DTC 5512, at paragraphs 23 and 25, stated that mixed statements of law and fact have no place in the Minister’s assumptions:
+[23] The pleading of assumptions gives the Crown the powerful tool of shifting the onus to the taxpayer to demolish the Minister’s assumptions. The facts pleaded as assumptions must be precise and accurate so that the taxpayer knows exactly the case it has to meet. There is no reason why the requirement for precision and accuracy does not apply to the Crown accurately stating the circumstances in which the assumptions arose, that is, on an assessment, reassessment or confirmation. …
+[…]
+[25] I agree that legal statements or conclusions have no place in the recitation of the Minister’s factual assumptions. The implication is that the taxpayer has the onus of demolishing the legal statement or conclusion and, of course, that is not correct. The legal test to be applied is not subject to proof by the parties as if it was a fact. The parties are to make their arguments as to the legal test, but it is the Court that has the ultimate obligation of ruling on questions of law.
+[30] More recently, the Federal Court of Appeal confirmed the principles stated in Anchor Pointe in its decision in Canadian Imperial Bank of Commerce v The Queen, 2013 FCA 122, 2013 FCJ No. 504.
+[31] In the present appeal, since the Minister’s crucial assumptions are statements of mixed law and fact, they have placed the Appellant at a distinct disadvantage in determining the case it would have to meet. The Respondent has assumed how the law is to be applied to the facts and has assumed the shoes were not zero-rated pursuant to Schedule VI of the Act. Such an assumption is not one of fact but, rather, states the answer to the precise question that is before me to decide. It consists of the Respondent’s opinion on the applicability of the law to the facts of the appeal. This is precisely the type of assumption the Supreme Court of Canada (Canada (Director of Investigation and Research)) had in mind when the Court defined questions of mixed fact and law.
+[32] The Reply contains no assumptions of fact, or material facts pleaded elsewhere in the Reply, that would do the following: clearly distinguish for the Appellant those features of the footwear for which the Minister alleges HST should have been collected and remitted as opposed to those features of the footwear where HST did not have to be collected. Assumptions (f) and (g) do not assist the Appellant in this regard and merely make a statement as to how the law applies to the facts. As well, there were no other such facts assumed elsewhere in the Reply. Consequently, there is no onus on the Appellant to demolish the Minister’s assumptions, as they are invalid.
+[33] Where the Minister has not set out any proper assumptions of fact in the pleadings, the onus then reverts to the Minister to establish the correctness of the assessment.
+[34] Huggesen J.A. in Pollock v Minister of National Revenue, 94 DTC 6050 (FCA), at paragraph 20, made the following comments respecting the Minister’s pleading of assumptions:
+[20] Where, however, the Minister has pleaded no assumptions, or where some or all of the pleaded assumptions have been successfully rebutted, it remains open to the Minister, as defendant, to establish the correctness of his assessment if he can. In undertaking this task, the Minister bears the ordinary burden of any party to a lawsuit, namely to prove the facts which support his position unless those facts have already been put in evidence by his opponent. This is settled law.
+[35] Webb J. (as he was then) came to the same conclusion in Brewster v The Queen, 2012 TCC 187, 2012 DTC 1178, where he allowed the appeal because there were no valid assumptions of fact pleaded for the Appellant to demolish and the Respondent did not lead any evidence to support its position.
+[36] The Respondent’s only evidence was the testimony of the appeals officer. Although Mr. Bourne was straightforward in providing his testimony, it did not establish that the footwear in issue should be, on a balance of probabilities, subject to HST. His conclusion was simply that he could not find sufficient information, either through product materials or the internet, to allow the shoes to be zero-rated. Rather, his conclusion was based on a lack of knowledge respecting the footwear. The Respondent bears the onus to establish that the footwear would be excluded from the scope of the legislative provision. I was not provided sufficient evidence to persuade me that, on a balance of probabilities, the shoes were not specially designed for use for a “crippled or deformed or similarly disabled foot”. Since there were no assumptions of fact pleaded and since the Respondent did not lead evidence in this regard, the Appellant must succeed in its appeal.
+Additional Comments [37] As the conclusion in this appeal suggests, whichever party has the onus of establishing whether footwear may or may not be subject to HST must adduce evidence to this effect. It would be beneficial to the Court to have product literature, any scientific studies conducted and testimony of medical professionals. Expert testimony could have provided evidence respecting the features of such shoes, the design, the purpose, the medical benefits of certain types of footwear over another and the impact of footwear on certain foot conditions. It was this type of information that was missing in this appeal and, since the provision is without jurisprudence, such information was essential in order to engage in a meaningful textual, contextual and purposive analysis of the applicable legislative provisions governing the issue.
+[38] The Respondent’s position that shoes, specially designed to address conditions such as pronation or flat feet, do not fall within the terms of the provision, was arbitrary. It may well be that, given additional information and evidence, certain medical conditions that are severe enough to interfere with regular activity and functioning may fall within the ambit of the legislation, but I did not have that evidence before me.
+[39] The fact that footwear may receive a CPMA or APMA designation will not, on its own, be a conclusive factor in the analysis of whether a shoe will be zero-rated for the purposes of the Act. Both of these not-for-profit organizations provide their seals of approval to certain footwear depending on a number of criteria being met, but appear to base their approval on comfort and safety rather than use and design for medical conditions of the foot. Consequently, on their own, they add little, if any, weight in making conclusions concerning the issue.
+[40] There is no caselaw dealing directly with the interpretation and application of section 24.1 of the Act. The Respondent submitted several decisions which dealt with the term “specially designed”. The decision in Lister v The Queen, 2006 FCA 331, 2006 DTC 6721, dealt with a claim for a medical expense tax credit in respect to additional money paid for medical assistance received at a retirement community. The Court decided that the interpretation of the term “specially provided” in paragraph 118.2(2)(e) of the Income Tax Act required an analysis of the “principal function” of the nursing home versus the “incidental role” it played in providing some medical services to its residents.
+[41] In Masai Canada Limited. v Canada (Border Services Agency), 2012 FCA 260, [2012] FCJ No. 1350, the Court dealt with whether imported therapeutic sports shoes were subject to duty. They would not be subject to duty if they were found to be “specifically designed to assist persons with disabilities in alleviating the effect of those disabilities”. The Federal Court of Appeal agreed with the conclusions of the Canada International Trade Tribunal (the “Tribunal”), which heard expert testimony, and found that the shoes should be duty-free. Canada Border Services Agency argued that the shoes should be subject to duty as they were not specially designed to assist persons with disabilities. Rather, they were designed to increase muscle activity and to tone the lower body. Similarly to the appeals before me, the Agency also argued that, since the shoes were used by members of the general public and were available through commercial retailers, they should be subject to duty under the Customs Tariff, SC 1997, c 36. The Tribunal stated that the best method of establishing that the shoes were “specially designed” to assist persons with disabilities would be to provide evidence of “purposeful intent during the design phase of a product” or to provide after-the-fact evidence that establishes intent was present during the product design (Masai, Tribunal decision, at paragraph 21). The Federal Court of Appeal commented, at paragraph 6 of its decision, that “… before the Tribunal was a nexus of evidence tying the general physiological effects to the alleviation of specific disabilities, a nexus that, in its judgment, allowed it to infer that the shoes were specifically designed for disabilities.” This case implied that to establish if a product, at least under the Customs Tariff, is “specially designed” there should be evidence on the design and purposive intent behind the design of the product. It is of note that this case relied on expert evidence as well.
+[42] In Tremblay v The Queen, [2001] GSTC 30, Lamarre J. concluded that the construction of a hoistway in an apartment building was necessary to the use of a wheelchair lift installed inside the hoistway. The wheelchair lift was zero-rated but the Minister had refused the rebate for the money spent on the hoistway construction. The Respondent submitted that Tremblay stood for the proposition that the hoistway was specially designed because it had no other use. The Respondent relied on the following passage to argue that “specially designed” equates to “exclusive use” in that, in order for the hoistway to have been specially designed for the wheelchair, it had to be exclusively used for the wheelchair:
+[11] … It is also clear that the hoistway was specially designed for the wheelchair lift and has no other use in the residential complex in which it was built.
+I do not believe the Respondent’s interpretation of this passage is correct based on its wording. Justice Lamarre did not use such words as “since” or “because”, which would have created a direct causal link between the special design and the exclusive use. Instead, Justice Lamarre uses the word “and” to connect the two thoughts:
+… the hoistway was specially designed for the wheelchair lift and has no other use … (Emphasis added)
+[43] While these cases provide some assistance, none of them are dealing directly with the relevant provision, section 24.1 of the Act.
+Conclusion [44] Since no assumptions of fact were pleaded and insufficient evidence was led by the Respondent, who now bears the initial onus to establish that the footwear at issue should be zero-rated, the appeal is allowed, without costs.
+Signed at Ottawa, Cana da, this 30th day of June 2014.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2014 TCC 211
+COURT FILE NO.:
+2012-5007(GST)I
+STYLE OF CAUSE:
+HEALTH QUEST INC. and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+St. John's, Newfoundland
+DATE OF HEARING:
+April 15, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+June 30, 2014
+APPEARANCES:
+Agent for the Appellant:
+Heidi Scott
+Counsel for the Respondent:
+Devon Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

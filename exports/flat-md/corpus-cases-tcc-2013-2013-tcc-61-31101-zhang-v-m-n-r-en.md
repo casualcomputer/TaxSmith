@@ -1,0 +1,150 @@
+---
+title: "Zhang v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31101/index.do"
+last_modified: "2013-02-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 61"
+citation2: ""
+neutral_citation: "2013 TCC 61"
+decision_date: "2013-02-20"
+language: "en"
+item_id: "31101"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4687
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:16:53.979000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ab60bea3d0643f3fba8ad29fba2742d9309f2b302db109362dca2d516c962b07"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zhang v. M.N.R.
+
+- Citation: 2013 TCC 61
+- Decision date: 2013-02-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4687, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zhang v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-02-20
+Neutral citation
+2013 TCC 61
+File numbers
+2012-2508(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2012-2508(EI)
+BETWEEN:
+XIAO ZHU ZHANG,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 8, 2013 at Toronto, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Thomas J. O’Leary
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to a decision made by the Minister of National Revenue under the Employment Insurance Act that the appellant was not engaged in insurable employment with BTS Express International Inc. during the period from January 1, 2011 to September 2, 2011 is dismissed.
+Signed at Ottawa, Ontario this 20th day of February 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 61
+Date: 20130220
+Docket: 2012-2508(EI)
+BETWEEN:
+XIAO ZHU ZHANG,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal stems from an application for employment insurance benefits by the appellant, Xiao Zhu Zhang. Mr. Zhang appeals from a decision made by the Minister of National Revenue that his employment with a corporation wholly‑owned by his brother was not insurable for purposes of the Employment Insurance Act.
+[2] The relevant period is from January 1 to September 2, 2011.
+[3] The basis for the Minister’s decision was that Mr. Zhang was related to the employer and that the terms and conditions of the employment were not substantially similar to arm’s length terms.
+[4] The relevant provisions are paragraph 5(2)(i) and subsection 5(3) of the Act, which are reproduced below.
+5. (2) Excluded employment - Insurable employment does not include
+[…]
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+5. (3) Arm’s length dealing - For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[5] Since it is clear that Mr. Zhang and the employer are related, the only question to be determined is whether it was reasonable for the Minister to conclude that the terms and conditions of Mr. Zhang’s employment were not substantially similar to arm’s length terms.
+[6] The general principle to be applied in a case such as this was succinctly described by Campbell J. in Porter v MNR, 2005 TCC 364:
+[13] In summary, the function of this Court is to verify the existence and accuracy of the facts relied upon by the Minister, consider all of the facts in evidence before the Court, including any new facts, and to then assess whether the Minister's decision still seems "reasonable" in light of findings of fact by this Court. This assessment should accord a certain measure of deference to the Minister.
+Discussion
+[7] Mr. Zhang and his brother, Jing Song Zhang, both testified at the hearing. To avoid confusion, I will refer to Jing Song Zhang as the brother in these reasons.
+[8] BTS Express International Inc. (“BTS”) was incorporated by the brother in 2002 to operate a delivery service in the greater Toronto area. It was a small company, employing about four people in the relevant period.
+[9] In an attempt to boost sales, BTS hired Mr. Zhang as a sales representative in 2011. The written contract of employment provided for a 40 hour work week at an annual salary of approximately $35,000. It was understood by the parties that some overtime might be required and that this was included in the annual salary.
+[10] The actual working conditions were significantly different than the written agreement. The contract stated that Mr. Zhang was employed as a sales representative. However, Mr. Zhang performed several other duties as well, such as dispatching, making deliveries and undertaking minor vehicle repairs. In addition, Mr. Zhang’s hours of work greatly exceeded the 40 hours per week that was in the written contract. Mr. Zhang testified that he worked about 50 hours per week, plus occasional weekends.
+[11] In light of the hours actually worked, Mr. Zhang negotiated a pay increase shortly after the employment commenced. The annual salary was increased to approximately $47,000 and it was paid on a retroactive basis to the start of the employment.
+[12] During the last three months of the employment relationship with BTS, Mr. Zhang also accepted employment with a printing company. The purpose of this arrangement was to give Mr. Zhang an opportunity to become acquainted with the printing company so that BTS could hopefully obtain their delivery business. The brother was fully behind the plan and Mr. Zhang was employed by both BTS and the printing company for about three months.
+[13] Mr. Zhang received $11 per hour at the printing company and his hours of work were slightly less than full time hours. During this period, he also continued to do some work for BTS.
+[14] Unfortunately, Mr. Zhang’s efforts were not successful in obtaining the printing company’s delivery business. After about three months, Mr. Zhang left the printing company and he was also laid off from BTS as there was not sufficient work.
+[15] The evidence also reveals that Mr. Zhang needed financial assistance when he started work with BTS. Consequently, he received a salary advance of approximately $3,700 at the commencement of the employment. The advance was subsequently repaid over time through deductions from pay cheques.
+[16] The brother testified that he had interviewed others for the sales representative job prior to his approaching Mr. Zhang. He said that those candidates typically asked for remuneration in the neighbourhood of $50,000, which was more than what he thought BTS could afford.
+[17] During the relevant period, two drivers were employed by BTS at a rate of about $11 to $13 per hour, plus extra for overtime.
+[18] In applying the provisions of the Act to the facts of this case, I have concluded that it was reasonable for the Minister to conclude that Mr. Zhang and BTS would not have entered into substantially similar terms and conditions of employment if they were dealing at arm’s length.
+[19] I note in particular that Mr. Zhang continued to be employed and paid by BTS during the last three months, even though he worked on almost a full time basis at the printing company. Although this arrangement was designed to benefit BTS ultimately, one would expect that, with an arm’s length employee, BTS would adjust the salary to compensate for the fact that the employee was also being paid by the printing company. It was not suggested that BTS had altered the pay. In essence, Mr. Zhang was double-dipping with BTS’s consent, which is not indicative of arm’s length dealing.
+[20] In addition, I am not satisfied that the $47,000 salary paid to Mr. Zhang represents an amount that would be paid to an arm’s length employee. Mr. Zhang has the burden to establish that an arm’s length employee would earn a similar salary. That burden has not been met.
+[21] As an example, the evidence was lacking in detail regarding the amount of time that Mr. Zhang spent on various duties. This evidence is crucial to establish whether the salary is arm’s length because some of the duties, such as deliveries, are typically lower-paying than a sales representative’s job. In the absence of detailed evidence as to all the relevant facts, I find that Mr. Zhang has failed to establish that his salary at BTS represented an arm’s length amount.
+[22] The Crown raised a number of other factors that further support the Minister’s decision:
+(a) a large pay raise would not be given at the beginning of employment in an arm’s length relationship,
+(b) a person hired as a sales representative would not be expected to do non-sales work, and
+(c) an arm’s length employee would not be given a large salary advance before starting work.
+[23] Taken together, these factors support the determination by the Minister. I would conclude, therefore, that the Minister’s decision is reasonable and that the appeal should be dismissed.
+Signed at Ottawa, Ontario this 20th day of February 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 61
+COURT FILE NO.: 2012-2508(EI)
+STYLE OF CAUSE: XIAO ZHU ZHANG and
+THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 8, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: February 20, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Thomas J. O’Leary
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

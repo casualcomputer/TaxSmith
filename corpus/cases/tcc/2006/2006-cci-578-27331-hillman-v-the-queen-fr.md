@@ -1,0 +1,193 @@
+---
+title: "Hillman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27331/index.do"
+last_modified: "2006-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 578"
+citation2: ""
+neutral_citation: "2006 CCI 578"
+decision_date: "2006-10-24"
+language: "fr"
+item_id: "27331"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 871
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:38:31.447000+00:00"
+cases_cited_count: 2
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "562d666c4d36a9f8888696ba1f5a533cd6f06a05f0cfba8d0d98dcb87f8dcafa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hillman v. The Queen
+
+- Citation: 2006 CCI 578
+- Decision date: 2006-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 871, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hillman v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-24
+Référence neutre
+2006 CCI 578
+Numéro de dossier
+2006-1697(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1697(IT)I
+ENTRE :
+EVAN S. HILLMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 octobre 2006 à Calgary (Alberta).
+Devant : L’honorable juge en chef adjoint Gerald J. Rip
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Mark Heseltine
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est rejeté.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2006.
+« Gerald J. Rip »
+Juge en chef adjoint Rip
+Traduction certifiée conforme
+ce 17e jour de janvier 2008.
+Jean David Robert, traducteur
+Référence : 2006CCI578
+Date : 20061024
+Dossier : 2006-1697(IT)I
+ENTRE :
+EVAN S. HILLMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Rip
+[1] Evan Hillman interjette appel d’une cotisation d’impôt sur le revenu établie à son égard pour son année d’imposition 2004 dans laquelle le ministre du Revenu national (le « ministre ») a refusé sa demande de crédit d’impôt pour frais de scolarité non remboursable de 3 794 $. Le ministre a refusé de lui accorder le crédit pour frais de scolarité au motif que les frais n’avaient pas été payés à un établissement d’enseignement situé au Canada – université, collège ou autre – offrant des cours de niveau postsecondaire, comme le prescrit l’alinéa 118.5(1)a) de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Les dispositions pertinentes du paragraphe 118.5(1) sont ainsi rédigées :
+118.5 (1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted,
+(a) where the individual was during the year a student enrolled at an educational institution in Canada that is
+(i) a university, college or other educational institution providing courses at a post‑secondary school level
+[…]
+(b) where the individual was during the year a student in full-time attendance at a university outside Canada in a course leading to a degree […]
+118.5 (1) Les montants suivants sont déductibles dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+a) si le particulier est inscrit au cours de l’année à l’un des établissements d’enseignement suivants situés au Canada :
+(i) établissement d’enseignement – université, collège ou autre – offrant des cours de niveau postsecondaire […]
+b) si, au cours de l’année, le particulier fréquente comme étudiant à plein temps une université située à l’étranger, où il suit des cours conduisant à un diplôme […]
+[3] L’appelant est diplômé en droit de la Faculté de droit Osgoode Hall de l’Université York. En 2004, il s’est inscrit à un cours pour se préparer à passer les examens du Barreau de l’État de New York, et, s’il réussissait aux examens, pour augmenter ses chances de décrocher un emploi et améliorer ses compétences professionnelles. Le cours auquel a assisté M. Hillman a été donné à Toronto pendant sept semaines, de la dernière semaine de décembre 2004 à la mi‑février 2005. Le cours était offert par BAR/BRI Bar Review, un organisme constitué en société aux États‑Unis dont le siège social est situé à New York. Apparemment, BAR/BRI est membre du groupe d’entreprises Thomson.
+[4] Le cours a été offert dans une salle de classe de l’école de conduite Ontario Driving School située à Toronto. BAR/BRI n’a aucun local permanent au Canada. Les leçons auxquelles a assisté M. Hillman étaient toutes enregistrées sur bande magnétoscopique[1]. BAR/BRI expédiait les vidéocassettes sur lesquelles les leçons étaient enregistrées à l’école située à Toronto. L’un des étudiants, en l’espèce M. Hillman[2], allait chercher les vidéocassettes dans les bureaux de l’école de conduite, présentait l’enregistrement de celle qui était appropriée pour la journée, puis la renvoyait par la poste à New York. Par la suite, les étudiants se mettaient à étudier et faisaient régulièrement des devoirs en temps limité, que M. Hillman envoyait à New York pour qu’ils soient corrigés. Les devoirs corrigés lui étaient retournés pour qu’ils soient distribués aux étudiants concernés. Si les étudiants avaient des questions sur le contenu d’une leçon ou s’ils avaient des commentaires à propos d’un devoir, ils en discutaient souvent entre eux. Cependant, ils pouvaient tous communiquer par eux‑même avec BAR/BRI.
+[5] BAR/BRI avait un site Web dans lequel étaient affichées les réponses complètes aux questions posées dans les devoirs ainsi que des critiques, y compris les erreurs courantes commises par les étudiants dans les réponses soumises.
+[6] Les parties en l’espèce conviennent que les 3 794 $ déduits par l’appelant ont été payés aux organismes suivants :
+BAR/BRI Bar Review[3]
+2 762,63 $US
+National Conference of Bar Examiners (Iowa)[4]
+52,00 $US
+New York State Board of Law Examiners[5]
+250,00 $US
+Total
+3 064,63 $US
+TOTAL Crédit pour frais de scolarité demandé relativement à un établissement situé au Canada
+3 794,00 $CAN
+[7] Pour établir la cotisation à l’égard de l’appelant, le ministre s’est fondé sur l’hypothèse, que l’appelant a admise, selon laquelle la somme de 2 762,63 $US payée à BAR/BRI Bar Review était constituée des frais suivants :
+Frais de cours 1 600 $
+Location de matériel 900 $
+Taxe 77,62 $
+Dépôt pour le matériel 125 $
+Expédition 60 $
+Divers 0,01 $
+[8] La question dont je suis saisi est de savoir si l’appelant a le droit de demander le crédit pour frais de scolarité de 3 794 $ dans le calcul de ses crédits d’impôt non remboursables et de son impôt dû pour son année d’imposition 2004. Il y a deux sommes différentes à examiner : les frais engagés pour le cours offert par BAR/BRI Bar Review et les frais pour les deux examens susmentionnés. Je dois décider si cet organisme est un « établissement d’enseignement » et, le cas échéant, s’il s’agit d’un établissement d’enseignement situé au Canada. Si je conclus que BAR/BRI est un établissement d’enseignement situé au Canada, je dois alors décider s’il offre des cours de niveau postsecondaire aux termes du sous‑alinéa 118.5(1)a)(i) de la Loi. Finalement, je dois décider si M. Hillman a payé les frais d’examen de 52 $US et de 250 $US à une université située à l’étranger où il a suivi des cours conduisant à un diplôme aux termes de l’alinéa 118.5(1)b).
+[9] M. Hillman a fait valoir que je dois interpréter le libellé de l’alinéa 118.5(1)a) de la façon suivante :
+[traduction]
+Si le particulier est inscrit au cours de l’année au Canada à un établissement d’enseignement.
+Je ne saurais retenir l’argument de l’appelant. La version anglaise de la disposition en question est claire et non ambiguë. Le libellé est précis : l’établissement d’enseignement visé est au Canada. Si j’avais quelque doute que ce soit à ce sujet, la consultation de la version française de la disposition confirmerait mon interprétation : les établissements d’enseignement visés au sous‑alinéa 118.5(1)a)(i) doivent être « situés » au Canada. La Cour suprême a souligné que le sens ordinaire des mots d’une disposition joue un rôle primordial dans le processus d’interprétation de celle‑ci (voir l’arrêt Hypothèques Trustco Canada c. Canada [6]).
+[10] Néanmoins, l’appelant a soutenu que, puisque l’objectif du cours qu’il a suivi est identique à celui des cours offerts par les barreaux des différentes provinces aux étudiants qui se préparent à passer les examens appropriés de ces barreaux, les frais payés à BAR/BRI pour de tels cours doivent faire l’objet d’un crédit pour frais de scolarité. Cette assimilation est raisonnable, mais elle n’est pas sanctionnée par la Loi.
+[11] Dans le bulletin d’interprétation IT‑516R2, à l’alinéa 3b), l’Agence du revenu du Canada reconnait qu’un ordre professionnel tel qu’un barreau d’une province est un « établissement d’enseignement » pour l’application du sous‑alinéa 118.5(1)a)(i) s’il offre des cours à ses membres et qu’une des conditions d’admissibilité au barreau est un diplôme d’études postsecondaires. BAR/BRI offre sans doute des cours à des personnes qui ont normalement un diplôme d’études postsecondaires et qui veulent satisfaire aux conditions d’admissibilité à un organisme professionnel. L’appelant explique que le seul fait que BAR/BRI effectue une tâche qu’accomplirait un barreau d’une province est suffisant pour en faire un organisme professionnel. Cependant, BAR/BRI n’est pas, en soi, un organisme professionnel ni un établissement d’enseignement. Il ne s’agit pas d’un organisme d’autoréglementation établi en vertu d’un texte législatif. De plus, l’appelant n’est pas membre de BAR/BRI, mais en est plutôt un simple client. BAR/BRI offrait simplement des cours de préparation, ce qui ne constitue qu’une tâche mineure des barreaux. En d’autres mots, le fait qu’un organisme accomplit une fonction propre aux ordres professionnels n’implique pas nécessairement que cet organisme fasse partie de la catégorie des organismes professionnels. L’appelant n’a présenté aucun élément de preuve laissant même entendre que BAR/BRI est un organisme professionnel. Si je dois adopter le point de vue de l’Agence du revenu du Canada selon lequel un organisme professionnel peut être considéré comme un établissement d’enseignement, je veux être convaincu qu’il s’agit au moins d’un organisme auquel la loi confère le pouvoir d’autoriser ses membres à pratiquer la profession concernée, qui examine les candidatures des personnes qui souhaitent en devenir membres et qui réglemente la conduite de ses membres. BAR/BRI n’accomplit pas ces fonctions. Je rejette les prétentions de l’appelant à cet égard.
+[12] Bien que j’aie déjà décidé que BAR/BRI n’est pas un établissement d’enseignement situé au Canada, il peut être utile d’examiner la question de savoir s’il s’agit d’un établissement d’enseignement. Dans la décision Friedland v. R.[7], le juge suppléant Rowe de la Cour canadienne de l’impôt, après avoir fait observer qu’il ne semble pas y avoir de définition universelle du terme « établissement d’enseignement », a tenté d’établir les paramètres de la définition dans le cadre de la Loi :
+[10] Le Oxford English Dictionary définit le mot « enseignement » (education) de la façon suivante :
+[traduction]
+3. Instruction, étude ou formation systématiques données aux jeunes gens afin de les préparer à une vie de travail; par extension, instruction ou formation obtenue à l’âge adulte. Désigne également le processus complet de l’instruction scolaire dont un individu a bénéficié. Souvent utilisé avec des mots restrictifs qui indiquent la nature ou l’objet principal de l’instruction ou le genre de vie auquel elle prépare, comme classique, juridique, médical, technique, commercial, artistique.
+et définit le mot « établissement » (institution) ainsi :
+[traduction]
+7. Institution, organisation ou association fondée pour la promotion d’un certain objectif, particulièrement un objectif d’utilité publique ou générale, religieux, charitable, d’enseignement, etc., comme une église, une école, un collège, un hôpital, un asile, une maison de correction, un poste de missionnaire; [...] Ce mot est souvent familièrement utilisé pour désigner les édifices utilisés par un établissement de bienfaisance ou d’enseignement.
+[13] Le Black’s Law Dictionary, 6e édition, définit un « établissement d’enseignement » (educational institution) de la façon suivante :
+[traduction]
+École, séminaire, collège, université ou autre institution d’enseignement, qui ne détient pas nécessairement de charte. Tel qu’il est utilisé dans les ordonnances de zonage, ce terme peut inclure les édifices ainsi que tous les terrains nécessaires pour mener à bien l’enseignement éducatif dans son ensemble, y compris les aspects essentiels du développement mental, moral et physique.
+[14] BAR/BRI ne remplit pas ces critères.
+[15] Les frais en cause ont été payés à un organisme situé à l’étranger. Pour savoir s’il est en droit de recevoir un crédit pour frais de scolarité dans ces circonstances, M. Hillman doit se fonder sur l’alinéa 118.5(1)b), qui énonce qu’un paiement doit être fait à une université. Dans la décision Gilbert v. R.[8], le juge Mogan a examiné les différences entre les organismes situés au Canada et ceux qui sont situés à l’étranger et a dit ce qui suit à ce sujet :
+[20] Il est intéressant de voir le contraste qu’il y a entre les alinéas a) et b). Si la personne fréquente un établissement d’enseignement situé au Canada, il peut s’agir d’une université, d’un collège ou d’un autre établissement d’enseignement offrant des cours de niveau postsecondaire. En d’autres termes, si une personne veut déduire un crédit d’impôt pour frais de scolarité au Canada, la personne qui paie les frais n’a pas à fréquenter une université. Il peut s’agir d’un établissement d’enseignement autre qu’une université. Cependant, si une personne veut déduire un crédit d’impôt pour frais de scolarité et qu’elle fréquente un établissement d’enseignement situé à l’étranger, il me semble bien clair qu’il doit s’agir d’une université, en raison des termes par lesquels commence l’alinéa b), soit : « si, au cours de l’année, le particulier fréquente comme étudiant à plein temps une université située à l’étranger, où il suit des cours conduisant à un diplôme ».
+[21] Le législateur a prévu une plus vaste gamme d’établissements qu’une personne peut fréquenter au niveau postsecondaire au Canada tout en ayant droit au crédit pour frais de scolarité, mais il a limité le nombre d’établissements situés à l’étranger à l’égard desquels un crédit pour frais de scolarité peut être obtenu […] Selon mon hypothèse, la distinction vise à assurer un certain contrôle sur le genre d’établissements d’enseignement postsecondaire pouvant exister à l’étranger, à l’égard desquels il serait impossible de déterminer s’il s’agissait vraiment d’établissements d’enseignement décernant un diplôme. Je pense que la mesure législative est plus restrictive à l’alinéa b), de manière à assurer un certain contrôle quant au genre de frais de scolarité payés à des établissements situés à l’étranger et à l’égard desquels la personne qui paie les frais ou le parent aura droit à un crédit d’impôt […]
+[16] Il est clair que BAR/BRI n’est pas une université et que les frais de scolarité qui ont été payés à cet organisme n’ouvrent pas droit à un crédit pour frais de scolarité.
+[17] Les frais d’examen ont été payés à des organismes situés à l’étranger. La disposition applicable est donc l’alinéa 118.5(1)b), et non a). L’alinéa pertinent énonce que les frais de scolarité doivent être payés à une « université […] où [le particulier] suit des cours conduisant à un diplôme ».
+[18] L’appelant soutient que le paragraphe 26 du bulletin d’interprétation IT‑516R2 appuie le principe que des frais d’examen donnent droit à un crédit pour frais de scolarité. Cet argument reflète une mauvaise compréhension du bulletin d’interprétation. Le paragraphe 26 traite de frais payés pour un cours offert par un établissement d’enseignement situé au Canada. Le préambule de ce paragraphe énonce ce qui suit :
+Les frais suivants se rapportant à un programme en particulier (qu’ils soient indiqués séparément ou inclus dans les frais d’un cours ou d’une matière spécifique) sont considérés comme des frais de scolarité admissibles : [Non souligné dans l’original.]
+[19] Pour les besoins du présent appel, seuls les frais accessoires « qui sont payés à » un « établissement d’enseignement » visé au sous‑alinéa 118.5(1)a)(i) de la Loi ouvrent droit à un crédit pour frais de scolarité.
+[20] Rien n’indique que le New York State Board of Law Examiners et le National Conference of Bar Examiners situés dans l’Iowa étaient des universités offrant des cours conduisant à un diplôme. Les frais payés à ces organismes ne donnent pas droit à un crédit d’impôt pour frais de scolarité.
+[21] Même si les frais avaient été payés au Canada à un organisme canadien, la Cour a statué antérieurement que de tels frais d’examen ne peuvent pas ouvrir droit à un crédit pour frais de scolarité parce que les organismes chargés des examens de barreau n’offrent pas de cours de niveau postsecondaire, et que ces frais ne sont pas non plus des frais accessoires déductibles en application de l’alinéa 118.5(1)c) (voir la décision Arrioja c. Canada[9]).
+[22] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2006.
+« Gerald J. Rip »
+Juge en chef adjoint Rip
+Traduction certifiée conforme
+ce 17e jour de janvier 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI578
+Nº DU DOSSIER DE LA COUR : 2006-1697(IT)I
+INTITULÉ : Evan S. Hillman et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 13 octobre 2006
+MOTIFS DU JUGEMENT : L’honorable juge en chef adjoint Gerald J. Rip
+DATE DU JUGEMENT : Le 24 octobre 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Mark Heseltine
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] M. Hillman a témoigné qu’il croyait que, pendant les cours d’été offerts à Toronto, les leçons étaient données en personne et enregistrées sur vidéocassette.
+[2] M. Hillman a été rétribué pour ses services. Ce paiement n’est pas en cause.
+[3] C’était pour le cours de préparation à l’examen du Barreau de New York.
+[4] Frais engagés pour passer l’examen intitulé [traduction] « Examen national sur la responsabilité professionnelle »; pour être admis au Barreau de l’État de New York, un candidat devait passer l’examen du barreau propre à l’État ainsi qu’un examen national.
+[5] Frais engagés pour passer l’examen du Barreau de New York.
+[6] [2005] 2 R.C.S. 601, 2005 CSC 54.
+[7] [2000] 1 C.T.C. 2938 (C.C.I.).
+[8] [1999] 2 C.T.C. 2127.
+[9] 2005CCI95, [2005] 2 C.T.C. 2012, 2005 DTC 392.

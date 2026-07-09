@@ -1,0 +1,180 @@
+---
+title: "Stafford v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29377/index.do"
+last_modified: "2009-05-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 247"
+citation2: ""
+neutral_citation: "2009 TCC 247"
+decision_date: "2009-05-04"
+language: "en"
+item_id: "29377"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6868
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:18:35.370000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0b8a357e12032a4e86c0aacde2fc2fbf9da0a14c71d319444a6a8f52fcafd50e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stafford v. The Queen
+
+- Citation: 2009 TCC 247
+- Decision date: 2009-05-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6868, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stafford v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-05-04
+Neutral citation
+2009 TCC 247
+File numbers
+2003-25(GST)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-25(GST)G
+BETWEEN:
+RONALD STAFFORD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 17, 2007, at Fredericton, New Brunswick
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+John D. Townsend, Q.C.
+Counsel for the Respondent:
+Cecil S. Woon
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment issued under subsection 323(1) of the Excise Tax Act, notice of which is dated May 15, 2001, and bears number 68033 is allowed, with costs, and the assessment is vacated.
+Signed at Ottawa, Canada, this 4th day of May, 2009.
+“E.A. Bowie”
+Bowie J.
+Citation: 2009 TCC 247
+Date: 20090504
+Docket: 2003-25(GST)G
+BETWEEN:
+RONALD STAFFORD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] Mr. Stafford appeals from an assessment under section 323 of the Excise Tax Act[1] (the Act) for the unpaid liability of Stafford’s Investments Limited (“SIL” or the “company”) for harmonized sales tax (HST). The company was assessed on May 19, 1999 for net tax, interest and penalties as follows:
+Net tax
+$236,344.09
+Net interest
+7,372.79
+Penalties
+9,651.31
+Total
+$253,368.19
+A certificate under section 316 of the Act in the amount of $303,356.67 was filed in the Federal Court, and execution was issued thereon, all on February 5, 2001. It is not disputed that the writ was returned nulla bona on or about May 14, 2001. On May 15, 2001, the appellant was assessed under subsection 323(1) of the Act in the total amount of $314,175.17. The single ground of appeal invoked by the appellant is the due diligence defense found in subsection 323(3).
+[2] The following are the relevant parts of section 323:
+323(1) If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+323(2) A director of a corporation is not liable under subsection (1) unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the date of the assignment or bankruptcy order.
+323(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+323(4) The Minister may assess any person for any amount payable by the person under this section and, where the Minister sends a notice of assessment, sections 296 to 311 apply, with such modifications as the circumstances require.
+Facts
+[3] Ronald Stafford does not have a great deal of formal education, but in spite of that he enjoyed a successful career in business. Not academically inclined, he left Fredericton High School after only two weeks in grade nine and took a job at the Apple Exchange. He soon left there to take a job in the produce department of a Dominion Stores supermarket. Over the next 30 years, he progressed in the Dominion Stores organization through the position of produce manager to assistant store manager in Saint John, and finally store manager in Fredericton. His progress through the managerial ranks was due to his ability to deal with people, rather than with numbers or with letters. As he put it in his evidence, he was able to do the manager’s job successfully because he had a head cashier and a bookkeeper to look after the financial side of the business while he looked after the people side.
+[4] In the early 1970s, the appellant was hired by a Mr. Randall to work as a produce specialist for his company, Atlantic Wholesalers. By 1978, he had become a partner in the company, and was paying for his 25% interest in the partnership from his share of the profits. For the next seven years Mr. Stafford ran the Sussex store, and when Mr. Randall retired in 1985 Mr. Stafford bought his 75% interest in the business, at the same time taking in another partner to whom he sold his own original 25% interest. The new partner looked after the financial and office side of the business; the appellant continued to look after the people side of the business.
+[5] In 1989 the appellant retired from the Atlantic Wholesalers business. A new partner was brought in and Mr. Stafford sold his interest for approximately $1 million. He then, on advice, created SIL as an investment vehicle to manage the proceeds of the sale of his share of the business and to finance his retirement. He and his wife were the directors. Between 1989 and 1997 the company invested in various enterprises and passive investments.
+[6] It is at this point that Mr. Stafford’s younger brother, Terrance Stafford, enters the picture. Terry is four years younger than the appellant, and they had a fairly close relationship for most of their lives. Terry had worked at a number of jobs, but had not been particularly successful in any of them. He had some experience as a bookkeeper, and from 1995 to 1997 was the comptroller for Maritime Tobacco Ltd. (“MTL”), a small manufacturer of cigarettes. In the spring of 1997 he approached his brother with a request for a favour.
+[7] Terry Stafford had an opportunity, he said, to enter the tobacco business as a wholesaler for MTL, but in order to do so he had to have a corporate vehicle with an established record in the province and the ability to post a $100,000 bond. This was far beyond Terry’s resources, and he asked the appellant if he would let him use SIL for the purpose. The appellant and his wife considered this proposal and decided to accede to it. SIL would have a tobacco division which would operate as a wholesaler for MTL, and Terry would run it as general manager. A separate bank account was opened for the tobacco division’s operation.
+[8] The appellant testified that, beginning in May 1997, he and Terry had a breakfast meeting once every two or three weeks to discuss the business and review financial matters. At these meetings, the appellant invariably asked his brother about the financial state of the business, and in particular whether the accounts payable, the New Brunswick tobacco tax and the HST remittances were paid up‑to‑date, and whether there was money in the operating bank account. These meetings took place regularly through 1997 and 1998, with the same questions being asked and Terry answering on each occasion that the payments were up‑to‑date and the bank balance was satisfactory.
+[9] The appellant’s accountant prepared financial statements at the September 30, 1997 yearend. The tobacco division showed a small loss, in the order of $3,500 at that time. The appellant said that he was not at all alarmed by this as he understood that it was not unusual for a business to sustain losses during a start‑up period. By the 1998 year-end there was a small profit. On January 4, 1999, the appellant learned that he had been deceived by his brother. That day he was visited by two auditors from the New Brunswick Department of Finance. They presented to him their audit of the company that established arrears of tobacco tax payable of $517,332.93. Upon receiving this news and realizing that his brother had been untruthful, Mr. Stafford immediately took over personally the management of the tobacco division. He discovered that there were substantial accounts receivable, and by collecting them and liquidating some securities he was able to pay the arrears of tobacco tax by March 1999.
+[10] At this point, the appellant had resolved that he did not want to be in the tobacco business, and that he would either close the tobacco division or sell it. There was a potential buyer who showed interest in it, but before Mr. Stafford had a chance to negotiate a price the next disaster befell him in the form of the HST audit. The assessment resulting from that audit is dated May 19, 1999, and it is for a total of $253,368.19 for tax, penalty and interest. As a result of this revelation, Mr. Stafford was left with little alternative but to sell the company, which he did on June 2, 1999. In this he had the advice and counsel of his accountant and his lawyer, upon whom he relied entirely in financial and legal matters.
+[11] The sale of SIL was structured for Mr. Stafford by his lawyer. The purchaser was 1354987 Ontario Inc., a corporation whose shares were owned by a Mr. Kokorudz. Prior to the closing on June 2, the company declared a dividend in kind consisting of four mortgages whose balances owing at that time totaled $221,349. This dividend was specifically contemplated and authorized by the said agreement in paragraph 1.01 which reads:
+The Purchaser acknowledges and consents to the Corporation declaring a dividend in kind payable to the Vendor prior to the acquisition of the common and preferred shares of the Corporation by the Purchaser hereunder and the payment of such dividend by the transfer and assignment by the Corporation to the Vendor of the following debts owing by the Corporation and all related security held by the Corporation in support thereof, namely:
+Debts
+Amount Owing
+(a) Nathan Gordon Nagle
+Carolyn Anne Nagle
+$29,118.89
+(b) Donald Horsman
+Jeannene Horsman
+24,704.30
+(c) William E. Smith
+Janet M. Smith
+80,126.33
+(d) H & P Sands Holdings Ltd.
+87,400.00
+Total
+$231,349.52
+The Purchaser shall cause the Corporation to take such steps and execute and deliver all further documentation as may be reasonably required in order to transfer and assign such debts and related security to the Vendor.
+[12] Paragraph 4.01 of the agreement made specific provision that the purchaser would cause the corporation to pay the outstanding HST assessment after the closing.
+The Purchaser shall cause the Corporation and the Corporation shall pay when due the amount of HST assessed as owing by the Corporation in the approximate amount of $254,000 as a result of a recent audit conducted by Revenue Canada and the Purchaser and the Corporation shall jointly and severally indemnify and save harmless the Vendor from any liability with respect to same and also with respect to any other debts, liabilities and obligations of the Corporation. The indemnities herein shall survive the closing of this transaction.
+On the closing date the outstanding liability for HST amounted to $109,623.00. On that date the balance in the company’s bank account for the tobacco business had a balance of $186,126.94. On the advice of his lawyer, Mr. Stafford signed the closing documents at his lawyer’s office in Saint John, and then went to Sussex and transferred signing authority for the bank account to the purchaser. The HST assessment was under appeal at that time, and the purchaser was to pay the assessment from the bank account transferred and also pursue that appeal. In fact the purchaser did neither of these things. The HST assessment went unpaid and the appeal was abandoned. The result was the section 323 assessment now under appeal.
+[13] Soon after, Terry Stafford was charged with fraud in connection with his activities at MTL, and as the result of a plea bargain was convicted and sentenced to 10 months house arrest. He was candid in his evidence that as comptroller of MTL he had been engaged, along with the president of the company, in issuing false invoices and keeping false books of account. When he left that firm and started the tobacco division of SIL he engaged in similar criminal activity there. He testified that both the tobacco tax audit and the HST audit revealed the large unpaid balances that they did only because he had deliberately issued false invoices in the name of the company, and had caused the company to pay MTL invoices for tobacco product that it had never received. He did not reveal any of these fraudulent activities to his brother until after the HST audit had been completed and presented to the appellant.
+Analysis
+[14] In Soper v. Canada,[2] the Federal Court of Appeal reviewed certain principles that govern the determination that is to be made under subsection 323(3) of the Act. That decision has since been reaffirmed by the Federal Court of Appeal in Canada v. McKinnon[3] and again in Hartrell v. The Queen.[4] Directors are not held to the standard of trustees. Mr. Stafford, of course, is an inside director, but even as such he is not an insurer. The appropriate standard of care was described by Robertson J.A. at paragraph 22 of Soper as that “… expected from a person of his or her knowledge and experience.” Mr. Stafford has many years of business experience, but I accept without reservation his evidence that he had little understanding of financial documents. His success in business came from his ability to deal with customers rather than from financial acumen. As a manager at Dominion Stores, and later as a partner in Atlantic Wholesalers, he had relied on bookkeepers and accountants to handle the financial end of the business. After his retirement he was engaged in businesses in a small way through SIL, but there too he relied on others to look after the financial aspect of the business.
+[15] The Federal Court of Appeal also recognized in Soper that, in the absence of grounds for suspicion, a director is not in breach of his duty of care under subsection 323(3) simply because he delegates to company officials the responsibility to ensure that HST is collected and remitted. The appellant knew that his brother Terry had experience in the tobacco business from his years at MTL, and he had specific experience there in the financial side of the business. He would certainly have known that as comptroller, Terry was responsible for the company finances, and he had no reason to suspect that he had not carried out his duties there in an exemplary manner. It was not until after the default at SIL had been revealed by the audit that Terry confessed to his fraudulent activities, and by that time the damage had been done, not only with respect to the tobacco tax but also HST.
+[16] Delegation, of course, needs to be accompanied by appropriate oversight, and the question that this case must ultimately turn on is whether the appellant’s oversight of the tobacco division of the company was adequate. The appellant had no experience in or knowledge of the tobacco business. In fact, he had never aspired to be in the tobacco business. The tobacco division was begun as a favour to his brother who, apparently, had an opportunity that he could only seize with the appellant’s help. The appellant apparently understood his responsibilities; I accept completely his evidence concerning the breakfast meetings that he and Terry had every two or three weeks. That he held the meetings regularly, and that he asked the questions that he did, satisfies me that he fully intended to fulfill those responsibilities to the best of his ability. Considering that he was the only shareholder of SIL, it could hardly be in doubt that he was concerned to ensure that the tobacco division was successful, and that it would not create liabilities that would detract from the success of the company’s other operations and investments. The important question is whether those meetings were sufficient to discharge the duty, and that in turn raises the question what other steps could the appellant have taken that he failed to take.
+[17] Family relationships have been considered in a number of cases in this court dealing with the liability of directors under the Income Tax Act and the Excise Tax Act, but in the final analysis, the extent to which a director is justified in relying upon an employee of the company, relative or not, is a question of fact that must be decided in the particular circumstances of each case. The appellant testified that he and his brother had had a close relationship. There was nothing in the evidence to suggest that previous experience should have made him reluctant to trust his brother, as general manager of the tobacco division, both to conduct the company’s business honestly and also to give him honest answers to his questions about the company’s finances at their breakfast meetings.
+[18] Mr. Woon suggests that the appellant, if he had been diligent, would have looked at the books and at the bank statements, he would have made inquiries of Ms. Dunn, the bookkeeper, and he would have confirmed with the tax authorities the accuracy of Terry’s assurances to him that the remittances were kept up-to-date. In the circumstances, however, none of these things would have revealed the problem to him, because Terry was falsifying the accounts. Quite apart from the appellant’s inability to read and understand financial statements and other financial documents, none of these measures would have made any difference, because the books and records did not reflect the truth. Only a thorough forensic audit would have revealed the problem. I do not accept that subsection 323(3) of the Act requires that a director who has delegated managerial functions to his brother is obliged, in the absence of suspicious circumstances, to commission periodic forensic audits of the undertaking. In my view, there is nothing imprudent about a person accepting his brother’s word as true, in normal circumstances.
+[19] Two of the Minister’s assumptions pleaded in support of the assessment require comment. They appear in the Reply to the Notice of Appeal as subparagraphs 13 (v) and (w).
+(v) on June 1, 1999, the Appellant caused the Corporation to pay dividends of $221,349.52 to himself instead of paying the GST owed by the Corporation;
+(w) the appellant failed to cause the Corporation to pay the GST owed by the Corporation before he sold the Corporation on June 1, 1999, for $100,000.00;
+These assumptions suggest that in the Minister’s mind the appellant was intent upon liquidating the value in the company for his own benefit while leaving the tax bill outstanding. Nothing could be further from the true facts of this case. Having trusted his brother and been betrayed, Mr. Stafford acted honourably throughout what was for him a disastrous series of events. When the liability to the province of New Brunswick for unpaid tobacco tax was revealed he sold investments intended to finance his retirement to pay the tax, penalties and interest. When the HST liability became known a few months later, he sold his company in order to ensure that it was paid. The sale was structured to leave more than enough money in the company’s bank account to pay the HST after the closing, as the purchaser agreed to cause it to do, while leaving the appellant with only the mortgages that comprised the dividend referred to in the Minister’s assumptions, and the consideration of $100,000.00 for the sale. I have no reason to disbelieve the appellant’s evidence that he acted as he did in the transaction on the advice of his lawyer, although it is not easy to understand why any lawyer would give that advice. If the company had paid the HST immediately before the closing, or if the purchaser had complied with article 4.01 of the agreement, then there would have been no assessment of Mr. Stafford. Unfortunately, he delivered the bank balance to the purchaser with the shares, relying on the purchaser to fulfill its obligation. Instead, the purchaser acted dishonestly. It cannot be said, though, that Mr. Stafford was indifferent whether the HST was paid, or that he was imprudent to act, as he did, upon the advice of a lawyer.
+[20] Despite Mr. Woon’s very able submissions in support of the assessment, my conclusion is that Mr. Stafford has satisfied the due diligence provision in subsection 323(3) of the Act, and that the assessment must therefore be vacated. The appellant is entitled to his costs.
+Signed at Ottawa, Canada, this 4th day of May, 2009.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2009 TCC 247
+COURT FILE NO.: 2003-25(GST)G
+STYLE OF CAUSE: RONALD STAFFORD and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: September 17, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: May 4, 2009
+APPEARANCES:
+Counsel for the Appellant:
+John D. Townsend, Q.C.
+Counsel for the Respondent:
+Cecil S. Woon
+COUNSEL OF RECORD:
+For the Appellant:
+Name: John D. Townsend, Q.C.
+Firm: Cox & Palmer
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985, c. E-15 as amended.
+[2] [1998] 1 F.C. 124.
+[3] [2001] 2 F.C. 203.
+[4] [2008] 3 C.T.C. 24.

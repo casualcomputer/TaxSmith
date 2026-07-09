@@ -1,0 +1,212 @@
+---
+title: "Modes Crystal Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31079/index.do"
+last_modified: "2013-02-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 33"
+citation2: ""
+neutral_citation: "2013 TCC 33"
+decision_date: "2013-02-01"
+language: "en"
+item_id: "31079"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4722
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:19:49.620000+00:00"
+cases_cited_count: 6
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "60ce4a57073a362e006c18be007fb56998a7dc8f395104d2b10986018bc6392b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Modes Crystal Inc. v. The Queen
+
+- Citation: 2013 TCC 33
+- Decision date: 2013-02-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4722, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Modes Crystal Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-02-01
+Neutral citation
+2013 TCC 33
+File numbers
+2012-687(GST)I
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-687(GST)I
+BETWEEN:
+MODES CRYSTAL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 26, 2012, at Montréal, Quebec.
+Before: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+Agent for the appellant:
+Sami Chedid
+Counsel for the respondent:
+Josée Fournier
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated May 10, 2011, and bears no identifying number, for the following twelve (12) monthly reporting periods: June 1, 2008, to June 30, 2008, from July 1, 2008, to July 31, 2008, from August 1, 2008, to August 31, 2008, from September 1, 2008, to September 30, 2008, from October 1, 2008, to October 31, 2008, from November 1, 2008, to November 30, 2008, from December 1, 2008, to December 31, 2008, from January 1, 2009, to January 31, 2009, from February 1, 2009, to February 28, 2009, from March 1, 2009, to March 31, 2009, from May 1, 2009, to May 31, 2009, and from July 1, 2009, to July 31, 2009, is dismissed.
+Signed at Kingston, Ontario, this 1st day of February 2013.
+“Rommel G. Masse”
+Masse D.J.
+Translation certified true
+on this 18th day of March 2013
+Daniela Guglietta, Translator
+Citation: 2013 TCC 33
+Date: 20130201
+Docket: 2012-687(GST)I
+BETWEEN:
+MODES CRYSTAL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Masse D.J.
+[1] This is an appeal from an assessment dated May 10, 2011, bearing no number, made under Part IX of the Excise Tax Act (the ETA or the Act) for the following twelve reporting periods: June 1, 2008, to June 30, 2008, from July 1, 2008, to July 31, 2008, from August 1, 2008, to August 31, 2008, from September 1, 2008, to September 30, 2008, from October 1, 2008, to October 31, 2008, from November 1, 2008, to November 30, 2008, from December 1, 2008, to December 31, 2008, from January 1, 2009, to January 31, 2009, from February 1, 2009, to February 28, 2009, from March 1, 2009, to March 31, 2009, from May 1, 2009, to May 31, 2009, and from July 1, 2009, to July 31, 2009 (the relevant periods), made against the appellant, Modes Crystal Inc. (the company). The assessment is for $3,943.93, which represents input tax credits (ITCs) that the appellant over-claimed or claimed and obtained in error or without entitlement for goods and services tax (the GST) it allegedly paid on the supply of goods and services it claims it acquired. Furthermore, the respondent claims $482.25 in arrears interest and an administrative adjustment for a total of $4,426.18. The assessment was confirmed by a decision on the objection rendered on November 23, 2011. Hence this appeal.
+[2] The respondent submits that the ITCs claimed and obtained by the appellant, without entitlement, involving ITCs for the supply of goods and services that the appellant did not purchase from two companies which provide false invoices or so‑called invoices “of accommodation” or “of convenience”. Moreover, information provided by the appellant is inadequate and does not comply with the standards required by section 3(4) of the Input Tax Credit Information (GST/HST) Regulations (the Regulations).
+Factual background
+[3] It is undisputed that Modes Crystal Inc. is a corporation duly incorporated and registered for the purposes of Part IX of the ETA. Sami Chedid and Nicolas Chedid are its directors. The company has been operating a textile business since 1984. The company is domiciled at 350 Port‑Royal Street West, Montréal, Quebec. Modes Crystal Inc. is a manufacturer of women’s clothing and employs about a dozen people. Modes Crystal Inc. designs or creates a style of clothing and the employees cut the pieces of fabric from which the garments are made as per the pattern or model of style conceived by Modes Crystal Inc. The pieces are then sent to subcontractors who must sew the pieces together and the sewn garments are then returned to Modes Crystal Inc. for the finishing touches, if required. The finished garments are then sold to clients of Modes Crystal Inc.
+[4] Modes Crystal Inc. has a number of subcontractors. Sami Chedid testified that at the time, there was a work overload and, as a result, it was necessary to hire two subcontractors, 6956912 Canada Inc. (hereinafter 912 Inc.) and 6964397 Canada Inc. (hereinafter 397 Inc.) whom Modes Crystal Inc. contracted to manufacture clothing. Sami Chedid testified that he did his “due diligence” by verifying the validity of the subcontractors’ QST number on Revenu Québec’s Web site. He stated that it was not possible to verify the GST numbers but that, in his view, the GST and the QST are harmonized, therefore, if one number is valid, the other must be as well. Modes Crystal Inc. contracted the two subcontractors to manufacture clothing during the relevant periods, and, according to Sami Chedid, the work was in fact performed. Modes Crystal Inc. received the supplies that were ordered. The two subcontractors invoiced Modes Crystal Inc. for the supplies, including the GST and QST. Modes Crystal Inc. paid all invoices, including the GST and QST. Modes Crystal Inc. sold its products to its clients and collected the GST and the QST from its clients for the products sold. Modes Crystal Inc. properly calculated its net tax and, rightly, claimed the ITCs challenged by Revenu Québec. Sami Chedid testified that Modes Crystal Inc. had completed and submitted to Revenu Québec special reports regarding all its subcontractors, as required by Revenu Québec (see Exhibit A-1 “Subcontracting Expenses Information Return: Clothing Industry―VDZ-350.49”). Mr. Chedid told us that he was always cooperative with Revenu Québec, he always followed all required procedures and he exercised all reasonable care to ensure that the subcontractors were legitimate.
+[5] On cross-examination, Sami Chedid stated that he never visited the premises of either 912 Inc. or 397 Inc. to view their equipment and operations. He does not know how many employees the two subcontractors have and he never saw where the clothing was sewn. The only contact he had with the subcontractors was with the persons who delivered the supplies. The resource person for 912 Inc. was a man named Dan and that for 397 Inc. was a woman named Phan. There were no written contracts with the subcontractors. Those two individuals, whose full names Sami Chedid did now know, did not testify because the subcontractors no longer exist and there was no way of reaching either Mr. Dan or Ms. Phan. Mr. Chedid never got a business card from Mr. Dan or Ms. Phan. It was Mr. Dan and Ms. Phan who delivered the supplies and the deliveries were made using a minivan or cargo van. The two subcontractors invoice on a monthly basis and Modes Crystal Inc. would pay the invoices within seven days, sometimes within one month at the latest. The subcontractors were always paid by cheque and never in cash. Mr. Chedid admitted that there were minor discrepancies in the invoicing as well as in other documents, for instance, errors in dates, but they were merely data-entry errors. The last time Mr. Chedid did business with Mr. Dan was in June 2009 and the last time he did business with Ms. Phan was in March 2009. It is possible that the cheques that Modes Crystal Inc. made out to the subcontractors were cashed at a cheque-cashing centre, but Mr. Chedid never noticed as he never looks at the back of cheques. It was only after the assessment was made that Mr. Chedid visited the two subcontractors’ premises and realized that the premises were empty.
+[6] Liette Lavoie is an internal auditor for Revenu Québec. She was the one responsible for the assessment in this case. At the time, she worked in the invoices of convenience program. The program targeted companies that did business with cheque-cashing centres. Her sector received lists of companies that did business with cheque-cashing centres and, therefore, her work consisted in verifying transactions that were negotiated with the companies. The two subcontractors, 912 Inc. and 397 Inc., did business with cheque-cashing centres and Modes Crystal Inc. did business with them. Therefore, she wanted to verify the transactions between Modes Crystal Inc. and the subcontractors.
+[7] She testified that she sent a letter dated January 31, 2011, to Modes Crystal Inc. requesting supporting documentation in order to verify transactions whose validity she doubted. The letter referred to invoices and cheques that were cashed at cheque-cashing centres. She and Mr. Chedid spoke over the phone on February 7, 2011. Mr. Chedid explained to her that he is in the clothing manufacturing business. He has three “stable contractors” whom he contracts. When there is a work overload, he relies on other subcontractors. Mr. Chedid could no longer recall how he came into contact with the two subcontractors under investigation. Mr. Chedid sent to Ms. Lavoie copies of invoices she had asked for (see Exhibit I-1). He also submitted to her documentation that she had not requested such as delivery slips. She reviewed all the documentation in order to verify whether the invoices were consistent with the requirements of the Act and Regulations.
+[8] She noted a number of anomalies with respect to the documentation. She testified that a number of invoices did not have tax numbers. However, she is mistaken. Although the characters are very small, it is obvious that the GST and QST numbers were printed on all the invoices found in Exhibit I-1. She noted that the invoices’ numerical sequence was inconsistent, both for 912 Inc. and 397 Inc. She noted that the majority of the delivery slips did not have the name of the “contractor”; however, some only had the name “Dan” as the supposed contractor of 912 Inc. Some delivery slips are signed, but there are a number that are signed by the same person who supposedly received the deliveries. She performed checks on the employees of Modes Crystal Inc., but there was none that matched the supposed signature. Some of the invoices are dated 2002 but were paid in 2009. An order slip for 397 Inc. is dated February 3, 2003, but was invoiced in 2009. There were seven invoices paid in two instalments with only a few days’ difference between the two payments. She stated that, generally, in the context of her work, invoices are paid in one instalment and not two. According to her, the handwriting on the order slips, the invoices and delivery slips is the same. The delivery slips bear the logo of Modes Crystal Inc. and not the subcontractors’ logo. It is obvious that a delivery slip is usually prepared by the supplier and not by the requester and, therefore, the delivery slip should bear the supplier’s logo and not the requester’s logo.
+[9] The following week, she received a call from Nicolas Chedid who wanted to find out what was going on with the file. She explained to him that she had spoken to Sami about the fact that the writing on the delivery slips appeared to be the same as the one on the invoices. Nicolas told her that all she had to do was reject those delivery slips and accept the other ones. She considered her audits and the audits undertaken by external auditors and she therefore conducted an assessment based on the fact that the invoices were invoices of convenience.
+[10] Nicoleta Marcos Miron is the external audit team leader at Revenu Québec. She testified that she audited 912 Inc. and 397 Inc., the appellant’s alleged subcontractors. The file in question was assigned to her to verify whether the subcontractors were running business operations.
+[11] When she conducts external audits, she always starts by visiting the company’s premises. On February 9, 2009, she went to 1979 Beaubien Street, in Montréal, the alleged address of 397 Inc. The location was a residence and not a place of business. There was no sign of any business operations being conducted on the premises. Ms. Marcos Miron did not see anything that suggested that 397 Inc. was at that address. A man answered the door but declined to speak to Ms. Marcos Miron and to provide a piece of identification. The man identified himself as the brother of Anh Tuan Phan, President of 397 Inc. He stated that his brother did not live at that address. His brother sometimes spends the night, but is not there often. The man refused to provide the telephone number of Anh Tuan Phan. Ms. Marcos Miron left him her telephone number and asked to have Anh Tuan Phan phone her as soon as possible. On March 13, 2009, she was able to speak to Anh Tuan Phan on the phone and he told her that the company’s place of business was on Sauvé Street, but that he no longer had a business activity. According to Ms. Marcos Miron, there was no other valid address than the one on Beaubien Street for 397 Inc. At that address, there was no equipment, there was nothing but the family of Anh Tuan Phan who was living there. She investigated work providers that contracted out work to 397 Inc. and verified that 397 Inc. provided invoices until August 2009. Furthermore, the amounts indicated on the invoices were quite large.
+[12] As for 912 Inc., on March 20, 2009, Ms. Marcos Miron testified that she visited 9675 Papineau Avenue, Suite 40, Montréal, the company’s address. Upon entering the building, she noticed a sign with the name “Damico”, the company located at Suite 40. The door was opened and she could see two people working inside. There were only two sewing machines and one iron. One woman was working the sewing machine and another was working the iron. She asked to speak with the president of the company who she believed was a Mr. Nguyen. One of the women replied that Mr. Nguyen was not on site that day. The woman asked her to leave her telephone number as well as her contact information so that Mr. Nguyen could contact her. Ms. Marcos Morin decided to pay a second visit on June 5, 2009. During that visit, she noticed that the door at Suite 40 was locked. Therefore, there was no business activity. The superintendent opened the door for her and she noticed that the place was empty; there was nobody there and there was no equipment. There was nothing at all. However, based on her investigation of work providers that contracted out work to the company, she found that there was supposedly plenty of business until May 2009. The sales figures for the month of May were even higher for the months prior. However, when she went to the premises there was no activity. She asked to see the lease that was entered into between the company and the owners of the building and the lease ended on April 30, 2009. Thus, without a doubt, there was no business activity being conducted on the premises during the month of May 2009.
+[13] She conducted plenty of research on the two subcontractors through Revenu Québec, financial institutions, service providers such as Hydro-Québec, the Quebec’s enterprise registrar, the Société de l’assurance automobile du Québec and the supposed providers of work that contracted out work to the subcontractors. She realized that the two companies had no operating expenses, which is impossible if there had been any business activity. She was then able to conclude that 397 Inc. and 912 Inc. were merely suppliers of invoices of convenience. She outlined the facts that led her to conclude that there had not been any business activity for some time. Here are but a few:
+[Translation]
+(a) 397 Inc. and 912 Inc. did not file any tax returns with Revenu Québec. Therefore, they were tax offenders.
+(b) 397 Inc. and 912 Inc. did not declare any employees.
+(c) 397 Inc. and 912 Inc. are companies engaged in the clothing manufacturing business and are, therefore, required to file a monthly return with Revenu Québec specific to this field (Form VDZ-350.49). In this form, they must declare whether they deal with subcontractors. 397 Inc. has no employees and did not declare any subcontractors. Therefore, if it has no employees or subcontractors, it does not have the means to perform the work required.
+(d) The subcontractors declared by 912 Inc. are all characterized as suppliers of invoices of convenience.
+(e) The companies have no equipment, except for 912 Inc., which only had two sewing machines and one iron.
+(f) There is no evidence of business activities, except for 912 Inc., which only had two people working on the premises. It is impossible that the two people could perform the work supposedly carried out by 912 Inc.
+(g) According to the invoices that the auditors examined, Ms. Marcos Miron noticed that 397 Inc. claimed to operate in a number of areas of activity and not only in clothing manufacturing; for example, the wholesale trade of stationary and office supplies. But the company had no place of business.
+(h) For the two companies, there was no evidence of operating expenses; for example, heating, electricity and others.
+(i) They did business with cheque-cashing centres. This in itself is very suspicious as a legitimate company does business with a bank and not cheque-cashing centres.
+(j) Ms. Marcos Miron asked the work providers that contracted out work to the two companies to provide her with the names of the contacts from the two companies with whom they did business. She was given different names and those who provided the name of “Anh Tuan Phan” were referring to the Quebec’s enterprise registrar and not the name of a person with whom they did business. Some provided telephone numbers. Ms. Marcos Miron attempted to get in touch with all those contacts, but to no avail.
+(k) 397 Inc. and 912 Inc. did not provide any supporting documentation. They did not cooperate with Revenu Québec. Revenu Québec had no evidence whatsoever that the two companies were engaged in business activities. Ms. Marcos Miron made several attempts to contact the representatives for the two companies, but to no avail, except for the first time with Anh Tuan Phan.
+(l) 397 Inc. and 912 Inc. had no vehicles registered in their name. It defies common sense that a company operating a business does not have a vehicle to transport goods.
+(m) The sales figures of the two companies were in the millions of dollars during the relevant period. It is impossible that the two subcontractors could have achieved that level of business. There is no indication that the subcontractors had the financial resources, human resources, property, equipment and material necessary to perform the work they were contracted out to do by their work providers.
+(n) There was a link between 397 Inc. and 912 Inc. as the two, sometimes, deposited cheques in the same bank account.
+(o) No other establishment was declared by 912 Inc. after April 30, 2009, date on which the lease ended and the premises were abandoned, but against the documents that Ms. Marcos Miron examined show that there was an increase in the total amounts cashed for May compared with April.
+The appellant’s position
+[14] The appellant submits that, based on all the evidence on file, it is incontrovertible that the work contracted out to the subcontractors was performed and that all the information required by the Regulations is found on the invoices, the order slips and the delivery slips. The appellant acted in good faith at all times and the appellant provided the department with all required documents as well as other documents that the department did not request. The appellant had no knowledge that the two subcontractors were suppliers of invoices of convenience, if indeed they are, as according to Modes Crystal Inc. the work contracted out to the subcontractors was carried out. The work was invoiced and paid. The appellant does not see where it failed or how it could not have been complacent in the circumstances. The appellant remitted the tax payable to the department in accordance with the Act. The appellant never claimed input tax credits to which it was not entitled and, therefore, the assessment should be vacated and the appeal should be allowed.
+The respondent’s position
+[15] The respondent submits that the work supposedly contracted out by the appellant to the subcontractors was not performed by 397 Inc. and 912 Inc. and that the appellant did not purchase the supplies it claims it acquired. The respondent submits that the supporting documentation submitted to the Minister in support of the disallowed ITCs is false; the invoices are invoices of “accommodation” or “of convenience”.
+[16] The respondent submits that the appellant did not comply with the requirements of subsection 169(4) of the ETA and the requirements of the related Regulations. The onus was on the appellant to obtain sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined. There are a number of invoices that fail to meet regulatory requirements with respect to the date. The regulatory requirements must be considered mandatory and they must be strictly enforced. It is the obligation of Modes Crystal Inc. to know the law and comply with it in its documentation to claim input tax credits.
+[17] The appellant demonstrated a lack of reasonable care in its business dealings with the two subcontractors. When a taxpayer does business with corporations or corporate entities who are tax offenders, it is the taxpayer dealing with them who is held responsible. The onus is on the taxpayer to conduct research to ensure that the suppliers are legitimate suppliers. In this case, the appellant only verified the QST number and nothing else. There was no real contact with the work suppliers apart from having met with them sporadically.
+[18] The appellant did not discharge its onus of rebutting the assumptions on which the respondent relied in making the assessment. Consequently, the appellant owes the Minister the amount of the assessment, including the interest and penalty.
+Statutory provisions
+[19] The relevant GST provisions are set out in paragraph 169(4)(a) of the ETA and section 3 of the Regulations. The relevant excerpts are as follows:
+Excise Tax Act
+169(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed:
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed;
+Input Tax Credit Information (GST/HST) Regulations
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+(a) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is less than $30,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business,
+(ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+. . .
+(iv) the total amount paid or payable for all of the supplies;
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+. . .
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+Analysis
+[20] Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336 (S.C.C.), states that the Minister proceeds on assumptions to make assessments and the taxpayer has the initial onus of demolishing the Minister's assumptions. This is met where the taxpayer makes out at least a prima facie case that demolishes the Minister’s exact assumptions. Then, after the taxpayer has met the initial burden, the onus shifts to the Minister to rebut the prima facie case made out by the taxpayer and to prove the assumptions. A prima facie case is defined as one with evidence that establishes a fact until the contrary is proved. A prima facie case is one supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved: see Stewart v. Minister of National Revenue, [2000] T.C.J. No. 53 (QL). The Federal Court of Appeal stated that the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted, considering it is the taxpayer's business: see Orly Automobiles Inc. v. Canada, 2005 FCA 425, [2005] G.S.T.C. 200. The Federal Court of Appeal held that it is the taxpayer who knows how and why it is run in a particular fashion rather than in some other ways. The taxpayer has information within his reach and under his control. Modes Crystal Inc. has to therefore demonstrate by prima facie evidence that it actually purchased the supplies from the dubious subcontractors. Finally, Modes Crystal Inc. also has to demonstrate that the invoices allegedly issued by the dubious subcontractors meet the requirements of the ETA and its regulations.
+[21] The issue now is whether the evidence submitted by the appellant constitutes sufficient evidence to demolish the Minister’s assumptions of fact.
+Sufficient evidence to determine ITCs
+[22] Subsection 169(4) states that a registrant may claim an input tax credit only if the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed. Section 3 of the Regulations clearly states that the prescribed information must include the following:
+a. the name of the supplier in respect of the supply, or the name under which the supplier does business,
+b. the registration number assigned to the supplier,
+c. the date of the invoice,
+d. the total amount paid or payable,
+e. the recipient’s name,
+f. the terms of payment,
+g. a description of each supply sufficient to identify it.
+[23] In Key Property Management Corp. v. Canada, 2004 TCC 210, [2004] G.S.T.C. 32, my colleague, Justice Bowie, held that the purpose of subsection 169(4) of the Act and section 3 of the Regulations is to protect the tax authorities against both fraudulent and innocent incursions. They cannot succeed in that purpose unless they are considered to be mandatory requirements and strictly enforced. My colleague Justice Campbell subscribed to that view in Davis v. Canada, 2004 TCC 662, [2004] G.S.T.C. 134. She held that these provisions cannot be sidestepped and that they are “clearly mandatory”. The Federal Court of Appeal in Systematix Technology Consultants Inc. v. Canada, 2007 FCA 226, [2007] G.S.T.C. 74, adopted as an important legal principle the statements of Justice Bowie and Justice Campbell, and, hence, all Tax Court Justices are bound by them.
+[24] In this case, assuming the invoices are valid and not false, does the supporting documentation (Exhibit I-1) contain sufficient information to determine the ITC amounts? The respondent claims that the invoices in question do not have registration numbers and, therefore, the requirement information is missing. However, it is obvious that the internal auditor, Liette Lavoie, erred in this regard, as all the invoices bear the subcontractors’ GST and QST numbers. The respondent also states that some of the invoices appear to have been paid in 2009 but are dated 2002. Furthermore, one order slip is dated February 3, 2003, whereas it appears to have been invoiced in 2009. In my opinion, the errors in dates may simply be typographical or clerical errors, which can often be inadvertently made by people without these minor errors having to be characterized by carelessness or negligence. I do not consider this type of error as constituting a failure to provide necessary and sufficient information, as in the context of all documents considered together, it is certainly possible to easily establish the real date of the invoice. It is clear that the supporting documentation bears the supplier’s name, the amount paid, the recipient’s name and terms of payment. Does the supporting documentation provide a description of each supply sufficient to identify it? I am of the view that it does. The supporting documentation indicates the number of garments, the style number of each garment, the batch number, the colour of each garment, the size of each garment and the price of each garment. In my view, the supporting documentation contains all the necessary and sufficient information to determine the amount of the input tax credit.
+Invoices of convenience
+[25] The phenomenon of “invoices of convenience” is a scheme whereby a taxpayer, the so-called “accommodated” person, engages the services of a “supplier of invoices of convenience”. These suppliers issue false invoices the “accommodated” for supplies of goods and services that the supplier did not supply and that the accommodated person did not acquire. Invoices of convenience allow the accommodated person to claim ITCs without entitlement in calculating his or her net tax.
+[26] In this case, Nicoleta Marcos Miron provides overwhelming evidence that the two subcontractors in question are suppliers of invoices of convenience. I accept as truthful and reliable the testimony of Ms. Marcos Miron. It is patently clear that the two subcontractors were not engaged in any business activities during the relevant periods. There was no indication that the subcontractors had the financial resources, human resources, property, equipment, material or vehicles necessary to perform the work they were contracted out to do by their work providers. Subcontractors 912 Inc. and 397 Inc. simply did not have the means to perform the work requested. The subcontractors had no operating expenses such as electricity, heating and other expenses. The subcontractors did business with cheque-cashing centres; this in itself is a strong indication of the existence of a fraudulent scheme because valid businesses deal with banks, not cheque-cashing centres. The subcontractors’ representatives were very elusive and difficult, if not impossible, to reach. The subcontractors’ sales figures were in the millions of dollars, which is impossible in the circumstances. The subcontractors were tax offenders. There was obviously a link between the two subcontractors as, at times, both deposited cheques in the same bank account, which is highly suspicious in the circumstances. The numerical sequence of the subcontractors’ invoices is quite telling. The invoices of 912 Inc. for the relevant periods begin with the number 451 and go on to number 467. The only invoices missing are those numbered 458, 460, 461 and 464. As for 397 Inc., the invoices for the relevant periods begin with the number 969001 and go on to number 9690011. The only invoice missing is number 969007. These consecutive number sequences, virtually without interruption, tend to suggest that either Modes Crystal Inc. was the sole requester or that the invoices were all prepared at the same time. According to the testimony of Ms. Marcos Miron, it is obvious that the two subcontractors had several supposed work providers. It is, therefore, unlikely that the numerical sequence for both subcontractors would be consecutive and virtually without interruption. Moreover, I have already indicated that it is highly unusual that the delivery slips bear the requester’s logo instead of the supplier’s logo.
+[27] It should be noted that the appellant had an opportunity to call the subcontractors’ representatives as witnesses, but it did not. I do not accept the explanations provided by Sami Chedid that Mr. Dan and Ms. Phan cannot be found. There is no evidence of the appellant’s alleged efforts to find them. Mr. Chedid was certainly capable of contacting them during the relevant periods. Surely, Mr. Chedid should have kept their contact information. If not, why? I find it very telling that Modes Crystal Inc. did not call as witnesses any of the representatives of the subcontractors whose invoices were challenged by the Minister. I am able to draw a negative inference from the absence of these witnesses and I conclude that their testimony would have been unfavourable to the appellant’s case.
+[28] Having considered the evidence as a whole, I reach the conclusion that the Minister is justified in concluding the alleged subcontractors, 912 Inc. and 397 Inc., do not have the capacity, human, financial and material resources to provide the services invoiced to Modes Crystal Inc. It is obvious that 912 Inc. and 397 Inc. are suppliers of invoices of convenience.
+Who bears the risk, the taxpayer or the tax authorities?
+[29] The appellant submits that it is not its responsibility to bear the resulting economic burden when subcontractors are tax offenders without its knowledge. The appellant submits that it always acted in good faith and that it exercised, as put in its own words, “due diligence” with respect to the subcontractors and that it had no knowledge that the supposed subcontractors were tax offenders. In view of my conclusion that the invoices in issue are invoices of convenience, this submission is therefore no longer relevant. Furthermore, I am of the view that in this case, the fact of having verified the QST number on Revenu Québec’s Web site, without taking any other steps, does not constitute an adequate level of due diligence. In my opinion, in such circumstances, it is the taxpayer or the work provider who should bear the risk of fraud and wrongdoing by its subcontractors. The work provider is therefore required to put into place risk management practices in dealing with its suppliers. This requires further investigation by work providers that goes beyond the verification of the validity of a supplier’s QST number.
+[30] Justice Boyle of the Tax Court of Canada provides a very instructive example in that regard in Comtronic Computer Inc. v. Canada, 2010 TCC 55, [2010] G.S.T.C. 13. Justice Boyle elucidated the salient points at paragraph 5:
+[5] It has been determined that the invoices issued by five suppliers to Comtronic showed GST registration numbers that, while validly issued and current registration numbers, had been issued to persons other than the suppliers. This appears to be a case of wrongdoing on the suppliers' part. There has been no suggestion that Comtronic was complicit or aware in any way of any supplier wrongdoing. It is agreed that Comtronic paid for these supplies together with GST and received them. Apparently the GST collected from Comtronic was never remitted by the suppliers. It is noted that by operation of law, the GST paid by Comtronic and received by the suppliers was received by the suppliers as the Crown's agent.
+[31] Justice Boyle raised the question of whether it is the Canadian purchaser or the Canadian government that bears the risk of supplier wrongdoing in such circumstances. Justice Boyle noted this fact, as did Justice Archambault at first instance in Systematix Technology Consultants Inc. v. The Queen, 2006 TCC 227, at paragraphs 29 and 30:
+[29] . . . this strict approach can result in unfairness to a purchaser who pays the GST in good faith. It leaves Canadian businesses bearing the risk of fraud, identity theft, and wrongdoing and effectively requires them to put into place risk management practices in dealing with new and continuing suppliers to identify supplier information that may require further investigation. A result such as this may prove harsh and unfair but it is open to Parliament to legislate such a regime and I am bound to apply that legislation as it has already been interpreted by the Federal Court of Appeal.
+[30] Whether it is the purchaser or the fisc that should bear the risk of supplier identity theft and wrongdoing in GST collection and remittance matters is a valid policy question to be debated. However, in circumstances such as those before me, the Federal Court of Appeal has ruled that Parliament has already turned its mind to this question. The Tax Court cannot reopen the question.
+[32] The words of Justice Archambault and Justice Boyle are very appropriate in the circumstances of this case.
+Conclusion
+[33] In the case at bar, I find that the suppliers, 912 Inc. and 397 Inc., were merely suppliers of invoices of convenience. Accordingly, I reach the conclusion that Modes Crystal Inc. did not acquire the supplies in question for which it claimed ITCs in calculating its net tax. Therefore, Modes Crystal Inc. obtained the ITCs in issue without entitlement. Furthermore, it is clear that Modes Crystal Inc. did not meet its onus of rebutting or demolishing the exact assumptions on which the respondent relied in making the assessment.
+[34] For these reasons, the appeal is dismissed.
+Signed at Kingston, Ontario, this 1st day of February 2013.
+“Rommel G. Masse”
+Masse D.J.
+Translation certified true
+on this 18th day of March 2013
+Daniela Guglietta, Translator
+CITATION: 2013 TCC 33
+COURT FILE NO.: 2012-687(GST)I
+STYLE OF CAUSE: MODES CRYSTAL INC.
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 26, 2012
+REASONS FOR JUDGMENT BY: The Honourable Rommel G. Masse,
+Deputy Judge
+DATE OF JUDGMENT: February 1, 2013
+APPEARANCES:
+Agent for the appellant:
+Sami Chedid
+Counsel for the respondent:
+Josée Fournier
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

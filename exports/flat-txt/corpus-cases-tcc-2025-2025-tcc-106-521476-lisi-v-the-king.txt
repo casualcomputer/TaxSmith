@@ -1,0 +1,167 @@
+Title: Lisi v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521476/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-106-521476-lisi-v-the-king.md
+Document type: case_law
+Last modified: 2025-08-06
+
+# Lisi v. The King
+
+- Citation: 2025 TCC 106
+- Decision date: 2025-08-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5400, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lisi v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-08-06
+Neutral citation
+2025 TCC 106
+File numbers
+2023-2037(GST)I, 2023-2048(GST)I
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2023-2037(GST)I
+BETWEEN:
+JORDANO LISI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Appeal heard on July 9, 2025, at Toronto, Ontario
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Counsel for the Appellant:
+Adam Serota
+Counsel for the Respondent:
+Patrick Wu
+JUDGMENT
+The appeal is allowed, without costs, and the assessment by the Minister of National Revenue (the “Minister”) under Part IX of the Excise Tax Act denying the Appellant the GST/HST New Housing Rebate (the “Rebate”) in respect of his purchase of 27 Ryerson Drive, Kleinburg, Ontario (the “Rebate Property”) in 2019 is sent back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to the Rebate in respect of the Rebate Property.
+Signed this 6th day of August 2025.
+“David E. Spiro”
+Spiro J.
+Docket: 2023-2048(GST)I
+BETWEEN:
+VINCE LISI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on July 9, 2025, at Toronto, Ontario
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Counsel for the Appellant:
+Adam Serota
+Counsel for the Respondent:
+Patrick Wu
+JUDGMENT
+The appeal is allowed, without costs, and the assessment by the Minister of National Revenue (the “Minister”) under Part IX of the Excise Tax Act denying the Appellant the GST/HST New Housing Rebate (the “Rebate”) in respect of his purchase of 59 Galen Crescent, Kleinburg, Ontario (the “Rebate Property”) in 2019 is sent back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to the Rebate in respect of the Rebate Property.
+Signed this 6th day of August 2025.
+“David E. Spiro”
+Spiro J.
+Citation: 2025 TCC 106
+Date: 20250806
+Docket: 2023-2037(GST)I
+BETWEEN:
+JORDANO LISI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2023-2048(GST)I
+AND BETWEEN:
+VINCE LISI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] Each of Vince Lisi and Jordano Lisi have appealed assessments by the Minister of National Revenue (the “Minister”) denying a GST/HST New Housing Rebate of $24,000 that each of them claimed under section 254 of Part IX of the Excise Tax Act (the “ETA”).
+[2] Vince and Jordano Lisi are brothers. Both work for their father in the family window covering business.
+[3] When new homes were offered for sale at affordable prices in a local subdivision, their parents wanted each of Vince and Jordano to have their own homes there.[1] The new homes were only ten minutes from their place, so they would still be close to their parents. The parents’ home and the new subdivision were both in Kleinburg, Ontario just north of Toronto.
+[4] Both purchase agreements were signed at the sales centre of the new subdivision on the same date in April 2019.
+[5] Vince and his mother signed his purchase agreement in April 2019. Jordano was assigned his purchase agreement by his mother in February 2021, shortly before the closing in March 2021. Their parents paid the entire amount of each deposit. Mortgages were arranged to cover the rest of the purchase price.
+[6] One of the requirements for the GST/HST New Housing Rebate is found in paragraph 254(2)(b) of the ETA. That is the only provision at issue in this appeal. That provision requires Vince (when he became liable under his agreement) and Jordano (when he assumed liability under his agreement) to have acquired their homes “for use as the primary place of residence” of each of them. Paragraph 254(2)(b) of the ETA provides:
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+[Emphasis added]
+[7] The Minister assessed to deny the $24,000 GST/HST New Housing Rebate claimed by each of Vince and Jordano on the basis that neither of them intended to use their home as their primary place of residence when they became liable, or assumed liability, under their respective purchase agreements.
+[8] The appeals were heard on common evidence. Vince and Jordano testified as did their mother and Jordano’s girlfriend, Jade Masiello. I found each witness credible and reliable.[2] The Crown called no witnesses.
+Vince Lisi [9] Vince, born in 1996, told the Court that he was “dying to get out of my parents’ house”[3] because he wanted to indulge his addiction to alcohol in the privacy of his own home.[4] The address of the new home was 59 Galen Crescent. It cost nearly $1,163,000.
+[10] Vince was the one who brought the idea of purchasing a home to his parents. In the words of his mother:
+… Vince came to us and said there’s these homes that are being built. They’re a great price. I’d like to go look at them and purchase. And then when he did that we decided to get one for Jordano as well.[5]
+[11] By the time his closing date arrived at the end of January 2021, however, Vince had become addicted to hard drugs in addition to alcohol. The combined effect of those addictions meant that he was unable to move in[6] and incapable of living alone.[7] He required long-term treatment first in a hospital, then at a rehabilitation facility. He experienced relapses and had to attend regular Alcoholics Anonymous meetings, and meetings of other addiction-based support groups, with a view to ensuring that he did not experience any further relapses. In April 2021, he sold the home for $1,687,500.
+[12] Vince has been clean and sober for over two years. He married in February 2025 and lives in a condominium in Kleinburg.
+[13] Before his addictions became serious, Vince was registered as a real estate broker. While he was a broker (he later allowed his registration to lapse), he acted on only two transactions – both on behalf of his parents. He acted on the sale of a cottage/condo at Wasaga Beach, Ontario that was no longer used regularly. And he acted on the sale of a property that was purchased as a potential future home. Those plans were abandoned, and the property was sold, after his parents’ home was destroyed by fire in 2016.
+Jordano Lisi [14] Jordano, born in 1998, planned to move into his new home with his girlfriend, Jade. The home, at 27 Ryerson Drive, cost just over $1,030,000. They moved into the home together in March 2021 along with their dogs and a cat. They lived there for about six months.
+[15] They furnished their home and ordered appliances. They transformed their dining room into a pool room. They converted their garage into a fully equipped gym. They installed a walk-in closet with dressing areas for each of them. They signed a contract for internet, television, telephone, and security services with Rogers. They hung portraits of their dogs along the staircase.
+[16] But within six months, they found the experience of living together was not as idyllic as they had imagined. Jordano and Jade were both in their early 20’s, and it was “just getting to be too much for them”.[8] In Jade’s words, living together when they were so young “was putting a lot of strain on our relationship … causing … unnecessary fights between us.”[9] Both of them wanted to rebuild their relationship by living apart.[10]
+[17] In October 2021 Jordano listed the home for sale. It sold the following month for $1,900,000.
+[18] The relationship between Jordano and Jade has survived. They plan to move into a home that Jordano purchased just a few months before the hearing.[11]
+Crown’s Argument [19] With a view to defending the Minister’s assessments, Crown counsel advanced three main arguments:
+it was not financially feasible for the brothers to maintain the homes as their primary places of residence;[12]
+the family has a history of selling homes at a profit; and
+the brothers bought their homes to sell at a profit.
+[20] There was no factual foundation for any of these arguments. As an illustration, Jordano was asked this question in cross-examination:
+Q And you had sufficient income to pay all the bills and your mortgage payment?
+A Yes. Never had a problem.[13]
+[21] Without any evidence to contradict that testimony (which might have included the total weekly, monthly, or annual cost of maintaining the home), the Crown’s argument on that issue failed.
+[22] To his credit, Crown counsel admitted at the conclusion of his argument that “we don’t have evidence for those issues.”[14]
+Conclusion [23] Appellants’ counsel, Mr. Serota, adduced sufficient evidence to demolish the central assumption of fact underlying each of the assessments at issue:
+at the time the Rebate Property was purchased, the Appellant did not intend that either he or a qualified relation of the Appellant, would occupy the Rebate Property as a primary place of residence.[15]
+[24] On the evidence, it is more likely than not that each of the Appellants intended to use their home as their primary place of residence when they signed, or were assigned, their respective purchase agreement. The appeals will therefore be allowed, without costs, and the assessments sent back to the Minister for reconsideration and reassessment on the basis that each Appellant is entitled to the GST/HST New Housing Rebate under Part IX of the ETA.
+Signed this 6th day of August 2025.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2025 TCC 106
+COURT FILE NOs.:
+2023-2037(GST)I
+2023-2048(GST)I
+STYLE OF CAUSE:
+JORDANO LISI AND VINCE LISI AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 9, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+August 6, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Adam Serota
+Counsel for the Respondent:
+Patrick Wu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Adam Serota
+Firm:
+BRS Tax Lawyers LLP
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Mrs. Lisi testified that many of her friends purchased homes in the new subdivision for their children, or helped their children purchase homes there, in light of the affordability of the homes (page 62, lines 16-20 of the transcript).
+[2] Although Crown counsel noted in argument that not all witnesses gave exactly the same evidence, there were no contradictions between any of them on any material point. It should also be noted that Vince was experiencing the effects of various addictions during the relevant time, so it is understandable that his recollection may very well have fallen short of a standard of perfection.
+[3] Transcript, page 9, line 17.
+[4] In cross-examination he testified that “… I wanted to move out and I wanted to party in there. I was an addict.” (page 30, lines 23-27 of the transcript).
+[5] Transcript, page 66, lines 21-28.
+[6] Transcript, page 15, line 3.
+[7] Transcript, page 16, lines 4-5. Vince testified that he would have died had he moved into his new home alone (page 20, lines 18-21 of the transcript).
+[8] Transcript, page 77, line 24 to page 78, line 12. See also page 115, line 26 to page 116, line 11 of the transcript.
+[9] Transcript, page 147, line 24 to page 148, line 7.
+[10] Transcript, page 115, line 26 to page 116, line 11.
+[11] Transcript, page 121, lines 18-28. See also page 134, lines 9-20 of the transcript.
+[12] According to counsel, this was the Crown’s “biggest argument” (see page 200, lines 12-13 of the transcript).
+[13] Transcript, page 133, lines 10-12.
+[14] Transcript, page 203, lines 7-8.
+[15] Paragraph 11(f) of the Reply to Vince’s Notice of Appeal and paragraph 11(g) of the Reply to Jordano’s Notice of Appeal.

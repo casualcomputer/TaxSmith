@@ -1,0 +1,108 @@
+Title: C-Mar Services (Canada) Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28104/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-592-28104-c-mar-services-canada-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-09-11
+
+# C-Mar Services (Canada) Ltd. v. M.N.R.
+
+- Citation: 2003 TCC 592
+- Decision date: 2003-09-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1689, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+C-Mar Services (Canada) Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-11
+Neutral citation
+2003 TCC 592
+File numbers
+2000-2295(CPP)
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Canada Pension Plan
+Decision Content
+Citation: 2003TCC592
+Date: 20030911
+Docket: 2000-2295(CPP)
+BETWEEN:
+C-MAR SERVICES (CANADA) LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appearances
+Agent for the Appellant: Denis Mair
+Counsel for the Respondent: Cecil Woon
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at Halifax, Nova Scotia, on
+Tuesday, March 26, 2002 and revised as to style and syntax at
+Ottawa, Canada on September 11, 2003.)
+Margeson, J.T.C.C.
+[1] The position of the Appellant is that this is not pensionable employment because it is not pensionable employment under the Canada Pension Plan —Regulations. Regulation 18(1) states:
+Where an employer operating in Canada employs persons in international transportation on a ship that is operated under an agreement entered into in Canada with the crew, pensionable employment includes
+(a) when that ship is engaged on a foreign voyage or home‑trade voyage, the employment thereon of any person who has a place of domicile in Canada as defined in subsection (3); and …
+[2] The Court accepts the argument that Regulation 18 really does not apply here because the terms and conditions that were described in the evidence do not make it applicable. Therefore he was not in pensionable employment due to Regulation 18.
+[3] The Respondent's position is that even though Regulation 18(1) does not apply, the worker was in pensionable employment under the provisions of Regulation 16(1). This decision is contrary to decisions given by the Minister on other occasions and the Appellant is mystified by the Minister's decision in this case. Regulation 16(1) states:
+— Pensionable employment includes employment outside Canada (except employment in international transportation) that would be pensionable employment if it were in Canada, if the employee employed therein
+(underlining is mine)
+(a) ordinarily reports for work at an establishment in Canada of his employer;
+(b) is resident in Canada and is paid at or from an establishment in Canada of his employer;
+(c) is an employee, other than an employee engaged locally outside Canada,
+(i) of Her Majesty in right of Canada, or
+(ii) of Her Majesty in right of that province (if employment by Her Majesty in right of that province has been included in pensionable employment by regulation in accordance with paragraph 7(1)(e) of the Act),
+who was resident in Canada immediately prior to becoming so employed outside Canada or who is in receipt of a representation allowance;
+(d) performs services in a country other than Canada under an international development assistance program of the Government of Canada prescribed as such pursuant to paragraph 250(1)(d) of the Income Tax Act and was resident in Canada at any time in the three-month period preceding the day on which such services commenced;
+(e) is the spouse of a person described in paragraph (c) or (d) or of a person described in paragraph 250(1)(b) of the Income Tax Act and
+(i) is living with that person,
+(ii) is an employee of Her Majesty in right of Canada or of Her Majesty in right of a province (the government of which has entered into an agreement referred to in paragraph 7(1)(e) of the Act), and
+(iii) was resident in Canada at any time before becoming so employed outside Canada;
+(f) is an employee of Her Majesty in right of Canada who is engaged locally outside Canada and if the President of the Treasury Board signifies to the Minister that he wishes the employment of such employee to be included in pensionable employment; or
+(g) is an employee of Her Majesty in right of a province (the government of which has entered into an agreement referred to in paragraph 7(1)(e) of the Act), who is engaged locally outside Canada and if the government of the province signifies to the Minister that it wishes the employment of such employee to be included in pensionable employment.
+[5] There is no doubt on the evidence that the Appellant was resident in Canada and that he was paid from an establishment in Canada of his employer. Significantly, the section says that it includes employment outside Canada that would be pensionable employment if it were in Canada.
+[6] There was nothing in the evidence that would indicate to this Court, on the balance of probabilities, that this would have been pensionable employment if it were in Canada. Had the Minister presumed such a fact in the Reply to the Notice of Appeal, and had there been no contrary evidence, that presumption may have prevailed. The Court is satisfied it does not have the evidence before it that would entitle it to conclude that this employment would have been pensionable employment had it been in Canada.
+[7] There may be many reasons why employment, even by workers, is not pensionable employment. The burden is on the Minister under the circumstances to satisfy the Court on this point.
+[8] The Minister quoted Regulation 16, but he did not say that it was pensionable employment in Canada and he did not indicate why it would have been pensionable employment in Canada.
+[9] The Appellant has satisfied the Court that this was not pensionable employment.
+[10] The appeal pursuant to section 28 of the Canada Pension Plan is allowed and the decision of the Minister of National Revenue, on the appeal made to him under section 27 of that Plan, is vacated on the basis that the worker, Mark Carew, was not engaged in pensionable employment during the period from November 28, 1999 to January 12, 2000.
+Signed at Ottawa, Canada, this 11th day of September 2003.
+"T.E. Margeson"
+Margeson, J.
+CITATION:
+2003TCC592
+COURT FILE NO.:
+2000-2295(CPP)
+STYLE OF CAUSE:
+C-Mar Services (Canada) Ltd. and
+The Minister of National Revenue
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+March 26, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable T.E. Margeson
+DATE OF JUDGMENT:
+April 2, 2002
+DATE OF REASONS FOR JUDGMENT:
+September 11, 2003
+APPEARANCES:
+Agent for the Appellant
+Denis Mair
+Counsel for the Respondent:
+Cecil Woon
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

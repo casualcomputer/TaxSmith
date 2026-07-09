@@ -1,0 +1,185 @@
+---
+title: "Robertson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28439/index.do"
+last_modified: "2007-10-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 472"
+citation2: ""
+neutral_citation: "2007 CCI 472"
+decision_date: "2007-10-10"
+language: "fr"
+item_id: "28439"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1203
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:12:46.078000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "82db4058bc38e0bb2c3319a4a78aa245a14c8b71b007071d5733b8fb87b3f529"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Robertson c. La Reine
+
+- Citation: 2007 CCI 472
+- Decision date: 2007-10-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1203, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robertson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-10
+Référence neutre
+2007 CCI 472
+Numéro de dossier
+2004-2266(GST)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-2266(GST)G
+ENTRE :
+ÉDOUARD ROBERTSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 10 mai 2007, à Jonquière (Québec)
+Devant : L'honorable juge
+Alain Tardif
+Comparutions :
+Avocats de l’appelant :
+Me François Bouchard et
+Me Martine Tremblay
+Avocat de l'intimée :
+Me Patrick Vézina
+____________________________________________________________________
+ORDONNANCE
+VU la requête de l'intimée afin d'obtenir une ordonnance radiant les paragraphes 66, 66A, 66B, 66C, 66D, 66E, 66F, 66G, 66H, 66I, 66J et 67 de l'avis d'appel modifié du 3 novembre 2004 et les paragraphes 34, 35, 36 et 38 de la réplique de l'appelant du 3 février 2005;
+ET VU les allégations des parties;
+La Cour rejette la requête. Frais à suivre.
+Signé à Ottawa, Canada, ce 10e jour d'octobre 2007.
+« Alain Tardif »
+Juge Tardif
+Référence : 2007CCI472
+Date : 20071010
+Dossier : 2004-2266(GST)G
+ENTRE :
+ÉDOUARD ROBERTSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Tardif
+[1] L'intimée a présenté une requête à la Cour afin d'obtenir, en vertu de l'article 53 et de l'alinéa 58(1)b) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »), une ordonnance radiant les paragraphes 66, 66A, 66B, 66C, 66D, 66E, 66F, 66G, 66H, 66I, 66J et 67 de l'avis d'appel modifié du 3 novembre 2004 et les paragraphes 34, 35, 36 et 38 de la réplique de l'appelant du 3 février 2005.
+[2] La requête a été entendue le 10 mai 2007 à Jonquière.
+[3] L'intimée cherche à faire radier les allégations à l'effet que les Montagnais du lac Saint‑Jean détiennent un droit ancestral à l'autonomie gouvernementale. Selon l'intimée, ces allégations sont irrecevables; d'une part, parce qu'elles sont incompatibles avec la Loi constitutionnelle de 1982 et, d'autre part, parce qu'elles sont formulées de façon excessivement générale. De plus, l'intimée s’inquiète de la longueur du procès si ces allégations ne sont pas radiées [1] .
+[4] Selon l'appelant, les allégations sur la question du droit ancestral à l'autonomie gouvernementale ont été suffisamment précisées. Par ailleurs, les allégations ne sont nullement abusives ou vexatoires, puisque le gouvernement du Canada reconnaît que le droit inhérent à l'autonomie gouvernementale est un droit ancestral en vertu de la Loi constitutionnelle de 1982 (article 35).
+[5] Les paragraphes que l'intimée cherche à faire radier portent sur les questions suivantes :
+Avis d'appel modifié du 3 novembre 2004 :
+le droit inhérent des peuples autochtones à l'autonomie gouvernementale en tant que droit ancestral (paragraphes 66 et 66A);
+l'organisation de la société montagnaise du lac Saint-Jean avant l'arrivée des Européens en Amérique du Nord (paragraphes 66B et 66C) ;
+l'étendue du droit à l'autonomie gouvernementale des Montagnais du lac Saint-Jean (paragraphes 66D, 66E, 66F, 66G, 66H et 66I);
+l'application de la taxe sur les produits et services et la position des Montagnais sur l'obligation imposée aux commerçants indiens d'agir à titre de mandataires pour percevoir cette taxe (paragraphes 66J et 67);
+Réplique du 3 février 2005 :
+la reconnaissance des régimes de gouvernement des autochtones au sein du Canada (paragraphe 34);
+l'organisation des Montagnais en entité souveraine et autonome au moment du contact avec les Européens et la préservation du pouvoir d'imposer des droits sur les transactions commerciales ou d'échanges (paragraphes 35 et 36);
+le fait que la Loi sur la taxe d'accise n'aurait pas éteint le droit ancestral à l'autonomie gouvernementale fiscale exclusive des Montagnais (paragraphe 38).
+[6] Selon l'appelant, il n'y a rien de scandaleux, de frivole ou de vexatoire dans les allégations d'autonomie gouvernementale contenues dans l'avis d'appel modifié. Les allégations sont détaillées et appuyées par un rapport d'expertise déjà produit à l'intimée.
+[7] Par ailleurs, en réponse aux préoccupations de l'intimée sur la longueur du procès si les allégations ne sont pas radiées, l'appelant est d'avis que les remarques de l'intimée sont impertinentes si on considère que plus d'un an et demi s'est écoulé entre la date où les procédures écrites étaient closes et le dépôt de la requête en radiation, et que la Cour pourrait même envisager de rejeter la requête sur la base de l'article 8 des Règles [2] .
+[8] À l'appui de sa requête, l'intimée a fait valoir des arguments fort intéressants. Les arguments étaient appuyés par des décisions judiciaires.
+[9] À la lumière de la preuve soumise, les allégations visées par la requête ont effectivement une portée large et générale susceptible de créer des longueurs, lors de l'audition.
+[10] Les allégations doivent-elles être radiées ou écartées pour autant? D’abord, il m'apparaît important de rappeler que le juge qui entendra le dossier sur le fond sera le seul maître quant à la recevabilité de la preuve. Ce juge pourra refuser toute tentative d'introduire en preuve des éléments, ou des faits non pertinents à la question en litige. Il pourra de façon générale diriger, mais aussi intervenir pour garder le débat sur les véritables questions.
+[11] D'autre part, les limites de la compétence de la Cour devront également être prises en compte lors du débat sur le fond. En effet, la Cour devra en fin de compte se prononcer sur le bien‑fondé de la cotisation dont il est fait appel. Toute autre question devra être écartée du débat.
+[12] La requête ne porte pas sur un fait isolé dont il faut évaluer la pertinence; il s'agit d'allégations qui, regroupées, visent manifestement un seul objectif, soit celui de démontrer que l'appelant n'était pas assujetti aux dispositions légales à l'origine de la cotisation.
+[13] En d'autres termes, il s'agit d'éléments devant servir à la stratégie globale des arguments de l'appelant.
+[14] La simple prépondérance de la preuve ne m'apparaît pas suffisante pour conclure au bien‑fondé de la requête. Il s'agit plutôt d'une question où une preuve vraiment déterminante doit être présentée pour que l’on puisse procéder à une telle radiation, qui pourrait avoir des conséquences très lourdes pour l'autre partie lors de l'audition sur le fond.
+[15] Même s'il existe des motifs a priori valables, voire sérieux, pour justifier la présentation d'une telle requête, cela ne me semble pas suffisant pour accueillir la requête.
+[16] L'argument voulant que les allégués visés par la requête risquent d'alourdir la preuve et ainsi nécessiter plusieurs jours d'audition additionnels m'apparaît tout simplement prématuré. Le juge qui sera saisi du dossier lors de l'audition sera maître de la situation quant à ce qui est pertinent ou non.
+[17] L'appelant soutient que les allégations visées par la requête constituent les fondements de ses prétentions à l'effet que la cotisation est injustifiée et mal fondée en droit.
+[18] Les principes et la jurisprudence qui régissent de telles requêtes en radiation sont bien établis; d'ailleurs les parties ne contestent pas l'état du droit à cet égard.
+[19] Dans l'arrêt Hunt c. Carey Canada Inc., [1990] 2 R.C.S. 959 [3] , la Cour suprême du Canada a énoncé le critère applicable en matière de requête en radiation, à la page 980 :
+[D]ans l’hypothèse où les faits mentionnés dans la déclaration peuvent être prouvés, est-il « évident et manifeste » que la déclaration du demandeur ne révèle aucune cause d’action raisonnable ? Comme en Angleterre, s’il y a une chance que le demandeur ait gain de cause, alors il ne devrait pas être « privé d’un jugement ». La longueur et la complexité des questions, la nouveauté de la cause d’action ou la possibilité que les défendeurs présentent une défense solide ne devraient pas empêcher le demandeur d’intenter son action. Ce n’est que si l’action est vouée à l’échec parce qu’elle contient un vice fondamental […] que les parties pertinentes de la déclaration du demandeur devraient être radiées en application de la règle 19(24)a).
+[20] Dans l'affaire Morris c. la Reine, C.C.I., no 92-581(IT), 3 décembre 1992, [1992] A.C.I. no 787, 93 DTC 316, le juge Bonner résumait comme suit les principes de la radiation :
+1. En général, les allégations de faits figurant dans une déclaration sont réputées être vraies ou susceptibles d'être prouvées. Voir : Unterreiner v. Wilson (1982) 40 O.R. 2nd 197, arrêt qui a été confirmé par la Cour d'appel.
+2. Il incombe en grande part à la partie adverse de montrer qu'il ne fait absolument aucun doute que l'acte de procédure est scandaleux, frivole ou vexatoire ou constitue par ailleurs un recours abusif à la Cour. Ce principe s'appuie sur le jugement Erasmus v. The Queen, 91 DTC 5415.
+3. Le terme [TRADUCTION] « embarrassant » signifie que le rapport entre les allégations et l'affaire est tellement faible que leur non-radiation entraînerait des dépenses inutiles et, de plus, nuirait au procès de l'affaire en engageant les parties dans un différend n'ayant absolument rien à voir avec les questions en litige. [TRADUCTION] « Pour que les allégations puissent être radiées d'une défense pour un tel motif, il me semble que leur manque de pertinence ne doit faire aucun doute et, pour ainsi dire, doit sauter aux yeux. Il ne suffit pas que, après moults arguments, il puisse sembler qu'elles ne peuvent être défendues. » Cette citation est extraite de la décision du lord juge Pickford dans l'affaire City of London v. Horner, (1914) 111 LT 512.
+[21] Plus récemment, le juge en chef Bowman précisait dans l’affaire HSBC Bank Canada c. La Reine, no 2006-3579(IT)G, 2007 CCI 307, 19 juin 2007, au paragraphe 9 :
+A motion to strike out a pleading should be granted only where it is clear and obvious that pleading is scandalous, vexatious or frivolous or an abuse of the Court’s process. (Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959 at 980; Erasmus v. The Queen, 91 DTC 5415 at 5416; Gould v. The Queen, [2005] DTC 1311; Niagara Helicopters Limited v. The Queen, [2003] DTC 513 at 514‑515.) An example of the type of frivolous and vexatious pleading that section 8 of the Rules is aimed at is Davitt v. The Queen, [2001] DTC 702.
+[22] Par ailleurs, comme le précisait le juge Rip (tel était alors son titre) dans l’affaire Status-One Investments Inc. c. Sa Majesté la Reine, C.C.I., no 2002‑2867(IT)G, 27 juillet 2004:
+[13] Il faut aussi noter que la décision d'accueillir ou non une requête présentée en vertu de l'article 53 des RCCI relève du pouvoir discrétionnaire de la Cour. Cette discrétion résulte du verbe « peut » qui est utilisé par le législateur au début de la disposition.
+[23] Dans ses prétentions écrites et sa plaidoirie orale, l'intimée réfère à la décision du juge Campbell Miller dans l’affaire Gauthier c. La Reine, 2006 CCI 290 [4] , une décision portant sur une requête en radiation dans un appel où des Métis alléguaient ne pas être assujettis à l'impôt. Après une revue de la jurisprudence sur la radiation d'allégations, le juge Miller a ordonné la radiation des allégations sur la base qu'elles n'identifiaient pas la nature exacte du droit à l'autonomie gouvernementale réclamée et que les actes de procédure des appelants étaient si incomplets qu’ils étaient futiles. Le juge Miller précisait :
+[18] Sur la base de la méthode de la Cour suprême du Canada ainsi que celle d'autres cours sur l'analyse des droits ancestraux visés par l'article 35 de la Loi constitutionnelle de 1982, quelles sont, si elles existent, les chances de succès des appelants s'ils invoquent l'article 35 dans leurs actes de procédure sur la base d'un droit inhérent à l'autonomie gouvernementale (qui emporte l'immunité fiscale)? Je trouve que leur position n'est pas seulement chancelante, elle est impossible à tenir.
+[19] Les actes de procédure des appelants ne permettent pas de surmonter le premier obstacle, celui de la qualification précise d'un droit particulier lié à des pratiques, des coutumes ou des traditions particulières. Il n'y a rien d'autre que de vagues allégations dans les actes de procédure - aucune base substantielle.
+[20] Pour que la revendication des appelants puisse aboutir, ils doivent démontrer :
+(i) la nature exacte du droit revendiqué;
+(ii) les actions prises par la partie en vertu de ce droit;
+(iii) la loi qui viole ce droit;
+(iv) le contexte historique invoqué pour établir ce droit.
+[24] Bien que la question fondamentale (c.-à-d. l'autonomie gouvernementale) dans la présente requête paraisse semblable à celle examinée par le juge Miller dans l'affaire Gauthier [5] , certains éléments nous permettent de distinguer la décision d'accueillir la requête en radiation dans cette affaire :
+les allégations contenues dans les actes de procédures sont plus détaillées et précises que dans l'affaire Gauthier;
+la nature du droit revendiqué est précisée (et non vague) [6] ;
+les actes de procédure contiennent suffisamment de faits pertinents à l'appui des allégations, y compris la possibilité qu'un droit ancestral puisse exister [7] .
+[25] Bien que les prétentions de l'intimée à l'appui de la requête en radiation soulèvent un doute sur le caractère raisonnable des paragraphes contestés, je suis d'avis que l'intimée n'a pas suffisamment démontré que les allégations dans l'avis d'appel modifié et dans la réplique ne révèlent manifestement aucune cause d'action ou qu'elles sont scandaleuses, frivoles ou vexatoires.
+[26] Également, le 24 janvier 2007, la Cour d'appel fédérale (no A-112-06, 2007 CAF 59) a confirmé la décision de la juge Woods dans Ronald Robertson c. La Reine, no 2004-3561(IT)G, 8 mars 2006, rejetant une requête en radiation.
+[27] Dans cette affaire, la couronne cherchait à faire radier des allégations sur les droits de pêche ancestraux et sur l'application du traité no 5. La juge Woods n'a pas été convaincue que le critère établi par la Cour suprême du Canada dans Hunt c. Carey Canada Inc. avait été satisfait :
+[17] The onus on the party seeking to strike pleadings under these sections is high. Courts will not strike the pleadings unless the other party clearly has no chance of success: Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959 (S.C.C.). In my view, the respondent's argument does not meet this high threshold.
+[28] Finalement, la décision de la Cour d'appel fédérale, le juge Evans écrivait :
+[4] Il est convenu que la juge a appliqué le bon critère juridique pour déterminer si l’acte de procédure devait être radié ou non, c’est-à-dire examiner s’il est clair et évident que cette partie de l’avis d’appel n’avait aucune chance de succès : Hunt c. Carey Canada Inc., [1990] 2 R.C.S. 959. Par conséquent, afin que l’intervention de la Cour soit justifiée, l’appelante doit démontrer que, en utilisant son pouvoir discrétionnaire pour rendre cette ordonnance interlocutoire, la juge a commis une erreur manifeste et dominante dans l’application du droit aux faits ou qu’elle a commis une erreur de droit.
+[5] Nous ne sommes pas convaincus qu’elle ait commis une telle erreur. À notre avis, la juge pouvait raisonnablement conclure qu’il n’était pas clair et évident que la partie contestée de l’acte de procédure était vouée à l’échec. En d’autres mots, il est possible de soutenir que les droits de pêche commerciale ancestraux ou issus de traité n’ont pas été totalement éteints du fait par l’article 13 de la Convention sur le transfert des ressources naturelles du Manitoba de 1930.
+[29] En conclusion, je suis d'avis que la requête en radiation doit être rejetée. Frais à suivre.
+Signé à Ottawa, Canada, ce 10e jour d'octobre 2007.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2007CCI472
+Nº DU DOSSIER DE LA COUR : 2004-2266(GST)G
+INTITULÉ DE LA CAUSE : Édouard Robertson et La Reine
+LIEU DE L’AUDIENCE : Jonquière (Québec)
+DATE DE L’AUDIENCE : le 10 mai 2007
+MOTIFS DE L’ORDONNANCE PAR : L'honorable juge
+Alain Tardif
+DATE DE L’ORDONNANCE : le 10 octobre 2007
+COMPARUTIONS :
+Avocats de l'appelant :
+Me François Bouchard et
+Me Martine Tremblay
+Avocat de l'intimée :
+Me Patrick Vézina
+AVOCAT INSCRIT AU DOSSIER :
+Pour le requérant:
+Nom : Me François Bouchard
+Cabinet : Cain Lamarre Casgrain Wells
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] . Voir les notes sténographiques de la requête en radiation (10 mai 2007), page 29, lignes 14 à 24, et page 210, lignes 6 à 21.
+[2] . Voir les notes sténographiques de la requête en radiation (10 mai 2007), page 132 .
+[3] . Extrait également appliqué par la Cour suprême du Canada dans Odhavji c. Woodhouse, 2003 CSC 69, [2003] 3 R.C.S. 263, au par. 15.
+[4] . 2006 CarswellNat 2628, 2006 CCI 290, 2006 D.T.C. 3050 (Eng.), [2006] 4 C.T.C. 2403.
+[5] . L'allégation des appelants dans leurs actes de procédure était :« si les appelants ont une immunité fiscale inhérente en tant que droit ancestral provenant du droit des peuples autochtones à l'autonomie gouvernementale qui est reconnu et protégé constitutionnellement par l'article 35 de la Loi constitutionnelle de 1982 ».
+[6] . Voir le commentaire du juge en chef Lamer dans R. c. Pamajewon [1996] 2 R.C.S. 821, au paragraphe 25 : « Dans l'application de ce critère, la Cour doit d'abord déterminer la nature exacte de l'activité qui, prétend‑on, serait un droit, et ensuite se demander si, compte tenu de la preuve présentée au juge du procès et des conclusions de fait du juge du procès, il est possible d'affirmer que cette activité était « une caractéristique déterminante de la culture en cause » (Van der Peet, par. 59), avant le contact avec les Européens. »
+[7] . Voir le commentaire du juge en chef Lamer dans R.C. Van der Peet [1996] 2 R.C.S. 507, au paragraphe 46 : « À la lumière de l’idée exprimée dans Sparrow, précité, et des objets qui sous‑tendent le par. 35(1), le critère suivant devrait être appliqué pour déterminer si le demandeur a établi l’existence d’un droit ancestral protégé par le par. 35(1) : pour constituer un droit ancestral, une activité doit être un élément d’une coutume, pratique ou tradition faisant partie intégrante de la culture distinctive du groupe autochtone qui revendique le droit en question. »

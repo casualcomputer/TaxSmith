@@ -1,0 +1,173 @@
+---
+title: "Pelletier c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31130/index.do"
+last_modified: "2013-04-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 80"
+citation2: ""
+neutral_citation: "2013 CCI 80"
+decision_date: "2013-04-04"
+language: "fr"
+item_id: "31130"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4778
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:24:35.454000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1544aa94edc639e26cbb5c94c83eb9a0ce5562eaa89f83fda8ccce9712d2fd6e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pelletier c. M.R.N.
+
+- Citation: 2013 CCI 80
+- Decision date: 2013-04-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4778, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pelletier c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-04
+Référence neutre
+2013 CCI 80
+Numéro de dossier
+2009-1927(EI), 2009-2149(EI), 2009-2150(CPP)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2009-1927(EI),
+2009-1929(CPP)
+ENTRE :
+CAMILLE PELLETIER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 25 février 2013, à Edmundston (Nouveau-Brunswick).
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocates de l'intimé :
+Me Stéphanie Côté
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+Les appels des décisions du ministre du Revenu national, portant que l’appelant n’occupait pas un emploi assurable au sens de la Loi sur l'assurance‑emploi et ouvrant droit à pension au sens du Régime de pensions du Canada, sont rejetés, par les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 4e jour d'avril 2013.
+« François Angers »
+Juge Angers
+Dossiers : 2009-2149(EI),
+2009-2150(CPP)
+ENTRE :
+ROBERT COULOMBE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 25 février 2013, à Edmundston (Nouveau-Brunswick).
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocates de l'intimé :
+Me Stéphanie Côté
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+Les appels des décisions du ministre du Revenu national, portant que l’appelant n’occupait pas un emploi assurable au sens de la Loi sur l'assurance‑emploi et ouvrant droit à pension au sens du Régime de pensions du Canada, sont rejetés, par les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 4e jour d'avril 2013.
+« François Angers »
+Juge Angers
+Référence : 2013 CCI 80
+Date : 20130404
+Dossiers : 2009-1927(EI),
+2009-1929(CPP),
+2009-2149(EI), 2009-2150(CPP)
+ENTRE :
+CAMILLE PELLETIER,
+ROBERT COULOMBE,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il est interjeté appel des décisions du ministre du Revenu national (le « ministre ») portant qu'ils n'occupaient pas un emploi assurable au sens de la Loi sur l'assurance emploi (la « Loi ») ouvrant droit à pension au sens du Régime de pensions du Canada (le « Régime ») auprès de leur employeur, soit la société 516241 NB Inc (la « société payeuse ») au cours de la période du 22 avril au 26 juillet 2002 pour l'appelant Camille Pelletier et au cours de la période du 30 septembre au 8 novembre 2002 pour l'appelant Robert Coulombe.
+[2] Ces appels ont été entendus sur preuve commune. Au début de l’audience, l'intimé a informé la cour qu'il voulait modifier ses Réponses aux avis d'appel en supprimant les paragraphes 6 e) et f) dans les dossiers 2009-1927(EI) et 2009‑1929(CPP) et les paragraphes 7 e) et f) dans les dossiers 2009-2149(EI) et 2009-2150(CPP). La requête a été accordée et les réponses aux avis d'appel sont donc modifiées en conséquence.
+[3] La décision du ministre portant que les deux appelants n'occupaient pas un emploi assurable et ouvrant droit à pension est fondée sur la présomption qu'ils n'occupaient pas un emploi en vertu d'un contrat de louage de services et, subsidiairement, en ce qui concerne les dossiers d'assurance-emploi, s'il existait un contrat de louage de services entre la société payeuse et les appelants, leur emploi n'était pas assurable car il existait entre eux un lien de dépendance factuel au sens de l'alinéa 5(2)i) de la Loi.
+[4] La société payeuse fut constituée en société le 15 mars 2002 en vertu des lois du Nouveau-Brunswick et fut dissoute en novembre 2004. Son seul actionnaire et administrateur était monsieur Allain Maltais. Cette société exploitait une entreprise forestière et elle a perçu des revenus provenant de la coupe de bois en 2002. Elle ne tenait aucun compte de ses revenus et dépenses et ne détenait aucun permis relatif à son activité. Elle n'a pas non plus produit de déclaration de revenus ni remis de retenues à la source au ministre. Elle n'était pas enregistrée auprès de Travail Sécuritaire du Nouveau-Brunswick.
+[5] La société payeuse faisait partie d'un groupe de sociétés qui firent l'objet d'une enquête d’envergure menée par la Commission de l'assurance-emploi. Cette enquête a d'ailleurs révélé que ces sociétés, dont la Société payeuse, étaient impliquées dans des stratagèmes avec des personnes consistant en la remise de faux relevés d'emploi dans le but de les qualifier à des prestations d'assurance-emploi.
+[6] Les enquêteurs de la Commission ont mis la main sur le compte de paie de la société payeuse, ce qui leur a permis de dresser un tableau des employés de celle-ci, selon leur occupation et la durée de leur emploi. Ils ont aussi obtenu un relevé bancaire de la société payeuse faisant état des mouvements sur le compte depuis son ouverture en avril 2002 jusqu'à sa fermeture au printemps 2003 de même qu'une copie des chèques émis par diverses sociétés qui ont acheté du bois de la société payeuse et déposé au compte de celle-ci de même que des chèques émis par celle-ci à différentes personnes. La première vente de bois de la société payeuse selon les chèques déposés a eu lieu le 19 juillet 2002 alors que la masse salariale dépassait de beaucoup les entrées de fonds. Au 31 août, les entrées de fonds étaient d'environ 67,300 $ alors que le livre de paie indiquait des salaires payés de près de 120 000 $. Sans calculer les autres dépenses qu'aurait pu avoir la société payeuse, il est évident qu'il y existait un sérieux manque à gagner.
+[7] On y a trouvé également des anomalies en ce qui concerne les relevés d'emploi de certains employés. Ceux-ci ne correspondent pas avec le livre de paie et, dans un cas, deux relevés ont été émis pour le même employé avec une date différente visant le premier jour de travail de ce dernier. L'enquête a aussi révélé plusieurs contradictions chez certains travailleurs voulant qu'ils aient été supervisés par un dénommé Claude St-Onge alors que ce dernier ne figurait pas sur le livre de paie de la société payeuse au même moment. D'autres ont reçu un relevé d'emploi sans savoir pourquoi. Il ne fait donc aucun doute que les activités de la société payeuse soulevaient des doutes et plusieurs questions sans réponse.
+[8] Il faut donc rechercher si les deux appelants ont effectivement et réellement travaillé pour la société payeuse durant les périodes en cause et pendant les heures et pour la rémunération indiquée sur le livre de paie.
+[9] Dans son témoignage, l'appelant Robert Coulombe dit avoir travaillé pour le dénommé Claude St-Onge durant la période en cause. Ce n'est qu'en 2009, qu'il a compris qu'Allain Maltais avait signé son relevé d'emploi pour cette période. Il a travaillé chaque jour avec ledit Claude St-Onge en alternant entre les fonctions de bûcheron et d’opérateur de « skidder ». Il fut embauché par Claude St-Onge et c'est ce dernier qui le rémunérait; la première fois par chèque mais, par la suite, ce fut en argent comptant car le chèque en question était sans provision. Il recevait entre 600 $ et 700 $ par semaine. Il ne savait pas que son employeur était une société à numéro.
+[10] Il a témoigné avoir travaillé dans la vallée de la Matapédia dans la province de Québec et qu'il voyageait matin et soir avec Claude St-Onge. Il travaillait d'« une noirceur à l'autre ».
+[11] Madame Annette Mélanson, agente de détermination, a eu un entretien téléphonique avec monsieur Coulombe le 9 juin 2008. Il lui a confié que son lieu de travail était au Québec dans le coin de St-Alexis et qu'il n'avait pas travaillé au Nouveau-Brunswick. Il se déplaçait pour se rendre au travail avec Claude St-Onge et la durée du trajet était de 45 à 60 minutes dans chaque sens. Il partait vers 5 heures le matin et rentrait vers 17 heures et il était payé par chèque le vendredi.
+[12] Madame Manon Basque était agente des appels à l'époque, soit en mars 2009. Elle a obtenu de Robert Coulombe des réponses à un questionnaire visant sa période d'emploi avec la société payeuse. Selon ces réponses, monsieur Claude St-Onge était propriétaire de la société. Il a appris que Claude St-Onge cherchait quelqu'un pour remplacer un travailleur blessé. Son emploi a cessé au retour de cet employé.
+[13] Selon la pièce I-4 et I-5, soit le tableau et le livre de paie, aucun employé de la société payeuse n’aurait manqué une journée de travail en raison d’un accident de travail ou du mauvais temps. Qui plus est, aucun employé n'a été au service de la société payeuse après la cessation d'emploi de monsieur Coulombe. Il n'y a donc aucun employé qui est revenu au travail après la cessation d'emploi de monsieur Coulombe. Le livre de paie indique également que le départ de monsieur Coulombe fut dû à un manque de travail. D'ailleurs, tous les documents de la société payeuse font état d’un manque de travail comme motif de départ de chaque employé.
+[14] De son côté, l'appelant Camille Pelletier fut embauché par Allain Maltais sauf qu'au travail, c'était Claude St-Onge qui était présent. Il voyait celui-ci tous les jours et voyait Maltais une fois ou deux par semaine. Il fut embauché comme chauffeur de bulldozer, lequel appartenait à monsieur Gallant. Monsieur Pelletier participait à la construction de chemins dans la région de St-André, la Restigouche et au Québec. Il travaillait 10 heures par jour au taux de 15 $ de l’heure. Il était payé le vendredi en argent comptant après avoir endossé son chèque de paie, lequel était signé par Allain Maltais.
+[15] Monsieur Pelletier a également rencontré madame Annette Melanson. Sur la question du lieu de travail, il a dit avoir travaillé à St-Arthur, flatland, Merival-Tidehead, soit au Nouveau-Brunswick, sauf Assention dans la province de Québec. Il aurait travaillé une à deux fois le samedi et qu'Allain Maltais s'occupait de ses tâches. Claude St-Onge le rémunérait le plus souvent et il était payé souvent le jeudi. Il lui a déclaré avoir travaillé avec des camionneurs soit Bouchard, Huard et un certain Fred Levesque.
+[16] Sur le plan des appels, monsieur Pelletier a répondu également à un questionnaire. Selon ses réponses, Claude St-Onge était le contremaître et il déterminait son horaire de travail. Les lieux où il a travaillé sont différents de ceux qu'il a indiqués à madame Melanson, quoiqu’il y avait des chevauchements. Il a également déclaré avoir travaillé seul, contrairement à ce qu'il avait affirmé à madame Melanson.
+[17] Il incombe aux appelants, selon la prépondérance des probabilités, de démontrer qu'ils ont effectivement, d'abord et avant tout, travaillé pour la société payeuse et ce, durant la période en cause. Ils doivent également établir qu'ils ont effectué les heures de travail et ont reçu la rémunération assurable, selon leurs relevés d'emploi.
+[18] Les deux appelants ont été les seuls à témoigner. Ils n'ont produit aucun document ou pièce pouvant confirmer leurs dires. Il faut donc s'en remettre à leurs témoignages et aux déclarations antérieures.
+[19] Il ne fait aucun doute que les opérations commerciales de la société payeuse étaient loin d'être en règle. Les relevés d'emploi, le livre de paie et les mouvements de fonds laissent planer un sérieux doute sur la légitimité des dates des opérations commerciales de la société payeuse. Lorsque la question est de savoir si les personnes ont réellement effectué un travail, le fardeau de la preuve peut être plus lourd mais il n’est pas impossible à surmonter.
+[20] En l'espèce, et particulièrement dans le cas de l'appelant Coulombe, j’ai du mal à croire qu’il ait été embauché par Claude St-Onge et que ce n’est qu'en 2009 qu'il a appris que son relevé d'emploi avait été signé par Allain Maltais. En fait, il faut rechercher si monsieur Coulombe savait qu'il était au service d’une société à numéro. Monsieur Coulombe nous dit avoir eu un horaire de travail fixe mais en même temps, il a déclaré avoir travaillé de «la noirceur à la noirceur». Selon le livre de paie, il travaillait 50 heures par semaine et, en réponse au questionnaire, il a déclaré de 50 à 60 heures par semaine.
+[21] Dans un autre ordre d'idée, monsieur Coulombe a témoigné au procès et dans le questionnaire qu'il n'a reçu qu'un chèque de paie mais sans fonds et par la suite, il était payé comptant. À madame Melanson, il lui a dit avoir été payé par chèque.
+[22] Ce qui me semble le plus invraisemblable est le fait qu'il ait dit qu'il remplaçait un travailleur blessé et que son travail s'est terminé lorsque ce dernier a repris le travail. Or, il ressort du livre de paie qu'aucun travailleur de la société payeuse a manqué une journée de travail pour quelque motif que ce soit. En fait, toutes les mises-à-pied sont justifiées par un manque de travail. Qui plus est, la dernière semaine de travail de monsieur Coulombe correspond à la dernière semaine de travail de tous les autres employés de la société payeuse. Nul n'a travaillé pour celle-ci après le 8 novembre 2002. Finalement, monsieur Coulombe dit avoir travaillé avec Clause St-Onge durant les six semaines de son emploi alors que d'autres travailleurs ont prétendu la même chose, selon les enquêteurs.
+[23] La situation de monsieur Coulombe demeure floue et, à mon avis, il n'a pas réussi à s’acquitter de la charge de la preuve selon la prépondérance des probabilités. Ses appels sont donc rejetés.
+[24] Dans le cas de monsieur Pelletier, les contradictions sont peut être moins nombreuses mais elles sont toutes aussi importantes. Monsieur Pelletier dit que son travail était supervisé par Claude St-Onge durant la période en cause. Or, selon le livre de paie et la pièce I-4, Claude St-Onge n’est entré au service de la société payeuse que le 4 août 2002 et ses fonctions étaient celles de bûcheron et non pas de superviseur. Il est vrai que cette documentation est peut-être peu fiable mais elle soulève quand même des questions auxquelles monsieur Pelletier n'a pu répondre par son témoignage.
+[25] Il aurait aussi été possible pour monsieur Pelletier de faire témoigner le propriétaire du bulldozer qu'il opérait. Cela aurait permis de confirmer ses dires selon lesquels il a dû cesser de travailler parce que ce dernier est venu reprendre le bulldozer. Monsieur Pelletier n'a pas expliqué pour quelle raison il ne l’a pas cité à témoigner; force est de conclure que son témoignage ne lui aurait pas été favorable.
+[26] En dernier lieu, monsieur Pelletier a témoigné avoir reçu 15 $ l'heure pour un salaire de 750 $ par semaine. Le livre de paie indique 800 $ par semaine pour 50 heures, soit un taux horaire de 16 $ l'heure. Monsieur Pelletier dit avoir travaillé une ou deux fois le samedi alors que le livre de paie ne fait mention de nul travail effectué le samedi. Toutes ces contradictions laissent planer encore des séries de questions dont les réponses sont loin d'être claires.
+[27] Il est possible que monsieur Pelletier ait rendu des services à la société payeuse durant la période en cause mais son témoignage n'est pas suffisant pour me convaincre, selon la prépondérance des probabilités, que son travail a été conformément à ses dires durant la période en cause. Il ne s’est pas acquitté de la charge de la preuve. Je rejette donc aussi ses appels.
+Signé à Ottawa, Canada, ce 4e jour d'avril 2013.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2013 CCI 80
+Nº DES DOSSIERS DE LA COUR : 2009-1927(EI), 2009-1929(CPP),
+2009-2149(EI), 2009-2150(CPP)
+INTITULÉS DES CAUSES : Camille Pelletier c. M.R.N.
+Robert Coulombe c. M.R.N.
+LIEU DE L’AUDIENCE : Edmundston (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : le 25 février 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 4 avril 2013
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-même
+Avocates de l'intimé :
+Me Stéphanie Côté
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

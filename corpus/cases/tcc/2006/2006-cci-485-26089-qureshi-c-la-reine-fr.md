@@ -1,0 +1,216 @@
+---
+title: "Qureshi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26089/index.do"
+last_modified: "2006-09-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 485"
+citation2: ""
+neutral_citation: "2006 CCI 485"
+decision_date: "2006-09-07"
+language: "fr"
+item_id: "26089"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4150
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:46:49.815000+00:00"
+cases_cited_count: 2
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d6769c3fbbb015786349588775a150b1f1d79ae728b9e35175fbfb28c831bf29"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Qureshi c. La Reine
+
+- Citation: 2006 CCI 485
+- Decision date: 2006-09-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4150, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Qureshi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-07
+Référence neutre
+2006 CCI 485
+Numéro de dossier
+2006-78(GST)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-78(GST)I
+ENTRE :
+SUSAN MARTHA QURESHI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 août 2006, à Kitchener (Ontario).
+Devant : L’honorable D.G.H. Bowman, juge en chef
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Amy Kendell
+___________________________________________________________________
+JUGEMENT MODIFIÉ
+Le présent jugement remplace le jugement daté du 7e jour de septembre 2006.
+L’appel à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 26 novembre 2004 et porte le numéro 04299503012370005, est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et à une nouvelle cotisation pour permettre l’octroi d’un remboursement de TPS de 8 750 $ à l’appelante.
+Il n’y aura pas d’ordonnance quant aux dépens.
+Signé à Ottawa (Canada), ce 2e jour d’octobre 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 9e jour de janvier 2007.
+Hélène Tremblay, traductrice
+Référence : 2006CCI485
+Date : 20061002
+Dossier : 2006-78(GST)I
+ENTRE :
+SUSAN MARTHA QURESHI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+(Les présents motifs du jugement remplacent les motifs du jugement signés le 7e jour de septembre 2006)
+Le juge en chef Bowman
+[1] Il s’agit d’un appel à l’encontre d’une cotisation de taxe sur les produits et services (la « TPS ») dans laquelle le ministre du Revenu national (le « ministre ») a refusé d’accorder à l’appelante le remboursement de 8 750 $ qu’elle avait demandé à titre de remboursement pour habitations neuves. Dans sa demande de remboursement, l’appelante a indiqué que la juste valeur marchande (la « JVM ») du bien était de 350 000 $. La cotisation et la ratification de celle-ci étaient fondées sur une prémisse selon laquelle la JVM du bien dépassait 450 000 $.
+[2] Selon le paragraphe 256 de la Loi sur la taxe d’accise (la « LTA »), si une personne construit sa propre maison, ou y fait des rénovations majeures, elle peut se prévaloir d’un remboursement de TPS allant jusqu’à 8 750 $. Si, à la date où les travaux sont achevés en grande partie, la JVM de la maison est de 450 000 $ ou plus, aucun remboursement n’est accordé. Si la JVM de la maison est inférieure à 350 000 $, le remboursement intégral de 8 750 $ ou, s’il est inférieur, le montant représentant 36 % de la TPS payée, est accordé. Si la JVM se situe entre 350 000 $ et 450 000 $, le remboursement varie selon la formule prescrite.
+[3] Les hypothèses en fonction desquelles la cotisation a été établie et ratifiée sont contenues dans le paragraphe 10 de la réponse à l’avis d’appel, qui est rédigé en ces termes :
+[TRADUCTION]
+10. Lorsqu’il a établi et ratifié la cotisation à l’égard de l’appelante en ce qui concerne la demande de remboursement, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelante a construit une habitation neuve située au 610 de la promenade Riverview à Listowel (Ontario);
+b) la majeure partie de la maison a été construite par un entrepreneur général, soit Rozendal Construction Ltd.;
+c) le terrain est de forme rectangulaire et il mesure 80 pieds sur 125 pieds;
+d) le terrain donne sur un affluent de la rivière Maitland;
+e) la construction de la maison a débuté vers le 20 avril 2004;
+f) l’appelante a emménagé dans la maison le 17 septembre 2004;
+g) la maison était achevée, ou achevée en grande partie, en date du 10 septembre 2004;
+h) la meilleure méthode à utiliser pour déterminer la valeur du bien était la méthode du coût;
+i) le coût de construction du bien, sans la TPS, est de 497 899,59 $;
+j) il s’agit d’un immeuble d’habitation à deux étages d’une surface habitable de plus de 3 364 pieds carrés;
+k) le ministre a évalué la JVM du bien à 500 000 $ en date du 17 septembre 2004.
+[4] La cotisation initiale semble avoir été établie uniquement en fonction du fait que, pour l’appelante, le coût de la maison était de 497 000 $, c’est-à-dire 96 000 $ pour le terrain plus des coûts de construction de 401 000 $. L’appelante ne remet pas en cause ce coût, mais soutient qu’il ne s’agit pas de la meilleure façon de déterminer la JVM.
+[5] L’intimée prétend que la meilleure façon de déterminer la JVM est d’utiliser la méthode du coût et elle invoque la décision rendue par le juge Taylor dans Timber Lodge Ltd. c. The Queen, [1994] O.S.T.C. 73 et celle rendue par le juge Angers dans 9103‑9438 Québec Inc. v. The Queen, [2004] O.S.T.C. 95.
+[6] Il est vrai que la méthode du coût a parfois été utilisée pour déterminer la JVM. Ce fut le cas dans les décisions susmentionnées et également dans des causes se rapportant à la Loi sur l’exportation et l’importation de biens culturels, comme Aikman c. R., [2000] 2 C.T.C. 2211, conf. par [2002] 2 C.TC. 147 ou Maréchal c. La Reine, 2004 DTC 3227, conf. par 2005 DTC 5223. Toutefois, le coût d’un bien est révélateur de sa JVM lorsqu’il coût correspond au prix auquel le bien est acheté dans le cadre d’une vente de pleine concurrence. Le coût de construction ou de reconstruction d’un bien n’est pas une méthode fiable à utiliser pour déterminer la JVM lorsque des données sur le marché sont disponibles, comme c’est le cas en l’espèce.
+[7] Comme il est indiqué dans l’arrêt Gold Coast Selection Trust Ltd. v. Humphrey, [1948] A.C. 459, l’évaluation de biens est un art et non une science. Il faut tenir compte de plusieurs facteurs pour déterminer le genre d’entente qui serait conclue par des parties qui n’ont pas de lien de dépendance entre elles. Il ne s’agit pas d’un processus mécanique qui se réduit à examiner le coût abstraction faite de tous les autres facteurs, y compris le bon sens et la conjoncture du marché.
+[8] L’appelante a fait préparer des évaluations, mais je ne lui ai pas permis de les présenter en preuve, à moins que les évaluateurs ne puissent être contre‑interrogés. (Voir 1036705 Ontario Ltd. v. R., [2000] O.S.T.C. 73.) L’appelante a présenté plusieurs biens comparables situés à Listowel, où est situé le bien en cause. Elle a fait des rajustements très généreux pour arriver à une JVM de 350 000 $.
+[9] À mon avis, l’expert de l’intimée a utilisé comme point de départ le coût de construction de 497 000 $ et s’est servi de biens comparables se trouvant dans une ville située à 55 kilomètres du bien, soit à Shakespeare (Ontario), dans la région touristique près de Stratford, et a fait des rajustements pour aboutir à une évaluation au prix du marché qui se rapprochait de celle qui a été établie en fonction du coût de construction.
+[10] Il n’y a tout simplement rien qui puisse justifier l’utilisation du coût ou du coût de remplacement pour évaluer le bien lorsqu’il existe un marché de biens comparables. Le coût ou le coût de remplacement n’indique pas la JVM lorsqu’il est question d’une maison qui est construite selon les spécifications du propriétaire. Lorsqu’une personne achète une maison déjà construite sur un marché libre, de façon générale, le prix payé sert d’indicateur de la JVM.
+[11] L’évaluateur de l’intimée, M. Ron Duda, s’est servi de trois biens comparables, soit deux maisons situées à Shakespeare et une maison située à Millbank. Il a dit que le bien représentant le meilleur point de référence se trouvait au 4029 de la promenade North Hill à Shakespeare, dans le comté de Perth, et que ce bien a été vendu pour 354 900 $. Voici les commentaires qu’il a formulés au sujet des trois biens comparables en question :
+[TRADUCTION]
+3.3.1. Analyse et conclusions
+On a effectué une analyse des ventes comparables pour rajuster les prix des biens concernés en fonction de certaines différences, y compris les droits immobiliers cédés, les modalités de financement, les conditions de vente, l’évolution des conditions du marché, ainsi que l’emplacement et les caractéristiques physiques du bien. Dans la présente évaluation, on a recouru à la méthode de comparaison relative. Il s’agit d’une analyse qui ne fait pas appel à l’évaluation quantitative. On a analysé les ventes de biens comparables afin d’établir si ces biens ont des caractéristiques inférieures, supérieures ou équivalentes à celles du bien en cause. On a ensuite classé les ventes de biens comparables en ordre croissant et comparé la position relative du bien en cause à celle des autres biens.
+Il n’est pas nécessaire de faire de rajustements pour tenir compte des différences existant entre les droits immobiliers cédés. Tous les biens ont été vendus au moyen d’un financement type, il n’est donc pas nécessaire de faire un rajustement pour cet élément de comparaison. Toutes les ventes ont été faites pour des motifs courants, et les biens ont été mis sur le marché par l’entremise du site du Service inter‑agences et y ont figuré pendant 58 à 117 jours avant d’être vendus. Il n’est pas nécessaire de faire un rajustement pour ce qui est des conditions de vente.
+Les trois biens comparables ont été vendus aux environs de la date d’entrée en vigueur. La vente la plus éloignée de cette date est la vente n° 1, qui a eu lieu cinq mois avant la date d’entrée en vigueur. La vente n° 3 a eu lieu moins de deux mois après la date d’entrée en vigueur. Les trois ventes sont considérées comme ayant été faites de façon contemporaine à la date d’entrée en vigueur, il n’est donc pas nécessaire de rajuster les prix de vente.
+Les prix de vente des biens comparables vont de 340 000 $ à 424 500 $. Pour faciliter la comparaison, les trois ventes peuvent être représentées par leur prix rajusté au pied carré, comme suit :
+Vente n° 1 – prix au pied carré : 120 $
+Vente n° 2 – prix au pied carré : 111 $
+Vente n° 3 – prix au pied carré : 174 $
+La comparaison relative que nous allons faire maintenant nous permettra d’établir quelles caractéristiques de ces biens sont inférieures, supérieures ou équivalentes aux caractéristiques du bien en cause.
+Le bien faisant l’objet de la vente n° 1 se trouve sur un terrain un peu plus grand que celui du bien en cause, mais sa superficie utilisable équivaut à celle du bien en cause, qui est de 0,23 acres. Son emplacement, sur un terrain loti sans vue sur une rivière ou autre agrément semblable, est inférieur à celui du bien en cause, qui est situé à un endroit avec vue sur une rivière. C’est ici la différence la plus notable entre les deux biens. Bien qu’elle soit en bonne condition, la maison de la vente n° 1 était âgée de six ans au moment de la vente, tandis que le bien en cause est une habitation neuve. La maison de la vente n° 1 a un garage triple, et le bien en cause a un garage double. Le sous-sol de la maison de la vente n° 1 est complètement aménagé, alors que celui du bien en cause ne l’est que partiellement. Malgré le fait que la maison de la vente n° 1 ait quelques caractéristiques supérieures à celles du bien en cause, dans l’ensemble, c’est un bien quelque peu inférieur au bien en cause, principalement en raison de son emplacement. En fonction de la vente n° 1, le bien en cause pourrait aller chercher plus de 120 $ par pied carré.
+Le bien de la vente n° 2 se trouve également sur un terrain plus grand que celui du bien en cause, mais sa superficie utilisable est équivalente. La maison, récemment reconstruite, a été faite avec des matériaux de bonne qualité. Elle ne comporte pas de garage et a seulement un petit sous-sol partiel. Comme c’est le cas pour la vente n° 1, l’emplacement de la maison est inférieur à l’emplacement du bien en cause, qui offre une vue sur la rivière Maitland. Dans l’ensemble, le bien de la vente n° 2 est inférieur au bien en cause, ce qui nous permet d’affirmer qu’en fonction de cette vente, le bien en cause pourrait aller chercher plus de 111 $ par pied carré.
+Des trois ventes analysées, c’est le bien de la vente n° 3 qui ressemble le moins au bien en cause. Étant donné qu’il s’agit d’un bungalow, les coûts de construction sont plus élevés que ceux d’une maison à étage. Ceci est illustré par un prix au pied carré assez élevé, soit 174 $. Le terrain a une superficie utilisable semblable à celle du bien en cause. La maison était âgée de dix ans au moment de la vente, ce qui la rend inférieure au bien en cause. Dans l’ensemble, son prix au pied carré est nettement plus élevé que ce à quoi on pourrait s’attendre pour le bien en cause.
+On peut maintenant établir une approximation de la valeur du bien en cause à l’aide d’un tableau de classement des biens comparables. La valeur estimative des biens faisant l’objet des ventes n° 1 et n° 2 est considérée comme étant inférieure à la valeur du bien en cause. La valeur de ce dernier doit donc être supérieure au prix le plus élevé de ces deux biens, soit 120 $ par pied carré. Le bien faisant l’objet de la vente n° 3 a un prix au pied carré nettement plus élevé que ce à quoi on pourrait s’attendre pour le bien en cause. La valeur du bien en cause doit donc être inférieure à 174 $ par pied carré.
+Vente
+Prix au pied carré
+Valeur du bien par rapport au bien en cause
+n° 2
+111 $
+inférieur
+n° 1
+120 $
+inférieur
+BIEN EN CAUSE
+n° 3
+174 $
+supérieur
+La valeur marchande du bien en cause se situerait donc entre la valeur des biens comparables inférieurs n° 2 et n° 1, soit 120 $ par pied carré, et la valeur du bien comparable supérieur n° 3, soit 174 $ par pied carré. Il est raisonnable de conclure que la valeur du bien en cause se rapproche du prix le plus bas étant donné les économies importantes réalisées dans la construction d’une maison à étage par rapport à la construction d’un bungalow comme celui pris comme exemple à la vente n° 3. La valeur estimative du bien en cause se situe donc entre 130 $ et 150 $ par pied carré. La maison a une surface de plancher brute de 3 364 pieds carrés.
+Eu égard aux données présentées comme point de référence, je suis d’avis que la juste valeur marchande estimative du bien en cause, évaluée au moyen de la technique de la parité en date du 17 septembre 2004, se situe entre 440 000 $ et 490 000 $, avant l’application de la TPS.
+[12] Force est de constater que M. Duda a trouvé bon de ne fonder son évaluation sur aucun bien comparable situé à Listowel, une petite municipalité tranquille au sud‑ouest de l’Ontario, à environ 60 kilomètres au nord‑ouest de Kitchener, même si Mme Qureshi y avait trouvé un grand nombre de ventes de maisons. M. Duda n’a trouvé aucune maison à Listowel qui s’était vendue pour 500 000 $, mais il a tout de même conclu que l’appelante aurait pu vendre sa maison à ce prix. Il est irréaliste de penser que l’appelante aurait pu obtenir un tel prix pour sa maison. Je cite intégralement le commentaire de Mme Qureshi au sujet du rapport de M. Duda :
+[TRADUCTION]
+Monsieur,
+Objet : Opposition 0501-1131-4324
+N° de référence : Remboursement pour habitation neuve
+La présente a pour but de vous présenter des commentaires et des documents justificatifs supplémentaires concernant le rapport d’évaluation produit et signé par M. Ron Duda le 4 mai 2005.
+J’ai reçu votre lettre datée du 31 mai 2005 le 7 juin 2005. Je vous remercie de me permettre de formuler d’autres commentaires concernant le fait que vous fonderez maintenant votre décision sur le rapport d’évaluation de M. Duda, selon lequel la juste valeur marchande rétrospective du bien situé au 610 de la promenade Riverview est de 500 000 $.
+Pour vous aider à comprendre les défauts de cette valeur d’expertise, je vous envoie une carte de la région, des statistiques démographiques, ainsi qu’un tableau de biens comparables semblable à celui soumis par M. Duda dans son rapport. Tout ceci vous est fourni tout à fait gratuitement.
+La construction de la nouvelle maison située au 610 de la promenade Riverview a été achevée le 15 septembre 2004, et la demande initiale de remboursement de la TPS a été produite le 14 octobre 2004. La réponse de votre bureau selon laquelle le remboursement de TPS a été refusé a été envoyée en décembre. J’ai alors présenté un avis d’opposition accompagné de documents à l’appui consistant dans une évaluation professionnelle de la juste valeur marchande du bien, inspecté le 14 décembre 2004. La juste valeur marchande établie à la suite de cette évaluation était de 310 000 $.
+Les renseignements généraux concernant cette évaluation sont dignes d’intérêt. Étant donné que M. Duda habite Hamilton, il n’est probablement pas au courant de ce qui suit.
+Les biens n° 1 et n° 3 ayant servi à l’analyse de M. Duda se trouvent tous deux à Shakespeare, une petite municipalité à 15 km à l’est de Stratfort (Ontario), et à seulement 40 km à l’ouest de Kitchener/Waterloo (Ontario). Listowel, elle, est située à 55 km au nord-ouest de Stratford, et à 60 km à l’ouest de Kitchener/Waterloo. Veuillez consulter la carte fournie à l’annexe 1 pour voir où se trouve Listowel. En ce qui concerne l’emplacement et la proximité des agglomérations plus importantes, pour fins d’analyse, la valeur marchande de biens qui se situent dans les municipalités suivantes est comparable à ce que l’on retrouve à Listowel parce que les conditions de ces marchés se rapprochent de celles de Listowel, où se situe le bien qui nous occupe. Les municipalités comparables sont Palmerston, Brussels et Mitchell.
+L’annexe 2 est un résumé des données démographiques relatives aux municipalités ayant servi à l’analyse de M. Duda et aux municipalités qui, selon moi, se comparent davantage à Listowel. Veuillez noter que les données pour Millbank et Shakespeare, municipalités utilisés par M. Duda dans son analyse, sont comprises dans les données de recensement de Perth East. J’ai surligné les statistiques qui se rapportent à mes arguments.
+De plus, j’aimerais que vous examiniez le détail des facteurs ayant servi à l’analyse de M. Duda concernant les rajustements de la valeur des biens comparables. Lorsque j’ai examiné les chiffres avancés par M. Duda, j’ai eu du mal à croire que les facteurs de rajustement qu’il avait appliqués à son analyse s’appliquaient, en fait, à de petites municipalités rurales qui se situent à plus de 40 minutes d’agglomérations importantes.
+Aussi, il y a une erreur dans la note rédigée par M. Duda dans son estimation finale de la valeur du bien qui nous intéresse. Il y indique que le lot du bien en cause a été acheté en septembre 2002 au prix de 45 000 $. En fait, le lot a été acheté en septembre 2003 au prix de 96 000 $.
+Vous trouverez à l’annexe 3 de la présente mon propre tableau comparatif. Contrairement à M. Duda, j’ai utilisé huit biens comparables qui ont été vendus au cours de la dernière année pour en arriver à une juste valeur marchande du bien situé au 610 de la promenade Riverview qui ne dépasse pas les 310 000 $.
+J’aimerais bien pouvoir vous rencontrer pour discuter de ces commentaires et voir quels autres renseignements vous sont nécessaires pour corroborer les présents arguments. Je vais vous téléphoner le mardi 28 juin 2005 pour prendre rendez-vous, quand bon vous semblera.
+Veuillez agréer, Monsieur, mes salutations distinguées.
+[13] J’examine maintenant les huit biens comparables soumis par Mme Qureshi. Cinq d’entre eux sont situés à Listowel, un à Alma, un à Mitchell et un à Brussels. Les prix de vente vont de 185 000 $ à 340 000 $, ce qui donne, à la suite de rajustements des plus généreux, des prix comparables allant de 235 550 $ à 352 500 $. Le bien situé à Alma, vendu pour un prix de 352 500 $, avait un immense lot de 565 sur 313, soit une superficie d’environ 4 acres. Ceci peut largement compenser le fait que le bien n’est pas situé sur le bord d’une rivière.
+[14] La conclusion que je tire de ce qui précède est que l’appelante a su prouver de façon très convaincante qu’en date du 17 septembre 2003, la JVM de son bien ne dépassait pas 350 000 $. La position de la Couronne selon laquelle la somme du coût de la construction et du prix du lot, soit 497 000 $, représentait la JVM est, selon moi, erronée. Même si une personne décide de dépenser 497 000 $ pour une maison située dans une municipalité dans laquelle aucune maison ne s’est jamais vendue pour plus de 300 000 $, on ne peut pas en déduire que la JVM de cette maison est de 500 000 $.
+[15] La définition jurisprudentielle de la JVM adoptée par les tribunaux canadiens est celle que le juge Cattanach énonce dans la décision Henderson Estate and Bank of New York c. M.R.N., 73 DTC 5471, à la page 5476 :
+La Loi ne donne aucune définition de l’expression « juste valeur marchande »; celle-ci a été définie de diverses façons, généralement selon ce qu’avait à l’esprit la personne cherchant à formuler la définition. Je ne crois pas nécessaire d’essayer de donner une définition précise de cette expression telle qu’employée dans la Loi; il suffit, me semble-t-il, de dire qu’il y a lieu de donner à ces mots leur sens ordinaire. Dans son sens courant, me semble-t-il, cette expression désigne le prix le plus élevé que le propriétaire d’un bien peut raisonnablement s’attendre à tirer s’il le vend de façon normale et dans le cours ordinaire des affaires, le marché n’étant pas soumis à des pressions inhabituelles et étant constitué d’acheteurs disposés à acheter et des vendeurs disposés à vendre, qui n’ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d’acheter ou de vendre. J’ajouterais que cet exposé succinct de mon point de vue sur le sens à donner à l’expression « juste valeur marchande » comprend ce que j’estime être l’élément essentiel, soit un marché libre de toutes restrictions, où le prix établi par le jeu de la loi de l’offre et de la demande entre des acheteurs et de vendeurs avertis et désireux d’acheter et de vendre. On voit que la définition donnée de l’expression « juste valeur marchande » est également applicable à l’expression « valeur marchande ». D’ailleurs, il n’est pas sûr que l’emploi du mot « juste » ajoute quoi que ce soit aux mots « valeur marchande ».
+[16] Le juge Cattanach renvoie ensuite au « guide très précieux pour établir le sens des mots “ juste valeur marchande ” » figurant dans la Loi fédérale sur les droits successoraux contenu dans l’arrêt du juge Migneault dans l’affaire Untermyer Estate v. Attorney General for British Columbia, [1929] R.C.S. 84, dans lequel ce dernier a indiqué ce qui suit, à la page 91 :
+[TRADUCTION]
+Les avocats nous ont respectueusement suggéré plusieurs définitions des mots « juste valeur marchande ». Pour répondre à la question de savoir si le prix du marché – s'il existe un marché pour le bien en cause (dans le cas d'actions cotées en bourse, il en existe un) – est le guide le plus sûr pour établir la juste valeur marchande, le mot-clé est manifestement celui de « valeur ».
+[17] Bien sûr, l’accent est mis sur le marché. S’il existe un marché, c’est en fonction de ce dernier qu’il faut évaluer la JVM. Les biens comparables ayant servi à l’expert de l’intimée pour justifier et étayer une évaluation de la JVM qui se rapproche du coût de la construction ne permettent pas d’arriver à la conclusion que le bien avait une JVM réelle de 500 000 $ sur le marché existant à Listowel au moment de l’évaluation.
+[18] L’appel est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et à une nouvelle cotisation pour permettre l’octroi d’un remboursement de TPS de 8 750 $ à l’appelante. Il n’y aura pas d’ordonnance quant aux dépens.
+Signé à Ottawa, Canada, ce 2e jour d’octobre 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 9e jour de janvier 2007.
+Hélène Tremblay, traductrice
+RÉFÉRENCE :
+2006CCI485
+N° DU DOSSIER :
+2006-78(GST)I
+INTITULÉ :
+Susan Martha Qureshi et
+Sa Majesté La Reine
+LIEU DE L’AUDIENCE :
+Kitchener (Ontario)
+DATE DE L’AUDIENCE :
+Le 24 août 2006
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge en chef D.G.H. Bowman
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+DATE DU JUGEMENT MODIFIÉ ET DES MOTIFS DU JUGEMENT MODIFIÉS :
+Le 7 septembre 2006
+Le 2 octobre 2006
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Amy Kendell
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

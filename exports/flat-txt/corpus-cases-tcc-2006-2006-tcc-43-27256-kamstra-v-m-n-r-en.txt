@@ -1,0 +1,236 @@
+Title: Kamstra v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27256/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-43-27256-kamstra-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-01-18
+
+# Kamstra v. M.N.R.
+
+- Citation: 2006 TCC 43
+- Decision date: 2006-01-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 797, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kamstra v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-18
+Neutral citation
+2006 TCC 43
+File numbers
+2005-997(EI)
+Judges and Taxing Officers
+William E. MacLatchy
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-997(EI)
+BETWEEN:
+WENDY KAMSTRA O/A MAPLEWOOD RESOURCE CENTRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ANDREA MCMANUS,
+Intervenor.
+Appeal heard on common evidence with the appeals of Wendy Kamstra o/a Maplewood Resource Centre (2004-2933(EI), 2004-2934(CPP) and 2005-998(CPP)) on October 3, 2005 at Toronto, Ontario
+Before: The Honourable W.E. MacLatchy, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+John Grant
+For the Intervenor:
+The Intervenor herself
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 18th day of January 2006.
+W.E. MacLatchy
+MacLatchy, D.J.
+Docket: 2005-998(CPP)
+BETWEEN:
+WENDY KAMSTRA O/A MAPLEWOOD RESOURCE CENTRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ANDREA MCMANUS,
+Intervenor.
+Appeal heard on common evidence with the appeals of Wendy Kamstra o/a MaplewoodResource Centre (2004-2933(EI), 2005-997(EI) and 2004-2934(CPP)) on October 3, 2005 at Toronto, Ontario
+Before: The Honourable W.E. MacLatchy, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant Herself
+Counsel for the Respondent:
+John Grant
+For the Intervenor:
+The Intervenor Herself
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 18th day of January 2006.
+W.E. MacLatchy
+MacLatchy, D.J.
+Docket: 2004-2933(EI)
+BETWEEN:
+WENDY KAMSTRA O/A MAPLEWOOD RESOURCE CENTRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on common evidence with the appeals of Wendy Kamstra o/a Maplewood Resource Centre (2004-2934(CPP), 2005-997(EI) and 2005-998(CPP)) on October 3, 2005 at Toronto, Ontario
+Before: The Honourable W.E. MacLatchy, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant Herself
+Counsel for the Respondent:
+John Grant
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 18th day of January 2006.
+W.E. MacLatchy
+MacLatchy, D.J.
+Docket: 2004-2934(CPP)
+BETWEEN:
+WENDY KAMSTRA O/A MAPLEWOOD RESOURCE CENTRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on common evidence with the appeals of Wendy Kamstra o/a MaplewoodResource Centre (2004-2933(EI), 2005-997(EI) and 2005-998(CPP)) on October 3, 2005 at Toronto, Ontario
+Before: The Honourable W.E. MacLatchy, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant Herself
+Counsel for the Respondent:
+John Grant
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 18th day of January 2006.
+W.E. MacLatchy
+MacLatchy, D.J.
+Citation: 2006TCC43
+Date: 20060118
+Dockets: 2005-997(EI)
+2005-998(CPP)
+BETWEEN:
+WENDY KAMSTRA O/A MAPLEWOOD RESOURCE CENTRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ANDREA MCMANUS,
+Intervenor,
+AND
+Dockets: 2004-2933(EI)
+2004-2934(CPP)
+BETWEEN:
+WENDY KAMSTRA O/A MAPLEWOOD RESOURCE CENTRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+MacLatchy, D.J.
+[1] These appeals were heard on October 3, 2005 at Toronto, Ontario, on common evidence on consent of the parties.
+[2] The Appellant appealed rulings to the Minister of National Revenue (the "Minister") for the determination of the question of whether or not Andrea McManus and Shirley Peterbaugh, the Workers, were employed in insurable and pensionable employment, while engaged by the Appellant for the periods from August 18, 2003 to May 13, 2004 and from January 31 to October 27, 2003, respectively, within the meaning of the Employment Insurance Act (the "Act) and the Canada Pension Plan (the "Plan") respectively.
+[3] By letters dated February 14, 2005 - in the case of Andrea McManus - and April 15, 2004 - in the case of Shirley Peterbaugh - the Minister informed the Appellant that it had been determined that the Workers' engagement with the Appellant, during the periods in question, was insurable and pensionable employment for the reason that the Workers were employed pursuant to a contract of service.
+[4] The Appellant, Andrea McManus and Janice Langlois, a registered social worker and certified addiction counsellor, testified at the hearing of the within appeals.
+[5] In rendering his decisions, the Minister relied on the following allegations of fact set out in the Replies to the Notices of Appeal:
+Andrea McManus
+a) The Appellant operates an "in-home care service" for her handicapped son, Michael, hereinafter referred to as "Michael", at his private residence;
+b) Michael is 12 years old and suffered severe neurological damage nine years ago in a car accident;
+c) Michael requires 24 hour care, 7 days per week;
+d) Funds are provided to the Appellant, by the insurer State Farm Insurance Co., to provide care to Michael;
+e) The Appellant hires staff to look after Michael's everyday needs;
+f) The Worker was hired by the Appellant to provide help to Michael;
+g) The Worker's duties included dispensing medicine to Michael, helping with speech therapy, participating in daily activities with Michael such as games, going to movies, walking the dog, baseball and scouts, assisting Michael with life skills and personal hygiene, supervising Michael and his friends and daily upkeep and maintenance of Michael's home;
+h) The Worker provided the services at Michael's residence, and at other outside locations depending on Michael's daily activities;
+i) The Worker was paid $15.00 per hour by the Appellant;
+j) The Worker was required to report the hours she worked on a timesheet;
+k) The Worker's rate of pay was determined by the Appellant;
+l) The Worker's hours of work varied and were determined by the Appellant;
+m) The Appellant instructed the Worker daily on what was to be done;
+n) The Worker provided her services exclusively to the Appellant;
+o) If the Worker was not available for a particular shift, the Appellant would find a replacement, or the Appellant or Michael's father would perform the duties themselves;
+p) All of the furnishings and equipment required were provided to the Worker, by the Appellant;
+q) The Appellant paid all the expenses, including day trip expenses for outings;
+r) The Worker was reimbursed by the Appellant, for the use of her personal automobile, at the rate of 33 cents per kilometre;
+s) The Appellant maintained the right to terminate the Worker's services at any time;
+t) The Appellant hired other workers to perform similar services;
+u) For the year 2003, the Appellant issued T4's to other employees of the Appellant.
+Shirley Peterbaugh
+a) the Appellant operates an "in-home care service" for her handicapped son, Michael at his private residence;
+b) the residence is in Michael's name In Trust to Wendy Kamstra (the "Appellant");
+c) Michael suffered severe neurological damage nine years ago in a car accident, he is now 12 years old;
+d) Michael requires care 24 hours a day, 7 days a week;
+e) the vehicle insurer "State Farm Insurance Co." allocated $1M to a medical rehabilitation account for Michael's care;
+f) the insurance company performed regular reassessments of patients and could reduce or cut funding at any time;
+g) as much as $700,000 had already been spent on professional care for Michael;
+h) at that point, the Appellant decided it perhaps would be more beneficial if the insurance company allocated a monthly amount of $14,000 in order for the Appellant to hire and pay direct, a variety of individuals to provide for his home care;
+i) the professional health care workers (doctors such as Speech Therapists, Neuro Psychologists etc.) continued to invoice the insurance company and are paid by the insurance company;
+j) the Worker was hired as "Home Care Assistant" under a verbal agreement;
+k) the Worker is a certified Home Care Assistant;
+l) the Worker was hired to provide what is referred to as A.D.L. (activities of daily living) such as personal care, nursing services, administering medications, home schooling, transportation to appointments and excursions outside Michael's home;
+m) the Worker performed her services at Michael's home;
+n) the Worker worked an average of 32 hours a week, between Monday to Friday and sometimes during the weekend;
+o) the Worker told the Appellant when she is available to work;
+p) the Worker's hours of work were recorded by the Appellant, on a calendar;
+q) the Worker was paid an hourly rate of $15.50, by cheque, on a semi-monthly basis (the 15 and 30 of each month);
+r) the Worker was paid vacation pay until July 15, 2003;
+s) the Worker was required to wear a T-shirt and/or long sleeved shirt with the name "Maplewood Resource Centre" displayed;
+t) the Appellant provided all the equipment required to the Worker;
+u) the Appellant maintained the right to terminate the Worker's services;
+v) the Appellant hired other workers to perform similar duties.
+[6] The Appellant and her son, Michael, were severely injured as a result of an automobile accident leaving the son with serious and permanent brain injury. The Appellant was herself so badly injured that her recollection of events that occurred after the accident were sparse and in most instances non-existent. Her sole occupation is now attending to the care of her son who requires 24-hour care and guidance seven days a week. To relieve herself and the boy's father during this routine, it has been necessary to hire qualified outside persons as caregivers. These outside workers, including the Workers in the within appeals, were effectively paid by State Farm Insurance under the Auto Insurance Agency Accidental Benefits Act. Initially the Appellant used the services of an agency to provide workers as needed but the costs of these agencies were too great and the Appellant was advised by her lawyers and other persons to contract directly with workers to avoid the agency fees and reduce the cost of care for her son. The insurance company involved is restricted to certain amounts for the son's care allowing only so much to be paid to these workers.
+[7] The Workers were trained persons who understood the needs of Michael. The brain stem injury suffered by Michael was of such severity that there are only 5 in Canada that have such extreme needs as Michael. The Appellant, via another caregiver, found out Andrea McManus was looking for a job in this field, looked at her resume, interviewed her and was satisfied that she had the ability to provide the necessary care her son required. The Workers had to administer drugs to the youth, restraining him when he would fly into fits and rages, and give constant guidance on his behaviours and other daily activities, alone and with his friends. The Workers were told the hourly rate of pay was determined by the monies available from the insurance source.
+[8] The ability of the Appellant to recall clearly her dealings with the Workers was diminished because of her own brain damage and emotional distress from the accident. At all times she intended that any workers engaged were to be independent contractors and not her employees. There were no written contracts with any of the workers but the hours worked were entered on a calendar-like time sheet. Evidence provided by Andrea McManus at the hearing of the within appeals, supported the fact that she was to be an independent contractor.
+[9] The tests recommended by the Federal Court of Appeal in the "trilogy" cases are of some assistance.
+[10] The question of control is difficult to determine in these circumstances, especially as the memory and recollection of the Appellant and of Andrea McManus were unclear and often at odds with each other. Directions and suggestions were made by the Appellant for daily activities to attempt to satisfy Michael and to assist the caregivers. However, the caregivers knew what was required daily from them to tend to the needs of the patient such as the necessity to restrain the youth when he would have severe rages and seizures. The Workers knew when and what amount of drugs to administer as required. Their hours of work were set in order to ensure there were capable caregivers with the boy at all times. The patient's needs were the dictating force for the hours of the Workers. Thus the question of control and supervision is of little help to determine the parties' relationship.
+[11] The tools needed by the Workers were those peculiar to the Workers themselves, such as ability to foresee problems arising with the patient, how to handle any situation that occurs and what to expose the patient to when out of the house. The Workers drove their own car to work and no other real tools, as such, were needed. This test is of no value.
+[12] The test of profit and/or loss was on the shoulders of the Workers. The Workers had the ability to work elsewhere for more money, if they so chose. They were able to work for others as well as being caregivers on call for the Appellant. This test is of doubtful value.
+[13] The Integration test is equivocal also. The Workers ran their own time formula and could work when and if they wanted. They realized the need that the Appellant had for her services and tried to keep to a schedule to provide that assistance to the Appellant. The Workers recorded their hours so that the Appellant knew when they had worked and if all the bases were covered to protect the boy at all times. The Workers would invoice the Appellant for the hours worked and were paid accordingly. There were no deductions made from these monies. The Workers were told to be independent contractors when they were engaged.
+[14] All of the above tests were not very persuasive one way or another and the courts have stated that it is the whole of the parties' relationship that must be examined including their intention. In this case, I accept the evidence that the Appellant told the Workers they were to be independent contractors and thus there was a contract for services established between the parties. During her testimony, Andrea McManus acknowledged that she was told she was to be an independent contractor but was unsure what that may mean to her.
+[15] Looking at the whole of the relationship and the actions of both parties this Court finds that there was a contract for services existing between the parties and therefore the appeals are allowed and the decisions of the Minister are vacated accordingly.
+Signed at Toronto, Ontario, this 18th day of January 2006.
+W.E. MacLatchy
+MacLatchy, D.J.
+CITATION:
+2006TCC43
+COURT FILE NOS.:
+2005-997(EI), 2005-998(CPP)
+2004-2934(CPP) and 2004-2933(EI)
+STYLE OF CAUSE:
+Wendy Kamstra o/a Maplewood Resource Centre and M.N.R. and
+Andrea McManus and Wendy Kamstra o/a Maplewood Resource Centre and M.N.R.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 3, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Deputy Judge W.E. MacLatchy
+DATE OF JUDGMENT:
+January 18, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+John Grant
+For the Intervenor:
+The Intervenor herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

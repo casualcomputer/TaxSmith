@@ -1,0 +1,154 @@
+---
+title: "Guan c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29514/index.do"
+last_modified: "2009-11-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 561"
+citation2: ""
+neutral_citation: "2009 CCI 561"
+decision_date: "2009-11-03"
+language: "fr"
+item_id: "29514"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6271
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:24:12.878000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a7d059a8fa516843dc02a51646169e89fb5922221bc98d3ac6ee0df3c9127f11"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Guan c. M.R.N.
+
+- Citation: 2009 CCI 561
+- Decision date: 2009-11-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6271, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guan c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-11-03
+Référence neutre
+2009 CCI 561
+Numéro de dossier
+2008-3884(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-3884(EI)
+ENTRE :
+JINGANG GUAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 29 juillet 2009, à Montréal (Québec).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Laurent Brisebois
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la décision du ministre du Revenu national selon laquelle l’appelant n’exerçait pas un emploi assurable au sens de la Loi sur l’assurance‑emploi pour l’Université du Sussex du 28 février 2006 au 28 février 2007 est rejeté.
+Signé à Ottawa, Canada, ce 3e jour de novembre 2009.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 10e jour de décembre 2009.
+Alya Kaddour-Lord, traductrice
+Référence : 2009 CCI 561
+Date : 20091103
+Dossier : 2008-3884(EI)
+ENTRE :
+JINGANG GUAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L’appelant a interjeté appel de la détermination du ministre du Revenu national (le « ministre ») datée du 8 septembre 2008, selon laquelle l’emploi qu’il a exercé du 28 février 2006 au 28 février 2007 auprès de l’Université du Sussex, située à Brighton, dans le comté d’East Sussex, en Grande-Bretagne, n’était pas un emploi assurable au sens de la Loi sur l'assurance-emploi, L.C. 1996, ch. 23 (la « Loi ») et du Règlement sur l’assurance‑emploi, DORS/96‑332 (le « Règlement »). Pour en arriver à cette détermination, le ministre s’est fondé sur le fait que l’appelant a exercé l’emploi en cause entièrement ou partiellement à l’étranger au service d’un employeur qui ne résidait pas au Canada et n’y avait pas d’établissement.
+[2] Il a été établi que pendant toute la période en cause, soit du 16 septembre 2004 au 28 février 2007, l’appelant était employé par l’Université du Sussex en tant que chercheur et travaillait sous la direction de la professeure Hazel Cox sur un projet de recherche financé par le Engineering and Physical Sciences Research Council (Conseil de recherches en génie et en sciences physiques), lequel projet s’intitulait [traduction] « La solubilité des ions métalliques en phase gazeuse : étude des plus hauts degrés d’oxydation ». Dans une lettre datée du 11 novembre 2008, la professeure Cox a décrit en ces termes la manière dont ce projet de recherche a été mené en collaboration avec l’Université de Calgary, ainsi que le rôle que l’appelant a joué :
+[traduction]
+[...] le travail mené en collaboration avec le groupe du professeur Tom Ziegler, de l’Université de Calgary, au Canada, faisant appel à la théorie de la fonctionnelle de la densité dépendant de la température appliquée à des systèmes à couches ouvertes, a tenu une place prépondérante dans le projet. M. Jingang était chargé des tests relatifs à l’application en étroite collaboration avec le groupe du professeur Ziegler et il a aussi passé trois mois au Canada afin de faciliter le travail. Une publication de recherche commune (R.-U. et Canada) est née de cette collaboration avec l’Université de Calgary. M. Jingang a continué d’utiliser les installations de l’Université de Calgary pendant toute la période où il a travaillé pour l’Université du Sussex, appliquant le code aux complexes à ligands métalliques chargés.
+[3] Dans une lettre datée du 23 janvier 2008, le service des ressources humaines de l’Université du Sussex a confirmé que l’Université avait employé l’appelant du 16 septembre 2004 au 28 février 2007, qu’il travaillait à temps plein au rythme de 37,5 heures par semaine et que son salaire annuel s’élevait à 31 211 livres sterling.
+[4] Pendant qu’il était employé par l’Université du Sussex, l’appelant a conservé son statut de résident au Canada et au Québec et a produit ses déclarations de revenu auprès de l’Agence du revenu du Canada (l’« ARC ») et de Revenu Québec. En 2006, l’appelant n’a payé aucune cotisation d’assurance‑emploi aux autorités fiscales canadiennes. Il a également produit des déclarations de revenu auprès des autorités fiscales du Royaume-Uni et a payé des cotisations d’assurance au Royaume‑Uni, y compris des cotisations d’assurance‑emploi.
+[5] Après que son emploi auprès de l’Université du Sussex a pris fin, l’appelant a fait une demande d’allocation de recherche d’emploi (« jobseeker allowance ») auprès des autorités fiscales du Royaume-Uni, HM Revenue & Customs. Sa demande a été refusée parce que l’allocation de recherche d’emploi ne peut être versée à l’extérieur du Royaume-Uni. Les autorités du Royaume-Uni ont envoyé à l’appelant une copie de l’entente entre le Royaume-Uni et le Canada en matière de sécurité sociale en même temps qu’une lettre datée du 7 décembre 2007, l’informant que l’allocation de recherche d’emploi du Royaume-Uni était couverte par cette entente de réciprocité et l’encourageant à déposer une demande de prestations d’assurance‑emploi au Canada.
+[6] Dans une lettre datée du 14 juillet 2009, l’ARC a demandé à divers employés de l’Université du Sussex de lui confirmer que l’Université avait des bureaux ou un établissement au Canada pour ses étudiants étrangers, ses professeurs ou ses employés. Le 15 juillet 2009, Sara E. Dyer, des Services aux étudiants étrangers, a confirmé par courriel que l’Université du Sussex n’avait ni bureaux ni établissement au Canada.
+Analyse
+[7] L’article 5 de la Loi définit ce qu’est un emploi assurable. Au sens de l’alinéa 5(1)d), est un emploi assurable « un emploi prévu par règlement pris en vertu des paragraphes (4) et (5) ». Le paragraphe 5(4) de la Loi est ainsi rédigé :
+Règlements élargissant la catégorie des emplois assurables – La Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements en vue d’inclure dans les emplois assurables :
+a) l’emploi exercé entièrement ou partiellement à l’étranger et qui serait un emploi assurable s’il était exercé au Canada;
+[…]
+[8] Les règlements en question ont bien été pris, l’article 5 du Règlement étant ainsi rédigé :
+5. L’emploi exercé à l’étranger, autre que celui exercé à bord d’un navire conformément à l’article 4, est inclus dans les emplois assurables s’il satisfait aux exigences suivantes :
+a) il est exercé par une personne qui réside habituellement au Canada;
+b) il est exercé entièrement ou partiellement à l’étranger au service d’un employeur qui réside ou a un établissement au Canada;
+c) il serait un emploi assurable s’il était exercé au Canada;
+d) il n’est pas un emploi assurable selon les lois du pays où il est exercé.
+[9] La version en anglais de la Loi ne définit pas ce qu’on entend par « place of business in Canada » (établissement au Canada), mais une disposition semblable de la version en anglais du Règlement sur le Régime de pensions du Canada, C.R.C., ch. 385, fait référence à un employeur ayant un « establishment in Canada » (établissement au Canada), expression ainsi définie à l’article 15 du Règlement sur le Régime de pensions du Canada :
+« établissement au Canada », à l’égard d’un employeur, signifie tout bureau, entrepôt, fabrique, puits d’huile, puits de gaz, mine, atelier, exploitation agricole, concession forestière, quai, jetée, école, collège, club, résidence, hôtel, motel, restaurant, taverne, bar ou tout autre endroit ou lieu au Canada, possédé ou pris à bail par l’employeur ou pour lequel il a obtenu un permis et où l’employeur ou l’un ou plusieurs de ses employés travaillent ou se présentent au travail ou duquel ou auquel endroit l’un ou plusieurs de ses employés sont payés; (establishment in Canada)
+[10] L’appelant a déposé à l’audience. Son témoignage a révélé qu’il a passé environ trois mois au Canada pendant qu’il était employé par l’Université du Sussex. On ne dispose d’aucune information au sujet de la date exacte à laquelle l’appelant s’est présenté à l’Université de Calgary afin d’y travailler. D’après l’appelant, l’Université de Calgary lui a fourni une carte d’identité, un bureau, un ordinateur ainsi que l’accès à ses laboratoires et à un logiciel mis au point sur place. L’appelant n’a pas fourni d’éléments de preuve au sujet des conditions de la recherche collaborative ayant réuni l’Université du Sussex et l’Université de Calgary ni d’informations appuyant l’idée selon laquelle l’Université du Sussex aurait un établissement à l’Université de Calgary. M. Alain Lacoste de l’ARC a confirmé à l’audience que l’Université du Sussex n’avait pas déposé de formulaires T‑2 auprès des autorités fiscales canadiennes pour les années d’imposition 2006 et 2007.
+[11] Par conséquent, l’appelant n’a pas établi selon la prépondérance des probabilités que l’Université du Sussex avait un établissement au Canada pendant la période où il y a été employé.
+[12] Les Arrangements codifiés en matière de sécurité sociale entre le gouvernement du Royaume-Uni de la Grande-Bretagne et de l’Irlande du Nord et le gouvernement du Canada, qui ont été joints en annexe à la lettre datée du 11 octobre 1994 que le Haut‑Commissariat du Royaume-Uni au Canada a envoyée au ministre de l’Emploi et de l’Immigration, ne peut aider la cause de l’appelant parce que les dispositions afférentes aux prestations de chômage, soit les paragraphes 7 et 8, sous le Titre II, ne sont pas applicables en droit canadien. Ces paragraphes sont ainsi rédigés :
+(7) Aux fins de toute demande de prestation de chômage aux termes de la législation du Royaume-Uni, une personne qui, à tout moment avant le 6 avril 1975 a versé au moins vingt-six cotisations hebdomadaires à titre de travailleur salarié aux termes de la législation du Royaume-Uni ou qui, au cours de toute année depuis le 6 avril 1975, a versé des cotisations à titre d’employé salarié selon les gains d’au moins vingt-cinq fois les gains hebdomadaires minimaux établis pour cette même année, est réputée, aux fins de ladite demande :
+a) avoir versé, aux termes de ladite législation, la cotisation d’un employé salarié selon les gains équivalents aux deux-tiers des gains maximaux établis pour cette même année, pour chaque semaine au cours de laquelle elle avait occupé un emploi salarié au Canada;
+b) avoir vu porter à son crédit, aux termes de ladite législation, à titre de travailleur salarié, une cotisation pour toute semaine au cours de laquelle elle était résidente du Canada et était sans emploi et disponible pour le travail ou était incapable de travailler, si ladite semaine faisait partie d’une période au cours de laquelle elle avait habituellement occupé un emploi salarié au Canada.
+(8) Aucune des dispositions du paragraphe (7) ne doit porter atteinte au droit d’une personne, hors du contexte des présents arrangements, de recevoir une prestation de chômage aux termes de la législation du Royaume-Uni.
+[13] Les dispositions relatives aux prestations de chômage n’ont pas d’effet réciproque au Canada et le sens de la disposition relative à l’assistance mutuelle, soit le paragraphe 17 de l’entente, n’est pas suffisamment large pour conférer à l’appelant le droit de recevoir des prestations d’assurance‑emploi au Canada. La disposition relative à l’assistance mutuelle est ainsi rédigée :
+(17) Les deux Parties se fournissent mutuellement assistance pour toute question ayant trait à l’application des présents arrangements, tout comme si ladite question touchait l'application de leur propre législation.
+[14] En conclusion, l’appelant n’a pas établi selon la prépondérance des probabilités qu’il a travaillé pour un employeur ayant un établissement au Canada. Son emploi auprès de l’Université du Sussex n’était donc pas un emploi assurable. L’appel est par conséquent rejeté.
+Signé à Ottawa, Canada, ce 3e jour de novembre 2009.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 10e jour de décembre 2009.
+Alya Kaddour-Lord, traductrice
+RÉFÉRENCE : 2009 CCI 561
+NO DU DOSSIER DE LA COUR : 2008-3884(EI)
+INTITULÉ : Jingang Guan et Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 29 juillet 2009
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 3 novembre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Laurent Brisebois
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

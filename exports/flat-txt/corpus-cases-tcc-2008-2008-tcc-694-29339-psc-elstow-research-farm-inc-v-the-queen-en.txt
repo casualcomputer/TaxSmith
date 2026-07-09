@@ -1,0 +1,237 @@
+Title: PSC Elstow Research Farm Inc v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29339/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-694-29339-psc-elstow-research-farm-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-12-29
+
+# PSC Elstow Research Farm Inc v. The Queen
+
+- Citation: 2008 TCC 694
+- Decision date: 2008-12-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6895, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+PSC Elstow Research Farm Inc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-29
+Neutral citation
+2008 TCC 694
+File numbers
+2004-986(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-986(IT)G
+BETWEEN:
+PSC ELSTOW RESEARCH FARM INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+PSC Elstow Research Farm Inc. (2004-3531(IT)G),
+on February 25, 26 and 27, 2008, at Saskatoon, Saskatchewan.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Scott D. Waters
+Raymond Wiebe
+Counsel for the Respondent:
+Ernest Wheeler
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed in part and the assessments and determinations are referred back to the Minister for reconsideration and redetermination in accordance with the reasons herein.
+Signed at Ottawa, Canada, this 29th day of December 2008.
+"Patrick Boyle"
+Boyle, J.
+Docket: 2004-3531(IT)G
+BETWEEN:
+PSC ELSTOW RESEARCH FARM INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+PSC Elstow Research Farm Inc. (2004-986(IT)G),
+on February 25, 26 and 27, 2008, at Saskatoon, Saskatchewan.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Scott D. Waters
+Raymond Wiebe
+Counsel for the Respondent:
+Ernest Wheeler
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed in part and the assessments and determinations are referred back to the Minister for reconsideration and redetermination in accordance with the reasons herein.
+Signed at Ottawa, Canada, this 29th day of December 2008.
+"Patrick Boyle"
+Boyle, J.
+Citation: 2008 TCC 694
+Date: 20081229
+Dockets: 2004-986(IT)G,
+2004-3531(IT)G
+BETWEEN:
+PSC ELSTOW RESEARCH FARM INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle, J.
+[1] The Appellant PSC Elstow Research Farm Inc. (“PSC Elstow”) has appealed from loss determinations or reassessments of its 1999, 2000 and 2001 taxation years. The issues for each appeal are essentially the same and generally involve (i) the extent to which PSC Elstow is entitled to a refundable investment tax credit in respect of scientific research and experimental development expenditures; (ii) the application of subsection 127(19) of the Income Tax Act in respect of government assistance for research and development received by PSC Elstow’s controlling shareholder, Prairie Swine Centre Inc. (“PSCI”); and (iii) whether any portion of the government assistance received by PSCI was then received by PSC Elstow from PSCI and should therefore be included in its income under paragraph 12(1)(x) of the Act. It is fair to say that the Crown’s position with respect to each of these issues arises from the fact that PSC Elstow is controlled by a non‑profit corporation, PSCI. Non-profit corporations are not entitled to refundable investment tax credits in respect of scientific research and experimental development.
+I. Facts
+[2] Prairie Swine Centre Inc. is a non-profit corporation established in 1991. Its sole member is the University of Saskatchewan. Prior to the incorporation of PSCI, the Prairie Swine Centre was part of the University of Saskatchewan. PSCI is involved in research and development in support of the commercial pork industry including pork producers and feed growers. PSCI is focused on providing “near market” research services for the benefit of the pork industry and its “stakeholders”. That is, it is involved in the experimental development aspect of research and development (moreso than basic or applied research) in areas that directly relate to and effect a commercial market operation. These are focused on the areas of (i) production efficiencies; (ii) environmental sustainability; and (iii) animal welfare and well-being.
+[3] Three new full-time research scientists were hired when PSCI was set up. A number of PSCI’s employed research scientists are also faculty or lecture at the University.
+[4] At its outset, PSCI conducted its research work primarily at a facility in Floral, Saskatchewan originally built by the University in 1988 for its Prairie Swine Centre. PSCI’s Floral facility has a 250 sow breeding herd and its piglets are bred, born, weaned and then sold when their weight is 25 kilograms. The commercial pig farmer buyers feed and grow them to around 125 kilograms at which weight-range pigs are marketed in the normal course for food. PSCI also has a modest office building at Floral.
+[5] The University’s Prairie Swine Centre had a half-dozen staff. Since being rolled into PSCI, staff has increased to thirty to forty. With this type of growth, PSCI found excessive backlogs were developing for the use of its Floral facility by its scientists and graduate students. In addition, PSCI recognized that because it did not grow its pigs to the 125 kilogram market-range, but sold them shortly after weaning, they were unable to undertake potentially valuable research for pigs during their growth from 25 kilograms to 125 kilograms even though it was within their mandate to undertake research at the near-market level. Also, in the period since construction of the Floral facility, the typical commercial pig farm had increased significantly in size from a 300 swine herd to a 600 swine herd. Since it aims to provide near-market research results able to be used by producers for the benefit of the industry and its stakeholders, it is important that much of the research be done in conditions that are, as much as possible given the research, similar to a typical commercial pig farm. For all of these reasons, by 1987 PSCI’s business and strategic plans aimed to expand its facilities.
+[6] In 1997 or 1998 the Saskatchewan government announced the creation of an agri-food innovation fund, the main purpose of which was to make money available for research and infrastructure in the agri-food sector. PSCI successfully applied for a three million dollar capital grant for a new facility. In addition, it received a $300,000 per year grant for three years for its research activities.
+[7] PSCI decided it would be appropriate to construct its new facility in a separately incorporated entity in order to have a separate entity that commercial operators could better relate to as well as to protect its assets from the risks associated with new construction. Financial structuring and tax advice was sought from PSCI’s accountants and, it appears that following that, it was decided the new entity would be an ordinary taxable business corporation.
+[8] To that end, PSCI incorporated the Appellant PSC Elstow and at the outset was its sole shareholder. PSCI loaned its three million dollar grant to PSC Elstow to be used towards the construction of the new research farm facility at Elstow, Saskatchewan. PSC Elstow also obtained a construction mortgage of approximately 2.4 million dollars from a major Canadian bank. During the pre-construction period, PSC Elstow raised money by issuing shares to Agricoll Research Institute, another non-profit corporation whose sole and controlling member was the University of Saskatchewan. Since then, Agricoll has held 15% of PSC Elstow’s shares and PSCI has been an 85% controlling shareholder. Separately, PSC Elstow put in place an operating line of credit to fund its operating activities.
+[9] The years in question included the year of construction of the Elstow facility as well as the period it took to be fully populated with a herd, through to when it began being able to conduct its research.
+A. The Elstow Facility
+[10] The size and design of the PSCI facility at Floral was suitable to large amounts of data being collected in respect of a small group of pigs. That made Floral more suited to basic research. Elstow was therefore designed to conduct studies of a larger number of animals in order to be more near market commercial conditions.
+[11] The facility was designed and constructed for the express purpose of being suitable at which to conduct the desired research. It is therefore in several key respects quite different from a comparable structure that would be on an ordinary commercial pig farm operator’s farm. On the ground, this includes construction to maintain separate and apart, track, and mechanically collect the manure from the different groupings of pigs. It also includes multiple different flooring areas so that different floorings can be compared at the same time and changed from experiment to experiment. Also, the housing of the pigs combines both group stalls and individual housing in order to be able to study the effects on pigs in each of the two approaches taken by the industry. Commercial operators would only use one or the other throughout a facility. The barn was also designed to accommodate multiple different feeding systems so that feeding systems can be studied as a variable. At the ceiling and roof stage of the facility, there were also key differences. Multiple separate lighting groupings were used and configured so that different lighting could be assessed as variables in different experiments and studies. The design for the roof had to be made notably higher than a normal commercial operation would have in order to accommodate some of these changes and to provide room for observation. This in turn necessitated something unique be done with the rafter design to accommodate the change. The building was also configured into multiple separately ventilated areas in order to test the effects of different ventilation systems. The building had to accommodate many more large hog scales as compared with those needed for a commercial operator. The bio-security systems put in place in the research facility as compared with those needed in a commercial pig barn were also significantly increased.
+[12] In addition to impact on the layout and construction of the facility, the research-driven objectives of PSC Elstow, PSCI and others using the facility, necessarily affected the day-to-day management of the facility from an operating point of view as well. PSC Elstow would not be able to do anything from a hog production perspective that would jeopardize the research. In contrast, it would need to do things from a research perspective that would jeopardize the commercial production. Indeed, these are some of the compelling reasons why PSCI could not simply have arranged with a commercial operator to allow it to conduct research while the operator took care of its hog production. With these limitations one could imagine how a commercial operator upon observing the Elstow facility’s operations for a period of time might wonder if it was the proverbial camel created by a horse design committee.
+[13] In short, the research to be done could not be done without a fully operational commercial size herd being born and grown to market size in the same manner a commercial operator would do. No commercial operator had a facility designed to permit or facilitate the type of research to be done and, in any event, it would be reasonable to conclude no commercial operator would expose its facilities to such interference and risk in order to supplement its income with payments from researchers. Commercial operators are worried about the batch of pigs from birth to market. Researchers need to identify individual pigs and measure individual pigs’ well-being, individual pigs’ statistics, individual pigs’ inputs and outputs. While commercial operators obviously monitor the well-being of their pigs, they do not study them. Researchers need animals of known health status and genetics and the like. Commercial operators do not keep track of that level of information.
+[14] Scientific experiments generally involve studying changes to one or a few variables while all other variables remain known and unchanged. This cannot be done with random pigs. Research on near market level sized pigs cannot be done by bringing in commercial pigs, conducting the research, and then liquidating the pigs into the market. Specific detailed histories of the pigs, going back before their conception, need to be known.
+[15] Prior to the construction of the PSC Elstow facility there were some research projects to be done on a mature herd that could be accommodated at a commercial producer’s farm. In PSCI’s experience the costs of doing that were horrendously prohibitive. The biggest contributor to that was the requirement that the comings and goings of barn personnel for the normal operations had to be severely restricted. In addition, significant changes of no lasting benefit to the commercial operator’s facility had to be done to install and change particular feeding or ventilation systems. Probably most frustrating to the researchers was the loss of data accumulated or the opportunity to accumulate data, when the commercial operator’s commercial exigencies trumped the researchers’ objectives.
+[16] Commercial operators, like all business people, avoid risk. Allowing scientists and technicians in to do research and development creates change, uncertainty and disruptions that are not needed for the commercial business and which commercial operators would therefore seek to avoid. Pigs, like most animals, do not react positively to stress. From a commercial operator’s point of view unnecessary change equals unnecessary stress on the herd.
+[17] I do not need to describe the types of research projects undertaken. There is ample description in the evidence and exhibits of the research projects themselves. The research was performed pursuant to a Research Service Agreement between PSCI and PSC Elstow. There is also ample description in the evidence and exhibits of the written reporting and financial accounting to the research funders who were frequently multiple government agencies with detailed accounting requirements.
+B. PSC Elstow’s Staff
+[18] Dr. John Patience is the President and Chief Executive Officer of PSC Elstow. He has been since its inception. He is also the Director of PSCI. Dr. Patience is on the board of directors of PSC Elstow. In addition, there are two directors who are or represent commercial pork producers and another who is a nominee or representative of Agricoll and is also on the board of Agricoll.
+[19] PSC Elstow does not have its own management staff but has entered into a management services contract with PSCI.
+[20] PSC Elstow has its own staff, known as barn staff, to keep the Elstow facility running and to provide technical support to researchers using the Elstow facility.
+[21] There are also differences at the barn staff level between commercial barns and the research facility. Commercial operators have their staff specialized in a particular part of a barn. In contrast, in the research facility staff are expected to be aware of all of the barn’s operating areas, be able to work throughout, and be able to assist the research workers in their tasks.
+[22] In addition to the barn manager and four barn staff, for part of the period in question PSC Elstow had a Research Coordinator. PSC Elstow did not have any scientists or researchers on staff. It was able to contribute the availability of its facility to research projects that it undertook with PSCI or that it performed for others on a contract basis at PSC Elstow. In addition, PSC Elstow could make some of its barn staff time available to assist researchers with the additional measuring and weighing of pigs, monitoring their habits, monitoring or making changes to lighting or ventilation, collecting identified manure and the like. In the years in question, it was estimated that barn staff would devote 10% of their time to assisting researchers on research projects.
+C. Government Funding
+[23] In this appeal the relevant aspects of the funding of the PSC Elstow facility and its operations are the amount of government funding received by PSCI.
+[24] Firstly, PSCI received a government grant of approximately 3 million dollars the proceeds of which it loaned to PSC Elstow to be used towards the cost of building the facility. The 3 million dollars was approximately half of the cost of the project and most of the balance was arranged through mortgage financing.
+[25] Secondly, PSCI received from the agri-food innovation fund $900,000 over three years for PSCI to conduct research at the new facility. Some of it was spent by PSCI to conduct research which it conducted at the Elstow facility. A number of the projects funded with the grant were done by PSCI independently of PSC Elstow and not at PSC Elstow’s premises. There were clearly very accurate accounting and allocation of expenses amongst projects by PSCI given the accountability imperatives of its funding organizations. Similarly, where a research project was funded by more than one entity, each funding organization required separate reporting of how its funds were spent on the approved research project.
+[26] There is no dispute between the parties about the tax treatment of the facility for purposes of the SR&ED provision in the Act since the building was a capital asset funded with 3 million dollars of government assistance. The issue of refundable investment tax credits and the paragraph 12(1)(x) issue in this appeal are in respect of the $900,000 three-year government grant.
+D. Financial Accounting
+[27] The audited financial statements of PSC Elstow include revenues from research revenue. It is not broken out as between payments from PSCI and payments from third parties. The amounts received from the sale of pigs are not recorded by the auditor as revenues but are netted against expenses as a reduction of expenses. The correctness of this from a generally accepted accounting principles point of view or from an ordinary business and commercial practice point of view was not challenged. I accept that this is in accordance with both GAAP and ordinary business and commercial practice.
+E. CRA’s Assessing Position
+[28] The CRA Appeals Officer also testified. He accepted the advice of CRA’s science advisors that the projects conducted at the Elstow facility constituted scientific research and experimental development. He similarly accepted the advice of the CRA financial reviewer that the expenses identified and claimed did relate to these SR&ED projects. His concern with PSC Elstow’s claim had been that PSC Elstow’s SR&ED expenses had to be incurred on SR&ED related to its business and he believed the concept of being in the business of providing research and development, a so-called sole purpose R&D performer, no longer existed, though it did at one time prior to certain amendments to the legislation.
+[29] While CRA allowed 10% of PSC Elstow’s costs as SR&ED related to its business, CRA did not accept that Elstow was a sole purpose research corporation and therefore looked for SR&ED expenses on particular research projects related to Elstow’s pork business.
+II. Findings
+[30] I find that this is not a situation where the entities set out to run a commercial pig operation at which they could also do their research. This is not even a case of the entities deciding to do research and to build a commercial pig operation to help defray the research costs. I am satisfied that, having set out to do the research, a specialized facility that, like a commercial operator, used a herd that went through the entire cycle of farrow to finish to market was a scientific and technical necessity. The facility had to be built and operated in order to do the research and the expenses for that had to be incurred in order to do the research. Those research costs were of course in part offset or reduced by the fact that once full grown the pigs could be sold to market for cash as any other pigs. The Elstow facility is in essence a living workbench or laboratory necessary for the research to be undertaken.
+[31] I am also satisfied that the only business of PSC Elstow was the research business. It was not also running a commercial pig farm as another business. Its pork production activities could clearly not be described as being run in a business‑like manner. Potential revenues from the sale of pigs were sacrificed for scientific result, not vice versa.
+[32] I also find that the research projects undertaken at the Elstow facility, other than any third party contract research, was done by PSCI and PSC Elstow on a joint venture basis. This is consistent with CRA having always accepted that 10% of PSC Elstow’s otherwise qualified SR&ED expenditures were incurred by it and related to its own business. Seemingly CRA viewed PSC Elstow as having two businesses: commercial pork production its primary 90% business and pork-related research as to 10%. This is important because it means the Respondent also accepted that the arrangements in place between PSCI and PSC Elstow to complete particular research projects were done by the two of them in some form of joint venture. Importantly, this means that the research arrangements had PSC Elstow performing research activities, not merely making research premises available to others. In this joint venture research arrangement PSCI largely contributed the scientific personnel and equipment and other direct costs of the research projects. PSC Elstow largely provided the availability and use of the facility and the assistance of its barn staff.
+[33] I find that PSC Elstow did not deal at arm’s length with PSCI for purposes of the Act since PSCI controlled the majority voting shares of PSC Elstow.
+[34] Lastly, as already stated, I accept that netting pork sales receipts against operating expenses, as was done on PSC Elstow’s audited financial statements, was in accordance with GAAP and with ordinary business and commercial practice. What flows from this is a finding that PSC Elstow’s revenues, such as they are, were all derived from its research activities. Its receipts for the pigs sold are no different in this respect from the sale for a more traditional researcher of unused, transformed or leftover research inputs once no longer needed for experimentation.
+III. Issues
+[35] There are three issues in these appeals.
+[36] The first is whether PSC Elstow is solely in the business of providing research such that all of its expenditures necessarily relate to SR&ED, or is it doing some research in relation to its commercial pork business which requires that expenses be able to be tracked and identified to particular research projects and not include the cost of operating the pork business.
+[37] The second issue is whether PSC Elstow’s SR&ED expenses or refundable investment tax credit entitlement is reduced by all or part of the $900,000 government grant received by PSCI by virtue of subsection 127(19).
+[38] The third issue is whether paragraph 12(1)(x) includes any residual amount of the $900,000 PSCI government grant that is not accounted for under subsection 127(19) into the income of PSC Elstow.
+IV. Law and Analysis
+A. SR&ED Investment Tax Credits
+[39] Scientific research and experimental development is defined in subsection 248(1) of the Act. The Minister does not take the position that the Appellant is not involved in the pursuit of SR&ED. That is expressly accepted.
+[40] The quantum of PSC Elstow’s expenses is also not in dispute.
+[41] The dispute focuses on whether those expenses were “qualified expenditures” as defined in subsection 127(9) for investment tax credit purposes. Such a qualified expenditure includes an expenditure incurred by the taxpayer in respect of SR&ED that is an expenditure described in paragraph 37(1)(a). Prescribed expenditures are also excluded from the definition of qualified expenditures.
+[42] Paragraph 37(1)(a) generally describes current as opposed to capital SR&ED expenditures. In order to satisfy paragraph 37(1)(a) a taxpayer must carry on a business and, to satisfy subparagraph (1), be an expenditure of a current nature on SR&ED undertaken by the taxpayer and related to its business.
+[43] For this purpose paragraph 37(8)(c) provides that the prosecution of SR&ED will not be considered a business to which SR&ED relates, except in the case of a taxpayer who derives all or substantially all of its revenue from the prosecution of SR&ED.
+[44] Subclauses 37(8)(a)(ii)(A)(I) and (II) provide that the expenditures must also be expenditures attributable to the prosecution of SR&ED or to the provision of premises, facilities or equipment for the prosecution of SR&ED. Regulation 2900(2)(c) provides that directly attributable expenditures include directly related expenditures that would not have been incurred if the SR&ED prosecution had not occurred. Regulation 2900(3)(b) provides that directly attributable expenditures for premises, facilities and equipment include maintenance and upkeep costs therefore as well as other expenditures that would not have been incurred if the premises, facilities or equipment had not existed.
+[45] On the facts of this case PSC Elstow’s expenditures satisfy the requirement that they be described in paragraph 37(8)(a) and they are not excluded by virtue of paragraph 37(8)(c).
+[46] Prescribed expenditures excluded from definition of qualified expenditures for investment tax credit purposes are set out in Regulation 2902. Regulation 2902(a)(ii) excludes current expenditures in respect of the maintenance and upkeep of premises, facilities and equipment but only to the extent that such expenditure is not attributable to the prosecution of SR&ED. On the facts of this case, the closing language of Regulation 2902(a)(ii) applies such that PSC Elstow’s expenditures are not prescribed expenditures.
+[47] For what it is worth, as set out above, CRA was of the view that the concept of sole purpose R&D performers was removed from the Act for SR&ED purposes. That is clearly not the case. See for example paragraph 37(8)(c) as well as the closing language of Regulation 2901(a). It appears CRA was reading far too much into the deletion of similar language from the closing of Regulation 2902(a).
+[48] Even if the proceeds from the sale of the pigs once no longer needed for research purposes is regarded as revenue, and not simply a reduction of expenses, PSC Elstow would continue to be earning all of its revenues from the prosecution of its SR&ED. The proceeds of sale of a by-product or transformed input of research would still be derived from the research activities. This is all the moreso since PSC Elstow does not have a commercial pork business or any other business but its SR&ED prosecution. I very much doubt this issue would be before the Court if these were not pigs but were white mice, rats or rabbits for which there is no appreciable market.
+[49] I remain unclear on who actually owned the rights to the results of the research or in what proportions. However, for purposes of the particular SR&ED provisions applicable to this issue the SR&ED performer is not expressly required to own the rights to the research. There is such a requirement applicable to certain other of the SR&ED provisions of the Act.
+B. Subsection 127(19)
+[50] The taxpayer argues that subsection 127(19) can not apply to PSC Elstow in respect of grants received by PSCI and not by it. The Crown maintains that subsection 127(19) applies to PSC Elstow in respect of the full amount received by PSCI.
+[51] Subsection 127(19) provides as follows:
+(19) Where on or before the filing-due date for a taxation year of a person or partnership (referred to in this subsection as the “recipient”) the recipient has received, is entitled to receive or can reasonably be expected to receive a particular amount that is government assistance, non-government assistance or a contract payment that can reasonably be considered to be in respect of scientific research and experimental development and the particular amount exceeds the total of
+. . .
+(c) the total of all amounts each of which would, but for the application of this subsection to the particular amount, be a qualified expenditure
+(i) that was incurred by a person or partnership in a taxation year of the person or partnership that ended in the recipient’s taxation year, and
+(ii) that can reasonably be considered to be in respect of the scientific research and experimental development to the extent that it was performed by the person or partnership at a time when the person or partnership was not dealing at arm’s length with the recipient,
+the particular amount shall be applied to reduce each qualified expenditure otherwise determined that is referred to in paragraph 127(19)(c).
+(19) Dans le cas où une personne ou une société de personnes (appelées « bénéficiaire » au présent paragraphe) reçoit, est en droit de recevoir ou peut vraisemblablement s’attendre à recevoir, au plus tard à la date d’échéance de production qui lui est applicable pour son année d’imposition, un montant donné qui représente une aide gouvernementale, une aide non gouvernementale ou un paiement contractuel qu’il est raisonnable de considérer comme se rapportant à des activités de recherche scientifique et de développement expérimental, le montant donné est appliqué en réduction de chaque dépense admissible, déterminée par ailleurs, qui est visée à l’alinéa c) s’il dépasse le total des montants suivants :
+[…]
+c) le total des montants dont chacun représenterait, n’eût été l’application du présent paragraphe au montant donné, une dépense admissible qui répond aux conditions suivantes :
+(i) elle a été engagée par une personne ou une société de personnes au cours de son année d’imposition qui s’est terminée dans l’année d’imposition du bénéficiaire,
+(ii) il est raisonnable de considérer qu’elle se rapporte aux activités de recherche scientifique et de développement expérimental, dans la mesure où celles-ci ont été exercées par la personne ou la société de personnes à un moment où elle avait un lien de dépendance avec le bénéficiaire.
+[Emphasis added.]
+[52] It is clear from the opening and closing phrases of subsection 127(19) (and from the opening phrase of the French version) that the Crown is correct that, in certain circumstances, the qualified expenditures on SR&ED performed by one person, PSC Elstow, can be reduced by the amount of government assistance received by another person, PSCI. This is clear from both the French and English versions of the subsection although each requires careful, slow and multiple readings. This is because the qualified expenditures to be reduced are specifically said to be those described in paragraph (c) of the subsection, those of the person other than the recipient.
+[53] This reduction can only apply if the two persons do not deal at arm’s length with each other. PSCI and PSC Elstow do not deal with each other at arm’s length since PSCI holds the majority of the shares of PSC Elstow.
+[54] I am satisfied that the $900,000 of government assistance received by PSCI can reasonably be considered to have been received in respect of SR&ED. The government funding initiative was for research and development and the government’s funding commitment to PSCI was for a particular research program.
+[55] However, paragraph (c) also requires that it be reasonable to consider the qualified expenditures of PSC Elstow on its SR&ED which are subject to reduction be in respect of “the” SR&ED in respect of which the government assistance was received by PSCI. In this case, the evidence is clear that twelve of the sixteen research projects funded by PSCI with the grants received had nothing to do with PSC Elstow or the Elstow facility. The amount of PSCI’s $900,000 of government assistance that funded those twelve projects does not meet the requirements of paragraph 127(19)(c) and therefore will not reduce PSC Elstow’s qualified expenditures. Subsection 127(19) will only apply to grind PSC Elstow’s qualified expenditures in respect of the other four research projects.
+C. Paragraph 12(1)(x)
+[56] In the assessment and loss determinations at issue, CRA took the position that, to the extent the $900,000 of government assistance exceeded the subsection 127(19) reduction of PSC Elstow’s qualified expenditures, such excess was included in PSC Elstow’s income under paragraph 12(1)(x).
+[57] Paragraph 12(1)(x) provides:
+12.(1) Income inclusions — There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable:
+. . .
+(x) Inducement, reimbursement, etc. — any particular amount (other than a prescribed amount) received by the taxpayer in the year, in the course of earning income from a business or property, from
+(i) a person or partnership (in this paragraph referred to as the “payer”) who pays the particular amount
+(A) in the course of earning income from a business or property,
+(B) in order to achieve a benefit or advantage for the payer or for persons with whom the payer does not deal at arm’s length, or
+(C) in circumstances where it is reasonable to conclude that the payer would not have paid the amount but for the receipt by the payer of amounts from a payer, government, municipality or public authority described in this subparagraph or in subparagraph (ii), or
+(ii) a government, municipality or other public authority,
+where the particular amount can reasonably be considered to have been received
+(iii) as an inducement, whether as a grant, subsidy, forgivable loan, deduction from tax, allowance or any other form of inducement, or
+(iv) as a refund, reimbursement, contribution or allowance or as assistance, whether as a grant, subsidy, forgivable loan, deduction from tax, allowance or any other form of assistance, in respect of
+(A) an amount included in, or deducted as, the cost of property, or
+(B) an outlay or expense,
+to the extent that the particular amount
+(v) was not otherwise included in computing the taxpayer’s income, or deducted in computing, for the purposes of this Act, any balance of undeducted outlays, expenses or other amounts, for the year or a preceding taxation year,
+(vi) except as provided by subsection 127(11.1), 127(11.5) or 127(11.6), does not reduce, for the purpose of an assessment made or that may be made under this Act, the cost or capital cost of the property or the amount of the outlay or expense, as the case may be,
+. . .
+article 12 : Somme à inclure dans le revenu.
+(1) Sont à inclure dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien, au cours d’une année d’imposition, celles des sommes suivantes qui sont applicables :
+[…]
+x) Paiements incitatifs et autres — un montant (à l’exclusion d’un montant prescrit) reçu par le contribuable au cours de l’année pendant qu’il tirait un revenu d’une entreprise ou d’un bien :
+(i) soit d’une personne ou d’une société de personnes (appelée « débiteur » au présent alinéa) qui paie le montant, selon le cas :
+(A) en vue de tirer un revenu d’une entreprise ou d’un bien,
+(B) en vue d’obtenir un avantage pour elle‑même ou pour des personnes avec qui elle a un lien de dépendance,
+(C) dans des circonstances où il est raisonnable de conclure qu’elle n’aurait pas payé le montant si elle n’avait pas reçu des montants d’un débiteur, d’un gouvernement, d’une municipalité ou d’une autre administration visés au présent sous‑alinéa ou au sous‑alinéa (ii),
+(ii) soit d’un gouvernement, d’une municipalité ou d’une autre administration,
+s’il est raisonnable de considérer le montant comme reçu :
+(iii) soit à titre de paiement incitatif, sous forme de prime, de subvention, de prêt à remboursement conditionnel, de déduction de l’impôt ou d’indemnité, ou sous toute autre forme,
+(iv) soit à titre de remboursement, de contribution ou d’indemnité ou à titre d’aide, sous forme de prime, de subvention, de prêt à remboursement conditionnel, de déduction de l’impôt ou d’indemnité, ou sous toute autre forme, à l’égard, selon le cas :
+(A) d’une somme incluse dans le coût d’un bien ou déduite au titre de ce coût,
+(B) d’une dépense engagée ou effectuée,
+dans la mesure où le montant, selon le cas :
+(v) n’a pas déjà été inclus dans le calcul du revenu du contribuable ou déduit dans le calcul, pour l’application de la présente loi, d’un solde de dépenses ou autres montants non déduits, pour l’année ou pour une année d’imposition antérieure,
+(vi) sous réserve des paragraphes 127(11.1), (11.5) ou (11.6), ne réduit pas, pour l’application d’une cotisation établie en vertu de la présente loi, ou pouvant l’être, le coût ou le coût en capital du bien ou le montant de la dépense,
+[…]
+[58] It is clear from paragraph 12(1)(x) that an amount cannot be included in a taxpayer’s income unless it was actually received by the taxpayer. Clause 12(1)(x)(i)(C) can extend to amounts received by a taxpayer from a person other than the government that are sourced with government assistance received by the other person. PSCI’s government assistance cannot increase PSC Elstow’s income to the extent PSCI spent it on PSCI projects unrelated to PSC Elstow or PSC Elstow’s facility.
+[59] To the extent PSCI’s $900,000 of government assistance related to PSC Elstow research projects and thus reduced PSC Elstow’s qualified expenditures as a result of the application of subsection 127(19), the amounts cannot also be included in PSC Elstow’s income under paragraph 12(1)(x) by virtue of subparagraph 12(1)(x)(v).
+On the facts of this case paragraph 12(1)(x) can therefore have no application.
+[60] The appeals will be allowed in part and the assessments and determinations will be referred back to the Minister for reconsideration and reassessment in accordance with these reasons. In the circumstances there will be no award of costs.
+Signed at Ottawa, Canada, this 29th day of December 2008.
+"Patrick Boyle"
+Boyle, J.
+CITATION: 2008 TCC 694
+COURT FILE NOS.: 2004-986(IT)G, 2004-3531(IT)G
+STYLE OF CAUSE: PSC ELSTOW RESEARCH FARM INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Saskatoon, Saskatchewan
+DATE OF HEARING: February 25, 26 and 27, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: December 29, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Scott D. Waters
+Raymond Wiebe
+Counsel for the Respondent:
+Ernest Wheeler
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Scott D. Waters
+Raymond Wiebe
+Firm: McDougall Gauley LLP
+Saskatoon, Saskatchewan
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,165 @@
+---
+title: "Glueckler Metal Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26908/index.do"
+last_modified: "2003-04-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 256"
+citation2: ""
+neutral_citation: "2003 TCC 256"
+decision_date: "2003-04-17"
+language: "en"
+item_id: "26908"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 747
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:15:56.916000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "125c5b47b59affff143624bf1eda7f432dda7291d667c4a2c68d8d867eecbf85"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Glueckler Metal Inc. v. The Queen
+
+- Citation: 2003 TCC 256
+- Decision date: 2003-04-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 747, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glueckler Metal Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-17
+Neutral citation
+2003 TCC 256
+File numbers
+2000-1129(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-1129(IT)G
+BETWEEN:
+GLUECKLER METAL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 7, 2002, at Toronto, Ontario,
+By: The Honourable Judge C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+James B. Love, Q.C.
+Counsel for the Respondent:
+Sointula Kirkpatrick
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 1994 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in computing business income, the Appellant is entitled to deduct the amount of $502,738.
+Signed at Ottawa, Canada, this 17th day of April, 2003
+"C.H. McArthur"
+J.T.C.C.
+Citation: 2003TCC256
+Date: 20030417
+Docket: 2000-1129(IT)G
+BETWEEN:
+GLUECKLER METAL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] Glueckler Metal Inc. is a Canadian-controlled private corporation and carries on the business of manufacturing and processing metal products for the building construction industry. The majority of the outstanding shares of the Appellant was held by Bailey-Hunt Limited, a corporation related to Bailey Metal Products Limited (both referred to as "Bailey"). Mr. Glueckler held 27% of the shares. In 1994, the Appellant deducted from its business income the amount of $502,738, claiming that it was a business expense paid for financial and administrative services provided to it by Bailey. The Minister of National Revenue disallowed the deduction.
+[2] Of the $502,738, the amount of $294,738 was for interest on loans owing by the Appellant to Bailey for the period from November 30, 1989 to November 30, 1994. The balance of $208,000 was for fees for administrative services rendered by Bailey to the Appellant over the same period. Prior arrangements for payment were inconsistent and inadequate. At the insistence of its banker, the Appellant and Bailey sought a financial review in 1994. BDO Dunwoody, chartered accountants, performed an audit, reviewed past procedures and recommended changes which resulted in an agreement between the Appellant and Bailey in November 1994 whereby the Appellant by way of a one-time adjustment would pay for outstanding interest and administrative services.
+[3] At a meeting in November 1994, Mr. Glueckler represented the Appellant and Mr. Hunt represented Bailey. It would appear that both Bailey and the Appellant were having financial problems and an agreement was entered into as a result of their Bank's intervention. The agreement entered into in November 1994 was at the recommendation of Christopher Barltrop, a chartered account with BDO Dunwoody.[1]
+[4] The only witnesses for the Appellant were Mr. Barltrop and Ms. Susan Schalburg, a financial officer for the Appellant. In answer to the question as to why the two principals of the agreement, Mr. Hunt and Mr. Glueckler did not give evidence, counsel for the Appellant explained that it was intentional. The two witnesses, who had also attended the November 1994 meeting established that Mr. Hunt, on behalf of Bailey, and Mr. Glueckler, on behalf of the Appellant, agreed that the amounts be paid and recorded in the respective corporate books. The November 1994 agreement is evidenced by debit and credit entries in the records of the Appellant and Bailey.
+Appellant's Position
+[5] The determination of the deductibility is a question of law and "it is important for the Courts to avoid delegating the legal test of profit to the accounting profession".[2] The fact that it was a voluntary payment does not preclude it from being deductible. The Appellant's position is best stated by President Jackett of the Exchequer Court in Olympia Floor & Wall Tile (Quebec) Ltd. v. M.N.R.,[3] where he stated at page 6087:
+... The fact that the business man makes a bona fide decision to make disbursements for business reasons raises a presumption in my mind that it was "reasonable" to make such disbursements unless facts are proved that establish that it was not "reasonable".
+The payment represented a compilation of expenses that were incurred in respect of business operations in the 1989 to 1993 taxation years and, therefore, under normal circumstances, would have been charged in those respective years. There was no deductible expense until there was an obligation to pay which arose with the agreement to pay in November 1994. The Appellant was under no obligation to pay, nor was Bailey legally entitled to receive the payment until the 1994 agreement.
+[6] The Appellant makes three submissions: (i) that the question in this appeal is largely a question of law; (ii) that the nature of the payment, being a voluntary one, does not preclude it from being deductible; and (iii) as a matter of law, this transaction should only be taken, at the earliest, when it occurred in November 1994. This is when an obligation to pay arose, the amount was quantified and paid.
+Respondent's Position
+[7] The Respondent also presented three basic submissions: (i) that claiming the $502,738 deduction in the 1994 taxation year does not reflect an accurate picture of the Appellant's 1994 financial year; (ii) that if it is found to be an expense in 1994, it is not a reasonable expense under section 67 of the Income Tax Act since the parties are non-arm's length and $502,738 changed hands for services already rendered and previously paid for; and (iii) the payment is an outlay on account of capital and is not deductible pursuant to paragraph 18(1)(b) of the Act.
+[8] The Respondent added that the claimed interest expense was capital in nature and not deductible pursuant to paragraph 18(1)(b) of the Act and not deductible under paragraph 20(1)(c) of the Act because it was not interest paid or payable in 1994. The Respondent adds that the payments claimed on account of administrative services are not deductible pursuant to section 9 and paragraphs 18(1)(a) and (b) of the Act. The payment was for goodwill and not a non-capital expense.
+Analysis
+[9] As stated by the Respondent's counsel, to be deductible the payment has to meet the requirements of the Act. These requirements include paragraph 18(1)(a) which reads as follows:
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+The Appellant must establish that the payment was made "for the purpose of gaining or producing income". The payment represents a compilation of the expenses that should have been charged in the 1989 to 1993 taxation years. The Appellant has the onus of establishing that there was an income purpose for the payment.
+[10] The two Appellant witnesses were the individuals who made the recommendation to pay and implement the entries. As stated, Mr. Glueckler and Mr. Hunt did not testify. What we do have is uncontradicted evidence from two credible witnesses who were most familiar with the books, records and financial status of the Appellant and Bailey. I find as a fact that there was an arrangement between the Appellant and Bailey from 1989 to 1994 wherein Bailey provided services and loaned funds to the Appellant for which Bailey was inadequately compensated. On some occasions, the Appellant paid for the services and paid interest on the loans, but more often, it did not. I find there was an oral agreement between the Appellant and Bailey wherein they accepted the amount of $502,738 as owing by the Appellant to Bailey for past services and interest and that the Appellant agreed to pay, and did in fact pay Bailey that amount in 1994. The income earning purpose was to establish a consistent charging system for the taxation years after 1993. Further, Bailey in fact rendered services and loaned money to the Appellant which were necessary for the successful operation of the Appellant's business. The parties accepted the methodology proposed by the independent accounting firm of BDO Dunwoody. The parties further accepted the recommendation to make an adjustment payment in order that the years 1989 to and including 1993 be subject to the same method as future years. The agreement was reached in November 1994.
+[11] There is no question that there were expenses incurred by the Appellant and owing to Bailey for services and interest during the years 1989 to 1993, inclusive. For lack of a more accurate amount, I accept that $502,738 is appropriate. It was calculated by BDO Dunwoody and agreed to by the corporate principals. No other figure was presented by the Minister. An agreement to pay for these services using the accounting methodology was not arrived at until 1994. This is when the amount for past services and interest became payable and was in fact paid. The actual deal makers, Mr. Hunt and Mr. Glueckler, did not testify. Although their evidence would have been preferable, the Appellant has met its onus and I find there was an income earning purpose for the expenditure.
+[12] I accept that the question of whether the Appellant is entitled to deduct the payment is one of law.[4] Specifically, the question is "which accounting treatment provides the most accurate picture of the Appellant's 1994 financial position"? The Appellant attempted to deduct the full amount in the 1994 taxation year and it was taken into income by Bailey in 1994. Both counsel relied on Canderel and presented that it provides the applicable test with respect to the accounting treatment of the payment.
+[13] In computing its income for 1996, Canderel, a real estate developer, deducted all of the tenant inducement payments made by it during that year. The Supreme Court of Canada stated that the determination of profit is a question of law. The Court must determine the most accurate picture of the taxpayer's profit in the year. The taxpayer has the onus of establishing that his method presents an accurate picture of yearly income which is not in contravention of the Act, the law and of well-accepted business principles. Then the onus shifts to the Minister to show that the taxpayer's position does not present an accurate picture. Writing for the majority, Iacobucci J. stated at page 6108:
+The interpretive goal: an accurate picture of income
+Having established an appropriate framework for analysis, I should now like to discuss what exactly is the question that must be answered when attempting to assess a taxpayer's profit for tax purposes. A good place to begin is with the decision of the Federal Court of Appeal in West Kootenay, supra, where MacGuigan, J.A. stated at p. 6028:
+The approved principle is that whichever method presents the "truer picture" of a taxpayer's revenue, which more fairly and accurately portrays income, and which "matches" revenue and expenditure, if one method does, is the one which must be followed.
+In the court below, Stone, J.A. took this passage as grounding his conclusion that the matching principle of accounting has been elevated to a rule of law. Obviously, in light of my previous comments, I do not, with respect, subscribe to that point of view. To my mind, the significance of this statement is to confirm a much sounder proposition: that the goal of the legal test of "profit" should be to determine which method of accounting best depicts the reality of the financial situation of the particular taxpayer. If this is accomplished by applying the matching principle, then so be it. On the other hand, if some other method is appropriate, is permissible under well-accepted business principles, and is not prohibited either by the Act or by some specific rule of law, then there is no principled basis by which the Minister should be entitled to insist that the matching principle - or any other method, for that matter - be employed. MacGuigan, J.A. in West Kootenay seemed to advert to this notion at p. 6028, in the passage immediately following the above-quoted portion:
+The result often will not be different from what it would be using a consistency principle, but the "truer picture" or "matching approach" is not absolute in its effect, and requires a close look at the facts of a taxpayer's situation.
+As an aside, I would also observe that the compartmentalization of income calculation has led to a process that is far more complicated than necessary. To attempt to achieve a useful picture of profit by reference only to rigid categories of expenses - running expenses, matchable expenses, etc. - can become a frustrating exercise in futility: see Richard B. Thomas, "The Matching Principle: Legal Principle or a Concept?" (1996), 44 C.T.J. 1693. Rather than trying to discern into which pigeonhole a particular income expenditure falls, the taxpayer's focus should be on attempting to portray his or her income in the manner which best reflects his or her true financial position for the year, that is, which gives an "accurate picture" of profit. To do otherwise is to lose sight of the taxation forest for the practice or principle trees. In other words, the competing concepts of running expenses and matching which appear to be at play in this appeal fall into the category of well-accepted business principles, no more, no less. They are simply important interpretive aids which may assist, but are not determinative, in the illumination of an accurate picture of the taxpayer's income.
+[14] Iacobucci J. summarized the principles he set out earlier and more particularly, at page 6110 he states:
+On reassessment, once the taxpayer has shown that he has provided an accurate picture of income for the year, which is consistent with the Act, the case law, and well-accepted business principles, the onus shifts to the Minister to show either that the figure provided does not represent an accurate picture, or that another method of computation would provide a more accurate picture.
+I have attempted to apply this approach to the present facts.
+[15] The Appellant chose to deduct the entire expenditures in the year they occurred. This not is inconsistent with paragraph 18(1)(a) of the Act which provides that a deduction may be made for an expense incurred to earn income from the business. The Appellant's procedure was consistent with the rule of the law that running expenses which relate to an operating business as a whole, may be taken as a full deduction in the year paid. This rule of law is affirmed in Canderel. The present income picture is complicated and unusual. The Supreme Court of Canada in Canderel added at page 6109:
+However, where the income picture is more complicated, as is frequently the case, the taxpayer is free to employ whichever well-accepted business principles will be most useful in depicting profit, provided again that the method adopted is not inconsistent with the law. As a general rule, and as I have already stated, the Minister is in no position to insist on the application of one principle or another, in the absence of some legal rule so requiring, unless, as I shall discuss next, the application of an alternative rule would yield a more accurate picture of income than that which was obtained by the taxpayer.
+[16] The Minister has assumed at paragraph 5(h) of the Reply to the Notice of Appeal that the expenditure was not incurred for the purpose of earning income. The Appellant's witnesses were credible and they were advisers to both Bailey and to the Appellant. It was through their recommendation and in particular, that of Mr. Barltrop, that a deal was struck. I accept their uncontradicted evidence that the income earning purpose behind the payment was to formalize a consistent charging methodology with respect to loans and administrative services.
+[17] Having found that a valid business purpose exists, the full deduction of the expense in 1994 is the most accurate picture of the Appellant's economic situation presented to this Court. The appeal is allowed, with costs.
+Signed at Ottawa, Canada, this 17th day of April, 2003.
+"C.H. McArthur"
+J.T.C.C.
+CITATION:
+2003TCC256
+COURT FILE NO.:
+2000-1129(IT)G
+STYLE OF CAUSE:
+Glueckler Metal Inc. and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 7, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable Judge C.H. McArthur
+DATE OF JUDGMENT:
+April 17, 2003
+APPEARANCES:
+Counsel for the Appellant:
+James B. Love, Q.C.
+Counsel for the Respondent:
+Sointula Kirkpatrick
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+James B. Love, Q.C.
+Firm:
+Love & Whalen
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] His recommendations are set out in tabs 1 and 2 of Exhibit A-1.
+[2]
+Canderel Ltd. v. The Queen, 98 DTC 6100 (S.C.C.).
+[3] 70 DTC 6085.
+[4]
+Canderel, supra, paragraphs 37 and 42.

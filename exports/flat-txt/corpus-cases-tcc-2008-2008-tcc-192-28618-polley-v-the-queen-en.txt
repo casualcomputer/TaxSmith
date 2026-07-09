@@ -1,0 +1,109 @@
+Title: Polley v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28618/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-192-28618-polley-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-04-24
+
+# Polley v. The Queen
+
+- Citation: 2008 TCC 192
+- Decision date: 2008-04-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1150, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Polley v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-24
+Neutral citation
+2008 TCC 192
+File numbers
+2007-2570(GST)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-2570(GST)I
+BETWEEN:
+DONALD POLLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 15, 2008, at Moncton, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+George Jorgensen
+Counsel for the Respondent:
+Andrew Miller
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, for the period from January 1, 2001 to March 31, 2005, the notice of which is dated July 11, 2006, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of April 2008.
+“François Angers”
+Angers J.
+Citation: 2008TCC192
+Date: 20080424
+Docket: 2007-2570(GST)I
+BETWEEN:
+DONALD POLLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal with respect to an assessment under Part IX of the Excise Tax Act (the “Act”) dated July 11, 2006 for the period from January 1, 2001 to March 31, 2005. Although, the assessment deals with a number of issues, the appeal relates only to a disallowed input tax credit (ITC) with respect to the construction of a garage for the period under appeal.
+[2] The assumptions of fact relied upon by the Minister were admitted upon by the appellant’s representative. The appellant is a goods and services tax/harmonized sales tax (GST/HST) registrant. He has been the sole proprietor of a construction business since 1981.
+[3] In the year 2003, the appellant built, on the same land as that on which he has his personal residence, a garage measuring 30 by 40 feet. The garage was built to store tools and other equipment and both parties agree that it is used exclusively for business purposes. It was built beside the appellant’s residence, which has the same square footage as the new garage. There is an existing 24 by 30 feet garage for personal use. All of the above sit on an 11-acre lot. The appellant claimed an ITC in the amount of $ 1,973.72 in respect of the construction of the garage.
+[4] The issue is whether the appellant is entitled to the ITC so.
+[5] The appellant’s position is that the garage was built to be used exclusively for commercial purposes and subsection 208(2) of the Act should accordingly apply such that he is deemed to have received a supply by way of sale of the property and to have paid tax in respect of the supply equal to the basic tax content of the property. This deemed sale of the property (the garage) under subsection 208(2) would generate a deemed acquisition of two separate properties by virtue of subsection 136(2), given that the garage (the commercial portion) does not form part of the residential complex. Thus, the supply of the residential complex is deemed to be a separate supply from the garage portion and neither supply is incidental to the other. The tax status of each of the two properties created under subsection 136(2) would need to be considered separately. The garage part would be taxable and the residential part would be exempt. As a registrant, the appellant should be entitled to claim an ITC on the garage portion, which was used for commercial activities.
+[6] The respondent argues that subsection 208(2) is not applicable in this instance as its application relates to a change in use from personal to commercial. The applicable subsection in this instance is 208(4), which specifically disallows any ITC on improvements to real property where the property is primarily for the personal use and enjoyment of the registrant. Counsel for the respondent went through the statutory definitions of certain words used in subsection 208(4) to support his position that the ITC claimed in the present case cannot be allowed. The improvement made to the personal residence, that is, the construction of the garage, does not change the fact that the entire property is still primarily for the personal use and enjoyment of the appellant and he is therefore not entitled to the ITC.
+[7] The appellant is the owner of the 11‑acre lot on which sit his residence and a garage, both of which are for his personal use and enjoyment. The construction of the new garage in 2003, although that garage is used exclusively for business purposes, constitutes, in my opinion, an improvement to capital real property as these terms are defined in subsection 123(1) of the Act.
+“improvement”
+“improvement” , in respect of property of a person, means any property or service supplied to, or goods imported by, the person for the purpose of improving the property, to the extent that the consideration paid or payable by the person for the property or service or the value of the goods is, or would be if the person were a taxpayer under the Income Tax Act, included in determining the cost or, in the case of property that is capital property of the person, the adjusted cost base to the person of the property for the purposes of that Act;
+“real property”
+“real property” includes
+(a) in respect of property in the Province of Quebec, immovable property and every lease thereof,
+(b) in respect of property in any other place in Canada, messuages, lands and tenements of every nature and description and every estate or interest in real property, whether legal or equitable, and
+(c) a mobile home, a floating home and any leasehold or proprietary interest therein;
+“capital property”
+“capital property” , in respect of a person, means property that is, or would be if the person were a taxpayer under the Income Tax Act, capital property of the person within the meaning of that Act, other than property described in Class 12, 14 or 44 of Schedule II to the Income Tax Regulations.
+[8] In order for this Court to permit him to recover the HST paid with respect to the construction of his garage in 2003, the appellant must prove that the property in question is no longer used primarily for his personal use and enjoyment. This, in my opinion, would trigger, as the appellant suggests, the application of the change‑in‑use provisions found in subsection 208(2) of the Act. The evidence presented at trial, though, does not support such a finding. Despite the construction of a garage for exclusively commercial use, the property has continued to be used primarily for personal use and enjoyment, even after the improvement.
+[9] The purpose of subsection 208(4) is to prevent an ITC from being claimed on the cost of improvements to capital real property if the property is primarily for the personal use and enjoyment of the registrant.
+[10] Subsection 208(4) reads as follows:
+208 (4) Improvement to capital real property by individual — Where an individual who is a registrant acquires, imports or brings into a participating province an improvement to real property that is capital property of the individual, the tax payable by the individual in respect of the improvement shall not be included in determining an input tax credit of the individual if, at the time that tax becomes payable or is paid without having become payable, the property is primarily for the personal use and enjoyment of the individual or a related individual.
+[11] The Act does not make a distinction between an improvement that is made only for business purposes and one that is not. If all the conditions of subsection 208(4) are met, the tax paid with respect to the improvement does not give rise to an ITC.
+[12] Real property can consist partly of residential property and partly of commercial property, but it remains a single property. Only where there is a supply of real property within the meaning of subsection 136(2) will the supply of each part be deemed a separate supply. In my opinion, there was no such supply of real property in the present case.
+[13] The appeal is dismissed.
+Signed at Ottawa, Canada, this 24th day of April 2008.
+“François Angers”
+Angers J.
+CITATION: 2008TCC192
+COURT FILE NO.: 2007-2570(GST)I
+STYLE OF CAUSE: Donald Polley v. Her Majesty the Queen
+PLACE OF HEARING: Moncton, New Brunswick
+DATE OF HEARING: January 15, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: April 24, 2008
+APPEARANCES:
+Agent for the Appellant:
+George Jorgensen
+Counsel for the Respondent:
+Andrew Miller
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

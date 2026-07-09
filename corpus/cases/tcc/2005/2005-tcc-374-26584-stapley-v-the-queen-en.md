@@ -1,0 +1,132 @@
+---
+title: "Stapley v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26584/index.do"
+last_modified: "2005-07-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 374"
+citation2: ""
+neutral_citation: "2005 TCC 374"
+decision_date: "2005-07-26"
+language: "en"
+item_id: "26584"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3527
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:32:24.866000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "166c15c64b4defa7871485885de7eba0de588070a663688cdaf50794035fed97"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stapley v. The Queen
+
+- Citation: 2005 TCC 374
+- Decision date: 2005-07-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3527, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stapley v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-07-26
+Neutral citation
+2005 TCC 374
+File numbers
+2004-4052(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Citation:2005TCC374
+Date:20050726
+Docket: 2004-4052(IT)I
+BETWEEN:
+MARK STAPLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench at
+Toronto, Ontario, on April 13, 2005)
+[1] This appeal pursuant to the Informal Procedure was heard at Toronto, Ontario on April 12, 2005. The parties filed an agreed statement of facts.
+[2] Paragraphs 9 and 10 of the Reply to the Notice of Appeal read:
+9. In reassessing tax for the 2000, 2001 and 2002 taxation years, as referred to in paragraph 6 above, and in so confirming those reassessments of tax, the Minister assumed the same facts as follows:
+(a) during the 2000, 2001 and 2002 taxation years, the Appellant was a self-employed real estate agent in receipt of commission income;
+(b) in the 2000, 2001 and 2002 taxation years, the Appellant paid the amounts of $20,125.00, $14,208.00 and $19,145.00 respectively for food or beverages for human consumption or for the enjoyment of entertainment;
+(c) in computing net commission income in the 2000, 2001 and 2002 taxation years, the Appellant deducted 100% of the amounts of $20,125.00, $14,208.00 and $19,145.00 respectively that were paid by the Appellant for food or beverages for human consumption or for the enjoyment of entertainment.
+B. ISSUES TO BE DECIDED
+10. The issue is whether the Minister has properly disallowed the deduction of 50% of the amounts of $20,125.00, $14,208.00 and $19,145.00, that were paid by the Appellant for food or beverages for human consumption or for the enjoyment of entertainment, in computing income in the 2000, 2001 and 2002 taxation years respectively.
+[3] As agreed on the record by both counsel, the Appellant did not consume any food in question or attend any entertainment in question with his clients. He merely gave them vouchers or tickets which the clients used as they saw fit.
+[4] The Appellant gave these to his customers who had purchased or sold homes through his business by which he earned income. He expected that they would send him more business or refer more clients to him and it was for this purpose that he made the supplies in question.
+[5] At issue is subsection 67.1(1) of the Income Tax Act which for 2000, 2001 and 2002 reads:
+67.1 (1) Expenses for food, etc. - For the purposes of this Act, other than subsections 62, 63 and 118.2, an amount paid or payable in respect of the human consumption of food or beverages or the enjoyment of entertainment shall be deemed to be 50% of the lesser of
+(a) the amount actually paid or payable in respect thereof, and
+(b) an amount in respect thereof that would be reasonable in the circumstances.
+In contrast, Appellant's counsel argued that the Appellant simply incurred an expense for the purpose of producing income from his business, which is true, and therefore he should be entitled to the entire deduction claimed and not merely the 50 percent allowed by the Minister.
+[6] Thus, there are two questions related to the interpretation of the Income Tax Act in this case:
+1. Does the particular subsection 67.1(1) override the general deductibility of an expense incurred for the purpose of gaining business?
+2. Was the expense paid "in respect of the human consumption...or the enjoyment..."?
+[7] Dealing with the second question, Dickson, J. for the Supreme Court of Canada stated in Nowegijick v. R [1983] 144 DLR 193 at 200 that:
+The words "in respect of" are, in my opinion, words of the widest possible scope. They import such meanings as "in relation to", "with reference to" or "in connection with". The phrase "in respect of" is probably the widest of any expression intended to convey some connection between two related subject- matters.
+In that judgement, at page 202 the Supreme Court of Canada found, in the words of Section 87 of the Indian Act "no Indian...is ... subject to taxation in respect of any such property" included a reference to persons and to property; in particular to personal property situated on a reserve, namely - income.
+[8] The Oxford Dictionary, 1st Edition, under "respect" describes "in respect to" as "To have regard or relation to". Here the phrase uses "of" and so the words may be phrased "to have regard for relation of". But in either usage, the Appellant's purchases were the purpose of, or in respect of, earning income from his business and not consumption or entertainment. He might have purchased flowers, food vouchers, a book, tickets to entertainment, or anything else, or simply given cash; but for him they were in regard of, or in relation, or in respect, of his earning an income. In fact the amount he paid for the vouchers or tickets constituted a reduction in, or rebate of, his real estate commission. Whether the client used the voucher or ticket, gave it away or applied for a rebate of its price was up to the client. The Appellant had no control over the client's usage once the client had the voucher or tickets.
+[9] For this reason, the purpose of the purchase by the Appellant who did not participate in the consumption or enjoyment of entertainment is in respect of earning a profit and nothing else. He purchased whatever he thought would bring him business. That is what the payment was in respect of.
+[10] The first point in paragraph [6] must also be dealt with. Subsection 67.1(1) begins "For the purposes of this Act, other than sections 62, 63 and 118.2, an amount paid...". It refers to and describes the very words of the Income Tax Act. But it does not deal or purport to deal with ordinary business usage to determine a profit. Subsection 9(1) of the Income Tax Act describes a taxpayer's income from a business to be the profit from that business for the year. The Appellant did not purchase vouchers or tickets to consume food or enjoy entertainment or in relation of or to that. Rather, he simply gave his clients a form of discount for the purpose of gaining income or profit. That action was a business transaction for accounting or business calculation purposes and preceded the imposition of the particular sections of the Income Tax Act.
+[11] Thus the particular words of subsection 67.1(1) do not apply because the payments of the taxpayer were in respect of his business and not the consumption of food or the enjoyment of entertainment.
+[12] The appeal is allowed and the matter is referred to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+[13] The Appellant is awarded his taxable costs.
+Signed at Vancouver, British Columbia, this 26th day of July 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2005TCC374
+COURT FILE NO.:
+2004-4052(IT)I
+STYLE OF CAUSE:
+Mark Stapley v. The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 12, 2005
+ORAL REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF ORAL REASONS:
+July 26, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Laurie Aitchison
+Counsel for the Respondent:
+Brendan Gluckman, Articling Student
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Laurie Aitchison
+Firm:
+Aitchison Law Office
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

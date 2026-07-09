@@ -1,0 +1,140 @@
+Title: Bissonnet c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26433/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-310-26433-bissonnet-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-04-20
+
+# Bissonnet c. La Reine
+
+- Citation: 2004 CCI 310
+- Decision date: 2004-04-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3184, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bissonnet c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-20
+Référence neutre
+2004 CCI 310
+Numéro de dossier
+2003-581(GST)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-581(GST)I
+ENTRE :
+JEAN-CLAUDE BISSONNET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 20 janvier 2004 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Bruno Bernier
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise dont l'avis porte le numéro 012750025239G0001 et est en date du 20 novembre 2001 est accordé et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 20e jour d'avril 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2004CCI310
+Date : 20040420
+Dossier : 2003-581(GST)I
+ENTRE :
+JEAN-CLAUDE BISSONNET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel par voie de la procédure informelle d'une cotisation dont l'avis porte le numéro 012750025239G0001 et est en date du 20 novembre 2001.
+[2] La question en litige est de savoir si la demande de remboursement pour habitation neuve du montant prévu à l'article 256 de la Loi sur la taxe d'accise (la « Loi » ) a été présentée dans le délai prescrit au paragraphe 256(3) de la Loi.
+[3] Le montant du remboursement demandé est de 1 241,59 $.
+[4] Le paragraphe 256(3) de la Loi se lit ainsi :
+Demande de remboursement. - Les remboursements prévus au présent article ne sont versés que si le particulier en fait la demande dans les deux ans suivant le premier en date des jours suivants :
+a) le jour qui tombe deux ans après le jour où l'immeuble est occupé pour la première fois de la manière prévue au sous-alinéa (2)d)(i);
+a.1) le jour du transfert de la propriété visé au sous-alinéa (2)d)(ii);
+b) le jour où la construction ou les rénovations majeures de l'immeuble sont achevées en grande partie.
+[5] Le sous-alinéa 256(2)d)(i) de la Loi se lit ainsi :
+256(2) Remboursement - habitation construite par soi-même. - Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+...
+d) selon le cas
+(i) le premier particulier à occuper l'immeuble après le début des travaux est le particulier ou son proche,
+[6] Dans le cas d'une habitation construite par soi-même, il y a deux jours pertinents pour le calcul du délai de deux ans pour faire la demande de remboursement. Le premier jour est deux ans après le jour où l'immeuble est occupé pour la première fois et le deuxième jour est le jour où la construction ou les rénovations majeures de l'immeuble sont achevées en grande partie. La demande de remboursement doit être faite dans les deux ans suivant le premier en date de ces deux jours.
+[7] Les faits sur lesquels le ministre du Revenu national (le « Ministre » ) s'est appuyé pour établir sa cotisation sont décrits au paragraphe 10 de la Réponse à l'avis d'appel modifiée comme suit :
+a) les faits admis ci-dessus;
+b) l'Appelant est un particulier qui a construit un immeuble d'habitation pour qu'elle lui serve de résidence habituelle;
+c) ledit immeuble d'habitation est un immeuble d'habitation, soit un « immeuble d'habitation à logement unique » tel que défini au paragraphe 123(1) de la L.T.A.;
+d) le ou vers le 31 décembre 1995, la construction de l'immeuble d'habitation était achevée en grande partie;
+e) le ou vers le 10 septembre 1999, l'Appelant a occupé l'immeuble d'habitation;
+f) le 20 août 2001, l'Appelant a présenté une demande de remboursement pour habitation neuve de la TPS/TVH au Ministre;
+g) l'Appelant avait jusqu'au 31 décembre 1997 pour demander un remboursement pour habitation neuve de la TPS/TVH au Ministre;
+h) l'Appelant n'a pas droit au remboursement de la TPS demandé puisque ladite demande a été présentée au Ministre hors délai;
+[8] L'appelant a témoigné. Il a relaté que la maison, à la date de l'audience, n'était pas encore terminée en grande partie.
+[9] Il a, à cet égard, produit des séries de photos de sa maison actuelle ainsi que des estimations des coûts de matériaux nécessaires au parachèvement de sa maison.
+[10] Les photos de l'intérieur de la maison ont été produites comme pièce A-1, celles de l'extérieur comme pièce A-2 et les estimations comme pièce A-3.
+[11] L'avocat de l'intimée a alors fait savoir à la Cour que les photos de l'état actuel de la maison ne lui avaient pas été montrées préalablement ni les estimations pour les travaux à faire.
+[12] L'appelant a relaté que les revêtements de plancher n'avaient pas été posés, que l'escalier n'était pas terminé et que les portes n'avaient pas été posées.
+[13] En ce qui concerne l'extérieur, le revêtement en planches d'aluminium n'avait pas été posé, le soffite n'avait pas été installé.
+[14] La photo A-4 montre que lors du début d'occupation de la maison, les armoires de cuisine n'avaient pas été installées. Ces armoires, selon une facture comprise dans la pièce A-3, étaient au montant de 4 600 $ avant les taxes. Une photocopie du chèque au montant de 5 291,15 $ est également incluse à cette pièce. Les armoires de la salle de bain n'avaient pas été non plus installées.
+[15] L'appelant est un agriculteur. Il habitait une maison mobile sur son terrain à 15 pieds devant la nouvelle maison. Il a commencé la construction de sa maison en novembre 1992. Il l'a construite lui-même pour les parties qu'il pouvait faire. Son frère l'a aidé à l'occasion.
+[16] Madame Marcelle Lemay Damien, technicienne en vérification fiscale a témoigné. Son rapport ainsi que les factures ont été produits comme pièce I-2. Sa conclusion décrite à son rapport est la suivante :
+Suite à l'analyse des P.J., la maison est terminée en 95. Les faits soumis après 95, soit 96-97-98=99-01 sont minimes et sans importance.
+Demande refusée, hors délai. M. Bissonnet n'est pas d'accord et fera opposition.
+[17] La Cour a demandé à l'appelant d'expliquer pourquoi le projet avait pris tant de temps. Il a produit comme pièce A-5 un document manuscrit, en date du 15 février 2002, qu'il avait joint à son avis d'opposition. Sans reproduire les faits qui y sont décrits, je peux relater que de septembre 1993 au printemps 2001, l'appelant a subi des événements dramatiques et des maladies graves qui expliquent la durée surprenante des travaux.
+[18] Quand la famille a déménagé dans la maison, selon l'appelant, elle était habitable mais était loin d'être terminée.
+[19] L'avocat de l'intimée s'est référé aux décisions suivantes de cette Cour : Tessier c. La Reine, 2001 GTC 105; Vallières c. La Reine, 2001 GTC 545; Pickering c. La Reine, 2001 GTC 463; et Meechan c. La Reine, 2000 GTC 712. Je cite les paragraphes 15 à 19 de la version française de la décision Vallières ci-dessus citée :
+15 Les termes « achevées en grande partie » , qui figurent à l'alinéa 256(3)b) de la Loi, ne sont pas définis de manière particulière dans la loi.
+16 L'ADRC se sert du critère préliminaire du 90 p. 100 comme simple règle administrative. Toutefois, ce critère est très imprécis et il a constamment été critiqué. Il n'y a absolument aucun élément sur lequel fonder une telle estimation. Apparemment, l'ADRC peut considérer que les termes « achevées en grande partie » signifient un pourcentage inférieur à 90 p. 100. Cependant, il est improbable qu'un état d'achèvement inférieur à 70 p. 100 puisse correspondre à des travaux « achevés en grande partie » au sens où l'entend la Loi.
+17 Les règles du 90 p. 100 ou plus doivent toujours être nuancées par le fait qu'il doit être raisonnable pour l'acheteur de pouvoir habiter les lieux. Dans une large mesure, il peut donc y avoir un élément subjectif et il faut tenir compte de l'acheteur en particulier, mais non jusqu'au point où les normes objectives peuvent être écartées.
+18 Pour qu'un immeuble d'habitation soit achevé en grande partie, il doit pouvoir être utilisé pour les fins pour lesquelles il a été construit.
+19 Afin de déterminer en quoi consistent des travaux « achevés en grande partie » , il faut procéder à une certaine évaluation fondée sur le sens commun de ce que, selon les faits de l'espèce, une personne raisonnable considérerait comme des travaux achevés en grande partie.
+[20] Je suis d'avis que l'appréciation de l'appelant voulant que la maison ne soit pas encore achevée en grande partie est tout à fait acceptable. Selon la description de l'état de la construction faite par l'appelant, appuyée par des photos et des estimations récentes, selon le sens commun, la maison n'est pas achevée en grande partie. Bien qu'il soit surprenant que la construction ait pris tant de temps, le contribuable s'est expliqué.
+[21] Les factures normalement peuvent être indicatives mais il ne s'agit pas d'un critère absolu. L'état des travaux de construction de la maison est primordial.
+[22] Le délai de deux ans doit donc commencer à être calculé à partir de deux ans après le 10 septembre 1999, jour où l'appelant a occupé l'immeuble d'habitation. Comme l'appelant a présenté sa demande de remboursement le 20 août 2001, il était donc à l'intérieur du délai prescrit.
+[23] L'appel est en conséquence accordé.
+Signé à Ottawa, Canada, ce 20e jour d'avril, 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2004CCI310
+No DU DOSSIER DE LA COUR :
+2003-581(GST)I
+INTITULÉ DE LA CAUSE :
+Jean-Claude Bissonnet et La Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 20 janvier 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 20 avril 2004
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimée :
+Me Bruno Bernier
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

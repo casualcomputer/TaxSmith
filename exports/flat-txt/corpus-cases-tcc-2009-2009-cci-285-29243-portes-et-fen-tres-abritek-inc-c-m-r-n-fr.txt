@@ -1,0 +1,188 @@
+Title: Portes et fenêtres Abritek Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29243/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-285-29243-portes-et-fen-tres-abritek-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2009-05-27
+
+# Portes et fenêtres Abritek Inc. c. M.R.N.
+
+- Citation: 2009 CCI 285
+- Decision date: 2009-05-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7016, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Portes et fenêtres Abritek Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-05-27
+Référence neutre
+2009 CCI 285
+Numéro de dossier
+2008-1289(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-1289(EI)
+ENTRE :
+PORTES ET FENÊTRES ABRITEK INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 16 avril 2009, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Antonia Paraherakis
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi est rejeté, au motif que les emplois des travailleurs Bianca Dupuis pour la période du 1er janvier 2007 au 10 septembre 2007 et Jonathan Dupuis pour la période du 1er janvier 2007 au 7 septembre 2007, pour l’appelante, étaient des emplois assurables aux termes de la Loi pour les motifs ci‑après exposés.
+Signé à Ottawa, Canada, ce 27e jour de mai 2009.
+« Alain Tardif »
+Juge Tardif
+Référence : 2009 CCI 285
+Date : 20090527
+Dossier : 2008-1289(EI)
+ENTRE :
+PORTES ET FENÊTRES ABRITEK INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel relatif au caractère assurable du travail effectué. L’intimé a décidé que le travail exécuté du 1er janvier 2007 au 10 septembre 2007 par madame Bianca Dupuis et du 1er janvier 2007 au 7 septembre 2007 par son frère Jonathan pour l’appelante, Portes et Fenêtres Abritek inc. (« l’appelante »), était assurable.
+[2] Il s’agit d’une décision dont le fondement juridique est l’alinéa 5(2)i) de la Loi sur l’assurance‑emploi (la « Loi »). Cette disposition établit que le travail exécuté par une personne qui a un lien de dépendance avec son employeur au sens de la Loi de l’impôt sur le revenu est exclu des emplois assurables.
+[3] Toutefois, le législateur a prévu une exception en vertu de laquelle le travail est assurable s’il a été exécuté d’une manière semblable et à des conditions comparables à ce qui aurait existé s’il n’y avait pas eu de lien de dépendance. L’exception se lit comme suit :
+5(3)b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[4] Ainsi, en présence d’un lien de dépendance, le ministre doit faire une analyse beaucoup plus complète que la simple vérification de la présence des conditions classiques, à savoir la rémunération, la prestation de travail et le lien de subordination.
+[5] En effet, il doit décider si le lien de dépendance a influencé l’exécution du travail; en d’autres termes, l’analyse doit examiner si le travail en litige a été ou non effectué d’une manière semblable et à des conditions comparables à ce qui aurait existé dans le cas d’une personne sans lien de dépendance avec l’employeur.
+[6] Il s’agit là d’affaires particulières également sous un autre aspect, puisque la jurisprudence a établi que la Cour canadienne de l’impôt n’a pas compétence pour réviser une telle décision lorsque le pouvoir discrétionnaire a été exercé correctement et légalement.
+[7] En d’autres termes, lorsque l’exercice du pouvoir discrétionnaire s’est fait d’une manière responsable et judicieuse, que tous les faits pertinents ont été pris en compte et que la conclusion s’avère raisonnable, la Cour canadienne de l’impôt ne peut pas modifier la décision, même si la Cour ne souscrit pas nécessairement à la conclusion retenue.
+[8] L’appelante conteste la décision voulant que le travail exécuté l’ait été en vertu d’un contrat de louage de services assurable, en raison de l’exception prévue à l’alinéa 5(2)i) de la Loi, l’intimé ayant conclu que le travail en question n’était pas exclu des emplois assurables.
+[9] Pour établir et ratifier la décision dont il est fait appel, l’intimé a tenu pour acquis les faits suivants :
+5. [. . .]
+a) l’appelante a été constituée en société le 8 janvier 1987; (admis)
+b) l’appelante exploitait une entreprise de fabrication de portes et de fenêtres; (admis)
+c) l’appelante était en exploitation à l’année longue; (admis)
+d) les revenus annuels bruts de l’appelante totalisaient environ 12 millions de dollars; (admis)
+e) l’appelante embauchait 70 employés environ; (admis)
+f) la travailleuse et le travailleur étaient à l’emploi de l’appelante depuis 1999; (admis)
+g) la travailleuse avait été embauchée comme réceptionniste et par la suite, elle s’occupait du service après vente; (admis)
+h) depuis 3 ans, la travailleuse était la directrice des achats de l’appelante; (admis)
+i) les tâches de la travailleuse consistaient aux commandes des matériaux, les suivis des nouveaux produits, les rencontres avec les fournisseurs, la négociation de prix, la création de la liste des prix, la préparation des demandes de subvention en recherche et développement; (admis)
+j) la travailleuse dirigeait également l’employé responsable du service après vente de l’appelante; (admis)
+k) le travailleur avait été embauché comme contremaître; (admis)
+l) les tâches du travailleur consistaient à voir au bon fonctionnement de la chaîne de production des produits en PVC où de 20 à 30 employés y travaillaient, le travailleur supervisait également la salle de peinture et s’occupait de l’entretien de l’édifice; (admis)
+m) la travailleuse et le travailleur accomplissaient la très grande majorité de leurs tâches à la place d’affaires de l’appelante; (admis)
+n) la travailleuse et le travailleur utilisaient le matériel et l’équipement de l’appelante dans l’accomplissement de leurs tâches; (nié)
+o) la travailleuse avait un horaire qui correspondait aux heures d’affaires de l’appelante soit du lundi au vendredi de 8 h à 17 h; (nié)
+p) la travailleuse notait ses heures supplémentaires lorsque la tâche nécessitait plus de 30 minutes; (nié)
+q) le travailleur avait un horaire du lundi au jeudi de 6 h 45 à 17 h 15, le vendredi, le travailleur terminait à midi; (nié)
+r) le 17 janvier 2008, le travailleur déclarait à un représentant de l’intimé qu’il rendait des services à l’appelante à l’occasion, en dehors de son horaire pour 45 à 60 minutes par semaine; (nié)
+s) la travailleuse et le travailleur prenaient 45 minutes pour leur repas du midi; (nié)
+t) la travailleuse et le travailleur travaillaient environ 40 heures par semaine; (nié)
+u) l’appelante assurait le suivi des heures travaillées par le travailleuse et le travailleur d’une manière identique aux autres employés; (nié)
+v) la travailleuse était supervisée par Christian Dupuis; (nié)
+w) le 17 janvier 2008, le travailleur déclarait à un représentant de l’intimé qu’il était supervisé par Jacques Dupuis; (nié)
+x) la travailleuse et le travailleur demandaient l’approbation de l’appelante dans l’exécution de leurs tâches; (nié)
+y) en cas d’absence de Christian Dupuis, la travailleuse le contactait par courriel ou par téléphone; (admis)
+z) la travailleuse était rémunérée au taux horaire de 16,25 $ et après avril 2007, au taux de 17 $ de l’heure; (admis)
+aa) le travailleur était rémunéré au taux horaire de 15,50 $ et après avril 2007, au taux de 16,25 $ de l’heure; (admis)
+bb) l’appelante avait une charte de rémunération pour les différents corps de métiers, journaliers, opérateurs, chef d’équipe et contremaître; (nié)
+cc) le salaire était versé régulièrement à la travailleuse et au travailleur à toutes les semaines par dépôt direct; (admis)
+dd) lors de leurs déplacements, la travailleuse et le travailleur utilisaient une voiture de l’appelante; (nié)
+ee) l’appelante remboursait la travailleuse et le travailleur au taux de 0,45 $ du kilomètre s’ils utilisaient leur automobile personnelle; (nié)
+ff) la travailleuse, le travailleur et l’ensemble des employés, bénéficiaient d’une assurance groupe; (nié)
+gg) la travailleuse, le travailleur et l’ensemble des employés, bénéficiaient des deux semaines de vacances durant la fermeture de l’entreprise pendant la période de Noël et des deux semaines de plus lors de la fermeture pendant l’été ainsi qu’une semaine additionnelle; (nié)
+hh) l’appelante compensait monétairement les employés qui ne prenaient pas cette semaine de vacances additionnelle; (nié)
+ii) le 17 janvier 2008, le travailleur déclarait à un représentant qu’il n’avait pas pris cette semaine additionnelle et qu’il avait été payé en conséquence; (nié)
+jj) l’appelante avait un droit de contrôle sur la travailleuse et sur le travailleur et ce contrôle était exercé. (nié)
+6. [. . .]
+a) l’actionnaire unique de l’appelante est Christian Dupuis; (admis)
+b) Christian Dupuis est le père de la travailleuse et du travailleur; (admis)
+c) La travailleuse et le travailleur sont liés par les liens du sang à une personne qui contrôle l’appelante. (admis)
+7. [. . .]
+a) le salaire de la travailleuse et du travailleur était décidé et régi par l’appelante; (admis)
+b) les informations sur le marché du travail d’Emploi Québec indiquaient pour un directeur des achats dans la région de Chaudières-Appalaches, un salaire horaire de 18 $ à 19,99 $ pour la tranche inférieur avec un baccalauréat ou un diplôme d’études collégiales; (admis)
+c) la travailleuse avait un diplôme d’études secondaires; (admis)
+d) la travailleuse avait reçu sa formation en cours d’emploi; (admis)
+e) la rémunération de la travailleuse de 17 $ de l’heure était raisonnable compte tenu de sa formation; (nié)
+f) les informations sur le marché du travail d’Emploi Québec indiquaient pour un contremaître dans la région de Chaudières-Appalaches, un salaire annuel moyen de 40 000 $ avec un diplôme d’études secondaires; (admis)
+g) le travailleur n’avait pas de diplôme d’études secondaires; (admis)
+h) la rémunération du travailleur de 16,25 $ de l’heure était raisonnable compte tenu de sa formation; (nié)
+i) la rémunération annuelle de la travailleuse, de 34 758 $, la situait parmi les plus haut salariés de l’appelante; (nié)
+j) la rémunération annuelle du travailleur, de 34 875 $, le situait parmi les plus hauts salariés de l’appelante; (nié)
+k) la travailleuse et le travailleur étaient au service de l’appelante depuis plusieurs années; (admis)
+l) la travailleuse et le travailleur œuvraient à l’année longue pour l’appelante; (admis)
+m) la durée du travail de la travailleuse et du travailleur était raisonnable; (nié)
+n) la travailleuse et le travailleur avaient les mêmes conditions de travail que l’ensemble des employés de l’appelante; (nié)
+o) le travail de la travailleuse et du travailleur étaient nécessaire et important pour la bonne marche de l’entreprise de l’appelante; (admis)
+p) le 16 janvier 2008, la travailleuse déclarait à un représentant de l’intimé que si elle devait quitter l’entreprise, elle devrait être remplacée; (nié)
+q) les modalités, la nature et l’importance du travail de la travailleuse et du travailleur étaient raisonnables. (nié)
+[10] Plusieurs des faits ont été admis, d’autres niés, le tout étant indiqué par les mentions en caractères gras à la fin de chacun des alinéas.
+[11] Madame Josée Bilodeau, la conjointe de l’actionnaire unique, Christian Dupuis, et la mère de Bianca et de Jonathan, a décrit l’entreprise; elle a expliqué que son conjoint souffrait d’une très grave maladie dégénérative diagnostiquée en 2006, laquelle a pour effet de réduire graduellement son autonomie physique et sa capacité à se déplacer, au point de l’obliger à demeurer à la maison.
+[12] Au moment des entrevues à l’origine de la décision, monsieur Christian Dupuis était en convalescence. Sa santé s’est détériorée au point que sa conjointe et leurs enfants Bianca et Jonathan ont dû diviser ou se partager toutes les tâches, nombreuses et importantes, qu’il effectuait avant le terrible diagnostic.
+[13] Madame Bilodeau a décrit le travail exécuté par Bianca et Jonathan; elle a expliqué le parcours quant à l’élargissement et aux ajouts graduels à leurs charges de travail.
+[14] Tous deux ont commencé à un très jeune âge leur travail pour l’entreprise; très rapidement, ils ont appris et se sont rapidement habitués à la nécessité d’accepter des tâches importantes et nombreuses, au point d’être aujourd’hui responsables de leurs secteurs respectifs.
+[15] Très intéressés et dynamiques, ils ont manifesté un grand intérêt et beaucoup de détermination dans l’apprentissage de leur travail, malgré leur jeune âge.
+[16] Quant à la rémunération, madame Bilodeau a expliqué que ses enfants recevaient un salaire horaire. La question salariale a été le volet le plus important et le plus détaillé de la preuve. D’ailleurs, il s’agit là, sans doute, de l’aspect le plus important de l’appel.
+[17] La preuve a fait ressortir certaines divergences entre les faits notés lors de la conversation téléphonique faite pendant l’enquête et les témoignages de madame Bilodeau et de Bianca.
+[18] Madame Bilodeau, qui elle-même participait beaucoup à la gestion de l’entreprise dont son conjoint détient la totalité des actions, a fourni plusieurs détails pour expliquer l’apport exceptionnel de Bianca et de Jonathan.
+[19] Elle a aussi expliqué qu’il s’agissait d’une entreprise qui connaissait une croissance annuelle fort importante à laquelle Bianca et Jonathan étaient étroitement associés.
+[20] Quant aux tâches de chacun, elle a indiqué que chacun avait la responsabilité de son secteur soit la production dans un cas et le service après-vente et les achats dans l’autre. Pour ce qui est de la rémunération, on a déposé en preuve un barème indiquant les salaires dans ce domaine.
+[21] Pour ce qui est de la rémunération de Jonathan et de Bianca, les explications fournies sont qu’elle était somme toute assez conforme aux barèmes, mais aussi semblable à la rémunération de ceux qui occupaient ou avaient occupé une fonction comparable.
+[22] Madame Munger, responsable du dossier auprès de l’intimée, a aussi témoigné; elle a expliqué comment s’était déroulée la conversation téléphonique et a fait état des différents faits recueillis. De son témoignage sont ressortis deux éléments particuliers.
+[23] Tout d’abord, elle n’a pas posé de questions au sujet de la convalescence; d’autre part, les informations recueillies pendant l’enquête indiquaient que les heures de travail qui excédaient les heures de travail normales étaient beaucoup moins nombreuses que ce que l’on a affirmé à l’audience.
+[24] Quant aux salaires, les données étaient les mêmes, si ce n’est que madame Munger a fait certaines comparaisons avec les barèmes disponibles indiquant des salaires pondérés selon la scolarité et l’expérience.
+[25] Y a-t-il une version mensongère que le tribunal doit écarter au profit de l’autre? Je ne crois pas, puisqu’il ne s’agit pas de contradiction, mais essentiellement d’une question de moment, de contexte, découlant d’une réflexion et de la préparation concrète de l’audition. Il est important de rappeler que la conversation téléphonique a eu lieu en janvier 2008 et l’audition, le 16 avril 2009.
+[26] La jeune Bianca est une jeune femme enthousiaste, intelligente, adulte et très responsable. Elle a rapidement compris la gravité de la situation dans laquelle se retrouvaient ses parents à la suite du diagnostic assommant sur la santé de son père.
+[27] La preuve a démontré que Bianca est dynamique et a compris que son avenir était, manifestement, à l’intérieur de la société que son père avait créée. Consciente de la situation, elle ne veut pas brûler les étapes et est disposée à se consacrer à fond au développement de l’entreprise, qui est manifestement bien gérée.
+[28] La preuve indique que les responsables du dossier ont fait un travail d’enquête et d’analyse sérieux et responsable. Les faits pertinents ont été pris en considération et la conclusion est raisonnable.
+[29] Le dossier m’apparaît particulier du fait de son contexte. La terrible maladie du seul actionnaire de l’appelante a évidemment chambardé non seulement le quotidien, mais aussi toute la vie de cette jeune famille.
+[30] Au moment de l’entrevue, madame Munger n’a pas posé de questions à la conjointe de monsieur Christian Dupuis au sujet de la cause et de la durée de la convalescence et au sujet des conséquences de la maladie.
+[31] Pour sa part, madame Bilodeau ne semble pas avoir insisté sur cette situation. Il m’apparaît important, à ce stade, de risquer une explication. Monsieur Dupuis connaît depuis peu de temps la gravité de sa situation de santé, et sa capacité physique était évidemment meilleure qu’en avril 2009.
+[32] Physiquement moins autonome, mais en mesure de surveiller la gestion de son entreprise, il prend conscience que sa conjointe et ses enfants devront prendre une place de plus en plus importante suivant la détérioration graduelle de sa capacité physique.
+[33] D’ailleurs, il a été question des discussions et des conversations et des divers changements qui devront un jour être mis en place, ce qui aura pour effet d’amener plusieurs changements de différents ordres où Bianca et Jonathan seront appelés à relever des défis grandissants.
+[34] Les conseillers de l’appelante ont manifestement voulu insister sur cet aspect particulier. Je ne doute pas que la situation familiale ait eu un effet sur le contrat de travail de Bianca et de Jonathan, mais la preuve n’a pas démontré de changements importants aux trois éléments essentiels de leur contrat de travail pour les périodes en litige.
+[35] Les différences entre ce qui a été dit lors de l’enquête et lors du procès s’expliquent par l’écoulement du temps. Il est évident que lors du procès, madame Bilodeau et sa fille Bianca avaient à l’esprit la situation qui prévaut maintenant et non celle qui existait lors des périodes en litige. D’ailleurs, cela s’explique facilement et se justifie sans affecter leur crédibilité du seul fait de la maladie de monsieur Dupuis qui a des effets de plus en plus contraignants.
+[36] La charge de travail et la rémunération, deux éléments fort importants, ne soutiennent pas la position de l’appelante. Certes, les travailleurs avaient une charge de travail fort importante pour leur âge et leur expérience, mais la rémunération qu’ils recevaient correspondait aux normes du marché selon les barèmes, et notamment au salaire payé à un oncle et à un autre frère de leur père à un certain moment.
+[37] En effet, si on tient compte de l’âge, de la scolarité, de l’ancienneté, de ce que prévoyait le barème et de ce qui était payé à un cadre non lié à l’entreprise, les salaires de Bianca et de Jonathan n’étaient pas déraisonnables au point que l’on doive conclure que la décision portée en appel était totalement inappropriée ou déraisonnable.
+[38] L’appelante a insisté sur le contexte très particulier découlant de la maladie du père, dont la santé est appelée à se détériorer. Il est évident que la situation évoluera et qu’un jour les contrats de travail de Bianca et de Jonathan pourront être modifiés d’une manière importante. Par contre, lors de la période en litige, cette réalité n’était pas présente au point de rendre déraisonnable la conclusion portée en appel.
+[39] La preuve dans ce dossier a fait ressortir deux volets, l’un étant le contrat de travail et l’autre le contexte familial. Certes, il est difficile d’isoler les deux volets, particulièrement pendant une période aussi difficile.
+[40] Par contre, pour ce qui est du contrat de travail, la prépondérance de la preuve appuie le caractère raisonnable de la conclusion retenue, du moins au moment des périodes en litige. La décision porte sur cette période et je ne doute aucunement que la situation pourra justifier un jour une nouvelle évaluation.
+[41] En l’espèce, la décision concerne les périodes en litige et à cet égard, la prépondérance de la preuve est que le travail d’appréciation a été fait d’une manière correcte et en conformité avec les règles de l’art et la conclusion qui en a résulté s’avère, dans les circonstances de la période en cause, tout à fait raisonnable.
+[42] L’appel est donc rejeté.
+Signé à Ottawa, Canada, ce 27e jour de mai 2009.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2009 CCI 285
+Nº DU DOSSIER DE LA COUR : 2008-1289(EI)
+INTITULÉ DE LA CAUSE : PORTES ET FENËTRES ABRITEK INC. c. M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 16 avril 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 27 mai 2009
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Antonia Paraherakis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Jérôme Carrier
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

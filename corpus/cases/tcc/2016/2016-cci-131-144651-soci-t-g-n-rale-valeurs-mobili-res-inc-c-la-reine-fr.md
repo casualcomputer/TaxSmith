@@ -1,0 +1,321 @@
+---
+title: "Société générale valeurs mobilières inc..c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/144651/index.do"
+last_modified: "2016-05-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 131"
+citation2: ""
+neutral_citation: "2016 CCI 131"
+decision_date: "2016-05-26"
+language: "fr"
+item_id: "144651"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3088
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:01:40.692000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "734eddfcf8fd028849fb972ab51f3224fcd12a16364eef9aac8bc2811696647e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Société générale valeurs mobilières inc..c. La Reine
+
+- Citation: 2016 CCI 131
+- Decision date: 2016-05-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3088, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Société générale valeurs mobilières inc..c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-05-26
+Référence neutre
+2016 CCI 131
+Numéro de dossier
+2013-4035(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-4035(IT)G
+ENTRE :
+SOCIÉTÉ GÉNÉRALE VALEURS MOBILIÈRES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 juillet 2015, à Toronto (Ontario).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocats de l'appelante :
+Me Al Meghji
+Me Matias Milet
+Me Diana Yeung
+Avocats de l'intimée :
+Me Daniel Bourgeois
+Me Martin Beaudry
+ORDONNANCE
+Vu la requête présentée par l'intimée en vue de faire trancher, avant l'audience, les questions de droit suivantes en vertu du paragraphe 58(1) des Règles de la Cour canadienne de l'impôt (procédure générale) :
+[TRADUCTION]
+Lorsqu'un contribuable qui est un résident du Canada reçoit un revenu d'intérêts d'une obligation prenant naissance au Brésil qui est imposable au Brésil en vertu de l'article XI de la convention fiscale entre le Canada et le Brésil et qu'il reçoit un revenu imposable d'autres sources, est‑ce que, selon le paragraphe XXII(2) de la convention fiscale, le montant de l'impôt sur le revenu canadien « correspondant aux revenus imposables au Brésil » :
+(a) est égal à l'impôt sur le revenu canadien sur le montant dudit revenu d'intérêts qui est imposable au Brésil, ou qui est réputé l'être, soit un montant brut?
+(b) Si la réponse à la question (a) est « oui », quel est le critère approprié pour déterminer le montant de l'impôt sur le revenu canadien à payer sur le montant brut du revenu tiré du Brésil?
+(c) Si la réponse à la question (a) est « non », quel est le critère approprié pour déterminer les montants du contribuable qui est un résident du Canada qui devraient être inclus dans le revenu brut provenant de sources au Brésil, ou qui devraient être déduits de ce revenu brut?
+Vu les observations des avocats et les documents déposés;
+La requête est accueillie et les questions qui précèdent reçoivent les réponses suivantes :
+Question 1 : Non. Le montant de l'impôt sur le revenu canadien mentionné dans la deuxième phrase du paragraphe XXII(2) de la convention fiscale comme « correspondant aux revenus imposables au Brésil » est le montant réel de l'impôt sur le revenu canadien lié aux revenus imposables au Brésil, qui est calculé selon le revenu net provenant du Brésil.
+Question 2 : Sans objet.
+Question 3 : Le critère approprié pour déterminer quels montants du contribuable qui est un résident du Canada devraient être inclus dans le revenu d'intérêts brut provenant de sources au Brésil ou qui devraient en être déduits est celui indiqué au paragraphe 4(1) de la Loi de l'impôt sur le revenu.
+Les dépens de la requête sont laissés à la discrétion du juge du procès.
+Signé à Ottawa, Canada, ce 26e jour de mai 2016.
+« B. Paris »
+Le juge Paris
+Référence : 2016 CCI 131
+Date : 20160526
+Dossier : 2013-4035(IT)G
+ENTRE :
+SOCIÉTÉ GÉNÉRALE VALEURS MOBILIÈRES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Paris
+[1] L'intimée a présenté une requête en vertu du paragraphe 58(1) des Règles de la Cour canadienne de l'impôt (procédure générale) afin de faire trancher les questions de droit énoncées au paragraphe 4 qui suit. La Cour a décidé lors d'une audience antérieure qu'il convenait de répondre aux questions.
+[2] Les questions exigent une interprétation du paragraphe XXII(2) de la Convention entre le Gouvernement du Canada et le Gouvernement de la République fédérative du Brésil en vue d'éviter les doubles impositions en matière d'impôts sur le revenu de 1984 (la « convention fiscale »)[1].
+[3] Le paragraphe XXII(2) dispose que le Canada accorde un crédit pour l'impôt étranger payé ou réputé payé au Brésil pour les revenus imposables au Brésil et que le montant du crédit pour impôt étranger ne peut excéder « la fraction de l'impôt sur le revenu [...] correspondant aux revenus imposables au Brésil ». Le litige porte sur le sens qui doit être donné à cette limitation.
+[4] Le paragraphe XXII(2), dans sa totalité, se lit comme suit :
+2. Sauf en cas d'application des dispositions du paragraphe 4 ou 5, lorsqu'un résident du Canada reçoit des revenus qui, conformément aux dispositions de la présente Convention, sont imposables au Brésil, le Canada accorde sur l'impôt qu'il perçoit sur les revenus de ce résident, une déduction d'un montant égal à l'impôt sur le revenu payé au Brésil, y compris l'impôt sur le revenu tiré d'une entreprise et l'impôt sur le revenu ne provenant pas d'une entreprise. Toutefois, cette déduction ne peut excéder la fraction de l'impôt sur le revenu, calculé avant la déduction, correspondant aux revenus imposables au Brésil.
+[5] Les questions à trancher sont les suivantes :
+[TRADUCTION]
+Lorsqu'un contribuable qui est un résident du Canada reçoit un revenu d'intérêts d'une obligation prenant naissance au Brésil qui est imposable au Brésil en vertu de l'article XI de la convention fiscale entre le Canada et le Brésil et qu'il reçoit un revenu imposable d'autres sources, est-ce que, selon le paragraphe XXII(2) de la convention fiscale, le montant de l'impôt sur le revenu canadien « correspondant aux revenus imposables au Brésil » :
+(a) est égal à l'impôt sur le revenu canadien sur le montant dudit revenu d'intérêts qui est imposable au Brésil, ou qui est réputé l'être, soit un montant brut?
+(b) Si la réponse à la question (a) est « oui », quel est le critère approprié pour déterminer le montant de l'impôt sur le revenu canadien à payer sur le montant brut du revenu tiré du Brésil?
+(c) Si la réponse à la question (a) est « non », quel est le critère approprié pour déterminer les montants du contribuable qui est un résident du Canada qui devraient être inclus dans le revenu brut provenant de sources au Brésil, ou qui devraient être déduits de ce revenu brut?
+Les faits [6] Les faits dont les parties conviennent aux fins de la détermination en vertu de l'article 58 sont les suivants :
+1. Un contribuable qui est un résident du Canada gagne un revenu d'intérêts d'une obligation provenant du Brésil.
+2. Ce revenu d'intérêts d'une obligation est imposable par le Brésil en vertu de l'article XI de la convention fiscale.
+3. Le contribuable gagne des revenus d'autres sources qui sont imposables au Canada.
+4. En vertu du paragraphe XXII(3) de la convention fiscale, le contribuable est réputé avoir payé au Brésil un impôt égal à 20 % du montant brut du revenu d'intérêts de l'obligation provenant du Brésil.
+Les thèses des parties [7] L'intimée soutient que le crédit pour impôt étranger maximal dont peut se prévaloir le contribuable en vertu du paragraphe XXII(2) de la convention fiscale est égal à l'impôt canadien réellement payable sur le revenu d'intérêts de l'obligation provenant du Brésil, ce qui doit tenir compte des dépenses applicables engagées par le contribuable pour gagner ce revenu. L'intimée affirme que la déduction des dépenses applicables est implicite dans la détermination de l'impôt sur le revenu du Canada.
+[8] L'appelante fait valoir que le crédit maximal pour impôt étranger que le Canada doit accorder en vertu du paragraphe XXII(2) de la convention fiscale est égal au taux d'imposition canadien multiplié par le montant brut de l'intérêt de l'obligation gagné au Brésil, sans tenir compte des dépenses engagées pour gagner le revenu d'intérêts.
+L'interprétation des conventions fiscales [9] Le juge Iacobucci, s'exprimant au nom de la Cour suprême dans l'arrêt Crown Forest Industries Ltd. c. Canada[2], a écrit que l'interprétation d'un traité visait d'abord et avant tout :
+[...] à trouver le sens des termes en question. Il convient donc de considérer le langage utilisé ainsi que l'intention des parties. [...]
+[10] Cette décision fait écho à la règle générale pour l'interprétation des traités énoncée au paragraphe 31(1) de la Convention de Vienne sur le droit des traités[3] (la « Convention de Vienne »), dont le Canada est signataire. Cette disposition se lit comme suit :
+31 1. Un traité doit être interprété de bonne foi suivant le sens ordinaire à attribuer aux termes du traité dans leur contexte et à la lumière de son objet et de son but.
+[11] On trouve d'autres indications sur l'interprétation des conventions fiscales conclues par le Canada dans la Loi sur l'interprétation des conventions en matière d'impôts sur le revenu[4] (la « LICMIR »). Plus précisément, l'article 3 de la LICMIR établit que les expressions non définies dans une convention fiscale ont le sens qui leur est donné pour l'application de la Loi de l'impôt sur le revenu[5], sauf indication contraire du contexte. Cette disposition se lit comme suit :
+3. Par dérogation à toute convention ou à la loi lui donnant effet au Canada, le droit au Canada est tel que les expressions appartenant aux catégories ci‑dessous s'entendent, sauf indication contraire du contexte, au sens qu'elles ont pour l'application de la Loi de l'impôt sur le revenu compte tenu de ses modifications, et non au sens qu'elles avaient pour cette application à la date de la conclusion de la convention ou de sa prise d'effet au Canada si, depuis lors, leur sens pour la même application a changé. Les catégories en question sont :
+a) les expressions non définies dans la convention;
+b) les expressions non définies exhaustivement dans la convention;
+c) les expressions à définir d'après les lois fédérales.
+[12] De façon semblable à l'article 3 de la LICMIR, le paragraphe III(2) de la convention fiscale prévoit que :
+2. Pour l'application de la présente Convention par un État contractant, toute expression qui n'est pas autrement définie a le sens que lui attribue le droit de cet État contractant concernant les impôts qui font l'objet de la présente Convention, à moins que le contexte n'exige une interprétation différente.
+Analyse
+[13] En suivant l'orientation de la Cour suprême dans l'arrêt Crown Forest et le paragraphe 31(1) de la Convention de Vienne, je vais examiner le sens ordinaire du paragraphe XXII(2) de la convention fiscale, son contexte et l'intention des auteurs, afin de déterminer le sens de l'expression « la fraction de l'impôt sur le revenu [...] correspondant aux revenus imposables au Brésil ».
+Le texte [14] La première phrase du paragraphe XXII(2) est claire et les parties n'en contestent pas le sens. Elle prévoit un crédit pour impôt étranger au Canada pour l'impôt sur le revenu payé au Brésil. La deuxième phrase du paragraphe XXII(2) fixe la limite supérieure du crédit. Elle se lit comme suit :
+Toutefois, cette déduction ne peut excéder la fraction de l'impôt sur le revenu, calculé avant la déduction, correspondant aux revenus imposables au Brésil.
+[15] Les parties conviennent que le membre de phrase « l'impôt sur le revenu, calculé avant la déduction » de la deuxième phrase du paragraphe XXII(2) s'entend de l'impôt sur le revenu canadien du contribuable qui est calculé avant que le crédit pour impôt étranger ne soit pris en compte (l'« impôt avant crédit »).
+[16] Ensuite, il est clair que l'expression « revenus imposables au Brésil » s'entend simplement du revenu que le Brésil a le droit d'imposer en vertu de la convention fiscale. Dans la situation de fait hypothétique en l'espèce, le Brésil peut imposer le montant brut des revenus d'intérêts d'obligations[6].
+[17] Les parties ne sont cependant pas d'accord sur le sens du membre de phrase « la fraction de l'impôt sur le revenu [...] correspondant aux », lequel établit le plafond du crédit pour impôt étranger que le Canada accordera en vertu du paragraphe XXII(2).
+[18] L'appelante soutient que le mot « appropriate » (« correspondant ») dans la version anglaise de cette expression signifie « specifically fitted or suitable, proper [to or for] »[7] (particulièrement adapté ou convenable, propre à) ou « especially suitable or compatible: fitting »[8] (particulièrement convenable ou compatible; adapté).
+[19] L'appelante soutient qu'en utilisant ces définitions, selon le sens ordinaire, la limite supérieure du crédit d'impôt au paragraphe XXII(2) est égale à l'impôt avant crédit qui est particulièrement adapté ou convenable au montant brut des revenus d'intérêts qui sont imposables au Brésil.
+[20] L'appelante continue en déclarant ce qui suit :
+[TRADUCTION]
+Dans le cas d'un contribuable qui est résident du Canada dont les seuls revenus provenant du Brésil sont des revenus d'intérêts (qui ne sont pas liés à un établissement stable du contribuable au Brésil) et qui a d'autres revenus d'entreprise de sources canadiennes, les revenus d'entreprise de sources canadiennes ne font pas partie des « revenus imposables au Brésil ». Il est contraire au principe du mécanisme de dire que le Brésil ne peut pas imposer ces revenus gagnés au Canada, mais qu'en appliquant la [limitation du paragraphe XXII(2)], une partie des autres revenus provenant d'entreprises au Canada ou de déductions découlant de l'exploitation d'entreprises au Canada doit être prise en compte dans la détermination du revenu que le Brésil peut imposer.
+L'appelante affirme également que :
+[TRADUCTION]
+[...] le montant de l'impôt canadien qui correspond aux revenus d'intérêts bruts provenant du Brésil est, selon le sens ordinaire des termes utilisés au paragraphe XXII(2), le taux d'imposition canadien multiplié par ledit montant d'intérêts d'obligations provenant du Brésil[9].
+[Non souligné dans l'original.]
+[21] L'intimée, pour sa part, fait valoir que le mot « correspondant » utilisé au paragraphe XXII(2) suppose un lien logique ou une ventilation entre l'impôt sur le revenu canadien payable par le contribuable sur le revenu d'obligations provenant du Brésil et l'impôt sur le revenu canadien total payé par le contribuable sur ses revenus mondiaux.
+[22] L'intimée souligne que le mot « correspondant » est défini ainsi dans Le Petit Robert[10] :
+CORRESPONDANT, ANTE,
+I. Adj. qui a un rapport avec qqch.; qui y correspond*. V. Relatif. Les éléments correspondants de deux séries, de deux systèmes.
+[23] Selon Le Petit Larousse illustré (2010)[11], « correspondant » signifie :
+1. CORRESPONDANT, E adj. Qui correspond à qcch., à qqn : qui est en relation de correspondance.
+[24] Le dictionnaire bilingue portugais‑anglais Noronha's Legal Dictionary (Portuguese‑English English‑Portuguese)[12] traduit simplement « correspondante » par l'adjectif anglais « correspondent » (« correspondant »).
+[25] L'intimée soutient que le paragraphe XXII(2) exige un lien logique ou une corrélation entre « la fraction de l'impôt sur le revenu » et les « revenus imposables au Brésil ».
+[26] À mon avis, le sens ordinaire du mot « correspondant » en l'espèce se rapproche davantage de la définition proposée par l'intimée et renvoie à une correspondance ou à un lien logique entre la partie de l'impôt canadien accordée en crédit et le revenu d'obligations provenant du Brésil. Cette interprétation est aussi appuyée par la définition du mot « appropriate » (« correspondant ») donnée dans le dictionnaire The New Shorter Oxford English Dictionary[13], qui comprend le sens « attached or belonging to » (« lié à ou appartenant à ») :
+[TRADUCTION]
+1. Lié à ou appartenant à, à titre de propriété, de qualité ou de droit; propre à, inhérent, typique; particulièrement approprié; correct, juste.
+[27] Il est important de tenir compte aussi des versions anglaise et portugaise du paragraphe XXII(2) de la convention fiscale aux fins de l'interprétation d'une expression précise qu'on y trouve. L'article 33 de la Convention de Vienne prévoit que lorsqu'un traité a été authentifié en deux ou plusieurs langues, son texte fait foi dans chacune de ces langues et les termes du traité sont présumés avoir le même sens dans les divers textes authentiques. L'article 33 se lit comme suit :
+33 1. Lorsqu'un traité a été authentifié en deux ou plusieurs langues, son texte fait foi dans chacune de ces langues, à moins que le traité ne dispose ou que les parties ne conviennent qu'en cas de divergence un texte déterminé l'emportera.
+2. Une version du traité dans une langue autre que l'une de celles dans lesquelles le texte a été authentifié ne sera considérée comme texte authentique que si le traité le prévoit ou si les parties en sont convenues.
+3. Les termes d'un traité sont présumés avoir le même sens dans les divers textes authentiques.
+4. Sauf le cas où un texte déterminé l'emporte conformément au paragraphe 1, lorsque la comparaison des textes authentiques fait apparaître une différence de sens que l'application des articles 31 et 32 ne permet pas d'éliminer, on adoptera le sens qui, compte tenu de l'objet et du but du traité, concilie le mieux ces textes.
+[28] En outre, un tribunal devrait, autant que possible, tenter de déterminer l'intention des auteurs de la convention fiscale en déterminant le sens commun des versions, puisque chaque version est l'expression de la même intention[14].
+[29] En l'espèce, je suis convaincu que le mot français « correspondant », le mot anglais « appropriate » et le mot portugais « correspondante » partagent le sens de « corrélation entre deux choses ».
+[30] À mon avis, ce sens est plus précis que [TRADUCTION] « particulièrement adapté, convenable » et est moins susceptible de déterminations fondées sur des considérations subjectives de ce qui pourrait être convenable ou adapté dans une situation particulière.
+[31] Je conviens donc avec l'intimée que l'utilisation du mot « correspondant » au paragraphe XXII(2) suppose une corrélation entre l'impôt sur le revenu canadien et le revenu provenant du Brésil et que « la fraction de l'impôt sur le revenu » dont il est fait mention est le montant qui correspond au revenu brésilien ou qui lui est lié.
+[32] Si l'on applique le sens ordinaire du mot « correspondant » au paragraphe XXII(2), il s'ensuit qu'il faut déterminer la partie de l'impôt sur le revenu canadien qui correspond au revenu brésilien ou qui lui est lié.
+[33] Le point de départ de la détermination selon le paragraphe XXII(2) est le calcul de l'impôt sur le revenu canadien que le contribuable doit payer avant que le crédit pour impôt étranger ne soit accordé. La prochaine étape est de déterminer quelle partie de l'impôt canadien, tel qu'il est calculé, correspond au revenu brésilien ou lui est lié. Ainsi, textuellement, le paragraphe XXII(2) prévoit que pour le crédit d'impôt, le montant de l'impôt sur le revenu qui correspond au revenu provenant du Brésil doit faire partie de l'impôt canadien qui serait payable par ailleurs par le contribuable avant l'application du crédit d'impôt.
+[34] Le calcul de l'impôt canadien correspondant au revenu brésilien est fait conformément à la Loi de l'impôt sur le revenu. En vertu de la Loi, les revenus d'intérêts, comme le revenu d'intérêts d'obligations hypothétique en l'espèce, sont imposés selon le revenu net, après déduction des dépenses engagées pour gagner ces intérêts. Par conséquent, une interprétation textuelle du membre de phrase « la fraction de l'impôt sur le revenu, calculé avant la déduction, correspondant aux revenus imposables au Brésil » amène à la conclusion que le montant du crédit pour impôt étranger est limité à l'impôt canadien réel que le contribuable aurait payé par ailleurs sur ses revenus provenant du Brésil, et que, selon la Loi de l'impôt sur le revenu, le montant est calculé sur le revenu net.
+[35] La prétention de l'appelante que le crédit maximal est calculé en multipliant simplement le taux d'imposition canadien par le montant brut des revenus d'intérêts d'obligations provenant du Brésil ne tient pas compte du fait que l'impôt canadien mentionné au paragraphe XXII(2) comme « la fraction de l'impôt sur le revenu, calculé avant la déduction » doit s'entendre de l'impôt calculé conformément à la Loi de l'impôt sur le revenu. Même si le Brésil impose le montant brut des revenus d'intérêts, l'impôt canadien est calculé sur le montant net des revenus d'intérêts. Ceci découle du sens ordinaire de l'expression « impôt sur le revenu » qui figure dans le membre de phrase « l'impôt sur le revenu, calculé avant la déduction » au paragraphe XXII(2) de la convention fiscale, qui renvoie à l'impôt sur le revenu canadien.
+[36] L'argument de l'appelante voulant que cette interprétation détermine le revenu que le Brésil peut imposer, obligeant d'une certaine façon le Brésil à accorder des déductions à l'égard d'activités commerciales non liées du contribuable au Canada, n'est pas fondé. Ce n'est que la déduction des dépenses dans le calcul de l'impôt sur le revenu canadien qui est touchée.
+Le contexte [37] L'appelante fait valoir que le contexte du paragraphe XXII(2) n'appuie pas une conclusion selon laquelle l'impôt sur le revenu canadien « correspondant » au montant brut du revenu d'intérêts provenant du Brésil est l'impôt sur le revenu canadien réellement payable, calculé après déduction des dépenses engagées pour gagner ce revenu.
+[38] L'appelante prétend que les auteurs de la convention fiscale ont fait le choix délibéré de traiter les intérêts en cause comme un revenu brut, sans aucune déduction pour les dépenses correspondantes.
+[39] Le paragraphe XI(2) de la convention fiscale autorise le Brésil à imposer le « montant brut des intérêts » reçus par une société à un taux qui ne doit pas excéder 15 % et, pour les besoins du paragraphe XXII(2), selon le paragraphe XXII(3), l'impôt brésilien est considéré comme ayant été perçu au taux de 20 % du « montant brut » des revenus d'intérêts. L'appelante compare cette disposition au paragraphe VII(3) de la convention fiscale, dans lequel il est indiqué que les bénéfices d'entreprise d'un résident canadien découlant d'un établissement stable au Brésil sont ceux après déduction des dépenses[15].
+[40] Cependant, à mon avis, ce n'est pas parce que la convention fiscale autorise le Brésil à imposer le montant brut de certains intérêts que les auteurs avaient aussi eu l'intention d'exiger, pour les besoins du paragraphe XXII(2), que l'impôt sur le revenu canadien sur les revenus provenant du Brésil soit aussi calculé sur le montant brut des revenus d'intérêts. En fait, il est difficile de concevoir que l'impôt sur le revenu canadien soit calculé de cette manière, puisqu'un tel mode de calcul contreviendrait aux règles établies dans la Loi de l'impôt sur le revenu pour la détermination du revenu. Comme le signale l'intimée, l'impôt sur le revenu canadien est fonction du revenu imposable, qui découle du montant total du revenu de différentes sources, comme le dispose l'article 3 de la Loi, après prise en compte de toutes les déductions permises.
+[41] Puisque la mention de « l'impôt sur le revenu » dans le membre de phrase « la fraction de l'impôt sur le revenu, calculé avant la déduction » du paragraphe XXII(2) renvoie à l'impôt sur le revenu canadien, les auteurs savaient sans doute que l'impôt sur le revenu canadien est calculé après déduction des dépenses applicables. Pour s'éloigner de cette notion de base du droit fiscal canadien, il aurait fallu un libellé clair.
+[42] L'appelante fait également valoir que la pratique générale du Canada en matière de négociation de conventions fiscales constitue un facteur contextuel pertinent dont il faut tenir compte pour déterminer le sens de la limite du crédit pour impôt étranger prévue par la convention fiscale. L'appelante signale que la convention fiscale est la seule convention fiscale du Canada à ne pas intégrer, par renvoi, les règles sur les crédits pour impôt étranger dans ses lois nationales, lesquelles comprennent les paragraphes 4(3), 20(11) et 20(12) et l'article 126 de la Loi de l'impôt sur le revenu. Dans toutes les autres conventions fiscales conclues par le Canada, le crédit pour impôt étranger que le Canada est tenu d'accorder est assujetti à ces dispositions nationales sur le crédit pour impôt étranger.
+[43] L'appelante dit qu'en l'absence d'une mention des lois nationales du Canada, la convention fiscale demande que les dépenses engagées au Canada ne soient pas attribuées aux revenus de sources étrangères aux fins du calcul du crédit d'impôt sur le revenu étranger brut. L'appelante affirme que cette conclusion s'appuie sur deux arrêts de la Cour suprême du Canada, Interprovincial Pipe Line Company c. M.R.N.[16] (« IPL1 »), rendu en 1959, et Interprovincial Pipe Line Company c. M.R.N.[17] (« IPL2 »), rendu en 1968.
+[44] Dans les arrêts IPL1 et IPL2, la contribuable (la même dans les deux cas) avait emprunté de l'argent au Canada et en avait utilisé une partie pour gagner des revenus d'intérêts de sources situées aux États‑Unis. Les intérêts étaient assujettis à une retenue fiscale de 15 % aux États‑Unis sur le montant brut du revenu. La question dans les deux cas était de savoir si la contribuable avait droit à un crédit pour impôt étranger en vertu du paragraphe 41(1) de la Loi (tel qu'il se lisait alors) sur la totalité des impôts américains payés sur le montant brut des revenus d'intérêts, sans déduction des dépenses d'emprunt faites au Canada pour gagner ce revenu. Le paragraphe 41(1) permettait à un contribuable qui est un résident du Canada de déduire de l'impôt exigible par ailleurs le moindre de a) l'impôt sur le revenu payé au gouvernement d'un pays étranger, b) la proportion de l'impôt correspondant au rapport entre le revenu du contribuable provenant de sources dans ce pays et le revenu du contribuable pour cette année.
+[45] Le ministre avait refusé les crédits au motif que la contribuable n'avait pas de revenu provenant des États‑Unis au sens du paragraphe 41(1) parce que les intérêts qu'elle avait payés sur les sommes empruntées pour gagner ces revenus étaient égaux ou supérieurs aux revenus d'intérêts gagnés.
+[46] Dans l'arrêt IPL1, la Cour suprême a accueilli l'appel de la contribuable au motif que le mot « revenu » au paragraphe 41(1) signifiait « recettes brutes » plutôt que « bénéfices ». La Cour a conclu que la déduction accordée en vertu de la Loi pour les intérêts s'appliquait à toutes les sources de revenus et ne pouvait pas être rattachée en partie à une source précise. Par conséquent, la Cour n'a pas considéré les intérêts payés par la contribuable comme étant liés au revenu de source américaine aux fins du calcul du crédit pour impôt étranger, de sorte que la contribuable n'était pas tenue de tenir compte des dépenses engagées pour gagner ce revenu.
+[47] En somme, la décision reposait sur le fait que la Loi de l'impôt sur le revenu, telle qu'elle se lisait alors, n'exigeait pas de calculer séparément le revenu de chaque source.
+[48] Après cette décision, la Loi a été modifiée afin d'indiquer, aux alinéas 139(1a) et 139(1b), que le revenu reçu par un contribuable de chaque source devait être calculé séparément et que les déductions, dans la mesure où elles pouvaient raisonnablement être considérées comme liées à une source précise, étaient réputées avoir été déduites dans le calcul du revenu provenant de cette source, et que toutes les déductions accordées dans le calcul du revenu d'un contribuable étaient « réputées applicables, en totalité ou en partie, à une source particulière ou à des sources situées dans un endroit particulier ». Ces règles se trouvent maintenant à l'article 4 de la Loi.
+[49] Dans l'arrêt IPL2, la contribuable contestait l'application de ces modifications aux années d'imposition postérieures. Dans cet arrêt, la Cour suprême a établi que les alinéas 139(1a) et 139(1b) exigeaient qu'une partie des frais d'emprunts totaux de la contribuable pour ces années soit attribuée aux revenus d'intérêts de sources américaines. Ceci avait fait en sorte que la contribuable n'avait plus de revenu de la source américaine pour les besoins du paragraphe 41(1) et que sa demande de crédit pour impôt étranger a été rejetée.
+[50] L'appelante en l'espèce fait valoir que puisqu'il n'existe aucune disposition expresse exigeant l'application de l'article 4 de la Loi de l'impôt sur le revenu à la convention fiscale et qu'il n'existe aucune disposition analogue dans la convention fiscale, il faut supposer que le crédit pour impôt étranger est calculé sans attribution des dépenses au montant brut des revenus d'intérêts, comme cela avait été conclu dans l'arrêt IPL1.
+[51] À mon avis, les arrêts IPL1 et IPL2 n'aident pas l'appelante. L'arrêt IPL2 étaye l'affirmation selon laquelle le revenu reçu par un contribuable de chaque source est calculé séparément en vertu de la Loi, en déduisant toute déduction applicable, et que le revenu brut provenant d'une source précise doit être réduit de toute déduction pouvant être raisonnablement considérée comme applicable à cette source. L'impôt est ensuite calculé sur ce montant net plutôt que sur le montant brut du revenu. Bien que la convention fiscale n'indique pas explicitement que l'impôt canadien doive être calculé de cette manière pour les besoins du paragraphe XXII(2), elle le fait de manière implicite dans l'expression « l'impôt sur le revenu, calculé avant la déduction » qui figure au paragraphe XXII(2).
+[52] Puisque le paragraphe III(1) de la convention fiscale indique que le terme « impôt » désigne, « suivant le contexte, l'impôt brésilien ou l'impôt canadien », la mention de « l'impôt sur le revenu » au paragraphe XXII(2) doit être comprise comme se rapportant à « l'impôt sur le revenu canadien », important de ce fait les règles de calcul de l'impôt énoncées à la partie I de la Loi de l'impôt sur le revenu. Ces règles comprennent celles énoncées à l'article 4.
+[53] Cette conclusion n'est pas infirmée dans la convention fiscale par le choix de traiter les intérêts comme ceux en l'espèce comme un revenu brut. Bien que la convention fiscale donne au Brésil le droit d'imposer le montant brut des intérêts, rien dans la convention fiscale ne donne à penser que le Canada est tenu de faire de même.
+[54] Par conséquent, je conclus que l'analyse contextuelle du paragraphe XXII(2) soutient également la position de l'intimée selon laquelle la limite du crédit pour impôt étranger au paragraphe XXII(2) est égale au montant réel de l'impôt canadien payable sur le revenu provenant du Brésil, après les déductions applicables.
+L'objet [55] Il n'y a aucun doute que la convention fiscale dans son ensemble a été conclue pour l'objet exprimé dans son préambule : « éviter les doubles impositions en matière d'impôts sur le revenu ». L'intertitre de l'article XXII, « Disposition pour éliminer les doubles impositions », répète cet objet.
+[56] Comme le signale l'appelante, l'article XXII contient, au paragraphe (3), une disposition d'allégement fiscal, qui est aussi pertinente dans la détermination de l'objet du paragraphe XXII(2).
+[57] L'allégement fiscal prévoit [TRADUCTION] « des crédits d'impôt [par les pays industrialisés] pour les revenus provenant de pays en développement qui, en vertu des lois locales, ne sont pas assujettis au taux d'imposition habituel, en raison de mesures incitatives adoptées par ce pays »[18]. Le pays industrialisé accorde un crédit d'impôt non seulement pour l'impôt réellement payé, mais aussi pour l'impôt auquel renonce le pays en développement.
+[58] L'auteur Deborah Toaze décrit ainsi l'allégement fiscal :
+[TRADUCTION]
+L'allégement fiscal est un mécanisme par lequel un pays industrialisé, par exemple le Canada, reconnaît et protège les avantages des mesures fiscales incitatives accordées aux investisseurs étrangers par des pays en développement. Les pays en développement tentent souvent d'attirer les investisseurs étrangers par des mesures incitatives comme des taux d'imposition réduits ou, dans certains cas, l'exonération de certains types de revenus de l'impôt. Afin de protéger les revenus d'investissements qui en résultent pour le pays en développement, le pays de résidence de l'investisseur (c.‑à‑d. le pays industrialisé) « allège » l'impôt qu'il prélèverait normalement sur le revenu non imposé ou imposé à un taux inférieur gagné par son résident de l'étranger en accordant un crédit pour impôt étranger égal ou possiblement supérieur à l'impôt qui aurait par ailleurs été exigible dans le pays en développement. La justification est que si ce crédit d'impôt « fictif » n'était pas accordé, l'effet de la mesure incitative mise en place par le pays en développement serait largement sinon totalement annulé[19].
+[59] Il apparaît donc clairement que le but de l'allégement fiscal est de fournir une forme d'aide économique aux pays en développement.
+[60] L'allégement fiscal au paragraphe XXII(3) de la convention fiscale s'applique en réputant que l'impôt brésilien est toujours payé au taux de 20 % du revenu d'intérêts brut provenant du Brésil, et le Canada accepte d'accorder un crédit pour impôt étranger calculé en partie sur le fondement de l'impôt réputé avoir été payé par le contribuable qui est un résident du Canada, sans égard au fait que l'impôt brésilien ait été réellement payé ou non.
+[61] Les dispositions d'allégement fiscal de la convention fiscale sont généreuses par rapport à la norme ordinaire des conventions fiscales du Canada. Le taux auquel l'impôt est considéré avoir été perçu, soit 20 %, excède le taux d'imposition maximal que le Brésil applique aux intérêts non liés à un établissement stable au Brésil qui sont payés à une société qui est un résident du Canada, qui est fixé à 15 % en vertu du paragraphe XI(2) de la convention fiscale.
+[62] Bien que la disposition d'allégement fiscal du paragraphe XXII(3) de la convention fiscale ait pour effet de protéger les mesures fiscales incitatives adoptées par le Brésil, je suis en désaccord avec l'affirmation de l'appelante selon laquelle le Canada et le Brésil avaient l'intention que cette disposition s'applique [TRADUCTION] « d'une manière aussi vaste que possible, avec pour résultat d'encourager le plus possible le prêt de fonds par des entreprises canadiennes au Brésil ». Il m'apparaît plutôt que la disposition d'allégement fiscal visait à éviter d'annuler les mesures fiscales incitatives offertes par le Brésil sur les revenus d'intérêts, un résultat atteint lorsque le Canada a accepté de renoncer à tout impôt canadien sur les revenus d'intérêts provenant du Brésil gagnés par un résident du Canada lorsque le paragraphe XXII(3) s'applique. Il semble peu probable que le Canada ou le Brésil ait souhaité que la disposition d'allégement fiscal permette de mettre à l'abri de l'impôt canadien non seulement les revenus d'intérêts provenant du Brésil, mais aussi les revenus d'autres sources sans lien avec le Brésil. C'est l'effet qu'aurait l'interprétation donnée par l'appelante dans les cas où le contribuable résident du Canada aurait engagé des dépenses liées aux revenus d'intérêts provenant du Brésil. Ceci va au‑delà de l'allégement fiscal et reviendrait à une mesure additionnelle et indépendante d'incitation à investir au Brésil de la part du Canada. L'appelante n'a pas réussi à démontrer que les auteurs de la convention fiscale avaient l'intention que le crédit pour impôt étranger visé au paragraphe XXII(2) ait un tel effet. Encore là, il faudrait un libellé clair pour créer une mesure incitative de la nature proposée par l'appelante, et ce libellé n'est pas présent en l'espèce.
+Le modèle de convention fiscale de l'OCDE et les commentaires
+[63] L'intimée fait appel au Modèle de convention de double imposition concernant le revenu et la fortune de 1977 de l'OCDE (le « modèle de l'OCDE de 1977 »)[20] et aux commentaires sur l'article 23B du modèle de l'OCDE de 1977 pour soutenir sa thèse que l'objet du paragraphe XXII(2) de la convention fiscale était de fournir un crédit égal au montant réel de l'impôt canadien payé plutôt que ce qu'elle appelle un crédit « complet » pour la totalité de l'impôt brésilien payé ou réputé payé sur le revenu provenant du Brésil.
+[64] En guise de point préliminaire, l'appelante fait valoir qu'il n'est pas approprié de s'appuyer sur le modèle de l'OCDE de 1977 et sur les commentaires, puisque la Convention de Vienne, à l'article 32, indique que le recours à des « moyens complémentaires d'interprétation » n'est autorisé que dans le but de confirmer le sens des termes en question, déterminé par l'analyse textuelle, contextuelle et téléologique, ou dans le but d'établir le sens lorsque cette analyse « laisse le sens ambigu ou obscur » ou « conduit à un résultat qui est manifestement absurde ou déraisonnable ». En second lieu, l'appelante indique que puisque le Brésil n'était pas membre de l'OCDE au moment de la conclusion de la convention fiscale ou avant cette date, on peut se demander si le Brésil et le Canada avaient pu avoir eu l'intention que la convention fiscale soit éclairée par l'interprétation du modèle de l'OCDE de 1977.
+[65] Comme l'a cependant souligné l'intimée, la Cour suprême, dans l'arrêt Crown Forest, a conclu que les modèles de convention reconnus et les commentaires officiels sur ceux‑ci pouvaient être utilisés sans qu'il soit nécessaire de trouver une ambiguïté dans le texte de la convention fiscale. Au paragraphe 44 de cet arrêt, la Cour a écrit :
+44 Manifestement, l'objectif de la Convention revêt une grande importance quant à la façon d'interpréter ses dispositions. Je conviens avec l'intervenant le gouvernement américain que, pour dégager ces objectifs et intentions, un tribunal peut recourir à des documents extrinsèques qui font partie du contexte juridique (notamment les conventions modèles acceptées et les commentaires officiels portant sur celles‑ci) sans qu'il soit nécessaire d'avoir préalablement décelé une ambiguïté.
+[66] Au paragraphe 55 de l'arrêt Crown Forest, la Cour suprême poursuit en faisant observer que le modèle de l'OCDE de 1977 est « reconnu mondialement comme un document de référence fondamental aux fins de la négociation, de l'application et de l'interprétation de conventions fiscales bilatérales ou multilatérales » et qu'il « est fort convaincant pour ce qui est de délimiter les paramètres » de la convention fiscale dont il était question dans cet arrêt.
+[67] De plus, et bien que le Brésil ne soit pas membre de l'OCDE, les ressemblances entre le libellé du paragraphe XXII(3) de la convention fiscale et celui de l'article 23B du modèle de l'OCDE de 1977 démontrent que le modèle de l'OCDE de 1977 a été pris en compte dans la rédaction de la convention fiscale.
+[68] Les parties pertinentes de l'article 23B du modèle de l'OCDE de 1977, en français et en anglais, se lisent comme suit :
+Article 23B
+MÉTHODE D'IMPUTATION
+1. Lorsqu'un résident d'un État contractant reçoit des revenus [...] qui, conformément aux dispositions de la présente Convention, sont imposables dans l'autre État contractant, le premier État accorde :
+a) sur l'impôt qu'il perçoit sur les revenus de ce résident, une déduction d'un montant égal à l'impôt sur le revenu payé dans cet autre État;
+[...]
+[...] cette déduction ne peut toutefois excéder la fraction de l'impôt sur le revenu [...], calculé avant déduction, correspondant selon le cas aux revenus [...] imposables dans cet autre État.
+CREDIT METHOD
+1. Where a resident of a Contracting State derives income . . . which, in accordance with the provisions of this Convention, may be taxed in the other Contracting state, the first-mentioned State shall allow:
+a) as a deduction from the tax on the income of that resident, an amount equal to the income tax paid in that other State;
+. . .
+Such deduction . . . shall not, however, exceed that part of the income tax . . ., as computed before the deduction is given, which is attributable, as the case may be, to the income . . . which may be taxed in that other State.
+. . .
+[69] Comme je l'ai déjà souligné, le paragraphe XXII(2) de la convention fiscale utilise un libellé très semblable à celui utilisé à l'article 23B du modèle de l'OCDE de 1977. La limite imposée au crédit pour impôt sur le revenu à l'article 23B utilise l'expression « la fraction de l'impôt sur le revenu [...] correspondant [...] aux revenus [...] imposables dans cet autre État ».
+[70] Je conviens avec l'intimée que le mot anglais « attributable » (« correspondant ») utilisé dans la version anglaise de l'article 23B est équivalent au mot « appropriate » (« correspondant ») utilisé dans le libellé anglais du paragraphe XXII(2) de la convention fiscale. Le dictionnaire Shorter Oxford Dictionary[21] donne au mot « attribute » (« correspondre ») la définition [TRADUCTION] « considérer comme appartenant ou approprié à ». La version française de l'article 23B du modèle de l'OCDE de 1977 utilise le mot « correspondant », soit le mot utilisé dans la version française du paragraphe XXII(2) de la convention fiscale.
+[71] À mon avis, il est raisonnable de supposer que les deux parties connaissaient l'origine de ce libellé ainsi que les commentaires sur celui‑ci. Je conclus par conséquent qu'il est approprié de tenir compte en l'espèce du modèle de l'OCDE de 1977 et des commentaires sur celui‑ci.
+[72] L'article 23B du modèle de l'OCDE de 1977 applique ce que les commentaires appellent la méthode de « l'imputation ordinaire » pour prévenir la double imposition à l'égard des revenus qu'un contribuable qui est résident d'un État reçoit de l'autre État contractant. Selon le paragraphe 57 des commentaires, selon la méthode de l'imputation ordinaire, l'État de la résidence déduit de l'impôt qu'il perçoit un montant égal à l'impôt payé dans l'autre État, mais la somme ainsi déduite est limitée à la fraction correspondante de son propre impôt. Au paragraphe 63 des commentaires, il est indiqué que la déduction maximale est « normalement calculée comme l'impôt sur le revenu net, c'est‑à‑dire sur le revenu de [l'État de la source] moins les déductions autorisées ». Dans son intégralité, ce paragraphe se lit comme suit :
+La déduction maximum est normalement calculée comme l'impôt sur le revenu net, c'est-à-dire sur le revenu de l'État [de la source] moins les déductions autorisées (spécifiques ou proportionnelles) liées à de tels revenus (cf. paragraphe 40 ci‑dessus). Pour cette raison, la déduction maximum dans bien des cas peut être inférieure à l'impôt effectivement acquitté dans l'État [de la source]. Ceci peut être vrai en particulier dans le cas où, par exemple, un résident de l'État [de la résidence] percevant des intérêts de l'État [de la source] a emprunté des fonds d'une tierce personne pour financer le prêt produisant les intérêts. Comme les intérêts dus sur de tels fonds empruntés peuvent être déduits des intérêts provenant de l'État [de la source], le montant du revenu net soumis à l'impôt dans l'État [de la résidence] peut être très bas, ou bien il peut même ne pas y avoir de revenu net. [...]
+[73] L'appelante fait valoir que le paragraphe 63 des commentaires ne prétend pas imposer une règle d'application générale; l'utilisation des mots « est normalement calculée comme l'impôt sur le revenu net » laisse entendre qu'il y a des exceptions. Cependant, le commentaire ne mentionne aucune exception et rien n'indique que la méthode proposée par l'appelante pour calculer la limite — c'est‑à‑dire le taux d'imposition canadien multiplié par le montant brut des revenus d'intérêts provenant du Brésil — soit l'une de ces exceptions.
+[74] Tout bien considéré, je conclus que l'interprétation faite par l'intimée de la limite applicable au crédit pour impôt étranger en vertu du paragraphe XXII(2) est étayée par les commentaires.
+Conclusion : première question [75] Selon l'analyse textuelle, contextuelle et téléologique, il m'apparaît que la limite décrite au paragraphe XXII(2) restreint le montant du crédit pour impôt étranger que le Canada est tenu d'accorder à un montant égal à l'impôt canadien réel, qui est calculé sur le montant net du revenu d'intérêts provenant du Brésil. Par conséquent, la réponse à la première question est « non », et il n'est pas nécessaire de répondre à la deuxième question.
+Troisième question [76] La troisième question consiste à savoir quel est le critère approprié pour déterminer les montants que le contribuable qui est un résident du Canada, dans la situation de fait hypothétique, devrait inclure dans son revenu brut provenant de sources au Brésil ou devrait en déduire pour déterminer l'impôt sur le revenu canadien correspondant au revenu d'intérêts d'obligations du Brésil.
+[77] À l'audience, l'appelante n'a pas présenté d'observations sur la troisième question et a affirmé que les observations devraient être reportées jusqu'au procès. L'appelante a interprété la déclaration faite par l'intimée dans ses observations écrites selon laquelle il valait mieux laisser les questions de fait découlant de l'appel de l'appelante au procès comme étant une acceptation implicite que la détermination de la question devrait être reportée jusqu'à l'audition de l'appel.
+[78] L'intimée soutient que l'appelante ne peut demander que la détermination de la troisième question soit reportée, parce que l'appelante a consenti à la détermination des trois questions et que la Cour a ordonné qu'une détermination soit faite pour les trois questions.
+[79] Je suis d'accord avec l'intimée. Les observations écrites de l'intimée ne peuvent pas être interprétées comme une demande de report au procès de la détermination de la troisième question, puisque l'intimée déclare aussi dans ces observations que [TRADUCTION] « les questions soulevées dans la présente requête portent sur un scénario de fait hypothétique qui fournit le contexte nécessaire à l'interprétation de la convention fiscale »[22].
+[80] Par conséquent, je vais répondre à la troisième question sur le fondement de la situation de fait hypothétique acceptée par les parties.
+[81] La Cour a conclu que le montant de l'impôt sur le revenu canadien mentionné dans la limite prévue au paragraphe XXII(2) est le montant réel de l'impôt sur le revenu canadien payé sur le montant imposable au Brésil, soit l'impôt payé sur le revenu net provenant du Brésil. On demande maintenant à la Cour de déterminer comment ce revenu net devrait être calculé.
+[82] Le point de départ pour la détermination du crédit maximal est l'impôt sur le revenu canadien calculé avant que le crédit soit accordé.
+[83] L'intimée fait valoir que puisque les termes « impôt canadien » et « impôt sur le revenu canadien » ne sont pas définis dans la convention fiscale, ces termes ont le sens qui leur est donné pour les besoins de la Loi de l'impôt sur le revenu, sauf indication contraire du contexte, comme le prévoit l'article 3 de la LICMIR.
+[84] Comme il a été mentionné plus tôt dans les présents motifs, la convention fiscale elle‑même établit, au paragraphe III(2), que « toute expression qui n'est pas autrement définie a le sens que lui attribue le droit de cet État contractant concernant les impôts qui font l'objet de la présente Convention, à moins que le contexte n'exige une interprétation différente ».
+[85] L'appelante, dans ses observations sur la première question, a affirmé qu'il n'était pas nécessaire de recourir aux règles de calcul de la Loi de l'impôt sur le revenu pour clarifier le sens de l'impôt sur le revenu canadien calculé avant l'application du crédit.
+[86] Cependant, le paragraphe II(2) de la convention fiscale dispose que les impôts actuels auxquels la convention fiscale s'applique en ce qui concerne le Canada sont « les impôts sur le revenu qui sont perçus par le Gouvernement du Canada ». Ces impôts sont les impôts perçus en vertu de la Loi de l'impôt sur le revenu. Je ne suis pas convaincu que le contexte nécessite une autre interprétation de l'expression « impôt sur le revenu » au paragraphe XXII(2). En outre, comme l'a signalé le juge en chef Rip dans le jugement Black c. La Reine[23], l'existence d'une convention fiscale n'empêche pas l'application des dispositions de la Loi lorsqu'il n'y a pas d'incompatibilité entre ces dispositions et les dispositions d'une convention fiscale. Je conclus donc que les auteurs de la convention fiscale avaient l'intention que les revenus canadiens soient déterminés conformément aux lois nationales du Canada.
+[87] Par conséquent, je suis d'accord avec les observations de l'intimée selon lesquelles les auteurs de la convention fiscale ont laissé au Canada la responsabilité de déterminer en vertu de ses lois nationales comment calculer l'impôt avant le crédit. Ce calcul comprend une détermination des dépenses qui sont admissibles à titre de déductions pour déterminer le revenu net sur lequel l'impôt est exigible.
+[88] Le critère applicable pour déterminer quelles dépenses se rapportent au revenu d'une source précise est indiqué au paragraphe 4(1) de la Loi de l'impôt sur le revenu, qui se lit comme suit :
+4(1) Les règles suivantes s'appliquent à la présente loi :
+a) le revenu ou la perte d'un contribuable pour une année d'imposition provenant d'une charge, d'un emploi, d'une entreprise, de biens ou d'une autre source, ou de sources situées dans un endroit déterminé, s'entend du revenu ou de la perte, selon le cas, du contribuable, calculés conformément à la présente loi, à supposer que ce contribuable n'ait eu, durant l'année d'imposition, aucun revenu ni perte, sauf ce qui provenait de cette source, ni aucun revenu ou perte, sauf ce qui provenait de ces sources, selon le cas, et qu'il n'ait eu droit à aucune déduction dans le calcul de son revenu pour l'année d'imposition à l'exception des déductions qu'il est raisonnable de considérer comme entièrement applicables à cette source ou à ces sources, selon le cas, et à l'exception de la partie de toutes autres déductions qu'il est raisonnable de considérer comme applicable à cette source ou à ces sources;
+[...]
+[89] Puisque les revenus tirés du Brésil par le contribuable résident du Canada dans la situation de fait hypothétique proviennent d'une source en un lieu déterminé, je conviens avec l'intimée que le contribuable est tenu de calculer les revenus de cette source de la manière prévue au paragraphe 4(1) de la Loi de l'impôt sur le revenu, premièrement selon l'hypothèse que le contribuable n'ait eu aucun revenu ou perte, sauf ce qui provenait de cette source au Brésil, et deuxièmement selon l'hypothèse que le contribuable n'ait eu droit à aucune déduction dans le calcul de son revenu à l'exception des déductions qu'il est raisonnable de considérer comme entièrement applicables à cette source et à l'exception de la partie de toutes autres déductions qu'il est raisonnable de considérer comme applicable à cette source. La question de savoir quelles déductions il serait raisonnable de considérer comme entièrement ou partiellement applicables à cette source est bien évidemment une question de fait.
+Conclusion [90] Pour tous ces motifs, les questions posées par l'intimée reçoivent les réponses suivantes :
+[91] Question 1 : Non. Le montant de l'impôt sur le revenu canadien mentionné dans la deuxième phrase du paragraphe XXII(2) de la convention fiscale comme « correspondant aux revenus imposables au Brésil » est le montant réel de l'impôt sur le revenu canadien lié aux revenus imposables au Brésil, qui est calculé selon le revenu net provenant du Brésil.
+[92] Question 2 : Sans objet.
+[93] Question 3 : Le critère approprié pour déterminer quels montants du contribuable qui est un résident du Canada devraient être inclus dans le revenu d'intérêts brut provenant de sources au Brésil ou qui devraient en être déduits est celui indiqué au paragraphe 4(1) de la Loi de l'impôt sur le revenu.
+[94] Les dépens de la requête sont laissés à la discrétion du juge du procès.
+Signé à Ottawa, Canada, ce 26e jour de mai 2016.
+« B. Paris »
+Le juge Paris
+RÉFÉRENCE :
+2016 CCI 131
+No DU DOSSIER DE LA COUR :
+2013-4035(IT)G
+INTITULÉ :
+SOCIÉTÉ GÉNÉRALE VALEURS MOBILIÈRES INC. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 2 juillet 2015
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge B. Paris
+DATE DE L'ORDONNANCE :
+Le 26 mai 2016
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Al Meghji
+Me Matias Milet
+Me Diana Yeung
+Avocats de l'intimée :
+Me Daniel Bourgeois
+Me Martin Beaudry
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Al Meghji
+Me Matias Milet
+Me Diana Yeung
+Cabinet :
+Osler, Hoskin & Harcourt S.E.N.C.R.L./s.r.l.
+Toronto (Ontario)
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 4 juin 1984, R.T.C. 1985/11 (entrée en vigueur le 23 décembre 1985), et Loi de 1984 sur la Convention Canada‑Brésil en matière d'impôts sur le revenu, L.C. 1985, ch. 23, partie IV.
+[2] [1995] 2 R.C.S. 802, au paragraphe 22.
+[3] 23 mai 1969, R.T.C. 1980/37.
+[4] L.R.C. (1985), ch. I‑4.
+[5] L.R.C. (1985), ch. 1 (5e suppl.).
+[6] Bien que ce ne soit pas précisé dans la situation de fait hypothétique, on doit supposer que le contribuable est une société, puisque le paragraphe XI(2) de la convention fiscale autorise le Brésil à imposer le montant brut des revenus d'intérêts provenant du Brésil payés à une société qui est résidente du Canada. Les dispositions pertinentes de l'article XI se lisent comme suit :
+1. Les intérêts provenant d'un État contractant et payés à un résident de l'autre État contractant sont imposables dans cet autre État.
+2. Toutefois, ces intérêts sont aussi imposables dans l'État contractant d'où ils proviennent et selon la législation de cet État, mais si la personne qui reçoit les intérêts est une société qui en est le bénéficiaire effectif, l'impôt ainsi établi ne peut excéder :
+a) 10 pour cent du montant brut des intérêts provenant du Brésil et payés à un résident du Canada en raison d'un prêt garanti ou assuré pour au moins 7 ans par la Société pour l'expansion des exportations du Canada;
+b) 15 pour cent dans tous les autres cas.
+[7] The Shorter Oxford English Dictionary on Historical Principles, 3e éd., vol. 1 (Oxford, Clarendon Press, 1955).
+[8] Merriam‑Webster's Collegiate Dictionary, 11e éd.
+[9] Observations écrites de l'appelante, aux paragraphes 31 et 32.
+[10] Paris, Dictionnaires Le Robert, 1990.
+[11] Paris, Larousse, 2010.
+[12] 4e éd., Observador Legal Editora Ltda., 2000.
+[13] The Shorter Oxford English Dictionary on Historical Principles, vol. 1 (Oxford, Clarendon Press, 1993).
+[14] Recueil de jurisprudence et de doctrine de l'intimée, onglet 50, Michel Bastarache, The Law of Bilingual Interpretation, Lexis Nexis, 2009, page 15.
+[15] Le paragraphe VII(3) se lit comme suit :
+3. Dans le calcul des bénéfices d'un établissement stable, sont imputées les dépenses déductibles qui sont exposées aux fins poursuivies par cet établissement stable, y compris les dépenses de direction et les frais généraux d'administration ainsi exposés.
+[16] [1959] R.C.S. 763.
+[17] [1968] R.C.S. 498.
+[18] Ward, David A., « Canada's Tax Treaties », R. fisc. can. (1995), vol. 43, no 5, p. 1719, à la p. 1748.
+[19] Toaze, Deborah, « Tax Sparing: Good Intentions, Unintended Results », R. fisc. can. (2001), vol. 49, no 4, p. 879, aux pp. 880 et 881.
+[20] Organisation de coopération et de développement économiques, Comité des affaires fiscales de l'OCDE, Paris, OCDE, 1977.
+[21] Op. cit., note 6.
+[22] Observations écrites de l'intimée, aux paragraphes 11 et 12.
+[23] 2014 CCI 12, au paragraphe 53.

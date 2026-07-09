@@ -1,0 +1,108 @@
+Title: Martinello v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29950/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-432-29950-martinello-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-08-23
+
+# Martinello v. The Queen
+
+- Citation: 2010 TCC 432
+- Decision date: 2010-08-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6466, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martinello v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-08-23
+Neutral citation
+2010 TCC 432
+File numbers
+2008-3653(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3653(IT)I
+BETWEEN:
+MARQUITA MARTINELLO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on July 14, 2010, at Yarmouth, Nova Scotia.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the appellant:
+Charles Martinello
+Counsel for the respondent:
+Melanie Petrunia
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act with respect to the appellant’s 2004 and 2005 taxation year are allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 23rd day of August 2010.
+"Patrick Boyle"
+Boyle J.
+Citation: 2010 TCC 432
+Date: 20100823
+Docket: 2008-3653(IT)I
+BETWEEN:
+MARQUITA MARTINELLO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The taxpayer, Marquita Martinello, owns three modest 20’x22’ rectangular wooden 1½ storey Nova Scotia homes. She has owned them and rented them out for many years. With the exception of 2005, they have always generated positive net rental income. The issue in this case is whether the costs of certain repairs in 2005 to one of the homes damaged by tenants and by a hurricane strength storm and related water and moisture damage were deductible as current expenses or were required to be capitalized. There is no dispute as to the costs of the work done.
+[2] The homes are similar. The one in question was built in the 1970s and purchased by the taxpayer in the 1980s for $20,000 to $25,000. It does not have a foundation beyond concrete footings and granite blocks upon which the floor sills and joists sit.
+[3] The taxpayer’s husband was in the building business in his working years and had generally been responsible for maintaining the properties over the years. Mr. Martinello was the taxpayer’s only witness and acted as her agent with some assistance from his daughter. Mr. Martinello’s testimony was complete and forthright, well‑organized and clearly presented. I accept all of his testimony without hesitation.
+[4] In 1996 the Martinellos took out a mortgage of approximately $15,000 to make improvements to the pre‑rental homes. The windows and doors were replaced and the plumbing and wiring were updated. These costs were capitalized by the taxpayer.
+[5] No other improvements were made to the properties and they only required regular ongoing maintenance as well as cleaning and painting between tenants. These were attended to by the Martinellos themselves without significant expense.
+[6] In October 2004 a substantial hurricane strength storm caused significant damage to the property rendering it uninhabitable for a time. The winds had rocked or lifted the house off its foundation somewhat and caused the main wooden floor beam or sill to give way. Not surprisingly, the dampness over the years had weakened the sills and joists exposed to the earth below. This in turn caused much of the rest of the floor to fall in and joists, also weakened by dampness over the years, to break or give way. In addition, the storm waters rushed in underneath the house. Much of the floor and parts of the sidewalls were left sitting in the mud. The storm also blew down the old chimney which was no longer being used.
+[7] The property had also suffered some tenant wear and tear and damage which needed to be attended at the same time. Mr. Martinello was no longer young enough to do the needed work himself but he did oversee it.
+[8] The most significant repair expense related to the floor. The house was cribbed and jacked up. The existing footings were straightened and reinforced with some more cement. The silt and dirt and debris were removed. New floor sills and joists were needed to replace the old. New floor boards were used where necessary. This part required a Repairs Permit from the town of Shelburne which approved “House being lifted and repaired to sills and floor.”
+[9] While the house was raised the bottom foot or so of the walls was also replaced by cutting off the rotted end and bracing a patched length of new stud.
+[10] When the house was set back on the foundation, the existing house plumbing had to be reconnected to the existing sewer line. The water pump and tank under the house were repaired and some new parts were needed because the electric pump was damaged by the water and wet soil.
+[11] The electrical supply to the house was turned off for the repairs and had to be reconnected. The inspector ordered that the house’s wiring (which had previously been replaced) had to be replaced because of the risk of extensive corrosion damage to wiring under the floors and at the bottom of the walls.
+[12] The fallen chimney was fully removed and the roof and walls patched. That half of the roof was reshingled with asphalt shingles. The old aluminium siding that was salvageable was reused in the gable ends of the house and new inexpensive vinyl siding was used to clad the bottom of the house. Damaged soffits and fascia were reinstalled and replaced. The length of vinyl eavestrough on that side of the house was either put back up or replaced.
+[13] Inside, the bottom foot or two of the downstairs walls were replaced with new wallboard. The wall where the chimney stood was also patched with masonite or wallboard. The mud and debris were taken out and the inside was repainted where needed. When the existing wooden lower kitchen cupboards were reinstalled, the floor of one cupboard had to be replaced with a new board due to rot.
+[14] The small attached wooden mud room at the back entrance and the modest wooden deck sitting low to the ground had to be replaced.
+[15] Photographs of the repaired home were put in evidence. The Martinellos spent considerable time and money repairing the home to its original rentable condition. It is clear that Mr. Martinello is of the generation often marked by considerable frugality. Their rental property which had suddenly become uninhabitable returned to be habitable. Since the repairs it has been rented out profitably at the same rent as before and the same rent as their other two rental homes. Their somewhat tired and run‑down looking old house had become a patched up tired and somewhat run‑down looking old house that seemingly could not be rented out for any more than it had been previously.
+[16] All of these repairs were the result of either tenant damage, normal wear and tear, depreciation or deterioration of the house over the time it was rented out, or storm damage while it was rented out. The repairs did not improve the house beyond its original condition in any manner. The municipal tax fair market value assessments for the years before and after 2005 are substantially unchanged. In these circumstances, I am satisfied that the costs of these repairs and maintenance, though all done at once, were properly deductible as current expenses and are not required to be capitalized. Current deduction best matches the expenditures to the revenues generated from the house while it was deteriorating or damaged.
+[17] It is clear that the Canada Revenue Agency’s (“CRA”) concerns were triggered by the fact that the taxpayer had obtained a GST New Housing Rebate on the cost of the repairs on the basis the home was substantially renovated. While it seems clear that these repairs probably did not qualify for the new home GST rebate, making a house habitable again after it has become suddenly uninhabitable can be a significant project which in common parlance would be considered a substantial renovation. Further, the CRA auditor who testified acknowledged that, because the house was rented out, the landlords’ repairs would probably have qualified for a comparable GST rebate in the circumstances in any event.
+[18] The CRA auditor who testified indicated she had been the GST auditor reviewing the Martinellos’ GST rebate claim. After speaking with Mr. Martinello, she allowed the GST rebate claim. However in the course of reviewing the taxpayer’s GST claim, she accessed Mrs. Martinello’s income tax returns and noted that these repairs had resulted in a rental loss for the year whereas prior years were profitable. She therefore made a “lead” to income tax audit that the loss may be the result of improvements that should have been capitalized. The CRA auditor then joined income tax audit and was assigned to audit her own lead. I am quite surprised that the CRA permits auditors to audit their own lead. Clearly this auditor having already decided the work qualified as a substantial renovation for purposes of the GST new housing rebate could only be expected to conclude that the expenses should have been capitalized. For that she cannot be faulted. However, a different auditor with fresh eyes might have realized after further investigation and discussion with Mr. Martinello that the costs should not have qualified for the new home GST rebate but would be currently deductible for income tax purposes.
+[19] Mr. Martinello had consulted the CRA by telephone and received the CRA Rental Income Guide. He understood that, as stated in the Guide, “[a]n expense that simply restores a property to its original condition is usually a current expense. . . ” and that “[t]he cost of repairing a property by replacing one of its parts is usually a current expense.” The Guide goes on to give the example of a house’s electrical wiring system being such a part of the house. Clearly the taxpayer in this case did no more than restore the house to its previous condition.
+[20] The cases referred to by the respondent are not comparable. Each of Albayate et al. v. The Queen, 2008 TCC 24, 2008 DTC 2536, Fiore et al. v. The Queen, 93 DTC 5215 (FCA), referred to in Albayate, and Nguyen v. The Queen, 2007 TCC 574, involved expenses incurred to repair a property after it was acquired and before it was used by the taxpayer to produce income. It is obvious that such expenses should ordinarily form part of the capital cost of the property. The property was being put in rentable condition for the first time.
+[21] Similarly, in Fotherby v. The Queen, 2008 TCC 343, 2008 DTC 4186, the fire and hurricane damage occurred before the taxpayer decided to put the property to a particular income‑producing purpose. In each of Leclerc v. Canada, [1998] 2 C.T.C. 2578 (TCC), and Speek (P.) v. Canada, [1994] 2 C.T.C. 2422 (TCC), referred to in Fotherby, the extensively fire‑damaged houses had been demolished and new houses constructed. It is obvious in such a case that the cost of a new house should be capitalized (and presumably the capital cost of the demolished house resulted in a terminal loss).
+[22] Mrs. Martinello’s appeals are allowed with costs.
+Signed at Ottawa, Canada, this 23rd day of August 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 432
+COURT FILE NO.: 2008-3653(IT)I
+STYLE OF CAUSE: MARQUITA MARTINELLO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Yarmouth, Nova Scotia
+DATE OF HEARING: July 14, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: August 23, 2010
+APPEARANCES:
+Agent for the appellant:
+Charles Martinello
+Counsel for the respondent:
+Melanie Petrunia
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

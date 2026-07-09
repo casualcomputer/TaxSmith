@@ -1,0 +1,123 @@
+---
+title: "Belisle c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26766/index.do"
+last_modified: "2004-01-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 38"
+citation2: ""
+neutral_citation: "2004 CCI 38"
+decision_date: "2004-01-08"
+language: "fr"
+item_id: "26766"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3512
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:09:17.982000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "319cc844d593a4c804626319b4309537d9d91d21104e0aaa29b0d1325b4535f1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Belisle c. La Reine
+
+- Citation: 2004 CCI 38
+- Decision date: 2004-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3512, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Belisle c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-08
+Référence neutre
+2004 CCI 38
+Numéro de dossier
+2002-3062(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI38
+Date : 20040108
+Dossier : 2002-3062(IT)I
+ENTRE :
+SYLVAIN BELISLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Prononcés oralement sur le banc le 4 avril 2003 à Montréal (Québec)
+et révisés à Edmundston (Nouveau Brunswick) le 8 janvier 2004)
+Le juge Angers
+[1] Il s'agit d'un appel concernant l'année d'imposition 2000 de l'appelant. En produisant sa déclaration de revenu pour l'année en litige, l'appelant a réclamé, dans le calcul de ses crédits d'impôt non remboursables, un crédit équivalent pour personne entièrement à charge de 1 043,80 $ (6 140 $ x 17 %) à l'égard de sa fille, Gabrielle. Le ministre du Revenu national, par une nouvelle cotisation en date du 10 décembre 2001 a refusé ce crédit à l'appelant.
+[2] L'appelant et sa conjointe sont les parents de trois enfants, soit Gabrielle, Marjolaine et Aurélie. Le 1er septembre 1998, à la suite de leur séparation, l'appelant et sa conjointe ont convenu, par écrit, qu'ils auraient la garde partagée des enfants, et ils ont établi la pension alimentaire pour le soutien des enfants à une somme de 100 $ par mois payable à la mère. L'appelant et sa conjointe ont effectivement vécu séparés pendant toute l'année d'imposition en litige.
+[3] La question qui se pose en l'espèce a déjà été traitée par cette cour dans plusieurs dossiers, de même que par la Cour d'appel fédérale. Dans l'arrêt Nelson c. Canada, [2000] A.C.F. no 1613 (Q.L.) (angl.: [2000] 4 C.T.C. 252), le juge Sharlow, dans des circonstances, semblables à celles du présent litige, où des ordonnances judiciaires accordaient à l'appelant et à son ex-épouse la garde partagée des enfants et obligeaient celui-là à payer une pension alimentaire pour les enfants, a conclu que le paragraphe 118(5) de la Loi de l'impôt sur le revenu (la « Loi » ) empêchait de réclamer le crédit d'impôt équivalent pour personne entièrement à charge. Le paragraphe 118(5) se lit en partie comme suit :
+(5) Pension alimentaire. Aucun montant n'est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition si le particulier, d'une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait pour la personne et, d'autre part, selon le cas :
+a) vit séparé de son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait tout au long de l'année pour cause d'échec de leur mariage ou union de fait.
+[4] Je ne crois pas qu'il soit nécessaire de reproduire le paragraphe 118(1) de la Loi, lequel accorde certains crédits d'impôt personnels aux contribuables dans certaines circonstances.
+[5] L'appelant s'est présenté devant la Cour en reconnaissant que, en droit, la position de l'intimé était juste. Je me permets de reproduire ici une partie de sa propre conclusion à cet égard afin de faire ressortir son opinion sur l'application du paragraphe 118(5) de la Loi :
+Je comprends que le rôle de cette cour est de déterminer ce qui est juste en droit, dans ses domaines de compétence et qu'elle ne peut se substituer au législateur pour juger de l'anachronicité (sic) de l'article 118(5) dans le conteste (sic) de la garde partagée.
+Pour avoir lu plusieurs des jugements portants (sic) sur l'article 118(5) je suis d'avis que mon appel sera rejeté et que la cour jugera juste en droit la thèse de l'intimée.
+Toutefois, en tant que canadien (sic), je m'attend (sic) d'une honorable institution comme la Cour canadienne de l'impôt qu'elle soit garante et qu'elle véhicule aussi un sens de la justice et de l'équité fondé sur des valeurs de justice sociale et morale qui prévalent et font consensus dans la société canadienne d'aujourd'hui.
+Et je me permet (sic) de vous dire que toutes les personnes à qui j'ai relater (sic) ce litige sont unanimes pour affirmer que cette histoire est contraire au bon sens et aux sentiments que monsieur et madame tout le monde se font de la justice.
+La garde partagée est un phénomène relativement nouveau qui trouve de plus en plus d'adèptes (sic) auprès des parents confrontés à une séparation. C'est aussi le type d'arrangement préféré des enfants. Je suis d'avis que tant que le législateur ne modifiera pas l'énoncé de l'article 118(5) vous verrez défiler devant vous un nombre sans cesse croissant de parents dans la même situation que la mienne et qui de surcroit (sic), dans la majorité des cas, vous présenterons (sic) des causes coûtant plus cher à entendre que le montant en litige. Ni les parents, ni le Gouvernement du Canada ne trouveront financièrement leur compte dans ce genre de situation. Les vrais perdants étant en définitive les enfants, puisque quand on est comme moi parent de trois enfants avec un revenu annuel brut de 33 000$, chaque sous compte pour réussir à assurer leur bien-être.
+[6] Le paragraphe 118(5) fait en sorte qu'il est impossible pour un contribuable de réclamer le crédit d'impôt personnel à l'égard d'une personne s'il est tenu de payer une pension alimentaire pour cette personne et s'il vit séparé de son conjoint tout au long de l'année. L'appelant, en raison de la garde partagée, assume avec son ancienne conjointe non seulement la moitié de la garde physique des enfants mais aussi la moitié des dépenses faites pour eux et la moitié des soins qui leur étaient donnés. L'appelant trouve donc injuste qu'il ne lui soit pas permis de réclamer le crédit d'impôt dans une telle situation.
+[7] Quoiqu'il nous soit possible d'avoir de la sympathie pour l'appelant dans la situation où il se trouve, je dois néanmoins rejeter l'appel. Lors de l'audience, l'appelant m'a demandé de lui accorder le même traitement qu'a accordé le juge en chef de notre cour au contribuable dans l'affaire Lavoie c. Canada, [2002] A.C.I. no 34 (Q.L.), décision rendue le 28 janvier 2002. Dans cette affaire, le juge en chef Garon a recommandé aux autorités fiscales de faire le nécessaire pour qu'une remise d'impôt soit accordée au contribuableen vertu du paragraphe 23(2) de la Loi sur la gestion des finances publiques. Les circonstances et les faits de l'affaire Lavoie ne sont pas semblables à ceux en l'espèce et l'allégation d'injustice n'est pas fondée sur les mêmes motifs. Dans l'affaire Lavoie, l'enfant pour lequel le contribuable réclamait le crédit d'impôt avait résidé avec celui-ci et avait été à sa charge durant toute l'année, par entente des parents, alors qu'une ordonnance d'une cour en avait confié la garde à l'ex-conjointe. Tel n'est pas le cas en l'espèce. À tout événement, notre cour n'a pas juridiction pour rendre une décision en vertu du paragraphe 23(2) de la Loi sur la gestion des finances publiques. La discrétion d'accorder une remise d'impôt appartient au ministre compétent et une recommandation de notre cour, si louable soit-elle, ne peut lier le ministre compétent dans l'exercice de sa discrétion. En l'occurrence, je laisse donc à l'appelant le soin de décider s'il veut essayer de se prévaloir des dispositions de la Loi sur la gestion des finances publiques.
+[8] L'appel est rejeté.
+Signé à Edmundston, Nouveau Brunswick, ce 8e jour de janvier 2004.
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2003CCI698
+No DU DOSSIER DE LA COUR :
+2002-3062(IT)I
+INTITULÉ DE LA CAUSE :
+Sylvain Bélisle et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 4 avril 2003
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge François Angers
+DATE DU JUGEMENT :
+le 14 avril 2003
+DÉCISION RENDUE ORALEMENT :
+le 4 avril 2003
+MOTIFS RÉVISÉS DU JUGEMENT :
+le 8 janvier 2004
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimée :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

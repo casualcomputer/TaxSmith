@@ -1,0 +1,238 @@
+---
+title: "Y S I's Yacht Sales International Ltd c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27659/index.do"
+last_modified: "2007-05-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 306"
+citation2: ""
+neutral_citation: "2007 CCI 306"
+decision_date: "2007-05-23"
+language: "fr"
+item_id: "27659"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 415
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:39:08.053000+00:00"
+cases_cited_count: 2
+cases_citing_count: 8
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5997b87f35cbab6d83a33eaff517391851920487ce120676408bc98e11938e7f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Y S I's Yacht Sales International Ltd c. La Reine
+
+- Citation: 2007 CCI 306
+- Decision date: 2007-05-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 415, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Y S I's Yacht Sales International Ltd c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-23
+Référence neutre
+2007 CCI 306
+Numéro de dossier
+2005-1469(GST)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-1469(GST)G
+ENTRE :
+Y.S.I.'s YACHT SALES INTERNATIONAL LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu les 22 et 23 mars 2007, à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge Judith Woods
+Comparutions :
+Avocat de l'appelante :
+Me David Douglas Robertson
+Avocats de l'intimée :
+Me Victor Caux
+Me David Everett
+________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 21 janvier 2004, est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que des crédits de taxe sur les intrants doivent être accordés pour la période du 1er octobre au 31 décembre 2002. L'appelante a droit aux dépens.
+Signé à Ottawa, Canada, ce 23e jour de mai 2007.
+« J. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 3e jour de novembre 2008.
+Yves Bellefeuille, réviseur
+Référence : 2007CCI306
+Date : 20070523
+Dossier : 2005-1469(GST)G
+ENTRE :
+Y.S.I.'s YACHT SALES INTERNATIONAL LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Il s'agit d'un appel interjeté par Y.S.I.'s Yacht Sales International Ltd. (« YSI ») à l'encontre d'une cotisation établie en vertu de la Loi sur la taxe d'accise pour la période du 1er octobre au 31 décembre 2002. Le litige porte sur des crédits de taxe sur les intrants (les « CTI ») de 106 761,54 $ à l'égard de produits et de services achetés par YSI en vue de la construction d'un yacht de luxe.
+[2] L'intimée a présenté deux arguments à l'appui de la cotisation. Premièrement, elle soutient que YSI n'est pas admissible aux CTI parce qu'elle a acheté les produits et les services à titre de mandataire. Subsidiairement, même en l'absence d'une relation de mandataire, l'intimée prétend que les CTI ne devraient pas être accordés parce que YSI n'avait pas à payer la taxe sur les produits et services (la « TPS »).
+[3] Pour les motifs qui suivent, je conclus que l'appel devrait être accueilli.
+Contexte factuel
+[4] YSI est une société de la Colombie‑Britannique qui offre des services de courtage de yacht et de gestion de projets et de flotte. La société est gérée par Sandy Huntingford. Son épouse et lui sont les seuls employés. YSI est une société inscrite aux fins de la TPS.
+[5] Pendant la période pertinente, Palmer Yacht Sales Ltd. (« Palmer ») était une société de la Colombie‑Britannique qui exerçait des activités de construction et de reconstruction de yachts. Paul Palmer était son directeur.
+[6] Platinum Premier Corporation Limited (« Platinum ») est une société régie par les lois de Gibraltar. Tatiana Golovina, résidente d'Angleterre ayant épousé un Texan du nom de Mike Sims, est la propriétaire bénéficiaire des actions de la société.
+[7] En 1997, Palmer a acheté en Alaska un navire commercial récupéré, pour la somme de 1 000 dollars américains. Palmer avait l'intention de transporter le navire, le « Zopilote », à Vancouver et de le reconstruire.
+[8] Palmer a retenu les services de YSI a) pour l'aider à organiser le financement pour les travaux de reconstruction, et b) pour trouver un acheteur pour le produit fini, qui deviendrait un yacht de luxe.
+[9] En conséquence des efforts de YSI, Palmer a conclu en septembre 1999 une entente avec Platinum pour la reconstruction et la vente du navire à Platinum pour un prix d'achat forfaitaire de 3 000 000 $. Platinum devait acquérir le yacht pour l'usage personnel de Mme Golovina et de M. Sims.
+[10] Les travaux de reconstruction ne se sont pas déroulés harmonieusement et après environ six mois, la relation entre Palmer et les directeurs de Platinum a été irrémédiablement rompue.
+[11] Monsieur Huntingford, qui avait de l'expérience dans l'industrie de la construction navale, a profité de la rupture de la relation et a offert à Platinum son aide pour achever le projet sans la participation de Palmer. À cette fin, YSI a transmis une note à M. Sims, datée du 1er mars 2000, qui décrivait les modalités d'une proposition en vertu de laquelle YSI superviserait le projet et utiliserait ses comptes de gros pour acheter à rabais les matériaux et l'équipement nécessaires.
+[12] La note, rédigée par M. Huntingford sans l'aide d'un avocat, prévoyait que YSI exécuterait ce qui suit :
+- gérer le projet;
+- fournir des rapports à M. Sims au moment approprié;
+- dresser les budgets;
+- conclure un contrat avec un port de plaisance pour un hangar de construction;
+- demander des prix auprès des fournisseurs et négocier avec eux pour obtenir les meilleurs prix;
+- acheter les matériaux et l'équipement au moyen des comptes de gros de YSI;
+- aider à la conception, obtenir les services de décorateurs intérieurs, obtenir des propositions;
+- payer les fournisseurs;
+- assurer la liaison avec les assureurs;
+- assurer la liaison avec l'avocat de Platinum;
+- prévoir les inspections mensuelles du yacht par l'évaluateur;
+- gérer les activités du capitaine de Platinum quant à la construction;
+- négocier avec la banque de Platinum afin d'assurer la mise en place du financement nécessaire au respect des obligations;
+- demander les remboursements de TPS;
+- agir comme agent de liaison entre Platinum et Palmer pour récupérer les matériaux et l'équipement appartenant à Platinum et obtenir les documents nécessaires au transfert du titre de Palmer à Platinum;
+- prévoir les essais en mer;
+- s'occuper de l'immatriculation du navire à Vancouver au moment de son exportation;
+- toute autre tâche confiée ou demandée par Platinum.
+[13] YSI devait être payée 50 $ l'heure pour ses services et obtenir une marge bénéficiaire de 5 % lors de l'achat de marchandises par l'entremise de ses comptes de gros.
+[14] Les directeurs de Platinum n'avaient aucune expérience antérieure avec des bateaux et ont accepté la proposition de YSI, qui donnait essentiellement à YSI la gestion complète du projet.
+[15] Pour terminer le retrait de Palmer, Platinum et Palmer ont conclu, le 1er mai 2000 ou vers cette date, une entente intitulée [TRADUCTION] « entente de livraison de yacht ». En vertu de l'entente, Platinum devait payer le solde du prix d'achat de 3 000 000 $ à Palmer et Platinum devait prendre possession du Zopilote afin d'achever les travaux de construction. Palmer devait cependant continuer à être détenteur du titre jusqu'à la clôture, qui devait avoir lieu dans les eaux internationales lorsque le yacht serait prêt à prendre la mer.
+[16] Après que Palmer eut renoncé à la possession, YSI a acheté les matériaux et l'équipement nécessaires pour achever la construction. YSI a utilisé ses comptes de gros pour faire des achats auprès plus de 230 fournisseurs et obtenir des réductions importantes. YSI a également utilisé son inscription aux fins de la taxe de vente provinciale pour réclamer l'exemption de revente en vertu de la loi de la Colombie‑Britannique.
+[17] Le paiement des marchandises était habituellement effectué au moyen de chèques tirés sur un compte bancaire canadien établi par Mme Golovina. Presque tous les chèques étaient cosignés par M. Huntingford et par le capitaine du Zopilote, un employé de M. Sims.
+[18] Après que Palmer se fut retiré du projet (exception faite de la détention du titre du navire), le capitaine et les sous‑traitants ont entrepris les travaux de construction, sous la supervision de M. Huntingford.
+[19] Le Zopilote a été achevé et prêt pour des essais en mer environ un an plus tard, et le transfert officiel du titre de Palmer à Platinum a eu lieu en juillet 2001. La clôture a eu lieu dans les eaux internationales, en présence de Mme Golovina qui représentait Platinum et de M. Huntingford qui représentait Palmer, avec lequel M. Huntingford continuait à faire des affaires.
+[20] L'entente initiale de Platinum avec Palmer était structurée de manière à tirer parti de la détaxation des produits exportés en vertu de la Loi sur la taxe d'accise. Les avocats m'ont expliqué que les exportations sont habituellement détaxées, ce qui permet à un non‑résident d'acheter des produits exemptés de taxe et permet également au vendeur de recevoir des crédits de taxe sur les intrants à l'égard de ses intrants. En l'espèce, le résultat de l'entente initiale avec Palmer était la non‑application de la TPS.
+[21] Après que YSI eut pris la gestion du projet, M. Huntingford a tenu pour acquis que la transaction continuerait d'être une exportation détaxée. Toutefois, il était préoccupé par la possibilité de l'assujettissement de YSI à la TPS si la transaction avec Platinum échouait et que le Zopilote n'était pas exporté. Il n'a pas demandé de conseils professionnels à l'égard de cette préoccupation, mais il a eu une conversation officieuse avec un vérificateur de l'Agence du revenu du Canada (l'« ARC ») qui effectuait une vérification de la TPS auprès de Palmer à ce moment‑là.
+[22] Monsieur Huntingford a décidé de gérer le possible assujettissement à la TPS au moyen d'une demande de remboursement de la TPS présentée par Platinum après l'exportation du Zopilote. Le vérificateur de l'ARC lui a recommandé de conserver tous les reçus, ce qu'il a fait. Dans son témoignage, M. Huntingford a indiqué qu'il pensait ainsi réduire l'assujettissement de YSI à la TPS. Son témoignage sur ce point était détaillé, et j'accepte son explication sur la raison pour laquelle Platinum, et non YSI, a demandé le remboursement de la TPS.
+[23] En 2002, M. Huntingford a rédigé une demande de remboursement de la TPS pour le compte de Platinum et a fourni au vérificateur de l'ARC toutes les factures pertinentes pour les matériaux et les produits que YSI avait achetés.
+[24] La demande de Platinum comportait un problème potentiel parce que les factures étaient au nom de YSI. Le vérificateur a demandé à M. Huntingford de fournir l'entente qui énonçait l'arrangement conclu par YSI et Platinum. En réponse, M. Huntingford a rédigé une lettre qui a été signée par Mme Golovina au nom de Platinum. La lettre indique que YSI était embauchée pour agir à titre de mandataire de Platinum pendant la construction du navire et qu'en vertu de ce mandat, YSI devait obtenir les matériaux et l'équipement nécessaires à la construction.
+[25] Le vérificateur de l'arc a alors demandé une décision interne concernant la demande de remboursement et, en définitive, la réclamation a été rejetée.
+[26] Lorsqu'il a été avisé du rejet, M. Huntingford a demandé des conseils juridiques au cabinet Fasken Martineau DuMoulin S.E.N.C.R.L., s.r.l. Suivant les conseils reçus, Platinum ne s'est pas opposée au rejet de sa demande de remboursement de TPS, et YSI a réclamé les CTI qui sont en litige dans le présent appel.
+[27] Selon un avis de cotisation établi à l'égard de YSI et daté du 21 janvier 2004, des CTI s'élevant à 106 761,54 $ ont été refusés.
+Analyse
+[28] À titre préliminaire, je remarque que le droit de YSI à des CTI ne porte pas sur une question qui pourrait être jugée plus fondamentale dans cette série d'opérations, soit la question de savoir si la fourniture à Platinum est taxable ou si elle est détaxée. La TPS est une taxe qui est habituellement imposée au niveau du consommateur et, en l'espèce, le consommateur est Platinum. Des intermédiaires comme YSI ne sont normalement pas assujettis à la taxe sur leurs intrants. Cependant, les conséquences fiscales à l'égard de Platinum ne sont pas en litige devant moi et les parties n'en ont pas traité, sauf pour répondre patiemment à mes questions à cet égard.
+[29] La question est donc de savoir si YSI a le droit de recouvrer, par le biais de cti, la TPS payable à l'égard des factures qui lui ont été émises relativement à la construction du Zopilote.
+[30] Le régime général des dispositions légales concernant les CTI consiste à permettre à ceux qui sont inscrits pour l'application de la Loi sur la taxe d'accise de recouvrer la TPS payable par eux à l'égard de biens et de services acquis pour leur usage dans le cadre de leurs activités commerciales.
+[31] Des extraits de la disposition légale pertinente, le paragraphe 169(1) de la Loi sur la taxe d'accise, prévoient ce qui suit :
+169(1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d'une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu'elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l'importation ou au transfert devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable :
+A × B
+où :
+A représente la taxe relative à la fourniture, à l'importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable;
+B :
+[...]
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l'a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+(Non souligné dans l'original.)
+[32] Le texte souligné ci‑dessus illustre clairement les deux points en litige dans le présent appel :
+a) YSI a‑t‑elle acquis des produits et des services auprès de fournisseurs pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales?
+b) La TPS était‑elle payable par YSI?
+Premier point en litige : Y a‑t‑il eu acquisition dans le cadre d'activités commerciales?
+[33] L'intimée soutient que YSI a agi en qualité de mandataire lorsqu'elle a conclu des conventions pour acquérir les matériaux et l'équipement utilisés dans la construction du Zopilote. Selon l'intimée, il s'ensuit que YSI n'a pas acquis les biens ou les services pour consommation, utilisation ou fourniture dans le cadre de ses propres activités commerciales, comme l'exige l'alinéa c) du paragraphe 169(1).
+[34] La question est donc de savoir si YSI a conclu des conventions avec les fournisseurs à titre de mandataire pour le compte de Platinum, ou si les produits et les services ont été achetés par YSI pour son propre compte.
+[35] La question de savoir si YSI a acquis des produits et des services pour son propre compte ou pour celui de Platinum est fonction de l'intention mutuelle des parties : Bowstead and Reynolds on Agency, 17e édition, s. 1‑011. Par conséquent, la question essentielle est de savoir si Platinum a convenu d'être liée par les conventions que YSI avait conclues avec ses fournisseurs.
+[36] Bien qu'il existe certains éléments de preuve pour étayer l'une ou l'autre position, je conclus que Platinum et YSI n'avaient pas l'intention de conclure un mandat.
+[37] À mon avis, la manifestation la plus claire de l'intention des parties se trouve dans l'entente conclue par YSI et Platinum, incluse dans la note adressée par M. Huntingford à M. Sims, datée du 1er mars 2000. L'arrangement n'a jamais été officialisé dans une entente écrite, mais les modalités de la note ont été acceptées verbalement.
+[38] La note, qui a été rédigée sans l'aide d'un avocat, prévoyait essentiellement que YSI conclurait des contrats avec des fournisseurs et qu'elle facturerait à Platinum une marge bénéficiaire de 5 % dans la mesure où les comptes de gros de YSI étaient utilisés.
+[39] Je conclus que ces modalités n'indiquent en aucune façon que YSI achetait des produits et des services en qualité de mandataire. À mon avis, elles indiquent plutôt une relation d'acheteur‑vendeur. Rien à la face même de la note m'amène à croire que les parties avaient une autre intention.
+[40] Malgré le libellé de la note, les avocats de l'intimée indiquent que d'autres facteurs soulignent une intention de créer un mandat. Je ne suis pas d'accord. À mon avis, aucun des facteurs, que j'examinerai plus en détail ci‑après, ne permet d'inférer une autre intention entre les parties.
+[41] En premier lieu, l'intimée renvoie à la lettre de Mme Golovina, rédigée lors de la demande de remboursement de Platinum. Toutefois, ce document intéressé avait été rédigé à la suggestion du vérificateur de l'ARC pour faciliter le traitement de la demande. Je ne suis pas persuadée que cette lettre reflétait l'intention réelle des parties au moment de la conclusion et de l'exécution de l'entente. Ainsi, je n'ai accordé aucun poids à la lettre.
+[42] De même, l'intimée souligne le fait que la demande de remboursement avait été présentée par Platinum et non par YSI. Monsieur Huntingford n'est pas un avocat et il ne m'a pas donné l'impression d'avoir une grande expérience de la comptabilité ou des questions juridiques. Je ne suis pas disposée à conclure que la demande, présentée bien après la conclusion de l'entente, indique quelque intention que ce soit de la part de YSI ou de Platinum quant à leur relation juridique.
+[43] De plus, l'intimée soutient que le large éventail de tâches que YSI avait accepté d'exécuter relativement au projet constituait également une indication de mandat, tout comme le fait que Platinum semblait avoir la responsabilité globale. Avec égards, les autres tâches ne sont pas pertinentes lorsqu'il s'agit de la qualification des conventions conclues avec les fournisseurs. Peu importe la nature des autres tâches, elles n'appuient pas la conclusion selon laquelle il y avait une intention contraire à celle à laquelle j'ai conclu plus haut. On peut dire la même chose concernant la responsabilité. La mesure dans laquelle Platinum était complètement responsable du projet n'est pas pertinente lorsqu'il s'agit de savoir si Platinum avait convenu d'être liée par les conventions que YSI avait conclues avec les fournisseurs.
+[44] L'intimée a également mentionné le fait que M. Huntingford n'avait pas déclaré d'achat et de revente de produits dans les états financiers ou les déclarations de revenus de YSI. Encore ici, je souligne que M. Huntingford n'est ni avocat ni comptable. Je ne peux conclure que son omission de consigner adéquatement ses comptes courants signifie quoi que ce soit à propos de la nature de la relation juridique entre YSI et Platinum.
+[45] En dernier lieu, l'intimée prétend que je devrais tirer une conclusion défavorable du fait que l'appelante n'a pas appelé à témoigner les directeurs de Platinum ni aucune autre personne impliquée.
+[46] Je suis sensible à cet argument en ce qu'il se rapporte aux directeurs de Platinum parce que Mme Golovina a signé une lettre confirmant l'existence d'un mandat. Par ailleurs, les directeurs de Platinum ne sont pas résidents canadiens, et on a indiqué qu'il aurait pu être difficile d'obtenir leur témoignage. L'avocat de l'appelante a déclaré dans sa plaidoirie qu'il avait tenté sans succès de les joindre.
+[47] Compte tenu de toutes les circonstances, je refuse de tirer une conclusion défavorable. Je ne suis pas persuadée que le témoignage de Mme Golovina ou celui de M. Sims serait utile, étant donné que, fort probablement, ces personnes ne comprenaient pas la distinction technique entre un mandat et un achat en vue d'une revente lorsque Platinum a accepté la proposition de M. Huntingford.
+[48] L'intimée a soutenu que les directeurs de Platinum pouvaient fournir un témoignage pertinent concernant la nature de la direction qu'ils exerçaient sur YSI. Je ne crois pas que ce facteur soit pertinent pour décider si Platinum avait l'intention d'être directement liée par les contrats avec les fournisseurs.
+[49] Pour tous ces motifs, je conclus que la nature de la relation est définie par la note datée du 1er mars 2000 et que ce document appuie la position de YSI. Il s'ensuit que YSI n'agissait pas à titre de mandataire lorsqu'elle achetait des produits et des services. Elle a plutôt acquis des biens et des services pour fourniture dans le cadre de ses propres activités commerciales.
+Deuxième point en litige : La TPS était‑elle payable par YSI?
+[50] Le paragraphe 169(1) prévoit que seule la personne par laquelle la TPS est payable peut se prévaloir d'un CTI. L'intimée indique que, même si YSI concluait des conventions avec des fournisseurs pour son propre compte, la TPS était payable par Platinum et non par YSI.
+[51] Le point de départ de l'analyse est la disposition générale d'imposition de l'article 165, qui prévoit que l'« acquéreur » d'une fourniture « est tenu de payer » la TPS. Ainsi, la question pertinente est de savoir si YSI est un acquéreur.
+[52] Le terme « acquéreur » est défini comme suit au paragraphe 123(1) :
+« acquéreur »
+a) Personne qui est tenue, aux termes d'une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+b) personne qui est tenue, autrement qu'aux termes d'une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+c) si nulle contrepartie n'est payable pour une fourniture :
+(i) personne à qui un bien, fourni par vente, est livré ou mis à sa disposition,
+(ii) personne à qui la possession ou l'utilisation d'un bien, fourni autrement que par vente, est transférée ou à la disposition de qui le bien est mis,
+(iii) personne à qui un service est rendu.
+Par ailleurs, la mention d'une personne au profit de laquelle une fourniture est effectuée vaut mention de l'acquéreur de la fourniture.
+(Non souligné dans l'original.)
+[53] L'intimée soutient que, même si YSI est tenue de payer la contrepartie en vertu des conventions conclues avec les fournisseurs, Platinum est en fin de compte tenue de payer cette contrepartie.
+[54] La position de l'intimée est fondée sur le fait que Platinum avait mis à la disposition de YSI des fonds dans un compte bancaire canadien que YSI pouvait utiliser pour respecter ses obligations envers les fournisseurs.
+[55] L'intimée a indiqué que sa position était étayée par les décisions suivantes : 163410 Canada Inc. c. La Reine, no 97‑1752(GST)G, 24 septembre 1998, [1998] G.S.T.C. 116 (C.C.I.), Immeubles Sansfaçon inc. c. La Reine, no 99‑203(GST)I, 15 septembre 2000, [2000] G.S.T.C. 86 (C.C.I.), Bondfield Construction Co. (1983) Ltd. c. La Reine, 2005 CCI 78, [2005] G.S.T.C. 110 (C.C.I.), et Bokrika Inc. c. La Reine, 2006 CCI 301, [2006] G.S.T.C. 78 (C.C.I.).
+[56] Je ne suis pas d'accord avec l'intimée. À mon avis, YSI était la seule personne tenue de payer la contrepartie en vertu des conventions conclues avec les fournisseurs. Dans son témoignage, M. Huntingford a indiqué qu'il avait demandé à Platinum de fournir une source de fonds au début pour ne pas devoir pourchasser Platinum lorsque YSI aurait besoin d'argent pour payer ses fournisseurs. Cet arrangement bancaire n'était rien de plus qu'un mécanisme de financement, entièrement compatible avec les achats de YSI aux fins d'une nouvelle fourniture à Platinum.
+[57] Le point essentiel est le suivant : une personne n'est pas un acquéreur au sens de la Loi sur la taxe d'accise à moins d'être tenue de payer la contrepartie aux termes d'une convention. En l'espèce, Platinum n'était pas tenue de payer la contrepartie en vertu des conventions conclues avec les fournisseurs.
+[58] Les décisions mentionnées ci‑dessus sont toutes différentes quant aux faits et il n'est pas nécessaire de les examiner en détail. Aucune décision n'indique que, dans un arrangement d'achat et de revente, l'acheteur lors de la seconde vente est responsable de la TPS qui était payable lors de la première vente.
+[59] Pour ce motif, je conclus que YSI était un « acquéreur » au sens de l'article 123 et que, par conséquent, YSI était responsable du paiement de la TPS aux termes des conventions conclues avec les fournisseurs.
+Conclusion
+[60] Pour les motifs susmentionnés, je conclus que YSI a droit aux CTI à l'égard des produits et des services qu'elle a achetés pour la construction du Zopilote. L'appel est accueilli, avec dépens.
+Signé à Ottawa, Canada, ce 23e jour de mai 2007.
+« J. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 3e jour de novembre 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2007CCI306
+NO DU DOSSIER DE LA COUR :
+2005-1469(GST)G
+INTITULÉ :
+YSI's Yacht Sales International Ltd. c. Sa Majesté La Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATES DE L'AUDIENCE :
+Les 22 et 23 mars 2007
+MOTIFS DU JUGEMENT :
+L'honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 23 mai 2007
+COMPARUTIONS :
+Avocat de l'appelante :
+Me David Douglas Robertson
+Avocats de l'intimée :
+Me Victor Caux
+Me David Everett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me David Douglas Robertson
+Cabinet :
+Fasken Martineau DuMoulin S.E.N.C.R.L., s.r.l.
+Toronto (Ontario)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

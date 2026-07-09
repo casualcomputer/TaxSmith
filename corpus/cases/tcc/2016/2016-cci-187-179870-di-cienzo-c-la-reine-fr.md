@@ -1,0 +1,164 @@
+---
+title: "Di Cienzo c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/179870/index.do"
+last_modified: "2016-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 187"
+citation2: ""
+neutral_citation: "2016 CCI 187"
+decision_date: "2016-08-26"
+language: "fr"
+item_id: "179870"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2875
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:55:36.522000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "733335b089e639a46a39db457c3eb5affe242a274ba02055d964cfe6ee7d3b1d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Di Cienzo c. La Reine
+
+- Citation: 2016 CCI 187
+- Decision date: 2016-08-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2875, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Di Cienzo c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-08-26
+Référence neutre
+2016 CCI 187
+Numéro de dossier
+2014-1896(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-1896(IT)I
+ENTRE :
+LUCIANO DI CIENZO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 16 août 2016, Hamilton (Ontario).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Dominique Gallant
+JUGEMENT
+Conformément aux motifs ci-joints, les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2010 et 2011 sont rejetés, sans dépens.
+Signé à Ottawa, Canada, ce 26e jour du mois d’août 2016.
+« Gaston Jorré »
+Le juge Jorré
+Référence : 2016 CCI 187
+Date : 20160826
+Dossier : 2014-1896(IT)I
+ENTRE :
+LUCIANO DI CIENZO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction [1] Il s’agit d’un appel relatif à une réclamation d’une perte déductible au titre d’un placement d’entreprise. La principale question en litige est de savoir si une perte a été fixée au cours de l’année en raison d’une disposition réelle ou réputée lorsque le contribuable a estimé que la créance qui lui était due au cours de l’année était devenue irrécouvrable.[1]
+[2] La question secondaire est le montant de la créance.
+[3] Pour l’année d’imposition 2010, l’appelant a réclamé une perte déductible au titre d’un placement d’entreprise et pour l’année d’imposition 2011, il a déclaré une partie de cette perte comme une perte en capital reportée prospectivement. En établissant la nouvelle cotisation, la ministre du Revenu national a refusé la déduction des pertes réclamées.
+[4] L’appelant et son épouse étaient copropriétaires d’une entreprise constituée en société exploitant un motel pendant un certain nombre d’années. Au fil du temps, l’appelant a avancé des sommes d’argent à l’entreprise. Ces sommes que l’entreprise devait à l’appelant ont été ajoutées au compte d’actionnaire de l’appelant.
+[5] En 2010, l’appelant et son épouse ont vendu toutes leurs actions dans l’entreprise.[2] La perte d’entreprise réclamée est, selon les affirmations de l’appelant, ce que l’entreprise lui devait au moment de la vente.
+Y a-t-il eu disposition d’une créance? [6] Bien que l’appelant ait la certitude d’avoir perdu les montants réclamés, il n’y a malheureusement guère d’éléments de preuve me permettant de penser que la créance qui lui était due, quel qu’en soit le montant, ait fait l’objet d’une disposition au moment où il a vendu ses actions dans l’entreprise.
+[7] À une exception près, à laquelle je reviendrai dans un moment, qui se trouve dans la documentation déposée, je suis incapable de trouver quoi que ce soit qui puisse établir l’existence d’une entente entre l’appelant, l’entreprise et/ou l’acquéreur des actions pour régler la dette d’une quelconque manière.
+[8] La pièce A-9 est une reliure à 28 onglets contenant des documents relatifs aux actions qui semblent avoir été préparée par l’avocat de l’appelant pour l’opération de vente des actions.[3]
+[9] La pièce A-9 contient de nombreux documents relatifs à la vente des actions par l’appelant, mais je ne trouve rien dans la convention d’achat d’actions à l’onglet 2 ou dans tout autre document de la pièce A-9 qui traite de la dette de l’entreprise envers l’appelant.
+[10] La seule chose qui pouvait se rapporter dans une certaine mesure au compte d’actionnaire à la pièce A-9 est une disposition dans la clause 2 de la convention d’achat d’actions. La clause 2 prévoit en effet que le prix d’achat des actions de l’appelant et l’épouse de l’appelant (les vendeurs), sera de 140 000 $, payable aux vendeurs le 1er jour de septembre 2010 avec une somme supplémentaire de 56 250 $, payable à l’entreprise le 3e jour de février 2010. La clause affirme en outre que la somme de 56 250 $ [traduction] « payable à l’entreprise est non remboursable et doit être maintenue au crédit des [vendeurs] ».
+[11] Si je comprends bien la convention, en particulier les mots [traduction] « doit être maintenue au crédit des [vendeurs] », les 56 250 $ doivent être considérés comme une somme due par l’entreprise à l’appelant et à l’épouse de l’appelant qui sera vraisemblablement payée à une date ultérieure par l’entreprise.
+[12] Cela donne à penser qu’il y aura un suivi entre l’appelant et l’entreprise.[4]
+[13] L’appelant n’a pas déclaré qu’il y avait une entente quelconque au sujet de la créance, qui ferait partie du contrat de vente ou qui en serait distincte.
+[14] Le seul élément dans les autres documents qui sous-tend l’idée d’une disposition de créance est une lettre datée du 29 novembre 2013 de l’avocat de l’entreprise et de l’acheteur, rédigée au moment de la vente des actions et adressée à l’appelant.[5] Une partie de cette lettre se rapporte à une autre lettre de l’ARC, datée du 15 novembre 2013 et adressée à l’appelant qui demandait, entre autres, les informations suivantes relativement au point b) : [traduction] « Explication quant à la raison pour laquelle la convention d’achat des actions n’a pas traité du solde du prêt de l’actionnaire encore impayé au moment de la vente ».
+[15] La lettre de l’avocat, datée du 29 novembre 2013 et adressée à l’appelant, précise, au point b) : [traduction] « Je peux confirmer que le produit de la vente que vous avez reçu au moment de la vente de vos actions inclut tout solde impayé de la dette (actionnaires, prêts) ».
+[16] Aucune objection n’a été formulée à la production de cette lettre. Toutefois, ni l’avocat qui a écrit la lettre du 29 novembre 2013 ni l’avocat de l’appelant pour l’opération de vente des actions n’ont été appelés à témoigner pour expliquer le fondement de la déclaration.
+[17] Compte tenu de la lettre du 29 novembre 2013 qui semble être une réponse à un courriel envoyé à l’avocat le 22 novembre 2013 par un comptable agréé agissant pour l’appelant, qui a dit au sujet du point b) de la demande de l’ARC :
+[traduction]
+« Vous devez fournir à l’ARC/Phyllis une lettre comme avocat de l’entreprise Pilgrim/PHI confirmant que le produit de la vente versé à Luciano valait pour ses actions et pour la créance (prêts dus à l’actionnaire). Veuillez préciser cette affaire pour l’ARC. »
+Et compte tenu du fait qu’aucun des documents produits ne donne à penser que l’appelant a disposé de sa créance, je ne suis pas prêt à conclure, au regard du bref exposé dans la lettre du 29 novembre 2013, qu’il y avait une entente visant la disposition de la créance de l’appelant contre l’entreprise.
+[18] Ma conclusion a d’autant plus de poids à la lumière des mesures qui auraient été prises pour protéger au maximum l’appelant et son épouse lors de la transaction. À l’onglet 21 de la pièce A-9, il y a un document intitulé [traduction] « Quittance complète et finale » par lequel l’entreprise a libéré l’appelant et son épouse de toute réclamation qu’elle a pu avoir ou qu’elle pourrait avoir ultérieurement à leur égard. Il semble aller de soi que si la finalité était de voir l’appelant libérer la compagnie de toute dette qui lui était due, un document aurait été produit au moment de la vente des actions attestant que l’entreprise est libérée de toute réclamation par l’appelant pour des dettes qui étaient dues à ce dernier.[6]
+[19] Par conséquent, je conclus qu’il n’y a pas eu disposition de la créance.
+[20] Quant à la possibilité que la créance de l’appelant soit devenue une créance irrécouvrable en 2010 ou 2011, il n’y a rien dans la preuve qui donne à penser que, pendant ces années, des efforts ont été déployés pour recouvrer la créance et il n’y a aucune preuve donnant à entendre que la compagnie était incapable de payer.
+[21] L’appelant a longuement traité des pertes de l’entreprise au fil des ans, mais je ne dispose d’aucun élément de preuve quant aux perspectives de l’entreprise au moment de l’achat ou par la suite en 2010 ou en 2011. De toute évidence, l’acheteur pensait que l’entreprise avait de la valeur et il était prêt à en payer le prix. L’entreprise était propriétaire du motel, du terrain et de deux parcelles de terrain adjacentes.
+[22] Par conséquent, je ne suis pas en mesure de conclure qu’il a été établi que la somme due par l’entreprise à l’appelant était une créance irrécouvrable ayant donné lieu à une disposition réputée en 2010 ou en 2011.
+[23] Je ferais remarquer à l’appelant que, bien qu’il n’y ait pas eu disposition de la créance en 2010 ou même en 2011, il se peut qu’il s’agisse d’une disposition ou d’une disposition réputée d’une année subséquente.
+Le montant de la créance [24] Compte tenu de ma conclusion relative à la première question, il ne m’est pas nécessaire de tirer une conclusion sur le montant de la créance. Étant donné qu’il peut y avoir une disposition future, il est préférable que je ne tire aucune conclusion pour permettre aux parties d’examiner ultérieurement la question du montant de la créance de manière plus approfondie, si une disposition ou une disposition réputée de cette créance est établie après 2011.
+[25] Par conséquent, je ne tirerai pas de conclusions sur la question du montant ; je me contenterai de faire quelques commentaires qui, j’espère, pourront être utiles aux parties si, à l’avenir, une disposition a lieu.
+[26] L’appelant a produit des documents selon lesquels l’entreprise lui devait 567 731 $. Le ministre a accepté une dette au montant de 106 000 $.
+[27] L’appelant a fait des déclarations d’ordre général au sujet de ses prêts à l’entreprise. Il serait utile de disposer de plus de documentation et de détails au sujet des prêts et remboursements. Toutefois, il faut garder à l’esprit que les débuts de l’entreprise remontent à très loin dans le temps.
+[28] L’appelant a également produit un tableau, pièce A-3, indiquant comment les 567 731 $ ont été calculés. Il a également soumis divers autres documents, y compris des balances de vérification datées du 31 décembre 2008 et du 31 décembre 2009, qui correspondent aux pièces A-4 et A-5, respectivement.
+[29] La balance de vérification pour le compte d’actionnaire de l’appelant à la pièce A-5, datée du 31 décembre 2008, correspond au nombre indiqué pour la même date à la pièce A-3. Toutefois, la balance de vérification du 31 décembre 2009 ne concorde pas avec les chiffres figurant à la pièce A-3. Si la pièce A-4 est exacte, environ 190 700 $ auraient été versés à l’appelant à un moment donné après le 31 décembre 2008. Ce montant n’apparaît pas à la pièce A-3. La personne qui a préparé les pièces A-3 à A-5 n’a pas été appelée à témoigner et l’appelant n’a pas pu expliquer l’écart. Il aurait été utile d’entendre la personne qui a préparé ces documents.
+[30] La pièce A-3 ne comporte qu’une seule page, même si le titre à la quatrième colonne de gauche renvoie à des documents qui n’ont pas été produits. Ces documents pourraient être utiles.
+[31] La pièce A-8 montre un chèque de 50 000 $ qui a été encaissé le 12 mai 2005. Il serait possible de conclure qu’il s’agissait d’une avance de 50 000 $ qui apparaît également sur la pièce A-3 en date du 5 mai. L’affaire mérite une certaine exploration. La pièce A-8 indique, en date du 6 mai, un solde disponible dans le compte qui s’élève à moins de 8 000 $ et un dépôt de 50 000 $ dans le compte le jour précédent la compensation du chèque.
+[32] Enfin, selon la pièce A-3, la dernière avance, soit 56 250 $, faite par l’appelant à l’entreprise date du 10 février 2010. Il s’agit de la partie du prix de vente payé pour les actions de l’appelant et de sa conjointe qui étaient payables directement à l’entreprise.
+[33] Cette dernière entrée de 56 250 $ semble établir qu’il y avait effectivement eu une avance de 56 250 $ compatible avec la convention d’achat d’actions. Cependant, il convient de se demander pourquoi la totalité du montant est portée au crédit de l’appelant. La clause 2, au paragraphe 2 de la convention d’achat d’actions prévoit que le montant doit être maintenu au crédit du vendeur. Le vendeur est défini au haut de la première page de cette entente comme étant l’appelant et sa conjointe. L’appelant et sa conjointe avaient un nombre égal d’actions. Il est raisonnable de se demander pourquoi la moitié du 56 250 $ n’a pas portée au crédit de Mme Di Cienzo plutôt que l’intégralité de cette somme à celui de l’appelant.
+Conclusion [34] Pour ces motifs, étant donné qu’il n’existait pas de disposition ou de disposition réputée relative à une créance, il ne peut y avoir de perte déductible au titre d’un placement d’entreprise au cours des deux années en litige. Par conséquent, l’appel est rejeté. Il n’y aura aucune ordonnance quant aux dépens.
+Signé à Ottawa, Canada, le 26e jour du mois d’août 2016.
+« Gaston Jorré »
+Le juge Jorré
+RÉFÉRENCE :
+2016 CCI 187
+NO DU DOSSIER DE LA COUR :
+2014-1896(IT)I
+INTITULÉ DE LA CAUSE :
+LUCIANO DI CIENZO c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 16 août 2016
+MOTIFS DU JUGEMENT
+L’honorable juge Gaston Jorré
+DATE DU JUGEMENT :
+Le 26 août 2016
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Dominique Gallant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] Voir le paragraphe 50(1) de la Loi de l’impôt sur le revenu.
+[2] Ils avaient vendu certaines de leurs actions au cours d’une année antérieure. Voir la pièce A-7.
+[3] Voir la page couverture et la page 1 de l’onglet 1 de la pièce. L’onglet 17 est vide, mais il semble qu’aucun document ne soit manquant. En effet, selon la table des matières, les documents qui devraient se trouver aux onglets 6 et 7 sont tous les deux à l’onglet 6. Par la suite, les documents sont tous décalés d’un onglet jusqu’à l’onglet 17. À partir de l’onglet 18, les documents se suivent comme l’indique la table des matières.
+[4] Après la vente, on pourrait penser qu’il s’agit d’un « compte d’ancien actionnaire ». En effet, la pièce I-3, qui représente, selon l’appelant, le montant qu’il a prêté à l’entreprise et qui était reflété dans le compte d’actionnaire, montrant plus précisément les 56 250 $ comme crédités au compte.
+[5] La lettre se trouve à la pièce A-7. En ce qui concerne le rôle de cet avocat dans le cadre de la vente : voir la lettre du 29 novembre 2013 et la première page au premier onglet de la pièce A-9.
+[6] Je note également que la clause 13 de la convention d’achat d’actions prévoit que l’entente constitue la totalité de la convention et qu’il n’y a aucune déclaration, promesse ou entente verbale entre les parties et que la convention ne peut être modifiée que par un écrit signé par les parties.

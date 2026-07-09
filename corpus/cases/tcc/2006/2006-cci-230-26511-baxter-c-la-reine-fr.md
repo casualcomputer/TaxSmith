@@ -1,0 +1,745 @@
+---
+title: "Baxter c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26511/index.do"
+last_modified: "2006-04-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 230"
+citation2: ""
+neutral_citation: "2006 CCI 230"
+decision_date: "2006-04-13"
+language: "fr"
+item_id: "26511"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3259
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:41:29.460000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1fe67eeae1e806dcf681823993cddbb14feb29198499587841522b43bdb82b7a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Baxter c. La Reine
+
+- Citation: 2006 CCI 230
+- Decision date: 2006-04-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3259, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Baxter c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-13
+Référence neutre
+2006 CCI 230
+Numéro de dossier
+2002-4035(IT)G
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002‑4035(IT)G
+ENTRE :
+R. DAREN BAXTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 15 juin 2005 à Halifax (Nouvelle‑Écosse)
+et
+les 18 et 19 août 2005 à Toronto (Ontario).
+Devant : L'honorable juge R. D. Bell
+Comparutions :
+Avocats de l'appelant :
+Me Edwin C. Harris, c.r.
+Me Al Meghji
+Me Ted Citrome
+Avocats de l'intimée :
+Me John W. Smithers
+Me V. Lynn W. Gillis
+________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998 et 1999 sont admis et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+L'adjudication des dépens est différée comme il est prévu dans les motifs.
+Signé à Ottawa, Canada, ce 13e jour d'avril 2006.
+« R. D. Bell »
+Le juge Bell
+Traduction certifiée conforme
+ce 26e jour d'octobre 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI230
+Date : 20060413
+Dossier : 2002‑4035(IT)G
+ENTRE :
+R. DAREN BAXTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bell
+POINTS EN LITIGE
+[1] Les points en litige sont ci‑après énoncés :
+1. Au cours des années d'imposition en question, l'appelant exploitait‑il une entreprise dans le cadre de laquelle il utilisait la licence acquise de TCL TRAFALGAR B.V. (« TCL ») pour négocier des contrats à terme avec TRAFALGAR TRADING LIMITED (« TT ») et, subsidiairement, l'appelant a‑t‑il acquis la licence afin de tirer un revenu de biens?
+2. En acquérant cette licence, l'appelant traitait‑il sans avoir de lien de dépendance avec TCL?
+3. L'appelant a‑t‑il acquis un « abri fiscal » selon la définition figurant à l'article 237.1 de la Loi de l'impôt sur le revenu (la « Loi »)[1]?
+4. Quelle était la juste valeur marchande de la licence au moment où elle a été acquise?
+5. Le droit de l'appelant à la déduction pour amortissement est‑il restreint par les dispositions de l'article 67 de la Loi?
+6. Le billet représentait‑il une obligation éventuelle?
+LES FAITS
+[2] L'appelant a témoigné être avocat et s'occuper de droit commercial et de droit fiscal; au mois d'avril 2004, il a été nommé vice‑président de la Nova Scotia Securities Commission (Commission des valeurs mobilières de la Nouvelle‑Écosse). L'appelant a également déclaré avoir récemment été élu membre du conseil du Barreau.
+[3] L'appelant a déclaré que la présente affaire découle d'une demande de déduction pour amortissement qu'il avait faite à l'égard de l'achat d'une licence d'utilisation du logiciel[2]. Il a affirmé que ce logiciel permet d'analyser les tendances historiques du marché et de prédire les tendances futures et qu'il donne des ordres proposant certains achats et certaines ventes. L'appelant a témoigné avoir acheté la licence de TCL au prix de 50 000 $[3] pour une durée de dix ans. Certains éléments de preuve soumis par la suite indiquent que l'appelant a versé un acompte de 4 375 $ et a remis trois chèques postdatés de 4 375 $ chacun; ces chèques ont été encaissés au cours des neuf mois suivants. Puis, le 31 décembre 1998, l'appelant a émis en faveur de TCL un billet de 32 500 $ venant à échéance le 31 décembre 2008 et portant intérêt au taux de 5 % l'an, les intérêts étant payables chaque mois, et il a remis ce billet à TCL. Le billet n'est pas assujetti aux dispositions du contrat de représentation, et aucune des dispositions du billet ne prévoit qu'un titulaire de licence doit conclure un contrat de représentation. En outre, l'article 11.4 du contrat d'octroi de licence prévoit que ce contrat constitue toute l'entente conclue par les parties au sujet de l'achat et de la vente de la licence.
+[4] L'appelant a affirmé qu'il avait conclu avec TT un contrat de représentation aux termes duquel il fournissait le logiciel, que le mandataire investissait un capital de 10 000 $ et que celui‑ci était tenu d'utiliser la licence pour procéder à des opérations. L'appelant, en sa qualité de titulaire de licence en vertu du contrat d'octroi de licence, pouvait à son gré conclure un contrat de représentation avec TT. Il croyait comprendre qu'il s'agissait d'un choix dont les titulaires de licence pouvaient se prévaloir en vertu du contrat d'octroi de licence et que les titulaires de licence n'étaient pas tenus de conclure un contrat de représentation. Aucun élément de preuve n'a été soumis à l'appui de la position selon laquelle les titulaires de licence étaient assujettis à une telle obligation. Le témoin de l'intimée lui‑même, Allan Peters (« M. Peters »)[4], a déclaré qu'il croyait comprendre que les titulaires de licence n'étaient pas tenus de conclure un contrat de représentation.
+Le contrat de représentation comprend les dispositions suivantes :
+a) TT est le mandataire exclusif de l'appelant, lorsqu'il s'agit de faire des placements dans des contrats S&P 500 en utilisant la licence;
+b) le contrat de représentation est d'une durée de dix ans;
+c) l'appelant remet une copie du logiciel à TT;
+d) TT engage un capital initial de 10 000 $;
+e) des frais de rapport d'opération de 0,50 dollar américain sont versés au compte de capital engagé pour chaque rapport d'opération généré par le logiciel, jusqu'à concurrence d'un maximum de 7 500 dollars américains l'an (les « frais de rapport d'opération »);
+f) une commission de gestion de 0,25 dollar américain est versée à TT pour chaque rapport d'opération généré par le logiciel, jusqu'à concurrence d'un maximum de 3 750 dollars américains l'an (la « commission de gestion »);
+g) les bénéfices tirés des placements, déduction faite des frais de courtage, des frais de rapport d'opération et des commissions des placements (les « bénéfices nets des placements »), sont répartis comme suit sur une base mensuelle entre le compte de capital engagé et TT :
+(i) tant que le solde du compte de capital engagé ne correspond pas au principal, 70 % des bénéfices nets des placements sont versés au compte de capital engagé, et 30 % sont versés à TT;
+(ii) une fois que le solde du compte de capital engagé est supérieur au principal, 30 % des bénéfices nets des placements sont versés au compte de capital engagé, et 70 % sont versés à TT;
+(iii) malgré ce qui est prévu aux sous‑alinéas (i) et (ii) ci‑dessus, dans la mesure où le solde du compte de capital engagé est inférieur au solde antérieur le plus élevé de ce compte à la fin d'un mois, la totalité des bénéfices nets des placements sont versés au compte de capital engagé;
+h) TT s'engage à verser à TCL, du compte de capital engagé, un montant correspondant aux intérêts courus, mais non payés, sur le billet pour le compte de l'appelant;
+i) à l'expiration du contrat de représentation, le capital engagé sera réparti comme suit :
+(i) le capital initial de 10 000 $ est remis à TT;
+(ii) le solde est versé au titulaire de la licence;
+j) TT s'engage à ce que le rendement annuel moyen (selon la définition figurant à l'article 1.1 du contrat de représentation, à savoir [TRADUCTION] « la moyenne des bénéfices annuels bruts des placements réalisés depuis la date de la signature [du contrat de représentation], déduction faite des frais de courtage, exprimée sous la forme d'un pourcentage des redevances d'utilisation du logiciel ») soit d'au moins 8 %;
+k) TCL convient que le principal sera réduit au prorata dans la mesure où TT viole l'engagement susmentionné (la « garantie de revenu »).
+Les intérêts courus sur le billet ont de fait été versés à TCL à l'aide du compte de capital engagé pour le compte de l'appelant.
+[5] L'appelant a déclaré avoir pour la première fois entendu parler par un client du potentiel offert par une licence d'utilisation du logiciel en décembre 1998. Ce client, Burton Langille (« M. Langille »), a transmis des documents à l'appelant après avoir reçu un appel téléphonique de ce dernier à ce sujet. L'appelant a affirmé qu'il discutait depuis longtemps de possibilités d'affaires avec M. Langille et qu'il avait énormément confiance en celui‑ci. Il a affirmé avoir reçu de M. Langille un sommaire du rendement de la licence pour un mois donné.
+Une copie de ce document, produite en preuve, contenait la description suivante :
+[TRADUCTION]
+Le tableau suivant indique le rendement quotidien d'une licence de 10 000 $ concernant les opérations‑test dites « Walk‑Forward ». Les opérations « Walk‑Forward » se rapportent à la période allant du moment où la simulation a pris fin (au mois de mai 1998) au moment où les opérations en temps réel commenceront au mois de novembre 1998. Les rendements quotidiens des indices S&P 500 et TSE 300 ont été inclus à des fins de comparaison. Le graphique indique le rendement cumulatif pour le mois.
+L'appelant a dit ce qui suit :
+[TRADUCTION]
+Je croyais qu'il s'agissait d'une occasion passablement intéressante… L'idée que ce programme éliminait… l'émotion humaine et qu'il était basé sur une analyse statistique me plaisait. L'idée qu'au début de la journée, tous les actifs étaient constitués d'argent comptant et que le programme fonctionnait de façon qu'il y ait des opérations toute la journée, mais qu'à la fin de la journée, tout retournait en argent comptant me plaisait également, de sorte que cela m'intéressait énormément. Et, bien sûr, le rendement éventuel, qui est indiqué sous le titre « Rendement éventuel » dans les documents versés à l'onglet 1, me semblait fort intéressant.
+L'appelant a déclaré que M. Langille avait simulé des résultats d'opérations pour une période d'environ un an avant de faire des opérations réelles et que l'uniformité des rendements l'avait énormément impressionné. Il a également affirmé s'en être remis à M. Langille parce qu'il lui faisait énormément confiance et que lui‑même, en tant qu'avocat, ne s'y connaissait pas bien en matière de placements et qu'il trouvait que sa profession, le fait qu'il devait servir ses clients tout en maintenant et en administrant le cabinet, était passablement exigeante. Selon lui, M. Langille était [TRADUCTION] « un homme fort compétent » qui passait énormément de temps à analyser le marché et à conclure des opérations.
+[6] L'appelant a déclaré ne pas avoir vu l'évaluation du logiciel préparée par EMC Partners ou l'avis exprimé par American Appraisal Canada, Inc. avant d'acheter la licence. Toutefois, il a affirmé que M. Langille l'avait informé qu'il y avait deux évaluations qui [TRADUCTION] « justifiaient amplement le prix demandé pour le logiciel ». L'appelant a affirmé avoir parlé de cet investissement à son associé en affaires et avoir demandé à certains collègues [TRADUCTION] « ici et là dans la ville » s'ils connaissaient le groupe Trafalgar, s'il s'agissait d'une société véritable et si elle avait bonne réputation. L'appelant a déclaré qu'un certain nombre de ses collègues avaient confirmé la chose. Il a témoigné ne pas comprendre le fonctionnement du logiciel et que c'était le résultat qui l'intéressait ainsi que ce que le logiciel pouvait faire, en ce sens qu'il pouvait prédire les tendances du marché. L'appelant a affirmé avoir su qu'il achetait un logiciel, qu'il s'agissait d'un bien de la catégorie 12[5] et qu'il pouvait demander une déduction pour amortissement sur une période de deux ans. Il a également déclaré que la chose avait influé sur sa décision.
+[7] L'appelant a témoigné que ni lui ni personne d'autre avec qui il avait un lien n'entretenait de relations avec TCL et que l'achat de la licence d'utilisation du logiciel était [TRADUCTION] « purement une question d'affaires ». Il a déclaré que lors de l'achat, il ne savait pas qui était Ed Furtak (« M. Furtak »)[6]. Il a affirmé avoir rencontré M. Furtak le 30 mai seulement[7], lorsqu'il avait dîné avec celui‑ci. Il a déclaré ne jamais avoir fourni de services à M. Furtak à titre professionnel, ne pas avoir eu d'amis ou de connaissances « chez Trafalgar », n'avoir jamais parlé à Wayne Gillis (« M. Gillis »)[8] avant de faire l'investissement et n'avoir jamais rencontré Allan Peters (« M. Peters »)[9] ou parlé à celui‑ci.
+[8] L'appelant a déclaré que le prix d'achat de 50 000 $ n'avait pas été négocié. Voici la remarque qu'il a faite :
+[TRADUCTION]
+L'offre d'acquisition de la licence m'a été présentée à un prix fixe. Je suppose que j'avais le choix de — au sujet du nombre de licences que je voulais acheter, mais le prix était fixe. C'était une offre à prendre ou à laisser, selon ce que je croyais comprendre, compte tenu de la documentation.
+[9] En ce qui concerne ce qui s'est passé après l'achat de la licence, l'appelant a dit ce qui suit :
+[TRADUCTION]
+Selon les dispositions en vertu des contrats, une fois que les contrats étaient acceptés et que je soumettais — que je soumettais les documents appropriés et mes chèques, la conclusion d'opérations commencerait dans un délai d'environ 30 jours. Cela était prévu dans le contrat de représentation et le mandataire était Trafalgar Trading Limited, et Trafalgar Trading Limited avait ensuite, si je comprends bien, ouvert un compte bancaire, y avait versé en tout un montant de dix mille dollars conformément au contrat de représentation et avait retenu les services d'un courtier que l'on mentionne dans le contrat de représentation. Et de plus, TCL Trafalgar B.V., qui accordait la licence d'utilisation du logiciel, conformément à mes instructions, transmettait directement le logiciel à Trafalgar Trading. Trafalgar Trading utilisait ensuite le logiciel pour conclure les opérations pour — pour conclure les opérations selon les instructions.
+L'appelant a ensuite affirmé qu'il croyait comprendre que TT avait reçu le logiciel et avait commencé à conclure des opérations [TRADUCTION] « probablement au mois de février 1999 ». Il a déclaré qu'il recevait un rapport, en général chaque mois, au sujet des opérations conclues le mois précédent. Il a déclaré que le montant minimal auquel les licences pouvaient être achetées était de 50 000 $ et que c'est ce qu'il avait acheté. L'appelant a ensuite parlé du paiement des frais de courtage ainsi que des bénéfices nets ou des pertes nettes attribuables aux opérations et il a mentionné les diverses formules figurant dans le contrat de représentation. Il a déclaré que la durée de la licence était de dix ans et que le contrat de représentation était également d'une durée de dix ans. Il a déclaré qu'au bout de dix ans, le solde du capital devait être déterminé, le montant engagé par TT étant remboursé à cette dernière et le solde lui revenant. L'appelant a ensuite lu l'article 8.3 du contrat de représentation, lequel est rédigé comme suit :
+[TRADUCTION]
+Trafalgar Trading s'engage à ce que, à l'expiration du présent contrat, le rendement annuel moyen généré par le programme indiciel Trafalgar sur le capital engagé soit d'au moins huit pour cent (8 %).
+L'appelant a affirmé avoir considéré le rendement de 8 % sur les 50 000 $ comme étant garanti. Il a ensuite lu l'article 8.4 du contrat, lequel est rédigé comme suit :
+[TRADUCTION]
+TCL Trafalgar convient par les présentes que, malgré les dispositions du contrat d'octroi de licence et du billet, l'obligation du titulaire de la licence de respecter les conditions du billet et de l'alinéa 3.1e) du contrat d'octroi de licence sera limitée au prorata, compte tenu de la mesure dans laquelle Trafalgar Trading respecte les dispositions de l'article 8.3 du présent contrat.
+L'appelant a également affirmé qu'il croyait comprendre que cela voulait dire que TT générerait le bénéfice de 8 % et que TT était tellement sûre de réussir que, si elle ne générait pas ce rendement, l'obligation qui incombait à l'appelant de respecter les dispositions du billet [TRADUCTION] « sera allégée au prorata » conformément à ce que le rendement aurait pu être.
+[10] Pendant le contre‑interrogatoire, l'appelant a affirmé ne pas savoir si M. Langille avait de l'expérience dans la négociation de contrats à terme à la bourse de marchés à terme appelée Chicago Mercantile Exchange et n'avoir personnellement aucune expérience dans ce domaine, puisqu'il n'avait jamais auparavant négocié de contrats à terme.
+On a posé à l'appelant la question suivante :
+[TRADUCTION]
+Savez‑vous ce qu'est un COM?
+Il a répondu par la négative.
+L'avocat de l'intimée a expliqué à l'appelant qu'un COM était un conseiller en opérations sur marchandises. L'appelant a affirmé ne pas avoir « soumis » la proposition à un COM. Il a déclaré avoir déduit le montant de 2 500 $ en 1998 et le reste, 47 500 $, en 1999. Il a affirmé ne pas avoir consulté qui que ce soit qui s'y connaissait en matière de contrats à terme au sujet des frais. Il a affirmé que M. Langille lui avait dit que :
+[TRADUCTION]
+l'historique des opérations simulées montrait… que les chiffres étaient toujours phénoménaux, comme il l'a dit.
+Pendant le contre‑interrogatoire, l'appelant a de nouveau déclaré que, conformément au contrat de représentation, TT avait versé 10 000 $ dans un compte de capital et qu'il s'agissait du capital de départ qui avait servi aux opérations. En réponse aux questions de l'avocat de l'intimée, l'appelant a affirmé ne pas avoir tenté de négocier la date d'échéance, soit le 31 décembre 2008, et ne pas avoir tenté de négocier le montant du principal, qui était de 32 500 $. Les propos suivants ont été échangés :
+[TRADUCTION]
+Q. Vous n'avez donc aucunement tenté de négocier?
+R. Non. J'estimais que c'était un arrangement à prendre ou à laisser.
+L'avocat de l'intimée a ensuite demandé à l'appelant s'il négocierait le prix d'une voiture ou d'une hypothèque. L'avocat a poursuivi ce genre de questions en demandant à l'appelant s'il avait essayé de négocier le taux d'intérêt applicable au billet, et celui‑ci a répondu par la négative.
+[11] L'appelant a répété que TT était son mandataire et qu'elle avait retenu les services d'un courtier pour suivre les instructions données par le logiciel. Il a également dit que son mandataire avait ouvert un compte aux fins de la conclusion d'opérations et, en outre, qu'il n'avait pas communiqué son nom au Chicago Mercantile Exchange, mais qu'il ne savait pas si son mandataire l'avait fait.
+[12] Lorsqu'on lui a demandé s'il exploitait une entreprise, l'appelant a répondu par l'affirmative. Les propos suivants ont été échangés :
+[TRADUCTION]
+Q. Et quelle est l'entreprise? Pouvez‑vous me la décrire?
+R. Eh bien, l'entreprise est en fait décrite dans le contrat de représentation. Je suis titulaire de cette licence d'utilisation du logiciel et j'ai effectué un apport au moyen de l'arrangement que j'ai conclu avec le mandataire pour qu'il effectue des opérations pour mon compte. Le mandataire a engagé le capital, de sorte que le capital sera — le capital engagé par mon mandataire servira à la conclusion d'opérations sur une période de dix ans. Au bout de dix ans, nous allons déterminer le montant des bénéfices générés grâce au capital engagé par mon mandataire et par ma licence et nous allons partager ces bénéfices en conséquence. Habituellement, le mandataire est payé au cours de la durée de l'entente, mais c'est au bout de dix ans que je détermine le montant exact de mes bénéfices.
+Q. D'accord. Est‑ce que vous dites que vous exploitez encore cette entreprise?
+R. Oui.
+Q. D'accord. Et vous conviendrez avec moi qu'étant donné que vous êtes membre de la Nova Scotia Securities Commission, vous avez l'obligation continue de divulguer à cette commission ce que vous avez décrit comme étant l'entreprise?
+R. Je ne sais pas si j'ai décrit l'entreprise, parce que ce n'est pas moi qui décide des opérations. Les règles relatives aux conflits d'intérêts sont fondées sur les renseignements que je peux avoir ou que l'on considère que j'ai en ma qualité de membre de la commission. Si je peux utiliser ces renseignements à mon profit personnel pour donner directement des ordres d'achat et de vente, la chose pourrait donner lieu à une apparence de conflit d'intérêts et il faudrait y voir. Dans ce cas particulier, je n'ai pas la moindre idée des titres habituels qui sont achetés et vendus. C'est un tiers qui s'en charge. […] Je ne décide pas des opérations, de sorte que je ne donne pas de conseils ou que je ne décide pas des opérations et que je n'ai donc rien à déclarer.
+[13] L'appelant a ensuite témoigné avoir demandé à M. Langille si un numéro d'identification d'abri fiscal avait été obtenu et celui‑ci lui avait répondu par la négative. En réponse à une question de l'avocat, l'appelant a déclaré que, selon lui, il n'y avait pas de risque d'abri fiscal. Il a ensuite témoigné avoir vu, au mois de décembre 1988, divers avis juridiques du cabinet d'avocats Fraser Milner.
+[14] L'avocat de l'intimée a ensuite posé une longue série de questions au sujet du rendement du placement après l'acquisition de la licence d'utilisation du logiciel. L'appelant a ensuite précisé qu'il avait versé un acompte de 17 500 $ pour la licence, en partie au moyen de chèques postdatés payables à TCL, lesquels avaient été encaissés, et que TT avait versé 10 000 $ dans le compte de capital à l'aide duquel les opérations étaient conclues en son nom.
+[15] L'avocat de l'appelant a ensuite produit en preuve un certain nombre d'extraits tirés de l'interrogatoire préalable du représentant de l'intimée, Douglas Bruce (« M. Bruce »).
+L'avocat s'est reporté aux éléments de preuve essentiels, et notamment à l'aveu du vérificateur selon lequel en établissant une nouvelle cotisation à l'égard de M. Baxter, l'Agence des douanes et du revenu du Canada (« Revenu ») n'avait pas supposé que des déclarations ou des annonces avaient été faites à celui‑ci et qu'il ne disposait d'aucun fait et d'aucun renseignement indiquant que des annonces avaient été faites et qu'il n'avait aucune connaissance sur ce point. L'avocat de l'appelant a informé la Cour qu'à la suite de cet aveu, le procureur général avait modifié la réponse en vue de supprimer l'allégation selon laquelle des annonces avaient été faites à l'appelant.
+[16] L'avocat de l'appelant a ensuite dit ce qui suit :
+[TRADUCTION]
+C'est ce qu'ils avaient énoncé dans leur acte de procédure initial, et ils l'ont ensuite supprimé dans leur réponse modifiée, et nous convenons maintenant, bien sûr, qu'aucune déclaration ou annonce n'a été faite à M. Baxter, et que telle est la portée de la preuve concernant l'abri fiscal.
+[17] L'avocat de l'appelant a dit que le procureur général avait allégué que le répartiteur avait supposé qu'il n'y avait pas d'arrangements véritables au sujet du remboursement du billet. Lorsque l'avocat a donné à entendre au représentant qu'il ne l'avait pas réellement supposé, ce dernier a répondu ce qui suit :
+[TRADUCTION]
+Je ne puis être en désaccord avec vous.
+L'avocat a ensuite dit que, par conséquent, le procureur général avait modifié son acte de procédure en vue de supprimer cette allégation.
+[18] Lors de l'interrogatoire préalable, l'avocat a posé la question suivante à M. Bruce :
+[TRADUCTION]
+En vous préparant pour cet interrogatoire préalable, avez‑vous constaté dans la réponse quoi que ce soit que vous contestez d'une façon ou d'une autre, quelque chose qui est selon vous inexact ou incomplet?
+M. Bruce a répondu comme suit :
+[TRADUCTION]
+Quant à la réponse, l'hypothèse selon laquelle il existait un lien de dépendance est la seule chose qui selon moi posait un problème ou qui me pose un problème.
+Lorsque M. Bruce a mentionné le fait que, dans la réponse, il était allégué que les parties qui participaient à l'investissement avaient entre elles un lien de dépendance, l'avocat de l'appelant lui a demandé pourquoi cela lui posait un problème, et M. Bruce a répondu :
+[TRADUCTION]
+Je ne puis réellement dire qu'au moment où la cotisation a été établie, je pensais à cela.
+La question suivante a été posée à M. Bruce lors de l'interrogatoire préalable :
+[TRADUCTION]
+Vous me dites donc que, lorsque la cotisation a été établie, l'hypothèse n'avait pas en fait été émise?
+Monsieur Bruce a répondu :
+[TRADUCTION]
+Non — non — oui, je crois pouvoir — c'est bien ce que je dis, oui.
+L'avocat de l'appelant a alors déclaré que le procureur général avait supprimé cette allégation et qu'il l'avait plaidée séparément dans la réponse modifiée à l'avis d'appel, de sorte qu'il assumait la charge de la preuve.
+[19] Quant à la question de savoir si le billet était une obligation éventuelle, l'avocat de l'appelant, en se référant encore aux extraits, a dit ce qui suit :
+[TRADUCTION]
+Il dit fondamentalement — fondamentalement, voici ce que j'essayais de lui dire :
+De quels faits disposiez‑vous pour arriver à la conclusion selon laquelle il s'agissait d'une obligation éventuelle?
+L'avocat de l'appelant a déclaré que le témoin avait essentiellement répondu ce qui suit :
+[TRADUCTION]
+Je me suis contenté de — il s'agissait simplement d'interpréter les documents.
+L'avocat a ensuite déclaré qu'il lisait cet extrait parce que si l'intimée donnait à entendre que les faits indiquaient l'existence d'une obligation éventuelle, il demanderait quels étaient ces faits. Il a ajouté :
+[TRADUCTION]
+Le vérificateur n'a pu constater aucun fait, de sorte que le procureur général devra prouver tout fait qu'il juge nécessaire en ce qui concerne cette allégation, bien que, en fin de compte… je ne crois pas que la Couronne et moi‑même allons être en désaccord lorsqu'il s'agit de dire qu'en fait, la question de l'obligation éventuelle repose sur l'interprétation des contrats.
+[20] L'avocat de l'appelant s'est ensuite penché sur la partie des extraits concernant l'argument relatif au caractère raisonnable. Voici ce qu'il a dit :
+[TRADUCTION]
+La portée de la preuve… elle se rapporte à ce que le — il s'agit d'une autre allégation dans laquelle le procureur général a affirmé, dans la réponse initiale, qu'en établissant la cotisation, le ministre avait conclu que la juste valeur marchande de la licence était symbolique. Or, M. Bruce établit qu'il n'en est pas ainsi, et c'est ce qui a amené le procureur général à encore une fois supprimer cette hypothèse, et à la plaider séparément, en disant : « D'accord, le vérificateur ne l'a pas supposé, mais c'est ce que nous alléguons et nous allons le prouver. » Il s'agit donc d'une autre hypothèse qui a été supprimée.
+[21] Quant à une autre partie des extraits, voici ce que l'avocat de l'appelant a dit :
+[TRADUCTION]
+Ce que je voulais dire, c'est que le procureur général a dit que le vérificateur avait supposé que toutes ces opérations comportaient le versement d'un acompte et l'émission d'un billet et que le vérificateur admet, dans les passages suivants, qu'il n'en est pas ainsi, qu'il savait que d'autres opérations étaient conclues entièrement au comptant au sujet de cette licence, sans qu'un billet soit émis. Je lui ai donc dit : « Pourquoi le mot « apparemment » a‑t‑il été employé? » Il a répondu : « Je ne le sais pas. » Et j'ai ensuite dit : « Et vous saviez qu'il y avait des ventes au comptant, sans que des billets soient émis? » Et il a répondu : « Oui. »
+J'ai ensuite demandé à l'avocat s'il s'agissait de ventes conclues avec d'autres personnes et il a répondu par l'affirmative.
+[22] Laurel Lee Uberoi était le premier témoin de l'intimée. Elle était vérificatrice au sein de la section de l'évitement fiscal, à Revenu. Il n'y a rien dans son témoignage qui aide à résoudre les questions qui se posent ici.
+[23] L'avocat de l'intimée a ensuite fait témoigner M. Peters. Monsieur Peters, qui est un représentant indépendant en valeurs mobilières, a témoigné qu'il travaillait à la pige, qu'il s'occupait de ventes de valeurs mobilières et qu'il avait rencontré MM. Furtak et Gillis, qui représentaient le groupe Trafalgar. Il a déclaré que lorsqu'une licence était achetée, il fallait conclure un contrat de représentation. Il a déclaré avoir vendu des licences à trois personnes, ce qui représentait quatre ventes au prix de 50 000 $ chacune. Il a expliqué ce que la licence visait à accomplir et il a affirmé avoir expliqué les conséquences fiscales découlant de l'achat d'une licence. Voici ce qu'il a dit :
+[TRADUCTION]
+J'ai expliqué que les cinquante mille dollars (50 000 $) investis seraient probablement admissibles à titre de bien de la catégorie 12, ce qui donnait droit à une déduction linéaire de 50 % — ou de 100 %… sur une période de deux ans.
+Monsieur Peters a également dit que les bénéfices et les pertes ne seraient répartis qu'à la fin de la période de dix ans, que les intérêts sur le billet devaient être payés à l'aide des bénéfices provenant des opérations, que les frais d'administration seraient prélevés sur les bénéfices, que les frais de courtage seraient prélevés sur les bénéfices et que le billet de 32 500 $ devait être remboursé à l'aide des bénéfices. Monsieur Peters a également dit que si le billet n'était pas remboursé à l'aide des bénéfices, le souscripteur n'aurait pas à émettre un chèque afin de combler la différence. Il a affirmé qu'il [TRADUCTION] « leur aurait montré » des avis juridiques obtenus de Trafalgar. Il a affirmé qu'il s'agissait d'analyses en profondeur du concept et de la question de savoir si cela constituait un abri fiscal, si tous les capitaux engagés étaient admissibles à titre de bien de la catégorie 12 et, par conséquent, s'ils pouvaient être déduits. Il a ensuite dit que, selon les avis obtenus, [TRADUCTION] « tout était en règle ». Les propos suivants ont été échangés :
+[TRADUCTION]
+Q. Lorsque vous vendiez le programme indiciel Trafalgar, est‑ce que vous expliquiez à vos clients qu'ils exploitaient une entreprise?
+R. Oui. On leur expliquait qu'il s'agissait d'une entreprise, mais on leur expliquait également que l'entreprise serait gérée par Trafalgar.
+Q. Quelles explications avez‑vous données à vos clients au sujet de la façon de produire leurs déclarations de revenus?
+R. Nous leur disions de produire une annexe distincte avec leur déclaration de revenus en vue de déclarer cette entreprise et de demander la déduction pour amortissement.
+Q. Et c'est ce que vous leur expliquiez?
+R. Oui.
+Monsieur Peters a affirmé avoir probablement remis aux investisseurs des copies des évaluations qui avaient été effectuées au sujet de l'investissement. Il a déclaré que cela n'avait pas grand intérêt pour le client parce que l'accent était principalement mis sur les économies d'impôt et sur la possibilité que l'investissement génère énormément de bénéfices par suite de la [TRADUCTION] « conclusion d'opérations intra‑journalières ». Lorsqu'on a demandé à M. Peters s'il estimait qu'il était possible de discuter des dispositions des contrats, il a répondu que cela n'était pas possible. Voici ce qu'il a dit :
+[TRADUCTION]
+On leur présentait l'affaire telle quelle, comme une offre à prendre ou à laisser.
+Monsieur Peters a affirmé que des explications étaient données au sujet de l'aspect fiscal de l'investissement au cours d'une présentation aux investisseurs éventuels.
+[24] Pendant le contre‑interrogatoire, M. Peters a lu une partie d'une note qu'il avait envoyée à un grand nombre de ses clients, à savoir :
+[TRADUCTION]
+La Belmont Financial Group Incorporated ne vous fait aucune déclaration ni aucune annonce au sujet des conséquences fiscales de l'investissement dans ce programme.
+Monsieur Peters a ensuite affirmé ne pas avoir informé les clients des conséquences fiscales et qu'on recommandait toujours à ceux‑ci d'obtenir eux‑mêmes des avis de leurs propres conseillers fiscaux.
+[25] L'avocat de l'appelant a présenté l'avis juridique que le cabinet d'avocats Fraser Milner avait donné à M. Peters. Cet avis était rédigé comme suit :
+[TRADUCTION]
+Aucun des documents ne contiendra de déclaration, d'annonce ou de garantie au sujet de conséquences fiscales que comporte le logiciel pour le contribuable.
+Monsieur Peters a affirmé qu'il ne croyait pas que les documents aient été remis sans que Trafalgar n'ait fait d'annonces au sujet des conséquences fiscales.
+Les propos suivants ont été échangés :
+[TRADUCTION]
+Q. Eh bien, vous pouvez peut‑être m'expliquer pourquoi vous pensiez que des annonces avaient été faites, même si vous m'avez dit que vous souscriviez aux avis.
+R. Eh bien, je crois que des annonces ont été faites dans certains documents, mais peut‑être pas dans ce document‑ci.
+Q. Dans quels documents les annonces étaient‑elles faites?
+R. Oh, je ne m'en souviens pas.
+Q. Vous ne vous en souvenez pas, d'accord. Le paragraphe suivant dit ensuite ce qui suit :
+Chaque acheteur aura le choix, mais non l'obligation, de conclure un contrat de représentation.
+Le voyez‑vous?
+R. Ouais.
+Q. Par conséquent, vous croyiez comprendre par suite des… avis que vous avez lus, que la décision de conclure un contrat de représentation était en fait un choix, n'est‑ce pas?
+R. Je suppose qu'il y est dit qu'ils avaient le choix, puis il est ensuite dit que c'était — « Nous prévoyons que tous les acheteurs raisonnables se prévaudront de ce choix. »
+Q. Oui. Et n'est‑ce pas en fait la façon dont l'opération était structurée avec les clients, vous leur faisiez savoir qu'ils avaient le choix — qu'un choix leur était offert, mais que l'on prévoyait qu'ils concluraient le contrat, n'est‑ce pas?
+R. Peut‑être bien. Cela s'est passé il y a si longtemps que je ne m'en souviens pas, mais je me rappelle que personne n'a voulu se prévaloir de ce choix.
+Q. Ouais, je crois que c'est — je comprends ce que vous dites, vous vous rappelez que personne ne voulait se prévaloir de ce choix, mais on n'a informé personne qu'il fallait absolument signer le contrat de représentation, n'est‑ce pas? Vous ne leur avez pas dit cela, n'est‑ce pas?
+R. Probablement pas.
+[26] Après qu'on lui eut présenté un certain nombre de diapositives et qu'il eut confirmé le contenu du matériel de promotion des ventes, M. Peters a dit qu'il se fondait sur le rendement passé pour conseiller les clients, qu'il n'avait pas de raison de douter des chiffres figurant dans le matériel de promotion et qu'il croyait que ses clients feraient un bon investissement. Monsieur Peters a souscrit à la thèse de l'avocat de l'appelant selon laquelle le titulaire de la licence acquérait en premier lieu une licence d'utilisation des programmes de placement, qu'il désignait ensuite Trafalgar comme mandataire pour négocier les contrats S&P 500 en utilisant le capital engagé par Trafalgar, et que les bénéfices provenant des placements étaient ensuite partagés entre le titulaire de la licence et Trafalgar.
+[27] Monsieur Peters a témoigné que c'est sur cette base qu'il avait dit, antérieurement, qu'il s'agissait d'une entreprise, mais que l'entreprise était gérée par Trafalgar. Il a ensuite répondu par l'affirmative à la question de l'avocat au sujet du fait que les clients investissaient des capitaux en sachant fort bien qu'il y avait des possibilités de réaliser des gains énormes, mais que l'investissement comportait également des risques. Monsieur Peters a ensuite répondu par l'affirmative à la question suivante :
+[TRADUCTION]
+Q. Je vous dirai en — en terminant cette partie de l'interrogatoire, que selon tous ces renseignements, l'avis que vous donniez à vos clients était essentiellement qu'il s'agissait d'un fort bon investissement commercial, comportant des conséquences fiscales favorables, n'est‑ce pas là à peu près de quoi il en ressortait?
+La Couronne a également fait témoigner Jeffery Raymond Dahn (« M. Dahn »). Monsieur Dahn est professeur de physique à l'université Dalhousie. Pendant la période pertinente, il traitait avec un conseiller financier qui s'appelait Medric Cousineau (« M. Cousineau »). Monsieur Dahn a témoigné avoir acheté de M. Cousineau une licence d'utilisation du programme indiciel Trafalgar en versant un montant de 17 500 $ en argent et en souscrivant un billet. Il croyait comprendre que les capitaux étaient investis pour une période de dix ans, après quoi, selon ce qu'il a dit, tout bénéfice accumulé dans le compte du capital engagé servirait au remboursement du billet, le reste lui étant transféré.
+[28] Il y a eu de longues discussions se rapportant à l'objection que l'avocat de l'appelant avait soulevée au sujet de la question posée par l'avocat de l'intimée, à savoir :
+[TRADUCTION]
+Et que vous a‑t‑il expliqué?
+L'avocat de l'appelant a alors retiré son objection. L'objection, qui était fondée sur le fait que la réponse à cette question constituait du ouï‑dire, a été retirée après que la Cour eut fait savoir qu'il lui faudrait du temps pour examiner l'état du droit quant à cette objection et que l'avocat de l'appelant eut déclaré qu'il ne voulait pas que l'audience soit ajournée en attendant la décision. L'avocat a ensuite dit ce qui suit :
+[TRADUCTION]
+Je dirai simplement que je ne veux pas que le retrait de l'objection soit considéré comme un aveu que j'estime qu'il s'agit d'une question pertinente.
+Monsieur Dahn a affirmé que M. Cousineau lui avait fait savoir qu'il achèterait un bien de la catégorie 12 et que le montant de 50 000 $ pourrait être déduit sur une période de deux ans[10].
+[TRADUCTION]
+Selon ce que je croyais comprendre, les opérations étaient conclues par les gens aux Bermudes, le groupe Trafalgar.
+Monsieur Dahn a également déclaré avoir rempli et signé un contrat d'octroi de licence comme celui de l'appelant, qui lui avait été montré. Il a déclaré avoir été assigné comme témoin et ne pas avoir déposé d'avis d'opposition au sujet de la nouvelle cotisation par laquelle les demandes qu'il avait faites au sujet de la déduction pour amortissement avaient été refusées.
+[29] Le témoin suivant de la Couronne, David Frederick Prescott (« M. Prescott »), est comptable général accrédité. Il a témoigné que M. Cousineau avait communiqué avec lui et lui avait demandé d'examiner l'investissement Trafalgar pour certains de ses clients. Il a ensuite rencontré M. Gillis, de l'organisation Trafalgar. Monsieur Prescott a également déclaré ne pas avoir été prêt à préparer les déclarations de revenus des clients qui investissaient des capitaux dans ce programme.
+[30] L'intimée a également produit Judy Elizabeth Harnett (« Mme Harnett ») pour témoigner. Madame Harnett est vérificatrice à Revenu Canada; depuis environ sept ans, elle s'occupe d'évitement fiscal au sein de la section de l'évitement fiscal. Elle a déclaré avoir vu une cinquantaine de dossiers différents se rapportant à un investissement comme celui que l'appelant avait effectué.
+[31] Le dernier témoin de l'intimée, avant que les témoins experts aient été présentés, était Frederik H. Myatt (« M. Myatt »), qui a comparu par visioconférence. Monsieur Myatt a déclaré que, lors d'une réunion sociale, quelqu'un avait mentionné le programme d'investissement Trafalgar. Monsieur Myatt avait ensuite téléphoné à M. Gillis et il avait en fin de compte acheté la licence d'utilisation du logiciel. Monsieur Myatt a reconnu le contrat d'octroi de licence qu'il avait signé. Il a déclaré avoir effectué quatre versements de 4 375 $ chacun et avoir remis un billet de 32 500 $, les capitaux devant être engagés pour une période de dix ans. Il a témoigné ne pas avoir eu d'expérience dans le domaine des contrats à terme. Il a déclaré avoir rencontré M. Gillis qui, croyait‑il, était premier vice‑président chez Trafalgar. Monsieur Myatt a affirmé qu'il croyait que le revenu était garanti [TRADUCTION] « avec un rendement de 8 % l'an ». Il a déclaré que ce rendement aurait permis de rembourser le billet au cours de la période de dix ans et que si :
+[TRADUCTION]
+les capitaux engagés ne rapportaient pas 8 %, le solde du billet serait radié à la fin de la période de dix ans.
+Monsieur Myatt a affirmé qu'il croyait comprendre qu'il ne serait pas tenu responsable du billet en sus du montant initialement investi. Il a en outre dit qu'il croyait comprendre qu'il pourrait déduire les 50 000 $ sur une période de deux ans.
+ANALYSE ET CONCLUSIONS
+Cette partie des motifs comprend d'autres éléments de preuve; dans le contexte du règlement des questions en litige, il convient d'énoncer les faits pertinents se rapportant à une question donnée lorsque cette question sera analysée.
+Première question
+[32] Il s'agit en premier lieu de savoir si, au cours des années d'imposition en question, l'appelant exploitait une entreprise en utilisant la licence acquise de TCL afin de négocier des contrats à terme avec TT; subsidiairement, il s'agit de savoir si l'appelant a acquis la licence afin de tirer un revenu de biens.
+[33] La réponse modifiée (la « réponse ») disait que l'intimée :
+[TRADUCTION]
+nie qu'un mandat ait été créé par l'appelant et Trafalgar Trading Limited.
+Toutefois, l'une des hypothèses de fait contenues dans cette réponse, sur laquelle [TRADUCTION] « le ministre s'est fondé », est rédigée comme suit :
+[TRADUCTION]
+Trafalgar Trading était le mandataire exclusif du titulaire de la licence pour la durée du contrat visant la négociation de contrats S&P 500 à l'aide de la licence et du logiciel.
+L'avocat de l'intimée n'a pas mentionné cette hypothèse en avançant l'argument selon lequel il n'existait aucun mandat.
+Le paragraphe 2 du contrat de représentation prévoit ce qui suit :
+[TRADUCTION]
+Les parties aux présentes conviennent que Trafalgar Trading sera le mandataire exclusif du titulaire de la licence pour la durée du présent contrat concernant la négociation de contrats S&P 500 à l'aide de la licence.
+[34] L'appelant a fait en sorte que l'on remette à TT la copie du programme indiciel Trafalgar (le « PIT ») que TCL lui avait permis d'utiliser. Selon la preuve non contestée soumise par l'appelant, celui‑ci croyait comprendre que TT avait ouvert un compte bancaire, qu'elle avait versé un montant de 10 000 $ dans ce compte conformément au contrat de représentation et qu'elle avait retenu les services d'un courtier. L'appelant a également témoigné qu'il recevait un rapport, en général chaque mois, pour les opérations conclues le mois précédent. Il a donné des explications au sujet du paiement des frais de courtage et du bénéfice net ou de la perte nette provenant des opérations et il a mentionné les formules d'évaluation figurant dans le contrat de représentation. Selon la preuve que l'appelant a présentée, il était également clair qu'à l'expiration de la période de dix ans prévue par le contrat de représentation, le solde du capital serait déterminé, le montant engagé par TT serait remboursé à cette dernière et le reste reviendrait à l'appelant.
+[35] L'appelant avait également convenu avec TT que celle‑ci ne serait pas tenue responsable des réclamations éventuelles résultant des pertes subies ou des bénéfices non réalisés en raison de l'incapacité d'exécuter les ordres conformément aux rapports d'opérations[11]. Somme toute, l'appelant fournissait à TT sa licence pour que celle‑ci l'utilise pour son compte, alors que TT engageait un capital de 10 000 $ dans l'activité en question. On ne peut pas nier que les activités liées aux opérations étaient exercées par TT. On ne peut pas nier que ces activités constituaient une entreprise selon la définition de la Loi.
+Le passage pertinent de la Loi est rédigé comme suit :
+« entreprise » Sont compris parmi les entreprises les professions, métiers, commerces, industries ou activités de quelque genre que ce soit et […] les projets comportant un risque ou les affaires de caractère commercial […]
+Le droit prévoit clairement que lorsqu'un mandataire exploite une entreprise pour le compte d'un mandant, ce dernier est réputé exploiter cette entreprise. Il est incompréhensible qu'une personne verse un montant de 50 000 $ en vue d'obtenir une licence, qu'elle conclue avec quelqu'un un contrat de représentation exprès aux fins de l'utilisation de cette licence, simplement pour que le mandataire exploite une entreprise pour son propre compte, ce qui est une hypothèse que le ministre a avancée aux fins d'un examen sérieux par la Cour. Sur ce point, les observations écrites du ministre sont rédigées comme suit :
+[TRADUCTION]
+Nous soutenons que Trafalgar négociait pour son propre compte et assumait tous les risques sans aucun recours contre l'investisseur quant aux pertes et à la responsabilité. L'intimée affirme que, cela étant, il n'existe pas réellement de mandat entre l'appelant et Trafalgar, comme le montrent les contrats conclus par l'appelant.
+Les motifs que l'appelant a donnés pour avoir conclu le contrat d'achat de la licence visaient clairement à permettre l'utilisation de la licence pour que l'appelant puisse réaliser un bénéfice.
+[36] L'avocat de l'intimée a mentionné la décision Denison Mines Ltd. c. M.R.N., [1971] C.F. 295 (C.F. 1re inst.), conf. par [1972] C.F. 1324 (C.A.F.). Il a parlé de la mention par le juge Cattanach de l'arrêt Smith, Stone and Knight, Ltd. v. Birmingham Corporation, [1939] 4 All E.R. 116 (K.B.D.), dans lequel six questions étaient posées, constituant des indications utiles pour trancher la question de savoir qui dirigeait réellement l'entreprise. Ces questions étaient peut‑être utiles compte tenu des faits qui existaient dans ce cas‑là, mais elles ne sont pas pertinentes ici. Dans la décision Denison, il s'agissait de savoir si une filiale constituée par l'appelante était un mandataire exploitant une entreprise pour le compte de cette dernière. La Cour a conclu ce qui suit :
+En l'espèce, l'unique motif de la construction de la Con‑Ell en corporation s'appuyait sur l'opinion juridique selon laquelle l'appelante contreviendrait aux conditions du contrat de fiducie si elle dirigeait l'entreprise de logements en son propre nom. C'est un principe du mandat qu'une personne ne peut faire par un mandataire ce qu'elle ne peut faire elle‑même[12].
+L'intimée a également dit ce qui suit :
+[TRADUCTION]
+Somme toute, l'appelant ne court absolument aucun risque.
+Il est tout à fait clair que l'appelant risquait de perdre tous les capitaux qu'il avait engagés.
+[37] J'ai conclu qu'afin d'exploiter l'entreprise qui consistait à utiliser la licence, l'appelant avait noué avec TT une relation juridique qui avait eu pour effet de créer un mandat; TT agissait à titre de mandataire de l'appelant aux fins de l'exploitation de la licence qui avait été acquise. S'il n'y avait pas d'entreprise, la licence est clairement un bien dont l'acquisition autorise l'appelant à demander une déduction pour amortissement. L'alinéa 20(1)a) est rédigé comme suit :
+Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d'une entreprise ou d'un bien pour une année d'imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu'il est raisonnable de considérer comme s'y rapportant :
+a) la partie du coût en capital des biens supporté par le contribuable ou le montant au titre de ce coût ainsi supporté que le règlement autorise;
+[Je souligne.]
+Je suis fort surpris que ce point ait été en litige, puisque la réponse est si évidente.
+Deuxième question
+[38] La deuxième question est de savoir si, en acquérant cette licence, l'appelant traitait avec Trafalgar sans qu'il y ait entre eux de lien de dépendance.
+[39] La réponse de l'intimée à l'avis d'appel contenait l'hypothèse de fait suivante sur laquelle [TRADUCTION] « le ministre s'est fondé », à savoir :
+[TRADUCTION]
+Les personnes participant à l'investissement avaient entre elles un lien de dépendance.
+Cette hypothèse a été supprimée dans la réponse modifiée, dont l'un des faits plaidés était énoncé comme suit :
+[TRADUCTION]
+Les personnes participant à l'investissement avaient entre elles un lien de dépendance.
+Par conséquent, l'intimée avait la charge de la preuve sur ce point. Dans la décision R. c. Cecilia Dianne Taylor, no T‑865‑83, 30 mars 1984, 84 D.T.C. 6234 (C.F. 1re inst.), le juge Cattanach a dit ce qui suit :
+Rien n'empêche le Ministre de fonder une cotisation sur des faits ou des présomptions autres que ceux sur lesquels la cotisation est fondée, mais s'il fait une telle allégation, il incombe alors au Ministre d'en démontrer le bien‑fondé (voir Tobias c. La Reine, [78 D.T.C. 6028], 1978 C.T.C. 113).
+[40] L'intimée n'a pas contesté la position de l'appelant, à savoir qu'il n'était pas « lié » à l'une quelconque des sociétés du groupe Trafalgar au sens du paragraphe 251(2). Les dispositions de l'alinéa 251(1)a) ne s'appliquent donc pas, et l'appelant et ces sociétés ne sont pas réputés avoir entre eux un lien de dépendance. Il reste encore à savoir si, en vertu de l'alinéa 251(1)b), il y avait en fait entre eux un lien de dépendance. L'appelant a témoigné n'avoir jamais détenu d'actions du capital‑actions de l'une quelconque des sociétés du groupe Trafalgar, et qu'à sa connaissance, aucune personne liée à lui n'en avait jamais détenu. Il a affirmé entretenir [TRADUCTION] « une relation purement commerciale » avec Trafalgar. L'appelant a témoigné ne pas avoir su qui était M. Furtak au moment où il avait acheté la licence. De fait, il n'a rencontré M. Furtak que le 30 mai de l'année suivant celle où il a acquis la licence. L'appelant a déclaré n'avoir jamais fourni à M. Furtak de services à titre professionnel. Il a également affirmé n'avoir jamais rencontré M. Gillis et n'avoir jamais parlé à M. Gillis avant d'avoir acheté la licence. Il a affirmé la même chose au sujet de M. Peters.
+[41] L'appelant a témoigné qu'il n'y avait pas eu de négociations au sujet des 50 000 $ que coûtait la licence. Il a dit que l'offre d'acquisition de la licence lui avait été présentée à un prix fixe. Il a ajouté qu'il supposait qu'il pouvait choisir le nombre de licences qu'il voulait acheter, mais que le prix était fixe, et que :
+[TRADUCTION]
+c'était une offre à prendre ou à laisser, selon ce que je croyais comprendre, compte tenu de la documentation.
+L'appelant a également dit que le montant de 50 000 $ représentait le nombre minimal de licences qui pouvaient être achetées.
+[42] Un certain nombre de décisions étayent la thèse voulant que, normalement, dans une relation commerciale où chaque partie défend ses propres intérêts, les parties sont considérées comme n'ayant pas en fait entre elles de lien de dépendance, même si chacune s'attend à profiter du marché conclu avec l'autre. Dans la décision McCoy c. La Reine, no 1999‑4555(IT)G, 15 mai 2003, 2003 D.T.C. 660, la présente cour a dit ce qui suit au paragraphe 66 :
+Je ne crois pas que, dans tous les cas, du simple fait qu'une relation mandant‑mandataire existe entre des personnes, ces dernières ont nécessairement entre elles un lien de dépendance au sens de la Loi. Je ne crois pas non plus que si l'on retient les services de quelqu'un pour accomplir une tâche particulière et qu'on verse à cette personne une rémunération pour fournir le service, cela veut nécessairement dire qu'une relation dans laquelle il y a un lien de dépendance est créée. Ainsi, le procureur qui représente un client dans une opération peut bien être le mandataire de celui‑ci, mais je ne crois pas que cela veuille nécessairement dire que ces personnes ont entre elles un lien de dépendance.
+Le savant juge a dit ce qui suit au paragraphe 69 :
+À mon avis, Trafalgar et la société de personnes n'avaient pas un lien de dépendance. Aucune des parties n'exerçait un contrôle sur l'autre. Il n'existait pas un même cerveau. L'énoncé selon lequel les parties n'avaient pas d'intérêts opposés et qu'elles ont « agi d'un commun accord » est soit inexacte ou ne mène pas à la conclusion que les parties avaient un lien de dépendance.
+[43] Dans l'arrêt Peter Cundill & Associates c. La Reine, no T‑58‑91, 3 octobre 1991, 91 D.T.C. 5543 (C.A.F.), la Cour s'est reportée à un bulletin d'interprétation disant que les parties ont entre elles un lien de dépendance dans les situations suivantes :
+(1) l'existence d'une même personne qui dirige les négociations de deux parties à une transaction,
+(2) les parties à une transaction agissent de concert et n'ont pas d'intérêts distincts, et
+(3) le contrôle « de facto » (réel).
+Je reviendrai brièvement sur ce point vers la fin de l'analyse de la question ici en cause.
+Dans la décision Lenester Sales Ltd. and Sushi Sales Ltd. c. La Reine, no 2001‑3832(IT)G, 31 juillet 2003, 2003 D.T.C. 997, conf. par 2004 CAF 317, 2004 D.T.C. 6461 (C.A.F.), la présente cour a dit ce qui suit :
+Je suis également d'avis que les franchisés et GTS n'avaient aucun lien de dépendance. Ils avaient des intérêts distincts, et il n'y avait certainement pas une seule volonté ou une âme dirigeante. On ne peut pas non plus dire qu'ils « agissaient de concert » d'une façon qui prive la relation de sa nature indépendante. Dire que chaque fois que deux hommes d'affaires indépendants poursuivant leurs propres intérêts commerciaux collaborent pour atteindre un objectif commercial qui leur apporte des avantages mutuels signifie qu'ils « agissent de concert » et ont, par conséquent, un lien de dépendance signifierait que toute relation commerciale comporterait toujours un lien de dépendance.
+[44] Je ne retiens pas l'argument que l'avocat de l'intimée a invoqué au sujet de l'application de la décision Swiss Bank Corp. v. M.N.R., 71 D.T.C. 5235 (C. de l'É.), conf. par Société de banque Suisse c. M.R.N., [1974] R.C.S. 1144, 72 D.T.C. 6470 (C.S.C.), l'avocat ayant fait les observations suivantes :
+[TRADUCTION]
+Comme c'est ici le cas, lorsqu'une partie dicte les conditions du contrat et que l'autre y souscrit parce que les conditions ou les détails de l'entente importent peu aux parties (comme c'est ici le cas pour le prix d'achat), on ne peut pas dire que les parties n'ont entre elles aucun lien de dépendance puisque leurs intérêts financiers ne sont peut‑être pas distincts.
+Il n'existe aucun élément de preuve à l'appui de la déclaration suivant laquelle les dispositions du contrat importaient peu à l'appelant; en fait, la preuve indique clairement que l'appelant se préoccupait de la question de savoir s'il pouvait recouvrer son capital et effectuer les paiements obligatoires au titre des intérêts.
+[45] L'avocat de l'intimée a également dit ce qui suit :
+[TRADUCTION]
+[…] dans ce cas‑ci, il n'y a pas d'intérêts opposés. De fait, cela étaye encore plus la position suivant laquelle une partie (soit le vendeur dans ce cas‑ci) dictait les conditions de la vente et l'autre partie (soit l'appelant, qui avait engagé des capitaux), y souscrivait et acceptait ces conditions parce que les détails y afférents lui importaient peu.
+Je répète qu'il n'y a pas la moindre preuve à l'appui de cette conclusion possible. En contre‑interrogeant l'appelant, l'avocat de l'intimée a cherché à comparer l'achat de la licence d'utilisation du logiciel à l'achat d'une voiture ou à la négociation d'une hypothèque. Cela ne tient pas compte de la preuve soumise par les témoins de l'intimée eux‑mêmes, lesquels ont déclaré qu'un certain nombre d'unités avaient été vendues au même prix, à savoir 50 000 $, ces témoins n'ayant pas mentionné que l'on avait négocié ou que l'on avait tenté de négocier le prix d'acquisition de la licence.
+[46] L'avocat de l'intimée a poursuivi ce type d'argument en disant ce qui suit :
+[TRADUCTION]
+[…] les parties aux contrats ici en cause ont des intérêts communs, puisqu'elles veulent toutes deux augmenter au maximum le « prix de vente » de l'investissement.
+L'intérêt de Trafalgar, lorsqu'il s'agit d'augmenter au maximum le prix de vente, est évident puisque les vendeurs cherchent normalement à augmenter le plus possible le produit d'une vente. Dans ce cas‑ci, l'intérêt de l'appelant, lorsqu'il s'agissait d'augmenter le prix de vente, découle du fait que le « prix de vente » détermine le montant du remboursement d'impôt généré par l'investissement. Plus le « prix de vente » est élevé, plus le montant du remboursement est élevé.
+De toute évidence, cet argument est dénué de fondement.
+[47] Le contexte dans lequel les arguments de l'intimée ont pris naissance est décrit dans le passage suivant des observations écrites de l'intimée :
+[TRADUCTION]
+Dans ces conditions, le prix de vente de l'investissement dans le PIT n'est pas dicté par des intérêts opposés. Il est plutôt possible de s'entendre sur un « prix de vente » acceptable qui réponde aux exigences des deux parties sans approcher la juste valeur marchande du bien ou un montant raisonnable. En fait, pour que l'investissement soit intéressant pour les investisseurs éventuels, il existe pour le vendeur une incitation à gonfler le prix d'achat afin d'augmenter les réductions auxquelles l'appelant a droit. Pour le vendeur, qui est établi dans un paradis fiscal, le montant du revenu généré n'est pas assujetti à un impôt élevé, ce qui indique encore plus l'absence d'intérêts opposés dans cette opération.
+En outre, les opérations qui sont ici en cause ne font pas entrer en ligne de compte les considérations commerciales habituelles, qui permettraient normalement d'arriver à la juste valeur marchande. Dans ce cas‑ci, où les parties ne sont pas amenées à agir compte tenu d'intérêts opposés, les deux parties peuvent atteindre leur but en s'entendant sur un prix d'achat gonflé. La relation qui existe dans ce cas‑ci ne garantit pas que le prix de vente corresponde à la juste valeur marchande, soit un but précis sur lequel la Cour suprême a mis l'accent dans l'arrêt Société de banque Suisse, précité.
+Il est facilement possible de rejeter la tentative que l'avocat a faite pour établir une analogie entre la présente espèce et l'affaire Société de banque Suisse en se reportant aux faits énoncés dans le sommaire du jugement publié de la Cour de l'Échiquier, tels qu'ils sont exposés par un arrêtiste :
+[TRADUCTION]
+Les non‑résidents appelants, qui ont uniquement fait l'objet de cotisations à l'égard de l'impôt de 15 % applicable aux non‑résidents en vertu du sous‑alinéa 106(1)b)(iii) sur les intérêts qui leur ont été versés, demandent maintenant une exemption en vertu de la division A de ce sous‑alinéa pour le motif que les intérêts ont été payés à une partie qui n'avait pas de lien de dépendance avec le payeur canadien. Ce dernier, City Park, était une société canadienne qui utilisait les fonds obtenus au moyen d'une souscription publique en Suisse pour effectuer des placements immobiliers au Canada. Les appelants étaient les fiduciaires des montants ainsi obtenus, représentant environ 2 000 détenteurs de certificats. Les actions de City Park appartenaient à une société suisse qui administrait le fonds, et les actions étaient sous la garde des deux appelants, dont chacun possédait 40 % des actions de la société suisse.
+[48] En outre, l'avocat de l'intimée a cherché à décrire l'opération comme une opération [TRADUCTION] « de nature non commerciale » et il a soutenu que les parties n'avaient pas d'intérêts commerciaux distincts. L'avocat a mentionné que l'appelant ne s'était pas renseigné sur les antécédents ou sur la réputation de M. Furtak, sur le rendement historique des programmes de placement antérieurs de Trafalgar et sur les évaluations existantes de l'investissement dans le PIT. L'avocat a ajouté que l'appelant n'avait pas effectué de recherches sur l'industrie des contrats à terme, en disant que l'appelant ne considérait pas cet investissement comme les autres placements qui étaient confiés à un courtier, [TRADUCTION] qu'« il n'avait même pas consulté un courtier au sujet de cet investissement » et qu'il s'en était uniquement remis à M. Langille. Dans ses observations écrites, l'intimée décrit ensuite ce que l'appelant a fait après avoir engagé des capitaux, à savoir :
+a) il ne s'est pas renseigné sur les mises à jour du logiciel du PIT, même s'il savait que des mises à jour étaient envisagées dans les contrats;
+b) il n'a jamais vérifié ou vraiment compris les rapports mensuels fournis par Trafalgar et les a simplement acceptés tels quels;
+c) il n'a jamais vérifié les résultats de son placement et ne s'est jamais renseigné à ce sujet;
+d) il ne s'est jamais renseigné auprès de Trafalgar lorsque le rendement du capital investi a chuté;
+e) il a communiqué pour la première fois avec quelqu'un chez Trafalgar au mois de mai 2005; il est reconnu qu'il l'a fait afin de se préparer pour le présent appel;
+f) avant le présent appel, il n'a jamais communiqué avec quelqu'un chez Trafalgar au sujet de son placement, et il ne s'est jamais renseigné à ce sujet.
+Cela n'a rien à voir avec la question de savoir si les parties n'avaient entre elles aucun lien de dépendance au moment où l'appelant a acheté la licence.
+[49] Le mémoire continue ensuite :
+[TRADUCTION]
+Lorsque l'on tient compte, entre autres choses, de la nature (c'est‑à‑dire du caractère unique) et de l'importance (à savoir un investissement de 50 000 $) de ce placement, tous les faits susmentionnés indiquent clairement que l'appelant n'a pas fait preuve d'une diligence raisonnable en effectuant ce placement. On ne s'attend pas à un tel comportement de la part d'un investisseur raisonnable et cela indique certes une opération non commerciale.
+Ces remarques ne tiennent pas compte de la preuve ou elles la déforment.
+[50] L'avocat de l'appelant a ensuite essayé de faire une analogie entre la présente espèce et l'affaire Brown c. La Reine, no 97‑3264(IT)G, 15 novembre 2001, 2001 D.T.C. 1094 (C.C.I.), conf. par no A‑208‑02, 24 avril 2003, 2003 D.T.C. 5298 (C.A.F.). Voici ce que l'avocat a dit :
+[TRADUCTION]
+De même, dans l'affaire Brown, le juge Rip a conclu que des parties n'ayant entre elles aucun lien de dépendance ne se seraient pas entendues sur l'instrument d'emprunt compte tenu des conditions dont il était assorti dans cette affaire‑là (à savoir, la date d'échéance, le manque de garanties et le fait que la créance n'était pas cessible). Tous ces facteurs nous permettent de conclure que les parties avaient entre elles un lien de dépendance.
+Toutefois, en présentant cet argument, l'avocat n'a pas décrit à la Cour les faits de l'affaire Brown. En concluant à l'existence d'un lien de dépendance dans l'affaire Brown, la présente cour a conclu qu'American Softworks Corporation (« ASC »), CEG Corporation (qui était essentiellement contrôlée par ASC en plus d'être l'associé directeur de la société de personnes CEG), CEG Corporation Management (notamment un certain M. Williams, qui est devenu l'unique administrateur de CEG Corporation), la société de personnes CEG Partnership et, par conséquent, les associés, avaient entre elles un lien de dépendance. La situation factuelle complexe comprenait un certain nombre d'opérations et la non‑acceptation de certains éléments de preuve présentés. Or, il n'y a absolument rien dans la décision Brown qui permette de conclure à l'existence d'un lien de dépendance dans ce cas‑ci.
+[51] En me fondant sur les remarques qui précèdent, j'ai conclu, pour ce qui est de la décision Cundill, précitée, qu'étant donné qu'il n'y avait pas de volonté commune dictant les conditions de l'entente pour les deux parties à l'opération, les parties n'agissaient pas de concert. L'élément du contrôle de facto mentionné dans cette décision‑là n'est pas ici pertinent. Le fait que les parties estimaient avoir établi une relation mutuellement avantageuse tout en agissant dans leurs propres intérêts individuels et qu'elles étaient libres, sans qu'une partie exerce un contrôle sur l'autre, de nouer ou de ne pas nouer cette relation veut dire qu'en fait, il n'existait pas entre elles de lien de dépendance.
+[52] Je n'hésite pas à conclure qu'en acquérant la licence, l'appelant traitait avec TCL sans avoir de lien de dépendance avec cette dernière. Je suis également fort surpris que la question se soit posée en l'espèce.
+Troisième question
+La troisième question est de savoir si l'appelant a acquis un « abri fiscal » selon la définition figurant à l'article 237.1.
+[53] L'« abri fiscal » est défini comme suit :
+« abri fiscal » Bien (y compris, pour plus de certitude, le droit à un revenu) pour lequel il est raisonnable de considérer, compte tenu de déclarations ou d'annonces faites ou envisagées relativement au bien, que, si une personne acquérait une part dans le bien, le montant visé à l'alinéa a) serait, à la fin d'une année d'imposition qui se termine dans les quatre ans suivant le jour où la part est acquise, égal ou supérieur au montant visé à l'alinéa b) :
+a) le total des montants représentant chacun :
+(i) un montant ou, dans le cas d'une participation dans une société de personnes, une perte qui est annoncé comme étant déductible dans le calcul du revenu au titre de la part (y compris, si le bien est un droit à un revenu, un montant ou une perte afférent à ce droit qui est annoncé comme étant déductible) et qui pourrait être engagé ou subie par la personne ou attribué à celle‑ci pour l'année ou pour une année d'imposition antérieure,
+(ii) un autre montant qui est annoncé comme étant déductible dans le calcul du revenu ou du revenu imposable au titre de la part et qui pourrait être engagé par la personne ou attribué à celle‑ci pour l'année ou pour une année d'imposition antérieure, à l'exclusion d'un montant inclus dans le calcul d'une perte visée au sous‑alinéa (i);
+b) l'excédent éventuel du montant visé au sous‑alinéa (i) sur le total visé au sous‑alinéa (ii) :
+(i) le coût de la part pour la personne à la fin de l'année, déterminé compte non tenu de l'article 143.2,
+(ii) la valeur totale des avantages visés par règlement que la personne ou toute personne avec laquelle elle a un lien de dépendance pourrait recevoir, directement ou indirectement, au titre de la part.
+Les actions accréditives et les biens visés par règlement ne sont pas considérés comme des abris fiscaux.
+[54] Selon la position prise par l'appelant, la licence ne constituait pas un « abri fiscal » et elle n'est donc pas visée par l'article 237.1 de la Loi, de sorte que :
+a) la licence n'avait pas à être inscrite à titre d'abri fiscal;
+b) le paragraphe 237.1(6) de la Loi n'interdisait pas les déductions pour amortissement demandées par l'appelant;
+c) la licence ne constituait pas un « abri fiscal déterminé » selon la définition figurant au paragraphe 143.2(1) de la Loi;
+d) indépendamment de l'existence d'un « montant à recours limité » ou d'une « fraction à risques », selon les définitions figurant aux paragraphes 143.2(1), (2) et (7) de la Loi, le coût en capital de l'appelant ne devait pas être réduit en raison du paragraphe 143.2(6) de la Loi, et le droit de l'appelant de demander une DPA n'était pas assujetti aux restrictions prévues aux paragraphes 1100(20.1) et (20.2) du Règlement.
+[55] L'avocat de l'appelant a soutenu que le « bien » visé au début de la définition d'« abri fiscal », à savoir :
+« abri fiscal » Bien […]
+est la licence que l'appelant a achetée. L'avocat a mentionné les alinéas A.11n) et z) de la réponse modifiée de l'intimée, qui sont rédigés comme suit :
+[TRADUCTION]
+n) l'appelant a investi des capitaux dans […] un arrangement comportant la vente directe de licences d'utilisation du logiciel à l'investisseur (le « placement »);
+z) le placement était un « abri fiscal » selon la définition figurant au paragraphe 237.1(1) de la Loi.
+Dans son mémoire écrit, l'appelant a dit ce qui suit :
+[TRADUCTION]
+Toute autre interprétation aurait pour effet de rendre inapplicables les dispositions du paragraphe 143.2(6), si elles sont lues avec l'alinéa a) de la définition de l'« abri fiscal déterminé » figurant au paragraphe 143.2(1) de la Loi.
+Le paragraphe 143.2(1) définit « abri fiscal déterminé » comme suit à l'alinéa a) :
+Bien qui est un abri fiscal pour l'application du paragraphe 237.1(1).
+Le passage pertinent du paragraphe 143.2(6) est rédigé comme suit :
+Malgré les autres dispositions de la présente loi, le montant d'une dépense qui représente un abri fiscal déterminé d'un contribuable, ou le coût ou le coût en capital d'un tel abri fiscal, et le montant d'une dépense d'un contribuable dans lequel une participation est un abri fiscal déterminé sont ramenés […]
+à un montant établi selon une formule donnée.
+L'avocat a dit que si le bien était le logiciel ou la licence initiale, le paragraphe 143.2(6) ne pourrait pas s'appliquer parce que ni le logiciel ni la licence initiale n'appartenaient à l'appelant et qu'il n'y avait pas de coût ou de coût en capital de l'appelant pour l'un ou l'autre de ceux‑ci. Dans ses observations orales, l'avocat a affirmé que si l'abri fiscal était la licence de l'appelant, il s'agirait d'un bien « pour lequel il est raisonnable de considérer, compte tenu de déclarations ou d'annonces faites ou envisagées relativement au bien », et que les annonces devraient se rapporter à cette licence et non à la licence de quelqu'un d'autre. L'avocat a ajouté que, cela étant, [TRADUCTION] « cela met un point final à l'affaire ».
+[56] Quant à la position de l'intimée selon laquelle le logiciel constituait un abri fiscal, l'avocat de l'appelant a affirmé que le logiciel n'est pas un bien de l'appelant. Le premier attendu du contrat d'octroi de licence est rédigé comme suit :
+[TRADUCTION]
+ATTENDU que TCL Trafalgar détient une licence l'autorisant à accorder des licences non exclusives à utilisation restreinte permettant l'utilisation du programme indiciel Trafalgar (tel qu'il est ci‑après défini);
+Ce contrat prévoit également ce qui suit :
+[TRADUCTION]
+« Programme indiciel Trafalgar » Ensemble de logiciels d'application utilisés pour la négociation de contrats S&P 500 accordé par licence à TCL Trafalgar.
+et
+« Licence » Licence non exclusive à utilisation restreinte accordant le droit d'utiliser le programme indiciel Trafalgar.
+TCL n'est pas propriétaire du logiciel. TCL était elle‑même titulaire d'une licence, et elle a accordé une sous‑licence à l'appelant. En ce qui concerne le paragraphe 143.2(6), l'avocat a dit ce qui suit :
+[TRADUCTION]
+Si l'abri fiscal déterminé est le logiciel, le contribuable n'a pas de coût ou de coût en capital et la disposition est absurde, ce qui selon moi constitue une indication passablement bonne de l'intention, à savoir que l'abri fiscal est un bien appartenant au contribuable et non simplement un bien dans lequel le contribuable a acquis une part quelconque.
+L'avocat a ajouté que le montant investi par l'appelant avait entièrement été utilisé pour la licence :
+[TRADUCTION]
+et c'est le seul bien à l'égard duquel il peut avoir un coût en capital. Il ne peut pas avoir de coût en capital à l'égard du logiciel, de sorte que si le logiciel constitue l'abri fiscal déterminé, le paragraphe 143.2(6) est dénué de sens.
+L'avocat n'a pas donné de précisions au sujet de son argument en analysant les mots figurant dans le paragraphe 143.2(6), à savoir :
+et le montant d'une dépense d'un contribuable dans lequel une participation est un abri fiscal déterminé [...]
+Ce texte, comme les mots qui le précèdent, indique pour le moins un manque de précision de la part du législateur. L'avocat peut avoir étudié la question et avoir jugé inutile d'en parler. S'il n'a pas étudié la question, il se peut fort bien que ce soit parce qu'elle tire fort peu à conséquence.
+[57] Les observations écrites de l'appelant renfermaient également les remarques suivantes :
+[TRADUCTION]
+Si la licence elle‑même constitue l'abri fiscal, il s'ensuit que l'annonce à d'autres personnes ne se rapporterait pas à ce bien et ne serait pas pertinente pour l'application de la définition à la licence. Quoi qu'il en soit, il est soutenu que le résultat serait absurde si les annonces faites à des tiers (avec qui l'appelant n'était pas en contact et dont l'appelant ne connaissait peut‑être pas l'existence, et constituant des annonces dont l'appelant n'était pas au courant) pouvaient faire de sa licence une participation dans un abri fiscal et, cela étant, l'assujettir à toutes les conséquences fiscales défavorables mentionnées dans la réponse.
+[58] On peut se demander ce que veulent dire les mots figurant dans la définition d'« abri fiscal » :
+[…] pour lequel il est raisonnable de considérer, compte tenu de déclarations ou d'annonces faites ou envisagées relativement au bien […]
+L'avocat de l'appelant affirme que les déclarations et annonces doivent être faites à l'appelant. L'avocat de l'intimée déclare de son côté que cela n'est pas nécessaire et que les déclarations et annonces auraient pu être faites à d'autres investisseurs et être néanmoins visées par la définition d'« abri fiscal ».
+À l'audience, l'avocat de l'intimée a dit qu'en ce qui concerne les « déclarations et annonces » :
+[TRADUCTION]
+Elles n'ont pas été faites à l'appelant. Elles ont été faites à d'autres.
+J'énonce ci‑dessous la raison fondamentale de la conclusion que je tire au sujet de la question de savoir si, en achetant la licence, l'appelant a acquis un abri fiscal, mais je ferai des commentaires au sujet de la question qui a été posée. À mon avis, en interprétant la définition, je dois tenir compte « de déclarations ou d'annonces faites ou envisagées relativement au bien » dont il est fait mention dans la définition[13]. Cela doit m'aider à déterminer s'il est raisonnable de considérer qu'une personne a acquis un « abri fiscal ». L'intimée admet qu'aucune déclaration ou aucune annonce n'a été faite à l'appelant. Si je pousse l'argument plus loin, il n'y a certes aucun élément de preuve indiquant qu'un montant donné a été annoncé à l'appelant « comme étant déductible » comme le prévoit l'alinéa a) de la définition d'« abri fiscal ».
+Dans l'ouvrage Black's Law Dictionary, 6e édition, on définit le mot « representation » (annonce) comme étant un [TRADUCTION] « énoncé de fait visant à amener quelqu'un à conclure un contrat ». Le mot « statement » (déclaration) est en partie défini dans le dictionnaire Oxford English Dictionary, volume X, comme étant [TRADUCTION] « quelque chose qui est déclaré ». Comme l'avocat de l'appelant l'a souligné dans ses observations orales :
+[TRADUCTION]
+Le mot « annonces » est accompagné, au début de la définition, du mot « déclarations », mais ce dernier mot n'est pas repris aux sous‑alinéas a)(i) et a)(ii) […] ainsi, au sous‑alinéa a)(i) :
+un montant ou, dans le cas d'une participation dans une société de personnes, une perte qui est annoncé comme étant déductible […]
+non pas « annoncé ou déclaré comme étant déductible », mais simplement « annoncé ».
+Les propos suivants ont ensuite été échangés :
+[traduction]
+Me harris :
+Par conséquent, selon la position que nous prenons, la mention des « déclarations » au début de la définition est gratuite parce qu'elle n'a aucun effet. Il n'y a aucun effet tant qu'il n'est pas question de la formule, qui fait uniquement mention de ce qui est annoncé, et non d'une annonce envisagée, mais simplement ce qui est annoncé.
+LE JUGE BELL :
+Par « gratuite », vous voulez dire « inutile ».
+Me Harris :
+Oui, cela ne sert à rien dans la définition.
+LE JUGE BELL :
+Oui.
+Me Harris :
+Et il en va de même pour le mot « envisagées ».
+LE JUGE BELL :
+Parce que ces mots ne sont pas répétés ou que la disposition légale n'y donne aucunement suite.
+Me Harris :
+C'est exact. La question cruciale est de savoir si nous avons une « annonce ».
+[59] Dans ses observations écrites, l'intimée dit ce qui suit :
+[TRADUCTION]
+Toute considération du mot « bien » pour l'application du paragraphe 237.1(1) en l'espèce[14] doit également inclure le logiciel du PIT puisqu'il s'agit du bien sous‑jacent mentionné dans chaque licence […] Comme on peut le constater, en concluant un contrat d'octroi de licence, l'appelant a simplement acquis « une part dans le bien », à savoir le logiciel en question.
+L'avocat de l'intimée cherche à utiliser cet argument à l'appui de l'observation qu'il a faite par écrit selon laquelle :
+[TRADUCTION]
+[…] il ressort clairement du libellé du paragraphe 237.1(1) que le « bien » peut être visé par la définition d'« abri fiscal » indépendamment de la question de savoir s'il y a des ventes ou des acquéreurs et simplement sur la base « de déclarations ou d'annonces faites ou envisagées ».
+En l'espèce, les déclarations et annonces faites par Trafalgar aux investisseurs éventuels n'identifiaient pas de licence ou de biens précis, de sorte qu'il n'est pas logique de soutenir que seules les déclarations et annonces qui ont été faites à l'appelant sont en cause dans le présent appel […] il est soutenu que les déclarations ou annonces envisagées au paragraphe 237.1(1) ont été faites à diverses personnes à l'égard de ventes ou de ventes projetées de licences relatives au PIT […] En outre, il n'existe aucune exigence voulant que les déclarations ou annonces aient en réalité été faites à l'appelant. Les déclarations ou annonces ont été faites à l'égard du bien en question par l'entremise d'autres personnes et, par conséquent, il a été satisfait à la définition d'« abri fiscal » figurant dans la Loi. En d'autres termes, il n'est pas en fait pertinent de savoir si des déclarations ont été faites à l'appelant.
+[60] La législation fiscale peut avoir et a des effets qui peuvent sembler sévères, mais cette sévérité doit être le résultat de la précision de la loi. Je ne puis interpréter l'absence de mots exigeant que les déclarations ou les annonces soient faites au contribuable comme ayant pour résultat d'exposer d'une façon inéquitable le contribuable à des conséquences qui n'ont peut‑être pas été prévues, et ce, à juste titre. Dans un système d'autocotisation, comment peut‑on s'attendre à ce que le contribuable qui investit en toute bonne foi des capitaux dans ce qui semble être un investissement tout à fait légitime subisse un préjudice à cause de quelque chose qu'il ne sait pas et qu'il ne peut pas savoir, tout en étant néanmoins tenu de produire une déclaration de revenus comme s'il était au courant de la situation?
+Dans son mémoire, l'intimée disait ensuite qu'il était tout à fait clair que l'appelant savait, compte tenu des avis juridiques qui avaient été exprimés, du matériel de promotion et des documents qu'il avait signés, que le montant de 50 000 $ qu'il avait engagé serait amorti sur une période de deux ans à titre de bien de la catégorie 12 faisant l'objet d'une déduction pour amortissement et qu'il n'y aurait pas de bénéfices ou de pertes déclarés pendant dix ans. Sur cette base, l'avocat de l'intimée a affirmé que l'investissement constituait un « abri fiscal ».
+[61] J'arrive maintenant à la raison fondamentale de la conclusion que j'ai tirée au sujet de la question de savoir si, en achetant une licence, l'appelant a acquis un abri fiscal. J'ai conclu qu'il est possible de déterminer s'il existe un abri fiscal simplement en appliquant aux faits les dispositions de l'alinéa a). Je réorganiserai les mots figurant dans cette disposition afin de démontrer clairement et simplement ce qu'ils veulent dire dans le contexte qui nous occupe. L'alinéa a) peut être formulé autrement comme suit :
+a) le total des montants représentant chacun :
+(i) un montant […] annoncé comme étant déductible […] et qui pourrait être engagé […] par la personne;
+ou
+(ii) dans le cas d'une participation dans une société de personnes, une perte qui est annoncé[e] comme étant déductible […] et qui pourrait être […] attribué[e] à celle‑ci [...]
+[Je souligne.]
+[62] En vertu du sous‑alinéa a)(i), le montant annoncé comme étant déductible et qui pourrait être engagé doit certes être annoncé comme étant déductible à la personne qui pourrait l'engager. De même, en vertu du sous‑alinéa (ii), la perte, dans le cas d'une participation dans une société de personnes, doit certes être annoncée comme étant déductible à la personne à qui elle pourrait être attribuée. La demande de déduction pour amortissement que l'appelant a faite n'est pas « un montant » qui puisse « être engagé » par qui que ce soit. De même, la demande de déduction pour amortissement que l'appelant a faite n'est pas « une perte » « dans le cas d'une participation dans une société de personnes », qui peut être « attribué[e] à » qui que ce soit.
+[63] Il est clair que les mots « qui pourrait être engagé » se rapportent uniquement à « un montant ». Dans la décision McKee c. La Reine, no T‑3818‑76, 28 septembre 1977, 77 D.T.C. 5345 (C.F. 1re inst.), il s'agissait de savoir si la déduction pour amortissement demandée avait réduit le revenu du demandeur indûment ou de façon factice. Plus précisément, il s'agissait de savoir si le paragraphe 137(1) s'appliquait. Cette disposition était rédigée comme suit :
+Dans le calcul du revenu aux fins de la présente loi, aucune déduction ne peut être faite à l'égard d'un déboursé fait ou d'une dépense contractée, relativement à une affaire ou opération qui, si elle était permise, réduirait indûment ou de façon factice le revenu.
+La Cour a mentionné le passage suivant de l'arrêt Louis J. Harris v. M.N.R., 66 D.T.C. 5189, de la Cour suprême du Canada, contenant le passage suivant, à la page 5198 :
+[TRADUCTION]
+Si, contrairement à l'opinion que j'ai exprimée, nous avions accepté la prétention de l'appelant portant que l'affaire contenue dans le bail soit assujettie à l'article 18 et que, selon une interprétation fidèle du bail et des termes de cet article, l'appelant avait prima facie le droit de déduire l'allocation à l'égard du coût en capital de 30 425,80 $ qu'il réclame, je n'hésiterais pas à conclure qu'il s'agissait d'une déduction relative à une dépense encourue pour une affaire qui, si elle était permise, réduirait de façon factice le revenu de l'appelant et que conséquemment le paragraphe 137(1) interdit. Les mots « un déboursé fait ou une dépense contractée » au paragraphe, peuvent s'appliquer à une réclamation pour amortissement ou pour une allocation à l'égard du coût en capital et, si le bail recevait cette interprétation, l'affaire y contenue constituerait un exemple de la nature de « l'affaire ou opération » visée par le paragraphe 137(1).
+Dans la décision McKee, précitée, le savant juge a ensuite dit ce qui suit :
+La décision rendue dans cette affaire se fondait sur d'autres motifs et le principe énoncé constitue, bien sûr, un « obiter dictum »; strictement parlant, je ne suis donc pas lié par lui. Considérant toutefois la personne qui a formulé ce principe et tenant compte du fait que les autres membres du tribunal qui siégeaient à ce moment‑là ont souscrit au jugement, je suis quelque peu étonné de cette interprétation du paragraphe 137(1). À mon avis, il faut maintenant répondre directement à cette question.
+J'ai consulté plusieurs dictionnaires, y compris The Shorter Oxford English Dictionary, 3e édition révisée, Britannica World Language Dictionary, Funk and Wagnalls New Standard Dictionary of the English Language, The Random House Dictionary of the English Language, The Living Webster Dictionary et Thorndike–Barnhard (Dictionnaire américain). Il apparaît très clairement que suivant son acception ordinaire, le mot « expense » (dépense) désigne un paiement, une mise de fonds, des dépenses ou ce qui a créé une obligation ou a pu nécessiter le transfert de certains actifs. Il peut également s'agir du coût d'un objet ou de ce qui doit être cédé ou donné en retour. Le mot « disbursement » (déboursé) indique encore plus une dépense ou un paiement direct. Je n'ai trouvé nulle part que ces termes peuvent, même de façon indirecte, désigner une déduction (allowance). Au contraire, il n'y a affinité entre le mot « allowance » (déduction) et ces deux termes que lorsque ceux‑ci désignent la compensation ou la contrepartie d'une dépense ou d'un déboursé. Loin d'être synonyme de l'un ou l'autre de ces deux termes, il constitue plutôt un antonyme.
+Le juge a mentionné la preuve d'un expert‑comptable qui possédait des compétences théoriques et professionnelles considérables et une vaste expérience en matière de comptabilité. Cet expert avait mentionné un certain nombre d'ouvrages reconnus dans ce domaine et avait déclaré qu'il était tout à fait clair qu'en matière comptable, il existe nettement une distinction entre une « déduction » et une dépense ou un « déboursé ». Le juge a ensuite dit ce qui suit :
+Je dois par conséquent conclure que ces termes ne sont jamais utilisés ni censés être utilisés comme synonymes du mot « déduction », et ce non seulement dans leur sens ordinaire mais également dans le langage technique de la comptabilité et davantage partout où ils sont employés dans la Loi, et qu'au contraire, ils servent souvent à désigner une dépense que l'on peut ou non compenser par une déduction, en conformité des dispositions de la Loi.
+Au paragraphe 137(1), les mots « déduction pour amortissement » désignent une déduction visant à compenser un coût ou une dépense. Bien sûr, cette déduction ne peut constituer le coût ou la dépense qui fait l'objet d'un allègement fiscal[15].
+Compte tenu de ce qui précède et du principe général selon lequel, en cas d'ambiguïté, bien qu'en l'espèce je ne puisse trouver aucune ambiguïté, une loi fiscale doit être interprétée contre l'autorité qui l'a adoptée, je ne vois pas comment les termes « un déboursé fait ou une dépense contractée » peuvent inclure une déduction qu'un contribuable est autorisé à réclamer en vertu des Règlements pour compenser le coût ou la dépense de capital engagée pour l'acquisition d'un actif.
+[64] Je souscris entièrement à cette analyse. Par conséquent, en vertu du sous‑alinéa a)(i) de la définition, même si un montant était annoncé comme étant déductible, aucun montant n'était déductible puisque la déduction pour amortissement n'était pas « un montant » qui pouvait être « engagé ».
+[65] Il n'y a pas de perte subie par une société de personnes en l'espèce, mais je mentionnerai le sous‑alinéa a)(ii) pour étayer la logique de la nouvelle formulation que j'ai donnée pour l'alinéa a). Il est clair que les mots « attribué à » (« allocated » dans la version anglaise) se rapportent uniquement à « une perte » « dans le cas d'une participation dans une société de personnes ». Le mot « allocate » est employé dans la version anglaise des dispositions de la Loi concernant les sociétés de personnes (« allouer » dans la version française). L'alinéa 96(1.1)a) est rédigé comme suit :
+a) lorsque la principale activité d'une société de personnes consiste à exploiter une entreprise au Canada et que ses associés ont conclu une convention afin d'allouer une part du revenu ou de la perte de la société de personnes […]
+[…] ont conclu une telle convention d'allocation […]
+[Je souligne.]
+De plus, à l'alinéa 96(1.1)b), concernant les sociétés de personnes, le mot « allocated » est employé dans la version anglaise (« alloue » dans la version française) :
+b) les montants dont chacun est égal à la part du revenu ou de la perte mentionnée au présent paragraphe et qu'alloue une société de personnes à un contribuable pour un exercice donné de la société de personnes doivent, malgré les autres dispositions de la présente loi, être inclus dans le calcul du revenu du contribuable pour son année d'imposition au cours de laquelle se termine cet exercice de la société de personnes.
+[Je souligne.]
+[66] Je conclus ce qui suit :
+a) La licence que l'appelant a achetée est le « bien » dont il est question au début de la définition d'« abri fiscal », à savoir :
+« abri fiscal » Bien […]
+b) Aucun montant n'a été annoncé comme étant déductible et ne pourrait être « engagé » par l'appelant au sens de l'alinéa a) de la définition d'« abri fiscal ».
+c) Je n'ai pas à décider si le mot « déclarations » a un sens quelconque dans la définition d'« abri fiscal », et il semble qu'il n'en ait pas, mais ce mot n'a certainement aucune fonction dans la détermination d'un montant en vertu de l'alinéa a) de la définition. Le mot « envisagées » est tout simplement trop vague pour ajouter quoi que ce soit d'utile lorsqu'il s'agit de déterminer s'il existe un « abri fiscal ».
+[67] Étant donné qu'aucun montant n'est déterminable en vertu de l'alinéa a) de la définition d'« abri fiscal » dans le cas de l'appelant, l'appelant n'avait pas et n'a pas d'« abri fiscal ».
+Quatrième question
+[68] La quatrième question consiste à déterminer la juste valeur marchande de la licence au moment de son acquisition.
+[69] Le passage pertinent de l'article 69 est rédigé comme suit :
+(1) Sauf disposition contraire expresse de la présente loi :
+a) le contribuable qui a acquis un bien auprès d'une personne avec laquelle il avait un lien de dépendance pour une somme supérieure à la juste valeur marchande de ce bien au moment de son acquisition est réputé l'avoir acquis pour une somme égale à cette juste valeur marchande;
+Puisque j'ai conclu que l'appelant n'avait aucun lien de dépendance avec TCL, de qui il a acquis la licence, l'article 69 de la Loi ne s'applique pas. Par conséquent, la juste valeur marchande est le montant payé par l'appelant pour la licence, à savoir 50 000 $. Toutefois, presque cinq jours ont été consacrés à la présentation de la preuve de quatre témoins experts et d'un témoin ordinaire, un négociant en marchandises, au sujet de la valeur de la licence. J'ai donc décidé de présenter l'essentiel de cette preuve et mon avis à ce sujet.
+[70] Il incombait à l'intimée d'établir la valeur. Le premier témoin de l'intimée, Howard Rosen (« M. Rosen »)[16], a été reconnu à titre d'expert pour évaluer la licence achetée et le billet émis par l'appelant et pour faire des commentaires sur les rapports d'évaluation préparés par EMC Partners en date du 8 octobre 1998 et par American Appraisal Canada en date du 20 novembre 1998. Dans son rapport écrit, M. Rosen dit ce qui suit :
+[TRADUCTION]
+1. Vous nous avez demandé notre avis au sujet de la juste valeur marchande de l'achat par M. Baxter d'une licence non exclusive à utilisation restreinte (la « licence ») permettant d'utiliser le programme indiciel Trafalgar (le « PIT » ou le « programme »), au 31 décembre 1998 (la « date de l'évaluation ») […]
+5. Dans notre avis, la juste valeur marchande est définie comme étant le prix le plus élevé qui peut être obtenu sur un marché libre entre des parties informées et prudentes n'ayant entre elles aucun lien de dépendance et qui ne sont pas contraintes à agir, exprimée en argent ou selon une valeur en argent. […]
+8. Compte tenu de la portée de notre examen, et des explications qui nous ont été données, et sous réserve des hypothèses, des conditions et des restrictions mentionnées dans les présentes, à notre avis, la juste valeur marchande du billet de 50 000 $ […] La valeur de la licence acquise par M. Baxter était symbolique à la date de l'évaluation […]
+10. En déterminant la juste valeur marchande de la licence, nous avons pris en considération la structure de l'opération et l'avantage fiscal qu'offrait la possibilité de déduire les redevances d'utilisation du logiciel du revenu imposable de M. Baxter. Pour effectuer ce calcul, nous avons supposé que les redevances d'utilisation du logiciel constituent un bien de la catégorie 12 selon la description figurant dans la Loi de l'impôt sur le revenu […] Notre analyse nous a amenés à conclure qu'étant donné qu'à notre avis, la juste valeur marchande de la licence était symbolique, la valeur de l'avantage fiscal qui y était associé était également symbolique. […]
+12. Au cas où la Cour décide que la licence a en soi une certaine valeur distincte de la valeur attribuable à l'avantage fiscal qui lui est lié, nous estimons que la valeur ainsi déterminée devrait être répartie entre le contrat d'octroi de licence et le contrat de représentation. À notre avis, le contrat d'octroi de licence et le contrat de représentation sont deux contrats distincts; le contrat d'octroi de licence permettait à M. Baxter d'utiliser la licence pour négocier des contrats à terme d'indice S&P et le contrat de représentation était le véhicule par lequel la licence était exploitée. Compte tenu de la nature du programme de placement présenté à chaque investisseur, les contrats s'appliquent conjointement, de sorte qu'un contrat à lui seul n'aurait aucune valeur. Par conséquent, le fondement de toute valeur devrait se voir attribuer un poids égal entre les deux contrats. Le contrat d'octroi de licence aurait pu être utilisé isolément sans le contrat de représentation dans le cas d'un acquéreur qui possédait l'expertise voulue pour faire lui‑même les placements. Cependant, considérée dans ce contexte, notre conclusion relative à la valeur entraînerait également une valeur symbolique. Monsieur Pardo est d'avis que le système de négociation du PIT ne permettra probablement pas de réaliser des bénéfices durables élevés par suite de la conclusion de placements en temps réel, de sorte qu'il n'aurait aucune valeur en soi pour le titulaire de la licence.[17]
+Stephen R. Cole (« M. Cole »), dans son rapport et dans son témoignage, et l'avocat de l'appelant, dans ses observations, font des commentaires sur d'autres parties de la preuve soumise par M. Rosen.
+[71] Monsieur Cole, qui est expert agréé en évaluation d'entreprises, a été présenté par l'avocat de l'appelant; il a été reconnu à titre d'expert en évaluation d'entreprises canadiennes afin de fournir une preuve au sujet du PIT. La lettre accompagnant le rapport qu'il a préparé pour l'avocat de l'appelant disait ce qui suit :
+[TRADUCTION]
+Vous nous avez demandé de faire des commentaires et d'exprimer notre avis au sujet du rapport du 10 mai 2005 préparé par LECG et intitulé : [TRADUCTION] « Détermination de la juste valeur marchande d'une licence concernant le programme indiciel Trafalgar ».
+Monsieur Cole souscrivait à la définition de la « juste valeur marchande » donnée par M. Rosen. Son rapport est en partie rédigé comme suit :
+[TRADUCTION]
+· Les conclusions tirées par LECG sont fondées sur plusieurs hypothèses essentielles, lesquelles sont inexactes quant aux faits. Par conséquent, les conclusions tirées par LECG sont erronées et ne sont pas défendables.
+· En particulier, nous ne souscrivons pas à la conclusion tirée par LECG, à savoir que la juste valeur marchande d'une licence relative au PIT est symbolique. La juste valeur marchande d'une licence relative au PIT était d'environ 10 000 $ à la date de l'évaluation […]
+· Nous ne souscrivons pas à la conclusion tirée par LECG selon laquelle, lorsque le titulaire d'une licence conclut également le contrat de représentation, la juste valeur marchande doit être répartie en parts égales entre le contrat d'octroi de licence et le contrat de représentation. À notre avis :
+La juste valeur marchande de la licence relative au PIT, en l'absence du contrat de représentation, est d'au moins 10 000 $ […]
+· Dans le rapport de LECG, on considère à juste titre l'avantage que comporte la déductibilité de la licence relative au PIT aux fins de l'impôt sur le revenu. Quelle que soit la juste valeur marchande de la licence relative au PIT, les avantages fiscaux découlant de la déductibilité augmenteront la valeur déterminée par ailleurs. À supposer que la licence soit déductible peu de temps après l'achat, il existe un avantage supplémentaire d'environ 40 % de la valeur déterminée par ailleurs. Ainsi, dans le rapport de LECG, on indique que l'avantage est d'environ 23 000 $ pour une licence de 50 000 $, soit environ 40 %.
+Dans son rapport, M. Cole dit ensuite que l'avantage fiscal de la déductibilité n'a pas été pris en compte. Monsieur Cole dit que cela lui permet de simplifier la critique formulée à l'égard du rapport de LECG, de simplifier les explications au sujet de la juste valeur marchande d'une licence relative au PIT, de présenter une gamme prudente de valeurs en laissant un coussin de sécurité dans ses calculs et de démontrer que la valeur de 10 000 $ ne dépend pas de la déductibilité fiscale. Monsieur Cole dit également ce qui suit :
+[TRADUCTION]
+Nous croyons comprendre que LECG n'a pas examiné ses hypothèses et son interprétation des faits avec M. Furtak ou avec l'un des cadres supérieurs ou encore avec des partenaires de placement liés, et qu'en outre M. Pardo n'a pas demandé de tels renseignements.
+L'auteur du rapport dit ensuite ce qui suit :
+[TRADUCTION]
+Compte tenu des normes de l'Institut canadien des experts en évaluation d'entreprises, la portée du travail accompli par LECG ne constitue pas un fondement suffisant permettant d'arriver à une opinion sans réserve. Par conséquent, les conclusions tirées par LECG sont beaucoup moins crédibles que ce qui est allégué et il faudrait y apporter des réserves compte tenu de la portée restreinte de leur travail.
+Nous notons les lacunes suivantes dans la portée du travail effectué par LECG :
+- L'omission de discuter de l'affaire avec des membres du personnel bien renseignés chez Trafalgar, et l'omission de demander à ceux‑ci des renseignements;
+- L'omission d'apporter des réserves au rapport de LECG compte tenu de ce qui précède;
+- L'omission d'apporter des réserves au rapport de LECG compte tenu de l'omission de M. Pardo de demander les renseignements nécessaires;
+- L'omission de tenir compte des renseignements pertinents connus après coup.
+[72] Dans son rapport, M. Cole dit également qu'en utilisant les données historiques concernant les placements pour représenter le rendement des placements effectués grâce à l'utilisation de la licence relative au PIT, et en appliquant les dispositions du contrat de représentation, le titulaire d'une licence pouvait s'attendre à obtenir un taux de rendement interne avant impôt variant de 10 % à 29 %. Il est en outre déclaré que ce rendement, à la date de l'évaluation, se situait dans la fourchette des rendements raisonnables prévus par le titulaire d'une licence et :
+[TRADUCTION]
+donne à entendre que la juste valeur marchande d'une licence relative au PIT accompagnée du contrat de représentation est de l'ordre de 10 000 $.
+L'auteur du rapport dit également ce qui suit :
+[TRADUCTION]
+Rendement raisonnable prévu par le titulaire d'une licence à la date de l'évaluation, à supposer qu'il ne conclue pas le contrat de représentation, et juste valeur marchande minimale implicite d'une licence relative au PIT.
+- En utilisant les renseignements sur le rendement des placements vérifiés a posteriori et déduction faite des frais raisonnables de courtage et d'exécution, le titulaire d'une licence pouvait s'attendre à générer un taux de rendement interne avant impôt variant de 49 % à 122 %. À la date de l'évaluation, ce rendement excédait le rendement minimal raisonnable prévu par le titulaire d'une licence. Cela donne à penser que la juste valeur marchande d'une licence relative au PIT, indépendamment du contrat de représentation connexe, est d'au moins 10 000 $.
+Nous avons calculé d'une façon indépendante les montants susmentionnés parce que le rapport de LECG ne comporte pas de calculs de ce genre et parce que de tels calculs font partie intégrante de la détermination de la juste valeur marchande de la licence relative au PIT et du billet à la date de l'évaluation.
+Monsieur Cole poursuit en disant ceci dans son rapport :
+[TRADUCTION]
+Produits offerts comparables à une licence relative au PIT à la date de l'évaluation — Nous croyons comprendre que d'autres systèmes de placement étaient offerts aux investisseurs. Nous avons tenu compte du coût d'une licence relative au PIT acquise sans qu'un contrat de représentation soit conclu par rapport au coût des autres systèmes mentionnés dans le rapport de M. Pardo. Nous croyons comprendre qu'à la date de l'évaluation, il était peut‑être possible de réunir d'autres systèmes de négociation comparables à la licence relative au PIT, mais cela n'aurait pas été simple ou évident. Les comparaisons, à la date de l'évaluation, ne permettent pas de croire que la valeur marchande n'était pas de l'ordre de 10 000 $.
+Dans ses conclusions, LECG ne fait pas mention de produits comparables. Or, ils auraient dû en tenir compte. Nous supposons qu'ils s'appuient en partie sur l'analyse effectuée dans le rapport de M. Pardo. En effet, dans le rapport de M. Pardo, il est fait mention de produits censément comparables. Toutefois, l'analyse effectuée dans le rapport de M. Pardo est loin d'être définitive ou concluante et elle peut être trompeuse.
+Dans le rapport de M. Pardo, il n'y a rien qui soit mentionné au sujet de produits comparables qui nous amène à changer d'idée.
+[73] Le rapport nous réfère à l'appendice D qui l'accompagne. Les principaux points soulevés dans cet appendice sont ci‑après énoncés :
+[TRADUCTION]
+- Le produit censément comparable a une portée beaucoup plus étroite que la licence relative au PIT. La licence relative au PIT « comporte de multiples modules de placement ». Pour que le titulaire éventuel d'une licence obtienne une diversification comparable, il lui faudrait acheter plusieurs produits censément comparables. Il faudrait acheter sept produits comparables, de sorte que le coût global se rapprocherait beaucoup plus de celui d'une licence relative au PIT.
+- Il faudrait non seulement acheter des modules logiciels distincts, mais pour bénéficier des éléments de gestion du risque du programme de gestion de titres PIT, il faudrait aussi élaborer un logiciel afin de coordonner les modules distincts. Or, le coût d'élaboration d'un tel programme de coordination peut être élevé. Nous n'avons pas cherché à estimer ce coût.
+- Le rapport de M. Pardo ne semble pas traiter de ces coûts. Un examen approprié de ces coûts permet de réduire ou d'éliminer la différence de coût alléguée entre la licence relative au PIT d'une part et un produit vraiment comparable et le fonctionnement d'un tel produit d'autre part.
+- Même si des modules logiciels distincts étaient acquis avec un mécanisme de coordination, si les services d'une société de gestion de systèmes de placement n'étaient pas retenus à la place de services tels que ceux visés au contrat de représentation, l'acquéreur du logiciel devrait acquérir un système de transmission en direct des données du S&P 500 ainsi qu'un logiciel pour assurer la coordination et il devrait exécuter les ordres d'achat et de vente. Or, le logiciel coûte environ 2 000 $ et les services de transmission de données peuvent coûter jusqu'à 250 $ par mois. Nous croyons comprendre que Tradestation peut fournir le logiciel et le système de transmission moyennant le versement mensuel d'un montant d'environ 100 $. Le coût, à la date de l'évaluation, aurait probablement été le même ou encore plus élevé. Le rapport de M. Pardo ne semble pas traiter de l'ensemble de ces coûts. Or, un examen approprié de ces coûts permet de réduire ou d'éliminer la différence de coût alléguée entre la licence relative au PIT d'une part et un produit vraiment comparable et le fonctionnement d'un tel produit d'autre part.
+- Si l'on compare le produit censément comparable à une licence relative au PIT accompagnée du contrat de représentation connexe, la principale différence, autre que les différences associées au logiciel, est que l'acquéreur du produit censément comparable devrait prendre des dispositions à l'égard des services d'exécution des ordres d'achat et de vente et qu'il devrait engager son propre capital. Dans le cas du PIT, Trafalgar fournissait un service en vertu du contrat de représentation. Un examen approprié des coûts réels et des coûts d'opportunité permet de réduire ou d'éliminer la différence de coût alléguée entre la licence relative au PIT d'une part et un produit vraiment comparable et le fonctionnement d'un tel produit d'autre part.
+[74] À l'appendice D du rapport, nous lisons ce qui suit :
+[TRADUCTION]
+Rendements réels des placements considérés après coup — Pendant les deux années qui ont suivi la date de l'évaluation, les rendements réels des opérations générées par le logiciel de négociation du PIT correspondaient à ceux de la période vérifiée a posteriori et, pendant les quatre années qui ont suivi la date de l'évaluation, les rendements des opérations excédaient les rendements du S&P 500. Les rendements subséquents ont réduit ces gains, mais il est encore possible de réaliser des bénéfices élevés avant la fin du contrat;
+Les rendements réels à court terme après la date de l'évaluation étayent que la valeur de la licence était élevée à la date de l'évaluation. Les rendements réels ultérieurs ne permettent pas de croire que la juste valeur marchande n'était pas de l'ordre de 10 000 $ à la date de l'évaluation.
+Le rapport de LECG aurait dû traiter de ces renseignements obtenus après coup, mais il ne l'a pas fait.
+Pour plus de détails, voir l'appendice G;
+[75] À l'appendice G, on dit que la juste valeur marchande d'une licence, à la date de l'évaluation, était fondée sur les renseignements disponibles à ce moment‑là, sans bénéficier des renseignements obtenus après coup. On dit ensuite que les événements et renseignements disponibles ultérieurement étayent la conclusion que la juste valeur marchande de la licence était de l'ordre de 10 000 $. Il est déclaré que les renseignements obtenus après coup sont fort utiles lorsqu'il s'agit d'apprécier le caractère raisonnable des hypothèses émises à la date de l'évaluation. Voici ce qui est dit :
+[TRADUCTION]
+Lorsque les renseignements obtenus après coup confirment les conclusions et les hypothèses formulées à la date de l'évaluation, cela rend ces conclusions encore plus crédibles et dignes de foi.
+Le rapport dit également que les renseignements obtenus après coup ne sont pertinents que lorsqu'ils se rapportent à des périodes ultérieures pertinentes; or, en général, il s'agit uniquement des périodes légèrement postérieures à la date de l'évaluation. On dit ensuite que dans ce cas‑ci, une période d'un ou deux ans après la date de l'évaluation est pertinente pour les renseignements obtenus après coup. L'auteur du rapport déclare que ces renseignements étayent fortement les conclusions et hypothèses formulées à la date de l'évaluation et qu'il n'est pas approprié d'examiner les renseignements obtenus après coup après cette période. Il affirme également qu'environ six années se sont écoulées depuis la date de l'évaluation, et que cette période est trop longue pour qu'il soit possible d'inférer la valeur à cette date. Néanmoins, M. Cole affirme également que, compte tenu du rendement d'une licence relative au PIT entre la date de l'évaluation et la date du rapport, il n'y a rien dans les renseignements qui l'amènerait à réviser sa conclusion. L'appendice G dit ensuite ce qui suit :
+[TRADUCTION]
+L'examen des rendements ordinaires des 20 meilleurs COM en l'an 2000, tel qu'il a été effectué pour le rapport Barclay Managed Futures (Contrats à terme gérés de Barclay), montre que le groupe Trafalgar (Indice) (PIT) s'est classé dixième sur la liste à ce moment‑là. Nous notons, à la page 8 du rapport de M. Pardo, qu'au 31 décembre 1998, 1009 COM étaient inscrits auprès de la Commodity Futures Trading Commission (Commission des contrats à terme sur marchandise). Cela indiquerait que pour cette période‑là, le PIT se classait dans le premier 1 % des rendements obtenus par les COM.
+Pendant le contre‑interrogatoire, M. Rosen avait dit qu'en général, les renseignements obtenus après coup ne sont pas admissibles. Il a ajouté que lorsque ces renseignements sont admissibles, l'exception à la règle que les évaluateurs doivent appliquer veut que, si l'on se fonde sur les renseignements obtenus après coup pour vérifier une hypothèse qui existait à la date de l'évaluation et que ces renseignements se rapportent à une période raisonnablement rapprochée de cette date, ils ont une utilité restreinte. Le rapport Cole disait ensuite ce qui suit :
+[TRADUCTION]
+L'examen après coup montre que les ventes ultérieures du produit Trafalgar conclues en argent comptant indiquent une juste valeur marchande de l'ordre de 10 000 $ — Les ventes réelles de licences relatives au PIT et de licences qui les ont remplacées démontrent la juste valeur marchande de la licence relative au PIT. À ce jour, 109 personnes ont acheté des licences, ce qui représente environ 11 millions de dollars.
+Plus loin, le rapport dit ce qui suit :
+[TRADUCTION]
+La licence relative au PIT, accompagnée du contrat de représentation, permettrait à l'investisseur d'entrer sur le marché géré des contrats à terme sans engager énormément de capital et sans avoir à trouver un COM et à retenir les services de celui‑ci. Trafalgar assurait l'accès à ce type de produit qui, autrement, n'était généralement pas disponible.
+Il est possible de faire une analogie avec un fonds indiciel (ou un fonds coté en bourse qui suit un indice particulier) qui permet à l'investisseur d'acheter une participation financière dans les actions de chaque société dont est composé l'indice sans avoir à débourser de l'argent comptant pour acheter les actions de chaque société sous‑jacente.
+[76] L'avocat de l'appelant a mis l'accent sur les remarques qui précèdent et a ajouté que le rapport de M. Cole incorporait des renseignements de diverses sources non examinés par M. Rosen, provenant notamment des cadres dirigeants de Trafalgar. L'avocat a ajouté que M. Rosen avait omis de tenir compte de renseignements importants se rapportant aux résultats réels des placements conclus à l'aide du logiciel et aux ventes ultérieures de licences au comptant.
+[77] L'avocat a également fait valoir qu'un « marché libre » dans la détermination de la juste valeur marchande ne tiendrait compte ni de l'identité de l'acquéreur ni de la provenance des fonds. Cela va fondamentalement à l'encontre de l'analyse effectuée par M. Rosen. L'avocat a ensuite dit ce qui suit :
+[TRADUCTION]
+Par contre, M. Cole a témoigné qu'un bien n'a qu'une seule juste valeur marchande, indépendamment de l'identité de l'acquéreur.
+En ce qui concerne la provenance des fonds servant à l'acquisition d'un bien, M. Cole a témoigné ce qui suit :
+[TRADUCTION]
+Monsieur le juge Bell, la provenance des fonds n'est absolument pas pertinente. Par définition, la juste valeur marchande d'une licence doit être déterminée sur un marché libre avec la myriade d'acquéreurs éventuels qui paieront en argent comptant, et lorsque des actions sont achetées, le vendeur sur le marché ne vous demandera pas si votre grand‑mère vous a donné l'argent, si l'argent provient de votre compte de REÉR ou de votre pension ou si vous l'avez durement gagné. Cela n'est pas pertinent. C'est le beau côté de la définition. Elle ne dépend aucunement de la provenance des fonds.
+[78] L'avocat de l'appelant a souligné que même si on acceptait le point de vue de M. Rosen, qu'il n'acceptait pas, cela ne tenait pas compte du fait que l'appelant, en obtenant la licence, avait payé le même montant que les titulaires de licence qui avaient payé TCL entièrement en argent comptant. Il a ajouté que M. Rosen avait témoigné qu'il n'était au courant d'aucune vente au comptant de la sorte au moment où il avait préparé son rapport, bien que M. Bruce eût témoigné au sujet de l'existence de telles ventes dans son témoignage, qui est inclus dans l'étendue de l'examen du rapport de M. Rosen. L'avocat a ajouté que M. Rosen avait également témoigné qu'il aurait considéré les ventes au comptant comme pertinentes dans son analyse, à condition que les opérations aient été conclues sans lien de dépendance.
+[79] En renvoyant à la transcription, l'avocat a également dit que M. Rosen avait évalué la licence en se fondant sur le fait que l'acquéreur pouvait uniquement profiter d'une licence en concluant un contrat de représentation avec TT. Il a poursuivi en disant que M. Rosen avait en outre admis qu'il n'avait pas enquêté sur les autres utilisations possibles d'une licence. L'avocat a ensuite soutenu que ce renseignement permet de conclure que M. Rosen n'a pas évalué les autres utilisations de la licence afin de déterminer s'il existait de meilleures utilisations que la conclusion d'opérations en vertu du contrat de représentation. Il a également mentionné la preuve fournie par M. Rosen au sujet de la répartition de la valeur entre la licence et le contrat de représentation, à savoir :
+[TRADUCTION]
+Compte tenu des renseignements mis à ma disposition, je n'ai pas pu arriver à une répartition fondée sur des paramètres économiques, de sorte que j'ai arbitrairement réparti la valeur en parts égales, mais à mon avis, il est loisible de répartir la valeur de n'importe quelle façon.
+[80] L'analogie que l'avocat de l'appelant a faite avec un casier à homards est utile. L'avocat a dit que celui qui achète un casier à homards sans savoir comment l'utiliser peut être comparé à celui qui achète une licence. On peut établir une analogie entre l'acquéreur d'un casier à homards qui engage quelqu'un pour utiliser le casier et celui qui engage un mandataire pour utiliser la licence. L'avocat a soutenu que le casier à homards, comme la licence, a en soi une valeur. Il a affirmé que c'est le bien, et non l'entreprise, qu'il faut évaluer.
+[81] Dans son argumentation, l'appelant se réfère à une lettre de Deloitte et Touche reproduisant les activités simulées accomplies par Trafalgar et confirmant que si des opérations étaient conclues conformément au logiciel, un bénéfice annuel de 16,5 % aurait été généré. Monsieur Pardo a conclu que, selon la mesure dans laquelle la négociation d'opérations était financée par endettement, le rendement annuel prévu serait soit de 4,73 % (en supposant une marge de 20 % par rapport aux fonds propres) ou de 8,52 % (en supposant une marge de 40 % par rapport aux fonds propres). Par contre, Charles Ray LeBeau (« M. LeBeau »), qui a été reconnu à titre de témoin expert de l'appelant dans le domaine de la conception et de l'essai de systèmes informatisés de conclusion de placements et dans le domaine du fonctionnement du marché des contrats à terme, a conclu que les chiffres auxquels le cabinet Deloitte & Touche était arrivé étaient exacts. Voici ce que dit M. LeBeau dans son rapport écrit :
+[TRADUCTION]
+Le modèle de vérification a posteriori de Deloitte & Touche préparé en 1998 et par la suite vérifié par mes travaux indique un bénéfice prévu de 16,5 % sur les opérations, ce qui se trouve précisément dans la fourchette que M. Pardo considérait comme « l'une des meilleures ». À la date de l'évaluation, le titulaire éventuel de licence aurait donc avec raison pu s'attendre à un rendement fort élevé et certainement pas à un rendement inférieur à la norme.
+Selon l'avocat de l'appelant, la différence entre les conclusions tirées par M. Pardo et celles que M. LeBeau a tirées s'explique par les hypothèses que chacun a employées en créant de nouveau les opérations simulées. Plus précisément, en ce qui concerne le « décalage » et la commission, l'avocat a cité le rapport de M. Pardo, dans lequel le « décalage » est défini comme suit :
+[TRADUCTION]
+Le décalage représente les frais d'opération exigés par le parquet. Il s'agit d'une estimation de la différence entre le prix demandé et le prix obtenu. Le décalage constitue un coût important lors de la conclusion d'opérations. L'ampleur du décalage dépend du type d'ordre donné, de l'importance de l'ordre et de la liquidité du marché.
+Par conséquent, l'avocat de l'appelant a soutenu que moins le montant du décalage et de la commission est élevé, plus le bénéfice associé aux opérations qui peut être généré par un système de placement est élevé. Monsieur Pardo a utilisé un chiffre présumé de 100 $ par opération d'achat et de vente aux fins du calcul du rendement prévu. Monsieur LeBeau a utilisé, pour le décalage et la commission, le chiffre de 50 $ que Deloitte & Touche avait utilisé. Dans son témoignage, il a expliqué qu'il croyait que ce chiffre était raisonnable étant donné qu'un grand nombre d'ordres exécutés à l'aide d'un logiciel allaient à l'encontre des tendances, c'est‑à‑dire que les titres étaient vendus lorsque leur cours montait et vice‑versa. Il y avait donc une réduction du montant de décalage associé à une opération, et peut‑être même l'obtention d'un « décalage favorable », le délai d'exécution d'un ordre entraînant un meilleur prix. L'avocat a ensuite dit que le montant du décalage était réduit étant donné que la plupart des modules logiciels utilisent des « ordres à cours limité » qui empêchent la conclusion d'une opération à des conditions défavorables en établissant un plafond à l'égard du prix qu'une personne accepterait afin de négocier. C'est également ce qu'a dit M. LeBeau. Monsieur Cullis[18] a témoigné avoir conclu des milliers d'opérations à l'aide du logiciel et que le montant réel du décalage et de la commission [TRADUCTION] « variait de 60 à 65 $ ».
+[82] L'avocat de l'appelant a soutenu que la répartition du capital parmi les sept programmes de placement dont était composé le logiciel (la « pondération ») influait sur les résultats que M. Pardo avait obtenus en procédant à la simulation. L'avocat a déclaré qu'une pondération inexacte peut entraîner une surévaluation ou une sous‑évaluation des bénéfices ainsi qu'une surévaluation ou une sous‑évaluation du risque lié à la conclusion d'opérations à l'aide du logiciel. Monsieur Pardo a témoigné avoir supposé que chacun des sept programmes de placement était pondéré d'une façon égale. Toutefois, M. Cullis a témoigné que la pondération employée par Deloitte & Touche et la pondération réellement utilisée par le logiciel n'était pas égale pour chaque programme. Le ratio de répartition des actifs utilisé par M. LeBeau confirmait les résultats obtenus par Deloitte & Touche.
+[83] L'avocat a déclaré que M. Pardo avait également omis d'utiliser le module de gestion des titres. Il s'agit d'un composant du logiciel qui suit chacun des sept programmes de placement et qui met essentiellement fin à tout programme qui ne fonctionne pas de la façon prévue pour un jour donné. Monsieur Cullis a expliqué que, par suite de cette omission, M. Pardo avait surévalué le risque associé aux placements conclus à l'aide du logiciel. Monsieur LeBeau, au contraire, a utilisé le module de gestion des titres en vérifiant les résultats obtenus par Deloitte & Touche.
+[84] L'avocat de l'appelant a déclaré que M. Rosen était mal informé en ce sens que sa conclusion était fondée sur la théorie selon laquelle « on misait tout », par laquelle il supposait que par suite des taux d'endettement auxquels il s'attendait en vertu du contrat de représentation, tout le capital engagé était à risque en tout temps. Sur ce point, voici ce que M. Rosen a dit dans son rapport :
+[TRADUCTION]
+À supposer que le capital initial serve à faire des placements, une fluctuation imprévue du marché, favorable ou défavorable, d'environ 5,4 % (c'est‑à‑dire de 10 000 $ à 184 447 $), ou une série de fluctuations moins importantes, serait suffisante pour épuiser complètement le capital engagé de 10 000 $ et mettrait fin aux activités. Étant donné que les contrats indiquent que tout rendement net imputé au capital engagé pendant la durée du contrat est également réinvesti dans l'acquisition de contrats à terme additionnels, il s'ensuit que le capital engagé par M. Baxter est toujours à risque et, par conséquent, une fluctuation du marché imprévue de 5,4 % ou une série de fluctuations du marché à n'importe quel moment pendant la durée de la licence serait suffisante pour épuiser le solde courant du capital engagé et pour mettre fin à la conclusion d'opérations.
+[85] L'avocat a soutenu que M. Rosen avait utilisé le mauvais montant d'endettement dans ses calculs, puisqu'il avait omis de tenir compte des caractéristiques uniques en leur genre du logiciel, à savoir :
+a) le degré élevé d'indépendance entre les programmes de négociation;
+b) les mécanismes de limitation des pertes du logiciel qui empêchent les sept programmes de créer une position susceptible d'entraîner une perte élevée;
+c) le fait que toutes les placements sont liquidés à la fin de la journée.
+L'avocat a poursuivi en disant que les conditions qui doivent être présentes pour que le capital engagé soit épuisé sont si peu probables qu'elles sont même [TRADUCTION] « inconcevables », comme l'a dit M. LeBeau. L'avocat a ajouté ce qui suit :
+[TRADUCTION]
+Pour que l'analyse de M. Rosen soit exacte, les sept programmes de placement devraient conclure des opérations le même jour (ce qui arrive environ 2,5 % du temps)[19], et ils devraient en outre occuper simultanément la même position, étant donné que si un programme de négociation se trouvait dans une position vendeur alors que les autres occupaient des positions acheteur, le capital ne serait pas entièrement à risque. De plus, le parquet devrait mettre fin à ses activités avant l'heure prévue, de sorte que les mécanismes d'autorégulation incorporés dans le logiciel qui empêchent une telle perte de se produire ne pourraient pas liquider les placements. De telles conditions créeraient un risque associé aux fluctuations du marché à un jour, fluctuations dont l'ampleur devrait être suffisante pour éliminer le capital engagé[20].
+[86] Pour obtenir une copie du code source du logiciel. M. Rosen a demandé l'aide d'un tiers, M. Ivanoff (« M. Ivanoff »), afin de décompiler le logiciel. Ni M. Rosen ni aucun membre de son équipe d'évaluation n'avaient rencontré M. Ivanoff ou ne connaissaient son pays de résidence ou encore ne savaient quoi que ce soit d'autre à son sujet. Monsieur Ivanoff, qui a été découvert « en ligne » sur Internet, résidait dans un fuseau horaire européen et s'est vu confier la tâche, par courriel, de déterminer le code source du logiciel moyennant le paiement d'un montant de 300 $. L'avocat de l'appelant a déclaré que la façon dont le code source avait été acquis laisse planer un doute sur la mesure dans laquelle la Cour peut être sûre que la copie du code source examinée par M. Pardo se rapportait au même programme que le logiciel. Ni M. Rosen ni M. Pardo n'ont communiqué avec M. Furtak, ou n'ont tenté de communiquer avec M. Furtak, ou avec quelque autre représentant du groupe de sociétés Trafalgar. L'avocat a ensuite dit ceci :
+[TRADUCTION]
+Par conséquent, l'avis de M. Rosen — l'avis de M. Pardo ne bénéficiait pas des renseignements additionnels que Trafalgar pouvait fournir. En outre, ce fait aurait dû être divulgué dans le rapport de M. Rosen, mais il ne l'a pas été.
+[87] L'avocat de l'appelant a également dit que M. Rosen avait examiné l'interrogatoire préalable de M. Bruce, au cours duquel ce dernier avait témoigné qu'il était au courant de ventes de licences d'utilisation du logiciel conclues en argent comptant. L'avocat a ensuite mentionné le témoignage de M. Rosen, selon lequel malgré cet examen, celui‑ci ne s'était pas rendu compte que des ventes de licences avaient été conclues en argent comptant.
+[88] L'avocat a également dit ceci :
+[TRADUCTION]
+Monsieur Pardo et le ministre possédaient tous deux des copies de la lettre de Deloitte & Touche confirmant les résultats des opérations simulées, mais M. Rosen n'a été mis au courant de la chose qu'après avoir terminé son rapport.
+[89] En réponse, les observations écrites de l'avocat de l'intimée commençaient par la remarque suivante :
+[TRADUCTION]
+L'appelant n'a pas produit de preuve principale au sujet de la juste valeur marchande de la licence et, à l'instruction, il n'a soumis aucune preuve à l'appui de la position selon laquelle la juste valeur marchande correspondait au montant intégral de 50 000 $.
+Cette remarque ne tient pas compte du fait que l'appelant n'avait pas la charge de la preuve quant à la juste valeur marchande de la licence, puisque l'obligation de fournir une preuve établissant cette valeur incombait à l'intimée.
+[90] L'avocat de l'intimée a également commis l'erreur de discuter du solde des comptes de placement des témoins de l'intimée, MM. Dahn et Myatt, en 2005. Cela n'a absolument rien à voir avec l'évaluation de la licence de l'appelant, le jour où celui‑ci l'a achetée. De plus, la déclaration selon laquelle la preuve montre que 90 % du capital a été perdu en un peu plus de six ans ne tient pas compte de la preuve du témoin de l'intimée, M. Peters. Comme il en a ci‑dessus été fait mention, M. Peters a dit que les intérêts sur le montant du billet, les frais d'administration et les frais de courtage seraient prélevés sur les bénéfices. Cela non plus n'a aucune pertinence quant à la valeur de la licence au moment où elle a été achetée. En outre, cette déclaration ne tient pas compte de la preuve présentée par les témoins de l'appelant.
+[91] Il est fort difficile de comprendre l'argument suivant de l'avocat et, par conséquent, d'y répondre :
+[TRADUCTION]
+L'expert produit par l'appelant en réfutation, M. Cole, a soutenu que la licence devait être évaluée isolément (c'est‑à‑dire sans tenir compte de l'existence et de l'application du contrat de représentation), mais cela ne tient absolument pas compte des faits de l'affaire, tels qu'ils existent. Les experts de la Couronne ont évalué ce que l'appelant a réellement acheté. Toute évaluation théorique dans laquelle d'autres hypothèses sont émises ne tient pas compte de la réalité et du bon sens.
+[92] Je me reporterai simplement à la preuve soumise par M. Cole en réponse à cet argument.
+[93] Les huit premiers jours de l'audience ont été consacrés à la présentation de la preuve et, environ deux mois plus tard, deux jours ont été consacrés à l'audition des arguments. Le mémoire écrit de l'intimée ne traitait pas d'une façon adéquate de la preuve présentée par les témoins de l'appelant, à savoir, l'appelant, M. LeBeau, M. Cullis et M. Cole.
+[94] Monsieur Pardo, qui est établi dans la région de Chicago, n'a pas parlé en termes compréhensibles pour quelqu'un qui n'est pas du métier, et ce, même après que la Cour l'eut prié plus d'une fois de le faire. Je lui ai demandé à maintes reprises d'expliquer ce que les expressions qu'il employait voulaient dire et ce qu'il voulait dire. Monsieur Pardo semblait parfois presque dédaigneux, mais je suis d'avis qu'il ne l'était pas intentionnellement, son comportement étant plutôt attribuable au milieu où il travaille, à savoir le monde des investisseurs bien nantis. Son témoignage était fort difficile à comprendre.
+[95] Monsieur Rosen ne voulait pas changer d'idée au sujet du fait que la licence ne pouvait pas être évaluée isolément et que l'effet fiscal de son achat et la provenance des fonds d'un investisseur étaient des éléments essentiels à prendre en considération dans la détermination de la valeur.
+[96] J'ai trouvé que M. Cole s'est exprimé avec aisance, en termes succincts et clairs en présentant ses hypothèses concises. Son rapport écrit et sa preuve orale étaient fort convaincants. Voici ce qu'il a dit dans son rapport :
+[TRADUCTION]
+Ce rapport doit être lu au complet. Si l'on choisissait certaines parties de l'analyse sans tenir compte de tous les facteurs et de l'analyse dans l'ensemble, cela pourrait donner une impression erronée des méthodes et approches sous‑tendant nos conclusions. La préparation visant à permettre d'arriver à des conclusions au sujet de la valeur est un processus complexe et les différents composants de la valeur ne peuvent pas être considérés isolément.
+[97] L'analyse des rapports d'experts est fort difficile, en particulier lorsqu'il est question de l'évaluation d'un élément aussi complexe qu'un logiciel. Il est loisible à la Cour d'accepter le rapport d'un expert au complet. Il est également loisible à la Cour, dans une affaire d'évaluation, de fixer un montant se situant entre ceux que les experts adverses ont fixés. La justification d'une telle conclusion est une tâche gigantesque, sinon impossible. En somme, l'expert connaît mieux la question que le juge. En l'espèce, le comportement, la substance, la présentation et la certitude modeste de M. Cole me convainquent. J'accepte donc sa détermination de la valeur de la licence de l'appelant, à savoir qu'elle correspond au prix d'achat de 50 000 $.
+Cinquième question
+[98] La cinquième question est de savoir si le droit de l'appelant à la déduction pour amortissement est restreint par les dispositions de l'article 67, qui est rédigé comme suit :
+Dans le calcul du revenu, aucune déduction ne peut être faite relativement à une dépense à l'égard de laquelle une somme est déductible par ailleurs en vertu de la présente loi, sauf dans la mesure où cette dépense était raisonnable dans les circonstances.
+Puisque j'ai décidé que la valeur de la licence correspond à ce que l'appelant a payé pour l'obtenir, à savoir 50 000 $, aucune question ne se pose en ce qui concerne l'article 67.
+Sixième question
+[99] La sixième question est de savoir si le billet représentait une obligation éventuelle.
+Selon la position prise par l'appelant, l'obligation qui lui incombait aux termes du billet n'était pas une obligation éventuelle. L'intimée soutient que le billet de 32 500 $ émis par l'appelant est une obligation éventuelle et que, partant, ce montant devrait être exclu du coût en capital de la licence.
+[100] En vertu de l'article 8.3 du contrat de représentation, TT s'engageait à ce que les placements conclus en vertu de la licence donnent un rendement annuel moyen d'au moins 8 %. En se reportant à l'arrêt R. c. Gelber, no T‑790‑80, 3 juin 1983, 83 D.T.C. 5385 (C.A.F.), l'avocat de l'appelant a dit qu'un tel engagement ne justifierait pas en soi une réduction de ce qui serait par ailleurs le coût en capital de l'appelant. Voici ce que la Cour d'appel fédérale a dit à l'avant‑dernier paragraphe :
+À mon avis, ce n'est pas parce que l'acheteur d'un bien quelconque exige comme condition de l'achat la cession‑bail du bien au vendeur de manière à s'assurer d'un revenu correspondant au montant de l'investissement et d'un rendement sur cet investissement, que le prix d'achat n'est pas le véritable coût en capital du bien.
+En vertu de l'article 8.4 du contrat de représentation, TCL a convenu :
+[TRADUCTION]
+que, malgré les dispositions du contrat d'octroi de licence et du billet, l'obligation du titulaire de la licence de respecter les conditions du billet et de l'alinéa 3.1e) du contrat d'octroi de licence sera limitée au prorata, compte tenu de la mesure dans laquelle Trafalgar Trading respecte les dispositions de l'article 8.3 […]
+L'avocat de l'appelant a affirmé que le billet lui‑même prévoit qu'il [TRADUCTION] « est assujetti aux conditions du » contrat d'octroi de la licence, mais ne prévoit pas qu'il est assujetti aux conditions du contrat de représentation, qui renferme la garantie susmentionnée fournie par TCL. L'avocat a également dit que l'obligation prévue par le billet a pris naissance avant que le contrat de représentation puisse s'appliquer. Le premier attendu du contrat de représentation est libellé comme suit :
+[TRADUCTION]
+ATTENDU que le titulaire de la licence s'est vu accorder par TCL […] une licence non exclusive à utilisation restreinte l'autorisant à utiliser le programme indiciel Trafalgar […].
+[Je souligne.]
+L'avocat affirme que le billet ne pouvait donc pas être assujetti aux conditions du contrat de représentation.
+[101] L'avocat a également déclaré qu'étant donné que la question en litige se rapporte au coût en capital de la licence, cette question devrait être tranchée au moment où la licence a été acquise. Il a ajouté que le billet, émis en paiement partiel de la licence, était absolu et qu'il n'était pas assujetti aux dispositions du contrat de représentation et que ce fait à lui seul est suffisant pour permettre de conclure que l'obligation prévue par le billet n'était pas une obligation éventuelle. L'avocat a déclaré que c'est ce qui ressort de l'arrêt Wawang Forest Products Limited c. Canada, 2001 CAF 80, 2001 D.T.C. 5212 (C.A.F.). Au paragraphe 11, la Cour d'appel fédérale a mentionné le critère énoncé dans l'arrêt Winter v. I.R.C., [1963] A.C. 235 (C.L.), page 262 :
+[TRADUCTION]
+Il convient de préciser qu'une éventualité est un événement qui peut se produire ou ne pas se produire et qu'une obligation éventuelle est une obligation dont l'existence dépend d'un événement qui peut se produire ou ne pas se produire.
+Aux paragraphes 15 et 16 de l'arrêt Wawang, la Cour d'appel fédérale a dit ce qui suit :
+[…] dans le cas d'une incertitude se rapportant à un paiement, un contribuable peut contracter une obligation alors qu'il éprouve des difficultés financières, ce qui implique un risque important de défaut de paiement. Toutefois, cette incertitude ne peut signifier que l'obligation n'a jamais été contractée. De même, l'obligation de payer une certaine somme ne devient pas une obligation éventuelle simplement à cause d'événements qui peuvent se produire et qui auraient pour effet de réduire la valeur de l'obligation […] L'obligation juridique de payer une somme ne devient pas non plus une obligation éventuelle du seul fait que certaines circonstances permettent d'en reporter le paiement, ou du fait qu'aucune date de paiement ne soit stipulée.
+[...] la question qu'il faut se poser, pour décider du caractère éventuel ou non d'une obligation juridique à un moment précis, est de savoir si l'obligation juridique existe à ce moment précis ou si elle ne naîtra qu'au moment où surviendra un événement, qui pourrait ne pas se produire. […]
+[102] L'avocat a ensuite fait valoir que la question de savoir si une obligation est éventuelle à un moment donné dépend de la question de savoir si, à ce moment‑là, il existait une obligation juridique ou si une obligation juridique ne doit prendre naissance que par la suite, lorsque surviendra un événement qui peut se produire ou ne pas se produire. Il a ajouté que si une condition doit être remplie avant qu'une dette devienne une obligation juridique, la dette constitue une obligation éventuelle. Si la dette est assortie d'une « condition résolutoire », en ce sens qu'il existe une obligation juridique, mais que cette obligation pourrait être annulée en totalité ou en partie par des événements ultérieurs autres que le paiement de la dette, il ne s'agit pas d'une obligation éventuelle. L'avocat a ensuite soutenu que le billet représente une obligation existante qui pourrait prendre fin, en totalité ou en partie, par suite d'un événement futur, à savoir si les activités de placement ne génèrent pas le rendement garanti de 8 %.
+[103] L'avocat de l'appelant a ensuite mentionné la décision Hill c. La Reine, no 2000‑3636(IT)G, 6 mai 2002, 2002 D.T.C. 1749 (C.C.I.), et il a souligné, en se reportant au paragraphe 37, que l'existence d'une éventualité doit être établie au moment où la dette a été contractée.
+[104] Dans l'arrêt Fédération des Caisses populaires Desjardins de Montréal et de l'Ouest du Québec c. La Reine, no A‑739‑99, 23 février 2001, 2002 D.T.C. 7413 (C.A.F.), il s'agissait de savoir si le contribuable pouvait déduire un montant estimatif des cotisations de l'employeur applicables à la paie de vacances des employés qui s'accumulaient à la fin de l'année en question en tenant compte des montants que les employés avaient gagnés jusqu'à ce moment‑là. L'obligation du contribuable existait à compter du moment où les services en question étaient fournis, même si les montants en question ne devaient être payés qu'au moment où les employés décidaient de prendre des vacances. La possibilité qu'un employé ne prenne pas de vacances était une condition résolutoire. L'avocat a déclaré que ni cette possibilité ni le fait que le montant de l'obligation accumulée devait être estimé ne faisaient de cette obligation une obligation éventuelle.
+[105] Dans la décision McLarty c. La Reine, no 97‑3628(IT)G, 26 janvier 2005, 2005 D.T.C. 217 (C.C.I.), qui fait maintenant l'objet d'un appel, le billet stipulait expressément qu'il était assujetti à la condition selon laquelle il devait être remboursé à l'aide des rentrées de fonds générées par l'entreprise dans laquelle le contribuable avait investi des capitaux et, au besoin, au moyen de la vente des éléments d'actif de l'entreprise, toute insuffisance devant faire l'objet d'une renonciation. La Cour a conclu ce qui suit au paragraphe 46 :
+[…] le billet ne crée pas de dette éventuelle simplement parce que nous ne savons pas combien d'argent sera remboursé sur le billet ou à quel moment un remboursement sera effectué.
+En ce qui concerne le billet et l'obligation y afférente relative aux intérêts, l'avocat de l'appelant a dit qu'il serait difficile d'imaginer qu'une obligation à l'égard de laquelle des intérêts mensuels sont immédiatement payables ne soit pas une obligation existante.
+[106] L'appelant a cité un certain nombre de décisions dans lesquelles il a été statué que des obligations étaient éventuelles[21]. Les décisions rendues dans ces affaires‑là sont compréhensibles, étant donné qu'elles étaient fondées sur des faits différents de ceux dont la Cour est ici saisie.
+[107] Bref, l'avocat de l'appelant a déclaré que la dette dont le billet faisait état était une obligation exigible portant intérêt à compter de la date d'émission du billet, indépendamment de toute garantie relative au taux de rendement des activités de placement. Il a ajouté ce qui suit :
+[TRADUCTION]
+Si le rendement réel était inférieur au taux garanti et si, par conséquent, TCL ne cherchait pas à obtenir le paiement de la totalité ou d'une partie du solde du billet, il s'agissait d'une condition résolutoire et cela n'influait pas sur le fait que le billet créait une obligation exigible. Par conséquent, aucune partie de la dette représentée par le billet ne constituait une obligation éventuelle, et c'est pourquoi le montant de la dette ne devrait pas être exclu du coût en capital de la licence de l'appelant.
+[108] Dans ses observations écrites, l'avocat de l'intimée a dit ce qui suit :
+[TRADUCTION]
+À coup sûr, en l'espèce, lorsque l'appelant a conclu l'arrangement en 1998, l'étendue de l'obligation juridique qui lui incombait aux termes du billet dépendait du rendement de l'investissement au fil des ans.
+Bien qu'elle n'ait pas été précise sur ce point, il est clair que l'intimée ne considérait pas le billet comme un document « isolé » puisqu'elle a parlé de [TRADUCTION] l'« arrangement ». La plupart des décisions mentionnées par l'avocat de l'intimée ont également été mentionnées par l'avocat de l'appelant et elles figurent ici dans les notes de bas de page.
+[109] Indépendamment du temps qui s'est écoulé entre la signature du contrat d'octroi de licence et du billet d'une part et la signature du contrat de représentation d'autre part, aucun élément de preuve n'établit que le billet n'avait pas été émis avant la conclusion du contrat de représentation. Sur ce point, dans l'arrêt R. c. John R. Singleton, [2001] 2 R.C.S. 1046, 2001 D.T.C. 5533, la Cour suprême du Canada a décrit un certain nombre de mesures prises par M. Singleton, notamment le fait qu'il avait emprunté de l'argent pour renflouer son compte de capital dans un cabinet d'avocats et qu'il avait en fin de compte acheté une maison. Aux paragraphes 32 à 34, la Cour suprême a dit ce qui suit :
+[...] Eu égard aux rapports juridiques qui existent en l'espèce, il est clair que l'intimé a utilisé l'argent emprunté pour renflouer son compte de capital.
+Cette qualification de l'usage des fonds n'est pas changée du fait que l'intimé a utilisé l'argent qu'il a retiré du cabinet pour acheter une maison. Le fait que les opérations se soient produites le même jour n'y change rien non plus.
+En toute déférence, il est erroné de considérer ces demandes comme une seule et même opération. Pour donner effet aux rapports juridiques, il faut considérer les opérations comme des opérations distinctes. [...]
+[110] J'ai conclu qu'il faut trancher la question qui se pose sur ce point en faveur de l'appelant. Le billet ne représentait pas une obligation éventuelle.
+[111] Le billet, dont une copie a été produite en preuve, a été émis le 31 décembre 1998, le principal s'élevant à 32 500 $. Monsieur Rosen et M. Cole ont tous deux évalué le billet. Dans le rapport LECG (de M. Rosen), il est déclaré ce qui suit :
+[TRADUCTION]
+[…] nous sommes d'avis que la juste valeur marchande du billet à la date de l'évaluation était symbolique.
+Le rapport de M. Cole parle de
+[TRADUCTION]
+l'acquisition de cinq licences relatives au PIT de Trafalgar B.V. par R. Daren Baxter à la date de l'évaluation […] et du billet connexe (le « billet »).
+L'auteur du rapport déclare ce qui suit :
+[TRADUCTION]
+La juste valeur marchande d'une licence relative au PIT était de l'ordre de 10 000 $ à la date de l'évaluation.
+Il ajoute ce qui suit :
+[TRADUCTION]
+La juste valeur marchande d'un billet était de l'ordre de 4 000 à 6 000 $ à la date de l'évaluation.
+De toute évidence, l'évaluation se rapporte à chacune des cinq licences achetées par l'appelant, même s'il n'y avait qu'un contrat d'octroi de licence aux termes duquel le prix d'achat total de 50 000 $ était payable.
+[112] La question de l'évaluation du billet ou des billets n'a été soulevée devant la Cour dans aucune des six questions mentionnées par les parties, de sorte que je ne tire aucune conclusion sur ce point. La question pourra être réglée par les parties ou par un renvoi devant la Cour, au besoin.
+[113] L'appel sera admis, toutes les questions en litige ayant été tranchées en faveur de l'appelant.
+[114] Je ne traiterai pas des dépens dans le présent jugement. Je serai disponible pour la tenue d'une conférence téléphonique portant sur ce point. Les avocats pourront prendre des dispositions à cet égard.
+Signé à Ottawa, Canada, ce 13e jour d'avril 2006.
+« R. D. Bell »
+Le juge Bell
+Traduction certifiée conforme
+ce 26e jour d'octobre 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI230
+No DU DOSSIER DE LA COUR : 2002‑4035(IT)G
+INTITULÉ : R. DAREN BAXTER c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Halifax (Nouvelle‑Écosse) et
+Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 15 juin et les 18 et 19 août 2005
+MOTIFS DU JUGEMENT : L'honorable juge R. D. Bell
+DATE DU JUGEMENT : Le 13 avril 2006
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Edwin C. Harris, c.r.
+Me Al Meghji
+Me Ted Citrome
+Avocats de l'intimée :
+Me John W. Smithers
+Me V. Lynn W. Gillis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Edwin C. Harris, c.r.
+Cabinet : Patterson Palmer
+Nom : Al Meghji et Ted Citrome
+Cabinet : Osler, Hoskin and Harcourt
+Pour l'intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Toutes les numéros d'articles renvoient à la Loi.
+[2] Il a conclu le contrat d'octroi de licence le 31 décembre 1998.
+[3] En fait, il a acheté cinq licences de 10 000 $ chacune.
+[4] Un représentant en valeurs mobilières indépendant vendant des licences de TCL.
+[5] Selon les dispositions du Règlement de l'impôt sur le revenu concernant la déduction pour amortissement.
+[6] Il était président du groupe Trafalgar.
+[7] Sans doute le 30 mai 1999.
+[8] Un représentant du groupe Trafalgar.
+[9] Un représentant en valeurs mobilières indépendant vendant des licences de TCL.
+[10] Il n'existait aucun élément de preuve indiquant que le prix d'achat était de 50 000 $, mais on peut supposer que le coût de la licence de M. Dahn était le même que ce qu'il en avait coûté à l'appelant. Monsieur Dahn a également dit qu'il ne croyait pas exploiter une entreprise distincte en achetant le logiciel.
+[11] Le terme « rapport d'opération » a été défini comme se rapportant aux instructions relatives à la négociation d'un contrat S&P 500 (ordre d'achat et ordre de vente) générées par le PIT.
+[12] Con-Ell était la filiale de l'appelante.
+[13] La décision récemment rendue par la présente cour dans l'affaire Maege c. Sa Majesté La Reine, où cette expression est étudiée en détail dans une situation factuelle fort différente, n'est pas utile ici.
+[14] Où figure la définition de l'« abri fiscal ».
+[15] Ce n'est pas ce que prévoit le paragraphe 137(1). Toutefois, cette erreur apparente n'influe pas sur la conclusion.
+[16] M. Rosen est directeur général de LECG Canada (« LECG »).
+[17] Robert Pardo (« M. Pardo »), un conseiller en opérations sur marchandises, était l'un des témoins experts de l'intimée. Il a été reconnu à titre de témoin expert afin de fournir une preuve d'opinion en matière de stratégies de placement, d'applications informatisées de placement, de la profession de COM et de l'industrie des contrats à terme.
+[18] Jonathan William Cullis (« M. Cullis »), dont la société exploitait le logiciel du PIT pour TT, n'a pas été reconnu à titre d'expert. La preuve qu'il a présentée était factuellement fondée sur son expérience et il ne s'agissait pas d'une preuve d'opinion.
+[19] Selon M. Cullis.
+[20] Selon M. Cullis.
+[21] Ticketnet Corporation c. La Reine, no T‑2185‑88, 11 juin 1999, 99 D.T.C. 5409 (C.F. 1re inst.)
+Global Communications Limited c. La Reine, no A‑426‑97, 18 juin 1999, 99 D.T.C. 5377 (C.A.F.)
+Northern and Central Gas Co. Ltd. c. La Reine, no T‑508‑82, 13 février 1985, 85 D.T.C. 5144 (C.F. 1re inst.), conf. par no A‑270‑85, 2 novembre 1987, 87 D.T.C. 5439 (C.A.F.)
+Newfoundland Light & Power Co. Ltd. c. La Reine, no A‑570‑86, 8 février 1990, 90 D.T.C. 6166 (C.A.F.)
+Cummings c. La Reine, no A‑507‑78, 22 juin 1981, 81 D.T.C. 5207 (C.A.F.)
+TNT Canada Inc. c. La Reine, no T‑2424‑85, 15 juin 1988, 88 D.T.C. 6334 (C.F. 1re inst.)

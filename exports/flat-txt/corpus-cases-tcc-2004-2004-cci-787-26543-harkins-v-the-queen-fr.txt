@@ -1,0 +1,167 @@
+Title: Harkins v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26543/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-787-26543-harkins-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-12-01
+
+# Harkins v. The Queen
+
+- Citation: 2004 CCI 787
+- Decision date: 2004-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3225, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Harkins v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-01
+Référence neutre
+2004 CCI 787
+Numéro de dossier
+2003-2282(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2282(IT)I
+ENTRE :
+ORA P. HARKINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus à Halifax (Nouvelle-Écosse), le 24 novembre 2004.
+Devant : L'honorable Campbell J. Miller
+Comparutions :
+Avocat de l'appelant :
+Me Matthew J.D. Moir
+Avocate de l'intimée :
+Me Catherine McIntyre
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997, 1998 et 1999 sont rejetés.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2004.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 5e jour d'août 2005.
+Sara Tasset
+Référence : 2004CCI787
+Date : 20041201
+Dossier : 2003-2282(IT)I
+ENTRE :
+ORA P. HARKINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Il s'agit d'un appel interjeté sous le régime de la procédure informelle par M. Ora Harkins à l'égard de ses années d'imposition 1997, 1998 et 1999. Le ministre du Revenu national (le « ministre » ) a refusé la déduction de paiements effectués au titre de la pension alimentaire pour les années en question compte tenu du fait que les paiements n'avaient pas été effectués aux termes d'un accord écrit. Il n'est pas contesté que M. Harkins a effectué les paiements. Cependant, M. Harkins maintient qu'il y avait un accord de séparation écrit qui était daté de l'année 1987 et qui avait été signé par sa femme et par lui-même. La position prise par l'intimée est que le document n'a été signé qu'en 1999 ou en l'an 2000.
+[2] M. et Mme Harkins se sont mariés au mois de septembre 1960 et ils se sont séparés au mois de septembre 1986. Rien n'a été consigné par écrit au moment de la séparation, mais Mme Harkins s'inquiétait de sa sécurité future. Cette inquiétude était exprimée dans une lettre non datée qui, selon M. Harkins, a été reçue au mois de septembre 1987 et dans laquelle Mme Harkins disait ce qui suit[1] :
+[TRADUCTION]
+Tu as promis que tu aurais quelque chose à me remettre le 16 septembre - tu as eu deux semaines - et maintenant je devrais attendre jusqu'à la semaine prochaine [...] J'ai besoin que mon avenir soit assuré - il faut que mon avenir soit assuré [...]
+[3] M. Harkins affirme avoir rédigé un accord de séparation en date du 4 décembre 1987. Il convient d'en reproduire certaines parties[2] :
+[TRADUCTION]
+2a) Le mari s'engage à verser à sa femme un montant de 1 300 $ par mois à titre d'allocation d'entretien; les paragraphes 60.1(2) et 56.1(2) de la Loi de l'impôt sur le revenu portant sur les aliments et l'entretien doivent s'appliquer à l'allocation susmentionnée. Cette entente est mise en oeuvre pour des considérations liées au stress et à la santé de l'épouse et cette dernière pourra modifier l'entente à n'importe quel moment et exiger que la somme intégrale de 1 300 $ lui soit versée directement.
+[...]
+Fait à Darmouth (Nouvelle-Écosse), le 4 décembre 1987.
+Le reste de l'accord était rédigé dans un jargon juridique similaire.
+[4] M. Harkins a indiqué qu'il n'avait pas eu d'aide juridique en rédigeant ce document, mais qu'il s'en était remis à ses années d'expérience dans le secteur de la planification financière. Il a également témoigné que l'accord visait uniquement à rassurer Mme Harkins au sujet de sa sécurité et n'avait rien à voir avec les impôts. Pendant le contre-interrogatoire, M. Harkins a admis s'être reporté aux bulletins d'interprétation avant de rédiger le document. Sa position était que Mme Harkins et lui avaient signé le document dans la cuisine, chez Mme Harkins, le 4 décembre 1987. Il n'y avait pas de témoins. M. Harkins a initialement dit qu'il avait emporté une copie de l'accord, mais il a bien vite changé son témoignage pour indiquer qu'il n'avait pas besoin de copie, de sorte qu'il avait laissé l'unique copie chez sa femme. Il a en outre déclaré que Mme Harkins était satisfaite à ce moment-là, soit au mois de décembre 1987.
+[5] Au début de l'année 1988, Mme Harkins a demandé l'aide juridique de M. Douglas Sealey. Elle n'était pas satisfaite de ses services, de sorte qu'elle a par la suite eu recours à Mme Nancy Bateman, au mois de juin 1988. Dans une lettre qu'elle a envoyée à M. John Black, l'avocat de M. Harkins, le 14 juin 1988, Mme Bateman dit ce qui suit[3] :
+[TRADUCTION]
+[...] Je crois comprendre que jusqu'à maintenant l'affaire a été traitée d'une façon informelle, mais Mme Harkins veut maintenant faire avancer les choses au moyen de la signature d'un accord de séparation formel.
+[6] Le 18 juillet 1988, Mme Harkins a directement écrit à M. Harkins pour lui demander ce qui suit[4] :
+[TRADUCTION]
+Ce que j'aimerais, et du moins quant à moi il s'agirait de la voie la plus sensée, c'est que nous nous assoyons ensemble pour rédiger un projet de base d'accord de séparation; cela entraînerait au moins une réduction des lettres, des appels téléphoniques et ainsi de suite qui coûtent si cher [...]
+Quelques mois plus tard, M. John Black, agissant pour le compte de M. Harkins, a envoyé la lettre suivante à Mme Bateman[5] :
+[TRADUCTION]
+Mon client a préparé sa déclaration de revenus de 1987 pour production. Il veut déduire un montant de 5 460 $ qui a été payé au titre de la pension alimentaire pour l'année d'imposition 1987. En fait, il a versé un montant bien supérieur. Il aura besoin d'un accord ou d'une ordonnance pour justifier cette déduction. Pourriez-vous en parler à votre cliente et me faire connaître votre position?
+[7] Au milieu des années 1990, l'Agence des douanes et du revenu du Canada (l' « ADRC » ) a procédé à une vérification des années d'imposition 1992 et 1993 de M. Harkins. Dans une lettre qu'il a envoyée à l'ADRC le 28 septembre 1995, M. Harkins écrit ce qui suit[6] :
+[TRADUCTION]
+[...] Je verse une pension d'au moins 15 000 $ par année à une ex-épouse sans être en mesure d'obtenir un accord de séparation signé (de sorte que la déduction beaucoup moins élevée que j'ai effectuée au titre de la pension alimentaire a été refusée) ...
+En fin de compte, M. Harkins a présenté à l'ADRC un accord de séparation en date du 4 décembre 1987. Il a témoigné que, pendant un certain temps, Mme Harkins avait refusé de le lui remettre. Le 20 avril 2000, le ministre a établi une nouvelle cotisation à l'égard de l'obligation fiscale de M. Harkins pour l'année 1997 en vue d'admettre la déduction de la pension alimentaire. De nouvelles cotisations similaires pour les années 1998 et 1999 ont été établies par le ministre le 22 janvier 2001. Le 27 novembre 2001, de nouvelles cotisations ont été établies en vue de refuser la déduction de la pension alimentaire. L'ADRC aurait reçu l'accord de séparation du 4 décembre 1987 avant d'établir la nouvelle cotisation initiale, au mois d'avril 2000.
+[8] Le comptable de Mme Harkins, M. Boulton, a témoigné avoir préparé les déclarations de revenus de 1997 à 1999 de Mme Harkins. Lorsqu'elles ont fait l'objet d'une nouvelle cotisation, dans laquelle le montant de la pension alimentaire était inclus dans le revenu, M. Boulton a représenté Mme Harkins dans l'appel relatif à cette nouvelle cotisation. M. Boulton a déclaré que Mme Harkins lui avait fait savoir que l'accord qui aurait été signé le 4 décembre 1987 n'avait pas été signé avant les années ici en cause, à savoir les années 1997, 1998 et 1999. Il a été amené à croire que l'accord avait été signé juste avant que M. Harkins ait été obligé de rencontrer les représentants de l'ADRC. Pour le compte de Mme Harkins, il en a appelé avec succès de la nouvelle cotisation, comme en fait foi un consentement au jugement daté du 24 septembre 2001 qui a été déposé devant la Cour canadienne de l'impôt, confirmant que les montants afférents à la pension alimentaire avaient été inclus d'une façon inappropriée dans le revenu de Mme Harkins.
+[9] En ce qui concerne l'appel interjeté par M. Harkins à l'égard de ses années 1997, 1998 et 1999, l'agente des appels, à l'ADRC, a parlé à Mme Harkins dans le cadre de l'enquête qu'elle effectuait en 2002 et en 2003; elle a été amenée à croire que Mme Harkins avait signé l'accord de séparation au plus tôt en 1999 seulement, et uniquement à la demande de son mari, qui menaçait de ne plus lui verser la pension.
+[10] À coup sûr, l'ADRC et M. Boulton croyaient Mme Harkins lorsqu'elle disait que l'accord de séparation du 4 décembre 1987 n'avait été signé que peu de temps avant que M. Harkins eût présenté l'accord à l'ADRC relativement à la cotisation établie pour son année 1997.
+[11] L'intimée a assigné Mme Harkins à comparaître. Mme Harkins ne pouvait pas se présenter devant la Cour à cause de son état de santé, de sorte que son témoignage a été recueilli chez elle. J'ai cru comprendre que Mme Harkins est physiquement et mentalement malade, mais aucun dossier médical détaillé ne m'a été présenté, à part le fait qu'il a été mentionné qu'elle était atteinte de la maladie de Parkinson. Mme Harkins a indiqué qu'elle n'aurait pas témoigné si elle n'avait pas été assignée à comparaître.
+[12] Dans un témoignage chargé d'émotion, Mme Harkins a identifié sa signature dans l'accord de séparation du 4 décembre 1987, mais elle ne se rappelait pas quand et où elle avait signé l'accord; elle ne se rappelait pas non plus avoir dit à quelqu'un qu'elle l'avait signé en 1999 ou en 2000.
+[13] Mme Harkins a également reconnu sa signature sur un document daté du 5 décembre 2003, intitulé[7] :
+[TRADUCTION]
+Objet : Ora P. Harkins c. Sa Majesté la Reine
+No du greffe : 2003-2282(IT)I - Votre dossier : AR-3-65867
+L'intimée était représentée par Martin Hickey, conseiller juridique, Services fiscaux
+Mme Harkins a confirmé qu'elle n'avait pas préparé ce document, mais que c'était son mari qui l'avait fait, qu'elle avait examiné le document rapidement, qu'elle l'avait signé parce que son mari le lui avait demandé étant donné qu'il en avait besoin pour son appel devant la Cour canadienne de l'impôt, et qu'elle n'avait pas examiné l'accord plus attentivement par crainte de représailles. Le document atteste que Mme Harkins a signé l'accord de séparation au mois de décembre 1987, et que Mme Harkins a maintenu l'avoir signé 12 ou 13 ans plus tard uniquement par esprit de vengeance.
+[14] Cette situation est préoccupante; il s'agit d'un cas qui aurait bien pu être visé à l'article 174 lorsque l'appel interjeté par Mme Harkins a d'abord pris naissance. Malheureusement, cela ne s'est pas produit. Il faut trancher cette affaire en se fondant uniquement sur une détermination des faits. Si M. et Mme Harkins ont signé l'accord de séparation du 4 décembre 1987 au mois de décembre 1987, M. Harkins a droit à une déduction au titre de la pension alimentaire qui a été payée en 1997, en 1998 et en 1999. Toutefois, si le document a été signé juste avant que M. Harkins le présente à l'ADRC, ce qui a donné lieu à une nouvelle cotisation en sa faveur au mois d'avril 2000, M. Harkins n'a pas droit à la déduction. Somme toute, l'histoire de M. Harkins ne me convainc pas.
+[15] J'indiquerai d'abord les éléments de preuve qui donnent à entendre qu'il devrait être conclu que l'accord a été signé au mois de décembre 1987 :
+(i) M. Harkins a témoigné avoir signé l'accord le 4 décembre 1987 dans la cuisine de la maison familiale;
+(ii) L'accord lui-même a été rédigé par M. Harkins et il a été [TRADUCTION] « [f]ait le 4 décembre 1987 » ;
+(iii) La pièce A-1, une lettre non datée, donne à entendre que Mme Harkins cherche à en venir à une proposition;
+(iv) Mme Harkins a signé le document du 5 décembre 2003 en reconnaissant que l'accord de séparation avait été signé au mois de décembre 1987.
+[16] Sur ce dernier point, je n'accorde aucun poids à ce document pour ce qui est d'un aveu crédible que Mme Harkins aurait fait, à savoir qu'elle a réellement signé l'accord de séparation au mois de décembre 1987. Au mois de décembre 2003, Mme Harkins a simplement signé, à la demande de son mari, ce qui était mis devant elle, parce que M. Harkins en avait besoin pour son propre appel en matière d'impôt. Mme Harkins n'a pas préparé ce document et elle ne l'a même pas lu attentivement. J'ai eu l'impression, en entendant les explications de Mme Harkins, qu'elle ne voulait tout simplement pas indisposer son mari. À l'instruction, Mme Harkins n'a pas pu confirmer ou nier l'exactitude des déclarations contenues dans le document.
+[17] La preuve qui m'amène à douter du fait que le document a été signé au mois de décembre 1987 est la suivante :
+(i) M. Harkins s'en est remis à sa longue expérience de planificateur financier pour traiter l'accord d'une façon fort légaliste; pourtant, il n'a pas jugé nécessaire de conserver une copie de cet important document. Cela n'est pas cohérent.
+(ii) De même, étant donné ses antécédents financiers, pourquoi M. Harkins n'a-t-il pas cherché à avoir des témoins? Si le document n'a été signé qu'en 1999 ou en 2000, il y aurait eu une fort bonne raison de ne pas avoir de témoin.
+(iii) Dans son témoignage, M. Harkins a d'abord affirmé avoir emporté une copie de l'accord au moment où celui-ci avait été signé, mais il a par la suite affirmé qu'en fait il avait laissé l'unique copie à Mme Harkins. Son témoignage était embrouillé et contradictoire.
+(iv) M. Harkins a affirmé avec véhémence que l'accord de séparation ne visait qu'à rassurer Mme Harkins au sujet de sa sécurité financière et que cela [TRADUCTION] « n'avait rien à voir avec l'impôt » . Pourtant, la disposition applicable de l'accord est complètement axée sur l'impôt. Cela n'est pas cohérent.
+(v) Dans sa lettre du 4 janvier 1989, l'avocat de M. Harkins lui-même indique que son client aura besoin d'un accord afin de pouvoir déduire la pension alimentaire. Cela n'est absolument pas logique s'il existait déjà un accord écrit.
+(vi) Il n'existe pas de documents ou d'éléments de preuve indépendants établis par des tiers confirmant l'accord de séparation ou en faisant mention.
+(vii) M. Harkins a témoigné que sa femme était satisfaite de l'entente au mois de décembre 1987; si c'était le cas, pourquoi a-t-elle demandé des conseils juridiques au début de l'année 1988?
+(viii) Pourquoi l'avocate de Mme Harkins, Nancy Bateman, a-t-elle écrit à l'avocat de M. Harkins au mois de juin 1988 pour dire que sa cliente [TRADUCTION] « v[oulait] maintenant faire avancer les choses au moyen de la signature d'un accord de séparation formel » s'il existait déjà un accord?
+(ix) Pourquoi, au mois de juillet 1988, Mme Harkins propose-t-elle à son mari de s'asseoir avec lui pour préparer un projet de base d'accord de séparation si elle avait en sa possession un accord signé en date du mois de décembre 1987?
+(x) Mme Harkins a raconté la même histoire à son comptable et à un agent de l'ADRC, à un peu plus d'un an d'intervalle, à savoir que l'accord n'avait pas été signé au mois de décembre 1987.
+(xi) M. Harkins a témoigné qu'ils s'étaient séparés au mois de septembre 1986, mais dans l'accord il est fait mention du mois de septembre 1987.
+[18] S'il s'agissait d'un cas dans lequel M. Harkins devait soulever un doute raisonnable dans mon esprit, il aurait peut-être réussi, mais il s'agit d'une affaire civile et il incombe à M. Harkins d'établir selon la prépondérance des probabilités que l'accord a été signé au mois de décembre 1987. La preuve que je viens d'examiner m'amène à croire que l'accord n'a pas été signé au mois de décembre 1987. Je ne retiens pas la version des faits donnée par M. Harkins. Les paiements effectués au titre de la pension alimentaire en 1997, en 1998 et en 1999 n'ont pas été effectués aux termes d'un accord écrit. Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2004.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 5e jour d'août 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI787
+No DU DOSSIER DE LA COUR :
+2003-2282(IT)I
+INTITULÉ :
+Ora P. Harkins et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Halifax (Nouvelle-Écosse)
+DATE DE L'AUDIENCE :
+Le 24 novembre 2004
+MOTIFS DU JUGEMENT :
+L'honorable Campbell J. Miller
+DATE DU JUGEMENT :
+Le 1er décembre 2004
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Matthew J. D. Moir
+Avocate de l'intimée :
+Me Catherine McIntyre
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Matthew J.D. Moir
+Cabinet :
+Weldon McInnis
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1.
+[2] Pièce A-2.
+[3] Pièce R-2.
+[4] Pièce A-3.
+[5] Pièce R-1.
+[6] Pièce A-4.
+[7] Pièce A-5.

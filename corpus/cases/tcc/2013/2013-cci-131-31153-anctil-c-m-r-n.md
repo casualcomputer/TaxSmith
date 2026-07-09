@@ -1,0 +1,147 @@
+---
+title: "Anctil c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31153/index.do"
+last_modified: "2013-04-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 131"
+citation2: ""
+neutral_citation: "2013 CCI 131"
+decision_date: "2013-04-29"
+language: "fr"
+item_id: "31153"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4755
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:09:24.934000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0d0f826c031aa63efd900b067e08882331c871049360bb0f10e478ea85874f40"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Anctil c. M.R.N.
+
+- Citation: 2013 CCI 131
+- Decision date: 2013-04-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4755, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anctil c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-29
+Référence neutre
+2013 CCI 131
+Numéro de dossier
+2012-1462(EI)
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2012-1462(EI)
+ENTRE :
+RÉMY ANCTIL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 23 janvier 2013, à Québec (Québec)
+Devant : L’honorable juge B. Paris
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Simon Vincent
+____________________________________________________________________
+JUGEMENT
+L’appel en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Ottawa, Canada, ce jour d’avril 2013.
+Juge Paris
+Référence : 2013 CCI 131
+Date : 20130429
+Dossier : 2012-1462(EI)
+ENTRE :
+RÉMY ANCTIL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] La Cour est saisie d'un recours dirigé contre la décision du ministre du Revenu national portant que l’appelant n’a pas exercé un emploi assurable au service de la société 9199‑5829 Québec Inc. (le « payeur ») du 19 décembre 2010 au 27 mai 2011, en vertu de la Loi sur l’assurance‑emploi (la « Loi »).
+[2] Le ministre s'est dit d'avis que l’appelant et le payeur avaient conclu une entente visant à permettre à l’appelant d’être admissible à des prestations d’assurance‑emploi, en créant pour lui un emploi dans le bar-restaurant exploité par le payeur. Le ministre a en outre conclu que le relevé d’emploi remis par le payeur à l’appelant ne reflétait pas de manière exacte le travail accompli par l’appelant et que la rémunération accordée était sans rapport avec le travail accompli. Le ministre a finalement conclu que le contrat véritable entre les parties ne constituait pas un contrat de louage de service parce qu’il n’y avait aucun « lien de subordination ».
+[3] L’unique actionnaire du payeur, Sylvie Morneau, est l’ex-conjointe de fait de l’appelant. Le payeur a acheté le bar-restaurant vers 2008, et Mme Morneau l’a exploité pour le compte du payeur. Mme Morneau prétend que l’entreprise connaissait des difficultés financières qui résultaient, en partie, de vols. Je suppose qu’elle faisait référence à des vols commis par des employés.
+[4] À l’été 2010, l’appelant a été mis à pied par Bombardier. Il a déclaré que Bombardier avait procédé, à maintes reprises, à des mises à pied et qu’il se souvenait avoir été mis à pied et réembauché par Bombardier plusieurs fois les années précédentes. Quand il était mis à pied, il recevait des prestations d’assurance‑emploi.
+[5] En décembre 2010, alors qu’il était sans emploi, il a prêté 25 000 $ à Mme Morneau pour faire un placement dans le payeur. Il soutient que Mme Morneau l’avait appelé pour lui demander son aide à quelques reprises et qu’il était finalement revenu sur sa décision après avoir appris qu’il était déjà indirectement responsable d’au moins une partie des dettes du payeur. Son fils, qui est également celui de Mme Morneau, avait garanti des prêts contractés par le payeur, tandis que l’appelant avait garanti des prêts contractés par son fils. L’appelant soutient que, si son fils avait été appelé à honorer ses garanties à l’égard des dettes du payeur, l’appelant aurait, quant à lui, été alors obligé d’honorer sa garantie à l’égard du prêt de son fils.
+[6] Mme Morneau nie avoir demandé une aide financière à l’appelant et soutient que c’est, en fait, celui-ci qui lui a offert son aide. Selon elle, il lui aurait proposé de lui prêter de l’argent en échange d’un emploi, ce qui lui permettrait d’avoir droit à des prestations d’assurance‑emploi.
+[7] L’appelant a rédigé un contrat stipulant qu’il prêterait 25 000 $ à Mme Morneau, qu’ils se partageraient en parts égales l’exploitation de l’entreprise pour le compte du payeur et qu’il exercerait les fonctions de gérant du bar pour un salaire hebdomadaire de 480 $. L’entente comportait aussi la condition qu’il deviendrait un créancier privilégié de Mme Morneau. L’entente était datée du 19 décembre 2010. Selon l’appelant, Mme Morneau voulait qu’il gère le bar parce qu’elle était surchargée de travail et qu’il semblait que les ventes de bière n’étaient pas payées. L’appelant a accepté parce qu’il voulait veiller à la rentabilité de l’entreprise et s’assurer que Mme Morneau serait capable de rembourser le prêt. Il ne se souviendrait pas d’avoir discuté avec elle de son admissibilité à des prestations d’assurance‑emploi.
+[8] L’appelant est entré au service du payeur le 19 décembre 2010. Il ressort de ses bordereaux de paye qu’il a travaillé 32 heures toutes les deux semaines jusqu’à la mi-mars 2011. Selon ses quatre bordereaux de paye suivants, il a travaillé 50 heures toutes les deux semaines. Selon son dernier bordereau de paye, il a travaillé 80 heures pendant la dernière période de deux semaines. Il est établi que son taux de rémunération était de 15 $ l’heure. L’appelant a donc été payé 240 $ par semaine jusqu’à la mi-mars, puis 375 $ par semaine, jusqu’à sa dernière période de paye, au cours de laquelle il a été payé 600 $ par semaine. Mme Morneau soutient que, malgré l’entente écrite selon laquelle l’appelant recevrait un salaire hebdomadaire de 480 $, l’entreprise ne pouvait assumer ce montant et lui payait ce qu’elle pouvait.
+[9] L’appelant a témoigné qu’il travaillait au moins deux heures par jour, sept jours par semaine, car le bar était ouvert tous les jours. En plus d'inventorier les stocks de bière, il exécutait des travaux d’entretien dans l’établissement. Il soutient avoir fait de nombreuses heures supplémentaires en décembre, en janvier et en février, heures pour lesquelles il n’a été payé que par la suite, lorsque le payeur a été en mesure de le faire, ce qui expliquait l’augmentation de ses heures dans ses bordereaux de paye à partir de la mi-mars.
+[10] Mme Morneau a affirmé que l’appelant travaillait entre 30 minutes et une heure par jour, mais qu’il était souvent absent. Lorsqu’il était absent, une autre personne inventoriait les stocks de bière. Mme Morneau a admis que l’appelant avait travaillé deux jours entiers pour nettoyer le sous-sol de l’établissement à la suite d’un reflux des eaux d’égout. Elle n’a pas ajusté le salaire de l’appelant pour ce travail supplémentaire ce mois-là. Mme Morneau a allégué que l’appelant n’était pas satisfait d’être payé 480 $ toutes les deux semaines et qu’il demandait davantage. Elle a affirmé avoir accepté de lui payer 50 heures toutes les deux semaines, même s’il ne faisait pas plus d’heures supplémentaires qu’auparavant, parce qu’il avait menacé de fermer l’entreprise si elle ne le faisait pas. Enfin, elle a soutenu qu’elle en avait eu assez de ses menaces envers elle‑même et envers les autres employés et qu’elle l’avait congédié. Elle a ajouté 30 heures supplémentaires à la paye de l’appelant dans le dernier bordereau de celui‑ci, afin qu’il puisse avoir droit à des prestations d’assurance‑emploi, ce qui était le but de l’appelant, selon ce qu’elle croyait.
+[11] L’appelant allègue qu’il a été congédié parce que Mme Morneau voulait que son petit ami gère le bar plutôt que lui. Il nie avoir menacé de fermer l’entreprise. Cependant, après son congédiement, il a obtenu une « saisie avant jugement » à l’encontre de Mme Morneau relativement aux sommes qu’elle lui devait. Le 25 août 2011, à sa demande, l’huissier a procédé à la saisie du local du restaurant. Peu après, Mme Morneau a déclaré faillite.
+La thèse de l’appelant
+[12] L’appelant soutient qu’il a accompli tout le travail pour lequel il a été payé et qu’il n’a pas conclu son contrat de travail dans le but de recevoir des prestations d’assurance‑emploi. Il n’a pas débattu la thèse de l’intimé selon laquelle aucun contrat de louage de service n’existait entre lui et le payeur, étant donné qu’aucun lien de subordination n’existait entre eux.
+La thèse de l’intimé
+[13] L’intimé soutient que tout contrat ayant pu exister entre l’appelant et Mme Morneau était complètement vicié par leurs intérêts personnels et qu’il n’y a pas lieu d’en tenir compte. Subsidiairement, l’intimé soutient que le contrat n’était pas un contrat de travail parce qu’il n’y avait pas de lien de subordination entre l’appelant et le payeur. Il ressortait des éléments de preuve que l’appelant travaillait de concert avec Mme Morneau, davantage à titre d’associé qu’à titre d’employé. Cela ressort des conditions de l’entente de prêt, selon lesquelles l’appelant et Mme Morneau se partageraient à parts égales l’exploitation de l’entreprise du payeur, et du fait que personne ne comptabilisait les heures de l’appelant. En l’absence d’un lien de subordination, il n’y a pas de contrat de travail ni aucun emploi assurable au sens de l’alinéa 5(1)a) de la Loi.
+Discussion
+[14] Je dirai tout d’abord que ni l’appelant, ni Mme Morneau ne m’ont paru très crédibles. Chacun semble éprouver beaucoup d’animosité envers l’autre et, dans de telles circonstances, il est difficile de décider si le témoignage qu’ils ont rendu reflète de manière exacte leur relation de travail, telle qu’elle existait avant le congédiement de l’appelant et avant la faillite de Mme Morneau.
+[15] Il m’est, par exemple, difficile de prêter foi à la déclaration de Mme Morneau selon laquelle l’appelant lui aurait, à maintes reprises, offert de lui prêter de l’argent avant que, finalement, elle accepte. Mme Morneau a admis qu’elle avait à cette époque des problèmes financiers, et il semble plus probable qu’elle recherchait activement une aide financière. Même si l’appelant lui avait fait de telles offres, il est difficilement concevable qu’elle aurait commencé par les refuser. Elle n’a en tout cas fait valoir aucune raison d’avoir agi ainsi. Il me semble également invraisemblable qu’elle ne se soit pas souvenue des conditions de l’entente de prêt conclue avec l’appelant, étant donné le montant important qu’elle lui avait emprunté.
+[16] Enfin, la déclaration de Mme Morneau selon laquelle l’appelant ne voulait travailler que le temps minimum nécessaire pour recevoir des prestations d’assurance‑emploi me semble être contredite par le fait qu’il avait accumulé suffisamment d’heures de travail au moins deux semaines avant qu’elle le congédie. S’il souhaitait seulement recevoir des prestations, pourquoi aurait-il voulu encore rester en fonction après ce moment‑là?
+[17] En ce qui concerne le témoignage de l’appelant, je juge invraisemblable sa déclaration selon laquelle Mme Morneau lui avait d’abord offert l’emploi. Si tel avait été le cas, il n’aurait pas été nécessaire qu’il l’inclue dans l’entente de prêt qu’il a rédigée. Je crois que l’appelant a subordonné le prêt à la condition d’obtenir l’emploi, mais je conclus qu’il l’a fait afin de surveiller les opérations du payeur dans le but de réduire le vol des employés. Il jugeait cela nécessaire afin de s’assurer que le payeur fasse des profits et le rembourse. Cela expliquerait pourquoi il voulait continuer à travailler même après avoir obtenu suffisamment d’heures pour recevoir des prestations d’assurance‑emploi.
+[18] Je ne prête pas foi non plus au témoignage de l’appelant selon lequel l’augmentation de ses heures dans ses bordereaux de paye, qui sont passées à 50 heures pour la période de deux semaines après la mi-mars, et à 80 heures pour ses deux dernières semaines, visait à payer les heures impayées pour le travail qu’il avait effectuées avant la mi‑mars. L’appelant a fait référence à des notes manuscrites sur des copies de ses bordereaux de paye, qui, selon lui, indiquaient le total des heures payées et impayées qu’il avait effectuées (payées ainsi qu’impayées) pendant les différentes périodes. Ces notes semblent récentes, car elles ne figurent pas sur les copies des bordereaux qu’il a présentées au ministre pour la détermination de l’assurabilité de son emploi (voir la pièce I‑1, onglet 11). Le premier problème que présente cet élément de preuve est que le total des heures effectuées écrit à la main relativement à la période terminée le 19 février 2011 est de 15, alors qu’il a été payé pour 32 heures. Cela contredit le témoignage de l’appelant selon lequel les notes indiquent des heures de travail impayées supplémentaires. De plus, la différence entre le total des heures écrites à la main et les heures payées pour les deux autres périodes pendant lesquelles l’appelant soutient avoir effectué des heures supplémentaires est de 36 heures, alors que l’augmentation de ses heures payées après la mi-mars a fait en sorte qu’il a été payé pour 120 heures additionnelles jusqu’au jour de son congédiement.
+[19] Je ne retiens pas non plus le témoignage de l’appelant selon lequel Mme Morneau consignait ses heures. Elle a expressément nié qu’elle le faisait et il est peu probable qu’elle l’ait fait. L’appelant et Mme Morneau ont tous les deux déclaré que les heures de travail de l’appelant variaient d’un jour à l’autre et, si ses heures avaient été consignées, on devrait constater une fluctuation du nombre de ses heures hebdomadaires, dans ses bordereaux de paye. Il n’en est rien. De plus, comme l’appelant avait droit, en vertu du contrat de prêt, à un salaire fixe, il n’aurait pas été nécessaire de consigner ses heures de travail réelles. Enfin, le fardeau incombait à l’appelant de réfuter l’hypothèse formulée par le ministre, au paragraphe 6(1) de la réponse à l’avis d’appel, selon laquelle ses heures n’avaient pas été consignées et, à mon avis, il ne l’a pas fait.
+[20] Comme je l’ai dit plus haut, j’estime que l’entente entre Mme Morneau et l’appelant n’a pas été conclue principalement dans le but de permettre à l’appelant de recevoir des prestations d’assurance‑emploi. Cependant, il reste à déterminer si l’entente constituait un contrat de travail selon le Code civil. Voir à ce sujet la décision 9041‑6868 Québec Inc. c. M.R.N.[1] :
+[10] L’expression « contrat de louage de services » que l’on retrouve dans la Loi sur l’assurance-emploi depuis ses origines et qui reprenait l’expression contenue à l’article 1667 du Code civil du Bas-Canada, est désuète. Le Code civil du Québec, en effet, utilise désormais l’expression « contrat de travail », à l’article 2085, qu’il distingue du « contrat d’entreprise ou de service », à l’article 2098.
+[11] Trois éléments constitutifs caractérisent le « contrat de travail » en droit québécois : une prestation de travail, une rémunération et un lien de subordination. C’est ce dernier élément qui est à la source de la plupart des litiges. Pour le définir de façon globale, je m’en remets à ces propos de Robert P. Gagnon, dans Le droit du travail du Québec, Éditions Yvon Blais, 2003, 5e édition, aux pages 66 et 67 :
+90- Facteur distinctif - L’élément de qualification du contrat de travail le plus significatif est celui de la subordination du salarié à la personne pour laquelle il travaille. C’est cet élément qui permet de distinguer le contrat de travail d’autres contrats à titre onéreux qui impliquent également une prestation de travail au bénéfice d’une autre personne, moyennant un prix, comme le contrat d’entreprise ou de service régi par les articles 2098 et suivants C.c.Q. Ainsi, alors que l’entrepreneur ou le prestataire de services conserve, selon l’article 2099 C.c.Q., « le libre choix des moyens d’exécution du contrat » et qu’il n’existe entre lui et son client « aucun lien de subordination quant à son exécution », il est caractéristique du contrat de travail, sous réserve de ses termes, que le salarié exécute personnellement le travail convenu sous la direction de l’employeur et dans le cadre établi par ce dernier.
+91 - Appréciation factuelle - La subordination se vérifie dans les faits. À cet égard, la jurisprudence s’est toujours refusée à retenir la qualification donnée au contrat par les parties. . . .
+92 - Notion - Historiquement, le droit civil a d’abord élaboré une notion de subordination juridique dite stricte ou classique qui a servi de critère d’application du principe de la responsabilité civile du commettant pour le dommage causé par son préposé dans l’exécution de ses fonctions (art. 1054 C.c.B.-C.; art 1463 C.c.Q.). Cette subordination juridique classique était caractérisée par le contrôle immédiat exercé par l’employeur sur l’exécution du travail de l’employé quant à sa nature et à ses modalités. Elle s’est progressivement assouplie pour donner naissance à la notion de subordination juridique au sens large. La diversification et la spécialisation des occupations et des techniques de travail ont, en effet, rendu souvent irréaliste que l’employeur soit en mesure de dicter ou même de surveiller de façon immédiate l’exécution du travail. On en est ainsi venu à assimiler la subordination à la faculté, laissée à celui qu’on reconnaîtra alors comme l’employeur, de déterminer le travail à exécuter, d’encadrer cette exécution et de la contrôler. En renversant la perspective, le salarié sera celui qui accepte de s’intégrer dans le cadre de fonctionnement d’une entreprise pour la faire bénéficier de son travail. En pratique, on recherchera la présence d’un certain nombre d’indices d’encadrement, d’ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d’activité, contrôle de la quantité ou de la qualité de la prestation, etc. Le travail à domicile n’exclut pas une telle intégration à l’entreprise. (mon soulignement).
+[12] Il est intéressant de noter qu’en droit civil québécois, la définition même du contrat de travail met l’accent sur « la direction ou le contrôle » (art. 2085 c.c.c.), ce qui fait du contrôle l’objet même de l’exercice et donc beaucoup plus qu’un simple indice d’encadrement, ainsi que le note le juge Archambault à la page 2: 72 de l’ouvrage précité.
+[21] En l’espèce, je conclus qu’il n’existait aucun lien de subordination entre le payeur et l’appelant relativement au travail accompli. Rien ne démontre que Mme Morneau, ou toute autre personne pour le compte du payeur, a exercé un contrôle ou une supervision quelconque relativement aux heures de travail de l’appelant ou à l’exécution de ses tâches. Il semble que l’appelant inventoriait les stocks de bière et exécutait toute autre tâche qu’il estimait nécessaire, sans directive de qui que ce soit. J’en déduis que Mme Morneau ne traitait pas l’appelant comme l'employé du payeur et qu’elle ne supervisait pas son travail, parce qu’elle était tenue, aux termes du contrat de prêt, de lui permettre de gérer le bar et parce qu’elle s’estimait redevable envers lui du prêt. Le fait que son salaire était sans rapport avec les heures de travail réelles tend également à confirmer qu’il n’y avait aucun lien de subordination entre lui et le payeur. Enfin, l’entente de prêt stipulait que l’appelant et Mme Morneau se partageraient en parts égales l’exploitation de l’entreprise du payeur, l’appelant gérant le bar pendant que Mme Morneau exploiterait le restaurant, ce qui, selon moi, traduit une relation d’égal à égal plutôt qu’une relation de subordination.
+[22] En l’absence d’un élément de subordination, le contrat en cause n’est pas un « contrat de travail » et, par conséquent, le travail accompli par l’appelant pour Mme Morneau n’est pas assimilable à un emploi assurable au sens de la Loi sur l’assurance‑emploi.
+[23] Par les motifs qui précèdent, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 29e jour d’avril 2013.
+« B.Paris »
+Juge Paris
+RÉFÉRENCE : 2013 CCI 131
+Nº DU DOSSIER DE LA COUR : 2012-1462(EI)
+INTITULÉ DE LA CAUSE : RÉMY ANCTIL ET M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : Le 23 janvier 2013
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 29 avril 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Simon Vincent
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2005 CAF 334.

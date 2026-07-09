@@ -1,0 +1,191 @@
+---
+title: "Taxpayer Relief Provisions Cancel or waive penalties or interest"
+gallery_title: "Taxpayer Relief Provisions – Cancel or waive penalties or interest"
+source: https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/individuals-video-gallery/transcript-taxpayer-relief-provisions-cancel-waive-penalties-interest.html
+video_source: /content/dam/cra-arc/migration/cra-arc/vc/ndvdls/txpyrrlf-eng.webm
+last_modified: 2018-01-25
+---
+
+# Taxpayer Relief Provisions Cancel or waive penalties or interest
+
+## Transcript
+Melanie: Welcome to the Canada Revenue Agency's Taxpayer Relief provisions webcast.
+This webcast is a recording of a webinar that occurred in March 2012.
+This session is no longer live, so if you would like to learn more about taxpayer relief provisions, you can go to: www.cra.gc.ca/taxpayerrelief.
+Thank you very much and we hope you enjoy this webcast.
+Melanie: Hello everyone. I’m Melanie, and today we’ll be talking about interest and penalty relief under the taxpayer relief provisions of various tax legislation. To help us understand this topic and answer some of our questions, we’ve invited Eric from the Canada Revenue Agency’s Taxpayer Relief Division. Welcome, Eric.
+Eric: Thanks Melanie, it’s nice to be here.
+Melanie: This webinar will be presented in three separate parts. In the first part, we’ll give you a general overview of interest and penalty relief that may be available to taxpayers. We’ll discuss the types of situations that may qualify for interest or penalty relief, and of the process a taxpayer has to follow when applying for relief. In the second part, we’ll elaborate a bit more on financial hardship and the inability to pay. And the third part will focus on extraordinary circumstances. So, let’s get started… over to you Eric!
+Eric: Okay. Let me start with the general overview of the interest and penalty relief available to taxpayers by virtue of the law.
+Since the 1990s, the taxpayer relief provisions administered by the Canada Revenue Agency or the CRA for short, have helped taxpayers who are unable to meet their tax obligations because of circumstances beyond their control. Under these provisions, the CRA is authorized to cancel or waive interest or penalties when a taxpayer cannot meet their tax obligations because of extraordinary circumstances, actions of the CRA, or financial hardship or inability to pay.
+Melanie: Thanks Eric. Now, I have a question that pertains to the very beginning. Who, exactly, is the taxpayer that can request relief? I would imagine a taxpayer is more than an individual?
+Eric: Yes. A taxpayer can be an individual, an employer or a payer, a corporation, partnership, organization, trust, estate, or a person registered for the goods and services tax or the harmonized sale tax.
+Melanie: I didn’t realize a taxpayer could be all those things. Thanks for the clarification.
+Now, what’s the difference between cancelling and waiving interest or penalties?
+Eric: Well, the CRA may "cancel interest or penalties" that have been assessed or charged to the taxpayer for which relief is being requested, in whole or in part.
+When we say "waive interest or penalty", we are referring to interest or penalty amounts that have not yet been assessed or charged to the taxpayer for which relief could be granted, in whole or in part, by the CRA.
+I hope that makes things clearer.
+Melanie: It does. Thank you.
+Now Eric, you mentioned earlier that taxpayers may be granted relief from interest or penalties as a result of extraordinary circumstances beyond their control. Could you give us an idea of what would be considered an extraordinary circumstance?
+Eric: Sure. An extraordinary circumstance is a situation that might prevent a taxpayer from making a payment when due, filing on time, or complying with a tax obligation; for example, a natural or man-made disaster, like a flood or a fire. It can also be a civil disturbance, or a disruption in services like a postal strike. It could be a serious illness or accident that the taxpayer has suffered, or serious emotional or mental distress, such as a death in the taxpayer’s immediate family. I’ll expand on this a bit more in the third part of this webinar.
+Melanie: So it sounds like there can be many extraordinary circumstances that might prevent a taxpayer from making a payment when due, filing on time, or complying with a tax obligation.
+But Eric, what did you mean when you said that taxpayers could have interest and penalties relieved if they resulted from actions of the CRA? What kind of actions of the CRA’s would fall under that category?
+Eric: Well, for example, the CRA might have encountered delays that caused a taxpayer to not be informed quickly enough about an amount that they owed. On the other hand, it could be that the CRA made errors that led the taxpayer to make a payment based on incorrect information. So, if the CRA provides incorrect information, makes errors in processing a return, causes delays in providing information, or causes undue delays in resolving an objection or appeal or completing an audit, the taxpayer might not have to pay the interest or penalties that would apply otherwise.
+Melanie: That’s very informative. Thanks Eric. Going back to what you said earlier, could you tell us more about what constitutes inability to pay, or financial hardship?
+Eric: Of course, Melanie. There are circumstances when the CRA may consider waiving or cancelling all or part of the interest owing. Some of these circumstances include:
+- one, when a collection action has been suspended because the taxpayer lost his or her employment and is experiencing financial hardship;
+- two, when a taxpayer is unable to conclude a payment arrangement because the interest charges represent a significant portion of the outstanding debt;
+- three, when paying the accumulated interest would cause a prolonged inability to provide basic necessities of life such as food, clothing, and shelter.
+If you’re interested in learning more about financial hardship and inability to pay, please stay with us until the second part of this webinar.
+Melanie: Okay, thank you. Now, I have another question for you. Is there a time limit for requesting relief from interest or penalties?
+Eric: Yes, a taxpayer may request relief in a 10-year limitation period. However, this 10-year time limit is applied differently for penalties than it is for interest relief.
+For requests to cancel or waive penalties, the CRA can only grant relief in respect of a penalty that applies to any tax year or reporting period that ended within the last 10 calendar years before the year that the taxpayer makes the request. So let’s say you asked for penalty relief in 2011. Any relief granted would apply only to penalties that originated in a tax year or reporting period that ended in 2001 and later years.
+On the other hand, for requests to cancel or waive interest, the CRA can only grant relief in respect of interest charges that accumulated within the last 10 calendar years before the year in which the taxpayer makes a request for relief. So, for example, if you asked for interest relief in 2012 on debt that originated in the 2000 tax year or reporting period, relief could only be granted for the interest that accumulated from January 1, 2002 and onward. The interest that accumulated before this date cannot be considered.
+The 10-year limitation period rolls forward every January the first.
+Melanie: It's very interesting Eric, thank you. Could you tell us under which acts the 10-year limit applies?
+Eric: Great question. The 10-year limit applies to requests for interest and penalty relief made under the Income Tax Act, the Excise Tax Act, the Air Travellers Security Charge Act, the Softwood Lumber Products Export Charge Act, 2006, and the Excise Act, 2001.
+Melanie: So if I’m a taxpayer who wants relief from interest and penalties, what should I do? How do I go about submitting a request?
+Eric First, you or your authorized representative needs to send a written request by mail to an intake centre in your region. The list of intake centres can be found on the CRA’s website at www.cra.gc.ca.
+The best way to make your request is to fill out Form RC4288, Request for Taxpayer Relief. This form outlines the instructions and gives examples of supporting documents that you should also include with your request. I want to mention that the form is not mandatory; you can still make a request for relief without it.
+Melanie: Where can I find one of these forms?
+Eric: To get a copy of Form RC4288, go to the CRA’s website at www.cra.gc.ca, and look under Forms and Publications or call 1-800-959-2221.
+Melanie: Eric, you said that form RC4288 is not mandatory. I assume that if I don’t use it, I would have to send a request in writing, and that I would be required to include important information. Can you elaborate on this and maybe give me some examples of what would be included with the request?
+Eric: You are right, Melanie. It’s very important that you provide the CRA with basic information such as your name, address, telephone number, and any other identification number that the CRA may have assigned to you, such as your social insurance number, an account number, or a business number.
+Also provide all the facts and reasons for why you should be granted relief and specify which tax years or fiscal periods are involved. For example, explain how the circumstances affected your ability to meet your tax obligations, and include any relevant documents such as a death certificate, doctor’s statements, insurance statements, or supporting details of incorrect information the CRA gave you.
+If you’re making a request based on financial hardship or inability to pay, you must include a financial statement that clearly sets out your income, expenses, assets, and liabilities. Include statements that validate the figures that you’ve given; for example, credit card statements, creditors’ statements, or pay slips. Form RC4288 gives more information on the type of documents that you need.
+Melanie: Once I’ve submitted all the pertinent information, what happens next?
+Eric: Well, a CRA officer reviews all the information you or your representative provided, and reviews the information in the CRA records or systems. The officer then prepares a decision report which includes a recommendation to grant relief or not.
+Melanie: Is the CRA officer the only person in charge of deciding whether the taxpayer is granted relief or not?
+Eric: No. Once the CRA officer makes a recommendation about whether you should be entitled to relief, he or she sends the recommendation to another official who has the authority to make a final decision.
+Melanie: What does this other official do?
+Eric The other official reviews the report that the CRA officer has prepared, then reviews the recommendation and decides whether to grant relief. The CRA then sends you a letter to inform you of the decision.
+Melanie: Okay, alright, thank you. I assume that the CRA is using some criteria or factors when reviewing this request for relief?
+Eric: You’re right, Melanie. When the CRA reviews your request for relief, the officer will consider the reasons you asked for relief. There are also four other factors the CRA considers before arriving at a decision:
+- number one, your history of compliance with your tax obligations;
+- two, whether you knowingly allowed an arrears balance to exist upon which arrears interest had accrued;
+- three, whether you took a reasonable amount of care in conducting your tax affairs, or whether you were negligent or careless; and
+- four, whether you acted quickly to correct any delay or omission.
+Melanie: What happens if it was my financial advisor or a third party who caused my interest and penalties?
+Eric: When you authorize a third party to act on your behalf, you are still considered to be responsible for errors or delays in tax-related matters, even if another person made them. However, there may be exceptional situations when the CRA might provide relief of a third-party errors or delays. For example, if an extraordinary circumstance beyond the control of your representative or of actions of the CRA prevented you from meeting your tax obligations.
+Melanie: Now, what happens if I disagree with the CRA’s decision?
+Eric: If you disagree with the CRA decision, you can ask the CRA to conduct a second administrative review of your request. If you go ahead with a second review, you’ll need to explain why you disagree with the CRA’s decision, and you’ll have to provide any relevant additional documents, facts, or correspondence to support your request.
+Melanie: So how does it work? How can I request a second administrative review?
+Eric: To ask for a second administrative review, send a written request to an intake centre in your region. Again, we recommend that you use Form RC4288, Request for Taxpayer Relief, to make your request. You still need all the information we discussed previously and you have to indicate that you are requesting a second review. On the Form, you can check a box for a second review, and an area is included where you have to explain why you disagree with the previous decision. Also include any additional documents to support your request for a second review.
+Melanie: Will the same CRA official be reviewing my case again?
+Eric: No. A second review is never conducted by the CRA official or officials who were involved in the first review and decision-making process. This keeps the process objective and transparent. The CRA may still uphold its previous decision following a second review of your request for relief. If you disagree with the decision, you may apply to the Federal Court for a judicial review of the decision. If you choose to do this, you have to file an application for judicial review within 30 days of the date that you received the CRA’s second decision.
+Melanie: How do I apply for a judicial review?
+Eric: You would send a completed Form 301, Notice of Application, with the appropriate filing fee, to the registrar of the Federal Court.
+Melanie: So, if I understand this correctly, there’s a chance that the Federal Court could reverse the CRA’s original decision?
+Eric: Actually, if the Court finds that the CRA didn’t properly exercise its discretion, the Federal Court can refer the decision back to the CRA to be reconsidered by another CRA official.
+Melanie: Okay, thank you. Well, it was very nice to have you with us for this general overview of interest and penalty relief. We certainly appreciate all of the information you provided.
+Eric: You are very welcome, Melanie.
+Melanie: This now concludes the first part of this webinar. We are now ready to continue with the second part which relates to financial hardship and inability to pay. I’ll let Eric introduce this matter.
+Eric: Thanks, Melanie. Taxpayer relief provisions give the CRA the ability to help taxpayers by providing relief from penalties or interest when they are facing financial hardship.
+Melanie: Eric, could you explain what you mean by financial hardship?
+Eric Sure. For an individual, financial hardship refers to financial suffering or lack of what is needed for basic necessities of life such as food, clothing, shelter, and reasonable non-essentials.
+Melanie: Are there other types of financial hardship?
+Eric: Yes. Corporations can also face financial hardship. In their case, they would be experiencing extreme financial difficulty, and the payment of penalties and interests could jeopardize the continuity of their operations, the jobs of the employees, and the welfare of the community as a whole.
+Melanie: Eric, in what types of circumstances would the CRA consider cancelling or waiving interest or penalties?
+Eric: When it’s been confirmed that a taxpayer is unable to pay all amounts owing, the CRA may consider waiving or cancelling all or part of the unpaid interest. I’ll give you a few examples of when this could occur.
+- number one, when a collection action has been suspended because an individual is unable to pay following a loss of employment;
+- two, when a taxpayer is unable to conclude a reasonable payment arrangement because the interest charges represent a significant portion of the outstanding debt;
+- and three, when paying the accumulated interest would cause a prolonged inability to provide basic necessities such as food, clothing, medical help, or shelter.
+Melanie: Eric, correct me if I’m wrong, but you were mainly talking about cancelling or waiving interest. What about cancelling or waiving penalties?
+Eric: Good question, Melanie. You’re right. The CRA wouldn’t generally consider waiving or cancelling a penalty based on an inability to pay or on financial hardship. However, there can be exceptional situations that prevent taxpayers from making their payments and that might allow us to cancel all or part of the penalties. An example would be if a business is experiencing extreme financial difficulty, and enforcing payment of the penalties could jeopardize the business operations, the jobs of its employees, and the welfare of the community as a whole.
+Melanie: Okay then, are there different degrees or types of inability to pay that the CRA considers?
+Eric: Yes. There are actually three types of inability to pay that are taken into account: temporary, marginal, and permanent.
+Melanie: Could you tell us what temporary inability means?
+Eric: A temporary inability to pay is usually caused by circumstances beyond the taxpayer’s control, such as an unexpected loss of income or employment, and would lead the taxpayer to experience financial hardship. As the term suggests, a situation occurs at a point in time and is not expected to last forever.
+Melanie: What type of situation would typically involve cases like this?
+Eric: Cases where collection action has been put on hold or postponed due to a legitimate but temporary inability to pay could qualify for this type of relief. In circumstances like these, the CRA could consider cancelling interest charges for the period that the taxpayer is experiencing financial hardship. However, once the taxpayer’s financial situation improves to a point where he or she can arrange to resolve the tax owing, the CRA may resume charging interest.
+Melanie: So, what does marginal inability to pay mean?
+Eric: Marginal inability to pay, or what is also known as a long-term payment arrangement, means the taxpayer has made or agrees to make a genuine effort to pay the balance but the interest charges absorb a significant portion of each payment.
+The CRA could consider cancelling the interest charges in whole or in part from the time the taxpayer begins to make payments until the debt is paid in full, if the payments are made on time and that they reflect the taxpayer’s ability to pay.
+Melanie: Very interesting, Eric. How long could that type of situation last?
+Eric: Well, it depends. Sometimes payment arrangements to eliminate outstanding debt could last several years. However, the length of an arrangement depends on the taxpayer’s ability to pay, which is influenced by factors such as health, age, job prospects, and the ability to generate future income.
+Melanie: That’s really helpful to know. And what about, now, the permanent inability to pay?
+Eric: Permanent inability to pay means that the taxpayer is unable to pay the debt now and in the foreseeable future. For example, this could be a pensioner who is on a low fixed income, has no assets and has no ability to pay the debts or someone who is permanently disabled with no ability to work in the future. A permanent inability to pay would be in situations where there is little or no chance that the taxpayer’s financial situation will improve.
+Melanie: Okay, then how does the CRA determine a taxpayer’s ability to pay and what it is exactly?
+Eric: Ability to pay is a taxpayer’s current and future capacity to make payments, including the taxpayer’s ability to borrow funds to do so. To establish a taxpayer’s ability to pay, the CRA has to allow for the basic necessities of life, such as food, shelter, and medical expenses; including reasonable discretionary expenses, such as recreation and tuition fees; and also considers the taxpayer’s other tax obligations, for example municipal or provincial taxes. In addition to that, the CRA considers whether the taxpayer can borrow against significant assets, sell assets to raise funds to make payments with, and avoid repayment terms that would cause the taxpayer undue hardship.
+Melanie: Okay, if a taxpayer demonstrates financial hardship or an inability to pay, is that enough to grant relief?
+Eric: Not quite. Once the CRA is satisfied of the taxpayer’s financial hardship or inability to pay, the CRA would only grant relief:
+- one, in exceptional cases where taxpayers are experiencing legitimate financial hardship due to circumstances beyond their control; or
+- two, where paying the interest charges over time would cause an additional financial burden resulting in hardship because the taxpayer’s foreseeable financial capacity is not likely to improve.
+Melanie: So then Eric, how would I submit a request for relief if I were experiencing financial hardship or if I were unable to pay?
+Eric: As we discussed in the first part of this webinar, you or your representative should submit a written request by mail to an intake centre in your region. The CRA recommends that you fill out Form RC4288, Request for Taxpayer Relief, to make your request. This form includes instructions and gives examples of supporting documents to include with the request as well. Again, the form is not mandatory, but you do have to submit a request in writing.
+Melanie: What kind of information should I include with a request for relief?
+Eric: If you make a request for relief, it is very important that you provide the CRA with all the facts and reasons for why you should be granted relief. For example, explain how the circumstances affected your ability to meet your tax obligations. Include a financial statement that outlines, clearly and in detail, your income, expenses, assets, and liabilities. You must provide statements to support the figures provided. These can include credit card statements, creditors’ statements, or pay slips. Again, Form RC4288, Request for Taxpayer Relief, expands on the type of documents required.
+Melanie: Eric, in the first part of this webinar, we discussed the process of granting or denying relief. For the benefit of those just joining us, would you mind answering that question again?
+Eric: I would be pleased to, Melanie. A CRA officer reviews all the information that you or your representative provided, and review the information in the CRA records or systems. The officer then prepares a decision report, which includes a recommendation to grant relief or not.
+Once the CRA officer makes a recommendation about whether you should be entitled to relief, they send the recommendation to another official who has the authority to make a final decision.
+The official reviews the report that the CRA officer has prepared, then reviews the recommendation and decides whether to grant relief. The CRA then sends you a letter to inform you of the decision.
+Melanie How does the CRA decide whether or not to grant relief?
+Eric: The CRA first considers the reasons for your request for relief. It also considers the following four factors when reviewing your file:
+- one, your history of compliance with your tax obligations;
+- two, whether you knowingly allowed a balance to exist that arrears interest has accumulated on;
+- three, whether you took a reasonable amount of care and haven’t been negligent or careless in conducting your tax affairs; and
+- four, whether you acted quickly to correct any delay or omission.
+Melanie: Any final words you would like to add at this point, then?
+Eric: Yes, just a few. As mentioned in the first part of this webinar, if you disagree with the CRA’s decision you can ask for a second administrative review of your request. If the CRA upholds its previous decision following a second review of your request for relief and if you disagree with the decision, you may apply to the Federal Court for a judicial review of that decision.
+I also want to let you know that it’s rare that someone will request relief on the basis of financial hardship alone. There is usually an element of an extraordinary circumstance to the request; an explanation of why the taxpayer wasn’t able to pay in full when the amounts were due.
+In any event, taxpayers are always encouraged to pay their outstanding debt if they’re able to do so.
+In addition, my final "food for thought" is that a request to cancel or waive penalties and interest would not typically be granted when the taxpayer’s inability to pay results from factors that are within the taxpayer’s control, such as:
+- one, maintaining a wealthy lifestyle without sufficient means;
+- two, paying other creditors instead of the CRA;
+- three, unreasonable spending that is not needed for maintaining a household or a business.
+Melanie: Thank you. I really appreciate you taking the time today to discuss all of these considerations, and the factors that taxpayers have to meet when they apply for relief based on financial hardship or an inability to pay.
+Eric: It was my pleasure, Melanie.
+In addition, please stay up-to-date by viewing our Web site if you are unsure about anything, or by phoning the CRA directly with any questions you might have.
+Melanie: Well, this concludes the second part of this webinar. We are now ready to continue with part three which relates to extraordinary circumstances. So at this point Eric, I’ll pass it back to you.
+Eric: Thank you, Melanie. I will now be discussing what an extraordinary circumstance is in the context of cancelling or waiving interest and penalties, and how a taxpayer may qualify for relief as a result.
+Melanie: Great! We talked briefly about it in the overview in the first part of this webinar, but could you explain again what you mean by extraordinary circumstances?
+Eric: Sure. An extraordinary circumstance is a situation that is beyond a taxpayer’s control that prevented them from being able to meet their tax obligations.
+Melanie: Can you give us an example? What type of circumstances could prevent a taxpayer from complying with their tax obligations?
+Eric: Well, Melanie, let’s say there was a natural or man-made disaster, such as a flood, heavy storm, or a fire. A situation like that could have prevented a taxpayer from making a payment when it was due. In these types of cases, it’s crucial for the taxpayer to include the date and description of the events that support their request for relief, an explanation of how the event prevented the taxpayer from complying with the tax obligations, and what other avenues the taxpayer explored to meet these obligations.
+Melanie: Okay, thank you. Are there other circumstances as well, Eric?
+Eric: Yes, a taxpayer can ask for relief if they were affected by a civil disturbance or a disruption in services, such as a postal strike or a strike within the government. In this situation, the taxpayer should include as much information as possible about the event: dates, a description of the situation, how the event prevented the taxpayer from complying, what the taxpayer may have done to meet their obligations, whether they had access to CRA information and services, and whether they live in an area with a tax services office or tax centre.
+Melanie: Eric, are those the only types of circumstances that could warrant relief?
+Eric: No. Taxpayers may also request relief from penalties or interest, or both, if they suffer a serious illness or accident. To make a request under these circumstances, a taxpayer should include the information we just mentioned, along with details about whether the taxpayer could have asked someone else to take care of their tax obligations, and if other personal or business obligations were affected.
+Melanie: Eric, I’m wondering, do emotional or mental distress fall under this "serious illness or accident" category?
+Eric: No. Serious emotional or mental distress is another type of circumstance in itself. It can result from situations such as a death, serious illness, or accident in the immediate family, marital separation, or loss of employment that prevented a taxpayer from complying with their obligations. Taxpayers should include detailed information in their relief request, such as:
+- one, dates of the event;
+- two, whether the taxpayer was hospitalized during the period under review;
+- three, whether the taxpayer was under medical care during the period under review;
+- four, whether the event was an isolated case;
+- five, whether the taxpayer or a representative prepared the tax returns;
+- six, the taxpayer’s explanation of how the distress prevented compliance;
+- seven, whether someone else could have taken care of the taxpayer’s obligations; and
+- eight, whether other personal or business obligations were affected.
+Melanie: These details are informative, but what if the taxpayer’s case doesn’t fall under one of these categories, what happens then?
+Eric: There may be other situations that do not fall into one of these categories, but that could allow the taxpayer to ask for relief from penalties or interest. Some examples are third-party errors as we previously discussed, theft, vandalism, or other criminal activity that affected the taxpayer.
+Melanie: Eric, I heard that in cases when an extraordinary event, such as a natural disaster, prevents, let’s say, a whole town from meeting their tax obligations, the CRA could take special measures to address the situation. Is this true?
+Eric: It’s interesting that you should ask that question. In those circumstances, the CRA may announce that a special consideration will be given to providing relief, such as waiving or cancelling penalty and interest charges on late tax remittances or returns that are filed late. If that situation were to arise, each taxpayer would still need to make a request to be considered for relief. I just want to emphasize, it's an individual request.
+Melanie: Okay. Now that we’ve talked about the different types of extraordinary circumstances that may prevent a taxpayer from filing a return or making a payment when due, it would be interesting to know what supporting documents the taxpayer should provide. I guess it will vary from one extraordinary circumstance to another. Would that be right, Eric?
+Eric: You’re correct on that. Supporting documents will vary by the circumstance itself. The taxpayer can provide them, they might already exist in the CRA internal systems, or they might be public records. For instance, in the case of natural or man-made disasters, supporting documents might include a copy of the police, fire, or insurance report to determine the dates and description of the damages.
+Melanie: What about for the other types of relief requests?
+Eric: For civil disturbances or services disruptions, a supporting document could be a newspaper clipping or a news release.
+For a serious illness or accident, supporting documents could include an accident report, a report from the accident or health insurance provider, a medical or hospital report.
+Melanie: Would the same type of supporting documents apply in cases concerning serious emotional or mental distress?
+Eric: The supporting documents might be slightly different. In the event of serious emotional or mental distress, documents that detail the date of the death of the close family member, marital breakdown, loss of employment, or other traumatic event might be required. Taxpayers might also need to include a death certificate, separation or divorce agreement, record of employment, or a medical, insurance, or hospital report, if applicable.
+Melanie: Okay. Thank you. Now, aside from those situations though, what supporting documents would be required in other situations that don’t fall within those categories?
+Eric: In situations like those I mentioned earlier, several documents could be included with the relief request. For example:
+- one, the dates of the event should be included;
+- two, information about if it was an isolated act or not;
+- three, if the taxpayer or a representative prepared the returns;
+- four, how the event prevented compliance, and
+- five, what other measures the taxpayer took to meet their tax obligations.
+Melanie: So Eric, after confirming that a taxpayer has been affected by an extraordinary circumstance, how does the CRA determine if the taxpayer should be granted relief?
+Eric: Well as I mentioned during the financial hardship part of the webinar, the CRA first considers the reasons for the relief request, but then also considers four factors. The same process and four factors are also considered when deciding to grant relief in cases concerning extraordinary circumstances. Here are the four factors again:
+- one, the taxpayer’s history of complying with tax obligations;
+- two, whether the taxpayer knowingly allowed a balance to exist that arrears interest has accumulated on;
+- three, whether the taxpayer took a reasonable amount of care and has not been negligent or careless in conducting their tax affairs; and
+- four, whether the taxpayer acted quickly to correct delays or omissions.
+Melanie: Alright. Then, once the CRA determines if the taxpayer will or will not be granted relief, what happens next?
+Eric: After the CRA reaches a decision, it will send the taxpayer a letter to inform him or her of the outcome.
+Melanie: Okay, thank you. Do you have anything else you would like to add?
+Eric: No, that’s all. I’ve gone over all that I need to; informing taxpayers of their options and identifying some of the different types of extraordinary circumstances that may qualify for relief.
+Melanie: Okay, thank you so much for the information, and for being here today, Eric. It was nice to have an overview of taxpayer relief as a whole, to discuss financial hardship and inability to pay in detail, and to discuss what an extraordinary circumstance is and how taxpayers may qualify for relief.
+Thanks again for being here.
+Eric: My pleasure, Melanie. I look forward to our future discussions.
+Melanie: This concludes this webinar on Taxpayer relief provisions.
+We want to thank you for listening and we hope you enjoyed this webcast.

@@ -1,0 +1,186 @@
+Title: Murugesu v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31064/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-21-31064-murugesu-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-01-18
+
+# Murugesu v. The Queen
+
+- Citation: 2013 TCC 21
+- Decision date: 2013-01-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4705, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Murugesu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-01-18
+Neutral citation
+2013 TCC 21
+File numbers
+2006-3765(IT)G, 2006-3767(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3767(IT)G
+BETWEEN:
+THANGAVADIVELU MURUGESU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+1480364 Ontario Inc., 2006-3765(IT)G,
+on February 2 and 3, 2012 and September 18, 2012 at Toronto, Ontario.
+Before: The Honourable Justice Steven K. D’Arcy
+Appearances:
+Counsel for the Appellant:
+Osborne G. Barnwell
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the reassessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years is allowed, with costs in accordance with the attached Reasons for Judgment. The reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that no amount should be included in the Appellant’s income for the 2002 taxation year under subsection 15(1).
+All subsection 163(2) penalties will be vacated.
+Signed at Ottawa, Canada this 18th day of January 2013.
+“S. D’Arcy”
+D’Arcy J.
+Docket: 2006-3765(IT)G
+BETWEEN:
+1480364 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Thangavadivelu Murugesu, 2006-3767(IT)G,
+on February 2 and 3, 2012 and September 18, 2012 at Toronto, Ontario.
+Before: The Honourable Justice Steven K. D’Arcy
+Appearances:
+Counsel for the Appellant:
+Osborne G. Barnwell
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the reassessment made under the Income Tax Act for the 2002 taxation year is allowed, with costs in accordance with the attached Reasons for Judgment. The reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant, when filing its income tax return, understated its income by $82,286.
+The subsection 163(2) penalty will be vacated.
+Signed at Ottawa, Canada this 18th day of January 2013.
+“S. D’Arcy”
+D’Arcy J.
+Citation: 2013 TCC 21
+Date: 20130118
+Docket: 2006-3767(IT)G
+BETWEEN:
+THANGAVADIVELU MURUGESU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2006-3765(IT)G
+AND BETWEEN:
+1480364 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Arcy J.
+[1] The Appellants have filed two separate appeals. In the first appeal, 1480364 Ontario Inc. (the “Corporation”) has appealed an income tax reassessment in respect of its taxation year ending on May 31, 2002 (the “2002 taxation year”). In the second appeal, Thangavadivelu Murugesu has appealed income tax reassessments in respect of his 2000, 2001 and 2002 taxation years.
+[2] The two appeals were heard together on common evidence.
+Summary of Facts
+[3] Mr. Murugesu immigrated to Canada from Sri Lanka in 1990. He has a Grade 7 education. Because of his limited knowledge of English, he provided his testimony through an interpreter. I found him to be a credible witness.
+[4] Mr. Murugesu started working for Sargent Farms Ltd. (“Sargent Farms”) in the mid-1990’s. Sargent Farms raises chickens and rabbits. Originally, Mr. Murugesu worked as a labourer on the farm. In 1997, he started a business, as a sole proprietorship, of providing workers to Sargent Farms (the “service business”). These workers performed numerous manual labour tasks relating to the operation of the chicken and rabbit farm.
+[5] In 2001, he incorporated the Corporation and transferred the service business to the Corporation.
+[6] Because of his limited knowledge of the English language, Mr. Murugesu relied on his accountant (the “First Accountant”) to prepare and file his tax returns and the tax returns of the Corporation. Unfortunately for Mr. Murugesu, he picked the wrong accountant.
+[7] The income tax returns filed for Mr. Murugesu’s 2000 and 2001 taxation years included deductions for management fees of $38,000 and $15,750 respectively.
+[8] When reassessing Mr. Murugesu’s 2000 and 2001 taxation years, the Minister disallowed the deductions for the management fees and levied gross negligence penalties pursuant to subsection 163(2) of $3,612.15 and $1,472.85 respectively.
+[9] Mr. Murugesu acknowledges that he did not incur the management fees. However, he does not believe he should be subject to gross negligence penalties. He testified that he was not aware that the First Accountant had claimed the management fees on his tax returns.
+[10] The First Accountant reported gross revenue of $458,385 on the Company’s financial statements for its fiscal year ending on May 31, 2002 (its first fiscal year). However, the First Accountant only reported gross revenue of $285,588 on the Corporation’s 2002 income tax return. The Minister assessed the Corporation for unreported income of $171,142, the difference between the amount she assumed was the gross revenue of the Corporation ($458,558) and the $285,588 reported on the Corporation’s income tax return. She also levied an $11,227 gross negligence penalty.
+[11] Mr. Murugesu does not know why his accountant understated the Corporation’s gross revenue. He accepts that the Corporation did understate its gross revenue by $171,142 on its income tax return; however, he argues that the First Accountant also substantially understated the Corporation’s wage expense. As a result, the unreported income is substantially less than $171,142. He also argues that the Corporation should not be subject to a gross negligence penalty.
+[12] The Minister assessed Mr. Murugesu personally in respect of the $171,142 of purported unreported income. She included in his taxable income a $171,142 shareholder benefit pursuant to subsection 15(1) of the Income Tax Act (the “Act”) and imposed a $22,560 gross negligence penalty.
+[13] Mr. Murugesu argues that there was no subsection 15(1) shareholder benefit in 2002 and that, in any event, he should not be subject to a gross negligence penalty.
+Corporation’s 2002 Fiscal Year
+[14] I will first consider the Corporation’s appeal with respect to its 2002 fiscal year. The sole issue before the Court is whether the Corporation incurred an expense for wages in excess of the $301,305 reported on its 2002 income tax return.
+[15] The Corporation determined the amount of its workers’ wages on the basis of its own internal information and information provided by Sargent Farms.
+[16] Sargent Farms maintained time cards for each of the Corporation’s workers. Sargent Farms and the Corporation agreed on an hourly rate that Sargent Farms would pay the Corporation for each task performed by the Corporation’s workers. They calculated the hourly rate using a standard wage rate for a specific task plus a mark-up. The mark-up was 18% before September 2001 and 15% thereafter.
+[17] Sargent Farms, using the time cards and the hourly rates, prepared a weekly summary sheet which set out the total hours the Corporation’s workers spent on each task and the agreed hourly rate for the specific task. Sargent Farms then provided the Corporation with a copy of the summary sheet and copies of the workers’ time cards.
+[18] The Corporation used the summary sheet to prepare its invoice for the services it had rendered to Sargent Farms.
+[19] The Corporation used the copies of the time cards to calculate its workers’ wages. It is clear from the evidence before me that the hourly rates used by the Corporation to calculate its employees’ wages were lower than the hourly rates it used to determine the fees the Corporation charged Sargent Farms.
+[20] Mr. Murugesu testified that the 18% and 15% mark-ups were not sufficient to cover the Corporation’s expenses. As a result, the Corporation had to reduce the hourly rate it paid its workers.
+[21] Mr. Murugesu testified that some of the workers wanted to be paid in cash with no withholdings for CPP, EI or income tax. This required the company to, in effect, maintain two payrolls, a “cash” payroll and a “normal” payroll. When the Corporation received copies of the time cards from Sargent Farms, Mr. Murugesu (or his spouse) noted on the card whether the employee was to be paid in cash (no withholdings) or included in the normal payroll (subject to withholdings).
+[22] If the Corporation paid the worker in cash, then Mr. Murugesu (or his spouse) would write on the time card “cash pay” and the worker’s hourly wage rate.
+[23] I have reviewed the numerous time cards for the workers paid in cash that are included in Exhibit A-1. I agree with counsel for the Respondent that the hourly rates shown on the time cards are lower than the hourly rates used to calculate the Corporation’s fees. This is consistent with Mr. Murugesu’s testimony. Further, in my view, it shows that the Corporation has not attempted to overstate the cash wages it paid to certain of its workers.
+[24] The Corporation filed Exhibit A-3 to support Mr. Murugesu’s testimony that the Corporation’s former accountant understated the Corporation’s 2002 wage expense. That exhibit is a schedule prepared by Sargent Farms that shows, on a weekly basis, the amounts Sargent Farms paid the Corporation for its services and the amounts of cash wages paid by the Corporation.
+[25] The Corporation identified for Sargent Farms the workers who were paid in cash and their hourly wage rates. Sargent Farms used this information, plus the times shown on the time cards for the specific workers, to calculate the cash wages paid by the Corporation to its workers during the Corporation’s 2002 fiscal year.
+[26] The schedule shows total cash wages of $148,773. I accept this schedule as the most reliable evidence before me of the cash wages paid by the Corporation during its 2002 fiscal year.
+[27] Exhibit R-12 provides a breakdown of the $301,305 that the First Accountant reported on the Corporation’s 2002 income tax return as wages. This breakdown shows that $59,917 of the $301,305 was for cash wages. As a result, I have concluded that the Corporation understated by $88,856 the wages reported on its 2002 income tax return. This represents the difference between the actual cash wages of $148,773 and the amount reported by the accountant, $59,917.
+[28] In summary, the Corporation understated its 2002 income by $82,286, that is, the difference between its unreported gross revenue of $171,142 and the $88,856 understatement of its cash wages.
+Mr. Murugesu’s 2002 Taxation Year
+[29] As I noted previously, the Minister assumed that Mr. Murugesu appropriated all of the unreported income of the Corporation. As a result, she included the amount of the unreported income in his income under subsection 15(1) of the Act on the basis that the Corporation had conferred a benefit on Mr. Murugesu.
+[30] Mr. Murugesu testified that he did not appropriate any funds from the Corporation. He acknowledged that the Corporation paid amounts to him; however, he testified that he informed the First Accountant of all cash withdrawals.
+[31] A significant portion of the cash paid to Mr. Murugesu was reported as employment income. The Corporation issued T4’s to Mr. Murugesu for $59,829 of employment income in 2001 and 2002 (Exhibits R-9 and R-11).
+[32] Mr. Murugesu testified that the Corporation also paid monies to his spouse. This is not surprising since she provided services to the Corporation. The amount of her taxable income in 2001 and 2002 was not provided to the Court.
+[33] Ms. Natalie Moore testified for the Respondent. She is an investigations officer for the CRA.
+[34] She noted that the CRA’s audit division referred Mr. Murugesu’s file to her. The CRA elected not to file any criminal charges. However, Ms. Moore retained carriage of Mr. Murugesu’s file and issued the assessments on behalf of the Minister.
+[35] During her testimony, Ms. Moore noted that, prior to issuing the assessments, she did not speak to Mr. Murugesu.
+[36] Ms. Moore prepared a schedule for the period from July 23, 2001 to September 13, 2002, which lists $193,772 of withdrawals from the Corporation’s bank account (Exhibit R-16). This schedule divides the withdrawals into the following three categories: payments to the builder of Mr. Murugesu’s condominium, payments to Mr. Murugesu and his family, and cash withdrawals. The cash withdrawals of $113,170 make up the largest portion of the listed withdrawals.
+[37] Ms. Moore testified that she did not perform an analysis of the cash withdrawals. She was not aware that the Corporation paid some of its employees in cash. Further, the schedule includes approximately $59,000 of withdrawals that the Corporation made after its 2002 year-end.
+[38] I do not find the schedule particularly helpful. It certainly does not support a finding that Mr. Murugesu appropriated the $82,286 of income that the Corporation failed to report on its income tax return.
+[39] The withdrawals identified by Ms. Moore would appear to consist of the wages paid to Mr. Murugesu ($52,182), whatever wages the Corporation paid to Mr. Murugesu’s spouse and a portion of the $148,773 in cash payments that the corporation made to its workers.
+[40] It is my view that the objective evidence before me supports Mr. Murugesu’s testimony that he did not appropriate any amounts from the Corporation.
+Gross Negligence Penalty
+[41] The Minister levied gross negligence penalties in respect of Mr. Murugesu’s 2000, 2001 and 2002 taxation years. The Minister also levied a gross negligence penalty of $11,227 in respect of the Corporation’s 2002 taxation year.
+[42] Since I have found that Mr. Murugesu did not receive a shareholder’s benefit in 2002, the penalty in respect of his 2002 taxation year will be removed.
+[43] Subsection 163(2) levies a penalty on:
+Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of . . . [Emphasis added.]
+[44] Pursuant to subsection 163(3), the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[45] As Justice Strayer stated in Venne v. The Queen, [1984] C.T.C. 223 (FCTD) at 234:
+. . . “Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not . . . .
+[46] Ms. Moore testified that she made the decision to levy the gross negligence penalties. She testified that she based her decision on the magnitude of the unreported amounts, the fact that Mr. Murugesu and the Corporation made cash withdrawals and the fact that Mr. Murugesu used some of the cash withdrawals to purchase a new condominium. She also referred to a “rough source and applications of funds” analysis. However, the Respondent did not provide the Court with the analysis.
+[47] Ms. Moore testified that she never had a conversation with Mr. Murugesu or any employee of the Corporation. Notwithstanding the fact that Sargent Farms had provided her with the employees’ time sheets, she was not aware that the Corporation paid some of its employees in cash.
+[48] After reviewing all of Ms Moore’s testimony, it appears to me that she based her decision to levy the gross negligence penalties primarily on the magnitude of the unreported income. This in my view is not a sufficient fact, in and of itself, to justify the imposition of the gross negligence penalties.
+[49] Mr. Murugesu testified that, because of his very limited understanding of English and the Canadian taxation system, he relied on the First Accountant to properly prepare and file his tax returns. He had no idea that the tax returns filed by the First Accountant were incorrect.
+[50] Once an official from the CRA came to his home to discuss the problems with regard to his tax returns he immediately fired the First Accountant and hired a new accountant.
+[51] Counsel for the Respondent did not adduce any evidence either through Ms. Moore or through his cross-examination of Mr. Murugesu that would undermine Mr. Murugesu’s credibility. As I noted previously, I found Mr. Murugesu to be a credible witness.
+[52] I note that the Corporation deposited all of its revenue into its bank account and reported the revenue on its financial statements. There was no attempt by the Corporation to hide any of its revenue.
+[53] From the evidence before me, it appears the First Accountant was negligent when preparing Mr. Murugesu’s personal tax returns and also the Corporation’s return for its 2002 taxation year. However, I do not believe that either the Corporation or Mr. Murugesu was grossly negligence.
+[54] Mr. Murugesu has worked extremely hard to establish his business. However, he is not a sophisticated business person. Because of his limited knowledge of English and the Canadian taxation system, Mr. Murugesu had no choice but to rely on an accountant. He did what a reasonable person would have done in his situation: he chose an accountant recommended by members of his community, who could speak to him in his native language. I accept his testimony that he was not aware that the First Accountant failed to report all of his and the Corporation’s income.
+[55] For the foregoing reasons, I have concluded that the Minister has not established facts that justify the imposition of the subsection 163(2) gross negligence penalty on either Mr. Murugesu or the Corporation. Further, in light of the evidence before me, I have concluded that Mr. Murugesu took reasonable care to ensure that he properly filed his personal tax returns and the Corporation’s tax return.
+[56] Accordingly, the Corporation’s appeal in respect of its 2002 taxation year is allowed with costs. The reassessments are referred back to the Minister for reconsideration and reassessment on the basis that the Corporation, when filing its income tax return, understated its income by $82,286. The subsection 163(2) gross negligence penalty will be vacated.
+[57] Mr. Murugesu’s appeal in respect of his 2000, 2001 and 2002 taxation years is allowed with costs. The reassessments are referred back to the Minister for reconsideration and reassessment on the basis that no amount should be included in his income for the 2002 taxation year under subsection 15(1). All subsection 163(2) penalties will be vacated.
+Signed at Ottawa, Canada, this 18th day of January 2013.
+“S. D’Arcy”
+D'Arcy J.
+CITATION: 2013 TCC 21
+COURT FILE NOS.: 2006-3767(IT)G; 2006-3765(IT)G
+STYLE OF CAUSE: THANGAVADIVELU MURUGESU AND HER MAJESTY THE QUEEN AND BETWEEN 1480364 ONTARIO INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 2 and 3, 2012,
+September 18, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT: January 18, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Osborne Barnwell
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Osborne G. Barnwell
+Barrister & Solicitor
+Firm: Suite 202, 245 Yorkland Blvd.
+Toronto, Ontario, M2J 4W9
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

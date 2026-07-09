@@ -1,0 +1,451 @@
+---
+title: "Repsol Canada Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100774/index.do"
+last_modified: "2015-01-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 21"
+citation2: ""
+neutral_citation: "2015 TCC 21"
+decision_date: "2015-01-27"
+language: "en"
+item_id: "100774"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2802
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:32:04.016000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3e62d5f14e92d309cf8426ab1477be89824b5de8780129279ccc901b47741ac1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Repsol Canada Ltd. v. The Queen
+
+- Citation: 2015 TCC 21
+- Decision date: 2015-01-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2802, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Repsol Canada Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-01-27
+Neutral citation
+2015 TCC 21
+File numbers
+2012-1931(IT)G, 2012-1933(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1931(IT)G
+BETWEEN:
+REPSOL CANADA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the Appeals of
+(Repsol Energy Canada Ltd. (2012-1933 (IT)G))
+on October 28, 29 and 30, 2014, at Calgary, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Robert D. McCue
+Counsel for the Respondent:
+Josée Tremblay and Darcie Charlton
+JUDGMENT
+The Appeals from the reassessments made under the Income Tax Act for the 2007 and 2008 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Terminal and Jetty are Class 43 assets and are eligible for the Investment Tax Credit. Costs to the Appellants.
+Signed at Ottawa, Canada, this 27th day of January, 2015.
+“Campbell J. Miller”
+C. Miller J.
+Docket: 2012-1933(IT)G
+BETWEEN:
+REPSOL ENERGY CANADA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the Appeals of
+(Repsol Canada Ltd. (2012-1931 (IT)G))
+on October 28, 29 and 30, 2014, at Calgary, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Robert D. McCue
+Counsel for the Respondent:
+Josée Tremblay and Darcie Charlton
+JUDGMENT
+The Appeals from the reassessments made under the Income Tax Act for the 2007 and 2008 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Terminal and Jetty are Class 43 assets and are eligible for the Investment Tax Credit. Costs to the Appellants
+Signed at Ottawa, Canada, this 27th day of January, 2015.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2015 TCC 21
+Date: 20150127
+Docket: 2012-1931(IT)G
+BETWEEN:
+REPSOL CANADA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2012-1933(IT)G
+BETWEEN:
+REPSOL ENERGY CANADA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] What is a process? What is a distribution? Seemingly simple questions that become anything but when applied to the importation, unloading, regasification and delivery of Liquid Natural Gas (“LNG”). This was the business of the Canaport LNG Limited Partnership (“Canaport Partnership”), of which Repsol Canada Ltd. was a general partner and Repsol Energy Canada Ltd. (“RECL”) [mentioned below] was a limited partner. I will, at times, simply state Repsol to refer to the Repsol group of companies. Irving Canaport LP Company Limited and Irving Canaport GP Company Limited were the other limited partner and general partner respectively (collectively referred to as “Irving”). To conduct this business, the Canaport Partnership constructed a terminal (the “Terminal”) and a jetty (the “Jetty”) at a significant cost in Saint John, New Brunswick.
+[2] The issue in this case is how to classify the Terminal and the Jetty for Capital Cost Allowance (“CCA”) purposes (Class 1(n) and Class 3(h) respectively according to the Respondent or Class 43 according to the Appellants). If the assets fall in Class 43 such properties qualify for purposes of the Investment Tax Credits (“ITCs”) pursuant to subsection 127(5) of the Income Tax Act (the “Act”) for the taxation years 2007 and 2008.
+[3] There is considerable interplay between the classes of property and the application of the ITCs. However, fundamental to a correct result is determining whether what occurred at the regasifying Terminal and Jetty was a distribution of natural gas: if so, then the assessment of the Minister of National Revenue (the “Minister”) of the Terminal and the Jetty as being Class 1(n) and Class 3(h) properties respectively is correct.
+Facts [4] The Appellants presented two witnesses, Mr. Azcarraga, the Engineer and Construction Manager for the Terminal and, upon completion of its construction, the Terminal’s General Manager, and Mr. Ribbeck, President of RECL and Repsol Canada Ltd. and the chief negotiator in the arrangement with Irving for the Canaport project.
+[5] Both Mr. Azcarraga and Mr. Ribbeck were straightforward and knowledgeable witnesses. On several occasions, the Respondent objected to their testimony on the basis that they were providing expert evidence with respect to the natural gas industry generally. There is no doubt in my mind both of them would have been qualified to do so, but they were not put forward as expert witnesses. They were, however, intimately familiar with how the LNG got to their plant in Saint John, what happened to it at the plant, and where it went after it left the plant.
+[6] If Repsol’s treatment of LNG is typical of industry-wide practices (I was given no reason to believe otherwise), and the witnesses used acceptable industry language (which it was clear to me they did), that does not mean that Messrs. Azcarraga and Ribbeck were giving me expert evidence. Their testimony was critical to my understanding of a very technical operation, involving considerable complex machinery and equipment, the subject of this case. At times this may have required some contextual background and I allowed them to testify in that regard so that I would have as complete a grasp as possible with respect to the Canaport project. The Respondent called no witnesses, expert or otherwise.
+[7] In May 2005, Irving Canaport GP Company Limited and Irving Canaport LP Company Limited entered a partnership agreement to develop, construct and operate an LNG receiving, unloading, storing and regasifying facility near Saint John. According to Mr. Ribbeck, Repsol decided it was economically feasible for a variety of reasons to be part of that venture, and in June 2005 an Amended and Restated Partnership Agreement was entered into by adding Repsol Canada LNG Ltd. and Repsol Canada Ltd. as limited partner and general partner respectively. After the tax years at issue, Repsol Canada LNG Ltd. amalgamated with RECL, continuing after amalgamation as RECL.
+[8] Irving Oil Limited and Repsol LNG S.L. (a Spanish parent corporation) had previously entered a Memorandum of Understanding in September 2004 outlining the project, including the regasification plant and the construction of a new pipeline from the Terminal to the Canada-U.S. border, as well as identifying the 75% – 25% ownership split in the Canaport Partnership between Repsol and Irving respectively.
+[9] The legal transactions implementing the Canaport project and the ongoing operation are as follows:
+1. Canaport Partnership Agreement dated June 6, 2005. This agreement establishes the purpose of the partnership to “develop, design, finance, construct, commission, own, operate, maintain and decommission Canaport LNG Terminal”, and sets the respective percentage interests (75 and 25). It also outlines a guaranteed return of approximately 14% to Irving.
+2. Lease Agreement between Canaport Limited (an Irving Company) as Lessor and the Canaport Partnership as Lessee of the property near Saint John upon which the Terminal and Jetty were to be constructed, also dated June 6, 2005.
+3. The Terminal Service Agreement (“TSA”) between the Canaport Partnership and RECL also dated June 6, 2005. Pursuant to this agreement, RECL was obliged to pay a tolling fee on a formula basis to the Canaport Partnership for receiving terminal services, including the regasification of LNG. The services included the provision of berths for LNG tankers, the unloading of LNG, the storage of LNG, its regasification, the blending of LNG and delivery of regasified LNG to RECL. Mr. Ribbeck explained that the fee paid by RECL was such that the Canaport Partnership would always have sufficient funds to be profitable and ensure what he called dividends to Repsol and Irving.
+4. LNG Sale and Purchase Agreement between Repsol, Comercializadora de Gas, S.A. and RECL dated December 21, 2007, pursuant to which RECL imports LNG into Canada, taking title to the LNG at the unloading arms at the Jetty. Mr. Ribbeck indicated that 50% of the LNG bought by RECL came from Repsol related companies. RECL was not obliged to receive any LNG pursuant to this agreement unless it met standards set out in the agreement in connection with heating value, WOBBE number (I gather an index indicating flammability), hydrogen sulphide content, sulphur content, non-hydrocarbon gas content, carbon dioxide content, nitrogen content, oxygen content, no water or mercury, no active bacteria and no toxic substances.
+5. Gas Purchase and Sale Agreement between RECL and Repsol Energy North America Ltd. (“RENA”) dated in December 2007. This agreement covers the sale of the regasified LNG from the Terminal by RECL to the American trading arm of Repsol, RENA. Title transfers at the delivery point, being the Canada-U.S. border, where the Brunswick pipeline (the “Brunswick Pipeline”), the pipeline especially constructed for this purpose meets the American branch of the Maritime and North East Pipeline LLC. RENA, as a wholesaler, would sell on to local distribution companies.
+6. Precedent Agreement between Amera Brunswick Pipeline Company Ltd. (“Brunswick”) and RECL dated May 15, 2006. In this agreement Brunswick agrees to construct the pipeline from the Terminal at the Saint John delivery point to the Maritime and North East pipeline at the U.S. border.
+7. Brunswick Pipeline System Firm Service Agreement between Brunswick and RECL entered into coincidentally with the preceding Precedent Agreement. This agreement covers the actual transportation of the gas by the Brunswick Pipeline. Payment is determined through a separate Negotiated Toll Agreement. Article V requires the natural gas must conform to the Brunswick Tariff, defined in the Meter Station Agreement as the applicable tariff that Brunswick has on file with the National Energy Board of Canada, as such tariff is amended from time to time, which is part of Schedule C to the Service Agreement. Schedule C is entitled “General Terms and Conditions”. Article 12 of General Terms and Conditions sets out the requirements for the quality of the gas. Part of that requirement is the composition which is described as follows:
+Composition
+(a) Merchantability. The gas shall be commercially free, under continuous gas flow conditions, from objectionable odors (except those required by applicable regulations), solid matter, dust, gums, and gum-forming constituents which might interfere with its merchantability or cause injury to or interference with proper operations of the pipelines, compressor stations, meters, regulators or other appliances through which it flows.
+(b) Oxygen. The gas shall not have an uncombined oxygen content in excess of two-tenths (0.2) of one percent (1%) by volume, and both parties shall make every reasonable effort to keep the gas free from oxygen.
+(c) Non-Hydrocarbon Gases. The gas shall not contain more than four percent (4%) by volume, of a combined total of non-hydrocarbon gases (including carbon dioxide and nitrogen); it being understood, however, that the total carbon dioxide content shall not exceed three percent (3%) by volume.
+(d) Liquids. The gas shall be free of water and hydrocarbons in liquid form at the temperature and pressure at which the gas is received and delivered.
+(e) Hydrogen Sulfide. The gas shall not contain more than six (6) milligrams of hydrogen sulphide per on (1) Cubic Metre.
+(f) Total Sulfur. The gas shall not contain more than four-hundred and sixty (460) milligrams of total sulphur, excluding any mercaptan sulphur, per one (1) Cubic Metre.
+(g) Temperature. The gas shall not have a temperature of more than forty‑nine degrees (49°) Celsius.
+(h) Water Vapor. The gas shall not contain in excess of eighty (80) milligrams of water vapour per one (1) Cubic Metre.
+(i) Liquefiable Hydrocarbons. The gas shall not contain liquid hydrocarbons or hydrocarbons liquefiable at temperatures warmer than minus nine degrees (-9°) Celcius and normal pipeline operating pressures of between 690 and 9930 kPag.
+(j) Microbiological Agents. The gas shall not contain any microbiological organism, active bacteria or bacterial agent capable of contributing to or causing corrosion and/or operational and/or other problems.
+Microbiological organisms, bacteria or bacterial agents include, but are not limited to, sulfate reducing bacteria (SRB) and acid producing bacteria (APB). Tests for bacteria or bacterial agents shall be conducted on samples taken from the meter run or the appurtenant piping using American Petroleum Institute (API) test method API-RP38 or any other test method acceptable to Pipeline and Customer which is currently available or may become available at any time.
+8. Canaport LNG – Brunswick Pipeline Meter Station Agreement dated July 6, 2009. This agreement between Brunswick and the Canaport Partnership establishes that Brunswick will build a Meter Station at the Canaport Terminal to measure the gas quality and quantity as well as injecting odorant. Mr. Ribbeck explained that although the National Energy Board did not require odorization equipment (a safety measure so leaks could be detected by smell), Saint John residents were concerned with safety issues and RECL agreed to cover this cost. This agreement also required that the natural gas must meet certain specifications. In that regard, article 5.1(b) reads:
+“to operate the Canaport LNG Terminal such that the gas meets at all times the parameters as outlined in the applicable provisions of the Brunswick Tariff, and such that the pressure at which regasified LNG is delivered to the meter station is at all times less than the Brunswick Pipelines MAOP (Maximum Allowable Operating Pressure).”
+Mr. Azcarraga explained that the Brunswick Tariff had certain specifications for the natural gas pertaining to heating value and flammability (WOBBE Index). Very small fluctuations in the chemical composition of the four to eight percent of chemicals, other than methane (which makes up 90 to 96% of natural gas) can impact significantly on the heating and WOBBE Index.
+[10] The effect of these agreements is that RECL would buy LNG from an affiliate. Under its contracts with the Canaport Partnership, it would receive the LNG and regasify it so the LNG could be introduced into the Brunswick Pipeline under specifications required by the Brunswick Pipeline systems. In meeting the specifications, RECL would prepare the LNG for the eventual transportation to the U.S. border and sale on to the American affiliate, RENA, which acted as the wholesaler of gas in the U.S. market.
+[11] Mr. Ribbeck testified that, in deciding to build the Terminal and the Jetty in Canada, the tax incentives were critical to make the project economic. He described the risk in the project as high, more so given the economic deal struck with Irving, guaranteeing them a 14% return. He indicated that Repsol sought advice from PriceWaterhouseCoopers who advised that the plant would qualify for the ITCs. He did not, however, receive a formal written opinion in that regard.
+[12] The Canaport Partnership requested an advance ruling from the Government with respect to eligibility for ITCs in February 2006, but none was forthcoming. In March 2007, the Government announced it intended to amend Class 47, effectively excluding LNG facilities from the tax incentives. Accordingly, only approximately 32% of the $1.2 billion cost of the machinery and equipment constituting the Terminal and the Jetty remains at issue, as the balance was incurred after the legislative change in March 2007. I will later review some of the legislative history with respect to this and other changes.
+[13] Mr. Azcarraga took me through, in some detail, what actually transpires at the Terminal and the Jetty in dealing with this dangerous substance in a complex facility. It is important, however, to first describe what is meant by the Terminal and the Jetty. Some definitions from the agreements are helpful. The following definitions come from the Partnership Agreement:
+“Jetty” means the deep water pier forming a part of Canaport LNG Terminal.
+“Canaport LNG Terminal” means the LNG receiving, unloading, storage and regasification facilities…
+“Offshore LNG Terminal” means, with respect to the FEEDS the formal tendered documents and the EPC contract, the portion of Canaport LNG Terminal that is located offshore, including the Jetty but excluding the Jetty topsides.
+“Onshore LNG Terminal” means, with respect to the FEEDS the formal tendered documents and the EPC contract, the portion of Canaport LNG Terminal that is located inland and the Jetty topsides.
+[14] The TSA has the following definition:
+“Jetty” means the deep water pier forming a part of Canaport Terminal, at minus 26 metres water depth.
+I have attached as Appendix 1 a schematic of the Jetty and appurtenances. I note there were separate construction contracts for the onshore and offshore LNG Terminal. So what does this all mean from a layman’s perspective?
+[15] Although the Jetty has considerable equipment on it, reference to the Jetty does not, I find, include that equipment (Jetty topsides) but simply the foundation of the pier or the Jetty head, the metal structures connected to the seabed, including hooks which connect mooring lines and fenders, rubber bumpers between the ship and pier to absorb waves, the metal trestle running from the Jetty head to the shore and mooring and berthing dolphins spreading like wings on either side of the Jetty head, as well as a gangway. The hooks and fenders are monitored in the Jetty control building at the land end of the pier to ensure there is never too much pressure impacting the ship or the mooring lines.
+[16] On the Jetty, but not considered part of the Jetty, are four unloading arms and pipelines connecting to the Terminal. One such line is used for returning natural gas back from the onshore terminal – more on that later.
+[17] Before leaving the description of the Jetty, it should be noted that additional equipment at the Jetty was contemplated by the Canaport Partnership to render the Jetty a multipurpose Jetty that is able to accommodate the delivery of crude oil by tanker. Indeed, Irving eventually built such additional unloading arm and pipelines (in 2013) to run crude to separate tanks onshore which were constructed apart from the Terminal itself.
+[18] The TSA stipulated priority would be given to LNG tankers over oil tankers. According to Mr. Azcarraga, 120 LNG tankers were anticipated annually, leaving little or no capacity for the receipt of crude oil.
+[19] Turning to the Terminal, it includes three storage tanks, a high pressure tank leading into several pressure pumps and then the vaporizer itself. The vaporizer is a big tank of water and what Mr. Azcarraga described as a bundle of pipes ultimately converting the LNG into vaporized gas. It is important to note that LNG has 600 times less volume than in gaseous form. There is also a metering station through which gas passes before entering the Brunswick Pipeline.
+[20] Also as part of the Terminal is a main control room which monitors all activities throughout the Terminal and the Jetty, including the tanker. There is a backup of this overall monitoring system in the Jetty control building.
+[21] The Jetty and the Terminal are insured under one insurance policy.
+[22] I turn now to a brief description of what occurs before the LNG arrives at the Jetty. Before the LNG arrives at Saint John, the LNG has gone from raw gas (mainly methane with some impurities) and has had those impurities removed to leave natural gas with a high percentage (90 to 95%) of methane. It is liquefied at a liquefication plant (much of this came from Repsol’s operation in Trinidad) to ship to Canada, as the liquid form is, as indicated, 1/600th of the volume of the gaseous form.
+[23] Before the natural gas is purchased by RECL and even before it arrives at the Jetty, it is determined if the LNG is of an appropriate composition. If not, it can be rejected.
+[24] The LNG may differ depending on its origin and ability to be blended. It is up to the Canaport Partnership, through the regasification operation, to ensure the gas to be put into the Brunswick Pipeline meets the parameters referred to earlier. Both RECL and the Canaport Partnership can refuse to accept LNG not meeting necessary specifications on receipt at the Jetty. In effect, there are two levels of specification, one upon receipt at the Jetty and the second upon departure from the Terminal into the Brunswick Pipeline.
+[25] Before describing what happens once a ship carrying LNG berths at the Jetty, I will briefly describe some of the safety features Mr. Azcarraga explained were built into the Terminal and the Jetty. These are not because LNG is explosive but more because it can evaporate and become flammable. It is absolutely critical there be no leaks.
+[26] Some of the safety measures are:
+1. All structures with contact with the LNG were stainless steel to avoid possible fracturing.
+2. The structures were mostly welded though some were flanged.
+3. There was constant circulation of the LNG so it would not warm up but maintain a safe temperature.
+4. Backup generators were in place to ensure this circulation of the LNG.
+5. There was a pressure safety valve to relieve pressure into a flare in the event of loss of power.
+6. Concrete structures at bolted flanges were in place to ensure any leaks went through slopes into impounding basins, where they were immediately covered with foam.
+7. There were gas detectors throughout.
+8. There were firefighting detection systems.
+9. The Terminal and Jetty were interconnected and monitored through a main control room with a backup at the Jetty control building. The tanker was connected to this monitoring system as well so if there was a problem, everything could be shut down from the ship to the Brunswick Pipeline.
+[27] The Terminal also had to comply with federal, provincial and local requirements. For example, the New Brunswick Department of Environment had 65 conditions to be met to obtain the necessary licence for handling LNG. Transport Canada approval was also necessary from a marine security perspective.
+[28] With this many safety features in place, and having obtained the requisite licences and approvals, what exactly unfolds once an LNG tanker arrives at the Jetty?
+[29] The LNG from the tanker first goes into three of the unloading arms at the Jetty, kept at an appropriate temperature through vaporized nitrogen from the plant. It is pumped through a pipeline sitting atop the trestle from the Jetty pier onto shore into the three storage tanks where a blending operation takes place. As Mr. Azcarraga explained, LNG can vary in weight and composition, notwithstanding over 90% of it is methane, causing different evaporation rates. It has to be determined what tanks the LNG will be placed in; for example, there may be a 20, 20, 60% split amongst the three tanks. This is to ensure the combined LNG meets the requisite specifications for the ultimate entry into the Brunswick Pipeline. There are monitors inside each tank measuring several variables including the chemical composition to ensure compatibility. There must be adequate blending.
+[30] The removal of LNG from the ship creates a vacuum so gas is taken from the plant back to the ship through the fourth unloading arm to fill that vacuum.
+[31] Once blended properly inside the storage tanks, there are pumps to pump the LNG through other high pressured pumps and on into the vaporizer. This next step must take place at a critical temperature to convert the LNG into vaporized gas through the bundle of pipes described earlier.
+[32] From the vaporizer, the natural gas goes through the metering station, where, if it is not within the specifications necessary to enter the Brunswick Pipeline, the station will effectively shut down the operation disabling the onward flow of the natural gas. This relates to the necessary chemical composition, particularly the percentage of chemicals other than methane.
+[33] If the natural gas meets the specifications, it goes from the metering station into the Brunswick Pipeline, a pipeline constructed specifically for the transport of the natural gas to the U.S. border.
+[34] The TSA references operating manuals that govern this whole operation, including both a Process Control Philosophy and Terminal Process System Operating Manual. According to Mr. Azcarraga these show every engineering process in the plant covering every piece of equipment, and how events need to be controlled. The Control Philosophy document is to be read in conjunction with a Process System description and Process and Instrument diagrams, giving a detailed description of every element of the plant. By way of illustration as to what this document covers, some of the headings are: Control of Unloading Operation, Control of LNG Tanker, Tanks, Pump Flow Control, LNG Blending Control, Natural Gas Send Out – Process Description… The following excerpt from LNG Blending Control gives a flavour of the general overview approach:
+The Terminal is designed to process various sources of LNG. However, all sources of LNG do not comply with the Gas Send Out Pipeline Specification. Therefore, a BTU reduction unit is required. This unit will not be installed at this stage, on spec LNG will be achieved via a blending process. A dedicated control loop is provided to control the flow from each tank in order to reach the target BTU value. This control loop includes flow control valves at the common discharge of in tank pumps from each tank and gas analyser at the send out.
+[35] The Terminal Process System Operating Manual expands on the Control Philosophy by providing a step‑by‑step detailed analysis of everything taking place from the ship to the Brunswick Pipeline. It runs to over 300 pages. Mr. Azcarraga also provided a schematic called the Process Equipment – Process Overview (attached as Appendix 2) which is the first computer screen an operator sees when monitoring the plant.
+[36] The Terminal is not a public utility, nor is it regulated. Mr. Ribbeck testified that Repsol does not invest in pipelines as they are regulated. In his view, this would jeopardize the return.
+[37] Mr. Ribbeck’s assessment of risk was proven to be prophetic as, due to changes in the LNG market and given guaranteed commitments Repsol had made to Irving, by 2013, Repsol wrote down the value of the assets in connection with the Terminal by $1.2 billion.
+[38] In computing the income of the Canaport Partnership with respect to its 2007 and 2008 fiscal periods, Repsol classified the cost of acquisition of the Terminal and the Jetty as properties falling in Class 43 of the Income Tax Regulations (the “Regulations”) and, consequently, claimed ITCs pursuant to subsection 127(5) of the Act with respect to those assets.
+[39] The Minister ultimately reassessed the Appellants for the 2007 and 2008 taxation years in June 2010 by determining that the Terminal was a plant and property that fell in Class 1(n) of the Regulations, which does not attract ITCs pursuant to subsection 127(5) of the Act. The Minister also determined that the Jetty constituted property falling in Class 3(h) of the Regulations and that too did not attract ITCs.
+Issues [40] The overriding issue is whether the Terminal and the Jetty fall into Class 1(n) and Class 3(h) respectively for CCA purposes and, consequently, do not qualify for ITCs or whether these properties fall within Class 43 and do qualify for ITCs.
+[41] Before identifying the questions necessary to address that issue, I set out some legislative context and the Parties’ positions with respect to that legislation, as this clarifies how the analysis is to proceed. Next, I discuss the trilogy of cases the Respondent suggests are determinative of this issue. I then deal with the preliminary matter of whether the Jetty is to be categorized together with the Terminal for CCA and ITC purposes, as this too assists in focusing the analysis.
+Legislation and Regulations [42] Both Parties argued the legislative history of the provisions at issue is important. This really goes to the contextual interpretation of Class 1(n). The Respondent suggests that the context shows that this Class was intended to cover the regasification of natural gas machinery and equipment or plant, while the Appellants suggest the context shows that Class 1(n) was only ever intended for rate regulated public utilities, not plants such as the one before me. I have attached the pertinent legislation as Appendix 3.
+Class 1(n) [43] Class 1(n) is worth repeating here as it lies at the crux of the issue:
+Property not included in any other class that is
+(n) manufacturing and distributing equipment and plant (including structures) acquired primarily for the production or distribution of gas, except
+(i) a property acquired for the purpose of producing or distributing gas that is normally distributed in portable containers,
+(ii) a property acquired for the purpose of processing natural gas, before the delivery of such gas to a distribution system, or
+(iii) a property acquired for the purpose of producing oxygen or nitrogen;
+[44] Class 1(n) started life as Class 2(d), as part of the original Capital Cost Allowance Regulations in 1949 dealing with manufacturing and distributing equipment or plants of a producer or distributor or gas. The rate went from four to six percent in 1950, back down to four percent in 1990 when Class 2 was shifted to Class 1.
+[45] The Appellants point out that the White Paper on Tax Reform outlining the CCA change referred to the move from six percent to four percent (Class 2(d) to Class 1(n)) as being applicable to public utilities properties.
+(e) CCA for Buildings and Public Utility Property
+The CCA rates for Class 3 buildings and Class 2 public utility property will be reduced to 4 per cent on a declining balance basis from the current rates of 5 per cent and 6 per cent respectively. Subject to the grandfathering provisions described previously, the new CCA rates will be effective for acquisitions after 1987. However, post-1987 additions and alterations to a building eligible for the 5 per cent rate will also be entitled to the 5 per cent rate to the extent of the lesser of $500,000 and 25 per cent of the building’s capital cost at December 31 1987 or the date of completion of its construction, which is later.
+…
+Public utility property is depreciable on a 6 per cent declining balance basis. This includes electrical generating and distribution equipment, gas production and distribution equipment, water and heat distribution plants, and pipelines.
+Currently capital cost allowance deductions for these assets exceed book depreciation for most companies. This difference is one of a number of factors that results in little or no tax being paid by a number of profitable firms in those sectors. The reduced CCA rate for these assets will be more in line with actual depreciation, and will contribute to broadening the tax base.
+[46] The Appellants also referred me to Capital Cost Allowance in Canada, 2d edition (Toronto: CHH), which categorizes certain assets falling in Class 1 as “public utility equipment”.
+[47] Going back in time, in 1960, the natural gas processing exclusion was added; that is, the exclusion of processing before delivery to a distribution system (Class 1(n)(ii)). The Respondent suggests that such equipment was still distribution equipment, but carved out. With respect, the provision is awkwardly worded. You do not get to this exclusion unless you find the asset is distributing equipment, but then exclude it if it is actually processing equipment before it gets to a distribution system. How can it then be called distributing equipment in the first place? The Respondent could not provide an explanation for what this exclusion is meant to capture.
+[48] I prefer the Appellants’ view of Class 1(n)(ii) as simply clarifying what is not distributing equipment – processing equipment before distribution. The converse is that processing equipment that is part of a distribution system is considered distributing and not processing equipment. This view makes this awkward provision make some sense.
+[49] The Appellants go on to suggest that carving out processing equipment before distribution is consistent with the view that Class 1(n) applies to public utilities as processing before distribution would not be part of a public utility.
+[50] It is important to bear in mind that the purpose of the CCA provisions is to reflect the useful life of an asset and thus provide adequate recognition of capital costs. With respect to Class 1(n), the Appellants argue that the low four percent rate is more reflective of useful economic life in the case of rate regulated public utilities, as rate regulation effectively insures a long economic life. However, for a risky private venture such as the Canaport project, this is not realistic. The Appellants conclude therefore that Class 1 was not intended to apply to assets other than rate regulated public utilities.
+[51] The Appellants support this contextual view of Class 1(n) by a reference to what occurred when the Manufacturing and Processing (“M&P”) Tax Credit incentives were introduced in 1973. The Appellants argue that the incentives specifically excluded public utilities and Canadian field processing (processing in a field prior to delivery to a transmission pipeline) and thus, by inference, presumably applied to other forms of processing. The Appellants also argue that, as Class 2(d) (now Class 1(n)) was not coincidentally amended with the introduction of the incentives, that Class remained intended for public utilities only.
+[52] The Appellants draw a similar argument with respect to Canadian field processing equipment, which was excluded from the M&P tax incentives in 1997 and placed in Class 41(c). It would qualify instead for the resource allowance. This, according to the Appellants, suggests that, prior to this carve out, such equipment would be eligible for the M&P Credit where a non-public utility LNG plant would appropriately belong.
+[53] The Respondent’s position with respect to whether Class 1(n) is limited to rate regulated public utility assets is that “pubic utilities” are referenced in the Act, for example s. 125.1(3) of the Act, which states that, for purposes of s. 125.1 of the Act, M&P does not include “processing natural gas as part of the business of selling or distributing goods of operating a public utility”. Similar wording is also found in Regulation 1104(9)(i). Had the legislators intended to limit Class 2(d) (Class 1(n)) to public utilities, they would have done so. I agree.
+[54] I conclude there is no question that Class 1 applies to the rate regulated public utilities, but the contextual background has not satisfied me that it is limited only to public utilities. While statements in White Papers and academic references are helpful contextually, they are not determinative. I am satisfied, however, that the Class is intended for those assets akin to those of public utilities that do have a long economic life. This also accords with the nature of other assets found in Class 1.
+Class 49 [55] In 2005, Class 49 was introduced. The Respondent suggests this was a response to the trilogy of cases (Northern & Central Gas Corp. v R.,[1] Nova, an Alberta Corp. v R.,[2] Pacific Northern & Gas Ltd. v R.),[3] which I will discuss shortly. It is, more significantly, the first time a legislative distinction is drawn between distribution and transmission, applying the rate of eight percent to pipeline and ancillary equipment used for transmission (but not distribution). As was clear from the evidence, transmission relates to the larger long distance pipelines while distribution is for the smaller pipelines ultimately taking the natural gas to the consumer. This distinction is consistent with the distinction drawn by the industry itself.
+Class 51 [56] This Class was introduced in 2007. It too differentiates between transmission and distribution pipelines, applying a six percent rate to distribution pipelines. I note the Government’s Technical Notes with the introduction of this Class.
+Natural gas distribution pipelines are pipelines through which natural gas is carried from transmission pipelines to consumers. They include both distribution mains, which run to the edge of a customer’s property, and service lines, which run from the edge of the customer’s property to the house or building. Currently, natural gas distribution pipelines are eligible for a CCA rate of 4% under Class 1 of Schedule II to the Income Tax Regulations.
+Evidence indicates that a higher CCA rate would better reflect the useful life of natural gas distribution pipelines. Budget 2007 proposes to increase the CCA rate for these assets to 6% from 4%. Eligible assets will include control and monitoring devices, valves, metering and regulating equipment and other equipment ancillary to a distribution pipeline, but not buildings or other structures.
+Class 47 [57] Class 47 was amended in 2007 to add LNG plants. This clearly captures the Terminal and removes two-thirds of its cost from this lawsuit. It is certainly not lost on me that the amendment follows shortly on the heels of the refusal by the Government to provide an advance ruling requested by Canaport Partnership on this very issue. The Respondent refers to a Regulatory Impact Analysis Statement from the Government that indicates Class 47(b) was added to increase the CCA for LNG facilities to eight percent from four percent – the Class 1(n) rate. With respect, I find a Regulatory Impact Analysis Statement given in these circumstances of being aware of a significant project, and indeed being asked to rule on this very issue, is at best self-serving. I place no reliance on it as confirming that Class 1(n) was intended to include the Terminal. Frankly, the introduction of Class 47(b) would as readily be seen as concern from the Government that there was a significant risk the Terminal was not a Class 1(n) asset as it was a confirmation that it was a Class 1(n) asset.
+[58] There was a coincidental amendment to Class 29, which excluded Class 47(b) LNG facilities from qualifying for ITCs. The Appellants’ view is that this too shows the Government must have had some concern that there was a reasonable probability that at least some LNG plants would have been eligible for ITCs.
+Class 43 and the ITCs [59] Class 43 picks up assets acquired after February 25, 1992 that would otherwise be included in Class 29. Class 29, in turn picks up assets otherwise included in Class 8 provided they are used directly or indirectly in Canada primarily in the manufacturing or processing of goods for sale. The ITC provision in subsection 127(9) of the Act defines “qualified property” as including, among other things, prescribed machinery and equipment. Pursuant to Regulation 4600(2), prescribed machinery and equipment includes property that falls in Classes 29 and 43. Subsection 127(9) of the Act continues with the definition of “qualified property” to include property used for the purpose of manufacturing or processing goods for sale or lease, mirroring the text of Class 43 (and related Class 29) apart from the use of “directly or indirectly” which I find immaterial. It is clear that assets that fall in Class 43 qualify for the ITCs.
+[60] I also conclude from this legislative review that, if the Terminal and the Jetty (if to be considered together with the Terminal) are used primarily for processing, I must determine if that processing is part of distribution. This leads to a discussion of the three cases (Northern, Nova and Pacific), all decided before 1992, that the Respondent suggests are dispositive of this case.
+Jurisprudence [61] The Respondent argues the issue facing me has already been decided, referring to the Northern and Pacific cases. The Appellants distinguish those cases and suggest that Nova has not been specifically overturned by Pacific and can still be looked to for guidance.
+Northern [62] In this case, the only issue was whether in the years 1973 to 1977 an LNG plant located on a North South transmission line in Ontario fell into Class 2(d) (now Class 1(n)) or Class 8. There was no issue with respect to ITCs.
+[63] Both the Federal Court trial judge and the Federal Court of Appeal recognized the industry difference between distribution and transmission but shared the view that distribution as used in Class 2(d) was to be interpreted in a broad and general sense and, as put by the Federal Court of Appeal, not the “more restrictive construction corresponding to the distinction drawn in the natural gas industry between the transmission and distribution system”.
+[64] It is important to consider the facts of Northern to appreciate why “distribution” embodied the LNG plant. The plant was on a transmission line belonging to Northern. It was used to store natural gas bought by Northern in low demand periods for sale in high periods. The natural gas was stored in liquid form. The plant received the natural gas from a transmission pipeline in gaseous form, removed impurities, converted it to liquid, stored it and, in high demand periods, reconnected it to a pipeline in gaseous form for ongoing transmission.
+[65] The Appellants argued that storage is not distribution in any sense and also that Class 2(d) followed the industry meaning of distribution: both arguments were rejected at the Federal Court of Appeal.
+[66] What is evident though, and acknowledged by the Federal Court trial judge is that, while one might classify what went on as processing, it was processing only for purposes of storage, which is part of a general distribution.
+[67] The Federal Court of Appeal mentioned the next case, Nova, which had been appealed but not been heard, commenting that it was a “somewhat different factual situation”.
+Nova [68] This case involved compressor equipment of Nova, an Alberta Corporation, (“Nova”) a company in the business of the transmission of natural gas. The Federal Court of Appeal acknowledged the four aspects of the natural gas industry, being exploration, production, transmission and distribution. The transmission was done through mainline pipes, for which compressors were required at intervals. There were meters measuring the natural gas volumes with both inlet and outlet valves, as well as yard pipes and metering pipes connecting everything. These pipes and valves were the assets at issue. The Federal Court of Appeal indicated:
+The parties agree that the sole function of the pipes and valves in issue relate to the compressor stations is to move the natural gas from the pipeline into the compress or unit where it is compressed to facilitate its transmission and then to move the natural gas back to the pipelines.
+[69] Again, the issue was whether the proper categorization of the assets at issue was Class 2 or Class 8, which the Federal Court of Appeal described as whether the pipes and valves “located between the inlet and outlet connections of the main pipeline and to and from the compressor station (and metering facilities) are to be treated as integral parts of the “Pipeline” or of the compressor station (or the metering facilities), for the purposes of capital cost allowance.”
+[70] The Federal Court of Appeal acknowledged the distinction drawn by industry between distribution and transmission and relied on this distinction to conclude that distribution does not include, and is different from, transmission. The court found that a compressor station or metering facilities were not part of a pipeline. It consequently found that the assets did not fall in Class 2 but they rather fell in Class 8.
+[71] The court went on to discuss the Crown’s alternative argument that the equipment was distributing equipment. The court declared it was not disputed that Nova’s sole business was transmitting natural gas produced and owned by others, rather than distributing, which the court described as conveying gas to individual user lines – a different function. It found that Nova was not in the business of distributing as that term was meant in the industry or even under a dictionary definition. The court distinguished Northern as follows:
+On those facts then, this case differs from those involved in Northern and Central Gas Corporation Limited" The Queen, (1987) 2 C.T.C. 241 at 245. Unlike the Respondent here, the appellant in that case purchased natural gas from a gas transmission company for delivery to it near North Bay, Ontario, and from where it was transported on a transmission line owned by it. A liquified natural gas plant also owned by the appellant was used to store the natural gas purchased by the appellant in low-demand periods for sale to the appellant's customers during high demand months. The gas was stored in liquid form for reconversion and delivery to its customers. In these circumstances, this court found that the liquified natural gas plant there in issue was "acquired primarily for the distribution of gas." Here, no matter whether the dictionary or industry meaning of "distribution" or "distributing" is utilized, the Respondent is not engaged there in. The pipes and valves in issue, consequently, are neither manufacturing nor distributing equipment. Neither were they acquired primarily (or otherwise) for the production or distribution of gas. The two preconditions for the classification of property under Class 2(d) of Schedule B have not, therefore, been met. The Appellant thus fails on the second ground of its appeal.
+Pacific [72] Pacific Northern Gas Ltd (“Pacific”) was in the business of buying, transmitting and distributing gas to its customers in British Columbia. It bought gas at Summit Lake, B.C. and transported it through its pipeline westward to Prince Rupert. Along the way, it serviced customers through bilateral lines running North and South from the mainline. The issue was the classification of compressor stations that Pacific used to transport the gas at high pressure through the main pipeline and feed it into lateral lines, before ultimately distributing gas to industrial, commercial and residential customers at a much lower pressure. It may be inferred Pacific operated a public utility.
+[73] The trial judge was faced with both the Northern and Nova precedents understating the situation as a “fine kettle of fish” and also as being irreconcilable. Nevertheless, the judge attempted to distinguish the cases as follows:
+30. 1. Nova is in the business of transporting gas as a common carrier. It does not distribute gas in the sense understood in the industry. Its role is to gather gas from producers, transmit it though its extensive grid system throughout Alberta and deliver it to the owners at the end of the line. For this transmission service, it charges a fee or a toll.
+31. 2. Northern and Central, as well as the plaintiff before me, are not in the business of carrying someone else's gas. Northern and Central buys its gas at North Bay from TransCanada Pipelines and thereafter it owns the gas passing through its system to the ultimate customer. The plaintiff buys its gas from Westcoast Transmission at Summit Lake and thereafter its operations are identical.
+32. Would this be the kind of distinction which would resolve the jurisprudential conflict before me?
+[74] The court ultimately fell off the fence in favour of Northern:
+43. In my view, Class 2(a) sets the leitmotif for a proper appraisal of the meaning ascribable to the subsequent paragraphs in that class. Class 2(a) speaks of pipelines which includes, of course, a natural gas pipeline and provides for it a depreciation rate of six percent. Class 2(d) speaks of equipment primarily acquired for the production or distribution of gas. I should find in that respect that natural gas being ordinarily moved or distributed by pipeline, compression stations are part of its appendage. This would indicate to me a legislative intention to place both the pipeline and its equipment in the same class. It would also indicate to me that by referring in the regulation to the two functions of "production" and "distribution" in paragraph (d), by excluding other property in sub-paragraphs (i), (ii) and (iii) and specifically, by excluding processing equipment before delivery to a distribution system, the legislative intent was to place in Class 2 all pipeline equipment whether used in the production of gas, the transmission of gas or the distribution of gas.
+44. In that sense, the concept of transmission or distribution, for purposes of the enactment, could be said to be interchangeable or co-extensive; the reality of any pipeline system is that the process of transmission involves distribution and the process of distribution involves transmission, the whole notwithstanding the prescriptive norms otherwise applicable in the natural gas industry.
+[75] On appeal, the Federal Court of Appeal said succinctly:
+In our opinion, the reasoning on which this court based its decision in Northern and Central Gas Corporation is sound and must be preferred to the reasons subsequently given in the case of Nova.
+[76] What do I take from these cases? First, the facts of the cases are not identical to the facts before me. The Respondent would have me conclude that a regasification plant is a regasification plant in any context and that the Federal Court of Appeal had decided that, as such, it is part of the distribution of natural gas. Not so fast.
+[77] The Appellants rightly noted that the regasification plant in Northern was a peak shaving plant, a plant on a transmission line used simply to store natural gas to smooth out peaks and valleys in the market. This was found to be a part of distribution rather than processing. While the courts gave a broad generic interpretation of distribution, rather than the industry view, to be clear the cases only dealt with pipelines coming in and pipelines going out.
+[78] Next, these cases did not deal with the ITCs because they involved public utilities, which were specifically excluded from those incentives.
+[79] Third, Pacific seemed to grapple with distinguishing the Nova and Northern cases on the basis that one was in the business of transporting gas (Nova), while the other was is in the business of distributing its own gas to customers (Northern).
+[80] Fourth, in Pacific, the trial judge appears to have lumped the compressor system in with the pipeline itself, which from a layman’s perspective seems understandable as they may appear simply as warts on a pipeline, being the equipment actually transporting the gas.
+[81] The Pacific trial judge’s conclusion is at best guarded:
+This is an anomaly which, unfortunately, cannot be immediately resolved. It is a situation forged through a classic Scylla and Charybdis experience.
+[82] The Federal Court of Appeal’s brevity of decision referring to Northern reasoning as sound and preferred to Nova reasoning is not, I respectfully suggest, a ringing endorsement of one and the condemnation of the other.
+[83] Further, and significantly, the courts in Northern and Pacific decided the cases in a legislative environment devoid of any distinction between distribution and transmission. The introduction of classes distinguishing distribution from transmission, which came into force after these decisions, reflects a legislative move toward a recognition of the industry view concerning the distinction between those terms.
+[84] I conclude that Northern and Pacific are not dispositive of this issue. Certainly, the introduction of Class 47(b) has legislated the issue away, but prior to that there is, I respectfully suggest, some uncertainty in classifying the Terminal, which requires a closer look at the distinguishing facts between the cases.
+Jetty [85] I now turn to the preliminary matter of whether the Jetty should be lumped together with the Terminal for purposes of determining into which class it falls. This is a matter of determining if the Jetty is effectively integral to the operation of the Terminal. The Respondent argues no, because the Jetty was a multipurpose Jetty allowing for the berthing of natural gas tankers and crude oil tankers and therefore cannot be viewed as integral to the Terminal operations alone. I disagree.
+[86] In Nowsco Well Service Ltd. v Her Majesty the Queen[4] the Federal Court addressed whether assets of an oil well servicing business qualified for the ITCs. The Minister’s approach was to fragment the operation into segments and, in so doing, remove certain of the company’s assets from the “processing” operation that were critical to obtaining the ITCs. The court found that each function involves some form of processing and that includes “all equipment that is both necessary and ancillary to the processing operation.” Although I will address later whether what was going on at Canaport was processing, what matters in determining whether the Jetty is considered part of the Terminal is whether it was necessary and ancillary to the Terminal’s operation. The court agreed with Nowsco’s counsel’s submission:
+To wrap up, counsel for the plaintiff states and I agree:
+... this problem disappears, if one accepts what I call the practical, business like approach, because in my submission, the activities in question constitute a continuous process and all aspects -- the blending, mixing, pressurizing, and pumping -- are really, when one looks at it form the point of view of participants, part of the same continuous process. ... The practical approach is one which accords with the business reality. It's one that can be readily understood and applied, both by the taxpayer and the tax department.
+Thus the plaintiff is engaged in processing of goods for sale or lease and is entitled to the taxation benefits of section 125.1 of the Act. Second, mixing and blending are not separate and distinct from pressurizing and pumping.
+[87] Appellants’ counsel referred me to several other cases with a similar theme of an “integral totality” (Roy Legumex Inc. v The Minister of National Revenue,[5] Midland Transport Limited v Her Majesty the Queen,[6] Bunge of Canada Ltd. v Her Majesty the Queen,[7] Continental Lime Ltd. v Her Majesty the Queen,[8] and H.B. Barton Trucking Ltd v Her Majesty the Queen)[9] but one that I found particularly on point is Gaston Cellard Inc. v Her Majesty the Queen.[10] One of the issues in that case was whether the cost of a concrete foundation to secure a weigh scale was part of the mill’s processing equipment for purposes of the ITCs. Justice Tardif found the weigh scale was useless until installed on a foundation: to be operational, it had to be attached to a concrete foundation. The foundation was part of the processing.
+[88] Applying these principles to the connection between the Jetty and Terminal, can the Jetty be considered ancillary and necessary, and part of the integral totality of the operation occurring at the Terminal? Yes. The Jetty provides the foundation for the first step in the overall operation to take the LNG through to a specified composition of gas entering the Brunswick Pipeline. I am particularly swayed by the monitoring mechanisms that were part of the Jetty that enabled the plant operators to determine the safety of the overall operation and, indeed, shut it down if there were any concerns. I cannot imagine anything more integral.
+[89] Also, as in Gaston, the Jetty provides the foundation for the unloading arms and pipeline that are not operational without attachments to the Jetty.
+[90] Is the Jetty precluded from being considered part of the Terminal by the fact it has a multi-use purpose? This must be put in perspective. The Jetty was built primarily for the purpose of accommodating the LNG operation. Irving required an option to equip it for purposes of berthing crude oil tankers, which it ultimately did. But at the time of construction the intended use was primarily for LNG and, subsequently, a very minor allotment of crude oil, but even then only if there could be sufficient accessibility depending on the amount of LNG activity. I do not find these circumstances detract from my finding that the Jetty was integral to the operation at the Terminal.
+[91] The practical effect of this conclusion is that, if I find the Terminal falls in Class 43, then so too does the Jetty.
+[92] What I have concluded from the legislative review and case law is that I must first determine whether what took place at the Terminal was processing and, if so, whether it was processing as part of distribution, such as processing for storage, or processing before distribution as part of processing goods for sale.
+[93] A minor point which I will briefly address before proceeding with the analysis is whether the assets that make up the Terminal and Jetty constitute machinery and equipment or structure. Although Mr. McCue addressed this in his argument, the Respondent did not suggest otherwise and I therefore accept that the assets constituting the Terminal and Jetty are structures or equipment for CCA purposes.
+[94] The starting point, then, is to consider whether what occurred at the Terminal and Jetty was processing. The Respondent’s position is simple: the activities at the Terminal fit squarely in the distribution chain, permitting and ensuring the flow of natural gas from the Jetty to the Canada-U.S. border. The Respondent maintains that the natural gas is not transformed into anything different nor is its marketability increased; consequently, Repsol was not engaged in processing, but rather distribution.
+[95] The Appellants’ position is that, not only does what occurred at the Terminal and Jetty constitute processing, being predetermined steps that result in a significant change in the goods, generally making them more valuable, but it was processing goods for sale, not part of distribution.
+[96] What then is meant by “processing”? In the case of Federal Farms Ltd. v Minister of National Revenue,[11] Justice Cattanach was dealing with the preparation and packaging of vegetables, entailing sizing, cleaning, spraying, drying, inspecting, bagging and shipping. He found the term “manufacturing and processing” should be construed in its general, ordinary and “unrestricted” sense, going on to say:
+… For this reason, I do not accept the definition put forward by Mr. Long that processing connotes a material change being made in the texture and structure of the product.
+[97] The court indicated that a broad dictionary definition was “to treat, prepare or handle by some special method,” concluding that given the importance of grading, cleaning and packaging, processing had indeed occurred.
+[98] In the case of Tenneco Canada Inc. v Her Majesty the Queen,[12] the Federal Court of Appeal relied on the Federal Farms case for the proposition that processing required some increased marketability. It also concluded that a second element to a finding of processing was a change in form, appearance or other characteristic of the goods. Justice Linden stated:
+Processing occurs when raw or natural materials are transformed into saleable items. Such raw or natural materials are unsaleable, or would sell for a lesser price, in their unprocessed state. Thus, gravel treated by washing, drying and crushing becomes more valuable (Nova Scotia Sand and Gravel Ltd. v The Queen, [1980] C.T.C. 378, 80 D.T.C. 6298 (F.C.A.)), as do vegetables prepared by washing, brushing, spraying and packing (Federal Farms v Minister of National Revenue, supra). Both of these operations are processing. Furthermore, processing implies uniformity; the same process or a highly similar one, is usually applied to each item treated (Vibroplant v Holland, [1982] All E.R. 792 (C.A.)).
+[99] He also added a proviso:
+Only those operations which significantly change the character of the goods can truly be described as “manufacturing” or “processing” so as to qualify for the special tax incentives.
+[100] The court concluded that assembling and installing exhaust systems was not processing, as it did not change the form, appearance or characterization of the pipes or parts used in the exhaust system.
+[101] In the case of Continental Lime, the court held that the M&P tax credit provisions were “intended to be a tax incentive to assist manufacturers and processors to maintain a competitive position creating and protecting Canadian jobs,” and consequently gave the term a broad interpretation. It found that processing included, in this case involving the crushing of limestone, the transportation of the uncrushed limestone by truck to the crusher, stating:
+Why penalize the appellant for having to transport the product eight miles. The purpose of the legislation is to assist manufacturers and processors. A narrow interpretation of manufacturing and processing unnecessarily restricts that intention.
+[102] So what I take from these cases vis-à-vis the meaning of “processing” is the following:
+1. The term “processing” should be given a broad interpretation;
+2. There must be some change to the goods; and
+3. The change must render the goods more marketable.
+[103] While the Respondent points out that the Partnership Agreement does not describe what goes on at the Terminal as processing, it does, however, list in some detail the various activities, processes if you will, that are to occur. I read nothing into the fact that the term itself was not used in the agreement, and, indeed, on the computer screens and in the manuals the term process is used often.
+[104] Applying a broad interpretation to processing, it is easy to conclude that the various steps the goods underwent at the Terminal and the Jetty constitute a process. The movement of the goods from the Jetty to the Brunswick Pipeline passing through the numerous safety checks and the differing tanks, pipes and vaporizers can only be described as a process, and therefore, in a general sense, processing. But what is key in determining if it is processing for purposes of the issue before me is not so much an identification of the various sophisticated steps in the process, but the effect of those steps on the goods themselves: that is, the effect on the form and the effect on the marketability.
+[105] With respect to the form, the Respondent argues that the goods arrive at the Jetty as natural gas and leave as natural gas, and going from liquid form to gaseous form is not sufficient to constitute the change contemplated by the case law. The Crown relies on the 1972 Federal Court of Appeal decision in Consumer’s Gas Company et al v Deputy Minister of National Revenue for Customs and Excise[13] where the court, in dealing with the term “manufacturing and production”, stated the following:
+In my view, merely changing the pressure of natural gas, when it is a reversible act such as it appears to be in this case, cannot, within the ordinary sense in which the words are used, be regarded as either “manufacture” or “production”.
+[106] With respect, there is a significant difference between production and processing, as there is between changing the pressure of natural gas and changing its form and composition.
+[107] To accept the Respondent’s view that there is no significant change between the goods arriving at the Jetty and the goods entering the Brunswick Pipeline is to find that natural gas is natural gas is natural gas. We had a discussion at the hearing with respect to an analogy to water, Respondent’s counsel suggesting that water is water is water. I disagreed, citing the possibility of two municipalities side by side, one which requires fluoride in the town’s water and one which forbids fluoride in the water. It is my view they are not the same, something has had to have happened to one to in fact distinguish it from the other. It is inaccurate to suggest water is water is water.
+[108] With respect to the LNG arriving at the Jetty and the natural gas in gaseous form entering the Brunswick Pipeline, there is obviously the difference in form. That is significant. But, more importantly, the evidence satisfies me there is a change in chemical composition. The Respondent argues it is only a little bit: over 90% is still methane. My take on the evidence, however, is that even slight changes in the percentage of the small percent of other chemicals in natural gas can have a significant impact on combustibility, for example.
+[109] The Respondent put little stock in the concept of “blending”; yet again the evidence satisfied me this was a critical part of the process. The operating manual went into great detail with respect to the blending process. Mr. Azcarraga was clear it was necessary to meet the specifications required to enter the Brunswick Pipeline. This was a process and a process that changed the very composition of the goods.
+[110] The Respondent argued this was simply not significant, contrasting it to “straddle plants”, which IT-145R suggests do constitute processing; the difference being that straddle plants extract other gases (propane and butane) from the natural gas. The straddle plant is found in the middle of a transmission line but it produces different products and thus qualifies. I accept there is a difference between the straddle plant and the regasification plant at issue before me, but the difference goes to degree. My understanding of the test for processing is not that it must produce new products, but simply change the product. I find there is a change to the goods arriving at the Jetty and entering the Brunswick Pipeline sufficient to meet the first requirement for processing.
+[111] Have the goods become more marketable? The Respondent argues that marketing is not the same as simply an increase in value. That may be something of a fine distinction. In Tenneco, the Court of Appeal stated:
+Processing occurs when raw or natural materials are transformed into saleable items. Such raw or natural materials are unsaleable, or would sell for a lesser price, in their unprocessed state. Thus gravel treated by washing, drying and crushing becomes more valuable as do vegetables prepared by washing, brushing, spraying and packaging. Both of these operations are processing. Furthermore, processing implies uniformity; the same process or a highly similar one, is usually applied to each item treated.
+[112] There was certainly a uniform process with respect to the treatment of natural gas. I am also satisfied that the natural gas going into the Brunswick Pipeline was worth more than the LNG arriving at the Jetty. Further, I am satisfied it went from being non-marketable in the North American market in the state in which it arrived at the Jetty, to being marketable, having gone through the process at the Jetty and Terminal.
+[113] I conclude that what went on at the Jetty and the Terminal was not only processing from the point of view of the man in the street, but also meets both arms of the test for processing as that term is defined by case law for purposes of the income tax legislation.
+[114] Finally, then, and what is at the crux of this case, is whether the processing that occurred is processing of goods for sale or processing for storage that is simply part of the distribution chain. As I clarified earlier, this is not the same situation as a plant in the middle of a transmission line holding goods until the market justifies their release. This is a receipt of a product from offshore that is prepared for market in North America. The Respondent argues it is not processing for market but, if processing at all, processing as part of the distribution chain in the North American market. I disagree.
+[115] The situation before me is unlike the case of Northern, where Justice Reed acknowledged that what went on at the regasification plant on the transmission line might be processing, but simply processing for storing it along the distribution chain until the market justified its release: in effect, a stop along the way. My reading of the evidence in the case before me is that the distribution, even in the general sense adopted by the Northern and Pacific cases, did not start until the natural gas entered the Brunswick Pipeline.
+[116] If I were to adopt the industry interpretation of distribution, the distribution did not even start at the Brunswick Pipeline.
+[117] I do not feel it is necessary to redefine “distribution” for purposes of this case to find on behalf of the Appellants, given the Federal Court of Appeal’s declarations in Northern and Pacific. That would more appropriately be the task of the Federal Court of Appeal. I do, however, want to express my view as I believe the legislative landscape today is much different than it was when these cases were decided. The legislators have now incorporated the industry difference between distribution and transmission into the CCA system, and that recognition, if applied to the fact situation before me, would definitely result in a finding that what went on at the Jetty and the Terminal was long before distribution of the gas, and, therefore, assets at the Jetty and the Terminal could not possibly be considered distributing equipment.
+[118] So much in the law hangs on slight nuances in the interpretation of words: in this case, does “distribution” describe the processing activity at the Terminal and the Jetty, or is the processing more aptly the preparation of goods for sale or processing before distribution? This may go to the purpose. If two purposes can be found, which purpose trumps the other? In Northern, there was just the one purpose of holding the goods on the transmission line until prices justified moving them on. On balance, this certainly smacks more of being part of a delivery or distribution system than preparing for sale.
+[119] But here, the goods have just landed in North America, the potential market for the goods. Yes, the goods must be made ready for distribution, in its broadest sense, but the goods also have to be made marketable. There thus appear to be two purposes. Regasifying the product with nothing more may be processing for purpose of delivery to a distribution system. But that is not all that went on at the Terminal and the Jetty for, as I concluded earlier, the process made the product marketable.
+[120] But, frankly, even if it was processing for readiness for delivery, is that not the very exception found in Class 1(n)(ii)? Or, are the Jetty and the Terminal part of a distribution system? If they are, I harken back to my concerns regarding the meaning of the Class 1(n) exclusion. What “processing before delivery” could the exclusion be referring to, if not this, the receipt of goods in Canada and making them ready for marketing across North America? What other possible processing occurs after field processing and before delivery to a distribution system? I was provided no answer. This suggests to me that distribution, again in its broadest sense, commences, at the earliest, when the goods first enter the transmission pipeline.
+[121] I reach this conclusion for two reasons; first that the main purpose of the processing was to render the natural gas marketable (ie. for sale), and second that the processing before delivery exclusion can only make sense if the distribution starts with the transmission line (or, if I were to follow the industry view, the distribution line). I conclude the Terminal and the Jetty assets are not distributing equipment captured in Class 1(n).
+[122] Is this finding precluded because it was not the Canaport Partnership goods for sale? No, provided the goods ultimately are for sale. This position appears to have been adopted by the Canada Revenue Agency which states in IT-147R3:
+3. For property to be eligible for inclusion in Class 39 or Class 40 (or Class 29 for acquisitions prior to 1988), the taxpayer must acquire or manufacture the property to be (a) used directly or indirectly by the taxpayer in Canada primarily in the manufacturing or processing of goods for sale or lease…
+12. The manufacturing or processing activities referred to in 3 above must be carried out on goods for sale or lease, however, the manufacturer or processor of the goods does not necessarily have to be the vendor of the goods.
+Conclusion [123] In summary, while I do not accept the Appellants’ argument that Class 1(n) is limited solely to public utilities, I do find it is implicit that it is directed to those assets which have a long economic life. A private enterprise, such as the Canaport Partnership, entering a risky venture in what some might describe as a volatile energy market, faces anything but a certain long economic life. The assets may physically endure for many years, but, as has been borne out, the economic life of the assets may be brief.
+[124] Class 1(n) is for distributing equipment, not for equipment used in processing natural gas before delivery to a distribution system. That exclusion in found Class 1(n)(ii) clarifies what is not distributing equipment. The Jetty, integral to the operation at the Terminal, and the Terminal are not part of a distribution system, which commences at its earliest at the entry into the transmission lines. What went on at the Jetty and the Terminal was processing. The processing was not part of distributing, but prior to distribution and more appropriately processing goods to prepare them for sale. The assets of the Jetty and the Terminal are not to be classified in Class 1(n) but fall into Class 43 and are therefore eligible for the ITCs.
+[125] The Appeals are allowed and referred back to the Minister for reconsideration and reassessment on the basis that the Terminal and the Jetty are Class 43 assets and are eligible for the ITCs. Costs to the Appellants.
+Signed at Ottawa, Canada, this 27th day of January 2015.
+“Campbell J. Miller”
+C. Miller J.
+APPENDIX 1
+APPENDIX 2
+APPENDIX 3 Income Tax Regulations, CRC, c 945
+Reg. Cl 1
+Property not included in any other class that is
+(n) manufacturing and distributing equipment and plant (including structures) acquired primarily for the production or distribution of gas, except
+(i) a property acquired for the purpose of producing or distributing gas that is normally distributed in portable containers,
+(ii) a property acquired for the purpose of processing natural has, before the delivery of such gas to a distribution system, or
+(iii) a property acquired for the purpose of producing oxygen or nitrogen;
+Reg. Cl 8
+Property not included in Class, 1, 2, 7, 9, 11, 17 or 30 that is
+(a) a structure that is manufacturing or processing machinery or equipment;
+(b) tangible property attached to a building and acquired solely for the purpose of
+(i) servicing, supporting or providing access to or egress from, machinery or equipment,
+(ii) manufacturing or processing, or
+(iii) any combination of the functions described in subparagraphs (i) and (ii);
+Reg. Cl 29 (prior to March 2007)
+Property not included in Class 41 because of paragraph (c) and (d) of that Class that would otherwise be included in another class in this Schedule.
+Reg. Cl 29
+Property not included in Class 41 because of paragraph (c) and (d) of that Class that would otherwise be included in another class in this Schedule
+(a) that is property manufactured by the taxpayer, the manufacture of which was completed by him after May 8, 1972, or other property acquired by the taxpayer after may 8, 1972,
+(i) to be used directly or indirectly by him in Canada primarily in the manufacturing or processing of goods for sale or lease, or
+Reg. Cl 43
+Property acquired after February 25, 1992 that
+(a) is not included in Class 29, but that would otherwise be included in that Class if that Class were read without reference to subparagraphs (b)(iii) and (v) and paragraph (c) thereof; or
+(b) is property
+(i) that is described in paragraph (k) of Class 10 and that would be included in that Class if this Schedule were read without reference to this paragraph and paragraph (b) of Class 41, and
+(ii) that, at the time of its acquisition, can reasonably be expected to be used entirely in Canada and primarily for the purpose of processing ore extracted from a mineral resource located in a country other than Canada.
+Reg. Cl 47 (prior to March 18, 2007 Property acquired after February 22, 2005, that is transmission or distribution equipment (which may include for this purpose a structure) used for the transmission or distribution of electrical energy, other than
+(a) property that is a building; and
+(b) property that has been used or acquired for use for any purpose by any taxpayer before February 23, 2005.
+Reg. Cl 47 Property that is
+(a) transmission or distribution equipment (which may include for this purpose a structure) acquired after February 22, 2005 and that is used for the transmission or distribution of electrical energy, other than
+(i) property that is a building, and
+(ii) property that has been used or acquired for use for any purpose by any taxpayer before February 23, 2005; or
+(b) equipment acquired after March 18, 2007 that is part of a liquefied natural gas facility that liquefies or regasifies natural gas, including controls, cooling equipment, compressors, pumps, storage tanks, vaporizers and ancillary equipment, loading and unloading pipelines on the facility site used to transport liquefied natural gas between a ship and the facility, and related structures, other than property that is
+(i) acquired for the purpose of producing oxygen or nitrogen,
+(ii) a breakwater, a dock, a jetty, a wharf, or a similar structure, or
+(iv) a building.
+Reg. Cl 49 (come into effect in 2005)
+Property that is a pipeline, including control and monitoring devices, valves and other equipment ancillary to the pipeline, that
+(a) is acquired after February 22, 2005, is used for the transmission (but not the distribution) of petroleum, natural gas or related hydrocarbons, and is not
+(i) a pipeline described in subparagraph (l)(ii) of Class 1,
+(ii) property that has been used or acquired for use for any purpose by any taxpayer before February 23, 2005,
+(iii) equipment included in Class 7 because of paragraph (j) of that Class, or
+(iv) a building or other structure; or
+(b) is acquired after February 25, 2008, is used for the transmission of carbon dioxide, and is not
+(i) equipment included in Class 7 because of paragraph (k) of that Class, or
+(ii) a building or other structure.
+Reg. Cl 51 (come into effect in 2007)
+Property acquired after March 18, 2007 that is a pipeline, including control and monitoring devices, valves and other equipment ancillary to the pipeline, used for the distribution (but not the transmission) of natural gas, other than
+(a) a pipeline described in subparagraph (l)(ii) of Class 1 or in Class 49;
+(b) property that has been used or acquired for use for any purpose by a taxpayer before March 19, 2007; and
+(c) a building or other structure.
+____________________________________________
+Income Tax Act, RSC 1985, c 1 (5th Supp), as amended to 2007:
+s. 127(9)
+“investment tax credit” of a taxpayer at the end of a taxation year means the amount, if any, by which the total of
+(a) the total of all amounts each of which is the specified percentage of the capital cost to the taxpayer of certified property or qualified property acquired by the taxpayer in the year,
+…
+“qualified property” of a taxpayer means property (other than an approved project property or a certified property) that is
+…
+(b) prescribed machinery and equipment acquired by the taxpayer after June 23, 1975, that has not been used, or acquired for use of lease, for any purpose whatever before it was acquired by the taxpayer and that is
+(c) to be used by the taxpayer in Canada primarily for the purpose of
+(i) manufacturing or processing goods for sale or lease,
+s 127(11)
+For the purposes of the definition “qualified property” in subsection (9),
+(a) “manufacturing or processing” does not include any of the activities
+(i) referred to in any of paragraphs (a) to (e) and (g) to (i) of the definition “manufacturing or processing” in subsection 125.1(3),
+S 125.1(3)
+“manufacturing or processing” - “manufacturing or processing” does not include
+(a) farming or fishing,
+(b) logging,
+(c) construction,
+(d) operating an oil or gas well or extracting petroleum or natural gas from a natural accumulation of petroleum or natural gas,
+(e) extracting minerals from a mineral resource,
+(f) processing
+(i) ore (other than iron ore or tar sands ore) from a mineral resource located in Canada to any stage that it not beyond the prime metal stage or its equivalent,
+(ii) iron ore from a mineral resource located in Canada to any stage that is not beyond the pellet stage or its equivalent, or
+(iii) tar sand ore from a mineral resource located in Canada to any stage that is not beyond the crude oil stage or its equivalent,
+(g) producing industrial minerals,
+(h) producing or processing electrical energy or steam, for sale,
+(i) processing natural gas as part of the business of selling or distributing gas in the course of operating a public utility,
+Income Tax Regulations, CRC, c 945, Reg. 4600
+(2) Property is prescribed machinery and equipment for the purposes of the definition “qualified property” in
+(k) a property included in Class 21, 24, 27, 29, 34, 39, 40, 43, 45 or 46 in Schedule II;
+CITATION:
+2015 TCC 21
+COURT FILE NO.:
+2012-1931(IT)G and 2012-1933(IT)G
+STYLE OF CAUSE:
+REPSOL CANADA LTD. AND HER MAJESTY THE QUEEN and REPSOL ENERGY CANADA LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+October 28, 29 and 30, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+January 27, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Robert D. McCue
+Counsel for the Respondent:
+Josée Tremblay and Darcie Charlton
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert D. McCue
+Firm:
+Bennett Jones LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1985] 1 CTC 2 (FC) and [1987] 2 CTC 241 (FCA) [Northern].
+[2] [1987] 1 CTC 265 (FC) and [1988] 2 CTC 167 (FCA) [Nova].
+[3] [1990] 1 CTC 469 (FC) and [1991] 1 CTC 469 (FCA) [Pacific].
+[4] 88 DTC 6300 (FCTD) and 90 DTC 6312 (FCA).
+[5] 90 DTC 1858 (TCC).
+[6] 94 DTC 1759.
+[7] 84 DTC 6276 (FAC).
+[8] 99 DTC 1154 (TCC).
+[9] 2009 TCC 376.
+[10] 2005 DTC 699 (TCC).
+[11] 66 DTC 5068 (Ex. Ct.) and 67 DTC 5311(SCC).
+[12] 91 DTC 5207 (FCA).
+[13] 72 DTC 6431 (FCA).

@@ -1,0 +1,133 @@
+Title: Jiang c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/421152/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-188-421152-jiang-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-09-03
+
+# Jiang c. La Reine
+
+- Citation: 2019 CCI 188
+- Decision date: 2019-09-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4208, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jiang c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-09-03
+Référence neutre
+2019 CCI 188
+Numéro de dossier
+2016-3885(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-3885(IT)I
+ENTRE :
+QIN JIANG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 14 juin 2019, à Montréal (Québec)
+et représentations écrites
+Devant : L'honorable juge Patrick Boyle
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocat de l'intimée :
+Me Me Emmanuel Jilwan
+JUGEMENT
+L’appel de la nouvelle détermination faite en vertu de la Loi de l’impôt sur le revenu pour l’année de base 2013 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour de septembre 2019.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2019 CCI 188
+Date : 20190903
+Dossier : 2016-3885(IT)I
+ENTRE :
+QIN JIANG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] La question en litige en l’espèce est de savoir si, à la suite de l’ordonnance de garde rendue par la Cour supérieure du Québec en décembre 2014, Mme Jiang était encore admissible à recevoir la prestation fiscale canadienne pour enfants (PFCE) pour ses enfants.
+[2] Mme Jiang et son ancien conjoint ont trois enfants. Le couple s’est séparé en juin 2014. La première ordonnance de garde rendue au mois de juin 2014, et la deuxième ordonnance de garde, rendue en août 2014, prévoyaient chacune la garde partagée des enfants. La garde exclusive des enfants a été accordée à leur père par la troisième ordonnance de garde, rendue au mois de décembre 2014.
+[3] Par suite de l’ordonnance du mois de décembre 2014, les enfants vivaient chez leur père, et leur mère avait un nouveau domicile tout près. Mme Jiang a continué à s’investir dans la vie de ses trois enfants. Les enfants étaient chez leur mère du vendredi au dimanche, une semaine sur deux. En outre, sa fille passait le jeudi seule avec sa mère. Comme Mme Jiang vivait à proximité, elle pouvait aussi recevoir les enfants pour le repas du soir deux fois par semaine. Parfois, sa fille lui rendait visite ou couchait chez elle-même plus souvent que ce qui est prévu par les modalités de l’accès.
+[4] Mme Jiang a continué à s’impliquer dans les domaines des soins de santé et des études des enfants; elle le faisait aussi en pourvoyant à d’autres besoins de ses enfants. Elle les emmenait également se faire coiffer et elle leur achetait certaines choses dont ils avaient besoin.
+[5] Bien que Mme Jiang soit une mère très dévouée et très investie, dans l’ordonnance de décembre 2014 de la Cour supérieure du Québec, la garde exclusive a été donnée au père des enfants et des droits d’accès ont été accordés à leur mère. Cette ordonnance a pour conséquence que Mme Jiang, après cette date, ne pouvait être un « particulier admissible » selon la définition à l’article 122.6 de la Loi de l’impôt sur le revenu et selon l’article 6302 du Règlement de l’impôt sur le revenu, puisqu’elle n’a pas satisfait aux deux premières exigences de la définition soit celles énoncées aux paragraphes a) et b). Ces paragraphes portent sur la personne avec qui des enfants résident et sur le parent qui assume principalement du soin et de l’éducation des enfants.
+[6] Les parties pertinentes des dispositions susmentionnées de la Loi et du Règlement sont jointes en annexe aux présents motifs.
+[7] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 3e jour de septembre 2019.
+« Patrick Boyle »
+Juge Boyle
+Annexe
+122.6 « particulier admissible » S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne — père ou mère de la personne à charge — qui :
+(i) assume principalement la responsabilité pour le soin et l’éducation de la personne à charge et qui n’est pas un parent ayant la garde partagée à l’égard de celle-ci,
+(ii) est un parent ayant la garde partagée à l’égard de la personne à charge;
+[…]
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l’éducation d’une personne.
+6302 Pour l’application de l’alinéa h) de la définition de particulier admissible à l’article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l’éducation d’une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d’un milieu sécuritaire là où elle réside
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l’organisation pour elle d’activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu’elle est malade ou a besoin de l’assistance d’une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d’être présent auprès d’elle et de la guider;
+h) l’existence d’une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+122.6 “eligible individual” in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is a parent of the qualified dependant who
+(i) is the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant and who is not a shared-custody parent in respect of the qualified dependant, or
+(ii) is a shared-custody parent in respect of the qualified dependant,
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing.
+[…]
+6302 For the purposes of paragraph (h) of the definition eligible individual in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+RÉFÉRENCE :
+2019 CCI 188
+Nº DU DOSSIER DE LA COUR :
+2016-3885(IT)I
+INTITULÉ DE LA CAUSE :
+QIN JIANG ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 14 juin 2019
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+le 3 septembre 2019
+COMPARUTIONS :
+Pour l'appelante :
+l'appelante elle-même
+Avocat de l'intimée :
+Me Emmanuel Jilwan
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada

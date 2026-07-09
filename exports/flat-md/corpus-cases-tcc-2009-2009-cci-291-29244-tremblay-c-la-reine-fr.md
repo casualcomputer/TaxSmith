@@ -1,0 +1,189 @@
+---
+title: "Tremblay c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29244/index.do"
+last_modified: "2009-04-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 291"
+citation2: ""
+neutral_citation: "2009 CCI 291"
+decision_date: "2009-04-29"
+language: "fr"
+item_id: "29244"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7015
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:56:08.236000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a0747da40210a4be32ec8668e2fed636ae71d67e3293bea7d399e0b2f8294416"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tremblay c. La Reine
+
+- Citation: 2009 CCI 291
+- Decision date: 2009-04-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7015, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-29
+Référence neutre
+2009 CCI 291
+Numéro de dossier
+2008-2550(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2550(IT)I
+ENTRE :
+ROBERT TREMBLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 29 avril 2009, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu (la « Loi ») pour l'année d'imposition 2004 est accueilli en partie, et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que la valeur aurait dû être établie à 16 600 $, soit 8 600 $ pour le terrain et 8 000 $ pour le bâtiment. Le tout, selon les motifs du jugement ci-joints. Les frais de dépôt de 100,00 $ seront remboursés à l’appelant.
+Signé à Ottawa, Canada, ce 28e jour de mai 2009.
+« Alain Tardif »
+Juge Tardif
+Référence : 2009 CCI 291
+Date : 20090528
+Dossier : 2008-2550(IT)I
+ENTRE :
+ROBERT TREMBLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel relatif à l’année d’imposition 2004. Les questions en litige sont indiquées au paragraphe 9 de la Réponse à l’avis d’appel et se lisent comme suit :
+a) Le Ministre a correctement établi à 14 063 $, le gain en capital imposable réalisé par l’appelant sur la vente du lot;
+b) Le Ministre a correctement déterminé à 6 987 $, la récupération d’amortissement.
+[2] Pour expliquer et ratifier le bien fondé de la cotisation, l’intimée a tenu pour acquis les hypothèses de fait suivantes, tel qu’énoncé au paragraphe 8 de la Réponse à l’avis d’appel :
+a) Le 5 février 1985, l’appelant a acheté un bien sis au 455, boulevard Jacques Bédard, Lac Saint-Charles, en la province de Québec (ci-après, le « bien »);
+b) Le bien a été acquis pour un coût de 56 000 $;
+c) Le bien était constitué d’un terrain sur lequel se trouvait un immeuble semi-commercial à l’avant et un garage à l’arrière;
+d) L’immeuble a permis à l’appelant d’établir son salon de coiffure au rez-de-chaussée et d’habiter à l’étage;
+e) Au contrat notarié :
+i) Aucune répartition n’a été effectuée quant à la valeur à attribuer aux deux bâtiments;
+ii) La transaction a été effectuée comme un tout;
+f) Relativement au bien; en 1994, l’appelant a :
+i) Fait des travaux sur le garage;
+ii) Procédé à la subdivision du lot acquis en 1985;
+ii) Loué le garage à son fils, pour exploitation commerciale;
+g) Le lot sur lequel se trouvait le garage, une fois subdivisé, portait le numéro civique du 459, boulevard Jacques Bédard, Lac Saint-Charles (ci-après, le « lot »);
+h) En 2004, l’appelant a vendu le lot à son fils à un prix total de 95 000 $, avec un solde de prix de vente de 15 000 $;
+i) Le Ministre a établi la répartition du coût du lot en 1985, comme suit :
+Description Montant
+Terrain 8 600 $
+Bâtisse 4 000 $
+Total 12 600 $
+j) Sur la base des pièces justificatives valides fournies par l’appelant, le Ministre a établi le montant total des travaux exécutés sur le lot à 49 000 $, réparti comme suit :
+Description Montant
+Travaux en 1994 12 000 $
+Travaux en 1997 27 000 $
+Travaux en 2003 10 000 $
+Total 49 000 $
+k) Le Ministre a ajouté le montant de 49 000 $, au prix de base rajusté du lot;
+l) Le Ministre a établi comme suit, la répartition du prix de vente du lot en 2004 :
+Description Montant
+Terrain 9 400 $
+Bâtisse 85 600 $
+Total 95 000 $
+m) Le Ministre a établi à 14 063 $, le gain en capital imposable sur la vente du lot pour l’année d’imposition 2004, calculé comme suit :
+Description Montant
+Produit de disposition 95 000 $
+Moins :
+Prix de base rajusté (61 600 $)
+Gain en capital 33 400 $
+Moins :
+Provision (5 274 $)
+Gain en capital 28 126 $
+Gain en capital imposable (50%) 14 063 $
+n) Au cours de la période à laquelle l’appelant a détenu le lot, le Ministre a accordé des déductions pour amortissement, pour un montant total de 6 987 $;
+o) Le Ministre a déterminé une récupération d’amortissement pour l’année d’imposition 2004, pour un montant total de 6 987 $, établie comme suit :
+Description Montant
+Fraction non amortie
+du coût en capital 46 013 $
+Moins :
+le moindre du :
+Coût en capital 53 000 $
+et du
+Produit de disposition 85 600 $ (53 000 $)
+Récupération (6 987 $)
+[3] L’appelant a admis la majorité des faits tenue pour acquis.
+[4] Au soutien de son appel, dont le fardeau de la preuve lui incombait, l’appelant a essentiellement fait valoir trois volets.
+[5] Dans un premier temps, il a fait valoir que la répartition du coût du lot en 1985, établi à 12 600 $ à savoir 8 600 $ pour le terrain et 4 000 $ pour le bâtiment n’était pas conforme. Pour valider son argument, il s’est référé à un compte de taxes de la municipalité établissant la valeur en 1995 à 17 000 $, montant réparti comme suit :
+Terrain 9 000 $
+Bâtisse 8 000 $
+Total 17 000 $
+[6] Partant de cette évaluation municipale pour l’année 1995, l’appelant a soutenu que la partie de l’immeuble dont les paramètres ont été définis à la suite d’une subdivision, avait plutôt, lors de son acquisition, une valeur de 20 000 $, l’entièreté de l’immeuble ayant été acquise pour la somme totale de 56 000 $.
+[7] Sur cet aspect, le responsable du dossier au niveau de l’opposition, M. Jean‑François Simard, a réitéré que la valeur était de 12 600 $ soit, 8 600 $ pour le terrain et 4 000 $ pour le bâtiment. Il a expliqué le cheminement suivi et conclu d’une manière arbitraire que cette partie représentait près de 23% du prix total payé soit 56 000 $, réfutant ainsi les arguments de l’appelant.
+[8] L’appelant a aussi fait valoir qu’il avait effectué des travaux pour un montant total de 16 600 $ en 1994, alors qu’il lui fût accordé seulement 12 000 $, 27 000 $ en 1997 et 10 000 $ en 2003. Pour les années 1997 et 2003, les montants accordés sont conformes aux sommes investies; par contre, l’appelant a fait valoir qu’il avait bel et bien déboursé 16 600 $ en 1994, et à cet effet, il a produit une liasse de factures pour démontrer le bien fondé de ses prétentions.
+[9] L’analyse des factures fait ressortir deux grandes lacunes; la première est à l’effet que plusieurs factures ne font pas référence au bâtiment concerné, soit le garage mais plutôt le salon de coiffure, exploité par l’appelant, situé sur le site original mais non sur le terrain subdivisé. Le deuxième constat, fait ressortir qu’il y avait parmi les composantes énumérées aux factures en question, des éléments ne constituant pas des dépenses de nature capital mais plutôt de dépenses courantes non pertinentes pour déterminer le coût en capital.
+[10] Sur cette deuxième question, il n’est pas nécessaire de faire une analyse très élaborée quant aux prétentions de l’appelant puisque ce dernier a lui-même indirectement reconnu la conformité des données prises en compte par l’intimée. Cela ressort clairement de l’état des résultats pour Les Immeubles C.I.T.R., pour la période du 1er septembre 1997 au 31 décembre 1997 préparé par Service Comptable Fontaine et signé par l’appelant lui-même, notamment à la rubrique « Coût des acquisitions et des réparations capitalisables 35 590,14 $ ».
+[11] Finalement, le dernier volet soulevé par l’appelant est qu’il prétend que le prix de vente de 95 000 $ n’est pas le montant qui devait être retenu pour le calcul du gain en capital imposable.
+[12] Il a expliqué que le montant avait été majoré dans le but de permettre à son fils, l’acheteur, d’obtenir le financement requis. Il a affirmé qu’il avait d’ailleurs donné une quittance sur paiement non pas de la balance du prix de vente convenu de 15 000 $, mais plutôt suite au paiement d’un montant de 3 000 $, soit une différence de 12 000 $. Il a donc soutenu que le prix de vente véritable avait été 83 000 $ et non 95 000 $.
+[13] Il s’agit là d’un argument qui ne peut être pris en compte puisqu’une entente privée entre deux personnes ne lie pas l’intimée qui doit s’en tenir au document formel, soit en l’espèce, le contrat notarié dûment enregistré qui fait foi de son contenu quant aux chiffres qui doivent être pris en compte pour l’établissement d’une cotisation.
+[14] Si l’appelant a subi une perte ultérieure, il devra compléter les formulaires appropriés, le tout n’ayant cependant rien à voir avec le présent dossier.
+[15] La preuve est à l’effet que le travail effectué par l’intimée dans le cadre des calculs pour établir la cotisation qui fait l’objet de l’appel a produit un résultat assez approprié.
+[16] Par contre, le premier segment a soulevé un certain questionnement à savoir si le montant attribué de 4 000 $ au bâtiment était raisonnable. L’appelant a fait valoir qu’il s’agissait là d’une évaluation non raisonnable, arbitraire et non conforme à la réalité.
+[17] Bien qu’il s’agisse là d’une façon assez discutable de relever un fardeau de preuve, il m’apparaît juste et équitable sur la foi du même raisonnement retenu par le vérificateur de faire droit en partie aux prétentions de l’appelant; conséquemment, j’attribue une valeur de 8 000 $ au bâtiment, soit une majoration de 4 000 $ pour une évaluation totale de 16 600 $ soit 8 600 $ pour le terrain et 8 000 $ pour le bâtiment.
+[18] En conclusion, l’appel est accueilli en partie; le dossier devra être retourné à l’Agence du Revenu du Canada afin que la cotisation soit modifiée en tenant pour acquis que la valeur aurait dû être établie à 16 600 $, soit 8 600 $ pour le terrain et 8 000 $ pour le bâtiment. Quant à tous les autres éléments, ils demeurent inchangés.
+Signé à Ottawa, Canada, ce 28e jour de mai 2009.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2009 CCI 291
+Nº DU DOSSIER DE LA COUR : 2008-2550(IT)I
+INTITULÉ DE LA CAUSE : ROBERT TREMBLAY ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 29 avril 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 28 mai 2009
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

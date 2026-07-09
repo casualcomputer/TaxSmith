@@ -1,0 +1,314 @@
+Title: Tozer v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26341/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-411-26341-tozer-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-06-22
+
+# Tozer v. The Queen
+
+- Citation: 2004 CCI 411
+- Decision date: 2004-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3288, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tozer v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-22
+Référence neutre
+2004 CCI 411
+Numéro de dossier
+2000-4979(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-4979(IT)I
+ENTRE :
+BUDROW TOZER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 5 avril 2004 à Miramichi (Nouveau-Brunswick)
+Par : L'honorable juge François Angers
+Comparutions :
+Représentant de l'appelant :
+Harold Parlee, c.a.
+Avocat de l'intimée :
+Me Christa MacKinnon
+____________________________________________________________________
+JUGEMENT
+Les appels sont accueillis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Edmundston (Nouveau-Brunswick), ce 22 e jour de juin 2004.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 1er jour de novembre 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI411
+Date : 20040622
+Dossier : 2000-4979(IT)I
+ENTRE :
+BUDROW TOZER,
+appelant,
+ET
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Les présents appels ont été interjetés dans le cadre des années d'imposition 1997 et 1998 de l'appelant. Lorsqu'il a calculé le revenu de l'appelant, le ministre du Revenu national (le ministre) a cotisé à titre de revenu une allocation que l'appelant a reçu de la part de son employeur au cours des deux années d'imposition. Le ministre a reconnu une partie des dépenses réclamées, mais il en a rejeté d'autres. L'appelant est en désaccord avec cela.
+[2] Au cours de ces deux années d'imposition, l'appelant était un employé de la United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry of the United States and Canada (le syndicat). En tant que tel, il n'exploitait pas d'entreprise, il ne travaillait pas à son compte et il ne recevait aucun revenu d'entreprise. Il n'était pas rémunéré à la commission, ni intégralement, ni en partie. De plus il ne recevait pas de rémunération en fonction du volume de ventes qu'il faisait ou du nombre de contrats négociés.
+[3] En 1997 et en 1998, l'appelant recevait une allocation fixe de la part du syndicat, au montant de 750 $US par semaine. L'allocation était incorporée au salaire de l'appelant et figurait dans les bordereaux T-4 du syndicat correspondant aux deux années d'imposition. L'appelant n'était pas tenu de soumettre au syndicat des reçus pour ses dépenses. Son contrat avec le syndicat prévoit, inter alia, les modalités suivantes :
+(1) le syndicat prévoit une allocation hebdomadaire fixe de 750 $ pour financer les dépenses et pour aider l'appelant à offrir les services suivants :
+a) les activités de divertissement et de promotion des intérêts du syndicat,
+b) le bureau et les services administratifs,
+c) les frais d'hôtel, de repas, de péages, de bac transbordeur et de véhicule automobile;
+(2) le syndicat payait les dépenses suivantes :
+a) le transport aérien,
+b) les lignes téléphoniques et de télécopie du bureau;
+(3) le syndicat a incorporé l'allocation dans le T-4 de l'appelant, à condition que l'appelant paye les impôts sur les dépenses supplémentaires;
+(4) l'allocation n'était pas censée faire partie du salaire de l'appelant, mais elle devait plutôt être utilisée pour aider l'appelant à payer les dépenses.
+[4] Le montant de l'allocation est fixé tous les cinq ans. Le poste exige beaucoup de déplacements pendant environ 200 jours par année. L'appelant voyage partout au Canada et à certains endroits des États-Unis. Lorsque l'appelant n'est pas en voyage, il travaille à la maison où il a installé un petit bureau. L'appelant se décrit comme une sorte de vendeur, puisqu'il doit faire beaucoup de promotion et entretenir continuellement de bonnes relations afin de générer des emplois. Afin de réaliser ces objectifs, il doit engager des dépenses puisqu'il paye souvent les repas de ses invités. Une partie des dépenses réclamées portent sur le coût des repas d'autres personnes.
+[5] Voici les deux questions en litige :
+(1) Le ministre a-t-il eu raison d'incorporer l'allocation versée par le syndicat à l'appelant à son revenu dans le cadre des deux années d'imposition?
+(2) Le ministre a-t-il eu raison de rejeter une partie des dépenses déduites du revenu de l'appelant dans le cadre des deux années d'imposition?
+[6] L'alinéa 6(1)b) prévoit qu'il faut ajouter l'allocation reçue par l'appelant lors du calcul du revenu de l'appelant, sauf en cas d'exclusion. Voici les parties applicables de la législation :
+6(1) Sont à inclure dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi, ceux des éléments suivants qui sont applicables :
+a) [...]
+b) les sommes qu'il a reçues au cours de l'année à titre d'allocations pour frais personnels ou de subsistance ou à titre d'allocations à toute autre fin, sauf :
+[...]
+(v) les allocations raisonnables pour frais de déplacement reçues de son employeur par un employé et afférentes à une période pendant laquelle son emploi était lié à la vente de biens ou à la négociation de contrats pour son employeur,
+[...]
+(vii) les allocations raisonnables pour frais de déplacement, à l'exception des allocations pour l'usage d'un véhicule à moteur, qu'un employé - dont l'emploi n'est pas lié à la vente de biens ou à la négociation de contrats pour son employeur - a reçues de son employeur pour voyager, dans l'accomplissement des fonctions de sa charge ou de son emploi, à l'extérieur:
+[...]
+pour l'application des sous-alinéas (v), (vi) et (vii.1), une allocation reçue au cours de l'année par le contribuable pour l'usage d'un véhicule à moteur dans l'accomplissement des fonctions de sa charge ou de son emploi est réputée ne pas être raisonnable dans les cas suivants:
+(x) l'usage du véhicule n'est pas, pour la fixation de l'allocation, uniquement évalué en fonction du nombre de kilomètres parcourus par celui-ci dans l'accomplissement des fonctions de la charge ou de l'emploi,
+[...]
+[7] Le montant reçu par l'appelant conformément à son contrat avec le syndicat correspond exactement à la disposition ci-dessus. Il s'agit d'une allocation mise à la disposition de l'appelant, à l'égard de laquelle il ne doit pas rendre de comptes et qui ne varie pas en fonction des dépenses réelles. La notion d'allocation a fait l'objet d'un commentaire du juge Archambault de cette Cour dans le cas Bertrand c. La Reine, C.C.I., no 94-98 (IT)I, le 2 décembre 1994 ([1996] 1 C.T.C. 2992) dont les faits sont très semblables aux faits en l'instance. Il en résulte que l'allocation en question doit indubitablement être ajoutée au revenu de l'appelant dans le cadre des deux années d'imposition.
+[8] De plus, pour que l'allocation ne soit pas incorporée au revenu de l'appelant dans le cadre des deux années d'imposition, elle doit faire partie des exceptions prévues aux sous-alinéas 6(1)b)(v), (vii) et (x), puisque le montant auquel l'appelant a droit doit répondre à ces conditions. Dans le cadre des faits en l'espèce, bien que les conditions de négociation de contrats sont satisfaites, l'allocation n'est pas divisée en catégories et par conséquent il est impossible de préciser le montant d'allocation destiné aux frais de déplacement; de plus, pour la fixation de l'allocation, l'usage du véhicule doit être évalué uniquement en fonction du nombre de kilomètres parcourus par celui-ci dans l'accomplissement des fonctions de la charge ou de l'emploi (voir sous-alinéa 6(1)b)(x)). Donc, en l'espèce, l'allocation est réputée ne pas être raisonnable et, par conséquent, elle doit être incorporée au revenu.
+[9] Après avoir conclu que le ministre a eu raison d'incorporer l'allocation de chaque année d'imposition au revenu de l'appelant, la question dont la Cour est saisie est de savoir si le ministre a eu raison de rejeter une partie des dépenses déduites par l'appelant de son revenu. Voici des tableaux des montants réclamés et accordés par le ministre dans le cadre des deux années d'imposition.
+ANNEXE « A »
+Dépenses supplémentaires liées à l'emploi
+1997
+Budrow Tozer
+Année 1997
+NAS : X
+3 avril 2000
+17 octobre 2000
+Dépenses réclamées
+Montant réclamé
+Reçus fournis
+Nouvelle cotisation no 1
+Nouvelle cotisation no 2
+Repas et représentation
+7 020,00 $
+5 871,57 $
+1 467,89 $
+1 467,89 $
+Autres dépenses
+Frais comptables et juridiques
+241,00 $
+241,00 $
+Logement
+11 631,00 $
+10 170,44 $
+10 170,44 $
+10 170,44 $
+Fournitures
+3 113,00 $
+3 111,09 $
+3 111,09 $
+3 111,09 $
+Meubles
+4 149,00 $
+4 149,00 $
+Rémunération
+6 050,00 $
+4 050,00 $
+Taxis et péages
+1 078,65 $
+1 078,65 $
+1 078,65 $
+Assurance-responsabilité
+277,00 $
+100,00 $
+138,70 $
+138,70 $
+Loyer
+1 000,00 $
+Voiture
+Essence
+3 132,00 $
+2 663,01 $
+2 663,01 $
+2 663,01 $
+Réparations
+193,77 $
+193,77 $
+193,77 $
+Assurance
+2 320,00 $
+2 320,00 $
+2 320,00 $
+2 320,00 $
+5 452,00 $
+5 176,78 $
+5 176,78 $
+Total
+38 933,00 $
+21 143,55 $
+25 193,55 $
+Allocation de dépenses incorporée dans le T4, 750 $ US, ou en dollars canadiens :
+57 720,00 $
+Total des dépenses réclamées
+38 933,00 $
+Total des dépenses admises (17 octobre 2000)
+25 193,55 $
+Net des dépenses non admises
+13 739,45 $
+ANNEXE « B »
+Dépenses supplémentaires reliées à l'emploi
+1998
+Budrow Tozer
+Année 1998
+NAC : X
+Dépenses réclamées
+Montant réclamé
+Reçus fournis
+Cotisation initiale
+Nouvelle cotisation
+Repas et représentation
+7 134,00 $
+13 685,08 $
+3 421,27 $
+3 421,27 $
+Autres dépenses
+Frais comptables et juridiques
+138,00 $
+138,00 $
+Logement
+15 280,47 $
+14 936,12 $
+14 936,12 $
+14 936,12 $
+Fournitures, téléphone cellulaire, Internet
+4 316,39 $
+3 103,41 $
+2 318,90 $
+2 574,48 $
+Rémunération
+15 800,00 $
+14 600,00 $
+Taxis et péages
+1 410,00 $
+1 410,00 $
+1 410,00 $
+1 410,00 $
+Assurance-responsabilité
+50,00 $
+50,00 $
+50,00 $
+Enregistrement des conférences
+912,50 $
+912,50 $
+Loyer
+1 000,00 $
+38 857,36 $
+18 715,02 $
+33 570,60 $
+Voiture
+Essence et lave-auto
+4 930,14 $
+4 574,52 $
+4 930,14 $
+4 930,14 $
+Réparations
+619,16 $
+619,16 $
+619,16 $
+Assurance
+2 026,00 $
+2 026,00 $
+2 026,00 $
+2 026,00 $
+Permis et enregistrement
+104,00 $
+104,00 $
+104,00 $
+104,00 $
+Bail
+7 800,00 $
+7 225,83 $
+7 225,83 $
+14 860,14 $
+14 805,13 $
+14 905,13 $
+Total
+60 851,50 $
+37 041,42 $
+51 897,00 $
+Allocation de dépenses incorporée dans le T4 :
+57 720,00 $
+Total des dépenses réclamées
+60 851,50 $
+Total des dépenses accordées (17 octobre 2000)
+51 897,00 $
+Net des dépenses rejetées
+8 954,50 $
+[10] L'appelant n'a contesté aucun des éléments qui figurent ci-dessus et ils sont retenus tels qu'ils ont été calculés par le ministre. Par conséquent, je ne m'adresserai qu'aux éléments qui font l'objet d'une contestation. Je ne ferai pas de commentaires non plus au sujet des dépenses reconnues par le ministre. Voici les dispositions applicables de la Loi :
+[11] L'alinéa 8(1)h) prévoit en partie :
+Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+[...]
+h) lorsque le contribuable, au cours de l'année, à la fois :
+(i) a été habituellement tenu d'exercer les fonctions de son emploi ailleurs qu'au lieu d'affaires de son employeur ou à différents endroits,
+[...]
+les sommes qu'il a dépensées pendant l'année (sauf les frais afférents à un véhicule à moteur) pour se déplacer dans l'exercice des fonctions de son emploi, sauf s'il a, selon le cas:
+(iii) reçu une allocation pour frais de déplacement qui, par l'effet des sous-alinéas 6(1)b)(v), (vi) ou (vii), n'est pas incluse dans le calcul de son revenu pour l'année,
+[...]
+[12] Le paragraphe 8(2) prévoit la restriction générale suivante :
+Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi.
+[13] Le premier élément qui figure dans les tableaux ci-dessus porte sur les frais de repas et de représentation engagés lors des déplacements de l'appelant. Pour que ces dépenses soient déductibles, l'appelant doit satisfaire aux conditions de l'alinéa 8(1)h) de la Loi. La preuve démontre que l'appelant devait s'acquitter des ses fonctions à différents endroits et qu'il était tenu de payer des frais de déplacement liés à l'exercice de ses fonctions. Puisque les frais de déplacement ont été incorporés à son revenu, alors l'appelant est en droit de réclamer ces dépenses. La question en l'espèce consiste à savoir si l'appelant est en droit de déduire ce qu'il appelle les dépenses de « représentation » qui représentent en fait des repas et des boissons qu'il a payés pour le compte d'autres personnes. Ces dépenses connexes sont-elles déductibles en vertu de l'alinéa 8(1)h)?
+[14] Dans l'arrêt Strong v. The Queen, dossier no 2003-2843 (IT)I, le juge McArthur a dû faire face au même problème dans une situation factuelle semblable. Sa décision est favorable à l'appelant. Il a conclu que le bon sens dicte que l'on permette la déduction de ces dépenses accessoires de déplacement au motif que l'employeur de l'appelant lui avait versé cette allocation dans ce but et que l'allocation avait été incorporée à son revenu. Voici une partie de ce qu'il a écrit au paragraphe 16 et suivants :
+[TRADUCTION] L'alinéa 8(1)h) présente une certaine ambiguïté sur la question de savoir si les dépenses accessoires de déplacement sont comprises ou non. L'arrêt Johns-Manville Canada Inc. c. La Reine[1] nous aide à résoudre cette ambiguïté en faveur de l'appelant. Voici la conclusion tirée par le juge Estey de la Cour suprême du Canada, au nom de la majorité, conclusion qui est aussi applicable au cas en l'espèce :
+... le traitement fiscal approprié consiste à imputer ces dépenses au compte de revenu et non au compte de capital. Une telle décision est de plus conforme à un autre concept fondamental de droit fiscal portant que, si la loi fiscale n'est pas explicite, l'incertitude raisonnable ou l'ambiguïté des faits découlant du manque de clarté de la loi doit jouer en faveur du contribuable. Ce principe résiduel doit d'autant s'appliquer au présent pourvoi qu'autrement une dépense annuelle entièrement liée à l'exploitation quotidienne de l'entreprise de la contribuable ne lui procurerait aucun dégrèvement d'impôt sous forme de déduction pour amortissement ou pour épuisement s'il s'agit d'une dépense de capital, ou de déduction applicable au revenu s'il s'agit d'une dépense d'exploitation.
+Rien, dans le libellé de l'alinéa 8(1)h), ne suggère que seuls sont compris les frais de déplacement personnels du contribuable et que les dépenses accessoires ne le sont point. Les dépenses accessoires en question remontent à 20 000 $ pour des repas et des boissons consommés par d'autres personnes.
+Il n'y a aucun doute qu'il voyageait considérablement partout en Amérique du Nord et aux Bermudes en 1999. Il passait plus de temps en voyage qu'à la maison. Ses fonctions comprenaient des négociations de contrats syndicaux dans le cadre desquelles il devait payer des repas et des boissons pour le compte de ses invités. Après avoir constaté que l'allocation n'était pas raisonnable, il lui a paru que le seul moyen d'obtenir une déduction était en appliquant l'alinéa 8(1)h) de la Loi.
+Je suis d'accord avec l'avocat de l'appelant qui invoque l'arrêt Johns-Manville pour dire qu'en cas d'ambiguïté dans la détermination des dépenses de voyage, la question doit être résolue en faveur du contribuable. L'alinéa 8(1)h) doit être interprété isolément s'il n'est pas ambigu. Rien dans la disposition ne mène à la conclusion selon laquelle les dépenses de déplacement, engagées pendant l'exercice de ses fonctions, ne comprennent pas les dépenses de repas et de boissons pour le compte d'associés d'affaires ayant été engagées pendant les déplacements. Il s'agit de dépenses commerciales pour lesquelles l'employeur lui a versé une allocation. Il est tenu d'incorporer l'allocation à son revenu, et le bon sens dicte qu'il devrait avoir le droit d'appliquer la déduction.
+Le ministre a remis en question le total des dépenses en général. L'appelant a produit une liste de dépenses accessoires qui figure dans la pièce A-6 et dont la dernière colonne totalise une somme d'environ 40 000 $, dont un montant 20 000 $ est réclamé en application de l'article 67.1 qui réduit les frais de repas et de boissons de 50 p. 100. Il est vrai que cette dépense pour repas et boissons semble excessive, j'admets cependant le témoignage de l'appelant qu'il s'agit de la façon dont il s'acquitte de ses fonctions. En d'autres mots, il était en voyage d'affaires plus de 200 jours par année et la somme de 20 000 $[2] représente environ 100 $ par jour. Certainement, la portée de l'expression « frais de déplacement » est suffisamment large pour comprendre les dépenses accessoires réclamées. J'admets le fait que les dépenses de repas et de boissons pour le compte de tierces personnes ne sont pas comprises dans le terme « divertissement » qui est partiellement défini à l'alinéa 67.1(4)b) en tant que loisirs et amusements. Les dépenses pour divertissement sont plutôt de la catégorie des billets d'entrée à des événements sportifs ou culturels, des voyages de pêche ou des croisières. Les dépenses accessoires réclamées par l'appelant sont beaucoup plus connexes à ses fonctions et à son emploi. Il avait des réunions d'affaires autour d'un repas puis payait l'addition, comme ses invités s'attendaient à ce qu'il fasse.
+[15] Les montants que l'appelant a réclamés, dans le cadre des deux années d'imposition, sous l'en-tête en question représentent une allocation quotidienne de 65 $ destinée aux repas pour lesquels il n'a pas de reçus et aux dépenses accessoires pour lesquelles il détient des reçus (voir les annexes). Pour l'année d'imposition 1997, ils totalisent 7 020 $ et pour l'année d'imposition 1998, ils totalisent 7 134 $, après application de la déduction prévue à l'article 67.1. Si l'on tient compte du nombre de jours que l'appelant était en voyage, ce qui correspond environ à 200 jours par année, il n'était pas déraisonnable de sa part de réclamer les montants qu'il a réclamés. Je vais, par conséquent, admettre le montant réclamé par l'appelant dans le cadre des deux années d'imposition.
+Frais comptables et juridiques
+[16] Puisque j'ai déjà conclu que l'appelant est un employé, ces dépenses constituent des frais de subsistance personnels et ne sont donc pas déductibles. Par conséquent, le ministre avait raison de rejeter ces dépenses dans le cadre des deux années d'imposition.
+Meubles
+[17] L'appelant a réclamé 4 149 $ à l'égard du coût de l'ameublement et de l'équipement de son bureau à la maison dans le cadre de l'année d'imposition 1997. Il s'agit de meubles pour lesquels il n'a pas réclamé de déduction pour amortissement. L'appelant ne nie pas que son bureau à la maison l'aide à mieux fonctionner en tant qu'employé, mais il ne lui procure pas de revenus supplémentaires. En tant qu'employé, il n'est pas admissible à la déduction en vertu de la Loi. Par conséquent, le ministre avait raison de la rejeter.
+Loyer
+[18] L'appelant a réclamé 1 000 $ de loyer pour l'utilisation de son bureau à la maison dans le cadre des deux années d'imposition. Le bureau compte 154 pi. ca. dans une maison de 1 144 pi. ca. L'appelant a estimé ce chiffre de manière arbitraire, mais il l'a calculé proportionnellement à ses dépenses résidentielles en matière d'électricité, d'assurances, d'impôts et d'autres dépenses. Il n'a pas présenté de reçus pour démontrer ces dépenses. Le paragraphe 8(13) de la Loi permet que soient déduits les coûts attribués à l'espace de travail à la maison :
+Travail à domicile - Malgré les alinéas (1)f) et i) :
+a) un montant n'est déductible dans le calcul du revenu d'un particulier pour une année d'imposition tiré d'une charge ou d'un emploi pour la partie d'un établissement domestique autonome où le particulier réside que si cette partie, selon le cas :
+(i) est le lieu où le particulier accomplit principalement les fonctions de la charge ou de l'emploi,
+(ii) est utilisée exclusivement, au cours de la période à laquelle le montant se rapporte, aux fins de tirer un revenu de la charge ou de l'emploi et est utilisée pour rencontrer des clients ou d'autres personnes de façon régulière et continue dans le cours normal de l'exécution des fonctions de la charge ou de l'emploi;
+[...]
+[19] Si l'on tient compte du fait que l'appelant est en voyage environ 200 jours par année, alors je ne crois pas qu'il soit admissible à une telle déduction. Cette dépense est, par conséquent, rejetée.
+Fournitures
+[20] La seule question sous cet élément pour l'année d'imposition 1998 porte sur le coût d'utilisation d'un téléphone cellulaire et sur le coût d'utilisation d'Internet. L'appelant utilise un téléphone cellulaire quand il voyage et au travail, et ne l'utilise que très rarement à des fins personnelles. Il en a un à la maison à cet effet. En ce qui concerne Internet, il l'utilise pour faire de la recherche et principalement pour le courrier électronique. Le ministre a admis ces dépenses, mais conteste les montants. Bien que l'appelant n'ait pas fourni de factures, le montant de 529 $ est raisonnable. Je vais, par conséquent, admettre ce montant supplémentaire.
+Frais d'enregistrement aux conférences
+[21] L'appelant a assisté à quelques conférences au cours de l'année d'imposition 1998 et a réclamé les frais d'enregistrement à titre de dépenses. Il a été admis que sa participation n'a pas eu d'effet sur son revenu. Il s'agissait de conférences organisées par des syndicats locaux, et ces frais ne lui ont pas été remboursés, voilà pourquoi il a réclamé le droit de les déduire. Je conclus que ces dépenses ne sont pas relatives au revenu de l'appelant et devront, par conséquent, être considérées comme dépenses personnelles. Pour ces motifs, le ministre a eu raison de rejeter cette dépense.
+[22] Les appels sont accueillis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux présents motifs du jugement ci-joints.
+Signé à Edmundston (Nouveau-Brunswick), ce 22e jour de juin 2004.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 1er jour de novembre 2004.
+Ingrid B. Miranda, traductrice
+[1] [1985] 2 R.C.S. 46 (85 DTC 5373)
+[2] Après avoir appliqué l'article 67.1.

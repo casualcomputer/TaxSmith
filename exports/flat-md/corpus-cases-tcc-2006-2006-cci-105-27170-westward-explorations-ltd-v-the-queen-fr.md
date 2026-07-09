@@ -1,0 +1,498 @@
+---
+title: "Westward Explorations Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27170/index.do"
+last_modified: "2006-02-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 105"
+citation2: ""
+neutral_citation: "2006 CCI 105"
+decision_date: "2006-02-20"
+language: "fr"
+item_id: "27170"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1039
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:52:28.358000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bd961eab6ea6f9accf41406876870b9d3f041a0b84fe0696beb5e395d6433675"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Westward Explorations Ltd. v. The Queen
+
+- Citation: 2006 CCI 105
+- Decision date: 2006-02-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1039, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Westward Explorations Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-20
+Référence neutre
+2006 CCI 105
+Numéro de dossier
+2002-2085(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-2085(IT)G
+ENTRE :
+WESTWARD EXPLORATIONS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Vancouver (Colombie-Britannique), les 4, 5 et 6 octobre 2004 et à Toronto (Ontario), les 24, 25, 26 et 27 janvier ainsi que les 2, 3 et 4 mai 2005
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelante :
+Me Steve Cook
+Avocates de l'intimée :
+Mes Wendy Burnham et Deborah Horowitz
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la cotisation concernant l'année 1995 est renvoyée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que la juste valeur marchande du droit de 11,12 p. 100 afférent à la Mine, au 29 septembre 1995, était de 685 826 $.
+L'intimée aura droit à 85 p. 100 de ses dépens.
+Signé à Ottawa, Canada, ce 20e jour de février 2006.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 15e jour de janvier 2007.
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI105
+Date : 20060220
+Dossier : 2002-2085(IT)G
+ENTRE :
+WESTWARD EXPLORATIONS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Westward Explorations Ltd. interjette appel d'une cotisation concernant son année d'imposition 1995 par laquelle le ministre du Revenu national a appliqué le paragraphe 69(1) de la Loi de l'impôt sur le revenu (la « Loi » ) et a réduit son compte des frais cumulatifs d'aménagement au Canada (les « FCAC » ) défini au paragraphe 66.2(5) de la Loi, d'un montant de 1 589 295 $. Le ministre a appliqué le paragraphe 69(1) pour le motif que la juste valeur marchande d'un avoir minier canadien, à savoir un droit de 11,12 p. 100 sur un avoir minier connu sous le nom de Mine Magnacon (la « Mine » ou le « bien Magnacon » [1]) acquis par l'appelante de sa principale actionnaire, Windarra Minerals Ltd. ( « Windarra » ), s'élevait à 333 600 $ et non au prix d'achat de 1 922 895 $ dont l'appelante et la venderesse avaient convenu[2].
+[2] Il s'agit ici de savoir si la juste valeur marchande du droit afférent à la Mine, lorsqu'il a été acquis par l'appelante le 29 septembre 1995 (la « date d'acquisition » ), s'élevait à 333 600 $, à 1 922 895 $ ou à quelque autre montant.
+[3] La Mine est située dans la région du lac Mishibishu, dans le district de Thunder Bay, à une distance d'environ 35 milles marins de Wawa (Ontario). Immédiatement avant d'être achetée par l'appelante, la Mine appartenait à une coentreprise composée de Windarra, de Muscocho Exploration Limited (N.P.L.) ( « Muscocho » ) et de Flanagan McAdam Resources Inc. ( « Flanagan » ). Avant la vente, Windarra possédait un droit de 22,23 p. 100 sur le bien Magnacon[3].
+[4] Pendant la période pertinente, l'appelante et Windarra étaient des sociétés respectivement cotées à la Bourse de Vancouver et à la Bourse de Toronto. Selon la circulaire d'information envoyée par l'appelante aux actionnaires en prévision d'une réunion au cours de laquelle la question de l'achat d'un droit sur la Mine serait examinée, Windarra détenait 9 628 425 actions ou 76,25 p. 100 des actions en circulation de l'appelante[4].
+[5] Le prix d'achat de 1 922 895 $ a été fixé à la demande d'un comité d'administrateurs indépendants de l'appelante (qui n'étaient pas des administrateurs de Windarra) par Watts, Griffis and McOuat Limited, géologues et ingénieurs-conseils ( « WGM » ), qui ont évalué la Mine au 15 mai 1995 (le « rapport WGM » ). Les auteurs du rapport WGM, MM. Ross D. Lawrence et W.J. Mullins, ont conclu ce qui suit :
+[TRADUCTION] [...] la juste valeur marchande de l'élément « avoir minier canadien » de la Mine Magnacon à la date d'évaluation variait de 12,8 millions à 21,8 millions de dollars. Par conséquent, le droit de 25 p. 100 de Windarra variait de 3,2 millions à 5,45 millions de dollars.
+De l'avis de WGM, la juste valeur du droit de Windarra se situait au milieu de cette fourchette, soit à 4,3 millions de dollars[5].
+[6] À titre de référence, signalons que la convention d'achat-vente conclue entre l'appelante et Windarra était datée du 7 juillet 1995; elle était assujettie à une approbation réglementaire. Le prix d'achat de 1 922 895 $ a été payé par l'appelante au moyen de l'émission, au profit de Windarra, de 3 845 790 actions ordinaires autorisées de son capital-actions à un prix « réputé » de 0,50 $ l'action, ce qui représentait un droit de 11,12 p. 100 sur la Mine. L'appelante n'a pas acquis de droit ou de titre à l'égard de l'usine située sur le bien Magnacon et elle était tenue de verser à Windarra des frais d'utilisation de l'usine dans le cas où la Mine en venait au stade de la production. L'opération conclue entre l'appelante et Windarra a été approuvée par la majorité des actionnaires minoritaires de l'appelante lors d'une réunion tenue à cette fin le 30 août 1995. L'opération a été conclue le 29 septembre 1995, la veille de la fin de l'exercice de l'appelante.
+[7] La Bourse de Toronto a accepté l'avis de disposition du droit afférent à la Mine sans faire de commentaires. Toutefois, la Bourse de Vancouver a informé l'appelante qu'elle refuserait d'approuver l'opération tant qu'une évaluation supplémentaire n'était pas préparée par WGM qui, entre autres choses, restreignait l'opinion exprimée quant à la valeur à celle attribuable aux réserves prouvées et aux réserves probables de la Mine. En fin de compte, WGM a fourni un rapport d'évaluation révisé, en date du 20 octobre 1995, qui convenait à la Bourse de Vancouver. Dans cette évaluation, on employait la méthode des comparables plutôt que celle de la valeur actualisée de la Mine. Par conséquent, la valeur révisée du droit de 22,23 p. 100 de Windarra allait selon les estimations de 0,5 million à 0,6 million de dollars, un droit à 100 p. 100 ayant une valeur de l'ordre de 2,25 millions à 2,27 millions de dollars.
+[8] Bien sûr, les deux parties ont produit des rapports d'évaluation pour les besoins de l'appel. L'appelante a retenu les services de WGM en vue de [TRADUCTION] « réexaminer [...] l'opinion sur la valeur que WGM avait donnée à Westward en 1995 » aux fins de la conclusion de l'opération. M. Lawrence a témoigné en sa qualité de témoin expert de l'appelante[6]. M. Graham Farquharson, président de Strathcona Mineral Services Limited ( « Strathcona » ), a témoigné pour le compte de l'intimée.
+[9] Les experts des deux parties ont également mentionné d'autres estimations relatives aux réserves d'or de la Mine, notamment :
+- une estimation préparée par M. Colin McAleenan en 1989, alors qu'il était géologue en chef de la mine chez Muscocho, lorsque celle-ci était propriétaire de la Mine (le « rapport McAleenan » ); M. McAleenan était également un témoin de la Couronne;
+- un rapport préparé par le personnel minier de Muscocho, lorsque la Mine a été fermée en 1990 (le « rapport Muscocho » ); le rapport Muscocho était en bonne partie fondé sur le rapport McAleenan;
+- une évaluation préparée le 12 novembre 1993 par WGM, à l'égard du même bien, et d'un autre bien pour Muscocho, Flanagan and McAdam Resources Inc. (le « rapport WGM du mois de novembre 1993 » ).
+[10] Dans la décision Henderson Estate v. M.N.R.[7], le juge Cattanach a défini comme suit l'expression « juste valeur marchande » :
+[...] le prix le plus élevé que le propriétaire d'un bien peut raisonnablement s'attendre à en tirer s'il le vend de façon normale et dans le cours ordinaire des affaires, le marché n'étant pas soumis à des pressions inhabituelles et étant constitué d'acheteurs disposés à acheter et de vendeurs disposés à vendre, qui n'ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d'acheter ou de vendre. [...]
+et chacun des experts des parties a adopté le sens attribué à cette expression selon cette définition en procédant à son évaluation.
+[11] Les rapports McAleenan et Muscocho fournissent tous deux des estimations des réserves d'or de la Mine à la date de prise d'effet du rapport en cause :
+[TRADUCTION]
+Tableau 1
+Estimation des réserves géologiques dans le rapport McAleenan - (31 décembre 1989)
+Cumulative
+Catégorie
+Tonnes courtes (t.c.)
+oz/t.c. d'or
+oz/t.c. d'or (c)
+Tonnes courtes
+oz/t.c. d'or
+oz/t.c. d'or (c)*
+Prouvées
+110 352
+0,351
+0,259
+110 352
+0,351
+0,259
+Abattues
+76 226
+0,162
+0,135
+186 578
+0,274
+0,208
+Probables
+86 716
+0,31
+0,23
+273 294
+0,333
+0,246
+Possibles et accessibles
+83 889
+0,257
+0,209
+357 183
+0,31
+0,235
+Présumées
+1 115 515
+0,172
+--
+1 472 698
+0,189
+--
+(Total : 1 472 698 t.c., selon une teneur de 0,182) Onces totales : 278 340
+Remarque : Teneur limite : 0,100 oz/t.c. d'or pour les réserves prouvées, probables et possibles
+Teneur limite : 0,050 oz/t.c. d'or pour les réserves présumées * : Teneur ajustée à 1,000 oz/t.c. d'or
+Tableau 2
+Rapport du personnel minier de Muscocho datant de 1990 sur l'estimation des réserves (rapport Muscocho) [8]
+Catégorie
+Tonnes courtes
+oz/t.c. d'or (c)*
+Onces d'or contenues
+Prouvées
+91 965
+0,229
+21 060
+Probables
+39 526
+0,217
+8577
+Possibles
+119 745
+0,21
+25 146
+Indiquées par forage
+1 115 515
+0,172**
+191 869
+(Total : 1 366 751 t.c.)
+* : Teneur ajustée à 1 oz/t.c. d'or pour les réserves prouvées, probables et possibles
+** : Teneur non ajustée pour les réserves présumées
+[12] À l'annexe 1 de son rapport, M. McAleenan définit les catégories de minerai comme suit :
+[TRADUCTION]
+Minerai prouvé :
+Bloc de minerai mis à nu par le percement d'une galerie ou d'un montage ou des travaux d'exploitation dont la largeur et la teneur moyennes sont établies d'après des échantillonnages par éclats systématiques et détaillés. L'étendue verticale maximum du bloc peut être prolongée, selon des limites géologiques acceptables, jusqu'à 25 pi en se basant sur les données relatives à la teneur.
+Minerai probable :
+Bloc de minerai d'une étendue verticale maximum de 25 pi depuis un bloc de minerai prouvé. La largeur et la teneur de ce type de bloc sont établies selon celles du bloc de minerai prouvé contigu et d'après des données de forage au diamant. La teneur et la largeur de tout intervalle recoupé par forage au diamant dans le bloc sont prises en considération d'après le tiers de leur influence.
+Minerai possible accessible :
+1) Bloc d'une étendue verticale maximum de 50 pi, selon certaines limites géologiques, à partir du bloc de minerai probable. La teneur et la largeur sont établies selon celles du bloc de minerai probable contigu (1/3 de l'influence) et d'après des données de forage au diamant (2/3 de l'influence). Ces blocs peuvent également être calculés uniquement en se basant sur les intervalles recoupés pendant les forages.
+2) Bloc d'une étendue verticale maximum de 50 pi, selon certaines limites géologiques, à partir de l'extrémité d'une galerie dont le front de taille se trouve dans le minerai. L'étendue verticale du bloc peut être prolongée de 50 pi au maximum vers le haut et le bas depuis l'emplacement où la galerie devrait continuer. La teneur de ce type de bloc est établie d'après celle des blocs de minerai probables adjacents (1/3 de l'influence) et en se basant sur les intervalles recoupés par des forages au diamant (2/3 de l'influence).
+Les blocs de minerai possible doivent se trouver au-dessus du niveau le plus bas de la mine et être accessibles au moyen d'un petit nombre de travaux de mise en valeur ou d'extraction[9].
+Réserves présumées :
+Bloc de minerai potentiel recoupé par des forages au diamant dans une structure ou une zone sur laquelle il n'existe aucune donnée de base recueillie lors de travaux souterrains ou de surface. Les sondages effectués sont trop éloignés les uns des autres pour permettre d'établir de manière fiable la teneur ou les limites de la structure. Beaucoup de travaux de mise en valeur doivent être exécutés pour rendre ce type de bloc accessible.
+Par définition et pour des raisons pratiques, les blocs de minerai reposant sous le niveau le plus bas de la mine sont classés dans cette catégorie, même si leur nature a été établie d'après des échantillonnages par éclats effectués dans la galerie du 6e niveau.
+Le centre d'un bloc de réserves présumées se trouve au-dessus d'au moins un intervalle recoupé par forage dont la teneur est égale ou supérieure à 0,050 oz/t.c. d'or sur une largeur horizontale minimum de 5 pi. On recourt à la superposition d'un seul bloc localisé plutôt qu'à la suppression de chacun des intervalles recoupés par forage. L'étendue verticale ou horizontale du bloc peut être prolongée de 100 pi au maximum d'après les données disponibles. Aux limites du bloc localisé, la règle de la médiane est appliquée à mi-chemin entre les trous de forage. La teneur et la largeur du bloc sont calculées d'après la moyenne arithmétique de celles des intervalles recoupés par forage.
+Des intervalles présentant une teneur inférieure à la teneur limite sont intégrés au bloc lorsqu'ils sont entourés d'intervalles présentant une teneur supérieure à une teneur limite de 0,050 oz/t.c. d'or.
+Cette méthode de suppression du minerai présumé est employée en raison des connaissances acquises pendant le creusement de la galerie de la zone « C » , au 4e niveau. Les teneurs relevées grâce au prélèvement d'échantillons par éclats dans le filon sont beaucoup plus élevées que celles des intervalles recoupés lors de forages au diamant exécutés dans un rayon de 100 pi du centre. Ainsi, la règle voulant que les forages servent à délimiter les structures et que les prélèvements servent à établir des teneurs semble s'appliquer dans le cas présent.
+[13] M. McAleenan a déclaré qu'il avait établi ses valeurs sur le minerai et la teneur en se basant en partie sur des cartes de coupe longitudinale qui ont été présentées en preuve. Il a affirmé que la mine était exploitée de manière raisonnable, que le minerai le plus riche était extrait d'abord et que les réserves présumées avaient moins de valeur que les réserves prouvées ou probables. Selon M. McAleenan, le minerai le plus riche est généralement extrait en premier dans une mine, car la société minière exploitante a généralement des dettes qu'elle souhaite rembourser le plus rapidement possible.
+[14] M. McAleenan était d'avis que la plupart des structures de la mine étaient des filons étroits. Il a aussi signalé que la mine comptait des filons inclinés, dont certains présentant un pendage assez prononcé (allant de 60 à 70 degrés) et d'autres, un pendage d'environ 20 degrés. Il a affirmé que les filons inclinés étaient généralement plus difficiles à exploiter.
+[15] M. McAleenan a indiqué de quelle façon la teneur du minerai dans le sol influerait sur la valeur :
+[TRADUCTION] De nos jours, si une personne achetait un bien avec des onces mesurées dans le sol qui n'ont pas encore été extraites, elle paierait - probablement de 70 à 80 dollars ou même 100 $ l'once à la société pour acquérir ces onces.
+Une once indiquée vaudrait moins cher, et cela est évidemment toujours négociable, selon ce qu'en coûterait l'extraction. Cependant, la catégorie la plus basse serait la catégorie présumée et habituellement elle vaudrait peut-être de 15 à 20 dollars l'once, si les réserves mesurées et les réserves prouvées, si l'on veut, si ces réserves valaient, disons, 100 dollars. Je dirais que les réserves présumées vaudraient beaucoup moins, peut-être de l'ordre de 20 dollars l'once environ.
+[16] Les Autorités canadiennes en valeurs mobilières ont classifié les réserves dans leur politique nationale 2-A, intitulée [TRADUCTION] « Lignes directrices pour les ingénieurs, les géologues et les prospecteurs qui soumettent des rapports aux autorités provinciales en valeurs mobilières » . MM. Lawrence et Farquharson ont reconnu que les définitions des catégories de réserves figurant dans la politique nationale 2-A représentent la norme de l'industrie au moment pertinent. La déclaration de principes renferme une mise en garde : [TRADUCTION] « [I]l faut employer le mot « minerai » avec circonspection. » La politique nationale 2-A définit le mot « ore » ( « minerai » ) et le range dans trois catégories :
+[TRADUCTION]
+a) « Minerai » désigne un agrégat naturel composé d'au moins un minéral qui, à un moment et un endroit donné, peut être exploité et vendu de manière rentable ou dont une partie peut être séparée profitablement;
+b) « Minerai prouvé » ou « minerai mesuré » désigne des matériaux dont la quantité est déterminée (en tonnes courtes) d'après des dimensions mesurées dans des affleurements, des tranchées, des chantiers souterrains ou des trous de forage, dont la teneur est établie selon les résultats d'un échantillonnage adéquat, dont l'espacement des sites d'inspection, d'échantillonnage et de mesure, ainsi que la caractérisation géologique, a été tellement bien établi qu'il permet la détermination d'une taille, d'une forme et d'une teneur en minéraux, et dont le calcul de la quantité (en tonnes courtes) et de la teneur est jugé exact d'après des limites qui seront révélées et en fonction desquelles on déterminera si la quantité et la teneur du minerai prouvé ou mesuré le rendent « in situ » ou extractible, selon des facteurs de dilution signalés et des raisons justifiant clairement l'utilisation de ces facteurs;
+c) « Minerai probable » ou « minerai indiqué » désigne des matériaux dont la quantité (en tonnes courtes) et la teneur sont déterminées d'après des mesures, des échantillonnages ou des données de production particulières et selon une distance raisonnable prévue en se basant sur des indices géologiques, et dont l'espacement des sites d'inspection, d'échantillonnage et de mesure disponibles est trop grand ou inadéquat pour permettre leur délimitation totale ou pour établir leur teneur globale;
+d) « Minerai possible » ou « minerai présumé » désigne des matériaux dont les estimations quantitatives reposent en grande partie sur des connaissances générales de la nature géologique du gisement, qui n'ont fait l'objet que de peu d'échantillonnages ou de mesures ou même d'aucune activité du genre, dont les estimations sont basées sur une continuité ou une répétition présumée d'après des indices géologiques raisonnables, notamment des comparaisons avec des gisements similaires, et qui forment des corps entièrement dissimulés pouvant être pris en considération si des indices précis témoignent de leur présence;
+i) les estimations relatives au « minerai possible » ou au « minerai présumé » doivent comprendre un énoncé des conditions dans lesquelles les matériaux reposent;
+ii) puisque la moyenne arithmétique de tout nombre d'échantillonnages n'est pas nécessairement représentative, sauf si la répartition des valeurs et le nombre d'échantillons sont adéquatement pris en considération, un énoncé de la ou des techniques d'échantillonnage employées doit être présenté, et une description de la méthode de traitement des valeurs aberrantes doit être fournie dans le compte rendu du rapport, lorsque la minéralisation est variable;
+iii) les réserves possibles ou présumées ne doivent pas être ajoutées à d'autres catégories de réserves, car une telle intégration est inacceptable dans le cadre de l'analyse économique ou de l'étude de faisabilité d'un projet.
+Lorsque le terme « minerai » ne convient pas, il est possible d'employer « minéralisation » , « corps minéralisés » , « concentrations » , etc.
+[17] M. McAleenan a reconnu que certains des paramètres qu'il avait énoncés en classifiant la minéralisation n'étaient pas exigés par la politique nationale 2-A. Il a également reconnu que, si l'on changeait les paramètres qu'il avait utilisés (par exemple, des paramètres de prolongation de 30 pieds au lieu de 25 pieds), une partie du minerai possible pourrait être reclassifiée à titre de minerai probable et que le minerai possible s'étendrait plus loin. Il a en outre admis que, contrairement à ce qu'il avait fait, la politique nationale 2-A ne faisait pas de distinction entre les ressources présumées et les ressources possibles.
+L'expert de l'appelante
+[18] M. Ross Lawrence, l'un des auteurs du rapport WGM, était le témoin expert de l'appelante qui a défendu la position de cette dernière, à savoir que la valeur marchande du droit de 11,12 p. 100 qu'elle avait acquis sur la mine était de 1 922 895 $. M. Lawrence a obtenu, en 1956, un diplôme en géologie appliquée de l'université de Toronto; il est également titulaire d'une maîtrise en commerce dans le domaine des finances minières. Il est l'un des fondateurs de WGM et, lors de l'instruction, il était à la semi-retraite.
+[19] Les estimations de réserves d'or de la Mine, selon le rapport WGM, sont fort différentes de celles faites par M. McAleenan en 1989, par le personnel minier de Muscocho en 1990, ainsi que dans un examen de l'inventaire de la Mine préparé au mois de février 1990 pour Windarra par Kilborn Engineering (BC) Ltd. (le « rapport Kilborn » )[10]. Selon le rapport Kilborn, les réserves se répartissaient comme suit :
+[TRADUCTION]
+Tableau 3
+Tonnes
+courtes (t.c.)
+Teneur : oz/t.c.
+Prouvées
+----
+----
+Probables
+224 000
+0,24
+Possibles
+84 000
+0,21
+Présumées
+1 115 000
+0,17
+Pile de stockage en surface
+49 000
+0,10
+[20] Les auteurs du rapport WGM ont conclu que les possibilités de mise en valeur de minerai additionnel à la Mine étaient très bonnes, en particulier en profondeur, et ils prévoyaient une réserve additionnelle de 980 000 tonnes courtes et évaluaient la teneur à 0,20 oz/t.c. comme réserves possibles dont il n'était pas tenu compte dans d'autres rapports. C'est ce tonnage additionnel qui donne en bonne partie lieu au litige opposant les parties. Les réserves de la Mine classifiées par WGM sont incorporées dans l'examen WGM :
+[TRADUCTION]
+Tableau 4
+Classification des réserves
+Tonnes courtes (t.c.)
+Teneur
+Onces d'or
+Contenues
+Minerai prouvé et probable
+250 000
+0,22
+54 730
+Minerai possible
+1 115 000
+0,20
+223 000
+Minerai possible
+980 000
+0,20
+196 000
+TOTAL
+2 345 000
+0,20
+469 000
+[21] Selon WGM, la pratique courante de l'industrie était de rendre compte des réserves « possibles » et « présumées » dans la même catégorie, parce que les mots « possible » et « présumé » étaient en fait employés d'une façon interchangeable par les professionnels de l'industrie. Par conséquent, dans sa propre évaluation, WGM a placé les réserves « possibles » et « présumées » dans la même catégorie, alors que M. McAleenan a fait une distinction entre les réserves possibles et les réserves présumées.
+[22] WGM a reclassifié toutes les réserves (prouvées, possibles et probables) comme étant des [TRADUCTION] « réserves de minerai prouvées et probables » . M. Lawrence a signalé que M. McAleenan n'avait pas suivi les définitions énoncées dans la politique nationale 2-A en catégorisant les réserves.
+[23] Dans l'examen WGM, M. Lawrence a réaffirmé les conclusions tirées dans le rapport WGM. Dans l'examen, il a donné les explications suivantes :
+[TRADUCTION] Nous [...] avons conclu que les données disponibles à la mine et les comparaisons avec d'autres mines géologiquement similaires permettaient de prévoir raisonnablement une réserve additionnelle totalisant 980 000 tonnes courtes (t.c.), surtout sous les chantiers de la mine, où quelques forages au diamant seulement ont toutefois été exécutés. [...]
+La prévision établissant 980 000 t.c. supplémentaires reposait sur l'expérience acquise à la mine Magnacon, sur l'étude d'intervalles recoupés dans des trous forés sous les chantiers existants de la mine et sur l'existence d'autres mines aurifères aménagées dans des ceintures de roches vertes, dont la géologie est similaire et dont les minéralisations en or présentent une continuité verticale soutenue dans des conditions similaires. [...]
+Une grande partie des quantités figurant dans les deux premières rangées du tableau 1 (1 365 000 t.c.) reposent dans les chantiers de la mine Magnacon ou au voisinage de ceux-ci. Le niveau supérieur de la mine se trouve à 1450 pi et son niveau inférieur, à 1050 pi. En ajoutant 50 pi à ces profondeurs, compte tenu que les blocs de minerai reposent au-dessus du niveau supérieur ou sous le niveau inférieur, l'étendue verticale de la majeure partie des réserves de la mine Magnacon est d'environ 450 pi, ce qui équivaut approximativement à 3000 t.c. de minerai par pied vertical. [...]
+Le minerai possible que nous avons estimé à 980 000 t.c. repose généralement sous le niveau inférieur, [...]. Selon un rapport de 3000 t.c. par pied vertical, l'étendue verticale de la réserve devrait atteindre quelque 325 pi sous le niveau inférieur de 1050 pi ou environ 700 pi de hauteur. Quelle preuve avons-nous que les réserves peuvent atteindre cette profondeur? Par exemple, la section longitudinale no 7, dans le filon principal, renferme des intervalles aurifères qui ont été recoupés dans des trous de forage jusqu'à une hauteur de -100 pi et il existe plusieurs intervalles du genre dans d'autres sections longitudinales. [...]
+Enfin, nous pouvons faire une comparaison avec une mine similaire. Comme bon exemple [...] il y a la mine Renabie, aménagée à environ 50 milles au nord-est de la mine Magnacon, dans la même ceinture de roches vertes. [...] Cette exploitation a produit 4,7 millions de tonnes courtes de minerai (matière d'alimentation) d'une teneur en or de 0,219 oz/t.c., ce qui est généralement le cas d'une mine aurifère aménagée dans une ceinture de roches vertes reposant dans un terrain archéen.
+[24] Les auteurs du rapport WGM ont, en outre, accru la teneur de toutes les réserves, pour les raisons suivantes :
+[TRADUCTION] D'après l'expérience acquise à la mine Magnacon et les résultats concernant de nombreux gisements logés dans des ceintures de roches vertes archéennes, nous croyons qu'il est possible d'extraire un minerai d'une teneur moyenne supérieure à celle établie d'après les forages au diamant exécutés à des fins d'exploration. Par conséquent, nous présumons qu'une teneur en or de 0,20 oz/t.c. pourrait être obtenue et attribuée à toutes les réserves utilisées dans nos prévisions.
+[25] WGM s'est fondée principalement, quant à l'évaluation, sur le calcul de la valeur actualisée nette (la « VAN » ), compte tenu des prévisions relatives aux flux monétaires actualisés (les « FMA » ). Selon cette méthode, il faut estimer les coûts d'immobilisation nécessaires pour amener la mine au stade de la production, les frais d'exploitation à engager pour extraire et traiter le minerai ainsi que pour récupérer l'or, et préparer une estimation du flux monétaire en résultant chaque année pendant toute la durée de vie des réserves. Les flux annuels nets sont ensuite actualisés, au moyen de taux d'actualisation appropriés, afin d'arriver à la VAN.
+[26] WGM a également cherché à obtenir des renseignements au sujet d'opérations comparables afin de vérifier la validité des valeurs calculées à l'aide de la méthode des FMA.
+[27] WGM estimait que l'usine de la Mine produirait 175 000 tonnes courtes de minerai avant traitement au cours de la première année d'exploitation, 210 000 tonnes courtes par année au cours des dix années suivantes et 70 000 tonnes courtes au cours de la dernière année. Selon les estimations, 2 345 000 tonnes courtes en tout devaient être extraites sur une période de 12 ans (de 1995 à 2007), la teneur moyenne étant de 0,20 oz/t.c.
+[28] Selon les estimations, les frais d'exploitation s'éleveraient à 66 $ la tonne courte en tout, alors que les besoins en capital s'élèveraient à 16,541 millions de dollars, dont 3,25 millions pour le matériel d'extraction et de traitement, et 13,291 millions pour les travaux de mise en valeur.
+[29] Les prix de l'or que WGM a utilisés en établissant un modèle des flux monétaires prévus variaient de 375 $US à 425 $US l'once, le taux de change étant selon les hypothèses de 0,75 $US = 1 $CAN. La VAN a été calculée compte tenu des flux monétaires prévus en utilisant des taux d'actualisation de 5, de 10, de 15 et de 20 p. 100; des dollars constants; un calendrier de production de 12 mois et une durée de vie de la mine de 11 ans.
+[30] Sur ces bases, WGM a conclu que la fourchette de valeurs appropriée pour la Mine allait de 11,5 millions à 22 millions de dollars et que la valeur d'un droit de 25 p. 100 afférent à la Mine variait donc de 3,2 millions à 5,45 millions de dollars.
+L'expert de l'intimée
+[31] Strathconaest une firme qui fournit divers services d'experts-conseils à l'industrie minière. Entre autres, elle prépare et vérifie des estimations de réserves de minerai; elle met sur pied des programmes d'échantillonnage et d'exploration pour le compte de clients; elle prépare des rapports techniques concernant des biens miniers et elle évalue des possibilités d'investissement pour ses clients dans l'industrie minière. M. Farquharson a obtenu un diplôme en génie minier de l'université de l'Alberta en 1964 et, en 1969, il a obtenu une maîtrise en administration des affaires de l'université Queen's. À l'heure actuelle, M. Farquharson est administrateur de Placer Dome Inc. et de Cambior Inc. M. Farquharson n'est pas évaluateur de profession, mais il possède une vaste expérience dans l'industrie minière et il a eu à se prononcer sur la valeur des propriétés du minerai. J'ai conclu que ses solides antécédents dans l'industrie m'aideraient à examiner la valeur de la Mine et lui permettraient de témoigner pour le compte de la Couronne. Je désignerai le rapport déposé par M. Farquharson sous le nom de « rapport Farquharson » ou de « rapport Strathcona » .
+[32] M. Farquharson a exprimé l'avis selon lequel, en 1995, un droit de onze pour cent afférent au bien Magnacon [TRADUCTION] « avait une juste valeur marchande fort modeste d'environ 100 000 à 350 000 $ » . Il fondait sa conclusion sur l'historique des travaux d'exploration, de mise en valeur et de production afférents à la Mine, qui avaient pris fin en 1990, et sur la période d'inactivité qui avait suivi jusqu'au milieu de l'année 1995 [TRADUCTION] « même si le prix continu de l'or en argent canadien était raisonnable » .
+[33] Les rapports annuels de Muscocho constituaient la principale source de l'examen de l'historique de la Mine effectué par M. Farquharson. Les premières années avaient suscité beaucoup d'optimisme; les dernières années ont causé énormément de désespoir. Selon le rapport annuel de 1987, on s'attendait à ce que les capitaux investis soient récupérés dans les deux années suivant le début de la production. La production d'or prévue devait atteindre 80 000 onces par année au coût de 225 $CAN l'once. On prévoyait que la teneur serait plus élevée que celle qu'indiquait le sondage carotté. Dans son rapport annuel suivant, Muscocho déclarait que les travaux de mise en valeur de la Mine étaient en cours et que les travaux de construction de l'usine, qui devait traiter 800 tonnes courtes de minerai par jour, étaient presque achevés. On s'attendait à produire 40 000 onces d'or en 1989, et peut-être même jusqu'à 100 000 onces par année, au coût unitaire maximal de 200 $US l'once.
+[34] Toutefois, selon le rapport annuel 1989 de Muscocho, la production d'or pour l'année 1988 n'a été que de 14 900 onces et le niveau de production commerciale n'a pas été atteint. La teneur du minerai a été ramenée de 0,25 oz/t.c. à 0,20 avec possibilité d'une réduction additionnelle, à 0,18 oz/t.c., s'il s'avérait nécessaire d'ajuster les teneurs en minerai élevées. En outre, il y avait également une insuffisance de capital. Echo Bay Mines Ltd. ( « Echo Bay » ), une grande société minière, a convenu de joindre la coentreprise et d'acquérir un droit de 50 p. 100 sur le bien Magnacon et sur une autre mine, la mine Magino, située dans la même région du Nord de l'Ontario, que le groupe Muscocho était en train d'aménager, et de fournir des fonds pour soutenir les travaux continus de mise en valeur. En même temps, Muscocho a réduit de 6,2 millions de dollars la valeur comptable du droit de 25 p. 100 qu'elle possédait sur la Mine.
+[35] Les travaux d'extraction associés au bien Magnacon ont cessé au mois de juin 1989; la Mine n'avait pas atteint un niveau de production commerciale. Le traitement s'est poursuivi jusqu'au mois d'octobre 1990, toutes les piles de stockage à la surface et les matériaux disponibles ont été traités et la production d'or pour l'année s'est élevée à 19 397 onces. Muscocho a déclaré que le fait qu'on n'avait pas procédé à des travaux d'aménagement souterrains et les faibles prix de l'or avaient empêché de poursuivre l'exploitation. Selon Muscocho, il fallait investir des capitaux additionnels importants et il fallait que l'or ait un prix plus élevé pour justifier l'exploitation du bien Magnacon. Echo Bay a déclaré que la teneur des réserves de minerai était moins élevée et que les coûts d'extraction étaient plus élevés que ce qui avait été prévu lorsqu'elle avait joint la coentreprise. Dans son rapport annuel de 1990, Echo Bay informait le lecteur qu'elle avait donc radié son investissement de 42,4 millions de dollars, parce qu'elle avait décidé de [TRADUCTION] « ne pas s'enfoncer davantage dans une mauvaise affaire » . Le droit que possédait Muscocho sur la Mine est passé à 36,8 pour cent en 1989 et par la suite à 38 p. 100, parce que d'autres intéressés n'avaient pas continué à contribuer au financement du projet. Muscocho a effectué une autre réduction de 11,7 millions de dollars, en réduisant la valeur comptable de son droit de 36,8 p. 100 à 5,2 millions de dollars. En 1991, en 1992, en 1993 et en 1994, Muscocho a réduit la valeur de son droit à 2 millions de dollars, à 1,8 million de dollars, à 1,6 million de dollars et à 1,4 million de dollars respectivement.
+[36] Le bien Magnacon était inactif en 1991, mais une entente a été conclue aux fins de la vente de l'usine au prix de 2 millions de dollars. La vente n'a pas eu lieu comme on l'avait prévu en 1992, mais elle a été conclue en 1996, après la date d'acquisition, l'acheteur étant une société minière qui exerçait ses activités dans la région.
+[37] Selon M. Farquharson, pendant la période allant de 1987 à 1994, des renseignements ont été fournis aux actionnaires de Muscocho, selon lesquels on estimait qu'à la fin de l'année 1989, les réserves de minerai de Magnacon seraient de 1,47 million de tonnes courtes, avec une teneur de 0,20 à 0,25 oz/t.c. pour une quantité d'or combinée d'environ 300 000 onces.
+[38] M. Farquharson a comparé ces réserves à celles estimées par le personnel minier de la mine Magnacon, à la fermeture de celle-ci, en 1990 (tableau 2). Il a déclaré que les réserves figurant au tableau 2 sont de nature géologique. La dilution doit donc être prise en considération, ce qui entraîne un accroissement des quantités (en tonnes courtes) et une diminution de la teneur en or. À son avis, la dilution représentait un sérieux problème à la Mine, en raison de l'étroitesse et du pendage souvent faible des filons; il fallait extraire et traiter davantage de stériles, ce qui réduisait la teneur en or du minerai et élevait le coût de production de l'or par once.
+[39] M. Farquharson considérait que l'expérience acquise par Magnacon en matière d'extraction, pendant qu'elle était en production, était fort pertinente pour ce qui est de l'évaluation du bien Magnacon. En 1989 et en 1990, les travaux d'exploitation ont entraîné l'extraction de 266 000 tonnes courtes, avec une teneur de 0,15 oz/t.c., sur lesquelles 34 300 onces d'or ont été récupérées. Le nombre de tonnes courtes extraites représentait une grande partie du nombre de tonnes courtes qui est combiné, au tableau 2, dans les catégories de réserves prouvées, de réserves probables et de réserves possibles. M. Farquharson a déclaré qu'il n'y avait pas lieu de prédire que les autres réserves énumérées au tableau 2, avant la dilution, n'auraient pas une teneur d'extraction similaire de 0,15 oz/t.c. comme cela c'était produit en 1989 et en 1990, et qu'il n'y avait pas non plus lieu de s'y attendre.
+[40] Le terme « indiquées par forage » figurant au tableau 2, n'est pas conforme à la politique nationale 2-A. Cependant, selon M. Farquharson, son usage dans la liste des réserves géologiques de la mine Magnacon indiquerait que les données utilisées pour estimer les réserves indiquées étaient moins nombreuses que celles employées pour établir les réserves possibles ou présumées, ce qui ne satisferait fort probablement pas aux exigences du public investisseur en matière de divulgation. De plus, pour établir la teneur des réserves « indiquées par forage » , toutes les teneurs en or élevées auraient dû être réduites, avant de tenir compte de la dilution, afin de restreindre leur influence, comme ce fut fait pour les autres catégories de réserves de la mine Magnacon. M. Farquharson a convenu que les réserves « indiquées par forage » figurant au tableau 2 pouvaient être qualifiées de potentielles, mais que leur volume (en tonnes courtes) et leur teneur présentaient néanmoins un très fort degré d'incertitude.
+[41] M. Farquharson se souvenait qu'en général, au début des années 1990, le terme « réserves indiquées par forage » était parfois attribué par les petites sociétés minières à des résultats obtenus lors de forages très espacés qui étaient encourageants mais qui ne soutenaient pas leur présomption d'une continuité de la teneur ou des dimensions entre les trous de forage, comme ce devait être le cas pour établir des réserves possibles.
+[42] Pour déterminer si les autres réserves de minerai de la Mine dans les catégories de réserves prouvées, de réserves probables et de réserves possibles, au tableau 2, auraient pu être extraites d'une façon rentable, M. Farquharson s'est demandé s'il était profitable d'extraire une tonne courte à teneur moyenne. Aux fins de ses calculs, il a émis les hypothèses suivantes à l'égard du minerai provenant du bien Magnacon :
+· Teneur moyenne de 0,15 oz/t.c., compte tenu de l'expérience passée;
+· Récupération de l'or du minerai extrait dans le processus de traitement à 90 p. 100 comme Magnacon l'avait signalé pour l'année 1990;
+· Prix de l'or à 447 $CAN l'once en 1990 et à 527 $CAN l'once en 1995, au moment où l'opération a été conclue entre Windarra et l'appelante;
+· Frais d'exploitation, pour l'extraction et le traitement, de 75 $ la tonne courte, ce qui correspondait à l'estimation figurant dans l'étude de faisabilité, ce chiffre n'ayant toutefois jamais été atteint. L'examen des états financiers de Muscocho montre qu'en 1989, les frais d'exploitation de la Mine s'élevaient à plus de 100 $ la tonne courte;
+· Il y avait également une redevance sur les ventes d'or provenant de la Mine, une fois que le niveau de production commerciale était atteint, cette redevance représentant 3 p. 100 des recettes pour les trois premières années d'exploitation et 5 p. 100 par la suite, ce qui donnerait lieu à une déduction additionnelle de deux ou de trois dollars la tonne courte, que M. Farquharson n'avait pas incluse dans son analyse, étant donné que les marges d'exploitation étaient déjà négatives avant que la redevance sur les recettes soit déduite.
+[43] Au tableau 5 ci-dessous, M. Farquharson a résumé les marges d'exploitation pour le traitement d'une tonne courte de minerai à la Mine en 1990 et en 1995, compte tenu des hypothèses susmentionnées. Il a conclu que la Mine avait perdu de l'argent sur chaque tonne courte de minerai extraite en 1990 et qu'elle aurait continué à en perdre en 1995 si des activités de production avaient encore été exercées, en extrayant la même teneur et en engageant les coûts d'exploitation prévus dans l'étude de faisabilité, même si le prix de l'or en dollars canadiens en 1995 était beaucoup plus élevé qu'en 1990. Les frais d'exploitation auraient été plus élevés en 1995 simplement à cause des pressions inflationnistes normales.
+[TRADUCTION]
+Tableau 5
+Marges d'exploitation de Magnacon - en 1990 et en 1995
+1990
+1995
+Teneur en or - oz/t.c.
+0,15
+0,15
+Récupération de l'or - %
+90
+90
+Prix de l'or - en dollars canadiens par once
+447 $
+527 $
+Recettes - en dollars canadiens par tonne courte de minerai
+60 $
+71 $
+Frais d'exploitation - en dollars canadiens par tonne courte de minerai
+75 $
+75 $
+Marge d'exploitation
+-
+-
+[44] De l'avis de M. Farquharson, il faut au minimum obtenir des marges d'exploitation positives en vue de payer les frais d'aménagement continus de la mine qui seraient normalement capitalisés, de même que les frais d'aménagement initiaux de la mine et les dépenses en capital pour les installations de traitement, l'infrastructure et ainsi de suite. Par conséquent, la simple analyse des marges d'exploitation qu'il avait effectuée, a-t-il affirmé, mène à la conclusion inévitable selon laquelle les [TRADUCTION] « réserves de minerai » du bien Magnacon ne peuvent pas être extraites d'une façon rentable et ne peuvent pas être désignées comme du minerai, conformément à la terminologie et à l'interprétation traditionnelles dans le domaine minier telles qu'elles existent dans l'industrie minière. M. Farquharson a conclu qu'il n'y avait pas de réserves de minerai à la Mine en 1990 ou en 1995 lorsque l'opération entre Windara et l'appelante a été conclue.
+[45] M. Farquharson était d'accord avec M. Lawrence pour dire qu'en évaluant un bien minier ayant des réserves de minerai, on détermine normalement la valeur actualisée nette des flux monétaires résultant de l'extraction des réserves de minerai du bien. Dans le cas du bien Magnacon, a-t-il soutenu, il n'était pas possible d'extraire les [TRADUCTION] « réserves de minerai » pendant la période allant de 1989 à 1995 en vue d'arriver à des flux monétaires positifs, principalement parce que la teneur du minerai qui serait livré à l'usine serait trop faible et qu'elle serait moindre que ce qui était prévu. Par conséquent, il n'y aurait pas de flux monétaire susceptible de servir de fondement à l'évaluation selon la méthode des flux monétaires.
+[46] Les réserves de minerai indiquées au tableau 2, y compris les réserves dans la catégorie des réserves possibles de même que dans les catégories des réserves prouvées et des réserves probables au mois d'octobre 1990, selon ce que M. Farquharson a déclaré, représentaient moins de deux années d'exploitation si la mine avait poursuivi ses activités au même taux de production. De plus, le bien était grevé d'une dette bancaire élevée ainsi que d'autres obligations qui ne pouvaient pas être remboursées dans une période de deux ans.
+[47] De l'avis de M. Farquharson, la catégorie des réserves « indiquées par forage » ne devrait pas être utilisée pour le modèle de flux monétaires, parce que cela était trop conjectural et que ce n'était pas conforme à la politique nationale 2-A. M. Farquharson a reconnu que, malgré la restriction relative à l'utilisation des réserves « indiquées par forage » pour les prévisions concernant les flux monétaires, ce matériau minéralisé a une certaine valeur.
+[48] M. Farquharson ne nie pas qu'un bien minier puisse avoir une valeur même si les réserves de minerai ne peuvent pas être utilisées aux fins des flux monétaires. Il convient que l'or dans le sol d'un bien minier a une valeur simplement parce que les investisseurs sont prêts à accorder une valeur à cet or. Toutefois, la valeur attribuée serait inférieure à la valeur de l'or dans une mine en exploitation ou dans une mine rendue au stade de la production qui devrait avoir des marges d'exploitation positives.
+[49] Dans l'examen WGM, on mentionnait six opérations conclues pendant la période allant de 1993 à 1995, à la suite desquelles des réserves d'or avaient changé de propriétaires à des valeurs allant de 15 $ à 45 $ l'once. M. Farquharson a dit que la fourchette des valeurs pour les opérations relatives à l'or peut souvent être supérieure. Les facteurs qui influent sur ces opérations, a-t-il dit, comprennent la rentabilité de la mine par once d'or selon les prévisions, l'importance du gisement et, par conséquent, la durée de vie indiquée du bien ainsi que les possibilités d'ajouter dans l'avenir plus de réserves d'or ou de minéralisation.
+[50] De l'avis de M. Farquharson, le gisement de Magnacon ne pouvait pas être exploité d'une façon rentable en 1989 et en 1990, et il était peu probable qu'il puisse être exploité isolément d'une façon rentable par la suite, à moins qu'il n'y ait une grosse augmentation du prix de l'or, comme on le faisait remarquer dans les déclarations de la direction de Muscocho. Le gisement de Magnacon avait uniquement une durée de vie indiquée de deux ans au moment de la fermeture, même s'il existait une possibilité de durée de vie plus longue. En appréciant les possibilités d'une prolongation prévue de la durée de vie de la Mine, M. Farquharson a fait remarquer que le bien Magnacon avait fait l'objet de travaux de forage plutôt étendus par le passé et qu'en 1987 et en 1988 seulement, on avait procédé à des travaux de forage à des fins d'exploration sur 200 000 pieds. M. Farquharson supposait que le bien offrait peut-être plus de possibilités, mais il croyait que ces possibilités seraient restreintes, étant donné les travaux d'exploration qui avaient déjà été exécutés. De l'avis de M. Farquharson, pour trouver plus de minéralisation en profondeur dans le bien, là où se trouve une bonne partie du matériau de la catégorie « indiquée par forage » , il faudrait des teneurs beaucoup plus élevées pour que cela soit rentable, étant donné les frais d'exploitation plus élevés associés à l'extraction en profondeur, et un investissement de capitaux plus important pour avoir accès à la minéralisation aurifère en profondeur.
+[51] Prenant en considération ces facteurs qui s'appliquent à l'inventaire des minéraux de Magnacon, M. Farquharson a tenu compte de la partie inférieure de la fourchette des valeurs de l'or par once proposée par WGM dans son analyse des opérations comparables. Son évaluation de l'inventaire de minéraux de Magnacon est résumée ci-dessous :
+[TRADUCTION]
+Tableau 6
+Évaluation de l'inventaire minéralisé de Magnacon
+Catégorie
+Onces d'or contenues
+Valeur par once
+Fourchette des valeurs en millions
+Réserves prouvées et probables
+29 600
+20 - 25 $
+0,6 - 0,7 $
+Réserves possibles
+25 100
+15 - 20 $
+0,4 - 0,5 $
+Réserves indiquées par forage
+192 000
+0 - 10 $
+Néant - 1,9 $
+Total
+1,0 - 3,1 $
+[52] Compte tenu de la fourchette d'évaluation d'un million à 3,1 millions de dollars pour tout le bien minier Magnacon, M. Farquharson a conclu que le droit correspondant à environ 11 p. 100 que Windarra a vendu à l'appelante en 1995 devrait avoir une valeur de 100 000 $ à 350 000 $. M. Farquharson a reconnu qu'une telle valeur était faible par rapport aux 1,9 million de dollars auxquels l'opération avait été conclue, mais que cela était influencé par le fait que le bien Magnacon était demeuré inactif pendant une période de cinq ans, de 1990 à 1995, pendant que Muscocho déployait en vain des efforts intensifs afin de trouver un acheteur ou un investisseur qui participerait à la reprise des activités d'extraction sur le bien.
+[53] Néanmoins, M. Farquharson a admis que le bien Magnacon comportait un certain nombre d'aspects fort positifs qui auraient normalement contribué à susciter l'intérêt des investisseurs, notamment : la mine souterraine était aménagée; une nouvelle usine de traitement était construite; la Mine était bien située pour attirer du personnel d'exploitation et pour fournir des services de soutien; de plus, la Mine avait toutes les autorisations nécessaires. Toutefois, il existait une perception défavorable selon laquelle la teneur extraite des réserves de minerai était trop faible pour que le projet puisse être rentable comme la chose avait été démontrée en 1989 et en 1990, et les possibilités d'obtenir une teneur plus élevée au moyen de travaux d'exploration additionnels étaient considérées comme fort restreintes. Cette situation était également reconnue par la direction et par les vérificateurs de Muscocho, lorsque la valeur comptable de 75 p. 100 du bien Magnacon a été ramenée à moins de 4 millions de dollars en 1992 et qu'elle a baissé chaque année par la suite.
+L'opinion présentée par l'appelante en contre-preuve
+[54] Ross Glanville & Associates Ltd. ( « Associates » ) a été engagée par l'appelante pour fournir une opinion en contre-preuve en réponse au rapport de M. Farquharson. Associates se spécialise dans l'évaluation de sociétés minières et de sociétés d'exploration publiques et privées, y compris les mines productives, entre autres choses. La société fournit également des opinions sur l' « équité » et des services de soutien au contentieux en matières financière et technique. M. Ross Glanville est président d'Associates et il était l'auteur de l'opinion présentée en contre-preuve. M. Glanville a obtenu un baccalauréat en science appliquée (génie minier) de l'université de la Colombie-Britannique en 1970 et il est devenu membre de l'Association of Professional Engineers de la Colombie-Britannique en 1972; en 1974, il a obtenu une maîtrise en administration des affaires et, en 1980, il est devenu membre des Certified General Accountants of British Columbia. Il a évalué plus de 500 sociétés minières et sociétés d'exploration ainsi que des biens miniers.
+[55] Dans son opinion initiale, Associates a examiné le rapport WGM ainsi que le rapport Farquharson et a en outre offert sa propre conclusion au sujet de la juste valeur marchande du droit que l'appelante possédait sur la Mine lors de l'achat. Une conclusion relative à la juste valeur marchande n'est pas justifiée dans une opinion présentée en contre-preuve et j'ai refusé la production de l'opinion. M. Glanville a par la suite modifié son rapport, en supprimant toute mention de son opinion quant à la juste valeur marchande et il a été reconnu à titre de témoin expert.
+[56] Pendant le contre-interrogatoire de M. Glanville, il est devenu évident que son opinion était fondée sur l'examen et le rapport WGM. M. Glanville s'est appuyé sur le rapport WGM pour les calculs relatifs aux ressources; par exemple, le nombre total de tonnes courtes était de 2 345 000. Lorsqu'on lui a demandé s'il avait tenu compte des calculs concernant les réserves qui avaient été effectués par le personnel de Muscocho lorsque la Mine avait été fermée en 1990, M. Glanville a fait remarquer qu'il était difficile de déterminer s'ils étaient pertinents puisqu'il disait ne pas les avoir examinés en détail et qu'il s'était fondé sur WGM, qu' affirmer qu'il les avait examinés en détail serait une exagération.
+[57] Quant aux 980 000 tonnes courtes additionnelles de minerai que WGM avait incluses dans le nombre total de tonnes courtes de minerai possible, M. Glanville a déclaré que les ressources additionnelles [TRADUCTION] « étaient prévues dans des secteurs où il y avait eu fort peu ou pas du tout de trous de forage au-delà de la minéralisation existante » . M. Glanville ne savait pas quelle était la profondeur; il se fondait sur les catégories ainsi que sur les chiffres de WGM et acceptait les [TRADUCTION] « chiffres relatifs aux ressources » en tenant compte de la réputation de WGM à titre de [TRADUCTION] « firme internationale de géologues et d'ingénieurs » .
+[58] M. Glanville n'a pas examiné à fond les conclusions de M. Farquharson. Il préférait simplement les conclusions de WGM et il a reconnu que, si le rapport et l'examen WGM étaient viciés, son rapport l'était également dans la mesure où il se rapportait à l'élément « ressources » .
+[59] La méthodologie employée par M. Glanville consistait simplement à comparer les chiffres obtenus par M. Farquharson avec ceux de WGM. M. Glanville a utilisé ces derniers chiffres en vue d'essayer de réfuter les autres, sans enquêter d'une façon indépendante sur l'exactitude des chiffres obtenus par l'un et l'autre. En général, son opinion n'était donc pas utile. Toutefois, je conclus que l'analyse à laquelle M. Glanville a procédé était utile dans une certaine mesure. Ainsi, M. Glanville a déclaré pendant le contre-interrogatoire que la fourchette des valeurs par once d'or utilisée par M. Farquharson à l'égard de la minéralisation prouvée et de la minéralisation probable, de 20 à 25 $, serait une valeur acceptable si elle s'appliquait indistinctement à toutes les catégories d'or. M. Glanville a déclaré que la pratique courante dans l'industrie consistait à évaluer la minéralisation de cette façon, par opposition à l'attribution de valeurs précises pour chaque classification particulière. De plus, dans son rapport, M. Glanville cite un certain nombre de facteurs qui indiqueraient une valeur plus élevée que celle à laquelle M. Farquharson était arrivé. Il importe de noter qu'il existait une possibilité de découverte de ressources additionnelles à la Mine et que des économies d'échelle étaient possibles si les opérations étaient combinées à d'autres gisements existants ou futurs dans la région.
+Les observations de l'avocat
+[60] L'avocat de l'appelante a comparé les opinions WGM et Strathcona et il a constaté qu'elles ne s'accordaient pas à l'opinion exprimée par M. Farquharson sur au moins cinq points : la quantité et la qualité des réserves minérales à la Mine; les flux monétaires actualisés; les frais d'exploitation envisagés par tonne courte; la teneur envisagée qui pouvait être récupérée et la question de savoir si les réserves présumées devaient être utilisées aux fins de l'évaluation du bien de la Mine.
+La reclassification des ressources à un degré supérieur
+[61] L'avocat de l'appelante, Me Cook, a soutenu que les rapports McAleenan et Muscocho renfermaient un nombre suffisant d'éléments de preuve pour ranger le « minerai possible » dans la catégorie du « minerai probable » . La définition de l'expression « minerai possible » figurant dans la politique nationale 2-A est fondée sur une analyse qualitative exigeant un certain degré de subjectivité et de jugement professionnel. Il n'existe aucune ligne de démarcation concrète qui permette de faire une distinction entre le minerai « possible » et le minerai « probable » . L'avocat a déclaré que la décision de WGM de reclassifier les réserves à la Mine à un degré supérieur était fondée sur l'inspection du bien à laquelle le personnel de WGM avait procédé en 1993 et sur les années collectives d'expérience de WGM en matière d'examen et d'évaluation de biens miniers.
+[62] L'avocat de l'appelante a fait une distinction entre la définition des expressions « minerai possible » ou « minerai présumé » figurant dans la politique nationale A-2, ou la norme qui leur était applicable, et la définition du [TRADUCTION] « minerai possible accessible » [11] donnée par M. McAleenan et il a soutenu qu'il n'y a rien dans la définition des « réserves possibles » figurant dans la politique nationale 2-A qui exige que ces réserves soient situées à proximité du niveau le plus bas de la Mine ou qu'elles soient accessibles depuis les chantiers de mine au moyen d'une quantité minimale de travaux de mise en valeur.
+[63] L'avocat de l'appelante a soutenu que la définition du minerai « présumé » donnée par M. McAleenan était conforme aux paramètres énoncés au sous-alinéa a)(ii) à l'égard du « minerai possible » dans la politique nationale 2-A et qu'elle était compatible avec le traitement par M. McAleenan des réserves « présumées » en tant que réserves « possibles » , lesquelles n'étaient pas au-dessus du niveau le plus bas de la Mine ou n'étaient pas accessibles au moyen d'une quantité minimale de travaux de mise en valeur. La définition de la réserve « présumée » que M. McAleenan a donnée est plus stricte que celle qui est exigée pour le « minerai possible » selon la politique nationale 2-A, étant donné que cette dernière n'exige pas qu'il y ait des échantillons ou des mesures.
+[64] L'avocat de l'appelante a mentionné l'interprétation de certains trous de forage que M. McAleenan avait donnée, comme la section longitudinale 8 de la Mine qui, de l'avis de l'avocat, montre la [TRADUCTION] « symétrie » entre la définition des réserves présumées qu'il a donnée et celle des réserves possibles ou des réserves présumées figurant dans la politique nationale 2-A. M. McAleenan a reconnu que ce qu'il avait rangé dans la catégorie des réserves présumées dans la section longitudinale 8, la section EZ.1, pouvait être classifié comme du minerai possible, compte tenu des interactions géologiques. L'avocat a déclaré que les classifications de M. McAleenan n'étaient pas accidentelles; il a divisé en deux catégories ce qui, selon la politique nationale 2-A, serait considéré comme des réserves « possibles ou présumées » , les réserves [TRADUCTION] « possibles accessibles » et les réserves [TRADUCTION] « présumées » , les réserves qui seraient accessibles depuis les chantiers de la Mine et celles qui ne le seraient pas.
+[65] Me Cook n'acceptait pas l'avis de M. Farquharson selon lequel le personnel de Magnacon qui avait préparé le rapport Muscocho possédait des connaissances suffisantes pour évaluer et classifier la réserve estimée par rapport au personnel de WGM. Le personnel de Magnacon peut avoir eu de l'expérience pour une seule mine, alors que WGM avait examiné et évalué de nombreux biens miniers et qu'elle avait donc plus d'expérience lorsqu'il s'agissait de classifier la minéralisation et d'exprimer son opinion au sujet de son existence. La procédure que WGM avait suivie en prévoyant 980 000 tonnes courtes additionnelles de minerai possible était appropriée.
+[66] L'avocat de l'appelante a également attaqué le rejet par M. Farquharson du tonnage additionnel. M. Farquharson s'était fondé sur la déclaration suivante que la direction avait faite dans le rapport annuel 1989 de Muscocho :
+[TRADUCTION] L'examen des frais d'exploitation et d'immobilisation futurs indiqués aux fins de la production, des réserves de la mine et de l'augmentation prévisible potentielle des réserves, de la capacité d'exploitation de l'usine ainsi que des prévisions raisonnables relatives aux prix probables du pétrole a amené la direction à conclure que les coûts reportés à ce jour quant aux travaux d'exploration et d'aménagement chez Magnacon ne seront probablement pas récupérés pleinement à l'aide des flux monétaires et un montant de 6 250 000 $ sur les frais d'exploration et d'aménagement qui avaient été reportés a donc été radié.
+[67] Toutefois, comme Me Cook l'a déclaré, M. Farquharson a omis de tenir compte du contexte dans lequel la réduction avait été effectuée, des explications étant données à ce sujet dans le même rapport annuel :
+[TRADUCTION] La longue période de démarrage et le prix de teneur faible ont occasionné un épuisement important des disponibilités [...] Deux arrêts majeurs de fonctionnement de l'usine, au mois de décembre, ont entraîné des pertes sérieuses sur le plan de la production [...] la capacité de la société de poursuivre ses activités dépend du soutien continu de ses banquiers et d'autres créanciers tant que l'on n'aura pas procédé à un refinancement. La banque a informé la société qu'elle n'était pas prête à continuer à assurer son appui indéfiniment et qu'elle voulait que le programme de refinancement soit mené à bonne fin.
+[68] La réduction a eu lieu, selon l'avocat de l'appelante, en tant que partie intégrante des efforts de refinancement de la société et elle visait à s'assurer que [TRADUCTION] « les réserves futures ne soient pas grevées de frais d'amortissement qui ne pouvaient pas être absorbés par ces réserves » [12]; la réduction ne devrait pas être considérée comme une réduction par la société de la juste valeur marchande estimée de la Mine.
+Les flux monétaires actualisés
+[69] M. Farquharson a exprimé l'avis selon lequel, étant donné que la Mine ne générait pas de profits, aucune analyse des flux monétaires ne pouvait être appliquée aux fins de l'évaluation du bien. Toutefois, l'avocat de l'appelante affirme qu'en tirant sa conclusion, M. Farquharson n'a procédé à aucune analyse de sensibilité à l'égard de ses hypothèses; la modification des hypothèses, si minime soit-elle, lui aurait permis de conclure que la Mine et l'usine seraient rentables. S'il avait supposé une teneur en minerai de 0,16 oz/t.c., un taux de récupération de 90 p. 100, ou le prix de l'or à 527 $ l'once, et un coût de 75 $, il aurait obtenu un profit.
+Les frais d'exploitation
+[70] Quant au coût, M. Farquharson a adopté un chiffre semblable à celui qui avait été utilisé dans l'étude de faisabilité, ce qui donnait un coût de 76,10 $ la tonne courte. M. Farquharson a supposé un coût de 75 $ mais, selon l'avocat de l'appelante, il n'a pas tenu compte du fait que l'étude de faisabilité prévoyait que les frais d'exploitation réels seraient plus faibles que le chiffre utilisé dans l'étude à cause de la quantité de travaux d'extraction par longs trous qui devaient être exécutés à la Mine. Dans le rapport annuel 1989 de Muscocho, le président de Muscocho a affirmé que le fait qu'on avait tardé, au début de l'année, à alimenter le site en électricité avait occasionné des retards dans le démarrage de l'usine; pendant toute cette période, les frais mensuels continuaient à augmenter rapidement au fur et à mesure que la Mine en arrivait au stade de la production. L'avocat de l'appelante a imputé la fermeture de la Mine, moins d'un an et demi après le début des opérations et avant que le niveau de production commerciale ne soit atteint, au fait qu'elle n'était pas financée d'une façon adéquate.
+[71] WGM a conclu que le montant de 66 $ la tonne courte était un coût raisonnable à utiliser pour ses calculs. M. Lawrence a tenu compte des frais réels qui avaient été engagés au cours de la période ultérieure de production, des discussions avec le personnel de la Mine et du projet de reprise des activités de la Mine et de l'usine. Au mois de mai 1990, les frais d'exploitation réels s'élevaient à 53,71 $ la tonne courte, soit un montant de beaucoup inférieur au montant de 75 $ supposé dans l'étude de faisabilité.
+Le taux de récupération
+[72] Dans son étude de faisabilité, M. Hendrich prévoyait un taux de récupération de l'or de 95 p. 100; de son côté, M. Farquharson prévoyait un taux de 90 p. 100. L'avocat de l'appelante a attribué le taux de récupération réellement obtenu à la mine aux problèmes opérationnels qui se posaient à l'usine et au fait que l'on traitait de la roche des travaux de mise en valeur à teneur plus faible. En outre, selon certains témoignages, les filtres de mauvaise qualité utilisés à l'usine avaient eu des incidences négatives sur son rendement. Par conséquent, les recettes tirées de la Mine ont été réduites et les coûts ont été augmentés.
+[73] De l'avis de l'appelante, si M. Farquharson avait utilisé un taux de récupération de 95 p. 100, même avec une teneur de 0,15 oz/t.c., un prix de l'or de 527 $ l'once et un coût d'exploitation de 75 $, il aurait conclu que la Mine pouvait être rentable.
+[74] De même, selon les dires de l'avocat de l'appelante, M. Farquharson n'a procédé à aucune analyse des activités pour le prix de l'or. De l'avis de l'appelante, une augmentation de 5 p. 100 du prix de l'or indiquerait également une exploitation rentable.
+[75] Me Cook a reconnu que, dans son examen, WGM n'avait pas tenu compte des frais de redevances qui seraient par ailleurs payables aux propriétaires de la Mine. M. Lawrence a témoigné que, s'il avait incorporé les frais de redevances dans son analyse des FMA, le résultat aurait été réduit de 10 p. 100, ce qui aurait donné une fourchette variant de 10,3 millions à 19,6 millions de dollars. Quant à la méthode des comparables employée par WGM, le rajustement des redevances changerait la fourchette d'évaluation de la Mine qui serait de 12,8 millions à 19,6 millions de dollars; un droit de 22,23 p. 100 sur la Mine serait évalué à environ 4 052 500 $.
+L'utilisation de réserves présumées
+[76] La question de l'utilisation de réserves présumées constituait une partie importante de la preuve et de l'argumentation des avocats. En évaluant le bien Magnacon, M. Lawrence a accordé beaucoup de poids à son estimation des réserves présumées. M. Farquharson s'est reporté à la politique nationale 2-A pour soutenir que [TRADUCTION] « les réserves possibles ou présumées » ne doivent pas être ajoutées à d'autres catégories de réserves et qu'il n'est pas acceptable de les inclure dans une analyse économique ou dans une étude de faisabilité. La divergence de vues entre ces deux témoins mettait en question l'exactitude du calcul des FMA. M. Lawrence a rédigé un article, dans le numéro du mois d'avril 2001 de la revue « Mining Engineering » , dans lequel il se posait la question suivante : [TRADUCTION] « Les prévisions relatives aux flux monétaires actualisés aux fins de la détermination de la juste valeur marchande devraient-elles être uniquement fondées sur les réserves prouvées et sur les réserves probables? » Il a conclu que les prévisions relatives aux FMA devaient être fondées sur toutes les réserves et ressources, y compris les réserves présumées, et que la juste valeur marchande devait être déterminée après que les risques techniques et financiers en cause ont été pris en compte d'une façon appropriée.
+[77] Les experts de l'appelante estimaient qu'il convenait d'inclure les réserves présumées et les réserves possibles dans une analyse des FMA aux fins de l'évaluation d'un bien minier. Ainsi, M. Glanville a parlé de l'acquisition d'Arequipa Resources ( « Arequipa » ) par Barrick Gold Corporation ( « Barrick » ) en 1996; malgré certaines indications provenant de neuf échantillons de trous de forage seulement, Barrick a versé un montant d'environ un milliard de dollars pour acheter le bien. M. Farquharson a reconnu qu'en achetant Arequipa, Barrick avait attribué une valeur à quelque chose d'autre que les réserves « prouvées » ou « probables » . De plus, lors d'une autre opération, Placer Dome avait peut-être tenu compte de réserves autres que les réserves « prouvées » ou les réserves « probables » lorsqu'elle avait acquis, en 1999, un bien de Getchell Gold Corporation, au Colorado.
+[78] Enfin, l'avocat de l'appelante a également critiqué M. Farquharson pour ne pas avoir examiné les ventes de biens miniers comparables comme l'avait fait M. Lawrence; en particulier, il n'avait pas fait de commentaires au sujet du choix par WGM des biens qu'elle considérait comme les plus comparables à la Mine.
+[79] L'avocat de l'appelante a ajouté que des événements qui s'étaient produits après la date d'application de l'évaluation avaient en partie influencé M. Farquharson.
+[80] M. Lawrence ne souscrivait pas aux estimations des réserves d'or de la Mine effectuées par M. McAleenan et par le personnel minier de Muscocho, les réserves étant estimées, dans le premier cas, à 1 472 698 tonnes courtes pour 278 340 onces d'or et, dans le second cas, à 1 366 751 tonnes courtes pour 246 000 onces de minerai. Selon les estimations du rapport Kilborn, il y avait 1 423 000 tonnes courtes (plus 49 000 tonnes courtes de piles de stockage à la surface). Sur cette quantité, 1 115 515 tonnes courtes, d'une teneur moyenne de 0,171 oz/t.c., étaient présumées. Selon les estimations de M. Lawrence, il y avait 2 345 000 tonnes courtes, d'une teneur moyenne de 0,20 oz/t.c., pour 469 000 onces d'or; 250 000 tonnes courtes étaient [TRADUCTION] « prouvées et probables » , mais dans l'ensemble la quantité estimée était une réserve [TRADUCTION] « possible » . L'estimation à laquelle est arrivé M. Lawrence représente environ 1 000 000 tonnes courtes de plus que les estimations antérieures. M. Lawrence a reclassifié à un niveau supérieur la plupart des réserves calculées par le personnel minier de Muscocho et il a en outre ajouté 980 000 tonnes courtes.
+[81] M. Lawrence a rangé dans la catégorie des réserves « probables » 119 000 tonnes courtes classifiées en tant que réserves « possibles » par le personnel minier de Muscocho parce qu'il a [TRADUCTION] « conclu que tout le matériau que Muscocho rangeait dans la catégorie du « minerai prouvé, probable et possible » devait être classifié avec les [TRADUCTION] « réserves de minerai prouvées et probables » . Selon M. Lawrence, les estimations du personnel minier étaient trop conservatrices. En classifiant les réserves, M. Lawrence a combiné les catégories de minerai « prouvé » et de minerai « probable » en une seule catégorie, le minerai [TRADUCTION] « prouvé et probable » . Dans son calcul des FMA, M. Lawrence a uniquement utilisé le minerai « prouvé » , de sorte que le minerai que le personnel de Muscocho considérait comme « possible » est devenu du minerai « prouvé » . Selon moi, il s'agit de tout un bond. Les auteurs du rapport Kilborn de 1990 avertissaient le lecteur qu'il fallait procéder à des travaux détaillés de sondage au diamant et d'aménagement pour que la réserve de 84 000 tonnes courtes, d'une teneur de 0,209 oz/t.c., puisse être rangée dans la catégorie « probable » .
+[82] M. Lawrence a également placé les 1 115 000 tonnes courtes de minerai indiqué par forage (par Kilborn) dans la catégorie du minerai « possible » , étant donné que les deux catégories étaient selon lui synonymiques. M. McAleenan et M. Farquharson considéraient qu'il s'agissait de deux catégories distinctes. Quant à M. Farquharson, le matériau « indiqué par forage » doit d'abord être considéré comme du minerai avant de pouvoir être considéré comme du « minerai possible » . Il faut que le minerai puisse être extrait et vendu d'une façon rentable. De l'avis de M. Farquharson, étant donné que, selon le critère à appliquer pour inclure le matériau dans la catégorie « indiqué par forage » , il suffit que ce matériau ait une teneur de plus de 0,05 oz d'or par tonne courte, il ne serait pas viable sur le plan économique et il n'était donc pas approprié pour M. Lawrence de reclasser ce minerai dans la catégorie « possible » .
+[83] Les raisons pour lesquelles M. Lawrence a ajouté 980 000 tonnes courtes de réserves « possibles » ont déjà été examinées dans ces motifs. À l'instruction, M. Lawrence a produit un document intitulé [TRADUCTION] « Tableau des réserves de minerai de Magnacon par zone et estimation du minerai possible en profondeur » [13] à l'appui de l'ajout des 980 000 tonnes courtes.
+[84] Si je comprends bien, le calcul effectué dans ce document était fondé sur moins de 1 800 tonnes courtes/pied vertical, le tonnage par pied vertical variant en fonction du filon et de la zone, et il était basé sur une élévation de
+-200 pieds, un ajout de 1 200 pieds, ce qui donnait un tonnage total prévu d'un peu plus de 2 millions de tonnes courtes.
+[85] La méthodologie d'essai employée par M. Lawrence avait pour effet de surestimer les tonnes courtes/pied vertical dans les secteurs où la ressource se prolonge au-delà du niveau le plus bas des chantiers de la mine et de compter à deux reprises ces blocs. En outre, la justification que M. Lawrence a donnée pour extrapoler à l'élévation de -200 pieds des réserves de minerai semblables quant à la qualité du minerai dans les chantiers de la mine, compte tenu du fait que la Mine était située dans une ceinture de roches vertes archéennes, constitue, comme l'avocate de l'intimée l'a soumis, une généralisation non corroborée.
+[86] Les résultats des travaux de forage exécutés à la Mine n'étayaient pas une telle extrapolation, étant donné que les trous de forage en dehors des blocs de minerai définis indiquaient une teneur très faible ou même n'indiquaient aucune teneur. Selon M. Farquharson, cela voulait dire que la minéralisation ne continuait pas en profondeur comme le supposait M. Lawrence, qui semble avoir supposé l'existence de minerai alors que la preuve obtenue par suite des travaux de forage donnait à entendre qu'une telle extrapolation était déraisonnable. En outre, les gens qui avaient déjà investi des capitaux dans la Mine ne partageaient pas l'optimisme de M. Lawrence quant aux possibilités futures de la Mine. Echo Bay n'était pas prête à investir des capitaux additionnels dans la Mine.
+[87] Dans l'ensemble, le tonnage des réserves de minerai classifiées par M. Lawrence, soit 2 095 000 tonnes courtes de minerai, ou environ 90 p. 100, fait partie de la catégorie « possible » ; je suis d'accord avec l'avocate de l'intimée pour dire que ce ne saurait servir de fondement aux FMA, parce que cela repose sur des conjectures.
+[88] Au mieux, il existe une preuve indiquant l'existence potentielle de 1 115 000 tonnes courtes classifiées par le personnel minier comme étant « indiqué par forage » , ce que M. McAleenan a décrit comme une indication des possibilités de la Mine.
+[89] L'ajout par M. Lawrence de 980 000 tonnes courtes à la catégorie du minerai « possible » a augmenté de plus de 70 p. 100 la réserve estimée par le personnel minier, ce qui a un effet important sur tout calcul des FMA. Ce tonnage devrait en fait être plus exactement considéré comme « conjectural » ; j'hésite à utiliser les 980 000 tonnes courtes dans le calcul des FMA.
+[90] Il est certain que la méthode de calcul des FMA est une méthode appropriée et acceptable qui aide à calculer la valeur nette d'une mine. Toutefois, la fiabilité des FMA est uniquement fonction de l'exactitude des hypothèses utilisées dans les calculs. Lorsque les données d'exploitation réelles entraînent des flux monétaires négatifs et qu'on se fie sur des données subjectives pour produire des flux monétaires positifs, il faut faire preuve d'énormément de prudence en utilisant ces hypothèses pour créer des flux monétaires positifs[14]. L'avocat de l'appelante a reproché à M. Farquarson de ne pas avoir procédé à une analyse de sensibilité dans son étude; il a soutenu qu'un changement, ne serait-ce que minime, dans l'une des hypothèses émises par M. Farquarson indiquerait un profit. L'avocat a augmenté, légèrement, des éléments tels que la teneur du minerai, le taux de récupération ainsi que le prix de l'or et il a réduit les coûts. Toutefois, bien que je sois d'accord avec l'avocat de l'appelante pour dire que même de légers changements démontreraient la capacité de la Mine d'être exploitée d'une façon rentable, des changements mineurs ayant pour effet de réduire la portée des hypothèses émises par M. Farquharson, par exemple, quant à la teneur du minerai, quant aux taux de récupération, quant au prix de l'or et quant à l'augmentation des coûts, indiqueraient une perte d'exploitation encore plus lourde. Les meilleurs indicateurs à appliquer pour déterminer les FMA d'une mine sont les valeurs historiques réelles, à moins bien sûr que ces valeurs ne soient grandement suspectes; or, les valeurs utilisées par M. Farquharson ne sont pas, selon moi, suspectes.
+La teneur
+[91] M. Lawrence a supposé que la teneur du minerai qu'il a classifié comme « prouvé et probable » était de 0,22 oz/t.c. et que la teneur des autres réserves était de 0,2. L'avocate de l'intimée soutient que M. Lawrence a gonflé la teneur du minerai, et ce, pour les raisons suivantes :
+a) les effets de la dilution n'ont pas été pris en considération;
+b) la teneur en or des réserves « indiquées par forage » a été portée de 0,17 à 0,2 oz/t.c.;
+c) des réserves supplémentaires totalisant 980 000 t.c. et titrant 0,2 oz/t.c. ont été prévues.
+[92] Dans son calcul des FMA, M. Lawrence a uniquement tenu compte des réserves in situ ou des réserves « géologiques » , par opposition aux réserves « exploitables » qui tiennent compte de la dilution et qui ont donc une teneur de minerai plus faible. À l'instruction, M. Lawrence a convenu que la teneur appropriée pour des FMA était la teneur diluée.
+[93] M. Lawrence a supposé une teneur géologique de 0,2 oz/t.c. pour la catégorie « indiqué par forage » , même si la teneur non ajustée et non diluée attribuée par le personnel minier, compte tenu d'échantillons de forage réels, était uniquement de 0,17. Il n'a pas « ajusté » la teneur pour les échantillons à teneur élevée (titrés) qu'il a utilisés en estimant les réserves « indiquées par forage » . Cela donnerait la teneur moyenne estimée de ces réserves. M. Farquharson a procédé à cet exercice et il a conclu que la teneur moyenne des réserves « indiquées par forage » était de 0,156 oz/t.c., mais non encore diluée. M. Lawrence a reclassé les 1 115 000 tonnes courtes à 0,2 oz/t.c. et il a également appliqué cette teneur aux 980 000 tonnes courtes additionnelles de minerai prévu, sans toutefois se fonder sur un échantillon.
+[94] M. Lawrence a parlé de l'expérience acquise par Magnacon en matière d'extraction et des résultats obtenus par d'autres mines de la ceinture de roches vertes archéennes, où la Mine est située, afin de justifier une teneur moyenne plus élevée que celle indiquée par les travaux d'exploration par sondage au diamant. Toutefois, l'expérience acquise par WGM sur le bien voisin de Eagle River, qui est également situé dans la ceinture de roches vertes archéennes, et l'expérience acquise sur le bien Magnacon, comme le montre la teneur faible du minerai traité de 0,17 oz/t.c. en 1989 et en 1990, ne permettaient pas de reclasser le contenu en or des réserves « indiquées par forage » de 0,17 à 0,2 oz/t.c., comme M. Lawrence l'avait fait.
+[95] Il m'est difficile d'accepter les explications que M. Lawrence a données au sujet de la façon dont il avait déterminé la teneur exploitable. Ses conclusions ne sont pas étayées par les estimations effectuées par le personnel minier quant à la teneur. La conclusion de M. Lawrence selon laquelle la teneur exploitable serait plus élevée (0,2) que la teneur géologique non ajustée non diluée (0,17) est douteuse. Étant donné l'effet important qu'un faible changement de teneur peut avoir sur la VAN d'un bien minier, la méthode par laquelle M. Lawrence a estimé les résultats obtenus pour la teneur constitue une hypothèse qui est trop incertaine pour qu'on puisse l'utiliser dans un calcul des FMA.
+Le taux de récupération à l'usine
+[96] M. Lawrence a utilisé un taux de récupération à l'usine de 96 p. 100. Or, le taux de récupération était de 85 p. 100 en 1989 et de 90 p. 100 en 1990. Les auteurs de l'étude de faisabilité supposaient un taux de récupération à l'usine de 95 p. 100, mais au mois de mai 1990, le personnel minier avait rabaissé ses attentes à 93,5 p. 100. M. Lawrence a adopté les meilleures hypothèses dans ses calculs.
+Les frais d'exploitation
+[97] Les auteurs du rapport WGM disaient que les FMA auxquels ils étaient arrivés étaient fondés sur des frais d'exploitation présumés de 66 $/tonne courte; toutefois, il semble que M. Lawrence ait supposé des frais d'exploitation de 64,50 $/tonne courte et, à l'instruction, il n'a pas pu expliquer l'écart.
+[98] Comme l'avocate de l'intimée l'a démontré, les hypothèses que M. Lawrence a émises au sujet des frais d'exploitation n'étaient pas conformes d'une évaluation à l'autre. Les auteurs de l'étude de faisabilité prévoyaient des frais d'exploitation de 76,10 $/tonne courte. Toutefois, M. Lawrence a témoigné que les frais, à la Mine, avaient augmenté à environ 100 $/tonne courte en 1989, ce qu'il a attribué à des problèmes de démarrage. La preuve révèle qu'en 1989, les frais d'exploitation étaient d'environ 82 $/tonne courte et qu'en 1990, ils avaient augmenté en moyenne à environ 105 $/tonne courte. Je suis d'accord avec l'avocate de l'intimée pour dire que les frais élevés n'étaient pas attribuables à des problèmes opérationnels de démarrage. Comme M. Lawrence l'a admis, les frais en baisse, au mois de mai 1990, soit le dernier mois de production souterraine, étaient probablement attribuables au fait que l'on avait rogné sur les coûts.
+[99] Le fait que les frais d'exploitation ont augmenté est conforme aux déclarations faites par le président d'Echo Bay Mines, Robert Calman, au mois de mai 1990, lorsque cette société a renoncé au marché envisagé avec Muscocho. En 1989, l'usine fonctionnait presque à capacité maximale et les frais élevés ne peuvent pas résulter d'un faible débit à l'usine.
+[100] Je suis d'accord avec l'avocate de l'intimée pour dire que l'examen WGM pose d'autres problèmes. Les problèmes que suscite le calcul effectué par M. Lawrence à l'égard des FMA sont notamment les suivants :
+(i) M. Lawrence n'a pas déduit les redevances; j'ai déjà traité de cette question;
+(ii) M. Lawrence n'a pas déduit les impôts, de sorte qu'il a surestimé la valeur;
+(iii) en employant la méthode des comparables, M. Lawrence a supposé les mêmes réserves et les mêmes teneurs, de sorte que les problèmes inhérents à la méthode qu'il a employée pour les FMA se posaient également dans la méthode des comparables qu'il a utilisée;
+(iv) l'hypothèse émise par M. Lawrence, selon laquelle le minerai en profondeur (à un niveau de -200 pieds) serait atteint au moyen d'une galerie inclinée, est incompatible avec le témoignage de M. Farquharson, qui a déclaré ne connaître aucune mine au Canada qui se fonde exclusivement sur cette technique pour atteindre cette profondeur;
+(v) M. Lawrence n'a pas inclus de frais d'immobilisation dans ses FMA pour la construction de la galerie inclinée et ses frais d'exploitation ne tiennent pas compte non plus de cette dépense additionnelle au fur et à mesure que l'on exploite la mine en profondeur;
+(vi) les FMA auxquels M. Lawrence est arrivé produisaient un taux de rendement interne variant de 49 à 72 p. 100, alors que M. Lawrence a admis qu'un taux interne allant de 7 à 12 p. 100 était plus habituel. Une mine par ailleurs rentable n'aurait pas produit un taux de rendement aussi élevé que celui qui était produit selon les FMA calculés par M. Lawrence.
+[101] WGMavait évalué le bien Magnacon à plusieurs reprises en 1992, en 1993, au mois de juin 1995 et au moins deux fois après la date de prise d'effet, au mois d'octobre 1995 et au mois de juillet 1996. Les valeurs ne sont pas uniformes.
+[102] Le 29 juillet 1993, WGM a envoyé un projet de lettre d'opinion à Citibank NA, à New York, en y joignant un tableau intitulé [TRADUCTION] « FMA de Magnacon - Modèle de la VAN » qui indiquait une valeur actualisée nette (la « VAN » ) de 29 132 000 $ (à 20 p. 100) à 50 millions de dollars (à 5 p. 100). Pendant le contre-interrogatoire, M. Lawrence a reconnu une erreur dans la VAN parce que la valeur actualisée de 50 millions de dollars (à 5 p. 100) était plus élevée que les flux monétaires de 43 millions de dollars, soit le montant actualisé. La VAN préparée pour l'Agence des douanes et du revenu du Canada montre une fourchette de 6,9 millions de dollars (à 20 p. 100) à 27,8 millions de dollars (à 5 p. 100). M. Lawrence n'a pas pu expliquer l'écart.
+[103] WGMa procédé à une évaluation formelle de la mine Magnacon de même que d'une autre mine située à proximité, la mine Magino, le 12 novembre 1993 et elle a conclu que la mine Magnacon avait une valeur de 31 millions de dollars. Selon le rapport d'évaluation, les FMA calculés par WGM variaient de 24 millions à plus de 50 millions de dollars. Les analyses des FMA ne sont pas incluses dans le rapport, mais étant donné que les hypothèses se rapprochent énormément des hypothèses émises en 1992, l'avocate de l'intimée soutient qu'une erreur similaire a également été commise en 1993.
+[104] Dans le rapport WGM du 8 juin 1995, on évaluait la mine à 17 200 000 $, soit une baisse d'environ 13 millions de dollars par rapport à l'évaluation de 1993. M. Lawrence n'a pas offert d'explication justifiant la baisse de valeur.
+[105] La Bourse de Vancouver exigeait l'évaluation effectuée au mois d'octobre 1995. Apparemment, la Bourse de Vancouver a approuvé l'opération au montant d'environ 1 400 000 $, compte tenu du fait qu'un montant allant de 1 015 000 $ à 1 397 000 $ était attribuable à l'élimination d'une obligation fiscale et le reste à la valeur de la Mine.
+[106] L'avocat de l'appelante s'est fondé sur le prix d'achat pour le droit de 11,12 p. 100 afférent à la Mine que l'appelante avait versé à Windarra comme représentant une valeur véritable, étant donné que le prix des actions de l'appelante n'avait pas baissé lorsque l'achat avait été annoncé. Selon la preuve qui a été soumise, le marché reconnaît souvent qu'un prix d'achat d'un actif minier correspond à la valeur des ressources de la société qui conclut l'opération. Étant donné que le prix des actions de l'appelante n'a pas changé par suite de l'achat, il faut reconnaître que le droit afférent à la Mine a été acheté à la juste valeur marchande. Je ne retiens pas cette conclusion. L'appelante comptait peu d'actionnaires; le vendeur possédait 76,25 p. 100 de ses actions émises. De plus, par suite de l'achat, l'appelante engageait des FCAC (frais cumulatifs d'aménagement au Canada) prévus de 1 922 895 $ qui devaient compenser le revenu tiré de la vente antérieure d'un droit minier. Ces deux facteurs, autant que tout autre facteur, peuvent avoir stabilisé le prix des actions de l'appelante. Quoi qu'il en soit, il n'existe aucun élément de preuve indiquant la raison pour laquelle le prix des actions n'a pas changé.
+L'indépendance de M. Lawrence à titre d'évaluateur
+[107] L'avocate de l'intimée a soutenu que M. Lawrence n'était pas un témoin impartial, compte tenu du nombre d'évaluations que l'appelante et des sociétés liées avaient demandé à WGM d'effectuer au fil des ans. De toute évidence, les services des évaluateurs sont retenus pour qu'ils appuient les assertions de leurs clients quant à la valeur; ces évaluateurs ne sont pas des experts indépendants. La Cour évalue le bien-fondé des valeurs opposées et arrive à une décision en se fondant sur la preuve[15]. Comme l'a dit M. Ovens, il arrive souvent que les tribunaux décident d'une valeur intermédiaire entre les chiffres soumis par les parties adverses[16]. Aucun juge ne croirait qu'un témoin expert est indépendant ou impartial; il y a une raison pour laquelle les témoins experts sont rémunérés.
+[108] M. Lawrence avait établi une bonne relation avec l'appelante et avec les sociétés liées. Cela étant, comme tout autre expert, il voulait aider le client à entretenir cette relation. Il est normal et il n'est pas malhonnête qu'il ait cherché une valeur potentielle inhérente à la Mine qui pourrait être avantageuse pour sa cliente. Je mentionnerai expressément l'ajout de 980 000 tonnes courtes de minerai possible, alors que personne d'autre n'a proposé, et encore moins reconnu, une telle possibilité.
+[109] M. Lawrence a offert des raisons pour justifier l'existence possible des 980 000 tonnes courtes additionnelles, mais j'ai conclu qu'il se raccrochait désespérément à un semblant d'espoir. J'aurais été beaucoup plus rassuré si l'appelante avait cité un autre évaluateur qui aurait examiné le rapport WGM ou qui aurait produit une évaluation entièrement nouvelle confirmant les conclusions tirées dans le rapport WGM.
+[110] L'avocat de l'appelante se demandait si la politique nationale 2-A était pertinente lorsqu'il s'agissait de déterminer les valeurs pour les besoins du présent appel. Comme son titre l'indique, la politique nationale 2-A vise à guider les ingénieurs, les géologues et les propriétaires. Les rapports sont des documents techniques qui doivent être soumis aux autorités provinciales en valeurs mobilières dans le but d'obtenir des fonds du public. L'avocat a déclaré que les rapports techniques ne sont pas des évaluations. De l'avis de Me Cook, la politique nationale 2-A offre à l'industrie des définitions lexicographiques selon les normes reconnues pour la classification des réserves de minerai, mais elle n'est pas pertinente en matière d'évaluation. Je suis d'accord avec Me Cook. La politique nationale 2-A ainsi que les Standards and Guidelines for Valuation of Mineral Properties (Normes et lignes directrices pour l'évaluation des biens miniers) préparées par le Special Committee of the Canadian Institute of Mining, Metallurgy and Petroleum on Valuation of Mineral Properties (CIMVAL) (Comité spécial de l'Institut canadien des mines, de la métallurgie et du pétrole sur l'évaluation des biens miniers) qui ont remplacé la politique nationale 2-A en 2003, après l'affaire Bre X, ne sont pas des règles d'évaluation des biens miniers. Comme Me Cook l'a déclaré, la politique nationale 2-A définit les ressources de minerai, selon les normes reconnues dans l'industrie. Les modalités d'application de ces classifications dans une évaluation relèvent de l'évaluateur. Idéalement, s'il existe des règles concernant l'évaluation des biens miniers, elles devraient s'appliquer d'une façon uniforme à l'évaluation des mines, où que celles-ci soient situées, au Canada, aux États-Unis, en Amérique du Sud ou en Asie. Néanmoins, les descriptions de minerai données dans la politique nationale 2-A sont utiles et elles ne devraient pas être carrément rejetées.
+[111] En conclusion, entre l'évaluation de M. Lawrence et celle de M. Farquharson, je préfère la méthode conservatrice de M. Farquharson et je retiens son estimation des onces d'or au moment pertinent :
+Catégorie de minerai
+Onces d'or contenues
+Prouvé et probable
+29 600
+Possible
+25 100
+Indiqué par forage
+192 000
+Total
+246 700
+[112] Les quantités d'or susmentionnées sont fondées sur des travaux de prospection effectués par Kilborn Engineering et par le personnel minier de Muscocho au moment de la fermeture de la Mine. Il existe dans le raisonnement de M. Farquharson une cohérence qui n'est pas présente dans l'évaluation de M. Lawrence. Je ne reproche pas à M. Lawrence d'avoir inclus des réserves présumées possibles. Même si, selon certains éléments de preuve, les sociétés minières tiennent compte des réserves présumées en négociant le prix d'achat et de vente d'un bien minier, il n'y a rien dans le témoignage de M. Lawrence qui me porte à appuyer son estimation. Toutefois, en ce qui concerne l'attribution de valeurs par once d'or, j'ai tendance à souscrire à l'idée de M. Glanville, à savoir que la valeur élevée de 20 à 25 $ devrait s'appliquer à toutes les réserves. Il s'agit d'un bon indicateur d'un prix sur lequel un vendeur averti et sérieux, sans lien de dépendance, insisterait en vendant ce bien. Dans son analyse, M. Farquharson évalue uniquement l' « or dans le sol » et ne tient pas compte des facteurs susmentionnés, ni du fait que d'importants travaux d'aménagement des structures avaient été exécutés sur le bien.
+[113] La juste valeur marchande par définition utilisée par l'évaluateur en l'espèce est le prix le plus élevé qu'on peut raisonnablement espérer d'un actif. Par conséquent, il n'est pas déraisonnable de conclure que la juste valeur marchande d'un droit de 100 p. 100 sur le bien Magnacon au moment où l'opération a été conclue entre Windarra et l'appelante est le produit de 25 $ et de 246 700 onces, selon les estimations du contenu en or de la Mine effectuées par M. Farquharson, soit 6 167 500 $. Sur cette base, la juste valeur marchande d'un droit de 11,12 p. 100 sur la Mine en 1995 s'élevait à 685 826 $.
+[114] L'appel est accueilli et la cotisation concernant l'année 1995 est renvoyée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que la juste valeur marchande du droit de 11,12 p. 100 afférent à la Mine, au 29 septembre 1995, s'élevait à 685 826 $. L'intimée aura droit à 85 p. 100 de ses dépens, puisque l'appelante a eu en partie gain de cause et compte tenu du fait qu'à mon avis, le contre-interrogatoire auquel l'avocate de l'intimée a soumis M. Lawrence était parfois redondant et a prolongé l'instruction.
+Signé à Ottawa, Canada, ce 20e jour de février 2006.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 15e jour de janvier 2007.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2006CCI105
+No DU DOSSIER DE LA COUR : 2002-2085(IT)G
+INTITULÉ : WESTWARD EXPLORATIONS LTD.
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Vancouver (Colombie-Britannique) et Toronto (Ontario)
+DATE DE L'AUDIENCE : Les 4, 5 et 6 octobre 2004,
+les 24, 25, 26 et 27 janvier et
+les 2, 3 et 4 mai 2005
+MOTIFS DU JUGEMENT : L'honorable juge Gerald J. Rip
+DATE DU JUGEMENT : Le 20 février 2005
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Steve Cook
+Avocates de l'intimée :
+Mes Wendy Burnham et Deborah Horowitz
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Steve Cook
+Cabinet : Thorsteinssons
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Dans ces motifs, j'ai employé les mots « Mine » et « bien Magnacon » indistinctement.
+[2] L'appelante et Windarra étaient des « personnes liées » au sens du paragraphe 251(2) de la Loi et, cela étant, elles avaient entre elles un lien de dépendance.
+[3] Les témoins n'ont pas témoigné dans l'ordre habituel, et ce, sur consentement des parties. M. John Pallot, président de Windarra et de Westward, a témoigné pour le compte de l'appelante. Il a été suivi de M. Ross Glanville, qui devait réfuter la preuve de l'expert de l'intimée, avant que celui-ci ne témoigne. Il a été suivi du témoin de l'appelante, M. Steven Brunelle, administrateur de l'appelante et de Windarra, qui avait antérieurement été administrateur de Muscocho Exploration Ltd. Le témoin expert de l'appelante, M. Lawrence, a ensuite suivi. Ces messieurs ont témoigné au cours des trois premiers jours de l'instruction. Pour une raison inconnue, l'audition de l'appel ne devait durer que trois jours et les parties ont cherché à accommoder M. Glanville, qui avait des engagements antérieurs. M. Lawrence n'a pas réussi à compléter son témoignage au cours de ces trois journées-là. L'instruction s'est poursuivie par la suite.
+[4] L'achat du droit afférent à la Mine par l'appelante résultait du fait qu'au cours de son exercice 1995, l'appelante avait vendu un droit minier en Saskatchewan à un prix de plus de 4 000 000 $. Les frais d'exploration et autres frais d'exploitation reportés de l'appelante n'étaient pas suffisants pour compenser le revenu résultant de la vente et le plein montant du prix d'achat était imposable au cours de l'année de la vente. L'appelante a acquis le droit afférent au bien Magnacon de Windarra en vue de pouvoir utiliser les coûts d'acquisition à titre de déduction au cours de l'année.
+[5] Comme il en a ci-dessus été fait mention, le droit que Windarra possédait sur la Mine correspondait à 22,23 p. 100, et non à 25 p. 100. Par conséquent, si la valeur d'un droit de 25 p. 100 s'élevait à 4,3 millions de dollars, la valeur d'un droit de 22,23 p. 100 serait inférieure, soit environ 3,8 millions de dollars.
+[6] Je désigne le rapport préparé par WGM pour cet appel comme étant l' « examen WGM » . Le rapport WGM figure à l'appendice 5 de l'examen WGM. Je note que, selon le paragraphe 14 de ce rapport, le rapport WGM est un résumé d'un [TRADUCTION] « rapport d'évaluation complet » qui était mis à la disposition des actionnaires de Westward à ce moment-là et qui n'a pas été produit à l'instruction.
+[7] 73 DTC 5471 (C.F. 1re inst.), à la page 5476.
+[8] L'observation du sous-alinéa d)iii) de la politique nationale 2-A des Autorités canadiennes en valeurs mobilières, ci-dessous, paragraphe 16, exigerait que les catégories de réserves prouvées et de réserves probables soient des catégories distinctes de la catégorie des réserves possibles. Les catégories des réserves prouvées et des réserves probables, au tableau 2, représentent 131 491 tonnes courtes en tout; les réserves possibles représentent 119 745 tonnes courtes. Les catégories des réserves prouvées, des réserves probables et des réserves possibles représentent 251 236 tonnes courtes en tout.
+[9] Comparer la politique nationale 2-A, ci-dessous, pour la détermination de la quantité de minerai possible.
+[10] Les auteurs du rapport WGM se sont fondés sur une étude de faisabilité de la coentreprise Magnacon préparée par Henry Heidrich en 1988 (l' « étude de faisabilité » ) ainsi que sur le rapport Kilborn, le rapport McAleenan, le rapport Muscocho et le rapport WGM du mois de novembre 1993.
+[11] Voir ci-dessus, paragraphes 16 et 12 respectivement.
+[12] Rapport annuel Muscocho de 1989, page 3.
+[13] Produit sous la cote A-13.
+[14] Cyprus Anvil Mining Corp v. Dickson, (1986) 8 B.C.L.R. (2d) 145, p. 163; Casamiro Resource Corp. v. British Columbia, 50 L.C.R.99 (Exp. Comp. Bd. C.-B.) conf. par 76 B.C.L.R. 303 (C.A.C.-B.).
+[15] The Australia v. The Nautilus, [1927] A.C. 145.
+[16] Ovens, Geo. et Beach, Donald I., Business and Securities Valuation, Methuen Publications, Toronto, 1972.

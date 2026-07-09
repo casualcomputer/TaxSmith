@@ -1,0 +1,153 @@
+Title: Lang v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27472/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-412-27472-lang-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-07-28
+
+# Lang v. The Queen
+
+- Citation: 2006 CCI 412
+- Decision date: 2006-07-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 32, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lang v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-28
+Référence neutre
+2006 CCI 412
+Numéro de dossier
+2005-4454(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4454(IT)I
+ENTRE :
+JAMES W. LANG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 juillet 2006, à Kelowna (Colombie-Britannique)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Pavanjit Mahil
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2002 et 2003 sont rejetés conformément aux motifs du jugement ci-joints.
+Signé à Saskatoon (Saskatchewan), ce 28e jour de juillet 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 31e jour de janvier 2007.
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI412
+Date : 20060728
+Dossier : 2005-4454(IT)I
+ENTRE :
+JAMES W. LANG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel interjeté sous le régime de la procédure informelle a été entendu à Kelowna (Colombie-Britannique), le 13 juillet 2006. L'appelant a témoigné. L'intimée a appelé à témoigner Tanya Ure, la vérificatrice de bureau responsable du dossier.
+[2] Les points en litige sont énoncés aux paragraphes 7 à 12 inclusivement de la réponse à l'avis d'appel et sont rédigés ainsi :
+[traduction]
+7. Dans des avis datés du 2 août 2005, le ministre a établi de nouvelles cotisations à l'égard de l'appelant pour les années d'imposition 2002 et 2003 en vue de refuser la déduction des pertes d'entreprise de 12 928,26 $ et de 10 527,93 $ (collectivement appelées les « montants » ).
+8. L'appelant s'est opposé aux nouvelles cotisations établies pour les années d'imposition 2002 et 2003 en signifiant un avis d'opposition au ministre daté du 30 juillet 2005. Le ministre a reçu l'avis d'opposition le 9 août 2005.
+9. Dans un avis de ratification daté du 1er novembre 2005, le ministre a ratifié les nouvelles cotisations établies à l'égard de l'appelant pour les années d'imposition 2002 et 2003.
+10. Pour établir les nouvelles cotisations à l'égard de l'appelant pour les années d'imposition 2002 et 2003 et les ratifier, le ministre s'est fondé sur les faits suivants :
+a) l'appelant n'a pas lancé d'entreprise en tant qu'écrivain ou marchand d'objets de collection;
+b) l'appelant n'est pas membre d'une association professionnelle regroupant des écrivains;
+c) l'appelant n'a pas produit d'oeuvre littéraire pendant la période allant de 1998 à 2003;
+d) l'appelant est un ancien combattant à la retraite;
+e) l'appelant est membre de nombreuses associations, notamment la Légion royale canadienne, la American Legion, la Historical Arms Collectors Society of BC, la Korean War Veterans Association pour les États-Unis et le Canada, le Military Collectors Club of Canada, et la AIT & Arms Collectors Association, et est membre du conseil d'administration de deux musées;
+f) l'appelant s'intéresse aux artefacts militaires et aux événements militaires;
+g) l'appelant est un collectionneur d'objets militaires, comme des médailles et des baïonnettes;
+h) pour la période allant de 1998 à 2003, l'appelant a déduit les pertes suivantes à l'égard de son activité commerciale alléguée :
+Revenu d'entreprise brut Revenu d'entreprise net
+1998 3 414 $ (5 050 $)
+1999 6 128 $ (11 308 $)
+2000 8 782 $ (14 382 $)
+2001 680 $ (16 170 $)
+2002 651 $ (12 928 $)
+2003 1 697 $ (10 527 $)
+i) l'appelant n'a pas de plan de marketing / promotion pour quelque oeuvre littéraire que ce soit, dans la mesure où elle est terminée;
+j) le revenu brut déclaré par l'appelant à titre de revenu d'entreprise pour les années d'imposition 2002 et 2003 provenait de la vente d'objets de guerre (artefacts) qu'il avait collectionnés au cours des 50 dernières années;
+k) l'appelant a fait l'acquisition des objets de guerre (artefacts) principalement pour enrichir sa collection privée et non pas pour les vendre et réaliser un profit;
+l) les objets de guerre vendus par l'appelant en 2002 et en 2003 étaient des reproductions qu'il avait collectionnées ou ils n'étaient pas très importants;
+m) les cotisations de membre que l'appelant a payées concernant la Légion et la Genealogical Society n'ont pas été versées en vue de tirer un revenu d'une entreprise pour les années d'imposition 2002 et 2003;
+n) l'abonnement à un journal par l'appelant pour l'année d'imposition 2002 n'a pas été souscrit en vue de tirer un revenu d'une entreprise;
+o) les dépenses engagées en 2002 et en 2003 pour l'achat d'épinglettes relatives à l'Association canadienne de parachutisme sportif n'ont pas été engagées en vue de tirer un revenu d'une entreprise, il s'agissait de dépenses personnelles de l'appelant;
+p) les dépenses engagées pour les repas et les divertissements en 2002 et en 2003 n'ont pas été engagées en vue de tirer un revenu d'une entreprise, il s'agissait de dépenses personnelles de l'appelant;
+q) pendant toute la période pertinente, l'appelant n'a pas tenu de registre de ses déplacements en automobile;
+r) les dépenses déduites à titre de dépenses de bureau en 2002 et en 2003, notamment pour l'achat de bibliothèques, de vitrines d'exposition, d'un écran d'ordinateur, d'une imprimante photo et d'un numériseur, étaient des dépenses personnelles de l'appelant : elles n'ont pas été engagées en vue de tirer un revenu d'une entreprise;
+s) les voyages accomplis par l'appelant pour visiter des foires d'exposition d'armes à feu au Texas, à Kamloops et à Penticton en 2002 n'ont pas été effectués en vue de tirer un revenu d'une entreprise;
+t) les voyages à l'étranger à Louisville-Nashville et à Omaha aux États-Unis, en Argentine, en Uruguay et en Grèce qui ont été accomplis par l'appelant en 2003 n'ont pas été effectués en vue de tirer un revenu d'une entreprise;
+u) les voyages à Calgary, à Edmonton et à Burnaby accomplis par l'appelant en 2003 n'ont pas été effectués en vue de tirer un revenu d'une entreprise;
+v) l'appelant n'a pas utilisé une partie de sa maison en 2002 et en 2003 en vue de tirer un revenu d'une entreprise;
+w) l'appelant n'avait pas d'attente raisonnable de profit à l'égard de son activité commerciale alléguée.
+B. POINT EN LITIGE
+11. Il s'agit de savoir si le ministre a refusé à juste titre la déduction des montants inclus dans le calcul du revenu pour les années d'imposition 2002 et 2003.
+C. Dispositions législatives invoquées
+12. Il se fonde sur les articles 3, 46, 54, 67 et 67.1, les paragraphes 9(2), 18(12) et 248(1), et les alinéas 18(1)a), 18(1)b), 18(1)h) et 20(1)a) de la Loi de l'impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), dans sa version modifiée (la « Loi » ).
+[3] Aucune hypothèse n'a été réfutée. Pour ce qui est des hypothèses suivantes, il importe de mentionner ce qui suit :
+10c) L'appelant avait commencé à visiter des anciens combattants dans la vallée de l'Okanagan et à rédiger pour leurs familles des résumés d'une page ou deux des expériences qu'ils avaient vécues. Ce geste n'a qu'une valeur sentimentale, l'appelant ne reçoit rien en retour. Il fait cela pour des raisons personnelles.
+10f) C'est essentiellement ce qu'il a dit à Mme Ure au cours d'une entrevue au sujet de ses ventes.
+10o) L'appelant donnait ces épinglettes à des gens lors de ses voyages à titre de souvenirs personnels ou de cadeaux.
+10s) et t)
+Les voyages de l'appelant étaient de nature personnelle. Parfois, il exposait ses propres souvenirs, mais il n'essayait pas de les vendre. Il avait apparemment essayé d'échanger des objets, mais il n'a jamais déclaré dans son témoignage qu'il avait vendu ou essayé de vendre quoi que ce soit en vue de réaliser un profit lors de ces foires d'exposition.
+10u) Les voyages à Calgary et à Edmonton comportaient des visites familiales. L'appelant et sa femme demeuraient alors chez des membres de la famille.
+[4] L'appelant n'a pas encore rédigé un seul chapitre du livre envisagé, même s'il allègue que le livre qu'il envisage de rédiger portera sur les médailles décernées ou remises par tous les pays ayant pris part à la guerre de Corée.
+[5] L'appelant a 75 ans. Il a pris sa retraite en octobre 1996. Il est un ancien combattant de la guerre de Corée et il était parachutiste dans l'Armée canadienne. Il s'intéresse passionnément à l'armée, aux artefacts et aux médailles militaires de la guerre de Corée ainsi qu'aux anciens combattants de la guerre de Corée au Canada et ailleurs. C'est presque une obsession pour lui.
+[6] Toutefois, après avoir déduit des dépenses relatives à ces activités personnelles, depuis 1998, il n'a pas rédigé un seul chapitre du livre envisagé et, d'après son témoignage devant la Cour, il n'a pas encore choisi quel serait le sujet du livre - c'est-à-dire l'histoire de la guerre de Corée; l'histoire des Forces canadiennes dans cette guerre; l'histoire de son propre régiment (le 187e régiment) et de ses membres lors de la guerre et depuis la guerre; les diverses médailles et distinctions décernées par les nations ou par les Nations Unies dans le cadre de cette guerre; les récipiendaires ou les récipiendaires remarquables de ces médailles ou de ces distinctions; un recueil de souvenirs des soldats canadiens qui ont participé à la guerre; ou bien tout autre thème pouvant être exploité. D'après les documents écrits qu'il a présentés à la Cour, il n'est toujours pas en mesure de rédiger quoi que ce soit de convenable à cette fin.
+[7] La situation est semblable pour ce qui est de son entreprise alléguée liée à la vente d'artefacts de la guerre de Corée ou d'artefacts militaires. L'appelant n'a pas nié avoir dit à Mme Ure que le produit de ses ventes en 2002 et en 2003 provenait de la vente d'artefacts et de souvenirs en surplus ou de reproductions dont il n'avait plus besoin ou qui ne l'intéressaient plus. Il a décrit un présentoir qu'il avait créé lors d'une des « foires d'exposition » à laquelle il avait assisté. Il n'avait toutefois pas l'intention de vendre quoi que ce soit, il voulait exposer sa collection.
+[8] Compte tenu du vif intérêt personnel qui touche tous les aspects de la présente affaire, le critère de l'attente raisonnable de profit doit être appliqué aux faits (Nadoryk v. Canada, 2003 DTC 5744 (C.A.F.)). Ce critère a été énoncé par le juge Dickson dans l'arrêt Moldowan c. R., [1978] R.C.S. 480. Au moyen des éléments décrits par le juge Dickson, la Cour conclut ce qui suit :
+1. L'état des profits et pertes pour les années antérieures- L'appelant n'a eu que des pertes.
+2. La formation du contribuable - Le contribuable est un ancien combattant de la guerre de Corée. Rien n'a été produit en preuve concernant ses études. Il n'a parlé d'aucune formation ou expérience en matière de rédaction, comme le journalisme ou tout autre type de rédaction professionnelle. Les documents écrits qu'il a présentés à la Cour sont pleins de fautes d'orthographe, de grammaire et de ponctuation. Il n'a rien produit en preuve concernant son expérience en matière de commerce ou de vente ou son expérience relative à l'administration d'une entreprise de vente d'antiquités ou de souvenirs militaires.
+3. La voie sur laquelle il entend s'engager - L'appelant espère maintenant qu'un comptable qu'il a rencontré l'aidera à écrire le livre qu'il envisage de rédiger. Il a récemment parlé à deux éditeurs, et ils l'ont encouragé, mais il n'a pas fourni de chiffres à cet égard. Selon moi, le livre envisagé n'est pas rendu à une étape où il est possible de faire des estimations. L'appelant n'a pas fourni d'éléments de preuve concernant les ventes envisagées d'artefacts militaires ou la création d'une entreprise de vente d'artefacts militaires.
+4. La capacité de l'entreprise, en termes de capital, de réaliser un profit après la déduction pour amortissement - Compte tenu de la preuve dont j'ai été saisi, l'entreprise relative à la rédaction d'un livre ou à la vente d'artefacts militaires n'a pas de capacité de réaliser un profit. L' « entreprise » commerciale alléguée ne constitue qu'un sujet de conversation et un passe-temps pour l'appelant.
+[9] L'appelant n'exploitait aucune entreprise en 2002 ou en 2003. Il n'y avait aucune attente raisonnable de profit relativement à ses activités au cours de ces années. Le ministre a refusé à juste titre la déduction des montants inclus dans le calcul de son revenu pour les années d'imposition 2002 et 2003.
+[10] L'appel est rejeté.
+Signé à Saskatoon (Saskatchewan), ce 28e jour de juillet 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 31e jour de janvier 2007.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2006CCI412
+NO DU DOSSIER DE LA COUR : 2005-4454(IT)I
+INTITULÉ DE LA CAUSE : JAMES W. LANG c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Kelowna (Colombie-Britannique)
+DATE DE L'AUDIENCE : Le 13 juillet 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge D. W. Beaubier
+DATE DU JUGEMENT : Le 28 juillet 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Pavanjit Mahil
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

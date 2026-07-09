@@ -1,0 +1,147 @@
+---
+title: "Lavallee v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/349175/index.do"
+last_modified: "2018-10-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 213"
+citation2: ""
+neutral_citation: "2018 TCC 213"
+decision_date: "2018-10-31"
+language: "en"
+item_id: "349175"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5016
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:36:09.790000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7788e3407e09a9c409fe5bcbe0de79569e5daa330bf1955884efeb634c9e8831"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lavallee v. The Queen
+
+- Citation: 2018 TCC 213
+- Decision date: 2018-10-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5016, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lavallee v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-10-31
+Neutral citation
+2018 TCC 213
+File numbers
+2018-989(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-989(IT)I
+BETWEEN:
+LYNE LAVALLEE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 14, 2018, at Moncton, New Brunswick
+Before: The Honourable Justice B. Russell
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Rhoda Lemphers
+JUDGMENT
+The appeal from the redeterminations of the Minister of National Revenue (Minister) made May 19, 2017 under Income Tax Act (Canada), in respect of the Canada Child Benefit (CCB) for the appellant’s 2013, 2014 and 2015 base taxation years is allowed, without costs, and the matter is referred back to the Minister for reconsideration and redetermination(s) on the basis that during the respective periods July 2014 to June 2015, July 2015 to June 2016 and July 2016 to June 2017 the appellant was not a “shared-custody parent”, due to the significantly greater time that she, relative to the father, committed to provision of custodial care of their children.
+Signed at Toronto, Ontario, this 31st day of October 2018.
+“B. Russell”
+Russell J.
+Citation: 2018TCC213
+Date: 20181031
+Docket: 2018-989(IT)I
+BETWEEN:
+LYNE LAVALLEE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+[1] The appellant Ms. Lavallee has appealed redeterminations of the Minister of National Revenue (Minister) made May 19, 2017, in respect of the Canada Child Benefit (CCB) for the appellant per her 2013, 2014 and 2015 base taxation years. The redeterminations were based on the Ministerial assumption that Ms. Lavallee was a “shared-custody parent” for the respective periods of July 2014 to June 2015, July 2015 to June 2016 and July 2016 to June 2017.
+[2] Being considered a shared-custody parent, Ms. Lavallee received only a portion of the quantum of the CCB she would have been entitled to had she not been viewed as a shared-custody parent, while providing custody of the children on a more than equal or near equal basis vis-à-vis the other parent (the father).
+[3] The respondent in her Reply pleaded the following facts assumed by the Minister in making the appealed redeterminations:
+a) Ms. Lavallee and Mr. Marji are the parents of the three children M. born in 2003, K. born in 2004 and E. born in 2006;
+b) the two parents ceased living together during the 2007 taxation year;
+c) beginning October 2013 the two parents shared custody of their children:
+i. by each residing with the children in alternating weeks;
+ii. Ms. Lavallee also took care of the children during the week they were under the care of Mr. Marji from 7h15 to 8h25 (time they took the bus) and after school from 15h00 to 17h30, with the exception of Wednesday when they finish school at 14h00.
+iii. the two parents shared custody of the children 57.29% and 42.71% of the time respectively.
+[4] The issue as noted above is whether during the cumulative periods of July 2014 to June 2017 Ms. Lavallee was or was not a “shared-custody parent.” The term “shared-custody parent” is defined in section 122.6 of the Act:
+122.6 shared-custody parent in respect of a qualified dependant at a particular time means, where the presumption referred to in paragraph (f) of the definition eligible individual does not apply in respect of the qualified dependant, an individual who is one of the two parents of the qualified dependant who
+(a) are not at that time cohabitating spouses or common-law partners of each other,
+(b) reside with the qualified dependant on an equal or near equal basis, and
+(c) primarily fulfil the responsibility for the care and upbringing of the qualified dependant when residing with the qualified dependant, as determined in consideration of prescribed factors.
+[5] The specific question is whether Ms. Lavallee met clause (b) of this definition - i.e. did she “reside with the qualified dependent [i.e. each child] on an equal or near equal basis” relative to the other parent.
+[6] Ms. Lavallee testified, as did her former spouse and co-parent Mr. Sami Marji, called by the respondent. Unsurprisingly the evidence dealt largely with the amount of time each of the two parents spent providing custodial care to their children. A “Decision” of the New Brunswick Court of Queen’s Bench dated October 22, 2013 gave these two parents joint shared custody of their three children. The Decision also provided that there would be “a weekly rotation from one home to the other, with the exchange being Friday at 5 p.m. at the parties’ home [sic] or at the children’s school if they are still in school.” As well, summer school holidays were to observe the same rotation except each of the two parents would have two consecutive weeks “to do special activities with the children”. Major holidays would be split on an alternating years basis.
+[7] A substantial factor affecting the otherwise apparently evenhanded nature of this arrangement was that at all material times Mr. Marji was employed full-time (and also part-time at a second job), while Ms. Lavallee was not.
+[8] Consequently the children, during Mr. Marji’s alternating weeks in which they lived with him, would be dropped off by Mr. Marji at Ms. Lavallee’s house in the morning at 7:15 a.m. or so before school. There they (or at least the two younger children) would have breakfast. Then they would catch their school buses to go to school. Then they would return after school to Ms. Lavallee’s house (earlier on Wednesdays and excepting one afternoon weekly when the children would attend after school at the home of their maternal grandmother). They would stay at Ms. Lavallee’s house until Mr. Marji would pick the children up to take them back to his residence at or about 5:30 p.m. (he said 5 p.m. and she said sometimes as late as 6 p.m.).
+[9] A further and substantial difference that came out in evidence was that for the equivalent of one of the two summer months when the children were not at school (the other summer month being substantially equivalent to the two respective two week periods noted above for special activities with the children), Mr. Marji would still drop them off at Ms. Lavallee’s house, during each of his two alternating weeks of custody, in the morning before breakfast. But Ms. Lavallee then would have them all day as of course there was no school during the summer. Mr. Marji would pick them up on his way home from work as usual. The one afternoon per alternating week sojourn with the grandmother did not continue in the summer months.
+[10] Both parents testified as to their respective involvements with the children in sports, medical appointments and school meetings with teachers. Ms. Lavallee did not have outside work and she was on social assistance. Both parents provided quality custodial care of the children. The question however is as to the comparable quantitative i.e., temporal aspects of custodial care meted out by the respective parents, in determining whether Ms. Lavallee was or was not a shared-custody parent.
+[11] As noted above, the Minister made the assumption that the two parents shared custody on the monthly basis of 57.29% of the time by Ms. Lavallee and 42.71% of the time by Mr. Marji. These two figures are based on written time calculations made by the Minister, and provided to the Court (and Ms. Lavallee) by respondent’s counsel. These calculations show how the Minister calculated the 57.29/42.71 split, again this being one of the Minister’s factual assumptions pleaded in the Reply. It appears from these calculations that this split was based on similar facts as set out above, arising from evidence adduced at the hearing, with two exceptions. A minor exception is non-inclusion of the one weekday afternoon during each of Mr. Marji’s weeks during non-summer months when the children were picked up by him after school from the maternal grandmother. The major exception is that this Ministerial calculation does not reflect the additional time for two summer weeks of Mr. Marji’s assigned custodial time when in fact Ms. Lavallee had the children all of each day, due to summer school holidays. I conservatively estimate that these two differences (the first quite less than the second) would alter the temporal split to at least something like 58% (Ms. Lavallee) and 42% (Mr. Marji).
+[12] These figures of 58% and 42% for temporal elements of custody by mother and father respectively, translate arithmetically to the conclusion that the children were in the appellant Ms. Lavallee’s custody 38% more time than they were in the custody of their father. The Minister’s assumed figures of 57.29% vs. 42.71% arithmetically reduce to the conclusion that Ms. Lavallee had actual custody of the children 34% more time than the father’s actual custody time. The figure of 38% is well more than one-third (i.e., 33.3%) additional to Mr. Marji’s total custodial time. Also the figure of 34% exceeds the same one-third differential.
+[13] As stated, the contest in this matter is whether Ms. Lavallee’s actual custody of the children is “equal or near equal” to that of Mr. Marji. If so then she is a shared-custody parent and her appeal fails. The caselaw shows that this typically is measured quantitatively (which also is the way the Minister has viewed this). And, I have already found that qualitatively there is no significant difference respecting custodial care as between the two parents.
+[14] I have taken particular note of the informal procedure decision, Morrissey v. R., 2016 TCC 178, rendered by my colleague Sommerfeldt, J. regarding application of the statutory term “equal or near equal” in this same context. In this case I think it is helpful to discuss the differential in terms as I have here – i.e., what percentage of time did one parent commit relative to the other in providing custodial care.
+[15] Viewed temporally (quantitatively), I cannot conclude that when one parent provides custody for greater than one-third of time more than the other, the more than one-third lengthier custody period nevertheless is “equal or near equal” to the shorter custody period. I suggest that in light of common language usage, the phrase “equal or near equal” normally would not apply in respect of any comparison yielding more than a 25% differential - let alone the differentials of 38% and 34% herein as discussed.
+[16] Accordingly I allow the appeal and direct that each of the appealed redeterminations be referred back to the Minister for reconsideration and redetermination on the basis that during the respective periods July 2014 to June 2015, July 2015 to June 2016 and July 2016 to June 2017, the appellant was not a “shared-custody parent” due to the significantly greater time that she, relative to the father, committed to provision of custodial care of their children.
+Signed at Toronto, Ontario, this 31st day of October 2018.
+“B. Russell”
+Russell J.
+CITATION:
+2018TCC213
+COURT FILE NO.:
+2018-989(IT)I
+STYLE OF CAUSE:
+LYNE LAVALLEE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Moncton, New Brunswick
+DATE OF HEARING:
+September 14, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+October 31, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Rhoda Lemphers
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

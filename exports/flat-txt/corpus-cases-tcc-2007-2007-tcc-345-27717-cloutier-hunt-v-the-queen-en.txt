@@ -1,0 +1,100 @@
+Title: Cloutier-Hunt v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27717/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-345-27717-cloutier-hunt-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-06-14
+
+# Cloutier-Hunt v. The Queen
+
+- Citation: 2007 TCC 345
+- Decision date: 2007-06-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 469, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cloutier-Hunt v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-14
+Neutral citation
+2007 TCC 345
+File numbers
+2006-2201(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2201(IT)I
+BETWEEN:
+MICHELLE CLOUTIER-HUNT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 12, 2007, at Kingston, Ontario.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Richard Gobeil
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2000 taxation year is dismissed, without costs.
+Signed at Ottawa, Ontario, this 14th day of June 2007.
+"Wyman W. Webb"
+Webb J.
+Citation: 2007TCC345
+Date: 20070614
+Docket: 2006-2201(IT)I
+BETWEEN:
+MICHELLE CLOUTIER-HUNT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this case is whether the amount of $14,548 which the Appellant received in the 2000 taxation year should be included in the Appellant's income in the year 2000 as interest.
+[2] The Appellant was an employee of the federal government who started working for the federal government in 1986. As a result of the decisions of the Canadian Human Rights Tribunal ("CHRT") in 1996 and 1998 it was established that the Appellant, as well as other employees of the federal government in similar positions, were entitled to additional compensation for wages retroactive to 1985. In the Appellant's case since she started work in 1986 her salary adjustment was retroactive to 1986. In addition to the amounts that the employees were entitled to receive as wages an amount was paid as "interest" and in the Appellant's case this amount was $14,548. This amount was paid in the year 2000.
+[3] The decision of the CHRT rendered in 1998 was appealed to the Federal Court of Canada – Trial Division (“Federal Court”) and the decision of the Federal Court was rendered in 1999. Following the decision of the Federal Court, which upheld the CHRT decision, the Public Service Alliance of Canada entered into an agreement with Treasury Board in relation to the pay equity adjustments and the calculation of the amount to be paid as "interest".
+[4] The Appellant has claimed that the amount paid as "interest" should not be required to be included in her income as the amount was paid as damages.
+[5] In Montgomery v. The Queen, 2007TCC317, an employee who was affected by the same decision of the CHRT also appealed to the Tax Court of Canada on the basis that the amounts should not be included in her income as "interest". Justice Woods, in that case, concluded that the amounts were interest and were to be included in income. I agree with the decision of Justice Woods in this matter.
+[6] Even if the amount were to be construed as damages, the question would then become whether the amount would still be included in income. In Transocean Offshore Limited v. R., [2005] 2 C.T.C. 183, 2005 DTC 5201, Sharlow J.A. of the Federal Court of Appeal stated as follows:
+For the purposes of Part I of the Income Tax Act, the answer to that question requires the application of a judge-made rule, sometimes called the "surrogatum principle", by which the tax treatment of a payment of damages or a settlement payment is considered to be the same as the tax treatment of whatever the payment is intended to replace.
+[7] Even if the amount described as "interest" were to be construed as damages, the application of the surrogatum prinicple would require that the tax treatment of the amount paid as damages should be the same as the payment it is intended to replace. In any event, I do not find that the amount described as “interest” was paid as damages as paragraph 10 of the Orders issued by the CHRT clearly states that interest is to be paid and the amount in question is the amount paid as the interest as provided in the Orders of the CHRT.
+[8] The Appellant also raised the argument of whether the amount should have been included in her income in 1999 or 2000. Paragraph 12(1)(c) of the Income Tax Act ("Act") requires the amount of interest to be included in income in the year in which it is either received or receivable depending on the method regularly followed by the taxpayer in computing the taxpayer's income. In this case, the Appellant testified that this amount of interest was the first amount of interest that she has ever received. As a result there was no prior record of any method regularly followed by the taxpayer for the inclusion of interest on either a received or receivable basis. The income tax return for the Appellant for the year 2000 was included in the Respondent's Book of Documents and entered as an exhibit. In the tax return for the Appellant for the year 2000 she included the amount of $14,548.85 as interest. Since the Appellant has indicated that this is the only interest that she has ever received and reported, this would suggest that the only method she has followed has been the reporting of interest when received and not receivable since the interest in this case was paid in the year 2000. As a result, I find that the method of reporting interest followed by the taxpayer is the method of reporting interest when received and hence the appropriate year for the amount to be included in income is the year 2000.
+[9] The Appellant had also raised the issue of whether subsection 12(4) of the Act would require the inclusion of the interest in her income on an accrual basis. This subsection requires the inclusion of interest on an accrual basis for interest with respect to an investment contract.
+[10] An investment contract is defined in subsection 12(11) as "any debt obligation", subject to certain exceptions, none of which is applicable in this case.
+[11] In Blacks Law Dictionary, 8th ed. a "debt" is defined as a "liability on a claim; a specific sum of money due by agreement or otherwise" and "obligation" is defined as "A formal, binding agreement or acknowledgment of a liability to pay a certain amount or do a certain thing for a particular person or set of persons".
+[12] As a result, the debt obligation would not arise until the federal government had acknowledged that the amounts were owing to the various employees. Since the decision of the CHRT in 1998 that set out the amounts that were to be paid to the employees was appealed to the Federal Court by the federal government, the federal government was obviously not acknowledging the debt in 1998. The decision of the Federal Court was rendered in 1999 which was the same year in which the agreement was entered into between the Public Service Alliance of Canada and Treasury Board. As a result, the debt was acknowledged in 1999 and the investment contract for the purposes of subsection 12(4) of the Act would arise in 1999. The first anniversary of that investment contract would be in the year 2000. As a result, this does not assist the Appellant in arguing that the amount should have been taxed in an earlier year than 2000.
+[13] For the above reasons, the appeal is dismissed, without costs.
+Signed at Ottawa, Ontario, this 14th day of June 2007.
+"Wyman W. Webb"
+Webb J.
+CITATION: 2007TCC345
+COURT FILE NO.: 2006-2201(IT)I
+STYLE OF CAUSE: MICHELLE CLOUTIER-HUNT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kingston, Ontario
+DATE OF HEARING: June 12, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: June 14, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Richard Gobeil
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,225 @@
+---
+title: "Northtown Motors Ltd v. Human Resources"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28284/index.do"
+last_modified: "2007-08-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 627"
+citation2: ""
+neutral_citation: "2007 TCC 627"
+decision_date: "2007-08-16"
+language: "en"
+item_id: "28284"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1868
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:50:00.505000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "977f6a9f2e489f2c70b9fa9b5c7033150d8312b65b6e4895eb67f0a501ac7beb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Northtown Motors Ltd v. Human Resources
+
+- Citation: 2007 TCC 627
+- Decision date: 2007-08-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1868, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Northtown Motors Ltd v. Human Resources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-16
+Neutral citation
+2007 TCC 627
+File numbers
+2006-2410(CPP)
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Old Age Security Act
+Decision Content
+Dockets: 2006-2409(EI)
+2006-2410(CPP)
+BETWEEN:
+NORTHTOWN MOTORS LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Daniel M. Borden
+and Business Check Saskatoon Ltd.,
+Interveners,
+AND
+2006-3356(EI)
+DANIEL M. BORDEN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+NORTHTOWN MOTORS LTD.
+and BUSINESS CHECK SASKATOON LTD.,
+Interveners.
+____________________________________________________________________
+Appeals heard together on August 23, 2007 at Saskatoon, Saskatchewan.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Agent for the Appellant
+Northtown Motors Ltd.: Laurie K. Bradley
+Counsel for the Respondent: Lyle Bouvier
+Agent for the Interveners
+Business Check Saskatoon Ltd. and
+Northtown Motors Ltd.: Laurie K. Bradley
+For the Appellant/Intervener
+Daniel M. Borden: The Appellant/Intervener himself
+____________________________________________________________________
+JUDGMENT
+The appeals by Northtown Motors Ltd. “Northtown” and Daniel M. Borden (“Borden”) and the interventions by Northtown Motors, Business Check Saskatoon Ltd. (“Business Check”) and Borden, under the Canada Pension Plan (“CPP”) and the Employment Insurance Act (the “EI Act”) are disposed of in accordance with the reasons for judgment and the matters are referred back to the Minister of National Revenue to be dealt with as set out in the Reasons for Judgment, specifically to take into account the following conclusions:
+During the period in question:
+(a) Northtown was the deemed employer of Borden for the purposes of the CPP.
+(b) Borden was employed by Business Check and deemed to be employed by Northtown in pensionable employment for the purposes of the CPP.
+(c) Borden was employed by Business Check in insurable employment for the purposes of the EI Act.
+(d) Borden was at arm’s length with Business Check.
+Signed at Ottawa, Canada, this 18th day of October 2007.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2007TCC627
+Date: 20071018
+Dockets: 2006-2409(EI)
+2006-2410(CPP)
+BETWEEN:
+NORTHTOWN MOTORS LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DANIEL M. BORDEN
+and BUSINESS CHECK SASKATOON LTD.,
+Interveners,
+AND
+Docket: 2006-3356(EI)
+BETWEEN:
+DANIEL M. BORDEN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+NORTHTOWN MOTORS LTD.
+and BUSINESS CHECK SASKATOON LTD.,
+Interveners.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals were heard together. The manner whereby they come before the court is a little complicated but the issue is whether Daniel Borden was a deemed employee of Northtown Motors Ltd. (“Northtown”) and an employee of Business Check Saskatoon Ltd. (“Business Check”). In file 2006‑2409(EI), Northtown appeals a determination that Daniel Borden was a deemed employee of Northtown. In fact the ruling of September 28, 2006 by the Minister of National Revenue was that Mr. Borden was employed in pensionable employment under the Canada Pension Plan (“CPP”) by Business Check and that since Northtown paid his remuneration it was his deemed employer. The same letter goes on to say that this employment was not insurable under the Employment Insurance Act (the “EI Act”) because Mr. Borden was not dealing at arm’s length as a matter of fact with Business Check.
+[2] In fact, Northtown appeals the determination on both insurability and pensionability. The Crown takes the position that Northtown’s appeal under the EI Act should be quashed because the determination was that Mr. Borden’s employment was not insurable.
+[3] Mr. Borden has intervened in these appeals in support of the position of the Minister that he was an employee of Business Check and Northtown. Mr. Borden has appealed from the ruling addressed to him of May 30, 2006.
+[4] The letter reproduced below was sent to Northtown and Business Check on May 30, 2006 and a similar letter was sent to Mr. Borden with changes only to reflect the fact that he was referred to in the second person singular as opposed to the third person. One other difference in that the letter to Northtown in paragraph 4, stated “Mackenzie Daniel Borden’s was insurable for the following reason”. In the letter to Business Check the words were “. . . Mackenzie Daniel Borden’s employment was not insurable . . .”. In the letter to Mr. Borden the words were “your employment was not insurable . . .”. I am assuming that in the letter to Northtown after “Mackenzie Daniel Borden’s” the words “employment was not” were omitted and instead the words “was insurable” were inadvertently written. Otherwise the sentence in the letter to Northtown makes no sense.
+[5] The letter reads as follows:
+This letter concerns your appeal of the ruling dated August 25, 2005, regarding the pensionability and insurability of Mackenzie Daniel Borden’s employment with you during the period of November 15, 2004 to June 27, 2005.
+It has been decided that Mackenzie Daniel Borden’s employment was pensionable for the following reason:
+Mackenzie Daniel Borden was engaged under a contract of service and therefore he was an employee of Business Check Saskatoon Ltd. Furthermore, you are considered Mackenzie Daniel Borden’s deemed employer as you paid his remuneration.
+It has also been decided that Mackenzie Daniel Borden’s was insurable for the following reason:
+Mackenzie Daniel Borden was not dealing at arm’s length, as a matter of fact, with Business Check Saskatoon Ltd and was therefore excluded from insurable employment.
+The decision in this letter is issued in accordance with subsection 27.2(3) of the Canada Pension Plan and subsection 93(3) of the Employment Insurance Act and is based on paragraph 6(1)(a) of the Canada Pension Plan, subsection 8.1(1) of the Canada Pension Plan Regulations and on paragraphs 5(2)(i) and 5(3)(a) of the Employment Insurance Act.
+If you disagree with this decision, you can appeal to the Tax Court of Canada within 90 days of the date of this letter. Information on how to proceed with an appeal is enclosed.
+[6] Several more technical points before I get on with the merits of the case.
+(a) On November 6, 2006, Business Check filed a Certificate of Dissolution under the Saskatchewan Business Corporation Act.
+(b) Section 8.1 of the Regulations made under the CPP provide that if someone pays remuneration to an employee in pensionable employment with an “actual” employer, the person paying the remuneration is deemed, in addition to the “actual employer”, to be the employer of the employee. The significance of this is that if Mr. Borden was employed by Business Check but was paid remuneration by Northtown, Northtown is Mr. Borden’s “deemed” employer.
+(c) There is no provision in the EI Act or Regulations that is similar to section 8.1 of the CPP Regulations.
+(d) While the EI Act excludes from insurable employment employees who do not deal at arm’s length with the employer no similar exclusion exists under the CPP or CPP Regulations.
+(e) Leaving aside the apparent misprint in the letter of May 30, 2006 to Northtown, Northtown was never alleged by the Minister of National Revenue to be an employer of Mr. Borden for the purposes of the EI Act and nothing in the EI Act permits Northtown to be treated as a “deemed” employer of Mr. Borden. Therefore the arm’s length or non-arm’s length nature of the relationship between Mr. Borden and Business Check has nothing to do with Northtown for the purposes of the appeal under the EI Act. Conversely, whether Mr. Borden was or was not at arm’s length with Northtown or Business Check is irrelevant to the CPP appeal.
+[7] Although files were opened up by the Registry of this Court in the name of Northtown Motors Ltd., Mr. Bradley’s letter of August 11, 2006 can reasonably be read as an appeal by both Northtown and Business Check. His letter reads:
+This letter is to notify you that I disagree with the Canada Revenue Agency’s decision dated May 30, 2006. The ruling concerns the pensionability and insurability of Mr. Daniel Borden during the period of November 15, 2004 to June 27, 2005.
+Mr. Borden was not engaged under a contract of service and was not an employee of Business Check Saskatoon Ltd. or Northtown Motors Ltd. Mr. Borden and I were, in fact, business partners entering into a new business venture together. We were not on an employer/employee relationship as Mr. Borden indicated or as the appeal ruling has stated. It for these reasons I am appealing this decision.
+Please find enclosed a copy of a June 29, 2006 ruling from the Provincial Labour Standards Board that further explains my position in regards to Mr. Borden.
+[8] To summarize the matters before the court then, we have the following:
+(a) A decision by the Minister that Mr. Borden was employed in pensionable employment by Business Check and that Northtown was his deemed employer for CPP purposes because it paid his remuneration.
+(b) A decision by the Minister that Mr. Borden’s employment was not insurable for EI purposes because he was not dealing at arm’s length with Business Check (unless I am wrong in reading into Canada Revenue Agency’s letter to Northtown of May 30, 2006, the words in the other two letters).
+(c) An appeal by Mr. Borden generally against the Minister’s decisions under both the CPP and the EI Act.
+(d) An appeal by Northtown against both decisions (including the one that says that Mr. Borden’s employment is not insurable).
+(e) An intervention by Business Check in both Mr. Borden’s and Northtown’s appeal and an intervention by Mr. Borden in Northtown’s appeals.
+[9] I think it is a fair conclusion that all issues under the EI Act and the CPP are on the table for all three litigants, Northtown, Mr. Borden and Business Check.
+[10] The central issue is this: was Daniel Mackenzie Borden employed in pensionable and/or insurable employment with Business Check? If he was employed by Business Check in pensionable employment it follows that Northtown was his deemed employer for CPP purposes under section 8.1 of the CPP Regulations.
+[11] It has never been suggested that he was actually employed by Northtown for EI purposes. The decision was based on the view that he was employed by Business Check but was excluded from insurable employment because Mr. Borden was not at arm’s length with Business Check. Mr. Bradley acknowledges that although he has essentially won the employment insurance appeal because the Minister has decided that Mr. Borden, although an employee of Business Check, was not employed in insurable employment because he was not at arm’s length with Business Check, he does not want to abandon his appeal because this might be an admission that Mr. Borden was an employee, a position that Mr. Bradley contests. Mr. Borden is not bound by the Minister’s finding that he was not at arm’s length with Business Check and he contests it.
+[12] Mr. Bradley started Northtown in Hague, Saskatchewan in 1979 and moved the operation to Saskatoon in 1997 where it carries on the business of automobile and truck sales.
+[13] One problem he found when he moved to Saskatoon was that the business was constantly being broken into. Insurance became prohibitively expensive or impossible to obtain. He talked to Mr. Borden and they discussed the possibility of checking vehicles that came to their gate using a GPS (Global Positioning Sensor). He discussed the proposition with a number of businesses owners who liked the idea of having their premises checked at night.
+[14] Mr. Bradley started Business Check and is the sole shareholder and director. He had at the start about a dozen good clients, mainly automobile or machinery dealerships, who were interested in the kind of surveillance that Business Check was offering. He ended up with 40 to 50 clients and charged about $3.00 per call. On average each client had two calls per night. Mr. Bradley provided Mr. Borden with a van with the Business Check logo and a uniform. Mr. Borden was a retired policeman and he performed the duties of watchman and visited the premises of the clients as directed. Northtown paid Mr. Borden $1,500 — $1,000 in the fall of 2004 and $500 in January 2005. It also paid about $3,500 to Mr. Borden’s lady friend for her efforts to expand the business.
+[15] The business started in the fall of 2004 and lasted until May or June of 2005 — about eight or nine months. Things did not work out and in about June of 2005 the relationship with Mr. Borden came to an end. The business was transferred to someone else, Warren Paul who ran it for about a year.
+[16] The question is whether the relationship between Mr. Borden and Business Check was that of employee-employer or whether, as Mr. Bradley contends, he and Mr. Borden were partners in a business. There was obviously some sort of relationship. There are only a few possibilities, employee, independent contractor, partner, joint venturer, shareholder or nothing.
+[17] In a number of cases in the Federal Court of Appeal, which I discussed in a recent decision Lang v. M.N.R., 2007TCC547, the intent of the parties has been considered a factor of varying significance in determining whether a worker is an employee or an independent contractor. I do not think it can be a factor here where one party says he is an employee and one says he is a partner. If intent is a factor it must be one that is shared by both parties.
+[18] Mr. Bradley contends that he and Mr. Borden were partners but I can see nothing to warrant that conclusion during this period in question. It may well be that Mr. Borden had in mind that at some point, if the business turned out the way they hoped, he would become a part owner of Business Check. However in the period in which Mr. Borden was working as a watchman, there are none of the usual indicia of partnership (“. . . the relationship that subsists between persons carrying on business in common with a view to profit”). There was no sharing of expenses, revenues or profits between Mr. Borden and Mr. Bradley. The business was that of Business Check. It bore the expenses, supplied the tools and had the chance of profit or risk of loss.
+[19] A declared intention of parties that there be no partnership does not in itself prevent a relationship from being a partnership, (Rezek et al. v. The Queen et al., 2005 DTC 5373 at 5384; Weiner v. Harris, [1910] 1 K.B. 285), nor does a signed partnership agreement of itself create a partnership (Backman v. Canada, [2001] 1 S.C.R. 367 at paragraph 27). A fortiori a statement by one party that he believed that he and the other party were partners can, standing alone, have no probative value particularly in the face of a forceful denial by the other party coupled with a complete absence of the usual indicia of partnership.
+[20] I think the term that most accurately describes the relationship with Mr. Borden was that of employee. Mr. Bradley, or one of his two companies, paid the expenses, supplied the van and the uniform and told Mr. Borden what clients to go to. The concept of “chance of profit, risk of loss”, which is one of the aspects of a relationship of independent contractor does not extend to the situation where an employee might hope, if the employer’s business succeeded, that he might be made a part owner. In determining the nature of a relationship one must look at the situation as it exists at the relevant time, not the situation that one or more parties think might develop at some unspecified date in the future if certain contingences occurred.
+[21] There is one other matter to which I should refer. Mr. Borden obtained a wage assessment made by the Director of Labour Standards under the Labour Standards Act of Saskatchewan directing Mr. Bradley and Business Check to pay Mr. Borden wages of $12,998.19. This was appealed to an adjudicator who set the assessment aside on the basis of a finding that Mr. Borden was not an employee of Business Check. The adjudicator accepted Mr. Bradley’s testimony that the relationship with Mr. Borden was not one of employment. He does not specifically find that he was a partner. Since I have found no evidence to support the view that he was a partner it is appropriate to ask “If he was not a partner and if, as the adjudicator held, he was not an employee, then what was he?” It was not argued (and in any event the evidence does not support the conclusion) that he was an independent contractor.
+[22] Mr. Borden appealed to the Saskatchewan Queen’s Bench. Justice Foley dismissed Mr. Borden’s appeal and stated:
+[11] In concluding that Mr. Borden was not an employee the adjudicator considered the testimony of both Mr. Bradley and Mr. Borden and held that the relationship between the parties was not one of employer/employee but rather one of partnership.
+[12] It is evident that where there was a conflict of evidence between that of Mr. Bradley and that of Mr. Borden, the adjudicator chose to accept, as was his right, the evidence of Mr. Bradley. He concluded that Mr. Borden’s contribution could be characterized as sweat equity in the partnership whereas Mr. Bradley invested cash, but that each stood to lose what they had invested and each stood to profit if the business was successful.
+[13] These findings provide an appropriate factual foundation for him to conclude as a matter of law that Mr. Borden was not an employee.
+[14] This is not to say that some of the facts presented to the adjudicator did not support Mr. Borden’s position. Rather the adjudicator was persuaded that the weight of the evidence supported a partnership relationship rather than an employer/employee relationship.
+[15] The appeal is dismissed as the adjudicator has not been shown to have committed an error of law. There shall be no order as to costs.
+[23] While I mean no disrespect to the adjudicator or Mr. Justice Foley, I have to decide this case on the basis of the evidence before me. Mr. Justice Foley was faced with a very different issue and that was whether the adjudicator had before him evidence that justified his conclusion. The adjudicator seems to have preferred the evidence of Mr. Bradley over that of Mr. Borden. Even assuming that Mr. Bradley’s evidence was the same before the adjudicator as before this Court, I do not think it supports a partnership between Mr. Bradley and Mr. Borden or between Mr. Borden and Business Check.
+[24] On the evidence before me I have seen nothing that would justify the conclusion that Mr. Borden was a partner. Rather I think the view that is most consistent with all of the evidence and applying the usual tests of employment that have been developed in this court and the Federal Court of Appeal, is that he was an employee of Business Check. I have no reason not to accept Mr. Borden’s version of the facts.
+[25] There is absolutely no basis for concluding that Mr. Borden was not at arm’s length with Business Check. I should however expand somewhat on this arm’s length point which seems to have been the source of some confusion. In the Reply to Mr. Borden’s Notice of Appeal, it is not specifically stated that the Minister assumed that Mr. Borden was not at arm’s length with Business Check, although that seems to be the basis of the ruling that he was not engaged in insurable employment. There are however a number of allegations that the arrangements between Mr. Borden and Business Check were not those that would have existed between arm’s length parties. These allegations, even if substantiated, do not prove that the parties were not at arm’s length. If the parties were related the allegations would be relevant if there were an issue under paragraph 5(3)(b) of the EI Act. That is not, however, the issue before me. As stated above, however, nothing justifies the conclusion that Mr. Borden and Business Check were not at arm’s length. I think they were.
+[26] The appeals of Northtown and Business Check are dismissed and the appeals of Mr. Borden are allowed and the matter is referred back to the Minister of National Revenue to vary the determination on the basis that during the period in question Mr. Borden was employed by Business Check in insurable employment for the purposes of the EI Act and Northtown was a deemed employer of Mr. Borden for the purposes of the CPP. Since the Minister based his determination on the view that Mr. Borden was not at arm’s length with Business Check, I do not think that, whatever effect my decision that Mr. Borden was employed in insurable employment with Business Check may have on his position personally under the EI Act, I can increase the obligation that Business Check may have with respect to Mr. Borden (cf. Harris v. M.N.R., 64 DTC 5332 at 5337, per Thurlow J.). Since Business Check has been dissolved the point is somewhat academic.
+Signed at Ottawa, Canada, this 18th day of October 2007.
+“D.G.H. Bowman”
+Bowman, C.J.
+CITATION:
+2007TCC627
+COURT FILES NOS.:
+2006-2409(EI) & 2006-2410(CPP)
+and 2006-3356(EI)
+STYLE OF CAUSE:
+Northtown Motors Ltd. v. M.N.R.
+and Daniel M. Borden v. M.N.R.
+INTERVENERS: Daniel M. Borden; Business Check Saskatoon Ltd.; and Northtown Motors Ltd.
+PLACE OF HEARING:
+Saskatoon, Saskatchewan
+DATE OF HEARING:
+August 23, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT:
+October 18, 2007
+APPEARANCES:
+Agent for the Appellant
+Northtown Motors Ltd.: Laurie K. Bradley
+Agent for the Interveners:
+Business Check Saskatoon Ltd.
+and Northtown Motors Ltd.: Laurie K. Bradley
+For the Appellant/Intervener:
+Daniel M. Borden: The appellant/intervener himself
+Counsel for the Respondent: Lyle Bouvier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

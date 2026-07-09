@@ -1,0 +1,126 @@
+Title: Baluyot v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28097/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-682-28097-baluyot-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-09-25
+
+# Baluyot v. The Queen
+
+- Citation: 2007 CCI 682
+- Decision date: 2007-09-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1682, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Baluyot v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-25
+Référence neutre
+2007 CCI 682
+Numéro de dossier
+2007-2106(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2106(IT)I
+ENTRE :
+NORALYN C. BALUYOT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 25 septembre 2007, à Windsor (Ontario)
+Devant : L’honorable juge Valerie A. Miller
+Comparutions :
+Avocat de l’appelante :
+Me John Mill
+Avocat de l’intimée :
+Me Andrew Miller
+____________________________________________________________________
+JUGEMENT
+La requête de l’intimée est accueillie et l’appel interjeté par l’appelante à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2007.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 18e jour de décembre 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI682
+Date : 20071108
+Dossier : 2007-2106(IT)I
+ENTRE :
+NORALYN C. BALUYOT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] La présente requête vise l’obtention d’une ordonnance pour rejeter l’appel que l’appelante a interjeté à l’encontre d’une nouvelle cotisation établie pour l’année d’imposition 2005 parce que la présente Cour n’a pas compétence pour entendre l’appel. La seule question en litige porte sur le calcul du crédit pour impôt étranger de l’Ontario (le « CIEO »), qui a été réduit et est passé de 4 948,63 $ à 3 433,63 $. Selon l’avis de nouvelle cotisation daté du 6 novembre 2006, l’impôt fédéral à payer est nul.
+[2] L’appelante a invoqué plusieurs moyens pour s’opposer à la requête. L’avocat de l’appelante a indiqué que la question portait sur le calcul de la déduction pour impôt étranger prévue au paragraphe 126(1) de la Loi de l’impôt sur le revenu (la « Loi »). À cet égard, il a mentionné l’appel entendu par la juge Sheridan dans le cadre de la décision Wencheng Zhang c. La Reine (2005‑3867(IT)I) qui, selon lui, était identique au présent appel. Par conséquent, je n’ai rendu ma décision à l’égard de cette requête qu’après que le jugement Zhang, 2007 CCI 634, a été rendu. J’ai eu l’occasion de lire les motifs du jugement pour l’affaire Zhang et je souscris aux motifs que la juge Sheridan a invoqué pour rejeter l’appel.
+[3] L’avocat de l’appelante a indiqué que, généralement, aucun appel d’une cotisation ne peut être interjeté devant la Cour canadienne de l’impôt s’il n’y a pas d’impôt fédéral à payer. Cependant, il a allégué qu’il existe une exception à cette règle lorsqu’un crédit d’impôt est en litige. Il s’est fondé sur les décisions rendues dans Joseph Fontana c. La Reine, 2007 CCI 450, et Joshi c. La Reine, 2004 CCI 757 (Joshi no 2), pour appuyer ses arguments.
+[4] La décision dans Fontana n’aide pas l’appelante. Dans cet appel, l’intimée a présenté une requête pour faire annuler l’appel parce qu’il était sans objet. La juge Sheridan a expressément indiqué que la question dans Fontana ne visait pas une cotisation néant et que l’intimée admettait que la Cour avait compétence pour entendre cet appel.
+[5] Dans l’arrêt Interior Savings Credit Union c. Canada, [2007] C.A.F. 151, la Cour d’appel fédérale a indiqué, aux paragraphes 28 à 33, que la décision rendue dans Joshi no 2 était incorrecte :
+[28] Toutefois, dans Joshi c. La Reine, 2005 DTC 22 (Joshi no 2), une affaire mettant apparemment en cause l’époux de l’appelante dans Joshi no 1, la Cour de l’impôt (en la personne du juge O’Connor) a en effet statué qu’une cotisation « néant » pouvait faire l’objet d’un appel. Les cinq décisions qui suivent y étaient citées à l’appui de cette opinion : Joshi no 1, Martens, précitée, Aallcann Wood Suppliers, précitée, Liampat Holdings Ltd. c. Canada, [1995] A.C.F. no 1621, et Bruner c. Canada, 2003 A.C.F. no 144 (CAF). Nous avons vu précédemment que la décision Joshi no 1 ne peut être invoquée pour affirmer qu’une cotisation « néant » peut faire l’objet d’un appel. En toute déférence, j’estime que le même constat s’applique aux autres décisions sur lesquelles s’appuie le juge O’Connor.
+[29] Dans la décision Martens, la Cour de l’impôt a refusé d’annuler une cotisation « néant » au motif que l’objet de l’appel faisait partie d’une exception prévue par la Loi à la règle habituelle. Le juge Rip (tel était alors son titre) expliquait que même si aucun impôt n’était réclamé dans la cotisation, celle‑ci indiquait un montant que le ministre avait l’obligation de déterminer et à l’égard duquel un droit d’appel spécial avait été créé. Après avoir cité le texte des dispositions pertinentes, il déclarait ce qui suit (à la page 1384) :
+Le paragraphe 127.1(1) prévoit de quelle façon le contribuable est réputé avoir payé une somme, au titre de son impôt, égale à son crédit d’impôt à l’investissement remboursable pour l’année. Le Ministre, conformément à l’alinéa 152(1)b), détermine le montant d’impôt réputé avoir été versé pour l’année.
+Si le contribuable n’est pas d’accord avec la détermination du Ministre en ce qui concerne le montant d’impôt réputé avoir été versé, il a le droit de s’opposer à la détermination et d’en appeler de celle-ci : le paragraphe 152(1.2) accorde au contribuable le droit d’appliquer les dispositions des sections I et J de la Loi, lesquelles accordent notamment le droit de s’opposer à une cotisation d’impôt et de faire appel d’une telle cotisation, ou d’une détermination, autre qu’une détermination faite en vertu du paragraphe 152(1.1). Les montants qui doivent être déterminés par le Ministre comprennent la somme de l’impôt qui est réputée en vertu du paragraphe 127(1.1) avoir été payée au titre de son impôt prévu par la Partie I de la Loi pour l’année.
+En l’espèce, le Ministre a déterminé que le montant du crédit d’impôt à l’investissement remboursable en 1984 était de 2 366,24 $ et l’appelant désire en appeler de cette détermination.
+En vertu des dispositions du paragraphe 152(1.2), l’appelant a le droit de s’opposer à la détermination du Ministre en signifiant un avis d’opposition de la façon prévue à l’article 165 et, s’il n’est pas satisfait de la décision du Ministre à l’égard de l’opposition, il peut déposer un avis d’appel de la façon prévue à l’article 169. C’est ce que l’appelant a fait. Il n’a pas besoin d’attendre une année d’imposition future pour contester la détermination.
+[Non souligné dans l’original.]
+[30] La décision Aallcann Wood Suppliers, rendue par le juge Bowman (tel était alors son titre), pose le principe selon lequel le contribuable serait autorisé, si le calcul que fait le ministre d’une perte en vertu du paragraphe 152(1.1) de la Loi n’a pas un caractère exécutoire, à contester ce calcul pour une année donnée dans une autre année où le montant de la perte a une incidence sur l’impôt réclamé. Le raisonnement de la Cour est exposé dans les passages qui suivent (aux pages 1475‑76) :
+La position que le ministre a adoptée dans la réponse initiale à l’avis d’appel et selon laquelle le calcul qu’il fait d’une perte pour une année d’imposition particulière est immuable à moins qu’une détermination de la perte ne soit faite en vertu du paragraphe 152(1.1) est toutefois erronée. Il est vrai que la Cour ne peut procéder à une détermination de la perte en vertu du paragraphe 152(1.1). Cette fonction incombe au ministre. Si une telle détermination est faite, elle est réputée être valide et exécutoire, mais elle peut être contestée par la voie d’un avis d’opposition ou d’un appel et, si elle est confirmée en appel, sa validité est reconnue. Le paragraphe 152(1.1) a pour objet de permettre à un contribuable de demander au ministre une détermination d’une perte déclarée pour une année donnée, détermination dont il peut appeler à la Cour. Une des raisons sous-jacentes à l’adoption du paragraphe 152(1.1) est qu’on ne peut appeler d’une cotisation portant qu’aucun impôt n’est payable. En l’absence d’une détermination exécutoire faite en vertu du paragraphe 152(1.1), un contribuable peut contester le calcul du ministre concernant une perte relative à une année particulière dans un appel portant sur une autre année lorsque le montant du revenu imposable du contribuable est influencé par le montant de la perte pouvant être reportée prospectivement en vertu de l’article 111. En contestant la cotisation portant sur une année pour laquelle de l’impôt est payable au motif que le ministre a incorrectement calculé le montant d’une perte relative à une année antérieure ou subséquente qui peut être déduite en vertu de l’article 111 dans le calcul du revenu imposable du contribuable pour l’année en question dans l’appel, le contribuable demande à la Cour de faire précisément ce que prévoient les dispositions de la Loi de l’impôt sur le revenu en matière d’appel : déterminer l’exactitude d’une cotisation d’impôt en examinant la justesse d’un ou de plusieurs de ses éléments constituants, soit en l’espèce le montant de la perte d’une autre année pouvant être déduite. La Cour n’a pas à déterminer la perte en vertu du paragraphe 152(1.1) ni à entendre un appel concernant une cotisation portant qu’aucun impôt n’est payable. Elle doit simplement établir l’exactitude de la cotisation portant sur l’année en question dans l’appel dont elle est saisie.
+[Non souligné dans l’original.]
+L’année faisant l’objet du litige n’en était pas une où avait été établie une cotisation portant qu’aucun impôt n’est payable puisque, comme cela est indiqué, le contribuable contestait « la cotisation portant sur une année pour laquelle de l’impôt [était] payable ». Le juge Bowman note simplement qu’il convenait de mettre en cause tous les éléments pertinents quant à la détermination du montant de la cotisation d’impôt pour l’année visée, y compris le montant de la perte calculée par le ministre lors d’une autre année.
+[31] Dans l’affaire Liampat Holdings Ltd., l’avocat du contribuable s’est fondé sur la décision Aallcann Wood Suppliers pour faire valoir qu’il était permis d’en appeler d’une cotisation « néant ». La Cour fédérale (le juge Cullen) a jugé que l’avocat avait mal interprété la décision Aallcann Wood Suppliers (au paragraphe 8) :
+Selon moi, il ressort de l’affaire Aallcann que la Cour a compétence pour statuer sur une année ayant fait l’objet d’une cotisation « néant » lorsque les calculs effectués pour en arriver à cette cotisation influent réellement sur une autre année d’imposition; cela ne donne pas compétence à la Cour pour statuer directement sur une cotisation « néant ».
+[Non souligné dans l’original.]
+Cet énoncé de la règle exposée dans la décision Aallcann Wood Suppliers est exact.
+[32] Enfin, dans la décision Joshi no 2, le juge O’Connor note que la décision récemment rendue par la Cour dans Bruner, précité, (au paragraphe 9) « […] semble avoir élargi la portée des cas dans lesquels la Cour peut examiner une année d’imposition visée par une cotisation néant ». Toutefois, l’arrêt Bruner met en application la règle selon laquelle il est impossible d’en appeler d’une cotisation portant qu’aucun impôt n’est payable ou d’une cotisation visant des montants qui ne sont pas contestés. Le texte du dispositif des motifs est le suivant (au paragraphe 3) :
+En conséquence, un contribuable n’a pas le droit de contester une cotisation lorsque le fait pour lui d’obtenir gain de cause en appel soit ne changerait rien à l’impôt qu’il doit payer, […] soit augmenterait le montant de l’impôt qu’il doit payer. Lorsque le contribuable a soutenu qu’aucun montant n’était contesté, le juge de la Cour de l’impôt aurait dû appliquer la jurisprudence relative aux cotisations néant et annuler l’avis d’appel.
+[33] Par conséquent, il n’existe pas de jurisprudence étayant le principe avancé dans les décisions Corriveau et Joshi no 2 ainsi que la décision visée par le présent appel, à savoir qu’il peut être interjeté appel d’une cotisation portant qu’aucun impôt n’est payable.
+[6] Le crédit d’impôt en litige en l’espèce est le CIEO, soit un crédit d’impôt de l’Ontario qui est accordé en vertu du paragraphe 4(6) de la Loi de l’impôt sur le revenu de l’Ontario. Il s’agit donc d’un impôt provincial, et la Cour canadienne de l’impôt n’a pas compétence pour rendre un jugement sur la validité d’une cotisation d’impôt provincial sur le revenu. (Voir Sutcliffe v. The Queen, [2005] 1 C.T.C. 149, au paragraphe 14 et Hennick c. Canada, [1998] A.C.I. no 562, au paragraphe 9.)
+[7] Le dernier moyen que l’avocat de l’appelante a invoqué pour s’opposer à la requête demandant le rejet de l’appel était que la question en litige portait sur le calcul d’un montant d’impôt payable en vertu de la loi fédérale. Selon le paragraphe 23(2.1) de la Loi de l’impôt sur le revenu de l’Ontario, aucun appel d’une cotisation ne peut être interjeté devant la Cour supérieure de justice de l’Ontario relativement au calcul de l’impôt payable en application de la loi fédérale. Il a allégué que la Cour canadienne de l’impôt a implicitement compétence pour entendre le présent appel.
+[8] Je ne suis pas d’accord avec l’appelante. La Cour canadienne de l’impôt est une cour créée par la loi et sa compétence est délimitée par la loi (Voir Little v. The Queen, [2007] 2 C.T.C. 2062). L’article 12 de la Loi sur la Cour canadienne de l’impôt prévoit que la Cour a compétence pour entendre les affaires suivantes :
+12.(1) La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l'application de la Loi sur le droit pour la sécurité des passagers du transport aérien, du Régime de pensions du Canada, de la Loi sur l'exportation et l'importation de biens culturels, de la partie V.1 de la Loi sur les douanes, de la Loi sur l'assurance‑emploi, de la Loi de 2001 sur l'accise, de la partie IX de la Loi sur la taxe d'accise, de la Loi de l'impôt sur le revenu, de la Loi sur la sécurité de la vieillesse, de la Loi de l'impôt sur les revenus pétroliers et de la Loi de 2006 sur les droits d'exportation de produits de bois d'œuvre, dans la mesure où ces lois prévoient un droit de renvoi ou d'appel devant elle.
+Compétence
+(2) La Cour a compétence exclusive pour entendre les appels portés devant elle sur les questions découlant de l'application de la Loi sur les allocations aux anciens combattants et de la Loi sur les prestations de guerre pour les civils et visées à l'article 33 de la Loi sur le Tribunal des anciens combattants (révision et appel).
+Autre compétence
+(3) La Cour a compétence exclusive pour entendre les questions qui sont portées devant elle en vertu des articles 51 ou 52 de la Loi sur le droit pour la sécurité des passagers du transport aérien, de l'article 97.58 de la Loi sur les douanes, des articles 204 ou 205 de la Loi de 2001 sur l'accise, des articles 310 ou 311 de la Loi sur la taxe d'accise, des articles 173 ou 174 de la Loi de l'impôt sur le revenu ou des articles 62 ou 63 de la Loi de 2006 sur les droits d'exportation de produits de bois d'œuvre.
+[9] La requête de l’intimée est accueillie et l’appel interjeté par l’appelante à l’égard de l’année d’imposition 2005 est rejeté.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2007.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 18e jour de décembre 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2007CCI682
+NO DU DOSSIER : 2007-2106(IT)I
+INTITULÉ : Noralyn C. Baluyot c. La Reine
+LIEU DE L’AUDIENCE : Windsor (Ontario)
+DATE DE L’AUDIENCE : Le 25 septembre 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 8 novembre 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Me John Mill
+Avocat de l’intimée :
+Me Andrew Miller
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,684 @@
+---
+title: "Mason c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/98405/index.do"
+last_modified: "2014-10-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 297"
+citation2: ""
+neutral_citation: "2014 CCI 297"
+decision_date: "2014-10-03"
+language: "fr"
+item_id: "98405"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5259
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:43:38.598000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4c71199f70905cfa945f5522eb2d0edb742e10d4bcac613375aae0320416711a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mason c. La Reine
+
+- Citation: 2014 CCI 297
+- Decision date: 2014-10-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5259, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mason c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-10-03
+Référence neutre
+2014 CCI 297
+Numéro de dossier
+2011-3161(GST)G, 2011-3228(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3228(IT)G
+2011-3161(GST)G
+ENTRE :
+DAN MASON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 5 et 6 février 2014 et le 13 mai 2014, à Edmonton (Alberta)
+Motifs du jugement rendus en partie de vive voix à l'audience le 6 février 2014, à Edmonton (Alberta)
+Par : L'honorable juge Campbell J. Miller
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocat de l'intimée :
+Me Mark Heseltine
+JUGEMENT
+Les appels relatifs aux nouvelles cotisations concernant les années d'imposition 2003, 2004, 2005, 2006 et 2007 sont accueillis, et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, sur le fondement suivant :
+a) Loi de l'impôt sur le revenu
+i. Les revenus de M. Mason, pour les années d'imposition 2003 à 2007, s'élèvent à 91 897 $, 117 614 $, 116 031 $, 114 330 $ et 105 940 $, respectivement;
+ii. les dépenses déductibles pour les années d'imposition 2003 à 2007 sont celles qui figurent, telles qu'elles ont été admises, à l'annexe A;
+iii. aucune pénalité n'est exigible.
+b) Loi sur la taxe d'accise
+i. La TPS doit être calculée en prenant pour base des revenus de 91 897 $, 117 614 $, 116 031 $, 114 330 $ et 105 940 $, respectivement, pour les années d'imposition 2003 à 2007;
+ii. des CTI de 1 201 $, 1 411 $, 1 713 $, 1 394 $ et 1 220 $ sont accordés pour les années d'imposition 2003 à 2007, respectivement;
+iii. aucune pénalité n'est exigible.
+L'intimée aura un mois à compter de la date du présent jugement pour fournir des observations écrites sur les dépens. L'appelant aura un mois à compter du dépôt de ces observations écrites pour y répondre.
+Signé à Ottawa, Canada, ce 3e jour d'octobre 2014.
+« Campbell J. Miller »
+Le juge C. Miller
+Traduction certifiée conforme
+ce 28e jour de janvier 2015.
+Yves Bellefeuille, réviseur
+Référence : 2014 CCI 297
+Date : 20141003
+Dossier : 2011-3228(IT)G
+2011-3161(GST)G
+ENTRE :
+DAN MASON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] Vu la manière inusitée dont le procès s'est déroulé, les présents motifs, qui s'appliquent aux appels de M. Mason, requièrent un préambule. M. Mason a interjeté appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu (la « Loi ») et de la Loi sur la taxe d'accise (la « LTA ») pour les cinq années en cause (2003 à 2007) au motif que l'Agence du revenu du Canada (l'« ARC ») avait commis une erreur en établissant les cotisations à son endroit, car il n'était pas l'entité qui avait gagné les revenus; il était plutôt question d'un arrangement fiduciaire complexe. À la première étape du procès, en février 2014, j'étais persuadé que c'était bel et bien M. Mason, à titre personnel, qui avait gagné les revenus tirés de l'exercice de sa profession de comptable. Jusque‑là, il n'avait pas mis en cause des dépenses ou des crédits de taxe sur les intrants (« CTI ») et, comme l'ARC avait établi les cotisations en prenant pour base qu'il n'y avait pas de dépenses d'entreprise (et donc pas de CTI), je me suis prononcé sur la question de la bonne entité, mais j'ai ajourné l'audience pour que les parties puissent examiner les chiffres, dans l'espoir — irréaliste en fin de compte — de pouvoir régler l'affaire. Les parties sont revenues pour la suite du procès le 13 mai 2014, et j'ai entendu des témoignages concernant les revenus et les dépenses de l'entreprise de M. Mason.
+[2] Les motifs qui suivent ont été rendus de vive voix à la première étape de l'audition, en février 2014 (avec de légères retouches).
+[3] Monsieur Mason exerce la profession de comptable depuis plus de vingt‑cinq ans. Il soutient que, dans les années d'imposition 2003 à 2007, il a exercé sa profession en ayant recours à une structure complexe, formée de diverses sociétés et fiducies. Après une vérification, l'ARC a conclu que ce n'était pas cette structure complexe qui exploitait l'entreprise, mais uniquement M. Mason lui‑même. L'ARC a établi une cotisation à l'endroit de M. Mason en incluant dans ses revenus des dépôts faits dans divers comptes bancaires, d'un montant total de 91 897 $, de 213 998 $, de 122 355 $, de 114 829 $ et de 105 967 $, respectivement, pour les années d'imposition 2003 à 2007. L'ARC n'a imputé aucune dépense à ces années.
+[4] Monsieur Mason prétend que ces montants ne lui étaient pas imputables à titre personnel; ils n'étaient que détenus en fiducie. Cela, au départ, semble être la question en litige, mais, après avoir entendu le témoignage de M. Mason, il m'a semblé que les revenus visés par les cotisations, qui étaient basés sur des dépôts, ne tenaient pas compte des nombreux retraits qui, d'après M. Mason, étaient des dépenses. Cependant, ce dernier n'a pas mis les dépenses en cause. Le ministre du Revenu national (le « ministre ») a également imposé des pénalités pour faute lourde.
+[5] La Couronne a admis que les sommes de 96 384 $ en 2004, de 6 324 $ en 2005 et de 499 $ en 2006 n'étaient pas des revenus.
+[6] Monsieur Mason a témoigné que, vingt ans plus tôt, M. Mark Wright lui a fourni le mobilier de bureau nécessaire pour établir son cabinet comptable et que, en échange, M. Wright devait obtenir une part de ses bénéfices. Il semble que M. Wright avait une participation dans une société dénommée Investacap Inc., laquelle, à son tour, possédait une société de portefeuille, 401422 Alberta Ltd. (« la société 401 »). La société 401 a fait enregistrer une raison sociale, Mason and Associates, ainsi que Mason and Associates Management, en 1993. En 2006, 903654 Alberta Ltd. (« la société 903 ») semble avoir pris en charge le rôle de la société de portefeuille, ayant elle aussi fait enregistrer Mason and Associates comme raison sociale. Il y a eu aussi plusieurs filiales de la société 401 et, par la suite, de la société 903, que M. Mason, à un certain point, a qualifiées de bénéficiaires. Il ne m'a jamais indiqué clairement de quelle fiducie ces filiales étaient les bénéficiaires. Il ressort toutefois de ses documents comptables que certaines autres sociétés (S&K Holdings Ltd., 1089222 Alberta Ltd., 734970 Alberta Ltd. et 988741 Alberta Ltd.) représentaient quatre fonctions différentes de l'entreprise, et, selon M. Mason, aucune d'elles n'a jamais gagné plus de 30 000 $ par année. Il a reconnu que la structure avait été établie de cette manière pour s'assurer que chaque entité se situe en deçà de la limite de 30 000 $ pour la taxe sur les produits et services (« TPS »). Il a dit s'être fié à la vielle maxime énoncée dans l'affaire Duke of Westminster, à savoir qu'il pouvait structurer ses affaires de façon à réduire le plus possible le fardeau fiscal.
+[7] Monsieur Mason a déclaré que ces sociétés appartenaient à Mason and Associates, là encore en fiducie, et il a qualifié les sociétés elles‑mêmes de fiducies.
+[8] Selon les documents sommaires de M. Mason, ces quatre sociétés exécutaient les quatre fonctions suivantes : établissement d'états financiers, déclarations de revenus, tenue de livres et tâches d'entreprise. Ces sociétés n'ont jamais produit d'états financiers et la seule référence qui est faite à ces dernières figure dans les synopsis ou les résumés des activités commerciales de M. Mason.
+[9] En fait, ce qui s'est passé, en ce qui concerne l'exercice de la profession de comptable, c'est que M. Mason a retenu les services de quelques aides‑comptables, et il y en a eu dix en tout au cours des années en question. Ceux‑ci étaient payés au moyen de chèques établis par Mason and Associates. Les clients entraient en contact avec Mason and Associates dans des bureaux où le nom de cette entité était annoncé et ils retenaient ses services pour s'occuper de la tenue de livres, des états financiers, des déclarations de revenus ou des tâches d'entreprise nécessaires. M. Mason a déclaré que les tarifs étaient clairs et qu'il n'était pas nécessaire de remettre une facture aux clients. Ces derniers payaient leurs frais, et cet argent a été déposé dans le compte no 301797 de la Banque Toronto‑Dominion de 2003 à 2006, ainsi que dans le compte no 101‑683‑1 de la Banque royale du Canada en 2006 et en 2007. Il y avait un autre compte de la Banque Toronto‑Dominion qui était utilisé pour les services de gestion immobilière — mais nous y reviendrons plus tard. Le compte no 301797 de la Banque Toronto‑Dominion a été établi, de toute évidence, sous le nom de Mason and Associates. Le compte de la Banque royale du Canada a été ouvert sous le nom de la société 903, ainsi que sous celui de Mason and Associates — Compte général. Les chèques étaient libellés au nom de Mason and Associates. M. Mason a établi une série de synopsis, comme il les a appelés, qui montrent les sommes déposées dans les comptes bancaires et retirées de ces derniers. Je ne sais pas trop à partir de quels documents de base il a établi ces synopsis. Il a réparti les dépôts et les retraits entre les quatre fonctions différentes; toutefois, en parcourant plusieurs exemples, cela m'a paru être fait de manière tout à fait discrétionnaire. Ce n'est que dans les synopsis qu'il est question des quatre sociétés. Aux yeux du public et des sous‑traitants, c'était avec Mason and Associates qu'ils faisaient affaire. Dans ses synopsis, M. Mason a indiqué que les revenus (fondés sur les dépôts) étaient inférieurs aux dépenses. Il a montré aussi que la ventilation des revenus entre les quatre sociétés était toujours inférieure à 30 000 $.
+[10] Comme il a été mentionné, il y avait un compte bancaire qui concernait spécifiquement les activités de gestion immobilière. Là encore, M. Mason a décrit de manière assez obscure cet aspect de ses activités, mais il semble qu'il percevait des loyers, vraisemblablement pour d'autres, sauf que, là encore, les dépenses étaient supérieures aux revenus. M. Mason a soutenu que tout cela était fait en vertu d'une sorte d'arrangement fiduciaire.
+[11] Examinons donc cette fiducie de plus près. M. Mason prétend qu'à partir de 1993, M. Wright l'a laissé utiliser quelques bureaux et de l'équipement de bureau en vue d'exploiter ses activités, à la condition de pouvoir participer aux bénéfices de l'entreprise. M. Mason soutient qu'étant donné qu'il n'y a jamais eu de bénéfices, il n'y a jamais eu de distribution à M. Wright. Il ajoute que les comptes bancaires sont tous en fiducie. Il est le seul signataire autorisé, et il exerce un contrôle complet sur les comptes. À un certain moment, il a qualifié de bénéficiaires les quatre sociétés qui exécutaient des fonctions distinctes. Il a prétendu avoir été désigné comme fiduciaire par M. Wright, mais a dit ne pas être sûr de l'identité du constituant. M. Wright n'a pas témoigné. Il n'y a aucun acte de fiducie. J'en conclus que M. Mason n'a pas une connaissance approfondie du concept des fiducies.
+[12] Il a été difficile de savoir précisément de M. Mason quels étaient les biens en fiducie, hormis le mobilier et l'équipement de bureau datant d'une vingtaine d'années. Il a reconnu que les fonds déposés à la banque n'étaient vraisemblablement pas des biens en fiducie car les comptes semblaient être constamment à découvert. Il a ensuite qualifié les dépôts et les retraits bancaires d'opérations mettant en cause plusieurs fiducies.
+[13] Monsieur Mason a reconnu qu'il arrivait qu'il tire de l'argent comptant des comptes bancaires à des fins commerciales et à des fins personnelles. Il prétend avoir retiré des fonds pour payer son compte Mastercard qui, pareillement, a‑t‑il déclaré, était utilisé à des fins à la fois commerciales et personnelles.
+[14] Monsieur Mason n'a jamais produit de déclarations de fiducie. Les quatre sociétés n'ont jamais produit de déclarations. M. Mason n'a produit qu'en 2009 des déclarations personnelles concernant les années 2005, 2006 et 2007. Dans ses déclarations personnelles, il a fait état de revenus d'entreprise nets de 10 556 $, de 0 $, de 3 223 $, de 2 220 $ et de 3 390 $ pour les années en question. Il a également fait état de revenus de dividendes de 0 $, de 12 250 $, de 13 125 $, de 15 187 $ et de 17 140 $ pour ces années‑là. Il a soutenu qu'il a besoin de fort peu d'argent pour vivre. Il a déclaré qu'il déterminait le revenu pour l'année et que, après une répartition, il prenait ce qui restait.
+[15] Si les faits décrits jusqu'ici paraissent quelque peu sommaires, c'est parce que c'est le cas, car ils sont fondés sur une perception naïve des fiducies, une structure inutilement complexe, une absence de documents justificatifs originaux et un témoignage confus. C'est à dessein que je n'ai pas encore parlé de la question des dépenses, ni mentionné de chiffres précis; j'estime toutefois qu'il est nécessaire de répondre tout d'abord à la question suivante : des revenus de qui parlons‑nous? À ce stade‑ci, c'est la seule question à trancher.
+[16] Il y a plusieurs possibilités : premièrement, comme le soutient le fisc, il pourrait s'agir de M. Mason, ou, au contraire, de M. Wright, ou peut‑être d'une fiducie pour M. Wright; il pourrait s'agir aussi de la société 401 pour la période de 2003 à 2006 et de la société 903 pour la période de 2006 et de 2007, car c'était ces sociétés qui détenaient la raison sociale Mason and Associates; en dernier lieu, il pourrait s'agir des quatre sociétés auxquelles M. Mason a attribué des dépenses imputables aux revenus à titre, en quelque sorte, de bénéficiaires.
+[17] Examinons les trois dernières possibilités. Je ne puis admettre qu'il existe des arrangements fiduciaires prouvés. Le fait que M. Wright ait permis que l'on utilise de l'équipement de bureau vingt ans plus tôt, plus ou moins en échange d'une participation aux bénéfices tirés d'une entreprise, dans la mesure du possible, ne répond aucunement aux critères relatifs à l'établissement d'une fiducie. Comme le fait remarquer l'avocat de l'intimée, Me Heseltine, il faut trois certitudes pour constituer une fiducie. Il n'existe aucune certitude d'intention. M. Wright n'a pas témoigné, encore que ce soit lui qui, d'après M. Mason, a censément établi une fiducie. Il n'existe aucune certitude de matière : le mobilier de bureau est peut‑être bien certain, mais cela n'explique pas des comptes bancaires en fiducie — ces comptes sont‑ils des biens en fiducie? Les bénéfices sont‑ils un bien en fiducie? Il n'y a tout simplement rien de clair quant à la manière ou au moment où les biens en fiducie ont été déterminés, si ce n'est qu'à l'entière discrétion de M. Mason. Pour ce qui est de la certitude de l'objet ou du bénéficiaire, M. Mason aurait voulu que je croie que M. Wright était le seul bénéficiaire, et pourtant M. Mason semblait lui‑même croire que les sociétés l'étaient aussi. Non, l'explication de l'arrangement, sans preuve corroborante, de nature documentaire ou autre, est loin de prouver l'existence d'une fiducie.
+[18] C'est donc dire que les revenus, s'il y en a, n'appartiennent pas à M. Wright, et ne constituent pas non plus une fiducie pour ce dernier. Il n'existait tout simplement pas de fiducies.
+[19] Qu'en est‑il des quatre sociétés auxquelles M. Mason a imputé des revenus et des dépenses? Ces sociétés, selon moi, étaient fictives — elles n'avaient aucune vie, aucun compte, aucune des caractéristiques d'une société exploitant une entreprise : il s'agissait de coquilles dont M. Mason se servait commodément pour répartir des revenus de manière fictive. Le seul endroit où elles apparaissent, c'est dans les synopsis de M. Mason. Ces sociétés n'ont jamais conclu de contrat avec qui que ce soit, payé qui que ce soit, ni même fait quoi que ce soit. Non, elles n'ont touché aucun revenu : elles n'ont pas été mises en œuvre concrètement afin d'atteindre l'objectif qu'avait M. Mason de maintenir les revenus sous la barre de 30 000 $ pour la TPS.
+[20] Qu'en est‑il dans ce cas des deux sociétés qui ont fait enregistrer la raison sociale Mason and Associates, soit la société 401 et, plus tard, la société 903? Il faut maintenant, je crois, mettre en balance la possibilité que ces sociétés exploitaient l'entreprise et la possibilité que M. Mason le faisait lui‑même. Le principal facteur qui montre que c'était les sociétés qui exploitaient l'entreprise est le fait qu'elles ont fait enregistrer la raison sociale Mason and Associates. Dans le cas de la société 903, il y a un facteur additionnel : le compte bancaire d'exploitation était à son nom, ainsi qu'à celui de Mason and Associates. De plus, il y avait un bail au nom de la société 401. Enfin, les synopsis que M. Mason a établis, à partir de journaux originaux qui n'ont pas été produits, sont intitulés [TRADUCTION] « Journal synoptique — 401 » et [TRADUCTION] « Journal synoptique — 903 ». Aucun autre journal ou registre original n'a été produit, ni aucun état financier ou aucune déclaration de revenus des deux sociétés. Ces raisons sociales n'apparaissaient sur aucun chèque, aucune facture ou aucune annonce, mais uniquement dans les sommaires que M. Mason a lui‑même établis.
+[21] Mason and Associates n'était rien de plus qu'une dénomination commerciale : il n'y avait aucun associé à proprement parler, car les aides‑comptables qui travaillaient pour M. Mason étaient engagés comme sous‑traitants. J'ai certes eu l'impression que M. Mason était l'âme dirigeante de l'entreprise. C'était lui et lui seul qui prenait toutes les décisions d'affaires.
+[22] Il est devenu évident, à mesure que les éléments de preuve ressortaient, que la totalité des dépenses de M. Mason étaient payées à partir des revenus d'entreprise. Il n'avait aucun compte bancaire personnel. Il payait ses comptes Mastercard en faisant des retraits de l'entreprise. Il est évident qu'il considérait l'entreprise et lui‑même comme une seule et même entité. Il n'a produit aucun document pour prouver qu'il y avait une répartition quelconque entre les dépenses d'entreprise et les dépenses personnelles. Dans ce contexte, la question de l'identité (M. Mason ou les deux sociétés, soit la société 401 et la société 903) devient quelque peu théorique pour ce qui est de déterminer les revenus de M. Mason pour les années en question. Si c'était les sociétés qui exploitaient les entreprises, il ressort clairement de la preuve que M. Mason obtenait un avantage personnel en plus de ce qu'il qualifiait de revenu, c'est‑à‑dire toutes les dépenses personnelles que payaient les sociétés. Si M. Mason exploitait l'entreprise à titre personnel, il est là encore nécessaire de faire une distinction entre les dépenses d'affaires légitimes et les dépenses personnelles. D'une façon ou de l'autre, la question devient celle de déterminer le revenu net véritable de l'entreprise, peu importe qui l'exploitait.
+[23] Une chose est claire : pour la TPS, il n'y avait qu'une seule entreprise, et non quatre, comme le prétend M. Mason. C'est donc dire que pour la TPS, il est effectivement nécessaire de déterminer si c'était, d'une part, M. Mason, ou, d'autre part, la société 401 et la société 903, qui fournissaient les services. Je conclus que Mason and Associates était M. Mason, et non la société 401 ou la société 903. Exception faite de l'enregistrement de la raison sociale, il n'y a tout simplement pas assez de caractéristiques commerciales pour donner à penser que c'était les sociétés qui exploitaient les entreprises — rien. M. Mason participait personnellement aux activités quotidiennes, prenait toutes les décisions et se faisait passer pour Mason and Associates. Je conclus que cette dernière était une entreprise à propriétaire unique de M. Mason. Toutes les sociétés et les prétendues fiducies étaient des écrans de fumée qui dissimulaient la façon dont l'entreprise était véritablement exploitée. Elles n'ont pas été constituées ou mises en œuvre de telle manière qu'on pourrait conclure que c'était elles qui exploitaient les entreprises.
+[24] Cependant, il est clair aussi qu'il est irréaliste et erroné d'imputer à M. Mason un revenu imposable fondé uniquement sur des dépôts, sans tenir compte de dépenses d'entreprise. L'entreprise de comptabilité avait des dépenses d'entreprise légitimes. Malheureusement, M. Mason n'a pas été suffisamment coopératif avec l'ARC pour que l'on puisse déterminer quelles étaient ces dépenses d'entreprise. M. Mason, le temps est maintenant venu de le faire. M. Mason et Me Heseltine ont laissé entendre que si je décidais qu'il était nécessaire d'examiner les dépenses, ils étaient disposés à ce que l'on ajourne l'audience pour qu'ils puissent discuter ce matin en vue de régler la question des dépenses. Me Heseltine a suggéré que je participe à cette conférence de règlement. Ma crainte était que si je le faisais, et s'il arrivait que les parties ne parviennent pas à trouver une solution et que le procès doive reprendre pour examiner la question des dépenses, je ne pourrais plus siéger comme juge du procès et un autre juge aurait à tout recommencer à zéro.
+[25] J'ai donc suggéré aux parties de se réunir sans moi pour essayer de régler leurs différences. Une pièce a été réservée à cette fin. Et ce n'est que si vous croyez être proches du but et si vous avez besoin d'un dernier coup de main pour conclure l'affaire que j'envisagerai d'intervenir, à la condition toutefois que les parties soient résolues à s'entendre, et non à reprendre le procès.
+[26] J'ai pensé vous faire part de quelques réflexions alors que vous vous attaquerez à la question des dépenses. Premièrement, vous serez ici jusqu'aux calendes grecques si vous essayez de justifier la moindre dépense sur une période de cinq ans : faites un échantillonnage sélectif. L'ARC doit reconnaître qu'il y a manifestement des dépenses d'entreprise — loyer, entrepreneurs, fournisseurs, assurance, etc. M. Mason, soyez conscient que votre propre témoignage m'a convaincu qu'une part importante de dépenses personnelles a été incluse dans les déductions d'entreprise, et que l'entreprise a touché des revenus dont vous vous êtes servi pour votre avantage personnel. Aux deux parties, je dis : soyez raisonnables.
+[27] Je suis conscient que M. Mason n'a pas traité des dépenses dans ses actes de procédure, limitant ainsi son appel à la question de savoir quelle était l'entité qui avait gagné des revenus et que, de ce fait, il n'a pas non plus traité des CTI dans son appel relatif à la TPS. Je vous demanderais d'examiner toutes ces questions lors de vos discussions de règlement, car je serais disposé, même à ce stade tardif, à faire droit à la modification des actes de procédure afin d'arriver à un résultat réaliste et correct. Dans le même ordre d'idées, je ne rends aucune décision à ce stade‑ci sur les pénalités, car je dois d'abord savoir quel montant sera imposable entre les mains de M. Mason.
+[28] Enfin, advenant que les parties ne parviennent pas à régler l'affaire, je réserve le 13 mai 2014 pour la suite du procès, en vue d'examiner la question des dépenses et des CTI. Ce délai devrait suffire pour produire des actes de procédure modifiés, échanger d'autres documents, s'il y en a, et procéder à d'autres interrogatoires préalables. Je fixerai des délais précis à cet égard s'il se révèle nécessaire de le faire.
+[29] Cela conclut les motifs qui ont été prononcés oralement en février. Voici maintenant mes motifs concernant les revenus et les dépenses de l'entreprise de M. Mason, après la fin du procès, en mai 2014.
+[30] Les parties ne sont pas parvenues à régler leurs différences et le procès a repris le 13 mai 2014. L'affaire s'est malheureusement transformée en une vérification de revenus et de dépenses. Je dis « malheureusement » parce que M. Mason s'est présenté avec plusieurs boîtes de documents à l'appui de sa position. L'intimée a fait savoir qu'après trois jours d'interrogatoire préalable, elle n'avait réussi à passer en revue que les documents concernant 2003, mais que, sur la foi de cet examen, elle était disposée à concéder la totalité de certaines dépenses pour toutes les années, ainsi que des pourcentages inférieurs pour d'autres dépenses applicables à toutes les années. Curieusement, 2003 est la seule année pour laquelle M. Mason a indiqué qu'il ne possédait pas tous les documents justificatifs. Il est étrange que les parties n'aient pas choisi l'une des autres années pour se faire une meilleure idée des dépenses appropriées.
+[31] L'avocat de l'intimée a tout de même mentionné qu'il avait eu le temps, lors de l'interrogatoire préalable, de traiter en partie de l'année 2007 et qu'il avait refusé la totalité de certaines dépenses qui avaient été engagées cette année‑là. J'ai demandé aux parties de me fournir un sommaire de leurs positions respectives après que M. Mason eut terminé son interrogatoire principal car, pour être franc, il n'était pas tout à fait clair dans mon esprit ce qui avait été concédé exactement pour les années en question et ce qui était encore en litige. Je traiterai en premier lieu des revenus.
+Les revenus
+[32] À la suite d'un examen des tableaux fournis, je conclus que la différence de revenus est la suivante :
+Année
+2003
+2004
+2005
+2006
+2007
+Total des dépôts
+91 897 $
+117 614 $
+116 031 $
+114 330 $
+105 940 $
+Revenus selon l'état des résultats
+75 872 $
+93 606 $
+102 622 $
+106 511 $
+90 597 $
+Différence
+16 025 $
+24 008 $
+13 409 $
+7 819 $
+15 343 $
+M. Mason explique cette différence en disant qu'une partie des dépôts était des prêts et des transferts, comme suit :
+Prêts selon la liste (gestion)
+3 697 $
+18 125 $
+1 310 $
+–– $
+4 300 $
+Prêts selon la liste (frais généraux)
+10 780 $
+3 169 $
+3 478 $
+9 550 $
+3 200 $
+14 477 $
+21 294 $
+4 788 $
+9 550 $
+7 500 $
+Différence
+1 548 $
+2 714 $
+8 621 $
+-1 731 $
+7 843 $
+Virements bancaires, etc.
+-1 548 $
+-2 714 $
+-8 621 $
+–– $
+-7 843 $
+Différence
+Néant
+Néant
+Néant
+-1 731 $
+Néant
+[33] La Couronne a fondé ses chiffres pour les revenus sur les renseignements relatifs aux dépôts bancaires. M. Mason accepte ces chiffres, mais uniquement comme point de départ, soutenant, comme il a été indiqué plus tôt, qu'ils comprennent des dépôts de prêts et des virements bancaires, qui ne seraient ni l'un ni l'autre des revenus. La vérificatrice de l'ARC, Mme Loraas, a déclaré que lors de son examen des documents bancaires, elle avait exclu tous les virements identifiables.
+[34] Monsieur Mason a fourni des photocopies de piètre qualité de ce qui semblait être des bordereaux de dépôt bancaire, sur une poignée desquels seulement figurait un timbre bancaire. Après un examen plus attentif, il me semble qu'on a manipulé les copies. Plus précisément, il y a un bordereau concernant un dépôt de 6 000 $ fait le 5 décembre 2003 mais sur lequel le mot [TRADUCTION] « prêt » semble avoir été modifié. Le mot apparaît sur un fond blanc plus délimité que le reste de la photocopie, qui est grise et floue. Ce document est suspect. Si j'y ajoute les doutes que j'ai quant à la crédibilité de M. Mason, doutes dont je traiterai sous peu, il m'est impossible de souscrire à son affirmation selon laquelle il y avait des prêts correspondant aux montants qu'il a indiqués. Je rejette également son calcul concernant les virements bancaires, et je privilégie la preuve de la vérificatrice. Les chiffres que le ministre a fixés pour les revenus sont maintenus.
+La crédibilité
+[35] Avant d'examiner les dépenses, je souhaiterais dire quelques mots sur la crédibilité de M. Mason. Les explications qu'il a données à la première étape du procès illustraient un manque total de connaissances de sa part à propos des fiducies, ainsi qu'une tentative bâclée et peu convaincante de planification fiscale. Il n'a fourni aucun document convaincant. La seconde étape du procès ne s'est pas mieux déroulée. Sa tenue de livres était vague et difficile à suivre. Même à la seconde étape, il a dit qu'il y avait d'autres documents qu'il n'avait pas amenés. Je trouve cela difficile à admettre.
+[36] J'ai conclu que ses explications selon lesquelles il fonctionnait à perte, et qu'il finançait ses pertes par des prêts et du crédit, étaient indéfendables. Il a donné peu d'explications sur l'un quelconque des prêts. Et, à vrai dire, comme je l'ai mentionné plus tôt, des bordereaux de dépôts bancaires photocopiés sont, à mes yeux, hautement suspects.
+[37] Monsieur Mason a déclaré qu'il ne remettait pas de factures aux clients. Il leur expliquait simplement ce qu'il faisait. Il s'agit là d'une pratique extrêmement naïve pour une personne qui n'a pas le sens des affaires et qui lance une petite entreprise; pour un comptable d'une vingtaine d'années d'expérience, il ne s'agit pas d'une pratique crédible.
+[38] Les frais de repas de M. Mason sont un autre exemple de méconnaissance des dépenses d'entreprise légitimes ou de tromperie personnelle; il s'agissait principalement de montants peu élevés dépensés dans des restaurants‑minute, et déduits en invoquant la tenue d'une réunion d'affaires quelconque. Je ne le crois tout simplement pas.
+[39] D'autres facteurs m'ont amené à accorder peu d'importance au témoignage de M. Mason :
+- l'absence de preuves corroborantes d'autres témoins;
+- la confusion entre le témoignage fait au procès et à l'interrogatoire préalable quant à l'endroit où il vivait au cours de la période en cause;
+- le fait de ne pas se souvenir du nom d'un ami avec lequel il vivait censément;
+- la déduction de la totalité de ses dépenses d'automobile, malgré le fait qu'il a déclaré qu'il faisait principalement du travail bénévole et que la comptabilité était plutôt une activité secondaire;
+- la répartition arbitraire des dépenses et le fait qu'il a reconnu qu'un grand nombre d'entre elles avaient été mal réparties;
+- le fait que pour ce qui était des dépenses, il a reconnu que la toute première (sur plusieurs centaines) que j'ai relevée était probablement personnelle;
+- le fait de se fonder dans une large mesure sur des synopsis, plutôt que sur des documents justificatifs originaux;
+- la présentation au procès de reçus de restaurant sur lesquels était inscrit le mot [TRADUCTION] « réunion »; la plupart ne comportaient pas cette inscription à l'interrogatoire préalable.
+[40] J'ai trouvé que le témoignage de M. Mason était confus, presque évasif. Il s'est emmêlé dans une structure complexe, sans la documenter convenablement. Il a exploité son entreprise le moins rigoureusement possible et s'est organisé pour qu'il soit difficile, voire impossible, de déterminer les revenus et les dépenses véritables de l'entreprise. Dans l'ensemble, j'ai trouvé son témoignage peu fiable, et j'y accorde peu d'importance comme preuve de sa position.
+Les dépenses
+[41] Cela dit, voyons maintenant les dépenses. Est joint ci‑après en tant qu'annexe A un tableau montrant les dépenses déduites par M. Mason et celles que le fisc a admises à la suite d'un examen des renseignements relatifs à l'année 2003.
+[42] Je ne puis me fier aux documents de M. Mason. Son argument quant au motif pour lequel je ne devrais pas me limiter aux conclusions que la vérificatrice a tirées à partir des reçus fournis à l'ARC est qu'un examen de ce que M. Mason a appelé divers [TRADUCTION] « éléments bancaires » permet de dégager d'autres dépenses. Il n'a toutefois pas établi de lien entre ces [TRADUCTION] « éléments bancaires » et les dépenses précises qu'il a déclarées. Tout ce qu'il a fourni à la Cour semble être des sommaires, sans aucun document justificatif original.
+[43] Monsieur Mason prétend aussi que, pour l'année 2003, il manquait de [TRADUCTION] « reçus bancaires » qui, pour ce qui était des frais d'assurance, étaient disponibles pour d'autres années. Là encore, ces reçus n'ont pas été identifiés de manière suffisamment claire au procès pour que je puisse conclure que de tels frais d'assurance ont bel et bien été engagés.
+[44] Monsieur Mason a fait valoir, relativement à la totalité de ses dépenses, qu'elles avaient été engagées lors de l'exploitation ordinaire de son entreprise, et il a soutenu que ses reçus personnels étaient tenus séparément. Ce n'est pas du tout ce qui ressortait de son témoignage, ni des documents qu'il a produits. Ses sommaires faisaient état d'une imputation de 100 % des dépenses à l'entreprise, à l'exception de quelques frais afférents à un véhicule. Tous les repas semblaient avoir été déduits, dans une proportion de 50 %, même si, dans la plupart des cas, il s'agissait simplement de repas‑minute.
+[45] Il est inutile selon moi de passer en revue tous les chefs de dépense. Il appartient à M. Mason de prouver, selon la prépondérance des probabilités, non seulement que les dépenses ont été engagées, mais aussi qu'elles l'ont été à des fins commerciales. Il lui a été impossible de le faire, au‑delà de ce que le fisc a admis.
+[46] Étant donné que l'intimée a rejeté la totalité des dépenses liées à de prétendus revenus locatifs, je souhaite traiter des frais d'hypothèque, de taxes et de services publics qui, d'après M. Mason, sont liés à ce qu'il a appelé [TRADUCTION] « l'immeuble locatif ayant fait l'objet d'une déduction relative aux services de gestion immobilière ». Il a fallu un temps considérable lors du procès pour savoir exactement de quel immeuble locatif il parlait. Il s'agissait de la maison située au 17320, 86e Avenue, près du centre commercial West Edmonton. L'intimée laisse entendre qu'il s'agissait de la demeure personnelle de M. Mason. Ce dernier n'a produit aucun bail ou aucune preuve de paiement de loyer, pas plus que les noms des locataires, à part son frère.
+[47] L'intimée a produit une copie d'un certificat de droit immobilier, qui s'appliquait vraisemblablement à cette maison, et qui indiquait qu'une autre société, 957422 Alberta Inc., en était la propriétaire au cours de la période en cause. M. Mason était l'unique administrateur et actionnaire de 957422 Alberta Inc. Il y a fait référence comme étant sa cliente pour les services de gestion immobilière, mais, là encore, il n'est pas ressorti clairement de son témoignage quels étaient les immeubles qui étaient gérés. En fait, aucune preuve n'a relié 957422 Alberta Inc. à un immeuble locatif quelconque avant la seconde étape du procès. À cette étape, M. Mason a produit un nouveau synopsis distinct pour 957422 Alberta Inc., dont l'intitulé était cependant le suivant :
+[TRADUCTION]
+Journal bancaire TD 86300301835
+Nom de la société : 401422 Alberta – Gestion
+Fin de l'exercice : 31 décembre 2005
+Gestion immobilière 957422 AB Ltd.
+[48] En accordant à M. Mason le bénéfice du doute, peut‑être qu'il n'a pas produit ce document plus tôt parce qu'il ne considérait pas que cela faisait partie de son entreprise comptable. Le document fait état de dépôts et de paiements, vraisemblablement liés à des revenus locatifs, pour les années 2004 à 2007. Là encore, cependant, il n'existe aucun document justificatif.
+[49] L'intimée laisse entendre qu'il n'y avait qu'un seul immeuble et qu'il s'agissait de celui dans lequel résidait M. Mason. Le certificat de droit immobilier fait bel et bien état de deux hypothèques (Banque de commerce et Commercial Lease and Capital Corp.) sur l'immeuble, ainsi que d'une cession de loyers et de baux en faveur de Commercial Lease and Capital Corp., mais datant d'avant que 957422 Alberta Inc. devienne propriétaire de l'immeuble.
+[50] Les états des résultats que M. Mason a produits dans ses synopsis relativement aux revenus locatifs de 2004 à 2007 indiquent ceci :
+2004
+2005
+2006
+2007
+Revenus
+4 342 $
+5 930 $
+8 235 $
+8 089 $
+Dépenses (hypothèque, réparations, services publics, etc.)
+15 625 $
+21 013 $
+16 916 $
+12 348 $
+[51] L'intimée est d'avis que M. Mason n'a pas prouvé qu'il touchait réellement des loyers, et les dépenses liées au prétendu immeuble locatif sont donc toutes rejetées.
+[52] Il y a deux façons d'aborder la question des loyers : premièrement, comme un élément de l'entreprise à propriétaire unique de M. Mason par l'entremise de laquelle, comme je l'ai déjà conclu, il exerçait son travail de comptable; deuxièmement, comme une source productrice de revenus distincte, détenue par 957422 Alberta Inc. Le problème que me pose la seconde possibilité est que le fait que 957422 Alberta Inc. détenait le titre de propriété de l'immeuble n'est ressorti en preuve qu'à la seconde étape du procès et, même là, M. Mason semble toujours mettre cet élément de son entreprise dans le même panier que la société 401, et l'intégrer à ce qu'il appelle de la gestion immobilière. Les loyers censément reçus ne semblent pas avoir été comptabilisés par la propriétaire de l'immeuble, 957422 Alberta Inc., que M. Mason a continué d'appeler une fiducie. Tout cela nous ramène au fait que M. Mason n'a pas été en mesure de montrer à l'aide d'éléments de preuve concrets qui était rémunéré pour quel service.
+[53] Je conclus que s'il y a eu des revenus locatifs, il est préférable de les englober dans les revenus de M. Mason. Ce dernier n'a pas prouvé de manière satisfaisante qu'il y avait des revenus locatifs desquels les dépenses pouvaient être déduites. De façon générale, le mieux que l'on puisse dire au sujet de son témoignage sur ce qu'il a appelé [TRADUCTION] « l'immeuble de placement » est qu'il a été confus. Il a prétendu qu'il n'avait vécu à cet endroit que pendant six à huit mois au cours des années en question et qu'il louait principalement une chambre au centre‑ville, dans un condominium de deux chambres à coucher appartenant à Ken English et à son épouse, qui vivaient là aussi. Il a également dit qu'au cours des années en cause, il avait habité pendant une autre période de six à huit mois dans une seconde maison située dans l'ouest d'Edmonton, chez un ami, Jim (dont il ne se souvenait pas du nom de famille). Il a déclaré qu'il utilisait l'adresse de son bureau comme adresse personnelle. Il a soutenu que son hypothèque était en réalité de 27 000 $ par année, mais qu'il n'avait déclaré que 3 200 $ en 2007, par exemple, et non le solde, car ce solde [TRADUCTION] « n'était pas passé par le compte bancaire ». Je n'ai aucune idée de ce qu'il voulait dire par cela.
+[54] Même si j'étais convaincu que M. Mason touchait des revenus locatifs, je n'ai en main aucune preuve concernant la part de l'immeuble utilisée pour produire des loyers qui me permettrait de répartir de manière exacte les dépenses personnelles et les dépenses liées aux loyers. M. Mason a déclaré qu'il y avait eu pour commencer un seul locataire, ensuite deux ou trois, que l'un d'eux était son frère, et que lui‑même avait vécu dans l'immeuble, quoique brièvement. Il a également mentionné un moment donné que cet immeuble était l'un de ses immeubles de placement. Je n'ai jamais entendu parler d'autres immeubles. Là encore, comme dans le cas d'une bonne part de son témoignage, M. Mason m'a laissé perplexe et peu convaincu. Il ne m'a pas fourni assez de preuves pour que je puisse m'écarter de la cotisation de l'intimée, à savoir qu'aucune dépense liée à un immeuble n'est déductible.
+[55] Pour ce qui est de la TPS, celle‑ci devrait être fondée sur les revenus qui sont indiqués à l'annexe A. Au départ, l'intimée a établi sa cotisation en se fondant sur des revenus quelque peu supérieurs à ceux qui ont été admis en définitive et elle n'a fait droit à aucun CTI, ce qui s'est soldé par des cotisations de 6 432 $, de 14 979 $, de 8 564 $, de 7 044 $ et de 6 356 $ pour les années d'imposition 2003 à 2007, respectivement. Ces chiffres seront réduits pour tenir compte des revenus indiqués à l'annexe A. Reste à savoir dans quelle mesure M. Mason a droit à des CTI. Le tableau qui suit indique ce que l'intimée admet à cet égard et ce que l'appelant souhaite encore obtenir.
+2003
+2004
+2005
+2006
+2007
+A
+I
+A
+I
+A
+I
+A
+I
+A
+I
+Automobile
+49 $
+22 $
+90 $
+23 $
+30 $
+15 $
+45 $
+42 $
+138 $
+25 $
+Cotisations
+212 $
+53 $
+386 $
+53 $
+242 $
+53 $
+95 $
+54 $
+144 $
+51 $
+Registre des sociétés
+306 $
+142 $
+242 $
+146 $
+332 $
+276 $
+252 $
+130 $
+289 $
+189 $
+Repas
+51 $
+18 $
+49 $
+19 $
+54 $
+11 $
+96 $
+9 $
+222 $
+10 $
+Bureau
+517 $
+135 $
+486 $
+106 $
+558 $
+169 $
+310 $
+137 $
+516 $
+158 $
+Loyer
+815 $
+0 $
+890 $
+0 $
+840 $
+0 $
+832 $
+0 $
+461 $
+0 $
+Téléphone
+36 $
+0 $
+94 $
+0 $
+147 $
+0 $
+30 $
+0 $
+210 $
+0 $
+[56] L'intimée étant disposée à reconnaître l'existence de quelques CTI, je n'ai pas l'intention d'analyser les conditions qu'il faut remplir pour avoir droit à des CTI. J'admets que l'intimée ne soulève pas de question à cet égard. Je traiterai donc simplement des chiffres.
+[57] Selon son argumentation écrite, l'intimée a concédé des CTI pour les frais de bureau en prenant pour base [TRADUCTION] « le rapport entre la valeur des reçus (argent comptant ou carte de crédit) et la valeur de toutes les dépenses admises, quelle qu'en soit la source (reçus, chèques annulés, états de carte de crédit, états bancaires). Ce rapport, exprimé sous forme de pourcentage, soit 61 %, a été appliqué à chacun des montants admis pour en arriver à un montant net à partir duquel la TPS a ensuite été calculée de façon à obtenir un montant de CTI. » Ceci étant dit avec égards, je ne vois pas pourquoi la concession a été limitée à 61%. Je suis disposé à accorder 100 %.
+[58] L'intimée concède des CTI sous les cinq premières rubriques du tableau qui précède, mais sans expliquer pourquoi cette concession ne s'étendrait pas aux frais de location et de téléphone, qui ont été reconnus comme des dépenses commerciales déductibles. Je suis également disposé à faire droit à des CTI sur ces montants concédés. Voici donc un sommaire de mes conclusions.
+2003
+2004
+2005
+2006
+2007
+Automobile
+22 $
+23 $
+15 $
+42 $
+25 $
+Cotisations
+53 $
+53 $
+53 $
+54 $
+51 $
+Registre des sociétés
+142 $
+146 $
+276 $
+130 $
+189 $
+Repas
+18 $
+19 $
+11 $
+9 $
+10 $
+Bureau
+235 $
+186 $
+296 $
+239 $
+274 $
+Loyer
+700 $
+890 $
+915 $
+823 $
+461 $
+Téléphone
+31 $
+94 $
+147 $
+88 $
+210 $
+CTI
+1 201 $
+1 411 $
+1 713 $
+1 394 $
+1 220 $
+Les pénalités
+[59] Des pénalités ont été imposées en vertu de l'article 285 de la LTA et du paragraphe 163(2) de la Loi. Ces dispositions sont semblables en ce sens qu'elles prévoient toutes deux des pénalités si le contribuable, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé dans sa déclaration ou y participe, y consent ou y acquiesce.
+[60] La position de M. Mason est qu'il croyait que les fiducies étaient un moyen approprié et juste de faire des affaires et qu'il pouvait structurer ses activités de façon à payer le minimum d'impôt. Il incombe au fisc de prouver le contraire.
+[61] La question de savoir si M. Mason, sciemment ou dans des circonstances équivalant à faute lourde, a fait de faux énoncés ne dépend pas des chiffres — son calcul des revenus et des dépenses — mais du fait de savoir s'il croyait sincèrement que les efforts qu'il avait faits pour structurer ses activités en vue de payer le minimum d'impôt étaient bien fondés. Comme je l'ai déjà conclu, la structure complexe de ce que M. Mason a appelé des fiducies a donné lieu à un écran de fumée, plutôt qu'à une planification fiscale efficace. Mais l'intimée n'a pas prouvé selon la prépondérance des probabilités que cet écran de fumée était l'intention visée. Je conclus que l'intention de M. Mason était de mettre en œuvre une planification fiscale efficace. Mais, ceci étant dit avec égards, il ne l'a tout simplement pas fait particulièrement bien. Il ne suffit pas de dire qu'il aurait dû être plus avisé (voir, par exemple, les affaires Leroux c. Agence du revenu du Canada[1] et Fourney c. La Reine[2]). En conséquence, bien que j'aie exprimé des doutes à propos de la fiabilité de son témoignage, cela ne veut pas dire qu'il a agi de manière délibérément trompeuse, ou qu'il a commis une faute lourde. Ses gestes, selon moi, ont été peu judicieux, même au point d'être considérés comme négligents. Mais, pour conclure à une faute lourde, il faudrait élever son comportement au-delà de ce seuil. L'intimée n'a pas fait la preuve de ce degré supérieur de négligence.
+[62] En conclusion, je fais droit aux deux appels et je renvoie l'affaire au ministre pour nouvel examen et nouvelles cotisations, sur le fondement suivant :
+a) Loi de l'impôt sur le revenu
+i. Les revenus de M. Mason, pour les années d'imposition 2003 à 2007, s'élèvent à 91 897 $, 117 614 $, 116 031 $, 114 330 $ et 105 940 $, respectivement;
+ii. les dépenses déductibles pour les années d'imposition 2003 à 2007 sont celles qui figurent, telles qu'elles ont été admises, à l'annexe A;
+iii. aucune pénalité n'est exigible.
+b) Loi sur la taxe d'accise
+i. La TPS doit être calculée en prenant pour base des revenus de 91 897 $, 117 614 $, 116 031 $, 114 330 $ et 105 940 $, respectivement, pour les années d'imposition 2003 à 2007;
+ii. des CTI de 1 201 $, 1 411 $, 1 713 $, 1 394 $ et 1 220 $ sont accordés pour les années d'imposition 2003 à 2007, respectivement;
+iii. aucune pénalité n'est exigible.
+[63] L'intimée aura un mois à compter de la date du présent jugement pour fournir des observations écrites sur les dépens. L'appelant aura un mois à compter du dépôt de ces observations écrites pour y répondre.
+Signé à Ottawa, Canada, ce 3e jour d'octobre 2014.
+« Campbell J. Miller »
+Le juge C. Miller
+Traduction certifiée conforme
+ce 28e jour de janvier 2015.
+Yves Bellefeuille, réviseur
+Annexe A
+2003
+2004
+2005
+2006
+2007
+Revenus
+Dépôts moins montants en fiducie
+91 897 $
+117 614 $
+116 031 $
+114 330 $
+105 940 $
+Revenus selon les états des résultats
+75 872 $
+93 606 $
+102 921 $
+106 272 $
+90 597 $
+Chefs de dépense
+2003
+Somme déduite
+% justifié
+Somme admise
+2004
+Somme déduite
+Somme admise en utilisant le % de 2003
+2005
+Somme déduite
+Somme admise en utilisant le % de 2003
+2006
+Somme déduite
+Somme admise en utilisant le % de 2003
+2007
+Somme déduite
+Somme admise en utilisant le % de 2003
+Automobile
+776,00 $
+50 %
+314,00 $
+651,00 $
+325,50 $
+438,00 $
+219,00 $
+1 279,00 $
+639,50 $
+819,00 $
+409,50 $
+Frais bancaires
+675,00 $
+100 %
+675,00 $
+1 489,00 $
+1 489,00 $
+1 739,00 $
+1 739,00 $
+1 635,00 $
+1 635,00 $
+768,00 $
+768,00 $
+Droits liés au registre des sociétés
+3 545,00 $
+55 %
+1 972,00 $
+3 605,00 $
+2 018,80 $
+7 065,00 $
+3 885,75 $
+3 464,00 $
+1 939,84 $
+5 507,00 $
+3 083,92 $
+Cotisations et droits
+1 767,00 $
+65 %
+1 152,00 $
+1 373,00 $
+892,45 $
+3 467,00 $
+2 253,55 $
+5 517,00 $
+3 586,05 $
+3 540,00 $
+2 301,00 $
+Assurance
+2 866,00 $
+44 %
+1 261,00 $
+2 705,00 $
+1 190,20 $
+3 242,00 $
+1 426,48 $
+3 942,00 $
+1 734,48 $
+1 802,00 $
+792,88 $
+Repas
+1 253,00 $
+20 %
+251,00 $
+1 367,00 $
+273,40 $
+769,00 $
+153,80 $
+700,00 $
+140,00 $
+856,00 $
+171,20 $
+Divers et séminaires
+1 918,00 $
+0,00 $
+455,00 $
+0,00 $
+516,00 $
+0,00 $
+1 779,00 $
+0,00 $
+Hypothèques et taxes
+7 780,00 $
+0,00 $
+9 747,00 $
+0,00 $
+9 368,00 $
+0,00 $
+3 262,00 $
+0,00 $
+Bureau
+6 334,00 $
+53 %
+3 357,00 $
+5 002,00 $
+2 651,06 $
+7 975,00 $
+4 226,75 $
+6 939,00 $
+3 677,67 $
+8 626,00 $
+4 571,78 $
+Loyer
+9 993,00 $
+100 %
+9 993,00 $
+12 719,00 $
+12 719,00 $
+13 082,00 $
+13 082,00 $
+11 897,00 $
+11 897,00 $
+7 691,00 $
+7 691,00 $
+Réparations et entretien
+680,00 $
+0,00 $
+635,00 $
+0,00 $
+570,00 $
+0,00 $
+739,00 $
+0,00 $
+Sous-contrats
+44 783,00 $
+100 %
+44 783,00 $
+51 221,00 $
+51 221,00 $
+50 180,00 $
+50 180,00 $
+46 198,00 $
+46 198,00 $
+41 791,00 $
+41 791,00 $
+Téléphone
+446,00 $
+100 %
+446,00 $
+1 342,00 $
+1 342,00 $
+2 092,00 $
+2 092,00 $
+1 350,00 $
+1 350,00 $
+3 512,00 $
+3 512,00 $
+Services publics
+6 236,00 $
+0,00 $
+5 630,00 $
+0,00 $
+5 441,00 $
+0,00 $
+6 715,00 $
+0,00 $
+Total
+72 438,00 $
+64 204,00 $
+98 088,00 $
+74 122,41 $
+106 516,00 $
+79 258,33 $
+98 816,00 $
+72 797,54 $
+87 407,00 $
+65 092,28 $
+% de dépôts (moins les montants en fiducie)
+63 %
+68 %
+64 %
+61 %
+% des revenus selon M. Mason*
+95 %
+105 %
+103 %
+93 %
+96 %
+% moyen admis par la Couronne
+65 %
+Revenu net
+3 434,00 $
+27 693,00 $
+(54 482,00 $)
+43 491,59 $
+(53 595,00 $)
+36 772,67 $
+7 456,00 $
+41 532,46 $
+3 190,00 $
+40 847,72 $
+Revenu net après l'ajout de droits additionnels de 60 $ (registre)
+43 551,59 $
+36 832,67 $
+41 592,46 $
+40 907,72 $
+*Les pourcentages de M. Mason ne tiennent pas compte des dépenses supplémentaires dont il a fait état dans ses observations écrites.
+RÉFÉRENCE :
+2014 CCI 297
+Nos DE DOSSIER DE LA COUR :
+2011-3228(IT)G, 2011-3161(GST)G
+INTITULÉ :
+DAN MASON c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Edmonton (Alberta)
+DATE DE L'AUDIENCE :
+Le 13 mai 2014
+MOTIFS DU JUGEMENT :
+L'honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 3 octobre 2014
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Mark Heseltine
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+s.o.
+Cabinet :
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2014 BCSC 720.
+[2] 2011 CCI 520.

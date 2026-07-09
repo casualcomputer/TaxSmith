@@ -1,0 +1,110 @@
+Title: Hasin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31110/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-72-31110-hasin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-02-26
+
+# Hasin v. The Queen
+
+- Citation: 2013 TCC 72
+- Decision date: 2013-02-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4759, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hasin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-02-26
+Neutral citation
+2013 TCC 72
+File numbers
+2012-2283(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2283(IT)I
+BETWEEN:
+TANZINA HASIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard by videoconference on February 25, 2013
+at Ottawa, Canada
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Serena Sial
+____________________________________________________________________
+JUDGMENT
+The appeals from determinations made under the Income Tax Act with respect to the 2006, 2007 and 2008 base taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of February 2013.
+“Diane Campbell”
+Campbell J.
+Citation: 2013 TCC 72
+Date: 20130226
+Docket: 2012-2283(IT)I
+BETWEEN:
+TANZINA HASIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] These appeals relate to benefits which the Appellant has received for the 2006, 2007 and 2008 base taxation years in respect to her daughter, who was diagnosed as being autistic in May, 2003. Those benefits consist of the Canada Child Tax Benefit, the Child Benefit Supplement and the Child Disability Benefit, together referred to as the “Benefits” throughout my reasons. Because the Benefits reference base taxation years, the period covered is from July, 2007 through to June, 2010.
+[2] By Notice of Confirmation, dated January 31, 2012, the Minister of National Revenue (the “Minister”) disallowed the Appellant’s entitlement to these benefits pursuant to section 122.61 of the Income Tax Act (the “Act”) on the basis that she ceased to be a resident of Canada as of April, 2006.
+[3] Both the Appellant and her husband gave evidence at the hearing, which was held via videoconferencing from Bangladesh. They both confirmed essentially the same set of facts and circumstances surrounding their departure from Canada and their present and future living arrangements and goals.
+[4] The Appellant and her husband came to Canada from Bangladesh in January, 2001. When the Appellant’s daughter was initially diagnosed as autistic in 2003, they were able to access various programs and therapies offered here in Canada. In 2005, when their daughter turned six years old, their eligibility for these programs terminated. Consequently, they made the decision to return to Bangladesh and did so in April, 2006. They testified that they hoped that their daughter would respond to the family support system and environment that Bangladesh could offer the family.
+[5] On cross-examination, the Appellant’s husband testified that, when they left Canada in 2006, they gave up their leased premises, sold all their furnishings and belongings and sold their motor vehicle. They retained Canadian passports and one Canadian bank account, which is used infrequently. In fact, the Appellant’s husband was unsure of the last time they accessed it. Since returning to Bangladesh, they have leased a residence, own a motor vehicle and the Appellant’s husband has a valid driver’s licence from Bangladesh. They maintain a bank account there as well. They have one year left on their residential lease. The daughter is now 13 years old and enrolled in a special private school in Bangladesh. The parents both testified that she has improved since they returned to Bangladesh and that she continues to do well at this special school. Both the Appellant and her husband stated that they have no definite plans to return to Canada, as the present arrangements were working for their daughter. They both testified, however, that they might return when the daughter reached adulthood if there were programs in Canada that could be offered to her as an adult. They have not returned to Canada since they left in early 2006.
+[6] The essence of the Appellant’s position is that she and her husband were not taking issue with the residency requirements and jurisprudence but that, since their daughter was a special needs child, this Court should make an exception to the rules because holding Canadian citizenship should entitle their daughter to the same benefits as every other special needs Canadian child. Of course, I have no such authority to carve out an exception to the legislative provisions and abundant jurisprudence in this area to meet what they consider to be their exceptional circumstances.
+[7] The bottom line is that, for a taxpayer to be eligible for such benefits, they must be a resident of Canada.
+[8] Entitlement to these Benefits is provided for pursuant to section 122.6 of the Act. The “eligible individual”, entitled to receive such benefits as defined within that provision, must be, according to “(c)” of that definition, “resident in Canada…”. That is a prerequisite to being eligible for such benefits. If one is not resident in Canada, then one will not meet that portion of the definition of eligible individual. Determination of the residency issue is largely one of fact-finding in each individual appeal.
+[9] I believe K. Sharlow J.A. of the Federal Court of Appeal in Laurin v. The Queen, 2008 FCA 58, 2008 D.T.C. 6175, at paragraph 2, succinctly summarizes the Crown’s position on residency in that case and the Court’s agreement with that position:
+[2] The Crown submits that a person is resident in the country where he or she, in the settled routine of life, regularly, normally or customarily lives, as opposed to the place where the person unusually, casually or intermittently stays. We agree.
+[10] Jurisprudence has enumerated a number of factors that, while not exhaustive, will be material to the determination of residence and ultimately the payment of benefits under section 122.61. At paragraph 13 of The Queen v. Reeder, [1975] C.T.C. 256, 75 D.T.C. 5160, Mahoney J. stated the following:
+[13] … While the list does not purport to be exhaustive, material factors include:
+(a) past and present habits of life;
+(b) regularity and length of visits in the jurisdiction asserting residence;
+(c) ties within that jurisdiction;
+(d) ties elsewhere;
+(e) permanence or otherwise of purposes of stay abroad.
+The matter of ties within the jurisdiction asserting residence and elsewhere runs the gamut of an individual’s connections and commitments: property and investment, employment, family, business, cultural and social are examples, again not purporting to be exhaustive. Not all factors will necessarily be material to every case. They must be considered in the light of the basic premises that everyone must have a fiscal residence somewhere and that it is quite possible for an individual to be simultaneously resident in more than one place for tax purposes.
+[11] Putting aside the concession of the Appellant respecting residency, I conclude without hesitation, that, based on the facts before me, the Appellant is not a resident of Canada and, consequently, is not eligible to receive these Benefits.
+[12] The family returned to Bangladesh several years after they came to Canada with the hope that it would assist their autistic daughter. They had no specific plans to return and sold all of their possessions before leaving this country. They retained their Canadian passports and one bank account, which is used infrequently. They have never returned to Canada in the almost 7 years since they left. They are unsure if they will return and, again, that is largely dependant on what might be offered their daughter in this country when she reaches adulthood. They have established a life in Bangladesh, having leased an apartment, purchased a motor vehicle and re-established family ties. The Appellant’s husband is employed and earns a salary of $1,500 U.S. equivalent. They have no Canadian income.
+[13] Except for the Canadian passport and an infrequently used bank account, they have severed all ties to Canada. They have no connection to this country. This is not a case where some factors point in one direction while some point in another and, on a balance of probability, must be weighed in that context. Viewed as a whole, the facts in these appeals lead to no other conclusion except that the Appellant is not a resident of Canada, having re-established her and her family’s residency in Bangladesh. Since she ceased to be a resident of Canada in April, 2006, she is not entitled to the Benefits pursuant to section 122.61 of the Act.
+[14] The Appellant made the comment that it would be unfair to request repayment of these Benefits if they are considered by the Minister to have been paid to her in error. As I explained to both the Appellant and her husband during the hearing, the Minister is not bound by a prior assessment. If new facts come to the Minister’s attention, he may be entitled to reassess and to do so retroactively, thereby requiring repayment of a deemed overpayment to a taxpayer.
+[15] The appeals for the base taxation years 2006, 2007 and 2008 are dismissed.
+Signed at Ottawa, Canada, this 26th day of February 2013.
+“Diane Campbell”
+Campbell J.
+CITATION: 2013 TCC 72
+COURT FILE NO.: 2012-2283(IT)I
+STYLE OF CAUSE: TANZINA HASIN and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: February 25, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Diane Campbell
+DATE OF JUDGMENT: February 26, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Serena Sial
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

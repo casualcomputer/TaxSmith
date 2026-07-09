@@ -1,0 +1,109 @@
+Title: Lazslo v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64467/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-316-64467-lazslo-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-10-25
+
+# Lazslo v. The Queen
+
+- Citation: 2013 TCC 316
+- Decision date: 2013-10-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5933, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lazslo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-10-25
+Neutral citation
+2013 TCC 316
+File numbers
+2012-3217(GST)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-3217(GST)I
+BETWEEN:
+ATTILA LAZSLO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 18, 2013, at Toronto, Ontario.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Joel A. Sumner
+Counsel for the Respondent:
+Christian Cheong
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Excise Tax Act is allowed in part and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment for the sole purpose of reassessing for the three reporting periods with respect to which concessions were made by the Minister.
+Signed at Ottawa, Canada, this 25th day of October 2013.
+"François Angers"
+Angers J.
+Citation: 2013 TCC 316
+Date: 20131025
+Docket: 2012-3217(GST)I
+BETWEEN:
+ATTILA LAZSLO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] The appellant was notionally assessed under Part IX of the Excise Tax Act (the Act) on March 11, 2011 for his reporting periods between July 1, 2003 and December 31, 2006 and between January 1, 2008 and December 31, 2010, and on January 24, 2012 for the reporting periods between January 1, 2011 and June 26, 2011.
+[2] The notices of assessment were issued under subsection 299(1) of the Act. The appellant had not filed his GST returns on the dates they were due. The breakdown of the assessments is as follows:
+[3] On May 17, 2011, the appellant filed a notice of objection for the reporting periods between July 1, 2003 and December 31, 2006. On April 27, 2011, the appellant filed a notice of objection for the reporting periods between January 1, 2008 and December 31, 2010. Finally, a third notice of objection was filed by the appellant on March 12, 2012 for the reporting periods between January 1, 2011 and June 26, 2011.
+[4] In addition, the appellant filed some of his outstanding returns on April 12, 2012, and the Minister of National Revenue (Minister) varied the assessments as follows:
+[5] By notice dated July 23, 2012, the Minister confirmed the assessments for the reporting periods ending September 30, 2003, December 31, 2003, September 30, 2004, December 31, 2004, March 31, 2005, June 30, 2005, September 30, 2005, December 31, 2005, September 30, 2006, December 31, 2006, March 31, 2008, June 30, 2008, September 30, 2008, December 31, 2008, December 31, 2009, September 30, 2010, December 31, 2010 and June 26, 2011, as no valid GST returns were submitted by the appellant for those reporting periods. Hence, this appeal.
+[6] At the beginning of the hearing (on April 25, 2013), counsel for the respondent informed the Court that for the periods ending September 30, 2010, December 31, 2010 and June 26, 2011, the net tax is nil, and the assessments shall be amended to reflect this change.
+[7] The appellant is an audio technician. In 1991, he voluntarily registered for GST under Part IX of the Act as sole proprietor of his business. No changes were made to his registration status throughout the periods under appeal and he ceased to be a registrant under the Act on June 26, 2011. He was so informed by the Canada Revenue Agency (CRA) on January 13, 2012.
+[8] As the appellant did not file his GST returns on a quarterly basis as he had been required to do since the time he became a registrant and did not file them when they were due, the Minister assessed the appellant for each of the reporting periods at issue. The amount of GST collectible was determined with reference to the appellant’s net business income as reported on his personal income tax returns.
+[9] In April 2012, the appellant filed GST returns in respect of the reporting periods shown in paragraph 4 above. The Minister reassessed accordingly and allowed all the input tax credits (ITCs) claimed. The appellant also filed GST returns for the remaining periods, but they were not accepted by the CRA as the dates on these returns did not coincide with the dates of the relevant filing periods of the appellant.
+[10] On June 14, 2012, the appellant’s representative, Mr. Bernard Yevzeroff was advised of the defective returns in a telephone conversation with the CRA, and the appellant was also advised, by letter, on June 22, 2012. The appellant was asked to correct the dates on the returns and to resubmit them to the Appeals Division of the CRA by June 28, 2012. The returns were not resubmitted and the assessments for the periods involved were confirmed.
+[11] The appellant does not recall having registered his business for GST purposes. He does however recall having filed GST returns for a partnership made up of a company called Atlo and another called Tarox International. He testified that he was getting a 20% share of the profits and that he also worked as an employee of that partnership. He has no documents to substantiate any of this and does not know if the partnership filed GST returns. He was made aware in 1999 that he had tax issues dating back to 1991.
+[12] He acknowledged that he was not the one who prepared the quarterly returns found in Exhibit R-1. As for the ITCs claimed, he says they were for equipment that he had purchased, but he has no documents to substantiate any of the claim. The returns that were filed on his behalf by Mr. Yevzeroff in April 2012 were filed with his consent. The appellant also acknowledged that he never reported partnership income on his income tax returns.
+[13] A summary of the appellant’s income tax returns shows that from 2003 to 2011, the appellant reported business income in addition to his T-4 earnings, but no partnership income is reported. In his 2006 income tax return, the "Statement of Business Activities" attached thereto shows the appellant's percentage of the partnership as being 100%. No other information is provided in this regard. In Exhibit A-1, a similar document, titled "Statement of Business or Professional Activities", for his 2009 taxation year indicates that his percentage of the partnership was 20%. No reference is made to the partnership itself, except for the business name, "Atlo Recording", which actually appears to identify the appellant.
+[14] The issue in this appeal is whether the Minister correctly calculated the net tax for the reporting periods under appeal.
+[15] Counsel for the appellant argues that when the appellant registered for the GST, he did so on behalf of a partnership and not as an individual and that he did not understand the difference. He is therefore not a registrant. Counsel also raises the fact that the audit went further than the Act permits in that certain periods covered by the assessments are beyond the normal assessment period. Counsel also questions the reporting period, arguing that certain forms from the CRA say that it is annual and the CRA cannot now say it is quarterly.
+[16] Counsel for the respondent submits that the appellant voluntarily registered for the GST in 1991 and that at the very beginning he did file GST returns on time and on a quarterly basis, but subsequently began filing late. The Minister made notional assessments based on the net business income of the appellant, but counsel admits that this was a mistake as the assessments should have been based on the appellant’s gross business income. He further submits that the appellant has not provided any explanation as to why the assessments are incorrect.
+[17] The evidence before the Court, and particularly Exhibit A-5, which is a print‑out from the CRA’s business number system, indicates that the appellant was registered for GST purposes as an individual, that the type of operation was a sole proprietorship and that he registered by telephone. In addition, the appellant testified that, although he did not recall having phoned the CRA to register for GST purposes, he did file GST returns and on those returns did not use the name of the partnership but rather his own name. He also testified that the returns were filed quarterly. In direct examination, the appellant could not say if the partnership had filed tax returns.
+[18] When the appellant was assessed for the reporting periods under appeal, he submitted GST returns for a number of quarterly reporting periods and did so personally. In addition, he testified that he never reported partnership income on his personal income tax returns. Given his own testimony, the reference to a 20% interest in a partnership found in the appellant’s Statement of Business or Professional Activities in his 2009 tax return is of no assistance to the appellant, and the same is true of the statement in the affidavit of Mr. Robert Haas that the appellant reported income for 2009 from a 20% share in the business. No changes were made to the appellant’s registration information during the reporting periods under appeal, and the registration was not cancelled until June 26, 2011.
+[19] I therefore find that the appellant was a registrant for GST purposes during the reporting periods under appeal and that he had an obligation to file returns on a quarterly basis. As he failed to do so, the CRA was justified in making notional assessments for all the periods under appeal.
+[20] The appellant did file GST returns after he was assessed, and the Minister accepted about ten of these returns and reassessed them as filed. Some returns were not accepted because the dates did not coincide with the appellant’s reporting periods. The appellant was invited by letter dated June 22, 2012 to correct the dates and resubmit them to the CRA. For unknown reasons, the appellant did not resubmit them. He thus did not leave the CRA with much choice.
+[21] In this appeal, the burden of proof is on the appellant to refute the assumptions of fact on which the respondent relied to assess. The appellant has not met this burden. He has not provided any evidence to show that the amount of GST collectible as assessed by the Minister is incorrect. The assessments were based on the appellant's net business income instead of his gross business income, and this for all intents and purposes benefited the appellant.
+[22] The appeal is allowed and the assessments are referred back to the Minister for the sole purpose of reassessing for the three reporting periods with respect to which concessions were made by the Minister.
+Signed at Ottawa, Canada, this 25th day of October 2013.
+"François Angers"
+Angers J.
+CITATION: 2013 TCC 316
+COURT FILE NO.: 2012-3217(GST)I
+STYLE OF CAUSE: Attila Lazslo v. Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 18, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: October 25, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Joel A. Sumner
+Counsel for the Respondent:
+Christian Cheong
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Joel A. Sumner
+Firm: Sumner Law
+Toronto, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

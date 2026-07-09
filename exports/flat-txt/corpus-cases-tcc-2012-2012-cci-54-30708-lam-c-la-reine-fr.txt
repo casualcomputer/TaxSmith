@@ -1,0 +1,121 @@
+Title: Lam c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30708/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-54-30708-lam-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-02-15
+
+# Lam c. La Reine
+
+- Citation: 2012 CCI 54
+- Decision date: 2012-02-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7511, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lam c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-02-15
+Référence neutre
+2012 CCI 54
+Numéro de dossier
+2011-948(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-948(IT)I
+ENTRE :
+DAVID LAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 9 février 2012 à Toronto (Ontario).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Laurent Bartleman
+Mindy Caterina (étudiante en droit)
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2007 et 2008 sont rejetés.
+Signé à Ottawa, Canada, ce 15e jour de février 2012.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 25e jour d’avril 2012.
+Marie‑Christine Gervais
+Référence : 2012 CCI 54
+Date : 20120215
+Dossier : 2011-948(IT)I
+ENTRE :
+DAVID LAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, David Lam, interjette appel des nouvelles cotisations établies par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu (la « Loi ») relativement à ses années d’imposition 2007 et 2008. Il s’agit de savoir si l’appelant peut déduire certaines sommes qu’il a payées au cours de ces années à son ancienne conjointe de fait conformément à un accord de séparation écrit.
+[2] En 2006, l’appelant et son ancienne conjointe de fait se sont séparés après avoir cohabité comme mari et femme pendant environ deux ans. Ils ont signé un accord de séparation le 3 janvier 2007 (l’« accord de séparation »), dont les clauses pertinentes sont ainsi rédigées :
+[traduction]
+7. RENONCIATION AUX ALIMENTS
+(1) Chacune des parties renonce envers l’autre partie à tous les droits et à toutes les demandes concernant des aliments qu’elle pourrait revendiquer en vertu des lois provinciales, territoriales ou fédérales, plus particulièrement tous les droits et toutes les demandes concernant des aliments prévus par la Loi sur le droit de la famille ou toute autre loi applicable.
+(2) Chaque partie reconnaît qu’en contrepartie de sa renonciation à tous ses droits de recevoir des aliments de l’autre partie et de lui demander des aliments, M. LAM s’engage à payer à Mme CHAN une somme de mille cinq cents dollars (1 500 $) par mois à partir du 1er décembre 2006 pendant une période de 26 mois et à lui faire un dernier versement de mille dollars (1 000 $) le 27e mois, soit une somme totale de quarante mille dollars (40 000 $). Si le bien situé dans les Nouveaux Territoires (New Territories) est vendu avant l’expiration de la période de 27 mois, M. LAM paiera alors à Mme CHAN une somme de dix mille dollars (10 000 $) à titre de paiement anticipé des versements mensuels exigibles. M. LAM s’engage en outre à continuer à souscrire une assurance médicale et dentaire pour le fils de Mme CHAN, Ben CHAN, et les parties reconnaissent que M. LAM n’a pas joué le rôle de parent à l’endroit de ce dernier.
+a) les parties ont chacune tenu compte de leur situation actuelle et de leurs perspectives d’avenir ainsi que de leur sécurité financière ultérieure, quelles que soient les circonstances, catastrophiques ou autres, susceptibles de se présenter ultérieurement, y compris les changements de carrière éventuels, l’absence de possibilités d’emploi, les aléas de la vie – notamment la maladie et l’invalidité –, les circonstances économiques défavorables, comme la hausse des coûts et l’inflation, ainsi que la mauvaise gestion de fonds par elles‑mêmes ou par des tiers;
+[...]
+9. FOYER CONJUGUAL
+L’époux et l’épouse résident actuellement au 3139, Bartholomew Crescent, à Mississauga. Les titres de propriété de cette résidence sont établis au nom de Mme CHAN et cette dernière a toujours été considérée comme la propriétaire des lieux. Les parties reconnaissent que M. LAM a payé une somme de 15 000 $ pour rénover la cuisine et ajouter une nouvelle salle de bains. M. LAM a versé à Mme CHAN une somme de 2 000 $ par mois pendant une période de deux ans à titre de contribution aux dépenses du ménage, y compris la nourriture, les services publics et les paiements hypothécaires. Mme CHAN reconnaît que le versement comptant relatif au bien situé dans les Nouveaux Territoires a été financé au moyen du produit de la vente du bien de M. LAM situé à Terraghar. M. LAM renonce à toutes les demandes qu’il pourrait faire valoir au titre d’un droit sur le 3139, Bartholomew Crescent. En contrepartie de cette renonciation, Mme CHAN s’engage à céder son présumé droit sur l’appartement, situé au 22e étage de la tour 5, Monterey Cove, au 2, rue Kin Tung, Caribbean Coast, Tung Chung, île de Lantau, Nouveaux Territoires, en signant tous les documents requis pour effectuer le transfert de propriété unique de ce bien en faveur de M. LAM.
+[...]
+28. REPRÉSENTANTS PERSONNELS LIÉS PAR LA CONVENTION
+Sauf disposition contraire expresse, le présent accord ainsi que chacune des clauses, stipulations et conditions qui y sont énoncées lient l’époux et l’épouse ainsi que leurs héritiers, exécuteurs testamentaires et administrateurs respectifs, au profit desquels elles sont prévues.[1]
+[3] En 2007 et en 2008, l’appelant a déduit 16 500 $ et 18 000 $, respectivement, au titre de sommes payées en application du paragraphe 7(2) de l’accord de séparation. Dans son témoignage, l’appelant a mentionné que les parties voulaient que ces sommes soient déductibles. Il avait en outre cru comprendre que, comme l’accord de séparation prévoyait le paiement, à son ancienne conjointe de fait, de versements mensuels qu’elle pouvait utiliser à sa discrétion, il s’agissait de sommes tombant sous le coup de la définition du terme « pension alimentaire » donnée au paragraphe 56.1(4) de la Loi :
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, […] si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est […] [le] conjoint de fait du payeur et vit séparé de celui‑ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes […] d’un accord écrit;
+[…]
+[4] Le ministre reconnaît que les sommes constituaient une « allocation périodique » et que l’ancienne conjointe de fait de l’appelant pouvait les utiliser à sa discrétion. Il soutient toutefois qu’il ne s’agissait pas d’une « pension alimentaire », étant donné que les sommes n’étaient pas versées « pour subvenir aux besoins » de l’ancienne conjointe de fait, comme l’exige le paragraphe 56.1(4). En effet, selon les paragraphes 7(1) et (2) de l’accord de séparation, l’appelant effectuait plutôt les versements mensuels pour s’assurer de sa libération de toute obligation de verser une pension alimentaire à son ancienne conjointe de fait. À ce titre, les paiements constituaient une allocation périodique payée sous forme de versements faits en règlement de la somme de 40 000 $ que l’appelant s’était engagé à payer aux termes du paragraphe 7(2) de l’accord de séparation.
+[5] Le ministre s’est appuyé sur les éléments énoncés dans l’arrêt McKimmon v. Minister of National Revenue, [1990] 1 C.T.C. 109, aux paragraphes 11 à 18, de la Cour d’appel fédérale, pour établir une distinction entre les paiements périodiques versés à titre d’allocation d’entretien et ceux versés à titre de capital. Mme Caterina, l’étudiante en droit qui a plaidé la cause de l’intimée, a procédé à un examen approfondi des critères pertinents et de leur application dans la présente affaire. Ses observations m’ont convaincue qu’à la lumière de la preuve produite en l’espèce, les facteurs 4, 7 et 8 du critère défini dans l’arrêt McKimmon justifient la conclusion voulant que les paiements faits aux termes de l’accord de séparation aient constitué des versements payés à titre de capital plutôt qu’une allocation d’entretien. Dans ces circonstances, les sommes dont la déduction a été demandée en 2007 et en 2008 ne sont pas déductibles.
+[6] Je tire à regret cette conclusion parce que je n’ai aucune raison de douter de la sincérité de l’appelant lorsqu’il affirme qu’il a toujours voulu les sommes soient déductibles. Malheureusement pour lui, ce n’est pas son intention, mais bien sa capacité de satisfaire aux exigences de la Loi qui permet de trancher la question de la déductibilité des paiements. Or, le libellé clair de l’accord de séparation le prive de cette capacité.
+[7] Les paragraphes 7(1) et (2) précisent sans équivoque que les 40 000 $ sont une somme payable sous forme de versements mensuels qui vise à libérer l’appelant de toute obligation future de payer une pension alimentaire (facteur 8, McKimmon).
+[8] Suivant le paragraphe 7(2), l’appelant pouvait s’acquitter par anticipation de son obligation de payer si un certain bien était vendu avant l’expiration de la période de paiement de 27 mois (facteur 4, McKimmon). Je ne puis souscrire à l’observation formulée par l’appelant selon laquelle le paragraphe 9 de l’accord de séparation peut être interprété de manière à restreindre l’effet de ces dispositions.
+[9] Enfin, le paragraphe 28 de l’accord de séparation stipule que l’obligation de l’appelant d’effectuer les paiements subsistera après le décès de son ancienne conjointe de fait (facteur 7, McKimmon). L’appelant a mentionné qu’il n’était même pas au courant de cette disposition et qu’il soupçonnait en outre que l’avocat spécialisé en droit immobilier qui avait préparé l’accord de séparation s’était simplement servi d’un modèle type de convention. Il a également affirmé que, malgré l’attestation de communication jointe à l’accord de séparation par son avocat, au moment de la signature de l’accord, il n’avait pas saisi les conséquences fiscales découlant de celui‑ci. Malheureusement, l’accord de séparation est une convention valide et, à ce titre, il doit être interprété comme s’il constatait les intentions des parties.
+[10] À mon avis, les facteurs examinés plus haut l’emportent sur les autres volets du critère énoncés dans l’arrêt McKimmon qui appuient l’argument de l’appelant selon lequel les paiements mensuels constituaient une pension alimentaire. Dans ces circonstances, les appels visant les années d’imposition 2007 et 2008 doivent être rejetés.
+Signé à Ottawa, Canada, ce 15e jour de février 2012.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 25e jour d’avril 2012.
+Marie‑Christine Gervais
+RÉFÉRENCE : 2012 CCI 54
+NO DU DOSSIER DE LA COUR : 2011-948(IT)I
+INTITULÉ : David Lam c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 9 février 2012
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 15 février 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Laurent Bartleman
+Mindy Caterina (étudiante en droit)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1.

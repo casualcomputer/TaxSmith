@@ -1,0 +1,492 @@
+---
+title: "GST/HST Registration and Reporting Requirements for Listed Financial Institutions, Including Selected Listed Financial Institutions"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6-2/gst-hst-registration-reporting-requirements-listed-financial-institutions-including-selected-listed-financial-institutions.html
+last_modified: 2026-06-03
+---
+# GST/HST Registration and Reporting Requirements for Listed Financial Institutions, Including Selected Listed Financial Institutions
+
+GST/HST memorandum 17-6-2 June 2026
+
+This memorandum cancels and replaces GST/HST Notice 265, *GST/HST Registration for Listed Financial Institutions (Including Selected Listed Financial Institutions)*.
+
+This memorandum explains when listed financial institutions (LFIs), including selected listed financial institutions (SLFIs), are required to be registered for GST/HST purposes and when they may voluntarily register for GST/HST purposes. It also explains the GST/HST reporting and filing requirements for registrant and non-registrant LFIs and SLFIs.
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the *Excise Tax Act* (ETA). The information in this publication does not replace the law found in the ETA and its regulations. Although correct at the time of issue, this publication may not have been updated to reflect subsequent legislative changes.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1‑800‑959‑8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Requesting a GST/HST Ruling or Interpretation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1‑800‑567‑4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1‑855‑666‑5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The GST/HST rates are those that were in effect at the time of publishing. For the list of all applicable GST/HST rates (current and historic), go to [GST/HST calculator (and rates)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html).
+
+If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [Listed financial institution](#toc0)
+
+- [Selected listed financial institution](#toc1)
+
+- [Person](#toc2)
+
+- [GST/HST registration](#toc3)
+
+    - [Effective date of registration](#toc4)
+
+    - [Change in status of an ongoing business after registration](#toc5)
+
+    - [Cancellation of registration](#toc6)
+
+    - [Prescribed selected listed financial institutions – registration required](#toc7)
+
+    - [Prescribed group of selected listed financial institutions – registration required](#toc8)
+
+          - [Addition to group registration](#toc9)
+
+          - [Removal from group registration](#toc10)
+
+          - [Cancellation of group registration](#toc11)
+
+- [Reporting periods and return due dates for listed financial institutions](#toc12)
+
+    - [Definitions](#toc13)
+
+    - [Listed financial institutions because of a subsection 150(1) election](#toc14)
+
+          - [Summary of reporting periods and return due dates for registrants that are Section 150 LFIs](#toc15)
+
+    - [Other registrant listed financial institutions that are not selected listed financial institutions](#toc16)
+
+    - [Non-registrant listed financial institutions that are not selected listed financial institutions](#toc17)
+
+          - [Summary of reporting periods and return due dates for listed financial institutions described under any of subparagraphs 149(1)(a)(i) to (x) that are not selected listed financial institutions](#toc18)
+
+    - [Registrant selected listed financial institutions](#toc19)
+
+    - [Non-registrant selected listed financial institutions](#toc20)
+
+          - [Summary of reporting periods and return due dates for selected listed financial institutions](#toc21)
+
+## Listed financial institution
+
+1. **Listed financial institution** (LFI) is defined in subsection 123(1) to mean "a person referred to in paragraph 149(1)(a)". In other words, a person is an LFI throughout a particular taxation year if, at any time in the particular year, the person is described in one of the categories set out in subparagraphs 149(1)(a)(i) to (xi). For more information, refer to [GST/HST Memorandum 17-6, Definition of Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6.html). An LFI may also be a selected listed financial institution (SLFI).
+
+## Selected listed financial institution
+
+2. **Selected listed financial institution** is defined in subsection 123(1) to mean a person that, at any time, is an LFI and at that time is an SLFI under subsection 225.2(1). In other words, a person is generally considered to be an SLFI throughout a reporting period in a fiscal year that ends in a taxation year of the person if the person is an LFI described in any of subparagraphs 149(1)(a)(i) to (x) at any time in the taxation year and meets one of the following conditions:
+
+- it has, at any time in the taxation year, a permanent establishment in a participating province and has, at any time in the taxation year, a permanent establishment in any other province
+
+- it is a qualifying partnership during the taxation year
+
+3. For purposes of determining whether certain types of LFIs are SLFIs, the meaning of **permanent establishment** is expanded such that the existence of a permanent establishment is generally determined based on the location of the LFI's clients, operations, unit holders and/or plan members. For more information, refer to [GST/HST Memorandum 17-6-1, Definition of Selected Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-6-1.html).
+
+4. A corporation that is an LFI described in subparagraph 149(1)(a)(xi), that is deemed to be a financial institution under section 151 as a result of having a subsection 150(1) election in effect cannot be an SLFI, unless the corporation is also an LFI described in any of subparagraphs 149(1)(a)(i) to (x).
+
+## Person
+
+5. **Person** is defined in subsection 123(1) to mean "an individual, a partnership, a corporation, the estate of a deceased individual, a trust, or a body that is a society, union, club, association, commission or other organization of any kind".
+
+6. For purposes of the GST/HST, a person is the entity that registers except where the registration is for a prescribed group of SLFIs. Special registration rules apply to a prescribed group of SLFIs. A prescribed group of SLFIs is not a person; each SLFI in the group is a person. Refer to paragraphs 30 to 39 of this memorandum for more information.
+
+## GST/HST registration
+
+7. Under subsection 240(1), every person that makes a taxable supply in Canada in the course of a commercial activity engaged in by the person in Canada is required to be registered for GST/HST purposes, except where at least one of the following conditions is met:
+
+- the person is a small supplier (refer to [GST/HST Memorandum 2-2, Small Suppliers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/2-2.html))
+
+- the only commercial activity of the person is the making of supplies of real property by way of sale otherwise than in the course of a business
+
+- the person is a non-resident person that does not carry on any business in Canada (refer to [Guide RC4027, Doing Business in Canada – GST/HST Information for Non-Residents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4027.html), and [GST/HST Policy Statement P-051R2, Carrying on business in Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-051r2.html))
+
+8. LFIs and SLFIs are subject to the same registration requirements under subsection 240(1) as any other person.
+
+9. Certain SLFIs that are investment plans or segregated funds of an insurer (prescribed SLFIs and prescribed groups of SLFIs) may also be required to register under subsections 240(1.2), (1.3), and (1.4). Refer to paragraphs 26 to 35 of this memorandum for more information.
+
+10. Generally, the requirement to register for the GST/HST under the following subsections does not apply to LFIs:
+
+- subsection 240(1.1), which relates to carrying on a taxi business
+
+- subsection 240(1.5), which relates to certain non-resident suppliers of tangible personal property
+
+- subsection 240(2), which relates to non-resident performers
+
+- subsection 240(4), which relates to suppliers of prescribed property
+
+11. For more information on the registration provisions listed in paragraph 10, refer to [GST/HST Memorandum 2-1, Required Registration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/2-1.html).
+
+12. Under subsection 240(3), any person that is not required to register for the GST/HST may voluntarily register if any of the following apply:
+
+- the person is engaged in a commercial activity in Canada
+
+- the person is a non-resident person that in the ordinary course of carrying on business outside Canada does any of the following:
+
+    - regularly solicits orders for the supply by the person of tangible personal property for export to, or delivery in, Canada
+
+    - has entered into an agreement for the supply by the person of services to be performed in Canada
+
+    - has entered into an agreement for the supply by the person of intangible personal property to be used in Canada or that relates to real property situated in Canada, tangible personal property ordinarily situated in Canada, or services to be performed in Canada
+
+- the person is an LFI resident in Canada
+
+- the person is resident in Canada and is also one of the following:
+
+    - a particular corporation, partnership, or trust that owns units[Footnote1](#fn1) or holds indebtedness of a corporation that is, for purposes of section 186, an operating corporation[Footnote2](#fn2) of the particular corporation, partnership, or trust
+
+    - a particular corporation that is acquiring, or proposes to acquire, all or substantially all (at least 90%) of the issued and outstanding shares of the capital stock of another corporation, having full voting rights under all circumstances, if all or substantially all of the property of the other corporation is, for the purposes of section 186, property that was last manufactured, produced, acquired, or imported by the other corporation for consumption, use, or supply exclusively (90% or more for a person that is not a financial institution, 100% for a financial institution) in the course of its commercial activities
+
+- the person is a corporation resident in Canada that satisfies the definition of **temporary member** in subsection 156(1) for purposes of the nil consideration election under subsection 156(2), except that the corporation is not a registrant (**Registrant** means a person that is registered or required to be registered for the GST/HST, but generally excludes a person that is registered or required to be registered under special rules applicable to digital economy businesses unless that person registered under those special rules begins carrying on business in Canada, requiring them to register under the regular rules that apply to most persons)
+
+13. For more information on the conditions for the application of section 186, refer to [GST/HST Memorandum 8-6, Input Tax Credits for Holding Corporations and Corporate Takeovers](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-6.html).
+
+14. For more information in respect of voluntary registration, refer to [GST/HST Memorandum 2-3, Voluntary Registration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/2-3.html).
+
+15. An LFI, including an SLFI, that is resident in Canada may voluntarily apply for registration under paragraph 240(3)(c) whether or not the LFI is engaged in a commercial activity. For information on determining if a person is resident in Canada, refer to [GST/HST Memorandum 3-4, Residence](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-4.html).
+
+16. An LFI or its representative, such as a trustee where the LFI is a trust, may request registration for GST/HST purposes using [Form RC1, Request for a Business Number and Certain Program Accounts](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html), or [Form RC7301, Request for a Business Number and Certain Program Accounts for Certain Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7301.html). Refer to these forms to determine which form should be completed. An SLFI investment plan or an SLFI segregated fund of an insurer that has made or is making a consolidated filing election under section 54 of the *Selected Listed Financial Institutions Attribution Method (GST/HST) Regulations* (SLFI Regulations) should not use Form RC1 or Form RC7301. For more information on how to register when an SLFI has made or is making a consolidated filing election, refer to paragraphs 30 to 35 of this memorandum.
+
+17. To facilitate the process of registering for GST/HST purposes, an LFI, including an SLFI, that is resident in Canada should clearly identify itself as an LFI or an SLFI resident in Canada on the relevant application form. For example, on [Form RC1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html), indicate under Part A4 "Major business activity" that the person is an LFI or an SLFI resident in Canada.
+
+An employer sets up a trust that is governed by a registered pension plan for its employees. The trust is an investment plan that is a pension entity of a pension plan and is resident in Canada. The trust is an SLFI only for GST/HST purposes and is not required to register. The trust wants to voluntarily register for GST/HST purposes.
+
+As the trust is an SLFI (which means it is also an LFI) and is resident in Canada, the trust can register voluntarily under paragraph 240(3)(c). The trust should file [Form RC1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html) and clearly indicate that it is an SLFI for GST/HST purposes and that it is resident in Canada.
+
+### Effective date of registration
+
+18. Generally, the effective date of registration is the date a person is required to be registered for GST/HST purposes. For voluntary registration, the effective date of registration is usually the date the person's application is considered to be received by the Canada Revenue Agency (CRA) (for example, when an application is mailed, it is considered to be received on the post-marked date). However, the CRA will accept an earlier effective date provided that the date is within 30 days of the date when the registration application was received, regardless of the method of registration (online, telephone, or paper).
+
+19. A person must provide more information if the requested effective date of registration is more than 30 days before the date that the registration application is received. Generally, where an LFI is required to be registered, the LFI must provide evidence (a balance sheet, a financial statement, an information slip) that it is required to register for GST/HST purposes and when it exceeded the small supplier threshold. Where an LFI is requesting voluntary registration and has taxable supplies, the LFI must provide evidence, such as sale invoices or other documents, that it began charging the GST/HST as of the requested effective date before the CRA will consider registering the LFI as of the requested effective date. For more information on the small supplier threshold, refer to [GST/HST Memorandum 2-2](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/2-2.html).
+
+20. To reduce a non-registrant SLFI's administrative burden, which is greater than a registrant SLFI's administrative burden, the CRA may accept an effective date that is more than 30 days before the date that the registration application is received. The CRA will register an SLFI that is registering voluntarily effective the first day of a particular reporting period in which the registration application is received, if that effective date is requested by the SLFI on its registration application. The registration application must be made using [Form RC1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html) or [Form RC7301](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7301.html), as applicable. In addition, the SLFI should attach a letter to the registration application confirming that, in the particular reporting period, all of the following conditions are met:
+
+- the person is an SLFI for GST/HST purposes and is resident in Canada
+
+- the person has not made any taxable supplies
+
+- the person has not filed any rebate applications
+
+21. In this situation, the registration application and the letter should be sent to:
+
+Canada Revenue Agency
+
+Prince Edward Island Tax Centre
+
+275 Pope Road
+
+Summerside PE C1N 6A2
+
+### Change in status of an ongoing business after registration
+
+22. Following registration, persons should advise the CRA when certain changes occur. These changes include:
+
+- starting operations at a location not currently covered by the registration (a new or additional address)
+
+- discontinuing operations at any location covered by the registration
+
+- a business of a registered person being continued by an administrator, receiver, receiver-manager, assignee, bank executor, trustee in bankruptcy, or other similar person
+
+- a change in the business address or the address where the books and records are kept
+
+- a change affecting reporting periods or a change in fiscal year-end
+
+- a change in the business name or ownership, the obtaining of a new charter, or a change of the legal entity type (for example, when a business changes from a partnership to a corporation)
+
+- a change in the business operations (for example, from making taxable supplies to making exempt supplies)
+
+- a change in the business operations such that the person becomes or ceases to be a financial institution
+
+- a change in the business operations such that the person becomes or ceases to be an SLFI
+
+23. Some of these changes may affect a person's reporting requirements, eligibility to register, or the group registration for a prescribed group of SLFIs.
+
+### Cancellation of registration
+
+24. Under subsection 242(1), the Minister may, after giving reasonable notice in writing, cancel the registration of a person, provided the Minister is satisfied that the registration is no longer required. Also, under subsection 242(2), the Minister will cancel the registration of a person on the person's request if the person is a small supplier that has been registered for GST/HST purposes for at least one year and is not carrying on a taxi business.
+
+25. Where a cancellation request is received from a registrant, the effective date of the cancellation would generally be after the last day of the fiscal year of the person. For more information, refer to [GST/HST Memorandum 2-7, Cancellation of Registration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/2-7.html).
+
+### Prescribed selected listed financial institutions – registration required
+
+26. Under subsection 240(1.2) of the ETA, a prescribed SLFI is required to be registered for GST/HST purposes. In general terms, subsections 56(1) and 56(2) of the SLFI Regulations provides that a prescribed SLFI, for purposes of subsection 240(1.2) is an investment plan or a segregated fund of an insurer that has a joint reporting entity election under section 53 of the SLFI Regulations and/or a tax adjustment transfer election under section 55 of the SLFI Regulations in effect with its manager and does not have a consolidated filing election under section 54 of the SLFI Regulations in effect. For more information on these elections, refer to the following:
+
+- [Form RC4601, GST/HST Reporting Entity Election or Notice of Revocation for a Selected Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4601.html)
+
+- [Form RC7201, Reporting Entity Election or Notice of Revocation for a Selected Listed Financial Institution for GST/HST and QST Purposes or only for QST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7201.html)
+
+- [Form RC4603, GST/HST Tax Adjustment Transfer Election or Notice of Revocation for a Selected Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4603.html)
+
+- [Form RC7203, Tax Adjustment Transfer Election or Notice of Revocation for a Selected Listed Financial Institution for GST/HST and QST Purposes or only for QST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7203.html)
+
+27. For purposes of the SLFI Regulations and this memorandum, a **manager** of an investment plan or a segregated fund of an insurer means:
+
+- in the case of a pension entity of a registered pension plan, the administrator, as defined in subsection 147.1(1) of the *Income Tax Act* (ITA), of the pension plan
+
+- in the case of a pension entity of a pooled registered pension plan (PRPP), the PRPP administrator, within the meaning assigned by the definition of administrator in subsection 147.5(1) of the ITA, of the pension plan
+
+- in any other case, the person that has ultimate responsibility for the management and administration of the assets and liabilities of the investment plan or the segregated fund of an insurer
+
+28. Under subsection 240(2.1) of the ETA and subsections 56(1) and 56(2) of the SLFI Regulations, an SLFI investment plan or an SLFI segregated fund of an insurer that is required to be registered under subsection 240(1.2) must apply to the Minister for registration within 30 days after the day the particular election comes into effect. The registration application must be made using [Form RC1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc1.html) or [Form RC7301](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7301.html), as applicable.
+
+29. Upon application by an SLFI investment plan or an SLFI segregated fund of an insurer, the Minister may register the SLFI. In accordance with subsection 241(1), upon doing so, the Minister will assign a registration number to the SLFI and notify the SLFI in writing of its registration number and effective date of the registration.
+
+### Prescribed group of selected listed financial institutions – registration required
+
+30. Under paragraph 240(1.3)(a) of the ETA, a prescribed group of SLFIs is required to be registered for GST/HST purposes. In general terms, paragraph 56(3)(a) of the SLFI Regulations provides that a prescribed group of SLFIs, for purposes of subsection 240(1.3), is a group of investment plans and/or segregated funds of an insurer that have a joint consolidated filing election under section 54 of the SLFI Regulations with their manager in effect. For more information on this election, refer to [Form RC4604, GST/HST Consolidated Filing Election or Notice of Revocation for a Selected Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4604.html), or [Form RC7204, Consolidated Filing Election or Notice of Revocation for a Selected Listed Financial Institution for GST/HST and QST Purposes or only for QST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7204.html).
+
+31. Under paragraphs 240(1.3)(c) and (d), each member of the prescribed group of SLFIs is deemed to be a GST/HST registrant and is not required to be separately registered. As a result, each SLFI in the prescribed group of SLFIs is a GST/HST registrant and each uses the same group registration number.
+
+32. Under paragraph 56(3)(b) of the SLFI Regulations, the manager is the prescribed person in respect of the prescribed group of SLFIs, for purposes of paragraph 240(1.3)(b), that is required to apply to the Minister for a group registration number within 30 days after the day the consolidated filing election comes into effect. The registration application must be made using [Form RC4602, Request for a Group GST/HST Registration Number for Selected Listed Financial Institutions with Consolidated Filing for GST/HST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4602.html), or [Form RC7202, Request for a Group Registration Number for Selected Listed Financial Institutions with Consolidated Filing for GST/HST and QST Purposes or only for QST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7202.html).
+
+33. Under subsection 241(1.1), upon application by the manager, the Minister may register the prescribed group of SLFIs. Upon doing so, the Minister will assign a group registration number to the prescribed group of SLFIs and notify the manager in writing of the group registration number and the effective date of the group registration. The manager should provide this information to each SLFI in the prescribed group of SLFIs. In addition, upon registration of the prescribed group of SLFIs, subsection 241(1.1) provides that:
+
+- for each SLFI in the group that is registered on the day preceding the effective date of the group registration, that registration is cancelled as of the effective date of the group registration
+
+- each SLFI in the group is deemed, for GST/HST purposes other than section 242, to be registered as of the effective date of the group registration and to have a registration number that is the same as the group registration number
+
+#### Addition to group registration
+
+34. Under subsection 54(2) of the SLFI Regulations, if a particular SLFI investment plan or SLFI segregated fund of an insurer has a joint reporting entity election under subsection 53(1) of the SLFI Regulations in effect with its manager that also has a joint consolidated filing election under subsection 54(1) of the SLFI Regulations in effect with two or more other SLFIs, the particular investment plan or segregated fund of an insurer and the manager may jointly elect to add the particular investment plan or segregated fund of an insurer to the existing consolidated filing election. Under subsection 240(1.4), the SLFI investment plan or SLFI segregated fund of an insurer that is added to the existing consolidated filing election is required to be added to the existing group registration, and that SLFI or the manager must apply to the Minister to have the SLFI added to the group registration within 30 days of the day that the SLFI became a member of the group. The registration application must be made using [Form RC4602-1, Request to be Added to a Group GST/HST Registration for Selected Listed Financial Institutions with Consolidated Filing for GST/HST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4602-1.html), or [Form RC7202-1, Request to be Added to a Group Registration for Selected Listed Financial Institutions with Consolidated Filing for GST/HST and QST Purposes or only for QST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7202-1.html).
+
+35. Under subsection 241(1.2), upon application by an SLFI or its manager to add the SLFI investment plan or SLFI segregated fund of an insurer to an existing group registration, the Minister may add the SLFI to the group registration. Upon doing so, the Minister will notify the manager in writing of the registration number and the effective date of the addition to the group registration. The manager should provide this information to the SLFI that is being added to the group registration. Upon adding the SLFI to the group registration, subsection 241(1.2) also provides that:
+
+- if the SLFI is registered on the day preceding the effective date of its addition to the group registration, that registration is cancelled as of the effective date of being added to the group registration
+
+- the SLFI is deemed, for GST/HST purposes other than section 242, to be registered as of the effective date of its addition to the group registration and to have a registration number that is the same as the group registration number
+
+#### Removal from group registration
+
+36. Under subsection 242(1.3), the Minister may remove a particular person from a group registration for a prescribed group of SLFIs after giving reasonable written notice, provided the Minister is satisfied that the particular person is not required to be included in the group registration. The Minister will notify the manager in writing when the particular person is to be removed from the group registration and of the effective date of the removal. The manager should provide this information to the particular person that is being removed from the group registration.
+
+37. Under subsection 242(1.4), the Minister must remove an investment plan or a segregated fund of an insurer from a group registration in prescribed circumstances. Under paragraph 56(3)(d) of the SLFI Regulations, a prescribed circumstance for purposes of subsection 242(1.4) is the withdrawal under subsection 54(3) or the deemed withdrawal under subsection 54(4) of the SLFI Regulations of an investment plan or segregated fund of an insurer from the joint consolidated filing election. For more information on the election to withdraw under subsection 54(3) or a deemed withdrawal under subsection 54(4) of the SLFI Regulations, refer to [Form RC4604-2, Election for a Selected Listed Financial Institution to Withdraw from a GST/HST Consolidated Filing Election](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4604-2.html), or [Form RC7204-2, Elections to Withdraw from a Consolidated Filing Election for a Selected Listed Financial Institution for GST/HST and QST Purposes or only for QST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7204-2.html).
+
+#### Cancellation of group registration
+
+38. Under subsection 242(1.1), the Minister may cancel a group registration made under subsection 241(1.1) after giving reasonable written notice, provided the Minister is satisfied that the group registration is no longer required. Under subsection 242(1.2), the Minister must cancel a group registration in prescribed circumstances. Under paragraph 56(3)(c) of the SLFI Regulations, the following are prescribed circumstances for purposes of subsection 242(1.2):
+
+- the withdrawal, or deemed withdrawal, of an investment plan or a segregated fund of an insurer from the joint consolidated filing election on a particular day if no new consolidated filing election is deemed to come into effect on that day between the manager and two or more other SLFIs
+
+- where an investment plan or a segregated fund of an insurer ceases to exist, and the joint consolidated filing election is made by only the investment plan or segregated fund, its manager, and one other SLFI
+
+- a revocation of the joint consolidated filing election becomes effective
+
+39. The Minister will notify the manager in writing of the cancellation of the group registration and the effective date of the cancellation. The manager should provide this information to each SLFI in the group.
+
+## Reporting periods and return due dates for listed financial institutions
+
+40. Specific reporting periods and return due dates apply to an LFI depending on whether:
+
+- it is registered for GST/HST purposes
+
+- it has elected to file more frequently than otherwise required
+
+- it is an LFI as a result of a subsection 150(1) election
+
+- it is an SLFI
+
+### Definitions
+
+41. The following terms, defined under subsection 123(1), are used in discussing the reporting periods of a person and return due dates:
+
+- **fiscal month** of a person means "a period that is determined under section 243 to be the fiscal month of the person"
+
+- **fiscal quarter** of a person means "a period that is determined under section 243 to be the fiscal quarter of the person"
+
+- **fiscal year** of a person means:
+
+    1. if section 244.1 applies to the person (an SLFI that is an investment plan or a segregated fund of an insurer), the period determined under that section
+
+    2. if section 244.1 does not apply to the person and the person has made an election to change a GST/HST fiscal year under section 244 that is in effect, the period that the person elected to be the fiscal year of the person
+
+    3. in all other cases, the taxation year of the person
+
+- **month** means "a period beginning on a particular day in a calendar month and ending on
+
+    1. the day immediately before the day in the next calendar month that has the same calendar number as the particular day, or
+
+    2. where the next calendar month does not have a day that has the same calendar number as the particular day, the last day of that next calendar month"
+
+- **taxation year** of a person means:
+
+    1. where the person is a taxpayer, within the meaning of that term in the ITA (other than an unincorporated person exempt because of subsection 149(1) of the ITA from tax under Part I of the ITA on all or part of the person's taxable income), the taxation year of the person for the purposes of the ITA
+
+    2. where the person is a partnership described in subparagraph 249.1(1)(b)(ii) of the ITA, the fiscal period of the person's business determined under subsection 249.1(1) of the ITA
+
+    3. in any other case, the period that would be the taxation year of the person for the purposes of the ITA if the person were a corporation other than a professional corporation (within the meaning assigned by subsection 248(1) of the ITA)
+
+### Listed financial institutions because of a subsection 150(1) election
+
+42. A person is an LFI throughout a taxation year if that person is described in subparagraph 149(1)(a)(xi) at any time in that year. A person described in subparagraph 149(1)(a)(xi) includes both of the following:
+
+- a corporation that is deemed to be a financial institution under section 151 because it is a member of a closely related group of which an LFI described in any of subparagraphs 149(1)(a)(i) to (x) is a member
+
+- an election under subsection 150(1) is in effect with another member of the closely related group to have certain taxable supplies deemed to be financial services
+
+43. For more information on the election, refer to [GST/HST Memorandum 17-14, Election to Deem Supplies to be Financial Services and Related Election for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/17-14.html).
+
+44. A corporation that is an LFI only because it has a subsection 150(1) election in effect (referred to in this memorandum as a **Section 150 LFI**) may have a fiscal year, fiscal quarter or fiscal month as a reporting period depending on one of the following:
+
+- its threshold amount (as determined by the formula in section 249 and shown in the *Assigned reporting periods for Section 150 LFIs* chart below)
+
+- whether it has made an election under section 246, 247, or 248 to have reporting periods that are fiscal months, fiscal quarters, or fiscal years, respectively
+
+45. If a corporation that is a Section 150 LFI has an annual reporting period, it is required to file its GST/HST return electronically, within three months after the end of its reporting period. As an annual filer, the registrant LFI may be required to pay quarterly instalments under section 237. If it has a quarterly or monthly reporting period, it is required to file its GST/HST return electronically within one month after the end of its reporting period.
+
+For reporting periods that begin after December 31, 2023, **all** GST/HST registrants, with the exception of selected listed financial institutions (SLFIs) and charities, are required to file returns electronically. If a registrant continues to file a paper return, it may be charged a penalty.
+
+It is important to note that a corporation that is deemed to be a financial institution under section 151 as a result of having a subsection 150(1) election in effect cannot be an SLFI, unless it is also an LFI described in any of subparagraphs 149(1)(a)(i) to (x). Refer to paragraph 4 of this memorandum for more information.
+
+46. Generally, a registrant LFI, including a Section 150 LFI, whose annual income for purposes of the ITA exceeds $2 million is required to file an annual GST/HST information return under subsection 273.2(3) within six months after the end of its fiscal year. For more information, including the calculation of the $2 million threshold amount, refer to [Guide RC4419, Financial Institution GST/HST Annual Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4419.html), and [Form GST111, Financial Institution GST/HST Annual Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst111.html).
+
+#### Summary of reporting periods and return due dates for registrants that are Section 150 LFIs
+
+47. The following chart shows the assigned reporting period based on the threshold amount for registrants that are Section 150 LFIs and the return due date for each reporting period:
+
+| Threshold amount | Reporting period | GST/HST return due date |
+
+| --- | --- | --- |
+
+| $1,500,000 or less | Annual | Three months after the end of the fiscal year |
+
+| More than $1,500,000 up to $6,000,000 | Quarterly | One month after the end of the reporting period |
+
+| More than $6,000,000 | Monthly | One month after the end of the reporting period |
+
+48. The following chart shows the requirement for registrants that are Section 150 LFIs to file a financial institution GST/HST annual information return based on the threshold amount and the return due date:
+
+| Threshold amount | Filing frequency | GST/HST annual information return due date (Form GST111) |
+
+| --- | --- | --- |
+
+| More than $2,000,000 | Annual | Six months after the end of the fiscal year |
+
+### Other registrant listed financial institutions that are not selected listed financial institutions
+
+49. Under subparagraph 245(2)(a)(iv), the reporting period of a registrant LFI described under any of subparagraphs 149(1)(a)(i) to (x) is a fiscal year, unless an election is in effect under section 246 or 247 to have reporting periods that are fiscal months or fiscal quarters, respectively. To elect to change a reporting period, registrants must complete and submit [Form GST20, Election for GST/HST Reporting Period](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst20.html). Registrants can also change their reporting period electronically using the "File an election" service through the [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) portal. This service is available to individuals, businesses, and authorized representatives that have registered to use this portal.
+
+50. Under subsections 246(4) and 247(3), an LFI, described under any of subparagraphs 149(1)(a)(i) to (x) may revoke a previously made reporting period election for monthly or quarterly filing and revert to annual filing effective the first day of the fiscal year of the LFI. To revoke a previously made election under section 246 or 247, an LFI must complete [Form GST20-1, Notice of Revocation of an Election for GST/HST Reporting Period by a Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst20-1.html). The notice can also be sent electronically using the "File an election" service through the [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) portal.
+
+51. Subsection 238(1) requires every registrant to file a return for each of its reporting periods. Subparagraph 238(1)(a)(i) provides that a registrant LFI described under any of subparagraphs 149(1)(a)(i) to (x) must file its GST/HST return electronically within six months after the end of its fiscal year if its reporting period is the fiscal year. As an annual filer, the registrant LFI may be required to pay quarterly instalments under section 237.
+
+52. Under paragraph 238(1)(b), where a registrant LFI has made an election under section 246 or 247 to have a monthly or quarterly reporting period, the LFI is required to file its GST/HST returns electronically within one month after the end of its reporting period.
+
+53. Generally, a registrant LFI whose annual income for purposes of the ITA exceeds $2 million is required to file an annual GST/HST information return under subsection 273.2(3) within six months after the end of its fiscal year. For more information, including the calculation of the $2 million threshold amount, refer to [Guide RC4419](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4419.html) and [Form GST111](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst111.html).
+
+54. A summary of the reporting periods and return due dates for other registrant LFIs that are not SLFIs is included in paragraphs 57 and 59 of this memorandum.
+
+### Non-registrant listed financial institutions that are not selected listed financial institutions
+
+55. Under subsection 245(1), the reporting period of a non-registrant LFI is a calendar month unless it is a reporting period in which the LFI becomes or ceases to be a registrant. Under subsection 238(2), a non-registrant LFI must file a return for each reporting period for which net tax is remittable within one month after the end of the reporting period. In this case, the LFI must use Form GST62, *Goods and Services Tax/Harmonized Sales Tax Return (Non-personalized)*, to file its return (instructions for obtaining the form can be found at [Remittance vouchers and payment forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/request-payment-forms-remittance-vouchers.html)).
+
+56. A summary of the reporting periods and return due dates for non-registrant LFIs that are not SLFIs is included in paragraphs 58 and 59 of this memorandum.
+
+#### Summary of reporting periods and return due dates for listed financial institutions described under any of subparagraphs 149(1)(a)(i) to (x) that are not selected listed financial institutions
+
+57. The following chart shows the return due date for each reporting period for registrant LFIs that are described in any of subparagraphs 149(1)(a)(i) to (x) that are not SLFIs:
+
+| Reporting period | GST/HST return due date |
+
+| --- | --- |
+
+| Monthly | One month after the end of the reporting period |
+
+| Quarterly | One month after the end of the reporting period |
+
+| Annual | Six months after the end of the fiscal year |
+
+58. The following chart shows the return due date for the reporting period for non-registrant LFIs that are not SLFIs:
+
+| Reporting period | GST/HST return due date (Form GST62) |
+
+| --- | --- |
+
+| Monthly | One month after the end of the reporting period for which net tax is remittable |
+
+59. The following chart shows the requirement for LFIs that are not SLFIs to file a financial institution GST/HST annual information return based on the threshold amount and the return due date:
+
+| Type of LFI | Threshold amount | Filing frequency | GST/HST annual information return due date (Form GST111) |
+
+| --- | --- | --- | --- |
+
+| Registrant LFI | More than $2,000,000 | Annual | Six months after the end of the fiscal year |
+
+| Non-registrant LFI | n/a | n/a | n/a |
+
+### Registrant selected listed financial institutions
+
+60. Under subparagraph 245(2)(a)(iv), the reporting period of an SLFI that is a registrant is a fiscal year, unless an election is in effect under section 246 or 247 to have reporting periods that are fiscal months or fiscal quarters, respectively. To elect to change a reporting period, the registrant SLFI must complete and submit [Form GST20](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst20.html) or [Form RC7220, Election for GST/HST and QST Reporting Period for a Selected Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7220.html). Registrant SLFIs can also change their reporting period electronically using the "File an election" service through the [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) portal.
+
+61. Under subsections 246(4) and 247(3), an SLFI may revoke a previously made reporting period election for monthly or quarterly filing and revert to annual filing effective the first day of the fiscal year of the SLFI. To revoke a previously made election under section 246 or 247, an SLFI must complete [Form GST20-1](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst20-1.html) or [Form RC7220-1, Notice of Revocation of an Election for GST/HST and QST Reporting Period by a Selected Listed Financial Institution](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7220-1.html). The notice can also be sent electronically using the "File an election" service through the [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) portal.
+
+62. Under section 244.1, where an SLFI is an investment plan under subparagraph 149(1)(a)(ix) or a segregated fund of an insurer under subparagraph 149(1)(a)(vi), generally its fiscal year is a calendar year and any election with respect to its fiscal year under section 244 previously made by the SLFI ceases to have effect.
+
+63. Subsection 238(1) requires every registrant to file a return for each of its reporting periods. Under subparagraph 238(1)(a)(i), a registrant SLFI is required to file its annual return within six months after the end of its fiscal year. In this case, an SLFI must use [Form GST494, GST/HST Final Return for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst494.html), or [Form RC7294, GST/HST and QST Final Return for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7294.html), to file its return. As an annual filer, the SLFI may be required to pay quarterly instalments under section 237, even in the first fiscal year it becomes an SLFI.
+
+64. Where a registrant SLFI has made an election under section 246 or 247 to have a monthly or quarterly reporting period, the SLFI is required, under subsection 238(2.1), to file an interim return for each fiscal month or fiscal quarter within one month of the end of the reporting period. In this case, the SLFI must use Form GST34-2, *Goods and Services Tax/Harmonized Sales Tax Return for Registrants (Personalized)*, (instructions for obtaining the form can be found at [Remittance vouchers and payment forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/request-payment-forms-remittance-vouchers.html)), or Form RC7200, *Goods and Services Tax/Harmonized Sales Tax (GST/HST) and Quebec Sales Tax (QST) Return for Selected Listed Financial Institutions*, (instructions for obtaining the form can be found at [GST/HST and QST forms and publications for selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications/selected-financial-institutions.html)), or the electronic equivalent, to file its interim returns. A final return for each reporting period is also required to be filed using [Form GST494](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst494.html) or [Form RC7294](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7294.html) within six months after the end of the fiscal year in which the reporting period ends.
+
+65. Generally, a registrant SLFI whose annual income for purposes of the ITA exceeds $2 million is required to file an annual GST/HST information return under subsection 273.2(3) within six months after the end of its fiscal year. For purposes of subsection 273.2(2), SLFIs that are investment plans or segregated funds of an insurer are prescribed under section 6 of the *Financial Services and Financial Institutions (GST/HST) Regulations* and, as a result, are not required to file the annual GST/HST information return for financial institutions. For more information, refer to [Guide RC4419](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4419.html) and [Form GST111](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst111.html) or [Guide RC7219, GST/HST and QST Annual Information Return for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc7219.html), and [Form RC7291, GST/HST and QST Annual Information Return for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7291.html).
+
+66. A summary of the reporting periods and return due dates for registrant SLFIs is included in paragraphs 71 and 73 of this memorandum.
+
+### Non-registrant selected listed financial institutions
+
+67. Under subsection 245(1), the reporting period of a non-registrant SLFI is a calendar month unless it is a reporting period in which the SLFI becomes or ceases to be a registrant.
+
+68. Under paragraph 238(2.1)(a), a non-registrant SLFI is required to file an interim return for each reporting period (calendar month) within one month after the end of the reporting period even if there is no net tax to be remitted. In this case, the non-registrant SLFI must use Form GST62, (instructions for obtaining the form can be found at [Remittance vouchers and payment forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/request-payment-forms-remittance-vouchers.html)), or Form RC7262, *Goods and Services Tax/Harmonized Sales Tax (GST/HST) and Quebec Sales Tax (QST) Return for Selected Listed Financial Institutions (non-personalized)*, (instructions for obtaining the form can be found at [GST/HST and QST forms and publications for selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications/selected-financial-institutions.html)), to file its interim return.
+
+69. Under paragraph 238(2.1)(b), a non-registrant SLFI is also required to file a final return for each reporting period within six months after the end of the fiscal year in which the reporting period ends. In this case, the non-registrant SLFI must use [Form GST494](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst494.html) or [Form RC7294](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7294.html) to file its final return.
+
+70. A summary of the reporting periods and return due dates for non-registrant SLFIs is included in paragraphs 72 and 73 of this memorandum.
+
+#### Summary of reporting periods and return due dates for selected listed financial institutions
+
+71. The following chart shows the return due date for each reporting period for registrant SLFIs:
+
+| Reporting period | GST/HST return due date (Form GST494 or Form RC7294) | GST/HST interim return due date (Form GST34-2, Form RC7200, or electronic equivalent) | GST/HST final return due date (Form GST494 or Form RC7294) |
+
+| --- | --- | --- | --- |
+
+| Monthly | n/a | One month after the end of the reporting period | Six months after the end of the fiscal year |
+
+| Quarterly | n/a | One month after the end of the reporting period | Six months after the end of the fiscal year |
+
+| Annual | Six months after the end of the fiscal year | n/a | n/a |
+
+72. The following chart shows the return due date for the reporting period for non-registrant SLFIs:
+
+| Reporting period | GST/HST interim return due date (Form GST62 or Form RC7262) | GST/HST final return due date (Form GST494 or Form RC7294) |
+
+| --- | --- | --- |
+
+| Monthly | One month after the end of the reporting period | Six months after the end of the fiscal year |
+
+73. The following chart shows the requirement for SLFIs to file a financial institution GST/HST annual information return based on the threshold amount, and the return due date:
+
+| Type of SLFI | Threshold amount | Filing frequency | GST/HST annual information return due date (Form GST111 or Form RC7291) |
+
+| --- | --- | --- | --- |
+
+| Registrant SLFI (excluding investment plans and segregated funds of an insurer) | More than $2,000,000 | Annual | Six months after the end of the fiscal year |
+
+| Non-registrant SLFI | n/a | n/a | n/a |
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries**, call **Business Enquiries** at **1‑800‑959‑5525**
+
+- for **GST/HST technical enquiries**, call **GST/HST Rulings** at **1‑800‑959‑8287**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1‑800‑567‑4692** or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a **selected listed financial institution** (whether or not you are located in Quebec) and require information on the **GST/HST** or the **QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for **general GST/HST** or **QST enquiries**, call **Business Enquiries** at **1‑800‑959‑5525**
+
+- for **technical GST/HST** or **QST enquiries**, call **GST/HST Rulings SLFI** at **1‑855‑666‑5166**

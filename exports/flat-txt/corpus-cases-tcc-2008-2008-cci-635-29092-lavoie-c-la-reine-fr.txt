@@ -1,0 +1,122 @@
+Title: Lavoie c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29092/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-635-29092-lavoie-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-12-16
+
+# Lavoie c. La Reine
+
+- Citation: 2008 CCI 635
+- Decision date: 2008-12-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6655, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lavoie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-12-16
+Référence neutre
+2008 CCI 635
+Numéro de dossier
+2008-1372(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1372(IT)I
+ENTRE :
+FRANCIS LAVOIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 17 novembre 2008, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Antonia Paraherakis
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000 et 2001 sont rejetés, selon les motifs du jugement ci‑joints.
+L’appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l’année d'imposition 2002 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2009.
+« François Angers »
+Juge Angers
+Référence : 2008 CCI 635
+Date : 20081216
+Dossier : 2008-1372(IT)I
+ENTRE :
+FRANCIS LAVOIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’appels visant les années d’imposition 2000, 2001 et 2002 de l’appelant. En ce qui concerne les années 2000 et 2001, il s’agit de nouvelles cotisations dont les avis furent expédiés à l’appelant le 5 janvier 2006 et dans lesquels le ministre du Revenu national (le « Ministre »), dans le calcul du revenu de l’entreprise agricole de l’appelant, a refusé respectivement la déduction de sa part de dépenses d’intérêts de 8 292 $ et de 10 093 $ pour les exercices financiers se terminant le 31 décembre 2000 et 2001. L’avis de cotisation à l’égard de l’année 2002 fut expédié à l’appelant le 5 janvier 2006 et le ministre a refusé la déduction d’une somme de 27 424 $ à titre de dépenses encourues pour gagner des revenus de profession libérale. L’appelant s’est dûment opposé et le Ministre a ratifié les cotisations le 12 mars 2008.
+[2] En plus du refus du Ministre d’admettre les dépenses décrites ci-haut, il faut déterminer si le Ministre était justifié d’établir des nouvelles cotisations pour les années d’imposition 2000 et 2001 en dehors de la période normale de cotisation en vertu du paragraphe 152(4) de la Loi de l’impôt sur le revenu (la « Loi »).
+[3] L’appelant a reconnu que les dépenses d’intérêts de 8 292 $ et de 10 093 $ déduites dans ses déclarations de revenu pour les années d’imposition 2000 et 2001 sont en fait des remboursements de nature capitale et qu’ils n’auraient pas dû être déduits à titre d’intérêts versés. Les relevés de compte de la Caisse populaire pour les années en question ont été déposés et les montants d’intérêts payés y sont clairement indiqués. L’appelant attribue cette erreur au fait que son épouse aurait transcrit les montants dans son logiciel d’impôt et que les données erronées auraient été transmises par inadvertance au comptable qui prépare ses déclarations de revenu. L’appelant reconnaît ne pas avoir révisé ni même regardé ses états de compte ni ses déclarations de revenu des deux années en question.
+[4] Le vérificateur, de son côté, a fait valoir que les montants étaient non seulement clairement indiqués dans les états de compte, mais que les montants en intérêts déduits par l’appelant étaient très supérieurs à ce qu’il aurait été raisonnable de payer par rapport au montant des prêts ou de son endettement. La preuve a aussi révélé que les états de compte avaient été remis au comptable.
+[5] Le paragraphe 152(4) permet au Ministre d’établir une cotisation à toute personne qui a produit une déclaration de revenu pour une année d’imposition dans le cas où le contribuable ou la personne produisant la déclaration a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration.
+[6] Il n’y a donc en l’espèce aucun doute qu’il y a eu une présentation erronée de faits visant la déduction refusée des intérêts déduits par l’appelant en ce qu’il s’agissait de remboursement du capital et non de paiement d’intérêts. L’intimée soutient que l’appelant a fait cette présentation erronée par négligence ou inattention au motif qu’il était très facile de se rendre compte du montant payé en intérêts simplement en regardant les états de compte établis par la Caisse populaire et en regardant le total du montant déduit par rapport au montant des prêts. La preuve a révélé que l’appelant est un homme d’affaires chevronné.
+[7] Les explications apportées par l’appelant font état d’une faute commise par son épouse et son comptable, mais le fait demeure qu’il s’agit en l’espèce de ses déclarations de revenu et que c’est à lui que revient la responsabilité et le devoir de s’assurer que ses déclarations de revenu sont exactes et sans erreurs. L’appelant en l’espèce ne prenait pas connaissance des états de compte ou de ses déclarations de revenu et ne les vérifiait pas. On ne peut pas dire qu’il a agi en l’espèce avec diligence dans la préparation de ses déclarations de revenu. Si l’appelant avait pris le temps de réviser ses déclarations de revenu, il aurait été en mesure de constater que les montants déduits au titre des intérêts étaient exorbitants dans les circonstances. Le ministre s’est acquitté du fardeau de la preuve qui lui incombait et il était ainsi justifié de cotiser l’appelant au-delà de la période normale de cotisation. Les appels visant les années d’imposition 2000 et 2001 sont donc rejetés.
+[8] Pour ce qui est de l’année 2002, l’appelant soutient que les dépenses déduites sont en majorité des dépenses liées à des honoraires d’avocats qui le représentaient dans différents dossiers dont un principalement où il a engagé une poursuite à l’encontre de son ancien associé en 2002. L’appelant a cependant été incapable de produire une seule facture faisant partie de sa liste de frais comptables et judiciaires sauf quatre factures provenant de l’étude Ogilvy Renault, soit l’étude dont il aurait retenu les services à l’automne 2002 pour intenter cette poursuite contre son ancien associé. Il est à noter que la liste produite est tirée d’un document provenant de son ordinateur, imprimé le 14 novembre 2008. La liste dresse les frais payés sous la rubrique « frais comptables et judiciaires » de l’année 2002.
+[9] Au stade de la vérification, il a fourni les quatre mêmes factures d’Ogilvy Renault et a informé le vérificateur que le montant déduit de 27 424 $ se rapportait à ces quatre factures. Voici le sommaire des quatre factures :
+Facture no 250527
+le 24 septembre 2002
+5 664,42 $
+Facture no 253688
+le 23 octobre 2002
+2 795,03 $
+Facture no 257340
+le 25 novembre 2002
+16 336,89 $
+Facture no 264994
+le 29 novembre 2003
+4 262,51 $
+[10] Il est important de signaler que le client dont le nom figure sur ces quatre factures est monsieur Camille Boutin et que les factures font référence à l’appelant.
+[11] La liste des frais comptables et judiciaires ne renvoie qu’aux trois premières factures décrites précédemment et les montants versés à Ogilvy Renault totalisent 13 459,45 $, soit le total des deux premières factures et un versement en acompte de 5 000 $ pour la troisième facture. Les autres factures sur la liste se rapportent aux honoraires d’autres avocats et d’autres cabinets d’avocats. La nature des services rendus n’y est pas précisée sauf pour le dossier de la poursuite contre l’ancien associé de l’appelant. Selon l’appelant, les avocats Bernier et Jodoin auraient facturé des honoraires concernant cette poursuite avant que le dossier ne soit transféré aux cabinets d’avocats dont les factures sont décrites ci-haut.
+[12] Les poursuites intentées par l’appelant contre son ancien associé se rapportent, selon l’appelant, à une entente verbale qu’il avait conclue avec ce dernier en ce qui concerne des droits de participation dans des biens immeubles et des honoraires professionnels qui lui étaient dûs. L’appelant n’a cependant pas produit l’avis de la poursuite qu’il a intenté. Il a déposé la défense de son ancien associé afin de faire preuve qu’il réclamait des honoraires. Pour sa part, son ancien associé a nié dans sa défense les allégations de la poursuite et a affirmé que l’appelant a été payé pour ses services.
+[13] En février 2004, l’appelant, par l’entremise d’un nouvel avocat, intenta des poursuites contre le même ancien associé et plusieurs autres intervenants dans le contexte des relations d’affaires qu’il avait avec cet ancien associé. Cette poursuite a mené à des négociations qui se sont soldées par un règlement hors cour de toutes les poursuites et rendu exécutoire par la Cour d’appel du Québec. Ce règlement vise donc quatre dossiers connexes en plus du litige principal soit, l’action intentée par l’appelant contre son ancien associé. Le règlement mettait un terme définitif à toutes réclamations passées, présentes et futures liées directement ou indirectement aux rapports contractuels et extracontractuels ainsi qu’à toute relation d’affaires existant ou ayant pu exister entre l’appelant, son ancien associé et les autres intervenants. L’appelant a reçu, entre autres, une somme forfaitaire de 280 000 $ à la suite de cette entente qui a été rendue exécutoire le 14 décembre 2005.
+[14] Selon l’appelant, pour financer cette poursuite qu’il a entamé en 2002 contre son ancien associé et les autres poursuites qui ont suivi, il a dû emprunter de l’argent de Camille Boutin dont le nom paraît à titre de client sur les quatre factures déposées en preuve. L’appelant affirma que le cabinet d’avocats en question préférait facturer monsieur Boutin. Une fois la facture payée par monsieur Boutin, l’appelant reconnaissait son endettement envers ce dernier en signant des billets à ordre. Afin d’étayer son affirmation, l’appelant a déposé une copie d’un acte de prêt hypothécaire qu’il a signé en faveur de cette personne le 3 octobre 2002 pour garantir un prêt de 100 000 $.
+[15] Lorsque l’appelant a omis de rembourser le prêt et que monsieur Boutin est décédé, l’héritière de monsieur Boutin a poursuivi l’appelant devant la Cour supérieure du Québec à l’automne de 2006. Dans l’exposé de la demande, l’héritière alléguait que la somme de 100 000 $ avait été déboursée progressivement comme en font foi un billet à ordre en date du 13 octobre 2003 pour une somme de 59 568,88 $ et une série de chèques totalisant 35 352,40 $. Parmi les chèques, on en trouve un payable à Ogilvy Renault et portant le numéro 383 qui a été fait le 21 janvier 2004 au montant de 23 400 $. La demande ne renvoie qu’à une seule facture parmi les quatre, soit la facture numéro 264994 du 29 janvier 2003, et qu’à l’état de compte du 20 mai 2003 où le total des honoraires de 56 200,05 $ a été réduit du montant du chèque, soit 23 400 $. L’appelant a témoigné que les trois factures de 2002 étaient visées par le billet à ordre du 13 octobre 2003 au montant de 59 568,88 $ et n’étaient donc pas visées par le paiement fait au moyen du chèque numéro 383.
+[16] L’addition des trois factures de 2002 décrites précédemment donne un total de 24 796,34 $. Le total des frais comptables et judiciaires soumis par l’appelant à la pièce A-1 est de 27 424,81 $, soit exactement le même montant qu’il a déduit sous cette rubrique dans sa déclaration de revenu pour l’année d’imposition 2002. Dans cette liste, il déclare avoir payé à Ogilvy Renault la somme de 13 459,45 $ et réfère aux trois numéros de factures susmentionnés. Les factures 250527 et 253688 ont été payées au complet et, en ce qui concerne celle de 257340, on constate qu’il s’agit d’un acompte de 5 000 $. Le tout est en date du 31 décembre 2002.
+[17] Il incombe donc à l’appelant d’établir selon la prépondérance des probabilités que les dépenses qu’il cherche à déduire ont réellement été encourues et que, le cas échéant, il a le droit de les déduire de ses revenus au motif qu’elles ont été engagées en vue de tirer un revenu.
+[18] La preuve nous révèle qu’au stade de l’opposition l’appelant a produit quatre factures d’un cabinet d’avocats adressées à Camille Boutin et où le nom de l’appelant est indiqué à titre de référence. L’appelant a expliqué au vérificateur qu’il s’agissait de pièces justificatives pour la dépense déduite de 27 424 $. Au procès, l’appelant a produit une liste de dépenses sous la rubrique « frais comptables et judiciaires » dont le total correspond exactement au montant déduit dans sa déclaration de revenu. La liste provient de l’ordinateur de l’appelant et elle a été imprimée le 14 novembre 2008.
+[19] Je dois également souligner que, selon cette liste et selon la preuve entendue, l’appelant aurait fait affaire avec au moins sept avocats ou cabinets d’avocats en 2002 et possiblement un huitième dont l’identité est limitée au mot avocat sur la liste. Aucune pièce justificative n’a été déposée et aucune explication sur la nature de ces dépenses n’a été donnée sauf qu’on peut lire qu’au moins un avocat a été retenu concernant l’impôt et d’autres concernent la poursuite contre un ancien associé. Selon l’appelant, les avocats Jodoin et Bernier l’auraient représenté avant que le dossier ne soit transféré à Ogilvy Renault. En contre-interrogatoire, il a reconnu que le plumitif de la Cour supérieure du Québec, dans sa poursuite contre son ancien associé, mentionnait un avocat dont le nom ne paraît nulle part.
+[20] Il est donc difficile sinon impossible d’identifier la nature des services professionnels rendus puisque la preuve est limitée aux dépenses encourues dans la poursuite contre l’ancien associé de l’appelant et il est également difficile d’établir si la poursuite a été intentée dans le but de revendiquer le paiement d’honoraires professionnels ou si elle visait des droits que l’appelant pouvait avoir dans des biens immeubles et des entreprises ou possiblement les deux. Quant à la convention de règlement rendue exécutoire par la Cour d’appel du Québec, on réfère de façon très générale au paiement d’une somme forfaitaire en guise de règlement visant toute relation d’affaires et des rapports contractuels et extracontractuels existant sans qu’aucun autre détail ne soit fourni.
+[21] Quant aux prétentions voulant que les frais juridiques de Camille Boutin aient été encourus pour le bénéfice de l’appelant, la seule preuve à l’appui de cette thèse serait le paiement de la facture 264994 d’Ogilvy Renault le 29 novembre 2003 par le chèque numéro 383 de Camille Boutin dont il est fait état dans les allégations figurant dans la requête de l’héritière contre l’appelant. Cette même requête réfère à plusieurs autres factures d’Ogilvy Renault payées en 2003, soit l’année suivant l’année en question et aussi à des factures d’autres avocats. Il faut aussi noter que le billet à ordre qui constitue une partie de la dette de 100 000 $ a été signé le 13 octobre 2003 et que, selon l’appelant, ce montant a notamment servi à payer les quatre factures d’Ogilvy Renault dont trois datent de 2002. La preuve ne précise pas pourquoi ce billet a été signé en octobre 2003 pour le paiement de factures établies à l’automne 2002.
+[22] Tous ces éléments de preuve sont insuffisants et, à mon avis, peu fiables. L’appelant n’a pas établi selon la prépondérance des probabilités qu’il avait le droit de déduire le montant de dépenses qu’il a déduites. Il n’a pas répondu à la question de savoir si des dépenses ont vraiment été encourues et, dans l’affirmative, dans quelle proportion elles ont été encourues dans le but de tirer un revenu. Pour ces raisons, l’appel de la cotisation pour l’année 2002 est rejeté.
+Signé à Edmundston (Nouveau-Brunswick), ce 16e jour de décembre 2008.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2008 CCI 635
+Nº DU DOSSIER DE LA COUR : 2008-1372(IT)I
+INTITULÉ DE LA CAUSE : Francis Lavoie et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 17 novembre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 16 décembre 2008
+DATE DU JUGEMENT MODIFIÉ : le 16 janvier 2009
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Antonia Paraherakis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

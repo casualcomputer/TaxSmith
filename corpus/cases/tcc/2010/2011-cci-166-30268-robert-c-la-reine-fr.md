@@ -1,0 +1,184 @@
+---
+title: "Robert c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30268/index.do"
+last_modified: "2010-03-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 166"
+citation2: ""
+neutral_citation: "2011 CCI 166"
+decision_date: "2010-03-15"
+language: "fr"
+item_id: "30268"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7978
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:10:40.170000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "477e3f56db5564e8c0cd77007bf3b164fc579c949caebb8e438d3e69cfd5b0a4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Robert c. La Reine
+
+- Citation: 2011 CCI 166
+- Decision date: 2010-03-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7978, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robert c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-15
+Référence neutre
+2011 CCI 166
+Numéro de dossier
+2009-2912(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2912(IT)I
+ENTRE :
+RICHARD ROBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 10 mars 2010, à Ottawa (Canada)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Représentant de l'appelant :
+Christian Lachapelle
+Avocat de l'intimée :
+Me Antoine Lamarre
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu, datée du 2 avril 2009, relativement à l’année d’imposition 2000 de l’appelant est rejeté selon les motifs du jugement ci‑joints.
+Signé à Montréal (Québec), ce 15e jour de mars 2011.
+« Réal Favreau »
+Juge Favreau
+Référence : 2011 CCI 166
+Date : 20110315
+Dossier : 2009-2912(IT)I
+ENTRE :
+RICHARD ROBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel à l’encontre d’une nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, c. 1 (5e Supp.), telle que modifiée (la « Loi »), datée du 2 avril 2009, relativement à l’année d’imposition 2000 de l’appelant. Par cette nouvelle cotisation, le ministre du Revenu national (le « ministre ») a refusé la perte d’entreprise au montant de 31 581 $ réclamée par l’appelant et a imposé une pénalité pour faute lourde en vertu du paragraphe 163(2) de la Loi au montant de 1 953,14 $.
+Les faits
+[2] Les faits relatifs à la déclaration de revenu de l’appelant pour l’année d’imposition 2000, aux deux demandes de redressement présentées par l’appelant et aux cotisations établies par le ministre sont les suivants, selon ce qui est décrit aux paragraphes 5 à 9 de la Réponse à l’avis d’appel :
+5. L’appelant a déclaré un revenu d’emploi de 7 100 $ pour l’année d’imposition 2000.
+6. Par avis de cotisation daté du 25 juin 2001, le Ministre a cotisé l’impôt payable par l’appelant pour l’année d’imposition 2000 tel que déclaré.
+7. Au cours de l’année 2006, l’appelant fait une demande redressement pour l’année d’imposition 2000 concernant les revenus suivants :
+Réduction du revenu d’emploi
+$(7 100)
+Dividendes
+1 181
+Intérêts
+394
+Gain en capital (période 2)
+46 047 imposable (66,66 %) 30 698
+Gain en capital (période 3)
+1 343 imposable (50,00 %) 671
+Pertes nettes en capital des autres années
+(25 716)
+Augmentation totale du revenu imposable
+$128
+8. Par avis de nouvelle cotisation daté du 19 juillet 2007, le Ministre a cotisé de nouveau l’impôt payable par l’appelant pour l’année d’imposition 2000, tel que demandé par l’appelant dans sa demande de redressement décrite au paragraphe 7. Aucune pénalité fût imposée lors de cette nouvelle cotisation.
+9. Le 15 août 2008, l’appelant a fait une deuxième demande de redressement pour l’année d’imposition 2000 dans laquelle il réclame une perte d’entreprise de 31 581 $.
+[3] En établissant la pénalité pour faute lourde payable par l’appelant pour l’année d’imposition 2000, le ministre a tenu pour acquis les faits suivants, décrits au paragraphe 13 de la Réponse à l’avis d’appel :
+a) l’appelant était un résident de la province de Québec;
+b) l’appelant n’a jamais opéré d’entreprise au cours de l’année 2000, ni au cours des années antérieures et subséquentes;
+c) l’appelant n’a pas encouru les « Frais de gestion selon un contrat privé » de 12 000 $ et « Remboursements de dépenses selon un contrat privé » de 19 581 $;
+d) les « Remboursements de dépenses selon un contrat privé » de 19 581 $ sont des dépenses de nature personnelles;
+e) l’appelant déclare des revenus de placements et des gains en capital imposables (sic) pour l’année d’imposition 2000 de 32 944 $;
+f) la perte d’entreprise réclamée par l’appelant représente 96 % de son revenu;
+g) l’appelant n’a pas tenu des livres et registres adéquats; et
+h) l’appelant a signé sa demande de redressement pour l’année d’imposition 2000.
+[4] La question en litige consiste à déterminer si le ministre a correctement imposé la pénalité pour faute lourde à l’égard de la perte d’entreprise refusée de 31 581 $ pour l’année d’imposition 2000 conformément au paragraphe 163(2) de la Loi.
+Position de l’appelant
+[5] L’appelant a témoigné à l’audience. Il a déclaré être, en l’an 2000, un retraité sans emploi depuis six ans. Il a dit avoir vendu sa résidence en 1999 et avoir déposé le produit de la vente auprès d’une institution bancaire afin d’effectuer des placements. Il vit maintenant sur une ferme et reçoit une pension annuelle d’environ 20 000 $. Selon lui, le ministre n’est pas justifié d’imposer la pénalité pour faute lourde parce que tous les impôts pour L’année 2000 ont été payés et parce qu’il n’a pas commis de fraude. Il a toujours été honnête.
+[6] Le représentant de l’appelant, monsieur Christian Lachapelle, a également témoigné à l’audience pour expliquer les principes sous‑jacents à la méthode décrite comme étant la « Méthode C2 ». Dans ce contexte, il a produit comme pièce A‑2 une liste de documents dont les suivants : l’entente sous seing privée conclue en date du 15 août 2008 entre Fiducie Fiscalité Privée, représentée par Christian Lachapelle, Christian Lachapelle en tant qu’agent et Richard Robert, en tant que client; la liste des dépenses personnelles regroupées dans le document intitulé « Comptabilité privée pour l’être humain Richard : Robert – 2000 » qui, selon un affidavit daté du 15 août 2008, ont été compilées au meilleur de sa connaissance selon ses souvenirs; et enfin la lettre de transmission datée du 15 août 2008 par laquelle l’appelant a demandé à l’Agence du revenu du Canada (l’« ARC ») d’amender sa déclaration de revenus de l’année 2000 de façon à ce que le revenu net qui était de 0 devienne une perte de 31 581,04 $.
+[7] Le représentant a déposé, comme pièce A‑3, vingt‑six documents relatifs à la Méthode C2 comprenant essentiellement la correspondance échangée avec l’ARC et différentes autres personnes ou organismes à qui des représentations ont été faites. La méthode repose sur la prémisse qu’une corporation est assignée à tout être humain à sa naissance via l’acte de naissance et le certificat de naissance. Par conséquent, un simple contribuable (une personne physique) est une corporation qui a une entreprise par défaut, ne requérant ni incorporation, ni enregistrement pour pouvoir opérer.
+[8] Dans une correspondance datée du 18 novembre 2008 adressée à monsieur Laurier Lamontagne de l’ARC (pièce I‑4) la relation entre la corporation RICHARD ROBERT et l’être humain Richard : Robert dans le contexte du présent dossier est décrite de la façon suivante aux paragraphes 6, 7 et 8 de la page 2 :
+L’être humain Richard : Robert a signé un contrat privé avec la corporation RICHARD ROBERT (la personne physique). Ce contrat reconnaît la valeur inestimable de Richard : Robert pour la corporation RICHARD ROBERT. Sans Richard : Robert, la corporation RICHARD ROBERT ne peut rien faire ni produire des revenus. L’être humain Richard : Robert est donc indispensable pour la corporation RICHARD ROBERT ( la personne physique) puisse opérer. Donc, la corporation RICHARD ROBERT s’est engagée, par le contrat privé et à titre de compensation pour les efforts incommensurables, à rembourser son fournisseur de services (l’être humain Richard : Robert) pour toutes ses dépenses qu’il fait durant la période couverte par le contrat. Ce remboursement de dépenses du contribuable (la personne physique ou la corporation RICHARD ROBERT) est dans le but de gagner ou produire des revenus pour toutes les entreprises dont la corporation y est impliquée, en accord avec la section 18(1)(a) de la loi de l’impôt fédéral ou l’équivalent provincial. Notez que pour fins d’impôt, seulement une partie de ces dépenses sont tenus (sic) en considération (voir Autres dépenses dans le T‑2124 déjà fourni).
+De plus, ce même contrat engage la corporation RICHARD ROBERT à payer une compensation supplémentaire (déterminée à la fin de l’année) à l’être humain Richard : Robert au titre d’Animateur de la personne physique RICHARD ROBERT (Ceci est le Frais de Gestion et d’administration dans le T‑2124 déjà fourni).
+Donc, ce contrat privé fait de Richard : Robert un fournisseur de services privés à la personne physique RICHARD ROBERT.
+[9] Aux paragraphes 2 et 3 de la page 3 de la correspondance décrite au paragraphe précédent, il est spécifié ce qui suit :
+Ce contrat privé a été possible par un privilège spécial accordé par Sa Majesté La Reine en charge du Canada. La Reine a donné à Richard : Robert le droit d’administrer la personne physique RICHARD ROBERT comme bon lui semble au bénéfice du Royaume de Sa Majesté. L’être humain Richard : Robert agit maintenant comme le propriétaire de la corporation RICHARD ROBERT, en accord avec la section 9(2) de la loi de l’impôt fédéral ou l’équivalent au provincial. Ce qui permet à L’être humain Richard : Robert de signer tout contrat pour la corporation RICHARD ROBERT.
+Ce privilège accordé par la Reine est assujetti d’une promesse faite par l’être humain Richard : Robert à la Reine, qui consiste à favoriser la croissance du Royaume de Sa Majesté La Reine en charge du Canada, pour être considéré comme un allié.
+[10] Les conséquences de l’existence dudit contrat privé sont décrites de la façon suivante aux paragraphes 8, 9 et 10 de la page 3 de la correspondance décrite aux deux paragraphes précédents :
+À cause de ce contrat privé, tous véhicules qui sont la propriété ou qui sont loués au nom de la personne physique RICHARD ROBERT sont utilisés par l’Animateur. Toutes dépenses faites par l’Animateur par et pour ces véhicules sont couvertes par le contrat privé et sont remboursées en conséquence.
+À cause de ce contrat privé, toutes propriétés au nom de la personne physique RICHARD ROBERT sont utilisées par l’Animateur. Toutes dépenses faites par l’Animateur par et pour ces propriétés sont couvertes par le contrat privé et sont remboursées en conséquence.
+À cause de ce contrat privé, tous montants d’argent dans les comptes de banques au nom de la personne physique RICHARD ROBERT sont la propriété de l’être humain Richard : Robert, et aucun transfert n’est nécessaire pour payer quelque compensation due à l’être humain Richard : Robert par la personne physique RICHARD ROBERT. Seulement de la comptabilité interne est utilisée.
+[11] Les pièces suivantes supportant les frais de gestion de 12 000 $ et les remboursements de dépenses de 19 581 $ ont été déposées en preuve par l’intimée :
+– une résolution corporative datée du 18 novembre 2008 autorisant la conclusion du contrat d’embauche de l’animateur Richard : Robert signée par Richard : Robert à titre de propriétaire de la corporation RICHARD ROBERT;
+– le contrat d’embauche intitulé « Contract for Hire – Independent ANIMATOR Agreement » en date du 18 novembre 2008 entre la corporation RICHARD ROBERT et l’animateur Richard : Robert ;
+– un document intitulé « UCC Financing Statement » daté du 18 novembre 2008 accordant une garantie collatérale pour les obligations contractuelles découlant du contrat privé no 947475613‑1 daté du 18 novembre 2008;
+– une facture de Richard : Robert à la corporation RICHARD ROBERT datée du 18 novembre 2008 mais comportant comme date d’entrée en vigueur le 31 décembre 2000, au montant total de 51 162,07 $, soit 39 162,07 $ pour le remboursement des dépenses annuelles dont 19 581,04 $ peuvent être réclamées pour fins fiscales, et 12 000 $ comme frais annuels pour les services de l’animateur;
+– une résolution de la corporation RICHARD ROBERT adoptée le 18 novembre 2008 mais dont la date d’entrée en vigueur est le 31 décembre 2000 par laquelle la corporation RICHARD ROBERT a accepté de transférer les actifs requis à la personne humaine Richard : Robert à titre de compensation pour les services de gestion rendus à l’égard de l’année 2000 s’élevant à 51 162,07 $.
+Analyse et conclusion
+[12] En 2000, le paragraphe 163(2) de la Loi prévoyait que la pénalité pour faute lourde pouvait être imposée dans les circonstances énoncées au paragraphe qui précède l’alinéa a) :
+(2) Faux énoncés ou omissions -- Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+[13] Pour que cette pénalité puisse être appliqué, il faut qu’il soit démontré que le contribuable a « sciemment ou dans les circonstances équivalant à faute lourde » fait un « faux énoncé » dans une déclaration ou a participé ou acquiescé d’une quelconque manière à la préparation de cette déclaration.
+[14] En vertu du paragraphe 163(3) de la Loi, le fardeau d’établir les faits justifiant l’imposition de la pénalité appartient au ministre. Le paragraphe 163(3) de la Loi se lit comme suit :
+(3) Charge de la preuve relativement aux pénalités -- Dans tout appel interjeté, en vertu de la présente loi, au sujet d'une pénalité imposée par le ministre en vertu du présent article ou de l'article 163.2, le ministre a la charge d'établir les faits qui justifient l'imposition de la pénalité.
+[15] Dans l’arrêt Venne c. La Reine, 84 D.T.C. 6247, le juge Strayer de la Cour fédérale (1re instance) a précisé au paragraphe 37 la notion de « faute lourde » :
+[…] La "faute lourde" doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. […]
+[16] Les tribunaux ont souvent eu l’occasion de se prononcer sur l’interprétation à donner au paragraphe 163(2) de la Loi. Comme il s’agit d’une disposition de nature pénale, les tribunaux ont souvent appliqué une interprétation restrictive de cette disposition législative. Dans les cas où une interprétation raisonnable permettrait d’éviter l’imposition de ladite pénalité dans une situation particulière, c’est cette interprétation qui doit prévaloir (voir à l’arrêt Venne précité au paragraphe 34).
+[17] Dans le présent cas, je ne crois pas que l’interprétation fournie par l’appelant soit raisonnable dans les circonstances. À mon avis, le ministre a rencontré son fardeau de la preuve et a établi sans ambiguïté que l’appelant a, sciemment ou dans des circonstances équivalant à faute lourde, participé à la production d’une fausse réclamation de dépenses d’entreprise dans sa déclaration de revenu pour l’année d’imposition 2000.
+[18] Le témoignage de l’appelant n’était pas crédible, il ne savait rien du fonctionnement et des tâches de la corporation RICHARD ROBERT et il était confus quant à savoir qui était le contribuable, la corporation ou lui‑même en tant que personne humaine. Il ne savait pas si des transferts de fonds ont été effectués entre la corporation qui lui a été assignée et dont il était l’animateur et lui‑même en tant que personne humaine.
+[19] Selon ce qui a été mis en preuve, la corporation RICHARD ROBERT n’a jamais été enregistrée officiellement au Québec ou au Canada et le numéro utilisé pour l’identifier est celui du certificat de naissance de l’appelant. Ladite corporation semble avoir surgi 63 ans après l’assignation à l’appelant lors de sa naissance. Ladite corporation n’a jamais produit de déclaration de revenu T‑2 et le semblant de comptabilité utilisée n’était qu’une comptabilité interne et théorique. La corporation n’a jamais exploitée d’entreprise et elle n’a jamais gagné de revenus; elle n’avait que des dépenses.
+[20] Les documents d’ordre corporatif mis en preuve, décrits au paragraphe 11 ci‑dessus, ont tous été préparés par le conseiller de l’appelant, Christian LaChapelle. Ces documents sont tous datés du 18 novembre 2008 mais ils devaient s’appliquer rétroactivement à l’année 2000. Ces documents constituent ni plus ni moins de la planification rétroactive présentée dans le but de diminuer les impôts et les intérêts payables par l’appelant depuis l’année 2000. Ces documents démontrent que l’appelant a utilisé un montage fictif n’ayant aucun fondement légal. L’existence d’une entreprise par défaut n’a aucun fondement en droit.
+[21] Les dépenses réclamées par l’appelant n’ont pas été engagées dans le but de gagner du revenu. Ces dépenses sont des frais personnels et de subsistance à l’égard desquels aucune déduction ne peut être réclamée en vertu de l’alinéa 18(1)(h) de la Loi.
+[22] Suite au dépôt de la deuxième demande de redressement en date du 15 août 2008, l’ARC a présenté à l’appelant une demande de renseignements au moyen d’une lettre datée du 3 novembre 2008. L’appelant n’y a pas donné suite parce que le questionnaire de l’ARC comportait 48 questions et que pour y répondre, il aurait dû y consacrer trop de temps et d’argent alors que, de toutes façons, il n’avait pas de registres à soumettre. L’appelant a été informé au moyen d’une lettre datée du 15 décembre 2008 que l’ARC se proposait d’appliquer la pénalité pour faute lourde si ce dernier ne fournissait pas les explications ou renseignements utiles au support de sa demande de redressement. Plutôt que de soumettre les renseignements exigés, l’appelant a d’abord demandé à l’ARC de suspendre le traitement de sa demande de redressement et, par la suite, de retirer sa signature sur sa déclaration de revenu pour l’année 2000. L’ARC n’a pas donné suite à ces demandes.
+[23] Pour ces motifs, l’appel est rejeté.
+Signé à Montréal (Québec), ce 15e jour de mars 2011.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2011 CCI 166
+Nº DU DOSSIER DE LA COUR : 2009-2912(IT)I
+INTITULÉ DE LA CAUSE : RICHARD ROBERT ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Canada)
+DATE DE L’AUDIENCE : le 10 mars 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 15 mars 2011
+COMPARUTIONS :
+Représentant de l'appelant :
+Christian Lachapelle
+Avocat de l'intimée :
+Me Antoine Lamarre
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

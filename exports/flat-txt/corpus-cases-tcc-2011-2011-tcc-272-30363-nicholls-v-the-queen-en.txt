@@ -1,0 +1,131 @@
+Title: Nicholls v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30363/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-272-30363-nicholls-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-05-19
+
+# Nicholls v. The Queen
+
+- Citation: 2011 TCC 272
+- Decision date: 2011-05-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7884, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nicholls v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-05-19
+Neutral citation
+2011 TCC 272
+File numbers
+2010-2433(IT)APP
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2433(IT)APP
+BETWEEN:
+PATRICK NICHOLLS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard on common evidence with the motions of Patrick Nicholls (2009-2034(IT)I) and Patrick Nicholls (2010-1587(IT)G) on March 31, 2011, at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Ricky Tang
+____________________________________________________________________
+ORDER
+Upon Motion, dated February 28, 2011, made by the Applicant for:
+“… reconsideration of the reasons for judgment and judgment vacating taxation years 1991 and 1992 as effectively extinguished or nullities and direction on assessment correction.”;
+And upon Supplemental Motion, dated March 18, 2011, made by the Applicant for:
+“… repaying an invalid Requirement to Pay (the RTP) payment and set off refunds for tax years 2008 through 2011 as a result of the period in controversy, tax years prior to 1996 and for corrections to apparent administrative error during that period and for vacating taxation year 1990 repeat late file penalty, 1991 installment interest and to vary installment interest for 1993 and 1994; and for to further, reopen grandfathered fairness application and compel the Canada Revenue Agency (the Agency) to reply to a currently unanswered 1998 to 1995 capital loss carry back request.”
+And upon reading the pleadings and hearing submissions by the parties;
+IT IS ORDERED THAT:
+1. The Applicant’s Motions are dismissed;
+2. Costs shall be payable forthwith to the Respondent by the Applicant in the amount of $1,000;
+in accordance with the attached Reasons for Order.
+Signed at Vancouver, British Columbia, this 19th day of May 2011.
+“L.M. Little”
+Little J.
+Citation: 2011 TCC 272
+Date: 20110519
+Docket: 2010-2433(IT)APP
+BETWEEN:
+PATRICK NICHOLLS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+A. FACTS
+[1] The Applicant filed a Notice of Appeal for his 1990 to 1995 taxation years on June 21, 2010.
+[2] Because the date of the Notice of Reassessment was November 10, 2005, the Registry Officer of the Tax Court determined that the document that was filed with the Court should not be recognized as a valid Notice of Appeal but should be recognized as an Application to extend the time to file a Notice of Appeal.
+[3] The Applicant maintains that the treatment that he received from the Tax Court on the filing of his document was incorrect.
+[4] The Applicant has brought a Motion and a supplemental Motion to reconsider the Judgment of Justice V.A. Miller where she dismissed his application to extend time to file a Notice of Appeal. (See 2011 TCC 39)
+[5] The question is, did Justice V.A. Miller overlook or omit a matter in her decision or are her Reasons in discordance with her Order such that section 168 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) allows this Court to reconsider it?
+[6] The Applicant filed a Notice of Motion with the Court, dated February 28, 2011, and a Supplemental Motion, dated March 18, 2011, in which he framed the issues as follows:
+1. Whether the Minister was out of time to reply or respond?
+2. Whether the tax years 1991 and 1992 are statute barred from collection?
+3. Whether the reassessment refunds are computed for 1993 and 1994 tax years?
+4. Whether one or any of 2009 through 2011 set off should be repaid?
+5. Whether the invalid Requirement to Pay should be repaid with interest?
+6. Whether the 1990 late filing penalty is correct or should be vacated?
+7. Whether installment interest is correct or should be vacated?
+8. Whether the grandfathered fairness application should be reopened?
+9. Whether the 1996 carry back should be adjusted for correctness?
+[7] While the Applicant has come up with nine separate issues to describe his Motions, all nine of these issues relate to the substantial tax debt that the Applicant accumulated during the 1990 through 1995 taxation years. The Applicant’s position could be summarized by stating that, in his view, the Minister of National Revenue (the “Minister”) is statute barred from collecting the Applicant’s tax debts from 1990 through 1995 and the Minister cannot continue to collect the tax debts while the Applicant’s appeal is in the Tax Court of Canada. (Note: This paragraph is added for background information and the real issue is whether section 168 of the Rules is applicable.)
+B. ANALYSIS AND DECISION
+[8] Did the Applicant bring his Motion to reconsider the Judgment of Justice V.A. Miller within the ten day period after receiving knowledge of the Order?
+[9] The Applicant was required to bring his Motion within ten days of knowledge of Justice V.A. Miller’s Order. Justice V.A. Miller signed her Order on January 21, 2011, however, the Order was sent to the Applicant on January 24, 2011. On February 1, 2011, the Applicant requested a set down date for his Motion by phone and on February 3, 2011 he received confirmation that his Motion was made returnable on March 31, 2011. In accordance with subsection 27(5) of the Interpretation Act RSC 1985, c. I-21, the ten day period after January 24, 2011 ended on February 3, 2011. I have concluded that the Applicant brought his Motion in time.
+[10] Did Justice V.A. Miller overlook or omit a matter or are her Reasons in discordance with her Order such that section 168 of the Rules allows this Court to reconsider it?
+[11] The Applicant did not indicate under which rule he brings his Motion to reconsider. However, section 168 of the Rules appears to be the only possibility. Section 168 reads as follows:
+Reconsideration of a Judgment on an Appeal
+168. Where the Court has pronounced a judgment disposing of an appeal any party may within ten days after that party has knowledge of the judgment, move the Court to reconsider the terms of the judgment on the grounds only,
+(a) that the judgment does not accord with the reasons for judgment, if any, or
+(b) that some matter that should have been dealt with in the judgment has been overlooked or accidentally omitted.
+[12] The purpose of this rule is to get around the fact that the Court is now functus officio. The rule allows the Court to correct small errors without an appeal to a higher Court when the conditions of section 168 are met.
+[13] The Order of Justice V.A. Miller dated January 21, 2011 reads as follows:
+Upon reading the application for an Order extending the time within which to file a Notice of Appeal to the reassessments made under the Income Tax Act for the 1992, 1993 and 1994 years and the assessments made under the Income Tax Act for the 1990, 1991 and 1995 taxation years;
+And upon hearing the Applicant and counsel for the Respondent;
+The application is dismissed.
+[14] As Justice V.A. Miller’s Reasons demonstrate, she rejected the Applicant’s contention that he never received the Notices of Assessment and dismissed his appeals on the grounds that he failed to file Notices of Objection during the period of one year and ninety days from the mailing of the assessments. The one year and ninety day limitation period can be arrived at by examining subsections 167(1), 167(5), 166.1(7) and 166.2 of the Income Tax Act (the “Act”). I believe that Justice V.A. Miller is correct in concluding that since the Applicant did nothing within one year and ninety days upon receiving his Notices of Assessment, his right to appeal has expired.
+[15] Instead, the Applicant brings this “Reconsider Motion” on the nine issues enumerated above. None of the items address Justice V.A. Miller’s reasoning that he is statute barred. The Applicant in this case seeks to “re-litigate” the same issues as his argument deals with the substantive issues of the years in question. In my opinion, the Appellant has failed to demonstrate that the Reasons of Justice V.A. Miller do not accord with her Order and he has not shown that any matter was overlooked or omitted by her. I have therefore concluded that his Motion should be dismissed.
+[16] I have also concluded that his Notice of Appeal was correctly converted by the Registry Officer to an Application to extend the time limit within which to file a Notice of Objection. With respect to that Application, Justice V.A. Miller dismissed it and now the Applicant is statute barred for his 1990 through 1995 taxation years.
+Costs
+[17] On March 31, 2011, I heard these Motions and two other Motions filed by the Applicant. In addition, the Applicant has filed other Motions before the Tax Court, the Federal Court, the Federal Court of Appeal and other Courts in Ontario. The applications made by the Applicant are very similar to the points raised before me by the Applicant.
+[18] In my opinion, the Applicant is wasting the time of the Court and wasting the time of the Respondent in bringing this type of Motion. I award costs of $1,000.00 payable by the Applicant to the Respondent. The costs are to be payable forthwith.
+Signed at Vancouver, British Columbia, this 19th day of May 2011.
+“L.M. Little”
+Little J.
+CITATION: 2011 TCC 272
+COURT FILE NO.: 2010-2433(IT)APP
+STYLE OF CAUSE: PATRICK NICHOLLS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 31, 2011
+REASONS FOR ORDER BY: The Honourable Justice L.M. Little
+DATE OF ORDER: May 19, 2011
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Ricky Tang
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

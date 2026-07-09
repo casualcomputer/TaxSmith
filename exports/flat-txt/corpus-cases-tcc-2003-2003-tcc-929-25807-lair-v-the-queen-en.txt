@@ -1,0 +1,139 @@
+Title: Lair v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25807/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-929-25807-lair-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-12-12
+
+# Lair v. The Queen
+
+- Citation: 2003 TCC 929
+- Decision date: 2003-12-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3850, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lair v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-12
+Neutral citation
+2003 TCC 929
+File numbers
+2002-4187(GST)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-4187(GST)I
+BETWEEN:
+LOUISE D. LAIR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 8, 2003 at Windsor, Ontario.
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Agent for the Appellant:
+Dora Cashaback
+Counsel for the Respondent:
+Jennifer Neill
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated September 4, 2001 and bears number 01214247212370001, is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment to permit the appellant a New Housing Rebate.
+Signed at Ottawa, Canada, this 12th day of December, 2003.
+"Gerald J. Rip"
+Rip, J.
+Citation: 2003TCC929
+Date: 20031212
+Docket: 2002-4187(GST)I
+BETWEEN:
+LOUISE D. LAIR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, J.
+[1] Louise D. Lair appeals an assessment issued pursuant to Part IX of the Excise Tax Act ("Act") in which the Minister of National Revenue denied her application for a New Housing Rebate in the amount of $1,550.70 under section 256 of the Act on the basis that the construction carried on at her residence does not meet the definition of "substantial renovation" as defined in subsection 123(1) of the Act.
+[2] The appellant was represented by her sister, Dora Cashaback, who also testified. Mrs. Lair, who at the time of trial was ill, was not a witness.
+[3] In 1999, soon after her husband's death Mrs. Lair decided to modernize her residence, which was over 100 years old. The residence rested on cement blocks which were turning to dust. The residence had no basement. Among other things, Mrs. Lair had the entire structure raised several feet off the ground and hired people to dig and construct a basement for her residence. When the residence was raised, according to Ms. Cashaback, walls "cracked", stairways "buckled" and everything "busted out".
+[4] The basement, when eventually completed in 1999, contained a family room, a full bathroom, laundry room and a sewing and crafts room. The first floor of the residence had to be gutted and was completely refinished. The old electrical system, plumbing, installation, drywall, windows and flooring were all removed and replaced. Due to the new plumbing, Mrs. Lair was able to install a new septic system. The residence was also extended at the back to enlarge the kitchen. New cabinets were installed and a new bathroom and walk-in closet were built. The entire roof was removed and replaced. All this construction took place between 1999 and 2001 at a cost of $67,030.98; the Goods and Services Tax ("GST") paid by Mrs. Lair was $4,307.50. Further work on the upper floor of the residence was undertaken after Mrs. Lair applied for the rebate and this construction was completed in 2003 at a cost of $7,886.25.
+[5] In August, 1998, Mrs. Lair underwent surgery to replace two valves in her heart. A third valve was to have been replaced but was not. During all the time of construction, Mrs. Lair was ill but continued to live in her home.
+[6] Ms. Cashaback produced photographs of the residence before, during and after construction. According to the pictures, the exterior of the residence was altered radically, with a newly located entrance and newly placed windows. The additions to the residence are obvious. The completed residence bore no resemblance to the residence before the construction started. Pictures of the interior of the building show considerable construction being undertaken.
+[7] In order to be eligible for the GST rebate for an owner-built home, the applicant must meet the criteria set out under paragraph 256(2)(a), which reads:
+Where
+(a) a particular individual constructs or substantially renovates, or engages another person to construct or substantially renovate for the particular individual, a residential complex that is a single unit residential complex ... for use as the primary place of residence of the particular individual or a relation of the particular individual, ...
+the Minister shall ... pay a rebate to the particular individual equal to ...
+[8] The term "substantial renovation" of a residential complex is defined in subsection 123(1) to mean:
+... the renovation or alteration of a building to such an extent that all or substantially all of the building that existed immediately before the renovation or alteration was begun, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, has been removed or replaced where, after completion of the renovation or alteration, the building is, or forms part of, a residential complex;
+[9] The definition of "substantial renovation" includes the alteration of a building, not only its renovation. The word "renovation" is defined by the Shorter Oxford English Dictionary ("Shorter Oxford") as:
+1. The action of renovating, or the condition of having been renovated; renewal; restoration ...
+[10] The same dictionary defines the word "renovate" as:
+to make new ...
+2. To renew materially; to repair; to restore by replacing lost or damaged parts; to create anew
+[11] The Shorter Oxford defines the word "alteration" as "the action of altering" and "an altered condition". The word "alter" is defined as follows:
+1. To make otherwise or different in some respect, without changing the thing itself, to modify.
+[12] The debate between the parties was whether Mrs. Lair substantially renovated her residence. Respondent's counsel argued that if there was renovation, it was not substantial, relying on the word "substantial" to indicate that at least 90% of the structure had to be renovated. The total area of the residence, excluding the basement, was 1664 square feet. The living room was 126 square feet; the upstairs was 366 square feet.
+[13] After the trial I requested the parties send me their submissions whether Mrs. Lair "constructed", if she did not "substantially renovate", her residence. I was concerned that the final result of the work undertaken may be considered the construction of a residential complex rather than its renovation or alteration.
+[14] I have studied the many photographs produced by Ms. Cashaback. The work carried on was "substantial" in the true sense of the word. I do not think measuring different parts of the residence and comparing the measures, i.e. parts of the residence that incurred the construction and those which did not, or comparing costs and any increase in value of the residence as a result of the construction, is of any assistance in this particular case. On the facts then before me if a reasonable and neutral observer of the building, before and after construction of the interior and exterior of the building, can conclude that the degree of renovation and alternation was substantial, the definition of "substantial renovation" is satisfied. Mrs. Lair had an old house, ready to collapse, and for practical purposes rebuilt it as a new residence.
+[15] The verb "construct" in paragraph 256(2)(a) is not defined in the Act. In attempting to show that the appellant had not constructed a residential complex, the Minister relied heavily on the reasoning in Erickson v. R.[1] In Erickson the test for whether or not an addition is construction under paragraph 256(2)(a) is:
+"... whether the pre-existing residence has been incorporated into a new residence or whether an addition has been incorporated into a pre-existing residence".[2]
+In that case the taxpayer did not satisfy the test. However, my colleague, Hershfield, J. noted that:
+"... there might be cases where an addition is of such proportion in relation to the existing premises that it can fairly be said that the existing premises has been incorporated into the addition in a manner that makes it appropriate to regard the original premises as effectively having ceased to exist as a residential unit. In such case (sic), a new premises has been constructed and the rebate provision will apply."[3]
+[16] To these comments I would only add that the Act provides no objective criteria by which to distinguish construction from that which is not construction. The point of distinction between the two is arbitrary, and it is a subjective determination that must be based on the facts in each case.
+[17] I do not believe the degree of renovation by Mrs. Lair is reduced by the fact that a foundation was constructed or a new roof installed. The phrase "other than the foundation, external walls, interior supporting walls, floors, roof and staircases" in subsection 123(1) does not necessarily prevent the Minister from considering renovations or alterations to the foundation or external walls in determining whether 'all or substantially all' of the building was renovated. Rather, it precludes the Minister from requiring renovations to the foundation, various walls, floors, roof and staircases in assessing whether the test has been met.
+[18] In GST Memoranda (New Series) at 19.3.7 Canada Customs and Revenue Agency ("CCRA") sets out some of the factors that CCRA regards as indicative of construction. [4] Briefly, they are: ratio of new to old floor space; relative size of the new construction; number and type of new rooms; degree of annexation; type of changes that had to be made to the exterior and interior of the building; overall cost; and the presence of new systems (e.g. electrical and plumbing).
+[19] While these administrative guidelines are in no way determinative, I agree that they do suggest construction; which must be something more than a simple "addition". These indicators of construction have all been satisfied, each to a greater or lesser extent, in this case. There is no doubt that Mrs. Lair's residence in 2001 is not the same residence she had before 1999. New premises have been constructed; at the least the residence was substantially renovated and altered. Mrs. Lair qualifies for the New Housing Rebate.
+[20] Finally, it appears the application period under paragraph 256(3)(b) may have expired in respect of some of the appellant's otherwise eligible expenditures over and above the initial $67,030.98. Mrs. Lair submitted her application for the New Housing Rebate on July 27, 2001. Both the appellant's agent and counsel for the Minister agree that since Mrs. Lair continued to occupy her residence from the onset of construction, the two-year period within which she had to file an application for their rebate pursuant to subsection 256(3), was the date on which construction first commenced, that is on or about July 27, 1999. That is the date she first occupied the building. An amendment to paragraph 256(3)(b) is pending which will permit a taxpayer to file the rebate application after the due date in exceptional circumstances, and the amendment is worded so as to apply retroactively. This proposed amendment, once passed into law, will be deemed to come into force on December 20, 2002.[5]
+[21] A serious medical condition necessitating major heart surgery and the occupation of the residence during the ordeal of construction would normally qualify as circumstances for the Minister to allow an application after the due date. Unfortunately, however, the proposed amendment cannot assist the appellant now.
+[22] Nevertheless, one of the important policy goals of the Act is that different taxpayers in similar circumstances be treated the same; a taxpayer in the same circumstances as the appellant stands to be treated very differently once the amendment to paragraph 256(3)(b) passes. As a result, it may well be that the appropriate procedure with respect to taxes paid by Mrs. Lair after July 27, 2001 is for her to seek a remission order pursuant to subsection 23(2) of the Financial Administration Act for any amounts that would be eligible for the rebate but for the current wording of subsection 256(3).
+[23] The appeal is allowed with costs.
+Signed at Ottawa, Canada, this 12th day of December, 2003.
+"Gerald J. Rip"
+Rip, J.
+CITATION:
+2003TCC929
+COURT FILE NO.:
+2002-4187(GST)I
+STYLE OF CAUSE:
+Louise D. Lair v. The Queen
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+July 8, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT:
+December 12, 2003
+APPEARANCES:
+Agent for the Appellant:
+Dora Cashaback
+Counsel for the Respondent:
+Jennifer Neill
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1][1] [2001] G.S.T.C. 19, 2001 G.T.C. 309. See also Cousineau v. Canada, [2001] T.C.J. 752, Warnock v. Canada, [1996] T.C.J. No. 1527 and McLean v. Canada, [1998] T.C.J. 435.
+[2] at para. 14.
+[3] at para. 16.
+[4] 19.3.7, Real Property Rebates - Special Issues, 1998, CCRA
+[5] The proposed amendment reads as follows:
+256(3) A rebate under this section in respect of a residential complex shall not be paid to an individual unless the individual files an application for the rebate on or before
+(a) the day (in this subsection referred to as the "due date") that is two years after the earliest of
+(i) the day that is two years after the day the complex is first occupied as described in subparagraph (2)(d)(i),
+(ii) the day ownership is transferred as described in subparagraph (2)(d)(ii), and
+(iii) the day construction or substantial renovation of the complex is substantially completed; or
+(b) such day after the due date as the Minister may allow.

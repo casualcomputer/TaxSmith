@@ -1,0 +1,201 @@
+Title: Jaggi c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26948/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-166-26948-jaggi-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2005-03-10
+
+# Jaggi c. M.R.N.
+
+- Citation: 2005 TCC 166
+- Decision date: 2005-03-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 558, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jaggi c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-10
+Neutral citation
+2005 TCC 166
+File numbers
+2004-4053(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-4053(EI)
+BETWEEN:
+MARKUS JAGGI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_______________________________________________________________
+Appeal heard on February 17, 2005, at Sherbrooke, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Marc-André Martel
+Counsel for the Respondent:
+Anne Poirier
+_______________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is allowed and the decision rendered by the Minister of National Revenue is amended in that the work performed by the Appellant, Markus Jaggi, during the period from June 30 to December 5, 2003, for and on behalf of the family farm, owned by his parents, was not excluded from insurable employment because of a non-arm's length relationship, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of March 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 22nd day of September 2005.
+Aveta Graham, Translator
+Citation: 2005TCC166
+Date: 20050310
+Docket: 2004-4053(EI)
+BETWEEN:
+MARKUS JAGGI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from the decision dated September 21, 2004, through which the Minister of National Revenue (the "Minister") determined that the work performed by Markus Jaggi during the period from June 30 to December 5, 2003, for and on behalf of the family farm, owned by his parents, was excluded from insurable employment because of a non-arm's length relationship.
+[2] The facts assumed in support of the decision were listed in the Reply to Notice of Appeal. They are as follows:
+5. The Appellant and the Payor are related persons within the meaning of the Income Tax Act because:
+(a) Hanna Kunz Jaggi and Werner Jaggi (the Payors) operated a dairy farm under the company name "Ferme Seeblick Enr.";
+(b) the Payors were the sole owners of the company;
+(c) the Payors are the Appellant's parents;
+(d) the Appellant is related to the Payors.
+6. The Minister determined that the Appellant and the Payor were not dealing with each other at arm's length with regard to the employment. In fact, the Minister was persuaded that it was reasonable to conclude that the Appellant and the Payor would not have entered into a substantially similar contact of employment if they had been dealing with each other at arm's length given the following circumstances:
+(a) the Payors operated a 150-head dairy farm and grew various crops to feed their herd;
+(b) the Appellant had regularly rendered services on the family farm since 1988;
+(c) when he was in school, he rendered services during the evenings and on weekends;
+(d) the Appellant completed his studies in 2002 and was then allegedly hired as a day labourer on the Payor's farm;
+(e) the appellant was not entered on the Payor's payroll until June 30, 2003;
+(f) in his 2002 income tax return, the Appellant declared $7,800 in farming income;
+(g) the Appellant's main tasks included milking the cows in the morning and evening, and the mechanical maintenance of all the farm machinery and helping in the fields;
+(h) the appellant submits that, during the period at issue, he worked seven days a week for a total of 60 to 70 hours per week without calculating the hours he actually worked;
+(i) during the period at issue, the Appellant lived with his parents (the Payors) without paying board;
+(j) during the 23-week period at issue, the Appellant claims that he received net weekly wages of $250 while, for the whole period, he only received three cheques totalling $2,500 from the Payors, which is the equivalent of 10 weeks of wages;
+(k) the Appellant was entered on the Payor's payroll until December 5, 2003, whereas the Payors had sold the farm animals on October 31 and there was no more work on the farm after the sale of the animals;
+(l) In November 2003, the Appellant went to Switzerland with his parents for three weeks while he was still entered on the Payor's payroll;
+(m) the Appellant rendered services for the Payors before the period at issue;
+(n) the period allegedly worked by the Appellant does not coincide with the period during which he actually worked.
+[3] To meet his burden of proof, the Appellant had his mother and the company's accountant testify. The facts set out in subparagraphs (a), (b), (c) and (d) of paragraph 5, and subparagraphs (a) to (i), (k), (l) and (m) of paragraph 6, have been proven correct and consistent with the evidence.
+[4] The Jaggi family had operated a dairy farm for a number of years under the company name "Ferme Seeblick Enr." It was a large farm specializing in milk production. Given the significance of that production, all the family members contributed and worked together very actively. There were about 150 dairy cows on the farm; it also produced main elements of the food necessary for the herd.
+[5] When the children were younger, the family used external employees, that is, third parties, to perform all the work necessary for the proper operation of the family farm. One of those employees was Mr. Labrecque who received $300 net per week and was entitled to use a residence on the premises free of charge. There were also some difficulties in finding competent and reliable workers.
+[6] All of the members of the Jaggi family worked on the farm; on occasion, the work to be done required the hiring of a worker who was not a member of the family.
+[7] In general, all of the work related to the maintenance and repair of the farm machinery was performed by specialized companies operating in their region.
+[8] The Appellant completed his studies in mechanics; after he acquired the knowledge required to assume most of the work related to the maintenance and repair of the machinery, his parents decided to retain his services in a more formal manner after Mr. Labrecque ceased to work for the farm.
+[9] At the end of his studies, the Appellant was more available and had greater expertise that was very useful and interesting for the proper operation of the family farm.
+[10] The Appellant's mother explained that there was a lot of work to be done on the farm and that it was very demanding. Despite all efforts, it was never cost effective. She and her husband, the owners of the farm, had to deal with a number of problems including mad cow which seems to have had a devastating effect on the farm's finances to the point where the owners had to sell their farm. At that point, the Appellant apparently mentioned the precariousness of his situation and the fact that he wanted to leave the family farm and find work elsewhere.
+[11] When his parents made the irreversible decision to sell the farm following numerous problems, some of which had a considerable effect on the sustainability of the farm, the Appellant formally expressed and demonstrated his intention to leave the farm and find work elsewhere given that he had attractive skills that were very sought after in that region at the time.
+[12] To keep the Appellant, the parents apparently then agreed to make the work conditions official so that he could have acceptable work conditions, even comparable to what he would have gotten if he had left the farm to work elsewhere.
+[13] Upon reading the assumed facts, the conclusion is that the Appellant had very special work conditions, clearly shaped by the non-arm's length relationship.
+[14] I refer in particular to subparagraphs 6(i), (j), (k), (l), (m) and (n), which it is appropriate to reproduce for ease of reading:
+6 . . .
+(i) during the period at issue, the Appellant lived with his parents (the Payors) without paying board;
+(j) during the 23-week period at issue, the Appellant claims that he received net weekly wages of $250 while, for the whole period, he only received three cheques totalling $2,500 from the Payors, which is the equivalent of 10 weeks of wages;
+(k) the Appellant was entered on the Payor's payroll until December 5, 2003, whereas the Payors had sold the farm animals on October 31 and there was no more work on the farm after the sale of the animals;
+(l) In November 2003, the Appellant went to Switzerland with his parents for three weeks while he was still entered on the Payor's payroll;
+(m) the Appellant rendered services for the Payors before the period at issue;
+(n) the period allegedly worked by the Appellant does not coincide with the period during which he actually worked.
+[15] The Minister also assumed that the Appellant had received preferential treatment because he did not pay board.
+[16] However, the Appellant could very well have worked elsewhere and lived with his parents without paying board. That element can be better explained by the non-arm's length relationship than by an indirect compensation for work performed. It is not unusual that children live with their parents without paying board when they are working elsewhere.
+[17] Furthermore, the evidence has shown that when the Appellant's parents hired a third party, namely Mr. Labrecque, they provided him with free lodging, thus refuting the Respondent's interpretation.
+[18] Those two elements therefore discredit the importance and relevance of this assumed fact.
+[19] At subparagraph 6(j), it is assumed that the Appellant only received $2,500, which equals ten weeks of work. That interpretation results from the absence of cheques for part of the period. The Appellant's mother stated that her son had always been paid, either by cheque, in cash or as an advance, even though she acknowledged that there may have been some delays because of their financial problems.
+[20] At subparagraph 6(k), it is indicated that the Appellant's parents had sold the farm on October 31 and that after that date there was no longer any work because the animals had been sold. The Minister himself assumed that the description of the Appellant's duties had a mechanical component for which he assumed responsibility; his conclusion that the sale of the animals resulted in the total disappearance of the point of the Appellant's work is therefore somewhat weak.
+[21] Furthermore, the evidence established that, at the auction, the Jaggis had repurchased some tractors and that they had obtained a contract from the person who bought the land, Mario Côté, for maintenance of the premises.
+[22] The accountant indicated that he knew that an invoice had been sent to Mario Côté for the performance of work, part of which had been performed by the Appellant.
+[23] At subparagraph 6(m), the Respondent mentions a three-week trip while the Appellant was still entered on the payroll.
+[24] The evidence established that the Appellant had been working on the family farm for a few years. Was the 4% vacation pay provided for by provincial laws equivalent to three weeks of vacation? The evidence did not provide an answer. One thing is certain, the Appellant was entitled to vacation time and it was normal that he would be entered on the payroll during the vacation period.
+[25] At subparagraph 6(m), the Respondent indicates that the Appellant rendered services for the Payors. That important fact has not been denied. It was admitted. However, it was used out of context. In fact, the evidence shows that the Appellant had, for a number of years, been associated with the work on the farm, like all the members of the family. At some point, for the reasons mentioned above, the interested parties agreed to define and specify new terms to frame the Appellant's work, thereby disqualifying what had been done before with respect to relevance for the assessment of the contract concluded.
+[26] Lastly, the Respondent argues that the Appellant's alleged period of work does not coincide with the actual period of work. That interpretation is drawn from assumed facts that, according to the evidence submitted at the hearing, are neither accurate nor relevant.
+[27] Not only have a number of facts been distorted because of an incomplete investigation, they have been assessed as a whole and the result obtained was a completely unreasonable conclusion.
+[28] Some elements lead to the conclusion that the Appellant benefited from work conditions that were not totally and absolutely identical to those from which a third party could benefit. However, those advantages or disadvantages were not unreasonable with respect to the very particular context of the file - I am referring in particular to the type of business - but also to the fact that the farm was dealing with problems over which the owners had no control.
+[29] From the outset, it must be kept in mind that a farm is a special business where it is essential that all members of the family help to perform certain tasks that are not necessarily part of a work contract in its traditional form.
+[30] In the case at bar, after reading the important facts assumed the reader arrives at a conclusion that is totally different from the one the reader should arrive at based on the evidence submitted to the Court.
+[31] The evidence has shown that a number of assumed facts had been misinterpreted and often taken out of context.
+[32] The explanations provided were consistent. As to the likelihood and reasonableness, they result from the explanations, but also the undeniable facts that are bonded together such as the importance of the farm, the fatigue caused by the work and the numerous problems including the financial difficulties aggravated by the consequences of the mad cow problem, which aggravated the difficulties with the bank.
+[33] All of the problems and difficulties in a way forced the Jaggi family to sell their farm. Based on this scenario, it was normal and perfectly legitimate that the son and his parents would ask themselves questions and try to reduce the very painful consequences of the sale as much as possible.
+[34] The person responsible for the file, after having noted certain facts that are, I admit, generally determinant, drew hasty and unfounded conclusions. I am referring to the following elements in particular:
+- three weeks of vacation;
+- absence of cheques for part of the period at issue;
+- work after the date the business was sold;
+- free board;
+- services rendered before the period at issue.
+[35] That person made very hasty conclusions and did not take the initiative to ask questions or to investigate further, in which case the person would have undoubtedly made the same findings that the Court made at the hearing.
+[36] Although the evidence does not make it possible to draw a conclusion beyond all doubt, the preponderance of evidence nevertheless leads to a conclusion that is not consistent with that made by the Minister.
+[37] In fact, I do not believe that the determination is still reasonable with regard to the evidence submitted to the Court. The evidence is not perfect, and some aspects of the work contract were somewhat shaped by the non-arm's length relationship; however, I would note that the parties to the work contract had to deal with the very difficult situation of having to sell the farm.
+[38] Faced with that scenario, it was normal and legitimate that the Appellant would ask himself questions and want to safeguard his future in that he compromised with his parents whose independence and freedom were significant reduced by the financial problems.
+[39] I do not believe that all these circumstances and particularities were to be ignored during the analysis. I have already stated that it would be totally unrealistic to have to determine the presence of perfect similarity to benefit from the exception set out in the Act where the relationship is not at arm's length.
+[40] In that regard, it seems useful to review some excerpts from important decisions on this matter. I am referring in particular to the passages in the following cases.
+[41] First, in support of that interpretation, there are the words used by Marceau J. himself in affirming the following at paragraphs 3 and 4 of Légaré v. Canada (Minister of National Revenue - M.N.R.) (1999), 246 N.R. 176, No. A-392-98, May 28, 1999 (F.C.A.):
+3 While the applicable principles for resolving these problems have frequently been discussed, judging by the number of disputes raised and opinions expressed, the statement of these principles has apparently not always been completely understood. For the purposes of the applications before us, we wish to restate the guidelines which can be drawn from this long line of authority, in terms which may perhaps make our findings more meaningful.
+4 The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[Emphasis added.]
+[42] In Pérusse F.C.A., No. A-722-97, March 10, 2000, at paragraphs 14 and 15, it reads:
+14 In fact, the judge was acting in the manner apparently prescribed by several previous decisions. However, in a recent judgment this Court undertook to reject that approach, and I take the liberty of citing what I then wrote in this connection in the reasons submitted for the Court:
+The Act requires the Minister to make . . .
+15 The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[Emphasis added.]
+[43] In Quigley Electric Ltd. v. Canada(Minister of National Revenue - M.N.R.), [2003] F.C.J. No. 1789 (QL), 2003 FCA 461, No. A-47-03 on November 28, 2003, Malone J. indicated the following at paragraphs 7 and 8 of his reasons:
+7 A legal error of law is also said to have been committed when the Judge failed to apply the legal test outlined by this Court in Légaré v. Canada (Minister of National Revenue) (1999) 246 N.R. 176 (F.C.A.) and Perussev. Canada (2000) 261 N.R. 150 (F.C.A.). That test is whether, considering all of the evidence, the Minister's decision was reasonable.
+8 Specifically, it is argued that the Judge circumscribed the scope of his review function when, after finding that the Minister clearly did not have all the facts before him he stated:
+. . . That is not to say that on reviewing new information, I am then precluded from finding that the Minister did not have, after all, sufficient information to exercise his mandate as he did without my interference. This would simply mean that I have found that the new factors not considered were not relevant.
+[Emphasis added.]
+[44] Malone J. determined the following in that case:
+10 In my analysis, the Judge correctly followed the approach advanced by this Court in Canada (A.G.) v. Jencan Ltd. [1998] 1 F.C. 187 (C.A.), namely, that the Minister's exercise of discretion under paragraph 5(3)(b) can only be interfered with if she acted in bad faith, failed to take into account all relevant circumstances or took into account an irrelevant factor.
+[45] In Canada(Attorney General) v. Jencan Ltd., [1998] 1 F.C. 187 (F.C.A.) the Federal Court of Appeal stated the following:
+31 The decision of this Court in Tignish, supra, requires that the Tax Court undertake a two-stage inquiry when hearing an appeal from a determination by the Minister under subparagraph 3(2)(c)(ii). At the first stage, the Tax Court must confine the analysis to a determination of the legality of the Minister's decision. If, and only if, the Tax Court finds that one of the grounds for interference are established can it then consider the merits of the Minister's decision. As will be more fully developed below, it is by restricting the threshold inquiry that the Minister is granted judicial deference by the Tax Court when his discretionary determinations under subparagraph 3(2)(c)(ii) are reviewed on appeal. Desjardins J.A., speaking for this Court in Tignish, supra, described the Tax Court's circumscribed jurisdiction at the first stage of the inquiry as follows:
+Subsection 71(1) of the Act provides that the Tax Court has authority to decide questions of fact and law. The applicant, who is the party appealing the determination of the Minister, has the burden of proving its case and is entitled to bring new evidence to contradict the facts relied on by the Minister. The respondent submits, however, that since the present determination is a discretionary one, the jurisdiction of the Tax Court is strictly circumscribed. The Minister is the only one who can satisfy himself, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions and importance of the work performed, that the applicant and its employee are to be deemed to deal with each other at arm's length. Under the authority of Minister of National Revenue v. Wrights' Canadian Ropes Ltd., contends the respondent, unless the Minister has not had regard to all the circumstances of the employment (as required by subparagraph 3(2)(c)(ii) of the Act), has considered irrelevant factors, or has acted in contravention of some principle of law, the court may not interfere. Moreover, the court is entitled to examine the facts which are shown by evidence to have been before the Minister when he reached his conclusion so as to determine if these facts are proven. But if there is sufficient material to support the Minister's conclusion, the court is not at liberty to overrule it merely because it would have come to a different conclusion. If, however, those facts are, in the opinion of the court, insufficient in law to support the conclusion arrived at by the Minister, his determination cannot stand and the court is justified in intervening.
+In my view, the respondent's position is correct in law . . . .
+[46] In the case at bar, I believe that if the Appellant had been a third party in a substantially similar situation, he could have had a work contract with comparable terms.
+[47] For those reasons, I allow the appeal and determine that the work performed by the Appellant, during the period from June 30 to December 5, 2003, met the requirements to benefit from the exception set out in the Act.
+Signed at Ottawa, Canada, this 10th day of March 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 22nd day of September.
+Aveta Graham, Translator
+CITATION:
+2005TCC166
+COURT FILE NO.:
+2004-4053(EI);
+STYLE OF CAUSE:
+Markus Jaggi v. The MNR
+PLACE OF HEARING:
+Sherbrooke, Quebec
+DATE OF HEARING:
+February 17, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+March 10, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Marc-André Martel
+Counsel for the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Appellant:
+Counsel:
+Firm:
+City:
+Marc-André Martel
+Martel, Brassard, Doyon
+Sherbrooke, Quebec
+For the Respondent:
+John H. Sims, QC
+Deputy Minister of Justice
+and Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,121 @@
+Title: Clackett v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27998/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-499-27998-clackett-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-09-21
+
+# Clackett v. The Queen
+
+- Citation: 2007 TCC 499
+- Decision date: 2007-09-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1780, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clackett v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-21
+Neutral citation
+2007 TCC 499
+File numbers
+2006-2942(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2942(IT)I
+BETWEEN:
+PAUL STEVEN CLACKETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on July 4, 2007, at Windsor, Ontario,
+By: The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Steven Leckie
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments of tax made under the Income Tax Act for the 1997 and 1998 taxation years are dismissed.
+Signed at Ottawa, Canada, this 21st day of September, 2007.
+“C.H. McArthur”
+McArthur J.
+Citation: 2007TCC499
+Date: 20070921
+Docket: 2006-2942(IT)I
+BETWEEN:
+PAUL STEVEN CLACKETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These appeals are from arbitrary assessments by the Minister of National Revenue (“Minister”), pursuant to subsection 152(7) of the Income Tax Act, for the Appellant’s 1997 and 1998 taxation years. The Appellant disputes expenses disallowed by the Minister for a bad debt and legal and accounting fees in 1997 of $33,572 and $13,642, respectively, and in 1998 for legal and accounting fees of $13,493.
+[2] The Appellant operated an electrical contracting business under the name “R.C.I. Electrical” as a sole proprietor. He represented himself in this appeal. In 1994 he entered into a subcontract with Concorde Construction Services Ltd. to provide electrical services to Concorde, the primary contractor, building a school in Leamington, Ontario. Several lawsuits were commenced in 1996 against and by the Appellant, including his claim against Concorde for $70,188.95.
+[3] The Respondent submits, amongst other things, that the Appellant’s claim or cross-claim against Concorde with regard to the bad debt, was settled. Reference is made to Minutes of Settlement of July 1997 (Exhibit A-1) being the Appellant’s bundle of documents. This was not strongly pursued. It is unlikely that the Appellant would proceed with extensive legal actions, spend thousands of dollars in fees, enter a settlement agreement that includes a release to Concorde for all actions, etc.[1] while silently accepting that Concorde owed him $33,572 which was uncollectible. The settlement documents are inconclusive,[2] and I will deal with other matters.
+[4] During the hearing, it was difficult to follow the Appellant’s submissions. In December 2005 an accountant, then representing him, clearly set out the Appellant’s position. In a letter to Canada Revenue Agency, he stated in part:
+Bad Debt
+The Auditor’s letter states that since a settlement was reached with Concorde (the General Contractor), there is no bad debt. Her file notes further indicate that the lawsuit had nothing to do with the bad debt, and the debt was bad long before 1997.
+The chronology of events were as follows:
+· Clackett was a sub contractor for Concorde for which the performance of services spanned a period from July 1994 to September 1995 (date of substantial completion was June 1995).
+· On or about April 1995, Clackett was experiencing difficulty collecting from Concorde and by June 1995 temporarily walked off the job in protest.
+· As a prudent businessman, Clackett resumed his contractual efforts under what he believed was a new verbal arrangement. Material was to be supplied to the job site, installed by Clackett with the suppliers invoicing Concorde directly. This was acceptable to Clackett since he was no longer willing to extend additional credit to Concorde and he new he would have a better chance at collecting from Concorde if he completed his work to the substantial completion date.
+· After June 1995, Clackett continued to supply services to deal with clean up and deficiency issues. Such services continued into August and September of 1995 with the intent of collecting on the balance owed by Concorde.
+· During the fall of 1995, Clackett continued his phone call collection efforts with Concorde. At the same time, two suppliers Gordon Ruth & Co. and Guillevin, were also having collection problems. These suppliers’ collection efforts were directed at both Clackett and Concorde.
+· By February 1996, the suppliers filed a claim against Clackett and Concorde. Shortly thereafter, Clackett filed his defense. Further to filing a statement of defense, in the same action, Clackett’s collection effort culminated with a cross claim and third party claim against Concorde for non payment of the amounts owned to him.
+…
+First and foremost, the statement of Clackett having reached a settlement with Concorde needs clarification. The only settlement Clackett is aware of is the one reached in 1997 when he gave up his collection attempt. Since Clackett’s collection effort was part of a series of lawsuits, his settlement with Concorde was part of and conditional upon the settlement reached with the suppliers.
+In a perfect world it would be convenient to suggest that a delinquent receivable from Concorde has nothing to do with being sued by unrelated suppliers for non payment. In Clackett’s case, his collection effort was part and parcel of his cross and third party claims with the suppliers. Accordingly, the cross and third party claims filed in 1996 are directly related to Clackett’s attempt to collect an amount owned to him. It is unreasonable for the Department to assume that because there was no formal collection action filed in 1995, or a single action filed in 1996 prior to actions brought against Clackett by suppliers, that the receivable with Concorde was bad before 1997. Clackett did employ a reasonable approach to collect amounts owed to him. Firstly, he did return to the job site in 1995 to complete the work given he understood he was no longer going to be responsible for certain material delivered by two suppliers (Gordon Ruth & Co. and Guillevin). Please refer to the enclosed copies of time cards to substantiate that Clackett was on the job site after the substantial completion date and performing services up to September 1995. Secondly, please note the collection pattern (per the enclosed bad debt expense schedule) was monthly and starting in April 1995,Concorde was falling behind. Clackett’s action to temporarily walk off the job and negotiate a deal with Concorde to assume responsibility for additional material does not in itself prove that the receivable from Concorde was bad or doubtful at that time. Thirdly, there where on going conversations between Clackett and Concorde with the intent to collect the $33,000 outstanding amount. Please be aware that during the same time period (fall of 1995), there were also collection discussions Clackett became involved in with Gordon Ruth and Guillevin.
+Unfortunately the Appellant’s accountant did not testify.
+[5] The Appellant contends that he has established that a bad debt from Concorde existed in the 1997 taxation year. The Respondent relies on the evidence of the CRA auditor, Margaret Carnegie, who, with others, reviewed the Appellant’s accounting documentation extensively. She testified at length, both during direct examination and cross-examination. Her evidence was impressive. She reviewed the Appellant’s accounting documents (Exhibit A12 – Tab B1 through to Tab B9) and she filed her working papers and synopsis (Exhibit R-2) which were based on the Appellant’s documentation. She concluded that there was nothing owing to the Appellant in 1997. The Minister relies on paragraph 20(1)(p) of the Act which states in part:
+20(1) ... Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer’s income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(p) … the total of
+(i) all debts owing to the taxpayer that are established by the taxpayer to have become bad debts in the year and that have been included in computing the taxpayer’s income for the year or a preceding taxation year, and …[3]
+[6] The onus is on the taxpayer to establish, on the balance of probabilities, before he can deduct a debt, that it became bad in the taxation year (1997); and that it was included in computing his income for the year in question or a previous year. The Appellant has fallen far short of establishing either one of these requirements. He did not establish a bad debt in 1997, nor did he include it in income in a previous year or any year. Further, he did not report it as owing in any year.
+[7] This is not an audit nor am I an auditor but, I am satisfied, on balance of probabilities, that the Appellant has not established a bad debt for the 1997 taxation year nor has he even attempted to establish that the amounts he seeks to deduct were included in his income. In his summation, he states that auditor, Ms. Carnegie, admitted there was a $30,000 bad debt and “The question is in fact whether PST should be deducted and whether or not the additional Guillevin and Gordon Ruth payments should be deducted from the bad debt and double dipped not allowed as expenses in 1997 as well. They’re looking at those particular expenses as Guillevin as deductions from bad debt and they’re also looking at not allowing them as damages in 1997”.[4] My understanding of her evidence was much different. Had she concluded there was a bad debt within the requirements of paragraph 20(1)(p), there probably would have been no appeal. The two sentences in quotation are premised on a finding that there was a $30,000 bad debt. This was never established.
+[8] After reviewing her working papers and other documentation throughout several hours of thorough testimony, she concluded, absolutely, that there was no debt owing to the Appellant in the 1997 taxation year. Her working paper was based on the Appellant’s own documentation. He added that he provided all the documentation requested, and had shown that the lawsuit did exist. This may be accurate, but the fact remains that he did not prove the debt existed in 1997, if at all, nor did he disprove the auditors conclusions that it did not exist in 1997.
+[9] The position of the Respondent with respect to the Appellant’s second claim for deduction of legal and accounting expenses is partly contained in paragraph 10 of the Reply to the Notice of Appeal:
+He … the Appellant is not entitled to deduct additional Legal fees for the 1997 and 1998 taxation years pursuant to paragraph 18(1)(a) of the Act as the Appellant had claimed the expenses in a prior year although the payments in the settlement of the lawsuit were made in 1997 and 1998 …
+[10] The claim for legal fees and accounting of $13,642 in 1997 and $13,493 in 1998 relate to a lawsuit by suppliers for unpaid materials provided to the Appellant for the Concorde project in 1995. The suppliers that sued the Appellant were Gordon Ruth & Co. and Guillevin International Inc. The Appellant had to pay damages to these two suppliers.
+[11] The Respondent submits that the expenditure was not for the purpose of gaining or producing income pursuant to paragraph 18(1)(a) and adds that the Appellant may have already taken the deduction in his 1995 taxation year tax return. This reasoning is consistent with the evidence that the Appellant reports on an accrual basis, reflecting an expense when it is payable and not when it is paid. On this basis, the Appellant would have deducted amounts payable in 1995 when the suppliers’ invoices would have been received. No relevant documentation was presented by the Appellant in this regard.
+[12] In conclusion, the Appellant has not met his burden of proving that he had a deductible $33,572 bad debt in 1997, nor is he entitled to deduct legal and accounting fees of $13,642 in 1997 and $13,493 in 1998. What the Appellant did was deliver boxes of material to the Minister’s auditors with the thought that it is all here and you find it and piece it together. The auditors and, in particular, Ms. Carnegie, spent countless hours trying to put the pieces of the puzzle together, but could not reach the same conclusion as the Appellant.
+[13] The appeals are dismissed.
+Signed at Ottawa, Canada, this 21st day of September, 2007.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2007TCC499
+COURT FILE NO.: 2006-2942(IT)I
+STYLE OF CAUSE: PAUL STEVEN CLACKETT and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: July 4, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: September 21, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Steven Leckie
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1 - Amended Minutes of Settlement (unsigned).
+[2]
+[3] My underlining.
+[4] Page 80, lines 9 to 16 of the Transcript of Proceedings.

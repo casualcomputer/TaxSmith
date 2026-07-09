@@ -1,0 +1,208 @@
+Title: Laurin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27423/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-634-27423-laurin-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-11-30
+
+# Laurin v. The Queen
+
+- Citation: 2006 CCI 634
+- Decision date: 2006-11-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 245, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laurin v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-30
+Référence neutre
+2006 CCI 634
+Numéro de dossier
+2004-1128(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI634
+Date : 20061130
+Dossier : 2004-1128(IT)G
+ENTRE :
+JEAN MAURICE LAURIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Les présents appels visent des cotisations fiscales pour les années d’imposition 1996, 1997, 1998, 1999 et 2000 de l’appelant. Le ministre du Revenu national a établi ces cotisations en tenant pour acquis que l’appelant était un résident canadien. L’appelant soutient qu’il a cessé d’être un résident canadien en 1993 et que, pendant les années frappées d’appel, il résidait aux îles Turks et Caicos (« ITC ») et non au Canada.
+[2] Même si elle reconnaît que l’appelant était résident des ITC pendant les années en cause, l’intimée avance qu’il était également résident canadien durant cette période. Aucune convention fiscale n’a été conclue entre le Canada et les ITC. Les règles relatives aux personnes ayant une double résidence qui sont énoncées dans les traités fiscaux du Canada ne s’appliquent donc pas en l’espèce. Aux fins de l’impôt sur le revenu, nul ne peut être à la fois résident canadien et résident d’un autre pays.
+[3] Un particulier peut être un résident au Canada aux fins de la Loi de l’impôt sur le revenu (la « Loi ») soit parce qu’il est visé par l’une des dispositions déterminatives prévues au paragraphe 250(1) de la Loi (comme le fait d’avoir séjourné au Canada pendant au moins 183 jours), soit parce qu’il tombe sous le coup du paragraphe 250(3), dont voici le texte :
+(3) Dans la présente loi, la mention d’une personne résidant au Canada vise aussi une personne qui, au moment considéré, résidait habituellement au Canada.
+[4] L’expression « vise aussi » au paragraphe 250(3) laisse entendre qu’il pourrait exister une troisième catégorie (non définie) de résidents canadiens qui ne sont réputés être ni des résidents canadiens au sens du paragraphe 250(1), ni des personnes qui « résidai[ent] habituellement au Canada » au sens du paragraphe 250(3). Il est difficile de savoir exactement quelles pourraient être les caractéristiques d’une telle forme de résidence. De toute façon, rien ne permet de conclure que l’appelant est visé par cette catégorie restreinte, mais non définie.
+[5] Quoi qu’il en soit, le ministre a formulé un certain nombre d’hypothèses. Certaines sont dénuées de pertinence à la lumière de l’admission, par l’intimée, du fait que l’appelant était résident aux ITC pendant les années en cause. D’autres sont aussi compatibles avec la non‑résidence qu’avec la résidence, c’est‑à‑dire qu’elles ne permettent de tirer aucune conclusion ni dans un sens ni dans l’autre. De nombreuses hypothèses ne sont pas contestées. Voici les hypothèses avancées dans les actes de procédure :
+[TRADUCTION]
+17. Lorsqu’il a établi une cotisation à l’égard de l’appelant, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+a) l’appelant était, à tous les moments pertinents, un pilote breveté au Canada par l’entremise de Transports Canada et un employé d’Air Canada;
+b) l’appelant a débuté sa carrière chez Air Canada en 1966;
+c) l’appelant a pris sa retraite et quitté Air Canada en date du 1er août 2000;
+d) l’appelant a gagné un revenu d’emploi au Canada de 196 653 $, de 181 989 $, de 206 301 $, de 226 356 $ et de 217 692 $ pour les années d’imposition 1996 à 2000, respectivement;
+e) l’appelant a gagné un revenu en intérêts au Canada de 857 $, de 58 036 $ et de 5 306 $ pour les années d’imposition 1998, 1999 et 2000, respectivement;
+f) l’appelant a gagné un revenu de pension au Canada de 41 640 $ pour l’année d’imposition 2000;
+g) à tous les moments pertinents, l’appelant était citoyen canadien et titulaire d’un passeport canadien;
+h) à tous les moments pertinents, l’appelant était membre de la section canadienne d’une association internationale des pilotes;
+i) l’appelant exerçait ses fonctions à partir de Winnipeg, de Toronto et de Vancouver, respectivement, pendant les années d’imposition en cause;
+j) l’appelant soutient qu’il a déménagé au Belize au printemps 1993;
+k) l’appelant a établi certains liens de résidence avec les îles Turks et Caicos à partir d’avril 1996;
+l) l’appelant s’est procuré des cartes de séjour annuelles aux îles Turks et Caicos;
+m) à partir de 1996, l’appelant, avec deux autres pilotes de ligne, a loué un appartement meublé aux îles Turks et Caicos;
+n) l’appelant n’a emporté aucun ameublement aux îles Turks et Caicos;
+o) l’appelant et M. Yves Bissonnette ont acheté ensemble un véhicule au Canada pour la somme de 10 000 $; ils l’ont conduit jusqu’en Floride, puis expédié aux îles Turks et Caicos;
+p) le seul bien d’une quelconque importance acheté par l’appelant aux îles Turks et Caicos pendant les années d’imposition en cause consiste en un téléviseur de 19 pouces payé 385 $US qui a servi à remplacer celui que M. Bissonnette et lui ont abîmé;
+q) l’appelant n’a pas utilisé son adresse postale aux îles Turks et Caicos;
+r) l’appelant était abonné à un service américain de téléphone cellulaire pendant les années d’imposition commençant aux alentours de 1997 et se terminant en 2000;
+s) l’appelant était divorcé pendant toutes les années d’imposition et il a deux anciennes épouses;
+t) l’appelant a trois fils, Guy, Stéphane et Sacha, lesquels sont nés en 1959, en 1970 et en 1974, respectivement;
+u) les trois fils de l’appelant vivent tous dans la province de Québec;
+v) l’appelant a deux frères et trois sœurs;
+w) on sait que quatre des frères et sœurs de l’appelant vivent dans la province de Québec;
+x) l’appelant vivait en union de fait avec Paule Darveau pendant les années d’imposition en cause;
+y) l’appelant et Paule Darveau ont construit ensemble une maison à Saint‑Lazare (Québec) en 1988 et en 1989;
+z) la maison de Saint‑Lazare (Québec) est demeurée à la disposition de l’appelant pendant les années d’imposition en cause;
+aa) à tous les moments pertinents, l’appelant a participé à un régime d’assurance dentaire canadien, à un régime d’assurance maladie complémentaire et à un régime d’assurance‑vie par l’entremise de son employeur;
+bb) à tous les moments pertinents, l’appelant a cotisé au Régime de pensions du Canada et à l’assurance‑emploi;
+cc) l’appelant a continué de retenir les services de spécialistes en déclarations de revenus, d’avocats et de médecins canadiens pendant les années d’imposition en cause;
+dd) l’appelant a détenu un compte bancaire canadien à la Caisse Populaire, au Québec, jusqu’au 9 septembre 1996;
+ee) à tous les moments pertinents, l’appelant détenait un compte bancaire canadien à la Banque Royale du Canada à Montréal;
+ff) à tous les moments pertinents, les chèques de paye de l’appelant étaient déposés dans son compte à la Banque Royale du Canada;
+gg) à tous les moments pertinents, l’appelant détenait un compte REER autogéré à la Banque Royale du Canada;
+hh) l’appelant a ouvert un compte de chèques à la Banque Barclays aux îles Turks et Caicos en 1996;
+ii) l’appelant a ouvert un compte chez RBC Dominion Valeurs mobilières en avril 1998;
+jj) l’appelant a commencé à utiliser régulièrement une carte de crédit Visa Or de la Banque Royale du Canada à partir de juillet 1996;
+kk) l’appelant était également titulaire d’une carte Visa Desjardins émise par la Caisse Populaire, au Québec, mais cette carte a été annulée en juillet 1996;
+ll) pendant les années d’imposition 1996 à 2000, l’appelant a passé 223, 204, 163, 188 et 195 jours au Canada, respectivement;
+mm) pendant les années d’imposition 1996 à 2000, l’appelant a passé 68, 104, 131, 101 et 44 jours aux îles Turks et Caicos, respectivement;
+nn) l’appelant n’a jamais rompu ses liens de résidence avec le Canada.
+[6] Parmi les hypothèses susmentionnées, il y a en cinq qui, à mon avis, sont cruciales au regard des cotisations. Les voici :
+[TRADUCTION]
+x) l’appelant vivait en union de fait avec Paule Darveau pendant les années d’imposition en cause;
+y) l’appelant et Paule Darveau ont construit ensemble une maison à Saint‑Lazare (Québec) en 1988 et en 1989;
+z) la maison de Saint‑Lazare (Québec) est demeurée à la disposition de l’appelant pendant les années d’imposition en cause;
+ll) pendant les années d’imposition 1996 à 2000, l’appelant a passé 223, 204, 163, 188 et 195 jours au Canada, respectivement;
+nn) l’appelant n’a jamais rompu ses liens de résidence avec le Canada.
+[7] J’estime que ces hypothèses ont été réfutées pour les raisons suivantes.
+[8] Au moment de sa retraite, l’appelant était chef pilote chez Air Canada. En 1988 et en 1989, il a construit une maison à Saint‑Lazare (Québec). Il avait divorcé deux fois et, à la fin des années 80, il a entamé une relation avec Paule Darveau, qui a mis fin à une relation précédente. En 1990, Paule Darveau a déménagé à la maison de Saint‑Lazare avec l’appelant. Elle possédait une certaine somme d’argent qui lui venait de l’héritage de son père et du produit de la vente d’une maison située à Montréal qui lui appartenait. Elle a remboursé le prêt grevant la maison de Saint‑Lazare au constructeur et elle est devenue propriétaire de la moitié de ce bien. Elle a investi 160 000 $ ou peut‑être 180 000 $ dans la maison.
+[9] La relation a pris fin en 1993. Il est inutile que j’entre dans les détails de leur séparation. Je suis disposé à conclure qu’il s’agissait d’une véritable séparation et non d’une séparation fictive motivée par des considérations fiscales. L’appelant a demandé à Mme Darveau de l’accompagner à l’étranger, mais elle a refusé. Après le départ de l’appelant, il semble qu’il n’y ait eu aucune communication entre eux jusqu’à novembre 1996 et ce n’était pas à la maison de Mme Darveau. Leurs rapports semblent avoir été plutôt distants.
+[10] Lorsque l’appelant est parti en 1993, il a vendu sa moitié indivise de la maison et de l’ameublement à Mme Darveau pour la somme d’un dollar. Il a annulé son assurance maladie et son assurance automobile, il a échangé son permis de conduire contre un permis des États‑Unis, il a vendu sa Ford Bronco en 1994 et il a fermé tous ses comptes bancaires canadiens, à l’exception de ceux dont Air Canada avait besoin pour le dépôt de ses chèques de paye.
+[11] L’appelant a rempli deux grosses valises et est parti pour le Belize. Arrivé à destination, il a loué une chambre et n’a jamais acheté d’automobile. En 1996, il a déménagé aux ITC. Il y a loué un appartement meublé avec deux autres pilotes. Il a ouvert un compte à la Banque Barclays locale et il a constitué une société. Il a ouvert un compte chez RBC Dominion Valeurs mobilières dans une succursale de la Floride. En raison de l’incertitude du service postal aux ITC, il faisait parvenir son courrier à l’adresse d’un ami proche établi en Floride. L’appelant a également souscrit une assurance auprès de deux sociétés anglaises (BUPA et Lloyd’s) ainsi que de John Engle, une compagnie d’assurance située à Vancouver (C.‑B.). Pendant toute cette période, l’appelant a continué de travailler pour Air Canada en faisant la navette entre ces divers lieux et le lieu à partir duquel il devait décoller.
+[12] Pendant les années d’imposition en cause, l’appelant est retourné à Montréal à plusieurs reprises. Il a affirmé qu’il était plus facile de s’envoler pour la Floride à partir de Montréal que de Toronto. Ce témoignage a été mis en doute pendant le contre‑interrogatoire lorsqu’on a signalé que Toronto offrait davantage de vols à destination de la Floride.
+[13] L’appelant avait de la famille et des amis vivant à Montréal et dans les environs. Il avait également des amis en Floride ainsi que quelques collègues aux ITC. Pendant toutes les années d’imposition en cause, l’appelant, lorsqu’il venait à Montréal, demeurait chez l’un de ses trois amis, de quelques jours à plusieurs semaines. Il emportait toutes les choses nécessaires au cours de ces visites et il ne s’est jamais établi dans aucun de ces endroits. Chaque année, il passait quelque temps dans la région de Montréal de même qu’à Vancouver, à Winnipeg ou à Toronto en raison de ses obligations professionnelles. L’appelant n’a jamais passé plus de 183 jours au Canada pendant l’une ou l’autre des années d’imposition en cause. Il avait un logis et des placements financiers aux ITC. Il avait une adresse postale, un permis de conduire et des liens financiers en Floride. De plus, les obligations professionnelles et les relations sociales qu’il avait au Canada de même que les services professionnels qu’il obtenait ici constituaient des liens avec le Canada.
+[14] Pour 1993, 1994 et 1995, il a produit des déclarations de revenu et a fait l’objet de cotisations à titre de non‑résident du Canada. Pendant les années en cause, il a demandé et obtenu que ses itinéraires de vol soient modifiés de sorte qu’il puisse délaisser les vols intérieurs pour les vols internationaux, en particulier ceux à destination de l’Asie du Sud‑Est. Il a donc obtenu de nouvelles affectations à Vancouver et à Winnipeg.
+[15] Il est sans aucun doute possible pour l'employé d’une société canadienne d’être un non‑résident canadien aux fins de l’impôt. On peut bien être né au Canada, avoir conservé sa citoyenneté canadienne et un passeport canadien, et même avoir de la famille au Canada, et néanmoins rompre tous les liens pertinents avec le Canada et donc être considéré comme non‑résident.
+[16] J’ai mentionné plus haut qu’à mon avis, l’appelant a réfuté les cinq hypothèses essentielles formulées aux alinéas x), y), z), ll) et nn).
+[17] La maison de Saint‑Lazare n’a jamais été à sa disposition pendant les années en cause. Selon son témoignage et celui de Mme Darveau, lesquels ne sont pas contestés, il n’a pas habité à cet endroit pendant cette période. Mme Darveau a voyagé avec lui à partir de 1997 et a visité diverses régions du globe grâce au laisser‑passer qu’il détenait à titre de capitaine d’Air Canada, mais quel qu’ait été le degré d’intimité existant entre eux, le cas échéant (elle avait un autre petit ami en 1997 et en 1998), il n’équivalait pas à une union de fait au Canada.
+[18] En ce qui concerne la règle des 183 jours de séjour, l’intimée reconnaît que le nombre de jours mentionné à l’alinéa ll) des hypothèses est erroné et que, même avec la propre méthode de calcul de la Couronne (qui consiste à considérer chaque partie de journée comme un jour, y compris le jour de l’arrivée et celui du départ), l’appelant n’a pas séjourné au Canada pendant plus de 183 jours au cours de l’une ou l’autre des années en cause. Avec la méthode suivie par le juge Rip dans la décision Hauser v. The Queen, [2005] 4 C.T.C. 2260, selon laquelle le jour de l’arrivée n’est pas compté, le nombre total de jours passés par l’appelant au Canada est sensiblement moins élevé. La règle relative au séjour doit avoir constitué le fondement même de la cotisation. Si l’appelant avait passé plus de 183 jours au Canada, cela aurait réglé la question. Le fait qu’il réside habituellement ici ou ailleurs n’aurait aucune importance. Je signale qu’on n’a pas allégué à titre d’hypothèse ou autrement qu’il « résidait habituellement » au Canada. Tout ce qu’on a avancé, outre les hypothèses x), y), z) et ll) qui ont été réfutées, c’est que l’appelant n’a pas rompu ses liens de résidence avec le Canada. J’estime au contraire qu’il l’a fait.
+[19] La Couronne a reconnu que le critère prévu à l’alinéa 250(1)a) de la Loi en ce qui touche le séjour ne joue pas. Il est donc nécessaire de décider si l’appelant avait l’obligation de réfuter l’assertion (et non l’hypothèse) non alléguée dans les actes de procédure voulant qu’il ait « résid[é] habituellement » au Canada, au sens du paragraphe 250(3) de la Loi. Il serait contraire aux règles fondamentales de l’équité applicables aux appels en matière fiscale d’imposer un tel fardeau aux appelants. Les observations de la juge L’Heureux‑Dubé dans l’arrêt Hickman Motors Limited c. La Reine, [1997] 2 R.C.S. 336, 97 DTC 5363 (C.S.C.), sont utiles en l’espèce :
+K. Le fardeau de preuve
+Comme je l’ai signalé, l’appelante a produit une preuve claire et non contredite, alors que l’intimée n’a produit absolument aucune preuve. À mon avis, le droit sur ce point est bien établi et l’intimée ne s’est pas acquittée de son fardeau de preuve pour les raisons suivantes.
+Il est bien établi en droit que, dans le domaine de la fiscalité, la norme de preuve est la prépondérance des probabilités : Dobieco Ltd. c. Minister of National Revenue, [1966] R.C.S. 95, et que, à l’intérieur de cette norme, différents degrés de preuve peuvent être exigés, selon le sujet en cause, pour que soit acquittée la charge de la preuve : Continental Insurance Co. c. Dalton Cartage Co., [1982] 1 R.C.S. 164; Pallan c. M.R.N., 90 D.T.C. 1102 (C.C.I.), à la p. 1106. En établissant des cotisations, le ministre se fonde sur des présomptions : (Bayridge Estates Ltd. c. M.N.R., 59 D.T.C. 1098 (C. de l’É.), à la p. 1101), et la charge initiale de « démolir » les présomptions formulées par le ministre dans sa cotisation est imposée au contribuable (Johnston c. Minister of National Revenue, [1948] R.C.S. 486; Kennedy c. M.R.N., 73 D.T.C. 5359 (C.A.F.), à la p. 5361). Le fardeau initial consiste seulement à « démolir » les présomptions exactes qu’a utilisées le ministre, mais rien de plus : First Fund Genesis Corp. c. La Reine, 90 D.T.C. 6337 (C.F. 1re inst.), à la p. 6340.
+L’appelant s’acquitte de cette charge initiale de « démolir » l’exactitude des présomptions du ministre lorsqu’il présente au moins une preuve prima facie : Kamin c. M.R.N., 93 D.T.C. 62 (C.C.I.); Goodwin c. M.R.N., 82 D.T.C. 1679 (C.R.I.). En l’espèce, l’appelante a produit une preuve qui respecte non seulement la norme prima facie, mais, selon moi, une norme encore plus sévère. À mon avis, l’appelante a « démoli » les présomptions suivantes : a) la présomption de l’existence de « deux entreprises », en produisant une preuve claire de l’existence d’une seule entreprise; b) la présomption qu’il n’y a « aucun revenu », en produisant une preuve claire de l’existence d’un revenu. Il est établi en droit qu’une preuve non contestée ni contredite « démolit » les présomptions du ministre : voir par exemple MacIsaac c. M.R.N., 74 D.T.C. 6380 (C.A.F.), à la p. 6381; Zink c. M.R.N., 87 D.T.C. 652 (C.C.I.). Comme je l’ai déjà dit, aucune partie de la preuve produite par l’appelante en l’espèce n’a été contestée ni contredite. Par conséquent, à mon avis, l’appelante a « démoli » les présomptions sur l’existence de « deux entreprises » et sur le fait qu’il n’y a « aucun revenu ».
+Lorsque l’appelant a « démoli » les présomptions du ministre, le « fardeau de la preuve [. . .] passe [. . .] au ministre qui doit réfuter la preuve prima facie » faite par l’appelant et prouver les présomptions : Magilb Development Corp. c. La Reine, 87 D.T.C. 5012 (C.F. 1re inst.), à la p. 5018. Ainsi, dans la présente affaire, la charge est passée au ministre, qui doit prouver ses présomptions suivant lesquelles il existe « deux entreprises » et il n’y a « aucun revenu ».
+Lorsque le fardeau est passé au ministre et que celui‑ci ne produit absolument aucune preuve, le contribuable est fondé à obtenir gain de cause : voir par exemple MacIsaac, précité, où la Cour d’appel fédérale a infirmé le jugement de la Division de première instance (à la p. 6381) pour le motif que le « témoignage n’a été ni contesté ni contredit, et aucune objection ne lui a été opposée ». Voir aussi Waxstein c. M.R.N., 80 D.T.C. 1348 (C.R.I.); Roselawn Investments Ltd. c. M.R.N., 80 D.T.C. 1271 (C.R.I.). Se reporter également à Zink, précité, à la p. 653, où, même si la preuve « échappait à la logique et présentait de graves lacunes de fond et de chronologie », l’appel du contribuable a été accueilli parce que le ministre n’a présenté aucune preuve quant à la source de revenu. Dans la présente affaire, je remarque que la preuve ne contient aucune « lacune » de ce genre. Par conséquent, puisque le ministre n’a produit absolument aucune preuve et que personne n’a soulevé le moindre doute quant à la crédibilité, l’appelante est fondée à obtenir gain de cause.
+[20] Dans l’arrêt The Queen v. Bowens, 96 DTC 6128, le juge Hugessen mentionne ce qui suit à la page 6129 :
+[...] les hypothèses non plaidées ne peuvent avoir aucun effet sur le fardeau de la preuve dans un sens ou dans l’autre. [...]
+[21] Selon la jurisprudence Fisher v. Canada, [1995] 1 C.T.C. 2011, 95 DTC 840, lorsque le critère prévu par la règle du séjour ne joue pas, il faut, conformément au paragraphe 250(3) de la Loi, décider si l’appelant « résidait habituellement » au pays au moment considéré, comme c’était le cas dans la décision Hauser, précitée. Cela est vrai si on soulève ce point dans la réponse à titre d’hypothèse ou d’assertion. Or, on ne l’a pas fait en l’espèce. Même dans le cas contraire, et peu importe à qui incombe le fardeau de la preuve, il ressort de la preuve dont je suis saisi que l’appelant ne « résidait [pas] habituellement » au Canada de 1996 à 2000.
+[22] Dans la récente décision Hauser, la Cour a conclu qu’un pilote d’Air Canada était effectivement un résident canadien même si lui et son épouse s’étaient établis et résidaient aux Bahamas. Bien qu’elle se soit interrogée sur la façon de déterminer en quoi consiste un jour en vue de décider si l’appelant était un résident réputé, la Cour s’est néanmoins appuyée sur l’analyse relative à la « résidence habituelle » pour conclure que M. Hauser était un résident.
+[23] Dans la décision Fisher, j’ai tenté de résumer les différences entre les expressions « séjourné » et « résidait habituellement » qui ont été exposées dans l’arrêt Thomson v. Minister of National Revenue, [1946] S.C.R. 209, [1946] C.T.C. 51, 2 DTC 812. Le juge Estey a fait les observations suivantes au paragraphe 71 de cet arrêt :
+[TRADUCTION]
+[71] D’après le dictionnaire et d’après l’interprétation que les tribunaux donnent de ces termes, un individu est « résident habituel » du lieu où, dans sa vie de tous les jours, il habite d’une manière régulière, normale ou habituelle. On « séjourne » à un endroit que l’on visite ou dans un lieu où l’on demeure exceptionnellement, occasionnellement ou par intermittence. Dans le premier cas, c’est le caractère permanent qui prédomine, et dans le second, le caractère temporaire. La différence ne peut être exprimée d’une manière claire et nette, chaque cas devant être déterminé compte tenu de tous les facteurs pertinents, mais ce qui précède indique d’une façon générale la différence essentielle. Ce n’est pas la longueur de la visite ou du séjour qui détermine la question. Même la période de 183 jours prévue à l’alinéa 9b) de la présente loi ne détermine pas si la personne séjournait ou non en un lieu; elle détermine simplement si la personne ayant séjourné doit ou non payer de l’impôt.
+[72] Les observations que le vicomte Summer a formulées dans le jugement Inland Revenue Commissioners v. Lysaght, (1928) A.C. 234, à la page 243, fournissent une indication :
+Le terme « habituel » s’oppose à « inhabituel », et la partie des habitudes de vie qu’une personne adopte volontairement et de manière à s’installer n’a aucun caractère « inhabituel ».
+Lord Buckmaster, avec qui lord Atkinson s’est dit d’accord dans le même jugement, a déclaré à la page 248 :
+[...] si une personne est résidente une fois qu’elle est installée, l’expression « résident habituel » signifie simplement d’après moi que la résidence n’est pas occasionnelle et incertaine et que la personne réputée résider en un lieu y réside dans le cours normal de sa vie.
+[...]
+[74] Il est bien établi qu’une personne peut avoir plus d’une résidence; par conséquent, le fait que l’appelant ait une résidence à Pinehurst ou à Belleair n’a pas d’utilité ou d’influence en ce qui concerne le règlement de cette question.
+[24] Au paragraphe 47, le juge Rand poursuit ainsi :
+[TRADUCTION]
+[47] La progression par degrés en ce qui concerne le temps, l’objet, l’intention, la continuité et les autres circonstances pertinentes, montre que, dans le langage ordinaire, le terme « résidant » ne correspond pas à des éléments invariables qui doivent tous être présents dans chaque cas donné. Il est tout à fait impossible d’en donner une définition précise et applicable à tous les cas. Ce terme est très souple, et ses nuances nombreuses varient non seulement suivant le contexte de différentes matières, mais aussi suivant les différents aspects d’une même matière. Dans un cas donné, on y retrouve certains éléments, dans d’autres, on en trouve d’autres dont certains sont fréquents et certains autres nouveaux.
+[48] L’expression « résidence habituelle » a un sens restrictif et, alors qu’à première vue elle implique une prépondérance dans le temps, les décisions rendues en vertu de la loi anglaise ont rejeté ce point de vue. On a jugé qu’il s’agit de résidence au cours du mode habituel de vie de la personne en question, par opposition à une résidence spéciale, occasionnelle ou fortuite. Pour appliquer le critère de la résidence habituelle, il faut donc examiner le mode général de vie.
+[49] Aux fins de la législation de l’impôt sur le revenu, il est nécessaire de considérer que chaque personne a, en tout temps, une résidence. Il n’est pas nécessaire à cet effet qu’elle ait une maison ni un endroit particulier où elle demeure, ni même un abri. Elle peut dormir en plein air. Ce qui importe seul, c’est de déterminer dans l’espace les limites dans lesquelles elle passe sa vie ou auxquelles se rattache ce mode de vie ordonné ou coutumier. La meilleure façon d’apprécier la résidence habituelle est d’en examiner l’antithèse, la résidence occasionnelle, temporaire ou extraordinaire. Cette dernière semble nettement être non pas seulement temporaire et exceptionnelle quant à ses circonstances, mais s’accompagne également d’une notion de caractère provisoire et de retour.
+[50] Mais dans les différentes situations de prétendues « résidences permanentes », « résidences temporaires », « résidences habituelles », « résidences principales » et ainsi de suite, les adjectifs n’influent pas sur le fait qu’il y a dans tous les cas résidence; cette qualité dépend essentiellement du point jusqu’auquel une personne s’établit en pensée et en fait, ou conserve ou centralise son mode de vie habituel avec son cortège de relations sociales, d’intérêts et de convenances, au lieu en question. Il se peut qu’elle soit limitée en durée dès le début ou qu’elle soit indéterminée, ou bien, dans la mesure envisagée, illimitée. Sur le plan inférieur, les expressions comportant le terme « résidence » doivent être distinguées, comme elles le sont je crois dans le langage ordinaire, du concept de « séjour » ou de « visite ».
+[25] Aux paragraphes 2 et 6, le juge Kerwin a fait les observations suivantes :
+[TRADUCTION]
+[2] Il n’existe dans la Loi aucune définition du terme « résident » ni de l’expression « résidant habituellement », mais on doit leur donner le sens que leur attribue l’usage courant. Lorsqu’on examine une loi fiscale, il est juste de déclarer, je pense, comme l’indique le Standard Dictionary, que les termes « reside » [résider] et « residence » [résidence] sont plus ou moins solennels et ne doivent pas s’employer sans distinction à la place de « vivre », « maison » ou « logis ». Le Shorter Oxford English Dictionary indique que le sens de « reside » [résider] est « habiter en permanence ou pendant un temps considérable, avoir son habitation fixe ou habituelle, vivre, dans un lieu ou en un endroit déterminé ». Selon ce même dictionnaire, « ordinarily » [habituellement] signifie : « 1. En conformité des règles; de façon habituelle. 2. Dans la plupart des cas, couramment, ordinairement. 3. Dans la mesure habituelle. 4. Comme il est normal ou habituel. » D’un autre côté, le sens du terme « sojourn » [séjourner] est donné comme étant « faire un séjour temporaire en un endroit; rester ou résider pendant un certain temps. »
+[...]
+[6] L’appelant tente de se faire considérer comme ayant simplement séjourné au Canada puisqu’il a pris bien soin d’y rester pendant une ou des périodes dont l’ensemble est de moins de 183 jours au cours de chaque année. Il échoue dans cette tentative. Les liens familiaux de son épouse, sinon les siens, le fait qu’il ait construit une grande maison et ait conservé les domestiques et toutes les circonstances entourant cette affaire établissent clairement selon moi que son occupation de la maison et ses activités au Canada débordaient le cadre d’un simple séjour temporaire.
+[26] Le juge Kellock ajoute ce qui suit au paragraphe 60 :
+[TRADUCTION]
+[60] Le terme « ordinarily » [habituellement] est défini comme signifiant « en conformité des règles ou des pratiques ou usages établis », « de façon habituelle », « en temps normal ou ordinaire », « couramment », « ordinairement », « comme il est normal ou habituel ».
+[27] Voici les observations du juge Cartwright dans l’arrêt Beament v. Minister of National Revenue, [1952] 2 S.C.R. 486, [1952] C.T.C. 327, 52 DTC 1183, à la page 1186 :
+[TRADUCTION] La décision quant au lieu ou aux lieux où réside l'intéressé dépend des faits particuliers de l’affaire.
+[28] Dans la décision The Queen v. Reeder, [1975] C.T.C. 256, 75 DTC 5160, le juge Mahoney déclare, au paragraphe 13 :
+[TRADUCTION]
+[13] Quoique le défendeur en l’espèce fût totalement étranger à cette vie de riche désœuvré, et à toute préméditation d’évasion fiscale, les éléments qui servaient dans ces arrêts à déterminer la question de fait de la résidence fiscale, s’appliquent aussi en l’espèce. Ces éléments sont notamment :
+a) le genre de vie passé ou présent;
+b) la régularité et la durée des séjours dans le ressort de la juridiction de la résidence;
+c) les liens dans le ressort de cette juridiction;
+d) les liens en d’autres lieux;
+e) le caractère permanent ou autre des séjours à l’étranger.
+La question des liens dans le ressort de la juridiction de résidence et en d’autres lieux englobe toute la gamme des rapports et des engagements d’une personne : biens et placements, emploi, famille, affaires, liens culturels et mondains en sont des exemples. Tous les éléments ne seront pas retenus dans chaque cas. Ils doivent être considérés à la lumière du postulat que chacun doit avoir une résidence fiscale et qu’un individu peut avoir simultanément plus d’une résidence du point de vue fiscal.
+[29] L’appelant a soutenu que sa situation était différente de celle visée dans l’affaire Hauser au regard des faits pertinents. Il a réfuté les principales hypothèses de fait présentées par la Couronne, particulièrement le fait qu’il pouvait demeurer à la maison qu’il avait antérieurement partagée avec Mme Darveau.
+[30] À la différence de M. Hauser, l’appelant n’avait pas d’adresse postale à Montréal et il n’a éprouvé de sentiment de permanence relativement à aucune des demeures de ses trois hôtes pendant ses séjours à Montréal. De plus, la preuve produite a montré que l’appelant n’avait aucun placement et qu’il ne poursuivait aucune activité commerciale au Canada, contrairement à M. Hauser. Même s’il avait de la famille à Montréal, il voyait rarement ses fils. En outre, ses fils venaient le voir aux ITC. À deux occasions, il a séjourné à Montréal pour des raisons médicales, et une fois à la mort de sa mère.
+[31] Ayant tenté de faire renaître la thèse de la Couronne des cendres auxquelles ont été réduites les hypothèses réfutées, l’avocat de l’intimée s’est habilement efforcé d’établir que l’appelant était résident canadien parce qu’il avait un emploi, des amis et de la famille au Canada, et que son témoignage comportait trois contradictions (qui, selon moi, sont sans importance).
+[32] Poussée à l’extrême, la thèse de la Couronne consiste à affirmer que, malgré la destruction des hypothèses fondamentales sur lesquelles le ministre s’est appuyé pour établir les cotisations, l’appelant est toujours résident canadien en raison de ses visites au Canada, de son emploi chez un transporteur aérien canadien et de la famille et des amis qu’il a ici. L’avocat de l’intimée a défendu sa thèse avec toute la détermination possible en l’occurrence, mais il n'a pas établi sur l'appellant était résident au Canada. Une fois établi que l’appelant n’a pas séjourné au Canada au moins 183 jours au cours de l’une ou l’autre des années en cause, qu’il n’avait pas de conjointe de fait et qu’il ne disposait pas d’une demeure ici, que reste‑t‑il? Il y a l’hypothèse laconiquement formulée selon laquelle l’appelant n’a pas rompu ses liens de résidence avec le Canada. À mon avis, cette assertion n’a pas de sens. Tout d’abord, l’appelant a rompu ces liens. Il a rompu avec sa conjointe de fait, il s’est débarrassé de sa maison, de son automobile, de son permis et de son assurance maladie. Lorsqu’il venait au Canada, il habitait chez des amis, mais parce que ces derniers le voulaient bien. En outre, affirmer que l'intéressé personne n’a pas rompu ses liens de résidence avec un pays ne revient pas à dire qu’il y est résident. Les relations d’amitié et les liens d’emploi qui demeurent n’ont pas pour effet de créer un lien de résidence (ou, en l’espèce, la reprise de la résidence puisqu’on n’a pas laissé entendre que l’appelant était résident canadien de 1993 à 1995).
+[33] L’avocat de l’intimée a fait valoir que la thèse de M. Laurin est [TRADUCTION] « incroyable » parce que le témoignage de ce dernier comporte trois incohérences ou contradictions. Premièrement, il a déclaré qu’il résidait à Vankleek Hill alors qu’en réalité il vivait à Saint‑Lazare. Il avait effectivement une adresse à Vankleek Hill et, de surcroît, il a également fait mention de la résidence à Saint‑Lazare. Deuxièmement, il aurait déclaré aux autorités irlandaises qu’il ne serait pas résident irlandais. Les assertions contradictoires touchant la résidence ne sont pas très révélatrices lorsqu’on considère que les juges éprouvent eux‑mêmes de la difficulté à saisir cette notion. Enfin, il se serait contredit quant au moment ou à l’éventualité d’un séjour chez son fils Sacha. Il a subséquemment informé l’intimée de son erreur.
+[34] À mon sens, ces prétendues divergences dans le témoignage de l’appelant ne justifient pas le rejet de la totalité de son témoignage. Celui‑ci est étayé par le témoignage crédible des autres témoins. Il incombe au juge présidant l’instruction de tirer les conclusions de fait à la lumière de l’ensemble de la preuve et de ne pas s’arrêter à quelques contradictions pour justifier le rejet pur et simple de la thèse de l’appelant. En l’espèce, il faudrait rejeter l’ensemble de la preuve ayant réfuté les hypothèses essentielles sur lesquelles se fondent les cotisations.
+[35] Dans la décision Corsaut c. M.R.N., 2005 CCI 112, j’ai cité la décision 1084767 Ontario Inc. (Celluland) c. Canada, [2002] A.C.I. no 227 où j'ai fait les observations suivantes:
+[8] La preuve de chacun des deux témoins est radicalement opposée à celle de l’autre. J’ai pris le jugement en délibéré puisque je ne crois pas approprié de tirer à la légère des conclusions relatives à la crédibilité ou, de façon générale, de rendre ces conclusions oralement à l’audience. Le pouvoir et l’obligation d’établir des conclusions relatives à la crédibilité est l’une des plus lourdes responsabilités d’un juge de première instance. Le juge doit exercer cette responsabilité avec soin et après mûre réflexion puisqu’une conclusion défavorable de la crédibilité suppose que l’une des parties ment sous la foi du serment. Vouloir mettre un terme rapidement à une affaire ne peut être une excuse justifiant le mauvais usage de ce pouvoir. La responsabilité qui repose sur le juge d’un procès qui doit tirer des conclusions relatives à la crédibilité doit être particulièrement rigoureuse si l’on considère que l’on ne peut pratiquement pas en appeler de telles conclusions.
+Voir également la décision Chomica v. The Queen, 2003 DTC 535.
+[36] Malgré tout le talent dont l’avocat de l’intimée a fait preuve pour tenter de défendre la thèse de la Couronne, les hypothèses sur lesquelles le ministre s’est appuyé pour établir les cotisations ont été réfutées et il ne subsiste rien d’autre que des insinuations quant à l’existence d’un quelconque lien continu avec le Canada. Ces insinuations ne me permettent pas de conclure que l’appelant résidait habituellement au Canada, ce qui, je le répète, n’a pas été allégué dans un acte de procédure à titre d’hypothèse ou d’assertion distincte.
+[37] Comme l’appelant n’était pas résident au Canada de 1996 à 2000, la question de l’attribution au Canada du salaire versé par Air Canada qui est soulevée dans les actes de procédure demeure en suspens. Il m’est loisible de prendre l’une des trois mesures suivantes :
+a) Je pourrais accueillir les appels et renvoyer l’affaire au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation compte tenu du fait que l’appelant n’était pas résident au Canada de 1996 à 2000. Le ministre pourrait établir une nouvelle cotisation et appliquer sa formule de répartition. Si l’appelant n’est pas d’accord avec la répartition, il pourra s’opposer et interjeter appel sur cette question;
+b) Si les parties s’entendaient sur le mode de répartition, je pourrais incorporer cette entente au jugement;
+c) Je pourrais entendre des éléments de preuve et des observations supplémentaires sur la question de la répartition.
+[38] Je reporte la signature du dispositif de mon jugement à dans deux semaines, jusqu’à ce que les avocats des parties communiquent avec moi.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 22e jour de février 2008.
+François Brunet, réviseur
+RÉFÉRENCE :
+2006CCI634
+NO DU DOSSIER DE LA COUR :
+2004‑1128(IT)G
+INTITULÉ DE LA CAUSE :
+Jean Maurice Laurin c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Les 7, 8 et 9 novembre 2006
+MOTIFS DU JUGEMENT PAR :
+L’honorable D.G.H. Bowman,
+juge en chef
+DATE DU JUGEMENT ET DES
+MOTIFS DU JUGEMENT :
+Le 30 novembre 2006
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Frances Viele
+Avocats de l’intimée :
+Me Ernest Wheeler
+Me Steven D. Leckie
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant : Avocate
+116, rue Lisgar, 6e étage,
+Ottawa (Ontario) K2P 0C2
+Pour l’intimée :
+Me John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,395 @@
+Title: GF Partnership v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31092/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-53-31092-gf-partnership-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-02-12
+
+# GF Partnership v. The Queen
+
+- Citation: 2013 TCC 53
+- Decision date: 2013-02-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4678, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+GF Partnership v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-02-12
+Neutral citation
+2013 TCC 53
+File numbers
+2008-2571(GST)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-2571(GST)G
+BETWEEN:
+GF PARTNERSHIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 16 - 20, June 6 - 7, 2012 at Toronto, Ontario
+(Written submissions subsequently received)
+By: The Honourable Justice J.M. Woods
+Appearances:
+Counsel for the Appellant:
+Irving Marks
+Michael Gasch
+Ellad Gersh
+Counsel for the Respondent:
+Michael Ezri
+Tamara Watters
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Excise Tax Act for reporting periods from June 1, 2001 to May 31, 2006 is dismissed. The respondent is entitled to costs.
+Signed at Ottawa, Ontario this 12th day of February 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 53
+Date: 20130212
+Docket: 2008-2571(GST)G
+BETWEEN:
+GF PARTNERSHIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+I. Introduction
+[1] The appellant, GF Partnership, is a developer and builder of residential subdivisions that operates under the name Mattamy Homes. It has appealed assessments made in respect of goods and services tax (GST) collectible from buyers of new homes. The main issue is whether the GST that the appellant remitted took into account the entire consideration for the homes it supplied.
+[2] In these reasons, the appellant will be referred to as “Mattamy” and the homebuyers will be referred to as “Purchasers.” Other defined terms will be adopted from an agreed statement of facts (ASF) which is reproduced in part below.
+[3] Under the Excise Tax Act (the “ETA”), the purchase of a newly-built home is subject to GST, subject to a rebate of a portion of the tax. In 2001, an accountant who Mattamy hired as a consultant advised that another developer had been successful in reducing this GST. The plan involved taking advantage of the fact that municipal development charges are not subject to GST.
+[4] Development charges are usually paid by developers and recovered through the purchase price of the homes, which are taxable. The plan of the other developer was to have the development charges paid directly by the homebuyer, and to reduce the purchase price of the home by an equivalent amount. In effect, the development charges were unbundled from the sale of the home. The GST saving resulted from the reduced purchase price for the home.
+[5] Even though GST is imposed on homebuyers and not builders, Mattamy could potentially benefit from this plan because it sold homes at a lump sum price which included GST. Therefore, any reduction in GST could potentially go to Mattamy’s bottom line, in whole or in part.
+[6] Mattamy decided to implement this strategy and asked the consultant to put it into effect by modifying Mattamy’s standard form purchase and sale agreements (“Purchase Agreements”). The plan was instituted in mid-2001, at which time Mattamy began computing GST on the sale of new homes on the basis that development charges were not a component of the purchase price. The Minister has assessed Mattamy for failing to remit sufficient GST.
+[7] The principal issue is whether Mattamy was required to remit GST on the basis that the consideration for the homes included an amount on account of development charges.
+[8] The Crown submits that the development charges were not paid by homebuyers but that Mattamy paid the charges and recouped the cost through the price for the homes. Alternatively, the Crown submits that section 154 of the ETA deems the development charges to be part of the consideration for the homes. In the further alternative, the Crown suggests that Mattamy should have remitted GST with respect to the development charges because GST had been collected from Purchasers on this basis.
+[9] If Mattamy does not succeed on the main issue, an ancillary issue arises concerning Mattamy’s entitlement, or liability, with respect to new housing rebates (NHRs). If the price for the homes includes the development charges, then in some cases the NHRs claimed were too high and in other cases they were too low.
+[10] Mattamy submits that it is not liable where the NHR claims were too high but that it is entitled to relief where the NHR claims were too low. The Crown’s position is the polar opposite. It submits that Mattamy is liable for NHR claims that were too high but that it is not entitled to relief for claims that were too low.
+[11] The period at issue is from June 1, 2001 to May 31, 2006. During this time, Mattamy developed over 50 subdivisions and sold approximately 15,000 new homes. The amount of GST at issue exceeds $15,000,000.
+[12] Mattamy’s submissions raise the following main issues:
+(1) Were the contractual arrangements between Mattamy and Purchasers effective to segregate the development charges from the consideration for the homes?
+(2) Does section 154 deem the development charges to form part of the consideration for the homes?
+(3) If the development charges do not form part of the consideration for the homes,
+(a) is Mattamy required to remit GST on the basis that it was collected from Purchasers, and
+(b) is Mattamy entitled to an adjustment for GST collected in error?
+(4) If the development charges do form part of the consideration for the homes, is Mattamy entitled to relief for NHR claims that were too low?
+(5) Is Mattamy liable for NHR claims that were too high?
+[13] My conclusions on these questions are as follows:
+(1) No
+(2) Not necessary to decide
+(3) Not necessary to decide
+(4) No
+(5) Yes
+[14] I would therefore dismiss the appeal.
+[15] Before considering the first issue, it is useful to comment on the evidence which for the most part was not in dispute.
+[16] Since this appeal concerns several subdivision developments and over 15,000 home sale transactions, the hearing would have been unwieldy without good cooperation between the parties concerning the evidence. Counsel did an excellent job on that front. They provided a comprehensive ASF and a joint book of documents (JBD) that contained representative documents such as municipal by-laws, subdivision agreements and purchase and sale agreements. Other documents were also included that were identified as not being representative. The parties presented no viva voce evidence.
+II. Were contractual arrangements effective to segregate development charges?
+A. Introduction
+[17] Mattamy’s position is that the consideration it received for the homes does not include any amount for development charges. Mattamy submits that it is free to contract with Purchasers to pay development charges because such charges are not imposed on any particular person. Mattamy further submits that the Purchasers agreed to be liable for the development charges, and that when Mattamy paid the development charges, it did so on behalf of the Purchasers.
+[18] The Crown disagrees. It submits that the development charges were imposed on Mattamy and that Mattamy is not free to contract with Purchasers to transfer the liability for development charges to Purchasers. The Crown further submits that, in any event, the Purchasers did not agree to be liable for these charges.
+[19] For the reasons below, I agree with the Crown’s second argument that Purchasers did not agree to be liable for the development charges. In light of this conclusion, it is not necessary that I consider the Crown’s first argument that Mattamy is not free to contract with Purchasers that they be liable for development charges. That issue is best left for another day.
+[20] The relevant legislative provision is subsection 165(1) of the ETA, which is the general charging provision imposing GST as a percentage of the consideration for a supply. I have reproduced the provision as it read in the relevant period.
+165. (1) Imposition of goods and services tax - Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 7% on the value of the consideration for the supply.
+(Emphasis added)
+[21] The discussion begins with a description of the applicable development and building process and the agreements between Mattamy and Purchasers.
+B. Applicable development and building process
+[22] In Ontario, where Mattamy conducts business, a complex system of regulation of land development is in place for new subdivisions. This system is governed by provincial legislation, such as the Planning Act, the Development Charges Act, 1997 and the Education Act (development charges for education costs) and by subdivision agreements and other contractual arrangements between developers and municipalities.
+[23] One of the main legislative provisions regulating subdivisions is subsection 50(3) of the Planning Act, which prohibits conveying land unless certain conditions are satisfied. The relevant condition in this appeal is that the land must be described in a registered plan of subdivision. This condition ensures that the relevant municipality has approved of the planned subdivision before land is subdivided.
+[24] The Ontario Development Charges Act, 1997 authorises municipalities to impose development charges against land. These charges are intended to offset increased capital costs to deliver services required by development. Development for this purpose includes development that requires a registered plan of subdivision. Subsection 2(1) and paragraph 2(2)(d) of that Act provide:
+Development charges
+The council of a municipality may by by-law impose development charges against land to pay for increased capital costs required because of increased needs for services arising from development of the area to which the by‑law applies.
+What development can be charged for
+A development charge may be imposed only for development that requires,
+[…]
+(d) the approval of a plan of subdivision under section 51 of the Planning Act;
+[25] In Mississauga (City) v Erin Mills Corp. (2004), 71 OR (3d) 397 (CA), Goudge J.A. provides an historical backdrop to the Development Charges Act. In the excerpt below, the judge observes that the current regime of municipal by‑laws replaced a haphazard scheme whereby the Planning Act permitted municipalities to levy development charges through subdivision agreements.
+[8] It has long been true that new development brings with it the need for additional roads, sewers, police and fire protection and many other common services. All of this must be paid for. That responsibility rests with the municipality in which the new development takes place with whatever help it can get from others.
+[9] Prior to 1989, the Planning Act, 1983, S.O. 1983, c. 1, entitled the municipality to obtain the financial assistance of the developer in bearing these additional infrastructure costs by requiring the developer to enter into a subdivision agreement with it as a condition of municipal approval of the development. Typically, such an agreement would compel the developer to pay a levy per lot as its contribution to the additional infrastructure costs necessitated by the development.
+[10] This regime left it to each municipality to implement its own lot levy policy with a resulting diversity that caused confusion and dissatisfaction across the province. In 1989, the legislature responded by passing the old DCA. It came into force on November 23, 1989, and was designed to replace the patchwork system of subdivision agreements with a fair and consistent regime for the obtaining of financial contributions by developers to growth related infrastructure costs.
+[11] Under the new regime, the municipality obtained these contributions not by contracting with each developer but by passing a development charge by-law. Thus, the new regime was designed to operate through newly accorded municipal legislative authority rather than by contract.
+[26] The specific development and building processes that are relevant to this appeal are reproduced below from the ASF.
+Imposition of Development Charges in Ontario
+9. Municipalities in Ontario incur additional costs to support new residential development in order to provide present and future services as part of the municipal infrastructure, including but not limited to construction of roads, water supply, sanitary sewage, drainage, police and fire facilities, transit facilities, schools, libraries, recreational facilities, and other facilities for municipal staff and operations.
+10. The Development Charges Act 1997, S. O. 1997, Chapter 27, as amended (the "Development Charges Act") and the Education Act, R.S.O. 1990, c.E.2 (the “Education Act”) (the Development Charges Act and the Education Act shall hereinafter be collectively referred to as the “Development Charges Legislation”) authorize Ontario municipalities and school boards, respectively, to enact bylaws to finance and, ultimately, fund such infrastructure construction through the imposition of development charges against the land to be developed (each such development charge shall be hereinafter referred to collectively as the "Development Charges" and individually as a "Development Charge").
+11. Each region, municipality or school board in which the Appellant purchased land and entered into purchase agreements with Purchasers with respect to the construction of new homes (each such regional municipality, local municipality or school board shall be hereinafter referred to collectively as the “Municipalities” and individually as a “Municipality) passed bylaws to impose Development Charges (the "Development Charges Bylaw") pursuant to the Developments Charges Legislation.
+12. Prior to enacting a Development Charges Bylaw, each Municipality calculated the cost of the additional infrastructure that would be necessitated by all new home construction in the area and calculated Development Charges to be imposed in accordance with the procedures set out in the Development Charges Legislation.
+13. The Development Charges Bylaws provided for the imposition of Development Charges against the land to which each Development Charge Bylaw applied.
+14. The quantum of the Development Charges levied by a Municipality on a particular lot depended on the type of dwelling to be constructed thereon; the Development Charges progressively increased depending on whether the dwelling was an apartment, townhouse, semi-detached house, or fully detached house. In one Municipality, certain Development Charges were calculated on a per hectare basis rather than on a per lot basis.
+15. The physical infrastructure funded by the Development Charges was not part of the land, building and structures supplied by the Appellant to Purchasers. Access to the infrastructure and the municipal services delivered via the infrastructure was made available for the benefit of the community at large including the Purchasers.
+The Appellant’s Development Process
+16. Typically, the development, construction and sale of new homes by the Appellant involved the following steps:
+(a) land acquisition;
+(b) infrastructure agreements (in some cases);
+(c) application to the municipality for draft plan approval;
+(d) sales of new homes to be built (following draft plan approval);
+(e) subdivision agreements;
+(f) registration of the plan of subdivision;
+(g) building permit applications;
+(h) construction of new homes; and
+(i) closing of sale transactions, including transfers of title to purchasers.
+A small number of developments under appeal were purchased by the Appellant from other developers after a subdivision plan had been approved or registered.
+Infrastructure Agreements
+17. In some Municipalities, in accordance with the applicable Development Charges Bylaw, the Vendor [a bare trustee acting for Mattamy] entered into an agreement with the Municipality (the “Infrastructure Agreement”) whereby it agreed to provide financing for the Municipality to construct, or for the Vendor to construct for the Municipality, certain aspects of the required infrastructure in exchange for credits against future Development Charges once imposed and payable (the “Development Charge Credits”). In some instances, the Vendor provided land to the City in return for a Development Charge Credit. Where the Infrastructure Agreement required the Vendor to construct works, the developer was also required to post security which could be drawn upon if it failed to complete the work required to be done pursuant to the Infrastructure Agreement.
+18. The Development Charge Credits given were intended to reflect the estimated cost of the work, but the Vendor bore the risk that the actual cost of the work might exceed the amount of the credits.
+19. Such Development Charge Credits, once determined, were available to be applied in full or part payment of applicable Development Charges when the Development Charges would be imposed and became payable as described below.
+20. In some cases, the Municipality required a Vendor to enter into a cost sharing agreement with other adjoining developers regarding the funding of infrastructure. Those agreements included provisions allocating Development Charges Credits to landowners based on their respective contribution to the funding of the infrastructure.
+Draft Plan Approval
+21. Each Vendor made application to the Municipalities in which its land was located for approval of a draft plan of subdivision whereby the Vendor’s land would be subdivided into lots upon which homes would be constructed. Each draft plan of subdivision, once approved, (the "Draft Plan Approval") contained conditions precedent to the final release of the subdivision for registration. The conditions precedent usually included a requirement that the Vendor enter into a subdivision agreement with the Municipality agreeing to satisfy all conditions of the Municipality, financial or otherwise, prior to final approval of the plan. In some instances, the Vendor would also have previously entered into an Infrastructure Agreement with a Municipality agreeing to finance or provide land or infrastructure, prior to final approval of the plan.
+22. Development Charges were not payable upon the application for, or receipt of, Draft Plan Approval.
+Sales of New Homes to be Built (following Draft Plan Approval)
+23. After obtaining Draft Plan Approval from a Municipality, as described in paragraph 20 [sic] above, the Vendor began to market new homes to be built on the lands that had received Draft Plan Approval. The Vendor then entered into agreements of purchase and sale (the “Purchase Agreements”) with the Purchasers.
+24. Purchase Agreements were entered into both before and after the Vendor entered into the relevant Subdivision Agreements with the Municipality, as defined and described in paragraph 29 [sic] below.
+[…]
+29. In each instance (except for model homes, terminated agreements and parts of townhouse blocks or semi-detached homes, the instances of which are not numerically material), a Purchase Agreement was executed prior to issuance of a Building Permit and prior to the payment of the balance of the Development Charges, as more particularly described in paragraphs 31 and 32 below.
+Subdivision Agreements
+30. Each Vendor and the applicable Municipality entered into one or more subdivision agreements (collectively, the "Subdivision Agreement") in respect of each subdivision. Subdivision agreements would typically address the servicing and financial aspects of the proposed plan of subdivision.
+31. Development Charges became payable in accordance with the relevant Development Charge Bylaws and Subdivision Agreements. In many Municipalities, a portion of the Development Charges became payable upon the execution of the Subdivision Agreement. These Development Charges were paid by cheque or the application of Development Charge Credits (in the manner described in paragraph 32 below) or a combination of the two. The balance of the Development Charges became payable at the time a building permit was issued for construction of a New Home on a Lot (the "Building Permit"), as more particularly described in paragraph 35 below. In Brampton, all of the Development Charges applicable to a Lot were paid by the Vendor at the time that a Building Permit was issued.
+32. Development Charge Credits of the Vendor were applied against the Development Charges imposed on the Lots in the subdivisions as they became payable in one or more of the following three ways:
+(a) In some cases, where the Vendor had agreed in a Subdivision Agreement to do work or transfer land in exchange for Development Charge Credits, those Development Charge Credits were applied to the payment of Development Charges imposed on the Lots in that development.
+(b) In some cases, surplus Development Charge Credits arising from the work done in one subdivision were applied to the payment of Development Charges in other developments that are under appeal.
+(c) In at least one case, a developer other than the Vendor performed work and received Development Charge Credits which were transferred with the land sold to the Vendor pursuant to s.40 of the Development Charges Act. These Development Charge Credits were later applied to the payment of Development Charges in respect of Lots sold by the Vendor.
+(d) In two instances, the Vendor made payments to another developer under a front ending agreement pursuant to sections 44 and 52 of the DCA.
+33. GST was neither charged nor collected by the Municipalities on the Development Charges at the time they were paid.
+Registration of the Plan of Subdivision
+34. Once the conditions attached to the Draft Plan Approval were satisfied, including the execution of the Subdivision Agreement, the plan of subdivision (the "Plan of Subdivision") was approved and registered on title.
+Building Permits
+35. Following the registration of the Plan of Subdivision, each Vendor applied for the issuance of Building Permits to construct New Homes on all Lots sold to Purchasers and paid a separate fee to the Municipality in respect thereof. Prior to issuance of a Building Permit, the Municipality provided the Vendor with a statement of Development Charges for each Lot. In Municipalities where a portion of the Development Charges were paid in the manner described in paragraph 31 above at the time the Subdivision Agreement was executed, the balance of the Development Charges were paid by the Vendor at the time of the issuance of the Building Permit. The Development Charges were paid by cheque or the application of Development Charge Credits or a combination of the two.
+36. At no time during the development process described in paragraph 16 above did the Vendors disclose to the Municipalities that they were acting as agents for the Purchasers or that any Lots were under contract for sale.
+Construction of New Homes
+37. Subsequent to the execution of a Purchase Agreement, the registration of the Subdivision Agreements and Plan of Subdivision and the receipt of a Building Permit from a Municipality, the Appellant would commence and complete construction of a New Home for the Purchaser.
+[…]
+Closing Transactions, including Transfers of Title to Purchasers
+39. In order to close a transaction of purchase and sale, the Vendor and the Purchaser, through their respective lawyers, exchanged draft documents that would have to be delivered by the Vendor and Purchaser on Closing, including a statement of adjustments (the “Statement of Adjustments”). The Vendor’s lawyer prepared the Statement of Adjustments based on an information sheet prepared by the Vendor.
+[27] It is useful to compare when the development charges arise and when Mattamy and Purchasers entered into Purchase Agreements. In general development charges are incurred, and Mattamy paid the charges, when Mattamy (or its agent) and the relevant municipality entered into a subdivision agreement or when building permits were issued. In many cases, development charges were payable in part on each of these transactions. Mattamy executed Purchase Agreements both before and after it entered into subdivision agreements, and in almost all cases before the issuance of building permits. Accordingly, the liability for development charges can occur before or after the parties entered into the Purchase Agreements.
+C. Agreements between Mattamy and Purchasers
+[28] This section describes the arrangements relating to the sale of homes, as set out in the ASF.
+Sales of New Homes to be Built (following Draft Plan Approval)
+23. After obtaining Draft Plan Approval from a Municipality, as described in paragraph 20 [sic] above, the Vendor began to market new homes to be built on the lands that had received Draft Plan Approval. The Vendor then entered into agreements of purchase and sale (the “Purchase Agreements”) with the Purchasers.
+24. Purchase Agreements were entered into both before and after the Vendor entered into the relevant Subdivision Agreements with the Municipality, as defined and described in paragraph 29 [sic] below.
+25. Under the Purchase Agreements, each Purchaser agreed to purchase a specified lot or part thereof shown on the draft plan of subdivision or plan of subdivision, as applicable, (the “Lot”) and the Vendor agreed to construct a new home on the Lot based upon plans and specifications agreed to by the Purchaser (the Lot and new home shall hereinafter be referred to as the “New Home” or collectively as the “New Homes”). Pursuant to each Purchase Agreement, the Vendor would agree to fulfill its obligations under the Purchase Agreement and transfer the New Home to the Purchaser on closing (the “Closing”).
+26. Each Purchase Agreement for sales of New Homes with Closings during the Reporting Period and subject to the Development Charge GST Assessment specified a purchase price to be paid by the Purchaser for the New Home, inclusive of development charges (subject to paragraph 27 below) and GST (the “Purchase Price”). […]
+27. Each Purchase Agreement for sales of New Homes with Closings during the Reporting Period and subject to the Development Charge GST Assessment provided for adjustments to be made to the Purchase Price on Closing. For Purchase Agreements entered into commencing January 2001, through to January 2002, the Purchase Agreement provided, in part, as follows:
+“It is acknowledged and agreed that, as part of and included in the Purchase Price herein, the Vendor has paid on behalf of the Purchaser, for all taxes, levies, imposts, building permit fees, and all development charges including education development charges applicable to the property. It is acknowledged and agreed that these amounts, at the Vendor’s option, may be shown separately in the statement of adjustments to be delivered to the Purchaser prior to Closing.”
+For Purchase Agreements entered into after January 2002, paragraph 9 provided, in part, as follows:
+“The parties acknowledge and agree that, as part of and included in the Purchase Price herein, the Vendor has or will pay on behalf of the Purchaser, all taxes, levies, imposts, building permit fees (for permits obtained on behalf of the Purchaser), and all applicable development charges including education development charges applicable to the property. The parties acknowledge and agree that these amounts, at the Vendor’s option, may be shown separately in the statement of adjustments to be delivered to the Purchaser prior to Closing.”
+and further provided for an increase in the Purchase Price for any increase in the Development Charges between the date of execution of the Purchase Agreement and the date of issuance of the Building Permit.
+28. The following are other material terms of the Purchase Agreements:
+(a) the Purchasers had no right to register the Purchase Agreements on the title to the lands;
+(b) the Purchase Agreements were non-assignable (except to a family member), unless the Vendor consented and the Vendor was under no obligation to so consent;
+(c) the Purchasers’ remedies for non-performance of the agreement were generally limited to receiving back their deposit with interest;
+(d) there were to be no representations, warranties, collateral agreements, or conditions affecting the agreement or the real property, except as contained in the Purchase Agreements, and the Purchase Agreements could not be amended, except in writing; and
+(e) the only additional amounts that Purchasers could be required to pay after Closing were for water, hydro, fuel and other services.
+[…]
+Closing Transactions, including Transfers of Title to Purchasers
+39. In order to close a transaction of purchase and sale, the Vendor and the Purchaser, through their respective lawyers, exchanged draft documents that would have to be delivered by the Vendor and Purchaser on Closing, including a statement of adjustments (the “Statement of Adjustments”). The Vendor’s lawyer prepared the Statement of Adjustments based on an information sheet prepared by the Vendor.
+40. In the Statement of Adjustments:
+(a) the Purchase Price was referred to as the sale price and:
+(i) the Development Charge Amounts were deducted from the sale price: and
+(ii) extras and other charges were added to the sale price; and
+(the sale price, subject to the deductions and additions described above, was referred to in the Statement of Adjustments as the “Total Sale Price”);
+(b) the Development Charge Amounts were shown as an itemized amount to be paid by the Purchaser to the Vendor, separate from the Total Sale Price;
+(c) an amount described as the GST Amount and an amount described as the GST Rebate were shown and were calculated based upon the Total Sale Price; and
+(d) additional adjustments for deposits paid and other taxes and charges payable were made to determine the balance to be paid to the Vendor on Closing.
+41. In the Statement of Adjustments, the Vendor included in the Development Charge Amounts of each purchaser the full amount of Development Charges assessed on the Lot sold including those cases where the amount that the Vendor paid to the Municipality was partly satisfied by the application of Development Charge Credits, or by another developer under a front ending agreement.
+42. Once the Vendor and the Purchaser, through their lawyers, had finalized the documents to be delivered on Closing, including the Statement of Adjustments, the transaction of purchase and sale was completed by the exchange of executed closing documents, the delivery of closing funds in accordance with the Statement of Adjustments and the transfer of title to the New Home by the Vendor to the Purchaser.
+43. Each Purchaser's Land Transfer Tax Statement, registered as part of the transfer on Closing, included the Development Charge Amounts in the “value of consideration” for purposes of payment of Land Transfer Tax calculated under the Land Transfer Tax Act.
+D. Analysis
+[29] Mattamy submits that Purchasers agreed to be liable for development charges by entering into Purchase Agreements and by agreeing to the Statements of Adjustments.
+[30] I disagree with this submission. Under the relevant Purchase Agreements, Purchasers did not agree to be liable for development charges, qua development charges. Accordingly, when Mattamy paid development charges, it did so on its own behalf, and not on behalf of Purchasers.
+[31] The provision in the Purchase Agreements that is the most relevant to determine whether Purchasers agreed to pay development charges, qua development charges, is set out in paragraph 27 of the ASF above. The provision that is effective for 2002 and later years is reproduced again below.
+The parties acknowledge and agree that, as part of and included in the Purchase Price herein, the Vendor has or will pay on behalf of the Purchaser, all taxes, levies, imposts, building permit fees (for permits obtained on behalf of the Purchaser), and all applicable development charges including education development charges applicable to the property. The parties acknowledge and agree that these amounts, at the Vendor’s option, may be shown separately in the statement of adjustments to be delivered to the Purchaser prior to Closing.
+[32] The essential question is whether, by this provision, Purchasers agreed to be liable for development charges.
+[33] I note that the provision above does not explicitly state that Purchasers are liable for development charges. This is important because development charges are incurred as part of the development and building process and were paid by Mattamy prior to the sale of the homes to Purchasers. Accordingly, in the normal course Purchasers would not expect to be liable for this type of expenditure. In these circumstances, if Purchasers were to agree to take on this liability, the Purchase Agreements should make this clear. The language used in the Purchase Agreements is far from clear on this point.
+[34] Having regard to the specific language used in the Purchase Agreements, the provision first states that development charges are part of the Purchase Price. This implies that development charges are paid by Mattamy on its own account and that an amount representing the cost of the development charges is included in the consideration for the homes.
+[35] The provision then goes on to state that the development charges have been, or will be, paid by Mattamy on behalf of Purchasers. This clause is ambiguous. Read in isolation, the clause could be interpreted that development charges are paid by Mattamy as agent for Purchasers or that the development charges are paid by Mattamy on its own account but for the ultimate benefit of Purchasers.
+[36] At the very least, the whole provision is quite ambiguous. But when the particular clauses are read harmoniously, they appear to imply that Mattamy pays the development charges on its own account, but for the ultimate benefit of Purchasers. I would conclude that Purchasers cannot be said to have agreed to pay development charges as development charges.
+[37] The fact that a Purchaser might terminate a Purchase Agreement prior to closing reinforces this conclusion. There is no suggestion that Mattamy could look to a would-be purchaser to recover its payment of development charges if a Purchaser were to terminate a Purchase Agreement. How can one interpret the Purchase Agreements as providing that Purchasers agreed to be liable to pay the development charges if Purchasers are liable only if the sale takes place?
+[38] Further, Mattamy’s position is not assisted by the fact that Mattamy paid some development charges prior to executing Purchase Agreements. As mentioned above, Mattamy entered into Purchase Agreements both before and after the subdivision agreements which often triggered the payment of a portion of the development charges.
+[39] Mattamy also relies on the Statements of Adjustments provided on closing to support the position that Purchasers agreed to be liable for development charges. I disagree that the Statements of Adjustments are relevant to this inquiry. The main reason for this is that Mattamy incurred and paid development charges no later than when building permits were issued, which in all cases was prior to closing when the parties agreed to the Statements of Adjustments.
+[40] I conclude that Purchasers were not liable for development charges, as development charges. Mattamy paid the charges on its own account and recouped them through the purchase price of the homes.
+III. Does section 154 deem development charges to be consideration?
+A. Introduction
+[41] Section 154 of the ETA is a deeming provision that, if applicable, would include development charges as part of the consideration for the homes regardless of whether the Purchase Agreements segregated the charges from the purchase price. The Crown relies on this provision as an alternative argument.
+[42] In light of my conclusion on the first issue, it is unnecessary that I consider whether section 154 applies. However, counsel provided very extensive submissions on one aspect of the section and I will therefore comment on this particular part.
+[43] Section 154 provides:
+154. (1) Meaning of “provincial levy” - In this section, “provincial levy” means a tax, duty or fee imposed under an Act of the legislature of a province in respect of the supply, consumption or use of property or a service.
+(2) Levies included in consideration - For the purposes of this Part, the consideration for a supply of property or a service includes
+(a) any tax, duty or fee imposed under an Act of Parliament that is payable by the recipient, or payable or collectible by the supplier, in respect of that supply or in respect of the production, importation, consumption or use of the property or service, other than tax under this Part that is payable by the recipient;
+(b) any provincial levy that is payable by the recipient, or payable or collectible by the supplier, in respect of that supply or in respect of the consumption or use of the property or service, other than a prescribed provincial levy that is payable by the recipient; and
+(c) any other amount that is collectible by the supplier under an Act of the legislature of a province and that is equal to, or is collectible on account of or in lieu of, a provincial levy, except where the amount is payable by the recipient and the provincial levy is a prescribed provincial levy.
+(3) Reference to “recipient” - If, under this Part, a person is deemed to be the recipient of a supply in respect of which another person would, but for that deeming, be the recipient, a reference in this section to the recipient of the supply shall be read as a reference to that other person.
+B. Positions of parties
+[44] Section 154 will apply to the development charges if the charges are:
+(a) a tax, duty or fee,
+(b) imposed under provincial legislation, and
+(c) paid by Purchasers in respect of the purchase of new homes.
+[45] The Crown submits that all of these conditions are satisfied because development charges are a tax, the charges are imposed under provincial legislation, and Purchasers have paid the charges in respect of the purchase of new homes.
+[46] Mattamy, on the other hand, submits that none of these conditions are met. It submits that the development charges are regulatory charges rather than a tax, duty or fee, that the charges are imposed under by-laws rather than under legislation, and that the charges are not paid in respect of the purchase of new homes.
+C. Are development charges a tax?
+(1) Introduction
+[47] The Crown relied solely on development charges being a tax, rather than a duty or fee, and provided extensive submissions on the meaning of “tax.” The arguments on the other aspects of section 154 were quite brief. I will therefore provide comments only on the term “tax,” and leave the other requirements of section 154 for another day.
+[48] Mattamy submits that the development charges are properly described as regulatory charges rather than a tax. The Crown does not take issue with describing development charges as regulatory charges; however, the Crown submits that they are also a tax.
+[49] I would first comment that the relevant legislation and municipal by-laws do not refer to development charges as taxes, except to the extent that overdue development charges are to be enforced in the same manner as property taxes. Rather than describing development charges as a tax, the relevant legislation refers to them as a charge against land. Accordingly, if I find that development charges are taxes, I must do so on the basis that they are within an appropriate meaning of the term “tax” rather than on the basis of the label used by the legislators.
+(2) Nature of development charges for constitutional purposes
+[50] From time to time, courts have considered the nature of development charges for purposes of the Constitution Act, 1867. In this context, development charges were, at one point, considered to be both a tax and a regulatory charge: Ontario Home Builders’ Association v York Region Board of Education, [1996] 2 SCR 929 (“Home Builders”), per the majority decision of Iacobucci J.
+[51] However, in more recent decisions by the Supreme Court of Canada, it is clear that regulatory charges are not taxes for constitutional purposes: Westbank First Nation v British Columbia Hydro and Power Authority, [1999] 3 SCR 134 (“Westbank”) and 620 Connaught Ltd. v Canada (AG), 2008 SCC 7 (“Connaught”). Although development charges were not at issue in either of these decisions, the necessary conclusion is that if the development charges at issue are regulatory charges, they are no longer considered taxes for constitutional purposes. The comments in Westbank that refer to development charges as an example of regulatory charges reinforce this conclusion.
+[52] I note that in these decisions, the Court has developed a two-part test to determine whether a levy is a regulatory charge or a tax. The test is set out in the excerpt below from Confédération des syndicats nationaux v Canada (AG), 2008 SCC 68.
+[72] This question of the validity of imposing regulatory charges has come before this Court on several occasions. In its decisions, the Court has accepted the use of regulatory charges to finance government programs and has developed tests for identifying such special levies. There are two steps in the identification process. First, the existence of a regulatory scheme must be established. According to the analytical approach adopted in Westbank First Nation v. British Columbia Hydro and Power Authority, [1999] 3 S.C.R. 134, there must be (1) a complete and detailed code of regulation, (2) a regulatory purpose of influencing specific behaviour, (3) the existence of actual or properly estimated costs of the regulation and (4) a relationship between the regulation and the person who either benefits from it or made it necessary (para. 44). Rothstein J. recently reiterated these criteria in 620 Connaught Ltd. v. Canada (Attorney General), [2008] 1 S.C.R. 131, 2008 SCC 7, at paras. 25‑26, although he reminded us that the list is not exhaustive. Next, if the court finds that a regulatory scheme exists, it must determine whether there is a relationship between that scheme and the charge (Connaught, at para. 27). Revenue collection must be related to the regulation or must in itself have a regulatory purpose of influencing the behaviour of the persons concerned (Westbank, at para. 44). As the Court noted in Connaught, the accumulation of excessive surpluses may indicate that a levy is a tax and not a regulatory charge (para. 40). However, the test is flexible, and the characterization of a levy as a regulatory charge does not depend primarily on the absence or the amounts of surpluses (Connaught, at para. 40). It depends above all else on whether the collected amounts or a substantial part thereof are allocated to the regulated activity.
+[53] In this appeal, it is not in dispute that the development charges are regulatory charges and neither counsel undertook the two-part analysis described above. In light of this, and because of the similarities between the development charges in this appeal and in Home Builders where the court accepted development charges as regulatory charges, I accept that the development charges at issue in this appeal are regulatory charges.
+(3) Are regulatory charges a tax for purposes of section 154?
+[54] It is evident from the analysis above that the Crown’s position that development charges are a tax for purposes of section 154 is not supported by either (1) the label used in the relevant legislation, or (2) the meaning of a “tax” in a constitutional context.
+[55] The Crown submits that a different approach should be taken in order for the meaning of a “tax” in section 154 to be consistent with the policy behind that section. It submits that the proper approach is to adopt the constitutional meaning of “tax” as it was understood before Westbank and Connaught.
+[56] The meaning of “tax” suggested by the Crown was articulated in an earlier constitutional decision: Lawson v Interior Tree Fruit and Vegetable Committee of Direction, [1931] SCR 357 (“Lawson”).
+[57] I disagree with the Crown’s approach because it would bring an undesirable element of uncertainty into the interpretation of section 154. The object and spirit of the legislation can best be gleaned from accepted meanings of the terms “tax, duty and fee.” If the meaning of “tax” is not determined either by jurisprudence or by the label that the levy has been given in the relevant legislation, what other meaning should be adopted? There is no sound principled basis for adopting an out-of-date meaning from a constitutional context that the courts have rejected.
+[58] I would also note that the issue of whether regulatory charges are a tax was not directly considered in Lawson, and was obiter in the reasons of the majority in Home Builders. When this issue came squarely before the court in Connaught, the court decided that regulatory charges were not taxes for constitutional purposes (Connaught, paras. 22 – 28).
+[59] Further, I agree with Mattamy’s suggestion that Parliament could have used words that are broader than “tax, duty or fee” when it drafted section 154. This supports Mattamy’s position that the object and spirit of section 154 is not as broad as suggested by the Crown.
+[60] I will now address some of the Crown’s other submissions in support of a broader definition of “tax.”
+[61] Counsel for the Crown submits that I should follow a previous decision of the Tax Court of Canada that adopted the meaning of “tax” from Lawson: Miller v The Queen, 2005 TCC 419. This was an informal procedure case in which the taxpayer was self-represented. Further, the facts in that case were different and there was no discussion of Westbank or Connaught. Therefore, Miller is of no assistance to the issue in this appeal.
+[62] In support of its broad interpretation of “tax” in section 154, the Crown also relies on a reference to development charges as a tax in Mississauga (City) v Greater Toronto Airports Authority (2000), 50 OR (3d) 641 (CA) (“GTAA”), at paras 22, 89 and 90 and in the federal Payments in Lieu of Taxes Act (formerly Municipal Grants Act).
+[63] I am not persuaded that either of these references should override the unambiguous conclusion of the Supreme Court of Canada in Connaught that regulatory charges are not a tax. If there was any confusion following Westbank and GTAA as to whether regulatory charges could be a tax for constitutional purposes, the Connaught decision resolved this issue by clearly holding that regulatory charges could not be a tax.
+[64] The Crown further argues that Westbank and Connaught do not stand for the proposition that regulatory charges are not taxes, but simply that their pith and substance is a regulatory charge and not a tax. I disagree. These decisions acknowledge that regulatory charges have some elements of taxation. But the point is that regulatory charges do not have all of the required elements – in particular, the requirement that the levy not be a regulatory charge. Quite simply, although regulatory charges were once considered taxes for constitutional purposes (e.g. Home Builders), they are no longer.
+[65] For these reasons, I disagree with the Crown that the development charges are a tax for purposes of section 154.
+[66] As mentioned earlier, because the Crown did not argue that the development charges are a “duty or fee” and thus are subject to section 154, I will leave this issue for another day.
+IV. Is Mattamy entitled to additional deductions for NHRs or is Mattamy liable for excessive NHRs?
+A. Introduction
+[67] Although GST is payable by buyers of new homes, the rate is effectively reduced by means of a partial rebate (NHR) in subsection 254(2) of the ETA. Malone J.A. describes the general scheme in The Queen v Polygon Southampton Development Ltd., 2003 FCA 193:
+[21] The sale of a new home by a builder will normally be a taxable supply and thus subject to GST calculated as 7% of the purchase price. However, subsection 254(2) of the Act provides a partial rebate of GST in certain situations where a new home is purchased from a builder. This new housing rebate is equal to 36% of the GST paid on the full purchase price of the home, although it is capped at $8750, and is gradually phased out for homes priced at more than $350,000 and is unavailable for homes over $450,000. A resale of a home is generally exempt from GST pursuant to section 2 in Part I of Schedule V of the Act.
+[68] As described above, the amount of a NHR is a function of the consideration for the home. Accordingly, my conclusion on the first issue that the development charges were part of the consideration for the homes will, therefore, have a bearing on the amount of NHRs to which Purchasers were entitled.
+[69] As described below, the ETA permits builders to administer the NHRs by paying or crediting them to the homebuyers and seeking reimbursement through a deduction from its own net tax. Mattamy did this and, in calculating the NHRs, it took the position that the amount of development charges was not part of the purchase price.
+[70] In light of the conclusion above, Mattamy should have computed NHRs on the basis that the consideration for the homes included an amount on account of development charges. If this had been done, some Purchasers would be entitled to greater NHRs and some would be entitled to less.
+[71] The question to be decided is whether Mattamy is entitled to an increased deduction from net tax where the actual NHR entitlement was greater than that determined by Mattamy, and whether Mattamy is liable for the excess where the actual NHR entitlement was less.
+B. Relevant legislative provisions
+[72] Subsection 254(2) of the ETA sets out a homebuyer’s entitlement to the NHR. I have reproduced s. 254(2) as it read during the reporting periods at issue.
+254. (2) New housing rebate – Where
+(a) a builder of a single unit residential complex or a residential condominium unit makes a taxable supply by way of sale of the complex or unit to a particular individual,
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+(c) the total (in this subsection referred to as the “total consideration”) of all amounts, each of which is the consideration payable for the supply to the particular individual of the complex or unit or for any other taxable supply to the particular individual of an interest in the complex or unit, is less than $450,000,
+(d) the particular individual has paid all of the tax under Division II payable in respect of the supply of the complex or unit and in respect of any other supply to the individual of an interest in the complex or unit (the total of which tax under subsection 165(1) is referred to in this subsection as the “total tax paid by the particular individual”),
+(e) ownership of the complex or unit is transferred to the particular individual after the construction or substantial renovation thereof is substantially completed,
+(f) after the construction or substantial renovation is substantially completed and before possession of the complex or unit is given to the particular individual under the agreement of purchase and sale of the complex or unit
+(i) in the case of a single unit residential complex, the complex was not occupied by any individual as a place of residence or lodging, and
+(ii) in the case of a residential condominium unit, the unit was not occupied by an individual as a place of residence or lodging unless, throughout the time the complex or unit was so occupied, it was occupied as a place of residence by an individual, or a relation of an individual, who was at the time of that occupancy a purchaser of the unit under an agreement of purchase and sale of the unit, and
+(g) either
+(i) the first individual to occupy the complex or unit as a place of residence at any time after substantial completion of the construction or renovation is
+(A) in the case of a single unit residential complex, the particular individual or a relation of the particular individual, and
+(B) in the case of a residential condominium unit, an individual, or a relation of an individual, who was at that time a purchaser of the unit under an agreement of purchase and sale of the unit, or
+(ii) the particular individual makes an exempt supply by way of sale of the complex or unit and ownership thereof is transferred to the recipient of the supply before the complex or unit is occupied by any individual as a place of residence or lodging,
+the Minister shall, subject to subsection (3), pay a rebate to the particular individual equal to
+(h) where the total consideration is not more than $350,000, an amount equal to the lesser of $8,750 and 36% of the total tax paid by the particular individual, and
+(i) where the total consideration is more than $350,000 but less than $450,000, the amount determined by the formula
+A × ($450,000 - B)/$100,000
+where
+A is the lesser of $8,750 and 36% of the total tax paid by the particular individual, and
+B is the total consideration.
+[73] Subsection 254(4) allows a builder to pay or credit to a buyer an amount on account of the NHR to which that buyer is entitled.
+254. (4) Application to builder - Where
+(a) the builder of a single unit residential complex or a residential condominium unit has made a taxable supply of the complex or unit by way of sale to an individual and has transferred ownership of the complex or unit to the individual under the agreement for the supply,
+(b) tax under Division II has been paid, or is payable, by the individual in respect of the supply,
+(c) the individual, within two years after the day ownership of the complex or unit is transferred to the individual under the agreement for the supply, submits to the builder in prescribed manner an application in prescribed form containing prescribed information for the rebate to which the individual would be entitled under subsection (2) or (2.1) in respect of the complex or unit if the individual applied therefor within the time allowed for such an application,
+(d) the builder agrees to pay or credit to or in favour of the individual any rebate under this section that is payable to the individual in respect of the complex, and
+(e) the tax payable in respect of the supply has not been paid at the time the individual submits an application to the builder for the rebate and, if the individual had paid the tax and made application for the rebate, the rebate would have been payable to the individual under subsection (2) or (2.1), as the case may be,
+the builder may pay or credit the amount of the rebate, if any, to or in favour of the individual.
+[74] If a builder has paid or credited the NHR to the buyer, the builder is entitled to recover that expenditure by claiming a deduction in computing its net tax pursuant to subsection 234(1). I have reproduced s. 234(1), as it read during the relevant reporting periods.
+234. (1) Deduction for rebate [credited by supplier to purchaser] - If, in the circumstances described in subsection 252.41(2), 254(4), 254.1(4) or 258.1(3), a particular person pays to or credits in favour of another person an amount on account of a rebate and transmits the application of the other person for the rebate to the Minister in accordance with subsection 252.41(2), 254(5), 254.1(5) or 258.1(4), as the case requires, the particular person may deduct the amount in determining the net tax of the particular person for the reporting period in which the amount is paid or credited.
+[75] Mattamy relies on subsections 296(2) and (2.1) for a further deduction from net tax in those circumstances where Purchasers would have been entitled to greater NHRs.
+[76] In general, subsections 296(2) and (2.1) provide that if, in making an assessment of net tax, the Minister determines that the taxpayer did not claim sufficient deductions in computing net tax or rebates, the Minister is required to make the adjustment in that assessment. I have reproduced these provisions, as they read during the reporting periods at issue.
+296. (2) Allowance of unclaimed credit - Where, in assessing the net tax of a person for a particular reporting period of the person, the Minister determines that
+(a) an amount (in this subsection referred to as the "allowable credit") would have been allowed as an input tax credit for the particular reporting period or as a deduction in determining the net tax for the particular reporting period if it had been claimed in a return under Division V for the particular reporting period filed on the day that is the day on or before which the return for the particular reporting period was required to be filed and the requirements, if any, of subsection 169(4) or 234(1) respecting documentation that apply in respect of the allowable credit had been met,
+(b) the allowable credit was not claimed by the person in a return filed before the day notice of the assessment is sent to the person or was so claimed but was disallowed by the Minister, and
+(c) the allowable credit would be allowed, as an input tax credit or deduction in determining the net tax for a reporting period of the person, if it were claimed in a return under Division V filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that return only because the period for claiming the allowable credit expired before that day,
+the Minister shall, unless otherwise requested by the person, take the allowable credit into account in assessing the net tax for the particular reporting period as if the person had claimed the allowable credit in a return filed for the period.
+(2.1) Allowance of unclaimed rebate - Where, in assessing the net tax of a person for a reporting period of the person or an amount (in this subsection referred to as the "overdue amount") that became payable by a person under this Part, the Minister determines that
+(a) an amount (in this subsection referred to as the "allowable rebate") would have been payable to the person as a rebate if it had been claimed in an application under this Part filed on the particular day that is
+(i) if the assessment is in respect of net tax for the reporting period, the day on or before which the return under Division V for the period was required to be filed, or
+(ii) if the assessment is in respect of an overdue amount, the day on which the overdue amount became payable by the person,
+and, where the rebate is in respect of an amount that is being assessed, if the person had paid or remitted that amount,
+(b) the allowable rebate was not claimed by the person in an application filed before the day notice of the assessment is sent to the person, and
+(c) the allowable rebate would be payable to the person if it were claimed in an application under this Part filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that application only because the period for claiming the allowable rebate expired before that day,
+the Minister shall, unless otherwise requested by the person, apply all or part of the allowable rebate against that net tax or overdue amount as if the person had, on the particular day, paid or remitted the amount so applied on account of that net tax or overdue amount.
+[77] In the opposite circumstance in which Mattamy paid or credited excessive NHRs to Purchasers, and then claimed excessive deductions in computing its net tax, the Crown submits that Mattamy is liable for that excess pursuant to subsection 254(6). Under this provision, if a builder has deducted an amount to which it is not entitled pursuant to s. 234(1), the builder may be liable to pay to the Receiver General the amount of that excess pursuant to section 264. Subsections 254(6) and 264(1) are reproduced below.
+254. (6) Joint and several liability - Where the builder of a single unit residential complex or a residential condominium unit pays or credits a rebate to or in favour of an individual under subsection (4) and the builder knows or ought to know that the individual is not entitled to the rebate or that the amount paid or credited exceeds the rebate to which the individual is entitled, the builder and the individual are jointly and severally liable to pay the amount of the rebate or excess to the Receiver General under section 264.
+264. (1) Overpayment of rebate or interest - Where an amount is paid to, or applied to a liability of, a person as a rebate under section 215.1, subsection 216(6) or this Division (other than section 253) or as interest under section 297 and the person is not entitled to the rebate or interest, as the case may be, or the amount paid or applied exceeds the rebate or interest, as the case may be, to which the person is entitled, the person shall pay to the Receiver General an amount equal to the rebate, interest or excess, as the case may be, on the day the amount is paid to, or applied to a liability of, the person.
+C. Factual background
+[78] The following are the pertinent facts as described in the ASF.
+New Housing Rebate
+44. Each Purchase Agreement provided that the Purchaser would credit to the Vendor all of the Purchaser’s rights to a new housing rebate pursuant to section 254 of the ETA (the “Rebate”).
+45. Prior to Closing, each Vendor calculated an amount in respect of the Rebate on behalf of each eligible Purchaser. The Rebate amount claimed was as set out in the Statement of Adjustments.
+46. Using the Vendor’s calculation of the Rebate, each Purchaser claiming a Rebate, executed and delivered a Rebate Application to the Vendor on Closing.
+47. Subsequent to Closing, the Vendors transmitted the Rebate Applications executed by the Purchasers to the Minister and claimed the Rebates stated therein as deductions from its net tax owing in its returns for the Reporting Periods in which the sale transactions were concluded.
+48. As the Development Charge Amounts had not been included in the Total Sale Price for the New Home on the Statement of Adjustments for purposes of determining the Rebate, the Vendors did not claim deductions from their net tax of any rebate of GST in respect of the Development Charge Amounts.
+49. The Vendors did not pay or credit the Purchasers with any amount in excess of the amount of GST Rebate on their Applications.
+[…]
+Facts Relating to Appellant’s Knowledge and Conduct re Development Charges […]
+[…]
+60. In late 2000, the Appellant engaged the services of a consultant, Eric Wegler, C.A. Mr. Wegler, met with Peter Gilgan, and Don Walker. Mr. Gilgan was the founder and CEO of the Appellant and Don Walker was the CFO. Both were Chartered Accountants.
+61. Mr. Wegler advised Mr. Gilgan and Mr. Walker that in his view development charges, which were GST exempt when paid to a municipality, could be paid by the builder as agent for the purchaser of a new home, separately reimbursed to the builder on closing and excluded from the purchase price for purposes of GST. He also explained that in his view the development charge was akin to a tax and that GST should not be imposed on top of other taxes.
+62. Mr. Wegler further advised Mr. Gilgan and Mr. Walker that a real estate development company (the “Development Company”) for whom he worked had engaged in the practice of excluding development charges from the purchase price of new homes when computing GST. The Development Company had been subject to general GST audits by the CRA. Mr. Wegler told Mr. Gilgan and Mr. Walker that no adjustment had been made to the Development Company’s GST in respect of development charges.
+63. In his discussions with Mr. Gilgan and Mr. Walker, Mr. Wegler did not state one way or another whether the CRA auditor was aware of or approved of the Development Company’s practice of excluding development charges from the purchase price of new homes when computing GST. Mr. Wegler was not asked by Mr. Gilgan or Mr. Walker whether the CRA auditor was aware that the Development Company was not charging GST on development charges or whether the auditor had expressed a view with respect to that practice.
+64. The CRA audit referred to by Mr. Wegler in his discussions with Mr. Gilgan and Walker was a general GST audit and was not specifically directed to the application of GST on development charges. Mr. Wegler did not draw to the CRA’s attention the fact that the Development Company was excluding development charges from the purchase price of new homes when computing GST, nor did Mr. Wegler know whether the CRA auditor was aware that the Development Company was carrying on that practice. He knew only that following the audit of the Development Company, no adjustment was made in respect of GST on development charges.
+65. To implement his recommendations, Mr. Wegler revised the Appellant’s standard form agreement of purchase and sale and the Appellant changed its closing practices, as set out above, with respect to all sales of new homes to Purchasers which are subject to the Notices of Reassessment.
+66. The Appellant did not seek legal advice on whether GST was collectible on the development charge portion of the purchase price under new contracts.
+[79] The following is a typical provision in the Purchase Agreements dealing with NHRs (JBD, Tab 14).
+28. (a) The Purchase Price includes G.S.T. at the rate of seven per cent and has been determined taking into account the G.S.T. rebate (the “Rebate”) contained in Section 254 of the Excise Tax Act. If G.S.T. is included, the Purchaser assigns to the Vendor all of its rights to the Rebate and shall reimburse the Vendor for any loss of the Rebate caused by his or her failure to comply with the representation to be contained in the statutory declaration or certificate or covenant referred in paragraph 28(b).
+(b) Prior to closing the Purchaser shall execute a statutory declaration or certificate or covenant in a form satisfactory to the Vendor confirming that:
+(i) the Purchaser is acquiring the Property for use as the primary place of residence of the Purchaser, an individual related to the Purchaser or a former spouse of the Purchaser, and
+(ii) the Purchaser or a personal related to the Purchaser will be the first individual to occupy the Property as a place of residence.
+(c) The Purchaser shall execute and deliver upon closing an Application pursuant to sub-section 254(b) [sic] of the Excise Tax Act in prescribed form.
+(d) In the event that the Purchaser takes any action that would disentitle it receiving the Rebate, it shall indemnify the Vendor from any loss of such rebate and the amount of such Rebate shall be credited to the Vendor on Closing if discovered prior to closing, or paid to the Vendor if discovered after Closing.
+D. Is Mattamy entitled to additional net tax deductions?
+[80] As stated above, Mattamy relies on subsections 296(2) and 296(2.1) to recover the amount of NHRs that it could have claimed if it had computed purchase prices as including the development charges.
+[81] Dealing first with subsection 296(2.1), in my view it does not apply to Mattamy. The provision applies where “an amount … would have been payable to the person as a rebate.” It is only the buyer of the new home that is entitled to the NHR. Mattamy’s entitlement is simply to a deduction in computing net tax under subsection 234(1).
+[82] Mattamy’s counsel referred in support to United Parcel Service Canada Ltd. v The Queen, 2009 SCC 20. This decision does not assist Mattamy with respect to s. 296(2.1) because it dealt with a different legislative provision, section 261(1). The applicable wording in the two provisions is quite different.
+[83] The other provision relied on by Mattamy, subsection 296(2), is the relevant provision to be considered. It applies if a builder has paid or credited an amount to a buyer on account of a NHR but has not claimed the corresponding deduction in computing its net tax.
+[84] Subsection 296(2) requires the Minister to allow a deduction under subsection 234(1) when assessing a taxpayer if that deduction would have been allowed if that taxpayer had claimed it in a return. In order for Mattamy to qualify for this relief, Mattamy must have paid or credited to the Purchasers an amount on account of the unclaimed portion of the NHR pursuant to subsection 254(4).
+[85] The difficulty that I have with the application of this provision in the circumstances of this appeal is that Mattamy has not paid or credited the unclaimed portion of NHRs to Purchasers. Paragraph 49 of the ASF reads:
+49. The Vendors did not pay or credit the Purchasers with any amount in excess of the amount of GST Rebate on their Applications.
+[86] In light of this agreed fact, Mattamy does not satisfy the conditions for relief in subsection 296(2).
+[87] Mattamy suggests that relief should be given because Purchasers are not entitled to further NHRs, having assigned them to Mattamy. I can understand the position that Mattamy takes that it should be entitled to relief, but no relief can be given because Mattamy has not satisfied the legislative requirements of subsection 296(2).
+E. Is Mattamy liable for NHR claims that were too high?
+[88] I turn now to the circumstances in which Mattamy credited Purchasers with excessive NHRs. Mattamy has been assessed for the excess pursuant to subsection 254(6) of the ETA.
+[89] In order for subsection 254(6) to apply, Mattamy must have known, or ought to have known, that it credited Purchasers with excessive NHRs.
+[90] The Crown submits that Mattamy ought to have known that the NHRs were excessive because, had it exercised due diligence, Mattamy would have known that the consideration for the homes included the amount of applicable development charges.
+[91] The Crown suggests that the phrase “ought to have known” brings in the notion of “due diligence.” I agree with this; however, I would note that the test in s. 254(6) is not a due diligence test per se.
+[92] In accordance with judicial interpretation of the phrase “ought to have known” in other contexts, the test is an objective one: Would a person acting reasonably know that the NHR claims were excessive because the amount of the applicable development charges should be included in the consideration for the homes? (See, for example, Canada (AG) v Roy (Trustee of), 2007 FCA 410).
+[93] Applying this test to the facts in this case, in my view Mattamy ought to have known that it credited Purchasers with excessive NHRs. Based on the ASF above and the lack of further evidence, Mattamy’s actions were extremely careless. Mattamy relied on information that another developer had instituted a similar plan, and that no adjustment had been made despite a subsequent audit. It would be unreasonable for Mattamy to infer from this that the other developer’s plan was legally sound. The developer may simply have won the audit lottery as a result of the CRA not spotting the issue.
+[94] In my view, a reasonable person in Mattamy’s circumstances would have concluded, based on competent professional advice, that the Purchasers did not pay development charges qua development charges. Quite simply, this is the only reasonable conclusion that may be drawn from the Purchase Agreements. Because the amount of a NHR is a function of the consideration for the home, it follows that a reasonable person would have known that some of the amounts paid or credited by Mattamy in respect of Purchasers’ NHR claims were excessive. I conclude that Mattamy is liable for the amount of the excess.
+V. Conclusion
+[95] In the result, the appeal will be dismissed, with costs to the Crown.
+Signed at Ottawa, Ontario this 12th day of February 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 53
+COURT FILE NO.: 2008-2571(GST)G
+STYLE OF CAUSE: GF PARTNERSHIP and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: April 16 - 20, June 6 - 7, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: February 12, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Irving Marks
+Michael Gasch
+Ellad Gersh
+Counsel for the Respondent:
+Michael Ezri
+Tamara Watters
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Irving Marks
+Firm: Robins Appleby & Taub LLP
+Toronto, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

@@ -1,0 +1,190 @@
+Title: 9105-6432 Quebec Inc. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27850/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-215-27850-9105-6432-quebec-inc-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-03-24
+
+# 9105-6432 Quebec Inc. M.R.N.
+
+- Citation: 2005 CCI 215
+- Decision date: 2005-03-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 325, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9105-6432 Quebec Inc. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-24
+Référence neutre
+2005 CCI 215
+Numéro de dossier
+2004-4158(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-4158(EI),
+ENTRE :
+9105-6432 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 17 mars 2005, à Montréal (Québec)
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocats de l'appelante :
+Me Gerardo Nicolo et
+Me Jean-François Girard
+Avocate de l'intimé :
+Me Marie-Aimée Cantin
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est admis et la décision rendue par le ministre du Revenu national en date du 16 septembre 2004 pour la période du 5 janvier 2001 au 1er février 2003 est modifiée sur la base que le travailleur, Jean-Paul Berthiaume, n'exerçait pas, par application de l'alinéa 6g) du Règlement de l'assurance-emploi, un emploi assurable au cours de la période en litige.
+Signé à Ottawa, Canada, ce 23e jour de mars 2005.
+« Lucie Lamarre »
+Juge Lamarre
+Dossier : 2004-4159(EI),
+ENTRE :
+9105-6432 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 17 mars 2005, à Montréal (Québec)
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocats de l'appelante :
+Me Gerardo Nicolo et
+Me Jean-François Girard
+Avocate de l'intimé :
+Me Marie-Aimée Cantin
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est admis et la décision rendue par le ministre du Revenu national en date du 17 septembre 2004 pour la période du 15 juin 2001 au 6 février 2004 est modifiée sur la base que le travailleur, Iosif Neda, n'exerçait pas, par application de l'alinéa 6g) du Règlement de l'assurance-emploi, un emploi assurable au cours de la période en litige.
+Signé à Ottawa, Canada, ce 23e jour de mars 2005.
+« Lucie Lamarre »
+Juge Lamarre
+Dossier : 2004-4228(EI)
+ENTRE :
+9105-6432 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 17 mars 2005, à Montréal (Québec)
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocats de l'appelante :
+Me Gerardo Nicolo et
+Me Jean-François Girard
+Avocate de l'intimé :
+Me Marie-Aimée Cantin
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est admis et la décision rendue par le ministre du Revenu national en date du 17 septembre 2004 pour la période du 14 mai 2001 au 13 février 2004 est modifiée sur la base que le travailleur, Guy Fleurent, n'exerçait pas, par application de l'alinéa 6g) du Règlement de l'assurance-emploi, un emploi assurable au cours de la période en litige.
+Signé à Ottawa, Canada, ce 23e jour de mars 2005.
+« Lucie Lamarre »
+Juge Lamarre
+Dossier : 2004-4229(EI)
+ENTRE :
+9105-6432 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 17 mars 2005, à Montréal (Québec)
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocats de l'appelante :
+Me Gerardo Nicolo et
+Me Jean-François Girard
+Avocate de l'intimé :
+Me Marie-Aimée Cantin
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est admis et la décision rendue par le ministre du Revenu national en date du 16 septembre 2004 pour la période du 6 février 2001 au 1er février 2003 est modifiée sur la base que le travailleur, Jean Rochefort, n'exerçait pas, par application de l'alinéa 6g) du Règlement de l'assurance-emploi, un emploi assurable au cours de la période en litige.
+Signé à Ottawa, Canada, ce 23e jour de mars 2005.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2005CCI215
+Date : 20050323
+Dossier : 2004-4158(EI), 2004-4159(EI),
+2004-4228(EI) et 2004-4229(EI)
+ENTRE :
+9105-6432 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s'agit d'appels de décisions du ministre du Revenu national (« Ministre ») par lesquelles il a été décidé que quatre travailleurs qui ont été au service de l'appelante au cours des périodes mentionnées ci-après, occupaient des emplois assurables par l'application de l'alinéa 6g) du Règlement sur l'assurance-emploi (« Règlement »). Ces quatre travailleurs et les périodes durant lesquelles ils ont été au service de l'appelante sont énumérés comme suit :
+• Monsieur Iosif Neda, du 15 juin 2001 au 6 février 2004;
+• Monsieur Jean-Paul Berthiaume, du 5 janvier 2001 au 1er février 2003;
+• Monsieur Guy Fleurent, du 14 mai 2001 au 13 février 2004;
+• Monsieur Jean Rochefort, du 6 février 2001 au 1er février 2003.
+[2] L'alinéa 6g) du Règlement se lit ainsi :
+6. Sont inclus dans les emplois assurables, s'ils ne sont pas des emplois exclus conformément aux dispositions du présent règlement, les emplois suivants :
+[...]
+g) l'emploi exercé par une personne appelée par une agence de placement à fournir des services à un client de l'agence, sous la direction et le contrôle de ce client, en étant rétribuée par l'agence.
+[3] Il n'est pas contesté qu'au cours des périodes en litige, l'appelante qui faisait affaires sous la raison sociale « Service de gestion Option-Ressources enr. », était une agence de placement, et que c'est elle qui rémunérait les travailleurs.
+[4] Il n'est pas non plus contesté que n'eut-été de l'alinéa 6g) du Règlement, les quatre travailleurs en question étaient considérés comme des travailleurs autonomes. La seule question en litige est de déterminer si ces travailleurs exécutaient leur travail sous la direction et le contrôle des clients pour lesquels ils étaient appelés à fournir des services, à la demande de l'agence de placement, l'appelante. Dans l'affirmative, ils seront considérés avoir exercé un emploi assurable au sens de l'alinéa 6g) du Règlement.
+[5] Trois des quatre travailleurs de même que Réjean Beauregard, le propriétaire de l'agence, sont venus témoigner.
+[6] Monsieur Iosif Neda se décrit comme un professionnel en entretien général d'immeubles. Il s'occupe de l'entretien technique de bâtiments depuis 25 ans. Il travaille seul, à son compte. En 2001, il a contacté l'appelante qui avait fait de la publicité dans les journaux pour obtenir les services d'un homme-à-tout-faire. Après avoir rencontré le propriétaire, il a signé une convention le 15 juin 2001 avec l'appelante. Cette convention est intitulée « sous-contrat ». Monsieur Neda s'engageait à accomplir les tâches d'entretien et réparation pour le Centre d'accueil de Lachine, pour un taux horaire de 14 $. Le contrat était d'une durée de six mois, renouvelable. Il était stipulé que l'appelante pouvait mettre fin à cette convention si le client était insatisfait des services rendus ou si le client n'avait plus besoin de ses services. Lors de son témoignage, monsieur Neda a expliqué qu'il n'était pas tenu d'accepter de travailler sur un contrat avec l'appelante. Dans le cas du contrat avec le Centre d'accueil de Lachine, il était engagé comme journalier. On lui demandait d'être présent de 8 h le matin à 16 h 45 en après-midi. Il ne signalait nullement son arrivée ou son départ au Centre d'accueil mais il respectait cet horaire. Il recevait des réquisitions du département des services techniques du Centre d'accueil et exécutait les tâches qu'il avait à faire, sans aucune supervision puisque de toute façon, personne n'avait la compétence de vérifier ce qu'il faisait. Il ne rencontrait pratiquement jamais le chef de ce département. Sauf urgence, il exécutait ses tâches à son rythme. Il prenait son lunch à sa convenance et prenait des pauses café s'il le désirait. C'est lui qui décidait s'il prenait des vacances, sans avoir à obtenir l'autorisation de quiconque. Ceci était différent pour une autre personne qui travaillait avec lui, et qui était un employé du Centre d'accueil. Cette autre personne avait des comptes à rendre (pour le travail, les vacances) alors que ce n'était pas son cas.
+[7] Pour sa rémunération, il comptabilisait ses heures de travail et facturait l'appelante qui le payait par chèques. En cas de maladie, il prévenait l'appelante qui avisait le Centre d'accueil.
+[8] Monsieur Jean-Paul Berthiaume travaille comme peintre depuis 30 ans. Il a toujours facturé son travail sous le nom de Paul's Painting. Il était auparavant en Alberta. Lorsqu'il est arrivé au Québec, il a mis des annonces dans les journaux. L'appelante a alors communiqué avec lui. Il a signé le même genre d'entente que nous avons vu précédemment avec monsieur Neda. Dans son cas, il était engagé pour faire la peinture à l'hôpital Villa Medica. Son tarif horaire était de 14 $. C'est un employé à l'entretien de l'hôpital qui lui indiquait les endroits à peinturer. Monsieur Berthiaume fournissait son propre matériel et exécutait son ouvrage selon son propre horaire. S'il ne pouvait le faire dans le créneau horaire de 8 h à 17 h (par exemple, s'il devait travailler sur un autre contrat), il pouvait travailler en soirée ou les week-ends. Il avait les clés des endroits où il devait peinturer. C'est lui qui décidait de ses heures de lunch et de ses pauses, et prenait ses vacances quand cela lui convenait.
+[9] Lorsqu'il travaillait, il était presque toujours seul. De temps en temps, l'employé à l'entretien de l'hôpital venait vérifier si le travail était bien fait.
+[10] Il enregistrait ses heures de travail sur une feuille fournie par l'hôpital, et l'hôpital envoyait cette feuille à l'appelante une fois par semaine. Quant à lui, il facturait directement l'appelante pour ses heures afin de recevoir sa rétribution. Il n'était jamais obligé d'accepter un contrat pour l'appelante.
+[11] Monsieur Guy Fleurent, quant à lui, est chauffeur pour les handicapés. Il a travaillé 23 ans dans le transport de personnes handicapées par contrats avec la Ville de Laval. Par la suite, soit le 14 mai 2001, il a signé avec l'appelante le même genre d'entente que les deux autres travailleurs décrits plus haut. Il acceptait par cette entente de travailler comme chauffeur pour la résidence Berthiaume du Tremblay à un tarif horaire de 15 $. Il affirme qu'il a travaillé également pour d'autres centres. Il était rémunéré par l'appelante pour des journées de travail commençant à 8 h et se terminant à 16 h 30. Des employés de la résidence lui donnaient une liste de patients à aller chercher chez eux pour ensuite les emmener à la résidence. Il devait les retourner chez eux dans la même journée après leurs traitements. Monsieur Fleurent faisait l'inspection du véhicule chaque matin, prenait sa feuille de route et allait chercher les patients à l'heure indiquée par le groupe d'intervenants de la résidence. Très souvent, il était libre à compter de 11 h du matin et ne revenait qu'en après-midi. Il s'organisait seul dans son travail, sans aucune supervision. S'il voulait prendre des vacances, il avisait l'appelante qui s'occupait de le remplacer à la résidence si nécessaire. Il facturait lui-même ses heures à l'appelante et la résidence ne vérifiait pas ses heures.
+[12] Monsieur Fleurent est maintenant devenu un employé régulier de la résidence. Il doit maintenant s'habiller selon certaines conventions alors que ce n'était pas le cas lorsqu'il travaillait par contrat avec l'appelante. Il ne peut plus quitter les lieux maintenant dans le milieu de la journée comme il le faisait auparavant lorsqu'il travaillait avec l'appelante, lorsqu'il n'y avait pas de transport à faire. Il doit maintenant s'occuper de l'entretien et de la vérification du véhicule et manger avec les patients le midi. Ses vacances sont maintenant déterminées par la résidence. Son rendement est maintenant évalué alors que cela n'a jamais été le cas avec l'appelante.
+[13] Finalement, monsieur Réjean Beauregard a témoigné pour expliquer la situation de Jean Rochefort, le quatrième travailleur, qui ne pouvait être présent à l'audition. Ce dernier a signé avec l'appelante le 6 février 2001, le même type de contrat que les trois autres travailleurs en question, pour faire l'entretien et la réparation pour le C.H.S.L.D. Mance Decary. Monsieur Rochefort est un plombier et il était rémunéré un tarif horaire de 20 $. Monsieur Rochefort s'occupait de trois établissements pour ce centre. Ce sont les concierges de chacun de ces trois établissements qui lui indiquaient l'ouvrage à faire et ce dernier exécutait ces travaux selon son propre horaire. Il pouvait travailler de jour ou en soirée. Au début, monsieur Rochefort consacrait environ trois à quatre jours par semaine pour ce client. Par la suite, il y allait moins de trois jours par semaine. Il n'avait pas d'horaire fixe et prenait ses vacances quand il le voulait. Personne ne supervisait son travail. S'il ne pouvait s'occuper des urgences, l'établissement contactait une entreprise de plomberie directement.
+[14] Monsieur Beauregard a expliqué que lorsqu'il référait des personnes à des clients, et que ces travailleurs remplaçaient des employés accrédités par l'établissement en question, et travaillaient sous la responsabilité d'un chef de service, il considérait que ces gens étaient aussi des employés.
+[15] Toutefois, lorsqu'il référait des travailleurs à plus long terme, qui n'étaient pas couverts par l'accréditation des établissements en question, il pouvait sous‑contracter avec ces travailleurs. Ces derniers n'étaient pas supervisés et c'est pourquoi monsieur Beauregard et le travailleur en question acceptaient de travailler à sous-contrat, les travailleurs ne se considérant pas comme des employés.
+[16] Certains établissements acceptaient de compiler les heures des travailleurs afin de les faire parvenir à l'appelante pour que cette dernière puisse facturer l'établissement par la suite. L'appelante payait directement les travailleurs avec qui elle avait contractés.
+[17] Monsieur Beauregard a dit qu'il y a 76 employés qui travaillent pour l'appelante et quatre sous-traitants, qui sont les travailleurs en question dans le présent litige.
+[18] Les avocats de l'appelante argumentent que la preuve a démontré que les établissements avec qui faisait affaires l'appelante ne dirigeaient ni ne contrôlaient le travail effectué par les quatre travailleurs en question. Sauf peut-être un contrôle de qualité et de résultat, on ne peut parler de contrôle réel et effectif. On ne disait pas à ces travailleurs comment faire leur travail. On les considérait comme des sous‑contractants qui offraient leur expertise chacun dans leur domaine. Ces travailleurs pouvaient refuser un contrat en tout temps, étaient libres de leur horaire et n'étaient aucunement supervisés. Le fait que le travail soit effectué dans un lieu précis dans le cadre d'un certain horaire de travail ne peut signifier automatiquement qu'un contrôle était exercé sur leur travail. Que ce soit un employé ou un contracteur indépendant, il y a des contraintes de lieu et de temps. Ce n'est donc pas un critère pouvant établir un lien de subordination.
+[19] Quant à l'avocate de l'intimé, elle souligne qu'en vertu de l'alinéa 6g) du Règlement, on qualifie un travailleur autonome à l'assurance-emploi, s'il rencontre certaines conditions. Elle dit qu'il faut donner une interprétation large au terme « contrôle » utilisé à l'alinéa 6g) du Règlement, plus étendue que celle que l'on donne au contrôle exigé pour établir l'existence d'un contrat de louage de services. Ici, il y a un certain contrôle exercé par les clients de l'appelante puisqu'ils contrôlent la qualité du travail et peuvent mettre un terme au contrat s'ils ne sont pas satisfaits.
+[20] À mon avis, l'alinéa 6g) du Règlement n'exige pas que l'on interprète la notion de contrôle de façon différente ou de façon plus large, que lorsque l'on détermine si l'on est en présence d'un contrat de louage de services ou d'un contrat d'entreprise.
+[21] Le critère que l'on retrouve à l'alinéa 6g) du Règlement, qui est de travailler sous la direction et le contrôle du client de l'agence, est la même exigence que l'on retrouve à l'article 2085 du Code civil du Québec pour déterminer si l'on est en présence d'un contrat de travail (contrat de louage de services). De fait, l'article 2085 prévoit que le contrat de travail :
+Art. 2085. [...] est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[22] La notion de contrôle est la même. Elle ne doit pas à mon avis obtenir une interprétation plus large parce qu'elle sert à évaluer si un travailleur autonome doit devenir assurable par l'application de l'alinéa 6g) du Règlement.
+[23] Ainsi la jurisprudence récente a établi que l'on pouvait parler de contrôle lorsqu'on donne des ordres et des instructions quant à la manière d'accomplir son travail (voir Vulcain Alarme Inc. c. Canada (M.R.N.), [1999] A.C.F. no 749, paragraphe 7 (Q.L.)). Le contrôle quant aux lieux en général et quant aux endroits spécifiques où les travaux doivent être exécutés, ou le fait que les tâches soient exécutées selon un horaire et une rémunération déterminés, ne conduisent pas nécessairement à l'existence d'un lien de subordination entre les parties (voir Poulin c. Canada (M.R.N.), 2003 CAF 50, paragraphes 16 et 19). Il est également normal que les travaux effectués par contrat de services soient aussi soumis à des contrôles d'exécution, de productivité et de qualité. (voir Poulin, précité, paragraphe 16). L'exercice de ce genre de contrôle ne veut pas dire que le travailleur est subordonné, ou est sous le contrôle et la direction de celui qui l'exerce. L'intention contractuelle des parties est aussi un facteur important (voir Wolf c. Canada (C.A.), 2002 CAF 96, paragraphe 122). Ainsi, si le travailleur choisit d'offrir ses services à titre d'entrepreneur indépendant et que l'entreprise qui embauche choisit des entrepreneurs indépendants pour effectuer un certain travail, et qu'ils peuvent mettre fin à leur contrat en tout temps, et que la société qui embauche ne traite pas ses consultants dans son exploitation quotidienne de la même manière qu'elle traite ses employés, alors on doit conclure que la relation de travail commence et se maintient selon le principe voulant qu'il n'y a pas de contrôle ou de subordination (voir Wolf, précité au paragraphe 118).
+[24] À mon avis, c'est précisément le cas ici. Les travailleurs ont signé une entente avec l'appelante par laquelle ils acceptaient de rendre des services à ses clients sur une base contractuelle. La preuve a révélé que chacun des établissements pour qui les travailleurs ont rendu des services n'exerçait aucun contrôle sur l'exécution de leurs travaux. Ces travailleurs étaient autonomes quant à leur horaire, et quant à la façon de faire l'ouvrage qui leur était attribué. Ils n'étaient pas traités de la même façon que les employés de ces établissements.
+[25] On ne peut donc dire qu'ils étaient sous la direction et le contrôle des clients de l'appelante. Je suis donc d'avis d'accueillir les appels et de modifier les décisions du Ministre sur la base que les travailleurs en question n'exerçaient pas, par application de l'alinéa 6g) du Règlement, un emploi assurable au cours des périodes en litige.
+Signé à Ottawa, Canada, ce 23e jour de mars 2005.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2005CCI215
+Nºs DES DOSSIERS DE LA COUR : 2004-4158(EI), 2004-4159(EI),
+2004-4228(EI) et 2004-4229(EI)
+INTITULÉ DE LA CAUSE : 9105-6432 QUÉBEC INC. ET M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 17 mars 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 23 mars 2005
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Gerardo Nicolo et
+Me Jean-François Girard
+Avocate de l'intimé :
+Me Marie-Aimée Cantin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Gerardo Nicolo et
+Me Jean-François Girard
+Étude :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

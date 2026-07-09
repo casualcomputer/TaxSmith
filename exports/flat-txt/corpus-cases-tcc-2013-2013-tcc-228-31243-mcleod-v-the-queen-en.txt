@@ -1,0 +1,142 @@
+Title: McLeod v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31243/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-228-31243-mcleod-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-07-12
+
+# McLeod v. The Queen
+
+- Citation: 2013 TCC 228
+- Decision date: 2013-07-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5147, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McLeod v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-07-12
+Neutral citation
+2013 TCC 228
+File numbers
+2011-3591(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2013 TCC 228
+Date: 20130718
+Docket: 2011-3591(IT)G
+BETWEEN:
+COLLEEN McLEOD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Woods J.
+[1] Colleen McLeod’s income tax return for the 2009 taxation year included a deduction for a business loss that was completely fictitious. She did not carry on any business. The question in this appeal is whether it is proper to impose a penalty for this misrepresentation.
+[2] At the commencement of the hearing, counsel for Ms. McLeod informed the Court that her appeal with respect to an Alberta assessment is being withdrawn. The only issue that remains is with respect to a penalty under the federal Income Tax Act in the amount of $17,297.41.
+[3] The relevant legislative provisions are subsections 163(2) and (2.1) of the Act. There is no dispute about the calculation of the penalty although counsel for Ms. McLeod submits that it is harsh in her circumstances. The dispute is whether the misrepresentation was made knowingly or amounts to gross negligence.
+[4] Subsection 163(2) provides in part:
+163.(2) False statements or omissions - Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+(a) the amount, if any, by which
+(i) the amount, if any, by which
+(A) the tax for the year that would be payable by the person under this Act
+exceeds
+(B) the amounts that would be deemed by subsections 120(2) and (2.2) to have been paid on account of the person’s tax for the year
+if the person’s taxable income for the year were computed by adding to the taxable income reported by the person in the person’s return for the year that portion of the person’s understatement of income for the year that is reasonably attributable to the false statement or omission and if the person’s tax payable for the year were computed by subtracting from the deductions from the tax otherwise payable by the person for the year such portion of any such deduction as may reasonably be attributable to the false statement or omission
+exceeds
+(ii) the amount, if any, by which
+(A) the tax for the year that would have been payable by the person under this Act
+exceeds
+(B) the amounts that would be deemed by subsections 120(2) and (2.2) to have been paid on account of the person’s tax for the year
+had the person’s tax payable for the year been assessed on the basis of the information provided in the person’s return for the year,
+[…]
+(Emphasis added)
+Background
+[5] The assumptions of fact described in paragraph 15 of the Reply are not in dispute. They are set out below.
+15. In determining the Appellant’s tax liability for the 2009 taxation year, the Minister made the following assumptions of fact:
+a) The Appellant was employed by Edmonton Public Schools and earned employment income of $42.670.00 in the 2009 taxation year;
+b) In filing her 2009 Return, the Appellant claimed a net business loss of $157,196.40 as set out in paragraph 8, above;
+c) In filing her 2009 Return, the Appellant reported a non-capital loss for carryback of $116,359.00;
+d) The Appellant requested that the non-capital loss be carried back to her 2006, 2007 and 2008 taxation years in the amounts of $37,743.00, $38,115.00 and $40,501.00, respectively;
+e) The Appellant claimed in her 2009 Return that the gross business income she reported was from “receipt as agent” and that the expenses she reported were “subcontract” expenses;
+f) The Appellant accrued no income as an agent and incurred no subcontract expenses in the 2009 taxation year;
+g) The gross business income, business expenses and net business loss claimed by the Appellant were fictitious;
+h) The Appellant was an employee during the 2009 taxation year and had no source of income with respect to the alleged business; and
+i) The Appellant did not have any non-capital losses to carryback to the 2006, 2007 and 2008 taxation years.
+[6] The fictitious claims referred to above were made with the assistance of third parties who held themselves out as carrying on business under the name Amed Solutions. Ms. McLeod dealt with two persons who used the names “Amanda” and “Ed.”
+[7] Amed Solutions prepared the 2009 income tax return and a carryback request, as well as proposed submissions for the Canada Revenue Agency (CRA) in the audit and objection stages.
+[8] Some of submissions by Amed Solutions are pure nonsense. The paragraph below is an excerpt from the first response given to the CRA auditor.
+The terms of the private contract of agency between the free will man commonly called Colleen, of the McLeod family, who is the principal, the contributing beneficiary and the true party of interest for the fictional entity/person/trust called COLLEEN MCLEOD, which, by necessity, has become the agent in commerce for the principal; is not subject to the scrutiny of a third party entity, and therefore; any private dealings between the principal and the agent cannot be released to the CANADA REVENUE AGENCY.
+[9] The CRA were suspicious about the business loss upon initial review of the income tax return. The nonsensical submissions that were subsequently received by the CRA, of which the above is a small sample, appears to have strengthened these suspicions. The loss was denied upon initial review and no refunds were paid to Ms. McLeod. Instead, gross negligence penalties were assessed.
+Analysis
+[10] The issue to be decided is whether the false statements in the income tax return were made by Ms. McLeod “… knowingly, or under circumstances amounting to gross negligence… .”
+[11] The threshold for gross negligence is higher than a failure to use reasonable care. The general test to be applied is whether the conduct is tantamount to intentional acting, or indifference as to whether the law is complied with or not: Findlay v The Queen, 2000 DTC 6345 (FCA), at para 21, 22.
+[12] In addition, the penalty in subsection 163(2) encompasses willful blindness. In Panini v The Queen, 2006 FCA 224, Nadon J.A. described that the concept of willful blindness that is accepted for culpability in a criminal context is also applicable for purposes of subsection 163(2):
+[43] […] the law will impute knowledge to a taxpayer who, in circumstances that dictate or strongly suggest that an inquiry should be made with respect to his or her tax situation, refuses or fails to commence such an inquiry without proper justification.
+[13] The Crown has the burden to establish the necessary facts: subsection 163(3) of the Act.
+[14] Counsel for Ms. McLeod submits that her conduct does not come within the culpability standard above. He submits that her conduct does not have any of the hallmarks that are typically applied to determine gross negligence, in particular: (1) magnitude of the tax reduction, (2) opportunity to detect the false statement, (3) experience of the taxpayer, and (4) genuine effort to comply (Bhatti v The Queen, 2013 TCC 143, at para. 24).
+[15] Counsel refers to the following evidence in support:
+(a) The net saving, after fees paid to Amed Solutions, was expected to be $17,731.24 (Ex. AR-1, Tab 3). Although this appears to be a large amount, it was not very significant because it was expected to include deductions that were missed over the prior ten taxation years.
+(b) Ms. McLeod did not review the 2009 income tax return before signing it. Due to an abusive marital relationship that had recently ended in divorce, Ms. McLeod was not in a position to question Amed Solutions when she was instructed to simply sign the income tax return and mail it.
+(c) Ms. McLeod relied on the advice of two friends (Rebecca and Darcy) in deciding to trust Amed Solutions.
+(d) Ms. McLeod had little more than high school education and had been kept in a state of “naivety and ignorance” by her abusive former spouse. She did not have a history of looking after her own financial affairs and she was not permitted to review her own tax return during her lengthy marriage.
+(e) Ms. McLeod knew that the income tax return would be reviewed as part of the divorce proceedings and therefore she needed it to be correct. She confirmed with Amed Solutions that this would not be a problem.
+[16] Counsel for Ms. McLeod submits that her circumstances are similar to those described in Fourney v The Queen, 2011 TCC 520, at para 80:
+[80] […] In a self-assessing tax system, however, gross negligence penalties are not imposed for mere mistakes by a taxpayer who lacked the intention to misstate or omit. […]
+[17] In large part, the submissions above rely on Ms. McLeod’s own testimony, which is self-interested. I did not find this testimony to be persuasive on key points, and it is not consistent with some of the documentary evidence.
+[18] Some of the key documents are email exchanges between Ms. McLeod and Amed Solutions that were sent throughout the audit and objection stages until a notice of confirmation was issued.
+[19] I would observe first that the email exchanges are self‑interested as between Ms. McLeod and Amed Solutions, and I have viewed the correspondence with this in mind.
+[20] The conclusion that I have reached regarding the emails is that Ms. McLeod was aware that she was claiming a false business loss prior to filing the 2009 income tax return.
+[21] Below is an excerpt from an email sent by Ms. McLeod to Amed Solutions on July 29, 2010 concerning a request by the CRA for information regarding the business loss claimed. It suggests that Ms. McLeod knew at a very early stage that she would be falsely reporting a business to the CRA, and she was concerned at that time about the impact on employment insurance. Conversely, she showed no concern about falsely claiming tax refunds.
+This process is very confusing with little explanation so I want to confirm as I did before I started with Amanda that my unemployment is not affected as I am asked the question are you self employed and continue to say no as advised.
+Also my ex husband is taking me to court (no idea why) but they will be looking at my 2009 notice of assessment. So trusting that as Amanda said all is legal and not sure what to tell them if they ask about my income.
+(Emphasis added)
+[22] I reproduce as well an excerpt from an email communication from Ms. McLeod to Amed Solutions dated March 12, 2011, which is shortly after Ms. McLeod received the assessment which denied the business loss and imposed federal and provincial penalties in the amount of $24,184.93. She is responding to options provided by Amed Solutions in response to the assessment.
+Well I read the options.
+Will them [CRA] explaining this to me [referring to proposed questions] mean that I don’t have to pay it? I doubt that.
+I really have to say that I thought this was a straightforward process since it is legal and never expected to have to deal with this. I really just want to resolve this as quickly as possible and get of [sic] this fine.
+[23] This email, along with the correspondence as a whole, suggests that Ms. McLeod was an intelligent person who was quite capable of making decisions with respect to this matter.
+[24] As for Ms. McLeod’s knowledge of the misrepresentation in the income tax return, as mentioned earlier it is likely that Ms. McLeod knew that she was claiming a false business loss. I do not accept that Ms. McLeod believed the non‑person nonsense. Although she kept repeating to Amed Solutions that they told her the arrangement was “legal,” it was in her interest to confront Amed Solutions and to assert that she trusted them and relied on them.
+[25] This conclusion is reinforced when one looks at the documentary evidence as a whole. Amed Solutions provided Ms. McLeod with nonsensical submissions to be provided to the CRA. Ms. McLeod was all too willing to go along with the game for a long time. This is not someone who was naive and duped.
+[26] I believe that when the 2009 income tax return was filed, Ms. McLeod thought that the plan was a good idea in the sense that she might receive refunds and the only downside risk was that the business loss could be denied.
+[27] It appears that it was only after the CRA questioned the income tax return that Ms. McLeod really started to probe the risks and be more concerned about the employment insurance. She was also concerned at that time about the impact on the divorce proceedings. In addition, Ms. McLeod told Ed in one email that she was shocked to receive the assessment. This is likely genuine because she did not foresee a risk of a large penalty.
+[28] Even if I am wrong that Ms. McLeod knowingly claimed a false business loss, it is certainly a case of willful blindness. Ms. McLeod engaged Amed Solutions to claim a large refund on her behalf. She had no prior relationship with them. If Ms. McLeod chose not to know how the refunds arose, and did not review the income tax return before mailing it, as she testified, this amounts to willful blindness.
+[29] The appeal will be dismissed, with costs to the respondent.
+[30] Counsel for the appellant asked for sympathy with respect to costs, noting that the penalty is extremely harsh in this case. The harshness appears to result in part from the formula for calculating the penalty. Under the formula, which is based on the tax that is sought to be avoided, the tax is computed at a relatively high tax rate which does not take into account that the actual tax savings would be spread over four taxation years and computed at lower tax rates (s. 163(2.1)).
+[31] I am not persuaded by an argument based on sympathy. I accept that the penalty is higher in this case than it would be in others, but the participation of Ms. McLeod in this scheme is reprehensible. The victims in this case are Canadian taxpayers – not Ms. McLeod.
+These Amended Reasons for Judgment are issued in substitution for the Reasons for Judgment dated July 12, 2013.
+Signed at Toronto, Ontario this 18th day of July 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 228
+COURT FILE NO.: 2011-3591(IT)G
+STYLE OF CAUSE: COLLEEN McLEOD and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: July 3, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF AMENDED REASONS
+FOR JUDGMENT: July 18, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Mike W. Harris
+Counsel for the Respondent:
+Wendy Bridges
+Robert Neilson
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Mike W. Harris
+Firm: Dentons Canada LLP
+Edmonton, Alberta
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

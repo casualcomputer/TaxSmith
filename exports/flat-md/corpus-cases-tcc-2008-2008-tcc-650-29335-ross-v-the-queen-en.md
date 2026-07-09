@@ -1,0 +1,129 @@
+---
+title: "Ross v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29335/index.do"
+last_modified: "2008-10-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 650"
+citation2: ""
+neutral_citation: "2008 TCC 650"
+decision_date: "2008-10-31"
+language: "en"
+item_id: "29335"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6986
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:41:49.189000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3ba04d69104a2035b87d8159d1d38d2b240f3d1ca4cd4851dc339e0541b1e49f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ross v. The Queen
+
+- Citation: 2008 TCC 650
+- Decision date: 2008-10-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6986, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ross v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-31
+Neutral citation
+2008 TCC 650
+File numbers
+2005-4263(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008 TCC 650
+2005-4263(IT)G
+TAX COURT OF CANADA
+BETWEEN:
+DENEE ROSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER GIVEN ORALLY FROM THE BENCH
+BY THE HONOURABLE JUSTICE GASTON JORRÉ,
+in the Courts Administration Service,
+180 Queen Street West, Toronto, Ontario,
+on Friday, October 31, 2008.
+APPEARANCES:
+No one appeared
+For the Appellant
+Mr. Justin Kutyan
+For the Respondent
+A.S.A.P. Reporting Services Inc. 8 (2008)
+200 Elgin Street, Suite 1105
+Ottawa, Ontario K2P 1L5
+(613) 564-2727
+130 King Street West, Suite 1800
+Toronto, Ontario M5X 1E3
+(416) 861-8720
+REASONS FOR ORDER
+(Edited transcript of Reasons given orally from the Bench
+on October 31, 2008, at Toronto, Ontario.)
+[1] HONOURABLE MR. JUSTICE JORRÉ: I will now render my decision with respect to the Respondent's motion in the appeal of Denee Ross v. Her Majesty the Queen.
+[2] On June 3, 2008, subsequent to a show cause hearing on May 29, 2008, Mr. Justice Hershfield made an order that examinations for discovery be completed by written questions and answers pursuant to sections 113 and 114 of the rules no later than August 29, 2008; he also ordered that the matter be set down for hearing at 9:30 am on November 18, 2008.
+[3] I have before me a motion for an order dismissing the appeal for delay and for failure to comply with a court order. Alternatively, the Respondent seeks an order that the Appellant serve answers to the written questions on or before November 7, 2008.
+[4] The Respondent's motion record was served on the Appellant on October 23, 2008.
+[5] The Appellant did not appear at the hearing of this motion.
+[6] The Notice of Appeal in this matter was filed on November 28, 2005. The Minister's reply was filed on February 24, 2006. The Respondent filed its list of documents on July 13, 2006.
+[7] As a result of a status hearing on June 27, 2007, the Appellant was ordered by Madam Justice Woods to file and serve her list of documents no later than August 17, 2007; the same order ordered the parties to have discoveries by October 31, 2007 at the latest. The Appellant's list was filed on August 17, 2007.
+[8] The discoveries were not completed in accordance with the order of Madam Justice Woods and there was a show cause hearing before Mr. Justice Hershfield on May 29, 2008 resulting in the order of June 3, 2008 that I previously referred to.
+[9] The affidavit in the motion record and the exhibits thereto indicate that the Respondent sent written questions to the Appellant by registered mail on July 28, 2008. As of the date of the affidavit, October 23, 2008, the Appellant had failed to provide any answer to the written questions.
+[10] On August 30, 2008 the Appellant sent an e-mail to counsel for the Respondent enclosing a letter saying that she needed at least two more weeks to answer. On September 2, 2008 counsel for the Respondent sent an e-mail to the Appellant saying that he would not oppose a motion if the Appellant chose to make one, a motion seeking a two-week extension to the timetable for responding to the questions.
+[11] On October 10, 2008 the Appellant sent a letter by regular mail, registered mail and by e-mail to the Respondent saying that if the Respondent did not receive answers by October 17, 2008 the Respondent would bring a motion to compel answers and seek costs. That motion is what is before me.
+[12] This matter began at the end of 2005; two and a half years have gone by since then. Based on the sequence of events described above, it is clear that the Appellant is not actively pursuing her appeal. The Appellant is taking a reactive approach to the matter.
+[13] The Appellant is not diligent in pursuing the appeal and it is well established that the obligation is on the Appellant to pursue their appeal.
+[14] I note that the Respondent's letter of October 10 only spoke of an order compelling answers, although the primary remedy now sought is for the appeal to be struck. Of course, there is nothing wrong in seeking a greater remedy in the motion.
+[15] In all the circumstances, I have concluded that it would be appropriate for me to grant to the Appellant the alternative remedy sought. I order that the Appellant shall serve answers to the written questions on examination for discovery on or before November 7, 2008.
+[16] The Respondent shall have its costs on this motion ― whatever the outcome of the cause ― and those costs will be set at the amount of $600 and shall be payable forthwith.
+[17] Thank you.
+CITATION: 2008 TCC 650
+COURT FILE NO.: 2005-4263(IT)G
+STYLE OF CAUSE: DENEE ROSS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 31, 2008
+REASONS FOR ORDER BY: The Honourable Justice Gaston Jorré
+DATE OF REASONS FOR
+ORDER RENDERED ORALLY: October 31, 2008
+DATE OF EDITED TRANSCRIPT
+OF REASONS FOR ORDER: November 27, 2008
+APPEARANCES:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Justin Kutyan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

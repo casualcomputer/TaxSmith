@@ -1,0 +1,427 @@
+---
+title: "Canadian Forest Products Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26428/index.do"
+last_modified: "2004-06-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 405"
+citation2: ""
+neutral_citation: "2004 TCC 405"
+decision_date: "2004-06-01"
+language: "en"
+item_id: "26428"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3179
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:22:57.725000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "83607fc0d74c3993cff2d19b9e602cc2b571fd12ad530d9ff49a99d33317b7a6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Canadian Forest Products Ltd. v. The Queen
+
+- Citation: 2004 TCC 405
+- Decision date: 2004-06-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3179, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canadian Forest Products Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-01
+Neutral citation
+2004 TCC 405
+File numbers
+2001-3126(IT)G
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-3126(IT)G
+BETWEEN:
+CANADIAN FOREST PRODUCTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeal of
+Canadian Forest Products Ltd., (2001-4526(IT)G) at Vancouver, British Columbia.
+Before: The Honourable Justice Theodore E. Margeson
+Appearances:
+Counsel for the Appellant:
+Werner H. G. Heinrich
+Counsel for the Respondent:
+Lynn M. Burch
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1994, 1995 and 1996 taxation years are allowed, with costs, and the matters are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1rst day of June, 2004.
+"Theodore E. Margeson"
+Margeson, J.
+Docket: 2001-4526(IT)G
+BETWEEN:
+CANADIAN FOREST PRODUCTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Canadian Forest Products Ltd., (2001-3126(IT)G) at Vancouver, British Columbia.
+Before: The Honourable Justice Theodore E. Margeson
+Appearances:
+Counsel for the Appellant:
+Werner H. G. Heinrich
+Counsel for the Respondent:
+Lynn M. Burch
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1997 taxation year is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1rst day of June, 2004.
+"Theodore E. Margeson"
+Margeson, J.
+Citation: 2004TCC405
+Date: 20040601
+Dockets: 2001-3126(IT)G
+2001-4526(IT)G
+BETWEEN:
+CANADIAN FOREST PRODUCTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Margeson, J.
+[1] With respect to court file number 2001-3126(IT)G, the Appellant hereinafter referred to as "Canfor" appealed from:
+(a) Notice of Reassessment for Part I.3 tax dated January 26, 1999 issued in respect of its 1994 taxation year which reassessment the Appeals Branch of the Canada Customs and Revenue Agency ("CCRA") on June 4, 2001 agreed to vary in part;
+(b) Notice of Reassessment dated December 15, 1999 for Part I.3 tax issued in respect of its 1995 taxation year and subsequently confirmed on June 7, 2001; and
+(c) Notice of Reassessment dated February 12, 2001 for Part I.3 tax issued in respect of its 1996 taxation year and subsequently reassessed on May 28, 2001 and confirmed on June 7, 2001.
+[2] In court file number 2001-4526(IT)G, the Appellant appealed from Notice of Reassessment for Part I.3 tax dated May 28, 2001 issued in respect of its 1997 taxation year which reassessment was confirmed on September 5, 2001.
+[3] It was agreed that at the outset that all of these appeals would be heard on common evidence.
+Issues
+[4] The issues in respect to the 1997 assessment are:
+1. Do the net amounts as at the Appellant's year-end constitute "loans and advances" within the meaning of paragraph 181.2(3)(c) of Part I.3 of the Income Tax Act ("Act") as assessed?
+2. Should the calculation of the cash balances on hand for purposes of determining the net amounts include the Appellant's short-term investments?
+[5] With respect to the assessments for the 1994, 1995 and 1996 taxation years, the issues are:
+1. Do the net amounts as at the Appellant's year-end constitute "loans and advances" within the meaning of paragraph 181.2(3)(c) of Part I.3 of the Act as assessed?
+2. Should the calculation of the cash balances on hand for purposes of determining the net amounts include the Appellant's short-term investments?
+[6] Robert McDonald was a chartered accountant. He was manager of taxation for Canfor. He has been with Canfor since 1990 and before that he was a partner with Price Waterhouse.
+[7] Exhibit R-1 was admitted by consent without limitation. He explained the system, how an invoice received from a supplier was stamped, receipted and forwarded to someone for approval for payment. It is approved and is directed to accounts payable, which sends out payment of the invoice.
+[8] The year-end for the 1997 taxation year was December 26. Twice a week there is a cheque run. They are normally printed and mailed the same date. He referred to Tab 2 and said that the Bank of Montreal ("the bank") was Canfor's bank. The cheque at Tab 2 was for payment dated December 11, 1997. It went to the bank and was deposited on January 2, 1998. This delay is very common. There is usually a four to eight day's delay from the time the cheque is issued to the time it is cashed. Canfor is entitled to put a stop-payment on a cheque for different reasons such as a lost cheque, an improper invoice or a stale-dated cheque. When the cheque is cashed, the next day Canfor gets a magnetic tape and two days later a hard copy of the cancelled cheques. Tab 3 was an Account Reconciliation Service report processed on January 2, 1998 by the bank. Each of Canfor's 25 sections will have a similar system in place. He referred to page 3 where the cheque showed up in the amount of $18,746.63. The total of the cheques presented that day for payment was $3,094,555.98.
+[9] Tab 4 was a Statement of Account. He referred to the total debit on page 2 in the same amount as the total presented for payment on January 2, 1998 at the bank amounting to $3,094,555.98. He admitted that at that time Canfor owed the bank that amount. The bank closes off all divisions and puts them into this cash account (total cash balance for all Canfor's Canadian accounts that day). (It shows the amount of money that Canfor owes the bank and the credit shows the deposits that day, set one off against the other, and a net balance of $1,919,891.66.)
+[10] If there is a shortfall, the balance would be shown at zero because the bank would use their line of credit to show a zero balance.
+[11] Canfor has a record which shows all outstanding cheques. This type of record was shown at Tab 5. On page 13, a cheque earlier referred to in paragraph [8] above, showed up in that list. It was still outstanding. The bank does not know the number of the outstanding cheques. During this period of time because there were more outstanding cheques than money in the bank, it did not cause any concern because the system in place always guarantees a sufficient supply of cash. They track cash coming and going.
+[12] There never was a situation where all of the outstanding cheques came due all in one day.
+[13] Tab 6A showed the one main account of Canfor for reconciliation purposes. He referred to Tab 7A and said that the Minister assessed Canfor on the difference between the unprocessed cheques and the cash on hand, in the amount of $25,000,000. The bank did not give Canfor cash in this amount. Canfor was not required to pay interest on this amount. There was no liability at this time to pay this amount to the bank. They did have a line of credit in place.
+[14] Exhibit A-2 was the agreement with respect to the line of credit. It provided for Canfor to be able to draw from the bank up to an agreed amount from the line of credit on request. The line of credit was sufficient to cover all outstanding cheques. The account was not in overdraft as of that date. If it were, it would have shown up in the financial statements from the bank. All of the statements of Canfor are prepared in accordance with generally accepted accounting principles ("GAAP").
+[15] He did not include the difference in the capital because he did not think that they had to be included. They were not a loan or advance. In the years 1995, 1996 and 1997 he treated them differently. He included them in capital because CCRA was looking at the years 1991, 1992 and 1993 and they were going to reassess the capital account. He included them in capital until such time as he was able to get legal advice, but he believed he was right. He treated the 1998 year as he had before and appealed the 1997 decision.
+[16] He referred to a summary at Tab 8 of all of the amounts under appeal. If cash is in the bank then the accounts are paid. If there is not sufficient cash they can rely upon their temporary investments and if there are insufficient funds there, they can call upon their line of credit and a deposit will be made to the account to honour the cheques.
+[17] In cross-examination, he said that when the cheques were issued, Canfor intended that they be delivered and that they be payment for the invoices that were presented. The unpresented cheques were issued in the normal course of Canfor's business.
+[18] He referred to Exhibit A-1, Tab 4, and said that no temporary investments were cashed in and deposited to cover any outstanding cheques. Then he said that he could not say whether the credit amounts resulted from cashing temporary investments or from payments for sales. None of the cheques in issue were post-dated and none had any conditions attached before they could be cashed.
+[19] It was suggested to him that the treasury people in Canfor "gambled", that not all of the cheques would be cashed before the end of the fiscal year. He would not agree that the word "gamble" was the correct phraseology but he said that it was an educated guess (not a certainty). He reiterated that it was normal to take 48 days before a cheque is presented for payment but in the case of the cheque referred to at Tab 2, was issued on December 12, 1997 and not presented for payment until January 2, 1998, which was about three weeks. If there was to be a slow down it would be in December and the treasury people would be aware of it. He considered the unpresented cheques to be a liability to Canfor for accounting purposes and they are shown as such in the financial statements. With respect to the taxation years 1996 and 1997, he could not say how many temporary investments were cashed by the bank to prop up the cash position, if any.
+[20] With respect to Exhibit A-2, he said that there were no terms in the agreement that allowed the bank to have access to the short-term assets. He referred to Exhibit A-1 at Tab 7D, which was the balance sheet. Cash and temporary investments were allowed to be settled against the unpresented cheques as seen at Tab C.
+[21] The document at Tab 7B breaks it down to cash and temporary investments and the Minister allowed the cash to be netted out against the unpresented cheques. None of this was cash on hand in foreign currency.
+[22] He was asked why the accountants decided to split it up in 1996 and he said that he did not know. He referred to Tab 7A. The assets were broken down and the Minister allowed the taxpayer to offset the cash against the unpresented cheques. None of the temporary investments were cash on hand or foreign currency. The investments were bankers' acceptance; commercial paper (promise to pay by another company). These may be secured or non-secured, they are short-term and they may sell at a discount to face value. Only solid corporations can issue corporate paper. They may be issued in a wide range of denominations and may be discounted or interest bearing. They may be of non-existent value or small secondary value.
+[23] He referred to Exhibit R-1 and said that he submitted this document at the time of discovery. It was a summary of information with respect to short-term investments dated December 31, 1997 for the 1997 year-end. The $85,372 was the balance sheet amount. Page two showed a Bank of Montreal, bankers' acceptance in the amount of $5,000,000 at maturity and Canfor paid $4,982,600 for it.
+[24] Canfor is not committed to hold it until maturity. If it does, it will sell it at market at that day's price. It may be greater or less than the maturity rate. The projected income for the maturity period would be less. Wood Gundy holds it for Canfor. He referred to a United States temporary investment in the amount of $1,000,000 and said that he did not know what it was. It was similar to the short-term investment referred to on pages 1 and 2. It was not cash. The $4,500,000 figure on pages 1 and 2 was similar.
+[25] The large corporation tax is found in Part I.3 of the Act. There is a section for investment allowance under subsection 181.2(4). The company could not take advantage of this because it was of a type of investment that was not eligible for the allowance. Temporary investments may include eligible or non-eligible investments. At Tab 7A, page 2, the reference to $36,844,195 was to an investment allowance. He could not say what was included in the figure of $17,912,009. When it was claimed Canfor could have cashed it and claimed the credit that it was entitled to.
+[26] In redirect, he said that he could not say how the cash amount got there. It did not come from the bank because they did not have a bank advance there.
+[27] Canfor's system of controlling cash is a sophisticated one and includes a system to ensure that there is enough money in the bank to cover cheques when they are presented. The process for the 1997 taxation year was the same.
+Argument on Behalf of the Appellant
+[28] In oral and written argument counsel for the Appellant submitted that the Court should adopt the ordinary meaning under the statute and that derived from the case law. Under this definition, there was no loan because, in order for there to be a loan, there must be liability created to the bank. Such a liability was not created here until the cheque went to the bank, the bank honoured it and advanced the money to Canfor.
+[29] In the case at bar no one received any money, there was no advance and consequently no loan. The bank gave no cash and Canfor was not indebted to the bank. Canfor decided when the debt arose. To say that there was a loan or advance was pure fiction. Canfor did not pay any interest with respect to the amounts in question which the Minister asserts constitutes a loan or advance.
+[30] Part I.3 of the Act describes what is known as the "Tax on Large Corporations". This is imposed by subsection 181.1(1). Tax is imposed on Canfor's "taxable capital that is employed in Canada".
+[31] The term "taxable capital employed in Canada" is defined in subsection 181.2(2). "The taxable capital of a corporation (other than a financial institution) for a taxation year is the amount, if any, by which its capital for the year exceeds its investment allowance for the year".
+[32] The Act also defines in subsection 181.2(3) what Canfor's capital is. Included in that definition by virtue of paragraph (c) are "the amount of all loans and advances to the corporation at the end of the year". In the case at bar, the Minister says that the difference in the amount between the total outstanding cheques (unpresented) at year end less the actual cash on hand in the bank account at year end [the net amount] represents a loan or advance made to Canfor at the year end.
+[33] On the law, counsel for the Appellant said that the amounts in question do not constitute a "loan or advance" for three reasons:
+(a) they do not constitute a "loan or advance" within the ordinary meaning of those terms;
+(b) the context in which the phrase "loan or advance" is used in the Act precludes the suggestion that there has been a "loan or advance"; and
+(c) the authorities suggest that there has been no loan or advance in these circumstances.
+[34] The terms "loans or advances" are not defined in the Act. Consequently, it is useful to consider the ordinary meaning of the terms by resorting to dictionary terms.
+[35] Black's Law Dictionary (6th Edition) defines the terms "loan" and "advance" as follows:
+Advance. Payment before it is due - payment or advance before time of payment.
+Loan. Lending is the delivery by one party and receipt by another party of a sum of money upon agreement to repay.
+[36] The New Lexicon Webster's Encyclopaedic Dictionary of the English Language (Canadian Edition) suggests similar definitions:
+Advance. a payment of money before it is due.
+Loan. something lent, usually money, on condition that it is returned, with or without interest.
+[37] Implicit in the ordinary meaning of what constitutes a "loan or advance" is that there must be an actual transfer of funds to, directly or indirectly, the recipient of the loan or advance. The words "delivery and return" and "payment and repayment" are used.
+[38] The conclusion that the "loans and advances" referred to in paragraph 181.2(3)(c) suggest an actual transfer of funds is supported when those words are considered in the context of the legislation in which they are found. Subsection 181.1(1) imposes tax on "its taxable capital employed in Canada for the year". The use of the word "employed" is significant. The word implies that the capital in question is used by the business. See subsection 181.2(1).
+[39] A reading of subsection 181.2(3) indicates that the items enumerated under the definition of "capital" are all items which represent resources available to a corporation for the conduct of its business.
+[40] Paragraph 181.2(3)(a) refers to shareholder contributions and surpluses. Paragraphs 181.2(3)(d) and (f) refer to different kinds of indebtedness, which imply receipt by the taxpayer of the funds. Paragraphs 181.2(3)(b) and (e) refer to reserves and unpaid dividends, again amounts available to Canfor in the carrying on of its business.
+[41] Consequently, in light of the context in which the phrase "loans and advances" is found, it is difficult to suggest that the "net amount of unpresented cheques" represents a loan or advance for purposes of the section since nothing has been transferred from the bank to Canfor that could be employed or used by Canfor in the operation of its business as at the year end.
+[42] Counsel referred to the case of The Grocery People Limited [1]where Sobier, J., when discussing the term "loans and advances" said:
+[1] ... there has to be an indebtedness created, a liability of the taxpayer to its financial institution. No liability has been created vis-à-vis the two of them. On that basis, even though they have characterized it as bank indebtedness, if it is not in fact bank indebtedness then calling it so can't make it bank indebtedness.
+[2] ... until such time as the bank accepts the cheque for payment and allows the account to go into overdraft - the mere presentation of a cheque by the taxpayer to its creditor does not create a bank indebtedness and using the plain meaning of the words "loans and advances", there is no loan or advance until the bank says there is and the bank has not done so in this case and I would allow the appeal.
+[43] The question was again addressed in the case of PCL Construction Management Inc. [2]. As pointed out in that case, the amounts relating to outstanding cheques were conceded by the Crown at trial. The Court ruled in accordance with that concession that the net amount of unpresented cheques did not constitute a loan or advance for the purposes of paragraph 181.2(3)(c).
+[44] Counsel said that the Courts had not addressed the issue of unpresented cheques directly but the Courts have considered what is meant by a loan or advance both in the context of Part I.3 and other provisions of the Act.
+[45] Authorities in the Tax Court have clearly adopted the ordinary meaning of the term "advance" as being a "payment" before payment is "due".
+[46] In TransCanada Pipelines Limited [3]the Court adopted the dictionary concept of an advance being a "payment made beforehand". The cash must flow in order for there to be an advance. In that case they received the money.
+[47] This concept that an "advance" represents an actual transfer of funds from the advancer to the borrower was affirmed by the Federal Court of Appeal in Oerlikon Aérospatiale Inc. [4]. This case was decided under Part I.3 of the Act. In that case the Court said at paragraph 32:
+[32] The effect of an advance, be it in the sense of a payment on account or a loan, is to make the amount of money it represents available to the person or corporation which receives it. ...
+[48] Counsel opined that this means there must be a transfer of cash and a debt created and that an advance is an actual payment that is "received" and were part of the financial resources of the firm.
+[49] The conclusion that an "advance" for purposes of paragraph 181.2(3)(c) requires the actual payment of money rather than an anticipated payment has also been adopted by the Courts when interpreting the concept of an "advance" under different provisions of the Act.
+[50] In the case of David J. Foster [5], the Court considered the concept of "advance" for the purpose of subsection 83(3) to conclude it meant "payment before due".
+[51] In Manufacturers Life Insurance Co. [6], the Court rejected the argument of the Minister, that for capital tax purposes, a deferred portion of gains realized on the disposition of bonds, stock, real estate and mortgages were financial resources available to the Respondent and concluded that the Minister's argument ignored precisely what was said by Noël, J.A. in Oerlikon [7]:
+[32] The effect of an advance, be it in the sense of a payment on account or a loan, is to make the amount of money it represents available to the person or corporation which receives it. In the instant case, the advances were an integral part of the financial resources available to the appellant at the end of its 1989 fiscal year according to the financial statements it filed, and nothing either in the legislation or the tax policy which led to its enactment indicates that Parliament intended to exclude advances from the tax under Part I.3.
+In Manufacturers Life Insurance Co. [8], the Court concluded that unamortized, realized gains were not shown as financial resources available to the Respondent according to its financial statements and these were accepted by the Superintendent of Financial Institutions.
+[52] As in the case at bar there was no loan or advance on the financial statements.
+[53] Counsel maintained that the authorities also suggested that there is no liability (loan) between the taxpayer (the borrower) and the lender (the bank) as (the financial institution) until such time as the unpresented cheques are actually presented at the bank and funds are advanced by the bank to cover them. It is at this time that the bank has made available to the borrower the use of the funds. [9]
+[54] The Courts have considered the application of the Part I.3 tax in a number of cases albeit none directly on point with the issue here today. However, the cases appear to support the conclusion in The Grocery People Limited [10], that no liability between the taxpayer and the bank occurs until such time as the cheques are presented to the bank and honoured by an actual draw on the line of credit.
+[55] In Autobus Thomas Inc. [11], the Court sought to determine whether the relationship between the taxpayer was one of "vendor/purchaser" or one of "creditor/debtor". If the latter, there would be a loan or advance for purposes of paragraph 181.2(3)(o). The Tax Court had no difficulty in concluding that there was a loan in these circumstances between the bank and the taxpayer. In doing so it adopted Black's Law Dictionary concept that there must be actual creation of a debit by the advance of money for a loan to be created.
+[56] At the Federal Court of Appeal it was concluded that the parties intended to create security for a loan. The Court of Appeal drew a distinction between a "line of credit" which it concluded was only a "loan commitment" not an actual loan. The "line of credit" or "loan commitment" may or may not have been acted on. The Court also concluded that the money did not have to be directly handed over to the taxpayer for there to be a loan. However, the key conclusion to be drawn from this case is that for there to be a loan or advance for purpose of the section, the funds taxed must be transferred to the taxpayer or to someone on the taxpayer's behalf. It is this actual transfer of funds which converts the commitment of a loan into a "loan or advance" covered by paragraph 181.2(3)(c).
+[57] In A. C. Simmonds & Sons Limited [12], the Court dealt with the deemed interest provision of subsection 17(1) of the Act. This subsection imposes deemed interest liability on a Canadian resident taxpayer who loans funds to a non-resident. Christie, A.C.J. concluded that there was no loan between the taxpayer and the non-resident because a loan requires the actual delivery and receipt of money under an agreement. The Court concluded that for a loan to exist there must be a movement of consideration under the agreement so as to create the creditor/debtor relationship. This did not exist even though the Court concluded that the United States company was indebted to the taxpayer. The indebtedness was not the consequence of a loan or a "debtor/creditor" relationship.
+[58] The conclusion that there must be a transfer of consideration between the lender to the borrower for a loan to arise was also reached in the case of Walter Crassweller [13], where it was held that the amounts were not "loans or advances" within the meaning of section 18 of the Income War Tax Act [14]. The board dealt with the issue as to whether the distribution of funds out of capital surplus could be taxed as a dividend under section 3 or as a "loan or advance" and therefore a deemed dividend under section 18.
+[59] In summary he said it was difficult to see how the "net amount: of unpresented cheques" can be characterized as a "loan or advance" to the Appellant from the bank.
+[60] On the date in question:
+(a) the Appellant had not "received" any money from the bank nor had the bank advanced any money on the Appellant's behalf;
+(b) the unpresented cheques were under the full control of the Appellant until they reached the bank;
+(c) the taxpayer decided how the cheques would be honoured:
+(i) via line of credit; or
+(ii) cashing in temporary investments;
+(d) the bank had:
+(i) no cause of action or legal right to recover the net amounts of unpresented cheques simply because it had never advanced these amounts to the Appellant; and
+(ii) the Appellant was under no obligation to pay interest with respect to these amounts.
+[61] The reality is that there was no "advance" or "loan" by the bank to the Appellant on the day at issue in the amounts at issue.
+[62] The appeals should be allowed, with costs.
+Argument on behalf of the Respondent
+[63] In oral and written argument counsel for the Respondent indicated that the issues are agreed upon and there is no issue with respect to the facts. The primary issue in this case is whether cheques that had been issued by Canfor and recorded in Canfor's balance sheet as current liabilities but unpresented to the bank by the recipient before the end of the fiscal period ("unpresented cheques") should be included in the computation of capital for the purposes of Part I.3 of the Act?
+[64] Specifically, are unpresented cheques "loans or advances" within the meaning of paragraph 181.2(3)(c) and Part I.3 of the Act?
+[65] A secondary issue in this case is whether Ministerial policy that allows corporations to offset cash balances against unpresented cheques can be judicially expanded to include short-term investments. Counsel argued that there must be a legal basis to allow this offset and there is none existent. Therefore, the Court has no jurisdiction on this issue.
+[66] The amounts of unpresented cheques in dispute for 1995, 1996 and 1997 are: $10,141,827, $16,770,897 and $24,508,399 respectively. The Appellant's line of credit with the bank was, at all material times, a "revolving facility for general operating requirements in the normal course of business".
+[67] All the unpresented cheques were issued in the normal course of the Appellant's business and would have been honoured by the bank once presented for payment. There was no provision in the Appellant's agreement with the bank to allow the bank any access to the short-term investments. That is, in the event that the Appellant chose to liquidate any of its short-term investments to satisfy any indebtedness to the bank, the Appellant would have had to take the necessary steps to "cash in" or liquidate them, the bank having no authority or ability to do so.
+[68] The credit agreement in place between the bank and the Appellant required that all payments to be made by the Appellant to the bank pursuant to the credit agreement were payable in the same type of currency in which the borrowing was denominated. Further, the agreement stated at paragraph 3 of Exhibit A-2:
+... all payments to be made by the Borrower pursuant to this Agreement are to be made in freely transferable, immediately available funds and without set-off, withholding or deduction of any kind whatsoever except to the extent required by applicable law. If any such set-off, withholding or deduction is so required and is made the Borrower will, as a separate and independent obligation to the Bank, pay to the Bank all such additional amounts as may be required to fully indemnify and save harmless the Bank from such set-off, withholding or deduction.
+[69] Had the unpresented cheques been presented for payment to the bank prior to the Appellant's fiscal year ends, the Appellant did not have sufficient cash on hand and would, unless other arrangements were made, have had to use its line of credit with the bank.
+[70] None of the unpresented cheques were post-dated or subject to any condition limiting or predetermining the time that they could be presented for payment by the recipients.
+[71] The unpresented cheques were delivered to and received by the recipients.
+[72] Against the amounts of unpresented cheques in 1996 and 1997 the Appellant now wishes to offset other amounts described as "short term" investments such as GICs and other similar financial instruments in the amounts of $90,958,112 and $85,372,482, respectively.
+[73] Part I.3 tax on large corporations was specifically enacted to reduce the federal deficit and to ensure that all large corporations pay federal taxes and contribute to the deficit reduction.
+[74] Part I.3 tax is determined on an annual basis by applying a specified rate to the capital tax base of a corporation. Liability is based upon the capital tax base of the corporation and is independent of whether it is earning profits or incurring losses in a given year.
+[75] Section 181.2 deals with corporations that are not financial institutions and are resident in Canada.
+[76] The application of Part I.3 requires the use of a balance sheet prepared in accordance with GAAP (subsection 181(3) of the Act). The balance sheets in question were prepared in accordance with these principles.
+[77] Pursuant to paragraph 181.2(3)(c) of the Act, the amount of all "loans and advances" to the corporation at the end of the year are included in the capital tax base of the corporation.
+[78] According to the Minister's interpretation: a loan is generally defined as delivery by one party, and receipt by another party, of a sum of money upon agreement, expressed or implied to repay with or without interest. The carrying value of a loan - whether secured or unsecured, long or short-term, and whether owed to related or non-related entities - is included in the capital tax base. The current portion of a loan is also included in the capital tax base.
+[79] The term "advance" often means simply "pay" or "pay money before it is due" and, therefore, has a broad scope. Generally, any amount received by a corporation that is not included in income will constitute an advance and will be required to be included in the capital tax base.
+[80] The following are some of the amounts that must be included in the capital tax base as loans and advances according to the Minister:
+1. line or letter of credit, to the extent drawn upon;
+2. deferred revenue represented by cash;
+3. bank overdrafts;
+4. insurance policy loans; gold loans;
+5. outstanding cheques issued, to the extent that they exceed funds on deposit, in all jurisdictions governed by common law;
+6. outstanding cheques honoured by the corporation's bank, to the extent they exceed funds on deposit, in the civil law jurisdiction of Quebec;
+7. take-or-pay amounts;
+8. prepaid amounts including rent received;
+9. customer and security deposits;
+10. contract advances;
+11. proceeds from the sale of gift certificates, to the extent they are not included in income;
+12. forgivable loans;
+13. inter-company loans between a parent corporation and its wholly-owned subsidiaries pursuant to a cash management system agreed to by a bank (generally referred to as a mirror accounting system) where overdrafts of subsidiaries are regularly transferred to the parent's account; and
+14. drawings from a partnership, except to the extent they represent a distribution of a corporate partner's partnership capital included in its capital tax base.
+[81] The outstanding cheques in issue here exceeded funds on deposit.
+[82] The following amounts would not be included in the capital tax base as loans or advances:
+1. advance billings not received in cash where the service has been rendered;
+2. loans legally defeased, provided no amount is reflected in the balance sheet in respect of the defeased debt; and
+3. the mere granting or provision of credit facilities by a supplier, creditor or lender. (This without more would not be enough.) Here she referred to IT-532, Part I.3 - Tax on Large Corporations.
+[83] It was also submitted that the Act does not define loans or advances. She referred to Black's Law Dictionary which defines "loan" as "a delivery by one party to and receipt by another party of a sum of money upon agreement, express or implied, to repay it with our without interest". The definition continues to include, among other things, "(1) the creation of a debt by the lender's payment of or agreement to pay money to the debtor or a third party for the account of the debtor; (2) the creation of a debt by a credit to an account with the lender upon which the debtor is entitled to draw immediately".
+[84] "Advance" has been accepted as being broader than "loan". It may mean "advance in the sense of a loan" or "advance in the sense of a payment on account" or instalments. [15]
+[85] An advance may include a payment made in return for the agreement of the recipient to provide goods or services in future. [16]
+[86] In the case at bar, the bank has promised to make money available to the Appellant by way of a line of credit or overdraft. A line of credit is an arrangement by which a bank or supplier extends a specified amount of credit to a specified borrower for a specified time period. It is an agreed overdraft facility to deal with fiscal fluctuations and is a binding promise to lend funds. See Autobus Thomas Inc. [17]at paragraph 5:
+[5] ... At law, the establishment of a line of credit can only be construed as loan commitment, and the various steps detailing the use of that line of credit can only be interpreted as formal requirements for meeting the commitment. Those steps can be described separately - sending of invoices, payment on the purchaser's behalf, drafting and signing of an instalment sales contract, assignment of that contract, entry in a special account, calculation of interest at the variable rate in effect, repayment by instalments [sic] periodic cumulative reports - but cannot be considered in isolation or out of context.
+[87] Given the requirement to refer to balance sheet items, the wording of the provisions in paragraph 181.2(3)(c) is to be interpreted by reference to "the language accountants speak". [18]
+Cheques
+[88] She said that the legal effect of the delivery of a negotiable instrument by one person to another constitutes payment depending on their circumstances and their intentions both real and inferred. In the case of pre-existing debt, the cheque operates presumably as conditional payment only. If the cheque is honoured after presentment for payment, the payment of the debt becomes absolute as of the time of the making of the cheque. [19]
+[89] At the time the Appellant issued and delivered the unpresented cheques to the recipients the Appellant intended to effect and perfect payment. In common law jurisdictions delivery of a cheque constitutes payment at that time.
+[90] The writing of a cheque on a bank account is considered to constitute a draw upon that account where that cheque represents payment. At common law delivery of a cheque constitutes conditional payment. It was submitted that a conditional payment, where a line of credit or overdraft agreement is in place, creates a loan or advance for the purposes of Part I.3.
+[91] The principle of conditional payment is well established in common law jurisdictions. In Marreco v. Richardson [20], Farewell, L.J. stated:
+... the giving of a cheque for a debt is payment conditional on the cheque being met, that is, subject to a condition subsequent, and if the cheque is met it is an actual payment ab initio and not a conditional one.
+[92] In Moody [21], at page 1054, the Exchequer Court stated:
+In the absence of some special circumstance indicating a contrary conclusion such as, for example, post-dating or an arrangement that the cheque is not to be used for a specified time, a payment made by cheque, although conditional in some respects, is nevertheless presumably made when the cheque is delivered, ...
+[93] The principle enunciated in Marreco [22], and confirmed in Moody [23], has been applied without exception in cases involving the Act. [24]
+[94] This principle is not altered by the fact that the underlying liability between the original debtor and creditor is not generally discharged until the cheque is honoured by the respective bank nor whether the bank can charge interest on the amount of the cheque between the date of delivery and the day the cheque is presented to the bank.
+[95] The common law principle establishes the conditional payment date as the time of delivery of the cheque. The subsequent presentation of the cheque to the bank, will not alter in law the payment date unless the cheque is not honoured. Where the cheque results in indebtedness or a negative bank balance on the balance sheet, this amounts to a loan or advance within the meaning of Part I.3 as, by granting the line of credit or overdraft, the bank has tacitly acknowledged or agreed to the overdraft.
+[96] In the civil law jurisdiction of the province of Quebec the law is different on this point. The civil code stipulates that the date of payment is the date on which the bank honours the cheque and delivery is irrelevant to that determination. [25]
+[97] While the unpresented cheques in themselves do not constitute an indebtedness of the corporation, the bank indebtedness reflected in the balance sheet resulting from outstanding cheques constitutes a loan or advance where the delivery of the cheques by a debtor to a creditor operates as payment.
+[98] By contractually agreeing to extend the line of credit to the Appellant the bank has tacitly acknowledged or agreed in advance to the overdraft.
+[99] Here, the Appellant intended payment, the recipient expected payment and the bank had bound itself to extend credit to cover the payment thereby anticipating the condition subsequent.
+[100] In a decision in an Informal Procedure appeal, The Grocery People Limited [26], Sobier, T.C.J. held that unpresented cheques do not create an indebtedness between the taxpayer and the bank such that there is a loan or advance within the meaning of paragraph 181.2(3)(c). This decision is unhelpful for the purposes of resolving these appeals for the following reasons:
+(a) no reasons for judgment are given such that there is no articulation of the facts, discussion of any case law or any reference to any authorities;
+(b) the legal basis for the Respondent's position as expressed herein was not presented to the Court and not considered;
+(c) the issue was decided strictly upon an argument that indebtedness has not in fact been created by the mere existence of an outstanding cheque;
+(d) there is no indication of whether the cheques had actually been delivered or not;
+(e) the decision was heard in the Informal Procedure and given the lack of written reasons and section 18.28 of the Act, the decision is certainly not binding, and is also, it is submitted, not to be accorded weight in the instant appeals.
+[101] Counsel said that the case of the The Grocery People Limited [27], was wrongly decided. She argued that delivery of a cheque from a debtor to a creditor is a conditional payment at the time it was delivered. The payment is conditional upon it being honoured for payment at the debtor's financial institution. At law, for there to be a conditional payment, where there is a line of credit in place between the debtor and the bank and where, had the cheque been presented for payment within the same fiscal period, the debtor would not have had sufficient cash on hand with that bank to cover the cheques and without more, the overdraft or line of credit would be triggered, then, says the Respondent, there is a loan or advance for the purposes of Part I.3.
+[102] The fact that payment effected by cheque is conditional and subject to a condition subsequent (the honouring of the cheque by the bank) does not alter the legal date of payment (the date of delivery) unless the cheque is not honoured. By granting overdraft privileges in the line of credit the bank has removed the condition subsequent.
+[103] Once there is an agreed overdraft facility in place between the customer and the bank, such as the line of credit in these appeals, even where that line is subject to an express term of the banking contract that the bank might reduce the line of credit at any time, the bank is under an implied duty to give notice in writing of the decision to reduce the line of credit. For example, where a bank invoked the provision and dishonoured a cheque with the ultimate result that the customer was forced into bankruptcy, the bank was held liable for negligent misrepresentation to the customer. [28]
+[104] Once a cheque has been delivered to the creditor or recipient as consideration for goods or services received, the debtor becomes civilly and criminally liable. Because cheques are payable on demand and the debtor is not in control of when the creditor or recipient presents the cheque for payment, once the cheque is delivered to the recipient the debtor triggers its liability. [29]
+[105] In Canada, issuing a cheque that is not honoured when presented for payment at a bank or other financial institution is an indictable offence unless the accused can show that he believed on reasonable grounds that the cheque would be honoured when presented for payment. [30]
+[106] By operation of law the writing of a cheque on a bank account or line of credit or overdraft is a draw upon that account where the cheque represents payment. In common law jurisdictions delivery of a cheque that is not post-dated or subject to special circumstances is payment or conditional payment. By executing the agreement as to the line of credit the bank has tacitly accepted to honour the cheques written on the account and thereby fulfilled in advance or removed anticipatorily the condition subsequent (honouring the cheque for payment).
+[107] Counsel for the Appellant submitted that wherever the terms "loans and advances" are used, the Court must consider the case on its own individual facts, but counsel for the Respondent said that Part I.3 of the Act is different. One must look at the definition of "loans" and "advances" in the context of Part I.3, in a different way. At law, the establishment of a line of credit is only a commitment. That it is a legally binding agreement with effects if default is made. However, considering Part I.3, you must look at the financial documents with new glasses.
+[108] She referred to Autobus Thomas Inc. [31], in support of her position that the Court should use accounting meanings when dealing with a case under Part I.3. She referred to Manufacturers Life Insurance Co. [32], and stated that under Part I.3 the terms "advances" and "loans" should be looked at differently. This is a technical argument but nonetheless it is there. Part I.3 is special. On the balance sheet these cheques are set out as liabilities. The section is meant to tax liabilities.
+Netting of Temporary Investments Policy
+[109]With respect to this issue she argued that this is only relevant in the years 1996 and 1997. In 1994 and 1995 the accounts were only cash even though they were called "cash and temporary investments". She indicated that there is no provision in the Act for any off-setting. The Minister's policy was to allow an off-setting of cash on hand from unpresented cheques. That is the policy and that is what the Appellant was allowed to do.
+[110] The Minister assessed on the basis that the Appellant was entitled to net amounts of cash but not short-term investments. There was no provision or policy for allowing this to be done for short-term investments. This is not unfair. The Act does allow for deduction of investment allowances under subparagraph 181.1(7)(a)(i). If the company had met these requirements, it would have been able to deduct the investment allowance from its taxable capital under Part I.3. The taxpayer claimed all of the investment credits that it was entitled to for all years.
+[111] The case of Federated Co-operatives Limited [33], stands for the proposition that Parliament knew what it was doing when disallowing bankers' acceptances in its investment allowance under Part I.3. Temporary investments are not cash (and bankers' acceptances are not).
+[112] With respect to the argument on the re-characterization of financial statements by the Minister, counsel said that the amounts are shown as a liability on the financial statements. The statements are made according to GAAP. Therefore it is not an issue of re-characterization of the financial statements but the Minister is entitled to do that anyway.
+[113] The appeals should be dismissed with costs.
+[114] In rebuttal counsel for the Appellant conceded the second issue.
+[115] On the main issue he said that the Act says that only certain things are capital. It does not matter that they are treated as liabilities or not. Why should we look at these amounts through different eyes. Accountants have looked at them as "liabilities" and not as loans or advances.
+[116] The Respondent has confused the relationship between Canfor and its suppliers. A cheque is a bill of exchange. Therefore, as between Canfor and the supplier, it is a payment. It is a payment to the payee. There is no relationship there to a loan and there is no lender/borrower relationship between the bank and Canfor. It is a fiction to suggest that there is a loan.
+[117] The Respondent has suggested that because there is a line of credit there is a draw on the bank. Not one case suggested that. Counsel referred to the case of Fowlis [34], and said that there the question was whether or not there was a payment. In Piché [35], the Court pointed out that there is a difference between the acceptance of a cheque by its payee and the banking operation by which monies are deposited to the credit of the bearer. It is the drawing down of the line of credit that creates the loan. [36]
+[118] He also referred to CIP Inc. v. Toronto Dominion Bank [37], where the Court stated, "An overdraft is money lent: 'A payment by a bank under an arrangement by which the customer has an overdraft is a lending by the bank to the customer of the money'." That is not the case here.
+[119] The Minister is operating under a fiction that all the cheques were coming due on the same day and they did not or would not come due that way. The Minister is confusing the relationship between the payee and Canfor and the relationship between the bank and Canfor. If this interpretation is correct, there could be double taxation.
+Analysis and Decision
+[120] The Court agrees with both counsel in this matter that there is very little dispute with respect to the facts. There are also two issues very well defined by both counsel. The second issue can be dealt with rather quickly and the Court will consider it first.
+[121] The secondary issue, so-called, was whether the Minister's administrative policy that allows corporations to offset cash balances against unpresented cheques can be judicially expanded to include short-term investments. The Court is satisfied that the answer to this question is no.
+[122] It was argued by counsel for the Respondent that there must be a legal basis for the Court to intervene in the matter to allow offsetting and the Court concludes that no such legal basis exists.
+[123] What has been invoked in this matter during the 1996 and 1997 years comes under the all-embracing, all-inclusive completely undefined phrase, "administrative policy", but there is no provision in the Act allowing any offsetting. The Minister's policy is to allow offsetting of cash amounts against unpresented cheques for the purposes of Part I.3 tax calculations, but the Court has no jurisdiction in that regard. This policy is restricted to cash on account, either domestic or foreign and the short-term investments at bar are not cash.
+[124] Counsel for the Respondent pointed out that this would not appear to be unfair under the circumstances since the Act does allow for deductions of investment allowances under subparagraph 181.1(7)(a)(i). Providing the company met the requirements of the section it would have been able to deduct the investment allowance from its taxable capital gain made under Part I.3. Apparently the taxpayer did claim all of the investment credits to which it was entitled in all years in dispute.
+[125] With respect to the secondary issue then, the appeal will be dismissed and the Minister's action disallowing the offsetting will be confirmed.
+[126] This leaves for consideration the more difficult, significant and contentious issue as to whether or not the unpresented cheques constitute "loans and advances" to the corporation, within the meaning of paragraph 181.2(3)(c) of the Act. If they are loans and advances to the corporation at the end of the year, then they would constitute capital under section 3 and be subject to so-called "tax on large corporations" under Part I.3 of the Act.
+[127] This is a rather onerous provision and counsel for the Respondent indicated that when introduced its purpose was to reduce the federal deficit and to ensure that all large corporations pay federal tax and contribute to the deficit reduction. However, regardless of how lofty the aims of the provision, in order for it to apply against the taxpayer in this case, it must come within the four corners of the provision. Simply put, the Court must be satisfied that the unpresented cheques in 1996 and 1997 were "loans or advances" within the meaning of paragraph 181.2(3)(c).
+[128] It is trite to say that there is no definition in the provision for any of these terms. This leads the Court to conclude that Parliament intended that the meaning to be subscribed to these terms is that which is normally employed in common parlance, in everyday use, in definitions found in the dictionary and what is commonly understood in commercial practice, when those terms are used.
+[129] At first blush, one would conclude that the task should be relatively simple. Both counsel have advanced their definitions of what the terms mean. Suffice it to say that a loan is generally defined as "a delivery by one party, and receipt by the other party, of a sum of money upon agreement, express or implied to repay with or without interest". Those were the definitions referred to by the Respondent.
+[130] On the other hand, counsel for the Appellant referred to the "ordinary meaning" as set out in various dictionaries defining an "advance" as a payment before it is due; payment or advance before time of payment and a "loan", as delivery by one party and receipt by another party of a sum of money upon agreement to repay. Further a "loan" is something lent, usually money on condition that it is returned with or without interest.
+[131] He suggested further that the use of the word "employed" in subsection 181.1(1) of the provision is significant. That word, according to him, suggests and implies that capital in question is used by the business. That section reads as follows:
+181.1(1) Every corporation shall pay a tax under this Part for each taxation year equal to 0.225% of the amount, if any, by which
+(a) its taxable capital employed in Canada for the year
+exceeds
+(b) its capital deduction for the year.
+It is also significant as argued by counsel that a reading of subsection 181.2(3) indicates that the items enumerated under the definition of "capital" are all items, which represent resources available to a corporation for the conduct of its business. That section reads as follows:
+181.2(3) The capital of a corporation (other than a financial institution) for a taxation year is the amount, if any, by which the total of
+(a) the amount of its capital stock (or, in the case of a corporation incorporated without share capital, the amount of its members' contributions), retained earnings, contributed surplus and any other surpluses at the end of the year,
+(b) the amount of its reserves for the year, except to the extent that they were deducted in computing its income for the year under Part I,
+(c) the amount of all loans and advances to the corporation at the end of the year,
+(d) the amount of all indebtedness of the corporation at the end of the year represented by bonds, debentures, notes, mortgages, bankers' acceptances or similar obligations,
+(e) the amount of any dividends declared but not paid by the corporation before the end of the year,
+(f) the amount of all other indebtedness (other than any indebtedness in respect of a lease) of the corporation at the end of the year that has been outstanding for more than 365 days before the end of the year; and
+(g) where the corporation was a member of a partnership at the end of the year, that proportion of the total of all amounts (other than amounts owing to the member or to corporations that are other members of the partnership) that would be determined under this paragraph and paragraphs (b) to (f) in respect of the partnership at the end of its last fiscal period ending at or before the end of the year (if the references in paragraphs (b) to (f) to "corporation" were read as references to "partnership") that the member's share of the partnership's income or loss for that period is of the partnership's income or loss for that period, exceeds the total of
+(h) the amount of its deferred tax debit balance at the end of the year,
+(i) the amount of any deficit deducted in computing its shareholders' equity at the end of the year, and
+(j) any amount deducted under subsection 135(1) in computing its income under Part I for the year, to the extent that the amount can reasonably be regarded as being included in the amount determined under any paragraphs (a) to (g) in respect of the corporation for the year.
+This would appear to be a rather exhaustive list and counsel's arguments thereto are not insignificant.
+[132] There is nothing in the paragraph which would seem to leave much wiggle room for including anything else unless it comes within the provisions and it would appear that "the taxable capital employed in Canada of a corporation for the taxation year" is a limiting provision or a modifying provision and cannot be regarded as being insignificant.
+[133] At first blush, looking at the terms "loans" and "advances" used in the context of the complete provision, considering the terms from a common sense or ordinary use point of view and further considering the cases that have been referred to, the following terms appear to be significant: liability; the borrower or recipient; the advancer; the lender.
+[134] With respect to "advance", the claim that is made before payment is due; an actual transfer of funds from the advancer to the borrower; a transfer of cash and the creation of a debt; some situation where a payment is made and received and the amount becomes part of the financial resources of the firm.
+[135] With respect to an "advance" there must be an actual payment of money rather than an anticipated payment. An advance is something made before it is actually due.
+[136] With respect to "loan", there is a liability created between the lender and the borrower resulting from the advancing and use of the funds. There must be a relationship of "creditor/debtor" created. There must be more than a loan commitment that has not been acted upon. There must be a transfer to the taxpayer on the taxpayer's behalf.
+[137] From a common sense point of view, from the point of view of ordinary parlance and ordinary commercial activity, it would appear that these definitions must be met in order for there to be a "loan" or "advance" as envisaged by the appropriate provision of the Act. The Respondent appears to be arguing that when you are considering terms in the context of paragraph 181.2(3)(c) you should not look at them from the common sense point of view, from the dictionary definition point of view or the normal commercial use of the terms. You should look at them from a different point of view and the provisions should be interpreted by reference to "the language accountants speak".
+[138] She purports that you may look at the terms through a different glass, through a microscope, through the eyes of an accountant from a balance sheet point of view since these items are shown as a liability on the financial statements of the taxpayer. Further, these financial statements are made in accordance with GAAP and therefore, if they are shown as a liability then they should be characterized as such.
+[139] She also placed considerable reliability upon the fact that cheques are negotiable instruments under the Bills of Exchange Act which provides that the delivery of a negotiable instrument by the one person to another constitutes payment. In the case at bar at the time that the Appellant issued and delivered the unpresented cheques to the recipients the Appellant intended to effect and perfect payment.
+[140] In common law jurisdictions delivery of the cheque constitutes payment at that time. Presumably then, the argument is that the liability was created at that time.
+[141] Counsel argued that the writing of the cheque on the bank account by the Appellant constituted a draw upon that account where that cheque represents a payment. Here, since there was a line of credit or overdraft agreement in place, this presentation of the cheque to the creditors was a conditional payment, loan or advance, for the purposes of Part I.3. In her estimation, this principle is not altered by the fact that the underlying liability between the original debtor and the creditor is not generally discharged until the cheque is honoured by the respective bank or whether the bank can charge interest on the amount of the cheque between the date of delivery and the date the cheque is presented to the bank. Whether or not the cheque results in indebtedness or a negative bank balance on the balance sheet, the amounts are "loans or advances" within the meaning of Part I.3.
+[142] By granting the line of credit or overdraft, (by agreement) the bank has tacitly acknowledged or agreed to the overdraft in advance. The unpresented cheques in themselves do not constitute an indebtedness to the corporation but the bank indebtedness reflected in the balance sheet resulting from outstanding cheques constitutes a "loan or advance" where the delivery of the cheque by a debtor to a creditor operates as payment.
+[143] The Appellant intended payment, the recipient expected payment and the bank had bound itself to extend credit to cover the payment thereby anticipating the conditions subsequent.
+[144] Again, counsel for the Respondent argued that her interpretation is a technical argument but nonetheless it is there. Part I.3 is special and you have to wear special glasses when you are looking at it. On the balance sheet these cheques are set out as liabilities and the section is meant to tax liabilities.
+[145] The Court can detect nothing in its reading of subsection 181.2(1) which would require it to look at the section in a particular way. It does not see why it should look at it with special glasses or should look at it differently because the Appellant has recorded outstanding cheques as liabilities on the balance sheet in accordance with GAAP. The section itself does not refer to balance sheets prepared in accordance with GAAP. Even if it did, the recording of an item on a balance sheet as a liability does not change something that was not a "loan" or "advance" under the definition, into a "loan or advance" because it is set out in the balance sheet as a liability.
+[146] Outstanding cheques are set out in the balance sheet as liabilities because as between the payor and the issuer they are liabilities from the time the cheque was written. That is the relationship between the issuer of the cheque and the payee of the cheque and it has nothing whatsoever to do with the relationship between the bank and the issuer of the cheque. The liability of the issuer of the cheque to the bank under the line of credit does not result from the cheque being issued but rather from the cheque being drawn down and only if there are insufficient funds in the accounts to meet the requirements at any particular time. There was no evidence introduced to indicate that this happened in the years in issue.
+[147] The Court is satisfied that the Respondent has misconstrued the legal effect of the issuing of the cheque under the legislation with respect to bills of exchange as between the issuer of the cheque and the payee and the legal relationship between the issuer of the cheque and the bank. That legislation did not create, through some process of osmosis or otherwise, a similar type of liability vis-à-vis the bank and the issuer of the cheque. These are two different commercial transactions. The fact that the cheque is a bill of exchange does nothing to create between the bank and the issuer of its cheque the liability suggested by counsel for the Respondent.
+[148] The Court does not accept the argument that because the Appellant intended the cheque to be payment to the supplier, the recipient expected payment and the bank had bound itself by its separate contract to extend credit when called upon to do so, that this created a "loan or advance" as suggested by the Respondent.
+[149] As the Court indicated at the beginning of these reasons for judgment, the section in issue is a very onerous one and appears to contain an exhaustive list as to what amounts are to be included as capital at the taxpayer's year end. If the Parliament of Canada intended to include in that list unpresented cheques at year end, they would only have had to say so. As far as the Court is concerned it would be stretching the bounds of credulity to conclude that Parliament had so intended without specifically saying so in a provision that otherwise would appear to be quite precise and exhaustive of what was intended to be included therein.
+[150] Counsel for the Respondent in her written submissions was prepared to admit that the unpresented cheques in themselves did not constitute an indebtedness to the corporation but argued that because the bank's indebtedness was reflected in the balance sheet resulting from the outstanding cheques, this constitutes a loan or advance. However, the Court considers this to be a non sequitur.
+[151] In written argument, counsel for the Respondent indicated that according to the Minister's interpretation, outstanding cheques issued, to the extent that they exceed funds on deposit, in all common law jurisdictions are considered to be included in the capital tax base. The Court is not bound by that interpretation and indeed the Court finds that such an interpretation is not based upon anything found in the appropriate provision to say the least.
+[152] With respect to the loftiness of the Minister's intentions, this would not dictate that one should expand any section beyond the purposes for which it was intended in accordance with the plain meaning interpretation of the provision.
+[152] Counsel referred to the case of The Grocery People Limited [38]. She asked the Court to take into account the fact that this was a decision in an informal procedure appeal and that the case for the Minister may not have been so particularly well advanced as it is here. Some of the facts may not have been set out as there was no written decision. In the end she concluded that it was wrongly decided.
+[153] Regardless of whatever the perceived shortfalls therein may have been in this reasoning, as set out in the text available, the Court is satisfied that Sobier, J. correctly indicated the difference between the legal relationship created between the creditor and the debtor, i.e. the issuer of the cheque and the recipient of the cheque and the state of the account between the debtor i.e. the issuer of the cheque and its bank. There, Sobier, J. took the plain meaning of the words "loans" and "advances" as this Court does and concluded that there has to be an indebtedness created, a liability of the taxpayer to its financial institution.
+[154] He found that no such liability had been created vis-à-vis the two of them. On that basis, even though it was characterized as bank indebtedness, it was not in fact bank indebtedness and calling it so would not make it bank indebtedness.
+[155] This Court is prepared to accept the finding that no liability exists between the bank and its customer, the taxpayer in this case, until such time as the bank accepts the cheque for payment or the account goes into overdraft and the taxpayer is required to call upon the line of credit to honour these cheques. The mere presentation of a cheque by the taxpayer to its creditor does not create bank indebtedness when using the plain meaning of the words "loans and advances". There is no "loan" or "advance" until the bank says there is and the bank has not done so in this case.
+[156] In A. C. Simmonds & Sons Limited [39], Christie, A.C.J. accepted the definition in Black's Law Dictionary, 5th (1979) edition, as a useful definition where it defined it as any: "Delivery by one party to and receipt by another party of a sum of money upon agreement, express or implied, to repay it with or without interest." He did not equate this to being descriptive of the transactions involving letters of credit that were under consideration in that appeal.
+[157] In the case at bar, there was an agreement in existence between the bank and the taxpayer. The agreement had provided for delivery and receipt of money in the event that the line of credit was called upon but it was not. In A. C. Simmonds & Sons Limited [40], as here, there was no debtor/creditor relationship created.
+[158] Counsel for the Appellant pointed out that under the circumstances that existed here the bank had no cause of action or legal right to recover the net amounts of unpresented cheques simply because it had never advanced these amounts to the Appellant and the Appellant was under no obligation to pay interest with respect to these amounts. These are some of the hallmarks of "loans" or "advances".
+[159] In the end result then, the reality is that there were no "advances" or "loans" by the bank to the Appellant on the date at issue in the amounts at issue.
+[160] The appeals in that regard will be allowed and the matter is referred back to the Minister for reassessment and reconsideration based upon these findings.
+[161] The Appellant has been substantially successful and will be entitled to its costs to be taxed on a party and party basis.
+Signed at Ottawa, Canada, this 1rst day of June, 2004.
+"Theodore E. Margeson"
+Margeson, J.
+CITATION:
+2004TCC405
+COURT FILE NOS.:
+2001-3126(IT)G and 2001-4526(IT)G
+STYLE OF CAUSE:
+Canadian Forest Products Ltd. v.
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+January 15, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable
+Justice Theodore E. Margeson
+DATE OF JUDGMENT:
+June 1rst, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Werner H. G. Heinrich
+Counsel for the Respondent:
+Lynn M. Burch
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Grocery People Limited v. Canada, [1995] T.C.J. No. 1143 (Q.L.).
+[2] PCL Construction Management Inc. v. Canada, 2000 DTC 2624 (T.C.C.).
+[3] TransCanada Pipelines Limited v. M.N.R., [1993] 1 C.T.C. 277 (Ont. C.A.).
+[4] Oerlikon Aérospatiale Inc. v. The Queen, 99 DTC 5318 (F.C.A.).
+[5] David J. Foster v. M.N.R., 71 DTC 5207 ([1971] C.T.C. 335 (Ex.Ct.)).
+[6] Manufacturers Life Insurance Co. v. The Queen, 2001 DTC 5396.
+[7] Supra, footnote 4, paragraph 32.
+[8] Supra, footnote 6.
+[9] See The Grocery People Limited, supra, footnote 1.
+[10] Supra, footnote 1.
+[11] Autobus Thomas Inc. v. The Queen, 2001 DTC 5665 (S.C.C.).
+[12] A. C. Simmonds & Sons Limited v. M.N.R.,89 DTC 707 (T.C.C.).
+[13] Walter Crassweller v. M.N.R.,49 DTC 1 (Tax Appeal Board).
+[14] Income War Tax Act, chapter 97, R.C.S. 1927.
+[15] See Oerlikon Aérospatiale Inc. v. The Queen, 97 DTC 694 (T.C.C.).
+[16] See Federated Co-Operatives Limited v. The Queen, 2001 DTC 5414 (F.C.A.).
+[17] Autobus Thomas Inc. v. Her Majesty the Queen, 2000 DTC 6299 (F.C.A.).
+[18] See PCL Construction Management Inc., supra, footnote 2, at pages 12 and 13 of the electronic version; also see Manufacturers Life Insurance Co. v. The Queen, 2000 DTC 1600 (F.C.A.), at paragraphs 54 and 57 of the electronic version.
+[19] See Bradley Crawford, Crawford and Falconbridge Banking and Bills of Exchange, 8th ed., Toronto: Canada Law Book Inc., 1986, p. 1325-6.
+[20] Marreco v. Richardson, [1908] 2 K.B. 584 at 593 (C.A.).
+[21] Moody v. M.N.R.,57 DTC 1050 at page 1054 (Ex. Ct.).
+[22] Supra, footnote 21.
+[23] Supra, footnote 22.
+[24] See: Fowlis and Peat Marwick Ltd. v. M.N.R., 79 DTC 369 (T.R.B.) at p. 372, paragraph 5, citing Frankish v. M.N.R., 56 DTC 178 and W. I. Sheper v. M.N.R., 55 DTC 31. Piché v. M.N.R., 93 DTC 5295 (F.C.A.) at p. 3-4, electronic version. Also see: Kowalczyk v. M.N.R., 86 DTC 1552 (T.C.C.) at p. 3, citing Nourse v. M.N.R., 61 DTC 571, Frankish v. M.N.R., 56 DTC 178, Furk v. M.N.R., 59 DTC 205 and Johnston v. M.N.R., 51 DTC 226.
+[25] See Pantalons Star Laurierville Ltée v. M.N.R., 92 DTC 2182 (T.C.C.)
+[26] Supra, footnote 1.
+[27] Supra, footnote 1.
+[28] See M. H. Ogilvie, Canadian Banking Law, Second Edition, Scarborough: Carswell, 1998, p. 561, referencing Raypath Resources Ltd. v. Toronto Dominion Bank (1995), 135 D.L.R. (4th) 261 (Alta. C.A.).
+[29] See Bills of Exchange Act, RS, c. B-5, s. 16, 22.
+[30] See Criminal Code of Canada, section 362(4).
+[31] Supra, footnote 17.
+[32] Supra, footnote 19.
+[33] Supra, footnote 16.
+[34] Supra, footnote 25.
+[35] Supra, footnote 25.
+[36] See Thermo King Corp. v. Provincial Bank of Canada, 1981 CarswellOnt 659, at page 7 in this regard.
+[37]CIP Inc. v. Toronto Dominion Bank, 1988 CarswellBC 914, paragraph 17, 55 D.L.R. (4th) 308.
+[38] Supra, footnote 1.
+[39] Supra, footnote 12 .
+[40] Supra, footnote 12.

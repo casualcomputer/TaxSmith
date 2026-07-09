@@ -1,0 +1,237 @@
+---
+title: "DiPierdomenico v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521162/index.do"
+last_modified: "2024-03-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 146"
+citation2: ""
+neutral_citation: "2023 TCC 146"
+decision_date: "2024-03-20"
+language: "en"
+item_id: "521162"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5688
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:53:05.619000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d5f1b9a5b59fa2dd811cc35012082ae121f10c6f03d65dd5daf87178ce99f999"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# DiPierdomenico v. The King
+
+- Citation: 2023 TCC 146
+- Decision date: 2024-03-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5688, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DiPierdomenico v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-09-29
+Neutral citation
+2023 TCC 146
+File numbers
+2022-1553(IT)APP
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-1553(IT)APP
+BETWEEN:
+MICHAEL DiPIERDOMENICO,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Application heard on September 13, 2023, at Toronto, Ontario
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Agent for the Applicant:
+Fraser Simpson
+Counsel for the Respondent:
+Eric Myles
+JUDGMENT
+The Applicant’s application under subsection 166.2(1) of the Income Tax Act for an extension of time to serve a notice of objection on the Minister of National Revenue in respect of reassessments for the Applicant’s 2011, 2012, 2013, 2015, and 2016 taxation years is dismissed, without costs.
+Signed at Ottawa, Canada, this 29th day of September 2023.
+“David E. Spiro”
+Spiro J.
+Citation: 2023 TCC 146
+Date: 20240320
+Docket: 2022-1553(IT)APP
+BETWEEN:
+MICHAEL DiPIERDOMENICO,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Spiro J.
+[1] The Applicant, Mr. DiPierdomenico, is a mail carrier for Canada Post in Windsor, Ontario. At one time, he also owned a nail salon. That business was audited by the Canada Revenue Agency (the “CRA”). The CRA says that the audit concluded with the sending of notices of reassessment for his 2011, 2012, 2013, 2015, and 2016 taxation years, but the Applicant did not serve a notice of objection in time to challenge those reassessments nor did he timely file an application with the Minister of National Revenue (the “Minister”) for an extension of time to serve a notice of objection under the Income Tax Act (the “Act”).
+[2] The Applicant says that he never saw any notices of reassessment until retaining his agent, Mr. Fraser Simpson, in late 2019 or early 2020. Mr. Simpson filed an application to this Court on June 9, 2022 for an extension of time to object to those reassessments.[1]
+[3] The Applicant wishes to challenge the reassessments and, to that end, asks this Court to allow his application for an extension of time to object.
+The Applicant’s Position
+[4] The Applicant says that he “did not receive the notice [sic] of reassessments”.[2]
+The Applicant’s Evidence
+[5] The Court heard the Applicant’s evidence virtually and received evidence from the Respondent by way of affidavits from officers of the CRA.
+[6] While hearing the Applicant give his evidence, I was struck by the absence of any records and the vagueness of his recollection. Before the hearing, the Court granted leave for him to testify virtually from his home in Windsor, Ontario. One would have thought that the Applicant would have all relevant documents before him, but he did not ask the Court to enter a single document as evidence.
+[7] For example, the Applicant testified that the CRA correspondence was “sporadic at best” but produced no copy or record of any such correspondence. That is an important point as the Applicant rested his case on the non-receipt of notices of reassessment. Did he receive any mail from the CRA? If so, when? Did he receive any mail from other senders? This allegation lacked any factual foundation which is strange, particularly as the Applicant himself is a mail carrier.
+[8] The affidavit evidence offered by the Respondent helped fill numerous gaps in the Applicant’s vague recollection of dates and events. The Applicant adduced no credible evidence to rebut any of the facts in the CRA’s affidavits.
+Statutory Provisions
+[9] I will deal with the reassessments in two groups. The first are the reassessments for the Applicant’s 2011, 2012, and 2013 taxation years. The second are the reassessments for the Applicant’s 2015 and 2016 taxation years. Before doing so, however, I will set out the relevant provisions of the Act and would note that the word “assessment” includes a “reassessment” (subsection 248(1) of the Act):
+Objections to assessment
+165(1) A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) if the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual … on or before the later of
+(i) the day that is one year after the taxpayer’s filing-due date for the year, and
+(ii) the day that is 90 days after the day of sending of the notice of assessment; …
+Extension of time by Minister
+166.1(1) Where no notice of objection to an assessment has been served under section 165 … within the time limited … for doing so, the taxpayer may apply to the Minister to extend the time for serving the notice of objection …
+When order to be made
+166.1(7) No application shall be granted under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection … and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice … the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to object to the assessment …
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made as soon as circumstances permitted.
+Extension of time by Tax Court
+166.2(1) A taxpayer who has made an application under subsection 166.1 may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister’s decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+When application to be granted
+166.2(5) No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection … and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice … the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to object to the assessment …
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 166.1(1) as soon as circumstances permitted.
+Reassessments for the Applicant’s 2011, 2012, and 2013 Taxation Years
+[10] The CRA says that it sent the following notices of reassessment by mail to the Applicant on the following date:
+Notice of Reassessment for 2011 July 4, 2016
+Notice of Reassessment for 2012 July 4, 2016
+Notice of Reassessment for 2013 July 4, 2016
+[11] The Applicant claims that he did not receive those notices of reassessment. He asks me to conclude that the Minister did not send him those notices on the date indicated on each notice. This is important because under subsection 165(1) of the Act, it is only upon the sending of a notice of assessment or reassessment that the 90-day deadline to serve a notice of objection on the Minister begins to run:
+Objections to assessment
+165(1) A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) if the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual … on or before the later of
+(i) the day that is one year after the taxpayer’s filing-due date for the year, and
+(ii) the day that is 90 days after the day of sending of the notice of assessment; …
+[emphasis added]
+[12] For the following reasons, I cannot accept the Applicant’s claim that the Minister did not send him notices of reassessment for 2011, 2012 and 2013 on July 4, 2016:
+the Applicant confirmed that his address on record with the CRA was indeed his address from 2013 to 2020;
+each notice of reassessment bears that address; and
+the Applicant sent the Minister a notice of objection in respect of those reassessments.
+[13] The Applicant’s notice of objection was not served until January, 2017 which was well beyond the 90-day deadline set out in subparagraph 165(1)(a)(ii) of the Act. One week after receiving the notice of objection, the CRA wrote to the Applicant informing him that his notice of objection was not validly served as it was not received within the 90-day deadline. The letter went on to say that the Applicant had one year from the expiration of the 90-day period to apply to the Minister for an extension of time to serve a notice of objection.[3]
+[14] The Applicant did file an application with the Minister for an extension of time but he waited until May, 2018 to do so. By then, he was beyond the one-year period to apply to the Minister for an extension of time to serve a notice of objection under paragraph 166.1(7)(a) of the Act. That period expired in early October, 2017.[4]
+[15] In light of these facts, the Applicant’s agent made no argument in support of the Applicant’s position that notices of reassessment for the 2011, 2012, or 2013 taxation years had not been sent to him by the Minister on July 4, 2016.
+Reassessments for the Applicant’s 2015 and 2016 Taxation Years
+[16] The CRA says that it sent the following notices of reassessment to the Applicant by electronic mail on the following dates:
+Notice of Reassessment for 2015 January 6, 2021
+Notice of Reassessment for 2016 December 24, 2020
+[17] Why did the CRA send those notices by electronic mail? Because the Applicant authorized the CRA to do so.[5] The Applicant enrolled in what the CRA calls “My Account” which is a secure electronic account from which taxpayers may access correspondence sent to them by the CRA including, among other things, notices of assessment and reassessment.
+[18] The problem here is that the Applicant never filed an application for extension of time with the Minister to serve a notice of objection in respect of the reassessments for his 2015 and 2016 taxation years under section 166.1 of the Act. Such an application must have been made before an applicant may apply to this Court for an extension of time. Subsection 166.2(1) of the Act provides:
+Extension of time by Tax Court
+166.2(1) A taxpayer who has made an application under subsection 166.1 may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister’s decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+[emphasis added]
+[19] As set out in the Affidavit of Ms. Michele Nguyen of the CRA[6], the Applicant never applied to the Minister for an extension of time to serve notices of objection in respect of his 2015 and 2016 reassessments.[7] That is the end of the matter because subsection 166.2(1) then precludes the Applicant from applying to this Court for an extension of time to serve a notice of objection.
+[20] The Applicant’s failure to meet the condition precedent to apply to this Court for an extension of time is fatal to his application in respect of 2015 and 2016. I will nevertheless review several provisions of the Act dealing with presumptions around the fact of electronic sending and the date of electronic sending as they may become relevant in other applications.
+Electronic Sending of a Notice – Subsection 244(6.1) of the Act
+[21] The Minister may prove the sending of a notice electronically under subsection 244(6.1) of the Act:
+Proof of electronic delivery
+244(6.1) If, by this Act or a regulation, provision is made for sending a notice to a person electronically, an affidavit of an officer of the Canada Revenue Agency sworn before a commissioner or other person authorized to take affidavits, shall, in the absence of proof to the contrary, be received as evidence of the sending and of the notice if the affidavit sets out that
+(a) the officer has knowledge of the facts in the particular case;
+(b) the notice was sent electronically to the person on a named day; and
+(c) the officer identifies as exhibits attached to the affidavit copies of
+(i) an electronic message confirming the notice has been sent to the person, and
+(ii) the notice.
+[22] All but one of the requirements of subsection 244(6.1) were met by the Affidavit of Ms. Felicia Colasante of the CRA.[8] Subparagraph 244(6.1)(c)(ii) requires that a CRA officer attach a copy of the notice as an exhibit to an affidavit. Though copies of the notices of reassessment were not attached as exhibits to the Affidavit of Ms. Colasante, they were attached as exhibits to the Affidavit of Ms. Nguyen who attached a reproduction of the notice of reassessment for 2015 as Exhibit “K” and a reproduction of the notice of reassessment for 2016 as Exhibit “L” to her affidavit.
+[23] In my view, the affidavits of Ms. Colasante and Ms. Nguyen, when read together, would meet the requirements of subsection 244(6.1) of the Act. As the Applicant offered no proof to the contrary, I would have received the affidavits of Ms. Colasante and Ms. Nguyen as evidence of the electronic sending of the notices of reassessment for 2015 and 2016.
+Date of Electronic Sending of a Notice – Subsection 244(14.1) of the Act
+[24] Subsections 244(14) and 244(14.1) of the Act describe the conditions under which a notice is presumed to have been sent electronically by the Minister:
+Mailing or sending date
+244(14) For the purposes of this Act, where … any notice of assessment … is mailed, or sent electronically, it shall be presumed to be mailed or sent, as the case may be, on the date of that notice ….
+Date when electronic notice sent
+244(14.1) If a notice … in respect of an individual … is made available in electronic format such that it can be read or perceived by an individual or a computer system or other similar device, the notice … is presumed to be sent to the individual and received by the individual on the date that an electronic message is sent, to the electronic address most recently provided by the individual to the Minister for the purposes of this subsection, informing the individual that a notice … requiring the individual’s immediate attention is available in the individual’s secure electronic account. A notice … is considered to be made available if it is posted by the Minister in the individual’s secure electronic account and the individual has authorized that notices or other communications may be made available in this manner and has not before that date revoked that authorization in a manner specified by the Minister.
+[25] Ms. Colasante’s review of the CRA’s records showed that:
+a)the Applicant elected to receive email notifications on March 10, 2020 to the email address ||||||||||||||||||||||||||||||||||||||||||||||. Attached to this affidavit and marked as Exhibit “A” is a printout of the screenshot of the Applicant’s record of email address registration, with the Applicant’s social insurance number redacted;
+b)the Applicant’s Reassessment Notices for the 2015 and 2016 taxation years were made available on My Account on January 6, 2021 and December 24, 2020, respectively. Attached to this affidavit and marked as Exhibit “B” is a printout of the screenshot of the Applicant’s account in the Agency’s Enterprise Correspondence History with respect to the Reassessments; and
+c)the Applicant was sent email notifications on January 6, 2021 and December 4, 2020 to ||||||||||||||||||||||||||||||||||||||||||||||, their email address on file, informing them that there is new Eligible Agency Correspondence available for view in View Mail in the Agency’s My Account portal on their account. Attached to this affidavit and marked as Exhibit “C” is a printout of the Correspondence Notification History Results, with respect to the Applicant’s Reassessments and their electronic issuance, with the Applicant’s social insurance number redacted.
+For obvious reasons, the Applicant’s email address has been redacted from the above excerpts.
+[26] As none of the CRA’s evidence was rebutted by the Applicant, I would have made the following findings:
+The Minister sent the Applicant a notice of reassessment for his 2015 taxation year by electronic mail on January 6, 2021.[9]
+The Minister sent the Applicant a notice of reassessment for his 2016 taxation year by electronic mail on December 24, 2020.[10]
+Conclusions
+[27] The last date on which the Applicant could have filed an application with the Minister for an extension of time to object to the reassessments for his 2011, 2012, and 2013 taxation years was October 3, 2017. He did not do so until May 18, 2018. His application fails because it was not made within the time required by paragraph 166.2(5)(a) of the Act.
+[28] The last date on which the Applicant could have filed with the Minister an application for an extension of time to object to the reassessment for his 2015 taxation year was April 6, 2022. He never did so and is, therefore, precluded from applying to this Court by the final words of subsection 166.2(1) of the Act.
+[29] The last date on which the Applicant could have filed with the Minister an application for an extension of time to object to the reassessment for his 2016 taxation year was March 24, 2022. He never did so and is, therefore, precluded from applying to from this Court by the final words of subsection 166.2(1) of the Act.
+Disposition
+[30] For all of these reasons, the Applicant’s application under subsection 166.2(1) of the Act for an extension of time to serve a notice of objection on the Minister in respect of reassessments for the Applicant’s 2011, 2012, 2013, 2015, and 2016 taxation years is dismissed, without costs.
+These Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated September 29, 2023.
+Signed at Hamilton, Ontario, this 20th day of March 2024.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2023 TCC 146
+COURT FILE NO.:
+2022-1553(IT)APP
+STYLE OF CAUSE:
+MICHAEL DiPIERDOMENICO AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 13, 2023
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+September 29, 2023
+APPEARANCES:
+Agent for the Applicant:
+Fraser Simpson
+Counsel for the Respondent:
+Eric Myles
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+N/A
+Firm:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] The application was made on the form used for an application for an extension of time to file a notice of appeal but was obviously intended to serve as an application for an extension of time to serve a notice of objection.
+[2] Application filed by the Applicant’s agent, Mr. Simpson, on June 9, 2022.
+[3] Paragraph 20 and Exhibit “F” of the Affidavit of Ms. Nguyen.
+[4] Paragraph 21 and Exhibit “G” of the Affidavit of Ms. Nguyen.
+[5] Paragraph 8(a) and Exhibit “A” of the Affidavit of Ms. Colasante. The Applicant led no evidence to rebut the Respondent’s evidence on this point.
+[6] Ms. Nguyen is an Officer in the Toronto Litigation Office of the CRA.
+[7] Paragraphs 32-33 and 45-46 of the Affidavit of Ms. Nguyen.
+[8] Ms. Colasante is a Programs Officer in the Digital Operation Support Section of the Digital Operations Division of the Assessment, Benefit, and Service Branch at CRA Headquarters.
+[9] Paragraph 8(c) and 8(b) and Exhibits “C” and “B” to the Affidavit of Ms. Colasante.
+[10] Paragraph 8(c) and 8(b) and Exhibits “C” and “B” to the Affidavit of Ms. Colasante.

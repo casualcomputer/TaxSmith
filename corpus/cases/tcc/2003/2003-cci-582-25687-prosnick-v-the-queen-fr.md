@@ -1,0 +1,141 @@
+---
+title: "Prosnick v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25687/index.do"
+last_modified: "2003-09-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 582"
+citation2: ""
+neutral_citation: "2003 CCI 582"
+decision_date: "2003-09-22"
+language: "fr"
+item_id: "25687"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3845
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:44:09.892000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7290c48372c418f64520a71b79aaef04fe09cfa69aa55554a66f5e5e3ba91851"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Prosnick v. The Queen
+
+- Citation: 2003 CCI 582
+- Decision date: 2003-09-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3845, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prosnick v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-22
+Référence neutre
+2003 CCI 582
+Numéro de dossier
+2002-2971(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-2971(IT)I
+ENTRE :
+JOHN A. PROSNICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 6 mai 2003 à Montréal (Québec)
+Par : L'honorable juge C. H. McArthur
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1996 et 2000 sont rejetés.
+Signé à Ottawa, Canada, ce 22e jour de septembre 2003.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 27e jour de février 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI582
+Date : 20030922
+Dossier : 2002-2971(IT)I
+ENTRE :
+JOHN A. PROSNICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s'agit d'appels interjetés à l'encontre de cotisations établies pour deux années d'imposition, soit 1996 et 2000. La question en litige consiste à savoir si certaines avances d'entreprise versées à l'appelant, l'âme dirigeante, consistent en un revenu gagné en vertu du paragraphe 146(1) de la Loi de l'impôt sur le revenu ou des avantages conférés à un actionnaire en vertu du paragraphe 15(1) de la Loi. Cette question devient importante pour l'appelant relativement à la détermination du montant des primes versées au Régime enregistré d'épargne-retraite déductible aux termes du paragraphe 146(5). Selon la définition du paragraphe 146(1), un « revenu gagné » est un revenu tiré d'une charge ou d'un emploi.
+[2] Les faits en l'espèce sont les suivants. L'appelant est un ingénieur. Il détenait une participation importante dans deux entreprises, soit l'entreprise J.A. Prosnick & Associates Inc. et l'entreprise Les systèmes Paul Davis de l'ouest de l'île de Montréal Inc. Ces deux sociétés ont fait l'objet d'une vérification pour les années d'imposition 1992, 1993 et 1994.
+[3] Conséquemment à ces vérifications, le ministre du Revenu national a ajouté, au revenu de l'appelant, la somme de 10 382 $ pour l'année d'imposition 1992, de 5 001 $ pour l'année d'imposition 1993 et de 5 600 $ pour l'année d'imposition 1994, conformément au paragraphe 15(1) qui porte sur un avantage personnel conféré à un actionnaire. L'appelant ne s'est pas opposé aux nouvelles cotisations que le ministre avait établies à son égard et a payé l'impôt qui en a résulté.
+[4] Il s'agit donc de savoir quelle était la nature du revenu. S'agissait-il d'un revenu gagné comme le soutient l'appelant?
+[5] Pour les années d'imposition 1992, 1993 et 1994, l'appelant a déclaré un revenu personnel total de moins de 8 000 $ par année. Je présume que ce sont ces modestes montants qui ont entraîné les vérifications. Comme il a été mentionné précédemment, le ministre a ajouté, au revenu de l'appelant, un montant total d'environ 21 000 $ pour ces trois années. Il a estimé qu'il s'agissait d'un avantage conféré à un actionnaire aux termes du paragraphe 15(1), ce que l'appelant n'a pas contesté et il a payé sur-le-champ l'impôt qui en a résulté. Près de trois ans plus tard, il a pris conscience qu'il pourrait tirer certains avantages si lesdits paiements étaient considérés comme un revenu gagné plutôt que comme des avantages conférés à un actionnaire et, conséquemment, il a interjeté les présents appels.
+[6] Le vérificateur du ministre a démontré que les montants en cause étaient des frais personnels qu'ont engagés les sociétés notamment pour l'achat de cigarettes ou d'une voiture pour l'épouse de l'appelant, pour le paiement de ses comptes de câblodiffusion et de téléphone résidentiel, pour le paiement d'impôts et d'autres dépenses de ce genre. Soit les sociétés versaient à l'appelant les montants de ces dépenses pour couvrir ses frais personnels, soit elles payaient ces frais directement. Les sociétés ont déclaré ces montants au titre de dépenses engagées dans le cadre de l'exploitation d'une entreprise. Quant à l'appelant, il ne les a pas déclarés à titre de revenu jusqu'à ce que le ministre procède à une vérification.
+[7] Je n'ai aucune difficulté à conclure que ces dépenses étaient de nature personnelle et que le ministre était justifié de les considérer comme des avantages conférés à l'actionnaire aux termes du paragraphe 15(1). L'appelant n'a présenté aucune preuve du contraire.
+[8] Selon l'appelant, ces montants n'étaient pas des dividendes mais un revenu gagné. De toute évidence, l'appelant ne les a pas reçus au titre de dividendes. Tant les dividendes que les avantages conférés à un actionnaire sont inclus dans le revenu d'un contribuable à titre de revenu tiré d'une entreprise aux termes de l'alinéa 12(1)j) et du paragraphe 15(1).
+[9] La question que nous sommes appelés à trancher consiste à savoir si les avantages conférés à l'actionnaire sont exclus de la définition de « revenu gagné » énoncée au paragraphe 146(1).
+[10] Les deux affaires les plus pertinentes auxquelles on m'a renvoyé sont Goldstein c. Canada[1] et De Giorgio c. Canada[2]. Dans l'affaire Goldstein, le juge Bowman a été appelé à trancher cette même question. Au paragraphe 2, il a déclaré ceci :
+La divergence entre le ministre et l'appelant réside dans le calcul du « revenu gagné » de l'appelant. Le revenu gagné, défini à l'alinéa 146(1)c), est un élément de la formule utilisée pour calculer le « maximum déductible au titre des REER » défini à l'alinéa 146(1)g.1) et entrant dans la détermination du montant de primes versées au REER qui est déductible en vertu du paragraphe 146(5). Une réduction du revenu gagné du contribuable peut faire baisser le montant déductible des cotisations à un REER.
+S'ensuit une analyse détaillée de la définition de « revenu gagné » à l'égard de sociétés de personnes (ce qui en l'espèce ne nous concerne pas). Ainsi, au paragraphe 18, le juge Bowman a déclaré ce qui suit :
+Cette interprétation correspond plus précisément à ce qui me semble être l'esprit et l'objet de la définition de « revenu gagné » figurant à l'article 146. Cette définition semble viser à exclure certains types de revenus passifs comme les intérêts et les dividendes, mais non les revenus de location, qui peuvent également être des revenus passifs.
+Bien que cette affirmation s'avère instructive en ce qui concerne l'objet de la définition, elle ne permet pas de répondre à la question de savoir si un « revenu gagné » exclut les avantages conférés à un actionnaire. Dans l'affaire De Giorgio, aux paragraphes 9 à 12, le juge O'Connor de la présente Cour a examiné cette question :
+9 Le montant de 169 500 $ a été imposé à titre de revenu d'un type quelconque. Il n'a pas été imposé à titre de dividende. Toutefois, l'avocate du ministre soutient que le montant de 169 500 $ devrait être considéré comme un avantage conféré à un actionnaire ou une attribution à un actionnaire par opposition à un revenu gagné.
+10 Après avoir examiné la question, je suis convaincu que le montant de 169 500 $ que l'appelant a déclaré en 1990 au titre d'un revenu tiré de R.E.D.G. est admissible à titre de revenu gagné au sens de l'alinéa 146(1)c) de la Loi. L'appelant occupait la charge de président et était l'unique actionnaire et l'unique administrateur de la compagnie. L'avocat de l'appelant a reconnu que le montant en question est important, mais l'appelant était président de R.E.D.G., ce qui est certainement une charge. Compte tenu de la relation qu'il avait avec R.E.D.G., il avait le droit de recevoir de R.E.D.G. un montant quelconque et de considérer ce montant comme un revenu tiré d'une charge. Le montant payé peut être lié, comme on l'a dit dans les témoignages, à la rentabilité de l'entreprise, mais à mon avis, cela n'en fait pas nécessairement un avantage conféré à un actionnaire.
+11 Revenu Canada a établi l'impôt sur ce montant de 169 500 $ et je suis d'avis que l'appelant avait le droit de déclarer ce montant au titre d'un revenu gagné, ce qui justifiait la déduction de la cotisation versée au REER qu'il a demandée dans les années d'imposition 1990 et 1991.
+12 Par conséquent, l'appel est admis sur ce point.
+[11] L'avocat du ministre a tenté de distinguer les faits de l'affaire De Giorgio, de ceux de l'espèce, notamment quant au fait que le montant de l'affaire précitée a été « réellement versé » par la compagnie, ce qui signifie que les montants sont réellement passés d'une main à l'autre. Par contre, l'avocat a prétendu qu'en l'espèce, les montants en cause versés directement aux créanciers ou versés à l'appelant sur présentation de ses reçus ont été imputés à titre de dépenses de l'entreprise. Il semble que les montants ont été en grande partie versés par les sociétés directement aux fournisseurs des biens. Ils consistaient en des frais personnels de l'appelant, et ce dernier ne les a jamais déclarés. Dans l'affaire De Giorgio, le contribuable a inclus le montant dans son revenu et l'a déclaré à titre de paiement que lui avaient versé les sociétés.
+[12] L'appelant déclare qu'il était le président et un employé des deux sociétés et, tout comme dans l'affaire De Giorgio, il avait le droit de recevoir de ces sociétés un montant quelconque et de considérer ce montant comme un revenu tiré d'une charge ou d'un emploi. Il cite l'affaire Goldstein où le ministre a adopté une position différente relativement à l'établissement de cotisations, après avoir précédemment confirmé que, selon ce qu'il comprenait de la définition de « revenu gagné » à l'article 146, il devait exclure les pertes découlant d'une société en commandite qui était propriétaire de biens locatifs. Il ajoute que dans l'affaire Goldstein, le contribuable n'a pas, à l'origine, déclaré les pertes découlant de la société de personnes à titre de « revenu gagné » et que la Cour, pour rendre une décision en vertu du pouvoir qui lui était conféré, ne s'est, en aucune façon, laissée influencer par ces circonstances.
+[13] Aux paragraphes 36 et 38[3], il poursuit en affirmant ceci :
+[Traduction]
+36. Les deux circonstances ou divergences dont a fait mention le représentant de l'intimée sont les suivantes :
+a) l'appelant n'a pas, à l'origine, déclaré le revenu que le ministre a ajouté par la suite conformément à une vérification dont ont fait l'objet les trois sociétés et deux contribuables et aux avis de nouvelles cotisations qu'a délivrés le ministre plus de cinq ans après la date de production pour l'année d'imposition 1992;
+b) l'entreprise n'a jamais versé, à l'appelant, les fonds liés à l'acquisition de biens et de services que le ministre a qualifiés de frais personnels; l'entreprise a toujours payé directement le fournisseur de ces biens et de ces services;
+38. En réponse à l'allégation énoncée au point b) du paragraphe 36, l'appelant porte respectueusement à l'attention de la Cour le témoignage de Mme Foucault qui a témoigné concernant la nature des biens et des services que le ministre a qualifiés de frais personnels. L'appelant soutient que le témoignage de Mme Foucault n'appuie pas l'affirmation du représentant de l'intimée. Par contre, il soutient également que le témoignage de Mme Foucault amène raisonnablement la Cour à conclure que, selon leur véritable nature, les biens et services acquis démontrent qu'il s'agit d'une modalité de débours en espèces qu'ont fait les deux entreprises à l'appelant et pour lesquels il a fourni des reçus ou des pièces justificatives de manière à ce que ces opérations puissent être consignées dans les registres financiers des deux entreprises.
+[14] Je ne reconnais aucune valeur à cette dernière allégation (paragraphe 38) et aucune conclusion de la sorte n'est tirée. Ces dépenses consistaient en des avantages personnels conférés à l'appelant et non en des dépenses d'entreprise légitimes qu'ont engagées les sociétés.
+[15] En tentant de clarifier cette divergence, l'intimée a cité une décision qu'a rendue le juge Bell de cette Cour dans l'affaire Ballegeer c. Canada[4] et qui, au paragraphe 17, a conclu ce qui suit :
+En conséquence, les montants susmentionnés ont à bon droit été rejetés en tant que déductions de Ltd., et les autres montants ont à juste titre été inclus dans le revenu d'Arthur et de Linda en vertu du paragraphe 15(1), qui précise que le montant ou la valeur d'un avantage conféré à un actionnaire d'une société doit être inclus dans le calcul du revenu de cet actionnaire [...]
+Cependant, l'affaire Ballegeer et d'autres décisions semblables ne nous sont pas très utiles pour déterminer si les avantages conférés à l'actionnaire entrent dans la catégorie de « revenu gagné » , puisqu'on laisse tout simplement sous-entendre que les avantages conférés à l'actionnaire doivent être inclus dans le revenu du contribuable pour l'année. Un revenu désigne tant un revenu gagné que des revenus hors exploitation.
+[16] Dans l'arrêt Chopp c. La Reine[5], le juge Mogan a déclaré ce qui suit, propos qui s'appliquent également à l'appel en l'espèce :
+La relation qui existe entre la corporation et les personnes qui s'occupent de l'exploitation de l'entreprise est une relation employeur-employé. Bien sûr, cette relation est accessoire et liée à l'entreprise de la corporation. Si l'actionnaire est également un employé de la corporation et se voit accorder un avantage à ce titre, la valeur de cet avantage serait imposée en vertu de l'alinéa 6(1)a) de la Loi. Une corporation peut habituellement déduire à titre de dépense d'entreprise le coût d'un avantage qu'un employé reçoit ou dont un employé jouit à ce titre. Toutefois, une corporation ne peut pas déduire n'importe quel montant relativement à un avantage conféré à un actionnaire à ce titre, parce que la relation corporation-actionnaire n'est pas accessoire par rapport à l'entreprise de la corporation. L'avantage conféré à un actionnaire ressemble davantage à un dividende qu'à une dépense d'entreprise. Par conséquent, un avantage imposé en vertu du paragraphe 15(1) donne habituellement lieu à une double imposition parce que l'actionnaire est imposé à l'égard d'un montant qui n'a pas été déduit dans le calcul du revenu de la corporation. Dans les circonstances appropriées, ce résultat est dur, mais nécessaire.
+[17] Je considère comme un fait établi que les sociétés de l'appelant ont conféré à l'appelant actionnaire des avantages en tant qu'actionnaire. Ces avantages n'étaient pas accessoires aux activités commerciales des sociétés. Ce n'est qu'après coup que l'appelant a fait valoir qu'il avait reçu ces avantages au titre d'un revenu gagné, soit plusieurs années après les faits, alors qu'il était trop tard.
+[18] Par conséquent, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 22e jour de septembre 2003.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 27e jour de février 2004.
+Nancy Bouchard, traductrice
+[1] [1995] A.C.I. no 70.
+[2] [1996] A.C.I. no 10.
+[3] À la page 11 des arguments écrits de l'appelant.
+[4] [2001] A.C.I. no 412.
+[5] C.C.I., no 93-547(IT)G, 11 janvier 1995 (95 DTC 527), à la page 530.

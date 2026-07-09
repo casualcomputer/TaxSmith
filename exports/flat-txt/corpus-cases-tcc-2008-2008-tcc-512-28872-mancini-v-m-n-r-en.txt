@@ -1,0 +1,138 @@
+Title: Mancini v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28872/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-512-28872-mancini-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-09-11
+
+# Mancini v. M.N.R.
+
+- Citation: 2008 TCC 512
+- Decision date: 2008-09-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1315, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mancini v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-11
+Neutral citation
+2008 TCC 512
+File numbers
+2006-1031(EI)
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-1031(EI)
+BETWEEN:
+CARL MANCINI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+PANACHE FINE CABINETRY,
+Intervener.
+____________________________________________________________________
+Appeal called for hearing with the appeal of
+Carl C. Mancini (2006-1032(CPP))
+on July 25, 2008, at Halifax, Nova Scotia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kendrick Douglas
+Agent for the Intervener:
+Phillip Bourgeois
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal under the Employment Insurance Act is dismissed, without costs.
+Signed at Toronto, Ontario, this 11th day of September 2008.
+“Wyman W. Webb”
+Webb J.
+Docket: 2006-1032(CPP)
+BETWEEN:
+CARL MANCINI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+PANACHE FINE CABINETRY,
+Intervener.
+_______________________________________________________________
+Appeal called for hearing with the appeal of
+Carl C. Mancini (2006-1031(EI))
+on July 25, 2008, at Halifax, Nova Scotia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kendrick Douglas
+For the Intervener:
+Phillip Bourgeois
+_______________________________________________________________
+JUDGMENT
+The Appellant’s appeal under the Canada Pension Plan is dismissed, without costs.
+Signed at Toronto, Ontario, this 11th day of September 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC512
+Date: 20080911
+Dockets: 2006-1031(EI)
+2006-1032(CPP)
+BETWEEN:
+CARL MANCINI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+PANACHE FINE CABINETRY,
+Intervener.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant had requested a ruling on whether he was engaged by the Intervener during the period from April 11, 2005 to November 1, 2005 (the “period under appeal”) in insurable employment for the purposes of the Employment Insurance Act and pensionable employment for the purposes of the Canada Pension Plan. The ruling that he received was that he was not engaged in insurable employment or pensionable employment.
+[2] The Appellant appealed this ruling to the Respondent and the Respondent agreed that the Appellant was engaged by the Intervener in insurable employment and pensionable employment during the period under appeal. The Respondent also determined that the Appellant had been employed for 1,019 insurable hours with insurable earnings of $24,456 for the purposes of the Employment Insurance Act. Although there was no indication of the amount of pensionable earnings for purposes of the Canada Pension Plan, presumably the amount of pensionable earnings was determined to be $24,456.
+[3] The Appellant appealed to this Court on the basis that the amount of his insurable earnings for the purposes of the Employment Insurance Act should have been $26,316 and the number of insurable hours should have been 1,096.5. The appeal was filed under both the Employment Insurance Act and the Canada Pension Plan and the only issue in relation to the Canada Pension Plan which the Appellant was appealing was the amount of his pensionable earnings.
+[4] The Respondent filed a Reply to the appeal filed under the Employment Insurance Act in which the Respondent agreed with the Appellant that the insurable earnings for the purposes of the Employment Insurance Act were $26,316 and the number of insurable hours for the purposes of the Employment Insurance Act was 1,096.5. The Respondent also filed a Reply to the appeal filed under the Canada Pension Plan in which the Respondent stated that the amount of the pensionable earnings for the purposes of the Canada Pension Plan was $26,316.
+[5] The Intervener filed a Notice of Intervention.
+[6] Several months prior to the hearing, the Appellant withdrew his appeals under the Employment Insurance Act and the Canada Pension Plan by serving notice in writing on the Registrar. Immediately prior to the hearing of the appeal between the Intervener (as an appellant) and the Respondent, it was confirmed that the Appellant had withdrawn his appeal.
+[7] Paragraph 16 of the Tax Court of Canada Rules of Procedure Respecting the Employment Insurance Act (the “EI Rules”) is identical to paragraph 16 of the Tax Court of Canada Rules of Procedure Respecting the Canada Pension Plan (the “CPP Rules”) and this paragraph provides as follows:
+16. (1) An appeal may at any time be withdrawn in whole or in part by the appellant by serving notice in writing on the Registrar and thereupon the appeal is deemed to be dismissed in whole or in part.
+(2) The Registrar shall forthwith serve any intervener or other person who may be directly affected by a notice of withdrawal served under subsection (1) with a copy of the notice of withdrawal.
+[8] This paragraph of these Rules is clear. Once the Appellant notified the Registrar that he was withdrawing his appeals, the appeals are deemed to be dismissed and the Intervener is simply served a copy of the withdrawal notice. Since the deemed dismissal is a consequence of filing a notice of withdrawal, the deemed dismissal following the serving of the withdrawal notice is not a compliance matter that can be dispensed with by the Court pursuant to subparagraph 27(3) of the CPP Rules and subparagraph 27(3) of the EI Rules. As well, the only issues raised by the Appellant in his appeals are the amount of insurable earnings and insurable hours and the amount of pensionable earnings. The issue of whether the Appellant was an employee of the Intervener or an independent contractor is not raised in the Appellant’s appeals.
+[9] In this case, the Intervener had also filed an appeal under Employment Insurance Act and under the Canada Pension Plan in relation to the issue of whether the Appellant was an employee of the Intervener or an independent contractor and separate appeal files were opened. The Intervener’s appeals were heard on July 25, 2008 and will be dealt with separately.
+[10] As a result the Appellant’s appeal under the Employment Insurance Act is dismissed, without costs, and the Appellant’s appeal under the Canada Pension Plan is dismissed, without costs.
+Signed at Toronto, Ontario this 11th day of September, 2008.
+“Wyman W. Webb”
+Webb J
+CITATION: 2008TCC512
+COURT FILE NOS.: 2006-1031(EI) and 2006-1032(CPP)
+STYLE OF CAUSE: Carl Mancini v. M.N.R.
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: July 25, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: September 11, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kendrick Douglas
+Agent for the Intervener:
+Phillip Bourgeois
+COUNSEL OF RECORD:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Toronto, Ontario

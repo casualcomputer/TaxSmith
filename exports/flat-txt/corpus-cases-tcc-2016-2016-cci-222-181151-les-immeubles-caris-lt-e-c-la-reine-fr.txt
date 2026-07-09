@@ -1,0 +1,253 @@
+Title: Les immeubles Caris Ltée c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/181151/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-222-181151-les-immeubles-caris-lt-e-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-10-11
+
+# Les immeubles Caris Ltée c. La Reine
+
+- Citation: 2016 CCI 222
+- Decision date: 2016-10-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2971, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les immeubles Caris Ltée c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-10-11
+Référence neutre
+2016 CCI 222
+Numéro de dossier
+2016-1457(GST)APP
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-1457(GST)APP
+ENTRE :
+LES IMMEUBLES CARIS LTÉE,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Demande entendue le 21 juin 2016, à Québec (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de la requérante :
+Me Pierre Hémond
+Avocat de l’intimée :
+Me Sylvain Lacombe
+ORDONNANCE
+Vu la demande faite par la requérante afin d’obtenir une prorogation de délai lui permettant de signifier au ministre du Revenu du Québec des avis d’opposition visant trois cotisations établies en vertu de la Loi sur la taxe d’accise, dont les avis de cotisation sont datés du 20 août 2014;
+Et après avoir entendu les parties;
+La demande de prorogation de délai pour signifier des avis d’opposition aux trois cotisations est accueillie et la Cour ordonne que le délai dans lequel les avis d’opposition peuvent être présentés au ministre du Revenu du Québec soit prorogé jusqu’à la date de la présente ordonnance et que les avis d’opposition accompagnant la demande soient considérés comme des avis d’opposition valides à la date de la présente ordonnance.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2016.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2016 CCI 222
+Date : 20161011
+Dossier : 2016-1457(GST)APP
+ENTRE :
+LES IMMEUBLES CARIS LTÉE,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+La juge D’Auray
+CONTEXTE [1] Le ministre du Revenu du Québec, en tant que mandataire du ministre du Revenu national (le « ministre »), a refusé d’accorder à la requérante une prorogation de délai pour signifier des avis d’opposition à l’encontre de trois cotisations dont les avis sont datés du 20 août 2014 (« cotisations en litige »).
+[2] Suite à ce refus, la requérante demande à cette Cour d’accorder une prorogation de délai afin de signifier des avis d’opposition à l’encontre des cotisations en litige, soit :
+Numéro de l’avis de cotisation
+Date de l’avis de cotisation
+Lot
+Adresse
+14076501912390001
+20 août 2014
+4 429 319
+3984, boul. Ste-Anne, Québec
+14183501212390001
+20 août 2014
+1 541 426
+390-394, rue Sauriol, Québec
+14076502112390001
+20 août 2014
+4 429 318
+3986, boul. Ste-Anne, Québec
+14317000112390001
+18 novembre 2014
+--
+--
+faits [3] La requérante est une société de gestion qui administre quatre immeubles à logements.
+[4] Claude Dion est le principal actionnaire et président de la requérante.
+[5] L’Agence du revenu du Québec (l’« ARQ ») a effectué une vérification chez la requérante en février 2014 quant à la période du 25 juin 2009 au 1er mai 2012. Cette vérification s’est terminée en décembre 2014. Entre les mois d’août et de décembre 2014, la requérante a reçu un total de 11 avis de cotisation et un projet de cotisation.
+[6] Trois vagues de cotisations ont eu lieu en l’espèce, la première étant les cotisations en litige, soit celles du 20 août 2014, la deuxième vague a eu lieu au mois de novembre 2014 et la troisième vague a eu lieu au mois de décembre 2014. Entre la première vague de cotisations et la deuxième vague de cotisations, la requérante a reçu en septembre 2014 un projet de cotisation. J’ai repris l’essentiel du texte pertinent aux avis de cotisation car le langage utilisé par l’ARQ est important en l’espèce.
+Première vague de cotisations — quatre avis de cotisation datés du 20 août 2014 Immeuble situé au 275, rue Letellier, avis de cotisation portant le numéro de référence 14076501512390001 [7] Cet avis de cotisation concerne l’immeuble 1 478 840 situé au 275, rue Letellier à Québec. L’avis de cotisation indique que la requérante a demandé un remboursement pour immeubles d’habitation locatifs neufs (« remboursement pour immeuble ») au montant de 6 648,09 $. Selon l’avis de cotisation, le montant de 6 648,09 $ a été accordé par le ministre. Ainsi, la cotisation démontre un solde créditeur de 6 648,09 $.
+[8] Cependant le montant de 6 648,09 $ a été retenu par l’ARQ parce que selon l’avis de cotisation, la requérante ne respecte pas « les exigences de la loi dans le ou les comptes de programme suivants : 85657 8794 RT0001 », sans autre explication.
+Immeuble situé au 3984, boul. Ste-Anne, avis de cotisation portant le numéro de référence 14076501912390001 [9] Cet avis de cotisation concerne l’immeuble 4 429 319 situé au 3984, boul. Ste-Anne à Québec. L’avis de cotisation indique que la requérante a demandé un remboursement pour immeuble de 25 202,92 $. Ce remboursement pour immeuble a été refusé par le ministre au motif que la demande n’a pas été reçue dans les deux ans suivant la date où la taxe est devenue exigible sur l’achat ou la date de l’autocotisation.
+[10] L’avis de cotisation mentionne que le remboursement pour immeuble antérieurement accordé de 6 648,09 $ pour l’immeuble du 275, rue Letellier est retenu puisque la requérante ne respectait pas « les exigences de la loi dans le ou les comptes de programme suivants : 85657 8794 RT0001 », sans autre explication.
+[11] En vertu de cette cotisation, la requérante ne devait aucun montant, car la cotisation était néant.
+Immeuble situé au 3986, boul. Ste-Anne, avis de cotisation portant le numéro de référence 14076502112390001 [12] Cet avis de cotisation concerne l’immeuble 4 429 318 situé au 3986, boul. Ste-Anne à Québec. Cet avis indique que la requérante a demandé un remboursement pour immeuble de 25 202,92 $. Ce remboursement a été refusé par le ministre au motif que la demande n’a pas été reçue dans les deux ans suivant la date où la taxe est devenue exigible sur l’achat ou la date de l’autocotisation. La requérante ne devait aucun montant suite à cette cotisation, car la cotisation était néant.
+[13] Tout comme la cotisation pour l’immeuble situé au 3984, boul. Ste-Anne, l’avis de cotisation indique que le remboursement pour immeuble antérieurement accordé de 6 648,09 $ quant à l’immeuble du 275, rue Letellier est retenu puisque la requérante ne respectait pas « les exigences de la loi dans le ou les comptes de programme suivants : 85657 8794 RT0001 », sans autre explication.
+Immeuble situé au 390‑394, rue Sauriol, avis de cotisation portant le numéro de référence 14183501212390001 [14] Cet avis de cotisation concerne la propriété 1 541 426 située au 390‑394, rue Sauriol à Québec. Cet avis indique que la requérante a demandé un remboursement pour immeuble de 3 593,46 $. Ce remboursement a été refusé par le ministre au motif que la demande n’aurait pas été reçue dans les deux ans suivant la date où la taxe est devenue exigible sur l’achat ou la date de l’autocotisation.
+[15] En vertu de cette cotisation, la requérante ne devait aucun montant, car la cotisation était néant. L’avis de cotisation indique aussi que le remboursement pour immeuble de 6 648,09 $ a été retenu, car la requérante ne respecte pas « les exigences de la loi dans le ou les comptes de programme suivants : 85657 8794 RT0001 », sans autre explication.
+Projet de cotisation reçu par la requérante en septembre 2014 [16] Tel que je l’ai déjà mentionné, le projet de vérification a été reçu par la requérante en septembre 2014. Le projet de cotisation est présenté sous forme de graphique, avec annotations; il ne comporte pas de narratif. À la lecture de ce projet il est difficile de comprendre les ajustements proposés et les éléments qui ont été déjà cotisés et ceux qui seront ultérieurement cotisés. Il n’a pas été établi en preuve que ce projet a été expliqué à la requérante.
+[17] Le projet de vérification couvre la période du 25 juin 2009 au 1er mai 2012, ce qui inclut la période des cotisations en litige, émises en août 2014. Selon le projet de vérification, le montant dû par la requérante était de l’ordre de 166 551,34 $, calculé de la manière suivante :
+Total taxe sur produits et services
+197 348,66 $
+Total remboursements
+(31 797,32 $)
+Total rajustements
+166 551,34 $
+Montant dû
+166 551,34 $
+[18] Le « remboursement » de 31 797,32 $ inclut un montant de 4 815 $ qui a pour effet d’augmenter le remboursement sur l’immeuble de la rue Letellier. Ainsi selon le projet de cotisation, le remboursement accordé quant à l’immeuble de la rue Letellier s’élève à un montant de 11 463,59 $, soit le montant de 6 648,09 $ déjà accordé lors de la cotisation du 20 août 2014 et l’ajout d’un montant de 4 815 $ en vertu du projet de cotisation du mois de septembre 2014.
+[19] Ce redressement dans le projet de cotisation s’explique mal, car selon l’avis de cotisation daté du 20 août 2014 portant le numéro de référence 14076501512390001, la requérante n’aurait réclamé que 6 648,09 $ à titre de remboursement pour l’immeuble de la rue Letellier.
+Deuxième vague de cotisations dont les avis sont datés du 5 novembre, du 7 novembre et du 18 novembre 2014 [20] Les trois cotisations du mois de novembre 2014 établissent la taxe nette de la requérante à 0,01 $. Il aurait été logique que cette deuxième vague de cotisations reflète les ajustements énoncés dans le projet de cotisation de septembre 2014. Lors de l’audience, l’intimée n’a pas expliqué pourquoi ces cotisations ont été émises. Cela étant dit, toutes ces cotisations ont été remplacées par des cotisations établies au mois de décembre 2014. Le langage utilisé dans les avis de cotisation est cependant aussi important.
+Avis de cotisation du 5 novembre 2014, période visée du 1er octobre 2010 au 31 octobre 2010 [21] Cet avis de cotisation, qui est daté du 5 novembre 2014 et qui porte le numéro de référence 14304000312390001, couvre la période du 1er octobre 2010 au 31 octobre 2010 et établit la taxe nette à 0,01 $.
+[22] Il est à noter que l’avis de cotisation fait référence au remboursement de 6 648,08 $ pour l’immeuble vis-à-vis la rue Letellier avec la note suivante : « [n]ous retenons votre crédit pendant que nous révisons votre compte. Tout montant dû pourrait être rajusté lors du traitement de votre remboursement […]. » La deuxième page de cet avis indique également que « [l]e montant résultant de votre (nouvelle) cotisation ne comprend pas votre remboursement en attente. Une fois le remboursement traité, un avis de (nouvelle) cotisation sera émis séparément, s’il y a lieu ».
+Avis de cotisation du 7 novembre 2014, période visée du 1er avril 2011 au 30 avril 2011 et du 1er mai 2012 au 31 mai 2012 [23] Cet avis de cotisation, qui est daté du 7 novembre 2014 et qui porte le numéro de référence 14307000112390003, couvre la période du 1er avril 2011 au 30 avril 2011 et établit la taxe nette à 0,01 $. Cet avis de cotisation porte également le numéro de référence 14307000112390001 quant à la période du 1er mai 2012 au 31 mai 2012 et établit aussi la taxe nette à 0,01 $.
+[24] Il est à noter qu’on y trouve à nouveau la note suivante : « [n]ous retenons votre crédit pendant que nous révisons votre compte. Tout montant dû pourrait être rajusté lors du traitement de votre remboursement […] ». La deuxième page de l’avis de cotisation pour les deux périodes indique également que « [l]e montant résultant de votre (nouvelle) cotisation ne comprend pas votre remboursement en attente. Une fois le remboursement traité, un avis de (nouvelle) cotisation sera émis séparément, s’il y a lieu ».
+Avis de cotisation du 18 novembre 2014, période visée du 1er juin 2009 au 30 juin 2009 [25] Cet avis de cotisation, qui est daté du 18 novembre 2014 et qui porte le numéro de référence 14317000112390001, couvre la période du 1er juin 2009 au 30 juin 2009 et établit la taxe nette à 0,01 $.
+[26] Il est à noter que cet avis de cotisation ne fait pas expressément mention du remboursement impayé de 6 648,08 $ visant l’immeuble de la rue Letellier. Cependant, l’avis de cotisation indique que « [l]e montant résultant de votre (nouvelle) cotisation ne comprend pas votre remboursement en attente. Une fois le remboursement traité, un avis de (nouvelle) cotisation sera émis séparément, s’il y a lieu ».
+Troisième vague de cotisations dont les avis sont tous datés du 10 décembre 2014 [27] Par avis de cotisation tous datés du 10 décembre 2014, le ministre a établi plusieurs nouvelles cotisations qui ont eu pour effet de remplacer toutes les cotisations émises au mois de novembre 2014. Parmi ces nouvelles cotisations, on note une cotisation qui remplace la cotisation du 20 août 2014, soit celle afférente à l’immeuble de la rue Letellier.
+Avis de nouvelle cotisation remplaçant les cotisations émises au mois de novembre 2014 Cotisation visant la période du 1er octobre 2010 au 31 octobre 2010 [28] Cet avis de cotisation, qui couvre la période du 1er octobre 2010 au 31 octobre 2010 et qui porte le numéro de référence 14304000312390001, établit la taxe nette à 73 737,72 $.
+[29] Il est à noter que cet avis de cotisation remplace celui qui se rapporte à la même période, émis en date du 5 novembre 2014, établissant la taxe nette à 0,01 $.
+[30] Cet avis mentionne que « [l]e montant de taxe nette ne tient pas compte de tout montant de remboursement, acompte provisionnel ou paiement qui a été appliqué au compte ».
+Cotisation visant la période du 1er avril 2011 au 30 avril 2011 [31] Cet avis de cotisation, qui couvre la période du 1er avril 2011 au 30 avril 2011 et qui porte le numéro de référence 14307000112390003, établit la taxe nette à 73 737,72 $.
+[32] Il est à noter que cet avis de cotisation remplace celui qui se rapporte à la même période, émis en date du 7 novembre 2014, établissant la taxe nette à 0,01 $.
+[33] Cet avis mentionne que « [l]e montant de taxe nette ne tient pas compte de tout montant de remboursement, acompte provisionnel ou paiement qui a été appliqué au compte ».
+Cotisation visant la période du 1er mai 2012 au 31 mai 2012 [34] Cet avis de cotisation, qui couvre la période du 1er mai 2012 au 31 mai 2012 et qui porte le numéro de référence 14307000112390001, établit la taxe nette à 31 843,31 $.
+[35] Il est à noter que cet avis de cotisation remplace celui qui se rapporte à la même période, émis en date du 7 novembre 2014, établissant la taxe nette à 0,01 $.
+Cotisation visant la période du 1er juin 2009 au 30 juin 2009 [36] Cet avis de cotisation, qui couvre la période du 1er juin 2009 au 30 juin 2009 et qui porte le numéro de référence 14317000112390001, établit la taxe nette à 18 029,91 $.
+[37] Il est à noter que cet avis de cotisation remplace celui qui a été émis en date du 18 novembre 2014 établissant la taxe nette à 0,01 $.
+Avis de nouvelle cotisation accordant un remboursement Période visée du 1er octobre 2010 au 31 octobre 2010 [38] Cet avis de cotisation, qui couvre la période du 1er octobre 2010 au 31 octobre 2010 et qui porte le numéro de référence 14303502412390003, accorde à la requérante un remboursement de la TPS/TVH de 8 500 $.
+Période visée du 1er avril 2011 au 30 avril 2011 [39] Cet avis de cotisation, qui couvre la période du 1er avril 2011 au 30 avril 2011 et qui porte le numéro de référence 14303502412390004, accorde à la requérante un remboursement de la TPS/TVH de 8 500 $.
+Période visée du 1er juin 2009 au 30 juin 2009 [40] Cet avis de cotisation, qui couvre la période du 1er juin 2009 au 30 juin 2009 et qui porte le numéro de référence 14317500412390001, accorde à la requérante un remboursement de TPS/TVH de 9 981,82 $.
+Immeuble situé au 275, rue Letellier, avis de cotisation en date du 10 décembre 2014, portant le numéro de référence 14076501512390001 [41] Cet avis de cotisation concerne la propriété 1 478 840 située au 275, rue Letellier à Québec. Le ministre accorde un remboursement pour immeubles d’habitation locatifs neufs au montant révisé de 11 463,59 $.
+[42] Il est à noter que cet avis de cotisation remplace celui qui a été émis en date du 20 août 2014 portant sur le même immeuble, ayant accordé un remboursement de 6 648,09 $.
+[43] Tel qu’il a déjà été mentionné, cette cotisation s’explique mal; l’avis de cotisation du 20 août 2014 indique que le montant réclamé à titre de remboursement pour immeuble est de 6 648 $. Si je me fiais à l’avis de cotisation visant l’immeuble de la rue Letellier, le ministre aurait accordé un remboursement pour immeuble supérieur à celui demandé par la requérante.
+Avis d’opposition et demande de prorogation de délai [44] L’intimée prétend que la requérante a déposé un avis d’opposition en date du 5 mars 2015 contestant seulement les avis de cotisation datés du 10 décembre 2014[1]. Je ne suis pas d’accord avec la prétention de l’intimée. Il ressort clairement de l’avis d’opposition que ce dernier vise toutes les cotisations pour les années d’imposition 2009 à 2012 à l’encontre de la requérante.
+[45] Cependant, en date du 5 mars 2015, le délai pour signifier au ministre des oppositions était déjà écoulé relativement aux cotisations dont les avis sont datés du 20 août 2014.
+[46] Le 27 mai 2015, le ministre confirme les cotisations du mois de décembre 2014, mais ne traite pas des cotisations du mois d’août 2014, car la requérante ne pouvait s’opposer aux cotisations du mois d’août sans avoir obtenu au préalable une prorogation de délai lui permettant de s’opposer.
+[47] Le 17 juin 2015, la requérante présente au ministre une demande de prorogation de délai pour l’ensemble des avis de cotisation reçus entre le 20 août 2014 et le 10 décembre 2014 inclusivement[2].
+[48] Le 16 mars 2016, le ministre refuse la demande de prorogation de délai pour les cotisations du 20 août 2014, car selon le ministre, la requérante n’avait pas démontré son impossibilité d’agir ou son intention véritable de faire opposition auxdites cotisations. Les oppositions à l’égard des nouvelles cotisations du mois de décembre ayant été présentées au ministre dans les délais requis, le ministre n’avait pas à répondre à la demande de prorogation de délai quant à ces cotisations.
+[49] Le 14 avril 2016, la requérante dépose auprès de cette Cour une demande de prorogation de délai pour signifier au ministre un avis d’opposition pour les cotisations suivantes :
+Numéro de l’avis de cotisation
+Date de l’avis de cotisation
+Lot
+Adresse
+14076501912390001
+20 août 2014
+4 429 319
+3984, boul. Ste-Anne, Québec
+14183501212390001
+20 août 2014
+1 541 426
+390-394, rue Sauriol, Québec
+14076502112390001
+20 août 2014
+4 429 318
+3986, boul. Ste-Anne, Québec
+14317000112390001
+18 novembre 2014
+--
+--
+[50] Il est à noter que la cotisation datée du 18 novembre 2014 n’est plus en litige devant cette Cour puisqu’elle a été annulée suite à l’établissement d’une nouvelle cotisation, dont l’avis est daté du 10 décembre 2014[3].
+[51] Lors de l’audience, Claude Dion, président et principal actionnaire de la requérante, a mentionné avoir été en constante communication avec son avocat durant le processus de vérification. M. Dion a affirmé que le mandat de son avocat était de s’opposer à tout ce qui concernait la TPS et la TVQ. Il explique d’ailleurs qu’il ne s’est pas opposé dans les délais parce qu’il avait l’impression que le projet de cotisation englobait toutes les cotisations et que les remboursements pour immeubles étaient toujours à l’étude. M. Dion a aussi indiqué que la quantité de documents reçus a créé chez lui une certaine confusion et qu’il attendait que le ministre établisse des nouvelles cotisations suite au projet de cotisation, incluant les cotisations portant sur les remboursements pour immeubles.
+[52] Audrey Barrette, conjointe de M. Dion, a également témoigné pour la requérante. Mme Barrette a expliqué qu’elle est infirmière, première assistante chirurgicale, et qu’elle s’occupe de l’administration de la requérante à raison de quelques heures par semaine.
+[53] Mme Barrette savait que la requérante pouvait réclamer un remboursement relatif aux immeubles neufs locatifs, mais elle a expliqué que toutes les cotisations reçues ont semé chez elle une confusion. Elle a indiqué qu’elle n’a entrepris aucune démarche suite à la réception des avis de cotisation en date du mois d’août 2014, car en vertu de ces cotisations la requérante n’avait rien à payer. Elle attendait le projet de cotisation et les nouvelles cotisations qui émaneraient de ce projet. À cet effet, les nouvelles cotisations reflétant le projet de cotisation ont été émises en décembre 2014.
+[54] Il ressort de l’ensemble du témoignage de Mme Barrette qu’elle semblait confuse par toute la documentation reçue. Par exemple, elle a indiqué qu’elle ne comprenait pas pourquoi la requérante recevait des cotisations qui portaient sur des remboursements de crédits sur les intrants. Elle a indiqué que l’ARQ avait annulé le numéro d’inscrit de la requérante et que l’ARQ lui avait indiqué que la requérante ne pouvait pas réclamer de crédits sur les intrants.
+question en litige [55] La requérante satisfait-elle aux conditions énoncées au paragraphe 304(5) de la Loi sur la taxe d’accise (la « LTA »)? Si la réponse est positive, une demande de prorogation de délai sera accordée.
+ANALYSE [56] Pour que cette Cour accorde une demande de prorogation de délai en vertu du paragraphe 304(5) de la LTA, les conditions énoncées à ce paragraphe doivent être remplies :
+304. (5) Acceptation de la demande — Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 303(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour faire opposition ou présenter la requête en application du paragraphe 274(6);
+b) la personne démontre ce qui suit :
+(i) dans le délai d’opposition par ailleurs imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’opposition est raisonnablement fondée.
+[Je souligne.]
+[57] Les parties ne contestent pas que le critère de l’alinéa 304(5)a) de la LTA est respecté[4].
+Intention [58] La requérante fait valoir qu’elle satisfait aux conditions du paragraphe 304(5) de la LTA, c’est-à-dire qu’elle a toujours eu l’intention de s’opposer aux cotisations du mois d’août 2014. L’intimée, à l’inverse, fait valoir que la requérante ne satisfait pas aux conditions du paragraphe 304(5) de la LTA, n’ayant pas eu l’intention de s’opposer aux cotisations en litige ni n’ayant été dans une impossibilité d’agir ou de mandater quelqu’un à cette fin.
+[59] Selon l’intimée, je ne devrais pas regarder l’ensemble des faits et me limiter au seul fait que la requérante ne s’est pas opposée aux cotisations du mois d’août 2014 dans les délais requis.
+[60] Je ne suis pas d’accord avec l’intimée. Je suis d’avis que je dois analyser tous les faits afin de comprendre le contexte du dossier pour déterminer si, en l’espèce, la requérante avait l’intention de déposer un avis d’opposition. Il ne faut pas oublier que lors du projet de cotisation en septembre 2014, et lors des nouvelles cotisations en novembre 2014, la requérante était toujours dans les délais pour s’opposer. Ainsi, les correspondances suite aux cotisations du mois d’août ont pu avoir un impact sur la requérante.
+[61] Je suis d’avis que la requérante a toujours eu une intention véritable de faire opposition à toutes les cotisations concernant la TPS.
+[62] Premièrement, le témoignage de M. Dion est sans équivoque. Il indique clairement qu’il a toujours eu l’intention de s’opposer et, à cet effet, la requérante s’est opposée à toutes les cotisations du mois de décembre 2014.
+[63] Mme Barrette et M. Dion attendaient le résultat émanant de la vérification en cours. Il est vrai que Mme Barrette ne pensait pas pouvoir s’opposer aux cotisations en litige puisqu’elles étaient néant, mais il n’en demeure pas moins que, dans sa confusion, elle était convaincue que les demandes de remboursement pour immeubles locatifs étaient encore à l’étude. Quant à M. Dion, il était évident qu’une opposition serait logée dès qu’un résultat final de cotisation serait reçu. Étant en contact avec l’ARQ, ces deux intervenants comprenaient qu’un projet de cotisation devait être émis par l’ARQ, suivi de nouvelles cotisations. Confus par la réception de plusieurs avis de nouvelle cotisation, ni Mme Barrette ni M. Dion n’avaient compris que les cotisations du mois d’août étaient finales et qu’ils devaient s’opposer à ces cotisations. À cet effet, les faits qui suivent leur donnent raison.
+[64] Lors de la réception du projet de cotisation daté du 5 septembre 2014, on note que l’ARQ a augmenté le crédit accordé pour l’immeuble de la rue Letellier. À mon avis, cela confirme les témoignages de Mme Barrette et de M. Dion selon lesquels tous deux avaient l’impression que les remboursements pour immeubles locatifs étaient toujours à l’étude par l’ARQ.
+[65] De plus, le projet de cotisation[5] couvre la période du 25 juin 2009 au 1er mai 2012. À la lecture du projet de cotisation, il est difficile de saisir ce qui sera ultérieurement cotisé et ce qui a déjà été cotisé. Il est facile de comprendre pourquoi la requérante avait l’impression que le ministre établirait des nouvelles cotisations quant aux demandes de remboursement pour immeuble.
+[66] Mme Barrette et M. Dion s’attendaient donc à recevoir des avis de cotisation quant aux remboursements pour immeubles locatifs suivant ce projet de cotisation, ce à quoi ils désiraient s’objecter, comme ils l’ont fait pour les avis de cotisation reçus ultérieurement.
+[67] La confusion se perpétue suite à la réception des différents avis de cotisation émis au mois de novembre, puisqu’ils contiennent une note relativement à un remboursement en attente. La référence récurrente aux demandes de remboursement toujours en cours de traitement n’a donné, encore une fois, aucune chance ni raison à la requérante de percevoir le tout autrement. De plus, les cotisations utilisent le terme remboursement pour référer à des remboursements quant à des crédits sur les intrants ou à des remboursements liés aux immeubles locatifs.
+[68] Les cotisations émises au mois de décembre 2014 réfèrent également à des « demandes de remboursement […] produites précédemment », ce qui peut, encore une fois, porter à croire qu’elles se rapportent aux remboursements réclamés pour immeubles locatifs. De plus, l’augmentation du remboursement pour l’immeuble de la rue Letellier justifie la thèse de la requérante que les remboursements pour immeubles locatifs étaient toujours à l’étude.
+[69] La requérante a cité la décision Patterson Dental Canada inc. c La Reine[6] afin de soutenir sa prétention. Dans cette affaire, les observations du vérificateur à l’égard d’une lettre d’interprétation publiée par l’Agence du revenu du Canada ont induit en erreur la requérante, Patterson Dental. Cette dernière ne s’est pas opposée dans les délais requis puisque, suite aux observations du vérificateur, elle croyait que le produit qu’elle vendait n’était pas une « fourniture détaxée », alors que l’état du droit en était autrement. En accordant la demande de prorogation de délai, le juge Masse a énoncé les commentaires suivants dans Patterson Dental :
+27 Compte tenu de ces circonstances, la requérante était-elle dans l’impossibilité d’agir? Je suis d’avis que la requérante n’a pas pu agir et donc, qu’elle n’a pas pu présenter d’avis d’opposition du fait de la convergence de circonstances qui a eu pour effet d’annihiler l’intention qu’aurait pu avoir la requérante de faire opposition. À l’époque où elle a reçu l’avis de cotisation et choisi de ne rien faire de plus, elle ne disposait pas de toute l’information nécessaire pour prendre une décision éclairée. Si la requérante avait été au courant des répercussions possibles de la décision Le Gardeur et de l’Avis no 248, il est certain qu’elle aurait agi avec célérité : elle aurait demandé à des témoins experts de lui dire si, à leur avis, l’épinéphrine constituait un ingrédient essentiel de ses solutions anesthésiques et aurait pu déterminer si le dépôt d’un avis d’opposition présentait quelque chance de succès.
+[Je souligne.]
+[70] En l’espèce, la convergence des circonstances a aussi eu pour effet d’annihiler l’intention qu’aurait pu avoir la requérante de faire opposition.
+[71] Dans la décision Industries Bonneville ltée c Canada[7], la juge Lamarre Proulx a considéré plausible l’interprétation erronée de la requérante face à la cotisation et a jugé qu’il était opportun d’accorder la demande puisque le contribuable ne comprenait pas la nature exacte de la cotisation. Ainsi, il a été décidé que l’incompréhension de la requérante quant à la cotisation en cause n’a pas affecté l’existence de son intention d’en appeler.
+[72] Je suis d’avis que la requérante a toujours eu l’intention de s’opposer à toutes les cotisations en matière de TPS. En effet, l’absence de compréhension de la nature des cotisations en cause, due à la confusion créée par les nombreuses explications données sur les avis de cotisation et le projet de cotisation, a empêché la requérante de s’opposer en temps opportun, cette dernière étant persuadée qu’il valait mieux s’opposer une fois que les « cotisations finales » seraient émises.
+Impossibilité d’agir ou de mandater quelqu’un pour agir en son nom [73] Dans l’affaire Charles v MNR[8], le contribuable, dont la cotisation concernait un refus de déduction (quoiqu’il ait erronément présumé qu’elle se rapportait à un crédit d’impôt), s’est vu accorder une prorogation de délai.
+[74] Dans Patterson Dental, le juge Masse a conclu que la requérante était dans l’impossibilité d’agir puisque l’information portait à confusion; Patterson Dental ne pouvait pas prendre une décision éclairée quant à son opposition, à l’époque où elle a reçu l’avis de cotisation.
+[75] À cet effet, la situation dans la présente requête est semblable à celles dans Charles et Patterson Dental.
+Juste et équitable de faire droit à la demande [76] J’examinerai rapidement les autres conditions imposées par l’alinéa 304(5)b) de la LTA.
+[77] J’estime qu’eu égard aux circonstances particulières de la présente affaire, il est juste et équitable de faire droit à la demande de la requérante pour les raisons suivantes :
+a) La requérante était en communication constante avec l’ARQ entre août 2014 et décembre 2014.
+b) La justice et l’équité du système judiciaire militent en faveur de la position de la requérante.
+c) L’intérêt de la justice commande que la requérante puisse se faire entendre sur le fond de l’affaire.
+d) Les montants de remboursement réclamés sont importants.
+e) En cas de doute, il convient de viser la sauvegarde des droits des parties qui se transpose dans le cas présent par la tenue d’un débat sur le fond[9].
+Demande présentée dès que les circonstances le permettaient [78] Je suis également d’avis que la demande a été présentée dès que les circonstances le permettaient pour les motifs suivants :
+a) La requérante a démontré qu’à la réception des avis de cotisation datés du 10 décembre 2014, elle ne savait toujours pas quelle était la nature des cotisations et comment avaient été traitées les demandes de remboursement pour immeuble.
+b) C’est vraisemblablement lors de la réception de la décision sur opposition du 27 mai 2015 que la requérante s’est aperçue d’une possible irrégularité à son dossier.
+c) C’est environ à cette date que la requérante a pris connaissance de son défaut, malgré qu’elle ne comprenait pas toute l’ampleur de ce dernier. À cet effet, la demande de prorogation de délai de la requérante présentée en date du 17 juin 2015 démontre une incompréhension quant à l’état des cotisations et une volonté de rectifier la situation.
+CONCLUSION [79] Je suis d’avis que la requérante a démontré qu’elle satisfait à chacune des conditions du paragraphe 304(5) de la LTA.
+[80] Par conséquent, la demande de prorogation de délai pour présenter un avis d’opposition aux trois cotisations du 20 août 2014 est accueillie.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2016.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2016 CCI 222
+Nº DU DOSSIER DE LA COUR :
+2016-1457(GST)APP
+INTITULÉ DE LA CAUSE :
+LES IMMEUBLES CARIS LTÉE c LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+Le 21 juin 2016
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Johanne D’Auray
+DATE DE L’ORDONNANCE :
+Le 11 octobre 2016
+COMPARUTIONS :
+Avocat de la requérante :
+Me Pierre Hémond
+Avocat de l’intimé :
+Me Sylvain Lacombe
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+Me Pierre Hémond
+Me Philippe Beauchesne
+Cabinet :
+Dussault Gervais Thivierge, s.e.n.c.r.l.
+Québec (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les avis de cotisation, en date du 10 décembre 2014, remplacent les avis de cotisation du mois de novembre 2014, soit ceux qui visent les périodes suivantes : 1er octobre 2010 au 31 octobre 2010, 1er avril 2011 au 30 avril 2011 et 1er mai 2012 au 31 mai 2012.
+[2] La requérante n’avait pas à demander une prorogation de délai à l’encontre de toutes les nouvelles cotisations, car le délai n’était écoulé que pour les cotisations en date du 20 août 2014.
+[3] Tel que je l’ai déjà indiqué, la requérante a présenté au ministre une opposition quant aux cotisations datées du 10 décembre 2014. Une demande de prorogation pour présenter un avis d’opposition n’est donc pas requise.
+[4] La requérante n’a pas à démontrer que son opposition est raisonnablement fondée tel qu’il est prévu au sous‑alinéa 304(5)b)(iv) puisqu’en raison d’une différence entre la version anglaise et française, on doit interpréter l’alinéa 304(5)b) comme n’exigeant pas cette quatrième condition.
+[5] En septembre 2014, le délai pour s’opposer aux cotisations du 20 août n’était pas écoulé.
+[6] 2014 CCI 62.
+[7] [2002] ACI no 426 (QL).
+[8] 81 D.T.C. 744 (affaire citée dans Patterson Dental au paragraphe 28).
+[9] Voir Québec (Communauté urbaine) c Services de santé du Québec, [1992] 1 RCS 426.

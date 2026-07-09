@@ -1,0 +1,172 @@
+---
+title: "Pilon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26749/index.do"
+last_modified: "2003-11-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 846"
+citation2: ""
+neutral_citation: "2003 TCC 846"
+decision_date: "2003-11-25"
+language: "en"
+item_id: "26749"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3495
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:27:39.160000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8f0a748af8d707b0829b9658f6620fe00aac20bced362c3ed80661de093ece4b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pilon v. The Queen
+
+- Citation: 2003 TCC 846
+- Decision date: 2003-11-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3495, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pilon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-25
+Neutral citation
+2003 TCC 846
+File numbers
+2003-2309(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2309(IT)I
+BETWEEN:
+MICHELLE PILON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 4, 2003, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jean-Michel Cyr
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is dismissed.
+Signed at Ottawa, Canada, this 25th day of November 2003.
+"Lucie Lamarre"
+Lamarre, J.
+Citation: 2003TCC846
+Date: 20031125
+Docket: 2003-2309(IT)I
+BETWEEN:
+MICHELLE PILON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre, J.
+[1] This is an appeal under the informal procedure from an assessment made by the Minister of National Revenue ("Minister") under the Income Tax Act ("Act") for the appellant's 2000 taxation year. The Minister included in her income for that year child support arrears payments in the amount of $23,200 received by her in 2000 from her former spouse. The appellant takes issue with this tax treatment as she is of the view that child support payments made after 1997 should not be included in income under the new rules implemented by the Act.
+[2] The facts are straightforward. The appellant and her former spouse are divorced and have been living separate and apart since 1980. On May 30, 1986, the Supreme Court of Ontario, on consent of the parties, issued an order ("1986 Order"), filed herein as part of Exhibit A-1, granting the appellant custody of her two children born on March 7, 1971 and August 6, 1973, and requiring that the former spouse pay to the appellant child support in the amount of $300 per month for the benefit of each child (for a total of $600 per month), with the said amount to be payable on the first day of each and every month until such time as one or more of the following events should occur:
+2(B) . . .
+i/ the child becomes sixteen (16) years of age and ceases to be in full-time attendance at a school, college or university (with the exception of school holidays or breaks);
+ii/ the child ceases to reside with . . . [the appellant], except for the purpose of attending school, college or university;
+iii/ the child becomes twenty-one (21) years of age;
+iv/ the child marries;
+v/ the child dies.
+[3] The 1986 Order also stated:
+2(D) Payments of child support shall be adjusted annually in accordance with the percentage increase in the Consumer Price Index for the City of Ottawa.
+[4] The former spouse had been in chronic arrears of child support payments for the period from 1987 to 1994.
+[5] On November 3, 1999, the Ontario Superior Court of Justice issued the following order ("1999 Order"), which is also part of Exhibit A-1:
+1. THIS COURT ORDERS that the Father's Application for a declaration that the child support obligation under Justice Mercier's Order dated May 30, 1986 terminated on July 1, 1987 is dismissed.
+2. THIS COURT FURTHER ORDERS that the Father (or his estate in the event of his death), shall pay to the Mother child support arrears, inclusive of increases in the Consumer Price Index, in the amount of TWENTY-THREE THOUSAND TWO HUNDRED ($23,200.00) DOLLARS.
+3. THIS COURT FURTHER ORDERS that only post-judgment interest on the arrears of TWENTY-THREE THOUSAND TWO HUNDRED ($23,200.00) DOLLARS is to be paid.
+4. THIS COURT FURTHER ORDERS that all funds, plus accumulated interest, held in the trust account of . . ., Barristers & Solicitors, be paid out forthwith to the credit of the Mother in partial satisfaction of this Order.
+5. THIS COURT FURTHER ORDERS that brief (i.e. maximum two pages each party) written submissions as to costs are able to be made by each party before November 26, 1999.
+6. THIS COURT ORDERS AND ADJUDGES that unless the support order is withdrawn from the office of the Director of the Family Responsibility Office, it shall be enforced by the Director and amounts owing under the support order shall be paid to the Director who shall pay them to the person to whom they are owed.
+7. THIS ORDER BEARS INTEREST at the rate of 6% per cent per year commencing on November 3, 1999.
+[6] The appellant concedes that the amount of $23,200 is the amount of arrears owed by her former husband pursuant to the 1986 Order. As a matter of fact, she filed as part of Exhibit A-1 a statement of child support due and paid by the father from July 1987 to July 1994 inclusive. The youngest child having reached the age of 21 years in August 1994, from that time on, in accordance with the 1986 Order, the former husband's legal obligation to pay child support was extinguished. The appellant testified that the total due for the period referred to above came to $16,992, which amount had to be adjusted in accordance with the percentage increase in the Consumer Price Index ("CPI"), as provided in the 1986 Order. She concedes that the amount of $23,200 reflects the total of $16,992 plus the CPI adjustment. She argues, however, that the payment was made by her former spouse not pursuant to the 1986 Order but in conformity with the 1999 Order and therefore becomes a child support amount paid after 1997, which in her view is no longer taxable under the Act.
+[7] The provisions of the Act applicable with respect to the tax treatment of child support payments are the following:
+56. (1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+. . .
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer's income for a preceding taxation year;
+56.1. . . .
+(4) The definitions in this subsection apply in this section and section 56.
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a natural parent.
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[8] Arrears payments made in compliance with the terms of an order providing that amounts are payable on a periodic basis for the maintenance of the children of the recipient are to be considered as the payment of an amount payable or receivable as an allowance on a periodic basis when, of course, the recipient has discretion as to the use of the amounts (this last point not being at issue here). The payments do not change in character merely because they are not made on time (see The Queen v. Sills, 85 DTC 5096 (F.C.A.)).
+[9] Here, the evidence disclosed that the amount of $23,200 received by the appellant in 2000 represents the amount owed by her former husband pursuant to the 1986 Order. Such a payment fits within the definition of "support amount" in subsection 56.1(4) of the Act.
+[10] Because this support amount is a child support amount, I have to determine whether, as regards the 1986 Order, the 1999 Order created a commencement day within the meaning of "commencement day" in subsection 56.1(4) of the Act such that the payment in question is not taxable in the hands of the appellant.
+[11] Unfortunately, I do not so find. The 1999 Order did not change the total child support amount payable by the former spouse pursuant to the 1986 Order. On the contrary, the 1999 Order confirmed the father's child support obligation under the 1986 Order and ordered him to pay to the appellant child support arrears, which amounted to $23,200 inclusive of increases in the CPI. The fact that the 1999 Order bore interest commencing on the date of that Order does not change the amount of the child support payable by the father pursuant to the 1986 Order.
+[12] There was no order made after April 1997 with respect to the child support amount. Indeed, in 1999 the children were adults and not in the appellant's custody anymore. There consequently could not have been an order concerning the child support amount. The sole purpose of the 1999 Order was to force the father to meet his child support obligation towards the appellant, as per the 1986 Order. The 1999 Order did not have the effect of creating a commencement day with respect to the 1986 Order.
+[13] Therefore, the arrears of child support payments were not receivable by the appellant under an order on or after its commencement day in respect of a period that began on or after its commencement day, within the meaning of the Act. The amount of $23,200 is a support amount received in 2000 which is taxable in the appellant's hands in that year pursuant to paragraph 56(1)(b) of the Act.
+[14] The appeal is dismissed.
+Signed at Ottawa, Canada, this 25th day of November 2003.
+"Lucie Lamarre"
+Lamarre, J.
+CITATION:
+2003TCC846
+COURT FILE NO.:
+2003-2309(IT)I
+STYLE OF CAUSE:
+Michelle Pilon v. The Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+November 4, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+November 25, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jean-Michel Cyr
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

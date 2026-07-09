@@ -1,0 +1,190 @@
+---
+title: "Canadian Forest Navigation Co. Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/142519/index.do"
+last_modified: "2016-02-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 43"
+citation2: ""
+neutral_citation: "2016 TCC 43"
+decision_date: "2016-02-12"
+language: "en"
+item_id: "142519"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3016
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:58:38.581000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8afa7e74c36d54fa99c3e61df3648db8f7770bcd4cb927fc9b18e157857dd055"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Canadian Forest Navigation Co. Ltd. v. The Queen
+
+- Citation: 2016 TCC 43
+- Decision date: 2016-02-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3016, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canadian Forest Navigation Co. Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-02-12
+Neutral citation
+2016 TCC 43
+File numbers
+2012-4038(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4038(IT)G
+BETWEEN:
+CANADIAN FOREST NAVIGATION CO. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Determination hearing held on September 30, 2015
+in Montreal, Quebec.
+Before: The Honourable Associate Chief Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Stéphane Eljarrat
+Joel Scheuerman
+Leïla Côté
+Counsel for the Respondent:
+Diana Aird
+Rita Araujo
+DETERMINATION
+Whereas the appellant made a motion to this Court for an order under section 58 of the Tax Court of Canada Rules (General Procedure) that a question of law be determined before the hearing;
+And whereas by order dated February 19, 2015, Graham J. of this Court ordered in the following terms that the following question of law be determined:
+WHEREAS the Appellant’s foreign affiliates transferred amounts to the appellant during the 2004, 2005 and 2006 years and declared such transfers to be dividends;
+WHEREAS foreign rectification orders were rendered by the Supreme Court of Barbados and the District Court of Nicosia, Cyprus on March 28, 2001 [sic] and August 13, 2010 respectively;
+WHEREAS the foreign rectification orders declared that the amount transferred from the Appellant’s foreign affiliates to the Appellant are not dividends but rather, are transfers that resulted in indebtedness by the Appellant to the foreign affiliates in the amount of the transfers;
+WHEREAS in computing its Canada income tax, the Minister of National Revenue (the “Minister”) assessed the Appellant on the basis that the transfers were dividends within the meaning of sections 12 and 90 of the Income Tax Act;
+WHEREAS the assessments are the subject of this Appeal; and
+WHEREAS one of the issues in this Appeal is whether or not the transfers are taxable as dividends:
+Is the Minister required to not treat the transfers as dividends, or to not take the position that the transfers are dividends in this Appeal, by virtue of the foreign rectification orders, but rather to treat the transfers as resulting in indebtedness by the Appellant to the foreign affiliates in the amount of the transfers?
+In accordance with the attached reasons, the answer to the question raised by the parties is no and the Court concludes that the respondent is not bound by the foreign judgments since they have not been recognized in Canada by a court of competent jurisdiction, and therefore the respondent is not precluded from taking the position at trial that the appellant received dividends, rather than amounts in the form of loans and other indebtedness, during the period at issue.
+The respondent is entitled to her costs on the motion.
+Signed at Ottawa, Canada, this 12th day of February 2016.
+"Lucie Lamarre"
+Lamarre A.C.J.
+Citation: 2016 TCC 43
+Date: 20160212
+Docket: 2012-4038(IT)G
+BETWEEN:
+CANADIAN FOREST NAVIGATION CO. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR DETERMINATION
+Lamarre A.C.J.
+[1] By order dated February 19, 2015, Graham J. of this Court ordered that a question of law be determined before the hearing of the appeal, in the following terms:
+WHEREAS the Appellant’s foreign affiliates transferred amounts to the appellant during the 2004, 2005 and 2006 years and declared such transfers to be dividends;
+WHEREAS foreign rectification orders were rendered by the Supreme Court of Barbados and the District Court of Nicosia, Cyprus on March 28, 2001 [sic] and August 13, 2010 respectively;
+WHEREAS the foreign rectification orders declared that the amount transferred from the Appellant’s foreign affiliates to the Appellant are not dividends but rather, are transfers that resulted in indebtedness by the Appellant to the foreign affiliates in the amount of the transfers;
+WHEREAS in computing its Canada income tax, the Minister of National Revenue (the “Minister”) assessed the Appellant on the basis that the transfers were dividends within the meaning of sections 12 and 90 of the Income Tax Act;
+WHEREAS the assessments are the subject of this Appeal; and
+WHEREAS one of the issues in this Appeal is whether or not the transfers are taxable as dividends:
+Is the Minister required to not treat the transfers as dividends, or to not take the position that the transfers are dividends in this Appeal, by virtue of the foreign rectification orders, but rather to treat the transfers as resulting in indebtedness by the Appellant to the foreign affiliates in the amount of the transfers?
+[2] In support of the motion, the parties have filed a Statement of Agreed Facts, which is reproduced at the end of these Reasons for Determination.
+[3] The appellant submits that this Court should answer the above question in the affirmative. According to the appellant, the Barbadian and Cypriot judgments (Foreign Judgments) declared the transfers made to it by its subsidiaries, Canfornav Inc. (Barbados Subco) and Canfornav Limited (Cyprus Subco), which transfers were declared initially as dividends in its 2005 and 2006 taxation years, to be retroactively rectified as being loans and other debt (resulting in indebtedness of the appellant toward its subsidiaries). In the appellant's view, those Foreign Judgments constitute the judicial reality, which should not be ignored by the respondent. Consequently, the respondent is bound to take into account the Foreign Judgments and is precluded from taking the position that the appellant received dividends rather than amounts in the form of loans and other indebtedness.
+[4] The respondent, on the other hand, asks this Court to answer the question in the negative. She submits that the appellant resorted to the foreign rectification proceedings without notifying the Minister of National Revenue (Minister) after having been audited and advised that the dividend deductions claimed pursuant to paragraph 113(1)(a) of the Income Tax Act (ITA) would be denied. In her view, the appellant used the foreign rectification proceedings to recharacterize the dividends as loans or other indebtedness for the purpose of avoiding unanticipated Canadian tax consequences. The respondent’s position is that she is not bound by the Foreign Judgments because they were obtained without notice to the Minister, constitute retroactive tax planning and have not been recognized in Canada by a court of competent jurisdiction.
+[5] For the reasons that follow, I will answer the question raised in this motion in the negative.
+Analysis [6] The parties agree that the only Canadian province with which the appellant has a nexus is the province of Quebec. Therefore, the application of the Foreign Judgments before this Court is subject to the law of that province, hence to the Civil Code of Québec (CCQ) and the Quebec Code of Civil Procedure.
+[7] The relevant articles are sections 2822, 3155 and 3158 CCQ, which read as follows:
+2822. An act purporting to be issued by a competent foreign public officer makes proof of its content against all persons and neither the quality nor the signature of the officer need be proved.
+Similarly, a copy of a document of which the foreign public officer is the depositary makes proof of its conformity to the original against all persons and substitutes for the original, if it purports to be issued by that officer.
+3155. A decision rendered outside Québec is recognized and, where applicable, declared enforceable by the Québec authority, except in the following cases:
+(1) the authority of the State where the decision was rendered had no jurisdiction under the provisions of this Title;
+(2) the decision, at the place where it was rendered, is subject to an ordinary remedy or is not final or enforceable;
+(3) the decision was rendered in contravention of the fundamental principles of procedure;
+(4) a dispute between the same parties, based on the same facts and having the same subject has given rise to a decision rendered in Québec, whether or not it has acquired the authority of a final judgment (res judicata), is pending before a Québec authority, in first instance, or has been decided in a third State and the decision meets the conditions necessary for it to be recognized in Québec;
+(5) the outcome of a foreign decision is manifestly inconsistent with public order as understood in international relations;
+(6) the decision enforces obligations arising from the taxation laws of a foreign State.
+3158 The Québec authority confines itself to verifying whether the decision with respect to which recognition or enforcement is sought meets the requirements prescribed in this Title, without considering the merits of the decision.
+[8] The author Henri Kélada (Reconnaissance et exécution des jugements étrangers (Cowansville, Que: Éditions Yvon Blais, 2013) at p. 37) explains:
+La décision étrangère est considérée comme un fait
+La décision étrangère constitue un fait dont les effets ne peuvent être ignorés par nos tribunaux québécois, et ce, même en l’absence de reconnaissance par voie d’action en exemplification128. En tant qu’instrumentum, le jugement étranger peut aussi être utilisé comme moyen de preuve (art. 2822 C.c.Q.). Le juge québécois devra tenir compte du fait qu’il a été rendu129.
+128 J.‑G. CASTEL, Droit international privé québécois. Toronto, Butterworths, 1980, p.846.
+129 S. GAUDET et P. FERLAND, « Les effets indépendants de la procédure de reconnaissance », dans Collection de droit 2008‑2009, Contrats, sûretés, publicité des droits et droit international privé, Cowansville, Éditions Yvon Blais, 2008. Voir G.C. c. A.Ca., EYB 2011‑187198 (C.S.), juge Michel Girouard.
+[9] This means that foreign judgments, even without being homologated by a local court in the province, constitute a fact which cannot be ignored by the courts in the province. A foreign judgment may be used as evidence and the Quebec judge will have to acknowledge that a foreign judgment has been rendered.
+[10] However, under Quebec private international law, foreign judgments are not enforceable in and of themselves. Article 3155 CCQ states that, except where certain exceptions apply, any foreign judgment is recognized by the Quebec court that declares it to be enforceable in the Quebec legal system. The application for enforcement is a judicial demand that gives rise to an adversarial relationship. Even though article 3158 CCQ provides that the Quebec court may not examine the merits of the foreign decision, this rule does not change the legal nature of the application for enforcement (Kuwait Airways Corp. v. Iraq, 2010 SCC 40, [2010] 2 S.C.R. 571, at par. 20).
+[11] This procedure is even more necessary in the case of a non‑money foreign judgment. A domestic court enforcing that kind of judgment may have to interpret and apply another jurisdiction’s law. The recognition and enforcement of such judgments will require a balanced measure of restraint and involvement by the domestic court that is otherwise unnecessary when the court merely agrees to use its enforcement mechanisms to collect a debt. This means that the domestic court may have to consider relevant factors so as to ensure that the foreign judgments do not disturb the structure and integrity of the Canadian legal system and do not conflict with domestic law (Pro Swing Inc. v. ELTA Golf Inc., 2006 SCC 52, [2006] 2 S.C.R. 612, at par. 13‑18).
+[12] In Chevron Corp. v. Yaiguaje, 2015 SCC 42, at paragraph 43, the Supreme Court of Canada stated: “Canadian law recognizes that the purpose of an action to recognize and enforce a foreign judgment is to allow a pre‑existing obligation to be fulfilled; that is, to ensure that a debt already owed by the defendant is paid.” At paragraph 48, the Supreme Court of Canada added: “The enforcing court has no interest in adjudicating the original rights of the parties. Rather, the court merely seeks to assist in the enforcement of what has already been decided in another forum.” This reflects the principle of comity, which is grounded on the concepts of order and fairness. At paragraph 54, the Supreme Court went on to say: “. . . in recognition and enforcement proceedings, order and fairness are protected by ensuring that a real and substantial connection existed between the foreign court and the underlying dispute. If such a connection did not exist, or if the defendant was not present in or did not attorn to the foreign jurisdiction, the resulting judgment will not be recognized and enforced in Canada.”
+[13] Thus, relying on comity is a balancing exercise. It requires a careful review of the relief ordered by the foreign court. “This review ensures that the Canadian court does not extend judicial assistance if the Canadian justice system would be used in a manner not available in strictly domestic litigation.” (Pro Swing, supra, par. 30)
+[14] In Canada, rectification orders requested by the parties to a transaction in order to rectify the transaction following unforeseen tax consequences are not automatically granted. Basically, it is open to the courts to intervene to find that the amendments made by the parties to the acts at issue are legitimate and necessary (Quebec (Agence du revenu) v. Services Environnementaux AES inc., 2013 SCC 65, [2013] 3 S.C.R. 838 at par. 51) (AES). However, the judicial recognition of the validity of the amendments made by the parties in the context of tax planning is to be approached cautiously. In AES, the Supreme Court of Canada stated at paragraph 54: “Taxpayers should not view this recognition of the primacy of the parties’ internal will – or common intention – as an invitation to engage in bold tax planning on the assumption that it will always be possible for them to redo their contracts retroactively should that planning fail. A taxpayer’s intention to reduce his or her tax liability would not on its own constitute the object of an obligation within the meaning of art. 1373 C.C.Q., since it would not be sufficiently determinate or determinable.”
+[15] In Canada (Attorney General) v. Groupe Jean Coutu (PJC) inc., 2015 QCCA 838 (leave to appeal to the Supreme Court of Canada granted on November 19, 2015), the Quebec Court of Appeal analyzed the AES decision and sated the following:
+[28] Accordingly, in my view, the judgment of the Supreme Court in AES & Riopel is authority for the proposition that as between related parties, who choose to effect a legitimate corporate transaction for the purpose of avoiding, deferring or minimizing tax and who commit an error in giving effect to such transaction (for example, by miscalculating the ACB, by the timing of certain corporate steps or the attributions of a new class of shares) may correct that error to achieve the tax consequence originally and specifically intended and agreed upon.
+[29] However, LeBel J. did not set aside all the previous case law in tax matters, to the effect that the parties cannot rewrite history and change their transactions because of unintended tax consequences. Those principles continue to apply.
+[30] Even though the tax authorities have no acquired rights in civil law, LeBel J., in my view, does not sanction a general license to travel back through time with the benefit of hindsight to reverse or correct unintended tax consequences of commercial dealings. LeBel J. merely approved the parties restoring their agreement to what it should have been in circumstances where there was no mistake in the transaction itself but rather a mistake in the way the transaction had been expressed in writing.
+[31] Tax liability is based on what happened and not on what a party in retrospect would have rather done.
+. . .
+[38] . . .The general intent of the Respondents that their transaction be “tax neutral” is not sufficiently determinate, in the words of Justice LeBel, to serve as the basis of a modified agreement which a court should recognize with retroactive effect to cancel unintended tax consequences. . . .
+[16] The AES case was governed by Quebec civil law and the Supreme Court of Canada did not find it appropriate in that case to reconsider the common law remedy of rectification, which appears to have been given a broader scope of application in tax cases.
+[17] The Supreme Court also stated in AES that “[t]he revenue agencies were impleaded, as they had to be, in accordance with art. 5 C.C.P and the fundamental rules of procedure.” (par. 51)
+[18] Considering all of the above, it may well be that a Quebec court would enforce the Foreign Judgments as between the parties concerned in those judgments (i.e., as between Canfornav Inc. and the appellant and as between Canfornav Limited and the appellant), as the court’s role would then be limited to facilitating the execution of the obligation validated by the Foreign Judgments on the consent of both parties (for example, if Canfornav Inc. or Canfornav Limited were asking the appellant to repay the amount of the debt initially declared as a dividend).
+[19] The situation is different, however, when only one of the parties at which a foreign order is directed is asking the court to enforce that order for the purposes of cancelling unintended tax consequences. As seen above, the Canadian case law in the matter of rectification of transactions for tax purposes is not linear and the courts will follow it or not on a case‑by‑case basis. For instance, in AES, the Supreme Court had to decide whether the parties’ juridical acts which led to the notices of assessment were consistent with their true common intention. This raised an interpretation issue. In AES, the Supreme Court approved a correction to allow the parties to avoid a tax consequence that their transactions were originally intended to avoid. On the other hand, in Groupe Jean Coutu, the Quebec Court of Appeal found that the commercial transaction initially entered into achieved the intended purpose of neutralizing the effect of exchange fluctuations. The Court accordingly refused to rectify the transaction, doing so on the basis that the general intent of the taxpayer that the transaction be “tax neutral” was not sufficiently determinate to serve as the basis of a modified agreement that a court should recognize with retroactive effect to cancel unintended tax consequences.
+[20] In the present case, the appellant argues that the Foreign Judgments were requested because the intent had been, from the beginning, to take the profits out of the Barbados Subco and the Cyprus Subco on a tax‑free basis, in order to comply with the international shipping rules set out in subsection 250(6) of the ITA.
+[21] In my view, the approach that must be taken in the present case is the same as that which would be applicable for non-money foreign judgments. This means that, as stated in Pro Swing, supra, the domestic court may have to consider relevant factors so as to ensure that the Foreign Judgments do not disturb the structure and integrity of the Canadian legal system and do not conflict with domestic law. It is not merely a matter of facilitating the execution of a debt or an obligation that was adjudicated upon by the foreign tribunal. A careful review of the Foreign Judgments is required in order to ensure that the Canadian court does not extend judicial assistance if the Canadian justice system would be used in a manner not available in strictly domestic litigation.
+[22] That is why I conclude that the Foreign Judgments would have to be homologated by a competent tribunal in the province of Quebec in order to bind the respondent. This is all the more true since the respondent never had a chance to intervene to present her own arguments or to test the stated common intentions of the parties at the time the transfers of money occurred (or to ensure that all necessary information and all the tax ramifications were squarely before the foreign courts), especially given that the context was one in which the Foreign Judgments were issued after the Canada Revenue Agency had sent a notice of proposed reassessment (in the case of the Barbados application) and notices of reassessment (in the case of the Cyprus application) with respect to taxing the dividend income that was intended to be distributed tax‑free (see AES, supra, at par. 51; Dale v. Canada, [1997] 3 F.C. 235, at par. 50, [1997] F.C.J. No. 476 (QL), at par. 17; Beals v. Saldanha, 2003 SCC 72, [2003] 3 S.C.R. 416, at par. 62; Aim Funds Management Inc. v. Aim Trimark Corporate Class Inc., [2009] O.J. No. 2408 (QL) (Ontario Superior Court of Justice), at par. 22; A c. B, 2013 QCCS 575, at par. 42-43 and 50).
+[23] Unfortunately, this Court does not have jurisdiction to grant an equitable remedy of rectification. Nevertheless, it is still open to the appellant to rely on the Foreign Judgments in presenting its evidence before this Court at trial, and it will be up to the presiding judge to determine the weight to be given to the Foreign Judgments when ruling on the correctness or incorrectness of the assessments being appealed.
+[24] For all these reasons, I answer in the negative to the question raised by the parties in this section 58 motion, and I conclude that the respondent is not bound by the Foreign Judgments and is not precluded from taking the position that the appellant received dividends rather than amounts in the form of loans and other indebtedness during the period at issue.
+[25] The respondent is entitled to her costs on the motion.
+Signed at Ottawa, Canada, this 12th day of February 2016.
+"Lucie Lamarre"
+Lamarre A.C.J.
+CITATION:
+2016 TCC 43
+COURT FILE NO.:
+2012-4038(IT)G
+STYLE OF CAUSE:
+CANADIAN FOREST NAVIGATION CO. LTD.
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+September 30, 2015
+REASONS FOR
+DETERMINATION BY:
+The Hon. Associate Chief Justice Lucie Lamarre
+DATE OF DETERMINATION:
+February 12, 2016
+APPEARANCES:
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Stéphane Eljarrat
+Joel Scheuerman
+Leïla Côté
+Firm:
+Davies Ward Phillips & Vineberg LLP
+Montreal, Quebec
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

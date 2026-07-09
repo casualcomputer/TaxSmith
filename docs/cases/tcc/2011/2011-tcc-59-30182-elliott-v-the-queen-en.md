@@ -1,0 +1,250 @@
+---
+title: "Elliott v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30182/index.do"
+last_modified: "2011-01-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 59"
+citation2: ""
+neutral_citation: "2011 TCC 59"
+decision_date: "2011-01-28"
+language: "en"
+item_id: "30182"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7739
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:54:49.504000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "86e2384503b78bbdd7b59451c2788a152baf5995d999aee951c6f9358d09ae6a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Elliott v. The Queen
+
+- Citation: 2011 TCC 59
+- Decision date: 2011-01-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7739, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Elliott v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-28
+Neutral citation
+2011 TCC 59
+File numbers
+2009-1282(GST)I
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-1282(GST)I
+BETWEEN:
+MYRNA JOYCE ELLIOTT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+L. Paul Elliott, 2009-1284(GST)I and
+Lawrence Ralph Elliott, 2009-1285(GST)I
+on May 19, 2010, at Fredericton, New Brunswick
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+William G. Stephenson
+Counsel for the Respondent:
+Gregory B. King
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated May 26, 2008, and bears reference number 680257, is dismissed, without costs.
+Signed at Ottawa, Canada, this 28th day of January 2011.
+“S. D’Arcy”
+D'Arcy J.
+Docket: 2009-1284(GST)I
+BETWEEN:
+L. PAUL ELLIOTT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Myrna Joyce Elliott, 2009-1282(GST)I and
+Lawrence Ralph Elliott, 2009-1285(GST)I
+on May 19, 2010, at Fredericton, New Brunswick
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+William G. Stephenson
+Counsel for the Respondent:
+Gregory B. King
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated May 26, 2008, and bears reference number 680253, is dismissed, without costs.
+Signed at Ottawa, Canada, this 28th day of January 2011.
+“S. D’Arcy”
+D'Arcy J.
+Docket: 2009-1285(GST)I
+BETWEEN:
+LAWRENCE RALPH ELLIOTT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Myrna Joyce Elliott, 2009-1282(GST)I and
+L. Paul Elliott, 2009-1284(GST)I
+on May 19, 2010, at Fredericton, New Brunswick
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+William G. Stephenson
+Counsel for the Respondent:
+Gregory B. King
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated May 26, 2008, and bears reference number 680256, is dismissed, without costs.
+Signed at Ottawa, Canada, this 28th day of January 2011.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2011 TCC 59
+Date: 20110128
+Docket: 2009-1282(GST)I
+BETWEEN:
+MYRNA JOYCE ELLIOTT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2009-1284(GST)I
+AND BETWEEN:
+L. PAUL ELLIOTT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2009-1285(GST)I
+AND BETWEEN:
+LAWRENCE RALPH ELLIOTT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The issue in this appeal is whether the Appellants are liable, as directors, for net tax that Top Ventures Ltd (the "Company") failed to remit in respect of its HST reporting periods ending on October 31, 2004, January 31, 2005, and April 30, 2005.
+[2] On May 26, 2008, the Minister of National Revenue (the “Minister”) assessed each of the Appellants (Myrna Joyce Elliott, Lawrence Paul Elliott and Lawrence Ralph Elliott), $29,680.16 in respect of the failure of the Company to remit an amount of net tax as required under subsection 228(2) of Part IX of the Excise Tax Act (the "HST Act"). The Minister also assessed the Appellants interest of $3,911.07 and penalties of $3,060.38.
+[3] The Appellants filed notices of objection to the assessments. On June 26, 2009, the Minster confirmed the assessments. Each of the Appellants then appealed the assessments to this Court. The three appeals were heard together on common evidence.
+[4] Lawrence Paul Elliott, who I will refer to as Paul Elliott, testified for the Appellants. Paul Elliott is a lawyer, who carries on a general legal practice in Fredericton with his law firm, Matthews, McCrea, Elliott. I found him to be a credible witness.
+[5] I will first summarize the relevant facts.
+[6] The three Appellants purchased the Company in 1994. From the date of purchase, the Appellants were the only shareholders and directors of the Company. The Company owned a pub in Fredericton called Mama’s Pub & Eatery (the"Pub").
+[7] Paul Elliott testified that Myrna Elliott had no business experience prior to working at the Pub. She did not work at the Pub when it was purchased in 1994. However, she became involved once Paul Elliott went to law school and over time assumed more and more responsibility for the operation of the business. Eventually she became the manager of the Pub.
+[8] Lawrence Ralph Elliott, who I will refer to as Ralph Elliott, is a retired engineer. He also had no business experience prior to the time the Appellants acquired the Pub. He was not an employee of the Pub. In the words of Paul Elliott, Ralph Elliott chipped in whenever possible to help run the Pub, especially in the later years.
+[9] Paul Elliott was a consultant to the Company, who provided advice on a regular basis. He was paid $15,000 per year for his services.
+[10] It is clear from the evidence before me, particularly the testimony of Paul Elliott, that all three Appellants were involved in the day-to-day management of the Company.
+[11] The Appellant provided a one-page summary of the Pub's sales between 1994 and March 2005 (Exhibit A-1, Tab 3). The summary shows that the sales were relatively flat from November 1994 to October 1999 (between $785,000 and $840,000).[1] The Pub's sales increased in 1999 and 2000 and crossed the one million dollar threshold in 2001 and 2002. The sales fell dramatically in 2003 and then collapsed in 2004.
+[12] Paul Elliott attributed the drop in sales to the imposition by the City of Fredericton of a ban on smoking in public places, including restaurants such as the Pub. He testified that the smoking ban devastated the Pub's business. A significant number of the Pub's customers were smokers. These customers stopped coming to the Pub once the smoking ban was imposed. This resulted in a monthly drop in sales of approximately $20,000.
+[13] The Appellants filed an exhibit (Exhibit A-1, Tab 9) showing the Pub's sales for each month between November 2001 and March 2005. Paul Elliott noted that the Pub's business was seasonal. As a result, it was important to compare sales in a particular month with the sales in the corresponding month in a previous year.
+[14] The exhibit shows that sales in each of the eight months following the July 1, 2003 smoking ban fell by approximately 25% when compared to sales in the corresponding months in the previous year. This is consistent with the testimony of Paul Elliott.
+[15] However, the exhibit also evidences that in each of the eight months prior to the implementation of the smoking ban, sales fell by approximately 18% when compared to sales in the corresponding months in the previous year. Although this drop in sales may not have been as precipitous as the drop that occurred after the smoking ban was implemented, it indicates that the drop in sales began prior to the change in the smoking by-law.
+[16] The Company expected sales to drop after the smoking ban was implemented, but received advice that the drop in sales would be a short-term phenomenon and sales would recover. Obviously, this did not occur.
+[17] The drop in sales resulted in the Company incurring significant losses in its 2003, 2004, and 2005 fiscal years. Paul Elliott testified that the Appellants took numerous steps in an attempt to minimize the losses, including fighting the implementation of the smoking ban, reducing operating hours, reducing wages and reducing other variable costs such as entertainment expenses.
+[18] In order to keep the business operating, the Company was required to borrow $40,000 from its bank during its 2004 fiscal period[2] and borrow over $100,000 from its shareholders (the Appellants).
+[19] The Company sold the Pub on April 1, 2005 for $50,000. The Company used $13,000 of the proceeds to pay various suppliers. The Company paid the remaining $37,000 to Myrna Elliott and Ralph Elliott as a partial repayment of their shareholder loans.
+[20] Ralph Elliott testified that the Appellants recognized that the Company had an obligation to remit the HST it had collected on its sales. The Company implemented a system for the calculation and payment of the HST. It purchased computer software that calculated the amount of its quarterly remittance. This data was forwarded to its accountant who prepared monthly reports. The accountant also prepared the quarterly HST tax returns. The Appellants then signed and filed the HST returns.
+[21] Ralph Elliott testified that prior to the imposition of the smoking ban the Company filed its HST returns "substantially" on time. On cross-examination, he acknowledged that "sometimes" the Company was two weeks to a month late in filing its HST returns.
+[22] He testified that once the smoking ban was implemented and the Company's sales fell, the Appellants met on a frequent basis to discuss the payment of supplier bills and the remittance of the HST. Paul Elliott noted the Appellants would determine, based upon the profit of the Company, what bills "we could handle." In the short term, using the revenue of the business, the bank borrowings, and the shareholders’ advances, they were able to pay most bills. However, as the decrease in sales continued the Company was not able to "fund everything."
+[23] The Company paid its HST remittances for its HST reporting periods that ended prior to August 2004. However, it did not remit any amount in respect of its HST reporting periods that ended after July 2004.
+The Law
+[24] Subsection 323(1) of the HST Act provides that the directors of a corporation are jointly and severally liable to pay any amount of net tax that the corporation fails to remit. The director’s liability under subsection 323(1) includes any interest on, or penalties relating to, the net tax that is not remitted.
+[25] Paragraph 323(2)(a) of the HST Act provides that a director is not liable under subsection 323(1) unless "a certificate for the amount of the corporation's liability has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part."
+[26] In addition, under subsection 323(3) of the HST Act, a director is not liable under subsection 323(1) where "the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances."
+Preliminary Issue
+[27] Each of the Appellants filed, with their Notice of Appeal, an identical schedule entitled "Reasons for Appeal." The Reasons for Appeal appear to have been prepared by Paul Elliott and his law firm, Matthews, McCrea, Elliott.[3]
+[28] The Notice of Appeal states that the grounds for the appeal are the failure by the Canada Revenue Agency to properly consider the subsection 323(3) due diligence defence. At paragraph 17 of the Reasons for Appeal, the Appellants also appear to contest the amount assessed. However, at the commencement of the hearing, the parties informed me that the amount assessed was not at issue.
+[29] The Appellants and their counsel did not raise any other issues during the course of the hearing, until closing argument.
+[30] At the commencement of his closing argument, counsel for the Appellants raised the issue of the application of paragraph 323(2)(a) of the HST Act. He argued that since the Respondent did not call any evidence, it had failed to prove that the Minister had complied with paragraph 323(2)(a) of the HST Act.
+[31] Since counsel for the Appellant did not provide any prior notice of this argument to counsel for the Respondent, I gave the Respondent the option of arguing the issue orally or by way of written submissions. Counsel for the Respondent elected the latter.[4]
+[32] Paragraph 19(m) and (n) of the Respondent's Reply Statement states that when assessing the Appellants' liability under subsection 323(1) of the HST Act with respect to the Company's failure to remit net tax, the Minister relied on the following assumptions of fact:
+m) A Certificate in the amount of $34,791.02, representing the Company's GST/HST debt at the time, was registered in the Federal Court on November 1, 2007. It was also registered in the Provincial Property Registry System on April 4, 2008; and
+n) On or around November 1, 2007, a Writ of Seizure was sent to the Sheriff and served on the Company. It was returned on May 9, 2008 as Nulla Bona on the grounds that no goods, chattels or real property under the Company name could be found.
+[33] During the hearing, the Appellants did not challenge or raise any issues with respect to these assumptions.
+[34] The issue raised by counsel for the Appellants is similar to the issue in Naguib v. the Queen, 2004 FCA 40, DTC 6082 (FCA) [Naguib]. In Naguib, the Appellant's main argument, on appeal to the Federal Court of Appeal, was that the Respondent had failed to establish that the Appellant made a misrepresentation that was attributable to neglect, carelessness or wilful default so as to permit a reassessment beyond the normal reassessment period pursuant to subparagraph 152(4)(a)(i) of the Income Tax Act. When dismissing the appeal, the Federal Court of Appeal noted the following:
+4 The Appellant argued that the onus was initially on the Respondent to lead evidence proving compliance with section 152(4)(a)(i).
+5 The difficulty faced by the Appellant is that he failed to raise this as a ground of appeal in the Tax Court. Rather he argued that the net worth assessment itself was flawed.
+6 We are of the view that the Respondent did not have a duty to raise facts so as to justify the application of section 152(4)(a)(i), in the absence of any challenge by the Appellant in his Notice of Appeal or at the trial in the Tax Court to the reassessment on the basis that it was issued beyond the normal reassessment period. While the facts in Crête v. H.M.Q., [1997] F.C.J. no. 214 (F.C.A.) are not the same as the present case in that it involved a motion relating to the pleadings, nevertheless, the statement of the Court is perhaps helpful:
+It is clear that the judge erred. He criticizes the Minister for not alleging in the reply to the notice of appeal some facts to show that the reassessment was not out of time. But the Minister, like any other litigant, is never required to reply to an allegation that has not been made and, however you read the taxpayer's Notice of Appeal, it contains no allegation that the notice of assessment was void for being out of time.
+[35] Similarly, in the current appeals the Appellants did not in their Notices of Appeal or during the trial, challenge the assessment on the basis that the Minister had not complied with the provisions of paragraph 323(2)(a) of the HST Act. In such a situation, the Minister did not have a duty to raise facts to justify the application of paragraph 323(2)(a) of the HST Act.
+[36] In addition, the Appellants did not present any evidence in their Notices of Appeal or during the course of the hearing to challenge the assumptions made in paragraphs 19(m) and (n) of the Respondent's Reply. In such a situation, the Minister did not have a duty to present evidence to support the assumptions of fact made in paragraphs 19(m) and (n) of his Reply. These assumptions satisfy the conditions of paragraph 323(2)(a) of the HST Act.
+Application of Due Diligence Defence
+[37] It is the Appellants' position that they have met the conditions of subsection 323(3) of the HST Act. Their counsel argued that the Company's failure to remit was the result of an immediate catastrophic event (the smoking ban) that was beyond the control of the Appellants. He focused on various steps that the Appellants took to keep the business running after the City of Fredericton imposed the smoking by-law. These steps included reducing operating hours, reducing variable costs, and the injection of substantial capital by the Appellants in the form of shareholder loans. The Appellants' counsel emphasized that the Company received professional advice that the downward trend in the Pub's business would be short-term and sales would "come back."
+[38] Subsection 323(3) of the HST Act will only apply if the Appellants, in their role as directors of the Company, exercised the degree of care, diligence, and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[39] This is a question of fact; however, the Courts have developed certain general principles that must be considered when applying the law to the facts of a particular case.
+[40] The general principles were summarized by the Federal Court of Appeal in its decisions in Soper v. Canada The Queen, 97 DTC 5407 (FCA) [Soper] and Canada (Attorney General) v. McKinnon, [2001] 2 F.C. 203 (FCA) [McKinnon].[5]
+[41] The "due diligence" test applicable under subsection 323(3) of the HST Act is objective‑subjective in nature. As noted by the Court of Appeal in McKinnon above at paragraph 28:
+28…in deciding whether a director has “exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have shown in comparable circumstances”, the court must take into account the characteristics of the directors whose conduct is in question, including their levels of relevant skill, experience and knowledge. The court must then ask whether, if faced with similar circumstances, a reasonably prudent director, with comparable levels of skill, experience and qualifications would have acted in the same way as these directors……"
+[42] With respect to inside directors, such as the Appellants, the Federal Court of Appeal noted in Soper above that they will have the most difficulty in establishing the due diligence defence since they are involved in the day-to-day management of the company and influence the conduct of its business affairs.
+[43] It is clear from the wording of subsection 323(3) of the HST Act that the due diligence required of the director is to prevent the failure to remit.
+[44] I accept that in the current appeals the Appellants took numerous steps to keep the business operating and in a saleable state. However, I do not accept that during the period of non-remittance (August 1, 2004 to April 1, 2005) they took any steps to prevent the failure to remit.
+[45] Based upon the evidence before me, it is clear that the Appellants made the decision not to remit the net tax owing for the relevant periods. Paul Elliott testified that the Appellants met on a regular basis and decided which bills to pay and which bills not to pay. It appears that, during the relevant period, the Appellants decided to use the available cash to repay the bank loan and pay most, if not all, of the suppliers. They also decided not to remit the amounts owing in respect of the net tax. I fail to see how such actions constitute any degree of care, diligence, and skill to prevent the failure to remit.
+[46] I do not accept the Appellants' argument that the failure to remit was the result of an immediate catastrophic event. The smoking ban was imposed on July 1, 2003, 13 months before the Company began to stop making its remittances. The smoking ban was not an immediate event. Further, the evidence provided by the Appellants shows that the drop in the Pub's sales began eight months prior to the implementation of the smoking ban.
+[47] Regardless, any argument that the Appellants exercised due diligence was lost when the business was sold on April 1, 2005. The Company received $50,000 on the sale of the Pub, more than enough to pay the outstanding remittances plus the remittance for the reporting period of the Company ending on April 30, 2005. However, the Appellants chose to use most of the money to repay shareholder loans to Myrna Elliott and Ralph Elliott, rather than make the required remittances to the Government.
+[48] For the foregoing reasons, the appeals are dismissed, without costs.
+Signed at Ottawa, Canada, this 28th day of January 2011.
+“S. D’Arcy”
+D'Arcy J.
+CITATION: 2011 TCC 59
+COURT FILE NO.: 2009-1282(GST)I, 2009-1284(GST)I and
+2009-1285(GST)I
+STYLE OF CAUSE: MYRNA JOYCE ELLIOTT, L. PAUL ELLIOTT and LAWRENCE RALPH ELLIOTT and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: May 19, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT: January 28, 2011
+APPEARANCES:
+Counsel for the Appellant:
+William G. Stephenson
+Counsel for the Respondent:
+Gregory B. King
+COUNSEL OF RECORD:
+For the Appellant:
+Name: William G. Stephenson
+Firm: Stephenson Choukri
+Fredericton, New Brunswick
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The sales figures in Tab 3 were for each of the Company's fiscal years, which ended on
+October 31st of each year.
+[2] The Company repaid the bank loan prior to the sale of the Pub.
+[3] Paul Elliott and his firm are shown as counsel on the Notices of Appeal filed for Ralph
+Elliott and Myrna Elliott.
+[4] The Court received written submissions from the Appellant on June 2, 2010, from the
+Respondent on June 16, 2010 and Reply submissions from the Appellant on June 29,
+2010.
+[5] The appeal in Soper dealt with subsection 227.1(3) of the Income Tax Act. The appeal
+in McKinnon dealt with subsection 227.1(3) of the Income Tax Act and subsection 323(3) of the HST Act. The wording in subsection 227.1(3) of the Income Tax Act is identical to the wording in subsection 323(3) of the HST Act.

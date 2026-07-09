@@ -1,0 +1,125 @@
+Title: Yarmoloy c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66638/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-27-66638-yarmoloy-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-01-24
+
+# Yarmoloy c. La Reine
+
+- Citation: 2014 CCI 27
+- Decision date: 2014-01-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6000, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yarmoloy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-01-24
+Référence neutre
+2014 CCI 27
+Numéro de dossier
+2013-3389(IT)APP
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-3389(IT)APP
+ENTRE :
+SHANE YARMOLOY,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 12 décembre 2013, à Calgary (Alberta).
+Devant : L’honorable juge en chef Gerald J.Rip
+Comparutions :
+Représentant du requérant :
+M. Steven Richmond
+Avocate de l’intimée :
+Me Paige MacPherson
+____________________________________________________________________
+ORDONNANCE
+La demande présentée en vue d’obtenir une ordonnance prorogeant le délai imparti pour interjeter appel à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejetée.
+Signé à Ottawa, Canada, ce 24e jour de janvier 2014.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 12e jour de mars 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2014 CCI 27
+Date : 20140124
+Dossier : 2013-3389(IT)APP
+ENTRE :
+SHANE YARMOLOY,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge en chef Rip
+[1] Shane Yarmoloy a présenté, en vertu de l’article 167 de la Loi de l’impôt sur le revenu (la « Loi »), une demande en vue d’obtenir une prorogation de délai pour déposer un avis d’appel pour son année d’imposition 2007.
+[2] M. Steven Richmond, le comptable de M. Yarmoloy, a témoigné à l’appui de la demande. M. Richmond a déclaré que la nouvelle cotisation établie pour l’année 2007, dont l’avis est daté du 23 septembre 2010, a fait l’objet d’une opposition au moyen d’un avis daté du 5 janvier 2011, et d’une ratification au moyen d’un avis daté du 7 février 2012. L’avis de ratification aurait été livré par Postes Canada le 16 février 2012. M. Richmond a déclaré qu’il n’avait jamais reçu l’avis de ratification et que la signature numérisée figurant sur une copie d’un document de Postes Canada envoyé à M. Yarmoloy par l’Agence du revenu du Canada (l’« ARC ») le 29 juin 2012 ou vers cette date confirmant livraison par courrier recommandé n’est pas reconnaissable. M. Yarmoloy, qui a également déclaré qu’il n’avait pas reçu l’avis de ratification, ne pouvait pas non plus reconnaître la signature numérisée figurant sur le document de Postes Canada. La date de livraison de l’avis de ratification mentionnée sur le document de Postes Canada est le 9 février 2012. La signature numérisée qui apparaît sur le document de Postes Canada ne semble pas être similaire à la signature de M. Yarmoloy figurant sur une copie d’un formulaire intitulé « Choix relatif à la disposition de biens par un contribuable en faveur d’une société canadienne imposable » (formulaire T2057). Une copie d’un deuxième document provenant de Postes Canada comportant une signature numérisée différente a été envoyée par l’ARC soit à M. Richmond soit à M. Yarmoloy. Encore une fois, ni l’un ni l’autre n’a reconnu cette signature. Le deuxième document faisait mention de la livraison d’une lettre par courrier recommandé le 16 février 2012.
+[3] M. Richmond a déclaré qu’en pratique, le courrier adressé à M. Yarmoloy en provenance de l’ARC est envoyé au bureau de ce dernier et qu’il est [traduction] « immédiatement ouvert ». M. Richmond est présent au bureau six jours par semaine et [traduction] « numérise immédiatement le courrier provenant de l’ARC ».
+[4] M. Yarmoloy est promoteur immobilier et gagne aussi des revenus de location. Il exerce ses activités à l’adresse située à Canmore, en Alberta, à laquelle l’ARC lui envoie son courrier ordinaire. L’adresse municipale à Canmore est utilisée par plusieurs locataires, bien que le bureau de M. Yarmoloy se trouve dans une unité fixe. Il a déclaré que sa pratique habituelle est de signer tout courrier recommandé et de remettre ensuite le courrier au directeur financier, à savoir M. Richmond.
+[5] M. Yarmoloy réside à Sicamous, en Colombie‑Britannique, mais il n’y séjourne habituellement que dans la dernière partie du mois.
+[6] M. Yarmoloy a témoigné qu’il avait eu un accident d’automobile, qu’il avait subi des lésions cérébrales et qu’il souffrait de troubles de la mémoire. Daljeet Dev, agent des appels à la division des appels au bureau de l’ARC à Calgary, a souscrit un affidavit, déposé pour le compte de l’intimée, dans lequel il a fait la déclaration suivante :
+[traduction]
+e) Le requérant a produit, le 1er mars 2012, une Demande de redressement d’une T1 pour l’année d’imposition 2007, pour demander que les dons de bienfaisance admissibles qu’il avait faits soient portés de 500 $ à 100 500 $. […]
+f) Le ministre a établi une nouvelle cotisation à l’égard de l’année d’imposition 2007 du requérant au moyen d’un avis de nouvelle cotisation daté du 3 juillet 2012 afin d’augmenter les dons de bienfaisance admissibles du requérant en les faisant passer de 500 $ à 100 500 $. […]
+[7] En réponse à une question que l’avocate de l’intimée lui a posée, M. Yarmoloy a dit qu’il ne pouvait pas se rappeler avoir reçu un avis de nouvelle cotisation pour 2007 daté du 3 juillet 2012; M. Richmond n’avait non plus aucune connaissance de la nouvelle cotisation.
+[8] M. Dev déclare dans son affidavit qu’il a la responsabilité des dossiers pertinents et qu’il connaît les pratiques de l’ARC, qu’il a minutieusement effectué un examen et des recherches concernant les dossiers de l’ARC relatifs à la demande présentée par M. Yarmoloy en vue d’obtenir une prorogation de délai pour interjeter appel à l’encontre de la cotisation d’impôt sur le revenu pour 2007 établie à son égard. Il dit en partie ce qui suit :
+[traduction]
+a) Le ministre a établi une nouvelle cotisation à l’égard du requérant pour l’année d’imposition 2007 au moyen d’un avis de nouvelle cotisation (la « nouvelle cotisation ») daté du 7 octobre 2010 pour, entre autres choses, imposer des pénalités pour production tardive et des intérêts sur arriérés à l’égard de paiements d’impôt par acomptes provisionnels non effectués. […]
+b) Le requérant a déposé un avis d’opposition à l’égard de la nouvelle cotisation le 5 janvier 2011. […]
+c) Le ministre a ratifié la nouvelle cotisation établie pour l’année d’imposition 2007 du requérant au moyen d’un avis de ratification (la « ratification ») daté du 7 février 2012 et envoyé au requérant à la même date par courrier recommandé. […]
+d) Selon les dossiers de Postes Canada, la ratification a été effectivement livrée et le requérant en a accusé réception le 16 février 2012. […]
+4. Le 11 septembre 2013, le requérant a déposé à la Cour une demande en vue d’obtenir une prorogation de délai pour déposer un avis d’appel pour l’année d’imposition 2007 en application de l’article 167 de la Loi de l’impôt sur le revenu.
+[9] Un avis d’appel à l’encontre d’une cotisation datée du « 3/7/2012 » est joint à la demande présentée par M. Yarmaloy en vue d’obtenir une prorogation de délai pour déposer un avis d’appel pour l’année 2007. Aucun élément de preuve n’établit que M. Yarmaloy a déposé auprès de l’ARC un avis d’opposition à la cotisation établie le 3 juillet 2012. En effet, comme je l’ai mentionné précédemment, ni M. Yarmaloy ni M. Richmond ne se rappellent avoir reçu l’avis de cotisation. Leur preuve selon laquelle les documents de Postes Canada attestent des dates de livraison d’un avis de ratification concerne une cotisation datée du 23 septembre 2010.
+[10] Dans la décision Abrahams v. The Queen[1], le président Jackett, tel était alors son titre, a expliqué ce qui suit :
+[traduction]
+Si la seconde nouvelle cotisation est valide, elle remplace à mon avis la première et entraîne donc sa nullité. Le contribuable ne peut être assujetti à l’impôt en fonction de la cotisation initiale ainsi que la nouvelle cotisation. Ce serait différent si une cotisation pour une année donnée était suivie d’une cotisation « supplémentaire » pour cette même année. Cependant lorsque la « nouvelle cotisation » a pour objet de fixer l’impôt global annuel du contribuable et pas seulement un montant d’impôt s’ajoutant à la première imposition, la cotisation précédente doit automatiquement être annulée.
+J’estime donc que, compte tenu du fait que la seconde nouvelle cotisation avait été établie, la Cour ne pouvait accorder aucune réparation à l’égard de l’appel interjeté à l’encontre de la première nouvelle cotisation parce que la cotisation faisant l’objet de l’appel avait cessé d’exister. Par conséquent, il n’y avait pas de cotisation que la Cour pouvait annuler, modifier ou déférer au ministre. Lorsque la seconde nouvelle cotisation a été établie, le présent appel aurait dû être abandonné2 ou il aurait fallu en demander l’annulation3.
+2 L’appelant aurait pu demander à l’intimée d’accepter de payer ses frais comme condition de son désistement. Si l’intimée avait refusé, l’appelant aurait pu demander une autorisation en désistement à condition qu’il soit ordonné à l’intimée de payer ses frais concernant l’appel auquel la deuxième nouvelle cotisation avait mis fin.
+3 Selon un autre point de vue, l’appel devrait être accueilli et la cotisation ayant fait l’objet d’un appel devrait être déclarée nulle. J’estime que, selon l’interprétation correcte de la loi, il n’existe pas de fondement pour interjeter appel à l’encontre d’une cotisation qui est devenue nulle en raison d’une nouvelle cotisation. Un tel appel n’est certainement pas nécessaire, et il s’agirait d’une dépense inutile et d’un gaspillage de temps et d’énergie si l’habitude de former de tels appels devait se développer.
+[11] La cotisation pour 2007, établie le 3 juillet 2012, a par conséquent annulé la cotisation antérieure établie le 23 septembre 2010. La cotisation établie le 23 septembre 2010 n’existait plus. La Cour n’est saisie que de la nouvelle cotisation établie le 3 juillet 2012. L’essentiel du témoignage de M. Yarmoloy et de M. Richmond concernait des faits ayant trait à la non-réception de l’avis de ratification de la cotisation établie le 23 septembre 2010.
+[12] À la fin de l’audience de la présente demande, j’ai informé les parties du fait que M. Yarmaloy devait me fournir toute jurisprudence à l’appui de sa position au plus tard le 15 janvier 2014. J’ai bel et bien reçu des copies de trois causes qui ont été mentionnées, dont aucune n’était, à mon avis, pertinente[2]. M. Richmond m’avisé, dans la lettre d’accompagnement datée du 14 janvier 2014, que [traduction] : « M. Yarmaloy n’a jamais consenti, d’une manière ou d’une autre, à ce que l’appel initial soit tranché, en réalité, il menait des discussions au sujet de l’appel après l’établissement de la deuxième nouvelle cotisation [...] ». Ni M. Richmond ni M. Yarmoloy n’ont fourni de renseignements quant au moment où M. Yarmoloy a été mis au courant de la deuxième nouvelle cotisation; en fait, il a nié à l’audience avoir été au courant de la deuxième cotisation.
+[13] Je n’ai entendu aucun témoignage quant à la raison pour laquelle il n’était pas possible de déposer un avis d’opposition à la cotisation pour 2007, dont l’avis est daté du 3 juillet 2012.
+[14] La demande est rejetée.
+Signé à Ottawa, Canada, ce 24e jour de janvier 2014.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 12e jour de mars 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2014 CCI 27
+No DU DOSSIER DE LA COUR : 2013-3389(IT)APP
+INTITULÉ : SHANE YARMOLOY c.
+SA MAJETSTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 12 décembre 2013
+MOTIFS DE L’ORDONNANCE : L’honorable juge en chef Gerald J. Rip
+DATE DE L’ORDONNANCE : Le 24 janvier 2014
+COMPARUTIONS :
+Représentant du requérant :
+M. Steven Richmond
+Avocate de l’intimée :
+Me Paige MacPherson
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 66 DTC 5451, président Jackett, aux paragraphes 9 et 10.
+[2] Leblanc c. Canada, 2010 CF 688; TransCanada Pipelines Limited c. Canada, 2001 CAF 314 et Poehlke c. La Reine, 2010 CCI 604,

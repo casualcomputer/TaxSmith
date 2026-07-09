@@ -1,0 +1,145 @@
+---
+title: "Lund v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29800/index.do"
+last_modified: "2010-05-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 252"
+citation2: ""
+neutral_citation: "2010 TCC 252"
+decision_date: "2010-05-07"
+language: "en"
+item_id: "29800"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6606
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:22:24.729000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "976f035617caca6a61e37e3eb12d4cfc95453fa93a7b4ec53231509b738683f1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lund v. The Queen
+
+- Citation: 2010 TCC 252
+- Decision date: 2010-05-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6606, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lund v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-07
+Neutral citation
+2010 TCC 252
+File numbers
+2009-3683(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3683(IT)I
+BETWEEN:
+DAVID LUND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 9, 2010 at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mark Tonkovich
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment under the Income Tax Act for the Appellant’s 2007 taxation year is dismissed, without costs.
+Signed at Toronto, Ontario, this 7th day of May, 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC252
+Date: 20100507
+Docket: 2009-3683(IT)I
+BETWEEN:
+DAVID LUND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The Appellant was reassessed to deny his claim for moving expenses incurred in moving his residence from Oakville, Ontario to downtown Toronto in 2007. The only issue in this appeal is whether, for the purposes of the definition of “eligible relocation” in subsection 248(1) of the Income Tax Act, the distance from his old residence in Oakville to his new work location should be determined based on the route as chosen by the Appellant (which is 53 kilometres long) or based on the route as proposed by the Respondent (which is 33 kilometres long). Both parties agree that the distance from his new residence in downtown Toronto to his new work location is 9.8 kilometres.
+[2] As provided in subsection 62(1) of the Income Tax Act (the “Act”) a taxpayer may claim moving expenses (that have not been reimbursed and that do not exceed the income from a new work location) that have been incurred in respect of an eligible relocation. An eligible relocation is defined in subsection 248(1) of the Act, in part, as follows:
+“eligible relocation” means a relocation of a taxpayer where
+…
+(c) the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location
+[3] If the Appellant is correct that his route is the route that should be used, then the distance, for the purposes of this definition, between his old residence and his new work location would be 53 kilometres and the test in paragraph (c) of the definition of “eligible relocation” will be satisfied since the distance between the Appellant’s new residence and his new work location is 9.8 kilometres. If the route that should be used is the route proposed by the Respondent, then since the distance between his old residence and his new work location will only be 33 kilometres, the Appellant will not satisfy this test and the moving expenses will not be deductible.
+[4] The Appellant based his determination of the distance between his old residence and his new work location on his preferred route of travel during rush hour. The Appellant described his route and the alternate shorter route as follows:
+MR. LUND: Excuse me. I will back up. Highway 403 north, you get on at Upper Middle Road and, from 403, the highway ends and it becomes Highway 401 going east. From Highway 401 east, I would take the 427 south, which hooks up with the Gardiner Expressway.
+The alternative route would be to take the Upper Middle Road to Ford Drive, south, and then get on the QEW and go east. The QEW hooks up directly with the Gardiner Expressway. There is no doubt in anyone's mind on this planet that that is the shortest route, the QEW. But the QEW is an old highway. It only has three lanes. There are no HOV lanes, high-occupancy vehicle lanes; if you drive with more than one person you can get in the HOV lane. There are no breakdown lanes on that highway, on many of the sections. There are no collectors. The merge ramps are short. The highway becomes congested very quickly.
+Therefore, the quickest way to get to work in this metropolitan area, if you live in northeast Oakville, is to take 403/401/427. You have to deal with the Gardiner, one way or the other, so it doesn't become part of the equation.
+Again, after living in Oakville for more than four years and driving downtown most days – I didn't drive all the time, sometimes I took the train – we found the quickest, most effortless, stress-free way, most of the time was to take 403/401/427.
+The flipside, the QEW, is a nightmare. So time, really --
+[5] The QEW (Queen Elizabeth Way) route referred to by the Appellant is the route proposed by the Respondent. In the Reply it is stated that this route is 35.5 kilometres from the Appellant’s old residence to his new work location. The Appellant stated during his testimony that this route is 33 kilometres from his old residence to his new work location. It is immaterial for the purposes of this Appeal whether this route is 33 kilometres or 35.5 kilometres since the Appellant cannot succeed based on either measurement if this is the correct route to use for the purposes of the definition of “eligible relocation” in subsection 248(1) of the Act.
+[6] The Appellant stated that it would take him less time to travel downtown using his preferred route and that on average the amount of time that he would save would be 10 minutes. The Appellant also called a witness who drives a limousine for a living. He also indicated that his preferred route to travel from Oakville to downtown Toronto would be the route chosen by the Appellant. He emphasized the high-occupancy vehicle lanes that were available on the route chosen by the Appellant and not available on the QEW.
+[7] The Appellant also submitted copies of various pages from the website for the Ministry of Transportation showing the traffic density on each of the two routes (the Appellant’s and the Respondent’s). It seems clear that there is a significant amount of traffic on each route but since the highways on the Appellant’s route have more lanes, his route can more easily handle a greater volume of traffic.
+[8] The reference in the definition of “eligible relocation” is to the “distance”. In the decision of the Federal Court of Appeal in Giannakopoulos v. Minister of National Revenue, [1995] 2 C.T.C. 316, 95 D.T.C. 5477, 185 N.R. 84, [1995] 3 F.C. 294, Justice Marceau, on behalf of the Federal Court of Appeal stated that:
+7 Subsection 62(1) permits a taxpayer to deduct moving expenses when he moves closer to a new workplace. An employee must live within a reasonable distance of his work. When he accepts a new position, the employee may have to move in order to remain within a practical commuting distance of his job. Subsection 62(1) recognizes that relocation is a legitimate work-related expense. In order to prevent the provision from being invoked when a taxpayer simply desires a change in residence, the provision requires that the move bring the taxpayer at least forty kilometres closer to work. Usually, a taxpayer travels to work using ordinary routes of public travel, i.e. roads, highways, railways. In determining whether the taxpayer has really moved forty kilometres closer to work, it only makes sense to measure the distance he has moved using real routes of travel. A realistic measurement of travelling distance is necessary in order to give effect to the purpose of the provision. The straight line method bears no relation to how an employee travels to work. It is illogical to apply this technique to a provision which exists to recognize work related relocation expenses. It leads to absurd results where the old residence and the new workplace are separated by a body of water. A taxpayer who moves across a river to be closer to his workplace may have only moved a few miles “as the crow flies” but may actually be several dozen miles closer to work. In fact, this is exactly what happened in Cameron v. Minister of National Revenue* wherein the taxpayer moved across the Ottawa River from Aylmer, Quebec to Kars, Ontario. The Tax Court of Canada held that he could not deduct his moving expenses because the distance was less that 40 kilometres using a straight line measurement.
+8 In one case before the Tax Court of Canada, Bernier, J-C, Estate v. Minister of National Revenue,* Lamarre-Proulx T.C.J. held herself to be bound by the prior decisions but only after expressing her own discordant personal view. She stated at page 2539 (D.T.C. 1223):
+In my view, the remedy in subsection 62(1) should be interpreted in relation to the workers, and the distance in question should be measured by the worker's normal route or the route that he would normally take to go from home to his place of work.
+9 While the use of the normal route notion is more realistic and more effectively furthers the purpose of the section, I would not go so far as Lamarre-Proulx T.C.J. would apparently have been prepared to go, i.e. to accept a measurement based merely on the worker's normal route or the route that he would normally take to go from home to his place of work. Such a subjective approach would introduce a source of uncertainty which might become “a trap for litigation”, which was precisely the reason invoked by the judges to explain their adherence to the direct line approach. It is necessary to be more objective. The idea of the shortest route that one might travel to work should be coupled with the notion of the normal route to the travelling public. Thus, the shortest normal route would be a preferable test to the straight line method, for it is both realistic and precise. It also furthers the purpose of the provision. This test would prevent a taxpayer from being expected to use an extraordinary route such as a neglected or unpaved road. It would also leave room to consider travel not only on roads but on ferries and rail lines.*
+(the * indicates a footnote reference that was inserted in the decision rendered by the Federal Court of Appeal.)
+[9] In Nagy v. The Queen, 2007 TCC 394, 2007 D.T.C. 1208, [2007] 5 C.T.C. 2642, after referring to the decision of the Federal Court of Appeal in Giannakopoulos, then Chief Justice Bowman stated that:
+11 Counsel invites me to read the passage from Giannakopoulos as requiring that a mechanical measurement of all possible routes should be made and the shortest chosen, regardless of whether any reasonable person would follow such a route. The route suggested by the respondent as the shortest involves 18 left turns and 19 right turns and requires travelling on about 40 roads, some rural, as well as driving through the heavily congested City of Brampton. I attach as Schedule A, Tab 4 of Exhibit R-1, which sets out the multiplicity of zigging and zagging that the Crown suggests should be followed to achieve the “shortest” route which it says is mandated by the Federal Court of Appeal. The respondent's approach illustrates simply the triumph of mechanical irrationality over common sense. No rational person would follow such a route. Indeed, anyone trying to follow those instructions would get lost unless he or she had a navigator in the passenger seat giving directions. The approach advocated by the Crown represents an attempt to reverse the salutary effect of the Federal Court of Appeal's decision which endeavours to substitute a measure of common sense and rationality for the unthinking mechanical approach that prevailed prior to Giannakopoulos.
+12 The Federal Court of Appeal suggests no such robotic approach. In his reasons Marceau J.A. speaks of a “realistic measurement of travelling distance”. He also says that “the idea of the shortest route that one might travel to work should be coupled with the notion of the normal route to the travelling public” (emphasis added). His use of “realistic” and “normal” implies that reason and common sense should play a part in the determination of distance. The 38 turn slalom suggested by the Crown is neither realistic, nor normal, nor reasonable, nor commonsensical. In some ways it is even more nonsensical than the straight line approach. The straight line approach would at least make sense to a crow. The 40 road zigzag approach makes sense to no one.
+[10] As noted by Justice Marceau above:
+The idea of the shortest route that one might travel to work should be coupled with the notion of the normal route to the travelling public. Thus, the shortest normal route would be a preferable test to the straight line method, for it is both realistic and precise.
+(emphasis added)
+[11] The Federal Court of Appeal specifically rejected a measurement based merely on the particular individual’s normal route and instead stated that the test should be the “shortest normal route”. In this case the route suggested by the Respondent (the QEW) is clearly shorter than the Appellant’s chosen route (as acknowledged by the Appellant) and was the route that the Appellant would travel downtown when it was not busy. It is clear from the map that was submitted and by the directions given by the Appellant that the Respondent’s route does not suffer from the same problems as the route suggested by the Crown in Nagy. It is also clear from the traffic volumes as noted by the Appellant that many people use the QEW route. The Appellant’s problem was that too many people used the QEW route. If fewer people would have been using the QEW the Appellant would have taken this route as evidenced by his admission that he would use this route when he travelled downtown at times other than the early morning commuting time.
+[12] Unfortunately for the Appellant the test is based on the distance of the “shortest normal route”. The test is not based on the route which takes the least amount of time. The Appellant has not established that the QEW was not a normal route. It seems to me that both routes could be considered normal routes (given the large volumes of traffic on each route). The test is then applied based on the shortest normal route, determined by distance, which would be the QEW.
+[13] As a result the appeal is dismissed, without costs.
+Signed at Toronto, Ontario, this 7th day of May, 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC252
+COURT FILE NO.: 2009-3683(IT)I
+STYLE OF CAUSE: DAVID LUND AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 9, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: May 7, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mark Tonkovich
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

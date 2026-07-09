@@ -1,0 +1,402 @@
+---
+title: "Roth v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27282/index.do"
+last_modified: "2005-08-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 484"
+citation2: ""
+neutral_citation: "2005 CCI 484"
+decision_date: "2005-08-02"
+language: "fr"
+item_id: "27282"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 889
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:41:46.604000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "88184f7fee4b46ad0707167b86f7a441db6b21605513aa5da9c571e988faa8c8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Roth v. The Queen
+
+- Citation: 2005 CCI 484
+- Decision date: 2005-08-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 889, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roth v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-02
+Référence neutre
+2005 CCI 484
+Numéro de dossier
+2003-474(IT)G
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-474(IT)G
+ENTRE :
+RAY ROTH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Tri Pacific Gas Corporation (2003-473(IT)G), à Calgary (Alberta),
+le 17 novembre 2004.
+Devant : L'honorable juge R. D. Bell
+Comparutions :
+Avocats de l'appelant :
+Me James W. Dunphy et
+Me Jonathan D. Warren
+Avocate de l'intimée :
+Me Julie Rogers-Glabush
+________________________________________________________________
+JUGEMENT
+L'appel interjeté par l'appelant est rejeté et la somme de 371 726 $ sera donc incluse dans son revenu pour l'année d'imposition 1998 en application du paragraphe 15(1) de la Loi de l'impôt sur le revenu.
+Signé à Ottawa, Canada, ce 5e jour d'août 2005.
+« R. D. Bell »
+Le juge Bell
+Traduction certifiée conforme
+ce 14e jour de mars 2007.
+Yves Bellefeuille, réviseur
+Dossier : 2003-473(IT)G
+ENTRE :
+TRI PACIFIC GAS CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Ray Roth (2003‑474(IT)G) à Calgary (Alberta), le 17 novembre 2004.
+Devant : L'honorable juge R. D. Bell
+Comparutions :
+Avocats de l'appelante :
+Me James W. Dunphy et
+Me Jonathan D. Warren
+Avocate de l'intimée :
+Me Julie Rogers-Glabush
+________________________________________________________________
+JUGEMENT
+L'appel interjeté par l'appelante est rejeté et la somme de 363 552 $ n'est donc pas déductible dans le calcul de son revenu pour l'année d'imposition 1998.
+Signé à Ottawa, Canada, ce 5e jour d'août 2005.
+« R. D. Bell »
+Le juge Bell
+Traduction certifiée conforme
+ce 14e jour de mars 2007.
+Yves Bellefeuille, réviseur
+Référence : 2005CCI484
+Date : 20050805
+Dossier : 2003-474(IT)G
+ENTRE :
+RAY ROTH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2003-473(IT)G
+ET ENTRE :
+TRI PACIFIC GAS CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bell
+QUESTION EN LITIGE EN CE QUI CONCERNE RAY ROTH (« M. Roth »)
+[1] Il s'agit de savoir si la somme de 371 726 $ que M. Roth a reçue de Tri Pacific Gas Corporation (« Tri Pacific ») pendant son année d'imposition 1998 doit être incluse dans son revenu en application du paragraphe 15(1) de la Loi de l'impôt sur le revenu (la « Loi »).
+QUESTION EN LITIGE EN CE QUI CONCERNE TRI PACIFIC
+[2] Tri Pacific pouvait‑elle déduire la somme de 363 552 $ dans le calcul de son revenu pour son exercice 1998 se terminant le 31 mars 1998[1]?
+LES FAITS
+[3] Ray Roth (« M. Roth ») est le premier témoin que les appelants ont fait entendre. Selon son témoignage, Tri Pacific a été constituée en société le 8 novembre 1991 et a commencé ses activités en janvier 1992. Il a affirmé qu'il était devenu administrateur le 24 mars 1992. Il a également mentionné que, même si BAS Ventures Inc. (« BAS ») figurait à titre d'actionnaire de Tri Pacific, lui‑même et un certain Ron Cripps (« M. Cripps »), comptable agréé et associé du cabinet Ernst & Young, sont devenus les propriétaires uniques de Tri Pacific, chacun d'entre eux détenant une part de 50 pour cent de la société[2]. Il a déclaré qu'il n'avait pas de lien de dépendance avec M. Cripps. Monsieur Roth a ajouté qu'au début de 1992, le cabinet Ernst & Young a été choisi à titre de cabinet d'expertise comptable, et que parce que M. Cripps y travaillait :
+[TRADUCTION]
+[...] nous avons eu recours à l'expérience de M. Cripps et à celle d'Ernst & Young.
+Il a en outre mentionné que M. Cripps était administrateur et directeur financier de Tri Pacific, mais qu'il est maintenant décédé[3]. Dans son témoignage, M. Roth a déclaré qu'il a reçu les actions que M. Cripps détenait dans Tri Pacific avant le décès de ce dernier et qu'à ce moment, M. Cripps avait cessé d'agir comme administrateur, actionnaire et directeur financier de Tri Pacific. Il a ajouté ce qui suit à propos d'un expert‑comptable, Mac Bender :
+[TRADUCTION]
+[...] ses services ont été retenus et il a travaillé pour nous à partir du début de 1992 jusqu'en 1998 et il nous donne encore des conseils.
+Il a alors précisé que M. Bender travaillait toujours pour Tri Pacific.
+[4] En réponse à la question de son avocat concernant les raisons pour lesquelles il se trouvait devant la Cour, il a affirmé :
+[TRADUCTION]
+Oui, Monsieur. J'avais un projet. J'avais des dépenses. J'avais un projet que j'ai présenté à M. Cripps pour établir s'il était opportun que j'examine ce projet selon une chaîne d'événements particulière et, à sa suggestion, et avec les sommes dépensées depuis un certain temps, sur sa recommandation, nous avons passé une écriture de journal. Et, selon cette écriture, la somme de trois cent soixante‑dix mille dollars (370 000 $) devait aller à Tri Pacific Gas comme – comme frais d'élaboration préalable et un billet à ordre de trois cent soixante‑dix mille dollars (370 000 $) devait être remis à M. Roth à titre de prêt – de prêt remboursable.
+[5] Monsieur Roth a mentionné une conversation qu'il a eue avec une de ses connaissances, Karey Sloane (« M. Sloane »), lequel lui a fait part de l'intérêt ranimé d'un regroupement d'acheteurs de gaz naturel liquéfié (« GNL ») de l'Asie du Sud‑Est. Monsieur Roth a affirmé qu'il avait dit à M. Sloane qu'il pensait que le moment était propice pour un projet de GNL. Il a ajouté que le projet consistait à expédier 3,5 millions de tonnes de gaz naturel liquéfié chaque année de la côte Ouest canadienne en Asie du Sud‑Est pour le marché du Japon, de Taïwan et de la Corée. Son enthousiasme pour son projet tenait aux faits suivants :
+[TRADUCTION]
+[...] l'Ouest canadien avait des excédents de gaz et le prix du gaz était faible, le prix que nous aurions obtenu pour le gaz naturel liquéfié en – en Asie du Sud‑Est se fondait sur – sur ce qu'on appelle un panier de pétrole brut dont le coût a été converti en un équivalent BTU du pétrole au gaz et, pour cette raison, le rendement que nous pouvions offrir aux producteurs de gaz était fort supérieur à ce qu'ils recevaient sur le marché intérieur ou le marché américain.
+[6] L'échange suivant a eu lieu entre M. Roth et son avocat :
+[TRADUCTION]
+Q : Maintenant, M. Roth, vous avez mentionné que, lorsque vous avez communiqué avec M. Cripps en – en 1991, je crois, la fin de 1991, vous avez en outre fait état de certaines dépenses que vous avez engagées et qui ont par la suite fait l'objet d'une écriture de journal. Pouvez‑vous expliquer à la Cour pourquoi ces dépenses au titre de l'élaboration préalable – ou, désolé, à quelle fin avez‑vous engagé ces dépenses?
+R : J'avais des dépenses qui se chiffraient à environ trois cent soixante‑dix mille dollars (370 000 $). Il s'agissait de frais au titre du transport, du logement, des frais de représentation, de renseignements confidentiels en matière de propriété intellectuelle, de génie, de la conception, de conseils... J'avais accès à des connaissances relatives à la cryogénie[4].
+Il a ajouté que ces frais avaient été engagés du 15 avril 1978 jusqu'en 1981. Selon son témoignage, cette partie des dépenses visait des déplacements entre Singapour et Jakarta, en Indonésie, entre Singapour et Kuala Lumpur, en Malaisie, et Bangkok, en Thaïlande. Les déplacements englobaient aussi des voyages effectués entre Singapour et la partie continentale des États‑Unis et le Canada dans le but de rencontrer diverses sociétés intéressées par le projet. Il a précisé que ces nombreux voyages avaient pour objet de susciter de l'intérêt à l'égard du GNL.
+[7] Monsieur Roth a ensuite décrit la nature des activités de PT Pertamina, la société pétrolière publique indonésienne. Il a mentionné que les installations de GNL de cette dernière situées au Kalimantan de l'Est, en Indonésie, pouvaient produire trois millions et demi de tonnes de GNL par année. Selon lui, cette société exportait d'énormes quantités de GNL au Japon et voulait deux trains (unités de production) supplémentaires. Il lui fallait donc obtenir un capital excédant [TRADUCTION] « environ deux cents millions de dollars pour mettre ces trains supplémentaires en service ».
+[TRADUCTION]
+J'ai dit à Pertamina que je connaissais d'éventuelles sources pour un financement de cet ordre et je suis parti de l'Indonésie pour me rendre à Calgary, puis à San Francisco et à Houston, notamment, pour les besoins de ce projet.
+[8] Monsieur Roth a alors produit deux avis de débit, l'un de 20 513,64 $ et l'autre de 25 036,25 $. Il a déclaré que ces sommes faisaient partie de la somme de 370 000 $ mentionnée à M. Cripps. Il a en outre affirmé que les 25 036,25 $ se rapportaient aux droits de représentation de même qu'aux frais de génie et de conception. Il a précisé qu'en Asie du Sud‑Est, il est nécessaire de retenir les services d'un représentant et que ce dernier gagne ses honoraires en contrepartie du travail accompli, lequel fait [TRADUCTION] « partie intégrante du génie et de la conception ». Il a ensuite ajouté que la somme de 20 513,64 $ se rapportait aux droits de représentation et aux frais de génie.
+[9] Lorsque son avocat lui a demandé s'il avait de quelconques reçus ou factures concernant ces déplacements, M. Roth a répondu :
+[TRADUCTION]
+J'avais des reçus. Les reçus ont été présentés à la fin mai ou au début de juin à M. Cripps, à sa suggestion et sur sa recommandation, et ils prenaient ces documents et prenaient – pour la somme de 373 000 $ – je suis désolé, 370 000 $ – et ces frais étaient inscrits dans les livres comptables de Tri Pacific comme débit au titre de l'élaboration du projet et comme crédit au titre d'effets à payer et ces effets à payer consistaient en le billet à ordre émis en faveur de Ray Roth.
+Monsieur Roth a ensuite affirmé que M. Cripps était à cette époque administrateur et directeur financier de Tri Pacific.
+[10] Voici ce qu'il a répondu lorsqu'on lui a demandé quand les reçus avaient été remis à M. Cripps :
+[TRADUCTION]
+C'était juste après avril. L'année d'imposition était terminée. Il souhaitait mettre de l'ordre dans les documents relatifs à Tri Pacific Gas. Il a recommandé que nous passions une écriture de journal et qu'ils produisent – que le cabinet Ernst & Young établisse un billet à ordre pour montrer que j'avais cédé mes droits de propriété dans le projet à Tri Pacific Gas en contrepartie du billet à ordre.
+Il a ensuite ajouté que le billet à ordre avait été conservé par M. Cripps ou Ernst & Young, qui l'avait établi. Il a mentionné que M. Cripps avait examiné les factures et estimé qu'il s'agissait de dépenses justifiables. Selon lui, sa participation dans le projet Tri Pacific Gas a été cédée à Tri Pacific pour la somme de 370 000 $. Il a ensuite précisé qu'en 1994, lui et M. Cripps ont rencontré un homme faisant partie d'une société appelée Capital Projects ou Straits Crossing, laquelle avait construit le pont de Northumberland. Il a ajouté qu'en 1994 :
+[TRADUCTION]
+[...] nous avons conclu une entente avec Capital Projects Group. Mes services ont été retenus sous le nom de Tri Pacific Gas à titre de consultant pour que je me consacre exclusivement au projet et à ce contrat de gérance, et selon cette entente, nous présentions des factures, des reçus pour la somme de 370 000 $ à PAC‑RIM LNG, Capital Projects Group, et le contrat et l'entente montrent que ces factures ont été reçues.
+Il a ensuite déclaré que ces reçus avaient été conservés par PAC‑RIM LNG, la dernière entité du projet de GNL. Il a ajouté que lui et un autre homme [TRADUCTION] « étaient retournés pour vérifier les dossiers et les reçus ne s'y trouvaient pas ». Il a supposé que le billet à ordre était détenu par Ernst & Young et comme le projet avait commencé à perdre de la vitesse en 1993, ce cabinet n'avait plus rien à faire avec le projet et il [TRADUCTION] « n'y avait aucune raison justifiant que nous donnions suite au billet à ordre à ce moment ». Il a mentionné qu'il n'avait réclamé aucune garantie au titre du billet et que Tri Pacific, à ce moment, ne possédait aucun actif. Il a ensuite ajouté :
+[TRADUCTION]
+[...] j'avais – si le projet allait de l'avant, j'avais des recours judiciaires.
+Selon lui, à cette époque, Tri Pacific appartenait en parts égales à lui et à M. Cripps. La somme inscrite dans le journal reflétait selon lui le montant des dépenses qu'il avait engagées jusqu'à cette date relativement au projet de GNL. La différence entre les deux sommes avoisinait les 1 000 $, puisque le montant exact des dépenses se chiffrait à 371 156 $.
+[11] Monsieur Roth a fait état d'un contrat de gérance daté du 1er novembre 1994 conclu par PAC‑RIM LNG, une coentreprise composée de Capital Projects Group Inc. et de Bas Ventures Inc. (ci‑après « la coentreprise »), et par Tri Pacific Gas Corporation, désignée comme le « consultant ». Il a renvoyé au paragraphe 9 de ce contrat, lequel est ainsi rédigé :
+[TRADUCTION]
+La coentreprise a été informée que le consultant a engagé des frais et assumé certaines obligations totalisant 371 146 $ pendant la période antérieure au 1er août 1994. Le consultant doit fournir à la coentreprise une liste détaillée et lui permettre de vérifier les frais engagés pendant la période antérieure pour qu'elle soit en mesure de confirmer que ces frais ont bien été payés ou engagés relativement au projet. La coentreprise s'engage, si le projet va de l'avant et si le financement est obtenu, à ce que les frais de 371 146 $ relatifs à la période antérieure engagés par le consultant lui soient payés, sur les premiers fonds destinés au financement du projet, en règlement complet de toute dette envers le consultant au titre du projet. La coentreprise reconnaît que cette obligation survivra à la résiliation du présent contrat de gérance et continuera de la lier jusqu'à ce que la coentreprise prenne fin conformément aux modalités y afférentes.
+En réalité, les frais susmentionnés, qui auraient été engagés avant le 1er août 1994, avaient été engagés entre avril 1978 et la fin de 1981.
+Ce contrat de gérance comportait également les stipulations suivantes, reproduites dans l'ordre de leur numéro de paragraphe :
+[TRADUCTION]
+1) Le consultant doit mettre à la disposition de la coentreprise tous les renseignements relatifs au projet et à d'autres projets analogues qu'il a en sa possession de manière à faciliter l'évaluation et la faisabilité du projet pendant la phase I.
+2) Le consultant déclare et garantit à la coentreprise qu'il jouit des pleins droits et des pleins pouvoirs en ce qui concerne les renseignements relatifs au projet et à d'autres projets analogues et qu'il n'existe aucun obstacle, d'ordre juridique ou autre, susceptible de l'empêcher de communiquer ces renseignements à la coentreprise.
+3) Le consultant s'engage à réserver les services à plein temps de M. Ray Roth, son président, en exclusivité à la coentreprise pendant la phase I.
+5) La coentreprise doit payer au consultant les honoraires mensuels précisés à l'annexe « A » ci‑jointe par voie de factures présentées par écrit le dernier jour ouvrable de chaque mois civil, ces honoraires étant exigibles dans les trois (3) jours ouvrables de la date de présentation des factures du mois précédent. De plus, le consultant peut présenter une facture distincte pour les faux frais engagés par M. Ray Roth lors de l'exécution de ses obligations aux termes du présent contrat.
+7) Dans l'éventualité de la résiliation du présent contrat, tous les renseignements confidentiels et les autres documents que le consultant aura transmis à la coentreprise devront lui être remis. Le produit du travail, quel qu'il soit, élaboré au cours de la phase I du projet demeurera la propriété de la coentreprise.
+9) La coentreprise a été informée que le consultant a engagé des frais et assumé certaines obligations totalisant 371 146 $ pendant la période antérieure au 1er août 1994. Le consultant doit fournir à la coentreprise une liste détaillée et lui permettre de vérifier les frais engagés pendant la période antérieure pour qu'elle soit en mesure de confirmer que ces frais ont bien été payés ou engagés relativement au projet. La coentreprise s'engage, si le projet va de l'avant et si le financement est obtenu, à ce que les frais de 371 146 $ relatifs à la période antérieure engagés par le consultant lui soient payés, sur les premiers fonds destinés au financement du projet, en règlement complet de toute dette envers le consultant au titre du projet.
+Monsieur Roth a déclaré que la liasse de factures a été présentée à un certain Wilf Blood, lequel [TRADUCTION] « faisait partie intégrante de BAS Ventures, PAC‑RIM LNG ». Il a affirmé que Wilf Blood était décédé. En outre, la liste mentionnée à l'article 9 a été remise à la coentreprise en novembre 1994. Lorsqu'on lui a demandé si cette liste avait été vérifiée à ce moment, il a répondu qu'elle n'avait pas fait l'objet d'une vérification, mais qu'elle avait été examinée. Il a ajouté que la liste n'avait pas été rejetée et qu'elle [TRADUCTION] « avait en fait été versée au dossier [...] ».
+[12] M. Roth a également affirmé ce qui suit :
+[TRADUCTION]
+La coentreprise était une opération commerciale en cours, Capital Projects Group allait assurer le financement, BAS Ventures allait fournir les compétences et les connaissances d'expert pour le projet de GNL et nous allions recevoir dix pour cent du projet. Capital Projects Group recevrait 90 pour cent. Ils seraient responsables de l'ensemble du financement. S'ils décidaient de faire appel à d'autres partenaires, la part de ces derniers viendrait de leur 90 pour cent.
+Selon M. Roth, le projet n'a pas évolué [TRADUCTION] « jusqu'à faire de Phillips Petroleum un associé ». La société Phillips Petroleum [TRADUCTION] « voulait son pourcentage », et elle a fait une offre et un paiement initial.
+[13] Monsieur Roth a ensuite renvoyé au document dont la page titre est ainsi libellée :
+[TRADUCTION]
+PROJET PAC-RIM LNG
+CONVENTION D'ACHAT ET DE VENTE
+ENTRE
+BAS VENTURES INC.
+(la « venderesse »)
+et
+CREIGHTON MANAGEMENT LIMITED,
+SPECTRUM PROJECTS INC., HACKLE HOLDINGS LTD.,
+TRI PACIFIC GAS CORPORATION,
+et MESSIEURS WILFRED C. BLOOD,
+WAYNE R. STANLEY ET RAY H. ROTH
+(collectivement, avec la venderesse, les « désistants »)
+et
+PAC‑RIM LNG INC.,
+BECHTEL ENTERPRISES INTERNATIONAL, LTD.,
+PHILLIPS PETROLEUM CANADA LTD. et
+DAEWOO CORPORATION
+(collectivement, les « acquéresses »)
+[14] Monsieur Roth a déclaré que BAS Ventures Inc. vendait une participation de cinq pour cent dans le projet PAC‑RIM LNG et que BAS agissait comme fiduciaire pour Creighton, Spectrum, Hackle, Tri Pacific, M. Blood, M. Stanley et lui‑même. Il a ajouté que la part de dix pour cent avait été réduite à cinq pour cent et que cette part totale avait été vendue aux acquéresses pour la somme de 4,5 millions de dollars. Cette somme n'a pas été payée en entier. Elle devait être payée en deux versements; un premier versement d'un million de dollars devait être fait le 14 avril et le solde devait être payé au moment de la signature de l'entente relative aux conditions financières [TRADUCTION] « et/ou lorsqu'on mettrait en œuvre le projet ». La somme d'un million de dollars aurait été payée à BAS Ventures, qui l'aurait distribuée, et Tri Pacific aurait reçu 585 601,20 $. Dans son témoignage, M. Roth a précisé qu'il avait reçu, sur ce paiement d'un million de dollars, la somme de 421 000 $, dont 370 000 $ couvraient les dépenses mentionnées plus haut et les 50 000 $ restants visaient certains frais, engagés par M. Roth, M. Blood, M. Stanley et M. Rees, auxquels on renvoyait dans un protocole d'entente relatif à la coentreprise PAC‑RIM LNG. Il a ajouté qu'il avait lui‑même reçu son argent et que la dette de Tri Pacific envers lui avait été acquittée.
+[15] Pendant le contre‑interrogatoire, M. Roth a déclaré, en ce qui concerne la somme de 370 000 $, que les dépenses avaient été engagées pour son hébergement pendant qu'il vivait à Singapour, pour des bureaux, pour les services d'une secrétaire, pour les repas et les déplacements, pour la représentation auprès des gens de Pertamina, c'est‑à‑dire les personnes qu'il rencontrait relativement au projet pour Pertamina, et en partie pour des renseignements en matière de propriété intellectuelle et des renseignements confidentiels. Monsieur Roth a précisé que Tri Pacific n'existait pas à ce moment, soit en 1981, l'année où il a quitté Singapour pour revenir au Canada. Il a répété que l'écriture de journal concernait les frais d'élaboration préalable. Selon ses dires, l'écriture de journal a été faite avant que les actions fussent transférées à lui‑même et à M. Cripps[5].
+[16] Monsieur Roth a précisé qu'il avait paraphé le billet à ordre de Tri Pacific, mais qu'il ne l'avait pas signé. Le billet avait été établi en avril ou en mai 1992. Selon son témoignage, la société Tri Pacific ne disposait pas des fonds nécessaires pour payer le billet en 1992 et elle n'a pas eu d'argent avant 1994 lorsque les services de M. Roth ont été retenus par l'intermédiaire de Tri Pacific Gas, l'argent provenant de PAC‑RIM LNG. Après un long échange de questions et de réponses, il a semblé que Tri Pacific était propriétaire de 57,5 pour cent de la participation financière de cinq pour cent dans le projet.
+[17] Monsieur Roth a ensuite mentionné que, le 31 août 1980, il avait retiré la somme de 566 759 $ du compte de Tri Pacific, soit une partie de la somme d'un million de dollars qui a été payée. Il a affirmé qu'à ce moment, il était l'unique actionnaire et administrateur de Tri Pacific. L'avocate de l'intimée a alors renvoyé à sa déclaration de revenus pour 1998 selon laquelle son revenu déclaré s'élevait à 38 483,59 $ seulement.
+[18] Le deuxième témoin des appelants, Wayne Richard Stanley (« M. Stanley »), a déclaré qu'il connaissait M. Roth depuis de nombreuses années et qu'il possédait les compétences nécessaires pour aider ce dernier à élaborer un projet de GNL. Il considérait que l'idée à la base du projet était viable et il a travaillé au projet de concert avec M. Roth. Depuis un certain temps, on s'employait à élaborer des arguments économiques en faveur du projet, à présenter ces arguments en vue d'obtenir du financement et à examiner les nouveaux marchés pour le projet. Les installations relatives au projet n'ont jamais été construites, mais du financement provisoire a néanmoins été obtenu, ce qui leur a permis de faire progresser le projet de façon appréciable. Il a ajouté que leur participation s'était diluée au fur et à mesure que le projet avançait. Certaines grandes sociétés étaient devenues propriétaires du projet, à savoir Bechtel Corporation, Phillips Petroleum et Daewoo Corporation de la Corée, et elles ont avancé des fonds supplémentaires. Le projet a pris fin vers Noël 1997 parce que la situation économique avait changé.
+[19] L'avocat de l'appelant a renvoyé M. Stanley à un protocole d'entente. Monsieur Stanley a déclaré que ce document établissait la nature de la relation existant entre BAS Ventures et Capital Projects Group Inc. en ce qui touche le projet de GNL. Il a affirmé qu'il était l'un des actionnaires de cette société.
+[20] Au cours de son témoignage, M. Stanley a mentionné ce qui suit :
+[TRADUCTION]
+J'avais vu le travail fait et élaboré par le groupe de Ray, je comprenais qu'il y avait eu des efforts importants et que des frais avaient été engagés avant cela. Lorsque nous avons élaboré la proposition devant être présentée – à Straits Crossing pour obtenir du financement, une des choses – demandées par Ray était que ces – eh bien, je – entre nous, nous les appelions des frais d'élaboration préalable – seraient visés par l'entente avec Straits Crossing de sorte que, si le projet allait de l'avant – et les risques étaient grands dans un sens comme dans l'autre – si le projet allait de l'avant, les projets que nous considérions comme valides, les frais d'élaboration seraient remboursés avec le produit d'une vente, quelle qu'elle soit, ou les revenus tirés du projet.
+Il a ensuite ajouté :
+[TRADUCTION]
+Et je sais que Ray avait prévu des discussions pour examiner ces frais d'élaboration préalable avec David Pirie, vice‑président de Straits Crossing, lequel est par la suite devenu président de PAC‑RIM LNG, l'entité qui – qui a élaboré le projet. Et je sais que ces réunions avaient été fixées et qu'une – une discussion touchant – la pertinence de ces frais a eu lieu et qu'on a décidé de les inclure dans l'entente, tant en ce qui concerne la première entente conclue avec – avec Straits Crossing, mais en particulier, ils faisaient partie de cette – partie des conventions négociées constatées dans la convention d'achat et de vente conclue avec – Phillips Petroleum et Bechtel et Daewoo Corporation – lorsque nos participations dans le projet ont été vendues.
+Selon son témoignage, il a su que la réunion avait eu lieu parce que lui et ses collègues partageaient de très petits bureaux et que cinq ou six d'entre eux qui travaillaient dans les bureaux réservés à l'élaboration du projet collaboraient de façon très étroite et que chacun savait ce que les autres faisaient quotidiennement. Monsieur Stanley a également déclaré qu'il avait convenu avec les autres que des honoraires de 50 000 $ seraient payés :
+[TRADUCTION]
+[...] à nous quatre, Ray, moi‑même, Wilf Blood et David Rees, qui avions participé à l'élaboration des –propositions de financement. Il s'agissait uniquement de tenter de – récupérer une partie des frais et du temps consacrés à l'élaboration de cette proposition. Cela avait été présenté comme faisant partie de la proposition et accepté par – accepté par les gens de Straits Crossing lorsqu'ils ont signé le protocole d'entente.
+[21] Monsieur Stanley a ensuite ajouté que l'idée initiale de M. Roth consistait à tenter d'exporter du GNL du Canada sur les marchés d'Asie, où le gaz est très cher. À la lumière de leur conception technique et de leur évaluation des coûts, ils étaient certains qu'ils seraient en mesure d'acheter du gaz au Canada, de le liquéfier et de l'expédier en Corée puis de le vendre pour moins de quatre dollars américains par millier de pieds cubes, soit le coût payé pour le GNL dans ce marché, le coût au Canada étant d'environ un dollar par millier de pieds cubes. Il a précisé qu'en 1997, lorsque le projet a pris fin, le prix du gaz avait sensiblement augmenté en Amérique du Nord et le projet est devenu non rentable. Ils n'ont jamais reçu la deuxième partie du paiement prévu dans l'entente et la seule somme versée au titre du projet a été le million de dollars payés au moment de la signature de la convention d'achat et de vente le 14 avril 1997. Selon M. Stanley :
+[TRADUCTION]
+[...] lorsque nous avons présenté le projet à Straits Crossing, subséquemment le Capital Projects Group, que ces frais d'élaboration préalable engagés antérieurement par la société de Ray, plus les 50 000 $ au titre des frais d'élaboration de la proposition engagés par notre petit groupe, seraient payés dans l'éventualité où le projet se rendrait à une étape où nous serions rachetés ou remboursés pour – pour les frais.
+L'échange suivant a eu lieu :
+[TRADUCTION]
+Q. D'accord. Et vous souvenez‑vous si les acheteurs ont ou non contesté la présence de cette clause se rapportant à la somme de 421 000 $, vous souvenez‑vous de discussions à ce sujet?
+R. Bien, il y a eu des discussions à ce sujet, mais elle a – en fin de compte – elle a été acceptée. On a considéré que cela – cela faisait partie du coût.
+[22] Pendant son contre‑interrogatoire, M. Stanley a déclaré qu'il n'avait jamais vu la liste des frais mentionnée par M. Roth.
+[23] L'avocat des appelants a ensuite produit en preuve certaines parties de l'interrogatoire préalable de Wendy Lee Schur, agente des appels à l'Agence des douanes et du revenu du Canada. Madame Schur a reconnu que l'écriture de journal susmentionnée avait été faite. Une partie de l'interrogatoire est reproduite ci‑dessous :
+[TRADUCTION]
+Q. Avez‑vous vu un quelconque élément de preuve sur un document qui vous aurait amenée à conclure que Ray Roth avait un lien de dépendance avec Tri Pacific en 1993?
+R. Je n'ai pas vu de document montrant que Ray Roth détenait plus de 50 pour cent des actions de Tri Pacific.
+Q. Par conséquent, serait‑il raisonnable de conclure qu'il n'y avait pas de lien de dépendance entre lui et Tri Pacific à ce moment?
+R. À la lumière de ces onglets, 28 à 43, il semble qu'il n'y avait pas de lien de dépendance entre lui et Tri Pacific.
+[...]
+Q. À la lumière des renseignements fournis, l'Agence a‑t‑elle déterminé quand Tri Pacific Gas Corporation a passé l'écriture de journal touchant le... débit de 370 000 $ au titre des frais d'élaboration préalable?
+R. Pouvez‑vous répéter?
+Q. Quand l'écriture de journal relative à la somme de 370 000 $ a‑t‑elle été passée?
+R. Nous ne savons pas quand elle a été faite. Nous savons qu'elle a été faite – elle figure dans les livres comptables de la société, je crois, pour l'exercice se terminant en 1993[6].
+[24] L'avocate de l'intimée a produit en preuve certains extraits tirés de l'interrogatoire préalable de Ray Roth. L'échange suivant s'y trouvait :
+[TRADUCTION]
+Q. Monsieur Roth, pour l'exercice se terminant le 31 mars 1998, Tri Pacific Gas Corporation a gagné un revenu de 585 601,20 $. Quelle était la source de ce revenu?
+R. C'est le revenu que j'ai reçu de Phillips par l'entremise de BAS Ventures.
+Q. S'agit‑il de la somme obtenue par Tri Pacific lorsqu'elle a vendu sa participation dans le projet Pacific Rim LNG?
+R. C'est exact.
+[...]
+Q. Monsieur Roth, une écriture de journal a été passée dans les livres comptables de la société Tri Pacific Gas Corporation pour l'exercice se terminant en 1993 relativement à un débit au titre de frais d'élaboration préalable, et à un crédit au titre d'un effet à payer, Ray Roth, au montant de 370 000 $?
+R. Oui, Monsieur.
+Q. Vous savez que cette écriture a été faite?
+R. Par M. Cripps.
+Q. Cette écriture de journal, a‑t‑elle essentiellement été passée pour refléter divers frais que vous avez engagés pendant les années 1978 à 1992 pour mettre sur pied le projet de GNL?
+R. Oui.
+Q. C'est une bonne façon d'expliquer la situation?
+R. Oui.
+ANALYSE ET CONCLUSIONS
+[25] La preuve en l'espèce s'est à certaines occasions révélée bien mince. Monsieur Roth s'écartait souvent des questions qui lui étaient posées et donnait des réponses quelque peu générales aux autres questions. J'ai eu l'impression qu'il ne s'agissait pas d'une quelconque tactique, mais que cela faisait tout simplement partie de son style. Il convient de se rappeler qu'il rendait témoignage au sujet d'événements remontant aussi loin que 27 ans en arrière. Même si j'ai trouvé son témoignage difficile à suivre en ce qui concernait son rapport avec les questions en litige, je n'estime pas que ses réponses étaient évasives ou incroyables. Une étude approfondie de la preuve ainsi que plusieurs examens de celle‑ci m'ont amené à tirer les conclusions suivantes :
+1. C'est à juste titre que la somme de 363 552 $ a été incluse dans son revenu en application du paragraphe 15(1) de la Loi. Monsieur Roth n'a pas, d'un point de vue juridique, cédé de bien à Tri Pacific, même s'il paraît croire qu'il lui a cédé le « projet ». Il ne jouissait donc d'aucun droit exécutoire sur le plan juridique à l'égard de la somme susmentionnée de 371 726 $ qu'il a reçue en 1998.
+2. Tri Pacific ne peut déduire des « frais d'élaboration préalable » s'élevant à 363 552 $ dans le calcul de son revenu pour son année d'imposition 1998. Elle n'a pas engagé ces frais et elle n'a pas acheté de « biens » de M. Roth.
+[26] Dans son témoignage, M. Roth a déclaré :
+[TRADUCTION]
+J'avais un projet. J'avais des dépenses. J'avais un projet que j'ai présenté à M. Cripps pour établir s'il était opportun que j'examine ce projet selon une chaîne d'événements particulière et, à sa suggestion, et avec les sommes dépensées depuis un certain temps, sur sa recommandation, nous avons passé une écriture de journal. Et, selon cette écriture, la somme de 370 000 $ devait aller à Tri Pacific Gas comme – comme frais d'élaboration préalable et un billet à ordre de 370 000 $ devait être remis à M. Roth à titre de prêt – de prêt remboursable.
+La confusion débute ici. Monsieur Roth a mentionné ou employé le terme « projet » à maintes reprises pendant son témoignage. Lorsqu'on lui a pour la première fois demandé à quelle fin ces dépenses avaient été engagées, il a répondu :
+[TRADUCTION]
+J'avais des dépenses qui se chiffraient à environ 370 000 $. Il s'agissait de frais au titre du transport, du logement, des frais de représentation, de renseignements confidentiels en matière de propriété intellectuelle, de génie, de la conception, de conseils... J'avais accès à des connaissances relatives à la cryogénie.
+Il a ajouté que la somme de 370 000 $ avait été versée comme paiement pour des renseignements en matière de propriété intellectuelle et de génie, pour de la conception et pour des honoraires d'expert‑conseil. Il ne fait aucun doute dans mon esprit que M. Roth avait accumulé de vastes connaissances grâce à ses diverses activités commerciales liées à ces dépenses. Ces connaissances intéressaient vivement la coentreprise PAC‑RIM LNG, ce qui a en fin de compte donné lieu à la vente de la participation de cinq pour cent dans le projet existant à Pac‑Rim LNG Inc., à Bechtel Enterprises International Ltd., à Phillips Petroleum Canada Ltd. et à Daewoo Corporation. De toute évidence, M. Roth possédait des connaissances en matière de génie et de conception découlant de son expérience professionnelle.
+Comme il est mentionné plus haut, M. Roth a déclaré ce qui suit au sujet de M. Cripps :
+[TRADUCTION]
+Il a recommandé que nous passions une écriture de journal et qu'ils produisent – que le cabinet Ernst & Young établisse un billet à ordre pour montrer que j'avais cédé mes droits de propriété dans le projet à Tri Pacific Gas en contrepartie du billet à ordre.
+[27] Le contrat de gérance par lequel on retenait les services de Tri Pacific à titre de consultant prévoyait explicitement que le consultant :
+[TRADUCTION]
+[...] doit mettre à la disposition de la coentreprise tous les renseignements relatifs au projet et à d'autres projets analogues qu'il a en sa possession [...].
+Tri Pacific, le consultant, a en outre déclaré et garanti qu'elle jouit des pleins droits et des pleins pouvoirs en ce qui concerne tous les renseignements relatifs au projet et à d'autres projets analogues. De plus, le consultant s'engageait à réserver les services à plein temps de M. Ray Roth, son président, en exclusivité à la coentreprise pendant la phase I. Il paraît évident que la coentreprise souhaitait s'assurer l'accès aux connaissances que possédait M. Roth. Il n'y a eu aucune cession d'un quelconque « projet » ni, en réalité, de quoi que ce soit d'autre. Selon l'un des énoncés, le consultant, Tri Pacific :
+[TRADUCTION]
+[...] possède des renseignements précis qui aideront à évaluer la phase I et a à son emploi M. Ray Roth, lequel possède une vaste expérience en matière de conception, de construction et d'exploitation d'installations de gaz naturel liquéfié.
+Comme il a déjà été mentionné, le contrat de gérance prévoyait expressément que le consultant devait mettre à la disposition de la coentreprise tous les renseignements relatifs au projet et à d'autres projets analogues et qu'il s'engageait à réserver les services de M. Roth en exclusivité à la coentreprise. Selon la convention d'achat et de vente du projet PAC‑RIM LNG, les acquéresses achetaient de Bas Ventures Inc., la venderesse, la [TRADUCTION] « participation achetée » franche et quitte de toute charge de quelque nature que ce soit. L'expression [TRADUCTION] « participation achetée » a été définie dans cette convention comme [TRADUCTION] « le titre participatif indivis de cinq pour cent de la venderesse dans le projet existant » et constituait manifestement l'objet de la convention d'achat et de vente.
+[28] L'avocat de l'appelant a avancé ce qui suit dans ses observations :
+[TRADUCTION]
+[...] le fait essentiel en l'espèce est que Ray Roth et Tri Pacific Gas n'avaient pas de lien de dépendance entre eux au moment où cette dernière lui a acheté la chose qu'il possédait, quelle qu'elle soit [...]
+[Non souligné dans l'original.]
+Il a soutenu que, si cette opération a été conclue par des parties n'ayant pas de lien de dépendance entre elles, le coût engagé par Tri Pacific correspond à ce qu'elle a payé pour acheter l'objet de l'opération et, si ce qu'elle a payé est trop élevé, cela n'est pas pertinent puisqu'elle l'a acheté d'une partie avec laquelle elle n'avait pas de lien de dépendance. Il a ajouté :
+[TRADUCTION]
+Par conséquent, nous avançons que la somme de 370 000 $ a été dépensée pour gagner un revenu et qu'elle est donc, à juste titre, déductible dans le calcul du revenu pour l'année où on a cédé le projet, conformément à la méthode adoptée par le contribuable pour calculer son profit.
+Il a ensuite allégué :
+[TRADUCTION]
+La société a acheté le projet de Ray Roth et toutes les parties ont agi en conséquence à partir de ce moment. Le projet a été cédé en contrepartie d'un produit. En conséquence, lorsque nous mentionnons combien d'argent la société a tiré de cette entreprise, il faut soustraire son coût – de ses revenus pour obtenir le montant du profit.
+Les propos suivants ont été échangés entre la Cour et l'avocat :
+[TRADUCTION]
+La Cour : Mais vous avez dit que la somme avait été dépensée pour gagner un revenu. Pourquoi? Sur quoi vous fondez‑vous pour avancer cela? Qu'est‑ce qui a été vendu et a donné lieu au produit de 370 000 $?
+L'avocat : Je crois que c'était son – ce qu'il avait élaboré au titre du projet à ce moment‑là, il avait besoin de davantage de – d'argent et de ressources à y consacrer – il s'agissait d'un – d'une idée, et des frais ont été engagés [...]
+[Non souligné dans l'original.]
+Selon la thèse de l'avocat, la valeur ne peut être contestée en application de l'article 69 de la Loi puisque M. Roth et Tri Pacific n'ont pas de lien de dépendance entre eux. L'avocat a soutenu :
+[TRADUCTION]
+Ainsi, la société a payé 370 000 $ pour donner suite à cette entreprise, c'est ce qui correspond à son coût selon ses allégations. Maintenant, si nous étions en 1992, Ray Roth pourrait avoir un problème en ce qu'il a disposé de l'objet visé en faveur de la société en contrepartie d'un – d'un billet à ordre. Mais la Cour n'est pas saisie de l'année 1992 de Ray Roth et, dans le cas contraire, la Cour pourrait éprouver certaines difficultés avec – vous savez, établir – avec une quelconque certitude qu'il avait engagé ces frais.
+[Non souligné dans l'original.]
+[29] En ce qui concerne l'appelant Roth, l'avocat a déclaré :
+[TRADUCTION]
+Il était le bénéficiaire d'un billet à ordre émis par cette société. Il était propriétaire d'une chose non possessoire. Lorsque le billet a été payé, il y a eu disposition de la chose non possessoire.
+[...]
+Si le billet à ordre de 370 000 $ que Ray Roth détenait ou la partie de cette créance lui revenant et qui est représentée par les 370 000 $, si, dans les faits, il n'a engagé aucun coût, il n'a alors subi aucun coût au titre du billet. Et quand il reçoit le paiement de la société, il y a alors une disposition donnant lieu à un gain en capital, non à une attribution, et il s'agit là d'un fondement différent à l'appui de la cotisation. Vous ne pouvez conclure, par exemple, vous ne pourriez conclure – ce que vous concluez, c'est‑à‑dire que, dans les faits, le produit de disposition obtenu par Ray Roth en 1998 constituait un gain en capital et ordonner au ministre d'établir une nouvelle cotisation en conséquence. Vous ne pouvez faire cela parce que la partie de la loi en cause et un gain en capital constituent un fondement à l'appui d'une cotisation différent de celui prévu au paragraphe 15(1). Par conséquent, je crois qu'il détenait un bien. Il a obtenu de l'argent en contrepartie du bien. Peut‑être a‑t‑il réalisé un gain en capital et que cela ne fait pas l'objet d'une cotisation.
+Il a ensuite présenté des observations à cet égard en renvoyant à l'arrêt Pedwell c. Le Reine, C.A.F., no A‑703‑98, 12 juin 2000, 2000 D.T.C. 6405.
+[30] Revenant à nouveau à Tri Pacific, il a ajouté ce qui suit :
+[TRADUCTION] Supposons que M. Roth et la société n'avaient pas de lien de dépendance [...] Cela signifie que le coût subi par la société correspond à ce qu'elle a payé. L'article 69 ne s'applique pas. Elle a payé 370 000 $ au moyen d'un billet à ordre ou d'une dette contractée, peu importe comment vous voulez qualifier cette opération, et cela constitue donc le coût qu'elle a engagé.
+[Non souligné dans l'original.]
+[31] Après une discussion, l'avocat a affirmé que la société déduisait la somme de 370 000 $. Il a ensuite fait des observations au sujet de l'année au cours de laquelle un quelconque bénéfice avait pu être reçu, qu'il s'agisse de 1992, au moment de l'écriture de journal, ou de 1998, lorsque M. Roth a réellement reçu l'argent. Après d'autres arguments, il a fait valoir :
+[TRADUCTION]
+Du point de vue de la société, elle a acheté quelque chose d'une partie avec laquelle elle n'avait pas de lien de dépendance et cela fait partie du coût qu'elle a engagé. Elle a choisi de capitaliser ce coût et de le déduire lorsqu'elle a reçu le produit. Fin de l'histoire pour la société.
+Quant au particulier, il existe peut‑être une question fiscale en litige à son égard, mais elle remonterait à 1992. Ou à 1998, mais il s'agit d'un gain en capital et non d'un revenu – non d'une attribution.
+[Non souligné dans l'original.]
+[32] Pendant que l'avocat de l'appelant répondait aux observations de l'avocate de l'intimée, l'échange de propos suivant a eu lieu :
+[TRADUCTION]
+L'avocat : Au sujet de cette assertion formulée par ma consœur selon laquelle rien n'établit que le projet a été cédé à Tri Pacific Gas, l'écriture de journal reflète les conséquences économiques de la disposition. Une autre partie non liée était concernée. Le comportement à partir de ce moment –
+La Cour : Reflète la disposition de quoi?
+L'avocat : Du projet à la société.
+La Cour : Qu'est‑ce que ce projet?
+L'avocat : Installations de gaz naturel liquéfié.
+La Cour : Qu'est‑ce que ce projet, d'un point de vue juridique?
+L'avocat : Désolé, Monsieur le juge, mais ce qu'ils ont finalement vendu pour la somme de 585 000 $ –
+La Cour : C'est un des points que fait valoir l'avocate de l'intimée. Qu'est‑ce qui a été vendu?
+L'avocat : Des études économiques, des modèles, des études de génie, des modèles, des études de faisabilité, des compétences, du savoir‑faire. Ces choses ne tombent pas du ciel. Vous devez les créer. J'appelle cela un plan stratégique, un bien intellectuel peut‑être. Quoi qu'il en soit, l'écriture de journal reflète les conséquences économiques de la disposition. Une autre partie non liée était concernée. Le comportement des parties était compatible avec le fait que le projet soit cédé à la société. Le nom de cette dernière figure sur des ententes visant la vente du projet et elle a obtenu l'argent et elle l'a déclaré dans sa déclaration de revenus. Je ne vois pas combien d'autres éléments de preuve sont nécessaires pour établir que le projet a été cédé à la société.
+L'avocat a ensuite mentionné que l'opération conclue avec Tri Pacific avait un caractère de revenu et que :
+[TRADUCTION]
+La disposition par M. Roth, en faveur de la société, de son billet en 1998 constitue une opération en capital. Elle n'a aucun lien avec l'opération donnant lieu à un revenu de – de Tri Pacific.
+[33] Lorsque la Cour est revenue à la question de savoir quel bien avait été cédé, l'avocat a déclaré :
+[TRADUCTION]
+Tri Pacific Gas lui a acheté le projet pour la somme de 375 000 $ et il importe peu si elle a obtenu une boîte vide ou quoi que ce soit. Ses dépenses n'ont absolument aucune pertinence.
+[34] Je me penche maintenant sur ce que M. Roth a cédé, le cas échéant, à Tri Pacific en 1992. Il avait peut‑être l'intention de céder son intérêt, quel qu'il soit, dans ce qu'il a appelé le projet de GNL. Lui et son avocat ont employé divers termes pour désigner ce bien, quel qu'il soit. Il s'agissait tantôt d'un [TRADUCTION] « projet », tantôt de [TRADUCTION] « bien intellectuel », de [TRADUCTION] « savoir‑faire », de [TRADUCTION] « ce qu'il avait élaboré au titre du projet à ce moment‑là », d'une [TRADUCTION] « idée » ou de « la chose qu'il possédait, quelle qu'elle soit ».
+[35] Aucun élément de preuve établissant l'existence d'un acte de cession n'a été produit. Monsieur Roth a fait état de certaines dépenses totalisant une somme d'environ 370 000 $. Ces dépenses englobaient des frais d'ordre personnel. Toutes les sommes ont été engagées entre avril 1978 et la fin de 1981. En 1992, à la suggestion de M. Cripps, une écriture de journal a été passée dans les livres comptables de Tri Pacific selon laquelle la société devait cette somme à M. Roth. La preuve indique également qu'un billet à ordre a été établi par le cabinet Ernst & Young et que ce billet n'a pas été signé, mais qu'il a été paraphé dans un coin supérieur. De toute évidence, ce billet est demeuré en possession du cabinet Ernst & Young, M. Roth ayant mentionné dans son témoignage qu'il n'avait pas tenté de l'obtenir de ce dernier. Une écriture comptable ne peut avoir pour effet de créer des rapports juridiques. Elle peut uniquement être le reflet de tels rapports. En l'absence d'un élément de preuve établissant que M. Roth a, en droit, cédé quelque chose à Tri Pacific, l'écriture de journal n'a pas créé un droit exécutoire sur le plan juridique susceptible d'être exercé par M. Roth afin d'obtenir la somme ainsi consignée. Ces observations s'appliquent aussi au prétendu billet à ordre. Ce document, non signé par Tri Pacific, ne peut étayer l'existence d'un droit d'action dont disposerait M. Roth.
+[36] L'avocate de l'intimée n'a pas affirmé que M. Roth n'avait pas de lien de dépendance avec Tri Pacific. Lui et M. Cripps n'étaient que les deux seuls actionnaires, chacun détenant un nombre égal d'actions. Personne n'a mentionné si les statuts constitutifs précisaient que le président bénéficiait d'un vote prépondérant[7]. Cependant, cette observation ne peut être valable que si M. Roth a cédé quelque chose à Tri Pacific. Comme il est précisé plus haut, aucun document de quelque nature que ce soit n'a été mis en preuve relativement à la cession alléguée.
+[37] À n'en pas douter, M. Roth connaissait un certain nombre de facteurs touchant le projet de GNL proposé. La preuve ne permet pas de savoir si ces connaissances ont été constatées sous forme écrite ou électronique ou, à vrai dire, sous n'importe quelle autre forme. Cela donne fortement à penser que ce que M. Roth possédait consistait en de l'information, des idées, des connaissances et du savoir‑faire.
+[38] La Loi applicable à l'année d'imposition 1992 définit ainsi le terme « biens » :
+« biens » signifie des biens de toute nature, meubles ou immeubles, corporels ou incorporels et comprend, sans restreindre la portée générale de ce qui précède,
+a) un droit de quelque nature qu'il soit, une action ou part;
+b) à moins d'une intention contraire évidente, de l'argent;
+c) un avoir forestier;
+d) les travaux en cours d'une entreprise qui est une profession libérale;
+Il faut donc se demander si M. Roth a transféré des « biens », quels qu'ils soient, à Tri Pacific. Cela soulève la question de savoir si M. Roth possédait des « biens » au titre du projet proposé. Dans l'arrêt Musker v. English Electric Co., Ltd. (1964), 41 T.C. 556, lord Denning, maître des rôles, avait à se demander si le « savoir‑faire » constitue un « bien ». Il résume de façon succincte les faits dont il est saisi. La société English Electric Co., Ltd. a reçu certaines sommes en contrepartie de [TRADUCTION] « la vente de techniques de fabrication ou, selon l'expression actuelle, de savoir‑faire ». La question en litige n'était pas de savoir si le savoir‑faire avait été vendu, mais bien si la somme reçue en contrepartie de la technique de fabrication constituait une rentrée de capital ou un revenu. Une lettre‑contrat avait été conclue par la société et l'Amirauté de l'Angleterre selon laquelle la société s'engageait à fournir des techniques de fabrication à des détenteurs de licence en contrepartie de paiements forfaitaires. La société n'était pas elle‑même tenue de fabriquer les turbines marines, mais on lui demandait d'accorder des licences à des usines du Royaume‑Uni et du Commonwealth. Le Commonwealth d'Australie souhaitait fabriquer certains bombardiers en Australie. La société a donc conclu avec le Commonwealth d'Australie une entente par laquelle elle s'engageait à fournir en Australie :
+[TRADUCTION]
+(i) les dessins et les plans du bombardier Canberra, pour lesquels la société recevrait ₤ 13 000 par année;
+(ii) les techniques de fabrication prévues dans une annexe, pour lesquelles la société devait recevoir un paiement [...]
+[Non souligné dans l'original.]
+Lorsqu'il a examiné cette question, lord Denning a affirmé ce qui suit à la page 582 :
+[TRADUCTION]
+Il s'agit, selon moi, d'un cas typique de « savoir‑faire ». Les techniques de fabrication sont simplement du « savoir‑faire ». Le « savoir‑faire » est un actif intangible, aussi intangible que l'achalandage et aussi digne d'être reconnu. C'est un actif générateur de revenu, tout comme l'achalandage. Le « savoir‑faire » peut être utilisé pour produire un revenu de deux façons. Le fabricant peut l'utiliser lui‑même pour fabriquer des objets destinés à la vente et faire ainsi un profit; ou il peut l'enseigner à d'autres de façon qu'ils puissent fabriquer leurs propres objets, auquel cas on le paie pour la connaissance et les renseignements qu'il leur a ainsi cédés. Ces droits et rétributions constituent un revenu. Je tiens pour acquis, évidemment, que le fabricant, tout en enseignant aux autres, conserve toujours la connaissance et a l'intention de continuer à l'utiliser lui‑même et à s'en servir pour fabriquer des objets. Aussi longtemps qu'il agit ainsi, il conserve son actif en immobilisation et l'utilise seulement pour produire un revenu. Mais le « savoir‑faire » peut être utilisé pour produire une rentrée de capital. Il peut être vendu et engendrer des fonds de capital. C'est ce qui se produit lorsqu'un négociant ou un fabricant vend son achalandage ou son « savoir‑faire » à un acquéreur, se retire lui‑même du commerce et s'engage à ne pas utiliser le « savoir‑faire » ou l'achalandage au préjudice de l'acquéreur. Le prix d'achat qu'il reçoit constitue donc du capital.
+Il importe de remarquer que, dans cette affaire, la société a explicité la technique de fabrication dans une annexe. Voilà, à mon avis, un savoir‑faire constaté par écrit qui produit un actif constituant un bien susceptible d'être cédé.
+[39] Dans la Chambre des lords, le vicomte Radcliffe mentionne :
+[TRADUCTION]
+Il n'existe dans le « savoir‑faire » aucun droit de propriété qui peut être cédé, même au sens restreint qu'un procédé secret comporte un droit de propriété protégé par la loi. Les connaissances ou l'habileté particulières peuvent effectivement devenir un certain type de bien dans le domaine du commerce et de l'industrie, par exemple, le droit d'auteur, les marques de commerce, les dessins et les brevets, et lorsqu'un tel bien est cédé en contrepartie d'une somme d'argent, ce qui est reçu peut être, mais n'est pas nécessairement, une recette à titre de capital.
+[40] Dans l'arrêt Manrell c. La Reine, [2003] 3 C.F. 727, 2003 D.T.C. 5225, la Cour d'appel fédérale s'est penchée sur la question de savoir si le droit de faire concurrence peut être considéré comme un « bien » au sens de la Loi. Les paragraphes 24 et 25 des motifs du jugement sont reproduits ci‑dessous :
+[24] Dans l'ouvrage intitulé Principles of Property Law, 3e éd. (Scarborough : Carswell, 2000), le professeur Ziff dit ce qui suit au sujet de la question des biens à la page 2 :
+[TRADUCTION] Les biens sont parfois qualifiés d'ensemble de droits. Cette simple métaphore est une façon utile d'examiner le concept de base. Elle indique que les biens ne sont pas une chose, mais un droit, ou encore mieux, une collection de droits (sur des choses) qu'il est possible d'exercer contre d'autres personnes. Autrement dit, le mot « biens » signifie un ensemble de relations entre personnes qui se rapportent à la revendication d'objets corporels et d'objets incorporels.
+[25] Cette notion de « biens » donne implicitement à entendre que le mot « biens » doit comporter ou entraîner quelque droit exclusif de présenter une demande contre quelqu'un d'autre. Le droit général de faire une chose que n'importe qui peut faire, ou un droit possédé par chacun, n'est pas le « bien » de qui que ce soit. En l'espèce, la seule chose que M. Manrell possédait avant de signer l'entente de non‑concurrence et qu'il ne possédait pas par la suite était le droit qu'il partageait avec toute autre personne d'exploiter une entreprise. Quel que soit ce à quoi M. Manrell avait renoncé en signant cette entente, il ne s'agissait pas d'un « bien » au sens ordinaire de ce mot.
+Il convient de signaler qu'il existait une entente dans l'affaire Manrell. Aucun acte de cession n'existe en l'espèce; les seuls documents invoqués consistent en une écriture de journal et en un prétendu billet à ordre.
+[41] Ma conclusion est la suivante : les renseignements, les idées, les connaissances et le savoir‑faire ne sont pas visés par le sens du terme « biens ». Ils ne sont pas exclusifs à une seule personne et ils ne peuvent, dans cette simple forme, être qualifiés de biens. Il s'ensuit qu'aucun bien n'a été cédé par M. Roth à Tri Pacific. Il faut dire que, selon le contrat de gérance conclu par la coentreprise et Tri Pacific, les services à plein temps de M. Roth devaient être réservés en exclusivité à la coentreprise. Monsieur Roth devait être rétribué pour ses services. C'est ainsi que le savoir‑faire donne lieu à une rétribution économique, mis à part les cas où il y a élaboration de savoir‑faire sous une forme susceptible de commercialisation. Compte tenu de la situation, les dispositions du paragraphe 15(1) de la Loi, tel qu'il était libellé en 1998, s'appliquent à M. Roth et son appel devra donc être rejeté. La partie pertinente de ce paragraphe est ainsi rédigée :
+La valeur de l'avantage qu'une société confère, à un moment donné d'une année d'imposition, à un actionnaire [...] est incluse dans le calcul du revenu de l'actionnaire pour l'année [...] si cet avantage est conféré autrement que [dans des circonstances qui n'ont aucune pertinence en l'espèce]
+[42] Tri Pacific ne peut déduire la somme de 363 552 $, ni à titre de dépenses d'entreprise, ni à titre de coût d'une immobilisation dont elle a disposé. Elle n'avait aucune obligation juridique de payer cette somme à M. Roth. La preuve révèle que M. Roth a dépensé 371 726 $ au cours de la période allant d'avril 1978 à la fin de 1981. M. Roth a déclaré qu'à la suggestion de M. Cripps, il a pris les mesures suivantes :
+[TRADUCTION]
+[...] j'ai passé une écriture de journal. Et, selon cette écriture, la somme de 370 000 $ devait aller à Tri Pacific Gas comme – comme frais d'élaboration préalable et un billet à ordre de 370 000 $ devait être remis à M. Roth à titre de prêt – de prêt remboursable.
+Tri Pacific n'a été constituée en société qu'en 1992. Comme elle n'a acquis aucun bien de M. Roth, elle ne peut déduire des frais engagés par ce dernier entre 22 et 24 ans auparavant.
+[43] Bien que les prétendues opérations intervenues entre M. Roth et Tri Pacific aient peut‑être pu être structurées de manière à entraîner le résultat souhaité par les deux appelants, ce n'est pas ce qui s'est produit. Le fait de passer une écriture de journal et d'établir un document censé constituer un billet à ordre n'a pas eu pour effet de créer des rapports juridiques susceptibles de permettre aux parties d'obtenir gain de cause dans la présente affaire.
+[44] L'appel de chacun des appelants sera rejeté. La moitié d'un seul mémoire de frais sera payable à l'intimée par chacun des appelants.
+Signé à Ottawa, Canada, ce 5e jour d'août 2005.
+« R. D. Bell »
+Le juge Bell
+Traduction certifiée conforme
+ce 14e jour de mars 2007.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2005CCI484
+NO DU DOSSIER DE LA COUR : 2003-474(IT)G
+INTITULÉ DE LA CAUSE : RAY ROTH ET SA MAJESTÉ LA REINE
+NO DU DOSSIER DE LA COUR : 2003-473(IT)G
+INTITULÉ DE LA CAUSE : TRI PACIFIC GAS CORPORATION ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Calgary (Alberta)
+DATE DE L'AUDIENCE : Le 17 novembre 2004
+MOTIFS DU JUGEMENT PAR : L'honorable juge R. D. Bell
+DATE DU JUGEMENT : Le 5 août 2005
+COMPARUTIONS :
+Avocats de l'appelant :
+Me James W. Dunphy et
+Me Jonathan D. Warren
+Avocate de l'intimée :
+Me Julie Rogers-Glabush
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Nom : Me James W. Dunphy et
+Me Jonathan D. Warren
+Cabinet : Warren Tettensor Amatea LLP
+Pour l'intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Les actes de procédure font état d'une somme de 370 000 $. Cependant, les parties ont convenu à l'audience que la somme relative à M. Roth se chiffre à 371 726 $ et que celle relative à Tri Pacific se chiffre à 363 552 $. Pendant son témoignage, M. Roth a fait mention de la somme de 370 000 $.
+[2] La preuve a par la suite montré que BAS était l'actionnaire initiale de Tri Pacific et qu'elle avait cédé ses actions à M. Roth et à M. Cripps.
+[3] Par conséquent, aucun témoignage utile ni aucune preuve corroborante n'a pu être présenté par M. Cripps.
+[4] Le dictionnaire Oxford English Dictionary, deuxième édition, volume 4, définit ainsi le terme « cryogénie » [cryogenics] : [TRADUCTION] « branche de la physique qui s'intéresse à la production de très basses températures et à leurs effets sur la matière ».
+[5] Cette assertion paraît contredire l'hypothèse sur laquelle l'avocat des appelants s'est apparemment appuyé pour affirmer qu'il n'existait pas de lien de dépendance entre Tri Pacific et M. Roth puisque ce dernier et M. Cripps n'étaient pas liés.
+[6] Il faut se rappeler que l'exercice de Tri Pacific se serait terminé le 31 mars 1993, ce qui englobe la partie de l'année d'imposition 1992 de M. Roth pendant laquelle, selon ses assertions, l'écriture de journal a été passée.
+[7] Il n'est pas rare de trouver une disposition de ce genre dans les statuts constitutifs. La question de l'existence d'un lien de dépendance a amené l'avocat de l'appelant à conclure que la valeur de ce que M. Roth a cédé à Tri Pacific n'avait pas de pertinence puisqu'une entente était intervenue pour la somme de 370 000 $.

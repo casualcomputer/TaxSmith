@@ -1,0 +1,142 @@
+---
+title: "Langille v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29342/index.do"
+last_modified: "2009-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 398"
+citation2: ""
+neutral_citation: "2009 TCC 398"
+decision_date: "2009-05-05"
+language: "en"
+item_id: "29342"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6897
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:18:21.526000+00:00"
+cases_cited_count: 5
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3fc43038ff247fb5cb38ffe469f12744d533345681b7516d824404729c9ff603"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Langille v. The Queen
+
+- Citation: 2009 TCC 398
+- Decision date: 2009-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6897, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Langille v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-05-05
+Neutral citation
+2009 TCC 398
+File numbers
+2006-2246(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2009 TCC 398
+Date: 20090807
+Docket: 2006-2246(IT)G
+BETWEEN:
+ERIC R. LANGILLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+I. Introduction
+[1] Mr. Langille has been a successful businessman in both the dairy farming business and in the insurance brokerage business. He studied at Nova Scotia Agricultural College prior to running the family’s substantial Annapolis Valley family dairy farm for a number of years. Thereafter he qualified and became licensed in both the real estate and insurance sectors and continues to own a very successful insurance brokerage. His appeal raises two distinct tax questions. The first relates to losses incurred by him in the period 1999 to 2001 in respect of the ongoing winding up and liquidation of substantial farming assets, including large amounts of land, following the termination of the substantial dairy farming operations ten years earlier. The second issue relates to his post-farming career as an insurance broker and the 2001 rollover of his then substantial sole proprietorship insurance brokerage business to a private corporation owned by him or by him and his immediate family.
+[2] The taxpayer called two witnesses as did the Crown. No issues of credibility were raised and I have no concerns with the testimony of any of the witnesses. However, to the extent the Crown asked its witness from Transamerica Life Insurance Company (“Transamerica Life”) and its witness from the Canada Revenue Agency (“CRA”) whether amounts were properly taxable, I have entirely disregarded their testimony. That is properly a matter for argument by counsel and for me to decide.
+II. Farm-Related Losses
+[3] The Langille family operated a very substantial dairy farm in Nova Scotia’s Annapolis Valley for a number of years. The farm occupied approximately 3,000 acres and had approximately 1,000 cows. It was the largest dairy farm in Eastern Canada and was one of the largest family dairy farms in the country. It was a substantial farm and a substantial business in its own right. The parties agree it was a very extensive farming business.
+[4] After operating the farm in a family partnership for a period of approximately 20 years, the Langille family decided to no longer continue its farm operations. Given the commercial agriculture realities they faced, there was no expectation that there would be interest from prospective buyers of the farm as a going concern. Accordingly, the operations were discontinued and the assets of the business began to be liquidated. The liquidation of the livestock, the stationary equipment and the mobile equipment was a reasonably straightforward, efficient and prompt process. Given the amount of land involved, not surprisingly this proved to be more problematic. There were initial attempts to sell the farm as a single farm in one or two parcels. A couple of offshore offers were received but ultimately both potential transactions fell through. There was no local Canadian interest in a farm of this size in the Annapolis Valley. On the advice of real estate advisors it was decided to break up the property into a larger number of parcels for sale. Land sales followed and, according to the taxpayer, one or two parcels sold every two or three years with some regularity. The parcels of land owned by the taxpayer have been continuously listed for sale since the dairy operations ceased. In the years in question, the final remaining lots were listed with one of Mr. Langille’s brothers’ real estate brokerages since that brother’s post-farming career is in real estate.
+[5] The evidence indicated there were lots of competing, formerly operating farm properties for sale in the Annapolis Valley as many operating farms also wound up in the same timeframe and much of the area converted to hobby farms.
+[6] In the years in question, 1999 to 2001, a number of parcels remained unsold and apparently one sale is scheduled to close in May 2009 leaving three parcels still for sale.
+[7] The evidence did not disclose either the number or average size of the parcels of farmland, nor was I told how many had been sold or been unsold in the period up to 2001. I would have expected this information might have been helpful to the position of one side or other. I am left not knowing if we are talking about a dozen 200-acre parcels of farmland or a 3,000-acre community subdivided for residential estate home construction.
+[8] Throughout the period since dairy farm activities ended to the end of the years in question the land has remained in agricultural production. This was done both to maintain the economic value of the land for sale as well as for sound farmland management reasons. Apparently Mr. Langille has not been able to find anyone willing to crop the land for the past three years. The taxpayer received modest share-cropping revenues from the unrelated person cropping his land. These revenues ranged from $700 to $1,200 annually in the years in question. The taxpayer incurred expenses associated with the remaining parcels of cropped farmland for bank interest on the remaining refinanced historical farm debt, modest property taxes, a three-quarter ton farm truck that continued to be used to access, maintain and show the property, and related miscellaneous expenditures. Mr. Langille reported declining net business losses in 1999, 2000 and 2001 in the amounts of approximately $10,000, $5,000 and $1,300 respectively.
+[9] I am satisfied that the net business losses claimed by Mr. Langille in 1999 to 2001 were properly deductible. The evidence is that a sensible, commercially reasonable and entirely business-like approach was followed in liquidating the dairy farm assets following the suspension of its business operations. It is not unreasonable to think that the disposal of approximately 3,000 acres of farmland in the Annapolis Valley, after deciding there was no future viability of carrying on commercial farming operations on it, would not be a quick process. The taxpayer made business decisions on how to liquidate and maximize his proceeds thereby minimizing his shutdown expenses consistent with the advice he received, continuously tried to market and sell the remaining property, and did not use the property for any personal purposes. In the circumstances of this case, the period 1988 or 1989 through 2001 continues to be a reasonable period in which to continue to successfully conduct the liquidation in commercial fashion.
+[10] This approach to expenses incurred during a winding up period for a discontinued business was adopted by C. Miller J. in Heard v. Canada, [2001] 4 C.T.C. 2426 (see especially paragraph 15). The reasons of C. Miller J. in Heard were quoted approvingly by Hershfield J. in Mikhail v. Canada, [2002] 2 C.T.C. 2612 (at paragraph 34). The reasons of C. Miller J. and Hershfield J. are not diminished by the fact they were written in a pre-Stewart REOP world (Brian J. Stewart v. The Queen, 2002 SCC 46, 2002 DTC 6969).
+[11] As I wrote in Caballero v. The Queen, 2009 TCC 390, at paragraph 6:
+It is possible to commence to carry on a business for purposes of the Income Tax Act (the “Act”) before the business is operational. A business can be expected to have different types and different levels of activities throughout its course. What it does during its start-up or winding down phases can be expected to differ significantly from what it does during its operational phase. It may even have periods of relative dormancy when its normal operations are interrupted.
+In this case, I find we have a business that is continuing to be carried on in the year in question in the course of completing the winding down of the farming activities it had ceased to operate.
+[12] As stated by the House of Lords in South Behar Railway Company Limited v. I.R.C., [1925] A.C. 476 at 488: “Business is not confined to being busy; in many businesses long intervals of inactivity occur.” In that case the decision was: “The concern is still a going concern though a very quiet one.”
+[13] It was the respondent’s position that in the years 1999 to 2001 the taxpayer simply was not in a farming business. His activity in those years did not establish he was genuinely farming. The respondent did not consider the historical substantial commercial farm operations relevant. The CRA was either looking only at what was happening in the years 1999 to 2001, or treated those years’ activities as reflective of the past farming history of Mr. Langille. In the words of the CRA witness, that farm history was so far removed she just did not factor it in. Further, she was not aware there had been regularly recurring land sales since 1988. This means that the respondent was not looking at those losses as resulting from business shutdown expenses.
+[14] As a general rule, there is no reason that business shutdown or termination expenses incurred post-closure of operations cease to be deductible business expenses in ordinary commercial and business-like circumstances. If it were otherwise, Canadian businesses, whether manufacturers, mills, mines or otherwise, would be denied recognition of a potentially significant portion of the expenses associated with their taxable revenues. That would not be right and there are no express provisions of the Income Tax Act which would require it as a general principle. While no evidence was received on this point, I doubt very much that it would be in accordance with ordinary commercial principles or with Canadian generally accepted accounting principles.
+[15] The Crown argued that, after the dairy operations ended or at least for the years in question, the land was held for personal enjoyment or for investment purposes. There was no evidence to support the remaining listed lands being personal use property or being used for personal enjoyment. In order for me to conclude the lands ceased to be related to the shutdown dairy business and its use changed to being held as a capital investment asset, I would have to at least be persuaded that the taxpayer was not carrying on throughout a reasonable disposition of the farming assets. The evidence presented does not support such a conclusion and, where there is no personal or hobby aspect to a venture, it is not for the CRA to second-guess or overlook business decisions made by business owners relating to their businesses if the decision is not unreasonable.
+[16] On the Crown’s theory, section 45 would have applied at some point upon a change from an income-producing use to a non-income-producing use or from a business income-producing use to a property income-producing use by Mr. Langille. There is no evidence to support the position that the property ever ceased to be held or used for the purpose of gaining or producing business income. Section 45 was not pleaded by the Crown.
+[17] Mr. Langille’s appeal as it relates to the 1999 to 2001 losses resulting from the shutdown and winding up of the dairy farm will be allowed.
+III. Incorporation of Sole Proprietorship
+[18] Following his retirement from full-time farming activities in 1988, or in 1989, Mr. Langille pursued certification and careers in both the insurance and real estate brokerage sector. He obtained his qualifications and his licences for both. While he pursued working at both for a year, he settled in to solely life insurance and related products after his first year. One of his brothers similarly qualified and was licensed in both insurance and real estate and pursued both as his post-farming careers, but after a while settled on only working in the real estate brokerage business. That is the brother with whom the remaining farmland parcels were listed in the years in question.
+[19] Mr. Langille evidently was very successful in the insurance sector and left his employment with a major insurance company in 1999 to form his own insurance brokerage. He established it as a sole proprietorship named Maritime Financial Services (“MFS”). MFS was an independent brokerage and placed policies with a large number of major insurance companies. Mr. Langille’s insurance career continued to prosper as MFS.
+[20] In the fall of 2001 Mr. Langille decided it would make good sense to incorporate MFS as Maritimes Financial Services Incorporated (“MFSI”) which he did. In October 2001, he consulted the firm Grant Thornton for advice on whether and how to incorporate his brokerage business. Later that month he received Grant Thornton’s written recommendations on how to proceed. In late October or early November, Grant Thornton got Mr. Langille’s instructions to proceed and Grant Thornton then began providing instructions and directions to Mr. Langille’s counsel for the incorporation and business transfer. Grant Thornton delivered its written instructions to the law firm on Friday, November 16. That letter ended with the request that they be advised as soon as possible if the work could not be completed by end of day Monday, November 19.
+[21] Grant Thornton had been discussing the transaction with the lawyer involved throughout that week of November 12 to 16. MFSI was duly incorporated as a Nova Scotia company on Monday, November 19. Its Memorandum of Association was signed that day and its Nova Scotia Certificate of Registration shows a November 19 date of registration. The section 85 Asset for Share Purchase Agreement signed by Mr. Langille is dated as of November 22 and specifies a closing date of November 22. The Bill of Sale is also signed by Mr. Langille and dated November 22, as is Mr. Langille’s Employment Agreement with MFSI.
+[22] While all appears to have been done according to plan, apparently it was not. Mr. Langille said it was his intention that MFSI was to have been operating the former MFS business some time the week before, being the week of November 12 to 16. This is because there was a push on to get it done as soon as possible so that the tax advantages of incorporation could begin as quickly as possible before more commission cheques were received.
+[23] The significance of the extra week is that during the week preceding the incorporation and the execution of the MFSI documents, Mr. Langille received and deposited two commission cheques totalling approximately $150,000 payable in respect of insurance on a single insured placed by his brokerage with Transamerica Life. That policy was issued by Transamerica Life and in effect on November 9. Transamerica Life’s commission cheque was issued on November 9. It was deposited in MFS’ RBC Royal Bank account on November 14. The second commission cheque was deposited on November 16.
+[24] Mr. Langille has been reassessed to include those amounts in his 2001 income because the CRA believes the services were performed by him carrying on business as MFS and the cheques were received and cashed by him operating as MFS before MFSI was even incorporated. The respondent’s further position is that even if the rights to those commissions were transferred to MFSI by Mr. Langille, the income characteristics of the transferred amounts or rights remained Mr. Langille’s.
+[25] Mr. Langille’s position is that the commission income was not his but properly that of MFSI. Two main reasons are advanced in support of this. First, it was Mr. Langille’s intention to have had the incorporation and business transfer completed before the cheques were cashed. According to Mr. Langille, he confirmed that the business transfer was sufficiently advanced with Grant Thornton before depositing the cheques to be able to treat them as MFSI’s commission income. The partner from Grant Thornton who testified was unable to recall having had that conversation specifically although he was aware that there was a desire to implement the transaction as quickly as possible.
+[26] The second reason put forward on behalf of the taxpayer is that under the terms of the MFS Agency Agreement with Transamerica Life, the commission cheques were only 1/12th “earned” income and 11/12th advance or loan. This is because Transamerica Life paid an amount to its agents equal to an annualized commission for the sale of a policy even though it was only obliged to pay commission monthly as the policyholder’s monthly payments were received. If the policy lapsed or was surrendered or cancelled, the remaining unearned commission amount was expressly repayable as debt owing by the agent to Transamerica Life as issuer. As it turned out, the particular policy remained in effect and the agent’s commission amount was fully earned without any need for charge back.
+[27] Several other quirky facts should be noted. Firstly, MFSI did not, as things turned out, report this commission income. This is because the CRA had already proposed the reassessments adding them to Mr. Langille’s income before MFSI’s first year tax returns were due.
+[28] Secondly, even though Mr. Langille did not include the amounts as income, he did deduct in his personal return the related expenses including the significant sub‑commissions payable by him to other brokers involved in the sale of the particular policy. I am told by both Mr. Langille and the Grant Thornton witness that this was an oversight.
+[29] Thirdly, after the incorporation and the transfer of business to MFSI, MFSI continued throughout 2001 to use the business bank account opened by Mr. Langille personally for his MFS business. I do not know if or when this changed.
+[30] Lastly, I also know that the May 2001 Transamerica Life Agency Agreement with MFS specifically provides that the agent rights of Mr. Langille operating as MFS are not assignable and that he may not transfer any entitlement to compensation under the agreement without Transamerica Life’s prior written consent. No such consent or the need therefor was ever addressed in evidence.
+[31] I cannot accept that in a case such as this the taxpayer’s intention is relevant to applying the income tax law to the actual events and transactions which occurred. Intention could be relevant if the taxpayer was seeking rectification, but that would have to be pursued in a different court. Expressed intention could also be relevant in a claim by the taxpayer against his advisers but that too would have to be pursued in a different court. Lastly, intention may be relevant in support of a pre-incorporation transaction argument. No such argument was advanced at the hearing. I do not know why; my only knowledge of Nova Scotia law on this point was that there were no express provisions governing pre-incorporation transactions in the Nova Scotia company legislation. Following the hearing, brief written submissions were received from the appellant on this point. I am not persuaded that a pre-incorporation transaction ratification can extend to the documented post-incorporation asset transfer and related agreements. Nor am I satisfied on the evidence before me that MFSI ever ratified the transactions.
+[32] On the facts of this case, it is clear that virtually all of the agent services to be provided in connection with the policy(s) issued on November 9, 2001, which entitled the agent to receive the Transamerica Life cheque on November 9 (and a second cheque at or about the same time), and which entitled the agent to commissions pursuant to the Agent Agreement with Transamerica Life, had been provided before November 9. In such circumstances, a transfer of the right to receive the amount after the services were substantially provided does not also have the effect of transferring the income nature of the right from the transferor to the transferee. In this case, the right and entitlement to receive the amount under and in accordance with the Agency Agreement accrued first to Mr. Langille operating as MFS. The subsequent transfer of that right to the amount under the Agency Agreement, even if valid, does not change the fact that the value of the right to receive the amount, comprised at least in part of an absolute entitlement to commission and perhaps in part as an advance contingently convertible into outright commission, was earned by Mr. Langille for agent services rendered by him operating as MFS. It would no more transfer the income characteristics to the transferee than would a factoring transaction convert a retailer’s revenues into the revenues of the transferee factoring financial institution.
+[33] It was suggested that the Crown’s position may have been further supported had it pleaded subsection 56(4) in its reply. The failure to do so is not fatal on the facts of this case. Subsection 56(4) is not necessary in a case such as this. Subsection 56(4) operates to permit transfer of rights to income from property upon a transfer of the property. This is not a property income case.
+[34] The contingent aspect of the so-called “unearned” portion of the commission for which the advance was made under the terms of the Agency Agreement may have given rise to a valuation argument based upon the possibility that all or part of it may have to be repaid. No valuation evidence or argument was advanced and that may be because the transfer document and section 85 election would preclude it. I do not know and have not considered it.
+[35] Further, if MFSI was not incorporated until November 19, and no pre-incorporation transaction doctrine is applied, MFSI as a distinct person‑like legal entity could not have earned any income before it came into being. This type of retroactive taxation would be like trying to assess a natural person for tax on income generated while the person was still in the womb or a mere glint in someone’s eye.
+[36] There are significant Canadian tax decisions involving essentially similar issues with insurance brokerage commissions. The most recent is Destacamento v. The Queen, 2009 TCC 242, 2009 DTC 1155, an informal decision of V.A. Miller J. In that case the taxpayer was unsuccessful as regards the unearned portion of the commission that was also set up as a loan. An older oft-cited decision is that of the Exchequer Court of Canada in Robertson Ltd. v. M.N.R., [1944] Ex. C.R. 180, 2 DTC 655. Robertson involved an advance fee held as a deposit as distinct from an advance against future reasonably anticipated but unearned commissions set up as a loan. While the taxpayer in Robertson was successful, the case predated paragraph 12(1)(a) and section 32 dealing expressly with payments for services not yet earned and with unearned insurance commissions.
+[37] While Mr. Langille may have been able to advance an alternative argument that the unearned commission should only be included in his personal income in 2002 when it was earned and no longer a loan, he did not do so. Such an argument would have to deal with the wording and perhaps the intent behind paragraph 12(1)(a) and section 32, especially since section 32 deals with insurance commissions and expressly refers to unearned commissions. It may be that a court could be persuaded that the loan structure adopted by Transamerica Life in this case falls outside those provisions. However, absent persuasive argument I am unwilling to consider disagreeing with my colleague V.A. Miller J. in Destacamento.
+[38] Mr. Langille cannot succeed in his appeal in respect of his insurance brokerage commission revenues. Virtually all of the income-producing activity and effort was that of MFS. All that was left for MFSI to do was maintain good client relations in the form of continuing expertise and support availability with the insured to try to ensure the policy was not cancelled, surrendered or permitted to lapse during its term. While much of the amount or right transferred to MFSI was essentially an advance against future commission entitlements, those future commissions were in respect of a policy already issued and in respect of the existing term of that policy not dependent upon a renewal decision by the insured. As it turned out those advance commissions did end up being earned commissions.
+[39] In conclusion, the taxpayer’s appeal will be allowed as it relates to the business losses claimed in respect of the shutdown and winding up of the farm, and will be dismissed in respect of the insurance brokerage commission revenues. I will, as asked, delay signing written judgment for 30 days to permit the parties to make written submissions on costs.
+Signed at Ottawa, Canada, this 7th day of August 2009.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2009 TCC 398
+COURT FILE NO.: 2006-2246(IT)G
+STYLE OF CAUSE: ERIC R. LANGILLE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: May 5, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF REASONS
+FOR JUDGMENT: August 7, 2009
+APPEARANCES:
+Counsel for the appellant:
+Bruce S. Russell, Q.C.
+Bronwyn Duffy (student-at-law)
+Karen Stilwell (student-at-law)
+Counsel for the respondent:
+Sandra L. Doucette
+COUNSEL OF RECORD:
+For the appellant:
+Name: Bruce S. Russell, Q.C.
+Firm: McInnes Cooper
+Halifax, Nova Scotia
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

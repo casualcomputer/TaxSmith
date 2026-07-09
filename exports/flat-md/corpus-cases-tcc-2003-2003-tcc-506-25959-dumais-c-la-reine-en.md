@@ -1,0 +1,154 @@
+---
+title: "Dumais c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25959/index.do"
+last_modified: "2003-08-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 506"
+citation2: ""
+neutral_citation: "2003 TCC 506"
+decision_date: "2003-08-01"
+language: "en"
+item_id: "25959"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3757
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:53:17.898000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e19a6c223d17deb5c5de4786cc51dbfc3e5507a1097dfd6acddee3832adeeead"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dumais c. La Reine
+
+- Citation: 2003 TCC 506
+- Decision date: 2003-08-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3757, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dumais c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-01
+Neutral citation
+2003 TCC 506
+File numbers
+2002-350(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-350(IT)I
+BETWEEN:
+ROGER DUMAIS,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on June 9, 2003, at Jonquière, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Jean Dauphinais
+Counsel for the Respondent:
+Anne Poirier
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is allowed, and the assessment is vacated, with costs to the appellant, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1st day of August 2003.
+"Alain Tardif"
+Tardif, J.
+Translation certified true
+on this 4th day of August 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC506
+Date: 20030801
+Docket: 2002-350(IT)I
+BETWEEN:
+ROGER DUMAIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif, J.
+[1] This is an appeal concerning the 1999 taxation year.
+[2] The point for determination is whether the respondent was correct in disallowing the appellant an expense of $23,451 for the 1999 taxation year.
+[3] During the 1999 taxation year, the appellant operated a business under the style and trade name "Action Rénovation Enr.", a business that performed construction and renovation work of all kinds. The appellant moreover had a general contractor's licence.
+[4] In its commercial operations, the appellant's business, as a result of the intervention of a certain Gérard Tremblay, performed decontamination work at a residence severely damaged by flooding. The work was done in cooperation with a specialized firm, "Nettoyeur Premier". The cost of the work, which was entirely paid by the Government of Quebec, amounted to $23,450.73.
+[5] During that same year, the appellant, whose place of business was located in his spouse's residence, paid exactly the same amount for site clean-up work at the said residence. The work was required as a result of severe contamination caused by the infiltration of various liquids stored in one of the three barrels located a few feet from the residence. The barrels in question had been placed there in order to recover various substances used as part of the commercial operations of the business.
+[6] At first glance, certain facts, including the identical amounts of the two invoices, the way the information was treated from an accounting standpoint and the fact that the work was done so closely in time were likely to create a presumption that the decontamination work might possibly have been personal work benefiting the appellant's spouse, disguised as expenses of the business operated by the appellant.
+[7] As part of his mandate, the appellant's accountant reportedly questioned why the same amount was entered and withdrawn. He soon concluded that it was probably a contract performed for consideration equal to the cost of the work, without any profit.
+[8] He would normally have had to account for the income, which would have increased the income of the business accordingly. He did not do so. However, he did not conceal the amount in the business's accounting records. He essentially made entries having no effect on income or expenses by means of what is commonly called an "In and Out" transaction.
+[9] Although the accounting treatment was not consistent with good practice, it appears that the non-compliance with good practice had no effect on the appellant's tax burden.
+[10] Counsel for the respondent focused on certain inconsistencies in the appellant's claims. First, the description of the work performed by Nettoyeur Premier was somewhat awkward in that the work described was not consistent with the appellant's claims. The invoice was subsequently corrected or amended to make it consistent with the appellant's version.
+[11] She also noted that the work performed in August had apparently been done to a large degree in the fall, when the weather was cold and the work, according to the person who did it, had to be done with gloves on.
+[12] On the other hand, the appellant explained all the circumstances of the work he had to do or perform at his spouse's residence where his place of business was located.
+[13] He explained that he and/or his employees had gotten into the habit of putting trash, hazardous materials, metals and so on in one of the three barrels. One of the three barrels contained old oils and various liquid contaminants.
+[14] A number of persons confirmed the existence of the barrel containing the contaminating solutions. Mr. Massé, who did the decontamination work with an employee of the appellant at the time in question, said he had put contaminants in the barrel, thus confirming its presence. It became clear during the work that the liquid contaminants in the barrel were leaking toward the foundation of the residence where the appellant had his place of business.
+[15] The appellant first checked to see whether the insurance held by his business covered such damage. After finding out that it was not covered, he decided to assume the cost of the damage. He stated that he had contacted his insurer to obtain information on the matter.
+[16] This aspect was confirmed by the testimony of Doris Lamontagne, an insurance broker who admitted she had received a call on the matter, adding that no insurance policy covered this type of risk.
+[17] The appellant also contended that, if a claim had been made against his spouse's insurance, she would subsequently have claimed the amounts paid out for him by means of a subrogation.
+[18] A number of persons testified, each in the absence of the others. It appears from those testimonies that a number of the appellant's claims were confirmed on many details. I refer in particular to the barrel containing contaminants located a few feet from the residence affected. The contaminant materials, such as oil, creosote and so on, had been put there by one of the employees of the business, and they were materials used as part of the operations of the business. Photographs also showed that there was a contamination problem.
+[19] This is a case in which the credibility of the witnesses is a fundamental factor.
+[20] Since Mr. Massé, the owner of the company that performed the work, is deceased, he was unable to testify or provide his version of the facts.
+[21] The point for determination is whether the respondent was correct in disallowing the appellant an expense of $23,451 for the 1999 taxation year.
+[22] The balance of evidence shows that the appellant operated a business whose place of business was a location where he had placed three barrels to recover various substances as part of the commercial activities of his business. One of the barrels, the one in the middle, contained various liquids and contaminants.
+[23] The middle barrel containing pollutants leaked, and part of its contents drained into the soil and into the basement of the residence where the appellant's place of business was.
+[24] Not insured against the damage, the appellant decided to bear the cost by means of an agreement with a business for which he himself had done the work. It was then agreed between the parties that the two accounts would be set off against each other since both were for the same amount.
+[25] The accounting entries were not made in accordance with good practice but were not concealed. In actual fact, the result was the same from a tax standpoint as if the entries had been properly made, assuming of course that a business expense was involved.
+[26] Progress in this case required the presence or participation of a number of stakeholders, most of whom testified. The time elapsed between the moment the damage was reported and the time the work was done may have explained certain memory lapses or inconsistencies, but I found that the appellant's evidence on the important points was generally more consistent and coherent than the contrary.
+[27] Counsel for the respondent indeed noted the same inconsistencies as the Court. Were these sufficiently important points to completely discredit the evidence brought by the appellant? I do not believe so, particularly since those inconsistencies concerned rather secondary aspects.
+[28] The expense was disallowed on the ground that it was an essentially personal expense.
+[29] The basis on which the expense was characterized was the invoice describing the work performed to correct a construction defect on the right side of the foundation at the front of the house (subparagraph 15(o) of the Reply to the Notice of Appeal).
+[30] This was not an interpretation of the respondent but essentially the description of the work described and performed by Nettoyeur Premier.
+[31] The appellant disputed this premise. According to the appellant, in order to determine the cause of the problem, Mr. Massé had asked him a number of questions. In response to one of those questions, he said he had performed expansion work requiring that the foundation be extended. He thought that Mr. Massé had then concluded that the joint had probably been poorly done and, as a result, was not waterproof.
+[32] Visiting the site and looking at certain work soon ruled out this first assumption, which, despite the corrections made by Nettoyeur Premier (Exhibit I-2), had no effect on the way in which the respondent treated the expense.
+[33] It think it useful to reproduce the content of Exhibit I-2:
+[TRANSLATION]
+...
+Action Rénovation Enr.
+c/o Roger Dumais
+2186 St-Albert
+Jonquière, Quebec
+Mr. Dumais:
+As you requested, we are providing you with the information on the decontamination of your residence.
+It was clear during the clean-up at 2166 St-Albert, Jonquière, for Compagnie Action Rénovation that the spread of contaminants and bacteria could have originated elsewhere than in the foundation defect that we had considered the potential source. It is even more likely that the contaminants may have seeped in through the basement windows on the right side of the house because the wooden coping in front of them aids in the formation of bacteria and put them in a highly vulnerable location, which is also near barrels stored in the rear.
+...
+André Massé
+General Manager
+[34] Despite this correction regarding the nature of the work, the respondent still claimed that the expense was of a personal nature.
+[35] The balance of evidence shows that the work had to be done as a result of the infiltration of pollutants and contaminants stored in a recycling barrel and used as part of the operations of the appellant's business. The balance of evidence also shows that there was a causal relationship (causa-causam) between the storage of the contaminants, the leak in the container and the damage requiring repairs.
+[36] The cost of the repairs was a consequence of the damage caused involuntarily within the operations or commercial activities of the appellant's business. But does that mean that the expense could be characterized as having been made for the purpose of earning income?
+[37] The expense in this case was not incurred as a result of a court judgment or as part of an out-of-court settlement, which would have clarified the correlation between the actual damage and the cost paid for repairs to the damage caused by the infiltration.
+[38] This aspect could have been important if the payment had been made to the appellant's spouse. Although there was no detailed breakdown of that payment, the compensation was made between persons dealing with each other at arm's length, thus reducing the possibility of any benefit. I will go no further in this direction, particularly since this is a hypothetical issue.
+[39] The balance of evidence shows that the expense at issue was required to repair damage caused involuntarily to the appellant's business as part of its usual current operations.
+[40] I conclude that the respondent had no basis for disallowing the expense, as a result of which the appeal is allowed and the assessment is vacated, the whole with costs to the appellant.
+Signed at Ottawa, Canada, this 1st day of August 2003.
+"Alain Tardif"
+Tardif, J.
+Translation certified true
+on this 4th day of August 2004.
+Sophie Debbané, Revisor

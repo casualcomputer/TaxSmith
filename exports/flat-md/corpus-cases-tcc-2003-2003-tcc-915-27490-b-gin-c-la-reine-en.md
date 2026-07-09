@@ -1,0 +1,141 @@
+---
+title: "Bégin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27490/index.do"
+last_modified: "2003-12-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 915"
+citation2: ""
+neutral_citation: "2003 TCC 915"
+decision_date: "2003-12-10"
+language: "en"
+item_id: "27490"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 48
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:22:23.395000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d60248e602dfb9b6feacaee07db0f7fedc61936afa45d28e388436f783be4ed6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bégin c. La Reine
+
+- Citation: 2003 TCC 915
+- Decision date: 2003-12-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 48, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bégin c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-10
+Neutral citation
+2003 TCC 915
+File numbers
+2003-1246(IT)I
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1246(IT)I
+BETWEEN:
+GEORGES BÉGIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 18, 2003, at Québec, Quebec
+Before: The Honourable Judge P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Daniel Cantin
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 10th day of December 2003.
+"P. R. Dussault"
+Dussault, J.
+Translation certified true
+on this 24th day of March 2004.
+Sharlene Cooper, Translator
+Reference: 2003TCC915
+Date: 20031210
+Docket: 2003-1246(IT)I
+BETWEEN:
+GEORGES BÉGIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Dussault, J.
+[1] The only point at issue in this appeal from an assessment made for the 2001 taxation year concerns the refusal of the Minister of National Revenue ("Minister") to allow the Appellant a deduction for support payments in the amount of $7,494, representing a total of $1,249 per month for the period from January to June 2001. In addition, a sum of $4,500 was awarded for this purpose, representing a total of $900 per month for the period from July to December 2001.
+[2] Further to a judgment concerning interim relief rendered on July 9, 1998, a divorce decree between the Appellant and Ms. Claire Bérubé was delivered on February 22, 1999. Pursuant to this decree, the Appellant was ordered to pay monthly support to Ms. Bérubé in the amount of $1,107.92 for the two dependent children as well as spousal support in the amount of $1,200 per month. The decree specified that the support would be indexed on the first day of January of each year based on the annual Pension Index (Exhibit A-2). Pursuant to the same decree, the Appellant was also ordered to pay Ms. Bérubé, with respect to family patrimony and as support, a total of $19,182 as well as an additional $5,000 as an allowance for expenses. These amounts were payable within 30 days of the decree.
+[3] As of January 1, 2000, the Appellant stopped paying both of the support amounts set out in the decree of February 22, 1999, on the grounds that the two children no longer resided with Ms. Bérubé and the Appellant was solely responsible for all of the costs associated with their maintenance.
+[4] On April 6, 2000, the Appellant brought a motion before the Superior Court to amend the corollary relief. The parties entered into negotiations, with each party represented by Counsel. Both parties and their Counsel signed an agreement on corollary relief on June 28, and July 3, 2001 respectively (Exhibit A-3). The Superior Court confirmed the agreement on August 2, 2001. Paragraphs 1, 5, 6, 7, 8, 9 and 13 of the agreement are the most relevant to this case. They read as follows:
+[translation]
+1. Mr. Bégin shall not pay support to Ms. Bérubé for the benefit of children who have reached the age of majority, so long as the latter do not reside with Ms. Bérubé;
+...
+5. With regard to the support amounts that Mr. Bégin owes to Ms. Bérubé as at the date of this Agreement, in principal, interest and indexation, retroactive to the date of the divorce decree, Mr. Bégin shall pay Ms. Bérubé the sum of $34,000, payable in cash in a single payment within 24 hours of the decree confirming this Agreement;
+6. Mr. Bégin undertakes to pay support payments to Ms. Bérubé, from the date of the decree confirming this Agreement, in the amount of $900 per month for a maximum period of 24 months;
+7. The support payments set out in the preceding paragraph shall be held in the trust account of Gagné, Letarte, which shall pay Ms. Bérubé a total of $900 every month during the agreed-upon 24-month period;
+8. This Agreement concerning the support obligations of Mr. Bégin to Ms. Bérubé constitutes a "clean break" that extinguishes any and all future support obligations of Mr. Bégin to Ms. Bérubé;
+9. Subject to the full execution of paragraphs 5 and 6 of this Agreement, the parties grant each other full and final release and absolutely renounce any and all future support payments and/or other claims, in any form, arising from the marriage and/or its breakdown, including the divorce decree;
+...
+13. Ms. Bérubé gives a discharge and release of any amounts she may be owed, other than those set out in this Agreement; consequently, she agrees to vacate any and all seizures made in this case.
+[5] The Appellant confirms the following in his Notice of Appeal:
+[translation]
+The support amount of $12,894 is fully admissible, as it is based on a new decree dated June 28, 2001. Furthermore, no support payments were in arrears for 2001 and I have had sole responsibility for the children since January 1, 2000.
+[6] The said amount of $12,894, which the Appellant claimed as a support deduction, is the result of adding $7,494 ($1,249 per month from January to June 2001) and $5,400 ($900 per month from July to December 2001, including a $900 security deposit). Deduction of the $900 that was given as security and not paid to Ms. Bérubé in 2001 was disallowed. The Appellant does not contest this point.
+[7] In addition, I note that the "new decree" is dated August 2, not June 28, 2001, which is simply the date on which Ms. Bérubé and her counsel signed the agreement.
+[8] The statement to the effect that [translation] "... no support payments were in arrears for 2001..." is false. Indeed, according to the statement of account from the Quebec ministère du Revenu, under An Act to facilitate the payment of support, arrears concerning the two support payments that the Appellant was required to pay pursuant to the decree of February 22, 1999 totalled $45,171.97 as at August 1, 2001 (Exhibit A-4). The evidence reveals that as of January 2000, the Appellant stopped paying Ms. Bérubé the child support and spousal support payments required under the decree of February 22, 1999.
+[9] In reality, the $7,494 that the Appellant claimed as a support deduction in 2001 represents a portion of the $34,000 paid to Ms. Bérubé under the agreement confirmed by the Superior Court on August 2, 2001. The Appellant describes this portion as six payments (from January to June 2001) of the monthly $1,200 support amount (indexed at $1,249 per month), which he was required to pay to Ms. Bérubé as spousal support pursuant to the decree of February 22, 1999.
+[10] In addition, Ms. Bérubé testified that the $34,000 payment set out in the agreement was in full settlement of the matter between Ms. Bérubé and the Appellant, not only that which the Appellant owed to her in support payments. In particular, she mentioned the sum of $19,000 that she was owed as family patrimony, an amount payable to her pursuant to the decree of February 22, 1999, as well as other amounts she was owed for legal costs. However, according to the statement from the Quebec ministère du Revenu (Exhibit A-4), a sum of $19,182, payable as support pursuant to the decree of February 22, 1999, had been cancelled on April 4, 2001. No one required or provided an explanation in this regard.
+[11] Counsel for the Appellant maintains that payment of the $34,000 actually represents the payment of arrears of the payments due, that the payment does not change character because the support payments were not paid on time, that the Appellant's obligation to pay support to Ms. Bérubé was not extinguished as a result of this payment, rather it continues in the future, and that this obligation was simply reduced. Thus, he believes that the $7,494 qualifies as deductible support pursuant to subsection 56.1(4) and paragraph 60(b) of the Income Tax Act ("Act"). In support of his arguments, Counsel for the Appellant refers to the decisions rendered in Helmer v. M.N.R., 63 DTC 532, The Queen v. Barbara D. Sills, [1985] 2 F.C. 200, Charrier v. M.N.R., [1988] T.C.J. No. 735 (Q.L.), Soldera v. M.N.R., 91 DTC 987 and Gibson v. R., 95 DTC 749.
+[12] Counsel for the Respondent maintains that payment of the $34,000 in no way corresponds to the arrears of over $45,000, which the Appellant owed as at August 1, 2001, that the obligation to pay child support was extinguished and that the obligation to pay Ms. Bérubé support in the amount of $1,200 per month, indexed, was reduced to $900 per month, unindexed, for a 24-month period only. In her opinion, the obligation to pay both support amounts pursuant to the decree of February 22, 1999 was extinguished.
+[13] Furthermore, Counsel for the Respondent refers to paragraph 13 of the agreement between the parties under which Ms. Bérubé [translation] "gives a discharge and release of any amounts she may be owed other than those set out in this Agreement..."
+[14] In short, Counsel for the Respondent maintains that payment of the $34,000 cannot represent a deductible support amount for the Appellant. In support of her arguments, Counsel for the Respondent refers to the decisions rendered in MacBurnie v. Canada, [1995] T.C.J. No. 817 (Q.L.), Widmer v. R., [1996] 1 C.T.C. 2647, LeBreton c. Canada, [2002] T.C.J. No 474 (Q.L.) and Jennings v. R., [2002] 2 C.T.C. 2210.
+[15] Pursuant to the decree of February 22, 1999, the Appellant had the obligation to pay Ms. Bérubé a monthly child support amount of $1,107.92, indexed, and a monthly spousal support amount of $1,200.00, indexed. As at August 1, 2001, arrears in relation to these two support amounts totalled $45,171.97. In addition, according to Ms. Bérubé's testimony, and as one can infer from paragraph 13 of the agreement confirmed by the Superior Court on August 2, 2001, other amounts were owed to Ms. Bérubé.
+[16] Pursuant to the agreement, in consideration for payment of a lump sum of $34,000 and a sum of $900 per month, unindexed, for a period of 24 months, the Appellant was released from his obligation to pay Ms. Bérubé future child support payments and from his obligation to pay spousal support beyond the 24-month period. He was fully released from his obligation to pay arrears of over $45,000 in relation to the two support amounts set out in the decree of February 22, 1999. Finally, he was released from his obligation to pay any other amounts owing to Ms. Bérubé.
+[17] As paragraph 8 of the agreement states: [translation] "This Agreement concerning the support obligations of Mr. Bégin to Ms. Bérubé constitutes a "clean break" that extinguishes any and all future support obligations of Mr. Bégin to Ms. Bérubé."
+[18] In my opinion, the wording used in this agreement is too different from the wording used in the decree of February 22, 1999 to confirm that the sum of $34,000, or a portion thereof, that is, the $7,494 the Appellant claimed, can be considered payable simply as arrears of the spousal support amount payable to Ms. Bérubé as set out in the decree of February 22, 1999. Indeed, it is important to remember that under the new tax system implemented as of May 1, 1997, the Appellant could not deduct the child support amount payable.
+[19] I believe that the principle described by the Supreme Court of Canada in Minister of National Revenue v. Armstrong, [1956] S.C.R. 446, is applicable in this case and that the $34,000, or any portion thereof, cannot be considered to be "an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient..." [translation] "pursuant to the decree of February 22, 1999." The amounts payable, pursuant to the agreement confirmed by the Superior Court on August 2, 2001, clearly released the Appellant from all future obligations imposed by this decree.
+[20] In Sills (supra), no subsequent agreement could amend the written agreement that was signed by the parties and three payments of $1,000 were considered to be payment of arrears owing under the agreement, because the payment was always less than that of the arrears owing.
+[21] In Soldera (supra), at the time of the second order, the taxpayer owed arrears of $14,000 in relation to a support amount set out in the first order. One particular paragraph in the second order specified that arrears were henceforth fixed at $7,500 such that payment of this amount was considered to be partial payment of arrears of the support amount set out in the first order. The second order reduced future monthly support payments from $200 to $100. Chief Justice Garon, of this Court, felt that no provision in the second order released the taxpayer from his existing or future liability in respect of the maintenance of his children. In his view, this liability was essentially reduced for the past and the future.
+[22] In addition, in Widmer (supra), arrears of $50,590 were owed to the Appellant in relation to a monthly maintenance payment of $795, as set out in an order for the maintenance of three children. Following negotiations between the parties, the Appellant agreed to accept a sum of $15,000 and to a reduction in the future monthly support amount from $795 to $600. Since the amount received was so different and so much smaller than the amount owed, it was not regarded as having the same character as the amount owed, that is, "for the maintenance of the children," but rather as an amount paid by the payer to obtain a release from his existing obligations and a reduction in his future obligations.
+[23] In this case, it is clear that payment of $34,000 and monthly support payments of $900, unindexed, for a limited period of 24 months, releases the Appellant from any future support obligation to Ms. Bérubé, and that this obligation arises from marriage, its breakdown or a divorce decree. Paragraphs 8 and 9 of the agreement, supra, leave little doubt concerning this matter. Paragraph 13 settles it in that Ms. Bérubé discharges and releases any other amounts she may be owed.
+[24] In this sense, I feel that the sum of $34,000 is not of the same character and does not reflect the support obligations imposed on the Appellant under the decree of February 22, 1999. It is a capital payment made by the Appellant to obtain release from the support obligations imposed by this decree. Consequently, the partial payment of this amount, that is $7,494, is not deductible as a support amount within the meaning of subsection 56.1(4) and paragraph 60(b) of the Act.
+[25] In light of the foregoing, the appeal is dismissed.
+Signed at Ottawa, Canada this 10th day of December 2003.
+"P. R. Dussault"
+Dussault, J.
+Translation certified true
+on this 25th day of March 2004.
+Sharlene Cooper, Translator

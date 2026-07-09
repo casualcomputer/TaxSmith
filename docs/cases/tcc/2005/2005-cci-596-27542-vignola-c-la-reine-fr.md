@@ -1,0 +1,177 @@
+---
+title: "Vignola c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27542/index.do"
+last_modified: "2005-10-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 596"
+citation2: ""
+neutral_citation: "2005 CCI 596"
+decision_date: "2005-10-05"
+language: "fr"
+item_id: "27542"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 104
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:27:54.421000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b2de2966dd259c3c2b95f0b8d6b62d5e749a39b001ac34f165246e70b87ca161"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vignola c. La Reine
+
+- Citation: 2005 CCI 596
+- Decision date: 2005-10-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 104, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vignola c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-05
+Référence neutre
+2005 CCI 596
+Numéro de dossier
+2005-1516(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1516(IT)I
+ENTRE :
+RAYNALD VIGNOLA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 30 août 2005, à Baie-Comeau (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelant :
+Jean-Louis Martel
+Avocate de l'intimée :
+Me Nadine Dupuis
+____________________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000, 2001 et 2002 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour d'octobre 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI596
+Date : 20051005
+Dossier : 2005-1516(IT)I
+ENTRE :
+RAYNALD VIGNOLA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif aux années d'imposition 2000, 2001 et 2002. La question en litige consiste à déterminer si le ministre du Revenu national (le « ministre » ) a correctement ajouté dans le calcul des revenus de l'appelant pour ces années les sommes de 17 448 $, de 14 152 $ et de 9 536 $, respectivement, à titre d'avantages conférés à un actionnaire de la société « Perfico Sports inc. » découlant de l'utilisation personnelle de l'immeuble sis au 112, rue Beauchemin, dans la ville de Baie-Comeau, propriété de ladite société.
+[2] Le ministre s'est fondé sur les hypothèses de fait suivantes pour établir les cotisations :
+a) l'appelant, pendant les années d'imposition en litige, était l'actionnaire majoritaire, le président du conseil d'administration et l'un des administrateurs de la société « Perfico Sports inc. » ; (admis)
+b) la société « Perfico Sports inc. » possède un immeuble dans lequel l'appelant et son épouse, madame Estelle Boulianne, demeuraient pendant la période en litige; (admis)
+c) la société « Perfico Sports inc. » a défrayé tous les frais reliés à l'immeuble dans lequel l'appelant et son épouse, madame Estelle Boulianne, demeuraient pendant la période en litige;(admis)
+d) aucun revenu de location n'était perçu comme tel, sauf qu'à la fin de chaque exercice financier, une écriture de régularisation était débité au compte « Avances à un actionnaire » , à l'égard des frais reliés à l'immeuble et défrayés par la société « Perfico Sports inc. » ; (admis)
+e) le solde du compte « Avances à un actionnaire » était créditeur à la fin des exercices financiers des années d'imposition 1999, 2000, et néant en 2002; (admis)
+f) devant une telle situation, le ministre a soumis le dossier à la section des Évaluations de biens immobiliers afin de déterminer l'avantage annuel relié à l'utilisation personnelle de l'immeuble sis au 112, rue Beauchemin, dans la ville de Baie-Comeau; (admis)
+g) l'immeuble sis au 112, rue Beauchemin, dans la ville de Baie-Comeau, est une résidence de type unifamiliale dont la date de construction remonte à 1986; (admis)
+h) l'avantage annuel relié à l'utilisation personnelle de l'immeuble sis au 112, rue Beauchemin, dans la ville de Baie-Comeau a été calculé ainsi : (nié)
+i)
+avantage selon l'évaluation, mais avant de considérer les frais de fonctionnement
+2000
+15 165
+2001
+12 656
+2002
+10 921
+plus : les frais payés par la société :
+électricité
+assurances
+taxes foncières
+taxes scolaires
+2 751
+262
+4 162
+308
+22 648
+2 447
+262
+4 200
+320
+19 875
+2 498
+262
+4 486
+315
+18 482
+moins : écritures de régularisation
+avantage
+5 200
+17 448
+5 723
+14 152
+8 946
+9 536
+(nié)
+[3] L'appelant était représenté par son comptable, monsieur Jean-Louis Martel. Toutes les hypothèses de fait ont été admises, à l'exception de celles figurant aux alinéas h) et i). Les seules observations de l'appelant et de son représentant étaient à l'effet que la méthode de calcul retenue par l'intimée était tout à fait déraisonnable.
+[4] D'entrée de jeu, monsieur Martel a admis que le travail préparé par le témoin-expert de l'intimée, madame Nathalie Locas, qu'il a d'ailleurs reconnu comme experte, en la matière, avait été très bien fait. Cependant, il a déclaré qu'il n'était tout simplement pas d'accord avec les conclusions retenues.
+[5] Selon monsieur Martel, son client et la compagnie qu'il contrôlait avaient convenu plusieurs années auparavant, en vertu d'un bail verbal, que le coût du loyer serait de 1 000 $ par mois.
+[6] Monsieur Martel a soutenu que le dossier de son client avait déjà fait l'objet d'une révision fiscale et que sa façon de calculer l'avantage avait été acceptée. Il ne comprenait donc pas pourquoi le dossier faisait encore l'objet de nouvelles cotisations.
+[7] Monsieur Martel a expliqué très sommairement la façon dont il procédait pour le calcul de l'avantage; il a aussi indiqué que son client payait de sa poche plusieurs dépenses, tels l'entretien et le aménagement paysager, qui ne faisaient l'objet d'aucune entrée comptable, mais dont il devait être tenu compte.
+[8] Selon monsieur Martel, le loyer établi verbalement au montant de 1 000 $ par mois est demeuré inchangé pendant près de 20 ans. Il n'avait pas à être réajusté au fil des ans puisqu'il s'agissait d'une entente comparable à un bail à long terme.
+[9] Monsieur Martel a répété à plusieurs reprises qu'il trouvait déraisonnable l'approche de l'intimée. Selon lui, la façon de faire de son client était acceptable et devrait être retenue par le ministère, d'autant plus qu'elle avait déjà été acceptée.
+[10] L'appelant, monsieur Raynald Vignola, a confirmé certains aspects du témoignage de monsieur Martel, son comptable, ajoutant qu'au moment de l'acquisition de la résidence par la compagnie, il y avait injecté 43 000 $ de son propre argent, à la suite de la vente de sa résidence précédente, en 1986. Il a également fait état des différentes dépenses qu'il faisait pour l'entretien de la maison et qu'il n'a pas déclarées. Il a expliqué que la résidence avait été ajoutée aux actifs de la société de manière à ce qu'elle puisse obtenir du financement plus facilement. Bien qu'à un certain moment il ait été question que la société lui transfère la résidence ce transfert ne s'est jamais produit.
+[11] Non seulement, la preuve soumise par l'appelant et son comptable manquait de rigueur, mais elle n'était pas très crédible, eu égard aux données prises en considération pour les années en cause.
+[12] Après avoir reconnu que son client avait bénéficié d'un avantage, le comptable a calculé la valeur de cet avantage un peu à la bonne franquette.
+[13] Selon le comptable, en effet, la contrepartie établie verbalement au début des années 80 était la même au cours des années d'imposition et il ne voyait pas pourquoi elle aurait dû être révisée à la hausse bien qu'il n'ignorait pas que tous les frais inhérents, tels chauffage, taxes, etc., avaient évidemment fait l'objet d'augmentations considérables au fil des ans.
+[14] De son côté, l'intimée a fait entendre madame Locas, dont le statut d'experte a été reconnu par l'appelant et son représentant. Elle a expliqué le cheminement qu'elle avait suivi pour faire le calcul de l'avantage imposable. Son témoignage n'a pas fait l'objet d'un contre-interrogatoire de la part de l'appelant ou de son représentant. Le représentant de l'appelant a même reconnu la qualité du travail exécuté par madame Locas et a essentiellement fait valoir qu'il n'était pas d'accord avec sa conclusion ni avec la façon qu'elle y est arrivée.
+[15] Le fardeau de la preuve incombait à l'appelant; ce fardeau de la preuve exigeait de l'appelant qu'il fasse une démonstration de son évaluation de la valeur de l'avantage; en d'autres termes, l'appelant devait soumettre un ou des calculs démontrant la raisonnabilité des données utilisées et surtout la raisonnabilité de ses conclusions. Non seulement l'appelant n'a pas fait cette démonstration, les seules explications soumises discréditent totalement le fondement de ses prétentions. En effet, comment justifier qu'une évaluation établie arbitrairement au début des années 80 corresponde toujours à la juste valeur? Le marché immobilier et le marché locatif ont subi des changements considérables, d'où les valeurs qui prévalaient à cette époque n'avaient plus aucune signification lors des années concernées par les cotisations, soit les années 2000, 2001 et 2002.
+[16] En d'autres termes, les arguments et explications soumises par l'appelant pour justifier son évaluation sont irrévocables à leur face même. Bien plus, ils sont totalement déraisonnables étant donné que le raisonnement ne tient aucunement compte des données pertinentes contemporaines aux années visées par les cotisations.
+[17] De son côté, l'intimée a soumis une présentation dont le cheminement a été expliqué dans le cadre d'un rapport d'expert; les montants retenus dans sa conclusion bien qu'assez élevés ne sont pas pour autant déraisonnables.
+[18] Les données utilisées étaient valables et pertinentes et l'arbitraire était absent. Je n'ai aucune raison de ne pas donner foi aux conclusions de l'intimée. Conséquemment, je reconnais le bien-fondé des cotisations, confirmé par la qualité du travail de madame Locas.
+[19] Pour toutes ces raisons, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 5e jour d'octobre 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2005CCI596
+N º DU DOSSIER DE LA COUR : 2005-1516(IT)I
+INTITULÉ DE LA CAUSE : Raynald Vignola et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Baie-Comeau (Québec)
+DATE DE L'AUDIENCE : le 30 août 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 5 octobre 2005
+COMPARUTIONS :
+Représentant de l'appelant :
+Jean-Louis Martel
+Avocate de l'intimée :
+Me Nadine Dupuis
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

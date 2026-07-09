@@ -1,0 +1,181 @@
+Title: Ehrhardt v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28484/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-112-28484-ehrhardt-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-02-20
+
+# Ehrhardt v. The Queen
+
+- Citation: 2008 TCC 112
+- Decision date: 2008-02-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1281, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ehrhardt v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-20
+Neutral citation
+2008 TCC 112
+File numbers
+2005-3705(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3705(IT)G
+BETWEEN:
+KAREN EHRHARDT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 7, 2007, at Vancouver, British Columbia
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Daniel Kiselbach and Sarah Hansen
+Counsel for the Respondent:
+Linda Bell
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act, notice of which is dated April 7, 2004, and bears number 28037 is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Appellant.
+Signed at Ottawa, Canada, this 20th day of February, 2008.
+“C.H. McArthur”
+McArthur J.
+Citation: 2008TCC112
+Date: 20080220
+Docket: 2005-3705(IT)G
+BETWEEN:
+KAREN EHRHARDT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] This appeal is from an assessment of the Minister of National Revenue (the “Minister”) pursuant to subsection 227.1(1) of the Income Tax Act (the “Act”). The assessment is for federal income tax deducted at source but not remitted or not deducted and remitted, by Hometek Manufactured Home Builders Inc. (“Hometek”) together with interest and penalties. The primary issue boils down to whether the Appellant exercised the degree of care, diligence and skill to prevent the failure of Hometek to deduct and/or remit all Federal Government withholdings including income tax, employment insurance premiums, and Canada Pension Plan contributions from its employees for the period October 1, 2001 to June 30, 2002.
+[2] The Appellant was originally assessed for the entire period January 1, 2001 to June 30, 2002. However, during the hearing of the appeal, the Minister amended the commencement date from January 1, 2001 to October 1, 2001. The relevant period is, therefore, as mentioned above, October 1, 2001 to June 30, 2002 and the assessment amount is substantially reduced from the original amount of $322,869.88. The Appellant also challenged the accuracy of the assessment which I will deal with before the conclusion of these Reasons. The hearing lasted six days and there were five Appellant witnesses for the Appellant, and two for the Minister. For the most part, the evidence was provided by David Ehrhardt and Ken Bayntun.
+Facts
+[3] Some of the facts set out by the Appellant in her Notice of Appeal were substantially proven and are integrated, in part, in the following summary. In 1995, David Ehrhardt, his business partner, Louis Bortolazzo, and Ken Bayntun incorporated Real Engineered Homes Inc. (“Real”) to manufacture and sell modular homes from operations in Penticton, British Columbia. The company did reasonably well during its early years and it evolved into three related corporations, Real Engineered Homes Inc., Harbour Manufactured Homes Inc. (“Harbour”) and Hometek, referred to collectively as “the Group”. During the busiest months, May to October, Hometek had up to 100 employees on its payroll. The other two corporations had far fewer employees. Mr. Bayntun held 50% of the issued shares of Hometek, and Mr. Ehrhardt and Mr. Bortolazzo 25% each. Mr. Bayntun was its fulltime overall operational manager, and together with his former wife, Laurell, he devoted all his energy and considerable talents towards the success of the business.
+[4] Mr. Ehrhardt and Mr. Bortolazzo were businessmen and sometimes business partners, both active in development and investment in real estate. They were the necessary financiers and advisors that the Corporation required and overall, the three men presented a strong well‑rounded team.
+[5] Mr. Ehrhardt testified for the better part of two days. He is an intelligent, able and calculating businessman. He stated that, after the first year or two of operation, he and Mr. Bortolazzo had developed trust in their partner,[1] Mr. Bayntun, and permitted him complete control of the operations without their need to monitor him more than the overseeing of the general direction of the business. This is not entirely accurate because they regularly had structured meetings usually lasting two or more days.[2] Over the years, with their wives, they frequently met socially. He presented that he carefully reviewed the annual and monthly financial statements and monitored finances regularly with Mr. Bayntun, who with the Appellant, were the sole directors of Hometek. She served, at the request of her spouse.
+[6] The Ehrhardts lived in Burnaby, British Columbia and the Bayntuns in the Okanagan. In the late summer of 1999, Mr. Ehrhardt and Mr. Bortolazzo retained the accounting firm, KPMG in Penticton, where the Group was located, to provide them with monthly reports to protect both their personal investments, personal guarantees and bank requirements, and to be their eyes and ears of the business.
+[7] These Reports disclosed that the statutory withholdings to various governments were being regularly satisfied in the ordinary course of business. The practice was that an employee of KPMG would attend the group premises to conduct the requisite work, and the Appellant reasonably believed that was the practice. The balance of all Government withholdings (corporate income tax, provincial WCB, CPP, UI employee withholdings) for the Group were disclosed on the bank reports.
+[8] The Appellant visited the premises of the Group only twice because regular information was relayed by her husband together with reports from KPMG which included payroll and related liabilities information. She believed that all withholding obligations were being dealt with properly and were being paid in the ordinary course of business. At no time was she ever advised to the contrary.
+[9] Mr. Bayntun assured his partners that all was well and that liabilities of the Group were being dealt with on a timely basis with the exception of occasional seasonal payroll shortfalls. January and February 2002 bank statements and Monthly Financials were not provided because the year end for 2001 was being prepared which occupied the time and attention of the Group’s bookkeeper, Laurell Bayntun, and KPMG.
+[10] In mid-March 2002 the Appellant was advised of the actual and grim financial situation of the Group. Most accounts receivable were without real value. Shortly after, the Bayntuns left for Mexico on a pre-planned two-week holiday. A receiver was appointed for Real and it was subsequently declared bankrupt. The bank, HSBC, realized on its security with the result that the corporate assets were not available to pay withholding obligations of Hometek.
+[11] Simply put, the Appellant’s position is that at all times prior to March 2002, she was not aware of any remittance deficiencies in respect of Hometek. Having taken all reasonable precautions, she had exercised the degree of care, diligence and skill a reasonably prudent person would have in the circumstances.
+[12] The Respondent’s position is that given the Appellant, having been aware of some financial difficulties, she should have dug deeper to ascertain that all remittances were made. Because she did not, she did not exercise due diligence to prevent the failure to remit by Hometek that a reasonably prudent person would have exercised in comparable circumstances.
+[13] Subsection 227.1(1) provides:
+227.1(1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or section 153 or 215, as failed to remit such an amount … the directors of the corporation at the time the corporation was required to deduct, withhold or remit or pay the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest or penalties relating thereto.
+A director can be free from personal liability by establishing that he or she used “due diligence” which is set out in paragraph 227.1(3) as follows:
+(3) A director is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[14] There is no scarcity of jurisprudence on what this test involves including frequently quoted decision in Soper v. Canada,[3] as now modified by Peoples Department Stores Inc. (Trustee of) v. Wise.[4] When all is said, it boils down to a question of fact and reasonableness. What would a reasonable person have done to prevent the failure of Hometek to remit tax?
+[15] The Appellant, through her husband, relied on the accounting firm KPMG who provided them with monthly statements. Peter MacIntosh of KPMG attended the Group of Companies’ premises to assist in the accounting and to review the financial affairs. He was never alerted to the possibility that deductions and/or remittances were not being made. In late 2001 and early 2002, the circumstances were that the Group was controlled primarily by Mr. Bayntun who reported to Mr. Ehrhardt and Mr. Bartolazzo. Mr. Bayntun was the on-site general manager. He was the effective boss of all the employees including his spouse, Laurell, who was responsible for the bookkeeping/accounting.
+[16] The Appellant served as a director of Hometek at the request of her husband and would discuss its affairs with him on a regular basis. She did not have signing authority and had no training in accounting. She knew that Mr. Ehrhardt spoke regularly with the managing director, Mr. Bayntun, who was on-site at the Group premises. In addition to telephone calls, there were face-to-face meetings amongst the three shareholder partners, to keep the Ehrhardts and the Bortolazzos informed of the Group’s business affairs. Mr. Ehrhardt regularly informed the Appellant of the facts disclosed in those meetings and discussions. I find as a fact that the Appellant and her husband were not aware of any failures to remit deductions, etc. until mid-March 2002 .
+[17] The Appellant was credible and her testimony was not shaken on cross‑examination. What was provided in the Appellant’s testimony was corroborated through the documents and testimony of David Ehrhardt, Louis Bortolazzo, Peter MacIntosh, the KPMG, the accountant responsible for the financial statements, and Dino Infanti, Chartered Accountant, who testified as an expert to the effect that the monthly financial reporting disclosed no financial difficulties that would alert the Appellant with regard to arrears in deductions or remittances. The shareholders, Mr. Ehrhardt and Mr. Bortolazzo testified that at no time did Mr. Bayntun or Laurell Bayntun, upon whom they were entitled to rely, tell them that the Group was in any financial difficulty.
+[18] The Appellant stated the following with respect to the period after the Group was discontinued in March 2002 which is taken from part of the transcript of her examination in chief:
+Answer: After that, I personally did not talk to Ken or Laurell. David and Louis would – after they came – we found out after the fact that they went to Mexico. So I’m not sure exactly how long they were for, but when they came back, they made it very difficult to, from what I understand from David, to get a hold of them. David and Louis were forever trying to track them down. There were no phone numbers available. Nobody could find them.
+Question: Looking back now, is there anything that you could have done in the circumstances to prevent the failure of Hometek to pay its taxes?
+Answer: No, I don’t see I – I don’t see how I could have. I wasn’t there on a day-to-day basis. I was in Burnaby, the plant was in Penticton. It had a history. It wasn’t like it was a brand new company as of 2000. It was a viable company from 1995. It had a good history. From what I could see from the Financial Statements it was growing every year. Ken is the ultimate salesman, you know, he can sell snow to Eskimos. And he always painted a very rosy picture of where the company was. He was a very charismatic guy. So if – I don’t know why he would not have told us. I mean, we were partners and we – besides the fact that we were friends, and we wanted that company to grow and, you know, if he would have told us something, we could have worked with it. But we had no indication before the middle of March that this company was in trouble. I thought everything was being paid. From what I could see on the Reports, from the reports that Ken was giving to David, and David was passing onto me, the discussions we had were all positive with the company. So I just really don’t know what else we could’ve done.[5]
+[19] The shareholders had met to discuss the Group’s business in early December 2001 for two days, and again at the end of January, 2002 for three or four days. Messrs. Ehrhardt and Bortolazzo stated that the conclusions after these meetings were that all was well and they talked of expansion in 2002. This was supported, particularly, by notes Mr. Ehrhardt made during these meetings. By and large, I accept their evidence.
+[20] Mr. Bayntun testified that they talked about money problems at those two meetings and he advised that they needed a cash input if they were to continue. In fact, Mr. Bortolazzo did make cash advances in January 2001 and January 2002, to meet payroll needs. He added that they were having difficulty paying their creditors in late 2001 and early 2002. The line of credit was up to or over its $550,000 limit.
+[21] I do not accept that Mr. Bayntun was assertive, forceful and convincing in any attempts he may have made to articulate anything near dire financial circumstances. Had he done so, I have no doubt that his partners and co-director would have reacted quickly and decisively in December 2001 or late January 2002. They impressed me as business people of action. This is borne out by the manner in which they reacted to Mr. Bayntun’s letters of February and March, 2002. Mr. Bortolazzo called and visited the Penticton offices and met with Mr. Bayntun immediately upon hearing of the intent to close the business. Mr. Ehrhardt retained a business consultant in Mr. Rogers who attended the Group’s sites in late March and reporting back with respect to an offer to purchase the Group as a going concern. He also advised that the value of the inventory had been overstated by several hundred thousand dollars and that the accounts receivable were of little value as opposed to what the Appellant and her husband had been led to believe.
+[22] It is the Respondent’s position that the monthly financial statements may not reflect cash flow problems and were of no assistance with respect to remittances. No expert evidence was presented to corroborate this assertion. Counsel added that if a corporation is having cash flow problems and the directors know it, action should be taken to prevent failure to deduct and to remit source deductions. I believe she concludes that deeper action, probably an audit, should have been taken by the Appellant knowing the payroll cash flow problem in January 2002 to assure there were no withholding deficiencies.
+[23] The Respondent acknowledges that the Appellant was not involved in the day-to-day activities and was an outside director, but adds that she could have, as a director, asked to have a meeting to make proposals about how they were going to deal with the shortage of cash over the slow period from October 2001 to March 2002. Counsel added that the Appellant and her husband should have been aware of the cash shortage. Perhaps the central point of counsel’s position is that it does not matter whether the Appellant or her husband knew whether source deductions were being made or not. For them to establish due diligence, knowing there were cash flow problems, they had to make specific inquiries to determine if tax remittances were current. She adds that, at the very least, they had to instruct Mr. Bayntun to make sure he paid the source deductions first. Mr. Bortollazo testified that, on several occasions, he specifically instructed Mr. Bayntun to make sure deductions and remittances were current.
+[24] This leads to the evidence of David Ehrhardt and Louis Bortollazo that was, at times, diametrically opposed to that of Mr. Bayntun. Mr. Ehrhardt stated that he was unaware of a cash flow problem during late 2001 and early 2002. Mr. Bayntun testified that both Mr. Ehrhardt and Mr. Bortolazzo were aware he was having difficulty paying bills and that the Group was in dire financial straights.
+[25] Honest people, seeking to recall past events, will often, unconsciously, see those events in light of their own present day interests. This is the situation presently. In sorting out the evidence on both sides, there is a somewhat blurry middle ground. The Appellant and her husband knew or ought to have known, short of blind disregard, that the Group was having difficulty paying its payroll in January 2001–2002. On the other hand, Mr. Bayntun was not assertive or forthright in articulating the Group’s financial position, perhaps because of his optimistic nature and pleasant personality. In any event, I find that the Appellant and her husband were not aware of a remittance problem and it was reasonable for them to conclude that remittances were up-to-date and the Group was financially sound during the period October 1, 2001 to February or March, 2002.
+[26] I disagree with the Minister’s assertion that the Appellant, to establish due diligence, should have dug further into the Group’s financial affairs. Surely the Appellant established due diligence through the actions earlier referred to and summarized as follows:
+(a) She relied on KPMG monthly accounting reports which raised no warning of unpaid bills and in particular, remittances.
+(b) She, through her husband and Mr. Bortolazzo, stayed in very close contact with the Bayntuns who never informed them of remittance problems.
+(c) They were entitled to rely on Ken Bayntun who was an able, experienced business manager in the modular home business.
+(d) She, through her husband, could reasonably conclude that the relevant period was during a seasonal slow down resulting in cash flow problems which were not unusual. The payroll cash as advanced by Mr. Bortolazzo in January 2001 and January 2002 were not unexpected in the home construction industry, and it is reasonable that the non-managerial partners felt no need to act any differently than they did.
+(e) In March 2002, it was too late to start scrambling for financing or selling assets that were encumbered by the bank to pay the Respondent.
+(f) The Group had no history of unpaid taxes and had showed continuous growth since its conception in 1995.
+[27] In mid-March, 2002 she found, to her surprise, that Mr. Bayntun was about to close down the plant. It was later revealed that the inventory was inflated by several hundred thousand dollars without her knowledge. The value of assets was probably inflated to support additional financing for which she had no responsibility. I find as a fact that Mr. Ehrhardt, upon whom she relied, was unaware of the inflated inventory. Again, the Respondent’s theory appears to be that because the Appellant, through her husband, must have had knowledge of the poor financial position of the Group in late 2001 meant that she could have had Mr. Bayntun pay tax arrears presumably before wages and suppliers. This would have caused the Group’s closing earlier than March, and the Minister may not have been better off than he was after mid-March. The fact that Mr. Bortolazzo advanced money in January 2002 to cover the payroll, although he took it back out within two or three weeks, corroborates that he believed that the business was going through a temporary cash flow problem. As mentioned above, the recent statements indicated considerable assets, particularly, in inventory and account receivables.
+[28] The factual basis upon which the Minister’s position is founded is conjectural. The Appellant did not know of the Group’s dire financial position until March 2002. Perhaps Mr. Bayntun and his wife, Laurell, were aware of the gathering storm, but they failed to communicate it to the Appellant, her husband and Mr. Bortolazzo who cannot be expected to do more than they did. In anticipation of increasing production in 2002, Mr. Ehrhardt was exploring areas for increased financing before the February and March, 2002 letters from Mr. Bayntun.
+[29] Mr. Bayntun’s letter of February 5, 2002, shortly after a four-day meeting at the end of January, 2002, may offer minor corroboration to his evidence that Mr. Ehrhardt and Mr. Bortolazzo were aware of money problems, yet it is far from assertive for a general manager who later testified to the effect that the Group was on the brink of bankruptcy in late 2001, early 2002. It lacks precision and urgency. His letter was as follows:
+To: My Partners
+Re: Restructuring of Shares February 05, 2002
+Fr: Your Partner
+I have had some thoughts lately as I prepared the letter to the Bank as instructed by the Board and I want to share them with you. This proposal was mentioned at the end of our December meeting and I was serious but I felt that your response was less than clear.
+…
+I feel that the need for additional operating capital may be temporary based upon the expected result in 2002 and that rather than increase our liability to the Bank (money that is only available when you have accounts receivable to support it) the Company would be permanently better off to have a cash injection.
+In conjunction with this thought I am (as I have mentioned already) having serious thoughts about the size of my interest in the Company and the potential restrictions that places on the Company’s ability to grow. Don’t misunderstand that I am quite willing to be a major shareholder in a large and successful enterprise. I am however concerned that my “resources” may inhibit that growth.
+As I consider both these issues and face yet another slow period with poor cash flow and hold my hand out to you for money I say “enough”.
+…
+I am more interested in owning a smaller portion of a large interest than owning a large portion of a struggling enterprise. You might say I would be cashing in my RSPs.
+We stay out of increased debt.
+We improve our cash flow situation and I don’t have to keep asking for money.
+… I would like you to give serious thought to these ideas and look forward to a frank discussion of the potential. …
+[30] There appears to be no written answer to this from his “partners”. Mr. Ehrhardt stated that he advised Mr. Bayntun that they were not interested in a majority interest. Obviously, they were not interested in advancing additional personal funds at this point.
+[31] The next written communication between the partners was the following email from Mr. Bayntun dated March 18, 2002:
+ALTERNATE SOLUTIONS TO CURRENT WORKING CAPITAL CRUNCH
+The Company requires an immediate solution to its working capitol (sic) deficit. If such a solution is not immediate then I will be forced to close the plant down by Friday March 22 in order to minimize the negative cost impacts.
+The main purpose of an alternative is to minimize the financial exposure that could result from doing nothing.
+ALTERNATIVES
+1. Maintain current structure and inject sufficient working capitol (sic) to focus on the management of the business rather than on the cash situation. This injection must be at least $350k as discussed 3 weeks ago.
+2. Inject a minimum amount of capitol (sic) to allow completion and collection of sale … minimize shareholder financial liability before we walk away, including secured creditors, governmental agencies, etc.
+3. Allow the Bank to force and manage the sale of assets including home sales to the same end with shareholders being responsible for non bank related liabilities.
+4. Find a buyer who is willing to assume our debts and inject the necessary working capitol (sic) to ensure the companies growth and success. This negotiation will require the authority of the shareholders to bind them to whatever deal can be found by the negotiating partner with a minimum goal of relieving shareholders from secured creditors.
+Time is obviously of essence if we are to maximize the value of the sale by maintaining the good will previously developed.
+[32] On March 11, 2002, Kevin Grady, a respected senior employee (sales manager) of Real resigned with a scathing letter[6] to Ken that includes:
+March 11, 2002
+Ken:
+…
+The reasons for this are many, however I will point to a few issues that have caused me to conclude that I do not have the confidence in you or your partners to make the tough decisions or commitments to put the company on track that will enable it to survive, let alone succeed.
+I cannot honestly continue to support your company to our customers when I, myself, have lost the confidence that we can make our commitments. I personally would be very surprised to see Real Homes survive, in its’ present form, this year. The wounds are too deep and the medicine is being refused.
+…
+You have not met nor attempted, with any noticeable effort, to meet the commitments you made to me if I took on the role of Sales Manager. The most glaring of these is not making an effort for me to use the truck to go to Grand Prairie. Instead I was forced to take my twelve-year-old van. It was more important not to inconvenience you on your trip to Vancouver than my safety or well being on a 2,200 km trip through inclement weather.
+…
+The way the production facility is managed, inspected and controlled is amateurish at best. There is no direction, no plan and no control. This is doomed to failure. The latest episode with C.S.A. proves that.
+…
+[33] If there is any blame or assigning of responsibility, I believe it is to be shared by all three partners. It is rather a sad situation. I find the partners are capable men and, at one time, solid friends. The business failed for a variety of reasons, some intangible. What is known is that the financing partners made a decision, for whatever reasons, not to advance further funds during the lean months of the 2001–2002 winter. That was their prerogative. A purist might say that knowing the corporation was unable to meet its payroll obligations in December, 2001 and January, 2002 should have triggered the directors to be absolutely sure that there were no arrears to Canada Revenue Agency. I find that as a matter of common sense, the Appellant did not have an obligation to delve more deeply into the Group’s books than she did. I accept the evidence that she were unaware of the remittance arrears until the Group ceased operation. In any event, as stated, it would appear that by the end of 2001, it was probably too late. The Group did not have the resources to pay remittance arrears. Again, the two partners were confident that there was hundreds of thousands of dollars in equity considering accounts receivable and inventory. The notes Mr. Ehrhardt took during the December 2001 meeting includes “Accounts receivable $700,000, accounts payable $400,000.
+[34] For the eleven-month period ended November 30, 2001, the KPMG financial statements reflect total assets of $2,082,098, made up primarily of approximately $1,200,000 in accounts receivable and $870,000 in inventory.
+[35] The liabilities totalled $1,447,000 which included $545,000 owing to the bank and almost $900,000 in accounts payable. It would appear that there was approximately $500,000 in equity in the Group providing the accounts receivable and inventory amounts were accurate. In April 2002, it was discovered that the inventory was closer to $200,000 and the accounts receivable had much lower value although, I believe, they became the property of the bank.
+[36] What steps could the Appellant have taken to prevent the failure of Real to remit net tax? She could have caused an audit to determine with certitude the state of Real’s accounting. This is easy to say in hindsight but not reasonable. The Group was going through a seasonal cash flow deficiency, it was reasonable for her to conclude that this would pass as it did every year. She was entitled to rely on the safeguards in place. The accounting was done by Laurell, supervised by her husband, and verified by KPMG.
+[37] What is troubling, and perhaps unfair, is that Mr. Bayntun appears to have been saddled with the entire amount and struggling to pay what he could. I believe he had paid over $80,000 to date. My decision does not encompass the matter of fairness among the partners.
+[38] In summary, the Appellant relied on this overstatement of assets provided by a highly regarded accounting firm, she had the assurance from her husband, a competent and successful businessman, that the Group businesses were successful and growing, and she had absolute confidence in the Bayntuns’ ability to manage and satisfy accounts payable in priority. There is no basis to conclude she knew or should have known of the Group’s failure in making regular remittances of net tax or that she should have further investigated the situation.
+[39] The Respondent suggested that I should draw an adverse inference against the Appellant by reason of her failure to call Laurell Bayntun as a witness. The failure to call a witness who might have supported a party’s case may justify an inference. Here I do not know what Laurell may have said but given the possible, if not probable, antagonistic relationship among the parties, it may have been dangerous to call Laurell particularly when the Appellant had presented a credible case on her own. These thoughts apply both ways. I draw no inference either way.
+[40] Having found due diligence in favour of the Appellant, there is no need to deal with her challenge of the underlying assessment and the accuracy of it although, as previously indicated, I accept the reasoning of the Federal Court of Appeal in Gaucher v. The Queen.[7] The Appellant was entitled to attack the underlying liability and there should be no costs to the Respondent notwithstanding that there was no evidence of wrongdoing or error by the Minister’s auditor.
+[41] I conclude that the Appellant has successfully made a defence of due diligence.
+[42] The appeal is allowed with costs and the assessment under subsection 227.1(1) of the Act is vacated.
+Signed at Ottawa, Canada, this 20th day of February, 2008.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2008TCC112
+COURT FILE NO.: 2005-3705(IT)G
+STYLE OF CAUSE: Karen Ehrhardt v. The Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: November 7, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: February 20, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Daniel Kiselbach and Sarah Hansen
+Counsel for the Respondent:
+Linda Bell
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Daniel Kiselbach and Sarah Hansen
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] They were in fact, shareholders but described themselves as partners.
+[2] They met December 1, 2001 for two days and again for four days at the end of January, 2002.
+[3] 1997 CanLII 6352(F.C.A.).
+[4] [2004] 3 S.C.R. 461, 2004 SCC 68.
+[5] Transcript, page 514, line 4 to page 515, line 14.
+[6] Mr. Grady may have had an ulterior intention with his criticism in that his brother was interested in purchasing the Group and did in fact do that within a couple of months.
+[7] 2000 D.T.C. 6678.

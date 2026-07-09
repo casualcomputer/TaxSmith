@@ -1,0 +1,361 @@
+---
+title: "Morrison c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30028/index.do"
+last_modified: "2010-08-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 429"
+citation2: ""
+neutral_citation: "2010 CCI 429"
+decision_date: "2010-08-19"
+language: "fr"
+item_id: "30028"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7658
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:39:36.437000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "76bd5c6dfafa4ade7d952384b46f58044bd1bc6265b0961ef62e259b7ad59b74"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morrison c. La Reine
+
+- Citation: 2010 CCI 429
+- Decision date: 2010-08-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7658, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morrison c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-08-19
+Référence neutre
+2010 CCI 429
+Numéro de dossier
+2004-2298(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2298(IT)I
+ENTRE :
+SUSAN V. MORRISON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+David L. Morrison (2004-2297(IT)I)
+le 12 juillet 2010, à Nanaimo (Colombie-Britannique)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Whitney Dunn
+____________________________________________________________________
+JUGEMENT
+Le prétendu appel interjeté par l’appelante à l’encontre de la cotisation relative à sa dette d’impôt pour l’année 1997 est annulé.
+Les appels interjetés à l’encontre des nouvelles cotisations relatives à la dette d’impôt de l’appelante pour les années 1998 et 1999 sont accueillis et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant pour acquis :
+a) qu’un montant de 14 362 $ est retranché au revenu d’emploi de l’appelante pour l’année 1998;
+b) qu’un montant de 16 876 $ est retranché au revenu d’emploi de l’appelante pour l’année 1999.
+L’intimée paiera à l’appelante un montant de 750 $ au titre des dépens.
+Signé à Ottawa, Canada, ce 19e jour d’août 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 7e jour d’octobre 2010.
+Marie-Christine Gervais
+Dossier : 2004-2297(IT)I
+ENTRE :
+DAVID L. MORRISON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Susan V. Morrison (2004-2298(IT)I)
+le 12 juillet 2010, à Nanaimo (Colombie-Britannique)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentante de l’appelant :
+Mme Susan V. Morrison
+Avocat de l’intimée :
+Me Whitney Dunn
+____________________________________________________________________
+JUGEMENT
+Les prétendus appels interjetés par l’appelant à l’encontre de la cotisation relative à sa dette d’impôt pour l’année 1997 et de la nouvelle cotisation relative à sa dette d’impôt pour l’année 1999 sont annulés.
+L’appel interjeté à l’encontre de la nouvelle cotisation relative à la dette d’impôt de l’appelant pour l’année 1998 est accueilli et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant pour acquis :
+a) qu’un montant de 12 162 $ est retranché au revenu d’emploi de l’appelant pour l’année 1998.
+L’intimée paiera à l’appelant un montant de 750 $ au titre des dépens.
+Signé à Ottawa, Canada, ce 19e jour d’août 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 7e jour d’octobre 2010.
+Marie-Christine Gervais
+Référence : 2010 CCI 429
+Date : 20100819
+Dossier : 2004-2298(IT)I
+ENTRE :
+SUSAN V. MORRISON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+2004-2297(IT)I
+DAVID L. MORRISON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb [1] Les appelants ont déposé auprès de la Cour un avis d’appel dans lequel ils ont mentionné que chacun d’eux interjetait appel de la cotisation (ou nouvelle cotisation) relative à leur dette d’impôt pour les années 1997, 1998 et 1999. Un agent de l’organisme qui portait alors le nom d’Agence des douanes et du revenu du Canada a déposé auprès de la Cour un affidavit dans lequel il a déclaré qu’il n’existait aucun document faisant état du dépôt, par l’un ou l’autre des appelants, d’un avis d’opposition à l’égard de la cotisation relative à leur année d’imposition 1997, ou encore du dépôt, par David Morrison, d’un avis d’opposition à l’égard de la nouvelle cotisation relative à son année d’imposition 1999.
+[2] Le paragraphe 169(1) de la Loi de l’impôt sur le revenu (la « Loi ») est ainsi libellé :
+169. (1) Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où avis a été expédié par la poste au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[3] Dans Bormann v. The Queen, 2006 DTC 6147, la Cour d’appel fédérale s’est exprimée ainsi :
+3 Le paragraphe 169(1) de la Loi de l’impôt sur le revenu oblige le contribuable à signifier un avis d’opposition s’il veut interjeter appel d’une cotisation. En d’autres mots, la signification d’un avis est une condition préalable à l’introduction d’un appel.
+4 Comme je l’ai mentionné, l’appelant n’a pas signifié d’avis d’opposition et il n’existe aucune preuve qu’il ait demandé au ministre une prorogation de délai afin de signifier un avis d’opposition.
+5 La loi est claire : lorsqu’il n’y a pas eu de demande de prorogation de délai, la Cour de l’impôt n’a pas la compétence de proroger le délai par souci d’équité.
+Minuteman Press of Canada Company Limited c. M.R.N., 88 DTC 6278, (C.A.F.).
+6 Par conséquent, il n’y a aucun fondement à l’allégation selon laquelle le juge de la Cour de l’impôt aurait commis une erreur en rejetant les appels de l’appelant pour les années d’imposition de 1992 à 1998.
+[4] Les appelants n’ont présenté aucun élément de preuve donnant à penser qu’ils avaient signifié un avis d’opposition à l’égard de la cotisation relative à leur dette d’impôt pour l’année 1997 ou de la nouvelle cotisation établie pour l’année d’imposition 1999 de David Morrison, ou encore qu’ils avaient présenté une demande de prorogation du délai de signification d’un avis d’opposition. En conséquence, les appels interjetés à l’encontre de la cotisation relative à leur année d’imposition 1997 et à l’encontre de la nouvelle cotisation relative à l’année d’imposition 1999 de David Morrison sont annulés.
+[5] Les seules cotisations ou nouvelles cotisations dont la Cour a été saisie à juste titre sont donc les nouvelles cotisations relatives à l’année d’imposition 1998 des appelants et la nouvelle cotisation relative à l’année d’imposition 1999 de Susan Morrison.
+[6] Les appelants avaient, avec Rex Woollard, créé une société de conception de logiciels appelée Training Innovations Inc. (« TI »). En 1997, ils ont vendu ensemble 51 p. 100 des actions de TI à ADGA Limited (« ADGA »). Avant la vente à ADGA d’une participation majoritaire dans TI, l’année d’imposition de celle-ci se terminait le 30 avril. Par suite de l’acquisition du contrôle de TI, celle‑ci semble également avoir eu une année d’imposition ayant pris fin le 30 septembre 1997.
+[7] En raison des problèmes de liquidités que TI éprouvait, les appelants avaient reporté le paiement des salaires qu’ils avaient gagnés. Voici le montant des salaires dus en question :
+Salaires dus au 30 avril 1997
+Salaires dus pour la période allant du 1er mai 1997 au 30 septembre 1997
+Susan Morrison
+51 226 $
+29 352 $
+David Morrison
+38 655 $
+26 152 $
+[8] L’annexe 4.28 de l’entente concernant la vente des actions de TI à ADGA prévoyait ce qui suit :
+[traduction]
+a) Salaires dus jusqu’au 30 avril 1997
+Les salaires dus aux vendeurs jusqu’au 30 avril 1997 sont répartis ainsi :
+Vendeur
+Salaire dû
+Susan Morrison
+51 226 $
+David Morrison
+38 655 $
+Rex Woollard
+38 655 $
+Total
+128 536 $
+Avant la clôture, la société versera aux vendeurs les montants nets dus après les retenues gouvernementales exigées à l’égard des montants figurant ci-dessus. Les vendeurs avanceront ensuite à la société les montants reçus. La société remboursera ces avances sans intérêt après avoir reçu les crédits d’impôt à l’investissement correspondants qu’elle aura demandés. Si les crédits d’impôt à l’investissement reçus sont inférieurs au montant demandé, le montant à payer aux vendeurs sera réduit de façon proportionnelle et les vendeurs renonceront au reste de l’avance.
+Au plus tard le 15 novembre 1997, l’acquéreur versera au gouvernement, pour le compte de la société, les montants devant être retenus au titre des paiements susmentionnés. Le paiement sera considéré comme une avance consentie par l’acquéreur à la société conformément aux conditions des documents de prêt.
+Les montants demandés au titre des crédits d’impôt à l’investissement pour la période ayant pris fin le 30 avril 1997 sont les suivants :
+Ontario
+49 378 $
+Gouvernement fédéral
+155 624 $
+Total
+205 002 $
+b) Salaires dus pour la période allant du 1er mai 1997 au 30 septembre 1997
+La même procédure décrite ci-dessus s’appliquera aux salaires dus aux vendeurs, soit un montant total de 81 756 $ pour la période allant du 1er mai au 30 septembre 1997, sous réserve des modifications suivantes :
+a) les salaires dus aux vendeurs sont répartis comme suit :
+Susan Morrison
+29 352 $
+David Morrison
+26 152 $
+Rex Woollard
+26 152 $
+Total
+81 656 $
+b) au plus tard le 15 avril 1998, la société versera les montants nets dus aux vendeurs comme suit :
+Susan Morrison
+15 352 $
+David Morrison
+14 152 $
+Rex Woollard
+14 152 $
+c) au plus tard le 15 avril 1998, l’acquéreur versera au gouvernement, pour le compte de la société, les montants devant être retenus au titre des paiements susmentionnés;
+d) les montants demandés au titre des crédits d’impôt à l’investissement sont les suivants :
+Ontario
+32 000 $
+Gouvernement fédéral
+105 000 $
+Total
+137 000 $
+[9] En 1997, un montant a été versé au titre des retenues à la source à l’égard des salaires dus en date du 30 avril 1997 et un chèque correspondant au solde a été établi en faveur des appelants, qui ont ensuite remis à TI ou à ADGA un chèque du même montant. Ce montant a alors été porté au crédit de leurs comptes d’actionnaires respectifs. Voici le montant qui a été versé au titre des retenues à la source et le montant qui a été porté au crédit des comptes d’actionnaires (après l’émission du chèque par TI (ou par ADGA) et la remise immédiate du même montant à la société au moyen d’un chèque séparé) pour chacun des appelants :
+Montant versé au titre des retenues à la source
+Montant porté au crédit du compte d’actionnaire
+Total
+Susan Morrison
+25 400 $
+25 826 $
+51 226 $
+David Morrison
+19 300 $
+19 355 $
+38 655 $
+[10] Dans le cas des salaires dus pour la période allant du 1er mai 1997 au 30 septembre 1997, aucun chèque n’a été émis en faveur de l’un ou l’autre des appelants. En 1998, un montant a été versé au titre des retenues à la source et le solde a simplement été porté au crédit de leurs comptes d’actionnaires respectifs. Ces montants étaient les suivants :
+Montant versé au titre des retenues à la source
+Montant porté au crédit du compte d’actionnaire
+Total
+Susan Morrison
+14 990 $
+14 362 $
+29 352 $
+David Morrison
+13 990 $
+12 162 $
+26 152 $
+[11] Le paragraphe 5(1) de la Loi est ainsi libellé :
+5. (1) Sous réserve des autres dispositions de la présente partie, le revenu d’un contribuable, pour une année d’imposition, tiré d’une charge ou d’un emploi est le traitement, le salaire et toute autre rémunération, y compris les gratifications, que le contribuable a reçus au cours de l’année.
+[Non souligné dans l’original.]
+[12] Dans Phillips c. La Reine, 95 DTC 194, [1994] A.C.I. no 597, le juge Bowman (tel était alors son titre) s’est exprimé ainsi :
+18 La méthode comptable peu claire et confuse qui a été employée et le manque de logique dont on a fait preuve pour déclarer le revenu ne peuvent pas être déterminants en ce qui concerne l’issue de l’affaire. Il reste que la somme de 69 263 $ que le ministre a incluse dans le revenu de 1986 n’avait pas été reçue par l’appelant cette année-là. Il est vrai qu’en sa qualité d’actionnaire majoritaire de la compagnie, l’appelant aurait pu obliger cette dernière à lui verser ce montant, mais il ne l’a pas fait. Pour être assujetti à l’impôt, le revenu d’emploi doit être reçu, et non susceptible d’être reçu. La décision rendue dans l’affaire M.N.R. v. Rousseau, 60 D.T.C. 1236, est trop fermement établie dans notre droit pour permettre l’érosion du principe qui y est promu.
+19 Je ne puis non plus admettre que la somme a été reçue du simple fait qu’on l’a virée du compte « prime à payer » au compte « somme due à un actionnaire ». Les inscriptions comptables doivent corresponde à la réalité, et non la créer, et, comme lord Brampton l’a dit dans l’affaire Gresham Life Society Co. v. Bishop [1902] 4 TC 464, à la p. 476 :
+Pour qu’il y ait réception d’une chose, il doit y avoir une personne qui reçoit et une personne de laquelle elle reçoit ainsi que quelque chose que la première reçoit de la seconde; dans ce cas-ci, ce quelque chose doit être une somme d’argent. Une simple inscription dans un compte qui ne représente pas cette opération ne prouve aucune réception, même si elle peut avoir par ailleurs une certaine valeur.
+[Non souligné dans l’original.]
+[13] En conséquence, les salaires dus seront inclus dans le revenu des appelants lorsque ceux-ci les auront reçus.
+[14] Les appelants soutiennent qu’ils n’ont pas reçu les salaires dus et que, en conséquence, les montants correspondant à ceux-ci n’auraient pas dû être inclus dans le calcul de leur revenu. Il est difficile de savoir si les appelants faisaient allusion au montant total des salaires dus (51 226 $ pour Susan Morrison en 1997, 29 352 $ pour Susan Morrison en 1998, 38 655 $ pour David Morrison en 1997 et 26 152 $ pour David Morrison en 1998) ou uniquement à la partie qui a été portée au crédit de leurs comptes d’actionnaires respectifs. En tout état de cause, il semble clair qu’ils ont reçu la partie qui a été versée au titre des retenues à la source, car TI ou ADGA a payé ces montants pour eux. Dans La Reine c. Hoffman, [1985] 2 C.F. 541, le juge Rouleau, de la Section de première instance de la Cour fédérale, a formulé les remarques suivantes :
+S’il est exact de dire que le revenu doit se trouver réellement en la possession de l’employé avant qu’on ne puisse l’imposer, je devrais alors conclure que les cotisations d’un employé aux régimes de pension fédéral et provincial déduites à la source par l’employeur ne constituent pas un revenu entre les mains de l’employé. Or, la jurisprudence n’étaie pas cette idée.
+Dans l’affaire Lucien Gingras c. M.R.N. [décision non publiée en date du 26 mars 1973], la Commission de révision de l’impôt a fait cette remarque (aux pages 4 et 5) :
+L’expression « touché » ne veut pas nécessairement dire que tout le montant du salaire doit physiquement être reçu par le salarié ou être intégralement remis dans son compte de banque.
+D’après l’interprétation de l’article 5, il est suffisant de dire que le montant du salaire fut payé par l’employeur, soit à l’employé lui-même ou à son bénéfice ou encore qu’il soit remis à une tierce personne en vertu d’une loi fédérale ou provinciale.
+[15] En conséquence, les appelants seraient réputés avoir reçu les montants versés au titre des retenues à la source aux fins de la Loi. La question à trancher dans la présente affaire est de savoir si les appelants ont reçu les montants qui ont été portés au crédit de leurs comptes d’actionnaires respectifs et, dans l’affirmative, à quel moment, ils l’ont été.
+[16] Étant donné que les appelants n’ont pas signifié d’avis d’opposition à l’égard de la cotisation relative à leur dette d’impôt pour l’année 1997, cette cotisation ne peut faire l’objet d’un appel devant la Cour. En conséquence, la question de savoir si les appelants ont reçu en 1997 les montants qui leur ont été « payés » par chèque, mais qu’ils étaient tenus de remettre immédiatement à la même société et qui ont ensuite été portés au crédit de leurs comptes d’actionnaires respectifs en 1997 n’est pas une question que je peux examiner.
+[17] En 1998, les montants suivants ont été portés au crédit des comptes d’actionnaires au titre des salaires dus :
+Montant porté au crédit du compte d’actionnaire
+Susan Morrison
+14 362 $
+David Morrison
+12 162 $
+[18] L’intimée soutient que les appelants ont reçu ces montants, parce que ceux-ci ont été portés au crédit de leurs comptes d’actionnaires respectifs.
+[19] Il me semble qu’au moment où ces montants ont été portés au crédit des comptes d’actionnaires, la société était endettée envers les appelants et que, par conséquent, le crédit a simplement eu pour effet d’augmenter le montant qui leur était dû. Si le crédit avait servi à réduire les sommes que les appelants devaient à la société, ceux-ci auraient alors reçu le montant d’un tel crédit (jusqu’à concurrence des sommes dues par ceux‑ci). Dans Armstrong v. Minister of National Revenue, [1988] 1 C.T.C. 2019, 88 DTC 1015, le juge Bonner s’est exprimé comme suit :
+[traduction]
+4 Bien que ce qui précède et d’autres parties du témoignage de l’appelante se contredisent*, je déduis, d’après tout ce que l’appelante a déclaré, qu’elle acceptait quoique à contrecœur, que son époux s’acquitte de son obligation de verser une pension alimentaire en compensant l’obligation dans laquelle se trouvait l’appelante de payer la somme de 5 700,00 $ [...]
+5 L’appelante n’a pas soutenu, aux fins du présent appel qu’elle ne devait pas la somme de 5 700,00 $ à son époux. Son argument était le suivant : « … Je conteste le fait que l’on a prélevé de l’impôt sur le revenu sur de l’argent que je n’ai jamais touché… » Cet argument, ainsi que je le comprends, s’appuie sur la prémisse qu’une somme ne peut être considérée comme touchée que si un paiement a été fait en espèces ou par chèque. Cette prémisse est à mon sens inexacte. L’arrangement de compensation comportait effectivement la réception par l’appelante d’une somme au sens de l’alinéa 56(1)b). Le paragraphe 248(1) de la Loi de l’impôt sur le revenu définit en ces termes les mots « montant » ou « somme » :
+248.1) Dans la présente Loi,
+« montant » ou « somme » s’entend de l’argent, des droits ou des choses exigibles sous forme d’un montant d’argent ou leur valeur exprimée en argent, [...]
+Chaque mois, l’appelante recevait, au moyen de l’arrangement de compensation, le montant équivalant à celui qui réduisait sa dette envers son époux. Dans l’affaire Trinidad Lake Asphalt Operating Company, Limited v. Commissioners of Income Tax for Trinidad and Tobago, [1945] A.C. 1, le Conseil privé s’est penché sur la question de savoir s’il y avait « transmission » d’un revenu découlant d’une source existant au sein de la colonie lorsqu’une société établie au sein de cette dernière convenait de compenser une dette due à la société par un actionnaire non résident à l’égard de biens fournis par elle, en appliquant la compensation au montant d’un dividende que déclarait la société sur ses actions. Voici ce qu’a indiqué à la page 10 Lord Wright :
+[traduction]
+« Y a‑t‑il donc eu une telle transmission? Aucune somme d’argent effective n’a été versée. Si le dividende avait été transmis au moyen d’une traite bancaire envoyée à Barber par l’appelante, il n’y aurait pas eu de doute que le dividende avait été transmis, mais les deux sociétés pourraient effectuer leurs propres opérations bancaires entre elles, sans l’intervention d’établissements bancaires. L’opération comprenait l’envoi du dividende à Barber par l’appelante ainsi que la réception par Barber dudit dividende de l’appelante. Cette opération s’est faite en convenant que le paiement devait être fait en annulant la dette relative aux biens fournis. Les deux parties avaient convenu de cette manière de procéder avant que le dividende ne soit déclaré. Chacune des parties ont exécuté l’entente en consignant dans ses livres des écritures correspondantes. Il ne s’agissait pas simplement d’écritures comptables. Elles représentaient la réception effective du dividende par Barber, et le paiement effectif de ce dernier par l’appelante, et, en même temps, la réception effective par l’appelante du paiement de la dette de Barber. L’opération combinée et conjointe est conforme en principe à la description que fait le juge Mellish d’un paiement dans l’affaire Harmony & Montagu Tin & Copper Mining Co., Spargo’s Case 1). « Rien n’est plus clair, dit-il, que si deux parties comptabilisent chacune une somme égale due à l’une et à l’autre partie, et que les deux règlent leurs comptes, cela revient exactement au même que si les deux parties avaient payé lesdites sommes. En fait, un principe de droit général veut que dans chaque cas où une opération est réglée par le versement d’argent de A à B et où B remet ensuite cet argent à A, si ces deux parties se réunissent et conviennent d’opposer une demande à l’autre, il n’est pas nécessaire qu’elles échangent de l’argent ». Cette déclaration décrit ce que l’on appelle souvent un règlement de compte ou une compensation, le mot ne s’y trouvant pas étant utilisé dans le sens technique des règles de compensation. Il y a règlement effectif, et non simplement imaginaire ou présumé, de la dette d’un côté comme de l’autre ».
+(*L’astérisque signifie qu’une référence figurait dans une note de bas de page du texte original, mais n’a pas été incluse)
+[20] En conséquence, si les appelants avaient été endettés envers TI immédiatement avant que le montant soit porté au crédit de leurs comptes d’actionnaires respectifs, il n’aurait pas été nécessaire que TI émette en leur faveur un chèque correspondant aux salaires dus et que les appelants remettent ensuite à TI un chèque afin de payer à celle-ci les montants qu’ils lui devaient. Les dettes mutuelles auraient pu s’annuler sans qu’il y ait transfert de fonds et les appelants auraient été réputés avoir reçu le montant ayant été déduit de leur dette envers la société[1].
+[21] Cependant, dans la présente affaire, il ne semble pas que les montants portés au crédit des comptes d’actionnaires aient été imputés à une somme que les appelants devaient; les montants ont simplement eu pour effet d’augmenter la dette de la société envers les appelants. L’intimée a présenté en preuve un document qui serait intitulé [traduction] « Prêts consentis par les actionnaires minoritaires à Training Innovations Inc. au 22 septembre 1999 ». Il appert de ce document que le solde que TI devait à Susan Morrison en date du 31 mai 1998 s’élevait à 33 366 $. Trois écritures de débit totalisant 28 400 $ et deux écritures de crédit totalisant 24 620 $ ont été effectuées aux fins du report du solde au 31 décembre 1998, mais les dates de ces différentes écritures ne sont pas connues. L’intimée a présenté ce document, mais n’a pas fait témoigner qui que ce soit, notamment un représentant d’ADGA qui aurait pu expliquer les écritures. Dans ces circonstances, il me semble que les montants payés ou à payer figurant dans ces écritures qui visaient à rajuster le solde dû en date du 31 mai 1998 pour montrer le solde dû au 31 décembre de la même année doivent être considérés comme des montants payés ou à payer en même temps, de sorte que les écritures supplémentaires ont simplement pour effet de réduire de 3 781 $ le montant à payer à Susan Morrison. Par suite de ces écritures supplémentaires, le solde à payer à Susan Morrison au 31 décembre 1998 s’établissait à 29 585 $. Dans le cas de David Morrison, les montants qui lui étaient dus s’élevaient à 22 887 $ en date du 31 mai 1998 et à 18 625 $ en date du 31 décembre de la même année.
+[22] Étant donné que la convention d’achat prévoyait que les salaires dus pour la période allant du 1er mai au 30 septembre 1997 seraient payés au plus tard le 15 avril 1998, il semble que le solde dû au 31 mai 1998 tient compte des montants portés au crédit des comptes d’actionnaires, soit 14 362 $ pour Susan Morrison et 12 162 $ pour David Morrison, à l’égard des salaires en question. Comme ce tableau est apparemment celui qui a été utilisé à l’appui des chèques établis en faveur des appelants le 29 octobre 1999 et comme aucune autre écriture ne figure dans ce tableau à l’égard des crédits relatifs aux salaires dus, les crédits en question doivent avoir été pris en compte dans le calcul du solde dû le 31 mai 1998. Le solde d’ouverture qui apparaît au tableau correspond à celui du 31 mai 1998. Rien ne montre qu’un montant a été porté au crédit du compte après le crédit relatif aux salaires dus (lequel est probablement daté du 15 avril 1998) et au plus tard le 31 mai 1998. En conséquence, il est fort probable que le montant que la société devait à Susan Morrison immédiatement après le rajustement de crédit effectué au titre des salaires dus le 15 avril 1998 ou vers cette date était d’au moins 33 366 $.
+[23] Puisque le solde à payer à chacun des appelants immédiatement après les rajustements de crédit effectués au titre des salaires dus et en date du 31 décembre 1998 était supérieur aux montants respectifs portés au crédit de leurs comptes d’actionnaires et que la somme à payer aux appelants n’aurait, à aucun moment en 1998 après l’imputation des crédits aux comptes, été inférieure au montant desdits crédits, les rajustements de crédit effectués en 1998 traduisaient simplement une augmentation du montant dû à chacun des appelants, lequel montant n’a pas été payé avant la fin de 1998. En conséquence, les appelants n’ont pas reçu en 1998 les montants portés au crédit de leurs comptes d’actionnaires en 1998, de sorte que ces montants n’auraient pas dû être inclus dans leur revenu cette année‑là.
+[24] Les appelants ont également présenté en preuve un tableau intitulé [traduction] « Montants que devait Training Innovations Inc. aux actionnaires en décembre 1998 » et selon lequel, au 1er décembre 1998, Susan Morrison devait une somme de 20 102 $ à la société. Cependant, ce tableau montrait séparément les deux crédits relatifs aux salaires dus (ainsi qu’une mention selon laquelle les montants en question ne seraient à payer qu’après la réception des crédits d’impôt à l’investissement). Il est illogique de dire que la gratification nette ne devrait être payée qu’après la réception des crédits d’impôt à l’investissement (laquelle n’avait probablement pas eu lieu le 1er décembre 1998), tout en affirmant que ces montants avaient été versés aux appelants avant cette date et que ceux-ci les avaient reçus. Ce tableau ne concorde pas non plus avec l’autre tableau qui portait une date postérieure (22 septembre 1999). Selon les montants du tableau de décembre 1998, le solde qui aurait été calculé au 31 mai 1998 (y compris les deux crédits relatifs aux salaires dus) équivaut ni plus ni moins au solde dû le 31 mai 1998 d’après le tableau de 1999 (33 481 $ par opposition à 33 366 $), si le montant de débit relatif aux frais antérieurs à septembre 1997 (9 740 $) est inclus, mais non le montant de débit (20 040 $) se rapportant aux rajustements de l’actif au 31 mai 1998. Ce montant de débit de 20 040 $ ne figure pas dans le tableau de 1999. Si ce dernier débit est pris en compte, l’écart entre les deux montants décrits comme le solde dû au 31 mai 1998 est important (13 441 $ par opposition à 33 366 $). À mon avis, c’est le tableau de 1999 qui devrait être utilisé, car il a été préparé plus tard et a probablement servi de fondement à l’émission des chèques en faveur des appelants le 29 octobre 1999 pour le paiement du solde de leurs comptes d’actionnaires respectifs. Le solde à payer aux appelants selon le tableau de 1999 correspond aux montants des chèques émis en leur faveur.
+[25] L’intimée a également présenté en preuve une copie des chèques faits à Susan Morrison et à David Morrison et datés du 29 octobre 1999. Il me semble que ces chèques avaient apparemment pour effet de payer le solde des comptes d’actionnaires alors dû. Cependant, étant donné que ces chèques n’ont pas été faits avant 1999, ils ne permettent pas de conclure que les montants en question ont été reçus en 1998.
+[26] Les appelants ont également fait valoir que les montants à payer au titre des salaires dus ont été réduits parce que l’Agence des douanes et du revenu du Canada a diminué les crédits d’impôt à l’investissement que demandait TI. Pour sa part, l’intimée soutient que les salaires dus ont été versés aux appelants et que la réduction subséquente des montants à payer à ceux-ci n’était pas une diminution des salaires qui leur étaient dus, mais plutôt un montant imputé à leurs comptes par suite de la réduction de l’actif de la société.
+[27] Toutefois, il me semble qu’il y a un lien direct entre les salaires dus et les crédits d’impôt que la société a demandés. La convention d’achat prévoyait que le montant à payer serait réduit si les crédits d’impôt à l’investissement reçus étaient inférieurs à la somme demandée[2]. Au cours de leur témoignage, les appelants ont affirmé qu’il était clair, dans leur esprit, que les salaires qui leur étaient dus étaient liés aux crédits d’impôt demandés et que, même si la convention prévoyait une réduction proportionnelle du montant qui leur serait versé, ils avaient compris que la société retrancherait au montant à payer au titre de leurs salaires une somme correspondant à la diminution des crédits d’impôt. L’intimée a également présenté en preuve une lettre d’ADGA datée du 9 mai 2000, dont voici un extrait :
+[traduction]
+Susan et David Morrison ainsi que Rex Woollard étaient les premiers actionnaires de TI. La société leur devait des montants à titre de salaires pour les années d’imposition ayant pris fin le 30 avril 1997 et le 30 septembre 1997, avant l’acquisition de l’entreprise par ADGA. Dans le cadre de la convention d’achat, ADGA a convenu de payer ces salaires dus et d’effectuer le paiement une fois qu’elle aurait reçu les crédits d’impôt sur les investissements en recherche et développement pour les deux années en question. De plus, les appelants ont convenu de dédommager ADGA à l’égard des réclamations non inscrites formulées contre la société à l’égard des activités exercées avant l’acquisition du contrôle par ADGA.
+[28] À mon avis, un lien manifeste existe entre le paiement des salaires dus et les crédits d’impôt demandés par la société et toute diminution de ceux-ci aurait pour effet de réduire les salaires à payer. Voici les montants qui semblent avoir été portés au débit des comptes d’actionnaires à l’égard de la réduction des crédits d’impôt (et qui ont eu pour effet de réduire les salaires à payer) :
+Écriture visant à rajuster le solde au 31 mai 1999
+Susan Morrison
+David Morrison
+Évaluation du CCI de 1997 (estimative)
+(26 368 $)
+(23 484 $)
+[29] Bien que ce ne soit pas tout à fait clair, il semble que ce n’est qu’en 1999 que les comptes d’actionnaires ont fait l’objet d’une diminution visant à tenir compte de la réduction des crédits d’impôt qui ont été reçus. Il semble également que la réduction des montants des comptes d’actionnaires en question était inférieure aux montants ayant été portés au crédit des mêmes comptes au titre des salaires dus. Le tableau suivant illustre les montants portés au crédit des comptes d’actionnaires à l’égard des salaires dus et les montants portés au débit des comptes d’actionnaires relativement à la réduction des crédits d’impôt reçus par la société :
+Susan Morrison
+David Morrison
+Crédit au titre des salaires dus au 30 avril 1997 :
+25 826 $
+19 355 $
+Crédit au titre des salaires dus pour la période allant du 1er mai au 30 septembre 1997 :
+14 362 $
+12 162 $
+Total des crédits au titre des salaires dus :
+40 188 $
+31 517 $
+Débit au titre de la réduction des crédits d’impôt reçus :
+(26 368 $)
+(23 484 $)
+Crédit net au titre des salaires dus :
+13 820 $
+8 033 $
+[30] En conséquence, il semble que les appelants ont reçu une partie des montants crédités à leurs comptes d’actionnaires au titre des salaires dus en 1999 lorsque le solde de ces comptes leur a été versé. Quelques montants ont été portés au débit des comptes d’actionnaires et une partie des salaires dus aurait servi à compenser les sommes que les appelants devaient à la société.
+[31] Les montants qui ont été portés au crédit des comptes d’actionnaires en 1998 (et qui ne sont pas inclus dans leur revenu pour l’année 1998) ne peuvent pas maintenant être ajoutés au revenu des appelants pour 1999, parce que le ministre ne peut interjeter appel de sa cotisation[3].
+[32] Il me semble que les appelants étaient tenus de rembourser, en 1999, une partie du montant qui avait été inclus dans leur revenu en 1997. De plus, toute somme qu’une personne est tenue de rembourser devrait être prise en compte dans le calcul du montant qu’elle a reçu à titre de salaire. Supposons, par exemple, qu’une personne travaille pour un employeur de janvier à mai d’une année donnée et qu’elle reçoit, au cours de cette période, un salaire de 12 000 $ par mois (60 000 $ au total). Supposons qu’il est prévu que, si elle quitte son emploi pour aller travailler pour un concurrent, elle devra rembourser une partie du salaire qu’elle a touché (2 000 $ pour chaque mois de travail). Supposons que la personne quitte son emploi à la fin de mai pour aller travailler pour un concurrent et que, comme convenu, elle rembourse 10 000 $ (2 000 $ x 5 mois) à son ancien employeur. Dans ce genre de situation, il me semble que le montant qui devrait être inclus dans le revenu de cette personne à titre de salaire reçu pour la période en question s’élève à 50 000 $ et non à 60 000 $. Je ne crois pas que le législateur aurait eu l’intention d’obliger cette personne à payer un impôt sur une somme de 60 000 $ alors qu’un montant de 10 000 $ devait être remboursé à l’employeur. Si le paiement initial et le remboursement subséquent n’ont pas lieu au cours de la même année, tout montant qui a été inclus dans le revenu au cours d’une année précédente et qui est remboursé d’une année subséquente devrait être déduit du revenu au titre du salaire reçu pour l’année subséquente.
+[33] Dans la présente affaire, en ce qui concerne les nouvelles cotisations établies pour l’année d’imposition 1999, seule celle qui concerne le revenu de Susan Morrison pour 1999 fait l’objet d’un appel devant la Cour. À mon avis, étant donné qu’une partie du montant qui a été inclus dans le revenu de Mme Morrison pour 1997 à titre de salaire dû a subséquemment été remboursée en 1999, le montant qui avait été précédemment inclus dans son revenu et remboursé en 1999 devrait être déduit du salaire qu’elle a touché au cours de cette même année.
+[34] Le rajustement de 26 368 $ relatif à la réduction des crédits d’impôt n’a fait l’objet d’aucune ventilation visant à montrer la partie de ce montant qui correspond aux salaires dus au 30 avril 1997 et celle qui correspond aux salaires dus pour la période allant du 1er mai au 30 septembre 1997. Je présumerai donc que le rajustement est lié proportionnellement à ces deux montants. En conséquence, le montant qui sera réputé être lié aux salaires dus au 30 avril 1997 sera le suivant :
+Crédit au titre des salaires dus au 30 avril 1997 :
+25 826 $
+Total des crédits au titre des salaires dus :
+40 188 $
+Pourcentage du total :
+64 %
+Portion du débit qui se rapporte à ces salaires dus (64 p. 100 de 26 368 $) :
+16 876 $
+[35] En conséquence, un montant de 16 876 $ devrait être déduit du salaire que Susan Morrison a reçu aux fins de la Loi pour l’année 1999. Aucun rajustement ne sera apporté à la réduction du salaire dû pour la période allant du 1er mai au 30 septembre 1997 car, en raison de la présente décision, le salaire dû pour cette période ne sera pas inclus dans le revenu de Mme Morrison.
+[36] Les appelants ont également fait certaines déductions dans le calcul de leur revenu d’emploi pour 1998 et 1999. Ces déductions seraient imputables au fait qu’ADGA ou TI a apporté d’autres rajustements aux comptes d’actionnaires des appelants à l’égard de dettes et de frais de TI dont la responsabilité leur incombait selon ADGA. Il me semble que l’article 8 de la Loi ne permet nullement aux appelants de déduire ces montants dans le calcul de leur revenu d’emploi. Voici le libellé du paragraphe 8(2) de la Loi :
+(2) Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi.
+[37] Étant donné que ces montants ne sont pas déductibles selon l’article 8, les appelants ne peuvent les déduire dans le calcul de leur revenu d’emploi. À mon avis, ces montants auraient peut-être pu être considérés comme des rajustements du prix d’achat, mais les appelants n’ont pas invoqué cet argument et aucun élément de preuve n’a été présenté au sujet de la façon dont le gain provenant de la vente des actions a été déclaré. Dans la note d’ADGA jointe au document envoyé par télécopieur le 3 septembre 1999, il est fait mention d’un [traduction] « montant de 140 000 $ qui reste de l’acquisition des actions de TI par ADGA », mais rien n’indique si la totalité du gain découlant de la vente des actions (qui était probablement un gain en capital) a été déclarée en 1997 ou si un montant a été déduit à titre de provision conformément au paragraphe 40(1) de la Loi et une partie du gain a été déclarée en 1998 ou 1999. Étant donné que l’appel ne porte pas sur l’année d’imposition 1997, aucun rajustement n’aurait pu être apporté au gain en capital qui aurait été déclaré au cours de cette année-là. Si aucun gain en capital n’a été déclaré en 1998 par les appelants ou en 1999 par Susan Morrison, la perte en capital qui aurait pu être subie au cours de ces mêmes années n’aurait pas d’incidence sur la cotisation d’impôt à payer, étant donné qu’une perte en capital peut seulement être déduite d’un gain en capital. En l’absence d’éléments de preuve établissant qu’un gain en capital a été déclaré par les appelants en 1998 ou par Susan Morrison en 1999, aucun rajustement ne sera apporté à l’égard de ces déductions.
+[38] Les appelants avaient également soulevé la question du revenu provenant de redevances et avaient soutenu qu’ils n’avaient pas reçu ce revenu. Il s’agit d’un montant de 14 866 $ en ce qui concerne Susan Morrison. Dans le cas de David Morrison, le montant s’élève à 13 239 $ pour l’année 1999; cependant, la nouvelle cotisation relative à la dette d’impôt de M. Morrison pour 1999 n’est pas visée par l’appel devant la Cour.
+[39] En tout état de cause, il me semble que ces montants ont été payés en 1999. Un montant a été porté au crédit des comptes d’actionnaires en 1999 au titre des paiements de redevances. Le solde des comptes d’actionnaires (compte tenu de tous les débits et les crédits) semble avoir été versé aux appelants le 29 octobre 1999. Même si le montant du chèque émis en faveur de chaque appelant (22 710 $ pour Susan Morrison et 12 502 $ pour David Morrison) était inférieur au montant qu’ils s’attendaient à recevoir, il tient compte de tous les montants portés au débit de ces comptes, lesquels correspondaient aux sommes que les appelants devaient à la société. En conséquence, les crédits ont servi en partie à payer les montants que les appelants devaient à la société, et le solde qui leur était dû (après la réduction visant à tenir compte des sommes qu’ils devaient) leur a été payé par chèque. Si les appelants contestent les montants qui ont été exigés d’eux (et qui ont été débités de leurs comptes d’actionnaires respectifs), ils auraient dû régler cette question avec ADGA.
+[40] En conséquence, les appels des appelants sont accueillis et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant pour acquis :
+a) qu’un montant de 14 362 $ est retranché au revenu d’emploi de Susan Morrison pour l’année 1998;
+b) qu’un montant de 12 162 $ est retranché au revenu d’emploi de David Morrison’s pour l’année 1998;
+c) qu’un montant de 16 876 $ est retranché au revenu d’emploi de Susan Morrison pour l’année 1999.
+[41] L’intimée paiera à chacun des appelants un montant de 750 $ au titre des dépens.
+Signé à Ottawa, Canada, ce 19e jour d’août 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 7e jour d’octobre 2010.
+Marie-Christine Gervais
+RÉFÉRENCE : 2010 CCI 429
+Nos DES DOSSIERS DE LA COUR : 2004-2298(IT)I
+2004-2297(IT)I
+INTITULÉS : SUSAN V. MORRISON c.
+SA MAJESTÉ LA REINE ET
+DAVID L. MORRISON c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Nanaimo (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 12 juillet 2010
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 19 août 2010
+COMPARUTIONS :
+Pour les appelants :
+Mme Susan V. Morrison
+Avocat de l’intimée :
+Me Whitney Dunn
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan,
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir également Tolhoek c. La Reine, 2007 DTC 247, 2006 CCI 681 (appel rejeté 2008 CAF 128, [2008] 3 C.T.C. 403, 2008 D.T.C. 6279), où le juge Campbell, de la Cour canadienne de l’impôt, a statué qu’il était possible de payer des sommes d’argent au moyen d’écritures compensatoires.
+[2] La convention prévoyait également que [traduction] « les vendeurs renonceront au solde de l’avance ». Le sens de ces mots n’est pas clair. Si les crédits d’impôt avaient été réduits de 1 $, quel aurait été le montant de l’avance qui aurait fait l’objet d’une renonciation?
+[3] Valdis v. The Queen, [2001] 1 C.T.C. 2827, au paragraphe 21.

@@ -1,0 +1,234 @@
+Title: Punit c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30207/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-88-30207-punit-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-02-11
+
+# Punit c. La Reine
+
+- Citation: 2011 CCI 88
+- Decision date: 2011-02-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7774, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Punit c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-11
+Référence neutre
+2011 CCI 88
+Numéro de dossier
+2008-3635(IT)G
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3635(IT)G
+ENTRE :
+BASIL JAIRAM PUNIT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 25, 26 et 28 octobre 2010 à Toronto (Ontario)
+Devant : L’honorable juge T.E. Margeson
+Comparutions :
+Avocat de l’appelant :
+Me Marvin J. Huberman
+Avocat de l’intimée :
+Me Thang Trieu
+JUGEMENT
+L’appel d’une cotisation établie en vertu du paragraphe 227.1(1) de la Loi de l’impôt sur le revenu, dont l’avis est daté du 11 octobre 2007 et porte le numéro 46126, est rejeté, et la cotisation du ministre est ratifiée.
+Les dépens sont adjugés en faveur de l’intimée.
+Signé à New Glasgow (Nouvelle-Écosse), ce 11e jour de février 2011.
+« T.E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 15e jour de avril 2011.
+François Brunet, réviseur
+Référence : 2011 CCI 88
+Date : 20110211
+Dossier : 2008-3635(IT)G
+ENTRE :
+BASIL JAIRAM PUNIT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] Le ministre du Revenu national (le « ministre ») a établi une cotisation de 216 717,06 $ à l’égard de l’appelant au titre des retenues à la source d’impôt sur le revenu fédéral que HTS‑Horizon Teleservices Inc. (la « société ») avait omis de verser ainsi que des pénalités et des intérêts y afférents, en vertu de l’article 227.1 de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) et ses modifications (la « Loi »), et a envoyé un avis de cotisation daté du 11 octobre 2007.
+[2] Le ministre a ratifié la cotisation et a envoyé un avis de ratification daté du 25 juillet 2008. L’appelant a interjeté appel de cette cotisation devant la Cour.
+[3] Basil Jairam Punit a affirmé qu’il était venu de New York au Canada en 1988. Il porte les titres suivants : CA (Canada), CPA (États-Unis) et CMA (Canada). Il est titulaire d’un baccalauréat en commerce de l’Université Concordia. Il a dit que société avait été constituée en personne morale œuvrant dans le domaine des téléservices et qu’elle avait exploité un [TRADUCTION] « centre d’appels sortants ».
+[4] La pièce A‑1, onglet 3, du recueil de documents de l’appelant a été produite du consentement des parties. Il s’agit des statuts constitutifs datés du 16 mai 2002. L’appelant a constitué cette société à la demande du docteur Frederick Ballantyne, médecin investisseur et administrateur de la société. Le Dr Ballantyne était retenu au moment de l’instruction et n’a pu s’y présenter, selon le témoin. Le Dr Ballantyne est actuellement gouverneur général de Saint-Vincent-et-les Grenadines.
+[5] La pièce A‑1, onglet 5, a été admise en preuve. Il s’agit du certificat de constitution de HTS‑Horizon Management Inc. L’appelant a constitué cette société pour fournir des services d’experts-conseils. La société a été inactive jusqu’en 2005. Elle est toujours en activité. Il n’y a aucun lien entre cette entité et la société en cause en l’espèce.
+[6] Selon la pièce A‑1, onglet 7, l’appelant était partie à une convention de [traduction] « fiducie d’actions » visant les actions dans des [TRADUCTION] « téléservices » jusqu’à ce que son investissement en capital ait été remboursé.
+[7] La lettre produite sous la cote A‑1, onglet 12, a fait l’objet d’une objection, et elle a été admise uniquement aux fins de démontrer qu’elle avait été livrée à l’Agence du revenu du Canada (l’« ARC »). Cette lettre indiquait que le Dr Ballantyne avait investi 275 000 $ dans la société.
+[8] La société comptait une expérience en matière d’exploitation d’un centre d’appels.
+[9] La lettre produite sous la cote A‑1, onglet 2, était une offre de bail sur une base nette pour le centre d’appels à Sudbury, en Ontario. L’appelant et le Dr Ballantyne l’ont signée à titre d’[TRADUCTION] « parties indemnisatrices ». L’appelant s’y qualifie de directeur financier et comptable externe.
+[10] La pièce A‑1, onglet 4, était qualifiée de [TRADUCTION] « lettre de mission » de l’appelant qui indiquait que l’appelant conseillerait la société aux fins de la prise de décisions de gestion mais qu’il ne prendrait pas ces décisions ni n’exercerait aucune fonction relativement à la prise de telles décisions. Cette lettre était adressée par l’appelant au Dr Ballantyne et était datée du 22 mai 2002. L’appelant y disait qu’il n’avait aucune responsabilité à l’égard de la prise de décisions concernant l’exploitation. Il se qualifiait de [TRADUCTION] « dirigeant fonctionnel » et de [TRADUCTION] « comptable externe ». Il détenait des actions de la société en fiducie pour le Dr Ballantyne conformément à la déclaration de fiducie produite sous la cote R‑1, onglet C. Le Dr Ballantyne était un non-résident du Canada. L’appelant détenait les actions par souci de commodité. Il était lui aussi administrateur.
+[11] La pièce A‑1, onglet 7, est le procès-verbal de la première réunion de la société, et il comporte une liste des noms des actionnaires. Basil Punit détenait 10 % des actions.
+[12] L’appelant a démissionné du poste d’administrateur après la réunion le 20 juillet 2002, et un avis de changement d’administrateurs a été rédigé et déposé. L’appelant pensait que les nouveaux administrateurs avaient été nommés le 20 juillet 2002. C’est ce qu’indiquait le document produit sous la cote A‑1, onglet 6. L’appelant croyait qu’il avait démissionné à ce moment. Il a signé le document. Celui-ci a été remis au secrétaire de la société, et l’appelant croyait que le document serait envoyé par la poste au bureau du gouvernement fédéral. C’est un formulaire du gouvernement fédéral qui a été employé. À partir de ce moment, tous croyaient que l’appelant avait démissionné du poste d’administrateur et qu’il était seulement un comptable externe. L’appelant n’a jamais exercé aucun contrôle après ce moment. Il a informé les autres administrateurs au sujet des retenues à la source.
+[13] À l’automne 2002, une autre réunion des administrateurs a été tenue, et l’appelant a dit la même chose aux administrateurs au sujet des retenues à la source et il a dit que le montant de l’arriéré augmentait. La pièce A‑1, onglet 7, le confirme. On a demandé à l’appelant de demander une marge de crédit, ce qu’il a fait. Cette demande a été refusée par la CIBC. Il s’est adressé à la Banque TD, qui a également refusé sa demande.
+[14] Le Dr Ballantyne a dit à l’appelant que les fonds nécessaires au versement des retenues obligatoires seraient toujours dans le compte.
+[15] L’équipement était défectueux, et il a fallu deux ou trois mois avant que le nouvel équipement soit livré. Il y avait un problème de [TRADUCTION] « concessionnaire ». Aucun registre des ventes n’était tenu; il n’y avait pas de fonds pour payer les comptes. Tous les dépôts étaient contrôlés par les autres administrateurs. L’appelant n’exerçait aucun contrôle. Andre Albarus et Chevon Blackwood ont fraudé la société. Les fonds n’étaient pas versés dans le compte. Ils étaient détournés du compte de la société.
+[16] L’appelant était encore autorisé à signer des chèques pour la société, mais il devait obtenir l’approbation des autres administrateurs. Il a tenté de faire en sorte que les comptes soient payés.
+[17] L’appelant a réussi à faire émettre des chèques postdatés à l’ordre de l’ARC au printemps 2003, et il les a remis à l’ARC. Il présumait que les fonds seraient là au moment où les chèques seraient présentés pour paiement. Il a émis douze chèques de 10 000 $ chacun à partir de juin 2003. Les trois ou quatre premiers ont été compensés, mais, après cela, il n’y avait aucuns fonds dans le compte. Lorsque la banque a refusé d’honorer les premiers chèques, l’appelant a dit à l’ARC qu’il allait faire opposition à ceux-ci. On lui a assuré que les fonds seraient là.
+[18] Les autres administrateurs ont ouvert un nouveau compte bancaire auprès de la CIBC à Sudbury et ils y ont détourné les fonds de la société. L’appelant s’en est aperçu à l’automne 2003.
+[19] L’appelant a engagé un ancien agent de la GRC pour enquêter au sujet de la perte de 80 000 $, ce qui a permis de confirmer la chose. Le Dr Ballantyne a accepté d’attendre et de donner aux autres administrateurs une autre chance de remettre la société sur pied. L’appelant ne pouvait rien faire de plus.
+[20] En octobre 2004, ils ont quitté la société. Ils ont abandonné les locaux et ont commencé à exploiter une entreprise parallèle. Ils ont transféré leur personnel et leur équipement à l’autre entreprise.
+[21] L’appelant a tenté d’aider l’ARC à recouvrer les montants en souffrance, mais ils n’ont trouvé aucun actif.
+[22] En contre-interrogatoire, l’appelant a dit qu’il savait que la société avait été constituée en vertu des lois de l’Ontario. Il a admis qu’il avait été un [TRADUCTION] « premier » administrateur. Son adresse était la même que celle de la société. La société avait été en activité de 2002 à 2004, abstraction faite de certains problèmes techniques. Elle n’a gagné aucun revenu jusqu’en août 2002. Il y a eu un changement d’administrateurs en 2002. À l’époque où l’appelant a produit des oppositions à la cotisation dont il est question ici, il croyait encore que le formulaire fédéral était requis pour modifier la liste des administrateurs. Les statuts constitutifs ont été les derniers documents produits auprès du bureau du ministre.
+[23] L’appelant a constitué HTS-Horizon Management Inc. en personne morale peu après que la société eut été constituée. HTS‑Horizon Management Inc. a été constituée en vertu des lois de l’Ontario. L’appelant était l’unique actionnaire, administrateur et dirigeant de HTS‑Horizon Management Inc.
+[24] En 2005, l’appelant a agi comme conseiller financier du gouvernement du Guyana pour la construction d’un nouvel hôtel au Guyana. La construction de l’hôtel n’a jamais été achevée. L’avis indiquant que l’appelant était investisseur était erroné. Il était seulement le conseiller de l’investisseur. Il n’était pas un dirigeant de ce projet, même si les renseignements contenus dans la pièce R‑4 indiquent qu’il l’était. Il a admis avoir aussi été lié à d’autres sociétés. Il était copropriétaire d’une société privée au Guyana dénommée Lintel. Il s’agissait d’une société de télémarketing. Elle a soudainement fermé ses portes à la fin de 2006.
+[25] L’appelant a été président d’une chambre de commerce Guyana‑Canada, qui avait pour objet la promotion des échanges commerciaux entre le Guyana et le Canada.
+[26] L’appelant a signé l’offre de bail au nom de la société avant sa constitution. Le Dr Ballantyne l’a également signée à titre de garant. Ce document désignait l’appelant comme le directeur financier de la société, mais il s’agissait seulement d’un titre [TRADUCTION] « fonctionnel ».
+[27] À l’automne 2002, l’appelant était au courant de l’existence d’une société « C and A Solutions ».
+[28] L’appelant a dit qu’il avait démissionné de son poste d’administrateur de la société le 20 juillet 2002. Il a signé le formulaire intitulé « Changements concernant les administrateurs » produit sous la cote A‑1, onglet 6. Il a dit qu’il avait remis le formulaire au secrétaire, Chevon Blackwood, pour que celui-ci le dépose, lequel allait le remettre à sa secrétaire pour qu’elle le dépose.
+[29] L’appelant a identifié les relevés bancaires que la CIBC avait remis à la société, produits sous les cotes R‑8, R‑9 et R‑10, qui indiquaient comme adresse de la société l’adresse de l’appelant. Celui‑ci envoyait ces documents à Sudbury après les avoir reçus. Ces relevés portent des annotations de l’appelant. Les dossiers de la société étaient conservés à Sudbury.
+[30] L’appelant avait le pouvoir de signer des chèques, tout comme le Dr Ballantyne, mais il devait obtenir la permission des administrateurs avant de signer quelque chèque que ce fût. Il pouvait également virer des fonds entre les comptes canadien et américain. Il vérifiait les comptes chaque semaine entre 2002 et 2004.
+[31] L’appelant a identifié des procès-verbaux de la société et il a affirmé qu’ils constituaient des comptes rendus fidèles de ce qui s’était passé. Il s’agissait dans tous les cas de procès-verbaux de réunions des administrateurs, mais l’appelant était présent à ces réunions à titre de comptable externe. Les procès-verbaux de la société n’ont pas tous été produits. Ils étaient approuvés et distribués. La pièce R‑2, onglet 7, indique que l’appelant a démissionné de son poste d’administrateur et a été nommé comptable de la société.
+[32] Le 19 octobre 2002, l’appelant savait que les retenues de juin, juillet, août et septembre n’avaient pas été versées. La décision a été prise de payer les employés et de reporter les versements à l’ARC.
+[33] L’appelant détenait certaines preuves de fraude contre la société. La plupart des créances de la société provenaient de débiteurs situés aux États‑Unis, et leurs paiements étaient déposés dans le compte américain. L’appelant a admis avoir posé des actes relativement au compte Primus en mars 2003, mais il a dit que c’était seulement concernant la sous‑facturation de 150 000 $ et qu’il n’avait pris aucune décision de gestion. Il s’était occupé du compte Primus seulement pour ce qui est de la facturation.
+[34] L’appelant a pris part à la négociation des conditions du bail.
+[35] En avril 2003, des fonds continuaient d’être versés dans le compte américain. L’appelant était toujours au courant des dettes envers l’ARC et il continuait à en aviser les administrateurs.
+[36] L’appelant a identifié la proposition envoyée à l’ARC, produite sous la cote R‑11, datée du 26 novembre 2003. Il s’agissait d’une proposition à titre de directeur financier.
+[37] L’appelant a appelé l’ARC pour l’aviser que les chèques ne seraient pas honorés. Il ne savait pas à qui il l’avait dit. Cette communication avait eu lieu au téléphone. Les chèques n’étaient toujours pas honorés.
+[38] Il a envoyé la lettre à l’ARC le 24 août 2004 en sa qualité de directeur financier.
+[39] Très peu de fonds étaient envoyés à l’ARC puisque les administrateurs avaient reporté leurs versements. L’appelant a signé les déclarations de revenus des sociétés T2 de la société pour les années d’imposition 2002 et 2003 ainsi que les déclarations relatives à la taxe sur les produits et services datées du 24 août 2004. Les ventes avaient toutes été faites à des non-inscrits.
+[40] Le 8 octobre 2004 ou vers cette date, l’appelant a reçu une lettre de recouvrement d’un montant de 307 737,34 $ à titre d’administrateur. La correspondance qui indiquait que Marcus Ballantyne n’était pas administrateur était inexacte, mais l’appelant ne dispose d’aucun document démontrant que M. Ballantyne l’était.
+[41] L’appelant n’a pas assigné Marcus Ballantyne à témoigner parce qu’il pensait que ce ne serait pas nécessaire. Il a parlé à son associé et lui a demandé de venir, mais celui-ci ne pouvait pas venir en raison de ses fonctions à Saint-Vincent.
+[42] La pièce R‑18 est une lettre que l’appelant a envoyée à l’ARC le 2 mars 2005 au sujet de prêts qu’il avait consentis à la société et de chèques totalisant 22 000 $ qui avaient été tirés à l’ordre de l’appelant au titre de ces prêts.
+[43] L’appelant a nié avoir transféré sa propriété à son épouse, comme l’indique la pièce R‑19, parce qu’il pensait qu’il était responsable de la dette dont il est question ici en sa qualité d’administrateur. Il a dit qu’il l’avait fait pour des raisons personnelles. À l’heure actuelle, l’appelant et son épouse sont copropriétaires.
+[44] La pièce R‑21 correspond aux procès-verbaux que l’appelant a envoyés à l’ARC en 2005. Il a été avancé que ces procès-verbaux différaient des procès-verbaux que l’appelant avait présentés plus tôt. L’appelant ne pouvait pas expliquer pourquoi la série de procès‑verbaux indiquait le 8 août 2003, tandis que l’autre indiquait le 18 juin 2003. Il s’agissait des copies qu’il avait reçues.
+[45] L’attention de l’appelant a été attirée sur le fait que son nom ne figurait pas sur la liste des administrateurs dans la pièce A‑1, onglet 7, datée du 27 avril 2002, mais qu’il était mentionné dans la pièce R‑21 à la page 63, soit le procès‑verbal que M. Punit avait fourni au ministre. On lui a soutenu que celui‑ci avait remis au ministre une série différente de procès-verbaux qui omettait son nom à titre d’administrateur de manière à ce que sa responsabilité ne soit pas retenue en cette qualité, ce qu’a rejeté l’appelant. Il a dit que le fait qu’il ait lu les procès‑verbaux ne faisait pas de lui le secrétaire. Son poste de directeur financier ne signifiait pas qu’il était le secrétaire-trésorier de Horizon.
+[46] Les renseignements que l’appelant a exposés dans sa lettre à l’ARC datée du 5 juillet 2007 étaient inexacts. Il croyait que la fraude avait été perpétrée en 2003 et non en 2004. La lettre était également inexacte lorsqu’elle indiquait que l’appelant avait produit le Formulaire numéro 6 auprès d’Industrie Canada en juillet 2002.
+[47] L’attention de l’appelant a été attirée sur la demande d’allègement pour les contribuables qu’il avait présentée et qui a été produite sous la cote R‑23. On lui a soutenu qu’aucune fraude n’avait été perpétrée contre la société et qu’il se raccrochait désespérément à n’importe quoi.
+[48] L’appelant a convenu qu’il avait rempli le Formulaire numéro 6 sur lequel le nom du docteur Frederick Ballantyne ne comporte pas de « e ». On a soutenu qu’en réalité, c’était lui qui avait préparé tous ces documents, ce qu’il a nié. On a soutenu que le Formulaire numéro 6 avait été rempli après 2002, ce qu’il a nié, même si le formulaire portait au coin inférieur gauche le numéro IC3103 (2004/11).
+[49] On a soutenu que l’appelant avait signé ce formulaire en 2005 pour tenter de se tirer d’affaire. Son attention a été attirée sur la page 63 de la pièce R‑21, où Basil Punit était désigné comme secrétaire-trésorier dans le procès-verbal du 20 juillet 2002.
+[50] Il a été souligné que le procès-verbal du 18 janvier 2003 produit sous la cote A‑1, onglet 7, et le procès-verbal du 8 août 2003 produit sous la cote R‑21 étaient très semblables. L’appelant a dit que le procès-verbal de la pièce A-1 provenait de la société après la réunion à Sudbury le 20 juillet 2002. Il l’avait demandé au secrétaire. Le procès-verbal contenu dans la pièce A‑1 était également dans ses dossiers. Il ne l’avait pas reçu tout juste avant de le donner à l’ARC.
+[51] Le Dr Ballantyne avait autorisé l’appelant à payer les employés. Le Dr Ballantyne prenait encore une part très active aux affaires de la société même s’il n’était pas censé le faire. L’appelant a été renvoyé à la pièce A‑1, onglet 12, qui avait supposément été signée par le docteur Frederick Ballantyne et qui ne comportait aucun « e » dans le nom « Frederick ». L’appelant a dit qu’il ne savait pas qui l’avait signé mais qu’il lui avait essentiellement dit quoi dire. Il ne savait pas pourquoi Marcus Ballantyne n’était pas mentionné comme administrateur. Ce n’est qu’en octobre 2004 qu’il a appris qu’il se passait quelque chose au centre d’appels.
+[52] L’appelant savait que Mme Deirdre Rhora était agente de recouvrement de l’ARC, mais il ne pouvait pas dire s’il lui avait dit qu’il y avait quatre administrateurs qui vivaient à Sudbury. Elle l’a avisé en juin 2004 qu’il était l’unique administrateur d’après les registres provinciaux mais qu’il y avait maintenant trois nouveaux administrateurs, y compris lui-même. Il n’était pas d’accord pour ce qui le concernait.
+[53] L’appelant aurait dit à Mme Rhora qu’il avait démissionné de son poste d’administrateur ayant constitué la société, et il ne pouvait pas se souvenir de lui avoir parlé de la production du Formulaire numéro 6. Il aurait répondu qu’il n’était pas administrateur verbalement ou par écrit. Il a aussi rencontré le vérificateur des feuilles de paye et il lui a communiqué des renseignements au sujet des actionnaires de la société.
+[54] L’appelant était propriétaire bénéficiaire de 10 % des actions de la société. Il ne se souvenait pas d’avoir dit au vérificateur des feuilles de paye / examinateur des fiducies qu’il était vice-président, mais il lui a dit que le Dr Ballantyne était le président. S’il lui a dit qu’il était administrateur, c’était un lapsus, parce qu’il était un des administrateurs ayant constitué la société.
+[55] L’appelant a admis qu’il avait fourni au vérificateur des feuilles de paye la pièce R‑25, sur laquelle son nom figurait à titre d’administrateur. Il ne pouvait pas se souvenir de quelle date il s’agissait.
+[56] L’appelant n’a jamais été chargé des dépôts, et ses pouvoirs étaient limités aux fonds qui se trouvaient dans les comptes. Il a dit que des mécanismes de contrôle avaient été mis en place au début et que le compte bancaire était assujetti à un mécanisme de contrôle opérationnel.
+[57] L’appelant a reçu une copie de l’avis de cotisation produit sous la cote R‑1, onglet B, vers le 11 octobre 2007. Il a parlé à un certain M. Corney de l’ARC. Il lui a dit qu’il ne pouvait pas payer et qu’il ferait vraisemblablement faillite.
+[58] L’appelant ne s’est jamais présenté comme administrateur après qu’il eut produit le Formulaire numéro 6. Il a nié que son témoignage n’était [TRADUCTION] « pas tout à fait honnête ». Il cherchait à obtenir une mesure d’allègement administrative pour la société.
+[59] Lors de son réinterrogatoire, l’appelant a dit que la société était incapable d’effectuer les versements de 10 000 $ qu’elle avait promis.
+[60] L’appelant a réitéré qu’il manquait environ 80 000 $ dans le compte de Horizon. Ce montant aurait été suffisant pour effectuer les versements impayés à l’ARC et mettre le compte à jour.
+[61] L’appelant a dit que la maison avait été transférée de nouveau à son épouse et à lui ou qu’à tout le moins, il avait donné des instructions en ce sens à son avocat.
+[62] Me Arthur John Reynolds Mastin était un avocat pratiquant le droit des sociétés et le droit commercial. Il a identifié la lettre produite sous la cote A‑1, onglet 13, comme étant la lettre qu’il avait adressée à l’ARC le 21 juillet 2008 concernant l’appelant. La majorité des renseignements contenus dans cette lettre sont des ouï-dire, mais Me Mastin a dit que l’appelant lui avait demandé de rédiger cette lettre cinq ans après les événements qui y sont relatés. Me Mastin n’a pas été rémunéré pour rédiger cette lettre.
+[63] Me Mastin n’a pas pu expliquer pourquoi l’appelant lui aurait dit qu’il était un [TRADUCTION] « nu-fiduciaire », et il ne pouvait pas dire si l’appelant lui avait dit qu’il serait un administrateur.
+[64] L’appelant n’a jamais donné instruction à Me Mastin de présenter une réclamation relativement à l’argent présumé manquant. Me Mastin croyait que la démission de l’appelant avait été consignée dans les documents de la société d’après ce qu’il lui avait dit.
+[65] L’intimée a appelé comme témoin Deirdre Rhora, qui était agente de recouvrement de l’ARC. Elle a instruit ce dossier en juin et en juillet 2005, puis à nouveau en octobre 2007. L’appelant lui a dit qu’il était l’un des administrateurs ayant constitué la société, mais il ne lui a jamais dit qu’il avait démissionné de son poste d’administrateur.
+[66] Mme Rhora a envoyé une lettre d’avertissement à tous les administrateurs y compris l’appelant. Elle n’a reçu aucune réponse de l’appelant à cette lettre. S’il lui avait dit qu’il n’était pas un administrateur, elle aurait demandé le procès-verbal et sa démission.
+[67] Le 18 novembre 2004, Mme Rhora a parlé à l’appelant, qui lui a dit que la société était toujours visée par des mesures de recouvrement et lui demandé de faire retirer les documents de recouvrement contre la société. Il a dit qu’il était un administrateur ayant constitué la société et qu’à la réunion d’août 2002, trois autres administrateurs avaient été nommés. Il n’a pas dit qu’il n’était pas un administrateur régulier. Mme Rhora n’a jamais reçu aucun renseignement de l’appelant concernant sa démission de son poste d’administrateur.
+[68] C’est lorsqu’elle a lu la mention de sa démission dans le procès-verbal de juin 2005 que Mme Rhora a eu vent pour la première fois de la démission de l’appelant.
+Conclusions de l’appelant
+[69] La société a démarré en 2002 et elle a cessé ses activités le 31 mars 2005. C’est cette période qui est en cause.
+[70] L’appelant est une personne très instruite, et son témoignage doit être respecté. Il a dit qu’il était le comptable externe, le directeur financier, le secrétaire‑trésorier et un vice-président, mais non un administrateur. Il était l’administrateur ayant constitué la société. La pièce R‑2 indique qu’il était désigné comme administrateur dans les documents de la société en 2005.
+[71] L’appelant a dit qu’il avait démissionné de son poste d’administrateur à la première réunion et que d’autres avaient été nommés à sa place. Il a cessé d’être un administrateur de droit. Il pensait qu’il n’était plus administrateur. Il s’est qualifié d’administrateur ayant constitué la société.
+[72] Le 15 juin 2005, il a télécopié à l’ARC le procès-verbal indiquant qu’il avait démissionné de son poste d’administrateur. Ce document est produit sous la cote R‑21, à la page 63.
+[73] Un Formulaire numéro 6 a été téléchargé, et il l’a remis au secrétaire de la société pour que celui-ci le produise. Il a continué à y exercer les fonctions de comptable. Il n’y a rien qui indique qu’il ait été administrateur après cela.
+[74] À partir de juillet 2002, l’appelant a informé les administrateurs de la société au sujet de leurs obligations. Il se fiait aux autres pour qu’ils exploitent l’entreprise.
+[75] L’appelant a demandé une marge de crédit à la CIBC et à la Banque TD, mais ces demandes ont été refusées. Le Dr Ballantyne a refusé de signer une garantie personnelle. C’est la fraude de Chevon Blackwood et d’Andre Albarus qui a causé tous les problèmes. Cette fraude a été découverte en février 2003. L’appelant ne pouvait signer aucun chèque sans l’aval d’Andre Albarus et Chevon Blackwood. Il a tenté de prendre des dispositions pour effectuer des versements.
+[76] Le 26 novembre 2003, l’appelant a demandé à ce que les paiements mensuels de 10 000 $ à l’ARC soient réduits à 5000 $, et il a avisé l’ARC qu’il y avait de sérieux problèmes. Il a informé l’ARC au sujet du détournement des 80 000 $ qui auraient pu servir à régler la totalité de la dette impayée envers l’ARC. Les investisseurs se sont dissociés de la société en 2004 et l’appelant l’a appris en 2005.
+[77] En octobre et en novembre 2004, l’ARC a commencé à envoyer des avis aux administrateurs. Après cela, l’appelant a été très coopératif et serviable dans ses rapports avec l’ARC.
+[78] La Cour est appelée à rechercher si l’appelant était administrateur de la société à l’époque où celle-ci était tenue de faire les versements. L’appelant a cité la jurisprudence Kalef c. Canada, [1996] 2 C.T.C. 1 (CAF), et il a souligné que l’on cesse d’être administrateur lorsque l’on démissionne. Il a cité les dispositions pertinentes de la Loi sur les sociétés par actions, L.R.O. 1990, ch. B.16, et ses modifications, relativement au poste d’administrateur. L’on cesse d’être administrateur lorsque l’on démissionne. L’appelant a dit qu’il avait démissionné. Même si la démission écrite n’a pas été produite, l’appelant avait démissionné (voir Netupsky c. Canada, [2003] G.S.T.C. 15, [2003] A.C.I. no 30 (QL)).
+[79] Le rôle que l’appelant a joué était restreint et était soumis à la volonté d’autrui. Selon le critère de la diligence raisonnable, il faut rechercher si les administrateurs ont agi de manière raisonnable. L’appelant a toujours pensé qu’il agissait correctement.
+[80] Le Dr Ballantyne a dit à l’appelant qu’il y aurait toujours des fonds dans le compte pour payer l’ARC. La conviction de l’appelant était raisonnable, subjectivement et objectivement. Il doit être exonéré parce que les fonds ont été dérobés.
+[81] L’appelant n’avait aucune liberté de choix. Il a remis les chèques postdatés et les autres ont commis la fraude. Il ne pouvait rien faire.
+[82] L’appelant a démissionné ou a cru erronément qu’il avait démissionné, et il a fait preuve de diligence raisonnable. S’il est responsable, il doit seulement l’être jusqu’à la date de la fraude.
+Conclusions de l’intimée
+[83] Selon l’avocat de l’intimée, la présente affaire soulève deux questions :
+(i) L’appelant était-il administrateur pendant la période pertinente?
+(ii) A-t-il satisfait au critère de la diligence raisonnable?
+[84] L’avocat de l’intimée a exprimé l’avis que l’appelant était administrateur pendant la période pertinente et qu’il n’avait pas satisfait au critère de la diligence raisonnable.
+[85] En ce qui concerne le témoignage de l’appelant, [TRADUCTION] « il y a beaucoup de choses à concilier et la crédibilité de l’appelant soulève beaucoup de questions ».
+[86] Aucune des hypothèses exposées dans la réponse n’ont été réfutées. L’appelant a été discrédité comme témoin.
+[87] L’appelant s’est présenté comme étant un administrateur verbalement et par écrit. Selon lui, son titre de directeur financier avait un caractère purement fonctionnel. C’était bien plus que cela.
+[88] Dans la pièce R‑21, l’appelant s’est présenté comme étant le secrétaire-trésorier depuis le 20 juillet 2002.
+[89] L’appelant a confirmé que le procès-verbal produit sous la cote A‑1, onglet 7, constituait un compte rendu fidèle mais qu’il était différent du procès-verbal produit sous la cote R‑21.
+[90] On a soutenu que l’appelant avait modifié le procès-verbal pour que celui-ci indique que l’appelant était seulement comptable et qu’il avait démissionné alors qu’il ne l’avait pas fait. Il a dit qu’il avait produit le Formulaire numéro 6 alors qu’il ne l’avait pas fait. Son propre avis d’appel le discrédite. Il a été démontré que le Formulaire numéro 6 était un formulaire qui avait seulement commencé à être employé en 2003. Le Formulaire numéro 6 de 2001 était différent. L’appelant a dit qu’il avait produit le Formulaire numéro 6 en 2002, mais ce formulaire a seulement été créé en novembre 2004 et il est demeuré la version courante jusqu’au 4 mai 2005. Il est impossible que l’appelant ait produit le Formulaire numéro 6 qu’il a cité au moment où il dit l’avoir fait.
+[91] L’appelant échafaudait un plan en disant que le formulaire avait été produit auprès du mauvais bureau afin de se mettre à l’abri. Seulement, il a téléchargé le formulaire qu’il a employé après le fait. Il a falsifié cet élément de preuve afin de ne pas avoir à payer. Il a signalé qu’il avait transféré de nouveau sa propriété à son épouse et à lui‑même, mais ce transfert, s’il a effectivement eu lieu, a eu lieu après que l’appelant eut reçu la lettre d’avertissement de l’ARC. L’ARC lui a envoyé la lettre d’avertissement le 19 novembre 2004, et l’appelant n’a pas dit qu’il se souvenait d’avoir nié qu’il était administrateur. Le témoin de l’ARC a dit qu’il ne savait pas que l’appelant niait qu’il était administrateur jusqu’à ce qu’il reçoive la pièce R‑21.
+[92] L’appelant a admis à l’ARC que les deux autres personnes à Sudbury ne voulaient pas intervenir comme administrateur et qu’il était donc demeuré administrateur.
+[93] Après la fraude alléguée, l’appelant a acquiescé à tout ce que la société a fait. Les montants dus augmentaient rapidement. Il a continué à faire des chèques. Il vérifiait les comptes chaque semaine et recevait les relevés chez lui. La société continuait de financer l’exploitation et de payer des fournisseurs pour maintenir l’entreprise à flot.
+[94] Avant l’établissement de la cotisation, l’appelant avait dit à l’ARC que les problèmes étaient liés aux coûts de démarrage, mais à l’audience il a dit qu’il s’agissait de la période au cours de laquelle la fraude avait été commise.
+[95] Aucun élément de preuve n’a été produit tendant à établir que l’appelant avait été empêché d’agir à titre d’administrateur. Son témoignage était contradictoire quant à savoir s’il devait faire approuver les décaissements.
+[96] Même à titre de [traduction] « nu-fiduciaire », il n’avait pas besoin de recevoir d’instructions sur la façon dont il gérait la société, par opposition à ce qu’il pouvait faire des actions. Il s’est présenté comme administrateur, verbalement et par écrit. Dans la pièce R‑25, il est désigné comme vice-président, directeur financier et administrateur. Dès le début, il n’a pas dit la vérité.
+[97] L’appelant était légalement administrateur. Il était inscrit comme tel dans les registres provinciaux. Il n’y a aucun élément de preuve tendant à établir qu’il aurait démissionné de son poste d’administrateur, comme il le soutient. Il n’y a eu aucune résolution à cet effet ni aucune indication en ce sens dans les livres de la société. Le procès-verbal qu’il a présenté n’était pas fiable. Le Formulaire numéro 6 ne vaut rien.
+[98] L’appelant était aussi administrateur de fait. Il s’est présenté comme administrateur. Il n’a pas nié être administrateur la première fois où on lui a opposé cette allégation, comme Marcus Ballantyne l’a fait.
+[99] L’appelant est intervenu en qualité d’administrateur. Il contrôlait les fonds. Il a demandé des marges de crédit. Il supervisait l’exploitation de la société. Il a pris en charge les discussions avec Primus. Il a communiqué avec un courtier d’assurance en 2003. C’est lui qui a rencontré Me Mastin au sujet du montant de 25 000 $. C’est lui qui s’est occupé du bail. C’est lui qui tentait de prendre des dispositions pour effectuer les versements à l’ARC. Il a avisé l’ARC des difficultés financières de la société.
+[100] Pourquoi a-t-il laissé les chèques être refusés? Il a traité avec l’ARC en 2004 et en 2005.
+[101] La diligence raisonnable achoppe là où il y a défaut d’éviter un défaut. À aucun moment l’appelant n’a-t-il cherché à éviter un défaut. Il était partie prenante au défaut de versement. Il était administrateur interne, et les administrateurs internes sont assujettis à une norme plus élevée pour ce qui est de la diligence raisonnable.
+[102] L’appelant a toujours été au courant des difficultés financières de Horizon.
+[103] L’appelant soutient que la fraude commise par d’autres au sein de la société l’exonère de toute responsabilité. Cependant, la fraude n’était pas dirigée contre lui. La fraude alléguée ne l’a pas empêché d’effectuer les versements. L’entreprise est demeurée en exploitation pendant un an après la fraude alléguée. Dans tous les cas, il n’y a aucune véritable preuve de fraude.
+[104] L’appelant était au courant du défaut de versement depuis 2002. Il a d’abord attribué cela aux coûts de démarrage, puis il a invoqué des problèmes de flux de trésorerie. Le fait est que la société a décidé de reporter les versements à l’ARC.
+[105] Aucun mécanisme de contrôle n’a été mis en place pour faire en sorte que l’ARC soit payée. La décision délibérée a été prise de détourner l’argent afin de pouvoir continuer à exploiter l’entreprise au lieu de payer l’ARC. Le fait que le Dr Ballantyne ait donné des instructions à l’appelant ne l’excuse pas.
+[106] L’appelant a pris les décisions et il ne peut s’en prendre qu’à lui‑même. L’appel doit être rejeté avec dépens.
+Réplique
+[107] En réplique, l’avocat de l’appelant a dit qu’il n’y avait aucune preuve de production de faux documents. Le ministre ne fait que faire des suppositions lorsqu’il soutient que certaines signatures et certains documents ont peut-être été falsifiés. L’avocat de l’appelant a convenu qu’il y avait certaines incohérences dans la documentation et les procès-verbaux produits en preuve par l’appelant.
+[108] La pièce R‑25 désigne l’appelant comme administrateur. Cependant, ce document a peut-être été créé avant que les difficultés soient manifestes, et il a peut‑être été remis au ministre dans une liasse de documents. Tous les documents ont été perdus à Sudbury lorsque la société a été évincée des locaux.
+[109] Le comportement de l’appelant devant la Cour a été irréprochable. Son témoignage concordait avec les documents ainsi qu’avec le témoignage de Mme Rhora. Il y a une explication à l’absence du Dr Ballantyne. Pourquoi l’ARC n’a‑t‑elle pas assigné Marcus Ballantyne à témoigner? Il y a suffisamment d’éléments de preuve pour établir la défense de diligence raisonnable. La pièce R‑21 constitue une preuve de fraude.
+[110] La pièce R‑22 est seulement une lettre de M. Punit, mais elle est compatible avec l’existence d’une fraude.
+Analyse et décision
+[111] Comme les deux avocats en ont essentiellement convenu, les deux questions en litige dans le présent appel sont les suivantes :
+(i) L’appelant était‑il administrateur pendant la période pertinente?
+(ii) Si l’appelant était administrateur pendant la période pertinente, a‑t‑il exercé le soin, la diligence et la compétence qu’une personne raisonnablement prudente aurait exercés dans des circonstances comparables pour éviter que la société omette de verser les retenues à la source d’impôt sur le revenu fédéral, tel qu’il est indiqué?
+[112] Le droit est bien fixé : en l’espèce, l’appelant a la charge de prouver, selon la prépondérance des probabilités, que le ministre n’a pas établi les cotisations à juste titre.
+[113] Pour cela, l’appelant doit réfuter un nombre suffisant des hypothèses pertinentes formulées par le ministre pour que la Cour puisse conclure que la cotisation était erronée.
+[114] Pour réfuter ces hypothèses, énoncées dans la réponse, l’appelant doit produire suffisamment d’éléments de preuve crédibles. Les éléments de preuve qui ne sont pas crédibles ne satisfont pas à la norme de preuve.
+[115] En l’espèce, malheureusement, la Cour a de sérieuses réserves quant à la qualité des éléments de preuve, tant le témoignage de vive voix que les éléments de preuve documentaire.
+[116] La Cour a également de sérieuses réserves du fait de l’absence de tout élément de preuve provenant d’autres personnes liées à la société, que l’appelant n’a pas appelées à témoigner.
+[117] Répondre que le ministre n’a pas appelé de tels témoins n’élimine pas cette réserve. En outre, dire que l’appelant ne croyait pas que de tels éléments de preuve étaient nécessaires n’élimine pas non plus cette réserve. La Cour n’est pas convaincue que l’absence d’éléments de preuve semblables ait fait l’objet d’une explication adéquate.
+[118] Le témoignage de l’appelant comportait des contradictions et, dans certains cas, il contredisait le témoignage d’autres témoins et des éléments de preuve documentaire. La Cour a bien observé l’appelant lorsque celui-ci a témoigné et elle a noté son comportement à la barre. Il n’a eu de cesse de répéter qu’il avait toujours agi à titre de comptable externe malgré le fait que les éléments de preuve démontraient clairement qu’il avait été bien plus que cela.
+[119] Les éléments de preuve documentaire indiquent qu’il a été qualifié à différents moments d’administrateur, de vice-président et de secrétaire‑trésorier, et, de son propre aveu, il était le directeur financier de la société.
+[120] Comme l’avocat de l’intimée l’a soutenu, il y avait des contradictions dans ce dont les procès-verbaux étaient censés rendre compte. Ces procès-verbaux ont été fournis par l’appelant lui-même, mais aucune explication n’a été donnée à l’égard de ces contradictions. L’on ne peut que conclure que certains de ces procès-verbaux ne constituaient pas véritablement un compte rendu de ce qui s’était passé mais n’étaient qu’une compilation de ce que l’appelant alléguait s’être passé, une compilation établie après le fait.
+[121] L’appelant s’est qualifié de [TRADUCTION] « directeur financier agissant à titre fonctionnel ». Il était évidemment beaucoup plus que cela pendant la période pertinente.
+[122] L’élément de preuve qui a suscité les plus grandes réserves dans l’esprit de la Cour est le Formulaire numéro 6 que l’appelant avait indiqué dans la documentation écrite avoir produit lui‑même. Lors de son témoignage de vive voix, il a dit qu’il l’avait remis au secrétaire de la société pour que celui‑ci le produise et que le formulaire avait été produit auprès du mauvais bureau. Il n’y a aucun autre élément de preuve qui corrobore l’un ou l’autre scénario.
+[123] Quoi qu’il en soit, le Formulaire numéro 6 n’a pas pu être produit au moment où l’appelant a dit qu’il l’avait été. Ce formulaire n’était pas disponible en 2002 au moment où l’appelant a dit qu’il avait été produit. L’appelant a dit que le formulaire avait été produit auprès du bureau fédéral, mais il n’y a aucun document indiquant qu’un document semblable aurait été produit auprès de quelque bureau gouvernemental que ce soit, sans parler du fait que ce document n’était pas disponible sous cette forme à ce moment‑là.
+[124] La Cour conclut que l’appelant n’a pas pu remplir et signer avant 2004 le Formulaire numéro 6 qu’il a cité.
+[125] Cette preuve mine tous les autres éléments de preuve produits par l’appelant à l’appui de ses dires selon lesquels il a démissionné de son poste d’administrateur et a produit le formulaire le 20 juillet 2002.
+[126] De toute manière, on a opposé à l’appelant la thèse du ministre selon laquelle il était administrateur lorsqu’il a reçu la lettre d’avertissement de l’ARC. Contrairement à Marcus Ballantyne, l’appelant n’a pas nié que tel fût le cas. L’on aurait pu raisonnablement s’attendre à ce que le moment fût alors propice pour que l’appelant adopte cette thèse. Or, ce n’est que plus tard qu’il a nié cette allégation. La Cour conclut que l’appelant était un administrateur de droit pendant la période pertinente au regard de la cotisation en cause en l’espèce.
+[127] La Cour conclut également que l’appelant était administrateur de fait pendant la période pertinente au regard de la cotisation en cause en l’espèce. Il s’est présenté comme administrateur. Il est intervenu comme administrateur. Il contrôlait les fonds; il était le seul signataire autorisé relativement au compte bancaire de la société. Il a pris en charge les discussions avec Primus. Il a demandé des marges de crédit. Il supervisait l’exploitation comme l’a soutenu l’avocat de l’intimée. Il a rencontré Me Mastin au sujet de la fraude alléguée. Il s’est occupé du bail; c’était lui qui tentait de convenir avec l’ARC d’un calendrier de versements. Il a avisé l’ARC des difficultés financières de la société.
+[128] En ce qui concerne la défense de diligence raisonnable, la Cour ne peut conclure qu’il a agi comme l’aurait fait l’administrateur véritablement prudent. Personne ni aucun facteur indépendant de sa volonté n’a empêché l’appelant d’agir prudemment.
+[129] L’appelant n’a pris aucune mesure pour prévenir le défaut, et l’on ne peut que conclure qu’il a acquiescé à la décision de ne pas effectuer les versements à l’ARC, de payer d’autres créanciers et de continuer à retenir les versements qui devaient être faits à l’ARC de manière à ce que la société puisse demeurer en exploitation. Aucune fraude alléguée qui aurait été commise par d’autres à l’endroit de la société n’a causé le défaut de verser les retenues à la source à l’ARC. La société a pu éprouver de ce fait plus de difficulté à réunir les fonds nécessaires pour effectuer ces versements, mais il est évident qu’elle a mobilisé les ressources nécessaires pour payer suffisamment de créanciers et verser suffisamment de salaires pour pouvoir poursuivre ses activités.
+[130] La Cour conclut que l’appelant n’a rien fait pour mettre en place quelque mécanisme de contrôle que ce soit afin d’assurer le versement à l’ARC malgré le fait qu’il était au courant de ces défaillances depuis 2002.
+[131] L’appelant n’a pas établi la défense de diligence raisonnable.
+[132] L’appel est rejeté avec dépens, et la décision du ministre est confirmée.
+Signé à New Glasgow (Nouvelle-Écosse), ce 11e jour de février 2011.
+« T.E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 15e jour de avril 2011.
+François Brunet, réviseur
+RÉFÉRENCE : 2011 CCI 88
+No DU DOSSIER DE LA COUR : 2008-3635(IT)G
+INTITULÉ : BASIL JAIRAM PUNIT c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 25, 26 et 28 octobre 2010
+MOTIFS DU JUGEMENT : L’honorable juge T.E. Margeson
+DATE DU JUGEMENT : Le 11 février 2011
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Marvin J. Huberman
+Avocat de l’intimée :
+Me Thang Trieu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Marvin J. Huberman
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

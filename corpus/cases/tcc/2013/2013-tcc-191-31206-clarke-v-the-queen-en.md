@@ -1,0 +1,161 @@
+---
+title: "Clarke v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31206/index.do"
+last_modified: "2013-06-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 191"
+citation2: ""
+neutral_citation: "2013 TCC 191"
+decision_date: "2013-06-18"
+language: "en"
+item_id: "31206"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5047
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:03:36.970000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cee46b947fbcbb8e305edeba12218cc3181670ae69f24c8dfa5b2d83a5645e33"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Clarke v. The Queen
+
+- Citation: 2013 TCC 191
+- Decision date: 2013-06-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5047, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clarke v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-06-18
+Neutral citation
+2013 TCC 191
+File numbers
+2012-3161(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3161(IT)I
+BETWEEN:
+Sherryl Clarke,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 3, 2013, at Toronto, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Roxanne Wong
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2003, 2004, 2005, 2006 and 2007 taxation years are dismissed.
+Signed at Ottawa, Canada, this 18th day of June 2013.
+"Lucie Lamarre"
+Lamarre J.
+Citation: 2013 TCC 191
+Date: 20130618
+Docket: 2012-3161(IT)I
+BETWEEN:
+Sherryl Clarke,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] These are appeals from reassessments made by the Minister of National Revenue (Minister) under the Income Tax Act (ITA) with respect to the 2003 through 2007 taxation years.
+[2] In computing her income for each of the 2005, 2006 and 2007 taxation years, the appellant claimed a deduction for child care expenses in the amount of $5,200, $5,420 and $2,700 respectively.
+[3] In computing her tax payable for the 2003, 2004 and 2005 taxation years, the appellant claimed, in respect of charitable donations allegedly made, gross non‑refundable tax credits in the amounts of $7,850, $2,890 and $1,933 respectively.
+[4] In reassessing the appellant, the Minister disallowed the child care expenses and non-refundable charitable donation tax credits she had claimed and assessed penalties pursuant to subsection 163(2) of the ITA.
+[5] The respondent acknowledges that the reassessments for the 2003, 2004 and 2005 taxation years were made after the normal reassessment period, but contends that the Minister was entitled to reassess under subsection 152(4) of the ITA since, in filing her tax returns, the appellant made misrepresentations that are attributable to neglect, carelessness or wilful default, or committed fraud, in that she claimed child care expenses and charitable donations that, according to the respondent, were not incurred or made.
+[6] At the outset, the appellant acknowledged that she did not make the charitable donations claimed. She testified that she gave money to the church, but never over $500, and was told by her tax preparer that those donations could not be claimed. She admitted that she did not provide official charitable donation receipts for the amounts claimed. She also admitted that she or her tax preparer misrepresented the facts in relation to the charitable donation claims.
+[7] When she signed her tax returns, she did not flip through the pages and did not realize that the donation amounts in question had been claimed. She said she might have thought at the time that the claims were made on the basis of the receipts from the church that she had initially brought to the tax preparer.
+[8] With respect to the child care expenses, she said that she had two children in those years, the first born in December 2003 and the second in September 2007. She lived with her children and her mother in a house owned by her mother.
+[9] According to her testimony, both she and her mother worked all day. The appellant explained that she left home every morning at 6:00 a.m. and dropped the children off at the babysitter’s place in Mississauga. The babysitter, she said, was the 18-year‑old daughter of a woman who worked with the appellant’s mother. It was the appellant’s recollection that her mother’s co-worker’s name was Sandy. She said the name of the babysitter was Danielle.
+[10] The appellant did not remember the address at which she dropped off the children every morning, but said it was close to a mall.
+[11] In the years at issue, the appellant completed on a part-time basis her diploma in practical nursing. She was also working at the Baycrest Hospital in Toronto and was in charge of the clinical staff payroll (her work involved verifying the accuracy of employees’ paycheques in light of the number of hours worked). Her own hours of work were from 8:00 a.m. to 4:00 p.m. She went to school two or three evenings per week. Her mother was at home in the evenings.
+[12] She testified that her tax returns were prepared by someone by the name of Festus during the years at issue. According to the appellant, her babysitter’s father prepared her tax returns as of 2008.
+[13] In her tax return for the year 2007, the name provided with respect to child care expenses was “S.D.W. Child Care” (Exhibit R-1, Tab 5, page 45).
+[14] The child care receipt provided for that same year indicated another name as the babysitter and the social insurance number (SIN) shown is not the same as that provided in the tax return (Exhibit R-1, Tab 11, page 66).
+[15] The appellant explained that the receipts were provided to her, after she had been reassessed, by the person who prepared her tax return.
+[16] The respondent called Ms. Jennifer Li, a litigation officer at the Canada Revenue Agency (CRA), to testify. Through her investigation Ms. Li determined that the person with the SIN shown on the receipts is a man who appears to have been in his thirties in the years at issue. That person never reported any income from babysitting. Ms. Li’s investigation also revealed that the person referred to in the appellant’s 2007 tax return had three children of her own — none of them being an 18‑year‑old girl during the years at issue — for whom she personally claimed child care expenses.
+[17] Ms. Li also said that, by claiming the child care expenses and charitable donations, the appellant understated her tax payable by 85% in 2003, 75% in 2004, 100% in 2005, and 50% in 2006. To establish those percentages, she relied on the amount of tax assessed on the basis of the appellant’s tax returns and the amount of additional tax reassessed after the audit (which information is found in paragraph 13 of Ms. Li’s affidavit).
+[18] The respondent also called Mr. John Kajin, who was an investigator in the Enforcement Division at the CRA in the years at issue, to testify. He handled an investigation on electronic filing (“EMF Tax Preparers investigation”). He explained that the appellant’s income tax returns for the 2004 and 2005 taxation years (and he had reason to believe for other years too) were filed by someone who had borrowed the e‑file code numbers attributed to someone else. Mr. Kajin stated that the person named Festus referred to by the appellant, who she said had prepared her tax returns up until 2007, was part of a fraudulent scheme. Festus and his partner Eric were selling charitable donation and child care receipts for tax purposes for ten percent of the amount of those receipts (see Transcript, page 5). This scheme apparently affected 7,000 tax returns over three years. Only a rather small percentage of Festus and Eric’s clients did not participate in the donation receipt scheme (see Transcript, pages 7 and 8). One of the partners (Festus) was never found. The other was charged with fraud and pleaded guilty.
+[19] According to Mr. Kajin, the charitable donations claimed by the appellant in her tax returns are an indication that she paid the tax preparer in order to obtain a fraudulent tax refund. The appellant denied this. She said that she paid for having her tax return prepared and filed.
+Analysis
+1) Reassessment beyond the normal reassessment period
+[20] The Minister reassessed the appellant beyond the normal reassessment period for the 2003, 2004 and 2005 taxation years. The Minister therefore had to show that the appellant made a misrepresentation that was attributable to neglect, carelessness or wilful default. The Minister relied on subparagraph 152(4)(a)(i) of the ITA, which reads as follows:
+Income Tax Act
+152(4) Assessment and reassessment. The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or . . . .
+[21] Neglect is established if it is shown that the appellant did not exercise reasonable care (see Venne v. The Queen, 84 DTC 6247 at page 6251, [1984] F.C.J. No. 314 (QL) (F.C T.D.).
+[22] The appellant claimed gross non-refundable tax credits of $7,850 for 2003, $2,890 for 2004 and $1,933 for 2005 in respect of charitable donations. The appellant admitted that she did not make those donations. She did not verify her tax returns to find out why she would have been entitled to a refund higher than she should have expected. The evidence revealed that the tax owing was understated by a large percentage, in large part on account of the donations claimed that were not made.
+[23] There was clearly a misrepresentation with regard to which the appellant did not exercise reasonable care. I therefore conclude that the Minister was entitled to reassess the appellant beyond the normal reassessment period.
+2) Child care expenses
+[24] The appellant claimed child care expenses of $5,200 for 2005, $5,420 for 2006 and $2,700 for 2007.
+[25] She said that she paid in cash a young, approximately 18‑year-old girl named Danielle, who apparently was the daughter of a co-worker of the appellant’s mother. The appellant did not ask for a receipt at the time. The receipts that were provided were given to the appellant when she was reassessed by the alleged babysitter’s father, who prepared the appellant’s tax return for the 2008 and following taxation years. The CRA investigation revealed that the name and SIN on the receipts differed from those shown on the tax returns. In fact, the name and SIN on the receipts provided were those of a man and not an 18‑year‑old girl. The appellant was not clear in her testimony. She did not recall exactly where she dropped her children off every morning during the years in question. She did not know the babysitter’s family name.
+[26] Festus, the appellant’s tax preparer in those years, is someone who was engaged in a fraudulent scheme involving the preparation of 7,000 tax returns. His partner pleaded guilty to fraud with regard to that scheme, but Festus was never found.
+[27] The appellant’s evidence was very weak, vague and sparse, and I find that her testimony has no credibility at all. There is simply no reliable evidence to support the existence of any real child care expenses incurred by the appellant. I therefore conclude that the Minister rightly disallowed the child care expenses.
+3) Penalty under subsection 163(2) of the ITA
+[28] The respondent must prove that the appellant knowingly, or under circumstances amounting to gross negligence, claimed child care expenses that were not incurred and claimed a non-refundable tax credit for charitable donations that were not made.
+[29] Gross negligence must be interpreted as meaning greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not (see Venne, supra, at page 6256 DTC).
+[30] The respondent referred to the decision rendered by Bédard J. of this court in Jackson v. The Queen, 2008 TCC 188, in which he referred to Bowman C.J.’s comments in DeCosta v. The Queen, 2005 TCC 545, 2005 DTC 1436, at paragraphs 11 and 12:
+[11] In drawing the line between "ordinary" negligence or neglect and "gross" negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer's education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.
+[12] What do we have here? A highly intelligent man who declares $30,000 in employment income and fails to declare gross sales of about $134,000 and net profits of $54,000. While of course his accountant must bear some responsibility I do not think it can be said that the appellant can nonchalantly sign his return and turn a blind eye to the omission of an amount that is almost twice as much as that which he declared. So cavalier an attitude goes beyond simple carelessness.
+[31] Here, the magnitude of the understatement of tax, as well as the carelessness demonstrated by the appellant in signing her tax returns (verifying only the front page for the exactness of the address and the last page for the amount to be refunded), is ample evidence of gross negligence.
+[32] The appellant’s duties at work consisted in verifying whether the staff’s hours worked corresponded to the amounts of their paycheques. The appellant was therefore certainly able to flip through the pages of her own tax return and to understand why the refund amount shown was substantially greater than she should have expected.
+[33] She acknowledged that she did not make the charitable donations claimed. Had she looked more closely at her tax returns, she would have noticed the misrepresentations contained therein.
+[34] As for the child care expenses, I have come to the conclusion that the appellant did not demonstrate that she really incurred those expenses. The CRA investigation showed that the people preparing her tax returns were part of a fraudulent scheme. The vagueness of her testimony and the contradictory evidence regarding the child care expenses make it very difficult to conclude that she was unaware of that scheme.
+[35] For all these reasons, I find that the respondent has met her burden of proving that the appellant acted with gross negligence.
+[36] The appeals are dismissed.
+Signed at Ottawa, Canada, this 18th day of June 2013.
+"Lucie Lamarre"
+Lamarre J.
+CITATION: 2013 TCC 191
+COURT FILE NO.: 2012-3161(IT)I
+STYLE OF CAUSE: Sherryl Clarke v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 3, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: June 18, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Roxanne Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

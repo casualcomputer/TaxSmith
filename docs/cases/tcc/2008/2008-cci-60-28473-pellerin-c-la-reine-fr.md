@@ -1,0 +1,253 @@
+---
+title: "Pellerin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28473/index.do"
+last_modified: "2008-02-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 60"
+citation2: ""
+neutral_citation: "2008 CCI 60"
+decision_date: "2008-02-08"
+language: "fr"
+item_id: "28473"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1238
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:09:47.376000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "450005b114803ed3e17c981a1c434c844de4359d0fe24d8103ed3e0a0ea41d41"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pellerin c. La Reine
+
+- Citation: 2008 CCI 60
+- Decision date: 2008-02-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1238, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pellerin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-08
+Référence neutre
+2008 CCI 60
+Numéro de dossier
+2005-2757(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2757(IT)G
+ENTRE :
+COLETTE PELLERIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+___________________________________________________________________
+Appel entendu le 12 décembre 2007 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Claude Vallières
+Avocat de l'intimée :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+L'appel à l'égard de la cotisation établie en vertu du paragraphe 160(1) de la Loi de l'impôt sur le revenu, cotisation dont l'avis porte le numéro 32061 et dont copie a été transmise le 24 septembre 2004, est rejeté avec dépens en faveur de l'intimée, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 8e jour de février 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008CCI60
+Date : 20080208
+Dossier : 2005-2757(IT)G
+ENTRE :
+COLETTE PELLERIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une cotisation établie en vertu de l'article 160 de la Loi de l'impôt sur le revenu (« Loi »).
+[2] Les questions en litige sont les suivantes :
+a) Pierre Gauthier a-t-il transféré à l'appelante les 69 238,81 $ visés par la cotisation en litige?
+b) L'appelante est-elle solidairement responsable de la dette fiscale de Pierre Gauthier (décrite à l'alinéa 28v) de la Réponse à l'avis d'appel modifié), et ce, à concurrence de 69 238,81 $?
+[3] La cotisation dont il est fait appel a été établie à partir des hypothèses de fait suivantes, énumérées aux paragraphes 27 et 28 de la Réponse à l'avis d'appel.
+27) Le 12 mai 2005, le MRN a ratifié la dite cotisation pour le motif qui suit :
+Monsieur Pierre Gauthier, qui le 1er octobre 2002 vous a transféré un montant de 69 238,81 $, était tenu de payer les montants suivants en vertu de la Loi au cours de l'année du transfert ou d'une année d'imposition antérieure :
+Impôt fédéral
+Pénalités
+Intérêts
+Total
+91 117,10 $
+40 100,44 $
+95 774,33 $
+226 991,87 $
+En vertu du paragraphe 160(1), vous et monsieur Pierre Gauthier êtes solidairement responsables du paiement d'un montant égal au moins élevé de l'excédent éventuel de la juste valeur marchande du bien au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie que vous avez donnée pour ce bien, et le total des montants que l'auteur du transfert doit payer en vertu de la Loi de l'impôt sur le revenu au cours de l'année d'imposition dans laquelle le bien a été transféré ou d'une année d'imposition antérieure ou pour une de ces années. Puisque la juste valeur marchande du bien transféré excédait la juste valeur marchande de la contrepartie donnée pour le bien, une cotisation au montant de 69 238,81 $ a été établie conformément au paragraphe 160(2).
+28) En établissant et en ratifiant la cotisation en litige, le MRN a tenu pour acquis les faits suivants :
+a) Pierre Gauthier est le fils de l'appelante.
+b) Édith Gendron est la conjointe de Pierre Gauthier.
+c) Le 18 novembre 1996, Édith Gendron achète un immeuble situé au 261, rue des Trembles à Victoriaville (Lot 51-5-14, Cadastre de la Paroisse de Sainte Victoire, Circonscription foncière d'Arthabaska).
+d) Au fils des ans, Édith Gendron s'est endetté envers Pierre Gauthier de la somme de 100 000 $.
+e) Le 21 mai 1998, Édith Gendron consent une hypothèque de 100 00 $ à Pierre Gauthier sur ledit immeuble afin de garantir le remboursement de la dette.
+f) Le 9 mai 2002, Édith Gendron vend ledit immeuble pour 89 000 $.
+g) Le 13 mai 2002, le notaire instrumentant remet à Édith Gendron un chèque de 72 334,96 $.
+h) Le même jour, Édith Gendron endosse le chèque et le remet à Gérald Labonté, l'acheteur dudit immeuble.
+i) Le même jour, Gérald Labonté endosse le chèque et le dépose dans son compte de banque (compte bancaire # 114115-9 01 de la Banque Laurentienne du Canada).
+j) Le même jour, Gérald Labonté retire les 72 334,96 $ de son compte bancaire et fait émettre par la Banque Laurentienne du Canada une traite bancaire au même montant payable à Pierre Gauthier.
+k) Le même jour, Pierre Gauthier endosse la traite bancaire et la dépose dans le compte de banque de l'appelante (compte bancaire # 71-51136 de la Banque canadienne impériale de commerce).
+l) Pierre Gauthier a une procuration générale qui lui donne le droit d'effectuer toutes les opérations bancaires dans le compte de banque de l'appelante.
+m) Le même jour, Pierre Gauthier retire 7 334,96 $ du compte de banque de l'appelante.
+n) Le lendemain, Pierre Gauthier retire 20 000 $ (200 billets de 100 $) du compte de banque de l'appelante.
+o) Le 23 mai 2002, Pierre Gauthier retire 45 000 $ du compte de banque de l'appelante.
+p) Le 1er octobre 2002, Pierre Gauthier dépose 64 200 $ (100 billets de 50 $ et 592 billets de 100 $) dans le compte de banque de l'appelante.
+q) Le même jour, Pierre Gauthier dépose 5 048,81 $ (16 billets de 50 $, 42 billets de 100 $ et 48,81 $ en monnaie) dans le compte de banque de l'appelante.
+r) Le même jour, l'appelante achète sous contrôle de justice l'immeuble situé au 83, rue Allie à Victoriaville (Lot 53‑93, Cadastre de la Paroisse de Sainte Victoire, Circonscription foncière d'Arthabaska) de François Fortier, huissier de justice représentant de l'étude Fortier, Tourigny pour la somme de 73 900 $.
+s) Le même jour, l'appelante émet un chèque de 69 238,81 $ payable à Fortier, Tourigny, huissier en fiducie.
+t) Le chèque est tiré de son compte bancaire # 71‑51136 de la Banque canadienne impériale de commerce.
+u) Le même jour, Pierre Gauthier endosse le chèque et fait émettre par la Banque canadienne impériale de commerce une traite bancaire au même montant payable à Fortier, Tourigny, huissier en fiducie.
+v) En date du 24 septembre 2004, Pierre Gauthier était redevable envers le MRN des montants suivants :
+Année
+d'imposition
+Impôt
+fédéral
+Pénalité
+Intérêts
+Total
+1995
+1996
+1997
+1998
+2003
+Total
+36 590,40 $
+21 017,72 $
+10 985,34 $
+22 634,97 $
+(111.33 $)
+91 117,10 $
+20 228,91 $
+3 573,01 $
+5 492,67 $
+10 805,85 $
+40 100,44 $
+51 576,37 $
+18 322,83 $
+10 089,87 $
+15 785,26 $
+95 774,33 $
+108 395,68 $
+42 913,56 $
+26 567,88 $
+49 226,08 $
+(111.33 $)
+226 991,87 $
+[...]
+[4] Le contenu de toutes les prétentions prises en considération a été admis par l'appelante, à l'exception des quatre alinéas suivants :
+d) Au fils des ans, Édith Gendron s'est endetté envers Pierre Gauthier de la somme de 100 000 $.
+e) Le 21 mai 1998, Édith Gendron consent une hypothèque de 100 00 $ à Pierre Gauthier sur ledit immeuble afin de garantir le remboursement de la dette.
+[...]
+w) Les 69 238, 81 $ déposés le 1er octobre 2002 dans le compte bancaire de l'appelante (voir les alinéas 22 p) et q) de la présente réponse) appartiennent à Pierre Gauthier.
+x) L'appelante n'a donné aucune contrepartie à Pierre Gauthier en échange des 69 238,81 $ déposés le 1er octobre 2002 dans son compte bancaire (voir les alinéas 22p) et q) de la présente réponse).
+[5] L'appelante et madame Édith Gendron ont témoigné. Dès le début de son témoignage, l'appelante a indiqué avoir menti et avoir fait une déclaration sous serment fausse et mensongère lorsqu'elle a affirmé dans un premier temps lors d'un interrogatoire mené par l'Agence des douanes et du Revenu Canada que l'argent ayant servi à faire l'acquisition de l'immeuble situé au 83, rue Allie à Victoriaville provenait de ses économies personnelles. À l'audience, elle a affirmé que l'argent provenait en réalité de la conjointe de son fils et que, cette fois, il disait de la vérité.
+[6] Elle a affirmé être intervenue dans la gestion des affaires de son fils, Pierre Gauthier, et de sa conjointe, Édith Gendron, pour leur permettre de vivre normalement. Elle a expliqué que son fils était incapable de fonctionner, eu égard au fait qu'il faisait l'objet de poursuites en recouvrement de créances, notamment une importante créance fiscale.
+[7] Quant à la conjointe de Pierre Gauthier, elle faisait également l'objet de démarches de la part de son ex-conjoint, et cela, pour une créance alimentaire des enfants dont il avait obtenu la garde.
+[8] Pour les aider, elle a expliqué avoir ouvert un compte bancaire à la C.I.B.C. (Canadian Imperial Bank of Commerce) dans un premier temps, et avoir donné à son fils une procuration générale lui permettant d'utiliser le compte en question comme s'il s'était agi du sien.
+[9] Elle a reconnu avoir acheté la résidence située au 83, rue Allie, à Victoriaville pour permettre à son fils et à sa conjointe de mener une vie normale.
+[10] Contrairement à ce qu'elle avait affirmé précédemment sous serment lors d'un interrogatoire, elle a soutenu devant la Cour que l'acquisition avait été faite avec l'argent de la conjointe de son fils et non avec son propre l'argent. Elle a finalement affirmé n'avoir jamais rien reçu et n'avoir bénéficié d'aucun avantage si ce n'est le remboursement de menues dépenses telles l'essence, les frais de déplacement, etc.
+[11] La conjointe de Pierre Gauthier, quant à elle, a affirmé avoir acheté la résidence au 83, rue Allie à Victoriaville avec ses propres deniers. Elle a soutenu qu'elle possédait cet argent depuis la vente d'un commerce lié à la décoration, dont elle avait été propriétaire, de la vente de son automobile, et finalement, de la vente de la résidence qu'elle avait occupé avec son ex‑conjoint avant de venir s'installer au Québec.
+[12] Bien qu'il lui appartenait de démontrer qu'elle était bel et bien propriétaire du capital requis pour l'achat de la résidence au 261, rue des Trembles, à Victoriaville, madame Gendron n'a strictement rien produit pour étayer ses affirmations à l'effet qu'elle possédait ce capital.
+[13] Elle a, par contre, affirmé sans hésitation que l'hypothèque grevant, contre ledit immeuble, pour un montant de 100 000 $, était totalement fictive, puisqu'elle ne devait alors strictement rien à Pierre Gauthier, le créancier hypothécaire.
+[14] Elle a soutenu avoir procédé ainsi pour se mettre à l'abri de recours possibles de son ex‑conjoint pour le recouvrement de la pension alimentaire dont elle était débitrice et qu'elle ne voulait pas payer.
+[15] Elle a indiqué qu'elle ne pouvait pas avoir de compte bancaire pour cette raison, et ce, bien qu'elle exploitait comme propriétaire un bar de danseuses avec son nouveau conjoint. Elle a en outre informé la Cour que dans le cadre de cette entreprise, elle avait utilisé sa sœur comme prête-nom et cela, pour échapper à une créance fiscale dont elle était débitrice et qui découlait de l'exploitation du bar.
+[16] Elle a expliqué que la résidence au 261, rue des Trembles, à Victoriaville, lui appartenait et que l'hypothèque bidon au nom de son conjoint, Pierre Gauthier, avait été radiée le 13 novembre 2000 (pièce A‑1).
+[17] Toujours craintive à l'idée de faire l'objet d'une saisie, elle a décidé de vendre en catastrophe cet immeuble après avoir accepté la radiation de l'hypothèque.
+[18] Comme le prix demandé était très bas, le courtier en immeuble a décidé d'acheter l'immeuble lui‑même.
+[19] Un chèque lui a alors été fait. Croyant qu'elle ne pourrait pas négocier le chèque, elle l'a endossé, l'a remis à l'acheteur, qui a préparé alors un autre effet bancaire, mais au nom de Pierre Gauthier cette fois-ci.
+[20] Ce dernier a déposé le montant dans le compte à la C.I.B.C. ouvert par l'appelante, sa mère; il a fait sur‑le‑champ un premier retrait de 7 334 $ qu'il a remis à sa conjointe. Le lendemain, soit le 14 mai 2002, il a procédé à un autre retrait de 20 000 $ et, le 23 mai 2002 suivant, soit 9 jours plus tard, il a retiré du compte un montant de 45 000 $.
+[21] Madame Gendron a affirmé que tous les montants retirés lui avaient été remis et qu'elle les avait déposés dans un coffret de sécurité solidement fixé au béton dans le sous‑sol de sa maison.
+[22] Elle a affirmé avoir conservé l'argent à cet endroit durant plusieurs mois pour le remettre finalement à l'appelante qui l'aurait utilisé pour faire l'acquisition de l'immeuble au 83, rue Allie, à Victoriaville.
+[23] Madame Gendron a aussi admis avoir plaidé coupable à des chefs d'accusation en vertu du Code criminel.
+[24] Le témoignage de l'agent de recouvrement a permis à la Cour d'apprendre que madame Gendron n'avait pas un seul compte, soit à la Banque nationale, mais également un deuxième compte à une Caisse populaire à l'extérieur de Victoriaville, où un chèque représentant une importante somme d'argent versée en vertu d'une police d'assurance suite à un incendie, y avait été déposé, ce qu'a d'ailleurs confirmé madame Gendron.
+[25] Pour sa part, l'appelante prétend n'avoir jamais rien, reçu de son fils, Pierre Gauthier. En d'autres termes, elle soutient qu'il n'y a jamais eu de transfert de quelconque bien de son fils à elle, et qu'elle ne peut faire l'objet d'une cotisation en vertu de l'article 160 de la Loi.
+[26] Il n'y a aucun doute qu'à défaut d'un transfert, il ne peut y avoir de cotisation en vertu de l'article 160 de la Loi. Il s'agit là d'un aspect fondamental du dossier.
+[27] L'appelante avait le fardeau de présenter à la Cour une preuve raisonnable, crédible et vraisemblable, à l'appui de sa thèse.
+[28] Qu'en est-il de cette preuve? Les deux seuls témoins de la partie appelante ont admis avoir menti sous serment, ont admis avoir participé à toutes sortes de stratagèmes pour blanchir des sommes d'argent importantes et pour empêcher leurs créanciers, notamment le fisc, de recouvrer leurs créances.
+[29] Je rappelle l'aveu sans équivoque de l'appelante à l'effet qu'elle avait menti alors qu'elle témoignait sous serment. Quant à la conjointe du fils de l'appelante, elle a affirmé que la créance hypothécaire de 100 000 $ en faveur de Pierre Gauthier était totalement fictive. Elle a aussi soutenu que le titre de propriété de l'appelante sur la résidence du 83, rue Allie, à Victoriaville était également fictif.
+[30] La Cour écarte ces témoignages pour le motif que les explications données ne sont pas crédibles. Il en va de même de l'affirmation de madame Gendron selon qui elle avait en main l'argent pour faire l'acquisition de l'immeuble de la rue des Trembles, à la suite de la vente de son commerce, de son automobile et d'une autre résidence. Elle n'a fourni aucun élément de preuve documentaire à l'appui de son témoignage.
+[31] En effet, contrairement à des gains provenant du jeu pour lesquels il est difficile de prouver la provenance, il s'agissait d'opérations pour lesquelles il avait été possible de fournir des preuves écrites; je pense notamment au contrat de vente du commerce, à la vente de l'automobile, à son contrat d'achat, au jugement de divorce, aux différentes conventions.
+[32] Ce sont là des éléments de preuve qui auraient pu et auraient dû être fournis pour établir la réelle capacité financière de madame Gendron au moment où elle a fait l'acquisition de l'immeuble au 261, rue de Trembles, à Victoriaville.
+[33] L'appelante prétend qu'il n'y a pas eu de transfert de biens entre elle et son fils, Pierre Gauthier. C'est là un témoignage qui contredit un acte authentique, soit la radiation de l'hypothèque en date du 13 novembre 2000.
+[34] Or, l'appelante allègue également que, lors de la vente de l'immeuble au 261, rue des Trembles, le paiement fait à l'ordre de madame Gendron a été, par la suite, modifié, aux termes de quoi l'argent a été déposé dans un compte, puis retiré non pas par elle, mais par Pierre Gauthier. De quel compte est-il question ici? Celui de l'appelante? Qui a utilisé l'argent pour faire l'acquisition d'un autre immeuble? La fiabilité du témoignage de l'appelante est nulle dans les circonstances.
+[35] Pour souscrire à l'interprétation de l'appelante, qui ne repose sur aucun fondement sérieux, il faudrait être naïf. La seule interprétation qui se dégage de la preuve est que l'appelante, son fils et sa conjointe n'ont aucune crédibilité; étroitement complices, ils sont prêts à tout pour éviter de faire face à leurs créanciers, principalement le fisc.
+[36] Pour atteindre leur but, ils n'hésitent pas à mentir, à faire dresser des actes notariés dont le contenu est totalement mensonger, et à inventer de toutes pièces des explications farfelues et totalement invraisemblables.
+[37] Pourquoi la Cour doit-elle croire que l'hypothèque était fictive? Pourquoi le titre de propriété de madame Gendron ne serait-il pas aussi fictif? Le dépôt dans le compte de l'appelante des sommes provenant de la vente de l'immeuble de la rue Allie ne lui appartiendrait pas? En vertu de quoi?
+[38] Je ne crois strictement rien du contenu de la preuve émanant du témoignage de l'appelante et de la conjointe de son fils.
+[39] De plus, je suis tout à fait convaincu que le véritable propriétaire de l'immeuble de la rue des Trembles était Pierre Gauthier lui-même et que ce dernier a tantôt utilisé sa conjointe, tantôt sa mère, l'appelante, pour éviter de faire face à ses obligations fiscales.
+[40] Pierre Gauthier a décidé de vendre l'immeuble en question et le produit de la vente a été transféré dans le compte de l'appelante et cette dernière a utilisé l'argent pour faire l'acquisition de l'immeuble de la rue Allie. Tout ce qui a été fait par l'utilisation de prête-noms (l'appelante et Édith Gendron) n'est pas opposable à des tiers, dont l'intimée. D'autre part, les transferts d'argent comptant dans le compte bancaire de l'appelante constituaient bel et bien des transferts au sens de l'article 160 de la Loi.
+[41] L'appelante a soutenu que cet argent n'appartenait pas à son fils, mais à sa conjointe, Édith Gendron.
+[42] Pour que la Cour puisse accepter une telle allégation, il eût fallu qu'une preuve adéquate et crédible soit présentée. Or, ce n'est pas le cas. Toutes les explications qui ont été fournies par la partie appelante sont non crédibles, notamment, la fameuse hypothèque fictive aux termes de laquelle, le fils de l'appelante était créancier pour un montant de 100 000 $.
+[43] Pourquoi ne s'agirait-il pas plutôt d'une garantie que son fils a prise pour protéger son capital d'une possible fugue d'Édith Gendron, dont la fiabilité et la crédibilité étaient pour le moins douteuses, eu égard à sa façon d'assumer ses responsabilités?
+[44] Pourquoi le produit de la vente est-il passé entre les mains du fils de l'appelante si ce dernier n'avait rien à voir avec le titre de la propriété vendue?
+[45] À la lumière de la preuve, je ne retiens strictement rien des explications soumises, lesquelles ne sont pas fiables. Elles sont invraisemblables et farfelues.
+[46] Je retiens de la preuve sur laquelle repose mon jugement le fait clairement établi que le fils de l'appelante détenait une créance hypothécaire de 100 000 $, que la propriété a été vendue et que le produit de la vente a été déposé dans le compte bancaire de l'appelante qui a utilisé l'argent pour faire l'acquisition d'un immeuble.
+[47] Ce sont là des faits incontournables, clairement établis par la preuve, démontrant qu'il y a bel et bien eu transfert sans contrepartie.
+[48] Toutes les conditions requises pour l'application de l'article 160 de la Loi sont présentes et la cotisation établie en vertu de ces mêmes dispositions à l'encontre de l'appelante est bien fondée.
+[49] Par conséquent, l'appel est rejeté avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 8e jour de février 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2008CCI60
+No DU DOSSIER DE LA COUR :
+2005-2757(IT)G
+INTITULÉ DE LA CAUSE :
+Colette Pellerin et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE
+le 12 décembre 2007
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 8 février 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Claude Vallières
+Avocat de l'intimée :
+Me Claude Lamoureux
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Firme :
+Me Claude Vallières
+Vallières & Vogt
+Ville :
+Victoriaville
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

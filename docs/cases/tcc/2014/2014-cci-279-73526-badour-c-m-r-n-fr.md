@@ -1,0 +1,218 @@
+---
+title: "Badour c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/73526/index.do"
+last_modified: "2014-09-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 279"
+citation2: ""
+neutral_citation: "2014 CCI 279"
+decision_date: "2014-09-25"
+language: "fr"
+item_id: "73526"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5165
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:44:48.277000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a1ba5b5a17b7f7067d5a7b48fa7c310fa1397e917c1e6db7c19a8fc2d0e75654"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Badour c. M.R.N.
+
+- Citation: 2014 CCI 279
+- Decision date: 2014-09-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5165, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Badour c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-09-25
+Référence neutre
+2014 CCI 279
+Numéro de dossier
+2013-1267(CPP), 2013-1268(EI)
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2013-1268(EI)
+2013-1267(CPP)
+ENTRE :
+CHRIS J.J. BADOUR,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 12 mai et le 25 août 2014 à Timmins (Ontario).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me George Boyd Aitken
+JUGEMENT
+Les appels sont rejetés et la décision que le ministre du Revenu national a rendue le 15 janvier 2013 au titre de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada est confirmée, conformément aux motifs du jugement ci‑joints.
+Signé à Montréal (Québec), ce 25e jour de septembre 2014.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 26e jour de février 2016.
+M.-C. Gervais
+Référence : 2014 CCI 279
+Date : 20140925
+Dossiers : 2013-1268(EI)
+2013-1267(CPP)
+ENTRE :
+CHRIS J.J. BADOUR,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+[1] L’appelant interjette appel à l'encontre des décisions par lesquelles le ministre du Revenu national a conclu que Howard Fletcher, le travailleur, exerçait auprès de l’appelant un emploi assurable et un emploi ouvrant droit à pension au sens de la Loi sur l’assurance-emploi et du Régime de pensions du Canada, respectivement, pour la période allant du 1er janvier au 31 décembre 2010[1].
+[2] Au cours de cette période, Chris Badour, l’appelant, exploitait une entreprise de taxis à Timmins et le travailleur conduisait l’un des taxis de l’appelant.
+[3] L’appelant, Robert Laporte et Rodney Badour, le frère de l’appelant, ont témoigné. M. Fletcher, le travailleur, n’a pas assisté à l’audience. Trois pièces ont été déposées[2].
+L’appel interjeté au titre de la Loi sur l’assurance‑emploi [4] Je me pencherai d’abord sur l’appel en matière d’assurance‑emploi, car des dispositions particulières s’appliquent aux chauffeurs de taxi. Ces dispositions établissent des critères clairs éliminant une grande part de l’incertitude entourant d’autres domaines. Cependant, ces dispositions ne s’appliquent pas à l’appel interjeté au titre du Régime de pensions du Canada.
+Le droit [5] Les paragraphes 5(1) et 5(4) de la Loi sur l’assurance‑emploi sont en partie libellés ainsi :
+5(1) [...] est un emploi assurable :
+a) l’emploi [...] aux termes d’un contrat de louage de services [...], écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces [...], soit de toute autre manière;
+[...]
+d) un emploi prévu par règlement pris en vertu des paragraphes (4) et (5);
+[...]
+(4) La Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements en vue d’inclure dans les emplois assurables :
+[...]
+c) l’emploi qui n’est pas un emploi aux termes d’un contrat de louage de services, s’il[3] [...]
+[6] L’alinéa 6e) du Règlement sur l’assurance-emploi (DORS/96‑332) (le « Règlement ») fait partie de ces dispositions. Il est formulé en ces termes :
+6 Sont inclus dans les emplois assurables [...] les emplois suivants :
+[...]
+e) l’emploi exercé par une personne à titre de chauffeur de taxi [...] si cette personne n’est pas le propriétaire de plus de 50 pour cent du véhicule, ni le propriétaire ou l’exploitant de l’entreprise[4] [...]
+[7] Le mot « emploi » utilisé seul à l’article 5 de la Loi sur l’assurance‑emploi et à l’article 6 du Règlement ne se limite manifestement pas à un emploi aux termes d’un contrat de louage de services. Il est plutôt utilisé dans un sens plus large[5].
+[8] Compte tenu de la disposition du Règlement, l’emploi exercé par une personne à titre de chauffeur de taxi constitue toujours un emploi assurable, sauf dans les conditions suivantes :
+a) la personne est propriétaire de plus de 50 % du véhicule;
+b) la personne est propriétaire de l’entreprise;
+c) la personne exploite l’entreprise.
+Faits et analyse – assurance-emploi [9] D’après la preuve dont je dispose, il est bien évident que, contrairement au travailleur, l’appelant a obtenu le permis nécessaire pour le taxi, muni le véhicule de l’équipement nécessaire, assuré le véhicule, payé le carburant et pris les mesures nécessaires en ce qui a trait aux services de répartition pour le véhicule. Quant à lui, le travailleur était embauché pour conduire le taxi pendant l’un des deux quarts de travail de 12 heures offerts, n’avait aucune participation dans le taxi ou l’entreprise et n’exploitait pas l’entreprise.
+[10] Compte tenu des dispositions applicables et de ces faits, il s’ensuit nécessairement que le travailleur exerçait un emploi assurable pour l’application de la Loi sur l’assurance‑emploi. Il n’est pas nécessaire d’établir si le travailleur exerçait un emploi aux termes d’un contrat de louage de services selon le droit général de l’Ontario.
+[11] L’appel en matière d’assurance‑emploi doit être rejeté[6].
+L’appel interjeté au titre du Régime de pensions du Canada Le droit [12] Aucune disposition du Régime de pensions du Canada ne ressemble à l’alinéa 6e) du Règlement. Il faut tenir compte des facteurs habituels pour établir si le travailleur exerçait ou non un emploi aux termes d’un contrat de louage de services selon le droit général de l’Ontario.
+[13] L’alinéa 6(1)a) du Régime de pensions du Canada prévoit ce qui suit :
+6(1) Ouvrent droit à pension les emplois suivants :
+a) l’emploi au Canada qui n’est pas un emploi excepté;
+[14] En outre, le mot « emploi » est défini en ces termes à l’article 2 du Régime de pensions du Canada :
+« emploi » L’état d’employé prévu par un contrat de louage de services ou d’apprentissage, exprès ou tacite, y compris la période d’occupation d’une fonction.
+[15] De nombreuses affaires portent sur la question de savoir si une personne est un entrepreneur indépendant ou un employé. Dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., la Cour suprême du Canada a examiné le droit se rapportant à cette question[7]. Les paragraphes 47 et 48 résument l’analyse à effectuer :
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[16] Plus récemment, dans l’arrêt 1392644 Ontario Inc. (Connor Homes) c. Canada (Revenu national), le juge Mainville de la Cour d’appel fédérale a examiné le critère servant à établir si une personne est un employé ou un entrepreneur indépendant[8]. Il a résumé l’analyse en ces termes :
+36 Cependant, la démarche consacrée par la jurisprudence Royal Winnipeg Ballet, bien comprise, met tout simplement l’accent sur le principe notoire selon lequel toute personne a le droit d’organiser ses affaires et ses relations comme bon lui semble. Les rapports des parties à un contrat sont généralement régis par lui. Les parties peuvent donc fixer dans leur contrat leurs obligations et responsabilités respectives, les modalités de la rémunération des services à fournir et toutes sortes d’autres aspects de leurs rapports. Cependant, l’effet juridique ainsi produit, c’est‑à‑dire l’effet juridique du contrat en tant que celui‑ci crée une relation d’employeur à employé ou de client à entrepreneur indépendant, n’est pas une question que les parties peuvent décider par une simple stipulation. Autrement dit, il ne suffit pas d’énoncer dans le contrat que le travailleur assure ses services en tant qu’entrepreneur indépendant pour que ce soit effectivement le cas.
+37 Étant donné que la qualification de la relation professionnelle a des conséquences juridiques et pratiques importantes et d’une portée considérable, qui intéressent entre autres le droit de la responsabilité délictuelle (la responsabilité du fait d’autrui), les programmes sociaux (l’admissibilité et les cotisations), les relations de travail (la syndicalisation) et la fiscalité (l’enregistrement aux fins de la TPS et la situation au regard de la Loi de l’impôt sur le revenu), on ne peut simplement laisser les parties décider à leur seul gré si elles sont liées par une relation d’employeur à employé ou de client à entrepreneur indépendant. La situation juridique d’entrepreneur indépendant ou d’employé ne se détermine donc pas seulement sur la base de l’intention déclarée des parties. Cette détermination doit aussi se fonder sur une réalité objective et vérifiable.
+38 C’est pourquoi les arrêts Wolf et Royal Winnipeg Ballet exposent une méthode en deux étapes pour l’examen de la question centrale, telle que l’ont définie les arrêts Sagaz et Wiebe Door, qui est d’établir si l’intéressé assure, ou non, les services en tant que personne travaillant à son compte.
+39 La première étape consiste à établir l’intention subjective de chacune des parties à la relation. On peut le faire soit d’après le contrat écrit qu’elles ont passé, soit d’après le comportement effectif de chacune d’elles, par exemple en examinant les factures des services rendus, et les points de savoir si la personne physique intéressée s’est enregistrée aux fins de la TPS et produit des déclarations d’impôt en tant que travailleur autonome.
+40 La seconde étape consiste à établir si la réalité objective confirme l’intention subjective des parties. Comme le rappelait la juge Sharlow au paragraphe 9 de l’arrêt TBT Personnel Services Inc. c. Canada, 2011 CAF 256, 422 N.R. 366, « il est également nécessaire d’examiner les facteurs exposés dans Wiebe Door afin de déterminer si les faits concordent avec l’intention déclarée des parties ». Autrement dit, l’intention subjective des parties ne peut l’emporter sur la réalité de la relation telle qu’établie par les faits objectifs. À cette seconde étape, on peut aussi prendre en considération l’intention des parties, ainsi que les modalités du contrat, puisqu’elles influent sur leurs rapports. Ainsi qu’il est expliqué au paragraphe 64 de l’arrêt Royal Winnipeg Ballet, les facteurs applicables doivent être examinés « à la lumière de » l’intention des parties. Cela dit, cependant, la seconde étape est une analyse des faits pertinents aux fins d’établir si le critère des arrêts Wiebe Door et de Sagaz est, ou non, rempli, c’est‑à‑dire si la relation qu’ont nouée les parties est, sur le plan juridique, une relation de client à entrepreneur indépendant ou d’employeur à employé.
+41 La question centrale à trancher reste celle de savoir si la personne recrutée pour assurer les services le fait, concrètement, en tant que personne travaillant à son compte. Comme l’expliquent aussi bien les arrêts Wiebe Door que Sagaz, aucun facteur particulier ne joue de rôle dominant, et il n’y a pas de formule fixe qu’on puisse appliquer, dans l’examen qui permet de répondre à cette question. Les facteurs à prendre en considération varient donc selon les faits de l’espèce. Néanmoins, les facteurs que spécifient les arrêts Wiebe Door et Sagaz sont habituellement pertinents, ces facteurs étant le degré de contrôle exercé sur les activités du travailleur, ainsi que les points de savoir si ce dernier fournit lui‑même son outillage, engage ses assistants, gère et assume des risques financiers, et peut escompter un profit de l’exécution de ses tâches.
+Faits et analyse – Régime de pensions du Canada [17] L’entente entre l’appelant et le travailleur était assez simple.
+[18] Il n’y avait pas de contrat de travail écrit.
+[19] L’appelant a fourni un taxi muni de l’équipement approprié, assuré et autorisé, et a pris les mesures nécessaires en ce qui a trait aux services de répartition.
+[20] En contrepartie de ses services de chauffeur de taxi, le travailleur conservait 40 % du revenu brut, mais ne payait aucune dépense. L’appelant conservait 60 % du revenu brut et utilisait une partie de ce revenu pour payer les dépenses[9].
+L’intention [21] L’appelant, son frère Rodney et M. Laporte, lui aussi un chauffeur pour l’appelant, ont tous déclaré que l’intention était que les chauffeurs soient des entrepreneurs indépendants.
+[22] Le travailleur n’était pas présent pour témoigner au sujet de sa compréhension de cette question. Selon la réponse à l’avis d’appel, le ministre a tenu pour acquis que le travailleur se considérait comme un employé.
+[23] D’après le témoignage que j’ai entendu, je suis convaincu que le travailleur savait que l’appelant avait l’intention de conclure une entente avec un entrepreneur indépendant.
+[24] Le ministre a aussi énoncé comme hypothèse que le travailleur avait déclaré le revenu que lui avait versé l’appelant comme d’« autres revenus d’emploi » dans sa déclaration de revenus pour 2010 et que le travailleur n’avait déduit aucune dépense dans sa déclaration. Aucun élément de preuve n’indiquait le contraire.
+[25] Bien que la déclaration de revenus du travailleur concorde avec le fait qu’il se considérait comme un employé, car le revenu a été déclaré comme d’« autres revenus d’emploi », je souligne que le fait de ne pas déduire de dépense ne prouve pas grand-chose en soi, car, d’après la preuve, il n’avait aucune dépense à déduire[10].
+[26] Bien que je sois convaincu que l’appelant avait l’intention de conclure une entente avec un entrepreneur indépendant, la preuve ne me permet pas de conclure qu’il s’agissait là d’une intention commune. Je me penche maintenant sur la réalité objective du contrat.
+La propriété des outils [27] Il est assez clair que l’appelant a fourni tous les outils pertinents. Ce facteur porte à croire que le travailleur était un employé.
+La possibilité de profits [28] Le travailleur pouvait manifestement gagner davantage en travaillant plus et en choisissant judicieusement les appels auxquels il répondait, mais il est possible d’en dire autant de tout employé travaillant comme chauffeur, sauf si celui‑ci touche un salaire horaire fixe. Ce facteur porte légèrement à croire que le travailleur était un entrepreneur indépendant.
+Le risque de pertes [29] En pratique, selon la façon dont les choses étaient organisées, le travailleur n’avait aucun risque de pertes. Comme il ne payait pas de carburant ni aucune autre dépense, même s’il avait conduit toute une journée sans avoir de client, il n’aurait subi aucune perte; il n’aurait simplement pas gagné de revenu net pour une journée. Cela est compatible avec un emploi aux termes d’un contrat de louage de services.
+Le contrôle [30] Il est utile de se rappeler que la question déterminante en ce qui a trait au contrôle consiste à savoir si le payeur peut exercer un contrôle sur le travailleur, et non s’il exerce réellement ce contrôle au quotidien. En effet, comme l’a affirmé le juge Hershfield dans la décision Follwell c. La Reine[11] :
+42 [...] Le fait que l’employeur décide de ne pas exercer de contrôle parce qu’il a confiance en l’employé, ou en un tiers à qui le contrôle a été délégué, ne veut pas pour autant dire que le facteur « contrôle » milite en faveur de la conclusion selon laquelle le contrat est un contrat d’entreprise [...]
+[31] L’appelant fait valoir que le travailleur avait la liberté de travailler ou non et de fixer lui-même ses heures de travail, qu’il se prévalait de la liberté de fixer ses heures de travail et qu’il a cessé de travailler soudainement sans en informer l’appelant.
+[32] Cependant, la preuve n’est pas aussi simple.
+[33] À l’automne 2009, l’appelant venait d’acheter son troisième taxi, et comme personne ne conduisait encore le véhicule, le quart de travail de jour et celui de nuit étaient libres. Ainsi, le travailleur, qui a commencé à conduire le taxi à ce moment‑là, avait la liberté de choisir le quart qu’il voulait.
+[34] Le travailleur pouvait certainement choisir ses heures de travail pendant le quart de travail, mais il ne pouvait pas conduire en dehors de son quart de travail, car le taxi devait être libre pour le chauffeur qui effectuait l’autre quart de travail.
+[35] Le chauffeur avait également la liberté de ne pas travailler un jour donné. En fait, la preuve révèle que le chauffeur a ainsi pris de nombreux jours de congé après qu’il a commencé à s’occuper de sa fille de 14 ans, qui vivait auparavant à Sudbury[12].
+[36] L’appelant avait pris les dispositions nécessaires pour obtenir les services de répartition d’une autre entreprise, Beal Taxi, qui imposait de nombreuses règles aux taxis à qui elle offrait des services de répartition. Le travailleur devait se conformer à ces règles. Par exemple, si un travailleur répondait à un appel attribué à un autre taxi, l’entreprise offrant les services de répartition exigeait que le travailleur paye la course au chauffeur de taxi à qui l’appel avait été attribué, et le service de répartition faisait comme si le travailleur et le taxi n’étaient pas en service pour le reste de la journée.
+[37] À un moment donné, l’entreprise offrant les services de répartition a reçu certaines plaintes selon lesquelles le travailleur prêchait auprès des clients. Un membre de l’entreprise offrant les services de répartition a parlé à l’appelant et lui a demandé de dire au travailleur que ce comportement était inacceptable. L’appelant a parlé avec le travailleur.
+[38] Bien que la liberté de travailler ou non et de choisir la longueur de la journée de travail concorde davantage avec l’existence d’un travail autonome, dans l’ensemble, l’appelant exerce un contrôle sur le travailleur. Cela ressort clairement des faits suivants :
+a) le travailleur ne pouvait pas travailler pendant l’autre quart de travail;
+b) l’entente comprend en partie les services de répartition retenus par l’appelant, qui exigent que le travailleur se conforme aux règles imposées par l’entreprise offrant les services de répartition.
+Les autres facteurs [39] Un nombre limité de clients pouvaient porter leur course en taxi à leur compte et fournir une sorte de bon pour la course. Dans cette situation, le travailleur touchait sa part de 40 %, comme si le bon était un reçu de caisse, et l’appelant devait quant à lui attendre que le client reçoive le paiement de sa course.
+[40] Rien ne prouve que le travailleur a embauché une personne pour le remplacer.
+[41] Ces deux facteurs portent à croire que le travailleur n’était pas un entrepreneur indépendant.
+Conclusion concernant l’appel interjeté au titre du Régime de pensions du Canada [42] Compte tenu de l’ensemble de ces facteurs, je conclus qu’il est question d’une entente conformément à laquelle le travailleur exerce un emploi aux termes d’un contrat de louage de services. Par conséquent, l’emploi est un emploi ouvrant droit à pension.
+[43] Il en serait ainsi même s’il existait une intention commune selon laquelle le travailleur était un entrepreneur indépendant[13].
+Conclusion générale [44] Par conséquent, les deux appels seront rejetés.
+Signé à Montréal (Québec), ce 25e jour de septembre 2014.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 26e jour de février 2016.
+M.-C. Gervais
+RÉFÉRENCE :
+2014 CCI 279
+NOS DES DOSSIERS DE LA COUR :
+2013-1268(EI)
+2013-1267(CPP)
+INTITULÉ :
+CHRIS J.J. BADOUR c. M.R.N.
+LIEU DE L’AUDIENCE :
+Timmins (Ontario)
+DATES DE L’AUDIENCE :
+Le 12 mai et le 25 août 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Gaston Jorré
+DATE DU JUGEMENT :
+Le 25 septembre 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me George Boyd Aitken
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Cabinet :
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Conformément au paragraphe 18.29(1) de la Loi sur la Cour canadienne de l’impôt, certaines des dispositions principales de la procédure informelle, notamment l’article 18.14 et le paragraphe 18.15(3), mais pas toutes, s’appliquent aux appels interjetés en matière d’assurance-emploi.
+[2] Après le début de l’audition de cette affaire le 12 mai 2014, le bris d’une conduite d’eau alimentant habituellement le système d’extinction automatique a entraîné la fermeture obligatoire de l’immeuble et a forcé la Cour à ajourner l’audience. La reprise et la conclusion de l’audience ont eu lieu le 25 août 2014.
+[3] Voici l’alinéa 5(4)c) dans son intégralité :
+c) l’emploi qui n’est pas un emploi aux termes d’un contrat de louage de services, s’il paraît évident à la Commission que les modalités des services rendus et la nature du travail exécuté par les personnes exerçant cet emploi sont analogues aux modalités des services rendus et à la nature du travail exécuté par les personnes exerçant un emploi aux termes d’un contrat de louage de services;
+[4] Voici l’alinéa 6e) dans son intégralité :
+e) l’emploi exercé par une personne à titre de chauffeur de taxi, d’autobus commercial, d’autobus scolaire ou de tout autre véhicule utilisé par une entreprise privée ou publique pour le transport de passagers, si cette personne n’est pas le propriétaire de plus de 50 pour cent du véhicule, ni le propriétaire ou l’exploitant de l’entreprise privée ou l’exploitant de l’entreprise publique;
+[5]Autrement, il serait insensé d’accorder à la Commission le pouvoir de « prendre des règlements en vue d’inclure dans les emplois assurables [...] l’emploi qui n’est pas un emploi aux termes d’un contrat de louage de services ». Voir aussi l’arrêt Martin Service Station Ltd. c. M.R.N., [1977] 2 RCS 996, et Canada (Attorney General) v. Skyline Cabs (1982) Ltd., [1986] FCJ No. 335 (QL).
+[6] Je tiens à souligner qu’au cours de la majeure partie de l’audience, l’intimé s’est appuyé sur la question classique de savoir si le travailleur était un employé ou un entrepreneur indépendant selon le droit général de l’Ontario. Cependant, je suis convaincu qu’il est tout à fait équitable que je rende une décision en m’appuyant sur le Règlement pour deux raisons. Premièrement, l’alinéa 6e) du Règlement a été invoqué à titre subsidiaire aux paragraphes 9 et 11 de la réponse à l’avis d’appel, et deuxièmement, je suis convaincu que tous les éléments de preuve pertinents ont été présentés à l’audience.
+[7] 2001 CSC 59, aux paragraphes 33 à 48.
+[8] 2013 CAF 85, aux paragraphes 23 à 41.
+[9] Le carburant faisait partie des dépenses payées par l’appelant.
+[10] L’absence de dépenses est importante, car elle a une incidence sur le risque de pertes.
+[11] 2011 CCI 422.
+[12] Le travailleur a également changé ses quarts de travail peu de temps après que sa fille a emménagé avec lui.
+[13] Même sans l’alinéa 6e) du Règlement, j’aurais tiré la même conclusion en ce qui a trait à l’assurance‑emploi.

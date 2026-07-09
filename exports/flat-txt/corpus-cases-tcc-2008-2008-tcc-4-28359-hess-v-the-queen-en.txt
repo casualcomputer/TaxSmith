@@ -1,0 +1,116 @@
+Title: Hess v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28359/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-4-28359-hess-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-01-03
+
+# Hess v. The Queen
+
+- Citation: 2008 TCC 4
+- Decision date: 2008-01-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1944, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hess v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-03
+Neutral citation
+2008 TCC 4
+File numbers
+2006-1174(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1174(IT)G
+BETWEEN:
+L. MILTON HESS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on December 20, 2007, at Toronto, Ontario
+Before: The Honourable Gerald J. Rip, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Brent W. Swanick
+Counsel for the Respondent:
+Annie Paré
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1995, 1996, 1997 and 1998 taxation years are dismissed.
+The respondent shall have costs equal to her disbursements.
+Signed at Ottawa, Canada, this 3rd day of January 2008.
+"Gerald J. Rip"
+Rip A.C.J.
+Citation: 2008TCC4
+Date: 20080103
+Docket: 2006-1174(IT)G
+BETWEEN:
+L. MILTON HESS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, A.C.J.
+[1] L. Milton Hess appeals from income tax assessments for the 1995, 1996, 1997 and 1998 taxation years in which the Minister of National Revenue ("Minister") reduced the allowable business investment loss ("ABIL") claimed by him in 1998 in accordance with section 54, paragraphs 38(1)(c) and 39(1)(c) and subparagraph 40(2)(g)(i) of the Income Tax Act ("Act"). The Minister also disallowed purported non-capital losses from 1998 which the appellant had carried back to his 1995, 1996 and 1997 taxation years in accordance with subsection 111(8) and paragraph 111(1)(a) of the Act.
+[2] The facts are not in dispute.
+[3] Prior to February 1, 1996, Mr. Hess was the sole shareholder of 809999 Ontario Inc. ("809") and owned 1,652,000 common shares of the company. On February 1, 1996, he transferred all of his shares in 809 to 1166316 Ontario Ltd. ("116"), making an election in accordance with section 85 of the Act, and received 1,652,000 common shares of 116 in return. Immediately after the transfer, Mr. Hess was the sole shareholder, sole officer and sole director of 116. 809 was now a wholly owned subsidiary of 116.
+[4] Mr. Hess' adjusted cost base of the shares of 809 immediately before the sale to 116 was $1,652,000.[1] The fair market value of the shares of 809 at the time of the transfer to 116 was $525,000; this was an "agreed amount" for purposes of section 85. The fair market value of the shares of 116 received by Mr. Hess was $525,000. The adjusted cost base of the shares of 116 to Mr. Hess was $525,000.
+[5] On November 30, 1998 Mr. Hess sold his shares of 116 to a person at arm's length for one dollar. Mr. Hess, in filing his income tax return for 1998, claimed a business investment loss of $1,126,999 and an ABIL of $845,249.00. Mr. Hess then carried back non-capital losses he claimed in 1998 to 1995, 1996, and 1997 in the amounts of $83,949, $113,419 and $200,640 respectively.
+[6] In assessing Mr. Hess for the years in appeal, the Minister reduced the ABIL claimed by Mr. Hess in his 1998 taxation year to $393,749 in respect of the disposition of his shares of 116. In doing so, the Minister determined that Mr. Hess incurred a business investment loss in the amount of $524,999 in accordance with section 54, paragraph 39(1)(c) and subparagraph 40(2)(g)(i) of the Act and was therefore entitled to an ABIL for 1998 in the amount of $393,749: paragraph 38(c). With respect to 1995, 1996 and 1997 taxation years, the Minister disallowed the non-capital losses which Mr. Hess carried back from 1998, in accordance with section 118 and paragraph 111(1)(a) of the Act, because Mr. Hess had no non‑capital losses available to be carried back to the earlier years.
+[7] The appellant relies upon subsection 40(3.6) of the Act:
+Where at any time a taxpayer disposes, to a corporation that is affiliated with the taxpayer immediately after the disposition, of a share of a class of the capital stock of the corporation (other than a share that is a distress preferred share as defined in subsection 80(1)),
+(a) the taxpayer's loss, if any, from the disposition is deemed to be nil; and
+(b) in computing the adjusted cost base to the taxpayer after that time of a share of a class of the capital stock of the corporation owned by the taxpayer immediately after the disposition, there shall be added the proportion of the amount of the taxpayer's loss from the disposition (determined without reference to paragraph (2)(g) and this subsection) that
+(i) the fair market value, immediately after the disposition, of the share
+is of
+(ii) the fair market value, immediately after the disposition, of all shares of the capital stock of the corporation owned by the taxpayer.[2]
+Dans le cas où un contribuable dispose, en faveur d'une société qui lui est affiliée immédiatement après la disposition, d'une action d'une catégorie du capital-actions de la société, sauf une action privilégiée de renflouement au sens du paragraphe 80(1), les règles suivantes s'appliquent :
+a) la perte du contribuable résultant de la disposition est réputée nulle;
+b) est à ajouter dans le calcul du prix de base rajusté, pour le contribuable après la disposition, d'une action d'une catégorie du capital-actions de la société qui appartenait au contribuable immédiatement après la disposition le produit de la multiplication du montant de sa perte résultant de la disposition, déterminé compte non tenu de l'alinéa (2)g) et du présent paragraphe, par le rapport entre :
+(i) d'une part, la juste valeur marchande de l'action immédiatement après la disposition,
+(ii) d'autre part, la juste valeur marchande, immédiatement après la disposition, de l'ensemble des actions du capital-actions de la société appartenant au contribuable.
+[8] According to appellant's counsel, the issue is what shares of what corporation are referred to in paragraph 40(3.6)(b). He submits that the shares referred to are the shares of 116 and not the shares of 809. In other words, in order for the denied loss to be added back to the adjusted cost base the appellant need not own shares of the corporation, 809, that are transferred; he need only own shares of the recipient corporation, 116, provided both corporations are affiliated. In this case there is no doubt that both companies were affiliated because 809 was a wholly owned subsidiary of 116. He states that in reference to "the corporation" in the opening lines of paragraph 40(3.6)(b) is a reference to 116 because the paragraph refers to shares "of the corporation owned by the taxpayer immediately after the disposition".
+[9] Appellant's counsel was refreshingly candid. He acknowledged that no authority agrees with him.
+[10] Unfortunately, I also cannot agree with appellant's counsel. I read the opening words of subsection 40(3.6) to refer to a corporation buying back its own shares. The words "of a share . . . of the corporation" refer to a share of a class in the capital stock of a corporation that is referred to earlier in that provision, namely the "a corporation". For this reason alone the appellant's appeal would have to be dismissed. Similarly, in paragraph 40(3.6)(b), the share of a class of the capital stock of the corporation owned by the taxpayer immediately after the disposition is the share of the same class of the capital stock of "a corporation". The shares referred to are the shares of 809.
+[11] I refer to the Technical Notes of the Canada Revenue Agency dated December 1997 as follows:
+Provided that the corporation acquiring its own shares is affiliated with the shareholder immediately after the acquisition, any loss that would otherwise arise with respect to the transaction is denied and the amount of that loss is instead added by paragraph 40(3.6)(b) to the adjusted cost base to the shareholder of other shares owned by it in the acquiring company.
+(Emphasis added.)
+[12] In the French version of the Technical Notes, the expression "ses propres actions" is used.
+[13] The appeals are dismissed. The respondent shall have costs equal to her disbursements.
+Signed at Ottawa, Canada, this 3rd day of January 2008.
+"Gerald J. Rip"
+Rip A.C.J.
+CITATION: 2008TCC4
+COURT FILE NO.: 2006-1174(IT)G
+STYLE OF CAUSE: L. MILTON HESS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 20, 2007
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Associate Chief Justice
+DATE OF JUDGMENT: January 3, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Brent W. Swanick
+Counsel for the Respondent:
+Annie Paré
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Brent W. Swanick
+Firm: Swanick Associates
+City: Don Mills (ON)
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The appellant's notice of appeal states that the appellant's adjusted cost base of the shares of 809 was $1,652,000. However, in his argument, appellant's counsel states the adjusted cost base of the shares of 809 immediately before transfer was $1,126,000. The Minister, in assessing, assumed the adjusted cost to be $1,652,000 and I have accepted the amount as the appellant's adjusted cost base of his shares of 809 before the transfer to 116.
+[2] I have italicized certain words to simplify following appellant counsel's submission and my analysis.

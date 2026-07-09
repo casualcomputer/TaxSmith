@@ -1,0 +1,238 @@
+---
+title: "Materiaux Economiques Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28007/index.do"
+last_modified: "2003-07-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 449"
+citation2: ""
+neutral_citation: "2003 CCI 449"
+decision_date: "2003-07-08"
+language: "fr"
+item_id: "28007"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1789
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:00:26.426000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9f1ce65b660e95e0602f81c21cd5fedc66076efc6af637a8bf3c1c2f1b201835"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Materiaux Economiques Inc. c. M.R.N.
+
+- Citation: 2003 CCI 449
+- Decision date: 2003-07-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1789, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Materiaux Economiques Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-08
+Référence neutre
+2003 CCI 449
+Numéro de dossier
+2002-4649(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-4649(EI)
+ENTRE :
+MATÉRIAUX ÉCONOMIQUES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DANIEL ST-PIERRE,
+intervenant.
+____________________________________________________________________
+Appel entendu le 25 avril 2003 à Montréal (Québec)
+Devant : L'honorable J.F. Somers, juge suppléant
+Comparutions :
+Représentant de l'appelante :
+Alain Savoie
+Avocate de l'intimé :
+Me Nancy Dagenais
+Pour l'intervenant :
+L'intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de juillet 2003.
+«J.F. Somers»
+Juge suppléant Somers
+Référence : 2003CCI449
+Date : 20030708
+Dossier : 2002-4649(EI)
+ENTRE :
+MATÉRIAUX ÉCONOMIQUES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DANIEL ST-PIERRE,
+intervenant.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers
+[1] Cet appel a été entendu à Montréal (Québec), le 25 avril 2003.
+[2] L'appelante interjette appel de la décision du ministre du Revenu national (le «Ministre»), selon laquelle l'emploi exercé par Daniel St-Pierre, le travailleur, lorsqu'à son service durant la période en cause, soit du 1er janvier au 7 décembre 2001, était assurable parce qu'il rencontrait les exigences d'un contrat de louage de services; il existait une relation employeur-employé entre l'appelante et le travailleur.
+[3] Le paragraphe 5(1) de la Loi sur l'assurance-emploi (la «Loi») se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) un emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]
+[4] Le fardeau de la preuve incombe à l'appelante. Cette dernière se doit d'établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d'espèce.
+[5] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes lesquelles ont été admises ou niées :
+a) l'appelante a été constituée le 1er octobre 1998 suite à une fusion; (admis)
+b) l'appelante exploitait deux divisions, l'une dans le domaine du sciage et du forage de béton et l'autre dans le domaine de l'assainissement des eaux et de la fabrication de fosses septiques; (admis)
+c) les actionnaires de l'appelante, avec des actions votantes, étaient :
+René St-Pierre 75 % des actions
+le travailleur 25 % des actions (admis)
+d) René St-Pierre est le frère du travailleur; (admis)
+e) l'entreprise est exploitée à l'année longue; (admis)
+f) l'appelante employait 40 employés environ; (admis)
+g) le travailleur était le vice-président et le responsable de la division assainissement des eaux; (admis)
+h) le travailleur travaillait à l'année longue; (admis)
+i) les tâches du travailleur consistaient à la préparation des soumissions, à la formation des techniciens, à la conception de nouveaux produits et à la supervision de tout le personnel de la division assainissement; (nié)
+j) le travailleur n'avait pas d'horaire de travail fixe; (admis)
+k) le travailleur rendait des services à l'appelante de 40 à 60 heures par semaine; (nié)
+l) le travailleur recevait une rémunération fixe de 1 153,85 $ par semaine, versée par dépôt direct; (admis)
+m) le travailleur avait une automobile fournie par l'appelante; (admis)
+n) toutes les dépenses du travailleur reliées à ses tâches étaient assumées par l'appelante; (admis)
+o) le travailleur n'avait pas engagé sa responsabilité personnelle pour des prêts, baux ou contrats de l'appelante; (nié)
+p) le travailleur n'avait aucun risque de perte ou chance de profit autre que son salaire; (nié)
+q) le travailleur travaillait dans les locaux de l'appelante à 90 % de son temps; (nié)
+r) tout l'équipement dont se servait le travailleur appartenait à l'appelante; (admis)
+s) les services rendus par le travailleur faisaient partie intégrante des activités de l'appelante. (admis)
+[6] L'appelante a été constituée le 1er octobre 1998 suite à une fusion. L'appelante exploitait deux divisions : l'une dans le domaine du sciage et du forage de béton et l'autre dans le domaine de l'assainissement des eaux et de la fabrication de fosses septiques. Les actionnaires de l'appelante étaient René St‑Pierre et le travailleur détenant respectivement 75 % et 25 % des actions votantes; les deux actionnaires sont des frères.
+[7] L'entreprise est exploitée à l'année longue et emploie environ 40 employés. Le travailleur était le vice-président de l'appelante et le responsable de la division de l'assainissement des eaux. Il n'avait pas d'horaire fixe de travail et oeuvrait à l'année longue de 40 à 60 heures par semaine pour une rémunération hebdomadaire fixe de 1 153,85 $ qu'il a déterminée lui-même. En plus de son salaire, à chaque année il reçoit de l'appelante un REER (régime enregistré d'épargne retraite), le montant duquel est basé sur la performance de la compagnie : cette année il a reçu 13 000 $.
+[8] Lors de son témoignage, le travailleur a déclaré qu'il dirigeait la division de l'assainissement des eaux, qu'il supervisait l'usine, embauchait les employés, dont 15 durant l'été et environ 8 à 10 en hiver. Le travailleur fait partie de plusieurs associations dans le but de donner de la visibilité à sa compagnie et assiste à des congrès dans d'autres pays, dont la France et les États-Unis.
+[9] Le travailleur obtient annuellement une carte d'identité et une licence d'entrepreneur en construction.
+[10] Selon le travailleur, il jouit de vacances seulement à Noël en plus de quelques jours de congé lorsqu'il assiste à des congrès, alors que les autres employés non liés jouissent de 2 à 4 semaines de vacances par année. Il a déclaré qu'il prenait 3 à 4 jours de vacances, avec sa famille de 3 enfants, pendant les semaines de vacances de la construction. Il a ajouté qu'à cause de ses responsabilités et durant les périodes de pointe, il pouvait oeuvrer jusqu'à 80 heures par semaine; pendant les périodes d'activités réduites il pouvait oeuvrer environ 40 heures.
+[11] L'appelante fournissait au travailleur un véhicule d'une valeur approximative de 50 000 $ et celle-ci payait les dépenses reliées à l'usage de ce véhicule. Le travailleur utilisait les ordinateurs, un à la maison et l'autre au bureau, lesquels étaient la propriété de l'appelante.
+[12] Le travailleur a déclaré qu'il n'a pas signé de garanties personnelles au profit de l'appelante et a ajouté qu'il a refusé des offres d'emploi de compagnies américaines qui lui offraient une rémunération annuelle de 50 000 $ à 100 000 $.
+[13] En contre-interrogatoire, le travailleur a reconnu avoir complété un questionnaire (pièce I-1) dans lequel il a déclaré que ses heures de travail variaient entre 40 et 60 par semaine alors qu'à l'audition de cet appel il a affirmé que ces chiffres représentaient une moyenne. Dans ce questionnaire, à la question 2, il y est écrit, entre autres :
+Tout autre employé effectuant le même travail aurait une rémunération et des avantages moindres de ceux de Daniel pour un travail et des responsabilités similaires.
+[14] Le travailleur a également affirmé, en contre-interrogatoire, que d'autres employés recevaient, selon leur séniorité, de l'appelante des REER pour des montants moindres que les siens.
+[15] Dans l'avis d'appel (pièce I-2), il y est écrit :
+Le salaire de monsieur Daniel St-Pierre pour assumer de telles fonctions, responsabilités et engagements est inférieur et sans aucune comparaison possible avec ce qui est offert sur le marché, ces conditions ne seraient pas acceptées par une personne non liée;
+[16] Le travailleur a admis avoir eu une conversation avec l'agente des appels dont le rapport a été déposé sous la cote I-3. À la page 4 de ce rapport, sous la rubrique «VERSION TRAVAILLEUR» il y est écrit, entre autres :
+Quant à son salaire, nous lui demandons si, à compétences égales, un tel salaire serait versé à une personne étrangère.
+Il est d'avis que oui. Il dit que son salaire n'est pas déraisonnable ni trop élevé compte tenu de ses tâches et responsabilités.
+Il dit qu'il fait affaire régulièrement avec des firmes d'ingénieurs et il pense bien que leur salaire est sensiblement le même.
+[17] En contre-interrogatoire, le travailleur a déclaré ne pas se souvenir de cette partie du questionnaire. Il a ajouté que seulement une partie de son travail était exécutée en tant que consultant.
+[18] René St-Pierre, frère du travailleur, a témoigné à l'audition de cet appel. Il a déclaré qu'il s'occupait de l'autre division de l'entreprise, soit le domaine du sciage et du forage de béton et son salaire annuel est de 75 000 $.
+[19] Ce témoin n'est pas trop au courant des allées et venues du travailleur malgré que les deux travaillent dans les mêmes bureaux administratifs. Il a déclaré que le travailleur avait carte blanche quant à la gérance de sa division puisque c'est lui qui l'a créée.
+[20] Selon lui, les décisions administratives sont prises en collégialité lors de rencontres trimestrielles; ce témoin, le travailleur et le contrôleur participent à ces rencontres.
+[21] Nathalie Dorais-Pagé, agente des appels auprès de l'Agence des douanes et du revenu du Canada a, à l'audition de cet appel, donné sa version des faits. Dans la préparation de son rapport (pièce I-4), elle a déclaré avoir contacté une certaine Nicole Charbonneau de Conseil Taxes - représentante de l'appelant - les 2 et 3 mai 2002, le 20 juin 2002 et le 5 juillet 2002 en plus des conversations téléphoniques qu'elle a eues avec René St-Pierre le 30 mai 2002 et le travailleur le 18 septembre 2002.
+[22] Selon ce rapport, l'agente des appels a obtenu certaines informations de René St-Pierre et du travailleur, dont :
+Les ventes mensuelles brutes depuis le 1er janvier 2001 s'élèvent à 3 489 681,00 $ pour la division sciage et le forage et de 1 731 845,00 $ pour la division assainissement.
+La rémunération du travailleur est de 1 153,85 $ par semaine versée par dépôt direct. Pour fixer sa rémunération, Daniel St‑Pierre a pris en considération les profits générés par la division assainissement. Il a augmenté son salaire en fonction de la croissance de la division.
+Monsieur St-Pierre travaille en moyenne 60 heures par semaine pour couvrir l'ensemble de ses fonctions. Il répartit son travail sur toute la semaine. Il n'a aucun horaire de préétabli, il détermine lui-même ses heures de travail sans rendre compte de celles-ci à qui que ce soit.
+Le plan d'affaires et le poste ont été créés en fonction des aptitudes de Daniel St-Pierre. Celui-ci est totalement autonome dans ses fonctions. Il n'a aucune supervision et il n'a pas à rendre des comptes.
+[23] L'agente des appels a également recueilli certaines informations lors d'une conversation téléphonique avec le travailleur, dont, entre autres :
+La compagnie est divisée en deux secteurs d'activités qui sont totalement indépendants et autonomes. La division d'assainissement représente environ 25 % du volume d'affaires du payeur.
+Monsieur St-Pierre travaille entre 60 et 80 heures par semaine. Son ordinateur résidentiel est relié en réseau avec le bureau.
+En plus de la rémunération, le payeur achète des REER au nom des deux actionnaires de la compagnie. Les actionnaires bénéficient d'une assurance collective et d'une assurance-vie. Daniel St-Pierre a un véhicule fourni par le payeur. Le salaire des actionnaires est établi en fonction des profits des divisions.
+Daniel St-Pierre se considère comme l'âme dirigeante de la division assainissement. Par contre, il délègue de plus en plus de fonctions à François Gélinas.
+[24] Les informations suivantes notées dans le rapport de l'agente des appels proviennent du formulaire CPT-1 (pièce I-1) :
+Tout autre employé effectuant le même travail aurait une rémunération et des avantages moindres de ceux de Daniel pour un travail et des responsabilités similaires.
+Daniel n'est pas supervisé dans l'exécution de ses tâches et de ses responsabilités au sein de l'entreprise. Il bénéficie d'une autonomie quasi-totale dans l'exercice de ses fonctions.
+Daniel n'est pas responsable des pertes, dépenses ou dommages qu'il pourrait causer à moins d'intention coupable évidente.
+L'expérience de Daniel dans l'entreprise de son frère contribue grandement au succès de cette compagnie. Néanmoins, le traitement salarial de même que les conditions de travail dans lesquelles il exerce ses fonctions lui confèrent un statut tout particulier.
+[25] Sous la rubrique «Analyse des documents», l'agente des appels a noté que «le payeur est passé de 46 employés en 1999, à 41 employés pour 2000 et à 80 employés pour l'année 2001» et que, selon le journal des salaires de l'appelante, pour la division assainissement, il y a eu 9 travailleurs en 2000 et des revenus variant de 12 810,00 $ à 57 180,00 $ et pour l'année 2001 il y a eu 9 travailleurs d'inscrits au registre avec des revenus variant de 15 363,00 $ à 61 124,00 $. Elle a de plus noté les contributions versées dans des REER au nom des actionnaires pour les années 1999, 2000 et 2001, soit : 6 750 $, 6 750 $ et 10 485 $ respectivement pour le travailleur et 13 500 $, 13 471 $ et 13 500 $ respectivement pour René St-Pierre.
+[26] En contre-preuve René St-Pierre a déclaré que s'il devait engager une personne non liée pour remplacer le travailleur, les conditions ne seraient pas les mêmes. Il a ajouté que l'appelante ne verserait pas le même montant dans un REER pour une personne non liée à la compagnie. Il a également ajouté qu'un étranger exigerait plus de vacances que celles dont jouit le travailleur.
+[27] Il s'agit de déterminer s'il existait un contrat de louage de services entre l'appelante et le travailleur et dans ce but il faut analyser les éléments qui composent la relation entre les parties.
+[28] Dans la cause Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, la Cour d'appel fédérale a énuméré quatre critères pour définir les relations contractuelles entre les parties : a) le contrôle; b) la propriété des outils; c) les chances de profit ou les risques de perte et d) l'intégration du travail de l'employé dans l'entreprise de l'employeur.
+a) Contrôle
+[29] La preuve a dévoilé que le travailleur avait la quasi-entière liberté d'agir dans sa division de l'entreprise. Les décisions importantes concernant l'entreprise étaient prises par le bureau de direction; les décisions administratives étaient prises en collégialité lors des rencontres trimestrielles avec la participation du travailleur, de son frère René St-Pierre et du contrôleur. Les deux frères se consultaient si nécessaire; leurs bureaux étaient situés dans le même local. Même s'il n'y a pas de supervision effective du travailleur, le droit de supervision de l'employeur est suffisant pour qu'il y ait un contrat de louage de services.
+b) Propriété des outils
+[30] La preuve est irréfutable : l'équipement et les outils sont la propriété de l'appelante.
+c) Chances de profit ou risques de perte
+[31] Le travailleur recevait un salaire régulier en plus de d'autres bénéfices reliés à son travail; donc, il n'y avait aucune chance de profit ou risque de perte.
+d) Intégration du travail de l'employé dans l'entreprise de l'employeur
+[32] Le travailleur oeuvrait au bénéfice de l'appelante; sans sa gérance directe l'appelante ne pourrait pas fonctionner. Le travailleur était donc intégré aux opérations de l'appelante.
+[33] Après examen des quatre éléments ci-haut, il est raisonnable de conclure qu'il existait un contrat de louage de services entre l'appelante et le travailleur.
+[34] L'agente des appels a examiné les conditions de l'emploi du travailleur parce que ce dernier était lié à un groupe qui contrôlait l'appelante en vertu de l'alinéa 5(2)i) et du paragraphe 5(3) de la Loi et l'article 251 de la Loi de l'impôt sur le revenu.
+[35] Dans la cause Roxboro Excavation Inc. c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.I. no 32, le juge Tardif de notre Cour s'est exprimé en ces termes :
+Il est alors essentiel de faire une distinction très nette entre les faits et gestes exécutés ès-qualité d'actionnaires et/ou d'administrateurs et ceux effectués à titre de travailleurs ou d'exécutants. En l'espèce, cette démarcation est particulièrement importante.
+[...]
+Y avait-il un lien de subordination entre les intervenants et la compagnie dans et pour l'exercice du travail qu'ils accomplissaient à l'intérieur de leur mission respective? Je crois que la compagnie, qui chapeautait le travail exécuté par les frères Théorêt, avait pleinement le droit et le pouvoir d'intervention. Le fait que la compagnie n'ait pas exercé ce pouvoir de contrôle et le fait que ceux qui exécutaient et réalisaient le travail ne se croient pas assujettis à un tel pouvoir de contrôle et ne se sentent pas subordonnés dans et lors de l'exécution de leur travail n'ont pas pour effet de faire disparaître, réduire ou limiter le pouvoir d'intervention.
+[...]
+En l'espèce toutes les circonstances et les modalités de l'emploi militent pour l'existence d'un véritable contrat de louage de services aucunement affecté par le lien de dépendance; en d'autres termes, la compagnie n'a attribué aucun avantage ou bénéfice qu'elle n'aurait pas alloué à des actionnaires sans lien. Inversement, les frères Théorêt n'ont pas été pénalisés à cause de leur statut familial.
+La prépondérance de la preuve est à l'effet que les frères Théorêt étaient préoccupés par les intérêts de la compagnie; ils étaient solidaires, déterminés à tout mettre en oeuvre pour maintenir la santé financière de cette dernière. En quoi et comment le fait d'avoir été des frères a modifié ou altéré leurs relations avec la compagnie? Il n'y a pas eu de preuve à cet effet.
+[...]
+D'ailleurs, il est assez fréquent de voir des co-actionnaires qui, de par leur statut, s'auto-disciplinent pour l'intérêt de la compagnie dans laquelle ils sont actionnaires.
+Cette décision du juge Tardif a été confirmée par la Cour d'appel fédérale, [2000] A.C.F. no 799.
+[36] Le travailleur recevait une rémunération hebdomadaire fixe de 1 153,85 $ payée par dépôt direct et son frère, René St-Pierre, responsable de l'autre division de l'entreprise recevait un salaire hebdomadaire de 1 718 $; aucune preuve concrète n'a été présentée démontrant que ces salaires étaient déraisonnables.
+[37] Le travailleur bénéficiait de certains avantages, tels l'utilisation d'un véhicule automobile propriété de l'appelante et les dépenses reliées à ce véhicule étaient assumées par l'appelante ainsi que d'une assurance collective et d'une assurance-vie. De plus, le travailleur bénéficiait de REER payés par l'appelante à chaque année. D'autres travailleurs à l'emploi de l'appelante recevaient également un REER à chaque année mais le montant était moindre que celui accordé aux deux actionnaires; cet écart dans les montants des REER s'explique par les responsabilités et le travail accru du travailleur.
+[38] Le travailleur ne prenait pas de vacances régulières comme les autres employés de l'appelante; il prenait congé pour la fête de Noël et durant quelques jours durant l'année pour assister à des congrès à l'étranger. Cette façon de prendre des vacances ne lui était pas imposée par l'appelante, c'est lui-même qui décidait de la sorte.
+[39] Le travailleur occupait une position cadre dans l'entreprise et avait intérêt à sa réussite, ce qui explique qu'il oeuvrait à des heures irrégulières et longues.
+[40] La preuve présentée à la Cour ne permet pas de conclure que le Ministre a mal exercé sa discrétion. L'appelante n'a pas réussi à établir, selon la prépondérance de la preuve, que le Ministre a agi d'une façon capricieuse ou arbitraire; il a bien exercé sa discrétion en vertu de l'alinéa 5(2)i) et du paragraphe 5(3) de la Loi.
+[41] L'appelante et le travailleur étaient des personnes liées; l'emploi exercé par le travailleur est un emploi assurable puisqu'un contrat de travail semblable aurait été conclu s'ils n'avaient pas eu entre eux de lien de dépendance.
+[42] L'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Ottawa, Canada, ce jour de juillet 2003.
+Juge suppléant Somers
+Jurisprudence consultée
+Bayside Drive-In Ltd. c. Canada (ministre du Revenu national - M.R.N.), [1997] A.C.F. no 1019;
+Bérubé c. Canada (ministre du Revenu national - M.R.N.), [1998] A.C.I. no 1032;
+Dockerty c. Canada (ministre du Revenu national - M.R.N.), [2000] A.C.I. no 690;
+Duchesne c. Canada (ministre du Revenu national - M.R.N.), [1995] A.C.I. no 73;
+Industries J.S.P. Inc. c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.I. no 423.
+RÉFÉRENCE :
+2003CCI449
+No DU DOSSIER DE LA COUR :
+2002-4649(EI)
+INTITULÉ DE LA CAUSE :
+Matériaux Économiques Inc. et M.R.N. et Daniel St-Pierre
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 25 avril 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable J.F. Somers,
+juge suppléant
+DATE DU JUGEMENT :
+Le 8 juillet 2003
+COMPARUTIONS :
+Pour l'appelante :
+Alain Savoie (représentant)
+Pour l'intimé :
+Me Nancy Dagenais
+Pour l'intervenant :
+L'intervenant lui-même
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenant :
+Nom :
+Étude :

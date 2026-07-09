@@ -1,0 +1,209 @@
+---
+title: "Hevey v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26312/index.do"
+last_modified: "2005-01-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 76"
+citation2: ""
+neutral_citation: "2005 TCC 76"
+decision_date: "2005-01-21"
+language: "en"
+item_id: "26312"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3324
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:07:41.075000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ff6f33a21141f1c2aa4f8be50914d586f67bd83fa48352e2c93aebeffed140c1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hevey v. The Queen
+
+- Citation: 2005 TCC 76
+- Decision date: 2005-01-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3324, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hevey v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-21
+Neutral citation
+2005 TCC 76
+File numbers
+2001-2641(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-2641(IT)G
+BETWEEN:
+CHARLES JAMES HEVEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 23, 2004, at London, Ontario, by
+The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Keith M. Trussler and Rebecca Krasnor
+Counsel for the Respondent:
+Ernest Wheeler and
+Ifeanyichukwu Nwachukwu
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 1995 taxation year is dismissed, with costs.
+Signed at Ottawa, Canada, this 21st day of January, 2005.
+"E.A. Bowie"
+Bowie J.
+Citation: 2005TCC76
+Date: 20050121
+Docket: 2001-2641(IT)G
+BETWEEN:
+CHARLES JAMES HEVEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] This appeal concerns the right of the Minister of National Revenue to reassess a taxpayer after the normal reassessment period of three years has expired on the authority of subsection 152(4.3) of the Income Tax Act (the Act). That subsection reads:
+152(4.3)
+Notwithstanding subsections (4), (4.1) and (5), where the result of an assessment or a decision on an appeal is to change a particular balance of a taxpayer for a particular taxation year, the Minister may, or where the taxpayer so requests in writing, shall, before the later of the expiration of the normal reassessment period in respect of a subsequent taxation year and the end of the day that is one year after the day on which all rights of objection and appeal expire or are determined in respect of the particular year, reassess the tax, interest or penalties payable, or redetermine an amount deemed to have been paid or to have been an overpayment, under this Part by the taxpayer in respect of the subsequent taxation year, but only to the extent that the reassessment or redetermination can reasonably be considered to relate to the change in the particular balance of the taxpayer for the particular year.
+152(4.3)
+Malgré les paragraphes (4), (4.1) et (5), lorsqu'une cotisation ou une décision d'appel a pour effet de modifier un solde donné applicable à un contribuable pour une année d'imposition donnée, le ministre peut ou, si le contribuable en fait la demande par écrit, doit, avant le dernier en date du jour d'expiration de la période normale de nouvelle cotisation pour une année d'imposition subséquente et de la fin du jour qui tombe un an après l'extinction ou la détermination de tous les droits d'opposition ou d'appel relatifs à l'année donnée, établir une nouvelle cotisation à l'égard de l'impôt, des intérêts ou des pénalités payables, ou déterminer de nouveau un montant réputé avoir été payé, ou payé en trop, en vertu de la présente partie par le contribuable pour l'année subséquente, mais seulement dans la mesure où il est raisonnable de considérer que la nouvelle cotisation ou la détermination se rapporte à la modification du solde donné applicable au contribuable pour l'année donnée.
+Specifically, the result in this appeal will be governed by the meaning to be given to the concluding words to which I have added emphasis. This subsection must be read in conjunction with subsection 152(4.4):
+152(4.4)
+For the purpose of subsection (4.3), a "balance" of a taxpayer for a taxation year is the income, taxable income, taxable income earned in Canada or any loss of the taxpayer for the year, or the tax or other amount payable by, any amount refundable to, or any amount deemed to have been paid or to have been an overpayment by, the taxpayer for the year.
+152(4.4)
+Pour l'application du paragraphe (4.3), le solde applicable à un contribuable pour une année d'imposition correspond au revenu, au revenu imposable, au revenu imposable gagné au Canada ou à une perte du contribuable pour l'année, à l'impôt ou autre montant payable par lui pour l'année, à un montant qui lui est remboursable pour l'année ou à un montant réputé avoir été payé, ou payé en trop, par lui pour l'année.
+[2] The Appellant is a director of numerous corporations. From time to time he has borrowed from one or more of them, and from time to time he has made repayment of loans to them. The repayments have not always been made within the year following the end of his taxation year in which the loan was made. As a result, he has at various times been liable to take those loans into income under subsection 15(2) of the Act, and he has at various times been entitled to deductions from income under paragraph 20(1)(j) as a result of repayments of them that he has made. For the years 1991 to 1995, he reported the following inclusions in income under subsection 15(2) and claimed the following deductions under paragraph 20(1)(j):
+Included under subsection 15(2)
+Deducted under paragraph 20(1)(j)
+1991
+$243,333.00 *
+$0.00
+1992
+587,790.00
+0.00
+1993
+250,158.00
+0.00
+1994
+633,368.00
+1,082,281.00
+1995
+149,245.00
+662,684.00
+$1,863,894.00
+$1,744,965.00
+* This is the amount pleaded by the Appellant. The Reply to the Notice of Appeal alleges it was $243,538.00. It is immaterial which is correct.
+[3] Thereafter, the Minister reassessed the Appellant for the 1991, 1992, 1993 and 1994 taxation years. In doing so, he reduced and redistributed the amounts that the Appellant had declared as income under subsection 15(2) for his taxation years 1991, 1992 and 1993 and 1994, and he disallowed all the amounts that the Appellant had claimed as deductions under paragraph 20(1)(j) for those years. The assessment and the reassessment for 1994 did not include any amount in income under subsection 15(2), and it did not allow any deduction under paragraph 20(1)(j).
+[4] At the end of June 1996, then, the Appellant had been reassessed for the taxation years 1991, 1992, 1993 and 1994. The result of those reassessments, insofar as shareholder loan inclusions and deductions are concerned, are summarized in the following table. The 1995 taxation year had been assessed according to the Appellant's return as filed. It had not been reassessed, nor had the assessment been objected to. There were, however, outstanding objections for 1993 and 1994.
+Included under subsection 15(2)
+Deducted under paragraph 20(1)(j)
+1991
+$289,372.36
+$0.00
+1992
+385,885.22
+0.00
+1993
+280,125.78
+0.00
+1994
+0.00
+0.00
+1995
+149,045.00
+662,684.00
+Total
+$1,104,428.36
+$662,684.00
+The evidence of both witnesses and Exhibit A-1, Tab 42 establish that this table accurately reflects the assessments in respect of the shareholder loans at that time.
+[5] The Appellant's solicitor and the Minister's appeals officer then negotiated towards a resolution of the outstanding objections for 1993 and 1994. There were other issues in addition to the shareholder loan issues, and it was a lengthy negotiation, but by the end of February 1999 they believed that they had reached a settlement: one that would be implemented by reassessment of the Appellant for the 1993, 1994 and 1995 taxation years.
+[6] I digress at this point to say that the disagreement between the Appellant and the Respondent as to the amounts to be included in the Appellant's income under subsection 15(2) of the Act did not arise out of any culpable conduct of the Appellant. The source of their differences lies in the fact that while Mr. Hevey as an individual reports his income on a calendar year basis, the corporation with which he transacted the loans has a March 31st year-end. The company's accountant, who was also Mr. Hevey's accountant, issued T4 slips and prepared the Appellant's returns in respect of the shareholder loan transactions based on the corporation's fiscal period rather than the calendar year. The Minister's auditor correctly computed the inclusions and deductions on a calendar year basis.
+[7] As I have said, the negotiation of the objections for 1993 and 1994 culminated in what the parties at the time thought was an agreement. Under that agreement, which was executed on February 26, 1999, the outstanding shareholder loan issue was to be resolved in this way:
+1994
+Allow a subsection 20(1)(j) deduction in the amount of $755,319.00, based on the repayments made to your shareholder loan accounts.
+Add an interest benefit [the particulars are not relevant here].
+1995
+Allow a subsection 20(1)(j) deduction in the amount of $200,064 based on repayments made to your shareholder loan account.
+Add an interest benefit [the particulars are not relevant here].
+[8] On the basis of this signed agreement, the Appellant waived the right to appeal the reassessments that would be issued to implement it. When the Minister issued these reassessments on May 28, 1999, the Appellant and his solicitor were surprised to find that the reassessment for 1995 was based on an inclusion under subsection 15(2) of $149,045 (as the Appellant had declared), but a total deduction under paragraph 20(1)(j) of $200,064, rather than the deduction of $662,684 (as filed and previously assessed) plus $200,064 (the "settlement" amount for 1995) equals $862,748 that they had expected.
+[9] The Appellant objected to this reassessment for 1995 and this appeal results. At the opening of the trial, counsel advised that they now agree that there never was agreement as to the terms of the settlement for 1995 - each party had a different understanding of the agreement that they signed, and so there was no agreement. Counsel for the Appellant made it clear in his opening statement that the Appellant advanced only one ground of appeal - that the reassessment for 1995 was statute-barred. He led no evidence as to the amounts repaid on the shareholder loan in 1995.
+[10] For his part, counsel for the Respondent made it clear that he defended the reassessment only on the basis that it was consequential to the reassessment the same day of the 1994 year. He did not rely on the settlement agreement, and he did not allege any misrepresentation.
+[11] Mr. William Scott is the appeals officer who negotiated the settlement with the Appellant's solicitor, and who then issued the reassessments of May 28, 1999 for the 1993, 1994 and 1995 taxation years. He testified that the reassessment for 1995 was driven by the reassessment for 1994 in this way. As appears from the table in paragraph 5 above, the amounts that were included in the Appellant's income under subsection 15(2) of the Act for the years 1992, 1993 and 1994 totalled $955,383, and he believed that there had not been any inclusions in income under that subsection before 1992. As an amount can only be deductible under paragraph 20(1)(j) if it has previously been included in income by virtue of subsection 15(2), the permissible deductions under 20(1)(j) up to and including 1995 could not amount in aggregate to more than $955,383. Once it had been agreed between the parties that there would be no deduction under 20(1)(j) for 1993, and that the deduction for 1994 would be $755,319, the maximum permissible deduction for 1995 was necessarily fixed at $955,383 - $755,319 = $200,064. As the initial assessment of the Appellant for 1995 had allowed him the full claimed deduction of $662,684 under paragraph 20(1)(j), it was necessary to reassess that year to reduce it to $200,064.
+[12] Counsel for the Appellant argued that as subsection 152(4.3) is headed "Consequential assessment", its use must be strictly limited to those situations where there is a change in a balance that is carried forward from one year to the next and that must appear on the taxpayer's income tax return. Examples would be a change in a reserve or in the balance of undepreciated capital cost of a class of property. He supports this argument by reference to the Technical Notes issued by the Department of Finance in 1994 when this subsection was added to the Act, citing the following passages:
+May 1994 TN: Subsection 152(4.3) allows the Minister of National Revenue to reassess beyond the normal reassessment period for a taxation year where it is necessary to do so as a result of an adjustment to an amount deducted or included in computing a "balance" of the taxpayer for another year. The "balance" of a taxpayer for a taxation year is defined in subsection 152(4.4).
+...
+The reassessment may be made only where the adjustment of the amount deducted or included in the other year's balance was made in an assessment for that year or as a result of a decision on an appeal from an assessment for that year. ... Such a reassessment may be made only where the Act requires the inclusion, or allows the deduction, in computing a taxpayer's balance for the year of an amount relating to the deduction or inclusion that was adjusted for the other year.
+...
+This provision might be applied, for example, where a decision on appeal has changed the amount of a reserve claimed in a taxation year, and a subsequent taxation year for which an amount relating to the reserve is required to be included, or is allowed to be deducted, in computing income has become barred from reassessment.
+[13] Counsel also referred me to the decision of the Federal Court of Appeal in Sherway Centre Limited v. Canada,[1] and to the decision of this Court in Bulk Transfer Systems Inc. v. The Queen,[2] but I do not find that either of those is helpful in the present case as they do not construe the subsection in question.
+[14] In my view the application of subsection 152(4.3) presents no great difficulty in the context of this case. It requires that I consider the following:
+i) has there been an assessment or a decision on an appeal?
+ii) if so, did it result in a change to a particular balance within the meaning of that word as it is defined in subsection 152(4.4)?
+iii) if so, can the reassessment reasonably be considered to relate to that change in the particular balance for the earlier year?
+In my view the answer to each of these questions is clearly yes. There was an assessment in relation to the 1994 taxation year, specifically the reassessment of May 28, 1999 that implemented the settlement, and from which no appeal has been taken. It resulted in a change to several balances as defined by subsection 152(4.4) - the taxpayer's income, his taxable income, and his tax payable for the 1994 taxation year. The changes in these balances were brought about in part by an increase in the amount of repayment of shareholder loans that he was permitted to deduct in 1994. It is beyond doubt, on the evidence of Mr. Scott, that this increase could only be brought about by transferring some amount of loan repayment that had been allowed as a 20(1)(j) deduction on assessing 1995 to 1994, thus requiring a consequential reassessment of 1995 to make an equivalent reduction of the deduction for loan repayment in that year. The reassessment of 1995, therefore, was not just related to but entirely the result of the changes made to the Appellant's balances of income, taxable income and tax payable for the 1994 year. The Minister was therefore entitled to make the reassessment that he did for 1995, notwithstanding subsections 152(4), (4.1) and (5).
+[15] The appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 21st day of January, 2005.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2005TCC76
+COURT FILE NO.:
+2001-2641(IT)G
+STYLE OF CAUSE:
+Charles James Hevey and Her Majesty the Queen
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+August 23, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+January 21, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Keith M. Trussler and Rebecca Krasnor
+Counsel for the Respondent:
+Ernest Wheeler and
+Ifeanyichukwu Nwachukwu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Keith M. Trussler
+Firm:
+Giffen & Partners
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2003] 2 C.T.D. 123.
+[2] [2004] 2 C.T.C. 2995.

@@ -1,0 +1,333 @@
+---
+title: "Brillon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28391/index.do"
+last_modified: "2006-02-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 76"
+citation2: ""
+neutral_citation: "2006 CCI 76"
+decision_date: "2006-02-09"
+language: "fr"
+item_id: "28391"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1910
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:54:22.280000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b6e289eb3f1c894539ed6443f171066a6ca42156ef6c9d56101ce817a901eab2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brillon c. La Reine
+
+- Citation: 2006 CCI 76
+- Decision date: 2006-02-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1910, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brillon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-09
+Référence neutre
+2006 CCI 76
+Numéro de dossier
+98-3126(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 98-3126(IT)I
+ENTRE :
+JEAN-GUY BRILLON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu avec les appels de Denis Hamilton (98‑3185(IT)I), Marcel Lalonde (98‑3292(IT)I et 2004‑1372(IT)I), Serge Paquin (98‑3561(IT)I et 2004‑2937(IT)I) et Gabrielle Clapin, exécutrice testamentaire de la succession Roger Clapin (98‑3595(IT)I)
+les 4 et 5 août 2005 et le 24 novembre 2005, à Montréal (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocats de l'intimée :
+Me Anne-Marie Boutin
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 1989 est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 9e jour de février 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2006CCI76
+Date : 20060209
+Dossiers : 98-3126(IT)I
+98-3185(IT)I
+98-3292(IT)I
+2004-1372(IT)I
+98-3561(IT)I
+2004-2937(IT)I
+98-3595(IT)I
+ENTRE :
+JEAN-GUY BRILLON,
+DENIS HAMILTON,
+MARCEL LALONDE,
+SERGE PAQUIN,
+GABRIELLE CLAPIN, EXÉCUTRICE TESTAMENTAIRE
+DE LA SUCCESSION ROGER CLAPIN,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Ces appels ont été entendus sur preuve commune en ce qui concerne la preuve de l'intimée.
+[2] Le fondement de la cotisation est la notion « d'associé déterminé » au sens de cette définition au paragraphe 248(1) de la Loi de l'impôt sur le revenu (la « Loi »).
+[3] L'expression « associé déterminé » est ainsi définie au paragraphe 248(1) de la Loi :
+« associé déterminé » S'agissant de l'associé déterminé, au cours d'un exercice ou d'une année d'imposition, selon le cas, d'une société de personnes, tout associé qui :
+a) soit est commanditaire de la société de personnes, au sens du paragraphe 96(2.4), à un moment de l'exercice ou de l'année;
+b) soit, de façon régulière, continue et importante tout au long de la partie de l'exercice ou de l'année où la société de personnes exploite habituellement son entreprise :
+(i) ne prend pas une part active dans les activités de l'entreprise de la société de personnes, sauf dans celles qui ont trait au financement de l'entreprise de la société de personnes,
+(ii) n'exploite pas une entreprise semblable à celle que la société de personnes exploitait au cours de l'exercice ou de l'année, sauf à titre d'associé d'une société de personnes.
+[4] C’est le sous-alinéa b)(i) qui est en cause. Pour fins de clarté et d'abrégement, on peut appeler l'associé déterminé un associé déterminé (passif).
+[5] Le paragraphe a) de la définition de « crédit d’impôt à l’investissement » au paragraphe 127(9) de la Loi se lit ainsi :
+« crédit d'impôt à l'investissement » Le crédit d'impôt à l'investissement d'un contribuable à la fin d'une année d'imposition correspond à l'excédent éventuel du total des montants suivants :
+...
+(ii) soit d'une dépense admissible que le contribuable a faite au cours de l'année,
+...
+[6] La définition de « dépense admissible » se trouve au paragraphe 127(9) de la Loi. Il s'agit de dépenses relatives à des activités de recherche scientifique et de développement expérimental (« RS&DE ») engagées par un contribuable.
+[7] L’alinéa 127(8)a) de la Loi se lit ainsi :
+127(8) Crédit d'impôt à l'investissement d'un associé. Lorsque, au cours d'une année d'imposition donnée d'un contribuable associé d'une société de personnes, un montant serait déterminé à l'égard de la société de personnes — si celle‑ci était une personne et si son exercice était son année d'imposition — pour l'année d'imposition de celle‑ci se terminant au cours de l'année donnée, en vertu :
+a) soit de l'alinéa a) de la définition de « crédit d'impôt à l'investissement », au paragraphe (9) — compte non tenu du sous‑alinéa a)(iii) de cette définition et, si le contribuable est un associé déterminé de la société de personnes au cours de l'année d'imposition de celle‑ci, compte non tenu du sous‑alinéa a)(ii) de cette définition;
+[8] Selon le paragraphe 127(8) de la Loi, qui a trait au crédit d’impôt à l’investissement d’un associé, si le contribuable est un associé déterminé (passif), il ne faut pas tenir compte, dans le calcul du crédit d'impôt à l'investissement (« CII »), du sous‑alinéa a)(ii) de cette définition du CII. Ce sous-alinéa a trait à la dépense admissible que le contribuable a faite au cours de l’année.
+[9] Comme le ministre du Revenu national (le « Ministre ») a considéré que les appelants étaient des associés déterminés (passifs), le crédit d'impôt à l'investissement que les appelants avaient réclamé a été refusé, car la demande de ce crédit était fondée exclusivement sur le montant de la dépense.
+[10] L'année qui a suivi l’année de la participation dans la société, les contribuables ont disposé de leur part. Un gain en capital résulte de la disposition des parts. Car, vu l'alinéa 53(2)c) de la Loi, le prix de base rajusté (« PBR ») de la participation doit être réduit du montant de la perte de société réclamée. Certains ont réclamé une déduction pour gains en capital en application du paragraphe 110.6(3) de la Loi. Le fait que les contribuables soient considérés comme des associés déterminés (passifs) a un impact sur les pertes nettes cumulatives sur placements (« PNCP »), ce qui a limité leur droit à la déduction pour gains en capital. À ceux qui avaient réclamé une déduction pour gains en capital, le Ministre a refusé cette déduction. À l'égard des contribuables qui ont déclaré le gain en capital, ce gain a été maintenu, pour ceux qui ne l'avaient pas déclaré, il a été imposé.
+[11] La perte d’entreprise a été accordée en vertu de l’alinéa 96(1)g) de la Loi. Elle a été prise en compte l’année suivante au titre de « frais de placement » défini au paragraphe 110.6 (1) de la Loi, selon l’alinéa c) de cette définition. La définition de PNCP se trouve aussi au paragraphe 110.6(1) de la Loi. La PNCP affecte la déduction pour gains en capital.
+[12] Selon l'intimée, il y a aussi une autre question pour l'année 1990, bien qu'elle ne soit pas clairement exprimée dans les avis d'appel, c'est que le Ministre a imposé un crédit d'impôt du Québec que les gens auraient reçu. Ce crédit d'impôt a été imposé en vertu de l'alinéa 12(1)x) de la Loi.
+[13] Le point principal en litige d’où découlent les différents aspects du calcul des cotisations dont il y a appel est la notion d’associé déterminé (passif). C'est cette notion qui a été soulevée par les appelants et c'est cette notion qui sera le sujet de ces motifs. Il s'agit en fait du seul point mis en litige par les appelants.
+[14] Le premier témoin de l'intimée a été madame Marie‑Andrée Beaudry. Elle a investi dans E.C.T. Systems Enrg. (« E.C.T. Systems »), soit la société de personnes qui est en jeu dans la présente affaire. Elle a relaté que des collègues de travail lui avaient parlé des avantages fiscaux reliés à des investissements dans des projets de RS&DE. Elle est allée avec eux aux présentations du projet. Il s'agissait de projets en informatique. À la suite d'une ou des réunions, elle a signé des documents : un emprunt et des chèques.
+[15] L'avocat de l'intimée a déposé comme pièce I‑1 les documents que madame Beaudry a transmis à Revenu Canada lors de son acceptation de la proposition de règlement en décembre 1995. Il s’agit des documents montrant son investissement ainsi que ses déclarations de revenu pour les années 1989 et 1990.
+[16] Son investissement a été de 20 000 $, soit 20 parts de 1 000 $ chacune. Le 8 novembre 1989, elle a signé un chèque au montant de 10 000 $ et a obtenu un prêt personnel au montant de 10 000 $ d'une société, Diasware Inc. (« Diasware »). En date du 19 février 1990, elle a fait un chèque au montant de 225 $ à l'ordre de Diasware pour couvrir le montant des intérêts mentionnés sur le formulaire du prêt. Le 24 janvier 1990, elle reçoit de Glenrock Investments Ltd. (« Glenrock ») une offre d'acheter toutes ses parts dans la société E.C.T. Systems au prix de 500 $ la part. Cette offre est valide jusqu'au 28 février 1990.
+[17] Toujours dans la pièce I‑1 se trouve une lettre envoyée aux associés de E.C.T. Systems, en date du 5 février 1990, non signée mais avec la mention qu'elle provient du secrétaire. Elle se lit comme suit :
+Vous trouverez ci‑joint un chèque libellé à votre nom que nous vous demandons de bien vouloir endosser (signer à l'arrière) en vue de payer votre prêt à DIASWARE INC. et de nous le retourner le plus tôt possible. Ce chèque représente l'achat de vos participations de E.C.T. Systems.
+Lors de la réception de votre chèque dûment endossé, nous créditerons votre prêt. ...
+[18] L’emprunt de madame Beaudry était au montant de 10 000 $. Son investissement était au montant de 20 000 $. Tout son investissement est racheté pour le montant de l’emprunt soit 10 000 $ qui est à ce moment radié.
+[19] Elle relate qu’il n’y a eu aucune discussion concernant le rachat des parts et le remboursement de l’emprunt. Elle a reçu les papiers et les a signés.
+[20] Il y a eu trois réunions au plus, des réunions d'environ une heure chacune. E.C.T. Systems a été présenté comme étant un projet en informatique. Si elle se rappelle bien, ce serait des programmes ou un développement de logiciels qui aiderait d'autres programmeurs. Elle ne connaissait pas personnellement les chercheurs. En ce qui la concerne, cet investissement était un investissement dans un abri fiscal.
+[21] À la pièce I‑2, qui constitue la déclaration de revenu de madame Beaudry, on voit un « État des revenus d’une société » établi pour l’associée Beaudry. La société est E.C.T. Systems. Dans cet état, on voit une perte d'entreprise au montant de 19 558 $ et un crédit d'impôt à l'investissement au montant de 3 915 $. Elle a réclamé les deux montants dans sa déclaration de revenu pour l’année 1989. La perte d’entreprise a été accordée. Le crédit d’impôt à l’investissement a été refusé.
+[22] Le prochain témoin a été monsieur Michel Beaudry, vérificateur à l'Agence des douanes et du revenu du Canada (« l'ADRC »). À la fin de l'année 1991, il a vérifié la société en nom collectif E.C.T. Systems. Son mandat était de vérifier les dépenses de RS&DE ainsi que les crédits d'impôt qui s'y rattachaient.
+[23] Il a également fait la vérification d'autres sociétés de RS&DE. Elles avaient leur siège social à la même adresse que E.C.T. Systems et elles étaient administrées par les mêmes personnes. Il s’agit de la société Kat‑Vades pour les années 1989 et 1990, la société C.I.D. Systems pour les années 1989 et 1990, la société G.E.T. Systems pour les mêmes années, la Société Arbus‑486 pour l'année 1990, la société F.T.N. et la société C.T.N. pour l'année 1990. Ce que ces sociétés avaient en commun était que le promoteur était le même, Zuniq Property Ltd., qui appartenait à monsieur Hien Vohoang. On revoyait les noms de Anh Nguyen, l'épouse de monsieur Vohoang et Vo Thi Thang Nguyen, sa sœur.
+[24] La pièce I‑3 est un cahier de documents divisé en 71 onglets. À l'onglet 2 se trouve la déclaration de la société E.C.T. Systems, faite en Alberta, le 28 septembre 1989. Les deux personnes mentionnées sont : madame Chau H. Nguyen et monsieur Tom Nguyen. Selon cette déclaration, la société a commencé le 28 septembre 1989, et à cette date, ces deux personnes étaient les seuls membres de la société E.C.T. Systems.
+[25] À l'onglet 3 se trouve la convention de société de E.C.T. Systems. Le numéro d'abri fiscal y est indiqué. Cette convention de société est intervenue entre madame Chau H. Nguyen, Modesto – Californie et monsieur Tom Nguyen, Modesto – Californie. Elle est en date du 20 octobre 1989. Il est indiqué à l'article 15 de cette convention que « ... la présente convention sera régie par la Loi de la province de l'Ontario ». Selon cette convention, les deux personnes sont de Modesto, Californie, alors que dans la déclaration de société, on indiquait leur adresse comme étant à Calgary. L'adresse de la société est à Rosemeade, Californie.
+[26] Il est à noter que la convention a été signée le 20 octobre 1989. Toutefois, elle a été enregistrée le 28 septembre 1989, avec indication qu'elle existait depuis le 28 septembre 1989.
+[27] Dans cette société, 215 membres ont investi. Les noms des investisseurs ainsi que le montant investi sont mentionnés à l'onglet 5 de la pièce I‑3. Le montant total des investissements est de 3 474 900 $. Il s'agit du total des montants empruntés auprès d'une banque et auprès de Diasware.
+[28] À l'onglet 10 de la pièce A‑3, se trouve la déclaration de revenu de Diasware. L'adresse du siège social de Diasware est à Calgary mais son adresse postale est le 2035 Côte de Liesse, Ville St‑Laurent. La personne qui a signé à titre de cadre autorisé à signer pour la corporation est madame Anh Nguyen, épouse du promoteur monsieur Vohoang.
+[29] À l'onglet 13, se trouvent les états financiers de E.C.T. Systems se terminant le 31 décembre 1989. On y lit :
+Apports des associés
+3 474 900 $
+Perte nette
+(3 474 709 $)
+Solde à la fin
+191 $
+[30] Monsieur Beaudry relate qu’il a essayé de suivre le montant dépensé à travers les contrats de services accordés par la société aux nombreuses corporations mandatées pour effectuer la recherche. Cela n’a pas été possible. Ces contrats se trouvent aux onglets 17 à 33. Il s’agit de sociétés ayant presque toutes comme adresse le 2035 Côte de Liesse et ayant les mêmes dirigeants que ceux déjà mentionnés.
+[31] Il serait fastidieux et impossible de rapporter ces ententes. Lors de leur témoignage, chacun des appelants a admis qu’ils n’étaient pas au courant de ces ententes et qu’ils les voyaient pour la première fois.
+[32] Les appelants ont suivi le schéma déjà décrit lors du témoignage de madame Beaudry. Ils ont acquis leurs parts à la fin de 1989 et les ont vendues au début de 1990.
+[33] À l'onglet 42 se trouve une formule de cession des parts. L'investisseur mentionné n’est pas un des appelants mais un associé de la même société. Il vend, cède et transfère à Glenrock au prix de 10 000 $ ses parts détenues au 31 décembre 1989, soit 20 parts acquises au coût de 20 000 $. Le rachat total en 1990, selon la liste fournie par la comptable de E.C.T. Systems est au montant de 1 635 620 $ (onglet 43). Dans la liste de rachat, nous y voyons le nom de chacun des appelants. Le prix de rachat était la moitié du prix de l'investissement.
+[34] Monsieur Beaudry a relaté que la vérification de l'aspect scientifique de cette affaire a été faite par monsieur Claude Papion. Le scientifique a considéré que le projet était admissible. Lorsque monsieur Vohoang a présenté les documents scientifiques, il y a joint certains documents, soit des questionnaires, qui devaient démontrer la participation active des associés. Le vérificateur a demandé au scientifique d’examiner ces documents pour déterminer si les travaux des différents associés correspondaient à ce qui était dans le projet. Le scientifique a conclu que le contenu de ces questionnaires n'avait rien à voir avec le projet. Selon monsieur Beaudry, c'est à partir de ce moment qu'il a conclu qu'il s’agissait d’associés passifs, des associés qui ne prenaient pas une part active dans les activités de la société de façon régulière, continue, importante, tel que défini à la définition d'associé déterminé. La majorité des lettres reçues des investisseurs en ce qui concerne leur participation aux recherches scientifiques étaient identiques ou presque identiques et ce dans toutes les sociétés mentionnées plus haut qu’il s’agisse de E.C.T. Systems, Kat-Vades, C.I.D., G.E.T., Arbus‑486, F.T.N. ou de C.T.N.
+[35] Pour continuer dans cette recherche sur la nature de la participation des appelants dans la société, monsieur Beaudry, le 8 juillet 1993, a écrit à madame Houle, assistante administrative de E.C.T. Systems, lui demandant : « ... dans le but de clarifier la participation des associés dans les sociétés ci‑haut mentionnées, nous vous demandons de nous fournir les documents suivants : les fiches de présence des associés aux diverses activités de la société, et, les comptes rendus et les décisions prises, sous forme de résolution ou non, lors des réunions tenues par les dites sociétés en regard de leur projet de recherche respectif. ... » (onglet 57). La réponse est arrivée le 3 septembre 1993, disant : « En réponse à votre requête du 8 juillet 93 ... il nous est malheureusement impossible de vous fournir les fiches de présence des associés aux diverses activités. En effet, nous n'avons pu retrouver ces documents mentionnés par M. Vohoang lors d'une réunion qu'il a eue avec vous peu avant son décès. ... » (onglet 58).
+[36] Néanmoins, elle joint à sa lettre certaines résolutions voulant témoigner de décisions prises par les associés au cours de l'année de leur participation. Il s’agit de résolutions préparées d’avance par E.C.T. Systems, et à la composition desquelles, les appelants n’ont nullement participé.
+[37] Les appelants ont été cotisés à nouveau pour refuser le crédit d'impôt à l'investissement parce qu’ils étaient des associés déterminés (passifs) en 1989. Pour ceux dont l’année 1990 est en cause, il y a eu un gain en capital parce que le prix de base rajusté de la participation est devenu zéro par l’effet de l’alinéa 53(2)c) de la Loi. La perte d’entreprise de la société a été classifiée comme frais de placement au sens de l’alinéa c) de cette définition au paragraphe 110.6(1) de la Loi. Ce qui a eu un effet sur le montant des pertes nettes cumulatives sur placement et par ricochet sur le montant de la déduction pour gains en capital. Il y a eu imposition sur le crédit d'impôt du Québec.
+[38] Le rapport du vérificateur, en date du 22 juillet 1994, se trouve à l'onglet 60. À l'onglet 61, se trouve un autre rapport du vérificateur, celui‑là le T2020.
+[39] À une question de l'appelant Paquin concernant l'usage de l'argent investi, monsieur Beaudry répond qu'il a fait un relevé du compte bancaire de la société. Le seul déboursé qu'il a vu était à l'égard du premier contrat. En ce qui concerne les autres contrats, il n'était pas possible de suivre la route de l'argent.
+[40] Le prochain témoin a été madame Ahn Nguyen. En 1989, elle travaillait pour monsieur Vohoang. Elle a commencé à travailler en 1988 et a quitté la compagnie en 1994. Son lieu de travail était le 2035 Côte de Liesse à Ville St‑Laurent. Elle était commis comptable. Elle préparait les chèques de rachat. Le montant à indiquer sur le chèque de rachat était 50 % du montant investi.
+[41] L'avocat de l'intimée réfère le témoin à l'onglet 39 de la pièce I‑3. Le témoin indique que Huyen Anh Nguyen est l'épouse de monsieur Vohoang. Elle‑même, dont le prénom est Ahn, dit qu'elle n'a pas de lien de parenté avec les autres personnes du nom de Nguyen mentionnées à l'onglet 39, sauf le nom de monsieur Tan Dung Nguyen, qui est le mari du témoin. Madame Chau Huyen Nguyen est la soeur de madame Vohoang. À l'onglet 40, elle fait le même exercice, Dzung T. Nguyen est celui qui est venu après le décès de monsieur Vohoang pour continuer la compagnie. Isabelle Vohoang est la fille de monsieur Vohoang. À l'onglet 42, il y a la formule de cession pour Glenrock, et la signature est de madame Marjorie Lauger. Le témoin indique que madame Lauger était la secrétaire de monsieur Vohoang.
+[42] Le prochain témoin a été madame Hélène Deshaies, agente des appels à l'ADRC. Son rapport se trouve à l’onglet 69. Elle a commencé à s’occuper de ces dossiers en 1997. Elle a constaté que toutes les sociétés de sous‑traitants avaient la même adresse, soit le 2035 Côte de Liesse. Elle a communiqué avec des institutions bancaires où Glenrock avait fait affaires. À l'onglet 63, il y a une lettre du 23 juin 1997 du Trust National lui répondant concernant le compte bancaire de Glenrock : la date de l'ouverture de ce compte est le 28 décembre 1989, le nom de la personne qui l'a ouvert est Hien Vohoang, l'adresse de la société est à Calgary, les noms des signataires pour ce compte, Hien Vohoang et Marjorie Lauger, la date de fermeture du compte est le 11 novembre 1993. Elle a envoyé le même genre de lettre au Trust Général du Canada, elle a reçu la réponse suivante : la date d'ouverture du compte est le 27 mai 1992, le nom des personnes qui l'ont ouvert, Nhu Co Le et Than Nguyen Vo, l'adresse de la société, 2035 Côte de Liesse, les signataires sont les personnes qui l'ont ouvert et la date de fermeture du compte est le 27 avril 1994.
+[43] Monsieur Serge Huppé a été le prochain témoin. Il a déposé comme pièce I‑5, un tableau ayant comme titre « Tableau des sociétés de personnes du groupe Zuniq utilisées comme abris fiscaux de RS&DE pour les années d’imposition 1989 à 1992 ». Il a relaté que dans le cours de leur recherche, ils ont établi qu'il y avait un groupe de 19 sociétés de personnes qui étaient très similaires les unes aux autres et reliées au groupe Zuniq. En ce qui concerne l’offre de règlement proposée aux appelants en 1995, il explique que les intérêts étaient annulés du 1er mai 1990 jusqu'à la date de cotisation donnant effet au règlement, en autant que le règlement ait été accepté au plus tard le 29 décembre 1995.
+[44] Monsieur Claude M. Papion a témoigné à titre d’expert. Tel que mentionné au paragraphe 34 de ces motifs, il a été le conseiller scientifique qui à la demande du Ministre a analysé le projet Damdes de E.C.T. Systems. Son rapport a été déposé comme pièce I‑6. Il a également analysé les projets scientifiques de C.I.D. et G.E.T. Il avait conclu que les projets tels que décrits étaient des projets admissibles. Toutefois en ce qui concerne la participation des associés, voici ce qu’il dit, le 21 mai 1992, onglet 1 de l’annexe A de la pièce I‑6 :
+[…]
+3. NATURE DE LA PARTICIPATION DES ASSOCIÉS
+La documentation abondante fournie concernant la participation des associés présente les caractéristiques suivantes :
+• dans les trois cas, bien que les projets traitent de sujets fondamentalement différents les uns des autres, la documentation fournie est rigoureusement identique et sans la moindre pertinence vis-à-vis le sujet du projet sur lequel l’associé a investi des fonds,
+• chaque dossier contient un rapport annuel des activités de participation des associés pour l’année 1989 ;
+or, les associés n’ont été invités à prendre connaissance de la documentation préparée à leur intention qu’en 1990 ainsi qu’en fait foi le relevé de travail de plusieurs associés datés de 1990 correspondant à la période au cours de laquelle ils ont effectué leur souscription ;
+• enfin, le questionnaire auquel l’associé fut invité à répondre, est identique dans les trois cas et ne fait aucune mention du sujet du projet de recherche sur lequel il est supposé contribuer.
+L’objet de cette documentation demeure donc mystérieux.
+[45] Certains investisseurs qui ne sont pas parmi les appelants ont par la suite écrit aux vérificateurs pour faire valoir la qualité de leur participation. Voici ce que monsieur Papion écrit le 27 octobre 1993, à l’onglet 2 de la pièce I‑6 :
+…
+Les activités auxquelles les personnes mentionnées ont participé touchent la manipulation de logiciels élémentaires utilisés dans les institutions d’enseignement collégial lors de l’apprentissage des premiers éléments d’informatique : Rocky’s boots, SM Verbes (conjugaison de verbes), MS DOS (éléments de base), Getting Started (le premier contact avec un micro-ordinateur), Word Perfect (un système de traitement de textes répandu), Lotus 123 (le chiffrier le plus répandu).
+De telles activités sont absolument sans relation avec le sujet du projet DAMDES et ne contribuent en rien aux travaux conduits par plusieurs universitaires recrutés pour le projet, très familiers avec les technologies sous-jacentes des logiciels examinés lors de l’étude de faisabilité. De tels logiciels exigent en outre une pleine maîtrise de la technologie informatique, de loin plus exigeante que les activités de niveau « débutant » en informatique auxquelles ECT Systems a cru bon de convier les quatre personnes citées.
+[46] Monsieur Marcel Lalonde a été le premier appelant à témoigner. Son appel concerne deux années soit 1989 et 1990. Sa participation a été de 14 000 $, en novembre 1989. Il en a disposé pour 7 000 $ en février 1990.
+[47] En ce qui concerne sa participation dans E.C.T. Systems, je cite des extraits de son témoignage aux pages 100, 101, 103, 105 et 106 des notes sténographiques :
+R. Voilà. Alors il y avait une participation qui était exigée. D'ailleurs, on l'a très bien dit lors de l'assemblée, je me souviens, on a dit : on exige, on va exiger des gens qu'ils aient une participation active. Vous allez devoir consacrer du temps. Ça ne veut pas dire que c'est du 9 à 5, on comprend ça. La plupart ont des emplois, mais vous allez devoir consacrer du temps. Vous allez devoir faire des analyses. Vous allez devoir nous faire des rapports. Et par la suite, vous serez invités à des réunions à remettre ça en question, à faire du croisement d'information, à valider ces rapports-là, à les approuver, à dégager des consensus.
+La partie qui était ... Évidemment, si on m'avait forcé de travailler dans le groupe central, j'aurais dit non parce que tout d'abord, il y avait certaines expertises que je n'ai pas du tout. ...
+Le questionnaire standard, moi, ça ne m'a pas surpris du tout. D'ailleurs, ça a été dit par les ... C'est dans les témoignages ici. Il y avait un questionnaire dans trois entreprises. Alors ce questionnaire-là, c'est un questionnaire effectivement standard. Moi, ça ne me surprend pas qu'il y ait d'autres compagnies qui l'utilisaient.
+...
+Les réunions qu'on a eues par la suite, j'ai fait des rapports, les réunions consistaient justement à essayer de dégager des consensus de la part des gens qui étaient là. Par exemple, ça consistait à dire : bien dans l'item 4, numéro 3, tout le monde a accroché. Vous avez tous dit qu'il y avait une difficulté. Quatre‑vingt‑deux pour cent (82 %) ont dit qu'ils trouvaient ça très difficile C'est quoi? Et là, ils essayaient d'identifier quelles étaient ces difficultés‑là. Et si vous avez tous accroché là, c'est qu'il doit y avoir sûrement quelque chose, qu'est-ce qui ne va pas?
+...
+Q. Et ça c'était de ...
+R. Ça c'était à l'automne 89.
+Q. À l'automne 89 ça?
+R. Oui, ça a débuté dès... Moi, j'ai reçu les documents quelques jours après. Les premiers documents transferts sont faits dans le mois de novembre. ...
+[48] Il a produit comme pièce A‑3 (Lalonde) les documents de participation qu’il a reçus accompagnés d’une lettre en date du 3 novembre 1989. Je cite les deux premiers paragraphes de cette lettre :
+Je viens de recevoir vos documents d’adhésion et je vous souhaite la bienvenue à la société. En tant que secrétaire de ECT Systems, ma responsabilité est de vous enregistrer comme membre à part entière de la Société.
+Veuillez trouver ci-joint une copie des documents d’adhésion ainsi que des documents de travail. Vous avez en effet, l’opportunité de participer à un projet de recherche intéressant. Votre participation aux travaux de validation du prototype va aider grandement notre équipe de recherche. Veuillez donc remplir le document : « Fiche de participation » et nous le retourner en mentionnant le nom du logiciel utilisé pour votre analyse. Vous pouvez choisir un des quatre logiciels inclus dans cet envoi.
+[49] L’appelant lui-même mentionne que les documents sont des formulaires standards.
+[50] Il ne connaissait aucun des autres participants à la société. Il ne connaissait pas les dirigeants. Il ne connaissait pas les documents de constitution. Il ne savait pas quelle était la banque de E.C.T. Systems, ni qui avait droit de signer les chèques, ne savait pas où se trouvaient les livres et registres. Il ne savait pas quels biens E.C.T. Systems détenait. Il n’a pas participé à la décision de confier le mandat de recherche aux sous-traitants. Il serait allé trois ou quatre fois au 2035 Côte de Liesse. Il ne se souvenait pas de la manière exacte dont il avait payé sa participation. L’avocat de l’intimé lui a montré à l’onglet 7 de la pièce I‑3 les dépôts faits par E.C.T. Systems. On y voit à l’égard de l’appelant deux dépôts, l’un provenant d’une banque, l’autre provenant d’un emprunt fait auprès de Diasware.
+[51] La déclaration de revenu de monsieur Lalonde pour l’année 1989 a été déposée comme pièce I‑7. Le montant de la dépense d’entreprise est de 13 691 $ et le CII est de 2 741 $. On y voit que l’emprunt de 7 000 $ a été fait auprès de la Société d’Épargne Métropolitaine de Montréal Inc.
+[52] La déclaration de revenu pour l’année 1990 a été déposée comme pièce I‑8. On y voit que le prêteur pour la deuxième tranche de l’emprunt est bien Diasware.
+[53] L’appelant, Serge Paquin a déposé comme pièce A‑2, un cahier de documents. Sa participation a été de 15 000 $. Il affirme que l’emprunt de 15 000 $ a été emprunté en deux montants de la Société d’Épargne de la Montérégie, le 9 décembre 1989. Pourtant à l’onglet 7, on voit un dépôt fait en sa faveur par Diasware et à la déclaration de revenu pour l’année 1989, un état des intérêts payés par l'appelant à Diasware. Il a disposé de sa participation en février 1990 au montant de 7 500 $.
+[54] Il a relaté qu'avec ses collègues, ils discutaient des réductions d’impôt offertes par le fédéral, c'est ainsi qu’il a assisté à une réunion concernant le projet Damdes.
+[55] Dans son cahier de documents se trouve l'explication de ses nouvelles cotisations. Comme je crois qu'elle est fort probablement identique pour tous les appelants, je la cite pour aider à la compréhension du débat :
+...
+Les documents soumis par la société ECT Systems SNC ainsi que votre lettre datée du 25/05/93 n'ont pas démontré que vous avez pris de façon régulière, continue, et importante, une part active dans les activités de la société pour l'exercice terminée le 31 décembre 1989.
+En conséquence, les changements suivants seront effectués au calcul de votre impôt à payer pour l'année 1989 et toute autre année qui pourrait être concernée :
+- le crédit d'impôt gagné en rapport avec votre participation dans la société est refusé,
+- la perte d'entreprise provenant de cette société que vous avez déduite représente des frais de placement qui doivent être inclus dans le calcul de la perte nette cumulative sur placement. Cette dernière a un effet sur le calcul de l'exemption du gain en capital, et,
+- le crédit d'impôt provincial est inclus au revenu dans l'année où il est reçu.
+[56] La pièce I-11 est une résolution de E.C.T. Systems nommant madame Lauger gestionnaire du projet. Sa signature paraît sur le document en date du 13 novembre 1989. Il admet ne pas avoir participé à cette décision. Il ne connaissait pas cette personne. Il admet aussi volontiers qu’il ne connaissait pas les gestionnaires de E.C.T. Systems et n’a pas participé aux décisions de la société. Sa seule implication a été de commenter des logiciels.
+[57] Voici quelques extraits de son témoignage aux pages 22, 70, 77 et 78 des notes sténographiques :
+...
+On nous a ensuite mentionné que le gouvernement avait accepté ce projet dans le cadre de son programme et avait émis un numéro de projet. Il n'y avait aucune mention de numéro temporaire à titre d'admission. Je suis allé négocier un prêt de 15 000 $ avec la Société d'épargne de la Montérégie et j'ai donc investi dans ce projet. Comme plusieurs, j'ai eu à donner mon avis sur des logiciels de base, comme Word Perfect, Lotus 123, et caetera.
+...
+R. Moi, ce qui m'intéressait dans ce projet-là, un, l'avantage fiscal, c'était vraiment alléchant. Si j'investi dans, peu importe autres projets que recherche et développement, à cette époque-là, il n'y avait pas de réduction d'impôt pour investissement. Celui-là ici, c'était cent pour cent à ce moment-là. Ça, c'est certain que ça m'intéressait. La deuxième chose, étant donné que je faisais partie d'un groupe qui développait un logiciel que je pourrais apparenter à ça presque dans tous les détails, j'étais intéressé à aller chercher cette information‑là, pour faire avancer aussi notre projet Pathfinder. C'était ça.
+...
+Q. C'était facile à compléter le questionnaire?
+R. Oui.
+Q. Très facile?
+R. Très facile.
+Q. Avez‑vous fait, participé à d'autres activités de la société ...
+R. Non
+[58] L’appelant Jean-Guy Brillon a relaté qu'il a investi à la suggestion de son comptable qui lui avait parlé de réduction d’impôt. Son appel concerne l'année 1989. Les déclarations de revenu pour 1989 et 1990 ont été déposées comme pièce I‑13.
+[59] Voici quelques extraits de son témoignage (pages 91 et 106 des notes sténographiques) :
+...
+R. Bien, il me disait que c'était pour la recherche et développement. Et puis en investissant dans ça, je pouvais avoir des exemptions d'impôt et qu'il me conseillait d'embarquer dans ça, si vous voulez.
+Q. Hum, hum. Parce que ça pouvait être rentable?
+R. Ça pouvait être rentable, puis je sauvais des sous. Et comme j'étais cadre aussi, ça m'intéressait aussi les « ordis », donc je n'avais pas d'« ordi » à ce moment‑là, et je voulais apprendre, bon, développement et recherche concernant les logiciels, tout ça. Il m'avait convaincu d'embarquer dans ça.
+...
+Q. Monsieur Brillon, vous, pendant l'année 1989, si vous aviez à résumer votre participation dans la société, quelle a-t-elle été, à part de mettre 10 000 $ dans cette société-là?
+R. Quelle a été ma part?
+Q. Votre participation.
+R. Je ne me rappelle pas d'avoir participé bien beaucoup à d'autre chose.
+[60] Monsieur Denis Hamilton a investi 17 000 $. L'année en cause est 1989. Les déclarations de revenu pour 1989 et 1990 ont été déposées comme pièce I‑14.
+[61] Le 1er décembre 1989, il a emprunté 8 500 $ à la Société d’Épargne Métropolitaine de Montréal, pièce I‑17. L’autre moitié a été empruntée à Diasware. Au début de février 1990, il a reçu un chèque de Glenrock au montant de 8 500 $ qu’il a endossé et renvoyé. Quant à l’institution financière, elle a été remboursée quand il a reçu le retour d’impôt.
+[62] Voici quelques extraits de son témoignage (pages 116, 128-9, 156 et 157 des notes sténographiques) :
+...
+Q. Oui. Et votre participation dans la société, ça a été fait . . .
+R. Comme mentionné tantôt, on a reçu de la documentation; on a reçu des logiciels. Moi, j'avais un ordinateur. Et puis c'était sur des logiciels. C'est ça. Lotus 1 2 3, Microsoft DOS puis. . . C'est-tu Word Perfect dans le temps? Je pense que c'est Word Perfect. J'avais des essais à faire; après ça, donner mes commentaires, des choses comme ça. Des logiciels qu'on essayait à la maison. On recevait de la documentation plus toutes les disquettes, puis on avait à suivre le guide, puis essayer des choses.
+...
+Q. Qu'est-ce qui est intéressant au niveau de ce genre d'investissement-là?
+R. L'abri fiscal.
+Q. L'abri fiscal.
+R. Fiscal. Ça, c'est ... Le but premier, c'était ça, c'est certain. Il n'y a personne qui ... J'avais trois jeunes enfants. Moi, je ne cherchais pas à garocher mon argent par les fenêtres. Le peu que j'avais, j'essayais de le placer dans des choses qui avaient du sens. J'avais des blocs que j'étais convaincu dans le temps, au commencement que c'était un bon investissement. Ça fonctionnait bien. Donc, j'ai décidé d'aller voir ce que, en quoi consistait le projet de recherche et développement. Naturellement, quand j'ai vu que c'était quand même clair, que c'était participatif, puis que c'était cent pour cent déductible, conditionnel à la participation, puis c'était, comme je l'ai mentionné, dans un domaine que je connais très, très bien, donc c'est la raison pour laquelle j'ai décidé d'embarquer. Je ne me souviens pas si c'est la première rencontre ou la deuxième. C'est sûrement pas la première, parce que ce n'est pas mon genre.
+Q. On ne perdait pas d'argent en investissant?
+R. Non.
+...
+R. ... Notre rôle, ce n'était pas de faire l'ingénierie de ça, c'était de faire des essais puis donner nos commentaires.
+...
+Q. Mis à part, bon, ce que vous venez de décrire, répondre aux questionnaires, donner des commentaires, quelle a été votre participation au sein de la société?
+R. Bien, ça. Et puis, je ne sais pas, je ne me souviens pas si on avait eu une réunion au mois de janvier ou février. Je ne crois pas. Je pense que ça a été la seule intervention qu'on avait faire à ce niveau-là.
+Q. D'accord.
+R. Je ne me souviens pas d'avoir reçu d'autres devoirs ou des choses comme ça. Parce que j'ai racheté mes parts au mois de février.
+Q. Février.
+R. Ça fait que...a
+Q. Donc, en résumé, là, au niveau de la société, vous, vous n'avez pas pris de décision en tant que telle au niveau de la gestion ou . . .
+R. Non.
+Q. ... de la recherche dans la société?
+R. Non. C'est une participation au projet de développement. Ce n'est pas moi qui « runnait » la compagnie.
+[63] J'ai mentionné au début de ces motifs, les dispositions législatives en application telles que plaidées par les avocats de l'intimée. Je vais maintenant reproduire des extraits des plaidoiries de chaque appelant :
+M. Lalonde (pages 202-203) :
+... Si on m'avait demandé une participation huit heures par jour cinq jours par semaine, ou douze heures par jour cinq jours par semaine, ça aurait été non, parce que j'étais consultant à cette époque-là. D'ailleurs, mon c.v. en témoigne.
+Alors, j'ai respecté ce qu'on m'avait demandé. Voici la liste des activités qu'on attend de vous; voici ce qu'on demande; voici ce qu'on va exiger; voici les outils qu'on va vous fournir. C'est évident que les outils qu'on nous a fournis, c'était bien spécifié, il s'agissait là de documents de base. Ce n'était pas des documents de recherche sur lesquels ... On ne devait pas d'ailleurs modifier. C'était simplement pour aider. ...
+J'ai été bien surpris par après lorsqu'on a reçu une cotisation : vous n'aviez pas été actif. J'avais rempli tout ce qui était dans le fond du prospectus, tout ce qu'on nous avait demandé, tout ce qu'on nous avait dit qu'on devait faire.
+M. Paquin (pages 208-209-212)
+... Puis tout ce que je peux retenir dans tout ça, c'est les termes qu'on utilise dans la Loi comme une part régulière, continue et importante. C'est jusqu'à quel point une part régulière, continue et importante?
+...
+Je travaille cinq jours par semaine, je donne un petit peu plus de temps à tous les jours. C'est évident que je ne pouvais pas aller chez ECT Systems. ...
+...
+Donc, ce que je me dis, c'est pourquoi, pourquoi le gouvernement a dit qu'on vous offre aux petits investisseurs la chance d'avoir un allégement fiscal en investissant dans ça, qui s'adressait à moi, je travaille; c'était peut-être plutôt à des gens sans emploi s'il fallait donner une participation régulière, continue et importante, tel qu'on en a parlé durant toute cette période-là ici.
+Le terme « associé déterminé ». Est-ce que j'aurais pu demander à un employé de Revenu Canada de m'expliquer qu'est-ce que associé déterminé veut dire? Les réponses, je les ai eues avec la lettre de monsieur Michel Beaudry à Ottawa qui mentionne, qui demande, avant que je cotise les gens, est-ce que vous pouvez m'expliquer. Il y avait déjà un litige à ce sujet-là. Je me dis, en 1989, comment un employé de Revenu Canada aurait pu m'expliquer précisément que voulait dire le terme « associé déterminé ».
+... Donc, Revenu Canada n'a pas fait tout ce qui était en son pouvoir pour me protéger contre des promoteurs avides et non respectueux des lois. Il aurait dû mettre sur pied un processus de révision des différents projets avant même de demander aux investisseurs ou de donner cet allégement fiscal ou cet ... je ne peux pas dire « chose », mais ... de toute façon, cet allégement fiscal.
+Jamais un numéro de projet n'aurait dû être donné au promoteur même si celui-ci était donné à titre administratif. ...
+M. Brillon (page 215)
+... Donc, j'ai participé à ce projet-là en tant que, j'étais d'accord avec ça, mais c'est sur une base volontaire, d'accord, mais j'étais conscient et je croyais réellement à ce projet-là, parce qu'on m'avait dit que le gouvernement acceptait ça, on m'avait montré des coupures de journaux comme quoi que c'était réel.
+... Ça m'était recommandé par mon comptable, mon fiscaliste qui s'occupait de mes affaires depuis x temps. Donc, j'ai cru de bonne foi, je peux vous le dire, j'étais de très bonne foi quand j'ai embarqué dans ça. ...
+M. Hamilton (page 217)
+...
+Nous, en tant que citoyens, on participe de façon démocratique à l'élection puis également, puis à l'établissement d'un gouvernement, dont une des responsabilités est d'assurer à la population que les lois et les règlementations sont mis en place afin de protéger ces mêmes citoyens contre des génies de stratégie ayant comme objectif d'exploiter les faiblesses de système de ce même gouvernement-là.
+Ce même gouvernement-là fait la promotion puis encourage les contribuables à investir dans des projets de développement puis de recherche. Par contre, ne met pas beaucoup d'effort à protéger les citoyens en mettant des gens responsables au stage embryonnaire de ces projets-là au courant de la publicité, puis que les contribuables se font solliciter.
+Dans notre cas ici, au bout de deux ans dix mois, le gouvernement se réveille puis, sept semaines avant la fin de la période normale de la nouvelle cotisation pour nous annoncer que les lois peuvent changer, que l'interprétation n'est plus la même.
+Analyse et conclusion
+[64] Tel que mentionné au début de ces motifs, la question d’où découlent les différents aspects des cotisations pour les années 1989 et 1990, dépend de la notion d’associé déterminé. Les appelants étaient-ils en 1989 des associés déterminés au sens de cette définition au paragraphe 248(1) de la Loi. Je reproduis la définition à nouveau :
+« associé déterminé » S'agissant de l'associé déterminé, au cours d'un exercice ou d'une année d'imposition, selon le cas, d'une société de personnes, tout associé qui :
+b) soit, de façon régulière, continue et importante tout au long de la partie de l'exercice ou de l'année où la société de personnes exploite habituellement son entreprise :
+(i) ne prend pas une part active dans les activités de l'entreprise de la société de personnes, sauf dans celles qui ont trait au financement de l'entreprise de la société de personnes,
+...
+[65] Quelques appelants se sont plaints du fait que le Ministre n’a pas agi pour protéger les petits investisseurs « contre des promoteurs avides et non respectueux des lois ». Quelques‑uns se sont plaints du fait que le Ministre a accordé un numéro d’abri fiscal au projet. Ils sont d’avis que cela induisait en erreur en laissant croire que le projet avait l’accord du Ministre. Un appelant a mentionné que ces abris fiscaux étaient mentionnés dans les journaux et qu’il n’y a pas eu d’avertissement donné par le Ministre en réponse à ces articles faisant la promotion de ce genre d’investissement. N’y-a-t-il pas pour le Ministre un devoir de vigilance? Un autre a mentionné que le Ministre encourageait les projets de RS&DE et que lui en tant que petit investisseur a voulu participer à la recherche tout en recherchant un avantage fiscal.
+[66] C’est un fait historique, que les nouvelles cotisations de nombreux investisseurs dans les projets de RS&DE ont amené de nombreuses plaintes de la part des contribuables. C’est ce qui a amené le Ministre à faire une proposition globale de règlement en 1995. Il s’agit là d’un événement très rare. Je ne veux pas commenter sur les raisons qui ont amené le Ministre à faire cette proposition. Les appelants ne l’ont pas acceptée. Quand je leur ai demandé pourquoi, ils ont répondu que c’était d’après le conseil de leurs conseillers fiscaux.
+[67] Le rôle d'une Cour est d'interpréter la loi telle qu’elle est écrite. Les appelants étaient‑ils des associés déterminés au sens de cette définition au paragraphe 248(1) de la Loi? C’est sur cette base qu’ils ont été cotisés à nouveau et c'est ce sur quoi je dois me prononcer.
+[68] Que veulent dire les mots « prendre une part active dans les activités de l’entreprise » pour un associé et que veulent dire les mots « de façon régulière, continue et importante »? Le législateur exclut de la signification de prendre une part active la participation au financement de l’entreprise de la société.
+[69] Je crois utile de me référer à trois décisions de cette Cour qui ont abordé la notion d'associé déterminé (passif). Dans McKeown c. Canada, [2001] A.C.I. no 236 (QL), le juge en chef Garon s'exprimait ainsi :
+424 Je suis aussi d'avis qu'il est un associé déterminé selon l'élément b) de la définition de l'expression « associé déterminé ». Il est vrai, tel que l'appelant le prétend, qu'un associé n'est pas un associé déterminé parce qu'il ne participe pas lui-même aux activités de recherche scientifique et de développement expérimental particulièrement dans les cas où ces travaux sont confiés à un sous-traitant. L'élément b) de la définition d'un « associé déterminé » indique expressément qu'un individu est un associé déterminé s'il ne prend pas une part active aux activités de la société de personnes. D'après le sous-alinéa b)(i) de cette définition, on peut conclure qu'un individu est un associé déterminé s'il ne fait pas le suivi des travaux de recherche, ne s'informe pas du progrès des travaux et de leur avancement, des problèmes administratifs d'une certaine importance, le cas échéant, qui peuvent se présenter dans la poursuite de cette recherche et ne participe aucunement aux décisions concernant les sujets qui viennent d'être mentionnés. C'est bien le cas de l'appelant dans la présente affaire. La participation de l'appelant aux activités des deux prétendues sociétés n'était que symbolique et artificielle. En outre, l'appelant n'exploitait pas à l'époque pertinente une entreprise qui répond au critère indiqué dans le sous-alinéa b)(ii) de la définition de l'expression « associé déterminé ».
+[70] Le juge Dussault, dans la décision Bastien c. Canada, [2003] A.C.I. no 771 (QL), déclarait ce qui suit :
+28 Alors, quand on dit simplement dans une opinion « une part active dans les activités de la société », on a oublié trois mots importants, ce sont « régulière, continue et importante ». Je ne pense pas que trois réunions dont deux se rapportent plutôt au financement et le fait de répondre à deux questionnaires qui ont d'ailleurs été soumis en preuve, même si on veut y répondre de façon sérieuse en plus de quelques communications téléphoniques sont des éléments suffisants pour remplir les conditions qui sont énoncées dans la définition de « associé déterminé ». Toutefois, je pense que l'on n'a pas besoin d'aller jusque là, comme je l'ai dit tout à l'heure.
+[71] Le juge Archambault dans la décision Maslanka c. Canada, [2004] A.C.I. no 311 (QL), s'exprimait ainsi :
+23 En plus d'être des associés déterminés en raison de leur statut de commanditaires ou assimilés, ils l'étaient du fait qu'ils n'ont pas pris une part active de façon régulière, continue et importante dans les activités d'Incotel. Leur seule participation a consisté à assister à deux réunions où, dans une tentative dérisoire d'établir qu'ils ont pris une telle part active dans les activités d'Incotel, on leur a fait remplir un questionnaire que madame Maslanka n'a même pas été capable de reconnaître. Je n'ai aucune hésitation à conclure, comme l'a fait le juge en chef Garon dans McKeown, au paragraphe 424, que la participation des appelants aux activités de la prétendue société « n'était que symbolique et artificielle ». D'ailleurs, comme les appelants n'avaient pratiquement aucune connaissance des activités d'Incotel, ils ont été incapables d'admettre la presque totalité des faits relatifs à cette prétendue société qu'a tenus pour acquis le ministre dans sa réponse à chacun des avis d'appel.
+[72] La part active dans les activités d’une entreprise doit s’analyser en regard du statut d'associé. Il ne s’agit pas de la participation d’un employé, ni d’un contractuel de quelque nature que ce soit ni non plus de celle d’un bénévole. Il s’agit de la participation d’un associé aux activités de la société dont il est membre.
+[73] Un associé ne peut prendre une part active aux activités de l’entreprise de la société dont il est membre que s’il a un certain rôle à jouer au niveau des décisions de cette société. Dans une entreprise, il y a habituellement une division entre l’administration et les opérations. Un associé peut être cantonné dans l’administration, un autre dans les opérations. Toutefois, ils participent aux décisions et s'en s'informent mutuellement.
+[74] Normalement, l’associé prend une connaissance approfondie de la convention de société avant d'en devenir membre et réfléchit sur le rôle qui lui est dévolu en tant qu’associé. Il accepte spécifiquement son rôle. Ici, les appelants ne connaissaient nullement les documents constitutifs de la société et toute l'action de la société, étape par étape, avait été décidée à l'avance sans aucune consultation ou information aux associés.
+[75] D’ailleurs c’est ainsi que les résolutions qu’ils ont signées étaient rédigées pour eux sans qu’ils aient participé à la prise de décision de ces résolutions.
+[76] Les appelants ont participé au financement. Ce rôle est exclu de par la définition d’associé déterminé. La tâche qui a été demandée à tous et chacun fut de compléter des questionnaires, identiques pour toutes les sociétés du groupe Zuniq. Ils n’ont d’aucune façon participé à cette décision. Quelques appelants ont mis très peu de temps à cette tâche, d’autres plus, d’autres n’avaient pas la formation nécessaire pour l’exécuter. Il ne peut s'agir là d’une prise de part active dans une société.
+[77] Un associé qui n’est qu’un exécutant ne peut pas être considéré comme un associé prenant une part active dans les activités de l’entreprise d’une société dont il est membre.
+[78] Même si en tant qu’exécutant, les appelants pouvaient être considérés comme prenant une part active, il me faudrait aussi déterminer si cette part active a été exercée de façon régulière, continue et importante.
+[79] Elle n’a pas été exercée de façon régulière et continue. Il s’agissait d’une tâche isolée en ce sens que les appelants n’ont eu que cette tâche à accomplir. Elle devait s'accomplir en peu de temps, car chacun des appelants avait son propre travail et avait peu de temps à consacrer à la tâche de compléter un questionnaire.
+[80] En ce qui concerne l'importance de cette tâche, le conseiller scientifique a analysé son rôle et il en est venu à la conclusion qu’elle n’avait aucune importance dans les travaux relatifs au projet de recherche.
+[81] Il me faut donc conclure que de façon régulière, continue et importante tout au long de la partie de l’année où la société a exploité son entreprise, les appelants n’ont pas pris une part active dans les activités de l’entreprise de la société.
+[82] On pourrait même se demander si les appelants étaient des associés au sens du droit sur les sociétés de personnes. Cependant, je peux certainement conclure que s’ils étaient des associés, ils étaient des associés déterminés (passifs). Comme il s'agissait du seul point en litige et que les autres points des cotisations pour les années 1989 et 1990 découlaient de cette notion, je suis d'avis que les appelants ont été cotisés en conformité avec les faits et la Loi.
+[83] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 9e jour de février 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2005CCI76
+Nºs DES DOSSIERS DE LA COUR : 98-3126(IT)I; 98‑3185(IT)I; 98‑3292(IT)I et 2004‑1372(IT)I; 98‑3561(IT)I et 2004‑2937(IT)I et 98‑3595(IT)I
+INTITULÉS DES CAUSES : JEAN-GUY BRILLON, DENIS HAMILTON, MARCEL LALONDE, SERGE PAQUIN, GABRIELLE CLAPIN, EXÉCUTRICE TESTAMENTAIRE DE LA SUCCESSION ROGER CLAPIN c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : les 4 et 5 août 2005 et le 24 novembre 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 9 février 2006
+COMPARUTIONS :
+Pour les appelants :
+les appelants eux-mêmes
+Avocats de l'intimée :
+Me Anne-Marie Boutin
+Me Dany Leduc
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

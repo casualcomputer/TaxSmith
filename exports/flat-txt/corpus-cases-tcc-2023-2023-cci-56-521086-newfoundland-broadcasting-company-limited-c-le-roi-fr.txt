@@ -1,0 +1,131 @@
+Title: Newfoundland Broadcasting Company Limited c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521086/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-56-521086-newfoundland-broadcasting-company-limited-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-05-05
+
+# Newfoundland Broadcasting Company Limited c. Le Roi
+
+- Citation: 2023 CCI 56
+- Decision date: 2023-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5873, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Newfoundland Broadcasting Company Limited c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-05-04
+Référence neutre
+2023 CCI 56
+Numéro de dossier
+2021-1350(IT)G, 2022-3000(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2021-1350(IT)G
+2022-3000(IT)G
+ENTRE :
+NEWFOUNDLAND BROADCASTING COMPANY LIMITED,
+appelante
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ORDONNANCE
+Conformément aux motifs ci-joints :
+les deux appels mentionnés ci-dessus sont réunis;
+les parties déposeront un nouvel échéancier auprès de la Cour.
+Les dépens suivront l’issue de l’affaire.
+Signé à Toronto (Ontario), ce 4e jour de mai 2023.
+« G. Jorré »
+Le juge suppléant Jorré
+Traduction certifiée conforme
+ce 15e jour de novembre 2023
+Karyne St-Onge
+Référence : 2023 CCI 56
+Date : 20230504
+Dossiers : 2021-1350(IT)G
+2022-3000(IT)G
+ENTRE :
+NEWFOUNDLAND BROADCASTING COMPANY LIMITED,
+appelante
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Jorré
+I. INTRODUCTION [1] L’appelante a déposé une requête en réunion des deux appels mentionnés ci‑dessus en application de l’article 26 des Règles de la Cour canadienne de l’impôt (procédure générale). À titre subsidiaire, elle sollicite une ordonnance pour que les instances soient instruites selon le même échéancier et soient entendues sur preuve commune.
+[2] L’intimé s’oppose à la requête en réunion, mais convient que les deux instances devraient être instruites selon le même échéancier.
+II. DROIT Article 26
+[3] L’article 26 des Règles est libellé ainsi :
+26 Si, dans le cas où la Cour est saisie de plusieurs instances, il appert :
+a) qu’elles ont en commun une question de droit, une question de fait ou une question de droit et de fait, tenant à une même transaction ou à un même événement, ou à une même série de transactions ou d’événements;
+b) que pour toute autre raison, il y a lieu de rendre une directive en application du présent article,
+la Cour peut ordonner :
+c) la réunion de ces instances ou leur instruction simultanée ou consécutive;
+d) l’ajournement de l’une d’entre elles en attendant l’issue de n’importe quelle autre.
+Effet de la réunion
+[4] La réunion des instances a pour effet de fusionner les appels du point de vue de la procédure. Les appels réunis se dérouleront comme s’il s’agissait d’un appel unique pour ce qui est de toutes les étapes de la procédure d’appel.
+[5] Cependant, les appels ne sont pas réunis sur le fond. Chaque appel d’une cotisation demeure un appel distinct en ce qui concerne le bien-fondé de cette cotisation.
+[6] Le juge Webb de la Cour d’appel fédérale explique clairement en quoi consiste la réunion d’instances dans l’arrêt 3488063 Canada Inc. c. Canada[1], où il fait les observations suivantes :
+[52] Toutefois, les Règles peuvent avoir pour effet de réunir ou de fusionner les appels pour ce qui est des étapes procédurales qui seront applicables à tous les appels qui font l’objet d’une ordonnance portant réunion d’instances. Par conséquent, les appels qui sont réunis se dérouleront comme s’il s’agissait d’un seul et unique appel aux fins de l’application des Règles et chaque étape procédurale en vertu des Règles s’appliquera également à chaque appel qui fait partie de l’instance réunie, de sorte qu’une liste de documents s’appliquera, par exemple, à l’ensemble de ces appels.
+[53] Cependant, les cotisations sous-jacentes ne sont pas réunies. Par conséquent, chaque appel interjeté à l’encontre d’une cotisation particulière, ou nouvelle cotisation, demeure également un appel distinct en ce qui concerne le bien-fondé de la cotisation, ou de la nouvelle cotisation, bien que les étapes procédurales, comme le prévoient les Règles, s’appliquent simultanément à tous les appels qui sont réunis.
+Objet de la réunion des instances
+[7] L’ordonnance de réunion des instances vise à éviter la multiplication des instances et à favoriser un règlement rapide et peu coûteux de ces instances[2].
+Conditions pour envisager la réunion d’instances et facteurs à considérer
+[8] Les conditions préalables à l’examen d’une ordonnance au titre de l’article 26 des Règles sont relativement modestes. Il doit y avoir, selon le cas (aux termes de l’alinéa 26a) des Règles) :
+une question commune de fait;
+une question commune de fait ou de droit;
+une question commune de fait et de droit;
+ou (aux termes de l’alinéa 26b) :
+une autre raison pour laquelle il y a lieu de rendre une directive.
+[9] Si au moins une des conditions est remplie, la Cour décidera si une ordonnance doit être rendue ou non, conformément à l’article 26 des Règles.
+[10] Dans l’arrêt Apotex Inc. c. Bayer Inc.[3], le juge Nadon de la Cour d’appel fédérale donne les explications suivantes :
+[46] Pour décider s’il faut rendre une ordonnance aux termes de [l’article] 105 [l’article des Règles de la Cour fédérale concernant la réunion des instances], la Cour doit tenir compte de plusieurs facteurs, à savoir la similitude des parties, des questions en litige, des faits et des redressements. La Cour doit également décider si l’ordonnance causera un préjudice […] Dans plusieurs décisions, la Cour fédérale a conclu qu’on ne peut ordonner la réunion d’instances lorsque cela causerait un préjudice. Il est également bien établi que c’est à l’auteur de la requête qu’il incombe de démontrer que l’ordonnance demandée ne serait pas abusive et ne causerait pas de préjudice […] Il est donc manifeste que, même si le préjudice n’est pas le seul facteur dont il faut tenir compte aux termes de [l’article] 105, il a un poids considérable. À cela j’ajouterais que la nature et la gravité du préjudice sont évidemment pertinentes.
+[47] À mon avis, les principes susmentionnés ne s’appliquent pas uniquement aux ordonnances de réunion, mais également aux autres ordonnances rendues en application de [l’article] 105, comme celle en l’espèce qui prévoit que deux ou plusieurs instances feront l’objet d’une audience commune à l’égard de toutes les questions ou des questions communes uniquement. Je ne vois aucune raison de faire la distinction entre les ordonnances de réunion et les ordonnances comme celle contestée à cet égard.
+[Renvois omis.]
+[11] Les facteurs pertinents et le poids à leur accorder peuvent varier selon les circonstances.
+III. ANALYSE [12] Dans les présents appels :
+Les parties sont les mêmes et les avocats sont les mêmes.
+Les questions à trancher sont différentes. Dans un appel, il est question de la déductibilité de certaines dépenses, tandis que dans l’autre, il s’agit de déterminer si la retenue d’impôt était exigible et si les pénalités connexes ont été imposées comme il se doit. Les redressements, s’il y a lieu, concerneront différents types de cotisations.
+Il y aura probablement un chevauchement considérable des témoignages et des éléments de preuve documentaire, étant donné que, selon les allégations contenues dans les actes de procédure, il semble que, concernant deux des années en cause, la majorité des dépenses contestées sont également visées dans le litige entourant la retenue sur les paiements correspondants. Une grande partie des renseignements généraux seront communs aux deux appels.
+[13] L’alinéa 26b) des Règles est fondé sur une disjonction. Il n’est pas obligatoire que la totalité, que la plupart ou même qu’une seule des questions soient communes aux appels visés par la requête en réunion. En effet, au titre de l’alinéa 26b) des Règles, le chevauchement important des éléments de preuve peut à lui seul suffire à justifier la réunion des instances dans les circonstances, alors que les avantages l’emportent de façon évidente sur les inconvénients.
+[14] Compte tenu de l’identité des parties et du chevauchement des éléments de preuve, il sera efficace d’instruire les appels en tant qu’instance unique pour ce qui est de toutes les étapes de la procédure. La réunion des instances n’augmenterait pas de façon significative la complexité des étapes préalables à l’appel ou de l’audience. De plus, la réunion des instances ne causerait aucun préjudice à l’intimé.
+[15] Il est justifié en l’espèce de réunir les instances.
+IV. CONCLUSION [16] Par conséquent, les appels seront réunis et les parties déposeront un nouvel échéancier pour les deux appels.
+[17] Les dépens suivront l’issue de l’affaire.
+Signé à Toronto (Ontario), ce 4e jour de mai 2023.
+« G. Jorré »
+Le juge suppléant Jorré
+RÉFÉRENCE :
+2023 CCI 56
+NO DU DOSSIER DE LA COUR :
+2021-1350(IT)G 2022-3000(IT)G
+INTITULÉ :
+NEWFOUNDLAND BROADCASTING COMPANY LIMITED c. SA MAJESTÉ LE ROI
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge suppléant Gaston Jorré
+DATE DE L’ORDONNANCE :
+Le 4 mai 2023
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Brian Awad
+Cabinet :
+McInnes Cooper
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] 2016 CAF 233 (CanLII), par. 49 à 53.
+[2] Apotex Inc. c. Bayer Inc., 2020 CAF 86 (CanLII), par. 45.
+[3] 2020 CAF 86 (CanLII), par 46.

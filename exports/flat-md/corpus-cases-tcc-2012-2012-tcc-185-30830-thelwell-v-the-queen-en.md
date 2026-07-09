@@ -1,0 +1,152 @@
+---
+title: "Thelwell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30830/index.do"
+last_modified: "2012-06-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 185"
+citation2: ""
+neutral_citation: "2012 TCC 185"
+decision_date: "2012-06-07"
+language: "en"
+item_id: "30830"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7389
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:22:15.813000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c819ba2d3627f80de3c1eb23943a2fb49efeacbe72dbe9ba27e54d8c215526cc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Thelwell v. The Queen
+
+- Citation: 2012 TCC 185
+- Decision date: 2012-06-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7389, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thelwell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-06-07
+Neutral citation
+2012 TCC 185
+File numbers
+2011-3158(GST)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011‑3158(GST)I
+BETWEEN:
+JUNIOR GEORGE THELWELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Tina Thelwell (2011‑3159(GST)I), on April 12, 2012, at London, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the Appellant:
+Peter Tindall
+Counsel for the Respondent:
+Paul Klippenstein
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated August 19, 2009, for the period from January 1, 2008 to December 31, 2008, is dismissed, except as regards the additional input tax credits in the amount of $578.17 conceded by the Crown at the opening of the hearing, in accordance with the reasons for judgment attached hereto.
+Signed at Toronto, Ontario, this 7th day of June 2012.
+"Patrick Boyle"
+Boyle J.
+Docket: 2011‑3159(GST)I
+BETWEEN:
+TINA THELWELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Junior George Thelwell (2011‑3158(GST)I), on April 12, 2012, at London, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the Appellant:
+Peter Tindall
+Counsel for the Respondent:
+Paul Klippenstein
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated August 6, 2010, for the period from January 1, 2008 to December 31, 2008, is dismissed in accordance with the reasons for judgment attached hereto.
+Signed at Toronto, Ontario, this 7th day of June 2012.
+"Patrick Boyle"
+Boyle J.
+Citation: 2012 TCC 185
+Date: 20120607
+Dockets: 2011‑3158(GST)I
+2011‑3159(GST)I
+BETWEEN:
+JUNIOR GEORGE THELWELL,
+TINA THELWELL,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] Mr. Junior Thelwell operated a small courier business under the name Discount Courier Services. His deliveries were in the local Southern and Southwestern Ontario areas. By 2008 his reported revenues from his business were slightly in excess of $100,000 and he was subcontracting customer work that he was unable to handle to the extent of approximately $5,000.
+[2] His wife, Mrs. Tina Thelwell, worked in the business doing contract management, clerical and administrative services, including receiving customer dispatch orders, maintaining logs for the vehicles and for the orders, and generally keeping the business’ books and records.
+[3] In 2007, the Thelwells started using a new tax return preparer, Mr. Rudolfo Terracina. Rudolfo (Rudy) Terracina operated a tax preparation and advisory business under the name “Doctor Tax”. Based upon the evidence in this case, including the testimony and records of the Thelwells and the testimony of Mr. Terracina, it appears that the term “Doctor” was being used as a verb and not as a title. Unbeknownst to the Thelwells, Mr. Terracina had previously pleaded guilty to tax evasion under the Income Tax Act and the Excise Tax Act and was sentenced to three years in federal prison for tax evasion involving his fraudulent preparation of tax returns for other clients. He was convicted for having manufactured expenses to be claimed in his clients’ returns. In the case before me, he appears to have returned to his old ways. Perhaps unfortunately for the Thelwells, just because one holds oneself out as a tax professional does not make it so.
+[4] In this case, the Thelwells’ 2008 income tax returns were put into evidence. They were prepared and completed by Mr. Terracina. The amounts claimed are unable to be explained by either of the Thelwells or Mr. Terracina. Junior Thelwell, believably, said that was not his area of responsibility, but was contracted to his wife and she used Mr. Terracina, so explanations should be forthcoming from them. Tina Thelwell said that the numbers were assembled and prepared by Mr. Terracina, so questions about them should be directed to him. In his testimony, Mr. Terracina pointed back to Tina Thelwell as the person who provided him all of the information which he said he did not audit. Based upon his answers to the questions asked of him, it appears it did not enter his mind to see if the amounts claimed even passed a preliminary reasonableness or smell test.
+[5] Fortunately, I do not have the Thelwells’ 2008 income tax matters before me. Their appeals only involve their GST input tax credit (“ITC”) claims in respect of expenses related to the business of Discount Courier Services, and in Tina Thelwell’s case, the GST payable in respect of improvements made to a home they since sold, as well as the GST payable upon a new home they purchased, along with the GST paid in respect of the acquisition costs of two vehicles she acquired but made available to her husband’s Discount Courier Services business.
+[6] Compounding the tax predicament that the Thelwells found themselves in by following Mr. Terracina’s advice and recommended reporting, they chose one of Mr. Terracina’s sometime business associate or colleague, Mr. Peter Tindall, to represent them in their informal GST appeals. Mr. Tindall holds himself out to the public as capable of representing taxpayers in informal appeals as their agent. Unfortunately, Mr. Tindall did not seem to be aware of the fact that the onus is on the taxpayers to demonstrate their entitlement to the tax relief sought, did not anticipate the need for, or value of, any supporting documentary evidence relating to any aspect of the business, not even so much as a breakdown of how the expenses were accrued, much less actual backup for the expenditures in general ledger‑type document or having actual purchase receipts for the expenses. Mr. Tindall led no evidence whatsoever relating to either the improvements to the old house or anything else about the old house, or to the purchase of the new house. Mr. Tindall does not have any legal or paralegal training, experience or status. His previous employment was in an unrelated area.
+[7] Canadians are free to choose whomever they wish to represent them in informal tax appeals, and the right to choose includes the right to make poor choices. Unfortunately for the Thelwells, apparently as a result of their choice, there has been entirely insufficient evidence to allow me to conclude on a balance of probabilities that the underlying expenses in respect of which they have claimed ITCs were even incurred, much less related to the business. No documents or evidence was put forward in support of a claim that the GST in respect of their home expenses should result in any ITC or otherwise be refundable, nor were any arguments made or evidence put in relating to the very vague Charter of Rights and Freedoms (“Charter”) claim advanced by Mr. Tindall in the notices of appeal. As explained to Mr. Tindall at the opening of the hearing, this Court is entirely without jurisdiction to hear the claim he advanced alleging harassment and abuse by the Canada Revenue Agency (“CRA”) in the course of the audit and his claim for the taxpayers’ costs of complying with the audit. Having not put in sufficient evidence to discharge the burden of proof on his clients, and not having advanced any evidence or arguments in support of his Charter claim or his ITC claim in respect of the homes, the appeals must be dismissed, subject only to the $578.17 concession made by the Crown at the opening of the hearing in respect of Junior Thelwell’s appeal.
+[8] I have no reason not to believe the Thelwells that Junior Thelwell operated the Discount Courier Services business, that the two vehicles acquired by Tina Thelwell were acquired to be used primarily in the courier business, but were acquired by her because she had a more favourable credit rating than her husband, or that Tina Thelwell did real work for her husband’s Discount Courier Services business. That evidence, however, comes nowhere close to the evidence needed to establish the entitlement to the amount of ITCs claimed by the Thelwells and denied by the CRA.
+[9] It appears that the Thelwells were not entirely blameless for their current situation. First, they chose their tax return preparer, chose to follow his advice and chose to sign the returns he prepared even though, as explained by Mr. Terracina, the business expenses seemed to balloon in 2008 and they remained unable to explain how that could have happened or what those claims were made up of.
+[10] Secondly, they chose Mr. Tindall to represent them in this matter, upon the recommendation, or at least with the support, of Mr. Terracina.
+[11] I am also unable to accept Tina Thelwell’s evidence that the two subleases she entered into with her husband’s business were prepared in 2003 and 2008 as she said they were. It is perhaps odd that they both read identically in the circumstances. She acknowledged that they were only printed off the computer and signed recently but testified that they existed and she had the electronic formats since 2003 and 2008. They both refer to the sublease being to Discount Courier Services Inc. a corporation that was not incorporated until some time in 2007 at the recommendation of Mr. Terracina. I am entirely unable to reconcile the use of a corporate name in 2003 if the corporation was not incorporated until 2007.
+[12] I should also note that the explanations given by the three witnesses were in large measure inconsistent and irreconcilable. No one could explain the amounts of the expenses and resulting loss claimed by Tina Thelwell in her Statement of Professional Activities from the management services she provided to her husband’s business. No one could explain why her subleasing revenue for the cars did not seem to be reported in that statement or why, if, as Mr. Terracina suggested, another Statement of Business Activities schedule must have been prepared by him for the leasing revenue and expenses, that amount would not have been incorporated on the income page of the return in any event. The parties could not agree on the role, if any, played by the new Discount Courier Services Inc. in 2008 in respect of Junior Thelwell’s Discount Courier Services sole proprietorship business, even though a $24,000 management fee was paid to it according to the testimony of, and return prepared by, Mr. Terracina. No one could explain why the office supplies and office expenses claimed in respect of Junior Thelwell’s courier business and Tina Thelwell’s management services business exceeded $20,000. No one could explain what type of travel expenses amounting to in excess of $5,000 were incurred on accommodation and meals by Junior Thelwell in respect of his same‑day local courier delivery business.
+[13] These are just some of the examples of why I am unable to accept any of the amounts claimed as either having been incurred or reasonable if incurred. Therefore I cannot accept that the evidence establishes that the underlying expenses for which the Thelwells have claimed ITCs in these appeals were incurred or related to any business or commercial activity. In these circumstances, I am simply unable to accept the testimony of any of the three witnesses unless it is corroborated with credible, contemporaneous, satisfactory backup documentation which, as regards the matters in dispute, it was not.
+[14] For these reasons, the appeal of Tina Thelwell is dismissed and the appeal of Junior Thelwell is dismissed, except as regards the $578.17 concession made by the Crown at the opening of the hearing.
+Signed at Toronto, Ontario, this 7th day of June 2012.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2012 TCC 185
+COURT FILE NOS.: 2011‑3158(GST)I, 2011‑3159(GST)I
+STYLE OF CAUSE: JUNIOR GEORGE THELWELL AND HMQ AND TINA THELWELL AND HMQ
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: April 12, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: June 7, 2012
+APPEARANCES:
+Agent for the Appellants:
+Peter Tindall
+Counsel for the Respondent:
+Paul Klippenstein
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

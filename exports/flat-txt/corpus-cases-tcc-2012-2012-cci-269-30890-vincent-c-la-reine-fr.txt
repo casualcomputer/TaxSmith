@@ -1,0 +1,131 @@
+Title: Vincent c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30890/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-269-30890-vincent-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-07-24
+
+# Vincent c. La Reine
+
+- Citation: 2012 CCI 269
+- Decision date: 2012-07-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7449, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vincent c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-07-24
+Référence neutre
+2012 CCI 269
+Numéro de dossier
+2011-3395(GST)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-3395(GST)I
+ENTRE :
+WALTER VINCENT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 22 juin 2012 à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Christian Cheong
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté par l’appelant relativement aux nouvelles cotisations établies en vertu de la Loi sur la taxe d’accise pour les quinze périodes de déclaration trimestrielles commençant le 1er juillet 2006 et se terminant le 31 mars 2010 est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 24e jour de juillet 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 18e jour de septembre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2012 CCI 269
+Date : 20120724
+Dossier : 2011-3395(GST)I
+ENTRE :
+WALTER VINCENT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] En l’espèce, la Cour est appelée à trancher la question de savoir si, en vertu de la Loi sur la taxe d’accise (la « LTA »), l’appelant a droit à des crédits de taxe sur les intrants supérieurs aux montants autorisés par l’Agence du revenu du Canada (l’ « ARC »). L’appelant exploitait une entreprise immobilière. Dans ses déclarations produites en vertu de la LTA pour les quinze périodes de déclaration trimestrielles commençant le 1er juillet 2006 et se terminant le 31 mars 2010, l’appelant n’a inclus aucune taxe percevable et il a demandé des crédits de taxe sur les intrants d’un montant total de 18 247,93 $. Au terme d’une vérification effectuée par l’ARC, aucune modification n’a été apportée au montant de la taxe percevable par l’appelant, mais ses crédits de taxe sur les intrants ont été réduits de 8 793,42 $ pour être ramenés à un total de 9 454,51 $.
+[2] L’appelant avait un bien à Saint John, au Nouveau‑Brunswick. Les problèmes qu’il avait eus avec la Ville de Saint John l’avaient empêché d’exploiter le bien. Chaque année, l’appelant effectuait des voyages de l’Ontario vers le Nouveau‑Brunswick. Ce n’est qu’en 2005 ou en 2006 que l’appelant a appris qu’il pouvait demander des crédits de taxe sur les intrants à l’égard de la taxe sur les produits et services (la « TPS ») et de la taxe de vente harmonisée (la « TVH ») qu’il avait payée relativement à son entreprise. Dans sa déclaration de revenus en application de la LTA pour les périodes de déclaration en question, l’appelant a estimé le montant de TPS/TVH qu’il avait payé dans les années antérieures à la production de ces déclarations.
+[3] L’extrait suivant provient du témoignage de l’appelant :
+[traduction]
+LE JUGE WEBB : Pourquoi estimez‑vous que vous aviez droit à 1 391 $ pour les taxes de vente à l’égard de la période se terminant le 31 mars 2007?
+LE TÉMOIN : J’ai essayé de mieux le répartir. Certains paiements de taxe sur les produits et services (la « TPS »), ou quels qu’ils aient été, s’élèvent à 300 $. C’était disproportionné. En d’autres mots, si je considérais toutes mes dépenses là‑bas quel est le pourcentage de TPS?
+[…]
+LE JUGE WEBB : Vous avez toutefois déduit 1 391 $. Avez-vous une quelconque preuve de la manière dont vous avez calculé ce montant?
+LE TÉMOIN : Je n’ai presque aucune facture.
+LE JUGE WEBB : Avez-vous quoi que ce soit pour montrer comment vous êtes parvenu à ce montant?
+LE TÉMOIN : Simplement des arriérés de taxes, des arriérés de taxes que je n’ai jamais déduits auparavant.
+LE JUGE WEBB : Est‑ce que vous avez une preuve pour justifier comment vous êtes parvenu à ce montant? Vous avez déduit 1 391 $ pour la période se terminant le 31 mars 2007.
+LE TÉMOIN : Oui.
+LE JUGE WEBB : Avez‑vous une preuve pour justifier comment vous avez calculé le montant de 1 391 $?
+LE TÉMOIN : Ça serait quelque chose comme – je peux retourner en arrière et essayer de le calculer. Je n’avais rien de précis – je ne crois pas qu’il y ait quelque preuve que ce soit qui le mentionne. Quelles taxes – ce que j’ai demandé? Est‑ce que c’était toujours 1 300 $?
+LE JUGE WEBB : Non, il y avait des variations.
+LE TÉMOIN : J’ai essayé de les varier. J’ai essayé de les varier afin qu’ils ne soient pas tous les mêmes. Parfois, certaines de mes dépenses étaient plus élevées que d’autres et se situaient entre 2 000 $ et 2 500 $ pour les deux semaines où j’étais là‑bas. J’ai essayé de les varier pour qu’ils ne soient pas tous les mêmes. C’est tout ce que je sais.
+LE JUGE WEBB : Lorsque nous analysons les dernières années, pour 2008, pour 2009 et pour 2010, des rajustements importants ont été effectués. Avez-vous quoi que ce soit pour justifier comment vous êtes arrivé à ces chiffres pour ces années-là?
+LE TÉMOIN : Je n’ai rien. J’éprouve des difficultés pour tout ce que j’essaie de faire à cause de ma vue. J’ai des difficultés. En septembre 2006, je n’ai rien demandé et j’ai par la suite demandé 1 991 $ le 31 mars. En juin, ce montant est tombé à 801 $ et en septembre, j’ai demandé 471 $. J’ai essayé de les varier. Il est certain que je ne pouvais pas aller jusque-là pour 471 $.
+[…]
+LE TÉMOIN : C’est tout. J’ai fait une estimation à cause du fait qu’il y a des années antérieures pour lesquelles je n’avais pas demandé de TPS.
+LE JUGE WEBB : Lorsque vous dites qu’il ne s’agissait que d’une estimation, est‑ce que cela concernerait toutes les années en question?
+LE TÉMOIN : Oui. Je n’ai fait qu’une estimation pour les années que j’ai manquées lorsque je ne savais même pas que je pouvais déclarer ces dépenses. Je ne le savais pas. Il y a bien des choses que je ne savais pas.
+[4] Après le témoignage de la vérificatrice de l’ARC qui a expliqué les rajustements qui avaient été faits aux crédits de taxe sur les intrants que l’appelant avait demandés, l’échange suivant a eu lieu relativement au contre‑interrogatoire projeté de la vérificatrice par l’appelant :
+[traduction]
+M. VINCENT : La question qui m’intéresse est de savoir si je pouvais utiliser l’argent provenant de mon – comment l’appelle‑t‑on? Ce sont les dollars qui apparaissent dans mon compte, qui sont censés être de l’argent que j’avais dans mon compte, les pertes que j’ai subies. C’est de l’argent que j’ai payé.
+LE JUGE WEBB :La seule question qui se pose maintenant concerne la TPS et les montants que vous avez déduits à l’égard de la TPS que vous avez payée. Ma seule question est de savoir si la cotisation ou la nouvelle cotisation est correcte.
+M. VINCENT : La nouvelle cotisation? La cotisation qu’elle a établie?
+LE JUGE WEBB : C’est la nouvelle cotisation établie par l’Agence du revenu du Canada à votre égard, qui a réduit le montant des crédits de taxe sur les intrants et le montant que vous avez payé au titre de la TPS.
+M. VINCENT : La cotisation qu’elle a établie est correcte en ce qui concerne les taxes que je dois. J’essaie de vous dire que j’ai essayé de –
+LE JUGE WEBB : Vous dites qu’elle a raison selon la Loi sur la taxe d’accise?
+M. VINCENT : Elle a raison en ce sens qu’elle n’a pas le choix. Elle doit dire ce qu’elle peut voir. Ce qu’elle voit, c’est qu’il y a des taxes élevées qui devraient être payées selon les documents en sa possession. Je dis que je n’ai rien pour démontrer que ces documents représentent quoi que ce soit d’autre. Elle a raison. Elle a obtenu certains chiffres qui sont corrects dans ses documents, lesquels je ne peux d’aucune manière contester. Je n’avais aucun moyen de contester le nombre de documents qu’elle a trouvés et les dollars que j’ai perdus ou que j’ai volés ou quelle que soit la manière dont vous voulez les qualifier. Je dis simplement que je ne savais pas si je pouvais utiliser l’argent que j’avais perdu dans mon entreprise au fil des ans.
+[5] L’appelant soulève la question de savoir s’il pouvait utiliser ses pertes autres qu’en capital au titre de la Loi de l’impôt sur le revenu (la « LIR ») pour réduire sa dette fiscale au titre de la LTA. Il s’agit de deux lois différentes. La LIR est applicable pour établir la dette fiscale de l’appelant en fonction de son revenu et la LTA est applicable pour établir la dette fiscale de l’appelant concernant la taxe nette (ou le montant de son remboursement) compte tenu de la TPS/TVH percevable (ou perçue) et la TPS/TVH payable (ou payée) dans l’exercice de ses activités commerciales. Les pertes autres qu’en capital subies par l’appelant en ce qui concerne la LIR ne sont pas pertinentes dans le calcul de sa dette fiscale en vertu de la LTA.
+[6] Étant donné que l’appelant a estimé la TPS/TVH qu’il avait payée dans les années antérieures (et incluse dans ses déclarations de revenus pour les périodes visées par l’appel) et qu’il ne dispose d’aucun élément de preuve à l’appui des montants qu’il a déduits (et qu’il a en fait reconnu que la vérificatrice de l’ARC avait raison), rien ne justifie que le montant des crédits de taxe sur les intrants accordé par l’ARC soit modifié. Étant donné que l’appelant n’est pas une personne déterminée au sens de la définition de cette expression au paragraphe 225(4.1) de la LTA, il avait bel et bien quatre ans pour demander ses crédits de taxe sur les intrants[1]. Toutefois, l’appelant devrait produire bien plus qu’une estimation non corroborée de la taxe payée (ou payable) dans les quatre années antérieures.
+[7] En conséquence, l’appel interjeté par l’appelant relativement aux nouvelles cotisations établies en vertu de la LTA pour les quinze périodes de déclaration trimestrielles commençant le 1er juillet 2006 et se terminant le 31 mars 2010 est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 24e jour de juillet 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 18e jour de septembre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2012 CCI 269
+No DU DOSSIER DE LA COUR : 2011-3395(GST)I
+INTITULÉ : WALTER VINCENT c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 22 juin 2012
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 24 juillet 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Christian Cheong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le paragraphe 225(4) de la Loi sur la taxe d’accise.

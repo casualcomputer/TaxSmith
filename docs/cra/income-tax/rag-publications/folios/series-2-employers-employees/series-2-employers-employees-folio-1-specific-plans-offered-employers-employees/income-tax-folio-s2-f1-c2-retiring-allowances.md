@@ -1,0 +1,318 @@
+---
+title: "Income Tax Folio S2-F1-C2, Retiring Allowances"
+source: https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-2-employers-employees/series-2-employers-employees-folio-1-specific-plans-offered-employers-employees/income-tax-folio-s2-f1-c2-retiring-allowances.html
+last_modified: 2017-02-08
+---
+# Income Tax Folio S2-F1-C2, Retiring Allowances
+
+**Series 2: Employers and Employees**
+
+**Folio 1: Specific Plans Offered by Employers to Employees**
+
+**Chapter 2: Retiring Allowances**
+
+## Summary
+
+This Chapter discusses the taxation of retiring allowances. A **retiring allowance** is an amount received on or after the retirement of an employee in recognition of long service or in respect of a loss of employment. A retiring allowance is included in income in the year it is received.
+
+Individuals with years of service **before 1996** can defer tax on the eligible portion of a retiring allowance by transferring it to their registered retirement savings plan (RRSP). The transfer has no impact on the individual’s regular RRSP deduction limit.
+
+The Canada Revenue Agency (CRA) issues income tax folios to provide technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, folios are used primarily by tax specialists and other individuals who have an interest in tax matters. While the comments in a particular paragraph in a folio may relate to provisions of the law in force at the time they were made, such comments are not a substitute for the law. The reader should, therefore, consider such comments in light of the relevant provisions of the law in force for the particular tax year being considered.
+
+## Table of contents
+
+- [Discussion and interpretation](#toc0)
+
+    - [Terms used in this Chapter](#toc1)
+
+    - [Payments on termination of employment](#toc2)
+
+    - [Definition of retiring allowance](#toc3)
+
+    - [Meaning of retirement and loss of employment](#toc4)
+
+          - [Retirement](#toc5)
+
+          - [Loss of employment](#toc6)
+
+          - [Timing](#toc7)
+
+          - [Exceptions](#toc8)
+
+    - [Types of receipts](#toc9)
+
+          - [Damages](#toc10)
+
+          - [Dual nature receipts](#toc11)
+
+          - [Unused sick leave](#toc12)
+
+          - [Payment in lieu of severance](#toc13)
+
+          - [Non-qualifying receipts](#toc14)
+
+    - [Tax implications to recipient](#toc15)
+
+          - [Income inclusion](#toc16)
+
+          - [Instalment payments](#toc17)
+
+          - [Payments after death](#toc18)
+
+          - [Transfer to an RRSP](#toc19)
+
+          - [Legal expenses](#toc20)
+
+    - [Reporting, remitting and withholding requirements](#toc21)
+
+- [Application](#toc22)
+
+- [Reference](#toc23)
+
+- [History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-2-employers-employees/series-2-employers-employees-folio-1-specific-plans-offered-employers-employees/income-tax-folio-s2-f1-c2-retiring-allowances/chapter-history-s2-f1-c2-retiring-allowances.html)
+
+## Discussion and interpretation
+
+### Terms used in this Chapter
+
+**2.1** Throughout this Chapter, the following terms have the meanings indicated below:
+
+- A reference to an **RRSP**includes an individual’s account under a **specified pension plan** (SPP) or a **pooled registered pension plan** (PRPP).
+
+- A reference to **employment**includes an **office**and a reference to **employee**includes an **officer**.
+
+- A reference to **affiliate**includes any related or associated corporation, or any corporation that is a member of a group of corporations that do not deal at arm’s length. Sections 251 and 256 set out the meaning of the terms related, associated and dealing at arm’s length. See [Income Tax Folio S1-F5-C1, Related Persons and Dealing at Arm’s Length](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html) for more information. An **affiliate**does not include a person who would not otherwise be considered related or affiliated but for the extended meaning of **person related to the employer** in subparagraphs 60(j.1)(iv) and (v) (see ¶[2.31(b)](#p2_31))
+
+### Payments on termination of employment
+
+**2.2** An amount received by an individual arising out of or in consequence of the termination of their employment may be considered income from employment under section 5 or 6 (see Income [Tax Folio S2-F3-C1, Payments from Employer to Employee](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-2-employers-employees/series-2-employers-employees-folio-3-employment-benefits/income-tax-folio-s2-f3-c1-payments-employer-employee.html)) or a retiring allowance under subparagraph 56(1)(a)(ii).
+
+### Definition of retiring allowance
+
+**2.3** A **retiring allowance** is defined in subsection 248(1) as an amount received by an individual:
+
+- on or after retirement of the individual from employment in recognition of the individual’s long service; or
+
+- in respect of loss of employment of the individual, whether or not received as, on account of or in lieu of payment of, damages or pursuant to an order or judgment of a competent tribunal.
+
+In addition, if an individual dies before receiving all of a retiring allowance to which they were entitled, any remaining amount received by their dependant, relation or legal representative may retain its character as a retiring allowance in certain circumstances (see ¶[2.27](#p2_27)).
+
+**2.4** The fact that the payment of an amount that otherwise qualifies as a retiring allowance does not originate with the particular individual’s employer will not, in and of itself, disqualify the amount from being considered a retiring allowance. For example, a government agency or union may make payments to former employees of an insolvent employer as compensation for loss of employment. However, such a payment would not qualify for the RRSP transfer discussed in ¶[2.29](#p2_29) to 2.31.
+
+### Meaning of retirement and loss of employment
+
+**2.5** The CRA considers the termination of employment for any reason as being retirement or loss of employment for the purpose of determining whether an amount qualifies as a retiring allowance. Exceptions to this are discussed in ¶[2.11](#p2_11) to 2.13.
+
+#### Retirement
+
+**2.6** A retiring allowance includes an amount received on or after **retirement** in recognition of long service. The term **long service** is usually considered to refer to the total number of years in an employee’s career with a particular employer or affiliated employers.
+
+**2.7** Whether an individual has retired is a question of fact. The fact that an individual continues to participate in a health or dental plan of a former employer would not, on its own, indicate that the individual has not retired as it is relatively common for such plans to provide coverage to retirees. However, if the individual continues to accrue pension benefits, this would indicate a continued employment relationship as pension benefits only accrue to employees. The fact that an employer does not require an individual to report to work is not determinative of whether the individual has retired. For example, an individual who has been given a leave of absence for educational purposes is still an employee.
+
+#### Loss of employment
+
+**2.8** A retiring allowance includes an amount received in respect of a loss of employment of an individual. In this context, the words **in respect of** have been held by the courts to imply a connection between the loss of employment and the subsequent receipt, where the primary purpose of the payment is to compensate for the loss of employment. Two questions set out by the courts to determine whether such a connection exists for purposes of a retiring allowance are as follows:
+
+**Question 1** – But for the loss of employment would the amount have been received?
+
+and
+
+**Question 2** – Was the purpose of the payment to compensate a loss of employment?
+
+Only if the answer to the first question is **no**and the answer to the second question is **yes**, will the amount received be considered a retiring allowance.
+
+**2.9** A loss of employment usually involves the elimination or expiration of particular employment. For example, a job or position might be abolished for economic reasons or as a consequence of the employer exiting a particular business. A loss of employment may also refer to the loss of an income source of an employee who is released from employment whether unilaterally or not. Since early retirement incentive plans are basically designed to eliminate a number of employment positions (even if it is on an elective basis), payments made upon such terminations are generally considered as being for a loss of employment.
+
+#### Timing
+
+**2.10** If an individual continues to earn salary and benefits until a date after the date they cease to report to work, the retirement or loss of employment, as the case may be, is considered to take place only at the later date. Retiring allowance payments in recognition of long service must be made on or after retirement. However, there is no similar requirement for payments in respect of a loss of employment. A payment made in advance of loss of employment will be considered a retiring allowance if:
+
+- it can be shown that the payment is in respect of the loss;
+
+- there is evidence that the loss is not speculative or contingent; and
+
+- the severing of the employment relationship, including the termination of all employment benefits, will occur on a specific date and within a reasonable time frame.
+
+On April 14, Noelle’s employer advises her in writing that her employment will be terminated on June 30. In addition to her regular salary, Noelle’s employer pays her $5,000 immediately and a further $15,000 on June 30 as compensation for terminating her employment. Although Noelle received a portion of the compensation in advance of her termination date, the entire $20,000 amount qualifies as a retiring allowance.
+
+#### Exceptions
+
+**2.11** Retirement or loss of employment does not include situations where an employee is transferred from one work location or position to another with the same employer or an affiliate. For example, this could refer to a transfer:
+
+- to a position in a different capacity;
+
+- to a position with diminished responsibilities; or
+
+- from a full-time position to a part-time position as part of a reorganization of an employer’s business.
+
+**2.12** In addition, retirement or loss of employment does not include a termination of employment where arrangements have been made for the individual to obtain employment with an affiliate of the employer or to be re-hired by the employer. If there is no assurance or offer of new employment or re-employment at the time the individual terminates the employment, then the CRA will consider a retirement or loss of employment to have occurred, regardless of any subsequent events.
+
+**2.13** A termination of employment described in ¶2.11 or 2.12 will not be excluded solely because:
+
+- prior to retirement from a full-time position in a government department, the individual obtains, through their own initiative, part-time employment with another department where the duties and responsibilities of the new position are unrelated to those of the former position;
+
+- the individual continues as a corporate director (other than as a director of a public company) at nominal compensation; or
+
+- after the sale of the employer’s active business, the individual agrees to carry on certain administrative duties for which no remuneration or director fees are received.
+
+### Types of receipts
+
+#### Damages
+
+**2.14** Compensation received by an individual from their employer or former employer on account of damages (such as a payment made under a grievance settlement, arbitration decision or court order) may be characterized in various ways. It could be considered:
+
+- employment income;
+
+- a retiring allowance;
+
+- non-taxable damages; or
+
+- a combination of these.
+
+The determination of the nature of the receipt is a question of fact, which requires a review of the relevant facts and documentation of each particular case.
+
+##### Damages where employment is retained or reinstated
+
+**2.15** Special damages, such as those received for lost (unearned) earnings, are considered to be employment income if the individual retains employment or is reinstated. This would be the case regardless of whether they actually return to work.
+
+##### Damages for loss of employment
+
+**2.16** The courts have generally taken the view that a retiring allowance includes any compensation on account of damages for loss of employment. This applies to special damages, as well as general damages received for loss of self-respect, humiliation, mental anguish, hurt feelings, etc. Only where an award of damages can be traced to events unrelated to or separate from the loss of employment will the amount not be considered a retiring allowance.
+
+##### Damages for reasons unrelated to loss of employment
+
+**2.17** General damages relating to personal injuries sustained before or after a loss of employment, may be viewed as unrelated to the loss of employment and therefore are non-taxable. This would include, for example, damages for harassment during employment or damages for defamation after dismissal. In order to claim that damages received upon loss of employment are for personal injuries and unrelated to the loss of employment, it must be clearly demonstrated that the damages relate to events or actions separate from the loss of employment. In making such a determination, the amount of severance that the employee would reasonably be entitled to will be taken into consideration.
+
+**2.18** Similarly, general damages relating to human rights violations can be considered unrelated to a loss of employment. This is despite the fact that the loss of employment is often a direct result of the human rights complaint. If a human rights tribunal awards an individual an amount for general damages, the amount is normally not required to be included in income. When a loss of employment involves a human rights violation and is settled out of court, a reasonable amount in respect of general damages can be excluded from income. The determination of what is reasonable is influenced by the maximum amount that can be awarded under the applicable human rights legislation and the evidence presented in the case. Any excess will be taxed as a retiring allowance.
+
+##### Ex-gratia payments for loss of employment
+
+**2.19** The fact that an amount is paid on an ex-gratia or voluntary basis is not determinative of whether it is taxable to an individual. The courts have taken the view that an ex-gratia payment received in respect of a loss of employment will be considered a retiring allowance.
+
+#### Dual nature receipts
+
+**2.20** A payment made pursuant to a contractual obligation may, in some cases, be treated as a retiring allowance. If a payment is received on or after retirement or in respect of a loss of employment pursuant to the terms of an employment contract, it is generally viewed as employment income from the former employment. However, where a payment can also reasonably be regarded as being in recognition of long service or as compensation for loss of employment, the amount will be considered a retiring allowance.
+
+**2.21** A payment in lieu of earnings for a period of reasonable notice of termination that is made under the explicit or implied terms of an individual’s employment is considered employment income. However, where a payment of damages arising from the loss of employment includes an amount in respect of the period of reasonable notice, this amount will be considered a retiring allowance.
+
+#### Unused sick leave
+
+**2.22** A payment for unused sick leave credits qualifies as a retiring allowance where the payment is received on or after retirement in recognition of long service or in respect of loss of employment. However, a payment for unused sick leave credits received while employed is employment income.
+
+#### Payment in lieu of severance
+
+**2.23** A payment in lieu of severance resulting from the elimination of the future accrual of severance benefits is employment income if the payment is received while employed.
+
+Employees covered by a collective agreement accumulate severance benefits that will be paid on resignation or retirement. The benefit is equal to one week of pay for every year of service based on their rate of pay at termination of employment. Under a new collective agreement, the accrual of severance is eliminated as of a specified date. Severance benefits accumulated to that date will be paid in accordance with the existing terms of the severance provision. However, employees are given the option to elect to receive an immediate lump sum payment based on their current rate of pay in lieu of severance.
+
+Andrew chooses the immediate payment option. The amount is employment income and not a retiring allowance because Andrew is employed when he receives the payment.
+
+Victoria receives her severance on retirement. The amount qualifies as a retiring allowance because the payment is received on or after Victoria’s retirement.
+
+#### Non-qualifying receipts
+
+**2.24** A retiring allowance **does not** include:
+
+- a superannuation or pension benefit (see [Interpretation Bulletin IT-499R, Superannuation or Pension Benefits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it499r.html));
+
+- a death benefit (see [Interpretation Bulletin IT-508R, Death Benefits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it508r.html));
+
+- a benefit from counselling services described in subparagraph 6(1)(a)(iv) – which includes employer-provided counselling related to re-employment or retirement;
+
+- accrued vacation pay;
+
+- salary, wages or other remuneration;
+
+- a retention bonus paid for reporting to work until the termination date;
+
+- an amount received out of or under an employee benefit plan or a salary deferral arrangement, as defined in subsection 248(1); and
+
+- a reimbursement of legal costs (see ¶[2.32](#p2_32)).
+
+### Tax implications to recipient
+
+#### Income inclusion
+
+**2.25** Under subparagraph 56(1)(a)(ii), a retiring allowance is included in computing the income of an individual in the year it is received. If an individual receives a greater retiring allowance than entitled to and repays the overpayment, they may deduct the amount repaid in the year of the repayment under subparagraph 60(n)(iii). A retiring allowance may also be received out of a retirement compensation arrangement (RCA), in which case it is included in income under paragraph 56(1)(x).
+
+#### Instalment payments
+
+**2.26** In some cases, employers offer employees the choice of receiving a retiring allowance as a lump sum at the time of termination or in instalments over a number of years. If an individual chooses the instalment option on or before the employment is terminated, the instalments are taxable in the year received. The instalments may reflect an amount of interest earned on the outstanding balance of a retiring allowance. The interest is not itself a retiring allowance, but is taxable as interest income under paragraph 12(1)(c).
+
+#### Payments after death
+
+**2.27** An individual might terminate employment but die before receiving all or a part of a retiring allowance to which they were entitled. In this case, any remaining amount received by their dependent, relation or legal representative will normally be included in the recipient’s income as a retiring allowance pursuant to subparagraph 56(1)(a)(ii). If the payment is made to the deceased individual’s graduated rate estate, the payment could flow through the estate and retain its character as a retiring allowance under subsection 104(28). For more information, see [Guide T4013, T3 Trust Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013.html). As an alternative, the value of the remainder of the retiring allowance may be included in the deceased’s individual’s income for the tax year of death as a **right or thing** pursuant to subsection 70(2). For more information on rights or things, see [Interpretation Bulletin IT-212R3, Income of Deceased Persons – Rights or Things](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it212r3.html) and its special release, [Interpretation Bulletin IT-212R3SR](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it212r3sr.html). In all three cases, the amount is not considered to be a death benefit.
+
+**2.28** If an individual dies while still employed and either the individual was contractually entitled to receive a retiring allowance or the employer decides to pay an amount in recognition of their employment services, the amount received after death would be a death benefit. For information on death benefits, see [Interpretation Bulletin IT-508R](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it508r.html).
+
+#### Transfer to an RRSP
+
+**2.29** Individuals with years of service **before 1996** may be able to transfer all or part of a retiring allowance to their RRSP on a tax-deferred basis, with no impact on their regular RRSP deduction limit. The criteria to consider in determining the amount of the retiring allowance available for transfer and the calculation of the maximum amount deductible are discussed in ¶2.30 and 2.31. Although a tax-deferred transfer may also be made to a registered pension plan (RPP), such transfers are uncommon because of adverse implications with respect to the individual’s pension adjustment or past service pension adjustment. Individuals may also transfer all or part of a retiring allowance to their RRSP or to a spousal or common-law partner RRSP, up to their RRSP deduction limit. For more information, see [Guide T4040, RRSPs and Other Registered Plans for Retirement](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4040.html).
+
+**2.30** Paragraph 60(j.1) allows an individual to deduct all or part of a retiring allowance included in their income in the year received if it is transferred to their RRSP. This deduction is subject to the following limitations:
+
+1. The maximum amount that may be deducted is equal to:
+
+    - $2,000 for each year before 1996 during which the individual was employed by the employer paying the retiring allowance or a **person related to the employer** (see ¶[2.31(b)](#p2_31)); plus
+
+    - $1,500 for each year before 1989 during which the individual was employed by the employer or a person related to the employer provided that no employer contributions made to a pension plan or deferred profit sharing plan (DPSP) have vested in the individual for the year.
+
+2. If the individual deducted an amount under paragraph 60(j.1) in respect of a retiring allowance paid by the employer in a previous year or paid by a person related to the employer in the current or a previous year, the maximum deduction is correspondingly reduced.
+
+3. The transfer to an RRSP may be made either directly by the employer or indirectly by the individual. However, the transfer must be made in the year in which the individual receives the retiring allowance or in the first 60 days of the following year. The transfer cannot exceed the amount of the retiring allowance included in the individual’s income for the year.
+
+4. The transfer must be made to the individual’s own RRSP. A transfer to a spousal or common-law partner RRSP is ineligible.
+
+5. The individual must designate the amount as a transfer of a retiring allowance in their income tax and benefit return for the year. The individual may not designate an amount that has been designated for purposes of the deduction under paragraphs 60(j) or 60(l). This would include, for example, transfers of foreign superannuation benefits or a refund of premiums under an RRSP.
+
+6. The deduction is available only where the retiring allowance is paid by the individual’s employer or under an RCA to which the employer has contributed. No deduction is available in the circumstances described in ¶[2.4](#p2_4).
+
+**2.31** The following comments apply in determining the maximum amount deductible described in ¶2.30(a):
+
+1. The number of years of employment need not be continuous and there is no restriction on the length of a break between periods of service. The number of years of employment includes a part of a year as one year. However, if the individual was employed by two employers in the same year, the year can only be counted once.
+
+2. Subparagraphs 60(j.1)(iv) and (v) expand the Act’s general meaning of the expression **related persons** (see [Income Tax Folio S1-F5-C1](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html)). In this context, a **person related to the employer** includes any person whose business was acquired or continued by the employer, as well as any previous employer if the individual’s service with that employer is recognized in whole or in part in determining their pension benefits. In these cases, all of the individual’s service with the former employer before 1996 is included in determining the number of years of employment.
+
+3. Employer contributions to a pension plan or DPSP are considered to have vested in the individual if, at the time of payment of the retiring allowance, the individual is entitled to receive (or had previously received) their accrued benefits under the plan. Since pension and DPSP benefits are now required to fully vest after two years of plan membership (with many jurisdictions providing for immediate vesting), the additional $1,500 will generally be available only for those years before 1989 in which the individual did not participate in a pension plan or DPSP. It could also be available for a plan member where the pre-1989 years were not credited as pensionable service, for example, a leave of absence or a previous period of non-vested service that the member did not buy-back.
+
+Jacques began working at ABC Company in October 1984 and retired in June 2016. In June 2016, Jacques received a $45,000 retiring allowance in recognition of his long service and includes this amount in income. Jacques has been a member of ABC’s pension plan since October 1986. Jacques’ regular RRSP deduction limit for 2016 is $8,000.
+
+**The maximum that Jacques can contribute to his RRSP and claim a deduction under paragraph 60(j.1) is $27,000:**
+
+| Description | Amount |
+
+| --- | --- |
+
+| $2,000 x 12 full or partial years before 1996 | $24,000 |
+
+| plus |  |
+
+| $1,500 x 2 years before 1989 with no vested benefits | $3,000 |
+
+| **Maximum deduction** | **$27,000** |
+
+During 2016, Jacques contributes $35,000 to his RRSP. Jacques is entitled to claim a deduction of $27,000 under paragraph 60(j.1). The remaining $8,000 can be deducted using Jacques’ regular RRSP deduction limit.
+
+#### Legal expenses
+
+**2.32** An individual may deduct legal expenses paid to collect or establish a right to a retiring allowance, within the limits set out in paragraph 60(o.1). Any amount received by the individual as an award or reimbursement of legal expenses must be included in income under paragraph 56(1)(l.1). For more information see [Interpretation Bulletin IT-99R5, Legal and Accounting Fees](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it99r5-consolid.html).
+
+### Reporting, remitting and withholding requirements
+
+**2.33** For information about reporting, remitting and withholding requirements for retiring allowances, see [Guide T4001, Employer’s Guide - Payroll Deductions and Remittances](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4001.html) or [Guide T4061, NR4 - Non-Resident Tax Withholding, Remitting and Reporting](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4061.html).
+
+## Application
+
+This Chapter, which may be referenced as S2-F1-C2, is effective November 8, 2016 and replaces and cancels Interpretation Bulletin IT-337R4 (Consolidated), Retiring Allowances.
+
+Any technical updates from the cancelled interpretation bulletin(s) can be viewed in the [Chapter History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-2-employers-employees/series-2-employers-employees-folio-1-specific-plans-offered-employers-employees/income-tax-folio-s2-f1-c2-retiring-allowances/chapter-history-s2-f1-c2-retiring-allowances.html) page.
+
+Except as otherwise noted, all statutory references herein are references to the provisions of the Income Tax Act, R.S.C., 1985, c.1 (5th Supp.), as amended and all references to a Regulation are to the Income Tax Regulations, C.R.C., c. 945, as amended.
+
+Links to jurisprudence are provided through CanLII.
+
+Income tax folios are available in electronic format only.
+
+## Reference
+
+Paragraphs 56(1)(a), 60(j.1) and the definition of **retiring allowance** in subsection 248(1).

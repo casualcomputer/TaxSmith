@@ -1,0 +1,131 @@
+---
+title: "MacDonald  v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29658/index.do"
+last_modified: "2010-02-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 107"
+citation2: ""
+neutral_citation: "2010 TCC 107"
+decision_date: "2010-02-23"
+language: "en"
+item_id: "29658"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6226
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:37:44.244000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0b07554d5fdb7a47e231d711c24483c242f8dd2674d2164d8b006693187bcf35"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# MacDonald  v. The Queen
+
+- Citation: 2010 TCC 107
+- Decision date: 2010-02-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6226, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacDonald v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-23
+Neutral citation
+2010 TCC 107
+File numbers
+2008-625(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-625(IT)G
+BETWEEN:
+MICHAEL WILLIAM MACDONALD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on February 16, 2010 at Halifax, Nova Scotia
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+David I. Besler
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2003, 2004 and 2005 taxation years is dismissed. The respondent is entitled to costs.
+Signed at Toronto, Ontario this 23rd day of February 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 107
+Date: 20100223
+Docket: 2008-625(IT)G
+BETWEEN:
+MICHAEL WILLIAM MACDONALD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The matter before me is a motion brought by the respondent for an order dismissing the appellant’s appeal with respect to assessments made under the Income Tax Act for the 2003, 2004 and 2005 taxation years.
+[2] The motion concerns an order of Jorré J. dated September 14, 2009, which is reproduced in its entirety below.
+Upon considering the Respondent’s motion filed on June 23, 2009 for an order dismissing the appeal or an amendment to the order dated May 28, 2009;
+Upon considering the Appellant’s motion dated August 19, 2009 to have Webb J. and David I. Besler sign a legal document stating that there is a certified copy of the Income Tax Act, in order for this case to move forward;
+And upon considering the Respondent’s written submissions received on August 28, 2009 regarding the Appellant’s motion;
+In accordance with the attached reasons for order, with respect to the Respondent’s motion, the Appellant is ordered to answer, on or before November 16, 2009, all the questions in the Respondent’s written examination for discovery dated February 18, 2009 with the exception of question 1(c). Costs in respect of the Respondent’s motion shall be in the cause.
+With respect to the Appellant’s motion, it is dismissed with costs of $1,000 to the Respondent in any event of the cause, in accordance with the reasons for order. Those costs are payable on or before October 20, 2009.
+[3] Counsel for the respondent submits that the appellant failed to comply with any part of the above order and that it would be appropriate to dismiss the appeal pursuant to subsection 116(4) of the Tax Court of Canada Rules (General Procedure).
+[4] In reference to the costs’ award, a letter was sent by the appellant to the Department of Justice indicating a refusal to pay. A copy of the letter was also sent to the Court to the attention of Justices Jorré and Webb. The letter reads in part:
+Further to the Honourable Justice Jorre’s Order, dated Sept 14, 2009 and the award of costs payable to the Respondent in the amount of $1,000.00. Please let the Honourable Justice Jorre know that I DO NOT WISH TO CONTRACT. My identity is in small letters not large Caps. I am a free will man, and I have the right to contract or the right not to contract.
+[5] As for the failure to provide answers to written examinations for discovery, I do not know the reason for the failure as the appellant did not appear at the hearing of this motion.
+[6] In addition to the above, I would note the following comment of Jorré J. in his reasons for the above order:
+[5] I now turn to the motion made by the Appellant. In his motion, the Appellant raises a number of arguments that are entirely without merit. For example, he claims to be a “natural free will man” who has not chosen to contract with Canada and is not subject to the Income Tax Act (the “ITA”). Some of the Appellant’s arguments overlap with an earlier motion dated April 27, 2009 which he made and which was dealt with in Webb J.’s order of May 28, 2009. Webb J. also indicated in response to that earlier motion by the Appellant that the grounds and issues raised by the Appellant were without merit. In this case, it is not entirely clear what the Appellant seeks but he does seek to have a document signed by Webb J. and counsel for the Respondent stating the date the ITA was passed and the certified number of the ITA. He also appears to be demanding that this case be thrown out of court and does not appear to understand that the consequence of that will be to make him liable for the amount of tax which he contests.
+[7] I conclude that it would be appropriate to dismiss the appeal because it is clear that the appellant has no intention of preparing for the conduct of a reasonable hearing. In all the circumstances of this appeal, it would be an abuse of the process of this Court to let this litigation continue.
+[8] The appeal is dismissed, with costs to the respondent.
+Signed at Toronto, Ontario this 23rd day of February 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 107
+COURT FILE NO.: 2008-625(IT)G
+STYLE OF CAUSE: MICHAEL WILLIAM MACDONALD and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: February 16, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: February 23, 2010
+APPEARANCES:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+David I. Besler
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

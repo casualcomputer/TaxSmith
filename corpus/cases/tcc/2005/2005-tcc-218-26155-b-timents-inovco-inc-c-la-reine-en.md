@@ -1,0 +1,204 @@
+---
+title: "Bâtiments Inovco Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26155/index.do"
+last_modified: "2005-03-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 218"
+citation2: ""
+neutral_citation: "2005 TCC 218"
+decision_date: "2005-03-24"
+language: "en"
+item_id: "26155"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3953
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:53:56.037000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "16961e49120b9325a652c788b8f710394811ab1cc11a64e51f17f24c3fc49654"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bâtiments Inovco Inc. c. La Reine
+
+- Citation: 2005 TCC 218
+- Decision date: 2005-03-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3953, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bâtiments Inovco Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-24
+Neutral citation
+2005 TCC 218
+File numbers
+2004-4774(GST)APP
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-4774(GST)APP
+BETWEEN:
+BÂTIMENTS INOVCO INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Application heard on February 17, 2005 at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Applicant:
+Joël Brassard
+Counsel for the Respondent:
+Claudine Alcindor
+ORDER
+The application for an order to extend the deadline for objecting to the assessment made under the Excise Tax Act for which the notice number PL-2003-232 is dated February 6, 2004, is allowed, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 24th day of March 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 28th day of November 2005.
+Elizabeth Tan, Translator
+Citation: 2005TCC218
+Date: 20050324
+Docket: 2004-4774(GST)APP
+BETWEEN:
+BÂTIMENTS INOVCO INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Lamarre Proulx J.
+[1] This is an application for an order to extend the deadline for filing an objection with the Minister of National Revenue (the "Minister"), under section 304 of the Excise Tax Act (the "Act").
+[2] Sylvain Allard, the Applicant's president, testified. A book of documents with nine tabs was submitted as Exhibit A-1.
+[3] On May 26, 2000, the Applicant received an order to pay from Revenue Canada under subsections 317(1), (2) or (6) of the Act, regarding the tax debtor 9069-1510 Québec Inc ("1510"), Toiture Pelletier/Monteurs d'acier SVP, 264 rue Beaupré, Charlemagne, Que. This document is at Tab 1 of Exhibit A-1.
+[4] The order states that the maximum payable amount is $133,830.84. It reads, in part:
+[translation]
+...
+In accordance with the provisions of the Excise Tax Act, you are required under this order to pay the Minister of Revenue of Quebec, regarding the liability of the tax debtor mentioned below,
+(1) immediately, all amounts otherwise payable to the tax debtor that you are responsible for paying,
+(2) any other amounts otherwise payable to the tax debtor that you will be responsible for paying within 90 days, as the amounts become payable,
+...
+but you are not required to pay more than $133,380.84 (the maximum payable).
+...
+[5] The Applicant responded on May 31, 2000, that the last payment of $6,217.12 was made on December 9, 1999, and that it no longer owed an amount to the debtor mentioned in the order (Tab 1, Exhibit A-1).
+[6] On March 5, 2001, there was another order to pay for a maximum amount of $134,379.17. This document is in Exhibit I-1. It reads, in part:
+[translation]
+...
+...In accordance with the provisions of the Excise Tax Act, you are required under this order to pay the Minister of Revenue of Quebec, regarding the liability of the tax debtor mentioned below,
+(1) immediately, all amounts otherwise payable that you are responsible for paying to the tax debtor,
+(2) any other amounts otherwise payable that you will be responsible for paying to the tax debtor within one year, as the amounts become payable,
+...
+but you are not required to pay more than $134,379.17 (the maximum payable).
+...
+[7] On March 9, 2001, the Applicant responded that it did not owe anything to the tax debtor and its last payment, dated July 7, 2000, was in the amount of $40,258.75 (Exhibit I-1). The invoice paid by the Applicant is at Tab 9 of Exhibit A-1. It is dated June 19, 2000, in the name of Les Monteurs d'acier SVP, whose address is 1626 rue Aird, Montréal, Quebec, and is in the amount of $40,258.75.
+[8] The Applicant received the following letter, dated November 27, 2003 (Tab 2 of Exhibit A-1):
+[translation]
+CERTIFIED MAIL (No. 682837) November 27, 2003
+BÂTIMENTS INOVCO INC
+3825, rue Lepine
+Laval, QC H7V 1V5
+Ref. No.: 534822
+Subject: Failure to comply with an order to pay
+On May 31, 2000, you received an order to pay under section 317 of the Excise Tax Act (R.S.C. 1985, c. E-15), requiring payment to the Minister of all amounts you owed to 9069 1510 Québec Inc. (Toiture Pelletier/Monteurs d'Acier SVP), up to $133,830.84 for the Excise Tax Act.
+The provisions of subsections 317(7) and (8) of the Excise Tax Act set out that a person who, despite the formal request by the Minister, pays his or her debt or consideration or refuses to pay his or her debt or consideration, is liable to pay the Minister an amount equal to the amount that person was required to pay, to the extent of the amounts allowable under the Excise Tax Act.
+Considering you did not respect the requirements stated above, the Ministère du Revenu is expected to make an assessment of $40,258.75 in your name, regarding the Excise Tax Act. Added to this amount is any interest calculated since the date you should have made a payment to the tax debtor.
+We therefore ask you to send us any information or new documentation you feel might change the results of our analysis. If you do not reply within 21 days following the mailing date of this letter, or the date served by bailiff, a notice of assessment will be delivered to you with no other notice or deadline.
+...
+[9] On December 19, 2003, the Applicant, under Sylvain Allard's signature, sent the following letter to Revenu Québec (Tab 3 of Exhibit A-1):
+[translation]
+December 19, 2003
+Ministère du Revenu du Québec
+Centre de perception fiscale
+Yves Tremblay
+4 Place Laval, Suite 500
+Sector L456(3
+Laval, Quebec H7N 5Y3
+Your Ref.: 5343822
+Dear Mr. Tremblay:
+We acknowledge receipt of your letter of November 27, 2003. Having read it, we challenge your claim.
+We will submit our arguments to this effect in January 2004.
+...
+[10] Yves Tremblay, Minister's agent, explains that he did not receive anything in January 2004.
+[11] The notice of assessment was sent, postmarked February 6, 2004. The assessment was explained as follows (Tab 4 of Exhibit A-1):
+This notice of assessment is delivered in accordance with subsection 317(9) of the Excise Tax Act, regarding an amount for which you are liable under subsection 1 of the same act, for non-respect of the payment order dated May 26, 2000, which you received May 31, 2000, regarding BÂTIMENTS INOVCO INC.
+FEES $40,258.75
+[12] On the same page is the following information:
+[translation]
+AMOUNT OF ASSESSMENT: $40,258.75
+Note: Interest and penalties accumulate daily on any unpaid amounts.
+You must pay the amount of the assessment immediately; otherwise you will be subject to other enforceable orders.
+You can object to this notice of assessment by sending a notice of objection to the Minister of Revenue of Quebec in the 90 days following the date the notice of assessment was sent. You can obtain a notice of objection form at any of the Ministère du Revenu du Québec's regional offices, or from its Internet site.
+...
+[13] Mr. Tremblay says that Ms. Rivest spoke to him on the phone in March 2004 and told him that the Applicant would challenge the assessment. In the meantime, she would send him a series of checks. There was no objection, but the checks were sent.
+[14] At Tab 5 of Exhibit A-1 is a message Ms. Rivest sent to Mr. Tremblay, dated August 25, 2004, which states:
+[translation]
+Further to our meeting yesterday regarding our objection in the case of Monteurs d'acier SVP, we have found the letter that I had sent you in December regarding our position in this case. We would like your comments in response to this letter, which you will find attached.
+[15] In the margin of this typed message is a note handwritten by Ms. Rivest that states:
+[translation]
+He told me to write to the Objections Directorate because he couldn't do anything.
+[16] In its September 22, 2004, request to the Minister to extend the deadline (Tab 6 of Exhibit A-1), the Applicant, through its President, stated:
+[translation]
+Further to letters received between May 26, 2000, and November 27, 2003, we have stated, in writing, our objection in this case. We still received a notice of assessment on February 6, 2004, and a formal request to pay this assessment. We communicated with Yves Tremblay of the Centre de perception fiscale in Laval on a few occasions, explaining our disagreement. He advised us, practically required us, to first make payments and then challenge the claim. We therefore produced a series of monthly checks, the first of which was dated March 31, 2004.
+Since then, we managed to meet with Mike Lalonde, representative of the company Les Monteurs d'acier SVP (9089-2902 Québec inc.) in June, upon his return from Florida, because he is now retired. Mr. Lalonde became aware of our case, of which you will find a complete copy attached.
+At this meeting, he pointed out to us that there are two distinct companies and he confirmed that he had no debt or arrears to the government.
+Following the analysis of these documents and considering the information obtained, we maintain our objection and our disagreement to paying an amount that should not be ours to pay. We are requesting that you grant us an extension of the deadline and communicate with us as quickly as possible in order to settle this case.
+[17] In cross-examination, counsel for the Respondent produced Exhibit I-3, a decision on objection, dated April 20, 2004, addressed to the Applicant. It is a different assessment than the one in question in the case at bar. The purpose of producing this document was to show that Mr. Allard knew the objection procedures well. He got very angry when counsel showed him and then produced this document. Earlier, he had stated that he never had to produce a notice of objection. It must be pointed out, however, that the notices of objection had been produced by a lawyer.
+Analysis and conclusion
+[18] The assessment plan was sent to the Applicant on November 27, 2003. In his December 19, 2003, letter, the Applicant's president states he will submit his arguments against the plan in January 2004. He did not. He had very clearly pointed out that he would challenge this claim in this December 19, 2003, letter.
+[19] The notice of assessment is dated February 6, 2004. The Applicant did not produce a notice of opposition to this assessment. However, on August 24, 2004, the Applicant's president and Ms. Rivest, the administrative assistant, met with Mr. Tremblay. Following this, there was the letter and note reproduced at paragraphs 14 and 15 of these Reasons.
+[20] I can only find that the action taken was taken late. Moreover, it seems to me that the meeting and the exchange of correspondence could indicate that there was some misunderstanding.
+[21] Exhibit I-3, a decision on the notices of objection dated April 20, 1004, obviously shows that the Applicant needed the services of a lawyer for this case. This could possibly explain why the notices of objection were presented within the prescribed deadlines, which was not so in the present case.
+[22] This is not a request for an extension in which the evidence fairly easily tips the balance of probabilities in favour of the taxpayer. However, the elements I mentioned raise some doubt and I feel that in the matter of a request for an extension of deadlines, doubt could be interpreted in favour of the taxpayer. The request for an extension is therefore granted.
+Signed at Ottawa, Canada, this 24th day of March 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 28th day of November 2005.
+Elizabeth Tan, Translator
+CITATION: 2005TCC218
+COURT FILE NO.: 2004-4774(GST)APP
+STYLE OF CAUSE: Bâtiments Inovco Inc. and Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: February 17, 2005
+REASONS FOR ORDER The Honourable Justice Louise Lamarre
+BY: Proulx
+DATE OF ORDER: March 24, 2005
+APPEARANCES:
+Counsel for the Applicant:
+Joël Brassard
+Counsel for the Respondent:
+Claudine Alcindor
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Joël Brassard
+Firm: Dunton Rainville SENC
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

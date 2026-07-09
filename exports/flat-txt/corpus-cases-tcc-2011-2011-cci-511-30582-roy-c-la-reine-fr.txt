@@ -1,0 +1,136 @@
+Title: Roy c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30582/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-511-30582-roy-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-11-07
+
+# Roy c. La Reine
+
+- Citation: 2011 CCI 511
+- Decision date: 2011-11-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7140, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-11-07
+Référence neutre
+2011 CCI 511
+Numéro de dossier
+2010-2909(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2909(IT)I
+ENTRE :
+DANIEL ROY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 3 mai 2011, à Edmundston (Nouveau-Brunswick).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Représentant de l'appelant :
+Michel Dumont
+Avocate de l'intimée :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2003, 2004, 2005, 2006 et 2007 sont rejetés, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2011.
+« Paul Bédard »
+Juge Bédard
+Référence : 2011 CCI 511
+Date : 20111107
+Dossier : 2010-2909(IT)I
+ENTRE :
+DANIEL ROY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Par avis de nouvelle cotisation daté du 18 juin 2009, le ministre du Revenu national (le « Ministre ») a refusé d'accorder le crédit équivalent pour personne entièrement à charge (prévu à l'alinéa 118(1)b) de la Loi de l'impôt sur le revenu (la « Loi »)) pour les années d'imposition 2003, 2004, 2005, 2006 et 2007. Le Ministre a refusé d'accorder le crédit en s'appuyant sur le paragraphe 118(5) de la Loi, étant d'avis que, pour les années d'imposition en question, l'appelant était tenu de payer une pension alimentaire pour son fils.
+Les faits
+[2] L'appelant était séparé de la mère de son fils pendant les années d'imposition en question.
+[3] Une ordonnance de la Cour du Banc de la Reine du Nouveau‑Brunswick, (la « Cour du B.R. ») datée du 18 décembre 1996 (« l'Ordonnance ») ordonnait à l'appelant de payer, à compter du 1er janvier 1996, une pension alimentaire pour son fils (voir la pièce I‑1).
+[4] Selon la pièce A‑1 déposée en preuve lors de l'audition, madame Brenda Dumont (l'ex‑conjointe de l'appelant) a déposé le 24 mai 2007 à la Cour du B.R. un document intitulé « Formule 5 — RETRAIT DE L'ORDONNANCE DE SOUTIEN ».
+[5] Madame Dumont a aussi déposé le 24 mai 2007 à la Cour du B.R. du Nouveau‑Brunswick une renonciation à des arrérages de pension alimentaire se rapportant à la période du 1er juillet 2002 au 1er mai 2007 (voir la pièce A‑1).
+[6] Madame Dumont, dont la crédibilité ne fait pas de doute, a témoigné qu'elle avait renoncé au droit de son fils à des aliments, conféré par l'Ordonnance à partir de juillet 2002, en raison d'une reprise de la vie commune avec l'appelant qui a duré environ un an. Madame Dumont a précisé que cette renonciation était verbale.
+Questions en litige
+[7] Les seules questions en litige étaient les suivantes :
+a) Est-ce que l'entente entre l'appelant et madame Dumont aux termes de laquelle cette dernière a renoncé au droit de son fils à des aliments conféré par l'Ordonnance est valide (« l'Entente »)? En d'autres termes, est‑ce que l'Entente entre l'appelant et son ex‑conjointe portant sur la renonciation à une ordonnance alimentaire peut éteindre l'obligation de l'appelant, telle qu'imposée par la Cour du B.R., de verser une pension alimentaire pour son fils?
+b) Dans la négative, est-ce que la Formule 5 (pièce A‑1) a pour effet d'annuler l'obligation alimentaire de l'appelant?
+Position de l'appelant
+[8] La partie pertinente des observations écrites de l'appelant à l'égard des questions en litige mérite d'être reproduite intégralement :
+II POSITION DE L'APPELANT
+[4] La position de l'appelant est que les documents présentés par Michel Dumont (voir onglet 4 du cahier des pièces de l'intimée), son propre témoignage appuyé par le témoignage de Brenda Dumont ainsi que les faits et gestes démontrent qu'il y avait entre l'appelant Daniel Roy et Brenda Dumont une entente hors cour entre eux pour le soutien alimentaire et que l'appelant Daniel Roy n'était pas exigé de payer la pension alimentaire tel que le prétend l'intimée, sauf si on regarde le tout d'un point de vue « technique » (il y a une ordonnance, donc il était obligé même s'il y a le retrait).
+[5] Par conséquent, l'appelant devrait être éligible de réclamer les exemptions personnelles de la part de Frederick.
+III ARGUMENTATION
+[6] D'abord, la première règle apprise à l'école de droit est que CHAQUE CAS EST UN CAS D'ESPÈCE, et, que le tribunal a l'entière discrétion de déterminer quels sont LES FAITS qu'il va retenir pour appuyer sa décision, basé notamment sur les documents et sur la crédibilité des témoins.
+[7] Il est à noter que toute la jurisprudence citée par l'intimée relève de dossier où il n'y avait pas d'entente entre les parties et que les tribunaux ont dû trancher les points litigieux et rendre des ordonnances.
+[8] Dans le présent dossier, les documents et les faits semblent indiquer presque tout le contraire, car, d'une part nous avons le retrait de l'ordonnance de soutien signée par Brenda Dumont et déposée auprès de la Cour du Banc de la Reine du Nouveau‑Brunswick à Edmunston, et d'autres parts, la lettre de Brenda Dumont signée devant l'agent d'exécution M. Jean‑Claude Durepos, annulant les arrérages du dossier de la Cour (numéro FDE‑0063‑1994), et ce, de façon rétroactive au 1er juillet 2002.
+[9] À travers ces deux dernières pièces, il est clair que l'intention des parties étaient de ne pas soumettre l'appelant Daniel Roy à une ordonnance de Cour l'exigeant de payer une pension alimentaire, mais plutôt, qu'il y avait une entente mutuelle entre les parties.
+[10] Il ne faut pas oublier que la Cour de la division de la Famille du Nouveau‑Brunswick n'a seulement compétence à l'égard d'un dossier que lorsqu'elle en est saisie par le dépôt d'une requête, et que si tel est le cas, qu'au moins une des parties demandent à la Cour trancher une question en litige ou de forcer l'exécution d'une entente. Or, dans le présent dossier, le retrait de l'ordonnance de soutien signée par Brenda Dumont retirait le dossier de la compétence du tribunal et aucune partie ne s'y est opposée ni même une tierce partie (par exemple : les services sociaux auraient pu s'y opposer s'ils avaient détecté une négligence ou une situation mettant en danger les enfants) ni même l'intimée.
+Analyse et conclusion
+[9] Relativement à la première question en litige, je suis d'avis que l'Entente est nulle de nullité absolue. En effet, il serait contraire à l'ordre public qu'un parent puisse renoncer au droit de son enfant à recevoir des aliments. C'est du moins ce que nous enseigne la Cour suprême du Canada aux paragraphes 14 et suivants de sa décision dans l'arrêt Richardson c. Richardson, [1987] 1 R.C.S. 857, paragraphes qui se lisent comme suit :
+14 […] La pension alimentaire de l'enfant, comme les droits de visite, est un droit subjectif de l'enfant: Re Cartlidge and Cartlidge, [1973] 3 O.R. 801 (T. fam.) Pour cette raison, le conjoint ne peut aliéner le droit de son enfant à des aliments dans une convention. Le tribunal peut toujours intervenir pour fixer le niveau approprié des aliments à verser à l'enfant: Malcovitch v. Malcovitch (1978), 21 O.R. (2d) 449 (H.C.); Hansford v. Hansford, [1973] 1 O.R. 116 (H.C.), aux pp. 117 et 118; Dal Santo v. Dal Santo (1975), 21 R.F.L. 117 (C.S.C.-B.); Mercer v. Mercer (1978), 5 R.F.L. (2d) 224 (H.C. Ont.); Collins v. Collins (1978), 2 R.F.L. (2d) 385 (C.S. Alb.), à la p. 391; Krueger v. Taubner (1974), 17 R.F.L. 86 (B.R. Man.) De plus, parce qu'il s'agit d'un droit de l'enfant, le fait que le conjoint bénéficie indirectement des aliments versés à l'enfant ne saurait justifier une révision à la baisse des aliments accordés.
+15 L'obligation alimentaire envers le conjoint a des assises différentes et donc des caractéristiques différentes. Tel que discuté dans l'arrêt Pelech, les tribunaux, au moment d'accorder des aliments au conjoint, sont requis de procéder à une analyse du régime d'interdépendance financière engendré par chaque mariage et de concevoir une ordonnance alimentaire qui minimise autant que possible les conséquences économiques de la dissolution du lien matrimonial. Le soutien financier peut être temporaire ou permanent. C'est le conjoint qui est titulaire du droit subjectif à des aliments, aussi le conjoint peut-il, par contrat, stipuler le montant des aliments qu'il ou elle recevra. Le cas échéant, le tribunal sera fortement enclin à mettre à exécution ce contrat: voir Pelech c. Pelech, précité.
+16 Compte tenu de ces différences entre l'obligation alimentaire envers le conjoint et celle envers l'enfant, si le tribunal craint que l'enfant ne reçoive pas de pension adéquate, il doit réagir en modifiant le montant des aliments de l'enfant. Cette démarche a plusieurs avantages. En premier lieu, elle indique explicitement quel est le souci du tribunal. En deuxième lieu, c'est l'individu titulaire du droit conféré par la loi qui en bénéficie. L'obligation de verser une pension alimentaire pour l'enfant est une obligation envers l'enfant et non envers l'autre conjoint. En troisième lieu, les caractéristiques traditionnelles de l'ordonnance alimentaire au profit de l'enfant reflètent mieux le souci du tribunal pour le bien-être de l'enfant que les caractéristiques traditionnelles de l'ordonnance alimentaire au profit du conjoint. […]
+[10] Seule une cour compétente peut se prononcer sur le droit d'un enfant à des aliments. Au Nouveau‑Brunswick, cette cour est la Cour du B.R. selon le paragraphe 2(4) de la Loi sur le divorce, L.R.C., 1985, ch. 3 (2e suppl.).
+[11] Au Nouveau‑Brunswick, outre les dispositions de la Loi sur le divorce, c'est la Partie VII de la Loi sur les services à la famille, L.N.‑B., 1980, ch. F‑2.2 (« LSF »), qui régit les demandes d'aliments et qui établit qui a droit à des aliments.
+[12] Dans la LSF, on réfère à l'obligation alimentaire envers une personne à charge en utilisant l'expression « soutien d'une personne à charge » et on réfère aux ordonnances de la Cour du B.R. fixant l'obligation de verser des aliments au moyen de l'expression « ordonnance de soutien ».
+[13] Selon le paragraphe 113(1) de la LSF, un parent a l'obligation de pourvoir au soutien de son enfant et la Cour du B.R., à la demande d'un enfant et de l'autre parent, peut en vertu des paragraphes 115(1) et (2) de cette même loi ordonner à un parent de pourvoir au soutien de son enfant.
+[14] Selon le paragraphe 116(1) de la LSF, une ordonnance de soutien prend fin au moment qui y est prévu ou au décès de la personne tenue au soutien. Toutefois, en vertu du paragraphe 118(2) de la LSF, seule la Cour du B.R. a compétence pour modifier ou révoquer des ordonnances de soutien si elle est convaincue qu'un changement de situation s'est produit depuis le prononcé de l'ordonnance en vigueur. Le changement de situation doit être prévu aux règlements.
+[15] Il n'existe aucun règlement édicté sous l'égide du paragraphe 118(2) de la LSF. Toutefois, la Cour d'appel du Nouveau‑Brunswick, dans l'arrêt A.C. c. R.R., 2006 NBCA 58, indique au paragraphe 9 de sa décision ce qui suit :
+En application du par. 118(2) de la Loi sur les services à la famille, L.N.-B. 1980, ch. F-2.2, la cour peut révoquer, modifier ou suspendre une ordonnance de soutien et peut dégager une partie du paiement de tout, ou partie des arriérés, si "la cour est convaincue qu'un changement de situation prévu aux règlements concernant les ordonnances de soutien pour enfant s'est produit depuis qu'elle a rendu l'ordonnance. « Ce changement de situation doit être un changement important. Les propos suivants du juge Sopinka dans l'arrêt Willick c. Willick, [1994] 3 R.C.S. 670, au par. 21, s'appliquent tout autant à un demande de modification d'une ordonnance alimentaire en application de la Loi sur les service à la famille, qu'à une telle ordonnance en application de la Loi sur le divorce, L.R.C. (1985) (2e suppl.), ch. 3 […]
+[16] Dans le cas des personnes mariées, la Loi sur le divorce s'applique parallèlement avec la LSF et elle dispose également que la Cour du B.R. a compétence. En effet, le paragraphe 15.1(1) et l'alinéa 17(1)a) de la Loi sur le divorce statuent que :
+15.1(1) Sur demande des époux ou de l’un d’eux, le tribunal compétent peut rendre une ordonnance enjoignant à un époux de verser une prestation pour les aliments des enfants à charge ou de l’un d’eux.
+[…]
+17(1) Le tribunal compétent peut rendre une ordonnance qui modifie, suspend ou annule, rétroactivement ou pour l’avenir:
+a) une ordonnance alimentaire ou telle de ses dispositions, sur demande des ex‑époux ou de l’un d’eux;
+[17] En résumé, une personne qui a l'obligation de pourvoir au soutien de son enfant en vertu d'une ordonnance de soutien de durée indéterminée rendue par la Cour du B.R. devra, pour que cesse son obligation, demander à cette cour de la révoquer en invoquant un changement de situation depuis le prononcé de l'ordonnance. En effet, selon le paragraphe 118(2) de la LSF, seule la Cour du B.R. a compétence pour révoquer ses ordonnances. En l'espèce, l'appelant n'a pas démontré que l'ordonnance de soutien avait été révoquée par la Cour du B.R. L'Entente ne pouvait annuler l'obligation de l'appelant aux termes de l'Ordonnance parce que cela est contraire à l'ordre public.
+[18] Maintenant, nous examinerons la question de savoir si la Formule 5 a pour effet d'annuler l'obligation alimentaire de l'appelant.
+[19] Puisque j'ai conclu que seule la Cour du B.R. pouvait annuler l'obligation de l'appelant aux termes de l'Ordonnance, il faut déterminer l'effet de son retrait à la demande de madame Dumont le 24 mai 2007. La réponse à cet égard se trouve dans la Loi sur l'exécution des ordonnances de soutien, L.N.‑B., ch. 5‑15.5 (« LEOS ») qui traite de l'exécution des ordonnances de soutien rendues par la Cour du B.R.
+[20] En vertu de l'article 5 de la LEOS et du paragraphe 122(1) de la LSF, l'administration de la Cour du B.R. doit, tandis que le bénéficiaire ou le payeur d'une ordonnance de soutien peuvent, déposer une ordonnance de soutien en vue de son exécution.
+[21] L'effet de ce « dépôt » est de charger le directeur des ordonnances de soutien (le « directeur ») de prendre les mesures nécessaires pour l'exécution de l'ordonnance (voir les articles 2 et 7 de la LEOS). D'ailleurs, une ordonnance de soutien déposée auprès du directeur est réputée inclure des dispositions à l'effet que le directeur exécute l'ordonnance. Le directeur cessera d'exécuter l'ordonnance de soutien si celle‑ci est retirée. Le directeur peut de son propre chef retirer une ordonnance, entre autres, s'il constate que le bénéficiaire accepte des versements directement du payeur (voir l'article 9 de la LEOS). Ceci démontre que l'obligation de soutien ordonnée par la Cour du B.R. survit à la fin des mesures d'exécution entreprises par le directeur.
+[22] Le bénéficiaire et le payeur d'une ordonnance de soutien peuvent aussi demander au directeur de retirer une ordonnance de soutien, auquel cas le directeur cessera de l'exécuter. Elle pourra être redéposée en vue de son exécution, avec la permission du directeur (voir les paragraphes 9(4) et (5) de la LEOS). Aucune disposition de la LEOS n'exige le dépôt d'une nouvelle ordonnance. Il s'agit d'une autre preuve que l'obligation de soutien, telle qu'ordonnée antérieurement, existe toujours à ce moment.
+[23] L'appelant doit comprendre qu'une obligation peut exister, mais ne pas faire l'objet de mesures d'exécution. Je suis d'avis que le seul effet de la Formule 5 est de demander à l'administration de la Cour du B.R. et au directeur de cesser l'ordonnance de soutien. D'ailleurs, on peut lire ce qui suit sur la Formule 5 :
+Le présent avis vous enjoint de retirer l'ordonnance de soutien qui a été déposée aux fins de son exécution.
+[24] En résumé, seule une ordonnance de la Cour du B.R. pouvait mettre fin aux obligations de l'appelant aux termes de l'Ordonnance. La preuve a révélé que l'Ordonnance n'avait pas été révoquée, mais que seules les mesures d'exécution avaient été arrêtées. L'obligation de l'appelant survit indépendamment des mesures visant son exécution. Par conséquent, l'appelant n'avait pas droit pendant les années en question au crédit d'impôt équivalent pour personne entièrement à charge prévu à l'alinéa 118(1)b) de la Loi puisqu'il était tenu pendant les années d'imposition en question de payer une pension alimentaire pour son fils.
+[25] Pour tous ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2011.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2011 CCI 511
+Nº DU DOSSIER DE LA COUR : 2010-2909(IT)I
+INTITULÉ DE LA CAUSE : DANIEL ROY c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmunston (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : le 3 mai 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 7 novembre 2011
+COMPARUTIONS :
+Représentant de l'appelant :
+Michel Dumont
+Avocate de l'intimée :
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,144 @@
+Title: Sandhu v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25080/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-50-25080-sandhu-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-01-25
+
+# Sandhu v. The Queen
+
+- Citation: 2006 CCI 50
+- Decision date: 2006-01-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2490, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sandhu v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-25
+Référence neutre
+2006 CCI 50
+Numéro de dossier
+2004-4817(GST)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2006CCI50
+Date : 20060125
+Dossier : 2004-4817(GST)I
+ENTRE :
+SUKHRAJ K. SANDHU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Révisés à partir de la transcription des motifs du jugement rendus oralement à l'audience à Edmonton (Alberta), le 15 décembre 2005)
+Le juge Little
+[1] L'appel a été entendu à Edmonton, en Alberta, le mardi 13 décembre 2005.
+[2] L'appelante est mariée au Dr Sarinder Sandhu. Elle et son mari résident au 2027, 36e Rue, à Edmonton. La période visée par l'appel débute le 1er janvier 2001 et se termine le 31 décembre 2003 (ci-après la « période en cause » ).
+[3] Pendant la période en cause, l'appelante poursuivait les activités commerciales suivantes à titre de propriétaire unique :
+A. L'appelante était propriétaire d'un bien immobilier à usage commercial situé au 56 - 9703, 41e Avenue, à Edmonton; elle louait l'appartement à une clinique qui appartenait à son mari et était exploitée par ce dernier;
+B. L'appelante fournissait des services de nettoyage et d'entretien à la clinique de son mari;
+C. L'appelante fournissait des services de réponse téléphonique à la clinique de son mari.
+[4] Dans son témoignage, l'appelante a affirmé qu'elle recevait habituellement de 10 à 18 appels téléphoniques par jour concernant la clinique de son mari. Au cours de ces appels téléphoniques, l'appelante fixait des rendez-vous, modifiait des rendez-vous et prenait d'autres dispositions pour la clinique.
+[5] Lors de son témoignage, l'appelante a mentionné que, pendant la période en cause, elle a également mis sur pied un nouveau commerce de distribution de divers suppléments de santé. Les suppléments étaient vendus à des clients de la clinique de son mari de même qu'à diverses autres personnes. L'appelante a déclaré que le commerce de distribution des suppléments connaît maintenant du succès même si ce n'était pas le cas pendant la période en cause.
+[6] L'appelante était inscrite pour l'application des dispositions relatives à la taxe sur les produits et services (la « TPS » ) prévues par la Loi sur la taxe d'accise (la « Loi » ).
+[7] L'appelante facturait la TPS à l'égard des fournitures de biens commerciaux ainsi que des services de nettoyage et d'entretien, mais non des services de réponse téléphonique rendus à la clinique de son mari.
+[8] Le Dr Sandhu détient l'ensemble des actions émises de l'Alberta Wellness Clinic. Il est docteur en thérapie homéopathique et il pratique à l'Alberta Wellness Clinic située au 56 - 9703, 41e Avenue. L'Alberta Wellness Clinic n'est pas inscrite pour l'application des dispositions relatives à la TPS, puisqu'elle bénéficie d'une exemption accordée par l'Agence du revenu du Canada (l' « ARC » ).
+[9] L'appelante a produit une déclaration de TPS précisant le montant de taxe perçu et les sommes réclamées à titre de crédits de taxe sur les intrants pour un certain nombre d'articles. M. Kevin Price, vérificateur à l'ARC, a procédé à une vérification des commerces de l'appelante. La période initialement visée par la vérification allait du 30 juin 2003 au 30 septembre 2003. Cependant, lors de son témoignage, M. Price a mentionné qu'il avait par la suite étendu sa vérification à l'ensemble de la période, soit du 30 juin 2001 au 31 décembre 2003.
+[10] M. Price a été appelé à témoigner par l'avocate de l'intimée. Il a affirmé qu'après avoir envoyé plusieurs lettres à l'appelante et après avoir discuté avec l'expert-comptable de cette dernière, ses demandes de renseignements étaient restées lettre morte; il a donc établi une nouvelle cotisation (la première nouvelle cotisation) dans laquelle il a refusé tous les crédits de taxe sur les intrants demandés par l'appelante et apporté d'autres redressements. L'appelante a produit un avis d'opposition. La section des appels a examiné la question avec l'appelante et son mari et a établi une deuxième nouvelle cotisation. Dans cette deuxième nouvelle cotisation, la section des appels de l'ARC a fait droit à certains des crédits de taxe sur les intrants demandés, mais elle a également confirmé le traitement de nombreux éléments de la première nouvelle cotisation.
+[11] Les points en litige dont je suis saisi sont les suivants :
+Premier point - TPS relative aux crédits de taxe sur les intrants
+[12] Cela concerne les crédits de taxe sur les intrants relatifs aux services publics offerts à la résidence de la 36e Rue, à Edmonton. L'appelante a déduit des crédits de taxe sur les intrants équivalant à 50 p. 100 de la TPS payée pour les services publics liés à sa résidence. Le ministre du Revenu national (le « ministre » ) n'a accepté aucune déduction à ce titre.
+[13] Dans son témoignage, l'appelante a mentionné qu'elle utilisait une grande partie de sa maison dans la poursuite de ses diverses activités commerciales pendant la période en cause. J'ai minutieusement examiné le témoignage de l'appelante ainsi que celui de son mari et je suis persuadé que l'appelante a le droit de réclamer 35 p. 100 de la TPS payée pour les services publics liés à la résidence pour la période en cause. Je ne puis accepter la réclamation initiale de 50 p. 100, parce que je ne suis pas convaincu que 50 p. 100 de la maison a servi à des fins commerciales. J'ai tiré cette conclusion parce que, selon les témoignages, les services de réponse téléphonique étaient rendus à partir de la chambre à coucher de l'appelante. Or, on ne peut prétendre que la chambre à coucher servait exclusivement à des fins commerciales.
+[14] Je conclus donc qu'il y a lieu d'accorder une proportion de 35 p. 100 plutôt que la proportion de zéro p. 100 appliquée par le ministre et celle de 50 p. 100 réclamée par l'appelante.
+Deuxième point - TPS sur les véhicules
+[15] L'appelante a déclaré pendant son témoignage qu'en 2001 et 2002, elle et son mari étaient propriétaires de deux véhicules, à savoir une Honda CRV et une fourgonnette Dodge Voyageur. Le 10 septembre 2003, l'appelante a acheté une Mercedes ML320 1999 au prix de 34 940,00 $ (voir la pièce A-8).
+[16] Cette somme englobait une TPS payée de 2 100,00 $. Lorsqu'elle a produit sa déclaration de revenus pour l'année 2000, l'appelante a précisé que la Honda CRV était utilisée à 50 p. 100 à des fins commerciales et à 50 p. 100 à des fins personnelles. Cela ressort clairement de la déclaration de revenus pour 2000, dans laquelle l'appelante a demandé une déduction pour amortissement de 975,00 $. Lorsque l'appelante a produit sa déclaration de revenus pour 2001, aucune déduction pour amortissement au titre d'une automobile n'a été demandée. Je vous renvoie à la pièce produite pour l'année 2001.
+[17] Lorsque l'appelante a produit sa déclaration de revenus pour 2002, elle s'est prévalue d'une déduction pour amortissement de 663,00 $, somme calculée en fonction d'une utilisation à des fins commerciales de l'ordre de 50 p. 100.
+[18] Lorsque l'appelante a produit sa déclaration de revenus pour l'année d'imposition 2003, aucune déduction pour amortissement n'a été demandée au titre de l'automobile. Les points en litige en ce qui concerne la TPS relative aux automobiles sont les suivants. Tout d'abord, la somme de 2 100,00 $ payée pour la TPS au moment de l'achat de la Mercedes par l'appelante le 10 septembre 2003. L'appelante et son mari soutiennent que la Mercedes servait en grande partie ou presque entièrement à des fins commerciales. Le ministre n'a accordé aucun crédit de taxe sur les intrants ( « CTI » ) dans les calculs relatifs à la Mercedes.
+[19] Outre la TPS payée au moment de l'achat de la Mercedes, l'appelante a aussi réclamé des crédits de taxe sur les intrants au titre de la TPS payée sur l'essence consommée par la Honda CRV en 2001, 2002 et 2003.
+[20] Au cours de l'audience, le Dr Sandhu a affirmé qu'après avoir examiné la situation de façon plus approfondie, il croit que la Honda CRV a été utilisée par son épouse de la manière suivante :
+2000 2001 2002 2003
+Fins commerciales 50 % 50 % 60 % 70 %
+Fins personnelles 50 % 50 % 40 % 30 %
+[21] Après avoir examiné l'ensemble de la preuve, je suis disposé à accepter le témoignage du Dr Sandhu concernant le traitement commercial de la Honda CRV pour les années visées par l'appel, comme il est précisé ci-dessous :
+2001 2002 2003
+Fins commerciales 50 % 60 % 70 %
+Fins personnelles 50 % 40 % 30 %
+[22] Il s'ensuit donc que l'appelante devrait être autorisée à réclamer des crédits de taxe sur les intrants au titre de l'utilisation de la Honda CRV relativement à 50 p. 100 des coûts engagés en 2001, à 60 p. 100 des coûts engagés en 2002 et à 70 p. 100 des coûts engagés pour utiliser le véhicule en 2003.
+[23] Je ne suis pas convaincu que l'appelante devrait pouvoir déduire un crédit de taxe sur les intrants de 2 100,00 $ au titre de la Mercedes. Je suis arrivé à cette conclusion, parce que je ne crois pas qu'il soit raisonnable d'accepter qu'un véhicule a été utilisé au moins 90 p. 100 du temps à des fins commerciales alors que seul un très faible revenu a été tiré de l'entreprise de distribution jusqu'en décembre 2003.
+[24] De surcroît, l'appelante a mentionné dans son témoignage qu'à partir du 1er janvier 2003 jusqu'à tout le moins le 10 septembre 2003, elle utilisait la Honda CRV à 70 p. 100 à des fins commerciales.
+[25] La question de l'utilisation commerciale de la Mercedes pourrait être soulevée dans les années futures. Il incombe à l'appelante de fournir des éléments de preuve de l'utilisation commerciale afin de calculer les dépenses et la TPS déductibles pour ces années.
+[26] Avant de passer à un autre point, il convient de signaler que, comme l'appelante n'a pas demandé de déduction pour amortissement relativement au véhicule en 2003, elle pourrait souhaiter produire une nouvelle déclaration de revenus pour 2003 ou informer les fonctionnaires de l'ARC de la situation pour qu'ils lui permettent de réclamer une déduction pour amortissement pour 2003. Il importe de préciser qu'il s'agit d'un choix laissé à l'appelante. Cette mesure est optionnelle, et non pas obligatoire.
+[27] Il y a deux autres points relatifs à la TPS sur lesquels je souhaite me pencher. L'appelante allègue qu'en 2003, elle a versé des salaires s'élevant à 4 900,00 $. Elle a mentionné avoir payé 900,00 $ à son beau-père, 2 000,00 $ à sa fille et 2 000,00 $ à son fils. Le Dr Sandhu a confirmé que son père, sa fille et son fils avaient tous ajouté ces sommes à leur revenu gagné cette année-là.
+[28] Je suis disposé à accepter le témoignage de l'appelante et celui du Dr Sandhu sur ce point et la somme de 4 900,00 $ inscrite à titre de salaires à la page 7 de la déclaration de revenus pour 2003 (pièce A-9) doit être accordée comme une dépense de l'appelante.
+[29] Le deuxième point concerne l'omission de l'appelante de facturer la TPS sur les frais payés pour les services de réponse téléphonique qu'elle a rendus à la clinique de son mari. L'appelante a affirmé que les frais qu'elle a facturés à la clinique s'élevaient à 700,00 $ par mois pour chaque mois de 2001, de 2002 et de 2003. L'appelante et le Dr Sandhu ont tous deux déclaré dans leur témoignage qu'aucune TPS n'avait été facturée relativement à ces frais, parce qu'un fonctionnaire de l'ARC leur avait dit qu'il n'y avait pas lieu de demander la TPS de sept p. 100 puisque le revenu était partagé entre l'appelante, son beau-père, sa fille et son fils.
+[30] À ma connaissance, il n'existe aucune exemption de TPS du genre de celle mentionnée par l'appelante en cas de partage du revenu et, par conséquent, j'estime que la TPS s'applique à la somme payée pour les services de réponse téléphonique.
+[31] Cependant, je ne suis pas convaincu de l'opportunité d'imposer une pénalité relativement à ces frais, puisque j'estime que l'appelante et son mari croyaient sincèrement que les frais n'étaient pas assujettis à la TPS.
+[32] Quant aux pénalités imposées, je conclus que, lorsque le ministre effectuera les redressements susmentionnés, il devrait toutes les éliminer. Cette conclusion se fonde sur les motifs suivants : je suis persuadé que l'appelante a tenté de se conformer aux dispositions de la Loi et qu'elle a fait de son mieux pour produire des déclarations de revenus comme il se doit. De plus, il y a eu confusion au sujet de la vérification lorsque M. Price n'a pas reçu une réponse de l'expert-comptable de l'appelante.
+[33] Enfin, il paraît y avoir eu des difficultés en ce qui concerne la section du recouvrement de l'ARC.
+[34] Maintenant, quant à l'expert-comptable, il me semble, à la lumière des témoignages, que le Dr Sandhu et Mme Sandhu n'ont pas eu connaissance de la lettre de M. Price leur demandant d'autres renseignements. Il y a eu rupture de communication entre M. Price, l'expert-comptable et l'appelante. Pour ces motifs, je ne crois pas qu'une pénalité soit justifiée.
+[35] Avant de terminer, je souhaite ajouter que j'ai été impressionné par l'éthique du travail manifestée par l'appelante et son mari. À l'avenir, j'incite vivement ces derniers à tenir des livres comptables adéquats et à continuer de faire appel à leur expert-comptable en ce qui a trait aux questions de TPS et d'impôt sur le revenu afin de faire en sorte que des problèmes de la nature de ceux dont je suis saisi ne se produisent plus.
+[36] L'appel est accueilli sans frais et le ministre doit effectuer les redressements conformément à ce qui précède.
+Signé à Ottawa, Canada, ce 25e jour de janvier 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 23e jour d'octobre 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE :
+2006CCI50
+NO DU DOSSIER DE LA COUR :
+2004-4817(GST)I
+INTITULÉ DE LA CAUSE :
+Sukhraj K. Sandhu c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Edmonton (Alberta)
+DATE DE L'AUDIENCE :
+Le 13 décembre 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge L.M. Little
+DATE DU JUGEMENT PRONONCÉ À L'AUDIENCE :
+Le 15 décembre 2005
+COMPARUTIONS :
+Représentant de l'appelante :
+M. Sarinder Sandhu
+Avocate de l'intimée :
+Me Marla Teeling
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée :
+Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+Référence : 2006CCI50
+Dossier : 2004-4817(GST)I
+ENTRE :
+SUKHRAJ K. SANDHU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+CERTIFICATION DE TRANSCRIPTION DES
+MOTIFS DU JUGEMENT
+Que la transcription certifiée conforme ci-jointe des motifs du jugement que j'ai rendus oralement à l'audience à Edmonton, Alberta, le 15 décembre 2005, soit déposée.
+« L.M. Little »
+Juge Little
+Signé à Ottawa, Canada, ce 25e jour de janvier 2006.
+Traduction certifiée conforme
+ce 23e jour d'octobre 2006.
+Christian Laroche, LL.B.

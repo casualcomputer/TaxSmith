@@ -1,0 +1,175 @@
+Title: Force & Lumière Électriques Inc c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29707/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-25-29707-force-lumi-re-lectriques-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-02-07
+
+# Force & Lumière Électriques Inc c. M.R.N.
+
+- Citation: 2007 CCI 25
+- Decision date: 2007-02-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6212, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Force & Lumière Électriques Inc c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-07
+Référence neutre
+2007 CCI 25
+Numéro de dossier
+2006-366(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-366(EI)
+ENTRE :
+FORCE & LUMIÈRE ÉLECTRIQUES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 15 janvier 2007, à Montréal (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Donald N. Kattan
+Avocate de l'intimé :
+Me Marie‑Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi (« Loi ») est accueilli, au motif que le travailleur n'exerçait pas un travail aux termes d'un contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi; conséquemment, la décision du ministre du Revenu national est annulée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour de février 2007.
+« Alain Tardif »
+Juge Tardif
+Référence : 2007CCI25
+Date : 20070207
+Dossier : 2006-366(EI)
+ENTRE :
+FORCE & LUMIÈRE ÉLECTRIQUES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de l'appel d'une décision en date du 22 novembre 2005 par laquelle le ministre du Revenu national (le « ministre ») a décidé que le travail exécuté par Nasrat Al‑Bashir du 13 avril 2003 au 16 avril 2004 l'avait été en vertu d'un contrat de louage de services.
+[2] Selon la décision, le travail en question avait été exécuté pour la société Force & Lumière Électriques inc., laquelle nie catégoriquement l'existence d'un tel contrat de louage de services, soutenant que le travail a été effectué par monsieur Al‑Bashir en vertu d'un contrat d'associé à titre d'entrepreneur.
+[3] Les faits tenus pour acquis pour établir et ratifier la décision dont il est fait appel sont énumérés au paragraphe 7 de la réponse à l'avis d'appel et se lisent comme suit :
+a) l'appelante, constituée en société le 18 décembre 1990, exploite une entreprise comme entrepreneur général dans le domaine de la construction; (admis)
+b) M. Pierre Tamine était l'unique actionnaire de l'appelante; (admis)
+c) le travailleur possède une formation d'ingénieur civil; (admis)
+d) le travailleur a rendu des services à l'appelante comme représentant et par après, comme conseiller technique de projets; (nié)
+e) le travailleur aurait débuté son travail auprès de l'appelante en mars 2002 en vertu d'une entente verbale; (nié)
+f) à titre de conseiller technique, les tâches du travailleur consistaient à s'occuper des soumissions, à rencontrer les fournisseurs et à s'assurer que les matériaux de construction soient livrés à temps; (nié)
+g) le travailleur a uniquement travaillé sur le projet de construction « Szeto » à titre de gestionnaire du projet; (admis)
+h) le travailleur n'avait pas à respecter un horaire précis de travail mais il devait contacter les clients et sous‑contracteurs de l'appelante durant les heures normales d'ouverture; (admis)
+i) le travailleur travaillait sous la direction et la supervision de M. Pierre Tamine; (nié)
+j) le travailleur demeurait en contact avec M. Tamine à qui il devait soumettre régulièrement des rapports verbaux et écrits; (nié)
+k) dans le cadre de son travail, le travailleur utilisait son automobile et en assumait personnellement tous les coûts; (admis)
+l) l'appelante fournissait un bureau, l'équipement et le matériel de bureau ainsi qu'un téléphone cellulaire au travailleur; (nié)
+m) selon l'entente initiale, le travailleur devait recevoir une rémunération annuelle variant entre 45 000 $ et 50 000 $; (nié)
+n) afin d'être rémunéré, l'appelante a exigé que le travailleur enregistre sa propre entreprise; (nié)
+o) le 22 juillet 2003, le travailleur enregistrait son entreprise sous la raison sociale de Conseils et Services Nasrat; (admis)
+p) durant la période en litige et plus précisément entre le 23 juillet 2003 et le 1er décembre 2003, le travailleur a reçu quatre chèques de l'appelante, totalisant 19 800 $, libellés au nom de son entreprise; (admis)
+q) il n'y a eu aucun versement de salaire au nom du travailleur ou de son entreprise entre décembre 2003 et avril 2004; (admis)
+r) le travailleur a logé une plainte à la Commission des normes du travail pour récupérer le salaire non versé par l'appelante; (admis)
+[4] L'appelante a admis les faits mentionnés aux alinéas a), b), c), g), h), k), o), p), q) et r); elle a nié les autres, soient d), e), f), i), j), l), m) et n).
+[5] Les deux parties au contrat de travail litigieux ont soumis des preuves totalement contradictoires; la décision dépend essentiellement de la question de savoir quelle version est la plus crédible et vraisemblable.
+[6] Monsieur Pierre Tamine, seul actionnaire et administrateur de la société appelante, a d'abord expliqué qu'il exploitait cette entreprise qui exécutait des travaux électriques, et ce, bien qu'elle détenait les permis pour faire du travail d'entrepreneur général.
+[7] À la fin de l'année 2001, la société appelante oeuvrait dans ce domaine au moment où monsieur Tamine a rencontré Nasrat Al‑Bashir dans un terrain de stationnement attenant au bureau de l'appelante.
+[8] Parlant tous deux arabe, ils se sont rapidement rapprochés; ils se rencontraient de plus en plus souvent, jusqu'au jour où ils discutèrent d'affaires, se rendant compte qu'ils avaient tous deux des formations et des compétences synergiques en matière de construction.
+[9] Selon monsieur Pierre Tamine, une entente verbale serait alors intervenue en vertu de laquelle les nouveaux amis feraient ensemble certains travaux de construction, et cela, à titre de co-entrepreneurs associés.
+[10] La base de l'entente était une participation aux profits en parts égales. Selon monsieur Tamine, il était clair que sa société ne rembourserait aucune dépense, ne fournirait aucun bureau et ne payerait aucun salaire et que sa seule et unique obligation consistait à remettre à Nasrat Al‑Bashir 50% des profits réalisés lors d'un éventuel projet, lequel est venu à peu près à ce même moment.
+[11] Monsieur Tamine a produit les états financiers de l'appelante et affirme que l'appelante n'aurait jamais accepté de payer à Nasrat Al-Bashir un salaire nettement supérieur à ce que monsieur Tamine lui-même recevait.
+[12] Dans les faits, monsieur Nasrat Al‑Bashir a été appelé à travailler à un seul projet bien précis, soit le projet de construction « Szeto », où il a manifestement joué un rôle fort important, le tout étant d'ailleurs solidement établi par les nombreux documents produits en liasse sous la cote I‑5. D'ailleurs, le fait que Nasrat Al‑Bashir ait travaillé n'a pas fait l'objet de contestation de la part de l'appelante, qui a admis la participation de ce dernier.
+[13] Durant toute la période en litige, les seuls versements ou paiements qui ont été faits à Nasrat Al‑Bashir ont été versés par quatre chèques aux dates et aux montants suivants :
+Date
+Numéro du chèque
+Montant
+1) 23 juillet 2003
+2) 23 juillet 2003
+3) 28 octobre 2003
+4) 1er décembre 2003
+0592
+0598
+0680
+0740
+TOTAL
+10 000 $
+2 200 $
+1 600 $
+6 000 $
+19 800 $
+[14] Selon la version de monsieur Tamine, il s'agissait là d'avances. Or, il m'est apparu assez surprenant que des avances de près de 20 000 $ soient effectuées à un moment où il n'était ni évident, ni certain que le projet générerait des profits de plus de 40 000 $, soit au moins le double des sommes avancées.
+[15] Le 15 novembre 2004, monsieur Nasrat Al‑Bashir intentait des procédures judiciaires (pièce A‑2) auprès de la Commission des normes du travail pour recouvrer la somme de 55 854,24 $ en plus des montants reçus et décrits au paragraphe 13 de ce jugement au motif qu'il n'avait jamais été payé pour la majeure partie de son travail.
+[16] À la suite de ces procédures judiciaires, un règlement est intervenu aux termes desquels la société appelante a accepté de payer 4 000 $ pour acheter la paix et éviter un long et coûteux procès.
+[17] De son côté, témoignant à la demande de l'intimé, monsieur Nasrat Al‑Bashir a tenu un tout autre langage. Il a affirmé avoir travaillé comme salarié pour Pierre Tamine à un salaire qui devait se situer entre 40 000 $ et 50 000 $ par année.
+[18] Dans les faits, plusieurs mois se sont écoulés avant qu'il ne reçoive les avances ou montants décrits au paragraphe 13 de ce jugement. Faisant totalement confiance à monsieur Tamine, il a soutenu qu'il possédait un peu d'argent personnel au début du projet, ce qui l'avait rendu patient, en ce sens qu'il acceptait de travailler sans recevoir de paye durant les jours et les semaines suivant l'exécution du travail. Il a aussi affirmé n'avoir jamais rien reçu pour le remboursement de ses dépenses.
+[19] Il a affirmé que la société, qui avait été enregistrée le 22 juillet 2003, et au nom duquel furent libellés les quatre chèques décrits au paragraphe 13 du présent jugement, avait été constituée à la demande expresse de Pierre Tamine; il s'agissait, selon lui, d'une exigence pour recevoir de l'argent, ce qui semble vraisemblable comme explication, puisque les deux chèques les plus importants sont datés du 23 juillet, soit le lendemain.
+[20] Quant à la raison de la déclaration de raison sociale (pièce A-4), il a affirmé que cela avait été fait à la demande de Pierre Tamine, étant donné que celui‑ci ne voulait pas avoir à faire de retenues. Il a aussi expliqué qu'il avait un bureau dans la maison de Nasrat Al‑Bashir.
+[21] Je ne crois pas exagérer en affirmant que messieurs Tamine et Al-Bashir ont tenu des propos profondément différents, voire même contradictoires.
+[22] La preuve a établi que Nasrat Al-Bashir avait fait des démarches pour obtenir le remplacement d'un document officiel relatif à son identité, soit un certificat de citoyenneté. Pour en expliquer la perte, il a soutenu qu'il devait se rendre très régulièrement à l'étranger.
+[23] Lors du contre-interrogatoire, il a affirmé avoir travaillé de façon continue au service de l'appelante, sauf pour la durée des vacances légales.
+[24] Appelé à expliquer la différence entre les deux versions, il a soutenu que son avocat avait lui-même inventé l'explication des absences à l'extérieur du Canada.
+[25] De son côté, monsieur Tamine a soutenu que le fameux formulaire avait été complété par un stagiaire à son bureau et qu'il avait essentiellement reproduit en français les explications de monsieur Al-Bashir.
+[26] Aux questions relatives à la façon dont il avait traité les revenus, ou avances, il n'a pas été en mesure de répondre, si ce n'est qu'il n'avait pas encore produit sa déclaration de revenus pour l'année 2003.
+[27] Il ne s'agit pas d'une affaire où l'un des témoignages est totalement crédible et l'autre ne l'est carrément pas; il s'agit d'une affaire où il est nécessaire de prendre en considération plusieurs éléments et facettes afin de pouvoir être en mesure de conclure que la prépondérance de la preuve soumise favorise une version plutôt que l'autre.
+[28] D'entrée de jeu, cette démarche désavantage la thèse de l'appelante, puisque le fardeau de la preuve lui incombe. Par contre, la preuve soumise par les parties a fait ressortir un certain nombre de faits objectifs ayant une importance certaine pour évaluer la crédibilité ou la vraisemblance d'une version plutôt que l'autre.
+[29] J'ai notamment relevé les faits suivants :
+· Le fait que monsieur Nasrat Al‑Bashir aurait travaillé plusieurs mois sans recevoir un seul sou est très particulier;
+· Le fait qu'il intente des procédures judiciaires pour recouvrer une somme colossale correspondant au salaire non payé et qu'il signe ultérieurement une entente lui accordant une somme tout à fait minime correspondant à moins de 10% du montant réclamé, soit 4 000 $, est aussi assez particulier;
+· Nasrat Al‑Bashir réclame, par le biais de la Commission des normes du travail, plus de 50 000 $, alors qu'il a déjà reçu 19 800 $, ce qui totalise près de 70 000 $ en salaire, alors qu'il a affirmé que l'entente faisait mention d'un salaire se situant entre 40 000 $ et 50 000 $ par année, ce qui en soi était considérable eu égard à la capacité de payer de l'appelante;
+· Il a déboursé des frais pour l'utilisation de son automobile qu'il ne réclame pas ni n'obtient de l'appelante;
+· Il n'a pas produit de déclaration de revenus pour les années 2002 et 2003;
+· Il signe une déclaration, à l'appui d'une demande pour obtenir une copie d'un certificat de citoyenneté, dont le contenu est tout à fait contradictoire avec sa version des faits, à savoir qu'il a travaillé d'une manière continue sans quitter le pays, alors que dans sa demande, il allègue être très souvent à l'extérieur du pays;
+· Il déclare que la demande a été complétée par son avocat alors que monsieur Tamine prétend qu'un stagiaire l'a faite;
+· Accepter les prétentions de Nasrat Al‑Bashir voudrait dire que monsieur Tamine aurait accepté de lui verser un salaire supérieur à celui que sa société lui versait.
+[30] Outre ces faits, je crois également important de tenir compte de certains autres éléments. Très scolarisé et sachant manifestement les conséquences d'un travail à titre d'entrepreneur par opposition à un travail fait comme salarié, monsieur Al‑Bashir accepte d'enregistrer une déclaration de raison sociale même si, selon lui, il s'agissait de l'idée, voire même de l'exigence, de monsieur Tamine.
+[31] Pour les mêmes raisons que celles indiquées au paragraphe précédent, il accepte que tous les chèques qu'il a reçus soient payables à l'ordre de la société qu'il a accepté de créer.
+[32] À l'appui de sa preuve, l'intimé a principalement fait valoir trois arguments.
+[33] Dans un premier temps, un volumineux document (pièce I‑5) a été produit. Certes, le document fournit des renseignements intéressants, à savoir que monsieur Nasrat Al‑Bashir avait, de toute évidence, joué un rôle très important, mais aussi continu. Cette réalité n'est cependant pas irréconciliable avec la position de l'appelante, qui reconnaît l'apport et le travail réel de Nasrat Al‑Bashir lors de l'exécution des travaux pour le projet de construction « Szeto ».
+[34] Dans un deuxième temps, le fait que Nasrat Al‑Bashir ait signé et reçu plusieurs documents atteste, certes, qu'il a effectué un travail important; cela ne valide pas pour autant la thèse voulant qu'il se soit agi d'un contrat de louage de services.
+[35] Les pièces I‑1 et I‑2, dont le premier est un projet alors que l'autre est la version finale, qui étaient considérées comme éléments déterminants par Nasrat Al‑Bashir, puisqu'il accepte de régler pour 4 000 $ sa réclamation de plus de 50 000 $, pourraient vouloir dire qu'il a ainsi voulu protéger ses droits dans une éventuelle démarche pour obtenir des prestations d'assurance‑emploi.
+[36] Finalement, l'enjeu est considérablement plus important pour monsieur Al‑Bashir qu'il ne l'est pour l'appelante.
+[37] En effet, l'issue du présent dossier pourrait justifier l'obtention d'importantes prestations d'assurance‑emploi, alors que pour l'appelante, cela pourrait avoir pour effet qu'elle doive essentiellement rembourser les cotisations d'assurance‑emploi, dont le montant serait sans doute très faible comparé à celui d'éventuelles prestations d'assurance‑emploi.
+[38] Tant monsieur Tamine que monsieur Al‑Bashir sont des personnes très scolarisées qui ont toutes deux de l'expérience et de l'expertise en matière de construction.
+[39] À partir de cette réalité, il ne faut pas sous‑estimer la valeur et la portée juridique de certains actes, le bénéficiaire des chèques et la création d'une entreprise par monsieur Al‑Bashir. À eux seuls, ces éléments, bien qu'importants pour connaître l'intention des parties, ne sont peut‑être pas déterminants; par contre, ils façonnent le dossier d'une façon que d'autres facettes ont validée.
+[40] Je fais notamment référence au fait qu'il n'y a eu aucun remboursement de dépenses, que monsieur Al‑Bashir utilisait sa voiture pendant plusieurs mois sans rien recevoir, qu'il a accepté un montant insignifiant en règlement d'une réclamation de plus de 50 000 $, qu'il a travaillé des mois sans rien recevoir, etc.
+[41] Pour toutes ces raisons, je conclus que la prépondérance de la preuve milite en faveur de l'appelante, en ce sens que la version des faits de l'actionnaire unique, Pierre Tamine, est plus vraisemblable et surtout plus raisonnable et crédible.
+[42] En conséquence, je fais droit à l'appel au motif que le travail exécuté par Nasrat Al-Bashir du 13 avril 2003 au 16 avril 2004 a été effectué aux termes d'un contrat d'entreprise à titre d'associé et non pas de salarié.
+Signé à Ottawa, Canada, ce 7e jour de février 2007.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2007CCI25
+NO DU DOSSIER DE LA COUR : 2006-366(EI)
+INTITULÉ DE LA CAUSE : Force & Lumière électriques c. MRN
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE: le 15 janvier 2007
+MOTIFS DU JUGEMENT PAR : l'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 7 février 2007
+Comparutions :
+Avocat de l'appelante :
+Me Donald N. Kattan
+Avocate de l'intimé :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Étude :
+Ville :
+Me Donald N. Kattan
+Péloquin Kattan s.e.n.c.
+Montréal (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

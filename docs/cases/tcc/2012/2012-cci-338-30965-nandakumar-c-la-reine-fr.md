@@ -1,0 +1,235 @@
+---
+title: "Nandakumar c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30965/index.do"
+last_modified: "2012-09-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 338"
+citation2: ""
+neutral_citation: "2012 CCI 338"
+decision_date: "2012-09-27"
+language: "fr"
+item_id: "30965"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4839
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:23:52.956000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "720b247a33ef9d97b82429006c6744138b98c74868de916d96ba48231ea9877d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nandakumar c. La Reine
+
+- Citation: 2012 CCI 338
+- Decision date: 2012-09-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4839, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nandakumar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-09-27
+Référence neutre
+2012 CCI 338
+Numéro de dossier
+2009-2627(IT)G, 2009-2689(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2009-2627(IT)G
+2009-2689(IT)G
+ENTRE :
+VIKRAM NANDAKUMAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 15 et 16 mai 2012,
+à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge Randall Bocock
+Comparutions :
+Avocat de l’appelant :
+Me Terry S. Gill
+Avocat de l’intimée :
+Me Bruce Senkpiel
+____________________________________________________________________
+JUGEMENT
+1. Conformément aux motifs du jugement rendus le même jour, sont rejetés les appels interjetés en vertu de la Loi de l’impôt sur le revenu à l’égard des avis de cotisation suivants :
+a) l’avis de cotisation numéro 690739 daté du 15 septembre 2008 faisant état d’un montant de 45 818,07 $ relatif au transfert d’un bien à l’appelant, ledit bien étant situé au 4502, avenue Martingale, à Langley (Colombie‑Britannique), numéro d’identification de la parcelle (« NIP ») 010‑536‑094;
+b) l’avis de cotisation numéro 690740 daté du 15 septembre 2008 faisant état d’un montant de 264 499 $ relatif au transfert d’un bien à l’appelant, ledit bien étant situé au 6031 Thetis Place, à Richmond (Colombie‑Britannique), NIP 001‑912‑909;
+c) l’avis de cotisation numéro 690741 daté du 12 septembre 2008 faisant état d’un montant de 33 899 $ relatif au transfert d’un bien à l’appelant, ledit bien étant situé au 6081 Number Three Road, app. 711, à Richmond (Colombie‑Britannique), NIP 024‑017‑167;
+d) l’avis de cotisation numéro 690742 daté du 12 septembre 2008 faisant état d’un montant de 14 049 $ relatif au transfert d’un bien à l’appelant, ledit bien étant situé au 10080 Kilby Drive, app. 30, à Richmond (Colombie‑Britannique), NIP 018‑506‑283.
+2. Les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 27e jour de septembre 2012.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 17e jour de janvier 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2012CCI338
+Date : 20120927
+Dossiers : 2009-2627(IT)G
+2009-2689(IT)G
+ENTRE :
+VIKRAM NANDAKUMAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+[1] Les présents appels portent sur le transfert de quatre parcelles de biens‑fonds (les « transferts ») effectués par un père et une mère à leur fils, soit à son seul nom, soit à son nom et à celui de sa mère. Le père de l’appelant devait régler des arriérés d’impôts substantiels. Par ailleurs, le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de l’appelant relativement aux transferts en application des dispositions du paragraphe 160(1) de la Loi de l’impôt sur le revenu (la « Loi »). Pour dire les choses simplement, aux termes de cette disposition, si l’auteur du transfert est tenu de payer de l’impôt, que le bien fait l’objet d’un transfert, que l’auteur et le bénéficiaire du transfert ont un lien de dépendance et que la juste valeur marchande du bien transféré est supérieure à la contrepartie donnée par le bénéficiaire du transfert, alors ce dernier est responsable de l’impôt à payer sur la valeur du bien moins la contrepartie donnée à l’auteur du transfert.
+I. Résumé de l’affaire, questions en litige et principes
+[2] Même si les parties ont exprimé des désaccords mineurs quant à la juste valeur marchande des biens‑fonds qui ont été transférés à l’appelant, la question cruciale que la Cour doit trancher porte sur la valeur de la contrepartie payée par l’appelant en sa qualité de bénéficiaire des transferts. Pour l’application du paragraphe 160(1) de la Loi, il convient de souligner que les obligations fiscales de l’auteur du transfert ne sont pas contestées, qu’un transfert a bien eu lieu et que l’appelant avait un lien de dépendance avec l’auteur du transfert.
+[3] En août 2000, le bien situé au 4502, avenue Martingale, à Langley (Colombie‑Britannique), numéro d’identification de la parcelle (« NIP ») 010‑536‑094 (le « bien de Martingale »), a été transféré à l’appelant en échange de la somme de 1 $ et de son amour et de son affection naturels, mais représentait un transfert dont la juste valeur marchande s’élevait à 279 000 $. C’est la question en litige dans le dossier qui porte le numéro de référence 2009-2627(IT)G.
+[4] En ce qui a trait au dossier qui porte le numéro de référence 2009-2689(IT)G, il est question de trois biens‑fonds qui ont fait l’objet des transferts suivants :
+Adresse
+Bien appelé
+Date du transfert
+Contrepartie offerte
+Juste valeur marchande du transfert
+6081 Number Three Road, app. 711, à Richmond (Colombie‑Britannique)
+NIP 024-017-167
+« Bien de Number Three Road »
+Le 21 juin 1999
+1 $ et amour et affection naturels
+32 000 $
+6081 Number Three Road, app. 711, à Richmond (Colombie‑Britannique)
+NIP 024-017-167
+« Bien de Number Three Road »
+Le 17 août 2000
+1 $ et amour et affection naturels
+33 900 $
+10080 Kilby Drive, app. 30, à
+Richmond (Colombie‑Britannique)
+NIP 018-506-283
+« Bien de Kilby »
+Le 21 juin 1999
+1 $ et amour et affection naturels
+90 200 $
+10080 Kilby Drive, app. 30, à
+Richmond (Colombie‑Britannique)
+NIP 018-506-283
+« Bien de Kilby »
+Le 17 août 2000
+1 $ et amour et affection naturels
+88 250 $
+6031 Thetis Place, à
+Richmond (Colombie‑Britannique)
+NIP 001-912-909
+« Bien de Thetis »
+Le 17 août 2000
+1 $ et amour et affection naturels
+520 000 $
+[5] D’un point de vue légal, le ministre a émis l’hypothèse selon laquelle les transferts faits à l’appelant, qui est le fils du débiteur fiscal, ont été effectués moyennant une contrepartie symbolique, ainsi qu’en témoignent à première vue les transferts enregistrés. Il appartient à l’appelant de réfuter ces hypothèses, de telle manière que les hypothèses du ministre resteront valides tant et aussi longtemps que l’appelant n’aura pas présenté de preuve démontrant, selon la prépondérance des probabilités, qu’une contrepartie (autre que la contrepartie symbolique offerte à l’occasion des transferts et consignée au système d’enregistrement des titres fonciers) a été offerte sous la forme d’un paiement, qu’il s’agisse d’une preuve de la dette ou de toute autre contrepartie donnée par le bénéficiaire du transfert à l’auteur dudit transfert.
+[6] En l’espèce, la question est essentiellement de savoir si une contrepartie égale à la juste valeur marchande des biens‑fonds a été offerte et il s’agit de la première question de fait sur laquelle la Cour s’est penchée. À cet égard, et bien que cette question ait été définie dès le départ comme un point en litige, l’appelant n’a présenté aucune preuve significative et directe sous la forme de témoignage, de rapport d’expert ou de documents pour contester les hypothèses du ministre relatives à la juste valeur marchande des biens.
+A. Les hypothèses de l’intimée
+[7] L’appelant n’a pas remis en cause ces hypothèses du ministre :
+a) L’appelant et ses parents, Nanda Duraisami (le père) et Malathi Nandakumar (la mère), avaient un lien de dépendance.
+b) Le père de l’appelant a trempé dans une affaire illégale de télémarketing au moyen de laquelle, en passant par des loteries étrangères, il soutirait de l’argent à des personnes âgées en leur demandant de lui envoyer des frais de préqualification fictifs. De tels agissements ont conduit le père de l’appelant à être déclaré coupable de fraude.
+c) De temps en temps, le père de l’appelant donnait à l’appelant de l’argent pour qu’il le dépose dans des comptes joints qu’il détenait avec sa mère, et aussi pour son seul bénéfice.
+d) Le père de l’appelant a manqué à son obligation de verser la somme de 4 225 985 $ à l’Agence du revenu du Canada.
+[8] Les questions de fait suivantes ont fait l’objet de contestations significatives ou correspondaient à des faits au sujet desquels l’appelant a présenté des preuves :
+a) Le montant de la contrepartie entrant dans la catégorie « autre contrepartie » constituait un point majeur. En ce qui a trait au bien de Number Three Road, l’appelant a soutenu que ses parents lui devaient la somme de 10 000 $ (la « dette envers l’appelant »), comme en atteste une hypothèque enregistrée, et aussi qu’il existait une hypothèque enregistrée de 56 550 $ (la « dette envers Vimal »). Les auteurs du transfert avaient apparemment contracté la dette envers Vimal auprès d’une société privée qu’ils contrôlaient, Vimal Enterprises Limited, dette que l’appelant aurait prise à sa charge par suite du transfert;
+b) L’appelant prétend avoir pris à sa charge la dette que son père avait envers sa sœur, Usha Surendra, tante de l’appelant, soit un montant de 658 650 $ (la « dette envers la tante de l’appelant »), la prise en charge d’une telle dette constituant une prise de responsabilité et une contrepartie valable payée par l’appelant à son père. Une hypothèque garantissant le remboursement de la dette envers la tante a été enregistrée sur les biens.
+[9] L’appelant a soutenu que l’extinction de la dette que ses parents avaient contractée envers lui par transfert et sa prise en charge à la fois de la dette envers Vimal et de la dette envers sa tante constituaient des contreparties valables satisfaisant l’exigence finale énoncée à l’alinéa 160(1)e) de la Loi parce qu’elles augmentaient proportionnellement la contrepartie donnée par l’appelant pour les biens pour atteindre un montant égal, ou supérieur, à la juste valeur marchande des biens.
+[10] En ce qui concerne la contrepartie offerte pour les transferts, le ministre a tenu compte de la prise en charge par l’appelant d’autres dettes envers des tierces parties, mais il n’a pas pris en considération la dette envers l’appelant, la dette envers Vimal et la dette envers la tante de l’appelant.
+B. Précisions relatives aux allégations de fait de l’appelant
+[11] L’appelant s’est efforcé de démolir les hypothèses du ministre en présentant les éléments de preuve suivants :
+a) L’existence d’une dette à l’égard de la tante de l’appelant était prétendument attestée par un simple billet à ordre (le « billet ») daté du 15 décembre 1999. L’appelant et sa mère ont rédigé ce billet sur une base solidaire. La bénéficiaire est la tante de l’appelant. L’appelant a donc présenté des éléments de preuve selon lesquels la dette envers sa tante, tel qu’elle est attestée par le billet, était garantie par deux documents hypothécaires distincts. Le premier document a été enregistré sur les titres de propriété des biens de Kilby et de Thetis. Le deuxième document hypothécaire a été enregistré sur les biens de Martingale et de Number Three Road.
+b) La dette envers la tante aurait aussi été attestée par le prétendu remboursement de certaines sommes à la tante, ces sommes ayant été tirées de la vente de deux des biens en cause, mais pas de tous les biens.
+c) Dans son témoignage direct et lors du contre‑interrogatoire, l’appelant a déclaré, au sujet de la dette envers sa tante :
+i) s’être entièrement fié aux dires de son père et de sa mère quant à l’existence, au montant et à la validité de cette dette;
+ii) avoir pris à sa charge la dette envers sa tante et l’arrangement connexe en signant un billet direct (par opposition à une entente de prise en charge);
+iii) avoir autorisé le remboursement de certaines sommes quand certains biens grevés ont été vendus.
+d) Lors du contre‑interrogatoire, l’intimée a obtenu de l’appelant les aveux de fait suivants :
+i) La dette envers la tante de l’appelant a été entièrement contractée à l’étranger, et, en dehors du fait que l’appelant s’est fié aux affirmations de son père relatives à l’existence de cette dette, elle n’est attestée par aucune preuve accessoire, directe ou documentaire, comme il en existerait entre débiteur et créancier primaires;
+ii) Bien qu’aucune preuve directe d’obtention par la tante de l’appelant du remboursement de la dette envers elle n’ait été présentée, la seule preuve indirecte de remboursement a révélé que tous les paiements avaient été effectués au père de l’appelant, qui a servi d’intermédiaire pour rembourser la tante de l’appelant;
+iii) La mainlevée de l’hypothèque à l’égard de la sûreté pour la tante a eu lieu le même jour que l’exécution de la garantie hypothécaire;
+iv) Lors de l’interrogatoire préalable, l’appelant a donné un témoignage contradictoire quant à savoir s’il avait exécuté un billet à ordre, alors qu’au procès il a affirmé de manière beaucoup plus catégorique l’avoir fait. De même, ses déclarations relatives à une rencontre avec sa tante en 1999 étaient contradictoires;
+v) À l’âge de 18 ou 19 ans, bien qu’il prétende ne pas avoir joué de rôle actif dans l’établissement des menus détails de ces questions d’affaires, l’appelant était le propriétaire enregistré de trois véhicules motorisés et d’un certain nombre de biens-fonds (tant résidentiels que commerciaux) et le titulaire d’un compte de négociation que son père lui avait ouvert afin qu’il puisse [traduction] « apprendre les ficelles » des opérations sur actions;
+vi) À l’époque des transferts, le père de l’appelant a été accusé de fraude à la loterie aux États‑Unis et déclaré coupable;
+vii) Une ordonnance rendue par la Cour suprême de la Colombie‑Britannique exigeait de l’appelant qu’il verse la somme de 36 000 $ à la Couronne sous forme de dépôt sur le compte de négociation sur actions afin de satisfaire à une ordonnance en dédommagement conjoint établie à son égard.
+e) En ce qui a trait à la dette envers Vimal et à la dette envers l’appelant, en dehors de la garantie hypothécaire enregistrée, aucun billet garanti, avance d’argent ou autre preuve documentaire n’ont été présentés pour prouver l’existence d’une dette, d’un prêt ou d’une avance véritables. Le témoignage de vive voix de l’appelant constitue la seule preuve de l’existence d’une telle dette, d’un tel prêt ou d’une telle avance.
+C. La crédibilité
+[12] Il ne fait aucun doute que l’appelant s’est comporté en fils loyal et dévoué, mais les incohérences abondent dans son témoignage quand il affirme :
+a) qu’il était trop jeune et naïf ou distrait pour prêter attention à l’exécution du billet de quelque 658 650 $, alors que, parallèlement à cela, il apprenait les ficelles des marchés boursiers avec un compte de négociation sur lequel se trouvait un solde qui était à l’origine bien plus élevé que les 38 000 $ qui restaient au moment où il a dû remettre ce compte entre les mains des autorités;
+b) qu’à l’âge de 18 ans, il a pu prêter la somme de 10 000 $ à ses parents, alors qu’il avait déclaré à l’époque en question que son revenu imposable s’élevait à 1 100 $ une année et à [traduction] « zéro » l’année suivante. Il aurait amassé le montant du prêt en question à partir de cadeaux d’anniversaire et de petits emplois ponctuels;
+c) que bien qu’il prétende ne pas avoir prêté attention aux détails financiers concernant le billet au montant substantiel de 658 650 $, il a néanmoins été capable de se souvenir avec précision de quelque chose d’aussi détaillé que l’utilisation commerciale et la durée de possession de plusieurs biens immobiliers pendant la même période.
+D. Le droit
+[13] En ce qui concerne le paragraphe 160(1) de la Loi, dans l’arrêt Canada c. Livingston, 2008 CAF 89, la Cour d’appel fédérale a déclaré qu’il n’était pas pertinent de considérer l’intention comme une condition préalable à l’application du paragraphe 160(1). Si les quatre critères que la Cour d’appel fédérale a énumérés sont remplis, le bénéficiaire du transfert est tenu de payer des impôts aux termes de cette disposition.
+[14] Par conséquent, si l’auteur du transfert est tenu de payer des impôts, qu’un transfert de biens a lieu entre parties ayant un lien de dépendance et que la juste valeur marchande du bien est supérieure à la contrepartie donnée, le bénéficiaire du transfert est responsable de l’impôt à payer sur la différence.
+[15] Les trois premiers critères ont été soit admis soit non contestés.
+[16] En ce qui concerne le dernier critère, la Cour tire les conclusions suivantes :
+1. L’appelant n’a pas démoli l’hypothèse du ministre selon laquelle son père n’avait pas réellement contracté de dette à l’égard de sa tante, pour les raisons suivantes :
+a) aucune preuve crédible de l’existence d’une dette envers sa tante n’a été présentée, en ce sens que :
+i) aucun témoin ayant eu directement connaissance de l’existence d’une dette envers sa tante (c’est-à-dire son père ou sa tante) n’a témoigné à ce sujet;
+ii) la seule personne qui a témoigné, l’appelant, a admis lors du contre‑interrogatoire que les réponses qu’il a données lors de l’interrogatoire préalable et au moment du procès divergeaient en ce qui a trait à la question de savoir s’il avait effectivement rencontré sa tante, a déclaré ne pas avoir eu directement connaissance de l’existence d’une dette envers sa tante et a reconnu que ses priorités et intérêts de l’époque ne l’avaient pas incité à demander ou à solliciter davantage de preuves de l’existence de la dette;
+iii) l’appelant n’a présenté aucune preuve directe indiquant de quelque manière que ce soit qu’il a eu connaissance personnellement et directement de l’existence d’une dette envers sa tante;
+iv) d’un point de vue documentaire, l’appelant n’a présenté aucun chèque oblitéré ou avis bancaire relatif à des virements télégraphiques ou à des reçus de virements automatiques échangés par son père et sa tante en vue de prouver que le prêt existait en premier lieu et qu’il a été remboursé en second lieu. Dans le meilleur des cas, on dispose de l’indication selon laquelle l’argent a été avancé de l’étranger, mais, même quelque 16 ans après les faits présumés, et dans le cas où les preuves documentaires de tels virements remonteraient à 16 ans, sous forme de reçus, ou encore de reçus de virements par câble ou de virements automatiques, l’appelant n’a présenté aucune preuve, documentaire ou autre, afin de prouver la réception des sommes ou le remboursement; aucun témoin n’est venu expliquer de vive voix à la Cour pourquoi de telles preuves documentaires de l’existence d’un prêt contracté auprès de la tante de l’appelant n’étaient pas disponibles.
+2. De même, les hypothèses du ministre relatives à la non-existence de la dette envers l’appelant et de la dette envers Vimal doivent également être considérées comme valides dans la mesure où l’appelant n’a présenté aucune preuve accessoire crédible de l’existence d’une dette sous forme d’avances, de chèques ou d’autres preuves documentaires probantes. Le témoignage intéressé de l’appelant quant à l’existence d’une dette envers lui n’était pas crédible. Son témoignage a été discrédité encore davantage lors du contre‑interrogatoire, quand il a exprimé son point de vue quant à son droit privilégié à toucher certaines sommes lorsque l’entreprise de restauration de sa mère a fait faillite. Il a d’ailleurs touché la somme de 70 000 $, non appuyée de pièces justificatives, pour des services de conception et de marketing qu’il aurait fournis ainsi que pour [traduction] l’« apport de compétences » qu’il aurait investi dans l’entreprise en question.
+[17] Même si l’appelant n’a pas démoli les hypothèses de l’intimée, cette dernière a néanmoins présenté des preuves d’admissions concernant les déclarations du père de l’appelant, faites sous serment, selon lesquelles le père se serait servi de ses proches pour se constituer des abris sûrs pour l’argent qu’il tirait de ses activités illégales. Si les hypothèses initiales de l’intimée avaient été démolies, cette admission non contredite aurait pu renverser toute démolition de l’hypothèse selon laquelle la dette envers la tante de l’appelant, la dette envers Vimal ou la dette envers l’appelant n’ont jamais existé.
+[18] En fait, la Cour préfère l’admission directe contre intérêt faite par le père de l’appelant au cours de procès qui se sont tenus aux États‑Unis relativement au recours à un subterfuge pour transférer de l’argent à l’étranger (en plus de ses objectifs déclarés) par opposition aux connaissances vagues, incohérentes, indirectes et lointaines du fils dévoué, qui reconnaît lui-même qu’on ne peut pas s’attendre à ce qu’il se souvienne aujourd’hui de tels détails compte tenu de l’âge qu’il avait au moment des faits et de ses priorités et intérêts d’adolescent.
+[19] L’appelant a présenté un argument de droit selon lequel, en l’espèce, on devrait considérer l’existence d’un délai de prescription pour l’application du paragraphe 160(1) de la Loi. L’existence du billet, les hypothèques et la prise en charge de dettes sont autant de preuves prima facie du paiement d’une contrepartie qui exigeraient du ministre, s’il souhaite démolir ces éléments de preuve, qu’il fasse appel à d’autres lois ou à d’autres moyens légaux.
+[20] L’arrêt Canada c. Addison & Leyen Ltd., 2007 CSC 33, est définitif. La Cour suprême a infirmé la décision de la Cour d’appel fédérale, qui avait conclu à l’existence d’un délai de prescription qui n’existait pas. Dans ses motifs, la Cour suprême a déclaré que le fait que le Parlement ait eu recours à l’expression « en tout temps » signifie que la « longueur du délai écoulé » pour établir une cotisation à l’égard d’un contribuable ne peut pas donner lieu à une contestation. Une déclaration aussi explicite met un point final à l’argument de l’appelant relatif à un délai de prescription et à la nécessité pour le ministre d’avoir recours à une autre loi ou à un autre moyen légal pour établir une nouvelle cotisation à son égard en application du paragraphe 160(1) de la Loi.
+II. Conclusion
+[21] Comme il a été mentionné précédemment, la Cour conclut que les hypothèses du ministre selon lesquelles le père de l’appelant n’a pas contracté de dette envers la tante de l’appelant et que les dettes envers Vimal Enterprises et envers l’appelant n’existaient pas n’ont pas été réfutées par les preuves que l’appelant a présentées à la Cour.
+[22] Ainsi, la situation est la suivante :
+a) il n’y avait pas de dette envers la tante de l’appelant, de dette envers Vimal ou de dette envers l’appelant susceptible d’être prise en charge au moment des transferts ou après;
+b) l’appelant n’a pas payé d’autre contrepartie que celle dont il est fait état dans les affidavits et documents de transfert tels qu’ils ont été déposés au registre public et celle qui correspond à sa prise en charge d’une dette à l’égard d’une tierce partie de bonne foi telle qu’elle apparaît au registre public des titres fonciers, contrepartie que le ministre avait considérée comme valable au moment d’établir les nouvelles cotisations;
+c) étant donné que l’intimée a reconnu que les hypothèques en tant que telles étaient valides, je n’ai aucune conclusion à tirer relativement à ce fait. Les enregistrements représentent simplement des enregistrements valides, mais pour l’application du paragraphe 160(1) de la Loi, ils ne constituent pas une preuve définitive de l’existence d’une dette ou d’une somme due suffisant à réfuter les hypothèses du ministre, étant donné que la dette que les hypothèques en question étaient censées garantir n’existait pas à l’époque où ces garanties ont été accordées, compte tenu des preuves insuffisantes ou inexistantes que l’appelant a présentées en vue de réfuter les hypothèses du ministre.
+[23] En outre, aucune preuve n’a été présentée pour remettre en cause les hypothèses du ministre concernant la juste valeur marchande des biens, et, par conséquent, les nouvelles cotisations sont valides à cet égard également.
+[24] Pour ces motifs, les nouvelles cotisations établies par le ministre sont valides, les appels sont rejetés et les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 27e jour de septembre 2012.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 17e jour de janvier 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 338
+NOS DES DOSSIERS DE LA COUR : 2009-2627(IT)G
+2009-2689(IT)G
+INTITULÉ : Vikram Nandakumar c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATES DE L’AUDIENCE : Les 15 et 16 mai 2012
+MOTIFS DU JUGEMENT : L’honorable juge Randall Bocock
+DATE DU JUGEMENT : Le 27 septembre 2012
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Terry S. Gill
+Avocat de l’intimée :
+Me Bruce Senkpiel
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Terry S. Gill
+Cabinet : Gill Tax Law
+Vancouver (Colombie‑Britannique)
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,145 @@
+Title: Good Equipment Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28373/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-28-28373-good-equipment-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-01-14
+
+# Good Equipment Limited c. La Reine
+
+- Citation: 2008 CCI 28
+- Decision date: 2008-01-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1922, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Good Equipment Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-14
+Référence neutre
+2008 CCI 28
+Numéro de dossier
+2005-401(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-401(IT)G
+ENTRE :
+GOOD EQUIPMENT LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 23 novembre 2006, à
+Charlottetown (Île-du-Prince-Édouard).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocat de l’appelante :
+Me Edwin C. Harris, c.r.
+Avocate de l’intimée :
+Me Lynn Gillis
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998, 1999, 2000 et 2001 sont accueillis avec dépens et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 14e jour de janvier 2008.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 26e jour de février 2008.
+D. Laberge, LL.L.
+Référence : 2008CCI28
+Date : 20080114
+Dossier : 2005-401(IT)G
+ENTRE :
+GOOD EQUIPMENT LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Les présents appels se rapportent à des cotisations établies en vertu de la Loi de l’impôt sur le revenu[1] (la « Loi ») pour les années d’imposition 1998, 1999, 2000 et 2001 de l’appelante. Dans le cadre de son entreprise, l’appelante distribue au détail du matériel agricole à des agriculteurs, à l’Île‑du‑Prince‑Édouard. Un grand nombre des opérations que l’appelante conclut avec les agriculteurs se rapportent à la location de matériel plutôt qu’à des ventes; la question cruciale, dans les présents appels, est de savoir qui a la propriété effective de la machinerie que l’appelante loue à un client en vertu de ce que l’on a appelé dans la preuve une [traduction] « location-financement ». L’appelante soutient que lorsqu’elle livre du matériel à un client dans le cadre d’une location-financement, elle conserve la propriété effective du matériel et que le matériel, qui était antérieurement un élément d’inventaire, devient une immobilisation entre ses mains. La question est importante parce que, s’il s’agit d’une immobilisation amortissable de l’appelante, le matériel est visé par la définition de l’expression « bien admissible » figurant au paragraphe 127(9) de la Loi ainsi que par la définition de l’expression « machines prescrites ou […] matériel prescrit » figurant au paragraphe 4600(2) du Règlement de l’impôt sur le revenu, de sorte que l’appelante a droit à un crédit d’impôt à l’investissement (le « CII »).
+Les faits
+[2] Trent Good est président de l’appelante; il est responsable de la gestion quotidienne de la société. Dans son témoignage, il a décrit les opérations habituelles. M. Good est un concessionnaire qui vend et qui loue le matériel de Case Canada Ltd. (« Case »), principalement à des agriculteurs, mais aussi à quelques autres clients. La société vend ou loue également du matériel Kubota, mais aucune de ces opérations n’est ici en litige, et les conditions auxquelles les opérations ont lieu ne sont donc pas pertinentes quant aux fins qui nous occupent. Certaines ventes sont effectuées au comptant ou au moyen de contrats de vente conditionnelle, mais la plupart des opérations, et celles qui sont en cause dans les présents appels, se rapportent à la location de matériel, habituellement pour une durée de cinq ans. Les agriculteurs et leurs banquiers préfèrent généralement la location à cause de la souplesse qu’elle offre et parce que les versements sont habituellement moins élevés. Lorsqu’il conclut un contrat de location, M. Good obtient habituellement des propositions de prix de diverses sources à l’égard des fonds nécessaires, mais il finance généralement l’opération par l’entremise de Case Credit Ltd. (« Case Credit »), étant donné que cette dernière offre habituellement le taux le plus favorable.
+[3] Lorsque l’appelante conclut un contrat de location avec un client à l’égard du matériel de Case en vertu d’un contrat de location financé par Case Credit, le matériel est habituellement livré à M. Good auparavant, et M. Good est endetté envers Case à l’égard du prix d’achat. Lorsque le contrat de location est conclu, Case Credit verse le prix d’achat à Case, qui de son côté porte le montant au crédit du compte de l’appelante. Case Credit débite le compte de l’appelante à l’égard du prix d’achat. En vertu du contrat type de location-financement de Case Credit (le « CLF »), que l’appelante utilise pour documenter ces opérations[2], le preneur est obligé d’effectuer des versements mensuels en faveur de M. Good pendant toute la durée du contrat de location; à la fin du contrat de location, le preneur peut acheter le matériel pour une valeur finale dont il convient avec M. Good lorsqu’il conclut le contrat de location, laquelle est précisée dans le CLF. Sur le même formulaire, M. Good cède à Case Credit les versements mensuels et le titre afférent au matériel. Aux termes de la cession, M. Good doit verser à Case Credit, à la fin du contrat de location, le montant représentant la valeur finale du matériel, et il a le droit de se faire transférer de nouveau le titre légal afférent au matériel. Le formulaire type de CLF de Case Credit offre dans chaque cas au concessionnaire la possibilité de choisir un contrat prévoyant [traduction] « un plein recours », [traduction] « un recours limité », [traduction] « un recours sous forme de rachat » ou [traduction] « aucune possibilité de recours », lorsque celui‑ci prend des dispositions relatives à la location-financement. La preuve montrait d’une façon passablement claire que l’appelante a toujours choisi le [traduction] « plein recours » qui, aux termes du contrat, laissait l’appelante assumer le risque si les versements périodiques plus la valeur finale s’avéraient inadéquats aux fins du remboursement du montant dû à Case Credit, ou si le preneur omettait d’effectuer un versement. Comme M. Good l’a déclaré dans son témoignage, lorsqu’il paie le montant final qui est dû, Case Credit lui remet le titre afférent au matériel. Le preneur peut, à son gré, acheter le matériel de l’appelante à la fin du contrat de location pour la valeur finale précisée, à défaut de quoi, l’appelante doit chercher un acquéreur ailleurs pour le matériel d’occasion.
+[4] Andrew Orrosz a également témoigné. Pendant la période pertinente, il était directeur de l’exploitation chez Case Canada et chez Case Credit. Il a témoigné que, lorsqu’elle finançait un contrat de location pour un concessionnaire, Case Credit ne devenait pas propriétaire du matériel par suite de la cession avec plein recours prévue dans le CLF et qu’il croyait comprendre que la cession du titre en faveur de Case Credit n’était en somme qu’une garantie. Étant donné qu’elle estimait ne pas avoir la propriété effective du matériel, Case Credit ne demandait pas de CII à son égard. Elle faisait enregistrer les contrats de location-financement qui lui étaient cédés en vertu de la Personal Property Security Act provinciale. Comme M. Good, M. Orrosz a témoigné que chaque fois que Case Credit obtenait une cession de M. Good, c’était au moyen d’une entente prévoyant un plein recours, ce qui veut dire que si le preneur n’achetait pas le matériel à la fin du contrat, il incombait à M. Good de trouver un acquéreur pour le matériel, et M. Good assumait tous les risques se rattachant aux défauts de paiement. Si le matériel ne pouvait pas être vendu à sa valeur finale, c’était M. Good et non Case Credit qui assumait la perte. Par contre, en vertu de ce qu’on appelle l’entente LeaseRite, Case Credit acquiert le titre effectif afférent au matériel et assume le risque si, à la fin du contrat de location, le matériel vaut moins que la valeur finale.
+[5] Blair Corkum, C.A., a également témoigné pour l’appelante. M. Corkum possède son propre cabinet comptable, et l’appelante avait recours à ses services pour s’occuper de la comptabilité de fin d’exercice et pour préparer ses états financiers. Il a témoigné que le matériel loué par l’appelante aux termes de contrats de location-financement est inscrit dans ses livres à titre d’immobilisation, et ce, a‑t‑il dit, parce que le matériel n’est pas disponible en vue d’être vendu et parce que c’est l’appelante qui assume les risques afférents à la propriété, en particulier pour ce qui est de la valeur résiduaire.
+Les points litigieux
+[6] Les parties s’entendent pour dire qu’il y a deux questions à trancher en l’espèce. Il s’agit en premier lieu de savoir si, à la fin du contrat de location-financement et lorsque le titre est transféré à Case Credit, la propriété effective est également transférée à Case Credit, ou si l’appelante a encore la propriété effective du matériel pendant toute la durée du contrat de location. Si l’appelante conserve la propriété effective du matériel, il s’agit alors de savoir si l’appelante a raison de classifier le matériel, dans son bilan, comme immobilisation plutôt qu’en tant qu’élément d’inventaire. À mon avis, il faut répondre à ces deux questions de façon favorable à l’appelante.
+L’analyse
+[7] Il est de droit constant qu’il faut trancher la question de l’effet du contrat conclu entre l’appelante et Case Credit, et plus précisément la question de savoir si le titre effectif afférent aux marchandises est transmis en vertu du contrat, en se fondant sur les dispositions du contrat lui‑même, et notamment sur l’effet que les parties lui donnent : voir Kinguk Trawl Inc. and Farocan Inc. v. The Queen[3]. Il ressort clairement des conditions des documents concernant la location-financement que le transfert du titre afférent au matériel de l’appelante à Case Credit constitue simplement une garantie à l’égard de la dette contractée par l’appelante lorsque Case Credit verse à Case le montant que l’appelante doit à celle‑ci à l’égard du matériel. En fait, l’appelante vend à Case Credit les rentrées de fonds, composées des versements effectués en vertu du contrat de location, Case Credit paie ces rentrées de fonds en remboursant le montant que l’appelante doit à Case et Case Credit détient le titre légal afférent au matériel à titre de garantie jusqu’à ce que le dernier versement à effectuer en vertu du contrat de location lui ait été remis; elle est alors obligée de transférer de nouveau à l’appelante le titre légal. Tel est l’effet du document, et selon la preuve qu’elles ont soumise, tel était l’effet que les parties donnaient au document. Je suis convaincu qu’au cours des années en question, l’appelante avait la propriété effective du matériel que ces clients détenaient et utilisaient en vertu des contrats de location-financement.
+[8] L’intimée soutient que le matériel loué n’est pas admissible à titre d’immobilisation. Toutefois, à mon avis, l’appelante a eu raison de classifier ainsi ce matériel au cours de la durée de chaque contrat de location. La caractérisation d’un actif à titre d’élément d’inventaire ou à titre d’immobilisation amortissable peut changer de temps à autre compte tenu des circonstances et en particulier de l’utilisation qui est faite du matériel à un moment donné : voir Plaza Pontiac‑Buick Ltd. v. The Queen[4]; Canadian Kodak Sales Ltd. v. M.N.R.[5] Le matériel dont l’appelante a pris possession et qui est disponible pour être vendu ou loué est à juste titre considéré comme faisant partie de l’inventaire. Lorsqu’il est vendu ou loué, le matériel n’est plus disponible aux fins d’une disposition et il cesse d’être un élément d’inventaire.
+[9] Les contrats de location conclus par l’appelante sont tous de longue durée, habituellement d’une durée de cinq ans. Lorsqu’elle conclut un contrat de location avec un client, l’appelante met le matériel en la possession du client pour la durée du contrat de location, et le client s’engage à effectuer une série de versements en faveur de l’appelante à des intervalles donnés au cours de la même période. L’actif n’est pas alors disponible en vue d’être vendu, mais il est utilisé par l’appelante, qui a encore la propriété effective du matériel, pour générer un revenu, à savoir la série de versements. Par suite du changement d’utilisation, le matériel est devenu une immobilisation amortissable, et il continue à l’être pendant toute la durée du contrat de location. Le fait que l’appelante a cédé à Case Credit la série de versements prévue par le contrat de location en échange d’une valeur courante qui est portée au crédit de la dette de l’appelante envers Case n’y change rien.
+[10] À la fin de la durée du contrat de location, l’actif change encore une fois de caractère pour faire de nouveau partie de l’inventaire. Il est disponible en vue d’être vendu, mais après avoir été fortement utilisé, habituellement pendant cinq ans, il s’agit d’un actif fort différent, dont la valeur est beaucoup moindre, de ce qu’il était au début du contrat de location.
+[11] Selon la preuve, les preneurs se prévalaient de la possibilité d’acheter le matériel à la fin du contrat de location dans environ 25 p. 100 des cas seulement. Dans les autres cas (75 p. 100), l’appelante devait trouver un acquéreur pour le matériel d’occasion. D’une façon ou de l’autre, à la fin du contrat de location, le matériel devenait de nouveau, à mon avis, un élément d’inventaire, quoique, si le preneur se prévalait de la possibilité d’acheter le matériel, ce matériel ne faisait partie de l’inventaire que temporairement, tant que l’opération n’était pas conclue, et ce, parce que, à ce moment‑là, le matériel n’était plus utilisé en tant qu’immobilisation, mais il était détenu en vue d’être vendu dans le cours ordinaire de l’entreprise de l’appelante, et ce, peu importe que le matériel soit vendu au preneur ou qu’il soit vendu à un tiers.
+[12] L’avocate de l’intimée m’a renvoyé au bulletin d’interprétation IT‑102R2. Je crois qu’il est utile de reproduire ce bulletin au complet :
+Bulletin d’interprétation IT‑102R2 – Conversion de biens, autres qu’un bien immeuble, de ou à l’inventaire
+1. Le présent bulletin traite de la conversion de biens d’entreprise, autres qu’un bien immeuble, qui, sans qu’il y ait changement de propriétaire, cessent d’être des biens en immobilisations pour devenir des éléments d’inventaire ou vice-versa. Le bulletin ne traite pas des règles énoncées à l’article 45 au sujet de la détermination des gains ou des pertes en capital, ni des règles du paragraphe 13(7) concernant la déduction pour amortissement et sa récupération. Consulter le IT-218 relativement au point de vue du Ministère sur le profit réalisé découlant de la vente de biens immeubles autres qu’une résidence principale.
+2. L’inventaire est défini au paragraphe 248(1) comme étant « la description des biens dont le prix ou la valeur entre dans le calcul du revenu qu’un contribuable tire d’une entreprise pour une année d’imposition ». Les biens en immobilisations sont définis à l’alinéa 54b) comme étant « tous les biens amortissables du contribuable et tous les biens (autres que des biens amortissables) dont la disposition, s’il y avait disposition, se traduirait pour le contribuable par un gain ou une perte en capital, suivant le cas ».
+3. Les biens en immobilisations, qu’il s’agisse ou non de biens amortissables d’une catégorie prescrite, qui sont utilisés pour tirer un revenu d’une entreprise ou de biens ne sont pas, en règle générale, convertis à l’inventaire uniquement du fait qu’ils sont mis sur le marché pour être vendus. Par conséquent, lorsque des biens en immobilisations sont vendus, le produit de la vente est ordinairement traité comme le produit de la disposition de biens en immobilisations à toutes fins prévues dans la Loi. Le Ministère estime toutefois que cette règle générale comporte des exceptions.
+4. Lorsqu’un contribuable vend et loue (à court terme ou à long terme) des biens du même genre, le Ministère considère tout le produit de la vente des biens qui ont été loués à court terme ou à long terme comme un revenu que le contribuable tire de la vente d’éléments d’inventaire, sauf :
+a) si le contribuable exploite une division de location séparée qui peut être distinguée clairement de la division des ventes, notamment par la tenue de livres distincts,
+b) si des biens précis sont mis de côté par le contribuable aux fins de la location à court terme ou à long terme et sont effectivement utilisés à cette fin, et
+c) si les biens ainsi loués à court terme ou à long terme sont normalement vendus à un prix inférieur à leur coût pour le contribuable.
+Lorsque les conditions indiquées aux alinéas a) à c) ci-dessus sont remplies, la disposition ultime des biens utilisés pour la location à court terme ou à long terme doit être traitée comme la disposition de biens en immobilisations.
+5. Il est reconnu qu’un contribuable dont l’entreprise consiste uniquement à louer des biens est, de temps à autre, obligé de renouveler ces biens en les vendant après les avoir loués à court terme ou à long terme pendant une certaine période, et d’acheter de nouveaux biens. Dans de tels cas, lorsque le produit de la disposition de chaque bien dépasse normalement le coût de chacun pour le contribuable, le produit de la vente de tous les biens du contribuable qui ont été loués à court terme ou à long terme sera considéré comme ayant été reçu par le contribuable à titre de revenu plutôt que de capital.
+6. Nonobstant les numéros 4 et 5 ci-dessus, lorsque, à un moment quelconque, un bien en particulier est loué
+a) sans option d’achat,
+b) pendant une période suffisamment longue pour que le prix de vente prévu de ce bien au moment de l’expiration du bail ne dépasse ordinairement pas son coût pour le bailleur, et
+c) le bien en question n’est ordinairement pas remplacé par un autre bien pendant la durée du bail, le bailleur peut, à partir de ce moment, traiter le bien particulier, aux fins de la Loi, comme un bien en immobilisations, plutôt qu’un élément d’inventaire.
+7. Les circonstances de chaque cas détermineront s’il y a eu ou non une conversion des biens décrits au numéro 1 ci-dessus. Par exemple, on n’estime généralement pas qu’il y a eu conversion dans les cas suivants :
+a) lorsqu’un bien acheté principalement pour être revendu est temporairement retiré de l’inventaire et utilisé dans une entreprise pour gagner un revenu, par exemple, les véhicules de démonstration ou les véhicules disponibles à titre gracieux dans une entreprise de vente d’automobiles, les échantillons utilisés par les vendeurs ou le matériel utilisé par les employés dans l’exercice de leurs fonctions pour l’entreprise, ou
+b) lorsque le coût d’un bien a été imputé à des comptes de la mauvaise catégorie d’une entreprise et a été reclassé pour tenir compte de l’usage que l’on en fait depuis son acquisition, c’est-à-dire comme bien en immobilisations ou comme élément d’inventaire, selon le cas.
+Conversion de biens en immobilisations à l’inventaire
+8. Lorsque des biens en immobilisations sont convertis à l’inventaire, cette conversion ne constitue pas une disposition au sens des alinéas 13(21)c) et 54c). Il est toutefois reconnu que la disposition ultime d’un bien ainsi converti peut entraîner un gain ou une perte à titre de capital, un gain ou une perte à titre de revenu ou un gain ou une perte qui est partiellement à titre de capital et partiellement à titre de revenu. Par conséquent, si un bien en immobilisations a été converti à l’inventaire, le contribuable peut calculer un gain ou une perte en capital, le cas échéant, comme si une disposition du bien était survenue à la date de la conversion. Le montant du gain ou de la perte en capital qui est déterminé en fonction de ce concept est la différence entre son prix de base rajusté, suivant la définition donnée à l’alinéa 54a) (les RAIR ayant toutefois préséance pour les biens détenus le 31 décembre 1971), et sa juste valeur marchande à la date de la conversion. Ces pertes et ces gains en capital conceptuels seront considérés comme entraînant des gains en capital imposables ou des pertes en capital déductibles pour l’année d’imposition pendant laquelle la disposition du bien en question aura effectivement lieu et devront être déclarés pour cette dernière année. Le montant du gain ou de la perte à titre de revenu qui découle de la disposition réelle du bien converti est déterminé selon les principes comptables généralement reconnus, en prenant comme valeur initiale à l’inventaire la juste valeur marchande du bien à la date de la conversion.
+Éléments d’inventaire convertis en biens en immobilisations
+9. Lorsque, à un moment quelconque, un contribuable juge nécessaire de convertir en un bien en immobilisations un élément particulier de son inventaire, son coût en capital, aux fins de la Loi, est la valeur de ce bien qui figure à l’inventaire à la même date. Une telle conversion peut notamment se produire lorsqu’un élément particulier d’inventaire :
+a) est requis pour être loué dans la division de location d’un contribuable décrit au numéro 4 ci-dessus,
+b) a été loué à long terme par un contribuable quelconque dans les conditions décrites au numéro 6 ci-dessus, ou
+c) est autrement utilisé par le contribuable comme une immobilisation corporelle de l’entreprise.
+10. La conversion d’une unité de marchandise de l’inventaire en un bien en immobilisations, de la façon envisagée au numéro 9 ci-dessus, n’est considérée ni comme une disposition, ni comme une acquisition. C’est pourquoi, dans les cas de conversion de ce genre, l’application des règles qui permettent une déduction pour amortissement de 50 % au cours de la première année de possession du bien sera fondée sur la date d’acquisition réelle plutôt que sur la date de conversion.
+[13] Il ressort clairement du bulletin que le ministre reconnaît que la question de savoir si le bien, qui était un élément de l’inventaire, a changé de caractère pour devenir une immobilisation, ou vice‑versa, dépend des circonstances particulières de l’affaire. Il ressort du paragraphe 6 que le ministre s’oppose réellement, dans ce cas‑ci, à ce que l’appelante traite son matériel loué comme une immobilisation parce que, dans le cadre du contrat de location, le preneur bénéficie d’une option d’achat à la fin du contrat de location. Cela est peut‑être une considération pertinente dans certains cas, mais à mon avis, ce n’est pas déterminant. En l’espèce, les contrats de location ne sont pas simplement une façon différente d’organiser une vente, comme c’était le cas dans l’affaire Algonquin Enterprises Ltd. v. Canada[6]; en fait, l’appelante vendait aux preneurs environ 25 p. 100 seulement du matériel loué à la fin du contrat de location. Le point de vue du ministre semble être fondé sur le fait qu’il craint que la vente effectuée par suite de l’option d’achat, à la fin du contrat de location, puisse de quelque façon être traitée comme étant imputable au capital, mais cela serait, à mon avis, aussi erroné en principe que si un actif qui n’est pas disponible pour être vendu pendant cinq ans, actif qui génère un revenu pendant toute cette période, était considéré comme un élément de l’inventaire.
+[14] Par conséquent, en résumé, l’appelante a continué à avoir la propriété effective du matériel qu’elle fournissait au moyen de contrats de location au cours des années ici en cause, et lorsque les contrats de location ont été conclus, le matériel loué est devenu une immobilisation amortissable. Il est reconnu qu’en tant qu’immobilisation amortissable, le matériel était visé par les définitions des expressions « bien admissible », au paragraphe 127(9) de la Loi, et « machines prescrites ou […] matériel prescrit », au paragraphe 4600(2) du Règlement. Par conséquent, les appels sont accueillis avec dépens.
+Signé à Ottawa, Canada, ce 14e jour de janvier 2008.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 26e jour de février 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2008CCI28
+No DU DOSSIER DE LA COUR : 2005-401(IT)G
+INTITULÉ : GOOD EQUIPMENT LIMITED
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Charlottetown (Île-du-Prince-Édouard)
+DATE DE L’AUDIENCE : Le 23 novembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 14 janvier 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Edwin C. Harris, c.r.
+Avocate de l’intimée :
+Me Lynn Gillis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Edwin C. Harris, c.r.
+Cabinet : Patterson Palmer Law
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. 1 (5e suppl.).
+[2] Un nombre relativement peu élevé de contrats de location étaient conclus entre l’appelante et Case Credit en vertu de ce que l’on appelle un contrat LeaseRite, mais ces opérations ne sont pas ici en litige.
+[3] 2003 DTC 5168.
+[4] 94 DTC 6058.
+[5] 54 DTC 1194.
+[6] 90 DTC 6377.

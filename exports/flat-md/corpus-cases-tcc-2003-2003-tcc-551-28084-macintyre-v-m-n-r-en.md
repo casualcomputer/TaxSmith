@@ -1,0 +1,221 @@
+---
+title: "Macintyre v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28084/index.do"
+last_modified: "2003-08-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 551"
+citation2: ""
+neutral_citation: "2003 TCC 551"
+decision_date: "2003-08-01"
+language: "en"
+item_id: "28084"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1669
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:53:23.830000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aadec7480dfb58e00b19a59bb91f975f871a4bb4c22adc58d14829f2cfb58fb2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Macintyre v. M.N.R.
+
+- Citation: 2003 TCC 551
+- Decision date: 2003-08-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1669, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Macintyre v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-01
+Neutral citation
+2003 TCC 551
+File numbers
+2002-4201(EI)
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-4201(EI)
+BETWEEN:
+DONALD MACINTYRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MAUREEN MACINTYRE, O/A MAC'S CABINETS,
+Intervener.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Maureen MacIntyre o/a Mac's Cabinets (2002-4235(EI))
+on June 25, 2003 at Sudbury, Ontario
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+George Boyd Aitken
+For the Intervener:
+The Intervener herself
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister on the appeal made to him under section 91 of the Act, is confirmed.
+Signed at Ottawa, Canada, this 1st day of August, 2003.
+"Gerald J. Rip"
+Rip, J.
+Docket: 2002-4235(EI)
+BETWEEN:
+MAUREEN MACINTYRE O/A MAC'S CABINETS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DONALD MACINTYRE,
+Intervener.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Donald MacIntyre (2002-4201(EI))
+on June 25, 2003 at Sudbury, Ontario
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+George Boyd Aitken
+For the Intervener:
+The Intervener himself
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister on the appeal made to him under section 91 of the Act, is confirmed.
+Signed at Ottawa, Canada, this 1st day of August, 2003.
+"Gerald J. Rip"
+Rip, J.
+Citation: 2003TCC551
+Date: 20030801
+Docket: 2002-4201(EI)
+BETWEEN:
+DONALD MACINTYRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MAUREEN MACINTYRE, O/A MAC'S CABINETS,
+Intervener.
+AND
+Citation: 2003TCC554
+Docket: 2002-4235(EI)
+BETWEEN:
+MAUREEN MACINTYRE O/A MAC'S CABINETS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DONALD MACINTYRE,
+Intervener.
+REASONS FOR JUDGMENT
+Rip, J.
+[1] Donald MacIntyre and his wife Maureen MacIntyre appeal a determination by the Minister of National Revenue, dated September 24, 2002, that Donald MacIntyre's employment with Maureen MacIntyre from February 26, 2001 to April 6, 2001 ("period") was not insurable employment, as defined by subsection 5(1) of the Employment Insurance Act, for the reason that the appellants were not dealing with each other at arm's length, and it is reasonable to conclude that they would not have entered into a substantially similar contract of employment if they had been dealing at arm's length with each other for the period: paragraphs 5(2)(i) and 5(3)(b) of the Act.
+[2] Each of the appellants intervened in the other's appeal; the appeals were heard on common evidence.
+[3] In an appeal from a determination by the Minister under paragraph 5(3)(b) of the Act, a judge of this Court must first assess the legality of the Minister's determination, that is, whether the Minister properly exercised her discretion in making the determination. If the Minister exercised her discretion in accordance with the law, then notwithstanding whether the judge agrees or does not agree with the decision of the Minister, the judge must accord judicial deference to the Minister's decision.[1] In Jencan the Chief Justice of the Federal Court of Appeal, at the time, stated that the jurisdiction of this Court to review a determination by the Minister under subparagraph 3(2)(c)(ii) is circumscribed by the discretionary power conferred upon her to make such a determination. However, discretionary powers, he explained, are subject to review to ensure that they are exercised in a manner consistent with the law. In assessing the manner in which the Minister has exercised her statutory discretion, the Tax Court, the Chief Justice added, may have regard to the facts that have come to its attention during the hearing of the appeal.
+[4] The Tax Court may intervene and consider the merits of the Minister's decision if one of the following grounds for interference is established: (a) if the Minister acted in bad faith or for an improper purpose or motive; or (b) if she failed to take into account all of the relevant circumstances, as expressly required by subparagraphs 3(2)(c)(ii) or (iii); or (c) the Minister considered an irrelevant factor.[2]
+[5] In making her decision in accordance with paragraph 5(3)(b) of the Act, the Minister relied on the following facts which she assumed to be true:
+a) The Appellant [Mrs. MacIntyre] is the Worker's [Mr. MacIntyre] spouse;
+b) The Appellant operates a business involved in the manufacture and installation of wood cabinets in residential homes and in commercial buildings;
+c) The Worker's duties included removing old cabinets, and manufacturing and installing new cabinets;
+d) At all material time, the Appellant only had one small contract to build cabinets in a residential property;
+e) In 2001, the Worker was the only person employed by the Appellant;
+f) The Appellant was employed full-time elsewhere and exercised little or no supervision of the Worker, which is not common when parties are dealing at arm's length;
+g) The Worker performed his duties partly in a shop located in his home, and on the job sites;
+h) the Worker was paid for a 40 hour week regardless of the hours he actually worked;
+i) the Worker was not always paid on a timely basis, which is not common when parties are dealing at arm's length;
+j) the Worker is not dealing with the Appellant at arm's length;
+[6] Mr. MacIntyre is an experienced carpenter who, after business difficulties 17 years ago, joined the Sudbury local of the carpenters' union and began to practice his trade in Sudbury and other areas of Ontario. During the period the union local had agreements in the industrial, commercial and institutional ("I.C.I.") sector and the heavy construction sector; it also had an agreement with Ontario Hydro. During the period, the local had no residential sector construction agreements. A carpenter's hourly rate of pay depended on the sector of construction worked: the I.C.I sector paid the most, the residential sector (in Toronto) paid the least.
+[7] In 2001, according to Mr. MacIntyre, the union hourly rate in the I.C.I. sector varied between $20 and $25.
+[8] Mrs. MacIntyre operated Mac's Cabinets, a business that included the manufacture and installation of wood cabinets in private homes and commercial buildings. In 1999, she also built and installed signage at Sudbury Downs Racetrack slot machine facility in Sudbury, Ontario as a subcontractor for the Ontario Lottery Corporation.
+[9] In 1999, Mrs. MacIntyre signed a letter of agreement with the carpenters' union. Union members built and installed the signage at Sudbury Downs. At the time Mrs. MacIntyre started the contract at Sudbury Downs, Mr. MacIntyre was not employed. Mr. MacIntyre explained his wife called the union hall for workers and three or four union members were sent to the site and reported to the foreman. The foreman and the carpenters were employees of Mrs. MacIntyre. Carpenters are assigned work according to the order their names are placed on a hiring list. The employer may hire one carpenter not on the list; Mrs. MacIntyre had hired Mr. Blinder, the foreman. It was four weeks after work started at Sudbury Downs that Mr. MacIntyre's name was taken from the hiring list and for ten days he worked for his wife at Sudbury Downs.
+[10] In early 2001, Mr. MacIntyre was temporarily unemployed and was receiving employment insurance benefits. His wife had a contract with one Robert DeForge to build and install kitchen cabinets in the DeForge residence. Mrs. MacIntyre engaged Mr. MacIntyre to do the work for $18 an hour. Mr. MacIntyre said he would not work for less than $18 per hour, the rate that was paid at the time in Toronto for residential sector work. He acknowledged that health and welfare benefits are added to the union hourly rate but these benefits were not included in the consideration he received from his wife.
+[11] The contract with Mr. DeForge was for the price of $6,420, of which $1,000 was paid when the contract was signed by Mr. DeForge on February 24, 2001 and the balance was to be paid as to $2,420 upon the delivery of the material and the balance of $3,000 upon completion of the contract. Mrs. MacIntyre said the work took about "five to six weeks" and was completed about April 3, 2001, the date the $3,000 was deposited in the Mac's Cabinets' bank account. Mrs. MacIntyre recalled "some touch-up" took place later which took about two or three days.
+[12] At the time of the DeForge contract and throughout most of 2000 and 2001 Mrs. MacIntyre worked seasonally for the federal government and when she worked, she was paid every two weeks. She may have to wait 30 days to get her first pay cheque from the government. She also had other jobs, sometimes working at two jobs at a time. She planned on paying Mr. MacIntyre every two weeks. Union members are paid weekly. Mrs. MacIntyre was late on "five or six occasions". Mrs. MacIntyre did pay Mr. MacIntyre "but at times [the situation] was out of control" and Mr. MacIntyre had "to address the matter to get paid". When Mr. MacIntyre does not get paid on union jobs, he complains to the Business Agent of the union. There have been cases, he said, when a contractor goes bankrupt and he does not get paid for his work.
+[13] Mr. MacIntyre stated he worked for his wife each day, during the period Monday to Friday, from 8:00 a.m. to 4:30 p.m. He took 15 minute paid breaks every two hours and was off one-half hour for lunch during which time he was not paid. He worked 40 hours each week.
+[14] Nobody supervised Mr. MacIntyre when he worked for Mrs. MacIntyre. He did not record his hours. At the end of the week he told his wife the hours he worked. Mrs. MacIntyre said she recorded her husband's hours on time sheets, "probably" when the "work was over" for the week. Even on a union job he does not sign in or sign out, Mr. MacIntyre declared. "They see me work ... they trust me...". Mr. MacIntyre said he is assigned certain work and he does it. "Most of what I do is visible" so the employer sees him working. A questionnaire sent to him by the Canada Customs and Revenue Agency, he complained, "does not deal with the structure [I] work under." He added that when one hires a journeyman carpenter "you do not expect to look over his shoulder ... he is not an apprentice ... ." When he builds cabinets, he does not expect to be supervised.
+[15] Counsel for the respondent queried Mr. MacIntyre concerning the tardiness in cashing pay cheques from Mrs. MacIntyre. For example, cheques each in the amount of $1,164.97 dated May 1 and May 15, 2001, were both cashed on May 23, 2001. Mr. MacIntyre explained that he has a habit of cashing cheques late, although he insists on receiving the cheques on time. He declared that he has no immediate need for money and does not run to the bank; he attends at his bank infrequently.
+[16] I note that on May 1 and May 15, 2001 there were sufficient funds in the bank account of Mac's Cabinets to honour the cheques.
+[17] Among the exhibits produced by the respondent was a purported receipt, dated April 17, 2001, for $1,164.97 representing Mr. MacIntyre's net pay in cash for the two week period February 26 to March 9, 2001. The receipt is not signed by Mr. MacIntyre but by "Mac's Cabinets ... M. MacIntyre", Mr. MacIntyre's wife. Mr. MacIntyre said it was "not unheard of to get paid in cash". I note that Mac's Cabinets' bank account had a balance of $3,204.93 on April 3, 2001; no cheque or withdrawal of funds from this account was made during the period April 4 to 30, 2001.
+[18] Mrs. MacIntyre testifed that Mr. DeForge made the first two payments under the contract in cash and she applied the cash to purchase material for the contract. She acknowledged that she did not pay her husband until May. On April 17, 2001, she paid him for the work he performed in February; she said she had to "wait for the money to come in". She did not identify the source of funds used to pay her husband on April 17, 2001. The money did not come out of her bank account.
+[19] Mrs. MacIntyre registered the firm name Mac's Cabinets on September 8, 1999. She placed an advertisement in the 2001 yellow pages telephone directory. She has separate telephones for the business and for the family. Recently the business has been "on hold" until the appeal at bar is determined. She "wants to know where [she] stands" with respect to her husband's eligibility for insurable employment by her.
+[20] It appears Mrs. MacIntyre did not carry on the business of Mac's Cabinets on a continuous basis. She had only two contracts since she started in business, one with the Ontario Lottery Commission in 1999 and the second contract with Mr. DeForge in 2001.
+[21] Mrs. MacIntyre asserted that she owned the tools in the woodworking shop in the basement of her home. These included small tools such as a jointer, planer and sander. Both Mr. and Mrs. MacIntyre purchased tools and it was "difficult to tell who owned what", she stated.
+[22] Mr. MacIntyre's tools included his tool belt, hammer, pliers, screwdrivers and other hand tools usually supplied by carpenters.
+[23] According to the evidence before me the Minister, in making her determination, erred in assuming the truth of the following facts:
+a) Mrs. MacIntyre exercised little or no supervision of Mr. MacIntyre which is not common when the parties are dealing at arm's length.
+The evidence, which was not contradicted by any witness, was that even in arm's length union contracts Mr. MacIntyre is not supervised.
+b) Mr. MacIntyre was paid for a 40 hour week regardless of the hours he actually worked.
+This fact was vigorously denied by Mr. MacIntyre. He said he got paid for the hours he worked. The respondent did not produce any evidence suggesting otherwise.
+[24] The appeals ought to be dismissed for the reason, as expressed in paragraph 5(2)(i) and subsection 5(3) of the Act: Mr. and Mrs. MacIntyre were not dealing with each other at arm's length during the period and from the evidence at trial it was reasonable for the Minister to conclude that Mr. and Mrs. MacIntyre would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[25] There are, of course, certain terms and conditions in the employment contract between Mr. and Mrs. MacIntyre that the Minister overlooked, namely, that it was acceptable that Mr. MacIntyre not be supervised even when working in normal union jobs and that it was probable that he worked 40 hours a week for Mrs. MacIntyre.
+[26] However, what I find crucial in arriving at my conclusion is Mrs. MacIntyre's testimony that she will carry on business only if Mr. MacIntyre can perform the work for her. This is the reason, she said, the business has been "on hold". If Mrs. MacIntyre is truly operating a business, she would not put the business "on hold" waiting to see if her husband's employment by her is "included employment" for purposes of the Act. There is no evidence that Mrs. MacIntyre, during the period, was prepared to enter into a substantially similar contract of employment with a carpenter similarly qualified as her husband but with whom she dealt with at arm's length. She did so in 1999, when she had a subcontract – her first contract – for work at Sudbury Downs but was not prepared to do so, I regretfully conclude, in 2001. At the same time Mr. MacIntyre was prepared to waive his rights to health and other union benefits when working for Mrs. MacIntyre; he was satisfied with getting paid $18.00 an hour only, provided the employment would count for employment insurance benefits.
+[27] The appeals are dismissed.
+Signed at Ottawa, Canada, this 1st day of August, 2003.
+"Gerald J. Rip"
+Rip, J.
+CITATION NOS:
+2003TCC551
+2003TCC554
+COURT FILE NOS.:
+2002-4201
+2002-4235
+STYLE OF CAUSE:
+Donald MacIntyre and the Minister of National Revenue and Maureen MacIntyre,
+o/a Mac's Cabinets
+PLACE OF HEARING:
+Sudbury, Ontario
+DATE OF HEARING:
+June 25, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT:
+August 1, 2003
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Joanna Hill
+For the Intervenor:
+The Appellants themselves
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Miller v. Canada, [2002] F.C.J. No. 1498 at paras. 2, 3 and 4; Canada v. Jencan Ltd., [1997] 1 F.C. 187 and Tignish Auto Parts Inc. v. M.N.R., (1994) F.C.J. No. 1130
+[2] Jencan, supra, at paras. 37 and 50, noted in Miller, at para. 4.

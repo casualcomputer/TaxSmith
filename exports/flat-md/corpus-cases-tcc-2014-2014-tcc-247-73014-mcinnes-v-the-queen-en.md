@@ -1,0 +1,231 @@
+---
+title: "McInnes v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/73014/index.do"
+last_modified: "2014-08-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 247"
+citation2: ""
+neutral_citation: "2014 TCC 247"
+decision_date: "2014-08-08"
+language: "en"
+item_id: "73014"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5200
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:36:53.316000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c4a3c298d8948e5d090677f177cb3b0b4549edbadfebce396f9497d91cc8462e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McInnes v. The Queen
+
+- Citation: 2014 TCC 247
+- Decision date: 2014-08-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5200, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McInnes v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-08-08
+Neutral citation
+2014 TCC 247
+File numbers
+2012-4811(IT)I
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4811(IT)I
+BETWEEN:
+PATRICIA McINNES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on March 19, 2014, at Montréal, Quebec.
+Before: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+Agents for the appellant:
+François Desjardins, Student-at-Law Frédérick-Alexandre Yao, Student-at-Law
+Counsel for the respondent:
+Mounes Ayadi
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2008, 2009 and 2010 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Kingston, Ontario, this 8th day of August 2014.
+“Rommel G. Masse”
+Masse D.J.
+Translation certified true
+on this 22nd day of September 2014
+Margarita Gorbounova, Translator
+Citation: 2014 TCC 247
+Date: 20140808
+Docket: 2012-4811(IT)I
+BETWEEN:
+PATRICIA McINNES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Masse D.J.
+[1] This is an appeal from reassessments made under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) as amended (the Act), in respect of the appellant for the 2008, 2009 and 2010 taxation years.
+[2] The issue is whether rent that the appellant earned from an immovable property located in St‑Irénée, Charlevoix, is business income or rental property income. The difference is significant, because, if this is a rental property, a capital cost allowance is not allowed if the deduction resulted in creating or increasing a loss. However, a loss may be created or increased through a capital cost allowance in the case of business income.
+[3] In filing her income tax returns, the appellant reported business losses from renting the property of $20,564 for 2008, $16,513 for 2009 and $18,560 for 2010, respectively. The Minister of National Revenue (the Minister) was of the view that the appellant did not operate a business, but mainly used the immovable property to earn rental income. The Minister thus converted the business losses from renting the property into rental losses. The Minister issued notices of reassessment to the appellant in which he disallowed the appellant’s business expenses as deductions for capital cost allowance of $6,636 for 2008, $6,445 for 2009 and $6,290 for 2010, respectively. These capital cost allowance amounts were disallowed because there was no net rental income from renting the property. According to the Income Tax Regulations, C.R.C., c. 945 (the Regulations), a capital cost allowance on a rental property cannot result in the creation or increase of a rental loss.
+[4] This appeal involves only the capital cost allowances.
+Factual background [5] The appellant testified that, on May 14, 2004, she purchased an immovable property, a cottage located in St‑Irénée, Charlevoix, Quebec. She made significant renovations to the cottage to prepare it to lodge tenants.
+[6] The appellant stated that she wanted to operate a tourist accommodation business under the name “La Fille d’Adélia…l’Écossaise”. To do so, she concluded a contract with Hébergement Charlevoix inc. (Hébergement) a business specializing in brokering tourist accommodations in the Charlevoix region. The contract began on September 1, 2006, and was renewed every year since that date. In this contract, the appellant mandated Hébergement to advertise and manage the renting of the property. Hébergement advertises the rental property on its Web site and other sites. Hébergement was required to find tenants for the appellant and to sign rental contracts on her behalf. Hébergement was also mandated by the appellant to collect and remit accommodation tax to the Ministère du Revenu du Québec (at the rate of $2 per night). The appellant had to pay Hébergement 15% commission on the amounts set out in rental contracts. From time to time, the appellant rented out the property herself without an intermediary, but she still had to pay Hébergement the 15% commission. According to the terms of the contract, the appellant had to hold a commercial insurance policy. Therefore, the appellant took out an insurance policy with Promutuel du Littoral, a mutual general insurance company, to insure the property as a commercial tourist accommodation property. The insurance amount was $2,000,000 for civil liability. The appellant pays insurance premiums with interest comparable to a residential dwelling. The appellant registered her establishment with the Association Touristique Régionale de Charlevoix, the annual fee for which is $68 (collected by Hébergement) for advertising the rental property. The property is also subject to quality assessment criteria established by the Corporation de l’industrie touristique du Québec (CITQ). The appellant obtained a “Three Star” certificate from the CITQ. The certificate is reviewed every two years, and the annual fee for it is $245 (collected by Hébergement). The appellant created a Web site in 2005, which is regularly updated.
+[7] Since she had acquired the cottage, she rented it out to tenants for short stays ranging from three days to a few weeks. However, the Domaine Forget (the Domaine) an international classical music academy, has rented the cottage for the lodging of instructors and musicians for the summer season from mid-June to the end of August every year for the last nine years. After the summer season, the appellant rented out the property to other tenants, but her main client was clearly the Domaine. The rental season is summer and the Holiday season.
+[8] The appellant has never made an operating profit from this activity. She has claimed significant recurrent losses from year to year. The situation was aggravated by the 2008 economic crisis and by the fact that, since that time, there has been more tourist accommodations and fewer clients, thus less revenue for the owners of tourist accommodations.
+[9] However, every year, the property underwent significant renovations. The renovations were made during the winter when the property was not rented out. The appellant is on site quite often to supervise the workers and also to manage the property with respect to repairs and maintenance.
+[10] The cottage can accommodate up to seven people. The ground floor houses a kitchen, which is a shared space with the dining room, a living room with a fireplace, three bedrooms, a bathroom with a tub and shower, and a laundry room. The basement has a living room, a bedroom and a bathroom with shower.
+[11] The cottage is fully furnished, including household appliances. There are three televisions with cable, Wi-Fi, a DVD player, and a CD sound system. telephone service is provided except for long-distance calls. The cottage is heated with electricity and a wood-burning stove. Firewood is provided. The kitchen is fully equipped for cooking and serving meals. In addition, the appellant provides dishes, cutlery, utensils, assorted glassware, fondue set, microwave oven, toaster, coffeemaker, kettle, refrigerator with condiments (preserves, vinegar, cooking oil) and non-perishable food items such as pasta. The cottage has laundry facilities, namely, a washer and dryer as well as laundry products such as laundry detergent. The appellant provides all bedding including sheets, pillows, duvets and bed covers. Bathroom amenities are provided, namely, towels and toiletries. The appellant provides toilet paper, paper towel and facial tissue for the beginning of the stay. All cleaning products are provided for the entire stay. Personal hygiene products are not provided. The appellant does not provide a restaurant or bar service and she does not prepare meals, as she says this is not a bed and breakfast or an inn. The appellant is responsible for maintenance including landscaping in the summer and snow removal in the winter. The appellant makes available to her tenants some board games and a wide range of tourist brochures promoting the richness and beauty of the Charlevoix region. The cottage also has an outside patio with patio furniture. Pets are not allowed, and the cottage is non-smoking.
+[12] The appellant testified that she offers housekeeping service if tenants want it (but this is not mentioned in the advertisement posted on Hébergement’s Web site). However, the appellant stated that tenants rarely use this service even if it is part of the package. People want peace and quiet and prefer to be left alone. They do not want strangers coming in to their space. In any case, the linen closet is open to tenants and they may change their bedding when want to and take all the towels they need at their convenience. Tenants may use the laundry room to do laundry as needed if they want to.
+[13] The appellant employs a person who prepares the cottage for the tenants’ arrival and who welcomes them when they arrive. In addition, this person also ensures that the cottage is secured when the tenants leave.
+[14] The rent ranges from $425 to $900 plus tax for a two-day stay. For a week, the rent is $900 plus tax, and during the Holiday Season, the rent is $1,100 plus tax. The rental season is summer and the Holiday Season.
+[15] The appellant has few clients. People rent the cottage short‑term – only three days or one or two weeks. The exception is the Domaine, which rents for the summer. According to Exhibit A‑1, tab 6, during the 2008 taxation year, the appellant had eight short-term tenants. During the 2009 taxation year, the appellant had four short‑term tenants. During the 2010 taxation year, the appellant had five short‑term tenants.
+[16] There is no doubt that the appellant’s main client was the Domaine. The Domaine rented the cottage fully for a period of 10 weeks during the summer, every year, starting in mid-June until the end of August. The Domaine took the cottage as is and took care of everything. The Domaine took the keys at the beginning of the stay and gave them back at the end of the stay. The Domaine used its own housekeeping, cleaning, bedding and laundry service. The Domaine maintained the lot. The Domaine took the house in its care.
+The appellant’s position [17] The appellant maintains that the property in question is not a rental property within the meaning of subsection 1100(14.1) of the Regulations. According to the appellant, the property was tourist accommodations. The appellant stated that she operated a business and that she was not earning rental property income. She is therefore entitled to claim a capital cost allowance deduction even if it creates or increases a loss.
+[18] According to the appellant, the Court must allow the appeal.
+The respondent’s position [19] The respondent maintains that, in this case, the appellant did not operate a business during the years at issue, in accordance with subsection 9(1) of the Act. The respondent argues that the appellant used the immovable property mainly for the purpose of earning a rental income. Thus, the Minister was justified in disallowing, for each of the years at issue, the capital cost allowance the appellant had claimed because, during the years at issue, she reported no net income from the rental of the property, in accordance with subsections 1100(11) to 1100(14) of the Regulations. In addition, according to the Minister, the appellant paid the accommodation tax, association fees and membership fees in order to earn rental income, not business income.
+[20] Thus, according to the respondent, the appeal must be dismissed.
+Statutory provisions [21] The relevant sections of the Act read as follows:
+9. (1) Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+(2) Subject to section 31, a taxpayer’s loss for a taxation year from a business or property is the amount of the taxpayer’s loss, if any, for the taxation year from that source computed by applying the provisions of this Act respecting computation of income from that source with such modifications as the circumstances require.
+. . .
+18. (1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(b) an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+. . .
+20. (1) Notwithstanding paragraphs 18(1)(a), 18(1)(b) and 18(1)(h), in computing a taxpayer’s income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+(a) such part of the capital cost to the taxpayer of property, or such amount in respect of the capital cost to the taxpayer of property, if any, as is allowed by regulation;
+. . .
+248 (1) In this Act,
+. . .
+“business” includes a profession, calling, trade, manufacture or undertaking of any kind whatever and, except for the purposes of paragraph 18(2)(c), section 54.2, subsection 95(1) and paragraph 110.6(14)(f), an adventure or concern in the nature of trade but does not include an office or employment;
+[22] The Regulations provide the following:
+PART XI
+CAPITAL COST ALLOWANCES
+Division I
+Deductions Allowed
+1100. (1) For the purposes of paragraphs 8(1)(j) and (p) and 20(1)(a) of the Act, the following deductions are allowed in computing a taxpayer’s income for each taxation year:
+(a) subject to subsection (2), such amount as the taxpayer may claim in respect of property of each of the following classes in Schedule II not exceeding in respect of property
+. . . [The classes and percentages allowed are listed here]
+of the undepreciated capital cost to the taxpayer as of the end of the taxation year (before making any deduction under this subsection for the taxation year) of property of the class;
+. . .
+(11) Notwithstanding subsection (1), in no case shall the aggregate of deductions, each of which is a deduction in respect of property of a prescribed class owned by a taxpayer that includes rental property owned by him, otherwise allowed to the taxpayer by virtue of subsection (1) in computing his income for a taxation year, exceed the amount, if any, by which
+(a) the aggregate of amounts each of which is
+(i) his income for the year from renting or leasing a rental property owned by him, computed without regard to paragraph 20(1)(a) of the Act, or
+(ii) the income of a partnership for the year from renting or leasing a rental property of the partnership, to the extent of the taxpayer’s share of such income,
+exceeds
+(b) the aggregate of amounts each of which is
+(i) his loss for the year from renting or leasing a rental property owned by him, computed without regard to paragraph 20(1)(a) of the Act, or
+(ii) the loss of a partnership for the year from renting or leasing a rental property of the partnership, to the extent of the taxpayer’s share of such loss.
+. . .
+(14) In this section and section 1101, “rental property” of a taxpayer or a partnership means
+(a) a building owned by the taxpayer or the partnership, whether owned jointly with another person or otherwise, or
+(b) a leasehold interest in real property, if the leasehold interest is property of Class 1, 3, 6 or 13 in Schedule II and is owned by the taxpayer or the partnership,
+if, in the taxation year in respect of which the expression is being applied, the property was used by the taxpayer or the partnership principally for the purpose of gaining or producing gross revenue that is rent, but, for greater certainty, does not include a property leased by the taxpayer or the partnership to a lessee, in the ordinary course of the taxpayer’s or partnership’s business of selling goods or rendering services, under an agreement by which the lessee undertakes to use the property to carry on the business of selling, or promoting the sale of, the taxpayer’s or partnership’s goods or services.
+(14.1) For the purposes of subsection (14), gross revenue derived in a taxation year from
+(a) the right of a person or partnership, other than the owner of a property, to use or occupy the property or a part thereof, and
+(b) services offered to a person or partnership that are ancillary to the use or occupation by the person or partnership of the property or the part thereof
+shall be considered to be rent derived in that year from the property.
+(14.2) Subsection (14.1) does not apply in any particular taxation year to property owned by
+(a) . . .
+(b) an individual, where the property is used in a business carried on in the year by the individual in which he is personally active on a continuous basis throughout that portion of the year during which the business is ordinarily carried on; or
+(c) . . .
+Analysis [23] In this case, the issue is whether the appellant earned rent from “La Fille d’Adélia…l’Écossaise” so that the property can be considered a rental property rather than a business. A rental property is defined in subsection 1100(14) of the Regulations. It is a building that produces rent. Rent is defined in subsection 1100(14.1) as “gross revenue derived in a taxation year from the right of a person or partnership, other than the owner of a property, to use or occupy the property or a part thereof”. However, according to paragraph 14.2(b), there is an exception, and “[s]ubsection (14.1) does not apply in any particular taxation year to property owned by an individual, where the property is used in a business carried on in the year by the individual in which he is personally active on a continuous basis”.
+[24] The issue of whether income from an immovable property is income from a business or income from a rental property is not easy to analyze and determine. Much has been written on this issue by the courts and scholars.
+[25] In Wertman v. Canada (Minister of National Revenue), [1965] 1 Ex.C.R. 629, [1964] C.T.C. 252, 64 DTC 5158, Judge Thurlow of the Exchequer Court of Canada dealt with an apartment building. He ruled as follows at paragraphs 22 and 23:
+[22] Under the Canadian statute what is taxed as income from a property or a business is the “profit therefrom” for a taxation year, and this poses the question “what is the profit from the property or business?” In the great majority of cases it is quite immaterial whether the profit is regarded as arising from a business or from property, but when the question does arise, it is in my opinion simply one that must be resolved on the facts of the particular case and I know of no single criterion on which it may be determined. That the rentals are primarily or entirely receipts from property may be a factor of great importance but it is not necessarily conclusive for the question in a case such as the present one is not so much what the income is derived from but whether the income can be fairly described as income from a business within the meaning of that term as used in the Act. Moreover, cases are I think readily conceivable where particular income may be accurately described as income from property and just as accurately regarded as income from a business.
+[23] On the evidence in the present case the sum received as rentals from the Park Strand should I think be regarded as having accrued to the appellant and his wife and son predominantly, if not entirely, in their capacity as owners of the property rather than as traders, and I also think that the rentals should be regarded as having accrued predominantly, if not entirely, from the use by tenants of the property in the sense that they represent payments for the tenants’ occupation thereof rather than payments arising from the process of letting apartments and providing certain limited services such as heat of which the tenants have the benefit. To my mind while there is a sense in which the rentals can be said to be revenues from a business of letting apartments or operating an apartment building for the purpose of securing rentals, it is a fanciful and unrealistic way of describing them for it puts the emphasis of the description of their source where it does not belong viz., on the mere sine qua non or conduit pipe of the letting activity rather than on the fact that they arise from the use or exercise of the owners’ right of occupation of the property by tenants who pay not for the letting but for the use of the property. There may well be cases wherein the extent of various services provided by the landlord under the terms of the leasing contract is such that the rental paid by the tenant can be regarded as in a substantial measure a payment for such services as well as for the use of the property and the interrelation of the use of the premises with the use of such services may be so extensive that the whole sum paid could readily be regarded not as mere rental of property but as true receipts of a business of providing apartments and services to tenants but I do not regard this as a case of that kind. The nature of the services provided in my opinion also has a bearing on the question some, such as maid service and linen and laundry service, being more indicative of a business operation than the heating of the building which in my view is so closely concerned with the property itself as to offer no definite indication one way or the other. Nor do I think that the fact that the management of the property occupies the appellant’s time or the fact that he uses his car to go to and from the property indicate that the operation is a business for at most these facts indicate that he renders a service to himself and to the other owners of the building which so far as charged for represents a proper outgoing against revenue for the purpose of ascertaining the net profit divisible among the owners regardless of whether the rentals are mere income from property or income from a business. If the appellant had a profit from such charges it would no doubt be taxable as his income but there is no indication that he had any profit therefrom and no such issue has been raised. Moreover while the appellant’s share of the net profit of the Park Strand may to him represent both his share of the profit and in a sense the result of his efforts the share of his wife in her hands does not represent return for effort on her part but simply income from her property and it is her share alone with which the case is concerned. On the whole there appears to me to be nothing in the situation which affects the rentals with a trading character as distinct from mere income receipts from property and I am accordingly of the opinion that the profits from the Park Strand were not profits from a business and that the operation of the Park Strand was not a business in which the appellant and his wife were partners. Section 21(4) therefore cannot be invoked to support the assessment.
+[26] In Walsh v. Canada (Minister of National Revenue – M.N.R.), [1966] Ex.C.R. 518, [1965] C.T.C. 478, 65 D.T.C. 5293, the appellants owned two large apartment buildings and a shopping centre. The properties were managed for the owners by a management company. Tenants were supplied with heat, stoves and refrigerators, carpets and drapes, and parking spaces. Shared hallways were carpeted. An elevator, coin-operated laundry, window washing, repair of electric and plumbing facilities, decorating as required, and a telephone in the entrance lobby were also provided. Judge Cattanach ruled that the appellants earned income from a rental property, not from a business. Judge Cattanach explained at paragraphs 22 and 25:
+[22] In my view, prima facie the perception of rent as land owner is not the conduct of a business, but cases can arise where the extent of the various services provided by the landlord under the terms of a leasing contract and the time and labour devoted by him are such that the rental paid by the tenant can be regarded as in a substantial measure payment for such services as well as for the use of the property and the interrelation of the use of the premises with the use of such services may be so extensive that the whole sum could readily be regarded not as mere rental of property, but as true receipts of a business of providing apartment suites and services to tenants. It is a question of fact as to what point mere ownership of real property and the letting thereof has passed into commercial enterprise and administration.
+. . .
+[25] On the evidence I think that the rentals received by the appellants should be regarded as having accrued to them as owners of the properties rather than as traders and that the rentals accrued from use by the tenants of the property in that the rentals represent payments for their occupation thereof rather than from a combination of such use and the other services from which the tenants benefitted. I regard the additional services which were provided to tenants as being relatively insignificant and insufficient to convert the appellants from land owners into the conductors of a business. The services such as the provision of heat, electric stoves and refrigerators, janitorial services to the common hallways, snow removal, carpeting in some rooms of the suites and drapes for windows are those which tenants have come to expect and are those which landlords normally provide in living accommodation of this kind. These are refinements offered to the tenants in connection with the occupation of suites and, in most instances, are also property for the use of which, along with the suites themselves, rent is paid. The heating of the building and snow removal are ancillary to the property itself and are exercised in the landlords capacity as owner of the property rather than as a service to tenants although the tenants incidentally enjoy the benefits thereof. While the nature of services provided has a bearing on the question, the services above described are not such as would characterize the rental received therefor as income from a business rather than income from property, as services such as the provisions of breakfast, maid, linen, laundry and such like services might do.
+[27] In Canadian Marconi v. Canada, [1986] 2 S.C.R. 522 (S.C.C.), Justice Wilson of the Supreme Court of Canada observed as follows at paragraph 7:
+[7] The distinction between income from a business and income from property is a difficult one to draw but it is one which the Act compels us to make. There are two reasons for the difficulty. First, the terms “business” and “property” are broadly and loosely defined in s. 248(1) of the Income Tax Act. As a consequence the definitions on a fair reading can be construed in such a way as to overlap. Second, persons or corporations generally engaged in trading-type activity often use property as a means of earning income. On first reflection this sort of income could realistically be considered either business income or property income. The observation of Thurlow J. (as he then was) in Wertman v. Minister of National Revenue, 64 D.T.C. 5158 (Ex. Ct.), at p. 5167, that cases are “readily conceivable where particular income may be accurately described as income from property and just as accurately regarded as income from a business” is frequently apposite. The courts have handled the difficult task of deciding whether a particular receipt is business income or property income by applying certain set criteria or indicia of trading activity and, in the case of a corporate taxpayer, by applying a presumption in favour of the characterization of its income as income from a business. I shall examine these in reverse order.
+[28] In Jong v. Canada, [1998] T.C.J. No. 300 (QL), 98 DTC 1616, Judge Margeson of the Tax Court of Canada stated the following at paragraph 8 of his judgment regarding Walsh, supra:
+[8] . . . a prima facie case is made out that the amount received from the property was from rental and not from a business unless the Appellant can show that the range of services provided by the landlord was such that the payment received can be regarded as substantial payment for the services.
+[29] In Arbutus Garden Apartments Corp. v. The Queen, [1998] T.C.J. No. 469 (QL), [1998] 3 C.T.C. 2972 (T.C.C.), Judge Bowman (later Chief Justice) dealt with an apartment complex consisting of seven buildings containing 302 units located on 12 acres. The owners employed full time five managers as well as two maintenance employees and two gardeners. When they had problems due to a high vacancy rate, the owners hired someone to rectify the situation. Judge Bowman considered that the owners provided tenants with far more services than is usually done in a residential apartment building. He found that, in light of the facts before him, the owners operated a business. Judge Bowman wrote the following at paragraphs 24, 25 and 26 of his judgment:
+[24] Essentially it is a question of fact depending on all of the circumstances. I think that the operation of the Arbutus Apartments goes well beyond the mere passive perception of rentals. It is clearly a business. It involved the hiring of five full time managers, who lived in the project with their spouses, two full time maintenance persons, and two full time gardeners.
+[25] During and prior to the year in question the project was having problems, with a high vacancy rate and high turnover of tenants. Mrs. Janet Roethe was brought in, in an attempt to turn the project around and she was apparently successful. In addition to the work done by the full time staff, many services were contracted out, such as gardening, painting and pool maintenance. There were eight acres of gardens, with elaborate landscaping and two outdoor swimming pools, games rooms, a health spa, and a number of party rooms.
+[26] Far more services were provided to the tenants (many of whom were seniors) than would normally be the case in an apartment building. Mrs. Roethe testified that in the early part of the seven years in which she worked at attempting to rehabilitate the project she spent five days a week at the property.
+[30] In Orcheson v. The Queen, 2004 TCC 427, [2004] 3 C.T.C. 2524; 2004 D.T.C. 2686, the appellants owned three cottages fronting on Lake Simcoe near Keswick, Ontario. The appellants provided firewood, barbeques, picnic tables, , a boat, a canoe, boat launching dock, the possibility of swimming and fishing in Lake Simcoe and of snowmobiling, ice fishing, skating and cross-country skiing, in addition to fully furnished cottages. The cottage was clean when a tenant moved in and supplied with fresh linen. The appellants provided cleaning services and snow removal; they cleaned the yard and provided boat launching and docking. Justice Teskey provided a history of relevant case law starting with Wertman, supra, and up to Arbutus, supra. Justice Teskey described the evidence submitted by the appellants as being very unsatisfactory. He ruled that the income from the cottages was property income, not business income, by stating the following at paragraphs 30 and 31 of his judgment:
+[30] The use of Lake Simcoe for boating, swimming or fishing is not a service. The use of a barbeque, a picnic table, a phone, a television and deck chairs are likewise not a service. Clean linen changed daily as well as daily cleaning of the cottages would be services. There is no evidence that this volume of service was performed. Both appellants have full time jobs in Toronto.
+[31] Since income herein is rental income, the Court must start with the premises that it is income from property, as opposed to income from a business. Since the evidence has not established that a substantial portion of the rents were for services, I can only find that the income was from property.
+[31] In Venditti v. Canada, [2008] T.C.J. No. 417 (QL), 2008 TCC 553, [2009] 2 C.T.C. 2372, the appellants lived full time in Ontario, Canada, and they all worked full time in Canada. In 1996, the appellants acquired a condominium in Florida. The appellants expected to have an occupancy rate of 26 weeks per year and to be able to charge between $75 and $90 per night for short‑term rentals and approximately $52 per night for long‑term rentals. The appellants hired the services of a broker to help them with the rental of the property. Their intention in purchasing the property was to register it as a business, which they did in accordance with Florida’s laws. The property was inspected and approved by the government of Florida for short-term rentals. The property rental included utilities, toiletries, furnishings, linen and a heated pool. The appellants considered that they operated a business, not a rental property. My colleague, Justice Valerie Miller, found that the income generated by renting the property was rental income, not business income. She stated the following at paragraph 19 of her Reasons for Judgment:
+[19] The evidence presented by the Appellants does not allow me to conclude that a substantial portion of the rentals they received from the property was for the services they offered. The Appellants stated that the property was fully furnished including linen. There was no evidence that the services provided by the Appellants were anything beyond what would have been provided by any landlord offering furnished apartments for rent.
+[Emphasis added.]
+[32] I note that Orcheson and Venditti, supra, are very similar to the case at bar.
+[33] Scholars have summarized the case law well. Authors Peter W. Hogg, Joanne E. Magee, Jinyan Li, and various other collaborators stated at page 160 of Principles of Canadian Income Tax Law, 7th edition (Toronto: Carswell, 2010):
+Prima facie, of course, the rents derived from letting an apartment building, office building or shopping centre, are income from property. The rents are paid for the use of the property, not services provided by the landlord. The difficulty arises from the fact that a landlord will often supply to tenants, in addition to the right to occupy the rented premises, services of various kinds. Where the services supplied consist of only those services which are of a kind customarily included with rented premises, for example, maintenance of building, heating, air conditioning, water, electricity, and parking, the rent is still regarded as income from property. But if the services supplied go beyond those which are customary for an office building or apartment building or shopping centre (or whatever the property is), it becomes more plausible to characterize the owner’s operation as a business rather than the mere letting of property. Services provided by an apartment building that would be indicative of a business classification would include services normally provided by a hotel, i.e., housekeeping, laundry service, restaurant and room service, etc. The extreme case is, of course, a hotel, where the extent of the services supplied to guests makes it obvious that it is a business. Where the range of services supplied by the landlord falls below hotel level, it becomes a question of degree whether the nature and extent of the services makes it appropriate to characterize the income as earned from a business.
+[34] Learned professor Vern Krishna in his book, Fundamentals of Income Tax Law (Toronto: Carswell, 2009) came to the same conclusion at page 253.
+[35] Thus, it can be seen that this is really a subtle problem of classification. The higher the level of services supplied by the taxpayer, the likelier it is that the taxpayer operates a business; the lower the level of services, the likelier it is that the income is from the use of a property. In general, individuals who own buildings have been recognized by the case law as earning property income.
+[36] There is no bright-line test. This is a question of degree. Income earned from a property by an individual is presumed to be rent from a property. Given that in this case, the income is rental income, the Court must base itself on the principle that this is income from a property rather than income from a business, unless the appellant can show that the range of services she provided was such that the payment could be considered as being largely put towards those services. In other words, the income is considered as a business activity only when the owner provides or makes available to the tenants any services, which make the rental activity more than a mere rental of immovable property. The issue is whether a substantial loss in rent that the appellant received for the property constituted the price paid for services.
+[37] In this case, the appellant offered a cottage that is fully furnished including household appliances. There are televisions with cable and Wi-Fi and telephone service. Electric and wood heating is provided. The kitchen is fully equipped for cooking and serving meals. Some condiments and non-perishable food items are provided. There are a washer and dryer as well as laundry products. The appellant provides all bedding. Towels and toiletries are provided as well as cleaning products.
+[38] Personal hygiene products are not provided. The appellant does not provide restaurant or bar service. The appellant offers housekeeping service, but her tenants use it only rarely, and in the case of the Domaine, not at all. The appellant takes care of landscaping in the summer and snow removal in the winter, but in the case of the Domaine, the tenant takes care of it.
+[39] There is no doubt that the most important tenant was the Domaine. The Domaine rented the cottage for a period of 10 weeks in the summer, every summer. That is more than double the time that all other tenants rented the cottage (see Exhibit A‑1, tab 6). The largest part of the income from the property (more than half in 2008 and almost two thirds in 2009 and 2010) was from the Domaine. The Domaine rented the entire cottage and used the telephone and Internet services. However, the Domaine did not want additional services such as cleaning, housekeeping, washing, laundry or meals. The Domaine maintained the premises itself including landscaping (there was no need for snow removal because the Domaine rented the cottage only in the summer). The Domaine simply wanted to rent the cottage and its contents to use it as it wished. The Domaine did not want anything else as additional services. Although other tenants used additional services such as landscaping and snow removal, they only rarely used the housekeeping service. I am not satisfied that a large part or a substantial part of the rent was paid for services.
+Conclusion [40] In my view, the case at bar is similar to those in Orcheson and Venditti, supra. As it was not established in evidence that a substantial part of the rent that the appellant received for the property constituted the price paid for services, I must find that the income was from a property. I am of the view that the property was used by the appellant principally for the purpose of gaining or producing gross revenue that is rent.
+[41] For these reasons, the appeal is dismissed.
+Signed at Kingston, Ontario, this 8th day of August 2014.
+“Rommel G. Masse”
+Masse D.J.
+Translation certified true
+on this 22nd day of September 2014
+Margarita Gorbounova, Translator
+CITATION:
+2014 TCC 247
+COURT FILE NO.:
+2012-4811(IT)I
+STYLE OF CAUSE:
+PATRICIA McINNES and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+March 19, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Rommel G. Masse, Deputy Judge
+DATE OF JUDGMENT:
+August 8, 2014
+APPEARANCES:
+Agents of the appellant:
+François Desjardins, Student-at-Law Frédérick-Alexandre Yao, Student-at-Law
+Counsel for the respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+François Desjardins, Student-at-Law Frédérick-Alexandre Yao, Student-at-Law
+Firm:
+Faculté de droit – Université Laval
+Québec, Quebec
+For the respondent
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

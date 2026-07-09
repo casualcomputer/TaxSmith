@@ -1,0 +1,386 @@
+---
+title: "Pelletier v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27373/index.do"
+last_modified: "2006-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 639"
+citation2: ""
+neutral_citation: "2006 TCC 639"
+decision_date: "2006-11-24"
+language: "en"
+item_id: "27373"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 130
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:32:36.397000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aaeb2752df46ca5769963c5bcf7ae1198b295134b658075dee2d32418784d46d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pelletier v. M.N.R.
+
+- Citation: 2006 TCC 639
+- Decision date: 2006-11-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 130, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pelletier v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-24
+Neutral citation
+2006 TCC 639
+File numbers
+2005-3397(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-3397(EI)
+BETWEEN:
+GILLES PELLETIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 29, 2006, at Matane, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Denis Tremblay
+Counsel for the Respondent:
+Martin Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act concerning the Appellant's employment with the Coopérative Forestière de la MRC de Matane during the periods from January 27 to April 30, 1999, May 3 to October 13, 1999, October 18 to December 21, 1999, January 7 to May 26, 2000, May 29 to October 14, 2000, October 16, 2000 to June 23, 2001, June 25 to September 28, 2001, October 12 to November 2, 2001, November 8 to December 14, 2001, and January 7 to July 5, 2002, is dismissed, and the determination made by the Minister of National Revenue on July 7, 2005, is confirmed in that the Appellant was not employed in insurable employment during the periods in issue, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of November 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 12th day of July 2007.
+Brian McCordick, Translator
+Citation: 2006TCC639
+Date: 20061124
+Docket: 2005-3397(EI)
+BETWEEN:
+GILLES PELLETIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a determination by the Respondent, of which the Appellant was notified by letter dated July 7, 2005. The determination was that the work done by the Appellant during the periods from January 27 to April 30, 1999, May 3 to October 13, 1999, October 18 to December 21, 1999, January 7 to May 26, 2000, May 29 to October 14, 2000, October 16, 2000 to June 23, 2001, June 25 to September 28, 2001, October 12 to November 2, 2001, November 8 to December 14, 2001, and January 7 to July 5, 2002, for the Coopérative Forestière de la MRC de Matane, was not insurable employment.
+[2] In order to explain and justify his decision, the Minister of National Revenue ("the Minister") relied, inter alia, on the following assumptions of fact:
+[TRANSLATION]
+(a) The Payor became a cooperative corporation on March 10, 1999.
+(b) The Payor essentially did sylvicultural work such as pre-commercial thinning, release cutting, and, to a lesser extent, timber extraction.
+(c) The Payor was headed by a board of directors consisting of six or seven people.
+(d) The Appellant was the Payor's President and CEO until his resignation in September 2002.
+(e) The Payor had a business relationship with two other entities: Les industries Mec-Bois Inc., a wood processing plant of which the Appellant and the Payor each owned 25% of the shares; and Foresterie 2002 Inc., of which the Payor was the sole shareholder and the Appellant was the sole director.
+(f) The Appellant got a loan from the Payor in order to purchase his shares in Les Industries Mec-Bois Inc.
+(g) The Appellant and two other persons guaranteed a $90,000 loan granted by the Bank of Montreal to the Payor so that the Payor could invest in Les Industries Mec-Bois Inc.
+(h) During the periods in issue, the Appellant did not work for Les Industries Mec-Bois Inc. or for Foresterie 2002.
+(i) As the Payor's CEO, the Appellant applied and planned for contracts, looked after insurance, workers' compensation and employee assistance in order to proceed to purchase materials.
+(j) The Appellant worked on the Payor's premises, on the road, and, at least once a week, in the woods.
+(k) The Appellant's work schedule was very flexible, but was generally from Monday to Friday between 8:00 a.m. and 5:00 p.m. He could work weekends.
+(l) The Appellant received fixed weekly remuneration regardless of the hours that he actually worked.
+(m) The Appellant rendered numerous services to the Payor outside the periods during which he was entered in the payroll journal.
+(n) The Appellant received his salary based on the money available [from] the Payor's account.
+(o) When the Payor had no cash on hand, the Appellant worked as a volunteer and merely got his expenses reimbursed by the Payor.
+(p) On July 10, 2001, the Appellant received $14,000 from the Payor as a "work bonus" for services rendered between October 15, 2000 and June 23, 2001.
+(q) During the period from October 15, 2000, to June 23, 2001, the Appellant worked for the Payor on a volunteer basis and drew employment insurance benefits.
+(r) Despite the numerous periods of employment in issue, the Appellant received only four Records of Employment (ROEs) from the Payor from May 3, 1999, to November 2, 2001.
+(s) On October 22, 1999, the Appellant received an ROE from the Payor for the period from May 3 to October 13, 1999, reporting 960 insurable hours and total insurable earnings of $14,400.
+(t) On October 17, 2000, the Appellant received an ROE from the Payor for the period from May 29 to October 6, 2000, reporting 760 insurable hours and total insurable earnings of $14,820.
+(u) On October 2, 2001, the Appellant received an ROE from the Payor for the period from June 25 to September 28, 2001, reporting 644 insurable hours and total insurable earnings of $11,544.
+(v) On November 13, 2001, the Appellant received an ROE from the Payor for the period from October 15 to November 2, 2001, reporting 141 insurable hours and total insurable earnings of $2,340.
+(w) The Appellant claims to have worked for the Payor on a volunteer basis in 2002.
+(x) The ROEs issued by the Payor do not reflect reality insofar as the periods of employment or the hours actually worked are concerned, and they do not reflect the remuneration earned by the Appellant during the periods in issue.
+(y) In addition, the quantity and frequency of the volunteer work done by the Appellant are inconsistent with the definition of a true contract of service.
+[3] The contents of subparagraphs 5 (a), (b), (c), (d), (h), (i), (j), (k), (l), (r), (s), (t), (u) and (v) were admitted to. As for subparagraph (e), it was denied as written. Subparagraphs (f), (m), (n), (o), (p), (q), (w), (x) and (y) were denied, while no knowledge was claimed with respect to subparagraph (g).
+[4] During the periods in issue, the cooperative was very active; generally, during these periods, several co‑op employees were assigned to the work that was part of the co-op's economic vocation, that is to say, sylviculture, selective cutting, brush clearing, etc.
+[5] One might say that the Appellant was the maestro of the planning and administrative management of the contracts obtained by the cooperative. He split his time between administrative management work and field work that he did in order to ensure that the work was properly planned, and, above all, efficiently performed.
+[6] The Appellant claims that the only work that he did outside the periods reported in the ROEs was essentially volunteer work, and he said that this accounted for very little time — not more than a few hours a week.
+[7] This so-called volunteer work purportedly consisted primarily in going to the office, generally on Thursday afternoons, to listen to the business' telephone answering machine and respond to the messages on it. The Appellant says that he did this volunteer work until the various files, in which withholdings had been made until completion of the work, were closed.
+[8] The Appellant's testimony can be summarized as follows: I worked during the periods reported in the Records of Employment (ROEs) and was paid a salary for that work. My periods of employment correspond exactly and exclusively to the periods set out in the ROEs. Outside these periods, I did no work because I was not paid; in other words, the ROEs should refer only to paid work; although the volunteer or unpaid work generally came within my job description, it did not have to be reported in my ROEs.
+[9] He also categorically denied the contents of Exhibit I‑4, which should be reproduced here:
+Week
+Hours outside
+Hours at office
+Hourly rate
+Total
+Week of October 15 to October 21, 2000
+Week of October 22 to October 28, 2000
+Week of October 29 to November 4, 2000
+Week of November 5 to November 11, 2000
+Week of November 12 to November 18, 2000
+Week of November 19 to November 25, 2000
+Week of November 26 to December 2, 2000
+Week of December 3 to December 9, 2000
+Week of December 10 to December 16, 2000
+Week of December 17 to December 23, 2000
+Week of January 7 to January 13, 2001
+Week of January 14 to January 20, 2001
+Week of January 21 to January 27, 2001
+Week of January 28 to February 3, 2001
+Week of February 4 to February 10, 2001
+Week of February 11 to February 17, 2001
+Week of February 18 to February 24, 2001
+Week of February 25 to March 3, 2001
+Week of March 4 to March 10, 2001
+Week of March 11 to March 17, 2001
+Week of March 18 to March 24, 2001
+Week of March 25 to March 31, 2001
+Week of April 1 to April 7, 2001
+Week of April 8 to April 14, 2001
+Week of April 15 to April 21, 2001
+Week of April 22 to April 28, 2001
+Week of April 29 to May 5, 2001
+Week May 6 to May 12, 2001
+Week of May 13 to May 19, 2001
+Week of May 20 to May 26, 2001
+Week of May 27 to June 2, 2001
+Week of June 3 to June 9, 2001
+Week of June 10 to June 16, 2001
+Week of June 17 to June 23, 2001
+6
+4
+5
+7
+4
+3
+6
+5
+5
+7
+8
+14
+22
+8
+18
+41
+40
+26
+28
+12
+20
+16
+38
+40
+40
+40
+40
+40
+40
+4
+6
+5
+4
+8
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+34
+26
+18
+32
+22
+4
+4
+14
+12
+28
+20
+24
+2
+40
+40
+40
+40
+40
+Total
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$10.00
+$460.00
+$440.00
+$450.00
+$470.00
+$440.00
+$430.00
+$460.00
+$450.00
+$450.00
+$470.00
+$420.00
+$400.00
+$400.00
+$400.00
+$400.00
+$450.00
+$440.00
+$400.00
+$400.00
+$400.00
+$400.00
+$400.00
+$400.00
+$400.00
+$400.00
+$400.00
+$400.00
+$400.00
+$400.00
+$440.00
+$460.00
+$450.00
+$440.00
+$480.00
+$14,500.00
+[10] Thus, the Appellant denies doing the work described in Exhibit I‑4, and claims that it essentially consisted of fictitious documents that were necessary to transfer and withdraw RRSP money invested in the Fonds de solidarité des travailleurs du Québec.
+[11] The Respondent's evidence, which consisted of the answers obtained during the cross-examination of the Appellant as well as the testimony of Éric Richard and Jacynthe Bélanger, revealed a completely different picture of the situation.
+[12] Indeed, it was very clearly shown that the work done by the Appellant did not end on the dates set out in the ROEs. A very important dimension of his work continued beyond those dates.
+[13] Moreover, the nature of the work involved could not be justified as work related to his status as chairman of the board, as opposed to work related to his capacity as CEO. Primarily, the duties of this work were directly related to his job as CEO of the Coopérative Forestière de la MRC de Matane, for which he received remuneration.
+[14] Among other things, I am referring to the collection work after jobs for the cooperative's clients were completed, the efforts to obtain new contracts for the following year, the planning of activities, and so forth. These tasks were specifically related to his job as CEO.
+[15] The Appellant tried to contradict several parts of his statutory declaration, citing the pretext that he did not draft it himself and had been intimidated by the investigators' leading questions.
+[16] In this regard, the Court noted that the Appellant was not the sort of person who tends to get intimidated; rather, he was the type of person who tends to impose his perception of things.
+[17] I also noticed a few explanations that were totally outlandish coming from a person of his knowledge and expertise. One such instance was when he said that anything done without pay cannot be work and therefore should not be taken into account by the Respondent.
+[18] After arguing that he devoted a few hours to volunteer work, he was contradicted by his own daily planner (Exhibit I‑2) which contains many entries that show unequivocally that his workload outside the periods in issue was actually quite heavy.
+[19] The Respondent also produced Exhibit I‑3, a voluminous document showing how assiduous he was during the periods in which he testified that he was not employed by the cooperative, and setting out the numerous expense accounts for which he was reimbursed during those periods.
+[20] The significance of the Appellant's expense accounts outside the periods in issue is clearly reflected in Exhibit I‑7, at paragraph 18, which is worth reproducing:
+[TRANSLATION]
+18. The worker regularly submitted expense accounts outside his periods of employment. When we verified these documents, we noticed that most of the claims included mileage. In order better to quantify the services rendered by the worker outside his periods of employment, we identified, on the attached tables, the days for which he claimed expenses. Based on these tables, we saw that
+· In 1999, the worker claimed 1977 km of travel from February 29 to April 9 and 805 km from April 1 to May 31. Expense reimbursements were made during these periods. His first day of work was May 3, 1999. (Tabs D, E1, E2 and E3.)
+· In 2000, he claimed 602 km in January, 250 km in February, 200 km in March, 300 km in April and 1200 km in May. His first day of work was May 29, 2000. (Tabs D, F1, F2, F3 and F4.)
+· In 2001, he claimed 1140 km in January, 500 km in February, 800 km in March and 1680 km in April. Gilles Pelletier was not on the payroll during the year 2002. (Tabs D, I and J)
+[21] During the cross-examination of the Appellant, counsel for the Respondent sought to contradict the Appellant using a day planner obtained from his employer. Counsel for the Appellant vigorously objected to the production of a copy of this day planner because the Respondent had not disclosed a copy when he requested one under the Access to Information Act, and he subsequently obtained a copy of the investigation report, better known as a CPT 101.
+[22] I took the objection under advisement and it is now time to dispose of it. Counsel submitted that the Respondent was under an obligation to disclose a copy of the day planner to him as part of his request for the file.
+[23] Thus, he submitted that the day planner was a very important, if not determinative, item of evidence insofar as the preparation of the Appellant's case was concerned.
+[24] He said that since this document should have been sent to him in response to his access to information request, this part of the testimony must be excluded from the Respondent's evidence.
+[25] First of all, I believe that counsel for the Appellant would like to have the provisions of the Access to the Information Act applied in a criminal context, where any breach of the Crown's duty of disclosure is often fatal to the prosecution.
+[26] This sort of provision does not exist in employment insurance cases. The Respondent certainly had the obligation under the Access to Information Act to produce the documents that were important to the preparation of the Appellant's case.
+[27] However, this obligation does not include the disclosure of copies of third‑party documents. The Respondent's duty and obligation with respect to such documents is to protect the third parties. Moreover, it was not proved that the essential procedures for obtaining documents under the Access to Information Act were followed, notably insofar as fees were concerned. Thus, the Appellant's objection to the right to tender a copy of the Appellant's day planner was unfounded and must be overruled.
+[28] The Appellant also argued that the Court should limit its analysis to the issue of the number of insurable hours, not the insurability of the work that was done.
+[29] This argument stems from the fact that, at the time of the very first determination, it was determined that the work done by the Appellant was insurable but that the number of insurable hours was far greater than the hours stated in the ROEs.
+[30] The Appellant objected to this first determination by seeking a review of the determination. At that time, his objection was essentially about the issue of insurable hours: in his submission, only the hours reported in the ROEs were insurable.
+[31] At his request, the file was reviewed, and it was determined that none of the work done was insurable. Based on this, he submits that the Court should essentially decide whether the hours of work in issue outside the periods reported in the ROEs are hours of insurable employment.
+[32] Lastly, the Appellant also argues that the Court should take account of the fact that the Respondent formally determined that the Appellant's employment was insurable and that the sole subject matter of his application for review was the number of insurable hours.
+[33] I do not believe that I have the authority to determine whether or not the decision at the first level was correct. The only decision under appeal and before this Court is the determination of July 7, 2005; in the wake of that determination, the Appellant filed a Notice of Appeal, which, in fact, reads as follows:
+[TRANSLATION]
+Grounds of appeal
+In my submission, the decision is unfounded in fact and in law because there was an employer-employee relationship, and thus, a true contract of service.
+[34] One can clearly assert that the Appellant brought this complaint upon himself or is the author of the situation that he is now contesting and criticizing.
+[35] Was it not he who, in Exhibit I‑4, formally declared that he worked for a considerable number of insurable hours? In that document, the Appellant formally asserted that he worked 1,450 hours and was paid $14,500, assertions that he later categorically denied upon the review.
+[36] Ms. Bélanger, who was responsible for the file on the review, did indeed believe the Appellant and allowed him to contradict his writing (Exhibit I‑4) even though it was validly made, so, accordingly, she set aside the contents of the document in question. Thus, the Appellant is seeking victory on every issue.
+[37] The Appellant chose to be the only witness to provide evidence with a view to discharging the onus of proof that was upon him.
+[38] Following the Court's intervention on the issue of the Appellant's dual status, the Appellant immediately seized the opportunity to argue that the work done outside the periods reported in the ROEs was part of his duties as chairman of the board, not as CEO.
+[39] This last‑minute interpretation was not supported by any document or testimony. It was cursory and essentially oral. On the other hand, the Respondent tendered various documents which showed beyond a shadow of a doubt the significance of the Appellant's involvement in the cooperative's affairs outside the periods stated in the ROEs.
+[40] Even if the Court were to assume that the evidence has shown that a part of this work fell within the Appellant's mandate as chairman of the board of directors, the remainder of the duties that he performed would still be so significant that it would show, on a balance of probabilities, that the Appellant in no way ceased to work on the dates set out in the ROEs, as he claimed he did in his oral evidence.
+[41] The Appellant's testimony, on which his case was solely based, seriously lacked credibility; I noticed numerous significant variances between the explanations given on the examination‑in‑chief and the explanations given on cross‑examination, notably with respect to the substantial amount of work done at times other than the periods in issue.
+[42] Moreover, did he not also acknowledge producing a false document so that he could withdraw $14,000 registered as an RRSP with the Fonds de solidarité?
+[43] It has been shown on a balance of probabilities that the Appellant clearly had such great influence on the management of the cooperative's affairs that he was the undisputed lord and master of the time, place and manner information contained in the ROEs.
+[44] Outside the periods in issue, he continued to do essentially the same work, with the exception of the field work. He saw to it that the contracts obtained were fully carried out so that the amounts due upon performance of the work would be paid.
+[45] He was also responsible for prospecting for customers and seeking new contracts for the subsequent year.
+[46] At the same time as he did this essential work, he managed relationships with all stakeholders. In this regard, the expense accounts associated with mileage claims say a great deal about the significant time that he devoted to his duties.
+[47] It has been shown, on a balance of probabilities, that the Appellant clearly had an agreement with the Payor which was to both parties' advantage.
+[48] The effect of the agreement on the employer was to reduce its payroll. As for the Appellant, he received employment insurance benefits and was reimbursed for his expenses.
+[49] As I have stated many times, the Employment Insurance Act ("the Act") is not a support measure for businesses. It is essentially a social measure intended to help workers who truly lose their work definitively or for a time.
+[50] The Appellant's periods of employment in the case at bar had nothing to do with the periods reported in the ROEs. Rather, there was an agreement that enabled the parties to take advantage of the benefits under the Act and had nothing to do with a true contract of service, which must meet three fundamental conditions in order to exist:
+· remuneration based on the work performed;
+· relationship of subordination; and
+· actual performance of the remunerated work.
+[51] The burden of proof was on the Appellant, but he has not proven the existence of a relationship of subordination, and such a relationship is not presumed. Moreover, it has been established, on a balance of probabilities, that the salary had nothing to do with the duration of the work.
+[52] For all these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 24th day of November 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 12th day of July 2007.
+Brian McCordick, Translator
+CITATION: 2006TCC639
+COURT FILE NO.: 2005-3397(EI)
+STYLE OF CAUSE: GILLES PELLETIER and M.N.R.
+PLACE OF HEARING: Matane, Quebec
+DATES -
+Hearing: June 29, 2006
+Appellant's written submissions: August 11, 2006
+Respondent's written reply: September 6, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: November 24, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Denis Tremblay
+Counsel for the Respondent:
+Martin Lamoureux
+COUNSEL OF RECORD:
+For the Appellant: Denis Tremblay
+Tremblay & Tremblay
+Matane, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

@@ -1,0 +1,245 @@
+---
+title: "Zhang v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/482183/index.do"
+last_modified: "2020-07-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 49"
+citation2: ""
+neutral_citation: "2020 TCC 49"
+decision_date: "2020-07-07"
+language: "en"
+item_id: "482183"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4582
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:09:04.443000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cebda65a45f144614313b91c5bede61cd5350385411a9367d32b8994129336fd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zhang v. The Queen
+
+- Citation: 2020 TCC 49
+- Decision date: 2020-07-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4582, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zhang v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-07-07
+Neutral citation
+2020 TCC 49
+File numbers
+2016-3976(IT)I
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-3976(IT)I
+BETWEEN:
+MEI ZHEN ZHANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 10, 2019, at Toronto, Ontario
+Before: The Honourable Justice Susan Wong
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Alexander Hinds
+Mitchell Meraw (student-at-law)
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2012 taxation year is dismissed without costs.
+Signed at Ottawa, Canada, this 7th day of July 2020.
+“Susan Wong”
+Wong J.
+Citation: 2020 TCC 49
+Date: 20200707
+Docket: 2016-3976(IT)I
+BETWEEN:
+MEI ZHEN ZHANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+I. Introduction
+[1] The Appellant Mei Zhen Zhang appeals the Minister of National Revenue’s March 6, 2014 reassessment of her 2012 taxation year.
+[2] The Appellant testified on her own behalf and called her accountant Donald Y. Chen as a witness. At the hearing, the Respondent called no witnesses and filed an affidavit of CRA litigation officer Ratmono (Joe) Thejo, sworn on September 4, 2019. This Court accepted the affidavit evidence pursuant to section 244 of the Income Tax Act. The hearing was conducted with the assistance of a Mandarin language interpreter.
+[3] This hearing was conducted de novo following the declaration of a mistrial by a different judge on December 15, 2017.
+II. Issues
+[4] The Minister reassessed the Appellant’s 2012 taxation year as follows:
+a) to include unreported income of $27,497; and
+b) levy a penalty under subsection 163(1) for repeated failure to report income.
+[5] The unreported income amount consists of the following:
+Received from
+Amount
+Details
+Homelife Gold Pacific Realty Inc.
+$27,236
+T4A – Other income
+RBC $US Money Market Fund
+$25
+T3 – Other income
+RBC Select Very Conservative Portfolio
+$102
+T3 – Other income
+RBC Select Very Conservative Portfolio
+$42
+T3 – Net capital gains
+RBC Select Very Conservative Portfolio
+$49
+T3 – Dividend income
+RBC Select Very Conservative Portfolio
+$43
+T3 – Interest income
+TOTAL
+$27,497
+[Reply to the notice of appeal at paragraph 5]
+[6] The subsection 163(1) penalty has been levied against the total amount of unreported income, i.e. $27,497.
+III. Factual Background
+[7] Using the discretion afforded under subsection 18.15(3) of the Tax Court of Canada Act, this Court accepted into evidence a copy of the transcript from the December 15, 2017 hearing [Exhibit R-1]. However, in light of the fact that the present hearing is de novo, I am not relying on testimony from the original hearing.
+[8] Using the same discretion under subsection 18.15(3), this Court also accepted into evidence an affidavit sworn by the Appellant on September 5, 2019 [Exhibit A-1]. There are some copies of correspondence between the Minister and either the Appellant or her accountant Mr. Chen. While these documents are hearsay, their prejudicial effect on the Respondent is very low since the Minister was a party to these communications.
+[9] The Appellant is a cosmetician. She testified that in about 2007 or 2008, she purchased four condominium units at 375 King Street West in Toronto, and that these purchases closed in about 2012. She stated that these units were purchased about three years before she set up a company with the intention of renting them out.
+[10] The Appellant testified that she used the services of a particular realtor with Homelife Gold Pacific Realty Inc. (“Homelife”) to make the four condominium purchases. In cross-examination, she stated that the realtor indicated he would pay her a sum of money in exchange for purchasing the properties through him.
+[11] She testified that she pressed the realtor for the payment for about a year, at which point she received $27,236 from him or Homelife (the “Homelife Payment”). She stated that he did not indicate he would be issuing a T4A slip with respect to the payment. The Appellant also stated that upon receiving the payment and the subsequent T4A slip, she did not report the amount in her tax return.
+[12] She testified that upon receiving the T4A slip, she consulted with Mr. Chen who advised her that he did not believe the amount was taxable. She stated that she placed her trust in Mr. Chen, who prepared her 2012 tax return and that she reviewed her return before filing.
+[13] She testified that when she subsequently received a letter from CRA indicating that she owed tax on that payment, she spoke to Mr. Chen because she was of the view that the amount was a gift and not taxable. In cross-examination, she stated that she believed Homelife had issued the T4A slip in error and that she tried to contact them many times without success.
+[14] With respect to the balance of the unreported income amount of $261 for 2012, the Appellant testified that she was unsure as to whether that omission was made by her or Mr. Chen. She stated that it was such a small amount that she likely did not know about it.
+[15] With respect to the 2011 taxation year, the Minister assessed the Appellant for unreported income totalling $7,791.96 and broken down as follows:
+Description
+Amount
+Dividend income
+$43.00
+Interest income
+$2,606.00
+Other income
+$2,853.00
+Capital gains income
+$46.00
+Foreign non-business income tax paid
+$144.96
+Net foreign non-business income
+$2,099.00
+TOTAL
+$7,791.96
+[Affidavit of Mr. Thejo at paragraph 10]
+[16] When asked in cross-examination about the unreported income amount for 2011, the Appellant testified that she would not intentionally have failed to report it.
+[17] Mr. Chen testified that he first met the Appellant in 2012 through a realtor named George Kung who was a mutual acquaintance and not with Homelife. In cross-examination, Mr. Chen testified that he became the Appellant’s accountant in February 2014 and that he did not prepare her 2012 return. He stated that he first began preparing her returns in 2014 or 2015.
+[18] He stated that he first advised the Appellant with respect to the Homelife T4A slip in about February 2014, when she received a letter from CRA’s T1 Matching Program [Exhibit A-1, exhibit #1]. He testified that he might have provided indirect advice when he responded to an inquiry from Mr. Kung in 2012 about real estate commission rebates.
+IV. Legislative Framework
+[19] The most relevant legislative provisions in the present case are subsections 9(1) and 163(1) of the Income Tax Act.
+[20] Subsection 9(1) is the general rule that a taxpayer’s income from a business or property with respect to a particular taxation year is their profit from that business or property for that year.
+[21] Subsection 163(1) imposes a strict liability penalty where a taxpayer has failed to report income in a particular year and in any of the preceding three years, i.e. there are two years under consideration and the penalty is calculated based on the second failure.
+[22] With respect to the 2012 taxation year, the following version of subsection 163(1) applies:
+163. (1) Every person who
+(a) fails to report an amount required to be included in computing the person’s income in a return filed under section 150 for a taxation year; and
+(b) had failed to report an amount required to be so included in any return filed under section 150 for any of the three preceding taxation years
+is liable to a penalty equal to 10% of the amount described in paragraph (a), except where the person is liable to a penalty under subsection (2) in respect of that amount.
+[23] Subsection 163(1) was amended in 2016 with respect to 2014 and subsequent taxation years. This amendment combined with the enactment of subsection 163(1.1) essentially provide for a minimum threshold of unreported income in both years and an upper threshold in terms of the amount of the penalty which can be assessed. The version of the provision which applies to the present appeal does not contain these thresholds.
+V. Analysis
+a) Whether the assessed amounts are income
+[24] The Appellant’s testimony with respect to the events leading to Homelife Payment was sparse and difficult to follow. She referred to the payment as a kickback, a benefit, and a gift. These three terms may lead to different tax consequences and the evidence she led was not enough to enable this Court to analyze the circumstances and make a determination. For example, no evidence was tendered with respect to the condominium purchases, which are the transactions giving rise to the payment.
+[25] Most importantly, the Appellant did not call the Homelife realtor to testify nor did she provide this Court with proof of having attempted to subpoena this individual to testify. As such, I draw the adverse inference that if this individual had testified, their testimony would have contradicted the Appellant’s assertion that the payment was not income.
+[26] With respect to the remaining $261 of unreported income for 2012, the Appellant led no evidence.
+[27] The $27,497 total was comprised of six amounts obtained from T3 and T4A slips filed with the Minister by the third-party issuers of those slips and I have no basis to conclude that these amounts were something other than income [Affidavit of Appellant, Exhibit A-1 at exhibit #1; Affidavit of Mr. Thejo at paragraphs 14 to 18].
+[28] The fact that the Appellant did not rebut the Minister’s assumptions set out in paragraph 9 of the Reply to the Amended Notice of Appeal, is likely sufficient to determine that the total amount of $27,497 was income in the 2012 taxation year.
+[29] With respect to the Homelife Payment, I am also able to discern the following from the Appellant’s testimony:
+a) the payment relates to the Appellant’s purchase of four condominium units in the same complex;
+b) the Appellant purchased these properties for or on behalf of a company;
+c) the Appellant is either an owner or the sole owner of that company; and
+d) the four properties were purchased with the intention that they be rented out.
+[30] In addition, the Appellant reported net rental income of $1,800 in her 2012 taxation year, although the precise source is unclear [Affidavit of Mr. Thejo at paragraph 12].
+[31] In Stewart v. Canada, 2002 SCC 46 at paragraph 50, the Supreme Court of Canada described and set out the following two-part test for determining whether a taxpayer has a source of income for the purposes of section 9:
+[50] It is clear that in order to apply s. 9, the taxpayer must first determine whether he or she has a source of either business or property income. As has been pointed out, a commercial activity which falls short of being a business, may nevertheless be a source of property income. As well, it is clear that some taxpayer endeavours are neither businesses, nor sources of property income, but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+(ii) If it is not a personal endeavour, is the source of the income a business or property?
+[32] Based on the Appellant’s testimony that:
+1) the four condominium units were purchased as rental properties,
+2) the Appellant had an ownership interest in these properties, either directly or through a company, and
+3) the Homelife Payment (for which a T4A slip was issued) is related to the purchase of these properties,
+I would apply the Stewart test to conclude that there is a source of income from a business or property and that the Homelife Payment is income from that source. Again, there was insufficient evidence for me to find otherwise.
+b) Subsection 163(1) penalty – Repeated failure to report income
+[33] There are differing views as to whether the defence of due diligence is available with respect to both failures or only the second one, i.e. the taxation year for which the penalty is imposed.
+[34] I am of the view that the due diligence defence is available with respect to both failures and in particular, I agree with the reasoning set out in Chan v. The Queen, 2012 TCC 168 at paragraphs 17 to 21 and Galachiuk v. The Queen, 2014 TCC 188 at paragraphs 8 to 10. Two failures are required in order for the penalty to apply and in my opinion, the fact that the penalty is assessed against the second failure does not obviate an argument of due diligence regarding the first failure.
+[35] In Résidences Majeau Inc. v. Canada, 2010 FCA 28 at paragraphs 8 to 10, the Federal Court of Appeal reiterated the two ways in which a taxpayer may establish due diligence as follows:
+[8] According to Corporation de l’école polytechnique v. Canada, 2004 FCA 127, a defendant may rely on a defence of due diligence if either of the following can be established: that the defendant made a reasonable mistake of fact, or that the defendant took reasonable precautions to avoid the event leading to imposition of the penalty.
+[9] A reasonable mistake of fact requires a twofold test: subjective and objective. The subjective test is met if the defendant establishes that he or she was mistaken as to a factual situation which, if it had existed, would have made his or her act or omission innocent. In addition, for this aspect of the defence to be effective, the mistake must be reasonable, i.e. a mistake a reasonable person in the same circumstances would have made. This is the objective test.
+[10] As already stated, the second aspect of the defence requires that all reasonable precautions or measures be taken to avoid the event leading to imposition of the penalty.
+[36] In the present appeal, I am unable to find that either test was satisfied for either 2011 or 2012.
+2012
+[37] With respect to the first test, the Appellant does not assert that there has been a mistake of fact. Her explanation that she did not report the Homelife Payment because it was not taxable, is a mistake of law. The only two mistakes of law which might give rise to a defence of due diligence are an invincible mistake of law (i.e. impossible to avoid) and an officially induced mistake (i.e. reasonable reliance on the advice of an official): see Corporation de l’École Polytechnique v. Canada, 2004 FCA 127 at paragraphs 39 to 42. Neither of these exceptions apply to the present situation.
+[38] With respect to the second test (i.e. whether all reasonable precautions were taken to avoid the event), I cannot find that making an inquiry of George Kung or Mr. Chen upon receipt of the T4A slip or CRA’s subsequent Matching Program letter, to be sufficient when it appears that no other steps were taken.
+[39] The Appellant referred to the Homelife Payment as a kickback, a benefit, and a gift; these are different concepts which may lead to different tax treatments. The fact that she could not accurately describe the circumstances surrounding the payment suggests inattentiveness and I cannot conclude that all reasonable precautions were taken to avoid the failure to report the Homelife Payment.
+[40] In addition, the Appellant’s evidence conflicted in the following ways, among others:
+a) she testified that upon receiving the T4A slip, she consulted with Mr. Chen about its taxability. On the other hand, he testified that he was consulted about this issue but he was uncertain as to whether it was the Appellant or George Kung who consulted him in 2012;
+b) she testified that Mr. Chen prepared her 2012 tax return. On the other hand, he testified that he did not begin preparing her returns until 2014 or 2015; and
+c) Mr. Chen stated that he became her accountant in February 2014, i.e. based on when he first gave her advice about the Homelife Payment. On the other hand, the Appellant signed authorizations in February 2013 (i.e. one year earlier) to have Mr. Chen represent her and her company in dealings with CRA for all taxation years [Exhibit A-1, exhibits #2 and #3].
+[41] These inconsistencies do not suggest dishonesty in the present case but rather, they indicate an inattentiveness to one’s own affairs such that deadlines and obligations will inevitably be missed.
+[42] With respect to the balance of the unreported income amount of $261 for 2012, the Appellant stated that the amount was so small that she probably was unaware of it, while also suggesting that Mr. Chen might be responsible for the omission. Even if Mr. Chen prepared her 2012 return, I expect that she initially received the T3 slips when they were issued and that she should have reviewed her return for completeness prior to filing.
+[43] I conclude that there was no evidence to support either a reasonable mistake of fact or that all reasonable precautions were taken to avoid the failure to report these T3 amounts. The Minister reassessed the Appellant for similar types of amounts in the 2011 taxation year [Affidavit of Mr. Thejo at paragraphs 10, 16, and 18]. Therefore, I would expect a reasonably prudent taxpayer to have taken steps to avoid such an omission in a subsequent year.
+2011
+[44] The Minister reassessed the Appellant’s 2011 taxation year to include unreported amounts totalling $7,791.96 as income [Affidavit of Mr. Thejo at paragraph 10].
+[45] Other than the Homelife Payment, the nature of the amounts omitted in 2011 are similar to those omitted in 2012, i.e. dividend income, capital gains income, foreign non-business income, and other income.
+[46] The Appellant led no evidence with respect to these omissions and stated that she would not have intentionally failed to report these amounts. As a result, I cannot find due diligence to have been established.
+[47] There is a general lack of attentiveness that appears to have led to similar omissions in 2011 and 2012, and the repeat nature is the essence of the subsection 163(1) penalty.
+VI. Conclusion
+[48] The appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 7th day of July 2020.
+“Susan Wong”
+Wong J.
+CITATION:
+2020 TCC 49
+COURT FILE NO.:
+2016-3976(IT)I
+STYLE OF CAUSE:
+MEI ZHEN ZHANG AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 10, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+July 7, 2020
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Alexander Hinds
+Mitchell Meraw (student-at-law)
+COUNSEL OF RECORD:
+For the Appellant: n/a
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

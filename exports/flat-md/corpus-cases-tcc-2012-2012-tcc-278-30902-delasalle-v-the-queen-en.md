@@ -1,0 +1,119 @@
+---
+title: "delaSalle v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30902/index.do"
+last_modified: "2012-07-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 278"
+citation2: ""
+neutral_citation: "2012 TCC 278"
+decision_date: "2012-07-26"
+language: "en"
+item_id: "30902"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7461
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:14:25.490000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3964fa7e5d035c2f07ff6404252e770607f22e9a283998807de74d792d9094a4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# delaSalle v. The Queen
+
+- Citation: 2012 TCC 278
+- Decision date: 2012-07-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7461, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+delaSalle v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-26
+Neutral citation
+2012 TCC 278
+File numbers
+2011-3416(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2012 TCC 278
+Date: 20120726
+Docket: 2011-3416(IT)I
+BETWEEN:
+MARG M. delaSALLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons for Judgment delivered orally from the Bench on June 5, 2012 at
+Vancouver ,
+British Columbia
+)
+Campbell
+J.
+[1] Let the record show that I am delivering oral reasons in the appeal of Marg delaSalle, which I heard earlier today. This appeal is in respect to the Appellant's 2008 taxation year.
+[2] The Appellant and her sister incorporated Blue Stone Used Books Store Limited on January the 3rd, 2007 for the purpose of carrying on the business of an online used bookstore.
+[3] The Appellant and her sister were the only directors of the corporation. A business number was assigned to the corporation and corporate income tax returns were filed. The returns were signed by the Appellant's sister, although a third sister, Patricia, looked after the preparation of those returns.
+[4] In the Appellant's 2008 return she claimed 40 percent of the net business losses as her own personally at line 135 of the return, although no business statement was attached. The auditor testified that since the corporation was active at the time and had not been dissolved, he considered those expenses to be corporate expenses and not expenses that the Appellant incurred personally for the purposes of producing income.
+[5] The issue was whether the Appellant personally incurred those business expenses in the amount of $6,944.26. The Appellant's position is that she and her sister carried on the used bookstore business as a partnership and not through the corporation. Her evidence was that they did incorporate on the advice of individuals who advised her that incorporation was the route to take when opening a business. It is unclear from the evidence but the Appellant's testimony seems to indicate that this was not advice she received from professionals.
+[6] In any event, according to the Appellant, as time went on throughout the year 2007 it was going to be too costly to operate through the corporation and the corporation did not appear to be an effective vehicle for such a small business operation.
+[7] The Appellant testified that all expenses of the corporation were paid for personally by herself and her sister through credit cards or cheques. She admitted that her primary focus was on setting up the website and software rather than on the operation of the business through the corporate vehicle or through a partnership. She and her sister never officially discussed this issue either and her evidence was that they just dealt with the business as if it were a partnership.
+[8] The Appellant did not review the corporate return that was filed in 2008 but she was aware that it had been filed. Her evidence was that this return was filed on the advice of CRA officials and that the expenses were listed on the corporate return on the advice of CRA.
+[9] The Appellant stated that she was unaware that by listing those expenses on the corporate return that they would be considered expenses of the corporation. She maintained that she felt that this exercise was simply a bookkeeping item suggested by CRA. The Appellant contends that since this was an error or unintentional mistake, she should be permitted to amend the corporate return so that the partnership can claim the expenses.
+[10] The issue in this appeal boils down to whether the online bookstore operation was the business operation of the partnership, as the Appellant contends, or of the corporation as the Minister claims.
+[11] To allow this appeal I would have to ignore the very documentary evidence before me that supports the Minister's position, that is, that the business was operated through the corporation. The T2 return for 2008, which was signed by the Appellant's sister and prepared by her third sister, clearly indicates and lists expenses as being the operating expenses of the corporation. The corporation was incorporated in early 2007 for the sole purpose of operating this business. It was still active during this period. It had not been dissolved and instead continued to file returns.
+[12] Although the Appellant seemed to view the inclusion of these expenses in the T2 return as merely a bookkeeping item that CRA required, I cannot accept that in reality she did not at least anticipate a potential problem in including those expenses both on the corporate return and also on her own personal return. The Appellant is, after all, a child psychologist and an intelligent individual. Yet she claims that she saw no red flags in completing returns in this manner. There is no suggestion that she obtained independent professional advice, and in fact her evidence was that she relied solely on advice received from CRA in this matter. However, as Respondent counsel pointed out, there is abundant case law indicating that this court is not bound by erroneous advice from CRA officials to taxpayers.
+[13] I have nothing except the Appellant's testimony to support her argument, and very little to counter the documentary evidence that supports the Minister's position that the incorporation was carrying on the business and incurring the expenses. The Appellant may have believed that she could simply ignore the corporate vehicle after it had been incorporated and operate through a partnership. The evidence does not support that she and her sister, however, sat down and discussed these options. They appear to have simply followed a pattern of paying personally for expenses they incurred.
+[14] Eventually, the Appellant claimed 40 percent of those expenses on her 2008 personal return and allowed the T2 corporate return to be filed also listing those expenses.
+[15] The method was haphazard at best, as were the actions of the Appellant, and in hindsight there were a number of actions that the Appellant and her sister should have taken to steer these matters in the proper direction. I cannot accept the Appellant's testimony over the straightforward documentary evidence that is before me in this appeal. Consequently, I am dismissing the appeal for the 2008 taxation year.
+Signed at Summerside, Prince Edward Island this 26th day of July 2012.
+“Diane Campbell”
+Campbell
+J.
+CITATION: 2011 TCC 278
+COURT FILE NO.: 2012-3416(IT)I
+STYLE OF CAUSE: Marg M. delaSalle and
+Her Majesty The Queen
+PLACE OF HEARING:
+Vancouver ,
+British Columbia
+DATE OF HEARING: June 5, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Diane Campbell
+DATE OF ORAL JUDGMENT: June 5, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kristian DeJong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of
+Canada
+Ottawa, Canada

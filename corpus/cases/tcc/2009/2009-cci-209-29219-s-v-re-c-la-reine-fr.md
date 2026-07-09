@@ -1,0 +1,168 @@
+---
+title: "Sévère c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29219/index.do"
+last_modified: "2009-05-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 209"
+citation2: ""
+neutral_citation: "2009 CCI 209"
+decision_date: "2009-05-07"
+language: "fr"
+item_id: "29219"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7020
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:55:13.576000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0f8b0dfc7428d37bf638c0d19312582eb410c78ed8da2d401a3f6b2cc6a55344"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sévère c. La Reine
+
+- Citation: 2009 CCI 209
+- Decision date: 2009-05-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7020, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sévère c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-05-07
+Référence neutre
+2009 CCI 209
+Numéro de dossier
+2008-2288(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2288(IT)I
+ENTRE :
+CLARK D. SÉVÈRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 14 janvier 2009, à Montréal (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Illinca Ghibu
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu, (la « Loi »), par le ministre du Revenu national (le « ministre ») pour l’année d'imposition 2006 est accueilli, sans frais; le dossier devra être déféré au ministre pour nouvel examen et nouvelle cotisation en tenant pour acquis que le montant de 14 431 $ n’était pas un avantage imposable, le tout, selon les motifs du jugement ci-joints.
+Les frais de dépôt de 100 $ seront remboursés à l’appelant
+Signé à Ottawa, Canada, ce 7e jour de mai 2009.
+« Alain Tardif »
+Juge Tardif
+Référence : 2009 CCI 209
+Date : 20090507
+Dossier : 2008-2288(IT)I
+ENTRE :
+CLARK D. SÉVÈRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel relatif à l’année d’imposition 2006. La question en litige est :
+7. La question en litige consiste à déterminer si, pour l’année d’imposition 2006, le Ministre était justifié d’ajouter aux revenus de l’appelant, le montant 14 431 $, à titre de revenus d’emploi.
+[2] Seul l’appelant a témoigné, il a expliqué avoir été à l’emploi d’une société canadienne dont les activités avaient lieu dans la région de Montréal. Cette société a été acquise par une entreprise américaine.
+[3] Des suites de la transaction, l’acquéreur a laissé entendre que le bureau de Montréal pourrait éventuellement être abandonné et que la société investirait plutôt dans la région de Toronto d’où la création d’une nouvelle place d’affaires à Toronto; l’appelant s’est vu offert un poste à cet endroit alors que jusqu’à ce jour, il avait travaillé à Montréal et habitait St-Hubert dans la banlieue.
+[4] Il a accepté le poste à Toronto; il a dû faire face à toutes les conséquences reliées à ce transfert, tel le déménagement, la vente et l’achat de propriété etc., etc.
+[5] De fait, l’appelant a affirmé être arrivé à Toronto en février; après avoir acquis une nouvelle maison en mai; il s’est fait congédier d’une manière cavalière en novembre de la même année, soit en 2005.
+[6] À la suite de son congédiement, il a dû initier des procédures légales pour obtenir une compensation regroupant plusieurs composantes, notamment pour détresse mentale, dommages spéciaux, pertes financières, remboursement de dépenses non payées, etc., etc.
+[7] À la suite des procédures, un règlement est intervenu. Le règlement prévoyait plusieurs composantes dont notamment l’obligation pour l’ex-employeur de l’appelant de rembourser les prestations d’assurance emploi qu’il avait reçu, ses honoraires d’avocat; le règlement tenait aussi compte d’un montant de 5 923 $ reçu lors de sa mise à pieds comme avis préalable à toute mise à pieds.
+[8] L’appelant a indiqué avoir accepté l’offre soumise à la condition que le montant litigieux à l’origine de la cotisation dont il est fait appel ne soit pas imposable.
+[9] Des suites du règlement, l’ex‑employeur de l’appelant, Cubic Field Service Canada Limited, a émis un T4 modifié indiquant un gain total pour l’année d’imposition 2006 de 37 201 $ soit 14 431 $ de plus que le premier T4.
+[10] S’appuyant sur les articles 3, 4, 5, 6, 8 et sur le paragraphe 248(1) et le sous‑alinéa 56(1)a)(ii) de la Loi de l’impôt sur le revenu, (la « Loi »), le ministre du Revenu national (le « ministre ») a conclu qu’il s’agit là de montant imposables.
+[11] De son côté, l’appelant prétend que ce montant de 14 431 $ n’est pas imposable étant donné qu’il s’agit là essentiellement de remboursement de dépenses effectuées.
+[12] D’entrée de jeu, je voudrais exprimer ma désapprobation quant à la façon de faire de l’intimée. Le ministre a informé le tribunal séance tenante qu’il appuyait la cotisation sur un nouveau fondement juridique. L’appelant n’ayant été informé de cette volte-face que 2 jours avant l’audience, cela lui laissait un très court délai pour préparer son dossier en vue de l’audience. Après vérification, il s’est avéré que l’appelant ne subissait toutefois aucun préjudice, ses explications étant, de toute manière, les mêmes, sans égard au fondement juridique de la cotisation à l’origine de son appel.
+[13] Dans un premier temps, il y a lieu de rejeter l’argument voulant que le règlement ait été fait et accepter à la condition que le montant obtenu ne soit pas imposable.
+[14] L’imposabilité d’un montant qu’une personne reçoit n’est pas en fonction de la volonté des parties à la transaction, il s’agit là d’une question dont la réponse est essentiellement en fonction des dispositions de la loi applicable.
+[15] Ce n’est pas parce que les parties ont voulu qu’une indemnité soit sans conséquence fiscale que ladite transaction doit être traitée ainsi. S’il s’agissait là d’une considération principale dont dépendait le règlement, il s’agit peut-être là d’une condition d’annulation de la transaction, procédure ou situation toutefois sans effet quant à l’Agence des douanes et du revenu dont le rôle et la responsabilité est de percevoir tous les impôts payables en vertu de la Loi, la volonté des parties à la transaction n’étant pas un élément pertinent. Les conséquences fiscales d’une transaction sont essentiellement en fonction de la Loi de l’impôt sur le revenu.
+[16] En d’autres termes, l’Agence des douanes et du revenu n’est aucunement lié par une entente entre les parties relatives aux conséquences fiscales d’une transaction.
+[17] Le premier argument de l’appelant voulant que les montants obtenus soient non imposable étant donné ses exigences lors du règlement est donc sans effet sur la cotisation qu’il conteste.
+[18] L’appelant soutient également que les montants qui composent l’ajout au T4 modifié ne sont pas imposables, étant donné la nature et le pourquoi du paiement obtenu. À cet effet, il a fait référence à des per diem non remboursés au moment de son congédiement, commission d’agent immeuble, location de voiture, etc., etc.
+[19] Les explications constituant la preuve de l’appelant sont bien décrites à la lettre qui a constitué son avis d’appel. Le contenu de cette lettre se lit comme suit :
+Madame, Monsieur,
+Je souhaiterais a nouveau vous informer de ma décision d’invoquer mon droit de contestation de cet avis de cotisation.
+Je trouve ceci d’une aberrance, lorsque j’ai été congédié en 2005 par cette employeur, je me suis retourné vers les Normes du Travail et Ressource Canada, les deux bureaux ont refusé de prendre ma cause en question prétextant qu’il n’était pas de leur ressort de forcer ou de poursuivre la compagnie pour me rembourser mes dépenses ou pertes, car ceci n’avait rien à voir avec mon revenu en temps que salarié, tout ce qu’ils pouvaient demander à la compagnie était mon 4%, c’est alors qu’ils m’ont forcé a engager un avocat (9 000.00 $), maintenant qu’il y a eu un arrangement hors court (en 2006), le gouvernement change son fusil d’épaule en voulant m’imposer des remboursements encourus, des pertes d’argents comme un revenu ou avantage sociaux.
+L’arrangement hors court c’est fait en 3 étapes. La première étape a été de rembourser l’assurance chômage (8 260.00 $) de tout montant perçu. La deuxième étape a trait au montant alloué pour mon 4% (5 384.61$) ainsi qu’un montant forfaitaire pour un congédiement illégal (17 386.16 $). La troisième étape est le paiement de mes frais d’avocat (9 000.00 $) et afin que j’abandonne mon action en justice pour dommage et intérêt qui couvrait mon épouse et mes 4 enfants, la compagnie a convenu de rembourser tout mes frais et pertes encourus (14 430.77 $) dont je leur émettrais les factures.
+Donc comme les Normes du Travail et Ressource Canada avaient indiqué, j’ai payé Revenu Canada sur mon revenu, soi l’assurance chômage, mon 4% ainsi que le montant forfaitaire pour congédiement illégal. Mon action en justice pour dommage et intérêt, dont j’ai couvert tout les frais seul, n’est pas un revenu encore moins un avantage social, qui ne m’a nullement apporté un avantage ou revenu supplémentaire, se sont des sommes supplémentaires que j’ai dû défrayer suite a un préjudice causé par la dite compagnie (Cubic Field Services Canada Ltd.), alors ces comme vouloir m’imposer deux (2) sur un même revenu.
+Fait à noter les feuilles T4 modifiés provenant de Cubic Field Services Canada Ltd., dont vous faites allusion ne m’ont jamais été transmis par l’employeur sachant for bien que j’allais contester le tout et annuler l’entente pour bris de condition.
+Comme mentionné plus haut, je conteste cette imposition par procédure informelle, cependant j’ai payé le montant demandé jusqu’à la fin des procédures. Vous réclamez un montant de 2 797.52 $, alors compte tenue que mon remboursement d’impôt de cette année est de 1 105.48 $, j’ai donc émis un chèque de 1 692.04 $ au nom de l’Agence du revenu du Canada.
+Veuillez agréer, madame, monsieur, l’expression de ma considération distinguée.
+[Document reproduit tel quel.]
+[20] Les circonstances et le contexte, soit l’ouverture d’un bureau à Toronto et la fermeture envisagée du bureau de Montréal sont des éléments forts utiles pour conclure que l’appelant était manifestement un employé utile et apprécié de son employeur qui avait dans un tel contexte avantage à maintenir le lien d’emploi avec l’appelant dans le cadre de la nouvelle orientation de l’entreprise.
+[21] Peu de temps après son arrivée à Toronto, l’appelant fut congédié d’une manière somme toute très cavalière. La preuve à cet effet n’est pas très explicite; cependant, le fait que des procédures légales aient été entamées après le congédiement et qu’un règlement soit ultérieurement intervenu m’apparait suffisant pour conclure que la relation employeur–employé n’était pas à son meilleur; il n’est donc pas surprenant que l’ex-employeur de l’appelant ait produit un T4 amendé à la suite du règlement ce qui manifestement a produit le résultat souhaité, c’est-à-dire l’établissement d’une nouvelle cotisation obligeant ainsi l’appelant à se débattre pour faire valoir ses droits d’autant plus qu’il n’a, semble-t-il, jamais reçu une copie du T4 amendé.
+[22] Il est probable que ce dossier n’aurait jamais été litigieux sur le plan fiscal si le lien de travail de l’appelant avec son ex-employeur ne s’était pas détérioré au point de générer un litige judiciaire.
+[23] L’appel porte essentiellement sur le traitement fiscal devant attribué au montant ajouté de 14 431 $ qui a fait l’objet d’un T4 modifié.
+Analyse
+[24] D’entrée de jeu, il n’est pas exagéré d’affirmer que le fondement juridique de la cotisation dont il est fait appel est loin d’être évident; en effet, l’intimée a décidé quelques jours avant l’audition de corriger le tir et de soumettre que le fondement juridique de la cotisation serait désormais le sous-alinéa 56(1)a)(ii) à savoir que le montant en litige 14 431 $ devait être imposé comme étant le résultat d’un règlement hors cour dont le capital constituait un avantage imposable.
+[25] Au moment de la nouvelle cotisation, l’intimée avait en mains tous les éléments et informations à partir desquels la nouvelle cotisation dont il est fait appel avait été établie. Pourquoi cet amendement important à la dernière minute sinon l’inconfort manifeste avec le fondement juridique retenu au départ?
+[26] Ce changement de cap n’a pas eu pour effet de désavantager l’appelant dont les explications à l’appui de son appel sont demeurées inchangées. En substance, ce dernier a fait valoir essentiellement que son employeur l’avait incité à venir à Toronto sous prétexte que l’avenir du bureau de Montréal était incertain.
+[27] L’ex-employeur avait donc un intérêt certain et évident en ce qu’il obtenait un employé expérimenté qualifié pour démarrer et préparer les accises de la nouvelle entreprise à Toronto.
+[28] L’appelant a ainsi expliqué qu’il ne s’était aucunement enrichi par le remboursement des dépenses réclamées à son employeur qui se serait d’ailleurs engagé à les lui rembourser.
+[29] Non seulement, l’appelant ne s’est pas enrichi, il est manifeste qu’il se serait appauvri s’il avait dû assumer le remboursement de ces dépenses raisonnables effectuées dans le cadre de son travail.
+[30] Bien qu’il semble y avoir une certaine incohérence au niveau des dossiers de cette Cour en cette matière, il semble que la situation soit claire quant au traitement fiscal régissant les situations où le bénéficiaire bénéficie d’un remboursement qui constitue un enrichissement; il s’agit alors d’un avantage imposable.
+[31] Cependant si le bénéfice obtenu a un effet neutre sur le bénéficiaire ou si, encore plus, la personne concernée s’appauvrit, les sommes raisonnables obtenues de l’employeur et ou ex-employeur, en l’espèce, les montants en question ne sont pas imposables.
+[32] Un montant payé à un employé sera considéré un avantage imposable si sa valeur enrichi le contribuable, c’est-à-dire, si la valeur du « remboursement » d’une dépense s’affiche au-delà de la dépense actuelle qui fut déboursée par l’individu. Tels furent les commentaires du juge en chef Bowman tel qu’il était, dans Rachfalowski[1] :
+17 Au lieu d’essayer de trouver un lien commun cohérent dans ces décisions et dans la myriade d’autres affaires portant sur des avantages conférés à des employés, il faut bien reconnaître l’existence de divergences de vues philosophiques parmi les juges et que, même si l’expression « acquisition importante ayant conféré un avantage économique » utilisée dans un grand nombre de décisions paraît bien et a une tournure fortement judiciaire, le fait de répéter la chose ne saurait aucunement remplacer la question suivante : « Qu’est-ce que l’employé a retiré du présumé avantage, qui devrait avoir pour effet d’augmenter son revenu? » Il s’agit d’une question pratique, pleine de bon sens, qui exige une réponse pratique pleine de bon sens.
+. . .
+21 . . . Je crois que le principe qui se dégage de ces décisions – au Canada, au Royaume-Uni et aux États-Unis – est qu’un « avantage » n’est pas inclus dans le revenu d’un employé s’il est principalement conféré pour les besoins de l’employeur ou parce que c’est plus commode pour celui-ci. C’est ce qui ressort du passage tiré de la décision Lowe, précitée, au paragraphe 15, même lorsque l’avantage représente une acquisition importante ou une valeur économique.
+[33] Dans la cause Pezzelato[2], le juge Bowman tel qu’il était, contemple le but de l’inclusion énoncée à l’article 6 :
+12 . . . La portée de l’article 6 est très large (The Queen v. Savage, 83 D.T.C. 5409; La Reine c. Blanchard, C.A.F., 5 juillet 1995, A-1532-92). La seule question est de savoir s’il s’agissait d’un avantage. Le terme utilisé dans la version anglaise est "benefit".
+13 Cette question a été l’objet de nombreux litiges devant notre cour et devant des tribunaux supérieurs. Avant de traiter de la jurisprudence, je voudrais examiner le problème simplement comme une question de principe et de bon sens. Nonobstant la portée de sa formulation, l’article 6 ne vise pas à créer un concept artificiel de revenu d’emploi. Il vise plutôt à reconnaître les multiples façons de rétribuer un employé pour ses services et à les assujettir à l’impôt. Il ne vise pas à étendre le sens ordinaire du mot avantage (benefit) à des choses qui ne sont nullement des avantages. Autrement dit, la large portée de l’article 6 concerne la manière dont l’avantage est conféré et non la définition du terme avantage. Ce point de vue est plus facile à illustrer d’exemples qu’à énoncer. Si, pour inciter un employé à déménager d’une ville agréable du sud de l’Ontario (par exemple Guelph), où le coût de la vie est peu élevé, dans une métropole stressante et dispendieuse comme Toronto, un employeur augmente le salaire de l’employé de 50 p. 100, personne ne contesterait que l’augmentation est un revenu, bien qu’elle vise en partie à indemniser l’employé pour l’accroissement du coût de la vie et la diminution de la qualité de vie. Par contre, si l’employeur fait venir l’employé à Toronto pour un mois et lui paie le séjour à l’hôtel (ou lui fournit un appartement qui appartient à la compagnie), ainsi que les repas, personne ne dirait qu’il s’agit d’un avantage imposable. De même, si un employeur fait déménager un employé d’une ville dans une autre, le remboursement des frais de déménagement n’est pas imposable.
+[34] À la lumière de la prépondérance de la preuve, je conclus, en ce qui concerne le remboursement de dépenses de 14 431 $ à l’origine du T4 modifié, qu’il s’agit de dépenses légitimes et raisonnables et que l’appelant n’a aucunement été enrichi. Conséquemment, l’appel est accueilli et le dossier sera renvoyé au ministre pour qu’une nouvelle cotisation soit établie en tenant pour acquis que le montant de 14 431 $ n’était pas un avantage imposable.
+Signé à Ottawa, Canada, ce 7e jour de mai 2009.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2009 CCI 209
+Nº DU DOSSIER DE LA COUR : 2008-2288(IT)I
+INTITULÉ DE LA CAUSE : CLARK D. SÉVÈRE ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 14 janvier 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 7 mai 2009
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Illinca Ghibu
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Rachfalowski v. R., 2008 CarswellNat 2354, 2008 D.T.C. 3626 (Eng.), 2008 TCC 258, 2008 CCI 258, 70 C.C.P.B. 76, [2009] 1 C.T.C. 2073 (procédure informelle).
+[2] Pezzelato (F.) v. Canada, 1995 CarswellNat 6069, [1995] 2 C.T.C. 2890, 9 C.C.P.B. 128, 96 D.T.C. 1285.

@@ -1,0 +1,320 @@
+---
+title: "Pechet v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28602/index.do"
+last_modified: "2008-04-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 208"
+citation2: ""
+neutral_citation: "2008 TCC 208"
+decision_date: "2008-04-11"
+language: "en"
+item_id: "28602"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1069
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:21:26.309000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2f22f49c5b6aea8d987c3fa76f6bcc5caab9933fc45d53bcbb441dc660e09837"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pechet v. The Queen
+
+- Citation: 2008 TCC 208
+- Decision date: 2008-04-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1069, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pechet v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-11
+Neutral citation
+2008 TCC 208
+File numbers
+2005-3186(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3186(IT)G
+BETWEEN:
+CAROLE PECHET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 4, 2008 at Edmonton, Alberta
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+James C. Yaskowich
+Counsel for the Respondent:
+Ernest Wheeler
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1997, 1998, 1999, 2000 and 2001 taxation years are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of April 2008.
+"Diane Campbell"
+Campbell J.
+Citation: 2008TCC208
+Date: 20080411
+Docket: 2005-3186(IT)G
+BETWEEN:
+CAROLE PECHET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] These appeals are from Notices of Reassessment dated April 3, 2003 for the 1997, 1998, 1999, 2000 and 2001 taxation years.
+[2] The facts are straightforward and not in dispute. The parties filed a Statement of Agreed Facts which is reproduced and attached to my Reasons as Schedule “A”. To summarize those facts, the Appellant was a non-resident of Canada during the relevant taxation years. She had a 50% interest in a partnership that owned a commercial rental property in Edmonton, Alberta. The Appellant received her share of the rental payments paid to the partnership but no amounts were withheld and remitted pursuant to Part XIII of the Income Tax Act (the “Act”). On May 29, 2002, the Appellant filed income tax returns under subsection 216(1), for the 1997 to 2001 taxation years, which showed that no Part I tax was owed by the Appellant in respect to any of these taxation years. By Notices of Assessment dated April 3, 2003, the Appellant was assessed Part XIII withholding tax and arrears interest on the Part XIII withholding tax that would have been payable by the Appellant, absent the filing of the section 216 returns. Also on April 3, 2003, Notices of Reassessment were issued to reverse the Part XIII withholding tax but not the arrears interest.
+[3] The issue, in a very basic form, is whether the Appellant is liable to pay interest on amounts assessed under Part XIII of the Act in respect to these taxation years, notwithstanding that the ultimate tax liability of the Appellant is nil. However, the wider issue is whether the arrears interest remained exigible after the Appellant filed elective returns under Part I, which reduced the amount of Part XIII tax payable by the Appellant to nil. This ultimately affects the responsibility of a resident/payor to withhold and remit subsection 215(1) amounts.
+The Appellant’s Position
+[4] At paragraph 2 of the Written Submissions of the Appellant, the Appellant’s position was summarized as follows:
+(a) The Appellant was required to pay an income tax of 25% under Part XIII of the Act as a result of being paid rent by Canadian residents.
+(b) As a result of filing income tax returns under section 216 of the Act, the Appellant elected to pay Part I tax on the rent instead of paying tax under Part XIII of the Act.
+(c) Whether a Canadian resident is required, under subsection 215(1), to withhold and remit an “amount of the tax” payable under Part XIII, is contingent on whether the non-resident has, in fact and in law, an “income tax payable” under Part XIII.
+(d) Since the Appellant was absolved from “paying tax” under Part XIII by virtue of subsection 216(1) there was no obligation on the part of the Canadian resident payors to withhold and remit any amount under subsection 215(1).
+(e) Since there was no obligation on the part of the Canadian resident to withhold and remit any Part XIII tax, there was no interest payable by the resident pursuant to subsection 227(8.3), or by the Appellant pursuant to subsection 227(8.1).
+The Respondent’s Position
+[5] Although the Appellant filed elective returns pursuant to subsection 216(1), there is nothing in this section that affects the obligation placed on the resident/payor of the rents, pursuant to section 215, to withhold and remit from the rent, amounts on account of the Appellant’s tax. The interest was assessed therefore with respect to the failure of the resident/payor of the rents in Canada to withhold tax under Part XIII from the rental amounts payable to the Appellant. This interest is assessed with respect to the withholding required by the scheme of the Act for the taxation of rents received by non-residents in respect to property in Canada and not with respect to the ultimate liability for tax of the non-resident. Interest is payable pursuant to subsection 227(8.3) on the amounts of the withholdings that the resident/payor of the rent should have withheld and remitted. Pursuant to subsection 227(8.1), the Appellant, as the non-resident recipient of the rental amounts, is jointly and severally liable, together with the resident/payor, to pay this interest.
+Analysis
+[6] The decision in this appeal involves the inter-relationship between subsections 215(1) and 216(1) and turns on the interpretation to be given to these provisions.
+[7] Pursuant to subsection 96(1), the Appellant’s income must be computed as though the partnership was a separate person resident in Canada. Where a Canadian resident pays rental amounts to a non-resident, paragraph 212(1)(d) provides that an income tax of 25% of the total rental amounts under Part XIII is exigible. This paragraph catches the payments made to the Appellant through the partnership by virtue of subsection 96(1). Pursuant to subsection 215(1), that Canadian resident/payor is required to withhold this amount of tax from the rental amounts and remit it forthwith to the Receiver General. Subsection 216(1) sets out the circumstances where the non‑resident recipient of rents may avail himself of an elective Part I return. The focal point in this appeal is how the filing of a section 216 income tax return by the non‑resident affected the application of the Appellant’s Part XIII tax liability.
+[8] The relevant statutory provisions are:
+Part XIII
+212. (1) Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to the non-resident person as, on account or in lieu of payment of, or in satisfaction of, …
+(d) rent, royalty or similar payment, including, but not so as to restrict the generality of the foregoing, any payment
+(i) for the use of or for the right to use in Canada any property, invention, trade-name, patent, trade-mark, design or model, plan, secret formula, process or other thing whatever, …
+215. (1) When a person pays, credits or provides, or is deemed to have paid, credited or provided, an amount on which an income tax is payable under this Part, or would be so payable if this Part were read without reference to subsection 216.1(1), the person shall, notwithstanding any agreement or law to the contrary, deduct or withhold from it the amount of the tax and forthwith remit that amount to the Receiver General on behalf of the non-resident person on account of the tax and shall submit with the remittance a statement in prescribed form.
+(1.1) Subsection (1) does not apply in respect of a dividend deemed to be paid under paragraph 128.1(1)(c.1) by a corporation to a non-resident corporation with which the corporation was dealing at arm’s length.
+(2) Where an amount on which an income tax is payable under this Part is paid or credited by an agent or other person on behalf of the debtor either by way of redemption of bearer coupons or warrants or otherwise, the agent or other person by whom the amount was paid or credited shall, notwithstanding any agreement or law to the contrary, deduct or withhold and remit the amount of the tax and shall submit therewith a statement in prescribed form as required by subsection 215(1) and shall thereupon, for purposes of accounting to or obtaining reimbursement from the debtor, be deemed to have paid or credited the full amount to the person otherwise entitled to payment.
+(3) Where an amount on which an income tax is payable under this Part was paid or credited to an agent or other person for or on behalf of the person entitled to payment without the tax having been deducted or withheld under subsection 215(1), the agent or other person shall, notwithstanding any agreement or law to the contrary, deduct or withhold therefrom the amount of the tax and forthwith remit that amount to the Receiver General on behalf of the person entitled to payment in payment of the tax and shall submit therewith a statement in prescribed form, and the agent or other person shall thereupon, for purposes of accounting to the person entitled to payment, be deemed to have paid or credited that amount to that person.
+…
+(6) Where a person has failed to deduct or withhold any amount as required by this section from an amount paid or credited or deemed to have been paid or credited to a non-resident person, that person is liable to pay as tax under this Part on behalf of the non-resident person the whole of the amount that should have been deducted or withheld, and is entitled to deduct or withhold from any amount paid or credited by that person to the non-resident person or otherwise recover from the non-resident person any amount paid by that person as tax under this Part on behalf thereof.
+216. (1) Where an amount has been paid during a taxation year to a non-resident person or to a partnership of which that person was a member as, on account of, in lieu of payment of or in satisfaction of, rent on real property in Canada or a timber royalty, that person may, within 2 years (or, where that person has filed an undertaking described in subsection 216(4) in respect of the year, within 6 months) after the end of the year, file a return of income under Part I in the form prescribed for a person resident in Canada for that year and the non-resident person shall, without affecting the liability of the non-resident person for tax otherwise payable under Part I, thereupon be liable, in lieu of paying tax under this Part on that amount, to pay tax under Part I for the year as though (emphasis added)
+(a) the non-resident person were a person resident in Canada and not exempt from tax under section 149;
+(b) the non-resident person’s income from the non-resident person’s interest in real property in Canada, timber resource properties and timber limits in Canada and the non-resident person’s share of the income of a partnership of which the non-resident person was a member from its interest in real property in Canada, timber resource properties and timber limits in Canada were the non-resident person’s only income;
+(c) the non-resident person were entitled to no deductions from income for the purpose of computing the non-resident person’s taxable income; and
+(d) the non-resident person were entitled to no deductions under sections 118 to 118.9 in computing the non-resident person’s tax payable under Part I for the year.
+216.1 (1) No tax is payable under this Part on any amount described in subsection 212(5.1) that is paid, credited or provided to a non-resident person in a taxation year if the person
+(a) files with the Minister, on or before the person’s filing-due date for the year, a return of income under Part I for the year; and
+(b) elects in the return to have this section apply for the year.
+(2) If in respect of a particular amount paid, credited or provided in a taxation year, a non-resident person has complied with paragraphs (1)(a) and (b), any amount deducted or withheld and remitted to the Receiver General on behalf of the person on account of tax under subsection 212(5.1) in respect of the particular amount is deemed to have been paid on account of the person’s tax under Part I.
+…
+227. (8.1) Where a particular person has failed to deduct or withhold an amount as required under subsection 153(1) or section 215 in respect of an amount that has been paid to a non-resident person, the non-resident person is jointly and severally liable with the particular person to pay any interest payable by the particular person pursuant to subsection 227(8.3) in respect thereof.
+227. (8.3) A person who fails to deduct or withhold any amount as required by subsection 135(3), 135.1(7), 153(1) or 211.8(2) or section 215 shall pay to the Receiver General interest on the amount at the prescribed rate, computed
+…
+(b) in the case of an amount required by subsection 135(3) or 135.1(7) or section 215 to be deducted or withheld, from the day on which the amount was required to be deducted or withheld to the day of payment of the amount to the Receiver General; and …
+[9] The Appellant approached the statutory analysis of the Part XIII regime from the perspective of the textual, contextual and purposive analysis described by the Supreme Court of Canada in Canada Trustco Mortgage Co. v. Canada, [2005] 2 S.C.R. 601. The charging provision is paragraph 212(1)(d). It states that every non-resident person shall pay an income tax of 25% on every amount that that person receives including rental amounts. Subsection 215(1) imposes an obligation on the resident/payor in Canada to withhold and remit the potential income tax payable. Although this subsection was amended, the former version which would be applicable to the 1997 to 1999 taxation years did not differ substantially from the version applicable to the 2000 and 2001 taxation years.
+[10] According to the Appellant, the resident/payor of rental amounts is required to withhold and remit a tax equal to 25% of the rental amounts if an amount of income tax is payable under Part XIII by the non-resident recipient. The amount withheld is the non-resident’s income tax collected by the resident/payor and is not a prepayment of an eventual tax liability. The Appellant submitted that the combined effect of subsections 227(8.1), 227(8.3), 215(1) and paragraph 212(1)(d) was that interest could be assessed against the Appellant only if two conditions are satisfied: (1) the Appellant had an income tax payable under Part XIII; and (2) that tax had not been deducted and withheld from the rental amounts that were payable to the Appellant.
+[11] Subsection 216(1) makes the non-resident liable for Part I tax “in lieu of” paying tax under Part XIII. The French version of subsection 216(1) uses “au lieu de” so there is no difference between the two versions. Subsection 216.1(1) states “no tax is payable under this Part … if the person (a) files with the Minister … a return of income under Part I for the year; and (b) elects in the return to have this section apply for the year.” The phrase “no tax is payable under this Part” completely dispenses with Part XIII tax whereas the words “in lieu of” connote the continued existence of, but substitution for, Part XIII tax. Although this distinction is subtle, it underscores the importance of the meaning of the words “in lieu of”.
+[12] The Appellant sought to minimize the expansive scope given to the phrase “in lieu of” by Sharlow, J.A. in Transocean Offshore Ltd. v. Canada, [2005] F.C.J. No. 496 (FCA), by using a circuitous “in lieu of” à “au lieu de” (contained in the French version) à “instead of” argument. The Appellant contends that the wording in section 216 “… in lieu of paying tax under this Part …” sets up an alternative tax regime to the Part XIII regime, which would allow the non-resident Appellant to elect to have tax paid under Part I instead of paying tax under Part XIII. By opting out of Part XIII, there is no tax payable under Part XIII and according to the Appellant since there is then no obligation to withhold or remit under section 215, no interest is payable under section 227.
+[13] The Transocean decision (supra) did not consider section 216 but did address the meaning of the phrase “in lieu of” in considering paragraph 212(1)(d). At paragraphs 47 and 60, the Federal Court of Appeal considered the phrase “in lieu of” in the context of the opening words of subsection 212(1):
+[47] However, paragraph 212(1)(d) of the Income Tax Act also includes a payment made in lieu of compensation for the use, in Canada, of property. The ordinary meaning of the phrase "in lieu of", according to a number of dictionaries, is "instead of" or "in place of": Black's Law Dictionary (7th ed., 1999), The Canadian Oxford Dictionary (2001, Oxford University Press), Gage Canadian Dictionary (1983, Gage Publishing Limited), The Canadian Dictionary of English Law (2nd ed 1995 Thomson Canada Limited). It seems axiomatic that an amount that is paid instead of a payment of a particular legal character, or in the place of such a payment, does not have that same legal character. Parliament, in using the words "in lieu of" in paragraph 212(1)(d), must have intended to expand the scope of paragraph 212(1)(d) to include payments other than payments that have the legal character of rent.
+…
+[60] In my view, Puder should not be accepted as the governing authority in this case because it imposes an unjustifiably narrow meaning on the phrase "in lieu of". As mentioned above, the ordinary meaning of that phrase connotes something that takes the place of something else or is a substitute for something else. Theoretically, a thing may take the place of another thing if it performs exactly the same function as that other thing, or if it performs a function that is not exactly the same but is a reasonable substitute. Puder recognizes the first possibility but rejects the second, without suggesting any justification for doing so.
+[14] It is suggested that the phrase “in lieu of” means “instead of” or “in substitution of”. The Court was asking in the context of paragraph 212(1)(d) what can be substituted for an original item after the substitution occurs. However, the question was not what happens to the original item after the substitution occurs. The expansive scope given to the phrase “in lieu of” does not assist in the present analysis. The Appellant’s argument merely brings us back to the ordinary meaning of the phrase which Black’s Law Dictionary (7th ed., 1999) defines as:
+instead of or in place of; in exchange or return for. <the creditor took a note in lieu of cash> <the defendant was released in lieu of $5,000 bond>
+[15] If a Part I return is filed pursuant to subsection 216(1), the subsection provides that “thereupon” the non-resident person that files shall be liable to pay tax under Part I “in lieu of” paying tax under Part XIII or “in place of” or “in substitution for” paying the tax for which the non-resident is liable to pay under Part XIII. There is nothing in the Act to suggest that the non-resident’s ultimate tax position affects a resident/payor’s obligation to withhold and remit subsection 215(1) amounts. As the Respondent suggested, this would be the case only if the subsection 216(1) return extinguished the Part XIII tax liability ab initio, but the inclusion of the word “thereupon” in subsection 216(1) casts doubt on this. In fact, it suggests that prior events would be unaffected by the subsequent filing of the subsection 216(1) return, meaning that interest would accrue at the very least up to the filing date.
+[16] The filing of a return under Part I changes liability and places the focus on the payment of tax. The non-resident’s liability to pay tax under Part XIII may be satisfied by paying the tax which is calculated pursuant to the Part I filing under section 216 “instead of” or “as a substitute for” paying the Part XIII tax. In addition, subsection 216(2) provides that the amounts withheld and remitted by a resident/payor pursuant to Part XIII are to be applied against the new liability of the non-resident under Part I.
+[17] In respect to the textual analysis, the Appellant fails in the assertion that “the payment of Part I tax “instead of” or “in place of” Part XIII tax extinguishes any liability that the Appellant had to pay that Part XIII tax …” (emphasis added) (Written Submissions of the Appellant, para. 12). The subsection 216(1) elective return provides that the tax calculated under Part XIII is substituted by the tax calculated on the rental income pursuant to paragraphs (a) to (d) of subsection 216(1). Therefore, subsection 216(1) provides only a limited alternative for calculating the tax which non-residents may owe and must ultimately pay in respect to their Part XIII tax liability.
+[18] Contextually, the Appellant referenced subsections 20(9), 157(2.1), 164(2) and 218.3(3) of the Act, all of which, in the French version, contain the phrase “au lieu de”. The English version of subsections 20(9) and 216(1) contains the phrase “in lieu of” while subsections 157(2), 164(2) and 218.3(3) contain the phrase “instead of”. The Appellant submits that the phrase “instead of” is to be preferred in the context of subsection 216(1), especially when subsections 157(2.1) and 218.3(3) are considered.
+[19] Subsection 157(2.1) was in effect in the relevant taxation years. It permits a corporation that owes not more than $1,000 to pay the total amount of taxes at once [under paragraph 157(1)(b)] rather than by way of instalments (as required under paragraph 157(1)(a)). The problem with a comparison to this subsection is twofold:
+(a) there is no separate election as the payment in full constitutes the election; and
+(b) the small dollar amount may explain the Minister’s willingness to overlook interest arrears.
+[20] Subsection 218.3(3) allows a non-resident investor to file an elective income tax return under Part XIII.2 to pay 15% tax on the net gains (rather than the gross gains under paragraph 218.3(2)(b)) from the disposition of Canadian Mutual Funds. The Appellant contends that the relief provided by the subsection 218.3(3) election is almost identical to the subsection 216(1) election when contrasted to the gross income approach in paragraph 212(1)(d). Although the provision came into effect subsequent to the years dealt with in this appeal, the Appellant suggests that by using the phrase “instead of” in subsection 218.3(3) and not “in lieu of”, it indicates Parliament’s intention to allow taxpayers the choice of paying tax under different sections. The Appellant’s position is that there is no reason to distinguish between the two subsections in the English version of the Act given the identical wording in the French version of subsections 218.3(3) and 216(1). The problem with this comparison is that it fails to consider the factor of the Canadian resident/payor who is dealing with the non-resident person. Must that individual withhold tax on the gross amount if the non-resident is late in filing the subsection 218.3(3) elective return? This is essentially the same question which this appeal raises but beyond highlighting the similarity, it provides little assistance.
+[21] The Appellant also suggested that the application of subsection 161(7) provides a context within which the section 216 return might be considered. Subsection 161(7) directs a taxpayer to pay interest on outstanding Parts I, I.3, VI and VI.I tax without applying a variety of provisions such as loss carry‑backs. Also subsection 162(11), in dealing with penalties, prohibits the consideration of specified future tax consequences from the calculation of tax for a previous year. The Appellant suggests that although Parliament enacted subsections 161(7) and 162(11) to prevent the carry-back of certain items to a taxation year, which would otherwise result in the elimination of the tax for the purpose of computing interest and penalties, Parliament did not enact a similar provision in respect to the regime in subsections 215(1) and 216(1). In other words, if Part XIII tax still existed after the subsection 216(1) elective returns were filed, then Parliament would have enacted a similar “compute without reference to” type of provision. This fails to take into consideration the distinction between the Part XIII interest owed by Canadian residents and the joint and several liability imposed on non‑residents. Simply put, the Appellant cannot take advantage of its own loss carry-backs and so forth to offset the resident’s Part XIII interest arrears. Furthermore, because I view Part XIII as straightforward, there is no need for a provision analogous to subsections 161(7) and 162(11).
+[22] Lastly in the contextual analysis, the Appellant submits that the interest calculation in subsection 227(8.3) would lead to absurd results if the Respondent’s position were adopted. This subsection requires that interest be paid from the day on which the subsection 215(1) “amount was required to be deducted or withheld to the day of payment of the amount to the Receiver General” (emphasis added). The underscored word “amount” refers to the subsection 215(1) amount that the Canadian resident was required to withhold and remit and not to the ultimate tax liability of the non-resident. The Appellant suggests that this would mean that the only way to stop interest from accruing indefinitely is to pay the subsection 215(1) withholding amounts. According to the Appellant, this cumbersome result in respect to subsection 227(8.3) can be avoided if one concludes that no Part XIII tax would ever be payable for the purposes of section 215 after a section 216 return is filed. While this is true, expediency is not a canon of statutory interpretation. To stop interest from accruing indefinitely, the Appellant would have to pay the subsection 215(1) amounts on behalf of the Canadian resident, then apply these amounts to the Appellant’s Part I tax owing, by way of subsection 216(2) and finally, obtain a refund (also through subsection 216(2)). However, to avoid such an onerous system, it is more practical and reasonable to view the whole process as contemporaneous so that the interest on the subsection 215(1) amounts would not continue to accrue beyond the point where the ultimate tax debt was settled. Obviously this would not eliminate the interest arrears owing to this point nor would it stop interest from accruing on those arrears. The wording of subsection 216(2) contemplates that amounts withheld pursuant to subsection 215(1) will be applied to the non‑resident’s substituted Part I tax liabilities with any excess to be refunded. It follows from this, that the Act contemplates situations where Canadian residents withhold and remit subsection 215(1) amounts and the non-residents subsequently file returns pursuant to subsection 216(1).
+[23] It would appear that Parliament has made a conscious decision not to include any provisions addressing relief measures. The Parliamentary intent is that the Canadian resident/payor of rents to a non-resident is to withhold certain prescribed amounts from those rental payments and remit them forthwith to the Receiver General so that the Minister has the temporary benefit of those amounts. Since there is no analogous provision in either the Act or the Regulations in respect to Canadian residents who pay amounts directly to non‑residents, this suggests that residents must always withhold and remit subsection 215(1) amounts.
+[24] Finally, in respect to the consideration of the purpose behind the sections, the Appellant revisits the argument that was made in respect to the operative words “instead of” referenced in subsection 218.3(3) and the suggestion that section 216 should be interpreted in the same way as subsection 218.3(3). In addressing the nature of interest, the Appellant quoted paragraph 14 of Justice Bowie’s decision in Coughlan v. Canada, [2001] T.C.J. No 449, where he quoted Justice Rand in Reference Re The Validity of Section 6 of the Farm Security Act, 1944, of the Province of Saskatchewan, [1947] S.C.R. 394 at pages 411-12, to the effect that “interest is, in general terms, the return or consideration or compensation for the use or retention by one person of a sum of money, belonging to, in a colloquial sense, or owed to, another.” The Appellant suggested that, because there was no underlying Part XIII tax liability resulting when the elective returns were filed pursuant to subsection 216(1), no interest can be payable by the Appellant. In other words, without an amount owing to the Minister, pursuant to subsection 215(1) there is no basis upon which to charge interest. This argument either presupposes that the filing of a subsection 216(1) elective return extinguished the Part XIII tax liability ab initio, the very question I am being asked to decide, or it ignores the very clear distinction contained in subsection 215(1) between the obligation of the Canadian resident/payor to withhold and remit and the non‑resident Appellant who becomes jointly and severally liable for the interest. Both of these arguments fail. The Appellant is not being charged interest because she retained money that rightfully belonged to the Minister but rather she is jointly and severally liable for the interest on the subsection 215(1) amounts that the resident/payor did not withhold and remit as required by the relevant provisions in the Act.
+[25] The Respondent suggested that the Appellant ought to pay interest because she had the benefit of the money that should have been withheld and remitted. Of course this would be the result only if the resident/payor immediately transfers the amount that should have been withheld to the non-resident. If the resident/payor retains the withheld amounts and does not remit, that potential benefit belongs to the resident/payor. However nothing turns on this since the Minister is still justified in charging the resident/payor interest and making the non-resident Appellant jointly and severally liable for it.
+[26] I believe the real purpose behind the provisions is to place the responsibility to withhold and remit subsection 215(1) amounts upon the shoulders of the Canadian resident/payor in order to shift the burden of enforcing compliance away from the Receiver General. Therefore, the textual (ordinary meaning of “in lieu of”) and contextual (subsection 215(1) reference to subsection 216.1(1)) interpretations also accord with the purposive interpretation. If the occurrence of a subsequent event, such as the filing of a section 216 return, could retroactively eliminate the obligation to withhold and remit pursuant to subsection 215(1), this could encourage non-compliance and introduce a measure of unintended risk and uncertainty within the system.
+[27] The basic scheme of Part XIII of the Act is straightforward. Subsection 215(1) has been in the Act in its present form since 1972 and its predecessor, section 109, was substantially similar. The legislative intent is that the resident/payor must withhold and remit amounts forthwith without taking into account or referencing in any manner the tax position of the recipient non‑resident of those amounts. If the resident/payor does not withhold and remit, the non-resident will clearly be jointly and severally liable for interest on those amounts.
+[28] Apart from the textual, contextual and purposive arguments, the Appellant argues that her conclusions are consistent with the decision of Deputy Judge Watson in Wright v. Canada, [2001] 3 C.T.C. 2426 (TCC). It is not surprising that Watson, D.J. treated the substitute Part I tax as having destroyed the original Part XIII tax, given that the phrase “in lieu of” is typically viewed and applied in a forward looking approach or analysis and not in a backward approach (i.e., to that which had been replaced).
+[29] Although Justice Mogan in Curragh Inc. v. Canada, [1994] T.C.J. No. 650 did not directly mention the phrase “in lieu of”, I believe he correctly underscored its effect in section 216. Although it is obiter, at paragraph 15 he states:
+… In my view, if the Canadian agent is required to pay certain expenses and, his non-resident principal exercises the option in section 216 to pay Part I tax, there is nothing in section 216 which relieves the initial Canadian payor of his obligation to withhold and remit under subsection 215(1). …
+[30] The cases which Watson, D.J. relied upon in Wright, supra, were simply not on point because neither case addressed the position of the resident/payor to the non-resident recipient of the rental amounts, who are otherwise subject to the Part XIII tax and the direction to withhold. Watson, D.J. may have inadvertently blurred the very important distinction between the resident/payor who is obligated to withhold the subsection 215(1) amount and the non-resident who becomes jointly and severally liable to pay pursuant to subsection 227(8.1). The key question comes back again to the ordinary meaning of the phrase “in lieu of”. Watson, D.J. mistook the relation “A in lieu of B” to mean that you should substitute A for B which extinguishes B. Despite the filing of a subsection 216(1) elective return, I am concluding that “an amount on which an income tax is payable under this Part” still exists for the purposes of subsection 215(1). This means that subsection 215(1) still requires residents who pay or provide such amounts to non-residents to first withhold and then remit tax. It also means that, pursuant to subsection 215(6), those who fail to do so are “liable to pay … the whole of the amount that should have been deducted or withheld …”.
+[31] So what is the effect of a subsection 216(1) filing? I do not believe the filing of a return under subsection 216(1) eliminates the application of Part XIII as it relates to the non-resident. Subsection 215(1) continues to apply to the resident/payor of the rental amounts notwithstanding that a subsequent event produces the result that the non-resident recipient of the rental amounts will have no Part XIII tax liability. Therefore, the non-resident’s obligations under subsection 227(8.1) to pay interest on those withholdings remain. The Parliamentary intent is for the resident/payor to withhold and remit these amounts forthwith to the Receiver General. Contrary to the Appellants contention, the interest charged is not on a principal amount of nil but on the amount of the withholding that, pursuant to section 215, was required to be remitted by the Canadian resident/payor but which in these appeals was not.
+[32] Despite very able argument by Appellant counsel, I must dismiss the appeals with costs.
+Signed at Ottawa, Canada, this 11th day of April 2008.
+"Diane Campbell"
+Campbell J.
+Schedule “A”
+2005-3186(IT)G
+TAX COURT OF CANADA
+BETWEEN:
+CAROL PECHET
+APPELLANT,
+and
+HER MAJESTY THE QUEEN
+RESPONDENT.
+STATEMENT OF AGREED FACTS
+The parties accept as proven, for the purposes of these Appeals and any appeals therefrom or any other proceeding taken in this matter, the facts set out herein. No evidence inconsistent with this Statement of Agreed Facts may be adduced at the hearing of these Appeals or at any appeals therefrom. Additional evidence, not inconsistent with this Statement of Agreed Facts, may be adduced by either party.
+1. The Appellant is not resident in Canada, and was a non-resident at all material times, including in each of her 1997, 1998, 1999, 2000 and 2001 taxation years.
+2. At all material times, the Appellant had a 50% interest in the Pechet Family Partnership (the “Partnership”) which owned real property in Canada and which received rents from that property.
+3. During the Appellant’s 1997, 1998, 1999, 2000 and 2001 taxation years, the Partnership owned a commercial rental property (the “Property”) located in Edmonton. The cost of the Property in 1987 was $1,390,279 which was allocated $1,056,614 to building and $333,665 to land.
+4. In addition to the Appellant, the partners of the Partnership (the “Partners”) included the trusts identified below. The beneficiaries of the trusts are the children of the Appellant.
+Partner
+Beneficiary (if a Trust)
+% of Partnership Income (Losses)
+The Appellant
+50%
+Pechet Landing Trust for Tiron Pechet
+Tiron Pechet
+12½%
+Pechet Landing Trust for Taine Pechet
+Taine Pechet
+12½%
+Pechet Landing Trust for Tavan Pechet
+Tavan Pechet
+12½%
+Pechet Landing Trust for Tamin Pechet
+Tamin Pechet
+12½%
+Total
+100%
+5. The Appellant’s share of the gross rents received by the Partnership with respect to the property was as follows:
+(a) 1997: $38,745
+(b) 1998: $42,430
+(c) 1999: $40,828
+(d) 2000: $52,624
+(e) 2001: $49,967
+6. No withholdings were made pursuant to Part XIII of the Act with respect to the gross rents by the payor thereof;
+7. On October 5, 2001, the Partners made a voluntary disclosure on a no-names basis to the Edmonton office of the Canada Revenue Agency (the “CRA”) which advised the CRA of the following.
+(a) The year of acquisition and the cost of acquiring the Property;
+(b) The revenues and expenses from the Property for the years 1997 through 2000, and a calculation showing that the Property generated a $nil operating profit after capital cost allowance (“CCA”) for those years; and
+(c) That no CCA had been claimed for the Property in years preceding 1997.
+8. On May 29, 2002, the Partners filed Canadian income tax returns under Part I of the Income Tax Act (Canada) (the “Act”) for their 1997 through 2001 taxation years, in accordance with section 216 of the Act. The Partners also filed goods and services tax (“GST”) returns for the 1997 through 2001 reporting periods pursuant to the earlier voluntary disclosure agreement. All of the Part I Canadian income tax returns showed that no Part I income tax was owed by the Partners.
+Tab 1: Copies of Carole Pechet’s section 216 Income tax returns for the 1997 to 2001 taxation years, inclusive.
+9. By Notices of Assessment all dated April 3, 2003, the CRA assessed Part XIII withholding tax and arrears interest on the Part XIII withholding tax that would have been payable by the Partners absent the filing of the section 216 returns.
+Tab 2: Copies of Notices of Assessment dated April 3, 2003 for the 1997 to 2001 taxation years, inclusive, with the exception of 1999.
+10. Also on April 3, 2003, the CRA issued Notices of Reassessment (the “Reassessments”) to all of the Partners for their 1997 through 2001 taxation years to reverse the Part XIII withholding tax but not the arrears interest from the earlier April 3, 2003 Notices of Assessment.
+Tab 3: Copies of Notices of Reassessment dated April 3, 2003 for the 1997 to 2001 taxation years, inclusive.
+11. The section 216 income tax returns were assessed on the following dates:
+1997: June 16, 2003
+1998: June 19, 2003
+1999: June 12, 2003
+2000: June 27, 2003
+2001: June 2, 2003
+12. No Part I income tax was assessed to the Appellant in accordance with the filed section 216 income tax returns.
+Tab 4: Copies of Notices of Assessment for the 1997 to 2001 taxation years, inclusive issued in response to the section 216 income tax returns.
+13. The Notices of Assessment, Notices of Reassessment, Part XIII tax assessed and reassessed, and the arrears interest for the Partners are summarized below. All Notices of Assessment (“NA”) and Notices of Reassessment (“NR”) are dated April 3, 2003.
+Year of Assessment
+or Reassessment
+Part XIII Tax
+Assessed (Reversed)
+Arrears Interest
+Serial # on NA or NR
+1997NA
+$9,686.25
+$828.50
+6206793
+1997NR
+(9,686.25)
+---
+6206794
+1998NA
+10,607.50
+996.63
+6206795
+1998NR
+(10,607.50)
+---
+6206796
+1999NA
+10,207.00
+834.48
+6206797
+1999NR
+(10,207.00)
+---
+6206798
+2000NA
+13,156.00
+1,066.57
+6206799
+2000NR
+(13,156.00)
+---
+6206800
+2001NA
+12,491.75
+792.40
+6206801
+2001NR
+(12,491.75)
+---
+6206802
+Total
+$nil
+$4,518.58
+14. By Notices of Objection mailed June 27, 2003, the Appellant objected to the Reassessments.
+15. By Notices of Confirmation dated June 15, 2005, the Minister confirmed the Reassessments.
+Dated at the City of Edmonton, in the Province of Alberta this 4th day of February, 2008.
+FELESKY FLYNN
+Solicitors for the Appellant
+Per: ___signed James C. Yaskowich _
+James C. Yaskowich
+Counsel for the Appellant
+Dated at the City of Edmonton, in the Province of Alberta this 4th day of February, 2008.
+Deputy Attorney General of Canada
+Solicitors for the Respondent
+Per: ___signed Ernest Wheeler _
+Earnest Wheeler
+Counsel for the Respondent
+CITATION:
+2008TCC208
+COURT FILE NO.:
+2005-3186(IT)G
+STYLE OF CAUSE:
+Carole Pechet and
+Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATES OF HEARING:
+February 4, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+April 11, 2008
+APPEARANCES:
+Counsel for the Appellant:
+James C. Yaskowich
+Counsel for the Respondent:
+Ernest Wheeler
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+James C. Yaskowich
+Firm:
+Felesky Flynn LLP, Edmonton, Alberta
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

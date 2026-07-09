@@ -1,0 +1,280 @@
+Title: Pietrovito c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/232377/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-119-232377-pietrovito-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-06-21
+
+# Pietrovito c. La Reine
+
+- Citation: 2017 CCI 119
+- Decision date: 2017-06-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2095, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pietrovito c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-06-21
+Référence neutre
+2017 CCI 119
+Numéro de dossier
+2012-1956(IT)G
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1956(IT)G
+ENTRE :
+ROBERTO PIETROVITO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête et demande entendues le 8 mai 2017, à Montréal (Québec)
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Avocats de l’appelant :
+Me Dov Withman
+Me Anne-Sophie Villeneuve
+Avocats de l’intimée :
+Me Arnold H. Bornstein
+Me John Grant
+ORDONNANCE
+VU l’avis de requête et la demande datés du 7 avril 2017, déposés pour le compte de l’appelant en vertu des articles 9, 21 et 54 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles de procédure générale ») et de l’article 18.1 des Règles de la Cour canadienne de l’impôt (procédure informelle) (les « Règles de procédure informelle »), et une autre preuve documentaire en vue d’obtenir :
+1) une ordonnance (la « requête ») :
+(a) dispensant de l’observation de l’article 21 des Règles de procédure générale, conformément à l’article 9 des Règles de procédure générale, l’appelant ayant déposé l’avis d’appel dans le présent appel et ayant effectivement interjeté appel de la nouvelle cotisation concernant l’année d’imposition 2002;
+(b) accordant l’autorisation à l’appelant de modifier à nouveau son avis d’appel dans le présent appel conformément à l’article 54 des Règles de procédure générale;
+(c) prorogeant le délai estimé juste pour permettre aux parties de présenter les plaidoiries modifiées qui en résulteront;
+(d) maintenant l’appel en suspens en attendant l’issue des appels types que la Cour a entendus les 27 et 28 mars 2017;
+(e) accordant à l’appelant ses dépens en fonction d’une échelle estimée juste;
+2) subsidiairement, une ordonnance prorogeant le délai pour interjeter appel de la nouvelle cotisation concernant l’année d’imposition 2002, conformément à l’article 18.1 des Règles de procédure informelle (la « demande »);
+ET VU les observations des parties;
+conformément aux motifs de l’ordonnance ci-joints, LA COUR ORDONNE CE QUI SUIT :
+1) La requête est rejetée avec dépens attribués à l’intimée.
+2) La demande est rejetée sans dépens.
+Signé à Ottawa, Canada, ce 21e jour de juin 2017.
+« Dominique Lafleur »
+La juge Lafleur
+Traduction certifiée conforme
+ce 14e jour de septembre 2018.
+Mario Lagacé, jurilinguiste
+Référence : 2017 CCI 119
+Date : 20170621
+Dossier : 2012-1956(IT)G
+ENTRE :
+ROBERTO PIETROVITO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Lafleur
+[1] Roberto Pietrovito (l’appelant) a déposé un avis de requête (la « requête ») et une demande (la « demande ») auprès de la Cour, de même qu’une copie de l’avis d’appel modifié à nouveau et l’affidavit de l’appelant (l’« affidavit d’avril ») assorti de diverses pièces, en vue d’obtenir une ordonnance :
+(a) DISPENSANT l’appelant de l’observation de l’article 21 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles de procédure générale »), conformément à l’article 9 des Règles de procédure générale, l’appelant ayant déposé l’avis d’appel dans le présent appel et ayant effectivement interjeté appel de la nouvelle cotisation concernant l’année d’imposition 2002 (définie ci-dessous);
+(b) ACCORDANT l’autorisation à l’appelant de modifier à nouveau son avis d’appel dans le présent appel conformément à l’article 54 des Règles de procédure générale;
+(c) PROROGEANT le délai estimé juste pour permettre aux parties de présenter les plaidoiries modifiées qui en résulteront;
+(d) MAINTENANT l’appel en suspens en attendant l’issue des appels types que la Cour a entendus les 27 et 28 mars 2017;
+(e) ACCORDANT à l’appelant ses dépens en fonction d’une échelle estimée juste.
+[2] Subsidiairement, l’appelant demande une ordonnance :
+(a) prorogeant le délai pour interjeter appel de la nouvelle cotisation concernant l’année d’imposition 2002, conformément à l’article 18.1 des Règles de la Cour canadienne de l’impôt (procédure informelle) (les « Règles de procédure informelle »).
+[3] L’appelant expose les motifs suivants à l’appui de sa requête :
+(a) l’intérêt de la justice serait servi par une dispense d’observation de l’article 21 des Règles de procédure générale;
+(b) les modifications proposées ne causeraient pas de préjudice à l’intimée;
+(c) tout préjudice éventuel à l’intimée pourrait être compensé par les dépens;
+(d) l’intérêt de la justice serait servi par une autorisation des modifications proposées.
+[4] L’appelant expose les motifs suivants à l’appui de sa demande :
+(a) la demande a été faite dans l’année qui a suivi l’expiration du délai fixé par l’article 169 de la Loi de l’impôt sur le revenu (la « Loi ») pour interjeter appel, conformément à l’interprétation de cet article par la Cour dans la décision Hickerty c. La Reine, 2007 CCI 482, 2007 DTC 1311 (« la décision Hickerty »);
+(b) toutes les exigences prévues au sous‑alinéa 167(5)b)(i) et aux sous‑alinéas 167(5)b)(ii) à (iv) de la Loi sont respectées.
+A. L’AUDIENCE.
+1. La mesure de réparation demandée par l’appelant.
+[5] L’appelant demande d’autorisation de modifier l’avis d’appel déjà déposé afin que la nouvelle cotisation concernant 2002 fasse aussi partie de l’appel interjeté par l’appelant devant la Cour au mois de mai 2012. À l’heure actuelle, l’avis d’appel ne renvoie qu’à l’année d’imposition 2001, c.-à-d. un appel à l’encontre de la nouvelle cotisation de 2001 (définie ci-dessous). À titre subsidiaire, l’appelant demande à la Cour d’autoriser une demande de prorogation de délai afin de signifier un avis d’appel concernant la nouvelle cotisation de 2002.
+2. Les faits
+[6] Selon l’appelant, dans chacune des années d’imposition 2001 et 2002, l’appelant a fait un don à la John McKellar Charitable Foundation (la « Fondation ») et a réclamé les crédits d’impôt correspondants, qui ont été refusés par l’Agence du revenu du Canada (l’« ARC »). Les pièces A-1 et A-2 de l’affidavit d’avril contiennent des copies de nouvelles cotisations concernant les années d’imposition 2001 et 2002 (respectivement, la « nouvelle cotisation de 2001 » et la « nouvelle cotisation de 2002 »). Le montant figurant à la rubrique « Augmentation ou diminution pour l’année » est le même, soit 14 500 $, dans la nouvelle cotisation de 2001 et la nouvelle cotisation de 2002.
+[7] L’appelant a signifié en bonne et due forme des avis d’opposition pour les deux années d’imposition (pièces A-3 et A-4 de l’affidavit d’avril). Un avis de ratification daté du 27 février 2012, concernant l’année d’imposition 2001 (l’« ADR de 2001 »), a été envoyé à l’appelant (pièce A-5 de l’affidavit d’avril). Un avis de ratification concernant l’année d’imposition 2002 (l’« ADR de 2002 ») a aussi été envoyé à l’appelant, mais l’appelant a égaré la deuxième page de ce document (pièce A-6 de l’affidavit d’avril). Par conséquent, il est impossible de déterminer la date exacte à laquelle l’ADR de 2002 a été envoyé. Cependant, l’affidavit d’avril ainsi que celui de janvier (défini ci-dessous) indiquent que l’appelant a reconnu que la date de l’ADR de 2002 était aussi le 27 février 2012 (par. 8 et 6, respectivement).
+[8] Le 4 avril 2012, l’appelant a envoyé à son représentant (qui faisait la liaison entre l’appelant et l’avocat de l’appelant) (le « représentant ») un courriel dans lequel se trouvait une copie de l’ADR de 2002 en pièce jointe (pièce A-7 de l’affidavit d’avril) (le « 1er courriel »). Deux minutes plus tard, l’appelant a envoyé à son représentant un courriel dans lequel se trouvait une copie de l’ADR de 2001 en pièce jointe (pièce A-8 de l’affidavit d’avril) (le « 2e courriel »). Quelques minutes plus tard le même jour, le représentant a répondu au 1er courriel et a demandé une copie de la page 2 de l’ADR de 2002, et a transféré le courriel à l’avocat de l’appelant (pièce A-9 de l’affidavit d’avril). Quelques minutes plus tard, le représentant a envoyé une copie du 2e courriel à l’avocat de l’appelant, avec une pièce jointe qui contenait une copie de l’ADR de 2001, croyant à tort que le 2e courriel contenait une version complète de l’ADR de 2002, mais en réalité, il contenait l’ADR de 2001 (pièce A-10 de l’affidavit). À ce titre, l’avocat de l’appelant a rédigé une ébauche d’avis d’appel concernant la nouvelle cotisation de 2001, ne sachant pas que la nouvelle cotisation de 2002 aurait aussi dû faire l’objet d’un appel auprès de la Cour. Cet avis d’appel a été déposé auprès de la Cour le 18 mai 2012. La pièce A-11 de l’affidavit d’avril contient une copie des échanges de courriels entre l’appelant et son avocat, ce dernier demandant de confirmer que les faits et renseignements contenus dans l’avis d’appel tel qu’il avait été rédigé étaient exacts avant d’en faire le dépôt. L’appelant a confirmé à l’avocat d’aller de l’avant avec ce document.
+[9] Selon l’appelant, l’avis d’appel qui a été déposé aurait dû inclure un appel concernant la nouvelle cotisation de 2002, pas seulement la nouvelle cotisation de 2001.
+[10] En outre, l’appelant, s’appuyant sur les documents suivants, croyait, jusqu’au mois d’août 2016, que l’ARC elle-même agissait sur la base que la nouvelle cotisation de 2001 et la nouvelle cotisation de 2002 faisaient toutes les deux l’objet d’un appel. Ces documents sont les suivants :
+1) Pièce A-12 de l’affidavit d’avril : copie d’un avis de cotisation pour l’année d’imposition 2014 daté du 20 avril 2015, qui indique que le solde dû [TRADUCTION] « de 47 897,84 $ ne comprend pas la somme impayée de 73 087,86 $, qui est la somme en litige découlant de votre (vos) avis d’opposition [c.-à-d. celui (ceux) de l’appelant]».
+2) Pièce A-13 de l’affidavit d’avril : copie d’un avis de cotisation pour l’année d’imposition 2015 daté du 14 avril 2016, qui indique que le solde [TRADUCTION] « [...] ne comprend pas la somme impayée de 76 779,28 $ que vous [l’appelant] contestez dans votre [son] opposition ».
+[11] Pour parvenir à la somme en litige d’environ 73 087,86 $ ou 76 779,28 $, les deux nouvelles cotisations de 2001 et de 2002 devaient faire l’objet d’un appel (pièce A-15 de l’affidavit d’avril).
+[12] Alors, le 3 mai 2016, l’ARC a envoyé une lettre à l’appelant (pièce A-14 de l’affidavit d’avril) dans laquelle elle expliquait que, en raison d’une erreur administrative, l’ARC avait omis de prendre des mesures de perception concernant les sommes dues à l’égard de l’année d’imposition 2002 et n’exigerait pas d’intérêts sur les montants dus. Dans cette lettre, l’ARC informait l’appelant qu’il recevrait un état de compte dans les 60 jours.
+[13] Le 21 août 2016, l’appelant a reçu effectivement un état de compte (pièce A-15 de l’affidavit d’avril) qui indiquait un montant dû non contesté de 22 076,06 $. Le comptable de l’appelant s’est alors rendu compte, après avoir effectué quelques appels téléphoniques à l’ARC, que la nouvelle cotisation de 2002 n’avait pas fait l’objet d’un appel et il a communiqué avec l’avocat de l’appelant le ou vers le 8 septembre 2016 pour l’informer de ce fait.
+[14] En septembre 2016, l’avocat de l’appelant a communiqué avec l’intimée pour lui demander de consentir à la modification de l’avis d’appel qui avait été déposé auprès de la Cour afin d’ajouter une référence à la nouvelle cotisation de 2002. En décembre 2016, l’intimée a refusé d’accorder le consentement demandé. Immédiatement après, l’avocat de l’appelant a amorcé le processus visant à déposer la requête et la demande auprès de la Cour.
+[15] Selon le paragraphe 31 de l’affidavit d’avril, l’appelant comptait toujours participer à toute tentative conjointe sur le plan juridique entreprise au nom d’autres contribuables similairement touchés en ce qui concerne les demandes de crédits d’impôt pour dons de bienfaisance relativement aux dons faits à la Fondation.
+[16] L’intimée a déposé un affidavit de Michelle Pearce auprès de la Cour (l’« affidavit de Mme Pearce »), de même qu’un affidavit de l’appelant daté du 30 janvier 2017, déposé auprès de la Cour (l’« affidavit de janvier »).
+B. La requête
+1. Thèse de l’appelant.
+[17] L’appelant reconnaît devant la Cour que l’inclusion d’une année d’imposition supplémentaire dans un avis d’appel n’est pas une modification habituelle, mais cite la décision Wells c. La Reine, [2001] 4 CTC 2950, [2000] ACI no 409 (QL) (« Wells »), à titre de jurisprudence autorisant la réparation demandée.
+[18] Dans la décision Wells, précitée, la Cour a entendu une requête en autorisation de modifier un avis d’appel de façon à inclure l’année d’imposition 1994 après l’expiration du délai de prescription pour déposer un avis d’appel. Les conséquences fiscales avaient résulté d’une seule opération, qui consistait à faire le don d’une œuvre d’art pendant l’année d’imposition 1994. L’avis d’appel qui a été déposé par l’appelant renvoyait à une nouvelle cotisation concernant l’année d’imposition 1995 seulement, mais le montant indiqué comprenait les impôts dus pour les deux années d’imposition 1994 et 1995. La Cour a accueilli la requête en autorisation de modifier au motif que l’objet de la requête n’était pas de modifier l’avis d’appel pour ajouter une nouvelle année d’imposition après l’expiration du délai de prescription prévu dans la Loi pour interjeter appel mais « de compléter et préciser essentiellement ce qui ressort implicitement de l’ensemble des faits décrits à l’Avis d’appel. En d’autres termes, la requête ne [visait] pas à obtenir le droit d’ajouter un élément fondamental, puisque l’ensemble des faits allégués sous-entend la réalité non exprimée littéralement, soit la mention de l’année 1994. Cette interprétation est d’ailleurs conforme et cohérente avec le cheminement du dossier à partir de l’Avis d’opposition en date du 28 juillet 1997 » (par. 16 et 17). Outre les facteurs qui comprennent les progrès de l’affaire et le lien qui existait entre les deux années d’imposition, la Cour a aussi invoqué le principe général d’équité de même que la nécessité primordiale d’entendre et de trancher les appels sur le fond; la requête a par conséquent été accueillie.
+[19] De plus, l’appelant invoque devant la Cour les commentaires du juge Pigeon dans l’arrêt Bowen c. Ville de Montréal, [1979] 1 RCS 511, page 519, 1978 CanLII 14 (CSC); dans cette affaire, le demandeur voulait ajouter une demande de réparation, mais la Cour d’appel du Québec avait refusé :
+[...] D’un autre côté cette Cour ne saurait approuver l’attitude formaliste de la Cour d’appel. Cela serait contraire à un principe fondamental qui est à l’origine de l’art. 50 de la Loi sur la Cour suprême comme de la réforme de la procédure civile effectuée par le Code de 1965 et qui a été consacré par de nombreux arrêts dont le dernier est Cité de Pont Viau c. Gauthier Mfg. Ltd. Ce principe, c’est qu’une partie ne doit pas être privée de son droit par l’erreur de ses procureurs, lorsqu’il est possible de remédier aux conséquences de cette erreur sans injustice à l’égard de la partie adverse. [...]
+[Non souligné dans l’original.]
+[20] Finalement, l’appelant invoque une affaire tranchée par la Cour suprême du Canada, l’arrêt Hamel c. Brunelle et Labonté, [1977] 1 RCS 147, page 156, où le juge Pigeon a permis un amendement pour augmenter le montant de l’indemnité réclamée par le demandeur en première instance :
+À mon avis, lorsqu’on lit ensemble toutes les dispositions du nouveau Code de procédure civile touchant les amendements, il devient évident que le législateur a vraiment voulu, comme les commissaires le suggéraient, que l’on permette aussi bien en appel qu’en première instance tout amendement nécessaire pour juger le litige objectivement; autrement dit pour que la procédure reste la servante de la justice et n’en devienne jamais la maîtresse. Il est vrai qu’il s’agit ici d’un pouvoir discrétionnaire mais il ne faut pas oublier que c’est d’une discrétion judiciaire qu’il s’agit. Par conséquent, le tribunal a le devoir de l’exercer et c’est refuser de l’exercer que d’opposer un refus pour un motif mal fondé en droit (Smith & Rhuland Ltd. c. La Reine). D’ailleurs, même sous le régime de l’ancien Code de procédure civile, la jurisprudence était fixée en ce sens que l’on ne doit pas refuser un amendement nécessaire sans motif valable.
+[Non souligné dans l’original.]
+[21] Appliquant la décision Wells, précitée, l’appelant soutient que les modifications qui sont de nature administrative ne devraient pas être autorisées par la Cour. En outre, compte tenu du principe général d’équité de même que des circonstances de l’espèce (renvoyant à l’intention de l’appelant d’interjeter appel à l’encontre de la nouvelle cotisation de 2001 et de la nouvelle cotisation de 2002 au moment du dépôt de l’avis d’appel et tout au long de la période) et du lien factuel entre les deux années d’imposition, la Cour devrait accueillir la requête en fonction des principes s’appliquant aux modifications des actes de procédure.
+[22] Plus précisément, l’appelant soutient qu’il a toujours eu l’intention d’interjeter appel à l’encontre des deux années d’imposition : il s’est opposé en bonne et due forme à la nouvelle cotisation de 2001 et à la nouvelle cotisation de 2002. Il a fait parvenir l’ADR de 2001 et l’ADR de 2002 à son représentant. De plus, l’appelant soutient que les questions de droit sont identiques pour les deux années d’imposition et que les faits sous-tendant la nouvelle cotisation de 2002 sont pratiquement identiques aux faits sous-tendant la nouvelle cotisation de 2001 :
+(a) les deux dons ont été faits à la Fondation;
+(b) les deux dons se composaient en partie de fonds personnels de l’appelant et en partie d’une somme empruntée;
+(c) les modalités pertinentes des deux conventions de prêt étaient les mêmes;
+(d) les deux dons étaient d’un même montant – 50 000 $ et ils donnaient lieu aux mêmes crédits d’impôt – 14 500 $;
+(e) la nature et les modalités des deux dons étaient identiques.
+[23] Selon l’appelant, le principe est que des modifications devraient être autorisées en premier lieu, pourvu, « notamment, que cette autorisation ne cause pas d’injustice à l’autre partie que des dépens ne pourraient réparer, et qu’elle serve les intérêts de la justice » (Canderel Ltée c. Canada, [1993] 2 CTC 213, [1994] 1 CF 3 (CA) (QL)).
+[24] En l’espèce, selon l’appelant, autoriser les modifications ne causerait pas de préjudice à l’intimée étant donné que seules les dates et les sommes sont modifiées et que les causes principales ont déjà été entendues par la Cour en mars 2017. De plus, l’appelant estime que la Cour devrait garder à l’esprit que le présent appel fait partie d’un grand groupe d’appels et que l’on devrait faire preuve de souplesse en permettant les modifications demandées.
+2. La thèse de l’intimée.
+[25] Selon l’intimée, les principes décrits dans la décision Wells, précitée, ne sont pas valides en droit. Cette décision n’a jamais été invoquée depuis 2000.
+[26] De plus, la présente affaire se distingue de la décision Wells. Dans la décision Wells, il y avait une seule opération, mais la présente affaire a trait à deux dons différents qui auraient été faits au cours de deux années d’imposition différentes. Par conséquent, il n’existe aucun lien portant sur une seule opération. Les modifications demandées ne pourraient pas être considérées le résultat d’une erreur administrative.
+[27] L’intimée ajoute que les règles de l’impôt sur le revenu qui s’appliquent à l’année d’imposition 2002 pourraient être différentes de celles qui s’appliquent à l’année d’imposition 2001, compte tenu de modifications législatives aux paragraphes 248(30) et suivants de la Loi concernant les dons effectués après le 20 décembre 2002.
+[28] L’intimée soutient qu’on ne sait trop de quelle façon le résultat des causes principales s’appliquerait à l’appelant étant donné que l’appelant n’a signé aucun accord indiquant qu’il serait lié par les décisions qui en résulteraient.
+3. Analyse
+[29] Pour les motifs qui suivent, la requête est rejetée avec dépens en faveur de l’intimée.
+[30] Il n’est pas nécessaire d’examiner le bien-fondé des principes développés dans la décision Wells : il est évident que les faits de la présente affaire sont complètement différents de ceux de cette autre affaire.
+[31] Dans l’affaire Wells, précitée, l’opération donnant lieu aux conséquences fiscales en litige a eu lieu en 1994, et les conséquences fiscales résultant de cette opération se sont appliquées aux deux années 1994 et 1995. En outre, l’avis d’appel renvoyait aux sommes dont le total était égal à la somme des impôts contestés pour les années d’imposition 1994 et 1995.
+[32] En l’espèce, deux opérations différentes ont présumément eu lieu : l’appelant aurait effectué un don à la Fondation en décembre 2001 et aurait fait un autre don à la Fondation en décembre 2002. Ces deux opérations ont donné lieu à des conséquences fiscales pour l’appelant, le don effectué en 2002 entraînant les conséquences fiscales pour 2002 et non pour 2001, et le don effectué en 2001 donnant lieu à des conséquences fiscales pour 2001 et non pour 2002. Les montants indiqués dans l’avis d’appel ont clairement trait à la nouvelle cotisation de 2001 et non à celle de 2002.
+[33] Je ne peux trouver de lien factuel entre les deux années d’imposition, comme c’était le cas dans l’affaire Wells, même si je devais tenir compte du fait que les ententes conclues par l’appelant qui donnent effet aux opérations comportaient des modalités semblables. Je suis d’avis que, si les faits, les questions en litige soulevées, et la réparation demandée peuvent sembler identiques pour les deux années d’imposition, il reviendra au juge qui préside de trancher.
+[34] Je n’arrive pas à comprendre comment les modifications demandées par l’appelant pourraient compléter et préciser essentiellement ce qui ressort implicitement de l’ensemble des faits décrits à l’avis d’appel. L’avis d’appel, dont une ébauche a été envoyée à l’appelant en mai 2012, ne renvoie pas à la nouvelle cotisation de 2002 et ne renvoie pas à l’année d’imposition 2002. En outre, à la lecture de l’avis d’appel, je ne peux pas conclure que l’on pourrait déduire implicitement des faits décrits dans l’avis que la nouvelle cotisation de 2002 avait fait l’objet d’un appel. Au contraire, l’avis d’appel est clair et renvoie uniquement à la nouvelle cotisation de 2001.
+[35] Je ne vois pas comment les modifications demandées par l’appelant pourraient être considérées de nature administrative. Selon le Oxford Dictionary and Thesaurus (2007) :
+- Une « erreur administrative » est [TRADUCTION] « [une] faute commise en copiant ou transcrivant un document »;
+- « Administratif » signifie [TRADUCTION] « qui a trait au travail courant d’un commis aux écritures »;
+- « Commis » signifie [TRADUCTION] « une personne travaillant dans un bureau ou une banque pour tenir des dossiers ou des comptes et pour effectuer d’autres tâches administratives courantes ».
+[36] Le fil conducteur de ces définitions est la notion de travail courant ou administratif. La rédaction d’un avis d’appel ne peut pas être considérée comme une tâche administrative; à mon avis, en tenant compte des faits décrits plus haut, je n’arrive pas à voir dans l’omission de la mention de l’année d’imposition 2002 et de la nouvelle cotisation de 2002 dans l’avis d’appel une simple erreur administrative. Je suis d’avis que l’ajout de la nouvelle cotisation de 2002 à l’avis d’appel constituerait une mesure fondamentale.
+[37] L’appelant soutient que toute la progression de l’affaire révèle, du côté de l’appelant, une intention d’interjeter appel à l’encontre de la nouvelle cotisation de 2001 et de la nouvelle cotisation de 2002. Cette observation n’est pas convaincante étant donné qu’il n’est pas rare pour un contribuable d’interjeter appel d’une nouvelle cotisation pour une année d’imposition et de décider de ne pas le faire pour une nouvelle cotisation concernant une autre année d’imposition. Cependant, je suis consciente que les faits sous-jacents sont semblables et il serait improbable que l’appelant ait décidé d’interjeter appel à l’encontre de la nouvelle cotisation de 2001 sans interjeter appel à l’encontre de celle de 2002. Toutefois, cela n’est pas pertinent.
+[38] L’appelant a invoqué les observations du juge Pigeon dans l’arrêt Hamel, précité, qui expliquait que la discrétion de modifier des actes de procédure doit être exercée selon les principes établis pour « que la procédure reste la servante de la justice et n’en devienne jamais la maîtresse ». L’appelant a aussi soutenu que la Cour devrait suivre le principe général d’équité et se conformer à la nécessié primordiale d’entendre et de trancher les appels sur le fond et, par conséquent, accueillir la requête.
+[39] Toutefois, je suis d’avis que les principes régissant les modifications d’actes de procédure ne s’appliquent pas en l’espèce. Les sections I et J de la Loi prévoient des mécanismes détaillés pour s’opposer aux avis de cotisation de l’impôt sur le revenu et en interjeter appel. L’appelant devrait respecter ces mécanismes pour interjeter appel à l’encontre de la nouvelle cotisation de 2002 et, plus particulièrement des articles 169 et 167 de la Loi, si une telle demande est nécessaire.
+[40] La requête est par conséquent rejetée, avec dépens adjugés à l’intimée.
+C. La demande
+1. Thèse de l’appelant.
+[41] Subsidiairement, l’appelant demande à la Cour d’accueillir la demande en se fondant sur les principes suivis par la Cour dans la décision Hickerty, précitée, étant donné que toutes les exigences exposées au paragraphe 167(5) de la Loi sont remplies.
+[42] Le paragraphe 167(5) de la Loi est libellé comme suit :
+167(5) Acceptation de la demande — Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+167(5) When order to be made — No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+[43] L’appelant concède que, si l’exigence en matière de délai exposée à l’alinéa 167(5)a) de la Loi (le « délai de grâce d’un an ») n’est pas respectée, alors la Cour n’a aucune compétence pour accueillir la demande.
+[44] Toutefois, l’appelant soutient que, en se fondant sur la décision Hickerty, précitée, une affaire tranchée par la Cour, si un appelant a pris des mesures positives pour interjeter appel et si cet appelant croit raisonnablement que l’appel a été validement formé, le délai de grâce d’un an a cessé de courir et la Cour a compétence pour accueillir une demande de prorogation du délai pour interjeter appel.
+[45] En s’appuyant sur la décision Hickerty, l’appelant soutient que le délai de grâce d’un an sera respecté en l’espèce, si deux conditions sont réunies :
+1) l’appelant doit avoir eu la conviction qu’un appel à l’encontre de la nouvelle cotisation de 2002 avait été validement formé;
+2) cette conviction doit avoir été raisonnable jusqu’au moment où il a été mis au courant que l’appel à l’encontre de la nouvelle cotisation de 2002 n’avait pas été validement formé.
+[46] Compte tenu des faits décrits ci-haut, l’appelant croyait qu’un appel à l’encontre de la nouvelle cotisation de 2002 avait été validement formé entre le 18 mai 2012, lorsque l’avocat de l’appelant a déposé un avis d’appel auprès de la Cour, et le 31 août 2016, lorsque l’appelant, après avoir reçu le relevé de compte daté du 21 août 2016 (pièce A-15 de l’affidavit d’avril), a été mis au courant du fait que l’ARC considérait que la nouvelle cotisation de 2002 n’avait pas fait l’objet d’un appel.
+[47] En outre, selon l’appelant, la conviction de ce dernier était raisonnable au cours de la même période, et ce, pour plusieurs raisons. Premièrement, l’appelant était convaincu que l’avis d’appel concernant les deux années d’imposition avait été déposé en mai 2012, étant donné qu’il avait envoyé à son représentant des copies de l’ADR de 2001 et de l’ADR de 2002 et qu’il avait donné la directive à son avocat d’aller de l’avant avec le dépôt de l’avis d’appel. Deuxièmement, cette conviction est demeurée raisonnable jusqu’au mois d’août 2016, lorsqu’il a reçu un relevé de compte de l’ARC. Avant ce moment-là, étant donné que cet appel faisait partie d’un important groupe d’appels, il n’était pas tenu de faire quoi que ce soit, notamment de prendre des mesures positives, pour faire avancer l’appel. Finalement, l’ARC n’a pas communiqué avec l’appelant entre mai 2012 et mai 2016 pour ce qui est de la nouvelle cotisation de 2002 et n’a pas entrepris de mesures de perception.
+[48] Par conséquent, l’appelant soutient que sa conviction raisonnable qu’un appel à l’encontre de la nouvelle cotisation de 2002 avait été validement formé a pris naissance en mai 2012, c.-à-d. dans le délai prescrit de 90 jours pour interjeter appel d’un avis de cotisation auprès de la Cour (article 167 de la Loi). Le délai de grâce d’un an a commencé à courir le 31 août 2016, lorsque l’appelant a appris que l’ARC n’avait jamais considéré que la nouvelle cotisation de 2002 faisait l’objet d’un appel. Étant donné que la présente demande a été déposée sous forme d’ébauche auprès de la Cour le 30 janvier 2017, et a officiellement été déposée le 10 avril 2017, le délai de grâce d’un an était par conséquent respecté.
+[49] Selon l’appelant, l’approche suivie dans la décision Hickerty, précitée, est nouvelle et créative, et sert les objectifs d’équité, en permettant aux contribuables méritants de se faire entendre. Cependant, il soutient que cette décision ne devrait pas être interprétée comme entérinant la règle de common law concernant le moment où le préjudice aurait pu être découvert, en vertu de laquelle un délai ne commence pas tant qu’une personne n’a pas pris pleinement et clairement conscience de ses droits. Dans la décision Hickerty, la requérante avait pleinement et clairement conscience de ses droits d’interjeter appel et il ne s’agissait pas d’une affaire où la requérante ne comprenait pas les conséquences d’une nouvelle cotisation et négligeait tout simplement de s’y opposer dans le délai requis. En outre, la requérante a pris des mesures positives pour déposer un appel dans le délai prescrit; par conséquent, il était raisonnable pour elle de croire qu’un appel avait été validement formé, même si l’appel n’était pas au point autant qu’il aurait dû l’être.
+[50] L’appelant a invoqué la décision Breathe E-Z Homes Ltd. c. Ministre du Revenu national, 2014 CCI 122, [2014] ACI no 102 (QL) (« la décision Breathe E-Z »), dans laquelle la Cour a accueilli la demande de prorogation du délai pour interjeter appel et a invoqué avec approbation la décision Hickerty, mais a tranché l’affaire en fonction d’un autre motif.
+[51] Lors de l’audience, l’appelant a aussi soutenu que les autres exigences exposées au paragraphe 167(5) sont respectées en l’espèce. L’appelant a toujours eu véritablement l’intention d’interjeter appel à l’encontre de la nouvelle cotisation de 2002 étant donné qu’il a pris les mesures nécessaires pour interjeter appel à l’encontre des deux années d’imposition et qu’il s’est opposé à la nouvelle cotisation de 2001 et à la nouvelle cotisation de 2002. La demande a été présentée dès que les circonstances l’ont permis, comme l’illustre la chronologie des événements ci-dessus. Il existe des motifs raisonnables concernant l’appel à l’encontre de la nouvelle cotisation de 2002, comme l’illustre le fait que les causes principales dans cet important groupe d’appels ont été entendues par la Cour en mars dernier. Finalement, selon l’appelant, il serait juste et équitable d’accueillir la demande, étant donné que toutes les autres exigences exposées au paragraphe 167(5) de la Loi sont respectées. En outre, il serait profondément injuste de pénaliser l’appelant parce qu’il a été victime du même malentendu que l’ARC elle-même pendant près de quatre ans (pièces A-12, A-13 et A-14 de l’affidavit d’avril).
+2. La thèse de l’intimée.
+2.1 Question préliminaire.
+[52] L’intimée était d’avis qu’une demande de prorogation du délai pour interjeter appel devait être présentée à l’aide du modèle présenté à l’annexe 18.1 des Règles de procédure informelle, conformément à l’exigence prévue à l’article 18.1 des Règles de procédure informelle, qui se lit comme suit :
+18.1(1) La demande en vue d’obtenir une ordonnance prorogeant le délai pour interjeter appel peut se faire conformément au modèle figurant à l’annexe 18.1.
+Étant donné que l’appelant n’a pas utilisé le modèle que l’on trouve dans les Règles de procédure informelle pour déposer sa demande, l’intimée soutient que je ne devrais pas accueillir la demande.
+2.2 Observations.
+[53] Selon l’intimée, étant donné que l’ADR de 2002 était daté du 27 février 2012 (par. 8 de l’affidavit d’avril), le délai prescrit de 90 jours et le délai de grâce d’un an devraient être calculés à compter de cette date. Le délai prescrit de 90 jours a pris fin le 28 mai 2012 (étant donné qu’il s’agissait d’une année bissextile) et le délai de grâce d’un an a pris fin le 28 mai 2013. En conséquence, le délai de grâce d’un an n’est pas respecté étant donné que la demande a été déposée en janvier 2017 (ou avril 2017), la Cour n’a aucune compétence pour accueillir la demande.
+[54] Pour ce qui est des principes développés dans la décision Hickerty, précitée, l’intimée a souligné que cette décision était régie par la procédure informelle et, par conséquent, qu’elle n’a aucune valeur de précédent.
+[55] De plus, l’intimée soutient que la décision Hickerty est erronée, et ce, pour quatre grandes raisons :
+i) Le libellé clair et non ambigu du paragraphe 169(1) et de l’alinéa 167(5)a) de la Loi.
+[56] Le paragraphe 169(1) de la Loi prévoit que « nul appel [...] ne peut être interjeté après l’expiration des 90 jours qui suivent la date où l’avis a été envoyé au contribuable, en vertu de l’article 165 [...] ». L’alinéa 167(5)a) de la Loi prévoit qu’il n’est fait droit à la demande que si « la demande a été présentée dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel [...] ».
+[57] L’appelant aux présentes a reconnu dans l’affidavit d’avril que l’ADR de 2002 lui a été envoyé le 27 février 2012 et, en conséquence, qu’il est présumé qu’il s’agit de la date d’envoi (paragraphe 244(14) de la Loi).
+ii) La doctrine de la Cour d’appel fédérale.
+[58] Selon les observations de la juge Sharlow de la Cour d’appel fédérale dans l’arrêt La Reine c. Schafer (20 septembre 2000), A-414-98 (FCA) (« l’arrêt Schafer »), en ce qui concerne des dispositions semblables de la Loi sur la taxe d’accise, la réception d’un avis de cotisation n’est pas pertinente; la date d’envoi est le point de départ.
+6 Les dispositions législatives en matière d’établissement de cotisations, d’oppositions et d’appels visent à fournir des règles claires permettant de déterminer si le ministre a rempli son obligation d’établir une cotisation, et à fournir des procédures par lesquelles les contribuables peuvent contester des cotisations susceptibles d’être erronées. Le législateur fédéral a choisi d’adopter une règle qui ne tient pas compte de la possibilité, même lointaine, que le contribuable puisse omettre de respecter le délai dans lequel il pouvait s’opposer ou former un appel en raison d’un manquement de la part du système postal. Je ne comprends pas pourquoi le législateur fédéral a choisi de priver les contribuables de l’occasion de contester une cotisation dont ils ignorent l’existence, mais il s’agit d’un choix que le législateur pouvait valablement faire.
+[59] Selon l’intimée, ces observations de la Cour d’appel fédérale excluent dans ces circonstances l’application de la règle concernant le moment où le préjudice aurait pu être découvert.
+[60] L’intimée a aussi invoqué l’arrêt La Reine c. Carlson, 2002 CAF 145, 2002 DTC 6893 (« l’arrêt Carlson »); dans cet arrêt, la Cour d’appel fédérale a accueilli une demande de contrôle judiciaire d’une ordonnance de la Cour à l’égard d’une demande de prorogation du délai pour déposer un avis d’opposition. La Cour d’appel fédérale a déclaré qu’il était erroné d’invoquer dans les circonstances de cette affaire précise la règle concernant le moment où le préjudice aurait pu être découvert et a ajouté : « [...] Quant à savoir si cette règle s’applique à des cas tombant sous le coup de la Loi, question au sujet de laquelle nous entretenons de sérieux doutes, il ne nous est pas nécessaire d’y répondre aujourd’hui » (par. 17).
+[61] Selon l’intimée, il est également évident d’après l’arrêt Carlson, précité, que, si le délai de grâce d’un an n’est pas respecté, la Cour n’a aucune compétence pour faire droit à une demande :
+10 Toutefois, aux termes des alinéas 166.1(7)a) et 166.2(5)a) de la Loi, le Ministre et la CCI ne peuvent prolonger le délai prévu pour le dépôt de l’avis d’opposition que si la demande est présentée dans l’année suivant l’expiration du délai prévu pour le dépôt d’un avis d’opposition.
+iii) L’appelant était au courant de l’existence de l’ADR de 2002 en février 2012.
+[62] Étant donné que l’appelant savait que l’ADR de 2002 avait été délivré, alors la date du début du délai de prescription se situait vers la fin de février 2012. En conséquence, même si la Cour devait appliquer la règle concernant le moment ou le préjudice aurait pu être découvert , le délai de grâce d’un an n’est pas respecté dans les circonstances présentes.
+iv) L’exclusion de la règle concernant le moment où le préjudice aurait pu être découvert par le libellé clair d’une disposition législative.
+[63] Dans la décision Nagle c. La Reine, 2005 CCI 462, 2005 DTC 1093, la Cour devait déterminer si une demande de prorogation du délai pour signifier un avis d’opposition déposé par un demandeur, qui faisait partie d’un important groupe d’appels, devrait être accueillie. La Cour a suivi la doctrine affirmée par la Cour suprême du Canada dans l’arrêt Peixeiro c. Haberman, [1997] 3 RCS 549, [1997] 3 ACS no 31 (QL), et a rejeté la demande; elle a déclaré clairement que la règle concernant le moment où le préjudice aurait pu être découvert ne l’emportait pas sur la signification claire des lois :
+12 Je ne suis pas d’accord avec le demandeur lorsqu’il dit que la règle du moment où le préjudice aurait pu être découvert l’emporte sur les textes de loi. La Cour suprême du Canada donne à penser qu’une approche littérale ne convient pas lorsqu’il s’agit d’interpréter les délais de prescription prévus par la loi, mais elle ne laisse pas entendre que l’on peut ne pas tenir compte du libellé de la loi. Juste avant le passage susmentionné tiré de l’arrêt Haberman v. Peixeiro, la Cour approuve l’affirmation suivante tirée de l’arrêt Fehr v. Jacob (1993), 14 C.C.L.T. (2d) 200 (Man C.A.), à la page 206 :
+À mon avis, la règle prétorienne de la possibilité de découvrir le dommage n’est rien de plus qu’une règle d’interprétation. Dans tous les cas où une loi indique que l’action en justice doit être intentée dans un certain délai après un événement donné, il faut interpréter les termes de cette loi. Lorsque ce délai court à partir du « moment où naît la cause d’action » ou de tout autre événement qui peut être interprété comme ne survenant qu’au moment où la victime prend connaissance du dommage, c’est la règle prétorienne de la possibilité de découvrir le dommage qui s’applique. Toutefois, si le délai court à compter de la date d’un événement qui survient clairement, et sans égard à la connaissance qu’en a la victime, cette règle ne peut prolonger le délai fixé par le législateur. [Non souligné dans l’original.]
+[64] La Cour a conclu que le libellé de la Loi ne permet pas au délai de grâce d’un an de commencer à courir à partir du moment où le demandeur est informé du fait que son comptable n’a pas signifié les avis d’opposition nécessaires.
+[65] Le même principe devrait s’appliquer en l’espèce, étant donné que le libellé des différentes dispositions de la Loi est semblable.
+[66] L’intimée a aussi cité les décisions Odebala-Fregene c. La Reine, 2015 CCI 44, 2015 DTC 1087, et Chu c. La Reine, 2009 CCI 444, 2009 DTC 1298.
+[67] En outre, l’intimée a fait valoir à la Cour que l’affidavit de janvier et l’affidavit d’avril ne sont pas exactement les mêmes. De plus, l’affidavit d’avril semble avoir été rédigé précisément pour tenir compte de la doctrine présentée dans la décision Hickerty : au paragraphe 33, l’appelant a déclaré qu’il [TRADUCTION] « croyait raisonnablement avoir valablement porté appel de la nouvelle cotisation de 2002 ». Ce libellé était inapproprié et n’aurait pas dû être inclus dans un affidavit étant donné qu’il a pour objet de présenter les faits pertinents quant au litige sans commentaires ni explications (arrêt Canada (Procureur général) c. Quadrini, 2010 CAF 47, [2010] ACF no 194 [QL], au par. 18, mentionné dans l’arrêt CBS Canada Holdings Co. c. La Reine, 2017 CAF 65, 2017 DTC 5036, au par. 17).
+[68] Finalement, l’intimée a fait valoir que les deux affidavits ne contiennent pas un libellé qui explique ce qu’a fait l’appelant avec l’ébauche de l’avis d’appel reçu de son avocat. Les seuls renseignements que l’on trouve dans les affidavits sont qu’il avait donné à son avocat la directive de déposer ledit document. Selon l’intimée, l’appelant n’a probablement pas lu l’ébauche de l’avis d’appel et ne s’est pas alors rendu compte qu’il n’y avait aucune référence à un appel à l’encontre de la nouvelle cotisation de 2002. Selon l’intimée, même un profane qui aurait lu l’ébauche de l’avis d’appel se serait rendu compte que la nouvelle cotisation de 2002 ne faisait pas l’objet d’un appel.
+3. Analyse
+[69] Pour les motifs qui suivent, la demande est rejetée, sans dépens.
+[70] Pour ce qui est de la question préliminaire, je ne souscris pas à l’argument de l’intimée selon lequel l’article 18.1 des Règles de procédure informelle exige qu’une demande de prorogation du délai soit déposée à l’aide du modèle joint aux règles de procédure informelle. L’article 18.1 des Règles de procédure informelle utilise le mot « peut ». En outre, l’interprétation par la Cour des Règles de procédure informelle et des Règles de procédure générale devrait être large, comme il est indiqué à l’article 4 des Règles de procédure générale. Par conséquent, je suis d’avis que la demande constitue une demande valide de prorogation du délai d’appel.
+[71] Quant au contenu de l’affidavit d’avril utilisant un libellé inapproprié, je suis d’accord avec l’intimée.
+[72] L’appelant demande à la Cour d’utiliser l’approche nouvelle et créative suivie par la Cour dans la décision Hickerty, précitée, et ainsi atteindre l’objectif d’équité en permettant aux contribuables méritants de se faire entendre. L’appelant a dit clairement dans ses observations que le principe découlant de la décision Hickerty ne devrait pas être interprété comme entérinant la règle de common law concernant le moment où le préjudice aurait pu être découvert, en vertu de laquelle un délai de prescription ne court pas tant qu’une personne n’a pas pris pleinement et clairement conscience de ses droits.
+[73] Pour les motifs qui suivent, je suis d’avis que le principe sur lequel s’est appuyée la Cour dans la décision Hickerty ne devrait pas être suivi dans les présentes circonstances.
+[74] Étant donné que la décision Hickerty portait sur la procédure informelle de la Cour, elle n’a aucune valeur de précédent (décision Castle c. La Reine, 2008 DTC 2821, [2008] ACI no 66 (QL)).
+[75] Dans l’arrêt Carlson, précité, la Cour d’appel fédérale a dit clairement que le délai de grâce d’un an est strict et qu’on ne peut pas y déroger. L’appelant est d’avis que les présents faits se distinguent de ceux de l’arrêt Carlson, où le demandeur ne s’était pas opposé pendant de nombreuses années et ne comprenait pas qu’il aurait pu le faire. Je n’arrive pas à voir comment cette distinction pourrait être pertinente.
+[76] Dans l’arrêt Schafer, précité, la Cour d’appel fédérale dit clairement que même la défaillance du système postal ne dispensera pas le contribuable des délais rigoureux pour s’opposer à une cotisation ou pour en faire appel, comme le prescrit la Loi. La Cour d’appel fédérale a dit clairement que, même si un contribuable n’est pas au courant de l’existence d’une cotisation, il n’aura pas la possibilité de contester la cotisation s’il ne respecte pas à la lettre les délais rigoureux prescrits par la Loi pour s’opposer à une cotisation et en faire appel. La Cour d’appel fédérale a également déclaré que la seule exigence à laquelle il faut satisfaire est que l’avis de cotisation ait été envoyé et elle a ajouté : « [...] [i]l n’existe pas d’exigence selon laquelle l’avis doit avoir été reçu afin que le délai commence à courir. Le libellé du paragraphe 301(1.1) est clair et non ambigu et on doit l’appliquer indépendamment de son objet » (par. 12).
+[77] Compte tenu de la doctrine de la Cour d’appel fédérale, le fait que l’appelant ne se soit pas rendu compte avant août 2016 que la nouvelle cotisation de 2002 n’avait pas fait l’objet d’un appel ne peut avoir quelque conséquence que ce soit sur le calcul du délai de grâce d’un an. L’appelant a reconnu avoir reçu l’ADR de 2002 en février 2012; l’ARC a envoyé l’ADR de 2002 en février 2012. La date de début du calcul du délai prescrit de 90 jours et du délai de grâce supplémentaire d’un an était le 27 février 2012. Le fait que l’ARC ait cru par erreur que la nouvelle cotisation de 2002 faisait l’objet d’un appel et n’ait pas entrepris des procédures de perception avant 2016 n’a aucune incidence sur cette conclusion.
+[78] L’appelant a aussi invoqué la décision Breathe E-Z, précitée, à l’appui de l’application de la décision Hickerty, précité. Toutefois, je signale que dans la décision Breathe E-Z, la Cour avait invoqué la décision Hickerty, mais qu’elle n’avait pas fondé sa décision sur la ratio exposée dans la décision Hickerty, parce que la Cour a conclu que le document envoyé à l’ARC constituait une demande de prorogation du délai présentée dans le délai prescrit par la loi applicable.
+[79] L’une des plus récentes décisions de la Cour sur la même question est la décision Odebala-Fregene, précitée. Dans cette décision, la Cour a rejeté une demande de prorogation du délai pour signifier un avis d’opposition. La demanderesse a soutenu qu’il ne lui aurait pas été possible de signifier un avis d’opposition dans le délai de grâce d’un an applicable, étant donné qu’elle n’était pas au courant qu’elle aurait pu s’opposer, jusqu’à ce qu’un agent de perception de l’ARC communique avec elle après l’expiration de ce délai. La demanderesse a soutenu que la demande devrait être accueillie étant donné que l’ARC était assujettie au devoir « d’équité procédurale » prévu en common law. Au paragraphe 11, la Cour a déclaré :
+11 Le libellé est clair. Les exigences sont strictes. On ne peut déroger au délai imparti. La demande de prorogation du délai pour déposer un avis d’opposition ne peut être acceptée que si elle a été faite dans l’année suivant l’expiration du délai pour signifier un avis d’opposition ou présenter une requête en vertu de la Loi. Ces principes ont été soulignés en appel et appliqués par la Cour de façon systématique.
+[80] La Cour a aussi invoqué la décision Hickerty, mais a déclaré que la bonne approche était que la doctrine concernant le moment où le préjudice aurait pu être découvert ne s’appliquait pas dans les circonstances, comme l’a indiqué la Cour dans la décision Chu, précitée.
+[81] Dans la décision Chu, les demandeurs, comme en l’espèce, ont pris des mesures positives au cours du processus et croyaient qu’une tierce partie qu’ils avaient engagée pour les représenter avait pris les mesures nécessaires et avait interjeté appel de leurs cotisations. Dès que les demandeurs se sont rendu compte de l’omission du représentant, ils ont présenté une demande de prorogation du délai après l’expiration du délai de grâce d’un an. La Cour a rejeté le principe développé dans la décision Hickerty, précitée, et a déclaré :
+35 Dans la présente affaire, où un spécialiste censément compétent a omis de se conformer à une exigence législative claire, il ne m’appartient pas de corriger la situation en faisant abstraction du libellé exprès de la Loi, même s’il pourrait bien être équitable de ma part de le faire, en particulier si on tient compte du fait que l’intimée ne devrait pas tenter de percevoir plus d’impôt que ne le prescrit la loi, le cas échéant. Mais je [le juge] n’ai aucune compétence en equity m’autorisant à accorder un recours qui permettrait de trancher cette question.
+[82] Je signale en outre que, dans la décision Nagle, précitée, la Cour a conclu à l’égard de faits semblables que la règle concernant le moment où le préjudice aurait pu être découvert n’est pas engagée lorsqu’une personne est au courant de l’existence d’une cotisation :
+10 À mon avis, il ne s’agit pas d’une situation à laquelle pourrait s’appliquer la règle du moment où le préjudice aurait pu être découvert. D’abord, le demandeur admet avoir reçu les avis de nouvelle cotisation. Il savait qu’il avait une cause d’action et qu’il devait déposer des avis d’opposition. Non seulement était-il possible de découvrir la cause d’action, mais aussi celle-ci l’a-t-elle été. Ensuite, le demandeur aurait-il pu de toute façon découvrir qu’aucun avis d’opposition n’avait été produit. Il a dit qu’il a eu une conversation avec le comptable, qui lui a dit que les avis avaient été produits. Je présume que si M. Nagle avait demandé des copies des avis au comptable, il aurait découvert que les avis n’avaient pas été établis.
+[83] De même, dans le cas de la présente demande, comme l’a fait valoir l’intimée, l’appelant savait depuis février 2012 que l’ADR de 2002 avait pas délivré.
+[84] Le libellé de l’article 167 et de l’alinéa 167(5)a) de la Loi est clair et non ambigu; le libellé de cet alinéa ne me permet pas de conclure que le délai a cessé de courir parce que l’appelant croyait, de façon erronée, que la nouvelle cotisation de 2002 faisait l’objet d’un appel. Il est clair que le délai court à partir de l’expiration du délai de 90 jours prescrit pour interjeter appel contre la nouvelle cotisation de 2002 (calculé à partir de la date de l’ADR de 2002), c.-à-d. à partir du 28 mai 2012. En conséquence, le délai de grâce d’un an est venu à échéance le 28 mai 2013. Étant donné que la présente demande a été déposée auprès de la Cour en janvier 2017 au plus tôt, il est évident que le délai de grâce d’un an n’est pas respecté et que la demande devrait être rejetée pour ce motif.
+[85] Même si je devais appliquer la ratio de la décision Hickerty, je suis d’avis qu’il m’est impossible de conclure que l’appelant aurait pu croire ou avait la conviction raisonnable qu’il avait interjeté appel à l’encontre de la nouvelle cotisation de 2002, étant donné que l’affidavit d’avril et que l’affidavit de janvier ne disent rien quant aux mesures prises par l’appelant entre le moment où il a reçu l’ébauche de l’avis d’appel et le moment où il a communiqué avec son avocat et a autorisé le dépôt de l’avis d’appel tel que rédigé. A-t-il lu l’ébauche de l’avis d’appel? Je suis d’accord avec l’intimée quand elle dit que même un profane se serait rendu compte à la simple lecture du document que la nouvelle cotisation de 2002 et l’année d’imposition 2002 n’étaient pas mentionnées dans l’ébauche de l’avis d’appel. Je ne peux pas conclure que sa conviction était raisonnable dans les circonstances puisque les deux affidavits ne disent rien à cet égard.
+[86] Finalement, voici mes dernières observations : aucune considération d’impartialité ou d’équité ne peut aider l’appelant étant donné que la Cour est une cour créée par la loi. Comme on l’a expliqué dans la décision Odebala-Fregene, précitée :
+22 Compte tenu de la nature spécialisée du régime prévu par la Loi et du fait que la Cour a été créée par la loi, les exigences en matière d’équité ne s’appliquent pas. Dans ses observations, l’avocat de l’intimée fait référence à l’arrêt Chaya c Canada, 2004 CAF 327, 2004 DTC 6676 (CAF), dans lequel la Cour d’appel fédérale a souligné que la Cour n’a pas compétence pour déroger au délai pour des raisons d’équité. Au paragraphe 4 de la décision, le juge d’appel Rothstein (tel était alors son titre) a déclaré ce qui suit :
+4 […] Elle ne peut pas déroger aux dispositions législatives pour des raisons liées à l’équité. S’il estime que la loi est inéquitable, le demandeur doit avoir recours au Parlement et non pas à la Cour.
+[87] Étant donné que j’ai conclu que le délai de grâce d’un an n’est pas respecté, je n’aurai pas à examiner si les autres exigences prévues au paragraphe 167(5) de la Loi sont réunies.
+[88] La demande est rejetée sans dépens.
+Signé à Ottawa, Canada, ce 21e jour de juin 2017.
+« Dominique Lafleur »
+La juge Lafleur
+Traduction certifiée conforme
+ce 14e jour de septembre 2018.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2017 CCI 119
+NO DU DOSSIER DE LA COUR :
+2012-1956(IT)G
+INTITULÉ :
+ROBERTO PIETROVITO c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 8 mai 2017
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Dominique Lafleur
+DATE DE L’ORDONNANCE :
+Le 21 juin 2017
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Dov Whitman
+Me Anne-Sophie Villeneuve
+Avocats de l’intimée :
+Me Arnold H. Bornstein
+Me John Grant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Dov Whitman
+Me Anne-Sophie Villeneuve
+Me Reuben Abitbol
+Cabinet :
+Davies Ward Phillips & Vineberg S.E.N.C.R.L., s.r.l.
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

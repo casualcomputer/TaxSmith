@@ -1,0 +1,172 @@
+---
+title: "Bayrack v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/365199/index.do"
+last_modified: "2019-03-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 53"
+citation2: ""
+neutral_citation: "2019 TCC 53"
+decision_date: "2019-03-06"
+language: "en"
+item_id: "365199"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4308
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:18:08.959000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d96192a6f01e0358e3a1da8e7bd7f9ebb4316fcb1a8e16e56cf93d3009a179f3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bayrack v. The Queen
+
+- Citation: 2019 TCC 53
+- Decision date: 2019-03-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4308, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bayrack v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-03-06
+Neutral citation
+2019 TCC 53
+File numbers
+2017-4552(IT)I
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-4552(IT)I
+BETWEEN:
+DAVID L. BAYRACK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 20, 2018, at Calgary, Alberta
+Before: The Honourable Justice Susan Wong
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Aminollah Sabzevari
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2014 taxation year is dismissed without costs.
+Signed at Toronto, Ontario, this 6th day of March 2019.
+“Susan Wong”
+Wong J.
+Citation: 2019 TCC 53
+Date: 20190306
+Docket: 2017-4552(IT)I
+BETWEEN:
+DAVID L. BAYRACK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+[1] The issue in this appeal is whether the Appellant David Bayrack is entitled to claim a non-refundable tax credit for a wholly dependent person in his 2014 taxation year. This credit is also known as the equivalent-to-spouse or eligible dependant tax credit.
+[2] Mr. Bayrack was the only witness at the hearing.
+Legislative framework
+[3] The wholly dependent person credit is found at subsection 118(1) of the Income Tax Act (the “Act”) and its specific criteria are located at paragraph (b) of B in the formula calculation.
+[4] There is no dispute between the parties with respect to the criteria set out in paragraph (b) of B in the formula calculation. Rather, the disagreement lies in the application of subsections 118(5) and (5.1), the relevant portions of which read as follows:
+118(5) Support
+No amount may be deducted under subsection (1) in computing an individual’s tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (within the meaning assigned by subsection 56.1(4)) to the individual’s spouse or common-law partner or former spouse or common-law partner in respect of the person and the individual
+(a) lives separate and apart from the spouse or common-law partner or former spouse or common-law partner throughout the year because of the breakdown of their marriage or common-law partnership; or
+…
+118(5.1) Where subsection 118(5) does not apply
+Where, if this Act were read without reference to this subsection, solely because of the application of subsection (5), no individual is entitled to a deduction under paragraph (b) or (b.1) of the description of B in subsection (1) for a taxation year in respect of a child, subsection (5) shall not apply in respect of that child for that taxation year.
+[5] There is no dispute between the parties that the Appellant was required to pay a support amount in 2014, within the meaning assigned by subsection 56.1(4) of the Act. However, there is disagreement as to whether the Appellant’s former spouse was also required to pay a support amount that year, within the meaning of that subsection.
+[6] The definition of “support amount” in subsection 56.1(4) reads as follows:
+56.1(4) …
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[7] Distilling the provisions down to their practical effect for the purposes of the present appeal - if only one parent pays child support, then subsection 118(5) applies to preclude a deduction under subsection 118(1). However, if both parents pay child support to each other, then subsection 118(5.1) applies to preclude the application of subsection (5). The result would then be that the deduction under subsection (1) is allowed.
+Facts
+[8] The Appellant and his former spouse had two children during their marriage. They separated on July 28, 2013 and, at all material times, they lived separate and apart as a result of the marital breakdown.
+[9] On September 8, 2014, the Alberta Court of Queen’s Bench issued a consent order which stated, among other things, that:
+1. The parties shall have joint custody of the children and a shared parenting arrangement on a rotation of 4 days with each parent.
+2. David Bayrack shall pay the set-off amount to Nichole Bayrack the sum of $409.00 per month for the support of the children, payable on the 15th day of each month, beginning October 15, 2014.
+…
+4. Each parent shall claim one child as a dependent on their income tax.
+(Exhibit A-1)
+[10] Neither the Appellant nor his former spouse was represented by counsel at the time the September 2014 order was issued. It is this order which is the subject of the present appeal.
+[11] On June 15, 2016, the Appellant and his former spouse were represented by separate counsel and the Court of Queen’s Bench issued a consent variation order, varying paragraph 4 of the September 2014 order to read as follows:
+4. The Respondent and the Applicant share custody of their children, [name redacted] and [name redacted] on an approximately 50/50 basis and the parents have each had the legal obligation to pay child support since they separated on July 28th, 2013 and therefore have each had this legal obligation since year 2013 forward. Therefore, the Respondent (father) shall claim [name redacted] for an amount for an eligible dependent on line 305 of his income tax and benefit return for the tax years since separation and forward and the Applicant (mother) shall claim [name redacted] for an amount for an eligible dependant on line 305 of her income tax and benefit return for the tax years since separation and forward pursuant to subsection 118(5.1) of the Income Tax Act.
+(Exhibit A-2)
+[12] On November 16, 2017, the Appellant and his former spouse were represented by new counsel and the Court of Queen’s Bench issued an order replacing paragraphs 2 and 4 of the September 2014 order to read as follows:
+2. The Respondent shall pay s. 3 child support to the Applicant in the amount of $1,167.00. The Applicant shall pay s. 3 child support to the Respondent in the amount of $758.00. For convenience, only the foregoing obligation can be fulfilled if the Respondent provides the Applicant with the net amount of $409.00;
+4. The Respondent and the Applicant share custody of their Children, [name redacted] and [name redacted], on an approximately 50/50 basis and the parents have each had the legal obligation to pay child support since they separated on July 28th, 2013, and therefore have each had this legal obligation since year 2013 forward. Therefore, the Respondent shall claim [name redacted] for an amount for an eligible dependent on line 305 of his income tax and benefit return for the tax years since separation and forward and the Applicant shall claim [name redacted] for an amount of an eligible dependent on line 305 of her income tax and benefit return for the tax years since separation and forward, pursuant to subsection 118(5) of the Income Tax Act.
+(Exhibit A-3)
+[13] The Appellant testified that both he and his former spouse were obliged to pay child support under the September 2014 order. He also stated that the June 2016 and November 2017 orders reflected their efforts to show their intention to try to come to a fair agreement with respect to their children.
+[14] The Appellant testified that the Minister of National Revenue disallowed the credit when he submitted the June 2016 order, but that the credit was allowed with respect to his 2017 taxation year after he submitted the November 2017 order.
+Analysis
+[15] In Verones v. The Queen, 2013 FCA 69, 2013 DTC 5061, (affirming 2012 TCC 291), the Federal Court of Appeal considered a similar set of facts. In that case, the appellant paid monthly child support in an amount which represented a set-off between what he and his former spouse were each required to contribute under the Federal Child Support Guidelines, SOR/97-175 (the “Guidelines”). Their respective Guideline incomes were referenced in the subject court order (as is the case in the present appeal).
+[16] In upholding the Tax Court Judge’s dismissal, the Court stated at paragraph 6 that:
+[6] The whole discussion about the concept of set-off is a mere distraction from the real issue, i.e. whether or not the appellant is the only parent making a “child support payment” in virtue of “an order of a competent tribunal or an agreement”, as defined under the Act.
+[17] At paragraph 9 of Verones, the Court agreed with the Tax Court Judge’s presumption that subsection 118(5.1) was introduced to give relief where both parents actually pay child support.
+[18] In the present appeal, the September 2014 order only directed the Appellant to pay child support. With respect to his former spouse, her income was taken into consideration in the Guideline calculation and the income amount is referenced in that order. However, there was no order directing that she pay child support to the Appellant.
+[19] At paragraph 8 of Verones, the Court stated that:
+[8] Once each parent’s obligation vis-à-vis the children is determined, the higher income parent may be obligated to make child support payments to the lower income parent as part of his or her performance of said obligation. However, in the end, the set-off concept does not translate the parents’ respective obligation to child rearing into a “support payment” as defined in the Act.
+[20] In the present appeal, both the Appellant and his former spouse were obliged to maintain the children of the marriage according to their relative financial means. The support payments made by the Appellant represented a set-off of their respective financial abilities rather than a set-off of respective child support payments.
+[21] With respect to the effect of the November 2017 order, counsel for the Respondent correctly stated that subsections 56.1(3) and 60.1(3) operate to limit any retroactive effect to one year. There are other statutory criteria which must be met before a payment can be treated retroactively. However, I do not propose to discuss them because the fact that 2014 is the year under appeal means that these provisions do not prima facie apply.
+[22] The Appellant cited Lawson v. Her Majesty the Queen, 2017 TCC 131, 2017 DTC 1079, in support of his position. However, the facts in Lawson differ from the present situation in that the amount paid by Mr. Lawson was not based solely on the Guidelines.
+[23] I appreciate the Appellant’s argument and the circumstances which led to this appeal. However, the applicable statutory provisions and the September 2014 order are clearly worded and I must find accordingly.
+Conclusion
+[24] The Appellant is not entitled to claim the wholly dependent person tax credit in the 2014 taxation year because the restriction set out in subsection 118(5) applies.
+[25] The appeal is dismissed without costs.
+Signed at Toronto, Ontario, this 6th day of March 2019.
+“Susan Wong”
+Wong J.
+CITATION:
+2019 TCC 53
+COURT FILE NO.:
+2017-4552(IT)I
+STYLE OF CAUSE:
+DAVID L. BAYRACK and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+November 20, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+March 6, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Aminollah Sabzevari
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

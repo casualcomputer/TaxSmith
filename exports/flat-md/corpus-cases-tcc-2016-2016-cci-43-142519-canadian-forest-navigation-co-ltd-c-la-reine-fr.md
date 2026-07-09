@@ -1,0 +1,327 @@
+---
+title: "Canadian Forest Navigation Co. Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/142519/index.do"
+last_modified: "2016-02-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 43"
+citation2: ""
+neutral_citation: "2016 CCI 43"
+decision_date: "2016-02-12"
+language: "fr"
+item_id: "142519"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3016
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:10:26.420000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9ca830c6da3316787a09ed15bcf40a5eb8d57a42fbe6541365d5b9455f179b9c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Canadian Forest Navigation Co. Ltd. c. La Reine
+
+- Citation: 2016 CCI 43
+- Decision date: 2016-02-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3016, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canadian Forest Navigation Co. Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-02-12
+Référence neutre
+2016 CCI 43
+Numéro de dossier
+2012-4038(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-4038(IT)G
+ENTRE :
+CANADIAN FOREST NAVIGATION CO. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Audience de détermination tenue le 30 septembre 2015,
+à Montréal (Québec).
+Devant : L’honorable juge en chef adjointe Lucie Lamarre
+Comparutions :
+Avocats de l’appelante :
+Me Stéphane Eljarrat
+Me Joel Scheuerman
+Me Leïla Côté
+Avocats de l’intimée :
+Me Diana Aird
+Me Rita Araujo
+DÉTERMINATION
+Attendu que l’appelante a présenté une requête à la Cour en vue d’obtenir une ordonnance en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale) afin que soit tranchée avant l’audience une question de droit;
+Et attendu que, par ordonnance datée du 19 février 2015, le juge Graham de la Cour a ordonné que soit tranchée la question de droit ci-dessous ainsi formulée:
+ATTENDU QUE les sociétés étrangères affiliées de l’appelante lui ont transféré des montants en 2004, en 2005 et en 2006 et ont déclaré ces transferts à titre de dividendes;
+ATTENDU QUE des ordonnances de rectification étrangères ont été rendues par la Cour suprême de la Barbade et la cour de district de Nicosie, à Chypre, le 28 mars 2001 [sic] et le 13 août 2010 respectivement;
+ATTENDU QUE les ordonnances de rectification étrangères portaient que le montant transféré par les sociétés étrangères affiliées de l’appelante à celle-ci ne constitue pas des dividendes, mais plutôt des transferts qui ont résulté en l’endettement de l’appelante auprès des sociétés étrangères correspondent au montant des transferts;
+ATTENDU QUE dans le calcul de son impôt sur le revenu au Canada, le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard l’appelante compte tenu du fait que les transferts étaient des dividendes au sens des articles 12 et 90 de la Loi de l’impôt sur le revenu;
+ATTENDU QUE les cotisations font l’objet du présent appel;
+ATTENDU QUE l’une des questions à trancher dans le cadre du présent appel est celle de savoir si les transferts sont imposables à titre de dividendes :
+Le ministre est-il tenu de ne pas assimiler les transferts à des dividendes ou de ne pas défendre la thèse selon laquelle les transferts constituent des dividendes en l’espèce, en raison des ordonnances de rectification étrangères, et de plutôt considérer les transferts comme ayant résulté en l’endettement de l’appelante auprès des sociétés affiliées étrangères correspondant au montant des transferts?
+Conformément aux motifs ci-joints, il est répondue à la question soulevée par les parties par la négative et la Cour conclut que l’intimée n’est pas liée par les jugements étrangers puisqu’ils n’ont pas été reconnus au Canada par une juridiction compétente. Par conséquent, au procès, il sera loisible à l’intimée de soutenir la thèse portant que l’appelante a reçu des dividendes plutôt que des montants sous la forme de prêts et autres dettes durant la période en cause.
+L’intimée a droit à ses dépens relativement à la présente requête.
+Signé à Ottawa, Canada, ce 12e jour de février 2016.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Traduction certifiée conforme
+Ce 14e jour d’octobre 2016
+François Brunet, réviseur
+Référence : 2016 CCI 43
+Date : 20160212
+Dossier : 2012-4038(IT)G
+ENTRE :
+CANADIAN FOREST NAVIGATION CO. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE LA DÉTERMINATION
+La juge en chef adjointe Lamarre
+[1] Par ordonnance datée du 19 février 2015, le juge Graham de la Cour a ordonné que soit tranchée la question de droit avant l’audition de l’appel ainsi formulée :
+ATTENDU QUE les sociétés étrangères affiliées de l’appelante lui ont transféré des montants en 2004, en 2005 et en 2006 et ont déclaré ces transferts à titre de dividendes;
+ATTENDU QUE des ordonnances de rectification étrangères ont été rendues par la Cour suprême de la Barbade et la cour de district de Nicosie, à Chypre, le 28 mars 2001 [sic] et le 13 août 2010 respectivement;
+ATTENDU QUE les ordonnances de rectification étrangères portaient que le montant transféré par les sociétés étrangères affiliées de l’appelante à celle-ci ne constitue pas des dividendes, mais plutôt des transferts qui ont résulté en l’endettement de l’appelante auprès des sociétés étrangères correspondant au montant des transferts;
+ATTENDU QUE dans le calcul de son impôt sur le revenu au Canada, le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard l’appelante compte tenu du fait que les transferts étaient des dividendes au sens des articles 12 et 90 de la Loi de l’impôt sur le revenu;
+ATTENDU QUE les cotisations font l’objet du présent appel;
+ATTENDU QUE l’une des questions à trancher dans le cadre du présent appel est celle de savoir si les transferts sont imposables à titre de dividendes :
+Le ministre est-il tenu de ne pas assimiler les transferts et des dividendes ou de ne pas défendre la thèse selon laquelle les transferts constituent des dividendes en l’espèce, en raison des ordonnances de rectification étrangères, et de plutôt considérer les transferts comme ayant résulté en l’endettement de l’appelante auprès des sociétés affiliées étrangères correspondant au montant des transferts?
+[2] À l’appui de la requête, les parties ont déposé un exposé conjoint des faits qui est reproduit à la fin des présents motifs de détermination.
+[3] L’appelante soutient que notre Cour doit répondre à la question précitée par l’affirmative. Selon l’appelante, les jugements de la Barbade et de Chypre (les jugements étrangers) déclaraient les transferts effectués par ses filiales, Canfornav Inc. (sous-traitant de la Barbade) et Canfornav Limited (sous-traitant de Chypre), dont les transferts ont d’abord été déclarés à titre de dividendes pour ses années d’imposition 2005 et 2006, avoir été rétroactivement modifiés afin d’être assimilés à des prêts et autres dettes (résultant en un endettement de l’appelante auprès de ses filiales). Selon l’appelante, ces jugements étrangers constituent une réalité judiciaire et l’intimée doit en tenir compte. En conséquence, l’intimée est tenue de tenir compte des jugements étrangers et elle ne peut pas soutenir que l’appelante a reçu des dividendes plutôt que des montants sous forme de prêts et autres dettes.
+[4] L’intimée, pour sa part, demande à notre Cour de répondre à la question par la négative. Elle soutient que l’appelante a eu recours à des procédures de rectification étrangères sans en aviser le ministre du Revenu national (le ministre) après avoir fait l’objet d’une vérification et avoir été avisée que les déductions de dividendes demandées aux termes de l’alinéa 113(1)a) de la Loi de l’impôt sur le revenu (LIR) seraient refusées. À son avis, l’appelante a eu recours à des procédures de rectification étrangères pour requalifier les dividendes en prêts ou autres dettes en vue d’éviter des conséquences fiscales imprévues au Canada. L’intimée soutient qu’elle n’est pas tenue de tenir compte des jugements étrangers, car ils ont été obtenus sans que le ministre n’en soit avisé, qu’ils constituent une planification fiscale rétroactive et qu’ils n’ont pas été reconnus au Canada par une juridiction compétente.
+[5] Par les motifs qui suivent, je répondrai à la question soulevée dans la présente requête par la négative.
+Analyse [6] Il n’est pas controversé entre les parties que la seule province canadienne avec laquelle l’appelante a un lien est la province de Québec. Par conséquent, la question de l’application des jugements étrangers devant notre Cour relève du droit de la province, soit le Code civil du Québec (C.C.Q.) et le Code de procédure civile du Québec.
+[7] Les articles pertinents en l’espèce sont les articles 2822, 3155 et 3158 du C.C.Q, qui se lisent comme suit :
+2822. L’acte qui émane apparemment d’un officier public étranger compétent fait preuve, à l’égard de tous, de son contenu, sans qu’il soit nécessaire de prouver la qualité ni la signature de cet officier.
+De même, la copie d’un document dont l’officier public étranger est dépositaire fait preuve, à l’égard de tous, de sa conformité à l’original et supplée à ce dernier, si elle émane apparemment de cet officier.
+3155. Toute décision rendue hors du Québec est reconnue et, le cas échéant, déclarée exécutoire par l’autorité du Québec, sauf dans les cas suivants :
+1 L’autorité de l’État dans lequel la décision a été rendue n’était pas compétente suivant les dispositions du présent titre;
+2 La décision, au lieu où elle a été rendue, est susceptible d’un recours ordinaire, ou n’est pas définitive ou exécutoire;
+3°La décision a été rendue en violation des principes essentiels de la procédure;
+4°Un litige entre les mêmes parties, fondé sur les mêmes faits et ayant le même objet, a donné lieu au Québec à une décision passée ou non en force de chose jugée, ou est pendant devant une autorité québécoise, première saisie, ou a été jugé dans un État tiers et la décision remplit les conditions nécessaires pour sa reconnaissance au Québec;
+5°Le résultat de la décision étrangère est manifestement incompatible avec l’ordre public tel qu’il est entendu dans les relations internationales;
+6°La décision sanctionne des obligations découlant des lois fiscales d’un État étranger.
+3158 L’autorité québécoise se limite à vérifier si la décision dont la reconnaissance ou l’exécution est demandée remplit les conditions prévues au présent titre, sans procéder à l’examen au fond de cette décision.
+[8] Henri Kélada (Reconnaissance et exécution des jugements étrangers [Cowansville, Que: Éditions Yvon Blais, 2013], à la page 37) explique :
+La décision étrangère est considérée comme un fait
+La décision étrangère constitue un fait dont les effets ne peuvent être ignorés par nos tribunaux québécois, et ce, même en l’absence de reconnaissance par voie d’action en exemplification128. En tant qu’instrumentum, le jugement étranger peut aussi être utilisé comme moyen de preuve (art. 2822 C.c.Q.). Le juge québécois devra tenir compte du fait qu’il a été rendu129.
+128 J.-G. CASTEL, Droit international privé québécois. Toronto, Butterworths, 1980, p.846.
+129 S. GAUDET et P. FERLAND, « Les effets indépendants de la procédure de reconnaissance », dans Collection de droit 2008-2009, Contrats, sûretés, publicité des droits et droit international privé, Cowansville, Éditions Yvon Blais, 2008. Voir G.C. c. A.Ca., EYB 2011-187198 (C.S.), juge Michel Girouard.
+[9] Cela signifie que les jugements étrangers, même s’ils ne sont pas homologués par une juridiction locale dans la province, constituent un fait qui ne peut être ignoré par les juridictions de la province. Le jugement étranger peut servir d’élément de preuve, et le juge du Québec est tenu de reconnaître qu’un jugement étranger a été rendu.
+[10] Cependant, selon le droit international privé du Québec, les jugements étrangers n’ont pas force exécutoire par eux-mêmes. L’article 3155 du C.c.Q. dispose en effet que, sauf exception, tout jugement étranger est reconnu par la juridiction québécoise qui le déclare exécutoire dans l’ordre juridique québécois. Une demande d’exequatur constitue une demande en justice qui donne ouverture à un débat contradictoire. Même si l’art. 3158 du C.c.Q. interdit au juge québécois de revoir le fond de la décision étrangère, cette règle ne change pas la nature juridique de la demande d’exequatur (Kuwait Airways Corp. c Irak, 2010 CSC 40, [2010] 2 R.C.S. 571, au paragraphe 20).
+[11] Cette procédure est encore plus nécessaire dans le cas de jugements non pécuniaires étrangers. La juridiction interne appelée à exécuter ce genre de jugement devra éventuellement interpréter et appliquer les règles de droit d’un autre territoire. La reconnaissance et l’exécution de tels jugements exigeront de la juridiction interne qu’elle recherche un équilibre entre la réserve et l’intervention, ce qu’il n’a pas à faire lorsqu’il exerce seulement les mécanismes d’exécution dont il dispose pour assurer le recouvrement d’une dette. Cela signifie que la juridiction interne pourra devoir tenir compte de certains éléments afin que le jugement étranger ne porte pas atteinte à l’intégrité du système judiciaire canadien et n’entre pas en conflit avec le droit interne (Pro Swing Inc. c Elta Golf Inc., 2006 CSC 52, [2006] 2 RCS 612, aux paragraphes 13 à 18).
+[12] A l’occasion de l’affaire Chevron Corp. c Yaiguaje, 2015 CSC 42, au paragraphe 43, la Cour suprême du Canada a observé : « Le droit canadien reconnaît que l’action en reconnaissance et en exécution d’un jugement étranger a pour objet de permettre l’acquittement d’une obligation préexistante, c’est‑à‑dire d’assurer le paiement d’une dette dont le défendeur est déjà redevable ». Au paragraphe 48, la Cour suprême a ajouté : « Le tribunal d’exécution n’a aucun intérêt à statuer sur les droits initiaux des parties. Le tribunal cherche simplement à prêter son concours à l’exécution d’un jugement rendu par un autre tribunal. » Cela tient compte du principe de la courtoisie, qui repose sur des notions d’ordre et d’équité. Au paragraphe 54, la Cour suprême a ajouté : « [...] dans une demande de reconnaissance et d’exécution, la protection de l’ordre et de l’équité est déjà assurée par l’existence d’un lien réel et substantiel entre le tribunal étranger et le litige sous‑jacent. Faute d’un tel lien, ou si le défendeur ne se trouvait pas dans le ressort étranger ou n’a pas acquiescé à la compétence de ses tribunaux, le jugement rendu ne sera pas reconnu et exécuté au Canada. »
+[13] Par conséquent, la notion de courtoisie appelle la pondération. Elle nécessite l’examen attentif de la mesure ordonnée par le juge étranger. « Il s’agit alors de faire en sorte que le tribunal canadien refuse son aide s’il en résulterait une utilisation du système de justice inadmissible au Canada. » (Pro Swing, précité, paragraphe 30)
+[14] Au Canada, les demandes de rectification présentées par les parties à une transaction en vue de faire rectifier celle-ci à la suite de conséquences fiscales imprévues ne sont pas automatiquement accueillies. Fondamentalement, le juge peut intervenir pour constater la légitimité et la nécessité des modifications apportées par les parties aux actes en cause [Québec (Agence du revenu) c Services Environnementaux AES inc., 2013 CSC 65, [2013] 3 RCS 838, au paragraphe 51] (AES). Toutefois, la reconnaissance judiciaire de la validité des modifications apportées par les parties dans le cadre de la planification fiscale doit s’accompagner d’une invitation à la prudence. Au paragraphe 54 de l’arrêt AES, la Cour suprême du Canada a observé que « les contribuables ne devraient pas interpréter cette reconnaissance de la primauté de la volonté interne — ou intention commune — des parties comme une invitation à se lancer dans des planifications fiscales audacieuses, en se disant qu’il leur sera toujours possible de refaire leurs contrats rétroactivement en cas d’échec de ces planifications. L’intention d’un contribuable de réduire ses obligations fiscales ne saurait à elle seule constituer l’objet de l’obligation au sens de l’art. 1373 du C.c.Q., compte tenu de son caractère insuffisamment déterminé ou déterminable [...] ».
+[15] A l’occasion de l’affaire Canada (Attorney General) c. Groupe Jean Coutu (PJC) inc., 2015 QCCA 838 (autorisation de pourvoi à la Cour suprême du Canada accueillie le 19 novembre 2015), la Cour d’appel du Québec a analysé l’arrêt AES et a observé:
+[traduction] [28] Par conséquent, je suis d’avis que la Cour suprême, par les arrêts AES et Riopel, enseigne que les parties liées, qui choisissent d’effectuer une transaction d’entreprise légitime en vue d’éviter, de reporter ou de minimiser l’impôt, et qui commettent une erreur en effectuant cette transaction (par exemple, en faisant un mauvais calcul du prix de base rajusté, en exécutant au mauvais moment certaines étapes ou en attribuant une nouvelle catégorie d’actions), peuvent corriger cette erreur afin d’arriver aux conséquences fiscales initialement prévues et convenues.
+[29] Cependant, le juge LeBel n’a pas annulé toute la jurisprudence fiscale antérieure afin que les parties ne puissent pas refaire l’histoire et modifier leurs transactions en raison de conséquences fiscales imprévues. Ces principes sont toujours d’actualité.
+[30] Même si les autorités fiscales n’ont pas de droit acquis en droit civil, à mon avis, le juge LeBel ne sanctionne pas une autorisation générale de faire marche arrière pour annuler ou corriger des conséquences fiscales imprévues découlant d’opérations commerciales. Le juge LeBel ne fait qu’autoriser les parties à rétablir leur entente telle qu’elle aurait dû être dans une situation où l’erreur n’a pas été commise dans la transaction elle-même, mais plutôt dans la manière dont la transaction a été exprimée par écrit.
+[31] L’obligation fiscale est fondée sur ce qui s’est produit et non sur ce qu’une partie aurait plutôt fait en rétrospective.
+[...]
+[38] [...] L’intention générale des intimés voulant que leur transaction soit « neutre sur le plan fiscal » n’est pas suffisamment déterminée, selon les termes du juge LeBel, pour servir de fondement à une entente modifiée qu’un tribunal devrait reconnaître et ayant pour effet rétroactif d’annuler des conséquences fiscales imprévues. [...]
+[16] L’affaire AES relevait du droit civil du Québec et la Cour suprême du Canada n’a pas alors jugé pertinent de réexaminer le recours en rectification de common law, qui semble avoir un plus grand champ d’application en matière fiscale.
+[17] En outre, la Cour suprême a déclaré à l’occasion de l’affaire AES que « [l]es agences du revenu avaient été appelées en cause, comme elles devaient l’être, selon l’art. 5 C.p.c. et les règles fondamentales de la procédure civile », au paragraphe 51.
+[18] Compte tenu de tout ce qui précède, il se peut qu’un juge québécois exécute les jugements étrangers entre les parties visées par les jugements (c.-à-d. entre Canfornav Inc. et l’appelante et entre Canfornav Limited et l’appelante), car son rôle se limitera alors à faciliter l’exécution de l’obligation validée par les jugements étrangers sur le consentement des deux parties (par exemple, si Canfornav Inc. ou Canfornav Limited demandait à l’appelante de rembourser le montant de la dette initialement déclarée comme un dividende).
+[19] La situation est toutefois différente lorsqu’une seule des parties visées par l’ordonnance étrangère demande au tribunal d’exécuter l’ordonnance en vue d’annuler des conséquences fiscales imprévues. Comme on l’a vu précédemment, la jurisprudence canadienne en matière de rectification des transactions à des fins fiscales n’est pas uniforme, et les juges peuvent la suivre ou non, au cas par cas. Par exemple, à l’occasion de l’affaire AES, la Cour suprême du Canada a dû décider si les actes juridiques des parties ayant mené aux avis de cotisation étaient conformes à leur intention commune. Cela a soulevé une question d’interprétation. Dans l’affaire AES, la Cour suprême a approuvé une correction afin de permettre aux parties d’éviter une conséquence fiscale que leurs transactions visaient initialement à éviter. En revanche, dans l’affaire Groupe Jean Coutu, la Cour d’appel du Québec a jugé que la transaction commerciale initialement effectuée a permis de neutraliser l’effet des fluctuations du taux de change. En conséquence, la Cour a refusé de rectifier la transaction au motif que l’intention générale du contribuable que la transaction soit « neutre sur le plan fiscal » n’était pas suffisamment déterminée pour servir de fondement à une entente modifiée le juge devrait reconnaître et annulant toute conséquence fiscale imprévue de façon rétroactive.
+[20] En l’espèce, l’appelante soutient que les jugements étrangers ont été demandés parce que l’intention était, dès le début, de retirer en franchise d’impôt les profits du sous-traitant de la Barbade et du sous-traitant de Chypre afin de se conformer aux règles de transport international énoncées au paragraphe 250(6) de la LIR.
+[21] À mon avis, l’approche à suivre en l’espèce est la même que celle qui s’applique aux jugements étrangers non pécuniaires. Cela veut donc dire que, comme la Cour l’a déclaré à l’occasion de l’affaire Pro Swing, précitée, le juge interne pourrait devoir tenir compte de certains éléments afin que les jugements étrangers ne portent pas atteinte à l’intégrité du système judiciaire canadien et n’entre pas en conflit avec le droit interne. Il ne s’agit pas simplement de faciliter l’exécution d’une dette ou d’une obligation tranchée par un juge étranger. L’examen minutieux des jugements étrangers est nécessaire afin de s’assurer que le juge canadien refuse son aide s’il en résultait une utilisation du système judiciaire inadmissible au Canada.
+[22] Voilà pourquoi je conclus que les jugements étrangers doivent être homologués par une juridiction compétente dans la province de Québec pour lier l’intimée. C’est d’autant plus vrai que l’intimée n’a jamais eu la chance de présenter ses propres moyens ou de mettre à l’épreuve les intentions communes exprimées par les parties au moment des transferts de fonds (ou de s’assurer que tous les renseignements nécessaires et toutes les incidences fiscales ont bien été présentés aux juges étrangers), particulièrement étant donné que les jugements étrangers ont été rendus après que l’Agence du revenu du Canada eut envoyé un avis de proposition de nouvelle cotisation (dans le cas de la demande de la Barbade) et des avis de nouvelle cotisation (dans le cas de la demande de Chypre) concernant l’imposition du revenu de dividendes qui devait être transféré en franchise d’impôt (voir AES, précité, au paragraphe 51; Dale c. Canada, [1997] 3 CF 235, au paragraphe 50, [1997] A.C.F. no 476 (QL), au paragraphe 17; Beals c. Saldanha, 2003 CSC 72, [2003] 3 R.C.S. 416, au paragraphe 62; Aim Funds Management Inc. v. Aim Trimark Corporate Class Inc., [2009] O.J. no 2408 (QL) [Cour de justice supérieure de l’Ontario], au paragraphe 22; A c. B, 2013 QCCS 575, aux paragraphes 42 à 43 et 50).
+[23] Malheureusement, la Cour n’a pas compétence pour accorder la mesure d’« equity » que constitue la rectification. Néanmoins, il reste toujours possible à l’appelante d’invoquer les jugements étrangers lorsqu’elle produira ses éléments de preuve devant notre Cour au procès, et il appartiendra au juge qui préside de déterminer le poids à accorder à ces jugements lorsqu’il se prononcera sur le bien-fondé des cotisations portées en appel.
+[24] Par tous ces motifs, je réponds par la négative à la question soulevée par les parties dans la présente requête présentée en vertu de l’article 58 et je conclus que l’intimée n’a pas avoir l’obligation de tenir compte des jugements étrangers et qu’elle peut défendre la thèse selon laquelle l’appelante a reçu des dividendes plutôt que des montants sous forme de prêts et autres dettes durant la période en cause.
+[25] L’intimée a droit à ses dépens relativement à la présente requête.
+Signé à Ottawa, Canada, ce 12e jour de février 2016.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Traduction certifiée conforme
+Ce 14e jour d’octobre 2016
+François Brunet, réviseur
+2012-4038(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+CANADIAN FOREST NAVIGATION CO. LTD.
+appelante,
+et
+SA MAJESTÉ LA REINE
+intimée.
+EXPOSÉ CONJOINT DES FAITS
+(Demande relative à une question de droit présentée aux termes de l’article 58)
+Les parties à la présente requête présentée aux termes de l’article 58 conviennent, sauf indication contraire et aux fins de la présente requête uniquement, de la véracité des faits énoncés dans le présent exposé conjoint des faits et de l’authenticité des documents cités en l’espèce, au sens de l’article 129 des Règles de la Cour canadienne de l’impôt (procédure générale), DORS/90-688a (les Règles).
+Canadian Forest Navigation Co. Limited
+1. Canadian Forest Navigation Co. Limited (CFN) est, et était durant la « période visée »[1], une société privée sous contrôle canadien au sens du paragraphe 125(7) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) [la « Loi »], constituée le 14 avril 1976.
+2. Durant la période visée, CFN était résidente du Canada, son siège social et ses locaux se trouvaient à Montréal (Québec).
+- 2 -
+3. Avant 2000, CFN exploitait principalement des navires utilisés avant tout pour le transport international de marchandises. Ce n’était pas le cas durant la période visée.
+4. Durant la période visée, les actionnaires de CFN et leurs actions étaient les suivants :
+ACTIONNAIRES
+ACTIONS
+Classe « A »
+Actions ordinaires
+Classe « E »
+Actions privilégiées
+Knud Jensen Holdings Inc.
+45
+500 000
+J. Lorenzen Holdings Inc.
+25
+250 000
+Mihag Holding Ltd.
+25
+250 000
+3032485 Canada Inc.
+5
+----
+5. Durant la période visée, tous les actionnaires de CFN étaient des sociétés privées sous contrôle canadien résidant au Canada :
+a. L’unique actionnaire de Knud Jensen Holdings Inc. était Knud Jensen (« M. Jensen »);
+b. L’unique actionnaire de J. Lorenzen Holdings Inc. était Jurgen Lorenzen (« M. Lorenzen »);
+c. L’unique actionnaire de Mihag Holding Ltd. était Michael Hagn (« M. Hagn »);
+d. L’unique actionnaire de 3032485 Canada Inc. était René Van Den Ende (« M. Van Den Ende »).
+Sous-traitant de la Barbade
+6. Canfornav Inc. (« sous-traitant de la Barbade ») a été constituée en 2004 en vertu des lois de la Barbade et, durant la période visée, était une entreprise commerciale internationale constituée en personne morale en vertu de la International Business Companies Act (loi sur les entreprises internationales).
+7. Durant la période visée, le sous-traitant de la Barbade était une société affiliée étrangère de CFN. CFN était la seule actionnaire du sous-traitant de la Barbade.
+- 3 -
+8. Durant la période visée, les directeurs et les représentants du sous-traitant de la Barbade étaient M. Hagn, M. Jensen et M. Lorenzen, lesquels étaient tous résidents au Canada.
+9. Depuis sa constitution en société, le sous-traitant de la Barbade exploitait principalement des navires utilisés avant tout pour le transport international de marchandises.
+10. Durant la période visée, tout ou presque tout le revenu brut du sous-traitant de la Barbade provenait de l’exploitation de navires transportant des marchandises à l’échelle internationale.
+11. Le 18 août 2005, par résolution de son conseil d’administration, le sous-traitant de la Barbade a déclaré des dividendes d’un montant de 25 000 000 $ US payable à CFN[2].
+12. Le 18 août 2005 ou aux alentours de cette date, le sous-traitant de la Barbade a payé des dividendes d’un montant de 25 000 000 $ US à CFN.
+13. Le 1er janvier 2006, par résolution de son conseil d’administration, le sous-traitant de la Barbade a déclaré des dividendes d’un montant de 110 263 855 $ US payable à CFN[3].
+14. Le 1er janvier 2006 ou aux alentours de cette date, le sous-traitant de la Barbade a payé des dividendes d’un montant de 15 280 307,86 $ US à CFN, et 80 114 028,14 $ US ont été versés ou remis à CFN au moyen d’un transfert de titres négociables détenus par le sous-traitant de la Barbade.
+15. Le 13 décembre 2006, par résolution de son conseil d’administration, le sous-traitant de la Barbade a déclaré des dividendes d’un montant de 10 000 000 $ US payable à CFN[4].
+16. Le 13 décembre 2006 ou aux alentours de cette date, le sous-traitant de la Barbade a payé des dividendes d’un montant de 10 000 000 $ US à CFN.
+- 4 -
+17. Durant les années d’imposition se terminant le 31 mars 2006 et le 31 décembre 2006, CFN a reçu des montants totalisant 151 589 355 $ CAD de la part du sous-traitant de la Barbade (c.-à-d. le total de tous les montants payés, en dollars canadiens, par le sous-traitant de la Barbade à CFN, comme il est indiqué aux paragraphes 12, 14 et 16 ci-dessous).
+18. Lorsqu’elle a calculé son revenu pour l’année d’imposition se terminant le 31 mars 2006, CFN a inclus à titre de dividendes le montant de 140 021 355 dollars canadiens reçu du sous-traitant de la Barbade (c.-à-d. le total des montants payés, en dollars canadiens, par le sous-traitant de la Barbade à CFN, comme il est indiqué aux paragraphes 12 et 14 ci-dessus), et a demandé une déduction correspondante en vertu de l’alinéa 113(1)a) de la Loi.
+19. Lorsqu’elle a calculé son revenu pour l’année d’imposition se terminant le 31 décembre 2006, CFN a inclus à titre de dividendes le montant de 11 568 000 dollars canadiens reçu du sous-traitant de la Barbade (c.-à-d. le montant payé en dollars canadiens, par le sous-traitant de la Barbade à CFN, comme il est indiqué au paragraphe 16 ci-dessus), et a demandé une déduction correspondante en vertu de l’alinéa 113(1)a) de la Loi.
+Sous-traitant de Chypre
+20. Canfornav Limited (sous-traitant de Chypre) a été constituée en société à responsabilité limitée le 25 février 2000 en vertu des lois de Chypre.
+21. Durant la période visée, CFN était une société affiliée étrangère de CFN. Jusqu’au 31 janvier 2005, CFN était la seule actionnaire du sous-traitant de Chypre. Au 31 janvier 2005, CFN détenait indirectement toutes les actions du sous-traitant de Chypre par l’intermédiaire du sous-traitant de la Barbade.
+22. Durant la période visée, les administrateurs et les dirigeants du sous-traitant de Chypre étaient M. Hagn, M. Jensen et M. Lorenzen, lesquels étaient tous résidents au Canada.
+23. Durant la période visée, le sous-traitant de Chypre exploitait principalement des navires utilisés avant tout pour le transport international de marchandises.
+24. Durant la période visée, tout ou presque tout le revenu brut du sous-traitant de Chypre provenait de l’exploitation des navires transportant des marchandises à l’échelle internationale.
+- 5 -
+25. Le 5 avril 2004, par résolution de son conseil d’administration, le sous-traitant de Chypre a déclaré des dividendes d’un montant de 1 000 000 $ US payable à CFN[5].
+26. Le 5 avril 2004 ou aux alentours de cette date, le sous-traitant de Chypre a payé des dividendes d’un montant de 1 000 000 $ US à CFN.
+27. Le 15 juin 2004, par résolution de son conseil d’administration, le sous-traitant de Chypre a déclaré des dividendes d’un montant de 5 000 000 $ US payable à CFN[6].
+28. Le 15 juin 2004 ou aux alentours de cette date, le sous-traitant de Chypre a payé des dividendes d’un montant de 5 000 000 $ US à CFN.
+29. Le 10 août 2004, par résolution de son conseil d’administration, le sous-traitant de Chypre a déclaré des dividendes d’un montant de 370 000 $ US payable à CFN[7].
+30. Vers le 10 août 2004, le sous-traitant de Chypre a payé des dividendes d’un montant de 370 000 dollars américains à CFN.
+31. Le 31 janvier 2005, par résolution de son conseil d’administration, le sous-traitant de Chypre a déclaré des dividendes d’un montant de 75 500 000 $ US payable à CFN[8].
+32. Le 31 janvier 2005 ou après cette date, le sous-traitant de Chypre a payé des dividendes d’un montant de 75 500 000 $ US à CFN.
+33. Durant les années d’imposition 2004 et 2005, CFN a reçu des montants totalisant 102 326 866 $ CAD de la part du sous-traitant de Chypre (c.-à-d. le total des montants payés, en dollars canadiens, par le sous-traitant de Chypre à CFN, comme il est indiqué aux paragraphes 26, 28, 30 et 32 ci-dessus).
+- 6 -
+34. Lorsqu’elle a calculé son revenu pour l’année d’imposition se terminant le 31 mars 2005, CFN a inclus à titre de dividendes le montant de 102 326 866 $ CAD reçu du sous-traitant de Chypre et a demandé une déduction correspondante en vertu de l’alinéa 113(1)a) de la Loi.
+Ordonnances de rectification étrangères
+35. Le 22 juin 2010, le sous-traitant de la Barbade et CFN ont déposé une demande de rectification devant la Haute Cour de justice de la Cour suprême de la Barbade (la demande de la Barbade) afin que les dividendes payés par le sous-traitant de la Barbade à CFN en 2005 et en 2006 soient rétroactivement [traduction] « rectifiés et remplacés nunc pro tunc par des résolutions » donnant plutôt lieu à endettement de CFN auprès du sous-traitant de la Barbade. Le montant de la dette était égal au montant des dividendes[9].
+36. La demande de la Barbade a été entendue par la Haute Cour de justice de la Cour suprême de la Barbade le 5 août 2010.
+37. CFN n’a pas avisé l’Agence du revenu du Canada (l’Agence) de la demande de la Barbade.
+38. La Cour suprême de la Barbade a accueilli la demande par un jugement rendu le 13 août 2010, sans la participation de l’Agence[10].
+39. Le 16 septembre 2010[11], CFN a avisé l’Agence du jugement de la Barbade daté du 13 août 2010, après avoir reçu une lettre de proposition de nouvelle cotisation dans laquelle l’Agence proposait de refuser les déductions demandées par CFN en vertu de l’alinéa 113(1)a) de la Loi, comme il est indiqué aux paragraphes 18 et 19 ci-dessus[12].
+- 7 -
+40. Début 2011, le sous-traitant de Chypre et CFN ont déposé une demande de rectification devant la cour de district de Nicosie, à Chypre (la demande de Chypre), afin que les dividendes payés par le sous-traitant de Chypre à CFN en 2004 et en 2005 soient rétroactivement [traduction] « rectifiés et remplacés nunc pro tunc par des résolutions » donnant plutôt lieu à une dette de CFN auprès du sous-traitant de Chypre. Le montant de la dette était égal au montant des dividendes[13].
+41. La demande de Chypre a été entendue devant la cour de district de Nicosie, à Chypre, le 28 mars 2011.
+42. CFN n’a pas avisé l’Agence de la demande de Chypre.
+43. La cour de district de Nicosie, à Chypre, a accueilli la demande par jugement rendu le 28 mars 2011, sans la participation de l’Agence[14].
+44. Le 26 octobre 2011, CFN a avisé l’Agence du jugement de Chypre daté du 28 mars 2011, après avoir reçu de « nouvelles cotisations » (voir la définition ci-dessous) refusant les déductions demandées par CFN en vertu de l’alinéa 113(1)a) de la Loi, comme il est indiqué au paragraphe 34 ci-dessus.
+Nouvelles cotisations, oppositions et appel
+45. La vérification de la période visée a débuté au début de 2008.
+46. Par avis datés du 29 décembre 2010, le ministre du Revenu national (le ministre) a établi de nouvelles cotisations pour les années d’imposition de CFN se terminant le 31 mars 2005, le 31 mars 2006 et le 31 décembre 2006 afin de refuser les déductions demandées par CFN en vertu de l’alinéa 113(1)a) de la Loi, comme il est indiqué aux paragraphes 18, 19 et 34 ci-dessus[15].
+- 8 -
+47. Le 28 mars 2011, CFN a déposé des avis d’opposition contre les nouvelles cotisations du 29 décembre 2010 au motif que le ministre avait commis une erreur en assimilant les montants reçus des sous-traitants de la Barbade et de Chypre à des dividendes[16].
+48. Par avis datés du 29 juillet 2011, le ministre a établi de nouvelles cotisations pour les années d’imposition de CFN se terminant le 31 mars 2006 et le 31 décembre 2006 afin de faire d’autres ajustements, mais n’a pas infirmé la décision de refuser les déductions demandées par CFN en vertu de l’alinéa 113(1)a) de la Loi[17].
+49. Le 25 octobre 2011, CFN a déposé des avis d’opposition visant les nouvelles cotisations du 29 juillet 2011[18].
+50. Le 2 octobre 2012, CFN a déposé un avis d’appel de la nouvelle cotisation datée du 29 décembre 2010 pour son année d’imposition se terminant le 31 mars 2005 et des nouvelles cotisations datées du 29 juillet 2011 pour ses années d’imposition se terminant le 31 mars 2006 et le 31 décembre 2006 (les « nouvelles cotisations »). Entre autres, CFN a interjeté appel des nouvelles cotisations au motif que le ministre avait commis une erreur en assimilant les montants reçus des sous-traitants de la Barbade et de Chypre à des dividendes.
+FAIT dans la ville de Toronto, Ontario, ce 3e jour de mars 2015.
+William F. Pentney, c.r.
+Sous-procureur général du Canada
+Avocat de l’intimée
+Par : Me Henry A. Gluch / Me Rita Araujo
+Ministère de la Justice
+Avocats de l’intimée :
+- 9 -
+FAIT dans la ville de Montréal, Québec, ce 3e jour de mars 2015.
+Me Stéphane Eljarrat/Me Joel Scheuerman
+Davies Ward Phillips & Vineberg S.E.N.C.R.L., s.r.l.
+Avocats
+RBC Center
+155, rue Wellington Est, 40e étage
+Toronto (Ontario) M5V 3J7
+Tél. : 416-863-6407
+Téléc. : 416-863-0871
+Avocats de l’appelante
+RÉFÉRENCE :
+2016 CCI 43
+No DU DOSSIER DE LA COUR :
+2012-4038(IT)G
+INTITULÉ :
+CANADIAN FOREST NAVIGATION CO. LTD.
+c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 30 septembre 2015
+MOTIFS DE LA DÉTERMINATION :
+L’honorable juge en chef adjointe Lucie Lamarre
+DATE DE LA DÉTERMINATION :
+Le 12 février 2016
+COMPARUTIONS :
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Stéphane Eljarrat
+Me Joel Scheuerman
+Me Leïla Côté
+Cabinet :
+Davies Ward Phillips & Vineberg S.E.N.C.R.L., s.r.l.
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] La « période visée » est la période du 1er avril 2004 au 31 décembre 2006 comprenant les années d’imposition visées se terminant le 31 mars 2005, le 31 mars 2006 et le 31 décembre 2006.
+[2] Résolution du conseil d’administration du sous-traitant de la Barbade adoptée le 18 août 2005, onglet 1, recueil conjoint de documents.
+[3] Résolution du conseil d’administration du sous-traitant de la Barbade adoptée le 1er janvier 2006, onglet 2, recueil conjoint de documents.
+[4] Résolution du conseil d’administration du sous-traitant de la Barbade adoptée le 13 décembre 2006, onglet 3, recueil conjoint de documents.
+[5] Résolution du conseil d’administration du sous-traitant de Chypre adoptée le 5 avril 2004, onglet 4, recueil conjoint de documents.
+[6] Résolution du conseil d’administration du sous-traitant de Chypre adoptée le 15 juin 2004, onglet 5, recueil conjoint de documents.
+[7] Résolution du conseil d’administration du sous-traitant de Chypre adoptée le 10 août 2004, onglet 6, recueil conjoint de documents.
+[8] Résolution du conseil d’administration du sous-traitant de Chypre adoptée le 31 janvier 2005, onglet 7, recueil conjoint de documents.
+[9] Demande de la Barbade, onglet 8, recueil conjoint de documents.
+[10] Jugement de la Cour suprême de la Barbade daté du 13 août 2010, onglet 9, recueil conjoint de documents.
+[11] Lettre envoyée par CFN à l’ARC le 16 septembre 2010, comprenant le jugement du 14 août 2010, onglet 10, recueil conjoint de documents.
+[12] Lettre de proposition de nouvelle cotisation datée du 23 juin 2010, onglet 11, recueil conjoint de documents.
+[13] Demande de Chypre, onglet 12, recueil conjoint de documents.
+[14] Jugement de la cour de district de Nicosie, à Chypre, daté du 28 mars 2011, onglet 13, recueil conjoint de documents.
+[15] Nouvelles cotisations de la société datées du 29 décembre 2010 pour les années d’imposition se terminant le 31 mars 2005, le 31 mars 2006 et le 31 décembre 2006, onglet 14, recueil conjoint de documents.
+[16] Avis d’opposition datés du 28 mars 2011, onglet 15, recueil conjoint de documents.
+[17] Nouvelles cotisations établies à l’égard de la société datées du 29 juillet 2011 pour les années d’imposition se terminant le 31 mars 2006 et le 31 décembre 2006, onglet 16, recueil conjoint de documents.
+[18] Avis d’opposition datés du 25 octobre 2011, onglet 17, recueil conjoint de documents.

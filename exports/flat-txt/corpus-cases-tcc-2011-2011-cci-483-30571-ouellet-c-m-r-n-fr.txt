@@ -1,0 +1,599 @@
+Title: Ouellet c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30571/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-483-30571-ouellet-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2011-10-25
+
+# Ouellet c. M.R.N.
+
+- Citation: 2011 CCI 483
+- Decision date: 2011-10-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7312, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ouellet c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-25
+Référence neutre
+2011 CCI 483
+Numéro de dossier
+2009-1798(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2009-1798(EI)
+2009-1878(CPP)
+ENTRE :
+ALBERT OUELLET,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Martine Léonard (2009‑1772(EI) et 2009‑1879(CPP)), de la Succession d’Arsène Thibault (2009‑2862(EI) et 2009‑2863(CPP)), d'Yvon Savard (2009‑2327(EI) et 2009‑2328(CPP)), de Camil Perron (2009‑2496(EI) et 2009‑2497(CPP)), d'Alain Cyr (2009‑2303(EI)), de Camille Pelletier (2009‑1955(EI) et 2009‑1956(CPP)), de Donald St‑Onge (2009‑1519(EI) et 2009‑1565(CPP)) et de Gaston Lévesque (2009‑1354(EI)),
+les 15, 16 et 17 août 2011, à Edmundston (Nouveau‑Brunswick).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocates de l'intimé :
+Me Stéphanie Côté
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre du Revenu national sont confirmées selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2011.
+« Paul Bédard »
+Juge Bédard
+Dossiers : 2009-1772(EI)
+2009-1879(CPP)
+ENTRE :
+MARTINE LÉONARD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels d'Albert Ouellet (2009‑1798(EI) et 2009‑1878(CPP)), de la Succession d’Arsène Thibault (2009‑2862(EI) et 2009‑2863(CPP)), d'Yvon Savard (2009‑2327(EI) et 2009‑2328(CPP)), de Camil Perron (2009‑2496(EI) et 2009‑2497(CPP)), d'Alain Cyr (2009‑2303(EI)), de Camille Pelletier (2009‑1955(EI) et 2009‑1956(CPP)), de Donald St‑Onge (2009‑1519(EI) et 2009‑1565(CPP)) et de Gaston Lévesque (2009‑1354(EI)),
+les 15, 16 et 17 août 2011, à Edmundston (Nouveau‑Brunswick).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocates de l'intimé :
+Me Stéphanie Côté
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre du Revenu national sont confirmées selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2011.
+« Paul Bédard »
+Juge Bédard
+Dossiers : 2009-2862(EI)
+2009-2863(CPP)
+ENTRE :
+SUCCESSION D’ARSÈNE THIBAULT,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Martine Léonard (2009‑1772(EI) et 2009‑1879(CPP)), d'Albert Ouellet (2009‑1798(EI) et 2009‑1878(CPP)), d'Yvon Savard (2009‑2327(EI) et 2009‑2328(CPP)), de Camil Perron (2009‑2496(EI) et 2009‑2497(CPP)), d'Alain Cyr (2009‑2303(EI)), de Camille Pelletier (2009‑1955(EI) et 2009‑1956(CPP)), de Donald St‑Onge (2009‑1519(EI) et 2009‑1565(CPP)) et de Gaston Lévesque (2009‑1354(EI)),
+les 15, 16 et 17 août 2011, à Edmundston (Nouveau‑Brunswick).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Denys Saindon
+Avocates de l'intimé :
+Me Stéphanie Côté
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre du Revenu national sont confirmées selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2011.
+« Paul Bédard »
+Juge Bédard
+Dossiers : 2009-2327(EI)
+2009-2328(CPP)
+ENTRE :
+YVON SAVARD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Martine Léonard (2009‑1772(EI) et 2009‑1879(CPP)), de la Succession d’Arsène Thibault (2009‑2862(EI) et 2009‑2863(CPP)), d'Albert Ouellet (2009‑1798(EI) et 2009‑1878(CPP)), de Camil Perron (2009‑2496(EI) et 2009‑2497(CPP)), d'Alain Cyr (2009‑2303(EI)), de Camille Pelletier (2009‑1955(EI) et 2009‑1956(CPP)), de Donald St‑Onge (2009‑1519(EI) et 2009‑1565(CPP)) et de Gaston Lévesque (2009‑1354(EI)),
+les 15, 16 et 17 août 2011, à Edmundston (Nouveau‑Brunswick).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Denys Saindon
+Avocates de l'intimé :
+Me Stéphanie Côté
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre du Revenu national sont confirmées selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2011.
+« Paul Bédard »
+Juge Bédard
+Dossiers : 2009-2496(EI)
+2009-2497(CPP)
+ENTRE :
+CAMIL PERRON,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Martine Léonard (2009‑1772(EI) et 2009‑1879(CPP)), de la Succession d’Arsène Thibault (2009‑2862(EI) et 2009‑2863(CPP)), d'Yvon Savard (2009‑2327(EI) et 2009‑2328(CPP)), de Camil Perron (2009‑2496(EI) et 2009‑2497(CPP)), d'Alain Cyr (2009‑2303(EI)), de Camille Pelletier (2009‑1955(EI) et 2009‑1956(CPP)), de Donald St‑Onge (2009‑1519(EI) et 2009‑1565(CPP)) et de Gaston Lévesque (2009‑1354(EI)),
+les 15, 16 et 17 août 2011, à Edmundston (Nouveau‑Brunswick).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Denys Saindon
+Avocates de l'intimé :
+Me Stéphanie Côté
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre du Revenu national sont confirmées selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2011.
+« Paul Bédard »
+Juge Bédard
+Dossiers : 2009-2303(EI)
+ENTRE :
+ALAIN CYR,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Martine Léonard (2009‑1772(EI) et 2009‑1879(CPP)), de la Succession d’Arsène Thibault (2009‑2862(EI) et 2009‑2863(CPP)), d'Yvon Savard (2009‑2327(EI) et 2009‑2328(CPP)), de Camil Perron (2009‑2496(EI) et 2009‑2497(CPP)), d'Albert Ouellet (2009‑1798(EI) et 2009‑1878(CPP)), de Camille Pelletier (2009‑1955(EI) et 2009‑1956(CPP)), de Donald St‑Onge (2009‑1519(EI) et 2009‑1565(CPP)) et de Gaston Lévesque (2009‑1354(EI)), les 15, 16 et 17 août 2011,
+à Edmundston (Nouveau‑Brunswick).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocates de l'intimé :
+Me Stéphanie Côté
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision rendue par le ministre du Revenu national est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2011.
+« Paul Bédard »
+Juge Bédard
+Dossiers : 2009-1955(EI)
+2009-1956(CPP)
+ENTRE :
+CAMILLE PELLETIER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Martine Léonard (2009‑1772(EI) et 2009‑1879(CPP)), de Succession d’Arsène Thibault (2009‑2862(EI) et 2009‑2863(CPP)), de Yvon Savard (2009‑2327(EI) et 2009‑2328(CPP)), de Camil Perron (2009‑2496(EI) et 2009‑2497(CPP)), d'Alain Cyr (2009‑2303(EI)), d'Albert Ouellet (2009‑1798(EI) et 2009‑1878(CPP)), de Donald St‑Onge (2009‑1519(EI) et 2009‑1565(CPP)) et de Gaston Lévesque (2009‑1354(EI)),
+les 15, 16 et 17 août 2011, à Edmundston (Nouveau‑Brunswick).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocates de l'intimé :
+Me Stéphanie Côté
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre du Revenu national sont confirmées selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2011.
+« Paul Bédard »
+Juge Bédard
+Dossiers : 2009-1519(EI)
+2009-1565(CPP)
+ENTRE :
+DONALD ST‑ONGE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Martine Léonard (2009‑1772(EI) et 2009‑1879(CPP)), de la Succession d’Arsène Thibault (2009‑2862(EI) et 2009‑2863(CPP)), d'Yvon Savard (2009‑2327(EI) et 2009‑2328(CPP)), de Camil Perron (2009‑2496(EI) et 2009‑2497(CPP)), d'Alain Cyr (2009‑2303(EI)), de Camille Pelletier (2009‑1955(EI) et 2009‑1956(CPP)), d'Albert Ouellet (2009‑1798(EI) et 2009‑1878(CPP)) et de Gaston Lévesque (2009‑1354(EI)), les 15, 16 et 17 août 2011,
+à Edmundston (Nouveau‑Brunswick).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocates de l'intimé :
+Me Stéphanie Côté
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre du Revenu national sont confirmées selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2011.
+« Paul Bédard »
+Juge Bédard
+Dossier : 2009-1354(EI)
+ENTRE :
+GASTON LÉVESQUE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Martine Léonard (2009‑1772(EI) et 2009‑1879(CPP)), de la Succession d’Arsène Thibault (2009‑2862(EI) et 2009‑2863(CPP)), d'Yvon Savard (2009‑2327(EI) et 2009‑2328(CPP)), de Camil Perron (2009‑2496(EI) et 2009‑2497(CPP)), d'Alain Cyr (2009‑2303(EI)), de Camille Pelletier (2009‑1955(EI) et 2009‑1956(CPP)), de Donald St‑Onge (2009‑1519(EI) et 2009‑1565(CPP)) et d'Albert Ouellet (2009‑1798(EI) et 2009‑1878(CPP)), les 15, 16 et 17 août 2011,
+à Edmundston (Nouveau‑Brunswick).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Denys Saindon
+Avocates de l'intimé :
+Me Stéphanie Côté
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision rendue par le ministre du Revenu national est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2011.
+« Paul Bédard »
+Juge Bédard
+Référence : 2011 CCI 483
+Date : 20111025
+Dossiers : 2009-1798(EI)
+2009-1878(CPP)
+ENTRE :
+ALBERT OUELLET,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Dossiers : 2009-1772(EI)
+2009-1879(CPP)
+ENTRE :
+MARTINE LÉONARD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Dossiers : 2009-2862(EI)
+2009-2863(CPP)
+ENTRE :
+SUCCESSION D’ARSÈNE THIBAULT,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Dossiers : 2009-2327(EI)
+2009-2328(CPP)
+ENTRE :
+YVON SAVARD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Dossiers : 2009-2496(EI)
+2009-2497(CPP)
+ENTRE :
+CAMIL PERRON,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Dossier : 2009-2303(EI)
+ENTRE :
+ALAIN CYR,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Dossiers : 2009-1955(EI)
+2009-1956(CPP)
+ENTRE :
+CAMILLE PELLETIER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Dossiers : 2009-1519(EI)
+2009-1565(CPP)
+ENTRE :
+DONALD ST-ONGE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Dossier : 2009-1354(EI)
+ENTRE :
+GASTON LÉVESQUE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Les appelants interjettent appel d’une décision du ministre du Revenu national (le « Ministre ») concernant l’assurabilité de leur emploi auprès du même employeur, soit 601163 NB Inc. (le « payeur ») durant les périodes suivantes :
+SR (2)
+Albert Ouellet :
+23 juin 2003 au 3 octobre 2003
+SR (2)
+Martine Léonard :
+23 juin 2003 au 3 octobre 2003
+1 (2) DS
+Arsène Thibault
+23 juin 2003 au 3 octobre 2003
+(2) DS
+Yvon Savard
+14 avril 2003 au 27 décembre 2003
+(2) DS
+Camil Perron
+4 août 2003 au 19 décembre 2003
+SR (1)
+Alain Cyr
+23 juin 2003 au 26 septembre 2003
+SR (2)
+Camille Pelletier
+2 juin 2003 au 26 septembre 2003
+SR (2)
+Donald St-Onge
+7 juillet 2003 au 10 octobre 2003
+(1) DS
+Gaston Lévesque
+23 juin 2003 au 3 octobre 2003
+[2] Par ailleurs, M. Albert Ouellet, la Succession d’Arsène Thibault, Mme Martine Léonard, M. Yvon Savard, M. Camil Perron, M. Camille Pelletier et M. Donald St‑Onge interjettent appel d’une décision du Ministre à l’effet qu’ils n’occupaient pas un emploi ouvrant droit à pension au sens du Régime de pensions du Canada (le « Régime ») auprès du payeur durant les périodes mentionnées au paragraphe précédent à leur égard.
+[3] Tous les appels ont été entendus sur preuve commune. Selon la décision du Ministre, aucun des appelants n’occupait un emploi assurable auprès du payeur au cours des périodes pertinentes au motif qu’ils n’occupaient pas un emploi en vertu d’un contrat de louage de services. Subsidiairement, selon la décision, leur emploi n’était pas assurable, car il existait entre eux un lien de dépendance au sens de l’alinéa 5(2)i) de la Loi sur l'assurance-emploi (« Loi ») et, plus précisément, un lien de dépendance factuel au sens de l’alinéa 251(1)c) de la Loi de l’impôt sur le revenu. Selon l’autre décision du Ministre, aucun des appelants concernés n’a travaillé pour le payeur, et donc, ils n’occupaient pas un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime, au cours des périodes pertinentes étant donné qu’il n’existait pas de contrat de louage de services entre les sept appelants concernés et le payeur.
+[4] En prenant sa décision concernant l’assurabilité de l’emploi des neuf appelants, le Ministre s’est basé sur les mêmes hypothèses de faits (à l’exception du fait que le relevé d’emploi de chacun des appelants indiquait des heures travaillées et une rémunération différentes), hypothèses de faits qui se trouvent aux paragraphes six et huit de la Réponse à l’avis d’appel de chacun des dossiers concernés et qui se lisent comme suit :
+6.
+En prenant sa décision, l’intimé s’est basé sur les hypothèses de faits suivantes :
+a)
+la payeuse a été constituée en société le 10 janvier 2003 en vertu des lois du Nouveau‑Brunswick;
+b)
+le seul actionnaire et administrateur de la payeuse était Camille Ouellet;
+c)
+l’activité déclarée de la payeuse était l’exploitation d’une entreprise forestière (« l’entreprise »);
+d)
+au cours de l’année 2003, la payeuse a perçu des revenus provenant de la coupe de bois;
+e)
+du 3 février 2003 au 24 février 2003, aucun travailleur n’était inscrit au registre de paie, mais la payeuse avait des ventes de bois totalisant 52 101 $ pendant cette période;
+f)
+du 11 avril 2003 au 30 mai 2003, seulement un travailleur était inscrit au registre de paie, mais la payeuse avait des ventes de bois totalisant 170 087 $ pendant cette période;
+g)
+la payeuse ne tenait aucun registre de ses revenus et dépenses;
+h)
+la payeuse ne détenait aucun permis pour exploiter son entreprise;
+i)
+la payeuse n’a signé aucun contrat de droit de coupe;
+j)
+la payeuse n’a jamais produit de déclaration de revenus;
+k)
+la payeuse n’a jamais remis de retenues à la source au ministre du Revenu national (le « Ministre »);
+l)
+la payeuse n’a jamais été enregistrée auprès de Travail Sécuritaire Nouveau‑Brunswick;
+m)
+la payeuse fait partie d’un groupe de sociétés qui furent l’objet d’une enquête majeure menée par la Commission de l’assurance‑emploi;
+n)
+l’enquête majeure a révélé que ces sociétés, dont la payeuse, étaient impliquées dans des stratagèmes avec des individus comme l’appelant, visant à leur émettre de faux relevés d’emploi dans le but de les qualifier à des prestations d’assurance‑emploi auxquelles ils n’auraient pas eu droit;
+o)
+pendant la période en litige, l’appelant n’était pas supervisé;
+p)
+pendant la période en litige, la payeuse n’exerçait aucun contrôle sur l’appelant;
+q)
+pendant la période en litige, l’appelant n’a rendu aucun service à la payeuse; et
+r)
+l’appelant n’a reçu aucune rémunération de la payeuse.
+8.
+En ce qui concerne le lien de dépendance de fait, l’intimé a tenu pour acquis les faits suivants :
+a)
+tous les faits mentionnés au paragraphe 6 de la présente;
+b)
+l’appelant a reçu un relevé d’emploi de la payeuse portant le numéro de série A76214192, qui indiquait 850 heures travaillées et une rémunération payée de 13 260 $;
+c)
+le relevé d’emploi portant le numéro de série A76214192 est faux; et
+d)
+l’appelant et la payeuse ont convenu un faux scénario afin de permettre à l’appelant de se qualifier à des prestations d’assurance emploi auxquelles il n’aurait pas eu droit.
+[5] En prenant sa décision selon laquelle les appelants concernés n’occupaient pas un emploi ouvrant droit à pension au sens du Régime, le Ministre s’est basé sur les mêmes hypothèses de faits, hypothèses de faits qui se trouvent au paragraphe six de la Réponse à l’avis d’appel de chacun des dossiers concernés et qui se lisent comme suit :
+6.
+En prenant sa décision, l’intimé s’est basé sur les hypothèses de faits suivantes :
+a)
+la payeuse a été constituée en société le 10 janvier 2003 en vertu des lois du Nouveau‑Brunswick;
+b)
+le seul actionnaire et administrateur de la payeuse était Camille Ouellet;
+c)
+l’activité déclarée de la payeuse était l’exploitation d’une entreprise forestière (« l’entreprise »);
+d)
+au cours de l’année 2003, la payeuse a perçu des revenus provenant de la coupe de bois;
+e)
+du 3 février 2003 au 24 février 2003, aucun travailleur n’était inscrit au registre de paie, mais la payeuse avait des ventes de bois totalisant 52 101 $ pendant cette période;
+f)
+du 11 avril 2003 au 30 mai 2003, seulement un travailleur était inscrit au registre de paie, mais la payeuse avait des ventes de bois totalisant 170 087 $ pendant cette période;
+g)
+la payeuse ne tenait aucun registre de ses revenus et dépenses;
+h)
+la payeuse ne détenait aucun permis pour exploiter son entreprise;
+i)
+la payeuse n’a signé aucun contrat de droit de coupe;
+j)
+la payeuse n’a jamais produit de déclaration de revenus;
+k)
+la payeuse n’a jamais remis de retenues à la source au ministre du Revenu national (le « Ministre »);
+l)
+la payeuse n’a jamais été enregistrée auprès de Travail Sécuritaire Nouveau‑Brunswick;
+m)
+la payeuse fait partie d’un groupe de sociétés qui furent l’objet d’une enquête majeure menée par la Commission de l’assurance‑emploi;
+n)
+l’enquête majeure a révélé que ces sociétés, dont la payeuse, étaient impliquées dans des stratagèmes avec des individus comme l’appelant, visant à leur émettre de faux relevés d’emploi dans le but de les qualifier à des prestations d’assurance‑emploi auxquelles ils n’auraient pas eu droit;
+o)
+pendant la période en litige, l’appelant n’était pas supervisé;
+p)
+pendant la période en litige, la payeuse n’exerçait aucun contrôle sur l’appelant;
+q)
+pendant la période en litige, l’appelant n’a rendu aucun service à la payeuse; et
+r)
+l’appelant n’a reçu aucune rémunération de la payeuse.
+[6] Madame Carole Thibault (la fille de feu Arsène Thibault) et Mme Sylvie Malenfant (la veuve de feu Arsène Thibault) ont témoigné à l’appui de celui‑ci. Par ailleurs, tous les témoins ont témoigné à l’appui de leur position. Monsieur Charles Édouard Albert (un enquêteur aux fraudes majeures de l’Agence du revenu du Canada (« ARC »)), Mme Annette Melançon (un agent de décisions à l’ARC), M. Ronald Roy (un enquêteur à la retraite pour Services Canada) et Mme Louise Boudreault (l’agente des appels dans les présents dossiers) ont témoigné à l’appui de la position de l’intimé.
+[7] Dans les présents dossiers, il s’agit essentiellement de déterminer si les appelants ont travaillé pour le payeur pendant les périodes pertinentes et, si oui, s’ils ont agit ensemble et sans intérêt distinct.
+[8] Le témoignage de M. Savard pourrait se résumer ainsi :
+i) il avait été embauché par Camille Ouellet;
+ii) il avait travaillé durant les périodes pertinentes (voir la pièce I‑27) pour le payeur en sa qualité d’opérateur d’une débusqueuse appartenant à ce dernier. Je note immédiatement que le livre de paie du payeur (pièce I‑27) indique que M. Savard avait travaillé 250 heures en avril et mai 2003 alors que des certificats médicaux (pièces I‑1, I‑2, I‑3, I‑4 et I‑5) indiquent que ce dernier n’était pas apte à travailler pour la période allant du 12 décembre 2002 au 2 juin 2003. Je note aussi qu’à la question de la demande de prestations de chômage présentée le 6 juin 2003 à Développement des ressources humaines Canada (pièce I‑6), M. Savard n’avait pas indiqué qu’il avait travaillé 250 heures pour le payeur en avril et mai 2003. M. Savard a plutôt répondu « Fin des congés de maladie »;
+iii) il avait été rémunéré sur une base horaire au taux de 15 $ à raison de 50 heures par semaine (10 heures par jour, du lundi au vendredi). Je note qu’il m’apparaît invraisemblable que M. Savard ait pu travailler 10 heures par jour en novembre et décembre 2003, compte tenu du nombre limité d’heures de clarté d’une journée durant cette période;
+iv) sa paie lui avait été versée le jeudi ou le vendredi de chaque semaine. Il avait reçu sa paie dans le bureau des mains de M. Claude St‑Onge ou de M. Camille Ouellet sous forme de chèque qu’il endossait sur place. M. St‑Onge ou M. Ouellet lui remettait alors de l’argent. M. Savard a précisé qu’il ne connaissait pas la raison pour laquelle sa paie lui avait été ainsi versée. Je note que Mme Léonard a témoigné que le payeur n’avait émis aucun chèque avant le 23 juin 2003. En effet, Mme Léonard a témoigné qu’elle avait elle‑même rempli, après le 23 juin 2003, tous les chèques tirés à l’ordre des appelants concernés qui portaient une date antérieure au 23 juin 2003. Le témoignage de Mme Léonard à cet égard m’apparaît crédible étant donné que la preuve a révélé par ailleurs que les chèques utilisés par le payeur en 2003 lui avaient été livrés le 6 juin 2003;
+v) il avait reçu toutes ses directives à l’égard de son travail (« quoi », « où » et « quand ») de M. Claude St‑Onge. Monsieur Savard a ajouté que ses heures de travail avaient été comptabilisées par M. St‑Onge. Je souligne que la preuve a révélé (voir la pièce I‑27) que M. St‑Onge n’était pas à l’emploi du payeur pendant toute la période où M. Savard aurait travaillé en 2003;
+vi) il n’avait aucun lien de parenté avec l’actionnaire unique du payeur;
+vii) son confrère de travail en novembre et décembre 2003 avait été M. Camil Perron. Je note que M. Camil Perron a déclaré le 3 juin 2008 en présence de Mme Annette Melançon et de Mme Violet Arsenault (pièce I‑9) qu’il avait travaillé sur le même chantier que M. Savard en septembre 2003. Pourtant, le livre de paie du payeur (pièce I‑27) indique que M. Savard n’avait pas travaillé en septembre 2003. En fait, ce livre de paie indique qu’à l’automne 2003, M. Savard n’avait travaillé pour le payeur qu’en novembre et décembre 2003.
+[9] Je souligne qu’il m’est très difficile d’accorder quelque valeur probante au témoignage de M. Savard étant donné que son témoignage, par ailleurs généralement vague et imprécis, a été contredit à plusieurs reprises par la preuve documentaire et par d’autres témoignages. De plus, tel que souligné ci‑dessous, le témoignage de M. Savard m’a paru tout simplement invraisemblable à certains égards.
+[10] Le témoignage de M. Gaston Lévesque pourrait se résumer ainsi :
+i) il avait été embauché par M. Claude St‑Onge;
+ii) il avait travaillé durant sa période d’emploi en sa qualité d’opérateur d’une débusqueuse appartenant au payeur et ce, sur des terres à bois avoisinantes des villes de Kedgwick et de Campbellton, situées au Nouveau‑Brunswick. Je note que, le 6 février 2008, M. Lévesque avait déclaré à M. Charles Albert qu’il avait travaillé en 2003 pour le payeur dans la région de la Matapédia, située au Québec;
+iii) il avait été rémunéré sur une base horaire au taux de 15 $ à raison de 50 heures par semaine (à raison de 10 heures par jour du lundi au vendredi);
+iv) sa paie lui avait été versée le jeudi ou le vendredi de chaque semaine. Il avait reçu sa paie dans la forêt des mains de M. Claude St‑Onge sous forme de chèques dont le premier était sans provision. Par la suite, il avait aussi reçu sa paie sous forme de chèques qu’il endossait sur place. M. St‑Onge lui remettait alors l’argent. Je note que les chèques tirés par le payeur à l’ordre de M. Lévesque déposés en preuve sous la cote I‑7 n’indiquent aucunement que le premier chèque avait été déposé à la banque de M. Lévesque et qu’il était sans provision;
+v) pendant sa période d’emploi il avait résidé gratuitement au siège social du payeur situé à Kedgwick. À cet égard, je souligne immédiatement que M. Donald St‑Onge (le cousin de M. Claude St‑Onge) a témoigné que M. Lévesque résidait plutôt durant cette période dans une maison de chambres appartenant à Lionel Couturier;
+vi) il se rendait seul au travail dans sa camionnette. À l’occasion, M. Donald St‑Onge avait voyagé avec lui. Je souligne immédiatement que M. Claude St‑Onge a témoigné qu’il avait régulièrement voyagé avec M. Lévesque. Je souligne aussi que M. Lévesque a déclaré le 26 février 2009 à Mme Louise Boudreault (l’agente des appels), lors d’une conversation téléphonique en présence de l’avocate de M. Lévesque, qu’il se rendait au travail seul. Je note aussi à cet égard que M. Alain Cyr a aussi déclaré à Mme Boudreault qu’il avait voyagé avec M. Lévesque dans le cadre de son travail;
+vii) qu’il n’avait pas de confrères de travail mais qu’il avait vu à l’occasion M. Arsène Thibault sur des chantiers où il avait travaillé. Je note que M. Lévesque a déclaré le 28 février 2009 à Mme Boudreault qu’il voyageait seul et qu’il travaillait seul sur les chantiers. Je note aussi que MM. Pelletier, Camil Perron, Alain Cyr et Claude St‑Onge ont tous témoigné ou déclaré préalablement avoir travaillé sur les mêmes chantiers que M. Lévesque (voir les pièces I‑9, I‑22, I‑20, I‑18 et A‑6);
+viii) il n’avait aucun lien de parenté avec l’actionnaire unique du payeur;
+ix) il avait reçu toutes ses directives à l’égard de son travail (« quoi », « où » et « quand ») de M. Claude St‑Onge;
+[11] Je souligne qu’il m’est difficile d’accorder quelque valeur probante au témoignage de M. Savard étant donné que son témoignage, par ailleurs généralement vague et imprécis, a été contredit (tel que souligné ci‑dessus) à plusieurs reprises par la preuve documentaire ou par d’autres déclarations ou témoignages.
+[12] Le témoignage de M. Albert Ouellet (le frère de l’actionnaire unique du payeur) pourrait se résumer ainsi :
+i) il avait été embauché par Claude St‑Onge;
+ii) il avait été embauché durant les périodes pertinentes (du 23 juin au 3 octobre 2003) par le payeur pour acheter pour ce dernier des terres à bois. Pourtant, M. Ouellet avait déclaré le 16 octobre 2003, le 3 juin 2008, le 12 décembre 2007 et le 6 octobre 2007 (voir les pièces I‑10, I‑11, I‑12 et I‑13) qu’il avait été embauché par le payeur en qualité de bûcheron;
+iii) il avait été rémunéré sur une base horaire au taux de 15 $ à raison de 50 heures par semaine (à raison de 10 heures par jour, du lundi au vendredi);
+iv) sa paie lui avait été remise chaque semaine. Les premiers chèques de paie tirés par le payeur à l’ordre M. Ouellet étaient sans provision. Par la suite, il avait reçu sa paie sous forme de chèques qu’il endossait immédiatement. On lui remettait alors l’argent. Je note que les chèques tirés par le payeur à l’ordre du M. Ouellet (voir pièce I‑14) n’indiquent aucunement que les premiers chèques avaient été déposés à une banque et qu’ils étaient sans provision. Je souligne que la pièce A‑11, déposée en preuve par M. Ouellet pour démontrer que le payeur avait tiré à son ordre un chèque sans provision, ne démontre nullement que les chèques sans provision en question avaient été tirés par le payeur. Enfin, je souligne à cet égard que M. Ouellet avait déclaré antérieurement qu’il avait encaissé les chèques lui‑même (voir la pièce I‑13), qu’il déposait les chèques à la Caisse populaire de Kedgwick (voir la pièce I‑10, question 7) et que le payeur n'encaissait pas le chèque pour lui et ne le payait pas en argent comptant par après (voir la pièce I‑10, question 8);
+v) tous les matins, il se rendait au siège social du payeur pour recevoir ses directives de M. Claude St‑Onge. Je note que Mme Légaré (qui a témoigné qu’elle avait alors travaillé en permanence au siège social du payeur) avait déclaré à Mme Boudreault qu’elle n’avait jamais vu M. Ouellet travailler au bureau.
+vi) il avait reçu toutes ses directives à l’égard de son travail (« où », « quand » et « quoi ») de M. Claude St‑Onge. Pourtant, il avait déclaré antérieurement (voir la pièce I‑10, question 12) que c’était son frère qui gérait l’exploitation quotidienne et qui prenait les décisions.
+[13] Je souligne que j’ai accordé peu de valeur probante au témoignage de M. Ouellet. En effet, ce n’est sûrement pas en faisant des déclarations vagues, ambiguës, non vérifiables, et contredites par ses déclarations antérieures, par la preuve documentaire et par d’autres témoignages que M. Ouellet pouvait espérer me convaincre qu’il avait réellement travaillé pour le payeur pendant les périodes pertinentes. M. Ouellet a omis de faire comparaître comme témoins les personnes qu’il avait contactées pour acheter leurs terres à bois alors qu’il était en mesure de le faire. Cette omission m'amène à conclure que la preuve des témoins en question lui aurait été défavorable. Les explications de M. Ouellet à l’égard de ces déclarations contradictoires ne m’ont pas convaincu que le payeur l’avait forcé à faire de fausses déclarations. En fait, M. Ouellet se sentait alors menacé. Étant donné que le témoignage de M. Ouellet était plus que vague et imprécis à cet égard, je ne l’ai pas retenu. En effet, M. Ouellet n’a pas identifié l'auteur de ces menaces. Il n’a pas donné de précisions sur la nature de ces prétendues menaces.
+[14] Le témoignage de M. Donald St‑Onge, (le cousin de Claude St‑Onge) pourrait se résumer ainsi :
+i) il avait été embauché par M. Claude St‑Onge;
+ii) pendant la période pertinente (en l’espèce du 7 juillet au 10 octobre 2003), il avait opéré une débusqueuse qui appartenait au payeur et il avait abattu des arbres avec sa scie mécanique. M. Donald St‑Onge a ajouté qu’il avait aussi fait du bois de chauffage. M. Donald St‑Onge avait répondu le 4 juin 2008 (voir la pièce I‑20) à la question : Quelles étaient vos tâches?, « J’était bûcheron à scie mécanique. » Je note aussi que M. Charles Édouard Albert a témoigné qu’aucun appelant ne lui avait mentionné qu’il avait fait du bois de chauffage;
+iii) il avait été rémunéré sur une base horaire au taux de 15 $ à raison de 50 heures par semaine (10 heures par jour, du lundi au vendredi);
+iv) sa paie lui avait été versée chaque semaine sous forme de chèque qu’il encaissait à la Caisse populaire de Kedgwick. Le témoignage de M. Donald St‑Onge à cet égard est conforme à ses déclarations antérieures (voir les pièces I‑19 et I‑20). Je note que M. Donald St‑Onge avait déclaré le 4 juin 2008 (voir la pièce I‑20) que sa paie lui avait été remise par « Claude St‑Onge, au bureau à Kedgwick, à tous les vendredis. » Pourtant M. Donald St‑Onge avait déclaré le 13 décembre 2007 (voir la pièce I‑19, question 18) à cet égard que sa paie lui était remise dans les bois tous les vendredis par M. Claude St‑Onge. Enfin, je souligne que les chèques tirés par le payeur à l’ordre de M. Donald St‑Onge (voir la pièce I‑21) n’indiquent aucunement qu’ils avaient été encaissés à la Caisse populaire de Kedgwick. Je note toutefois que tous les chèques avaient été endossés par M. Donald St‑Onge;
+v) il avait reçu toutes ses directives à l’égard de son travail (« quoi », « où » et « quand ») de M. Claude St‑Onge, directives qui lui avaient été relayées par l’intermédiaire de M. Lévesque lorsqu’il avait travaillé avec ce dernier;
+vi) ses confrères de travail étaient M. Lévesque et M. Pelletier. En contre‑interrogatoire, M. Donald St‑Onge a déclaré qu’il avait vu M. Arsène Thibault réparer la machine du payeur dans les bois. Pourtant, le 13 décembre 2007, M. Donald St‑Onge avait déclaré (voir la pièce I‑19, question 9) que ses confrères de travail avaient été : « Ti‑boy Lévesque (chauffeur de bulldozer), Gaston Lévesque (débusqueuse et mécanique) et Richard (Bebé) Kedgwick (chargeuse) ». Je souligne que Ti‑Boy Lévesque et Richard (Bebé) Kedgwick n’étaient pas à l’emploi du payeur en 2003;
+vii) M. Donald St‑Onge n’avait aucun lien de parenté avec l’actionnaire unique du payeur;
+viii) son relevé d’emploi pour l’année 2003 lui avait été remis au siège social du payeur par Mme Légaré. Pourtant, M. St‑Onge déclarait le 13 décembre 2007 (voir la pièce I‑19, question 21) qu’il avait été chercher son relevé d’emploi à la résidence de M. Claude St‑Onge.
+[15] Je souligne que j’ai accordé peu de valeur probante au témoignage de M. Donald St‑Onge. En effet, ce n’est sûrement pas en faisant des déclarations vagues, ambiguës, non vérifiables, contradictoires et contredites par la preuve documentaire et par d’autres témoignages que M. Donald St‑Onge pouvait espérer me convaincre qu’il avait réellement travaillé pour le payeur pendant les périodes pertinentes. M. Donald St‑Onge aurait pu produire comme témoins notamment M. Claude St‑Onge et les propriétaires des terres où il avait œuvré pendant les périodes pertinentes alors qu’il était en mesure de le faire. Cette omission m'amène à conclure que la preuve des témoins en question lui aurait été défavorable.
+[16] Le témoignage de Camil Perron pourrait se résumer ainsi :
+i) il avait été embauché par Camille Ouellet;
+ii) il avait été embauché par le payeur en sa qualité de bûcheron;
+iii) il avait été rémunéré sur une base horaire au taux de 15 $ à raison de 50 heures par semaine (10 heures par jour, du lundi au vendredi). Je note que M. Perron avait déclaré le 3 juin 2008 (voir la pièce I‑9) qu’à l’automne, nonobstant qu’il n’avait pas travaillé 10 heures par jour (compte tenu des heures de clarté pendant cette période), il avait été rémunéré à raison de 10 heures par jour.
+iv) sa paie lui avait été versée le vendredi de chaque semaine. Il avait reçu sa paie dans le bois des mains de M. Claude St‑Onge sous forme de chèques qu’il endossait sur place. M. St‑Onge lui remettait alors l’argent. Je souligne que M. Perron avait déclaré le 13 décembre 2007 (pièce I‑8, question 18) qu’il recevait sa paie le vendredi de chaque semaine des mains de M. Claude St‑Onge et de M. Camille Ouellet, et ce, dans le bois;
+v) il n’avait aucun lien de parenté avec l’actionnaire unique du payeur;
+vi) il avait reçu toutes ses directives à l’égard de son travail (« quoi », « où » et « quand ») de M. Claude St‑Onge. Je note que M. Perron avait déclaré le 3 juin 2008 (pièce I‑9) que son travail avait été supervisé « de temps en temps » par Camille Ouellet et que ce dernier avait aussi contrôlé ses tâches et dicté son horaire de travail;
+vii) il avait coupé en moyenne un « fourgon » de bois par jour. Pourtant, il avait déclaré le 3 juin 2008 (pièce I‑9) qu’il avait coupé en moyenne deux « fourgons » de bois par jour;
+viii) pour la période d'août 2003 à octobre 2003, son confrère de travail avait été Gaston Lévesque alors que, pour les mois de novembre et décembre de cette même année, son confrère de travail avait été Yvon Savard. Pourtant, il avait déclaré le 3 juin 2008 que M. Yvon Savard avait ramassé le bois qu’il avait coupé au mois de septembre alors que le livre de paie démontre clairement que ce dernier n’avait pas travaillé en septembre 2003;
+ix) il avait payé les dépenses liées à la location de sa scie mécanique. Je souligne qu’il a déposé des pièces justificatives à l’appui de sa déclaration à cet égard;
+x) il avait reçu son relevé d’emploi par la poste. Pourtant, il avait déclaré le 13 décembre 2007 (pièce I‑8) que Mme Martine Léonard lui avait remis son relevé d’emploi au siège social du payeur.
+[17] Je souligne que j’ai accordé peu de valeur probante au témoignage de M. Perron. En effet, ce n’est sûrement pas en faisant des déclarations vagues, ambiguës, non vérifiables, contradictoires et contredites qu’il pouvait me convaincre qu’il avait réellement travaillé pour le payeur pendant les périodes pertinentes. M. Perron a expliqué que ces déclarations contradictoires étaient dues à son analphabétisme. Je souligne que M. Perron n’avait pas déclaré le 3 juin 2008 à Mme Melançon et à Mme Violet Arsenault qu’il était analphabète, pas plus le 13 décembre 2007 aux enquêteurs. Je souligne aussi qu’avant de signer les deux déclarations (pièces I‑8 et I‑9), les enquêteurs avaient lu les réponses que M. Perron avait données, réponses qui avaient été cosignées par un des enquêteurs. M. Perron avait été en mesure de lire son nom dactylographié sur la pièce A‑10 qu’il a déposée en preuve. Enfin, M. Perron aurait pu citer comme témoins les propriétaires des terres où il avait œuvré pendant les périodes pertinentes. Ces derniers auraient pu confirmer qu’ils avaient octroyé des droits de coupe au payeur en 2003. Il aurait aussi pu citer comme témoins M. Claude St‑Onge et M. Camille Ouellet. Il ne l’a pas fait. Cette omission m'amène à conclure que la preuve des témoins en question lui aurait été défavorable.
+[18] Le témoignage de M. Camille Pelletier pourrait se résumer ainsi :
+i) il avait été embauché par M. Camille Ouellet;
+ii) il avait été embauché par le payeur en sa qualité d’opérateur d’un bélier mécanique appartenant au payeur, et ce, pour construire des routes sur les terres à bois. À cet égard, je souligne que M. Charles Édouard Albert a témoigné que M. Pelletier avait refusé de répondre à ses questions lors de la rencontre du 13 décembre 2007 en prétextant qu’il n’avait pas travaillé pour Camille Ouellet en 2003. Par ailleurs, je note à cet égard qu’un peu plus tard, M. Pelletier avait signé une déclaration solennelle en présence de Mme Claire Bossé (pièce I‑18) qui se lit comme suit :
+…
+que j’ai travaillé comme suivant :
+Pour 22/4/02 — 26/7/02 — c’est possible que j’ai travaillé pour Alain Maltais, je dis pas non.
+Pour l’année 2003
+En travail 28 avril au 9 mai/03 — Clôtures St‑Pierre d’après moi j’aurais continué avec Jacques St‑Pierre toute suite après le 9 mai/03. Je n’ai pas arrêté avant le mois de décembre/03. Pour la période 2 juin 2003 au 26 sept. 2003, Jacques m’a envoyé travailler dans le bois avec le bull de Jacques St‑Pierre, j’ai toujours reçu ma paye de Jacques St‑Pierre, jamais reçu de paie de Camil Ouellette en 2003. Si j’en ai eu, c’aurait été en 2002.
+iii) il avait vu dans le cadre de son travail M. Donald St‑Onge et M. Gaston Lévesque travailler. Pourtant, il avait déclaré le 24 octobre 2008 qu’il n’était pas en mesure d’identifier ses collègues de travail;
+iv) il avait été rémunéré au taux horaire de 15 $ à raison de 50 heures par semaine;
+v) sa paie lui avait été versée chaque semaine sous forme de chèques qu’il endossait immédiatement. Une fois le chèque endossé, on lui remettait l’argent;
+vi) il recevait toutes ses directives à l’égard de son travail (« où », « quand » et « quoi ») de M. Claude St‑Onge.
+[19] Je souligne que j’ai accordé peu de valeur probante au témoignage de M. Pelletier étant donné ses déclarations pour le moins contradictoires.
+[20] Le témoignage de Mme Sylvie Malenfant (la veuve d’Arsène Thibault) pourrait se résumer ainsi :
+i) M. Arsène Thibault est décédé en 2009;
+ii) les réponses apparaissant sur le questionnaire ont été écrites par elle mais dictées par M. Arsène Thibault (peu de temps avant son décès) compte tenu qu’il était alors gravement malade.
+[21] Je souligne qu’à la question 8 du questionnaire déposé en preuve sous la cote A‑6, M. Thibault avait indiqué que M. Albert Ouellet avait travaillé en même temps que lui en sa qualité de bûcheron. Je rappelle que M. Albert Ouellet a témoigné qu’il n’avait jamais rendu de services au payeur à titre de bûcheron. Je note aussi que M. Arsène Thibault avait aussi déclaré à plusieurs reprises que, le 12 décembre 2007 (voir la pièce I‑22, questions 5 et 6), M. Albert Ouellet avait été un des bûcherons du payeur et qu’ils avaient travaillé en même temps pour le payeur.
+[22] Je note que M. Arsène Thibault avait déclaré (voir la question 19 de la pièce I‑22 et la question 22b) de la pièce A‑6) que, pour les premières semaines de son emploi, il avait reçu sa paie sous forme de chèque qui s’était avéré sans provision. Pourtant, les 14 chèques tirés par le payeur à l’ordre de M. Thibault, déposés en preuve sous la cote I‑23, n’indiquent nullement qu’ils avaient été déposés à la banque et qu’ils étaient sans provision. Ces chèques avaient été par ailleurs endossés par M. Thibault. Je note enfin que le premier chèque tiré par le payeur le 4 juillet 2003 à l’ordre de M. Thibault avait non seulement été endossé par ce dernier mais aussi qu’il avait été initialement signé par M. Thibault pour le payeur.
+[23] Je note aussi que M. Thibault avait déclaré avoir travaillé à l’occasion le samedi (voir la question 17a) de la pièce A‑6). Pourtant, le livre de paie du payeur (pièce A‑27) indique que M. Thibault n’avait pas travaillé le samedi pour le payeur pendant les périodes pertinentes.
+[24] Par ailleurs, Mme Malenfant a déposé en preuve, sous la cote A‑7, un relevé bancaire de M. Thibault qui démontrerait selon elle que son conjoint avait réellement travaillé pendant la période pertinente puisque pendant ces périodes des sommes importantes avaient été créditées à son compte.
+[25] Mme Carole Thibault (la fille de feu Arsène Thibault) a essentiellement témoigné que :
+i) pendant les périodes pertinentes, elle avait résidé avec son père et qu’elle avait connaissance que son père avait travaillé pendant cette période environ 10 heures par jour pour M. Claude St‑Onge. Elle a toutefois déclaré qu’elle ignorait la nature des services alors rendus par son père à M. St‑Onge;
+ii) elle avait toutefois vu à une occasion son père travailler au garage de M. St‑Onge.
+[26] La preuve de l’appelant ne m’a pas convaincu que M. Thibault avait réellement travaillé pour le payeur pendant les périodes pertinentes. Les contradictions relevées ci‑haut sont trop importantes.
+[27] Le témoignage de Mme Martine Léonard pourrait se résumer ainsi :
+i) elle avait été embauchée par MM. Claude St‑Onge et Camille Ouellet;
+ii) elle avait été embauchée principalement en sa qualité de secrétaire. À ce titre, elle avait préparé les chèques tirés par le payeur et les relevés d’emploi des travailleurs. Elle avait aussi marchandé des terres pour le payeur. De plus, le payeur lui avait confié la responsabilité de faire l’entretien ménager de son siège social. Elle avait aussi tenu le livre de paie du payeur. Enfin, elle a témoigné qu’elle avait peint les locaux du payeur. Je souligne à cet égard que, le 11 décembre 2007, elle avait déclaré (voir la pièce I‑15, question 6) en réponse à la question : « Quel genre de travail faisiez‑vous? Soyez précise. », « Tenue de livre, dépôts bancaires à Kedgwick, allait chercher chèques à Bathurst, Parent à St‑Quentin ». Je note aussi que, le 5 juin 2008 (voir la pièce I‑8), elle avait déclaré que ses tâches avaient été les suivantes : « De faire les paies, enregistrer les personnes (sur les TDI) du contremaître, Claude St‑Onge. J’ai préparé l’argent comptant dans les enveloppes pour les paies des employés. D’aller chercher les chèques aux moulins. J’ai gardé les factures et les classer. J’ai peinturé. Je téléphonais les moulins pour vérifier le prix du bois … » Je note aussi que Mme Boudreault a témoigné que Mme Léonard ne lui avait aucunement mentionné (lors de la conversation téléphonique du 5 septembre 2008) en réponse à sa question sur la nature de ses tâches, qu’elle avait fait de l’entretien ménager, de la peinture, marchandé des terres et fait de la tenue de livres;
+ii) tous les chèques tirés par le payeur à l’ordre de ses salariés portant une date antérieure au début de son emploi (en l’espèce le 23 juin 2003) et les relevés d’emploi des salariés du payeur portant une date antérieure au 23 juin 2003 avaient été préparés par elle, donc tirés rétroactivement. Je souligne que ce fait n’avait jamais été mentionné à Mme Boudreault lors de l’entrevue téléphonique du 5 septembre 2008;
+iii) les inscriptions dans le registre de paie du payeur pour la période antérieure au 23 juin 2003 avaient été faites par elle pendant la période de son emploi. Je souligne que Mme Léonard n’a jamais mentionné ce fait à Mme Boudreault lorsqu'elle fut questionnée à ce sujet lors de l’entrevue téléphonique du 5 septembre 2008;
+iv) à la demande de M. Claude St‑Onge, elle avait continué à travailler gratuitement pour le payeur après sa mise à pied. Je souligne que ce n'est pas ce que Mme Léonard a déclaré à Mme Boudreault lors de l’entrevue téléphonique du 5 septembre 2008. Elle avait plutôt mentionné à Mme Boudreault que c’était Camille Ouellet qui lui avait fait cette demande;
+v) elle avait fait estampiller à la Caisse populaire de Kedgwick les chèques tirés par le payeur à l’ordre de ses salariés en 2003 qui avaient été endossés par le payeur. Mme Léonard a expliqué que ces chèques étaient conservés par le payeur à titre de preuve de paiement de la rémunération de ses salariés. Je souligne que rien ne prouve que les chèques (tirés par le payeur en 2003 à l’ordre de ses salariés), déposés en preuve, ont été estampillés par la Caisse populaire de Kedgwick. De toute façon, j’aurais bien aimé que Mme Léonard me donne une seule raison pour faire estampiller les chèques par la Caisse;
+vi) elle avait été chercher de l’argent à la Caisse populaire de Kedgwick. Je souligne que la preuve a révélé que les seules personnes autorisées à retirer de l’argent du compte bancaire du payeur étaient, en 2003, MM. Camille Ouellet et Alain Maltais. Il aurait été fort intéressant d’entendre le témoignage à cet égard des employés de la Caisse populaire de Kedgwick;
+vii) son premier chèque de paie s’était avéré être sans provision. Pourtant, rien ne prouve que le premier chèque de paie de Mme Léonard déposé en preuve sous la cote I‑26 était sans provision;
+viii) elle avait été chercher, notamment aux bureaux du Syndicat forestier, des chèques tirés par ce dernier à l’ordre du payeur en paiement du bois vendu par le payeur. Je note que Mme Boudreault a témoigné à cet égard qu’elle avait vérifié la véracité de la déclaration de Mme Léonard à cet égard auprès de Syndicat forestier et que M. Jim Couture (le responsable des comptes à payer pour Syndicat forestier) lui avait déclaré ne pas connaître Mme Léonard. Encore une fois, il aurait été fort utile si Mme Léonard avait fait comparaître les témoins pertinents pour corroborer ses déclarations à cet égard et établir ainsi sa crédibilité;
+ix) elle avait travaillé seule dans les bureaux du payeur. Par ailleurs, Mme Léonard a témoigné que Mme Sylvette St‑Onge avait à l’occasion travaillé aux bureaux du payeur. Je souligne que, le 5 septembre 2008, Mme Léonard a omis de déclarer ce fait à Mme Boudreault lors de l'entrevue téléphonique. Je souligne que M. Albert Ouellet a aussi déclaré à Mme Boudreault qu’il avait travaillé 80% de son temps dans les bureaux du payeur.
+[28] Je souligne qu’il m’est très difficile d’accorder quelque valeur probante au témoignage de Mme Léonard. Ce n’est sûrement pas en faisant des déclarations vagues, ambiguës, non vérifiables, contradictoires et contredites par la preuve documentaire et par d’autres témoignages crédibles qu’elle pouvait espérer me convaincre qu’elle avait réellement travaillé pour le payeur pendant les périodes pertinentes.
+[29] Le témoignage de M. Alain Cyr pourrait se résumer ainsi :
+i) M. Claude St‑Onge l’avait embauché;
+ii) il avait travaillé pendant les périodes pertinentes en sa qualité d’opérateur d'un bélier mécanique appartenant au payeur. M. St‑Onge lui avait demandé d'aménager des chemins forestiers sur plusieurs terres à bois. Je souligne que le témoignage de M. Cyr à l’égard des chantiers où il aurait travaillé et du nombre de jours où il aurait travaillé sur chacun des chantiers fut, pour le moins, vague, imprécis et non vérifiable. M. Cyr aurait pu faire comparaître comme témoin M. St‑Onge ou encore les propriétaires de ces chantiers. Il ne l’a pas fait. J’en infère que ces témoignages lui auraient été défavorables;
+iii) M. Arsenault avait réparé le bélier mécanique qu’il avait opéré, et ce, sur des chantiers sur lesquels il avait travaillé. Il avait aussi vu M. Lévesque à l’œuvre sur un des chantiers sur lesquels il avait travaillé;
+iv) il avait été rémunéré sur une base horaire au taux de 15 $ à raison de 50 heures par semaine;
+v) sa paie lui avait été versée chaque semaine. Il avait reçu sa paie sous forme de chèques qu’il endossait immédiatement. On lui remettait alors l’argent.
+[30] Je retiens par ailleurs du témoignage de M. Charles Édouard Albert qu’il était présent lors de la rencontre à laquelle Mme Andrea Boulay (une prétendue salariée du payeur en 2003) a admis que Claude St‑Onge lui avait donné un relevé d’emploi bien qu’elle n’ait pas travaillé pour le payeur et au cours de laquelle elle avait signé une déclaration à cet effet (pièce I‑25). M. Albert a aussi témoigné que M. Guy Coté (un autre prétendu salarié du payeur) lui avait déclaré ne pas avoir rendu de services au payeur et avoir versé une somme d’argent pour obtenir un faux relevé d’emploi dans le but de demander des prestations d’assurance‑emploi.
+Analyse et conclusion
+[31] Les appelants avaient le fardeau de me démontrer qu’ils avaient réellement travaillé pour le payeur pendant les périodes pertinentes. L’essentiel de la preuve soumise par les appelants reposait essentiellement sur leurs témoignages. Tel que mentionné ci‑dessus, les appelants (à l’exception de M. Cyr) ne pouvaient espérer me convaincre qu’ils avaient réellement travaillé pour le payeur en faisant des déclarations généralement vagues, imprécises, non vérifiables, contradictoires et contredites à plusieurs reprises par la preuve documentaire et par d’autres témoignages crédibles.
+[32] J’ajouterais que les appelants ont omis de citer certaines personnes comme témoins (à titre d’exemple, M. Claude St‑Onge, M. Camil Ouellet, les propriétaires des terres à bois sur lesquelles ils auraient œuvré ou encore les camionneurs indépendants qui auraient transporté le bois aux usines) alors qu’ils étaient en mesure de le faire. Cette omission m'amène à conclure que la preuve des témoins en question leur aurait été défavorable.
+[33] Enfin les éléments suivants me laissent aussi croire que les appelants n’avaient pas travaillé pour le payeur pendant les périodes pertinentes :
+i) d’abord, il m’apparaît invraisemblable que presque tous les salariés aient reçu en 2003 la même rémunération, peu importe la nature de leurs tâches et leurs années d’expérience;
+ii) il m’apparaît tout aussi invraisemblable que le taux d’absentéisme des salariés du payeur fut de zéro en 2003;
+iii) je m’explique très difficilement comment les salariés du payeur avaient pu travailler 10 heures par jour en novembre et en décembre 2003 compte tenu des heures de clarté pendant cette période de l’année;
+iv) tous les appelants ont témoigné que M. Claude St‑Onge les avait supervisés. Qui donc supervisait les appelants en dehors de la période du 23 juin au 3 octobre 2003? Je souligne que le registre de paie du payeur (pièce I‑27) démontre que la période d’emploi de M. Claude St‑Onge avait été du 23 juin au 3 octobre 2003;
+v) M. Savard (un opérateur de débusqueuse) fut mis à pied par le payeur le 31 mai 2003 en raison d'une pénurie de travail. Pourtant, peu de temps après la mise à pied de M. Savard, le payeur retint les services de plusieurs autres opérateurs de débusqueuse (voir les pièces I‑27 et I‑28);
+vi) M. Savard aurait commencé à travailler pour le payeur le 13 avril 2003 en sa qualité d’opérateur d’une débusqueuse. Il m’apparaît invraisemblable que M. Savard ait ramassé du bois pendant la période du 19 avril au 31 mai 2003 puisqu’aucun bûcheron n’avait été à l’emploi du payeur avant et pendant cette période.
+vii) Du 3 février au 23 février 2003, aucun travailleur n’était inscrit au registre de paie, mais le payeur avait des ventes totalisant 52 101 $ pendant cette période. Du 11 avril au 30 mai 2003, seulement un travailleur était inscrit au registre de paie du payeur, pourtant le payeur avait des ventes de bois totalisant 170 087 $ pendant cette période.
+ix) le payeur a mis fin à l’emploi de Mme Martine Léonard pour motif de pénurie de travail alors que 14 salariés auraient été, selon le registre de paie du payeur, encore à l’emploi de ce dernier. Qui donc a accompli, après la mise à pied de Mme Léonard, les nombreuses tâches prétendument confiées à cette dernière?
+x) la suite numérique des chèques tirés par le payeur à l’ordre des salariés, et les inscriptions dans le registre (même écriture avec le même stylo) me laissent croire que le registre de paie avait été fait rétroactivement et d’un seul coup, et ce, pour camoufler le stratagème mis en place par le payeur;
+xi) la preuve a révélé que dans les faits le travail des appelants avait été rémunéré en argent comptant. Mme Martine Léonard a expliqué que le payeur avait tiré des chèques à l’ordre de ses salariés (chèques que ces derniers endossaient immédiatement) uniquement dans le but d’avoir une preuve de paiement de la rémunération versée aux salariés. À mon avis, cette méthode très complexe de paiement de la paie me laisse croire qu’elle avait plutôt pour but de camoufler le stratagème mis en place par le payeur. Un simple reçu du salarié à l’effet qu’il avait reçu sa rémunération aurait été une preuve suffisante de paiement.
+[34] Me Saindon a expliqué ainsi les déclarations contradictoires de ses clients : ses clients n’avaient pu relire leurs déclarations écrites (dont les réponses avaient été consignées par écrit par les représentants de l’ARC ou de Service Canada) puisque ses clients étaient, à toutes fins pratiques, analphabètes. Ses clients avaient été aussi perturbés par le fait qu'ils avaient été convoqués et interrogés dans les locaux de la Gendarmerie Royale du Canada (« GRC ») au point où ils n'étaient pas vraiment lucides lorsqu’ils avaient répondu aux questions des représentants de l’ARC ou de Service Canada. À cet égard, je note que seul M. Camil Perron a témoigné qu’il était analphabète. Je souligne que ce dernier ne m’a pas convaincu de son état, compte tenu qu’il avait été en mesure d’identifier son nom (dactylographié) sur la pièce déposée en preuve sous la cote A‑10. De plus, M. Charles‑Albert Édouard, Mme Anette Melançon, Mme Nathalie Bujold et M. Ronald Roy, dont la crédibilité et la bonne foi ne font aucun doute, ont témoigné très longuement sur le déroulement de leurs entrevues avec les appelants. À cet égard, ils m’ont convaincu que les réponses écrites apparaissant sur les questionnaires déposés en preuve reflétaient les réponses verbales données par les appelants concernés lors des entrevues, d’autant plus que les appelants avaient la possibilité de corriger leurs réponses verbales lorsque les questions et les réponses étaient lues à voix haute par les représentants de l’ARC ou de Service Canada avant que les appelants ne signent leurs déclarations. De plus, le témoignage de M. Albert, de Mme Melançon, de Mme Bujold et de M. Ronald Roy m’a convaincu qu’ils n’avaient d’aucune manière intimidé les appelants ou tenté de les intimider en les convoquant dans les locaux de la GRC à St‑Quentin et à Campbellton. Ils ont expliqué à cet égard que les appelants avaient été convoqués dans les locaux de la GRC uniquement parce que l’ARC n’avait pas de locaux dans ces villes et qu’ils n’avaient pu trouver d’autres locaux appropriés et disponibles dans ces mêmes villes. Je ne vois pas comment le simple fait d’être interviewés dans ces locaux peut perturber un appelant au point de devenir non lucide, d’autant plus qu’aucun agent de la GRC n’était présent lors des entrevues. J’ajouterai que les appelants représentés par Me Saindon m’ont paru être des personnes qui ne se laissent pas facilement intimider.
+[35] Pour tous ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 25e jour d'octobre 2011.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2011 CCI 483
+Nos DES DOSSIERS DE LA COUR : 2009-1798(EI), 2009‑1978(CPP),
+2009-1772(EI), 2009‑1879(CPP),
+2009-2862(EI), 2009‑2863(CPP),
+2009-2327(EI), 2009‑2328(CPP),
+2009-2496(EI), 2009‑2497(CPP),
+2009-2303(EI)
+2009-955(EI), 2009‑1956(CPP),
+2009-1519(EI), 2009‑1565(CPP),
+2009-1354(EI)
+INTITULÉS DES CAUSES : ALBERT OUELLET c. M.R.N.
+MARTINE LÉONARD c. M.R.N.
+SUCCESSION D'ARSÈNE THIBAULT c. M.R.N.
+YVON SAVARD c. M.R.N.
+CAMIL PERRON c. M.R.N.
+ALAIN CYR c. M.R.N.
+CAMILLE PELLETIER c. M.R.N.
+DONALD ST-ONGE c. M.R.N.
+GASTON LÉVESQUE c. M.R.N.
+LIEU DE L’AUDIENCE : Edmundston (Nouveau‑Brunswick)
+DATE DE L’AUDIENCE : le 15 août 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 25 octobre 2011
+COMPARUTIONS :
+Pour les dossiers 2009‑1798(EI) et 2009‑1878(CPP), 2009‑1772(EI) et 2009‑1879), 2009‑2303(EI), 2009‑1955(EI) et 2009‑1956(CPP) et 2009‑1519(EI) et 2009‑1565(CPP) :
+les appelants eux-mêmes
+Pour les dossiers 2009‑2862(EI) et 2009‑2863(CPP), 2009‑2327(EI) et 2009‑2329(CPP), 2009‑2596(EI) et 2009‑2497(CPP) et 2009‑1354(EI)
+Me Denys Saindon
+Avocates de l'intimé :
+Me Stéphanie Côté
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour les dossiers 2009‑2862(EI) et 2009‑2863(CPP), 2009‑2327(EI) et 2009‑2329(CPP), 2009‑2596(EI) et 2009‑2497(CPP) et 2009‑1354(EI):
+Nom : Me Denys Saindon
+Cabinet : Me Denys Saindon, Avocat
+Beauport (Québec)
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

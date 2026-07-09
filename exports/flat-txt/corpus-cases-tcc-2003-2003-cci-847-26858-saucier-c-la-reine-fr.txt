@@ -1,0 +1,173 @@
+Title: Saucier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26858/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-847-26858-saucier-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-12-12
+
+# Saucier c. La Reine
+
+- Citation: 2003 CCI 847
+- Decision date: 2003-12-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 665, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saucier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-12
+Référence neutre
+2003 CCI 847
+Numéro de dossier
+2000-2235(GST)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2000-2235(GST)I
+ENTRE :
+VITAL SAUCIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 27 juin 2003 à Rivière-du-Loup (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me Gilles Moreau
+Avocat de l'intimée :
+Me Robert Poupart
+____________________________________________________________________
+JUGEMENT
+L'appel d'une cotisation, établie en vertu de la partie IX de la Loi sur la taxe d'accise, concernant la taxe sur les produits et services pour la période du 1er janvier 1994 au 31 décembre 1996, cotisation dont l'avis est en date du 13 novembre 1998 et porte le numéro 0253024, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Edmundston, Canada, ce 12e jour de décembre 2003.
+« François Angers »
+Juge Angers
+Référence : 2003CCI847
+Date : 20031212
+Dossier : 2000-2235(GST)I
+ENTRE :
+VITAL SAUCIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L'appelant interjette appel d'une cotisation établie à son égard et à l'égard d'un dénommé Robin Saucier en vertu des dispositions de l'article 296 de la Loi sur la taxe d'accise ( « Loi » ). Robin Saucier et l'appelant étaient des associés exploitant une entreprise sous la raison sociale Le Maître de l'Aubaine enr. La cotisation vise la période du 1er janvier 1994 au 31 décembre 1996.
+[2] L'appelant est coiffeur de profession et exerce son métier depuis 35 ans. En janvier 1992, il s'est associé avec son neveu, Robin Saucier, dans le but d'aider ce dernier à établir un commerce de vente d'appareils ménagers d'occasion. L'appelant n'a pas travaillé avec son neveu dans ce commerce, mais a fait une mise de fonds de 3 000 $ pour démarrer le tout. Même si Robin Saucier était celui qui s'occupait du commerce, l'appelant a cosigné les chèques du commerce jusqu'au 1er janvier 1995.
+[3] À la fin de 1994, Robin Saucier aurait demandé à l'appelant de l'aider en consacrant plus de temps au commerce. Ne pouvant se le permettre, c'est à ce moment que l'appelant a demandé le remboursement de sa mise de fonds et a vendu sa participation dans le commerce à son neveu pour la somme de 1 $. Un billet à demande en faveur de l'appelant a été signé le 1er janvier 1995 par Robin Saucier, lequel billet a d'ailleurs été payé en entier le 23 décembre 1999.
+[4] Sur les conseils de son comptable, l'appelant voulait une entente écrite attestant la dissolution de l'association de son neveu et lui et sa libération, après la vente, de toutes obligations découlant de l'association. Robin Saucier a trouvé élevés les coûts liés à la préparation d'une telle entente; si bien que ce n'est que le 24 octobre 1995 qu'une entente de dissolution a été signée devant notaire. L'entente spécifie toutefois que l'association est réputée avoir été dissoute à la date du 1er janvier 1995.
+[5] Pour mieux se situer dans le contexte des événements, les parties au litige ont convenu que les faits établis dans une correspondance échangée entre leurs avocats étaient admis. Je reproduis donc ces faits (pièce I-3) :
+Aspects civils
+1.- Le 17 janvier 1992, se sont associés l'appelant et Robin Saucier dans une société au sens du Code civil du Bas-Canada, tel qu'il appert d'une déclaration de raison sociale signée le 17 janvier 1992 et déposée au greffe du protonotaire de la Cour Supérieure, du district de Kamouraska, le 23 janvier 1992 sous le numéro 250-15-000038-926 (Document 7 de l'intimée);
+2.- Cette société porte le nom de « Le maître de l'Aubaine enr. » (Document 7 de l'intimée);
+3.- En vertu des règles transitoires, les anciennes sociétés, tant civiles que commerciales, deviennent des sociétés en nom collectif dès l'entrée en vigueur de la Loi nouvelle, le 1er janvier 1994, dans la mesure où elles sont déclarées (ou immatriculées) avant le 1er janvier 1995. À défaut, elles deviennent des sociétés en participation;
+4.- La société « Le Maître de l'Aubaine enr. » est immatriculée le 15 septembre 1994. La forme juridique de la société est une société en nom collectif;
+5.- Le 24 octobre 1995, messieurs Vital Saucier et Robin Saucier signent un acte notarié (Document 7 de l'intimée) dans lequel il est mentionné :
+« 1. La société ci-dessus mentionnée qui existait entre les parties est réputée avoir été dissoute à toutes fins que de droit rétroactivement à la date du premier jour de janvier mil neuf cent quatre-vingt-quinze; »
+6.- Monsieur Vital Saucier croyait que le notaire instrumentant à l'acte du 24 octobre 1995 ferait les démarches appropriées, à savoir enregistrer une déclaration de dissolution ou autre document semblable auprès de l'Inspecteur général des Institutions Financières;
+7.- Aucun tel enregistrement n'a été effectué auprès de l'Inspecteur général des Institutions Financières;
+Aspects fiscaux
+8.- Le ou vers le 16 juin 1999, l'intimée recevait un avis d'opposition (Document 1 de l'intimée) concernant l'avis de cotisation portant le numéro 0253024 (Document 2 de l'intimée);
+9.- Le 1er mai 2000, l'intimée rendait la décision suivante sur l'avis d'opposition (Document 3 de l'intimée), d'où l'appel devant cette Cour :
+« La cotisation a été établie conformément aux dispositions de la loi notamment, mais sans restreindre la généralité de ce qui précède, en ce que la cotisation émise à l'égard de messieurs Robin Saucier et Vital Saucier, de la société de personnes « Le maître de l'Aubaine Enr. » l'a été conformément aux dispositions de l'article 296 de la Loi sur la taxe d'accise; ces derniers étant responsables solidairement en vertu des règles du Code civil au Québec. »
+10.- L'avis de cotisation en litige (Document 2 de l'intimée) a été émis au nom de :
+« Messieurs Robin et Vital Saucier
+Le maître de l'Aubaine enr.
+590, rue Lafontaine
+Rivière-du-Loup (Québec) G5R 3C6 »
+11.- L'avis de cotisation en matière de taxe de vente du Québec auquel il est fait référence dans le dossier 250-02-001364-005 de la Cour du Québec a été émis au nom de :
+« Saucier Robin & Vital » ;
+12.- Le 27 février 1992, l'appelant signait et produisait à l'intimé [sic] le formulaire d'inscription de la société « Le maître de l'Aubaine enr. » au fichier de la Taxe de vente du Québec (Document 4 de l'intimée);
+13.- Le 16 avril 1992, l'appelant signait et produisait au ministère du Revenu du Québec une déclaration de renseignements relative aux retenues à la source (Document 5 de l'intimée);
+14.- Le 30 décembre 1992, l'appelant signait et produisait au ministère du Revenu du Québec un formulaire relatif au choix de la période de déclaration de la taxe de vente du Québec (Document 6 de l'intimée);
+15.- Le 24 octobre 1995, l'appelant signait devant le notaire Me Michel Ouellet un document qui réputait dissoute la société « Le maître de l'Aubaine enr. » et ce, au 1er janvier 1995 (Document 7 de l'intimée);
+16.- Le 13 décembre 1996, une représentante de monsieur Robin Saucier signait et produisait à l'intimée une demande d'annulation de l'inscription de la société « Le maître de l'Aubaine enr. » (Document 8 de l'intimée);
+17.- Cette demande d'annulation de l'inscription entre en vigueur le 31 décembre.
+[6] Par ailleurs, le témoignage donné par madame Georgette Dicks, représentante du ministère du Revenu du Québec ( « M.R.Q. » ), devant la Cour du Québec le 16 mai 2001 a été déposé et fait partie de la preuve en l'espèce. Madame Dicks avait témoigné devant l'honorable juge Guy Ringuet, de la Cour du Québec, qui était saisi d'une requête en appel présentée par l'appelant relativement à une décision sur opposition du M.R.Q. en date du 1er mai 2000.
+[7] Madame Dicks a expliqué les calculs de rajustement faits lors de la vérification pour la période en litige et a déposé en preuve un tableau à cette fin. De plus, elle a déposé des formulaires de déclaration, appelés aussi des rapports de remise, que le mandataire doit faire parvenir à tous les trimestres au M.R.Q. Ceux qui ont été déposés en preuve sont pour les années 1995 et 1996. Ils sont signés par madame Carolle Saucier, l'épouse de l'appelant, qui s'occupait de faire les remises.
+[8] Madame Dicks a témoigné que les formulaires de déclaration sont envoyés au mandataire déjà imprimés. En l'espèce, les mandataires indiqués sont « Saucier Robin & Vital » . C'est ainsi, selon madame Dicks, qu'ils ont été inscrits dans le système informatique et elle a déclaré que c'est là le nom légal que le M.R.Q. utilise. Elle a ajouté que tant qu'un changement de mandataire n'est pas fait le formulaire de déclaration n'est pas modifié.
+[9] L'intimée a déposé trois formulaires signés par l'appelant produits en 1992 afin de faire inscrire l'entreprise au M.R.Q. aux fins de la taxe de vente du Québec ( « T.V.Q. » ) et de la taxe sur les produits et services ( « T.P.S. » ). Le Formulaire d'inscription Entreprise ou organisme de services Taxe de vente du Québec (TVQ) (pièce I-2, onglet 4) fait une distinction entre un particulier, une société et une corporation. Dans le cas d'une société, le formulaire demande d'inscrire le nom et l'adresse du lieu d'affaires de la société de même que le nom, l'adresse et le numéro d'assurance social de chacun des associés.
+[10] En l'espèce, était inscrit comme nom de la société « LE MAITRE DE L'AUBAINE ENR. » et les deux associés nommés étaient messieurs Vital et Robin Saucier. Le nom de la société a toutefois été rayé par la suite et remplacé par « Saucier Robin & Vital » . Sur le formulaire se trouve également une case « Raison sociale de l'entreprise ou organisme » où l'on a écrit « LE MAITRE DE L'AUBAINE ENR » .
+[11] Le formulaire « Déclaration de renseignements » (onglet 5) est au nom de la société et indique les deux associés. Quant au formulaire « Choix relatif à la période de déclaration TVQ » (onglet 6), on y trouve dans la case 1, « Identification » , le nom de l'appelant ainsi que « Le Maître de l'Aubaine enr. » .
+[12] Ces trois formulaires ont été signés par l'appelant à intervalles de quelques mois. C'est à partir de ces formulaires que le système informatisé du M.R.Q. a établi des formulaires de déclaration imprimés au nom de Saucier, Robin et Vital, et ce, jusqu'en janvier 1997.
+[13] La question en litige est donc de savoir si l'appelant est responsable de la dette fiscale de la société pour la période du 1er janvier 1994 au 31 décembre 1996. L'appelant, dans les faits, demande que sa responsabilité soit limitée à la période se terminant le 31 décembre 1994, soit la dernière période avant la dissolution de la société.
+[14] L'appelant a déposé en preuve, sans opposition de la part de l'avocat de l'intimée, la décision de l'honorable juge Ringuet de la Cour du Québec. Cette décision a servi à l'avocat de l'appelant d'argument appuyant ce qu'il avançait au soutien de la cause de l'appelant. La Cour canadienne de l'impôt n'est liée par cette décision ni en droit ni en vertu de la doctrine de la chose jugée. À mon avis, elle ne peut servir que de référence pour soutenir les assertions de l'avocat de l'appelant, et c'est d'ailleurs là l'utilisation que l'avocat en a faite, en l'espèce.
+[15] Ce qui me semble important dans toute cette affaire et ce qu'il ne faut pas perdre de vue c'est le fait qu'une société en nom collectif ne possède pas de personnalité juridique. Les tribunaux du Québec ont réglé cette question sous le régime de l'ancien Code civil du Québec ( « C.c.Q. » ) et ont maintenu leur position dans le contexte du nouveau Code: voir Lévesque c. MFQ-Vie, [1996] R.J.Q. 1701 et Le sous-ministre du Revenu du Québec c. Donald Paul, C.S. no 200-36-000415-976.
+[16] Cette même jurisprudence conclut qu'une société en nom collectif étant dépourvue de personnalité juridique, il lui est impossible d'être propriétaire de biens et d'être assujettie à des d'obligations. De plus, elle n'est que la mandataire de ses associés. Nonobstant cela, en vertu de l'article 2225 du C.c.Q., il est permis à la société d'ester en justice sous le nom qu'elle déclare et elle peut être poursuivie sous ce nom. Sans faire une analyse exhaustive des conséquences d'une telle possibilité, qu'il suffise de mentionner qu'un jugement obtenu contre une telle société est un jugement contre chaque associé personnellement, et cela, en vertu des règles découlant des exigences de publicité désormais applicables aux sociétés en nom collectif. De plus, l'honorable juge Pierre Chevalier de la Cour du Québec, dans l'affaire Québec (Sous-ministre du Revenu) c. Lacasse Lebel, [2000] R.D.F.Q. 113, est arrivé à une conclusion semblable lorsqu'il a dit :
+Les principes à l'effet que la société en nom collectif n'est pas une personne morale (et qu'elle n'a pas de personnalité juridique) de même que le fait qu'elle n'a donc aucun patrimoine propre ne font que renforcer le principe que le jugement rendu l'est contre tous et chacun des associés et que tous leurs biens, qu'ils soient collectifs ou purement personnels, sont le gage d'exécution en faveur des tiers. Tout ce que stipule l'énoncé suivant de l'art. 2221 du C.c.Q.
+« Les créanciers ne peuvent poursuivre le paiement contre un associé qu'après avoir, au préalable, discuté les biens de la société; ..... »
+est qu'un associé pourra exiger que l'on discute d'abord des biens collectifs avant de saisir ses biens purement personnels.
+[17] Le paragraphe 272.1(5) de la Loi, entre autres, reflète cet état du droit. D'ailleurs, toute la sous-section b.1) de la section VII, qui est entrée en vigueur le 24 avril 1996, est venue préciser la situation des sociétés de personnes et des coentreprises. Les obligations d'une société sont donc celles des associés et ne peuvent être attribuées à la raison sociale ou à l'appellation commerciale qu'utilisaient ces derniers.
+[18] Nonobstant cela, la Loi prévoit qu'une société en nom collectif est une personne au sens de la Loi et devient donc un inscrit aux fins de son l'application de celle-ci. Cela, à mon avis, ne dégage pas l'associé de son obligation envers le ministère concerné, et ce, en raison des principes énoncées ci-dessus. De plus, en l'espèce, la cotisation a été établie aux noms des associés de Le Maître de l'Aubaine enr.
+[19] Les paragraphes 299(2), 299(4) et 299(5) de la Loi semblent traduire un souci de se prémunir contre les conséquences d'erreurs possibles dans une cotisation en la rendant valide et exécutoire, notamment dans un cas comme celui qui se présente en l'espèce, où la cotisation vise à la fois les associés et la société, désignée par sa raison sociale.
+[20] Cela étant dit, je reviens à la question en litige. Il est évident, selon la preuve, qu'en ce qui concerne les deux associés, la société en nom collectif a été dissoute le 1er janvier 1995, comme il appert du document de dissolution signé par eux le 24 octobre 1995; cela est d'ailleurs conforme aux exigences de l'article 2230 du C.c.Q., qui est ainsi rédigé :
+2230. La société, outre les causes de dissolution prévues par le contrat, est dissoute par l'accomplissement de son objet ou l'impossibilité de l'accomplir, ou, encore, du consentement de tous les associés. Elle peut aussi être dissoute par le tribunal, pour une cause légitime.
+On procède alors à la liquidation de la société.
+[21] Robin Saucier, agissant à titre individuel, a maintenu les opérations commerciales, et a continué à utiliser en guise d'appellation commerciale la raison sociale enregistrée pour la société.
+[22] Le M.R.Q. n'a jamais été mis au courant de cet état de choses. En fait, ce n'est que le 13 décembre 1996 qu'une représentante de Robin Saucier a adressé à l'intimée une demande d'annulation de l'inscription de la société. De plus, aucune déclaration de dissolution de la société en question n'a été enregistrée auprès de l'Inspecteur général des institutions financières. Un tel enregistrement constitue un avis au public qu'une société a été dissoute.
+[23] L'article 272.1 de la Loi est entré en vigueur le 24 avril 1996. Selon le ministère des Finances, cet article a été ajouté afin de clarifier les règles applicables à une société lorsqu'un associé vient s'ajouter au nombre des associés, qu'il y a départ d'un associé ou que la société cesse d'exister. L'article 272.1 ne vise qu'une partie de la période en litige, puisqu'il n'était pas en vigueur au moment de la dissolution le 1er janvier 1995. Ses dispositions pertinentes se lisent comme suit :
+272.1(5) Responsabilité solidaire
+Une société de personnes et chacun de ses associés ou anciens associés (chacun étant appelé « associé » au présent paragraphe), à l'exception d'un associé qui en est un commanditaire et non un commandité, sont solidairement responsables de ce qui suit :
+a) le paiement ou le versement des montants devenus à payer ou à verser par la société en vertu de la présente partie avant ou pendant la période au cours de laquelle l'associé en est un associé ou, si l'associé était un associé de la société au moment de la dissolution de celle-ci, après cette dissolution; toutefois :
+(i) l'associé n'est tenu au paiement ou au versement des montants devenus à payer ou à verser avant la période que jusqu'à concurrence des biens et de l'argent qui sont considérés comme étant ceux de la société selon les lois pertinentes d'application générale concernant les sociétés de personnes qui sont en vigueur dans une province,
+(ii) le paiement ou le versement par la société ou par un de ses associés d'un montant au titre de l'obligation réduit d'autant l'obligation;
+b) les autres obligations de la société aux termes de la présente partie survenues avant ou pendant la période visée à l'alinéa a) ou, si l'associé est un associé de la société au moment de la dissolution de celle-ci, les obligations qui découlent de cette dissolution.
+(6) La société de personnes qui, sans le présent paragraphe, serait considérée comme ayant cessé d'exister est réputée, pour l'application de la présente partie, ne pas cesser d'exister tant que son inscription n'est pas annulée.
+[24] Les articles pertinents de la Loi sur la taxe d'accise qui étaient en vigueur avant le 24 avril 1996 sont les articles 145(1) et 2), que je reproduis ci-dessous :
+145. (1) Pour l'application de la présente partie, l'activité qu'un associé d'une société de personnes exerce à ce titre est réputée être une activité de la société et non de l'associé.
+(2) Par dérogation au paragraphe (1), dans le cas où une personne morale - associée d'une société de personnes - acquiert ou importe à un moment où elle est inscrite aux termes de la sous-section d de la section V un bien ou un service pour consommation, utilisation ou fourniture dans le cadre d'une activité de la société de personnes, sauf si le bien ou service est acquis ou importé par la société, les présomptions suivantes s'appliquent aux fins de calcul du crédit de taxe sur les intrants relatif à cette acquisition ou importation :
+a) la personne morale est réputée exercer cette activité;
+b) la société de personnes est réputée ne pas avoir acquis ou importé le bien ou le service à ce moment.
+[25] Devant cet état de choses, il est nécessaire de se pencher, à mon avis, sur les conditions établies en droit civil en ce qui concerne la situation des tiers advenant la dissolution d'une société par rapport aux tiers.
+[26] L'article 2234 du C.c.Q. dit clairement que la dissolution d'une société ne porte pas atteinte aux droits des tiers de bonne foi qui contractent subséquemment avec un associé. De plus, l'article 2196 du C.c.Q. prévoit que les associés sont responsables envers les tiers si une déclaration modificative n'est pas faite à la suite d'un changement intervenu dans la société. Il y a lieu de reproduire les articles 2234 et 2196 du C.c.Q. :
+2234.La dissolution de la société ne porte pas atteinte aux droits des tiers de bonne foi qui contractent subséquemment avec un associé ou un mandataire agissant pour le compte de la société.
+2196.Si la déclaration de société est incomplète, inexacte ou irrégulière ou si, malgré un changement intervenu dans la société, la déclaration modificative n'est pas faite, les associés sont responsables, envers les tiers, des obligations de la société qui en résultent; cependant, les commanditaires qui ne sont pas par ailleurs tenus des obligations de la société n'encourent pas cette responsabilité.
+[27] Les tribunaux du Québec et notre cour ont toujours soutenu la règle selon laquelle la dissolution d'une société, pour être effective vis-à-vis des tiers, doit être constatée par une déclaration dûment enregistrée et signée par tous les membres de la société. Voir Archambault c. La Fontaine, [2000] J.Q. no 1384, J.E. 2000-940 (CAQ), Brasserie Labatt Ltée c. Lizotte, [2001] J.Q. no 160 (CQ), Banque de Nouvelle-Écosse c. Makovsky, [2002] J.Q. no 902 (CSQ).
+[28] Dans Lasalle c. Canada, [1995] A.C.I. no 130, l'honorable juge Lamarre a écrit ce qui suit au paragraphe 21:
+[. . .] On peut dire, de façon plus catégorique, qu'une société dûment enregistrée subsiste tant qu'une déclaration en dissolution n'a pas été enregistrée. Ainsi, il faut l'enregistrement d'une dissolution de société avant qu'un associé puisse faire enregistrer une déclaration qu'il fait dorénavant affaires seul. Si des personnes font affaire sous la raison sociale enregistrée et se séparent par la suite, elles sont considérées, à l'égard des tiers, comme associées. C'est ce qui ressort de l'article 1835 du Code Civil du Bas Canada. Ainsi, une jurisprudence constante a affirmé la règle qu'une dissolution de société, pour être effective vis-à-vis les tiers, doit être constatée par une déclaration dûment enregistrée et signée par tous les membres de la société. On entend par tiers tous ceux qui sont étrangers au contrat de société.
+[29] Finalement, la Cour suprême du Canada a soutenu ce principe lorsque les juges Iacobucci et Bastarache ont tenu les propos suivants dans l'arrêt Backman c. Canada, [2001] 1 R.C.S. 367, au paragraphe 44 :
+44 Enfin, cela dit, il importe de mentionner que si une personne ou un groupe de personnes se présentent comme étant des associés d'une société de personnes, mais soutiennent ultérieurement ne pas être des associés parce qu'elles ne satisfont pas aux éléments essentiels d'une société de personnes valable, les tiers qui traitent avec une telle « non-entité » pourraient bien disposer de recours de nature contractuelle ou délictuelle contre le ou les prétendus associés. En conséquence, les tiers ne sont pas tenus de vérifier les assertions relatives à l'existence d'une société de personnes pour être certains d'avoir un recours contre les prétendus associés.
+[30] N'ayant pas de preuve que le ministère n'était pas un tiers de bonne foi, je conclus que la dissolution de la société n'est pas opposable au ministre pour les années en litige et qu'en conséquence l'appelant est responsable du paiement de la dette fiscale de la société pour la période du 1er janvier 1994 au 31 décembre 1996.
+Signé à Edmundston, Canada, ce 12e jour de décembre 2003.
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2003CCI847
+No DU DOSSIER DE LA COUR :
+2000-2235(GST)I
+INTITULÉ DE LA CAUSE :
+Vital Saucier et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Rivière-du-Loup (Québec)
+DATE DE L'AUDIENCE :
+le 27 juin 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge François Angers
+DATE DU JUGEMENT :
+le 12 décembre 2003
+COMPARUTIONS :
+Pour l'appelant(e) :
+Me Gilles Moreau
+Pour l'intimé(e) :
+Me Robert Poupart
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Me Gilles Moreau
+Étude :
+Rioux Bossé Massé Moreau
+Rivière-du-Loup (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

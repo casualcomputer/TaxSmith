@@ -1,0 +1,188 @@
+Title: International Hi-Tech Industries Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/72346/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-198-72346-international-hi-tech-industries-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-06-17
+
+# International Hi-Tech Industries Inc. v. The Queen
+
+- Citation: 2014 TCC 198
+- Decision date: 2014-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5347, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+International Hi-Tech Industries Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-06-17
+Neutral citation
+2014 TCC 198
+File numbers
+2013-1150(GST)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-1150(GST)G
+BETWEEN:
+INTERNATIONAL HI-TECH INDUSTRIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motions heard on April 23, 2014, at Vancouver, British Columbia
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Andrew Sandilands
+Agents for the Appellant:
+Roger Abou-Rached
+Douglas Bencze
+Counsel for the Respondent:
+Matthew W. Turnell
+ORDER
+WHEREAS upon reading the materials filed and upon hearing submissions from Appellant’s counsel, Appellant’s agents and Respondent’s counsel:
+NOW THEREFORE This Court Orders THAT in accordance with the Reasons for Order attached:
+1. the Respondent’s motion to quash under paragraph 53(3)(c) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) is dismissed;
+2. the Appellant’s motion for agents to represent it under subsection 30(2) of the Rules is dismissed;
+3. the appeal shall be continued and pursuant to subsection 29(3) of the Rules, the style of cause shall be amended to read as follows:
+International Hi-Tech Industries Inc.
+by its Secured Creditors, Receivers in part and Lawful Attorneys,
+ihi international holdings ltd., Garmeco International Consulting, Garmeco Canada International, IHI Holdings LTD. and Earthquake Resistant Structures
+Appellant,
+and
+Her Majesty the Queen
+Respondent.
+4. the Appellant shall retain counsel and counsel shall advise the Court of such appointment within 30 days of the date of this Order;
+5. the Respondent shall have 60 days thereafter to file a Reply; and
+6. no costs are awarded on these motions.
+Signed at Ottawa, Ontario, this 17th day of June 2014.
+“R.S. Bocock”
+Bocock J.
+Citation: 2014 TCC 198
+Date:20140617
+Docket: 2013-1150(GST)G
+BETWEEN:
+INTERNATIONAL HI-TECH INDUSTRIES INC. ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+[1] There are two motions in this GST appeal before the Court: one brought by the Respondent to quash the appeal under paragraph 53(3)(c) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) for want of legal capacity and the other brought by the Appellant, which is a corporation, for the Court to allow agents, rather than counsel, to represent it under subsection 30(2) of the Rules.
+I. Facts: [2] The following facts were before the Court through uncontroverted, affidavit evidence of the Appellant’s creditors and/or accountants. The Appellant is a bankrupt corporation. Prior to bankruptcy, it granted a generic, fulsome general security agreement dated December 8, 2001 (the “GSA”) to its holding body corporate and other related companies (the “Garmenco Group”). On the strength of the GSA security, the Garmenco Group advanced sums to the Appellant approaching $6 million. The appeal relates to alleged GST miscalculations of input tax credits (“ITCs”) made by the Canada Revenue Agency (the “CRA”) during a GST audit and subsequent reassessments.
+[3] The relevant Trustee in Bankruptcy has accepted the validity of the GSA, waived redemption of the security and released its interest in the collateral charged by the GSA. A consent order of Pizzitelli J. of this Court dated July 10, 2013, granted the Appellant an extension to file a notice of appeal. The Respondent, after receipt of the Notice of Appeal, then discovered that the Trustee in Bankruptcy had not “authorized” the legal procedure constituting the appeal. When the Appellant brought its subsection 30(2) motion to the Court to seek representation by an agent in September of 2013, the Respondent advised that it would bring a cross motion to quash the appeal on the basis of the absence of legal capacity.
+[4] The two issues before the Court are:
+a) Should the Appellant be allowed representation by two persons who are not counsel?; and
+b) Do the secured parties’ security interests and other realization rights enumerated in the GSA supersede the authority of a Trustee in Bankruptcy (the “Trustee”) to commence or continue a legal proceeding on behalf of a bankrupt estate?
+II. Representation by an Agent [5] The motion for alternative representation other than by counsel is dismissed; the Appellant must be represented by legal counsel. It was clear at the motion that the two persons seeking to be agents for the Appellant, Mr. Bencze and Mr. Abou-Rached, are two knowledgeable, factual witnesses in what will be largely a factual, documentary based appeal. Neither is, nor was, a director of the Appellant. Both were thoroughly involved in the audit and objection phase of the present reassessment, but nonetheless benefitted greatly at the hearing of the motion from the limited retainer services of counsel. Both admit they are not knowledgeable in the processes of the Court or in the methods of best framing, presenting or arguing the facts they possess and the relevant law applicable to this General Procedure matter. While representation by counsel will not only partly assist the Court’s process, the Court observes it will mostly assist the Appellant’s appeal. Moreover, the parties, who will stand to recoup the ITCs arising from a successful appeal, have not provided any evidence of any inability to pay: Chase Bryant Inc. v The Queen, 2003 DTC 145.
+III. Legal Capacity of Secured Creditor to Bring an Appeal a) Respondent’s Position [6] The Respondent, in seeking to quash the appeal, argues that the Appellant was bankrupt at the time of filing the Notice of Appeal, such legal proceeding was neither authorized nor filed by the Trustee and, therefore, there is no legal capacity under paragraph 53(3)(c) of the Rules by which anyone other than the Trustee may bring such an appeal.
+[7] The expanded legal logic by which the Respondent seeks to strike the appeal is that the combined effect of subsection 301(1.1) and section 306 of the Excise Tax Act (the “ETA”) provide that any person who has been assessed may file a notice of objection and once the assessment is confirmed (or deemed confirmed) may appeal the assessment. Further, all property, including the chose in action comprising the ITCs, is broadly defined in the Bankruptcy and Insolvency Act, RSC 1985, c. B-3 (the “BIA”). The sole authority to bring, institute or defend a legal proceeding (paragraph 30(1)(d) of the BIA), in respect of any property vesting in the Trustee upon bankruptcy, shall immediately “pass to and vest in the trustee,” but “subject to this Act and the right of secured creditors”(section 71 of the BIA). The Respondent argues that only the Trustee may commence an action (in this case an appeal relating to the ITCs) and, if the persons presently before the Court disagreed with the inaction of the Trustee in bringing such an appeal, they ought to have availed themselves of the statutory right of creditors in disagreement with a Trustee’s reticence by bringing an application before the British Columbia Supreme Court to authorize the appeal related to the ITCs (subsections 38(1), (2), (3) and (4) of the BIA).
+[8] The Respondent further argues that the case law provides authority to this Court that a secured creditor cannot commence an appeal in its own name or that of the Appellant. An un-discharged bankrupt cannot commence an ETA appeal because the sole right to litigate is that of the Trustee and the reassessment was otherwise part of the administration of the bankrupt estate to be dealt with in that process: 475830 Alberta Ltd. v Canada, [1998] TCJ No. 805 (QL) at paragraph 5. All property passing to the Trustee under the bankrupt estate is subject to the Trustee’s sole right, subject to section 38 of the BIA, to initiate an appeal and the bankrupt retains no residual rights: 4028490 Canada Inc. v Canada, [2005] TCJ No. 95(QL). While aggrieved creditors may bring an appeal where a section 38 order is issued, an alleged creditor cannot commence an action to vary a taxpayer’s assessment on the basis of the taxpayer’s improvident consent to pay tax to the alleged prejudice of a creditor; a creditor has no standing to challenge an assessment or enforcement unless brought by the taxpayer who has filed the proper form of appeal within the appropriate prescribed time limits: Nova Ban-Corp Ltd. v Tottrup, [1989] FCJ No. 828 (QL) at paragraphs 1 and 3 on page 5.
+[9] Therefore, on this basis these authorities, in the absence of the Trustee’s direction or authorization by Court order under section 37 or 38, respectively, the Respondent contends no appeal may be brought.
+b) Trustee’s Authority relating to assets subject to the GSA [10] The Court manifestly agrees that if the entity seeking to enforce the taxpayer’s rights of appeal were a general creditor of the estate, a bankrupt or an alleged indemnitee under some pari passu or unliquated claim, then no right to institute an appeal would exist in the absence of the Trustee’s consent (section 37 of the BIA) or a Court order (section 38, idem). Factually, however, this is not the present case.
+[11] The persons seeking to prosecute the presently filed appeal seeks to do so pursuant to the GSA, granted and delivered to the secured creditors by the bankrupt prior to any assignment or petition under the BIA. Additionally, the GSA, as is standard practice, was vetted, verified, approved and not redeemed by the Trustee. Saying so in his letter of October 5, 2012, the Trustee recounted several things: receipt of the secured creditors’ claim, receipt of a copy of the GSA and supporting documentation, valuation of the secured creditors’ claim in excess of the value of the bankrupt estate, an election to not redeem the security and, by re-delivery of the security to the secured creditors, confirmation of his release of the estate’s interest (that of the general creditors whom the Trustee represents) in the “listed real property, equipment, a certain lawsuit, “the receivables” and any shares held by the bankrupt”. Further, this release was expressed to be effected so that the secured creditors could commence “realization as you see fit”. To this, the Respondent says such evidence is insufficient to establish a specific assignment of the receivable or receivables represented by the ITCs, at least to the extent of permitting the requisite authority for the commencement and continuation of this appeal.
+[12] The Court agrees that the Trustee did not specifically authorize the commencement of this appeal, did not specifically list the assigned accounts receivable and did not authorize the filing of a notice of appeal, but the Court disagrees with the Respondent as to the reason. The Trustee did not have an interest in the chose in action comprising the ITCs. Moreover, the specific assignment of the chose in action which the Respondent suggests the secured creditors ought to have obtained from the Trustee, would be a legal fiction: nemo dat quod non habet. The most the Trustee could do was value the security, opine that he accepted it, confirm it surmounted his own rights and signify that the Trustee was releasing and delivering the encumbered and assigned assets to their consequentially rightful owners, the secured creditors, to whom the bankrupt had previously conveyed its and, by extension, the Trustee’s interest. This is precisely what the Trustee did and why the Trustee legally did not and could not authorize the bringing of this appeal.
+c) Sufficient power under the GSA for the Bringing of an Appeal? [13] There is, however, a critical question which remains: does the GSA provide sufficient authority to commence and maintain the appeal vis-a-vis the Rules, the ETA and the BIA?
+[14] The following relevant excerpts from the GSA will assist in that analysis (with emphasis added):
+1. Security Interest
+As security for the payment and performance of the obligations (as defined in paragraph 3), the Debtor, subject to the exceptions set out in paragraph 2, does:
+1.1 Grant to the Secured Party a security interest in, and mortgages, chargers, transfers and assigns absolutely, all of the debtor’s present and after acquired personal property, and all personal property in which the Debtor has rights, of whatever nature or kind and wherever situate, including, without limitation, all of the following now owned or in future owned or acquired by or on behalf of the Debtor:
+[…]
+(b) all book accounts and book debts and generally accounts, debts, dues, claims, choses in action, […] which are now due, owing or accruing, or growing due to, or owned by, or which may in future become due, owing, or accruing, or growing due to, or owned by the Debtor […]
+(c) […] all other choses in action of the Debtor of every kind which now are, or which may in future be, due or owing by the Debtor, and all other intangible property of the Debtor
+[…]
+(h) all proceeds, […]
+(i) all […] writings, papers, books of account, and other books and electronically recorded data relating to any of the foregoing or by which any of the foregoing is or may in future be secured, evidenced, acknowledged, or made payable.
+[…]
+11. Collection of Debts
+[…] the Secured Party may notify all or any account debtors of the Debtor of the Security Interest and may also direct such account debtors to make all payments on Collateral received by the Debtor from account debtors, whether before or after notification of this Security Interest to account debtors, and whether before or after default under this Agreement, shall be received and held by the Debtor in trust for the Secured Party. […]
+22. Appointment of Attorney and Deed
+22.1 The Debtor irrevocably appoints the Secured Party or the receiver, as the case may be, with full power of substitution, to be the attorney of the Debtor for and in the name of the Debtor to sign, endorse, or execute under seal or otherwise any deeds, documents, transfers, cheques, instruments, demands, assignments, assurances, or consents that the debtor is obliged to sign, endorse, or incidental to the exercise of all or any of the powers conferred on the Secured Party or the receiver, as the case may be, under this Agreement.
+[…]
+34.1 The Debtor authorizes the Secured Party to file such financing statements, financing change statements, and other documents, and do such acts, matters, and things as the Secured Party may deem appropriate, to perfect on an ongoing basis and continue the Security Interest, to protect and preserve the Collateral, and to realize upon the Security Interest. .
+[15] The release by the Trustee of his rights in the collateral charged and assigned under the GSA fully recognizes the distinction maintained in the BIA between a general, unsecured creditor and that of a secured creditor: both are defined and used separately in the definition sections of the BIA. This distinction is further continued in section 37 (rights of disgruntled bankrupts and general creditors), section 38 (creditors right to obtain a court order), section 70 (precedence of bankruptcy orders over rights of creditors, excluding rights of secured creditors), section 71 (property vesting in Trustee subject to rights of secured creditors) and subsection 72(1) (BIA not deemed to abrogate or supersede laws or statutes relating to property and civil rights not in conflict).
+[16] Moreover, all of the authorities referenced by the Respondent contain attempted appeals by bankrupts, general creditors or those holding alleged unliquidated claims against the bankrupt estate. None involved a secured creditor, holding valid security, authenticated and released by a Trustee in the context of a duly administered bankrupt estate. The present and future accounts receivables and choses in action of the Appellant were assigned to the secured creditors. The secured creditors were to be seized of all present and future books and records including the GST returns, had power to direct payment of such debts to the secured creditors upon default and were nominated as attorneys to do all things necessary to exercise all such incidental powers in the Appellant’s name.
+[17] Respondent’s counsel argues that only a Trustee in Bankruptcy or receiver referenced under the ETA could possibly be an agent for the purposes of perfecting an appeal under the deeming definitions of the ETA. Although the Court would likely have concluded in this instance that the prior assignment of the book debts (choses in action) under the GSA has otherwise validly transferred the rights to the referable property enumerated under sections 301 (person assessed may file an objection) and 306 (objector receiving or deemed to receive a confirmation may file an appeal), nonetheless, a close reading of the definition of “receiver” in section 266 of the ETA indicates that Parliament anticipated that a receiver could be an agent of a debtor for the purposes of a portion of the property on a contemporaneous basis with the administration of a bankrupt estate by a Trustee in Bankruptcy. The relevant excerpted sections read as follows (with emphasis added):
+266. (1) In this section,
+“business”
+« entreprise »
+“business” includes a part of a business;
+“receiver”
+« séquestre »
+“receiver” means a person who
+(a) under the authority of a debenture, bond or other debt security, of a court order or of an Act of Parliament or of the legislature of a province, is empowered to operate or manage a business or a property of another person,
+[…]
+“relevant assets”
+« actif pertinent »
+“relevant assets” of a receiver means
+(a) where the receiver’s authority relates to all the properties, businesses, affairs and assets of a person, all those properties, businesses, affairs and assets, and
+(b) where the receiver’s authority relates to only part of the properties, businesses, affairs or assets of a person, that part of the properties, businesses, affairs or assets, as the case may be.
+(2) For the purposes of this Part, where on a particular day a receiver is vested with authority to manage, operate, liquidate, or wind up any business or property, or to manage and care for the affairs and assets, of a person,
+(a) the receiver shall be deemed to be an agent of the person and any supply made or received and any act performed by the receiver in respect of the relevant assets of the receiver shall be deemed to have been made, received or performed, as the case may be, by the receiver as agent on behalf of the person;
+[…]
+[18] At law, “other debt security” would encompass the GSA which contains broad powers of appointment for a secured party or agent to act as receiver for the purposes of realizing upon various and limited types of property. This situation in fact and at law has occurred in this present matter. Additionally, there is no legal authority which suggests this logical interpretation is not correct. The Respondent has identified that such a “receiver” could at law be an agent of the Appellant for the purposes of objecting and filing an appeal under the ETA. The Court agrees with this view and finds that a secured creditor, acting as a “receiver” in respect of part of the property of the debtor under a “debt security”, becomes an agent under subsection 266(1) and is not precluded from objecting to a GST assessment or reassessment in respect of certain property assigned (the book debt) and maintaining thereafter the appeal which follows.
+[19] Similarly, the plain wording of the exclusive power granted to the Trustee in paragraph 30(1)(d) of the BIA in respect of litigation clearly limits that power to the property of the bankrupt:
+30. (1) The trustee may, with the permission of the inspectors, do all or any of the following things:
+(d) bring, institute or defend any action or other legal proceeding relating to the property of the bankrupt;
+[20] In the absence of any directly applicable case law to the contrary, the prior assignment of the Bankrupt’s interest in certain property to the secured creditors, as recognized by the Trustee, removes the property described in this paragraph from the Trustee’s authority: upon assignment it is no longer “property of the bankrupt”. This is also consistent with the existing authorities cited by the Respondent dealing exclusively with the prohibition of attempted legal proceedings brought by creditors and bankrupts (but not secured creditors) whose rights and interests otherwise statutorily devolve upon the Trustee and require the Trustee’s consent or a Superior Court order to bring legal proceedings.
+[21] This totality of these ownership, enforcement and realization rights clearly fall within Rule 29 of the Rules which provides (with emphasis added):
+Transfer or Transmission of Interest
+29. (1) Where at any stage of a proceeding the interest or liability of a person who is a party to a proceeding in the Court is transferred or transmitted to another person by assignment, bankruptcy, death or other means, no other proceedings shall be instituted until the Registrar is notified of the transfer or transmission and the particulars of it.
+(2) On receipt of the notice and particulars referred to in subsection (1) the Registrar shall consult with the parties regarding the circumstances under which the proceeding shall continue and he shall report on these consultations to the Chief Justice.
+(3) The Chief Justice or a judge designated by him to deal with the matter may direct the continuation of the proceeding or give such other direction as is just.
+[22] Legally, the secured creditors would be the parties exclusively entitled to the proceeds arising from any ITCs emanating from a successful appeal. It is legally certain that no other party could be: the Trustee has already confirmed this, as the only other entitled party, by releasing the collateral charged by the GSA to the secured creditors. Since entitlement to such proceeds subsists in the secured creditors through the GSA’s valid assignment, section 29 affords this Court the power to provide the procedural remedy to these validly, subsisting rights in the choses in action which comprise the alleged ITCs exclusively collectible from the Respondent through an appeal before this Court.
+[23] Therefore, on the basis of the GSA, authenticated by the Trustee as a prior ranking interest in the collateral (including the ITCs) and the delivery of the collateral to the secured creditors by release of all other creditors’ claims by the Trustee, the secured creditors may continue the appeal before this Court to have it heard on its merits. By implication, the Respondent’s motion to quash is dismissed. Under the discretion afforded the Court under subsection 29(3) of the Rules, notification of the assignment has been made and proved, the appeal shall be continued and the style of cause shall be amended as follows:
+International Hi-Tech Industries Inc.
+by its Secured Creditors, Receivers in part and Lawful Attorneys,
+ihi international holdings ltd., Garmeco International Consulting, Garmeco Canada International, IHI Holdings LTD. and Earthquake Resistant Structures
+Appellant,
+and
+Her Majesty the Queen
+Respondent.
+[24] The Appellant shall be represented by counsel. Such counsel shall advise the Court of such appointment in writing within 30 days of the date of this Order. The Respondent shall have 60 days thereafter to file the Reply.
+[25] In light of the dismissal of both motions, there shall be no award for costs.
+Signed at Ottawa, Ontario, this 17th day of June 2014.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2014 TCC 198
+COURT FILE NO.:
+2013-1150(GST)G
+STYLE OF CAUSE:
+INTERNATIONAL HI-TECH INDUSTRIES INC. AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+April 23, 2014
+REASONS FOR ORDER BY:
+The Honourable Mr. Justice
+Randall S. Bocock
+DATE OF ORDER:
+June 17, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Andrew Sandilands
+Agents for the Appellant:
+Roger Abou-Rached
+Douglas Bencze
+Counsel for the Respondent:
+Matthew Turnell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

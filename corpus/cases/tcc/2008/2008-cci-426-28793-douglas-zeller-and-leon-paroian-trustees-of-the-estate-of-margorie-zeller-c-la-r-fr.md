@@ -1,0 +1,562 @@
+---
+title: "Douglas Zeller and Leon Paroian Trustees of the Estate of Margorie Zeller c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28793/index.do"
+last_modified: "2008-07-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 426"
+citation2: ""
+neutral_citation: "2008 CCI 426"
+decision_date: "2008-07-30"
+language: "fr"
+item_id: "28793"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1513
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:31:39.188000+00:00"
+cases_cited_count: 3
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "50b3387d06ac1a91bdfca60823f3f0d5db9fea694f48a43d4fd6b02c6f0a2510"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Douglas Zeller and Leon Paroian Trustees of the Estate of Margorie Zeller c. La Reine
+
+- Citation: 2008 CCI 426
+- Decision date: 2008-07-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1513, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Douglas Zeller and Leon Paroian Trustees of the Estate of Margorie Zeller c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-30
+Référence neutre
+2008 CCI 426
+Numéro de dossier
+2003-2892(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003‑2892(IT)G
+ENTRE :
+SUCCESSION DE MARJORIE ZELLER
+AGISSANT PAR SES FIDUCIAIRES
+DOUGLAS ZELLER ET LEON PAROIAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 27 et 28 février et les 1er et 2 mars 2006, les 23, 24, 25, 26 et 27 octobre 2006, les 26, 27, 28 et 29 mars 2007 et les 17 et 18 juillet 2007, à Windsor (Ontario).
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Avocat de l’appelante :
+Me Bruck R. Easton, c.r.
+Avocats de l’intimée :
+Me Michael Ezri et Me Roger LeClaire
+____________________________________________________________________
+JUGEMENT
+L’appel formé contre la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1998 est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation prenant en compte les motifs du jugement ci‑joints.
+La question des dépens est remise à plus tard. Les parties ont 60 jours à compter de la date de mes motifs pour s’entendre sur les dépens; si elles ne peuvent pas s’entendre à l’intérieur de ce délai, elles présenteront des conclusions écrites sur la question des dépens, dans les 30 jours qui suivront l’expiration de ce délai initial de 60 jours.
+Signé à Charlottetown (Île‑du‑Prince‑Édouard), ce 30e jour de juillet 2008.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 7e jour de novembre 2008.
+D. Laberge, LL.L.
+Référence : 2008 CCI 426
+Date : 20080730
+Dossier : 2003‑2892(IT)G
+ENTRE :
+SUCCESSION DE MARJORIE ZELLER
+AGISSANT PAR SES FIDUCIAIRES
+DOUGLAS ZELLER ET LEON PAROIAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Le 20 octobre 1998, Marjorie Zeller, l’unique actionnaire de la société 701221 Ontario Limited (« 701 »), décédait. Lorsqu’ils ont déposé sa dernière déclaration de revenus, les fiduciaires de sa succession ont calculé que la juste valeur marchande (la « JVM ») de 701 était de 958 548 $, conformément aux dispositions déterminatives du paragraphe 70(5) de la Loi de l’impôt sur le revenu (la « Loi »). Après nouvelle cotisation, l’Agence du revenu du Canada (l’« ARC ») a fait passer à 5 524 548 $ la JVM de 701. Cette valeur s’appuyait sur un rapport d’expert établi par Mike Albert (le « rapport Albert »). L’appelante a alors engagé le cabinet Wise, Blackman pour qu’il procède à une évaluation. Le rapport d’expert Wise, Blackman (pièce A‑26) concluait que 701 avait une valeur globale de 2,2 millions de dollars, c’est‑à‑dire le point médian d’une fourchette allant de 2,1 à 2,3 millions de dollars pour 701. L’intimée a fait rédiger un deuxième rapport d’expert par Tim Dunham, qui attribuait à 701 une JVM de 6,38 millions de dollars, à la date d’évaluation du 20 octobre 1998. Le rapport Wise, Blackman et le rapport Dunham employaient, pour calculer la JVM, la même méthode d’évaluation, la méthode des bénéfices, mais les résultats obtenus sont fort différents.
+[2] Le rapport Albert employait lui aussi la même méthode pour calculer la JVM de 701. Cependant, aucun témoin expert n’a été appelé à témoigner sur les conclusions du rapport Albert, et la preuve produite concernant le raisonnement à l’origine des conclusions de ce rapport était mince. M. Dunham, auteur du second rapport produit par l’intimée, a témoigné qu’il n’avait pas lu ni consulté le précédent rapport Albert lorsqu’il avait rédigé son propre rapport. Par conséquent, je n’accorderai aucun poids au rapport Albert.
+[3] Le seul point à décider concerne la JVM des actions de 701 le 20 octobre 1998.
+Les faits
+[4] La société 701 n’a ni actif ni passif, si ce n’est son intérêt dans Thompson Emergency Freight Systems (« Thompson »). L’entreprise Thompson œuvre dans le secteur du camionnage rapide, fournissant un service créneau en tant que transporteur de fret d’urgence pour faciliter la livraison « juste à temps » de stocks et de pièces aux constructeurs d’automobiles. Durant la décennie 80, quand les gros camions ne parvenaient pas à livrer le fret requis, les compagnies de camionnage rapide telles que Thompson occupaient ce créneau dans l’industrie automobile et dépêchaient de plus petits camions pour assurer une livraison à temps. Si des stocks ou pièces étaient requis dans un bref délai pour éviter l’arrêt des chaînes de montage d’automobiles, Thompson s’engageait à transporter ces chargements aussi rapidement que possible afin de minimiser le temps d’arrêt à une usine. Mike Ouellette, président de Thompson, a décrit avec justesse les activités de l’entreprise comme [traduction] « […] un service ultrarapide ou un service d’ambulance pour l’industrie du camionnage » (transcription, page 297). La société Thompson a été constituée durant l’été de 1985 par George Zeller et Michael Ouellette. Un troisième actionnaire, Jerry Thompson, s’est joint à eux en apportant les licences de transport, qui étaient essentielles avant la déréglementation de l’industrie. La mise de fonds de chacun des actionnaires était de 42 000 $. La société 701 était la société par l’entremise de laquelle George Zeller détenait sa participation dans l’entreprise Thompson. Douglas Zeller, le fils de George, a joué un rôle dans Thompson dès le début de l’entreprise. Il était son directeur général.
+[5] Thompson exerçait ses activités par l’entremise de deux sociétés, 890557 Inc. (« 890 ») et sa société liée américaine, une société du Michigan, appelée 123 Inc. (« 123 »). Malgré les différences entre ces sociétés, Thompson n’avait qu’un seul bureau, avec terminal central, situé à Windsor, même si l’entreprise desservait l’est de l’Ontario, le Québec et l’est des États‑Unis. Les marchandises livrées qui restaient au Canada étaient manutentionnées par 890, tandis que 123 s’occupait des activités menées aux États‑Unis. Le chiffre d’affaires était réparti entre 890 et 123 selon que le bénéfice était attribuable à un camion basé aux États‑Unis ou à un autre basé au Canada. Le chiffre d’affaires de 890 était environ deux à trois fois supérieur à celui de 123.
+[6] Thompson ne possédait pas de camions. L’entreprise engageait plutôt des propriétaires ou exploitants indépendants appelés intermédiaires ou « 100 ». Ces intermédiaires fournissaient leurs propres camions pour transporter le fret. Thompson fournissait les plaques temporaires d’immatriculation, ainsi que l’information se rapportant au ramassage et à la livraison du fret. Michael Ouellette a appelé ces intermédiaires des migrants, parce qu’ils travaillaient pour la compagnie de transport rapide qui pouvait leur offrir la meilleure affaire ou le plus de travail. Puisqu’il n’y avait pas de contrat obligatoire, après qu’un intermédiaire avait livré sa cargaison, il pouvait rendre sa plaque d’immatriculation et proposer librement ses services à une entreprise concurrente. Si Thompson s’engageait à transporter du fret, il était essentiel que des intermédiaires soient disponibles, sans quoi il lui fallait trouver d’autres camionneurs, une pratique appelée fret intercompagnies. Selon les tarifs demandés par ces autres camionneurs, par rapport à ceux des intermédiaires, Thompson pouvait faire un bénéfice ou une perte. Le fret intercompagnies entraînait aussi un accroissement du risque de responsabilité. Les intermédiaires canadiens étaient syndiqués et ils étaient représentés à l’origine par la Fraternité des travailleurs des chemins de fer, jusqu’au début de la décennie 90, et c’est alors que ce syndicat fut absorbé par le syndicat regroupant les travailleurs canadiens de l’automobile (les « TCA »).
+[7] Au début de la décennie 90, plusieurs événements sont survenus, qui allaient avoir des répercussions importantes sur les activités de Thompson. Le principal client de Thompson, son client le plus important, General Motors National Logistics (« GM »), assurait entre 75 et 85 p. 100 de ses activités. Thompson avait été engagée par GM comme son fournisseur prioritaire de services de transport d’urgence. Cependant, comme GM conservait le droit d’annuler ce privilège moyennant un préavis de 30 jours, Thompson se trouvait dans une position précaire. En outre, George Zeller, l’un des actionnaires fondateurs et le président de la société, était décédé le 18 mai 1991, quelques mois après avoir pris sa retraite. Ses intérêts dans Thompson, détenus par l’entremise de 701, furent légués à son épouse, Marjorie Zeller. À la date de son décès, 701 détenait un tiers du capital de 890 et un tiers du capital de 123, le capital restant des deux entités étant réparti également entre Mike Ouellette et Jerry Thompson. L’année suivante, en novembre 1992, le troisième actionnaire de Thompson, Jerry Thompson, déclarait faillite. Son intérêt d’un tiers qu’il détenait dans 890 fut vendu aux deux sociétés de gestion appartenant aux deux actionnaires restants, Mike Ouellette et Marjorie Zeller, pour la somme de 75 000 $. M. Thompson a conservé son intérêt d’un tiers dans 123, tout comme les deux autres actionnaires. En conséquence, 701 détenait, comme la société de gestion de Mike Ouellette, la moitié du capital de 890, et, comme Mike Ouellette et Jerry Thompson, 33 1/3 p. 100 du capital de 123.
+[8] Après le décès de George Zeller et la faillite de Jerry Thompson, Douglas Zeller devint dirigeant et administrateur de 890 et de 123 et, puisque Marjorie Zeller, sa mère, n’intervenait jamais activement dans l’entreprise, il fut désigné son représentant au sein de Thompson. Michael Ouellette est devenu président, en remplacement de George Zeller. En juin 1991, Thompson fut en mesure de rétablir sa position d’ancrage dans l’industrie automobile en décrochant un important contrat avec GM à Detroit. Selon le témoignage de Michael Ouellette, au cours des années 90, une entreprise de transport rapide avait besoin, pour être solide, d’un important client tel que GM. Il a expliqué que le contrat conclu avec GM désignait Thompson comme son fournisseur prioritaire pour le transport rapide de marchandises de GM. Thompson pouvait ainsi répartir les véhicules des intermédiaires sur une importante zone géographique, ce qui indirectement accroissait ses chances de pouvoir transporter d’autres cargaisons en plus de celles de GM. Selon Michael Ouellette, [traduction] « si Thompson est devenue, comme vous le savez, une entreprise importante du secteur international du transport rapide entre le Canada et les États‑Unis, c’était grâce à GM » (transcription, page 315).
+[9] GM était à l’origine d’un fort pourcentage du chiffre d’affaires de Thompson, mais GM pouvait mettre fin à la relation moyennant un préavis de 30 jours, et cela donnait à GM un solide argument que le géant de l’automobile invoquait périodiquement pour contraindre Thompson à réduire ses barèmes milliaires. Plusieurs événements intéressant ce contrat avec GM se sont notablement répercutés sur les opérations de Thompson en 1998, mais je veux d’abord examiner la relation entre Douglas Zeller, Michael Ouellette et Marjorie Zeller, les trois principaux joueurs immédiatement après le décès de George Zeller.
+[10] Les témoignages produits par Douglas Zeller et Michael Ouellette étaient essentiellement que leurs rapports de travail au sein de Thompson étaient, le moins que l’on puisse dire, très houleux. Il est ressorti clairement du témoignage de M. Zeller qu’il se trouvait dans une situation sans issue parce que Marjorie Zeller, qu’il représentait au sein de Thompson, appuyait rarement ses décisions. En plus de cela, lui et M. Ouellette avaient des rapports de travail très tendus. Patrick Kennedy, gendre de Marjorie, qui finalement remplaça Douglas Zeller comme représentant de Marjorie au sein de Thompson, a témoigné que, si Marjorie Zeller refusait d’appuyer les décisions commerciales de Douglas Zeller, c’était en raison de querelles familiales. Selon le témoignage de M. Kennedy, Marjorie Zeller était toujours à cran avec l’un de ses enfants. Il a dit que [traduction] « elle vous abaissait comme elle l’aurait fait d’un interrupteur d’éclairage […] » (transcription, page 632). « On aurait dit qu’elle ne pouvait pas aimer tous ses enfants en même temps » (transcription, page 631). Il n’est pas surprenant que Douglas Zeller fit savoir à sa mère qu’il avait l’intention de quitter l’entreprise. Patrick Kennedy l’a remplacé en mars 1997 comme représentant de Marjorie au sein de Thompson.
+[11] Douglas Zeller et trois employés de Thompson ont établi Genesis Express, une société concurrente œuvrant dans le secteur du transport rapide. Genesis Express fut établie avec un investissement total de 48 000 $, environ six semaines après le départ de Douglas Zeller de Thompson. Douglas Zeller possédait une connaissance intime des barèmes milliaires de Thompson, et c’était là une information sensible qui pourrait faire en sorte que Genesis Express évince Thompson dans de futurs appels de soumissions. En mars 1997, Michael Ouellette avait jugé cette menace suffisamment sérieuse pour qu’il décide d’engager des procédures judiciaires en vue d’empêcher Genesis Express de solliciter des clients, des employés ou des intermédiaires de Thompson. Un compromis fut conclu en avril 1997. L’une de ses principales dispositions empêchait Genesis Express, durant 18 mois, de chercher à obtenir des contrats de transport rapide de GM, principal client de Thompson. En échange, Thompson s’engageait à recourir aux services de Genesis Express comme premier transporteur de remplacement, pour une durée de six mois, mais cela se produisit rarement.
+[12] Patrick Kennedy est arrivé chez Thompson avec une très faible connaissance du camionnage rapide et aucune expérience préalable de la gestion. Malgré cela, il a négocié avec Marjorie Zeller un salaire qui se comparait à ceux de Douglas Zeller et de Michael Ouellette. Selon M. Ouellette, le régime de rémunération des cadres, chez Thompson, était un régime assorti d’incitatifs et se composait d’un salaire de base et de bonis. En plus de [traduction] « la manière bizarre dont fonctionnait la famille » (témoignage de Michael Ouellette, transcription, page 343), sans oublier les querelles judiciaires et les problèmes de confidentialité avec Douglas Zeller, M. Ouellette se méfiait de l’arrivée de Patrick Kennedy, un homme sans expérience. Durant l’été de 1998, le contrat conclu avec GM approchait également de sa date d’expiration et allait devoir être renouvelé en janvier 1999. En outre, GM était aux prises avec une grève qui allait durer 57 jours et qui inévitablement nuisait aux affaires de Thompson. Tout au long de l’été de 1998, M. Ouellette participait également à la renégociation d’une convention collective avec les TCA. Les négociations syndicales prirent fin en novembre 1998, après la date d’évaluation, et la nouvelle convention conclue avec les TCA eut pour effet d’augmenter les frais supportés par Thompson pour ses intermédiaires. Le nouveau système de tarification, fondé sur un taux fixe par mille pour les intermédiaires, augmentait, selon le témoignage de M. Ouellette, les risques de Thompson afférents aux fluctuations du taux de change.
+[13] À mesure que se déroulaient tous ces événements, M. Ouellette songeait à mettre fin à ses relations d’affaires avec Marjorie Zeller et il a fini par faire ce que l’avocat de l’appelante a qualifié d’offre ferme, par l’entremise de l’avocat de l’entreprise, Gerald Trottier. Une contre‑offre fut faite ensuite par Arthur Weingarden, l’avocat de Marjorie Zeller. M. Ouellette n’a pas accepté cette contre‑offre. Pour l’avocat de l’intimée, il s’agissait là simplement de pourparlers engagés par M. Ouellette concernant une offre possible d’achat des parts de Marjorie Zeller dans l’entreprise, ou concernant une offre de vente, à Marjorie Zeller, des parts qu’il détenait dans Thompson. Cependant, l’intimée affirme que ces négociations ne constituaient pas une offre formelle.
+[14] Par lettre datée du 13 juillet 1998, M. Trottier a transmis à M. Ouellette un projet d’accord d’achat et de vente d’actions, dans lequel il était proposé à M. Ouellette qu’il achète les actions détenues par 701 dans 890 et dans 123, ou qu’il vende ses intérêts dans Thompson à Marjorie Zeller, pour la somme de 600 000 $, outre le remboursement des prêts des autres actionnaires. Ce projet d’offre excluait les clauses et garanties habituelles d’une convention d’achat d’actions et ne renfermait aucune clause de non‑concurrence. Le projet d’offre n’a jamais été finalisé ni transmis à quiconque, mais, le 11 août 1998, M. Trottier a téléphoné à Arthur Weingarden, l’avocat de Marjorie Zeller, à propos de cet achat d’actions. Selon le témoignage de M. Weingarden, Marjorie Zeller lui avait également parlé, au cours du mois précédant l’appel de M. Trottier du 11 août 1998, de la possibilité d’acheter les parts de M. Ouellette dans l’entreprise Thompson. Selon M. Weingarden, Mme Zeller voulait acheter les parts de M. Ouellette et obtenir de lui un engagement de non‑concurrence, dans l’intention de remettre l’entreprise à son fils, Douglas Zeller. Par la suite, M. Weingarden envoya à M. Ouellette, le 29 septembre 1998, une lettre (pièce A‑1, onglet 42) à laquelle était joint un projet de convention d’achat d’actions. Mme Zeller offrait d’acheter les actions de M. Ouellette mais, contrairement au projet de convention de Gerald Trottier, celui de M. Weingarden renfermait les clauses et garanties habituelles, ainsi qu’une clause de non‑concurrence. Par lettre datée du 6 octobre 1998, M. Ouellette informa M. Weingarden qu’il ne souhaitait plus aller de l’avant dans cette opération. Mme Zeller décéda le 20 octobre 1998, quelques semaines seulement après ces événements. Selon son dossier médical, on avait diagnostiqué chez elle, vers le 5 septembre 1998, un cancer terminal du poumon.
+Les rapports d’expert
+[15] Les auteurs des deux rapports sont des évaluateurs d’entreprises très qualifiés et expérimentés. Richard Wise a de nombreuses publications à son actif. En fait, Timothy Dunham, dans son rapport d’expert, se référait à l’une des publications dont M. Wise était l’un des auteurs. M. Wise a comparu comme expert devant la Cour à plusieurs reprises, ainsi que devant d’autres juridictions, notamment la Cour de l’impôt des États‑Unis. Drew Dorweiler, l’un des dirigeants du cabinet Wise, Blackman, fait partie de ce cabinet depuis 17 ans. Il a déposé en tant que témoin expert devant divers tribunaux, au Québec, en Ontario et aux États‑Unis, mais il comparaissait pour la première fois comme témoin expert devant la Cour de l’impôt.
+[16] Timothy Dunham, qui a le titre d’expert en évaluation d’entreprises et celui d’analyste financier agréé, travaille à la section de l’évaluation de l’ARC depuis 17 ans. Il a déposé une fois auparavant comme témoin expert devant la Cour. Je suis d’avis que l’argument de l’intimée selon lequel M. Wise n’était pas directement à l’origine du rapport Wise, Blackman n’est pas fondé. J’accepte sur ce point le témoignage de M. Wise parce que je crois, me fondant sur ce qu’il a dit à la Cour, que son expertise, son expérience et son jugement ont été mis à contribution, comme ceux de M. Dorweiler, dans la rédaction de leur rapport d’expert.
+[17] S’agissant de l’évaluation d’une entreprise ou de l’évaluation d’un intérêt dans une entreprise en tant qu’« entreprise en activité », trois approches généralement reconnues sont employées : l’approche patrimoniale, l’approche du revenu et l’approche fondée sur le marché.
+[18] 701 est une société de gestion, non une entreprise active. Par conséquent, ses intérêts dans les sociétés d’exploitation, 890 et 123, qui ensemble forment les activités de Thompson, doivent être établis au 20 octobre 1998. Pour l’évaluation de 701, l’intimée a considéré que l’approche était une approche patrimoniale, d’après laquelle on se sert de la méthode des bénéfices capitalisés pour établir la valeur des sociétés d’exploitation, à savoir 890 et 123. Essentiellement, c’est cette approche qui fut utilisée dans les deux rapports d’expert, puisque la valeur de 701 repose sur les intérêts que 701 détient dans 890 et dans 123. Cette méthode détermine le niveau auquel les bénéfices le jour de l’évaluation peuvent être maintenus dans l’avenir, et cela par application de diverses décotes pour tenir compte des risques qui pourraient influer sur la constance du taux de croissance futur. L’approche des bénéfices capitalisés fonde la JVM sur l’aptitude apparente d’une entreprise à générer des bénéfices futurs ou des flux financiers pour produire un juste rendement sur le capital investi. C’est cette série future de flux financiers qu’un acheteur théorique voudrait acquérir. Un acheteur théorique, outre le rendement futur possible de l’investissement, mettrait aussi en balance ce facteur et plusieurs facteurs internes et externes, par exemple les perspectives futures de l’entreprise, les taux de rendement offerts par d’autres investissements possibles, les risques commercial et financier, enfin la liquidité de l’investissement.
+[19] Les deux rapports emploient la même méthode d’évaluation, mais, pour établir la JVM des actions de 701, chacun d’eux est arrivé à des résultats étonnamment différents pour ce qui concerne la capitalisation de ces bénéfices et le risque qui s’attacherait à tels bénéfices dans l’avenir. Les principales différences que présentent ces deux rapports concernent la détermination des bénéfices prévisibles, l’établissement du taux de capitalisation et du multiplicateur, les décotes appliquées pour participation minoritaire et pour absence de liquidité, et finalement le point de savoir si une décote devrait être considérée pour les dettes fiscales incorporées. En outre, le rapport Dunham calculait un multiplicateur unique pour les opérations canadiennes et américaines combinées. Le rapport Wise, quant à lui, calculait deux multiplicateurs, un pour 890 et un autre pour 123. Finalement, il convient de noter que M. Dorweiler s’est entretenu avec les dirigeants des entreprises, alors que M. Dunham ne l’a pas fait.
+[20] La méthode des bénéfices, employée pour évaluer 890 et 123, comporte trois étapes. D’abord, un calcul est fait pour établir le revenu prévisible après impôt que Thompson pourrait générer dans l’avenir, après prise en compte des revenus discrétionnaires, non opérationnels, exceptionnels ou assortis d’un lien de dépendance, ainsi que des postes de charge. Ce calcul donne une estimation de la productivité financière future de la société. Deuxièmement, le chiffre issu de la première étape, à savoir les bénéfices prévisibles, est multiplié par un facteur adéquat, appelé l’inverse du « taux de capitalisation » ou le multiplicateur des prix/flux financiers, facteur qui reflète les divers risques afférents au potentiel de gain et aux taux de rendement sur l’investissement dans Thompson, par rapport aux risques posés par d’autres investissements dans des sociétés cotées en bourse. Troisièmement, les intérêts proportionnels de 701 dans 890 et 123 sont établis après application d’une décote de participation minoritaire et d’une décote d’illiquidité, décotes qui reflètent le risque intrinsèque, comme l’absence de contrôle et l’illiquidité. L’appelante a appliqué d’autres décotes pour les obligations fiscales incorporées qu’un acheteur potentiel pourrait devoir assumer quant aux gains en capital, à des impôts personnels résultant du versement de dividendes, et à un actif éventuel prenant la forme d’un impôt en main remboursable au titre de dividendes.
+[21] Le rapport Dunham a utilisé les exercices 1997, 1998 et 1999 dans ses calculs des bénéfices prévisibles, tandis que le rapport Wise a utilisé les exercices 1996, 1997 et 1998. L’utilisation d’exercices différents s’est soldée par un écart global de JVM de 1,7 million de dollars pour Thompson. L’analyse de sensibilité faite par M. Dorweiler a montré que l’utilisation de l’exercice 1999 par le rapport Dunham a une incidence de 760 000 $ sur la JVM de 701. Selon M. Dorweiler, l’utilisation de l’exercice 1999 constituait un examen rétrospectif inopportun. Le rapport Dunham accordait un poids égal aux bénéfices de chacun des exercices 1997 à 1999. L’inclusion de l’exercice 1999 signifiait que le rapport Dunham se fondait sur sept mois de renseignements postérieurs à la date d’évaluation. Cela englobait des événements comme les négociations avec les TCA, qui avaient pris fin en novembre 1998, l’apparition des appels d’offres lancés par Internet, l’issue de la grève chez GM, les désaccords fréquents entre la direction et les actionnaires, enfin les négociations en vue du renouvellement du contrat conclu avec GM, négociations qui n’avaient pas pris fin à la date d’évaluation.
+[22] L’intimée a fait valoir que l’inclusion de 1996 par l’appelante ne serait pas légitime parce que Thompson était encore en croissance et se trouvait dans une position très différente en 1996 par rapport aux années ultérieures. Le chiffre d’affaires avait fait un bond de 21 p. 100 entre 1996 et 1997. L’intimée a critiqué le rapport Wise pour l’utilisation qu’il fait de renseignements postérieurs à la date d’évaluation, par exemple la déduction des frais pour la convention conclue avec les TCA, l’emploi des données Ibbotson sur la prime au titre de la taille de l’entreprise, données qui provenaient d’une enquête de 2001, la comparaison avec les salaires dans l’industrie du camionnage en 1999 pour corriger les salaires des dirigeants, enfin l’emploi de données boursières de l’année civile 1998.
+[23] Les rapports ont également adopté des approches différentes concernant les prêts des actionnaires. Le rapport Dunham jugeait excessif le taux d’intérêt de 10 p. 100 payé sur ces prêts. Il estimait aussi que les politiques de rémunération des dirigeants et de paiement des dividendes étaient excessives et que, combinées aux intérêts, elles n’étaient que des mécanismes permettant aux actionnaires d’extraire les profits de la société. L’intimée a critiqué le rapport Wise parce qu’il ne prenait pas en compte les intérêts, que le rapport Dunham voyait comme des liquidités redondantes qui pouvaient servir à rembourser les prêts des actionnaires de 2 millions $. Le rapport Dunham normalisait les intérêts débiteurs sur les prêts en comparant les ratios d’endettement à court terme de Thompson à ceux d’autres compagnies de camionnage. Cela avait pour effet global, dans le rapport Dunham, d’augmenter de 380 000 $ la JVM de 701.
+[24] Le rapport Dunham corrigeait aussi les bénéfices prévisibles pour tenir compte de la rémunération excessive des dirigeants, ce qui augmentait de 330 000 $ la JVM de 701. Il arrivait à cette conclusion en comparant les salaires à ceux d’autres dirigeants d’après une enquête sur les camionneurs publiée en 2002, et intitulée « Executives and Middle Management, Greater Toronto Area (GTA) Salaries Guide » (Guide de la rémunération des dirigeants et des cadres intermédiaires de la région du grand Toronto (RGT)). M. Dunham commençait avec les salaires des dirigeants du 90e centile indiqués dans l’enquête, rajustés pour tenir compte de l’inflation, puis leur appliquait une réduction de 78 p. 100 pour tenir compte des écarts généraux de rémunérations entre Toronto et Windsor.
+[25] L’appelante a fait valoir que le rapport Dunham laissait de côté la nature de l’entreprise en particulier, et celle de l’industrie du transport d’urgence en général, et que son auteur ne s’était pas informé, auprès de l’équipe de direction de Thompson, des raisons pour lesquelles les prêts des actionnaires, les taux d’intérêt et les lignes de conduite en matière de dividendes étaient structurés de cette manière. Le rapport Wise analysait en tant que lignes directrices les salaires des dirigeants de sociétés ouvertes, pour conclure que le régime de rémunération de Thompson était acceptable. Par conséquent, aucun ajustement n’était fait. L’intimée a qualifié d’inopportun le recours aux données relatives aux sociétés ouvertes, parce que ces sociétés affichaient toutes des chiffres d’affaires bien supérieurs à celui de Thompson, dans un rapport de un à dix.
+[26] Chacun de ces rapports employait aussi des taux de capitalisation différents. Un taux de capitalisation rend compte des risques globaux et du taux de rendement inhérent à un investissement donné, et il compare les risques que comporte un investissement dans une société fermée avec l’achat de titres d’une société ouverte. L’idée est d’obtenir une prédiction des bénéfices prévisibles futurs. Le multiplicateur est l’inverse du taux de capitalisation.
+[27] Le taux de capitalisation utilisé dans le rapport Dunham était 19,7 p. 100, et le multiplicateur était 5,08. Le rapport Wise appliquait deux taux de capitalisation différents pour chacune des sociétés d’exploitation, 890 et 123, pour rendre compte des différences intrinsèques entre l’investissement dans le contexte canadien et l’investissement dans le contexte américain. Le rapport Wise, après son analyse des facteurs internes et externes, concluait que le taux de capitalisation se situait entre 24,4 p. 100 et 27 p. 100, avec un pourcentage médian de 25,7 p. 100, ce qui donnait par conséquent, à la date d’évaluation, un multiplicateur se situant entre 3,7 et 4,1, à la fois pour 890 et pour 123. Appliquant un multiplicateur de 3,7 à 4,1 aux bénéfices prévisibles de 890 (1 465 000 $) et aux bénéfices prévisibles de 123 (292 000 $), le rapport Wise, à la date d’évaluation, situait entre 5 420 000 $ et 6 010 000 $ la JVM globale de 890, et entre 1 080 000 $US et 1 200 000 $US la JVM globale de 123. Le rapport Wise prenait alors, pour chaque société d’exploitation, un pourcentage de la valeur globale, comme il suit :
+intérêt de 701 dans 890 ‑ 50 p. 100 = 2 710 000 $ à 3 005 000 $;
+intérêt de 701 dans 123 ‑ 33 1/3 % = 360 000 $US à 400 000 $US.
+[28] Les principales différences entre les taux de capitalisation employés dans les deux rapports se rapportent aux trois facteurs appliqués pour déterminer le taux de rendement requis par un acheteur théorique : prime afférente à la taille de l’entreprise, prime de risque propre à l’entreprise et rajustement du taux de croissance. Les composantes restantes du taux de constitution suivaient les méthodes habituelles d’évaluation, sauf de petites différences entre les rapports. La prime afférente à la taille, c’est‑à‑dire le rendement additionnel qu’un investisseur pourrait exiger en compensation du risque accru que comporte un investissement dans une société de petite taille, était de 7 p. 100 dans le rapport Wise, contre 3 p. 100 dans le rapport Dunham. Le rapport Dunham a choisi 3 p. 100 après analyse de sociétés de camionnage similaires, où il était pris note de leurs bénéfices prévisibles ainsi que de données tirées des documents de référence de 2001 d’Ibbotson [Ibbotson Associates, Stocks, Bonds, Bills and Inflation: Valuation Edition 2001 Yearbook (Ibbotson, 2001), pages 109‑117]. La prime afférente à la taille de l’entreprise rend compte des difficultés que connaissent les petites sociétés, contrairement aux sociétés cotées en bourse, au moment d’accéder à du capital et de se mesurer à la concurrence sur le marché. Puisque Thompson bénéficiait d’un financement acceptable grâce aux prêts de ses actionnaires, et parce qu’un comptage double ou un chevauchement peut se produire entre le facteur de la prime afférente à la taille et le facteur de la prime de risque propre à l’entreprise, M. Dunham a choisi et appliqué un facteur prudent de 3 p. 100. M. Dorweiler a témoigné que l’emploi du pourcentage de 3 p. 100 par M. Dunham pouvait s’expliquer en raison de l’emploi erroné de l’univers des sociétés à très faible capitalisation, univers qui, selon la documentation, agrège les actions des déciles 9 et 10 du groupe [Ibbotson Associates, page 97]. Les sociétés à très faible capitalisation des déciles 9 et 10 présentent une fourchette allant de 2,62 à 3,01 (Ibbotson Associates, pages 117, 123). Le rapport Wise utilisait les documents de référence de 1999 d’Ibbotson, assortis de tableaux datés du 20 septembre 1998, qui font référence au risque accru et à la forte volatilité des actions de petites sociétés à la Bourse de New York. Les documents Ibbotson répartissaient en deux autres groupes, 10A et 10B, le groupe le plus petit, le 10e décile. Le groupe 10B représentait les sociétés les plus petites, celles dont la capitalisation est inférieure à 48 millions $ et dont la prime afférente à la taille était de 8,42 p. 100. Le rapport Wise a retenu, pour la prime afférente à la taille, ce qu’il croyait être un pourcentage conservateur de 7 p. 100, afin d’éviter ce qui lui semblait être un examen rétrospectif dans l’utilisation des documents de référence de 2001 d’Ibbotson.
+[29] Les experts ont chacun expliqué comment et pourquoi ils n’avaient pas employé les mêmes raisonnements pour arriver aux risques propres à l’entreprise. Le rapport Dunham appliquait un facteur de 8 p. 100 au taux de rendement exigé par un acheteur théorique, alors que le rapport Wise utilisait 15 p. 100 pour 890 et 12,28 p. 100 pour 123. L’intimée a fait valoir que l’analyse du rapport Wise surestimait ou comptait deux fois les risques propres à l’industrie, les risques financiers et les risques liés à la convention collective des TCA. S’agissant de 890, le rapport Wise ajoutait 3 p. 100 de prime en raison du niveau élevé de l’endettement courant de 890, et donc en raison du faible ratio d’endettement à court terme de cette société, tout en déduisant 2,34 p. 100 du risque présenté par la société 123, parce qu’elle affichait un meilleur coefficient de liquidité. Contrairement au rapport Wise, M. Dunham ne voyait aucun risque financier particulier pour 890. Chacun voyait différemment les prêts des actionnaires. M. Dunham considérait que ces prêts étaient assimilables à des capitaux propres qui ne posaient aucun risque financier pour la société, tandis que M. Wise acceptait l’idée des comptables de Thompson de classer ces prêts comme passif à court terme.
+[30] Le rapport Wise ajoutait aussi une prime de risque de 1,5 p. 100 à 890 en raison des coûts accrus résultant des négociations de la convention des TCA. L’intimée a fait valoir que cela constituait, de la part des experts de l’appelante, une autre double imputation, parce qu’ils avaient déjà appliqué la somme de 79 000 $ par année au cours des années suivantes et réduit les bénéfices prévisibles de Thompson pour tenir compte de l’accroissement anticipé des coûts par suite de la convention des TCA. En ajoutant à 890 une autre prime de 1,5 p. 100, on réduisait la valeur de cette société de plus de 300 000 $. Pour déterminer les risques propres à la société, le rapport Wise considérait divers facteurs internes et externes qui se répercutaient sur Thompson, par exemple l’importance accordée au contrat conclu avec GM, outre sa clause d’annulation moyennant préavis de 30 jours, les fluctuations du cours des changes, l’expérience de la direction, les tendances de l’industrie, la concurrence et le caractère cyclique de l’industrie.
+[31] S’agissant du taux de croissance, le rapport Dunham combinait le chiffre d’affaires de 890 et celui de 123, convertissait en dollars canadiens le montant exprimé en dollars américains, puis comparait le taux de croissance annuel et le taux de croissance annuel composé, de la fin de l’exercice 1995 à la fin de l’exercice 1999, avec celui d’un groupe d’entreprises égales de son secteur, d’après une étude S & P du secteur datée du 28 janvier 1999. Le rapport concluait que les activités de transport de Thompson avaient historiquement connu un taux de croissance plus élevé par rapport aux données globales de l’industrie du camionnage. Une décote pour taux de croissance durable de 4 p. 100 était donc appliquée au taux de rendement. Le rapport Wise retenait un taux de croissance plus modeste de 2 p. 100.
+[32] Il y avait aussi d’importantes différences dans la manière dont les deux rapports considéraient la décote de minoritaire et la décote d’illiquidité. La décote de minoritaire sera appliquée selon que l’exigeront les circonstances pour rendre compte du fait qu’un actionnaire minoritaire n’a aucun pouvoir de contrôle dans une société contrairement à un actionnaire majoritaire. Le rapport Dunham n’appliquait pas une décote de minoritaire pour l’intérêt de 701 dans 890 et dans 123, tandis que le rapport Wise appliquait une décote de 15 p. 100 pour absence d’un pouvoir de contrôle. Dans le cas de 890, même si 701 contrôlait 50 p. 100 du capital de 890, M. Wise faisait état de plusieurs autorités militant en faveur d’une décote lorsqu’il y a répartition des actions en deux moitiés. M. Dunham a rejeté l’application d’une décote parce que, à son avis, une décote de minoritaire n’est justifiée que dans les cas où l’actionnaire a une participation inférieure à 50 p. 100. Selon M. Dunham, une telle décote ne s’accordait pas avec d’autres autorités pour qui la décote à appliquer dans l’évaluation d’une participation de 50 p. 100 devrait être faible, voire nulle. En outre, la décote appliquée par l’appelante faisait abstraction de l’aptitude de 701 à bloquer les opérations stratégiques sur le capital, l’un des facteurs mêmes dont M. Wise ne tenait pas compte ici, mais qui était mentionné dans une monographie dont il était l’auteur.
+[33] S’agissant de 123, le rapport Wise appliquait également une décote de minoritaire de 15 p. 100 puisque l’intérêt de 701 dans 123 était manifestement un intérêt minoritaire de 33 1/3 p. 100. Une autre raison pour laquelle M. Dunham a refusé d’appliquer une décote de minoritaire pour 123 était qu’il considérait 890 et 123 comme une seule entreprise, c’est‑à‑dire que, selon lui, Thompson était une entité globale, et, à cause de cela, un acheteur théorique n’achèterait pas uniquement la participation de 701 dans 890. Par conséquent, le marché de l’acheteur spécial neutraliserait toute décote appliquée pour absence d’un pouvoir de contrôle. M. Dunham considérait que les deux autres actionnaires de 123 représentaient, pour la participation de un tiers détenue par 701 dans 123, un marché interne qui paierait la pleine valeur proportionnelle.
+[34] Les deux rapports appliquaient aussi des décotes d’illiquidité très différentes. Cette décote représente le coût de la vente des intérêts de 701 dans Thompson. Elle est appliquée pour compenser l’absence de négociabilité que comporte l’achat d’une société fermée, par rapport à l’achat des actions d’une société ouverte. Il faut généralement davantage de temps à une société fermée pour conclure une vente et recevoir des liquidités. M. Dunham a accordé une décote d’illiquidité de 3 p. 100, en se fondant sur la taille de la participation, sur le groupe d’acheteurs potentiels, sur la taille des dividendes, sur les dispositions restrictives en matière de cession, sur les perspectives de souscription publique et sur les coûts de transaction associés à la vente. Le rapport Dunham considérait que l’horizon de l’investissement à long terme de Thompson, combiné à un flux stable de dividendes, réduisait la décote d’illiquidité. M. Dorweiler considérait que cette décote de 3 p. 100 n’engloberait que les frais de transaction et les commissions de vente qui découleraient d’une vente.
+[35] Le rapport Wise appliquait quatre décotes d’illiquidité distinctes : 10 p. 100 pour chacune des sociétés 890 et 123, dans le calcul du taux de capitalisation des bénéfices pour chaque société d’exploitation, puis, s’agissant des intérêts de 701 dans chacune des sociétés, une nouvelle décote de 20 p. 100 pour 890 et une autre de 25 p. 100 pour 123. Ces décotes se justifiaient par le fait que, quant aux sociétés d’exploitation, une décote de 10 p. 100 s’imposait puisqu’il s’agissait de la vente d’une société fermée. Quant à l’entreprise globale, une autre décote était appliquée pour rendre compte de la difficulté de vendre une participation de 50 p. 100. La décote d’illiquidité de 123 est encore plus élevée, pour tenir compte du risque accru et de la difficulté que comporte la vente d’une participation se chiffrant à un tiers. L’intimée a fait valoir que l’approche adoptée par l’appelante entraînait une double imputation, à la fois de la décote d’illiquidité et de la décote de minoritaire, une fois au moment de chiffrer la valeur globale de Thompson, et une autre au moment de chiffrer la part proportionnelle de 701 dans Thompson.
+[36] La dernière grande différence que présentent ces rapports est l’application, par le rapport Wise, d’une décote dont l’effet est de réduire la JVM de 701 au titre des obligations fiscales intégrées ou incorporées. Ce passif éventuel est une question controversée parmi les spécialistes de l’évaluation et au sein de l’ARC. Le rapport Wise estimait à 1 621 746 $ le gain en capital imposable au moment de la disposition, par 701, de ses intérêts dans 890 et 123. Le taux d’imposition était alors réduit de moitié (51,29 % x 50 %), c’est‑à‑dire fixé à 25,65 p. 100 pour tenir compte des impondérables, ce qui donnait, pour une disposition théorique, une obligation fiscale estimative de 416 000 $ pour gain en capital. Le rapport Wise déterminait alors le taux personnel d’imposition de Marjorie Zeller et, relevant que le compte de dividendes en capital était nul à la date d’évaluation, le taux personnel d’imposition était réduit de 50 p. 100 (33,7 % x 50 %), c’est‑à‑dire fixé à 16,87 p. 100, pour encore une fois tenir compte des impondérables. Cela donnait, pour le dividende, une obligation fiscale personnelle estimative de 243 670 $.
+[37] Finalement, le rapport Wise calculait l’IMRTD en tant qu’actif éventuel à la suite de cette distribution théorique de dividendes par 701. Une décote de 50 p. 100 était appliquée au taux estimatif d’IMRTD de 26,67 p. 100. Le solde d’ouverture de l’IMRTD était de 51 619 $. L’IMRTD réduisait de 242 000 $ l’obligation fiscale de 701. Selon le rapport Wise, l’incidence finale de l’impôt intégré sur les gains en capital, de la charge fiscale sur la distribution et de l’IMRTD est une réduction de 417 670 $ de la JVM de 701. L’intimée n’a pas considéré qu’une décote serait justifiée ici parce qu’un acheteur et un vendeur prudents emploieraient l’une de plusieurs options existantes de planification fiscale pour reporter ou éviter le paiement des impôts éventuels intégrés sur les gains en capital.
+Analyse
+[38] Le calcul de la JVM, bien que fondé sur des avis d’experts, est une question de fait qu’il appartient finalement à la Cour de trancher. Il est amplement reconnu dans la jurisprudence que, en tant que juge des faits, je ne suis pas tenue d’accepter le témoignage de tel ou tel témoin expert, ou d’accepter le rapport d’un expert plutôt que celui d’un autre. J’ai toute latitude de n’accepter aucun des deux rapports dans son intégralité, mais d’accepter ce que chacun d’eux renferme de meilleur et de tirer mes propres conclusions. Je dois effectuer une analyse du témoignage de chacun des experts et de leurs conclusions respectives pour être en mesure de déterminer la valeur des actions de 701 au 20 octobre 1998. Examinant le rôle d’un expert dans les appels en matière d’évaluation, le juge en chef Bowman, dans la décision Hallatt et al. v. The Queen, 2001 DTC 128, au paragraphe 43, citait des propos tenus par le juge Robertson :
+Dans des causes dans lesquelles la détermination de la valeur comporte des questions de fait, de droit et d’opinion ‑ par exemple dans des causes en matière de recherche scientifique comme Northwest Hydraulic Consultants Limited c. La Reine, C.C.I., no 97‑531(IT)G, 1er mai 1998 (98 DTC 1839) ‑, cela devient encore plus complexe. Il importe de reconnaître en quoi consiste le rôle de l’expert. Dans l’affaire RIS‑Christie Ltd c. La Reine, C.A.F., no A‑710‑96, 21 décembre 1998 (99 DTC 5087), le juge d’appel Robertson a décrit comme suit le rôle de l’expert, à la page 7 (DTC : à la page 5089) :
+(11) À titre préliminaire, les parties soulèvent la question du rôle qu’il convient de reconnaître aux experts dans l’interprétation des dispositions de la Loi relatives aux recherches scientifiques. Vu la conclusion de M. Razaqpur que la possibilité de répéter l’expérience est un attribut essentiel de la recherche scientifique, il est nécessaire d’éclaircir ce point.
+(12) La question de savoir en quoi consistent les recherches scientifiques au regard de la Loi est une question de droit ou une question mixte de droit et de fait, à trancher par la Cour canadienne de l’impôt, et non par les experts cités comme témoins, contrairement à ce que, trop souvent, pensent les avocats des contribuables comme du ministre. Un expert peut aider le juge à jauger les preuves et témoignages de nature technique et peut chercher à le convaincre que les recherches poursuivies n’ont pas abouti ou ne pourraient aboutir à une avancée technologique. Mais, somme toute, son rôle se borne à mettre à la disposition du juge des verres correcteurs à travers lesquels celui‑ci peut saisir les données techniques avant de les analyser et évaluer. Sans doute, l’expert cité par une partie cherchera à faire en sorte que ses spécifications focales soient adoptées par la Cour. Cependant, il est loisible au juge de première instance de préférer une ordonnance à une autre. [Non souligné dans l’original.]
+[39] Voilà résumé le juste rôle du témoin expert. Cependant, il importe de se rappeler que, par sa nature même, l’évaluation n’est pas une science exacte et que les experts peuvent souvent être inclinés, même involontairement, à prendre la défense de la partie qui leur demande de rédiger le rapport. Dans la décision Western Securities Limited v. the Queen, 97 DTC 977, le juge en chef Bowman écrivait, à la page 979 :
+Un autre problème se pose dans les évaluations de ce genre. En général, les deux parties font appel à des témoins experts. Dans de nombreux cas, ces témoins ne divergent pas sur les grands principes, encore qu’ils puissent à l’occasion être en désaccord sur l’utilisation optimale du bien qui est évalué. La principale différence réside en général dans le choix des biens comparables utilisés et dans les rajustements positifs ou négatifs à apporter à tel ou tel d’entre eux, en fonction de facteurs tels que l’emplacement, le moment de la vente ou d’autres caractéristiques physiques du bien. Il arrive souvent que le juge établisse une valeur qui se situera quelque part entre les positions antagonistes des experts, non par désir de rendre un jugement de Salomon, mais parce qu’il sait que les positions adoptées par les experts correspondent aux pôles extrêmes de la valeur. Il existe un risque que les experts jouent, en toute bonne foi, le rôle de défenseurs et que leurs positions fassent obstacle à la concertation. C’est pourquoi un arbitre impartial doit souvent conclure qu’il n’est pas sage d’adopter entièrement la position de l’un ou de l’autre et qu’il est probable que la juste valeur – j’hésite à utiliser des expressions telles que « valeur exacte » ou « valeur véritable » dans le domaine nécessairement imprécis qu’est l’évaluation – se trouve quelque part entre les deux extrêmes. [Non souligné dans l’original.]
+C’est ce point entre les évaluations des deux experts, à savoir 2,2 millions $ et 6 389 000 $, que je dois établir comme le prix le plus élevé, pour les actions de 701, que des vendeurs et acheteurs disposés et informés, négociant librement, et sans lien de dépendance, sur le marché ouvert, auraient arrêté le 20 octobre 1998. Dans la mesure où il n’y a aucune obligation d’acheter ou de vendre, il s’agit là de la définition généralement reconnue de la JVM.
+[40] Dans l’examen des deux rapports d’expert, les évaluations effectives attribuées par chacun des rapports aux actions sont accessoires au raisonnement employé par les deux rapports pour arriver à leurs évaluations respectives.
+Bénéfices prévisibles
+[41] La première étape de la méthode adoptée dans les deux rapports d’expert consistait à déterminer les bénéfices prévisibles après impôt que la société était en mesure de générer, après prise en compte des bénéfices nets exceptionnels et sans lien de dépendance, ainsi que des postes de dépenses. Le rapport de M. Dunham établissait les bénéfices prévisibles de Thompson à un niveau beaucoup plus élevé que le rapport Wise, compte tenu principalement de son choix d’accorder un poids égal aux bénéfices de chacun des exercices, mai 1997 à mai 1999, les exercices utilisés pour établir les bénéfices prévisibles futurs, les ajustements apportés pour tenir compte des versements d’intérêt sur les prêts des actionnaires, et les ajustements apportés par M. Dunham aux salaires des dirigeants, qu’ils jugeaient excessifs. L’inclusion, dans le rapport Dunham, de l’exercice 1999 signifiait que l’on s’était servi de sept mois de renseignements postérieurs à la date d’évaluation. L’appelante a critiqué le rapport Dunham, qui se fondait sur des données postérieures à la date d’évaluation, mais l’intimée a exprimé la même critique à l’endroit du rapport Wise, pour la même raison, puisque le rapport Wise s’était servi des données suivantes, postérieures à la date d’évaluation : les données Ibbotson tirées d’une étude de 2001, qui concernaient la prime afférente à la taille de l’entreprise, les données boursières de l’ensemble de l’année 1998, les salaires comparatifs de l’industrie du camionnage jusqu’en 1999, enfin l’accroissement des coûts de la main‑d’œuvre par suite de la nouvelle convention des TCA, dont la négociation ne prit fin qu’en novembre 1998. L’appelante s’est fondée sur plusieurs précédents pour justifier son utilisation de telles données. [Allred Estate v. Canada (Minister of National Revenue ‑ M.N.R.), 86 DTC 1479), Debora v. Debora, [2004] O.J. no 4826, décision confirmée : [2006] O.J. no 4826, Ross v. Ross, [2006] O.J. no 4916].
+[42] La position générale est que l’examen rétrospectif n’est pas admissible, si ce n’est pour vérifier la légitimité des hypothèses énoncées par les évaluateurs. Le juge Rip, alors juge de la Cour, écrivait ce qui suit, au paragraphe 54 de la décision McClintock c. Canada, 2003 CCI 259 :
+[…] Tout d’abord, il appartient au juge d’exercer son pouvoir discrétionnaire pour décider, d’après les faits propres à un appel, s’il convient de procéder à un examen rétrospectif en vue de déterminer si la supposée valeur d’un bien est juste ou afin d’en fixer la valeur. Cela est particulièrement vrai lorsqu’il n’y a pas eu de ventes de biens comparables immédiatement avant la date d’évaluation.
+[43] Chacun des rapports se fonde sur des données postérieures à la date d’évaluation, mais je crois que l’emploi, par M. Dunham, de l’exercice 1999 pour le calcul des bénéfices prévisibles va clairement à l’encontre de la règle générale prohibant l’examen rétrospectif, et cela parce que M. Dunham a utilisé les chiffres réels de revenu de la période postérieure à la date d’évaluation. De manière générale, on ne doit pas recourir à un examen rétrospectif dans des évaluations de marché théorique, sauf dans des cas très restreints. L’utilisation de cette information a entraîné une augmentation notable d’environ 760 000 $ de la JVM de 701. Le rapport Wise s’est effectivement fondé lui aussi sur des données postérieures à la date d’évaluation, mais il l’a fait de manière prudente et restreinte. M. Dunham a critiqué la prise en compte, dans le rapport Wise, de l’exercice 1996, au motif qu’il ne s’agissait pas d’un exercice comparable utile parce que Thompson était encore en croissance et que cette entreprise n’était donc pas en 1999 celle qu’elle était en 1996. Cependant, l’information utilisée par M. Dunham au cours des sept mois postérieurs au 20 octobre 1998 n’aurait pas été accessible à un acheteur à cette date. Le rapport Wise aurait pu, et sans doute aurait dû, accorder moins de poids à 1996 par rapport à 1997 et 1998, mais je suis moins encline à accepter l’utilisation par M. Dunham de l’exercice 1999 dans son analyse. Le fait que le chiffre d’affaires de Thompson ait connu une hausse durant l’exercice 1996, alors que, en 1998, à cause de la grève de 57 jours chez GM, il a diminué, n’invalide pas l’emploi des bénéfices de 1996 pour le calcul des bénéfices prévisibles. Je crois donc que les années qui devraient servir à établir les bénéfices prévisibles sont les exercices 1996, 1997 et 1998 du rapport Wise.
+[44] S’agissant des bénéfices prévisibles, le rapport Dunham considérait aussi que l’intérêt de 10 p. 100 payé sur les prêts des actionnaires était excessif, et le rapport Dunham a donc apporté des ajustements à ses calculs. L’intimée a fait valoir que ces paiements d’intérêts étaient l’un des mécanismes employés par les actionnaires pour tirer des sommes excessives de la société. Le rapport Wise n’a pas fait un ajustement semblable au titre des intérêts débiteurs. Les administrateurs, y compris Douglas Zeller, ont témoigné que la politique applicable aux prêts des actionnaires avait été adoptée dès la formation de la société et que cette politique avait pour objet de limiter l’exposition possible au risque, ainsi que les litiges propres à ce service créneau de l’industrie du camionnage. Les risques de poursuites judiciaires qui pouvaient découler d’accidents de la route impliquant des camions d’intermédiaires partout dans le pays étaient très réels, et les risques de responsabilité augmentaient notablement dans le fret intercompagnies assuré par l’entremise de camionneurs tiers. Les bénéfices réinvestis étaient protégés grâce à cette pratique, et la société était en mesure de se financer grâce aux prêts des actionnaires. C’était là une décision commerciale prise par des gens d’affaires expérimentés, qui avaient une connaissance des réalités de l’industrie du camionnage rapide. M. Ouellette a expliqué que le taux d’intérêt était fondamentalement le même que celui d’une marge de crédit d’exploitation obtenue auprès d’une banque.
+[45] En outre, selon la preuve, une bonne partie de l’information de Thompson, par exemple celle concernant les barèmes milliaires, était si sensible que les dirigeants de la société ne souhaitaient pas communiquer ces données protégées à une banque pour qu’elle finance ses opérations. Ce point était reflété dans les inquiétudes de M. Ouellette, causées par la connaissance intime qu’avait Douglas Zeller de la société Thompson lorsqu’il avait quitté la société pour former Genesis Express. J’accepte le témoignage de M. Ouellette portant sur les préoccupations de sécurité, et j’admets que ces préoccupations ont joué un rôle important dans la décision des dirigeants de préférer les prêts d’actionnaires pour financer les opérations de la société, plutôt que des prêts bancaires et des marges de crédit. La preuve confirme qu’il s’agissait de prêts authentiques, qui étaient soumis à un taux d’intérêt raisonnable. En fait, comme l’a dit M. Dunham, la suppression de tels prêts entraînerait une crise de liquidité qui elle‑même conduirait à des difficultés opérationnelles immédiates, par exemple pour le paiement des salaires des intermédiaires, du moins en attendant que soient payées les sommes à recevoir de GM. Le rapport Dunham a normalisé ces intérêts débiteurs en comparant les ratios d’endettement à court terme de Thompson avec ceux d’autres sociétés de camionnage. L’effet global de la normalisation effectuée par le rapport Dunham a été d’augmenter de 380 000 $ la JVM de 701. Le propre argument de l’intimée, selon lequel le maintien de ces prêts d’actionnaires signifiait un ratio d’endettement à court terme qui serait comparable à ceux d’autres sociétés de camionnage, conduit à la conclusion que les intérêts débiteurs afférents aux prêts des actionnaires se situent dans des limites raisonnables.
+[46] Je crois que M. Dunham aurait dû parler directement avec les dirigeants et que, s’il l’avait fait, il se serait fait une meilleure idée des prêts en question, pour constater qu’ils étaient requis à des fins opérationnelles authentiques, qu’il ne s’agissait pas d’une dépense discrétionnaire et qu’ils avaient été jugés nécessaires dès le départ en raison de l’expérience que la société avait acquise dans l’industrie du transport rapide. En raison de la nature même de cette activité, je crois qu’un acheteur potentiel examinerait très attentivement les choix et méthodes de financement que cette société avait mis en place et qu’il aurait toutes les raisons d’adopter et de suivre ces pratiques bien établies, qui avaient donné de bons résultats pour cette société. Je n’autorise donc aucun redressement des intérêts sur les prêts des actionnaires comme M. Dunham l’a fait dans ses calculs.
+[47] Le dernier facteur considéré dans les deux rapports pour le calcul des bénéfices prévisibles avait trait à la rémunération des dirigeants, rémunération que le rapport Dunham estimait excessive. La rémunération des dirigeants de Thompson comprenait un salaire de base et un boni représentant 8 p. 100 des bénéfices avant impôts, pour un revenu global d’environ 230 000 $ à 240 000 $ par année. À cela s’ajoutaient encore 6 p. 100 des bénéfices avant impôts à titre de boni pour les employés non cadres. Le rapport Dunham critiquait le mode de rémunération parce qu’il n’était pas soumis à des négociations sans lien de dépendance ni n’était en rapport avec les normes de l’industrie. Il a normalisé les salaires des dirigeants d’après les niveaux du marché, en se servant d’une étude de 2002 de la Ontario Truckers Association intitulée « Executives and Middle Management, Greater Toronto Area (GTA) Salaries Guide » (Guide de la rémunération des dirigeants et des cadres intermédiaires de la région du grand Toronto (RGT)). M. Dunham a rajusté les données pour tenir compte de l’inflation afin d’arriver à des salaires pour les exercices qu’il avait choisis et il a aussi appliqué un facteur de 78 p. 100 aux salaires en question, afin de tenir compte des écarts de gains entre Windsor et Toronto (la ville considérée dans l’étude). L’appelante a critiqué l’emploi de données tirées de cette publication postérieure à la date d’évaluation, encore que, comme l’a noté M. Dunham, cette même technique avait été approuvée par M. Wise dans sa publication « Valuewise » d’avril 2006. M. Dorweiler a comparé les salaires aux données existantes, en consultant les documents déposés à la Securities and Exchange Commission par les sociétés de camionnage cotées en bourse dont le chiffre d’affaires dépassait 100 millions $. Naturellement, il est toujours préférable d’utiliser des données comparables de sociétés se trouvant dans une situation analogue. L’intimée a fait observer que les sociétés utilisées dans la comparaison faite par M. Dorweiler étaient dans certains cas 15 fois plus importantes si l’on considérait les bénéfices.
+[48] Comment dois‑je donc interpréter tout cela pour savoir quelle position je devrais adopter? D’une part, M. Dunham s’est servi d’une technique, approuvée par M. Wise, consistant à prendre les meilleures données disponibles et à remonter jusqu’à la date d’évaluation en procédant aux ajustements requis par l’inflation et autres facteurs. Cependant, je ne crois pas que cette méthode puisse jamais être totalement exacte dans tous les cas parce qu’elle est arbitraire et qu’elle requiert un examen rétrospectif. Il s’agissait simplement de la meilleure technique disponible dont un expert croyait qu’elle l’aiderait à arriver à la juste mesure, s’agissant de ce facteur qu’est la rémunération des dirigeants. D’après moi, pour ce qui concerne les transactions comparables utilisées dans le rapport Wise, c’est une approche qui ne convient guère parce que les sociétés ouvertes comparables affichent toutes un chiffre d’affaires beaucoup plus élevé que celui de Thompson. Cependant, je crois que, si M. Dunham s’était entretenu avec les dirigeants, il aurait intégré, ou aurait dû intégrer, un autre ajustement dans son analyse pour refléter la réalité commerciale de cette société. Un témoin a dit que c’était une entreprise « crise cardiaque ». La méthode qui fonctionnait pour obtenir les heures et le dévouement d’un employé était essentiellement la prime de rendement. En fait, si je compare les feuillets T4 et les montants des bonis, dans les onglets 7 et 12 de la pièce A‑1 pour les exercices 1998 à 1999, plus de la moitié de la rémunération des dirigeants se compose de bonis, ce qui confirme le témoignage de M. Ouellette sur l’importance de la composante « bonis » :
+[traduction]
+[…] Si vous deviez payer quelqu’un pour faire votre travail, que feriez‑vous…
+R. Je le ferais bénéficier du même programme dont je bénéficie moi‑même. Comparé à ce qui serait versé dans l’industrie au président de la société, mon salaire est jugé faible. J’appliquerais à cette personne une véritable formule de généreuses commissions, en fonction des bénéfices, comme c’est le cas pour moi.
+Q. La prime de rendement est ce que vous appelez votre commission?
+R. Elle représente les heures que vous faites, le travail du soir, les déplacements, les quatre‑vingts heures par semaine. Elle représente votre travail. On ne veut pas de quelqu’un à qui l’on devra payer un salaire élevé dans un poste de direction, dépourvu de primes de rendement. Vous voulez quelqu’un qui s’occupe de la société comme si c’était la sienne.
+Le profit est un bon stimulant. Les primes de rendement sont un bon stimulant pour la haute direction.
+(Transcription, pages 432‑433.)
+[49] Je fais appel au bon sens, tenant compte de la réalité commerciale de cette industrie telle qu’elle est apparue dans les témoignages, quand je dis que je ne puis tout simplement laisser de côté ces témoignages et accepter l’analyse de M. Dunham. Que dois‑je faire alors? N’étant pas une spécialiste de l’évaluation, mais chargée d’arriver à un chiffre qui soit juste et raisonnable, un chiffre auquel arriverait un acheteur prudent pour attribuer une valeur aux actions de 701 à la date d’évaluation, je crois qu’un acheteur potentiel maintiendrait un régime de rémunération analogue. Par conséquent, j’arrive à la conclusion qu’aucun redressement n’est requis pour la rémunération des dirigeants. Je crois simplement que c’est la ligne de conduite raisonnable à adopter dans les circonstances actuelles, car c’est elle qui représente le mieux la réalité des opérations de Thompson au sein de l’industrie.
+Établissement du taux de capitalisation
+[50] Les deux rapports d’expert se sont fondés sur la méthode d’établissement pour déterminer le taux de capitalisation de Thompson. Partant du taux de capitalisation sans risque, les rapports ont ensuite rendu compte des risques marginaux qu’un investisseur éventuel supporterait. Il s’agissait de la prime générale de risque sur capitaux propres, de la prime au titre de la taille de l’entreprise, de la prime de risque propre à l’industrie et de la prime de risque propre à l’entreprise qui étaient applicables à la date d’évaluation. Puisque le calcul de ces primes n’est pas une science, il y a des écarts entre les deux rapports :
+Taux sans risque
+Prime de risque sur capitaux propres
+Prime liée à la taille de l’entreprise
+Prime de risque propre à l’entreprise
+Rapport Wise
+5,14 % pour 123
+5,38 % pour 890
+5,85 % pour 123
+2,56 % pour 890
+7 % pour 123
+7 % pour 890
+12,28 % pour 123
+15 % pour 890
+Rapport Dunham
+4,85 %
+7,85 %
+3 %
+8 %
+[51] Compte tenu des divers facteurs de risque liés à cet investissement particulier, le rapport Dunham a appliqué un taux de capitalisation de 19,70 p. 100 et un multiplicateur de 5,08. Le rapport Wise a appliqué deux taux de capitalisation différents, pour tenir compte du segment américain représenté par 123, et il a conclu qu’un éventail de taux de capitalisation allant de 24,4 p. 100 à 27 p. 100 (point médian de 25,7 p. 100), assortis de multiplicateurs allant de 3,7 à 4,1, était convenable.
+a) Les taux sans risque
+[52] Le taux sans risque est le rendement qu’un investisseur pourrait obtenir d’un investissement garanti « sans risque ». Pour le taux sans risque, le rapport Dunham a retenu le rendement sur les obligations à 10 ans émises par le gouvernement du Canada, rendement qui était de 4,85 p. 100 en octobre 1998. Le rapport Wise a retenu deux taux sans risque – l’un pour 890 et un autre taux pour 123. Pour 890, le rapport Wise a retenu le taux de rendement des obligations à long terme du gouvernement du Canada, qui était de 5,38 p. 100 à la date d’évaluation. Pour 123, le rapport Wise a adopté le rendement à l’échéance des obligations à long terme des États‑Unis, qui était de 5,14 p. 100 à la date d’évaluation. Je crois qu’il est logique d’appliquer des taux sans risque différents pour 890 et 123. J’adopte donc les chiffres utilisés dans le rapport Wise pour les taux sans risque.
+b) La prime afférente à la taille de l’entreprise
+[53] Le choix et l’application d’une prime liée à la taille de l’entreprise auront une incidence notable sur la valeur globale des actions de 701.
+[54] À la page 12 de son rapport, M. Dunham écrivait ce qui suit à propos de cette prime :
+[traduction] […] Des études à long terme ont également montré que les petites sociétés sont intrinsèquement plus risquées, et une prime liée à la taille de l’entreprise était donc justifiée en 1998 pour tenir compte de cette importante distinction. Le cabinet Ibbotson Associates dit que la prime à long terme liée à la taille en 1998 était de 300 points de base, et nous avons donc ajouté 3 p. 100 à notre modèle d’établissement du taux de capitalisation.
+À la page 35 du rapport Wise, on peut lire ce qui suit :
+[traduction] […] Le rendement additionnel recherché par un investisseur en capitaux propres pour tenir compte de la (petite) taille de l’entreprise concernée. Nous avons retenu le pourcentage de 7 p. 100 pour la prime liée à la taille de l’entreprise.
+[55] L’incidence globale du choix de cette prime par le rapport Dunham, comparativement au rapport Wise, est importante et équivaut globalement à 1 020 000 $ sur la JVM de 701. Les deux rapports s’appuient sur Ibbotson Associates au soutien du choix qu’ils font de la prime. Le rapport Wise se référait explicitement à l’annuaire 2001 d’Ibbotson, dans lequel on pouvait lire que les sociétés les plus petites inscrites à la Bourse de New York, celles du décile « 10B » de la bourse, étaient plus imprévisibles et devaient donc procurer des taux de rendement supérieurs pour attirer d’éventuels investisseurs. La société la plus importante du décile 10A avait une capitalisation boursière de 84 millions $, tandis que la société la plus importante du décile 10B avait une capitalisation boursière de 48 millions $. L’intimée a fait valoir que la prime liée à la taille de l’entreprise, pour les entreprises du décile 10B, était anormale parce que le décile 10B était moins instable que le décile 10A, lequel se compose de sociétés plus importantes que celles du décile 10B. Par conséquent, selon l’intimée, les données manquent de cohérence parce qu’elles montrent une importante prime pour le décile 10B sans réel accroissement du risque (instabilité par rapport au décile 10A). Que l’accroissement du risque des sociétés du décile 10B soit réel ou non, les données de l’annuaire 2001 d’Ibbotson montrent que plus une société est de taille modeste, plus la prime afférente à sa taille diminue. Le tableau 6‑10 de l’annuaire d’Ibbotson montre que la prime liée à la taille de l’entreprise, pour les sociétés du décile 10B, était de 8,42 p. 100. Manifestement, M. Dunham a choisi ce qui, selon moi, est une prime plus raisonnable de 3 p. 100, pour tenir compte de la double imputation possible susceptible de se produire entre cette prime et les autres facteurs de risque. Je crois donc qu’une prime de 5 p. 100 au titre de la taille de l’entreprise est un compromis raisonnable qui reconnaît les difficultés posées par les approches des deux experts.
+c) La prime de risque propre à l’entreprise
+[56] M. Dunham a de nouveau exprimé l’avis que ce facteur empiétait sur celui de la prime afférente à la taille de l’entreprise et qu’il serait donc englobé jusqu’à un certain point dans ce facteur parce que ces facteurs font tous deux ressortir que les petites sociétés ont un moindre accès au capital et doivent se mesurer à une plus forte concurrence de la part des grands groupes. Le rapport Dunham utilise un facteur de 8 p. 100, notamment pour tenir compte de la double imputation possible de ces facteurs. En outre, l’intimée critique le rapport Wise qui selon elle exagère les risques liés à l’industrie qui sont supportés par cette entreprise. La distinction entre la prime afférente à la taille de l’entreprise et la prime de risque propre à l’entreprise n’est pas bien définie. Par exemple, pour calculer la prime de risque propre à l’entreprise, le rapport Wise considère des facteurs tels que la part de marché et la diversification des clients, facteurs qui sont également tributaires de la taille de l’entreprise. Manifestement, une double imputation est susceptible de se produire au moment de l’établissement de telles primes. L’intimée a critiqué le choix que fait le rapport Wise du pourcentage de 15 p. 100 pour 890 et du pourcentage de 12,28 p. 100 pour 123, et cela pour trois motifs : (1) le rapport Wise a ajouté inutilement des données liées au risque alors que les données de 2001 d’Ibbotson montraient que l’industrie du camionnage et de l’automobile était moins risquée que d’autres secteurs de l’économie; (2) l’ajout d’une prime de risque de 1,5 p. 100 pour l’accroissement des coûts de main‑d’œuvre par suite de la convention des TCA; et (3) le rapport Wise a, à tort, ajouté un risque financier à 890. Je crois que certaines de ces critiques sont justifiées et que la prime de risque propre à l’entreprise, indiquée dans le rapport Wise, est donc jusqu’à un certain point exagérée.
+[57] Je souscris à la critique que fait M. Dunham du redressement au titre de la convention collective des TCA, dans le rapport Wise, redressement dont l’effet était de réduire de 300 000 $ la valeur de 890, ce qui représentait près de trois fois le coût réel de la convention des TCA. Les explications données par M. Dorweiler et M. Wise se contredisaient l’une l’autre. Je reconnais aussi que le rapport Wise a ajouté, à tort, un risque financier à 890 en considérant les prêts des actionnaires comme un passif à long terme dans le cas de 123 et comme un passif à court terme dans le cas de 890. Il en a résulté un accroissement apparent du risque pour 890, par rapport à celui de 123, puisque le ratio d’endettement à court terme ne tient compte que du passif à court terme. Durant son contre‑interrogatoire, M. Wise a exprimé l’avis que les prêts des actionnaires étaient un apport de fonds propres structuré comme emprunt garanti. L’intimée a critiqué le témoignage de M. Wise en faisant valoir que M. Wise aurait dû savoir que les actionnaires n’exigeraient jamais le remboursement de ces prêts. Je reconnais que les prêts des actionnaires en ce qui concerne 890 auraient dû être classés comme passif à long terme. Cependant, je crois que, pour cette société en particulier, qui occupait un créneau spécial, celui du transport rapide, contrairement à d’autres segments de l’industrie du camionnage, un risque additionnel propre à l’entreprise doit être pris en compte parce que cette entreprise dépend énormément de son principal client, GM, ainsi que de son groupe d’intermédiaires, un groupe syndiqué.
+[58] Plusieurs facteurs qui existaient à la date d’évaluation doivent être pris en compte : Thompson se préparait au renouvellement de son contrat avec GM, une augmentation était prévisible pour les frais du recours aux intermédiaires par suite des négociations de la convention des TCA, il fallait compter avec les fluctuations du cours des changes, enfin il y avait la décision de National Logistics de lancer ses appels d’offres par Internet. M. Durham a reconnu, en contre‑interrogatoire, que les appels d’offres par Internet avaient modifié la nature du marché, mais, selon lui, ce n’était pas un phénomène qu’il pouvait quantifier. En définitive, je dois me demander si les calculs de M. Dunham attribuent, dans le risque propre à l’entreprise, un poids suffisant aux aspects que je viens d’énumérer. Je dispose de peu d’éléments sur lesquels je puisse me prononcer, si ce n’est pour présumer que, puisqu’il a énuméré ces facteurs dans son rapport, il les a pleinement examinés. Cependant, compte tenu des observations de M. Dunham sur son incapacité de quantifier le facteur des appels d’offres sur Internet, et puisque, je le rappelle, il n’a jamais parlé directement aux dirigeants de la société à propos des facteurs mêmes qui, selon moi, influeraient considérablement sur la prime de risque propre à la société, je vais faire passer à 10 p. 100 la prime de risque, établie par M. Dunham à 8 p. 100.
+d) Les taux de croissance
+[59] Le rapport Dunham a appliqué une décote de 4 p. 100 au taux de rendement pour tenir compte de la croissance future du chiffre d’affaires, tandis que le rapport Wise a appliqué une décote de 2 p. 100. Le rapport Dunham mentionnait que les opérations combinées de 890 et de 123 avaient connu un taux de croissance annuel moyen de 6,45 p. 100, avec un taux de croissance annuel composé de 5,53 p. 100, de la fin de l’exercice 1995 à la fin de l’exercice 1999. Ce rapport faisait observer ensuite que la croissance du groupe d’entreprises égales à Thompson avait été de 3,6 p. 100 durant la décennie 90, selon une étude de S & P sur l’industrie datée du 28 janvier 1999. M. Dunham concluait qu’un taux de croissance de 6,45 p. 100 serait soutenable et que Thompson avait historiquement connu une croissance plus forte que celle de ses principaux concurrents. Puisque le rapport Wise a donné peu d’explications pour justifier son pourcentage, j’accepte l’analyse du rapport Dunham.
+Décote d’illiquidité et décote de minoritaire
+[60] Ces décotes sont appliquées lorsqu’il est nécessaire de procéder à un redressement ou à une décote pour absence d’un pouvoir de contrôle en raison d’une participation minoritaire (décote de minoritaire), et à un redressement pour absence de négociabilité, ainsi que pour les coûts et les délais requis pour mettre l’entreprise en situation d’être vendue sur le marché (décote d’illiquidité). Dans la décision McClintock, précitée, au paragraphe 33, on cite M. Dunham dans la description qu’il donne du concept de négociabilité (ou de liquidité) : [traduction] « la capacité de convertir des biens en argent rapidement, avec des frais d’opération minimaux et un degré de certitude élevé de réaliser le montant prévu de produits nets ».
+[61] M. Dunham a appliqué une décote d’illiquidité de 3 p. 100, prenant en compte la taille de l’intérêt acheté, l’horizon d’investissement à long terme de Thompson, la stabilité de son dividende, l’absence d’une preuve de volatilité vu la stabilité et la croissance de Thompson, enfin le bassin immédiat d’acheteurs, notamment employés et concurrents. M. Dorweiler a critiqué la décote d’illiquidité de 3 p. 100 proposée par M. Dunham parce que, selon lui, cette décote n’engloberait que les frais de transaction et les commissions de vente afférents aux préparatifs de vente d’une société fermée. Le rapport Wise appliquait quatre décotes d’illiquidité distinctes (10 p. 100 pour chacune des sociétés 890 et 123, étant donné qu’il s’agit de la vente d’une société fermée, et une autre décote de 20 p. 100 pour l’intérêt de 701 dans 890, et de 25 p. 100 pour l’intérêt de 701 dans 123), pour rendre compte de la difficulté de vendre en bloc une participation de 50 p. 100 dans le cas de 890 et un intérêt de 33 1/3 p. 100 dans le cas de 123.
+[62] S’agissant de la décote de minoritaire, le rapport Wise appliquait une décote de 15 p. 100 pour 890 et pour 123, tandis que M. Dunham n’appliquait aucune décote. M. Dunham n’appliquait aucune décote pour 890 parce que 701 détenait un intérêt de 50 p. 100 dans 890, intérêt qui, par définition, selon lui, n’est pas un intérêt minoritaire. Il a également refusé d’appliquer une décote à 123 parce que, selon lui, 890 et 123 formaient une seule entité, dans laquelle les deux autres actionnaires de 123 constitueraient un marché interne disposé à payer la pleine valeur proportionnelle de l’intérêt de 33 1/3 p. 100 détenu par 701 dans 123.
+[63] L’intimée a fait valoir que l’analyse du rapport Wise a compté deux fois la décote d’illiquidité et la décote de minoritaire, ou compté certaines des décotes plusieurs fois en raison de l’utilisation des mêmes facteurs dans chaque catégorie. Plus précisément, le rapport Wise utilise deux fois la décote d’illiquidité, une fois lorsqu’il fait l’évaluation globale de Thompson, et une autre fois lorsqu’il fait l’évaluation de la part proportionnelle de 701 dans Thompson. Je souscris à cette critique. L’appelante n’a signalé aucun précédent autorisant l’emploi de deux ensembles de décotes pour illiquidité. Je considère ce facteur comme la principale faille de l’analyse du rapport Wise, encore qu’il puisse y avoir d’autres doubles imputations pour d’autres facteurs. Je n’admets tout simplement pas qu’un acheteur prudent puisse être persuadé d’engager deux fois des frais de commercialisation. Il est tout à fait logique de croire qu’il supportera soit le coût de l’achat de l’entreprise Thompson tout entière, soit le coût de l’achat d’une partie de cette entreprise. Je n’accepte pas l’explication donnée par M. Dorweiler pour justifier l’application de deux ensembles de coûts de transaction.
+[64] Je refuserais donc le deuxième ensemble de décotes d’illiquidité appliqué dans le rapport Wise, c’est‑à‑dire 20 p. 100 pour 890 et 25 p. 100 pour 123. Il me reste la décote d’illiquidité de 3 p. 100 du rapport Dunham et les décotes de 10 p. 100 pour 890 et de 10 p. 100 pour 123 du rapport Wise. Je crois que la décote de 3 p. 100 se situe au bas de la fourchette car cette décote semblerait refléter uniquement les frais réels de transaction et les commissions réelles de vente qui sont nécessaires pour mettre l’entreprise en situation d’être vendue. En réponse à la critique de double imputation possible à l’encontre du rapport Wise, et pour permettre une décote d’illiquidité qui rende compte de coûts et facteurs intrinsèques additionnels, je crois qu’une seule décote de 7 p. 100 devrait être appliquée.
+[65] M. Dunham a invoqué plusieurs autorités au soutien de sa décision de ne pas appliquer une décote de minoritaire dans l’évaluation d’un intérêt de 50 p. 100 [Ian R. Campbell, Canada Valuation Service, feuilles mobiles, volume 1; W. Goodman, « Valuation of a Fifty Percent Shareholding », document présenté à la Cinquième conférence bisannuelle de l’Association canadienne des évaluateurs d’entreprises, tenue à Toronto en octobre 1980, [1981] 7 Journal of Business Valuation, 19]. Selon ces autorités, on ne devrait appliquer aux participations de 50 p. 100 aucune décote, ou alors une décote symbolique. La principale critique de M. Dunham à l’endroit de la décision du rapport Wise d’appliquer une décote de minoritaire vient de ce que le rapport Wise ne tient pas compte de l’aptitude de 701 à bloquer les opérations stratégiques de 890 sur le capital, l’un des facteurs établis dans un mémoire rédigé par M. Wise. C’est là certainement l’un des éléments les plus importants du contrôle, en raison de la protection qu’il offre à un actionnaire. M. Dunham a également critiqué l’emploi, par M. Dorweiler, d’une politique administrative tous usages pour l’application de cette décote.
+[66] Le fait de détenir une participation de 50 p. 100 dans une société n’est manifestement pas la même chose que le fait de détenir une participation de 51 p. 100. Un actionnaire majoritaire contrôlera toujours le point de pourcentage additionnel ou la portion de ce point de pourcentage qui dépasse le chiffre de 50 p. 100. Si je comprends bien les témoignages des deux experts, les décotes de minoritaire sont appliquées pour tenir compte d’une absence de pouvoir de contrôle par rapport à l’actionnaire majoritaire. Il semblerait donc que, logiquement, une décote devrait être appliquée au propriétaire d’une participation de 50 p. 100, même si telle décote devrait être inférieure à la décote applicable à un actionnaire minoritaire détenant moins de 50 p. 100 du capital d’une société. Je prends acte des observations des spécialistes de l’évaluation, mais mes conclusions sont le résultat final de mon analyse des faits et des éléments qui intéressent le présent appel. À l’intérieur de cet ensemble de sociétés, se posaient quotidiennement d’énormes problèmes de contrôle. Les témoignages de tous les intéressés l’ont bien confirmé. Marjorie Zeller, même si elle ne participait jamais aux activités quotidiennes de la société, et même si elle n’avait pas connaissance de ce qui s’y passait, était en mesure d’exercer une influence considérable sur son gendre, Patrick Kennedy, et sur son fils, Douglas Zeller, y compris sur la décision éventuelle de celui‑ci de quitter la société. Ce climat a eu un effet considérable sur M. Ouellette, puisqu’il a mis Marjorie Zeller devant un choix durant l’été de 1998 : soit il acquérait le contrôle de Thompson, soit il quittait la société.
+[67] Officiellement, Marjorie Zeller détenait une participation de 50 p. 100, mais la preuve montre qu’elle avait une forte personnalité puisqu’il lui était possible de diriger à sa guise la plupart des figures masculines peuplant cette industrie traditionnellement dominée par des hommes – et tout cela depuis le confort de son domicile et sans qu’elle eût une connaissance approfondie du mode de fonctionnement de cette activité. Les experts ont pour l’essentiel passé cet aspect sous silence, mais je crois que les faits, tels que je les vois, justifient l’application d’une décote de minoritaire. Je ferais donc mienne la suggestion du rapport Wise, qui préconise une décote de 15 p. 100 pour 123, pour absence d’un pouvoir de contrôle, et une décote moindre de 10 p. 100 pour 890.
+Impôts intégrés sur les gains en capital
+[68] L’appelante prétend que les impôts intégrés sur les gains en capital et le remboursement correspondant de l’IMRTD doivent être l’objet d’une décote, ce qui aurait pour résultat de réduire la JVM de 701. M. Dunham a rejeté toute décote parce que : (1) les impôts en question sont déclenchés au moment de la disposition, mais le postulat sous‑jacent au problème d’évaluation est que l’acheteur de 701 achète 701 pour acquérir une entreprise rentable à perpétuité et non pour la vendre à un moment précis dans l’avenir; (2) l’impôt n’est qu’une possibilité, et un acheteur informé tirerait parti des dispositions de la Loi de l’impôt sur le revenu pour éviter de le déclencher; et (3) l’impôt ne serait déclenché que par la vente de 890 et de 123, non par la vente de 701, l’entreprise visée par l’évaluation.
+[69] L’appelante s’est fondée sur un article rédigé par Dennis Turnbull, un évaluateur principal de l’ARC. Selon lui, l’ARC n’a aucune politique uniforme quant à l’application d’une décote aux impôts latents dans les calculs de JVM, chaque cas devant plutôt être examiné d’après ses propres circonstances. [Dennis Turnbull, Establishing Valuation Policies: National Revenue’s Policy (Edmonton, 4 juin 1999), pièce A‑3, onglet 26]. L’appelante a aussi invoqué le jugement Re Canadian Rocky Mountain Properties Inc., 2006 ABQB 251, pour justifier sa décision d’appliquer une décote au titre des obligations fiscales intégrées. L’intimée m’a renvoyé au jugement américain Estate of Jelke v. Commissioner of Internal Revenue, 89 T.C.M. (CCH) 1397 (auquel il est fait référence dans le jugement Canadian Rocky Mountain), dans lequel la juridiction américaine a jugé qu’une telle décote devrait être fondée sur la preuve indiquant à quel moment naîtrait l’obligation fiscale.
+[70] L’intimée m’a indiqué plusieurs des options que des vendeurs et des acheteurs prudents utiliseraient, en matière de planification fiscale, pour reporter ou éviter le paiement de ces impôts intégrés sur les gains en capital. Cependant, ces arguments ne m’ont pas convaincue. Par exemple, l’intimée a dit qu’[traduction] « il est possible d’éviter l’impôt en question sur les gains en capital en vendant la totalité de 701 plutôt qu’en vendant les intérêts détenus par 701 dans 890 et dans 123 » (page 39 des conclusions écrites de l’intimée). Je ne puis tout simplement pas accepter cette manière de voir, car la valeur de 701 est égale à la valeur des intérêts qu’elle détient dans les actifs sous‑jacents, à savoir 890 et 123. On ne sait donc pas comment l’intimée arrive à la conclusion selon laquelle les gains en capital réalisés sur une vente de 701 pourraient être évités. S’agissant de la deuxième raison donnée par M. Dunham (le fait que l’impôt n’est qu’une possibilité), l’intimée relève qu’un investisseur prudent pourrait tirer avantage de l’article 88 pour structurer la vente d’actions de 890 et de 123 de manière à ne pas déclencher l’impôt sur les gains en capital. Cependant, l’article 88 ne s’applique qu’à la liquidation d’une société canadienne et ne serait pas applicable à 123.
+[71] En conséquence, je souscris à la conclusion du rapport Wise selon laquelle la JVM de 701 devrait être rajustée pour tenir compte de l’impôt intégré sur les gains en capital et du remboursement de l’IMRTD.
+Attribution d’une survaleur à la clause de non‑concurrence
+[72] L’appelante a fait valoir que la valeur d’une clause de non‑concurrence pour Mike Ouellette devrait être prise en compte dans l’évaluation des actions de 701. On a fait valoir que, pour les autres dirigeants de la société, un engagement de non‑concurrence de la part de Marjorie Zeller n’aurait été d’aucune valeur puisqu’elle n’était pas active dans l’entreprise. Cependant, je ne suis pas certaine de souscrire à cette conclusion étant donné l’ascendant considérable qu’elle exerçait sur la société. L’intimée a dit que M. Kennedy était trop inexpérimenté pour constituer un risque important, rendant ainsi inutile un engagement de non‑concurrence de sa part. Je crois que cette affirmation est discutable, au vu de la preuve, mais l’appelante n’a pas prétendu quant à elle qu’un engagement de non‑concurrence de la part de M. Kennedy serait nécessaire.
+[73] M. Dunham n’a attribué aucune valeur dans son rapport aux engagements de non‑concurrence. Dans son témoignage, M. Wise examine les conséquences qui découlent de l’obtention d’engagements de non‑concurrence et le rôle qui serait attribuable à tels engagements, dans la réalisation de la valeur globale ou de la valeur de l’entreprise. Cependant, comme l’a fait observer l’intimée, M. Wise affirmait ensuite qu’un évaluateur n’attribue pas en général une valeur à un engagement de non‑concurrence, mais que l’attribution d’une telle valeur se fait en principe à la faveur de négociations entre les parties. L’intimée a aussi relevé que, en octobre 1998, les attributions de valeurs aux clauses de non‑concurrence n’étaient pas courantes dans les opérations commerciales au Canada. Ce fait ne me dissuaderait pas à lui seul de vouloir attribuer une valeur à un engagement de non‑concurrence, mais j’ai décidé qu’aucune valeur ne sera attribuée à un tel engagement, parce qu’aucune valeur n’a été proposée par l’appelante, et de plus cet argument n’a pas été avancé dans les actes de procédure. Une preuve considérable a été produite concernant la présumée existence d’une offre faite par Mike Ouellette durant l’été de 1998, mais je ne crois pas que cette preuve puisse influer de quelque façon sur ma conclusion. Par conséquent, je ne me prononce pas sur la question de savoir si l’offre de Mike Ouellette était par essence une offre effective.
+Erreur dans le taux d’imposition
+[74] Durant son contre‑interrogatoire, M. Dunham a admis qu’il avait appliqué un taux effectif d’imposition de 41 p. 100 alors qu’il aurait dû appliquer un taux de 43,34 p. 100 en octobre 1998. Cette erreur a eu pour effet d’augmenter de 503 000 $ la JVM de 701 dans le rapport Dunham, ce dont je rendrai compte dans le résumé suivant des redressements :
+Résumé des redressements et conclusion
+Appendice A – JVM de 701
+Capitaux propres en octobre 1998
+515 000
+Ajouter :
+JVM de 123 – Appendice B
+344 918
+Conversion en dollars canadiens, au taux de 1,5461*
+533 277
+Moins : valeur comptable**
+156 456
+376 821
+JVM de 890 – Appendice B
+3 210 371
+Moins : valeur comptable***
+10
+3 210 361
+Capitaux propres rajustés, avant considérations fiscales
+4 102 182 $
+Moins :
+Impôt sur les gains en capital – Appendice F
+690 084
+Ajouter :
+Impôt à recouvrer remboursable au titre de dividendes – Appendice F
+384 573
+Somme pouvant être distribuée aux actionnaires
+3 796 671 $
+Moins :
+Dette fiscale théorique au moment de la distribution aux actionnaires – Appendice F
+402 326
+JVM globale des actions
+3 394 345 $
+* Taux de change selon la Revue de la Banque du Canada, dans le rapport Wise
+** Annexe A‑4 du rapport Wise
+*** Annexe A‑4 du rapport Wise
+Appendice B ‑ JVM de 890 et de 123
+JVM de 890
+Bénéfices prévisibles normalisés – Appendice C
+1 465 120
+Multiplicateur appliqué – Appendice E
+5,28
+JVM de 890
+7 735 834 $
+Prorata de l’intérêt de 50 p. 100
+3 867 917
+Moins :
+Décompte de minoritaire ‑ 10 p. 100 *
+‑386 792
+Décompte d’illiquidité ‑ 7 p. 100 **
+‑270 754
+Prorata de la JVM de 890
+3 210 371 $
+* 0 p. 100 dans le rapport Dunham; 15 p. 100 dans le rapport Wise
+** 3 p. 100 dans le rapport Dunham; 20 p. 100 dans le rapport Wise
+JVM de 123 ($US)
+Bénéfices prévisibles normalisés – Appendice D
+291 565
+Multiplicateur appliqué – Appendice E
+4,55
+JVM de 123
+1 326 621 $
+Prorata de l’intérêt de 33,3 p. 100
+442 202
+Moins :
+Décompte de minoritaire ‑ 15 p. 100 †
+‑66 330
+Décompte d’illiquidité ‑ 7 p. 100 ††
+‑30 954
+Prorata de la JVM de 123 ($US)
+344 918 $
+† 0 p. 100 dans le rapport Dunham; 15 p. 100 dans le rapport Wise
+†† 3 p. 100 dans le rapport Dunham; 25 p. 100 dans le rapport Wise
+Appendice C – Calcul des bénéfices prévisibles de 890
+1998
+1997
+1996
+Bénéfices avant impôt *
+3 149 630
+3 056 702
+2 431 002
+Redressements**
+Perte à la disposition d’immobilisations
+2 471
+904
+Recettes variées
+‑80 027
+‑50 563
+‑46 577
+Perte de change
+‑111 294
+‑168
+1 174
+Dons de bienfaisance
+5 100
+Redressement pour assurance accidents du travail
+‑115 936
+Dépenses accessoires
+‑18 000
+‑21 000
+Salaires attribuables aux ventes
+30 000
+Allocation pour véhicule
+‑8 554
+‑12 000
+Loyer
+‑48 000
+Mauvaises créances
+‑131 000
+‑40 000
+‑22 000
+ISO 9000
+‑11 000
+‑11 000
+Cotisations et honoraires
+13 000
+Frais juridiques
+23 000
+10 000
+Bénéfices rajustés avant impôt, tirés des opérations
+2 716 473
+2 953 888
+2 325 503
+Coefficients de pondération
+1
+1
+1
+Bénéfices indiqués avant impôt – moyenne simple (1996‑1998)
+2 665 288
+Moins :
+Augmentation estimative des dépenses par suite de la convention des TCA***
+79 300
+2 585 988 $
+Moins :
+Impôt fédéral sur le revenu :
+Impôt sur le revenu pour les premiers 200 000 $ @ 13,12 p. 100
+26 240
+Solde @ 29,12 p. 100
+694 800
+Impôt de l’Ontario sur le revenu
+Impôt sur le revenu pour les premiers 200 000 $ @ 9 p. 100
+18 000
+De 200 000 $ à 500 000 $ @ 19,5 p. 100
+58 500
+Solde @ 15,5 p. 100
+323 328
+Bénéfices prévisibles indiqués après impôt pour 890
+1 465 120 $
+* Bénéfices avant impôt : Voir l’annexe B‑3 du rapport Wise.
+** Redressements : Voir l’annexe B‑2 du rapport Wise.
+*** Dépenses entraînées par la convention des TCA : Voir l’annexe B‑6 du rapport Wise
+Appendice D – Calcul des bénéfices prévisibles de 123 ($US)
+1998
+1997
+1996
+Bénéfices avant impôt*
+331 920
+274 764
+561 587
+Redressements**
+Produits divers
+‑43 682
+‑698
+‑2 216
+Perte/gain de change
+276 158
+Salaires attribuables aux ventes
+80 000
+Mauvaises créances
+‑69 000
+‑38 000
+‑18 000
+Frais d’audit et de conseils
+6 000
+Fournitures et frais de bureau
+15 000
+Bénéfices rajustés avant impôt, tirés des opérations
+219 238
+331 066
+823 529
+Coefficients de pondération
+1
+1
+1
+Bénéfices indiqués avant impôt – moyenne simple (1996‑1998)
+457 944 $
+Moins :
+Impôt fédéral sur le revenu :
+Impôt sur les premiers 50 000 $ @ 15 p. 100
+7 500
+De 50 000 $ à 75 000 $ @25 p. 100
+6 250
+De 75 000 $ à 100 000 $ @ 34 p. 100
+8 500
+Solde @ 39 p. 100
+139 598
+Impôt du Michigan***:
+Estimation @ 2,3 p. 100
+4 531
+Bénéfices prévisibles indiqués après impôt pour 123 ($US)
+291 565 $
+* Bénéfices avant impôt : Voir l’annexe C‑3 du rapport Wise.
+** Redressements : Voir l’annexe C‑2 du rapport Wise.
+*** D’après la somme du bénéfice avant impôt du Michigan; voir l’annexe C‑2 du rapport Wise
+Appendice E – Calcul des multiplicateurs
+Multiplicateur pour 890
+Taux sans risque*
+5,38
+Prime de risque sur capitaux propres**
+2,56
+Prime afférente à la taille de l’entreprise***
+5
+Risque propre à l’entreprise et à l’industrie†
+10
+Taux de décote
+22,94
+Moins :
+Croissance annuelle estimative composée‡
+‑4
+Taux de capitalisation
+18,94
+Multiplicateur des bénéfices prévisibles pour 890
+5,28
+* rendement des obligations à 10 ans du gouvernement du Canada, selon le rapport Wise
+** Stocks, Bonds, Bills and Inflation 1999 Yearbook‑Valuation Edition, Ibbotson Associates, selon le rapport Wise
+*** le rapport Wise utilisait 7 p. 100; le rapport Dunham utilisait 3 p. 100
+† Le rapport Dunham utilisait 8 p. 100; le rapport Wise utilisait 15 p. 100
+‡ Selon le rapport Dunham
+Multiplicateur pour 123
+Taux sans risque §
+5,14
+Prime de risque sur capitaux propres¶
+5,85
+Prime afférente à la taille de l’entreprise §§
+5
+Risque propre à l’entreprise et à l’industrie¶¶
+10
+Taux de décote
+25,99
+Moins :
+Croissance annuelle estimative composée
+‑4
+Taux de capitalisation
+21,99
+Multiplicateur des bénéfices prévisibles pour 123
+4,55
+§ Value Line Selection & Opinion, 30 octobre 1998, selon le rapport Wise
+¶ Stocks, Bonds, Bills and Inflation 1999 Yearbook‑Valuation Edition, Ibbotson Associates, selon le rapport Wise
+§§ Le rapport Wise utilisait 7 p. 100; le rapport Dunham utilisait 3 p. 100
+¶¶ Le rapport Dunham utilisait 8 p. 100; le rapport Wise utilisait 12,28 p. 100
+Appendice F – Calcul des gains en capital, de l’IMRTD et de l’impôt théorique
+Gains en capital estimatifs
+123
+890
+Total
+JVM ($CAN)
+533 277
+3 210 371
+3 743 648
+Moins : PBR des investissements
+156 456
+10
+156 466
+Gain en capital théorique
+376 821
+3 210 361
+3 587 182
+Portion non imposable @ 25 p. 100
+‑896 796
+Gain en capital imposable
+2 690 387 $
+Impôt estimatif sur le revenu à 25,65 p. 100
+690 084 $
+Impôt en main remboursable au titre de dividendes
+Solde d’ouverture – 28 février 1998
+51 619
+Ajouter :
+Portion remboursable du gain imposable ‑ 26,67 p. 100 de 2 690 387
+717 526
+Impôt remboursable au titre de dividendes, à recouvrer
+769 145 $
+Impôt remboursable au titre de dividendes, à recouvrer, réduit de 50 p. 100
+384 573 $
+Dette fiscale théorique au moment de la distribution
+Somme disponible pour distribution – Appendice A
+3 796 671
+Moins :
+Capital libéré
+‑2
+Compte de dividendes en capital au 20 octobre 1998
+0
+Portion non imposable du gain en capital au moment de la disposition présumée des investissements
+‑896 796
+Bénéfices réinvestis*
+‑515 0124
+Montant de la distribution assujettie à impôt
+2 384 861 $
+Dette fiscale théorique au moment de la distribution @ 16,87 p. 100**
+402 326 $
+*Annexe A‑4 du rapport Wise; transcription, page 1773
+**33,74 p. 100 (taux personnel d’imposition sur les dividendes), réduit de 50 p. 100
+[75] L’appel est accueilli et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation prenant en compte mes motifs et le résumé des redressements. La question des dépens est remise à plus tard. Les parties ont 60 jours à compter de la date de mes motifs pour s’entendre sur les dépens; si elles ne peuvent pas s’entendre à l’intérieur de ce délai, elles présenteront des conclusions écrites sur la question des dépens, dans les 30 jours qui suivront l’expiration de ce délai initial de 60 jours.
+Signé à Charlottetown (Île‑du‑Prince‑Édouard), ce 30e jour de juillet 2008.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 7e jour de novembre 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE :
+2008 CCI 426
+N° DU DOSSIER DE LA COUR :
+2003‑2892(IT)G
+INTITULÉ :
+Succession de Marjorie Zeller agissant par ses fiduciaires Douglas Zeller et Leon Paroian et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Windsor (Ontario)
+DATES DE L’AUDIENCE :
+Les 27 et 28 février et les 1er et 2 mars 2006, les 23, 24, 25, 26 et 27 octobre 2006, les 26, 27, 28 et 29 mars 2007 et les 17 et 18 juillet 2007
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 30 juillet 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Bruck R. Easton, c.r.
+Avocat de l’intimée :
+Me Michael Ezri
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Bruck R. Easton, c.r.
+Cabinet :
+Belowus, Easton, English
+Windsor (Ontario)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

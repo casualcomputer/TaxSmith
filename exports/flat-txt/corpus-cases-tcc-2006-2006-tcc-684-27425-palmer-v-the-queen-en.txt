@@ -1,0 +1,100 @@
+Title: Palmer v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27425/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-684-27425-palmer-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-12-13
+
+# Palmer v. The Queen
+
+- Citation: 2006 TCC 684
+- Decision date: 2006-12-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 247, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Palmer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-13
+Neutral citation
+2006 TCC 684
+File numbers
+2005-239(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-239(IT)G
+BETWEEN:
+CHRISTOPHER PALMER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals called for hearing on November 21, 2006,
+at Charlottetown, Prince Edward Island
+Before: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Marcel Prevost
+____________________________________________________________________
+ORDER
+These appeals having been called for hearing on November 21, 2006, and the appellant not having appeared before the Court at that time;
+And having heard the submission of counsel for the respondent, and having read the written submission of the appellant dated November 21, 2006 and the written submission of counsel for the respondent dated December 4, 2006 in response thereto;
+IT IS HEREBY ORDERED THAT
+1. the hearing of the appeals herein is adjourned to a date to be fixed by the Registry on a peremptory basis; and
+2. the costs thrown away by reason of the appellant's non-appearance on November 21, 2006 are reserved to the trial judge.
+Signed at Ottawa, Canada, this 13th day of December, 2006.
+"E.A. Bowie"
+BowieJ.
+Citation: 2006TCC684
+Date: 20061213
+Docket: 2005-239(IT)G
+BETWEEN:
+CHRISTOPHER PALMER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+BowieJ.
+[1] The appellant in these general procedure appeals under the Income Tax Act is representing himself. He was advised by an Order of the Judicial Administrator dated July 20, 2006 that the hearing of his appeals would take place at the Sir Louis Henry Davies Law Courts Building, 42 Water Street, Charlottetown, commencing at 9:30 a.m. on November 21, 2006. On August 24, 2006, the Hearings Coordinator wrote to the Appellant to inform him that the place of hearing would not be at the Sir Louis Henry Davies Law Courts Building, but instead it would be at the Delta Prince Edward Hotel, 18 Queen Street, Charlottetown. The appellant did not appear at the hearing room in the Delta Hotel that morning at 9:30. Court was recessed until 10:16, and during that time the Registrar attempted to locate the appellant by telephone at his home, and also telephoned the Law Courts Building to inquire if the appellant had gone there. The efforts to locate the appellant failed, and counsel for the respondent moved for judgment. I announced that the appeals would be dismissed for want of prosecution, with costs. That judgment has not yet been issued or entered, for reasons that follow.
+[2] Later that day a letter from the appellant was delivered to me at the Delta Hotel. In it he states that he went to the Law Courts Building, that he was late arriving there, and that he was told there that the hearing had been moved to the Delta Hotel. He states that he went to the Delta Hotel and waited there for an hour before he was informed that "everyone had left".
+[3] Counsel for the respondent was invited to make submissions respecting the appellant's letter. His position is that " ... [the] order should not be set aside." His reasoning in support of this submission is that "...[t]he appellant has not filed an application pursuant to section 18.21(3) of the Tax Court of Canada Act demonstrating that it was unreasonable in all the circumstances for him to have attended the hearing at 9:30 a.m. on November 21, 2006." That subsection of the Tax Court of Canada Act applies only to informal procedure appeals, and so would have no application in the present case. The applicable provision is section 140 of the General Procedure Rules.
+140(1) If at a hearing, either party fails to appear, the Court may allow the appeal, dismiss the appeal or give such other direction as is just.
+140(2) The Court may set aside or vary, on such terms as are just, a judgment or order obtained against a party who failed to attend a hearing, a status hearing or a pre-hearing conference on the application of the party if the application is made within thirty days after the pronouncement of the judgment or order.
+As judgment has not yet been issued and entered, there is no need to resort to subrule 140(2). I remain seized of the matter: see A. Chadwick Estate v. Canada,[1] and the cases there cited.
+[4] I appreciate that the appellant's recital of the facts in his letter is not under oath and has not been subjected to cross-examination. Nevertheless, in all the circumstances of the case, and particularly considering the change from the original place of hearing that was communicated to the appellant by letter, I am of the view that the interests of justice and the objectives of subrule 4(1) are best attained by an Order adjourning the hearing of these appeals to a peremptory date to be fixed by the Registry, in consultation with the parties. The trial judge will be in a better position than I am to deal with the costs thrown away as a result of the appellant's non-appearance on November 21, 2006.
+Signed at Ottawa, Canada, this 13th day of December, 2006.
+"E.A. Bowie"
+Bowie J.
+CITATION: 2006TCC684
+COURT FILE NO.: 2005-239(IT)G
+STYLE OF CAUSE: CHRISTOPHER PALMER AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Charlottetown, Prince Edward Island
+DATE OF HEARING: November 21, 2006
+REASONS FOR ORDER BY: The Honourable Justice E.A. Bowie
+DATE OF ORDER: December 13, 2006
+APPEARANCES:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Marcel Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1994] 1 C.T.C. 2628 at 2628-9.

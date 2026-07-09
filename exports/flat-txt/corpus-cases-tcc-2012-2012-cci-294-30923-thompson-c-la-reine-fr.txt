@@ -1,0 +1,137 @@
+Title: Thompson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30923/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-294-30923-thompson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-08-14
+
+# Thompson c. La Reine
+
+- Citation: 2012 CCI 294
+- Decision date: 2012-08-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7419, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thompson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-08-14
+Référence neutre
+2012 CCI 294
+Numéro de dossier
+2007-2429(IT)I, 2007-845(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2429(IT)I
+ENTRE :
+MARINA THOMPSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée
+et
+Dossier : 2007-845(IT)I
+HAROLD THOMPSON
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande présentée à l’honorable juge Campbell J. Miller
+____________________________________________________________________
+ORDONNANCE
+La demande présentée par les appelants pour que leurs appels soient repris en application de l’article 18.21 de la Loi sur la Cour canadienne de l’impôt est rejetée.
+Signé à Ottawa, Canada, ce 14e jour d’août 2012.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 26e jour de septembre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2012 CCI 294
+Date : 20120814
+Dossier : 2007-2429(IT)I
+ENTRE :
+MARINA THOMPSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2007-845(IT)I
+HAROLD THOMPSON
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge C. Miller
+[1] Mme Marina Thompson et M. Harold Thompson ont présenté une demande pour que leurs appels soient repris en application de l’article 18.21 de la Loi sur la Cour canadienne de l’impôt (la « Loi »). Les faits concernant les demandes ont été énoncés dans les observations écrites de l’intimée de la manière suivante :
+[traduction]
+Les faits
+6. L’historique de ces appels est énoncé dans les affidavits de Denis Desloges, dans les dossiers de la Cour no 2007-­2429(IT)I et 2007- ­845(IT)I, tous deux souscrits le 13 décembre 2011 et déposés à la Cour le 15 décembre 2012 au soutien de la requête.
+7. C’est la deuxième fois que les appels des appelants sont rejetés parce que ces derniers n’ont pas comparu à l’audition. Le 19 mai 2011, les appelants ne se sont pas présentés à une audience sur l’état de l’instance et leurs appels ont été rejetés.
+8. Les 17 et 18 juin 2011, les appelants ont demandé, au moyen de lettres envoyées à la Cour, que leurs appels soient repris. L’intimée ne s’est pas opposée à cette demande. La Cour a repris les appels et a ordonné que les appelants déposent chacun un avis d’appel modifié au plus tard le 15 juillet 2011.
+9. Les appelants n’ont pas déposé leurs avis d’appel modifiés dans le délai imposé par l’ordonnance de la Cour et l’intimée a déposé une requête en vue d’obtenir un rejet des appels pour cause de retard.
+10. Le 29 août 2011, les appelants se sont présentés devant le juge Bédard à Sault Ste. Marie, en Ontario, pour l’audition de la requête. À l’audience, ils ont mentionné qu’ils souhaitaient soulever des questions constitutionnelles, notamment les droits ancestraux. Le juge Bédard a ordonné aux appelants de déposer un avis d’appel modifié au plus tard le 15 septembre 2011, et de déposer et de signifier un avis de question constitutionnelle au plus tard le 4 novembre 2011. En outre, il a été ordonné à l’intimée de déposer et de signifier une requête, s’il y a lieu, pour que les appels soient instruits en vertu des Règles de la Cour canadienne de l’impôt (procédure génale) au plus tard le 15 décembre 2011.
+11. Le 14 septembre 2011, les appelants ont déposé leurs avis d’appel modifiés.
+12. Le 22 septembre 2011, l’intimée a déposé les réponses aux avis d’appel modifiés et a signifié aux appelants, séparément, des lettres leur rappelant le délai du 4 novembre 2011 pour déposer un avis de question constitutionnelle.
+13. Les appelants n’ont pas déposé leurs avis de question constitutionnelle dans le délai imposé par la Cour, à savoir au plus tard le 4 novembre 2011.
+14. Le 9 novembre 2011, l’avocat de l’intimée a reçu une lettre provenant des deux appelants dans laquelle ils mentionnaient que la date limite pour déposer leurs avis de question constitutionnelle était le 10 novembre 2011.
+15. Au moyen d’une lettre datée du 16 novembre 2011, l’avocat de l’intimée a précisé aux appelants que seule la Cour canadienne de l’impôt avait le pouvoir d’accorder des prorogations de délai. Le numéro d’appel sans frais de la Cour a été fourni aux appelants.
+16. L’intimée a déposé un avis de requête dans lequel elle demandait la tenue d’une téléconférence avec les parties et la Cour en vue de préciser les intentions des parties relativement à leurs appels, particulièrement en ce qui concerne la poursuite des questions constitutionnelles, et de modifier l’ordonnance du 31 août 2011 afin d’accorder une prorogation de délai à l’intimée lui permettant de déposer et de signifier une requête, s’il y a lieu, pour que les appels soient instruits en vertu des Règles de la Cour canadienne de l’impôt (procédure générale).
+17. Cette requête a été fixée pour audition à Sault Ste. Marie le 12 juillet 2012. Les appelants ne se sont pas présentés. Leurs appels ont été rejetés et un jugement a été rendu à cet égard.
+[2] Le 19 juillet 2012, Mme Marina Thompson a écrit à la Cour une lettre dont voici la teneur :
+[traduction]
+La présente lettre concerne la lettre ci‑jointe rédigée le 5 juillet 2012.
+La lettre ci‑jointe devait être envoyée par courriel à la Cour canadienne de l’impôt avant notre date d’audition, mais à cause d’un problème de communication entre mon fils et moi, cette lettre n’a jamais été envoyée. Lorsque je m’étais renseignée au sujet de la lettre, mon fils m’avait répondu qu’il l’avait envoyée par courriel, alors qu’en réalité, il mentionnait qu’il avait envoyé la lettre à moi et non à la Cour.
+Ce n’est que lorsque j’ai demandé à mon fils s’il avait eu des nouvelles de la Cour concernant la lettre que j’ai su que la lettre ci‑jointe n’avait jamais été envoyée et qu’elle traînait toujours dans ma boîte à lettres électronique.
+Je joins la lettre en question à la présente, et j’ose espérer que mon erreur pourra être rectifiée.
+[3] Voici le contenu de la lettre datée du 5 juillet 2012 qui était jointe à la lettre de l’appelante :
+[traduction]
+Concernant l’ordonnance du 22 mai 2012 qui exigeait notre présence pour entendre notre cause à Sault Ste. Marie le 12 juillet 2012, nous vous prions de bien vouloir nous accorder une prorogation.
+Récemment, le mois de juin a été un moment très pénible étant donné que mon père est décédé et que le fait de m’occuper des affaires familiales, et autres, a nécessité énormément de temps. Aussi, ma mère et moi‑même n’avons pas reçu notre courrier à temps, étant donné que je me déplaçais à l’extérieur de la ville; je n’ai pas su que cette lettre avait été envoyée par courrier prioritaire et je ne l’ai reçue qu’au mois de juin par courrier ordinaire. C’est pour cette raison que ma mère et moi n’avons pas pu nous préparer pour plaider notre cause afin de défendre du mieux que nous pouvions nos droits concernant les impôts. Nous n’avons pas non plus eu amplement de temps pour coordonner nos efforts avec les membres avec lesquels nous partageons une défense similaire.
+[4] L’article 18.21 de la Loi autorise l’appelant dont l’appel a été rejeté pour défaut de comparution à demander que l’appel soit repris. L’article 18.21 de la Loi est ainsi libellé :
+(1) Sauf si elle est d’avis que les circonstances justifient que l’appel soit entendu à une date ultérieure, la Cour est tenue, à la demande de l’intimé et ce, que l’appelant en ait été avisé ou non, d’ordonner le rejet de l’appel si ce dernier ne comparaît pas à la date fixée pour l’audition ou n’obtient pas un ajournement.
+(2) L’appelant dont l’appel a été rejeté peut demander qu’il soit repris et que l’ordonnance de rejet soit annulée.
+(3) La Cour peut annuler l’ordonnance de rejet si les conditions suivantes sont réunies :
+a) compte tenu de toutes les circonstances, il n’était pas raisonnable de s’attendre à ce que l’appelant soit présent à l’audition;
+b) l’appelant a présenté sa demande d’annulation dès que cela a été possible, compte tenu des circonstances, mais dans tous les cas au plus tard cent quatre-vingts jours suivant la date de l’envoi par la poste de l’ordonnance rejetant son appel.
+[5] Les appelants ont présenté leurs demandes promptement, de sorte qu’il ne reste qu’à trancher la question de savoir s’ils ont répondu aux exigences de l’alinéa 18.21(3)a) de la Loi : compte tenu de toutes les circonstances, était‑il déraisonnable de s’attendre à ce que les appelants soient présents à la Cour le 12 juillet 2012?
+[6] Bien que l’intimée soulève le fait qu’il s’agit de la deuxième fois que les appelants aient à présenter leur demande, et aussi que les appelants n’ont pas fait tout le nécessaire pour poursuivre leurs appels à temps, le premier obstacle que les appelants doivent surmonter est celui énoncé à l’alinéa 18.21(3)a) de la Loi. Je ne suis pas convaincu qu’il aurait été déraisonnable pour eux de se présenter à l’audition du 12 juillet 2012.
+[7] Étant donné qu’ils avaient déjà eu à suivre cette procédure auparavant, les appelants étaient parfaitement au courant de l’importance de se présenter à la Cour à la date prévue. Il n’est pas suffisant pour les appelants de se fonder sur le fait qu’ils croyaient à tort avoir communiqué au préalable avec la Cour pour demander un ajournement. Les appelants auraient certainement dû s’inquiéter du fait qu’ils n’avaient reçu aucun accusé de réception de la Cour concernant la demande d’ajournement qu’ils croyaient avoir faite. Même un appel à la Cour dans les jours précédents l’audition du 12 juillet 2012 aurait rapidement permis de révéler l’erreur. En l’espèce, il n’est pas déraisonnable de s’attendre à ce qu’un minimum de mesures soient prises pour se renseigner. Non, je ne peux que conclure que Mme Marina Thompson et M. Harold Thompson ne sont pas prêts à poursuivre leurs appels avec diligence. Ils n’ont pas fourni de justification suffisante concernant leur absence le 12 juillet 2012 et, dans ces circonstances, il n’aurait pas été déraisonnable pour eux de se présenter à l’audition.
+[8] La présente demande est rejetée.
+Signé à Ottawa, Canada, ce 14e jour d’août 2012.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 26e jour de septembre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2012 CCI 294
+NOS DES DOSSIERS DE LA COUR : 2007-2429(IT)I et 2007-845(IT)I
+INTITULÉ : MARINA THOMPSON c.
+SA MAJESTÉ LA REINE et
+HAROLD THOMPSON c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : s/o
+DATE DE L’AUDIENCE : s/o
+MOTIFS DE L’ORDONNANCE : L’honorable juge Campbell J. Miller
+DATE DE L’ORDONNANCE : Le 14 août 2012
+COMPARUTIONS : s/o
+s/o
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant : s/o
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,169 @@
+Title: Rose c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29173/index.do
+Corpus path: corpus/cases/tcc/2008/2009-cci-185-29173-rose-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-11-25
+
+# Rose c. M.R.N.
+
+- Citation: 2009 CCI 185
+- Decision date: 2008-11-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6733, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rose c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-25
+Référence neutre
+2009 CCI 185
+Numéro de dossier
+2007-3133(EI)
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-3133(EI)
+ENTRE :
+HALLY ROSE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 25 novembre 2008, à Regina (Saskatchewan)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Brooke Sittler
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel est accueilli, étant entendu que l’emploi de l’appelant pour la période allant du 1er mai au 27 novembre 2006 n’était pas un « emploi exclu » aux termes de l’alinéa 5(3)b) de la Loi sur l’assurance-emploi.
+Signé à Ottawa, Canada, ce 9e jour d’avril 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 17e jour de juin 2009
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2009CCI185
+Date : 20090409
+Dossier : 2007-3133(EI)
+ENTRE :
+HALLY ROSE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Hally Rose, fait appel d’une décision du ministre du Revenu national qui lui a refusé le versement de prestations d’assurance-emploi au motif que son emploi dans la société Hally’s Framing Inc. durant la période allant du 1er mai au 27 novembre 2006 était un « emploi exclu » aux termes de la Loi sur l’assurance-emploi.
+[2] Les dispositions légales applicables sont les alinéas 5(2)i) et 5(3)b) de la Loi sur l’assurance-emploi :
+(2) Restrictions – N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+(3) Personnes liées – Pour l’application de l’alinéa (2)i) :
+[…]
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[3] Comme l’a dit très justement l’avocate de l’intimé, il ressort clairement de la jurisprudence que la loi donne au ministre le pouvoir discrétionnaire de dire si l’emploi est exclu. Ce faisant, il doit tenir compte de toutes les circonstances de l’emploi, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli. En l’absence de preuves nouvelles, il n’appartient pas à la Cour canadienne de l’impôt de substituer sa décision à celle du ministre[1].
+[4] Les hypothèses sur lesquelles le ministre s’est fondé pour rendre sa décision sont énoncées au paragraphe 7 de la réponse à l’avis d’appel :
+[traduction]
+a) le payeur exploitait une entreprise de charpentes (ci-après l’« entreprise »);
+b) l’entreprise était quelque peu saisonnière, les activités tournant au ralenti durant l’hiver;
+c) l’actionnaire principal du payeur était Valerie Rose (ci-après l’« actionnaire »);
+d) l’appelant était le mari de l’actionnaire;
+e) l’appelant avait déjà été le propriétaire et l’exploitant de l’entreprise, mais il avait déclaré faillite et l’actionnaire était devenue propriétaire de l’entreprise;
+f) l’appelant gérait presque tous les aspects de l’entreprise;
+g) les fonctions de l’appelant consistaient à soumissionner des travaux, à embaucher des équipes, à traiter avec les entrepreneurs, à coordonner les équipes de travail et les tâches, à surveiller les chantiers, à commander des outils et des fournitures, à faire réparer les outils, à percevoir les sommes à recouvrer et à informer le payeur des sommes à payer;
+h)l’appelant était employé en vertu d’un contrat oral;
+i) l’appelant gagnait un salaire net de 1 600 $ par deux semaines;
+j) le salaire de l’appelant était de 20 $ l’heure, pour 80 heures par deux semaines;
+k) les employés du payeur sans lien de dépendance avec lui étaient payés à l’heure;
+l) l’appelant fixait les taux de rémunération des employés du payeur;
+m) le taux de rémunération de l’appelant était raisonnable;
+n)le payeur payait l’appelant à intervalles réguliers;
+o) l’appelant n’était pas payé pour ses heures supplémentaires;
+p) les employés du payeur sans lien de dépendance avec lui étaient payés pour leurs heures supplémentaires;
+q) l’appelant travaillait en principe de 8 heures à 17 heures, du lundi au vendredi;
+r) parfois, durant les périodes de grande activité (été et automne), l’appelant travaillait sept jours par semaine et/ou faisait des heures plus longues;
+s) l’appelant ne conservait pas de relevé de ses heures travaillées;
+t) les employés du payeur sans lien de dépendance avec lui conservaient un relevé de leurs heures travaillées;
+u)l’appelant n’était pas supervisé ni ne recevait de directives;
+v)l’appelant avait de nombreuses années d’expérience;
+w) l’actionnaire n’intervenait pas systématiquement dans la gestion de l’entreprise;
+x)l’appelant n’avait pas besoin de l’assentiment du payeur pour proposer des prix;
+y)l’appelant n’avait pas accès au compte bancaire du payeur;
+z) l’appelant ne s’est pas porté caution pour le payeur;
+aa) le payeur fournissait un véhicule à l’appelant;
+bb) l’appelant se servait aussi du véhicule pour son propre usage;
+cc) l’appelant était employé par le payeur en vertu d’un contrat de louage de services;
+dd) l’appelant a rempli une « demande de prestations », qui renfermait ce qui suit :
+Salaire 1 600 $ toutes les deux semaines
+Heures normales de travail 8 heures par jour, 40 heures par semaine
+Jours de travail 5 jours par semaine
+ee) le payeur a rempli pour l’appelant un « relevé d’emploi », qui renfermait ce qui suit :
+Période de rémunération toutes les deux semaines
+Premier jour travaillé 1er mai 2006
+Dernier jour travaillé 1er novembre 2006
+Occupation surveillant de travaux
+Rémunération assurable 16 000 $
+ff) le payeur a délivré des feuillets T4 à l’appelant, qui indiquaient les revenus suivants :
+2005 11 341 $
+2006 21 061 $
+gg) l’appelant a indiqué dans ses déclarations de revenu les rémunérations T4 suivantes :
+2005 6 264 $
+2006 21 061 $
+hh) l’appelant gérait l’entreprise et prenait les décisions s’y rapportant;
+ii) l’entreprise portait le nom de l’appelant;
+jj) les modalités d’emploi de l’appelant auprès du payeur n’étaient pas assimilables à une relation sans lien de dépendance;
+kk) l’appelant a été licencié par le payeur, mais le payeur a continué d’avoir une équipe;
+ll) il était déraisonnable que l’appelant soit licencié alors que le payeur avait encore une équipe;
+mm) l’appelant a continué de fournir des services au payeur après son licenciement;
+nn) la durée de l’emploi de l’appelant auprès du payeur était déraisonnable;
+oo) le ministre a tenu compte de tous les faits pertinents qui ont été portés à sa connaissance.
+[5] L’appelant a la charge de prouver qu’il n’était pas raisonnable pour le ministre de conclure qu’il occupait un emploi exclu auprès de Hally’s Framing Inc.
+[6] L’appelant, la seule personne à avoir témoigné, a produit un témoignage crédible. Son témoignage a mis en lumière de nouveaux renseignements relativement à certaines des hypothèses prises en compte par le ministre, plus précisément les hypothèses l); o), p) et r); aa) et bb); kk), ll) et mm). S’agissant de ces hypothèses, j’accepte le témoignage de l’appelant selon lequel :
+1. pour l), les salaires des employés sans lien de dépendance avec le payeur étaient fixés par Hally’s Framing Inc., en accord avec les normes de l’industrie du bâtiment, et non par l’appelant personnellement;
+2. pour o), p) et r), lorsqu’il travaillait un nombre d’heures supérieur à ses heures normales, il bénéficiait d’un congé, au lieu de recevoir une rémunération pour heures supplémentaires; cette option était également offerte aux employés sans lien de dépendance, mais, pour des raisons qui leur étaient propres, ces derniers préféraient en général être rémunérés;
+3. pour aa) et bb), il est vrai que l’appelant avait l’usage d’un véhicule de l’entreprise, mais cet avantage était également conféré au contremaître, un employé sans lien de dépendance avec le payeur, qui occupait un poste de direction semblable au sien;
+4. pour ll) et mm), si Hally’s Framing Inc. a continué d’avoir à sa disposition une équipe alors même que l’appelant avait été licencié, c’est parce que, en novembre 2006, les travaux de construction étaient déjà bien avancés. À cette date, les principales activités de la société consistaient en travaux de charpenterie. Les services de l’appelant en matière de gestion de l’entreprise et de dépôt de soumissions n’étaient donc pas requis; ses fonctions n’étaient plus nécessaires, ou bien le contremaître et Val pouvaient aisément prendre le relais. Comme l’a dit l’appelant, [traduction] « Val était une femme intelligente »; à mesure que le temps passait, elle comptait moins sur l’aide de l’appelant. Et, en raison de la blessure qu’il s’était faite au genou en mars 2006, il était impossible à l’appelant de changer de rôle et de se joindre à l’équipe chargée des travaux de charpente. S’agissant de l’hypothèse du ministre selon laquelle l’appelant a continué de fournir des services à Hally’s Framing Inc. après son licenciement, je trouve raisonnable l’explication de l’appelant selon laquelle, en tant que mari de celle qui était l’âme dirigeante d’une petite entreprise, et puisqu’il habitait à l’endroit même où l’entreprise était située, il lui aurait été difficile de ne jamais discuter d’aucun aspect de la gestion de l’entreprise avec Val. Ce n’est toutefois pas la même chose que le fait de continuer d’exercer les fonctions énumérées à l’alinéa 7g) de la réponse à l’avis d’appel. Ce n’est qu’en juillet 2007 que, à cause de la demande générée par le boom de la construction à Regina, il a repris ses anciennes fonctions au sein de l’entreprise.
+[7] Le ministre a fondé sa décision sur les réponses données dans un questionnaire type et au cours d’un entretien téléphonique. Le rôle de la Cour, lorsqu’elle examine la décision du ministre, a été expliqué par la Cour d’appel fédérale dans l’arrêt Pérusse [2] :
+[…] Le rôle du juge est de s’enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s’expliquer sous serment et de se demander si la conclusion du ministre, sous l’éclairage nouveau, paraît toujours « raisonnable » (le mot du législateur). La Loi prescrit au juge une certaine déférence à l’égard de l’appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu’il n’y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux.
+[8] Ayant eu l’avantage d’entendre le témoignage de l’appelant au cours de l’audience, je suis d’avis que, considérée sous ce nouvel éclairage, la décision du ministre n’était pas raisonnable. Pour les motifs susmentionnés, l’appel est accueilli, étant entendu que l’emploi de l’appelant au cours de la période allant du 1er mai au 27 novembre 2006 n’était pas un « emploi exclu » aux termes de l’alinéa 5(3)b) de la Loi sur l’assurance-emploi.
+Signé à Ottawa, Canada, ce 9e jour d’avril 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 17e jour de juin 2009
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2009CCI185
+N° DU DOSSIER DE LA COUR : 2007-3133(EI)
+INTITULÉ : HALLY ROSE ET LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Regina (Saskatchewan)
+DATE DE L’AUDIENCE : Le 25 novembre 2008
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 9 avril 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Brooke Sittler
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pérusse c. Canada (Ministre du Revenu national – M.R.N.), [2000] A.C.F. n° 310 (Q.L.) (C.A.F.); Légaré v. Minister of National Revenue, 246 N.R. 176 (C.A.F.).
+[2] Précité, paragraphe 15.

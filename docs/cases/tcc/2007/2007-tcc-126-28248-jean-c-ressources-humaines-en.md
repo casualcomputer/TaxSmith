@@ -1,0 +1,198 @@
+---
+title: "Jean c. Ressources Humaines"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28248/index.do"
+last_modified: "2007-08-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 126"
+citation2: ""
+neutral_citation: "2007 TCC 126"
+decision_date: "2007-08-09"
+language: "en"
+item_id: "28248"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2029
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:51:36.829000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7e16525bbd98a381228925905822ff65540bc1fd6ec119610610397c40aee9f2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jean c. Ressources Humaines
+
+- Citation: 2007 TCC 126
+- Decision date: 2007-08-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2029, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jean c. Ressources Humaines
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-09
+Neutral citation
+2007 TCC 126
+File numbers
+2006-3341(OAS)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Canada Pension Plan
+Old Age Security Act
+Decision Content
+Docket: 2006-3341(OAS)
+BETWEEN:
+FERNAND JEAN,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES DEVELOPMENT,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 21, 2007, at Rimouski, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 28(2) of the Old Age Security Act following a decision of the Minister of Human Resources and Social Development dated November 21, 2005, in respect of the payment period from July 2005 to June 2006, for the 2005 taxation year, is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of August 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 5th day of September 2007.
+Brian McCordick, Translator
+Citation: 2007TCC126
+Date: 20070809
+Docket: 2006-3341(OAS)
+BETWEEN:
+FERNAND JEAN,
+Appellant,
+and
+THE MINISTER OF
+HUMAN RESOURCES DEVELOPMENT,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a determination based on sections 2 and 14 of the Old Age Security Act ("the Act").
+[2] The issue for determination is whether the Minister of Human Resources and Social Development ("the Minister") correctly denied the Appellant the ability to avail himself of the option for the year 2005 (payment period commencing in July 2005 and ending in June 2006) following a reduction of rental income in 2004, in accordance with sections 2 and 14 of the Act.
+[3] The Appellant admitted to all the assumptions of fact, which read:
+[TRANSLATION]
+(a) On February 10, 2005, the Minister sent the Appellant a form on which he was to provide explanations concerning the reduction of his net self‑employment income and the type of business that he operated.
+(b) The form, dated February 10, 2005, stated that the self-employment income decreased from $3,421 in 2002, to $634 in 2003.
+(c) On February 19, 2005, the Appellant returned the signed form and provided the following explanations therein:
+- the Appellant's self-employment consisted of the operation of a furniture repair business, which ceased in November 2003;
+- in 2003, the furniture repair activity decreased and the Appellant maintained the two rental houses that he owned;
+- one of those rental houses was sold in 2004 further to a bankruptcy proposal and the other house was assigned to the trustee on November 30, 2004, further to an assignment of property;
+(d) On June 23, 2005, the Appellant filled out an option application form for the year 2005, in which he stated that the reduction of his income was due to a bankruptcy that occurred on November 30, 2004.
+(e) On July 6, 2005, the Appellant's application to avail himself of the option was considered and was granted for the November 2003 cessation of self‑employment, but not for the November 2004 bankruptcy.
+(f) The income generated by the rental house that was assigned to the trustee on November 30, 2004, was income from property, not income from the carrying on of a business.
+. . .
+(h) For the payment period from July 2005 to June 2006, the Appellant's benefit rate was calculated based on the actual income for the year 2004, not the estimated income for the year 2005.
+[4] The only contested subparagraph is subparagraph (g), which reads:
+[TRANSLATION]
+(g) The reduction of rental income is not a ground based on which one can avail oneself of the option.
+[5] The provisions of the Act are very clear and leave no room for interpretation. In the case at bar, the income involved was indeed income from a property, not income from a business.
+[6] Sections 2 and 14 of the Act read as follows:
+2. In this Act,
+"income" of a person for a calendar year means the person's income for the year, computed in accordance with the Income Tax Act, except that
+(a) there shall be deducted from the person's income from office or employment for the year
+(i) a single amount in respect of all offices and employments of that person equal to the lesser of five hundred dollars and one fifth of the person's income from office or employment for the year,
+(ii) the amount of employee's premiums paid by the person during the year under the Employment Insurance Act, and
+(iii) the amount of employee's contributions made by the person during the year under the Canada Pension Plan or a provincial pension plan as defined in section 3 of that Act,
+(b) there shall be deducted from the person's self-employment earnings for the year the amount of contributions made in respect of those self‑employed earnings by the person during the year under the Canada Pension Plan or a provincial pension plan as defined in section 3 of that Act,
+(c) there shall be deducted from the person's income for the year, to the extent that those amounts have been included in computing that income,
+(i) the amount of any benefit under this Act and any similar payment under a law of a provincial legislature,
+(ii) the amount of any death benefit under the Canada Pension Plan or a provincial pension plan as defined in section 3 of that Act, and
+(iii) the amount of any social assistance payment made on the basis of a means, a needs or an income test by a registered charity as defined in subsection 248(1) of the Income Tax Act or under a program provided for by an Act of Parliament or a provincial legislature that is neither a program prescribed under the Income Tax Act nor a program under which the amounts referred to in subparagraph (i) are paid,
+(d) there shall be deducted from the person's income for the year three times the amount, if any, by which
+(i) the total of any amounts that may be deducted under section 121 of the Income Tax Act in computing the person's tax payable for the year
+exceeds
+(ii) the person's "tax for the year otherwise payable under this Part" (within the meaning assigned by subsection 126(7) of the Income Tax Act for the purposes of paragraph 126(1)(b) of that Act) for the year, and
+(e) there shall be deducted from the person's income for the year any amount included under subsection 56(6) of the Income Tax Act and there shall be included in the person's income for the year any amount that may be deducted under paragraph 60(y) of that Act;
+Statement or Estimate of Income
+Statement of income to be made
+14. (1) Every person by whom an application for a supplement in respect of a current payment period is made shall, in the application, make a statement of the person's income for the base calendar year.
+Minister may estimate income
+(1.1) Where the requirement for an application for payment of a supplement for any month has been waived under subsection 11(4), the Minister may, on the basis of the information available to the Minister,
+(a) estimate the applicant's income for the base calendar year;
+(b) in the case of an applicant who is a person described in subsection 15(2), estimate the income of the applicant's spouse or common-law partner for the base calendar year.
+Statement of income where income estimated
+(1.2) Where a person's income for a base calendar year has been estimated under subsection (1.1), the Minister may require that the person make a statement to the Minister of their income for any month in that year.
+Additional statement where retirement in current payment period
+(2) Where in a current payment period a person who is an applicant, or who is an applicant's spouse or common-law partner who has filed a statement as described in paragraph 15(2)(a), ceases to hold an office or employment or ceases to carry on a business, that person may, not later than the end of the payment period immediately after the current payment period, in addition to making the statement of income required by subsection (1) in the case of the applicant or in addition to filing a statement as described in paragraph 15(2)(a) in the case of the applicant's spouse or common-law partner, file a statement of the person's estimated income, other than the estimated income from that office or employment or from that business, as the case may be, for the calendar year in which the person ceased to hold that office or employment or ceased to carry on that business, in which case the person's income for the base calendar year shall be calculated as the total of
+(a) the person's income for that calendar year, calculated as though the person had no income from that office or employment or from that business, as the case may be, and no pension income for that calendar year, and
+(b) any pension income received by the person in that part of that calendar year that is after the month in which the person ceased to hold that office or employment or ceased to carry on that business, divided by the number of months in that part of that calendar year and multiplied by 12.
+Additional statement where retirement in the last month of the calendar year that is in the current payment period
+(3) Despite subsection (2), where in the last month of a calendar year that ends in the current payment period a person who is an applicant, or who is an applicant's spouse or common-law partner who has filed a statement as described in paragraph 15(2)(a), ceases to hold an office or employment or ceases to carry on a business, the person may, not later than the end of the payment period immediately after the current payment period, in addition to making the statement of income required by subsection (1) in the case of the applicant or in addition to filing a statement as described in paragraph 15(2)(a) in the case of the applicant's spouse or common-law partner, file a statement of the person's estimated income for the calendar year immediately after the month in which the person ceased to hold that office or employment or ceased to carry on that business, in which case the person's income for that calendar year is deemed to be the person's income for the base calendar year.
+Additional statement where loss of pension income in current payment period
+(4) Where in a current payment period a person who is an applicant, or who is an applicant's spouse or common-law partner who has filed a statement as described in paragraph 15(2)(a), suffers a loss of income due to termination or reduction of pension income, the person may, not later than the end of the payment period immediately after the current payment period, in addition to making the statement of income required by subsection (1) in the case of the applicant or in addition to filing a statement as described in paragraph 15(2)(a) in the case of the applicant's spouse or common-law partner, file a statement of the person's estimated income for the calendar year in which the loss is suffered, other than pension income received by that person in that part of that calendar year that is before the month in which the loss is suffered, in which case the person's income for the base calendar year shall be calculated as the total of
+(a) the person's income for that calendar year, calculated as though the person had no pension income for that calendar year, and
+(b) any pension income received by the person in that part of that calendar year that is after the month immediately before the month in which the loss is suffered, divided by the number of months in that part of that calendar year and multiplied by 12.
+Additional statement where retirement before current payment period
+(5) Where, in the circumstances described in paragraphs (a) and (b), a person who is an applicant, or who is an applicant's spouse or common-law partner who has filed a statement as described in paragraph 15(2)(a), ceases to hold an office or employment or ceases to carry on a business, the person may, not later than the end of the current payment period, in addition to making the statement of income required by subsection (1) in the case of the applicant or in addition to filing a statement as described in paragraph 15(2)(a) in the case of the applicant's spouse or common-law partner,
+(a) where the person ceases to hold that office or employment or to carry on that business in the last calendar year ending before the payment period, file a statement of the person's estimated income for the calendar year ending in the current payment period, in which case the person's income for that calendar year is deemed to be the person's income for the base calendar year; and
+(b) where the person ceases to hold that office or employment or to carry on that business in a month that is before the payment period and after the last calendar year ending before the payment period, file a statement of the person's estimated income for the calendar year ending in the current payment period showing also any income actually received by the person in that calendar year from that office or employment or from that business, as the case may be, in which case the person's income for the base calendar year shall be calculated as the total of
+(i) the person's income for that calendar year, calculated as though the person had no income from that office or employment or from that business, as the case may be, and no pension income for that calendar year, and
+(ii) any pension income received by the person in that part of that calendar year that is after the month in which the person ceases to hold that office or employment or to carry on that business, divided by the number of months in that part of that calendar year and multiplied by 12.
+Additional statement where loss of pension income before current payment period
+(6) Where, in the circumstances described in paragraphs (a) and (b), a person who is an applicant, or who is an applicant's spouse or common-law partner who has filed a statement as described in paragraph 15(2)(a), suffers a loss of income due to termination or reduction of pension income, the person may, not later than the end of the current payment period, in addition to making the statement of income required by subsection (1) in the case of the applicant or in addition to filing a statement as described in paragraph 15(2)(a) in the case of the applicant's spouse or common-law partner,
+(a) where the loss is suffered in the last calendar year ending before the payment period, file a statement of the person's estimated income for the calendar year ending in the current payment period, in which case the person's income for that calendar year is deemed to be the person's income for the base calendar year; and
+(b) where the loss is suffered in a month that is before the payment period and after the last calendar year ending before the payment period, file a statement of the person's estimated income for the calendar year ending in the current payment period showing also the amount of pension income actually received by the person in that part of that calendar year that is before the month in which the loss is suffered, in which case the person's income for the base calendar year shall be calculated as the total of
+(i) the person's income for that calendar year, calculated as though the person had no pension income for that calendar year, and
+(ii) any pension income received by the person in that part of that calendar year that is after the month immediately before the month in which the loss is suffered, divided by the number of months in that part of that calendar year and multiplied by 12.
+Where statement filed under subsection (2), (3) or (4)
+(7) Where under subsection (2), (3) or (4) a statement of estimated income is filed by an applicant or an applicant's spouse or common-law partner, no supplement calculated on the basis of that statement may be paid to the applicant for any month in the current payment period before
+(a) the month immediately following the month shown in the statement as the month in which the applicant or the applicant's spouse or common-law partner, as the case may be, ceased to hold the office or employment or ceased to carry on the business, or
+(b) the month shown in the statement as the month in which the applicant or the applicant's spouse or common-law partner, as the case may be, suffered the loss of income due to termination or reduction of pension income.
+[7] Upon reading the provisions reproduced above, there can be no doubt as to the meaning of the wording. In other words, there is no way to claim that there is room for interpretation of some kind.
+[8] The wording is clear, and the decision that the Appellant is disputing in this appeal is completely in keeping with the provisions of the Act. The Appellant is unfortunately not drawing the distinction between income from a property and income from a business.
+[9] I must confirm the decision because it is well-founded in the relevant provisions.
+[10] Consequently, the appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 9th day of August 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 5th day of September 2007.
+Brian McCordick, Translator
+CITATION: 2007TCC126
+COURT FILE NO.: 2006-3341(OAS)
+STYLE OF CAUSE: Fernand Jean v. M.H.R.D.
+PLACE OF HEARING: Rimouski, Quebec
+DATE OF HEARING: February 21, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: August 9, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

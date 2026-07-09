@@ -1,0 +1,183 @@
+Title: 1057513 Ontario inc.c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/73525/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-272-73525-1057513-ontario-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-09-12
+
+# 1057513 Ontario inc.c. La Reine
+
+- Citation: 2014 CCI 272
+- Decision date: 2014-09-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5164, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1057513 Ontario inc.c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-09-12
+Référence neutre
+2014 CCI 272
+Numéro de dossier
+2009-3721(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3721(IT)G
+ENTRE :
+1057513 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 3 mars 2014, à Toronto (Ontario).
+Devant : L'honorable juge Randall S. Bocock
+Comparutions :
+Avocats de l'appelante :
+Me Martin Sorensen et Me Philip Ward
+Avocat de l'intimée :
+Me Arnold H. Borstein
+JUGEMENT MODIFIÉ
+Conformément aux motifs du jugement ci‑joints, l'appel interjeté à l'encontre des nouvelles cotisations établies au titre de la Loi de l'impôt sur le revenu pour les années d'imposition allant de 1997 à 2004 est rejeté, sauf que la cotisation établie au titre de l'impôt de la partie IV pour l'année 2003 est, sur consentement des deux parties, de 1 442 760 $ et, en conséquence, l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+Les dépens partie‑partie sont adjugés à l'intimée, conformément au tarif applicable; l'une ou l'autre des parties peut cependant présenter des observations écrites à la Cour dans les 30 jours suivant la date du présent jugement.
+Le présent jugement modifié remplace le jugement du 12 septembre 2014.
+Signé à Yellowknife (Territoires du Nord‑Ouest), ce 24e jour de septembre 2014.
+« R. S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 27e jour de janvier 2015.
+Yves Bellefeuille, réviseur
+Référence : 2014 CCI 272
+Date : 20140924
+Dossier : 2009-3721(IT)G
+ENTRE :
+1057513 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Bocock
+I. Introduction
+[1] Le principe de l'intégration en droit fiscal a trait à l'équilibre et à la parité souhaités, visés par la Loi de l'impôt sur le revenu (la « Loi »), entre certaines entités distinctes, habituellement des particuliers et des sociétés. Des dispositions et des parties entières de la Loi visent l'atteinte de cet objectif. La partie IV de la Loi a pour objet la réalisation de l'intégration entre les sociétés et les particuliers actionnaires relativement aux dividendes des sociétés. Les sociétés paient initialement de l'impôt au moment de la déclaration de dividendes, mais une fois que les particuliers actionnaires incluent les dividendes dans leur revenu et paient de l'impôt sur les dividendes, la société a droit, sous réserve de certaines conditions, à un « remboursement au titre de dividendes » au sens du paragraphe 129(1) de la Loi. L'interprétation de l'une de ces conditions est au cœur même du présent appel.
+[2] Plus précisément, le remboursement au titre de dividendes est payable à la société, à condition que celle‑ci ait effectivement versé le dividende et qu'elle soit une « société privée ». Le remboursement au titre de dividendes est effectué par « le ministre » en faveur de la société lorsque la déclaration de revenus de la société est produite dans les trois ans suivant le versement initial du dividende à l'actionnaire.
+[3] En l'espèce, le ministre du Revenu national (le « ministre ») estime que le défaut de produire de telles déclarations de revenus dans le délai prévu de trois ans suivant l'année au cours de laquelle le dividende a été versé est fatal au droit de recevoir le remboursement au titre de dividendes. L'appelante interjette appel à l'encontre de la décision du ministre de refuser un tel remboursement d'impôt au titre de dividendes.
+II. Les faits
+[4] Les faits ne sont pas contestés, et il convient de féliciter les avocats pour l'exposé conjoint des faits qu'ils ont présenté. Pour les huit années d'imposition allant de 1997 à 2004 inclusivement, l'appelante a déclaré et versé à ses actionnaires des dividendes d'un total de 4 676 600 $. À cause d'une erreur de droit (l'administrateur et dirigeant de l'appelante n'était simplement pas au courant de l'obligation juridique précise et distincte qui incombe à une société de portefeuille privée), l'appelante n'a produit des déclarations de revenus des sociétés pertinentes qu'en 2008. Il n'est pas contesté que la production des déclarations de revenus en 2008 a été faite en dehors du délai de trois ans prévu au paragraphe 129(1) de la Loi. Dès réception des déclarations, le ministre a établi des cotisations selon lesquelles l'appelante devait payer de l'impôt sur les dividendes au titre de la partie IV, des intérêts et des pénalités, ce qui représente maintenant plus de 2 000 780 $, mais il a, par la même occasion, refusé d'effectuer le remboursement au titre de dividendes. Pour l'année d'imposition 2003, l'avocat de l'intimée a concédé que le remboursement au titre de dividendes était de 1 452 893 $, soit 46 740 $ de moins que le montant de la cotisation initialement établie. Le montant de la nouvelle cotisation n'est pas par ailleurs contesté. La contestation ne porte que sur le droit à un remboursement au titre de dividendes.
+[5] En conséquence, bien que le revenu de dividendes que l'appelante a initialement versé à divers actionnaires provienne d'une société rattachée, les parties sont d'accord sur l'unique question que la Cour est appelée à trancher, soit celle de savoir si le défaut de production des déclarations de revenus des sociétés dans le délai de trois ans prévu au paragraphe 129(1) de la Loi (le « délai de production ») est fatal à la demande de l'appelante visant à obtenir un remboursement d'impôt au titre de dividendes de société.
+III. Résumé des observations de l'appelante et des questions en litige
+[6] En résumé, l'appelante soutient ce qui suit relativement au paragraphe 129(1) de la Loi :
+a) le libellé concernant le délai de production, en tant que condition préalable au remboursement d'impôt au titre de dividendes, est ambigu (ou, à tout le moins, n'est [TRADUCTION] « pas dépourvu d'ambiguïté ») pour plusieurs raisons : l'utilisation particulière du terme anglais « where » (« lorsque ») dans la première partie, l'absence de toute pénalité pour le non‑respect du délai de production ainsi que le sens et le contexte de la condition concernant le délai de production de la déclaration qui sont fondamentalement différents de ceux des autres conditions préalables énoncées à la disposition;
+b) une analyse textuelle, contextuelle et téléologique appropriée, qui n'a pas été entreprise dans d'autres décisions antérieures ayant examiné la disposition, révélerait les ambiguïtés figurant dans le texte et aboutirait à une conclusion selon laquelle l'objet de l'intégration, auquel le remboursement de l'impôt au titre de dividendes est essentiel, est contrecarré par l'exigence littérale du ministre liée au délai de production;
+c) indépendamment de l'approche susmentionnée qui doit être suivie, le délai de production, en tant que délai, est de nature directive et non impérative, et le non‑respect de ce délai n'est pas fatal au droit d'obtenir le remboursement au titre de dividendes.
+[7] Par conséquent, les questions dont la Cour est saisie relativement au paragraphe 129(1) de la Loi peuvent être d'une manière générale résumées ainsi :
+a) Une interprétation textuelle du libellé concernant le délai de production soulève‑t‑elle une ambiguïté?
+b) Une analyse textuelle, contextuelle et téléologique révèle‑t‑elle des ambiguïtés latentes qui permettraient le remboursement au titre de dividendes lorsque le délai de production n'a pas été respecté?
+c) À titre subsidiaire, le délai de production est‑il de nature impérative, de sorte que le non‑respect serait fatal, ou s'agit‑il d'un délai de nature simplement directive, qui permettrait ainsi le remboursement de l'impôt au titre de dividendes?
+[8] L'appel est rejeté pour les motifs qui suivent.
+IV. Analyse du paragraphe 129(1) de la Loi
+a) Le libellé du paragraphe 129(1) :
+Les versions française et anglaise du passage pertinent du paragraphe 129(1) de la Loi sont libellées ainsi :
+Remboursement au titre de dividendes à une société privée
+129(1) Lorsque la déclaration de revenu d'une société en vertu de la présente partie pour une année d'imposition est faite dans les trois ans suivant la fin de l'année, le ministre :
+a) peut, lors de l'envoi de l'avis de cotisation pour l'année, rembourser, sans que demande en soit faite, une somme (appelée « remboursement au titre de dividendes » dans la présente loi) égale à la moins élevée des sommes suivantes :
+[...]
+(ii) son impôt en main remboursable au titre de dividendes, à la fin de l'année;
+b) doit effectuer le remboursement au titre de dividendes avec diligence après avoir envoyé l'avis de cotisation, si la société en fait la demande par écrit au cours de la période pendant laquelle le ministre pourrait établir, aux termes du paragraphe 152(4), une cotisation concernant l'impôt payable en vertu de la présente partie par la société pour l'année si ce paragraphe s'appliquait compte non tenu de son alinéa a).
+Dividend refund to private corporation
+129(1) Where a return of a corporation's income under this Part for a taxation year is made within 3 years after the end of the year, the Minister
+(a) may, on sending the notice of assessment for the year, refund without application an amount (in this Act referred to as its “dividend refund” for the year) equal to the lesser of
+[...]
+(ii) its refundable dividend tax on hand at the end of the year; and
+(b) shall, with all due dispatch, make the dividend refund after sending the notice of assessment if an application for it has been made in writing by the corporation within the period within which the Minister would be allowed under subsection 152(4) to assess tax payable under this Part by the corporation for the year if that subsection were read without reference to paragraph 152(4)(a).
+[Non souligné dans l'original.]
+[9] En ce qui concerne le libellé de la disposition en soi, l'appelante soutient que le fait que la disposition ne prévoie pas de pénalité pour le non‑respect du délai de production de la déclaration établit une distinction entre cette disposition et les autres dispositions de la Loi, à savoir l'effet combiné de l'alinéa 150(1)a) et de l'article 162 de la Loi. L'omission d'une pénalité au paragraphe 129(1) de la Loi rend cette disposition ambiguë ou à tout le moins la rend [TRADUCTION] « non dépourvue d'ambiguïté ». Les avocats de l'appelante soutiennent en outre qu'en effectuant une simple analyse textuelle, ou, à tout le moins, une analyse contextuelle et téléologique superficielle et insuffisante, la Cour a commis une erreur dans la décision Tawa Developments Inc c. La Reine, 2011 CCI 440, en ce sens qu'elle a omis d'effectuer une analyse textuelle, contextuelle et téléologique complète et qu'elle s'est fondée uniquement sur une analyse textuelle qui repose sur une interprétation étroite et littérale. Les avocats de l'appelante ont renvoyé à l'observation suivante de la Cour dans son dernier paragraphe concernant l'analyse :
+[51] Une analyse textuelle mène aux conclusions suivantes. Étant donné que le paragraphe 129(1) énonce une condition non ambiguë exigeant la production de la déclaration de revenus à l'intérieur d'un délai prescrit, lorsque cette condition n'est pas remplie, le paragraphe 129(1) ne s'applique pas et le remboursement au titre de dividendes ne peut être déterminé. La condition énoncée à la première partie du paragraphe 129(1) n'est pas différente des autres conditions qui figurent dans cette même disposition, comme les conditions selon lesquelles la société doit être une société privée et doit avoir versé un dividende au cours de l'année d'imposition. Si ces conditions ne sont pas remplies, le paragraphe 129(1) ne s'applique pas non plus et le « remboursement au titre de dividendes » ne peut être déterminé. Les définitions ordinaires du mot « refund » sous‑entendent un remboursement.
+[10] Dans la décision Tawa, la Cour a examiné deux questions : la première concernait le paragraphe 129(1) de la Loi et la seconde avait trait à une question subsidiaire portant sur la réduction de l'impôt en main remboursable au titre de dividendes (l'« IMRTD »). Pour ce qui est du premier moyen d'appel présenté à la Cour dans la décision Tawa, l'appelante a fait valoir les arguments précis suivants :
+i) le remboursement au titre de dividendes qui suit automatiquement la production tardive d'une déclaration;
+ii) l'acceptation de la déclaration par le ministre remédie à la production tardive de la déclaration;
+iii) la déclaration produite tardivement s'apparente à un choix tardif ou à une désignation tardive;
+iv) l'absence d'une disposition ayant pour effet de refuser impérativement un remboursement;
+v) la première partie de la disposition crée une présomption réfutable;
+vi) le refus d'accorder un remboursement au titre de dividendes va à l'encontre du principe de l'intégration.
+[11] L'analyse faite par le juge Hogan dans la décision Tawa concernant la première question s'est étalée sur cinq pages et a porté sur chacun des arguments énoncés ci‑dessus : le remboursement automatique aux paragraphes 15 et 16, l'acceptation du ministre qui remédierait à la production tardive au paragraphe 26, l'analogie avec un choix tardif aux paragraphes 23 et 24, l'absence d'une disposition expresse portant sur le refus de remboursement au paragraphe 19 et la présomption réfutable au paragraphe 20. Plus important encore, l'argument selon lequel la disposition allait à l'encontre de l'objet de l'intégration a été admis par la Cour aux paragraphes 17, 19, 22, 38 et 49 (il faut cependant reconnaître que ces deux derniers paragraphes portent également sur le contexte et l'objet de la deuxième question : la réduction du solde du compte de l'IMRTD).
+[12] Dans une affaire subséquente instruite sous le régime de la procédure informelle devant la Cour, le juge Webb, tel était alors son titre, a rapidement rejeté la thèse voulant que le paragraphe 129(1) de la Loi soit loin d'être totalement clair, lorsqu'il a formulé les observations suivantes au paragraphe 4 de la décision Ottawa Ritz Hotel Co. c. La Reine, 2012 CCI 166 :
+Dans la décision Tawa Developments Inc. c. La Reine, 2011 CCI 440, 2011 D.T.C. 1324, le juge Hogan a confirmé que, lorsque la déclaration de revenus n'est pas produite dans le délai de trois ans mentionné au paragraphe 129(1) de la Loi, « la disposition énoncée au paragraphe 129(1) au sujet du remboursement au titre de dividendes [devient] inopérante [...] et [...] le remboursement ne [peut] être obtenu ». Étant donné que l'appelante n'a pas produit sa déclaration de revenus concernant son année d'imposition 2007 dans les trois années qui suivaient la fin de l'année d'imposition, les dispositions des alinéas a) et b) du paragraphe 129(1) ne s'appliquent pas et le ministre n'est pas obligé de verser à l'appelante le remboursement au titre de dividendes.
+[13] De la même manière, la juge Lamarre, de la Cour, a formulé les observations suivantes dans la décision Ottawa Air Cargo Centre Ltd. c. La Reine, 2007 CCI 193, aux paragraphes 36, 37 et 38 (confirmée par la suite par la Cour d'appel fédérale, 2008 CAF 54) :
+[36] Pour ce qui concerne le redressement demandé par l'appelante, à savoir qu'elle ait droit aux remboursements de tous montants d'impôt dus en vertu de la partie IV relativement à ses années d'imposition 1995 à 1998, en application de l'alinéa 129(1)b) de la Loi, et que les montants d'impôt de la partie IV dus par l'appelante soient compensés dans leur totalité par les montants des remboursements de ces impôts, je conviens avec l'intimée que cette demande ne peut pas être accueillie à ce stade‑ci.
+[37] L'appelante n'a pas demandé par écrit un tel remboursement dans le délai où le ministre aurait été autorisé en vertu du paragraphe 152(4) à établir une cotisation d'impôt en vertu de la partie I, comme l'exige l'alinéa 129(1)b). En effet, lorsque le ministre a cotisé l'appelante au titre de l'impôt de la partie IV relativement aux dividendes réputés, l'appelante a choisi de réduire la dette en résultant à un montant nominal en déduisant des pertes. Aucun remboursement de l'impôt de la partie IV n'a été demandé en vertu du paragraphe 129(1) de la Loi, et, de fait, aucun remboursement n'a été accordé à l'appelante. Il est maintenant trop tard pour en demander un.
+[38] Le paragraphe 165(5) invoqué par l'appelante s'applique seulement à une nouvelle cotisation établie en vertu du paragraphe 165(3) (c.‑à‑d. que les délais de prescription prévus au paragraphe 152(4) ne s'appliquent pas à l'établissement d'une nouvelle cotisation en réponse à un avis d'opposition). Il ne s'applique pas au délai de prescription prévu à l'alinéa 129(1)b) pour la formulation d'une demande de remboursement.
+[14] Bien que la Cour effectuera une analyse textuelle, contextuelle et téléologique complète afin de s'assurer qu'il n'y a aucune ambiguïté latente (Hypothèques Trustco Canada c. Canada, 2005 CSC 54, [2005] 2 R.C.S. 601, au paragraphe 47), compte tenu des conclusions susmentionnées (y compris la confirmation en appel de la décision Ottawa Air Cargo Centre Ltd. c. La Reine) et des motifs qui sont exposés dans les lignes qui suivent, il n'y a aucune ambiguïté textuelle évidente dans la disposition en question, qui est manifestement claire et non ambiguë.
+[15] Le caractère manifestement clair de la disposition découle de l'utilisation d'une première partie qui établit une condition préalable : « Lorsque la déclaration [...] est faite dans les trois ans [...], le ministre : a) peut [...]; b) doit effectuer le remboursement au titre de dividendes ». Bien que ce soit peut‑être trop simpliste, le paragraphe 129(1) de la Loi peut être à la fois légalement et algébriquement exprimé ainsi :
+Lorsque X effectue y dans t, m peut (sous réserve de certaines conditions) ou doit (sous réserve d'autres conditions) rembourser a.
+[16] En outre, et bien que cela ait été soulevé indirectement lors des plaidoiries, la Cour doit tenir compte des versions française et anglaise de la Loi. On doit accorder une importance égale aux deux versions et leur sens commun doit être déterminé, ce qu'énonce le paragraphe 18(1) de la Loi constitutionnelle de 1982. Même si le terme français « lorsque » n'est pas incompatible avec le terme anglais en l'espèce, la Cour fait observer qu'il renferme un sens différent de celui du terme anglais « where ». Le terme français « lorsque » est par définition plus proche du terme anglais « when ». Dans le dictionnaire de référence Le Robert & Collins, 9e édition, 2010, le terme français « lorsque » est traduit en anglais de la manière suivante :
+Lorsque — when — lorsqu'il entra/entrera when ou as he came/comes in
+Malgré le fait que, dans la version anglaise, l'utilisation du terme « when » de concert avec le délai de production ne soit pas ambiguë sur le plan textuel, le sens du terme employé dans la version française se rapproche encore plus de l'idée de « dans le cas où » dont l'équivalent anglais est « in the event that » (qui est aussi généralement présent dans la version anglaise). Cette précision renforce la clarté des termes et l'importance du temps en ce qui concerne le délai de production de la déclaration. En bref, la version française prévoit que « lorsque la déclaration de revenu d'une société [...] est faite dans les trois ans suivant [...] le ministre peut [...], doit effectuer le remboursement [...] ». La clarté du libellé témoigne de l'existence d'une véritable condition préalable conforme au sens commun des versions française et anglaise. Bien que la version anglaise ne présente pas d'ambiguïté textuelle, la version française lève tout doute latent qui pourrait exister quant au libellé.
+[17] Manifestement, « il n'y a pas si loin de la coupe aux lèvres ». Le législateur exige de diverses entités l'accomplissement de différentes choses dans certains délais. La société doit produire ses déclarations, ce qui relève exclusivement de son pouvoir, de son contrôle et de sa connaissance, après quoi le ministre effectue le remboursement au titre de dividendes. Le libellé est d'une grande clarté. Sur le plan purement textuel, prétendre le contraire serait faire fi du sens ordinaire et évident des termes et exigerait pratiquement, ce que l'appelante a précisément proposé, une réécriture de la disposition au moyen de la suppression du délai : arrêt Entreprises Ludco ltée c. Canada, 2001 CSC 62, [2001] 2 R.C.S. 1082, au paragraphe 109.
+b) L'analyse textuelle, contextuelle et téléologique
+[18] Outre un examen détaillé portant sur le libellé, le paragraphe 129(1) se situe dans la partie I, section F de la Loi, qui comporte des règles spéciales concernant, pour le cas qui nous occupe, les sociétés privées. Il renvoie à la partie IV, qui a trait à l'impôt sur les dividendes imposables reçus par des sociétés privées et provenant de telles sociétés. Ensemble, ces deux parties présentent un régime, des délais et une méthodologie logiques pour la mise en œuvre des principes de l'intégration décrits dans les premiers paragraphes des présents motifs. De même, des remboursements qui sont par ailleurs à effectuer au titre de la Loi sont prévus au paragraphe 164(1) de la Loi, qui est libellé ainsi :
+164(1) Si la déclaration de revenu d'un contribuable pour une année d'imposition est produite dans les trois ans suivant la fin de l'année, le ministre :
+a) peut faire ce qui suit :
+[...]
+b) doit effectuer le remboursement visé au sous‑alinéa a)(iii) avec diligence après avoir envoyé l'avis de cotisation, si le contribuable en fait la demande par écrit [...].
+164(1) If the return of a taxpayer's income for a taxation year has been made within 3 years from the end of the year, the Minister
+(a) may,
+[…]
+(b) shall, with all due dispatch, make the refund referred to in subparagraph (a)(iii) after sending the notice of assessment if application for it is made in writing by the taxpayer [...]
+[19] Comme je l'ai déjà mentionné, les avocats de l'appelante soulignent l'utilisation du terme « lorsque », ou « where » en anglais, comme premier mot du paragraphe 129(1) de la Loi, contrairement à l'utilisation du terme « si », ou « if » en anglais, au paragraphe 164(1) de la Loi. En outre, ils soutiennent que l'absence de pénalité ou de conséquence en cas de non‑production de la déclaration dans le délai prévu engendre une ambiguïté par rapport à d'autres dispositions de la Loi.
+[20] Dans une certaine mesure, l'objet général que vise la combinaison des diverses dispositions de la Loi est de donner effet au principe de l'intégration. Ce principe vise à mettre un particulier qui détient des actions par l'intermédiaire d'une société de portefeuille privée dans la même situation qu'un particulier qui détient des actions directement. Il empêche des particuliers de détenir des actions qui génèrent des dividendes afin de différer, peut‑être de façon permanente, le paiement d'impôt sur ces dividendes. Le principe est ainsi largement admis et a été invoqué comme tel par les avocats des deux parties.
+[21] Le contexte et l'objet, toutefois, exigent que la Loi soit interprétée comme un ensemble harmonieux. Par conséquent, abstraction faite de l'argument portant sur la nature impérative ou directive, qui sera analysé plus loin, quelle est la fonction et l'objet du délai de production de la déclaration énoncé au paragraphe 129(1), dans l'article, la partie et la Loi dans son ensemble? L'appelante estime que le recours au délai de production pour interdire le remboursement au titre de dividendes est tellement contraire au principe de l'intégration qu'il faudrait l'exclure. En conséquence, la disposition concernant le remboursement au titre de dividendes deviendrait permanente. Le terme « lorsque », ou « where » en anglais, deviendrait « après » ou « after », et l'expression « dans les trois ans suivant la fin de l'année » serait complètement supprimée. En réalité, toute la première partie, à l'exception de l'expression « le ministre », serait inutile, étant donné que la disposition laisse déjà entendre que la déclaration doit par ailleurs être produite, ce qui donne lieu à (i) un avis de cotisation (alinéa 129(1)a)) ou (ii) une demande (alinéa 129(1)b)) en vue du paiement du remboursement au titre de dividendes. Se pourrait‑il que telle ait été l'intention du législateur dans le contexte du paragraphe et de la partie?
+[22] Tout comme dans de nombreuses autres dispositions de la Loi, le contexte et l'objet de l'intégration sont tous deux réalisés par un régime qui reconnaît l'obligation du contribuable de produire des déclarations de revenus, qui prévoit certaines mesures permettant au ministre de clôturer le processus après un délai plus que raisonnable (y compris de longs délais de grâce) et qui utilise un libellé efficace conforme à un régime fiscal d'autodéclaration et d'autocotisation. Dans son interprétation téléologique, l'appelante propose que l'on supprime le délai de production réaliste que prévoit le régime général d'autodéclaration et d'autocotisation prescrit par la loi. En outre, sur le plan des principes, le maintien du délai de production permet, d'une manière raisonnable, pratique et claire, de demander un remboursement au titre de dividendes pour les contribuables ayant recours à des sociétés de portefeuille privées et qui devraient être conscients des exigences, des complexités et des formalités supplémentaires liées à ces structures commerciales lorsqu'ils font appel à de telles entités : décision R. c. Neudorf, 75 D.T.C. 5213 (C.F. 1re inst.), à la page 5215.
+[23] Compte tenu de ce qui précède, le rôle primordial des termes clairs et non équivoques n'a pas révélé l'existence d'une ambiguïté latente que ferait apparaître l'analyse textuelle, contextuelle et téléologique de la disposition telle qu'elle est libellée dans la Loi et telle qu'elle est interprétée. L'intention du législateur d'établir le principe de l'intégration se manifeste dans une disposition qui renferme aussi des exigences logiques et raisonnables, mais assujetties à un délai, en ce qui concerne la production de déclarations, une notion qui est généralement présente dans plusieurs autres dispositions de la Loi. La présence dans la disposition et dans la partie en question du délai de production d'une déclaration n'est pas incompatible avec l'esprit de la Loi, d'autant plus que ce délai est long lorsqu'il s'agit d'obtenir un remboursement au titre de dividendes. Bien qu'une telle interprétation soit peut‑être peu commode, voire sévère, elle permet dans l'ensemble de donner effet, de façon harmonieuse, au contexte et à l'objet primordiaux et généraux de la disposition et de la Loi au lieu de les contredire ou de les contrecarrer. Le maintien du délai de production n'est pas absurde, pas plus qu'il ne donne lieu à un résultat contraire à l'intention considérée du législateur lorsque la loi est envisagée dans son ensemble : Hypothèques Trustco, au paragraphe 10.
+[24] Pour conclure l'analyse, la suppression du délai de production, comme l'a demandé l'appelante, éliminerait des mots et leur sens ordinaire, qui « est précis et non équivoque ». Elle empêcherait également la Cour de donner au texte prévoyant le délai de production le « rôle primordial dans le processus d'interprétation » qui lui revient, étant donné qu'il ressort de l'analyse textuelle, contextuelle et téléologique qu'il est conforme à l'objet de l'article, de la partie et de la Loi dans son ensemble.
+V. L'article 129 de la Loi est‑il de nature impérative ou directive?
+[25] Les avocats de l'appelante soutiennent aussi que l'absence de conséquences au paragraphe 129(1) de la Loi en cas de non-respect de cette disposition confère un caractère directif et non impératif à la disposition énonçant le délai de production. Juridiquement, lorsqu'une disposition énonce que quelque chose doit être fait, sans préciser le résultat en cas de défaut ou d'omission, la Cour doit décider si la disposition est impérative ou simplement directive : arrêt Colombie‑Britannique (Procureur général) c. Canada (Procureur général), [1994] 2 R.C.S. 41, à la page 76.
+[26] Le non‑respect par le contribuable du délai de production de la déclaration fixé entraîne non seulement une conséquence, mais c'est cette conséquence même qui est l'objet du présent appel. Si la société ne produit pas sa déclaration de revenus dans un délai de trois ans, le ministre n'est pas tenu d'effectuer le remboursement au titre de dividendes. La Cour tient également à souligner que le délai normalement exigé est beaucoup plus court pour la production de déclarations de revenus des sociétés et pour l'imposition de pénalités découlant du défaut de production d'une déclaration.
+[27] Un examen de la jurisprudence portant sur la nature directive ou impérative du libellé révèle certaines différences dans les faits par rapport à l'affaire dont la Cour est actuellement saisie. Il ne s'agit pas d'une situation où le ministre a omis d'accomplir un certain acte et aurait ainsi perdu sa compétence ou son pouvoir : Wang v. Commissioner of Inland Revenue, [1995] 1 All E.R. 367. Il ne s'agit pas d'une situation où un fonctionnaire a omis d'effectuer un dépôt technique : Lewis v. Brady, 17 O.R. 377 (H.C.J.), et Trenton (Town) v. Dyer (1895), 24 R.C.S. 474. L'obligation pour un contribuable de produire une déclaration de revenus est incontestablement claire dans la Loi.
+[28] L'omission de produire une déclaration de revenus entraîne de nombreuses conséquences. En l'espèce, l'examen logique permet de voir que les conséquences manifestes se produisent après trois ans, donc « lorsque » le contribuable n'a pas réussi à remédier au défaut, longtemps après l'expiration du délai lié à l'obligation légale principale de produire sa déclaration de revenus. Le délai n'est pas seulement impératif, mais il renferme une exigence et un objet qui sont essentiels pour l'application de la Loi : l'exigence pour le contribuable, qui connaît le mieux la nature de ses activités, de produire une déclaration de revenus. Il ne s'agit pas d'une question de procédure auxiliaire ou d'une question technique : décision Moriyama c. La Reine, 2004 CCI 311 (C.C.I.), confirmée en partie, 2005 CAF 207.
+[29] Les avocats de l'appelante laissent entendre que le résultat dur découlant de la position prise par le ministre relativement à la cotisation est une double imposition punitive et flagrante qui génère un gain fortuit en faveur du Trésor fédéral, ce qui est contraire à l'ensemble du régime légal. Si le paragraphe 129(1) de la Loi est considéré comme étant seulement de nature directive, le gain fortuit est refusé, mais le ministre ne subit aucune perte. Là encore, il est difficile d'envisager une obligation plus fondamentale imposée au contribuable par la Loi que la production de ses déclarations de revenus; la production de déclarations de revenus dans le délai prévu est essentielle [TRADUCTION] « pour atteindre l'objectif visé par la Loi » : décision Howard v. Boddington (1877), 2 P.D. 203, à la page 211.
+[30] L'exigence de production en temps opportun est intégrée dans la Loi. Telle devait certainement être l'intention du législateur. Logiquement, le non‑respect de cette exigence entraîne des sanctions diverses : des pénalités, des intérêts, l'établissement d'autres cotisations, le refus d'accorder des remboursements d'impôt et, en l'espèce, la perte du droit au remboursement au titre de dividendes. La disposition en question peut sembler injuste, unilatérale et draconienne, mais son contexte et son objet essentiels et primordiaux sont l'exigence de produire la « déclaration de revenus » prescrite pour une « année d'imposition » donnée dans un « délai de production » établi par la « Loi de l'impôt sur le revenu ». La condition sine qua non énoncée dans la Loi est peu, voire pas du tout, procédurale, hors contexte ou contraire à l'objet. Une obligation aussi essentielle permet difficilement d'interpréter le délai connexe et fondamental comme étant simplement de nature directive. L'appelante n'a cité aucune décision qui donne à penser qu'un délai de production d'une déclaration prescrit et la conséquence logique qui découle du défaut de produire une déclaration de revenus seraient de nature directive ou s'y apparenteraient. En [TRADUCTION] « examinant avec soin la portée générale de la loi à interpréter », on détermine si une exigence assujettie à des délais est de nature impérative ou directive : décision Senger‑Hammond c. La Reine, [1996] A.C.I. no 1609 (QL) (C.C.I.), au paragraphe 25. Une disposition énonçant un délai de production de déclarations de revenus, par rapport à d'autres dispositions de la Loi qui sont de nature procédurale ou technique et, certes, par rapport à l'exigence de reçus écrits dans la décision Senger‑Hammond, est beaucoup plus importante en soi, et aussi en général, pour l'objet visé par la Loi dans son ensemble. Au contraire, l'interprétation de la première partie comme étant de nature simplement directive rendrait la mention du délai de production de la déclaration lié à une telle obligation fondamentale nulle, dénuée de sens et contraire à la « portée générale de la loi » dans son ensemble.
+VI. Résumé et dépens
+[31] Compte tenu des motifs du jugement exposés ci‑dessus, les cotisations établies par le ministre pour les années d'imposition allant de 1997 à 2004 sont confirmées, mais le montant de la cotisation établie au titre de l'impôt de la partie IV pour l'année 2003 doit être réduit à 1 442 760 $, comme l'a admis l'avocat de l'intimée. Dans cette mesure, l'affaire est déférée au ministre pour nouvel examen et nouvelle cotisation.
+[32] Les dépens partie‑partie sont adjugés à l'intimée, conformément au tarif applicable, mais l'une ou l'autre des parties peut présenter à la Cour d'autres observations en vue d'un examen, dans les 30 jours suivant la date du présent jugement.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement du 12 septembre 2014 afin de corriger les erreurs de calcul mineures qui sont soulignées aux paragraphes 4 et 31 des présentes.
+Signé à Yellowknife (Territoires du Nord‑Ouest), ce 24e jour de septembre 2014.
+« R. S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 27e jour de janvier 2015.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2014 CCI 272
+No DU DOSSIER DE LA COUR : 2009-3721(IT)G
+INTITULÉ : 1057513 ONTARIO INC. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 3 mars 2014
+MOTIFS DU JUGEMENT
+MODIFIÉS : L'honorable juge Randall S. Bocock
+DATE DU JUGEMENT : Le 12 septembre 2014
+DATE DES MOTIFS DU
+JUGEMENT MODIFIÉS : Le 24 septembre 2014
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Martin Sorensen
+Me Philip Ward
+Avocat de l'intimée :
+Me Arnold H. Borstein
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Martin Sorensen
+Philip Ward
+Cabinet : Bennett Jones
+Toronto (Ontario)
+Pour l'intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

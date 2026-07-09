@@ -1,0 +1,172 @@
+---
+title: "Kimber c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/235607/index.do"
+last_modified: "2017-09-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 197"
+citation2: ""
+neutral_citation: "2017 CCI 197"
+decision_date: "2017-09-28"
+language: "fr"
+item_id: "235607"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2214
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:21:14.763000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "23da04d2826484125f4dfcb24cb178c40e4ebcab9ec7183c0997e159abe25699"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kimber c. La Reine
+
+- Citation: 2017 CCI 197
+- Decision date: 2017-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2214, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kimber c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-09-28
+Référence neutre
+2017 CCI 197
+Numéro de dossier
+2016-2595(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016‑2595(IT)I
+ENTRE :
+JOHN KIMBER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 10 mai 2017, à North Bay (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Cédric Renaud Lafrance
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2014 de l’appelant est rejeté, sans dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Prince George (Colombie‑Britannique), ce 28e jour de septembre 2017.
+« B. Rusell »
+Juge Russell
+Référence : 2017 CCI 197
+Date : 20170928
+Dossier : 2016‑2595(IT)I
+ENTRE :
+JOHN KIMBER,
+appelant,
+et
+SA MAJESTÉ LA REINE
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+Introduction
+[1] La Cour est saisie d’un appel sous le régime de la procédure informelle dans le cadre duquel l’appelant, M. Kimber, qui n’a suivi aucune formation en droit, se représente lui‑même. L’appelant interjette appel à l’encontre de la nouvelle cotisation établie le 19 mars 2016 par le ministre du Revenu national (le « ministre ») de l’intimée en vertu de la Loi de l’impôt sur le revenu fédérale (la « Loi ») pour l’année d’imposition 2014 de l’appelant. La nouvelle cotisation avait pour objet de refuser les crédits d’impôt personnels demandés par l’appelant en vertu des alinéas 118(1)b) et b.1) de la Loi, soit le « crédit pour personne à charge » et le « crédit pour enfant ». Ces crédits ont été demandés à l’égard d’un enfant (le crédit pour personne à charge) et de deux enfants (crédit pour enfants).
+Faits
+[2] À l’audience, l’appelant a témoigné pour son propre compte et il n’a appelé aucun autre témoin. L’intimée n’avait aucun témoin, mais elle a déposé en preuve plusieurs pièces documentaires, tel que cela est indiqué ci‑dessous. L’intimée n’a pas contredit le témoignage de l’appelant et je l’ai trouvé tout à fait crédible. Il avait eu une relation d’une durée de cinq ans avec une locataire dans un immeuble qui lui appartenait à North Bay. Ils avaient commencé à cohabiter dans les locaux de l’appelant dans le même immeuble à compter de juin 2014. À ce moment‑là, la locataire était enceinte et elle a donné naissance à deux jumelles à la fin de septembre 2014, dont l’appelant était le père. Les deux parents ont continué de cohabiter jusqu’à la fin de novembre, maintenant avec leurs deux fillettes. Malheureusement, leur union s'est rompue et, pendant la nuit du 27 novembre 2014, la mère a déménagé subrepticement avec les deux enfants et a emménagé avec ses parents à Hamilton.
+[3] Cette rupture a bouleversé considérablement l’appelant et il déclare que la plupart de ses ressources ont ensuite été dépensées pour un litige portant sur la garde et pour les pensions alimentaires pour enfants, conformément à l’ordonnance rendue par la Cour de justice de l’Ontario. Il a obtenu une ordonnance de garde temporaire de ses enfants au début de janvier 2015, mais, plus récemment, il n’a pas réussi à obtenir une ordonnance de garde permanente. Selon le témoignage de l’appelant, la mère a fait et fait preuve d’une animosité extrême envers lui. L’appelant a indiqué en outre que la mère avait refusé de collaborer avec lui d’une façon quelconque, y compris pour ce qui est de tenter de parvenir à une entente pour les demandes de crédits d’impôt personnels pour 2014, lesquelles sont en litige dans le présent appel.
+[4] Les documents déposés en preuve par l’intimée pendant le contre‑interrogatoire de l’appelant étaient composés d’une copie de l’ordonnance de garde temporaire rendue par la Cour de justice de l’Ontario en date du 8 janvier 2015, d’une copie de sa lettre à l’intention de l’Agence du revenu du Canada (l’« ARC ») en date du 4 mars 2015 qui indique que, le 22 janvier 2015, une autre ordonnance du tribunal a été rendue quant à la garde partagée d’une semaine, d’une copie de son questionnaire rempli de l’ARC qui semble avoir été présenté le 12 mars 2015 et d’un autre qui semble avoir été présenté le 28 avril 2015. Le contenu de tous les documents semble être conforme à l’exposé des faits qui précède.
+Question en litige
+[5] La Cour doit décider si l’appelant a droit aux deux crédits d’impôt personnels qui lui ont été refusés par le ministre pour son année d’imposition 2014.
+Thèses des parties
+[6] L’appelant demande les crédits d’impôt personnels au motif qu’il fournit des soins, y compris un soutien financier à ses jumelles depuis leur naissance. Il soutient que l’antagonisme dont la mère fait preuve envers lui l’empêche d’avoir accès aux documents qu’elle lui aurait peut‑être fournis par ailleurs, qui pourraient l’aider en ce qui concerne sa demande.
+[7] L’intimée a déclaré que, puisqu’il ne vivait pas avec les enfants pendant toute l’année d’imposition 2014, conformément à l’alinéa 118(1)b.1) il ne peut pas demander un crédit pour enfant pour cette année d’imposition. De plus, vu qu’il ne résidait pas avec les enfants ni leur offrait un soutien à un moment donné pendant qu’il était célibataire ou séparé pendant l’année d’imposition 2014, il ne peut pas demander un crédit pour personne à charge, conformément à l’alinéa 118(1)b.1) pour cette année d’imposition. De plus, et en tout état de cause, même si l’appelant avait résidé avec les enfants et leur avait fourni un soutien pendant qu’il ne vivait pas en union de fait avec la mère, puisque les parents n’ont conclu aucune entente quant à la personne qui pourrait demander les crédits d’impôt, pour ce motif, il n’est admissible à ni l’un ni l’autre de ces crédits.
+Discussion
+[8] Il importe de souligner le principe de « conjoint de fait » défini au paragraphe 248(1). Essentiellement, il s’entend de l’une des deux personnes qui vit dans une relation conjugale et qui a vécu ainsi pendant une période de douze mois ou qui seraient tous les deux les parents d’un enfant et ensuite, si les deux vivaient séparées pendant une période d’au moins 90 jours, leur relation prend fin rétroactivement au premier de ces 90 jours.
+[9] Appliqué à l’espèce, on peut constater qu’une union de fait entre l’appelant et son ancienne locataire a commencé au plus tard le jour de la naissance de leurs deux jumelles, soit le 23 septembre 2014. Ensuite, le premier jour où ils vivaient séparés était environ deux mois plus tard, soit le 27 novembre 2014, lorsque la mère a clandestinement pris les enfants et a quitté la résidence de l’appelant en vue de vivre avec ses parents à Hamilton. Ils ont vécu séparés au moins jusqu’au 25 février 2015, soit le 90e jour suivant le 27 novembre 2014.
+[10] En conséquence, l’union de fait qui a commencé à la fin de septembre 2014 a pris fin environ deux mois plus tard, le 27 novembre 2014, lorsque la mère a quitté soudainement la résidence de l’appelant et a pris les deux enfants pour aller résider avec ses parents à Hamilton.
+[11] L’alinéa 118(1)b) qui prévoit le crédit pour personne à charge dispose :
+b) le total de 10 527 $ et de la somme obtenue par la formule ci‑après si le particulier ne demande pas de déduction pour l’année par l’effet de l’alinéa a) et si, à un moment de l’année :
+(i) d’une part, il n’est pas marié ou ne vit pas en union de fait ou, dans le cas contraire, ne vit pas avec son époux ou conjoint de fait ni ne subvient aux besoins de celui‑ci, pas plus que son époux ou conjoint de fait ne subvient à ses besoins,
+(ii) d’autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient aux besoins d’une personne qui, à ce moment, remplit les conditions suivantes :
+(A) elle réside au Canada, sauf s’il s’agit d’un enfant du particulier,
+(B) elle est entièrement à la charge, soit du particulier ou d’une ou plusieurs de ces autres personnes,
+(C) elle est liée au particulier,
+(D) sauf s’il s’agit du père, de la mère, du grand-père ou de la grand-mère du particulier, elle est soit âgée de moins de 18 ans, soit à charge en raison d’une infirmité mentale ou physique,
+10 527 $ + D - D.1
+où
+D représente :
+(i) 2 150 $ si :
+(A) la personne à charge est âgée de 18 ans ou plus à la fin de l’année et était à la charge du particulier au cours de l’année en raison d’une infirmité mentale ou physique,
+(B) la personne à charge est une personne, sauf un enfant du particulier relativement auquel l’alinéa b.1) s’applique, qui, à la fin de l’année, est âgée de moins de 18 ans et qui, en raison d’une infirmité mentale ou physique, dépendra vraisemblablement d’autrui, pour une longue période continue d’une durée indéterminée, pour ses besoins et soins personnels, et ce dans une mesure plus importante que d’autres personnes du même âge, et qui dépendait ainsi du particulier au cours de l’année,
+(ii) zéro, dans les autres cas,
+D.1 le revenu de la personne à charge pour l’année;
+[12] En l’appliquant à l’appelant, d’abord en ce qui concerne la solution de rechange prévue à la première partie du sous‑alinéa (i), il y a deux périodes en 2014 pendant lesquelles il n’était pas marié et/ou il ne vivait pas en union de fait. Ces périodes sont du 1er janvier au 23 septembre et du 27 novembre au 31 décembre. En ce qui concerne la solution de rechange prévue à la deuxième partie du sous‑alinéa (i), il n’y avait aucun moment en 2014 où il était marié ou dans une union de fait, mais ne subvenait pas aux besoins de sa conjointe de fait ou elle ne subvenait pas à ses besoins. Par conséquent, pour l’application du sous‑alinéa (i), il existe deux périodes, soit du 1er janvier au 23 septembre et du 27 novembre au 31 décembre.
+[13] De plus, en ce qui concerne le sous‑alinéa 118(1)b)(ii), la seule période en 2014 au cours de laquelle l’appelant habitait un établissement domestique autonome et où il subvenait aux besoins d’un de ses enfants était la période du 23 septembre au 27 novembre.
+[14] Comme on peut le constater, il n’existe aucun moment donné en commun entre les sous‑alinéas 118(1)b)(i) et (ii). En conséquence, l’appelant ne répondait pas aux exigences de l’alinéa 118(1)b) afin d’être admissible au crédit pour personne à charge en 2014. Même s’il n’y a aucun doute et qu’il est en fait clair que l’appelant aimait beaucoup ses fillettes et qu’il a été très blessé lorsqu’elles ont été enlevées soudainement par leur mère le 27 novembre, ces facteurs ne permettent pas d’appliquer les critères prévus à la loi, soit à l’alinéa 118(1)b), pour le crédit pour personne à charge.
+[15] En ce qui a trait au crédit pour enfant, ses critères sont établis à l’alinéa 118(1)b.1) de la Loi qui dispose :
+b.1) 2 150 $ pour chaque enfant du particulier qui est âgé de moins de 18 ans à la fin de l’année et qui, en raison d’une infirmité mentale ou physique, dépendra vraisemblablement d’autrui, pour une longue période continue d’une durée indéterminée, pour ses besoins et soins personnels dans une mesure plus importante que d’autres enfants du même âge si l’une des conditions ci‑après est remplie :
+(i) l’enfant réside habituellement, tout au long de l’année, avec le particulier et un autre parent de l’enfant,
+(ii) sauf en cas d’application du sous‑alinéa (i), le particulier :
+(A) soit peut déduire une somme en application de l’alinéa b) relativement à l’enfant,
+(B) soit pourrait déduire une somme en application de l’alinéa b) relativement à l’enfant si les faits ci‑après étaient avérés :
+(I) l’alinéa (4)a) et le passage « ou pour le même établissement domestique autonome » à l’alinéa (4)b) ne s’appliquaient pas au particulier pour l’année,
+(II) l’enfant n’avait pas de revenu pour l’année.
+[16] La question soulevée par l’intimée en appliquant cette disposition ne porte que sur le libellé introductif du sous‑alinéa 118(1)b.1)(i), qui dispose :
+pour chaque enfant du particulier qui est âgé de moins de 18 ans à la fin de l’année et qui réside habituellement, tout au long de l’année, avec le particulier et un autre parent de l’enfant, le total des sommes suivantes : [...]
+[17] Évidemment, aucun des enfants ne résidait avec l’appelant « tout au long » de l’année d’imposition 2014 (n.b., le cas échéant, on compte à partir de la date dans l’année à laquelle l’enfant particulier est né – paragraphe 118(9.1)). La décision de la Cour rendue dans Chu c Sa Majesté, 2005 CCI 169 confirme que l’expression « tout au long de l’année » signifie l’année dans son ensemble. Tel que cela a été énoncé, ni l’un ni l’autre des enfants ne résidait avec l’appelant en 2014 pendant la période du 27 novembre au 31 décembre.
+[18] En conséquence, l’appelant n’est pas admissible non plus au crédit pour enfant pour l’année d’imposition.
+[19] Par conséquent, l’appel est rejeté.
+Signé à Prince George (Colombie‑Britannique), ce 28e jour de septembre 2017.
+« B. Russell »
+Juge Russell
+RÉFÉRENCE :
+2017CCI197
+NO DU DOSSIER DE LA COUR :
+2016‑2595(IT)I
+INTITULÉ :
+JOHN KIMBER ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+North Bay (Ontario)
+DATE DE L’AUDIENCE :
+Le 10 mai 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 28 septembre 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Cédric Renaud Lafrance
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[BLANK/EN BLANC]
+Cabinet :
+[BLANK/EN BLANC]
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada

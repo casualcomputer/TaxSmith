@@ -1,0 +1,119 @@
+Title: Surrey City Centre Mall Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31168/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-148-31168-surrey-city-centre-mall-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-05-07
+
+# Surrey City Centre Mall Ltd. c. La Reine
+
+- Citation: 2013 CCI 148
+- Decision date: 2013-05-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5031, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Surrey City Centre Mall Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-05-07
+Référence neutre
+2013 CCI 148
+Numéro de dossier
+2009-3904(GST)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-3904(GST)G
+ENTRE :
+SURREY CITY CENTRE MALL LTD.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue le 8 avril 2013, à Vancouver (Colombie‑Britannique)
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocat de l'appelante :
+Me Joel Nitikman
+Avocat de l'intimée :
+Me Bruce Senkpiel
+________________________________________________________________
+ORDONNANCE
+La requête présentée par la requérante en prorogation du délai pour demander des dépens plus élevés relativement à son appel est rejetée, et les dépens de la requête sont adjugés à l'intimée.
+La requérante a droit aux dépens de l'appel calculés conformément au tarif.
+Signé à Toronto (Ontario), ce 7e jour de mai 2013.
+« V. A. Miller »
+Le juge Miller
+Traduction certifiée conforme
+ce 16e jour de juillet 2013.
+Yves Bellefeuille, réviseur
+Référence : 2013 CCI 148
+Date : 20130507
+Dossier : 2009-3904(GST)G
+ENTRE :
+SURREY CITY CENTRE MALL LTD.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge V. A. Miller
+[1] La requérante sollicite une prorogation du délai pour demander des dépens majorés de 75 000 $ relativement à un jugement faisant droit à son appel. Elle demande également que les dépens de la présente requête lui soient adjugés. Le motif en est que ce n'est qu'après l'expiration du délai de 30 jours prévu pour la présentation d'une requête en majoration des dépens que son avocat a su qu'aucun appel ne serait déposé relativement à l'affaire.
+[2] L'appel en question concernait une cotisation établie à l'égard de la requérante pour un montant de 2 688 785 $ en TPS, plus l'intérêt et les pénalités pour production tardive. L'appel soulevait les questions suivantes : (1) Les 41,1 millions de dollars versés par la Technical University of British Columbia (la « Tech BC ») à l'Insurance Corporation of British Columbia (l'« ICBC ») ont‑ils été versés implicitement à la requérante (l'appelante), ou encore la dette de la requérante a‑t‑elle été réduite au sens du paragraphe 182(1) de la Loi sur la taxe d'accise (la « LTA »)? (2) La Tech BC a‑t‑elle effectué le paiement en qualité de mandataire de la province, de sorte que l'immunité dont jouit l'État s'applique?
+[3] Le procès a été instruit pendant trois jours par le juge Hershfield. Celui‑ci a conclu que la dette de la requérante avait été réduite au sens du paragraphe 182(1), mais que la requérante jouissait de la même immunité fiscale que la province. Il a accueilli l'appel de la requérante avec dépens et a rendu son jugement le 2 octobre 2012. Le même jour, ce jugement a été transmis par courrier électronique à l'avocat de la requérante.
+[4] Suivant le paragraphe 147(7) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »), le délai imparti au contribuable pour demander à la Cour une majoration des dépens est de 30 jours suivant la date à laquelle il a pris connaissance du jugement. De même, l'appel d'un jugement de la Cour canadienne de l'impôt devant la Cour d'appel fédérale doit être interjeté dans les 30 jours suivant le jugement. Quant à la présente requête, les deux délais d'appel ont expiré le 1er novembre 2012. La requérante a déposé sa requête le 28 novembre 2012, avec un retard de 27 jours.
+[5] Les facteurs à prendre en compte pour décider s'il y a lieu ou non d'accorder une prorogation de délai sont les suivants : l'intention constante d'intenter le recours dans le délai prescrit, l'existence d'une cause défendable, la cause et la durée réelle du retard, et la question de savoir si le retard a causé un préjudice : Rosen c. La Reine, [2000] A.C.F. no 415 (QL), 2000 CanLII 15117 (C.A.F.), Tomas c. La Reine, 2007 CAF 86.
+[6] La requérante explique son retard par le fait que son avocat attendait de voir si l'intimée allait porter l'affaire en appel devant la Cour d'appel fédérale. Dans l'affidavit déposé à l'appui de la requête, l'auteur de l'affidavit déclare que l'avocat [TRADUCTION] « ne voulait pas demander d'adjudication des dépens avant le règlement définitif de l'espèce. À sa connaissance, l'intimée ne subirait aucun préjudice si la Cour prorogeait le délai prévu pour le dépôt de la présente requête. »
+[7] J'estime que la raison invoquée pour expliquer le retard est dénuée de pertinence et qu'elle ne suffit pas à justifier une prorogation de délai : Maytag Corp. c. Whirlpool Corp., 2001 CAF 250. Le délai prévu au paragraphe 147(7) des Règles s'applique indépendamment du fait que le jugement est porté en appel. Le jugement rendu le 2 octobre 2012 a mis un terme à l'espèce dont la Cour canadienne de l'impôt était saisie.
+[8] Du fait que rien dans les documents produits devant la Cour ne permettait de supposer que la requérante avait l'intention de présenter une demande de majoration des dépens dans le délai imparti de 30 jours, j'ai interrogé l'avocat à ce sujet. Sa réponse a été la suivante :
+[TRADUCTION]
+LA COUR : Ne me faut‑il pas également examiner si la requérante est en mesure de montrer qu'au cours de la période de 30 jours, elle avait l'intention de déposer une requête pour la fixation de dépens supérieurs au tarif?
+Me NIKITMAN : Bien, les règles ne le précisent pas. Je veux dire, c'est assurément un facteur.
+LA COUR : Hum, mais c'est ce que dit la jurisprudence.
+Me NIKITMAN : Non, et j'allais dire qu'il s'agit certainement d'un facteur à considérer. Je peux vous dire, Madame le juge, que la pratique courante, chez les avocats, consiste à ne demander une prorogation de délai qu'au moment où l'on sait si un appel sera ou non interjeté. Et s'il y a appel, ce n'est qu'à sa conclusion que la question des dépens sera débattue. Et parfois, l'affaire se rend devant la Cour suprême du Canada et, le cas échéant, la requête relative aux dépens n'est déposée qu'une fois que la Cour suprême a statué sur le fond. Ainsi, bien souvent, il s'écoule beaucoup de temps avant que les avocats... avant que l'on ne connaisse le véritable dénouement d'une cause. Je veux dire, il s'agit là d'une pratique courante parmi les avocats.
+[9] Peut‑être cette pratique est‑elle courante chez certains avocats, mais ce n'est certes pas une pratique que la Cour cautionne. Une telle façon de procéder constitue un total mépris de la Cour et des Règles.
+[10] Dans l'arrêt Maytag, l'avocat a également fait valoir qu'il convenait de présenter une requête en majoration des dépens une fois épuisées toutes les voies d'appel, puisqu'il s'agit du moment où la responsabilité définitive est établie quant aux dépens. Sur ce point, je souscris à la réponse donnée par le juge Sharlow :
+[TRADUCTION]
+Cet argument ne me convainc pas. Les rédacteurs de l'article 403 des Règles étaient forcément conscients des impératifs que commande une instance, et, en particulier, de la possibilité qu'une ordonnance d'adjudication des dépens puisse être infirmée en appel. Or, cela ne les a pas empêchés de prescrire un délai de 30 jours à l'alinéa 403(1)a) des Règles, pas plus que cela ne les a incités à prévoir une règle autorisant la présentation d'une requête pour l'obtention de directives quant aux dépens après la décision rendue dans tout appel. J'en conclus qu'on attachait plus d'importance au fait d'avoir, en temps opportun, une décision certaine quant aux dépens qu'à la possibilité que des efforts soient faits en vain en raison d'un appel.
+[11] Un peu plus loin dans ses observations, l'avocat de la requérante a déclaré que sa cliente n'avait eu l'intention de présenter une requête quant aux dépens qu'au moment où elle avait su s'il y aurait ou non appel du jugement en l'espèce. D'après l'affidavit déposé pour le compte de la requérante, Me Nitikman n'a pas téléphoné à l'avocat de l'intimée pour l'interroger sur la possibilité d'un appel avant l'expiration du délai de 30 jours. J'en conclus que la requérante n'avait pas eu d'intention constante de présenter une requête en vertu du paragraphe 147(7) des Règles.
+[12] L'avocat de l'intimée a indiqué que l'octroi de la prorogation ne lui serait pas préjudiciable. Toutefois, il ne s'agit que d'un facteur parmi tous ceux que je dois examiner.
+[13] Pour étayer ses prétentions à l'égard d'une majoration des dépens, l'avocat de la requérante a fait valoir que la somme en cause était élevée : les taxes, l'intérêt et la pénalité représentaient en tout 4,7 millions de dollars. L'enjeu était important et la décision constitue un « jugement de principe » qui a été remarqué en Australie et commenté par un spécialiste de la TPS, Me David Sherman.
+[14] Selon moi, la requérante n'a pas établi que sa cause est défendable. Les arguments qu'elle a invoqués pour justifier des dépens majorés n'étaient pas convaincants. Que la somme en jeu soit élevée n'est pas un critère suffisant pour justifier l'adjudication de dépens supérieurs à ceux du tarif. La question en litige concernait l'interprétation du paragraphe 182(1) de la LTA. Or, la Cour a déjà traité de cette disposition de la LTA dans deux décisions antérieures. L'une d'elles portait sur un appel instruit sous le régime de la procédure informelle. L'audition de l'appel devant le juge Hershfield avait duré trois jours et un seul témoin avait été interrogé. Soixante‑quatorze documents avaient été produits en preuve. Le fait que Me Sherman ait publié un commentaire au sujet du jugement n'en fait pas une « cause type ». Toutes les causes relatives à la TPS ont droit à un commentaire de Me Sherman. Par ailleurs, l'avocat australien qui a rédigé une analyse de la décision note qu'on ne peut faire [TRADUCTION] « aucun rapprochement évident » avec l'article 182 de la loi australienne sur la TPS. J'en déduis qu'il a dû trouver la décision intéressante.
+[15] Vu les circonstances de l'espèce, j'ai conclu que la requérante n'aurait pas eu droit à des dépens majorés, même si elle en avait fait la demande à temps.
+[16] Bien que la requête ait été déposée seulement 27 jours après l'expiration du délai prescrit de 30 jours, la requérante n'a pas démontré qu'il existait des circonstances atténuantes susceptibles de justifier la prorogation du délai prévu pour le dépôt d'une demande de majoration des dépens de l'appel.
+[17] La requête est rejetée et les dépens sont adjugés à l'intimée. La requérante a droit aux dépens de l'appel calculés conformément au tarif.
+Signé à Toronto (Ontario), ce 7e jour de mai 2013.
+« V. A. Miller »
+Le juge Miller
+Traduction certifiée conforme
+ce 16e jour de juillet 2013.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2013 CCI 148
+No DU DOSSIER DE LA COUR : 2009-3904(GST)G
+INTITULÉ : Surrey City Centre Mall Ltd. c. La Reine
+LIEU DE L'AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L'AUDIENCE : Le 8 avril 2013
+MOTIFS DE L'ORDONNANCE : L'honorable juge Valerie Miller
+DATE DE L'ORDONNANCE : Le 7 mai 2013
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Joel Nitikman
+Avocat de l'intimée :
+Me Bruce Senkpiel
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Joel Nitikman
+Cabinet : Fraser Milner Casgrain S.E.N.C.R.L.
+Pour l'intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

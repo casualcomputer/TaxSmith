@@ -1,0 +1,200 @@
+---
+title: "Glogowski v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26409/index.do"
+last_modified: "2004-01-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 59"
+citation2: ""
+neutral_citation: "2004 TCC 59"
+decision_date: "2004-01-15"
+language: "en"
+item_id: "26409"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3356
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:54:37.892000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "feebe571b03189e2c2601fadee895458b795e239e375af15bee06b80b1ef2633"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Glogowski v. M.N.R.
+
+- Citation: 2004 TCC 59
+- Decision date: 2004-01-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3356, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glogowski v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-15
+Neutral citation
+2004 TCC 59
+File numbers
+2003-822(EI)
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-822(EI)
+BETWEEN:
+YORKE GLOGOWSKI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+__________________________________________________________________
+Appeal heard together with the appeal of Yorke Glogowski (2003-823(CPP)), on December 2, 2003 at Kelowna, British Columbia
+Before: The Honourable Justice Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bruce Senkpiel
+__________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated.
+Signed at Québec, Québec, this 15th day of January 2004.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2004TCC59
+Date: 20040115
+Docket: 2003-822(EI)
+2003-823(CPP)
+BETWEEN:
+YORKE GLOWGOSKI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] Mr. Glogowski is appealing the Minister’s decisions that his work as a gardener in 2002 was not insurable or pensionable employment within the meaning of the Employment Insurance Act and the Canada Pension Plan respectively. The appeals were heard together on common evidence at Kelowna, British Columbia. Mr. Glogowski testified on his own behalf. The Minister called no witnesses.
+[2] Yorke Glogowski is a gardener who works in the Okanogan Valley. He is the common-law partner of Christine Holt. Mr. Glogowski and Ms. Holt are the lessees in a lease agreement dated February 9, 2002 with the lessor Elizabeth Halvax. The lease ran from March 1, 2002 to October 31, 2002 and gave the lessees the use of a greenhouse for growing English cucumbers, 1.5 acres of orchard and some farm equipment and tools.
+[3] During the 2002 season, Mr. Glogowski worked in the orchard and the greenhouse from June 1 to September 30. The produce was sold under the name CY Produce, the “CY” standing for “See why” [our produce is better!]. Mr. Glogowski’s evidence is that lump sum payments rather than hourly rates are the norm in the industry. The salary range for the sort of horticulture-vegetable farm work he did was $2,500 - 3,000 per month. Ms. Holt set his start time for the day’s work at 5:00 a.m. but left it to him to decide when he finished depending on what needed to be done in any particular day. Normally, however, he worked 6 days a week for approximately 10-12 hours a day. After CY Produce had received payment each month from the distributor for the produce sold, Ms. Holt would pay Mr. Glogowski $2,500 (less any advances) in cash for which he signed a payroll stub in receipt. Ms. Holt remitted his CPP and EI deductions and prepared his T4 “Statement of Remuneration Paid”. She was named in the T4 as the employer.
+[4] Part I: Issues under the Canada Pension Plan and Old Age Security Act and the Employment Insurance Act
+1. Was Mr. Glogowski a partner or an employee?
+The Minister’s position is that Mr. Glogowski was in partnership with Ms. Holt and, for that reason, could not have been her employee. He cites the lease agreement as conclusive evidence of the partnership. Whether a partnership exists is a question of mixed fact and law depending on all the circumstances at hand. In making such a determination, the Court may have regard to a multitude of factors including the contribution of money by the parties, property, effort, knowledge, skill or other assets to a common understanding, a joint property interest in the subject-matter of the venture, a mutual right of control or management of the enterprise, the filing of income tax returns as a partnership and joint bank accounts.[1]
+Mr. Glogowski has the onus of proving that he was not a partner in CY Produce. The Court is satisfied that he has done so. To begin with, although he took on certain obligations when he signed the lease, this in itself is not sufficient to put him in partnership with Ms. Holt. Further militating against the existence of a partnership is Mr. Glogowski’s evidence that he had no right to share in any profits; at month end, he was entitled to nothing more or less than his salary of $2,500 regardless the level of produce sales during that period. The produce payments were paid directly to Ms. Holt, never to Mr. Glogowski. He testified that the bank account was solely in Ms. Holt’s name. No tax return was filed for a partnership. Considering the evidence as a whole, it simply defies common sense to say that Mr. Glogowski was a partner in CY Produce. For this reason the Minister’s first argument must fail.
+2. Was Mr. Glogowski in a contract for services or a contract of service?
+The Minister’s alternative position is that even if Mr. Glogowski is not a partner, he is still not an “employee”, i.e. someone “engaged in pensionable employment” as set out in the Canada Pension Plan and Old Age Security Act[2]. Mr. Glogowski has the onus of rebutting the Minister’s assumption that he was an independent contractor. He must show on a balance of probabilities that his work in the greenhouse and orchard was done as an employee under a contract of service.
+The Minister argues that Mr. Glogowski was working under a contract for services not a contract of service and refers the Court to the 'four-in-one test' developed by the Federal Court of Appeal in Wiebe Door Services Ltd. v. MNR (1986)[3] to determine Mr. Glogowski’s status. The Wiebe Door test sets out the following criteria:
+1. the degree, or absence, of control exercised by the alleged employer;
+2. ownership of tools;
+3. chance of profit and risk of loss; and
+4. integration of the alleged employee's work into the alleged employer's business.
+[5] As the Federal Court of Appeal acknowledged in Wolf v. Canada,[4] it is easier to list the criteria than to apply them with precision to any particular set of facts. This is certainly the case when dealing with a small unsophisticated operation like CY Produce but each heading is considered below:
+1) the degree, or absence, of control exercised by the alleged employer;
+[6] It was Ms. Holt who started CY Produce; it was sometime after that that she realized she could not handle the operation on her own and Mr. Glogowski began work in the greenhouse and orchard. His original plan had been to seek similar work elsewhere in the valley but he was not successful in doing so. Mr. Glogowski testified that it was Ms. Holt who set his start time at 5:00 a.m. and who authorized him to cease his labours at whatever time he was able to complete his duties for that day. As an experienced gardener, he was expected to know what to do without daily supervision by Ms. Holt. Certainly, Mr. Glogowski was not subject to a neatly fixed schedule with clearly defined duties as a “greeter” at Wal-Mart or a mail clerk at CCRA might be. But that is not the norm in his line of work. Does that deprive him of the status of an employee? The Court concludes it does not. On the evidence presented, it is clear Ms. Holt had control of the work Mr. Glogowski performed.
+2) ownership of tools;
+[7] As co-lessees, Mr. Glogowski and Ms. Holt were equally entitled to the use of the “tools” referred to (but not further described) in the lease. Beyond this, however, there was no evidence before the Court as to what tools were needed or actually used in the work, what tools Mr. Glogowski may have owned or contributed, or if Ms. Holt provided tools. In short, there was no evidence to assist the Court under this head of Wiebe Door.
+3) chance of profit and risk of loss;
+[8] As mentioned above, Mr. Glogowski had no right to share in any profits nor to expect anything more than his monthly salary of $2,500. The Minister argues, however, that because he signed the lease and was jointly responsible for the lease payments, Mr. Glogowski had a chance of “risk of loss”. In the generic sense of these words, it could be said that his obligations under the lease put him at risk of being liable for lease payments to Ms. Halfax, the lessor. Signing the lease did not, however, increase or decrease his entitlement to receive $2,500 each month from Ms. Holt for performing his agreed-upon duties. Accordingly, the Court is not satisfied that his joint obligation with Ms. Holt to the lessor put him at “risk of loss” within the meaning of Wiebe Door.
+4) integration of the alleged employee's work into the alleged employer's business
+[9] Acknowledging the difficulty of applying this portion of the Weibe Door test, Counsel for the Minister urges the Court to consider the criterion used in the Supreme Court of Canada decision, 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[5] In that case, Major, J. modified the integration test to the fundamental question of “whose business is it?” Put another way, did Mr. Glogowski do his gardening work on his own account or for his employer?[6] If the former, it is a contract for service; if the latter, a contract of service.
+[10] Mr. Glogowski is an experienced gardener who didn’t need to have his employer watching over his every move. As the only person on the payroll to work in the greenhouse and orchard, his labours were important to the production of produce at CY. That said, any other equally competent employee hired by Ms. Holt could have carried out his duties. Mr. Glogowski’s evidence was that he had no responsibilities beyond those duties. The Court is satisfied that Mr. Glogowski has met the onus of establishing that he performed his duties as an employee working under a contract of service and accordingly, his employment during the period in question is pensionable.
+[11] Part II: Issues under the Employment Insurance Act only
+Under the Employment Insurance Act Mr. Glogowski has an additional hurdle to cross if he is to be successful in his appeal. The relevant statutory provisions are set out below:
+Employment Insurance Act
+2. (1) Definitions – In this Act,
+...
+"employer" includes a person who has been an employer and, in respect of remuneration of an individual referred to as sponsoror co-ordinator of a project in paragraph 5(1)(e), it includes that individual;
+...
+"employment" means the act of employing or the state of being employed;
+...
+"insurable employment" has the meaning assigned by section 5;
+...
+5. (1) Types of insurable employment - Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+(2) Excluded employment - Insurable employment does not include
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+(3) Arm's length dealing - For the purposes of paragraph (2)(i),
+...
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[12] Paragraph 5(3)(a) provides that the question of whether or not parties are dealing at arm's length is to be decided under section 251 of the Income Tax Act. The relevant portions of section 251 of the said Act read:
+"Section 251. Arm's length.
+(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm's length; and
+...
+(2) Definition of "related persons". For the purpose of this Act, "related persons", or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or adoption;
+...
+[13] The parties agree that Mr. Glogowski and Ms. Holt were in a common-law relationship at the relevant time. Accordingly, pursuant to section 251, they are deemed not to have dealt with each other at “arm’s length” in their employer‑employee relationship.
+[14] Where an employee and employer are deemed not to be dealing at arm's length under paragraph 5(2)(i), the Minister has discretion under paragraph 5(3)(b) to decide whether or not it is reasonable to conclude that an arm's length employee and employer would have entered into a substantially similar contract in the same circumstances. In Mr. Glogowski’s case, the Minister exercised his discretion to decide, on the assumptions set out in the Reply, that it was not reasonable to conclude that an arm's length employee and employer would have entered a substantially similar contract of service as did Mr. Glogowski and Ms. Holt.
+[15] It is this decision that Mr. Glogowski is appealing. Counsel for the Minister referred the Court to Her Majesty the Queen and Bayside Drive-in [7], a decision of the Federal Court of Appeal, which stated that an appeal under paragraph 5(3)(b) involves a two-stage inquiry:
+Step (1): to determine whether the Minister's discretion has been properly exercised;
+Step (2): if the Court concludes that the Minister's discretion has been improperly exercised, to determine whether, taking into account all the circumstances set out in the Act, it is reasonable to conclude that the employment arrangement between the related employer and employee is substantially similar to one in which those dealing at arm's length would have entered.
+[16] Mr. Glogowski has the onus of establishing on a balance of probabilities that arm's length parties would have entered a substantially similar contract as did he and Ms. Holt. To succeed, Mr. Glogowski must show the Minister exercised his discretion improperly by having done at least one of the following:
+(a) acted in bad faith or for an improper purpose or motive; or
+(b) failed to take into account all of the relevant circumstances, as expressly required by subparagraphs 5(3)(b); or
+(c) considered an irrelevant factor.
+[17] In assessing the manner in which the Minister has exercised his statutory discretion, the Court may have regard to the facts arising out of the hearing of the appeal. The Court is satisfied that Mr. Glogowski has demonstrated that the Minister exercised his discretion improperly under paragraph 5(3)(b) by having successfully rebutted the following assumptions upon which the Minister’s decision was based:
+(a) that Mr. Glogowski was working in partnership with Ms. Holt [Assumption 4(l)];
+(b) that Mr. Glogowski was not paid a wage or salary by CY Produce on a pre-determined basis [Assumption 4(m)];
+(c) that Mr. Glogowski was neither directed nor controlled by CY Produce in the performance of his duties [Assumption 4(o)]; and
+(d) in the alternative, that Mr. Glogowski was not engaged by CY Produce in a contract of service. [Assumption 4(p)].
+[18] By having failed to take into account all of the relevant circumstances and/or considered irrelevant factors in reaching his decision, the Minister improperly exercised his discretion. Having passed this hurdle, Mr. Glogowski advances to the second step in the process and must satisfy the Court that the contract of service between him and Ms. Holt was “substantially similar” to one which another employer and employee dealing with each other at arm's length would have entered.
+[19] The Minister argues that Mr. Glogowski’s claim must fail because an arm’s length employee would not have signed the lease as he did. The Court has already found that in all other respects i.e, the hours of work, the quantum, mode and timing of the payment of remuneration, and the degree of self-direction of the work, the contract of service under which Mr. Glogowski was employed was typical of the industry and could have been imposed without significant change on an arm’s length employee.
+[20] The only question is whether his having co-signed the lease is fatal to Mr. Glogowski’s argument that he was an employee. The Court finds that it is not. There was no evidence that his agreeing to sign the lease was a condition precedent to his being taken on as an employee. The person who insisted that Mr. Glogowski sign the lease was the lessor, Elizabeth Halvax, not his employer Ms. Holt. The Court has no evidence before it as to what might have happened if Mr. Glogowski had refused to sign the lease. One can speculate that Ms. Halvax would not have agreed to the lease in which case Ms. Holt would not have been able to hire Mr. Glogowski - or anyone else, for that matter. There was no evidence, however, that Mr. Glogowski’s signing the lease was a condition of Ms. Holt’s hiring him. Mr. Glogowski’s uncontroverted testimony was that Ms. Holt “…could hire anyone she wanted to do the work”. He testified that he accepted employment at CY Produce only after he had been unable to secure work elsewhere. Accordingly, the Court is satisfied that the employment contract between Mr. Glogowski and Ms. Holt is substantially similar to one that an arm's length employer and employee would have entered.
+[21] For the above reasons, the Court finds that the period in question was both insurable and pensionable employment, allows the appeals and vacates the Minister’s decisions.
+Signed at Québec, Québec, this 15th day of January 2004.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2004TCC59
+COURT FILE NO.:
+2003-822(EI), 2003-823(CPP)
+STYLE OF CAUSE:
+Yorke Glogowski and M.N.R.
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+December 2, 2003
+REASONS FOR JUDGMENT BY:
+the Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+January 15, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1][1] Continental Bank of Canada v. R., [1998] 4 C.T.C. 119 (S.C.C.); Pedwell v. R., 2000 D.T.C. 6405 (F.C.A.)
+[2] 2. (1) "employment" means the performance of services under an express or implied contract of service or apprenticeship, and includes the tenure of an office;
+6. (1) Pensionable employment is (a) employment in Canada that is not excepted employment;
+[3] 87 D.T.C. 5025 (Fed. C.A.)
+[4] [2002] F.C.A. 96
+[5] [2001] S.C.J. No. 61.
+[6] Market Investigations, Ltd. v. MSS, [1968] 3 All E.R. 732, affirmed by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. No. 61.
+[7] 218 N.R. 150

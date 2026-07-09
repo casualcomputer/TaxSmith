@@ -1,0 +1,145 @@
+---
+title: "Boudreau v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30969/index.do"
+last_modified: "2012-09-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 342"
+citation2: ""
+neutral_citation: "2012 TCC 342"
+decision_date: "2012-09-28"
+language: "en"
+item_id: "30969"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4843
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:08:55.806000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cfb529ef722853a7d0e8b1967bf3863ec8717f69ea2a0aa4f4f9a58c266a0fb8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boudreau v. The Queen
+
+- Citation: 2012 TCC 342
+- Decision date: 2012-09-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4843, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boudreau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-09-28
+Neutral citation
+2012 TCC 342
+File numbers
+2011-1650(GST)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-1650(GST)I
+BETWEEN:
+RÉAL BOUDREAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 24, 2012, at Québec, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the appellant:
+Louis Sirois
+Counsel for the respondent:
+Éric Bernatchez
+____________________________________________________________________
+JUDGMENT
+The appeal from an assessment made in respect of the appellant under subsection 323(1) of the Excise Tax Act is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of September 2012.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 13th day of November 2012
+Margarita Gorbounova, Translator
+Citation: 2012 TCC 342
+Date: 20120928
+Docket: 2011-1650(GST)I
+BETWEEN:
+RÉAL BOUDREAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal from an assessment (notice of which is dated July 18, 2006, and bears the number PQ-2006-9010, for the period from May 1, 1998, to October 31, 2003) made against the appellant under subsection 323(1) of the Excise Tax Act (the ETA). At issue is whether, as a director of Couture universelle Inc. (the corporation), the appellant is solidarily liable, together with the corporation, to pay $182,182.19, the amount that the Corporation failed to pay, and interest and penalties. It should be immediately pointed out that the evidence showed the following:
+(i) On August 2, 2004, the corporation made an assignment of its property;
+(ii) The claims in bankruptcy were made within six months of the date of bankruptcy in accordance with the conditions prescribed in paragraph 323(2)(b) of the ETA.
+[2] The only issue in this case is whether the appellant exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+The appellant's argument
+[3] The appellant is of the opinion that the care, diligence and skill defence set out at subsection 323(3) of the ETA applies to him given that, as a director in good faith and a prudent person, he could not have prevented the failure to pay the amount (in this case, $182,182.19) related to the goods and services tax (GST) in that neither he nor his corporation nor tax authorities could reasonably identify the amount owing to the tax authorities before the corporation's bankruptcy. Indeed, the appellant maintains that, had it not been for the theft of documents (invoices) and the loss of documents by the department responsible for administering welfare in Quebec (the Department) during a search on June 10, 1999, and by the accountant mandated by the corporation to represent it during the audit, and the accountant's negligence, the corporation would have been able to show to the Minister that the assessment made in respect of the corporation was unfounded.
+[4] The appellant testified. His spouse, France Boudreau, also testified in support of the appellant's position.
+[5] Ms. Boudreau's testimony showed the following:
+(i) During the relevant period, she produced all quarterly reports regarding GST and paid on time the GST-related net tax. Ms. Boudreau specified that the corporation had given her all the responsibilities related to its administration including that of filling out GST reports.
+(ii) Her former son-in-law had stolen documents (of unspecified nature) from the corporation in order to be able to forge the appellant's signature. Ms. Boudreau explained that her former son-in-law had extorted a sum of about $20,000 from the corporation in 2001 by forging the appellant's signature on cheques drawn on the corporation's bank account. Finally, Ms. Boudreau added that her former son-in-law had been convicted of theft in relation to that extortion. I note that Ms. Boudreau has not filed in evidence any indictment, judgment regarding the theft or complaint to the police. I note also that it would have been very interesting to hear the testimony of the former son‑in‑law in this regard.
+(iii) On June 10, 1999, police searched the corporation (as part of an investigation led by the Department) and thus seized all of the corporation's documents. Ms. Boudreau specified that, following that investigation, the corporation had been cleared but that the investigators had lost a large part of the documents seized and they had never been returned to the corporation. I note that the appellant filed no documents regarding this search, such as an inventory of seized property or his complaint with regard to the documents lost.
+(iv) As part of the audit, the accounting firm, Voyer, Voyer et Associés (Voyer) was mandated to represent the corporation. Ms. Boudreau added that Voyer had acted negligently in carrying out its mandate in that it had refused to send to tax authorities the corporation's reports, records and invoices, which would have negated the assessment made in respect of the corporation. In sum, Ms. Boudreau claimed that, if not for Voyer's negligence, the corporation's assessment would have been negated and the corporation would not have declared bankruptcy. The appellant filed in evidence a notice (Exhibit A-7) advising Voyer that, if it failed to send the documents to the corporation within five days of the receipt of the notice, proceedings for damages of $405,093.58 would be instituted against it. I note that it would have been very interesting to hear a Voyer representative give his or her version of the facts in this regard. I also note that, in a letter dated March 28, 2007, Voyer, through its counsel, denied all the allegations made against it by the appellant. Finally, I note that, in the audit report filed in evidence as Exhibit A-1, the auditor reported that the appellant was not very cooperative and that the accountant had told her that the appellant had brought him certain documents only [Translation] "one by one".
+[6] In his testimony, the appellant was content to essentially corroborate his spouse's testimony. The appellant added that he had had nothing to do with the corporation's management, given that he had no knowledge in that area, which explains why he had given the corporation's management over to his spouse whom he trusted completely.
+Analysis and conclusion
+[7] At paragraph 23 of Buckingham v. The Queen, 2011 FCA 142, the Federal Court of Appeal recently briefly explained as follows the legal framework applicable to the care, diligence and skill defence under subsection 323(3) of the ETA:
+23. These consolidated appeals raise three principal issues:
+a. Is the applicable standard of care, diligence and skill under subsection 227.1(3) of the Income Tax Act and subsection 323(3) of the Excise Tax Act an objective standard?
+b. Does the standard under subsection 227.1(3) of the Income Tax Act apply differently than under subsection 323(3) of the Excise Tax Act?
+c. Can a successful defence under subsection 227.1(3) of the Income Tax Act or subsection 323(3) of the Excise Tax Act be sustained where the efforts of the directors are focussed on curing failures to remit rather than towards preventing such failures?
+[8] I reiterate that the appellant argued that, as a director in good faith and a prudent person, he could not prevent the failure to pay the GST amount, which neither he, nor his corporation, nor the tax authorities could reasonably identify before the corporation's bankruptcy as owing to the tax authorities in that, had it not been for the theft and loss of documents and negligence of the accountant, the corporation would have been able to show the Minister that the assessment made in its respect was unfounded. Therefore, first, the appellant had to satisfy me of the facts alleged at paragraph 5. The appellant's evidence in this regard was based essentially on his testimony and that of his spouse. It is certainly not with vague, imprecise testimony contradicted by documents that he himself filed in evidence (see my comments at paragraph 5) that the appellant could hope to satisfy me. I would add that the appellant was able to produce relevant evidence and to call certain witnesses (see my comments at paragraph 5), which might have made it possible to elucidate the facts. He did not do so. I infer from this that the evidence in question would have been unfavourable to him.
+[9] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 28th day of September 2012.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 13th day of November 2012
+Margarita Gorbounova, Translator
+CITATION: 2012 TCC 342
+COURT FILE NO.: 2011-1650(GST)I
+STYLE OF CAUSE: RÉAL BOUDREAU AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: August 24, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: September 28, 2012
+APPEARANCES:
+Counsel for the appellant:
+Louis Sirois
+Counsel for the respondent:
+Éric Bernatchez
+COUNSEL OF RECORD:
+For the appellant:
+Name: Louis Sirois
+Firm: Sirois, Tremblay & Associés
+Québec, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

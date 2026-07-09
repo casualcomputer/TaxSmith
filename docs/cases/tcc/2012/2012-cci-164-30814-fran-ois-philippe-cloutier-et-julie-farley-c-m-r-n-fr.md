@@ -1,0 +1,239 @@
+---
+title: "François-Philippe Cloutier et Julie Farley c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30814/index.do"
+last_modified: "2012-05-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 164"
+citation2: ""
+neutral_citation: "2012 CCI 164"
+decision_date: "2012-05-30"
+language: "fr"
+item_id: "30814"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7557
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:36:32.511000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e858c53569c53f1bc77b108f87beb904e56c7ddd46aa792c835e18605a3a2ca9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# François-Philippe Cloutier et Julie Farley c. M.R.N.
+
+- Citation: 2012 CCI 164
+- Decision date: 2012-05-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7557, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+François-Philippe Cloutier et Julie Farley c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-05-30
+Référence neutre
+2012 CCI 164
+Numéro de dossier
+2011-2152(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2011-2152(EI)
+ENTRE :
+FRANCOIS-PHILIPPE CLOUTIER ET JULIE FARLEY,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CAROLLE LACHANCE,
+intervenante.
+____________________________________________________________________
+Appel entendu le 10 février 2012, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat des appelants :
+Me Martin Bouffard
+Avocat de l'intimé :
+Me Simon Vincente
+Pour l’intervenante :
+L’intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L’appel de la décision établie en vertu de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi par le ministre du Revenu national pour la période du 3 août 2009 au 10 septembre 2010 à savoir si l’intervenante, madame Carolle Lachance, avait exercé un emploi assurable auprès des appelants est rejeté.
+La décision du ministre du Revenu national est confirmée, selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 30e jour de mai 2012.
+« Alain Tardif »
+Le juge Tardif
+Référence : 2012 CCI 164
+Date : 20120530
+Dossier : 2011-2152(EI)
+ENTRE :
+FRANCOIS-PHILIPPE CLOUTIER ET JULIE FARLEY,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CAROLLE LACHANCE,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel interjeté à l’encontre d’une décision établie à l’égard des appelants par le ministre du Revenu national (le « ministre ») en vertu de la Loi sur l’assurance-emploi (la « Loi ») à savoir si Carolle Lachance (la « travailleuse ») avait exercé un emploi assurable lorsqu’à leur service pour la période du 3 août 2009 au 10 septembre 2010.
+[2] Au moment de la période en litige, l’appelante était médecin spécialiste; ses heures de travail étaient irrégulières en ce qu’elle devait composer avec des urgences, des heures de gardes, etc. Les appelants accordaient une très grande importance aux qualités requises d’une gardienne pour assumer l’importante, mais aussi délicate tâche de garder leurs enfants à la résidence familiale.
+[3] La preuve a établi que les appelants exigeaient que tout soit mis en œuvre pour le plus grand bien-être, le confort, la sécurité et le bonheur de leurs enfants. Tout ce qui était étranger à la garde des enfants tel que le ménage et l’entretien des lieux était secondaire.
+[4] Ainsi, les travaux d’entretien et de nettoyage étaient secondaires; la gardienne pouvait ainsi faire des mots croisés ou des mots cachés en plus de faire et de recevoir des appels relatifs à des dossiers personnels si cela permettait une meilleure attention lors des siestes des enfants.
+[5] La gardienne avait une interprétation un peu différente quant aux tâches à accomplir, la priorité quant à son rôle de gardienne était cependant la même. Pour illustrer sa pensée quant à l’autorité des appelants, mais aussi quant aux autres tâches à accomplir, la gardienne a affirmé que l’appelant lui avait indiqué qu’elle n’avait pas correctement fait le travail de nettoyage dans une garde‑robe.
+[6] Le fait que le travail de gardienne ait été l’objet fondamental du contrat est clairement ressorti; à l’occasion, lorsque l’appelante terminait une période de garde tôt le matin, elle revenait à la maison et libérait la gardienne en demi-journée.
+[7] De plus, lors des vacances ou voyages, les appelants auraient pu demander que certains travaux ménagers soient effectués, tels que le lavage et le ménage; il n’en était pas ainsi; de plus, la gardienne recevait le plein montant convenu. Pourquoi? Les appelants ne voulaient pas risquer que la gardienne quitte pour se trouver un travail rémunéré d’une manière ininterrompue.
+[8] À partir des témoignages, il n’est pas facile de répertorier plusieurs éléments démontrant une ou des manifestations d’autorité. À cet égard, les principaux éléments sont l’incident du nettoyage de la garde-robe, le fait qu’elle devait respecter un horaire fixe quant à son arrivée sur les lieux du travail, l’endroit où avait lieu la garde, etc.
+[9] La preuve a cependant fait ressortir d’une manière non équivoque que la considération principale et l’objet fondamental du contrat étaient la garde des enfants. La preuve a aussi établi que la gardienne possédait toutes les qualités requises pour assumer la responsabilité de son rôle de gardienne.
+[10] Un lien de confiance a rapidement été établi; les parties faisaient tout pour que celui-ci se maintienne sauf, à la fin, où les relations se sont, d’une part, détériorées et, d’autre part, la sérénité de chacune des parties a pris une tournure plutôt conflictuelle qui a atteint son apogée quand la gardienne a fait une demande pour obtenir des prestations d’assurance-emploi.
+[11] La nature du contrat intervenu doit s’apprécier à partir d’une seule question tout à fait fondamentale. Existait-il une relation d’autorité ou un lien de subordination entre les parents et la gardienne? En l’espèce, l’exercice s’avère plutôt difficile en ce que les faits révélés par la preuve ne permettent pas de constater des situations claires et déterminantes où la partie payeuse a exercé clairement son autorité si ce n’est au moment où le contrat a été convenu et lors de l’incident de la garde-robe.
+[12] Sur cet aspect, il est cependant important de rappeler que la preuve du lien de subordination n’exige aucunement que la démonstration soit faite par des faits précis ou lors d’une situation décrite ou largement documentée. Il suffit que la preuve démontre d’une manière déterminante que la partie payeuse avait un tel pouvoir et qu’elle n’y a jamais renoncé.
+[13] En l’espèce, la gardienne a-t-elle négocié ses conditions de travail d’égal à égal? La gardienne aurait-elle pu se faire remplacer pour exécuter l’objet du contrat par quelqu’un d’autre? La gardienne aurait-elle pu imposer certains comportements avec les enfants? La gardienne aurait-elle pu questionner, contester, voir ignorer certaines directives relatives à la façon de se comporter avec les enfants? La gardienne aurait-elle pu refuser de coucher les enfants à l’heure indiquée, etc.? Ce sont là quelques questions auxquelles la preuve ne permet pas de répondre.
+[14] Par contre, il est clairement ressorti que les antécédents de la gardienne avaient été pris en compte. Ses valeurs, son sens de responsabilité, ses compétences avec les enfants, etc., ont été évalués, appréciés et acceptés. Un profond lien de confiance a été établi; ce lien fut important à un tel point que la gardienne recevait la rémunération convenue sans avoir à garder lors de certaines situations ponctuelles. Pourquoi? Parce que les parents ne voulaient pas risquer de perdre les qualités qu’ils avaient constatées chez leur gardienne.
+[15] Une telle réalité générait un très grand respect des parties l’une envers l’autre puisqu’il semble que les deux parties étaient très satisfaites de la situation. Dans un tel contexte, il devenait difficile de faire la preuve de situations où des sanctions ont été envisagées, des réprimandes formulées. Faute d’une telle preuve, doit-on conclure à l’absence d’un lien de subordination?
+[16] Je ne crois pas. Rien dans la preuve ne permet de conclure que la gardienne disposait d’une liberté, d’une autonomie et d’une flexibilité qui caractérisent un contrat d’entreprise. Le respect mutuel des parties ne signifie pas pour autant que les parties ont négocié d’égal à égal.
+[17] Les personnes qui occupent des emplois techniques pouvant exiger des connaissances et des aptitudes très pointues au point qu’il soit impossible de leur enseigner quoi que ce soit, celles qui exécutent le travail en l’absence totale du payeur et celles qui possèdent des connaissances supérieures, seraient-elles privées du statut d’une personne salariée?
+[18] La réponse à toutes ces questions est évidemment négative en ce que la détention du pouvoir de contrôle n’exige aucunement l’inexpérience du payeur; le statut de salarié n’est d’ailleurs pas incompatible avec les notions de liberté, d’autonomie et de flexibilité.
+[19] La personne qui œuvre dans un domaine aussi particulier que celui de garder des enfants à la maison des parents doit avoir des qualités nombreuses et précises en conformité avec les attentes des parents. Il doit s’établir rapidement un lien de confiance totale où il n’y a aucun espace ou presque pour les irritants pouvant avoir des effets ou conséquences sur la qualité des services de garde, les enfants étant généralement la plus importante et profonde préoccupation des parents.
+[20] Ainsi, il est évident qu’une gardienne d’enfants qui possède tous ces attributs ne pourrait pas s’absenter et confier les enfants dont elle a la garde à quelqu’un d’autre sans l’approbation des parents.
+[21] Si un parent confie ses enfants à une garderie, le lien de confiance se tisse entre la garderie et le parent, la dimension personnelle n’a pas la même importance.
+[22] Pour les appelants, leurs enfants étaient au centre de leur vie; manifestement, ils n’étaient prêts à aucun compromis en ce qui concerne la qualité des services de garde.
+[23] Les appelants soutiennent que les parties se sont entendues pour que le travail de gardienne soit effectué dans le cadre d’un contrat de services. Toujours selon les appelants, il n’y avait aucune équivoque à cet effet.
+[24] Le tout a débuté par des annonces dans les journaux indiquant qu’un travail de gardienne était offert où la gardienne devrait signer des reçus pour attester le paiement du montant payé à titre de gardienne.
+[25] Les conditions claires et évidentes du contrat de services telles qu’alléguées par les appelants n’étaient pas aussi claires et évidentes pour la personne qui a accepté le poste de gardienne.
+[26] D'ailleurs, l’argument du reçu exigé est quelque chose de particulier en ce qui a trait au travail de gardienne d’enfants. En effet, ce déboursé a une incidence fiscale alors que autres travaux (tels que réparations, électricité, plomberie, peinture, décoration, aménagement paysager, etc.) n’ont aucun impact sur la déclaration de revenus pour une résidence personnelle. Ces autres travaux sont généralement exécutés par un entrepreneur qui fournit un reçu. Le fait d’obtenir ou d’exiger un reçu n’a aucun impact déterminant sur la qualification de la nature d’un contrat relatif à la garde d’enfants.
+[27] Lorsque deux parties conviennent d’un contrat de services ou d’un contrat d’entreprise, cela suppose que les parties négocient d’égal à égal et l’absence d’ascendant de l’un ou l’autre sur l’autre, tout en gardant à l’esprit le contexte voulant que les deux parties aient intérêt à ce qu’une entente intervienne. Cet intérêt peut se traduire par un comportement laissant croire à un lien de subordination ou à l’absence d’égalité chez l’une ou l’autre des parties.
+[28] Cette situation est d’autant plus possible qu’il n’est pas rare que l’une des parties exige que le contrat en soit un de services étant donné les nombreux avantages qui en découlent notamment au niveau des coûts, facilité de gestion, économie de paperasse, possibilité d’imputer des dépenses aux revenus, etc. alors qu’il peut en être autrement pour l’autre partie.
+[29] Les appelants ont soutenu que la détermination devait être établie à partir de l’entente intervenue, à savoir que les parties avaient convenu que le travail serait effectué dans le cadre d’un contrat de services.
+[30] Lorsque la volonté et l’intention des parties sont clairement exprimées et que le consentement obtenu n’est pas assujetti aux causes de nullité prévues par le droit civil, les parties doivent assumer les conséquences juridiques de leur choix et cela, en autant que les faits reliés à l’exécution du contrat soient cohérents avec la formule du contrat retenu.
+[31] En l’espèce, les appelants ont affirmé qu’il ne faisait aucun doute que l’entente constituait un contrat d’entreprise. La gardienne a, quant à elle, affirmé qu’elle n’avait aucunement cette interprétation, sa compréhension étant qu’elle devait payer ses impôts à la fin de l’année. Chose certaine, elle croyait que son travail en était un qui était protégé par l’assurance-emploi. La conclusion qui se dégage du témoignage des parties au contrat litigieux est donc à l’effet que l’entente n’était pas aussi claire que les appelants le soutiennent.
+[32] Pour être pris en compte, la volonté et l’intention des parties doivent se manifester tout au long de l’exécution du contrat. En d’autres termes, les faits relatifs à l’exécution du travail doivent valider et confirmer le choix prétendu quant au contrat.
+[33] Le travail de gardienne d’enfants est un travail fort particulier en ce qu’il peut s’effectuer de différentes façons et selon certaines caractéristiques. Ainsi, un travail de gardienne peut être qualifié d’occasionnel et, de par cette réalité, ne peut être assurable. Il s’agit notamment de toutes les situations où les parents retiennent les services d’un jeune adolescent, d’un parent, d’un voisin ou d’un ami pour garder son ou ses enfants généralement pour de courtes durées, une soirée, une urgence, etc.
+[34] D’autres choisissent de confier leurs enfants à une entreprise à l’extérieur de leur résidence dans une entreprise spécialisée et encadrée et assujettie à toute une série de contraintes administratives. D’autres ont recours à une garderie non encadrée ou simplement à une gardienne ou un gardien qui garde chez lui à sa propre résidence. Il s’agit là de quelques hypothèses où il est possible d’effectuer le travail de gardien ou de gardienne.
+[35] En l’espèce, les appelants désiraient obtenir une gardienne responsable, fiable, qualifiée possédant toutes les qualités pour que leurs enfants obtiennent le meilleur encadrement qui soit, sans aucune concession ni compromis, et cela, à la résidence familiale.
+[36] Pour obtenir satisfaction, les appelants étaient disposés à payer une très bonne rémunération bonifiée par plusieurs avantages, en offrant à la gardienne des heures de travail écourtées, un salaire garanti travail fait ou non, une grande autonomie voire liberté quant à la façon d’exercer le travail, pourvu que toute son attention, tout son intérêt et toute sa préoccupation soient dirigés et concentrés entièrement sur le bien-être, le confort, la sécurité et les besoins du ou des enfants. Non seulement le travail de gardienne était le volet important, il était le seul. Tout le reste était secondaire.
+[37] Il existait un très grand lien de confiance entre les appelants et la gardienne, laquelle agissait manifestement en conformité avec les attentes des appelants au point que ceux-ci lui témoignaient leur appréciation par une certaine bonification de la situation avec des heures de travail écourtées et rémunérées lors des absences des appelants.
+[38] La distinction entre un contrat de services et un contrat de louage de services repose sur l’existence ou non d’un lien de subordination qui se traduit par le pouvoir de contrôler le travail.
+[39] Il n’est pas nécessaire que le pouvoir de contrôle soit exercé; il suffit essentiellement de détenir un tel pouvoir et de ne pas y avoir renoncé. Il devient extrêmement difficile de déterminer la nature du contrat si la personne engagée exécute le travail à la satisfaction de l’autre partie et possède toutes les qualités, qualifications et connaissances dans le contexte où elle aime son travail.
+[40] En l’espèce, les appelants détenaient-ils un tel pouvoir de contrôle, ont-ils abdiqué ce pouvoir, l’ont-ils exercé? Les appelants ont soutenu que les conditions d’embauche étaient claires et précises, en ce qu’un reçu devait être émis. Effectivement de façon générale, un salarié touche son salaire sans être tenu de signer un reçu pour attester le paiement de son salaire. En matière de garde d’enfants, la situation est différente pour les raisons déjà mentionnées.
+[41] Une prestation de travail effectué par une même personne, pour le compte et le bénéfice d’un même payeur, dont l’objet est clairement défini et assujetti à un encadrement tout aussi défini, pour une durée indéfinie, d’une manière répétitive et continue, constitue un contexte très difficilement réconciliable avec un contrat d’entreprise.
+[42] Un contrat d’entreprise est généralement assez précis quant à la durée ou est assujetti à des éléments précis qui situent la fin dans le temps. Il se peut également qu’un contrat d’entreprise prévoie une durée indéterminée avec une formule continue et répétitive. Il s’agit notamment de tous les contrats d’entretien, l’entrepreneur ayant cependant le loisir de travailler pour plusieurs payeurs et de programmer, à sa discrétion, l’horaire pour l’exécution des tâches.
+[43] Ce possible rapprochement s’arrête là puisque l’entrepreneur a le pouvoir, la capacité, et l’autonomie d’avoir plus d’un payeur. Cette autonomie, cette flexibilité, et cette non-exclusivité sont des caractéristiques qui confèrent aux parties un statut d’égal à égal ou aucun statut de suprématie de l’une ou l’autre des parties sur l’autre.
+[44] En l’espèce, la gardienne devait commencer à des heures définies non par elle, mais par les contraintes professionnelles des parents. Après l’évaluation des compétences qui rencontraient et répondaient aux attentes des parents, un très grand lien de confiance a été créé et manifestement le travail exécuté les comblait.
+[45] Dans un tel contexte, les parents n’ont pas eu l’occasion de sévir ou même manifester des signes évidents ou extérieurs démontrant leur autorité. Ils étaient pleinement satisfaits du travail de la gardienne au point de la rémunérer même lorsqu’elle ne gardait pas pour être certains de ne pas la perdre, notamment pour éviter qu’elle décroche ailleurs un travail plus continu et régulier.
+[46] Cet élément valide la thèse du contrat de louage de services bien que non suffisant, ni déterminant. Il s’inscrit dans la liste des autres caractéristiques à l’appui de la conclusion voulant qu’il s’agisse d’un contrat de louage de services.
+[47] Je conclus donc que le travail en litige a été exécuté dans le cadre d’un contrat de louage de services et, notamment, pour les raisons suivantes :
+· la régularité, continuité et durée indéterminée du travail;
+· l’encadrement, le début et la fin du travail décidé exclusivement par le payeur;
+· l’absence d’autonomie de la gardienne;
+· l’exclusivité. La gardienne n’aurait pu se faire remplacer sans autorisation et approbation;
+· la forme particulière de la rémunération;
+· le pouvoir d’intervention et/ou le contrôle unilatéral détenu par le payeur; et
+· l’inégalité dans la relation contractuelle. Les parties n’étaient pas égales dans les négociations bien que le payeur ait été très accommodant, très respectueux.
+[48] Ce sont là divers éléments qui, pris isolément, ne sont pas suffisants pour conclure au contrat de louage de services, mais cumulativement ils deviennent suffisants pour conclure à une prépondérance de la preuve en faveur du contrat de louage de services.
+[49] Une analyse du contrôle exercé par l’employeur en examinant les directives de l’employeur concernant la nature du travail à accomplir (le « quoi »), la manière de le faire (le « comment »), l’endroit (le « où ») et le moment où il doit être effectué, et dans quel délai (le « quand ») il doit être accompli, ainsi que l’existence d’un droit de sanctionner et contrôler le travail permet d’arriver à une appréciation de la relation du travail, en restant fidèle aux règles du droit civil.
+[50] La Loi ne comporte aucun indice ni aucune définition pour distinguer un contrat de louage de services d’un autre type de contrat, tel un contrat de service. Il appartient à la Cour de déterminer la nature du travail en faisant appel aux principes appropriés du droit civil en ce qui concerne le Québec, et au principe de la common law en ce qui concerne les autres provinces.
+[51] Pour les appels issus des provinces où le principe de la common law s’applique, la pratique de la Cour canadienne de l’impôt et de la Cour d’appel fédérale est d’apprécier la relation entre le prestataire du service et le bénéficiaire selon les critères énoncés dans l’arrêt Wiebe Door. Dans l’arrêt TBT Personnel Services Inc. c. Canada, 2011 CAF 256, la Cour d’appel a ainsi résumé l’état de la Loi :
+[8] L’arrêt qui fait autorité en ce qui concerne les principes pour établir une distinction entre un contrat de louage de services et un contrat d’entreprise est Wiebe Door Services Ltd. c. M.N.R., [1986] 3 C.F. 553 (C.A.). Le juge Major, rédigeant l’arrêt de la Cour suprême du Canada, a approuvé Wiebe Door dans l’arrêt 67112 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] 2 R.C.S. 983. Il a résumé, aux paragraphes 47 et 48, les principes pertinents comme suit :
+47. […] La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48. Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[52] Certaines décisions récentes indiquent que l’intention commune des parties quant à la nature de leur relation juridique doit aussi faire partie de l’analyse, quand cette intention est conforme à la réalité :
+[9] Dans les arrêts Wolf c. Canada, 2002 CAF 96, [2002] 4 C.F. 396 (C.A.), et Royal Winnipeg Ballet c. Canada (Ministre du Revenu national - M.N.R.) 2006 CAF 87, [2007] 1 R.C.F. 35, la Cour a ajouté que lorsqu’il est établi que les parties avaient l’intention commune d’établir une relation juridique entre elles, il est nécessaire de tenir compte de cette preuve, mais il est également nécessaire d’examiner les facteurs exposés dans Wiebe Door afin de déterminer si les faits concordent avec l’intention déclarée des parties.
+[Je souligne]
+[53] Donc, selon l’arrêt TNT Personnel, l’intention commune des parties doit être prise en compte lorsque les faits concordent avec cette intention déclarée. L’intention commune des parties doit cependant être établie; il est difficile d’établir une telle intention lorsque les parties au contrat offrent des témoignages divergents en l’absence d’un contrat écrit.
+[54] À cette difficulté s’ajoute le fait que les parties à un contrat sont souvent inégales quant aux connaissances requises pour faire certaines distinctions et comprendre les nuances. D’ailleurs, de telles lacunes peuvent exister même en présence d’un écrit. Conséquemment, il est important de démontrer que l’employé a signé le contrat en connaissant les conséquences juridiques, y compris l’impact sur la possibilité des prestations de l’assurance-emploi.
+[55] Il faut préciser que l’arrêt TNT Personnel émane de la province de l’Ontario, la Cour d’appel n’avait donc pas l’avantage de se référer au Code civil du Québec dans ce domaine. En effet, la Loi d'interprétation, LRC 1985, c I-21, édicte qu’en présence d’un concept du droit privé dans une loi fédérale, il faut avoir recours à la loi provinciale appropriée :
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+8.2 Sauf règle de droit s’y opposant, est entendu dans un sens compatible avec le système juridique de la province d’application le texte qui emploie à la fois des termes propres au droit civil de la province de Québec et des termes propres à la common law des autres provinces, ou qui emploie des termes qui ont un sens différent dans l’un et l’autre de ces systèmes.
+[56] Dans une publication au sujet du bijuridisme canadien, le juge Archambault établit l’applicabilité de l’article 8.1 de la Loi d’interprétation pour la détermination de la relation du travail dans le sens de l’article 5 de la Loi sur l’assurance-emploi[1]. Après avoir effectué un survol de l’état de la jurisprudence sur l’interprétation des lois fédérales qui font appel aux concepts de droit privé provincial, notamment après avoir exposé les doctrines de la complémentarité, et celui de dissociation, le juge Archambault conclut que la bonne approche à suivre suite à l’amendement de l’article 8.1 de la Loi d’interprétation en 2001 est celui de complémentarité:
+[33] À mon avis, avant de suivre des précédents dans lesquels les tribunaux ont appliqué le principe de dissociation ou le principe d’uniformité, il faudra s’interroger si les interprétations qu’ils ont adoptées ou les principes qu’ils ont exposés sont toujours justifiés à la lumière de l’article 8.1 [loi d’interprétation]. Avant l’entrée en vigueur de cet article, les tribunaux se reconnaissaient une certaine latitude pour appliquer soit le principe d’uniformité ou le principe de complémentarité. Depuis l’entrée en vigueur de l’article 8.1, ils sont tenus de respecter le principe individuel de la souveraineté parlementaire et d’utiliser le principe de complémentarité dans l’interprétation de toute loi fédérale.
+[57] Le Code civil du Québec, LRQ, c C-1991, définit un contrat de travail à l’article 2085 :
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[58] Donc, au Québec, le contrat de travail a trois caractéristiques : (1) le travail; (2) la rémunération; et (3) la direction ou le contrôle par l’employeur – ce qu’on peut aussi appeler un lien de subordination.
+[59] Après voir étudié les provisions du Code civil du Québec pour distinguer entre un contrat de service et un contrat de travail, le juge Archambault conclut ce qui suit :
+[38] La définition du contrat de travail de l’article 2085 C.c.Q. permet de dégager les trois éléments constitutifs essentiels d’un tel contrat, soit i) le travail, ii) la rémunération et iii) les liens de subordination. Quant au contrat de service, quatre conditions doivent être réunies selon les articles 2098 et 2099 C.c.Q. : i) fourniture d’un service, ii) en contrepartie d’un prix, iii) libre de choix pour le prestataire de services des moyens d’exécution du contrat et iv) absence de lien de subordination quant à son exécution. Il ressort de l’analyse des articles 2085, 2098 et 2099 que le lien de subordination est non seulement l’un des éléments « constitutifs » essentiel du contrat de travail mais également « distinctif » de ce contrat par rapport au contrat de service.
+[60] Ainsi, le juge Archambault a identifié le lien de subordination comme étant le critère de distinction entre un contrat de travail et un contrat de service selon le Code civil du Québec.
+[61] En ce qui concerne l’intention des parties, et l’expression de la volonté des parties, le juge Archambault exprime ce qui suit dans son article :
+[97] Même si les parties contractantes ont manifesté leur intention dans leur contrat écrit ou verbal ou qu’une telle intention peut être induite de leur comportement, cela ne signifie pas que les tribunaux vont nécessairement considérer ce fait comme décisif. Comme l’indique le juge Décary dans l’arrêt Wolf précité, il faut que le contrat soit exécuté conformément à cette intention. Ainsi, ce n’est pas parce que les parties ont appelé leur contrat un « contrat de service » et qu’elles ont stipulé que le travail sera exécuté par un « travailleur autonome » et qu’il n’existe pas de relation employeur‑employé, qu’il s’agit nécessairement d’un contrat de service. Le contrat pourrait correspondre à un contrat de travail. Tel que l’édicte l’article 1425 C.c.Q., on doit rechercher quelle est la véritable commune intention des parties et non pas s’arrêter au sens littéral des termes utilisés dans le contrat. Les tribunaux doivent également vérifier la conformité de la conduite des parties avec les prescriptions législatives relatives aux contrats. Voici ce qu’écrit Robert P. Gagnon108 :
+91 — Appréciation factuelle — La subordination se vérifie dans les faits. À cet égard, la jurisprudence s’est toujours refusée à retenir la qualification donnée au contrat par les parties :
+Dans le contrat, le distributeur reconnaît lui‑même qu’il agit à son compte à titre d’entrepreneur indépendant. Il n’y aura pas lieu de revenir sur ce point, puisque cela ne changerait rien à la réalité; d’ailleurs ce que l’on prétend être est souvent ce que l’on n’est pas.
+[Je souligne.]
+[98] Dans l’affaire D & J Driveway, le juge Létourneau de la Cour d’appel fédérale écrit109 :
+2 Nous reconnaissons d’emblée que la stipulation des parties quant à la nature de leurs relations contractuelles n’est pas nécessairement déterminante et que la cour chargée d’examiner cette question peut en arriver à une détermination contraire sur la foi de la preuve qui lui est soumise : Dynamex Canada inc. c. Canada, (2003), 305 N.R. 295 (C.A.F.). Mais cette stipulation ou l’interrogatoire des parties sur la question peuvent s’avérer un instrument utile d’interprétation de la nature du contrat intervenu entre les participants.
+[Je souligne.]
+___________________
+108 Op. cit. (note 31), à la p. 66.
+109 Précitée (note 4). Voir aussi les propos du juge Noël dans Wolf reproduits au par. 90 ci‑dessus. Voir également note 93.
+[99] Les juges peuvent donc requalifier le contrat pour que sa dénomination corresponde à la réalité. En France, la requalification du contrat résulte de l’application du principe de la réalité110. La Cour de cassation adopte une approche semblable à celle suivie au Canada111 :
+Attendu que l’existence d’une relation de travail ne dépend ni de la volonté exprimée par les parties ni de la dénomination qu’elles ont donnée à leur convention mais des conditions de fait dans lesquelles est exercée l’activité des travailleurs; [...]
+___________________
+110 Verdier, Coeuret et Souriac, op. cit. (note 49), à la p. 315.
+111 Cass. soc., 19 décembre 2000, Bull. civ. 2000.V.337, no 437 (locataire d’un taxi : salarié). Voir également Cass. soc., 23 avril 1997, Bull. civ. 1997.V.103, no 142 (pasteur des églises adventistes : renvoi à la Cour d’appel).
+[100] À mon avis, cette vérification de la conformité est nécessaire en matière d’interprétation de contrats de travail, puisqu’il peut y avoir intérêt à maquiller la nature véritable d’une relation contractuelle entre un payeur et un travailleur. L’expérience révèle en effet qu’il arrive que des employeurs, désirant diminuer leurs charges fiscales à l’égard de leurs salariés, décident de les traiter comme des travailleurs autonomes. Cette décision peut intervenir tant au début de la relation contractuelle que par la suite112. Pareillement, certains salariés pourraient avoir intérêt à maquiller leur contrat de travail en contrat de service parce que les circonstances sont telles qu’ils ne prévoient pas avoir besoin de prestations d’assurance‑emploi et qu’ils désirent éliminer leurs cotisations d’employé au régime d’assurance‑emploi, ou encore parce qu’ils veulent avoir plus de latitude pour déduire certaines dépenses aux fins du calcul de leur revenu en vertu de la Loi de l’impôt113.
+[101] Comme la LAE, de façon générale, n’autorise le versement de prestations d’assurance‑emploi qu’aux salariés qui perdent leur emploi114, la vigilance des tribunaux est requise pour démasquer les faux travailleurs autonomes. Les tribunaux doivent également s’assurer que la caisse de l’assurance‑emploi, d’où sont tirées ces prestations, reçoit les cotisations de tous ceux qui y sont tenus, y compris les faux autonomes et leurs employeurs.
+___________________
+112 Pour une étude des problèmes suscités par ce phénomène, voir un document de discussion de la Commission du droit du Canada, Travailler, oui mais ... Le droit du travail à retravailler, décembre 2004, en ligne : Commission du droit du Canada, http://www.lcc.gc.ca/pdf/work_f.pdf.
+113 Le paragraphe 8(2) de la Loi de l’impôt dispose qu’en dehors des déductions prévues par cette loi, aucune déduction ne peut être faite. Si un travailleur est autonome, il pourra généralement déduire toute dépense courante engagée en vue de tirer un revenu d’une entreprise.
+114 Voir note 7.
+[62] Le juge Archambault conclut que dans tous les cas, l’exécution du contrat, c’est-à-dire la manière dont les parties se sont comportées, doit être examiné pour déterminer la nature du contrat :
+[102] La nécessité de prouver l’exécution du contrat existe non seulement dans les cas où les parties ont manifesté expressément ou implicitement leur intention d’adopter l’un ou l’autre du contrat de travail et du contrat de service, mais aussi dans tous les cas où la preuve de cette intention est insuffisante ou absente. Cette preuve de l’exécution du contrat porte sur les trois éléments constitutifs essentiels à l’existence du contrat de travail. Généralement, la preuve des deux premiers éléments (le travail et la rémunération) ne fera pas trop problème, puisqu’il s’agit de faits matériels relativement faciles à établir. Faire la preuve du lien de subordination juridique, à savoir le pouvoir de direction ou de contrôle qu’a exercé ou aurait pu exercer un employeur, constitue, par contre, une tâche très délicate. Elle sera d’autant plus délicate que l’employeur aura exercé peu ou point de direction ou de contrôle.
+[63] Le juge Archambault donne ensuite des indices ressortant du droit civil du Québec pour établir l’existence ou non d’un lien de subordination juridique :
+[103] La meilleure preuve sera la preuve directe de faits établissant que le travail s’est réellement effectué sous la direction et le contrôle du payeur. Cette preuve pourra être faite par des documents ou témoignages révélant des directives précises données au travailleur non seulement sur le travail à accomplir (le « quoi »)115, mais aussi sur la manière de le faire (le « comment »)116, l’endroit où il doit être exécuté (le « où »), et le moment où il doit être effectué et dans quel délai (le « quand »). À ces faits, pourront s’ajouter ceux démontrant que le payeur a supervisé le travail117, notamment en exigeant que le travailleur rende des comptes régulièrement, en remplissant régulièrement des fiches d’évaluation du travail accompli par le travailleur, en rencontrant celui‑ci pour lui communiquer les résultats de l’évaluation et, peut‑être, en le sanctionnant118. Avec l’ensemble de tels éléments de preuve, il pourrait être relativement facile de conclure à l’existence d’un lien de subordination.
+___________________
+115 Services Barbara‑Rourke Adaptation Réadaptation c. Québec (Sous‑ministre du Revenu), [2002] J.Q. no 470 (QL) (C.A. Qué.), par. 10, 44 à 48 (responsables de la prestation de services de famille d’accueil (dans une résidence d’un tiers) recrutées par un centre de réadaptation pour déficients intellectuels: salariés); Guérette c. Lapierre, [2003] J.Q. no 4952 (QL) (C.S. Qué.), par. 25 et 26 (travaux de construction de balcon au chalet du payeur par un ouvrier à la retraite : salarié).
+116 À mon avis, quand un payeur impose à un travailleur les méthodes ou les moyens d’exécution d’un travail, il exerce une direction sur lui. La preuve que le payeur a agi de la sorte constitue une preuve directe de l’exercice du pouvoir de direction et non une simple preuve indiciaire. Il convient de noter, toutefois, que la ligne de démarcation entre une preuve directe et une preuve indirecte ou indiciaire peut être ténue. Dans la mesure où la preuve directe des faits n’est pas considérée comme suffisamment probante (notamment en raison du nombre limité des directives), ces faits pourraient être traités comme des indices à être considérés avec les autres indices décrits plus bas.
+Pour des exemples jurisprudentiels de l’appréciation du pouvoir de contrôle exercé sur le « comment », voir : Sauvé, précité (note 4), par. 19 et 22; Les Entreprises Gérald Petit, précité (note 101), par. 21; Neblina Spa Enr., précité (note 95), par. 5, 14, 16; Services de santé Marleen Tassé, précité (note 31), par. 12, 16, 24, 25, 30, 50, 70 à 74; Québec (Commission des normes du travail) c. Desrochers, 2001 CanLII 8641 (QC CQ), 2001 IIJCan 8641 (C.Q.), par. 23 à 26 (travail dans une cordonnerie : salariée); Dr Denis Paquette, précité (note 99), par. 6, 33 (nos 6 à 8), 36, 49 à 52.
+117 Services Barbara‑Rourke, précité (note 115), par. 44; Les Entreprises Gérald Petit, précité (note 101), par. 10, 15 et 21; Importations Jacsim, précité (note 100), par. 22; Guérette, précité (note 115), par. 25; Services de santé Marleen Tassé inc., précité (note 31), par. 12, 20 à 22, 27 à 29, 73, 87; Seitz, précité (note 98), par. 15, 22, 25, 45, 62.
+[64] La prépondérance de la preuve a établi que les parties au contrat avaient une interprétation fort différente de la nature du contrat. Cette même preuve a aussi établi que les appelants n’ont jamais abdiqué ou renoncé à leur pouvoir de contrôle principalement exprimé et manifesté lors de l’entente. En d’autres termes, la gardienne n’avait pas la même appréciation que les appelants quant à la nature du contrat intervenu. Pour ce qui est de la façon dont le travail a été effectué, elle ne valide pas l’interprétation des appelants à savoir qu’il s’agissait d’un contrat d’entreprise. La prépondérance de la preuve ne permet pas de conclure que les appelants ont relevé le fardeau de la preuve qui leur incombait pour obtenir gain de cause.
+[65] Pour ces raisons, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 30e jour de mai 2012.
+« Alain Tardif »
+Le juge Tardif
+RÉFÉRENCE : 2012 CCI 164
+Nº DU DOSSIER DE LA COUR : 2011-2152(EI)
+INTITULÉ DE LA CAUSE : François-Philippe Cloutier et Julie Farley et M.R.N. et Carolle Lachance
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : Le 10 février 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 30 mai 2012
+COMPARUTIONS :
+Avocat des appelants :
+Me Martin Bouffard
+Avocat de l’intimé :
+Me Simon Vincent
+Pour l’intervenante :
+L’intervenante elle-même
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom : Me Martin Bouffard
+Cabinet : Morency, Société d’avocats
+Québec (Québec)
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l’intervenante :
+[1]Pierre ARCHAMBAULT (juge), « Contrat de travail : Pourquoi Wiebe Door Services Ltd. ne s'applique pas au Québec et par quoi on doit le remplacer », dans L'harmonisation de la législation fédérale avec le droit civil québécois et le bijuridisme canadien — Deuxième recueil d'études en fiscalité (2005), Montréal, Association de planification fiscale et financière -Ministère de la Justice du Canada, 2005, pp. 2:1-86, aux pages 2:15 et suiv.

@@ -1,0 +1,464 @@
+Title: Brown c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/301722/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-237-301722-brown-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-11-29
+
+# Brown c. La Reine
+
+- Citation: 2017 CCI 237
+- Decision date: 2017-11-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7812, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brown c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-11-29
+Référence neutre
+2017 CCI 237
+Numéro de dossier
+2016-4780(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-4780(IT)I
+ENTRE :
+LANCE W.A. BROWN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 16 octobre 2017, à Lethbridge (Alberta)
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Aminollah Sabzevari
+JUGEMENT
+L’appel interjeté en date du 20 juillet 2015 à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2011 et 2012 est accueilli, et l’affaire est renvoyée au ministre du Revenu national aux fins de nouvel examen et d’établissement d’une nouvelle cotisation, conformément aux motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 29e jour de novembre 2017.
+« Réal Favreau »
+Le juge Favreau
+Référence : 2017 CCI 237
+Date : 20171129
+Dossier : 2016-4780(IT)I
+ENTRE :
+LANCE W.A. BROWN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel visant de nouvelles cotisations établies pour l’appelant en date du 20 juillet 2015 en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée (la « Loi »), par le ministre du Revenu national (le « ministre ») pour les années d’imposition 2011 et 2012.
+[2] Dans le calcul de ses revenus pour les années d’imposition 2011 et 2012, l’appelant a notamment déclaré ce qui suit :
+[BLANK/EN BLANC]
+Dépenses d’emploi
+Revenus bruts de location
+Revenu de location net/perte locative nette
+2011
+52 376 $
+1 449 $
+(3 101 $)
+2012
+48 045 $
+1 189 $
+(3 545 $)
+[3] Le 7 mai 2012 et le 6 mai 2013, le ministre a établi la cotisation initiale de l’appelant pour les années d’imposition 2011 et 2012, respectivement, et il a émis des avis à ces dates.
+[4] Dans un formulaire T-2029 dûment signé et transmis par télécopieur en date du 24 avril 2015, l’appelant a renoncé à l’application de la période normale de nouvelle cotisation pour son année d’imposition 2011.
+[5] Le ministre a établi une nouvelle cotisation pour les années d’imposition 2011 et 2012 de l’appelant en raison d’un revenu de location non déclaré et de frais de location et de dépenses d’emploi refusés.
+[6] En vue de déterminer l’obligation fiscale de l’appelant pour les années d’imposition 2011 et 2012, le ministre a formulé l’hypothèse de fait suivante :
+Dépenses d’emploi
+a) au cours des années d’imposition 2011 et 2012, l’appelant travaillait à la Banque Royale du Canada (« RBC »);
+b) l’appelant travaillait à la RBC comme planificateur financier;
+c) la RBC rémunérait l’appelant en tout ou en partie en commissions établies par rapport au volume des ventes réalisées ou aux contrats négociés;
+d) en 2011, l’appelant a touché un revenu d’emploi de la RBC de 224 034 $, dont 218 183 $ en commissions;
+e) en 2012, l’appelant a touché un revenu d’emploi de la RBC de 238 579 $, dont 238 282 $ en commissions;
+f) pour les années d’imposition 2011 et 2012, l’appelant a été tenu par la RBC de payer ses fournitures, d’utiliser un téléphone cellulaire et d’utiliser une partie de son domicile aux fins de son emploi au plus 20 % du temps;
+g) l’appelant n’a pas été tenu par la RBC de louer un bureau hors de l’établissement de son employeur ni de payer pour les services d’un adjoint;
+h) l’appelant n’a pas été tenu par la RBC de se déplacer à des endroits hors de son établissement ou entre différents établissements;
+i) l’appelant a dû se déplacer hors de l’établissement de la RBC pendant plus de 12 heures consécutives à 14 reprises en 2011 et à 5 reprises en 2012;
+Frais de publicité et de promotion
+j) l’appelant a demandé une déduction de frais de publicité et de promotion de 8 347 $ et de 6 876 $ pour les années d’imposition 2011 et 2012, respectivement;
+k) l’appelant n’a pas tenu de liste des clients auprès desquels il a présumément annoncé et promu ses services;
+l) en 2012, l’appelant a déclaré des frais de publicité et de promotion qu’il a engagés à l’égard de la Southern Oldtimes Football Association;
+m) l’appelant est entraîneur à la Southern Oldtimes Football Association;
+n) les frais au-delà de 248,81 $ pour les années d’imposition 2011 et 2012 n’ont pas été engagés ou, s’ils l’ont été, ils ne l’ont pas été pour annoncer ou promouvoir ses services à RBC;
+Frais afférents à un véhicule à moteur
+o) en 2011 et en 2012, l’appelant a reçu des allocations pour frais afférents à un véhicule à moteur de 396 $ et de 408,32 $, respectivement, allocations qui n’ont pas été incluses dans le revenu d’emploi de l’appelant à la RBC;
+p) l’appelant n’a pas tenu de registre de kilométrage pour le(s) véhicule(s) à moteur soi-disant conduit(s) aux fins de son emploi;
+q) l’appelant possédait plusieurs véhicules qui étaient conduits par d’autres membres de la famille;
+r) l’appelant a demandé une déduction totale de frais afférents à un véhicule à moteur de 13 915 $ et de 12 487 $ pour les années d’imposition 2011 et 2012, respectivement;
+s) dans le cadre de son emploi, l’appelant a engagé des frais afférents à un véhicule à moteur (déduction faite des allocations pour frais afférents à un véhicule à moteur versées par la RBC) d’au plus 946,23 $ et 933,91 $ pour les années d’imposition 2011 et 2012, respectivement;
+Repas et divertissement
+t) l’appelant a demandé une déduction totale de frais de repas et de divertissement de 6 615 $ et de 6 408 $ pour les années d’imposition 2011 et 2012, respectivement;
+u) les frais de repas et de divertissement comprenaient des repas pour une seule personne;
+v) l’appelant n’a pas tenu de liste des personnes dont il s’est présumément occupé du divertissement;
+w) l’appelant a engagé des frais de repas et de divertissement d’au plus 1 507,78 $ par année pour les années d’imposition 2011 et 2012 dans le cadre de son emploi à la RBC;
+Hébergement
+x) les frais engagés pour l’hébergement à Seattle, à Washington, et dans la ville de résidence de l’appelant (Lethbridge, en Alberta) constituaient des dépenses personnelles;
+y) dans le cadre de son emploi à la RBC, l’appelant a engagé des frais d’hébergement d’au plus 541,06 $ par année pour les années d’imposition 2011 et 2012;
+Fournitures
+z) la déduction de frais de fournitures demandée par l’appelant comprenait des immobilisations telles que des ordinateurs, des écrans et des imprimantes;
+aa) dans le cadre de son emploi à la RBC, l’appelant a engagé des dépenses liées à des fournitures d’au plus 467,71 $ par année pour les années d’imposition 2011 et 2012;
+Autres frais
+bb) l’appelant a demandé une déduction totale d’autres frais de 19 108 $ et de 19 583 $ pour les années d’imposition 2011 et 2012, respectivement;
+cc) les enfants de l’appelant, Emily et Evan, n’ont fourni aucun service à l’appelant dans le cadre de son emploi à la RBC pour les années d’imposition 2011 et 2012;
+dd) l’appelant n’a pas été tenu par la RBC de payer pour les services d’un adjoint;
+ee) l’appelant n’a rémunéré Emily ou Evan pour aucun des soi-disant services qu’ils ont fournis dans le cadre de son emploi à la RBC pour les années d’imposition 2011 et 2012;
+ff) la contribution de l’appelant aux études postsecondaires d’Emily ou d’Evan, à leur régime enregistré d’épargne-retraite ou à leurs comptes d’épargne libre d’impôt ou les versements en argent qui leur ont été remis en 2011 ou en 2012 n’ont pas été effectués dans le cadre de son emploi à la RBC;
+Bureau à domicile
+gg) l’appelant a demandé une déduction de frais de bureau à domicile de 1 051 $ et de 1 061 $ pour les années d’imposition 2011 et 2012, respectivement;
+hh) l’appelant n’a pas été tenu par la RBC d’utiliser une partie de son domicile aux fins de son emploi plus de 50 % du temps;
+ii) l’appelant n’a pas utilisé une partie de son domicile exclusivement pour rencontrer des clients ou d’autres personnes de façon régulière ou continue pour l’exécution des fonctions de son emploi à RBC;
+Total des dépenses d’emploi
+jj) l’appelant n’a engagé aucune des dépenses pour lesquelles une déduction est demandée au-delà des montants de 4 198 $ et de 4 185 $ accordés par le ministre en vue de tirer ou de produire un revenu de son emploi à la RBC pour les années d’imposition 2011 et 2012, respectivement, comme il est décrit dans l’annexe « A » ci-jointe;
+Bien locatif
+kk) en août 2001 ou aux alentours de cette date, l’appelant et sa conjointe, Janice Brown, ont acheté conjointement une copropriété située au 802 – 880, promenade Northstar, Kimberly (sic), en Colombie-Britannique, pour la somme de 79 900 $ (la « copropriété »);
+ll) la copropriété est située près du Kimberley Alpine Resort;
+mm) la copropriété offre un hébergement quatre saisons dans un centre de villégiature;
+nn) la location de la copropriété était gérée par une société de gestion;
+oo) l’appelant et sa conjointe ont tous deux déclaré des activités de location relativement à leur part de 50 % dans la copropriété dans leurs déclarations de revenus individuelles pour les années d’imposition 2011 et 2012;
+pp) en 2011, l’appelant et sa conjointe ont tous deux déclaré une perte locative nette de 3 101 $ relativement à leur part de 50 % dans la copropriété;
+qq) en 2012, l’appelant et sa conjointe ont tous deux déclaré une perte locative nette de 3 545 $ relativement à leur part de 50 % dans la copropriété;
+rr) les loyers bruts liés à la copropriété ont été de 5 933,39 $ et de 4 789,60 $ pour les années d’imposition 2011 et 2012, respectivement;
+ss) l’appelant a utilisé la copropriété à des fins personnelles en plus de la louer;
+tt) l’appelant possède une seule propriété locative (la copropriété) à l’extérieur de la région métropolitaine où il réside;
+uu) les frais de déplacement de 1 113 $ et de 2 046 $ pour lesquels le demandeur a demandé une déduction en 2011 et en 2012, respectivement, n’ont pas été engagés pour générer un revenu de location lié à la propriété ou constituaient des dépenses personnelles de l’appelant;
+vv) les « autres frais » pour lesquels le demandeur a demandé une déduction de frais de location pour la copropriété, qui s’élevaient au total à 3 045 $ et à 3 044 $ pour les années d’imposition 2011 et 2012, respectivement, n’étaient pas engagés ou n’ont pas été engagés pour générer un revenu de location;
+ww) les frais de location associés à la copropriété n’ont pas dépassé 1 352,06 $ et 1 311,19 $ pour les années d’imposition 2011 et 2012, comme il est décrit dans l’annexe « A » ci-jointe.
+[7] Lors de l’audience, les parties ont fait les concessions suivantes :
+Pour 2011
+[BLANK /EN BLANC]
+Publicité et promotion
+$
+Hébergement
+$
+Cotisation initiale
+8 347,00
+1 461,00
+Montant admis après la vérification
+284,81
+541,06
+Ajustement
+8 062,19
+919,94
+Montant concédé
+2 950,00
+554,00
+Ajustement révisé
+5 112,19
+365,94
+Pour 2012
+[BLANK / EN BLANC]
+Publicité et promotion
+$
+Cotisation initiale
+6 876,00
+Montant admis après la vérification
+284,81
+Ajustement
+6 591,19
+Montant concédé
+2 150,00
+Ajustement révisé
+4 441,19
+Pour 2011
+[BLANK / EN BLANC]
+Frais liés à la copropriété – Déplacement
+$
+Cotisation initiale
+1 113,00
+Montant admis après la vérification
+0
+Ajustement
+1 113,00
+Montant concédé
+1 113,00
+Ajustement révisé
+0
+Pour 2012
+[BLANK / EN BLANC]
+Frais liés à la copropriété – Déplacement
+$
+Cotisation initiale
+2 046,00
+Montant admis après la vérification
+0
+Ajustement
+2 046,00
+Montant concédé
+2 046,00
+Ajustement révisé
+0
+Pour 2011
+[BLANK / EN BLANC]
+Taxes foncières
+$
+Services publics
+$
+Autres frais
+$
+Cotisation initiale
+1 710,00
+1 544,00
+3 045,00
+Montant admis après la vérification
+795,00
+317,06
+0
+Ajustement
+915,00
+1 226,94
+3 045,00
+Montant concédé
+Ajustement révisé
+795,00
+120,00
+1 226,94
+0
+3 045,00
+0
+Pour 2012
+[BLANK / EN BLANC]
+Taxes foncières
+$
+Services publics
+$
+Autres frais
+$
+Cotisation initiale
+1 768,00
+1 254,00
+3 044,00
+Montant admis après la vérification
+803,91
+339,28
+0
+Ajustement
+964,09
+914,72
+3 044,00
+Montant concédé
+Ajustement révisé
+803,90
+160,19
+914,72
+0
+3 044,00
+0
+[8] L’appelant a témoigné à l’audience. Il a expliqué que, pendant les années d’imposition 2011 et 2012, il occupait le poste de conseiller financier régional à la Banque Royale du Canada. Il était rémunéré à la commission. Il s’occupait du territoire du sud de l’Alberta, et tous ses frais étaient à sa charge. Son seul bureau permanent était à son domicile, à Lethbridge, en Alberta. La Déclaration des conditions de travail (formulaire T2200), qui a été remplie par la Banque Royale du Canada pour l’appelant pour les années d’imposition 2011 et 2012, a été déposée comme preuve à la Cour.
+[9] Pendant son témoignage, il a expliqué qu’il avait fait l’objet de deux vérifications de la part de l’Agence du revenu du Canada (ARC) pendant sa carrière professionnelle et que l’ARC avait accepté les déductions de frais qu’il avait demandées pour les années antérieures. Pour étayer ses affirmations, l’appelant a déposé une pièce, le formulaire T777, État des dépenses d’emploi, pour les années 2007 à 2011 inclusivement. Cette fois, la situation est différente, car l’appelant a perdu tous ses documents quand sa maison a été inondée en juillet 2013.
+[10] Le seul élément de preuve documentaire présenté par l’appelant concernant l’inondation est une lettre datée du 28 août 2014 de la part de M. Austin Stephens, un courtier agréé de Young Insurance. L’auteur de la lettre affirme notamment que le 24 juin 2013, Young Insurance a reçu un appel téléphonique de la part de M. Lance Brown au sujet d’une demande de règlement éventuelle pour sa demeure et son contenu au 6, Sheridan Place Ouest, à Lethbridge (Alberta), à la suite d’une inondation, et qu’on a alors conseillé à M. Brown de ne pas présenter de demande de règlement étant donné que les infiltrations et les inondations n’étaient pas des sinistres assurés en vertu de sa police. M. Brown, qui ne possédait pas d’assurance pour couvrir les dommages à son domicile et à son contenu, a dû assumer la responsabilité des pertes encourues. M. Stephens n’a pas été appelé à témoigner à l’audience.
+[11] En ce qui concerne les frais de publicité et de promotion, l’appelant a expliqué qu’il a dû animer des séminaires auprès de groupes d’intérêt particuliers. À cette fin, il a dû louer un espace à un endroit pratique et annoncer les événements. L’appelant a également expliqué qu’il remettait environ 1 000 $ par année à des employés de la Banque Royale du Canada pour diriger vers lui des clients potentiels. Il les remerciait en leur offrant des cartes-cadeaux de moins de 100 $ chacune. Il a ajouté que ces frais n’étaient pas remboursés par la Banque Royale du Canada.
+[12] En ce qui concerne les frais afférents à un véhicule à moteur, l’appelant a demandé une déduction de 13 915 $ en 2011 et de 12 487 $ en 2012. L’ARC a accordé 946,23 $ et 933,41 $, respectivement. L’appelant a expliqué qu’il parcourait 40 000 kilomètres par année à des fins d’affaires et que sa demande s’appuyait sur des frais de 44 cents le kilomètre, c’est-à-dire le taux utilisé par la Banque Royale du Canada pour ses employés. L’appelant conduisait une Mitsubishi Outlander 2008 et prenait seulement deux semaines de vacances par année. Enseignante dans une école secondaire, sa conjointe avait sa propre voiture. L’appelant a expliqué que ces frais afférents à un véhicule à moteur n’ont pas été remboursés par la Banque Royale du Canada, sauf dans le cas des déplacements exigés par la banque. En 2011 et en 2012, l’appelant a reçu de la banque des allocations pour frais afférents à un véhicule à moteur de 396 $ et de 408,32 $, respectivement.
+[13] L’appelant a demandé une déduction de frais de repas et de divertissement de 6 615 $ en 2011 et de 6 048 $ en 2012, et l’ARC a accordé une déduction de 1 507,78 $ pour chaque année. L’appelant a expliqué qu’il invitait des clients à manger au restaurant le midi deux ou trois fois par semaine ainsi que des clients potentiels quand il animait des séminaires.
+[14] L’appelant a demandé une déduction de frais d’hébergement de 1 461 $ en 2011 et de 664 $ en 2012. L’ARC a accordé 541,06 $ pour chaque année. L’appelant a admis avoir demandé une déduction de 554 $ pour assister à une partie de football à Seattle en 2011. Les ajustements en litige pour 2011 et 2012 sont de 365,94 $ et de 49,29 $, respectivement. L’appelant a expliqué qu’il ne rentrait pas à la maison avant le lendemain si les routes étaient fermées en raison de mauvaises conditions météorologiques ou si ses séminaires se terminaient à une heure tardive.
+[15] L’appelant a demandé une déduction de frais de fournitures de bureau de 1 429 $ en 2011 et de 517 $ en 2012. L’ARC a accordé 467,71 $ pour chaque année. L’appelant a expliqué que ces frais étaient principalement attribuables à l’achat d’une imprimante et d’un chargeur pour son ordinateur portable.
+[16] L’appelant a également demandé une déduction de frais de bureau à domicile de 1 051 $ en 2011 et de 1 060 $ en 2012. L’ARC n’a accordé aucun de ces montants. L’appelant a expliqué qu’il avait dû utiliser une partie de son domicile pour le travail, comme il est indiqué dans le formulaire T-2200 rempli par la Banque Royale du Canada, et qu’il avait exécuté 20 % de ses fonctions à son bureau à domicile, comme il est estimé par la banque dans ledit formulaire.
+[17] L’appelant a également demandé une déduction de 19 108 $ en 2011 et de 19 583 $ en 2012 pour d’« autres frais ». Les deux demandes ont été refusées par l’ARC. L’appelant a expliqué que ces montants avaient été remis à sa fille, Emily, et à son fils, Evan, pour des services offerts à son bureau à domicile. Leurs fonctions consistaient à ouvrir les dossiers des clients, à préparer les documents à signer, à effectuer des recherches sur les produits concurrents et à organiser le courrier, notamment pour les virements de fonds. En 2011, Emily a touché 12 000 $ et Evan, 6 000 $. En 2012, Emily a touché 6 000 $ et Evan, 12 000 $. Les paiements ont été effectués de différentes façons, notamment en espèces et sous la forme de cotisations à leurs régimes d’épargne-retraite enregistrés et à leurs comptes d’épargne libre d’impôt. Selon l’appelant, il a procédé ainsi après avoir consulté l’ARC à ce sujet. L’appelant a ajouté que les montants versés à ses enfants ont été déclarés comme des revenus dans leurs déclarations de revenus respectives et qu’ils ont versé des cotisations au Régime de pensions du Canada pour ces montants.
+[18] L’appelant a expliqué que les revenus générés par son appartement en copropriété situé à Kimberley (Colombie-Britannique) ont été déclarés comme des revenus selon sa part de 50 % et que la taxe sur les produits et services prélevée sur le loyer a été remise au receveur général du Canada. Les montants de loyer brut déclarés en 2011 et en 2012 étaient de 1 449 $ et de 1 189 $, respectivement. Au cours de la vérification, l’ARC a déterminé que les loyers bruts liés à la copropriété ont été de 5 933,39 $ et de 4 789,60 $ pour les années d’imposition 2011 et 2012, respectivement. L’ajustement a été apporté en raison d’un dépôt de 300 $ chaque mois dans un compte bancaire réservé à l’exploitation de la copropriété. Ce montant était déposé le 24e jour de chaque mois et portait la description [traduction] « virement 42270002 ».
+[19] L’appelant a allégué qu’il devait virer un montant après impôt dans le compte de la propriété en location pour couvrir les frais de copropriété puisque le revenu de location n’était pas suffisant pour couvrir la totalité des frais de copropriété. Pour étayer ses allégations, l’appelant a déposé comme élément de preuve les relevés du compte de la copropriété pour les années d’imposition 2011 et 2012.
+[20] Compte tenu des différentes concessions des parties, les frais de location liés à la copropriété ne font plus l’objet d’une contestation.
+Dispositions législatives
+[21] Les dispositions suivantes de la Loi sont pertinentes aux fins du présent appel :
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[...]
+Frais de déplacement
+h) lorsque le contribuable, au cours de l’année, à la fois :
+(i) a été habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits,
+(ii) a été tenu, en vertu de son contrat d’emploi, d’acquitter les frais de déplacement qu’il a engagés pour l’accomplissement des fonctions de sa charge ou de son emploi,
+les sommes qu’il a dépensées pendant l’année (sauf les frais afférents à un véhicule à moteur) pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(iii) reçu une allocation pour frais de déplacement qui, par l’effet des sous-alinéas 6(1)b)(v), (vi) ou (vii), n’est pas incluse dans le calcul de son revenu pour l’année,
+(iv) demandé une déduction pour l’année en application des alinéas e), f) ou g);
+Frais afférents à un véhicule à moteur
+h.1) dans le cas où le contribuable, au cours de l’année,
+(i) a été habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits,
+(ii) a été tenu, aux termes de son contrat d’emploi, d’acquitter les frais afférents à un véhicule à moteur qu’il a engagés dans l’accomplissement des fonctions de sa charge ou de son emploi,
+les sommes qu’il a dépensées au cours de l’année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(iii) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l’effet de l’alinéa 6(1)b), n’est pas incluse dans le calcul de son revenu pour l’année,
+(iv) demandé une déduction pour l’année en application de l’alinéa f);
+[...]
+Cotisations et autres dépenses liées à l’exercice de fonctions
+(i) les sommes payées par le contribuable au cours de l’année, ou les sommes payées pour son compte au cours de l’année si elles sont à inclure dans son revenu pour l’année, au titre :
+(i) des cotisations annuelles de membre d’association professionnelle dont le paiement était nécessaire pour la conservation d’un statut professionnel reconnu par la loi,
+(ii) du loyer de bureau ou du salaire d’un adjoint ou remplaçant que le contrat d’emploi du cadre ou de l’employé l’obligeait à payer,
+(iii) du coût des fournitures qui ont été consommées directement dans l’accomplissement des fonctions de la charge ou de l’emploi et que le contrat d’emploi du cadre ou de l’employé l’obligeait à fournir et à payer,
+[...]
+Restriction générale
+8(2) Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi.
+[...]
+Repas
+8(4) La somme dépensée par un cadre ou un employé pour son repas ne peut être incluse dans le calcul du montant d’une déduction en vertu de l’alinéa (1)f) ou h) que si le repas a été pris au cours d’une période où les fonctions de ce cadre ou de cet employé l’obligeaient à être absent, durant une période d’au moins douze heures, de la municipalité dans laquelle était situé l’établissement de l’employeur où il se présentait habituellement pour son travail et à être absent, le cas échéant, de la région métropolitaine où cet établissement était situé.
+[...]
+Attestation de l’employeur
+8(10) Un contribuable ne peut déduire un montant pour une année d’imposition en application des alinéas (1)c), f), h) ou h.1) ou des sous-alinéas (1)i)(ii) ou (iii) que s’il joint à sa déclaration de revenus pour l’année un formulaire prescrit, signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies quant au contribuable au cours de l’année.
+[...]
+Travail à domicile
+8(13) Malgré les alinéas (1)f) et i) :
+a) un montant n’est déductible dans le calcul du revenu d’un particulier pour une année d’imposition tiré d’une charge ou d’un emploi pour la partie d’un établissement domestique autonome où le particulier réside que si cette partie, selon le cas :
+(i) est le lieu où le particulier accomplit principalement les fonctions de la charge ou de l’emploi,
+(ii) est utilisée exclusivement, au cours de la période à laquelle le montant se rapporte, aux fins de tirer un revenu de la charge ou de l’emploi et est utilisée pour rencontrer des clients ou d’autres personnes de façon régulière et continue dans le cours normal de l’exécution des fonctions de la charge ou de l’emploi;
+b) si une partie de l’établissement domestique autonome du particulier répond à l’une des conditions énoncées aux sous-alinéas a)(i) ou (ii), le montant déductible pour cette partie d’établissement dans le calcul du revenu du particulier pour l’année tiré de la charge ou de l’emploi ne peut dépasser son revenu ainsi tiré pour l’année, calculé compte non tenu d’une déduction pour cette partie d’établissement;
+c) tout montant qui, par le seul effet de l’alinéa b), n’est pas déductible pour une partie d’établissement domestique autonome dans le calcul du revenu du particulier pour l’année d’imposition précédente tiré de la charge ou de l’emploi est réputé être un montant qui est par ailleurs déductible au titre de la partie de l’établissement dans le calcul du revenu du particulier pour l’année tiré de la charge ou de l’emploi et qui est, sous réserve de l’alinéa b), déductible dans le calcul de ce revenu.
+Revenu
+9(1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+Exceptions d’ordre général
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+[...]
+h) le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+248(1) Définitions
+Sont compris parmi les frais personnels ou de subsistance :
+a) les dépenses inhérentes aux biens entretenus par toute personne pour l’usage ou l’avantage du contribuable ou de toute personne unie à ce dernier par les liens du sang, du mariage, de l’union de fait ou de l’adoption, et non entretenus dans le but ou avec l’espoir raisonnable de tirer un profit de l’exploitation d’une entreprise;
+[...]
+Analyse
+[22] Le système fiscal est fondé sur l’autosurveillance, et la charge de prouver le fondement des déductions et des demandes repose sur le contribuable. Le contribuable doit conserver des renseignements détaillés et des documents permettant d’appuyer les demandes qu’il fait.
+[23] En l’espèce, les livres et les dossiers conservés par l’appelant étaient simplement inexistants en raison d’une présumée inondation qui est survenue dans son bureau à domicile en juillet 2013. Le seul élément de preuve documentaire déposé par l’appelant concernant l’inondation est une lettre de son courtier d’assurance datée d’un an après le sinistre. La lettre mentionne un appel téléphonique de l’appelant à la compagnie d’assurance au cours du mois précédant la présumée inondation. Le courtier d’assurance n’a pas témoigné à l’audience pour confirmer s’il avait ou non personnellement connaissance de l’appel et si les renseignements contenus dans la lettre sont véridiques. L’appelant aurait également pu fournir des photos des dommages et des copies des factures des réparations effectuées sur son domicile, dont le coût s’est élevé à plus de 40 000 $ selon son estimation.
+[24] Dans les circonstances, je ne trouve pas que le témoignage de l’appelant est crédible à cet égard.
+[25] Les formulaires T2200 qui ont été déposés comme éléments de preuve pour les années d’imposition 2011 et 2012 ont montré que l’appelant n’était pas tenu de payer pour les services d’un adjoint en vertu de son contrat. Ce formulaire est une condition prévue par la loi aux fins de la déduction de certaines dépenses d’emploi et une preuve des conditions d’emploi. Le formulaire n’est pas concluant et ne permet pas de déterminer si l’élément de preuve est inexact. Néanmoins, l’exigence prévue au sous-alinéa 8(1)(i)(ii) de la loi en ce qui concerne le salaire versé à un adjoint n’est satisfaite que si les frais sont essentiels afin de permettre à l’appelant d’exercer les fonctions de son emploi.
+[26] Sur ce point, l’appelant n’a pas réussi à s’acquitter du fardeau de la preuve qui lui incombait. Le témoignage de l’appelant, selon lequel les fonctions de ses enfants consistaient à ouvrir les dossiers des clients, à préparer les documents à signer, à effectuer des recherches sur les produits concurrents et à organiser le courrier, ne prouve pas que les services de ses enfants étaient nécessaires pour lui permettre d’exécuter les fonctions de son emploi de conseiller financier.
+[27] Par ailleurs, l’appelant n’a pas appelé ses enfants pour étayer son témoignage ni son superviseur, qui aurait été en mesure d’expliquer les raisons pour lesquelles l’aide de ses enfants était requise de manière implicite.
+[28] Malgré le fait qu’il ressort du témoignage de l’appelant que les enfants de ce dernier pourraient avoir réellement fourni de l’aide, l’appelant n’a pas présenté de preuve suffisante pour établir l’élément de nécessité. L’appelant n’a pas tenu de dossier du nombre d’heures travaillées par ses enfants au cours d’une année, et il a admis que les montants qui leur ont été versés ont été établis de façon arbitraire et sans lien avec les réelles fonctions accomplies.
+[29] Conformément au paragraphe 8(13) de la Loi, un montant n’est déductible dans le calcul du revenu d’un particulier pour une année d’imposition tiré d’une charge ou d’un emploi pour la partie d’un établissement domestique autonome où le particulier réside que si cette partie, selon le cas :
+(i) est le lieu où le particulier accomplit principalement les fonctions de la charge ou de l’emploi,
+(ii) est utilisée exclusivement, au cours de la période à laquelle le montant se rapporte, aux fins de tirer un revenu de la charge ou de l’emploi et est utilisée pour rencontrer des clients ou d’autres personnes de façon régulière et continue dans le cours normal de l’exécution des fonctions de la charge ou de l’emploi.
+[30] Les formulaires T2200 déposés indiquent que l’appelant a exécuté les fonctions de son emploi à domicile seulement 20 % du temps, et l’appelant a admis qu’il ne rencontrait pas de clients à son domicile. Par conséquent, les deux conditions du paragraphe 8(13) ne sont pas respectées, ce qui signifie qu’aucun montant n’est déductible dans le calcul des revenus de l’appelant à l’égard du travail à domicile.
+[31] Les formulaires T2200 déposés indiquent que :
+- l’appelant était tenu de régler ses propres frais lorsqu’il accomplissait les fonctions de son emploi;
+- l’appelant n’était tenu de voyager sur aucun territoire en particulier dans le cadre de l’accomplissement des fonctions de son emploi;
+- à 14 reprises en 2011 et à 5 reprises en 2012, l’appelant a dû se déplacer pendant au moins 12 heures consécutives hors de la municipalité où il se présente normalement pour travailler;
+- l’appelant a reçu des allocations pour frais afférents à un véhicule à moteur de 396 $ en 2011 et de 408,32 $ en 2012, montants qui n’ont pas été inclus dans les revenus d’emploi de l’appelant à la Banque Royale du Canada.
+[32] Selon son témoignage, l’appelant a utilisé un véhicule exclusivement aux fins de son emploi et a parcouru 40 000 kilomètres par année. L’appelant a demandé une déduction totale de frais afférents à un véhicule à moteur de 13 915 $ et de 12 487 $ pour les années d’imposition 2011 et 2012, respectivement, en utilisant un taux de 44 cents le kilomètre. L’appelant n’a pas tenu de registre de kilométrage sur le véhicule à moteur qu’il a conduit aux fins de son emploi ni de liste des clients ou des clients potentiels qu’il a rencontrés ou des séminaires qu’il a animés pendant qu’il était loin de chez lui. L’appelant n’a présenté aucune facture prouvant les frais réels qu’il a engagés pour l’essence et l’entretien dans l’exécution des fonctions de son emploi.
+[33] En l’absence de reçus ou d’une autre méthode raisonnable de calcul des frais afférents à un véhicule à moteur, je ne peux que conclure que les montants accordés par le ministre (déduction faite des allocations pour frais afférents à un véhicule à moteur versées par la Banque Royale du Canada) sont raisonnables compte tenu des circonstances.
+[34] L’appelant a demandé une déduction totale de frais de repas et de divertissement de 6 615 $ et de 6 408 $ pour les années d’imposition 2011 et 2012, respectivement, et le ministre a accordé 1 507,78 $ par année. En l’absence d’une liste de personnes dont l’appelant s’est présumément occupé du divertissement, de reçus et de relevés de carte de crédit, je ne peux que conclure que les montants accordés par le ministre sont raisonnables compte tenu des circonstances.
+[35] L’appelant a demandé une déduction totale de frais de fournitures de 1 429 $ et de 517 $ pour les années d’imposition 2011 et 2012, respectivement, et le ministre a accordé 467,71 $ par année. En l’absence de factures montrant les achats d’immobilisations comme des ordinateurs, des écrans ou des imprimantes, je ne peux que conclure que les montants accordés par le ministre sont raisonnables compte tenu des circonstances.
+[36] Les autres déductions pour dépenses d’emploi demandées par l’appelant pour les frais de publicité et de promotion, les frais d’hébergement et les frais de location liés à la copropriété ont été ajustés à la suite de concessions des parties. Je n’ai pas l’intention d’y changer quoi que ce soit.
+[37] En ce qui concerne les revenus non déclarés provenant de la location de la copropriété, l’appelant a eu l’occasion d’expliquer la provenance des dépôts mensuels de 300 $ dans le compte bancaire de sa copropriété, mais n’a produit aucun élément de preuve attestant que les dépôts provenaient de virements effectués à partir de son compte bancaire personnel. Je suis persuadé qu’à titre d’employé de la Banque Royale du Canada, l’appelant aurait pu accéder facilement à ses documents bancaires.
+[38] Compte tenu de ce qui précède, l’appelant n’a pas réussi à établir, selon la prépondérance des probabilités, qu’il avait droit à des ajustements autres que ceux qui sont décrits ci-dessus relativement à ses années d’imposition 2011 et 2012.
+[39] Après avoir pris en compte tous les ajustements ci-dessus, les dépenses d’emploi, les frais de copropriété et la perte locative nette de l’appelant pour les années d’imposition 2011 et 2012 sont les suivants :
+[BLANK / EN BLANC]
+2011
+$
+2012
+$
+Dépenses d’emploi
+Honoraires
+450,00
+450,00
+Publicité et promotion
+3 234,81
+2 434,81
+Véhicule à moteur
+946,23
+933,91
+Repas et divertissement
+Hébergement
+1 507,78
+1 095,06
+1 507,78
+541,06
+Fournitures
+Autres frais
+Bureau à domicile
+467,71
+0
+0
+7 701,59
+467,71
+0
+0
+6 335,27
+[BLANK / EN BLANC]
+2011
+$
+2012
+$
+Frais de copropriété
+Entretien et réparations
+240,00
+168,00
+Taxes foncières
+1 590,00
+1 607,81
+Services publics
+1 544,00
+1 254,00
+Déplacements
+Autres frais
+0
+3 045,00
+6 419,00
+0
+3 044,00
+6 073,81
+[BLANK / EN BLANC]
+[BLANK / EN BLANC]
+Perte locative nette associée à la copropriété
+Loyer brut
+Frais de copropriété
+2011
+$
+[BLANK]
+[BLANK]
+[BLANK]
+5 933,39
+6 419,00
+2012
+$
+[BLANK]
+[BLANK]
+[BLANK]
+4 789,60
+(6 073,81)
+Perte locative nette
+(485,61)
+(1 284,20)
+Part de 50 % de l’appelant
+(242,80)
+(642,10)
+[40] Pour ces raisons, l’appel est accueilli et l’affaire est déférée au ministre pour un nouvel examen et de nouvelles cotisations conformément aux présents motifs.
+Signé à Ottawa, Canada, ce 29e jour de novembre 2017.
+« Réal Favreau »
+Le juge Favreau
+RÉFÉRENCE :
+2017 CCI 237
+NO DU DOSSIER DE LA COUR :
+2016-4780(IT)I
+INTITULÉ :
+Lance W.A. Brown et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Lethbridge (Alberta)
+DATE DE L’AUDIENCE :
+Le 16 octobre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 29 novembre 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Aminollah Sabzevari
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[BLANK / EN BLANC]
+Cabinet :
+[BLANK / EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

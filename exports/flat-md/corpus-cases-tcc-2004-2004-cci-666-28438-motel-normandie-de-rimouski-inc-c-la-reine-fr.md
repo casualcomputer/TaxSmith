@@ -1,0 +1,203 @@
+---
+title: "Motel Normandie de Rimouski inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28438/index.do"
+last_modified: "2004-11-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 666"
+citation2: ""
+neutral_citation: "2004 CCI 666"
+decision_date: "2004-11-16"
+language: "fr"
+item_id: "28438"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1204
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:50:41.982000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "da3001cc1f6a625648dac18a3ff9a4a766796e7715008b82ab64eefa8b863827"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Motel Normandie de Rimouski inc. c. La Reine
+
+- Citation: 2004 CCI 666
+- Decision date: 2004-11-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1204, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Motel Normandie de Rimouski inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-16
+Référence neutre
+2004 CCI 666
+Numéro de dossier
+2003-234(GST)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-234(GST)G
+ENTRE :
+SAMSON BÉLAIR DELOITTE & TOUCHE INC.,
+EN SA QUALITÉ DE SYNDIC À LA FAILLITE DE
+MOTEL NORMANDIE DE RIMOUSKI INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 5 mai 2004, à Québec (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Maurice Dussault
+Avocat de l'intimée :
+Me Michel Morel
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis porte le numéro 0254412 et est daté du 18 octobre 2002, pour la période du 31 décembre 1998 au 31 octobre 1999 est accueilli avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2004.
+« François Angers »
+Juge Angers
+Référence : 2004CCI666
+Date : 20041116
+Dossier : 2003-234(GST)G
+ENTRE :
+SAMSON BÉLAIR DELOITTE & TOUCHE INC.,
+EN SA QUALITÉ-DE SYNDIC À LA FAILLITE DE
+MOTEL NORMANDIE DE RIMOUSKI INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Le 18 octobre 2002, le ministre du Revenu national (« le ministre ») a envoyé aux soins du syndic de faillite Samson Bélair Deloitte & Touche Inc. (Samson Bélair) un avis de cotisation visant Motel Normandie de Rimouski Inc. (Motel Normandie). Cette cotisation, établie en vertu de la Loi sur la taxe d'accise (« LTA ») à l'égard de la période du 31 décembre 1998 au 31 octobre 1999 ( « la période »), constitue la décision sur une opposition de l'appelante et rajuste le montant de la taxe nette antérieurement fixée en le réduisant à 42 790 $ avec intérêts de 512,65 $ et des pénalités de 640,79$. La nouvelle cotisation apporte cette modification du fait que le ministre a révisé à la baisse la juste valeur marchande de l'immeuble. L'appelante interjette donc appel de cette nouvelle cotisation et demande son annulation au motif qu'elle n'était pas tenue à l'autocotisation en 1999 puisque la conversion de son immeuble commercial en immeuble d'habitation s'est faite avant la période en litige.
+[2] Motel Normandie exploitait dans la municipalité de Rimouski un immeuble commercial qui consistait en un complexe hôtelier de 83 chambres comprenant un restaurant et un bar. En juillet 1997, Motel Normandie a retenu les services de la société Gestion hôtelière M.B. Ass. Inc. (Gestion M.B.) pour faire une analyse de cette entreprise. Gestion M.B. était administratrice en tourisme, hôtellerie et restauration. M. Michel Bélanger, représentant de cette société, a donc préparé un plan d'affaires et une analyse de transformation qu'il a présenté à Motel Normandie le 17 novembre 1997. Sa recommandation principale et celle d'ailleurs qui a été retenue par Motel Normandie consistait en la transformation du motel en résidence pour personnes retraitées autonomes. La recommandation a été adoptée lors d'une réunion des actionnaires en janvier 1998.
+[3] Durant l'hiver de 1998, quelques appartements modèles ont été aménagés et, en mars 1998, le public a été invité à les visiter. Une conférence de presse a suivi et, en avril 1998, onze baux ont été signés, l’occupation étant prévue le 1er juillet, et des négociations étaient en cours relativement à 22 autres baux, avec occupation à la même date. Un permis de rénovation a été demandé en mai et les contrats de transformation ont été octroyés. Durant mai et juin 1998, toutes les réservations pour réceptions de mariage, banquets, conférences et autres ont été annulées. Le restaurant est resté ouvert à sa clientèle jusqu'au 31 mai et par la suite ne servait des repas qu'aux résidents. Cet état de choses, était nécessaire puisque, selon M. Bélanger, de telles activités ne se mariaient pas bien avec la nouvelle clientèle de l'établissement. Les employés travaillant dans le domaine de l'hôtellerie ont été graduellement mis à pied à compter de septembre et, au début d'octobre, des infirmières ont été embauchées.
+[4] Les états financiers déposés en preuve reflètent effectivement cette transformation. On peut aussi constater que les loyers provenant des appartements de la résidence deviennent la source principale de revenus à l'automne de 1998 et que les revenus tirés des chambres de motel sont à la baisse. Il en va de même au chapitre de la nourriture. Un document interne indique l'occupation de l'immeuble en décembre 1998 par des résidents en appartements; y figurent également des renseignements sur les chambres louées par les visiteuers ou par d’autres personnes, de même que les noms des résidents à cette époque. Aucune partie de l’immeuble n’était affectée à l'hôtellerie.
+[5] Le 22 octobre 1998, la plupart des travaux de transformation étaient complétés. Cette transformation a nécessité la mise en place d'un système de sécurité incluant caméras, télévision, détecteurs de mouvement, et collets ou bracelets d'alerte en cas d'urgence, l’installation d’un ascenseur, la modification de cuisine, la création d'espace public et l’installation d'un téléviseur à écran géant. À la fin de décembre 1998, il ne restait, selon M. Bélanger, qu'environ 40 000 $ de rénovations à effectuer sur un total de 725 000 $. Ces rénovations consistaient en la transformation de 16 à 27 chambres en appartements. M. Bélanger a été incapable de préciser le nombre exact des chambres à transformer à la fin de décembre 1998, mais a dit que 27 était le maximum.
+[6] Selon le représentant de Samson Bélair, M. Michel Landry, la transformation était presque complétée au 31 décembre 1998 et approximativement 38 appartements étaient loués. Quant aux travaux à effectuer après cette date, ils étaient minimes et consistaient en l'installation d'une porte coupe-feu en l’exécution de travaux et de peinture, qui se faisaient au choix des locataires.
+[7] Une concurrence forte et des problèmes environnementaux ont essentiellement provoqué la faillite de Motel Normandie. Samson Bélair a été nommé syndic à la faillite le 30 décembre 1998. Les problèmes environnementaux ont fait surface durant l'été 1998; il y a eu une étude de leur impact et les coûts pour y remédier se sont révélés trop élevés pour les moyens de l’entreprise. On a quand même entrepris des travaux correctifs, qui ont commencé en 1998 et ont été poursuivis après la faillite par le gérant nommé par le syndic. Les coûts reliés à ces problèmes environnementaux ont été d'environ 200 000 $.
+[8] Après sa nomination en tant que syndic, M. Michel Landry de Samson Bélair a tenu une réunion des créanciers et a passé la situation en revue avec ces derniers. C'est alors que la décision de continuer les opérations a été prise et qu’un contrat de gestion a, avec l'accord des créanciers principaux, été accordé à Gestion M.B. Selon M. Landry, étant donné que la transformation était faite, il n'y a eu aucune discussion sur ce sujet à cette réunion. Le syndic, selon M. Landry, n'a procédé à aucune transformation de chambres, si ce n'est quelques travaux entrepris par suite d’avis de défectuosités.
+[9] M. Landry reconnaît toutefois que des revenus de 57 166 $ tirés de la location de chambres figurent aux états financiers de 1999. Il s'agirait là, dans une proportion de 90%, de la location de chambres à des amis ou à des parents des résidents. Le revenu pour décembre 1999 provenant de cette source est de 752 $ et correspond à la location d'une quinzaine de chambres. La taxe sur les produits et services (TPS) a été perçue et remise relativement à la location de ces chambres.
+[10] M. Jacques Cimon est le vérificateur attitré dans le dossier de l'appelante. Au début de l'année 1999, il s'est rendu sur les lieux afin, entre autres, de déterminer quelle était l'activité de l'appelante. On lui a alors remis une copie de 38 baux à long terme d’appartements occupés à titre résidentiel par des personnes âgées. Il a, par la suite, établi, en vertu du paragraphe 190(1) de la LTA, une cotisation à l'égard de Motel Normandie pour la TPS sur la valeur marchande des 38 unités de logement, puisque cette dernière avait omis de s'acquitter de son obligation d’autocotisation à la suite de la fourniture, par baux, d’immeubles d'habitation dans la période allant jusqu’au 30 décembre 1998. Lors de la même visite, il a même constaté que 56 unités étaient achevées, les gros travaux étaient terminés et il ne restait qu’à peinturer des chambres, à faire le recouvrement des planchers et à remédier à quelques défectuosités.
+[11] Le 28 février 2000, à la suite de l'occupation de nouveaux appartements par des personnes âgées, une nouvelle cotisation a été établie pour la TPS sur la valeur marchande de 30 nouvelles unités transformées sur 83 possibles, la période visée étant celle du 31 décembre 1998 au 31 octobre 1999. Le vérificateur aurait constaté lors de sa visite en janvier 2000 que certaines chambres n'avaient pas encore été converties. Chose certaine, il y avait 68 unités louées sur un total de 83. Il a donc établi une cotisation relativement à 30 unités additionnelles, basant cette cotisation sur une valeur marchande. La cotisation a par la suite été modifiée après opposition, et une nouvelle cotisation en date du 18 octobre 2002 a été établie en fonction d’une valeur représentant 30/83 de 1 875 000 $. Motel Normandie, de toute évidence, n’avait fait d’autocotisation à aucun égard. Cette nouvelle cotisation a été établie au nom de Motel Normandie aux soins de Mme Annick Martineau, Samson Bélair Syndic.
+[12] L'avocat de l'intimée soutient que, du fait d’avoir converti son immeuble commercial en immeubles d'habitation, l'appelante est réputée, selon le paragraphe 190(1) de la LTA, être un constructeur des immeubles d'habitation et avoir fait des rénovations majeures à l'immeuble. Ainsi, l'appelante a omis de faire une autocotisation, conformément au paragraphe 191(3) de la LTA, à la suite de la fourniture, par baux, des immeubles d'habitation en 1999. L’avocat soutient subsidiairement qu'en vertu des paragraphes 206(4) et 206(5) de la LTA l'appelante, ayant cessé d'utiliser l'immeuble dans le cadre de ses activités commerciales, est réputée avoir effectué une fourniture taxable de son immeuble ou d'une partie de celui-ci et avoir perçu la taxe afférente à une fourniture.
+[13] De son côté, l'avocat de l'appelante fait valoir que l'alinéa 190(1)b) de la LTA s'applique en l'espèce. Cette disposition déclenche, selon lui, une autocotisation à la date de l'entrée en vigueur du bail du premier résident, soit, en l’espèce, le 1er juillet 1998, et, en conséquence, l'appelante n'avait pas à faire d'autocotisation pour la période en litige. Il ajoute que les dispositions en matière de changement d'usage qui se trouvent aux paragraphes 206(4) et (5) de la LTA ne s'appliquent pas en l'espèce en raison du paragraphe 195.1(1) de la LTA. Ce paragraphe prévoit que les règles de la fourniture à soi-même énoncées à l'article 191 de la LTA priment celles en matière de changement d'usage.
+[14] À la lumière des positions respectives des parties, il s’agit donc de déterminer à quel moment les règles de la fourniture à soi-même devenaient applicables en l’espèce. Les dispositions législatives pertinentes sont les suivantes :
+123(1) « rénovations majeures » Fait l'objet de rénovations majeures le bâtiment qui est rénové ou transformé au point où la totalité, ou presque, du bâtiment qui existait immédiatement avant les travaux, exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planchers, du toit et des escaliers, a été enlevée ou remplacée, dans le cas où, après l'achèvement des travaux, le bâtiment constitue un immeuble d'habitation ou fait partie d'un tel immeuble.
+« habitation » Maison individuelle, jumelée ou en rangée, unité en copropriété, maison mobile, maison flottante, appartement, chambre d'hôtel, de motel, d'auberge ou de pension, chambre dans une résidence d'étudiants, d'aînés, de personnes handicapées ou d'autres particuliers ou tout gîte semblable, ou toute partie de ceux-ci, qui est, selon le cas :
+a) occupée à titre résidentiel ou d'hébergement;
+b) fournie par bail, licence ou accord semblable, pour être utilisée à titre résidentiel ou d'hébergement;
+c) vacante et dont la dernière occupation ou fourniture était à titre résidentiel ou d'hébergement;
+d) destinée à servir à titre résidentiel ou d'hébergement sans avoir servi à une fin quelconque.
+« immeuble d'habitation »
+a) La partie constitutive d'un bâtiment qui comporte au moins une habitation, y compris :
+(i) la fraction des parties communes et des dépendances et du fonds contigu au bâtiment qui est raisonnablement nécessaire à l'usage résidentiel du bâtiment,
+(ii) la proportion du fonds sous-jacent au bâtiment correspondant au rapport entre cette partie constitutive et l'ensemble du bâtiment;
+b) la partie d'un bâtiment, y compris la proportion des parties communes et des dépendances du bâtiment, et du fonds sous-jacent ou contigu à celui-ci, qui est attribuable à l'habitation et raisonnablement nécessaire à son usage résidentiel, qui constitue :
+(i) d'une part, tout ou partie d'une maison jumelée ou en rangée, d'un logement en copropriété ou d'un local semblable qui est, ou est destinée à être, une parcelle séparée ou une autre division d'immeuble sur lequel il y a, ou il est prévu qu'il y ait, un droit de propriété distinct des droits de propriété des autres parties du bâtiment,
+(ii) d'autre part, une habitation;
+c) la totalité du bâtiment visé à l'alinéa a) ou du local visé au sous-alinéa b)(i), qui est la propriété d'un particulier, ou qui lui a été fourni par vente, et qui sert principalement de résidence au particulier, à son ex-époux ou ancien conjoint de fait ou à un particulier lié à ce particulier, y compris :
+(i) dans le cas d'un bâtiment visé à l'alinéa a), les dépendances, le fonds sous-jacent et la partie du fonds contigu qui sont raisonnablement nécessaires à l'usage du bâtiment,
+(ii) dans le cas d'un local visé au sous-alinéa b)(i), la fraction des parties communes et des dépendances du bâtiment, et du fonds sous-jacent ou contigu à celui-ci, qui est attribuable à l'immeuble et raisonnablement nécessaire à son usage;
+d) une maison mobile, y compris ses dépendances et, si elle est fixée à un fonds (sauf un emplacement dans un parc à roulottes résidentiel) destiné à en permettre l'usage résidentiel, le fonds sous-jacent ou contigu qui est attribuable à la maison et qui est raisonnablement nécessaire à son usage résidentiel;
+e) une maison flottante.
+Ne sont pas des immeubles d'habitation tout ou partie d'un bâtiment qui est un hôtel, un motel, une auberge, une pension ou un gîte semblable, ni le fonds et les dépendances qui y sont attribuables, si le bâtiment n'est pas visé à l'alinéa c) et si la totalité ou la presque totalité des baux, licences ou accords semblables, aux termes desquels les habitations dans le bâtiment ou dans la partie de bâtiment sont fournies, prévoient, ou sont censés prévoir, des périodes de possession ou d'utilisation continues de moins de 60 jours.
+« immeuble d'habitation à logements multiples » Immeuble d'habitation, à l'exclusion d'un immeuble d'habitation en copropriété, qui contient au moins deux habitations.
+« immeuble d'habitation à logement unique » Immeuble d'habitation, à l'exclusion d'un logement en copropriété, qui contient au plus une habitation.
+190(1) Conversion à un usage résidentiel - Lorsque, à un moment donné, une personne commence à détenir ou à utiliser à titre d'immeuble d'habitation un immeuble qui a été acquis par elle à cette fin la dernière fois qu'elle en a fait l'acquisition ou qui, immédiatement avant le moment donné, était détenu pour fourniture dans le cadre de son entreprise ou de son activité commerciale ou était utilisé ou détenu pour utilisation, à titre d'immobilisation, dans ce cadre, les présomptions suivantes s'appliquent à la présente partie dans le cas où, immédiatement avant le moment donné, l'immeuble n'était pas un immeuble d'habitation et où la personne n'a pas procédé à la construction ou à des rénovations majeures de l'immeuble d'habitation et n'en serait pas le constructeur en l'absence du présent article :
+a) la personne est réputée avoir fait des rénovations majeures à l'immeuble d'habitation;
+b) les rénovations sont réputées avoir débuté à ce moment et avoir été achevées en grande partie au premier en date du moment où l'immeuble d'habitation est occupé à titre résidentiel ou d'hébergement et du moment où la personne en transfère la propriété à une autre personne;
+c) la personne est réputée être un constructeur de l'immeuble d'habitation, sauf si elle est :
+(i) un particulier qui acquiert le bien à ce moment pour le détenir ou l'utiliser exclusivement comme résidence pour lui, son ex-époux ou ancien conjoint de fait ou un autre particulier qui lui est lié,
+(ii) une fiducie personnelle qui acquiert le bien à ce moment pour le détenir ou l'utiliser exclusivement comme résidence d'un particulier bénéficiaire de la fiducie.
+191(1) Fourniture à soi-même d'un immeuble d'habitation à logement unique ou d'un logement en copropriété - Pour l'application de la présente partie, lorsque les conditions suivantes sont réunies :
+a) la construction ou les rénovations majeures d'un immeuble d'habitation — immeuble d'habitation à logement unique ou logement en copropriété — sont achevées en grande partie,
+[. . . ]
+(3) Fourniture à soi-même d'un immeuble d'habitation à logements multiples - Pour l'application de la présente partie, lorsque les conditions suivantes sont réunies :
+a) la construction ou les rénovations majeures d'un immeuble d'habitation à logements multiples sont achevées en grande partie,
+b) le constructeur, selon le cas :
+(i) transfère à une personne, qui n'est pas l'acheteur en vertu du contrat de vente visant l'immeuble, la possession d'une habitation de celui-ci aux termes d'un bail, d'une licence ou d'un accord semblable conclu en vue de l'occupation de l'habitation à titre résidentiel,
+(i.1) transfère à une personne la possession d'une habitation de l'immeuble aux termes d'une convention prévoyant :
+(A) d'une part, la fourniture par vente de tout ou partie du bâtiment faisant partie de l'immeuble,
+(B) d'autre part, la fourniture par bail du fonds faisant partie de l'immeuble ou la fourniture d'un tel bail par cession,
+(ii) étant un particulier, occupe lui-même à titre résidentiel une habitation de l'immeuble,
+c) le constructeur, la personne ou un particulier locataire de celle-ci ou titulaire d'un permis de celle-ci est le premier à occuper à titre résidentiel une habitation de l'immeuble après que les travaux sont achevés en grande partie,
+le constructeur est réputé :
+d) avoir effectué et reçu, par vente, la fourniture taxable de l'immeuble le jour où les travaux sont achevés en grande partie ou, s'il est postérieur, le jour où la possession de l'habitation est transférée à la personne ou l'habitation est occupée par lui;
+e) avoir payé à titre d'acquéreur et perçu à titre de fournisseur, au dernier en date de ces jours, la taxe relative à la fourniture, calculée sur la juste valeur marchande de l'immeuble ce jour-là.
+[15] En l’espèce, la description des travaux effectués dans le but de faire la conversion du Motel Normandie en immeuble d’habitation ne semblent pas satisfaire aux exigences de la définition de rénovations majeures. Dans McLean c. Canada, [1998] A.C.I. no 435 (Q.L.), cette définition a été qualifiée de restrictive et sévère. Le juge Beaubier dans l’affaire Hole c. Canada, [1998] A.C.I. no 332 (Q.L.), nous indiquait qu’il s’agit de savoir si, exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planches, du toit et des escaliers, la « totalité » ou « presque » de l’immeuble d’habitation a été remplacée, et que, selon la définition, il est plutôt question de savoir si presque tout l’intérieur a été enlevé ou remplacé. Il s’agit en l’espèce, d’une transformation sur le plan de la sécurité et de l’esthétique pour répondre aux besoins des aînés. Ce n’est pas un cas où l’on a refait tout l’intérieur.
+[16] Cela étant dit, le fait qu’une personne a commencé à utiliser à titre d’immeuble d’habitation un immeuble qui était utilisé auparavant dans le cadre de son activité commerciale a pour effet d’activer les présomptions que l’on trouve énoncées au paragraphe 190(1) de la LTA. Cette personne est réputée avoir fait des rénovations majeures à l’immeuble d’habitation, les rénovations sont réputées avoir débuté au moment où elle a commencé à l’utiliser ainsi et avoir été achevées en grande partie en date du moment où l’immeuble d’habitation était occupé à titre résidentiel ou d’hébergement et du moment où la personne en a transféré la propriété à une autre personne et finalement la personne est réputée être un constructeur de l’immeuble d’habitation.
+[17] L’appelant, en l’espèce, se trouve donc devant un tel état de choses et est réputé en vertu de l’alinéa 190(1)b) avoir achevé en grande partie les rénovations à la fin de juin 1998 ou, plus précisément, le 1er juillet, soit au moment où l’immeuble d’habitation a été occupé à titre résidentiel ou d’hébergement. Le paragraphe 190(1) déclenche l’application des règles de la fourniture à soi-même énoncées au paragraphe 191(3) puisque « l’immeuble d’habitation » en l’espèce est un immeuble d’habitation à logements multiples. Comme je le disais dans l’affaire Immeubles Le Séjour Inc. c. Canada, [2002] A.C.I. no 424 (Q.L.), [2003] G.S.T.C. 180, la raison d’être des dispositions de la LTA prévoyant l’autocotisation est d’éviter tout avantage que pourrait avoir la personne qui réalise elle-même son projet de construction sur celle qui acquiert d’un constructeur un immeuble résidentiel et qui doit payer la taxe sur cet achat.
+[18] En l’espèce, les règles de la fourniture à soi-même sont devenues applicables, en vertu de l’alinéa 191(3)d) de la LTA, au deuxième en date des deux événements suivants, soit le jour où les travaux ont été achevés en grande partie ou le jour où la possession de l’habitation a été transférée à une personne ou l’habitation a été occupée par le constructeur. Dans les deux cas et selon la preuve avancée, les règles sont devenues applicables le 1er juillet 1998. Même si la date à retenir était ultérieure à celle-là, il est certain, selon la preuve avancée, que les travaux étaient achevés en grande partie avant la fin de 1998, donc avant la période en litige.
+[19] À ce moment, l’appelant aurait dû faire l’objet d’une cotisation ou faire une autocotisation, basées l’une et l’autre sur la juste valeur marchande de l’immeuble d’habitation au complet, selon l’alinéa 191(3)e) de la LTA. La Cour d’appel fédérale, dans l’arrêt 398722 Alberta Ltd c. Canada, [2000] A.C.F. no 644 (Q.L.), a appliqué le paragraphe 191(3) de la LTA comme suit, au paragraphe 17 :
+L’application du paragraphe 191(3) de la Loi sur la taxe d’accise, la soi-disant « règle de la fourniture à soi-même » s’est déclenchée en février 1993 lorsque le premier locataire de l’un des appartements en question en prit possession.
+[20] L’intimé, dans le présent cas, a établi la cotisation en fonction de la conversion de chaque chambre d’hôtel en résidence pour personnes âgées pour la période en litige, de sorte que chacune de ces chambres devait donc constituer un immeuble d’habitation au sens de la LTA. Cette approche est d’ailleurs évidente à la lecture de l’alinéa 16o) de la Réponse à l’avis d’appel modifiée, qui se lit comme suit :
+les nouveaux immeubles d’habitation furent loués au cours de l’année 1999.
+[21] Pourtant, l’intimé a établi la cotisation en vertu du paragraphe 191(3) de la LTA, qui énonce les règles de la fourniture à soi-même d’un « immeuble d’habitation à logements multiples ». Il aurait peut être dû le faire en vertu du paragraphe 191(1) afin d’être conséquent avec sa position.
+[22] La définition d’immeuble d’habitation, à mon avis, prévoit que, dans certains cas, une « habitation » peut être un immeuble d’habitation. Cependant, une telle habitation qui comprend une chambre dans une résidence pour aînés doit, pour être caractérisée d’« immeuble d’habitation », correspondre soit à une maison jumelée ou en rangée, soit à un logement en copropriété ou à un local semblable qui est, ou est destiné à être, une parcelle séparée ou une autre division d’immeuble sur lequel il y a, ou il est prévu qu’il y aura, un droit de propriété distinct des droits de propriété des autres parties du bâtiment (voir définition plus haut).
+[23] Ce ne sont pas toutes les « habitations » qui peuvent être caractérisées « d’immeuble d’habitation ». Les sous-alinéas (i) et (ii) de l’alinéa b) de la définition « d’immeuble d’habitation » sont cumulatifs, c’est-à-dire que les conditions énumérées à (i) et à (ii) doivent être réunies afin que l’alinéa b) s’applique et que la partie du bâtiment puisse être considérée comme un « immeuble d’habitation ». L’utilisation par le législateur des mots « d’une part » au sous-alinéa (i) de l’alinéa b) de la même définition et des mots « d’autre part » au sous-alinéa (ii) de l’alinéa b) de la définition appuie mon énoncé (voir la version anglaise de la définition). Une chambre dans une résidence pour aînés ne peut, à mon avis, constituer un « immeuble d’habitation » au sens de la définition de cette expression au paragraphe 123(1) de la LTA.
+[24] L’argument subsidiaire de l’intimé quant à l’application des paragraphes 206(4) et 206(5) de la LTA n’a pas de pertinence en l’espèce. Qu’il me suffise de citer l’exemple que l’on trouve dans la Série des mémorandums sur la TPS/TVA, chapitre 19.4.2 « Immeubles commerciaux – Fournitures réputées », au paragraphe 60.
+Exemple 2 – Une personne convertit un hôtel, qui n'est pas un immeuble d'habitation, en maison de chambres. À la suite de cette conversion, la personne commence à détenir le bien à titre d'immeuble d'habitation. Les logements dans la maison à chambres sont louées pour des périodes de possession ou d'utilisation continues de plus d'un mois. Les rénovations entreprises pour la conversion ne justifient pas que le bâtiment soit considéré comme ayant fait l'objet de rénovations majeures. Au moment de louer le premier logement, la personne n'est pas certaine si elle doit déterminer la taxe par autocotisation en application du paragraphe 191(3) (fourniture à soi-même d'un immeuble d'habitation à logements multiples) ou aux termes des dispositions sur le changement d'utilisation (cessation d'utilisation dans le cadre d'activités commerciales).
+Comme la maison de chambres n'est pas neuve ni n'a fait l'objet de rénovations majeures, une analyse de cette situation laisse tout d'abord croire que la personne n'est pas tenue d'effectuer une fourniture à soi-même aux termes du paragraphe 191(3). L'analyse porterait en outre à croire que les dispositions sur le changement d'utilisation régissant la cessation d'utilisation dans le cadre d'activités commerciales s'appliquent.
+Toutefois, le paragraphe 190(1) (conversion à un usage résidentiel) s'applique dans ce cas et en application de l'alinéa 190(1)d), la personne est réputée avoir apporté des rénovations majeures à l'immeuble d'habitation. La personne est également réputée être le constructeur de l'immeuble en application de l'alinéa 190(1)f). Par conséquent, le paragraphe 191(3) s'applique. Puisque, selon les dispositions de l'article 195.1, le bien n'est pas réputé être une immobilisation du constructeur pour la période entre le moment de la conversion jusqu'après le moment où le constructeur réputé reçoit soit une fourniture taxable en application de l'article 191, soit une fourniture exonérée de l'habitation, les dispositions sur le changement d'utilisation régissant la cessation d'utilisation dans le cadre d'activités commerciales ne s'appliquent pas.
+[25] Pour ces motifs, je conclus que les règles de la fourniture à soi-même sont devenues applicables dans la période précédant celle en litige et que c’est à ce moment que l’intimée aurait dû établir à l’égard de l’appelant une cotisation fondée sur la juste valeur marchande de l’immeuble d’habitation au complet. L’appel est accueilli et la cotisation est par conséquent annulée. L’appelant a droit à ses dépens.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2004.
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2004CCI666
+No DE DOSSIER DE LA COUR :
+2003-234(GST)G
+INTITULÉ DE LA CAUSE :
+Samson Bélair Deloitte & Touche Inc., en sa qualité de syndic à la faillite de Motel Normandie de Rimouski Inc. et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 5 mai 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge François Angers
+DATE DU JUGEMENT :
+le 16 novembre 2004
+COMPARUTIONS :
+Pour l’appelante :
+Me Maurice Dussault
+Pour l'intimée :
+Me Michel Morel
+AVOCAT INSCRIT AU DOSSIER:
+Pour les appelants :
+Nom :
+Me Maurice Dussault
+Étude :
+Brochet Dussault Larochelle
+S.E.N.C.
+Sainte-Foy (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

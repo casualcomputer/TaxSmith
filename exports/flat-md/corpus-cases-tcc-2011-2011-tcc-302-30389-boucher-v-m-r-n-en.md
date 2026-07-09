@@ -1,0 +1,140 @@
+---
+title: "Boucher v. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30389/index.do"
+last_modified: "2011-06-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 302"
+citation2: ""
+neutral_citation: "2011 TCC 302"
+decision_date: "2011-06-16"
+language: "en"
+item_id: "30389"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7848
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:31:47.219000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0affdac4d7b06dc34a61b4a7558ebd90faaefe64dc11b010cbd21003946b51a9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boucher v. M.R.N.
+
+- Citation: 2011 TCC 302
+- Decision date: 2011-06-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7848, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boucher v. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-16
+Neutral citation
+2011 TCC 302
+File numbers
+2011-94(EI)
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2011-94(EI)
+BETWEEN:
+ESTHER BOUCHER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+ORDER
+Upon a written motion by counsel for the appellant for an application for judgment for failure to give notice of a reply from the respondent within the time limit set out in the Tax Court of Canada Rules of Procedure (General Procedure) (the “Rules”);
+Upon reading the affidavit of Ms. Françoise Bienvenue, filed;
+And upon hearing what was alleged by the parties;
+The motion is dismissed, and the respondent’s application to allow the late service of the reply is granted, and the appeal will be heard on the basis that the facts alleged in the notice of appeal are presumed to be true.
+Signed at Ottawa, Canada, this 14th day of June 2011.
+“B. Paris”
+Paris J.
+Citation: 2011 TCC 302
+Date: 20110614
+Docket: 2011-94(EI)
+BETWEEN:
+ESTHER BOUCHER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Paris J.
+[1] The appellant, Esther Boucher, is bringing a motion to obtain a favourable judgment following the respondent’s failure to give notice of a reply to the notice of appeal within the time limit stipulated at paragraph 12(2)(a) of the Tax Court of Canada Rules (the “Rules”) respecting the Employment Insurance Act. Paragraph 12(2)(a) stipulates the following:
+(2)(a) The Minister shall file the reply at the Registry and serve it on the appellant or intervener, or both, as the case may be, within 60 days from the day on which the notice of appeal or notice of intervention was served on the Minister, or within such longer time as the Court, on application made to it within those 60 days, may allow.
+[2] Though the respondent filed her reply to the notice of appeal in the Court Registry on the sixtieth day following service on the Minister of the notice of appeal, the reply was not served upon the appellant. In fact, on the sixty-first day, the respondent filed an amended response to the notice of appeal with the Registry and served it upon the appellant.
+[3] In a statutory declaration, Françoise Bienvenue, the Canada Revenue Agency (the “CRA”) officer responsible for Ms. Boucher’s file explains what happened as follows:
+[translation]
+[...]
+3. On March 15, 2011, while I was not physically present at my workplace, my boss, Mr. Jean Laporte, noticed that the reply in this docket had not been filed and that the time limit set by the Tax Court of Canada Rules expired the same day.
+4. As a result, Mr. Laporte filed a reply in my name—urgently and by fax—with the Registry of the Tax Court of Canada.
+5. When he filed the reply, on March 15, 2011, my boss only had access to a paper copy of my reply to the notice of appeal, which contained the wrong name of the Deputy Attorney General and did not indicate the date of signing.
+6. Consequently, Mr. Laporte expected me to file an amended response on the following day.
+7. Both my boss and I were under the impression that we benefitted from additional time to serve a reply upon the appellant as the Rules of this Court allow in tax matters.
+8. The following day, March 16, 2011, I electronically filed an amended reply to the notice of appeal, and I served the appellant’s representative with the amended reply by registered mail. The only items that differed from the initial reply were the name of the Deputy Attorney General and the date of signing.
+9. My boss and I believed that serving the amended reply was sufficient and that it was not necessary to serve the appellant with the unamended reply because it contained a few mistakes.
+10. My boss and I sincerely believed that serving the appellant with a reply a day after filing the reply did not breach any rules of procedure and would not prejudice the appellant.
+[4] The appellant claims that the Court should allow her appeal because the reply that had been filed with the Court on March 15 was never served on her and because the respondent did not file an application within the 60-day period set out at paragraph 12(2)(a) of the Rules for additional time to serve the reply. The appellant is relying on subsection 15(1) of the Rules, which reads as follows:
+Where a reply to a notice of appeal has not been served within the 60 days prescribed under paragraph 12(2)(a) or within such longer time as the Court may allow, the appellant may apply on motion to the Court for judgment in respect of the relief sought in the notice of appeal.
+[5] The respondent objects to the application for judgment and asks the Court to allow a late service of the reply. She claims that the lateness of service was not caused by negligence or bad faith, but rather by a mistake, and that the lateness does not prejudice the appellant. Finally, she claims that it would not be in the best interests of justice to allow the appeal without hearing the facts in this litigation.
+[6] The relevant legislation is as follows:
+Tax Court of Canada Rules of Procedure respecting the Employment Insurance Act, SOR/90-690.
+REPLY
+12. The Minister shall reply in writing to every notice of appeal or notice of intervention filed in or mailed to a Registry under subsection 5(4) or 9(1).
+(2) (a) The Minister shall file the reply at the Registry and serve it on the appellant or intervener, or both, as the case may be, within 60 days from the day on which the notice of appeal or notice of intervention was served on the Minister, or within such longer time as the Court, on application made to it within those 60 days, may allow.
+(b) The reply shall be filed in the Registry in which the notice of appeal or notice of intervention was filed or to which it was mailed, and it may be served on the appellant or intervener personally or by mail.
+(b.1) A reply may be filed under paragraph (b) by mailing it to the appropriate Registry described in that paragraph.
+(c) If the reply is served by mail the date of service is the date it is mailed and, in the absence of evidence to the contrary, the date of mailing is that date appearing on the communication from the Minister accompanying the reply.
+DISPOSITION OF APPEALS
+15. Where a reply to a notice of appeal has not been served within the 60 days prescribed under paragraph 12(2)(a) or within such longer time as the Court may allow, the appellant may apply on motion to the Court for judgment in respect of the relief sought in the notice of appeal.
+(2) On the return of the application for judgment the Court may
+(a) [Repealed, SOR/2007-146, s. 7]
+(b) direct that the appeal proceed to hearing on the basis that facts alleged in the notice of appeal are presumed to be true,
+(c) allow the appeal if the facts alleged in the notice of appeal entitle the appellant to the judgment sought, or
+(d) give such other direction as is just.
+(3) The presumption in paragraph (2)(b) is a rebuttable presumption.
+Decisions
+[7] In the circumstances of the case at hand, I am not convinced that the minimal extension of one day to serve the appellant with a notice of appeal justifies that the Court allow the appeal with hearing it on the merits.
+[8] The facts in this case are similar to those found in Carew v. R., [1] in which the respondent had served the appellant with the reply to the notice of appeal within the 60-day time limit due to a mistake made by the courier. The Tax Court of Canada had disallowed the respondent’s application to extend the time to file the reply, and the Federal Court of Appeal set aside this decision. The Court said the following:
+[…] As a matter of principle courts today are loath to let procedural technicalities stand in the way of allowing a case to be decided on its merits.
+[9] The fact that the respondent in this case served the appellant with the amended reply rather than the original reply is immaterial. There were only two minor differences between the formats of the two documents; the respondent’s position on the matters in question was identical.
+[10] The appellant claims she suffered a moral and financial hardship due to the late service of the reply and upon receiving the amended reply instead of the original reply. She claims that the lateness resulted in delaying the payment of her employment insurance benefits.
+[11] However, no prejudice is obvious to me because the one-day delay in the service did not obviously delay the hearing of the appeal.
+[12] Subsection 15(2) of the Rules gives the Court, when an application for judgment is before it, the discretion to grant to the applicant alternative remedies to allowing the appeal. I agree with the appellant that the excuse provided by the CRA officer for the late service shows some negligence. She did not make inquiries into the applicable deadline to serve the Reply. In these circumstances, I think it is fair to allow the appellant the result set out at paragraph 15(2)(b) that the appeal be heard considering that the facts alleged in the notice of appeal are presumed to be true.
+[13] For these reasons, the appellant’s motion is dismissed. The respondent’s application to allow the late service of the reply is granted. Finally, I order that the appeal be heard, considering that the facts alleged in the notice of appeal are presumed to be true.
+Signed at Ottawa, Canada, this 14th day of June 2011.
+“B. Paris”
+Paris J.
+CITATION: 2011 TCC 302
+COURT FILE NO: 2011-94(EI)
+STYLE OF CAUSE: ESTHER BOUCHER AND M.N.R.
+REASONS FOR ORDER BY: The Honourable Justice B. Paris
+DATED: June 14, 2011
+[1] 92 D.T.C. 6608.

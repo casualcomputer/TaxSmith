@@ -1,0 +1,183 @@
+---
+title: "Findlay v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29497/index.do"
+last_modified: "2009-10-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 542"
+citation2: ""
+neutral_citation: "2009 TCC 542"
+decision_date: "2009-10-23"
+language: "en"
+item_id: "29497"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6267
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:49:26.457000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b44ce6e21e4074dc4e41c7c8f287a1896851f21e9340630c61ffc9899e6fede5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Findlay v. The Queen
+
+- Citation: 2009 TCC 542
+- Decision date: 2009-10-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6267, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Findlay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-23
+Neutral citation
+2009 TCC 542
+File numbers
+2009-196(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-196(IT)I
+BETWEEN:
+TRUDY FINDLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 23, 2009 at
+Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Garth Findlay
+Counsel for the Respondent:
+Holly Popenia
+____________________________________________________________________
+JUDGMENT
+The appeal from the determination made under the Income Tax Act for the 2004 base taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 23rd day of October 2009.
+“L.M. Little”
+Little J.
+Citation: 2009 TCC 542
+Date: 20091023
+Docket: 2009-196(IT)I
+BETWEEN:
+TRUDY FINDLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] At all relevant times, Garth Findlay was the co-habiting spouse of the Appellant.
+[2] In the 2004 taxation year, the Appellant was employed by Lee Valley Tools Ltd.
+[3] The Appellant’s net income for the 2004 taxation year was $15,600.00. Mr. Findlay’s net income for the 2004 taxation year was $57,424.00. The family net income for 2004 was $73,024.00.
+[4] When the Appellant filed her income tax return for the 2004 taxation year she did not state her marital status in the tax return, nor did she declare the net income of her husband, Garth Findlay, for 2004.
+[5] For the period from July 2005 to May 2006 of the 2004 base taxation year (the “2004 base taxation year”), the Appellant had one qualified dependant, a son, who was born on May 12, 1988.
+[6] By a Notice dated July 20, 2005, the Minister of National Revenue (the “Minister”) determined that the Appellant was entitled to Canada Child Tax Benefits (“CCTBs”) of $245.87 for the month of July 2005 and $245.83 per month for the period August 2005 to May 2006 on the basis that:
+(a) she was single;
+(b) she had one child who was eligible for the benefits until May 2006; and
+(c) she had a family net income of $15,600.00.
+[7] By a Notice dated July 18, 2008, the Minister notified the Appellant that her entitlement to CCTBs had been recalculated for the 2004 base taxation year on the basis that:
+(a) she was married;
+(b) she had one eligible child; and
+(c) she had a “family” net income of $73,024.00.
+[8] Because of the new position adopted by the Minister, the Minister determined that the Appellant had deemed overpayments of CCTBs totalling $2,264.70 for the period from July 2005 to May 2006 (i.e. the 2004 base taxation year).
+[9] The Appellant filed a Notice of Objection and the Minister issued a Notification of Confirmation on October 21, 2008.
+B. ISSUE
+[10] The issue is whether the Minister properly calculated the Appellant’s entitlement to CCTBs for the 2004 base taxation year.
+C. ANALYSIS AND DECISION
+[11] During the hearing, Mr. Findlay filed the front cover of the Appellant’s 2004 income tax return (Exhibit A-5) and his personal income tax return for 2004 (Exhibit A-4).
+[12] Exhibit A-5 indicates the errors that were made when the Appellant signed her 2004 income tax return. For example, the 2004 income tax return indicates that the Appellant did not enter her date of birth and did not “check the box” to show her marital status on December 31, 2004. In addition, the Appellant did not enter her spouse’s net income for 2004. However, as Mr. Findlay pointed out, the Appellant’s tax return did contain the spouse’s Social Insurance Number (“SIN”). (Note: A printed label issued by the Canada Revenue Agency (the “CRA”) contained a copy of the Appellant’s SIN number plus Mr. Findlay’s SIN number.)
+[13] Mr. Findlay also noted that, in his personal tax return for 2004, the marital status box was checked as single. However, Mr. Findlay maintained that he did not personally check the box indicating that he was single. During examination‑in-chief, the following dialogue occurred:
+JUSTICE: It is checked off, I don’t know who checked it off.
+THE WITNESS: That is what I’d like to know.
+(Mr. Findlay)
+(Transcript, page 22, lines 11-14)
+[14] In cross-examination, Mr. Findlay admitted that he had prepared the Appellant’s income tax return for 2004 and that he had prepared his personal income tax return for 2004. Mr. Findlay admitted that the Appellant’s income tax return does not contain Mr. Findlay’s name and Mr. Findlay’s 2004 income tax return does not contain the Appellant’s name (Transcript, page 30, lines 12-16).
+[15] Furthermore, neither income tax return contained any reference to the 2004 net income of the other spouse for 2004, although the tax return form for each party contains the words, “Enter his or her net income for 2004” to claim certain credits (Transcript, page 32, lines 5-14).
+[16] During his argument, Mr. Findlay said that if officials of the CRA had made inquiries of the marital status of Mr. and Mrs. Findlay before sending out refunds (i.e. the CCTBs), the whole mess would have been cleared up.
+[17] In addition, the Appellant said during her testimony that she phoned the CRA regarding the CCTBs. She said that she talked to an unidentified CRA official and said:
+… "I shouldn't be getting this. I'm working now, I'm almost four days a week, I shouldn't be getting this, it's too much." And they said, not to worry, "the government will let you know when it's too much", …
+(Transcript, page 8, lines 8-11)
+[18] Counsel for the Respondent said that the CCTBs are calculated based on the income of the person and the income of his or her co-habiting spouse. She noted that it is the family income that is used to determine the entitlement to and the amount of the benefits. She said:
+… Essentially, the benefit decreases as family income increases. Demonstrating parliament’s intent to provide a greater benefit to lower income families. …
+(Transcript, page 45, lines 3-5)
+[19] Counsel for the Respondent also noted the argument of Mr. Findlay is that the Minister could have looked beyond the filed tax returns to find out that the Appellant was, in fact, married in 2004. (Emphasis added)
+[20] Counsel for the Respondent said that it is the Respondent’s position that no administrative error was made by the Minister and the Minister’s recalculation of the Appellant’s CCTBs is correct.
+[21] Counsel for the Respondent also noted that, if an administrative error had occurred, it would have no impact on the outcome of the appeal.
+[22] In support of her position, counsel for the Respondent referred to the case of Dionne v. Canada, [2004] 2 C.T.C. 2828. In that case, the Appellant received CCTBs calculated solely on the basis of her income, and not taking into account her husband’s income, because of an administrative error on the part of the Minister. The Appellant had correctly recorded her marital status on her income tax return, but the Minister mistakenly determined the Appellant’s CCTBs taking into account her income alone. When the error was later discovered, the Minister recalculated the benefits, taking into account her husband’s income, which reduced the benefit. The Minister sought to recover the payment. At paragraph 16, Tardif J. states:
+[16] Admittedly, the claim has caused problems and inconvenience. It is unfortunate that the appellant has to be so inconvenienced because of an administrative error. However, this is not sufficient to cancel the claim or allow the appeal. …
+Paragraph 17 of the Dionne decision refers to several cases and goes on to state:
+[17] The only basis for the appellant's appeal is equity. The Tax Court of Canada has no authority to dispose of an appeal on that basis. Its jurisdiction is basically to decide whether the notices of redetermination comply with the relevant provisions of the Act. …
+[23] I agree with the comments and conclusion of Justice Tardif. I also note that the facts in the Dionne case are quite similar to the facts in this appeal. However, in the Dionne case the Appellant had correctly indicated her marital status on her income tax return.
+[24] Before concluding my Reasons for Judgment, I wish to note that the Appellant made the following errors when she prepared and filed her income tax return for 2004:
+1. She did not enter her date of birth;
+2. She did not indicate whether the language of correspondence was English or Français;
+3. She did not check the box that indicates her marital status;
+4. She did not enter her spouse’s first name; and
+5. She did not enter her spouse’s income for 2004.
+[25] Mr. Findlay made the following mistakes in completing his 2004 income tax return:
+1. He did not enter his date of birth;
+2. He did not indicate whether the language of correspondence was English or Français;
+3. He (or someone) checked the box which stated that he was single;
+4. He did not enter his spouse’s first name; and
+5. He did not indicate his wife’s net income for 2004.
+[26] The only point made by the Appellant is that she said that she had talked to an unidentified official of the CRA to indicate that the CCTBs received by her were too high. She alleges that the CRA official told her not to worry. The CRA official allegedly said, “the government will let you know when it’s too much”. In my opinion, this allegation is not sufficient to establish any administrative error on the part of the CRA.
+[27] In summary, a taxpayer cannot make significant mistakes of this nature on her income tax return and then claim that officials of the CRA made an administrative error in not picking up the taxpayer’s mistakes.
+[28] In my opinion, the Minister’s calculations in determining the CCTBs for the Appellant’s 2004 base taxation year were correct. The appeal is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 23rd day of October 2009.
+“L.M. Little”
+Little J.
+CITATION:
+2009 TCC 542
+COURT FILE NO.:
+2009-196(IT)I
+STYLE OF CAUSE:
+Trudy Findlay and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 23, 2009
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+October 23, 2009
+APPEARANCES:
+Agent for the Appellant:
+Garth Findlay
+Counsel for the Respondent:
+Holly Popenia
+COUNSEL OF RECORD:
+Counsel for the Appellants:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,137 @@
+---
+title: "Malinowski c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26495/index.do"
+last_modified: "2004-11-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 710"
+citation2: ""
+neutral_citation: "2004 CCI 710"
+decision_date: "2004-11-25"
+language: "fr"
+item_id: "26495"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3243
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:49:07.330000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "78f23a8bc014c4273adcb24fe41faa10ea3ab6a909680b4ac64e80353cf6df3a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Malinowski c. La Reine
+
+- Citation: 2004 CCI 710
+- Decision date: 2004-11-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3243, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Malinowski c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-25
+Référence neutre
+2004 CCI 710
+Numéro de dossier
+2004-2814(IT)APP
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2814(IT)APP
+ENTRE :
+ISABELLE MALINOWSKI,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Demande entendue le 3 septembre 2004, à Montréal (Québec).
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Représentant de la requérante :
+Ricardo Hrtschan
+Avocate de l'intimée :
+Me Antonia Paraherakis
+ORDONNANCE
+Vu la demande faite sur une question de droit et en vue d'obtenir une ordonnance prolongeant le délai dans lequel un avis d'opposition à l'égard des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1991, 1992, 1993, 1994 et 1995 peut être signifié;
+La demande est rejetée, sans frais, selon les motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2004.
+« Pierre Archambault »
+Juge Archambault
+Référence : 2004CCI710
+Date : 20041125
+Dossier : 2004-2814(IT)APP
+ENTRE :
+ISABELLE MALINOWSKI,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Archambault
+[1] Dans sa demande d'une décision sur une question de droit et son avis d'appel, madame Malinowski demande que cette Cour annule la dette fiscale consistant en ce qu'on disait être son arriéré d'impôt pour les années d'imposition 1991 à 1995 inclusivement. De façon subsidiaire, elle demande à la Cour de proroger le délai pour signifier un avis d'opposition. Cette demande a été traitée par la Cour canadienne de l'impôt comme une simple demande en prorogation de délai.
+[2] Au début de l'audience, la procureure de l'intimée a présenté des avis de cotisation reconstitués produits par le système informatique, lesquels démontrent que le ministre du Revenu national (ministre) a établi un avis de cotisation en date du 29 juin 1992 pour l'année 1991, en date du 22 avril 1993 pour l'année 1992, en date du 10 novembre 1994 pour l'année 1993, en date du 4 décembre 1995 pour l'année 1994, et en date du 1er avril 1996 pour l'année 1995. Le représentant de madame Malinowski, soit son conjoint, a été incapable de nier ou d'admettre que ces avis de cotisation avaient été établis à ces dates. De plus, il a reconnu qu'il n'avait aucune preuve à présenter à cet égard. Il a en outre été incapable de dire si des avis d'opposition avaient été produits à l'encontre de ces cotisations, et s'est également reconnu incapable de produire de preuve à cet égard.
+[3] Dans les faits, aucune preuve n'a été présentée par le représentant, à l'exception des documents produits sous la cote A-1, soit les lettres échangées par madame Malinowski et le ministre. Dans ces documents, on ne trouve aucun avis d'opposition.
+[4] Lors des plaidoiries, le représentant de madame Malinowski a reconnu qu'au verso des avis de cotisations que le ministre envoie aux contribuables figure une description de la procédure à suivre pour interjeter appel à l'encontre des cotisations. Il faut ajouter que dans sa demande d'une décision sur une question de droit, madame Malinowski reconnaît qu'elle n'a pas donné suite à l'avis de cotisation reçu en 1996, exigeant une somme de 2 999,31 $ plus 58,56 $ d'intérêts, parce qu'elle était étudiante et que son revenu était inexistant. De plus, elle a reconnu qu'elle avait eu peu ou pas de communication avec le ministre au cours des années suivant le printemps 1996. Elle affirme en outre, au paragraphe 9 de sa demande, qu'elle avait reçu en décembre 2001 une lettre à caractère impératif lui enjoignant de payer une somme de 4 707,31 $ au titre de son arriéré d'impôt.
+Analyse
+[5] La disposition pertinente pour déterminer si madame Malinowski a droit à une prorogation de délai est l'alinéa 166.1(7)a) de la Loi de l'impôt sur le revenu (Loi), qui prévoit que, pour être reconnue, une demande de prorogation de délai doit avoir été présentée dans l'année suivant l'expiration du délai par ailleurs imparti pour signifier un avis d'opposition. Selon l'alinéa 165(1)a) de la Loi, un contribuable doit signifier un avis d'opposition au plus tard le dernier en date des jours suivants : (i) 90 jours suivant la date de mise à la poste de l'avis de cotisation; (ii) le jour qui tombe un an après la date d'échéance de production de sa déclaration de revenu[1]. En ce qui concerne madame Malinowski, le moment prescrit pour produire son avis d'opposition pour les périodes pertinentes était : pour 1991, le 30 avril 1993; pour 1992, le 30 avril 1994; pour 1993, le 30 avril 1995; pour 1994, le 30 avril 1996; et pour 1995, le 30 avril 1997. Il ressort clairement de la preuve que cette Cour n'a pas compétence pour lui permettre de proroger le délai pour produire un avis d'opposition, compte tenu du fait que madame Malinowski n'a pas respecté les délais prescrits par la Loi. Par conséquent, comme madame Malinowski ne peut pas produire d'avis d'opposition, cette Cour n'a aucune compétence non plus pour entendre une contestation de ses cotisations d'impôt établies pour les années d'imposition 1991 à 1995.
+[6] Le représentant de madame Malinowski invoque comme motif que la prescription empêche le ministère de percevoir les impôts impayés de madame Malinowski. À mon avis, cette Cour n'a pas compétence pour entendre une pareille contestation. Les seules compétences que cette Cour peut exercer sont celles que lui reconnaît une loi. Or, on n'a porté à mon attention aucune disposition qui autorise le droit à cette Cour à déclarer prescrit le droit de recouvrer une somme due par madame Malinowski au ministre.
+[7] Lors de l'audience, j'ai demandé à la procureure de me fournir des observations écrites sur cette question. En voici les deux paragraphes pertinents qui, à mon avis, décrivent bien l'état du droit :
+[...]
+La Cour canadienne de l'impôt a compétence pour modifier ou annuler des cotisations émises par le Ministre du revenu national et ce, en vertu de l'article 169 de la Loi de l'impôt sur le revenu ( « Lir » ). Néanmoins, elle n'a pas la juridiction de décider sur des questions de recouvrement de dettes et de prescription. En effet, l'article 222[2] Lir précise que tous les impôts, intérêts, pénalités, frais et autres montants payables en vertu de la présente loi sont des dettes envers Sa Majesté et recouvrables comme telles devant la Cour fédérale.
+De plus, la décision de la Cour d'appel fédérale dans l'affaire Gertrud Neuhaus v. Her Majesty the Queen, 2003 DTC 5469, énonce à son tour qu'en matière de recouvrement, la loi donne compétence à la Cour fédérale pour trancher les litiges.
+[8] Pour tous ces motifs, la demande de prorogation de délai est rejetée, sans frais.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2004.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE :
+2004CCI710
+No DU DOSSIER DE LA COUR :
+2004-2814(IT)APP
+INTITULÉ DE LA CAUSE :
+Isabelle Malinowski et La Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 3 septembre 2004
+MOTIFS DE L'ORDONNANCE PAR :
+l'hon. juge Pierre Archambault
+DATE DE L'ORDONNANCE :
+le 25 novembre 2004
+COMPARUTIONS :
+Pour la requérante :
+Ricardo Hrtschan (représentant)
+Pour l'intimée :
+Me Antonia Paraherakis
+AVOCAT INSCRIT AU DOSSIER:
+Pour la requérante :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Selon le paragraphe 248(1) et le sous-alinéa 150(1)d)(i) de la Loi, il s'agit du 30 avril pour un particulier comme madame Malinowski.
+[2] Cet article édicte :
+Tous les impôts, intérêts, pénalités, frais et autres montants payables en vertu de la présente loi sont des dettes envers Sa Majesté et recouvrables comme telles devant la Cour fédérale [...].

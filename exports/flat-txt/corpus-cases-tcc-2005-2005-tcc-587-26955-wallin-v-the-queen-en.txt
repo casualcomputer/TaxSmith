@@ -1,0 +1,104 @@
+Title: Wallin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26955/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-587-26955-wallin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-09-21
+
+# Wallin v. The Queen
+
+- Citation: 2005 TCC 587
+- Decision date: 2005-09-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 565, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wallin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-21
+Neutral citation
+2005 TCC 587
+File numbers
+2005-970(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC587
+Date: 20050921
+Docket: 2005-970(IT)I
+BETWEEN:
+BRIAN WALLIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench at
+Kamloops, British Columbia, on June 24, 2005)
+[1] This appeal pursuant to the Informal Procedure was heard at Kamloops, British Columbia on June 23, 2005. The Appellant was the only witness.
+[2] The particulars in this matter are set out in paragraphs 8 to 11 of the Reply to the Notice of Appeal, all of which were confirmed by the evidence. They read:
+8. The Appellant filed a Notice of Objection for the 2003 taxation year on November 18, 2004 and in response to the objection, the Minister issued a Notice of Confirmation on January 7, 2005 on the basis that the payment of $5,000, which the Appellant claimed as a deduction from income, was not a "support amount" as defined in subsection 56.1(4) of the Income Tax Act ("Act") and therefore, the Appellant was not entitled to a deduction under subsection 60(b) or section 60.1 of the Act.
+9. In so assessing the Appellant for the 2003 taxation year and in confirming the assessment, the Minister relied on the same assumptions of fact, as follows:
+a) the Appellant and Shirley were married on July 27, 1974 and had two children, Geoffrey, born September 29, 1978, and Andrea, born December 4, 1979 ("Children");
+b) the Appellant and Shirley entered into a separation agreement dated November 5, 1998 ("Agreement");
+c) the Agreement stated that the Appellant and Shirley would have joint guardianship of the Children and no provision was made in the Agreement for any child support or spousal support to be paid by either party;
+d) under the heading "Other terms" in the Agreement, it stated the following: "1. Buy out payout - Aug 31, 2003 husband will pay to the wife, out of lump sum buy out of approximately $34,000.00, a total of $10,000.00.";
+e) there were also provisions in the Agreement for splitting CN shares and Canada Savings Bonds between the Appellant and Shirley at some future time;
+f) in 2003, the Appellant received a retiring allowance of $34,564 from CN;
+g) on or about October 31, 2003, the Appellant made a contribution of $29,564 to an RRSP;
+h) in 2004, the Appellant withdrew an amount of $5,000 from his RRSP; and
+i) the Appellant paid Shirley $5,000 in 2003 and $5,000 in 2004
+B. ISSUE TO BE DECIDED
+10. The issues are whether, in the 2003 taxation year:
+(i) the amount of $34,564 has been properly included in the Appellant's income; and
+(ii) the Appellant is entitled to deduct $5,000 ("Amount") as a support amount.
+C. STATUTORY PROVISIONS RELED ON
+11. He relies on section 3, paragraphs 60(b) and subsections 56(1)(a), 56.1(4) and 60.1(4) of the Act, as amended for the 2003 taxation year.
+[3] The payment of the two $5,000 amounts was agreed to orally by Shirley Wallin.
+[4] Using the criteria set out in McKinnon v. R., (F.C.A.) Carswell Taxation Cases, the Court finds:
+1. The payment was agreed to be one $10,000 lump sum in the written agreement, due at the time of the Appellant's receipt of the $34,564 buy out from employment.
+2. The amount was a large sum to the Appellant.
+3. There was no interest agreed to.
+4. Being a lump sum payment, no acceleration was agreed too.
+5. The payment is capital in the terms of the agreement signed, since it was agreed there would be no support payments in the strike-out paragraph 8 of the agreement.
+6. The agreement was for a one-time payment which was reduced to two for the Appellant's convenience.
+7. The payments would have survived death.
+8. The Appellant specifically had no obligation to pay maintenance.
+[5] For these reasons the $5,000 in question is not deductible and the appeal is dismissed.
+Signed at Vancouver, British Columbia, this 21st day of September, 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2005TCC587
+COURT FILE NO.:
+2005-970(IT)I
+STYLE OF CAUSE:
+Brian Wallin v. The Queen
+PLACE OF HEARING:
+Kamloops, British Columbia
+DATE OF HEARING:
+June 23, 2005
+ORAL REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF ORAL REASONS:
+September 21, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Fiona Mendoza
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

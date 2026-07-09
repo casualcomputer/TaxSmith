@@ -1,0 +1,227 @@
+---
+title: "Beaudin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26432/index.do"
+last_modified: "2004-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 469"
+citation2: ""
+neutral_citation: "2004 CCI 469"
+decision_date: "2004-07-16"
+language: "fr"
+item_id: "26432"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3183
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:13:33.685000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "90f249beb8738ceffc41bdb2efa6d0d0bd8d04fa671347e945f36e57461e85aa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beaudin c. La Reine
+
+- Citation: 2004 CCI 469
+- Decision date: 2004-07-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3183, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beaudin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-16
+Référence neutre
+2004 CCI 469
+Numéro de dossier
+2002-3304(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-3304(IT)G
+ENTRE :
+RICHARD BEAUDIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+___________________________________________________________________
+Appel entendu le 17 mai 2004, à Matane (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me Jean Blouin
+Avocate de l'intimée :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu du paragraphe 160(1) de la Loi de l'impôt sur le revenu, concernant l'année d'imposition 2000, estaccueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que la juste valeur marchande de l'immeuble qui a fait l'objet du transfert assujetti à l'article 160 de la Loi était de 60 600 $. Quant à la contrepartie payée par l'appelant, elle est fixée à 45 000 $, soit 30 000 $ payés en argent comptant et 15 000 $ en services, conférant ainsi un enrichissement de 15 600 $ à l'appelant, le tout sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI469
+Date : 20040716
+Dossier : 2002-3304(IT)G
+ENTRE :
+RICHARD BEAUDIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel faisant suite à un avis de cotisation établi le 28 novembre 2001. La cotisation dont il est fait appel a été établie en vertu de la Loi de l'impôt sur le revenu ( « Loi » ) concernant l'année d'imposition 2000, à la suite du transfert d'un bien, soit une résidence. La cotisation a été établie en vertu de l'article 160 de la Loi.
+[2] Toutes les hypothèses de fait sur lesquelles est fondée la cotisation sont décrites à l'Avis d'appel et au paragraphe 5 de la Réponse à l'avis d'appel. Il y a lieu de les reproduire.
+Avis d'appel :
+16. La vente de la maison est due à l'incapacité physique et psychologique des parents du contribuable à s'occuper de la résidence familiale située au 833, rue Bell, Gallix, en cas de problèmes avec celle-ci;
+17. Ceci démontre clairement que le transfert de l'immeuble n'avait pas comme objectif de priver les autorités fiscales des sommes qui lui étaient dues;
+18. Pour ces motifs, la cotisation du 28 novembre 2001 est mal fondée en faits et en droit.
+Réponse à l'avis d'appel :
+a) L'appelant est le fils de Eula Lainé Beaudin et de Rodolphe Beaudin;
+b) Pour les années d'imposition 1989, 1990 et 1993, le père de l'appelant, Rodolphe Beaudin fût cotisé en 1994 et suite à l'établissement des nouvelles cotisations, sa dette fiscale s'élevait à environ 334 915,03 $;
+c) Le 10 mai 1990, par un acte de vente notarié, Rodolphe Beaudin et Eula Lainé ont acquis une résidence en commun au 833, rue Bell, à Gallix pour le prix de 50 000 $;
+d) Le 3 janvier 1995, par un acte de vente notarié, Rodolphe Beaudin vend sa demi-indivise de la résidence du 833, rue Bell, à Gallix, à sa conjointe Eula Lainé;
+e) Pour les fins du transfert de 1995, l'intimée avait évalué la juste valeur marchande de la propriété à 58 000 $;
+f) À ce jour, aucune preuve de contrepartie versée par Eula Lainé à Rodolphe Beaudin ne fut fournie à l'Agence des douanes et du revenu du Canada;
+g) Le 11 janvier 2000, par un acte de vente notarié, madame Eula Lainé Beaudin a vendu la propriété du 833, rue Bell, Gallix, à son fils, Richard Beaudin, pour une contrepartie de 30 000 $, incluant les frais de notaire;
+h) La cotisation émise à l'encontre de l'appelant est fondée sur la responsabilité solidaire qu'a l'appelant avec sa mère, madame Eula Lainé Beaudin, eu égard à une obligation fiscale impayée suite à une cotisation découlant d'une transaction avec son conjoint qui, lui aussi, avait un compte d'impôt impayé pour des années antérieures;
+i) L'acte de vente notarié intervenu entre madame Eula Lainé Beaudin et son fils, Richard Beaudin, ne fait mention d'aucun droit d'habitation pour les parents de l'appelant;
+j) Au paragraphe 11, page 3 dudit acte de vente, il n'y a aucune déclaration de résidence;
+k) Pour les années d'imposition 2000 et 2001, l'appelant Richard Beaudin n'a déclaré aucun revenu de location;
+l) L'appelant n'a fourni aucun document au ministre quant à la valeur d'un quelconque droit d'habitation pour ses parents;
+m) Le ministre a établi ainsi le calcul de l'avantage conféré à l'appelant :
+- valeur marchande au moment de la vente de la propriété en date du 11 janvier 2000 :
+60 600,00 $
+- moins contrepartie versée
+moins frais de notaire
+30 000,00 $
+(957,05 $)
+(29 042,95 $)
+- valeur du bénéfice accordé
+31 557,05 $
+n) La résidence a été transférée pour un montant inférieur à sa juste valeur marchande, si bien que l'appelant s'est vu conférer un avantage de 31 557,05 $;
+o) La raison de la vente de la propriété invoquée par l'appelant, soit l'état de santé de ses parents, n'est pas un motif pour justifier l'annulation de la cotisation établie par le ministre.
+[3] L'appelant a admis les alinéas 5 a), b), c), d), h), i) et l.
+[4] La Cour doit déterminer si la vente de la résidence sise au 833, rue Bell, par Eula Lainé Beaudin à l'appelant constitue un transfert aux termes de l'article 160 de la Loi de l'impôt sur le revenu, si la juste valeur marchande de la résidence située sur la rue Bell à Gallix au 11 janvier 2000 est de 60 600 $ et finalement si le ministre du Revenu national (le « Ministre » ) a correctement établi le montant de la cotisation à 31 557,05 $, soit la différence entre la juste valeur marchande (60 600 $) et le prix de vente (30 000 $ - 957,05 $) de la résidence située au 833, rue Bell, à Gallix.
+[5] L'appelant a fait l'acquisition de l'immeuble en question le 11 janvier 2000. L'immeuble était la résidence que ses parents habitaient d'une manière permanente depuis 1994. Ces derniers l'avaient acquis en 1990 dans le but de l'utiliser comme chalet.
+[6] En contrepartie, l'appelant a payé un montant de 30 000 $ qu'il a obtenu par voie d'emprunt auprès de la Banque de Montréal (pièce A-9), garanti par une hypothèque.
+[7] Au moment de l'acquisition, sa mère et son père habitaient l'immeuble. L'état de santé des auteurs du transfert était précaire. D'ailleurs au mois d'août 2003, le père de l'appelant est décédé.
+[8] Monsieur Rodolphe Beaudin, père de l'appelant, était atteint du diabète et avait subi quelques accidents cardio-vasculaires (A.C.V.). Quant à madame Eula Lainé Beaudin, elle souffrait d'hypertension.
+[9] Les parents de l'appelant étant totalement incapable de s'occuper de leur résidence à cause de leurs problèmes de santé et étant criblés de dettes, ils ont rencontré leur fils, l'appelant, pour discuter du problème et pour essayer de trouver une solution.
+[10] C'est au cours de cette rencontre qu'ils ont convenu de transférer leur résidence à leur fils en contrepartie du paiement d'une somme de 30 000 $ requise pour payer des dettes, d'un droit viager d'habitation, de la prise en charge des dépenses d'entretien majeures, du paiement des taxes et des assurances. En fait, l'appelant devait prendre à sa charge la totalité des dépenses inhérentes à l'habitation, à l'exception des frais de chauffage et des frais d'entretien courants mineurs. L'appelant a accepté les conditions et s'est engagé à payer 30 000 $ qu'il a dû emprunter auprès d'une institution financière.
+[11] La preuve a fait ressortir plusieurs faits incontestables, notamment les suivants :
+· Les auteurs du transfert avaient une dette fiscale.
+· Le bénéficiaire du transfert est le fils des auteurs du transfert.
+· Le bénéficiaire du bien ayant fait l'objet du transfert a déboursé 30 000 $ provenant d'un prêt garanti par hypothèque.
+· La juste valeur marchande (la « J.V.M. » ) de l'immeuble au moment du transfert était de 60 600 $.
+[12] La cotisation présumée étant valide, il incombait à l'appelant de démontrer qu'elle n'était pas justifiée. Dans ce but, l'appelant a expliqué avoir pris à sa charge le paiement hypothécaire, les assurances, les taxes scolaires et municipales, les réparations majeures et l'entretien. Il n'a pas indiqué ce que ces coûts totalisaient par année. Il a produit la description des paiements effectués qui comprenait le paiement hypothécaire mensuel. Il n'a pas indiqué la valeur locative de l'immeuble. Selon l'appelant, la prise en charge de l'immeuble et des dépenses inhérentes faisait en sorte que la contrepartie, dont il avait pris la charge correspondait largement, à la J.V.M. de l'immeuble si elle ne la dépassait pas.
+[13] Bien que tous les droits et obligations ne semblaient pas faire de problème pour l'appelant et sa mère, il ressort de l'acte notarié qui a scellé le transfert le 11 janvier 2000 qu'aucune mention n'a été faite de ces droits et obligations de chacune des parties à l'acte.
+[14] L'appelant a préparé et produit une description des paiements effectués depuis l'acquisition de l'immeuble jusqu'en 2004, le tout totalisant 27 182,23 $ (pièce A-11). Il a conclu qu'il avait déboursé la somme totale de 57 182,23 $ pour faire l'acquisition de l'immeuble de ses parents. Il s'agit là d'un argument totalement irrecevable puisque les paiements indiqués sont essentiellement les mensualités de remboursement. En d'autres termes, l'appelant a comptabilisé deux fois le même montant en ajoutant les mensualités de remboursement du prêt au montant du prêt lui-même.
+[15] L'appelant a aussi fait valoir que la dette fiscale de son père avait été éteinte à la suite de sa faillite des suites de laquelle il fut libéré. Cet argument n'est pas recevable, cette question ayant déjà fait l'objet d'une décision de la Cour d'appel fédérale; la libération d'un failli auteur d'un transfert de bien n'a aucun effet sur la dette fiscale établie à l'endroit du cessionnaire du bien transféré assujetti à l'article 160 de la Loi.
+[16] L'appelant a également fait valoir que l'article 160 de la Loi ne pouvait s'appliquer au bénéficiaire du transfert. Pour appuyer ses prétentions, il s'est référé à la décision Michel Nanini c. Canada, [1994] A.C.I. no 426.
+[17] Or, très récemment, soit le 3 février 2003, la Cour d'appel fédérale mettait un terme à cette interprétation de l'article 160. Ainsi dans l'affaire Jurak c. Canada, [2003] A.C.F. no 160, le juge Létourneau affirmait
+Malgré les efforts louables de Me Côté, nous n'avons pas été convaincus que la juge Lamarre-Proulx de la Cour canadienne de l'impôt s'est méprise dans son interprétation de l'article 160 de la Loi de l'impôt sur le revenu, L.R.C. 1985 (5e supp.) ch. 1, telle que modifiée, et dans son application aux faits de la présente cause lorsqu'elle a conclu au paragraphe 38 de sa décision que « le bénéficiaire d'un transfert peut devenir lui-même l'auteur d'un transfert sujet à l'application du paragraphe 160(1) de la Loi si au moment du deuxième transfert, il est lui-même débiteur fiscal soit de son propre chef ou en tant que débiteur solidaire avec le premier auteur. »
+[18] L'article 160 de la Loi se lit comme suit :
+Transfert de biens entre personnes ayant un lien de dépendance
+160. (1) Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s'appliquent :
+d) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement d'une partie de l'impôt de l'auteur du transfert en vertu de la présente partie pour chaque année d'imposition égale à l'excédent de l'impôt pour l'année sur ce que cet impôt aurait été sans l'application des articles 74.1 à 75.1 de la présente loi et de l'article 74 de la Loi de l'impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l'égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l'égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l'auteur du transfert doit payer en vertu de la présente loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n'est toutefois réputée limiter la responsabilité de l'auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[Je souligne.]
+[19] Bien que l'article 160 de la Loisoulève peu de problèmes d'interprétation, il est opportun de rappeler que le but ultime du législateur était de faire en sorte que les débiteurs d'une dette fiscale n'appauvrissent pas leur patrimoine en le transférant en tout ou en partie sans contrepartie équivalente à leur époux ou conjoint ou à une personne avec laquelle ils avaient un lien de dépendance.
+[20] À cet effet, il est pertinent de rappeler les extraits de certaines décisions. Tout d'abord, dans la décision Algoa Trust c. Canada, [1993] A.C.I. no 15 (Q.L.), l'honorable juge Rip s'exprimait comme suit à la page 10 :
+L'article 160 a pour objet de contrer la tentative d'un contribuable qui est tenu de payer une somme en vertu de la Loi d'éviter l'impôt en transférant des biens, qu'il pourrait autrement utiliser pour satisfaire à son obligation, à une personne faisant partie d'un des trois groupes visés, y compris une personne avec laquelle il a un lien de dépendance.
+[21] Dans Biderman c. Canada, [2000] A.C.F. no 194 (Q.L.), l'honorable juge Létourneau de la Cour d'appel fédérale s'exprimait comme suit au paragraphe 37 :
+[...] L'article 160 de la Loi est une disposition anti-échappatoire concernant les transferts. Son but est « d'empêcher un contribuable de faire échec à la réclamation par le ministre des impôts non payés en transférant ses biens à son conjoint, ou à certaines autres personnes, pour une contrepartie minimale ou nulle » . [Voir Note 28 ci-dessous].
+[22] Dans Hewett c. Canada, [1997] A.C.F. no 1541 (Q.L.), l'honorable juge Strayer s'exprimait comme suit aux paragraphes 1 et 2 :
+Nous sommes tous d'avis que le présent appel doit être rejeté.
+Nous convenons avec le juge de la Cour de l'impôt que le but de l'article 160 de la Loi de l'impôt sur le revenu est d'empêcher un contribuable de faire échec à la réclamation par le ministre des impôts non payés en transférant ses biens à son conjoint, ou à certaines autres personnes, pour une contrepartie minimale ou nulle. À notre avis, cela signifie que les « biens » dont il est question dans l'article doivent être des biens du contribuable que le ministre aurait pu saisir si le transfert n'avait pas eu lieu.
+[23] La valeur du bien transféré doit être la même dans le patrimoine du cédant que dans celui du bénéficiaire. En d'autres termes, la J.V.M. du bien qui fait l'objet d'un transfert assujetti à l'article 160 de la Loi doit être la même et ne peut pas être modifiée.
+[24] Il s'agit là d'une exigence fondamentale, puisqu'un vendeur pourrait très bien stipuler toute une série de clauses prévoyant toutes sortes d'hypothèses, de droits, d'obligations, de servitudes, etc., le tout ayant pour effet de rendre le bien transféré sans valeur aucune ou de la diminuer considérablement, modifiant ainsi la J.V.M. du bien lors du transfert. Le bien transféré pourrait alors se voir amputé d'une partie ou de la totalité de sa valeur, ce qui est tout à fait contraire à l'objectif de l'article 160 de la Loi.
+[25] Par contre, l'article 160 de la Loi n'oblige pas les débiteurs d'une dette fiscale à cesser toute activité économique ni ne les empêche de faire des transactions avec les biens dont ils sont propriétaires. Le législateur a essentiellement voulu empêcher que les débiteurs d'une dette fiscale dissipent ou réduisent en totalité ou en partie leur patrimoine au détriment de la Couronne en cédant ou en transférant un bien moyennant une contrepartie dont la valeur est moindre que celle du bien transféré à une personne avec qui il existe un lien de dépendance.
+[26] En l'espèce, la mère de l'appelant aurait pu vendre, céder sa résidence à une ou plusieurs personnes avec qui elle n'a pas de lien de dépendance moyennant une contrepartie monétaire ou suivant une formule mixte en partie monétaire, et en partie constituée de certaines servitudes, telles un droit d'habitation auquel se serait greffée l'obligation de prendre en charge toutes les dépenses inhérentes à un tel droit.
+[27] En d'autres termes, un débiteur d'une dette fiscale peut vendre ou transférer tous les biens qu'il désire à toute personne, y compris aux membres de sa famille, à la condition que la contrepartie obtenue corresponde exactement à la J.V.M. du bien qui a fait l'objet du transfert.
+[28] Lorsqu'un transfert de biens a lieu entre des personnes qui n'ont aucun lien de dépendance, il existe une très forte présomption que la contrepartie est celle qui correspond à la J.V.M. du bien transféré. Conséquemment, pour établir la J.V.M. d'un bien qui fait l'objet d'un transfert entre des personnes liées, il est essentiel d'examiner le transfert et de se demander si le transfert du bien en question aurait pu avoir lieu dans les mêmes circonstances, aux mêmes conditions et avec la même contrepartie si les parties ou transferts n'avaient eu aucun lien de dépendance.
+[29] L'analyse doit se faire à partir des seuls faits qui auraient pu et dû exister entre des personnes n'ayant aucun lien de dépendance. Les considérations d'ordre familial sont donc ni pertinentes ni bienvenues puisqu'elles peuvent vicier l'analyse.
+[30] Il est important de soulever la question suivante : un tel transfert aurait-il pu avoir lieu entre des personnes n'ayant aucun lien de dépendance? La réponse est effectivement affirmative. Par contre, les parties auraient alors évalué et analysé tous les impacts possibles dont, notamment, les taux d'intérêts, les conditions des lieux, le montant des taxes, l'état de l'immeuble, l'état de santé du cédant, son âge, etc. En d'autres termes, les parties à un transfert dont la contrepartie n'est pas exclusivement monétaire font généralement l'exercice d'évaluer la valeur de la partie non monétaire, telle le droit d'habitation et tous les autres droits et obligations, tels taxes, assurances et entretien en fonction évidemment de la durée possible ou probable du droit d'habitation.
+[31] Lors d'un transfert où est prévu un droit viager d'habitation et certains engagements, la situation idéale pour le bénéficiaire du transfert est le décès du cédant dans les mois suivant le transfert. Inversement, la situation idéale pour le cédant est de vivre au-delà de 100 ans. La détermination de la J.V.M. de tels droits est un exercice fort complexe nécessitant la prise en considération d'une multitude d'éléments.
+[32] En l'espèce, l'appelant à qui incombait le fardeau de la preuve a essentiellement soumis les éléments du contexte qui expliquaient et justifiaient le transfert. Il a aussi expliqué, que l'état de santé de ses parents, plus spécifiquement celui de son père d'ailleurs décédé peu de temps après le transfert, était précaire et qu'ils ne l'étaient tout simplement plus capables de s'occuper de leur immeuble. La mère de l'appelant a confirmé cette explication.
+[33] L'idée du transfert a alors été discutée et il semble que la contrepartie de 30 000 $ ait été fixée en fonction de la situation d'endettement des parents de l'appelant. Quant aux autres obligations, il semble que les cédants ne gardaient que la responsabilité du chauffage des lieux et avaient à leur charge les frais mineurs d'entretien. Tout le reste, soit les taxes et les réparations majeures, était à la charge du bénéficiaire du transfert, l'appelant.
+[34] Rien de cela ne fut prévu par écrit. Le contrat notarié ne fait aucune mention des droits et obligations ultérieurs au transfert de propriété.
+[35] L'appelant soumet que la considération payée lors du transfert est raisonnable et, surtout, qu'il ne s'est pas enrichi aux dépens de ses parents. Il a affirmé qu'il n'avait accepté d'être partie au transfert que dans le seul but de permettre à ses parents de demeurer dans leur maison.
+[36] Bien que très louable et noble comme sentiment, je ne crois pas que cela soit suffisant pour établir que le transfert s'est effectué moyennant le paiement d'une contrepartie correspondant à la J.V.M. Il aurait été important d'établir tous les faits et éléments allégués pour déterminer les modalités de l'entente de manière à ce que la Cour puisse en apprécier la pertinence et surtout la raisonnabilité.
+[37] La J.V.M. du bien qui a fait l'objet du transfert n'a pas été contestée; elle a été établie par l'expert, Gaston Laberge à 64 400 $, mais l'intimée a retenu 60 600 $ comme étant la J.V.M. applicable.
+[38] L'appelant a versé, lors du transfert, un montant de 30 000 $ provenant d'un prêt garanti par hypothèque.
+[39] Outre le déboursé de 30 000 $, il s'est engagé verbalement à payer les assurances, les taxes municipales et scolaires, ainsi que les travaux d'entretien majeurs et à ne pas exiger de loyer de ses parents, ces derniers ne gardant que la responsabilité des frais de chauffage et des frais d'entretien courants et mineurs. Je ne tiens pas compte des frais d'honoraires professionnels pour la passation de l'acte notarié par le notaire, apparemment payés par les auteurs du transfert, soit les parents de l'appelant.
+[40] À défaut d'une preuve adéquate pour établir la J.V.M. des avantages conférés aux cédants lors du transfert, en sus du paiement de 30 000 $, je fixe cette valeur à 15 000 $.
+[41] Ainsi l'enrichissement de l'appelant par la suite du transfert le 11 janvier 2000 s'établit à 15 600 $. Le montant résulte du calcul suivant :
+Valeur du bien transféré
+60 600 $
+Contrepartie payée lors du transfert
+30 000 $
+Valeur des avantages autres que monétaires
+15 000 $
+Total de la contrepartie
+-45 000 $
+Enrichissement du bénéficiaire
+15 600 $
+[42] L'appel est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvelle cotisation en tenant compte du fait que la J.V.M. de l'immeuble qui a fait l'objet du transfert assujetti à l'article 160 de la Loi était de 60 600 $. Quant à la contrepartie payée par l'appelant, elle est fixée à 45 000 $, soit 30 000 $ payés en argent comptant et 15 000 $ en services, conférant ainsi un enrichissement de 15 600 $ à l'appelant, le tout sans frais.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI469
+No DU DOSSIER DE LA COUR :
+2002-3304(IT)G
+INTITULÉ DE LA CAUSE :
+Richard Beaudin et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Matane (Québec)
+DATE DE L'AUDIENCE
+le 17 mai 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 16 juillet 2004
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Jean Blouin
+Avocate de l'intimée :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Jean Blouin
+Ville :
+Rimouski (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

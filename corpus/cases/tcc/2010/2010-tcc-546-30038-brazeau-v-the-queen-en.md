@@ -1,0 +1,135 @@
+---
+title: "Brazeau v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30038/index.do"
+last_modified: "2010-10-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 546"
+citation2: ""
+neutral_citation: "2010 TCC 546"
+decision_date: "2010-10-26"
+language: "en"
+item_id: "30038"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7710
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:54:59.904000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c68e61e6d91df2a2446d96b3ce0633ff0f2614066e4f5f53ddfc34904e15c7f1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brazeau v. The Queen
+
+- Citation: 2010 TCC 546
+- Decision date: 2010-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7710, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brazeau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-26
+Neutral citation
+2010 TCC 546
+File numbers
+2009-3263(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3263(IT)I
+BETWEEN:
+NATHALIE BRAZEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 23, 2010, at Montréal, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Chantal Roberge
+____________________________________________________________________
+JUDGMENT
+The appeal of the assessment made pursuant to the Income Tax Act is allowed such that the appellant is eligible for the Child Disability Benefit (CDB) for the months of January to June 2008, all without costs.
+Signed at Ottawa, Canada, this 26th day of October 2010.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 2nd day of December 2010.
+Elizabeth Tan, Translator
+Citation: 2010 TCC 546
+Date: 20101026
+Docket: 2009-3263(IT)I
+BETWEEN:
+NATHALIE BRAZEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal regarding the appellant's eligibility to receive a tax credit for persons with disabilities for the 2006 base tax year. The other part of the case was disallowed because the evidence showed that the assessment for 2008 was nul.
+[2] First, the appellant explained and described the concerns, issues and requirements she and her son had to face because of her son's type 1 diabetes. She prepared a summary of information showing the amount of time that was spent maintaining a balance between hypoclycemia and hyperglycemia using insulin injections.
+[3] The evidence also showed that her son was very active and was on a soccer team. In addition to participating on the soccer team, he trained in a gym and attended physical education classes.
+[4] The respondent claimed that the time spent was much lower than the established threshold of 15 hours a week to be eligible for the credit.
+[5] To demonstrate this, she relied on two documents, Exhibits I-3 and I-4. First it mentions one and a half hours and then two hours for the same tasks, times that are significantly lower than the criterion of 15 hours.
+[6] In support of her evidence, the respondent had the appellant's son testify; he explained he had a very active life with training and sports. He also indicated the activities directly impacted his diabetes level.
+[7] When it was time to assess the time spent, he indicated that generally, every day it took him 1½ hours, to which time had to be added for many particular situations related to his intense sporting activities.
+[8] The problem with this case is clearly in terms of the evaluation of time required for the appellant's son's illness. On one hand, two health-care workers provided input. In one case, the time was assessed at 1½ and in the other, 2 hours; this is a significant difference of 25%.
+[9] The person directly involved, called to testify by the respondent and not the appellant, submitted only his evidence as testimony, and came to a very different conclusion, 1½ every day without including the time for specific situations after particular efforts, errors and unexpected situations.
+[10] Although the approach is mathematical, it is clear to me that the calculations are not absolute. In fact, if it is acceptable to take into consideration two assessments by doctors with a 25% gap, I feel it is possible and likely that a very active young person would require more than an essentially arbitrary evaluation resulting from experience.
+[11] It is significant that the ideal rate sought is directly affected by physical effort. I am sure that in order to participate in sports and recreation activities, a method that demanded a great deal of time was required, making his assessment likely.
+[12] In my opinion, the balance of evidence that consisted mainly of the young man's testimony is sufficient to exclude the two assessments submitted by the contributing doctors and to conclude that this young man spent a minimum of fourteen hours during the relevant periods.
+[13] I have no reason to dismiss the testimony of the appellant's son; he seemed very credible to me, and moreover, the respondent likely granted the same quality to the young man, as he testified at the respondent's request.
+[14] As a result, the appeal is allowed such that the appellant is eligible for the Child Disability Benefit (CDB) for the months of January to June 2008, all without costs.
+Signed at Ottawa, Canada, this 26th day of October 2010.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 2nd day of December 2010.
+Elizabeth Tan, Translator
+CITATION: 2010 TCC 546
+COURT FILE NO. : 2009-3263(IT)I
+STYLE OF CAUSE: NATHALIE BRAZEAU AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: August 31, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: October 26, 2010
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Chantal Roberge
+COUNSEL OF RECORD:
+For the appellant:
+For the respondent: Myles J. Kirvan
+Deputy Attorney general of Canada
+Ottawa, Canada

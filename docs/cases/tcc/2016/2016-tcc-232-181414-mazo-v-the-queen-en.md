@@ -1,0 +1,212 @@
+---
+title: "Mazo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/181414/index.do"
+last_modified: "2016-10-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 232"
+citation2: ""
+neutral_citation: "2016 TCC 232"
+decision_date: "2016-10-14"
+language: "en"
+item_id: "181414"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2973
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:39:24.720000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "181175d711bbd99b0cbbd5399493a9e5e28251b40c642c5ab80b2a652ec71f80"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mazo v. The Queen
+
+- Citation: 2016 TCC 232
+- Decision date: 2016-10-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2973, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mazo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-10-14
+Neutral citation
+2016 TCC 232
+File numbers
+2015-5173(IT)I
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-5173(IT)I
+BETWEEN:
+ROBERTA MAZO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 13, 2016, at Winnipeg, Manitoba
+Before: The Honourable Justice David E. Graham
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Larissa Benham
+JUDGMENT
+The appeal with respect to Roberta Mazo’s 2007, 2008 and 2009 tax years is allowed and the matter referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Ms. Mazo is entitled to deduct additional business expenses of $6,000 in in her 2007 tax year and $27,000 in her 2008 tax year.
+Costs of $375 are awarded to the Respondent.
+Signed at Ottawa, Canada, this 14th day of October 2016.
+“David E. Graham”
+Graham J.
+Citation: 2016 TCC 232
+Date: 20161014
+Docket: 2015-5173(IT)I
+BETWEEN:
+ROBERTA MAZO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] Roberta Mazo participated in a pyramid scheme promoted by a company called Business In Motion International Corporation (“BIMIC”). Ms. Mazo was one of the fortunate individuals who actually profited from the scheme. The Minister of National Revenue reassessed Ms. Mazo to include what the Minister asserts was unreported income from that scheme in Ms. Mazo’s income in her 2007, 2008 and 2009 tax years. The Minister also assessed gross negligence penalties.
+[2] While there are a number of issues in this Appeal, the primary issues are what the nature of the scheme was and how the amounts earned under the scheme should be taxed.
+I. Nature of the Scheme [3] The BIMIC pyramid scheme involved multiple different pyramids. Each pyramid had a “director of sales” at the top, two “VPs” on the next level, four “sales managers” on the next level and, finally, eight “sales representatives” on the bottom. In simple terms, participants paid money to BIMIC to join the bottom of the pyramid and collected money from BIMIC when they reached the top of the pyramid.[1]
+[4] Once a director of sales had been paid by BIMIC, the pyramid would split into two with the VPs each becoming directors of sales of their own new pyramids and each having to work with others in their pyramids to recruit eight new participants to fill the bottom of their pyramids. Directors of sales who had been paid were encouraged to join new pyramids as sales representatives.
+[5] Participants were each assigned a personal account number by BIMIC. These account numbers were used to track a participant’s earnings in the scheme and their withdrawal of those earnings. It was as if each participant had his or her own bank account with BIMIC where his or her earnings were held. Amounts that participants earned as directors of sales were deposited into their accounts. Participants could do four different things with the funds in their accounts:
+a) Cash Withdrawal: Participants could ask BIMIC to pay them funds out of their accounts. Such funds were paid by cheque.
+b) Debit Card Withdrawal: Participants could ask BIMIC to give them a pre-paid BIMIC debit card with a certain balance on it. These pre-paid debit cards could be used to purchase goods and services in the community at large using the Interac system in the same manner as a regular pre-paid debit card.
+c) Transfer: Participants could transfer funds from their BIMIC account to the BIMIC account of another participant.
+d) Re-Investment: Participants could use the funds to buy into another pyramid.
+[6] Participants had to pay to join the bottom of a pyramid. The cost varied but was either $3,000, $3,200 or $3,600. The money was paid to BIMIC. First-time participants used bank drafts or certified cheques to buy in. Repeat participants used funds from their BIMIC accounts.
+[7] The scheme was structured so as to create the appearance that participants were buying goods or services rather than simply buying a spot at the bottom of a pyramid. Those goods and services included pre-packaged semi-precious gemstones, travel discount memberships, water filtration systems, and stir sticks that BIMIC claimed had various health benefits when used to stir water.
+[8] Ms. Mazo’s testimony made it clear that each time she entered a new pyramid she viewed herself as buying into the pyramid. It was clear to me that the products or services were incidental to her decision to buy in. Her testimony also made it clear that, to make money, she needed to attract new people to join the bottom of her pyramid.
+[9] A number of participants in the BIMIC pyramid scheme brought a class action lawsuit against BIMIC and its promoters in Federal Court and were awarded damages of $6,560,000 (Cuzzetto v. Business In Motion International Corporation et al[2]). Justice Rennie (as he then was) concluded that, while it “was presented as a classic multi-level marketing plan”,[3] the scheme was, in fact, a “scheme of pyramid selling”[4] as defined in the Competition Act.[5] He found that “the objective of the scheme was on recruitment of participants rather than developing repeat customers who actually sought to purchase the products”.[6] The Competition Act prohibits the establishment, operation, promotion or advertising of pyramid schemes. As Justice Rennie explained, BIMIC’s scheme crossed over from being a multi-level marketing plan into being a pyramid scheme because the scheme required that “a participant pay consideration for the right to receive compensation for the recruitment of others who give consideration for the same right, into the plan”.[7] He stated that “[i]n legitimate multi-level marketing schemes, commissions are paid upon the sale of products, not after the recruitment of others and the completion of a corporate ladder”.[8] Justice Rennie’s conclusions are consistent with the evidence before me.
+[10] Despite all of the foregoing, the Respondent maintains that BIMIC was a multi-level marketing company that was selling goods and services, that the participants in the scheme were earning commissions for making sales and that the money paid by the participants to join a pyramid was paid to purchase goods and services from BIMIC for personal use. The evidence before me, the conclusions of Justice Rennie and simple common sense show this position to be wrong. I can see no reason for the Minister to take such a position other than to artificially inflate the tax that the Minister can assess. Perhaps the position might have been defensible early in the process when the Minister did not fully understand the scheme, but I cannot understand why the Minister continues to maintain it now.
+[11] I note that, to her credit, it was counsel for the Respondent, pursuant to her duty as an officer of the Court, who drew my attention to Justice Rennie’s decision. I understand the difficult position in which the Minister has placed counsel and appreciate the professionalism with which she handled it.
+[12] Based on all of the foregoing, I find that the BIMIC scheme was a pyramid scheme and that participants were not buying goods and services for personal use but were rather buying a spot at the bottom of the pyramid. I also find that directors of sales at the top of the pyramids were not earning sales commissions but were simply reaping the payoff of making it to the top of the pyramid.
+II. Taxation of Amounts Earned in the Scheme [13] The Federal Court of Appeal has had several opportunities to consider the tax treatment of profits and losses from fraudulent schemes. Income from a fraudulent scheme is taxable in the hands of its promoter (The Queen v. Johnson[9]). Income from a Ponzi scheme is taxable in the hands of a participant if the participant’s contractual rights were honoured (Johnson). By contrast, losses from a fraudulent scheme where there never was a business are not non-capital losses (Hammill v. The Queen;[10] Vankerk v. The Queen[11]).
+[14] Although the two terms are often used interchangeably, a pyramid scheme and a Ponzi scheme are not the same thing. Johnson dealt with the taxation of profits from a Ponzi scheme. Should profits from a pyramid scheme be treated any differently?
+[15] There are sufficient similarities between the two types of schemes that I do not see any reason why they would be taxed any differently. Both schemes are illegal. Both schemes rely on a continuous stream of new participants injecting new cash in order to sustain the withdrawal of funds by one or a few select individuals at the top. Both schemes will inevitably collapse under their own weight, leaving their victims suffering losses. In both schemes, while there is the illusion that people are making money, ultimately only the promoters or a few lucky people manage to extract more money than they put in.
+[16] The key difference between Ponzi schemes and pyramid schemes is that participants in a Ponzi scheme normally believe that they are making an investment that is, in turn, generating profits for them. They do not normally realize that there is no investment, that there are no profits and that any actual cash that they are receiving back from the supposed investments is either a return of their own money or an appropriation of money belonging to other participants. By contrast, while participants in a pyramid scheme may not realize the full nature of the pyramid scheme or the fact that it is doomed to fail, they are aware on some level that they are buying into a structure whereby they receive profits through the recruitment of new people into that structure. They are aware on some level that they are being paid using money that comes from those new participants and that, if they themselves are new participants, their money is being used to pay those above them. A pyramid scheme may be cloaked with sales terms and the pretence that goods or services are being purchased, but ultimately it is clear to everyone that without new people at the bottom of the pyramid, they are not going to profit. Accordingly, participants in a pyramid scheme are generally actively involved in the scheme in that they work to recruit new participants. In simple terms, a participant in a Ponzi scheme is conned by the promoter into investing in something fake. A participant in a pyramid scheme is conned by the promoter into believing that the scheme will actually work and that he or she will profit through his or her own efforts.
+[17] Because of these differences between the two types of schemes, it would generally be more appropriate to characterize the income received by a participant in a Ponzi scheme whose contractual rights have been honoured as property income and the income received by a participant in a pyramid scheme whose contractual rights have been honoured as business income.
+[18] In my view, participants in the BIMIC scheme were being defrauded from the start. They were talked into buying into a scheme that was doomed to failure but certain to put money in the promoters’ pockets. However, pursuant to Johnson, participants like Ms. Mazo, who made money in the scheme, should be subject to tax if their contractual rights were honoured. In other words, Ms. Mazo should be taxed if “she received what she bargained for”.[12]
+[19] What, then, did Ms. Mazo bargain for? She certainly did not agree to join a pyramid scheme. There was no evidence that she knew the scheme was a pyramid scheme. A participant who knew it was a pyramid scheme would have extracted all but his or her reinvested earnings immediately. He or she would not have left them sitting in an account waiting for the scheme to collapse. He or she certainly would not have lent them to other participants for no consideration.
+[20] If Ms. Mazo did not agree to join a pyramid scheme, then what did she bargain for? I find that Ms. Mazo agreed to join what she believed was a sales organization that would pay her commissions for recruiting new salespeople. Since Ms. Mazo did recruit new people and was paid for doing so, I conclude that those payments, net of any expenses, were business income in her hands.
+[21] Having concluded that Ms. Mazo received business income from BIMIC, I must now determine the amount of that income. To do so, I must look at both the revenue she earned and the costs she incurred.
+Revenue [22] There are two possible ways to calculate Ms. Mazo’s revenue from the scheme. The first is to total the amounts that were deposited to her BIMIC account when a pyramid on which she was a sales director was completed. The second is to total the amounts that she actually extracted from the scheme in the form of cheques and debit cards. The Minister used the former method.
+[23] The Respondent submits that, once the funds were deposited to Ms. Mazo’s BIMIC account, Ms. Mazo had complete control over them and was free to withdraw them at any time. Thus, the Respondent submits that Ms. Mazo realized her profits when the funds were deposited.
+[24] Ms. Mazo’s testimony supports the Respondent’s position. Ms. Mazo spoke as if the money was hers once it was deposited to her account. She withdrew it when she wanted to and purchased debit cards with it when she wanted to. She lent it to other participants when she wanted to, received repayment of some of those loans and still considers other loans to be outstanding despite the collapse of the scheme. She reinvested in the scheme by using the funds in her account to buy into new pyramids which, in turn, made her more money which she, in turn, withdrew, lent or reinvested. At no point did Ms. Mazo indicate that she had had problems with or had experienced delays in getting access to her funds.
+[25] I reluctantly accept the Respondent’s position. I am concerned that the BIMIC accounts may have been a means of tacking a Ponzi scheme onto the BIMIC pyramid scheme. Instead of simply paying the money that participants accumulated from the pyramid scheme out to the participants, BIMIC designed an account system which allowed it to only release funds when participants asked for them. This put BIMIC in a position where it could have operated the accounts like a Ponzi scheme: appropriating money for itself when it wanted to, using the accounts to make the participants think the money was still there, and using new money earned by one participant to pay out any other participant who asked to be paid out. If that were the case, then the only appropriate way to determine Ms. Mazo’s revenue would have been to look at the money that she actually received back from the scheme.
+[26] That said, there is no evidence before me on which I could conclude that the BIMIC accounts were operated in that manner. My concerns are not enough. Ms. Mazo’s clear evidence was that she believed the money was hers and that she had full access to it. There is no evidence to contradict her. Justice Rennie indicates that, when the scheme ultimately collapsed, any remaining funds in the BIMIC accounts were not paid out.[13] That strongly supports my concerns. However, that evidence was not before me. It is one thing for me to rely on the legal conclusions reached by Justice Rennie. It would be another thing entirely for me to rely on evidence that was presented to him that is neither before me nor consistent with the evidence that is before me.
+[27] Based on all of the foregoing, I find that Ms. Mazo earned revenue from the scheme when funds from being a director of sales were deposited to her BIMIC account. I also find that the amount of that revenue was correctly calculated by the Minister.[14]
+[28] I note that the method used by the Minister and accepted by me results in more tax being paid as it catches participants who Justice Rennie indicates did not manage to extract their earnings before the scheme collapsed. If a different taxpayer were to come before me with different evidence about what happened to his or her account, I may well find that the method used by the Minister was not appropriate and that the taxpayer’s revenue should be based only on the net amount he or she actually extracted from the scheme.[15] That would be consistent with how the Minister has previously calculated the income of taxpayers in Ponzi schemes (Johnson).
+Cost [29] The Minister made an assumption of fact that participants did not pay to participate in a pyramid but rather bought goods or services from BIMIC for personal use. In accordance with that assumption, the Minister did not allow Ms. Mazo any deductions for the amounts she paid to join pyramids.
+[30] Ms. Mazo has succeeded in demolishing that assumption. The amounts Ms. Mazo spent to buy into pyramids are amounts she laid out to earn the revenue she earned as a sales director and are properly deductible. The only question that remains is how much she spent.
+[31] Ms. Mazo testified that she had bought into at least 10 pyramids after her initial pyramid. She stated that it was her normal practice to use some of the revenue that she received from being a director of sales to buy into a new pyramid once her old pyramid ended. The Minister introduced no evidence to show how many pyramids Ms. Mazo bought into. The Respondent knew that the Minister’s assumption of fact was not defensible in light of Justice Rennie’s decision. If the Respondent wanted me to rely on something more specific than Ms. Mazo’s recollection of what happened nine years ago, the Respondent should have introduced evidence in that regard.
+[32] In the circumstances, I am prepared to accept that Ms. Mazo was a director of sales on 11 pyramids (being the initial pyramid that she bought into and the minimum 10 additional pyramids that she testified she had bought into).
+[33] As set out above, the cost of buying in varied. In the absence of any documentary evidence, I will allow Ms. Mazo the lowest of the three costs, namely $3,000 per pyramid.
+[34] In the absence of direct evidence on the point, I must decide how to allocate Ms. Mazo’s 11 buy-ins among the years in question. Looking at the pattern and timing of the deposits to Ms. Mazo’s account, I find that she bought into two pyramids in 2007, nine in 2008 and none in 2009.
+[35] Thus, based on all of the foregoing, I find that Ms. Mazo had $6,000 in additional expenses in 2007 and $27,000 in 2008.
+Currency [36] The Respondent called an auditor named John Glatt as a witness. Mr. Glatt testified that initially amounts in BIMIC’s books and records were recorded in US dollars. He explained that he converted those amounts into Canadian dollars at the daily prevailing exchange rate for the purpose of determining the amount of revenue earned by Ms. Mazo.
+[37] Ms. Mazo submits that her revenues have been inflated by treating them as having been earned in US dollars. She testified that all amounts were earned in Canadian dollars and should not have been converted.
+[38] I prefer Mr. Glatt’s testimony as I find it to be more reliable in the circumstances. He was responsible for the audit of the entire BIMIC operation and oversaw the audits of all individual participants selected for audit. He has access to and is familiar with a database of all of BIMIC’s transactions with the participants. I accept Mr. Glatt’s evidence and thus find that Ms. Mazo’s revenues have not been inflated.
+Loans to Other Participants [39] Ms. Mazo lent significant amounts of money from her BIMIC account to other participants to allow those participants to buy into pyramids. Ms. Mazo was very clear that none of those loans was made for the purpose of allowing a participant to buy into one of Ms. Mazo’s pyramids. Ms. Mazo testified that most of the loans were never repaid. She submits that she is entitled to deduct those loans against her business income from the scheme. I disagree.
+[40] Once the funds arrived in Ms. Mazo’s BIMIC account, she had complete control over them. Her choice to lend them had nothing to do with her business. As stated above, she did not lend funds to people who were buying into her pyramids and thus did not have any opportunity to profit from making the loans. If anything, her loans helped other participants to earn income in their own pyramids. Ms. Mazo did not introduce any evidence that would suggest that she was in the business of lending money. The rather loose manner in which she lent the funds suggests the opposite. Ms. Mazo did not indicate that the loans were interest bearing.
+[41] Based on all of the foregoing, I conclude that Ms. Mazo is not entitled to deduct her loan losses against her business income.
+Other Expenses [42] While Ms. Mazo claimed to have incurred various expenses trying to recruit other participants, she provided neither documentary evidence of those expenses nor any details as to how much she had expended each year and on what. Accordingly, I cannot allow her deductions for any such expenses that she might have incurred.
+[43] I note that there are a few items flowing out of Ms. Mazo’s BIMIC account that appear to have been business expenses paid to BIMIC. A quick review of those items suggests that their deduction has already been allowed by CRA Appeals.[16]
+III. Unreported Income [44] Based on all of the foregoing, I find that Ms. Mazo had the following unreported business income from the scheme in the following years:
+2007
+2008
+2009
+business income (as reassessed)
+$13,893
+$74,619
+$3,025
+cost of buying in
+($6,000)
+($27,000)
+--
+adjusted business income
+$7,893
+$47,619
+$3,025
+[45] Ms. Mazo stated that she had reported her income from BIMIC in her returns. However, she was unable to recall how she calculated that income or how it was reported. She had no documentary evidence to support her assertion.
+[46] Ms. Mazo did not report any business income in her 2007, 2008 or 2009 tax returns. She did, however, report commission income. She testified that she had one or two sources of commission income in each of those years. The gross commission income reported by Ms. Mazo in 2008 is less than half of the revenue she earned from the BIMIC scheme in that year. This indicates to me that the commission income that she reported in that year did not include her BIMIC income. The gross commission income reported by Ms. Mazo in 2007 and 2009 was large enough to have included the revenue that she earned from the scheme in those years. However, I find it unlikely that Ms. Mazo would have reported her revenue from the scheme in 2007 and 2009 and not have reported it in 2008. In addition, the gross commission income reported by Ms. Mazo in 2009 is very similar to the gross commission income she reported in 2008. Having concluded that she did not report any revenue from the scheme in 2008, I find it to be more likely that she earned similar gross commission income from other sources in 2009 and did not report her revenue from the scheme than that she earned significantly less gross commission income from other sources and reported her revenue from the scheme.
+[47] Based on all of the foregoing, I find that Ms. Mazo did not report her income from the BIMIC scheme in 2007, 2008 or 2009.
+IV. Statute Barred Year [48] Ms. Mazo’s 2007 tax year was reassessed after the normal reassessment period. I am satisfied on the evidence before me that Ms. Mazo made a misrepresentation in not reporting the $7,893 in income from the scheme in her 2007 tax return. I am also satisfied that her failure to report that amount was due to carelessness, neglect or wilful default. Accordingly, Ms. Mazo’s 2007 tax year may be reopened for the purpose of including that unreported income.
+V. Gross Negligence Penalties [49] The amounts that Ms. Mazo failed to report are significant, particularly when one considers the large number of people who were not so lucky as to make money from the scheme. She failed to report an entire source of income amounting to almost one-third of her total income in the three years in question. Ms. Mazo was clearly aware that she was earning this income. It would have been relatively simple for her to calculate her earnings. She reported other income in the period and clearly understood the requirement to do so. In the circumstances, I find that Ms. Mazo was grossly negligent in failing to report her income from the BIMIC scheme.
+[50] I note that, although Ms. Mazo initially filed her Notice of Appeal on the basis of what have been described as organized pseudo-legal commercial arguments, she did not rely on such arguments in filing her tax returns.[17] Thus, I have not considered her belief in those arguments when determining whether she was grossly negligent in failing to report her income. Those arguments have not been discussed in these Reasons because Ms. Mazo abandoned them at trial.
+VI. Conclusion [51] Based on all of the foregoing, the Appeal is allowed and the matter referred back to the Minister for reconsideration and reassessment on the basis that Ms. Mazo was entitled to deduct additional business expenses of $6,000 in 2007 and $27,000 in 2008.
+VII. Costs [52] Ms. Mazo was originally represented by an agent named Chris Shannon. Ms. Mazo’s choice of agent and her persistence in following that agent’s advice in the face of clear indications that she should not do so led to an unnecessary delay in this matter. It caused a trial that should have taken half a day to extend not only to a full day but well into the evening and it complicated the proceedings for all involved. The Respondent should not have to bear the costs of that delay.
+[53] It is unusual for the Court to award costs against a taxpayer in an informal procedure appeal. It is even more unusual for the Court to do so when the taxpayer is partially successful. However, the Court has discretion to do so pursuant to Rules 10 and 11 of the Tax Court of Canada Rulers (Informal Procedure) if the Court finds that the actions of the appellant unduly delayed the prompt and effective resolution of the appeal.
+[54] In the circumstances, I award costs of $375 to the Respondent in respect of the half day of hearing that was wasted.
+Signed at Ottawa, Canada, this 14th day of October 2016.
+“David E. Graham”
+Graham J.
+CITATION:
+2016 TCC 232
+COURT FILE NO.:
+2015-5173(IT)I
+STYLE OF CAUSE:
+ROBERTA MAZO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+September 13, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+October 14, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Larissa Benham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Different terms were used in place of “VP” and “sales manager” in Justice Rennie’s decision (discussed below) but these are the terms that were in evidence before me. Participants in the scheme (regardless of the level at which they were involved) were called “independent distributors”. I have chosen to use the word “participants” in these Reasons rather than “independent distributors” as I find the latter both confusing and misleading.
+[2] 2014 FC 17
+[3] Cuzzetto at para 20
+[4] Cuzzetto at paras 81 and 82
+[5] RSC 1985, c C-34
+[6] Cuzzetto at para 45
+[7] Cuzzetto at para 85
+[8] Cuzzetto at para 86
+[9] 2012 FCA 253 (leave to appeal denied 2013 CarswellNat 633) in obiter at para 47
+[10] 2005 FCA 252
+[11] 2006 FCA 96
+[12] Johnson at para 46
+[13] Cuzzetto at para 57
+[14] The auditor included as revenue both the revenue from being a director of sales and any transfers into Ms. Mazo’s account from other participants. The Appeals Officer appears to have, correctly in my view, removed the transfers from the calculation of revenue. He or she presumably did so on the basis that any transfer had already been taxed as revenue in the hands of the participant who had received it.
+[15] If I am wrong and Ms. Mazo’s revenue should have been based on the amounts that she actually managed to withdraw from the scheme, then I find that she withdrew $900 in 2007, $38,651 in 2008 and $8,400 in 2009. I also find that her total cash contribution to the scheme was $3,000. That contribution would be deductible against her revenue. Doing so would result in a $2,100 loss in 2007. In my view, Ms. Mazo would be entitled to that loss as her contractual rights were honoured over the course of the entire scheme. Since the Minister only reassessed Ms. Mazo $3,025 in 2009 and I cannot increase the amount assessed, no changes would be necessary for 2009.
+[16] When I add these expense items to the funds transferred into Ms. Mazo’s BIMIC account (see footnote 14), the total is equal to the adjustments that were made by CRA Appeals (see the Option C printouts: Exhibits R-3, R-4 and R-5).
+[17] See Meads v. Meads, 2012 ABQB 571

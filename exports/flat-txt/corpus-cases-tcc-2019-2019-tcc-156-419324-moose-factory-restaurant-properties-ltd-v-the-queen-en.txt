@@ -1,0 +1,388 @@
+Title: Moose Factory Restaurant Properties Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/419324/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-156-419324-moose-factory-restaurant-properties-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-07-26
+
+# Moose Factory Restaurant Properties Ltd. v. The Queen
+
+- Citation: 2019 TCC 156
+- Decision date: 2019-07-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4213, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moose Factory Restaurant Properties Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-07-26
+Neutral citation
+2019 TCC 156
+File numbers
+2015-3149(IT)G
+Judges and Taxing Officers
+John R. Owen
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-3149(IT)G
+BETWEEN:
+MOOSE FACTORY RESTAURANT
+PROPERTIES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 13 and 14, 2019, at Edmonton, Alberta
+Before: The Honourable Justice John R. Owen
+Appearances:
+Counsel for the Appellant:
+Neil T. Mather
+Counsel for the Respondent:
+Margaret McCabe
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+the appeal from the reassessments made under the Income Tax Act (“ITA”) for the 2007, 2008, 2009, 2010 and 2011 taxation years, the notices of which are dated January 11, 2013, are dismissed;
+the appeal from the determination of loss made under the ITA for the 2010 taxation year, the notice of which is dated July 22, 2013, is dismissed;
+the appeal from the assessments made under the ITA for the 2012 and 2013 taxation years, the notices of which are dated February 4, 2013 and February 5, 2014 respectively, are dismissed; and
+costs in accordance with Tariff B of Schedule II of the Tax Court of Canada Rules (General Procedure) are awarded to the Respondent.
+Signed at Ottawa, Canada, this 26th day of July 2019.
+“J.R. Owen”
+Owen J.
+Citation: 2019 TCC 156
+Date: 20190726
+Docket: 2015-3149(IT)G
+BETWEEN:
+MOOSE FACTORY RESTAURANT
+PROPERTIES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Owen J.
+I. Introduction
+[1] This is an appeal by Moose Factory Restaurant Properties Ltd. (the “Appellant”) of the denial of the Appellant’s claim, for its taxation year ending July 31, 2010, of an allowable business investment loss in the amount of $1,475,000 (the “ABIL”). The Appellant requested the carry-back and carry-forward of the non-capital loss resulting from the ABIL as set out hereunder, which requests were also denied and which the Appellant also appeals:
+Taxation Year
+Amount
+2007
+$82,433
+2008
+$35,960
+2009
+$33,352
+2011
+$103,812
+2012
+$261,644
+2013
+$155,189
+[2] Three witnesses testified for the Appellant: Mr. Thomas Scott Goodchild, founder of the Sawmill restaurants group, Mr. Len McCullough, Director of Operations of the Sawmill restaurants group, and Mr. Brad Berry, a partner with BDO Canada LLP, the accountants for the Sawmill restaurant group during the period in issue. I found all three witnesses to be credible. However, in certain instances, I found the testimony of Mr. McCullough to be more reliable than the testimony of Mr. Goodchild.
+II. Facts
+[3] The Appellant is a member of a group of corporations (which I will refer to as the Sawmill Group) that own and operate steak and seafood restaurants and a banquet and catering facility in Edmonton, Alberta. In addition to the restaurants owned by the Sawmill Group, there are also restaurants that are owned and operated by franchisees. The franchise agreements for these restaurants are with Sawmill Franchise Inc. (“SFI”), which is a corporation in the Sawmill Group created to sell franchise interests and limited partnership interests.
+[4] During the period in issue, the Appellant owned a restaurant called The Moose Factory, [1] the Sawmill banquet and catering centre and the real estate used by a Sawmill restaurant on Calgary Trail. Mr. McCullough testified that these properties were worth approximately $12 million in 2009. The Moose Factory was renamed as a Sawmill restaurant in 2015 following the amalgamation of several corporations in the Sawmill Group, including the Appellant.
+[5] In 2005, Mr. Goodchild was approached by Robert Siffledeen regarding becoming a Sawmill restaurant franchisee. On October 12, 2006, SFI entered into a ten-year franchise agreement (the “Franchise Agreement”) [2] with 1207330 Alberta Ltd. (“1207330”), a corporation owned by Jeff Siffledeen, the son of Robert Siffledeen. Jeff Siffledeen had experience in the hospitality industry and was to manage the Sawmill restaurant. Robert Siffledeen, Jeff Siffledeen and 1207330 were not related to any member of the Sawmill Group.
+[6] Pursuant to section 8 of the Franchise Agreement, SFI and 1207330 agreed to locate the restaurant in the Capilano Mall in Edmonton (I will refer to the restaurant operated by 1207330 as the Sawmill Capilano restaurant). 1207330 was responsible for securing a suitable lease, for constructing, “fixturing”, equipping, furnishing and decorating the Sawmill Capilano restaurant, and for all costs and expenses, as defined in section 3.1 of the Franchise Agreement.
+[7] As consideration for the franchise, SFI was entitled to two payments of $25,000, to a continuing royalty of 5% of gross sales payable weekly and to a fee for advertising of 2% of gross sales payable weekly. [3]
+[8] Mr. Goodchild testified that SFI did not have a bank account and therefore could not be the franchisor under the Franchise Agreement. However, the Franchise Agreement names SFI as the franchisor and Mr. McCullough confirmed that SFI entered into the Franchise Agreement with 1207330.
+[9] Section 14 of the Franchise Agreement addresses termination of the agreement. The relevant portions of section 14 state:
+14.1. Termination Without Notice or Opportunity to Cure
+The Franchisor may, at its option, declare this agreement terminated, without the need for any notice or opportunity to cure in any of the following events:
+. . .
+(d) if the Franchisee becomes insolvent or makes an assignment for the benefit of creditors or if an assignment is made in bankruptcy by the Franchisee or such a petition is filed against and consented to by the Franchisee, or is not dismissed within thirty (30) days;
+. . .
+14.3. Rights and Obligations on Termination or Expiration
+Upon any termination or expiration of this agreement:
+(a) Franchisee shall promptly pay to the Franchisor all sums owing or accrued prior to such termination or expiration by the Franchisee to the Franchisor or to any advertising and promotion fund or co-op that is created by the Franchisor. Such sums shall include any damages, costs and expenses, incurred by the Franchisor by reason of default on the part of the Franchisee;
+. . .
+[10] Mr. Goodchild testified that completion of the Sawmill Capilano restaurant cost $3.9 million. Mr. McCullough estimated the cost of the Sawmill Capilano restaurant to be approximately $3.5 million. Both stated that the amount spent far exceeded the typical cost of $2.8 million.
+[11] Mr. Goodchild testified that 1207330 was not able to fund the costs and expenses as required by section 8.2 of the Franchise Agreement. [4] With the assistance of Mr. Goodchild, 1207330 obtained a loan from 1378310 Alberta Ltd. in the amount of $1,525,000 under the terms of a loan agreement dated June 27, 2008 (the “First Loan”). [5] The Appellant, Mr. Goodchild and Jeff and Robert Siffledeen guaranteed the First Loan.
+[12] The First Loan was repaid in June 2009 out of the proceeds of a $2,950,000 loan (the “Second Loan”) from the Business Development Bank of Canada (“BDC”). Mr. Goodchild testified that the intention was always to borrow the funds required to complete the Sawmill Capilano restaurant from BDC but that obtaining such a loan took time and therefore the First Loan was obtained as an interim measure.
+[13] The terms and conditions of the Second Loan are set out in a Letter of Offer from BDC dated June 4, 2009, [6] as amended by a letter from BDC dated June 8, 2009 (the “Amendment”). [7] The Appellant, Sawmill Restaurant Group Ltd. (“SRGL”), SFI, 1207330, Sawmill Franchise Holding Inc. (“SFHI”), Mr. Goodchild, Jeff Siffledeen and Robert Siffledeen accepted the terms of the Letter of Offer on June 4, 2009 and accepted the terms of the Amendment on an unspecified day in June 2009. [8]
+[14] The Letter of Offer identifies the “borrower” of the Second Loan as being the Appellant, SFI, SRGL, 1207330 and SFHI, jointly and severally, and the “guarantor” of the Second Loan as being Mr. Goodchild, Jeff Siffledeen and Robert Siffledeen. [9] Under the heading SECURITY, the Letter of Offer states:
+The Loan, interest on the Loan and all other amounts owing pursuant to the Loan Documents shall be secured by the following (the “Security”):
+1. This loan is the joint and several obligation of Sawmill Restaurant Group Ltd. and Moose Factory Restaurant Properties Ltd. and Sawmill Franchise Inc. and 1207330 Alberta Ltd. and Sawmill Franchise Holding Inc., secured by:
+2. First mortgage in the face amount of $3,200,000 on land (approx. 2.55 acres) legally described as Lot E2 Block 1 Plan 0621159 and building (approx. 18,682 sq. ft.) located at 3840-76 Avenue Edmonton AB owned by Moose Factory Restaurant Properties Ltd. Building location survey or title insurance required.
+3. General Security Agreement from Moose Factory Restaurant Properties Ltd. providing a security interest in all present and after-acquired personal property subject only to priority on inventory and receivables to lender extending line of credit and all existing prior charges.
+4. Joint and Several Guarantee of Thomas S. Goodchild and Jeffery Tarek Siffledeen and Robert Casey Siffledeen for 15% [10] of the loan balance outstanding from time to time. The guarantors agree that they are personally responsible for the payment of the commitment, standby and legal fees as per the Letter of Offer.
+5. First registered general assignment of rents. Rent may be paid to you until notified by BDC. No prepayment without BDC’s approval.
+[15] On June 18, 2009, the Appellant executed a General Security Agreement [11] and a mortgage [12] in favour of BDC.
+[16] On June 22, 2009, 1207330 executed a Security Agreement and Debenture (the “SA&D”) in favour of the Appellant, SRGL, SFI, SFHI and Mr. Goodchild. [13] 1207330 is identified as the “Debtor” and the Appellant, SRGL, SFI, SFHI and Mr. Goodchild are identified as being the “Creditor”. The preamble on page 1 of the SR&D states:
+Debtor enters into this Agreement in favour of Creditor as security for the payment and satisfaction of the Indebtedness and Debtor covenants, agrees, represents, warrants, acknowledges, mortgages, charges and grants in favour of Creditor, as the case may be, as herein provided.
+[17] Sections 2.1 and 8.1 and paragraph 2.4(1) of the SA&D state:
+2. 1 . . .
+As security for the payment of all Indebtedness and as security for the due observance and performance of all of the covenants and agreements of Debtor herein contained and in any other securities held by Creditor to be observed and performed, the Debtor hereby grants to and in favour of Creditor a security interest in and a mortgage and charge (collectively the “Security Interest”) upon:
+(1) the Personal Collateral;
+(2) all of Debtor’s present and after-acquired Real Property and every interest present and future, legal and equitable of Debtor therein;
+(3) the proceeds derived directly or indirectly from any dealing with any of the property of Debtor described in or referred to in (1) and (2) above;
+All of the property and interests described or referred to in this Section 2.1 are collectively called “Collateral” or “Mortgaged Premises”.
+. . .
+2.4 . . .
+(1) Debtor covenants and agrees that it will:
+(a) pay or cause to be paid unto Creditor at such place as may be designated by Creditor from time to time without any deduction, set off or cross claim, or abatement whatsoever and without regard to any equities between Debtor and Creditor, the whole of the Indebtedness outstanding in accordance with repayment terms agreed upon for such Indebtedness and failing agreement upon demand, together with Interest on the Indebtedness from and including the Date of Advance thereof;
+(b) pay Interest on overdue Interest;
+(c) also pay or cause to be paid all such other sums as Creditor may be entitled to receive by virtue of this Agreement; and,
+(d) observe and perform all of the covenants, agreements and conditions contained herein.
+. . .
+8.1 Subject to Section 16 of the [Personal Property Security Act (Alberta)] and the provisions of the Bankruptcy and Insolvency Act and without prejudice to the Creditor’s right to demand payment of the Indebtedness notwithstanding that there is no Event of Default, Creditor, in its sole discretion, may declare all or any part of the Indebtedness (which is not already by its terms payable on demand) to be immediately due and payable, without demand or notice of any kind, in the event of Default, or, if Creditor in good faith believes that the prospect of payment of all or any part of Indebtedness or performance of Debtor’s obligations under this Agreement or any other agreement now or hereafter in effect between Debtor and Creditor is impaired.
+[18] The words “Advance” and “Indebtedness” and the phrase “Date of Advance” are defined in section 1.1 of the SA&D as follows:
+“Advance” means any advance of funds from the Creditor to or for the benefit of the Debtor including payments made on behalf of the Debtor, and payments arising from guarantees or indemnities given by the Creditor to other creditors of the Debtor, and includes any payments made by the Creditor to Business Development Bank of Canada in partial or full repayment of funds advanced by the Business Development Bank of Canada to the Debtor, Moose Factory Restaurant Properties Ltd., Sawmill Restaurant Group Ltd., Sawmill Franchise Inc. and Sawmill Franchise Holding Inc., all as joint borrowers.
+“Date of Advance” - the date of the first advance of the whole or any portion of the Indebtedness;
+“Indebtedness” shall be interpreted in its most comprehensive sense, whether incurred prior to, at the time of or subsequent to the entering into of this Agreement and without limiting its generality, shall include any and all Advances (whether fixed or revolving credits or otherwise) or other value and interest thereon at any time and from time to time made or granted by or on behalf of Creditor to or on behalf or on account of or at the direction of Debtor, and for the payment or satisfaction of all obligations, indebtedness or liabilities and interest thereon of Debtor to or in favour of Creditor or for which Creditor may become responsible, whether direct, indirect, absolute, contingent or otherwise, present or future, extended or renewed, insured or not, voluntary or involuntary, matured or not, liquidated or unliquidated, wheresoever and howsoever incurred and any ultimate balance thereof and whether the same is from time to time reduced and thereafter incurred again, and whether Debtor may be liable individually or jointly with others, and whether as principal or surety, and whether recovery upon such Indebtedness may be or hereafter become barred or unenforceable, and whether incurred by or arising from agreement, letters of credit (whether or not drawn upon), guarantee or dealings between Creditor and Debtor or others or by or from any agreement, letters of credit (whether or not drawn upon), guarantee or dealings within or outside the country with any third party or however otherwise incurred, and all interest, commission, costs, including without limitation legal costs of Creditor on a solicitor and his own client basis, charges and expenses of every nature and kind whatsoever (inclusive of those provided for in Section 11 hereof) which may be incurred, arise from or relate to the Indebtedness or the Collateral by which Creditor may be or become in any manner whatsoever a creditor of Debtor.
+[19] On November 19, 2009, a bankruptcy order was issued against 1207330 and BDO Dunwoody Limited was appointed trustee in bankruptcy. [14] Mr. Goodchild and Mr. McCullough explained that the Capilano Sawmill restaurant had performed well but that 1207330 fell into financial difficulty in large part because of expenses it was incurring that did not relate to the operation of the restaurant. After the bankruptcy of 1207330, the Capilano Sawmill restaurant was taken over by 1501062 Alberta Ltd. (“1501062”), a corporation in the Sawmill Group incorporated for that purpose on November 11, 2009.
+[20] A copy of a Statement of Affairs for 1207330 (Form 78) sworn by Jeff Siffledeen on November 26, 2009 [15] shows total liabilities of 1207330 of $1,022,105.90, of which $760,598.90 is unsecured and $261,507 is secured. The attached lists of unsecured and secured creditors show an unsecured claim and a secured claim by the Appellant, each for $1. The lists also show unsecured and secured claims by SFI of $1,000 and $59,000, unsecured and secured claims by SFHI of $1 each and unsecured and secured claims by SRGL of $1 and $46,895.05. BDC is not listed as a creditor of 1207330 on either list.
+[21] Mr. Goodchild testified that Form 78 was sworn by Jeff Siffledeen and was not reliable. Mr. McCullough did not know why the $2,950,000 liability to BDC was not listed on Form 78.
+[22] An Amended Proof of Claim by SFI dated June 21, 2011 [16] shows unsecured and secured claims by SFI of $25,258.63 and $800,825.41. Attached to the Amended Proof of Claim is an affidavit of Mr. Goodchild sworn on June 21, 2011. [17] The body of the affidavit states:
+1. I am the President of Sawmill Franchise Inc. (the “Sawmill”), a creditor of the debtor 1207330 Alberta Ltd. (“1207330”), and have personal knowledge of the facts and matters herein deposed, except where stated to be based upon information and belief, and where so stated, I verily believe the same to be true.
+2. This Affidavit is sworn in support of an Amended Proof of Claim particularizing those amounts 1207330 is indebted to the Sawmill and amending the Proof of Claim of the Sawmill dated December 8, 2009. The defined terms contained in my Affidavit of November 18, 2009 remain the same as those contained herein. The amounts are particularized as follows:
+a. 1207330 is justly indebted to the Sawmill in the amount of $70,258.63 as of October 31, 2009 pursuant to the Franchise Agreement.
+b. In respect of the Bankruptcy of 1207330, Sawmill has paid legal and receiver fees in the sum of $88,317.27 arising from the breach of and enforcement [of] the Franchise Agreement.
+c. Sawmill Franchise Holdings Inc., Moose Factory Restaurant Properties Ltd., Sawmill Restaurant Group, Sawmill Franchise Inc. (the “Sawmill Companies”) and 1207330 borrowed $2,950,000 from the Business Development Bank of Canada (“BDC”) on June 22, 2009 which amount was used to finance the construction of the Capilano’s Sawmill location (the “BDC loan”).
+d. Pursuant to an agreement entered into between the Sawmill Companies, of which the Sawmill was one, and 1207330, 1207330 was to make payment of all amounts owing on the BDC Loan.
+e. 1207330 granted a General Security Agreement, along with other securities to the Sawmill, to secure payment of all amounts owing under the BDC loan. Attached hereto and marked as Exhibit “A” to this my Affidavit is a true copy of a general security agreement granted by 1207330 in favor of the Sawmill.
+f. 1207330 failed to make payments as required under the BDC Loan, resulting in the Sawmill having to make interest payments for the time period November 2009 to May 2011 in the amount of $287,791.16. The Sawmill, as part of the Sawmill Companies, is liable for the outstanding principal balance of $2,950,000.00.
+g. Sawmill has paid rent in relation to the operation of the Capilano Sawmill Franchise in the amount of $379,716.98.
+3. Total secured liability is $800,825.41, plus the remaining balance of the BDC in the sum of $2,950,000.
+4. The remaining unsecured claim is $25,258.63 as stated in original Proof of Claim.
+5. I make this affidavit in support of an Amended Proof of Claim in the Bankruptcy of 1207330.
+[23] Mr. Goodchild testified that he assumed his lawyers knew the facts and that he did not read the affidavit before swearing to its contents. He stated that he did not know what the amounts in paragraphs 2a and 2b were for and that 2f was not accurate because SFI did not have a bank account and 1501062 would have made the interest payments.
+[24] Mr. McCullough testified that he did not know what the secured claim of $800,825.41 was for, that 1501062 made the payments on the Second Loan out of cash flow from the restaurant and then charged them to the Appellant, and that the lawyer who prepared the affidavit did not otherwise work with the Sawmill Group. Mr. McCullough did not know why the Appellant did not file a claim against 1207330.
+[25] In cross-examination, Mr. McCullough identified a copy of the adjusting journal entries of 1501062 for its years ending July 31, 2010 and July 31, 2011. [18] The journal entries show adjustments of $128,991.50 for the year ending July 31, 2010 and of $190,765.26 for the year ending July 31, 2011 for the interest paid by 1501062 on the Second Loan, the purpose of these adjustments being “[t]o reverse interest expense booked on debt paid by MFP”.
+[26] Note 5 to the financial statements of the Appellant for the fiscal periods ending July 31, 2010 and July 31, 2011 [19] shows $2,950,000 owing to BDC at the end of the Appellant’s 2009 and 2010 fiscal periods and $2,926,700 owing to BDC at the end of the Appellant’s 2011 fiscal period. Note 7 to the financial statements of the Appellant for the fiscal period ending July 31, 2012 [20] shows $2,771,300 owing to BDC at the end of the Appellant’s 2012 fiscal period.
+[27] Note 1 to the financial statements of the Appellant for the years ending July 31, 2009 and July 31, 2010 shows an “Allowance for loan loss” of $2,750,000 as of July 31, 2009 and $2,950,000 as of July 31, 2010. [21] Mr. Berry testified that this was the write-down on the balance sheet of the debt owed to the Appellant by 1207330, triggered by the bankruptcy of 1207330 in November 2009.
+[28] The statement of operations and deficit (i.e., the income statement) of the Appellant for the fiscal period ending July 31, 2010 shows that the Appellant claimed a deduction from income of $200,000 as an “Allowance for loan loss”.
+[29] Schedule 1 of the Appellant’s T2 income tax return for its taxation year ending July 31, 2010 [22] shows the addition to income of a bad debt of $200,000 and an allowable business investment loss of $1,475,000.
+[30] Mr. Berry testified that the $200,000 addition to income reversed the “Allowance for loan loss” claimed as a deduction from income in the Appellant’s statement of operations and deficit. Mr. Berry also testified that the Appellant made an election under subsection 50(1) of the Income Tax Act (“ITA”) in case the bankruptcy of 1207330 did not trigger a disposition of the debt. An unsigned copy of the election erroneously identifies 1501062 as the debtor. Mr. Berry testified that there was a copy of the signed form in the possession of BDO Dunwoody. However, that form was not produced at the hearing.
+[31] By a letter from BDC to the Appellant, SRGL, SFI, 1501062 and SFHI dated January 11, 2012, [23] the terms of the Second Loan were amended to remove 1207330 as a borrower, to remove Robert Siffledeen as a guarantor, to increase the guarantee of Mr. Goodchild from 5% to 10% and to add a guarantee by 1501062 secured by a general security agreement.
+[32] A printout issued by BDC indicates that interest only on the Second Loan was paid from July 23, 2009 through May 24, 2011, principal and interest on the Second Loan was paid from June 23, 2011 through June 24, 2013, interest only on the Second Loan was paid from July 23, 2013 through November 25, 2013, principal and interest on the Second Loan was paid from December 23, 2013 through June 23, 2015, interest only on the Second Loan was paid from July 23, 2015 through December 23, 2015 and principal and interest on the Second Loan was paid from January 25, 2016 through April 25, 2016. [24]
+[33] On May 5, 2016, the remaining principal amount of $2,331,000 was paid, together with a small interest payment on that date. A final interest payment was made on May 6, 2016. [25]
+A. The Appellant’s Position
+[34] The Appellant submits that as a result of the SA&D executed by 1207330 in favour of the Appellant in June 2009, 1207330 became indebted to the Appellant in the amount of $2,950,000. The Appellant submits that section 8.1 of the SA&D combined with the broad definition of Indebtedness in paragraph 1.1(2)(l) of the SA&D established that the full principal amount of the Second Loan was owed by 1207330 to the Appellant on the bankruptcy of 1207330.
+[35] The Appellant submits that unlike subsection 39(12) of the ITA, which addresses guarantees, paragraph 39(1)(c) of the ITA does not require a payment by the Appellant for there to be a debt owed by 1207330 to the Appellant. The Appellant was not a guarantor of the Second Loan but was a co-borrower and the SA&D created a debt for an amount equal to the principal amount of the Second Loan that was owed by 1207330 to the Appellant. This debt was reported as an asset on the financial statements of the Appellant prior to being written down to nil at the end of the Appellant’s 2010 fiscal period because of the bankruptcy of 1207330 in November 2009.
+[36] The debt owed by 1207330 to the Appellant was acquired by the Appellant to produce income within the meaning of subparagraph 40(2)(g)(ii) of the ITA, the debtor (1207330) was a small business corporation and the debt became a bad debt when 1207330 became bankrupt. The election by the Appellant under subsection 50(1) of the ITA ensured that there was a disposition of the debt in the Appellant’s 2010 taxation year.
+B. The Respondent’s Position
+[37] The Respondent submits that the decision of the Federal Court of Appeal in Rich v. The Queen, 2003 FCA 38, [2003] 3 F.C. 493, imposes four conditions in order for the Appellant to claim an ABIL of $1,475,000:
+1. There had to be a debt of $2,950,000 owed to the Appellant by 1207330.
+2. The debt had to have been acquired by the Appellant for the purpose of gaining or producing income.
+3. 1207330 had to be a small business corporation or a bankrupt that was a small business corporation at the time it became bankrupt.
+4. The debt had to have become bad in the Appellant’s 2010 taxation year.
+[38] The Respondent submits that there was no debt owed to the Appellant by 1207330 and that the SA&D merely apportioned the joint and several liability to BDC under the Second Loan among the borrowers of the Second Loan. Moreover, even if there was such a debt, the debt had a nil adjusted cost base to the Appellant as of July 31, 2010.
+C. The Statutory Rules
+[39] Paragraph 3(d) of the ITA allows a taxpayer to deduct an ABIL in computing the taxpayer’s income. That paragraph states:
+3. Income for taxation year — The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer’s income for the year determined by the following rules:
+. . .
+(d) determine the amount, if any, by which the amount determined under paragraph (c) exceeds the total of all amounts each of which is the taxpayer’s loss for the year from an office, employment, business or property or the taxpayer’s allowable business investment loss for the year.
+[40] Under paragraph 38(c) of the ITA, a taxpayer’s ABIL is one-half of the taxpayer’s business investment loss for the year:
+38. Taxable capital gain and allowable capital loss — For the purposes of this Act,
+. . .
+(c) [allowable business investment loss] — a taxpayer’s allowable business investment loss for a taxation year from the disposition of any property is ½ of the taxpayer’s business investment loss for the year from the disposition of that property.
+[41] A taxpayer’s capital loss and business investment loss are described in paragraphs 39(1)(b) and (c) of the ITA as follows:
+(b) a taxpayer’s capital loss for a taxation year from the disposition of any property is the taxpayer’s loss for the year determined under this subdivision (to the extent of the amount thereof that would not, if section 3 were read in the manner described in paragraph (a) of this subsection and without reference to the expression “or the taxpayer’s allowable business investment loss for the year” in paragraph 3(d), be deductible in computing the taxpayer’s income for the year or any other taxation year) from the disposition of any property of the taxpayer other than
+(i) depreciable property, or
+(ii) property described in any of subparagraphs 39(1)(a)(ii) to (iii) and (v); and
+(c) a taxpayer’s business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer’s capital loss for the year from a disposition after 1977
+(i) to which subsection 50(1) applies, or
+(ii) to a person with whom the taxpayer was dealing at arm’s length
+of any property that is
+(iii) a share of the capital stock of a small business corporation, or
+(iv) a debt owing to the taxpayer by a Canadian-controlled private corporation (other than, where the taxpayer is a corporation, a debt owing to it by a corporation with which it does not deal at arm’s length) that is
+(A) a small business corporation,
+(B) a bankrupt that was a small business corporation at the time it last became a bankrupt, [26] or
+(C) a corporation referred to in section 6 of the Winding-up and Restructuring Act that was insolvent (within the meaning of that Act) and was a small business corporation at the time a winding-up order under that Act was made in respect of the corporation,
+exceeds the total of
+(v) in the case of a share referred to in subparagraph (iii), the amount, if any, of the increase after 1977 by virtue of the application of subsection 85(4) in the adjusted cost base to the taxpayer of the share or of any share (in this subparagraph referred to as a “replaced share”) for which the share or a replaced share was substituted or exchanged,
+(vi) in the case of a share referred to in subparagraph (iii) that was issued before 1972 or a share (in this subparagraph and subparagraph (vii) referred to as a “substituted share”) that was substituted or exchanged for such a share or for a substituted share, the total of all amounts each of which is an amount received after 1971 and before or on the disposition of the share or an amount receivable at the time of such a disposition by
+(A) the taxpayer,
+(B) where the taxpayer is an individual, the taxpayer’s spouse or common-law partner, or
+(C) a trust of which the taxpayer or the taxpayer’s spouse or common-law partner was a beneficiary
+as a taxable dividend on the share or on any other share in respect of which it is a substituted share, except that this subparagraph shall not apply in respect of a share or substituted share that was acquired after 1971 from a person with whom the taxpayer was dealing at arm’s length,
+(vii) in the case of a share to which subparagraph (vi) applies and where the taxpayer is a trust referred to in paragraph 104(4)(a), the total of all amounts each of which is an amount received after 1971 or receivable at the time of the disposition by the settlor (within the meaning assigned by subsection 108(1)) or by the settlor’s spouse or common law partner as a taxable dividend on the share or on any other share in respect of which it is a substituted share, and
+(viii) the amount determined in respect of the taxpayer under subsection (9) or (10), as the case may be.
+[42] Subsection 40(1) of the ITA describes how to calculate a taxpayer’s gain or loss from the disposition of any property:
+40.(1) General rules — Except as otherwise expressly provided in this Part
+(a) a taxpayer’s gain for a taxation year from the disposition of any property is the amount, if any, by which
+(i) if the property was disposed of in the year, the amount, if any, by which the taxpayer’s proceeds of disposition exceed the total of the adjusted cost base to the taxpayer of the property immediately before the disposition and any outlays and expenses to the extent that they were made or incurred by the taxpayer for the purpose of making the disposition, or
+(ii) if the property was disposed of before the year, the amount, if any, claimed by the taxpayer under subparagraph (iii) in computing the taxpayer’s gain for the immediately preceding year from the disposition of the property,
+exceeds
+(iii) subject to subsection (1.1), such amount as the taxpayer may claim
+(A) in the case of an individual (other than a trust) in prescribed form filed with the taxpayer’s return of income under this Part for the year, and
+(B) in any other case, in the taxpayer’s return of income under this Part for the year,
+as a deduction, not exceeding the lesser of
+(C) a reasonable amount as a reserve in respect of such of the proceeds of disposition of the property that are payable to the taxpayer after the end of the year as can reasonably be regarded as a portion of the amount determined under subparagraph (i) in respect of the property, and
+(D) an amount equal to the product obtained when 1/5 of the amount determined under subparagraph (i) in respect of the property is multiplied by the amount, if any, by which 4 exceeds the number of preceding taxation years of the taxpayer ending after the disposition of the property; and
+(b) a taxpayer’s loss for a taxation year from the disposition of any property is,
+(i) if the property was disposed of in the year, the amount, if any, by which the total of the adjusted cost base to the taxpayer of the property immediately before the disposition and any outlays and expenses to the extent that they were made or incurred by the taxpayer for the purpose of making the disposition, exceeds the taxpayer’s proceeds of disposition of the property, and
+(ii) in any other case, nil.
+[43] Paragraph 40(2)(g)(ii) of the ITA deems a loss on a disposition of a debt to be nil if the debt was not acquired for the purpose of gaining or producing income from a business or property or as consideration for a disposition of property to an arm’s length person:
+(g) a taxpayer’s loss, if any, from the disposition of a property (other than, for the purposes of computing the exempt surplus or exempt deficit, hybrid surplus or hybrid deficit, and taxable surplus or taxable deficit of the taxpayer in respect of another taxpayer, where the taxpayer or, if the taxpayer is a partnership, a member of the taxpayer is a foreign affiliate of the other taxpayer, a property that is, or would be, if the taxpayer were a foreign affiliate of the other taxpayer, excluded property (within the meaning assigned by subsection 95(1)) of the taxpayer), to the extent that it is
+. . .
+(ii) a loss from the disposition of a debt or other right to receive an amount, unless the debt or right, as the case may be, was acquired by the taxpayer for the purpose of gaining or producing income from a business or property (other than exempt income) or as consideration for the disposition of capital property to a person with whom the taxpayer was dealing at arm’s length.
+[44] Subsection 50(1) of the ITA is an elective provision that will deem a disposition of a debt for nil proceeds in certain circumstances:
+50.(1) Debts established to be bad debts and shares of bankrupt corporation
+—For the purposes of this subdivision, where
+(a) a debt owing to a taxpayer at the end of a taxation year (other than a debt owing to the taxpayer in respect of the disposition of personal-use property) is established by the taxpayer to have become a bad debt in the year, or
+. . .
+and the taxpayer elects in the taxpayer’s return of income for the year to have this subsection apply in respect of the debt or the share, as the case may be, the taxpayer shall be deemed to have disposed of the debt or the share, as the case may be, at the end of the year for proceeds equal to nil and to have reacquired it immediately after the end of the year at a cost equal to nil.
+[45] Section 54 includes the definitions of “adjusted cost base” and “capital property”:
+54. Definitions — In this subdivision,
+“adjusted cost base” to a taxpayer of any property at any time means, except as otherwise provided,
+(a) where the property is depreciable property of the taxpayer, the capital cost to the taxpayer of the property as of that time, and
+(b) in any other case, the cost to the taxpayer of the property adjusted, as of that time, in accordance with section 53,
+except that
+(c) for greater certainty, where any property (other than an interest in or a share of the capital stock of a flow-through entity within the meaning assigned by subsection 39.1(1) that was last reacquired by the taxpayer as a result of an election under subsection 110.6(19)) of the taxpayer is property that was reacquired by the taxpayer after having been previously disposed of by the taxpayer, no adjustment to the cost to the taxpayer of the property that was required to be made under section 53 before its reacquisition by the taxpayer shall be made under that section to the cost to the taxpayer of the property as reacquired property of the taxpayer, and
+(d) in no case shall the adjusted cost base to a taxpayer of any property at any time be less than nil;
+“capital property” of a taxpayer means
+(a) any depreciable property of the taxpayer, and
+(b) any property (other than depreciable property), any gain or loss from the disposition of which would, if the property were disposed of, be a capital gain or a capital loss, as the case may be, of the taxpayer;
+[46] Subsection 248(1) defines “active business”, “adjusted cost base”, “capital loss” and “small business corporation” for the purposes of the ITA:
+248.(1) Definitions — In this Act,
+“active business”, in relation to any business carried on by a taxpayer resident in Canada, means any business carried on by the taxpayer other than a specified investment business or a personal services business;
+. . .
+“adjusted cost base” has the meaning assigned by section 54;
+. . .
+“capital loss” for a taxation year from the disposition of any property has the meaning assigned by section 39;
+. . .
+“small business corporation”, at any particular time, means, subject to subsection 110.6(15), a particular corporation that is a Canadian-controlled private corporation all or substantially all of the fair market value of the assets of which at that time is attributable to assets that are
+(a) used principally in an active business carried on primarily in Canada by the particular corporation or by a corporation related to it,
+(b) shares of the capital stock or indebtedness of one or more small business corporations that are at that time connected with the particular corporation (within the meaning of subsection 186(4) on the assumption that the small business corporation is at that time a “payer corporation” within the meaning of that subsection), or
+(c) assets described in paragraphs (a) and (b),
+including, for the purpose of paragraph 39(1)(c), a corporation that was at any time in the 12 months preceding that time a small business corporation, and, for the purpose of this definition, the fair market value of a net income stabilization account shall be deemed to be nil.
+III. Analysis
+[47] Subdivision c of Division B of Part I of the ITA addresses capital gains and capital losses. In general terms, by virtue of the parenthetical language in paragraphs 39(1)(a) and (b) of the ITA, a gain or a loss from the disposition of a property is a capital gain or a capital loss (and hence the property is a capital property [27] ) if the gain or loss is not included or deducted in computing income under section 3 other than by virtue of paragraph 3(b) or by virtue of being an ABIL. The determination of whether a particular gain or loss is a capital gain or capital loss is made under the case law principles addressing the distinction between income and capital. [28]
+[48] Subsection 40(1) of the ITA describes how to calculate a gain or loss on a disposition of any property. A gain occurs if the proceeds of disposition for the property exceed the sum of the adjusted cost base of the property immediately before the disposition of the property and the outlays and expenses incurred to make the disposition. Conversely, a loss occurs if the sum of the adjusted cost base of the property immediately before the disposition of the property and the outlays and expenses incurred to make the disposition exceeds the proceeds of disposition for the property.
+[49] Accordingly, for the Appellant to have a loss of $2,950,000 from the disposition of a debt the Appellant must have disposed of a debt for nil proceeds of disposition and, at the time of the disposition, that debt must have had an adjusted cost base to the Appellant of $2,950,000 (or the adjusted cost base plus any expenses of disposition must total $2,950,000).
+[50] If the gain or loss on the disposition of a property is a capital gain or a capital loss determined in accordance with the applicable case law principles, one-half of the capital gain (called the taxable capital gain) is included in income and one-half of the capital loss (called the allowable capital loss) is deductible against taxable capital gains. [29]
+[51] A business investment loss is a category of capital loss that is subject to special rules regarding its deductibility. [30] A taxpayer may deduct one-half of a business investment loss, which is called an allowable business investment loss or ABIL, in computing income from all sources. [31] This departs from the general rule that an allowable capital loss may be deducted only against taxable capital gains. If an ABIL is not fully utilized in the year it is realized, the unused portion of the loss may be carried back up to 3 years and forward up to 10 years and be applied to reduce income in those years in accordance with the rules in section 111 of the ITA. [32]
+[52] Paragraph 39(1)(c) of the ITA determines whether a capital loss is a business investment loss. The portion of paragraph 39(1)(c) relevant to this appeal is as follows:
+(c) a taxpayer’s business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer’s capital loss for the year from a disposition after 1977
+(i) to which subsection 50(1) applies, or
+(ii) to a person with whom the taxpayer was dealing at arm’s length
+of any property that is
+. . .
+(iv) a debt owing to the taxpayer by a Canadian-controlled private corporation (other than, where the taxpayer is a corporation, a debt owing to it by a corporation with which it does not deal at arm’s length) that is
+(A) a small business corporation,
+(B) a bankrupt that was a small business corporation at the time it last became a bankrupt, [33] or
+(C) a corporation referred to in section 6 of the Winding-up and Restructuring Act that was insolvent (within the meaning of that Act) and was a small business corporation at the time a winding-up order under that Act was made in respect of the corporation.
+[Emphasis added.]
+[53] The Respondent’s principal position is that the Appellant did not dispose of a debt owing to the Appellant in its 2010 taxation year because no such debt existed. The Respondent submits that the Appellant was a borrower of the Second Loan and that the SA&D merely allocated the joint and several liability of the borrowers among those borrowers.
+[54] The Appellant’s position is that the SA&D resulted in 1207330 owing to the Appellant $2,950,000 on the bankruptcy of 1207330 and that this debt was disposed of for a loss of $2,950,000 either on the bankruptcy of 1207330 or by virtue of the election by the Appellant made under subsection 50(1) of the ITA in its 2010 T2 tax return.
+[55] The issue of whether 1207330 owed a debt of $2,950,000 to the Appellant and the related issue of the adjusted cost base of that debt to the Appellant require consideration of the agreements entered into by 1207330 with the Appellant and/or with other persons and the circumstances surrounding those agreements. The relevant principles of contractual interpretation are described by the Supreme Court of Canada in Sattva Capital Corp. v. Creston Moly Corp., 2014 SCC 53, [2014] 2 S.C.R. 633 (“Sattva”). [34] There, the Court explained the role of the surrounding circumstances in the interpretation of a contract, as follows:
+While the surrounding circumstances will be considered in interpreting the terms of a contract, they must never be allowed to overwhelm the words of that agreement (Hayes Forest Services, at para. 14; and Hall, at p. 30). The goal of examining such evidence is to deepen a decision-maker’s understanding of the mutual and objective intentions of the parties as expressed in the words of the contract. The interpretation of a written contractual provision must always be grounded in the text and read in light of the entire contract (Hall, at pp. 15 and 30-32). While the surrounding circumstances are relied upon in the interpretive process, courts cannot use them to deviate from the text such that the court effectively creates a new agreement (Glaswegian Enterprises Inc. v. B.C. Tel Mobility Cellular Inc. (1997), 101 B.C.A.C. 62). [35]
+[56] 1207330 entered into the Franchise Agreement with SFI on October 12, 2006. Under section 8.1 of the Franchise Agreement, 1207330 was responsible for securing a suitable lease and, under paragraph 8.2(a), for constructing, “fixturing”, equipping, furnishing and decorating the Sawmill Capilano restaurant in the manner set out in section 8.2. Also under section 8.2 of the Franchise Agreement, 1207330 was responsible for all costs and expenses, as defined in section 3.1 of the Franchise Agreement.
+[57] Paragraphs 14.1(d) and (e) of the Franchise Agreement state that SFI may declare the Franchise Agreement terminated if there is an assignment in bankruptcy by 1207330 or 1207330 otherwise becomes bankrupt. Paragraph 14.3(a) of the Franchise Agreement states that 1207330 shall promptly pay to SFI all sums owing or accrued prior to the termination.
+[58] The Appellant was not a party to the Franchise Agreement and therefore had no rights or entitlements under the Franchise Agreement. Consistent with this fact, the Appellant made no claim after the bankruptcy order was issued against 1207330. While the Statement of Affairs of 1207330 (Form 78) sworn by Jeff Siffledeen on November 26, 2009 did list the Appellant as a creditor of 1207330, the amount of unsecured debt and secured debt was $2 in total. In June 2011, SFI filed an Amended Proof of Claim against 1207330. [36]
+[59] Following the bankruptcy of 1207330, 1501062 stepped into the shoes of 1207330 and paid the accounts associated with the Sawmill Capilano restaurant. In January 2012, 1501062 became a guarantor of the Second Loan. [37]
+[60] 1207330, the Appellant, SRGL, SFI and SFHI were the borrowers of the Second Loan, with joint and several liability. [38]
+[61] The Canadian Law Dictionary (7th ed.) defines “joint and several” as follows:
+The condition in which rights and liabilities are shared among a group of persons collectively and also individually. Thus, if defendants in a negligence suit are jointly and severally liable, all may be sued together or any one may be sued for full satisfaction to the injured party.
+[62] Accordingly, under the terms of the Letter of Offer, BDC could seek repayment of the Second Loan from any one of the borrowers, including the Appellant. The fact of joint and several liability does not in and of itself create a debt owed by 1207330 to the Appellant. Moreover, no portion of the principal amount of the Second Loan had been repaid as of July 31, 2010. [39]
+[63] The preamble on page 1 of the SA&D states that 1207330 entered into the SA&D in favour of the Appellant, SRGL, SFI, SFHI and Mr. Goodchild. In section 2.4 of the SA&D, 1207330 agrees to pay the outstanding Indebtedness to the Creditor, which is stated to be the Appellant, SRGL, SFI, SFHI and Mr. Goodchild.
+[64] I accept the Appellant’s submission that the definition of Indebtedness is broad and that section 8.1 of the SA&D allows the Creditor to declare all or any part of the Indebtedness to be immediately due and payable. The question however is whether, on or prior to July 31, 2010, the Indebtedness included the $2,950,000 principal amount of the Second Loan.
+[65] The definition of Indebtedness starts with the requirement that the word Indebtedness “shall be interpreted in its most comprehensive sense, whether incurred prior to, at the time of or subsequent to the entering into of this Agreement”. A plain reading of these words suggests to me that only debts incurred prior to the entering into of the SA&D and debts incurred after the entering into of the SA&D are included in Indebtedness.
+[66] For a debt to be incurred, there must be an obligation to pay the amount of the debt. This is consistent with the most common definition of the word “debt”, which is “an obligation to pay a sum certain or a sum readily reducible to a certainty.” [40] At no time on or prior to July 31, 2010 was 1207330 obligated to pay the principal amount of the Second Loan to the Appellant. Rather, 1207330 was obligated to pay the principal amount of the Second Loan to BDC, as was the Appellant.
+[67] The definition of Indebtedness does not create indebtedness as between the Debtor and the Creditor but rather identifies what indebtedness is included in the definition. This in turn determines what indebtedness is secured by the SA&D and what indebtedness 1207330 was liable to pay to the Creditor under the SA&D.
+[68] In my view, the bankruptcy of 1207330 did not in and of itself create Indebtedness owed to the Appellant by 1207330 as no amount in respect of the principal amount of the Second Loan would be included in Indebtedness until a payment was made by the Creditor to BDC in respect of that principal amount.
+[69] This conclusion is supported by the common law doctrine of contribution as it applies to the payment of a debt by a joint debtor and by the reference to Advances in the definition of Indebtedness.
+[70] With respect to the doctrine of contribution, in Lafrentz v. M & L Leasing Ltd Partnership, 2000 ABQB 714 at para 29, the Court stated:
+[29] There is, however, an equitable right to contribution among joint debtors. As noted by Glanville Williams in Joint Obligations, joint and several debtors who are liable in solidum have, subject to an agreement to the contrary, a right to contribution among themselves spread equally among them. If a debtor pays more than his equal share, he has a right to contribution in respect of the excess.
+[Emphasis and double emphasis added.]
+[71] In Sandhu v. MEG Place LP Investment Corp., 2015 ABQB 297, the Court applied this principle as follows at paragraphs 162 to 164:
+[162] The plaintiffs cite no authority for the argument that if the principals paid off a debt of LP V, then LP V became a debtor to the principals. In my view, merely paying off another’s obligation does not give rise to an action in debt: Re Cleadon Trust Ltd., [1939] 1 Ch. 286 (C.A.).
+[163] However, another cause of action based on the same facts has merit. In his classic text Joint Obligations (London: Butterworth, 1949), Williams set out the contribution obligations of joint obligors:
+Both joint and joint and several debtors ... have, subject to agreement to the contrary, a right of contribution among themselves. That is to say, if one of the debtors has paid more than his equal share of the debt, he has a right to receive contribution in respect of the excess from his co-debtors in equal shares .... [Para 83]
+The same principle has been restated many times, including recently in Chitty on Contracts, 29th ed. (London: Sweet & Maxwell, 2004) at para 17-027. Lafrentz v M & L Leasing, 2000 ABQB 714 is an example of its application.
+[164] I have found that LP V, Aurora and Humeniuk were indebted to P3 for the $5 million loan used to acquire MEG Place and that Aurora, Humeniuk and De Palma personally borrowed money from the plaintiffs to discharge that obligation. There is no evidence of any agreement among the co-obligors to the P3 loan to share responsibility in any way other than equally. By paying off the entire loan Aurora and Humeniuk paid more than their share and are entitled to contribution for their overpayment.
+[Emphasis added.]
+[72] With respect to the reference to Advances, the definition of Advance includes in Indebtedness any payments made by the Creditor for the benefit of 1207330, including payments by the Creditor to BDC. The clear purpose of this aspect of the definition of Indebtedness is to ensure that the Creditor (including the Appellant) may recover from 1207330 as Indebtedness any amount paid by the Creditor on behalf of the Debtor, including any amount paid by the Creditor on account of the principal amount of the Second Loan. Such Indebtedness is incurred by the Debtor when the Creditor pays an amount on behalf of the Debtor. The act of payment creates the Indebtedness, not the definition of Indebtedness read in the abstract. [41] The SA&D merely modifies the pro-rata contribution required by the common law.
+[73] According to the printout of payments provided by BDC, [42] as of July 31, 2010, the only payments made to the BDC in respect of the Second Loan had been interest payments. The evidence indicates that these payments were made by 1207330 (prior to bankruptcy) and 1501062 (after the bankruptcy). No portion of the principal amount of the Second Loan was paid until the first payment of principal on June 23, 2011 in the amount of $10,350. Accordingly, no portion of the principal amount of the Second Loan can be included in Indebtedness as an Advance until that date. The Second Loan remained outstanding until May 5, 2016 and 1207330 was not removed as the borrower of the Second Loan until January 11, 2012.
+[74] Even if the SA&D was interpreted as creating a debt owed by 1207330 to the Appellant in the amount of $2,950,000 that existed on or prior to July 31, 2010, which for the foregoing reasons it did not, the Appellant would have no adjusted cost base in that debt. The definition of “adjusted cost base” as it applies to non-depreciable capital property such as a debt refers to the cost to the taxpayer of the property adjusted, as of a particular time, in accordance with section 53 of the ITA.
+[75] In The Queen v. Stirling, [1985] 1 F.C. 342, the Federal Court of Appeal stated that the word “cost” means the price that the taxpayer gives up in order to get the asset. [43] In the case of a debt that is capital property to the creditor, the cost of the debt to the creditor would typically be either the amount advanced by the creditor to, or for the benefit of, the debtor or, if the debt is acquired from a person other than the debtor, the purchase price of the debt plus other costs directly incurred in acquiring the debt.
+[76] Leaving aside the fact that the SA&D does not state how the Indebtedness is allocated among those persons who constitute the Creditor, under the terms of the SA&D, if the Appellant made payments to BDC or to another for the benefit of 1207330, then that would create Indebtedness in favour of the Creditor. As well, since the Appellant would have incurred a cost to acquire the Indebtedness, the Appellant would have an adjusted cost base in the Indebtedness equal to that cost.
+[77] Unfortunately for the Appellant, the evidence is that as of July 31, 2010 the Appellant had paid no amount in respect of the principal amount of the Second Loan to BDC or to any other person for the benefit of 1207330. While other corporations in the Sawmill Group may have made payments in respect of the liabilities of 1207330, for example to pay costs and expenses under the Franchise Agreement that were not paid by 1207330 and to pay the interest on the Second Loan, and while adjustments may have been made in the intercompany accounts with respect to these payments, there is no evidence that the Appellant paid any amount to any person in respect of the principal amount of the Second Loan on or prior to July 31, 2010. Under the Letter of Offer, the obligation of the Appellant with respect to the principal amount of the Second Loan is an obligation of the Appellant to BDC and does not constitute the cost of a debt owed by 1207330 to the Appellant.
+[78] No doubt the arrangements among BDC, the Sawmill Group and 1207330 could have been structured to create a debt of $2,950,000 owed by 1207330 to the Appellant, for example by having the Appellant borrow from BDC and then loan the borrowed money to 1207330. Unfortunately, that structuring did not occur. The Canadian income tax jurisprudence is clear in establishing that, for the achievement of a particular income tax result for a transaction, the form of the transaction matters. In Friedberg v. Minister of National Revenue, 135 N.R. 61, [44] the Federal Court of Appeal stated at paragraph 4:
+[4] In tax law, form matters. A mere subjective intention, here as elsewhere in the tax field, is not by itself sufficient to alter the characterization of a transaction for tax purposes. If a taxpayer arranges his affairs in certain formal ways, enormous tax advantages can be obtained, even though the main reason for these arrangements may be to save tax (see Irving Oil Ltd. v. Minister of National Revenue, (1991), 126 N.R. 47; 91 D.T.C. 5106, per Mahoney, J.A.). If a taxpayer fails to take the correct formal steps, however, tax may have to be paid. If this were not so, Revenue Canada and the courts would be engaged in endless exercises to determine the true intentions behind certain transactions. Taxpayers and the Crown would seek to restructure dealings after the fact so as to take advantage of the tax law or to make taxpayers pay tax that they might otherwise not have to pay. While evidence of intention may be used by the courts on occasion to clarify dealings, it is rarely determinative. In sum, evidence of subjective intention cannot be used to “correct” documents which clearly point in a particular direction.
+[79] For the foregoing reasons, the appeal is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 26th day of July 2019.
+“J.R. Owen”
+Owen J.
+CITATION:
+2019 TCC 156
+COURT FILE NO.:
+2015-3149(IT)G
+STYLE OF CAUSE:
+MOOSE FACTORY RESTAURANT PROPERTIES LTD. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATES OF HEARING:
+May 13 and 14, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice John R. Owen
+DATE OF JUDGMENT:
+July 26, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Neil T. Mather
+Counsel for the Respondent:
+Margaret McCabe
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Neil T. Mather
+Firm:
+Neil T. Mather Professional Corporation
+Edmonton, Alberta
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Moose Factory was the only restaurant in the Sawmill Group that did not use the Sawmill name.
+[2] Exhibit A-7.
+[3] Section 9 of the Franchise Agreement.
+[4] The Sawmill Capilano restaurant started operating in September 2008 and apparently funded some of the costs and expenses from cash flow.
+[5] Exhibit A-8.
+[6] Exhibit A-13.
+[7] Exhibit A-14.
+[8] See pages 9 and 10 of Exhibit A-13 and the third page of Exhibit A-14.
+[9] See page 2 of Exhibit A-13.
+[10] Handwritten changes amend 15% to 5% in accordance with Exhibit A-14.
+[11] Exhibit A-15.
+[12] Exhibit A-17.
+[13] Exhibit A-16.
+[14] Exhibit A-22. The exhibit includes a copy of Form 67 (Notice of Bankruptcy and First Meeting of Creditors) and Form 78 (Statement of Affairs).
+[15] Exhibit A-22.
+[16] Exhibit A-23.
+[17] Exhibit A-24.
+[18] Exhibits R-1 and R-2.
+[19] Exhibits A-30 and A-31.
+[20] Exhibit A-32.
+[21] Exhibits A-29 and A-30.
+[22] Exhibit A-36.
+[23] Exhibit A-25.
+[24] Exhibit A-28.
+[25] Exhibit A-28.
+[26] Clause 39(1)(c)(iv)(B) was amended by S.C. 2017, c. 33, subsection 9(1), applicable in respect of bankruptcies that occur after April 26, 1995. The amended version is reproduced here.
+[27] Paragraph (b) of the definition of “capital property” in section 54 of the ITA.
+[28] Peter W. Hogg, Joanne E. Magee and Jinyan Li, Principles of Canadian Income Tax Law, 5th ed. (Toronto: Thomson Carswell, 2005) at pages 80-81.
+[29] Paragraph 3(b) of the ITA.
+[30] Paragraph 39(1)(c) refers to a capital loss on certain dispositions of certain property.
+[31] Section 3(d) of the ITA.
+[32] The 10-year carry-forward period for an ABIL (which is less than the 20-year carry-forward for a non-capital loss) is a result of E(c) in the definition of “non-capital loss” in subsection 111(8) of the ITA. If an ABIL is not applied within those 10 years, it becomes a “net capital loss” deductible against taxable capital gains: see the definition of “net capital loss” in subsection 111(8) of the ITA.
+[33] Clause 39(1)(c)(iv)(B) was amended by S.C. 2017, c. 33, subsection 9(1), applicable in respect of bankruptcies that occur after April 26, 1995. The amended version is reproduced here.
+[34] At paragraphs 42 to 61. The contracts in issue here are not standard form contracts: Ledcor Construction Ltd. v. Northbridge Indemnity Insurance Co., 2016 SCC 37, [2016] 2 S.C.R. 23 at paragraphs 19 to 48.
+[35] Sattva, supra, paragraph 57.
+[36] Exhibits A-23 and A-24.
+[37] Exhibit A-25.
+[38] Exhibits A-13 and A-14.
+[39] Exhibit A-28.
+[40] C.R.B. Dunlop, Creditor-Debtor Law in Canada, 2nd ed. (Toronto: Carswell, 1995) at page 16. Halsbury’s Laws of Canada provides a more comprehensive definition to the same general effect (Halsbury’s Laws of Canada – Debtor and Creditor, I. INTRODUCTION 2. Debt Repayment, (1) Meaning of Debt, What constitutes a debt):
+A debt includes any claim, legal or equitable, on contract, express or implied or under a statute, on which a certain sum of money, not being unliquidated damages, is due and payable, though an inquiry may be necessary to ascertain the exact amount due. It is a sum payable in respect of a liquidated money demand recoverable by action. A debt need not be based on a promise to pay, and can be imposed unilaterally, such as by a statutory obligation to pay levies or charges.
+[41] I note that the SA&D does not specify how to determine a particular Creditor’s entitlement to any such Indebtedness.
+[42] Exhibit A-28.
+[43] At page 343; see also Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54, [2005] 2 S.C.R. 601 at paragraph 74, where the Supreme Court of Canada stated in the context of the capital cost allowance provisions in the ITA:
+Textually, the CCA provisions use “cost” in the well-established sense of the amount paid to acquire the assets. Contextually, other provisions of the Act support this interpretation. . . .
+[44] An appeal of the Crown to the Supreme Court of Canada was dismissed from the bench without this point being addressed: [1993] 4 S.C.R. 285.

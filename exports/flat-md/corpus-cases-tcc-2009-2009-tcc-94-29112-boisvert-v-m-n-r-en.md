@@ -1,0 +1,205 @@
+---
+title: "Boisvert v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29112/index.do"
+last_modified: "2009-02-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 94"
+citation2: ""
+neutral_citation: "2009 TCC 94"
+decision_date: "2009-02-23"
+language: "en"
+item_id: "29112"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6673
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:32:11.091000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "63e07adac2db55e4a2efa3e960b8549ed59b6e13d6db1002cec38976142e70f1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boisvert v. M.N.R.
+
+- Citation: 2009 TCC 94
+- Decision date: 2009-02-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6673, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boisvert v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-23
+Neutral citation
+2009 TCC 94
+File numbers
+2008-1316(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-1316(EI)
+BETWEEN:
+PATRICK BOISVERT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 12, 2009, at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal under subsection 103(1) of the Employment Insurance Act is dismissed on the basis that Mr. Boisvert was not employed in insurable employment by 9164‑0367 Québec Inc. from January 6 to July 29, 2006, and the decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 23rd day of February 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+On this 6th day of April 2009
+Monica Chamberlain, Reviser
+Citation: 2009 TCC 94
+Date: 20090223
+Docket: 2008-1316(EI)
+BETWEEN:
+PATRICK BOISVERT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant is appealing from a decision of the Minister of National Revenue (the Minister) under the Employment Insurance Act (the Act). The Minister decided that Patrick Boisvert (the worker) was not employed in insurable employment when working for 9164-0367 Québec Inc. (the Payor). This decision was based on his determination that the employment was excluded because a similar contract would not have been entered into if the worker and the Payor had been dealing with each other at arm's length. The relevant employment period was from January 6 to July 29, 2006.
+[2] In making his decision, the Minister relied on the following assumptions of fact, set out in paragraphs 5 and 6 of the Reply to the Notice of Appeal:
+[translation]
+5. The Appellant and the Payor are related persons within the meaning of the Income Tax Act because
+(a) the Payor's shareholders were
+- Pierre-Luc Boulé-Orichefqui, with 50% of the voting shares, [admitted]
+- Karine Boulé-Orichefqui with 50% of the voting shares, and [admitted]
+- Michel Orichefqui with 63 000 non-voting shares; [denied]
+(b) Pierre-Luc and Karine are Michel Orichefqui's children; [admitted]
+(c) the Appellant was Karine Orichefqui's spouse; and [admitted]
+(d) the Appellant was related to a group of persons that controlled the Payor. [neither admitted or denied]
+6. The Minister determined that the Appellant and the Payor were not dealing with each other at arm's length in connection with the employment. Indeed, the Minister was satisfied that it was reasonable to conclude that the Appellant and the Payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, having regard to the following circumstances:
+(a) The Payor was incorporated on January 20, 2006; [neither admitted nor denied]
+(b) The Payor operated a restaurant/bar in Lac‑Mégantic under the business name Resto-Pub Le Kaméléon from February 1 to September 30, 2006. [neither admitted nor denied]
+(c) The Payor commenced operations by renting the dining room and all the equipment of Motel sur le lac in Frontenac for 12 months. [admitted]
+(d) The contract for the lease of the dining room and bar included a purchase option clause and was signed by the Payor's three shareholders and by the Appellant. [admitted]
+(e) The Payor's restaurant had 80 seats and a liquor licence. There were daily menus, and, during the weekend, fixed-price theme menus. [admitted]
+(f) The Payor hired as many as 15 people, including the shareholders. [admitted]
+(g) Together with his spouse Karine Boulé-Orichefqui, the Appellant launched the project to operate a restaurant because he had a lot of experience in the field. [neither admitted nor denied]
+(h) Even though he was the person who initiated the project and had experience in the field, the Appellant never held any shares in the Payor's business because he had a criminal record. [underlined words denied]
+(i) Karine Boulé-Orichefqui stated that the Appellant attended all meetings of the Payor's board of directors (the three shareholders) whereas the Appellant stated the contrary. [denied]
+(j) The Appellant was apparently hired under the terms of a written contract the existence of which is disputed by the Payor and the signing parties. [admitted]
+(k) The Appellant was hired to start up the business and work there as executive chef, manager and head chef for approximately six months. [admitted]
+(l) As executive chef, the Appellant had the following duties: prepare the business plans and start up the restaurant, develop the menus, order the missing equipment and supplies, purchase the products, hire the staff, prepare the work schedules and pay the suppliers. [admitted]
+(m) As manager, the Appellant was responsible for training the employees and following up on them by supervising their work and controlling their hours of work. [admitted]
+(n) The Appellant, like the Payor's other three shareholders, was authorized to sign the Payor's cheques; he was initially permitted to sign them alone, but, as of March 2006, two signatures, including that of Michel Orichefqui, were required. [admitted]
+(o) Unlike all the Payor's employees, the Appellant had no work schedule to comply with and the Payor did not keep track of his hours. [denied]
+(p) The Appellant claims that he worked seven days a week and 80-90 hours per week except toward the end of the period when he worked slightly fewer hours. [admitted]
+(q) According to the Appellant's version of the facts, the Appellant made an agreement with the Payor under which he would receive $2,500 weekly (gross) payable as follows: $700 in cash, $800 by cheque, and the balance of $1000 to be withheld by the Payor to cover provincial and federal income tax, QPP, and EI. [admitted]
+(r) According to the Payor's version of the facts, the Payor was to pay a net salary of $1,000 per week for the couple, that is to say, for the services of the Appellant and of his spouse Karine Boulé-Orichefqui. [denied]
+(s) The Appellant claims that he received $700 in cash per week, whereas the Payor claims that it did not pay any cash amounts to the Appellant. [admitted]
+(t) The paycheques issued by the Payor disclose that no cheques were issued prior to February 9, 2006, and that the first 15 paycheques were issued to Karine Boulé-Orichefqui. [admitted]
+(u) Moreover, the last cheque issued to the Appellant was in the amount of $600 and was dated August 4, 2006. [admitted]
+(v) We were unable to confirm the Appellant's true remuneration during the period in issue. [neither admitted nor denied]
+(w) The Appellant apparently ceased working after the Payor's sales decreased and after he separated from his spouse. [denied]
+(x) Following the closing of the Payor's business, the holders of the Payor's voting shares went personally bankrupt and Michel Orichefqui lost his investment in the business (roughly $60,000). [admitted]
+(y) As for the Appellant, on August 26, 2006, he signed an acknowledgment of debt with Michel Orichefqui, in which he agreed to repay, inter alia, the sum of $27,000, representing part of the loss incurred by the Payor's restaurant. [denied]
+. . .
+(aa) The period in issue only began on January 6, 2006, when the Appellant had supposedly prepared the business plan, in all likelihood prior to opening the restaurant and the bar. [admitted]
+[3] The worker testified. Bianca Dubois, the worker's common-law spouse, also testified in support of the worker's position. In addition, Michel Orichefqui, and Francine Deschesnes, the appeals officer responsible for reviewing the initial decision, testified in support of the Minister's decision.
+The worker's testimony
+[4] The worker's testimony discloses, inter alia, as follows:
+(i) He and the Payor entered into a written employment contract (Exhibit A‑3) on January 5, 2006. I would immediately note that Michel Orichefqui testified that there was no written contract between the two, and that the signature on the contract adduced as Exhibit A‑3 was not his signature.
+(ii) In 2005,which is outside the relevant period, he devoted roughly 300 unpaid hours to finding premises for a restaurant, preparing the business plan for the Payor, developing menus, negotiating the lease, ordering materials, finding food suppliers, negotiating the prices with those suppliers, and, lastly, hiring qualified staff. In this regard, the worker explained that it was precisely because the worker had not been paid for those 300 hours that the remuneration agreed upon with the Payor was $2,500 per week.
+(iii) The worker signed the lease adduced as Exhibit I-1 in his capacity as co-tenant of the premises in which the restaurant was operated during the relevant period.
+(iv) The worker attended half the meetings of the Payor's board of directors. I should note that the worker told Ms. Deschesnes that he did not attend any such meetings.[1]
+(v) The worker had a schedule to comply with. He added that his hours of work were tabulated by Michel or Karine Orichefqui. I should note that the worker told Ms. Deschesnes that he [translation] "filled out a time sheet by hand, like all the other employees".[2] In addition, I should note that Michel Orichefqui told Ms. Deschesnes that the worker had no schedule to comply with and never filled out any time sheets.[3]
+(vi) The worker never signed the acknowledgment of debt which was adduced as Exhibit I‑3 and under which he supposedly promised, inter alia, to reimburse the sum of $27,000, representing part of the restaurant's operating loss incurred by the Payor. In this regard, the worker explained that he instituted litigation with a view to showing that his signature had been forged.
+(vii) He did not quit his job because the Payor's sales had diminished and he had separated from his spouse, but, rather, because the Payor's shareholders used the Payor's funds for personal purposes.
+The worker's remuneration
+[5] With respect to the worker's remuneration, I would note that the employment contract adduced as Exhibit A‑3 provided that the Payor agreed to pay the worker [translation] "$2,500 per week, gross, and, by agreement with the employee, that his take-home pay be $1,500 so that the source deduction refund is higher and Mr. Boisvert does not have to pay anything at the end of the fiscal year . . ." In this regard, the worker explained that the $2,500 weekly gross pay was given to him as follows: $700 in cash, $800 by cheque payable to him or his common-law spouse Karine B. Orichefqui, and the remaining $1,000 was withheld by the Payor to cover his income and payroll taxes. The worker explained that he occasionally instructed the Payor to write the cheques to his common-law spouse Karine B. Orichefqui because she was able to cash them more quickly at her bank. The worker added that his spouse always gave him the proceeds from the cheques, which he then quickly deposited into his bank account in order to cover outstanding cheques or pre‑authorized payments. It should be noted that the worker could have adduced his bank statements to show that he deposited $1,500 in cash for 29 weeks in 2006. He was in a position to provide such evidence, but he did not. The inference that I draw from this is that such evidence would have been unfavourable to him. The statements made by Michel Orichefqui and his daughter Karine to Ms. Deschesnes (whose credibility cannot be impeached) in respect of the worker's remuneration are worth immediately quoting:
+[translation]
+47. Karine Boulé-Orichefqui's role was to wait tables and tend bar, and Pierre-Luc Boulé-Orichefqui helped out on weekends as a maître d'. Neither of them was responsible for management until Patrick Boisvert left.
+48. Together, they all determined the salary to be paid to Patrick Boisvert and Karine Boulé-Orichefqui.
+49. The Payor determined a salary for the couple: $1,000 net per week, or, in other words, $500 net per week for Karine Boulé-Orichefqui and $500 net per week for Patrick Boisvert. Each person was responsible for income tax at year-end. There was never any agreement to pay Patrick Boisvert $2,500 per week.
+Note: The worker says that two signatures were always required.
+50. The company paid the couple $1,000 for the first three weeks, and then paid them $800 per week as cash flow permitted. In many cases, only one cheque was issued for the couple. The Payor says that it never made a weekly cash payment of $700.
+Note: The worker says that he received $700 in cash per week at all times.
+57. Michel Orichefqui claims never to have prepared a T4 for Patrick Boisvert or to have handed him one.
+Note: The worker says otherwise.
+68. Karine Boulé-Orichefqui stated, and I quote: [translation] "We issued ourselves cheques for $800 net per week, and those cheques were for us both. He and I decided what our salary would be. Sometimes the cheque was payable to me, and sometimes it was payable to him. When the cheque had my name on it, I cashed it and gave him $400."
+I would note that, in his testimony concerning the worker's remuneration, Michel Orichefqui essentially reiterated the statements that he had made to Ms. Deschesnes. In addition, based on my analysis of the cheques (Exhibit I‑2) issued by the Payor to the worker and his spouse from February 9 to May 19, 2006,
+(1) the amount of the cheques ranges from $150 to $1,600,
+(2) the amount on 18 of the 29 cheques is $800, and
+(3) the cheques issued from February 9 to May 19, 2006, were payable to Karine Boulé-Orichefqui.
+[6] In addition, I would note that the first T4 slip tendered in evidence by the Appellant (Exhibit A‑2) states that the worker received $43,500 in remuneration from the Payor in 2006. As we have seen, Mr. Orichefqui told Ms. Deschesnes that the Payor never produced any forms concerning the remuneration that it paid the worker and Karine B. Orichefqui. In addition, Ms. Deschesnes testified that the Canada Revenue Agency (CRA) received the T4 in question on November 20, 2007. Lastly, I would point out that the amended T4, tendered in evidence by the Appellant as Exhibit A‑4, states that the Appellant received $72,500, not $43,500, in remuneration from the Payor in 2006. Ms. Deschesnes testified that the CRA received that amended T4 on May 7, 2008. She added that she was unable to identify the person who sent these T4s to her. Lastly, my analysis of the Payor's payroll journal discloses that the worker's name and that of his spouse Karine are not in the journal.
+The testimony of Bianca Dubois
+[7] The testimony of Bianca Dubois, which, in my opinion, must be considered with a great deal of caution since she is currently the worker's common-law spouse, would yield fairly little information in any event, other than that she witnessed the signing of the document constituting Exhibit A‑5 by Mr. Orichefqui, and the payment Mr. Orichefqui of a cash amount to the worker.
+The testimony of Ms. Deschesnes
+[8] According to Ms. Deschesnes' testimony, the Emploi‑Québec Web site indicates that, in 2006, the hourly wage of a chef in the Eastern Townships ranged from $10 to $15.99. Ms. Deschesnes concluded that the worker's hourly wage of $31.25 was markedly unreasonable in view of the fact that the worker's business was a start-up. In this regard, she noted that the Payor's gross revenues totalled $185,483 in 2006.
+Analysis and conclusion
+[9] It should be noted that the Respondent determined that the employment was not insurable in view of paragraph 5(2)(i) and subsection 5(3) of the Act, because he was satisfied that it was not reasonable to conclude, having regard to all the circumstances, that the Appellant and the Payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[10] The Federal Court of Appeal has repeatedly defined the role conferred on Tax Court of Canada judges by the Act. That role does not allow such judges to substitute their discretion for that of the Minister, but it carries with it the obligation to "verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so . . . decide whether the conclusion with which the Minister was "satisfied" still seems reasonable."[4]
+[11] In other words, before deciding that the conclusion with which the Minister was satisfied still seems reasonable, I must, in light of the evidence before me, verify whether the Minister's allegations are valid, having regard to the factors set out in paragraph 5(3)(b) of the Act. Thus, it should be asked whether the Appellant and the Payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[12] The Appellant had the burden of proving that the Minister did not exercise his discretion in accordance with the applicable principles, that is to say, the burden of showing, for example, that he did not examine all the relevant facts, or that he did not take account of facts that were relevant.
+[13] In light of the evidence before me, after considering the factors set out in paragraph 5(3)(a) of the Act (including, in particular, the remuneration paid and the duration and importance of the work performed) and verifying the merits of the allegations and conclusions with which the Minister was satisfied, I find those allegations and conclusions to be reasonable. Consequently, it is my opinion that the employment in issue did not constitute insurable employment.
+[14] Indeed, no person at arm's length from the Payor would have agreed not to be remunerated for 300 hours of work carried out in the performance of his or her duties. Moreover, it is clear that no Payor operating what was, as we have seen, a very small start-up business, would have agreed to pay an unrelated employee such high hourly remuneration. According to the worker's account, he received $72,500 in remuneration in exchange for 2,465 hours of work (20 weeks at an average of 85 hours per week) during the relevant period. Consequently, by his own admission, the worker's hourly wage would have been $29.41, which is markedly higher than the highest hourly wage paid elsewhere to a chef in the Eastern Townships in 2006. I should note that the worker did not prove that the statistics on which the Minister relied were erroneous. I should also note that the worker did not show that he was a well-known chef. Even if I had to assume that his $72,500 in remuneration included the 300 hours worked outside the relevant period, my finding would be the same, because an hourly remuneration of $26.22 would still be unreasonable in the case at bar.
+[15] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 23rd day of February 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+On this 6th day of April 2009
+Monica Chamberlain, Reviser
+CITATION: 2009 TCC 94
+COURT FILE NO.: 2008-1316(EI)
+STYLE OF CAUSE: PATRICK BOISVERT AND M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: January 12, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: February 23, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Exhibit I-7, at paragraph 35.
+[2] See Exhibit I-7, at paragraph 25.
+[3] See Exhibit I-7, at paragraph 52.
+[4] Légaré v. Canada (Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878 (QL), at paragraph 4.

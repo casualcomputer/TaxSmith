@@ -1,0 +1,163 @@
+Title: Lessard v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27376/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-45-27376-lessard-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-01-18
+
+# Lessard v. The Queen
+
+- Citation: 2006 TCC 45
+- Decision date: 2006-01-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 133, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lessard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-18
+Neutral citation
+2006 TCC 45
+File numbers
+2004-2455(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2455(IT)I
+BETWEEN:
+FRANCINE LESSARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 30, 2005 at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Bruno Grenier
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under the Income Tax Act for the 2002 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of January 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 22nd day of June 2006
+Monica F. Chamberlain, Reviser
+Citation: 2006TCC45
+Date: 20060118
+Docket: 2004-2455(IT)I
+BETWEEN:
+FRANCINE LESSARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This case involves an appeal under the informal procedure in respect of the 2002 taxation year.
+[2] The issue in this case is whether a lump sum payment received in the form of disability benefit from the Régie des Rentes du Québec (the "Régie") in the amount of $28,882.47 must be included in calculating the income tax payable by the Appellant under the provisions of clause 56(1)(a)(i)(B) of the Income Tax Act (the "Act"), where the Appellant has disputed her entitlement to that amount.
+[3] The facts on which the Minister of National Revenue (the "Minister") based his assessment are set out at paragraph 11 of the Reply to the Notice of Appeal (the "Reply") as follows:
+[translation]
+(a)
+In producing her income tax return for the 2002 taxation year, the Appellant attached a T4A (P) information slip, stating that she had received an amount of $28,882.47 as disability payments from the Régime des Rentes du Québec;
+(b)
+The Appellant received and cashed this amount;
+(c)
+The slip also stated that this was a lump sum payment, of which an amount of $11,445.84 was attributable to the 2002 taxation year, $11,112.48 to the 2001 taxation year and $6,324.15 to the 2000 taxation year;
+(d)
+In submitting her tax return, the Appellant had reported an amount of $11,445.84 as a disability payment;
+(e)
+The Minister took into account the special calculation applicable to lump sum payments and determined that it would be more beneficial for the Appellant to include the entire amount in the 2002 taxation year rather than the years to which they refer;
+(f)
+The Appellant, who claims that she was not eligible for disability payments, has not to date reimbursed any of the benefit payments.
+[4] The benefits statement from the Régie des Rentes du Québec T4A (P), (Exhibit I-1) shows in box 16 a disability benefit in the amount of $28,882.47 for the year 2002.
+[5] On October 9, 2002, a decision by the review office agreed that the Appellant was disabled within the meaning the Quebec Pension Plan Act. The disability pension was to be paid to her beginning in June 2000, namely the fourth month following the month in which she became disabled (tab 28 of Exhibit A-1).
+[6] The Appellant filed an application dated January 24, 2003 asking the Tribunal Administratif du Québec ("TAQ") to set aside the decision of the review office. She was successful. The decision was set aside on November 2, 2004 (tab 21 of Exhibit A-1).
+[7] Following the decision by the TAQ, the Appellant received a request for reimbursement, dated November 18, 2004, in the amount of $51,427.33 for overpayments by the Régie. On February 17, 2005, a reminder of her debt to the Régie was issued (tab 25 of Exhibit A-1).
+[8] The Appellant explained that she did not consider herself disabled within the meaning of the Quebec Pension Plan Act, but that she was disabled for the purposes of the employment she held, namely that of senior counsel of the Régie du Bâtiment du Québec. This explains her action disputing the decision of the review office.
+[9] She stated that she had hesitated and taken her time before cashing the cheque from the Régie that she had received in 2002, but that she had cashed it. She did not return it to the issuer. However, she appealed the decision of the review office in January 2003 and won her case in 2004.
+Arguments
+[10] Counsel for the Appellant is disputing the quality of income of the amount received in 2002 from the Régie by the Appellant since, in 2004, the TAQ retroactively quashed the 2002 decision. According to Counsel, when a subsequent judgment retroactively quashes a previous decision, the assessment must also be cancelled, since the taxpayer is not entitled to the amounts paid.
+[11] Counsel for the Appellant referred to a decision by the Superior Court of Quebec in Leclair v. Markowski, [1978] Sup. Ct. 1132 to 1135, which established that, with regard to the past, nullity has the effect of retroactively nullifying all the effects produced by the contract:
+[translation]
+The Court shares the opinion expressed by Jean-Louis Beaudouin [J.-L. Beaudouin, Les obligations, Montréal, P.U.M., 1970, No. 243, p. 140] to the effect that absolute nullity and relative nullity produce identical legal effects: with regard to the future, nullity has the effect of terminating the contract; with regard to the past, it retroactively nullifies all the effects produced by the contract.
+[12] Counsel refers to the case law with regard to the meaning to be given to the word "income", including a decision by the Supreme Court of Canada in Gagnon v. Canada, [1986] 1 S.C.R. 264, and paragraph 30 of that decision:
+30 In Robertson, supra, [1944 Ex. Ct. 170], Thorson, P. of the Exchequer Court, had to decide whether certain amounts received on deposit constituted income. At pages 182-183 he wrote:
+... the question remains whether all of the amounts received by the appellant during any year were received as income or became such during the year. Did such amounts have, at the time of their receipt, or acquire, during the year of the receipt, the quality of income, to use the phrase of Mr. Justice Brandeis in Brown v. Helvering (1934), 291 U.S. 193? In my judgment, the [page 274] language used by him, to which I have already referred, lays down an important test as to whether an amount received by a taxpayer has the quality of income. Is his right to it absolute and under no restriction, contractual or otherwise, as to its disposition, use or enjoyment?
+[13] Counsel noted that the Appellant's entitlement to disability benefits received from the Régie was not free of all restrictions, as the judgment of the TAQ in 2004 nullified all the effects produced by the decision of the review office, the source of payment in 2002.
+[14] Counsel for the Respondent said that the Respondent is not disputing the fact that the Appellant has from the outset maintained that she was not entitled to receive this money, but that does not remove the quality of income in respect of that amount received in 2002.
+[15] He referred to a decision by Archambault J. of this Court, Théberge v. Canada, [2003] T.C.J. No. 120 (QL) and in particular to paragraphs 19, 20 and 21:
+19 This authority of the "quality of income" has been applied in a number of decisions in Canada including, in particular, Rodgers v. M.N.R., [1990] T.C.J. No. 1003; 91 DTC 129. In that case, at issue was whether severance pay in the amount of $120,000 paid by an employer on July 27, 1982, was "income" even though a few days later, in August 1982, the employer asked the taxpayer to recover the severance pay in light of new facts. On January 25, 1983, legal action was initiated against the taxpayer. Subsequently, in computing his income for the 1982 taxation year, the taxpayer deducted the amount of $120,000. At issue, then, was whether the uncertainty concerning the taxpayer's entitlement to retain the amount of $120,000 was sufficient to conclude that this amount no longer had the quality of income. Christie A.C.J. concludes as follows at page 4 (DTC: at page 131):
+When the Appellant received the $120,000 in 1982 it was not subject to specified conditions about its use or disposition. He was then in a position to use the money as he saw fit even though he might subsequently have to repay some or all of it. I believe that when Thorson J. spoke of "specific and unfulfilled conditions" and when Taschereau J. used the words "free of any restriction", they had in mind conditions and restrictions on the use of funds that arise, for example, in the creation of a trust. There specific equitable obligations exist at the time of receipt that are binding on the trustee in respect of the manner in which he deals with the trust property. Another example that comes to mind is when a taxpayer acts as an escrow agent in respect of money. Undoubtedly there are others.
+[Emphasis added.]
+20 In support of that conclusion, Christie A.C.J. also cited Commonwealth Construction Company Ltd. v. Canada (FCA) [1984] F.C.J. No. 416; (QL), 84 DTC 6420). In particular, he quotes the following passage by Urie J. at page 5 (DTC: at page 6424:
+To apply phrases from that quotation to the case at bar, the record discloses that the rights of the Appellant to the amounts paid to it in 1974 and 1975 were "absolute and under no restriction, contractual or otherwise, as to its disposition, use or enjoyment." They were not held subject to any specific and unfulfilled conditions. Once the conditions precedent imposed in the letter agreements between the parties, supra, had been fulfilled, as they were, the right to receive the monies and to retain them had accrued and was absolute. True, it might be necessary to return the monies in whole or in part if the appeal was successful. But, as I see it, that was a condition subsequent which did not affect the unrestricted right of the Appellant to use them until such a requirement occurred. It did not, as I see it, affect their quality as income on receipt.
+[Emphasis added.]
+21 From these passages, it can be seen that Mr. Théberge's obligation to repay the city of Montréal the amounts he received from the CSST is not sufficient to conclude that the wages paid to him by the city during the 1997 sick leave period no longer had the quality of income. Mr. Théberge had full use of the amounts paid by the city of Montreal. He could dispose of them as he saw fit. ...
+Analysis and conclusion
+[16] In addition to Théberge, (supra), which in my opinion provides a good explanation of the concept of the quality of income, I would refer to Gagnon (supra) at paragraphs 31, 33, 34 and 35:
+31 The Federal Court of Appeal apparently found in Robertson, the third aspect of what in its opinion constitutes an allowance, but if that is so, I consider that it misinterpreted the judgment in that case. What Thorson P. meant by "restriction" in the rule which he adopted was not a restriction as to the way in which an amount is disposed of, but a restriction as to the very right to dispose of it, a restriction which has the result that a taxpayer derives no benefit from it at all. This is indicated by what he wrote at p. 183:
+To put it another way, can an amount in a taxpayer's hands be regarded as an item of profit or gain from his business, as long as he holds it subject to specific and unfulfilled conditions and his right to retain it and apply it to his own use has not yet accrued, and my never accrue?
+33 In Brown v. Helvering, 291 U.S. 193 (1934), Brandeis J. had to decide whether commissions, which were potentially subject to partial reimbursement if event insurance policies were cancelled, constituted income for the agent in the year in which he received them. At page 199 he wrote:
+But the mere fact that some portion of it might have to be refunded in some future year in the event of cancellation or reinsurance did not affect its quality as income. Compare AmericanNational Co. v. United States, 274 U.S. 99. When received, the general agent's right to it was absolute. It was under no restriction, contractual or otherwise, as to its disposition, use or enjoyment.
+34 Here again, in view of the facts in Brown v. Helvering, it seems clear that in formulating a rule to determine what is in the nature of income, [page 275] Brandeis J. referred to restrictions on the very right to dispose of an amount, not to restrictions on the way in which it is used.
+35 What confirms my view is the restatement of this rule in Rutkin v. United States, 343 U.S. 130 (1952), affirmed in James v. United States, 366 U.S. 213 (1961), in which Warren C.J., at page 219, cites the restatement in Rutkin, at page 137:
+A gain "constitutes taxable income when its recipient has such control over it that, as a practical matter, he derives readily realizable economic value from it."
+This restatement of the rule for determining what constitutes taxable income emphasizes the benefit the taxpayer derives from income, whatever the way in which it is derived.
+[17] This decision states that a received amount does not lose the quality of income if the restriction to which it is subject concerns only the way in which it is disposed of and not the right itself to dispose of it. The fact that a received amount must ultimately be reimbursed has no effect on the quality of income, at the time that the person receives the amount in question, the person may dispose of it, use it or enjoy it. An earning constitutes taxable income when the person who receives it immediately derives from it an easily realisable economic value.
+[18] Clause 56(1)(a)(i)(B) and subparagraph 60(n)(ii) of the Act read as follows:
+56(1) Amounts to be included in income for the year - Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year
+(a) Pension benefits, unemployment insurance benefits, etc. - any amount received by the taxpayer in the year as, on account of or in lieu of payment of, or in satisfaction of:
+...
+(i) a superannuation or pension benefit including, without limiting the generality of the foregoing:
+...
+(B) the amount of any benefit under the Canada Pension Plan or a provincial pension plan as defined in Section 3 of that Act,
+60 Other deductions - There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable
+...
+(n) Repayment of pension or benefits - any amount paid by the taxpayer in the year as a repayment (otherwise than because of Part VII of the Unemployment Insurance Act, chapter U-1 of the Revised Statutes of Canada (1985), or of Part VII of the Unemployment Insurance Act, of any of the following amounts to the extent that the amount was included in computing the taxpayer's income, and not deducted in computing the taxpayer's taxable income, for the year or for a preceding taxation year, namely,
+(ii) a benefit described in clause 56(1)(a)(i)(B),
+[19] Pursuant to clause 56(1)(a)(i)(B) of the Act, any amount received in the year in payment of a benefit under a provincial pension plan must be included in the calculation of income in the year in which it is received.
+[20] It must be understood that according to the economy of the Act, a taxpayer must declare their income year by year. At the end of each year, the taxpayer must calculate their income as it is during that year and the tax is assessed as a function of that income.
+[21] In 2002, the Appellant received from the Régie an amount in payment of a disability benefit under the plan, an amount that she was entitled to dispose of. The right to dispose of the received amount is clear. The Appellant cashed the cheque and the money was paid into her account. Under a judgment handed down in 2004, the decision of the review office was set aside, and following this judgment, the Appellant received a demand for repayment of the amount paid. In 2002, she had obtained full ownership of this amount.
+[22] According to paragraph 11(e) of the Reply, the application of subsection 110.2 of the Act in respect of lump sum payments was not advantageous to the Appellant and was not applied. There was really no debate on this subject at the hearing.
+[23] To conclude this discussion, I will add that the Actstipulates that an amount paid by a taxpayer in reimbursement of a benefit under clause 56(1)(a)(i)(B), may be deducted in calculating income during the year in which the payment was made pursuant to subparagraph 60(n)(ii) of the Act.
+[24] The appeal must be dismissed
+Signed at Ottawa, Canada, this 18th day of January 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 22nd day of June 2006
+Monica F. Chamberlain, Reviser
+CITATION: 2006TCC45
+COURT FILE NO.: 2004-2455(IT)I
+STYLE OF CAUSE: FRANCINE LESSARD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 30, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: January 18, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Bruno Grenier
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Bruno Grenier
+Firm: Saint-Pierre Grenier
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

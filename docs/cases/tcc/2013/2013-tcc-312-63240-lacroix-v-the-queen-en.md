@@ -1,0 +1,330 @@
+---
+title: "Lacroix v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/63240/index.do"
+last_modified: "2013-10-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 312"
+citation2: ""
+neutral_citation: "2013 TCC 312"
+decision_date: "2013-10-02"
+language: "en"
+item_id: "63240"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6092
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:50:12.836000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "94f8b561ed6f742579541e4f704d2ab423ae56a10a9f6b4a0a3c3b5224783798"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lacroix v. The Queen
+
+- Citation: 2013 TCC 312
+- Decision date: 2013-10-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6092, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lacroix v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-10-02
+Neutral citation
+2013 TCC 312
+File numbers
+2009-3623(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3623(IT)I
+BETWEEN:
+JEAN-ROBERT LACROIX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Jean-Robert Lacroix (2012-1678(IT)I;
+2012-1683(IT)I; 2012-1684(IT)I)
+on April 12, 2013, at Ottawa, Canada
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the appellant:
+Chantal Donaldson
+Counsel for the respondent:
+Frédéric Morand
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of the 2007 taxation year made under the Income Tax Act is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of October 2013.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 8th day of January 2014
+Francie Gow, BCL, LLB
+Docket: 2012-1678(IT)I
+BETWEEN:
+JEAN-ROBERT LACROIX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Jean-Robert Lacroix (2009-3623(IT)I;
+2012-1683(IT)I; 2012-1684(IT)I)
+on April 12, 2013, at Ottawa, Canada
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Chantal Donaldson
+Counsel for the respondent:
+Frédéric Morand
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of the 2010 taxation year made under the Income Tax Act is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of October 2013.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 8th day of January 2014
+Francie Gow, BCL, LLB
+Docket: 2012-1683(IT)I
+BETWEEN:
+JEAN-ROBERT LACROIX,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Jean-Robert Lacroix (2009-3623(IT)I;
+2012-1678(IT)I; 2012-1684(IT)I)
+on April 12, 2013, at Ottawa, Canada
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the appellant:
+Chantal Donaldson
+Counsel for the respondent:
+Frédéric Morand
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of the 2008 taxation year made under the Income Tax Act is allowed such that the legal fees claimed are deductible up to $514.85, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of October 2013.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 8th day of January 2014
+Francie Gow, BCL, LLB
+Docket: 2012-1684(IT)I
+BETWEEN:
+JEAN-ROBERT LACROIX,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Jean-Robert Lacroix (2009-3623(IT)I;
+2012-1678(IT)I; 2012-1683(IT)I)
+on April 12, 2013, at Ottawa, Canada
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the appellant:
+Chantal Donaldson
+Counsel for the respondent:
+Frédéric Morand
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of the 2009 taxation year made under the Income Tax Act is allowed such that the legal fees claimed are deductible up to $725.60, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of October 2013.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 8th day of January 2014
+Francie Gow, BCL, LLB
+Citation: 2013 TCC 312
+Date: 20131002
+Dockets: 2009-3623(IT)I; 2012-1678(IT)I;
+2012-1683(IT)I; 2012-1684(IT)I
+BETWEEN:
+JEAN-ROBERT LACROIX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] These appeals heard on common evidence involve the judicial and extrajudicial fees (the fees) claimed by the appellant in preparing his income tax returns for the taxation years 2007, 2008, 2009 and 2010, claims that were rejected by the Minister of National Revenue (the Minister).
+[2] The parties produced a partial agreement as to the facts, which reads as follows:
+[translation]
+Invoices at issue
+In filing his tax returns for the 2007, 2008, 2009 and 2010 taxation years, Mr. Lacroix claimed the amounts of $20,816, $19,447, $11,240 and $22,936 in extrajudicial fees;[1] By Notices of Reassessment dated August 25, 2008, November 30, 2009, December 8, 2010, and November 8, 2010, the Minister of National Revenue denied Mr. Lacroix’s claims for the years at issue, except with respect to legal fees incurred in preparing, instituting or prosecuting objections to the Minister’s assessments of tax;[2]
+The legal fees claimed by Mr. Lacroix were incurred in three separate disputes; The first dispute involved Mr. Lacroix in his capacity as shareholder and creditor of Canadevim Ltée against trustee Verdier in a challenge of the bankruptcy of Canadevim Ltée, that company having contested its forced bankruptcy until the Court of Appeal rendered a judgment confirming it; The second dispute involved Mr. Lacroix in his capacity as representative of Canadevim Ltée under subsection 38(1) of the Bankruptcy and Insolvency Act against Her Majesty the Queen in the context of an appeal against a GST/QST assessment made in respect of Canadevim Ltée for the period from May 1, 1998, to October 31, 2001; The third dispute involved Mr. Lacroix and Her Majesty the Queen in the context of an appeal of a tax assessment made in respect of Mr. Lacroix for the 2007 taxation year; With respect to the 2007 taxation year, the legal fees claimed for the purposes of this dispute are in the amount of $19,305.66, which can be broken down as follows:
+$1,224.96[3] for the appeal of the GST/QST assessment made in respect of Canadevim Ltée; $8,422.37[4] and $9,658.83[5] for the challenge of the bankruptcy of Canadevim Ltée. More specifically, these fees were incurred in connection with a motion to dismiss appeal, a provisional execution order, various appeals to the Court of Appeal and a challenge of the bankruptcy (see paras. 96-104 of this agreement for more details);
+With respect to the 2008 taxation year, the legal fees claimed for the purposes of this dispute are in the amount of $15,312.27, which can be broken down as follows:
+$2,333.41[6] for the appeal of the GST/QST assessment made in respect of Canadevim Ltée; $12,464.01[7] for the challenge of the bankruptcy of Canadevim Ltée (see paras. 107-110 of this agreement for more details); $514.85[8] for the objection to the Notice of Assessment of tax made in respect of Mr. Lacroix for the 2007 taxation year. This claim is not challenged by the respondent;
+With respect to the 2009 taxation year, the legal fees claimed for the purposes of this dispute are in the amount of $11,966.05, which can be broken down as follows:
+$9,615.05[9] and $1,625.40[10] for the appeal of the GST/QST assessment made in respect of Canadevim Ltée; $255.29[11] and $470.31[12] for the objection to the Notice of Assessment of tax made in respect of Mr. Lacroix for the 2007 taxation year. This claim is not challenged by the respondent;
+With respect to the 2010 taxation year, the legal fees claimed for the purposes of this dispute are in the amount of $28,126.65, which can be broken down as follows:
+$17,097.53[13], $4,512.03[14] and $1,327.01[15] for the appeal of the GST/QST assessment made in respect of Canadevim Ltée; $5,190.08[16] for the challenge of the bankruptcy of Canadevim Ltée (see para. 111 of this agreement);
+Background of Canadevim Ltée
+Canadevim Ltée was incorporated in 1987. Its operations were in the fields of residential development and infrastructure; Originally, the company had six shareholders, including Jean-Robert Lacroix, who held 24% of the shares, and Yoland LaCasse, who held 23%; From 1987 to 1997, Canadevim Ltée was involved in several real estate development projects in Aylmer, including the “Domaine Seigneurie” and the “Carrefour Champlain”; In 1997, Messrs. Lacroix and LaCasse were the company’s only remaining shareholders after Canadevim’s four other shareholders transferred their shares to them; The company’s last project was the “Projet Royal”, the development of an 18-hole golf course, around which residential and commercial lots were to be developed and sold; A notary by profession, Mr. LaCasse pursued a notarial practice in Aylmer until 1996-1997; Mr. Lacroix is a heavy equipment operator. He was a client of Mr. LaCasse’s, who became his partner and friend over the course of their long professional and personal relationship; “Projet Royal” began in 1989 with the purchase by Mr. LaCasse of Lot 2016‑1 for the price of $525,000.00, financed by the Royal Bank. Since 1985, he had been taking courses in the United States on real estate development involving golf courses; In order to finance the project, Mr. LaCasse then obtained a $300,000.00 loan from the Caisse St-Joseph in Hull. This funding was increased to $750,000.00 two years later, in the form of a personal loan granted to Mr. LaCasse and Yoland LaCasse “in trust”, but with hypothecary security on Lot 2016‑1 and bonds posted by the following parties: Canadevim Ltée; 139529 Canada inc., a company with three shareholders, including Mr. LaCasse and Mr. Lacroix; and, finally, the company 137646 Canada inc., whose shares are distributed among 13 other people; This $750,000.00 loan was used to repay the Royal Bank, which had financed Mr. LaCasse’s initial purchase of Lot 2016‑1; the Caisse St-Joseph now held a first-ranking hypothec on Lot 2016‑1; The project was to be developed in part over Aylmer’s former dump. The amounts required for the purchase of the dump in question came from investments from Canadevim Ltée ($75,000.00), a group formed by Messrs. LaCasse and Lacroix and a third individual ($75,000.00) and the [translation] “group of 13” ($75,000.00); Mr. LaCasse partnered with Harry Adams, the owner of the adjacent lot on which 6 of the 18 holes were to be developed; As a co-owner of the golf course, Mr. Adams was to contribute 1/3 of the investments. His eventual withdrawal from the project for health reasons created serious financial difficulties; Development of the golf course began in 1996, after the architect’s plans and the municipal permit were obtained; Although this was not formalized in a written contract, Canadevim was responsible for the landscaping of the golf course. According to the agreement, the work carried out by Canadevim Ltée was to be billed to a yet-to-be-created company, but that company never did materialize; Mr. Adams was diagnosed with cancer and no longer wanted to be involved in the partnership. He transferred his land to related persons on April 20, 1998. The parties engaged in legal proceedings; There was a shortage of funds. When Mr. Adams withdrew from the project, he ceased covering 1/3 of the golf course development expenses, creating an excess financial burden on the remaining partners, and because they had to buy out his share, the partners had to pay him $245,000.00; These unforeseen additional expenses jeopardized the project; On April 29, 1998, the Caisse St-Joseph had published with respect to Lot 2016‑1 a prior notice to exercise a hypothecary right. The balance of the loan, in capital and interest, was then $628,976.85; In June 1998, a new company was created called Le Club de Golf Les Vieux Moulins inc., with new investors as shareholders; Concerned that the land would be resold by the Adams family, which could negatively affect his investments to date, both personally and through Canadevim, Mr. LaCasse decided to register a notice of legal hypothec on the golf course; Mr. LaCasse had a discussion with Mr. Lacroix and made a quick estimate that the work to date had cost $1.2 million. The work was approximately 55% complete at the time; Canadevim Ltée had published, on July 10, 1998, on the lots owned by Mr. Adams and Mr. LaCasse and by Yoland LaCasse “in trust”, a notice of legal hypothec in the amount of $1,200,000.00; On December 4, 1998, there was a cession of rank between Canadevim Ltée and the Caisse St-Joseph in favour of the latter; On February 1, 1999, Canadevim Ltée instituted against Messrs. LaCasse and Adams proceedings in forced surrender and taking in payment on the basis of the $1,200,000.00 in work on which there was a legal hypothec; The golf course opened in summer 1999 under difficult conditions, without the work having been entirely completed; On January 20, 2001, an out-of-court settlement was reached between the Adams estate and Le Club de Golf Les Vieux Moulins inc., Mr. LaCasse and Mr. Lacroix; On May 31, 2001, the out-of-court settlement agreement was homologated in a judgment by the Honourable Pierre Isabelle, J.S.C.;
+Proposal in bankruptcy and bankruptcy of Mr. LaCasse
+On August 15, 2001, Mr. LaCasse made a proposal in bankruptcy, the refusal of which resulted in his bankruptcy in late January 2002; Mr. LaCasse’s bankruptcy left Mr. Lacroix as the sole director of Canadevim Ltée; On September 25, 2001, Canadevim Ltée filed a proof of claim in Mr. LaCasse’s bankruptcy in the amount of $1,200,000.00, with Canadevim Ltée estimating the value of its security at $900,000.00; On February 28, 2002, the trustee rejected Canadevim Ltée’s proof of claim; On April 26, 2002, the trustee filed a motion to strike Canadevim Ltée’s legal hypothec from the land register, but the motion was never argued; On August 12, 2002, Mr. LaCasse’s trustee in bankruptcy had executed a court-ordered seizure of all of Mr. LaCasse’s documents, including all of the documents of Canadevim Ltée;
+Objection to the Notices of Assessment of GST/QST made in respect of Canadevim Ltée
+In April 2002, auditors from Revenu Québec visited Canadevim Ltée to audit its sales taxes for the period from May 1, 1998, to October 31, 2001; During this audit, Revenu Québec noticed that no GST/QST had been collected by Canadevim Ltée on the $1.2 million in work listed in the notice of hypothec; Canadevim Ltée was given until August 22, 2002, to produce the documents required for the audit; Once the audit was completed, Revenu Québec issued a final statement of account for corporate taxes, deductions at source, GST and QST in the amount of $341,116.51; More specifically, on August 23, 2002, a GST assessment bearing the number H2002060 covering the period from May 1, 1998, to October 31, 2001, in the amount of $92,023.16 plus interest and penalties for a total of $135,570.69, was issued by Revenu Québec; On September 6, 2002, a QST assessment bearing number 4360011 covering the period from May 1, 1998, to October 31, 2001, in the amount of $106,033.31 plus interest and penalties for a total of $148,615.91, was issued by Revenu Québec; On November 29, 2002, Canadevim Ltée objected to the assessments from Revenu Québec; On May 28, 2003, the assessments bearing numbers H2002060 and 4360011 were confirmed by a decision on the objections; On August 26, 2003, Canadevim Ltée filed a motion in appeal of a decision on the objection (QST) against Revenu Québec in the Court of Québec in Docket No. 550-80-000189-031; On August 26, 2003, Canadevim Ltée filed a notice of appeal of a decision on the objection (GST) against Revenu Québec in the Tax Court of Canada in Docket No. 2003-3159(GST); On June 21, 2004, Mr. Lacroix was personally assessed by Revenu Québec in his capacity as director for the GST and QST claimed from Canadevim Ltée for a total amount of $304,744.79; On October 31, 2004, Mr. Lacroix made a payment of $304,744.79 to Revenu Québec; On June 28, 2005, Revenu Québec dismissed Mr. Lacroix’s objection; The assessment made in respect of Mr. Lacroix regarding his liability as an administrator was annulled by Revenu Québec, and the amount of $304,744.79 was reimbursed to him; In order to be able to pursue his challenges of the GST and QST assessments made in respect of Canadevim Ltée, Mr. Lacroix had to challenge the petition in bankruptcy, challenge the trustee’s refusal to continue the proceedings, challenge the trustee’s rejection of his proof of claim and file a motion under section 38 of the Bankruptcy and Insolvency Act for authorization to continue the proceedings in his own name and in replacement of the trustee; On May 4, 2009, a letter was sent by LeBlanc Doucet McBride to the Canada Revenue Agency;[17] In January 2010, the Notice of Appeal was heard by the Tax Court of Canada; On March 18, 2010, The Honourable Justice Lucie Lamarre rendered a judgment allowing the appeal of the assessment by the Minister of Revenue of Quebec bearing number H2002060 and dated August 23, 2002, covering the period from May 1, 1998, to October 31, 2001, and the assessment was referred back to the Minister for reconsideration and reassessment on the basis that Canadevim Ltée was not required to collect $73,027.60 in GST on the amount of $1.2 million indicated in the notice of legal hypothec;[18] On April 20, 2010, Revenu Québec filed a notice of appeal against the decision of the Honourable Justice Lucie Lamarre; In September 2010, Mr. Lacroix drafted a memorandum of appeal for the Federal Court of Appeal; On March 16, 2011, the Honourable Justice Marc Noël rendered a judgment allowing the appeal, setting aside the judgment of the Honourable Justice Lamarre of the Tax Court of Canada and dismissing the appeal of Canadevim Ltée;[19] On June 6, 2011, Mr. Lacroix filed for leave to appeal to the Supreme Court of Canada; On February 2, 2012, the Supreme Court dismissed the application for leave to appeal without costs;
+Petition in bankruptcy by Revenu Québec against Canadevim Ltée
+On August 27, 2002, motions filed by Revenu Québec for the appointment of an interim receiver to the assets of Canadevim Ltée and for a petition in bankruptcy; On the same day, order made by the Honourable Johanne Trudel, J.S.C., enjoining the trustee to preserve the assets, remedies, rights and interests of Canadevim Ltée; On January 24, 2003, judgment rendered by the Honourable Martin Bédard, J.S.C., declaring Canadevim Ltée bankrupt;[20] On February 7, 2003, taking in payment and voluntary surrender of Lot 2016‑1 from Mr. LaCasse’s trustee in bankruptcy to Messrs. Neil and Edgar Elliott, which had the effect of striking from the register all of the rights and charges affecting the immovable in question, including the legal hypothec of Canadevim Ltée; On May 6, 2004, decision rendered by Quebec Court of Appeal upholding bankruptcy of Canadevim Ltée; At the time of its bankruptcy, Canadevim Ltée had on its books a debt owing of $1,200,000.00 for golf course landscaping work performed for the various landowners, for which the legal hypothec had been registered; Mr. Lacroix argued that he was a primary creditor of Canadevim Ltée, both personally on account of his cash advances ($250,000.00) and through another corporation controlled by him (118012 Canada inc. (Robsyl)), for $262,000.00 in unpaid work; Mr. LaCasse, through his trustee in bankruptcy, was also a creditor of Canadevim Ltée for $100,000.00 in advances owing to shareholders; On June 14, 2004, filing of proofs of claim for Mr. Lacroix in the amount of $96,796.43 and for the company 118012 Canada inc. (Robsyl); On June 15, 2004, first meeting of creditors for bankruptcy of Canadevim Ltée; On June 23, 2004, rejection of proofs of claim of 118012 Canada inc. (Robsyl) by trustee in bankruptcy; On July 19, 2004, motion filed by Mr. Lacroix in appeal of trustee’s decisions with respect to the appointment of inspectors and the refusal to continue the proceedings against Revenu Québec; On the same day, July 19, 2004, appeal motion filed with respect to the rejection of the proof of claim of 1108012 Canada inc. (Robsyl): On August 9, 2004, motion filed by trustee to have Mr. Donaldson disqualified as counsel; On August 12, 2004, amended proof of claim filed by Mr. Lacroix in the amount of $427,807.39 following an assessment in respect of him in his personal capacity as director; On August 12, 2004, notice calling a meeting of creditors by Mr. Lacroix and Margaret Hugues to the trustee; On August 17, 2004, rejection by trustee of Mr. Lacroix’s new proof of claim in the amount of $304,744.79; On August 25, 2004, motion filed in revocation of trustee; On September 17, 2004, motion filed by Mr. Lacroix to appeal the rejection of his proof of claim; On September 20, 2004, motion filed by Mr. Lacroix in his capacity as a creditor of Canadevim Ltée for authorization to continue the proceedings in his own name in replacement of the trustee and at his own risk; On June 20, 2005, judgment rendered by the Honourable Louis Lacoursière, J.S.C., on the amended motion in disqualification rejecting the motion of the trustee to have Mr. Donaldson disqualified from representing 118012 Canada inc. (Robsyl), a creditor of Canadevim Ltée;[21] On June 28, 2005, judgment rendered by the Honourable Martin Bédard, J.S.C., dismissing Mr. Lacroix’s motion in subrogation following the payment by Mr. Lacroix in his capacity as director of the amount of $304,774.79 in GST and QST claimed from Canadevim Ltée;[22] On August 30, 2005, judgment rendered by the Honourable Martin Bédard, J.S.C., on the amended motion in appeal of the trustee’s rejection of an amended proof of claim recognizing Mr. Lacroix as a creditor in the bankruptcy for an amount of $304,744.79 following his payment of GST and QST on behalf of Canadevim Ltée;[23] On April 29, 2005, motion to have Mr. Lacroix subrogated to the rights of Revenu Québec following payment of $304,744.79; On December 7, 2006, judgment rendered by the Honourable Martin Bédard, J.S.C., revoking the appointment of the inspectors, allowing the motion to revoke the trustee as well as the motion to authorize a continuation of the proceedings under section 38 of the Bankruptcy and Insolvency Act against Revenu Québec for the GST and QST claimed;[24] On December 15, 2006, appeal filed by trustee Verdier against judgment of the Honourable Justice Bédard, J.S.C., dated December 7, 2006; On February 13, 2007, motion to dismiss appeal and for an order of provisional execution of judgment of December 7, 2006; On March 2, 2007, judgment rendered by the Honourable Pierrette Rayle, J.C.A., dismissing the motion for an order of provisional execution of the trial judgment revoking the trustee;[25] On April 2, 2007, judgment rendered by the Quebec Court of Appeal dismissing the appeal by trustee Verdier of the judgment of the Honourable Martin Bédard, J.S.C., revoking the appointment of the inspectors, and allowing the motion to revoke the trustee; On May 17, 2007, motion for directions filed by new trustee Lemieux; On May 18, 2007, challenge of above-mentioned motion for directives brought by Revenu Québec; On May 29, 2007, judgment rendered by Registrar Guy Naud regarding the motion for directives;
+100. On the same day, May 29, 2007, decision and order by Registrar Guy Naud authorizing Revenu Québec to proceed in its own name and at its own expense with the hearing scheduled for June 5, 2007;
+101. On the same day, May 29, 2007, notice from Revenu Québec under section 38 of the Bankruptcy and Insolvency Act;
+102. On May 30, 2007, appearance of Revenu Québec at the Quebec Court of Appeal;
+103. On June 13, 2007, motion in revocation of judgment filed by Mr. Lacroix enabling Revenu Québec to proceed with the appeal undertaken by trustee Verdier challenging Mr. Lacroix’s creditor status;
+104. On June 18, 2007, challenge of the motion in revocation of judgment brought by Revenu Québec;
+105. On August 13, 2007, partial and complementary proof of claim filed by Mr. Lacroix in the bankruptcy of Canadevim Ltée;
+106. On the same day, August 13, 2007, partial and complementary proof of claim filed by 118012 Canada inc. (Robsyl) in the bankruptcy of Canadevim Ltée;
+107. On September 13, 2007, appearance by trustee Lemieux in resumption of proceedings;
+108. On October 4, 2007, judgment rendered by the Honourable Justice Tessier, J.S.C., dismissing Mr. Lacroix’s motion in revocation of judgment;
+109. On December 17, 2007, judgment rendered for the Quebec Court of Appeal by the Honourable André Rochon, J.C.A., allowing the appeal, setting aside the judgment of the Superior Court dated August 30, 2005, rendered by the Honourable Martin Bédard, J.S.C., and dismissing the amended motion in appeal of the rejection by the trustee of an amended proof of claim (res judicata for the $304,744.79);[26]
+110. On January 16, 2008, judgment rendered by Registrar Michel Martin on Mr. Lacroix’s application for withdrawal of judicial deposit in the amount of $304,744.79;
+111. In April 2008, draft motion filed by Mr. Lacroix under section 37 of the Bankruptcy and Insolvency Act;
+112. On April 8, 2008, memorandum of judicial and extrajudicial fees from counsel of former trustee;
+113. On August 13, 2008, notice from former trustee of a motion for an approval of accounts;
+114. On August 29, 2008, prior notice of objection by Mr. Lacroix to application by former trustee Verdier for taxation of legal fees;
+115. On September 10, 2008, pro forma in relation to written contestation by new trustee Lemieux of statement of receipts and disbursements of former trustee Verdier;
+116. On May 11, 2009, intervention by Revenu Québec and contestation of objection of the current trustee to the taxation of a bill of costs and the accounts of the former trustee and the motion in revocation of trustee Lemieux;
+117. From 2009 to 2012, the Canadevim Ltée bankruptcy file was put on hold pending a final decision in the case before the Tax Court of Canada involving Canadevim Ltée and Revenu Québec;
+118. On February 12, 2013, notice from trustee Lemieux calling a meeting of the creditors of Canadevim Ltée to obtain approval for the fees and disbursements of trustees and for the decision to continue with the appeal proceedings regarding the rejection of the proof of claim of Canadevim Ltée in the bankruptcy of Mr. LaCasse. The meeting is scheduled to continue on June 20, 2013, at 10:00 a.m.
+119. The appeal involving the rejection of the proof of claim of Canadevim Ltée in the bankruptcy of Mr. LaCasse has yet to be heard as of today. The contestations of the fees and disbursements of the trustees and their counsel in the bankruptcies of Mr. LaCasse and Canadevim Ltée have not been heard.
+Facts relating to business investment loss claim
+120. As appears from the statement of receipts and disbursements of the former trustee,[27] more than $404,844.58 was collected by the trustee in bankruptcy of Canadevim Ltée through the recovery of the security deposit, the out-of-court settlement, the recovery of inputs, interest earned on deposits, the sale of machinery, etc.;
+121. Since the beginning of the contestation of the petition in bankruptcy, Mr. Lacroix’s intention has remained constant, namely, to receive payment for the $1,200,000.00 in work performed on the golf course, in order to cover the debts of Canadevim Ltée;
+122. Once that amount was recovered, either in kind or through the taking in payment of the golf course, a motion to annul the forced bankruptcy of Canadevim Ltée would have been filed;
+123. In the event that compensation in kind became impossible through the successive sale of the lots subject to the legal hypothec, Mr. Lacroix’s intention was to have Canadevim Ltée bring an action in damages against Revenu Québec and/or trustee in bankruptcy Verdier;
+124. It was not until the Supreme Court of Canada denied leave to appeal from the judgment rendered by the Honourable Justice Marc Noël of the Federal Court of Appeal that these possibilities ceased to exist.
+[3] Only Yoland Lacasse testified at the hearing. From his testimony, I essentially gather that Canadevim Ltée has not carried on business since its bankruptcy in 2003.
+Appellant’s position
+[4] In the Notices of Appeal, the appellant essentially claimed that the fees he had incurred were allowable expenses because they were incurred in connection with normal contracts incidental and necessary to the earning of income from a business. I note that, in his Notices of Appeal, the appellant cites sections 2 and 5 of Interpretation Bulletin IT‑99R5 (Consolidated) in support of his position.
+[5] In oral argument, the appellant radically changed his position and now submits that the fees were incurred, not for the purpose of earning income from a business, but rather for the purpose of earning income from property. In this respect, the appellant submitted that the fees claimed were incurred in order to recover a $1.2 million claim, with the ultimate purpose of receiving dividends from Canadevim Ltée, namely, income from property. The appellant submitted that, at the time he had incurred the fees, the $1.2 million claim was recoverable, which could have resulted in a retroactive annulment of the bankruptcy of Canadevim Ltée. I note from the outset that the appellant has not explained how the fees (incurred in the course of an appeal from a GST/HST assessment made in respect of Canadevim Ltée for the period from March 1, 1998, to October 31, 2001) were incurred for the purpose of earning income from property.
+[6] In the alternative, the appellant is claiming the fees as a business investment loss under paragraph 39(1)(c) of the Income Tax Act (the Act). Essentially, the appellant argues that, on December 7, 2006, the Superior Court of Quebec, relying on section 38 of the Bankruptcy and Insolvency Act (the BIA), authorized him to continue his challenge in the appeal of a GST/HST assessment issued against Canadevim Ltée for the period from May 1, 1998, to October 31, 2001. The appellant is therefore of the view that he financed Canadevim Ltée by challenging the assessment on its behalf, making him a creditor of Candevim Ltée with a claim against it, a claim that has turned out to be unrecoverable.
+Analysis and conclusion
+[7] The appellant’s position with respect to the fees incurred in the course of his challenge of the bankruptcy of Canadevim Ltée is that they are deductible because they were incurred for the purpose of earning income from property. The appellant submits that, since the beginning of the challenge of the petition in bankruptcy, his intention has always been consistent, namely, to obtain payment for the $1,200,000 in work performed on the golf course, allowing him to cover the debts of Canadevim Ltée. Once this amount was recovered, either in kind or by the taking in payment of the golf course, a motion for an annulment of the bankruptcy would have been presented for the ultimate purpose of earning a dividend from Canadevim Ltée. In short, the appellant’s ultimate purpose in incurring such fees was to receive dividends from Canadevim Ltée, namely, income from property. Counsel for the appellant had the following to say in this regard:
+[translation]
+Therefore, Mr. Lacroix, as a shareholder of Canadavim; his interest in Canadavim’s ability to collect payment for the work it had performed on the golf course comes right at the end of the process, with the potential to collect dividends. That is the benefit to him. That payment will result in a benefit. That is Mr. Lacroix’s interest in the matter.
+So yes, he wants Canadavim to be paid, because then the creditors can be paid and the bankruptcy can be annulled. For his part, not only will all of the creditors be paid—and he is one of them—but he will also be able to collect a dividend from the profits.
+[8] The relevant sections of the Act are paragraphs 18(1)(a), 18(1)(b) and 18(1)(h) and subsection 9(1), which read as follows:
+18. (1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(b) an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+. . .
+(h) personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer’s business;
+9. (1) Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+[9] A reading of paragraph 18(1)(a) of the Act indicates that this provision does not entitle the taxpayer to deduct expenses; to the contrary, it sets out a restriction, a general prohibition. Subsection 18(1) of the Act provides that “no deduction shall be made in respect of” the elements listed in computing the income of a taxpayer from a business or property. In addition to paragraph (a), examples include paragraph 18(1)(b), which lists payments on account of capital, and 18(1)(h), which lists personal or living expenses. It is not under paragraph 18(1)(a) of the Act that a taxpayer can deduct fees that he has incurred to earn income from a business or property. Rather, it is under subsection 9(1), which provides that the income from a business or property is the taxpayer’s “profit”. The word “profit” refers to the net profit, or the gross revenues minus any expenses incurred to earn them.
+[10] It is clear that for a taxpayer to be able to deduct fees incurred under subsection 9(1) of the Act, he must first determine whether he has a source of income, either from a business or from property.
+[11] I am of the view that the fees incurred by the appellant were not deductible, for the following reasons:
+(i) First, I note that the appellant radically changed his position, in that he is now alleging that the fees were incurred not for the purpose of earning income from a business (as alleged in the Notices of Appeal), but instead for the purpose of earning income from property. This change in course, in itself, reveals something of the lack of seriousness of the appellant’s position, which raised serious doubts in my mind as to the appellant’s claimed intention, about which, moreover, no evidence was filed.
+(ii) It should be noted that in order for the appellant to be able to deduct his incurred fees under subsection 9(1) of the Act, he must first determine whether he has a source of income, in this case from property. How can he claim, in this case, that he had incurred costs for the purpose of earning income from property when, at the time the fees were incurred, Canadevim (the supposed source of income from property) was bankrupt? In other words, the appellant in this case did not have a source of income from property at the time he incurred the fees because Canadevim was bankrupt at that moment. In any case, even if he had had a source of income from property, I would be of the view that the fees could not be deducted because of the prohibition set out at paragraph 18(1)(b) of the Act. In my opinion, these fees constituted payments on account of capital. It is clear from the evidence filed that the fees were incurred in order to preserve an asset, in this case for the purpose of preventing the bankruptcy of Canadevim Ltée. In other words, the appellant was fighting for the survival of his source of income. In my view, the appellant incurred the fees to preserve an enduring benefit.
+[12] I am also of the view that the fees (incurred in the context of an appeal against a GST/HST assessment of Canadevim Ltée for the period from March 1, 1998, to October 31, 2001) are not deductible under paragraph 60(o) of the Act, given that they were not incurred in prosecuting an appeal in relation to an assessment under the Act.
+[13] I find that the decisions relied upon by the appellant (see Kruco Inc. v. The Queen (T.C.C.), 98 DTC 1568; Evans v. M.N.R., [1960] SCR 391; Automobiles Jalbert Inc. c. Le Sous-Ministre du Revenu, 2005 CanLII 31513 (QC CQ); Stewart v. Her Majesty the Queen, [2002] 2 S.C.R. 645; Couillard v. The Queen, 2004 TCC 805) are not relevant because none involved an entity (a source of income from a business or property) that was bankrupt. In other words, those decisions are distinguishable from the facts in this case.
+Analysis of the alternative position
+[14] I note immediately that the appellant has in no way explained how the fees incurred to challenge the bankruptcy of Canadevim Ltée could constitute a debt owing by the latter.
+[15] To claim a business investment loss in relation to a debt owing, one must be a creditor. In this case, for the reasons that follow, I am of the view that the appellant was not owed a debt by Canadevim Ltée for the fees he had incurred:
+(i) I will start by considering the appellant’s claims in relation to the bad debt allegedly arising from the fees that he says he incurred on behalf of Canadevim Ltée following the authorization he received under section 38 of the BIA to continue opposing the assessment. Section 38 reads as follows:
+Proceeding by creditor when trustee refuses to act
+38. (1) Where a creditor requests the trustee to take any proceeding that in his opinion would be for the benefit of the estate of a bankrupt and the trustee refuses or neglects to take the proceeding, the creditor may obtain from the court an order authorizing him to take the proceeding in his own name and at his own expense and risk, on notice being given the other creditors of the contemplated proceeding, and on such other terms and conditions as the court may direct.
+Transfer to creditor
+(2) On an order under subsection (1) being made, the trustee shall assign and transfer to the creditor all his right, title and interest in the chose in action or subject-matter of the proceeding, including any document in support thereof.
+Benefits belong to creditor
+(3) Any benefit derived from a proceeding taken pursuant to subsection (1), to the extent of his claim and the costs, belongs exclusively to the creditor instituting the proceeding, and the surplus, if any, belongs to the estate.
+Trustee may institute proceeding
+(4) Where, before an order is made under subsection (1), the trustee, with the permission of the inspectors, signifies to the court his readiness to institute the proceeding for the benefit of the creditors, the order shall fix the time within which he shall do so, and in that case the benefit derived from the proceeding, if instituted within the time so fixed, belongs to the estate.
+In my view, section 38 of the BIA simply attributes to the applicant the necessary interest within the meaning of section 55 of the Code of Civil Procedure to take legal action. Section 38 does not have the effect of making the appellant an agent of the trustee. Because it flows from section 38 of the BIA that the appellant had continued opposing the assessment in his own name and at his own expense and risk, the appellant, pursuant to section 38 of the BIA, could not have become a creditor of Canadevim Ltée by incurring such fees. I believe that the purpose of the appellant’s opposition to the assessment was to avoid becoming personally liable as a director of Canadevim Ltée.
+(ii) As for the fees incurred by the appellant to challenge the bankruptcy, I cannot see how the appellant could have become a creditor of Canadevim Ltée by virtue of having incurred such fees. The appellant has failed to demonstrate that the trustee had accepted or agreed that the fees so incurred by the appellant somehow constituted advances awarded to Canadevim Ltée.
+[16] In any event, even if the appellant had obtained, after incurring such fees, the status of creditor, I am of the view that he would not have been entitled to claim in relation to this alleged bad debt a business investment loss under paragraph 39(1)(c) of the Act because he did not advance funds to a Canadian-controlled private corporation that was a small business corporation. I note in this respect that the evidence demonstrates that the fees were incurred between 2007 and 2010 and that Canadevim Ltée had been bankrupt since 2003. Therefore, at the time the advances were allegedly made, Canadevim Ltée was not a small business corporation.
+[17] For these reasons,
+(i) the appeal for the 2007 taxation year is dismissed;
+(ii) the appeal for the 2008 taxation year is allowed such that the legal fees claimed are deductible up to $514.85;
+(iii) the appeal for the 2009 taxation year is allowed such that the legal fees claimed are deductible up to $725.60; and
+(iv) the appeal for the 2010 taxation year is dismissed.
+Signed at Ottawa, Canada, this 2nd day of October 2013.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 8th day of January 2014
+Francie Gow, BCL, LLB
+CITATION: 2013 TCC 312
+COURT FILE NOS.: 2009-3623(IT)I; 2012-1678(IT)I;
+2012-1683(IT)I; 2012-1684(IT)I
+STYLE OF CAUSE: JEAN-ROBERT LACROIX v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: April 12, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: October 2, 2013
+APPEARANCES:
+Counsel for the appellant:
+Chantal Donaldson
+Counsel for the respondent:
+Frédéric Morand
+COUNSEL OF RECORD:
+For the appellant:
+Name: Chantal Donaldson
+Firm: Leblanc, Donaldson
+Gatineau, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Tab 1 of the appellant’s books of documents for 2007, 2008, 2009 and 2010.
+[2] An amount of $1,647.23 was allowed for 2010.
+[3] Billed on August 24, 2007, and paid on February 25, 2008. See Tab 2, pages 7-8 of the appellant’s 2007 book of documents.
+[4] Billed on March 1, 2007, and paid on July 31, 2007. See Tab 2, pages 1-3 of the appellant’s 2007 book of documents.
+[5] Billed on August 24, 2007, and paid in part ($3,500) on October 1, 2007, with the balance ($4,158.83) paid on February 25, 2008. See Tab 2, pages 4-6 of the appellant’s 2007 book of documents.
+[6] Billed on June 5, 2008, and paid on June 10, 2008. See Tab 2, pages 3-4 of the appellant’s 2008 book of documents.
+[7] Billed on February 22, 2008, and paid on February 25, 2008. See Tab 2, pages 1-2 of the appellant’s 2008 book of documents.
+[8] Billed on November 28, 2008, and paid on December 5, 2008. See Tab 2, pages 5-6 of the appellant’s 2008 book of documents.
+[9] Billed on March 9, 2009, and paid on April 9, 2009. See Tab 2, pages 1-2 of the appellant’s 2009 book of documents.
+[10] Billed on March 13, 2009, and paid on April 9, 2009. See Tab 2, page 3 of the appellant’s 2009 book of documents.
+[11] Billed on July 22, 2009, and paid on August 25, 2009. See Tab 2, pages 4-6 of the appellant’s 2009 book of documents.
+[12] Billed on November 17, 2009, and paid on November 26, 2009. See Tab 2, page 7 of the appellant’s 2009 book of documents.
+[13] Billed on January 28, 2010, and paid on April 7, 2010. See Tab 2, pages 1-4 of the appellant’s 2010 book of documents.
+[14] Billed on September 16, 2010, and paid on September 29, 2010. See Tab 2, pages 5-7 of the appellant’s 2010 book of documents
+[15] Billed on November 9, 2010, and paid on November 17, 2010. See Tab 2, pages 8-10 of the appellant’s 2010 book of documents.
+[16] Billed on November 25, 2010, and paid on December 14, 2010. See Tab 2, pages 11-12 of the appellant’s 2010 book of documents.
+[17] See Tab 10 of the respondent’s book of documents.
+[18] See Tab 8 of the respondent’s book of documents.
+[19] See Tab 9 of the respondent’s book of documents.
+[20] See Tab 1 of the respondent’s book of documents.
+[21] See Tab 2 of the respondent’s book of documents.
+[22] See Tab t 3 of the respondent’s book of documents.
+[23] See Tab 4 of the respondent’s book of documents.
+[24] See Tab 5 of the respondent’s book of documents.
+[25] See Tab 6 of the respondent’s book of documents.
+[26] See Tab 7 of the respondent’s book of documents.
+[27] See the statement of receipts and disbursements of the former trustee.

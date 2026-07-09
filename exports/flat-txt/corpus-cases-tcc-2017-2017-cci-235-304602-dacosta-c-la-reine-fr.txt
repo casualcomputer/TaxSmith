@@ -1,0 +1,170 @@
+Title: DaCosta c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/304602/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-235-304602-dacosta-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-11-24
+
+# DaCosta c. La Reine
+
+- Citation: 2017 CCI 235
+- Decision date: 2017-11-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7596, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DaCosta c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-11-24
+Référence neutre
+2017 CCI 235
+Numéro de dossier
+2015-3548(IT)G, 2015-3549(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015‑3548(IT)G
+ENTRE :
+DENISE A. DaCOSTA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Cynthia DaCosta (2015‑3549(IT)G) le 7 novembre 2017, à Toronto (Ontario)
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Leonard Elias
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie pour l’année d’imposition 2010 de l’appelante est accueilli sans dépens, et l’affaire est renvoyée au ministre pour nouvelle cotisation, étant entendu que la pénalité pour faute lourde doit être annulée.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2017.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 10e jour de décembre 2018.
+Elisabeth Ross, jurilinguiste
+Dossier : 2015‑3549(IT)G
+ENTRE :
+CYNTHIA DaCOSTA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Denise A. DaCosta (2015‑3548(IT)G) le 7 novembre 2017, à Toronto (Ontario)
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Leonard Elias
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie pour l’année d’imposition 2010 de l’appelante est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2017.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 10e jour de décembre 2018.
+Elisabeth Ross, jurilinguiste
+Référence : 2017 CCI 235
+Date : 20171124
+Dossier : 2015‑3548(IT)G
+ENTRE :
+DENISE A. DaCOSTA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2015‑3549(IT)G
+ET ENTRE :
+CYNTHIA DaCOSTA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Cynthia DaCosta est la grand‑mère paternelle de Denise DaCosta [1] . En 2006, les appelantes ont chacune signé un contrat d’achat‑vente en vue d’acquérir un condominium dans un immeuble en construction à Toronto. Le contrat signé par Denise visait l’unité 5, tandis que celui signé par Cynthia visait l’unité 6. Les deux achats ont été conclus en juin 2010. L’unité 5 a été vendue au cours du même mois. L’unité 6 a été vendue un mois plus tard.
+[2] Ni l’une ni l’autre des appelantes n’a déclaré avoir tiré de revenu des condominiums dans sa déclaration de revenus de 2010. Le ministre du Revenu national a établi une nouvelle cotisation pour l’année d’imposition 2010 de Denise au motif qu’elle avait omis de déclarer des revenus d’entreprise de 106 025 $ tirés de la vente de l’unité 5. Le ministre a établi une nouvelle cotisation pour l’année d’imposition 2010 de Cynthia au motif qu’elle avait omis de déclarer des revenus d’entreprise de 103 206 $ tirés de la vente de l’unité 6. Le ministre a imposé aux deux appelantes des pénalités pour faute lourde. Les appelantes ont interjeté appel des nouvelles cotisations.
+[3] Voici les trois questions à trancher :
+a) Les bénéfices réalisés lors de la vente doivent‑ils être imposés à titre de revenu ou de gain en capital?
+b) Faut-il soustraire de ces bénéfices les frais afférents à la disposition ou d’autres dépenses dont le ministre a refusé la déduction?
+c) Les appelantes ont‑elles commis une faute lourde en omettant de déclarer les bénéfices réalisés lors de la vente des condominiums?
+Revenu ou gain en capital
+[4] Les appelantes soutiennent que les bénéfices devraient être imposés à titre de gain en capital. Je ne suis pas d’accord.
+[5] Les appelantes ont affirmé dans leur témoignage que les condominiums se trouvaient près du Collège Seneca et qu’il était prévu que Denise fréquente le Collège après avoir terminé ses études secondaires, qu’elle habite dans son condominium et que Cynthia loue le sien à des tiers. Je ne crois pas qu’il s’agissait là de l’intention des appelantes, pour deux motifs.
+[6] Le premier motif pour lequel je ne crois pas que les appelantes avaient l’intention de garder les condominiums à long terme est le fait que, selon moi, Cynthia n’était pas un témoin crédible. Je ne crois donc pas sa déclaration sur l’intention des appelantes. Elle a livré un témoignage vague et souvent contradictoire. À deux reprises, elle a fait des déclarations qui étaient incompatibles avec des réponses qu’elle avait déjà données. Lorsque je lui ai posé des questions précises afin de tenter de comprendre ce qui m’apparaissait être des thèses contradictoires, elle a donné des réponses quasi évasives. J’ai conclu que Denise était un témoin crédible, en général. Il m’est toutefois apparu évident que Denise ne savait rien des opérations sauf ce que Cynthia lui en avait dit. Ainsi, même si je crois que Denise a dit la vérité quand elle a décrit ce qu’elle comprenait des opérations, je ne peux pas m’y fier.
+[7] Le deuxième motif qui me porte à croire que les appelantes n’avaient pas l’intention de garder les condominiums à long terme est le fait qu’il était évident qu’elles n’auraient jamais eu les moyens de le faire. Il ne s’agit pas d’une situation où un imprévu quelconque a contrecarré l’intention d’un contribuable de garder un immeuble à long terme. Quand les appelantes ont conclu les contrats d’achat‑vente en vue d’acquérir les condominiums, ni l’une ni l’autre n’avait les ressources financières nécessaires pour clore réellement l’achat. Denise n’avait que dix‑sept ans à l’époque. La seule façon pour elle d’acheter le condominium, c’était que Cynthia lui donne l’argent pour le faire. Cynthia avait des dettes importantes relatives à son hypothèque, à sa marge de crédit et à ses cartes de crédit depuis un certain temps déjà. Elle n’avait pas les moyens de financer l’achat de son propre condominium, encore moins celui de Denise. Cynthia est agente immobilière. Quand elle a signé le contrat d’achat‑vente, elle était agente immobilière depuis environ 18 ans. Par conséquent, elle aurait été bien au fait du besoin d’obtenir du financement et des exigences liées à l’obtention de ce financement pour clore l’achat.
+[8] Assurément, quand le temps est venu de clore les achats, aucune des appelantes n’avait l’argent pour le faire. La cote de crédit de Cynthia était trop mauvaise pour qu’un prêteur conventionnel lui accorde un prêt. Denise gagnait moins de 7 000 $ par année; donc, même si elle avait espéré contribuer financièrement à l’achat, elle n’avait pas les moyens de le faire. Cynthia a dû emprunter de l’argent à des amis, qui lui ont consenti des prêts à court terme pour l’aider entre l’achat des logements et leur vente. Elle a entre autres utilisé le produit de la vente de l’unité 5 pour clore l’achat de l’unité 6.
+[9] L’unité 6 était à vendre avant même que Cynthia en devienne propriétaire. Denise a signé un contrat d’achat‑vente pour l’unité 5 presque deux mois avant d’en devenir propriétaire. Cynthia et son fils (le père de Denise) étaient les agents responsables de l’inscription pour les deux ventes. Le bénéfice réalisé à la vente des condominiums était considérable.
+[10] Compte tenu de tout ce qui précède, je conclus que l’intention première de Cynthia a toujours été d’essayer de vendre les condominiums en vue de réaliser un bénéfice. Je conclus que Denise avait uniquement l’intention de faire ce que Cynthia voulait et donc que son intention première était, indirectement, de vendre son condominium en vue de réaliser un bénéfice. Par conséquent, je conclus que les appelantes détenaient les condominiums pour en tirer un revenu.
+Montant des bénéfices
+[11] Les appelantes soutiennent qu’il faut soustraire des bénéfices qu’elles ont réalisés lors de la vente des condominiums les frais afférents à la disposition et les autres dépenses dont la déduction n’a pas été accordée par le ministre. Elles ne m’ont pas convaincu.
+[12] Le ministre a déjà pris en considération certains frais afférents à la disposition dans son calcul des bénéfices réalisés par les appelantes. Cynthia a parlé de façon générale des types de frais afférents à la disposition déboursés, sans préciser ceux dont la déduction n’avait pas été accordée selon elle. De même, les appelantes n’ont présenté aucune preuve documentaire attestant ces coûts. Dans ces circonstances, je ne peux accorder la déduction d’autres frais afférents à la disposition.
+[13] Dans son témoignage, Cynthia a affirmé qu’elle avait pris possession de l’unité 6 en janvier 2010 et qu’elle avait dû payer des frais d’occupation entre ce moment et celui où elle en est devenue propriétaire, en juin. Elle a affirmé qu’elle avait loué le condominium au cours de cette période afin d’essayer de compenser ces frais, mais qu’elle avait tout de même perdu de l’argent. Elle a affirmé qu’il fallait déduire ces pertes du revenu tiré de la disposition. Cynthia n’a présenté aucune preuve documentaire à l’appui de sa thèse. Compte tenu de mes conclusions sur sa crédibilité, je ne suis pas prêt à l’autoriser à déduire ces pertes sans preuve documentaire.
+Pénalités
+[14] Le ministre a imposé des pénalités pour faute lourde, non pas parce que les appelantes avaient omis de déclarer leurs bénéfices au titre du revenu, mais plutôt parce qu’elles ne les avaient tout simplement pas déclarés.
+[15] Cynthia savait parfaitement qu’elle avait réalisé des bénéfices. Elle a affirmé qu’elle ignorait qu’elle devait les déclarer. Comme il est indiqué ci‑dessus, Cynthia est agente immobilière. Quand elle a produit sa déclaration de revenus de 2010, elle était agente immobilière depuis environ 23 ans. Je ne crois pas qu’elle ignorait que les bénéfices réalisés lors de la vente d’un bien immobilier autre qu’une résidence principale sont imposables. Je ne crois pas que Cynthia ait divulgué la vente à son comptable, contrairement à ce qu’elle a prétendu dans son témoignage. Même si elle l’a divulgué, elle n’a pas examiné sa déclaration de revenus avant de la signer, ce qui signifie qu’elle n’aurait pas su si le comptable avait inclus le revenu tiré de la vente ou pas. Cynthia a déclaré un revenu imposable d’environ 20 000 $ dans sa déclaration de revenus de 2010. Son revenu non déclaré est plus que cinq fois plus élevé. Compte tenu de tout ce qui précède, je conclus que Cynthia a commis une faute lourde en omettant de déclarer les bénéfices réalisés lors de la vente de l’unité 6.
+[16] Par contraste, je conclus que Denise n’a pas commis de faute lourde. Elle n’avait que 17 ans quand elle a signé le contrat d’achat‑vente. Elle a suivi les directives de sa grand‑mère et de son père, qui étaient tous deux agents immobiliers. Denise était âgée de 21 ans à la clôture de l’achat et lors de la vente subséquente. Sa grand‑mère et son père étaient les agents responsables de l’inscription pour la vente. Ce sont eux seuls qui ont planifié et négocié la vente. Encore une fois, Denise n’a fait que signer les documents que sa grand‑mère et son père lui avaient demandé de signer. Denise n’a reçu aucun bénéfice de la vente de l’unité 5. Cynthia a utilisé la totalité de cette somme pour clore l’achat de l’unité 6.
+[17] En temps normal, je jugerais qu’un contribuable qui a signé aveuglément des contrats afin d’acheter et de revendre rapidement à profit un bien immobilier sans se demander si de tels contrats ont des conséquences fiscales a commis une faute lourde. Toutefois, je ne suis pas prêt à le faire dans le cas de Denise. Les bénéfices réalisés lors de la vente de l’unité 5 ont été versés à Cynthia, non pas à Denise. S’il fallait payer de l’impôt sur cette vente, c’est Cynthia qui aurait dû fournir les fonds. Je conclus que, tout comme Cynthia ne voulait pas payer l’impôt sur le bénéfice réalisé lors de la vente de son condominium, elle ne voulait pas non plus en payer sur les bénéfices tirés de la vente du condominium de Denise. Pour cette raison, je ne suis pas convaincu que Cynthia ait dit à Denise qu’elle devait déclarer le revenu. Il me semble beaucoup plus probable que Cynthia ait tenu Denise dans l’ombre plutôt qu’elles aient conspiré pour produire de fausses déclarations de revenus.
+[18] Je crois qu’il est raisonnable pour une jeune femme de vingt‑et‑un ans dont l’expérience fiscale se résume à la déclaration de sommes relativement petites de revenus d’emploi (T4) dans ses déclarations de revenus chaque année de faire confiance à son père et à sa grand‑mère, qui sont tous deux des agents immobiliers et qui connaissent les rouages de la vente, pour lui indiquer si elle doit déclarer ce revenu dans sa déclaration de revenus. Si Denise avait reçu le produit de la vente ou si elle avait eu des motifs de ne pas faire confiance à sa famille, j’aurais probablement tiré une conclusion différente.
+Questions possibles n’ayant pas été soulevées
+[19] Pendant le procès, une quantité considérable d’éléments de preuve présentés par les appelantes et certaines observations qu’elles ont formulées donnent à penser que deux autres questions auraient pu être soulevées dans le cadre des appels et l’auraient peut‑être été si les appelantes avaient été représentées par un avocat. Par souci d’exhaustivité, je crois que je dois soulever ces questions et expliquer pourquoi je ne me suis pas penché sur elles.
+[20] La première question qui aurait pu être soulevée est celle visant à déterminer si Cynthia était la propriétaire en equity de l’unité 5 et si Denise ne faisait que détenir le titre en common law de l’immeuble en tant que simple fiduciaire. Si cette question avait été soulevée et que j’avais tranché en faveur des appelantes à cet égard, les bénéfices réalisés lors de la vente de l’unité 5 n’auraient pas été imposés du tout. J’aurais dû faire droit à l’appel interjeté par Denise et soustraire les bénéfices réalisés lors de la vente de l’unité 5 de son revenu. Je n’aurais toutefois pu les ajouter au revenu de Cynthia, puisque je n’ai pas le pouvoir d’augmenter le revenu imposable d’un appelant en appel.
+[21] La deuxième question qui aurait pu être soulevée est celle visant à déterminer s’il y a eu disposition de la propriété en equity des condominiums en 2010 ou s’il n’y a eu que simple transfert du titre en common law à de bons amis de la famille afin de tromper une banque et de l’amener à accorder indirectement du financement à Cynthia. Si cette question avait été soulevée et que j’avais tranché en faveur des appelantes à cet égard, j’aurais dû faire droit aux deux appels.
+[22] Il n’est pas nécessaire que j’examine les éléments de preuve et les observations relatifs à ces questions possibles, et je n’ai pas besoin non plus de déterminer si ces éléments de preuve étaient crédibles. Les appelantes n’ont soulevé ni l’une ni l’autre de ces questions dans leurs avis d’appel. Au contraire, les faits, les questions et les motifs exposés dans les avis d’appel contredisent ces arguments. Les questions qui étaient en litige sont les trois que j’ai analysées ci‑dessus. Aucune des appelantes n’a demandé l’autorisation de modifier son avis d’appel. Les actes de procédure ont pour but de présenter les questions en litige afin de permettre à chacune des parties de se préparer adéquatement. On ne peut soulever au procès une question qui n’a pas été soulevée dans l’acte de procédure. La Cour peut faire preuve d’une certaine indulgence dans l’interprétation des actes de procédure des contribuables qui ne sont pas représentés par un avocat et qui ne possèdent pas l’expertise requise pour cerner précisément la question fiscale en jeu. Toutefois, il n’est pas déraisonnable de s’attendre à ce que le contribuable tente à tout le moins de cerner la question et de présenter avec exactitude les faits à l’appui. Les appelantes n’ont rien fait de cela.
+Conclusion
+[23] Compte tenu de tout ce qui précède, l’appel interjeté par Cynthia DaCosta est rejeté, et l’appel interjeté par Denise DaCosta est accueilli et l’affaire est renvoyée au ministre pour nouvelle cotisation, étant entendu que la pénalité pour faute lourde doit être annulée.
+Dépens
+[24] L’intimée demande uniquement les dépens liés à l’appel interjeté par Cynthia DaCosta. Les dépens sont adjugés à l’intimée en ce qui concerne cet appel.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2017.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 10e jour de décembre 2018.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2017 CCI 235
+Nos DES DOSSIERS DE LA COUR :
+2015‑3548(IT)G
+2015‑3549(IT)G
+INTITULÉS :
+DENISE A. DaCOSTA c. SA MAJESTÉ LA REINE
+CYNTHIA DaCOSTA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 7 novembre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 24 novembre 2017
+COMPARUTIONS :
+Pour l’appelante Denise A. DaCosta :
+L’appelante elle‑même
+Pour l’appelante Cynthia DaCosta :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Leonard Elias
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada
+[1] Par souci de simplicité, je renverrai aux appelantes par leur prénom. Je crois savoir que le nom légal de Denise DaCosta serait en fait Denise DaCosta DaSilva. Toutefois, l’avis de nouvelle cotisation en litige a été émis au nom de Denise DaCosta et ce nom a aussi été utilisé dans l’avis d’appel.

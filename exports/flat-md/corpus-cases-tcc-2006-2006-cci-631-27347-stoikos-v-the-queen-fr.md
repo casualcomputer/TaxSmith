@@ -1,0 +1,203 @@
+---
+title: "Stoikos v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27347/index.do"
+last_modified: "2006-11-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 631"
+citation2: ""
+neutral_citation: "2006 CCI 631"
+decision_date: "2006-11-22"
+language: "fr"
+item_id: "27347"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 169
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:32:54.106000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1c1f289ce610be082e39482d19a55dbcc93afce25f35e9a03e03cd19d3bcd52d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stoikos v. The Queen
+
+- Citation: 2006 CCI 631
+- Decision date: 2006-11-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 169, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stoikos v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-22
+Référence neutre
+2006 CCI 631
+Numéro de dossier
+2005-4479(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4479(IT)I
+ENTRE :
+WILLIAM STOIKOS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 novembre 2006 et jugement rendu oralement
+à l’audience le 9 novembre 2006, à Toronto (Ontario)
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Représentant de l’appelant :
+Brian Cloney
+Avocate de l’intimée :
+Me Donna Dorosh
+Saba Zarghami (étudiante en droit)
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la cotisation établie en application de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2004 est rejeté conformément aux motifs du jugement ci-joints, rendus oralement à l’audience le 9 novembre 2006.
+Signé à Ottawa, Canada, ce 22e jour de novembre 2006.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 23e jour de février 2007.
+Hélène Tremblay, traductrice
+Référence : 2006CCI631
+Date : 20061122
+Dossier : 2005-4479(IT)I
+ENTRE :
+WILLIAM STOIKOS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+le 9 novembre 2006, à Toronto (Ontario).)
+Le juge Hershfield
+[1] L’appelant interjette appel à l’encontre de la nouvelle cotisation établie à l’égard de son année d’imposition 2004. Le ministre du Revenu national (le « ministre ») a refusé une déduction demandée par l’appelant s’élevant à 27 800 $. L’appelant a demandé la déduction en vertu de l’alinéa 60b) de la Loi de l’impôt sur le revenu (la « Loi ») pour un paiement forfaitaire de pension alimentaire versé à son ex-épouse en décembre 2004, paiement qui s’élevait à 27 800 $.
+[2] La question en litige dans le présent appel est de savoir si ce paiement correspond à une « pension alimentaire » aux termes du paragraphe 56.1(4).
+[3] Les faits à l’origine du présent appel sont les suivants :
+· L’appelant et son ex-épouse se sont séparés le 1er décembre 2001 pour cause d’échec de leur mariage.
+· Pendant la période débutant à la date de séparation et se terminant au moment où la Cour supérieure de justice de l’Ontario (Cour de la famille) a rendu une ordonnance provisoire, soit le 22 juin 2004, l’appelant n’a versé aucune pension alimentaire à son ex-épouse. Il n’existait aucune entente, ni écrite, ni orale, prévoyant le paiement d’une pension alimentaire avant que la Cour ne rende l’ordonnance provisoire.
+· Selon l’ordonnance provisoire, l’appelant devait verser à son ex‑épouse une somme de 1 100 $ par mois à compter du 15 juillet 2004.
+· L’appelant a fait les paiements en application de l’ordonnance provisoire de juillet à décembre 2004. La somme de ces paiements s’élevait à 6 600 $. L’appelant a demandé la déduction de ce montant en vertu de l’alinéa 60b), et le ministre la lui a accordée. Cette demande ne fait pas l’objet du présent appel.
+· Les parties sont arrivées à une transaction globale et définitive le 22 décembre 2004. Le procès‑verbal définitif de transaction (le « procès‑verbal ») a été dûment signé à cette date. Le procès‑verbal indique que les parties consentent à ce que la Cour de la famille rende une ordonnance définitive assortie des modalités suivantes :
+[TRADUCTION]
+1. Le défendeur doit verser une pension alimentaire périodique mensuelle rétroactive à son ex-épouse, la demanderesse, selon les dispositions suivantes :
+a) pour le mois de décembre 2001, une pension alimentaire
+périodique mensuelle de 800 $
+b) pour l’année 2002, 12 versements d’une pension alimentaire
+périodique mensuelle de 800 $ s’élevant à 9 600 $
+c) pour l’année 2003, 12 versements d’une pension alimentaire
+périodique mensuelle de 900 $ s’élevant à 10 800 $
+d) pour l’année 2004, 6 versements (pour la période de janvier
+à juin) d’une pension alimentaire périodique mensuelle
+de 1 100 $ s’élevant à 6 600 $
+Montant total de la pension alimentaire périodique mensuelle rétroactive
+à payer par le défendeur 27 800 $
+2. Cette pension alimentaire périodique mensuelle rétroactive doit être versée par le défendeur à la demanderesse au plus tard le 31 décembre 2004.
+3. En ce qui concerne les mois de juillet, d’août, de septembre, d’octobre, de novembre et de décembre de l’année 2004, le défendeur est tenu, selon l’ordonnance provisoire rendue par l’honorable juge Steinberg le 22 juin 2004, de verser une pension alimentaire périodique mensuelle de 1 100 $ (mille cent dollars) à la demanderesse.
+4. Pour les cinq prochaines années, soit du 1er janvier 2005 au 1er décembre 2009, le défendeur est tenu de verser une pension alimentaire périodique mensuelle d’un montant fixe de 1 100 $ (mille cent dollars) à la demanderesse. Ce montant fixe de pension alimentaire mensuelle ne peut pas faire l’objet ultérieurement d’une révision ou d’une modification par l’une ou l’autre des parties, malgré des changements importants qui pourraient survenir à leurs situations, financières ou autres, respectives.
+· Le 22 décembre 2004, l’appelant a versé à son ex‑épouse le montant de 27 800 $, aux termes du procès‑verbal de transaction. Selon la preuve, il n’existait avant cette date aucune ordonnance définitive de la Cour de la famille comprenant l’entente à laquelle les parties ont consenti. C’est‑à‑dire qu’il est impossible d’affirmer que le paiement a été fait en application d’une ordonnance.
+· L’appelant a continué de verser une pension alimentaire périodique après décembre 2004 aux termes du procès‑verbal de transaction.
+[4] L’alinéa 60b) de la Loi prévoit la déduction du total des montants représentant chacun le résultat du calcul A - (B + C). En l’espèce, le seul élément qui s’avère utile pour ce calcul est le montant A, que la Loi définit en ces termes :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l’année à une personne donnée dont il vivait séparé au moment du paiement […]
+Par conséquent, avant d’établir la déduction qu’il est possible d’accorder, il faut décider si le montant représente une « pension alimentaire ».
+[5] La partie de la définition d’une « pension alimentaire » qui s’applique dans le présent appel se trouve au paragraphe 56.1(4) de la Loi et est rédigée en ces termes :
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex‑époux ou l’ancien conjoint de fait du payeur et vit séparé de celui‑ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit; […]
+[6] L’appelant soutient qu’étant donné que les montants payables aux termes du procès‑verbal de transaction représentaient une pension alimentaire périodique mensuelle rétroactive qui devait être versée à son ex‑épouse pour la période de décembre 2001 au 22 juin 2004, ils étaient des montants payables à titre d’allocation périodique et représentaient un arriéré, ou du moins doivent être traités comme un arriéré.
+[7] L’argument de l’appelant est fondé sur la décision Pyne v. The Queen, [2003] 1 C.T.C. 2300 (C.C.I.), dans laquelle le contribuable s’était vu ordonner de verser une pension alimentaire à son ex‑épouse. L’appelant avait pris du retard dans ses paiements. Une seconde ordonnance avait alors été rendue intimant à ce dernier de faire deux paiements forfaitaires pour les arriérés cumulés. Dans l’affaire Pyne, la Cour avait conclu que les paiements forfaitaires étaient déductibles en vertu de l’alinéa 60b). Il n’est pas nécessaire d’approfondir l’analyse de la décision Pyne parce qu’elle n’aide en rien la cause de l’appelant. Il est facile d’écarter ce précédent en raison des divergences qui existent entre les faits relatifs aux deux instances.
+[8] L’appelant soutient aussi que les paiements continus faits après 2004, aux termes du procès‑verbal de transaction, viennent confirmer que les paiements forfaitaires (représentant prétendument un arriéré) ne peuvent pas être interprétés comme constituant du capital, étant donné qu’ils n’ont pas été faits dans le but d’éteindre un droit.
+[9] De son côté, l’intimée soutient que le paiement fait le 22 décembre 2004 ne peut pas être traité comme le paiement d’un arriéré parce que pendant toute la période visée par le paiement forfaitaire effectué en décembre, il n’existait aucune ordonnance ni aucun accord écrit selon lequel l’appelant était tenu d’effectuer des paiements à titre de pension alimentaire pour conjoint. En effet, l’intimée soutient que la Cour n’a pas le pouvoir d’ordonner que le paiement soit considéré comme une pension alimentaire rétroactive à des fins d’imposition.
+[10] L’intimée fonde ses arguments sur les décisions Aceti v. M.N.R., 92 DTC 1893 (C.C.I.) et Nagel v. Canada, [2004] 1 C.T.C. 2842 (C.C.I.).
+[11] De plus, l’intimée soutient que le paiement ne peut pas être considéré comme périodique. Il doit plutôt être considéré comme un paiement de capital, suivant ce qui est énoncé dans l’arrêt McKimmon c. M.R.N., [1990] 1 C.F. 600 (C.A.F.).
+Analyse
+[12] L’intimée invoque la décision Aceti parce que dans cette affaire, le juge Rip avait conclu qu’un accord datant d’août 1988 et prenant effet en mars 1988 qui prévoyait le versement de paiements périodiques à compter de janvier 1988 ne conférait pas aux paiements périodiques faits entre les mois de mai et d’août 1988 le statut de paiements faits aux termes d’un accord écrit. Il a souligné que pour qu’on puisse affirmer avoir fait des paiements aux termes d’un accord écrit, un tel accord doit exister. Également, concernant le paiement forfaitaire de 9 000 $ fait en septembre 1988 pour acquitter l’obligation du payeur de faire des paiements d’entretien périodiques pendant la période de janvier à avril 1988, le juge Rip a conclu que l’accord datant d’août 1988 et prenant effet en mars 1988 ne rendait pas payable, ni payable aux termes d’un accord, un paiement ultérieur se rapportant aux périodes précédant la conclusion de l’accord.
+[13] En fait, le juge Rip a conclu qu’un accord ne pouvait pas avoir d’effet rétroactif dans ces circonstances.
+[14] J’ai certaines réserves concernant la décision Aceti étant donné que les dispositions de la Loi qui s’appliquaient dans cette affaire, à savoir la version de 1988 de l’alinéa 60b) et des dispositions connexes, ont depuis été abrogées et remplacées. Les pensions alimentaires sont maintenant définies comme des montants « à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit ». En l’espèce, au moment où ils ont été payés, les paiements en question ont été versés aux termes du procès‑verbal de transaction et répondent censément aux exigences formulées dans les nouvelles dispositions. Le fait que le montant en cause a été établi en fonction des obligations pour les mois précédant la conclusion de l’accord ne signifie pas qu’il n’était pas payable ou à recevoir aux termes du procès‑verbal de transaction au moment où il a été versé, le 22 décembre 2004.
+[15] L’intimée soutient que même si mes conclusions sont exactes, le paiement représente tout de même un paiement forfaitaire de capital selon la définition énoncée dans l’arrêt McKimmon. Il n’était pas payable de façon autre que comme paiement forfaitaire de capital et il n’était pas payable de façon périodique.
+[16] Je conviens que la question demeure. Il est vrai que les circonstances en l’espèce semblent indiquer que le paiement en cause constitue un paiement en capital. Bien que l’arrêt McKimmon traitait de versements d’un paiement forfaitaire, de façon générale, il peut être utile pour déterminer la nature d’un paiement. À cet égard, je suis d’avis que l’ex‑épouse de l’appelant avait le droit de demander une pension alimentaire. C’est d’ailleurs ce qu’elle a fait, et la pension alimentaire se rapportant aux années antérieures à laquelle elle s’est vu reconnaître le droit était payable sans délai et représentait un paiement de capital. Bien que la demande de pension alimentaire soit personnelle et incessible, il semble probable que le droit au paiement forfaitaire représentant les obligations antérieures quant à la pension alimentaire ne soit plus personnel une fois que l’obligation de verser le paiement est consignée dans le procès‑verbal de transaction. C’est‑à‑dire qu’au moment où le montant a été versé, il constituait une obligation cessible, alors que les pensions alimentaires pour conjoints ne le sont habituellement pas. À mon avis, il s’agit ici du critère le plus juste, parmi ceux examinés dans l’arrêt McKimmon, qu’on peut appliquer en l’espèce.
+[17] Cependant, ce n’est pas tout. Une exception s’applique lorsqu’on veut qualifier un paiement forfaitaire de paiement de capital. Cette exception concerne l’arriéré. La question de l’arriéré n’est pas abordée dans les textes de loi, mais l’arrêt R. c. Sills, [1985] 2 C.F. 200 (C.A.F.) en traite.
+[18] Dans l’arrêt Sills, la Cour d’appel a conclu qu’un montant payable de façon périodique demeure un paiement périodique, même si plusieurs paiements sont versés en retard sous forme de paiement forfaitaire unique. C’est‑à‑dire que des paiements forfaitaires versés pour régler un arriéré peuvent quand même constituer des paiements « périodiques » aux termes de l’alinéa 60b).
+[19] Il en est donc ainsi, à moins que le paiement forfaitaire ne vise pas uniquement le règlement de l’arriéré. Par exemple, s’il sert à éteindre le droit à une pension alimentaire future, le paiement est généralement considéré comme un paiement de capital[1].
+[20] L’intimée soutient que l’arriéré ne peut pas exister avant le prononcé de l’ordonnance ou la conclusion de l’accord dont il découle. Dans son argument, l’intimée reprend la conclusion tirée par le juge Rip dans la décision Aceti. Cependant, dans le cas en l’espèce, cet argument n’est pas tributaire du libellé des dispositions pertinentes de la Loi, étant donné qu’il est fondé sur la common law concernant l’arriéré.
+[21] L’appelant soutient toujours que le procès‑verbal de transaction a un effet rétroactif. Le document en question n’énonce pas de montant fixe pour la pension alimentaire se rapportant à la période antérieure à sa signature. Il indique plutôt l’existence d’obligations d’entretien variables mensuelles payables à titre d’obligations périodiques rétroactives. Il ne vient pas annuler les obligations continues. Il n’indique pas que les obligations sont payables sous forme de paiement forfaitaire. Les obligations sont plutôt définies comme des obligations de paiement périodiques qui sont impayées ou en souffrance en raison du caractère rétroactif du procès‑verbal de transaction.
+[22] Malgré les arguments présentés par l’appelant à ce sujet, je ne peux pas conclure que le procès‑verbal de transaction a créé une obligation rétroactive de verser une pension alimentaire qui est devenue un arriéré sitôt le procès‑verbal signé. C’est d’ailleurs ce qu’indique l’arrêt Peterson v. Q. (s.n. Tossell), 2005 D.T.C. 5365[2]. Dans cet arrêt, la Cour d’appel est allée jusqu’à conclure que même si un jugement de divorce définitif reprenant les modalités du procès‑verbal de transaction avait été rendu en temps opportun, le résultat aurait été le même.
+[23] Avant d’analyser plus en détail l’arrêt Peterson, il est utile de mentionner le pouvoir qui est accordé expressément à la Cour de la famille de l’Ontario pour rendre des ordonnances rétroactives, étant donné que dans l’affaire Peterson, l’ordonnance englobant le procès‑verbal définitif de transaction avait été rendue avant que ne soit versée la pension alimentaire faisant l’objet de l’appel. Selon la Loi sur le droit de la famille de l’Ontario, L.R.O. (1990), ch. F-3, une cour supérieure de justice peut rendre une ordonnance concernant la pension alimentaire à l’égard de périodes antérieures à l’ordonnance. Les articles 33 et 34 de la Loi sur le droit de la famille de l’Ontario prévoient ce qui suit :
+Ordonnance alimentaire :
+33. (1) Le tribunal peut, à la suite d’une requête, ordonner à une personne de fournir des aliments à ses personnes à charge, et fixer le montant de ces aliments.
+[…]
+Pouvoirs du tribunal
+34. (1) Le tribunal saisi d’une requête présentée en vertu de l’article 33 peut rendre une ordonnance provisoire ou définitive portant sur les mesures suivantes :
+[…]
+f) le versement d’aliments relativement à une période antérieure à la date de l’ordonnance;
+[…]
+[24] À la rigueur, l’alinéa 34(1)f) confère le pouvoir à la Cour supérieure de justice de l’Ontario d’incorporer dans son ordonnance les paiements de pension alimentaire dont il est question dans le procès‑verbal de transaction signé en l’espèce. Certains éléments de jurisprudence, comme l’arrêt Dale v. M.N.R., [1997] 2 C.T.C. 286 (C.A.F.), tendent à indiquer que des ordonnances rétroactives de ce genre peuvent être appliquées à des fins d’imposition. La jurisprudence sur cette question n’a pas été abordée lors de l’audience. D’ailleurs, elle n’avait pas à être abordée, étant donné que le présent appel ne concerne pas une ordonnance d’un tribunal. Il est tout de même intéressant de souligner que, dans une certaine mesure, les conclusions de l’arrêt Dale sont incompatibles avec celles de l’arrêt Peterson, selon lequel une ordonnance d’un tribunal concernant une pension alimentaire rétroactive ne fait qu’engendrer une toute nouvelle obligation.
+[25] Quoi qu’il en soit, dans l’arrêt Peterson, la Cour d’appel fédérale a examiné si un paiement forfaitaire de 36 000 $ mentionné dans le procès‑verbal de transaction et l’ordonnance subséquente représentait le paiement d’un arriéré de pension alimentaire pour enfants. La Cour d’appel a indiqué ce qui suit au paragraphe 36 :
+[…] on ne peut dire d'un accord écrit ou d'une ordonnance judiciaire qu'ils obligent une personne à payer des arriérés de pension alimentaire pour enfants sauf si, au moment où cet accord ou cette ordonnance ont été établis, il existe : 1) une reconnaissance expresse ou implicite d'une obligation préexistante de payer une pension alimentaire pour enfants à l'égard d'une période antérieure, 2) une reconnaissance expresse ou implicite d'un manquement total ou partiel à cette obligation, qui donne lieu à des arriérés de pension alimentaire pour enfants, et 3) une obligation, énoncée dans l'accord écrit ou dans l'ordonnance judiciaire, de payer les arriérés en tout ou en partie.
+[26] En l’espèce, l’appelant ne peut pas soutenir qu’il existait une reconnaissance d’une obligation préexistante de payer une pension alimentaire. Les faits admis établissent qu’aucune obligation de ce genre n’existait avant l’ordonnance provisoire, qui traitait seulement des paiements à venir. À défaut de preuves établissant que l’obligation rétroactive de payer une pension alimentaire découlait de circonstances qui ont existé pendant la période visée par les paiements rétroactifs, même une ordonnance intimant à l’appelant de verser une pension alimentaire rétroactive ne peut pas, en soi, signifier qu’il y a reconnaissance d’une obligation préexistante ou existence d’un arriéré. On n’a présenté aucune preuve en ce sens. Tel qu’il a été établi, quand les parties ont signé le procès‑verbal de transaction en décembre 2004, l’appelant n’avait pas d’obligation préexistante de verser une pension alimentaire à son ex‑épouse avant que l’ordonnance provisoire ne soit rendue. Le procès‑verbal de transaction n’a fait que créer l’obligation initiale, bien que ce fût de façon rétroactive. Comme dans Peterson, l’obligation de verser une pension alimentaire était une toute nouvelle obligation qui, comme il est indiqué dans Peterson au paragraphe 42, est le contraire d’une obligation de payer des arriérés.
+[27] Pour conclure, l’arrêt Peterson est un précédent convaincant qui a une force obligatoire dans le présent appel, étant donné que nous sommes en présence d’une obligation de verser une pension alimentaire imposée rétroactivement aux termes d’un accord. Donc, pour les motifs énoncés ici, je conclus que le paiement s’élevant à 27 800 $ ne constituait pas un paiement d’arriéré de pension alimentaire pour conjoint. Il s’agissait plutôt d’un paiement forfaitaire de capital. Le présent appel est donc rejeté.
+Signé à Ottawa, Canada, ce 22e jour de novembre 2006.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 23e jour de février 2007.
+Hélène Tremblay, traductrice
+RÉFÉRENCE :
+2006CCI631
+N° DU DOSSIER :
+2005-4479(IT)I
+INTITULÉ :
+William Stoikos et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 6 novembre 2006
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge J.E. Hershfield
+DATE DU JUGEMENT :
+Le 22 novembre 2006
+COMPARUTIONS :
+Représentant de l’appelant :
+Brian Cloney
+Avocate de l’intimée :
+Me Donna Dorosh
+Saba Zarghami (étudiante en droit)
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir, par exemple, M.N.R. v. Armstrong, [1956] R.C.S. 446 et Trottier c. M.R.N., [1968] R.C.S. 728. D’autre part, dans l’arrêt Ostrowski c. R., 2002 CAF 299, 2002 DTC 7209, la Cour d’appel fédérale a conclu que les paiements forfaitaires versés à l’avance pour remplir les obligations de paiements périodiques à venir constituaient des « paiements périodiques ».
+[2] Cet arrêt de la Cour d’appel fédérale n’a pas été cité par les parties, mais il est évident qu’il constitue un précédent pertinent.

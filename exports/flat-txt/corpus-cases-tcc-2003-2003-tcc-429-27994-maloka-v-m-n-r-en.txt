@@ -1,0 +1,154 @@
+Title: Maloka v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27994/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-429-27994-maloka-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-06-19
+
+# Maloka v. M.N.R.
+
+- Citation: 2003 TCC 429
+- Decision date: 2003-06-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1776, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maloka v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-19
+Neutral citation
+2003 TCC 429
+File numbers
+2002-3444(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-3444(EI)
+BETWEEN:
+KHUSHPRIT S. MALOKA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 28, 2003, at Ottawa, Ontario.
+Before: The Honourable Judge Lucie Lamarre
+Appearances:
+Agent for the Appellant:
+Inaam Gul Minhas
+Counsel for the Respondent:
+Tony Chambers
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister on the appeal made to him under section 91 of the Act is varied on the basis that Thageel Alshammari was not employed by the appellant in insurable employment during the period from September 9, 1997 to May 18, 2001.
+Signed at Ottawa, Canada, this 19th day of June 2003.
+"Lucie Lamarre"
+J.T.C.C.
+Citation: 2003TCC429
+Date: 20030619
+Docket: 2002-3444(EI)
+BETWEEN:
+KHUSHPRIT S. MALOKA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre, J.T.C.C.
+[1] This is an appeal from a determination by the Minister of National Revenue ("Minister") that, during the period from September 9, 1997 to May 18, 2001, Thageel Alshammari ("Worker") was employed by the appellant in insurable employment within the meaning of paragraph 6(e) of the Employment Insurance Regulations ("EIR"). In making his decision, the Minister relied on the assumptions of fact set out in paragraph 4 of the Reply to the Notice of Appeal, which read as follows:
+(a) the Appellant owns a taxi cab and a license for the Ottawa area; (admitted)
+(b) the Appellant drives his taxi for Blue Line Co. Limited; (admitted)
+(c) the Appellant paid $436.00 per month to Blue Line Co. Limited for their dispatching services, the right to use Blue Line sign and other services; (admitted)
+(d) the Appellant is responsible for the car maintenance and the insurance coverage; (admitted)
+(e) the Worker was a taxi driver; (admitted)
+(f) the Worker paid to the Appellant $300.00 per week for the cab lease; (admitted)
+(g) the Worker does not own more than 50% of the vehicle; (admitted)
+(h) the Worker is not the operator or owner of the business; (denied)
+[2] The evidence disclosed that the appellant owns one vehicle with a taxi plate, a meter and a CD radio. The appellant pays Blue Line Co. Limited for its dispatching services and the right to use the Blue Line sign and for other services. During the period at issue, he rented his taxicab, including all the Blue Line services, to the Worker, who held a taxi driver's licence. The Worker had to pass an examination with Blue Line in order to be able to drive the appellant's cab under the Blue Line name. It is also my understanding that the Worker could not let someone else drive the cab as a taxi driver without Blue Line's and the insurance company's approval.
+[3] The appellant and the Worker shared the cab on the basis of one 12-hour shift each every day. During their respective shifts, each was independent. Each charged his own clients and remitted goods and services tax ("GST") to the government individually. The vehicle was insured by the appellant and the Worker was covered by the appellant's insurance. However, if the Worker had a car accident and the insurance premiums subsequently rose, the Worker would assume the extra charge; the Worker would also be responsible for paying the deductible. In addition, the Worker paid for the gas, washing the car, windshield washer fluid and anything else used for the taxicab during his 12-hour shift. Furthermore, if the vehicle was damaged by a client during the Worker's shift, it was the Worker who was responsible for collecting from the delinquent client the fine set by the relevant city by-law and for paying the extra cost for repairs to the vehicle. Both the appellant and the Worker were covered by a union contract through Blue Line, which collected the union dues from the appellant who in turn charged the Worker for his part of those dues.
+[4] If a client made a complaint to Blue Line, the latter would communicate directly with either the appellant or the Worker, depending on which of the two had been immediately involved with the client.
+[5] As to the shifts, the Worker and the appellant had agreed thereon without giving any notice to Blue Line. Furthermore, each of them was at liberty to work the number of hours he wished during his shift. The Worker did not have to report to anyone and collected his money directly from the clients. He was also free to work at any taxi stand in the City of Ottawa or to use the vehicle for his personal affairs during his shift. The dress code is set by a city by-law and each taxi driver is personally responsible for following the rules in that regard.
+[6] The issue is whether, during the relevant period the Worker held insurable employment within the meaning of paragraph 6(e) of the EIR. That paragraph reads as follows:
+6. Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment:
+. . .
+(e) employment of a person as a driver of a taxi, commercial bus, school bus or any other vehicle that is used by a business or public authority for carrying passengers, where the person is not the owner of more than 50 per cent of the vehicle or the owner or operator of the business or the operator of the public authority.
+[7] It is clear in the present case that the Worker was not the owner of the vehicle he used for carrying passengers. The question which remains is whether he was the owner or operator of the business that used the vehicle rented from the appellant for carrying passengers.
+[8] On applying the test set out by the Supreme Court of Canada in 671122 Ontario Limited v. Sagaz Industries Canada Inc., [2001] S.C.J. No. 61 (Q.L.), it is clear in my view that the Worker was the owner of his own business. That test is summarized in paragraphs 47 and 48 of Sagaz as follows:
+Although there is no universal test to determine whether a person is an employee or an independent contractor . . . [t]he central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[9] Although there was a certain degree of control exercised by Blue Line, through the appellant, over the Worker (for example the Worker had to pass an examination to be able to drive the appellant's taxicab under the Blue Line name and the Worker could not let someone else operate the cab as a taxi driver without Blue Line's approval), that control was very limited. On his shift, the Worker alone was responsible for observing the relevant city by-laws and he ran the risk of losing his permit if he failed to comply therewith. He was driving the cab at his own convenience during his shift. He paid a weekly rental fee to the appellant for the use of the taxicab and all the services provided by Blue Line. Although he did not pay directly for the insurance coverage on the car, it seems obvious that he was charged for it via the rental fee, and the Worker had to pay all extra insurance charges ensuing from an accident during his shift.
+[10] Considering the relative weight of each factor referred to by the Supreme Court of Canada in Sagaz, I conclude that the Worker was in business on his own account.
+[11] However, in Martin Service Station v. M.N.R., [1977] 2 S.C.R. 996, the Supreme Court of Canada addressed the question of whether the provisions of the former Unemployment Insurance Act of 1955 ("UI Act of 1955") as amended, which authorized the Unemployment Insurance Commission to make regulations to include in insurable employment self-employment or employment not under a contract of service, were ultra vires the Parliament of Canada. The impugned provision was Regulation 64B of the Unemployment Insurance Regulations which was adopted under the authority of paragraph 26(1)(d) of the UI Act of 1955.
+[12] Regulation 64B read in part as follows:
+64B. (1) Except for employment that is excepted employment, the employment of every person who
+a) is employed in driving any taxi, commercial bus, school bus or other vehicle that is used by a business or public authority for carrying passengers, and
+b) is not the owner of the vehicle or the proprietor or operator of the business or public authority that uses the vehicles for carrying passengers,
+shall be included in insurable employment notwithstanding that such employment may be self-employment or employment not under a contract of service.
+[13] In addressing this constitutional issue, Beetz J. said the following at pages 1004-1005:
+. . . But, even leaving out of account any possible intention to evade the Acts, if conditions become such that those who have a contract of employment to perform a given type of work find themselves unemployed, it is most likely that those who perform the same type of work, although they be self-employed, will also find themselves out of work because of the same conditions. It is mainly to protect the latter against this risk of unavailability of work and involuntary idleness that the Acts are extended. Whether they be self-employed or employed under a contract of service, taxi drivers and bus drivers for instance are exposed to the risk of being deprived of work. This risk is, in my opinion, an insurable one, at least under a scheme of compulsory public insurance which was never expected to function on a strict actuarial basis provided it generally conformed to the nature of an insurance scheme, including protection against risk and a system of contributions.
+[14] Relying on the Martin Service Station case, the Federal Court of Appeal, in Canada (Attorney General) v. Skyline Cabs (1982) Ltd., [1986] F.C.J. No. 335 (Q.L.), viewed it to be settled law that the word "employment" in paragraph 12(e) (now paragraph 6(e) of the EIR, adopted under the authority of the Employment Insurance Act) of the Unemployment Insurance Regulations, adopted under the authority of the Unemployment Insurance Act, 1971 and replacing former Regulation 64B, is to be interpreted not in the narrower sense of a contract of service but in the broader sense of an "activity" or "occupation".
+[15] Those comments led Malone J.A. to state the following in his dissenting reasons in Yellow Cab Co. v. Canada, [2002] F.C.J. No. 1062 (Q.L.), at paragraphs 76 and 79:
+¶76 . . . As this Court noted in Canada (A.G.) v. Skyline Cabs (1986), 70 N.R. 210, what is now paragraph 6(e) operates to extend the conventional meaning of "employment." Paragraph 6(e), and the other provisions in section 6 which deem certain occupations to be insurable employment, operate to extend the benefits of employment insurance to those persons who would, under a more traditional analysis, fall outside the definition of employment. For this reason, hairdressers, taxi drivers, trainees/apprentices and persons under contract with an employment agency, to name a few, are included in insurable employment notwithstanding that under a traditional employee/independent contractor analysis, they would most often be considered independent contractors. It is noteworthy that the common law factors, namely those in Sagaz, supra, are utilized in those situations where a deeming provision such as paragraph 6(e) is not applicable.
+. . .
+¶79 Given this context, the application of the Sagaz factors is, in my analysis, improper. Such an application to the definition of "operator of a business" would sterilize paragraph 6(e), so as to deny benefits to taxi drivers who resemble independent contractors; the very situation that 6(e) was created to address.
+[16] On the other hand, Sexton J.A., speaking for the majority in Yellow Cab Co., analysed as follows Beetz J.'s comments in Martin Service Station, supra:
+¶38 Justice Beetz indicated that individuals, even if found not to be under a contract of service, can yet be deemed to be insurable employees. However, it should be remembered that this statement was addressed to the argument that it was ultra vires for Parliament to pass such legislation. The case holds that it is intra vires for Parliament to legislate so as to allow the Commission, pursuant to s. 5(4)(c), to deem persons not employed under a contract of service to be in insurable employment. Section 6(e) of the Regulations does exactly that, it deems some taxidrivers to be in insurable employment.
+¶39 This does not mean, as the Respondent contends, that s. 6(e) "was enacted to include in insurable employment the services of taxidrivers operating as independent contractors" nor does it mean that the Commission has deemed all taxidrivers to be in insurable employment. To the contrary, s. 6(e) expressly excludes taxidrivers that own or operate their own business from being deemed to be in insurable employment.
+[Emphasis added.]
+¶40 While it is true that the Supreme Court in Martin favoured a liberal interpretation of the Act, Martin is of limited application to the present case because it dealt with regular taxidrivers, not persons in the position of the lease‑operators or owner-operators and the issue as to who was the operator of the business was not present in Martin. Martin simply stands for the assertion that s. 6(e) is constitutionally valid notwithstanding that it can apply to taxidrivers who are not engaged in a contract of service. However, as I mentioned above, this does not mean that s. 6(e) transforms taxidrivers who own or operate their own business into employees. To the contrary, s. 6(e) expressly exempts such people.
+[Emphasis added.]
+¶41 On our facts, Matharu and the lease-operators are the owners or operators of the business. Clearly, pursuant to s. 5(4)(c) of the Act, the Commission could create regulations so that these individuals would be deemed to be employees. However, pursuant to s. 6(e) of the Regulations, it is equally clear that the Commission has chosen not to do so by indicating that where taxidrivers are the operators of the business, they will not be considered to be included in "insurable employment".
+[Emphasis added.]
+¶42 In Abrahams v. Attorney General of Canada, [1983] 1 S.C.R. 2, Wilson J. stated at 10 that "[s]ince the overall purpose of the Act is to make benefits available to the unemployed, I would favour a liberal interpretation... ." Later, in Hills v. Canada (Attorney General), [1988] 1 S.C.R. 513, the majority of the Supreme Court of Canada adopted this view and noted at paragraph 37 that "[t]here is no doubt that legislation relating to unemployment, when first enacted in England and later in Canada, had a social objective", and at paragraph 40 that
+The basic thrust of the original Act remained constant through the years. Its numerous amendments were designed to expand qualifying conditions and increase benefits and contributions in order to eliminate inequities, to promote employment opportunities and to co-ordinate other social assistance programs. The shift, if any, was rather from the main protection objective to the labour market objective.
+¶43 The above cases clearly express that it was Parliament's intention to protect the unemployed and that the Act must be interpreted liberally. However, none of these cases take away from the conclusion I have reached. A finding that the Act is to be applied liberally, cannot be used to contradict the plain meaning of s. 6(e).
+[Emphasis added.]
+[17] In Skyline Cabs, supra, Skyline held a taxicab broker's licence and rented its vehicles to drivers for a fee that included access to a dispatch service. The Federal Court of Appeal held that even though the drivers leased vehicles from Skyline without a contract of service, they were nonetheless in insurable employment. In MacGuigan J.'s view, the facts in that case established a sufficient degree of participation by Skyline in the carrying of passengers by the taxis to be caught by the former paragraph 12(e) of the Unemployment Insurance Regulations (now paragraph 6(e) of the EIR). He said the following at page 5:
+The sum total of these facts may not be sufficient to establish the existence of a contract of service between the drivers and the respondent, but in my opinion irrefutably establishes a sufficient degree of participation by the respondent in the carrying of the passengers by the taxis. If such a full degree of participation by the respondent in the carriage of passengers were not enough to establish that the taxis may be said to be used by it as part of its business, it seems to me that the policy of the statute to protect taxi drivers against the "risk of unavailability of work and involuntary idleness", as expressed by the Supreme Court of Canada in the Martin case, supra, would not be implemented.
+[18] It is to be noted that in Yellow Cab, supra, Sexton J.A. downplays the importance of the decision in Skyline Cabs as, in his view, MacGuigan J. emphasized the factor of control whereas a more recent analysis of other factors in defining "independent operators" has been provided by the Supreme Court of Canada in Sagaz. Sexton J.A. goes on to say in Yellow Cab at paragraph 49:
+. . . As noted, the central question is "whether the person who has been engaged to perform the services is performing them as a person in business on their own account" (Sagaz) and the answer to that question depends on the "total relationship of the parties" (Wiebe).
+[19] In any event, in Skyline Cabs, MacGuigan J. said that if Skyline had merely owned automobiles which were equipped to operate as taxicabs and which were offered for rent to licensed taxicab drivers at a set rental fee, he would not have considered that the taxis were used by Skyline for carrying passengers as required by former paragraph 12(e) of the Unemployment Insurance Regulations (now paragraph 6(e) of the EIR). Skyline was the holder of a taxicab broker's licence; its rental fee to the drivers included access to a dispatch service. Skyline enforced a dress and grooming code for its drivers. It forced drivers to keep the cars clean by way of a coded warning system that could include withdrawal of radio dispatch service and even repossession of the vehicle. Skyline also obliged its drivers to accept payment by valid credit cards or approved charge slips and paid the drivers after deduction of a service fee.
+[20] Here, with the exception of the dispatch service that was included in the rental fee, none of the other above-mentioned facts present in Skyline Cabs occurred or have been shown to have existed in the actual relationship between the appellant and the Worker.
+[21] Indeed, I find the situation here much different than that in Skyline Cabs or even that in Mangat v. Canada, [1997] T.C.J. No. 1247 (Q.L.), confirmed by [2000] F.C.J. No. 1464 (F.C.A.) (Q.L.) and referred to by counsel for the respondent. In the latter case, Mangat was found to be in the business of owning and maintaining taxicabs which he leased to taxi drivers at a price that included dispatch services. The essential question raised by the Court of Appeal in that case was whether it was Mangat, as owner of the taxis, who employed people as drivers, or whether it was the taxi dispatch company that fulfilled that role. There was no issue with respect to the insurability of the taxi drivers and Mangat was not himself a taxi driver.
+[22] In the present case, I do not find that the appellant is in the business of owning taxicabs that are leased to taxi drivers for carrying passengers. The appellant owns one single taxicab that he uses to carry passengers under Blue Line's banner in order to earn his own living. He made an agreement with one taxi driver, the Worker, to share the operation of the taxicab on a fifty-fifty basis. Although the Worker did not own the vehicle, he rented it, assuming all the risks associated therewith, to run his own business of carrying passengers during his shift. He did not have to report to anyone and Blue Line dealt directly with the Worker in the event that there were any problems during his shift. The Worker bore all the financial risks associated with the business of carrying passengers during his shift and he alone was in a position to gain a profit or suffer a loss from the operation of his taxicab business.
+[23] As Sexton J.A. stated in Yellow Cab, supra, paragraph 6(e) of the EIR expressly excludes taxi drivers who own or operate their own business from being deemed to be in insurable employment. It is my opinion that here the Worker was as much in the business of carrying passengers on his own account as was the appellant. I do not think that it can be said that the Worker was working for the appellant's business just because the appellant made the decision to share the cost of operating his taxicab with the Worker. In my view, each was independently using the same taxicab in his own business for carrying passengers. I therefore conclude that paragraph 6(e) of the EIR does not apply here to deem the Worker to have held insurable employment with the appellant.
+[24] Consequently, the appeal is allowed and the decision of the Minister is varied on the basis that the Worker was not employed by the appellant in insurable employment during the period from September 9, 1997 to May 18, 2001.
+Signed at Ottawa, Canada, this 19th day of June 2003.
+"Lucie Lamarre"
+J.T.C.C.
+CITATION:
+2003TCC429
+COURT FILE NO.:
+2002-3444(EI)
+STYLE OF CAUSE:
+Khushprit S. Maloka v. M.N.R.
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+May 28, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Lucie Lamarre
+DATE OF JUDGMENT:
+June 19, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Inaam Gul Minhas
+Counsel for the Respondent:
+Tony Chambers
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Inaam Gul Minhas
+Firm:
+Minhas and Associates
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

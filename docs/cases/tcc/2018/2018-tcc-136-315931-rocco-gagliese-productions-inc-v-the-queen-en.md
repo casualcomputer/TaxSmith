@@ -1,0 +1,223 @@
+---
+title: "Rocco Gagliese Productions Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/315931/index.do"
+last_modified: "2018-07-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 136"
+citation2: ""
+neutral_citation: "2018 TCC 136"
+decision_date: "2018-07-10"
+language: "en"
+item_id: "315931"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4952
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:43:37.039000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6fe345c4fd970e4f840b025539efe72a4e3f546ac2c99f37cc2bddd68049d705"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rocco Gagliese Productions Inc. v. The Queen
+
+- Citation: 2018 TCC 136
+- Decision date: 2018-07-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4952, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rocco Gagliese Productions Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-07-10
+Neutral citation
+2018 TCC 136
+File numbers
+2016-341(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-341(IT)G
+BETWEEN:
+ROCCO GAGLIESE PRODUCTIONS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 16 and 17, 2018 at Toronto, Ontario
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Larry Nevsky
+Jacob Yau
+Counsel for the Respondent:
+Tony C. Cheung
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+The appeal with respect to reassessments made under the Income Tax Act for the Appellant’s 2011, 2012 and 2013 taxation years is allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was engaged in an active business carried on in Canada.
+The parties will have 30 days from the date of this judgment to arrive at an agreement on costs, failing which they are directed to file their written submissions on costs within 60 days of the date of this judgment. Such submissions shall not exceed 10 pages.
+Signed at Antigonish, Nova Scotia, this 10th day of July 2018.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2018 TCC 136
+Date: 20180710
+Docket: 2016-341(IT)G
+BETWEEN:
+ROCCO GAGLIESE PRODUCTIONS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The issue in this appeal is whether the income the Appellant realized during its 2011, 2012 and 2013 taxation years from music composed by an employee, who is a member of the Society of Composers, Authors and Music Publishers of Canada (referred to as “SOCAN”), is eligible for the small business deduction pursuant to subsection 125(1) of the Income Tax Act.
+[2] It appears that this issue comes before the Court because the Canada Revenue Agency (the “CRA”) has revoked its administrative position set out in Technical Interpretation 9722915 dated September 26, 1997, which the CRA confirmed in Technical Interpretation 2007 0238221E5 released on April 14, 2009. The administrative position was as follows:
+Although royalty income is generally from a source that is property, where it can be established that the royalty income is related to an active business carried on by the recipient corporation in the year, or the recipient corporation is, in the year, in the business of originating property from which the royalties are received, such income will be considered to be income from an active business. Therefore, if a company is in the business of composing music, the income it earns with respect to its copyrighted music would generally be considered active business income. The fact that such income is in the form of royalties is not, in and by itself, sufficient to conclude that it is property income. [1]
+[3] Counsel for the Respondent, during his argument, stated that even if I find that the Appellant was in the business of dealing in or originating the performing rights with respect to music, from which royalties are received, it is still not income from an active business. [2]
+[4] This appears to be a significant issue since music composers in Canada receive their revenue principally through SOCAN and SOCAN identifies the payments it makes as royalties. SOCAN has approximately 150,000 members and the evidence before me is that a significant portion of the members carry on their music composition business through a corporation.
+[5] I heard from two witnesses, Ms. Terra Williams and Mr. Rocco Gagliese. Ms. Williams has worked for SOCAN for 20 years and is currently the Assistant Manager, Member Relations. Mr. Gagliese is the sole director, officer and shareholder of the Appellant. He is an Emmy-award-winning music composer.
+[6] I found both witnesses to be credible.
+[7] Each party also filed a Request to Admit at the commencement of the hearing.
+I. Summary of Relevant Facts
+[8] Ms. Williams explained that SOCAN is a not-for-profit organization owned by its members. It exists to ensure that its members are fairly compensated for the public performance of their music. Its membership consists of members who are writers (such as songwriters), composers and authors (“Writer Member”) and members who are publishers (“Publisher Member”).
+[9] A Writer Member must be an individual. He or she must have written (solely or jointly with other persons) a musical work that has been recorded or published or performed live. Ms. Williams noted that Mr. Gagliese is a Writer Member of SOCAN and that his membership number is 5583353.
+[10] A Publisher Member must own at least five copyrighted musical works that a Writer Member has assigned to it. Ms. Williams noted that publishers are in the business of getting their writers’ music heard by the public. A Publisher Member can be either an individual or a corporation. Neither the Appellant nor Mr. Gagliese is a Publisher Member.
+[11] Ms. Williams described SOCAN as a performing rights organization that distributes payments to its writers and publishers in respect of the public performance of musical works by way of telecommunication to the public. Examples of such performances are performances on broadcast television, on the radio, and on the Internet.
+[12] She noted that SOCAN does not license, or collect royalties for, music used in commercials. [3]
+[13] SOCAN requires data in order to make payments to its Writer Members and Publisher Members. SOCAN determines the amount of money to pay its members in respect of music used on broadcast television as follows:
+- SOCAN receives in respect of each performance of a music track (also referred to as a cue) on a television show that aired on public television sufficient data to allow it to match the performance to the holders of the rights in respect of the music. The data is provided on what are referred to as cue sheets.
+- SOCAN then employs a formula developed by its board to calculate individual royalties. The formula incorporates usage (whether the track was theme music, feature music or a track otherwise used in the television program) and the duration of the track on the specific television show. SOCAN applies the formula to the total amount of licensing fees it has received in respect of television.
+[14] The Court was provided with a copy of SOCAN’s distribution rules. [4] Rule 3.01 of the distribution rules provides for the pooling of the television licensing fees as follows: “All revenue from broadcast television licence fees and broadcast television retransmission royalties, less net overhead, shall be pooled for the purposes of the television distribution.”
+[15] Exhibit A-24 is an example of a cue sheet. The cue sheet contains the name of the television production, the actual episode in which the music track was used, the year the episode aired, the performance duration, a list of the music used in the episode, a list of the composers who may have scored the music for the show and the usage of the music. Ms. Williams noted that either the Writer Member or the television production company prepares the cue sheet. It is used to determine if the music was specifically composed for a television production.
+[16] Rule 19.02.02 of SOCAN’s distribution rules provides in part: “Distribution cheques on account of performing right royalties credited to a writer member may, on that writer member’s written direction, be made payable to an incorporated entity . . . the shares of which are entirely owned and controlled by that writer member. . ..” [5]
+[17] Thus, while a Writer Member must be an individual, the member may assign any royalties payable to him or her to a corporation, provided the member is the sole owner of the corporation and controls the corporation.
+[18] On October 10, 2007, Mr. Gagliese executed a direction to SOCAN to make all future royalty distribution cheques payable to the Appellant. He warranted and represented that he had assigned to the Appellant the right to receive distribution cheques on account of performing rights royalties ordinarily payable to him as a Writer Member of SOCAN. [6]
+[19] Mr. Gagliese testified with respect to his history in the music industry and concerning the business carried on by the Appellant.
+[20] In addition to being the sole director, officer and shareholder of the Appellant, Mr. Gagliese is the Appellant’s only employee. He is the Appellant’s controlling mind.
+[21] Mr. Gagliese has a long history in the music industry. After studying radio and television production at Ryerson University, he studied music. He then joined numerous bands, playing mainly in Northern Ontario.
+[22] In 1998, he incorporated the Appellant to start the business of composing music. He did the incorporation on the advice of more seasoned composers to protect himself personally from copyright liability. Mr. Gagliese believed (and still believes) that the music business is a “very litigious business wherein you can stumble onto someone else’s music”.
+[23] Mr. Gagliese testified that, during the relevant period, he carried out all of his activities with respect to the writing and recording of music for television programs, including the procurement of such business, as an employee of the Appellant. I accepted his evidence on this key point. The fact that he assigned his rights to the revenue from such writing and recording to the Appellant supports Mr. Gagliese’s testimony that he rendered his services as an employee of the Appellant.
+[24] In his own words, when Mr. Gagliese started as an employee of the Appellant he was writing music “for everything from video games to stock music libraries”. In 2003, he landed his first television show, called The Blobheads. He provided the producers with four or five themes for the show and they chose one of the themes.
+[25] The Appellant’s business grew and Mr. Gagliese began writing for a wide variety of television shows, including a number of children’s shows such as Peep and the Big Wide World, Curious George, Wonder Why? and Fetch!. He won an Emmy award for best original song for the theme to the children’s television show called Fetch!.
+[26] The Appellant’s biggest client is the CBC. Mr. Gagliese has written music for CBC programs such as The National, The Passionate Eye, and The Lang and O’Leary Exchange. Other television channels such as Treehouse, YTV and TVO are also clients.
+[27] Mr. Gagliese described how the music he composes is used in a television episode. He noted that it depends on what is needed in a scene. If a television episode were 22 minutes long, he would probably write 10 to 12 minutes of music. The 10 to 12 minutes are comprised of numerous tracks/cues of music. He noted that for each track used a number of other tracks are rejected.
+[28] An important part of the Appellant’s business is finding clients. Mr. Gagliese does this by “getting into” the right industry circles through attending parties and other events. It is through this process that Mr. Gagliese met producers of television shows. Once he had provided music tracks for a few shows, he started to gain a reputation. This is how Mr. Gagliese built the Appellant’s business. He noted that the Appellant received more business after he won the Emmy. Other writers started to retain him on a subcontract basis to write a music track for use in a television show.
+[29] Mr. Gagliese explained how he pitches music for a specific show. He may send multiple suggested themes to a producer or the producer may send a scene or two from a show in rough form and ask Mr. Gagliese how he would score the scenes. Once the Appellant wins the show, Mr. Gagliese starts composing music for the show. It appears that, in most instances, Mr. Gagliese is chosen as one of four or five composers of music for the show.
+[30] Mr. Gagliese explained that once the producers select a writer for a show the writer normally writes all of the music tracks for the show. Only on rare occasions has he been selected to write the theme music for a show, but not the tracks for individual episodes.
+[31] Composing the music tracks for an individual episode of a television show involves watching a nearly completed episode with the producer of the show and deciding what music is required. He then starts writing music for the episode, however not all the music is accepted by the producer. Mr. Gagliese estimated that only one third of what he writes is actually used in an episode.
+[32] Once the producers have chosen specific music, Mr. Gagliese performs and records the music for the show.
+[33] He used the CBC’s The National as an example of how the composition of music tracks unfolds. He noted that specific events that are reported on The National need to be scored. For example, a score must be written for an unexpected event such as a natural disaster or a planned event such as a royal wedding or an election. He writes music tracks for each such event.
+[34] During the years at issue, he worked an average of 30 hours per week for the Appellant, doing such things as pitching for work, attending viewing sessions with producers, and writing and recording the music. During this period, he composed roughly 6,000 new music tracks. Since Mr. Gagliese joined SOCAN in 2003, he has composed roughly 22,000 music tracks. This includes only the music tracks that were used on a television show; it does not include the numerous tracks that ended up on the “cutting room floor”.
+[35] Mr. Gagliese recorded most of the music tracks in the soundproofed basement of his home. The Appellant provided the Court with invoices for a piano and soundproofing acquired by it for use in the music-writing business.
+[36] During the relevant years, the Appellant received annual revenue of between $127,000 and $151,000 from Mr. Gagliese’s composing and writing efforts.
+[37] Mr. Gagliese noted that SOCAN, not clients such as the CBC, pays the revenue for the music used in the various television shows. Prior to SOCAN coming into existence, clients paid composers directly out of so-called production money, but this ended once SOCAN arrived on the scene.
+[38] Mr. Gagliese testified that while he did receive some so-called residual income, for example, for the theme song for the recurring children’s television show Curious George, the amount was not significant. The Appellant’s income came primarily from Mr. Gagliese’s ongoing writing of music tracks each year for new television episodes. In fact, Mr. Gagliese testified that, during the period from 2004 to 2008, when he was not composing music for new television episodes, the Appellant’s income from the writing of music “dried up”.
+[39] During the period from 2004 to 2008, Mr. Gagliese, together with a partner, started a company called Eggplant. He continued to work for Eggplant during the relevant period. Eggplant is not in the same business as the Appellant. Eggplant produces audio for television and radio commercials. Eggplant does not write music tracks for television shows. Eggplant does not receive any revenue from SOCAN. As mentioned previously, SOCAN is not involved with commercials.
+[40] During the relevant years, the Appellant owned a residential rental property in respect of which it received rent of $12,722 in 2011, $10,784 in 2012 and $1,792 in 2013.
+II. The Law
+[41] Subsection 125(1) of the Income Tax Act allows a corporation to claim the small business deduction in respect of the income of the corporation for the year from an “active business” carried on in Canada.
+[42] An “active business carried on by a corporation” is defined in subsection 125(7) to mean “any business carried on by the corporation other than a specified investment business or a personal services business and includes an adventure or concern in the nature of trade”.
+[43] A “specified investment business” carried on by a corporation in a taxation year is defined, in part, in subsection 125(7), to mean a business “. . . the principal purpose of which is to derive income (including interest, dividends, rents and royalties) from property. . .”. [7]
+[44] Thus, any business carried on by a corporation will be an active business provided the business is not a specified investment business or a personal services business. The issue in this appeal is whether the business carried on by the Appellant was a specified investment business.
+[45] Another issue raised by the facts in this appeal is, if I find that the Appellant carried on an active business, what income should be included as income of the active business? This brings into play subsections 125(7) and 129(4) of the Income Tax Act.
+[46] Subsection 125(7) contains the definition of “income of the corporation for the year from an active business”. This definition provides, in part, that such income includes “the corporation's income for the year from an active business carried on by it including any income for the year pertaining to or incident to that business, other than income for the year from a source in Canada that is a property (within the meaning assigned by subsection 129(4))”.
+[47] Subsection 129(4), in defining the “income” or “loss” of a corporation for a taxation year from a source that is a property, states that it:
+. . .
+(a) includes the income or loss from a specified investment business carried on by it in Canada other than income or loss from a source outside Canada, but
+(b) does not include the income or loss from any property
+(i) that is incident to or pertains to an active business carried on by it, or
+(ii) that is used or held principally for the purpose of gaining or producing income from an active business carried on by it.
+[48] As a result, a corporation’s income from an active business does not include income for the year from a source that is property, unless the income from the property is incident to or pertains to the active business carried on by the corporation or the property is used or held principally for the purpose of earning or producing income from an active business carried on by the corporation.
+III. Appellant’s Argument
+[49] Counsel for the Appellant summarized the Appellant’s argument as follows:
+- The Appellant was engaged in an active business within the meaning set out in subsection 125(7). Specifically, this was the business of creating, writing and composing music that is used for television shows. The Appellant's business is not the type of business that Parliament intended when it introduced the concept of a specified investment business.
+- Further, even if the specified investment business definition might be applicable to this case, which the Appellant denies, the evidence is clear that the principal purpose test contained within that rule has not been satisfied. Again, from the evidence, the principal purpose is clear: the company was incorporated for the purpose of writing music and earning income from music writing itself.
+- And lastly, even if the Appellant's business falls within the definition of a specified investment business, the income received by the Appellant was from property that was either incident to or pertained to an active business carried on by the Appellant or was used or held principally for the purpose of gaining or producing income from an active business. Accordingly, the income is considered to be active business income by operation of the exceptions contained in subsection 129(4), which is incorporated in the definitions relating to small business rules.
+IV. Respondent’s Argument
+[50] Counsel for the Respondent argued, relying on the Federal Court of Appeal’s decision in Weaver v. The Queen (Weaver) [8] that the business carried on by the Appellant was a specified investment business. Counsel argued that, pursuant to the decision in Weaver, the determination is to be based on the legal character of the income. Since the Appellant earned royalty income from SOCAN, its business was a specified investment business.
+[51] In reply to a question from the Court, counsel confirmed that the Respondent’s position, in light of the Court of Appeal’s decision in Weaver, is founded on the fact that payment for the services in issue was made as a royalty and that this is determinative of the issue of whether or not the taxpayer carried on a specified investment business.
+[52] He also argued that, when making the factual determination of the principal purpose of the Appellant’s business, I should consider the legal character of the income earned by the Appellant at the relevant time, the assets held by the Appellant at the relevant time and the kind of income that those assets were capable of earning. Subjective intent is less important.
+[53] With respect to the assets held by the Corporation, counsel argued that the principal assets of the Appellant were property in the form of an assignment of royalty rights, since it did not own the copyrighted material directly.
+V. Disposition of the Appeal
+[54] The issue I must decide is what, during the relevant period, was the principal purpose of the business carried on by the Appellant. This is a question of fact. When making the determination it is important to consider what the Appellant in fact does and what its sources of income are. [9]
+[55] The evidence before me is that the principal activity of the Appellant was the writing and recording of music for specific television episodes. This was its primary source of revenue.
+[56] In light of this evidence, it is my view that the principal purpose of the Appellant was to earn income from the writing and recording activities of its primary asset, Mr. Gagliese, who was its only employee. Further, the vast majority of this income arose from the daily activities of Mr. Gagliese, as an employee of the Appellant, in procuring clients, writing the numerous tracks/cues for specific television episodes and the subsequent recording of such tracks. This required a significant amount of daily activity, which is evidenced by the fact that Mr. Gagliese wrote and recorded at least 6,000 new music tracks for specific television episodes during the relevant period. I accept his testimony that each of these tracks was used in a new episode of a television show that aired on a specific date.
+[57] For example, the CBC retained the Appellant to write for a specific showing of its nightly The National newscast, specific music tied to the news for that specific day.
+[58] The Appellant received very little revenue from so-called residuals, that is, from tracks that were heard in reruns of television episodes.
+[59] It was not the principal purpose of the Appellant’s business to earn income from property. The principal purpose of the Appellant’s business was to earn income from Mr. Gagliese’s daily activities of originating and recording music tracks for individual television episodes. As Mr. Gagliese testified, if you take away his daily writing activities, the Appellant earned little or no income.
+[60] I do not agree with the Respondent’s counsel’s application of the Federal Court of Appeal’s decision in Weaver. The Court of Appeal stated at paragraph 25 of its decision that the definition of “specified investment business” asks about the legal character of the income that the business is intended to principally earn. As I have just stated, the Appellant intended to earn income principally from the daily music writing services provided by its employee, Mr. Gagliese.
+[61] Prior to SOCAN coming into existence, a music composer’s client paid the composer directly for the services rendered in writing and recording tracks/cues for television episodes. It appears to me that in such a situation, the income realized from the business of composing and recording that music would clearly be income from an active business.
+[62] Once SOCAN came into existence, the client no longer paid the music composer directly for the services. Instead, the payments were made through SOCAN. However, they were being made for the same services. The unique method used in the Appellant’s industry to pay for the services provided does not change the principal purpose of the Appellant’s business.
+[63] In my view, the CRA correctly applied the Federal Court of Appeal’s 2008 decision in Weaver when they stated in 2009 in Technical Interpretation 2007 0238221E5, confirming their position of 22 years standing that “. . . if a corporation carries on a music composition business, the revenue it derives from copyrights will generally be considered as income from an active business. The fact that such income is in the form of royalties is not in itself sufficient to conclude that [the] income is income from property.” To use the CRA’s own words from 1997 Technical Interpretation 9722915, “[where] the recipient corporation is, in the year, in the business of originating property from which the royalties are received, such income will be considered to be income from an active business”.
+[64] For the foregoing reasons, I have concluded, based upon the facts before me, that the principal purpose of the Appellant’s music composing business was to derive income from the provision of services.
+[65] Having found that the Appellant carried on an active business, I must now consider what the Appellant’s income was for the relevant years from the active business under the definition of such income contained in subsection 125(7). On the evidence before me, I conclude that it was all of the income from the Appellant’s music composing business.
+[66] As I discussed previously, the Appellant did receive some so-called residual income, i.e., income from tracks that were heard in reruns of television episodes. Such income was incident to and pertained to the Appellant’s active business. As a result, under the relevant definitions in subsections 125(7) and 129(4), such income was not income from property, but rather was income from an active business.
+[67] The income the Appellant received from the rental of the residential property was income from property. It was not part of the Appellant’s income from an active business. There is no evidence before me that the Appellant used the residential property in its active business.
+[68] For the foregoing reasons, the appeal is allowed with costs and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was engaged in an active business carried on in Canada.
+[69] The parties will have 30 days from the date of this judgment to arrive at an agreement on costs, failing which they are directed to file their written submissions on costs within 60 days of the date of this judgment. Such submissions shall not exceed 10 pages.
+Signed at Antigonish, Nova Scotia, this 10th day of July 2018.
+“S. D’Arcy”
+D'Arcy J.
+CITATION:
+2018 TCC 136
+COURT FILE NO.:
+2016-341(IT)G
+STYLE OF CAUSE:
+Rocco Gagliese Productions Inc. v. Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 16 and 17, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT:
+July 10, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Larry Nevsky
+Jacob Yau
+Counsel for the Respondent:
+Tony C. Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Larry Nevsky
+Jacob Yau
+Firm:
+Dentons Canada LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Technical Interpretation 9722915, dated September 26, 1997.
+[2] Transcript, page 196. See also Transcript, page 205.
+[3] See Exhibit A-22, SOCAN Distribution Rules, Rule 4.07.
+[4] See Exhibit A-22.
+[5] See Exhibit A-22, page 257.
+[6] See Exhibit AR-4.
+[7] The definition contains two exclusions that are not relevant for the purposes of this appeal.
+[8] 2008 FCA 238, 2008 DTC 6517.
+[9] Ed Sinclair Construction & Supplies Ltd. v. M.N.R., 92 DTC 1163, page 1165.

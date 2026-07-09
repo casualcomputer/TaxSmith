@@ -1,0 +1,230 @@
+---
+title: "9124-0515 Québec Inc. v.  The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/180619/index.do"
+last_modified: "2016-04-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 208"
+citation2: ""
+neutral_citation: "2016 TCC 208"
+decision_date: "2016-04-19"
+language: "en"
+item_id: "180619"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2894
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:53:13.800000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7c367e84f44f76cf6297ba50b8b8aed6210ef4889901f8bf8c9970bdd8ce4eed"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9124-0515 Québec Inc. v.  The Queen
+
+- Citation: 2016 TCC 208
+- Decision date: 2016-04-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2894, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9124-0515 Québec Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-04-19
+Neutral citation
+2016 TCC 208
+File numbers
+2014-84(GST)I
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+[ENGLISH TRANSLATION]
+Docket: 2014-84(GST)I
+BETWEEN:
+9124-0515 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 19, 2016, at Montréal, Quebec.
+Before: The Honourable Mr. Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Michael Heller
+Counsel for the Respondent:
+Christian Lemay
+JUDGMENT
+The appeal of the assessment issued under Part IX of the Excise Tax Act, for which the notice is dated November 16, 2012, number 1021881, for the period of May 1, 2012, to July 31, 2012, is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Winnipeg, Manitoba, this 23rd day of September 2016.
+"Guy Smith"
+Smith J.
+[ENGLISH TRANSLATION]
+Citation: 2016 TCC 208
+Date: 20160923
+Docket: 2014-84(GST)I
+BETWEEN:
+9124-0515 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Smith J.
+[1] Company 9124-0515 Québec Inc. (the appellant), also known by the company name "Gestion Brière & Fils," is appealing an assessment issued under the Excise Tax Act[1] (the ETA) in which the Minister of National Revenue (the Minister) refused to issue it an input tax credit (ITC) in the amount of $14,025.07 for the purchase of a recreational vehicle (the vehicle) with a value of $310,000.
+[2] The notice of assessment is dated November 16, 2012, and the assessment period is from May 1 to July 31, 2012.
+[3] The Minister argues that the appellant cannot claim the ITC in question because the appellant did not acquire the vehicle for use primarily in commercial activities, as stipulated in paragraph 199(2)(a) of the ETA.
+[4] The Minister also argues that the appellant cannot claim the ITC because it is a recreational vehicle that was acquired exclusively for personal consumption or use by its primary shareholder, and because the shareholder did not pay consideration equal to the vehicle’s fair market value, as stipulated in paragraphs 170(1)(b) and (c) of the ETA.
+[5] The appellant, conversely, maintains that the vehicle was acquired in the course of its usual commercial activities as a property and building management company, that it was notably used for business development and canvassing by affiliated businesses, and that, when it was used for the personal ends of the main shareholder, the use or lease was at fair market value.
+[6] The hearing was held on April 19, 2016, under the informal procedure.
+[7] For the reasons that follow, I find that the appeal should be dismissed.
+I. Summary of facts [8] According to Éric Brière, the appellant is a property and building management company that notably holds a housing stock, motor vehicles, and plumbing equipment which it rents to third parties and affiliated businesses, including Plomberie Brière Inc. and Robert et Cie Ltée. It also has a few vehicles for personal use (Mercedes and BMW).
+[9] The shares of the appellant, Plomberie Brière Inc. and Robert et Cie Ltée. are all 100% held by Mr. Brière, who is also the president and chief executive officer.
+[10] On July 2, 2012, the appellant acquired an Itasca-brand vehicle, a 2012 Ellipse, for $310,000. The sales contract indicated that a recreational vehicle had been traded in at a value of $32,400.
+[11] On July 5, 2012, a few days after that transaction, Mr. Brière transferred to the appellant a Cameo fifth-wheel trailer for a sum of $35,000. According to Mr. Brière, this vehicle was acquired in 2004 and he had used it only for personal reasons, specifically for [translation] "camping trips in Quebec" and trips to Florida.
+[12] Mr. Brière claims he had come up with the idea of using the new vehicle as a mobile office for business development for affiliated companies and canvassing. In the meantime, the vehicle was also used for the personal reasons for which he was billed.
+[13] The appellant entered into evidence a series of invoices demonstrating that it had billed Mr. Brière and his affiliated companies at a rate of $2000 plus tax for each week of use. He acknowledged that he had never paid any of these bills and that everything had been resolved through accounting entries, in particular an end-of-year dividend declaration.
+[14] During the 24-month period following the date of acquisition, Mr. Brière was billed for 17 weeks of personal use, while the affiliated companies were billed for about 10 weeks. According to the kilometrage record, which covers only 13 months, Mr. Brière made a 3392-km trip to Myrtle Beach, Virginia, in the summer of 2012, a second trip of 5284 km to Florida, where he left the vehicle from the end of December to the beginning of March 2012, and finally, a 12,295-km, nine-week trip in the summer of 2013 to western Canada, specifically Alberta and British Columbia by way of the United States.
+[15] The kilometrage record indicates that the vehicle was also used for about 30 trips during that period, the great majority of which were for a day in the Granby and Sherbrooke region.
+[16] Mr. Brière maintains that the trip to western Canada in the summer of 2013 was for the purposes of canvassing and surveying land for his clients and affiliated companies. He claims that the vehicle was set up for receiving clients. There was a computer, a printer and audiovisual equipment for making presentations. He claims that there was a trailer with which he transported models of what he could build. He described his vehicle as a "show room" equipped for receiving clients.
+[17] He claims that his efforts eventually bore fruit and, in support of this claim, submitted a series of invoices for services rendered in British Columbia by Plomberie Brière Inc. to Mécan Hydro (from September 20, 2013 to October 13, 2013) and in Alberta to Industries de Moulage Polymax Inc. (from September 3, 2014 to June 10, 2015). These invoices suggest that Plomberie Brière Inc. provided materials, equipment and labour during the indicated periods.
+[18] Plomberie Brière Inc. also took steps to obtain a certification with Albertan authorities in 2014 and 2015. While stating that he still has an office in Alberta, he explained that the oil crash and economic recession that followed meant he no longer really had a presence in western Canada.
+[19] Mr. Brière also said that he was able to engage in business development by sponsoring someone named Andrew Ranger, who participated in NASCAR races in Edmonton in the summer of 2013. The vehicle was parked on the site of this activity, and Mr. Ranger stayed there for the duration of the event rather than getting a hotel room. This sponsorship allowed Mr. Brière special access to the event.
+[20] The Minister, on the other hand, argues that the recreational vehicle that Mr. Brière used for personal reasons for eight years was traded in for the vehicle in question, which necessarily suggests a continuity of personal use. The Minister also notes that the exchange value, meaning the value accepted by the seller of the new vehicle, was different from the price of the sale from Mr. Brière to the appellant, for unexplained reasons.
+[21] The Minister observed that the vehicle was mostly used for personal reasons for the first 12 months, and was particularly skeptical that the trip to western Canada was for business reasons, noting that Mr. Brière was accompanied by his spouse and son and only had three business meetings. He also asserted that the execution of contracts in western Canada in 2013 and 2014, as described above, was for existing clients in the Granby region.
+[22] Regarding the sponsorship, the Minister claimed that it was more of a pastime and a personal pursuit for Mr. Brière.
+[23] Finally, Johanne Hébert of the company VR St-Cyr, a recreational vehicle rental company, testified for the respondent. She recognized the vehicle in question and indicated that such a vehicle was rented from September 1 to June 15 at a rate of $4500 a week and for the months of July and August for $5000 per week plus taxes.
+II. Applicable law [24] Subsection 169(1) of the ETA states the general rule for calculating an ITC by establishing the conditions that must be met for a registrant to claim an ITC, specifically that the property or service acquired must be used for consumption, use or supply in the course of "commercial activities" of the person as defined in subsection 123(1) of the ETA:
+commercial activity of a person means:
+a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply; (activité commerciale)
+[My emphasis.]
+[25] The concept of a business is also defined in subsection 123(1) of the ETA:
+"business" includes a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit, and any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, licence or similar arrangement, but does not include an office or employment; (entreprise)
+[26] Subsection 170(1) of the ETA then imposes restrictions on calculating the ITC, namely that no amount shall be included in respect of the tax payable by the registrant in respect of certain property or services. This provision stipulates, among other things:
+170(1) In determining an input tax credit of a registrant, no amount shall be included in respect of the tax payable by the registrant in respect of:
+(a) . . .
+(a.1) . . .
+(b) a supply, importation or bringing into a participating province of property or a service that is acquired, imported or brought in by the registrant at any time in or before a reporting period of the registrant exclusively for the personal consumption, use or enjoyment (in this paragraph referred to as the “benefit”) in that period of a particular individual who was, is or agrees to become an officer or employee of the registrant, or of another individual related to the particular individual, except where
+(i) the registrant makes a taxable supply of the property or service to the particular individual or the other individual for consideration that becomes due in that period and that is equal to the fair market value of the property or service at the time the consideration becomes due, or
+(ii) if no amount were payable by the particular individual for the benefit, no amount would be included under section 6 of the Income Tax Act in respect of the benefit in computing the income of the particular individual for the purposes of that Act; and
+(c) a supply made in or before a reporting period of the registrant of property, by way of lease, licence or similar arrangement, primarily for the personal consumption, use or enjoyment in that period of
+(i) where the registrant is an individual, the registrant or another individual related to the registrant,
+(ii) where the registrant is a partnership, an individual who is a member of the partnership or another individual who is an employee, officer or shareholder of, or related to, a member of the partnership
+(iii) where the registrant is a corporation, an individual who is a shareholder of the corporation or another individual related to the shareholder, and
+(iv) where the registrant is a trust, an individual who is a beneficiary of the trust or another individual related to the beneficiary,
+except where the registrant makes a taxable supply of the property in that period to such an individual for consideration that becomes due in that period and that is equal to the fair market value of the supply at the time the consideration becomes due.
+[My emphasis.]
+[27] In ExxonMobil Canada Ltd. v. Canada,[2] the Federal Court of Appeal reviewed the criteria for applying paragraph 170(1)(b) of the ETA as follows.
+38. Paragraph 170(1)(b) provides that no ITCs may be claimed with respect to property or services acquired “exclusively for the personal consumption, use or enjoyment” of an employee (the benefit), unless the employee has paid adequate consideration or the benefit does not otherwise result in an income inclusion pursuant to section 6 of the ITA (i.e., it is not a taxable benefit).
+[My emphasis.]
+[28] Therefore, if the property is acquired during the registrant’s reporting period, "exclusively for the personal consumption, use or enjoyment" of an individual who is an "officer" or an "employee" of the registrant, that individual must have paid the registrant "adequate consideration" and no amount should be included as income from that individual under section 6 of the Income Tax Act[3] (the ITA).
+[29] Alternatively, paragraph 170(1)(c) of the ETA provides for a situation in which the property in question is "by way of lease . . . primarily for the personal consumption, use or enjoyment" of an officer or shareholder of the registrant. According to this provision, no ITC can be claimed "except where the registrant makes a taxable supply of the property in that period to such an individual for consideration that becomes due in that period and that is equal to the fair market value . . ."
+[30] Subsection 199(2) of the ETA stipulates the following:
+199(2) Where a registrant acquires or imports personal property or brings it into a participating province for use as capital property,
+(a) the tax payable by the registrant in respect of the acquisition, importation or bringing in of the property shall not be included in determining an input tax credit of the registrant for any reporting period unless the property was acquired, imported or brought in, as the case may be, for use primarily in commercial activities of the registrant; and
+(b) where the registrant acquires, imports or brings in the property for use primarily in commercial activities of the registrant, the registrant is deemed, for the purposes of this Part, to have acquired, imported or brought in the property, as the case may be, for use exclusively in commercial activities of the registrant.
+[My emphasis.]
+[31] In Foote v. The Queen,[4] Mr. Justice Angers presents a detailed overview of the case law on the interpretation of the term "primarily":
+11. The question of the meaning of "primarily" has been addressed by the courts in previous decisions. In Mid-West Feed Ltd. v. M.N.R., 87 DTC 394, Chief Judge Couture (as he then was) of the Tax Court of Canada held that the world "primarily" means in excess of 50% of the total use of the asset. Mr. Justice Pratte of the Federal Court of Appeal wrote in Mother’s Pizza Parlour (London) Ltd. v. The Queen, 88 DTC 6397, that when different parts of the same building are permanently used for what are considered to be two different purposes, the most important factor in determining the purpose for which the building is primarily used is the amount of space in the building that is used for each one of those two purposes.
+12. In the present case, two units of the three-storey complex are used for the purpose of earning rental income. As much as I can appreciate the fact that, for the appellant, the object of the project was to build herself a residence, I cannot ignore the other use of the complex. A qualitative assessment may nevertheless be relevant. The Federal Court of Appeal in Burger King Restaurants of Canada Inc. v. The Queen, 2000 DTC 6061, said that the qualitative evidence must be sufficiently persuasive and must be capable of being analysed in such a way as to cause the court to displace the result of the quantitative space test. Although the appellant may have invested more money in her own unit, the evidence is insufficient to allow this court to analyse such a possibility and conclude that the qualitative evidence displaces the result of the quantitative space test. [...]
+[My emphasis.]
+[32] The presence of the words "for use primarily in" in subsection 199(2) of the ETA presupposes an intention on the day of acquisition. In that respect, the courts have analyzed the property’s actual use in order to validate the registrant’s original intention. In the decision Coburn Realty Ltd. v. The Queen,[5] the Court had to determine whether the appellants were eligible for an ITC after acquiring a vehicle and a boat under subsection 199(2) of the ETA. Chief Justice Bowman (as he then was) made the following comments:
+9. The words in subsection 199(2) "... for use primarily in commercial activities..." imply purpose or intent. The French version of the provision is consistent with this interpretation:
+"... en vue d’être utilisé principalement dans le cadre de ses activités commerciales."
+10. Statements by a taxpayer of his or her subjective purpose and intent are not necessarily and in every case the most reliable basis upon which such a question can be determined. The actual use is frequently the best evidence of the purpose of the acquisition. In 510628 Ontario Limited v. The Queen, 2000 GTC 877 (T.C.C. [Informal Procedure]), the following was said:
+[11] It should be noted that the expression "for use primarily ..." requires the determination of the purpose of the acquisition, not the actual use. Nonetheless, I should think that as a practical matter if property is in fact used primarily for commercial purposes it is a reasonable inference that it was acquired for that purpose.
+11. I shall turn then to the actual use that was made of the boat. Mr. Coburn testified that the boat was used for entertaining clients and for rewarding his sales staff. He stated that the appellant was seeking to expand its business to cottage country. I accept that he wished to expand the appellant’s business but I am not persuaded that the boat was used or was intended to be used primarily for business purposes. Although I think there was probably an element of business in some of its use, the evidence of its actual use does not support the conclusion that the primary purpose of its acquisition was for use in the appellant’s business.
+12. The word "primarily" is generally taken to mean over 50%. The problem is, however, to determine what one should apply the 51% to: time, number of trips, distance travelled, number of passengers, length of voyage, the amount of business generated, the number of potential sales locations visited? All of these factors may have a bearing but they illustrate the difficulty in applying a mechanical sort of test. Ultimately, it boils down to a question of judgement and common sense.
+13. The appellant put in evidence a number of pages which he described as a log that his accountant advised him to prepare after the end of the season. He stated that it was "reconstructed" but this is not accurate. If something is "reconstructed" it means that there was something that previously existed that could be reconstructed. One cannot reconstruct something that never existed in the first place. It is more accurate to say that the log was created ex post facto or after the event.
+. . .
+15. In summary, it seems that this expensive boat was used largely for entertaining friends and family. There may have been some element of business but on only three trips were clients taken on board and of the seventy or so agents that worked for the appellant only about four were taken out on the boat, the most frequent passenger being Mardi Friesz, Mr. Coburn’s spouse.
+16. While I accept that the fulfilment of a business purpose can be a pleasurable experience, as it undoubtedly was here, I do not think the evidence in this case, including the log prepared after the end of the season, establishes that the principal purpose of acquiring the boat was primarily for use in the appellant’s commercial activities. There is no evidence that many of the high earning agents were rewarded by cruises or that clients or potential clients were entertained or shown cottages or homes along the St. Lawrence.
+17. In the event that the business use increases to the point at which it can be said to be the principal use, there is some relief available in a subsequent year to the appellant under subsection 199(3) of the ETA. That point had not been reached in 2003. The evidence would have to be more persuasive and complete than it has been here.
+[My emphasis.]
+[33] In 9180-2801 Québec Inc. v. The Queen,[6] Mr. Justice Lamarre (as he then was) had to determine whether the appellant could claim an ITC on the purchase of a vehicle that was supposedly used by a shareholder with a 60% share for commercial activities:
+11. . . .The test imposed by subsection 199(2) ETA, as such, does not specify an evaluation period. This legislative provision requires that the vehicle be acquired for the purpose of being used primarily for commercial purposes. Therefore, the appellant would have had to show that this was the intention at the time of acquisition.
+[My emphasis.]
+[34] Based on the reasoning in Coburn, the Court rejected the appellant’s ITC claim. The judge explained:
+13. In the present case, the evidence does not show that based on the actual use of the motor vehicle, the intention at the beginning was to use it primarily for commercial purposes. Nor did the appellant submit sufficient evidence establishing that this was the primary reason for the purchase at the time of acquisition. In fact a careful review of the use of the vehicle indicates that in the months following its purchase, for all intents and purposes, it was used solely for personal reasons. It was only in April, May and October 2009 that the business use significantly surpassed the personal use. In all the other months, except for November when the commercial use slightly exceeded the personal use, personal use predominated (see summary of travel records, Exhibit I-1, Tab 6).
+[My emphasis.]
+III. Analysis [35] Mr. Brière’s testimony confirms, in the eyes of the Court, that he is a motivated businessman who has had some success as an entrepreneur. But that is not the issue.
+[36] All of the evidence must be reviewed to determine whether, during the periods of personal use of the vehicle, Mr. Brière paid a consideration equal to the fair market value. Alternatively, it must be determined whether the appellant acquired the vehicle for use primarily in commercial activities.
+[37] In this context, it is difficult to disregard the fact that, when the vehicle was acquired, Mr. Brière already possessed a recreational vehicle that he had been using for purely personal reasons for almost eight years. He stated that this vehicle had never been used for commercial purposes and he had never rented it to his affiliated companies.
+[38] Furthermore, that recreational vehicle was traded in during the appellant’s purchase of the vehicle in question, though the transfer from Mr. Brière was carried out a few days later. The trade-in value was $33,400, while the contract of sale from Mr. Brière to the appellant a few days later was for $35,000. No explanation was offered for the difference in price.
+[39] As for the use of the vehicle in the 12 months following its acquisition, the appellant submitted a kilometrage record to the Minister in late September 2013, several months after the Minister requested it. This delay raises doubts about the authenticity of the record and gives the clear impression that it was created by memory after the fact.
+[40] Even assuming that the record is authentic for the purposes of this analysis, I conclude that the vehicle was mostly used for personal purposes for the 12-month period following the acquisition date. In fact, nearly 70% of its trips were for personal reasons, and no explanation was offered for the multiple one-day trips between the head office and neighbouring cities to visit "clients" during that period.
+[41] In addition to being used for a personal trip of about four weeks almost immediately after its acquisition, the vehicle was parked in a recreational vehicle lot in Florida so that it would be available for Mr. Brière and his family for a period of almost ten weeks during the winter.
+[42] The vehicle was then used for almost nine weeks (summer 2013) on a trip to western Canada, which was about 12,295 km and passed through the United States. Mr. Brière was accompanied by his spouse and his son. I am far from convinced that this trip was for business purposes, given the presence of family and how few meetings were held. Furthermore, the sponsorship of Andrew Ranger suggests that Mr. Brière was instead pursuing his hobby or personal interest in NASCAR racing. In any case, for the purposes of these proceedings, it is not necessary for the Court to arrive at a definitive conclusion regarding the use of the vehicle during the summer of 2013.
+[43] The appellant claims that it is eligible for an ITC following the purchase of the vehicle under paragraph 170(1)(b) or (c) of the ETA. However, applying these provisions is problematic for several reasons.
+[44] Paragraph 170(1)(b) of the ETA assumes, first of all, that the property in question was acquired by the registrant "exclusively for the personal consumption, use or enjoyment" of an individual who is an officer or employee of the registrant. The appellant, though, is claiming the opposite, and maintains that the vehicle was acquired as part of its commercial activities as a property and building management company. This is a flagrant contradiction.
+[45] The application of paragraph 170(1)(c) of the ETA is also problematic; even if the appellant provided the vehicle "by way of lease" for Mr. Brière’s consumption or use during the weeks for which he was billed, I am far from convinced that there was a taxable supply for consideration equal to the fair market value of the property. In that light, I prefer the testimony of Ms. Hébert of VR St-Cyr, since she has no interests in this case. I therefore find that the taxable supply was for consideration far below the fair market value.
+[46] Given my findings on the appellant’s intention when the vehicle was acquired, I find that it is not eligible for an ITC for the period in question, since the vehicle was mostly used for the personal reasons of its main shareholder. It is therefore my opinion that the appellant did not acquire the vehicle "for use primarily in commercial activities of the registrant" within the meaning of paragraph 199(2)(a) of the ETA.
+[47] Finally, I would add that I am not disregarding the possibility that Mr. Brière came up with the idea of using the new vehicle as a mobile office for business development for affiliated companies and for canvassing, especially in western Canada. That said, I believe that this was just a nascent idea when the vehicle was purchased.
+IV. Conclusion [48] To conclude, I agree with the respondent’s analysis, which indicated that the appellant is not eligible for an ITC because the vehicle was acquired exclusively for Mr. Brière’s personal consumption and use and he did not pay adequate consideration (and there is no evidence to determine whether he declared a benefit under section 6 of the ITA) within the meaning of paragraph 170(1)(b) of the ETA.
+[49] Furthermore, if I accept the appellant’s claims that the property was supplied by way of lease as per paragraph 170(1)(c) of the ETA, I must also agree with the respondent’s analysis that the appellant is not eligible for an ITC because Mr. Brière did not pay consideration equal to the fair market value.
+[50] Since I have concluded that the vehicle was acquired exclusively, or at least primarily, for Mr. Brière’s personal consumption or use, it is evident that I reject the appellant’s argument that the vehicle was acquired in the course of its normal commercial activities as a property and building management company or that the vehicle was acquired "for use primarily in commercial activities of the registrant" within the meaning of paragraph 199(2)(a) of the ETA.
+[51] I have arrived at these conclusions having conducted a quantitative analysis (in examining the kilometrage record and the weeks of personal use) as well as a qualitative analysis, considering the use of the previous recreational vehicle immediately prior to the purchase of the vehicle in question.
+[52] The respondent submitted as evidence a brochure with photos of the vehicle in question. It is clearly a luxury recreational vehicle which could only be financially profitable if it was leased for consideration equal to the fair market value, which was not the case here.
+[53] The burden of proof was on the appellant. It had to convince the Court on the balance of probabilities that the vehicle was used by or leased to Mr. Brière for adequate consideration, or was acquired for the purpose of its commercial activities during the period in question, from May 1 to July 31, 2012. I find that the appellant did not reverse this burden.
+[54] For the reasons above, the appeal is dismissed without costs.
+Signed at Winnipeg, Manitoba, this 23rd day of September 2016.
+"Guy Smith"
+Smith J.
+CITATION:
+2016 TCC 208
+COURT FILE NO.:
+2014-84(GST)I
+STYLE OF CAUSE:
+9124-0515 QUÉBEC INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+April 19, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Guy R. Smith
+DATED:
+September 23, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Michael Heller
+Counsel for the Respondent:
+Christian Lemay
+SOLICITORS OF RECORD:
+For the Appellant:
+Name:
+Michael Heller
+Firm:
+Heller et Associés
+Montréal, Quebec
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] RSC, 1985 c. E-15, as amended.
+[2] 2010 FCA 1.
+[3] RSC, 1985, c. 1 (5th Supp.).
+[4] 2007 TCC 46 [informal procedure].
+[5] 2006 TCC 245 [informal procedure].
+[6] 2011 TCC 129 [informal procedure].

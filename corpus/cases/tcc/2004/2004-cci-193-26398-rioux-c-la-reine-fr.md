@@ -1,0 +1,157 @@
+---
+title: "Rioux c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26398/index.do"
+last_modified: "2004-03-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 193"
+citation2: ""
+neutral_citation: "2004 CCI 193"
+decision_date: "2004-03-02"
+language: "fr"
+item_id: "26398"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3345
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:44:54.253000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b5d07f910c12b7693f48d8c40415b11d4cb7b559847bc303a455a6394c9bb4fe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rioux c. La Reine
+
+- Citation: 2004 CCI 193
+- Decision date: 2004-03-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3345, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rioux c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-02
+Référence neutre
+2004 CCI 193
+Numéro de dossier
+2003-3463(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3463(IT)I
+ENTRE :
+CHRISTIAN RIOUX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 24 février 2004 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Benoît Mandeville
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour de mars 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2004CCI193
+Date : 20040302
+Dossier : 2003-3463(IT)I
+ENTRE :
+CHRISTIAN RIOUX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Louise Lamarre Proulx
+[1] Il s'agit d'un appel par voie de la procédure informelle concernant l'année d'imposition 2001.
+[2] La question en litige est de savoir si l'appelant peut déduire les frais d'avocat engagés pour contester une requête présentée par son ex-conjointe pour déterminer les conditions de la garde partagée d'un enfant, pour fixer une pension alimentaire pour enfants et accorder une provision pour les frais d'avocats de la requérante.
+[3] Il n'y a pas eu de débat quant aux faits de cette affaire. Ils sont décrits au paragraphe 6 de la Réponse à l'avis d'appel (la « Réponse » ) et se lisent comme suit :
+a) l'appelant et Mme Cynthia Brosseau ont vécu en union de faits de 1991 à septembre 1998;
+b) De cette union est né, le 10 juin 1992, un enfant Jonathan Brosseau-Rioux;
+c) Depuis leur séparation, la garde de l'enfant a toujours été partagée entre l'appelant et Mme Brosseau, l'enfant vivant alternativement une semaine avec chacun;
+d) Au cours de l'année en litige, l'appelant a engagé des frais pour contester une requête de Mme Brosseau afin d'obtenir de l'appelant le paiement d'une pension alimentaire au nom de son enfant;
+e) L'audition de la requête de Mme Brosseau a eu lieu le 5 décembre 2001;
+f) Le 5 février 2002, dans son jugement, le juge Roger E. Baker a déterminé notamment que l'appelant devait payer à son ex-conjointe la somme de 183,33 $ par mois;
+g) Lors de la production de sa déclaration de revenus pour l'année d'imposition en litige, l'appelant a fourni les attestations de paiements suivantes de la firme d'avocats Ferland, Marois, Lanctot :
+i) Pour l'année 2002, une somme de 7 150,89 $ pour des frais juridiques engagés dans le cadre d'un litige visant à déterminer la pension alimentaire payable pour un enfant mineur dans le cadre de l'exercice d'une garde partagée;
+ii) Pour l'année 2002, une somme de 3 795,97 $ pour des frais juridiques engagés dans le cadre d'un litige visant à déterminer la pension alimentaire payable pour un enfant mineur dans le cadre de l'exercice d'une garde partagée.
+[4] Les pièces ont été déposées de consentement comme pièces I-1 à I-4. Elles sont : la déclaration d'impôt de l'appelant pour l'année 2001, le jugement de la Cour supérieure du Québec en date du 5 février 2002, et les confirmations de l'avocate de l'appelant que ce dernier a versé, à titre d'honoraires professionnels, la somme de 7 150,89 $ pour l'année 2001 et la somme de 3 795,97 $ pour l'année 2002.
+[5] Le jugement, pièce I-2, indique que les parties s'entendaient sur les modalités de la garde partagée. Les deux points en litige étaient de savoir si M. Rioux devait payer une pension alimentaire pour son fils et à quel montant et de savoir si l'ex-conjointe de M. Rioux avait droit à une provision pour frais.
+[6] Le dernier point a été rejeté par le tribunal, mais le tribunal a ordonné une pension alimentaire pour le fils au montant de 183,83 $ par mois.
+Arguments
+[7] L'appelant s'est référé au paragraphe 17 du Bulletin d'interprétation IT99-R5. Je cite la partie pertinente :
+Pensions alimentaires
+... Toutefois, comme les enfants ont un droit acquis, en vertu d'une législation, à une prestation alimentaire, les frais juridiques engagés en vue d'obtenir une ordonnance alimentaire au profit d'un enfant sont déductibles. ...
+[8] Il soutient que ses frais d'avocats ont été engagés pour obtenir un droit à une pension alimentaire au profit d'un enfant.
+[9] L'avocat de l'intimée s'est référé notamment aux décisions suivantes : Bayer v. M.N.R., 91 DTC 1035; Bergeron c. Canada, [1999] A.C.I. no 510 (Q.L.); Nadeau c. La Reine, 2003 DTC 1557; et Nadeau c. Canada, [2003] A.C.F. no 1611 (Q.L.).
+[10] Cette dernière décision est une décision de la Cour d'appel fédérale. Elle concernait la déduction des frais d'avocat engagés pour contester une demande d'augmentation d'une pension alimentaire pour enfants. Cette demande de déduction était faite par le payeur de la pension alimentaire pour enfants.
+[11] Je cite les paragraphes 8, 10, 11, 28, 32, 33, 34, 36 et 37 :
+8 Le demandeur a réclamé dans le cadre de son appel devant le juge Archambault le droit d'être traité de la même façon que le récipiendaire d'une pension alimentaire, soit de pouvoir déduire les frais judiciaires encourus. Ce faisant le demandeur, qui se représente lui-même, tentait d'invoquer la Charte sans toutefois avoir signifié l'avis de question constitutionnelle requis par l'article 57 de la Loi sur la Cour fédérale.
+10 À l'appui de sa demande de contrôle judiciaire, le demandeur prétend que le juge Archambault a eu tort de conclure qu'il n'était pas victime de discrimination. ...
+11 Le sens de la question constitutionnelle que le demandeur tente de soulever n'est pas facile à cerner. Mais en lisant entre les lignes, la position du demandeur semble indiquer que dans la mesure où l'alinéa 18(1)a) a pour effet d'empêcher le payeur d'une pension alimentaire de déduire les frais judiciaires encourus tout en permettant au récipiendaire de déduire les siens, il est discriminatoire et contraire à la Charte.
+28 Le revenu provenant d'une pension alimentaire illustre bien comment deux sources, distinctes en apparence, peuvent se confondre. Même si l'imposition des pensions alimentaires en tant que revenu est explicitement prévue à la sous-section (d) qui traite d' « Autres sources » , il n'en demeure pas moins que le droit à une pension alimentaire est un « bien » selon la Loi. Si le droit à une pension alimentaire est un « bien » , il est difficile de l'en dissocier du revenu qui découle de l'exercice de ce droit. C'est pourquoi les tribunaux se sont permis au cours des années d'accorder la déduction de frais afférents à une pension alimentaire dans les circonstances que nous avons vues en invoquant la sous-section b et en particulier l'alinéa 18(1)a).
+32 Les amendements à la Loi qui accompagnèrent la décision prise en 1997 de ne plus imposer les pensions alimentaires destinées aux enfants du mariage sont, à cet égard, sans équivoque. Cette décision aurait pu avoir un impact significatif sur la déduction que pouvaient réclamer les récipiendaires de pensions alimentaires sous l'alinéa 18(1)a) puisque l'alinéa 18(1)c) stipule qu'aucune dépense ne peut être déduite « à l'égard d'un bien dont le revenu serait exonéré » .
+33 Afin de maintenir le droit à la déduction, le législateur a amendé la définition de « revenu exonéré » au paragraphe 248(1) en précisant que la partie de la pension destinée aux enfants, même si elle est dorénavant non-imposable, ne constitue pas un revenu exonéré. De toute évidence, cet amendement serait sans objet si le législateur considérait que le revenu provenant d'une pension alimentaire n'était pas un revenu de bien au sens de la sous-section b.
+34 Il ressort de ceci que non seulement le législateur s'est-il accommodé de la solution jurisprudentielle au cours des années, il est intervenu afin de la préserver face à un amendement qui aurait eu comme effet de l'écarter. Cette solution jurisprudentielle, je le rappelle, est fonction du fait que le revenu issu d'une pension alimentaire est un revenu de bien, et qu'à ce titre, les dépenses encourues pour gagner ce revenu peuvent être déduites.
+36 Ceci nous mène à l'argument du demandeur selon lequel l'alinéa 18(1)a) serait contraire à la Charte. Le demandeur qui n'a pas signifié d'avis de question constitutionnelle devant la Cour canadienne de l'impôt a remédié à ce défaut devant nous. Tel que dit précédemment, le demandeur allègue que l'alinéa 18(1)a) est contraire à la Charte puisqu'il a comme effet de traiter de façon différente le payeur et le récipiendaire d'une pension alimentaire.
+37 L'alinéa 18(1)a) de la Loi de l'impôt sur le revenu peut conduire à une différence de traitement, mais ce ne sont pas toutes les distinctions qui sont discriminatoires. ...
+[12] J'ai largement cité cette décision parce qu'elle est déterminante pour l'issue de la présente affaire. La Cour d'appel fédérale n'a pas modifié la jurisprudence de cette Cour voulant que les frais d'avocat engagés pour contester une demande de pension alimentaire ne soient pas déductibles parce que ces frais ne sont pas engagés pour tirer un revenu d'un bien. Or, dans la présente affaire, la preuve a clairement révélé que les frais d'avocat engagés l'ont été pour contester la fixation d'une pension alimentaire pour enfant. Donc, l'appelant ne peut pas déduire ces frais.
+[13] L'appel doit en conséquence être rejeté.
+Signé à Ottawa, Canada, ce 2e jour de mars 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2004CCI193
+No DU DOSSIER DE LA COUR :
+2003-3463(IT)I
+INTITULÉ DE LA CAUSE :
+Christian Rioux et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 24 février 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 2 mars 2004
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Benoît Mandeville
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

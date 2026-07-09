@@ -1,0 +1,162 @@
+---
+title: "Singh v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26745/index.do"
+last_modified: "2005-08-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 588"
+citation2: ""
+neutral_citation: "2005 TCC 588"
+decision_date: "2005-08-31"
+language: "en"
+item_id: "26745"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3522
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:23:51.067000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a645a948c86c7b20add56c2bf1614c0f8a3b56e6eced6e98793dceb235d1f798"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Singh v. The Queen
+
+- Citation: 2005 TCC 588
+- Decision date: 2005-08-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3522, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Singh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-31
+Neutral citation
+2005 TCC 588
+File numbers
+2001-437(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-437(IT)G
+BETWEEN:
+SUKHDEV SINGH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 9, 2004, April 26, 2004 and February 21, 2005 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Eric Sherbert
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the reassessment made under the Income Tax Act for the 1995 taxation year is dismissed, with costs.
+Signed at Toronto, Ontario, this 31st day of August, 2005.
+"J. Woods"
+Woods J.
+Citation: 2005TCC588
+Date: 20050831
+Docket: 2001-437(IT)G
+BETWEEN:
+SUKHDEV SINGH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This is an appeal by Sukhdev Singh in respect of an assessment made under the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), as amended, for the 1995 taxation year. The issue is whether Mr. Singh is entitled to deduct an allowable business investment loss (ABIL) for that year.
+[2] The taxpayer submits that in 1995 he realized a business investment loss[1] of $80,000 when he sold common shares of a corporation that he worked for, Horizon International Electronics Ltd. The Crown submits that the ABIL should be disallowed on the basis that there is not sufficient evidence to establish the loss.
+[3] The taxpayer did not initially claim the full amount of the purported loss but this does not impact on the issue that I have to decide. Only $63,000 was claimed, which appears to be the amount that was needed to bring the tax payable for the year to zero.[2]
+[4] The taxpayer later requested an adjustment to the 1995 tax return so that the balance of the ABIL could be claimed and carried forward to the following year. A waiver for the 1995 taxation year was filed for this purpose. It appears that it was this request that prompted the Canada Revenue Agency to review the entire amount that was claimed.
+Summary of evidence
+[5] In addition to the taxpayer's own testimony, the former president of Horizon, Saleh Khalid, testified on the taxpayer's behalf. The following is a summary of their testimony.
+[6] Horizon was incorporated around 1976 and was in the business of selling computer hardware and software. Mr. Khalid testified that in the 1990s the corporation sustained significant losses and that many shareholders, he included, had lost their investment in the corporation.
+[7] Mr. Khalid further testified that the taxpayer started working for the corporation in the mid-1980s and, shortly after, he became an investor. According to the testimony, the taxpayer purchased 8,000 preference shares for a total of $80,000, 14 common shares for a total of $14,000, and he provided loans to the corporation in the aggregate of $68,000.
+[8] Both witnesses testified that the loans were advanced in a variety of ways - cash from the taxpayer, cheques from the taxpayer's siblings and father, and bank transfers provided to the corporation by the taxpayer's brother on his behalf. In addition, the taxpayer made advances to the corporation by paying for corporate purchases on his VISA card.
+[9] The taxpayer sold most of the preference shares in 1993 and 1994 in order to realize losses. At the end of 1994, his holdings of preference shares had been reduced from 8,000 to 1,000 shares.
+[10] According to the testimony, in 1995, the taxpayer sought advice from an acquaintance who was an accountant on how to realize the losses that had accrued on the loans. Based on this advice, the taxpayer suggested to the board of directors that the loans be converted to common shares and sold to third parties for nominal amounts. Mr. Khalid testified that the board of directors agreed with the proposal and that it was carried out late in 1995.
+[11] There was very little documentation to support the investment in loans or shares. A handwritten accounting document titled "Shareholder Loan/Sukhdev Singh Loan Account" was introduced as support for the loans. It describes a total of 12 loans made from 1986 to 1990 for a total of $68,000. A typed document titled "Sukdev Singh/Shareholders' Ledger" was provided as evidence of transactions in common and preference shares.
+[12] In cross-examination, the taxpayer was questioned about the lack of documentation for the loans. He testified that there never was much documentation and that it had been too late to obtain records from the banks. Much of the funding came from relatives who either wrote cheques directly payable to the corporation or who had arranged for direct bank transfers. The relatives did not keep records. The taxpayer stated that he provided some of the funds in cash and through VISA payments because he was a student and did not have a chequing account. Although the taxpayer stated that he had provided to the Canada Revenue Agency a letter from a bank that described interest paid by him, this letter was not introduced into evidence.[3]
+Analysis and conclusion
+[13] In order to succeed in this appeal, the taxpayer has the burden to establish an adjusted cost base for the common shares that were sold. The Crown suggests that there is not adequate documentation to satisfy that burden and I agree.
+[14] I find it significant that the testimony presented at the hearing conflicts with statements that the taxpayer had made on at least two prior occasions, in his 1995 income tax return and in a questionnaire that he provided on audit. There was no mention of common shares or loans in those statements.
+[15] Included with the tax return was a schedule prepared by the taxpayer that described the details of the business investment loss. It stated that the loss was realized by the sale for nil proceeds of 8,000 preference shares with an adjusted cost base of $80,000. The reference to 8,000 preference shares was repeated in a questionnaire submitted by the taxpayer to the Canada Revenue Agency on audit.
+[16] During the hearing, the taxpayer stated that these statements were made in error and that he did not own 8,000 preference shares in the 1995 taxation year. He stated that the loss was actually realized on the sale of 80 common shares that had an adjusted cost base of $80,000, which I note that coincidentally is the same adjusted cost base as the preference shares.
+[17] I find it noteworthy that the error in the income tax return was made shortly after the taxpayer, according to his testimony, had purportedly gone to some lengths to convert his loans to common shares. Further, the same error was repeated during the audit when the taxpayer knew that the Agency was scrutinizing the details of the transaction.
+[18] I also note a discrepancy in the documentation regarding the taxpayer's shares held at the end of 1995. A letter from a director of Horizon that was included with the taxpayer's tax return "certified" that the taxpayer's share investment in Horizon totaled $80,000 at the end of 1995. The shareholders' ledger, on the other hand, reflects a total investment of $92,000[4] prior to a sale of 80 shares on December 15 and $12,000[5] thereafter. It is difficult to reconcile this inconsistency and no explanation was provided for it at the hearing.
+[19] The only documentation introduced into evidence that supported the purported $82,000 investment in common shares were two pieces of paper, the handwritten loan account and the typed shareholders' ledger. The Crown suggests, and I agree, that these documents could easily have been prepared after the fact.[6]
+[20] It is also significant in my view that the taxpayer did not produce any other documentation to support the loans to the corporation - no promissory notes issued by Horizon, no cancelled cheques, no copies of the taxpayer's banking records or banking records of any of the family members.
+[21] Given the absence of reliable documentation for a significant investment and the fact that the taxpayer changed his explanation for the loss after it was audited, I conclude that there is no basis to give the taxpayer any benefit of doubt in this case. I find that the taxpayer has not established any adjusted cost base for common shares of Horizon and accordingly that he has failed to satisfy the burden of proof.
+Other Issues
+[22] This appeal has had a long history. The main issue was heard on January 9, 2004 and at that time the hearing was adjourned so that the taxpayer, who was self-represented, could amend the notice of appeal to raise two new issues. The hearing reconvened on April 26, 2004 to consider the two new issues.
+[23] The first new issue was an argument based on the Supreme Court of Canada decision in The Queen v. Markevich, [2003] 2 C.T.C. 83. The taxpayer asked that I make a determination as to the applicability of Markevich on the basis that that case referred to a six-year limitation period and that this appeal was being heard more than six years after the assessment was issued.
+[24] Markevich is a case dealing with the collection of tax debts, something over which this Court has no jurisdiction. The issue was succinctly described by Major J. in the first line of the Markevich decision: "[...] whether federal and provincial limitation periods when exceeded apply to the Crown's ability to exercise its statutory powers to collect tax debts."
+[25] The issue in this appeal is not whether a tax debt may be collected but whether the assessment correctly calculates the tax. Since this Court has no jurisdiction over what might be described as collection issues, I would decline to comment further on Markevich. The Federal Court is the appropriate forum for collection issues dealing with federal tax.
+[26] The second issue raised by the taxpayer concerns the testimony given by the appeals officer who considered the notice of objection. The taxpayer seeks a declaration that this testimony is inadmissible on the basis that the Crown breached the Tax Court of Canada Rules (General Procedure) by not disclosing to him that the appeals officer would be a witness and by not allowing the witness to be discovered. He asserts that the witness took him by surprise, that counsel for the Crown had misled him into believing that no witnesses would be called, and that he was prejudiced because he was not prepared for cross-examination.
+[27] All of these allegations are denied by counsel for the Crown who asserts that the taxpayer was given the opportunity to discover someone from the Agency and who denies that the taxpayer was informed that the Crown would not be calling any witnesses.
+[28] Even if I were to accept the taxpayer's allegations, I am not satisfied that they result in a breach of the Rules. As for the allegation that the Crown did not permit the appeals officer to be examined on discovery, I note that the taxpayer could have exercised his right to enforce discovery as provided by the Rules and there is no suggestion that this was done. Further, there is generally no requirement that any party provide a list of witnesses to the other party. The taxpayer referred me to the Rules that apply to expert witnesses but the appeals officer did not testify as an expert witness.
+[29] More importantly, however, I reject the taxpayer's allegations that he was denied the right to discover the witness and that he was informed that the Crown would not be calling any witnesses. It is not sufficient for the taxpayer to simply make unsubstantiated allegations. I also note that the allegation that he did not have an opportunity to discover the witness seems to conflict with a statement made by him during the hearing on January 9, 2004. The following excerpt is from the transcript:
+In the subsequent follow up conversations via email and via phone, I was told that there would not be a witness from Revenue Canada. And hence I had not thought of a need to, you know, pursue a particular individual for a discovery session.
+(emphasis added)
+[30] I would also note that, in any event, the testimony of the appeals officer was of limited assistance because it did not really add to the evidence that was already before me.
+[31] At the end of the hearing on April 26, 2004, the taxpayer requested another adjournment so that he could consider a statute bar issue. He stated that he was attempting to obtain from the Agency a copy of the original notice of assessment to determine whether the waiver was filed out of time. Counsel for the Crown consented to the request and on that basis the adjournment was granted. Although the taxpayer was not able to obtain a copy of the original notice of assessment, he later asked that the hearing be reconvened in any event so that he could argue that the reassessment was statute barred. The hearing reopened on February 21, 2005 for this purpose.
+[32] The taxpayer did not dispute the Crown's assertion that a waiver had beenfiled on August 20, 1999. The dispute centered on when the original assessment was made. The Crown suggested that the original assessment was made on September 10, 1996 and the taxpayer suggested that he received it about a month earlier. If the taxpayer is correct, the waiver would be out of time and the reassessment would be statute barred.
+[33] There was no documentation to support the taxpayer's allegation that the notice of assessment was received in the early part of August, 1996. The taxpayer stated that he could not locate his copy of the original notice of assessment and that he was not able to obtain a copy from the Agency.
+[34] In the circumstances of this case, the testimony of the taxpayer is not sufficiently reliable to overcome the evidence that was before me that suggests that the waiver was filed in time. The Crown introduced the taxpayer's original tax return and a reconstructed notice of assessment from their computer records. Both these documents support the position of the Crown that the notice of assessment was issued on September 10, 1996.
+[35] The taxpayer suggested that the Agency should be required to retain paper copies of notices of assessment but no basis was provided for this proposition. I find that the waiver was filed in time and that the reassessment is not statute barred.
+[36] For the above reasons, the appeal is dismissed, with costs.
+Signed at Toronto, Ontario, this 31st day of August, 2005.
+"J. Woods"
+Woods J.
+CITATION: 2005TCC588
+COURT FILE NO.: 2001-437(IT)G
+STYLE OF CAUSE: Sukhdev Singh and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 9, 2004, April 26, 2004 and February 21, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Judith Woods
+DATE OF JUDGMENT: August 31, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Eric Sherbert
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Business investment loss is defined in paragraph 39(1)(c) of the Act.
+[2] In the original tax return, a deduction was taken for an ABIL equal to three-quarters of $63,000, or $47,250.
+[3] In argument, the taxpayer referred to letters from the Canadian Imperial Bank of Commerce that he attached to his 1995 tax return to establish that he had paid interest. Those letters state that that the taxpayer paid interest on personal loans in one year in the amounts of $200.17 and $167.50. There is no evidence establishing the principal amount of these loans or any evidence showing that the principal amounts were advanced to Horizon.
+[4] The $92,000 is comprised of 1,000 preference shares ($10,000) and 82 common shares ($82,000).
+[5] The $12,000 is comprised of 1,000 preference shares and 2 common shares.
+[6] It was admitted by the Crown that share certificates had been issued but they were not introduced into evidence. These documents also could have been prepared after the fact.

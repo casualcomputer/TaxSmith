@@ -1,0 +1,199 @@
+Title: Davitt c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30112/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-555-30112-davitt-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2010-10-07
+
+# Davitt c. M.R.N.
+
+- Citation: 2010 CCI 555
+- Decision date: 2010-10-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7636, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davitt c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-07
+Référence neutre
+2010 CCI 555
+Numéro de dossier
+2010-1146(EI), 2010-1147(CPP)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2010-1146(EI)
+ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue avec celle présentée dans l’affaire William Shawn Davitt (2010-1147(CPP)) et décision rendue oralement à l’audience le 7 octobre 2010
+à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Me Annie Paré
+____________________________________________________________________
+JUGEMENT
+Vu la requête présentée par l’intimé pour que la Cour rende une ordonnance radiant l’avis d’appel déposé par l’appelant en vertu de la Loi sur l’assurance‑emploi;
+Après avoir examiné les actes de procédure et les autres documents déposés;
+Et après avoir entendu les observations des deux parties;
+LA COUR ORDONNE :
+1. La requête de l’intimé est accueillie et l’appel interjeté en vertu de la Loi sur l’assurance-emploi est annulé conformément aux motifs du jugement ci‑joints.
+2. L’appelant devra payer à l’intimé des dépens totalisant 5 000 $ au plus tard le 21 janvier 2011.
+3. L’appelant, William Shawn Davitt, ne peut interjeter appel à la Cour en matière d’assurance‑emploi (« A‑E ») sans l’autorisation écrite préalable de la Cour.
+4. William Shawn Davitt ne peut comparaître devant la Cour en qualité d’avocat pour un appel en matière d’A‑E qui porte sur une question essentiellement semblable aux questions soulevées dans la présente affaire ou dans tout appel qu’il a interjeté précédemment à la Cour en matière d’A‑E sans l’autorisation écrite préalable de la Cour.
+5. William Shawn Davitt ne peut interjeter appel à la Cour ni représenter qui que ce soit devant la Cour si l’instance soulève une question essentiellement semblable aux questions soulevées dans la présente affaire ou dans tout appel qu’il a interjeté précédemment à la Cour en matière d’A‑E sans l’autorisation écrite préalable de la Cour.
+6. La demande d’autorisation doit être présentée par écrit et ne pas dépasser 10 pages.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 27e jour de janvier 2014.
+S. Tasset
+Dossier : 2010-1147(CPP)
+ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue avec celle présentée dans l’affaire William Shawn Davitt (2010‑1146(EI)) et décision rendue oralement à l’audience le 7 octobre 2010
+à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Annie Paré
+____________________________________________________________________
+JUGEMENT
+Vu la requête présentée par l’intimé pour que la Cour rende une ordonnance radiant l’avis d’appel déposé par l’appelant en vertu de la Régime de pensions du Canada;
+Après avoir examiné les actes de procédure et les autres documents déposés;
+Et après avoir entendu les observations des deux parties;
+LA COUR ORDONNE :
+1. La requête de l’intimé est accueillie et l’appel interjeté en vertu du Régime de pensions du Canada est annulé conformément aux motifs du jugement ci‑joints.
+2. L’appelant devra payer à l’intimé des dépens totalisant 5 000 $ au plus tard le 21 janvier 2011.
+3. L’appelant, William Shawn Davitt, ne peut interjeter appel à la Cour relativement au Régime de pensions du Canada (« RPC ») sans l’autorisation écrite préalable de cette dernière.
+4. William Shawn Davitt ne peut comparaître devant la Cour en qualité d’avocat pour un appel relatif au RPC qui porte sur une question essentiellement semblable aux questions soulevées dans la présente affaire ou dans tout appel relatif au RPC qu’il a interjeté précédemment à la Cour sans l’autorisation écrite préalable de cette dernière.
+5. William Shawn Davitt ne peut interjeter appel à la Cour ni représenter qui que ce soit devant la Cour si l’instance soulève une question essentiellement semblable aux questions soulevées dans la présente affaire ou dans tout appel relatif au RPC qu’il a interjeté précédemment à la Cour sans l’autorisation écrite préalable de cette dernière.
+6. La demande d’autorisation doit être présentée par écrit et ne pas dépasser 10 pages.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 27e jour de janvier 2014.
+S. Tasset
+RÉFÉRENCE : 2010 CCI 555
+2010-1146(EI)
+2010-1147(CPP)
+ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+TRANSCRIPTION RÉVISÉE
+DES MOTIFS DU JUGEMENT
+Je requiers que soit déposée la transcription révisée ci‑jointe des motifs du jugement prononcés oralement à l’audience le 7 octobre 2010 à Toronto (Ontario). J’ai révisé la transcription (certifiée par le sténographe judiciaire) par souci de stylistique et de clarté et afin d’y apporter quelques corrections mineures. Je n’y ai apporté aucune modification quant au fond.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 27e jour de janvier 2014.
+S. Tasset
+Référence : 2010 CCI 555
+Date : 20101207
+Dossiers : 2010-1146(EI)
+2010-1147(CPP)
+ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+TRANSCRIPTION RÉVISÉE
+DES MOTIFS DU JUGEMENT
+(prononcés oralement à l’audience à Toronto (Ontario), le 7 octobre 2010.)
+Le juge Boyle
+[1] Voici les motifs de la décision que j’ai rendue concernant la requête instruite aujourd’hui, à Toronto, dans les appels interjetés par William Shawn Davitt concernant l’assurance‑emploi (« A‑E ») et le Régime de pensions du Canada (« RPC »). Il s’agit d’une requête par laquelle la Couronne demande la radiation des avis d’appel de l’appelant se rapportant à 2007.
+[2] L’appelant, William Shawn Davitt, est avocat et comptable agréé. Cela fait plusieurs années qu’il comparaît régulièrement devant la Cour pour son propre compte. Il est indéniablement brillant et il se passionne pour la cause qu’il a adoptée et dont il a une connaissance approfondie. Depuis l’époque où il était stagiaire en droit, en 2001, il a porté en appel devant la Cour toute une série de questions essentiellement similaires fondées sur la Charte et le droit substantiel. Tous ont échoué entièrement sans qu’il soit nécessaire de procéder à une instruction. Ces appels ont tous été annulés dès le départ. Au fil du temps, ses appels se sont transformés afin d’inclure, entre autres, diverses allégations de fraude visant les gouvernements fédéral et provinciaux dans le but d’étayer ses allégations de discrimination fondée sur l’âge et contraire à la Charte. S’y sont également ajoutées progressivement des allégations de partialité judiciaire. Les appels dont il est question ici ne présentent rien de véritablement nouveau, hormis quelques éléments de preuve supplémentaires sur lesquels repose une argumentation passablement longue.
+[3] Dans ses appels précédents, l’appelant s’était adressé à la Cour concernant ses évaluations établies à son égard relativement à l’A-E et au RPC pour 2006. Le juge Webb a radié les avis d’appels en 2008. En 2009, la Cour d’appel fédérale a confirmé la décision du juge Webb. La Cour suprême du Canada a rejeté la demande d’autorisation d’appel de M. Davitt en avril de l’année en cours, une décision qu’elle n’a pas motivée.
+[4] Aux paragraphes 10 à 13 des motifs de l’ordonnance qu’il a rendue en 2008, le juge Webb écrit ce qui suit :
+[10] L’appelant avait antérieurement interjeté appel auprès de la Cour en invoquant l’argument selon lequel la Loi sur l’A‑E et le RPC établissent une discrimination, en violation de l’article 15 de la Charte. Le juge en chef adjoint Bowman (tel était alors son titre) a accueilli la requête présentée par la Couronne et a radié l’avis d’appel de l’appelant, déposé en 2001 […] Le juge MacArthur a radié un avis d’appel déposé par l’appelant au sujet de la question de savoir si les taux de cotisation prévus par le RPC établissaient une discrimination fondée sur l’âge, en violation du paragraphe 15(1) de la Charte […]. Dans cet avis d’appel, l’argument selon lequel le RPC était une combine à la Ponzi était également invoqué.
+[11] Le juge Little a radié des avis d’appel déposés par l’appelant en 2003 en vertu de la Loi de l’impôt sur le revenu, de la Loi sur l’A‑E et du RPC […]. Dans les avis d’appel déposés en vertu de la Loi sur l’A‑E et du RPC, l’appelant alléguait que le taux de cotisation prévu par la Loi sur l’A‑E et le taux de cotisation prévu par le RPC établissent une discrimination fondée sur l’âge, en violation de l’article 15 de la Charte.
+[12] En 2006, l’appelant a présenté une requête en vue de faire annuler les ordonnances susmentionnées rendues par le juge en chef adjoint Bowman (tel était alors son titre), par le juge MacArthur et par le juge Little. Le juge Mogan a rejeté la requête […]. Dans cette décision, le juge Mogan a fait les remarques suivantes :
+11 Si l’appelant a raison d’affirmer que les taux prévus par le Régime de pensions du Canada sont trop élevés, que le Régime est trop bien financé et que l’excédent est ajouté aux recettes générales fédérales; ou s’il a raison de dire que les taux d’assurance‑emploi sont trop élevés et qu’il n’aurait pas dû payer autant qu’il l’a fait pendant les années 1998, 1999 ou 2000; que ces taux soient trop élevés ou non constitue une question qui, elle aussi, déborde la compétence de la Cour. Ces taux sont fixés dans le cadre de débats publics au sein du Parlement, selon le texte législatif particulier à l’étude. Les comités parlementaires tiennent des audiences au cours desquelles différents groupes d’intérêt et divers partis politiques font connaître leur position. Je conclus que la Cour canadienne de l’impôt n’a pas compétence pour intervenir à l’égard de ce genre de législation.
+[13] L’appelant a encore une fois déposé des avis d’appel en vertu de la Loi sur l’A‑E et du RPC, en alléguant que le taux de cotisation fixé en vertu de la Loi sur l’A‑E et le taux de cotisation fixé en vertu du RPC devaient être ramenés à néant. La première question à trancher est de savoir si la Cour a compétence pour examiner le taux de cotisation fixé en vertu de la Loi sur l’A‑E et le taux de cotisation prévu par le RPC.
+[5] Signalons que par rapport aux réparations demandées dans les appels concernant l’année 2006, telles qu’elles sont exposées dans les motifs du juge Webb, M. Davitt n’a apporté qu’un seul changement dans les appels qu’il a interjetés pour l’année 2007 et dont il est question ici : il a remplacé l’année 2006 par l’année 2007, et il a modifié le montant de la déduction prévue par la loi pour qu’il corresponde à celui de 2007. Le montant des dommages‑intérêts punitifs qu’il demande pour atteinte aux droits garantis par la Charte est le même, soit 11 millions de dollars.
+[6] La Cour d’appel fédérale et la Cour ont déjà fait savoir à M. Davitt en termes non équivoques qu’il ne s’adressait pas au bon tribunal. Malgré cela, il reparaît. Chaque contribuable a le droit d’être entendu en cour, mais malgré qu’il ait eu l’attention de toutes les juridictions, M. Davitt continue de solliciter du temps d’instruction qui devrait revenir à d’autres contribuables.
+[7] Dans la décision Davitt rendue en 2001, le juge en chef adjoint Bowman, devenu depuis juge en chef, emploie des formules telles les suivantes : « argument totalement injustifié et frivole qui n’a aucune chance de succès », « il ne s’agit certainement pas d’une mesure de redressement qui a la moindre chance d’être accordée par cette cour ou tout autre tribunal », « [l]a Cour ne représente pas un forum pour la propagation de théories politiques, sociales et économiques », « [e]n outre, les arguments concernant l’article 15 de la Charte n’ont aucune chance de succès puisqu’ils sont dénués de fondement », « dénués de fondement », « une hypothèse plutôt extravagante », « leur futilité totale », « frivole », « [l]’appelant pourrait envisager de parler avec son député », « une proposition qui est à ce point dénuée de sens qu’il suffira de simplement l’énoncer pour que sa propre absurdité manifeste en entraîne le rejet ». Il ajoute :
+[…] [l’avis d’appel] est frivole, vexatoire et scandaleux et [il] ne révèle aucune cause raisonnable d’action. Je n’avais pas vu depuis longtemps une telle quantité de propositions aussi singulièrement dénuées de fondement. On ne peut pas s’objecter au fait que des étudiants en droit débattent de notions imaginatives et vraiment exagérées dans une salle commune d’un collège. Il s’agit sans aucun doute d’une partie salutaire et nécessaire de leur formation. Toutefois, le fait de présenter ces questions devant les tribunaux constitue un gaspillage des fonds publics et du temps de la Cour.
+[…]
+Le paragraphe 249 de l’avis d’appel est ainsi formulé :
+[traduction]
+249. Le contribuable demande que cet appel soit traité dans les meilleurs délais de sorte qu’il puisse évaluer s’il est dans son intérêt supérieur de continuer à résider au Canada.
+J’espère avoir traité cette requête avec suffisamment de rapidité pour respecter cette demande plutôt présomptueuse.
+[8] Dans la décision Davitt de 2003, le juge McArthur écrit :
+[13] L’opération pyramidale (Ponzi) que l’appelant mentionne est nouvelle, mais elle n’est invoquée qu’afin de fournir un contexte permettant d’analyser l’article 15 de la Charte. Cela n’aide pas la position de l’appelant.
+[14] L’appelant semble avoir une fixation pour le RPC et d’autres lois fiscales canadiennes. Le redressement qu’il demande coûterait probablement des milliards de dollars au Trésor. La Cour n’est pas le lieu où traiter de ces bouleversements sociaux colossaux. Je crois que l’appelant ne peut obtenir une forme de redressement qu’auprès du Parlement fédéral.
+[15] Je presse l’appelant de cesser de débattre de ses réformes sociales devant la Cour canadienne de l’impôt. Ses efforts extraordinaires seraient mieux consacrés dans d’autres forums. Les ressources de la Cour seront dépensées à meilleur escient pour des appels bien fondés. […]
+[9] Dans la décision Davitt de 2004, rendue par le juge Little, on trouve des passages tels que « pas recevable », « repose sur un raisonnement douteux ou inexact », « [à] mon avis, ces arguments ne sont pas fondés et ne sauraient être admis », « cet argument n’a aucun fondement », et « l’avis d’appel est frivole ou vexatoire et constitue un recours abusif à la Cour ».
+[10] L’an dernier, la juge Sharlow, s’exprimant au nom de la Cour d’appel fédérale, a écrit ce qui suit :
+Ce ne sont pas là des motifs valables à l’appui d’une allégation de crainte raisonnable de partialité. […] La difficulté réside ici dans le fait que M. Davitt n’a choisi ni la bonne procédure ni le bon tribunal.
+[11] J’ai pris connaissance de l’intégralité des motifs des juges Sharlow, Webb, Mogan, Little, McArthur et Bowman en ce qui a trait au droit applicable à une requête de cette nature et à son application aux questions que soulève M. Davitt ainsi qu’à la réparation qu’il demande. Il me suffit de dire que je souscris entièrement à ces motifs. J’ai aussi lu la décision par laquelle la juge en chef McLachlin, de la Cour suprême du Canada, a rejeté la demande d’autorisation de pourvoi présentée par M. Davitt devant une formation de la Cour composée également des juges Abella et Rothstein.
+[12] Les requêtes en radiation de la Couronne sont accueillies. Les avis d’appels déposés par M. Davitt concernant l’A‑E et le RPC pour 2007 sont annulés.
+[13] La Cour est pleinement habilitée à contrôler les recours abusifs à sa procédure : voir, par exemple, l’arrêt Fournier c. Canada, 2005 CAF 131, [2006] G.S.T.C. 52, de la Cour d’appel fédérale, le paragraphe 9(2) des Règles ainsi que les décisions rendues par la Cour sur la question du lien entre l’adjudication de dépens et le recours abusif à la procédure comme Bono c. M.R.N., 2010 CCI 466 et Harold Isaac OP Sunrise Electrical c. M.R.N., 2010 CCI 225. J’ai examiné la position défendue par l’appelant dans ses avis d’appel de même que les commentaires et observations qu’il a avancés aujourd’hui à la lumière des considérations généralement applicables à l’adjudication de dépens et à la meilleure façon de contrôler les abus de procédure, lesquelles sont résumées dans les affaires susmentionnées et dans les règles de la Cour. Sur la question de l’abus de procédure, je mentionnerai également les motifs que j’ai rédigés dans la décision Golden et al. c. La Reine, 2009 CCI 396, 2009 DTC 1273 et la jurisprudence de la Cour suprême du Canada que j’y ai citée. Cette décision a été confirmée par la Cour d’appel fédérale. En conséquence, je fixe à 5 000 $ le montant des dépens que l’appelant devra payer, et ce, dans un délai de 45 jours.
+[14] William Shawn Davitt a introduit une série d’appels et de procédures très semblables devant la Cour. Toutes les procédures ont échoué et les appels ont été annulés. La Cour ne peut lui permettre de continuer, sans contrainte aucune, à abuser de sa procédure par diverses demandes vexatoires. On pourrait qualifier M. Davitt de « plaideur quérulent », pour emprunter un terme actuellement employé par le milieu juridique. Afin de l’empêcher de recourir abusivement à la procédure de la Cour à l’avenir, je lui interdirai, dans mon ordonnance, d’interjeter appel à la Cour concernant l’A‑E ou le RPC sans avoir préalablement obtenu l’autorisation écrite de cette dernière. Il ne lui sera pas non plus permis, sans l’autorisation susmentionnée, de représenter une autre personne devant la Cour dans le cadre d’un appel qui concerne l’A‑E ou le RPC et qui soulève des questions essentiellement semblables à celles soulevées dans les nombreux appels Davitt. De même, sans cette autorisation, il ne lui sera pas permis d’interjeter appel à la Cour ni de représenter un autre contribuable devant la Cour si, dans l’un ou l’autre cas, l’appel soulève des questions essentiellement semblables aux questions soulevées dans les appels Davitt. Toute demande d’autorisation devra être présentée par écrit et ne pas dépasser 10 pages.
+[15] Dans le dossier et les observations qu’il a soumis, M. Davitt exprime ses inquiétudes concernant le principe de la publicité des débats judiciaires et une publication du Conseil canadien de la magistrature intitulée « Principes de déontologie judiciaire ». D’après ce que je crois comprendre, il invoque ces principes pour me rappeler qu’en rédigeant les présents motifs, je ne peux me livrer à des actes de censure contraires à la Constitution et ainsi priver la population canadienne de son droit à la publicité des débats de la Cour en l’empêchant de prendre connaissance de ses opinions et pour m’exhorter à résumer chacun des arguments qu’il a avancés dans ses avis d’appel et plaidés aujourd’hui, de même que tous les faits et éléments de preuve pertinents qu’il a invoqués dans ses avis d’appel et plaidés aujourd’hui, dans la mesure où ils se rapportent à ces arguments. Je ne suis certes pas tenu de répondre à cette demande, non plus que je croie qu’il me soit possible de résumer ses deux avis d’appel, qui renferment chacun des centaines de paragraphes et comportent plus de 120 pages, d’une manière que M. Davitt jugerait satisfaisante.
+[16] Ainsi, pour dissiper les inquiétudes de M. Davitt, je joindrai à mon ordonnance, en tant qu’annexes, une copie de ses avis d’appel ainsi qu’une copie de toute la transcription des débats d’aujourd’hui réalisée par la sténographe judiciaire et, au besoin et dans la mesure indiquée, une copie de la transcription que j’aurai révisée afin de repérer les erreurs manifestes de sténographie et de ponctuation.
+[17] Je vous remercie, Maître Paré, Madame la greffière et Madame la sténographe. La séance est levée.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 27e jour de janvier 2014.
+S. Tasset
+RÉFÉRENCE : 2010 CCI 555
+Nos DES DOSSIERS DE LA COUR : 2010-1146(EI), 2010-1147(CPP)
+INTITULÉ : WILLIAM SHAWN DAVITT c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 7 octobre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 7 décembre 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Annie Paré
+ÉGALEMENTS PRÉSENTS :
+Greffière :
+Mme Roberta Colombo
+Sténographe judiciaire :
+Mme Christal Chan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

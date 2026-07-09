@@ -1,0 +1,349 @@
+Title: 5256951 Manitoba Ltd. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30331/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-229-30331-5256951-manitoba-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2011-04-29
+
+# 5256951 Manitoba Ltd. c. M.R.N.
+
+- Citation: 2011 CCI 229
+- Decision date: 2011-04-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8035, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+5256951 Manitoba Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-04-29
+Référence neutre
+2011 CCI 229
+Numéro de dossier
+2010-3001(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-3001(EI)
+ENTRE :
+5256951 MANITOBA LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus avec les appels de
+5256951 Manitoba Ltd., (2010-3003(CPP))
+le 11 février 2011 à Winnipeg (Manitoba)
+et plaidoiries finales entendues par conférence téléphonique le 12 avril 2011.
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+M. Lorne Neyedly
+Avocat de l’intimé :
+Me Tom Gagnon
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés par l’appelante à l’encontre des impositions établies au titre de la Loi sur l’assurance-emploi (toutes datées du 10 juillet 2009) concernant les cotisations d’assurance-emploi relatives à Wayne Scholz pour 2006, 2007, 2008 et 2009 sont accueillis sans frais, et ces impositions sont annulées.
+Signé à Ottawa, Canada, ce 29e jour d’avril 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 15e jour de juin 2011.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+Dossier : 2010-3003(CPP)
+ENTRE :
+5256951 MANITOBA LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus avec les appels de
+5256951 Manitoba Ltd., (2010-3001(EI))
+le 11 février 2011 à Winnipeg (Manitoba)
+et plaidoiries finales entendues par conférence téléphonique le 12 avril 2011.
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+M. Lorne Neyedly
+Avocat de l’intimé :
+Me Tom Gagnon
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés par l’appelante à l’encontre des impositions établies au titre du Régime de pensions du Canada (toutes datées du 10 juillet 2009) concernant les cotisations au Régime de pensions du Canada relatives à Wayne Scholz pour 2006, 2007, 2008 et 2009 sont accueillis sans frais, et ces impositions sont annulées.
+Signé à Ottawa, Canada, ce 29e jour d’avril 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 15e jour de juin 2011.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+Référence : 2011CCI229
+Date : 20110429
+Dossiers : 2010-3001(EI)
+2010-3003(CPP)
+ENTRE :
+5256951 MANITOBA LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Des impositions ont été établies à l’égard de l’appelante (au moyen d’avis d’imposition tous datés du 10 juillet 2009) au titre de la Loi sur l’assurance‑emploi (la « Loi ») pour les cotisations à l’assurance‑emploi et au titre du Régime de pensions du Canada (le « Régime ») pour les cotisations au Régime de pensions du Canada, en lien avec les montants versés par l’appelante relativement à Wayne Scholz en 2006, 2007, 2008 et 2009. Les montants imposés au titre de la Loi et du Régime sont les suivants :
+Année
+Montant imposé au titre de la Loi
+Montant imposé au titre du Régime
+2006
+880,54 $
+1 595,88 $
+2007
+1 061,63 $
+2 086,42 $
+2008
+882,41 $
+1 757,26 $
+2009
+128,71 $
+278,02 $
+Total :
+2 953,29 $
+5 717,58
+[2] Le point en litige dans les présents appels consiste à déterminer si Wayne Scholz était un employé ou un entrepreneur indépendant. Plusieurs affaires traitent de la question de savoir si un particulier est un employé ou un entrepreneur indépendant. Dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] A.C.S. 61, 2001 C.S.C. 59 (« Sagaz »), le juge Major, de la Cour suprême du Canada, a déclaré ce qui suit :
+46 À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l’arrêt Stevenson Jordan, précité, qu’il peut être impossible d’établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [traduction] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d’apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l’opinion du juge MacGuigan lorsqu’il affirme — en citant Atiyah, op. cit., p. 38, dans l’arrêt Wiebe Door, p. 563 — qu’il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[traduction] [N]ous doutons fortement qu’il soit encore utile de chercher à établir un critère unique permettant d’identifier les contrats de louage de services [. . .] La meilleure chose à faire est d’étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s’appliquent pas dans tous les cas et n’ont pas toujours la même importance. De la même façon, il n’est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[3] Dans l’arrêt Royal Winnipeg Ballet c. Ministre du Revenu national, 2006 CAF 87, 2006 D.T.C. 6323, les danseurs et la compagnie de ballet avaient tous deux voulu que les danseurs soient engagés à titre d’entrepreneurs indépendants. La Cour d’appel fédérale a examiné les faits pertinents de l’affaire à la lumière des facteurs énoncés dans l’arrêt Wiebe Door Services Ltd. v. Minister of National Revenue, [1986] 2 C.T.C. 200, 87 D.T.C. 5025 (« Wiebe Door »). La majorité des juges de la Cour d’appel fédérale a conclu que les faits pertinents de l’affaire ne changeaient pas la nature de la relation que les danseurs et le Royal Winnipeg Ballet avaient souhaité établir et que les danseurs étaient des entrepreneurs indépendants. Dans l’arrêt Royal Winnipeg Ballet, la juge Sharlow, s’exprimant au nom de la majorité de la Cour d’appel fédérale, a émis les commentaires suivants :
+65. Le juge a retenu les facteurs énoncés ci-dessous pour effectuer l’analyse exposée dans l’arrêt Wiebe Door (il n’est pas suggéré qu’il a utilisé des facteurs non pertinents ou qu’il a omis de tenir compte de facteurs pertinents).
+· L’élément indispensable de l’expression artistique individuelle appartient nécessairement aux danseurs. Le RWB choisit les œuvres qui seront exécutées, décide de l’heure et du lieu des représentations et des répétitions, attribue les rôles, fournit la chorégraphie et dirige les représentations.
+· Les danseurs n’ont aucune responsabilité en matière de gestion ou d’investissement pour ce qui est du travail qu’ils effectuent pour le RWB.
+· Les danseurs n’assument pratiquement aucun risque financier pour le travail qu’ils effectuent pour le RWB pendant la saison pour laquelle ils ont été engagés. Cependant, le RWB ne les engage que pour une seule saison et ils n’ont aucune garantie d’être engagés à nouveau la saison suivante.
+· Les danseurs ont la possibilité de faire quelques bénéfices, même lorsqu’ils sont engagés par le RWB, dans la mesure où ils peuvent négocier une rémunération supplémentaire par rapport à celle que prévoit le Canadian Ballet Agreement. Cependant, l’essentiel de la rémunération versée par le RWB est basé sur l’ancienneté et il est rare qu’on s’écarte de ce barème.
+· La carrière d’un danseur est susceptible d’être gérée, en particulier à mesure que le danseur acquiert de l’expérience. Les danseurs engagés par le RWB ont une grande latitude lorsqu’il s’agit d’accepter des engagements avec d’autres compagnies de ballet, même s’ils doivent respecter des restrictions contractuelles importantes (la nécessité d’obtenir le consentement du RWB et l’obligation de se présenter comme étant engagé par le RWB).
+· Les danseurs payent de leur poche de nombreux frais liés à leur engagement par le RWB et leur carrière de danseur en général, mais le RWB est tenu de fournir les chaussons, les costumes, les collants, les perruques et certains autres articles nécessaires.
+· Il incombe aux danseurs de demeurer en bonne forme physique pour pouvoir exécuter les rôles qui leur sont attribués. Le RWB est toutefois tenu, en vertu du contrat, de fournir certains avantages liés à la santé et de prévoir des périodes de réchauffement.
+66. Dans la présente affaire, comme dans la plupart des affaires d’ailleurs, le facteur du contrôle mérite une attention particulière. Il me semble que le RWB exerce un contrôle étroit sur le travail des danseurs, mais ce contrôle ne dépasse pas ce qu’exige la présentation d’une série de ballets pendant une saison de spectacles bien planifiée. Si le RWB devait présenter un ballet en ayant recours à des artistes invités pour tous les rôles principaux, le contrôle qu’exercerait le RWB sur les artistes invités serait le même que si tous ces rôles étaient exécutés par des danseurs engagés pour la saison. Si l’on accepte (comme on doit le faire) le fait qu’un artiste invité peut accepter un rôle au sein du RWB sans pour autant devenir son employé, il faut en déduire que le facteur du contrôle exercé doit être compatible avec le fait que l’artiste invité est un entrepreneur indépendant. Il s’ensuit donc qu’on ne peut raisonnablement considérer comme incompatible avec l’intention des parties d’attribuer aux danseurs le statut d’entrepreneur indépendant le contrôle exercé en l’espèce sur les danseurs.
+67. Le même raisonnement s’applique à tous les facteurs, considérés dans leur ensemble, dans le contexte de la nature des activités qu’exerce le RWB et du travail qu’exécutent les danseurs engagés par le RWB. À mon avis, dans la présente affaire, la façon dont les parties interprétaient la nature de leur relation juridique est étayée par les clauses contractuelles et les autres faits pertinents.
+[4] Dans l’arrêt D.W. Thomas Holdings Inc. c. Ministre du Revenu national, 2009 CAF 371, la juge Layden-Stevenson a déclaré, au nom de la Cour d’appel fédérale :
+5 Contrairement à ce que soutient l’appelante, la juge Miller a examiné la question de l’intention. En suivant la démarche énoncée dans l’arrêt Royal Winnipeg Ballet c. Canada (Ministre du Revenu national), [2007] 1 R.C.F. 35 (CAF), elle a examiné la preuve afin de déterminer si elle étayait l’intention de l’appelante et a conclu par la négative.
+[5] L’appelante exploitait une entreprise d’achat et de vente de bateaux sous la bannière « The Boat Finders ». Apparemment, les bateaux étaient généralement achetés aux États-Unis et vendus à des clients au Canada. L’appelante cueillait les embarcations à divers endroits et les transportait dans ses locaux. Lorsqu’elle vendait un bateau, elle le livrait à l’acheteur. L’appelante a retenu les services de Wayne Scholz, à qui elle a confié son camion afin qu’il aille prendre les bateaux et les lui livre à son lieu d’affaires. Conformément à ce qui sera établi ci-dessous, il semblerait que les clients de l’appelante retenaient eux aussi les services de Wayne Scholz afin qu’il leur livre les bateaux.
+[6] Il y a en l’espèce désaccord entre l’appelante et Wayne Scholz quant à l’existence d’une intention commune concernant le statut d’employé ou d’entrepreneur indépendant de celui‑ci. Lorne Neyedly, directeur général de l’appelante et père de l’actionnaire de l’entreprise, a témoigné à l’audience. En contre-interrogatoire, il a déclaré ce qui suit :
+[traduction]
+Q Vous dites dans votre déposition que M. Scholz vous a lui-même déclaré être chauffeur contractuel indépendant. Est-ce exact?
+R Constamment, à moi et aux autres témoins.
+Q Et vous dites qu’à la première rencontre, il a déclaré qu’il était chauffeur contractuel, c’est bien cela?
+R À la première rencontre, à la fin, il a déclaré qu’il était chauffeur contractuel.
+[7] Lors de son témoignage, Wayne Scholz a déclaré ce qui suit :
+[traduction]
+Q En outre, lorsque vous avez commencé vos fonctions, avez-vous discuté de la question de savoir si vous seriez un employé ou un entrepreneur?
+R J’ai simplement supposé que c’était employé, parce nous n’avons jamais parlé de quelque contrat que ce soit, point à la ligne.
+Q Alors, que pensiez-vous être?
+R Employé.
+Q Avez-vous déjà dit à M. Neyedly que vous étiez un entrepreneur indépendant?
+R Jamais.
+Q Et pendant tout le temps où vous avez travaillé pour The Boat Finders, que pensiez-vous être?
+R Un employé.
+[8] Les dépositions de ces deux témoins diffèrent clairement. L’appelante a également appelé Carla Provencal à la barre des témoins. Je n’hésite pas à accepter son témoignage. Elle était très crédible. Elle a affirmé ce qui suit :
+[traduction]
+Q Donc, comment conceviez-vous la situation de Wayne Scholz?
+R Qu’il n’était pas employé, qu’il était chauffeur contractuel indépendant.
+Q Vous a-t-on déjà demandé de vous occuper de la paie?
+R Une fois, j’ai émis les chèques de paie lorsque Louise était absente, j’étais encore relativement nouvelle, encore en formation, c’était à l’automne de 2008, et Louise m’a dit comment faire au téléphone. Et j’ai demandé quels étaient tous ceux qui devaient recevoir des chèques de paie et elle m’a dit de sortir les fiches de présence, et je remplissais une fiche de présence et les autres employés en faisaient autant. J’ai donc sorti ces fiches de présence.
+Je me suis renseignée au sujet de Wayne. Elle dit : [traduction] « Ne t’occupe pas de Wayne. Tu n’as pas à lui remettre de chèque parce qu’il ne figure pas sur la liste de paie ». J’ai donc émis des chèques de paie pour moi-même, pour Jared, pour Mike.
+Q A-t-elle qualifié Wayne d’employé ou…
+R Non. Elle a dit qu’il n’était pas employé et que je n’avais donc pas besoin de lui préparer un chèque de paie.
+[9] Louise, dont il est question, est Louise Scholz, l’épouse de Wayne Scholz. Elle s’occupait également de la tenue de livres et de la gestion du bureau pour l’appelante. Apparemment, Louise Scholz jouissait d’une grande autonomie dans l’exécution des tâches que lui avait confiées l’appelante. Elle avait aussi la capacité de signer les chèques. Selon toute vraisemblance, Louise Scholz n’aurait pas dit à Carla Provencal que Wayne Scholz n’était pas un employé si celui-ci avait réellement voulu travailler à titre d’employé et croyait en être un.
+[10] Carla Provencal a aussi déclaré ce qui suit :
+[traduction]
+Q Et qu’avez-vous pensé lorsque Brian Fey, examinateur des fiducies à l’ARC, est entré?
+R Brian avait dit qu’il venait procéder à une vérification, parce que Wayne Scholz avait affirmé être un employé et qu’il avait demandé des prestations d’assurance-emploi, et que c’est ce qui était à l’origine de la vérification.
+Et j’étais véritablement sous le choc et très étonnée, parce que, à l’époque où je travaillais à cet endroit, Wayne se désignait comme un chauffeur contractuel indépendant lors de nos conversations et que c’est ce que Louise Scholz et tous les autres chez The Boat Finders m’avaient dit qu’il était.
+Q A-t-il déjà fait quelque allusion au fait qu’il était agriculteur?
+R Oui. Lorsqu’il venait au bureau et attendait les documents pour aller prendre les bateaux, puisque j’étais à la réception et que c’est là qu’il attendait. Nous parlions, naturellement, comme les gens le font d’ordinaire, du temps qu’il faisait et, disons, de comment la ferme se portait et de ce genre de choses.
+Et je suis devenue travailleuse autonome le 1er juillet, alors je ne travaillais pas pour The Boat Finders à titre d’employée. Et donc, en mars, alors que j’étais au travail et qu’il était là, nous avions eu une conversation, une conversation d’ordre générale, au sujet du fait que oui, je ne suis pas, disons, je vais devenir travailleuse autonome, et nous parlions simplement de cela, et il a dit que oui, c’était une bonne chose d’être à son compte. Du genre, vous savez, cela me plaît d’être agriculteur. J’aime bien, tu sais, faire du transport à forfait, parce qu’on n’est l’employé de personne et que l’on peut en quelque sorte choisir le jour, le moment et ainsi de suite.
+[11] Wayne Scholz a ajouté que, dans ses déclarations de revenus, il déclarait les sommes qu’il recevait de l’appelante comme des revenus d’emploi. Les déclarations de revenus qu’il a produites pour les années en cause n’ont pas été déposées en preuve. L’appelante ne peut probablement pas obtenir les déclarations de revenus produites par Wayne Scholz. Par contre, l’intimé, le ministre du Revenu national, peut obtenir les déclarations de revenus que Wayne Scholz a produites.
+[12] Dans la troisième édition de l’ouvrage intitulé Law of Evidence in Canada, les auteurs, les juges Lederman, Bryant et Fuerst, de la Cour supérieure de justice de l’Ontario, écrivent, à la page 377 :
+[traduction]
+§6.449 Dans les affaires civiles, on peut tirer une inférence défavorable lorsqu’une partie au litige, en l’absence d’explication, omet de témoigner ou de fournir une preuve par affidavit au sujet d’une demande, ou qu’il omet de convoquer un témoin qui aurait connaissance des faits et dont on pourrait présumer qu’il serait disposé à aider cette partie. Dans le même ordre d’idées, on peut tirer une inférence défavorable contre la partie qui ne convoque pas un témoin important sur lequel elle exerce un contrôle exclusif et qui ne fournit aucune explication à ce sujet. Une telle omission constitue une admission implicite que la déposition du témoin absent irait à l’encontre des arguments de la partie ou du moins, qu’elle ne les appuierait pas.
+§6.450 Il y a lieu de tirer une inférence défavorable uniquement après que la partie à qui incombe le fardeau de la preuve a établi prima facie le bien-fondé de ses arguments.
+[Renvois omis.]
+[13] Selon moi, ce qui précède peut aussi s’appliquer au défaut de produire des documents dont une partie a la garde exclusive. Il s’agit en l’espèce des déclarations de revenus de Wayne Scholz pour 2006, 2007, 2008 et 2009. Ces déclarations de revenus auraient soit confirmé l’affirmation de Wayne Scholz selon laquelle il avait eu l’intention d’être employé et se considérait comme tel, soit contredit ces dires, puisque, dans une déclaration de revenus, les revenus d’emplois ne sont pas inscrits sur la même ligne que les revenus d’entreprise. Wayne Scholz a été convoqué comme témoin par l’intimé, et non par l’appelante.
+[14] Lors des plaidoiries finales, l’avocat de l’intimé a déclaré que c’était à l’appelante qu’il revenait de prouver son intention et celle de Wayne Scholz.
+[15] Dans l’arrêt The Queen v. Anchor Pointe Energy Ltd., 2003 D.T.C. 5512 (C.A.F.), le juge Rothstein (alors juge à la Cour d’appel fédérale) a déclaré ce qui suit :
+23 Alléguer l’existence d’hypothèses confère comme avantage important à la Couronne de renverser le fardeau de preuve, de sorte que le contribuable doive réfuter les hypothèses du ministre. Les faits allégués comme hypothèses doivent être précis et exacts afin que le contribuable sache bien clairement ce qu’il lui faudra prouver.
+[16] Dans l’arrêt Canada c. Loewen, 2004 CAF 146, la juge Sharlow a aussi fait les commentaires suivants :
+9 Sa Majesté est tenue de s’assurer que le paragraphe dans lequel les hypothèses sont formulées est clair et exact. Ainsi, Sa Majesté ne peut affirmer que le ministre a tenu pour acquis, lorsqu’il a établi la cotisation, qu’une voiture déterminée était de couleur verte tout en affirmant en même temps que cette voiture était rouge, parce qu’il est impossible que le ministre ait formulé ces deux hypothèses en même temps (Brewster c. La Reine, 76 D.T.C. 6046, [1976] C.T.C. 107 (C.F. 1re inst.)).
+10 Il n’est pas non plus loisible à Sa Majesté de plaider que le ministre a retenu une certaine hypothèse lorsqu’il a établi la cotisation, alors qu’en fait cette hypothèse n’a été formulée que par la suite lorsque, par exemple, le ministre a confirmé la cotisation à la suite d’un avis d’opposition. Sa Majesté peut toutefois plaider que le ministre a, lorsqu’il a établi la nouvelle cotisation, retenu une hypothèse qui n’avait pas été formulée lorsque la première cotisation a été établie (Anchor Pointe Energy Ltd. c. Canada, 2003 D.T.C. 5512 (C.A.F.)).
+11 Les contraintes imposées au ministre lorsqu’il invoque des hypothèses n’empêchent cependant pas Sa Majesté de soulever, ailleurs dans la réponse, des allégations de fait et des moyens de droit qui sont étrangers au fondement de la cotisation. Si Sa Majesté allègue un fait qui ne fait pas partie des faits présumés par le ministre, la charge de la preuve repose sur elle. Ce principe est bien expliqué dans la décision Schultz c. Canada, [1996] 1 C.F. 423, [1996] 2 C.T.C. 127, 95 D.T.C. 5657 (C.A.F.) (autorisation d’appel refusée [1996] A.C.S.C. no 4).
+[17] Que ce soit dans la réponse déposée par rapport à l’appel interjeté en vertu de la Loi ou dans celle déposée par rapport à l’appel interjeté en vertu du Régime, il n’est mentionné nulle part que le ministre présumait que les parties avaient une intention précise. Si l’intimé veut maintenant alléguer que les parties n’avaient pas l’intention commune de faire de Wayne Scholz un entrepreneur indépendant, il lui revient d’en faire la preuve. Il me semble qu’à cet égard, les déclarations de revenus de Wayne Scholz auraient soit confirmé, soit réfuté les dires de Wayne Scholz voulant qu’il se soit toujours considéré comme un employé et qu’il ait déclaré ses revenus en conséquence. Il me semble qu’il est permis de tirer une inférence défavorable de l’omission de l’intimé de déposer des copies des déclarations de revenus produites par Wayne Scholz en 2006, 2007, 2008 et 2009. On peut en effet conclure que ces déclarations auraient indiqué qu’il a déclaré les revenus tirés des services rendus à l’appelante comme des revenus d’entreprise, et non comme des revenus d’emploi.
+[18] Étant donné que Louise Scholz était l’épouse de Wayne Scholz et qu’elle était également l’aide-comptable ou gestionnaire de bureau de l’appelante, si Wayne Scholz avait estimé être un employé pendant ces quatre années, pourquoi n’a-t-il pas demandé à son épouse de lui remettre un feuillet T4? En contre-interrogatoire, Wayne Scholz a confirmé qu’il n’avait jamais demandé de feuillet T4 ni de relevé d’emploi.
+[19] Je retiens les témoignages de Lorne Neyedly et de Carla Provencal et je rejette celui de Wayne Scholz. Par conséquent, je conclus à l’existence d’une intention commune de faire de Wayne Scholz un entrepreneur indépendant, et non un employé.
+[20] Dans l’arrêt Royal Winnipeg Ballet, les faits se rapportant aux danseurs et les circonstances propres à l’exécution de leur travail n’ont pas suffi à modifier la nature de l’entente voulue par les parties. À mon sens, il aurait donc fallu, « [e]n suivant la démarche énoncée dans l’arrêt Royal Winnipeg Ballet », que les faits pertinents de la présente affaire, examinés à la lumière des facteurs énoncés dans les arrêts Wiebe Door et Sagaz, indiquent plus fermement que ceux de l’affaire Royal Winnipeg Ballet l’existence d’une relation employeur‑employé pour que Wayne Scholz puisse être considéré comme un employé. Dans l’affaire Royal Winnipeg Ballet comme dans celle qui nous occupe, l’intention était d’établir une relation avec un entrepreneur indépendant, et non une relation employeur‑employé.
+[21] Selon l’intimé, une distinction peut être établie, car, dans l’affaire Royal Winnipeg Ballet, pour citer les propos de la juge Sharlow, « les parties s’entendent sur ce qu’elles croient être la nature de leur relation », alors que dans les présents appels, il y a désaccord entre les parties. Cependant, puisque j’ai rejeté le témoignage de Wayne Scholz concernant son intention d’être considéré comme un employé, je conclus qu’il n’y a pas non plus, en l’espèce, de différend quant à la façon dont les parties percevaient leur relation.
+[22] En ce qui concerne le facteur du contrôle, la preuve dont je suis saisi indique que le degré de contrôle exercé par l’appelante à l’endroit de Wayne Scholz était moindre que celui que détenait le Royal Winnipeg Ballet à l’égard des danseurs. Dans Royal Winnipeg Ballet, la juge Sharlow a qualifié d’« étroit » le contrôle exercé par le Royal Winnipeg Ballet sur les danseurs. Elle fait d’ailleurs l’observation suivante :
+[…] Le RWB choisit les œuvres qui seront exécutées, décide de l’heure et du lieu des représentations et des répétitions, attribue les rôles, fournit la chorégraphie et dirige les représentations. […]
+[23] Wayne Scholz conduisait le camion de l’appelante pour aller prendre des bateaux[1]. L’appelante a retenu ses services pour exécuter une tâche précise selon les besoins. Lorsque Wayne Scholz n’était pas disponible pour conduire le camion, l’appelante s’adressait à un autre chauffeur inscrit sur sa liste. Entre 2006 et 2009, l’appelante disposait d’une liste de six à sept chauffeurs pour conduire le camion, dont un de ses employés.
+[24] Dans l’affaire Direct Care In-Home Health Services Inc. c. Ministre du Revenu national, 2005 CCI 173, le juge Hershfield a fait les commentaires suivants sur la question du contrôle :
+11 Dans le cadre de l’analyse de ce facteur, il faut déterminer qui contrôle le travail et comment, quand et où il doit être effectué. S’il est jugé que le travailleur a le contrôle du travail une fois qu’il lui est confié, cela semble davantage indiquer que le travailleur est un entrepreneur indépendant, et s’il est jugé que l’employeur exerce un contrôle sur l’exécution du travail par le travailleur, cela laisse entendre qu’il y a une relation employeur‑employé. Toutefois, lorsque les travailleurs ont une spécialisation accrue, il se peut que ce critère soit considéré comme moins fiable. On accorde donc plus d’importance à la question de savoir si le service que le travailleur doit fournir dans le cadre de ses fonctions est simplement axé sur les « résultats »; c.‑à‑d. « voici une tâche précise – vous avez été engagé pour l’exécuter ». Dans un tel cas, il n’y a pas de lien de subordination, ce qui est une exigence fondamentale pour qu’il y ait une relation employé-employeur. De plus, il ne faut pas confondre le contrôle des résultats, qui peut être exigé à chaque fois qu’un travailleur est engagé pour fournir des services, avec le contrôle ou la subordination d’un travailleur.
+12 En l’espèce, la travailleuse pouvait refuser une affectation pour quelque raison que ce soit, ou même sans raison. […]
+[Non souligné dans l’original.]
+[Renvois omis.]
+[25] Wayne Scholz a été engagé pour exécuter une tâche précise : conduire le camion. Il pouvait refuser une affectation, indépendamment de la raison. En cas de refus de sa part, l’appelante n’avait qu’à téléphoner à un autre chauffeur figurant sur la liste. Wayne Scholz a dit estimer qu’il ne devait pas refuser trop souvent, mais c’est le cas de toute personne à qui une affectation est susceptible d’être offerte. Les refus trop fréquents d’une personne peuvent inciter l’auteur de l’offre à ne plus faire appel à elle.
+[26] Dans l’affaire ACE-J Transportation Inc. v. Canada (Minister of National Revenue), 2010 TCC 174, le juge Weisman a statué que les cinq camionneurs en cause avaient été engagés à titre d’entrepreneurs indépendants. Il écrit notamment :
+[traduction]
+18 Le fait que les affaires mentionnées accordent de l’importance à la faculté du travailleur de refuser une affectation est capital en l’espèce. Il ressort clairement de la preuve produite ici que les cinq travailleurs avaient effectivement ce droit et que les mesures de contrôle mentionnées ci-dessus n’étaient mises en œuvre que lorsque le chauffeur avait accepté une affectation.
+[27] La faculté de refuser une affectation constitue un facteur important lorsqu’il s’agit de décider si une personne est un employé ou un entrepreneur indépendant. L’employé qui refuse une affectation s’expose à des mesures disciplinaires ou au congédiement. Si un entrepreneur indépendant refuse une affectation, il court simplement le risque que la personne qui la lui propose s’adresse à quelqu’un d’autre la prochaine fois qu’elle aura besoin des services offerts par l’entrepreneur indépendant. Le critère du contrôle tient compte de cet aspect. L’employeur exerce un contrôle sur l’employé pour ce qui est de l’affectation à un travail, mais la personne qui retient les services d’un entrepreneur indépendant n’exerce aucun contrôle sur l’affectation de l’entrepreneur indépendant, qui peut refuser la tâche assignée sans autre conséquence que le risque de ne pas être appelé la prochaine fois que cette personne aura du travail à confier. J’estime qu’en l’espèce, Wayne Scholz avait le droit de refuser les affectations qui lui étaient proposées comme chauffeur. Le fait que l’unique conséquence du refus était de réduire la probabilité que l’appelante fasse appel à lui lorsqu’elle aurait de nouveau besoin d’un chauffeur est une très bonne indication que Wayne Scholz était un entrepreneur indépendant, et non un employé.
+[28] Concernant le facteur relatif à la propriété des instruments de travail, l’intimé a fortement insisté sur le fait que l’appelante était propriétaire du camion que Wayne Scholz était chargé de conduire. Dans la décision ACE-J Transportation Inc., précitée, le juge Weisman a fait les commentaires suivants :
+[traduction]
+22 Ce qui me ramène au camion. La question du camion revêt un intérêt parce que je ne suis pas convaincu qu’il s’agit d’un instrument de travail dans les circonstances. Cette question se rapporte directement aux propos de l’avocat du ministre, qui a observé qu’un chauffeur avait certes besoin d’un camion pour conduire. Je n’ai encore jamais lu de jurisprudence où une telle affirmation est faite, mais il me semble y avoir une différence entre une entreprise de camionnage et une autre consistant à faire du remorquage, ce qui nécessite de se doter d’un camion.
+23 Selon moi, le camion est un instrument de travail essentiel à l’exploitant d’une entreprise de remorquage. Je ne puis dire si cela s’applique ou non à l’entrepreneur qui est uniquement chauffeur. Je sais toutefois que certains tribunaux de la province ont déclaré que le camion était un instrument essentiel.
+24 Je reviens maintenant à l’arrêt Precision Gutters. Le cas me semble en effet comparable à cette machine à fabriquer des gouttières et il a été jugé que ces messieurs étaient des entrepreneurs indépendants, en dépit du fait que le payeur fournissait l’instrument de travail essentiel, de la même façon que le payeur dans l’affaire qui nous occupe fournit le camion et se charge des réparations.
+[29] Ainsi, le fait que le camion appartenait à l’appelante n’empêchait pas Wayne Scholz d’exploiter une entreprise consistant à conduire ce camion. Dans l’arrêt Royal Winnipeg Ballet, les danseurs assumaient de nombreux frais, mais le Royal Winnipeg Ballet était tenu de leur fournir les chaussons, les costumes, les collants, les perruques et certains autres articles nécessaires.
+[30] On ne sait pas trop si Wayne Scholz aurait été en mesure d’embaucher d’autres travailleurs pour exécuter les tâches qui lui étaient confiées. Il semble que le seul souci de l’appelante était que les bateaux soient cueillis et lui soient livrés, et non pas que Wayne Scholz soit forcément le chauffeur du camion. Manifestement, Louise Scholz pouvait elle aussi conduire le camion, car elle effectuait le trajet entre l’établissement de l’appelante et l’endroit où se trouvait Wayne Scholz et rapportait le camion une fois le voyage terminé. De plus, elle l’accompagnait aussi lorsqu’il se rendait aux États-Unis pour prendre des bateaux. Comme elle pouvait conduire le camion, il est probable qu’elle ait pris le volant à l’occasion lors des longs voyages, bien que Wayne Scholz ait affirmé le contraire. Dans l’arrêt Royal Winnipeg Ballet, aucune analyse n’est faite de la question de savoir si les danseurs pouvaient ou non embaucher des aides, mais il semble illogique de supposer qu’ils puissent embaucher n’importe qui pour les remplacer au sein de la production.
+[31] Quant au degré de risque financier ou à la possibilité de profit, Wayne Scholz recevait, à l’instar de tous les autres chauffeurs engagés comme entrepreneurs indépendants, une somme forfaitaire déterminée en fonction de l’endroit où il devait se rendre. Quant à savoir qui fixait les taux de rémunération, les divergences entre le témoignage de Lorne Neyedly et celui de Wayne Scholz sont importantes.
+[32] Voici un extrait du témoignage livré par Lorne Neyedly durant l’interrogatoire principal :
+[traduction]
+Wayne Scholz fixait un prix et facturait The Boat Finders en conséquence, et nous acceptions de lui payer ce qu’il exigeait.
+[33] Voici maintenant un extrait du témoignage de Lorne Neyedly en contre-interrogatoire :
+[traduction]
+Q Bon. Vous avez dit aujourd’hui que M. Scholz fixait ses propres prix?
+R Absolument.
+Q Est-ce que tous vos chauffeurs fixaient leurs prix?
+R Oui.
+Q Donc, pour que nous puissions bien comprendre, tous ces chauffeurs, ils venaient vous voir…
+R Oui.
+Q …et vous informaient du montant qu’ils allaient exiger. Est-ce exact?
+R Ils nous disaient combien ils voulaient pour effectuer le voyage à partir de Grand Forks ou de Fargo, et nous acceptions ou non.
+Q Donc, vous ne fixiez aucun prix?
+R Non.
+Q Eh bien, M. Neyedly, je pense quant à moi que vous fixiez les prix?
+R Comment?
+Q N’est-ce pas la vérité?
+R Dites-moi comment je fixais les prix.
+Q Je vous le demande.
+R Supposons que vous vouliez allez chercher…
+Q C’est ce que je pense.
+R Si vous vouliez aller chercher un bateau à Fargo, vous me téléphoniez et disiez : « Je veux aller chercher un bateau. Donnez-moi cent cinquante ». C’est de cette façon qu’ils fixaient les prix.
+Q Donc, vous affirmez que vous ne le faisiez pas?
+R Hum, hum.
+[34] Voici un extrait du témoignage livré par Wayne Scholz durant l’interrogatoire principal :
+[traduction]
+Q Bon. J’aimerais maintenant aborder la question du paiement. Lorsque vous avez commencé vos fonctions, avez-vous discuté de votre rétribution?
+R Il m’a dit qu’il me donnerait 300 $ pour aller à Minneapolis. Il a dit… il m’a donné tous les prix dès le départ.
+Q Oui.
+R C’était tant du voyage.
+Q Vous dites que c’était tant du voyage?
+R Tant du voyage, oui.
+Q C’était comme un taux préétabli, alors?
+R Un taux préétabli.
+Q Et en fonction de quoi ce taux était-il établi?
+R Du kilométrage, je suppose, de la façon dont il avait déterminé la distance.
+Q Oui.
+R Et si je transportais les faisans, il nous donnait toujours davantage, parce que le déchargement représentait du travail supplémentaire.
+Q Mais nous parlons seulement de The Boat Finders aujourd’hui, toutefois. Qui arrivait à ces chiffres?
+R C’était Lorne.
+Q Bon. Et vous venez de nous dire que ces chiffres, ils étaient établis en fonction des distances, c’est exact?
+R Oui, je crois qu’ils le sont.
+[35] De toute évidence, la présente affaire soulève un problème de crédibilité. Ainsi que je l’ai signalé précédemment, je retiens le témoignage de Lorne Neyedly concernant l’existence d’une intention commune de faire que Wayne Scholz soit engagé à titre d’entrepreneur indépendant. Je retiens également le témoignage de Lorne Neyedly pour ce qui est de savoir qui fixait les prix. Par conséquent, je conclus que les prix étaient fixés par Wayne Scholz. Cette conclusion est compatible avec l’existence d’une relation d’entrepreneur indépendant.
+[36] Il y a un autre point sur lequel les témoins n’étaient pas du même avis. Le camion a été utilisé pour prendre, en général aux États-Unis, des bateaux qui devaient être livrés à l’appelante et il a aussi été utilisé pour livrer des bateaux aux clients de l’appelante. Si Lorne Neyedly et Wayne Scholz ont tous deux convenu que l’appelante payait Wayne Scholz pour conduire le camion servant au transport des bateaux, ils ne s’entendaient pas sur qui payait Wayne Scholz lorsqu’il utilisait le camion pour livrer un bateau à un client.
+[37] Dans son témoignage, Leon Schellenberg a déclaré ce qui suit :
+[traduction]
+Q Reconnaissez‑vous ces factures comme provenant du journal des ventes de The Boat Finders?
+R Oui, je les reconnais. Toutefois, sur celle-ci, et sur toutes les factures ou presque toutes les factures qui sont ici, comme je l’ai dit plus tôt, la femme de Wayne Scholz, Louise Scholz, faisait la tenue de livres pour The Boat Finders et sur toutes ces factures, elle a inscrit, dans la marge de gauche ou au centre de la feuille, une petite note qui ne figure pas dans le total que l’on voit ici et qui indique que l’acheteur du bateau, à savoir dans le premier cas Bruce Larson, de Calgary, Alberta, verserait directement au chauffeur 650 $ pour la livraison. C’est sur la facture 8151.
+Et si l’on prend… sautons une page, allez à la facture no 7301 : Kelvin Kozak, Edmonton, en Alberta. Ici encore, il semble que l’épouse du chauffeur, Louise Scholz, lorsqu’elle préparait ces choses – c’est elle qui les entrait à l’ordinateur, a encore une fois inscrit en marge : [traduction] « Livraison 300,00 $, payés directement au chauffeur ».
+Donc, les montants que nous voyons ici, et ça se poursuit, il y a la 7302, encore 300 $, la 7303, encore 600 $, la 6105, 1 000 $, la 7306 : [traduction] « 400 $ payés directement au chauffeur Wayne Scholz ».
+Donc, on trouve ces montants partout dans les livres de The Boat Finders. Ils étaient versés directement à Wayne Scholz et n’avaient en fait rien à voir avec eux. Ils n’étaient pas inclus… ils ne figuraient pas dans le total des factures. C’était une chose que l’aide-comptable, l’épouse de M. Scholz, inscrivait sur les… comme une note sur ces factures. Il était donc payé directement par l’acheteur du bateau et…
+[…]
+LE TÉMOIN : Ils ne l’étaient pas, ils n’étaient pas partout dans les livres. Ils n’étaient pas partout dans les livres.
+[38] Voici un extrait du témoignage livré par Lorne Neyedly durant l’interrogatoire principal :
+[traduction]
+[…] Le document no 3, déposé en preuve, tous ces bateaux et traîneaux étaient vendus à différents clients dans l’Ouest. Nous… après les avoir vendus, nous recevions le paiement intégral. Ils devaient assurer les bateaux avant que ceux-ci ne puissent être transportés, et Wayne et Louise Scholz offraient de livrer aux clients, de livrer à ceux qui devenaient leurs clients ces traîneaux et bateaux, et il était prévu qu’ils seraient payés comptant à destination.
+Les montants inscrits sur la facture, comme en a témoigné Carla Scholz [sic], étaient en fait, dans l’ordinateur, placés sous la facture. Et je l’ai ramené en haut de la facture pour montrer, nous devions rapprocher pour Leon les sommes que Wayne Scholz recevait en espèces, sans passer par nos livres.
+LE JUGE : Ainsi, si j’examine la toute première…
+LE TÉMOIN : Oui.
+LE JUGE : …il est écrit : [traduction] « Vendu à Bruce Larson. »
+LE TÉMOIN : Oui.
+LE JUGE : Et il y a une note : « Livraison à Regina, 650,00 $ à payer directement au chauffeur »?
+LE TÉMOIN : Oui. Elle ne figure pas sur l’original de la facture. Elle est placée au-dessous de la facture dans l’ordinateur.
+LE JUGE : Mais elle figure sur la facture que je vois présentement.
+LE TÉMOIN : Parce que je l’y ai inscrite pour …
+LE JUGE : Vous avez ajouté cela?
+LE TÉMOIN : Il le fallait, j’ai dû l’ajouter pour montrer ce qu’il en était.
+LE JUGE : D’accord. Donc, quand je vois, toutes celles où il est inscrit qu’il y a eu livraison à quelque endroit, c’est vous qui avez entré ces inscriptions?
+LE TÉMOIN : Oui, elles n’étaient pas sur l’original de la facture, mais elles sont dans l’ordinateur sous les factures. Nous pouvons étayer cela par des témoignages.
+LE JUGE : Alors, comment savez-vous qu’on lui a versé 650 $?
+LE TÉMOIN : La seule chose que j’ai faite a été de copier à l’endos de celle de Bruce Larson un courriel de Louise. Les montants véritables, je les connais pour la simple raison qu’ils étaient indiqués sous les factures dans l’ordinateur.
+Elle s’occupait de négocier… Le tout fonctionnait ainsi. Je suis le vendeur. Je vendais un bateau, je vendais un traîneau, et nous vendons passablement de matériel, en assez grand nombre dans l’Ouest, en passant par Regina jusqu’à Edmonton, Calgary et au-delà jusqu’à Fort McMurray. Tous les traîneaux que Wayne et Louise ont transportés en Alberta, ils en réunissaient plusieurs en un chargement, je pense qu’ils avaient environ quatre traîneaux minimum, sinon cinq, et ils s’entendaient avec ces clients et pour les traîneaux, ils recevaient 400 $ pièce. Et alors, ils se rendaient là.
+Et je n’avais rien à avoir avec le prix qu’ils demandaient à ces clients. Louise s’en chargeait pour elle-même et Wayne de nos bureaux, en fait, depuis nos bureaux.
+Puis ils s’occupaient du chargement du camion et effectuaient le voyage au cours de la fin de semaine, ou ils partaient le vendredi, et ils se rendaient livrer cette marchandise et se faisaient payer par les clients, que je considère comme leurs clients, et ils recevaient soit un paiement comptant, soit un chèque. Je ne sais pas. Cet argent n’était jamais comptabilisé dans nos livres. C’est pourquoi la question s’est présentée avec l’intervention de Leon Schellenberg.
+Et de là, lorsqu’ils acceptaient des voyages en Alberta, ils rendaient ensuite visite à leur fils dans la région de Fort McMurray et nous leur permettions d’utiliser notre camion et notre remorque, je suppose, parce que nous sommes des gens bien et que nous voulions les aider à gagner un peu plus d’argent.
+[39] Lors de son témoignage, Carla Provencal a déclaré ce qui suit :
+[traduction]
+Q Oui, d’accord, je vais reformuler ma question. Êtes-vous au courant que Wayne Scholz livrait des bateaux et des traîneaux dans l’Ouest?
+R Oui, il le faisait, très souvent.
+Q Savez-vous de quelle façon il était payé?
+R Il était payé à part par le client qui recevait le bateau. Quand j’étais en formation, à un moment donné, les factures des clients de The Boat Finders étaient générées par ordinateur au moyen du tableur Excel et Louise déterminait qui avait reçu des livraisons en inscrivant les frais de livraison au bas de la facture, mais à l’extérieur de la zone d’impression parce qu’il ne s’agissait pas de frais payables par The Boat Finders. Ces sommes étaient payées à part à Wayne.
+Et une fois, lors d’une formation, j’ai accidentellement imprimé la page entière avec les frais de 500 $ – les frais étaient de 500 $ pour la facture en cause – de la livraison et Louise, ma superviseure, m’a dit que ce n’était pas la bonne facture, de ne pas imprimer ça, que c’était seulement à titre indicatif, qu’il s’agissait de frais distincts payables à Wayne à titre de chauffeur contractuel et qu’il les percevrait séparément lorsqu’il serait sur place. Ça ne faisait donc pas véritablement partie de la facture de The Boat Finders.
+[40] Lors de l’interrogatoire principal, Wayne Scholz a déclaré :
+[traduction]
+Q Les clients vous ont-ils déjà payé directement?
+R Non.
+[41] En contre-interrogatoire, Wayne Scholz a déclaré ce qui suit :
+[traduction]
+Q D’accord. Lorsque vous livriez des marchandises dans l’Ouest, qui vous payait pour la livraison de ces marchandises dans l’Ouest?
+R Eh bien, n’était-ce pas vous?
+Q Je vous pose la question.
+LE JUGE : Il vous le demande, à présent.
+LE TÉMOIN : D’accord. The Boat Finders.
+PAR M. NEYEDLY :
+Q Donc, The Boat Finders vous payait pour effectuer la livraison de ces marchandises dans l’Ouest?
+R Oui, vous me payiez.
+[42] Il semble clair à mes yeux que les clients qui achetaient des bateaux de l’appelante devaient payer les frais de livraison des bateaux jusqu’à eux. La seule question qui se pose consiste donc à savoir si les clients payaient l’appelante, qui, elle, payait Wayne Scholz, ou si les clients payaient Wayne Scholz directement. Si, comme l’affirme Wayne Scholz, l’appelante payait ce dernier pour qu’il livre les bateaux à ses clients (ce qui signifie que le client payait la livraison à l’appelante), pourquoi cela n’apparaissait-il pas sur la facture que Louise Scholz (l’épouse de Wayne Scholz) préparait pour la vente du bateau au client? Si c’était à l’appelante que le client payait la livraison du bateau, la TPS aurait été calculée sur les frais de livraison. Or, manifestement, Louise Scholz n’ajoutait pas la TPS à ces frais de livraison, puisque ceux-ci n’étaient pas inclus dans la facture qu’elle établissait[2].
+[43] Je rejette le témoignage de Wayne Scholz et retiens celui des autres témoins; j’en conclus que les clients de l’appelante engageaient Wayne Scholz pour qu’il leur livre les bateaux achetés de l’appelante et qu’ils le payaient directement pour ce service. La somme exigée pour la livraison du bateau au client (d’après les montants ajoutés aux factures par Lorne Neyedly) oscillait entre 300 $ et 1 000 $. L’appelante avait tout intérêt à ce que ses clients reçoivent les bateaux qu’ils avaient achetés et on peut comprendre qu’elle ait permis à Wayne Scholz d’utiliser le camion à cette fin. Par conséquent, Wayne Scholz avait bien la possibilité de réaliser un profit, puisqu’il fixait le prix qu’il demandait à l’appelante pour aller chercher les bateaux et celui que lui versaient les clients de l’appelante pour la livraison des bateaux. Les modalités de rémunération et de facturation de Wayne Scholz correspondent davantage à une relation d’entrepreneur indépendant qu’à une relation employeur‑employé.
+[44] Comme l’a reconnu la Cour d’appel fédérale dans l’arrêt Royal Winnipeg Ballet, les danseurs couraient peu de risques sur le plan financier. En ce qui touche la possibilité de réaliser un profit, les danseurs du Royal Winnipeg Ballet pouvaient négocier une rémunération supplémentaire, mais la plupart d’entre eux étaient payés selon un barème préétabli. Ils pouvaient accepter des engagements auprès d’autres employeurs à la condition d’obtenir le consentement du Royal Winnipeg Ballet et de se présenter comme des membres du Royal Winnipeg Ballet. Dans la présente affaire, Wayne Scholz pouvait accepter d’autres engagements sans être assujetti à de telles restrictions.
+[45] Dans l’affaire Royal Winnipeg Ballet, les danseurs n’avaient aucune responsabilité en matière de gestion ou d’investissement pour ce qui est du travail qu’ils effectuaient pour le Royal Winnipeg Ballet. En l’espèce, Wayne Scholz n’avait pas non plus de responsabilités au chapitre de la gestion ou de l’investissement.
+[46] La présente affaire soulève une autre question. Leon Schellenberg, comptable agréé, a témoigné à l’audience. Il a déclaré qu’il avait examiné les livres comptables de l’appelante et qu’il avait constaté plusieurs écarts importants entre les montants des chèques que Louise Scholz avait émis à Wayne Scholz et ceux des factures se rapportant à ces chèques. Il y avait aussi un certain nombre de chèques pour lesquels il n’a trouvé aucune pièce justificative. Les présents appels visent uniquement à déterminer si Wayne Scholz était un employé ou un entrepreneur indépendant. Quant à savoir si Wayne Scholz a reçu de l’appelante davantage que ce à quoi il avait droit, il s’agit d’une question qui devra (et devrait) être éclaircie par un tribunal compétent dans une autre instance.
+[47] Par conséquent, je conclus, à la lumière des facteurs énoncés dans les arrêts Wiebe Door et Sagaz, que les faits pertinents se rapportant à l’embauche de Wayne Scholz par l’appelante ne permettent pas de pencher en faveur de l’existence d’une relation employeur‑employé plus que les faits de l’affaire Royal Winnipeg Ballet et qu’en l’espèce, les faits pertinents se rapportant à l’embauche de Wayne Scholz par l’appelante indiquent plus fermement que l’on a affaire à un entrepreneur indépendant plutôt qu’à une relation employeur‑employé. Au cours de la période visée par l’appel, Wayne Scholz était donc un entrepreneur indépendant, et non un employé de l’appelante.
+[48] Les appels interjetés par l’appelante à l’encontre des impositions établies au titre de la Loi sur l’assurance-emploi concernant les cotisations d’assurance-emploi relatives à Wayne Scholz pour 2006, 2007, 2008 et 2009 sont accueillis sans frais, et ces impositions sont annulées.
+[49] Les appels interjetés par l’appelante à l’encontre des impositions établies au titre du Régime de pensions du Canada concernant les cotisations au Régime de pensions du Canada relatives à Wayne Scholz pour 2006, 2007, 2008 et 2009 sont accueillis sans frais, et ces impositions sont annulées.
+Signé à Ottawa, Canada, ce 29e jour d’avril 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 15e jour de juin 2011.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+RÉFÉRENCE : 2011CCI229
+Nos DES DOSSIERS DE LA COUR : 2010-3001(EI); 2010-3003(CPP)
+INTITULÉ : 5256951 MANITOBA LTD. c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 11 février et le 12 avril 2011
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 29 avril 2011
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Lorne Neyedly
+Avocat de l’intimé :
+Me Tom Gagnon
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il livrait aussi des bateaux aux clients, quoique dans ce cas, comme je l’indique plus loin, ce sont ces derniers qui le mandataient.
+[2] On remarque, dans la facture établie pour la vente d’un bateau à Bruce Larson, que des frais non précisés de 127,50 $ ont été exigés. Or, selon le témoignage de Lorne Neyedly, il est clair que les frais de livraison n’ont pas été inclus dans la facture préparée par Louise Scholz; ces frais de 127,50 $ ne correspondent pas à la TPS applicable aux frais de livraison, qui ne sont pas indiqués sur la facture. Il ressort clairement des autres factures produites que la TPS n’était appliquée que sur la vente du bateau (et les accessoires), et non sur les frais de livraison.

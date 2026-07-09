@@ -1,0 +1,173 @@
+---
+title: "Moisan v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30192/index.do"
+last_modified: "2011-02-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 76"
+citation2: ""
+neutral_citation: "2011 TCC 76"
+decision_date: "2011-02-08"
+language: "en"
+item_id: "30192"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7730
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:52:51.854000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3c4bfb7a61b5c657ba7848c0e30ff38f829e9f83792024f9dd3f9308daf5fcef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Moisan v. M.N.R.
+
+- Citation: 2011 TCC 76
+- Decision date: 2011-02-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7730, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moisan v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-08
+Neutral citation
+2011 TCC 76
+File numbers
+2010-2722(EI)
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2010-2722(EI)
+BETWEEN:
+GILLES MOISAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 13, 2011, at Québec, Quebec
+Before: The Honourable Justice B. Paris
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Ilinca Ghibu
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister of National Revenue is varied as follows:
+1. The appellant held insurable employment for the periods from April 30 to September 23, 2006, from June 1 to September 27, 2008, and from June 1 to September 19, 2009, while he was working for Vélo-Coudres Inc;
+2. The appellant did not hold insurable employment for the period from May 14 to August 31, 2007.
+Signed at Ottawa, Canada, this 8th day of February, 2011.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 11th day of April 2011.
+Daniela Possamai, Reviser
+Citation: 2011 TCC 76
+Date: 20110208
+Docket: 2010-2722(EI)
+BETWEEN:
+GILLES MOISAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] The appellant, Gilles Moisan Jr., is appealing from the decision of the Minister of National Revenue (the Minister) that he was not engaged in insurable employment for the purposes of the Employment Insurance Act (the Act) while he was working for Vélo-Coudres Inc. (the payor) during the periods from April 30 to September 23, 2006, from May 14 to August 31, 2007, from June 1 to September 27, 2008, and from June 1 to September 19, 2009.
+[2] The Minister determined that his employment was excluded under paragraph 5(2)(i) of the Act, which states that “employment if the employer and employee are not dealing with each other at arm’s length” is not insurable employment. It is not contested that the appellant and the payor were not dealing with each other at arm’s length. This is admitted because the appellant, his mother and his father owned all the shares in the payor in equal proportions.
+[3] However, in applying paragraph 5(2)(i), the Minister must take into account the exception set out in paragraph 5(3)(b) of the Act, which reads as follows:
+5(3) For the purposes of paragraph (2)(i),
+. . .
+if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[4] In this case, after examining the circumstances of the appellant’s employment, the Minister determined that it was not reasonable to conclude that the appellant and the payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+Undisputed Facts
+[5] The payor operates a bicycle, quadricycle and moped rental centre on the Île aux Coudres. The payor also has a climbing wall for its customers.
+[6] Before 2006, the appellant’s father managed the payor’s business, but he became unable to continue because of his health. The appellant’s mother helped with the payor’s business, but she became ill in the fall of 2009.
+[7] During the periods in issue, the appellant handled the management of the payor. He managed the staff, did the bookkeeping and bank deposits, maintained the facilities, repaired and rented the equipment, looked after the climbing wall and picked up customers in the payor’s minibus. The payor’s business is seasonal, from late May or early June to late September or early October. The appellant worked by himself at the beginning and end of the season because he was able to keep up with the work. The payor employed four employees during the high season.
+[8] The appellant received a weekly salary from the payor for about 40 hours of work. His salary was $696 per week in 2006, $728 in 2007 and 2008, and $759 in 2009. His hours were not recorded by the payor.
+Analysis
+[9] The only issue before the Court in this case is whether the Minister's conclusion was reasonable. To decide on this, I must "verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, . . . decide whether the conclusion with which the Minister was "satisfied" still seems reasonable."[1]
+[10] The appellant has the onus of proving wrong the assumptions upon which the Minister based his decision. The disputed assumptions essentially relate to how the appellant received his salary and whether the periods worked by the appellant correspond with the needs of the business. Roger Dufresne, the rulings officer at the Canada Revenue Agency in charge of the appellant’s case, testified that the information he received showed that the appellant cashed his paycheques at varying times, and that early and late in the season, although the payor recorded revenue, the appellant was not shown on the payor’s payroll. These factors were the [Translation] “determining elements” in the Minister’s decision, according to counsel for the respondent. I will address these two issues under their respective headings.
+How the cheques were cashed
+[11] The relevant assumptions, as reproduced below, are set out in paragraph 6 of the Reply to the Notice of Appeal:
+[Translation]
+(y) the time the appellant waited before cashing his paycheques varied from 23 to 68 days in 2006 and from 3 to 56 days in 2007, but it was impossible to determine the times for 2008 and 2009;
+(z) the appellant considered those times to be reasonable, since the payor did not have the money to pay him and his personal line of credit was less costly than the payor’s;
+(aa) the payor’s other employees did not wait before cashing their paycheques;
+[12] The appellant admitted that he varied when he cashed his paycheques, as shown. He stated that it was his decision to do that, and the payor did not ask him to wait before cashing them. He stated that in 2007 he waited a maximum of two weeks, and in 2009 he did not wait before cashing them. To corroborate his statements, he produced copies of his paycheques, which did show that he waited little or no time in those years, and his testimony on this point was not contested by the respondent.
+[13] The evidence is that the appellant himself chose to wait before cashing some of his paycheques to help the payor, but that at the same time the payor did not have insufficient funds to pay the appellant. According to paragraph 6(z) of the Reply to the Notice of Appeal, the payor had a sufficient line of credit to cover the appellant’s pay should he have wanted his money immediately.
+[14] It seems to me that the Minister did not have all the relevant facts in relation to this aspect of his determination, and in this instance I conclude that the delay in the payments to the appellant was not a condition of his employment; rather, it was a unilateral choice on his part. For that reason, the Minister should not have taken it into account in making his determination.
+Periods worked
+[15] The relevant assumptions, as set out in the Reply to the Notice of Appeal, are as follows:
+[Translation]
+(cc) a comparison between the number of hours worked by the appellant per month and the money taken in by the payor, throughout the periods in issue, indicates that at the beginning and end of in the season, although the payor recorded revenue, the appellant was not shown on the payor’s payroll;
+(dd) in 2006, the payor issued a record of employment to the appellant showing the first day of work to be April 30, 2006, and the last day of work to be September 23, 2006, although the payor recorded revenue in October, November and December and there were no other employees working and no wages paid;
+(ee) on September 10, 2007, the payor issued a record of employment to the appellant showing the first day of work to be May 14, 2007, and the last day of work to be August 31, 2007, although all of the payor’s employees had been laid off by August 31 and revenue of $10,235, $8,234 and $383 was recorded for September, October and November, respectively;
+(ff) on October 6, 2008, the payor issued a record of employment to the appellant showing the first day of work to be June 1, 2008, and the last day of work to be September 27, 2008, although revenue of $1,804, $3,265.52 and $2,399 was recorded for May, October, November and December, respectively, and there were no other employees shown on the payroll;
+(gg) on September 21, 2009, the payor issued a record of employment to the appellant showing the first day of work to be June 1, 2009, and the last day of work to be September 19, 2009, although revenue of $2,050 in May 2009, $1,996 in October 2009 and $1,269 in December 2009 was recorded;
+(hh) the payor’s payroll for 2009 shows that there were no other employees on the payroll in May and December and the appellant was laid off on September 19, 2009, while another employee continued until September 26, 2009, and another until October 17, 2009;
+(ii) the appellant’s records of employment do not correspond to the facts of the payor’s activities;
+[16] The payor begins renting bicycles and other equipment between mid-May and the end of May and ends its activities between early and mid-October, depending on the weather. The appellant stated that in 2006, 2007 and 2008, his mother handled rentals on a volunteer basis at the beginning and end of the season, because there were not too many. In 2009 she started the season alone, but she was not well enough to work in October that year or at the beginning or end of the 2010 season.
+[17] The appellant explained that in 2006 he started on April 20, doing repairs on the payor’s bicycles. The roads on the island had been in bad condition the previous summer, and this had caused significant damage to the bicycles. In 2007, he started on May 14, to build the climbing wall. In 2008 he started work on June 1, and in 2009 he started on May 31, when there started to be more rentals.
+[18] He testified that after Labour Day rentals dropped off significantly, and at that point he started putting bicycles, mopeds and quadricycles away and preparing everything for the next season. Once the appellant’s period of work ended, the appellant’s mother looked after the few customers who came in, as she did at the beginning of the season.
+[19] He said he terminated his employment on September 23 in 2006, on September 22 in 2007, on September 27 in 2008 and on October 17 in 2009.
+[20] However, according to paragraphs (ee) and (gg) of the Reply (reproduced above), the records of employment issued by the payor showed that the appellant’s last day of work was August 31 in 2007 and September 19 in 2009. The appeals officer noted that for the three weeks ending on September 22, 2007, the appellant received $145.60 for eight hours of work per week. In 2009, after his employment terminated on September 19, the appellant received $113.88 from the payor for the week of October 11 to 17.
+[21] The appellant admitted that the payor had had revenue during the periods when he was not employed by the payor, but denied that he worked for the payor without pay outside the periods of employment. The work during those periods was done by his mother.
+[22] With respect to the revenue in November and December of the years in issue, the appellant explained that the payor’s business was closed during those months, but after the end of the season there was some revenue from hotels in the region for services performed during the season. The hotels gave their customers prepaid coupons for bicycle rentals or other services from the payor and had to pay the payor based on the number of coupons used. The appellant said that the hotels sometimes did not pay until November or December. He produced deposit slips showing deposits of some of the payments made, in October 2007 ($3,068), November 2007 ($136), December 2009 ($1,242) and December 2010 ($1,790).
+[23] In my opinion, the appellant’s explanation concerning the revenue received in November and December is credible. In any event, I do not see how it could be assumed that the payor continued to operate after October, given the climate in that location.
+[24] For 2006, the revenue in October, when the appellant was not working, was only $703. I accept that Ms. Moisan was able to do the necessary work for the payor during that period.
+[25] For 2007, however, the payor received substantial revenue in September and October, $10,235 and $8,234, respectively, after the alleged end of the appellant’s employment. It is very difficult to believe that Ms. Moisan could have handled the payor’s business alone, particularly given that the appellant stated that Labour Day weekend was the busiest weekend of the season for the payor. In 2007, Labour Day fell on September 3. Obviously the payor needed the appellant’s services for more than the eight hours per week shown on the payroll up to September 22, not to mention the weeks after that when the appellant supposedly did not work at all. In addition, revenue for each of the two months was comparable to the revenue received in June of each year from 2006 to 2009, when the appellant worked full-time. In my opinion, it is very probable that the appellant continued to work without pay during that period. In any event, he has not succeeded in showing that the Minister erred regarding the fact that in 2007, the period he worked for the payor did not correspond to the payor’s real needs.
+[26] Revenue for May and October 2008 and May 2009, when the appellant was not working for the payor, varied between $1,804 and $3,265. Those amounts do not seem to me to rule out the possibility that Ms. Moisan could have been the only one working for the payor at those times. That explanation was not contested by the respondent. Moreover, it seems that Ms. Moisan was in good health and very active until the fall of 2009. For October 2009, the evidence is that another employee stayed on the job until October 17, and so the payor would not necessarily have needed the appellant’s service after his employment terminated on September 19, 2009.
+[27] I am therefore satisfied that the Minister did not have all the relevant facts relating to the work done by Ms. Moisan at the beginning and end of the season in 2006 and 2008 and the beginning of the season in 2009 and that the Minister did not have regard to the fact that the payor had an employee other than the appellant at the end of the season in 2009. In light of these facts and the fact that the appellant himself chose to vary when he cashed his paycheques, the decision of the Minister in issue does not seem to me to be reasonable for the periods of employment in 2006, 2008 and 2009. In examining the facts surrounding the employment of the appellant by the payor for those periods, I am satisfied that the appellant and the payor would have entered into a substantially similar contract if they had been dealing with each other at arm’s length. However, the appellant has not satisfied me that the period of his employment in 2007 corresponded to the payor’s needs, and accordingly the Minister’s decision for that period is reasonable.
+[28] The appeal will be allowed for the periods of employment from April 30 to September 23, 2006, from June 1 to September 27, 2008, and from June 1 to September 19, 2009.
+Signed at Ottawa, Canada, this 8th day of February, 2011.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 11th day of April 2011.
+Daniela Possamai, Reviser
+CITATION: 2011 TCC 76
+COURT FILE NO.: 2010-2722(EI)
+STYLE OF CAUSE: GILLES MOISAN AND M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: January 13, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: February 8, 2011
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Ilinca Ghibu
+COUNSEL OF RECORD:
+For the appellant:
+Name: N/A
+Firm: N/A
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] As stated by Marceau J.A. of the Federal Court of Appeal in Légaré v. Canada (Minister of National Revenue - M.N.R.), [1999] F.C.A. No. 878 (Q.L.), paragraph 4.

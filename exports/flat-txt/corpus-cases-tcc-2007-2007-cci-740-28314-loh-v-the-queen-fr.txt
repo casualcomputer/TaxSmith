@@ -1,0 +1,134 @@
+Title: Loh v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28314/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-740-28314-loh-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-09-28
+
+# Loh v. The Queen
+
+- Citation: 2007 CCI 740
+- Decision date: 2007-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1833, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Loh v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-28
+Référence neutre
+2007 CCI 740
+Numéro de dossier
+2006-2606(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2606(IT)I
+ENTRE :
+JOSEPH LOH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 27 et 28 septembre 2007, à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Brandon Siegal
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2004 est accueilli et la décision du ministre datée du 28 novembre 2005 est annulée.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 28e jour de janvier 2008
+D. Laberge, LL.L.
+Référence : 2007CCI740
+Date : 20071207
+Dossier : 2006-2606(IT)I
+ENTRE :
+JOSEPH LOH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Prononcés à l’audience le 28 septembre 2007, à Toronto (Ontario).)
+Le juge Boyle
+[1] Les motifs du jugement ont été prononcés à l’audience tenue à Toronto dans l’appel interjeté par M. Loh, sous le régime de la procédure informelle, à l’égard de l’année d’imposition 2004. La seule question en litige à trancher est de savoir si le montant de 6 310 $ que M. Loh a retiré de son REER en 2004 et qu’il a utilisé pour acheter une maison en 2004 était un retrait exclu en vertu des dispositions du Régime d’accession à la propriété (RAP) ou s’il a été à bon droit inclus dans son revenu par le ministre.
+[2] Le contribuable et son épouse ont signé une offre d’achat d’une maison le 20 octobre 2003. Ce jour‑là, le contribuable a également fait un retrait RAP de 13 837 $ de son REER pour payer le dépôt. Malheureusement, la vente ne s’est pas réalisée. Cependant, suivant les règles du RAP, ils avaient jusqu’au 1er octobre 2004 pour acheter une maison avec ces fonds.
+[3] En 2004, les Loh ont effectivement acheté une maison. Le ministre reconnaît que la maison en question était une habitation admissible et qu’elle a été achetée dans les délais prescrits pour l’application du RAP.
+[4] Le RAP permet à un contribuable de retirer jusqu’à 20 000 $ de son REER pour faire l’acquisition d’une propriété. Ainsi, le contribuable a retiré un montant supplémentaire de 6 310 $ de son REER le 12 avril 2004 pour faire l’acquisition de sa maison au cours du mois d’avril.
+[5] Je ne sais pas pourquoi les deux retraits effectués par M. Loh excédaient de 147 $ la limite de 20 000 $ du RAP, mais ce n’est pas la question examinée aujourd’hui.
+[6] Abstraction faite de ce montant de 147 $, le problème qui se pose aujourd’hui pour M. Loh découle uniquement du fait qu’il a effectué deux retraits RAP dans deux années civiles différentes. Si M. Loh avait retiré tout le montant de 20 000 $ en une seule fois dans l’une ou l’autre des années ou s’il avait effectué les deux retraits au cours de la même année, il n’aurait pas fait l’objet d’une nouvelle cotisation et il ne serait pas devant la Cour aujourd’hui. En fait, en vertu de la règle déterminative spéciale de l’alinéa 146.01(2)d), il aurait été nettement en règle si le retrait de 2004 avait été fait en janvier au lieu d’au début d’avril.
+[7] Les dispositions relatives au RAP sont rédigées de manière à s’incorporer au régime de la Loi relatif aux REER qui, comme le calcul du revenu et de l’impôt, suit généralement l’année civile. Parallèlement, le RAP tient compte des réalités de l’acquisition et du financement des propriétés en offrant la latitude voulue dans des situations où un premier achat échoue, mais où un autre est finalement conclu dans l’année suivante et dans d’autres situations du genre.
+[8] Il est également possible en vertu du RAP de retirer un montant de 20 000 $ d’un REER en plusieurs tranches. Les dispositions générales du RAP s’appliquent avec souplesse dans le cas de retraits multiples, pourvu qu’ils soient effectués au cours de la même année civile. Elles s’appliquent visiblement avec souplesse si un retrait subséquent est effectué en janvier de l’année suivante.
+[9] Elles auraient également été appliquées avec souplesse à l’égard de M. Loh s’il avait remboursé avant 2004 le retrait effectué en 2003. Il aurait ainsi réduit à zéro le solde RAP, tel qu’il est défini au paragraphe 146.01(1), par application de cette définition et des dispositions relatives au remboursement énoncées au paragraphe 146.01(3). M. Loh aurait pu alors retirer le montant de 20 000 $ entièrement en 2004.
+[10] Malheureusement pour M. Loh, rien de tout cela n’est arrivé. Le ministre a établi une nouvelle cotisation à son endroit pour l’année 2004 en incluant le retrait de 6 310 $ dans son revenu et en établissant l’impôt sur celui‑ci. Selon le ministre, le retrait effectué en 2004 n’était pas un « retrait exclu » au sens du paragraphe 146.01(1) parce que la définition de « montant admissible principal » à l’alinéa i) exige que le solde RAP de M. Loh soit nul au début de l’année 2004. Le ministre a établi une nouvelle cotisation parce que le solde RAP de M. Loh au début de 2004 était égal au montant du retrait effectué en 2003, soit 13 837 $.
+[11] M. Loh se demande comment ce résultat peut être acceptable alors qu’il a utilisé l’argent provenant des deux retraits pour acheter une habitation admissible dans le délai prescrit, soit avant le 1er octobre 2004. Autrement dit, même s’il y avait un problème technique résultant du libellé des dispositions de la Loi qui règlent la question des retraits effectués au cours de deux années civiles (problème technique qu’il n’admet par ailleurs pas), comment est‑il possible d’arriver au résultat qu’il ait à payer de l’impôt sur le montant comme si le retrait effectué en 2004 était un autre retrait quelconque du compte REER et n’avait pas servi à acheter la maison comme cela a été le cas? La préoccupation de M. Loh est parfaitement compréhensible.
+[12] Toutefois, comme je lui ai expliqué, la Cour est tenue de s’assurer que la nouvelle cotisation est le résultat d’une application régulière des dispositions de la Loi comme elles sont rédigées et elle n’a pas le pouvoir discrétionnaire de s’écarter de ces dispositions pour en arriver à un résultat que le contribuable ou la Cour, ou les deux, peuvent juger plus équitable ou approprié du point de vue d’une politique économique ou fiscale ou d’un autre point de vue.
+[13] Je n’ai aucun autre pouvoir discrétionnaire que celui de faire en sorte que les dispositions de la Loi de l’impôt sur le revenu soient appliquées. Je n’ai pas non plus le pouvoir de contrôler de quelle manière le ministre exerce les pouvoirs discrétionnaires qui lui sont conférés par la Loi ni de contrôler en quoi il estime qu’une chose est suffisante ou acceptable ou non quand la Loi lui impose d’être convaincu d’une chose ou de décider de son acceptabilité.
+[14] Je me penche donc sur la question de savoir si la nouvelle cotisation de 2004 visée par l’appel dénote une application régulière des dispositions de la Loi aux faits de la présente affaire.
+[15] Je suis convaincu que la nouvelle cotisation serait exacte, n’eût été la règle spéciale énoncée à l’alinéa 146.01(2)d). Cette règle déterminative s’applique au RAP prévu à l’article 146.01. Il s’agit d’une règle obligatoire qui doit être prise en compte et appliquée. Ce n’est pas une mesure de réparation spéciale qu’un contribuable peut demander. Le résultat de l’application de cette règle déterminative sera que, dans certaines circonstances particulières, un retrait fait en 2004 sera réputé avoir été fait en 2003.
+[16] Si cela était le cas en l’espèce, le retrait effectué en 2004 par M. Loh serait réputé avoir été fait en 2003 et, comme son solde RAP d’ouverture en 2003 était nul, son problème technique n’existerait plus. De toute évidence, la règle est censée s’appliquer au cas même où deux retraits ont été effectués dans des années civiles différentes. S’applique‑t‑elle à la situation de M. Loh?
+[17] La règle spéciale de l’alinéa 146.01(2)d) prévoit ce qui suit :
+d) le montant que le particulier reçoit au cours d’une année civile donnée est réputé avoir été reçu à la fin de l’année civile précédente et à aucun autre moment si les conditions suivantes sont réunies :
+(i) le particulier le reçoit en janvier de l’année donnée ou à tout moment postérieur que le ministre estime acceptable,
+[…]
+[18] Puisque le montant du retrait effectué en 2004 par M. Loh a été reçu au début d’avril 2004, et non en janvier 2004, l’application de cette règle déterminative aux faits de la présente affaire est liée à la question de savoir si le début d’avril 2004 est ou n’est pas un moment postérieur que le ministre estimait acceptable (or at such later time as is acceptable to the Minister).
+[19] En français, le libellé est le suivant : « ou à tout moment postérieur que le ministre estime acceptable ».
+[20] Je ne puis appliquer cette règle déterminative à moins de savoir si le 12 avril était un moment postérieur que le ministre estime acceptable. Ce fait n’a pas été invoqué, n’a pas été affirmé dans les hypothèses et n’a pas été mis en preuve. Je ne sais rien sur ce fait.
+[21] Je note que la première réponse du ministre ne faisait même pas état de l’alinéa 146.01(2)d), ce qui laisse croire que le ministre ne s’est pas penché sur l’application de la règle spéciale et n’a pas décidé, comme il est manifestement tenu de le faire, si la date du 12 avril 2004 constituait ou non un moment postérieur acceptable dans la situation particulière du contribuable.
+[22] La réponse modifiée explique que le ministre a le pouvoir discrétionnaire de considérer que le retrait de 2004 a été fait en 2003 et que la Cour n’a pas compétence pour procéder au contrôle judiciaire de l’exercice de ce pouvoir discrétionnaire. Le ministre n’a pas raison de dire que l’alinéa 146.01(2)d) lui confère le pouvoir discrétionnaire de décider si une chose s’avère réputée. Si on l’interprète correctement, il s’agit d’une règle déterminative dont le résultat dépend de la question de savoir si le ministre estime une chose acceptable ou non, eu égard à la situation particulière du contribuable.
+[23] Si le ministre a pris une décision quant à savoir si cette date postérieure était acceptable ou non, il est exact de dire que la Cour ne peut examiner judiciairement la question de savoir s’il aurait dû la juger acceptable ou non ni comment il est parvenu à sa décision.
+[24] Toutefois, si le ministre ne s’est pas penché sur la question en l’espèce, la règle déterminative ne peut être appliquée dans un sens ou dans l’autre aux faits de la présente affaire. Autrement dit, la Cour ne sait pas, compte tenu de l’exposé des faits dont elle dispose, si la Loi, et non le ministre, présume que le retrait de 2004 a été effectué en 2003, en vertu de l’alinéa 146.01(2)(d).
+[25] Cela signifie‑t‑il que la nouvelle cotisation du ministre est présumée être exacte parce que le contribuable ne peut démontrer qu’elle ne l’est pas? Une telle situation serait inappropriée. Dans la présente affaire, le fait manquant, à savoir si le ministre a jugé que la date du 12 avril était une date acceptable ou non ou s’il s’est même penché sur la question, relève de la connaissance particulière du ministre. Il n’en a pas traité dans les hypothèses qu’il a avancées, il n’est donc pas présumé que ce soit le cas non plus.
+[26] Lorsqu’un contribuable se représente lui‑même dans un appel interjeté sous le régime de la procédure informelle, l’objectif poursuivi par la Cour est d’essayer de faire en sorte que l’appelant qui n’obtient pas gain de cause ait la certitude qu’il a été entendu et qu’il comprenne pourquoi le résultat est ce qu’il est. À tout le moins, le contribuable qui se représente lui‑même dans le cadre de la procédure informelle doit partir en sachant que la Cour est convaincue que la nouvelle cotisation à l’égard de laquelle il a interjeté appel est le résultat exact de l’application des dispositions pertinentes de la Loi aux faits établis en preuve, même s’il ne comprend pas toujours ou ne souscris pas à mes explications ou n’accepte pas mes conclusions quant aux faits.
+[27] Dans la présente affaire, il semble que le ministre ait très bien pu omettre de se pencher sur l’application de l’alinéa 146.01(2)d). En tout cas, s’il l’a effectivement fait, sa décision quant à savoir s’il a jugé que la date du 12 avril était ou non acceptable n’a pas été invoquée. Le fait que cette décision n’ait pas été invoquée comme un simple fait ou un fait tenu pour acquis porte à croire qu’il n’a pas pris une décision dans un sens ou dans l’autre. La Cour n’est pas en mesure de connaître le résultat de l’application de la règle déterminative de l’alinéa 146.01(2)d).
+[28] Cela signifie que je ne sais pas si le retrait de 2004 a été fait en 2003 ou en 2004 pour l’application du RAP et je ne suis donc pas en mesure de décider si le retrait fait par M. Loh en avril 2004 constitue ou ne constitue pas un « montant admissible principal » ou un « retrait exclu ».
+[29] Puisqu’il est apparent, et que j’estime, que le ministre ne s’est pas penché sur la question de savoir si la date du 12 avril 2004 était ou n’était pas une date acceptable pour l’application de la règle déterminative spéciale, il ne serait pas approprié pour la Cour d’inférer, à partir du fait qu’il a établi une nouvelle cotisation, que le ministre a effectivement estimé qu’elle n’était pas acceptable.
+[30] Le présent appel exige que j’examine si, dans l’établissement de la nouvelle cotisation, les dispositions de la loi concernant le RAP ont été convenablement appliquées à la situation de M. Loh. Cet examen qui vise à déterminer si toutes les dispositions relatives au RAP ont été convenablement appliquées ne constitue pas une analyse quant à savoir comment ou pourquoi le ministre a décidé de ce qui était acceptable ou de ce qui n’était pas acceptable. La Cour n’a pas compétence pour exercer un contrôle judiciaire à l’égard du processus de prise de décision du ministre lorsque la Loi lui impose de prendre une décision, comme décider s’il exercera ou non le pouvoir discrétionnaire qui lui a été conféré ou s’il estime qu’une chose est acceptable ou non dans les dispositions du RPA en question.
+[31] La Cour doit être convaincue que les dispositions de la Loi de l’impôt sur le revenu susceptibles d’application sont convenablement appliquées. Cela ne constitue pas un contrôle judiciaire d’une décision ministérielle. Dans la présente affaire, je ne peux être convaincu que les dispositions de la Loi ont été convenablement appliquées parce que je ne sais pas si le ministre a même examiné la question de savoir si la date du 12 avril 2004 était une date acceptable, encore moins s’il a décidé qu’elle était acceptable ou inacceptable pour l’application de la règle déterminative particulière.
+[32] L’alinéa 146.01(2)d) n’est pas rédigé comme une disposition de nature discrétionnaire susceptible d’être appliquée ou non par le ministre. Contrairement à bon nombre de dispositions d’allégement contenues dans la Loi, le contribuable n’a pas à demander l’allégement. Encore une fois, la disposition impose au ministre de décider si la date postérieure est ou n’est pas acceptable et c’est seulement cette décision quant à l’acceptabilité qui relève du pouvoir discrétionnaire du ministre et qui ne peut faire l’objet d’un contrôle judiciaire par la Cour.
+[33] La décision rendue par la Cour en 1999 dans l’affaire Bergeron c. Sa Majesté la Reine, 1999 CCI 971037 a été invoquée. Même si les faits de cette affaire sont similaires à ceux de la présente affaire, il n’a pas été question de la règle déterminative de l’alinéa 146.01(2)d) (alors énoncée au sous‑alinéa 146.01(2)f)(ii)) dans les motifs de cette décision. La question ne doit pas avoir été soulevée dans Bergeron ou bien la preuve, ou à tout le moins une hypothèse, doit avoir révélé que le ministre n’a pas jugé la date postérieure acceptable dans cette affaire. Ce n’est pas le cas en l’espèce.
+[34] La nouvelle cotisation établie par le ministre ne peut, eu égard aux circonstances, être maintenue. Quelle est alors la mesure de réparation appropriée? Je ne peux certainement pas substituer mon opinion à celle du ministre pour ce qui est de décider ce qu’il aurait dû estimer acceptable. Cette question exige l’exercice d’un pouvoir de la nature du contrôle judiciaire dont la Cour ne dispose pas.
+[35] Puisqu’il m’est impossible de conclure que les dispositions relatives au RAP ont été correctement appliquées et puisqu’il manque l’élément nécessaire pour les appliquer convenablement, j’accueille l’appel et j’annule la nouvelle cotisation de 2004 visée par l’appel.
+[36] Un fait demeure important. Comme la cotisation initiale pour l’année 2004 a été établie le 21 juillet 2005, l’année d’imposition 2004 de M. Loh n’est pas frappée de prescription et le ministre a jusqu’au 21 juillet 2008, en vertu des dispositions de la Loi, pour établir une nouvelle cotisation pour le retrait de 2004 s’il décide que la date du 12 avril 2004 n’était pas une date acceptable pour le deuxième retrait.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 28e jour de janvier 2008
+D. Laberge, LL.L.
+RÉFÉRENCE : 2007CCI740
+NO DU DOSSIER DE LA COUR : 2006-2606(IT)I
+INTITULÉ : JOSEPH LOH c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DES AUDIENCES : Les 27 et 28 septembre 2007
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 7 décembre 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Brandon Siegal
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

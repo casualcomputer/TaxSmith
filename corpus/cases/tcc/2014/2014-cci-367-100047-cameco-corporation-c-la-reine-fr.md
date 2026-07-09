@@ -1,0 +1,264 @@
+---
+title: "Cameco Corporation c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/100047/index.do"
+last_modified: "2014-12-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 367"
+citation2: ""
+neutral_citation: "2014 CCI 367"
+decision_date: "2014-12-02"
+language: "fr"
+item_id: "100047"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2776
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:36:36.377000+00:00"
+cases_cited_count: 10
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7f496be2eec1656cbb3bbddf31b70253d330e2432f2367a5c97626c26d1c4483"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cameco Corporation c. La Reine
+
+- Citation: 2014 CCI 367
+- Decision date: 2014-12-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2776, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cameco Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-12-02
+Référence neutre
+2014 CCI 367
+Numéro de dossier
+2009-2430(IT)G
+Juges et Officiers taxateurs
+Frank J. Pizzitelli
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2430(IT)G
+ENTRE :
+CAMECO CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 2 décembre 2014, à Toronto (Ontario)
+Devant : L’honorable juge F.J. Pizzitelli
+Comparutions :
+Avocats de l’appelante :
+Me Joseph M. Steiner
+Me Peter Macdonald
+Avocates de l’intimée :
+Me Elizabeth Chasson
+Me Diana Aird
+ORDONNANCE
+ATTENDU que l’appelante a présenté une requête en vue d’obtenir :
+1. une ordonnance radiant l’alinéa 31(a) ainsi que les paragraphes 36, 37 et 38 de la réponse modifiée que l’intimée a déposée le 15 février 2011 et prescrivant qu’il est interdit à l’intimée de contester le fait que les modalités de toutes les opérations conclues entre l’appelante et ses sociétés affiliées, lesquelles opérations sont en litige dans le présent appel, sont des modalités qu’auraient établies des personnes sans lien de dépendance;
+2. une ordonnance prescrivant à l’intimée de fournir des réponses (et de répondre aussi à toute question appropriée découlant de ces réponses) aux questions nos 1118 à 1123 de l’interrogatoire préalable de M. G.H. qui a eu lieu le 5 février 2014 (sur la théorie du trompe‑l’œil du ministère public);
+3. les dépens afférents à la présente requête, payables quelle que soit l’issue de la cause;
+4. toute autre mesure de réparation que les avocats peuvent proposer et que la Cour estime juste.
+ET APRÈS avoir entendu les observations des parties;
+LA COUR ORDONNE QUE la requête de l’appelante soit rejetée dans son intégralité et que l’intimée ait droit aux dépens y afférents sur la base avocat‑client, payables quelle que soit l’issue de la cause.
+Signé à Nanaimo (Colombie-Britannique), ce 12e jour de décembre 2014.
+« F.J. Pizzitelli »
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 14e jour de janvier 2015.
+Claude Leclerc, LL.B.
+Référence : 2014 CCI 367
+Date : 20141212
+Dossier : 2009-2430(IT)G
+ENTRE :
+CAMECO CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Pizzitelli
+[1] L’appelante a présenté une requête en vue d’obtenir :
+1. une ordonnance radiant l’alinéa 31(a) ainsi que les paragraphes 36, 37 et 38 (les « déclarations relatives à l’alinéa 247(2)a) ») de la réponse modifiée que l’intimée a déposée le 15 février 2011 et prescrivant qu’il est interdit à l’intimée de contester le fait que les modalités de toutes les opérations conclues entre l’appelante et ses sociétés affiliées, lesquelles opérations sont en litige dans le présent appel, sont des modalités qu’auraient établies des personnes sans lien de dépendance;
+2. une ordonnance prescrivant à l’intimée de fournir des réponses (et de répondre aussi à toute question appropriée découlant de ces réponses) aux questions nos 1118 à 1123 de l’interrogatoire préalable de M. G.H. qui a eu lieu le 5 février 2014 (sur la théorie du trompe‑l’œil du ministère public);
+3. les dépens afférents à la présente requête, payables quelle que soit l’issue de la cause;
+4. toute autre mesure de réparation que les avocats peut proposer et que la Cour estime juste.
+[2] J’ai l’intention de traiter en premier de la requête concernant la radiation des déclarations relatives à l’alinéa 247(2)a) et, ensuite, de la demande visant à interdire à l’intimée de contester les modalités susmentionnées. Je traiterai en dernier de la demande de réponses aux questions portant sur la théorie du trompe‑l’œil du ministère public.
+I. La radiation d’un alinéa et de divers paragraphes de la réponse modifiée et l’ordonnance demandée [3] Les déclarations relatives à l’alinéa 247(2)a) qui figurent dans la réponse modifiée de l’intimée et que l’appelante cherche à faire radier sont les suivantes :
+[traduction]
+C. QUESTIONS À TRANCHER
+31. Les questions à trancher relativement aux opérations ou aux séries d’opérations ou d’arrangements décrits aux paragraphes 14 et 17 sont :
+a) si les dispositions des alinéas 247(2)a) et c) s’appliquent auxdites opérations; […]
+D. DISPOSITIONS LÉGISLATIVES APPLICABLES, MOTIFS INVOQUÉS ET RÉPARATION DEMANDÉE
+36. Il soutient respectueusement que les modalités établies ou imposées à l’égard de la vente et de l’achat d’uranium entre Canco et Swissco ainsi qu’à l’égard des services à fournir par Canco à Swissco dans le cadre des ententes d’exploitation minière diffèrent de celles qui auraient été établies entre personnes sans lien de dépendance au sens de l’alinéa 247(2)a) de la Loi de l’impôt sur le revenu. Canco a exécuté toutes les fonctions et a assumé tous les risques et Swissco n’a exécuté aucune fonction ni assumé aucun risque. Dans de telles circonstances, des parties sans lien de dépendance fourniraient à Swissco une contrepartie nulle ou négligeable et remettraient à Canco la totalité des revenus, proportionnellement aux fonctions exécutées et aux risques assumés par chacune des parties dans le cadre des opérations. Le ministre a établi à juste titre une nouvelle cotisation en ajoutant la totalité des bénéfices de Swissco aux revenus de Canco, en application de l’alinéa 247(2)c) de la Loi de l’impôt sur le revenu.
+37. Il soutient par ailleurs qu’en ce qui concerne Tenex, Urenco et d’autres opérations conclues avec des tiers dans le cadre desquelles Swissco a signé un ou des contrats et/ou une ou des modifications ou a pris les dispositions nécessaires pour que Luxco les lui cède, Canco a garanti l’exécution et le paiement par Swissco en échange d’une commission de garantie, a créé un contrat de services en vertu duquel Canco a exécuté toutes les fonctions substantielles et nécessaires et a assumé la totalité des risques. Les modalités conclues entre Canco et Swissco au sujet de ces opérations sont différentes de celles qu’auraient conclues des personnes sans lien de dépendance au sens de l’alinéa 247(2)a) de la Loi de l’impôt sur le revenu. Entre personnes sans lien de dépendance, les modalités :
+a) feraient état du versement d’une rémunération à Swissco uniquement pour les fonctions qu’elle exécutait et les risques qu’elle assumait, qui se limitaient à signer des contrats et à s’assurer que Swissco demeure une entité juridique;
+b) la partie exécutant toutes les fonctions restantes et assumant la totalité des risques gagnerait la totalité des bénéfices, soit dans le cadre des conventions de garantie et du contrat de services, soit dans le cadre d’autres arrangements.
+38. Conformément à l’alinéa 247(2)c), le ministre a établi à juste titre une nouvelle cotisation en tenant compte des modalités qui existeraient entre parties sans lien de dépendance, à savoir que Canco gagnerait la totalité des bénéfices et que Swissco n’en gagnerait pas.
+[4] L’appelante soutient qu’il y a lieu de radier ces dispositions parce que l’intimée, non pas une, mais deux fois, ne s’est pas conformée aux ordonnances antérieures du juge en chef Rip, c’est-à-dire fournir à l’appelante certaines informations fondamentales au sujet de l’allégation selon laquelle ces modalités diffèrent de celles dont aurait convenu des personnes sans lien de dépendance et que, de ce fait, conformément à l’article 53 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »), de telles déclarations sont scandaleuses, frivoles ou vexatoires ou constituent un recours abusif, comme le soutient l’appelante en l’espèce.
+[5] Le texte de l’article 53 des Règles est le suivant :
+53. (1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+(2) Aucune preuve n’est admissible à l’égard d’une demande présentée en vertu de l’alinéa (1)d).
+(3) À la demande de l’intimé, la Cour peut casser un appel si :
+a) elle n’a pas compétence sur l’objet de l’appel;
+b) une condition préalable pour interjeter appel n’a pas été satisfaite;
+c) l’appelant n’a pas la capacité juridique d’introduire ou de continuer l’instance.
+[6] Pour situer le contexte de la présente affaire, l’appelante a présenté une requête en vue de faire radier certains paragraphes de la réponse initiale de l’intimée, datée du 17 mai 2010, dont, notamment, les paragraphes suivants, figurant dans la partie « hypothèses » de la réponse, soit les alinéas 14(bbb) et (fff) :
+[traduction]
+(bbb) les prix de transfert de l’uranium qui ont été appliqués lors des ventes faites par Canco à Swissco et des achats faits par Canco de Swissco ne correspondaient pas à des prix sans lien de dépendance;
+(fff) les modalités conclues ou imposées à l’égard de la vente et de l’achat d’uranium entre Canco et Swissco diffèrent de celles qu’auraient conclues des personnes sans lien de dépendance.
+[7] Le juge en chef Rip a radié ces deux dispositions avec autorisation de modification dans son ordonnance du 30 décembre 2010, et ce, pour les raisons indiquées aux paragraphes 48 et 49 de ses motifs d’ordonnance modifiés datés du 12 juin 2011:
+[traduction
+[48] L’alinéa 14(bbb) est une autre allégation clé qui est formulée dans le cadre du présent appel; il y est allégué que les prix de transfert applicables aux ventes et aux achats en litige ne correspondaient pas à des prix sans lien de dépendance. L’appelante est en droit de savoir quels prix correspondent à des prix sans lien de dépendance, dans la mesure où l’on ne peut pas les déterminer en se reportant au montant de la cotisation d’impôt établie. Cet alinéa sera radié, avec autorisation de modification.
+[49] Les alinéas 14(fff), (ggg) et (jjj) seront radiés, avec autorisation de modification. Les éléments qu’ils contiennent sont des conclusions mixtes de fait et de droit, notamment une paraphrase de l’alinéa 247(2)a) de la Loi.
+[8] Profitant de l’autorisation de modification, l’intimée a par la suite déposé la réponse modifiée, dans laquelle ces dispositions ont été intégrées sous une forme identique, sauf qu’elles ont été désignées en tant qu’alinéas 14(eee) et (lll). L’appelante a, de ce fait, présenté une autre requête en vue de faire radier ces deux alinéas au motif que l’intimée ne s’était pas conformée à la première ordonnance du juge en chef Rip, soit de radier les alinéas identiques en vertu de l’article 53 des Règles. Dans son ordonnance du 20 juillet 2011 (la « seconde ordonnance »), le juge en chef Rip a ordonné que les dispositions soient radiées pour défaut de se conformer à la première ordonnance, au motif que cela contrevenait à l’article 53 des Règles. En dépit du fait que le juge en chef Rip a désigné à tort ces alinéas comme étant les alinéas 14(bbb) et (fff) et non (eee) et (lll), nul ne conteste les dispositions auxquelles il a fait référence. Au paragraphe 20 de ses motifs, le juge en chef Rip a réitéré la raison pour laquelle il les avait radiées au départ :
+[traduction]
+[20] Il a été ordonné que l’alinéa 14(bbb) soit radié de la réponse parce que l’appelante était en droit de savoir en quoi les prix de l’uranium transféré entre Canco et Swissco différaient de ceux dont des parties sans lien de dépendance auraient convenu. […] dès lors que le ministre a présumé que les prix de transfert concernant des contrats d’uranium différaient de ceux dont des personnes sans lien de dépendance auraient conclu, l’appelante était en droit de savoir exactement à combien s’élevait cette différence. En principe, cela peut également s’appliquer à l’alinéa 14(fff) de la réponse.
+[9] Aux paragraphes 22 et 23, le juge en chef Rip a ensuite indiqué que le simple fait de changer les lettres des alinéas n’est pas une modification et que, dans ce contexte, si aucune modification n’était faite, il était ordonné que les dispositions soient radiées. Au paragraphe 23, le juge en chef Rip a déclaré :
+[traduction
+[23] Lorsqu’un tribunal ordonne qu’une disposition d’un acte de procédure soit radiée, la disposition en question doit être radiée. Si l’on accorde une autorisation de modification, les dispositions radiées peuvent être remplacées par une modification. En principe, cette autorisation ne prévoit pas que les dispositions radiées seront conservées dans les actes de procédure même si, au moment de la modification, d’autres dispositions sont ajoutées à des fins d’éclaircissement ou pour répondre aux préoccupations initiales du tribunal. […]
+[10] L’appelante soutient que, en fait, les renseignements que le juge en chef Rip a ordonné d’inclure dans ces deux alinéas, à savoir que l’appelante était en droit de savoir en quoi les prix de l’uranium transféré entre Canco et Swissco différaient de ceux dont auraient convenu des parties sans lien de dépendance et que, une fois que l’on avait présumé qu’il y avait une différence, l’appelante était en droit de savoir exactement à combien s’élevait cette différence, doivent aussi figurer dans les déclarations relatives à l’alinéa 247(2)a) ou être fournis lors de l’interrogatoire préalable et que l’omission de le faire devrait constituer une violation de ses ordonnances et donc un abus de procédure au sens de l’alinéa 53(1)c) des Règles.
+[11] Pour être franc, je ne saurais être d’accord avec l’appelante. Comme l’a fait remarquer l’intimée, les déclarations relatives à l’alinéa 247(2)a) que l’appelante cherche maintenant à faire radier étaient contenues dans la réponse modifiée au moment du dépôt de la seconde requête, et le juge en chef Rip n’en a pas traité ni ne les a commentées de manière précise. Si le juge en chef Rip avait voulu que ses observations s’appliquent aux déclarations relatives à l’alinéa 247(2)a), il l’aurait indiqué. Sa seconde ordonnance, qui porte sur la réponse modifiée, était datée du 20 juillet 2011, il y a plus de trois ans de cela, et maintenant l’appelante, après la clôture des actes de procédure et la fin de l’interrogatoire préalable, exception faite du besoin de répondre encore à des questions en litige, soulève à l’égard des déclarations relatives à l’alinéa 247(2)a) une question qu’elle n’a pas soulevée lors des requêtes antérieures.
+[12] Le juge en chef Rip n’a pas envisagé de rendre une ordonnance quelconque à l’égard des déclarations relatives à l’alinéa 247(2)a), pas plus qu’il n’en a rendue une ou qu’on lui en fait la demande, et, de ce fait, il n’y a pas eu de violation d’une telle ordonnance et donc pas d’abus de procédure, comme le soutient l’appelante. Par ailleurs, même si j’en venais à souscrire à l’interprétation de l’appelante à propos des directives du juge en chef Rip, à savoir qu’elles s’appliquent aux déclarations relatives à l’alinéa 247(2)a), il est clair que l’intimée a indiqué que le prix sans lien de dépendance des services de Swissco était nul ou symbolique et que, en tout état de cause, cela aurait satisfait aux directives. Dans les déclarations relatives à l’alinéa 247(2)a) qui ont été modifiées, l’intimée a clairement indiqué que le prix était de zéro. Au paragraphe 36, l’intimée indique que [traduction] « dans de telles circonstances, des parties sans lien de dépendance fourniraient à Swissco une contrepartie négligeable ou nulle […] » et, au paragraphe 37, elle a déclaré :
+[traduction]
+[37] […] Les modalités conclues entre Canco et Swissco au sujet de ces opérations sont différentes de celles qu’auraient conclues des personnes sans lien de dépendance au sens de l’alinéa 247(2)a) de la Loi de l’impôt sur le revenu. Entre personnes sans lien de dépendance, les modalités :
+a) feraient état du versement d’une rémunération à Swissco uniquement pour les fonctions qu’elle exécutait et les risques qu’elle assumait, qui se limitaient à signer des contrats et à s’assurer que Swissco demeure une entité juridique;
+b) la partie exécutant toutes les fonctions restantes et assumant la totalité des risques gagnerait la totalité des bénéfices, soit dans le cadre des conventions de garantie et du contrat de services, soit dans le cadre d’autres arrangements.
+[13] Au paragraphe 38 des déclarations relatives à l’alinéa 247(2)a), l’intimée indique : [traduction] « […] à savoir que Canco gagnerait la totalité des bénéfices et que Swissco n’en gagnerait pas ».
+[14] Ces déclarations relatives à l’alinéa 247(2)a) ne paraphrasent pas le texte de l’alinéa 247(2)a) comme le font les alinéas que le juge en chef Rip a radiés. Selon moi, ils contiennent suffisamment de détails et de renseignements pour que l’appelante sache exactement le prix à payer, selon elle, à Swissco dans une situation sans lien de dépendance, c’est-à-dire zéro, et ils lui permettent donc de le savoir et d’en traiter convenablement à l’instruction. Il ne s’agit guère d’actes de procédure incohérents qui justifieraient que l’on conclue que la réponse modifiée est scandaleuse, frivole ou vexatoire, comme dans l’affaire O’Neil c Ministre du Revenu national, [1994] ACF no 1940, 95 DTC 5060, que l’appelante a invoquée.
+[15] De plus, ces déclarations s’inscrivent sous les rubriques [traduction] « C. QUESTIONS À TRANCHER » ou [traduction] « D. DISPOSITIONS LÉGISLATIVES APPLICABLES, MOTIFS INVOQUÉS ET RÉPARATION DEMANDÉE ». Il ne s’agit pas d’hypothèses formulées au paragraphe 14, comme les dispositions que le juge en chef Rip a examinées, et qu’il incombe à l’appelante de réfuter, de sorte que je ne suis pas convaincu que l’on cause à cet égard un préjudice quelconque à l’appelante. De plus, après avoir examiné les hypothèses formulées dans la réponse modifiée que l’appelante ne conteste pas, il m’apparaît clairement qu’un grand nombre d’entre elles, si elles sont véridiques, sont susceptibles d’étayer la position de l’intimée, et c’est là un facteur que le juge du procès doit déterminer après avoir soupesé la totalité des éléments de preuve.
+[16] Il est bien établi en droit, comme l’a énoncé le juge en chef Rip dans sa première ordonnance en citant l’ancien juge en chef Bowman, dans la décision Sentinel Hill Productions (1999) Corporation et al. v Her Majesty the Queen, 2007 TCC 742, 2008 DTC 2544, à la page 2545, au paragraphe 4, que :
+[traduction]
+[…]
+(b) Pour qu’un acte de procédure soit radié, en tout ou en partie, en vertu de l’article 53 des Règles, il doit être évident et manifeste que la position qui est prise n’a aucune chance de succès. Il s’agit d’un critère rigoureux et il faut faire preuve d’énormément de prudence en exerçant le pouvoir conféré en matière de radiation d’un acte de procédure.
+(c) Le juge des requêtes doit éviter d’usurper les fonctions du juge du procès en tirant des conclusions de fait ou en se prononçant sur la pertinence. Il faut laisser de telles questions à l’appréciation du juge qui entend la preuve.
+[…]
+[17] À mon avis, l’appelante n’a pas montré que la position de l’intimée n’a aucune chance de succès et il m’apparaît clairement que si le juge du procès admet, sur la foi de la preuve, que l’appelante n’a pas réfuté les hypothèses du ministre, comme l’alinéa 14(x), qui présume que toutes les fonctions fondamentales liées aux prétendues activités de Swissco ont été exécutées par Canco, ou les alinéas 14(y) et (rr), qui présument que Swissco n’a assumé aucun risque, contrairement à Canco, ou (hhh), qui présume que Swissco n’exécute aucune fonction de valeur pour Canco et n’assume aucun risque, ou (mmm) qui présume que Swissco ne gagnerait aucun bénéfice dans une situation sans lien de dépendance parce qu’elle n’aurait exécuté aucune fonction de valeur, pour n’en nommer et n’en résumer de façon générale que quelques-unes, il s’ensuit donc que ces hypothèses sont susceptibles d’étayer les déclarations relatives à l’alinéa 247(2)a) selon lesquelles Swissco n’a droit en fait à aucune contrepartie dans le cadre du régime de prix de transfert.
+[18] Il convient également de signaler que le juge en chef Rip a clairement indiqué, au paragraphe 22 de sa seconde ordonnance, que [traduction] « […] les discussions relatives aux méthodes de fixation des prix de transfert ne m’ont pas été soumises à cette étape […] ». À l’évidence, le juge en chef Rip n’a pas fondé sa décision de radier les deux alinéas en question sur le bien-fondé de la méthode de partage des bénéfices de l’intimée ni sur le processus qu’elle a plaidé à l’appui de sa position dans le cadre de ces requêtes.
+[19] Il s’ensuit donc que je ne souscris pas à l’argument de l’appelante, à savoir qu’il aurait fallu faire appel des décisions du juge en chef Rip pour que l’intimée puisse maintenir les déclarations relatives à l’alinéa 247(2)a) dans sa réponse modifiée.
+[20] La requête de l’appelante en vue de faire radier les déclarations relatives à l’alinéa 247(2)a) est rejetée.
+II. L’ordonnance interdisant de contester les questions relatives aux alinéas 247(2)a) et (c) [21] L’appelante demande également que l’on rende une ordonnance interdisant à l’intimée de contester le fait que les modalités de toutes les opérations conclues entre l’appelante et ses sociétés affiliées, lesquelles opérations sont en litige dans le présent appel, sont des modalités qui auraient été établies entre personnes sans lien de dépendance, ce qui empêcherait à toutes fins pratiques l’intimée de maintenir les arguments relatifs aux prix de transfert fondés sur l’alinéa 247(2)a) ainsi que les rajustements qu’envisage l’alinéa 247(2)c). Le texte de ces deux dispositions est le suivant :
+247. (2) Lorsqu’un contribuable ou une société de personnes et une personne non‑résidente avec laquelle le contribuable ou la société de personnes, ou un associé de cette dernière, a un lien de dépendance, ou une société de personnes dont la personne non-résidente est un associé, prennent part à une opération ou à une série d’opérations et que, selon le cas :
+a) les modalités conclues ou imposées, relativement à l’opération ou à la série, entre des participants à l’opération ou à la série diffèrent de celles qui auraient été conclues entre personnes sans lien de dépendance,
+[…]
+c) dans le cas où seul l’alinéa a) s’applique, les modalités conclues ou imposées, relativement à l’opération ou à la série, entre les participants avaient été celles qui auraient été conclues entre personnes sans lien de dépendance;
+[…]
+[22] L’appelante soutient que l’intimée n’a pas répondu convenablement à des questions posées lors de l’interrogatoire de son vérificateur, un certain G.H., au sujet des alinéas qui précèdent, omettant ainsi, pour une troisième fois, de se conformer aux directives susmentionnées du juge en chef Rip, dans sa première et dans sa seconde ordonnance, au sujet de la radiation des alinéas, ce qui fait que les actes de procédure du ministère public sur les déclarations relatives à l’alinéa 247(2)a) que l’on cherche à faire radier sont scandaleux, frivoles et vexatoires ou constituent un recours abusif à la Cour, au sens des alinéas 53(1)a), b) et c) des Règles susmentionnés ou, subsidiairement, qu’il soit conclu que ces réponses constituent une omission de répondre aux questions posées; et elle demande donc que l’appel interjeté en vertu des alinéas 247(2)a) et c) de la Loi de l’impôt sur le revenu soit rejeté en application de l’alinéa 110f) des Règles, que j’analyserai plus en détail. L’appelante soutient en outre que les réponses données aux questions posées montrent qu’il n’existe aucun fondement qui permettrait au ministère public de faire valoir avec succès un argument en vertu de ces dispositions et, en fait, les réponses données représentent un abandon de l’argument selon lequel les alinéas 247(2)a) et b) s’appliquent en l’espèce.
+[23] J’ai déjà décidé que je ne suis pas disposé à radier les déclarations relatives à l’alinéa 247(2)a) en me fondant sur les règles de droit qui s’appliquent à la radiation d’actes de procédure en vertu de l’une quelconque des dispositions de l’article 53 des Règles. Je ne souscris pas non plus à la prétention de l’appelante selon laquelle la directive du juge en chef Rip à laquelle elle fait référence visait n’importe quelle question posée lors de l’interrogatoire. À l’évidence, les ordonnances du juge en chef Rip ont été rendues longtemps avant l’interrogatoire et ne visaient que la teneur des actes de procédure mis en doute et, à franchement parler, je ne vois donc pas non plus en quoi l’intimée a enfreint de quelque manière une ordonnance quelconque à cet égard au point d’occasionner un abus de procédure.
+[24] En outre, comme je l’ai mentionné plus tôt, j’ai déjà conclu, à partir des actes de procédure figurant dans la réponse modifiée, que l’appelante n’a pas montré que l’intimée n’avait aucune chance de succès. Mais elle demande maintenant, en fait, que je conclue que l’intimée n’a aussi aucune chance de succès à cause de ses réponses à l’interrogatoire. Je ne suis pas disposé à le faire, et ce, pour un certain nombre de raisons.
+[25] Premièrement, les questions posées au vérificateur de l’intimée, M. G.H., et en particulier la question no 1117 (même si des points semblables ont été soulevés aux questions no 1032 et nos 1033 à 1041) ainsi que la réponse donnée en fin de compte par écrit à la suite d’engagements de suivi, sont les suivantes :
+[traduction]
+Q. M. H, pour ce qui est des arguments du ministre en vertu des alinéas 247(2)a) et c), j’aimerais que vous me disiez pour chaque opération mettant en cause l’achat et la vente d’uranium entre Cameco Europe SA et Comeco Corporation ou Cameco Europe, Ltd et Comeco Corporation qui a eu lieu entre 1999 et 2003, j’aimerais que vous me disiez quelles modalités diffèrent de celles qui auraient été établies entre des personnes sans lien de dépendance, et quelles auraient été, selon vous, les modalités de chacune de ces opérations si elles avaient été établies entre des personnes sans lien de dépendance.
+[26] La réponse qui a été donnée à toutes les questions connexes qui précèdent est la suivante :
+[traduction] La position principale du ministère public dans cet appel est que la structure est un trompe‑l’œil. Subsidiairement, nous sommes d’avis que, dans une situation sans lien de dépendance, CEL [décrite aussi plus tôt comme étant Swissco] n’aurait pas été partie à ces opérations car CEL n’a exécuté aucune fonction ni assumé aucun risque. Une partie sans lien de dépendance n’aurait pas conclu cette série d’opérations avec CEL dans ces circonstances économiques. Une partie sans lien de dépendance n’aurait rien payé à CEL car CEL n’a rien contribué de valeur à la série d’opérations. Dans une situation sans lien de dépendance, CCO [l’appelante] serait partie à toutes les opérations dans le cadre desquelles CEL (ou CSA) était signataire et la rémunération de CEL, le cas échéant, correspondrait aux fonctions minimes qu’elle exécuterait.
+[27] Outre les arguments précis de trompe‑l’œil qu’évoque une telle réponse, l’intimée a aussi traité de manière évidente de la question des prix pratiqués dans toutes les opérations en indiquant clairement qu’une [traduction] « partie sans lien de dépendance n’aurait rien payé », compte tenu de sa contribution. On a répondu à la question, et la réponse, à l’instar des déclarations relatives à l’alinéa 247(2)a) que l’appelante cherchait à faire radier, est zéro. La réponse traite non seulement d’un trompe-l'œil, mais clairement aussi de la condition des prix pratiqués dans les opérations contestées comme étant la condition différente, et indique ce qu’une partie sans lien de dépendance payerait. Dans les circonstances, l’intimée semble avoir traité directement des questions qu’envisagent les alinéas 247(2)a) et c) et sa réponse semble concorder avec les actes de procédure que l’on cherche à faire radier. Même si j’avais conclu que la directive du juge en chef Rip avait été appliquée, je serais d’avis que cette réponse y satisfaisait. Il appartiendra au juge du procès de décider en fin de compte si ces dispositions s’appliquent à la preuve, mais les réponses données aux questions dénotent l’existence d’un fondement possible qui permettrait au ministère public d’invoquer avec succès un argument fondé sur ces dispositions. Il s’ensuit que, selon moi, l’intimée n’a d’aucune façon abandonné un argument quelconque à propos de ces dispositions en matière de prix de transfert.
+[28] Deuxièmement, je suis d’accord avec l’intimée qu’il n’y a aucun motif pour radier la réponse modifiée sur le fondement des réponses données par l’intimée à l’interrogatoire, conformément à l’alinéa 110b) des Règles qui permet à la Cour de rejeter un appel pour défaut de répondre à une question appropriée.
+[29] Comme l’a fait valoir l’intimée, dans l’arrêt MacIver c Sa Majesté la Reine, 2009 CAF 89, 2009 DTC 5078, au paragraphe 8, la Cour d’appel fédérale a clairement indiqué que le pouvoir de rejet que prévoit l’alinéa 110b) des Règles devrait « […] être exercé uniquement lorsque les violations des Règles sont multiples, graves et délibérées ». L’intimée invoque également la décision qu’a rendue la Cour d’appel fédérale dans Yacyshyn c Sa Majesté la Reine, [1999] ACF no 196, 99 DTC 5133, où le juge Létourneau a déclaré, au paragraphe 18 : « […] le rejet d’un appel est une solution draconienne et un recours ultime réservé aux cas exceptionnels ou à ceux pour lesquels il n'existe pas de solution de rechange ou de redressement moins rigoureux. »
+[30] Dans la présente affaire, comme je l’ai indiqué plus tôt, je n’ai relevé aucune violation d’une règle ou d’une ordonnance et je suis d’avis que l’on a répondu aux questions lors de l’interrogatoire. Par ailleurs, l’appelante sollicite cette réparation radicale sans même avoir posé de questions complémentaires ou demandé plus de détails, sans avoir déposé une requête quelconque en vue de déterminer si sa question était appropriée, si l’on y a répondu de manière appropriée ou si elle a été rejetée, comme elle l’allègue, ou autrement en vertu des Règles. L’appelante n’a rien fait pour poursuivre des mesures moins radicales en vertu des Règles.
+[31] En conséquence, je rejette la requête de l’appelante en vue d’obtenir une ordonnance prescrivant qu’il soit interdit à l’intimée de contester le fait que les modalités de toutes les opérations conclues entre l’appelante et ses sociétés affiliées, lesquelles opérations sont en litige dans le présent appel, constituent des modalités qu’aurait établies des personnes sans lien de dépendance. Il ne sera pas interdit à l’intimée de faire valoir une position ou un argument de cette nature.
+III. L’ordonnance prescrivant de répondre à des questions sur la théorie du trompe‑l’oeil [32] Comme il a été mentionné plus tôt, l’appelante sollicite une ordonnance prescrivant à l’intimée de fournir des réponses (et de répondre aussi à toute question appropriée qui découlerait de ces réponses) aux questions nos 1118 à 1123, posées lors de l’interrogatoire préalable de M. G.H. qui a eu lieu le 5 février 2014, relativement à la théorie du trompe‑l’œil du ministère public.
+[33] Les questions ainsi que les réponses écrites qui y ont été données, après que l’intimée les eut prises sous réserve à l’interrogatoire, sont les suivantes :
+[traduction]
+26. Lors de l’interrogatoire préalable du représentant du ministère public, l’avocat de Cameco a posé les questions suivantes :
+1118 Q. J’aimerais donc que vous m’indiquiez chaque cas dans lequel les relations juridiques réelles entre [Cameco] et [CSA], relativement à n’importe quel contrat ou n’importe quelle opération que vous jugez pertinents, diffèrent des relations juridiques qu’énoncent les ententes conclues entre [Cameco] et [CSA].
+[…]
+1119 Q. Et j’aurai la même question et je présume que j’obtiendrai la même réponse au sujet de - - permettez-moi simplement de le consigner au dossier pour que cela y figure. Je vous demanderais d’indiquer chaque cas dans lequel les relations juridiques réelles entre [Cameco] et [CEL], relativement à n’importe quel contrat ou n’importe quelle opération qu’elles jugent pertinents, diffèrent des relations juridiques énoncées dans les ententes conclues entre [Cameco] et [CEL].
+[…]
+1120 Q. J’aimerais obtenir les mêmes informations au sujet des ententes conclues entre n’importe quel autre paire d’entités de Cameco ou n’importe quel nombre d’entités de Cameco.
+Autrement dit, j’ai couvert les relations entre [Cameco] et [CSA], les relations entre [Cameco] et [CEL]. S’il existe des relations ou des contrats qui, selon vous, sont pertinents entre n’importe quel groupement d’entités de Cameco et qui, selon vous, ne correspondent pas aux relations juridiques réelles entre elles, là aussi j’aimerais le savoir.
+[…]
+1121 Q. Et la même demande au sujet de la relation entre n’importe quelle entité de Cameco et n’importe quel tiers.
+[…]
+1122 Q. Et je crois que ceci découlera des réponses données aux engagements et je serais en droit de le demander, mais dans la mesure où votre réponse indique que dans n’importe quelle de ces relations, les relations juridiques réelles étaient différentes de celles que représentent les ententes écrites. J’aimerais savoir ce qui vous permet de le dire. C’est-à-dire le fondement qui vous permet de dire que les parties, en fait, n’étaient et n’entendaient pas être régies par les ententes écrites conclues entre elles.
+Me CHASSON : Vous ai-je bien compris, c’est-à-dire – que cette question est une question semblable que vous avez déjà posée pour d’autres aspects, à la recherche de preuves de la nature de documents ou autrement?
+Me STEINER :
+1123 Q. Cela comprendrait, en premier lieu, une explication et, en second lieu, des informations et des documents.
+L’avocate du ministère public a pris toutes ces questions sous réserve. (Le mot « engagements » mentionné par l’avocat de Cameco à la question no 1122 était une erreur.)
+27. Le ministère public a fourni notamment les réponses suivantes :
+1118 : La totalité, parce qu’il s’agit dans tous les cas d’un trompe‑l’œil. CCO a traité l’entreprise de CEL comme étant la sienne.
+1119 : La totalité, parce qu’il s’agit dans tous les cas d’un trompe‑l’œil. CCO a traité l’entreprise de CEL comme étant la sienne.
+1120 : Tout contrat dans lequel CEL ou CSA est la partie nommée ne correspond pas à la relation juridique.
+1121-1123 : Rejet. Trop général. L’intimée n’est pas au courant de tous les contrats que CCO a conclus avec des tiers.
+[34] L’appelante ne s’est fondée sur aucune règle précise à l’appui de son argument selon lequel les réponses données étaient des non‑réponses ou à l’appui de la réparation demandée, mais l’intimée a présumé dans son argumentation, sans que l’appelante s’y oppose, que celle-ci se fondait sur l’article 95 des Règles, qui exige qu’une personne interrogée au préalable réponde aux questions pertinentes soit au mieux de sa connaissance directe, soit des renseignements qu’elle tient pour véridiques, ainsi que sur l’article 107 des Règles, qui permet à une personne de s’opposer à une question et permet en fait à l’auteur de la question de présenter une requête en vue d’obtenir de la Cour une décision sur le bien-fondé d’une question qui a fait l’objet d’une objection, de même que sur l’article 110 des Règles, qui permet à la Cour d’ordonner à une personne de se présenter à nouveau en vue de répondre à une question que l’on juge essentiellement non injustifiée.
+[35] Il convient de signaler que l’appelante n’a rien fait pour demander d’autres détails, poser la moindre question complémentaire ou déposer la présente requête pendant près de 10 mois après l’interrogatoire préalable en question, mais j’en traiterai maintenant.
+[36] La raison pour laquelle l’appelante s’oppose aux réponses de l’intimée est fondée sur sa position selon laquelle elle ignore les arguments qu’elle sera tenue de réfuter à l’instruction au sujet de la question du trompe‑l’œil. Par ailleurs, soutient‑elle, si l’intimée croit qu’il y a des arguments à invoquer à l’égard d’un « trompe‑l’œil », elle doit être en mesure de répondre aux questions et indiquer en quoi les relations juridiques réelles différaient de celles qui sont indiquées dans les diverses ententes et opérations et prouver la totalité des éléments d’un trompe‑l’œil qui, allègue-t-elle, sont exposés dans diverses affaires, y compris, récemment, la décision McLarty v Her Majesty the Queen, 2014 TCC 30, 2014 DTC 1162, au paragraphe 73, comme suit :
+[traduction] La définition classique d’un « trompe‑l’œil », qui figure dans l’arrêt Snook v. London and West Riding Investments, Ltd., [1967] 1 All ER 518, a été adoptée à maintes reprises par les tribunaux canadiens. Les éléments constitutifs d’un trompe‑l’œil sont : 1) une intention de la part des parties aux opérations 2) de donner faussement l’impression 3) qu’il existe des droits et des obligations juridiques qui diffèrent des droits et des obligations juridiques réels des parties.
+[37] Premièrement, je dois dire que si l’appelante souhaitait poser des questions sur des faits pertinents à l’égard de ce qui constitue, selon elle, les éléments du critère juridique applicable à l’existence d’un trompe‑l’œil, elle aurait dû le faire. Il n’appartient pas au témoin interrogé de présumer qu’il répond à une question de droit. Dans ce contexte, les questions de l’appelante sont nettement trop vagues ou générales.
+[38] Deuxièmement, comme l’a fait valoir l’intimée, l’appelante elle-même présume que les éléments d’un trompe‑l’œil que la Cour canadienne de l’impôt a énoncés sont complets. Pour ce qui est de l’appelante, seul le juge du procès doit répondre à de tels arguments. On peut dire ici que les éléments d’un trompe‑l’œil dont l’appelante a fait état paraissent quelque peu incomplets. Dans l’arrêt Stubart Investments Ltd. c Sa Majesté la Reine, [1984] 1 RCS 536, la Cour suprême du Canada a analysé ce qui constitue un « trompe‑l’œil », aux pages 545 et 546; l’extrait qui suit a également été cité dans la décision McLarty, précitée, juste avant l’extrait énumérant les éléments :
+[…] Le trompe-l'oeil: cette expression nous vient de décisions du Royaume-Uni et signifie, de façon générale (non sans ambiguïté), une opération assortie d'un élément de tromperie de manière à créer une illusion destinée à cacher au percepteur le contribuable ou la nature réelle de l'opération, ou un faux-semblant par lequel le contribuable crée une apparence différente de la réalité qu'elle sert à masquer. […]
+[39] Il me semble très clair que les réponses données aux questions nos 1118 à 1120 dénotent clairement que toutes les opérations conclues entre l’appelante et ses sociétés affiliées constituent un trompe‑l’œil parce que l’appelante a traité l’entreprise de ces sociétés comme s’il s’agissait de la sienne, et l’on peut donc faire valoir que, comme l’a indiqué la Cour suprême du Canada, ces opérations créent une illusion destinée à cacher le contribuable au percepteur. C’est là une question qu’il appartiendra bien sûr au juge du procès de trancher. Dans le même ordre d’idées, la réponse à la question no 1121, à savoir que les contrats auxquels sont parties les sociétés affiliées ne correspondent pas à la relation juridique, semble concorder avec l’opinion incidente de la Cour suprême du Canada, c’est‑à‑dire que l’on cache au percepteur la nature véritable de l’opération.
+[40] Par ailleurs, ces réponses doivent être mises en contexte avec la réponse, analysée plus tôt, à la question no 1117, réponse dans laquelle l’intimée a indiqué que la [traduction] « position principale du ministère public dans cet appel est que la structure est un trompe‑l’œil », et, subsidiairement, a ajouté que CEL n’aurait pas été partie à ces opérations, car elle n’exécutait aucune des fonctions ni n’assumait aucun des risques et que c’est plutôt l’appelante qui aurait été partie à toutes les opérations. Le fait que les arguments subsidiaires étayent un argument relatif aux prix de transfert ne les empêche pas d’étayer également un argument fondé sur l’existence d’un « trompe‑l’œil », et le juge du procès aura à trancher cette question en se basant sur les éléments de preuve qui lui auront été soumis. Il me semble évident que l’appelante sait exactement ce qu’il lui faudra prouver dans le cas d’une théorie du trompe‑l’œil.
+[41] Indépendamment de ce qui précède, il me faut également souscrire à la position de l’intimée selon laquelle les questions, notamment la question no 1122, qui exige de plus que le déposant explique pourquoi l’intimée dit que les diverses parties n’étaient pas liées par les ententes écrites, sont des questions composées et inéquitables pour la personne interrogée. Comme l’a déclaré le juge Bowie dans la décision Reddy v Her Majesty the Queen, 2011 TCC 161, 2011 DTC 1129, aux paragraphes 6 et 7 :
+[traduction]
+[6] En l’espèce, c’est la forme de la question qui est répréhensible. […] C’est à l’avocat, et non à la déposante, qu’il incombe de parcourir le document afin de vérifier si les hypothèses s’y trouvent consignées. L’interrogatoire n’est pas un test de mémoire que la déposante doit passer avec succès ou non, suivant la mesure dans laquelle elle a bien mémorisé les 37 hypothèses qui sont plaidées.
+[7] Les questions composées sont interdites car elles sont inéquitables pour la personne interrogée […].
+[42] Au vu des questions posées, il était essentiellement demandé au déposant de se souvenir de tous les contrats conclus entre l’appelante et CEL et d’autres membres du groupe, ainsi qu’entre un membre quelconque du groupe et des tiers, et d’indiquer ensuite les différences qu’il y avait dans les relations juridiques. Ce ne sont pas seulement des questions composées, particulièrement difficiles compte tenu de la preuve selon laquelle les divers documents en question étaient complexes et différents les uns des autres; elles exigent aussi, comme l’a fait valoir l’intimée, que le déposant isole tous les documents éventuels en litige, y compris certains conclus avec des tiers, qu’il ne connaissait peut-être même pas à la question no 1121, et qu’il indique ensuite les documents qui se rapportaient à une question particulière, un point qui a été jugé irrégulier dans la décision Kossow c Sa Majesté la Reine, 2008 CCI 422, 2008 DTC 4408, au paragraphe 60. L’appelante est au courant des documents que les entités ont conclus, ainsi que de leurs modalités, et elle est en mesure à la fois d’identifier et de poser des questions précises qui s’y rapportent.
+[43] En résumé, je ne suis pas d’avis que l’on n’a pas répondu aux questions et je conclus que ces dernières, en fait, étaient inappropriées; en conséquence, je n’ordonnerai pas au déposant de se présenter de nouveau pour répondre aux questions telles que formulées.
+Conclusion [44] L’appelante ne m’a pas persuadé qu’elle a droit à une ordonnance au sujet de l’une quelconque des mesures de réparation demandées dans le cadre de la requête. Je suis d’avis que l’appelante n’a pas de motifs raisonnables pour justifier les réparations demandées et, à vrai dire, elle n’a pas pris les mesures prévues par les Règles pour solliciter en premier une réparation moin radicale que celle qu’elle a demandée, comme il a été indiqué plus tôt dans les présents motifs. La Cour ne devrait pas tolérer les requêtes inutiles qui ne servent qu’à retarder le processus, à un prix élevé pour toutes les parties, notamment lorsque la partie qui présente ladite requête est celle qui allègue un abus de procédure. La requête de l’appelante est rejetée dans son intégralité, et l’intimée aura droit aux dépens y afférents sur la base avocat-client, payables quelle que soit l’issue de la cause.
+Signé à Nanaimo (Colombie-Britannique), ce 12e jour de décembre 2014.
+« F.J. Pizzitelli »
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 14e jour de janvier 2015.
+Claude Leclerc, LL.B.
+RÉFÉRENCE :
+2014 CCI 367
+No DU DOSSIER DE LA COUR :
+2009-2430(IT)G
+INTITULÉ :
+CAMECO CORPORATION ET LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 2 décembre 2014
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge F.J. Pizzitelli
+DATE DE L’ORDONNANCE :
+Le 12 décembre 2014
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Joseph M. Steiner
+Me Peter Macdonald
+Avocates de l’intimée :
+Me Elizabeth Chasson
+Me Diana Aird
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Noms :
+Me Joseph M. Steiner
+Me Peter Macdonald
+Cabinet :
+Osler, Hoskin & Harcourt LLP
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

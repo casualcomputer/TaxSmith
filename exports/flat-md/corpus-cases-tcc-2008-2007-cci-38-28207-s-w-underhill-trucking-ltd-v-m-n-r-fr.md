@@ -1,0 +1,187 @@
+---
+title: "S.W. Underhill Trucking Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28207/index.do"
+last_modified: "2008-05-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 38"
+citation2: ""
+neutral_citation: "2007 CCI 38"
+decision_date: "2008-05-13"
+language: "fr"
+item_id: "28207"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2021
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:47:20.480000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cfd7c2408336673173b87e5fcc2f7ba8868a80f19a58cbed996b9f8185f1c871"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# S.W. Underhill Trucking Ltd. v. M.N.R.
+
+- Citation: 2007 CCI 38
+- Decision date: 2008-05-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2021, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+S.W. Underhill Trucking Ltd. v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-13
+Référence neutre
+2007 CCI 38
+Numéro de dossier
+2006-1969(CPP)
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2006-1970(EI)
+ENTRE :
+S.W. UNDERHILL TRUCKING LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+Appel entendu le 10 janvier 2007 avec l’appel de S.W. Underhill Trucking Ltd. (2006-1969(CPP)) et jugement rendu oralement le 11 janvier 2007 à Fredericton (Nouveau-Brunswick)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Avocat de l’appelante :
+Me Peter Hyslop
+Avocats de l’intimé :
+Me Craig Silliker et
+Me Catherine McIntyre
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement rendus oralement ci-joints, l’appel est rejeté et la décision du ministre du Revenu national est confirmée.
+Signé à Ottawa (Canada) ce 18e jour de janvier 2007.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 30e jour de janvier 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Dossier : 2006-1969(CPP)
+ENTRE :
+S.W. UNDERHILL TRUCKING LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+Appel entendu le 10 janvier 2007 avec l’appel de S.W. Underhill Trucking Ltd. (2006-1970(EI)) et jugement rendu oralement le 11 janvier 2007 à Fredericton (Nouveau-Brunswick)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelante :
+Me Peter Hyslop
+Avocats de l’intimé :
+Me Craig Silliker et
+Me Catherine McIntyre
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement rendus oralement ci-joints, l’appel est rejeté et la décision du ministre est confirmée.
+Signé à Ottawa (Canada) ce 18e jour de janvier 2007.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 30e jour de janvier 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2007CCI38
+Date : 20070118
+Dossiers : 2006-1970(EI)
+2006-1969(CPP)
+ENTRE :
+S.W. UNDERHILL TRUCKING LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT RENDUS ORALEMENT
+(Rendus à l’audience le 11 janvier 2007 à Fredericton (Nouveau-Brunswick))
+La juge Campbell
+[1] Qu’il soit consigné au dossier que je rends oralement les motifs dans l’affaire S.W. Underhill Trucking Ltd. Il y a eu deux appels, EI et CPP, tous deux entendus ensemble hier.
+[2] L’appelante a fait l’objet d’une évaluation parce qu’elle avait omis de remettre les cotisations au titre de l’assurance-emploi et du Régime de pensions du Canada, avec les pénalités et intérêts connexes, à l’égard de deux travailleurs, John Lever et Albert Wingfield, pour la période ayant débuté le 1er janvier 2003 et ayant pris fin le 31 décembre 2004.
+[3] Bien que l’appelante ait été représentée par un avocat, Me Peter Hyslop, seul Alton Shaw, le comptable de la société appelante, a été appelé à témoigner.
+[4] Lors de son témoignage, il a affirmé avoir agi à titre de contrôleur de gestion pour l’appelante et s’être occupé des opérations bancaires, des comptes créditeurs, de la signature des chèques et, plus généralement, de la tenue des comptes de la société.
+[5] La preuve présentée ne visait qu’un seul des deux travailleurs : Albert Wingfield. M. Wingfield avait une relation de travail avec l’appelante depuis un certain nombre d’années, mais cela a changé à l’automne 2004 lorsqu’on exigea de l’appelante qu’elle inscrive M. Wingfield sur sa liste de paie et qu’elle effectue les retenues ouvrières.
+[6] Si j’ai bien compris le témoignage de M. Shaw, l’appelante a conclu des accords avec des sociétés telles que Day & Ross, en vertu desquels elle s’engageait à leur fournir de l’équipement, y compris des camions, de même que les services de ses conducteurs.
+[7] En l’espèce, les travailleurs étaient des conducteurs de camions. M. Wingfield présentait un relevé des distances parcourues à l’appelante, et il était rémunéré au mille. M. Wingwield est mort en novembre 2004.
+[8] Mis à part cette bien maigre preuve, on ne m’a fourni aucune information concrète qui aurait pu m’aider à trancher la question se trouvant au cœur des appels.
+[9] La question est simple : les travailleurs, et M. Wingfield en particulier, étaient‑ils des employés ou des entrepreneurs indépendants?
+[10] Devant la Cour, le ministre a le droit de présenter des hypothèses de fait et l’appelant a le fardeau de la preuve; il doit réfuter ou détruire ces hypothèses. L’avocat de l’appelante aurait dû adopter pour conduite la présentation d’éléments de preuve permettant de réfuter les hypothèses contestées par la société.
+[11] Ainsi, il lui aurait fallu traiter du critère à quatre volets établi dans le célèbre arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, et présenter des éléments de preuve se rapportant aux quatre facteurs qui y sont énoncés, soit le contrôle, les outils, le bénéfice et les risques.
+[12] Si l’examen de ces facteurs pertinents, à la lumière de la preuve, ne fournit pas de réponse claire, la Cour doit analyser les intentions des parties; la présentation de preuves à cet égard aurait donc pu être utile.
+[13] Si l’appelante avait présenté une preuve assez forte pour réfuter les hypothèses de fait du ministre, j’aurais peut-être conclu que la décision du ministre était erronée et que les travailleurs étaient en fait des entrepreneurs indépendants et non pas des employés au cours de la période en cause. L’appelante n’aurait ainsi pas eu à verser les cotisations, les pénalités et les intérêts visés par l’évaluation.
+[14] À mon avis, l’avocat de l’appelante s’est plutôt présenté à un match de hockey équipé d’un bâton de baseball. J’ai bien fourni à M. Hyslop l’occasion d’obtenir une brève suspension de l’audience afin de permettre à M. Underhill de se présenter à la Cour pour témoigner, mais il n’a pas jugé utile de l’y faire venir.
+[15] M. Underhill est celui qui aurait pu me fournir les détails quant aux modalités d’emplois qui m’auraient permis de trancher la question dont je suis saisie. Même M. Shaw, le comptable, aurait pu fournir certaines des ces informations, mais l’avocat n’a pas jugé utile de l’interroger à ce sujet.
+[16] De plus, M. Lever, le deuxième travailleur – qui est toujours en vie – aurait pu me renseigner sur la nature de la relation de travail en cause.
+[17] Si je comprends bien la démarche de l’avocat, il semblait plaider que la société appelante a injustement souffert des retards de l’Agence du revenu du Canada (l’« ARC »), puisque même si cette dernière a reconnu que M. Wingfield a été un travailleur autonome durant de nombreuses années ayant précédé l’évaluation, l’appelante n’a plus aucun recours contre feu M. Windfield quant à sa part des retenues ouvrières. Il a affirmé que l’appelante pouvait encore récupérer la part de M. Lever parce que ce dernier est toujours en vie.
+[18] Pour employer ses propres mots, l’avocat a demandé à la Cour d’appliquer [traduction] « la justice à l’ancienne ». Tout d’abord, la Cour n’est pas un tribunal d’equity. De toute manière, l’avocat a commis une grave erreur en reconnaissant lui-même, dans ses observations et lors de ses plaidoiries, que l’appelante admettait que M. Wingfield était un employé durant la période en cause et qu’elle était responsable de la portion des retenues payables par l’employeur.
+[19] Je crois que l’avocat me demandait de décharger l’appelante de l’obligation de payer la portion des retenues payables par l’employé parce que l’ARC n’a établi son évaluation qu’après la mort de M. Wingfield.
+[20] C’est là passer à côté de la question et me laisser impuissante. Je m’attends à ce que les avocats qui se présentent devant moi aient au moins un minimum de connaissances concernant les règles relatives à ce genre d’audience.
+[21] En ne faisant pas témoigner M. Underhill à l’égard des modalités d’emploi et en ne répondant pas aux hypothèses de fait contenues dans la réponse, l’avocat a fait des choix tristes et surprenants; ces omissions ont causé un vide dans la preuve et il aurait pu être comblé.
+[22] La reconnaissance du fait que le travailleur était un employé a en effet tranché d’emblée la question précise dont la Cour était saisie en l’espèce.
+[23] L’observation la plus troublante que j’aie à faire, M. Hyslop, est que si M. Underhill s’était présenté devant la Cour pour plaider la cause de sa société, sans être représenté par un avocat, j’aurais fort probablement conclu que les travailleurs étaient des entrepreneurs indépendants et non pas des employés durant la période en cause. Cela aurait eu pour effet de dégager l’appelante de la responsabilité de payer les sommes visées par l’évaluation établie à son égard par le ministre.
+[24] Il est bien malheureux que les présents appels aient été traités de cette manière; malheureusement pour l’appelante, je dois les rejeter tous deux.
+Signé à Ottawa (Canada) ce 18e jour de janvier 2007.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 30e jour de janvier 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2007CCI38
+Nos DES DOSSIERS DE LA COUR :
+2006-1970(EI)
+2006-1969(CPP)
+INTITULÉ :
+S.W. Underhill Trucking Limited et
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Frederiction (Nouveau-Brunswick)
+DATE DE L’AUDIENCE :
+Le 10 janvier 2007
+MOTIFS DU JUGEMENT
+RENDUS ORALEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT RENDU ORALEMENT :
+Le 11 janvier 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Peter Hyslop
+Avocats de l’intimé :
+Me Craig Silliker
+Me Catherine McIntyre
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

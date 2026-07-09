@@ -1,0 +1,235 @@
+---
+title: "Poirier v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30396/index.do"
+last_modified: "2011-06-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 311"
+citation2: ""
+neutral_citation: "2011 TCC 311"
+decision_date: "2011-06-21"
+language: "en"
+item_id: "30396"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7856
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:30:53.954000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0ef4ddb14ef9ebaa58c0f3b5f7b071f4707716477d28a47e7dbff0dc68f2c490"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poirier v. The Queen
+
+- Citation: 2011 TCC 311
+- Decision date: 2011-06-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7856, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poirier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-21
+Neutral citation
+2011 TCC 311
+File numbers
+2009-452(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-452(IT)G
+BETWEEN:
+SYLVAIN POIRIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+NANCY MCCLURE,
+Third Party.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on March 29, 2010, at Montréal, Quebec
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Philippe Dupuis
+Counsel for the third party:
+Miriam Grassby
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment,
+1. The Court orders and adjudges that the amount of $43,668.36 at issue cannot be deducted by the appellant in computing his income and must not be included in computing the income of the third party for the 2007 taxation year;
+2. The Court orders
+(a) that the appeal from the assessment made under the Income Tax Act for the 2007 taxation year be dismissed, and
+(b) that the appellant pay the costs of the respondent and the third party under Tariff B of Schedule II of the Tax Court of Canada Rules (General Procedure).
+Signed at Ottawa, Ontario, this 21st day of June 2011.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 17th day of October 2011
+François Brunet, Revisor
+Citation: 2011 TCC 311
+Date: 20110621
+Docket: 2009-452(IT)G
+BETWEEN:
+SYLVAIN POIRIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+NANCY MCCLURE,
+Third Party.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Jorré, J.
+[1] The appellant separated from his former spouse, Nancy McClure, in June 2006. In 2006 and 2007, his former spouse lived in the family residence.
+[2] In 2007, the appellant paid $43,668.36 in expenses related to the family residence, which he deducted as support when filing his 2007 income tax return. This amount had been paid to third parties.
+[3] The Minister of National Revenue disallowed the deduction, and the dispute is about the disallowed amount.
+[4] In filing his 2007 income tax return, the appellant also deducted an amount of $4,640 paid to his former spouse as support in December 2007. The Minister allowed that deduction, which is not at issue.
+[5] The appellant is appealing from the Minister's assessment, which disallowed the deduction of $43,668.36 in question.
+[6] The Minister deemed it appropriate to ask the Court, under section 174 of the Income Tax Act (ITA), to order that the appellant's former spouse, Ms. McClure, be bound by the Court’s determination. That application was granted in an order dated August 17, 2009.
+[7] The appellant and his former spouse, Ms. McClure, the third party, testified.
+[8] The relevant provisions of the ITA with regard to the deduction of support by the payer are paragraph 60(b) and section 60.1, and with regard to the inclusion thereof in the income of the person receiving the support, are paragraph 56(1)(b) and section 56.1 of the ITA.
+[9] It is not disputed that the amount in question had been paid. There is no disagreement with respect to the amount or to the time when it becomes deductable. The only issue is whether the ITA allows for the deduction thereof.
+[10] As a result, after removing all the words that cannot be applied to the facts at issue, the applicable provisions can be edited as follows:
+56.1 . . .
+Definitions
+(4) The definitions in this subsection apply in this section and section 56.
+. . .
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+. . .
+“child support amount” means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse . . . or former spouse . . . of the payer . . . .
+. . .
+60. There may be deducted in computing a taxpayer’s income for a taxation year such of the following amounts as are applicable
+. . .
+Support
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount . . . ,
+B is the total of all amounts each of which is a child support amount . . .
+. . .
+Support
+60.1 (1) For the purposes of paragraph 60(b) . . . , where an order or agreement, or any variation thereof, provides for the payment of an amount by a taxpayer to a person or for the benefit of the person, children in the person’s custody or both the person and those children, the amount or any part thereof
+(a) when payable, is deemed to be payable to and receivable by that person; and
+(b) when paid, is deemed to have been paid to and received by that person.
+Agreement
+(2) For the purposes of section 60 [and] this section . . . , the amount determined by the formula
+A - B
+where
+A is the total of all amounts each of which is an amount . . . that became payable by a taxpayer in a taxation year, under an order of a competent tribunal or under a written agreement, in respect of an expense . . . incurred . . . for the maintenance of a person, children in the person’s custody or both the person and those children, . . .
+. . .
+is, where the order or written agreement, as the case may be, provides that this subsection and subsection 56.1(2) shall apply to any amount paid or payable thereunder, deemed to be an amount payable by the taxpayer to that person and receivable by that person as an allowance on a periodic basis, and that person is deemed to have discretion as to the use of that amount.
+Prior payments
+(3) For the purposes of this section and section 60, where a written agreement or order of a competent tribunal made at any time in a taxation year provides that an amount paid before that time . . . is to be considered to have been paid and received thereunder,
+(a) the amount is deemed to have been paid thereunder; and
+. . .
+Definitions
+(4) The definitions in subsection 56.1(4) apply in this section and section 60.
+[Emphasis added.]
+[11] The effect of the formula in paragraph 60(b) and the definitions in subsection 56.1(4) is that support provided solely for the needs of a former spouse is made deductible.
+[12] Under subsection 60.1(1), when an order or agreement provides for a payment to a taxpayer or for the benefit of the taxpayer, children in the taxpayer's custody or both, the amount is deemed to have been paid to the taxpayer when paid.
+[13] Subsection 60.1(1) does not in itself create a deduction; the other deductibility conditions must be met.
+[14] In particular, the amounts must be paid "under an order of a competent tribunal or under a written agreement" (i) in accordance with item A in the formula in paragraph 60(b) and the definition of "support" in subsection 56.1(4),[1] and also (ii) in the case of a payment to a third party under subsection 60.1(2).
+[15] Subsection 60.1(2) in itself does not create a deduction, but rather broadens the deduction in paragraph 60(b): certain payments are deemed to be regular allowances that the beneficiary may use at his or her own discretion, which makes those payments deductible.
+[16] However, for subsection 60.1(2) to apply, not only must the amounts be paid "under an order of a competent tribunal or under a written agreement" but also "the order or written agreement, as the case may be, [must provide] that subsection [60.1(2)] and subsection 56.1(2) shall apply" to the amount in question.
+[17] According to these provisions, it is clear that, in order to be deductible as support, the amounts must necessarily be paid under a written agreement or order of a competent court. In addition, if the payments are made to third parties, the agreement or order must provide that subsections 56.1(2) and 60.1(2) of the ITA apply. I will return to the issue of the manner in which the agreement or order must refer to those provisions.
+[18] Finally, I note that subsection 60.1(3) provides that the amounts paid before there is a written agreement or order may be deductible but only if the written agreement or order provides for it.
+[19] Accordingly, there are, inter alia, two very important conditions to be met:
+(a) Support cannot be deductible without a written agreement or an order of a competent court.
+(b) Payments to third parties may be considered deductible support only if the order explicitly provides for the application of subsections 56.1(2) and 60.1(2) of the ITA (that is to say that the payer may deduct the amounts and that the recipient must include them in his or her income).
+[20] The appellant submits that:
+(a) an agreement was concluded between him and his former spouse whereby he would continue to pay the house expenses directly to third parties;
+(b) that agreement was kept alive by the exchange of correspondence between his lawyer and his former spouse's lawyer; and
+(c) the safeguard order dated December 4, 2007, among other things, confirmed that agreement.[2]
+[21] In regard to the agreement allegedly concluded between the appellant and his former spouse before the exchange of letters between the lawyers, the appellant himself described it as an oral agreement.[3]
+[22] I am of the view that there was no oral agreement between the parties. The evidence shows rather that the appellant paid for the house expenses before the separation and continued to pay for them after the separation. The former spouse did not object to this, and so there was, at most, an implicit consent to his paying for those expenses while waiting to resolve the financial aspects of the separation, but there was no agreement between the appellant and his former spouse.[4]
+[23] In paying for these expenses before there was an order or written agreement between the parties, the appellant acted reasonably and responsibly, but there was no written agreement and certainly no agreement explicitly providing for the application of subsections 56.1(2) and 60.1(2) of the ITA.
+[24] Did the correspondence between the appellant's and his former spouse's lawyers lead to an agreement relating to payments to third parties?
+[25] There is no such agreement signed by the appellant and his former spouse.
+[26] The appellant filed in evidence some passages from the correspondence between his lawyer and his former spouse's lawyer.[5]
+[27] The third party filed in evidence the same letters in full as well as additional letters between the parties' lawyers.[6]
+[28] Each letter must be read in its entirety if the context is to be understood.
+[29] I read the correspondence. There is no agreement in the letters.[7] It is a long negotiation during which many details are brought up. Despite the lawyers' efforts, they did not succeed in negotiating an agreement before the order made by the Superior Court of Québec dated December 4, 2007.[8]
+[30] Finally, there is the safeguard order,[9] which reads as follows:
+[Translation]
+Orders Mr. Poirier to pay as support to Ms. McClure, a support amount of $4,640 per month, retroactive to December 1, 2007. In addition, Mr. Poirier will have to continue to assume all of the expenses for the family home, which he is currently assuming. He will also have to pay as child support . . . .
+[31] The amount of $4,640 is the amount that was deducted by the appellant and allowed by the Minister, which is not at issue.
+[32] In that order, the Superior Court of Québec ordered the appellant to pay the family home expenses, but there is nothing in the order that provides for the application of subsections 56.1(2) and 60.1(2) of the ITA or that provides that the amount will be deductible by the payer and included in the recipient's income with respect to the family home expenses.
+[33] The appellant cited Veilleux v. Canada, a Federal Court of Appeal decision.[10] In Veilleux, the appellant and his former spouse had signed an agreement on corollary relief dated December 1, 1989, which provided, among other things, that the appellant undertook to pay the expenses for the family residence, which his former spouse and his children continued to live in. That agreement did not mention the tax treatment of the amounts paid to third parties with respect to the family residence. On March 13, 1990, the appellant and his former spouse signed a supplementary agreement providing for the following:
+[TRANSLATION] All amounts that Gaston Veilleux agrees to pay to Louise Ouellette are net of tax; accordingly, Gaston Veilleux agrees to pay any federal and provincial taxes that may be owed by Louise Ouellette arising from the payment of the said support.
+All amounts paid to Louise Ouellette or to third parties on her behalf shall be deemed to be part of the support; those amounts shall include the expenses relating to the family residence (i.e. mortgage payments, municipal and school taxes, home insurance, electricity, heating, maintenance and cable), expenses relating to the various family insurance plans (i.e. life insurance for dependants, survivor pension, hospitalization, medical expenses, paramedical expenses, dental insurance), provincial and federal income tax and any other amount that may be agreed on by the two parties (automobile repairs, children's activity fees, etc.).
+[34] The Federal Court of Appeal decided that the obligation to explicitly provide for the application of subsections 56.1(2) and 60.1(2) had been fulfilled in the supplementary agreement; the most important this is that it must be clear from the agreement that the parties' intention is that the payer will be able to deduct the amounts in his income tax returns and that the recipient must include them. It is not necessary for the agreement to refer to ITA provisions. That intention of the parties can be expressed in a document other than the agreement on payments.
+[35] However, such an agreement is still essential, and the evidence does not show that such an agreement was concluded between the appellant and his former spouse.[11]
+[36] Finally, it is important to note that the Superior Court safeguard order dated December 4, 2007, is not retroactive except for the fact that it is ordered that the payment of support be retroactive to December 4, 2007.
+[37] The appellant has claimed that it would be unfair if the amounts in question were not deductible. I have already said that the appellant had acted reasonably and responsibly in making the payments before there was an agreement or an order, and, as stated by counsel for the respondent, it is to his credit that he did so.
+[38] However, I am not in a position to determine whether the result of the non-deductibility is fair or not. That issue is not before the Court. However, regardless of what that finding might be, I must apply the ITA.[12]
+[39] Accordingly, the conditions required to permit the deduction of the amount in question are not fulfilled, and the Minister was correct to state that the appellant could not deduct that amount in computing his income.
+[40] The appeal is dismissed with costs to the respondent and the third party under Tariff B of Schedule II.
+Signed at Ottawa, Ontario, this 21st day of June 2011.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 17th day of October 2011
+François Brunet, Revisor
+CITATION: 2011 TCC 311
+COURT FILE NO.: 2009-452(IT)G
+STYLE OF CAUSE: SYLVAIN POIRIER v. HER MAJESTY THE QUEEN and NANCY MCCLURE
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 29, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: June 21, 2011
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Philippe Dupuis
+Counsel for the third party:
+Miriam Grassby
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Definition made applicable by subsection 60.1(4).
+[2] See the appellant's grounds filed on March 29, 2010, and the transcript for March 29, 2010, pages 28, 131 to 133, 135 and 136.
+[3] See the transcript for March 29, 2010, question 34.
+[4] There was absolutely nothing in the former spouse's testimony that supports the argument that there was an agreement between her and the appellant (transcript for March 29, 2010, questions 272 to 280).
+[5] Exhibit A-1, tab 1.
+[6] Exhibit INT-1, tabs 6-A to -T.
+[7] There are various proposals, counter-proposals, questions, answers and arguments, none of which led to an agreement.
+[8] In addition, that lack of agreement can be seen in the comments of the appellant's counsel, Ms. Perrault, at pages 3 and 4 of the hearing transcript for December 4, 2007, before the Superior Court of Québec (Exhibit INT-1, tab 1-A), where one of her statements was, [Translation] "in the time that it took to appear before you, we have had time to talk. I have made an offer to Ms. Grassby, but I realize that the gap between the parties' positions is too great . . . ", and, as a result, Mr. Perault withdrew an application for adjournment.
+[9] Exhibit INT-1, tab 2.
+[10] 2002 FCA 201.
+[11] It was proposed several times in the correspondence that certain amounts to be paid would be deductible, but as I have already mentioned, an agreement was never reached between the parties. An example can be found in the letter sent to the appellant on June 11, 2007, by Ms. Grassby, the former spouse’s lawyer. In the first paragraph of page 2, a support amount is mentioned that would be deductible by the appellant. It is a paragraph in a letter proposing a series of conditions to resolve the financial aspects of the separation. On the last page, Ms. Grassby states that the letter is written [Translation] "without prejudice". The appellant’s lawyer replied in a letter dated August 3, 2007, stating a counter-offer [Translation] "without prejudice".
+The appellant filed in evidence the hypothec for the family home dated July 16, 2004, before the separation (Exhibit A-1, tab 3). At clause 6, the appellant undertakes, jointly and severally, to pay all the amounts secured by the hypothec and to fulfill all of his former spouse's obligations. I do not see how hypothec payments made under that clause could be considered as payments of "support amounts" according to the definition in subsection 56.1(4). There is no order or written agreement providing that these amounts would be deductible by the appellant and included in the recipient's income, as required by subsection 60.1(2).
+[12] See, for example, Poisson v. Canada, 2002 FCA 238, where Justice Létourneau made the following comments:
+1 Despite all the sympathy we may have for the applicant, who paid his former spouse $5,200 in 1997 for her maintenance and the maintenance of Valérie, their daughter, we must apply the provisions of the Income Tax Act (Act), specifically, subsections 56.1(4) and 60.1(4) and paragraph 60(b).

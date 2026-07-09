@@ -1,0 +1,172 @@
+---
+title: "Provost v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29557/index.do"
+last_modified: "2009-09-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 585"
+citation2: ""
+neutral_citation: "2009 TCC 585"
+decision_date: "2009-09-21"
+language: "en"
+item_id: "29557"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6343
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:55:41.114000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7650e902df699ebb22723d4d17084c2ae66896461dbfe80095301422b86ec15d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Provost v. The Queen
+
+- Citation: 2009 TCC 585
+- Decision date: 2009-09-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6343, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Provost v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-21
+Neutral citation
+2009 TCC 585
+File numbers
+2008-880(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-880(IT)G
+BETWEEN:
+LINDA JEAN PROVOST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 21, 2009, and decision rendered orally on September 25, 2009 at Kingston, Ontario.
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Kenneth Coull
+Counsel for the Respondent:
+Jack Warren
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeals from the assessments made under subsection 160(1) of the Income Tax Act (ITA) notices of which are dated October 27, 2006 and bear numbers 41369 and 41370 are allowed and the assessments are returned to the Minister only for reassessment on the basis that assessment 41369 be reduced to $115,000 and assessment 41370 be reduced to $32,726 (which is 50% of the original assessment of $65,452). Further the interest charges from the date of both assessments are to be deleted pursuant to subparagraph 160(1)(e)(ii) of the ITA.
+Signed at Ottawa, Canada, this 29th day of January 2010.
+“C.H. McArthur”
+McArthur J.
+Citation: 2009 TCC 585
+Date: 20100129
+Docket: 2008-880(IT)G
+BETWEEN:
+LINDA JEAN PROVOST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Counsel for the Appellant: Kenneth J.M. Coull
+Counsel for the Respondent: Jack Warren
+____________________________________________________________________
+AMENDED REASONS FOR JUDGMENT
+(Amendments to original Judgment
+Paragraph 8 is deleted and replaced
+Paragraphs 21 and 22 are deleted being redundant
+Paragraph 23 is amended and is replaced by paragraph 21
+of these Amended Reasons)
+(Delivered orally from the bench
+on September 25, 2009, in Kingston, Ontario.)
+McArthur J.
+[1] In these appeals, the Appellant was assessed under subsection 160(1) of the Income Tax Act by assessments of the Minister of National Revenue, totalling $196,451, arising from transfers to the Appellant from her husband Gary in the taxation years 1987 and 1988, at which time, Gary had an outstanding tax liability.
+[2] Assessment 41369 pertains to a transfer or assignment of a mortgage receivable, beneficially owned by Gary, and assigned to the Appellant for a nominal consideration. The Appellant received 6% interest on the mortgage for approximately 17 months, when she sold the mortgage receivable for $115,000 after receiving Gary’s instructions. The uncontested evidence is that the Appellant cashed in the proceeds at a bank and turned over $115,000 in cash to Gary.
+[3] Assessment no. 41370 concerns Gary and the Appellant’s matrimonial home at 263 Meadowcrest Road, Kingston, Ontario, where she has lived since 1974 when Gary’s parents transferred the property to the Appellant and Gary, as joint tenants. In December 1980, Gary and Linda transferred that property to Linda alone. In July 1981, Linda with her husband baring his matrimonial interest, transferred the property to Gary’s father. Subsequently, in December 1984, Gary’s father re-transferred it to Gary for a nominal consideration. And then, in February 1987, Gary transferred it back to Linda, again for nominal consideration.
+[4] In March 1992, Linda granted a mortgage to Canada Trustco (which is of no consequence). She retains title to the property and continues to live there to this day with one of her daughters and grandchildren.
+[5] The Appellant and Gary were married in 1971 and had four children by 1981. She is a registered practical nurse. Having time off to raise her family, she went back to work, I believe in 1990, and still works in a psychiatric hospital. Her life has not been easy. She went through many periods of separation and reconciliation and Linda and her husband are currently separated with little likelihood of getting back together. They were living separately in the relevant years, 1987 and 1988, and she had in fact custody of the children.
+[6] Gary did not attend this hearing, and I draw no inference from this. The Appellant described his occupation as a plumber and having a motorcycle business. He also purchased, either alone or with others, several real properties, including a hotel bar, 100 acres on Highway 38 and a Bath Road property. Gary presently lives in a house on Highway 38. I believe Gary did not report income resulting in part from the sale of the real properties which probably results in the present assessments of the Appellant. I have been given no details in this regard. The Appellant received the proceeds from the sale of Bath Road and purchased a home for each of two of her children.
+[7] Gary was incarcerated in 1988 for conspiring to traffic drugs. He was again imprisoned in 2006 for dealing in marijuana, and I believe released in February 2009. The Appellant stated that she was terrified of Gary who had threatened and assaulted her in the past. He was very controlling and she did what he told her to do. He was secretive about his property transactions, and she does not know the reasons for the many transfers. I accept that. I infer that they were made at least in part to avoid the tax collectors. During their relationship Gary moved in and out of the home when it suited him.
+[8] The Appellant and her counsel correctly presented in the Notice of Appeal and in oral argument that no interest should be applied to the assessment. Subparagraph 160(1)(e)(ii) reads in part.
+160(1) Where a person has . . . transferred property . . . to
+(a) the person’s spouse . . .
+. . .
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year.
+The Appellant is only liable for amounts “in respect of the taxation year in which the property was transferred.” I refer with approval to Algoa Trust v. R., [1998] 4 C.T.C. 2001 (TCC) and to Currie v. The Queen, [2009] 1 C.T.C. 2139 (TCC). [1]
+[9] Counsel adds that the Appellant was in fact the beneficial, if not the legal owner of the mortgage and home, and he refers to the Supreme Court of Canada in Pettkus v. Becker,[2] and the principle of constructive trust. With respect to the mortgage, he states the Appellant was a bare trustee, and he referred to the Minister v. Delisle.[3]
+[10] Counsel for the Respondent submits that the four conditions in section 160 have been met and referred to authorities, including The Queen v. Rose.[4] The Appellant had the burden of proving that she was the beneficial if not the legal owner of the house prior to the tax indebtedness of Gary, and that he did not divest himself of ownership in favour of her to dodge the tax man or other creditors.
+[11] Gary and the Appellant took joint title in 1974 and a mortgage encumbrance was discharged in 1976. In 1980, Gary transferred his one-half interest to the Appellant. In 1981, the Appellant transferred it, with Gary joining in to bar his dower, to Gary’s father John. In 1984, John transferred it back to his son, and in 1987, Gary transferred it back to the Appellant. The Appellant testified she did as she was told and did not know why, nor did she question the transfers. The Appellant was a credible witness and I accept her testimony. The fact is that the Appellant was granted legal title in 1987. The Appellant’s testimony that she was unaware of Gary’s tax indebtedness has no bearing.
+[12] The agreed net equity in the home in 1987 was approximately $65,000, which the Respondent claims in its entirety. No joint interest, no beneficial interest for her contributions over the years while she worked as a nurse and also as a mother. It is harsh in the extreme to be in a position to take the house, particularly 20 years after the fact. It is an enormous debt to pay for, particularly, an innocent wife and mother, now a grandmother.
+[13] When Gary and the Appellant were granted title for $32,000 in 1974, there is no doubt that she obtained and retained a 50% ownership, both legal and beneficial, after the encumbrance was paid off in 1976. The Appellant’s 50% joint interest survived the interim transfers which were made without consideration and upon the demand of an overbearing spouse for questionable purposes. I accept the Appellant’s argument that she has had possession of the property for 35 years.
+[14] In the Rose decision referred to above, Mr. and Mrs. Rose were joint owners when Mr. Rose transferred his interest to avoid a potential creditor at a time when he was indebted to Canada Revenue Agency. The Federal Court of Appeal concluded that he had divested himself of his interest. In the these appeals, the Appellant already had a 50% interest and what Gary transferred to her was his 50% interest, and therefore, the Minister has the right to attach only 50% of the equity of $65,400. The Appellant had a vested interest in 1974 and never divested herself of it, and I refer to natural justice and common sense. The Minister cannot take advantage of the actions of a devious and perhaps felonious third party.
+[15] Now turning to the mortgage receivable. It was transferred to the Appellant on the direction of Gary. Mt. J. Fillion was a registered mortgagee of a $131,000 mortgage, and he agreed to assign that mortgage to Gary as security for the $65,000 owing by him to Gary. The transfer from Gary to the Appellant was done on the same day for minimal consideration. As a result of that, the Appellant received the $650 monthly payments of interest, for a total of about $9,000, which she declared in her income for 1988 and 1989. However, this terminated at the end of November 1989 when she assigned the mortgage to an arm’s length purchaser for $115,000, which establishes the mortgage receivable value at $115,000, and not $131,000 as the Minister assessed the Appellant.
+[16] Shortly after assignment by the Appellant, and upon Gary’s direction, the Appellant turned over $115,000 in cash to him. I accept the Appellant’s evidence that she was terrified of him. She did as she was told. While she received approximately $9,000 in interest which she used to pay for household expenses, the question remains, whose mortgage was it?
+[17] Counsel for the Appellant presented that the mortgage in reality never left the ownership or control of Gary. She was incapable of doing anything with it beyond Gary’s direction. She was a bare trustee when it was sold to a third party, and she had received $9,000, while Gary received $115,000.
+[18] Counsel for the Respondent presented that the liability to the Crown attached or crystallized at the time of transfer and that cannot be changed by subsequent events. He suggested that the Appellant participated in Gary’s schemes. However, there was no evidence of that. He also referred to Yates v. the Queen,[5] and in particular, where Nadon J. for the Federal Court of Appeal stated:
+36. … In effect, what we have to decide is whether a family law exception can be read into subsection 160(1).
+39. Consequently, I see absolutely no basis for the [A]ppellant’s argument that the nature of the expenses incurred with the money transferred to her by her husband is a relevant factor in determining whether she is subject to subsection 160(1) of the Act.
+[19] Counsel for the Respondent goes on to refer to Canada v. Livingston[6] and the following paragraphs of Sexton J.A. direct my decision:
+22. … there is a transfer of property for the purposes of 160, even when beneficial ownership has not been transferred. Subsection 160(1) applies to any transfer of property by means of a trust or by any other means whatever. Thus, subsection 160(1) categorizes a transfer to a trust as a transfer of property. Certainly, even where the transferor is beneficiary under the trust, nevertheless legal title has been transferred to the trustee. Obviously this constitutes a transfer of property for the purposes of subsection 160(1) which, after all, is designed, inter alia, to prevent the transferor from hiding his or her assets, including behind the veil of a trust in order to prevent the CRA from attaching the asset. Therefore it is unnecessary to consider the [R]espondent’s argument that beneficial title to the funds remained with Ms. Davies.
+That is a clear direction by the Federal Court of Appeal that I cannot ignore. It continues at paragraph 24:
+24. The trial judge emphasized in his reasons that the respondent ultimately received no monetary benefit. …
+which is the case before me, and it continues:
+… The respondent argues that this is a critical factor in considering whether there has been a transfer of property. In my opinion it is irrelevant whether or not the respondent ultimately received a “benefit”. The respondent certainly received property at the time of transfer which is the relevant time for the purposes of 160(1). That the money happened to go back to Ms. Davies in the end is not sufficient to reverse the triggering of the provision. … As was stated by this Court in Heavyside, supra at paragraph 9:
+… That liability arises at the moment of the transfer and is joint and several with that of the transferor. …
+[20] With this clear and recent direction, I accept the Respondent’s submissions that the assignment of the mortgage from Fillion to the Appellant constitutes an indirect transfer of property from the husband to the Appellant under subsection 160(1) of the Act.
+[21] The appeal is allowed to reduce the mortgage from $131,000 to $115,000, to reduce the assessment of 41370 to $32,726, (which is 50% of the original $65,452 assessment) and to delete the interest charges from both assessments.
+Signed at Ottawa, Canada, this 29th day of January 2010.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2009 TCC 585
+COURT FILE NO.: 2008-880(IT)G
+STYLE OF CAUSE: LINDA JEAN PROVOST and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kingston, Ontario
+DATE OF HEARING: September 25, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: October 8, 2009
+DATE OF AMENDED JUDGMENT January 29, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Kenneth J.M. Coull
+Counsel for the Respondent:
+Jack Warren
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Kenneth J.M. Coull
+Firm: Kenneth J.M. Coull
+Kingston, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] With gratitude to editor and author David M. Sherman for his discussion in Practitioner's Income Tax Act 2004, 26th edition, as follows:
+No interest can be assessed on a section 160 assessment: Algoa Trust, [1998] 4 C.T.C. 2001 (TCC); but this will change with the draft amendment above, for assessments issued after December 20, 2002. (A class action on this point was settled with repayment of interest by the CRA : Ho-A-Shoo v. Canada (Attorney General), 2001 CarswellOnt 2114 (Ont. SCJ)).
+In Currie v. R. 2006 CarswellNat6130 (TCC), the CRA assessed C under 160(1) for amounts received from his late father, including interest. C paid the debt, and CRA attributed the payments to the deceased’s estate. He claimed a refund of interest accrued after the assessment date, and CRA reassessed to zero but refused to refund the interest. The Court rejected a Crown motion to strike C’s appeal on the basis that he could not appeal the interest; and at [2009] 1 C.T.C. 2139 (TCC), allowed his appeal to cancel the interest.
+An amendment to subsection 160(1) was proposed in 2002, but has not been enacted.
+[2] (1980) 2 S.C.R. page 834.
+[3] (1995) DTC 650 (TCC).
+[4] 2009 FCA 93.
+[5] 2009 FCA 50.
+[6] 2008 FCA 89.

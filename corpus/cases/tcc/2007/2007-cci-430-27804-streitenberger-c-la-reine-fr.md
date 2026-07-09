@@ -1,0 +1,182 @@
+---
+title: "Streitenberger c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27804/index.do"
+last_modified: "2007-04-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 430"
+citation2: ""
+neutral_citation: "2007 CCI 430"
+decision_date: "2007-04-10"
+language: "fr"
+item_id: "27804"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 279
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:47:21.661000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5db59598e2e3f89ed0ade1df1b43de8d7640ce1f1fade207659433452bede332"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Streitenberger c. La Reine
+
+- Citation: 2007 CCI 430
+- Decision date: 2007-04-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 279, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Streitenberger c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-10
+Référence neutre
+2007 CCI 430
+Numéro de dossier
+2006-3220(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3220(IT)I
+ENTRE :
+CHRISTOPHER A. STREITENBERGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 10 avril 2007, à Saskatoon (Saskatchewan)
+Devant : L’honorable juge G.A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Pour l’intimée :
+Me Sharlene Telles-Langdon
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles déterminations que le ministre du Revenu national (le « ministre ») a établies à l’égard de l’appelant pour les années de base 2001, 2002 et 2003 sont accueillis, et l’affaire est déférée au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles déterminations en tenant pour acquis que l’appelant était le « particulier admissible » pour les mois de mai 2003 à avril 2005 des années de base 2001, 2002 et 2003, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 25e jour de juillet 2007.
+« G.A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 30e jour d’août 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI430
+Date : 20070725
+Dossier : 2006-3220(IT)I
+ENTRE :
+CHRISTOPHER A. STREITENBERGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Christopher Streitenberger, appelle de la nouvelle détermination que le ministre du Revenu national (le « ministre ») a établie à l’égard de son admissibilité à la Prestation fiscale canadienne pour enfants (la « PFCE ») pour les années de base 2001, 2002 et 2003.
+[2] Pour établir la nouvelle détermination, le ministre s’est fondé sur les hypothèses de fait suivantes, qui sont énoncées au paragraphe 16 de la réponse à l’avis d’appel :
+[traduction]
+a) l’appelant et Sandra sont les parents biologiques d’Adam;
+b) Adam est né le 13 janvier 1991;
+c) pendant les années de base 2001, 2002 et 2003, l’appelant et Sandra étaient divorcés et vivaient séparés;
+d) le 8 juin 2000, une ordonnance sur consentement prévoyant ce qui suit a été rendue :
+(i) l’appelant et Sandra auront la garde conjointe d’Adam;
+(ii) la résidence principale d’Adam sera celle de Sandra;
+(iii) Adam résidera alternativement une semaine avec l’appelant et une semaine avec Sandra, dans leurs résidences respectives;
+e) après avril 2003, Adam résidait avec l’appelant du lundi au vendredi;
+f) après avril 2003, Adam résidait avec Sandra du vendredi soir au dimanche soir;
+g) Sandra a déménagé à Saskatoon en 2003 pour trouver du travail afin de pouvoir subvenir aux besoins d’Adam;
+h) Adam est resté à Bruno avec l’appelant;
+i) Adam a l’intention de résider avec Sandra à Saskatoon lorsqu’elle aura obtenu son diplôme d’études secondaires;
+j) tout au long de la période allant d’avril 2003 à avril 2004, l’appelant a reçu 1 960,44 $ de Sandra pour la PFCE, lequel montant est réparti ainsi :
+Avril 2003
+221,32 $
+Mai 2003
+221,32 $
+Juin 2003
+221,32 $
+Juillet 2003
+261,48 $
+Août 2003
+115,00 $
+Septembre 2003
+115,00 $
+Octobre 2003
+115,00 $
+Novembre 2003
+115,00 $
+Décembre 2003
+115,00 $
+Janvier 2004
+115,00 $
+Mars 2004
+230,00 $
+Avril 2004
+115,00 $
+Total
+1 960,44 $
+k) Sandra a investi sa partie de la PFCE dans un régime enregistré d’épargne‑études pour Adam;
+l) Sandra a payé les vêtements et l’allocation d’Adam;
+m) Sandra avait une chambre séparée pour Adam dans sa maison;
+n) Adam vivait avec l’appelant, lequel résidait avec ses parents;
+o) Sandra paye une assurance médicale pour Adam;
+p) Sandra s’occupe du transport d’Adam pour qu’il puisse aller à ses rendez‑vous médicaux à Saskatoon;
+q) Sandra s’occupe du transport d’Adam pour qu’il puisse participer à ses activités sportives et elle assiste aux activités;
+r) Sandra a fourni à Adam les savons et les produits de nettoyage pour la peau spéciaux dont il avait besoin;
+s) Sandra subvient aux besoins éducationnels d’Adam et a assisté aux rencontres entre les parents et les enseignants;
+t) selon la décision rendue par le juge Margeson de la Cour canadienne de l’impôt le 14 mars 2005, Sandra avait droit à la PFCE et au SPNE à l’égard d’Adam pour la période suivant avril 2003 et était la personne qui assumait principalement la responsabilité pour le soin et l'éducation d’Adam;
+u) les années de base 2001, 2002 et 2003 signifient les mois de juillet 2002 à juin 2003, de juillet 2003 à juin 2004, et de juillet 2004 à juin 2005, respectivement;
+v) l’appelant a reçu des versements de PFCE de 147,37 $, de 2 670,84 $ et de 2 615,86 $ totalisant 5 434,07 $ pour les mois de mai 2003 à avril 2005 au cours des années de base 2001, 2002 et 2003, comme le précise l’annexe A jointe à la réponse à l’avis d’appel et en faisant partie intégrante (ci‑après l’« annexe A »);
+w) l’appelant n’avait pas le droit de recevoir les versements de PFCE pour les années de base 2001, 2002 et 2003, comme le précise l’annexe A;
+x) l’appelant a reçu un versement excédentaire de PFCE de 5 434,07 $ pour les mois de mai 2003 à avril 2005 au cours des années de base 2001, 2002 et 2003, comme le précise l’annexe A.
+[3] Comme l’indique clairement l’hypothèse figurant à l’alinéa 16t) de la réponse à l’avis d’appel, c’est la deuxième fois que la Cour examine la question de savoir si l’appelant ou son ex‑épouse, Sandra Scott (ci‑après « Mme Scott »), a le droit de recevoir la PFCE pour presque la même période. Dans l’appel interjeté par Mme Scott, le juge Margeson a statué, sans fournir de motifs, que Mme Scott avait droit à la PFCE, et le ministre a établi une nouvelle détermination en conséquence pour ce qui est de l’admissibilité de l’appelant à la PFCE. L’appelant appelle maintenant de cette nouvelle détermination. Compte tenu des circonstances, il me semble qu’il aurait été approprié (voire, souhaitable) que le ministre demande, en application de l’article 174 de la Loi de l’impôt sur le revenu (la « Loi »), que l’appelant soit lié par la décision rendue relativement à l’appel de Mme Scott[1]. Si cela avait été fait, on aurait pu éviter deux conséquences malheureuses : la famille n’aurait pas été obligée d’aller en justice une deuxième fois pour la même période à l’égard de la même question, et la Cour ne se serait pas trouvée dans une situation embarrassante où elle doit en fait entendre un genre d’appel de la décision rendue lors de la première instance.
+[4] Quoi qu’il en soit, lors de l’audition de la présente affaire, l’appelant a témoigné pour son propre compte et a appelé son fils, Adam, à témoigner. La Couronne a envoyé un bref de subpoena à Mme Scott. J’ai écouté attentivement le témoignage des trois témoins, et je suis convaincue que, dans le contexte d’une ordonnance de garde conjointe, les parents contribuaient tous les deux pleinement au soin et à l’éducation de leur fils. La situation a été compliquée par le fait que Mme Scott vivait à Saskatoon, alors que l’appelant vivait à environ une heure de là, dans la localité de Bruno (Saskatchewan). Adam, qui venait tout juste de commencer l’adolescence pendant la période pertinente, avait choisi de vivre avec son père pour continuer ses études et pratiquer ses activités sportives avec ses amis à Bruno. Pendant ce temps, Mme Scott avait dû déménager à Saskatoon afin d’augmenter ses chances de gagner sa vie. Adam passait presque toutes ses fins de semaine avec sa mère en ville. Les deux parents fournissaient à Adam une chambre dans leurs maisons respectives. Si on ne tient pas compte de la distance entre les résidences, les deux parents satisfaisaient et subvenaient aux besoins affectifs de leur fils, ainsi qu’à ses besoins en matière de nutrition, de santé, d’activités récréatives et d’éducation, selon leurs moyens et le temps dont ils disposaient. Même si cela n’est pas pertinent pour la détermination de l’admissibilité à la PFCE, je remarque que rien dans la preuve dont j’ai été saisie ne donne à penser que les paiements reçus par Mme Scott ou l’appelant ont été utilisés à des fins autres que le soin et l’éducation d’Adam.
+[5] La Loi ne permet ni aux fonctionnaires administrant le programme de la PFCE, ni à la Cour saisie de l’appel d’imposer un partage de la PFCE. Il est coûteux et traumatisant pour les familles qui sont déjà fragiles sur le plan émotionnel et financier à la suite de l’échec du mariage d’aller en justice pour établir l’admissibilité d’un des deux parents à la PFCE. Je suis consciente qu’il incombe au Parlement de rédiger la loi et que c’est mon devoir de l’appliquer comme elle a été rédigée. Toutefois, je ne peux pas m’empêcher de me demander si l’objectif de la Loi, soit d’apporter un soutien financier aux enfants dans le besoin, serait mieux servi si la Loi imposait une présomption législative de partage égal de la PFCE entre les parents qui ont la garde conjointe de leurs enfants, à moins que les parents convainquent la Cour qu’un tel partage est inapproprié dans les circonstances. Ce n’est toutefois pas à moi de donner la réponse à cette question.
+[6] En l’espèce, je suis convaincue que l’appelant a réussi à établir qu’il était le « particulier admissible » pour les mois de mai 2003 à avril 2005 des années de base 2001, 2002 et 2003. L’appel est accueilli, et la nouvelle détermination est déférée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle détermination, conformément aux présents motifs du jugement.
+Signé à Ottawa, Canada, ce 25e jour de juillet 2007.
+« G.A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 30e jour d’août 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2007CCI430
+NO DU DOSSIER : 2006-3220(IT)I
+INTITULÉ : CHRISTOPHER A. STREITENBERGER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 10 avril 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge G.A. Sheridan
+DATE DU JUGEMENT : Le 25 juillet 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Pour l’intimée :
+Me Sharlene Telles-Langdon
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pour les fins du dossier, je souligne que l’avocat de l’intimée en l’espèce n’est pas l’avocat qui a représenté l’intimée lors de l’appel de Mme Scott.

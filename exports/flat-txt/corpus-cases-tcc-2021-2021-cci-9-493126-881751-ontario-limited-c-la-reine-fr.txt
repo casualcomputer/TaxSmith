@@ -1,0 +1,543 @@
+Title: 881751 Ontario Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/493126/index.do
+Corpus path: corpus/cases/tcc/2021/2021-cci-9-493126-881751-ontario-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2021-02-17
+
+# 881751 Ontario Limited c. La Reine
+
+- Citation: 2021 CCI 9
+- Decision date: 2021-02-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4634, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+881751 Ontario Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-02-17
+Référence neutre
+2021 CCI 9
+Numéro de dossier
+2017-4363(IT)G, 2018-931(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-4363(IT)G
+ENTRE :
+881751 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête présentée par écrit
+Devant : l’honorable juge Johanne D’Auray
+Parties :
+Avocat des appelants :
+Me Gregory J. DuCharme
+Avocates de l’intimée :
+Me Charlotte Deslauriers
+Me Tanis Halpape
+ORDONNANCE
+VU LA REQUÊTE présentée par l’intimée en vue d’obtenir :
+une ordonnance radiant certains paragraphes de l’avis d’appel, conformément à l’article 53 des Règles, à savoir :
+a) dans l’en-tête « Material Facts – Non-Charter Issues » (Faits pertinents – Questions ne relevant pas de la Charte), l’expression « Non-Charter Issue » (Questions ne relevant pas de la Charte);
+b) sous l’en-tête « Material Facts – Charter Issues » (Faits pertinents – Questions relevant de la Charte), les paragraphes 13, 14, 15, 16, 17, 18 et 19;
+c) l’en-tête « Material Facts – Charter Issues » (Faits pertinents – Questions relevant de la Charte);
+d) sous l’en-tête « Issues to be decided » (Points en litige), les paragraphes 4, 5, 6, 7 et 8;
+e) sous l’en-tête « Statutory Provisions » (Dispositions législatives), le paragraphe 4;
+f) sous l’en-tête « Reasons » (Motifs), le paragraphe 5;
+g) sous l’en-tête « Relief Sought » (Mesures demandées), le paragraphe 4 (collectivement, les paragraphes de l’avis d’appel indiqués ci-dessus seront appelés les « paragraphes contestés »);
+le remboursement des dépens de l’intimée pour la présente requête.
+APRÈS LECTURE des documents déposés par l’avocat des appelants et les avocates de l’intimée;
+LA COUR ORDONNE que :
+L’intimée soit autorisée à déposer la requête en vue d’obtenir la radiation de certaines parties de l’avis d’appel de l’appelante, 881751 Ontario Limited;
+La requête présentée par l’intimée en vue d’obtenir la radiation de certaines parties de l’avis d’appel de l’appelante, 881751 Ontario Limited, soit accueillie, selon les modalités suivantes :
+Les paragraphes suivants de l’avis d’appel déposé par l’appelante, 881751 Ontario Limited, sont radiés selon ce qui suit :
+a) sous l’en-tête « Material Facts – Charter Issues » (Faits pertinents – Questions relevant de la Charte), les paragraphes 13, 14, 15 et 19 sont radiés;
+b) sous l’en-tête « Issues to be decided » (Points en litige), les paragraphes 4, 5, 6, 7 et 8 sont radiés;
+c) sous l’en-tête « Statutory Provisions » (Dispositions législatives), à l’exception de la référence à l’article 8 et au paragraphe 24(1) de la Charte, le paragraphe 4 est radié;
+d) sous l’en-tête « Reasons » (Motifs), le paragraphe 5 est radié;
+e) sous l’en-tête « Relief Sought » (Mesures demandées), le paragraphe 4 est radié.
+3. Les dépens suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 17e jour de février 2021.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 5e jour de mai 2021.
+François Brunet, réviseur
+Dossier : 2018-931(IT)G
+ENTRE :
+DENIS ROY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête présentée par écrit
+Devant : L’honorable juge Johanne D’Auray
+Parties :
+Avocat des appelants :
+Me Gregory J. DuCharme
+Avocates de l’intimée :
+Me Charlotte Deslauriers
+Me Tanis Halpape
+ORDONNANCE
+VU LA REQUÊTE présentée par l’intimée en vue d’obtenir :
+une ordonnance radiant certains paragraphes de l’avis d’appel, conformément à l’article 53 des Règles, à savoir :
+a) dans l’en-tête « Material Facts – Non-Charter Issues » (Faits pertinents – Questions ne relevant pas de la Charte), l’expression « Non-Charter Issue » (Questions ne relevant pas de la Charte);
+b) sous l’en-tête « Material Facts – Charter Issues » (Faits pertinents – Questions relevant de la Charte), les paragraphes 12, 13, 14, 15, 16, 17 et 18;
+c) l’en-tête « Material Facts – Charter Issues » (Faits pertinents – Questions relevant de la Charte);
+d) sous l’en-tête « Issues to be decided » (Points en litige), les paragraphes 4, 5, 6, 7 et 8;
+e) sous l’en-tête « Statutory Provisions » (Dispositions législatives), le paragraphe 4;
+f) sous l’en-tête « Reasons » (Motifs), le paragraphe 4;
+g) sous l’en-tête « Relief Sought » (Mesures demandées), le paragraphe 4 (collectivement, les paragraphes de l’avis d’appel indiqués ci-dessus seront appelés les « paragraphes contestés »);
+le remboursement des dépens de l’intimée pour la présente requête.
+APRÈS LECTURE des documents déposés par l’avocat des appelants et les avocates de l’intimée;
+LA COUR ORDONNE que :
+1. L’intimée soit autorisée à déposer la requête en vue d’obtenir la radiation de certaines parties de l’avis d’appel de l’appelant, Denis Roy;
+2. La requête présentée par l’intimée en vue d’obtenir la radiation de certaines parties de l’avis d’appel de l’appelant, Denis Roy, soit accueillie, selon les modalités suivantes :
+les paragraphes suivants de l’avis d’appel déposé par l’appelant, Denis Roy, sont radiés selon ce qui suit :
+a) sous l’en-tête « Material Facts – Charter Issues » (Faits pertinents – Questions relevant de la Charte), les paragraphes 12, 13, 14 et 18 sont radiés;
+b) sous l’en-tête « Issues to be decided » (Points en litige), les paragraphes 4, 5, 6, 7 et 8 sont radiés;
+c) sous l’en-tête « Statutory Provisions » (Dispositions législatives), à l’exception de la référence à l’article 8 et au paragraphe 24(1) de la Charte, le paragraphe 4 est radié;
+d) sous l’en-tête « Reasons » (Motifs), le paragraphe 4 est radié;
+e) sous l’en-tête « Relief Sought » (Mesures demandées), le paragraphe 4 est radié.
+3. Les dépens suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 17e jour de février 2021.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 5e jour de mai 2021.
+François Brunet, réviseur
+Dossier : 2017-4363(IT)G
+ENTRE :
+881751 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2018-931(IT)G
+ET ENTRE :
+DENIS ROY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête présentée par écrit
+Devant : L’honorable juge Johanne D’Auray
+Parties :
+Avocat des appelants :
+Me Gregory J. DuCharme
+Avocates de l’intimée :
+Me Charlotte Deslauriers
+Me Tanis Halpape
+ORDONNANCE
+VU LA REQUÊTE présentée par les appelants en vue d’obtenir :
+Un abrégement du délai pour signifier le présent avis de requête, prévu à l’article 67 des Règles.
+Une ordonnance indiquant que le présent avis de requête sera entendu conjointement avec la requête de l’intimée datée du 19 novembre 2019, présentée par écrit.
+Dans l’éventualité où, concernant la requête de l’intimée datée du 19 novembre 2019 en vue d’obtenir une ordonnance radiant certains paragraphes de l’avis d’appel, la Cour jugerait que les avis d’appel des appelants manquent de détails, une ordonnance autorisant les appelants à modifier leurs avis d’appel, conformément à l’article 54 des Règles.
+APRÈS LECTURE des documents déposés par l’avocat des appelants et les avocates de l’intimée;
+LA COUR ORDONNE ce qui suit :
+Les appelants sont autorisés à modifier leurs avis d’appel.
+Les dépens suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 17e jour de février 2021.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 5e jour de mai 2021.
+François Brunet, réviseur
+Référence : 2021 CCI 9
+Date : 20210217
+Dossier : 2017-4363(IT)G
+ENTRE :
+881751 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2018-931(IT)G
+ET ENTRE :
+DENIS ROY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge D’Auray
+[1] Les appelants et l’intimée ont tous déposé des avis de requête concernant les deux présents appels connexes.
+[2] Par lettre datée du 21 décembre 2020, les parties ont demandé, conformément à l’article 69 des Règles de la Cour canadienne de l’impôt (procédure générale) (les Règles), que leur requête respective soit tranchée sur la base de leurs observations écrites et sans comparution des parties.
+[3] L’intimée a déposé deux requêtes, l’une relative à l’appel de 881751 Ontario Limited (« 881751 ») et l’autre relative à l’appel de M. Denis Roy. L’intimée a déposé un seul ensemble d’observations écrites portant sur les deux requêtes. Dans les présents motifs de l’ordonnance, je ferai référence à 881751 et à Denis Roy collectivement comme « les appelants ».
+[4] Les appelants, qui sont représentés par le même avocat, ont déposé une requête unique et des observations écrites applicables aux deux appels.
+[5] Les requêtes présentées par l’intimée visent la radiation de certaines parties des avis d’appel des appelants, conformément à l’article 53 des Règles. L’intimée demande également l’autorisation de déposer ses requêtes, en application de l’article 8 des Règles, en raison des irrégularités dans les actes de procédure qui, selon elle, auraient dû être contestées avant qu’elle ne dépose sa liste des documents et qu’elle n’ait achevé l’interrogatoire préalable des appelants.
+[6] Dans leur requête, les appelants demandent l’autorisation de modifier leurs avis d’appel, dans l’éventualité où je déciderais de radier quelque allégation que ce soit de leurs avis d’appel. Les appelants demandent également que j’examine les requêtes de l’intimée et les leurs en même temps.
+[7] Comme l’ont demandé les appelants, je discuterai les requêtes présentées par l’intimée et les appelants dans le même ensemble de motifs. Toutefois, je rendrai des ordonnances distinctes.
+[8] La première question en litige est de savoir si l’intimée doit être autorisée à déposer ses requêtes en radiation. L’article 53 des Règles ne précise pas expressément à quel moment une requête en radiation doit être présentée. Toutefois, l’article 8 des Règles, qui précise à quel moment une telle requête ne peut être présentée, sauf avec l’autorisation de la Cour, peut nous guider. L’article 8 est ainsi libellé :
+8. La requête qui vise à contester, pour cause d’irrégularité, une instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle-ci, ne peut être présentée, sauf avec l’autorisation de la Cour :
+a) après l’expiration d’un délai raisonnable après que l’auteur de la requête a pris ou aurait raisonnablement dû prendre connaissance de l’irrégularité, ou
+b) si l’auteur de la requête a pris une autre mesure dans le cadre de l’instance après avoir pris connaissance de l’irrégularité.
+[9] Dans les deux appels, l’intimée a pris des mesures après l’échange des actes de procédure. Les listes de documents ont été échangées et les interrogatoires préalables ont été réalisés dans chaque cas. Par conséquent, l’intimée demande l’autorisation, aux termes de l’article 8 des Règles, de déposer ses requêtes.
+[10] L’intimée soutient que cette autorisation doit lui être accordée, puisque les avis d’appel contiennent des allégations qui ne sont pas de la compétence de la Cour, et que certaines de ces allégations ne comportent pas suffisamment de faits pertinents qui, s’ils étaient prouvés, pourraient constituer un manquement à la Charte canadienne des droits et libertés (la « Charte »).
+[11] Dans leurs observations écrites, les appelants ne s’opposent pas, ni ne consentent, à ce que cette autorisation soit accordée. Leurs observations écrites sont muettes sur ce point.
+[12] L’intimée ne conteste pas de simples irrégularités, mais évoque l’absence de compétence de la Cour pour entendre certaines des allégations et la non-application de la Charte en matière de cotisations d’impôt sur le revenu. La Cour est ainsi appelée à se pencher sur d’importantes attaques dirigées contre les actes de procédure des appelants. Dans cette perspective, je suis d’avis que les requêtes en radiation de l’intimée doivent être entendues.
+[13] Le pouvoir de radier en tout ou en partie un acte de procédure est prévu par l’article 53 des Règles. Il est ainsi libellé :
+53(1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+(2) Aucune preuve n’est admissible à l’égard d’une demande présentée en vertu de l’alinéa (1)d).
+(3) À la demande de l’intimé, la Cour peut casser un appel si :
+a) elle n’a pas compétence sur l’objet de l’appel;
+b) une condition préalable pour interjeter appel n’a pas été satisfaite;
+c) l’appelant n’a pas la capacité juridique d’introduire ou de continuer l’instance.
+[14] En matière de radiation d'un acte de procédure, ou d' une partie d’un acte de procédure, le critère est rigoureux. Un acte de procédure n'est radié que s’il est évident et manifeste que cet acte ne révèle aucun moyen valable et n’a aucune chance raisonnable d’être accueilli.
+[15] Dans une requête en radiation, la Cour n’entend aucun témoignage, et présume que les faits plaidés sont tenus pour avérés. L’approche de la Cour doit être généreuse et permettre, dans la mesure du possible, l’instruction de toute demande inédite, mais défendable. Ce n’est pas la mission du juge des requêtes de décider si un argument mérite d’être examiné, ou d’en arriver à une conclusion concernant une question litigieuse sur l’interprétation de la loi. Par conséquent, pour qu’une requête en radiation puisse être accueillie, l’irrégularité ou la non-pertinence doit être évidente et manifeste au premier coup d’œil.
+[16] En gardant à l'esprit ces principes, je rechercherai maintenant décider si l’une ou l’autre des allégations présentées par les appelants dans leurs avis d’appel doit être radiée.
+I. Requêtes de l’intimée
+[17] Pour faciliter la lecture des présents motifs, j’ai joint à l’annexe 1 les avis d’appel des appelants.
+[18] L’intimée affirme que les allégations contenues dans les avis d’appel concernant une conduite fautive de la part des fonctionnaires de l’Agence du Revenu du Canada doivent être radiées. L’intimée soutient que la Cour n’a pas compétence pour annuler des cotisations en se fondant sur de telles allégations.
+[19] Je retiens la thèse de l’intimée. La compétence de la Cour se limite à la validité des cotisations. Autrement dit, la Cour peut uniquement déterminer si le ministre du Revenu national a correctement établi le montant des impôts que doit verser le contribuable. La conduite des fonctionnaires de l’Agence du revenu du Canada n’a rien à voir avec le calcul du montant des impôts que doit payer le contribuable.
+[20] Ce point a clairement été établi par la Cour d’appel fédérale dans l’arrêt Main Rehabilitation Co. c. Canada, 2004 CAF 403 [Main Rehabilitation]. La juge Sharlow y a observé que la mission de la Cour canadienne de l’impôt, lors d’un appel en matière fiscale, est d’examiner la validité de la cotisation et non le processus par lequel elle a été établie. Au paragraphe 8 de ses motifs de jugement, la juge Sharlow explique pourquoi notre Cour n’a pas compétence concernant la conduite des fonctionnaires de l’Agence du revenu du Canada :
+[8] Il en est ainsi parce que l’appel interjeté sur le fondement de l’article 169 met en cause la validité de la cotisation et non du processus ayant conduit à l’établir (voir à titre d’exemple Canada c. The Consumers’ Gas Company Ltd., 87 D.T.C. 5008 (C.A.F.), à la page 5012). Autrement dit, il ne s’agit pas de déterminer si les fonctionnaires de l’ADRC ont correctement exercé leurs pouvoirs, mais plutôt de déterminer si les montants pouvaient valablement être cotisés sous le régime de la Loi (Ludco Enterprises Ltd. c. R., [1996] 3 C.T.C. 74 (C.A.F.), à la page 84).
+[21] Le principe consacré par l’arrêt Main Rehabilitation a été confirmé par la Cour d’appel fédérale dans l’arrêt Ereiser c. Canada, 2013 CAF 20. La Cour d’appel a une fois de plus clairement observé que la conduite fautive d’un fonctionnaire du fisc n’est pas pertinente en ce qui concerne la détermination par la Cour de l’impôt de la validité ou du bien-fondé d’une cotisation, et que les allégations de conduite fautive de la part de fonctionnaires de l’Agence du revenu du Canada ne sont pas de mise dans un acte de procédure et doivent être radiées.
+[22] Par conséquent, toutes les allégations de conduite fautive de la part de fonctionnaires de l’Agence du revenu du Canada sont radiées. Dans l’avis d’appel de 881751, ces allégations figurent aux paragraphes 4 à 8, 13, 14, 15 et 19. Dans l’avis d’appel de Denis Roy, ces allégations figurent aux paragraphes 4 à 8, 12, 13, 14 et 18.
+[23] Dans leurs avis d’appel, les appelants soutiennent qu'il y a eu inobservation des droits qu'ils tirent de la Charte. Les appelants allèguent que la vérification a en fait été menée dès le départ à la manière d’une enquête pour évasion fiscale, et que la vérification était bidon. Les appelants soutiennent que les fonctionnaires de l’Agence du revenu du Canada ont utilisé des documents obtenus durant la vérification civile effectuée aux fins d’une enquête pénale. Selon la thèse des appelants, en procédant de cette façon, les fonctionnaires de l’Agence du revenu du Canada ont violé les droits qu'ils tirent des articles 7 et 8 et du paragraphe 11b) de la Charte.
+[24] L’intimée soutient que, selon ce qu’avancent les appelants dans leurs avis d’appel, la Cour ne pourrait rendre une décision parce que les appelants n’ont pas plaidé suffisamment de faits pertinents pour permettre à la Cour d’établir l'inobservation des droits qu'ils tirent de la Charte.
+[25] Dans la décision Klundert c. La Reine, 2013 CCI 208 [Klundert], mon collègue, le juge Pizzitelli, a dû se pencher sur un argument similaire. Il a conclu que l’appelant doit faire plus que formuler des généralités dans son acte de procédure. Les allégations de l’avis d’appel doivent contenir un exposé concis et suffisamment précis des faits pertinents sur lesquels un appelant se fonde pour que notre Cour et l’intimée soient au fait de chaque moyen à examiner de manière appropriée. Les extraits suivants des motifs du juge Pizzitelli dans la décision Klundert sont pertinents en l’espèce :
+[20] L’appelant doit faire plus que formuler des déclarations générales invitant la Cour à conjecturer. Ses actes de procédure doivent contenir un exposé concis et suffisamment précis des faits substantiels sur lesquels il se fonde pour que notre Cour et l’intimée soient au fait de chaque moyen à examiner de manière appropriée. En l’espèce, l’appelant n’a rien fait de cela. Dans l’arrêt Simon c. Canada, 2011 CAF 6, 2011 DTC 5016, la juge Dawson s’est ainsi exprimée, au paragraphe 18 :
+[18] L’exigence selon laquelle l’acte de procédure doit contenir un exposé concis des faits substantiels sur lesquels la partie se fonde est une exigence technique ayant un sens précis en droit. Chaque élément constitutif d’une cause d’action doit être invoqué avec suffisamment de détails. Un récit des faits et du moment où ces faits se sont déroulés risque de ne pas remplir les exigences des Règles. […]
+[21] C’est ce même sentiment que la Cour d’appel fédérale a exprimé dans l’arrêt Merchant Law Group c. Canada Agence du revenu, 2010 CAF 184, [2010] GST 105 (CAF), dans lequel le juge Stratas s’est fondé sur la décision que la Cour d’appel fédérale avait rendue antérieurement à l’occasion de l’affaire Vojic c. Canada (M.R.N.), 87 D.T.C. 5384 (C.A.F.), pour confirmer que, lorsqu’un acte de procédure [traduction] « contien[t] une série de conclusions ne fournissant aucun fait substantiel pour les appuyer », alors [traduction] « [l]a simple affirmation d’une conclusion sur laquelle la Cour est appelée à se prononcer ne constitue pas une allégation d’un fait essentiel ».
+[22] Dans l’arrêt Nelson c. Canada (Ministre de l’Agence des douanes et du revenu), 2001 DTC 5644, le juge Rouleau a également observé, au paragraphe 15 :
+[15] […] En général, il faut tenir pour vrais les faits énoncés dans la déclaration, mais pour déterminer si celle-ci révèle une cause d’action valable, on ne peut se fonder sur des hypothèses et sur des spéculations et on ne peut considérer ces faits comme vrais pour la seule raison que le demandeur les mentionne, vu l’absence de faits susceptibles d’appuyer les allégations en question. […]
+[23] Les actes de procédure ne contiennent aucun élément de preuve permettant à notre Cour de conclure qu’il y a eu violation des droits garantis à l’appelant par la Charte. Contrairement à ce qui s’est passé dans l’affaire O’Neill Motors, précitée, l’intimée n’a admis en aucune manière qu’elle avait obtenu la preuve de manière illégale, pas plus que la Cour supérieure de justice de l’Ontario n’a formulé de conclusion en ce sens, en dépit du fait que l’appelant a eu de multiples occasions d’invoquer une telle question tant devant les juridictions de première instance que d’instance supérieure. En résumé, notre Cour ne dispose d’aucun élément de preuve, conclusion ou argument qui lui permettrait de conclure que les actes de procédure suffisent à établir un quelconque moyen. Nous ne disposons que de conjectures, de spéculations et d’insinuations. Cela ne suffit pas à satisfaire au critère qui permettrait d’affirmer que l’appelant a la moindre chance d’avoir gain de cause.
+[26] Les articles 7 et 8 et le paragraphe 11b) de la Charte se lisent comme suit :
+Article 7 – Chacun a droit à la vie, à la liberté et à la sécurité de sa personne; il ne peut être porté atteinte à ce droit qu’en conformité avec les principes de justice fondamentale.
+Article 8 – Chacun a droit à la protection contre les fouilles, les perquisitions ou les saisies abusives.
+Paragraphe 11b) – Tout inculpé a le droit […] d’être jugé dans un délai raisonnable[.]
+[27] En outre, dans la décision Gratl v. The Queen, 2010 TCC 491 [Gratl], le juge Bowie de notre Cour a conclu que l’article 7 de la Charte ne jouait pas en matière de vérification fiscale et il a radié un paragraphe et la référence corrélative à l’article 7 dans l’avis d’appel de Mme Gratl. Le juge Bowie a observé :
+[traduction]
+[3] [...] Il est cependant évident et manifeste que la jurisprudence exclut l'application des articles 7, 12 et 15 de la Charte. Dans l’arrêt Tyler v. M.N.R. [91 DTC 5022], la Cour d’appel fédérale a relevé la distinction entre une poursuite pénale et une vérification fiscale, et a conclu que, dans le cas d’une vérification fiscale, un processus purement administratif, il n’y a ni suspect, ni d’accusé; voir également l’arrêt Kaulius c. Canada [2003 CAF 371 (CAF)]. L’article 7 ne joue tout simplement pas en matière de vérification fiscale.
+[28] La Cour d’appel fédérale a confirmé la décision du juge Bowie dans l’arrêt Gratl [1] . La juge Sharlow de la Cour d’appel fédérale a conclu qu’une cotisation relative à l’impôt est une affaire de nature civile qui ne touche que des intérêts économiques. Elle ne prive pas la personne à l’égard de laquelle elle est établie de sa vie, de sa liberté ou de la sécurité de sa personne au sens de l’article 7 de la Charte. Voici son raisonnement :
+[6] L’appelante soutient que la Cour de l’impôt a compétence pour accorder des réparations fondées sur la Charte. Nous en convenons, mais nous souscrivons à la conclusion du juge Bowie selon laquelle il est clair et évident qu’une ordonnance annulant ou modifiant une cotisation relative à l’impôt, des pénalités administratives et des intérêts ne peut être justifiée par les articles 7 ou 12 de la Charte. En d’autres termes, même si l’on suppose que les faits allégués au paragraphe 5 du troisième avis d’appel modifié sont véridiques, ils n’indiquent aucune violation des articles 7 ou 12 de la Charte.
+[…]
+[8] Sous le régime de la Loi de l’impôt sur le revenu actuelle, comme sous le régime de celle qui était en vigueur en 2001 et 2002, une cotisation relative à l’impôt est une affaire de nature civile qui ne touche que des intérêts économiques. Elle ne prive pas la personne à l’égard de laquelle elle est établie de sa vie, de sa liberté ou de la sécurité de sa personne au sens de l’article 7 de la Charte, et elle ne place pas cette personne sous le contrôle de l’État d’une façon qui pourrait être considérée comme un traitement ou une peine au sens de l’article 12 de la Charte.
+[29] La Cour d’appel fédérale en est arrivée à une conclusion similaire dans l’arrêt Bauer c. Canada, 2018 CAF 62, où la Cour a expliqué à quel moment les droits consentis par la Charte pouvaient entrer en jeu dans des affaires liées à l’impôt. Le juge Webb a expliqué au paragraphe 15 de ses motifs :
+[...] « [l]es droits qui sont garantis au contribuable par la Charte sont en jeu lorsqu’une vérification devient une enquête criminelle. » Puisque ces droits garantis par la Charte sont en jeu lorsque cette enquête criminelle est lancée, ces droits garantis par la Charte, qui pourraient avoir une incidence sur la recevabilité des documents dans une procédure judiciaire, doivent se rapporter à la procédure découlant de cette enquête criminelle et non à la procédure criminelle qui n’est pas liée à la commission d’une infraction criminelle prévue à la LIR ou à la Loi sur la taxe d’accise.
+[30] Pour que le paragraphe 11b) de la Charte puisse s’appliquer, l'intéressé doit avoir été accusé d’une infraction. Ce n’est tout simplement pas le cas en l’espèce.
+[31] La question en litige dans les présents appels concerne le montant de la cotisation établie, une procédure civile. Par conséquent, je retiens la thèse de l’intimée portant que les allégations et les références relatives à l’article 7 et au paragraphe 11b) de la Charte dans les avis d’appel déposés par les appelants doivent être radiées.
+[32] Cela dit, les appelants ont raison lorsqu’ils affirment que la conduite des agents de l’Agence du revenu du Canada peut, dans certains cas, être soulevée dans une affaire civile. Dans certains cas, la conduite des agents peut influer sur la validité de la cotisation, notamment en ce qui a trait aux montants d’impôts que doit le contribuable. Par exemple, l’article 8 de la Charte a été invoqué dans des cas où le ministre, après la période normale de cotisation, a établi une nouvelle cotisation en s’appuyant uniquement sur des documents obtenus aux termes d’un mandat de perquisition illégal [2] . Les nouvelles cotisations de ce type ont été invalidées par la jurisprudence. Même si tel ne semble pas être le cas en l’espèce, je demeure consciente que, lors de la présentation d’une requête en radiation, la Cour ne doit pas empêcher les parties de plaider de nouveaux arguments, tant qu’ils sont défendables. À la lumière de ce qui précède, je ne radierai pas les paragraphes qui pourraient aboutir à un argument fondé sur l’article 8 de la Charte. Par conséquent, les paragraphes 16, 17 et 18 de l’avis d’appel de 881751 et les paragraphes 15, 16 et 17 de l’avis d’appel de Denis Roy peuvent être conservés.
+[33] L’intimée soutient également que certaines des allégations des avis d’appel des appelants ne contiennent aucun fait pertinent étayant un moyen. L’intimée soutient qu’il est évident et manifeste que les allégations des appelants selon lesquelles il y a eu conduite fautive, notamment que la vérification était bidon et qu’il s’agissait dans les faits, dès le départ, d’une enquête pour évasion fiscale, sont vouées à l’échec, parce que les actes de procédure ne contiennent pas suffisamment de faits pertinents qui, s’ils étaient prouvés, pourraient permettre d’établir une conduite fautive.
+[34] Je retiens la thèse de l’intimée portant que de nombreux paragraphes sous l’intitulé « Material Facts – Charter Issues » (Faits pertinents – Questions relatives à la Charte) dans les avis d’appel des appelants ne contiennent pas suffisamment de faits pertinents étayant un moyen. Cela dit, j’ai déjà radié ces paragraphes. Certains ont été radiés au motif que les appelants ne pouvaient utilement invoquer l’article 7 ou le paragraphe 11(b) de la Charte, et d’autres parce que la conduite fautive des agents de l’Agence du revenu du Canada n’a aucune incidence sur la validité d’une cotisation.
+II. Requête en modification des appelants
+[35] J’accorderai aux appelants l’autorisation de modifier leurs avis d’appel. Même si je doute, comme je l’ai signalé plus haut, que les appelants aient un argument valable fondé sur l’article 8 de la Charte, je n’ai pas radié les paragraphes qui pourraient mener à un argument fondé sur l’article 8. Je rappelle toutefois aux appelants que les Règles les obligent à plaider des faits pertinents pour appuyer leurs allégations concernant l’article 8 de la Charte.
+III. Décision
+[36] L’autorisation est accordée. Les requêtes de l’intimée en radiation des parties des avis d’appel de 881751 et de Denis Roy ont été déposées auprès de notre Cour de façon valide.
+[37] La requête présentée par l’intimée en radiation de certaines parties de l’avis d’appel de 881751 est accueillie, selon les modalités suivantes :
+Les paragraphes suivants de l’avis d’appel déposé par l’appelante, 881751 Ontario Limited, sont radiés selon ce qui suit :
+a) sous l’en-tête « Material Facts – Charter Issues » (Faits pertinents – Questions relevant de la Charte), les paragraphes 13, 14, 15 et 19 sont radiés;
+b) sous l’en-tête « Issues to be decided » (Points en litige), les paragraphes 4, 5, 6, 7 et 8 sont radiés;
+c) sous l’en-tête « Statutory Provisions » (Dispositions législatives), à l’exception de la référence à l’article 8 et au paragraphe 24(1) de la Charte, le paragraphe 4 est radié;
+d) sous l’en-tête « Reasons » (Motifs), le paragraphe 5 est radié;
+e) sous l’en-tête « Relief Sought » (Mesures demandées), le paragraphe 4 est radié.
+Les dépens suivront l’issue de la cause.
+[38] La requête présentée par l’intimée en radiation de certaines parties de l’avis d’appel de Denis Roy est accueillie, selon les modalités suivantes :
+les paragraphes suivants de l’avis d’appel déposé par l’appelant, Denis Roy, sont radiés selon ce qui suit :
+a) sous l’en-tête « Material Facts – Charter Issues » (Faits pertinents – Questions relevant de la Charte), les paragraphes 12, 13, 14 et 18 sont radiés;
+b) sous l’en-tête « Issues to be decided » (Points en litige), les paragraphes 4, 5, 6, 7 et 8 sont radiés;
+c) sous l’en-tête « Statutory Provisions » (Dispositions législatives), à l’exception de la référence à l’article 8 et au paragraphe 24(1) de la Charte, le paragraphe 4 est radié;
+d) sous l’en-tête « Reasons » (Motifs), le paragraphe 4 est radié;
+e) sous l’en-tête « Relief Sought » (Mesures demandées), le paragraphe 4 est radié.
+Les dépens suivront l’issue de la cause.
+[39] La requête déposée par les appelants en autorisation de modifier leurs avis d’appel est accueillie, conformément aux motifs qui précèdent. Les dépens suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 17e jour de février 2021.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 5e jour de mai 2021.
+François Brunet, réviseur ANNEXE 1
+APPEL DEVANT LA COUR CANADIENNE DE L’IMPÔT – PROCÉDURE GÉNÉRALE
+___________________________________
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+881751 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction]
+AVIS D’APPEL
+(a) Nom et adresse de l’appelante
+886, promenade Suez
+Hanmer (Ontario) P3P 1Y7
+NE : 12359 0598 RC0001
+(b) Nouvelles cotisations initiales
+Date Année d’imposition
+30 mai 2012 31 mars 2006
+30 mai 2012 31 mars 2007
+30 mai 2012 31 décembre 2007
+Nouvelles cotisations subséquentes
+Date Année d’imposition
+1er août 2017 31 mars 2006
+1er août 2017 31 mars 2007
+1er août 2017 31 décembre 2007
+(c) Faits pertinents – Questions ne relevant pas de la Charte
+L’appelante est une société privée sous contrôle canadien. M. Denis Roy était le principal actionnaire et l’âme dirigeante de l’appelante, jusqu’au 31 décembre 2007. M. Mike Labelle est devenu l’unique actionnaire et l’âme dirigeante de l’appelante par la suite.
+L’appelante achète et revend de la ferraille.
+Le ou vers le 30 mai 2012, l’Agence du revenu du Canada a établi de nouvelles cotisations pour les années d’imposition de l’appelante se terminant le 31 mars 2006 et le 31 mars 2007 et pour l’exercice raccourci se terminant le 31 décembre 2007. Ces nouvelles cotisations ont été établies plus de trois ans après la date de cotisation initiale (c’est-à-dire la cotisation établie après la production des déclarations de revenus).
+Les avis d’opposition relatifs aux nouvelles cotisations mentionnées ci-dessus ont été préparés et déposés comme il se doit, à la suite desquels de nouvelles cotisations ont été établies pour les périodes indiquées ci-dessus le ou vers le 1er août 2017. Le présent avis d’appel concerne ces nouvelles cotisations (du 1er août 2017) et, par conséquent, les nouvelles cotisations initiales.
+Entre autres choses, les nouvelles cotisations du 1er août 2017 indiquaient que certains revenus n’avaient pas été déclarés et refusaient certaines dépenses, selon ce qui suit :
+[EN BLANC]
+31 mars 2006
+31 mars 2007
+31 déc. 2007
+Revenus non déclarés
+212 663,25 $
+85 289,21 $
+249 581,93 $
+Dépenses refusées
+17 503,13
+33 583,41
+7 483,96
+Total :
+230 166,38 $
+118 872,62 $
+257 065,89 $
+Tous les revenus et dépenses d’entreprise ont été déclarés de façon exacte et complète dans les déclarations de revenus initiales de l’appelante qui ont été produites en ce qui a trait aux principes comptables et aux principes du droit fiscal. Le revenu imposable de l’appelante pour chacun de ces trois exercices financiers a été déclaré de façon exacte et complète dans les déclarations de revenus initiales qui ont été produites.
+Denis Roy, durant la période visée par le présent appel, a utilisé des fonds tirés de son compte de banque personnel pour acheter des stocks pour l’appelante. Ces stocks ont été vendus par l’appelante. Le revenu imposable déterminé par l’Agence du revenu du Canada ne tient pas correctement compte des dépenses imputables à l’achat de stocks avec ces fonds.
+Entre autres choses, ces nouvelles cotisations invoquaient les alinéas 18(1)a) et 18(1)h) de la Loi, au motif que, de l’avis de l’Agence du revenu du Canada, l’appelante avait engagé des dépenses en la personne de Denis Roy qui n’étaient pas déductibles dans le calcul du revenu imposable de l’appelante.
+Durant la période visée par le présent appel, l’appelante a présenté et engagé des dépenses qui étaient entièrement liées à l’entreprise de l’appelante (et qui n’étaient pas des dépenses personnelles), et qui étaient déductibles dans le calcul de son revenu; en outre, ces dépenses n’étaient pas interdites par les paragraphes 18(1)a) et 18(1)h) de la Loi. Certaines de ces dépenses n’ont pas été réclamées dans les déclarations de revenus initiales de l’entreprise.
+Les nouvelles cotisations mentionnées ci-dessus invoquaient des pénalités au titre du paragraphe 163(2) de la Loi. Le fait est que l’appelante n’a pas délibérément, ou dans des circonstances équivalant à faute lourde, fait de faux énoncés ou des omissions dans ses déclarations, et n’y pas participé, consenti ou acquiescé. M. Denis Roy est un honnête homme qui a peu de connaissances en matière de comptabilité et de fiscalité. Toute erreur qui aurait été commise (ce que nie l’appelante) est attribuable à son innocence, à son ignorance et à une simple erreur, et non à une faute lourde ou à une faute délibérée.
+L’Agence du revenu du Canada a fondé les nouvelles cotisations sur son hypothèse selon laquelle les conditions préalables prévues par le paragraphe 152(4) avaient été satisfaites en l’espèce. Le fait est que l’appelante n’a pas fait une présentation erronée des faits par négligence, inattention, omission volontaire ou fraude. Si une présentation erronée des faits a été faite (ce que nie l’appelante), elle l’a été par innocence, ignorance et simple erreur.
+Faits pertinents – Questions relevant de la Charte
+Les nouvelles cotisations du 30 mai 2012 ont été établies à la suite d’une vérification effectuée par des fonctionnaires de l’Agence du revenu du Canada qui a débuté en 2007.
+Cette vérification a en fait été menée dès le départ à la manière d’une enquête pour évasion fiscale. Des éléments de preuve ont été recueillis grâce à une vérification civile. La vérification était bidon.
+La vérification était motivée par la malveillance à l’égard de Denis Roy et de l’appelante. Les mesures prises par l’Agence du revenu du Canada étaient malveillantes, arbitraires et inappropriées.
+La vérification n'a pas respecté le protocole établi ou habituel de l’Agence du revenu du Canada. Cet écart du protocole établi ou habituel avait pour but d'occulter le fait qu’une enquête pour évasion fiscale était menée.
+L’appelante n’a été informée qu’elle faisait l’objet d’une enquête que le 3 mai 2010. Le 18 mai 2010, l’Agence du revenu du Canada a obtenu et exécuté des mandats de perquisition visant l’appelante et d’autres personnes.
+À la suite de l’exécution de ces mandats, l’Agence du revenu du Canada a recueilli des documents et des renseignements.
+On n’a jamais déposé de chefs d’accusation d’évasion fiscale à l’égard de l’appelante, ni de l’un ou l’autre de ses associés.
+Les renseignements obtenus au moyen de la vérification bidon et des mandats de perquisition ont été utilisés pour établir de nouvelles cotisations punitives à l’égard de l’appelante.
+D’autres faits seront révélés au moment de l’instruction de l’affaire ou avant.
+(d) Points en litige
+(e) Dispositions législatives
+(f) Motifs
+(g) Mesures demandées
+(h) Signé à North Bay en ce 30e jour d’octobre 2017.
+Quel est le revenu imposable de l’appelante pour les années d’imposition se terminant le 31 mars 2006 et le 31 mars 2007, et pour l’exercice raccourci se terminant le 31 décembre 2007?
+Dans les circonstances, est-ce que les conditions préalables prévues par le paragraphe 163(2) de la Loi sont réunies, de telle sorte que des pénalités pour faute lourde doivent être imposées à l’appelante? Les pénalités doivent-elles être toutes annulées?
+Est-ce que les nouvelles cotisations mentionnées ci-dessus sont frappées de prescription, ou est-ce que les conditions requises prévues par le paragraphe 152(4) sont réunies et permettent de valider ces nouvelles cotisations? Les nouvelles cotisations doivent-elles être toutes annulées?
+Durant la période de vérification, l’Agence du revenu du Canada a-t-elle procédé en réalité à une enquête pour évasion fiscale?
+Durant la période de vérification, l’Agence du revenu du Canada a-t-elle adopté une conduite arbitraire, malveillante ou inappropriée?
+Est-ce que l’Agence du revenu du Canada a, par sa conduite, manqué à la protection que tirent de par la Charte canadienne des droits et libertés une société ou ses agents et administrateurs?
+Si la réponse aux questions 4, 5 ou 6 ci-dessus est affirmative, alors les nouvelles cotisations doivent-elles être toutes annulées?
+Si la réponse à la question 4 ci-dessus est affirmative, est-ce qu’une partie ou la totalité des éléments de preuve obtenus doivent être exclus, et est-ce que l’Agence du revenu du Canada doit être tenue de justifier les nouvelles cotisations sans tenir compte de ces éléments de preuve, à défaut de quoi toutes les nouvelles cotisations doivent être annulées?
+D’autres points en litige seront présentés avant l’instruction de l’affaire.
+Article 9 de la Loi de l’impôt sur le revenu du Canada.
+Alinéas 18(1)a) et 18(1)h) de la Loi de l’impôt sur le revenu du Canada.
+Paragraphe 163(2) de la Loi de l’impôt sur le revenu du Canada.
+Paragraphes 152(3.1) et (4) de la Loi de l’impôt sur le revenu du Canada.
+Articles 7 et 8, alinéa 11b) et paragraphe 24(1) de la Charte canadienne des droits et libertés.
+D’autres dispositions seront invoquées avant l’instruction de l’affaire.
+Compte tenu de toutes les circonstances, toutes les dépenses réclamées par l’appelante sont déductibles, et constituent des dépenses d’entreprise nécessaires liées à l’entreprise de l’appelante. Dans tous les cas, ces dépenses ne sont pas des dépenses personnelles. Par conséquent, les alinéas 18(1)a) et 18(1)h) ne jouent pas dans le cas de l’appelante.
+L’article 9 de la Loi de l’impôt sur le revenu du Canada, L.R.C. (1985) ch. 1 (5e supplément) (la « Loi ») exige que le coût des stocks (vendus par l’appelante) directement assumé par M. Denis Roy soit déduit dans le calcul du revenu.
+Les conditions préalables prévues par le paragraphe 163(2) de la Loi ne sont pas réunies dans ces circonstances et, par conséquent, des pénalités pour faute lourde ne peuvent être imposées à l’appelante.
+Les nouvelles cotisations visées par le présent appel sont nulles, car elles ont été établies plus de trois ans après l’envoi par la poste de la cotisation initiale, et les conditions prévues par le paragraphe 152(4) ne sont pas réunies.
+La conduite de l’Agence du revenu du Canada lors de la vérification de l’appelante était telle qu’elle constituait une violation des droits que tirent les agents et administrateurs de la Charte des droits et libertés, et les nouvelles cotisations produites à la suite de cette conduite doivent être annulées ou par ailleurs réduites. À cet égard, l’appelante invoque l'enseignement des arrêts R. c. Jarvis, [2002] 3 RCS 757, R. c. Ling, [2002] 3 RCS 814, et Canada c. O’Neill Motors Ltd., 98 DTC 6424 (CAF).
+D’autres motifs seront invoqués au moment de l’instruction de l’affaire ou avant.
+L’appelante demande que l’affaire soit renvoyée au ministre du Revenu national pour nouvelle cotisation, au motif que les déclarations de revenus produites initialement étaient exactes.
+L’appelante demande que le présent appel soit accueilli au motif que les nouvelles cotisations sont frappées de prescription.
+L’appelante demande que le présent appel soit accueilli au motif que toutes les pénalités imposées doivent être annulées.
+L’appelante demande que le présent appel soit accueilli au motif que toutes les nouvelles cotisations doivent être annulées, parce que l’Agence du revenu du Canada a violé les droits qu'elle et ses agents et administrateurs tirent de la Charte canadienne des droits et libertés.
+L’appelante demande ses dépens en l’espèce.
+D’autres mesures de redressement seront demandées au moment de l’instruction de l’affaire ou avant.
+GREGORY J. DUCHARME
+PROFESSIONAL CORPORATION
+409, rue McIntyre Ouest
+North Bay (Ontario) P1B 2Z3
+À l’attention de : Me Gregory J. DuCharme
+Téléphone : 705-471-5947
+Télécopieur : 1-800-673-2806
+Avocat de l’appelante
+À : Sa Majesté du chef du Canada, représentée par le procureur général du Canada
+À LA COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+881751 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction]
+AVIS D’APPEL
+GREGORY J. DUCHARME
+PROFESSIONAL CORPORATION
+409, rue McIntyre Ouest
+North Bay (Ontario) P1B 2Z3
+À l’attention de : Me Gregory J. DuCharme
+Téléphone : 705-471-5947
+Télécopieur : 1-800-673-2806
+Avocat de l’appelante
+APPEL DEVANT LA COUR CANADIENNE DE L’IMPÔT – PROCÉDURE GÉNÉRALE
+___________________________________
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+DENIS ROY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction]
+AVIS D’APPEL
+(a) Nom et adresse de l’appelant
+5512, chemin Capreol
+Hanmer (Ontario) P3P 1Y7
+NAS : 455 638 585
+(b) Nouvelles cotisations initiales
+Date Année d’imposition
+28 mai 2012 2005
+28 mai 2012 2006
+28 mai 2012 2007
+Nouvelles cotisations subséquentes
+Date Année d’imposition
+13 décembre 2017 2005
+13 décembre 2017 2006
+13 décembre 2017 2007
+(c) Faits pertinents – Questions ne relevant pas de la Charte
+L’appelant était le principal actionnaire et l’âme dirigeante de 881751 Ontario Limited jusqu’au 31 décembre 2007. M. Mike Labelle est devenu l’unique actionnaire et l’âme dirigeante de 881751 Ontario Limited par la suite.
+Durant toute la période pertinente, 881751 Ontario Limited achetait et revendait de la ferraille.
+Le ou vers le 28 mai 2012, l’Agence du revenu du Canada a établi de nouvelles cotisations pour les années d’imposition 2005, 2006 et 2007 de l’appelant. Ces nouvelles cotisations ont été établies plus de trois ans après la date de cotisation initiale (c’est-à-dire la cotisation établie après la production des déclarations de revenus).
+Les avis d’opposition relatifs aux nouvelles cotisations mentionnées ci-dessus ont été préparés et déposés comme il se doit, à la suite desquels de nouvelles cotisations ont été établies pour les périodes indiquées ci-dessus le ou vers le 31 décembre 2017. Le présent avis d’appel concerne ces nouvelles cotisations (du 31 décembre 2017), et par conséquent, les nouvelles cotisations initiales.
+Les nouvelles cotisations du 13 décembre 2017 s’appuyaient sur les conclusions suivantes tirées par l’Agence du revenu du Canada :
+[EN BLANC]
+2005
+2006
+2007
+Montants des revenus affectés
+213 158,00 $
+111 749,00 $
+225 210,00 $
+Dépenses personnelles payées par 881751 Ontario Limited
+8 936,00
+22 199,00
+6 369,00
+Total :
+222 094,00 $
+133 948,00 $
+231 579,00 $
+Tous les revenus et dépenses de l’appelant ont été déclarés de façon exacte et complète dans ses déclarations de revenus initiales qui ont été produites, compte tenu des principes comptables et des principes du droit fiscal. Le revenu imposable de l’appelant pour chacun de ces trois exercices financiers a été déclaré de façon exacte et complète dans les déclarations de revenus initiales qui ont été produites.
+L’appelant, durant la période visée par le présent appel, a utilisé des fonds tirés de son compte de banque personnel pour acheter des stocks pour 881751 Ontario Limited. Ces stocks ont été vendus par 881751 Ontario Limited. Le revenu imposable déterminé par l’Agence du revenu du Canada ne tient pas compte de ce fait.
+Entre autres choses, ces nouvelles cotisations invoquaient le paragraphe 15(1) de la Loi de l’impôt sur le revenu du Canada (la « Loi »), au motif que, de l’avis de l’Agence du revenu du Canada, l’appelant avait reçu des avantages de 881751 Ontario Limited.
+Les nouvelles cotisations mentionnées ci-dessus invoquaient des pénalités au titre du paragraphe 163(2) de la Loi. Le fait est que l’appelant n’a pas délibérément, ou dans des circonstances équivalant à faute lourde, fait de faux énoncés ou des omissions dans ses déclarations, et n’y pas participé, consenti ou acquiescé. L’appelant est un honnête homme qui a peu de connaissances en matière de comptabilité et de fiscalité. Toute erreur qui aurait été commise (ce qu’il nie) est attribuable à son innocence, à son ignorance et à une simple erreur, et non à une faute lourde ou à une faute délibérée.
+L’Agence du revenu du Canada a fondé les nouvelles cotisations sur son hypothèse selon laquelle les conditions préalables prévues par le paragraphe 152(4) de la Loi avaient été satisfaites en l’espèce. Le fait est que l’appelant n’a pas fait une présentation erronée des faits par négligence, inattention, omission volontaire ou fraude. Si une présentation erronée des faits a été faite (ce que nie l’appelant), elle l’a été par innocence, ignorance et simple erreur.
+Faits pertinents – Questions relevant de la Charte
+Les nouvelles cotisations du 28 mai 2012 ont été établies à la suite d’une vérification effectuée par des fonctionnaires de l’Agence du revenu du Canada qui a débuté en 2007.
+Cette vérification a en fait été menée dès le départ à la manière d’une enquête pour évasion fiscale. Des éléments de preuve ont été recueillis grâce à une vérification civile. La vérification était bidon.
+La vérification était motivée par la malveillance à l’égard de l’appelant et de 881751 Ontario Limited. Les mesures prises par l’Agence du revenu du Canada étaient malveillantes, arbitraires et inappropriées.
+La vérification n'a pas respecté le protocole établi ou habituel de l’Agence du revenu du Canada. Cet écart du protocole établi ou habituel avait pour but d'occulter le fait qu’une enquête pour évasion fiscale était menée.
+L’appelant n’a été informé qu’il faisait l’objet d’une enquête que le 3 mai 2010. L’Agence du revenu du Canada a obtenu et exécuté des mandats de perquisition visant l’appelant.
+À la suite de l’exécution de ces mandats, l’Agence du revenu du Canada a recueilli des documents et des renseignements.
+On n’a jamais déposé de chefs d’accusation d’évasion fiscale à l’égard de l’appelant, ni de 881751 Ontario Limited.
+Les renseignements obtenus au moyen de la vérification bidon et des mandats de perquisition ont été utilisés pour établir de nouvelles cotisations punitives à l’égard de l’appelant.
+D’autres faits seront révélés au moment de l’instruction de l’affaire ou auparavant.
+(d) Points en litige
+(e) Dispositions législatives
+(f) Motifs
+(g) Mesures demandées
+(h) L’appelant demande que la présente affaire soit entendue en même temps que l’appel 881751 Ontario Limited c. Sa Majesté la Reine (no du dossier de la Cour 2017-4363(IT)G), puisque les deux appels sont connexes.
+Quel est le revenu imposable de l’appelant pour les années d’imposition 2005, 2006 et 2007?
+Dans les circonstances, est-ce que les conditions préalables prévues par le paragraphe 163(2) de la Loi sont réunies, de telle sorte que des pénalités pour faute lourde doivent être imposées à l’appelant? Les pénalités doivent-elles être toutes annulées?
+Est-ce que les nouvelles cotisations mentionnées ci-dessus sont frappées de prescription, ou est-ce que les conditions requises prévues par le paragraphe 152(4) sont réunies et permettent de valider ces nouvelles cotisations? Les nouvelles cotisations doivent-elles être toutes annulées?
+Durant la période de vérification, l’Agence du revenu du Canada a-t-elle procédé en réalité à une enquête pour évasion fiscale?
+Durant la période de vérification, l’Agence du revenu du Canada a-t-elle adopté une conduite arbitraire, malveillante ou inappropriée?
+Est-ce que l’Agence du revenu du Canada a, par sa conduite, manqué à la protection que tirent de par la Charte canadienne des droits et libertés la société ou ses agents et administrateurs?
+Si la réponse aux questions 4, 5 ou 6 ci-dessus est affirmative, alors les nouvelles cotisations doivent-elles être toutes annulées?
+Si la réponse à la question 4 ci-dessus est affirmative, est-ce qu’une partie ou la totalité des éléments de preuve obtenus doivent être exclus, et est-ce que l’Agence du revenu du Canada doit être tenue de justifier les nouvelles cotisations sans tenir compte de ces éléments de preuve, à défaut de quoi toutes les nouvelles cotisations doivent être annulées?
+D’autres points en litige seront présentés avant l’instruction de l’affaire.
+Article 9 de la Loi de l’impôt sur le revenu du Canada.
+Article 15 de la Loi de l’impôt sur le revenu du Canada.
+Paragraphe 163(2) de la Loi de l’impôt sur le revenu du Canada.
+Paragraphes 152(3.1) et (4) de la Loi de l’impôt sur le revenu du Canada.
+Articles 7 et 8, alinéa 11b) et paragraphe 24(1) de la Charte canadienne des droits et libertés.
+D’autres dispositions seront invoquées avant l’instruction de l’affaire.
+L’appelant n’a obtenu aucun avantage de 881751 Ontario Limited.
+Les conditions préalables prévues par le paragraphe 163(2) de la Loi ne sont pas réunies dans ces circonstances et, par conséquent, des pénalités pour faute lourde ne peuvent être imposées à l’appelant.
+Les nouvelles cotisations visées par le présent appel sont nulles, car elles ont été établies plus de trois ans après l’envoi par la poste de la cotisation initiale, et les conditions prévues par le paragraphe 152(4) de la Loi ne sont pas réunies.
+La conduite de l’Agence du revenu du Canada lors de la vérification de l’appelant était telle qu’elle constituait une violation des droits que tire l’appelant de la Charte des droits et libertés, et les nouvelles cotisations produites à la suite de cette conduite doivent être annulées ou par ailleurs réduites. À cet égard, l’appelante invoque l'enseignement des arrêts R. c. Jarvis, [2002] 3 RCS 757, R. c. Ling, [2002] 3 RCS 814, et Canada c. O’Neill Motors Ltd., 98 DTC 6424 (CAF).
+D’autres motifs seront invoqués au moment de l’instruction de l’affaire ou auparavant.
+L’appelant demande que l’affaire soit renvoyée au ministre du Revenu national pour nouvelle cotisation, au motif que les déclarations de revenus produites initialement étaient exactes.
+L’appelant demande que le présent appel soit accueilli au motif que les nouvelles cotisations sont frappées de prescription.
+L’appelant demande que le présent appel soit accueilli au motif que toutes les pénalités imposées doivent être annulées.
+L’appelant demande que le présent appel soit accueilli au motif que toutes les nouvelles cotisations doivent être annulées, parce que l’Agence du revenu du Canada a manqué aux droits que lui et ses agents et administrateurs tirent de la Charte canadienne des droits et libertés.
+L’appelant demande ses dépens en l’espèce.
+D’autres mesures seront demandées au moment de l’instruction de l’affaire ou auparavant.
+Signé à North Bay, ce 8e jour de mars 2018.
+GREGORY J. DUCHARME
+PROFESSIONAL CORPORATION
+409, rue McIntyre Ouest
+North Bay (Ontario) P1B 2Z3
+À l’attention de : Me Gregory J. DuCharme
+Téléphone : 705-471-5947
+Télécopieur : 1-800-673-2806
+Avocat de l’appelant
+À : Sa Majesté du chef du Canada, représentée par le procureur général du Canada
+À LA COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+DENIS ROY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction]
+AVIS D’APPEL
+GREGORY J. DUCHARME
+PROFESSIONAL CORPORATION
+409, rue McIntyre Ouest
+North Bay (Ontario) P1B 2Z3
+À l’attention de : Me Gregory J. DuCharme
+Téléphone : 705-471-5947
+Télécopieur : 1-800-673-2806
+Avocat de l’appelant
+RÉFÉRENCE :
+2021 CCI 9
+NOS DU DOSSIER DE LA COUR :
+2017-4363(IT)G, 2018-931(IT)G
+INTITULÉ :
+881751 ONTARIO LIMITED c. SA MAJESTÉ LA REINE
+DENIS ROY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Requêtes écrites
+DATE DE L’AUDIENCE :
+S. O.
+MOTIFS DU JUGEMENT :
+L’honorable juge Johanne D’Auray
+DATE DE L’ORDONNANCE :
+Le 17 février 2021
+COMPARUTIONS :
+Avocat des appelants :
+Me Gregory J. DuCharme
+Avocates de l’intimée :
+Me Charlotte Deslauriers et
+Me Tanis Halpape
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Gregory J. DuCharme
+Cabinet :
+Gregory J. DuCharme Professional Corporation
+North Bay (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Gratl c. Canada, 2012 CAF 88.
+[2] Voir Canada c. O’Neill Motors Ltd., [1998] 4 CF 180 (CAF), Brown c. Canada, 2013 CAF 111, et SPE Valeur Assurable Inc. c. La Reine, 2019 CCI 174 (la décision n’a pas encore été traduite en anglais et fait l’objet d’un appel devant la Cour d’appel fédérale).

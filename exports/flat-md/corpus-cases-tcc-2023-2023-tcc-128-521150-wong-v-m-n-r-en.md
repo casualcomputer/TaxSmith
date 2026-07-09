@@ -1,0 +1,139 @@
+---
+title: "Wong v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521150/index.do"
+last_modified: "2023-09-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 128"
+citation2: ""
+neutral_citation: "2023 TCC 128"
+decision_date: "2023-09-05"
+language: "en"
+item_id: "521150"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5679
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:44:27.915000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "03888a9b20028648a438c0c72dcbd35a9f84234b8e4b394ba910ea4cc2c0e680"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wong v. M.N.R.
+
+- Citation: 2023 TCC 128
+- Decision date: 2023-09-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5679, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wong v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-09-05
+Neutral citation
+2023 TCC 128
+File numbers
+2023-51(EI)
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2023-51(EI)
+BETWEEN:
+SELINA WONG,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Motion made by the Respondent in writing for an order to quash the Appellant’s appeal filed with the Tax Court of Canada on January 10, 2023
+Before: The Honourable Justice Gaston Jorré, Deputy Judge
+Written Submissions:
+For the Appellant:
+The Appellant did not provide submissions
+Counsel for the Respondent:
+Katherine Matthews
+ORDER
+In accordance with the attached reasons for order,
+The motion shall be set down for hearing at the first available sitting in Vancouver.
+Signed at Ottawa, Canada, this 23rd day of August 2023.
+“G. Jorré”
+Jorré J.
+Citation: 2023 TCC 128
+Date: 20230823
+Docket: 2023-51(EI)
+BETWEEN:
+SELINA WONG,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR ORDER
+Jorré J.
+[1] This matter was referred to me during a week where I was acting as the duty judge.
+[2] The Respondent has filed a motion seeking to have this appeal quashed on the basis that this court does not have jurisdiction to hear the appeal. The Respondent has also asked that the motion be dealt with in writing.
+[3] The registry of the Court wrote to the Appellant on 4 April 2023 inviting her to comment on the motion. As of the writing of these reasons no response has been received from the Appellant.
+[4] This appeal has been opened as an employment insurance appeal and the Appellant is self‑represented.
+[5] Employment insurance appeals under the Tax Court of Canada Act follow a procedure that one might describe as quasi‑informal since many, but not all, key
+features of the informal procedure for tax appeals apply to employment insurance appeals.[1]
+[6] Parties other than the Minister of National Revenue are only occasionally represented by counsel. With the leave of the court it is possible to have document discovery and examination for discovery; however, discovery is rare in practice.[2]
+[7] The vast majority of employment insurance appeals are, in practice, similar in procedural and evidentiary terms to informal income tax appeals.
+[8] This quasi‑informal procedure is intended to make the court and its procedures accessible as well as relatively simple, inexpensive and expeditious. This objective is reflected in subsection 18.15(3) of the Tax Court of Canada Act, which applies to employment insurance appeals.[3] It reads:
+Notwithstanding the provisions of the Act under which the appeal arises, the Court is not bound by any legal or technical rules of evidence in conducting a hearing and the appeal shall be dealt with by the Court as informally and expeditiously as the circumstances and considerations of fairness permit.
+[9] Most unrepresented parties have great difficulty in dealing with a motion in writing.
+[10] Given the objectives of the procedure, it is not generally appropriate to proceed by a motion in writing in employment insurance appeals where the Appellant is not represented by counsel.[4] I am satisfied that in this case it is appropriate to hold a hearing.
+[11] Before concluding, I would draw to the attention of the Appellant that, in the Respondent’s written representations, at paragraphs 14 and 15 in Part III, the Respondent takes the position that this Court has no jurisdiction and that the matter belongs in the Federal Court. The Appellant should seriously consider the possibility of protecting her position by also filing an application for judicial review in the Federal Court; should the Appellant decide to do so she would have to also apply to the Federal Court for a time extension to do so.
+[12] For these reasons, this matter should go to hearing.
+Signed at Ottawa, Canada, this 23rd day of August 2023.
+“G. Jorré”
+Jorré J.
+CITATION:
+2023 TCC 128
+COURT FILE NO.:
+2023-51(EI)
+STYLE OF CAUSE:
+SELINA WONG AND M.N.R.
+MOTION REFERRED TO THE JUDGE:
+During the week of 8 August 2023.
+REASONS FOR ORDER BY:
+The Honourable Justice Gaston Jorré, Deputy Judge
+DATE OF ORDER:
+August 23, 2023
+WRITTEN SUBMISSIONS:
+For the Appellant:
+The Appellant did not provide submissions
+Counsel for the Respondent:
+Katherine Matthews
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Paragraph 18.29(1)(b) of the Tax Court of Canada Act.
+[2] See section 18 of Tax Court of Canada Rules of Procedure respecting the Employment Insurance Act.
+[3] As a result of paragraph 18.29(1)(b) of the Tax Court of Canada Act.
+[4] Of course, even if an Appellant has counsel, it may be that the particular circumstances of the appeal render it appropriate to have an oral hearing. There may also be special circumstances where it is appropriate to proceed by motion in writing in appeals where the Appellant does not have counsel.
+See also my reasons for order in the appeal of Beauregard (Succession) v. The King, 2023 TCC 99 (CanLII).
+Although it was an informal income tax case and, in other respects, the surrounding circumstances are quite different, the comments of Justice Bowie at paragraph 7 of Batt v. R. 2005 TCC 565 are instructive. He said, in part:
+Before leaving this matter, I wish to express my view as to the appropriateness of this kind of motion. Parliament has made provision in the Tax Court of Canada Act for appeals involving small amounts of money to proceed to a hearing with dispatch. There is neither production of documents nor examinations for discovery, oral or by interrogatories. The Respondent has 60 days in which to deliver a Reply, and the hearing, barring exceptional circumstances, must be fixed for a date no more than 180 days later. Motions of this kind are the antithesis of the summary procedure that Parliament had in mind. They serve no useful purpose, except to spare the Deputy Attorney General the trouble of delivering a Reply to the Notice of Appeal. Any point that may be taken on a motion to quash may equally be taken on the hearing of the appeal. There may infrequently be cases in which the facts are complex and substantial preparation would be required before a trial on the merits, or ones where witnesses would be required to attend from a distance for a trial; in such cases, there may be some justification for the Respondent raising technical objections to the appeal before pleading. In the normal case, however, and certainly in cases such as this where there is apparently no dispute about the facts, such motions serve no useful purpose and have the effect of thwarting the clear intention of Parliament. . . .]

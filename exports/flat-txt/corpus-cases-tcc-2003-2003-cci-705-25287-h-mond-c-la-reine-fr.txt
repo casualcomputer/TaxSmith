@@ -1,0 +1,65 @@
+Title: Hémond c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25287/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-705-25287-h-mond-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-10-24
+
+# Hémond c. La Reine
+
+- Citation: 2003 CCI 705
+- Decision date: 2003-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2400, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hémond c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-24
+Référence neutre
+2003 CCI 705
+Numéro de dossier
+2002-4694(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI705
+Date : 20031024
+Dossier : 2002-4694(IT)I
+ENTRE :
+CLAUDE HÉMOND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Prononcés oralement sur le banc le 12 septembre 2003 à Sherbrooke (Québec) et révisés à Ottawa, Canada, le 9 octobre 2003.)
+Le juge Paris
+[1] Cet appel a été entendu à Sherbrooke (Québec) le 12 septembre 2003.
+[2] L'appelant interjette appel des cotisations d'impôt sur le revenu à l'égard des années d'imposition 1997, 1998 et 1999. Le ministre du Revenu national (le « Ministre » ) a refusé une partie des déductions réclamées par l'appelant au titre de dépenses d'entreprise. Les montants en question sont les suivants : pour 1997, 15 088,91 $; pour 1998, 13 977,71 $; pour 1999, 10 763,34 $.
+[3] L'appelant est omnipraticien à Sherbrooke, et se spécialise en gériatrie et soins palliatifs. Pendant les années en litige, il a travaillé dans une clinique à Bromptonville (deux jours par semaine), à un centre d'accueil à Sherbrooke et à l'hôpital Hôtel-Dieu à Sherbrooke; il faisait aussi des visites à domicile chez des patients âgés. La plupart des déductions refusées par le Ministre étaient des frais d'automobile, des dépenses reliées à un bureau à domicile, des montants pour des congrès et pour les repas, et des frais de représentation.
+[4] La preuve présentée devant la Cour révèle que l'appelant a chez lui un bureau qui sert exclusivement à des fins professionnelles. Ce bureau lui est nécessaire pour faire la gestion et la planification de son entreprise, pour faire du développement professionnel, pour étudier les dossiers des patients et analyser les résultats des tests de laboratoire, pour rencontrer certains patients et représentants de sociétés pharmaceutiques, et pour faire et recevoir des appels téléphoniques.
+[5] La question en litige en ce qui concerne les frais de bureau est de savoir si le bureau à domicile de l'appelant remplit les exigences de l'alinéa 18(12)a) de la Loi de l'impôt sur le revenu. Les frais de son bureau à domicile sont déductibles si (1) ce bureau était son principal lieu de travail, ou (2) s'il servait exclusivement à tirer un revenu d'une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l'entreprise.
+[6] À mon avis, le bureau à domicile de l'appelant ne peut être considéré comme son lieu principal de travail ni du point de vue du temps qu'il y passait, ni du point de vue de la quantité de travail y effectuée. L'appelant lui-même a témoigné qu'il rencontrait beaucoup plus de patients à la clinique de Bromptonville, au centre d'accueil et à l'hôpital qu'à la maison, et le temps consacré à ses activités à ces trois endroits dépassait le temps qu'il passait au bureau.
+[7] Pourtant, j'admets que le bureau à domicile satisfait à la condition énoncée au sous-alinéa 18(12)a)(ii). L'appelant et sa femme ont témoigné que les patients et les responsables du centre d'accueil appelaient souvent et régulièrement au bureau à domicile, soit pour des conseils et pour discuter des cas, soit pour des ordonnances et des diagnostics. L'appelant a dit que tous ces appels étaient des actes médicaux et étaient facturés. L'appelant donnait rendez-vous à la maison à certains patients, et cela pouvait aller jusqu'à un ou deux rendez-vous par semaine.
+[8] Dans l'affaire très semblable à la présente espèce au niveau des faits, Vanka c. La Reine, [2001] A.C.I. no 663, ma collègue la juge Lamarre Proulx a accepté que les rencontres avec les patients visés au sous-alinéa 18(12)a)ii puissent se passer par téléphone. Elle dit au paragraphe 13 du jugement :
+[...] Bien que les termes « rencontrer [...] des patients » soient utilisés dans la disposition législative, je ne suis pas convaincue que cela exige la présence physique des patients dans le local de travail à domicile.
+[9] Le procureur de l'intimée a soutenu que le fait que l'appelant n'était pas branché sur le réseau informatique de la clinique de Bromptonville distingue le présent cas de l'affaire Vanka précitée. Je suis convaincu que l'appelant pouvait quand même faire le suivi administratif nécessaire relativement aux appels des patients à son bureau à domicile.
+[10] La déduction de certains montants réclamée par l'appelant au titre des fournitures de bureau a été refusée parce qu'il n'avait pas de pièces justificatives. Son témoignage quant à ces dépenses m'a paru vague et les montants dont il réclamait la déduction m'ont semblé être des estimations. Pour ces raisons, la déduction des montants de 300 $ pour un modem fax et de 500 $ pour la papeterie en 1997 et de 391 $ pour la papeterie en 1998 n'est pas accordée.
+[11] Il paraît que l'appelant ne tenait pas de livres ni de compte de dépenses d'entreprise et, au départ, déduisait aussi des dépenses personnelles. Tout contribuable doit être en mesure de prouver les dépenses dont il demande la déduction. Je réduirai les montants déduits au titre des repas de 25 % parce que la preuve révèle que, dans une certaine proportion, ces repas n'avaient pas été pris dans le but de tirer un revenu d'une entreprise.
+[12] La seule preuve des frais de représentation est la pièce A-7, qui consiste en des chèques et en certains billets de loterie. L'appelant les a décrits comme des dons de charité qu'il avait faits dans le cadre de son entreprise. Les chèques ont été tirés sur un compte ouvert au nom de l'appelant et de sa femme, et non pas sur le compte d'affaires, ce qui me mène à la conclusion que les montants en question sont des dépenses personnelles. Les billets de loterie n'ont pas de lien avec l'entreprise et la déduction est refusée à leur égard. La déduction des montants pour les congrès est cependant accordée.
+[13] La dernière catégorie de dépenses consiste en des frais de véhicule. J'accepte les chiffres indiqués par l'appelant dans la pièce A-3 pour ce qui est des distances parcourues dans ses déplacements aux fins de son entreprise. Pourtant, le kilométrage total fait par l'appelant n'était pas évident dans son témoignage; il n'a pas tenu de journal pour noter l'utilisation de son auto ou de l'auto de sa femme et, pour cette raison, j'accepte les chiffres utilisés par le vérificateur, soit 30 000 km au total pour l'année 1997 et 35 000 km pour les années 1998 et 1999. Par conséquent, la proportion des frais de véhicule serait de 75 % en 1997 et 1999 et de 80 % en 1998. Cela tient compte des distances supplémentaires parcourues par l'appelant à cause d'une augmentation de réunions tenu au sujet des fusions d'hôpitaux en 1998.
+[14] Il y a quelques modifications qui devraient être apportées à la liste des dépenses d'automobile fournie dans la pièce A-4. Pour 1999, le montant de 497,83 $ pour les pneus devrait être enlevé parce que ce montant avait déjà été pris en compte par le vérificateur (voir la pièce I-1 à la page 6). Pour 1998, la déduction au titre de l'assurance devrait être réduite au montant de 758,54 $ admis par le vérificateur, parce qu'il n'y a pas eu d'explication pourquoi le montant de l'assurance pour cette année était nettement supérieur aux montants déduits pour les deux autres années.
+[15] Pour1999, les dépenses s'élèva à 934,44 $ au total pour une boîte Thule et le porte-bagages pour la fourgonnette ne sont pas des dépenses d'entreprise. Pour les années 1998 et 1999, je n'accorde pas la déduction du montant de 1 000 $ par année au titre de dépenses d'entretien pour lesquelles il n'y a pas de factures.
+[16] Enfin, les déductions au titre d'honoraires n'ont pas été mentionnées dans le témoignage de l'appelant. Je présume qu'il ne conteste pas la réduction faite par le vérificateur mais, de toute façon, l'appelant avait le fardeau de la preuve à cet égard, et il ne s'est pas acquitté de sa charge.
+[17] En sommaire, l'appelant a droit à des déductions additionnelles de 9 824,93 $ pour 1997, de 9 816,60 $ pour 1998 et de 10 004,31 $ pour 1999. Comme l'appelant obtient gain de cause relativement à plus de 50 % des montants en litige, l'appel sera accueilli, avec dépens.
+Signé à Ottawa (Canada) ce 24e jour d'octobre 2003.
+« B. Paris »
+Le juge Paris

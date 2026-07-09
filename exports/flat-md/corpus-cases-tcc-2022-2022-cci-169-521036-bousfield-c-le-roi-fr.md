@@ -1,0 +1,636 @@
+---
+title: "Bousfield c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521036/index.do"
+last_modified: "2022-12-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 169"
+citation2: ""
+neutral_citation: "2022 CCI 169"
+decision_date: "2022-12-28"
+language: "fr"
+item_id: "521036"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5770
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T09:59:36.929000+00:00"
+cases_cited_count: 16
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9eea6318442a398517d5517f777732d13e8a8765af375af35ec1092e96771b13"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bousfield c. Le Roi
+
+- Citation: 2022 CCI 169
+- Decision date: 2022-12-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5770, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bousfield c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-12-28
+Référence neutre
+2022 CCI 169
+Numéro de dossier
+2015-1001(GST)G, 2015-1002(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2015-1001(GST)G
+2015-1002(IT)G
+ENTRE :
+JONATHON BOUSFIELD,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 13, 14, 15, 16 novembre 2018, le 31 octobre, les 1er, 2, 3, 7, 8 et 9 novembre 2022, à Regina (Saskatchewan)
+Devant : L'honorable juge David E. Graham
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me John Krowina
+JUGEMENT
+Les appels portant sur les années d'imposition 2006, 2007 et 2008 de l'appelant sont accueillis et renvoyés au ministre du Revenu national pour nouvel examen et nouvelle cotisation, en tenant compte du fait que :
+a)le revenu net d'entreprise de l'appelant doit être réduit de 49 211 $ en 2006;
+b)le revenu net d'entreprise de l'appelant doit être réduit de 54 668 $ en 2007;
+c)le revenu net d'entreprise de l'appelant doit être réduit de 51 485 $ en 2008;
+d)les pénalités imposées pour les années 2006 et 2007, en application du paragraphe 163(2) de la Loi de l'impôt sur le revenu doivent être annulées.
+Les appels visant les périodes de déclaration de l'appelant se terminant entre le 1er juillet 2007 et le 31 décembre 2008 sont accueillis et renvoyés au ministre du Revenu national pour nouvel examen et nouvelle cotisation, en tenant compte du fait que la taxe nette devra être réduite du montant suivant, au cours des périodes suivantes :
+Période de déclaration
+Réduction de la taxe nette
+Du 1er juillet au 30 septembre 2007
+899,25 $
+Du 1er octobre au 31 décembre 2007
+899,25 $
+Du 1er janvier au 31 mars 2008
+650,92 $
+Du 1er avril au 30 juin 2008
+650,92 $
+Du 1er juillet au 30 septembre 2008
+650,92 $
+Du 1er octobre au 31 décembre 2008
+650,92 $
+Les parties ont jusqu'au 27 janvier 2023 pour parvenir à un accord sur les dépens, à défaut de quoi elles auront jusqu'au 3 mars 2023 pour signifier et déposer leurs observations écrites sur les dépens, puis elles auront jusqu'au 17 mars 2023 pour signifier et déposer une réponse écrite. Ces observations ne doivent pas dépasser dix pages. Si les parties n'informent pas la Cour qu'elles sont parvenues à un accord et que la Cour ne reçoit pas d'observations dans les délais mentionnés précédemment, chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 28e jour de décembre 2022.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+Ce 27e jour de novembre 2023.
+François Brunet, réviseur
+Référence : 2022 CCI 169
+Date : 20221228
+Dossiers : 2015-1001(GST)G
+2015-1002(IT)G
+ENTRE :
+JONATHON BOUSFIELD,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+I. Aperçu [1] En 2006, 2007 et 2008, Jonathan Bousfield exploitait une entreprise de taxis et de transport à Regina. M. Bousfield possédait plusieurs véhicules. Il utilisait un véhicule comme taxi. Il utilisait au moins un autre véhicule pour offrir des services de transport à une entreprise appartenant à son frère.
+[2] Le ministre du Revenu national a établi de nouvelles cotisations à l'égard de M. Bousfield afin d'augmenter son revenu tiré de l'entreprise de taxis, au moyen d'une combinaison de quatre différentes techniques de cotisations subsidiaires. Le ministre a également augmenté le revenu de M. Bousfield qui provenait de son entreprise de transport. Le ministre a en outre rejeté les déductions que M. Bousfield avait demandées pour ses diverses dépenses, au motif que ces dépenses n'avaient pas été faites ou qu'elles l'avaient été, mais pas dans un but commercial. Enfin, le ministre a imposé des pénalités pour faute lourde.
+[3] Le ministre a apporté les rajustements correspondants aux périodes de déclaration de TPS de M. Bousfield se terminant entre le 1er juillet 2007 et le 31 décembre 2008.
+[4] M. Bousfield a interjeté appel à l'encontre de toutes les nouvelles cotisations qui en ont découlé.
+II. Questions en litige [5] La seule question en litige la plus importante dans les présents appels a trait à l'établissement du revenu tiré de l'entreprise de taxis de M. Bousfield.
+[6] Je n'ai jamais vu autant de techniques de cotisations subsidiaires différentes utilisées pour un contribuable. Le ministre a calculé le revenu tiré de l'entreprise de taxis de M. Bousfield en utilisant la moyenne de quatre techniques différentes. M. Bousfield a répliqué au moyen de trois techniques différentes. Enfin, afin de mieux déterminer le revenu de M. Bousfield, j'ai dû créer de mon propre chef une technique modifiée.
+[7] Les présents appels soulèvent des questions intéressantes au sujet de la manière dont des techniques de cotisations subsidiaires peuvent être contestées, de l'utilisation de moyennes de l'industrie dans les techniques de cotisations subsidiaires, de l'utilisation d'hypothèses de fait dans les techniques de cotisations subsidiaires et de la capacité d'un contribuable à se fonder sur ses propres techniques de cotisations subsidiaires.
+[8] Après avoir traité du revenu tiré de l'entreprise de taxis, je me pencherai sur les questions de moindre importance qui portent sur le revenu tiré de l'entreprise de transport de M. Bousfield, ses dépenses, l'incidence sur la TPS de tout changement que je pourrai apporter et, enfin, l'imposition de pénalités pour faute lourde.
+III. Techniques de cotisations subsidiaires [9] Les techniques de cotisations subsidiaires sont parfois appelées « cotisations arbitraires » ou « cotisations fondées sur l'avoir net ». Cependant, ces trois expressions ont des sens très différents.
+[10] Une cotisation arbitraire est une cotisation que le ministre établit avec peu, voire aucune analyse, dans le but d'inciter un contribuable, qui a omis de produire une déclaration de revenus, à le faire.
+[11] En revanche, une technique de cotisation subsidiaire comporte un certain degré d'analyse et implique des calculs (souvent très détaillés) afin de déterminer les recettes ou le revenu du contribuable.
+[12] Une cotisation fondée sur l'avoir net constitue un type de technique de cotisation subsidiaire. Bien que les cotisations fondées sur l'avoir net représentent peut-être la forme la plus courante de technique de cotisation subsidiaire, qualifier toutes les techniques de cotisations subsidiaires de cotisations fondées sur l'avoir net est à la fois inexact et susceptible de porter à confusion.
+[13] Les présents appels fournissent un excellent exemple des différences entre ces trois termes.
+[14] M. Bousfield n'a pas produit de déclarations de revenus pour ses années d'imposition 2006 et 2007. Pour faire en sorte qu'il les produise, le ministre a établi des cotisations arbitraires. Cela a incité M. Bousfield à produire des déclarations pour ces années et à produire sa déclaration pour 2008. Le ministre a ensuite vérifié M. Bousfield. Le vérificateur a utilisé des techniques de cotisations subsidiaires afin de déterminer de manière plus précise le revenu tiré de l'entreprise de taxis de M. Bousfield. Le ministre a établi de nouvelles cotisations pour les années 2006 et 2007 et il a établi une nouvelle cotisation pour l'année 2008 en se fondant, en partie, sur ces techniques.
+[15] M. Bousfield a répliqué au moyen de trois techniques de cotisations subsidiaires créées de son propre chef. Deux de ces techniques tentent de déterminer son revenu tiré de l'entreprise de taxis. La troisième technique est une cotisation fondée sur l'avoir net. Elle tente de calculer son revenu total de toutes sources.
+A. Utilisation de techniques de cotisations subsidiaires [16] Le paragraphe 152(7) de la Loi de l'impôt sur le revenu permet au ministre d'établir des cotisations arbitraires ou d'établir une cotisation à l'égard d'un contribuable au moyen d'une technique de cotisation subsidiaire[1]. Le paragraphe n'établit pas une technique particulière à utiliser[2].
+[17] Les techniques de cotisations subsidiaires ne devraient pas être la norme. Elles devraient être utilisées en dernier recours[3]. Cela dit, même si le ministre n'utilise généralement pas des techniques de cotisations subsidiaires, sauf si les documents comptables d'un contribuable sont un moyen inadéquat de déterminer son revenu ou ses recettes, des documents comptables insuffisants ne constituent pas une condition préalable à l'application d'une technique de cotisation subsidiaire.
+[18] La Cour n'a pas besoin d'être convaincue qu'il était nécessaire que le ministre utilise une technique de cotisation subsidiaire. Le ministre peut, en tout temps, utiliser une technique de cotisation subsidiaire, peu importe l'état des registres du contribuable[4].
+[19] Le paragraphe 152(7) de la Loi indique expressément que le ministre n'est pas lié par les déclarations ou renseignements fournis par le contribuable et que le ministre peut, indépendamment de la déclaration ou des renseignements ainsi fournis, établir une cotisation. Ce paragraphe ne précise pas que les registres du contribuable doivent être insuffisants. Une fois que le ministre a établi une cotisation en application du paragraphe 152(7) de la Loi, selon le paragraphe 152(8) de la Loi, cette cotisation est réputée être valide, sous réserve des modifications qui peuvent y être apportées ou de son annulation lors d'une opposition ou d'un appel.
+[20] Bien qu'il semble ressortir parfois de la jurisprudence que des documents comptables non fiables constituent une condition préalable à l'établissement d'une cotisation en application du paragraphe 152(7) de la Loi, il est plus exact de dire que des documents comptables fiables sont un moyen, pour un contribuable, de contester une technique de cotisation subsidiaire. Les cinq moyens de contester une technique de cotisation subsidiaire sont décrits ci-dessous.
+B. Contester des techniques de cotisations subsidiaires [21] Lorsque le ministre détermine le revenu ou les recettes d'un contribuable à l'aide d'une technique de cotisation subsidiaire, le contribuable peut obtenir gain de cause :
+a)en démontrant que son revenu ou ses recettes peuvent être calculés avec plus de précision à l'aide de ses propres documents comptables[5];
+b)en acceptant le caractère adéquat de la technique de cotisation subsidiaire utilisée par le ministre, mais en contestant des composantes du calcul, afin de réduire le revenu ou les recettes[6];
+c)si l'année en question est frappée de prescription, en démontrant que la technique de cotisation subsidiaire utilisée par le ministre est fondamentalement erronée[7];
+d)en présentant une autre technique de cotisation subsidiaire qui calcule avec plus de précision le revenu ou les recettes du contribuable[8];
+e)en acceptant le caractère adéquat de la technique de cotisation subsidiaire utilisée par le ministre, mais en démontrant que le revenu ou les recettes calculés au moyen de cette technique provenaient d'une source non imposable[9].
+[22] La troisième option décrite précédemment étant très importante pour les appels de M. Bousfield, je l'expliquerai brièvement.
+[23] À moins qu'une année soit frappée de prescription, un contribuable ne peut pas obtenir gain de cause en démontrant simplement que la technique de cotisation subsidiaire du ministre est fondamentalement erronée. Le ministre aura émis des hypothèses de fait pour étayer sa technique, mais il aura aussi émis une hypothèse de fait selon laquelle le contribuable a gagné le revenu ou les recettes calculés au moyen de cette technique. Il appartient au contribuable de réfuter cette hypothèse.
+[24] Le contribuable ne peut pas réfuter l'hypothèse en démontrant simplement que la technique de cotisation subsidiaire est fondamentalement erronée. Le contribuable ne peut réfuter l'hypothèse qu'en démontrant que les recettes ou le revenu présumés provenaient d'une source non imposable ou en présentant à la Cour une autre façon viable d'établir les recettes ou le revenu du contribuable, qu'il s'agisse des propres documents du contribuable ou d'une autre technique.
+[25] Si cela n'était pas le cas, songez à ce qu'il arriverait à un contribuable, s'il gagnait un revenu, mais ne possédait aucun document comptable et n'avait pas produit de déclaration de revenus. Si le contribuable pouvait obtenir gain de cause en démontrant simplement que la technique de cotisation subsidiaire que le ministre a utilisée pour établir une cotisation à son égard était fondamentalement erronée, la cotisation serait annulée et le contribuable finirait par n'avoir aucun revenu pour l'année. Le contribuable serait récompensé pour avoir omis de se conformer à ses obligations aux termes de la Loi de l'impôt sur le revenu.
+[26] La situation serait, bien évidemment, très différente si l'année en question était frappée de prescription. Dans ce cas-là, il incomberait à l'intimé de prouver que le contribuable avait du revenu non déclaré[10]. Si la Cour estimait que la technique de cotisation subsidiaire que le ministre a utilisée était fondamentalement erronée, l'intimé ne serait pas en mesure de le faire. Le contribuable n'aurait pas à montrer qu'il détenait d'autres recettes ou revenu d'un certain montant.
+C. Méthode de M. Bousfield [27] Dans le cas de M. Bousfield, aucune des années en cause n'est frappée de prescription. Par conséquent, M. Bousfield doit faire plus que simplement démontrer que les techniques de cotisations subsidiaires du ministre sont fondamentalement erronées. Il doit avoir recours à au moins l'une des quatre méthodes restantes pour les contester. C'est ce qu'il a fait.
+[28] Il a affirmé que ses documents comptables sont un moyen plus précis d'établir son revenu tiré de l'entreprise de taxis, que les techniques de cotisations subsidiaires utilisées par le ministre étaient erronées et que ses propres techniques de cotisations subsidiaires sont meilleures. Je discuterai chacun de ces arguments successivement.
+IV. Les documents comptables sont inadéquats [29] Avant d'examiner les documents comptables de M. Bousfield, je veux souligner que la seule raison pour laquelle j'examine cette question est parce que M. Bousfield affirme que ses documents comptables constituent un moyen plus précis d'établir ses recettes tirées de l'entreprise de taxis. Comme je l'ai indiqué précédemment, des documents comptables non fiables ne constituent pas une condition préalable à l'établissement d'une cotisation en application du paragraphe 152(7) de la Loi.
+[30] En outre, j'examine d'abord cette question, non pas parce que je dois le faire, mais plutôt parce que ce faisant, cela aide à expliquer l'activité de M. Bousfield d'une manière qui me permettra plus tard d'analyser plus clairement les techniques de cotisations subsidiaires utilisées par les parties.
+[31] Je conclus que les documents comptables de M. Bousfield, qui résultent de son entreprise de taxis, ne sont pas un moyen suffisant de calculer ses recettes. Il effectuait un suivi des recettes à l'aide de différents systèmes, mais il n'utilisait pas régulièrement ces systèmes. Ses chauffeurs de taxi ou lui-même n'ont pas rempli les documents nécessaires ou ne les ont pas conservés.
+[32] Pour expliquer quels sont les documents que M. Bousfield aurait dû avoir, je dois d'abord expliquer comment son entreprise de taxis fonctionnait.
+A. Entreprise de taxis [33] Au cours des années en question, une entreprise de taxis à Regina avait besoin de quatre choses : une plaque de taxi délivrée par la ville, un véhicule, une compagnie de répartition et un chauffeur titulaire d'un permis. M. Bousfield avait un véhicule, mais pas une plaque de taxi. Il louait sa plaque auprès du propriétaire de la plaque, par l'intermédiaire d'une entreprise nommée Capital Cabs. Capital Cabs agissait aussi à titre d'expéditrice du taxi.
+[34] M. Bousfield était un chauffeur de taxi titulaire d'un permis. Il conduisait parfois lui-même son taxi. Cependant, la plupart du temps, il concluait avec divers chauffeurs ce qu'il qualifiait de sous-location. Aux termes des dispositions des contrats de sous-location, M. Bousfield et le chauffeur divisaient en parts égales (50-50) le prix de toutes les courses d'un quart donné. De la même manière, M. Bousfield et le chauffeur divisaient en parts égales le coût du carburant.
+[35] Ayant énoncé les principes fondamentaux du fonctionnement de l'entreprise de taxis de M. Bousfield, je peux désormais expliquer pourquoi ses documents comptables étaient inadéquats.
+B. L'entreprise de taxis reposait en grande partie sur des transactions faites en espèces [36] La grande majorité des recettes qui provenaient de l'entreprise de taxis de M. Bousfield était générée en espèces. Il réglait en espèces un grand nombre de ses dépenses. Il payait notamment ses chauffeurs en espèces, la plupart du temps. Les entreprises qui utilisent la méthode de comptabilité de caisse s'exposent toujours à un risque accru de déclaration partielle. Cela veut dire qu'il est encore plus important pour l'entreprise que le système de suivi de ses recettes demeure fiable.
+[37] M. Bousfield a principalement eu recours à ce qu'il a appelé un système [traduction] d'« enveloppes blanches ». Capital Cabs lui remettait des enveloppes préimprimées. Les chauffeurs de M. Bousfield étaient censés inscrire la date, leur nom et les heures de leurs quarts dans la partie supérieure des enveloppes. Ils devaient ensuite consigner les lieux où ils se rendaient pour venir chercher et déposer chaque voyageur, le montant de la course et si la course était payée en espèces ou par un moyen de paiement autre que les espèces, comme une carte de crédit.
+[38] À la fin du quart, les chauffeurs étaient censés utiliser les enveloppes blanches pour calculer la part de 50 % du prix de leurs courses et de leurs frais d'essence. Ils devaient récupérer cette part de la somme en espèces obtenue et laisser le reste des espèces dans l'enveloppe, pour M. Bousfield.
+[39] Capital Cabs traitait l'ensemble des paiements par carte de crédit et des paiements faits par une entreprise, une institution gouvernementale ou un conseil scolaire pour le compte de M. Bousfield. Je qualifierai ces types de paiements de courses non payées en espèces.
+[40] Capital Cabs envoyait à M. Bousfield un rapprochement mensuel des courses non payées en espèces qu'elle avait perçues en son nom et, après avoir déduit les paiements de location versés au propriétaire de la plaque de taxi par M. Bousfield et les frais de répartition de ce dernier, elle lui remettait un chèque.
+[41] Idéalement, les enveloppes blanches, qui montraient les courses payées en espèces et celles qui n'étaient pas payées en espèces, ainsi que les relevés mensuels de Capital Cabs, qui montraient les courses non payées en espèces, auraient dû suffire pour établir de manière exacte quelles étaient les recettes que M. Bousfield tirait de son entreprise de taxis. Le ministre aurait pu vérifier l'exactitude de ces documents en les recoupant avec les sommes déposées dans le compte bancaire de M. Bousfield et son grand livre. Ce n'était pas idéal.
+C. Des enveloppes blanches étaient manquantes et incomplètes [42] M. Bousfield n'a pas pu fournir la plupart des enveloppes blanches. Par exemple, pour 2006, il n'a pu fournir que cinq enveloppes pour le mois de mai, deux enveloppes pour avril et novembre et il n'a pu fournir aucune enveloppe pour janvier, mars, juin, octobre ou décembre. Il n'a fourni en tout que 81 enveloppes pour toute l'année. Si le taxi était conduit à raison de deux quarts par jour, il devrait y avoir 780 enveloppes pour l'année. Même en tenant compte des jours où le taxi était peut-être en révision, des jours où aucun chauffeur n'était disponible, des jours de mauvais temps et des chauffeurs qui remplissaient des enveloppes pour plus d'un jour, M. Bousfield demeure sérieusement à court d'enveloppes. Sans ces enveloppes blanches, les documents de M. Bousfield ne constituent pas un moyen fiable d'établir ses recettes.
+[43] Qui plus est, il manquait un grand nombre d'éléments d'information essentiels dans les enveloppes blanches fournies par M. Bousfield, notamment le nom du chauffeur, la date et les heures du quart. Il était ainsi difficile, voire impossible, de rapprocher l'information que ces enveloppes contenaient des versements que M. Bousfield a effectués sur son compte bancaire et des écritures qu'il a reportées à son grand livre.
+[44] En outre, étant donné que M. Bousfield payait les chauffeurs en espèces, plutôt que par chèque, il ne disposait d'aucun autre moyen pour indiquer quelle était leur part des recettes dans les enveloppes manquantes.
+D. Les autres méthodes de suivi des recettes étaient inadéquates [45] Pour des raisons inexpliquées, M. Bousfield utilisait un autre système pour effectuer le suivi des recettes relatives à son principal chauffeur qui travaillait de jour. Ce chauffeur s'appelait Ron Hooper. M. Hooper effectuait essentiellement des quarts de jour, du lundi au vendredi, pendant l'année scolaire.
+[46] M. Hooper et M. Bousfield ont chacun utilisé leurs propres systèmes de suivi des recettes. Aucun de ces systèmes n'impliquait l'utilisation d'enveloppes blanches.
+[47] M. Hooper tenait un carnet de route dans lequel il consignait ses courses. Il me semble qu'il n'a pas donné à M. Bousfield une copie de ce carnet de route.
+[48] Au départ, M. Bousfield effectuait le suivi des courses de M. Hooper à l'aide de petits bordereaux. Chaque mois, il remplissait ces bordereaux. Aucun détail quotidien n'y était consigné; les renseignements qui y figuraient ne pouvaient pas être rapprochés de l'information contenue dans le carnet de route de M. Hooper et les paiements en espèces ou les paiements autres qu'en espèces n'y étaient pas ventilés. M. Bousfield n'a pas expliqué comment il savait quelle somme d'argent il devait inscrire sur les bordereaux, chaque mois.
+[49] Vers la fin de 2006, M. Bousfield a même abandonné ce système de bordereaux et a simplement utilisé des morceaux de papier inutilisés. Il est revenu au système de bordereaux pour la première moitié de 2007. Au cours de la deuxième moitié de 2007 et pendant toute l'année de 2008, il n'a utilisé aucun système ou il n'a gardé aucune trace du système qu'il a utilisé.
+[50] Comme je l'exposerai plus en détail ci-dessous, je conclus que seule une petite partie des paiements en espèces a été comptabilisée à titre de recettes sur les bordereaux et les morceaux de papier. Cela signifie que seule une petite partie de ces paiements a été inscrite aux livres de M. Bousfield. Cela rend ce système de comptabilisation des recettes pas du tout fiable.
+E. M. Bousfield n'a pas de compétences en comptabilité [51] Au cours des années en question, M. Bousfield a utilisé QuickBooks pour comptabiliser son revenu d'entreprise. Il admet volontiers qu'il ne connaît rien au programme et qu'il ignore comment consigner correctement les opérations. Même si l'intégralité de son grand livre n'a pas été déposée en preuve, il ressort clairement des saisies effectuées par M. Bousfield que ce dernier commettait régulièrement des erreurs.
+F. Conclusion [52] Compte tenu de tout ce qui précède, je conclus que les documents comptables de M. Bousfield ne constituent pas un moyen fiable d'établir ses recettes tirées de l'entreprise de taxis. Le seul moyen d'établir les recettes de taxi consiste à recourir à une sorte de technique de cotisation subsidiaire.
+[53] J'examinerai les techniques utilisées par le ministre, puis les techniques proposées par M. Bousfield et enfin la technique modifiée à l'égard de laquelle j'ai conclu qu'elle rend le plus exactement compte des recettes tirées de l'entreprise de taxis de M. Bousfield.
+V. Techniques de cotisations subsidiaires utilisées par le ministre [54] La vérificatrice, Sherry Canton, a témoigné au sujet des techniques de cotisations subsidiaires qu'elle a utilisées pour établir les recettes de M. Bousfield. J'ai conclu que Mme Canton était un témoin crédible. Même si je ne souscris pas nécessairement aux méthodes qu'elle a choisies, sa connaissance approfondie des questions en litige m'a impressionné.
+[55] Mme Canton a utilisé la moyenne de quatre techniques de cotisations subsidiaires différentes pour établir les recettes du taxi de M. Bousfield. J'examinerai chacune de ces techniques.
+A. Technique d'établissement des recettes quotidiennes moyennes [56] La première technique que Mme Canton a utilisée pour établir les recettes du taxi de M. Bousfield consistait à calculer les recettes quotidiennes moyennes de taxi.
+[57] Avant d'examiner la technique elle-même, je dois d'abord traiter l'utilisation des moyennes de l'industrie et l'importance des hypothèses de fait dans les techniques de cotisations subsidiaires.
+(i) Utilisation des moyennes de l'industrie et chiffres de Statistique Canada [58] Dans leurs techniques de cotisations subsidiaires, les deux parties se sont appuyées sur les moyennes de l'industrie et sur les chiffres de Statistique Canada, ou ont tenté de le faire. Ces types de moyennes et de chiffres figurent souvent dans les techniques de cotisations subsidiaires. Cependant, il serait extrêmement inhabituel qu'une partie, en réalité, convoque un témoin pour qu'il explique comment les moyennes ou les chiffres ont été établis. En l'absence de ce témoin, que devrait faire la Cour avec ces types de moyennes et de chiffres? La réponse dépend de la façon dont ils sont utilisés.
+[59] Il n'y a rien de mal à ce que le ministre utilise, comme base d'une hypothèse, une moyenne de l'industrie ou un chiffre de Statistique Canada. En fait, le ministre le fait régulièrement dans les techniques de cotisations subsidiaires.
+[60] Dans la décision Bigayan c. La Reine, le juge en chef Bowman a été en présence de chiffres de Statistique Canada qui avaient été utilisés pour l'estimation de dépenses personnelles afférentes à une cotisation fondée sur l'avoir net. Il a fait observer qu'aucun représentant de Statistique Canada n'avait été assigné comme témoin et qu'on ne lui avait présenté aucune preuve de la manière dont les chiffres ont été obtenus. Il a néanmoins conclu que « [s]i peu fiables que puissent être les chiffres de Statistique Canada, ils représentent en tout cas les hypothèses du ministre, et il appartenait à l'appelant de les réfuter »[11].
+[61] En d'autres termes, le ministre n'a pas à prouver l'exactitude de la moyenne ou du chiffre. Le ministre formule simplement une hypothèse de fait, selon laquelle la moyenne ou le chiffre s'appliquait au contribuable. Il appartient au contribuable de réfuter cette hypothèse.
+[62] Par contre, si l'une ou l'autre des parties veut se servir de moyennes de l'industrie ou de chiffres de Statistique Canada comme éléments de preuve, la partie concernée devra convoquer un témoin pour expliquer comment les moyennes ou les chiffres ont été établis. En l'absence de ce témoin, ces moyennes et chiffres ne devraient pas être admis en preuve. Ils constituent du ouï-dire.
+[63] Un exemple permettra de clarifier cette distinction. Comme cela est décrit dans la décision Bigayan, au moment d'établir une cotisation fondée sur l'avoir net, le ministre s'appuie parfois sur des moyennes de Statistique Canada pour estimer les dépenses personnelles d'un contribuable. Supposons qu'à l'aide de ces moyennes, le ministre a présumé qu'un contribuable a dépensé 1 000 $ par mois pour nourrir lui-même et sa famille.
+[64] L'intimé n'aurait pas à convoquer un témoin de Statistique Canada pour expliquer comment cette moyenne avait été établie. Le ministre formulerait simplement l'hypothèse.
+[65] Il appartiendrait au contribuable de réfuter cette hypothèse. Pour ce faire, il pourrait présenter un témoignage oral ou, mieux encore, fournir une preuve de ses dépenses en épicerie réelles.
+[66] Le contribuable ne pouvait pas toutefois réfuter l'hypothèse en invoquant un rapport de Santé Canada indiquant que les familles dépensaient 700 $ par mois en nourriture, sauf s'il appelait un représentant de Santé Canada à témoigner. Il en est ainsi parce que contrairement au ministre, qui s'est appuyé sur les chiffres de Statistique Canada pour qu'ils constituent la base de son hypothèse, le contribuable tenterait de présenter le rapport de Santé Canada pour la véracité de son contenu.
+(ii) Les hypothèses de fait dans les techniques de cotisations subsidiaires [67] L'intimé doit exposer dans la réponse les hypothèses de fait que le ministre a formulées dans lors de l'établissement de la cotisation[12]. Si le ministre a formulé une hypothèse, mais l'intimé a omis de l'inclure dans la réponse, ce dernier ne profite pas du fait que l'hypothèse est présumée vraie. Si l'intimé veut se fonder sur l'hypothèse qu'il n'a pas alléguée, il doit présenter des éléments de preuve pour l'appuyer, comme il le ferait s'il voulait se fonder sur un fait dont le ministre n'avait pas tenu compte[13].
+[68] Si le ministre a utilisé une technique de cotisation subsidiaire, l'intimé ne devrait pas simplement invoquer le fait que le ministre a présumé que le contribuable avait un revenu ou des recettes s'élevant à X $. L'intimé devrait aussi invoquer les faits présumés par le ministre au moment de calculer ce revenu ou ces recettes. Cela est vrai, car non seulement l'intimé a l'obligation de communiquer au contribuable l'intégralité des conclusions de fait précises qui ont donné lieu à la controverse[14], mais aussi parce que si l'intimé omet de le faire et que le contribuable conteste ces faits, il incombe à l'intimé de les prouver.
+(iii) Analyse de la technique [69] Ayant établi les règles de base concernant les moyennes de l'industrie et les hypothèses de fait, je vais maintenant passer à mon analyse de la technique d'établissement des recettes quotidiennes moyennes.
+[70] Mme Canton a examiné une étude sur l'industrie du taxi à Regina qu'un expert-conseil avait préparée pour la ville de Regina. En se fondant sur cette étude, elle a présumé que l'entreprise de taxis de M. Bousfield gagnait 800 $ par jour.
+[71] Mme Canton a reconnu qu'il était probablement impossible que le taxi de M. Bousfield soit sur la route chaque jour de l'année, du fait de réparations, de chauffeurs malades et d'intempéries. Elle a estimé qu'il conduisait 343 jours de l'année. En multipliant son chiffre de 800 $, qui correspondait aux recettes quotidiennes présumées, par les 343 jours, Mme Canton a établi que les recettes de l'entreprise de taxis de M. Bousfield s'élevaient chaque année à 274 000 $.
+[72] J'émets deux réserves à l'égard de cette technique. Premièrement, bien qu'il me semble clair que Mme Canton a formulé une hypothèse de fait, selon laquelle les recettes de l'entreprise de taxis de M. Bousfield s'élevaient à 800 $ par jour, 343 jours par an, l'intimé n'a pas allégué ces hypothèses de fait dans la réponse. Cela signifie que si l'intimé voulait se fonder sur ces faits, il devait les prouver. Or, l'intimé ne l'a pas fait.
+[73] Bien que le raisonnement de Mme Canton, qui l'a amené à choisir 343 jours par an, me paraisse séduisant, en l'absence d'une hypothèse, il ne s'agit ni plus ni moins de son avis.
+[74] Quant aux 800 $ de recettes par jour, je ne dispose d'aucun élément de preuve corroborant ce chiffre. L'intimé ne peut pas se fonder sur l'étude concernant les taxis à Regina. Si l'intimé avait allégué l'hypothèse selon laquelle M. Bousfield gagnait 800 $ de recettes par jour, celui-ci aurait dû réfuter cette hypothèse. Sans cette hypothèse alléguée, l'intimé ne peut pas invoquer, comme élément de preuve indiquant les recettes quotidiennes des taxis à Regina, l'étude sur les taxis[15].
+[75] Je comprends la position difficile dans laquelle l'intimé était au moment de plaider. Puisque Mme Canton a utilisé la moyenne de quatre techniques différentes, l'intimé devait plaider les hypothèses de fait relatives à chacune de ces techniques. Ces hypothèses, dans certains cas, étaient contradictoires. Cela ne l'exempte toutefois pas de ses obligations.
+[76] Même si l'intimé avait plaidé l'hypothèse de Mme Canton, selon laquelle les recettes de l'entreprise de taxis de M. Bousfield s'élevaient à 800 $ par jour, ce chiffre m'aurait encore posé problème. Mme Canton semble, par inadvertance, avoir doublé le montant des recettes quotidiennes indiquées dans l'étude sur les taxis. L'étude indique que les recettes des taxis variaient [traduction] « en moyenne de 400 $ par jour, pour la tranche inférieure, à 600 $ par jour ou plus pour l'estimation de la tranche supérieure, lorsque ces taxis étaient utilisés dans un système à doubles quarts de travail, pendant la haute saison hivernale[16] ».
+[77] Mme Canton semble avoir compris, par erreur, que l'extrait précité signifiait que les recettes variaient de 400 $ à 600 $ par quart, plutôt que par jour. Par souci de prudence, elle a utilisé le chiffre de 400 $. Cependant, puisque M. Bousfield conduisait son taxi à raison de deux quarts, elle a utilisé deux fois ce chiffre (c.-à-d. 800 $) pour les recettes quotidiennes. Si l'on utilise les chiffres qu'elle prévoyait utiliser, les recettes auraient dû s'élever à 137 200 $[17].
+[78] Ma deuxième réserve concernant cette technique est qu'elle suppose que l'entreprise de taxis de M. Bousfield a été exploitée de la même manière que toutes ses concurrentes. Dans la mesure du possible, il faut préférer une technique de cotisation subsidiaire, qui tient compte des spécificités de l'entreprise d'un contribuable, à une technique qui s'appuie uniquement sur les moyennes de l'industrie.
+[79] Comme je l'ai mentionné précédemment, M. Bousfield sous-louait à des chauffeurs son taxi aux termes d'une entente sur le partage 50-50. À l'époque, le reste des taxis exploités par Capital Cabs exigeait que les chauffeurs louent le taxi en payant une somme forfaitaire pour un quart de travail donné. Dans le cadre de ce système, le chauffeur gardait tous les paiements des courses qu'il effectuait. Il me semble qu'un chauffeur qui travaillait selon la division des frais en parts égales (50-50) avait moins d'incitatifs à traquer chaque éventuel paiement qu'un chauffeur qui perdait de l'argent s'il n'effectuait pas suffisamment de courses pour couvrir les frais fixes relatifs au quart. Étant donné que M. Bousfield était le seul taxi chez Capital Cabs à être exploité en sous-location, ses recettes pourraient avoir pris du retard par rapport à celles d'autres taxis dans l'industrie.
+[80] Pour tous les motifs qui précèdent, je conclus que la technique d'établissement des recettes quotidiennes moyennes ne constitue pas un moyen adéquat de fixer les recettes de M. Bousfield tirées de son entreprise de taxis.
+B. Technique d'établissement des recettes des courses moyennes [81] La deuxième technique de cotisation subsidiaire que Mme Canton a utilisée comprenait le calcul des recettes à l'aide du tarif présumé d'une course moyenne effectuée en taxi.
+[82] Mme Canton présumait que la course moyenne effectuée en taxi, à Regina, prenait 20 minutes. Elle a divisé une journée de 24 heures par 20 minutes et conclu qu'il y a dû y avoir 72 courses par jour. Elle présumait que le tarif moyen d'une course s'élevait à 11,40 $. Cela signifiait qu'un taxi aurait gagné 820 $ par jour. Elle a multiplié ce chiffre par les 343 jours de travail qu'elle avait utilisés dans sa technique d'établissement des recettes quotidiennes moyennes et elle a conclu que les recettes tirées par l'entreprise de taxi de M. Bousfield s'élevaient, chaque année, à 281 260 $.
+[83] J'émets deux réserves à l'égard de cette méthode. Premièrement, bien qu'il me semble clair que Mme Canton a formulé une hypothèse de fait, selon laquelle le taxi de M. Bousfield gagnait 11,40 $ par course, effectuait 72 courses par jour et roulait 343 jours par an, l'intimé n'a pas allégué ces hypothèses de fait dans la réponse. Cela signifie que si l'intimé voulait se fonder sur ces faits, il devait les prouver. Or, l'intimé ne l'a pas fait.
+[84] En l'absence d'une hypothèse, le chiffre de 343 jours par an représente simplement l'avis de Mme Canton. Il en va de même pour le chiffre de 72 courses par jour.
+[85] Même si le ministre avait présumé que le taxi effectuait 72 courses par jour, je n'aurais pas conclu que cette méthode était raisonnable. Mme Canton présumait en fait que les courses étaient ininterrompues. Elle n'a pas prévu du temps pour les pauses prises pour aller aux toilettes ou pour prendre un café, pour les courses effectuées sans voyageur, au moment de venir chercher un client à un lieu précis ou après l'avoir déposé.
+[86] Quant au tarif de 11,40 $ par course, Mme Canton n'a pas pu se rappeler d'où elle a obtenu ce chiffre. Il ne provenait pas de l'étude sur les taxis.
+[87] M. Bousfield a analysé les chiffres tirés des résumés de Mme Canton sur les enveloppes blanches. Il a établi que le tarif moyen des courses indiquées sur ses enveloppes blanches était 9,77 $ en 2006, 10,47 $ en 2007 et 10,94 $ en 2008. Dans ces circonstances, c'est la meilleure preuve que j'ai[18]. Cependant, même si j'admettais ces chiffres, cette technique demeurerait inutile.
+[88] Ma seconde réserve quant à la technique utilisée par Mme Canton est qu'elle présume que le taxi roulait toute la nuit. Cela ne concorde pas avec les hypothèses présentées par le ministre, selon lesquelles le taxi roulait la journée et la soirée en semaine et ne roulait 24 heures par jour qu'en fin de semaine[19]. Comme cela est exposé plus en détail ci-dessous, aucun des témoins n'a présenté des éléments de preuve fiable concernant les heures et les jours où le taxi roulait. Cependant, je conclus sans peine, à partir de leurs éléments de preuve, que le taxi n'était pas en service entre minuit et 6 h en semaine.
+[89] Pour tous les motifs qui précèdent, je conclus que la technique d'établissement des recettes des courses moyennes ne constitue pas un moyen adéquat de fixer les recettes de M. Bousfield tirées de son entreprise de taxis.
+C. Ratio de l'industrie des paiements en espèces par rapport aux paiements autres qu'en espèces [90] La troisième technique de cotisation subsidiaire que Mme Canton a utilisée consistait à examiner le ratio des paiements en espèces par rapport aux paiements qui ne sont pas en espèces.
+[91] Au moment de la vérification, Mme Canton travaillait dans l'Unité de l'économie souterraine de l'Agence du revenu du Canada. Son unité avait effectué un grand nombre de vérifications auprès d'entreprises de taxis à Regina. Elle a indiqué que son unité avait établi qu'en moyenne, 85 % des sommes perçues par les entreprises de taxis étaient en espèces et que 15 % des sommes perçues n'étaient pas en espèces.
+[92] Comme je l'expose plus tôt, les paiements qui n'étaient pas effectués en espèces étaient administrés par Capital Cabs. Capital Cabs fournit à M. Bousfield un relevé mensuel de ces paiements. Ce relevé constitue une source fiable.
+[93] D'après les calculs de Mme Canton, les recettes totales tirées de l'entreprise de taxis de M. Bousfield auraient dû être égales à ses paiements reçus par Capital Cabs, qui n'étaient pas en espèces, divisés par 15 %. Il s'agit d'une méthode raisonnable, mais j'émets deux réserves.
+[94] La première réserve, une fois de plus, est que l'intimé n'a pas invoqué les hypothèses de fait pertinentes dans la réponse. Mme Canton a manifestement présumé que 85 % des paiements perçus par l'entreprise de taxis étaient en espèces. Or, cette hypothèse n'a pas été formulée. Cela signifie que si l'intimé voulait se fonder sur ce fait, il devait le prouver. Le témoignage de Mme Canton, selon lequel ce fait émanait de l'expérience qu'elle possédait en vérification dans l'unité, ne suffit pas.
+[95] La seconde réserve que j'émets est que la technique suppose qu'en moyenne, la combinaison de paiements qui étaient en espèces et de paiements qui ne l'étaient pas était uniforme tout au long de la journée, de la semaine et de l'année. Si le taxi est régulièrement en service, cette hypothèse n'est pas déraisonnable. Cependant, le taxi de M. Bousfield ne roulait pas régulièrement.
+[96] Pendant l'année scolaire, le Conseil des écoles publiques de Regina faisait appel à des chauffeurs de taxi pour transporter certains enfants à l'école. Divers organismes gouvernementaux fournissant des services sociaux utilisaient aussi des taxis pour transporter des enfants. Par exemple, un enfant était transporté par taxi, depuis son foyer d'accueil, en vue d'une visite supervisée chez un parent. Par souci de simplicité, je qualifierai ces types de courses de « courses pour enfant ».
+[97] Les courses pour enfant étaient généralement effectuées la journée, en semaine, au cours de l'année scolaire. M. Hooper effectuait ces courses. Il venait chercher les enfants le matin, les transportait à l'école, puis il les ramenait chez eux, à la fin de la journée d'école. Dans le cas d'enfants plus jeunes, M. Hooper devait les ramener chez eux vers midi.
+[98] Même si M. Hooper était libre de choisir d'effectuer des courses ordinaires pendant les parties de la journée où il n'effectuait pas des courses pour enfant, il est évident que ces dernières constituaient une partie importante des courses de sa journée.
+[99] Le conseil scolaire et les organismes de services publics convenaient, par contrats avec Capital Cabs, des courses pour enfant. Ils payaient Capital Cabs directement. Par conséquent, toutes les courses pour enfant étaient des courses non payées en espèces.
+[100] Au cours d'une année complète, les courses pour enfant représentaient plus de 75 % de l'ensemble des paiements qui n'étaient pas en espèces. Elles avaient donc le potentiel de fausser considérablement le ratio des paiements en espèces par rapport aux paiements qui ne l'étaient pas. Il était déraisonnable d'utiliser une moyenne de l'industrie qui ne comprenait pas les courses pour enfant pour établir les recettes d'un taxi qui effectuait souvent ces courses.
+[101] En général, même si je préfère cette technique aux deux précédentes techniques utilisées par Mme Canton, je ne dispose d'aucun élément de preuve qui étaye le ratio des paiements en espèces par rapport aux paiements qui ne le sont pas et je soulève de sérieuses réserves quant au fait que l'ajout des courses pour enfant aux paiements qui ne sont pas en espèces pourrait avoir considérablement faussé les résultats.
+D. Ratio réel des paiements en espèces par rapport aux paiements autres qu'en espèces [102] La dernière technique à laquelle Mme Canton a eu recours était la même que la technique précédente, sauf qu'au lieu de se servir des moyennes de l'industrie, elle a utilisé le ratio des paiements en espèces par rapport aux paiements qui ne l'étaient pas obtenu à partir de l'entreprise de taxis elle-même de M. Bousfield.
+[103] Mme Canton a examiné un échantillon des enveloppes blanches que M. Bousfield lui avait fournies. Selon ces enveloppes, elle a établi quel était le ratio des paiements en espèces par rapport aux paiements qui ne l'étaient pas. Le pourcentage des paiements en espèces était légèrement inférieur au ratio que la moyenne de l'industrie de l'ARC indiquait.
+[104] Mme Canton a appliqué ce ratio aux paiements autres qu'en espèces déclarés par Capital Cabs et elle a établi quelles auraient été les recettes totales générées par le taxi de M. Bousfield.
+[105] Étant donné que M. Hooper n'a pas utilisé des enveloppes blanches, les courses pour enfant n'étaient pas comprises dans le ratio que Mme Canton a calculé. Cependant, elle n'a fait aucune rectification aux courses pour enfant. Au lieu de cela, elle a appliqué le ratio à l'ensemble des paiements autres qu'en espèces. Cela a, de la même manière, faussé le résultat décrit ci-dessus.
+[106] Parmi les quatre techniques utilisées par Mme Canton, je conclus que cette dernière technique est la plus fiable. Elle est préférable à la troisième technique, car au lieu d'utiliser les moyennes de l'industrie, elle utilise des données provenant directement de l'entreprise de M. Bousfield. Même si l'intimé n'a pas plaidé les hypothèses formulées par Mme Canton, les éléments de preuve qui étayent ces hypothèses ont été déposés en preuve.
+[107] Cependant, la technique ne prend toujours pas en compte le fait que les courses pour enfant font augmenter artificiellement les paiements autres qu'en espèces sur lesquels est appliqué le ratio. Même si cette technique a produit les recettes les plus faibles chaque année, je suis d'avis que ces recettes demeurent considérablement élevées.
+[108] Au cours du procès, Mme Canton a préparé sa propre version modifiée de sa technique d'établissement du ratio réel des paiements en espèces par rapport aux paiements autres qu'en espèces. Pour ce faire, elle a examiné les éléments de preuve relatifs à l'année d'imposition 2006 de M. Bousfield avec une minutie dont elle n'a pas eu le temps de faire preuve au moment d'effectuer sa vérification. Plus précisément, elle a examiné chaque enveloppe blanche disponible pour 2006, au lieu de simplement en étudier un échantillon, et elle s'est penchée en détail sur les courses effectuées par M. Hooper.
+[109] Je préfère son analyse actualisée, mais je conclus quand mêmr qu'elle ne tenait toujours pas compte des principaux aspects des éléments de preuve. En outre, elle négligeait le fait que M. Bousfield n'avait droit qu'à 50 % de l'argent en espèces reçu par M. Hooper pour les courses que celui-ci effectuait.
+E. Moyenne de techniques subsidiaires [110] Comme il a été expliqué précédemment, Mme Canton a finalement calculé les recettes de l'entreprise de taxis de M. Bousfield en établissant la moyenne des recettes calculées à l'aide des quatre techniques décrites ci-dessus. Elle a ensuite réduit ces recettes de 50 % pour tenir compte du fait que les recettes de M. Bousfield devaient être divisées en parts égales, entre lui et les chauffeurs. Le tableau suivant résume les conclusions de Mme Canton :
+2006
+2007
+2008
+Recettes quotidiennes moyennes
+274 400 $
+274 400 $
+274 400 $
+Recettes des courses moyennes
+281 260 $
+281 260 $
+281 260 $
+Ratio de l'industrie des paiements en espèces par rapport aux paiements autres qu'en espèces
+257 735 $
+335 578 $
+353 384 $
+Ratio réel des paiements en espèces par rapport aux paiements autres qu'en espèces
+161 084 $
+228 803 $
+182 785 $
+Total
+974 479 $
+1 120 041 $
+1 091 829 $
+Moyenne des méthodes ci-dessus
+243 620 $
+280 010 $
+272 957 $
+Part de 50 % de l'appelant
+121 810 $
+140 005 $
+136 479 $
+Recettes déclarées[20]
+55 437 $
+65 084 $
+64 609 $
+Recettes non déclarées
+66 373 $
+74 921 $
+71 870 $
+F. Conclusion [111] En résumé, je conclus qu'aucune des quatre techniques de cotisations subsidiaires utilisées par Mme Canton n'est fiable. En outre, trois des quatre techniques n'étaient étayées ni par des hypothèses de fait ni par des éléments de preuve.
+[112] Cependant, comme je l'ai indiqué ci-dessus, M. Bousfield doit faire plus que simplement me démontrer que ces techniques ne sont pas fiables. Le ministre a présumé que les recettes tirées de l'entreprise de taxis de M. Bousfield, en 2006, 2007 et 2008, s'élevaient à 121 810 $, 140 005 $ et 136 479 $, respectivement[21]. Pour réfuter ces hypothèses, M. Bousfield doit me démontrer comment mieux calculer son revenu.
+[113] Je vais maintenant passer aux trois techniques de cotisations subsidiaires considérées comme fiables par M. Bousfield.
+VI. Techniques de cotisations subsidiaires proposées par l'appelant [114] M. Bousfield prétend que je devrais établir son revenu à l'aide de l'une des trois techniques de cotisations subsidiaires : une cotisation fondée sur l'avoir net, un calcul fondé sur une estimation de la rémunération horaire du taxi et une version modifiée de la technique d'établissement du ratio réel des paiements en espèces par rapport aux paiements autres qu'en espèces de Mme Canton.
+[115] Ces calculs ont été préparés par un comptable nommé Loren Wirth. M. Wirth a offert son aide à M. Bousfield au cours de la vérification et du processus d'opposition.
+[116] Avant d'analyser ces techniques, j'aimerais rapidement me pencher sur la question qui a été soulevée lors du procès concernant les techniques de cotisations subsidiaires de M. Wirth.
+A. Commentaires sur la preuve d'expert [117] L'avocat de l'intimé s'est opposé aux calculs de M. Wirth qui ont été présentés, au motif qu'ils équivalaient à une preuve d'expert. J’ai rejeté cet argument.
+[118] Il serait manifestement injuste de ma part de permettre au ministre de produire une preuve des techniques de cotisations subsidiaires qu'il a utilisées et, parallèlement, d'empêcher un contribuable d'en faire de même, sans convoquer un témoin expert.
+[119] En tant que comptable professionnel agréé, M. Wirth a mis à profit son expertise en matière de comptabilité pour préparer sa cotisation fondée sur l'avoir net, à l'instar de Mme Canton, qui a tiré avantage de son expertise en matière de vérification pour préparer ses calculs. Leurs compétences respectives leur ont permis d'effectuer des calculs fiables que je serais plus susceptible de retenir. Cependant, aucun d'eux n'a produit une preuve d'expert.
+[120] Je suis un juge de la Cour canadienne de l'impôt. Mon rôle est d'établir quel était le revenu de M. Bousfield. Pour ce faire, je me fonde sur la preuve et le droit. Les calculs de Mme Canton et de M. Wirth pourraient m'aider à réunir et à organiser des éléments de cette preuve. Néanmoins, leurs calculs ne constituent pas une preuve d'expert. Conclure le contraire reviendrait à leur déléguer la tâche même qui m'a été assignée, à savoir établir le revenu de M. Bousfield.
+[121] Ayant discuté de la présentation de la preuve, je passerai maintenant à la première technique de cotisation subsidiaire proposée par M. Wirth.
+B. La cotisation fondée sur l'avoir net [122] M. Bousfield affirme que si une technique de cotisation subsidiaire devait être utilisée, une cotisation fondée sur l'avoir net serait une technique plus exacte que celles utilisées par Mme Canton.
+[123] Les cotisations fondées sur l'avoir net sont l'une des techniques de cotisations subsidiaires les plus courantes que le ministre utilise. Elles peuvent s'avérer être une technique très utile dans les circonstances appropriées.
+[124] La cotisation fondée sur l'avoir net de M. Wirth indiquait que M. Bousfield avait déclaré correctement son revenu de toutes sources et, par conséquent, il n'avait aucune recette non déclarée provenant de son entreprise de taxis.
+[125] M. Wirth était selon moi un témoin crédible. Cependant, pour les motifs qui suivent, je n'ai pas conclu que son calcul était une méthode fiable pour établir les recettes provenant de l'entreprise de taxis de M. Bousfield.
+[126] Le premier problème lié à sa cotisation fondée sur l'avoir net résidait dans le fait que des éléments importants du calcul n'étaient pas étayés par la preuve. En ce qui concerne les cotisations fondées sur l'avoir net, l'intimé joindra généralement à l'annexe de la réponse une copie du calcul de l'avoir net. Cela simplifie quelque peu les hypothèses. Au lieu d'énoncer une hypothèse de fait distincte pour chaque actif, passif et dépense, l'intimé mentionne simplement dans les hypothèses les actifs, passifs et dépenses indiqués dans l'annexe.
+[127] Un contribuable qui affirme que son revenu aurait dû être établi à l'aide d'une cotisation fondée sur l'avoir net ne peut pas se permettre d'invoquer des hypothèses de fait. Il doit produire des éléments de preuve qui étayent chaque élément du calcul.
+[128] M. Bousfield s'est représenté lui-même au procès. Il était évident qu'il ne comprenait pas comment les cotisations fondées sur l'avoir net fonctionnaient. Par conséquent, lorsqu'il a témoigné concernant la cotisation fondée sur l'avoir net, j'ai veillé à ce qu'il ait l'occasion de produire les éléments de preuve nécessaires pour étayer chaque élément du calcul. Cependant, il lui manquait plusieurs documents clés relatifs à divers prêts et biens immobiliers. En raison du lien de dépendance que comportaient plusieurs de ses transactions immobilières au cours des années en question, je n'étais pas disposé à m'appuyer simplement sur ses descriptions orales des sommes pertinentes. J'avais besoin d'avoir les documents devant moi. Le fait que M. Bousfield n'a pas produit ces documents réduisait considérablement la fiabilité du calcul de M. Wirth.
+[129] Le deuxième problème le plus important lié à la cotisation fondée sur l'avoir net concernait les dépenses personnelles. L'établissement des dépenses personnelles d'un contribuable est un élément clé d'une cotisation fondée sur l'avoir net. En fait, dans un grand nombre de cas, la majeure partie du revenu non déclaré calculé par la méthode de calcul de l'avoir net découle des dépenses personnelles. Cela n'est guère surprenant. Beaucoup de personnes dépensent pratiquement tout leur revenu chaque année, non pas pour l'acquisition de biens ou le remboursement de dettes, mais simplement pour vivre. Elles paient le loyer, l'épicerie, les factures de services publics, partent en vacances, achètent de nouveaux vêtements, vont au restaurant, au cinéma, etc. Elles utilisent le revenu qu'elles gagnent pour acquitter ces dépenses. Une méthode de calcul de l'avoir net qui n'a pas bien tenu compte de ces dépenses pourrait considérablement sous-estimer leur revenu.
+[130] Un vérificateur peut établir les dépenses personnelles d'un contribuable de plusieurs manières différentes. La méthode la plus courante est appelée une analyse des retraits. En termes simples, le vérificateur examine les relevés bancaires et les factures de cartes de crédit du contribuable pour connaître les dépenses personnelles. Le vérificateur ajoute ensuite à ces dépenses tous les retraits en espèces du compte bancaire du contribuable et toutes les avances en espèces provenant de la carte de crédit du contribuable, en supposant qu'ils ont servi à payer d'autres dépenses personnelles.
+[131] M. Wirth n'a pas effectué cette analyse. Les dépenses personnelles calculées selon la méthode de l'avoir net sont simplement des estimations. Ni M. Wirth ni M. Bousfield n'ont pu se rappeler comment ils ont obtenu les chiffres. Ils semblent excessivement faibles. Même si M. Bousfield ne me paraissait pas avoir un mode de vie extravagant, je ne pense pas qu'il vivait avec 15 200 $ à 16 600 $ par an.
+[132] Même si M. Wirth avait mené une analyse complète des retraits, j'avais encore des doutes quant à la fiabilité de son calcul. Les analyses des retraits fonctionnent bien lorsqu'un contribuable dépose ses recettes dans son compte bancaire. Une sous-estimation des dépenses a tendance à être observée lorsqu'un contribuable perçoit un revenu en espèces, ne dépose pas l'argent en espèces dans son compte, puis l'utilise pour payer des dépenses personnelles.
+[133] Les éléments de preuve révèlent que M. Bousfield ne dépose pas l'argent en espèce qu'il reçoit de son entreprise de taxis et qu'il encaisse parfois des chèques au lieu de les déposer. Une analyse des retraits n'aurait pas permis de relever les frais payés en espèces avec cet argent.
+[134] Pour tous les motifs qui précèdent, je conclus que la méthode de l'avoir net utilisée par M. Wirth ne constitue pas un moyen précis d'établir le revenu de M. Bousfield.
+C. Recettes horaires moyennes [135] M. Bousfield fait valoir que si une technique de cotisation subsidiaire qui n'est pas la méthode de l'avoir net doit être utilisée, un calcul fondé sur la rémunération horaire moyenne du taxi donnerait une idée plus exacte de ses recettes que l'une des techniques utilisées par Mme Canton.
+[136] M. Wirth a également effectué ce calcul pour M. Bousfield. M. Wirth a examiné l'étude sur les taxis sur laquelle s'est appuyée Mme Canton. Cette étude indiquait que les chauffeurs de taxi d'une entreprise concurrente ont en moyenne perçu des recettes horaires de 25,95 $ en 2010[22]. M. Wirth a estimé ce qu'aurait été le taux horaire équivalent entre 2006 et 2008, en tenant compte du niveau d'inflation à cette époque. M. Wirth a ensuite appliqué ce taux horaire aux heures effectuées par les chauffeurs, selon M. Bousfield, au cours des années en question. Ses calculs ont révélé qu'en fait, M. Bousfield avait surestimé les recettes qu'il avait déclarées.
+[137] J'ai admis en preuve l'étude sur les taxis dans le seul but de montrer où Mme Canton a obtenu le chiffre qu'elle a utilisé dans sa technique d'établissement des recettes quotidiennes moyennes. Je ne l'ai pas admise pour la véracité de son contenu. Si M. Bousfield voulait s'appuyer sur l'étude, il devait la présenter par l'intermédiaire de l'auteur de l'étude. Étant donné qu'il ne l'a pas fait, aucun élément de preuve n'étaye le chiffre de 25,95 $ par heure.
+[138] Cela dit, je reconnais que la technique que M. Wirth a choisie est meilleure que les techniques d'établissement des recettes quotidiennes moyennes et des recettes des courses moyennes, étant donné qu'elle est fondée sur les heures durant lesquelles le taxi était vraiment en service. Cependant, ce point fort est aussi la principale faiblesse de cette technique.
+[139] Aucun des chauffeurs n'a consigné ses heures sur les enveloppes blanches, malgré le fait qu'il y avait un espace clairement prévu à cet effet. Par conséquent, pour retenir les recettes calculées selon cette technique, je dois d'abord admettre que M. Bousfield ait décrit avec exactitude à M. Wirth les heures de service du taxi. Je ne puis le faire.
+[140] J'ai conclu que M. Bousfield n'était pas un témoin crédible à cet égard. Entre la vérification et le procès et au cours du procès lui-même, il a changé de version plusieurs fois pour expliquer quel chauffeur effectuait quels quarts.
+[141] M. Bousfield a appelé trois de ses chauffeurs à témoigner : Sam Bodnar, Alex Blue et Ron Hooper.
+[142] J'ai conclu que Sam Bodnar n'était pas un témoin crédible. Son témoignage était en contradiction totale avec celui de M. Bousfield. Reconnaissons cependant que les années en question remontaient à au moins 14 ans. Il n'est pas surprenant qu'avec le temps, leurs souvenirs soient un peu embrouillés. Cependant, je me demande aussi si M. Bodnar était en fait aussi nonchalant qu'il donnait à l'entendre à l'égard de son travail. Il se décrivait comme quelqu'un qui ne travaillait que quand il en avait envie. J'ai du mal à m'imaginer comment M. Bousfield travaillait avec un chauffeur qui était aussi peu motivé à faire du profit, sachant qu'ils divisaient le prix de la course en parts égales (50-50). Il me semble plus probable que M. Bodnar minimisait son nombre d'heures et de jours de travail.
+[143] J'ai conclu que M. Blue était un témoin qui n'était ni crédible ni fiable. Il avait une très mauvaise mémoire et il était facilement troublé, mais je suis également d'avis qu'il tentait de cacher la quantité de travail qu'il accomplissait. Il a témoigné qu'il ne travaillait guère durant l'été, mais les enveloppes blanches déposées en preuve révélaient qu'au cours de chacune des années en question, il a beaucoup travaillé pendant tous les mois de juillet et d'août. Il s'est également montré évasif lorsqu'on lui a demandé s'il avait déclaré le revenu qu'il percevait lorsqu'il travaillait en tant que chauffeur pour M. Bousfield.
+[144] Je conclus que la description fournie par Ron Hooper concernant les heures durant lesquelles il travaillait est à la fois crédible et fiable. Elle concordait avec les éléments de preuve documentaires. Elle concordait aussi pour l'essentiel avec la description fournie par M. Bousfield. M. Hooper a indiqué qu'il travaillait pendant les vacances scolaires, en décembre et en mars. M. Bousfield avait auparavant affirmé que ce n'était pas le cas. Je privilégie le témoignage de M. Hooper.
+[145] Le quatrième chauffeur de M. Bousfield s'appelait Lloyd Amniot. M. Amniot est décédé depuis. La description par M. Bousfield des heures effectuées par M. Amniot était incohérente. Dans certains cas, M. Bousfield a déclaré que M. Amniot avait arrêté de conduire en 2006[23], dans d'autres, il a déclaré qu'il avait cessé de conduire en 2007[24] et il a aussi déclaré qu'il avait conduit tout au long des années en question[25].
+[146] Pour conclure, je ne dispose pas d'assez d'éléments de preuve fiables, indiquant à quels moments le taxi était en service, pour pouvoir me fonder sur une technique de cotisation subsidiaire qui calcule les recettes selon un taux horaire.
+D. Ratio réel modifié des paiements en espèces par rapport aux paiements autres qu'en espèces [147] M. Bousfield fait valoir que si aucune des techniques de cotisations subsidiaires ci-dessus n'était acceptable, une version modifiée de la technique utilisée par Mme Canton pour établir le ratio réel des paiements en espèces par rapport aux paiements autres qu'en espèces, qui tient compte des courses pour enfant effectuées par M. Hooper, conviendrait.
+[148] M. Bousfield m'a présenté une version modifiée du calcul de Mme Canton que M. Wirth a préparée. Encore une fois, le calcul de M. Wirth indique qu'en fait, M. Bousfield a surestimé les recettes qu'il a déclarées.
+[149] Cette technique de cotisation subsidiaire n'est pas un moyen précis d'établir les recettes du taxi de M. Bousfield. Elle ne tient pas compte des principaux aspects des éléments de preuve. Plus important encore, elle suppose que M. Bousfield a correctement consigné les courses effectuées par M. Hooper et payées en espèces. Pour les motifs suivants, je conclus que M. Bousfield n'a pas consigné correctement ces courses.
+VII. Résumé des techniques de cotisations subsidiaires [150] En résumé, je ne suis pas convaincu que l'une des techniques de cotisations subsidiaires proposées par les parties est un moyen adéquat d'établir les recettes du taxi de M. Bousfield.
+[151] Les techniques choisies par le ministre comportent de graves problèmes. Cependant, le ministre a présumé que certaines recettes perçues par M. Bousfield provenaient de son taxi et qu'il appartenait à M. Bousfield de réfuter cette hypothèse en présentant une technique subsidiaire viable. M. Bousfield n'a pas pu le faire au moyen de ses propres documents comptables ou grâce à l'une des trois techniques qu'il a présentées.
+[152] Heureusement pour M. Bousfield, suffisamment d'éléments de preuve ont été présentés pour que je puisse moi-même calculer, de manière plus précise que toute technique proposée par les parties – j'en suis convaincu – les recettes du taxi de M. Bousfield.
+[153] Je conclus que dans les circonstances, la meilleure technique de cotisation subsidiaire est une version modifiée de la technique de Mme Canton d'établissement du ratio réel des paiements en espèces par rapport aux paiements autres qu'en espèces. J'expliquerai d'abord cette technique et comment je l'ai appliquée à l'année 2006. J'expliquerai ensuite comment je l'ai modifiée pour qu'elle fonctionne pour 2007 et 2008.
+VIII. Technique de cotisation subsidiaire modifiée pour 2006 [154] Je conclus que M. Bousfield a omis de déclarer 20 864 $ de ses recettes de taxi en 2006. Cette conclusion est fondée sur les principales constatations suivantes.
+A. Quarante-cinq pour cent des courses effectuées par M. Hooper ont été payées en espèces [155] M. Hooper et M. Bousfield ont tous deux témoigné que M. Hooper effectuait très peu de courses payées en espèces. Je ne les crois pas.
+[156] Comme je l'ai indiqué ci-dessus, M. Hooper n'a pas utilisé des enveloppes blanches. Au lieu de cela, M. Hooper tenait un carnet de route dans lequel il consignait ses courses. Les deux parties ont déposé en preuve des extraits du carnet de route de M. Hooper[26]. Dans ces extraits figurent deux colonnes de courses. Il me semble qu'une colonne est dédiée aux courses payées en espèces et que l'autre est prévue pour les courses qui ne sont pas payées en espèces. Cela concorderait avec la méthode utilisée sur les enveloppes blanches. Malheureusement, M. Hooper n'a pas pu faire la distinction entre les deux colonnes.
+[157] J'ai examiné les deux extraits les plus importants des inscriptions dans le carnet de route[27]. Pour effectuer mon examen, j'ai adopté une approche plus prudente et j'ai présumé que la colonne avec le total le plus faible, pendant toute la période visée par les extraits, était la colonne des espèces. Cela concorde avec la preuve selon laquelle la plupart des courses effectuées le jour par M. Hooper étaient des courses pour enfant. D'après mon examen, je conclus que 45 % des courses effectuées par M. Hooper étaient payées en espèces.
+B. M. Bousfield n'a pas consigné dans ses documents comptables la plupart des courses effectuées par M. Hooper et payées en espèces [158] Les documents comptables de M. Bousfield révèlent qu'il a effectué des paiements mensuels à M. Hooper. M. Bousfield et M. Hooper ont affirmé que contrairement aux autres chauffeurs, qui étaient payés quotidiennement, M. Hooper était payé chaque mois. Je ne les crois pas.
+[159] Je reconnais que M. Bousfield payait chaque mois M. Hooper pour les courses pour enfant qu'il effectuait. Ces courses étaient payées par des comptes avec Capital Cabs. M. Bousfield devait donc attendre que Capital Cabs le paie avant de pouvoir payer M. Hooper.
+[160] Je ne reconnais toutefois pas que M. Hooper recevait chaque mois la part de la somme en espèces qui lui revenait pour les courses qu'il effectuait. Je conclus qu'il est beaucoup plus probable que M. Bousfield et M. Hooper réglaient quotidiennement la question des courses payées en espèces de M. Hooper. Il semble très peu probable qu'à la fin d'un quart, M. Hooper se retrouvait avec une somme en espèces, qu'il se réjouissait de donner à M. Bousfield l'intégralité de cette somme, puis qu'il patientait pendant au moins un mois avant de recevoir sa part de 50 %.
+[161] Le processus de paiement inhabituel que M. Bousfield utilisait pour payer M. Hooper me pose aussi problème. Si M. Bousfield avait déposé son chèque de Capital Cab dans son compte bancaire, puis s'il avait fait un chèque à M. Hooper correspondant à la part du prix des courses qui revenait à M. Hooper, il aurait été relativement facile de suivre les paiements que M. Hooper recevait et d'établir si ces paiements concernaient des courses payées en espèces ou non. Ce n'est toutefois pas ce que M. Bousfield a fait.
+[162] Au lieu de cela, M. Bousfield prenait son chèque de Capital Cabs, l'encaissait à la banque, demandait à celle-ci de préparer une traite bancaire payable à l'ordre de M. Hooper sur les recettes, retirait peut-être de l'argent en espèces pour lui-même, puis déposait ce qui restait dans son compte. M. Bousfield n'a gardé que des copies de certaines des traites bancaires.
+[163] Cette méthode de dépôt de chèques révèle l'intention que M. Bousfield avait de cacher son revenu, d'aider M. Hooper à cacher son revenu ou de faire les deux. Quoi qu'il en soit, cela a rendu très difficile la tâche du ministre qui consistait à vérifier quelles étaient les recettes tirées du travail de M. Hooper que M. Bousfield gagnait.
+[164] Je dois donc formuler des hypothèses concernant les courses payées en espèces de M. Hooper, en fonction des éléments de preuve dont je dispose. M. Bousfield ne peut s'en prendre qu'à lui-même pour cela. Il a choisi d'utiliser des méthodes de tenue des dossiers et de paiement qui ont rendu opaques ses recettes et ses dépenses. S'il voulait que son revenu soit établi précisément, il aurait dû utiliser un système conçu à cette fin.
+[165] Comme je l'ai indiqué ci-dessus, M. Bousfield a préparé de petits bordereaux ou bouts de papier pour effectuer le suivi des courses effectuées par M. Hooper. L'examen mené par Mme Canton a révélé que seuls 906 $ de courses payées en espèces ont été consignés sur les bordereaux en 2006. J'accepte son calcul. Je conclus que seule une petite partie des courses payées en espèces de M. Hooper était consignée sur ces bordereaux.
+[166] Les courses non payées en espèces de M. Hooper se sont élevées à 34 138 $ en 2006[28]. Si j'applique le ratio de 45 %, cela signifie que ses courses payées en espèces s'élevaient à 27 930 $[29]. Étant donné que seuls 906 $ de ces courses ont été déclarés[30], je conclus qu'il a perçu 27 025 $ en espèces provenant des courses qui n'ont pas été déclarées.
+C. Le ratio des paiements en espèces par rapport aux paiements autres qu'en espèces était de 80 % par rapport à 20 % [167] M. Bousfield n'a ni fourni des enveloppes blanches pour chaque mois ni fourni toutes les enveloppes blanches pour les mois où il les a fournies. Sans enveloppe blanche, il est impossible de vérifier directement les courses payées en espèces provenant du taxi. Leur estimation doit se faire au moyen d'un processus indirect.
+[168] Je peux raisonnablement présumer que le ratio des paiements en espèces par rapport aux paiements autres qu'en espèces indiqué sur les enveloppes blanches qui ont été produites serait le même sur les enveloppes blanches qui n'ont pas été fournies. D'après l'examen par Mme Canton de l'ensemble des enveloppes blanches produites par M. Bousfield pour 2006, je conclus que le ratio était de 80 % de paiements en espèces par rapport à 20 % de paiements autres qu'en espèces[31].
+[169] Étant donné que les courses effectuées par M. Hooper n'ont pas été comptabilisées dans les enveloppes blanches, ses courses pour enfant n'ont aucune incidence sur ce ratio.
+D. Il est possible d'appliquer ce ratio aux courses non payées en espèces qui n'ont pas déjà été comptabilisées [170] Les relevés de Capital Cabs indiquent que les courses de taxi non payées en espèces se sont élevées à 44 504 $ en 2006[32]. Mme Canton a calculé que la somme de 34 138 $ tirée de ces courses correspondait à la somme tirée des courses pour enfant effectuées par M. Hooper[33]. J'accepte son calcul.
+[171] Mme Canton a établi que les enveloppes blanches présentées par M. Bousfield ont révélé la somme de 3 875 $ pour les courses non payées en espèces, pour 2006[34]. Cela signifie que les enveloppes blanches manquantes ont dû indiquer la somme de 6 491 $ pour les courses non payées en espèces[35].
+[172] Cette information me permet d'établir les courses payées en espèces provenant des enveloppes manquantes. Si j'applique le ratio des paiements en espèces de 80 % à la somme des courses non payées en espèces s'élevant à 6 491 $, je conclus que les enveloppes blanches manquantes auraient contenu la somme des courses payées en espèces de 25 964 $[36].
+E. Toutes les courses qui n'étaient pas des courses pour enfant comprenaient la TPS [173] Le taximètre effectue le suivi du paiement des courses, TPS comprise. Cela signifie que je dois retirer la TPS sur tous ces paiements. Bien que sur ce point, je ne dispose que d'une preuve verbale, je crois comprendre que les courses pour enfant et certaines courses appelées « 289 » n'étaient pas soumises à la TPS. Les paiements de ces courses ont totalisé 33 541,35 $ en 2006[37]. Je retirerai en conséquence la TPS sur toutes les courses dont le montant est supérieur à ce total.
+[174] La TPS a été de 7 % pour la première moitié de 2006 et de 6 % pour la deuxième moitié. Par souci de simplicité, j'utiliserai un taux de 6,5 % dans mes calculs.
+F. M. Bousfield a sous-estimé de 20 864 $ ses recettes de taxi en 2006 [175] Tout ce qui précède m'amène à conclure que M. Bousfield a sous-estimé de 20 864 $ ses recettes de taxi. Mes calculs sont exposés ci-dessous, dans l'annexe « A ».
+[176] Le ministre a établi les cotisations à l'égard de M. Bousfield, en tenant compte du fait qu'il avait 121 810 $ de recettes de taxi. J'ai conclu que ses recettes s'élevaient à 76 301 $. Je réduirai en conséquence de 45 509 $ son revenu tiré de l'entreprise de taxis.
+IX. Application de la technique modifiée aux années 2007 et 2008 [177] Je ne dispose pas de tous les chiffres qu'il me faut pour appliquer la technique de cotisation subsidiaire ci-dessus aux années d'imposition 2007 et 2008 de M. Bousfield. Seuls les bordereaux sur lesquels ont été inscrites les courses effectuées par M. Hooper en 2007, durant les six premiers mois, existaient et il n'y avait aucun bordereau pour 2008. Par conséquent, Mme Canton n'a pas pu calculer les courses pour enfant effectuées par M. Hooper.
+[178] Dans les circonstances, je conclus qu'il est plus probable que le contraire que les courses pour enfant de M. Hooper représentent le même pourcentage relatif à l'ensemble des courses non payées en espèces en 2007 et 2008 que celui de 2006. Si M. Bousfield voulait que je tire une autre conclusion, il aurait dû me présenter les registres et l'analyse détaillée nécessaires.
+[179] En appliquant cette approche et en ramenant le pourcentage des courses payées en espèces au pourcentage réel indiqué sur les enveloppes blanches en 2007 et 2008, il est ressorti de mes calculs que M. Bousfield a sous-déclaré de 25 337 $ en 2007 et de 25 605 $ en 2008 ses recettes du taxi. Mes calculs sont exposés dans l'annexe « B ».
+[180] Le ministre a établi les cotisations à l'égard de M. Bousfield, en tenant compte du fait qu'il avait 140 005 $ de recettes de taxi en 2007. J'ai conclu que ses recettes s'élevaient à 90 421 $. Je réduirai en conséquence de 49 584 $ son revenu tiré de l'entreprise de taxis.
+[181] Le ministre a établi les cotisations à l'égard de M. Bousfield, en tenant compte du fait qu'il avait 136 479 $ de recettes de taxi en 2008. J'ai conclu que ses recettes s'élevaient à 90 214 $. Je réduirai en conséquence de 46 265 $ son revenu tiré de l'entreprise de taxis.
+X. Conclusion concernant les recettes de taxi [182] D'après l'ensemble des éléments de preuve accessibles, je conclus que la technique la plus probable de donner une idée raisonnablement exacte des recettes de M. Bousfield est celle décrite ci-dessus. À l'aide de cette technique, je conclus que le revenu tiré de l'entreprise de taxis de M. Bousfield devrait être réduit de 45 509 $, 49 584 $ et de 46 265 $ en 2006, 2007 et 2008, respectivement.
+XI. Recettes de l'entreprise de transport [183] Le frère de M. Bousfield, Curtis Bousfield, exploitait une entreprise de transport qui faisait affaire sous le nom de Where 2 Transportation. M. Bousfield ne possédait pas d'actions de la société.
+[184] M. Bousfield a travaillé en tant que chauffeur en sous-traitance pour Where 2 en 2006, 2007 et au cours de la première moitié de 2008. Il s'est brouillé avec son frère en juin 2008, après quoi il a cessé de travailler pour lui.
+[185] M. Bousfield a aussi aidé son frère avec la comptabilité de Where 2. Compte tenu des problèmes de comptabilité de M. Bousfield, il n'est pas surprenant que son frère ait fait l'objet d'une vérification en même temps que lui et il n'est pas non plus surprenant que le ministre ait des doutes concernant les recettes déclarées par M. Bousfield et tirées de ses activités de sous-traitance.
+A. Redressements après vérification à l'égard de services [186] M. Bousfield a facturé Where 2 pour ses services de sous-traitance. Mme Canton a additionné les sommes que M. Bousfield a facturées pour les services. Ces sommes différaient légèrement des sommes qu'il avait consignées dans ses documents comptables. À une exception près, je conclus que les sommes que Mme Canton a ajoutées étaient plus fiables.
+[187] Mme Canton a ajouté 2 464 $ de recettes provenant de décembre 2005 aux recettes de 2006 de M. Bousfield. Elle l'a fait au départ parce qu'elle pensait qu'il déclarait le revenu selon la comptabilité de caisse. Elle a plus tard déterminé qu'il déclarait le revenu selon la comptabilité d'exercice, mais elle a omis d'annuler le redressement. Je réduirai de cette somme les recettes de M. Bousfield.
+B. Redressements après vérification à l'égard de crédits [188] Les factures de M. Bousfield contenaient ce qui pouvait au mieux être qualifié de crédits. L'intimé affirme que ces crédits étaient en fait des remboursements de dépenses que M. Bousfield avait faites en offrant ses services et, par conséquent, ils devraient être compris dans ses recettes.
+[189] M. Bousfield a témoigné que les crédits étaient des remboursements de sommes qu'il avait prêtées à son frère ou des remboursements de dépenses qu'il avait effectuées pour le compte de Where 2. À l'exception d'un crédit de téléphone cellulaire de 20 $ qui figurait sur la plupart des factures, M. Bousfield a indiqué qu'aucune des dépenses ne constituait ses dépenses personnelles. Je retiens le témoignage de M. Bousfield sur ce point.
+[190] Les crédits étaient imprévisibles. Il y avait des crédits à l'égard du carburant durant certains mois, mais pas pendant de nombreux autres mois. Si Where 2 avait remboursé les dépenses de M. Bousfield, je me serais attendu à constater chaque mois des dépenses de carburant dont le montant aurait été relativement constant. Ce n'est pas ce que les factures ont montré.
+[191] Il y avait aussi des crédits pour des frais de bureau. M. Bousfield ne payait pas des frais de bureau dans le contexte de son travail chez Where 2, en tant que conducteur, et ne facturait pas ces frais à la société. Selon toute vraisemblance, M. Bousfield payait des frais de bureau pour le compte de Where 2 et son frère les lui remboursait. Il y avait un crédit pour des tee-shirts. M. Bousfield n'avait pas personnellement payé des frais importants relatifs à des tee-shirts, dans le contexte de son travail chez Where 2, en tant que conducteur, et il n'avait pas facturé ces frais à la société. Encore une fois, selon toute vraisemblance, il avait réglé une grosse commande de tee-shirts pour les affaires de Where 2 et celle-ci la lui remboursait.
+[192] Compte tenu de tout ce qui précède, je retirerai tous les crédits qui ne sont pas des crédits de téléphone cellulaire. Par conséquent, je réduirai les recettes provenant de l'entreprise de transport de M. Bousfield de 291 $ en 2006, de 3 072 $ en 2007 et de 4 440 $ en 2008.
+C. Résumé [193] En résumé, je réduirai les recettes provenant de l'entreprise de transport de M. Bousfield de 2 756 $ en 2006[38], de 3 072 $ en 2007 et de 4 440 $ en 2008.
+XII. Dépenses [194] Le ministre a rejeté plusieurs déductions de dépenses déclarées par M. Bousfield à l'égard de son revenu tiré de ses entreprises.
+A. Concessions [195] Au cours du procès, l'intimé a reconnu que les dépenses correspondant à 946,65 $, 2 021,22 $ et 780,51 $ pour les années d'imposition 2006, 2007 et 2008 de M. Bousfield, respectivement, devraient être admissibles.
+[196] Les dépenses s'élevant à 2 400 $, 2 707,80 $ et 4 264,79 $ pour ces années demeurent en litige. Pour les motifs qui suivent, je n'autoriserai pas M. Bousfield à déduire les autres dépenses.
+B. Versements à la mère [197] La plus grande dépense est un paiement de 200 $ par mois que M. Bousfield affirme avoir versés à sa mère, à titre de frais de sous-traitance, en 2006, 2007 et au cours d'une partie de 2008. Je reconnais qu'il a effectué ces paiements. Je ne reconnais pas que ces paiements avaient un but commercial. L'explication de M. Bousfield concernant ces paiements était peu sensée.
+[198] M. Bousfield a témoigné que sa mère travaillait parfois pour Where 2. M. Bousfield a expliqué que lui et son frère ont convenu que M. Bousfield, plutôt que Where 2, paierait directement sa mère 200 $ par mois pour son travail (peu importe le nombre d'heures qu'elle effectuait ou si elle les effectuait) et que son frère ferait en sorte que Where 2 le paie pour le travail réel que leur mère accomplissait. En d'autres termes, M. Bousfield retenait en fait les services de sa mère en contrepartie de 200 $ par mois et sous-traitait ses services à son frère.
+[199] M. Bousfield a appelé son frère à témoigner. Son frère ne se souvenait pas de cette entente et n'a pas pu vraiment se rappeler quelle tâche sa mère avait effectuée pour Where 2.
+[200] Sur ce point, les propres observations de M. Bousfield adressées au ministre étaient incohérentes. Il a demandé une déduction pour des paiements versés à sa mère, de janvier 2006 à juin 2008. Il a pourtant qualifié sa mère de [traduction] « conductrice occasionnelle en sous-traitance [...] ayant commencé à la fin de 2007 jusqu'au début de 2008 »[39]. Il a ensuite présenté une lettre de sa mère qui indiquait qu'elle a travaillé pour lui entre avril 2006 et juin 2007[40].
+[201] Au cours des années en question, M. Bousfield vivait avec sa mère. Je conclus qu'il est beaucoup plus probable que les paiements mensuels qu'il versait à sa mère étaient une forme de loyer ou de partage des coûts, plutôt qu'une rémunération qu'il lui versait pour sous-traiter ses services. Je n'autoriserai pas la déduction de ces dépenses.
+C. Frais d'intérêts [202] M. Bousfield a demandé une déduction au titre des intérêts sur sa carte de crédit comme dépenses d'entreprise. Même si je reconnais que des dépenses d'entreprise étaient débitées de sa carte, il me semble qu'il remboursait chaque mois ces dépenses. Les intérêts semblaient liés à un solde impayé antérieur aux années en cause. Ne disposant d'aucun élément de preuve indiquant à quoi se rapportait ce solde, je n'autoriserai pas M. Bousfield à déduire ces frais d'intérêts.
+D. Autres dépenses [203] M. Bousfield ne m'a présenté aucun document révélant qu'il avait payé les autres dépenses en litige. En outre, plusieurs d'entre elles, comme celles relatives à un ordinateur et à du mobilier, semblent être des dépenses en capital. Je n'autoriserai la déduction d'aucune de ces dépenses.
+E. Dépenses supplémentaires liées à des recettes supplémentaires [204] M. Bousfield affirme que si ses recettes sont augmentées en fonction des projections, parallèlement, ses dépenses devront être augmentées. Je ne suis pas de cet avis. Les recettes de M. Bousfield ont été augmentées parce qu'il ne les a pas toutes déclarées. En revanche, je n'ai aucune raison de croire qu'il n'a pas demandé la déduction de toutes ses dépenses. Si M. Bousfield voulait que ses dépenses soient calculées avec plus de précision, il aurait dû tenir de meilleurs documents comptables, me fournir une copie complète de son grand livre et me présenter des éléments de preuve de dépenses supplémentaires non déduites.
+XIII. TPS [205] Les périodes de déclaration visées par la vérification de la TPS ne correspondaient pas aux années d'imposition visées par la vérification de l'impôt sur le revenu. Le ministre n'a établi une nouvelle cotisation que pour les périodes de déclaration se terminant entre le 1er juillet 2007 et le 31 décembre 2008.
+[206] L'ensemble des redressements lors de la vérification de la TPS ont découlé des redressements lors de la vérification de l'impôt sur le revenu.
+A. Erreurs liées aux vérifications (du 1er juillet au 31 décembre 2007) [207] Mme Canton n'a pas effectué la vérification de la TPS. Ses conclusions concernant l'impôt sur le revenu ont été transmises à un autre vérificateur. Ce vérificateur a commis trois erreurs en établissant une nouvelle cotisation pour les périodes de déclaration de M. Bousfield se terminant entre le 1er juillet et le 31 décembre 2007. Premièrement, il a appliqué le mauvais taux de TPS. Il a utilisé 5 % au lieu de 6 %.
+[208] La deuxième erreur que le vérificateur de la TPS a commise était liée aux fournitures qu'il a taxées. M. Bousfield n'a pas produit ses déclarations de revenus pour 2006 ou 2007. Pour faire en sorte que M. Bousfield les produise, le ministre a établi une cotisation arbitraire à son égard. Par la suite, Mme Canton l'a soumis à une vérification et a établi une nouvelle cotisation à son égard pour augmenter son revenu. Le vérificateur a seulement appliqué la TPS aux fournitures de M. Bousfield dont la majoration était supérieure au montant des recettes pour lesquelles M. Bousfield a fait l'objet d'une cotisation arbitraire aux fins de l'impôt sur le revenu. Il aurait dû l'appliquer à toutes les fournitures qui n'avaient pas déjà été déclarées par M. Bousfield dans ses déclarations de TPS.
+[209] Troisièmement, le vérificateur a ajouté tous les montants supplémentaires au titre de la TPS à percevoir sur ses fournitures de 2007 aux périodes de déclaration de M. Bousfield se terminant entre le 30 septembre et le 31 décembre 2007, au lieu de la répartir sur toute l'année.
+[210] Ces erreurs ont toutes penché en faveur de M. Bousfield. Elles ont donné lieu à de nouvelles cotisations de TPS inférieures. Mon rôle n'est pas d'augmenter les impôts de M. Bousfield. Cela dit, en établissant la TPS qu'il aurait dû payer sur le montant des recettes que j'ai estimé être réduit, je corrigerai les erreurs commises par le vérificateur. La TPS de M. Bousfield sera réduite au bon montant, et non à un montant trop bas.
+B. Redressements liés aux recettes (i) Périodes de déclaration comprises entre le 1er janvier et le 31 décembre 2007 [211] Comme je l'ai indiqué ci-dessus, je conclus que le montant des fournitures taxables non déclarées de M. Bousfield s'est élevé à 25 337 $ en 2007. En supposant que les fournitures ont été réparties de manière égale tout au long de l'année, cela signifiait que M. Bousfield se voyait imposer un montant supplémentaire de 380,05 $ au titre de la TPS à percevoir chaque trimestre[41].
+[212] Le vérificateur n'a pas établi une nouvelle cotisation à l'égard des trimestres se terminant entre le 30 mars et le 30 juin 2007 et ce n'est pas mon rôle de le faire. Par conséquent, aucun redressement n'est nécessaire pour ces trimestres.
+[213] Le vérificateur a établi un montant supplémentaire de TPS à percevoir de 1 218,95 $ au cours des trimestres se terminant entre le 30 septembre et le 31 décembre 2007. Je réduirai en conséquence de 838,90 $ la taxe nette au cours de chacun de ces trimestres.
+(ii) Périodes de déclaration comprises entre le 1er janvier et le 31 décembre 2008 [214] Comme je l'ai indiqué ci-dessus, je conclus que M. Bousfield avait des fournitures taxables non déclarées de son entreprise de taxis qui se sont élevées à 25 605 $ en 2008. En supposant que les fournitures ont été réparties de manière égale tout au long de l'année, cela signifiait que M. Bousfield se voyait imposer un montant supplémentaire de 320,06 $ au titre de la TPS à percevoir chaque trimestre[42].
+[215] Le vérificateur a établi un montant supplémentaire de TPS à percevoir de 907,35 $ au cours de chaque trimestre de 2008. Je réduirai en conséquence de 587,28 $ la taxe nette au cours de chacun de ces trimestres.
+C. Redressements liés aux dépenses (i) Concessions [216] L'intimé a reconnu que M. Bousfield devrait avoir droit à d'autres crédits de taxe sur les intrants relativement aux dépenses qui, comme l'a reconnu l'intimé, devraient être admissibles. L'intimé n'a précisé que les années au cours desquelles les dépenses ont été faites, et non les périodes de déclaration. Je répartirai en conséquence les redressements de manière égale au cours des périodes de déclaration en question. Par conséquent, j'augmenterai les crédits de taxe sur les intrants de 60,37 $, au cours de ses périodes de déclaration se terminant entre le 30 septembre et le 31 décembre 2007, et de 9,76 $ au cours de ses quatre périodes de déclaration se terminant en 2008.
+(ii) CTI refusés à tort [217] Mme Canton a rejeté la demande de crédit à l'égard de diverses dépenses en 2008. Le vérificateur de la TPS présumait que ces dépenses étaient soumises à la TPS. En conséquence, il a réduit les crédits de taxe sur les intrants de M. Bousfield. Certaines des dépenses, pour lesquelles la demande de crédit a été rejetée par Mme Canton en 2008, étaient aux fins de l'assurance et des intérêts. Le vérificateur de la TPS a réduit de 215,53 $ les crédits de taxe sur les intrants de M. Bousfield relativement à ces dépenses. Puisque l'assurance et les intérêts n'étaient manifestement pas soumis à la TPS, M. Bousfield n'avait pas en premier lieu demandé des crédits de taxe sur les intrants à leur égard. Par conséquent, le vérificateur de la TPS n'aurait pas dû les réduire. M. Bousfield aura donc droit à une somme supplémentaire de 53,88 $ au titre de crédits de taxe sur les intrants au cours de chacune de ses quatre périodes de déclaration en 2008.
+D. Résumé [218] En résumé, j'apporterai les rajustements suivants à la taxe nette de M. Bousfield, au cours des périodes de déclaration suivantes :
+Réduction de la TPS à percevoir
+CTI admis
+CTI supplémentaires
+Réduction de la taxe nette
+1er juil. au 30 sept. 2007
+838,90 $
+60,37 $
+-
+899,25 $
+1er oct. au 31 déc. 2007
+838,90 $
+60,37 $
+-
+899,25 $
+1er janv. au 31 mars 2008
+587,28 $
+9,76 $
+53,88 $
+650,92 $
+1er avril au 30 juin 2008
+587,28 $
+9,76 $
+53,88 $
+650,92 $
+1er juil. au 30 sept. 2008
+587,28 $
+9,76 $
+53,88 $
+650,92 $
+1er oct. au 31 déc. 2008
+587,28 $
+9,76 $
+53,88 $
+650,92 $
+XIV. Pénalités [219] Le ministre a imposé des pénalités pour faute lourde relativement aux recettes non déclarées de M. Bousfield.
+[220] Comme je l'ai indiqué ci-dessus, M. Bousfield n'a pas produit de déclarations de revenus pour ses années d'imposition 2006 et 2007. Le ministre a établi des cotisations arbitraires. Cela a incité M. Bousfield à produire des déclarations de revenus. Mme Canton a examiné ces déclarations lors de sa vérification.
+[221] Curieusement, lorsque les nouvelles cotisations ont été traitées, des pénalités pour faute lourde n'ont été imposées qu'à l'augmentation du revenu par rapport au revenu visé par des cotisations lors de l'établissement de cotisations arbitraires. Je croyais qu'à tout le moins, le ministre aurait imposé des pénalités pour faute lourde à la différence entre le montant du revenu que M. Bousfield avait déclaré lorsqu'il a produit des déclarations de revenus après les cotisations arbitraires et le montant du revenu que la vérificatrice a conclu qu'il avait. Étant donné que j'ai conclu que le revenu de M. Bousfield était inférieur à celui visé par des cotisations lors de l'établissement de cotisations arbitraires, je n'ai d'autre choix que d'ordonner l'annulation des pénalités pour 2006 et 2007. Le revenu sur la base duquel elles ont été imposées a été annulé.
+[222] Pour 2008, c'est une tout autre histoire. M. Bousfield a produit une déclaration pour cette année. Après la vérification de Mme Canton, des pénalités ont été imposées à la différence entre son revenu et celui visé par de nouvelles cotisations établies par Mme Canton. Je conclus que ces pénalités étaient appropriées.
+[223] Même si M. Bousfield a réussi à obtenir la réduction du montant des recettes non déclarées, il a cependant omis de déclarer près de 23 % de son revenu en 2008. M. Bousfield connaissait l'industrie du taxi. Il maîtrisait tous les aspects de son entreprise. Il savait ou aurait dû savoir qu'il ne déclarait pas toutes ses recettes.
+[224] La mauvaise tenue par M. Bousfield de ses documents comptables et le fait que tant qu'il n'avait pas fait l'objet de cotisations arbitraires, il n'a pas produit ses déclarations de 2006 et 2007 et qu'il n'a produit sa déclaration de 2008 qu'après avoir été visé par des cotisations arbitraires pour 2006 et 2007, révèlent qu'il était, au mieux, indifférent au fait de se conformer ou non à la loi.
+[225] Si je pensais que M. Bousfield était simplement un mauvais comptable qui n'avait pas effectué un bon suivi de ses recettes, je serais plus compréhensif. Cependant, les pénalités deviennent plus appropriées si je conclus que lui et M. Hooper ont concerté leurs efforts afin de cacher la plupart des courses payées en espèces provenant des quarts de M. Hooper.
+[226] Compte tenu de tout ce qui précède, je confirmerai les pénalités pour 2008 et les annulerai pour 2006 et 2007.
+XV. Conclusion [227] Compte tenu de tout ce qui précède :
+a)l'appel qui vise l'année d'imposition 2006 de M. Bousfield est accueilli et renvoyé au ministre pour nouvel examen et nouvelle cotisation, en tenant compte du fait que le revenu d'entreprise de M. Bousfield sera réduit de 49 211 $ et que toutes les pénalités pour faute lourde seront annulées[43];
+b)l'appel qui vise l'année d'imposition 2007 de M. Bousfield est accueilli et renvoyé au ministre pour nouvel examen et nouvelle cotisation, en tenant compte du fait que le revenu d'entreprise de M. Bousfield sera réduit de 54 668 $ et que toutes les pénalités pour faute lourde seront annulées[44];
+c)l'appel qui vise l'année d'imposition 2008 de M. Bousfield est accueilli et renvoyé au ministre pour nouvel examen et nouvelle cotisation, en tenant compte du fait que le revenu d'entreprise de M. Bousfield sera réduit de 51 485 $[45];
+d)l'appel qui vise la période de déclaration de M. Bousfield se terminant le 30 septembre 2007 est accueilli et renvoyé au ministre pour nouvel examen et nouvelle cotisation, en tenant compte du fait que la taxe nette de M. Bousfield sera réduite de 899,25 $;
+e)l'appel qui vise la période de déclaration de M. Bousfield se terminant le 31 décembre 2007 est accueilli et renvoyé au ministre pour nouvel examen et nouvelle cotisation, en tenant compte du fait que la taxe nette de M. Bousfield sera réduite de 899,25 $;
+f)l'appel qui vise la période de déclaration de M. Bousfield se terminant le 31 mars 2008 est accueilli et renvoyé au ministre pour nouvel examen et nouvelle cotisation, en tenant compte du fait que la taxe nette de M. Bousfield sera réduite de 650,92 $;
+g)l'appel qui vise la période de déclaration de M. Bousfield se terminant le 30 juin 2008 est accueilli et renvoyé au ministre pour nouvel examen et nouvelle cotisation, en tenant compte du fait que la taxe nette de M. Bousfield sera réduite de 650,92 $;
+h)l'appel qui vise la période de déclaration de M. Bousfield se terminant le 30 septembre 2008 est accueilli et renvoyé au ministre pour nouvel examen et nouvelle cotisation, en tenant compte du fait que la taxe nette de M. Bousfield sera réduite de 650,92 $;
+i)l'appel qui vise la période de déclaration de M. Bousfield se terminant le 31 décembre 2008 est accueilli et renvoyé au ministre pour nouvel examen et nouvelle cotisation, en tenant compte du fait que la taxe nette de M. Bousfield sera réduite de 650,92 $.
+Signé à Ottawa, Canada, ce 28e jour de décembre 2022.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+Ce 27e jour de novembre 2023.
+François Brunet, réviseur
+Annexe A
+Recettes du taxi de 2006
+Total des courses non payées en espèces
+44 504 $
+Moins : Courses non payées en espèces de M. Hooper
+(34 138 $)
+Moins : Courses non payées en espèces inscrites sur des enveloppes blanches
+(3 875 $)
+Ventes autres que celles en espèces provenant d'enveloppes blanches manquantes
+6 491 $
+Pourcentage des courses payées en espèces
+80 %
+Courses payées en espèces provenant d'enveloppes blanches manquantes
+25 964 $
+Plus : Courses payées en espèces provenant d'enveloppes blanches[1][46]
+15 258 $
+Plus : Courses payées en espèces comprises sur les bordereaux de M. Hooper
+906 $
+Plus : Courses payées en espèces de M. Hooper non déclarées
+27 025 $
+Total des courses payées en espèces
+69 153 $
+Moins : Part du chauffeur (50 %)[1][47]
+(34 577 $)
+Courses payées en espèces de M. Bousfield
+34 577 $
+Plus : Total des courses non payées en espèces[1][48]
+44 504 $
+Total des recettes du taxi de M. Bousfield (y compris la TPS)
+79 081 $
+Moins : Recettes non soumises à la TPS
+(33 541 $)
+Recettes soumises à la TPS
+45 539 $
+Moins : TPS comprise dans ces recettes
+(2 779 $)
+Recettes soumises à la TPS (net de TPS)
+42 760 $
+Plus : Recettes non soumises à la TPS
+33 541 $
+Total des recettes (net de TPS)
+76 301 $
+Moins : Total des recettes du taxi déclarées
+(55 437 $)
+Recettes du taxi non déclarées de M. Bousfield
+20 864 $
+Annexe B
+Recettes du taxi en 2007 et 2008
+2007
+2008
+Total des courses non payées en espèces[1][49]
+54 252 $
+53 008 $
+Moins : Courses non payées en espèces de M. Hooper[1][50]
+(41 615 $)
+(40 661 $)
+Moins : Courses non payées en espèces inscrites sur des enveloppes blanches[1][51]
+(5 587 $)
+(7 775 $)
+Ventes autres que celles en espèces provenant d'enveloppes blanches manquantes
+7 050 $
+4 572 $
+Pourcentage des courses payées en espèces[1][52]
+78 %
+79 %
+Courses payées en espèces provenant d'enveloppes blanches manquantes
+24 994 $
+17 199 $
+Plus : Courses payées en espèces provenant d'enveloppes blanches[1][53]
+19 298 $
+28 813 $
+Plus : Courses payées en espèces comprises sur les bordereaux de M. Hooper
+n/a
+n/a
+Plus : Courses payées en espèces de M. Hooper non déclarées
+34 049 $
+33 268 $
+Total des courses payées en espèces
+78 341 $
+79 280 $
+Moins : Part du chauffeur (50 %)
+(39 170 $)
+(39 640 $)
+Courses payées en espèces de M. Bousfield
+39 170 $
+39 640 $
+Plus : Total des courses non payées en espèces
+54 252 $
+53 008 $
+Total des recettes du taxi de M. Bousfield (y compris la TPS)
+93 422 $
+92 648 $
+Moins : Recettes non soumises à la TPS[1][54]
+(40 404 $)
+(41 543 $)
+Recettes soumises à la TPS
+53 018 $
+51 105 $
+Moins : TPS comprise dans ces recettes[55]
+(3 001 $)
+(2 434 $)
+Recettes soumises à la TPS (net de TPS)
+50 017 $
+48 672 $
+Plus : Recettes non soumises à la TPS
+40 404 $
+41 543 $
+Total des recettes (net de TPS)
+90 421 $
+90 214 $
+Moins : Total des recettes du taxi déclarées
+(65 084 $)
+(64 609 $)
+Recettes du taxi non déclarées de M. Bousfield
+25 337 $
+25 605 $
+RÉFÉRENCE :
+2022 CCI 169
+NOS DES DOSSIERS DE LA COUR :
+2015-1001(GST)G 2015-1002(IT)G
+INTITULÉ :
+JONATHON BOUSFIELD c. SA MAJESTÉ LE ROI
+LIEU DE L'AUDIENCE :
+Regina (Saskatchewan)
+DATES DE L'AUDIENCE :
+Les 13, 14, 15, 16 novembre 2018 et le 31 octobre, les 1er, 2, 3, 7, 8 et 9 novembre 2022
+MOTIFS DU JUGEMENT :
+L'honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 28 décembre 2022
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me John Krowina
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l'intimé :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] Guibord c. Canada, 2011 CAF 344, par. 14; Hsu c. Canada, 2001 CFA 240, par. 22.
+[2] Hsu (précité), par. 24.
+[3] Hsu (précité), par. 30. Ramey v. The Queen (1993), 93 DTC 791 (CCI), par. 6.
+[4] Berezuik c. La Reine, 2010 2010 CCI 296, par. 16; Francisco c. La Reine, [2003] 2 CTC 2378, 2003 DTC 3958 (CCI), par. 8; Milkowski c. La Reine, 2007 CCI 680, par. 14.
+[5] Bigayan c. La Reine (1999), 1999 CarswellNat 2288, 2000 DTC 1619 (CCI), par. 3; Ramey v. The Queen (1993), 93 DTC 791 (CCI), par. 6; Hong Kong Style Café Ltd. c. La Reine, 2022 CCI 9, par. 39, 42 et 43; Mensah c. La Reine, 2008 CCI 378, par. 23 à 26; Golden c. La Reine, 2009 CCI 396, par. 11; Saini c. La Reine, 2020 CCI 38, par. 24.
+[6] Bigayan v. The Queen (1999), 1999 CarswellNat 2288, 2000 DTC 1619 (CCI), par. 3; Francisco c. La Reine, [2003] 2 CTC 2378, 2003 DTC 3958 (CCI), par. 17; Berezuik c. La Reine, 2010 CCI 296; Golden c. La Reine, 2009 CCI 396, par. 12; Saini c. La Reine, 2020 CCI 38, par. 24.
+[7] Berezuik c. La Reine, 2010 CCI 296.
+[8] Golden c. La Reine, 2009 CCI 396, par. 11; Dionne c. La Reine, 2012 CCI 136, par. 21.
+[9] Molenaar c. Canada, 2004 CAF 349, par. 4, cite avec approbation dans l'arrêt Lacroix c. Canada, 2008 CAF 241, par. 34; Truong c. Canada, 2018 CAF 6, par. 18; Kozar c. La Reine, 2010 CCI 389, par. 55 et 56.
+[10] Lacroix (précité).
+[11] Bigayan c. La Reine (1999), 1999 CarswellNat 2288, 2000 DTC 1619 (CCI), par. 14 et 17.
+[12] Johnston c. M.N.R., [1948] R.C.S. 486; Canada c. Anchor Pointe Energy ltd., 2007 CAF 188.
+[13] Pollock c. La Reine (1993), [1994] 2 C.T.C. 385, 94 DTC 6050 (CAF); La Reine c. Bowens (1996), 96 DTC 6128 (CAF); Anchor Pointe (précité).
+[14] Johnston (précité), par. 9.
+[15] J'ai permis que l'étude sur les taxis soit déposée en preuve simplement pour montrer où Mme Canton avait obtenu son chiffre. Je ne l'ai pas admise pour la véracité de son contenu.
+[16] Pièce A-2, onglet 21, p. 50.
+[17] Dans une autre partie de l'étude sur les taxis, les recettes moyennes des taxis s'élevaient à 237,75 $ par jour (pièce A-2, onglet 21, p. 30). Cependant, étant donné que je n'ai pas admis l'étude sur les taxis pour la véracité de son contenu, ce chiffre ne fait pas partie des éléments de preuve.
+[18] L'étude sur les taxis mentionne un tarif de 9,60 $ par course (pièce A-2, onglet 21, p. 30). Cependant, étant donné que je n'ai pas admis l'étude sur les taxis pour la véracité de son contenu, ce chiffre ne fait pas partie des éléments de preuve.
+[19] Réponse, par. 6(i.17) et (i.18).
+[20] Comme je l'expose plus tôt, M. Bousfield n'a pas produit de déclarations de revenus pour 2006 et 2007. Dans ce tableau, les « recettes déclarées » de M. Bousfield, pour ces années, désignent ses recettes tirées des déclarations qu'il a finalement produites après que le ministre a établi des cotisations arbitraires. Dans son calcul réel, à la pièce R-1, onglet 35, Mme Canton commet une erreur en indiquant que les recettes déclarées de M. Bousfield pour 2007 se sont élevées à 66 540 $. J'ai corrigé l'erreur ici.
+[21] Réponse, par. 6(i.19).
+[22] Pièce A-2, onglet 21, p. 30.
+[23] Avis d'appel en appel 2015-1002(IT)G, par. 10(d).
+[24] A-2, onglet 28, p 326.
+[25] Pièce A-2, onglet 28, p 294; pièce R-2, p. 3 non numérotée.
+[26] Pièce A-2, onglet 16 et pièces R-22, R-23, R-24 et R-25.
+[27] Pièces R-24 et R-25.
+[28] Pièce R-28.
+[29] 34 138 $ de courses non payées en espèces/55 % = 62 069 $ correspondant à la somme totale obtenue des courses. Total obtenu des courses de 62 069 $ x 45 % = 27 931 $ correspondant à la somme en espèces obtenue des courses.
+[30] Pièce R-27.
+[31] Pièce R-30.
+[32] Pièce R-27.
+[33] Pièce R-28.
+[34] Pièce R-30.
+[35] Total de 44 504 $ pour les courses non payées en espèces - 34 138 $ pour les courses non payées en espèces effectuées par M. Hooper - 3 875 $ pour les courses non payées en espèces consignées sur les enveloppes blanches = 6 491 $ pour les courses non payées en espèces provenant des enveloppes blanches manquantes.
+[36] Somme des courses non payées en espèces de 6 491 $/ratio des paiements autres qu'en espèces de 20 % = Somme totale des courses provenant des enveloppes blanches manquantes de 32 455 $. Somme totale des courses de 32 455 $ x ratio des paiements en espèces de 80 % = Somme des courses payées en espèces provenant des enveloppes blanches manquantes de 25 964 $.
+[37] Pièce R-27.
+[38] Recettes de 2005 de 2 464 $ + crédits de 291 $ = 2 756 $.
+[39] Pièce R-19.
+[40] Pièce A-2, onglet 18.
+[41] 25 337 $ × 6 % de TPS/4 trimestres = 380,05 $.
+[42] 25 605 $ × 5 % de TPS/4 trimestres = 320,06 $.
+[43] Recettes du taxi revues à la baisse s'élevant à 45 509 $ + recettes de Where 2 revues à la baisse s'élevant à 2 756 $ + 947 $ de dépenses supplémentaires = 49 211 $.
+[44] Recettes du taxi revues à la baisse s'élevant à 49 584 $ + Recettes de Where 2 revues à la baisse s'élevant à 3 072 $ + 2 012 $ de dépenses supplémentaires = 54 668 $.
+[45] Recettes du taxi revues à la baisse s'élevant à 46 265 $ + Recettes de Where 2 revues à la baisse s'élevant à 4 440 $ + 780 $ de dépenses supplémentaires = 51 485 $.
+[46] Pièce R-30.
+[47] M. Bousfield n'a déclaré que sa part des recettes dans ses documents comptables. J'ai donc fait de même, aux fins d'uniformité.
+[48] Ce chiffre représente la part des courses non payées en espèces provenant des enveloppes blanches (qui sont manquantes et qui ont été fournies) de M. Bousfield et la part des courses non payées en espèces provenant des courses pour enfant de MM. Bousfield et Hooper. M. Bousfield a déduit la part des courses pour enfant de M. Hooper comme dépense. La déduction de cette dépense a été autorisée.
+[49] Pièces R-38 et R-43.
+[50] Les courses non payées en espèces de M. Hooper représentaient 76,8 % de toutes les courses non payées en espèces en 2006 (34 138 $/44 405 $). Ainsi, les chiffres dans cette colonne représentent 76,8 % des chiffres dans la colonne ci-dessus. Je remarque que les chiffres que j'ai calculés pour les courses non payées en espèces de M. Hooper sont très semblables aux chiffres relatifs au total des courses pour enfant et des courses 289 pour la même année. Cela me donne l'assurance que mon calcul est réaliste.
+[51] Pièces R-41 et R-46.
+[52] Pièces R-41 et R-46.
+[53] Pièces R-41 et R-46.
+[54] Pièces R-38 et R-43.
+[55] 6 % en 2007 et 5 % en 2008.

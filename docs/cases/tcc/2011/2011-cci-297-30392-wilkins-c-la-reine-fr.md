@@ -1,0 +1,138 @@
+---
+title: "Wilkins c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30392/index.do"
+last_modified: "2011-06-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 297"
+citation2: ""
+neutral_citation: "2011 CCI 297"
+decision_date: "2011-06-07"
+language: "fr"
+item_id: "30392"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7852
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:49:51.260000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cd34a605a93e10eb22096a8923c61e065d1f1a38cc7344e9abe84bcc84c0cf1f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wilkins c. La Reine
+
+- Citation: 2011 CCI 297
+- Decision date: 2011-06-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7852, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wilkins c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-07
+Référence neutre
+2011 CCI 297
+Numéro de dossier
+2010-2822(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2822(IT)I
+ENTRE :
+TIMOTHY WILKINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 7 juin 2011 à Windsor (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Suzanie Chua
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté par l’appelant à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu, dans laquelle une déduction de 17 614 $ demandée par l’appelant dans le calcul de son revenu pour 2008 a été refusée, est rejeté sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 16e jour de juin 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 3e jour d’août 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 297
+Date : 20110616
+Dossier : 2010-2822(IT)I
+ENTRE :
+TIMOTHY WILKINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Une nouvelle cotisation a été établie à l’égard de l’appelant dans laquelle une déduction de 17 614 $ que l’appelant avait demandée dans le calcul de son revenu pour 2008 a été refusée. Le montant avait été qualifié de [traduction] « cotisations excédentaires transférées au FERR », et la déduction avait été demandée à la ligne 232 de la déclaration de revenus de l’appelant, à savoir la ligne prévue pour les « Autres déductions ».
+[2] La seule explication concernant cette demande de déduction a été fournie par le comptable de l’appelant qui avait rempli la déclaration de revenus de ce dernier. Le comptable a déclaré qu’il avait demandé cette déduction parce que le montant apparaissait à la case 24 d’un feuillet T4RIF délivré par la Banque Royale du Canada. Il n’a pas pu autrement expliquer ce montant, ni préciser ce qu’il représentait.
+[3] Le directeur de banque à la Banque Royale du Canada (la « Banque ») a témoigné, et il a déclaré que normalement, les transferts effectués d’un régime enregistré à un autre sont déclarés à la case 24 d’un feuillet T4RIF. Ainsi, si un montant a été transféré d’un compte de régime enregistré d’épargne-retraite (« REER ») de l’appelant à son compte de fonds enregistré de revenu de retraite (« FERR »), compte tenu du témoignage du directeur de banque, un tel montant serait déclaré à la case 24 d’un feuillet T4RIF.
+[4] Dans l’arrêt R. c. Find, [2001] 1 R.C.S. 863, la juge en chef McLachlin, s’exprimant au nom de la Cour suprême du Canada, a fait les observations suivantes :
+48 Dans la présente affaire, l’appelant s’appuie considérablement sur le mode de preuve fondé sur l’admission d’office de certains faits par le tribunal. La connaissance d’office dispense de la nécessité de prouver des faits qui ne prêtent clairement pas à controverse ou qui sont à l’abri de toute contestation de la part de personnes raisonnables. Les faits admis d’office ne sont pas prouvés par voie de témoignage sous serment. Ils ne sont pas non plus vérifiés par contre-interrogatoire. Par conséquent, le seuil d’application de la connaissance d’office est strict. Un tribunal peut à juste titre prendre connaissance d’office de deux types de faits : (1) les faits qui sont notoires ou généralement admis au point de ne pas être l’objet de débats entre des personnes raisonnables; (2) ceux dont l’existence peut être démontrée immédiatement et fidèlement en ayant recours à des sources facilement accessibles dont l’exactitude est incontestable : R. c. Potts (1982), 66 C.C.C. (2d) 219 (C.A. Ont.); J. Sopinka, S. N. Lederman et A. W. Bryant, The Law of Evidence in Canada (2e éd. 1999), p. 1055.
+[5] Il a été produit en preuve une copie d’un imprimé de renseignements obtenu du système informatique de la Banque, lequel imprimé fait état des montants qui auraient été mentionnés sur le feuillet T4RIF que la Banque aurait délivré à l’appelant pour 2008. Toutefois, les directives qui seraient normalement jointes à ce feuillet n’ont pas été produites en preuve. Il me semble que je peux prendre connaissance d’office des directives qui seraient normalement jointes à ce feuillet, parce que de telles directives sont facilement accessibles sur le site Web de l’Agence du Revenu du Canada (l’« ARC »), et je ne mets pas en doute l’exactitude des formulaires (y compris les directives) contenus dans ce site Web.
+[6] Les directives qui accompagnent le feuillet T4RIF contenu dans le site Web de l’ARC mentionnent ce qui suit :
+Case 24 – Il s’agit de la partie imposable des montants reçus dans l’année qui dépasse le montant minimum. Ce montant est déjà compris à la case 16. Inscrivez seulement le montant inscrit à la case 16 dans votre déclaration. Si le montant reçu n’a pas été déduit de vos revenus comme une cotisation à titre de REER, vous pourriez peut-être déduire un montant compensatoire à la ligne 232. Pour obtenir plus de détails, lisez la ligne 232 du Guide général d’impôt et de prestations et le formulaire T746, Calcul de votre déduction pour remboursement de cotisations inutilisées versées à un REER.
+[7] Le montant qui aurait été inclus à la case 16 du feuillet T4RIF délivré par la Banque était de 18 499 $.
+[8] L’appelant a pris sa retraite en 2008. Ses seules sources de revenu en 2008 étaient constituées de prestations de la Sécurité de la vieillesse et de prestations du Régime de pensions du Canada, ainsi que d’autres montants comme ceux qu’il a retirés de son REER ou de son FERR qu’il avait à la Banque.
+[9] L’appelant a confirmé qu’il n’aurait versé aucune cotisation à son REER en 2008. En réalité, il retirait des fonds de son REER en 2008, et il serait donc illogique de supposer qu’il cotisait à son REER dans la même année où il effectuait des retraits de son REER. Je prends connaissance d’office aussi du formulaire T1 générale 2008 – Déclaration de revenus et de prestations qui se trouve sur le site Web de l’ARC, et je tiens à souligner qu’une déduction des cotisations à un REER serait déclarée à la ligne 208 d’un tel formulaire, et non à la ligne 232. Rien ne donne à penser que l’appelant affirmait que les 17 614 $ représentaient des cotisations qu’il avait versées à un REER.
+[10] La question de savoir si un montant peut être déduit dans le calcul du revenu doit être résolue compte tenu des dispositions de la Loi de l’impôt sur le revenu. Il n’existe aucun fondement qui justifie la déduction demandée. L’appelant n’a versé aucune cotisation à son REER en 2008, et il semble qu’il était fort probable que le montant déclaré à la case 24, comme cela est précisé dans les directives qui auraient été jointes au feuillet T4RIF, était tout simplement le montant imposable que l’appelant avait reçu de son FERR, qui dépassait le montant minimum. Ce montant aurait déjà été inclus, compte tenu des directives mentionnées ci‑dessus, dans les 18 499 $ qui auraient été déclarés à la case 16. Rien n’indique que ce montant était lié aux cotisations versées à un REER que l’appelant ne pouvait pas déduire dans le calcul de son revenu. Je ne suis pas saisi de la question de savoir si les 17 614 $ représentent le montant correct qui a été retiré du FERR de l’appelant et qui dépassait le montant minimum. La seule question dont je suis saisi est de savoir si l’appelant avait le droit de déduire 17 614 $ dans le calcul de son revenu pour 2008.
+[11] En conséquence, l’appel de l’appelant concernant la nouvelle cotisation dans laquelle une déduction de 17 614 $ demandée par l’appelant dans le calcul de son revenu pour 2008 a été refusée est rejeté sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 16e jour de juin 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 3e jour d’août 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011CCI297
+No DU DOSSIER DE LA COUR : 2010-2822(IT)I
+INTITULÉ : TIMOTHY WILKINS
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Windsor (Ontario)
+DATE DE L’AUDIENCE : Le 7 juin 2011
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 16 juin 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Suzanie Chua
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

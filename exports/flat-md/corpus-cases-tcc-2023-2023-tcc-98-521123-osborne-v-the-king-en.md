@@ -1,0 +1,283 @@
+---
+title: "Osborne v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521123/index.do"
+last_modified: "2023-07-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 98"
+citation2: ""
+neutral_citation: "2023 TCC 98"
+decision_date: "2023-07-13"
+language: "en"
+item_id: "521123"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5842
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-11-02T09:02:58.254000+00:00"
+cases_cited_count: 9
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bbeb3f866137738392d06bd0f7875afdfd82d80758dee989740bb1aae3bbf963"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Osborne v. The King
+
+- Citation: 2023 TCC 98
+- Decision date: 2023-07-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5842, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Osborne v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-07-13
+Neutral citation
+2023 TCC 98
+File numbers
+2018-133(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-133(IT)G
+BETWEEN:
+CLARE OSBORNE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on June 29, 2023, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Amin Nur
+JUDGMENT
+WHEREAS the Court has published its Reasons for Judgment on this date;
+NOW THEREFORE THIS COURT ORDERS THAT the appeal from the assessment made under the Income Tax Act, RSC 1985, c.1, as amended (the “Act”), for the 2006 taxation year be dismissed, without costs, on the basis that:
+(i)there were no charitable donations compliant with the Act, beyond those previously allowed,if any, by the Minister of National Revenue (the “Minister”); and,
+(ii)penalties under subsection 163(2) under the Act imposed by the Minister are warranted against the Appellant.
+Signed at Winnipeg, Manitoba, this 13th day of July 2023.
+“R.S. Bocock”
+Bocock J.
+Citation: 2023 TCC 98
+Date: 20230713
+Docket: 2018-133(IT)G
+BETWEEN:
+CLARE OSBORNE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Facts [1] The Appellant (“Mr. Osborne”) appeals the Minister of National Revenue’s (the “Minister”) reassessment of his 2006 taxation year. In reassessing, penalties under section 163(2) of the Income Tax Act, R.S.C. 1985 c.1 (5th sup.) (the “Act”) were also imposed.
+[2] For context and central to the 2006 reassessment is a charitable donation scheme afoot during 2006-2007 within the Region of Durham. The scheme was authored, or at least effected, by one Fais Khan (“Khan”). Khan offered tax preparation services to taxpayers accompanied by the provision of charitable donation receipts involving certain “charities”, some of which are described in the chart below. Other details of Khan’s specific actions are otherwise described within, as necessary.
+[3] Accordingly, the reassessment and penalties relate to disallowed charitable donation tax credits. The following summarizes the related claimed charitable donations, utilizing the legal names of the entities on file with the Minister of National Revenue (“Minister”):
+Item #
+Charity
+Amount
+1.
+Ave Development Foundation
+$6,003
+2.
+Ave Development Foundation
+$6,000
+3.
+Pentecostal Assembly Church International
+$10,500
+4.
+The Mega Church International Inc.
+$11,500
+5.
+Destiny Ministries International Mission
+$9,700
+6.
+PanAfrican Canadian Multicultural Center
+$5,000
+7.
+City Chapel Ministries International
+$11,300
+Witnesses, testimony and other evidence at the hearing [4] Both Mr. and Mrs. Osborne testified at the hearing. Respondent’s counsel entered Mr. Osborne’s 2006 tax return through cross examination, the charitable donation receipts, as well as the records of the revocation of all the alleged charitable entities and the criminal sentencing decision concerning the fraudster, Khan.
+[5] From that testimony and documentary record, the Court has made the following findings of fact concerning events that unfolded culminating in the reassessments and penalties now appealed.
+Referral of Khan by co-worker [6] Sometime in late 2006, a co-worker of Mrs. Osborne, one Marilyn, mentioned that she and her husband used a Fais Khan as their accountant and tax preparer. This was intially thought to be timely advice. Mr. Osborne’s usual tax preparers were relocating and too busy to attend to the preparation of his 2006 return. Mrs. Osborne took the information and contacted Khan.
+House calls: laying the groundwork of deceit
+[7] Upon contact, Khan was more than happy to oblige. He saw Mrs. Osborne 4 or 5 times at the Osborne residence. Mrs. Osborne was taken with the spirituality of Khan, his sense of community spirit and charitable instincts. Mrs. Osborne was and remains a devout Catholic; she identified with Khan’s concern for assisting those in need. Khan presented her with small examples of handicrafts purportedly made by beneficiaries of the various charities. According to Mrs. Osborne, these trinkets illustrated the physical results of the power of charitable gifts.
+Khan demands cash and then accepted cheques
+[8] Khan described for Mrs. Osborne the objects of charitable giving generally. He mentioned in passing names of charities, but the focus was on general charitable giving, the tangible benefits to the recipients and the spiritual growth to the donors, Mr. and Mrs. Osborne. Khan requested sizeable cash sums from Mrs. Osborne to fulfil the commitment. During winter and early spring of 2007, Mrs. Osborne estimates that she gave Khan some $20,000. At first, this was in cash: she would go to her bank, withdraw the cash, return home, and give it to Khan while he waited for her. Soon this became too much effort and Mrs. Osborne indicated she would prefer to write cheques. Khan ultimately compromised. He was willing to receive a cheque, payable to him.
+Mrs. Osborne managed family day to day operations
+[9] Both Mr. and Mrs. Osborne confirmed that Mrs. Osborne managed the day-to-day operations of the family household: children, finances, repairs and social engagements. Included within this was the selection of service providers such as tax preparers. The reason for this, was simple: Mr. Osborne’s job took him out of town for weeks at a time. Only Mrs. Osborne had the continued presence to coordinate the procurement and timing necessary to keep the family on track. As described, she “kept the ship afloat”. Mr. Osborne two roles were working his demanding jobs -- there were several in transition at the time -- and coaching baseball for children’s teams, including his own.
+Completion of 2006 tax return
+[10] In April 2007, tax return time arrived. Khan attended again on Mrs. Osborne to prepare and have the 2006 tax returns finalized. A date was picked when Mr. Osborne was in town (i.e. not on work travel) so that, once completed, he could sign the return. Khan arrived at the residence, reviewed the tax information slips he had requested, and completed the returns for signature.
+No or little review of tax returns [11] Once the return was completed, Mrs. Osborne summoned Mr. Osborne home from the office. In 3 minutes or so, Mr. Osborne entered the house, was introduced to Khan for the first time, was turned to the signing page and executed the tax return. Mr. Osborne did not review his 2006 tax return. Once signed, the returns were sealed by Khan in stamped envelopes and Mrs. Osborne posted the returns herself. As a portent of things to come, Mr. Osborne said he was underwhelmed by Khan finding him “greasy”, with a clammy handshake and dodgy manner. While he resolved not to use Khan again, owing the imminently approaching filing deadline, Mr. Osborne filed his 2006 tax return with Khan as the unacknowledged tax preparer.
+Past record of charitable givings [12] In no tax year before 2006, had Mr. Osborne donated more than $300. In 2006, the amount claimed as charitable donations was $60,003. Previous recipients had been the Church, minor sports and the Salvation Army. In 2006, the recipients were recorded as 6 different charities, none of which Mr. Osborne recognized then or during his testimony. Mrs. Osborne had a vague recollection of one or two from initial conversations with Khan, but she was mostly unfamiliar with them.
+The CRA and police arrive on the Osborne doorstep
+[13] The CRA caught on to Khan in early 2008. As part of that detection, the CRA initiated a search of the Osborne residence. Fifteen people from the CRA and assorted police forces arrived at the Osborne residence in May of 2008. The authorities were on the hunt for copiers, blank charitable receipts and other paraphernalia needed for charity scheme fraud. Children’s piggy banks were opened, Christmas gifts inspected, and personal liberties constrained during the search. The Osbornes were charged with income tax evasion.
+A long and winding road to appeal [14] The toll and grind on the Osbornes have been extreme. They have lasting views of the adverse impact and freely expressed them in Court. They say their treatment at the hands of the CRA has left them weakened, impoverished and despondent. All criminal proceedings were dismissed because of unconstitutional delays. It is quite clear that the Osbornes were large victims of Khan. As well, it seems they fell hard for the Khan “con” in the first instance. As a result, the Osbornes clung longer to the notion that Khan or the charities would deliver evidence of bona fide receipts for the cash and cheques provided. As an example, while the police and CRA searched the house, Mrs. Osborne desperately called the charities and pleaded for corroboration. The requests went unheeded but not unnoticed. The Osbornes’ pleas were interpreted as complicity by one Lorraine Armstrong of the CRA, who marshalled the criminal prosecution for the CRA.
+Mr. Osborne asserts his cooperation was spurned by the CRA
+[15] Mr. Osborne asserts he and his wife assisted the CRA with the investigation once Khan’s fraud was known to them. Further, he asserts that their information and documentation was used by Ms. Armstrong to uncover the deceit. However, it was not received as evidence of the Osbornes’ victimhood but interpreted as a complicit surrender of those involved with something to hide. In contrast, evidence was produced that showed other victims of Khan were allowed by the Minister’s agents to refile returns, minus the charitable donations, with no imposed penalties.
+The tax evasion charges against the Osbornes [16] The income tax evasion charges against the Osbornes are entirely unrelated to the reassessment at issue before this Court. However, ignoring the charges would be blind to several deeply seared scars borne by the Osbornes to this day, and omnipresent before the Court during the trial. The Court used its continuous, best efforts to convince Mr. Osborne that the facts, legal tests and basis for his liability for any tax assessment and penalties, the issue before this Court, were divorced from his charges, defence and acquittal of income tax evasion. Based upon Mr. Osborne’s continued reference to those charges during the trial and closing argument, the Court admits its failure in that regard. Therefore, these reasons include those assertions which comprised the basis for appeal.
+Appellant’s Grounds for Appeal [17] Mr. Osborne contests the disallowed donations and penalties on the following basis:
+(1) he is an honest, law-abiding person, hoodwinked and “conned” by a convicted criminal;
+(2) the CRA has treated fraud victims of Khan’s fraud unequally;
+(3) Mr. Osborne had no intention to misrepresent, knowingly file a false return or avoid paying income taxes; and,
+(4) he neither anticipated, expected nor suspected the dealings of Khan were fraudulent.
+II. Issues [18] There are two issues to be determined by the Court are:
+(a) is Mr. Osborne entitled to the disallowed charitable tax credits identified in the table at the outset of these reasons?
+(b) are subsection 163(2) penalties warranted either because Mr. Osborne knowingly or under circumstances amounting to gross negligence made false statements in his 2006 tax returns?
+[19] At the outset of submissions, Respondent’s counsel resiled from the suggestion that Mr. Osborne knowingly made a false statement on his 2006 tax return.
+Preliminary Issue: alleged conduct of the Minister’s Agents (the “CRA”) [20] As noted, Mr. Osborne alleges that the CRA, and Ms. Lorraine Armstrong, had something “personal” against the Osbornes. The CRA believed the Osbornes were complicit with Mr. Khan in the charity scam and conducted themselves like “storm troopers”. The Minister has treated other taxpayers more advantageously than Mr. Osborne. Further, Mr. Osborne asserts the defence of the criminal charges cost him some $240,000, a goodly portion of his life savings. In short, he believes the Minister’s actions, if not held accountable, should, at least mitigate his continued victimization by the imposition of penalties.
+[21] As explained at the hearing and repeated now, the CRA and Minister’s actions concerning the criminal charges, even if totally unjustified, have no, and cannot have any, legal bearing on the issue of the correctness of the assessment for tax and imposed penalties. The issues, legal tests, facts and considerations are distinct as between criminal behaviour of tax evasion, on one hand, and liability for income tax, on the other, and must remain so[1]. Further, the Minister is not held to a standard of treating one taxpayer the same as or less fairly than another.[2] Lastly, the Court reaffirms for the Osbornes that the liability for tax and penalties under the ITA, at issue before this Court, does not incorporate judgment for bad behaviour, or good for that matter. The Tax Court’s jurisdiction is to determine whether the taxpayer is liable to pay tax (and within that determination, entitled to the claimed deductions), and when doing so, has the taxpayer been grossly negligent, as the Minister asserts in this appeal.
+III. Analysis and Decision (a) Charitable tax credits [22] The issue of whether amounts were actually paid by Mr. Osborne[3] to the charities or whether he had the requisite donative intent[4] will be discussed below. The appeal to claim the donation deductions fails at the outset for a compelling and simple reason: the charitable donation receipts reflecting the alleged donations are deficient.
+[23] Regulations 3500 and 3501[5], referenced in section 118.1 of the Act, provide mandatory, inescapable requirements for the form and content of charitable donation receipts. Receipts must be retained and produced to the Minister in compliant form in order for a successful charitable donation deduction[6] to be made.
+Charitable Receipt
+Deficiency
+Section offended
+Deficiency
+Section offended
+Deficiency
+Section offended
+Ave Development Foundation
+If a portion cash, no dates, amounts per date or breakdown
+3501(1)(e)
+If partial Cheque,
+no date or specific receipt dates
+3501(h)
+Ave Development Foundation
+If a portion cash, no dates, amounts per date or breakdown
+3501(1)(e)
+If partial Cheque,
+no date or specific receipt dates
+3501(h)
+Pentecostal Assembly Church Int’l
+Is a portion ash, no dates, amounts per date or breakdown
+3501(1)(e)
+No locality of receipt issuance
+3501(1)(d)
+Name incorrect as recorded with Minister
+3501(1)e
+The Mega Church International
+If a portion cash, no dates, amounts per date or breakdown
+3501(1)(e)
+No locality of receipt issuance
+3501(1)(d)
+Destiny Ministries Int’l Mission
+Cash, but no dates, amounts per date or breakdown
+3501(1)(e)
+No locality of receipt
+3501(1)(d)
+Name incorrect as recorded with Minister
+3501(1)e
+PanAfrican Canadian Multicultural Centre
+Cash, but no dates, amounts per date or breakdown
+3501(1)(e)
+No locality of receipt
+3501(1)(d)
+Name incorrect as recorded with Minister
+3501(1)e
+City Chapel Ministries International
+Cash, but no dates, amounts per date or breakdown
+3501(1)(e)
+No locality of receipt
+3501(1)(d)
+[24] The following table analyzes each charitable receipt tendered by Mr. Osborne and outlines the multiple bases by which each is deficient and non-compliant with the Act and Regulations:
+[25] Given these deficiencies as to the form and content of the charitable receipts, in the first instance, Mr. Osborne is not entitled to the charitable deductions claimed for the entities listed above.
+[26] Quite apart from this basis for dismissing the appeal, there is another equally compelling ground: there is no evidence Mr. Osborne intended to donate a single dollar to the specific entities above. He could not recall a single name of the purported charities, whether from memory or when such receipts, as attached to his tax return, were placed before him at trial. Mrs. Osborne’s distinct knowledge of the charities’ existence, even as a proxy, was only slightly better than that of Mr. Osborne, and likely arose after the fact. A combination of cash and cheques estimated by Mr. and Mrs. Osborne to total $20,000 was tendered, but never directly to the charities, only exclusively to Khan. Further, receipts 2, 4, 5 and 7 recorded donation dates which occurred before Khan had collected any money from the Osbornes.
+[27] Mr. Osborne, or Mrs. Osborne as his proxy/agent, never made a gift as contemplated at common law; he or she “purchased” donation receipts from Khan with grossly inflated values well beyond the cash paid.
+[28] The leading case on the meaning of “gift” is The Queen v. Friedberg[7], where Linden J.A. defined “gift” as:
+...[A] gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor...
+[29] Respondent counsel referred to the case of Coombs et al v. The Queen,[8] where Woods J. referred to the elements of this definition in the following manner:
+... First, it is necessary that the gifted property be owned by the donor, second that the transfer to the charity be voluntary, third that no consideration flow to the donor in return for the gift, and fourth that the subject of the gift be property, which distinguishes it from providing services to the charity. These elements reflect the general notion that a taxpayer must have a donative intent to transfer property to the charity.
+[30] In short, Mr. Osborne and Mrs. Osborne lacked any contemporaneous knowledge of a charitable destination for the money tendered, were unknowledgeable of the even theoretical beneficiaries and employed a tax preparer as the conduit, selector, receipt collector and courier for any moneys and receipts. The needed legal requirements for a charitable gift are absent; donative intent does not exist given the facts. Lastly, in submissions, Mr. Osborne concurred with the analysis that the charitable receipts were fraudulent, albeit discovered by him after the fact.
+b) 163(2) Penalties [31] As noted, while the Minister pleaded both knowledge and gross negligence in the reply, counsel conceded during argument that only gross negligence would be pursued as a basis for imposing the penalties.
+[32] Gross negligence need not include an executed or effective action. Instead, it may arise from omission or inaction borne of wilful blindness[9]. In other words, in a marked departure from usual practice, did the taxpayer choose to ignore certain steps?
+[33] Relevant to appeals such as Mr. Osborne’s, are certain factors to be analyzed to determine if a taxpayer has been wilfully blind when meandering the factual landscape before him. These summarized factors, arising in the case of Torres v The Queen[10] and applied and refined in other cases, are as follows:
+(a) knowledge of a false statement can be imputed by willful blindness;
+(b) the concept of willful blindness can be applied to gross negligence penalties pursuant to subsection 163(2) of the Act;
+(c) in determining willful blindness, consideration must be given to the education and experience of the taxpayer;
+(d) to find willful blindness there must be a need or a suspicion for an inquiry;
+(e) circumstances that would indicate a need for an inquiry prior to filing, or flashing red lights…, include the following:
+(i) the magnitude of the advantage or omission;
+(ii) the blatantness of the false statement and how really detectable it is;
+(iii) the lack of acknowledgement by the tax preparer who prepared the return in the return itself;
+(iv) unusual requests made by the tax preparer;
+(v) the tax preparer being previously unknown to the taxpayer;
+(vi) incomprehensible explanation by the tax preparer;
+(vii) whether others engaged the tax preparer or warned against doing so, or the taxpayer himself or herself expresses concern about telling others;
+(f) the final requirement for willful blindness is that the taxpayer makes no inquiry of the tax preparer to understand the return, nor makes any inquiry of a third party, nor the CRA itself.
+Education and background of taxpayer
+[34] Mr. Osborne is a reasonably articulate and experienced businessman. He worked as a Vice-President in the financial services industry for various companies during 2006: Wells Fargo Canada, HSBC Canada and Manulife Bank of Canada. He testified that he could determine a person’s character by the tenor of one’s handshake and presence. To that end, he indicated he did not trust Khan from his first and only meeting. He found his handshake clammy, akin to a “dead fish” and his presence unengaging. From that point, he did not trust him, but had little choice to not use him as a tax preparer since the “die had been cast” and it was too late to switch, so he stuck with Khan.
+[35] The following outlines, referable to the enumerated factors in Torres, why Mr. Osborne should have deployed his possessed skills of detection and discernment:
+(i) The extraordinary amounts of the claimed donations ($60,003), federal donation tax credits ($17,373) and received tax refund ($12,572) relative to the amounts given were completely irreconcilable per se, and also against any past charitable donations;
+(ii) Mr. Osborne simply had not given the amount of money he claimed he did at the time he said he did as recorded in his tax return;
+(iii) Mr. Khan did not indicate he prepared the tax return within the return, even though that was the job for which he was ostensibly retained;
+(iv) No donation was given directly to any charity: Khan continually attended the Osborne residence, requested that large sums of cash (and later cheques) be paid directly to him on the spur of the moment and in return hand delivered the charitable receipts to the Osbornes;
+(v) Khan was not known to Mr. Osborne (or Mrs. for that matter) prior to the late 2006 referral by Mrs. Osborne’s co-worker who was also Mr. Osborne’s supervised subordinate employee;
+(vi) The tax returns were prepared in handwritten format in pencil at the Osbornes’ house; and,
+(vii) While the lure of “a tax refund for the first time in years” was a motivating factor, it is clear Mr. Osborne’s own “life learned” better instincts raised a hesitation to proceed.
+[36] Lastly, the critical and final step to detection is a review of the tax return, particularly where Mr. Osborne’s own instincts rang alarm bells. That last chance for detection was abandoned. Mr. Osborne stated in testimony that to this day he does not review his tax returns beyond the signing page. As such, in 2007 for his 2006 tax return, he did not engage in a review of his tax return reflective of his respective and distinct experience and knowledge. Taxpayers who choose not to review their tax returns, and who should know better than omit that required task, are grossly negligent.[11] For future, Mr. Osborne should take note of this and correct his intransigent omission.
+[37] In summary, all factors in Torres which ought to have raised suspicion were present to some degree or other at the time Mr. Osborne failed to read, and then filed his tax return. Choosing to be oblivious, despite such warnings, plays directly into the hands of gross negligence. The penalties shall remain.
+[38] For these reasons, the appeals are dismissed without costs.
+Signed at Winnipeg, Manitoba, this 13th day of July 2023.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2023 TCC 98
+COURT FILE NO.:
+2018-133(IT)G
+STYLE OF CAUSE:
+CLARE OSBORNE AND
+HIS MAJESTY THE KING;
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 29, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+July 13, 2023
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Amin Nur
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] R v. Consumers’ Gas Company Ltd. 1986 CanLII 6885 (FCA) at Page 5012; Cheikkezzein v. HMQ 2013 TCC 348 at paragraph 14.
+[2] Main Rehabilitation v. HMQ 2004 FCA 403 at paragraphs 7,8 and 9.
+[3] Coombs v HMQ, 2008 TCC 289.
+[4] Frieberg v HMQ, 1991 CarswellNat 669.
+[5] Plante v HMQ, 1999 CarswellNat 418 at paragraphs 46,47 and 48.
+[6] Plante, supra at paragraph 49.
+[7] 92 D.T.C. 6031.
+[8] 2008 D.T.C. 4004 at paragraph 15.
+[9] Wynter v Canada, 2017 CarswellNat 5049, 2017 FCA 195 at paragraphs 20 and 21.
+[10] Torres v R., 2013 CarswellNat 4583, 2013 TCC 380.
+[11] Lauzon v. HMQ, 2016 TCC 71 at paragraphs 32 and 45; Melman v HMQ 2016 TCC 167 at paragraphs 40 and 43; aff’d 2017 FCA 83; Brown v. HMQ, 2009 TCC 28 at paragraph 20.

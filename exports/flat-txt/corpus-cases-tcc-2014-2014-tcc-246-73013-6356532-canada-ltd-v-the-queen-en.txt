@@ -1,0 +1,112 @@
+Title: 6356532 Canada Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/73013/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-246-73013-6356532-canada-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-06-26
+
+# 6356532 Canada Ltd. v. The Queen
+
+- Citation: 2014 TCC 246
+- Decision date: 2014-06-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5199, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+6356532 Canada Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-06-26
+Neutral citation
+2014 TCC 246
+File numbers
+2013-368(GST)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-368(GST)G
+BETWEEN:
+6356532 CANADA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Show cause hearing called for hearing on June 26, 2014 at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Stephen Oakey
+ORDER
+Whereas the Appellant was not present when the show cause hearing was called, although duly notified of the time and place of the hearing;
+And whereas no one appeared on the Appellant’s behalf;
+And upon hearing from the Respondent;
+IT IS ORDERED THAT the appeal with respect to the reassessments made under the Excise Tax Act for the reporting periods from January 1, 2009 to March 31, 2010 is dismissed, without costs, subject to the Court’s commitment to reinstate the appeal if a Notice of Counsel is filed within 30 days from the date of this Order.
+Signed at Ottawa, Canada this 5th day of August 2014.
+“Patrick Boyle”
+Boyle J.
+Docket: 2013-368(GST)G
+BETWEEN:
+6356532 CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF ORAL REASONS FOR ORDER
+Let the attached edited transcript of the Reasons for Order delivered orally from the Bench at Toronto, Ontario on June 26, 2014 be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity and to make minor corrections only. I did not make any substantive changes.
+Signed at Ottawa, Canada this 5th day of August 2014.
+“Patrick Boyle”
+Boyle J.
+Citation: 2014 TCC 246
+Date: 20140805
+Docket: 2013-368(GST)G
+BETWEEN:
+6356532 CANADA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+(Show cause hearing called for hearing and decision rendered orally from the Bench on June 26, 2014 at Toronto, Ontario.)
+Boyle J.
+[1] In his Order of March 18, 2014, Justice D'Arcy ordered the Appellant Corporation to report to the Court by April 15, 2014, to advise which counsel has been retained. The Appellant did not comply with this Order.
+[2] Furthermore, no one appeared on behalf of the Appellant at today's show cause hearing.
+[3] The Appellant has also not communicated with the Court by way of motion to have someone else represent it nor has counsel of record been appointed. Therefore, this matter is dismissed without costs subject to my commitment to reinstate it if notice of counsel is filed within 30 days of this Order and subject to the taxpayer's right within 30 days to seek to have it reinstated for reasons the Court is not aware of at the present time.
+Signed at Ottawa, Canada this 5th day of August 2014.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2014 TCC 246
+COURT FILE NO.:
+2013-368(GST)G
+STYLE OF CAUSE:
+6356532 CANADA LTD. AND THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 26, 2014
+REASONS FOR ORDER BY:
+The Honourable Justice Patrick Boyle
+DATE OF ORDER:
+August 5, 2014
+APPEARANCES:
+For the Applicant:
+No one Appeared
+Counsel for the Respondent:
+Stephen Oakey
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,88 @@
+Title: Lassonde c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27889/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-487-27889-lassonde-c-la-reine-en.md
+Document type: case_law
+Last modified: 2007-09-05
+
+# Lassonde c. La Reine
+
+- Citation: 2007 TCC 487
+- Decision date: 2007-09-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1737, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lassonde c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-05
+Neutral citation
+2007 TCC 487
+File numbers
+96-3767(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 96-3767(IT)I
+96-3769(IT)I
+96-4749(IT)G
+97-34(IT)I
+BETWEEN:
+NORMAND LASSONDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+ORDER
+IT IS ORDERED that the appeal bearing the number 96-4749(IT)G be dismissed in accordance with the Reasons for Order.
+IT IS FURTHER ORDERED that the parties be ready to proceed to the hearing of the appeals bearing the numbers 96‑3767(IT)I, 96-3769(IT)I and 97‑34(IT)I, scheduled for September 4, 2007, as stated in the order signed on February 12, 2007.
+Signed at Saskatoon, Canada, this 21st day of August 2007.
+"D.G.H. Bowman"
+Bowman C.J.
+Translation certified true
+on this 30th day of January 2008.
+Brian McCordick, Translator
+Citation: 2007TCC487
+Date: 20070821
+Dockets: 96-3767(IT)I
+96-3769(IT)I
+96-4749(IT)G
+97-34(IT)I
+BETWEEN:
+NORMAND LASSONDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Bowman C.J.
+[1] The Appellant filed an application dated July 27, 2007, for an order extending the time in which to file his list of documents in the matter bearing the number 96‑4749(IT)G, and for an adjournment of the hearing of the instant appeals, scheduled for September 4, 2007.
+[2] For the following reasons, I am unwilling to grant the application.
+[3] We received the Respondent's written representations in opposition to the application, as well as the Appellant's response to the Respondent's written representations.
+[4] On December 12, 1996, the Appellant appealed to this Court from a notice of reassessment issued on September 7, 1993, in respect of the 1989 taxation year. The proceedings before this Court were stayed pending a decision in McKeown v. The Queen, 2001 TCC 962732, which was rendered on March 12, 2001.
+[5] On October 3 and October 4, 2002, Garon J., as he then was, held a status hearing at which the Appellant stated that he intended to bring a motion to dismiss the proceedings for unreasonable delay. The filing of the motion was postponed several times at the Appellant's request. On April 17, 2003, the motion was filed with the Registry of this Court. Lamarre Proulx J. heard the motion on August 11, 12, 13, 14 and 15, 2003. On October 3, 2003, the Appellant's arguments were rejected in a decision by Lamarre Proulx J. On October 4, 2005, the Federal Court of Appeal dismissed an appeal from that decision. On April 20, 2006, the Supreme Court of Canada refused leave to appeal.
+[6] On June 29, 2006, Dussault J. gave the parties until November 30, 2006, to prepare and file their list of documents. On December 29, 2006, the Respondent filed a motion to dismiss the appeal by reason of delay because the Appellant still had not filed his list of documents, as required by the order of Dussault J. On January 26, 2007, Angers J. gave the Appellant six more months, that is to say, until July 27, 2007, to prepare and file his list of documents. The reason that he granted so much time was that the Appellant was experiencing health problems. Angers J. also set down the hearing of these appeals for September 4, 2007. In his order, he clearly stated that a failure to comply with this time limit would result in the dismissal of the appeal without further notice. On the afternoon of July 27, 2007, the last day of the period granted by Angers J., the Appellant filed a Notice of Motion.
+[7] The motion is for an extension of time on the ground that the Appellant is unable, by reason of his medical condition, to file and serve his list of documents and appear at the hearing of this appeal, scheduled for September 4, 2007, as required by the order signed on February 12, 2007.
+[8] The Appellant's motion pertains to an appeal filed in December 1996 with respect to the 1989 taxation year. Thus, nearly 11 years have elapsed, without significant progress, since the appeal was filed in our Court. The Respondent has been ready to proceed since October 2002, but the Appellant asked several times for the hearings, and even the time limits, to be postponed, and those requests were always granted. Our Court is also sensitive to the fact that the Appellant is representing himself without counsel, which is what largely accounts for the great clemency that the Appellant has enjoyed as far as compliance with time limits is concerned.
+[9] In the order signed on February 12, 2007, Angers J. was clear and unambiguous. He specified as follows:
+[TRANSLATION]
+If the Appellant does not comply with this order, the appeal shall be dismissed without any further notice or motion to dismiss the appeal.
+[10] It is in the interests of justice that this warning not be derogated from, unless there are exceptional reasons to do so.
+[11] As for the Appellant's medical condition, he was content to submit what appears to be a medical prescription from May 2007 in support of his motion. He did not file any recent medical certificate that would enable me to comprehend the true nature of his health problems and assess his ability to take part in the hearing.
+[12] Our Court is certainly aware of the Appellant's state of health, and, in his order of February 12, 2007, Angers J. already granted him a six-month extension for that reason. It should be recalled that, on June 29, 2006, we gave the Appellant a more than reasonable amount of time in which to prepare and file his list of documents. As a result, in total, the Appellant has had the benefit of 13 months in which to prepare and file his list of documents.
+[13] Consequently, I am of the opinion that it is appropriate, in the instant case, to dismiss the Appellant's motion for an extension of the time in which to prepare and file his list of documents contemplated in the order signed on February 12, 2007. Given the context, I will also proceed to dismiss this appeal because the Appellant has failed to comply with the order of Angers J. signed on February 12, 2007.
+Signed at Saskatoon, Canada, this 21st day of August 2007.
+"D.G.H. Bowman"
+Bowman C.J.
+Translation certified true
+on this 30th day of January 2008.
+Brian McCordick, Translator

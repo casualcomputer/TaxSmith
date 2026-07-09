@@ -1,0 +1,193 @@
+---
+title: "Tan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109814/index.do"
+last_modified: "2015-05-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 121"
+citation2: ""
+neutral_citation: "2015 TCC 121"
+decision_date: "2015-05-12"
+language: "en"
+item_id: "109814"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2815
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:23:01.690000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ebc9de5d249d1b853981eeca7e538bbad1a08b5f917e280431521f7f5a6377bf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tan v. The Queen
+
+- Citation: 2015 TCC 121
+- Decision date: 2015-05-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2815, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-05-12
+Neutral citation
+2015 TCC 121
+File numbers
+2014-83(GST)I
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-83(GST)I
+BETWEEN:
+MEI MEI TAN c.o.b. as MTM CHINESE RESTAURANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 25, 2015, at Hamilton, Ontario
+Before: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Lenny Tam
+Counsel for the Respondent:
+Dominique Gallant
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated October 22, 2008 for the reporting period of May 13, 2005 to December 31, 2005, is allowed in part. The assessment will be referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to an additional input tax credit of $819.25
+Signed at Kingston, Ontario, this 12th day of May 2015.
+« Rommel G. Masse »
+Masse D.J.
+Citation: 2015 TCC 121
+Date: 20150512
+Docket: 2014-83(GST)I
+BETWEEN:
+MEI MEI TAN
+c.o.b. as
+MTM CHINESE RESTAURANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Masse D.J.
+[1] This is an appeal from a Notice of Reassessment dated October 22, 2008 for the reporting period of May 13, 2005 to December 31, 2005 (the “period”).
+Factual Context [2] The Appellant is an individual who operates a restaurant located at 1070 Stonechurch Rd. E., in Hamilton, as a sole proprietorship under the name of MTM Chinese Food Restaurant.
+[3] The Appellant became a registrant for purposes of the Goods and Services Tax (the “GST”) effective May 13, 2005. However, she had been operating the restaurant prior to that date. During the time that she operated the restaurant prior to her registration date, the Appellant collected GST and remitted the GST collected to the Minister of National Revenue (the “Minister”).
+[4] On May 23rd 2006, the Minister assessed the Appellant’s initial GST return for the period under review wherein she claimed a net tax refund of $4,330.22. On October 22nd 2008, the Minister reassessed the Appellant’s GST return for the period so as to deny input tax credits (“ITCs”) totalling $2,533.22. Interest and penalties were also assessed. The Appellant filed a Notice of Objection dated October 24, 2013, but the Minister confirmed the reassessment on the basis that the Appellant claimed ITCs on operating expenses that were either incurred prior to the date of business registration or on the basis that the supporting documents did not meet the prescribed requirements of s. 169(4) of the Excise Tax Act, RSC 1985, c. E-15 (the “Act”) as amended, and s. 3 of the Input Tax Credit Information (GST/HST) Regulations, SOR/91-45 (the “Regulations”) as amended. Consequently, the Appellant appeals to this Court.
+[5] Initially, the issue to be determined was whether or not the Minister properly disallowed ITCs totalling $2,533.22. However, at the beginning of the hearing counsel for the Minister and Mr. Lenny Tam, the representative for the Appellant, spent a fair bit of time going over documents produced by the Appellant (Exhibit R-1). As a result of this collaborative effort, the Minister concedes that the Appellant is entitled to additional ITCs in the amount of $819.25. The number of documents in dispute have also been greatly reduced as described in the paragraphs that follow.
+[6] Lisa Griffith is a tax auditor with the Canada Revenue Agency (henceforth, the “CRA”). she was assigned this file with the mandate of ensuring the eligibility of the GST return filed for the period. This was the first filing for the Appellant. She produced her working papers to the Court (see Exhibit R-2). As a result of agreement between the Minister and the Appellant, the following items for which the Appellant claimed ITCs are to be litigated:
+a) Item #3 on page 2 of Ms. Griffith’s working paper refers to what appears to be capital expenditures in the amount of $10,450 for the installation of a burner, walk-in cooler, a dishwasher, woks, chopping block, steam table, etc. These expenditures are evidenced by simple receipts purported to be issued by the supplier, Superior Restaurant Equipment, on August 21st 2004, September 11th 2004 and October 25th 2004; one of them seems to bear Chinese characters. These documents do not indicate the GST number of the supplier nor do they indicate that any GST was paid on the invoice.
+b) Items #12 and #14 on page 2 of Ms. Griffith’s working paper references work done installing a kitchen range hood and an entire exhaust system. This expenditure is evidenced by a cheque #006 dated Nov 5th 2004 payable to Kem Sheet Metal in the amount of $5,000 and two receipts – one dated August 30th 2004 in the amount of $5,000 and the other dated November 2nd 2004 in the amount of $5,000, both signed by Kem Mahmut, owner of Kem Sheet Metal Co.. None of these documents bear the name or address of the supplier. None of these documents bear the name or address of the supplier. None of these documents bear the GST number of the supplier and none state that the GST has in fact been paid or is collectible.
+c) Related to (b) above is item #17 on page 2 of Ms. Griffith’s working papers also referencing work done installing the kitchen range hood and exhaust system. This expenditure is evidenced by a cheque #0009 dated December 13th 2004 in the amount of $4,000, and a receipt dated December 10th 2004 in the amount of $4,000 signed by Hussein Mahmut on behalf of Kem Sheet Metal Co. None of these documents bear the GST number of the supplier and none state that the GST has in fact been paid or is collectible.
+[7] The Appellant produced Exhibit R-3 which is an agreement dated August 28th 2004, between Kem Sheet Metal and MTM Restaurant regarding the installation of the aforementioned range hood and exhaust system. The contract price is $19,000. It is specifically indicated that this price includes all applicable taxes. The Appellant argues that s. 233(1)b) of the Act permits a contract price to include the GST. Even if I give effect to this argument, it does not change the fact that the supplier’s GST number does not appear on any of the documents evidencing the contract for services between the parties.
+[8] The Appellant also put into issue two other expenditures. One is in the amount of $320.02 paid to Brabant Newspapers for the production of promotional flyers. This invoice does have the supplier’s GST number; however, from the invoice it is seen that these services were rendered before the Appellant obtained her business number and therefore, pursuant to s. 171(2) of the Act, cannot be the subject of a claim for ITCs. The other expenditure is in the amount of $160.52 paid to ABP Recyling Inc. for disposal of grease. This invoice is dated December 7th 2004. The Appellant suggests that this service extended into the time period after she obtained her business number; however, there is no evidence to support this contention and so this expenditure also cannot form the basis of a claim for ITCs.
+[9] The only issue remaining is the absence of the GST number of the Appellant’s suppliers on the various documents relied upon by her in support of her claim for Input Tax Credits.
+Legislative Provisions [10] The relevant provisions of the Excise Tax Act, RSC 1985, c. E-15, as amended, are as follows:
+169. (4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed;
+[…]
+171. (1) […]
+(2) Subject to this Division, where at any time a person becomes a registrant, in determining the input tax credits of the person for the first reporting period of the person ending after that time,
+(a) there may be included the total of any tax that became payable by the person before that time, to the extent that the tax was payable in respect of services to be supplied to the person after that time for consumption, use or supply in the course of commercial activities of the person or was calculated on the value of consideration that is a rent, royalty or similar payment attributable to a period after that time in respect of property that is used in the course of commercial activities of the person; and
+(b) there shall not be included any tax that becomes payable by the person after that time, to the extent that the tax is payable in respect of services supplied to the person before that time or is calculated on the value of consideration that is a rent, royalty or similar payment attributable to a period before that time.
+223. (1) If a registrant makes a taxable supply, other than a zero-rated supply, the registrant shall indicate to the recipient, either in prescribed manner or in the invoice or receipt issued to, or in an agreement in writing entered into with, the recipient in respect of the supply,
+(a) the consideration paid or payable by the recipient for the supply and the tax payable in respect of the supply in a manner that clearly indicates the amount of the tax; or
+(b) that the amount paid or payable by the recipient for the supply includes the tax payable in respect of the supply.
+[…]
+(2) A person who makes a taxable supply to another person shall, on the request of the other person, forthwith furnish to the other person in writing such particulars of the supply as may be required for the purposes of this Part to substantiate a claim by the other person for an input tax credit or rebate in respect of the supply.
+295. (2) Except as authorized under this section, no official or other representative of a government entity shall knowingly
+(a) provide, or allow to be provided, to any person any confidential information;
+[…]
+(5) An official may
+(a) provide such confidential information to any person as may reasonably be regarded as necessary for the purpose of the administration or enforcement of this Act, solely for that purpose;
+(b) provide to a person confidential information that can reasonably be regarded as necessary for the purposes of determining any liability or obligation of the person or any refund, rebate or input tax credit to which the person is or may become entitled under this Act;
+[…]
+(6) An official or other representative of a government entity may provide confidential information relating to a person
+(a) to that person; and
+(b) with the consent of that person, to any other person.
+[My emphasis]
+[11] The relevant provisions of the Input Tax Credit Information (GST/HST) Regulations, SOR/91-45, as amended provide:
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+[…]
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under section 241 of the Act to the supplier or the intermediary, as the case may be,
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+[My emphasis]
+Theory of the Appellant [12] The Appellant argues that the only thing that is missing on the disputed documents is the GST number of her suppliers. The Appellant submits that she has met all other requirements of s. 169(4) of the Act. However, it is argued that the Minister, being the entity that issues the GST numbers, already has knowledge of the GST numbers of the various suppliers. The Appellant therefore asks why should it be the responsibility of the Appellant to make sure that the supplier’s GST number is on the supplier’s invoice if the Minister already has that information? The Appellant affirms that she has put forth every effort after the fact to obtain the required information from her suppliers but to no avail. She also submits that she has sought out that information from the Minister pursuant to s. 295 of the Act but the Minister has refused, citing reasons of confidentiality. It is the position of the Appellant that the suppliers have implicitly given their consent to the disclosure of this information and does not understand why the Minister will not disclose this information. The Appellant submits that she has done everything that the Act and the Regulations require of her other than provide the GST number of the suppliers, which the Minister already has, and therefore prays that her appeal be allowed.
+Theory of the Respondent [13] The Respondent argues that, in order for the Appellant to be able to claim any ITCs, she must obtain all of the information required pursuant to s. 169(4) of the Act and s. 3 of the Regulations, before making a claim for ITCs. These provisions are mandatory and cannot be sidestepped or ignored. It matters not that the Minister is presumed to have knowledge of the GST number of every registered supplier. It is the responsibility of the Appellant to obtain this information for each transaction with her suppliers and not that of the Minister to track down the GST numbers of a claimant’s suppliers. None of the documents here under consideration bear the suppliers’ GST numbers and therefore the Appellant has not met the requirements of s. 169(4) of the Act and s. 3 of the Regulations.
+[14] In addition, the documents do not indicate that any GST was in fact paid.
+[15] The Respondent therefore asks that the appeal be allowed in part and that the assessment be referred back to the Minister for reconsideration and reassessment on the basis that Appellant is only entitled to additional input tax credits of $819.25.
+Analysis [16] In my view, the Appellant’s arguments must fail.
+[17] In the matter of Systematix Technology Consultants Inc. v. The Queen, 2006 TCC 277 (CanLII), the Minister disallowed ITCs on the basis that invoices provided by Systematix’s suppliers did not contain all the prescribed information required under subsection 169(4) of the Act and subparagraph 3(b)(i) of the Regulations. It was common ground between the parties that the only issue before the Court was whether a proper GST registration number was provided on the questioned invoices. Justice Archambault of this Court dismissed the appeal stating that he was of the view that these provisions were mandatory and the requisite information had to be obtained before a claim for ITCs could be made. He stated as follows:
+[10] In my view, these provisions [subsection 169(4) of the Act and subparagraph 3(b)(i) of the Regulations] make it clear that a registrant may not claim an ITC unless, before filing the return, he has obtained the prescribed information, which includes the registration number of the supplier. This interpretation has been adopted by many of my colleagues. In Helsi Construction Management Inc. v. R., [2001] G.T.C. 396, Associate Chief Judge Bowman (as he then was), observing that GST registration numbers were not shown on the invoices, said in paragraph 11:
+[...] This is a requirement under section 3 of the Input Tax Credit Information Regulations. While there may be some justification in certain cases for treating technical or mechanical requirements as directory rather than mandatory (for example see Senger-Hammond v. R. (1996), [1997] 1 C.T.C. 2728 (T.C.C.) that is not so in the case of the GST provisions of the Excise Tax Act.
+[My emphasis.]
+[11] Judge McArthur in Alexander Nix Group Inc. v. R., [2002] G.T.C. 334, [2002] G.S.T.C. 100, basically stated at paragraph 6 that he agreed with this conclusion. He cited this additional portion of Bowman A.C.J.'s decision, taken from paragraph 13 thereof : "Moreover, it [meeting technical requirements] is the foundation of a self-assessing system that operates in the commercial world."
+[Emphasis added]
+[18] On further appeal to the Federal Court of Appeal, (see 2007 FCA 226), Justice Sexton expressed agreement with Justice Archambault that the provisions here under consideration are mandatory and not merely directory. The Appellant had not met the technical requirements which the Act and the Regulations placed upon him as a member of a self-assessing system. These mandatory requirments must be strictly enforced and so the appeal by Systematix was dismissed.
+[19] In the case of Comtronic Computer Inc. v. R., 2010 TCC 55 (CanLII) Justice Boyle of this Court was dealing with the issue of whether a taxpayer was entitled to ITCs in respect of inputs where the GST registration number of the supplier shown on the invoice was not that of the suppliers but was a validly issued number belonging to someone else. The taxpayer was blameless in all respects. Comtronic paid for these supplies together with GST but the suppliers had never remitted the GST to the Minister. Justice Boyle held that not only did s. 169(4) of the Act require that the registrant have obtained the GST registration number of the supplier, but that it was a valid number that was assigned to that specific supplier. He observed at paragraph 24:
+[24] Subsection 169(4) is clear that an ITC cannot be claimed unless the claimant has obtained prescribed information. Section 3 of the Regulations is clear that the prescribed information must include the name of the supplier or the name under which the supplier does business, and the registration number assigned to the supplier.
+[25] The Federal Court of Appeal in Systematix Technology Consultants Inc. v. Canada, 2007 FCA 226 (CanLII), [2007] G.S.T.C. 74, had occasion to consider this very issue in circumstances where an ITC claim had been made in similarly unfortunate circumstances where, for various reasons, the suppliers did not have valid GST registration numbers. The Court of Appeal wrote:
+4 We are of the view that the legislation is mandatory in that it requires persons who have paid GST to suppliers to have valid GST registration numbers from those suppliers when claiming input tax credits.
+[Emphasis added.]
+[26] Given the wording of paragraph 169(4)(a), as well as the Reasons for Judgment of Archambault J. in the Tax Court ( 2006 TCC 277 (CanLII), [2006] G.S.T.C. 120) with which the Federal Court of Appeal agreed, I take the court’s reference to “valid GST registration numbers from those suppliers” to mean GST registration numbers validly assigned to those suppliers.
+[…]
+[33] … I am unable to see how the broad wording of the relevant provisions and the interpretation thereof by the Federal Court of Appeal that the wording is mandatory and should be strictly enforced, and which requires that the ITC claimant have the registration number assigned to the supplier, should result in any different outcome in this case
+[38] While there was not an online verification system available to purchasers in the years in question maintained by the CRA for purposes of confirming supplier names and registration numbers, there was a CRA telephone inquiry service for this purpose.
+[20] It is clear that it is the duty of a claimant of Input Tax Credits to obtain the information required by s. 169(4) of the Act and s. 3 of the Regulations, from its suppliers before making any claim for the ITCs, not after the fact. It is undoubted that these requirements are mandatory. The information required includes the GST number of the claimant’s suppliers. It is not up to the Minister to track down this information as suggested by the Appellant. This would put too heavy a burden on those who are charged with the administration of the Excise Tax Act.
+Conclusion [21] For all of the foregoing reasons, and giving effect to the concession made by counsel for the Respondent, this appeal is allowed in part. The assessment will be referred back to the minister for reconsideration and reassessment on the basis that the Appellant is entitled to an additional input tax credit of $819.25.
+Signed at Kingston, Ontario, this 12th day of May 2015.
+« Rommel G. Masse »
+Masse D.J.
+CITATION:
+2015 TCC 121
+COURT FILE NO.:
+2014-83(GST)I
+STYLE OF CAUSE:
+MEI MEI TAN c.o.b. as MTM CHINESE RESTAURANT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+February 25, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Rommel G. Masse, Deputy Judge
+DATE OF JUDGMENT:
+May 12, 2015
+APPEARANCES:
+Agent for the Appellant:
+Lenny Tam
+Counsel for the Respondent:
+Dominique Gallant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,217 @@
+---
+title: "Roy c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26026/index.do"
+last_modified: "2004-06-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 416"
+citation2: ""
+neutral_citation: "2004 CCI 416"
+decision_date: "2004-06-25"
+language: "fr"
+item_id: "26026"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4086
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:18:16.893000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7eb9fa92cb336c2423cb7f5edeea23bfea8aaff574f74daa013a47c865e537a9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Roy c. M.R.N.
+
+- Citation: 2004 CCI 416
+- Decision date: 2004-06-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4086, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roy c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-25
+Référence neutre
+2004 CCI 416
+Numéro de dossier
+2003-744(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers: 2003-744(EI)
+2003-745(EI)
+ENTRE :
+LÉOPOLD ROY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appels entendus le 1er juin 2004, à Roberval (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Julie David
+_______________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi sont rejetés, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour de juin 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI416
+Date : 20040625
+Dossiers : 2003-744(EI)
+2003-745(EI)
+ENTRE :
+LÉOPOLD ROY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de deux appels à l'encontre d'une détermination relative à l'assurabilité d'un travail exécuté par l'appelant. Dans un premier temps, le travail litigieux a été exécuté au cours de la période allant du 3 avril au 7 juillet 2000 pour le compte de monsieur Steeve Roy, fils de l'appelant, et à son bénéfice.
+[2] Dans un deuxième temps, soit du 28 février au 29 juin 2001, le travail a été exécuté pour madame Élizabeth Awashish Roy, l'épouse de l'appelant.
+[3] Les deux déterminations ont été communiquées par une lettre en date du 29 novembre 2002. Le fondement juridique des deux déterminations est que le travail exécuté par l'appelant découlait du lien de dépendance existant entre le payeur et son père dans un cas et la payeuse et son époux dans l'autre.
+[4] Subsidiairement, l'intimé a aussi plaidé que le travail exécuté ne l'avait pas été dans le cadre d'un véritable contrat de louage de services, puisque le travail n'avait pas été assujetti à un quelconque pouvoir de contrôle.
+[5] Les parties ont convenu de procéder au moyen d'une preuve commune pour les deux appels. Après que le tribunal ait expliqué à l'appelant la procédure et certaines exigences, dont celle relative au fardeau de la preuve, ce dernier a fait part au tribunal qu'il était disposé à faire certaines admissions quant aux faits tenus pour acquis à l'appui des déterminations.
+[6] Les hypothèses de fait prises en compte à l'appui des deux déterminations sont les suivantes :
+Dossier 2003-744(EI) :
+a) Le payeur exploite, depuis novembre 1999, une entreprise de transport sous la raison sociale de « Transport J.S.S. Sikum Enr. » .
+b) Le payeur, fils de l'appelant, est l'unique propriétaire de l'entreprise de transport.
+c) Le payeur se spécialise dans le transport de copeaux de bois et de bois rond.
+d) Le payeur exploite son entreprise à l'année longue.
+e) Le payeur a un chiffre d'affaires mensuel variant entre 26 000 $ et 28 000 $.
+f) Le bureau d'affaires du payeur est situé dans la résidence personnelle de monsieur Steeve Roy.
+g) Le payeur possède 2 camions; un camion servant au transport des copeaux et l'autre servant au transport des billots de bois.
+h) Les camions roulent 24 heures par jour du lundi au vendredi.
+i) Le payeur embauche 4 chauffeurs à plein temps ainsi que l'appelant en tant que chauffeur remplaçant.
+j) Le payeur affirme que les heures de travail de l'appelant étaient très variables et dépendaient des absences des chauffeurs réguliers.
+k) Le payeur pouvait consulter les heures de travail de l'appelant en consultant le journal de bord (log book) du camion utilisé par l'appelant.
+l) L'appelant remplaçait les chauffeurs malades, en vacances ou non disponibles.
+m) L'appelant détenait un permis de chauffeur de classe 1 et il était enregistré comme chauffeur du payeur dans la plupart des endroits de débarquement alors que les autres chauffeurs devaient obtenir une procuration du payeur pour certains endroits de débarquement.
+n) L'appelant recevait une rémunération en fonction du voyage effectué; il pouvait recevoir entre 125 $ et 150 $ du voyage effectué.
+o) Il a été impossible de concilier les informations sur les voyages exécutés par l'appelant et les informations contenues au registre des salaires du payeur.
+p) En plus de son travail de chauffeur, l'appelant s'occupait de la tenue des livres comptables et de la comptabilité du payeur.
+q) L'épouse de l'appelant, madame Élizabeth Awashish, exploitait aussi une entreprise de transport dans le même domaine que l'entreprise du payeur (son fils).
+r) Le bureau d'affaires de l'entreprise de l'épouse de l'appelant était, lui aussi, situé dans la résidence du payeur.
+s) L'appelant s'occupait aussi de la tenue des livres comptables et de la comptabilité de l'entreprise de son épouse.
+t) L'appelant prétend qu'il consacrait à chaque entreprise de 2 à 3 heures par semaine à faire la comptabilité; il leur consacrait aussi quelques heures à la fin de chaque mois pour faire les remises et compléter les documents nécessaires pour les divers gouvernements.
+u) L'appelant ne recevait aucune rémunération du payeur ou de son épouse, pour les heures consacrées à la comptabilité de leurs entreprises.
+v) Durant la période en litige, l'appelant a été inscrit au registre des salaires du payeur pendant 13 semaines consécutives.
+w) Durant cette période, l'appelant aurait effectué entre 4 et 6 voyages par semaine.
+x) L'appelant n'aurait prétendument effectué aucun autre voyage pour le payeur en dehors de la période en litige alors que, en fait, il devait remplacer les autres chauffeurs lors de leur absence.
+y) L'appelant rendait de nombreux services au payeur, en tant que chauffeur et en tant que teneur de livres comptables, en dehors de la période en litige sans être inscrit au registre des salaires.
+z) La prétendue période de travail de l'appelant ne correspond pas aux besoins de l'entreprise ni à la période réellement travaillée par l'appelant mais aux besoins de l'appelant pour lui permettre de bénéficier de prestations d'assurance-emploi.
+Dossier 2003-745(EI) :
+a) Depuis juillet 2000, la payeuse exploite une entreprise de transport sous la raison sociale de « Transport Nipin Enr. » .
+b) La payeuse, épouse de l'appelant, est l'unique propriétaire de l'entreprise de transport.
+c) La payeuse se spécialise dans le transport de copeaux de bois et de bran de scie.
+d) La payeuse exploite son entreprise à l'année longue.
+e) La payeuse a un chiffre d'affaires mensuel variant entre 48 000 $ et 50 000 $.
+f) Le bureau d'affaires de la payeuse est situé dans la résidence personnelle de monsieur Steeve Roy, son fils.
+g) La payeuse possède 2 camions.
+h) Les camions roulent 24 heures par jour du lundi au vendredi.
+i) La payeuse embauche 4 chauffeurs à plein temps ainsi que l'appelant en tant que chauffeur remplaçant.
+j) La payeuse affirme que les heures de travail de l'appelant étaient très variables et dépendaient des absences des chauffeurs réguliers.
+k) La payeuse pouvait consulter les heures de travail de l'appelant en consultant le journal de bord (log book) du camion utilisé par l'appelant.
+l) L'appelant devait remplacer les chauffeurs malades, en vacances ou non disponibles.
+m) L'appelant détenait un permis de chauffeur de classe 1 et il était enregistré comme chauffeur de la payeuse dans la plupart des endroits de débarquement alors que les autres chauffeurs devaient obtenir une procuration de la payeuse pour certains endroits de débarquement.
+n) En plus de son travail de remplacement comme chauffeur, l'appelant s'occupait de la tenue des livres comptables et de la comptabilité de la payeuse.
+o) Le fils de l'appelant et de la payeuse, M. Steeve Roy, exploitait aussi une entreprise de transport dans le même domaine que l'entreprise de la payeuse.
+p) Le bureau d'affaires de l'entreprise du fils de l'appelant était, lui aussi, situé dans la résidence de Steeve Roy.
+q) L'appelant s'occupait aussi de la tenue des livres comptables et de la comptabilité de l'entreprise de son fils.
+r) L'appelant prétend qu'il consacrait à chaque entreprise de 2 à 3 heures par semaine à faire la comptabilité; il leur consacrait aussi quelques heures à la fin de chaque mois pour faire les remises et compléter les documents nécessaires pour les divers gouvernements.
+s) L'appelant ne recevait aucune rémunération de la payeuse ou de son fils, pour les heures consacrées à la comptabilité de leurs entreprises.
+t) Durant la période en litige, l'appelant a été inscrit au registre des salaires de la payeuse pendant 17 semaines consécutives.
+u) L'appelant n'aurait prétendument effectué aucun autre voyage pour la payeuse en dehors de la période en litige alors qu'il devait effectuer le remplacement des chauffeurs absents.
+v) Durant cette même période, l'appelant a reçu une rémunération fixe de 640 $ par semaine.
+w) L'appelant recevait une rémunération prétendument horaire de 16 $ alors que les autres chauffeurs recevaient un montant fixe par voyage.
+x) Durant la période en litige, l'appelant aurait prétendument travaillé 40 heures à chacune des semaines de la période alors qu'il était censé faire du remplacement selon les besoins de la payeuse.
+y) L'appelant gérait l'entreprise et s'occupait des tâches quotidiennes de celle-ci.
+z) L'appelant rendait de nombreux services à la payeuse en dehors de la période en litige sans être inscrit au registre des salaires.
+aa) La prétendue période de travail de l'appelant ne correspond pas aux besoins de l'entreprise ni à la période réellement travaillée par l'appelant mais aux besoins de l'appelant pour lui permettre de bénéficier de prestations d'assurance-emploi.
+[7] Quant au dossier 2003-744(EI), l'appelant a admis tous les alinéas, à l'exception des alinéas m), o), x), et z).
+[8] Quant au dossier 2003-745(EI), l'appelant a admis tous les alinéas, à l'exception de m), x), et aa).
+[9] Bien que les deux payeurs aient très succinctement témoigné, la preuve a été essentiellement constituée du témoignage de l'appelant. Doté d'une forte personnalité et très articulé, l'appelant a démontré avoir de l'expertise et de l'expérience dans le secteur économique où oeuvraient son fils et son épouse; il possédait, en outre, de bonnes qualités de gestionnaire.
+[10] Les payeurs, le fils de l'appelant et sa conjointe, ont, par contre, démontré un certain inconfort et une totale inexpérience dans le cas de l'épouse; lors des périodes en litige, l'appelant avait donc été une personne indispensable.
+[11] La preuve a démontré que le ministre du Revenu national avait fait une analyse très exhaustive, ayant pris en considération tous les faits pertinents. D'ailleurs, les nombreux faits tenus pour acquis et reproduits dans les deux réponses aux avis d'appel sont largement suffisants pour soutenir et justifier les déterminations faisant l'objet des appels. L'appelant ayant reconnu comme exacts et véridiques la très grande majorité de ces faits, dont plusieurs étaient déterminants, les appels pourraient être rejetés sur cette seule base; je me permets cependant d'ajouter certains commentaires et observations.
+[12] Monsieur Léopold Roy a expliqué avoir été très profondément affecté par un drame survenu dans sa famille immédiate. Il a expliqué qu'un des moyens retenus pour oublier avait été de se dévouer totalement au travail pour se changer les idées.
+[13] Il a reconnu avoir travaillé en dehors des périodes en litige pour les deux entreprises. Il a aussi affirmé que le salaire qu'il avait reçu était en deçà de ce qu'il avait mérité, puisque, souvent, il avait reçu une rémunération basée sur 40 heures alors qu'en réalité, il avait plutôt travaillé au-delà de 70 heures par semaine.
+[14] À certaines occasions, il a indiqué avoir ralenti la cadence, à cause de son état de santé. Il a aussi affirmé avoir quitté volontairement le travail à la fin de chacune des périodes en litige, mais avoir continué à un rythme moins intense.
+[15] Il a également utilisé les termes suivants pour décrire la relation de travail avec son fils : « c'est une faveur qu'il me faisait en me permettant de l'accompagner » , « personne ne m'aurait donné une telle chance ailleurs » .
+[16] Affirmant avoir été élevé dans une famille nombreuse où tous s'entraidaient, il a ainsi justifié l'ampleur des services gratuits rendus à son fils et à sa conjointe.
+[17] La preuve a aussi révélé qu'il avait agi comme une personne-ressource lors de la création de l'entreprise de son fils en le formant et en lui donnant toutes les instructions nécessaires pour bien démarrer son entreprise.
+[18] Quant à l'entreprise de sa conjointe, l'appelant a non seulement agi comme personne-ressource, mais il a vraiment tout fait, cette dernière étant manifestement ni qualifiée pour ce genre d'activités ni intéressé par celles-ci, étant déjà la propriétaire exploitante d'une toute autre entreprise, soit un centre d'accueil pour personnes âgées.
+[19] Les hypothèses de fait mentionnées dans les avis d'appel et admises et les explications présentées lors de l'audience se sont avérées cohérentes; elles justifient totalement la raisonnabilité des deux déterminations à l'origine des appels.
+[20] Il n'y a aucun doute que le travail exécuté par l'appelant a été utile, nécessaire, voire même essentiel pour les deux entreprises. Par contre, il est apparu tout aussi évident qu'un tiers n'aurait jamais eu ou accepté des conditions de travail à peu près semblables ou comparables. Un tiers se serait montré beaucoup plus exigeant sur le plan salarial; d'autre part, jamais un tiers n'aurait été un collaborateur aussi généreux pour son employeur. Seul le lien de dépendance pouvait expliquer et justifier une telle gratuité et un pareil désintéressement envers son temps.
+[21] L'appelant a lui-même rapporté un très bel exemple de la particularité de son travail. Il a expliqué qu'il avait dû agir comme chauffeur pour remplacer un chauffeur qui n'aimait pas la période du dégel. Ce fait ne démontre-t-il pas qu'un tiers n'ayant aucun lien de dépendance avec le payeur peut avoir des exigences qu'un membre de la famille de l'employeur n'oserait pas exprimer ou manifester?
+[22] L'appelant a d'ailleurs lui-même soulevé que son salaire aurait dû être d'environ 1 000 $ par semaine plutôt que le montant de 640 $ qu'il a reçu.
+[23] La prépondérance de la preuve indique que le travail exécuté par l'appelant, pour le compte de son fils et de sa conjointe et à leur bénéfice, n'était pas semblable à celui qu'un tiers aurait fait dans un contexte comparable.
+[24] Dans les faits, l'appelant travaillait avec la même énergie, la même détermination et les mêmes préoccupations que s'il avait été lui-même propriétaire des entreprises concernées, ce qui, en soi, n'est ni un défaut, ni un reproche; bien au contraire, cet enthousiasme et sa très grande générosité de son temps l'honore. Par contre, une telle relation de travail ne correspond ni aux normes, ni aux habitudes d'un contrat de travail entre des tiers, où le contenu et le contexte du contrat de travail sont essentiellement basés sur des préoccupations économiques. L'employé livre une prestation de travail définie moyennant une rémunération qui correspond à la qualité et la quantité du travail fourni.
+[25] Cela permet d'ailleurs d'enchaîner avec l'analyse de l'argument subsidiaire soulevé par l'intimé, à savoir que l'appelant n'occupait pas un emploi assurable au sens de la Loi sur l'assurance-emploi pendant la période en litige puisque, pendant cette période, l'appelant et la payeuse n'étaient pas liés par un véritable contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi.
+[26] Il s'agit là d'un argument tout à fait justifié dans un dossier où le payeur est l'épouse de l'appelant. Dans ce dossier, l'appelant s'est lui-même décrit comme une personne-ressource; bien plus, au niveau de tous les intervenants, il était la seule personne qualifiée pour répondre à toutes les questions relatives aux affaires de l'entreprise oeuvrant dans le transport.
+[27] Le témoignage de l'épouse de l'appelant a d'ailleurs confirmé que cette dernière n'avait ni l'expérience, ni la compétence, ni l'autorité nécessaire pour prétendre avoir un pouvoir de contrôle sur les faits et gestes de l'appelant.
+[28] Ce dernier agissait comme s'il avait été le véritable propriétaire de l'entreprise. Cette question a été effleurée lors des questions en l'instance, mais la preuve n'a pas permis de conclure que madame Élizabeth Awashish avait agi comme simple prête-nom.
+[29] Par contre, il y a aucun doute que l'appelant n'a jamais été dans une situation de subordination; bien au contraire, il était en situation d'autorité et cela, en tout temps, lors des périodes en litige.
+[30] Plus qualifié que son fils et son épouse pour le travail nécessaire aux activités génératrices de revenus, l'appelant avait un ascendant tel sur son fils et son épouse que ces derniers n'étaient définitivement pas en mesure de détenir un quelconque pouvoir de contrôle.
+[31] Un véritable contrat de louage de services, seul contrat pouvant être déterminé assurable, doit être le résultat d'une entente selon laquelle un travail défini sera exécuté moyennant une rémunération adéquate, c'est-à-dire conforme aux normes applicables au secteur économique concerné.
+[32] Un tel contrat de travail doit être justifié par des préoccupations économiques dans un contexte où la qualité, la productivité et l'efficacité sont des objectifs omniprésents. Le début et la fin du travail doivent découler des seuls besoins de l'entreprise.
+[33] La qualité des relations de travail peut varier d'une entreprise à l'autre. Dans certains cas, il peut y avoir une plus grande flexibilité, une plus grande collaboration, une meilleure communication, des comportements plus généreux, etc., et tout cela à l'intérieur d'un véritable contrat de louage de services assurable.
+[34] Par contre, il existe certains cas une ligne de démarcation très fine qui ne peut être traversée sous peine de faire perdre la qualité d'assurabilité d'un travail. Cette fameuse ligne est évidemment plus facile à traverser lorsque le travailleur et le payeur ont un lien de dépendance entre eux.
+[35] On peut traverser cette ligne sans mauvaise foi et sans fraude; cela peut découler de simples sentiments plus répandus et omniprésents en milieu familial que dans un milieu où l'on est intéressé et guidé par les seuls intérêts économiques et où l'équilibre se situe généralement au milieu entre la position du payeur qui en veut le plus possible pour le salaire qu'il paie et, de l'autre côté, la position du travailleur qui veut le meilleur salaire qui soit pour le moins de travail possible et ce, dans le simple contexte propre au système capitaliste.
+[36] En l'espèce, l'appelant a rendu des services très bons et utiles, voire même essentiels, en contrepartie d'une rémunération inadéquate, en ce sens qu'elle ne correspondait pas à ce qui aurait dû être payé à un tiers pour la même qualité et quantité de travail. D'autre part, l'appelant souhaitait vivement que l'entreprise de son fils soit un succès, ce qui l'honore et qui s'explique par son statut de père pour qui le bien de son fils passe avant tout.
+[37] Quant à l'entreprise de transport exploitée par son épouse, il n'est pas évident de la preuve qu'il s'agissait réellement de l'entreprise de cette dernière; il n'est certainement pas exagéré de conclure que l'entreprise était, dans les faits, contrôlée et dirigée par l'appelant lui-même.
+[38] Dans un tel contexte, il ne pouvait exister de véritable contrat de louage de services puisqu'il n'y avait aucun lien de subordination; en effet, la prépondérance de la preuve n'a jamais démontré que les employeurs avaient été, lors des périodes en litige, en situation d'autorité ou qu'ils avaient disposé d'un quelconque pouvoir de contrôle. L'appelant était seul maître de tous les faits et gestes exécutés dans le cadre du travail exécuté.
+[39] Pour toutes ces raisons, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 25e jour de juin 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI416
+NosDES DOSSIERS DE LA COUR :
+2003-744(EI); 2003-745(EI)
+INTITULÉ DES CAUSES :
+Léopold Roy et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Roberval (Québec)
+DATE DE L'AUDIENCE
+le 1 juin 2004
+MOTIFS DU JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 25 juin 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé:
+Me Julie David
+AVOCAT(E) INSCRIT(E) AUX DOSSIERS :
+Pour l'appelant :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

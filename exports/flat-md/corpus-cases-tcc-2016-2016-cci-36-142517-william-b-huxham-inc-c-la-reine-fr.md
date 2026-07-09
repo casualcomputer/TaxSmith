@@ -1,0 +1,146 @@
+---
+title: "William B. Huxham Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/142517/index.do"
+last_modified: "2016-02-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 36"
+citation2: ""
+neutral_citation: "2016 CCI 36"
+decision_date: "2016-02-12"
+language: "fr"
+item_id: "142517"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3014
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:10:54.788000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fdfaa536c0be86f64f67f11cde4990f42648d2a1969d84c08e37a0aae6617d5e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# William B. Huxham Inc. c. La Reine
+
+- Citation: 2016 CCI 36
+- Decision date: 2016-02-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3014, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+William B. Huxham Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-02-12
+Référence neutre
+2016 CCI 36
+Numéro de dossier
+2014-4503(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-4503(IT)I
+ENTRE :
+WILLIAM B. HUXHAM INC.
+appelant
+et
+SA MAJESTÉ LA REINE
+intimée
+[TRADUCTION FRANÇAISE]
+Appel entendu le 2 février 2016, à Victoria (Colombie-Britannique).
+Devant : La juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+M. William Huxham
+Avocat de l’intimée :
+Me Kristian DeJong
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2008 et 2009 de l’appelant est rejeté.
+Signé à Ottawa (Canada), ce 12e jour de février 2016.
+« V.A. Miller »
+Juge V.A. Miller
+Référence : 2016CCI36
+Date : 20160212
+Dossier : 2014-4503(IT)I
+ENTRE :
+WILLIAM B. HUXHAM INC.
+appelant
+et
+SA MAJESTÉ LA REINE
+intimée
+MOTIFS DU JUGEMENT
+Juge V.A. Miller
+[1] La question en litige dans le présent appel est de savoir si l’appelant avait le droit de déduire une perte au titre d’un placement d’entreprise de 675 151 $ en 2008, ainsi qu’une perte autre qu’une perte en capital de 24 079 $ en 2009 qu’il avait reportée. Le montant déduit en 2009 provenait d’une portion non utilisée du montant de la perte au titre d’un placement d’entreprise déduite en 2008.
+[2] Le seul témoin à l’audition de cet appel était William B. Huxham, comptable.
+Question préliminaire [3] La perte au titre d’un placement d’entreprise déclarée en 2008 était composée de deux montants. Le premier était un montant de 591 415 $ déclaré par l’appelant pour une dette payable par Elkhorn Developments Ltd. (« Elkhorn »); le second était un montant de 83 736 $ pour lequel l’appelant avait allégué une dette payable par B&T Roadbuilders Ltd. (« B&T »). Au début de l’audience, M. Huxham a affirmé que l’appelant avait décidé de raturer la perte au titre d’un placement d’entreprise déclarée pour les 83 736 $ dus par la société B&T. M. Huxham a expliqué que l’appelant avait abandonné sa revendication au motif que la société B&T ne figure plus dans les dossiers de l’entreprise depuis le 5 septembre 2005.
+Faits [4] Les actionnaires de l’appelant sont Mme Elsie Victoria Huxham et M. William Huxham, qui détiennent respectivement 80 % et 20 % des actions. Mme Elsie Victoria Huxham et M. William Huxham sont conjoints.
+[5] La totalité des actions d’Elkhorn est détenue par la société 232522 B.C. Ltd. (« 232 B.C. »). Mme Huxham et M. Huxham possèdent chacun 25 % des actions de la société 232 B.C.; le reste des actions, soit 50 %, est détenu par Durken Enterprises Ltd. Ni l’appelant, ni Mme Huxham, ni M. Huxham ne détiennent d’actions de Durken Enterprises Ltd.
+[6] Elkhorn n’a pas présenté de déclaration de revenus depuis 2003. Selon M. Huxham, les derniers états financiers d’Elkhorn auraient été préparés le 31 octobre 2003. Toutefois, les états financiers du 31 octobre 2003 n’ont pas été présentés à l’audition de cet appel. À la place, on a déposé pour Elkhorn un dossier des états financiers intermédiaires daté du 31 mars 2003, dans lequel il est écrit qu’Elkhorn devait 458 916 $ à l’appelant.
+[7] M. Huxham a déposé un bilan de l’exercice prenant fin le 31 décembre 2007 pour l’appelant. Ce document n’était pas signé, et je ne sais pas s’il a été inclus dans la déclaration de revenus de l’appelant pour 2007. Cependant, on peut y lire qu’Elkhorn devait 591 415 $ à l’appelant en 2006 et 2007.
+[8] Je remarque que les éléments de preuve démontrent que la société Elkhorn n’était pas exploitée en 2006 et qu’elle a été dissoute le 15 janvier 2007.
+[9] M. Huxham a allégué qu’au cours de cette période, les livres et pièces comptables de la société Elkhorn et de l’appelant étaient tenus par Mme Inga Woolsey, qui avait plus de 30 années d’expérience dans le milieu de la comptabilité. Elle tenait les livres pendant la phase de la balance des comptes, puis M. Huxham dressait les états financiers. Mme Woolsey était reconnue pour son intégrité, sa connaissance de la comptabilité et son impartialité, et M. Huxham est d’avis que la Cour devrait considérer que les documents dont elle avait la charge représentent véritablement la situation de la société. Mme Woolsey est décédée en 2011.
+Lois [10] L’appelant a le droit de déclarer une perte au titre d’un placement d’entreprise de 591 415 $ si les conditions suivantes sont remplies : i) la société Elkhorn lui est redevable d’une dette de ce montant; ii) la dette avait été contractée en vue de tirer un revenu; iii) la société Elkhorn était en 2008 une petite entreprise admissible; et iv) la créance est devenue irrécouvrable en 2008. Voir l’affaire Rich c Canada, 2003 CAF 38. L’appelant doit satisfaire à toutes ces conditions.
+Analyse et décision [11] Sauf le respect que je lui dois, je ne peux donner raison à l’appelant pour ce qui est des 591 415 $ que lui devait la société Elkhorn et de la créance qui est devenue irrécouvrable en 2008.
+[12] M. Huxham a présenté un document intitulé « Detailed Analysis of Elkhorn Development Ltd. ABIL » (pièce A2, onglet 6) [« document d’analyse »]. Il est clair que ce document d’analyse a été rédigé spécialement pour cette audience. La majorité des éléments ne sont pas appuyés par des documents originaux, et certains des éléments dont il a été possible de retracer les documents originaux se sont révélés erronés ou ont démontré que la dette avait été contractée par M. Huxham lui-même. Par exemple :
+a) Un élément indique que l’appelant avait prêté 70 000 $ à la société Elkhorn le 18 août 1995. Le chèque qui appuie cet élément montre qu’il s’agissait d’un montant versé personnellement par M. Huxham à la société Elkhorn.
+b) L’appelant aurait prêté à la société Elkhorn 50 000 $ le 11 septembre 1995 et 5 000 $ le 31 janvier 1995. Ces montants ne sont appuyés par aucun document.
+c) Le document d’analyse mentionne que l’appelant avait racheté en 1996 une dette de 55 000 $ de la société Ace Explosives. Toutefois, les pièces justificatives ont démontré que M. Huxham avait personnellement racheté la dette de 55 000 $ de la société Elkhorn avec Ace Explosives le 1er février 2000.
+d) Un élément du document d’analyse indique que l’appelant avait accordé des prêts de 50 000 $ et de 9 880 $ à la société Elkhorn en 1996. Il n’y a aucune pièce justificative pour ces montants.
+e) Le 6 juillet 2001, M. Huxham a personnellement acquitté la dette de 60 000 $ de la société Elkhorn auprès de la Banque Canadienne de l’Ouest. En outre, il a personnellement acquitté la dette de 10 500 $ de la société Elkhorn auprès du cabinet Gourlay Spencer Wade le 23 mai 2003. Ces montants ont été inscrits en tant que prêts de l’appelant.
+f) La Banque de Montréal et la Banque HSBC ont chacune exigé de la société Elkhorn qu’elle rembourse les prêts qui lui avaient été consentis. En 2006, M. et Mme Huxham ont été contraints de payer les montants de 70 250 $ et de 20 000 $ aux termes de garanties qu’ils avaient données aux banques. En septembre 2008, M. Huxham a également remboursé 10 000 $ à Caterpillar Financial Services conformément à la garantie personnellement consentie pour un prêt à la société Elkhorn. Ces montants figurent également dans le document d’analyse en tant que prêts accordés à la société Elkhorn par l’appelant.
+[13] Dans le document d’analyse, M. Huxham a également inscrit de nombreux montants pour des denrées alimentaires, de l’essence et des chambres d’hôtel. Les reçus pour ces éléments indiquent que ceux-ci ont été payés par carte de débit ou en espèces par M. ou Mme Huxham. M. Huxham a fait savoir qu’il s’agissait de fournitures pour les employés de la société Elkhorn.
+[14] Toutes les dettes accumulées liées à des paiements effectués par M. ou Mme Huxham devenaient des créances de la société Elkhorn payables à M. ou Mme Huxham personnellement et non à l’appelant. M. Huxham a indiqué qu’en 2005, son épouse et lui ont déclaré une perte déductible au titre d’un placement d’entreprise de 190 000 $ pour les créances de la société Elkhorn qui leur étaient dues. Il n’a fourni aucun détail relatif aux nombreux montants déductibles inclus dans la perte déductible au titre d’un placement d’entreprise.
+[15] Un élément de preuve indique que l’appelant avait prêté 3 000 $ à la société Elkhorn le 25 janvier 1995. J’ai rejeté ce montant en raison de l’absence de pièce justificative indiquant si cette somme avait préalablement été accordée à l’appelant.
+[16] M. Huxham n’a pas précisé quels documents parmi les pièces déposées avaient été préparés par Mme Woolsey. J’ai cependant présumé que certains documents de la pièce A-2, onglet 7, ont été préparés par Mme Woolsey. Les deux premières pages de la pièce A-2, onglet 7, proviennent du grand livre général de la société Elkhorn. L’une des pages est datée d’août 2002 et l’autre est datée de novembre 2000 à octobre 2001. Ces deux pages mentionnent le compte « Due to Shareholder – WB Huxham ». Le seul élément pour l’appelant indique que ce dernier avait reçu une avance de 17 000 $ de la société Elkhorn le 1er octobre 2001. Le reste des documents de cette pièce indique que M. et Mme Huxham ont accordé divers prêts à la société Elkhorn.
+[17] L’appelant n’a produit aucune pièce justificative pour satisfaire à la première condition relative à la déclaration d’une perte au titre d’un placement d’entreprise. L’appelant n’a pas établi que la société Elkhorn avait envers lui une dette de 591 415 $ ou autre.
+[18] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 12e jour de février 2016.
+« V.A. Miller »
+Juge V.A. Miller
+RÉFÉRENCE :
+2016CCI36
+NUMÉRO DU DOSSIER :
+2014-4503(IT)I
+INTITULÉ :
+WILLIAM B. HUXHAM INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 2 février 2016
+MOTIFS DU JUGEMENT :
+La juge Valerie Miller
+DATE DU JUGEMENT :
+Le 12 février 2016
+COMPARUTIONS :
+Pour l’appelant :
+M. William Huxham
+Avocat de l’intimée :
+Me Kristian DeJong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)

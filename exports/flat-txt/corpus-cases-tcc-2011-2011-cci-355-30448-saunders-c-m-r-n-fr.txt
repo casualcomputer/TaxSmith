@@ -1,0 +1,262 @@
+Title: Saunders c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30448/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-355-30448-saunders-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2011-07-19
+
+# Saunders c. M.R.N.
+
+- Citation: 2011 CCI 355
+- Decision date: 2011-07-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7920, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saunders c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-07-19
+Référence neutre
+2011 CCI 355
+Numéro de dossier
+2010-1776(EI)
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-1776(EI)
+ENTRE :
+MARTIN SAUNDERS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 mai 2011, à Gander (Terre-Neuve)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Représentant de l’appelant :
+Le révérend Karl Arnold
+Avocate de l’intimé :
+Me Jill Chisholm
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté sans frais, et la décision du ministre est confirmée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 19e jour de juillet 2011.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+Ce 26e jour d’août 2011.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+Référence : 2011 CCI 355
+Date : 19 juillet 2011
+Dossier : 2010-1776(EI)
+ENTRE :
+MARTIN SAUNDERS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+R. LES FAITS
+[1] L’appelant était représenté par le révérend Karl Arnold, ministre de l’Église Unie.
+[2] Marts Construction Limited (« Construction ») a été constituée en personne morale le 23 juin 2009, sous le régime des lois de Terre-Neuve-et-Labrador.
+[3] La période dont il est question est la période allant du 6 juillet 2009 au 11 décembre 2009 (la « période »), d’une durée approximative de 23 semaines.
+[4] Construction exécutait des travaux de construction légers, y compris des travaux de rénovation, de charpenterie et de peinture.
+[5] Les actions de Construction étaient réparties comme suit :
+L’appelant - 35 pour cent
+Sharon Howse - 35 pour cent
+Mildred Seaward - 30 pour cent
+[6] L’appelant et Sharon Howse sont conjoints de fait depuis 33 ans. Mildred Seaward n’est liée à aucun des autres actionnaires.
+[7] Les tâches de l’appelant comprenaient ce qui suit :
+a) préparer les estimations du coût des travaux exécutés pour Construction et les devis relatifs aux contrats;
+b) aller chercher les matériaux;
+c) exécuter les travaux de construction;
+d) nettoyer le chantier;
+e) tenir un registre du temps consacré à chaque contrat et des frais connexes.
+[8] L’appelant était le seul employé de Construction (remarque : Construction a engagé un ouvrier sur une base temporaire en 2010).
+[9] L’appelant avait une expérience d’au moins 20 ans à titre de charpentier dans le domaine de la construction.
+[10] Dans la réponse, le ministre du Revenu national (le « ministre ») a souligné que Construction avait prétendument versé à l’appelant un montant de 800 $ par semaine pour 50 heures de travail.
+[11] Dans la même réponse, le ministre a souligné qu’au cours de la période visée par l’appel, Construction ne touchait pas un revenu suffisamment élevé pour payer le salaire de l’appelant.
+[12] Le ministre a également déclaré dans la réponse que les travaux effectués par Construction au cours de la période ne justifiaient pas le paiement de 50 heures de travail par semaine à l’appelant.
+[13] Le ministre a affirmé que l’appelant a rarement reçu une paie de Construction.
+[14] Le ministre a soutenu que, si l’appelant a reçu une paie de Construction, ce n’est que lorsqu’un client payait pour l’exécution d’un travail.
+[15] Le ministre a souligné que l’appelant n’avait pas reçu de paie de vacances ni bénéficié d’un congé annuel payé de Construction.
+[16] Le ministre a souligné que l’appelant fixait lui-même les heures qu’il consacrait aux travaux de Construction.
+[17] Le ministre a souligné que les heures de travail de l’appelant n’avaient pas été consignées ni comptabilisées (remarque : l’appelant a mentionné qu’il avait consigné ses heures de travail, mais il n’a pas fourni ces renseignements aux représentants de l’Agence du revenu du Canada (l’« ARC »).
+[18] Le ministre a souligné que l’appelant n’était pas supervisé.
+[19] Le ministre a mentionné que l’appelant achetait des outils pour Construction sans être remboursé pour ces achats (remarque : l’appelant a dit que Construction lui avait parfois remboursé le coût des outils qu’il avait achetés).
+[20] Au cours de l’audience, l’appelant a affirmé qu’il admettait tous les points énoncés aux paragraphes [7] à [19] qui précèdent, sauf mention contraire.
+B. LE POINT EN LITIGE
+[21] L’appelant a-t-il exercé un emploi assurable au cours de la période au sens des paragraphes 5(2) et 5(3) de la Loi sur l’assurance-emploi (la « Loi »)?
+C. ANALYSE ET DÉCISION
+[22] Les paragraphes 5(2) et 5(3) de la Loi sont ainsi libellés :
+[5.] (2) Restriction – N’est pas un emploi assurable
+a) l’emploi occasionnel à des fins autres que celles de l’activité professionnelle ou de l’entreprise de l’employeur;
+b) l’emploi d’une personne au service d’une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale;
+c) l’emploi exercé au Canada et relevant de Sa Majesté du chef d’une province;
+d) l’emploi exercé au Canada au service du gouvernement d’un pays étranger ou de celui d’une subdivision politique d’un tel pays;
+e) l’emploi exercé au Canada au service d’un organisme international;
+f) l’emploi exercé au Canada dans le cadre d’un programme d’échange mais non rétribué par un employeur résidant au Canada;
+g) l’emploi qui constitue un échange de travail ou de services;
+h) l’emploi exclu par règlement pris en vertu du présent article;
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+(3) Personnes liées – Pour l’application de l’alinéa (2)i),
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+(Non souligné dans l’original)
+[23] Dans une lettre datée du 6 mai 2010, Ghislaine Després, de la Section d’appel de l’ARC à Saint John, au Nouveau-Brunswick, a formulé les remarques suivantes :
+[traduction]
+La présente lettre concerne l’appel que vous avez interjeté à l’encontre de la décision rendue le 27 janvier 2010, au sujet de l’assurabilité de l’emploi que vous avez exercé chez Marts Construction Limited, au cours de la période allant du 6 juillet 2009 au 11 décembre 2009.
+Après un examen complet et impartial de l’ensemble des renseignements liés à l’appel, il a été décidé que l’emploi en question n’était pas un emploi assurable. Après avoir examiné l’ensemble des circonstances, le ministre n’est pas convaincu qu’un contrat de travail à peu près semblable aurait été conclu si aucun lien de dépendance n’avait existé entre vous. Or, un lien de dépendance existait entre vous et Marts Construction Limited. En conséquence, votre emploi n’a pas été considéré comme un emploi assurable.
+La décision est rendue conformément au paragraphe 93(3) de la Loi sur l’assurance‑emploi et est fondée sur l’alinéa 5(2)i) de cette même Loi.
+[24] Au cours de l’audience, l’avocate de l’intimé s’est exprimée comme suit :
+[traduction]
+L’appelant est ici aujourd’hui pour interjeter appel d’une décision du ministre selon laquelle l’emploi qu’il a exercé chez Mart’s Construction Limited au cours de la période allant du 6 juillet 2009 au 11 décembre 2009 n’était pas assurable, eu égard au paragraphe 5.2(1) [sic] et au paragraphe 5(3) de la Loi sur l’assurance‑emploi. Ces extraits se trouvent à l’onglet 2 du Recueil de jurisprudence et de doctrine de l’intimé, plus précisément à la page deux.
+Le ministre n’est pas convaincu qu’il était raisonnable de conclure, compte tenu de toutes les circonstances mentionnées à l’alinéa 5(3)b), que le travailleur et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance et les faits portés à l’attention de la Cour aujourd’hui appuient cette conclusion. En fait, les hypothèses énoncées au paragraphe sept de la réponse de l’intimé ont été acceptées ou n’ont pas été réfutées, notamment les trois hypothèses que l’appelant a contestées pendant son témoignage.
+Selon l’hypothèse Q, les heures de travail de l’appelant ne sont ni consignées ni comptabilisées. L’appelant a affirmé que cette hypothèse était inexacte. Cependant, il n’a présenté aucun élément de preuve, y compris des documents, permettant de dire que ses heures avaient été comptabilisées ou consignées. Il n’a donc pas réussi à réfuter cette hypothèse. En ce qui concerne l’hypothèse R, il soutient qu’il était supervisé. Cependant, lorsqu’il a été interrogé plus à fond sur ce sujet, il a avoué qu’il était le patron, de sorte que c’était lui qui supervisait. Il a mentionné que sa conjointe était parfois présente sur les lieux de travail, là où il travaillait, pour voir comment les choses se passaient, mais seuls le client et lui-même vérifiaient les travaux.
+Enfin, en ce qui a trait à l’hypothèse S, lorsqu’il s’est fait demander s’il était vrai qu’il achetait des outils de travail pour le payeur et que ces achats ne lui étaient pas remboursés, il a répondu qu’il était parfois remboursé. Toutefois, il n’a pas produit le moindre document donnant à penser qu’il avait déjà été remboursé. En fait, dans le cas des documents que nous avons en main, soit les deux reçus de Wal‑Mart, il a admis volontiers qu’il avait lui-même payé ces frais. Je vous fais donc remarquer que les hypothèses n’ont pas été réfutées et que l’appelant a admis sans peine la majorité d’entre elles.
+Maintenant, si nous retournons aux dispositions législatives, car c’est sur celles‑ci que nous devons nous fonder aujourd’hui, si nous examinons l’article et l’alinéa, plus précisément l’article 5.2.1 [remarque : il s’agit en réalité de l’alinéa 5(2)i)] de la Loi sur l’assurance-emploi, qui se trouve à la page deux de l’onglet 2, ou excusez-moi, le texte débute au paragraphe deux, mais le passage qui nous concerne est le suivant : « n’est pas un emploi assurable l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance ». [...] Selon l’alinéa 251a), des personnes liées sont des particuliers unis par les liens du sang, du mariage, de l’union de fait ou de l’adoption.
+Le payeur est contrôlé par l’appelant et la conjointe de fait de celui-ci. En conséquence, la personne morale et l’appelant sont des personnes liées conformément à la Loi de l’impôt sur le revenu et, bien que l’appelant et le payeur soient des personnes liées, l’alinéa 5(3)b) de la Loi sur l’assurance-emploi énonce que l’employeur et l’employé peuvent être réputés ne pas avoir de lien de dépendance dans les cas suivants. Si l’employeur et l’employé sont des personnes liées au sens de cette Loi, ils seront réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[Non souligné dans l’original.]
+(Transcription, page 131, ligne 11, à la page 133, ligne 25, et page 134, ligne 15, à la page 135, ligne 16)
+[25] Après avoir passé en revue les faits exposés ci-dessus, j’en suis arrivé à la conclusion que l’appelant et Construction n’agissaient pas dans le cadre d’une relation commerciale normale dans la présente affaire.
+[26] Je cite l’exemple suivant :
+1. La pièce R-1 renferme à l’onglet 14 un relevé d’emploi préparé par le comptable, Snowdon Parsons. Il appert du relevé d’emploi que l’appelant a reçu de Construction un montant de 800 $ par semaine pour 17 semaines pendant la période de 23 semaines. Cependant, l’appelant n’a pas fourni de copies de l’un ou l’autre des 17 chèques qu’il aurait reçus de Construction pendant la période.
+2. Les renseignements suivants figurent à l’onglet 14 de la pièce R‑1 :
+REMPLIR UNIQUEMENT S’IL Y A EU UNE PÉRIODE DE PAIE SANS GAINS ASSURABLES. REMPLIR CONFORMÉMENT AU TABLEAU FIGURANT AU VERSO.
+P.P.
+GAINS ASSURABLES
+P.P.
+GAINS ASSURABLES
+P.P.
+GAINS ASSURABLES
+1
+800
+2
+800
+3
+Ø
+4
+800
+5
+800
+6
+Ø
+7
+800
+8
+800
+9
+800
+10
+800
+11
+800
+12
+800
+13
+800
+14
+Ø
+15
+Ø
+16
+Ø
+17
+800
+18
+800
+19
+Ø
+20
+800
+21
+800
+22
+800
+23
+800
+24
+--------
+25
+--------
+26
+--------
+27
+--------
+3. De plus, la pièce R-1 renferme à l’onglet 4 des copies des pages du compte bancaire de Construction. Aucune donnée des relevés bancaires ne montre que Construction a tiré du compte bancaire un chèque de 800 $ par semaine à l’ordre de l’appelant.
+4. L’appelant a affirmé que Construction ne tenait aucun registre ou compte de paie montrant les dates auxquelles il a été payé.
+(Transcription, page 59, lignes 21 à 25)
+[27] À la page 63 de la transcription, l’avocate de l’intimé a posé la question suivante :
+[traduction]
+Q. Y avait-il quoi que ce soit qui passait par le compte d’affaires?
+R. Comme quoi? Je ne comprends pas ce que vous voulez dire, qui passait...
+Q. Y a-t-il eu des chèques faits pour vous à partir de ce compte pour la paie?
+R. Un chèque pour moi?
+Q. Oui.
+R. Pourquoi?
+Q. Pour votre travail, votre salaire, votre montant de 800 $?
+R. Non, il n’y en a pas eu.
+Q. D’accord. Dans ce cas, comment avez-vous obtenu votre argent?
+R. Pardon?
+Q. Comment avez-vous obtenu votre argent?
+R. Je vous l’ai dit, dans la plupart des cas, j’étais payé en argent comptant.
+Q. D’accord. Et -
+R. Je vous ai dit que je n’ai pas reçu de chèque. Dans la plupart des cas, j’étais payé en argent comptant.
+(Transcription, page 63, lignes 8 à 25)
+[28] L’avocate de l’intimé a fait témoigner Brigitte Gagnon, qui est une agente des appels de l’ARC à Saint John, au Nouveau-Brunswick.
+[29] L’avocate de l’intimé a posé les questions suivantes à Mme Gagnon :
+[traduction]
+Q. Vous n’avez jamais vu de livre de paie?
+R. Non, je n’en ai pas vu.
+(Transcription, page 112, lignes 13 et 14)
+Q. Aviez-vous des documents permettant de dire qu’il recevait 800 $?
+R. Non. Je n’avais aucun document permettant de dire qu’il recevait quoi que ce soit. En fait, j’ai demandé des relevés bancaires personnels simplement pour savoir si je pouvais, vous savez, pour avoir un relevé des sommes d’argent déposées et ainsi de suite. Il est normal dans ce domaine d’être payé en argent comptant et il est aussi raisonnable de payer ses factures en argent comptant et ainsi de suite; cependant, dans le cas d’une entreprise, elle doit être en mesure d’assurer le suivi des rentrées et sorties de fonds jusqu’à un certain point. Il doit y avoir des dépôts dans le compte bancaire de l’entreprise. Si c’était l’entreprise qui était payée, et non seulement lui-même, cet argent devrait être versé dans le compte bancaire de l’entreprise et être retiré sous forme de salaire. Mais il n’y avait absolument aucun moyen de voir ce genre de procédé et c’était là le problème.
+(Transcription, page 120, ligne 19, à la page 121, ligne 13)
+[30] J’aimerais également souligner que l’appelant a admis, comme le ministre l’avait soutenu, qu’il avait rarement reçu une paie de Construction (voir le paragraphe [13] qui précède).
+[31] À mon avis, la relation entre l’appelant et Construction n’était pas une relation commerciale normale. En d’autres termes, l’accord financier existant entre l’appelant et Construction au sujet de la rétribution versée n’était pas une entente financière normale qu’auraient conclue des parties n’ayant pas eu de lien de dépendance.
+[32] Ce qui est contesté dans le présent appel, c’est la décision du ministre selon laquelle il n’était pas convaincu qu’il était raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, que l’appelant et Construction auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[33] La position d’un juge de la Cour canadienne de l’impôt dans ce type d’appel a été correctement exposée, à mon sens, dans Denis c. Canada (Ministre du Revenu national – M.R.N.), [2004] A.C.F. no 400, où le juge en chef Richard s’est exprimé ainsi :
+5. Le rôle du juge de la Cour canadienne de l’impôt dans un appel d’une détermination du ministre sur les dispositions d’exclusion contenues aux paragraphes 5(2) et (3) de la Loi est de s’enquérir de tous les faits auprès des parties et les témoins appelés pour la première fois à s’expliquer sous serment et de se demander si la conclusion du ministre paraît toujours raisonnable. Toutefois, le juge ne doit pas substituer sa propre opinion à celle du ministre lorsqu’il n’y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus (voir Pérusse c. Canada (ministre du Revenu national - M.R.N.), 200 A.C.F. no 310, 10 mars 2000).
+[34] Compte tenu de ces commentaires, je crois que le rôle du juge de la Cour canadienne de l’impôt consiste à mener un procès au cours duquel les deux parties peuvent produire des éléments de preuve concernant les modalités aux termes desquelles l’appelant était employé, les modalités aux termes desquelles des personnes sans lien de dépendance, effectuant le même travail que l’appelant, étaient employées par le même employeur et les conditions d’emploi prévalant dans l’industrie pour le même genre de travail, au même moment et au même endroit. À la lumière de tous ces éléments de preuve et de l’opinion du juge sur la crédibilité des témoins, le juge doit ensuite déterminer si le ministre aurait pu raisonnablement, en ayant connaissance de l’ensemble de cette preuve, ne pas conclure que l’employeur et une personne avec laquelle il n’avait pas de lien de dépendance auraient conclu entre eux un contrat de travail à peu près semblable. Si je comprends bien, c’est là le degré de retenue judiciaire accordé à l’avis du ministre du fait de l’emploi, par le législateur, de l’expression « [...] si le ministre du Revenu national est convaincu [...] » à l’alinéa 5(3)b).
+[35] Je souscris également aux commentaires que mon collègue, le juge Bowie, a formulés dans Birkland c. Canada (Ministre du Revenu national – M.R.N.), [2005] A.C.I. no 195.
+[36] À mon avis, il n’est pas raisonnable de conclure que, s’ils n’avaient pas eu de lien de dépendance, l’appelant et Construction auraient conclu ce type d’entente. Je souligne notamment les différents points mentionnés plus haut au sujet de la « rétribution versée » par Construction à l’appelant.
+[37] J’en suis arrivé à la conclusion que le ministre a eu raison de conclure que le revenu en litige était un revenu provenant d’un emploi non assurable au sens du sous‑alinéa 5(2)i) et du paragraphe 5(3) de la Loi sur l’assurance-emploi.
+[38] L’appel est rejeté sans frais.
+Signé à Vancouver (Colombie-Britannique), ce 19e jour de juillet 2011.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+Ce 26e jour d’août 2011.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+RÉFÉRENCE : 2011 CCI 355
+No DE DOSSIER DE LA COUR : 2010-1776(EI)
+INTITULÉ : Martin Saunders c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Gander (Terre-Neuve)
+DATE DE L’AUDIENCE : Le 10 mai 2011
+MOTIFS DU JUGEMENT : L’honorable juge L.M. Little
+DATE DU JUGEMENT : Le 19 juillet 2011
+COMPARUTIONS :
+Représentant de l’appelant :
+Le révérend Karl Arnold
+Avocate de l’intimée :
+Me Jill Chisholm
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

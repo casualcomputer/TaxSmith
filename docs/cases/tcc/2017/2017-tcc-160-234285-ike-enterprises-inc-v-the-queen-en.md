@@ -1,0 +1,249 @@
+---
+title: "Ike Enterprises Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/234285/index.do"
+last_modified: "2017-08-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 160"
+citation2: ""
+neutral_citation: "2017 TCC 160"
+decision_date: "2017-08-25"
+language: "en"
+item_id: "234285"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2187
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:13:11.593000+00:00"
+cases_cited_count: 9
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "32d8ec57afd86f67aec881e7376d7b08cfe7fcb0c28896c242d50b3e2aab81d9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ike Enterprises Inc. v. The Queen
+
+- Citation: 2017 TCC 160
+- Decision date: 2017-08-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2187, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ike Enterprises Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-08-25
+Neutral citation
+2017 TCC 160
+File numbers
+2013-4000(GST)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-4000(GST)G
+BETWEEN:
+IKE ENTERPRISES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 5, 2016, at Vancouver, British Columbia.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+Michel Bourque
+Jacqueline A. Fehr
+Counsel for the Respondent:
+Victor Caux
+Matthew Turnell
+ORDER
+The appellant is awarded costs in the amount of $95,109, in accordance with the attached Reasons for Order on Costs.
+Signed at Ottawa, Canada, this 25th day of August 2017.
+“Guy Smith”
+Smith J.
+Citation: 2017 TCC 160
+Date: 20170825
+Docket: 2013-4000(GST)G
+BETWEEN:
+IKE ENTERPRISES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER ON COSTS
+Smith J.
+I. Overview [1] Reasons for judgment in this appeal were issued on April 12, 2017 (2017 TCC 59) and costs were awarded in favour of the appellant. The parties were unable to agree on the quantum of costs and have now made submissions to the Court.
+[2] The appellant claims substantial indemnity costs pursuant to subsection 147(3.1) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) because it served an offer of settlement that was as favourable as the judgment rendered. They claim $90,882, representing 80% of their solicitor and client costs incurred after the date of the offer.
+[3] The respondent objects to the quantum of substantial indemnity costs requested on the basis that they were not reasonably incurred and that, in any event, the appellant entered into a fee arrangement with its legal counsel that limits the amount of its solicitor and client costs to $19,432 (excluding disbursements). As a result, the appellant should be entitled to no more than 80% of that amount.
+[4] The appellant’s entitlement to substantial indemnity costs as a result of the offer of settlement is not disputed and the main issue is entirely with respect to the quantity of the cost award.
+II. Background and relevant facts [5] At the hearing of the appeal, the issue was whether three categories of food products were zero‑rated supplies for purposes of the Excise Tax Act, R.S.C., 1985, c. E‑15. The total GST/HST amount in issue was $63,949.
+[6] The Court concluded that only two of the three products were zero‑rated and the matter was referred back to the Minister of National Revenue for reconsideration and reassessment on that basis. Subject to that final assessment, the appellant is entitled to a refund of $38,865 plus interest and penalties.
+[7] As part of their submissions on costs, the parties informed the Court that the judgment rendered was as favourable as the terms of an offer of settlement made by the appellant on June 3, 2014 that had been rejected by the respondent. There was no suggestion of a counter‑offer from the respondent.
+[8] The Court was also advised that the appellant’s counsel had entered into a fee arrangement with the appellant consisting of two stipulations that I would describe as follows:
+1. A “Variable Fixed Fee” in the amount of $7,500 for time spent on the matter, plus an additional amount of $5,000 if the matter proceeded to trial, regardless of the outcome, plus an amount of $2,500 if the recovery exceeded $10,000 and 50% of any recovery above $30,000; and
+2. In the event that the Court awarded costs in excess of Tariff B (the “Enhanced Costs”), the amount so ordered, if any, except that the Variable Fixed Fee noted-above was to be reduced by between 20% and 90%, depending on the amount of the award.
+[9] Since the appellant was entitled to a refund of $38,865, as noted above, this would result in a variable fixed fee of $19,433. That amount could be reduced by up to 90% or to as little as $1,943 if the Court awarded enhanced costs.
+[10] KPMG Law submitted a bill of costs for 272.90 hours which indicated that 229.80 of that time related to services rendered after service of the settlement offer. The difference (43.10) represents services rendered from the beginning of the engagement in September 2013 to the delivery of the offer on June 3, 2014.
+[11] Appellant’s counsel submitted a copy of its time dockets and indicated that in the preparation of the bill of costs, certain adjustments were made (i.e. travel time was excluded) and some hourly rates were discounted. For example, Michel Bourque’s rate was reduced from $1,065 to $800 per hour and Jacqueline Fehr’s rate was reduced from $860 to $450 (2015) and $475 (2016). Other lawyers and law-students were involved and greater details were provided in the submissions. In the end, the time docketed after June 3, 2014 was as follows:
+100%
+80%
+M. Meredith (ON 1985*) 1.2 hours / $950
+$1,140
+$912
+G. Grenon (AB 1995) 2.8 hours / $800
+$2,240
+$1,792
+M. Bourque (NB 1997*) 51.3 hours / $800
+$41,040
+$32,832
+J. Fehr (BC 2011) 110.6 hours / various
+$48,367
+$38,693
+W. House (BC 2014) 52.4 hours / $350
+$18,340
+$14,672
+M. Angel (Student) 11.5 / $250
+$2,875
+$2,300
+Total
+$114,002
+$90,882
+*earliest date of call to the bar and also a member of another bar.
+[12] The numbers do not perfectly add up (there is a $320 discrepancy) but in any event, it is clear that the substantial indemnity costs claimed by the appellant are $90,882 (when applying a rate of 80% more or less) of a total of $114,002. The appellant also seeks $525 in accordance with Tariff B as well as out-of-pocket costs.
+[13] Although it is not entirely clear what legal costs have to date been invoiced to the appellant, it seems clear that the final bill has not yet been prepared.
+III. The Applicable Law [14] The appellant claims it is entitled to substantial indemnity costs on the basis of subsections 147(3.1) to (3.8) that were added to the Rules effective February 7, 2014 (and these changes reflect Practice Note No. 18 issued on January 31, 2011). Those subsections provide as follows:
+(3.1) Unless otherwise ordered by the Court, if an appellant makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement, the appellant is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+(3.2) Unless otherwise ordered by the Court, if a respondent makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement, the appellant is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+(3.3) Subsections (3.1) and (3.2) do not apply unless the offer of settlement
+(a) is in writing;
+(b) is served no earlier than 30 days after the close of pleadings and at least 90 days before the commencement of the hearing;
+(c) is not withdrawn; and
+(d) does not expire earlier than 30 days before the commencement of the hearing.
+(3.4) A party who is relying on subsection (3.1) or (3.2) has the burden of proving that
+(a) there is a relationship between the terms of the offer of settlement and the judgment; and
+(b) the judgment is as favourable as or more favourable than the terms of the offer of settlement, or as favourable or less favourable, as the case may be.
+(3.5) For the purposes of this section, “substantial indemnity costs” means 80% of solicitor and client costs.
+…
+(3.8) No communication respecting an offer of settlement shall be made to the Court, other than to a judge in a litigation process conference who is not the judge at the hearing, until all of the issues, other than costs, have been determined.
+[My emphasis.]
+[15] It seems obvious that the objective of this rule is to encourage parties to evaluate the strength of their respective cases and to consider settlement at an early stage. It does so by establishing a default entitlement to 80% of solicitor and client costs incurred after the date of the offer without the need to demonstrate that a party’s conduct was somehow malicious, vexatious, improper or unnecessary.
+[16] The purpose of substantial indemnity costs and ultimately, the role of the Court in assessing those costs, is to provide full indemnification for all costs, including fees and disbursements reasonably incurred by the successful party: Scott Paper Co. v. Minnesota Mining and Manufacturing Co., [1982] O.J. No. 917 at para 4; British Columbia (Minister of Forests) v. Okanagan Indian Band, 2003 SCC 71 (“Okanagan”) at para 21 and Sun Life Assurance Company of Canada v. The Queen, 2015 TCC 171) (“Sun Life”) at para 71.
+[17] I will add that while the principle of full indemnity of costs and in particular solicitor and client costs, has traditionally been viewed as “the paramount consideration” (Okanagan, para 23) in awarding costs, that view has broadened over the years and costs have more recently been recognized as a means of encouraging settlement, deterring frivolous actions or defences, and discouraging unnecessary litigation: Fellowes, McNeil v. Kansa International Insurance Co. (1997), 37 O.R. (3d) 464 (Gen. Div.) (“Fellowes”) at para 10 and Acsis EHR (Electronic Health Record) Inc. v. The Queen, 2016 TCC 50 (“Acsis”) at para 26.
+A. The Court’s discretion [18] The opening words “unless otherwise ordered by the Court” and the expression “substantial indemnity costs … as determined by the Court” in subsections 147(3.1) and (3.2) suggest that the Court retains a broad discretion to assess and determine the quantum of substantial indemnity costs, despite the clear definition of “substantial indemnity costs” contained in subsection 147(3.5).
+[19] Several recent decisions of this Court have confirmed that even where it can be said that a party has obtained “a judgment as favourable as or more favourable than the terms of the offer of settlement”, as set out in subsections 147(3.1) or (3.2), the Court still retains a broad discretion in assessing solicitor and client costs for the purpose of determining the appropriate quantum of substantial indemnity costs: Golini v. the Queen, 2016 TCC 247, para 5; Standard Life Assurance Company of Canada v. The Queen, 2015 TCC 138, para 4, and Sun Life, supra, para 9. Indeed, if the Court finds that a party has engaged in “questionable” or “egregious behaviour” that tended to unduly lengthen the proceedings, the Court may award substantial indemnity costs of more than 80% (though this should be done cautiously”): Repsol Canada Ltd. v. The Queen, 2015 TCC 154, para 10.
+B. Fee arrangements [20] In the exercise of its discretion over costs, the Court may have to consider the impact of a fee arrangement as between a successful party and his or her counsel and in doing so must determine whether it is a contingency fee arrangement based on the results obtained at trial or whether it is an arrangement that limits a successful party’s obligation for solicitor and client costs.
+[21] A contingency fee arrangement typically includes a risk premium and the “contingency” or triggering event is normally linked to the success or results obtained at trial. The successful party’s counsel will be entitled to a fee based on an agreed upon percentage of the results obtained (as regulated by the various Provincial law societies). As will be seen below, such a fee arrangement will likely not be relevant to an assessment of solicitor and client costs.
+[22] In Walker v. Ritchie, 2006 SCC 45, [2006] 2 S.C.R. 428 (“Walker v. Ritchie”) the Supreme Court of Canada considered a contingency fee arrangement and, in the context of an award of costs, concluded that (para 28):
+(…) Unsuccessful defendants should expect to pay similar amounts by way of costs across similar pieces of litigation involving similar conduct and counsel, regardless of what arrangements the particular plaintiff may have concluded with counsel.
+[My emphasis.]
+[23] That decision was applied by this Court in Sun Life, where the successful appellant sought substantial indemnity costs, having served an offer of settlement that was more favourable than the judgment obtained. The appellant submitted a bill of costs while acknowledging that the actual fee charged by counsel was much higher and calculated at approximately 25% of the tax recovered at the hearing. Owen J. indicated that the role of the Court was to determine whether solicitor and client costs were reasonably incurred without regard to the contingency fee arrangement which he described as “a special arrangement negotiated between the parties” which the respondent could not be expected to reimburse: Sun Life, supra, para 26.
+[24] However, as noted above, different considerations may arise if a fee arrangement limits a successful party’s obligation for solicitor and client costs. This occurs as a result of the principle that a litigant must have actually incurred a legal obligation to pay for services rendered by counsel: W. H. Brady Co. v. Letraset Canada Ltd. (C.A.) (1991), 2 F.C. 226, para 9.
+[25] This issue was recently dealt with by Roy J. in Hervé Pomerleau Ont. Inc. v. The City of Ottawa, 2014 ONSC 1496) (“Hervé Pomerleau”) where the successful party’s counsel had agreed to a “blended rate of $171 per hour” (para 6). In a claim for substantial indemnity costs, the unsuccessful party argued that it should not be responsible for more than that amount:
+[9] In fact, it appears quite clear from the case law that a successful party is not entitled to costs over and above its obligation to his client. In Clark v. Nash, [1990] B.C.J. No. 727, the British Columbia Court of Appeal said and I quote:
+In the end counsel are not in disagreement about the law. They agree that the entitlement to costs depends upon there being an obligation on the part of the client to pay the solicitor. The award of costs is an indemnification in relation to that obligation. The costs cannot exceed the amount of the obligation.
+That principle has been approved by our Courts including the Court of Appeal (…)
+[My emphasis.]
+[26] Roy J. fixed the solicitor and client costs at $250,000 and then reduced them to $188,000, which was determined to be “the Defendant’s obligation to their counsel” (para 15).
+[27] There is no reason to doubt that this principle applies to this Court. However, the Court must be satisfied that the fee arrangement actually limits the client’s obligation for costs. If it does not clearly do so, then the Court should certainly be loath to limiting an award of solicitor and client costs on this basis.
+[28] For example, in Zeleny v. Zeleny, 69 O.R. 287, (2004) O.J. No. 138, (“Zeleny”) counsel in a matrimonial dispute had entered into a financial arrangement pursuant to which he would charge for all legal services rendered “at an hourly rate of $90 per hour… or actual costs recovered, whichever is greater” (para 4).
+[29] The client in Zeleny was ultimately successful and counsel requested an award of costs at an hourly rate of $195. The Court found that amount to be an acceptable hourly rate and held further that “(…) in order to satisfy the fundamental purpose of encouraging settlements, the Fee Arrangement should not be interpreted as forming an upper limit on the party/party costs otherwise payable to the successful party” (para 18). I would view these comments as being consistent with the views expressed in Okanagan, Fellowes and Acsis, noted above.
+IV. Analysis and conclusion A. What was the nature of the fee arrangement? [30] As indicated above, the respondent argues that the fee arrangement between the appellant and his counsel, limits the solicitor and client costs for which the appellant can be responsible and that as a result, they cannot be responsible for more than 80% of that amount. I do not agree with this interpretation.
+[31] I find that the fee arrangement was not intended to limit the appellant’s liability for solicitor and client costs if the appeal was successful, as it ultimately was.
+[32] I instead interpret the fee arrangement to mean that the appellant would be responsible for solicitor and costs over and above the variable fixed fee, provided the appeal was successful and provided those costs were in fact incurred as supported by time dockets and as further confirmed by the Court in the process of assessing costs.
+[33] The respondent has suggested that solicitor and client costs over and above the variable fixed fee (and disbursements) did not exist absent an award of costs by the Court. I do not agree and find that this is too simplistic an analysis. The appellant is not simply coming forward cap in hand and asking for an award of costs. They have submitted a bill of costs supported by time dockets and have requested substantial indemnity costs, as they are entitled to do on the basis of the offer of settlement.
+[34] In my view, the Court must take into consideration the commercial reality of the solicitor‑client relationship within which services are rendered, all time is docketed and a final bill is prepared and adjusted based on a host of factors such as the results obtained, the amount at issue and the importance of the matter for the client. There might be other considerations, but in the end, the final bill will constitute the solicitor and client costs as between the lawyer and his or her client.
+[35] The final bill described above will give rise to an actual legal obligation to pay. If a client is unhappy with the quantum of the final bill, he or she might choose to challenge it by having it assessed by an assessment officer appointed by the appropriate superior court. A lawyer might also, out of an abundance of fairness or to resolve a dispute, volunteer to have the final bill assessed in this fashion and to be bound by the results. But the process by which a legal bill might be assessed does not alter the fundamental nature of the solicitor‑client relationship.
+[36] In this instance, appellant’s counsel had agreed, on a prospective basis (i.e. at the beginning of the engagement), to have its solicitor and clients costs assessed by this Court, likely because it anticipated that the appellant might be entitled to an award of costs beyond Tariff B ‑ as indeed they were. The fact that this Court is now engaged in the process of determining substantially indemnity costs does not somehow suggest that the costs are wholly disconnected from the appellant’s obligation or liability for solicitor and client costs.
+[37] In other words, it is clear to this Court that irrespective of the amount that might be assessed as substantial indemnity costs, appellant’s counsel has agreed to be bound by that assessment and to invoice the appellant accordingly. I would view this as the common understanding of the parties.
+[38] Much like the situation in Zeleny noted above, the purpose of the fee arrangement (and notably the fixed fee component), was to limit the amount of solicitor and client costs the appellant would be liable for if the appeal was dismissed, while guaranteeing a minimum amount of fees for counsel. It did so by providing that the appellant would only be responsible for costs of $12,500 ($7,500 plus $5,000).
+[39] The fee arrangement also provided that if the appeal was successful, the variable fixed fee would to be adjusted upwards based on the amount of the tax recovered (which is not disputed by the respondent). Counsel would also seek an award of costs from the Court and the amount so awarded, if any, would constitute the “enhanced fee” for which the appellant would be invoiced. In my view, this does not offend the principle of indemnification for costs actually incurred.
+[40] Contrary to the position taken by the respondent, I do not view the enhanced costs as “notional” or “hypothetical” as the appellant will be invoiced for the amount of the costs awarded by the Court. This is to be distinguished from the situation in Sun Life, supra, where the successful party had already agreed to pay a percentage of the tax recovered leading Owen J. to conclude that the hourly rates were “hypothetical rates” (para 26). That is not the case here.
+[41] For much the same reasons, I do not agree with the respondent that the Court should simply ignore the provision for enhanced costs on the basis that costs belong to the appellant and that only counsel, and not the appellant, will somehow profit from the award of substantial indemnity costs beyond the variable fixed fee.
+[42] In the end, I accept the appellant’s submission that the fee arrangement was not intended to alter the appellant’s legal obligation to pay for legal services rendered if the appeal was successful. It was intended to ensure that the appellant was able to obtain proper legal representation and was structured so as to limit the appellant’s exposure to legal costs if the appeal was ultimately dismissed. I have to assume that appellant’s counsel was prepared to accept the risk that a substantial portion of its docketed time would have to be written-off if the appeal was in fact ultimately dismissed. That was the deal agreed upon as between the two parties.
+[43] I will only add that fee arrangements and particularly contingency fee arrangements are generally regulated by the various law societies. Since this matter was heard in British Columbia, I have to assume that the Legal Profession Act, SBC 1998, c. 9, would apply. In accordance with this legislation, there are various limits and restrictions and in some instances the agreement is subject to approval by the Superior Court, though, the Court has not received any submissions on this latter issue nor have any been sought. It is raised simply to clarify that the Court expresses no view on whether the fee arrangement in question is compliant or not. In any event, I am of the view that these considerations are not directly relevant to the task of assessing solicitor and client costs on the basis of the bill of costs and time dockets submitted.
+[44] To conclude on this issue, I am satisfied that the fee arrangement, notably the variable fixed fee, does not limit to the appellant’s obligation for legal costs vis-à-vis its counsel if the appeal is ultimately successful, as it was, and that the enhanced costs as described in the fee arrangement are neither notional nor hypothetical as there is a clear nexus with the solicitor and client costs actually incurred. The remaining issue is whether these costs were reasonably incurred.
+B. Were the costs reasonably incurred? [45] Since I have already concluded that the fee arrangement does not limit the appellant’s solicitor and client costs if the appeal is successful, there is no need to consider the various arguments put forward by the respondent that an award of costs over and above $21,000 would be in the nature of “punitive damages” and could only be awarded if the Court concluded that “there has been reprehensible, scandalous or outrageous conduct on the part of one of the parties” (para 28 and 30 of the respondent’s submissions). Those considerations are not relevant.
+[46] The respondent also argues that the total amount in issue was relatively small (a potential tax refund of $63,949.00), and that “no unsuccessful party could reasonably expect to face costs of 180% of the amount at issue”. While that would appear to reflect the principle that “unsuccessful defendants should expect to pay similar amounts by way of costs across similar pieces of litigation involving similar conduct and counsel…” (Walker v. Ritchie, para 28), I am of the view that the words “across similar pieces of litigation” should not be limited to the amount in issue. Different taxpayers will be motivated by different considerations.
+[47] If the only consideration was the quantum of a potential tax refund, the respondent could reject all offers of settlement with impunity, deploy its vast resources where it felt that policy considerations were at play and then, if unsuccessful, argue that it should not be expected to pay substantial indemnity costs for such a small amount.
+[48] While the Court does not quibble with the notion that the quantum of costs is to be determined in relation to “the reasonable expectation of the unsuccessful party” (Hervé Pomerleau, para 12), what a reasonable expectation would be in this case must first be established by the Court?
+[49] The respondent knew that the appellant was represented by a national law firm and was necessarily involved in every step of the litigation process. Without any specific representations, I have to assume that the respondent’s time dockets are much the same as the appellant. And while the hourly rates may differ significantly, I have concluded that the hourly rates charged by appellant’s counsel are not inconsistent with that of comparable senior counsel.
+[50] Since the substantial indemnity costs rule already includes an automatic 20% discount, it is appropriate to start with the premise that all costs were reasonably incurred and that the Court should resist the temptation to second‑guess the judgment of counsel regarding the amount of time spent on an appeal. Moreover, the Court’s discretion to override the entitlement to substantial indemnity costs should only be used sparingly and on a purely principled basis (Sun Life, supra, para 22, 23 and 10).
+[51] As noted above, subsections 147(3.1) and (3.2) and the provision for substantial indemnity costs, subsection 147(3.5) seeks to encourage parties to assess the strength of their respective positions and to consider a settlement at an early stage in the proceedings. It follows that a party who rejects an offer of settlement must assume the risks and bears the full consequences of that decision.
+[52] In this instance, the Court views the offer of settlement in question as both thorough and comprehensive. It contains a compelling rational and fulsome review and analysis of the facts and legal issues over 5 pages and represents a serious attempt to settle at an early stage in the proceedings.
+C. The substantial indemnity costs [53] Assessing costs is not an exact science but the Court will generally look to the various considerations set out in subsections 147(3)(a) to (j) of the Rules, in order to see if there is any reason to adjust the solicitor and client costs being claimed. Having reviewed those provisions, the Court concludes that there is no principled basis to reduce the solicitor and client claimed in any material respect.
+[54] In view of the Court’s overriding discretion, as noted above, and taking into consideration the comprehensive nature of the offer of settlement, the fact that it was delivered shortly after the close of pleadings and more than 24 months before the hearing date, I would assess the solicitor and client costs at $112,500 resulting in substantial indemnity costs of $90,000 (80%), pursuant to subsections 147(3.1) and (3.5) of the Rules.
+[55] The appellant is also entitled to Tariff B costs and disbursements including an additional amount of $3,500 for the preparation of the cost submissions.
+[56] To conclude, the appellant is entitled to costs calculated as follows:
+1.
+Tariff B – paragraph 1(1)(a)
+$525
+2.
+Filing Fee
+$400
+3.
+Examiner’s fee (examination for discovery)
+$684
+4.
+Substantial indemnity costs
+$90,000
+5.
+Costs with respect to the costs submissions
+$3,500
+Total (excluding applicable taxes)
+$95,109
+Signed at Ottawa, Canada, this 25th day of August 2017.
+“Guy Smith”
+Smith J.
+CITATION:
+2017 TCC 160
+COURT FILE NO.:
+2013-4000(GST)G
+STYLE OF CAUSE:
+IKE ENTERPRISES INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+October 5, 2016
+REASONS FOR ORDER
+ON COSTS BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+August 25, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Michel Bourque
+Jacqueline A. Fehr
+Counsel for the Respondent:
+Victor Caux
+Matthew Turnell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Michel Bourque
+Jacqueline A. Fehr
+Firm:
+KPMG Law LLP
+Vancouver, British Columbia
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

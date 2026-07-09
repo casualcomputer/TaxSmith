@@ -1,0 +1,290 @@
+Title: Cyr v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30817/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-170-30817-cyr-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2012-05-29
+
+# Cyr v. M.N.R.
+
+- Citation: 2012 TCC 170
+- Decision date: 2012-05-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7560, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cyr v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-05-29
+Neutral citation
+2012 TCC 170
+File numbers
+2010-2064(EI), 2010-3124(EI), 2010-3125(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2010-2064(EI)
+2010-3124(EI)
+BETWEEN:
+MICHEL CYR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+J.M. CYR SPORTS INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with
+Jean Cyr (2010‑3125(EI)), on August 29, 2011
+at Îles-de-la-Madeleine, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the appellant:
+Alain Brophy
+Counsel for the respondent:
+Marie-France Dompierre
+Counsel for the intervener:
+Simon Delisle
+____________________________________________________________________
+JUDGMENT
+The appeals are dismissed, and the decision of the Minister is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of May 2012.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of August 2012.
+Daniela Guglietta, Reviser
+Docket: 2010-3125(EI)
+BETWEEN:
+JEAN CYR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+J.M. CYR SPORTS INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with
+Michel Cyr (2010‑2064(EI) and 2010-3124(EI)), on August 29, 2011
+at Îles-de-la-Madeleine, Québec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the appellant:
+Alain Brophy
+Counsel for the respondent:
+Marie-France Dompierre
+Counsel for the intervener:
+Simon Delisle
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of May 2012.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 28th day of August 2012.
+Daniela Guglietta, Reviser
+Citation: 2012 TCC 170
+Date: 20120529
+Dockets: 2010-2064(EI)
+2010-3124(EI)
+BETWEEN:
+MICHEL CYR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+J.M. CYR SPORTS INC.,
+Intervener,
+AND:
+Docket: 2010-3125(EI)
+JEAN CYR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+J.M. CYR SPORTS INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] These appeals concern the issue of insurability. The appellants and the respondent agreed to proceed on common evidence.
+[2] The appellants admitted almost all of the relevant facts. The facts admitted in the arguments presented by the appellants in the Reply read as follows:
+[Translation]
+i. The company J.M. Cyr Sports Inc. (hereinafter J.M. Cyr) was founded on April 9, 1987, and is involved in the retail sale and repair of sporting goods.
+ii. J.M. Cyr operates year round.
+iii. When J.M. Cyr was incorporated, the company shareholders were Michel Cyr, Jean Cyr, Fernand Cyr and Marie-Marthe Leblanc.
+iv. Each shareholder held 25% of the company's voting shares.
+v. Fernand Cyr is Marie-Marthe Leblanc's husband. They are the parents of Michel and Jean Cyr.
+vi. On October 24, 2007, J.M. Cyr mandated a team of accountants, tax experts and lawyers to proceed with a corporate reorganization to ensure the survival of the family business.
+vii. On that date, the company's share capital was changed in the following manner:
+J.M. Cyr Sports Inc.
+Holder
+Class A
+1 Vote/Share
+Class D Non-voting
+Class F
+Non-voting
+Percentage of Voting Rights
+Michel Cyr
+100
+30,000
+50%
+Jean Cyr
+100
+30,000
+50%
+Fernand Cyr
+30,000
+31,598
+0%
+Marie-Marthe Leblanc
+30,000
+0%
+Total:
+200
+120,000
+31,598
+100%
+viii. As part of this reorganization, Michel and Jean Cyr each received 50% of the Class A voting shares.
+ix. Fernand Cyr and Marie-Marthe Leblanc did not receive any voting shares during the corporate reorganization of October 24, 2007. However, they received preferred shares.
+…
+13. On December 23, 2008, and December 24, 2009, Jean Cyr filed employment insurance applications for the periods from January 7, 2008, to December 20, 2008, and from December 29, 2008, to December 19, 2009.
+14. On or around November 13, 2008, Michel Cyr filed applications for employment insurance for the periods from November 5, 2007, to November 1, 2008, and from November 10, 2008, to October 31, 2009.
+15. In accordance with the procedure set out in the Employment Insurance Act, requests for a ruling concerning the insurability of the appellants were reviewed by authorized CRA officers.
+16. It was ruled that under paragraphs 5(1)(a) and 5(2)(b) of the Employment Insurance Act (hereinafter the Act), the appellants did not hold insurable employment as they each held over 40% of their employer's voting shares.
+17. The following rulings were made by the Canada Revenue Agency and are in dispute in this case:
+- Concerning Michel Cyr:
+. On December 15, 2009, a ruling for the period from November 5, 2007, to November 1, 2008;
+. On March 10, 2010, a ruling for the periods from November 10, 2008, to October 31, 2009;
+- Concerning Jean Cyr:
+. On March 10, 2010, a ruling for the periods from January 7, 2008, to December 20, 2008, and December 29, 2008, to December 19, 2009.
+18. The appellants’ representatives discussed the matter with the authorized CRA officers to understand why employment insurance benefits were denied to Jean and Michel Cyr for the aforementioned periods.
+19. The appellants’ representatives realized at that moment that the reorganization of J.M. Cyr on October 24, 2007 prevented the applicants from benefiting from employment insurance benefits.
+20. After the periods at issue, the company J.M. Cyr then mandated its lawyers to proceed with a second corporate reorganization so that Michel Cyr and Jean Cyr would hold less than 40% of the voting shares of J.M. Cyr in order to be eligible for employment insurance benefits.
+21. Thus, on March 9, 2010, the share capital was modified in the following manner:
+Name of Shareholder
+Percentage of Votes
+Ownership Percentage
+Class of Shares Held
+Number of Shares Held
+Fernand Cyr
+10%
+0%
+0%
+10%
+0%
+0%
+A
+D
+F
+20
+30,000
+31,598
+Jean Cyr
+40%
+0%
+40%
+0%
+A
+D
+80
+30,000
+Michel Cyr
+40%
+0%
+40%
+0%
+A
+D
+80
+30,000
+Marie-Marthe Leblanc
+10%
+0%
+10%
+0%
+A
+D
+20
+30,000
+22. On February 8, 2010, Jean and Michel Cyr appealed the decisions of the Minister of National Revenue (the Minister) and requested that the J.M. Cyr share capital modification be recognized retroactively in order for their employment to be recognized as "insurable" for the periods at issue.
+23. On April 14, 2010, following analysis of the appeals, the Minister upheld its non-insurability decision concerning the appellants.
+24. On June 28, 2010, Jean and Michel Cyr appealed the Minister's decisions to the Tax Court of Canada.
+25. On September 5, 2011, the Tax Court of Canada heard the evidence in the employment insurance cases of Michel and Jean Cyr. It then postponed the hearing until the outcome of the motion to vary pronouncement before the Québec Superior Court.
+26. On February 23, 2012, the appellants abandoned their motion to vary pronouncement before the Quebec Superior Court.
+[3] The evidence submitted by the appellants established that the father of the appellants Fernand Cyr had strong moral authority over the actions of his two sons, Michel and Jean Cyr. The evidence also showed that the business was run in a very special way; in fact only one of the sons worked for the company while the other collected employment insurance benefits; after a while, the son collecting employment insurance benefits would return to work and the other son would begin collecting employment insurance benefits.
+[4] In other words, brothers Michel and Jean Cyr, both appellants, did not work together but rather replaced each other. The father, Fernand Cyr, stated that the company's viability hinged on this shared work formula and therefore employment insurance was important if not essential to the very survival of the business.
+[5] However, this dimension or aspect of the evidence is not relevant to resolving this dispute but it will probably be relevant in another potential dispute where the key determinants will be different than those in the case at bar.
+[6] In fact, in the case at bar, the issue essentially is to determine whether the respondent correctly evaluated and analyzed the situation by assuming that the two appellants Jean and Michel Cyr each held 50% of the voting shares or whether it should have instead assumed they held 40% each under the amended structure with the residual 20% being shared equally, namely 10% each, by their father and mother.
+[7] As admitted by the appellants, the first structure and or plan resulted from a mandate entrusted to professionals and or experts in the field. The appellants and their father, the funder, read and formally accepted the proposed plan, knowing the importance of employment insurability as mentioned in paragraphs 3 and 4.
+[8] Claiming they had not been informed and did not know that this new structure deprived them of the right to employment insurance, they again mandated experts to modify the corporate structure so that appellants Jean and Michel Cyr would hold 40% instead of 50% of the voting shares.
+[9] Claiming that an error was committed during the initial plan is highly questionable particularly since the people mandated to prepare the plan were professionals in the field. As an aside, I would ask whether the State is responsible or should bear responsibility for errors generally covered by insurers of the professionals concerned; therein lies a highly speculative hypothesis since it is always easier to assign blame for a situation to someone else.
+[10] Once the requested corrections were made, did the jobs automatically become insurable? Must the court base its analysis and conclusion on the corrected reorganization to determine insurability or must it instead draw its conclusions based on the first structure where the appellants each held 50% of the voting shares?
+[11] Assuming that following the analysis, the work of the appellants is deemed to be insurable, should the same work not be excluded from insurable employment for another reason, i.e. the arm's length relationship between the parties, but that is another debate.
+[12] The case law has established that determining the control of voting shares is a mixed question of law and fact, which is separate from corporate control.[1]
+[13] In Sexton v. M.N.R., [1991] F.C.A. No. 417, 132 N.R. 71, Justice Hugeson of the Federal Court of Appeal suggests a two-step analysis to answer the control of voting shares issue: to begin with, it must be determined who holds the voting shares; then whether there are circumstances interfering with the holder's free and independent exercise of this voting right and, if applicable, who may legally exercise that right in the holder's place:
+10 Determining the control of voting shares in a company is a mixed question of law and fact. To begin with, it must be determined who is the holder of the shares; then, the question is whether there are circumstances interfering with the holder's free and independent exercise of his voting right and if applicable, who may legally exercise that right in the holder's place.
+11 A person who has administrative or operational control of a company does not necessarily control its shares; in fact, it often happens in the modern business world that those responsible for managing a company have few of its shares or none at all.
+12 In the case at bar, the Tax Court of Canada judge concluded that the applicants, who each held 17 per cent of the company's voting shares, actually controlled it. While this conclusion may be correct, it in no way determines the control of voting rights to the 33 per cent of the shares held by each of the applicants' children. As the judge himself said, Michel and Charlène Sexton "were owners and held the de jure power to control the new company," and there is no basis in the evidence for concluding that they ever gave up their voting rights to the shares owned by them or in any way interfered with the free exercise of that right.
+[14] With respect to a shareholder's lack of control of voting rights, Justice Hugeson gives the example of when shares are held in trust, which temporarily suspends a shareholder's voting rights.
+[15] In the case at bar, the evidence shows that during the period in question, from 2007 to 2010, all the voting shares issued by the employer, J.M. Cyr Sports Inc., were held equally by both appellants. Therefore, legally, each appellant had 50% control of the voting shares.
+[16] According to the testimony of the appellants and Fernand Cyr, the latter was the ultimate corporate decision-maker. While the appellants never voted against their father's wishes, the fact remains that there were no voting right restrictions on the appellants' shares.
+[17] In addition, the fact that Fernand Cyr controlled the operations and finances of the company does not preclude the fact that the appellants each controlled 50% of the voting shares during the period in question: in fact, it is possible and indeed commonplace that those responsible for managing a company do not have control of its voting shares.
+[18] The involvement of the two brothers in the company in terms of purchasing goods, hiring personnel and signing cheques on behalf of the company indicates they were capable of managing the company on their own without having to seek their father's opinion.
+[19] The appellants, as well as Fernand Cyr, testified that they never intended to make the appellants ineligible for employment insurance despite their desire to reorganize the company's share capital to protect Fernand Cyr's investment and facilitate the smooth operation of the business in the event of an "accident."
+[20] It is a well-established principle that the manner in which a taxpayer structures his economic activities will determine the tax impact. The Supreme Court of Canada has already ruled on this matter in Shell Canada Ltd. v. Canada, 99 D.T.C. 5682, [1999] 3 S.C.R. 622:
+39 This Court has repeatedly held that courts must be sensitive to the economic realities of a particular transaction, rather than being bound to what first appears to be its legal form: Bronfman Trust, supra, at pp. 52-53, per Dickson C.J.; Tennant, supra, at para. 26, per Iacobucci J. But there are at least two caveats to this rule. First, this Court has never held that the economic realities of a situation can be used to recharacterize a taxpayer’s bona fide legal relationships. To the contrary, we have held that, absent a specific provision of the Act to the contrary or a finding that they are a sham, the taxpayer’s legal relationships must be respected in tax cases. Recharacterization is only permissible if the label attached by the taxpayer to the particular transaction does not properly reflect its actual legal effect: Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298, at para. 21, per Bastarache J.
+[Emphasis added.]
+This principle, pursuant to which "the taxpayer’s legal relationships must be respected in tax cases," also applies to the Employment Insurance Act. This principle cannot be applied retroactively. In other words, the taxpayer cannot make retroactive corrections based on the result of an audit except for the purpose of correcting an error.
+[21] This is a reasonable and understandable principle given that if it were otherwise, any interested person could amend or modify any situation resulting in unexpected or undesirable tax consequences.
+[22] However, such a limitation does not eliminate the possibility of correcting errors without consequence in situations where the error is essentially clerical and obvious. It is also possible to make corrections or amendments when the parties agree. Such modifications, corrections or amendments cannot, however, have an impact on a third party, hence, in this case on the respondent, which, at the time of its analysis, must take the parties' legal situation into account.
+[23] The case at bar does not involve this type of error because the percentage of voting shares is a fundamental aspect of a company's organization. Moreover, I would point out that the company's planning and organization were handled by qualified people. With regards to the corrections or new distribution of voting shares, this involves a structure that cannot be enforced against the respondent.
+[24] In the area of insurability; the parties to an agreement, accord or other arrangement can agree to make a change retroactive. However, such changes are not enforceable against third parties, hence, clearly not against the respondent.
+[25] For these reasons, I confirm the merits of the determination that was subject to appeals and conclude that the respondent, in making its analysis, rightfully took into account the reality that prevailed when the appellants each held 50% of the voting shares. Since the appellants each held 50% of the voting shares, their work during the periods at issue cannot be deemed insurable employment; hence the appeals are dismissed.
+Signed at Ottawa, Canada, this 29th day of May 2012.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of August 2012.
+Daniela Guglietta, Reviser
+CITATION: 2012 TCC 170
+COURT FILE NOS.: 2010-2064(EI), 2010-3124(EI) and 2010‑3125 (EI)
+STYLE OF CAUSE: JEAN CYR and MICHEL CYR v. M.N.R. and J.M. CYR SPORTS INC.
+PLACE OF HEARING: Îles-de-la-Madeleine, Quebec
+DATE OF HEARING: August 29, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: May 29, 2012
+APPEARANCES:
+Counsel for the appellants:
+Alain Brophy
+Counsel for the respondent:
+Marie-France Dompierre
+Counsel for the intervener:
+Simon Delisle
+COUNSEL OF RECORD:
+For the appellants:
+Name: Alain Brophy
+Firm: Deveau Bourgeois et Associés
+Laval, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the intervener:
+Name: Simon Delisle
+Firm: Deveau, Bourgeois, Gagné, Hébert & Associés
+Laval, Quebec
+[1] Sexton v. M.N.R, [1991] F.C.A.. No. 417, 132 N.R. 71, 1991.

@@ -1,0 +1,151 @@
+Title: The McDonnell Consulting Corporation v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26868/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-62-26868-the-mcdonnell-consulting-corporation-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-01-27
+
+# The McDonnell Consulting Corporation v. M.N.R.
+
+- Citation: 2005 TCC 62
+- Decision date: 2005-01-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 674, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+The McDonnell Consulting Corporation v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-27
+Neutral citation
+2005 TCC 62
+File numbers
+2004-484(EI)
+Judges and Taxing Officers
+William E. MacLatchy
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-484(EI)
+BETWEEN:
+THE MCDONNELL CONSULTING CORPORATION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 24, 2004 at Toronto, Ontario
+Before: The Honourable W.E. MacLatchy, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Matthew G. Williams
+Mrs. Irina Schnitzer
+Counsel for the Respondent:
+Jeremy Streeter
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 27th day of January 2005.
+"W.E. MacLatchy"
+MacLatchy, D.J.
+Citation: 2005TCC62
+Date: 20050127
+Docket: 2004-484(EI)
+BETWEEN:
+THE MCDONNELL CONSULTING CORPORATION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+MacLatchy, D.J.
+[1] The Appellant appealed a ruling to the Minister of National Revenue (the "Minister") for the determination of the question of whether or not Michelle A. Lewin (the "Worker") was employed in insurable employment while engaged by the Appellant during the period of January 6 to June 30, 2003 within the meaning of the Employment Insurance Act (the "Act").
+[2] By letter dated November 19, 2003, the Minister informed the Worker and the Appellant that it had been determined that the Worker was not employed in insurable employment, for the period referred to herein, for the reason that the Worker and the Appellant were not dealing with each other at arm's length, pursuant to paragraph 5(2)(i) of the Act.
+[3] The Minister relied on the following assumptions of fact to reach his decision:
+(a) the Appellant's business is to provide consulting services such as writing and editing of materials for publication and provide advice concerning the start-up and operation of small businesses;
+(b) the Appellant's sole shareholder is Thomas E. McDonnell;
+(c) the Worker is related to the Appellant's shareholder as being his daughter;
+(d) the Worker was hired to develop new business for the Appellant, under a verbal agreement;
+(e) the Worker's position did not exist before the period in question;
+(f) the Worker was the only worker for the Appellant during the period in question;
+(g) the Worker was not replaced during her maternity leave;
+(h) the Worker performed most of her duties at the Appellant's clients place of business;
+(i) the Worker was paid $3,333.33 monthly, by cheque from the Appellant;
+(j) the Worker was required to work 35 hours per week;
+(k) the Worker's hours of work were not recorded by the Worker neither the Appellant;
+(l) all the equipment and the materials were provided by the Appellant's clients;
+(m) the Worker is related to the Appellant's shareholder within the meaning of the Income Tax Act;
+(n) the Worker is not dealing with the Appellant at arm's length.
+[4] The Appellant agrees that these assumptions of fact were correct.
+[5] The Minister exercised his discretion under paragraph 5(2)(i) of the Act and decided that the contract of employment would not be deemed to be at arm's length.
+[6] The issue before this Court was clearly stated in Légaré v. Canada(Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878 (F.C.A.) by Marceau, J. in these terms:
+[4] The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[7] The matter was further commented on by the Federal Court of Appeal in Pérusse v. Canada(Minister of National Revenue), [2000] F.C.J. No. 310, where Marceau, J. expressed himself in the following terms:
+[15] The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[8] The jurisdiction of the Tax Court of Canada relative to such an inquiry is ably and extensively covered by Porter, D.J.T.C.C. in the case of Crawford and Company Ltd. and M.N.R., reported, [1999] T.C.J. No. 850 (QL) and referred to in Docherty v. Canada(Minister of National Revenue - M.N.R.), [2000] T.C.J. No. 690 by Rowe, D.J.T.C.C. and is well repeated:
+[58] In the scheme established under the EI Act, Parliament has made provision for certain employment to be insurable, leading to the payment of benefits upon termination, and other employment which is "not included" and thus carrying no benefits upon termination. Employment arrangements made between persons, who are not dealing with each other at arm's length, are categorized as not included. Brothers and corporations controlled by them are deemed not to be dealing with each other at arm's length pursuant to subsection 251(1) of the Income Tax Act, which governs the situation. Quite clearly the original purpose of this legislation was to safeguard the system from having to pay out a multitude of benefits based on artificial or fictitious employment arrangements, see the comments of the Federal Court of Appeal in Paul v. The Minister of National Revenue, [1996] F.C.J. No. 682, (A-223-86), where Hugessen J. said:
+We are all prepared to assume, as invited by appellant's counsel, that paragraph 3(2)(c) of the Unemployment Insurance Act, 1971, and subsection 14(a) of the Unemployment Insurance Regulations have for at least one of their purposes the prevention of abuse of the Unemployment Insurance Fund through the creation of so-called "employer-employee" relationships between persons whose relationship is, in fact, quite different. That purpose finds obvious relevance and rational justification in the case of spouses who are living together in a marital relationship. But even if, as appellant would have us do, we must look only at spouses who are legally separated and may be dealing at arm's length with one another, the nature of their relationship as spouses is such as, in our view, to justify excluding from the scheme of the Act the employment of one by the other.
+...
+We do not exclude the possibility that the provisions may have other purposes, such as a social policy decision to remove all employment within the family unit from the operation of the Unemployment Insurance Act, 1971, as was suggested by respondent's counsel.
+[59] The harshness of this situation has however been tempered by paragraph 5(3)(b) of the EI Act, which provides for such employment between related persons to be deemed to be at arm's length and thus in turn to be treated as insurable employment, if it meets all the other provisions, where the Minister is satisfied having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, that it is reasonable to conclude that they would have entered into a substantially similar contract if they had (in fact) been dealing with each other at arm's length.
+[9] The Federal Court of Appeal has clarified the present understanding of the various sections in issue in Légaré, supra, where Marceau, J.A. stated as follows:
+In this matter, the Court has before it two applications for judicial review against two judgments by a judge of the Tax Court of Canada in related cases heard on the basis of common evidence which raise yet again the problems of interpretation and application of the saving provision, subparagraph 3(2)(c)(ii). I say yet again because since its passage in 1990, several decisions of the Tax Court of Canada and several judgments of this Court have already considered what workable meaning could be given to subparagraph 3(2)(c)(ii). In reading the text, the problems it poses beyond its deficient wording are immediately obvious, problems which essentially involve the nature of the role conferred on the Minister, the scope of the Minister's determination and, by extension, the extent of the Tax Court of Canada's general power of review in the context of an appeal under section 70 et seq. of the Act.
+While the applicable principles for resolving these problems have frequently been discussed, judging by the number of disputes raised and opinions expressed, the statement of these principles has apparently not always been completely understood. For the purposes of the applications before us, we wish to restate the guidelines which can be drawn from this long line of authority, in terms which may perhaps make our findings more meaningful.
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[10] In the case of Adolfo Elia v. M.N.R., [1997] F.C.J. No. 316 (QL), a decision of the Federal Court of Appeal, the comments of Pratte, J.A. are worth repeating:
+Contrary to what the judge thought, it is not necessary, in order for the judge to be able to exercise that power, for it to be established that the Minister's decision was unreasonable or made in bad faith having regard to the evidence before the Minister. What is necessary is that the evidence presented to the judge establish that the Minister acted in bad faith, or capriciously or unlawfully, or based his decision on irrelevant facts or did not have regard to relevant facts. The judge may then substitute his decision for that of the Minister.
+[11] The evidence produced before this Court was complete and fairly given and well articulated by the two witnesses for the Appellant, Michelle Ann Lewin and Thomas McDonnell. Their evidence was open and without avoidance or subterfuge. It was a pleasure to have witnesses whose evidence was honest and reliable. However, I could not reach the same conclusion as the Appellant did in argument, on the same evidence.
+[12] It was agreed that the Minister did not act capriciously or in bad faith but the Appellant believes the decision was made without a complete examination of the true nature of the employment of the Worker by the Appellant. It was accepted that the Worker was and would be considered to be related to the Appellant for purposes of paragraph 5(2)(i) of the Act and thus not included in insurable employment but for the saving provisions in paragraph 5(3)(b). The Appellant argued that the Minister acted on irrelevant assumptions and was unaware of the totality of the employment arrangement with the Worker.
+[13] Ms. Lewin, the Worker, is well educated and knowledgeable in her chosen field of fine art and appeared to be well connected to a segment of the art community in Toronto. She worked for certain art galleries until mid-2002 when she was forced to quit such employment due to unreasonable working hours expected from her by her then employer. She remained unemployed till the beginning of the year 2003 when she became employed by the Appellant company, owned by her father, Thomas McDonnell. She attempted to be employed in her chosen profession but was unsuccessful as she stated that the art community is a small tight circle with very few openings for someone with her training, education and talents.
+[14] The Appellant company, it was agreed, has been used by Thomas McDonnell for consulting purposes with clients requiring small business advice in the field of tax, succession and general operation of a family business. The evidence of Thomas McDonnell was that the Appellant was kept involved with a few select clients who had become not only clients but friends who appeared to rely on Mr. McDonnell for business advice and would turn to him outside his practice of tax law at a Toronto law firm specializing in tax matters. The Appellant's company was also used by Mr. McDonnell for editing material and commentary for publication of newsletter for professionals and the co-authoring of a book dealing with the tax benefits of scientific research and development grants.
+[15] Apparently both Mr. McDonnell and his daughter discussed her situation as it existed at the end of 2002 and they reached an agreement that she would work for the Appellant company in her art field with a view to that employment increasing the range of services that the company could provide. The Worker was pregnant at the time, which was known by Mr. McDonnell. She worked, as arranged, for 6 months and left on maternity leave at the end of June 2003. She intended to remain on leave for one year but returned on a part-time basis in 9 months instead.
+[16] The income to be paid to the Worker was negotiated between the parties and reflected her abilities and expertise in the art field and the fact she would only work 35 hours a week from Monday to Friday. The remuneration agreed to was less than she had earned when she was employed elsewhere but what was felt to be commensurate with her education and training. On her return from maternity leave, she then resided in Peterborough and could only work from time to time depending on her child's schedule. She was able to work from her residence with the use of e-mail and could commute to clients in Toronto when required.
+[17] During her 6-months tenure before having her child, she had a modicum of success reconnecting with 3 clients in the art field and produced business about equal to 2/3 of the income she received during that period. The Appellant was satisfied with this progress but did not itself connect to these clients. There was no contact with those clients during the Worker's maternity leave and there was no intention to make any contact with them.
+[18] Mr. McDonnell indicated to this Court that he did not intend to hire anyone or connect to the art community before engaging his daughter to work for the Appellant. He had no particular interest in enlarging the Appellant company and knew little about the business his daughter might bring to the Appellant. His daughter made a presentation to him which he thought might produce something for the Appellant. Further, he was aware that his daughter was expecting a child and could only work for 6 months and then fully expected to take a year away from work. No one was hired during his daughter's absence from employment to service the business newly acquired for its maintenance, if for no other purpose.
+[19] No written contract was entered into by the Appellant and the Worker. Mr. McDonnell said it did not cross his mind but I find this unusual as he is a tax expert and would expect him to be aware of the exclusionary provisions from insurable employment that the Worker would find herself in and to that end he would be well advised to be scrupulously careful to document the employment agreement and see that all "i" were dotted and the "t" crossed.
+[20] Although the Minister had not heard the evidence of these two witnesses, he appeared to be well aware of the circumstances of the employment that was entered into between the two and was aware of the remuneration agreed to, the terms and conditions and the nature and importance of the work performed. All of this information was openly provided by the Appellant and the assumptions on which the Minister based his decision reflected this knowledge.
+[21] Although I believe there was no overt attempt by either the Appellant or the witnesses to create a position for the Worker, it was not surprising that the Minister would look at these circumstances surrounding the employment and based on the agreed facts reach the conclusion that the parties would not have entered into a substantially similar contract of employment had they been dealing with each other at arm's length. The Appellant had no intention of creating the type of employment that was offered to the Worker. No one replaced her when she left her position indicating that it was not an essential or needed position to be filled by her absence. No vacancy was created and whatever business was acquired would not need to be serviced in order to maintain contact or expand any relationship created.
+[22] Further, Mr. McDonnell indicated openly that had someone else came to him with a similar proposal as that of his daughter, he probably would not have considered it. He indicated he has an entrepreneurial spirit and would consider any serious proposal if it could be made to appear to be viable but has never done so other than in his chosen field.
+[23] The facts relied on by the Minister are real and relevant and the conclusion reached, after assessing those assumptions in the context in which they occurred, was reasonable. The evidence presented supports this conclusion and the Appellant has not satisfied this Court, on the balance of probabilities, otherwise.
+[24] The final paragraph of the judgment of Bowie, T.C.J. in Glacier Raft Co. v. Canada(Minister of National Revenue), [2003] T.C.J. No. 450, 2003 TCC 559, bears reading as follows:
+I should make it clear that although I am bound to dismiss the appeals, I was impressed with all the witnesses, and in particular with Anne Duquette, as she now is, Elizabeth Murphy, and James Murphy. I have no doubt that Anne and Elizabeth worked as hard as, and probably harder than, the other guides. Nor do I doubt that Mr. Murphy relied heavily on their experience, not only when he bought the company in 1995, but thereafter as well. This is certainly not a case of employment of convenience being created for the benefit of members of the family so that they could take unfair advantage of the employment insurance system. Nevertheless, the terms of the Act are reasonably clear, and when related parties enter into employment contracts they must be scrupulous to see that the terms do not differ from those on which the employer employs other workers, or on which the workers could find work with other employers, if they wish the employment to be insurable under the Act.
+[25] The appeal is dismissed and the decision of the Minister is hereby confirmed.
+Signed at Toronto, Ontario, this 27th day of January 2005.
+"W.E. MacLatchy"
+MacLatchy, D.J.
+CITATION:
+2005TCC62
+COURT FILE NO.:
+2004-484(EI)
+STYLE OF CAUSE:
+The McDonnell Consulting Corporation and M.N.R.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 24, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable W.E. MacLatchy,
+Deputy Judge
+DATE OF JUDGMENT:
+January 27, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Matthew G. Williams
+Mrs. Irina Schnitzer
+Counsel for the Respondent:
+Jeremy Streeter
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Matthew G. Williams
+Firm:
+Thorsteinssons
+Toronto, Ontario
+For the Respondent:
+John H. Sims
+Deputy Attorney General of Canada
+Ottawa, Canada

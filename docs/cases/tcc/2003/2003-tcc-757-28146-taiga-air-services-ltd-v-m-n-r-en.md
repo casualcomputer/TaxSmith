@@ -1,0 +1,272 @@
+---
+title: "Taiga Air Services Ltd. v. M.N.R"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28146/index.do"
+last_modified: "2003-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 757"
+citation2: ""
+neutral_citation: "2003 TCC 757"
+decision_date: "2003-11-14"
+language: "en"
+item_id: "28146"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1992
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:30:36.861000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b3e1da5f46649b91a9b2b8e218947d8376ed70e8d29d9ad41c1044f453bef084"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Taiga Air Services Ltd. v. M.N.R
+
+- Citation: 2003 TCC 757
+- Decision date: 2003-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1992, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Taiga Air Services Ltd. v. M.N.R
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-14
+Neutral citation
+2003 TCC 757
+File numbers
+2002-2752(EI)
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-2752(EI)
+BETWEEN:
+TAIGA AIR SERVICES LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 20, 2003 at Winnipeg, Manitoba
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Tony Ursini
+Counsel for the Respondent:
+Julien Bédard, Student-at-Law
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, without costs, and the decision of the Minister of National Revenue is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of November 2003.
+"L.M. Little"
+Little, J.
+Docket: 2002-2751(CPP)
+BETWEEN:
+TAIGA AIR SERVICES LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 20, 2003 at Winnipeg, Manitoba
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Tony Ursini
+Counsel for the Respondent:
+Julien Bédard, Student-at-Law
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, without costs, and the decision of the Minister of National Revenue is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of November 2003.
+"L.M. Little"
+Little, J.
+Citation: 2003TCC757
+Date: 20031114
+Docket: 2002-2752(EI)
+2002-2751(CPP)
+BETWEEN:
+TAIGA AIR SERVICES LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Little, J.
+FACTS:
+[1] The Appellant was incorporated under the laws of the Province of Manitoba in 1991. Mr. Tony Ursini owns all of the shares of the Appellant.
+[2] The Appellant operates a commercial helicopter charter service throughout the Province of Manitoba and in other parts of Canada. The Appellant currently owns two helicopters. Mr. Ursini frequently acts as a pilot of the Appellant's helicopters. The Appellant also retains the services of other helicopter pilots as and when required.
+[3] Mr. Alan G. Hahn (the "Worker") qualified as a helicopter pilot approximately 29 years ago. The Worker was employed as a pilot by Midwest Helicopters Ltd. for approximately 25 years.
+[4] The Worker provided services as a helicopter pilot to the Appellant during the following periods:
+1. From December 27, 2000 to January 5, 2001 10 Days
+(Note: For Canada Pension Plan purposes the Period
+is January 1, 2001 to January 5, 2001.)
+2. From October 16, 2001 to November 15, 2001 31 Days
+The periods referred to above are hereinafter referred to as the "Periods".
+(Note: The Worker became an employee of the Appellant in March 2002.)
+[5] During the above Periods the Worker was a pilot of one of the Appellant's helicopters in Northern Manitoba.
+[6] In the 2001 year the Worker was also employed as a pilot by Canadian Helicopters Ltd. The Worker worked for Canadian Helicopters in excess of 130 days in the 2001 year.
+[7] The Appellant maintains that the Worker provided his services as a pilot to the Appellant during the Periods as an independent contractor. The Worker agrees that he was an independent contractor when he flew a helicopter owned by the Appellant.
+[8] The Appellant and the Worker did not make any contributions to the Employment Insurance Act and the Canada Pension Plan in respect of the services provided by the Worker to the Appellant.
+[9] The Minister of National Revenue (the "Minister") determined that the Worker was engaged in insurable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act during the Periods referred to above.
+[10] The Minister also determined that the Worker was engaged in pensionable employment within the meaning of paragraph 6(1)(a) of the Canada Pension Plan during the Periods referred to above.
+ISSUES:
+[11] (1) Was the Worker engaged in insurable employment by the Appellant during the Periods within the meaning of paragraph 5(1)(a) of the Employment Insurance Act?
+(2) Was the Worker engaged in pensionable employment by the Appellant during the Periods within the meaning of paragraph 6(1)(a) of the Canada Pension Plan?
+ANALYSIS:
+[12] The Employment Insurance Act reads as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+(2) Insurable employment does not include
+(a) employment of a casual nature other than for the purpose of the employer's trade or business;
+[13] The Canadian Pension Plan reads as follows:
+6. (1) Pensionable employment is
+(a) employment in Canada that is not excepted employment;
+. . .
+(2) Excepted employment is
+(b) employment of a casual nature otherwise than for the purpose of the
+employer's trade or business;
+[14] The two issues of this appeal will be considered separately: First, whether a contract of service existed, and second, whether the employment was "casual employment" and therefore excluded employment.
+Was There a Contract of Service Between the Appellant and Worker?
+[15] The first issue to be decided is whether the Worker was employed "under any express or implied contract of service". Only if the Worker was employed under a contract of service will he qualify for "insurable employment" and "pensionable employment".
+[16] What constitutes a "contract of service" has been considered by the Courts many times, often in the context of distinguishing the relationship from a "contract for service". In other words, the Court must determine if the Worker was an employee of the Appellant or an independent contractor.
+[17] An examination of what the Courts have held to constitute a contract of service is required. The Courts have developed a test focusing on the total relationship of the parties with the analysis centered around four elements:
+- degree of control and supervision,
+- ownership of tools,
+- chance of profit, and
+- risk of loss
+[18] This test was propounded by the Federal Court of Appeal in Wiebe Door Services Ltd. v. M.N.R.[1] and accepted and expanded by subsequent cases. The Supreme Court of Canada recently had a chance to revisit the issue in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[2] Speaking for the Court, Major, J. stated:
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke, J., in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.[3]
+[19] Accordingly, Major, J. considered the central question to be determined is "whether the person who has been engaged to perform the services is performing them as a person in business on his own account or is performing them in the capacity of an employee".
+[20] The requirement to take a holistic approach in examining the four tests has been emphasized by the Federal Court of Appeal on past occasions:
+... we view the tests as being useful subordinates in weighing all of the facts relating to the operations of the Applicant. That is now the preferable and proper approach for the very good reason that in a given case, and this may well be one of them, one or more of the tests can have little or no applicability. To formulate a decision then, the overall evidence must be considered taking into account those of the tests which may be applicable and giving to all the evidence the weight which the circumstances may dictate.[4]
+Similarly, Major, J. stated in Sagaz:
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.[5]
+[21] Before applying the facts of the present case to the principles set out above, it should be noted that the Minister's determination that the Worker's employment was pursuant to a contract of service is subject to independent review by the Tax Court.[6] No deference to the Minister's determination is required.
+[22] As stated above, the Wiebe Door test can be divided into four categories:
+Control
+[23] Mr. Justice MacGuigan said in Wiebe Door:
+The traditional common-law criterion of the employment relationship has been the control test, as set down by Baron Bramwell in R. v. Walker (1858), 27 L.J.M.C. 207, 208:
+It seems to me that the difference between the relations of master and servant and of principal and agent is this: A principal has the right to direct what the agent has to do; but a master has not only that right, but also the right to say how it is to be done.[7]
+[24] In other words, the key aspect of "control" is the employer's ability to control the manner in which the employee carries out his or her work; thus the focus is not on the control that the employer in fact exercised over the employee. Examples of this ability include the power to determine the working hours, defining the services to be provided, and deciding what work is to be done on a given day.[8]
+[25] According to the evidence provided by the President of the Appellant and the evidence provided by the Worker, a helicopter pilot has a great deal of autonomy when out in the field. The pilot coordinates the project based on weather and transport conditions. Consequently, hours in the field can be quite irregular. A significant factor to note is that it is not uncommon for pilots to have no communication with the Appellant for days or weeks at a time. Under these circumstances, how could it be said that the Appellant has the right to control the manner in which the work is carried out? The Appellant would not be able to determine the Worker's hours or what should be done on a given day. Under these circumstances it would appear that the Appellant was not capable of exercising control over the Worker.
+[26] The facts in this appeal illustrate the limitations of the control test. What distinguishes an independent contractor from a senior employee who is given wide latitude to perform the job?[9] At what point does an employer lose the ability to control a worker and yet retain the right to control the worker? The assignment of work is not enough; as stated in the Wolf decision, where the consultant knew what was expected of him, he was at liberty to accomplish it and: "[t]he fact that an assignment was given to him does not establish a link of subordination."[10] Similarly, the limitations of the control test was recognized by Major, J. in Sagaz:
+A principal inadequacy is its apparent dependence on the exact terms in which the task in question is contracted for: where the contract contains detailed specifications and conditions, which would be the normal expectation in a contract with an independent contractor, the control may even be greater than where it is to be exercised by direction on the job, as would be the normal expectation in a contract with a servant, but a literal application of the test might find the actual control to be less. In addition, the test has broken down completely in relation to highly skilled and professional workers, who possess skills far beyond the ability of their employers to direct.[11]
+[27] I have concluded that the control test has limited value in this situation.
+Ownership of Tools
+[28] In the present case, both parties agree that the Appellant supplied the helicopters to its pilots. The Appellant also maintained and serviced them. This fact may not work against the Appellant because it is not reasonable for the Worker to own a helicopter.[12] However, other cases have held that where the alleged employer owned a major piece of equipment, it favoured an employment relationship.[13] Thus, it is not clear how important the Appellant supplying the helicopter is to the overall determination.
+[29] It should be noted that the Worker paid for his other equipment such as helmet, flight suit, and seasonal clothing.
+Chance for Profit
+[30] In an employee/employer relationship it is the employer who bears the burden of profit or loss; the employee does not assume a financial risk as he receives the same wage no matter what the employer's financial situation.[14]
+[31] In the present case, it is agreed that the Worker was paid based on the daily rate. The Appellant claims that the Worker named his price whereas the Minister claims the Worker was paid $250 per day, which is what every pilot was paid by the Appellant. In Precision Gutters the following comment is found:
+... In my view, the ability to negotiate the terms of a contract entails a chance of profit and risk of loss in the same way that allowing an individual the right to accept or decline to take a job entails a chance of profit and risk of loss.[15]
+The evidence was that the Worker and the Appellant negotiated the daily rate for the Periods in question.
+[32] An important factor to be noted in this situation is the ability of the Worker to turn down offers made by the Appellant. Thus, the Worker was in a position to seek other more profitable offers that were made by other helicopter charter operators.[16]
+[33] It should also be noted that the Worker had such a wide discretion on how to perform his job. In other words, the harder he worked the greater the opportunity to take on more work for longer periods of time and earn more money. However this point is limited somewhat by legislation prohibiting the number of flying hours, but still the potential is there. For example, in Precision Gutters, the Court stated: "[t]he installers were not given any set time for performance of the contract and hence efficient performance might well lead to more profits."[17]
+Risk of Loss
+[34] With respect to risk of loss, the Minister alleges that the Worker did not have to pay for any of his personal or living expenses. The Appellant reimbursed the Worker for these expenses and then, according to the Appellant, billed the customer for that amount. However, it should be noted that the Worker was not covered under the Appellant's liability insurance. This is an important point because if the helicopter had crashed the Worker might be found to have a personal financial liability. In addition, the Worker had no guarantee of work from the Appellant from one contract to the next.[18]
+[35] It should also be noted that in Wolf Desjardins, J.A. expanded the notion of risk to factors beyond financial risk:
+In consideration for a higher pay, the appellant, in the case at bar, took all the risks of the activities he was engaging in. He was not provided health insurance benefits nor a pension plan by Canadair. He had no job security, no union protection, no educational courses he could attend, no hope for promotion. The profit and the risk factors were his.[19]
+Integration
+[36] This is a difficult test to apply and its value is questionable.[20] Nevertheless, in Canada v. Rouselle et al., Hugessen, J. made the following comments on the integration test:
+[25] The judge did not mention the factor of "integration" as such. Clearly in light of the case law cited above, it was not essential for him to speak of it. However, if he had considered it it is apparent that, from the employees' standpoint, the latter were not in any way integrated into the employer's business.
+[26] Their comings and goings, their hours and even their weeks of work were not in any way integrated into or coordinated with the operations of the company paying them. Although their work was done for the company's business, it was not an integral part of it but purely incidental to it.[21]
+In other words, the question is:
+The observations of Lord Wright, of Denning L.J., and of the judges of the Supreme Court in the U.S.A. suggest that the fundamental test to be applied is this: "Is the person who has engaged himself to perform these services performing them as a person in business on his own account?"[22]
+[37] In the case, the Worker worked for the Appellant only 41 days over, approximately, a one-year period. I do not believe that it could be said that the Worker could be considered to be an "integral part" of the Appellant's operation in the Periods.
+Contractual Intent
+[38] In Wolf, Nöel, J.A. made the following remarks concerning the role that contractual intent plays in the classification of an employee:
+... I acknowledge that the manner in which parties choose to describe their relationship is not usually determinative particularly where the applicable legal tests point in the other direction. But in a close case such as the present one, where the relevant factors point in both directions with equal force, the parties' contractual intent, and in particular their mutual understanding of the relationship cannot be disregarded.[23]
+[39] In the present case, the Worker and the President of the Appellant both testified that they believed that the Worker was an independent contractor.
+If the Worker was an Employee, was His Work Excluded Employment?
+[40] The Appellant maintains that if the Worker was an employee, he did not engage in insurable employment because the Worker was engaged in excluded employment – specifically, casual employment.
+[41] To constitute casual employment, two separate conditions must be met. These conditions have been explained as follows:
+... it can readily be concluded that casual employment within the meaning of this provision can only be employment which exhibits no continuity, regularity or periodic recurrence, and that employment may be casual even though the services rendered are connected with the employee's trade (it is not the occupation which is in question), and may not be casual even though it is unconnected with the employer's professional activity or business (the two conditions stand independently of each other).[24]
+[42] While duration of employment is a factor in determining casual employment, much more important, in my view, are the factors of predictability and reliability.[25] The Court in Roussy explained that casual employment has the characteristic of being "ephemeral" or "transitory", i.e., unpredictable and unreliable.[26] The Court asked the question of whether it is impossible to determine the regularity of the employment. On the facts of Roussy, the Court found there was no casual employment because, despite only working 38 days, the employee worked under the direction of the employer's agent five days per week, 8 - 9 hours a day at $8.00 per hour. The job was the framing of a house. Thus, his employment "was definite, specific, and precise".[27]
+[43] Additionally, whether the employment is casual depends on the contractual relationship by the two parties. This relationship is determined by considering all the facts. The Court in Bélanger described it as such:
+What is involved is the employment, and employment results from a contractual relationship between two parties: there is no reason to think that the nature of an employment should be determined by reference to one of the two parties only, the employer or the employee. It is the meaning which the two contracting parties give to their contractual relationship which make the employment something stable, which can continue to exist or at least be renewed at regular intervals, and on which the employee can rely, or on the other hand something ephemeral, transitory, merely casual. It is only by considering all the circumstances surrounding the establishment, continuation and termination of the contractual relationship that it will be possible to decide on the meaning which the parties give to their relationship. Some constants may exist. Thus, I think that in the event of a misunderstanding between the parties as to the nature of their relationship, it is the employee's impression which should prevail, provided it is based on objective evidence, as in the case he was really relying on the employment and to this extent merits the protection which the system can offer. It is also clear that the most telling objective evidence will be from the employer and its present and future needs, for it is the employer who created the employment and only he could define it. Apart from these few constants, however, everything depends on weighing the circumstances and on the conclusions drawn from the evidence. The process may at time be very cumbersome, but it must be gone through in all cases, and I know of no formula which can simplify it.[28]
+[44] In the present case, the Worker was a helicopter pilot for the Appellant for a total of 41 days over three different periods throughout the course of the year, of which two periods are in question. The issue is whether the Worker's time with the Appellant was ephemeral or transitory. The Worker was with the Appellant very irregularly. For example, the first period of employment was December to January and the second period was not until October to November. Additionally, since the Worker provided services on a regular basis for another employer during the year, presumably he would only be available to work for the Appellant when he was not working for the other employer. Thus, it seems that in this situation there was no way to determine the regularity of the employment. Furthermore, as noted above, both the Worker and the Appellant considered it to be casual employment since the Appellant did not make any employee deductions for the Worker and the Worker claims that he considered himself an independent contractor.
+Conclusion
+[45] I have concluded that the Worker was not an employee of the Appellant in the Periods referred to above. This, like many cases, is a borderline call. On balance, what tips the scale in my opinion is that the Worker provided his services to the Appellant for a very short duration of time when he was available, and, so it would seem, the understanding of the parties was that an independent contractor status had been established. This result seems to be consistent with the Federal Court of Appeal's recent decisions in Precision Gutters and Wolf where a more liberal approach to permitting parties to define their own relationships was taken.
+[46] The appeals are allowed, without costs.
+Signed at Ottawa, Canada, this 14th day of November 2003.
+"L.M. Little"
+Little, J.
+CITATION:
+2003TCC757
+COURT FILE NO.:
+2002-2752(EI)
+2002-2751(CPP)
+STYLE OF CAUSE:
+Taiga Air Services Ltd. and The
+Minister of National Revenue
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+October 20, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+November 14, 2003
+APPEARANCES:
+Agent for the Appellant:
+Tony Ursini
+Counsel for the Respondent:
+Julien Bédard, Student-at-Law
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1986] 3 F.C. 553, 70 N.R. 214, [1986] 2 C.T.C. 200, 87 DTC 5025 (F.C.A.).
+[2] [2001] 2 S.C.R. 983, 204 D.L.R. (4th) 542.
+[3] Sagaz, supra.
+[4] Moose Jaw Kinsmen Flying Fins Inc. v. M.N.R., [1988] 2 C.T.C. 2377 (F.C.A.; 88 DTC 6099 at 6100..
+[5] Sagaz at para. 48.
+[6] M.N.R. v. Jencan (1997), 215 N.R. 352, 2 Admin. L.R. (2d) 152 (F.C.A.) at para. 24. Cited with approval in Candor Enterprises Ltd. v. Canada (M.N.R.) (2000), 264 N.R. 149 (F.C.A.).
+[7] Wiebe Door, at 5027, cited to DTC.
+[8] See Caron v. M.N.R. (1987), 78 N.R. 13 (F.C.A.).
+[9] See Caron v. M.N.R., supra.
+[10] Wolf v. Canada, [2002] 4 F.C. 396, F.C.A. 96 (F.C.A.) at para. 77.
+[11] Sagaz, at para. 38, citing Wiebe Door at 558-9.
+[12] Precision Gutters Ltd. v. Canada (M.N.R.) (2002), F.C. 207, 291 N.R. 161 (F.C.A.), at para. 25: "It has been held that if the worker owns the tools of the trade which it is reasonable for him to own, this test will point to the conclusion that the individual is an independent contractor even though the alleged employer provides special tools for the particular business. See Bradford v. M.N.R., 88 DTC 1661; Campbell v. M.N.R., 87 DTC 47; Big Pond Publishing v. M.N.R., [1998] T.C.J. No. 935."
+[13] Jusenchuck v. Canada (M.N.R.), [2003] T.C.J. No. 469 (T.C.C.) at para. 15; Merit Transport Inc. v. Canada (M.N.R.), [2003] T.C.J. No. 383 (T.C.C.) at para. 32; and Hamblin (c.o.b. Mike's Towing) v. Canada (M.N.R.), [2003] T.C.J. No. 324 (T.C.C.) at para. 40.
+[14] Wolf v. Canada, supra at para. 86.
+[15] Precision Gutters at para. 27.
+[16] Regal Auctions v. Canada (M.N.R.), [2003] T.C.J. No. 347 (T.C.C.) and Uranium City Hospital v. Canada (M.N.R.), [2003] T.C.J. No. 380.
+[17] Precision Gutters at para. 27. Also see Insurers Advisory Organization Inc. v. Canada (M.N.R.), [2003] T.C.J. No. 414 (T.C.C.) at para. 53.
+[18] Precision Gutters at para. 27.
+[19] Wolf at para. 87.
+[20] Precision Gutters at para. 19.
+[21] (1990), 124 N.R. 339 (F.C.A.) at 347.
+[22] MacGuigan, J. quotes with approval the comments of Cooke, J. in Market Investigations Ltd. v. Minister of Social Security, [1968] 23 All E.R. 732 at page 737.
+[23] Wolf at para. 122, Décary J.A. would give more deference to the parties' intent given modern business trends, at paras. 199-120, Desjardins J.A. stated at paras. 69-72, that the contract must reflect the actual relationship between the parties if it is to be given any weight.
+[24] Bélanger v. Canada, [1987] 3 F.C. 220 (F.C.A.) at para.3.
+[25] Roussy v. M.N.R. (1992), 148 N.R. 74 (F.C.A.).
+[26] Ibid. at para.7
+[27] Ibid, at para. 9.
+[28] Bélanger at para. 5.

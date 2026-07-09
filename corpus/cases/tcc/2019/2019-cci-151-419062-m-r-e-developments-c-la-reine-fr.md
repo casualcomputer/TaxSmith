@@ -1,0 +1,197 @@
+---
+title: "M.R.E. Developments c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/419062/index.do"
+last_modified: "2019-07-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 151"
+citation2: ""
+neutral_citation: "2019 CCI 151"
+decision_date: "2019-07-19"
+language: "fr"
+item_id: "419062"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4210
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:13:13.946000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8a27c3c87d1b190a2cd84806633cb059408dd087fc350baae9ad34169e995c56"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# M.R.E. Developments c. La Reine
+
+- Citation: 2019 CCI 151
+- Decision date: 2019-07-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4210, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+M.R.E. Developments c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-07-19
+Référence neutre
+2019 CCI 151
+Numéro de dossier
+2018-3174(IT)APP
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-3174(IT)APP
+ENTRE :
+M.R.E. DEVELOPMENTS INC.
+requérante
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 7 juin 2019, à Calgary (Alberta)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Représentant de la requérante :
+Michael Brooks
+Avocat de l’intimée :
+Me Damon Park
+ORDONNANCE
+La demande de prorogation de délai pour déposer un avis d’opposition concernant la cotisation - Une cotisation pour mémoire de tiers no 4163407 datée du 18 janvier 2017 présentée conformément au paragraphe 160(1) de la Loi de l’impôt sur le revenu est rejetée sans frais.
+Signé à Hamilton, Ontario, ce 19e jour de juillet 2019.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2019 CCI 151
+Date : 20190719
+Dossier : 2018-3174(IT)APP
+ENTRE :
+M.R.E. DEVELOPMENTS INC.
+requérante
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bocock
+I. INTRODUCTION
+[1] La requérante (MRE) présente la présente demande de prorogation de délai pour déposer un avis d’opposition à l’égard d’une cotisation indépendante. La cotisation a été établie à l’égard de MRE en application de l’article 160 de la Loi de l’impôt sur le revenu, LRC (1985), ch. 1 (la Loi) le 18 janvier 2017 (la cotisation).
+[2] Le ministre du Revenu national (le ministre) s’oppose à la demande pour deux motifs : MRE n’a ni (i) contesté la cotisation, ni (ii) demandé une prorogation pour le faire dans les délais prescrits par la Loi.
+[3] MRE, représentée par son seul administrateur, Michael Brooks (M. Brooks), déclare implicitement qu’aucune demande de prorogation n’est requise. En effet, M. Brooks a posté, au nom de MRE, un avis d’opposition à l’Agence du revenu du Canada (Agence) le 17 avril 2017 (l’opposition d’avril, soit dans le délai de 90 jours pour produire cet avis d’opposition). Comme nous le verrons plus loin, la question est de savoir si, dans l’ensemble, M. Brooks a présenté cette demande de prorogation.
+II. LE DROIT
+a) La Loi
+[4] La loi pertinente, l’alinéa 166.2(5)a) et le paragraphe 169(1) de la Loi, prévoit ce qui suit (extraits pour assurer la pertinence) :
+Acceptation de la demande [...de prorogation...]
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+Appel
+169 (1) Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où avis a été envoyé au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[5] La Cour note que M. Brooks a fait défaut de déposer une demande de prorogation pour déposer un avis d’opposition le ou avant le 17 avril 2018. Il ne conteste pas cette question, mais affirme là encore qu’une demande de prorogation était inutile parce qu’un avis d’opposition a été déposé dans le délai de 90 jours prévu au paragraphe 169(1).
+b) La jurisprudence
+[6] De nombreuses décisions ont établi le caractère obligatoire de l’obligation de produire, soit l’avis d’opposition dans les 90 jours, soit la demande de prorogation de délai pour déposer une opposition dans l’année suivante. À titre d’exemple, la juge Lyons a énoncé cette obligation de la façon suivante dans Odebala-Fregene c. Sa Majesté la Reine, 2015 CCI 44, lorsqu’elle a déclaré ceci :
+[9] [...] Ce processus est régi par un régime législatif obligatoire, qui prescrit des délais stricts pour signifier des oppositions et des demandes de prorogation de délai lorsqu’un avis d’opposition est déposé en retard.
+[10] La disposition pertinente en l’espèce est l’alinéa 166.2(5)a) de la Loi, qui est libellé ainsi :
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+[11] Le libellé est clair. Les exigences sont strictes. On ne peut déroger au délai imparti. La demande de prorogation du délai pour déposer un avis d’opposition ne peut être acceptée que si elle a été faite dans l’année suivant l’expiration du délai pour signifier un avis d’opposition ou présenter une requête en vertu de la Loi. Ces principes ont été soulignés en appel et appliqués par la Cour de façon systématique.
+[12] Dans l’arrêt Canada c Carlson, 2002 CAF 145, 2002 DTC 6893 (CAF), la Cour d’appel fédérale a souligné, aux paragraphes 12 et 13, que le délai d’un an et de 90 jours à compter de la mise à la poste est absolu et qu’on ne peut y déroger.
+[13] Dans l’arrêt Edgelow c La Reine, 2011 CCI 255, 2011 DTC 1192, la juge V. Miller a dû rejeter une demande qui était en retard d’une journée, en soulignant qu’elle n’avait pas le pouvoir discrétionnaire de proroger le délai.
+III. RAPPEL DES FAITS
+[7] M. Brooks a déposé un affidavit deux jours avant l’audience. Le dépôt de cet affidavit n’a pas été effectué dans le délai prescrit aux termes des règles applicables au dépôt de ces éléments de preuve. Bien que cet affidavit ait été admis à la demande de M. Brooks aux fins de l’audience, comme l’a ordonné la Cour, M. Brooks a également prêté serment, témoigné et a ensuite été interrogé par l’avocat de l’intimé sur son affidavit et son témoignage oral.
+[8] M. Brooks a témoigné qu’avant qu’un avis de cotisation ne soit établi aux termes de l’article 160 de la Loi, il était en pourparlers avec les représentants de l’Agence au sujet de la valeur des biens transférés en cause. En fait, il avait fourni des éléments de preuve documentaires concernant la valeur des biens transférés, des contrats de location et des contrats de vente. À cette fin, M. Brooks a indiqué qu’il a parlé à une dénommée Mme Elder et à une dénommée Mme Serate de l’Agence. Il l’a fait à plusieurs reprises, au moins au début de l’enquête, au milieu ou à la fin de 2015. À ce moment-là, il avait parlé à plus d’une reprise avec ces deux personnes séparément et au moins une fois avec celles-ci simultanément. Puis il y a eu un délai entre ces discussions et la cotisation du 18 janvier 2017. M. Brooks reconnaît avoir reçu la cotisation. Il affirme que cela l’a incité à communiquer avec Mme Serate au début du printemps 2017, mais ses souvenirs sont vagues.
+[9] Après ces discussions, M. Brooks admet que même s’il a tardé à répondre à la cotisation, il l’a finalement fait dans le délai « de plein droit » de 90 jours. C’est ce qu’illustre l’opposition d’avril que M. Brooks affirme avoir déposée dans la boîte aux lettres locale à proximité ou tout juste à l’extérieur de sa pharmacie locale, Luke’s Drug Store, à Calgary. Bien qu’il ne se souvienne pas l’avoir déposée dans la boîte postale en tant que courrier ordinaire prépayé, une fois sa mémoire rafraîchie lors du contre-interrogatoire, il a dit être certain de l’avoir postée le 17 avril 2017.
+[10] M. Brooks affirme qu’il se souvient avoir envoyé l’avis d’opposition grâce à une note inscrite à cet effet dans l’agenda de son téléphone. Bien qu’il ait tout de suite rédigé la note, il y a ensuite accédé et l’a transférée de son téléphone à son ordinateur plusieurs jours avant l’audience.
+[11] L’opposition d’avril, jointe en annexe à son affidavit, commençait par l’adresse et l’appel suivants : [traduction]
+Michael Brooks
+611 Edmonton Trail NE, app. 206
+Calgary (Alberta)
+T2E 3J3
+Objet : Avis d’opposition
+Bureau des services fiscaux du Sud-de-l’Alberta
+220 4th Avenue S. E., bureau 125
+Calgary (Alberta)
+T2G 0L1
+À qui de droit,
+[12] Sans trop d’explications, une semaine après que M. Brooks eut prétendument posté l’opposition d’avril, la débitrice fiscale principale [traduction] « quasi hystérique », Shelley Bonwick, a attiré l’attention de M. Brooks une fois de plus sur la cotisation. Le 24 avril 2017, Mme Bonwick a dit à M. Brooks qu’elle était visée par l’Agence et qu’elle devait quitter le bien transféré qui faisait l’objet de la cotisation. Pour répondre à ces préoccupations urgentes, M. Brooks a envoyé un autre avis d’opposition par courriel le 24 mai 2017 (l’opposition de mai).
+[13] L’opposition de mai était identique au contenu de l’opposition d’avril, sauf en ce qui concerne trois éléments omis : il n’y avait aucune adresse de retour, aucune adresse de l’Agence et aucune date. L’opposition d’avril avait inclus, de façon détaillée et précise, ces trois éléments. Ce qui n’était pas le cas de l’opposition de mai. M. Brooks a expliqué qu’il n’avait pas pensé inclure ces renseignements antérieurs dans l’opposition de mai.
+[14] M. Brooks n’avait pas fini de s’opposer. Le 2 juin 2017, il affirme avoir remis en main propre une copie de l’opposition d’avril ou de mai à un employé de l’Agence.
+[15] Parallèlement à l’opposition de juin, également le 2 juin 2017, l’Agence a envoyé à M. Brooks une lettre de refus concernant l’opposition de mai (le refus de mai). Le contenu du refus de mai est important pour deux raisons. Il indique que l’opposition de mai avait été envoyée après la date critique du 18 avril 2017, soit 90 jours après la date d’envoi de la cotisation. Deuxièmement, le refus de mai offrait à M. Brooks l’option de demander une prorogation du délai pour déposer un avis d’opposition.
+[16] Rien d’autre n’a été documenté jusqu’au 25 août 2018, date à laquelle MRE a déposé sa demande de prorogation de délai pour déposer un avis d’opposition, soit la demande hors délai qui fait l’objet de la présente audience.
+IV. DISCUSSION
+a) Conclusions préliminaires
+[17] L’opposition de mai, comme l’a reconnu M. Brooks à l’audience, est en dehors du délai de « plein droit » de 90 jours prévu à l’article 169 de la Loi. Le fait qu’elle fasse curieusement référence au compte d’impôt personnel de M. Brooks n’a pas d’importance. C’est la date de livraison qui l’invalide, soit environ 39 jours au-delà du délai de 90 jours. Le refus de mai était tout à fait correct à cet égard.
+[18] De même, l’opposition de juin est hors délai, peu importe qu’elle ait été remise en main propre aux représentants du ministre.
+[19] De plus, il ressort clairement du dossier qu’aucune demande de prorogation de délai pour déposer un avis d’opposition n’a été signifiée au ministre dans l’année suivant l’expiration du dernier jour de signification d’un avis d’opposition, soit le 18 avril 2018. M. Brooks n’a pas fait valoir qu’il avait déposé ou signifié une demande de prorogation de délai pour déposer un avis d’opposition avant le 25 août 2018.
+[20] C’est quelque peu surprenant pour plusieurs raisons. Après toute l’agitation liée à l’opposition d’avril, de mai et même de juin, l’Agence a expressément informé M. Brooks par écrit de la nécessité de prendre la même mesure et de demander la prorogation dans l’année suivant le 18 avril 2017. Inexplicablement, il ne l’a pas fait.
+[21] Il reste donc à la Cour de déterminer la question cruciale de savoir si, tout compte fait, la preuve établit que M. Brooks a posté l’opposition d’avril le 17 avril, comme il l’affirme. Les deux parties conviennent que si la Cour en vient à cette conclusion, la demande de MRE sera acceptée et l’avis d’appel sera accepté. Inversement, le rejet de cet événement mettra fin à la demande de MRE et à ses droits d’appel.
+b) Appréciation de la crédibilité
+[22] L’acceptation du témoignage de M. Brooks, et par conséquent de la demande et de l’appel de MRE, dépend principalement de la crédibilité que la Cour accorde à la preuve documentaire et verbale de M. Brooks qui lui a été présentée. Pour évaluer cette crédibilité, la Cour doit procéder à une certaine analyse afin d’apprécier cette crédibilité. Un contribuable n’est pas tenu obligatoirement de présenter des éléments de preuve corroborants ou à l’appui pour réfuter, en l’espèce, l’hypothèse que le ministre n’a pas reçu une opposition ou une demande de prorogation de délai en temps opportun. Toutefois, en l’absence d’une telle preuve, le témoignage contraire du contribuable doit être jugé crédible, raisonnable et suffisant par le juge : Agostini c. Sa Majesté la Reine, 2015 CCI 215, au paragraphe 24.
+[23] Cette crédibilité, dans son ensemble, est mesurée par rapport aux faiblesses comparatives, aux écarts et aux omissions dans la preuve de la partie qui fait valoir unilatéralement les faits non corroborés. De tels défauts se discernent à partir des sources et de l’étendue des incohérences, du comportement lors de la présentation, du motif et de la probabilité de survenance dans l’ordre naturel des choses : Peerenboom v. Her Majesty The Queen, 2019 CCI 61, au paragraphe 15.
+[24] L’affirmation de M. Brooks selon laquelle il a posté l’opposition d’avril le 17 avril 2019 est, tout bien pesé, peu probable. La Cour fonde cette conclusion sur l’évaluation de son témoignage en ce qui concerne l’incohérence, l’incertitude et la probabilité, compte tenu des circonstances environnantes. On trouvera ci-après un résumé de ces observations. Le manque de crédibilité est large et manifeste. Et il n’est pas nécessaire qu’il soit spectaculaire; la Cour doit conclure que, dans leur ensemble, les éléments de preuve non corroborés sont crédibles, raisonnables et suffisants. Les éléments de preuve ne parviennent pas à atteindre ce niveau, et de loin.
+(i) L’opposition d’avril : son curieux format
+[25] Comme premier exemple, la Cour se tourne vers le témoignage variable concernant l’envoi postal de l’opposition d’avril. Au début, M. Brooks ne se souvenait pas avoir déposé l’opposition d’avril dans la boîte aux lettres. Au cours du contre-interrogatoire, il a acquis plus de certitude. Puis il a laissé entendre qu’il avait inscrit une note contemporaine à cet effet dans l’agenda de son téléphone. Invité à s’expliquer, il a déclaré qu’il s’agissait d’une liste récapitulative dressée une semaine avant l’audience, qui contenait dans un document un résumé de plusieurs événements sur une période de trois ans. Même alors, l’« entrée » concernant l’opposition d’avril était au mieux nébuleuse. L’entrée se lisait comme suit : [traduction] « 17 avril 2017 – ai posté une autre opposition ». D’emblée, deux curieuses observations s’imposent. L’opposition d’avril était la première opposition revendiquée. Comment pourrait-il s’agir d’« une autre » opposition? Deuxièmement, le détail de cette entrée est en comparaison succinct par rapport à l’entrée sommaire du 2 juin 2017 qui se lisait comme suit : [traduction] « Le 2 juin 2017, ai remis une lettre d’opposition en personne à Mme Serate dans l’édifice Harry Hays ». Aucune explication n’a été fournie pour expliquer cette différence. De plus, la preuve produite à l’audience a pris la forme d’un résumé des données jointes à l’affidavit de M. Brooks, au lieu des données de base réelles tirées de l’agenda du téléphone.
+(ii) L’opposition de mai : observations comparatives
+[26] Ensuite, le contenu comparatif de l’opposition d’avril présente une incongruité pour la Cour. Comme nous l’avons vu plus haut, il contient des adresses complètes (coordonnées de l’expéditeur et adresse de retour) ainsi que la date. Il a été créé sur le même ordinateur que l’opposition de mai. Les éléments de fond des deux oppositions, envoyées à six semaines d’intervalle, sont exactement identiques. M. Brooks a admis que l’opposition de mai a probablement été récupérée à partir de la copie électronique sauvegardée comprenant l’opposition d’avril, puis envoyée par courriel. L’Agence a en sa possession l’opposition de mai, mais pas celle d’avril. Et les deux diffèrent aussi de façon considérable sans explication. Pourquoi M. Brooks supprimerait-il sa propre adresse et celle de l’Agence, sans inscrire la date du jour sur l’opposition de mai? C’est le cas en particulier lorsque les deux documents ont été générés à partir du même ordinateur et concernent le même problème.
+[27] De plus, la motivation exprimée pour l’envoi de l’opposition de mai contredit davantage le contenu moindre de ce dernier document par rapport à l’opposition d’avril précédente. Et il ne faut pas oublier Mme Shelley Bonwick. Son état d’agitation le 27 avril, à peine dix jours après l’envoi présumé de l’opposition d’avril, aurait donné à M. Brooks une raison de s’alarmer. Selon ses dires, elle croyait qu’elle était ciblée, calomniée et humiliée par l’Agence. Pourtant, l’opposition de mai, envoyée totalement en raison de l’opinion de Mme Bonwick sur l’Agence, omettait l’adresse de MRE, l’adresse de l’Agence et la date. Plus curieusement encore, elle ne faisait pas référence à l’opposition d’avril envoyée par la poste et ne contenait pas les autres renseignements essentiels de l’opposition d’avril envoyés à un moment antérieurement moins « menaçant ». Enfin, cette opposition « urgente » de mai n’a été envoyée que 30 jours après l’avertissement lancé par Mme Bonwick.
+(iii) L’opposition de juin : aucune précision ajoutée
+[28] L’opposition de juin n’ajoute aucune précision à la qualité vaseuse de la preuve. Il n’y a pas de copie ni aucun souvenir du contenu, que celui-ci fasse référence à l’opposition d’avril ou à l’opposition de mai. De plus, M. Brooks n’a obtenu ni produit aucun reçu ni aucun accusé de réception du reçu que lui aurait donné le fonctionnaire de l’Agence.
+(iv) Retour à l’opposition d’avril : son apparition tardive
+[29] Enfin, en ce qui concerne la probabilité de l’envoi postal de l’opposition d’avril, la Cour fait référence à la demande de prorogation de délai de MRE elle-même. Il y est écrit ceci : [traduction]
+J’ai reçu à l’origine l’avis de cette cotisation pour mémoire de tiers en octobre 2015 et j’ai déposé une opposition dans un délai d’un mois.
+Je n’ai jamais reçu d’autre avis de Revenu Canada concernant cette opposition avant avril 2017. J’ai ensuite présenté une opposition en ligne en mai 2017 et je confirme que l’Agence a reçu ces renseignements parce que j’ai un dossier et le numéro de confirmation (2346V7V).
+[30] M. Brooks se trompe sur la date de la cotisation. Celle-ci n’a pas été envoyée en octobre 2015, mais bien le 18 janvier 2017. Il a également admis qu’il n’a pas examiné la cotisation reçue avant avril 2017. Mis à part ces deux points, compte tenu des éléments de preuve dont dispose la Cour, la description qui précède, elle-même selon les propres termes de M. Brooks, est une description exacte de ce qui s’est passé. L’avis d’opposition de MRE a été déposé le 24 mai 2017, soit 39 jours trop tard. De plus, aucune demande de prorogation n’a été présentée au ministre ou à la Cour dans les délais prescrits.
+[31] Quant à l’opposition d’avril, elle n’a pas été mentionnée dans la demande susmentionnée présentée à la Cour ni dans aucune correspondance antérieure avec l’Agence. Elle a été versée au dossier pour la première fois le 5 juin 2019 à titre de pièce jointe à l’affidavit de M. Brooks. D’après l’analyse de crédibilité entreprise par la Cour relativement à l’opposition d’avril, la Cour n’a pas besoin de spéculer sur la date à laquelle l’opposition d’avril a été créée. Aux fins de la présente requête, la Cour a suffisamment de motifs pour conclure qu’elle n’a pas été postée le 17 avril 2017.
+V. CONCLUSION ET DÉPENS
+[32] Pour les motifs qui précèdent, la demande est rejetée.
+Signé à Hamilton, Ontario, ce 19e jour de juillet 2019.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2019 CCI 151
+NO DU DOSSIER DE LA COUR :
+2018-3174(IT)APP
+INTITULÉ :
+M.R.E. DEVELOPMENTS ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 7 juin 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 19 juillet 2019
+COMPARUTIONS :
+Représentant de la requérante :
+Michael Brooks
+Avocat de l’intimée :
+Me Damon Park
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Avocate de l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

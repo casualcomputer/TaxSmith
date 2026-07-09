@@ -1,0 +1,421 @@
+Title: Amiripour c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110871/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-187-110871-amiripour-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-07-22
+
+# Amiripour c. La Reine
+
+- Citation: 2015 CCI 187
+- Decision date: 2015-07-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2625, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Amiripour c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-07-22
+Référence neutre
+2015 CCI 187
+Numéro de dossier
+2013-4827(GST)I, 2013-4828(IT)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-4827(GST)I
+ENTRE :
+MORTEZA AMIRIPOUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Morteza Amiripour, 2013-4828(IT)I le 16 avril 2015, à Toronto (Ontario).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Leonard Elias
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 31 août 2009, pour les périodes allant du 6 octobre 2003 au 31 décembre 2004, est rejeté.
+Signé à Ottawa, Canada, ce 22e jour de juillet 2015.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+ce 1er jour de septembre 2015.
+M.-C. Gervais
+Dossier : 2013-4828(IT)I
+ENTRE :
+MORTEZA AMIRIPOUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Morteza Amiripour, 2013-4827(GST)I le 16 avril 2015, à Toronto (Ontario).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Leonard Elias
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 est accueilli, étant entendu que l’appelant est fondé à déduire sa part des dépenses suivantes supportées par la société :
+Achats
+Société
+Part de l’appelant
+Année d’imposition 2003
+4 435 $
+2 217,50 $
+Automobile
+Année d’imposition 2003
+2 232 $
+1 116 $
+Année d’imposition 2004
+3 572 $
+1 786 $
+Téléphone/frais de bureau
+Année d’imposition 2003
+280 $
+140 $
+Année d’imposition 2004
+560 $
+280 $
+L’appelant n’a droit à aucun autre redressement.
+Signé à Ottawa, Canada, ce 22e jour de juillet 2015.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+ce 1er jour de septembre 2015.
+M.-C. Gervais
+Référence : 2015 CCI 187
+Date : 20150722
+Dossier : 2013-4827(GST)I
+Dossier : 2013-4828(IT)I
+ENTRE :
+MORTEZA AMIRIPOUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge D’Auray
+[1] Les appels interjetés par M. Amiripour en vertu de la Loi de l’impôt sur le revenu (la « LIR ») et des dispositions relatives à la taxe sur les produits et services (la « TPS ») ont été instruits sur preuve commune.
+[2] La question soulevée dans l’appel interjeté en vertu de la LIR est de savoir si le ministre du Revenu national (le « ministre ») a correctement calculé le revenu de l’appelant.
+[3] La question soulevée dans l’appel relatif à la taxe sur les produits et services[1] (la « TPS ») est de savoir si le ministre a correctement établi la taxe nette de l’appelant pour la période allant du 6 octobre 2003 au 31 décembre 2004.
+[4] Selon le ministre, les appels devraient être rejetés parce que l’appelant n’a pas réfuté ses présomptions de fait.
+La LIR [5] J’examinerai d’abord l’appel interjeté en vertu de la LIR.
+[6] Les présomptions de fait sur lesquelles le ministre s’est fondé pour établir les nouvelles cotisations de l’appelant sont exposées au paragraphe 11 de la réponse de l’intimée à l’avis d’appel :
+[traduction]
+11. Pour établir la dette fiscale de l’appelant pour les années d’imposition 2003 et 2004, le ministre s’est fondé sur les présomptions de fait suivantes :
+a) au cours de l’année 2003, l’appelant exploitait une entreprise en tant que propriétaire unique;
+b) l’appelant a tiré un revenu d’entreprise d’au moins 2 610 $ de l’entreprise à propriétaire unique pour l’année d’imposition 2003;
+c) au cours des années 2003 et 2004, l’appelant exploitait avec une autre personne une entreprise leur appartenant en parts égales (la « société de personnes »);
+d) les activités commerciales de la société de personnes consistaient en l’installation de toitures et en de petits travaux manuels;
+e) la société de personnes n’a gagné pas moins de 59 660 $ et de 179 557 $ au cours des années d’imposition 2003 et 2004 respectivement;
+f) la société de personnes a supporté des dépenses ne dépassant pas 22 190 $ et 67 002 $ au cours des années d’imposition 2003 et 2004 respectivement;
+g) Alpine Roofing était le client principal de la société de personnes;
+h) la société de personnes n’a reçu pas moins de 54 296 $ et de 186 434 $ d’Alpine Roofing, y compris les taxes sur les produits et services, au cours des années d’imposition 2003 et 2004 respectivement;
+i) la société de personnes n’a pas supporté de dépenses pour les sommes déduites comme achats; Alpine Roofing lui fournissait tout le matériel requis pour l’exécution des travaux;
+j) les dépenses de la société de personnes pour les sommes dues aux sous‑traitants n’ont pas dépassé 12 850 $ et 54 282 $ au cours des années d’imposition 2003 et 2004 respectivement;
+k) les sommes déduites par la société de personnes comme frais de location se rapportaient à la résidence personnelle de l’appelant et constituaient des dépenses personnelles, non des sommes engagées en vue de gagner un revenu;
+l) les sommes déduites par la société de personnes comme frais de publicité et de promotion se rapportaient à des repas et constituaient des dépenses personnelles, non des sommes engagées en vue de gagner un revenu;
+m) la société de personnes n’a pas supporté de frais afférents à un véhicule à moteur dépassant 521 $ et 2 500 $ au cours des années d’imposition 2003 et 2004 respectivement;
+n) les sommes déduites par la société de personnes comme frais de bureau concernaient des dépenses personnelles ne se rapportant pas aux années d’imposition 2003 et 2004 et ne constituaient pas des dépenses engagées en vue de gagner un revenu au cours des années d’imposition 2003 et 2004;
+o) la société de personnes n’a produit aucun document attestant que la somme déduite comme frais de téléphone constituait une dépense engagée en vue de gagner un revenu, et cette somme représente une dépense personnelle de l’appelant;
+p) les frais de comptabilité de la société de personnes n’ont pas dépassé 3 927 $ au cours de l’année d’imposition 2004;
+q) la déduction pour amortissement (« DPA ») inscrite par la société de personnes se rapportait à un véhicule qui n’a été acheté qu’en 2004 et pour lequel l’appelant n’a pas appliqué la règle de la demi-année;
+r) la société de personnes réalisait une marge bénéficiaire de 40 % sur ses contrats se rapportant aux petits travaux manuels;
+s) en 2003 et en 2004, respectivement, la société de personnes a reçu en liquide, pour ses petits travaux manuels, au moins 9 541 $ et 5 692 $, y compris les taxes sur les produits et services;
+t) en 2003 et en 2004, respectivement, la société de personnes a supporté, pour ses petits travaux manuels, des dépenses ne dépassant pas 5 350 $ et 3 192 $.
+[7] À ma demande, l’intimée a produit à l’instruction des annexes montrant ce que l’appelant avait déclaré comme revenu et déduit comme dépenses, et précisant ce que le ministre avait ajouté au revenu de l’appelant et autorisé comme dépenses aux fins de l’impôt sur le revenu pour les années d’imposition visées par l’appel :
+[traduction]
+2003
+Revenu de la société de personnes et revenu tiré des petits travaux manuels de l’appelant en tant que propriétaire unique
+Revenu tiré de la société de personnes déclaré par l’appelant
+Revenu tiré de la société de personnes établi par le ministre
+Somme litigieuse
+Alpine 54 296 $
+Petits travaux manuels 9 541 $
+Revenu (avec TPS) 63 837 $
+(moins TPS) 4 177 $
+Revenu total tiré de
+la société de personnes 10 078 $
+Revenu total 59 660 $
+49 582 $
+Dépenses
+Déduites par l’appelant
+Autorisées par le ministre
+Sommes litigieuses
+Sous-traitants 12 850 $
+12 850 $
+0 $
+Achats 19 458 $
+591 $
+18 867 $
+Loyer 4 860 $
+0 $
+4 860 $
+Mise au rebut 1 252 $
+1 252 $
+0 $
+Petits outils 2 133 $
+2 133 $
+0 $
+Publicité 332 $
+0 $
+332 $
+Automobile 2 232 $
+521 $
+1 711 $
+Frais bancaires 84 $
+84 $
+0 $
+Téléphone 490 $
+0 $
+490 $
+DPA 2 069 $
+0 $
+2 069 $
+Dépenses liées aux petits travaux manuels 0 $
+5 350 $
+0 $
+Dépenses totales 45 760 $
+$22 781 $
+28 329 $
+Sommaire 2003
+Sommes déclarées par l’appelant
+Sommes autorisées par le ministre
+Sommes litigieuses
+Revenu tiré de la société de personnes 10 078 $
+Revenu 59 660 $
+49 582 $
+Dépenses 45 760 $
+Dépenses 22 781 $
+22 979 $
+Perte nette (35 682 $)
+Revenu 36 879 $
+72 561 $
+Part de l’appelant (17 841 $)
+Part de l’appelant 18 439 $
+36 280 $
+Revenu de l’entreprise
+à propriétaire unique 2 610 $
+2 610 $
+(17 841 $)
+21 049 $
+38 890 $
+2004
+Revenu de la société de personnes et revenu tiré des petits travaux manuels de l’appelant en tant que propriétaire unique
+Revenu déclaré par l’appelant
+Revenu établi par le ministre
+Somme litigieuse
+Alpine 186 734 $
+Activités de bricolage 5 692 $
+Revenu (avec TPS) 192 126 $
+(moins TPS) 12 569 $
+Revenu de la société de personnes 24 000 $
+Revenu total 179 557 $
+155 5557 $
+Dépenses
+Déduites par l’appelant
+Autorisées par le ministre
+Sommes litigieuses
+Sous-traitants 57 492 $
+54 282 $
+321 $
+Achats 23 135 $
+8 871 $
+14 264 $
+Publicité et promotion 3 893 $
+0 $
+3 893 $
+Automobile 3 572 $
+2 500 $
+1 072 $
+Frais bancaires 388 $
+388 $
+0 $
+Bureau 1 378 $
+0 $
+1 378 $
+Comptabilité 3 935 $
+3 927 $
+8 $
+DPA 1 447 $
+1 033 $
+414 $
+Main-d’œuvre annuelle 1 680 $
+1 680 $
+0 $
+Dépenses liées aux petits
+travaux manuels 0 $
+3 192 $
+0 $
+96 920 $
+75 873 $
+21 350 $
+Perte (72 920 $)
+Revenu 103 684 $
+176 907 $
+Part de l’appelant (36 460 $)
+Revenu 51 842 $
+88 453,50 $
+Le revenu ajouté de la société de personnes [8] En contre-interrogatoire, l’intimée a établi que la société de personnes avait gagné, au titre des travaux exécutés pour son client principal, Alpine Roofing, un revenu se chiffrant à 54 296 $ (TPS comprise) pour l’année d’imposition 2003, et à 186 434 $ (TPS comprise) pour l’année d’imposition 2004.
+[9] Prié d’expliquer pourquoi la société de personnes avait déclaré la somme de 10 078 $ au lieu de 59 660 $ en 2003, et la somme de 24 000 $ au lieu de 179 557 $ en 2004, comme revenus tirés d’Alpine Roofing et de petits travaux manuels, l’appelant est demeuré vague. Il a expliqué que son comptable était nouveau dans sa profession et qu’il n’avait pas une expérience suffisante de l’établissement des déclarations de revenus.
+[10] J’ai un peu de mal à admettre cette explication. L’écart entre les sommes gagnées et les sommes déclarées est important. L’appelant devait savoir qu’il ne déclarait pas l’intégralité de son revenu généré par Alpine Roofing. À l’instruction, il a volontiers reconnu, après qu’on lui eut présenté la preuve, que son revenu brut généré par Alpine Roofing devrait être augmenté pour les deux années d’imposition.
+[11] Cependant, l’appelant a refusé d’admettre que les sommes de 9 541 $ pour 2003 et de 5 692 $ pour 2004 devraient figurer dans le revenu de la société de personnes pour les petits travaux manuels que la société de personnes avait exécutés.
+[12] En ce qui concerne ces sommes, l’intimée a versé dans la preuve plusieurs annexes montrant tous les dépôts effectués dans le compte bancaire de la société de personnes. Les dépôts étaient tous rattachés à un revenu tiré de la société de personnes. L’appelant n’a pas expliqué pourquoi ces sommes ne devraient pas figurer dans le revenu de la société de personnes. C’est à lui qu’il incombait de montrer que ces sommes n’auraient pas dû figurer dans le revenu de la société de personnes et, puisqu’il ne l’a pas fait, la part de ces sommes attribuable à l’appelant, à savoir 4 770,50 $ pour 2003 et 2 846 $ pour 2004, a été dûment incluse dans le revenu de l’appelant.
+[13] Le ministre a donc correctement établi que le revenu brut de la société de personnes était de 59 660 $ (part de l’appelant : 29 830 $) pour l’année d’imposition 2003, et de 179 557 $ (part de l’appelant : 89 778,50 $) pour l’année d’imposition 2004.
+Les dépenses refusées [14] À l’instruction, l’intimée a concédé que la société de personnes était fondée à déduire, en tant que dépenses figurant sous la rubrique « Achats », la somme de 591 $ pour l’année 2003 et la somme de 8 871 $ pour l’année 2004.
+[15] L’appelant n’avait ni documents ni factures témoignant des dépenses engagées par la société de personnes. Il a affirmé que tous les documents avaient été détruits dans un incendie en 2008. Il a ajouté que, avant l’incendie, il avait remis certains documents à l’Agence du revenu du Canada (l’« ARC »). Il a aussi déclaré que son associé ainsi que le nouveau comptable de la société de personnes avaient également remis à l’ARC des documents justifiant les dépenses de la société de personnes. Cela était confirmé dans une lettre du 30 octobre 2003 de Mme Rosebush, employée de l’ARC, dans laquelle elle reconnaissait que l’appelant avait fourni certains documents pour prouver les dépenses engagées par la société de personnes. Cependant, Mme Rosebush relevait que de nombreux documents étaient manquants. Dans sa lettre, elle écrivait qu’elle avait fondé ses redressements sur les documents et renseignements additionnels communiqués par l’appelant, et sur des conclusions raisonnables quand les documents fournis étaient déficients.
+[16] Il n’est pas obligatoire que des pièces justificatives ou des reçus soient fournis pour toutes les dépenses dont la déduction est demandée, à condition que les dépenses soient établies au moyen d’autres éléments de preuve crédibles. Ainsi que l’écrivait le juge Bowman dans la décision Chrabalowski c Canada[2] :
+[10] Comme la présente cour l’a dit à plusieurs reprises, il n’est pas nécessaire que des pièces justificatives ou des reçus soient fournis pour toutes les dépenses déclarées à titre de déductions, à condition que les dépenses soient établies au moyen d’autres éléments de preuve crédibles. Toutefois, je ne crois pas que l’appelant ait même satisfait au critère préliminaire fort peu rigoureux selon lequel il doit prouver sa cause d’une façon que je considère appropriée. Il vaut la peine de répéter ce qui a été dit dans la décision Merchant v. The Queen, 98 DTC 1734 :
+[7] Lorsqu’il faut établir un grand nombre de documents, comme des factures, on gaspille le temps de la Cour en les présentant en preuve l’un après l’autre. L’approche préconisée dans Wigmore on Evidence (3e éd.), vol. IV, s. 1230, s’impose :
+s. 1230(11) : [...] Lorsqu’il serait uniquement possible d’établir un fait en examinant un grand nombre de documents composés de nombreux états détaillés - comme le solde net résultant des pièces que le trésorier a accumulées au cours de l’année ou les comptes d’un grand livre de banque pour l’année - il est évident qu’il ne serait bien souvent pas question d’appliquer le principe dont il est ici question en exigeant la production d’une masse de documents et d’inscriptions que le jury doit examiner ou qu’il faut lire au jury. Pour plus de commodité, les audiences exigent qu’on permette la présentation d’autres éléments de preuve, sous la forme du témoignage d’une personne compétente qui a examiné la masse de documents et qui expliquera sommairement le résultat net. La légitimité de cette pratique est établie.
+[8] Le juge d’appel Wakeling, dans l’arrêt Sunnyside Nursing Home v. Builders Contract Management Ltd. et al., (1990) 75 S.R. 1, à la page 24, (C.A. Sask.), et le juge MacPherson, dans le jugement R. v. Fichter, Kaufmann et al., 37 S.R. 128 (B.R. Sask.), à la page 129, ont cité ce passage en l’approuvant. Je souscris respectueusement à leur avis.
+Il aurait été approprié dans ce cas-ci d’employer sous une certaine forme la méthode approuvée par Wigmore.
+[17] Selon l’appelant, toutes les dépenses déduites par la société de personnes devraient être admises.
+[18] Suivant la décision Chrabalowski c Canada, je n’analyserai que les dépenses sur lesquelles s’est exprimé l’appelant et pour lesquelles des éléments crédibles ont été présentés.
+Les achats [19] Compte tenu de la concession faite par l’intimée pendant l’instruction, la société de personnes était fondée à déduire 591 $ en 2003 et 8 871 $ en 2004. La société de personnes avait déduit, au titre d’achats, la somme de 19 458 $ en 2003 et la somme de 23 135 $ en 2004.
+[20] L’intimée a affirmé que la plupart des dépenses supportées par la société de personnes pour l’exécution de ses travaux étaient assumées par Alpine Roofing. Cela dit, l’intimée a autorisé une déduction de 8 871 $ en 2004.
+[21] L’appelant a témoigné qu’Alpine Roofing n’assumait pas toutes les dépenses. Selon lui, la société de personnes payait 45 $ par jour pour les clous, ce qui équivaudrait à environ 9 000 $ par an[3].
+[22] La somme de 8 871 $ concédée par l’intimée pour 2004 est proche du chiffre de 9 000 $ avancé par l’appelant pour l’achat de clous en 2004. Je ne modifierai donc pas ces dépenses pour 2004, puisque la somme admise par l’ARC est raisonnable.
+[23] Appliquant le même raisonnement à l’année d’imposition 2003, l’ARC aurait dû autoriser une somme de 4 435,50 $[4] pour l’achat de clous, compte tenu du fait que les activités de la société de personnes ont commencé en septembre 2003.
+Les frais afférents à un véhicule à moteur [24] La société de personnes a déduit des frais afférents à un véhicule à moteur se chiffrant à 2 232 $ pour quatre mois en 2003, et à 3 572 $ pour environ huit mois en 2004. L’ARC a autorisé, à titre de frais afférents à un véhicule à moteur, la somme de 521 $ en 2003 et la somme de 2 500 $ en 2004.
+[25] L’appelant a affirmé que la société de personnes était propriétaire en 2003 d’un camion de transport de 1997 et qu’elle avait acheté un nouveau camion de transport en 2004. Le bon sens permet de croire que les frais afférents à un véhicule à moteur n’ont pas été surestimés par la société de personnes, compte tenu des frais de carburant, de réparation et d’entretien afférents aux véhicules pour les deux années d’imposition 2003 et 2004. Les frais afférents à un véhicule à moteur déduits par l’appelant sont donc admis.
+Les frais de téléphone [26] La société de personnes a déduit la somme de 490 $ sur quatre mois en 2003 pour un téléphone. L’intimée a relevé que, en 2004, la société de personnes n’avait rien déduit pour le téléphone. Cependant, en 2004, il y avait une nouvelle rubrique [traduction] « frais de bureau », et cette rubrique ne figurait pas dans l’état des dépenses de 2003. Il est raisonnable de penser que les frais de téléphone de 2004 ont été déduits sous la rubrique des frais de bureau. Quoi qu’il en soit, l’appelant a affirmé dans son témoignage que la société de personnes disposait d’un téléphone et avait conclu un contrat avec Fido. Là encore, le simple bon sens donne à penser qu’un téléphone était nécessaire pour exploiter la société de personnes en 2003 et en 2004. La société de personnes demande une déduction moyenne de 122,50 $ par mois pour le téléphone. J’autoriserai la somme de 280 $ au titre des frais de téléphone en 2003 (70 $ par mois pour quatre mois) et la somme de 560 $ en 2004 (70 $ par mois pendant huit mois).
+Les autres dépenses [27] Quant aux autres dépenses déduites par la société de personnes qui ont été tantôt acceptées, tantôt refusées, par l’ARC, l’appelant n’a pas donné d’explications convaincantes susceptibles de les étayer.
+L’appel se rapportant à la TPS [28] Les présomptions de fait sur lesquelles le ministre s’est fondé en ce qui concerne l’appel se rapportant à la TPS sont exposées au paragraphe 8 de la réponse à l’avis d’appel. Elles sont formulées ainsi :
+[traduction]
+8. Pour établir la taxe nette devant être payée par l’appelant, le ministre s’est fondé notamment sur les présomptions suivantes :
+a) les faits énoncés et admis ci-dessus;
+b) au cours de la période allant du 6 octobre 2003 au 31 décembre 2004, l’appelant exploitait avec une autre personne une entreprise leur appartenant en parts égales (la « société de personnes »);
+c) les activités commerciales de la société de personnes consistaient en l’installation de toitures et en de petits travaux manuels;
+d) la société de personnes est inscrite aux fins de la TPS et son numéro d’inscription est le 87485 2908 RT0001;
+e) la société de personnes devait selon la Loi produire annuellement ses déclarations de TPS;
+f) la société de personnes devait facturer et percevoir la TPS sur la valeur de la contrepartie reçue de ses clients pour la fourniture de services d’installation de toitures et l’exécution de petits travaux manuels, au taux de 7 %, du 6 octobre 2003 au 31 décembre 2004;
+g) du 6 octobre 2003 au 31 décembre 2004, la société de personnes devait facturer et percevoir une TPS d’au moins 16 745,75 $ auprès de ses clients;
+h) ni l’appelant ni la société de personnes n’ont tenu des registres adéquats pour l’entreprise;
+i) ni la société de personnes ni l’appelant ne disposaient de documents propres à étayer les crédits de taxe sur les intrants (les « CTI ») réclamés pour les périodes visées par l’appel;
+j) Alpine Roofing était le client principal de la société de personnes;
+k) Alpine Roofing fournissait à la société de personnes tout le matériel requis pour l’exécution des travaux;
+l) la société de personnes a réclamé des CTI pour la TPS censément payée sur des dépenses qui n’ont pas été supportées par elle au cours des périodes visées par l’appel ou qui, si elles ont été supportées, ne l’ont pas été dans le contexte de ses activités commerciales;
+m) ni la société de personnes ni l’appelant n’ont droit à des CTI dépassant les sommes déjà autorisées par le ministre, à savoir 824,23 $ pour la période de déclaration achevée le 31 décembre 2004, et 182,11 $ pour la période de déclaration achevée le 31 décembre 2003;
+n) la société de personnes devait verser une taxe nette d’au moins 11 745,20 $ pour la période achevée le 31 décembre 2004, et une taxe nette d’au moins 3 994,21 $ pour la période achevée le 31 décembre 2003.
+La TPS facturée et perçue [29] L’intimée a fait valoir que la société de personnes devait facturer et percevoir la TPS, au taux de 7 %, sur la valeur de la contrepartie reçue de ses clients pour la fourniture de services d’installation de toitures et pour l’exécution de petits travaux manuels. Je partage l’avis de l’intimée. La société de personnes était inscrite aux fins de la TPS et elle devait facturer la TPS sur les fournitures qu’elle effectuait à Alpine Roofing, ainsi que sur ses petits travaux manuels. La société de personnes a effectué en 2003 et en 2004 des fournitures se chiffrant à 239 217 $, et elle devait donc facturer et percevoir une TPS se chiffrant à 16 745,19 $[5].
+Les crédits de taxe sur les intrants [30] L’alinéa 169(4)a) de la Loi sur la taxe d’accise (la « LTA ») est ainsi rédigé :
+L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+[…]
+[31] Selon le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) (le « Règlement »), les renseignements visés par règlement sont les suivants :
+RENSEIGNEMENTS
+3. Les renseignements visés à l’alinéa 169(4)a) de la Loi, sont les suivants :
+a) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de moins de 30 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire,
+(ii) si une facture a été remise pour la ou les fournitures, la date de cette facture,
+(iii) si aucune facture n’a été remise pour la ou les fournitures, la date à laquelle il y a un montant de taxe payée ou payable sur celles-ci,
+(iv) le montant total payé ou payable pour la ou les fournitures;
+b) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 30 $ ou plus et de moins de 150 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire et le numéro d’inscription attribué, conformément à l’article 241 de la Loi, au fournisseur ou à l’intermédiaire, selon le cas,
+(ii) les renseignements visés aux sous-alinéas a)(ii) à (iv),
+(iii) dans le cas où la taxe payée ou payable n’est pas comprise dans le montant payé ou payable pour la ou les fournitures :
+(A) ou bien, la taxe payée ou payable pour toutes les fournitures ou pour chacune d’elles,
+(B) ou bien, si une taxe de vente provinciale est payable pour chaque fourniture taxable qui n’est pas une fourniture détaxée, mais ne l’est pas pour une fourniture exonérée ou une fourniture détaxée :
+(I) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour chaque fourniture taxable, ainsi qu’une déclaration portant que le total pour chaque fourniture taxable comprend la taxe payée ou payable selon cette section,
+(II) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour toutes les fournitures taxables, ainsi qu’une déclaration portant que ce total comprend la taxe payée ou payable selon cette section,
+(iv) dans le cas où la taxe payée ou payable est comprise dans le montant payé ou payable pour la ou les fournitures et que l’une ou plusieurs de celles-ci sont des fournitures taxables qui ne sont pas des fournitures détaxées :
+(A) une déclaration portant que la taxe est comprise dans le montant payé ou payable pour chaque fourniture taxable,
+(B) le total (appelé « taux de taxe total » au présent alinéa) des taux auxquels la taxe a été payée ou était payable relativement à chacune des fournitures taxables qui n’est pas une fourniture détaxée,
+(C) le montant payé ou payable pour chacune de ces fournitures ou le montant total payé ou payable pour l’ensemble de ces fournitures auxquelles s’applique le même taux de taxe total,
+(v) dans le cas où deux fournitures ou plus appartiennent à différentes catégories, une mention de la catégorie de chaque fourniture taxable qui n’est pas une fourniture détaxée;
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l’acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[32] En ce qui concerne les crédits de taxe sur les intrants (les « CTI »), l’intimée a affirmé que l’ARC avait autorisé, comme CTI, la somme de 824,23 $ pour 2003 et la somme de 182,11 $ pour 2004, compte tenu des pièces justificatives produites par la société de personnes.
+[33] L’intimée a aussi affirmé qu’il n’était pas évident que la TPS avait été versée au receveur général par la société de personnes, puisque certaines des dépenses avaient été payées en liquide. Ce point a été confirmé par l’appelant dans son témoignage, au cours duquel il a déclaré que la société de personnes n’avait pas délivré de factures aux sous‑traitants puisqu’ils étaient payés en liquide. Il a aussi déclaré que son associé et lui avaient remis à l’ARC les factures qu’ils détenaient.
+[34] L’intimée a fait valoir que, vu les exigences du paragraphe 169(4) de la LTA et du Règlement, je n’ai pas le loisir d’accorder des CTI à moins que l’inscrit ne produise les pièces justificatives prévues par le Règlement.
+[35] L’intimée s’est fondée sur un arrêt de la Cour d’appel fédérale, Systematix Technology Consultants Inc c Canada[6], où le juge Sexton souscrivait aux observations formulées par le juge Bowie dans la décision Key Property Management Corp c R, selon lesquelles les renseignements requis suivant le paragraphe 169(4) de la LTA et l’article 3 du Règlement sont obligatoires. Le juge Sexton s’exprimait ainsi :
+4 Nous sommes d’avis que la Loi exige que les personnes ayant versé des sommes au titre de la TPS à des fournisseurs veillent à fournir des numéros d’inscription des fournisseurs valides lorsqu’elles demandent un crédit de taxe sur les intrants.
+5 Nous sommes d’accord avec le juge Bowie lorsqu’il affirme ce qui suit dans l’affaire Key Property Management Corp. c. R., [2004] G.S.T.C. 32 (CCI) :
+Le but même de l’alinéa 169(4)a) et du Règlement est de protéger le Trésor contre les violations tant frauduleuses qu’innocentes. Ce but ne peut être atteint que si les exigences sont considérées comme étant obligatoires et sont rigoureusement appliquées. Le fait de les envisager simplement comme une indication ne serait pas seulement malencontreux, mais serait une grave violation de l’intégrité du texte législatif. [Non souligné dans l’original.]
+6 Nous sommes également d’accord avec la juge Campbell lorsqu’elle affirme ce qui suit dans l’affaire Davis c. R., [2004] G.S.T.C. 134 (CCI) :
+Je ne pense pas qu’il est possible de contourner ces dispositions, étant donné que leur libellé est très précis. Elles sont manifestement obligatoires, et l’appelant n’a tout simplement pas respecté les exigences techniques que la Loi et le Règlement lui imposent à titre de participant à un régime d’autocotisation. [Non souligné dans l’original.]
+[36] L’appelant a aussi prétendu que tous les documents justificatifs avaient été détruits dans un incendie en 2008. Toutefois, il n’en a pas apporté la preuve, en produisant par exemple une déclaration de sinistre ou un rapport de police attestant la réalité de l’incendie.
+[37] Je conviens donc avec l’intimée que je n’ai pas le loisir d’accorder des CTI en sus de ceux consentis par le ministre, compte tenu des documents produits par la société de personnes. L’appelant n’a présenté aucune pièce justificative établissant les CTI que la société de personnes réclamait. La jurisprudence est claire : les dispositions applicables (alinéa 169(4)a) de la LTA et article 3 du Règlement) sont obligatoires.
+L’issue de l’appel interjeté en vertu de la LIR [38] L’appel est accueilli pour les années d’imposition 2003 et 2004.
+[39] L’appelant est fondé à déduire sa part des dépenses suivantes supportées par la société de personnes :
+Achats
+Société de personnes
+Part de l’appelant
+Année d’imposition 2003
+4 435 $
+2 217,50 $
+Automobile
+Année d’imposition 2003
+2 232 $
+1 116 $
+Année d’imposition 2004
+3 572 $
+1 786 $
+Téléphone/frais de bureau
+Année d’imposition 2003
+280 $
+140 $
+Année d’imposition 2004
+560 $
+280 $
+[40] L’appelant n’a droit à aucun autre redressement.
+Issue de l’appel relatif à la TPS [41] L’appel relatif à la TPS est rejeté.
+Signé à Ottawa, Canada, ce 22e jour de juillet 2015.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+ce 1er jour de septembre 2015.
+M.-C. Gervais
+RÉFÉRENCE :
+2015 CCI 187
+Nos DES DOSSIERS DE LA COUR :
+2013-4827(GST)I
+2013-4828(IT)I
+INTITULÉ :
+MORTEZA AMIRIPOUR c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 16 avril 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 22 juillet 2015
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Leonard Elias
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] La TPS relève de la partie IX de la Loi sur la taxe d’accise.
+[2] 2004 CCI 644, paragraphe 10.
+[3] L’appelant a témoigné que son associé et lui travaillaient environ huit mois par an.
+[4] 8 871 $ ÷ 8 mois de travail = 1 108,88 $ X 4 mois = 4 435,50 $.
+[5] 239 217 $ x 7 % = 16 745,19 $
+[6] 2007 CAF 226, paragraphes 4 à 6.

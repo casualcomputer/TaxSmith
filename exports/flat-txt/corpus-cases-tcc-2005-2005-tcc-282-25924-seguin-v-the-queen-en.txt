@@ -1,0 +1,118 @@
+Title: Seguin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25924/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-282-25924-seguin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-04-21
+
+# Seguin v. The Queen
+
+- Citation: 2005 TCC 282
+- Decision date: 2005-04-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3657, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Seguin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-21
+Neutral citation
+2005 TCC 282
+File numbers
+2004-4319(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4319(IT)I
+BETWEEN:
+DANIEL SEGUIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on March 21, 2005 at Sudbury, Ontario
+Before: The Honourable Justice G. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sandra Phillips
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2002 and 2003 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of April, 2005.
+"G. Sheridan"
+Sheridan, J.
+Citation:2005TCC282
+Date: 20050421
+Docket: 2004-4319(IT)I
+BETWEEN:
+DANIEL SEGUIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Daniel Seguin, is appealing reassessments of his 2002 and 2003 taxation years made by the Minister of National Revenue disallowing Mr. Seguin's claim for employment expenses in respect of travel and accommodation costs. Mr. Seguin and his bookkeeper, Muriel Maguire, testified at the hearing and both were straight-forward in the presentation of their evidence and entirely credible.
+[2] Mr. Seguin is employed as an electrical apprentice by Hydro One Networks Inc. This position requires him to travel to various worksites and to spend time away from home. Pursuant to the collective agreement with his employer, Mr. Seguin was entitled to and received allowances for room and board for the five working days of the week, as well as an allowance for travel expenses for one round trip between his home and the worksite. He was also entitled to include as part of his working day, the time required to make his initial trip to the worksite and the final trip home. None of this is in issue. The disputed claims are in respect of expenses incurred by Mr. Seguin for weekend accommodation and additional trips between worksites and Mr. Seguin's residence. Mr. Seguin was typically required to be away from home for more than a week at a time: on such occasions, if he chose to remain at the worksite, he was responsible for paying his own accommodation and living expenses; if, on the other hand, he decided to return home for the weekend, he had to pay his own travel costs. In such circumstances, he was not entitled to travel "on company time"; thus, for example, rather than driving Monday morning to the worksite as he was permitted to do on the initial trip to that location, Mr. Seguin would have to travel on Sunday, his day off, to be available to continue his work on site the following Monday morning.
+[3] The issue is whether such expenditures are allowable deductions under paragraphs 8(1)(h) and (h.1) of the Income Tax Act; if so, then Mr. Seguin is also entitled to capital cost allowance deductions[1].
+8.(1) Deductions allowed.
+(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+...
+(h) Travel expenses - where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay the travel expenses incurred by the taxpayer in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year (other than motor vehicle expenses) for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for travel expenses that was, because of subparagraph 6(1)(b)(v), (vi) or (vii), not included in computing the taxpayer's income for the year, or
+(vi) claims a deduction for the year under paragraph (e), (f) or (g).
+(h.1) Motor vehicle travel expenses - where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer's income for the year, or
+(iv) claims a deduction for the year under paragraph (f).
+[4] These provisions have been carefully considered on more than one occasion by the Federal Court of Appeal. In Daniels v. Canada(Attorney-General)[2] , Desjardins, J.A. stated at page 379:
+[7] It is well established that travel expenses incurred by a taxpayer in travelling to and from his home to his place of work are considered personal expenses. They are not travelling costs encountered in the course of the taxpayer's duties. Rather, they enable him to perform them.
+[5] The key phrase in the legislation regarding the deductibility of such expenses is that they must have been incurred "in the course of the office or employment"; if not, they are by definition, personal. In Hogg v. Canada[3], referred to in the Daniels decision, Nadon, J.A. explained the meaning of this phrase:
+[13] Thus, in my view, a plain reading of both the French and English texts of paragraph 8(1)(h.1) of the Act makes it clear that the words "motor vehicle expenses incurred for travelling in the course of the office ..." necessarily require that these expenses be incurred by the taxpayer while performing the duties of his office.
+[6] In Mr. Seguin's case, the accommodation and travel costs he incurred were for weekend stays at the worksite or to go home to spend his time off there. Expressed in terms of Hogg, it cannot reasonably be said that Mr. Seguin was performing the duties of his employment when he incurred such costs. While the possibility existed that he might have to be on call, Mr. Seguin was clear in his evidence that at all times relevant to these appeals, he was off duty - either enjoying the weekend at home, or away from home but not working at the worksite location. Accordingly, the Minister was correct in disallowing the deductions claimed and these appeals must be dismissed. In view of this decision, it is not necessary to consider the additional materials filed by Mr. Seguin in respect of a possible claim for capital cost allowance.
+Signed at Ottawa, Canada, this 21st day of April, 2005.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2005TCC282
+COURT FILE NO.:
+2004-4319(IT)I
+STYLE OF CAUSE:
+Daniel Seguin v. H.M.Q.
+PLACE OF HEARING:
+Sudbury, Ontario
+DATE OF HEARING:
+March 21, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+April 21, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sandra Phillips
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This matter was not raised until the end of the hearing; upon the consent of Crown counsel, Mr. Seguin promptly provided to the Respondent and filed with the Court documentation in support of his claim for capital cost allowance deductions.
+[2] [2004] 2 C.T.C. 377
+[3] [2002] 3 C.T.C. 177

@@ -1,0 +1,148 @@
+Title: Myers v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/126397/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-275-126397-myers-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-11-04
+
+# Myers v. The Queen
+
+- Citation: 2015 TCC 275
+- Decision date: 2015-11-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2690, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Myers v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-11-04
+Neutral citation
+2015 TCC 275
+File numbers
+2014-243(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-243(IT)G
+BETWEEN:
+DEBORAH MYERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 26, 2015, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+David M. Piccolo
+Alexander Yu
+Counsel for the Respondent:
+Erin Strashin
+JUDGMENT
+The appeal of the Assessment no. 1417166 dated September 1, 2011 pursuant to section 160 of the Income Tax Act in respect to the transfer of property to the Appellant is dismissed.
+Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 4th day of November 2015.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2015TCC275
+Date: 20151104
+Docket: 2014-243(IT)G
+BETWEEN:
+DEBORAH MYERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] This appeal is from an assessment dated September 1, 2011 made under subsection 160(1) of the Income Tax Act (the “Act”). The Appellant was assessed the amount of $70,000 with respect to the transfer of the matrimonial home (the “Property”) from her spouse to her on January 13, 2004 while he was a tax debtor.
+[2] The only issue in this appeal is whether there was a transfer of property from Richard Myers, the Appellant’s spouse, to the Appellant. It is the Appellant’s position that when the Property was first purchased on July 14, 2003, she was supposed to be the only person on title. Her lawyer incorrectly registered the Property in her and her spouse’s names as joint tenants.
+[3] The witnesses at the hearing were the Appellant and Richard Myers.
+Facts A. The Witnesses [4] In 2002, the Appellant was a manager with an organization called The Clinic for Optimal Health and Rejuvenation (the “Clinic”). She stated that her spouse was a consultant with the Clinic in 2002 and he was asked to sit on its Board of Directors.
+[5] Mr. Myers stated that he has been a consultant since 1976 and he gives advice with respect to financial matters. He agreed that he was a “financial trouble-shooter”. However, he stated that he has no educational training beyond secondary school.
+[6] It was Mr. Myers’ evidence that he has only one consulting job at a time and when he is hired as a consultant by an organization, he works with it as if he were an employee.
+B. The Property [7] The Property was located at 36 Chadwick Crescent in Richmond Hill, Ontario. Both witnesses stated that they moved into the Property prior to purchasing it. They had an Agreement of Purchase and Sale with Joseph and Chooi-May Nardi, the previous owners of the Property (the “Nardis”) which allowed the Appellant and her spouse to live in the Property and make monthly payments which included $5,000 towards the down payment for the Property. According to the witnesses, it was agreed that when they had paid a down payment of $65,000, the Nardis would sell them the Property.
+[8] Mr. William Samis, a lawyer, represented the Appellant and her spouse in the transfer of the Property. He registered the transfer from the Nardis to the Appellant and her spouse on July 14, 2003. The registration with the Land Registry Office showed that the consideration for the Property was $565,000 and that the Appellant and her spouse held title to the Property as joint tenants. The Appellant and her spouse financed the purchase of the Property by a first mortgage of $395,000 from Home Trust Company and a second mortgage of $105,000 from the Nardis.
+[9] The Appellant testified that she and her spouse lost their positions in January 2003 when the Clinic closed. However, since the Property was purchased in 2003, I have concluded that the Clinic actually closed in January 2004 and the Appellant and her spouse lost their positions in January 2004. As a result of losing their jobs, the Appellant and her spouse needed assistance to carry the mortgages on the Property. Mr. Samis helped them to find someone who would give them a third mortgage. According to the Appellant, it was only at this time that she and her spouse became aware that title to the Property was held by the two of them as joint tenants. It was the Appellant’s evidence that, in 2003, she had instructed Mr. Samis to put the Property in her name only because her spouse had “other interests”. She couldn’t explain what she meant by “other interests”.
+[10] According to the Appellant and her spouse, the error in title to the Property was corrected on January 13, 2004 when Mr. Samis registered a transfer of the Property from the Appellant and her spouse to the Appellant. The consideration for the transfer was $2 and an assumption of the mortgages in the amount of $499,000. At the time of this transfer, the Property was subject to three writs against Richard Myers.
+[11] On January 19, 2004, the Appellant placed a third mortgage of $40,000 on the Property. The Appellant stated that she obtained the third mortgage so that she could pay the monthly mortgages until she was able to sell the Property. She sold the Property on April 16, 2004 for $643,000.
+[12] In assessing the Appellant, the Minister assumed that the fair market value of the Property on January 13, 2004 was $643,000.
+Law [13] Subsection 160(1) of the Act provides:
+160. (1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common- law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally, or solidarily, liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted for it, and
+(e) the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act (including, for greater certainty, an amount that the transferor is liable to pay under this section, regardless of whether the Minister has made an assessment under subsection (2) for that amount) in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection limits the liability of the transferor under any other provision of this Act or of the transferee for the interest that the transferee is liable to pay under this Act on an assessment in respect of the amount that the transferee is liable to pay because of this subsection.
+[14] Subsection 160(1) imposes joint and several liability for unpaid taxes on a person to whom property is transferred if four conditions are met:
+a) There must be a transfer of property;
+b) The transferor must be liable to pay income tax at the time of transfer;
+c) The transferor and transferee must not have been dealing at arm’s length;
+d) The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee: The Queen v Livingston, 2008 FCA 89 at paragraph 17.
+[15] As stated earlier, the only issue in this appeal is whether there was a “transfer of property” from Richard Myers to the Appellant on January 13, 2004.
+C. Position of the Parties [16] It was the Appellant’s position that it was always intended that the Property was to be in her name only. There was an error when the Property was registered to her and her spouse as joint tenants in July 2003 and this error was corrected in January 2004.
+[17] It was the Respondent’s position that there was a “transfer” for the purposes of section 160 of the ITA when the Appellant received sole title to the Property in January 2004: Livingston v Canada, 2009 FCA 89. Counsel for the Respondent further argued that the Appellant did not bring any credible evidence to show that an error occurred when the Property was registered in her name and her spouse’s name in July 2003.
+Analysis [18] It is my view that whether there was a “transfer” of the Property in January 2004 depends on whether Richard Myers acquired both legal and beneficial title to the Property in July 2003. Although not directly argued by counsel for the Appellant, his argument suggests that Richard Myers received only legal title and not beneficial title in July 2003 because the Property was registered in his name in error.
+[19] For the reasons which follow, I do not believe that there was an error in registering the Property in both spouses’ names in July 2003.
+[20] The Appellant and her spouse testified that their lawyer, Mr. Samis, made an error when the Property was registered in both of their names. However, they failed to call Mr. Samis as a witness at the hearing. At page 210 of Enns v Minister of National Revenue (1987), 87 D.T.C. 208 (T.C.C.), Sarchuk, T.C.J. stated the following about the failure to call witnesses:
+In The Law of Evidence in Civil Cases, by Sopinka and Lederman, the authors comment on the effect of failure to call a witness and I quote:
+In Blatch v. Archer (1774), 1 Cowp. 63, at p. 65, Lord Mansfield stated:
+It is certainly a maxim that all evidence is to be weighed according to the proof which it was in the power of one side to have produced, and in the power of the other to have contradicted.
+The application of this maxim has led to a well-recognized rule that the failure of a party or a witness to give evidence, which it was in the power of the party or witness to give and by which the facts might have been elucidated, justifies the Court in drawing the inference that the evidence of the party or witness would have been unfavourable to the party to whom the failure was attributed.
+In the case of a plaintiff who has the evidentiary burden of establishing an issue, the effect of such an inference may be that the evidence led will be insufficient to discharge the burden. (Levesque v. Comeau, [1970] S.C.R. 1010, (1971), 16 D.L.R. (3d) 425.)"
+[21] Counsel for the Appellant argued that Mr. Samis would have been an adverse witness because of later litigation between Mr. Samis and the Appellant and her spouse. This later litigation did not involve the subject Property.
+[22] With respect, I will not assume that Mr. Samis would have been an adverse witness nor will I assume that he would not have told the truth. He is an officer of the Court. His testimony would have shed light on the very question at issue. Consequently, I draw a negative inference from the fact that the Appellant did not call Mr. Samis as a witness.
+[23] There was conflicting evidence from the Appellant and Richard Myers. In cross examination by counsel for the Respondent, the Appellant admitted that Mr. Samis had reviewed the following documents with her in 2003:
+• the Transfer registered in 2003 which showed Richard Myers and Deborah Myers as joint tenants;
+• the Land Transfer Tax Statements which showed that Richard Myers and Deborah Myers were transferees
+Richard Myers stated that Mr. Samis did not review these documents with him or the Appellant in 2003. It was his evidence that the Agreement of Purchase and Sale was signed in 2002 and it was in the Appellant’s name only. Mr. Samis was instructed to register the Property using the information on the Agreement of Purchase and Sale. I note that the Agreement of Purchase and Sale was not tendered as an exhibit.
+[24] As a result of the conflicting evidence, it is my view that the testimony of the witnesses is not reliable.
+[25] Richard Myers would have me believe that not only did Mr. Samis make an error but the lawyers who submitted the mortgages for registration also made errors. He stated that he signed the mortgages as guarantor. However, contrary to his testimony, the mortgages registered on the Property in 2003 list both Richard Myers and Deborah Myers as “Chargors”. The registration of the mortgage from Home Trust Company was signed and submitted by Sherwin H. Shapiro and the registration of the mortgage from the Nardis was signed and submitted by David John Albert Peirce.
+[26] Richard Myers stated that they always purchased their properties in the Appellant’s name only. However, there was no evidence that they had purchased any properties prior to the subject Property.
+[27] I have concluded that there was no error when the Property was registered in 2003 in the names of Richard Myers and Deborah Myers as joint tenants. In 2003, Richard Myers had both beneficial and legal title to the Property. In 2004, he transferred all of his interests in the Property to the Appellant.
+[28] The Appellant has not shown that the assessment under section 160 was not properly made. The appeal is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 4th day of November 2015.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2015TCC275
+COURT FILE NO.:
+2014-243(IT)G
+STYLE OF CAUSE:
+DEBORAH MYERS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 26, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+November 4, 2015
+APPEARANCES:
+Counsel for the Appellant:
+David M. Piccolo
+Alexander Yu
+Counsel for the Respondent:
+Erin Strashin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David M. Piccolo
+Alexander Yu
+Firm:
+Tax Chambers LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

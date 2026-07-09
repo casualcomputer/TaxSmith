@@ -1,0 +1,256 @@
+---
+title: "Rawlinson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29436/index.do"
+last_modified: "2009-09-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 489"
+citation2: ""
+neutral_citation: "2009 CCI 489"
+decision_date: "2009-09-30"
+language: "fr"
+item_id: "29436"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6927
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:31:13.618000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "59a1b6d736e9b3e3d5963399a9e261a81c95b28f68af6e81ce84787113ec3878"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rawlinson c. La Reine
+
+- Citation: 2009 CCI 489
+- Decision date: 2009-09-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6927, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rawlinson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-30
+Référence neutre
+2009 CCI 489
+Numéro de dossier
+2009-371(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-371(IT)I
+ENTRE :
+SANDY RAWLINSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 1er septembre 2009, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+M. Wayne Brooks
+Représentants de l’intimée :
+Mme Rishma Bhimji (stagiaire en droit)
+Me Brandon Siegal
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est accueilli, sans dépens, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que, dans le calcul de ses revenus pour l’année d’imposition 2003, l’appelante a droit à une déduction supplémentaire de 6 254 $ au titre de frais d’utilisation d’un véhicule à moteur.
+Signé à Toronto (Ontario), ce 30e jour de septembre 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 13e jour de novembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 489
+Date : 20090930
+Dossier : 2009-371(IT)I
+ENTRE :
+SANDY RAWLINSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] En l’espèce, la question est de savoir si l’appelante a le droit de déduire certaines dépenses dans le calcul de ses revenus pour l’année d’imposition 2003.
+[2] En 2003, l’appelante a commencé à travailler comme vendeuse d’immeubles pour Prudential Achievers Realty. Elle a expliqué qu’elle avait déjà été vendeuse d’immeubles par le passé, mais qu’elle avait délaissé le métier pendant un certain temps et avait dû recommencer à zéro en 2003. Lorsqu’elle a produit sa déclaration de revenus initiale pour 2003, l’appelante a indiqué avoir reçu des commissions totalisant 37 400 $ et engagé des dépenses s’élevant à 34 709 $, ce qui lui donnait un revenu d’entreprise net de 2 691 $. Une nouvelle cotisation a ensuite été établie à son égard pour inclure dans ses revenus une somme de 35 399 $ à titre de revenus non déclarés provenant d’Achievers Real Estate Ltd. (j’imagine qu’il s’agit du nom de la société qui exploite une entreprise sous le nom de Prudential Achievers Realty). Après l’établissement de la nouvelle cotisation, l’appelante a produit une déclaration de revenus modifiée dans laquelle elle a demandé des déductions supplémentaires au titre de dépenses d’entreprise, déductions qui auraient réduit à 12 107 $ son revenu d’entreprise net pour 2003.
+[3] Parmi les dépenses dont elle a demandé la déduction, l’appelante a pu déduire les dépenses suivantes dans le calcul de ses revenus pour l’année d’imposition 2003 :
+Dépense
+Déduction demandée dans la déclaration de revenus initiale
+Déduction demandée dans la déclaration de revenus modifiée
+Déduction accordée
+Taxes, honoraires, licences, etc.
+927 $
+927 $
+927 $
+Assurances
+516 $
+516 $
+516 $
+Repas et représentation
+(50 %)
+512 $
+512 $
+512 $
+Téléphone et services publics
+1 654 $
+1 654 $
+1 654 $
+Internet
+238 $
+238 $
+238 $
+Total :
+3 847 $
+3 847 $
+3 847 $
+[4] Les déductions suivantes, demandées au titre de dépenses dans la déclaration de revenus initiale et dans la déclaration de revenus modifiée produites par l’appelante, ont été refusées :
+Dépense
+Déduction demandée dans la déclaration de revenus initiale
+Déduction demandée dans la déclaration de revenus modifiée
+Déduction accordée
+Contrats de sous‑traitance
+6 000 $
+28 500 $
+0 $
+Publicité
+3 527 $
+5 782 $
+0 $
+Véhicule à moteur
+9 797 $
+11 027 $
+0 $
+Frais de bureau
+2 622 $
+2 622 $
+0 $
+Loyer
+6 115 $
+6 115 $
+0 $
+Cadeaux
+2 801 $
+2 801 $
+0 $
+Total :
+30 862 $
+56 847 $
+0 $
+[5] La question en litige est de savoir si, dans le calcul de ses revenus pour 2003 aux fins de Loi de l’impôt sur le revenu (« la Loi »), l’appelante a le droit de déduire une partie ou la totalité des dépenses dont la déduction lui a été refusée.
+[6] Dans de nombreux appels, la difficulté à laquelle le contribuable fait face est celle de l’absence de pièces justificatives pour les déductions demandées. En l’espèce, ce n’est pas l’absence de ces pièces qui pose problème à l’appelante, mais bien leur authenticité. Avant l’audience, l’appelante a fourni à l’intimée plusieurs « factures » relatives à diverses dépenses. L’appelante a prétendu que ces « factures » provenaient de Prudential Achievers Realty, de son époux et d’une personne qui avait imprimé des circulaires pour elle. Malgré le fait que ces « factures » provenaient prétendument de personnes qui n’avaient entre elles aucun lien de dépendance, leur formatage était identique (y compris la police de caractères et la mise en page), et elles comportaient toutes la mention [traduction] « payée entièrement ».
+[7] En plus de leur formatage identique, je tiens à souligner quelques faits à propos de ces diverses « factures » :
+a) La « facture » ayant prétendument trait à des honoraires immobiliers facturés par Prudential Achievers Realty indique qu’elle vient de « Prudendal realty » [sic]. Le montant indiqué est 4 578 $. La déduction demandée par l’appelante pour les taxes, les honoraires et les licences s’élevait à 927 $. Cette déduction a été accordée, et l’appelante ne semble pas avoir demandé de déduction au titre d’honoraires immobiliers.
+b) La « facture » provenant prétendument de l’époux de l’appelante pour la distribution de circulaires indique que la « facture » a été faite par « L. Rawlinston » [sic]. Cette « facture » est problématique à deux égards : le nom de famille (Rawlinson) est mal orthographié, et l’époux de l’appelante se nomme Dennis Ross Rawlinson.
+c) La « facture » qui, selon le comptable de l’appelante, prouverait que l’appelante a payé un loyer pour louer l’espace de bureau dans les locaux de Prudential Achievers Realty indiquait que la facture avait été faite par « Prudental realty » [sic]. L’objet de la « facture » était la [traduction] « DISTRUBUTION DE CIRCULAIRES » [sic]. Cette « facture » ne fait aucunement référence à un loyer. Sur les deux « factures » provenant prétendument de Prudential Achievers Realty, « Prudential » était mal écrit, et d’une façon différente chaque fois. Il serait logique de penser que si les « factures » provenaient véritablement de Prudential Realty Achievers, le nom de cette société aurait été écrit correctement et le nom commercial complet aurait figuré sur les « factures ».
+d) Les « factures » qui provenaient prétendument de N. Khan pour l’impression de circulaires faisaient non seulement mention de services d’impression, mais aussi de « distribution » et de « distribution de circulaires ». Une somme était indiquée pour la « distribution », mais aucune ne l’était pour la « distribution de circulaires ». L’appelante a affirmé que c’est son époux qui avait distribué les circulaires.
+[8] Il semble évident que les « factures » présentées à l’intimée par l’appelante ne sont pas les factures originales que cette dernière avait reçues de leurs prétendus auteurs. Non seulement ces « factures » ne viennent pas étayer les dépenses pour lesquelles l’appelante a demandé des déductions, le fait que l’appelante les a envoyées à l’intimée en prétendant qu’elles étaient authentiques – ce qui a fait qu’elles ont été déposées en preuve à ce titre – vient miner la crédibilité de l’appelante. Par conséquent, dans le calcul de ses revenus pour l’année d’imposition 2003, l’appelante n’aura droit à aucune déduction pour des contrats de sous‑traitance, des honoraires immobiliers, des frais de publicité ou des frais de loyer.
+[9] Les frais de bureau pour lesquels l’appelante a demandé une déduction n’ont pas été corroborés. L’appelante a déposé en preuve une photocopie d’un tableau comportant deux listes intitulées « bureau ». Chacune de ces deux listes comporte une colonne de chiffres, mais aucune explication de ce que chaque somme a permis d’obtenir. Le total de la première colonne est 1 387 $, et celui de la deuxième est 4 196 $, sans aucune explication de cet écart. Il semble aussi que des immobilisations (un ordinateur et un bureau) auraient été incluses dans les déductions demandées. Aucun de ces deux totaux ne correspond à la déduction de 2 622 $ demandée par l’appelante au titre de frais de bureau. L’appelante n’a pas fait la preuve qu’elle avait engagé des frais de bureau s’élevant à 2 622 $ en 2003, ni même du montant qu’elle a vraiment engagé à ce titre pendant cette période‑là. Aucune déduction au titre de frais de bureau ne sera permise.
+[10] Dans ses conclusions finales, l’avocat de l’intimée a dit que l’intimée reconnaissait qu’une partie des frais d’utilisation d’un véhicule à moteur devrait pouvoir être déduite. L’avocat de l’intimée a expliqué que l’intimée était prête à admettre que l’utilisation commerciale du véhicule à moteur représentait 72 % de son utilisation totale. L’appelante conduisait une Ford Focus dans le cadre de ses activités. Dans sa déclaration de revenus initiale et dans sa déclaration modifiée, l’appelante a demandé les déductions suivantes au titre de frais d’utilisation d’un véhicule à moteur :
+Dépense
+Déduction demandée dans la déclaration de revenus initiale
+Déduction demandée dans la déclaration de revenus modifiée
+Essence
+1 596 $
+2 825 $
+Assurances
+3 576 $
+3 576 $
+Permis et immatriculation
+74 $
+74 $
+Frais de location
+4 552 $
+4 552 $
+Total :
+9 798 $
+11 027 $
+[11] L’avocat de l’intimée a dit que les factures d’essence présentées par l’appelante totalisaient 812 $, et que l’intimée était prête à accepter qu’il s’agît là de la somme dépensée pour l’essence. L’appelante n’a présenté aucun élément de preuve pour contredire cette conclusion de l’intimée. Pour cette raison, j’admets que l’appelante a dépensé 812 $ pour de l’essence en 2003.
+[12] L’appelante a demandé une déduction de 3 576 $ pour les frais d’assurance du véhicule. Pour appuyer cette demande, l’appelante a déposé en preuve un certificat d’assurance modifié qui lui avait été délivré par la Compagnie d’assurance ING du Canada. Sur ce document, quelqu’un a rayé les deux derniers chiffres de l’année inscrite dans la section [traduction] « PÉRIODE DE COUVERTURE » et les a remplacés par « 03 ». La date d’entrée en vigueur de la police d’assurance (le 29 juillet 2002) inscrite du côté gauche n’avait pas été modifiée, mais l’année de la date d’expiration avait été rayée à la plume et remplacée par « 03 ».
+[13] Il semble que la période de couverture et les dates d’expiration de la police d’assurance aient été modifiées pour faire croire que la police d’assurance était en vigueur en 2003. Le formulaire montre que l’appelante a dû débourser 1 237 $ pour assurer la Ford Focus pendant la période allant du 29 juillet 2002 au 6 décembre 2002 (ou du 29 juillet 2003 au 6 décembre 2003). L’avocat de l’intimée a dit que l’intimée était prête à accorder une déduction de 1 237 $ pour les frais d’assurance pour 2003.
+[14] Les frais d’assurance totalisant 1 237 $ ont été payés pour la période allant du 29 juillet au 6 décembre. Les primes mensuelles étaient donc d’environ 290 $. L’appelante a aussi présenté un autre certificat d’assurance modifié (sur lequel seul le prénom de l’assuré a été modifié à la plume) qui indiquait que les frais d’assurance pour un Ford Explorer pour la période allant du 14 mai 2002 au 6 décembre 2002 s’élevaient à 1 626 $, soit approximativement 240 $ par mois.
+[15] En l’espèce, j’admets la conclusion voulant que l’appelante a dépensé 290 $ par mois pour assurer la Ford Focus en 2003. Comme je l’expliquerai ci‑dessous, il semble que le véhicule n’ait pas été loué pour 12 mois complets, mais plutôt pour 11,2 mois. Par conséquent, j’admets que l’appelante a déboursé 3 248 $ (11,2 mois x 290 $ par mois) pour assurer le véhicule en 2003. Il est aussi normal que l’appelante ait engagé des frais de permis et d’immatriculation, et la déduction qu’elle a demandée à cet égard (74 $) me semble raisonnable. D’ailleurs, l’avocat de l’intimée a dit que l’intimée était prête à reconnaître que les frais de permis et d’immatriculation étaient de 74 $.
+[16] L’appelante a affirmé qu’elle avait loué le véhicule en 2003 et que les frais de location mensuels étaient de 405 $. J’admets que l’appelante a loué la Ford Focus en 2003 et que les frais mensuels de location s’élevaient à 405 $. Pour 12 mois, les frais de location auraient totalisé 4 860 $. L’appelante a demandé une déduction de 4 552 $ à ce titre, ce qui donne à penser que le véhicule n’a pas été loué durant toute l’année. En fonction d’un coût mensuel de 405 $, il semble que l’appelante a loué le véhicule pour 11,2 mois. J’admets donc que l’appelante a déboursé un total de 4 552 $ pour louer le véhicule à des fins commerciales en 2003.
+[17] Comme je l’ai souligné ci‑dessus, l’avocat de l’intimée a dit que l’intimée était prête à admettre que 72 % de l’utilisation totale du véhicule a été faite à des fins commerciales. L’appelante a été incapable d’établir précisément le nombre de kilomètres qu’elle a parcourus à des fins commerciales ou à des fins personnelles. Elle a dit qu’elle se servait du véhicule pour aller de sa résidence à son bureau, et pour aller dîner avec son fils. Ainsi, une partie de l’utilisation du véhicule était personnelle. L’appelante n’a présenté aucun élément de preuve permettant de contredire la proportion d’utilisation commerciale de 72 % proposée par l’intimée. En se contentant d’affirmer que le véhicule avait seulement été utilisé à des fins commerciales alors qu’il a été clairement établi qu’elle s’était servie du véhicule pour faire la navette entre sa résidence et son bureau, l’appelante n’a pas réussi à contredire le pourcentage d’utilisation commerciale proposé par l’intimée. J’admets donc le pourcentage d’utilisation commerciale du véhicule proposé par l’intimée.
+[18] Ainsi, la déduction totale qui sera accordée à l’appelante au titre de frais d’utilisation d’un véhicule à moteur est la suivante :
+Dépense
+Somme admise
+Essence
+812 $
+Assurances
+3 248 $
+Permis et immatriculation
+74 $
+Frais de location
+4 552 $
+Total :
+8 686 $
+Utilisation commerciale (72 %) :
+6 254 $
+[19] L’appelante a aussi demandé une déduction de 2 801 $ pour des cadeaux. Elle a présenté une preuve très faible à l’appui de cette demande. L’appelante a présenté certains reçus relatifs à des articles qu’elle a prétendu avoir donnés en cadeau, mais elle n’a fait aucun rapprochement entre ces reçus et la déduction de 2 801 $ qu’elle avait demandée. L’appelante a dit avoir acheté un réfrigérateur pour une personne afin de conclure une vente, mais elle n’a présenté aucun reçu pour l’achat du réfrigérateur, ce qui empêche de savoir si cet achat a été fait en 2003 et combien le réfrigérateur a coûté.
+[20] En l’absence de reçus pertinents et d’explications convaincantes sur les sommes dépensées pour des cadeaux, la demande de déduction de 2 801 $ de l’appelante au titre de cadeaux faits en 2003 ne peut pas être accordée.
+[21] Dans Chrabalowski v. The Queen, [2005] 1 C.T.C. 2054, le juge en chef adjoint Bowman (tel était alors son titre) a fait les observations suivantes :
+[8] Somme toute, il y a probablement, dans les dépenses, des montants qui ont été déduits et qui devraient être admis, mais je ne puis déterminer ces montants parce qu’ils sont inclus dans un grand nombre de déductions non justifiées ou invraisemblables.
+[…]
+[12] Un problème auquel fait face l’appelant dans ce genre de cas est que, s’il y a une série de dépenses excessives, invraisemblables ou déraisonnables, la chose laisse planer un doute sur toutes les dépenses. En d’autres termes, une fois qu’une tendance à l’invraisemblance ou au caractère excessif est établie, la Cour est portée à examiner avec plus de soin des dépenses qui, isolément, pourraient être justifiables. Bref, toute lacune de la preuve est comblée, et tout doute est résolu, d’une façon qui est compatible avec la tendance. […]
+[22] En l’espèce, je suis d’avis qu’en plus des déductions qui ont déjà été accordées à l’appelante, il y a probablement certaines autres dépenses qu’elle a faites dans le cadre de ses activités de vendeuses d’immeubles représentant Prudential Achievers Realty qu’elle devrait pouvoir déduire. Toutefois, comme je l’ai déjà expliqué, l’appelante a présenté un certain nombre de « factures » qui ne proviennent manifestement pas des personnes qui, selon l’appelante, en sont les auteurs. Comme il l’a été dit, cela a miné la crédibilité de l’appelante et jeté le doute sur les autres déductions qu’elle a demandées. L’intimée a admis que l’appelante a droit à une déduction au titre de frais d’utilisation d’un véhicule à moteur, et, par conséquent, c’est la seule déduction supplémentaire qui sera accordée à l’appelante. J’ai rajusté à la hausse la déduction proposée par l’intimée pour tenir compte des frais d’assurance et de location plus élevés payés par l’appelante, mais cette dernière n’aura droit à rien d’autre.
+[23] Par conséquent, l’appel est accueilli, sans dépens, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que, dans le calcul de ses revenus pour l’année d’imposition 2003, l’appelante a droit à une déduction supplémentaire de 6 254 $, au titre de frais d’utilisation d’un véhicule à moteur.
+Signé à Toronto (Ontario), ce 30e jour de septembre 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 13e jour de novembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 489
+No DU DOSSIER DE LA COUR :
+2009-371(IT)I
+INTITULÉ :
+Sandy Rawlinson et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 1er septembre 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT :
+Le 30 septembre 2009
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Wayne Brooks
+Représentants de l’intimée :
+Mme Rishma Bhimji (stagiaire en droit)
+Me Brandon Siegal
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

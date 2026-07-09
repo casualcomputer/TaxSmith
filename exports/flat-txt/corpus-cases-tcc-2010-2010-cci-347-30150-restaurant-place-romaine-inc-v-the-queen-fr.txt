@@ -1,0 +1,194 @@
+Title: Restaurant Place Romaine Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30150/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-347-30150-restaurant-place-romaine-inc-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2010-06-22
+
+# Restaurant Place Romaine Inc. v. The Queen
+
+- Citation: 2010 CCI 347
+- Decision date: 2010-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7836, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Restaurant Place Romaine Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-22
+Référence neutre
+2010 CCI 347
+Numéro de dossier
+2008-1856(GST)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-1856(GST)G
+ENTRE :
+RESTAURANT PLACE ROMAINE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 14, 15 et 16 avril 2010, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Starmino Mostovac
+Avocat de l'intimée :
+Me Benoît Denis
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie le 19 juin 2006, dont l’avis porte le numéro M06‑DV2‑059 DM, est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation de façon à augmenter la taxe sur les produits et services déclarée de 95 998,98 $ plutôt que de 117 441,81 $, avec rajustement corrélatif des pénalités et intérêts, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 22e jour de juin 2010.
+« Paul Bédard »
+Juge Bédard
+Référence : 2010 CCI 347
+Date : 20100622
+Dossier : 2008-1856(GST)G
+ENTRE :
+RESTAURANT PLACE ROMAINE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d’un appel d’une cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise (la « Loi ») pour la période du 1er juillet 2002 au 30 septembre 2005 (la « période visée »).
+[2] Par cette cotisation, la taxe sur les produits et services (« TPS ») déclarée par l’appelante a été augmentée d’un montant de 117 441,81 $. La cotisation comprend également une pénalité de 15 578,31 $ et des intérêts de 6 701,76 $ pour un total de 139 722,88 $.
+[3] Je souligne immédiatement que le procureur du ministre du Revenu national a, lors de l’ouverture de la dernière journée d’audience, reconnu que l’appelante avait, pour ses exercices financiers se terminant le 30 juin 2003 (l’« année 1 »), le 30 juin 2004 (l’« année 2 ») et le 30 juin 2005 (l’« année 3 »), utilisé 800 litres, 800 litres et 722 litres de vin de type Fontana/Bottero dans la préparation de plats en cuisine, respectivement. Je souligne que le ministre du Revenu national (le « ministre ») avait, lors de l’établissement de la cotisation, accordé à l’appelante une allocation à ce titre de 40 litres de vin de type Fontana/Bottero, et ce, pour chacune des années 1, 2 et 3. Il résulte de cette admission une diminution des ventes non déclarées de 306 326,20 $ et une réduction de 21 442,83 $ du montant de TPS cotisé, avec rajustement corrélatif des pénalités et des intérêts.
+[4] L’appelante exploite un restaurant pourvu d’un permis d’alcool sur l’Île de Montréal sous le nom de « Piazza Romana » (le « restaurant »). Le restaurant peut accueillir 180 personnes et sa spécialité est la cuisine italienne. L’appelante offre aussi un service de livraison et de ventes au comptoir. Madame Maria Edoardi est l’actionnaire contrôlante de l’appelante alors que monsieur Arash Rahimi en est le principal dirigeant.
+[5] La fondation du restaurant remonte à 1971. Son exercice financier s’échelonne du 1er juillet au 30 juin.
+[6] La vérification de l’entreprise de l’appelante a été effectuée par Madame Ann Fink et madame Sylvie Dagenais. La vérification a débuté le 8 septembre 2005 par une visite des lieux. Lors de cette visite, madame Dagenais a notamment remis à l’employé de l’appelante une lettre indiquant que l’appelante faisait l’objet d’une vérification aux fins de la TPS. Madame Dagenais a aussi remis à l’employé une liste de documents (pièce A‑1) que l’appelante devait lui fournir aux fins de la vérification. Madame Dagenais a admis ne pas avoir décelé lors de cette visite d’indices lui laissant croire que l’appelante ne déclarait pas toutes ses ventes. Monsieur Philipp Schait, le vérificateur externe de l’appelante, a avisé madame Dagenais que tous les documents requis pour la vérification se trouvaient à son cabinet et étaient disponibles pour examen. Madame Dagenais a constaté, lors de sa première visite au cabinet de monsieur Schait, l’absence des documents suivants :
+a. les sommaires mensuels ou annuels des ventes par items;
+b. les factures de ventes;
+c. les rapports d’inventaire;
+d. quelques factures d’achats;
+e. les rapports de contrôle d’inventaire;
+f. les bons de commande;
+g. le dossier d’acquisition d’immobilisation;
+h. le registre des procès-verbaux.
+[7] Lors d’une visite subséquente de madame Dagenais au cabinet de monsieur Schait, ce dernier lui remettait un sommaire annuel très peu détaillé des ventes par items de l’appelante pour l’année 3 (pièce I‑25) qui établissait les ventes de cette dernière à 1 408 702,39 $ et un autre sommaire annuel très peu détaillé des ventes par items de l’appelante pour le dernier trimestre de la période visée qui établissait les ventes de cette dernière à 407 760,33 $ (pièce I‑26). Madame Dagenais a expliqué qu’elle n’avait pu obtenir de tels sommaires pour l’année 1 et pour l’année 2. À cet égard, les représentants de l’appelante ont expliqué à madame Dagenais qu’ils n’étaient pas en mesure de fournir de tels sommaires des ventes par items pour les années 1 et 2 puisque ces renseignements étaient consignés dans le disque dur de l’ordinateur de l’appelante qui avait été volé pendant les rénovations du restaurant en 2003. Finalement, madame Dagenais a expliqué que les représentants de l’appelante lui avaient remis un sommaire annuel très détaillé des ventes par items de l’appelante (pièce I‑5) pour l’année 3 qui établissait les ventes de l’appelante à 1 408 702,39 $ et un autre sommaire très détaillé des ventes par items de l’appelante (pièce I‑6) pour son dernier trimestre de la période visée qui établissait les ventes de l’appelante à 407 760,33 $. Madame Dagenais a ajouté que les notes de repas informatisées pour les 15 derniers mois de la période visée étaient aussi disponibles.
+[8] L’inventaire avait été pris par monsieur Rahimi uniquement à la fin de chaque année de la période visée. Les documents à l’appui de ces prises d’inventaire n’ont pas été conservés. Les informations liées à ces prises d’inventaire avaient été transmises verbalement à monsieur Schait par monsieur Rahimi.
+[9] Étant donné que les sommaires annuels des ventes par items de l’appelante de l’année 3 (pièces I‑5 et I‑25) établissaient les ventes de l’appelante à 1 408 702,39 $ alors que les déclarations de la taxe nette et les états financiers de l’appelante (pièce A‑3) établissaient ces mêmes ventes à 1 505 443,14 $, étant donné l’absence des rapports d’inventaire et étant donné l’absence de sommaires des ventes par items et des notes de repas pour les années 1 et 2, madame Dagenais a, dans le but de vérifier l’exactitude des déclarations des fournitures taxables, été contrainte d’estimer, au moyen d’une méthode de rechange, les fournitures taxables effectuées par l’appelante dans la période visée à partir des achats de vin et de bière de cette dernière.
+[10] Plus précisément, madame Dagenais a reconstitué le montant total des fournitures taxables effectuées pendant la période visée de la façon suivante :
+a. pour l’année 3, madame Dagenais a déterminé, à partir du sommaire annuel des ventes par items (pièce I‑5) que lui avait remis l’appelante, que, pour chaque litre de bière et de vin confondus, l’appelante avait effectué des fournitures taxables relatives au restaurant de 139,11 $, soit le quotient obtenu en divisant les ventes pour l’année 3 (1 408 702,39 $) par le nombre de litres de vin et de bière confondus vendus dans la même année (soit 10 126) (voir les détails du calcul effectué par madame Dagenais à la pièce I‑7);
+b. pour le dernier trimestre de la période visée, madame Dagenais a déterminé, à partir du rapport sommaire des ventes par item (pièce I‑6) que lui avait remis l’appelante, que, pour chaque litre de bière et de vin confondus, l’appelante avait effectué des fournitures taxables relatives au restaurant au montant de 144,94 $, soit le quotient obtenu en divisant les ventes pour ce trimestre (407 670,33 $) par le nombre de litres de vin et de bière confondus vendus dans cette même période (soit 2 813) (voir les détails du calcul de madame Dagenais à la pièce I‑11);
+c. étant donné que les notes de repas et les sommaires annuels ou mensuels des ventes par items n’étaient pas disponibles pour l’année 1 et l’année 2, madame Dagenais s’est contentée de prendre le ratio qu’elle avait calculé pour l’année 3, soit 139,11 $, pour reconstituer les ventes de l’année 1 et de l’année 2;
+d. pour chacune des années 1, 2 et 3 et pour le dernier trimestre de la période visée, madame Dagenais a vérifié toutes les factures d’achat de vin et de bière et a déterminé le nombre total de litres de vin et de bière achetés dans chacune de ces années. Ainsi, madame Dagenais a établi que l’appelante avait acheté 16 428,509 litres de vin et de bière dans l’année 1 (voir les pièces I‑18, I‑19 et I‑20), 13 988,740 litres de vin et de bière dans l’année 2 (voir les pièces I‑15, I‑16 et I‑17), 15 869,708 litres de vin et de bière dans l’année 3 (voir les pièces I‑8, I‑9 et I‑10) et 3 336,379 litres de vin et de bière dans le dernier trimestre de la période visée (voir les pièces I‑12, I‑13 et I‑14). Ensuite, le nombre de litres de vin et de bière achetés par l’appelante a été réduit des allocations suivantes accordées par madame Dagenais pour vol, bris et pertes et rajustement d’inventaire :
+Année 1 :
+1 223 litres de bière et de vin
+(voir pièce I‑18);
+Année 2 :
+1 074 litres de bière et de vin
+(voir pièce I‑15);
+Année 3 :
+1 455,599 litres de bière et de vin
+(voir pièce I‑8);
+Dernier trimestre de
+la période visée :
+237,519 litres de bière et de vin
+(voir pièce I‑14).
+e. une fois que l’appelante a présenté ses observations, madame Dagenais lui a accordé des allocations supplémentaires suivantes :
+Année 1 :
+314 litres de bière et de vin
+(voir pièce I‑7);
+Année 2 :
+314 litres de bière et de vin
+(voir pièce I‑7);
+Année 3 :
+314 litres de bière et de vin
+(voir pièce I‑7);
+Dernier trimestre de
+la période visée :
+77 litres de bière et de vin
+(voir pièce I‑11).
+f. Le résultat de cet exercice fut le suivant :
+Litres de vin et de bière
+achetés
+Allocation accordée
+par madame Dagenais
+Litres de vin et de bière réputés vendus
+Année 1
+16 428
+1 536
+14 892
+Année 2
+13 989
+1 388
+12 601
+Année 3
+15 870
+1 771
+14 099
+Dernier trimestre
+3 336
+314
+3 022
+Madame Dagenais a présumé que tous les litres de vin et de bière achetés (moins les allocations accordées) avaient été vendus, étant donné que les états financiers (pièce A‑3) indiquaient très peu de variation d’inventaire d’une année à l’autre.
+g. madame Dagenais a multiplié les quantités respectives de vin et de bière acquises par l’appelante et réputées vendues par cette dernière (c’est‑à‑dire les achats moins les allocations) par les ratios respectifs mentionnés précédemment aux sous‑paragraphes i, ii et iii ci‑dessus pour chacune des années 1, 2 et 3 et pour le dernier trimestre de la période visée;
+h. le montant total des fournitures taxables effectuées par l’appelante ainsi reconstituées par madame Dagenais pour la période visée est de 6 224 099,33 $, soit 2 071 693,99 $ pour l’année 1 (14 892 litres x 139,11 $), 1 752 986,82 $ pour l’année 2 (12 601 litres x 139,11 $), 1 961 377,63 $ pour l’année 3 (14 099 litres x 139,11 $) et 437 950,88 $ pour le dernier trimestre de la période visée (3 022 x 144,94 $). Je souligne immédiatement que les états financiers de l’appelante (pièce A‑3) et ses déclarations de taxe nette indiquent que cette dernière avait effectué des ventes totalisant 4 546 176,47 $ pendant la période visée, ce qui représente un écart de 1 677 832,90 $, d’où l’augmentation de TPS cotisée de 117 441,81 $ (1 677 832,90 $ x 7 %).
+[11] Seule madame Dagenais a témoigné à l’appui de la position de l’intimée. Par ailleurs, madame Edoardi, monsieur Rahimi, monsieur Schait et monsieur Giovanni Assalone, le chef cuisinier de l’appelante, ont témoigné à l’appui de la position de cette dernière.
+Témoignage de monsieur Rahimi
+[12] Monsieur Rahimi a essentiellement témoigné comme suit :
+a. monsieur Rahimi est à l’emploi de l’appelante depuis plus de 20 ans. Monsieur Rahimi a expliqué qu’il avait été pratiquement le seul dirigeant de l’appelante depuis 12 ans puisque madame Edoardi (la seule actionnaire et administratrice de l’appelante) lui avait délégué presque tous ses pouvoirs en regard de l’administration de l’entreprise de l’appelante;
+b. le fils de madame Edoardi avait volé régulièrement du vin et de l’argent appartenant à l’appelante pendant la période visée. Monsieur Rahimi a ajouté que le fils de madame Edoardi, qui était aux prises avec des problèmes de drogue, l’avait assailli à deux reprises pendant la période visée;
+c. 10 % à 15 % des ventes de l’appelante avaient été payées en argent comptant pendant la période visée. Monsieur Rahimi a expliqué que 95 % de cet argent comptant était lié au service de livraison de l’appelante. Je note que les allégations de monsieur Rahimi à cet égard ne furent nullement appuyées par une preuve documentaire. Enfin, monsieur Rahimi a expliqué que cet argent comptant avait été utilisé pour payer les menues dépenses de l’appelante et les pourboires de ses serveurs;
+d. pendant l’année 2, la société Investissements Romana Inc. (dont les actions étaient alors détenues par madame Edoardi) avait fait des rénovations d’une valeur de 1,2 millions de dollars sur la bâtisse dont elle était propriétaire et dans laquelle était exploité le restaurant de l’appelante. Monsieur Rahimi a ajouté que l’appelante avait pour sa part dans l’année 2 apporté des améliorations locatives (dont la construction d’une cage à bière et d’une cave à vin) d’une valeur de 70 000 $ à cette même bâtisse et acheté de l’équipement d’une valeur de 70 000 $ (dont un système de surveillance). Monsieur Rahimi a expliqué que les améliorations locatives et l’achat de l’équipement avaient comme principal objectif de limiter les vols de vin au restaurant. Enfin, monsieur Rahimi a expliqué que les travaux de rénovation du restaurant s’étaient échelonnés sur une période d’environ neuf mois et qu’une quantité particulièrement importante de vin et de bière ainsi que l’ordinateur de l’appelante avaient été volés pendant les travaux. Monsieur Rahimi a aussi témoigné que le restaurant n’avait été exploité qu’à environ 66 % de son potentiel pendant l’année 2 étant donné de l’ampleur des travaux de rénovation faits au restaurant pendant cette même année. Je souligne immédiatement que les états financiers des années 1 et 2 (pièce A‑3) ne démontrent nullement que les vols de vin et de bière avaient été nettement plus élevés pendant l’année 2 que pendant l’année 1. En effet, il est difficile d’en arriver à une telle conclusion compte tenu que le coût des ventes de l’année 2 est sensiblement le même que celui de l’année 1, et ce, alors que les achats de vin (152 095 $ pendant l’année 1 et 154 232 $ pendant l’année 2), les ventes (1 336 325 $ pendant l’année 1 et 1 296 738 $ pendant l’année 2) et les inventaires de fin d’année sont sensiblement les mêmes en ce qui concerne ces deux années. Je note aussi que le témoignage de monsieur Rahimi, selon lequel le restaurant avait été exploité à 66 % de son potentiel pendant l’année 2 (l’année des rénovations), ne concorde pas bien avec les résultats figurant aux états financiers de l’appelante (pièce A‑3). En effet, dans un restaurant où, avant les rénovations, les ventes avaient peu varié d’une année à l’autre (1 288 364 $ pendant l’exercice financier 2002 et 1 336 326 $ pendant l’année 1) et où les prix des mets vendus (de l’aveu même de monsieur Rahimi) avaient été pratiquement les mêmes pendant ces trois exercices financiers, on aurait pu s’attendre à ce que les ventes de l’année 2 (l’année des rénovations) aient été substantiellement inférieures à celles des deux exercices financiers précédents. J’ajouterai que l’incapacité de monsieur Rahimi d’expliquer la raison de la non‑diminution des ventes de l’année 2 par rapport aux ventes des deux exercices financiers précédents a semé dans mon esprit des doutes importants quant à sa crédibilité, lui, le responsable de la gestion de l’appelante, et quant à la fiabilité des états financiers de l’appelante;
+e. le prix des mets vendus par l’appelante n’avait presque pas varié pendant la période visée;
+f. monsieur Rahimi avait consommé au restaurant de l’appelante avec les serveurs de cette dernière une bouteille de vin par jour. Je souligne que le témoignage de monsieur Rahimi à cet égard ne fut pas appuyé par le témoignage des serveurs qui auraient reçu cet avantage offert par l’appelante. Je note aussi que l’appelante n’avait tenu pendant la période visée aucun livre dans lequel il aurait consigné ses activités de promotion et les avantages offerts. Enfin, je souligne que le témoignage de monsieur Rahimi à cet égard fut en quelque sorte contredit par le témoignage de madame Dagenais dont la crédibilité ne fait pas de doute dans mon esprit. En effet, madame Dagenais a témoigné que monsieur Rahimi lui avait déclaré le 4 mai 2006 (dans le cadre des négociations) qu’il avait consommé au restaurant une bouteille de vin par semaine en moyenne;
+g. l’appelante avait donné à chacun de ses trois chefs cuisiniers deux bières par jour pendant la période visée. Je souligne que le témoignage de monsieur Rahimi à cet égard ne fut nullement appuyé par le témoignage de chefs cuisiniers de l’appelante qui auraient reçu cet avantage offert par l’appelante;
+h. les serveurs de l’appelante (ce nombre pouvant atteindre 120 selon monsieur Rahimi dans une année donnée de la période visée compte tenu du très haut taux de rotation des serveurs au service de l’appelante) avaient goûté, à la demande de monsieur Rahimi, les vins inscrits (particulièrement les vins nouvellement inscrits) sur la carte des vins de l’appelante, et ce, pour qu’ils soient en mesure de conseiller plus adéquatement les clients de l’appelante dans leur choix de vin. Monsieur Rahimi a expliqué qu’avant les rénovations du restaurant, environ 10 bouteilles de vin par mois avaient été consommées à cette fin par les serveurs de l’appelante et qu’après les rénovations, la consommation à cette fin avait été plutôt de 150 litres par année. Je souligne immédiatement que le témoignage de monsieur Rahimi à cet égard ne fut nullement appuyé par le témoignage des serveurs qui auraient ainsi goûté les vins de l’appelante. J’ajouterai qu’une partie du témoignage de monsieur Rahimi fut contredit par le témoignage pour le moins crédible de madame Dagenais. En effet, madame Dagenais a témoigné que ses vérifications lui permettaient d’affirmer que le nombre maximum de formulaires T‑4 délivrés dans une année donnée de la période visée par l’appelante avait été largement inférieur au chiffre de 120 formulaires T‑4 avancé par monsieur Rahimi;
+i. madame Dagenais n’avait jamais demandé à monsieur Rahimi d’expliquer l’écart entre les ventes de l’année 3 de l’appelante consignées à la fois dans ses états financiers et dans ses déclarations de taxe nette et les ventes consignées dans les sommaires annuels des ventes par items (voir les pièces I‑5 et I‑25). Je rappelle que les sommaires annuels de ventes par items remis par l’appelante à madame Dagenais établissaient les ventes de l’appelante à 1 408 702,39 $ pour l’année 3 alors que les états financiers et les déclarations de taxe nette établissaient plutôt les ventes de l’appelante à 1 505 203 $ pour cette même période;
+j. en moyenne, 3 fêtes pour les employés s’étaient déroulées au restaurant. Monsieur Rahimi a expliqué que, lors de ces fêtes, le vin et la bière avaient été offerts gratuitement par l’appelante. Je souligne immédiatement que monsieur Rahimi n’a même pas précisé la quantité de vin et de bière consommée à l’occasion des prétendues fêtes organisées pour les employés de l’appelante. Encore une fois, le témoignage de monsieur Rahimi à cet égard ne fut pas appuyé par le témoignage d’employés qui auraient reçu cet avantage.
+[13] L’appelante doit savoir qu’un juge n’est pas tenu de croire un témoin qui n’est pas contredit. En effet, sa version non contredite peut être jugée invraisemblable d’après les circonstances révélées par la preuve et d’après les règles du bon sens. Il est d’autant plus difficile pour un juge de croire un témoin lorsque sa version des faits est contredite par un élément de preuve objectif ou par le témoignage d’un témoin crédible et que celui‑là se contente de faire des affirmations générales et souvent non vérifiables et de donner des explications évasives et équivoques. Dans un tel cas, il est difficile d’accorder quelque valeur probante au témoignage de ce témoin lorsqu’il n’est pas appuyé par une preuve documentaire sérieuse ou par le témoignage de témoins indépendants et crédibles. En l’espèce, la version des faits de monsieur Rahimi à l’égard des vols de vin et de bière particulièrement élevés dans l’année 2 et à l’égard du fonctionnement du restaurant dans cette même année à 66 % de son potentiel est contredite par une preuve objective. Monsieur Rahimi n’a pas été en mesure d’expliquer les incohérences entre sa version des faits à cet égard et les états financiers (pièce A‑3). Qui plus est, sa version des faits à l’égard du nombre de serveurs (120) qui avaient travaillé au restaurant dans une année donnée de la période visée a été contredite par témoignage crédible de madame Dagenais. Son témoignage selon lequel il n’avait réalisé que très récemment que madame Dagenais avait établi le ratio de 139,11 $ pour l’année 3 à partir du sommaire annuel des ventes par items (pièce I‑5) est tout simplement invraisemblable dans les circonstances. Je rappelle que le témoignage de monsieur Rahimi à cet égard fut aussi contredit par le témoignage de madame Dagenais dont la crédibilité ne fait pas de doute dans mon esprit. La plupart du temps, monsieur Rahimi s’est contenté de faire des affirmations générales et non vérifiables. Pour toutes ces raisons, j’ai accordé peu de valeur probante au témoignage de monsieur Rahimi.
+Témoignage de monsieur Schait
+[14] Je retiens du témoignage de monsieur Schait que :
+a. l’inventaire avait été pris par monsieur Rahimi uniquement à la fin de chaque année de la période visée. Monsieur Schait a expliqué que les informations liées à ces prises d’inventaires lui avaient été transmises verbalement par monsieur Rahimi, informations qu’il avait consignées dans les états financiers de l’appelante (pièce A‑3);
+b. il avait en mains tous les sommaires mensuels des ventes de l’appelante (sauf pour trois ou quatre mois) de la période visée;
+c. il n’avait pu fournir à madame Dagenais le détail de chacune des notes de repas pour les années 1 et 2 car cette information n’était tout simplement pas disponible. Il a aussi expliqué qu’il n'avait pu fournir à madame Dagenais, pour les années 1 et 2, des sommaires annuels ou mensuels des ventes par items aussi détaillés que ceux fournis par l’appelante pour l’année 3 et le dernier trimestre de la période visée (pièces I‑5 et I‑6) parce que l’appelante n’avait pas dressé de tels sommaires avant l’année 3;
+d. après les travaux de rénovation du restaurant, les ventes de l’appelante avaient augmenté, le coût de ses ventes avait diminué et son profit, par voie de conséquence, avait augmenté;
+e. madame Dagenais ne lui avait jamais demandé d’expliquer l’écart entre les ventes de l’année 3 de l’appelante consignées à la fois dans ses états financiers et dans ses déclarations de taxe nette et ses ventes consignées dans les sommaires annuels de ventes par items (pièces I‑5 et I‑25).
+Témoignage de madame Edoardi
+[15] Il ressort du témoignage particulièrement émotif de madame Edoardi que :
+a. elle est analphabète;
+b. elle avait délégué la gestion du restaurant à monsieur Rahimi en qui elle avait totalement confiance;
+c. son rôle dans l’entreprise de l’appelante consistait essentiellement à recevoir les clients et à s’occuper des employés.
+Analyse et conclusion
+[16] À l’égard de la position de l’appelante selon laquelle le ministre n’était pas justifié d’utiliser une méthode de vérification indirecte étant donné que ses livres et ses registres étaient adéquats et bien tenus, mes commentaires seront brefs. L’appelante doit comprendre que le ministre peut être justifié d’utiliser une méthode de vérification indirecte en regard des affaires d'un contribuable même si ses livres et registres sont à leur face même adéquats et bien tenus. En effet, encore faut‑il que ces mêmes livres, registres et états financiers soient fiables. Comment l’appelante peut‑elle prétendre en l’espèce que ces livres, registres et états financiers sont fiables alors qu’elle a elle‑même remis des sommaires annuels (pièces I‑5 et I‑25) des ventes par items pour l’année 3 qui indiquent des ventes substantiellement différentes de celles qui figurent dans ses propres états financiers et ses propres déclarations de taxe nette pour la même période? Comment l’appelante peut‑elle prétendre que ses livres, registres et états financiers sont fiables alors qu’elle ne conserve aucun document à l’appui des prises d’inventaires? Comment l’appelante peut‑elle prétendre que ses livres, registres et états financiers pour l’année 1 et pour l’année 2 sont fiables alors qu’elle ne peut fournir au ministre les notes de repas ou le détail de ces notes de repas pour ces deux années? Comment l’appelante peut‑elle prétendre que ces mêmes livres, registres et états financiers sont fiables lorsqu’il existe pour chacune des périodes de la période visée un écart important entre les achats et les ventes de bière et de vin compte tenu du peu de variation de son inventaire d’une fin d’année à l’autre? Je souligne immédiatement que je ne crois nullement les témoignages de messieurs Rahimi et Schait à l’effet que madame Dagenais ne leur avait jamais demandé d’expliquer l’écart entre les ventes de l’appelante consignées dans les sommaires annuels des ventes par items de l’année 3 (pièces I‑5 et I‑25) et celles qui figurent dans ses états financiers et ses rapports de taxe nette. Le témoignage de monsieur Rahimi à l’effet qu’il n'avait réalisé que très récemment qu’il y avait un écart d’environ 100 000 $ entre les ventes de l’appelante de l’année 3 consignées dans les sommaires annuels de ventes par items et celles consignées dans ses états financiers et ses déclarations de taxe nette, ne me semble guère plus crédible et est pour le moins invraisemblable compte tenu des nombreux projets de cotisation présentés par madame Dagenais aux représentants de l’appelante et des négociations qui en avaient découlé. À tout événement, l’appelante avait une occasion inespérée de me donner des explications sur cet écart et aussi de me convaincre que c’est à tort que madame Dagenais avait utilisé les informations figurant au sommaire annuel des ventes par items de l’année 3 pour établir le ratio de 139,11 $. L’appelante a préféré, pour des raisons que j’ignore, ne pas me donner d’explications à cet égard. Lorsque les états financiers ne sont pas fiables, le contribuable s’expose à une vérification qui peut amener le ministre à utiliser des méthodes plus imprécises pour établir le montant des fournitures taxables sous‑estimées. Le ministre était justifié ici, compte tenu de la preuve qu’il a faite devant moi, d’utiliser une méthode indirecte.
+[17] À l’égard des prétentions de l’appelante à l’effet que la méthode de vérification indirecte utilisée par le ministre est une méthode purement arbitraire et estimative qui ne présente pas le degré de fiabilité requis, notamment en ce qu’elle donne des résultats absolument invraisemblables, mes commentaires seront tout aussi très brefs. D’abord à l’égard de l’année 3, il est difficile à mon avis de prétendre que la méthode utilisée par le ministre est purement arbitraire et estimative. En effet, le ratio de 139,11 $ utilisé par le ministre a été établi à partir du sommaire annuel des ventes par items remis par l’appelante à madame Dagenais. Que le ministre ait multiplié par la suite le ratio de 139,11 $ par le nombre de litres de vin et de bière achetés par l’appelante dans cette année (réduit d’un nombre de litres de vin et de bière au titre d’allocation pour pertes, bris, primes, gratification, promotion et utilisation pour la cuisine) n’est guère estimatif et arbitraire, étant donné que le nombre de litres de bière et de vin achetés par l’appelante dans cette année n’est pas contesté et étant donné que les états financiers de l’appelante démontrent clairement qu’il y avait peu de variation d’inventaire d’une année à l’autre pendant la période visée. En fait, le seul élément de la méthode utilisée par le ministre pour établir les ventes de l’année 3 qui est estimatif en l’espèce est le nombre de litres de vin et de bière accordés par le ministre à titre d’allocation pour pertes, bris, primes, gratification, promotion et utilisation pour la cuisine. En l’espèce, le ministre a accordé une allocation égale à environ 14 % des litres de vin et de bière achetés par l’appelant dans cette année. En d’autres termes, le ministre a présumé que seulement 84 % des litres de vin et de bière achetés dans l’année 3 avaient été vendus dans cette année. À cet égard, je suis d’avis que l’allocation de 14 % accordée par le ministre est plus que généreuse dans les circonstances. Accorder une allocation plus généreuse constituerait de ma part une décision purement arbitraire compte tenu de la preuve fournie par l’appelante à cet égard. En effet, la preuve de l’appelante à cet égard reposait uniquement sur le témoignage de monsieur Rahimi (à l’exception de l’allocation pour le vin utilisé en cuisine où le témoignage de monsieur Rahimi fut appuyé par le témoignage de monsieur Giovanni Assalone, le chef cuisinier de l’appelante). À la suite de ce témoignage, une allocation supplémentaire à ce titre fut accordée par le ministre lors de l’audience. Compte tenu de ma conclusion précédente selon laquelle il m’était très difficile d’accorder quelque valeur probante au témoignage de monsieur Rahimi lorsqu’il n’est pas appuyé par une preuve documentaire fiable ou encore par le témoignage de témoins crédibles et indépendants, il m’est difficile d’accorder une allocation supplémentaire à l’appelante.
+[18] À l’égard du dernier trimestre de la période visée, il est difficile de prétendre que la méthode utilisée par le ministre est purement arbitraire et estimative. En effet, le ratio de 144,94 $ utilisé par le ministre a été établi à partir du sommaire trimestriel des ventes par items de l’appelante pour le dernier trimestre de la période visée remis à madame Dagenais par les représentants de l’appelante (pièce I‑6). Je souligne à cet égard que les ventes de l’appelante pour cette période consignées dans ce sommaire trimestriel des ventes par items sont les mêmes que celles consignées dans les déclarations de taxe nette de l’appelante pour cette même période. Que le ministre ait multiplié par la suite le ratio de 144,94 $ par le nombre de litres de vin et de bière achetés dans cette année (réduit d’un nombre de litres de vin et de bière au titre d’allocation pour pertes, bris, primes, gratification, promotion et utilisation pour la cuisine) pour reconstituer les ventes de l’appelante n’est guère estimatif et arbitraire étant donné que le nombre de litres de vin et de bière achetés par l’appelante pendant cette période n’est pas contesté. En fait, le seul élément de la méthode utilisée par le ministre pour établir les ventes de cette période qui est estimatif et contestable est le nombre de litres de vin et de bière accordés par le ministre à titre d’allocation pour pertes, bris, primes, gratification, promotion et utilisation dans la cuisine. En l’espèce, le ministre a accordé une allocation égale à 9,44 % des litres de vin et de bière achetés par l’appelante pendant cette période. En d’autres termes, le ministre a présumé que seulement 91,56 % des litres de vin et de bière achetés par l’appelante pendant cette période avaient été vendus pendant cette période. La preuve de l’appelante à cet égard reposait uniquement sur le témoignage de monsieur Rahimi auquel j’ai accordé peu de valeur probante. Il m’est donc difficile d’accorder une allocation supplémentaire à l’appelante.
+[19] À l’égard des années 1 et 2, le ministre a reconstitué les ventes de l’appelante en utilisant une méthode qui est certes arbitraire et estimative en ce qu’il a utilisé le ratio de 139,11 $ qu’il avait établi à partir du sommaire annuel des ventes par items de l’année 3 remis par les représentants de l’appelante à madame Dagenais, ratio qui, je le rappelle, avait été utilisé par le ministre pour reconstituer les ventes de l’appelante de l’année 3. L’appelante devait, en l’espèce, pour espérer avoir gain de cause, tout au moins soulever un doute sérieux au sujet de la méthode adoptée par le ministre, auquel cas le fardeau de la preuve aurait été renversé. En l’espèce, la preuve de l’appelante pour soulever un doute sérieux est peu probante puisqu’elle repose essentiellement sur le témoignage peu crédible de monsieur Rahimi qui s’est contenté de faire des affirmations générales à cet égard. Par ailleurs, le procureur de l’appelante a prétendu que la méthode utilisée par le ministre est peu fiable en ce qu’elle donne des résultats invraisemblables compte tenu de la nature des activités de l’appelante. À cet égard, le procureur de l’appelante a rappelé à la Cour que le témoignage de monsieur Rahimi indiquait que le pourcentage des ventes de l’appelante payées en argent comptant n’avait jamais dépassé 85 % et que 95 % de ses ventes payées en argent comptant avaient été générées par son service de livraison. Or, le procureur de l’appelante a prétendu qu’il est invraisemblable que des ventes non déclarées de 1 371 516 $ pour la période visée (qui, nécessairement, avaient été payées en argent comptant puisque, selon ces preuves, seules les ventes payées en argent comptant peuvent être cachées au fisc) aient été générées par le service de livraison de l’appelante. En d’autres termes, le procureur de l’appelante a soutenu qu’il est invraisemblable que l’appelante ait généré autant de ventes au comptant pendant la période visée. Si l’appelante avait présenté une preuve documentaire fiable à l’égard du pourcentage de ses ventes payées par cartes de crédit, à l’égard du pourcentage de ses ventes générées par son service de livraison, son service de ventes au comptoir et par sa salle à manger, elle aurait pu démontrer que la méthode utilisée par le ministre était peu fiable en ce qu’elle donnait des résultats invraisemblables. En l’espèce, la preuve de l’appelante à cet égard reposait essentiellement sur le témoignage de monsieur Rahimi auquel j’ai accordé peu de valeur probante. Somme toute, on ne peut soulever un doute sérieux dans la méthode adoptée par le ministre en faisant des affirmations générales et non vérifiables.
+[20] L’appelante aurait pu aussi avoir gain de cause à l’égard des années 1 et 2 en démontrant que les allocations accordées par le ministre étaient inexactes. Malheureusement, la preuve de l’appelante à cet égard reposait essentiellement sur le témoignage de monsieur Rahimi auquel j’ai accordé peu de valeur probante. Je souligne qu’un seul témoin est venu appuyer le témoignage de monsieur Rahimi à l’égard des allocations supplémentaires déclarées par l’appelante. En effet, le témoignage de monsieur Assalone est venu appuyer le témoignage de monsieur Rahimi à l’égard des litres de vin de type Fontana/Bottero utilisés en cuisine par l’appelante pendant les trois premières années de la période visée. Je rappelle que l’intimée avait fait une admission à l’audience à l’égard du vin utilisé par l’appelante en cuisine à la suite du témoignage de monsieur Assalone.
+[21] Pour ces motifs, l’appel est accueilli, sans dépens, pour tenir compte de l’admission du ministre au paragraphe 3 des présents motifs.
+Signé à Ottawa, Canada, ce 22e jour de juin 2010.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2010 CCI 347
+Nº DU DOSSIER DE LA COUR : 2008-1856(GST)G
+INTITULÉ DE LA CAUSE : RESTAURANT PLACE ROMAINE INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : les 14, 15 et 16 avril 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 22 juin 2010
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Starmino Mostovac
+Avocat de l'intimée :
+Me Benoît Denis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Starmino Mostovac
+Cabinet : Starmino Mostovac, senc
+Montréal, Québec
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

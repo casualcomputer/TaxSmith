@@ -1,0 +1,134 @@
+Title: Maxwell C. Bishop o/a Ultra-Max Construction   v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28261/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-541-28261-maxwell-c-bishop-o-a-ultra-max-construction-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-09-13
+
+# Maxwell C. Bishop o/a Ultra-Max Construction   v. M.N.R.
+
+- Citation: 2007 TCC 541
+- Decision date: 2007-09-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2042, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maxwell C. Bishop o/a Ultra-Max Construction v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-13
+Neutral citation
+2007 TCC 541
+File numbers
+2007-1503(CPP)
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Dockets: 2007-1503(CPP) and 2007-1504(EI)
+BETWEEN:
+MAXWELL C. BISHOP O/A ULTRA-MAX CONSTRUCTION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeals heard on common evidence on August 29, 2007
+at Halifax, Nova Scotia.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Deanna M. Frappier
+JUDGMENT
+The Appellant’s appeals from the determinations that Claude Jesso, Brian J. Oakley and Philip K. Kaiser were engaged by the Appellant in insurable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act and pensionable employment within the meaning of paragraph 6(1)(a) of the Canada Pension Plan are allowed, without costs, and the matters are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Claude Jesso, Brian J. Oakley and Philip K. Kaiser were independent contractors and were not engaged by the Appellant in insurable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act and pensionable employment within the meaning of paragraph 6(1)(a) of the Canada Pension Plan during the periods under appeal. The period under appeal for Brian J. Oakley is 2003 and the periods under appeal for Clause Jesso and Philip Kaiser are 2003 and 2004.
+The Appellant’s appeals from the determinations that Brian L. White and Gerry G. Gibbons were engaged by the Appellant in insurable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act and pensionable employment within the meaning of paragraph 6(1)(a) of the Canada Pension Plan are dismissed, without costs. The period under appeal for Brian L. White and Gerry G. Gibbons is 2003.
+Signed at Toronto, Ontario Canada, this 13th day of September 2007.
+“Wyman W. Webb”
+Webb J.
+Citation: 2007TCC541
+Date: 20070913
+Dockets: 2007-1503(CPP) and 2007-1504(EI)
+BETWEEN:
+MAXWELL C. BISHOP O/A ULTRA-MAX CONSTRUCTION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] This case deals with the issue of whether five different individuals were employees or independent contractors of the Appellant. The five individuals are Claude Jesso, Brian J. Oakley, Philip K. Kaiser, Brian L. White and Gerry G. Gibbons. The period under appeal for Brian J. Oakley, Brian L. White and Gerry G. Gibbons is 2003 and the periods under appeal for Clause Jesso and Philip Kaiser are 2003 and 2004.
+[2] The Appellant carried on a general contractor business as a sole proprietor. He would have various jobs for different clients and during the period under the appeal some of the jobs included installing a new roof on a house and essentially rebuilding a separate house.
+[3] The Appellant indicated that when he hired individuals as needed for the various projects, he would hire them as independent contractors and not as employees. He would pay the individuals a fixed amount per hour for the number of hours that each one worked, although the hourly rate paid to each one was not the same. Of the five employees involved, only three of the employees testified during the hearing. Philip Kaiser confirmed that it was his understanding and his intention that he was an independent contractor and not an employee. Brian White and Gerry Gibbons both testified that it was their understanding that they were employees and not independent contractors. Neither Claude Jesso nor Brian Oakley testified during the hearing. Therefore, the only evidence in relation to the engagement of Claude Jesso and Brian Oakley was that of the Appellant. He indicated that Claude Jesso was hired as a painter and that Claude Jesso worked as a painter for various customers from time to time. He also indicated that Brian Oakley had an advertisement in the local newspaper that had been running for some time advertising his services for hire.
+[4] Brian Oakley had completed a questionnaire that was supplied in relation to the determination made by the Minister that he was an employee. This questionnaire was tendered into evidence only to establish that the questionnaire was completed and not for the truth of its contents as Mr. Oakley was not called to testify. The two witnesses who testified that it was their understanding that they were employees were called as witnesses by counsel for the Respondent. Philip Kaiser was called by the Appellant as his witness.
+[5] In the Law of Evidence in Canada, second edition, by Sopinka, Lederman and Bryant, it is stated at p. 297 that:
+In civil cases, an unfavourable inference can be drawn when, in the absence of an explanation, a party litigant does not testify, or fails to provide affidavit evidence on an application, or fails to call a witness who would have knowledge of the facts and would be assumed to be willing to assist that party.
+[6] Because:
+(a) the Respondent was represented by counsel but the Appellant was not represented by counsel;
+(b) no adequate explanation was provided by counsel for the Respondent for not calling Clause Jesso and Brian J. Oakley as witnesses;
+(c) the Appellant had testified that all individuals were retained as independent contractors; and
+(d) the Respondent did call Brian White and Gerry Gibbons as witnesses,
+the inference that I draw from the fact that Clause Jesso and Brian J. Oakley were not called as witnesses is that their evidence would not have assisted the Respondent. As a result, I conclude that the intention of the Appellant in relation to the engagement of Claude Jesso, Brian J. Oakley and Philip Kaiser was that they would be engaged as independent contractors of the Appellant and that each of these individuals had the same intention.
+[7] In the recent decision of the Federal Court of Appeal in Royal Winnipeg Ballet v. M.N.R., 2006 FCA 87, 2006 DTC 6323, the Federal Court of Appeal reviewed the role that intention should play in determining whether or not individuals are employees or independent contractors. In the subsequent case of Combined Insurance Co. of America, 2007 FCA 60, Nadon J.A. of the Federal Court of Appeal summarized this as follows:
+35. In my view, the following principles emerge from these decisions:
+1. The relevant facts, including the parties’ intent regarding the nature of their contractual relationship, must be looked at in the light of the factors in Wiebe Door, supra, and in the light of any factor which may prove to be relevant in the particular circumstances of the case;
+2. There is no predetermined way of applying the relevant factors and their importance will depend on the circumstances and the particular facts of the case.
+Although as a general rule the control test is of special importance, the tests developed in Wiebe Door and Sagaz, supra, will nevertheless be useful in determining the real nature of the contract.
+[8] In the Royal Winnipeg Ballet case, the dancers and the ballet company had a common intention of hiring the dancers as independent contractors. The Federal Court of Appeal then reviewed the facts of that case to determine whether or not the facts, as they relate to the factors as outlined in Wiebe Door Services Ltd. v. Minister of National Revenue, [1986] 2 C.T.C. 200, 87 DTC 5025, altered the arrangement between the ballet company and the dancers. The Court concluded that in that case the application of the facts did not change the relationship and that the dancers were independent contractors. Sharlow J.A. of the Federal Court of Appeal made the following comments in the Royal Winnipeg Ballet case:
+65. The judge chose the following factors as relevant to the Wiebe Door analysis (it is not suggested that he chose the wrong factors or that there are any relevant factors that he failed to consider):
+· The indispensable element of individual artistic expression necessarily rests with the dancers. The RWB chooses what works will be performed, chooses the time and location of the performances, determines where and when rehearsals will be held, assigns the roles, provides the choreography, and directs each performance.
+· The dancers have no management or investment responsibilities with respect to their work with the RWB.
+· The dancers bear little financial risk for the work they do for the RWB for the particular season for which they are engaged. However, their engagements with the RWB are for a single season and they have no assurance of being engaged in the next season.
+· The dancers have some chance of profit, even within their engagement with the RWB, in that they may negotiate for remuneration in addition to what is provided by the Canadian Ballet Agreement. However, for the most part remuneration from the RWB is based on seniority and there is little movement from that scale.
+· The career of a dancer is susceptible to being managed, particularly as the dancer gains experience. Dancers engaged by the RWB have considerable freedom to accept outside engagements, although there are significant contractual restrictions (the need for the consent of the RWB, and the obligation to hold themselves out as being engaged by the RWB).
+· Although the dancers bear many costs related to their engagement with the RWB and their dancing careers generally, the RWB is obliged to provide dance shoes, costumes, tights, wigs and certain other necessary items.
+· The dancers are responsible for keeping themselves physically fit for the roles they are assigned. However, the RWB is obliged by contract to provide certain health related benefits and warm-up classes.
+66. The control factor in this case, as in most cases, requires particular attention. It seems to me that while the degree of control exercised by the RWB over the work of the dancers is extensive, it is no more than is needed to stage a series of ballets over a well planned season of performances. If the RWB were to stage a ballet using guest artists in all principal roles, the RWB's control over the guest artists would be the same as if each role were performed by a dancer engaged for the season. If it is accepted (as it must be), that a guest artist may accept a role with the RWB without becoming its employee, then the element of control must be consistent with the guest artist being an independent contractor. Therefore, the elements of control in this case cannot reasonably be considered to be inconsistent with the parties' understanding that the dancers were independent contractors.
+67. The same can be said of all of the factors, considered in their entirety, in the context of the nature of the activities of the RWB and the work of the dancers engaged by the RWB. In my view, this is a case where the common understanding of the parties as to the nature of their legal relationship is borne out by the contractual terms and the other relevant facts.
+[9] The application of the facts to the Wiebe Door factors in Royal Winnipeg Ballet was not sufficient to alter the arrangement from that which was intended by the parties. Therefore, unless the application of the facts in this case to the Wiebe Door factors would more strongly indicate an employer-employee relationship than in the case of the Royal Winnipeg Ballet, it seems to me that the individuals, for whom the intention was to create an independent contractor relationship, would be independent contractors.
+[10] With respect to the control factor, the evidence in this particular case was that the amount of control that the Appellant had over Claude Jesso, Brian Oakley and Philip Kaiser would have been less than the amount of the control that the Royal Winnipeg Ballet had over the ballet dancers.
+[11] As well, Brian Oakley and Claude Jesso were retained to perform certain tasks. Brian Oakley was retained to help the Appellant with respect to a particular roofing job and Claude Jesso was retained to do painting work on a job that the Appellant had with his clients.
+[12] In the case of Direct Care In-Home Health Services Inc. v. M.N.R., 2005 TCC 173, Justice Hershfield made the following comments in relation to control:
+11 Analysis of this factor involves a determination of who controls the work and how, when and where it is to be performed. If control over work once assigned is found to reside with the worker, then this factor points in the direction of a finding of independent contractor; if control over performance of the worker is found to reside with the employer, then it points towards a finding of an employer-employee relationship. However, in times of increased specialization this test may be seen as less reliable, so more emphasis seems to be placed on whether the service engaged is simply “results” oriented; i.e. “here is a specific task -- you are engaged to do it”. In such case there is no relationship of subordination which is a fundamental requirement of an employee-employer relationship. Further, monitoring the results, which every engagement of services may require, should not be confused with control or subordination of a worker.
+12 In the case at bar, the Worker was free to decline an engagement for any reason, or indeed, for no reason at all. …
+(emphasis added)
+[13] The arrangement with Brian Oakley and Claude Jesso appears to be very similar to the arrangement described by Justice Hershfield in that each of these individuals was assigned a specific task and engaged to do it.
+[14] With respect to the ownership of equipment, these three individuals all provided their own hand tools and smaller tools. The larger tools were provided by the Appellant. This appears to be very similar to the situation in Royal Winnipeg Ballet where the dancers bore many costs but the Royal Winnipeg Ballet was obliged to provide dance shoes, costumes, tights, wigs and certain other necessary items.
+[15] There was no indication as to whether there were any discussions between these three individuals and the Appellant as to whether they could hire any helpers. The Appellant testified that any one of these individuals would have been allowed to hire anyone to take their place as long as the quality of work was maintained but there was no indication whether these discussions actually took place. In the Royal Winnipeg Ballet case, there was no discussion with respect to whether or not the dancers could hire any helpers but it would seem illogical to suggest that the dancers could hire any person to replace them in the production.
+[16] With respect to the degree of financial risk/opportunity for profit, these three individuals had some financial risk for the work they did as they would bear the cost of fixing any errors that they made. In the Royal Winnipeg Ballet case the dancers, as acknowledged by the Federal Court of Appeal, had little financial risk. Therefore, the individuals in this case bore a little more financial risk than did the dancers in Royal Winnipeg Ballet.
+[17] With respect to the opportunity for profit, the dancers with the Royal Winnipeg Ballet could negotiate for additional remuneration, although most were paid in accordance with a predetermined scale. In this case these individuals were paid amounts that were set by the Appellant. In Royal Winnipeg Ballet the dancers were allowed to accept outside engagements provided that they had the consent of the Royal Winnipeg Ballet and provided that they held themselves out as being engaged by the Royal Winnipeg Ballet. In this case, there were no such restrictions imposed on these individuals in accepting outside engagements.
+[18] As a result, I find that the application of the facts related to Claude Jesso, Brian Oakley and Philip Kaiser in relation to the Wiebe Door factors does not suggest more strongly an employer/employee relationship than did the facts in Royal Winnipeg Ballet and since there was a mutual intention to create an independent contractor relationship, these three individuals were independent contractors and not employees of the Appellant during the periods under appeal.
+[19] However, with respect to Brian White and Gerry Gibbons, these individuals and the Appellant did not have a mutual intention with respect to whether they would be employees or independent contractors. Both Brian White and Gerry Gibbons testified that it was their understanding that they were employees and not independent contractors. Gerry Gibbons testified that he had approached the Appellant for work. He indicated that he knew Brian White and saw him working on a roof. He approached the Appellant at that time about the possibility of working for him but the Appellant indicated to him that he was not looking for anyone at that time. The Appellant later contacted him and hired him as a labourer and not to perform a specific task but such tasks as may have been assigned to him from time to time. Gerry Gibbons indicated that when he noticed that no deductions were being taken from his paycheck, he contacted the Appellant and indicated that such deductions should be made.
+[20] Brian White indicated that he started working for the Appellant after responding to a manpower advertisement. Brian White is a journeyman carpenter. It also appears that Brian White had more responsibilities as he was looking after various jobs for the Appellant during this time and therefore he was not engaged to perform a specific task but such tasks as may have been assigned to him from time to time.
+[21] The Appellant indicated that he was very sick during the time period that is under appeal in relation to Brian White and Gerry Gibbons and that he was on medication during this time. As a result, it is not clear what, if any, discussions took place between the Appellant and Brian White and between the Appellant and Gerry Gibbons with respect to their status when they were hired in 2003. As well, both Brian White and Gerry Gibbons were treated as employees by the Appellant some time during the summer of 2003 without any change in the terms or conditions of their engagement by the Appellant. Brian White indicated that he was treated as an employee by the time he received his third paycheque. As well, Brian White indicated that during this time there was only he and Gerry Gibbons who were working for the Appellant and he confirmed that the Appellant was not doing well at this time.
+[22] The situation in relation to Brian White and Gerry Gibbons is substantially similar to that in Reed Marcotte, 2007 TCC 386. In Reed Marcotte the appellant was a sole proprietor who carried on a general contractor business and who stated that any workers that he retained to work on his various projects were retained as independent contractors and paid by the hour. In that situation, I found that there was no mutual intent with respect to whether the particular individual involved in that case was retained as an independent contractor or as an employee and I found that the particular individual in that case was an employee and not an independent contractor. The only differences between Reed Marcotte and the present appeal in relation to the application of the Wiebe Door factors to Brian White and Gerry Gibbons are that Brian White and Gerry Gibbons may have provided some of their own small tools and in Reed Marcotte the individual testified that it was his understanding that he was not permitted to work for anyone else but in this case there were no discussions in relation to this. These factors in and of themselves are not, in my opinion, sufficient to distinguish this case from Reed Marcotte as the tools that were provided by Brian White and Gerry Gibbons were small tools and many employees would be permitted to work for someone else during the periods that they are not working for their employer, and therefore I find that Brian White and Gerry Gibbons were employees of the Appellant for the periods under appeal. It is also significant, in my opinion, that these two individuals were treated as employees by the Appellant within a few months of their being engaged by the Appellant without any change in the terms or conditions of their engagement by the Appellant.
+[23] As a result, the appeal from the determination that Claude Jesso, Brian Oakley and Philip Kaiser were engaged by the Appellant in insurable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (“Act”) and pensionable employment within the meaning of paragraph 6(1)(a) of the Canada Pension Plan (“Plan”) is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Claude Jesso, Brian Oakley and Philip Kaiser were independent contractors and were not engaged by the Appellant in insurable employment within the meaning of paragraph 5(1)(a) of the Act and pensionable employment within the meaning of paragraph 6(1)(a) of the Plan during the periods under appeal.
+[24] The appeal from the determination that Brian White and Gerry Gibbons were engaged by the Appellant in insurable employment within the meaning of paragraph 5(1)(a) of the Act and pensionable employment within the meaning of paragraph 6(1)(a) of the Plan is dismissed, without costs.
+Signed at Toronto, Ontario, this 13th day of September 2007.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2007TCC541
+COURT FILE NOS.: 2007-1503(CPP), 2007-1504(EI)
+STYLE OF CAUSE: MAXWELL C. BISHOP O/A ULTRA-MAX CONSTRUCTION AND M.N.R.
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: August 29, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: September 13, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Deanna M. Frappier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,211 @@
+---
+title: "Carmichael v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28264/index.do"
+last_modified: "2007-09-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 550"
+citation2: ""
+neutral_citation: "2007 TCC 550"
+decision_date: "2007-09-24"
+language: "en"
+item_id: "28264"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2045
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:42:50.239000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ae03298c4e51c62ce2cb3a9239bc5d27b4e1ef1b106c865d95ce927cd58402b9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carmichael v. M.N.R.
+
+- Citation: 2007 TCC 550
+- Decision date: 2007-09-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2045, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carmichael v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-24
+Neutral citation
+2007 TCC 550
+File numbers
+2006-2379(EI)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2006-2379(EI)
+BETWEEN:
+KELLY CARMICHAEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CREATIVE FORCE NETWORK LIMITED,
+Intervener.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Kelly Carmichael (2006‑2380(CPP)) on August 2, 2007 in Toronto, Ontario
+Before: The Honourable N. Weisman, Deputy Judge
+Appearances:
+For the Appellant:
+The appellant herself
+Counsel for the Respondent:
+Counsel for the Intervener:
+Laurent Bartleman
+Louise R. Summerhill
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed.
+Signed at Toronto, Ontario, this 24th day of September 2007.
+"N. Weisman"
+Weisman, D.J.
+Docket: 2006-2380(CPP)
+BETWEEN:
+KELLY CARMICHAEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CREATIVE FORCE NETWORK LIMITED,
+Intervener.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Kelly Carmichael (2006‑2370(EI)) on August 2, 2007 in Toronto, Ontario
+Before: The Honourable N. Weisman, Deputy Judge
+Appearances:
+Agent for the Appellant:
+The appellant herself
+Counsel for the Respondent:
+Counsel for the Intervener:
+Laurent Bartleman
+Louise R. Summerhill
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed.
+Signed at Toronto, Ontario, this 24th day of September 2007.
+"N. Weisman"
+Weisman, D.J.
+Citation: 2007TCC550
+Dockets: 2006‑2380(CPP)
+2006-2379(EI)
+BETWEEN:
+KELLY CARMICHAEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CREATIVE FORCE NETWORK LIMITED,
+Intervener.
+REASONS FOR JUDGMENT
+WEISMAN, D.J.
+[1] These are appeals by Ms. Kelly Carmichael (the "appellant") against decisions by the respondent Minister of National Revenue (the "Minister") that she was not engaged in insurable and pensionable employment within the meaning of the Employment Insurance Act[1] (the "Act") and the Canada Pension Plan[2] (the "Plan") while engaged as a graphic designer by Chapters Inc. ("Chapters") from July 2, 2003 to June 20, 2005.
+[2] Human Development Resources Canada had originally agreed with the appellant that she was in insurable and pensionable employment and granted her the maternity benefits for which she had applied. The intervener, Creative Force Network Limited ("Creative"), which is the agency that placed the appellant with Chapters, successfully appealed that decision to the Minister, but was subsequently met with the subject appeal by the appellant when her maternity benefits were discontinued.
+[3] Prior to this trial date, the parties filed Consents to Judgment allowing the appellant’s appeal on the basis that she was indeed engaged in insurable and pensionable employment during the period under review. Creative did not join in the consents and sought its day in court.
+[4] This scenario raises the question whether interveners who are not parties to the proceedings[3] can force those who are, to embark upon a trial they have agreed to settle and do not want.
+[5] I granted Creative standing to proceed with the trial, present evidence, and cross-examine the parties’ witnesses notwithstanding the Consents, as the only way for it to put its position before the court, and for the court to decide the issue on the merits.
+[6] Creative is a placement agency. It is common ground that it placed the appellant in employment with its client, Chapters; that she was under Chapters direction and control; and that the terms and conditions on which her employment or service were performed were, or were analogous to, a contract of service. The only issue before the court was whether or not Creative remunerated her for her services.
+[7] By Regulation 6(g) under the Act, Creative is obligated to deduct and remit employment insurance premiums if it did. By Regulation 34.(1) under the Plan, whichever of Creative or its client Chapters remunerated her for her services is liable for the requisite contributions.
+[8] Regulation 6(g) provides as follows:
+6. Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment:
+. . .
+(g) employment of a person who is placed in that employment by a placement or employment agency to perform services for and under the direction and control of a client of the agency, where that person is remunerated by the agency for the performance of those services.
+[9] Regulation 34.(1) provides as follows:
+34.(1) Where any individual is placed by a placement or employment agency in employment with or for performance of services for a client of the agency and the terms or conditions on which the employment or services are performed and the remuneration thereof is paid constitute a contract of service or are analogous to a contract of service, the employment or performance of services is included in pensionable employment and the agency or the client, whichever pays the remuneration to the individual, shall, for the purposes of maintaining records and filing returns and paying, deducting and remitting contributions payable by and in respect of the individual under the Act and these Regulations, be deemed to be the employer of the individual.
+[10] Neither Regulation defines the word "remuneration" as it is used in the above sections. The Oxford English dictionary online gives the following definition: "To reward (a person); to pay (one) for services rendered or work done."
+[11] The appellant first resorted to Creative to find her gainful employment on the 9th day of March 2001. She was interviewed by Ms. Dorothea Kanga ("Kanga") the President of Creative, as to her qualifications, skill set, and prior work experience, and was advised of the expected hourly wage range that Kanga thought she could negotiate on the appellant’s behalf based on Kanga’s knowledge of the graphic design industry.
+[12] At that initial interview, the appellant was provided with Creative’s standard agreement between itself and its "freelancers". She took it home and skimmed over it. Her only concern was that it lacked an "exit strategy" in that the fees deducted from her wages by Creative were perpetual so long as she remained employed where placed. When she asked Kanga if she could buy out of the agreement after one year as other placement agencies permitted, she was told in no uncertain terms: "That is not our policy".
+[13] The appellant never signed the agreement but accepted a placement with Creative’s clients Sparkhouse commencing March 20, 2001; and then with Chapters which lasted from July 21, 2003 to March 30, 2004.
+[14] From March 30, 2004 to the end of September of that year, the appellant sent out numerous resumés without success. In the meantime, Creative found her employment with Think Tank from May 10, 2004 to June 12, 2004. That relationship ended because the appellant was teaching part-time at Seneca College and sought flexible hours of employment, whereas Think Tank needed a full-time contractor. Upon return from vacation in Gibraltar the appellant accepted Creative’s offer of fresh employment at Chapters three days per week. This turned into a full-time position which lasted until June 20, 2005.
+[15] Throughout the period under review the appellant was content that her working relationship with Creative be governed by the terms and conditions of the unsigned agreement. On cross-examination she was asked if the other terms of the freelancer’s agreement were acceptable and if it was just the lack of an exit strategy that she objected to. She replied that she had "no concerns because they got me employment".
+[16] The standard agreement contains the following germaine provisions:
+Responsibilities of Creative Force
+[. . .]
+5. It is Creative Force’s responsibility to submit invoices to the party using the Freelancer’s services (hereinafter the "Customer"), for all services provided by Creative Force and the Freelancer. It is Creative Force’s responsibility to collect all monies owed under any invoices given to the Customer, and that the Freelancer shall not collect any money directly from the Customer.
+Freelancer’s Responsibilities
+[. . .]
+9. The Freelancer agrees not to enter into any contract directly with the Customer, without prior written consent of Creative Force.
+[. . .]
+Remuneration
+11. It is agreed that wherever possible Creative Force shall quote for the services of the Freelancer in an amount based on One Hundred and Ten Percent (110%) of the Freelancer’s established rate. It is further understood and agreed that the remuneration received by Creative Force for the services performed by the Freelancer shall be divided as follows:
+a) Should a fee received from a Customer be based on an amount equal to One Hundred and Ten Percent (110%) of the Freelancers established rate, the Freelancer will receive an amount equal to Ninety Percent (90%) of such rate and Creative Force will be entitled to receive an amount equal to Twenty Percent (20%) of such rate for facilitating or arranging the Freelancer’s services with the Customer.
+b) Should a fee be agreed upon with a Customer which varies from the aforesaid established rate formula and the Freelancer accepts the project, the Freelancer shall be entitled to receive an amount equal to Eighty Percent (80%) of the agreed fee and Creative Force will be entitled to receive an amount equal to Twenty Percent (20%) of the agreed fee for facilitating or arranging the Freelancer’s services with the Customer.
+12.It is agreed that amounts received from Customers from invoices provided by Creative Force to which the Freelancer is entitled in accordance with the formula set out above belong to the Freelancer and that Creative Force is merely collecting such amounts on behalf of the Freelancer.
+13. It is agreed that the Freelancer shall receive such payment that is due pursuant to this contract, once the payment from the client has been received by Creative Force and cleared by an appropriate financial institution.
+14. The parties agree that Creative Force shall collect all monies from the Customer and the Freelancer shall not accept payment or other remuneration directly from the Customer. Any attempt by the Customer to make payment or other remuneration to the Freelancer shall be reported directly by the Freelancer to Creative Force in writing, setting out any particularities of the circumstances.
+15. If the Freelancer does receive remuneration directly from the Customer, it is agreed that Creative Force is entitled to its Twenty Percent (20%) fee according to paragraph 11, and that the Freelancer shall immediately transfer to Creative Force such fee.
+[. . .]
+19. It is agreed that Creative Force shall make every reasonable attempt to collect fees and expenses invoiced to customers, but Creative Force cannot guarantee such payment. The Freelancer hereby constitutes Creative Force as its agent to collect the fees from the Customer to which the Freelancer is entitled.
+[17] The standard freelancer’s agreement is clearly an attempt by Creative to secure receipt of its fees by invoicing the various employers directly for the workers wages, deducting its share, and paying the remaining monies to the freelancer. Further assurance is gained by prohibiting the worker from contracting directly with Creative’s customers.
+[18] The question is whether Creative succeeded in its objective without placing itself in the position of having "remunerated" freelancers such as the appellant within the meaning of the regulations passed under the Act and the Plan.
+[19] Creative argued that far from remunerating the appellant it acted only as a conduit between her and its client – charging the appellant ten percent of her wages for invoicing its client on her behalf, collecting the monies, and paying her share; while invoicing its client a further ten percent for having arranged the freelancer’s services.
+[20] The problem with this argument is that nowhere in the freelancer’s agreement is there provision for Creative charging workers such as the appellant ten percent of their wages for invoicing and collection services. The agreement contemplates only that twenty percent of all wages will be deducted for securing the placement. In actual fact, the appellant was never invoiced, nor charged G.S.T. for Creative’s supposed services on her behalf. The various clients were charged G.S.T. on the entire twenty percent, which is consistent with paragraph 11 of the standard agreement. I also find it somewhat disingenuous of Creative to purport to charge the appellant for services rendered when it really was primarily concerned with the dual purpose of ensuring that it secured its fees from each and every paycheck, while at the same time buttressing its contention that it merely acted as a conduit between its remunerating clients and its freelancers.
+[21] For her part, the appellant never invoiced Creative for her services. She was content that Creative confirmed her hours worked, and then invoiced its clients "on behalf of Kelly Carmichael". On December 15, 2003, she faxed Creative as follows: "…starting in the new year, I will need you to charge G.S.T. for me also. I will provide my number to you". On one occasion when Chapters was slow in remitting payment due, she did not complain to Creative – but called Chapters payroll department directly.
+[22] Finally, at no time since March 9, 2001 did she look to Creative for her remuneration. This changed only when she sought maternity benefits subsequent to the birth of her son in October of 2005. She inquired of Human Resources Development Canada how she could collect such benefits under the Act, and was duly directed to Regulation 34.(1). This required her to adopt the position for the first time that it was Creative and not Chapters that was remunerating her.
+[23] Until then she was content that her relationship with Creative be governed by the terms and conditions of the standard freelancer’s agreement. As aforesaid, it clearly provides that it is Creative’s client and not Creative that remunerated the Freelancer; that the Freelancer will get paid by Creative once payment has been received from its client; and that such payment cannot be guaranteed. The appellant accordingly agreed to look for her remuneration to Creative’s client and not to Creative itself, and to bear the loss if it was not forthcoming.
+[24] The burden is upon the appellant to demolish the assumption set out in paragraph 8 of the Minister’s Reply to the Notice of Appeal. The only assumption that she successfully refuted was 8(g). The evidence indicated that she billed Chapters directly only after she severed her ties with Creative. The remaining assumptions are more than sufficient to support the Minister’s determinations, which are objectively reasonable. With one exception, there are no new facts and no evidence to indicate that the known facts were misunderstood by the Minister.
+[25] The sole exception is the evidence which was not refuted by the appellant, that Creative negotiated her remuneration with its clients on her behalf, and did not set such fees itself. This fact distinguishes this case from those wherein it was held that a placement agency remunerates a worker if it sets the fees itself.
+[26] In the result, the appeals will be dismissed and the decisions of the Minister confirmed.
+Signed at Toronto, Ontario this 24th day of September 2007
+"N. Weisman"
+Weisman, D.J.
+CITATION:
+2007TCC550
+COURT FILE NOS.:
+2006-2379(EI) / 2006-2380(CPP)
+STYLE OF CAUSE:
+Kelly Carmichael and M.N.R.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 2, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable N. Weisman
+Deputy Judge
+DATE OF JUDGMENT:
+September 24, 2007
+APPEARANCES:
+For the Appellant:
+The appellant herself
+Counsel for the Respondent:
+Counsel for the Intervener:
+Laurent Bartleman
+Louise R. Summerhill
+COUNSEL OF RECORD:
+For the Respondent:
+For the Intervener:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+Aird & Berlis LLP
+Toronto, Ontario
+[1] S.C. 1996, c. 23.
+[2] R.S.C. 1985, c. C-8.
+[3] Budget Propane Corp. v. M.N.R., 2002 FCA 51, [2002] 2 F.C. D38.

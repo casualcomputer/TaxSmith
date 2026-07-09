@@ -1,0 +1,151 @@
+Title: Tremblay v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27762/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-554-27762-tremblay-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-11-14
+
+# Tremblay v. M.N.R.
+
+- Citation: 2006 TCC 554
+- Decision date: 2006-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 315, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-14
+Neutral citation
+2006 TCC 554
+File numbers
+2005-2759(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-2759(EI)
+BETWEEN:
+ANDRÉ TREMBLAY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 3, 2006, at Roberval, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Pierre Hébert
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of November, 2006.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 24th day of May 2007.
+Gibson Boyd, Translator
+Citation: 2006TCC554
+Date: 20061114
+Docket: 2005-2759(EI)
+BETWEEN:
+ANDRÉ TREMBLAY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] André Tremblay (the “Appellant”) appealed the decision of the Minister of National Revenue (the “Minister”) rendered under the Employment Insurance Act (the “Act”). In a letter dated June 22, 2005, the Minister informed the Appellant of his decision, according to which the Appellant had held insurable employment during the periods when he had be been employed by the company Aménagement Myr Inc. (the “Payor”), for the following hours and remuneration:
+(i) from April 26 to November 2, 1999, for 1482 hours and a total remuneration of $16,976.72;
+(ii) November 24 and 25, 1999, for 16 hours and a total remuneration of $183.28 $;
+(iii) from February 14 to 17, 2000, for 32 hours and a total remuneration of $345.65;
+(iv) from February 29 to March 2, 2000, for 24 hours and a total remuneration of $259.24;
+(v) March 20, 2000, for 8 hours and a total remuneration of 86,41 $;
+(vi) from April 18 to September 22, 2000, for 1308 hours and a total remuneration of $14,128.78.
+[2] The Minister based his decision on the following assumptions of fact, stated in paragraph 6 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) the Payor was incorporated on January 4, 1994;
+(b) the company BMR Satellite inc. held all of the Payor’s voting shares;
+(c) the shares of BMR Satellite inc. were distributed as follows:
+- Mario Richard, 35%,
+- Josée Laliberté, spouse of Mario Richard, 15%,
+- Clairette Tremblay, mother of Josée Laliberté, 50%.
+(d) the Payor operated a forestry business, more specifically a brush cutting operation;
+(e) the Payor’s main clients were Bowater and Abitibi‑Consolidated;
+(f) the Payor hired 30 to 90 brush cutters per year;
+(g) during the periods at issue, the Appellant had worked for the Payor as foreman;
+(h) he worked at Port-Cartier, Lebel-sur-Quévillon and Lac-St-Jean;
+(i) as well as his work as foreman, the Appellant repaired the mechanical saws in a mobile garage in the forest;
+(j) he worked from 4 to 7 days a week;
+(k) despite a variable work schedule, from 40 to 80 hours per week, the Appellant received a fixed salary each week;
+(l) during the periods at issue, the Appellant provided services to the Payor and banked hours;
+(m) in 1999, the Appellant received a record of employment from the Payor indicating that he had worked from May 17 to October 15, accumulated 1,210 insurable hours and earned $16,500 in insurable earnings;
+(n) in 2000, the Appellant received a record of employment from the Payor indicating that he had worked from May 15 to September 22, accumulated 1,140 insurable hours and earned $14,820 in insurable earnings;
+(o) the records of employment issued by the Payor did not reflect the Appellant’s periods of work, hours worked or insurable earnings;
+(p) in 1999, the Appellant worked for the Payor from April 26 to November 2, for 1,482 hours with total earnings of $16,976.72 as well as November 24 and 25, for 16 hours with total earnings of $183.28;
+(q) in 2000, the Appellant worked for the Payor from February 14 to 17 for 32 hours with total earnings of $345.65, from February 29 to March 2 for 24 hours and total earnings of $259.24, on March 20 for 8 hours and total earnings of $86.41 and from April 18 to September 22, for 1,308 hours and total earnings of $14,128.70.
+[3] Of the facts set out in paragraph 6 of the Reply to Notice of Appeal, the Appellant only admitted the facts mentioned in subparagraphs 6(a), 6(b), 6(c), 6(d), 6(f), 6(g), 6(i), 6(j), 6(m) and 6(n). He denied all the other subparagraphs.
+[4] The position of the Appellant is that the records of employment (I-5) are true with regard to the periods worked for the Payor, the number of insurable hours and the insurable earnings. These records reveal that:
+(i) in 1999, the Appellant had worked for the Payor from May 17 to October 15 and accumulated 1,210 insurable hours with total insurable earnings of $16,500;
+(ii) in 2000, the Appellant had worked for the Payor from May 15 to September 22 and accumulated 1,140 insurable hours with total insurable earnings of $14,820.
+Background
+[5] The Payor pleaded guilty in 2004 of having produced false records of employment for its workers during the years in question and paid a fine of $50,000 for this. The Payor had established a system of “banking” hours, as well as producing records of employment for periods during which the employees did not work. Officers from CCP/EI rendered decisions in their investigations of the Payor’s practices with regard to 24 of his workers and only 9 of them (including the Appellant) appealed the Minister’s decision.
+[6] At the search performed on the Payor’s premises on May 6, 2003 by HRSDC in cooperation with the RCMP, two folders (Exhibits 1-2 and 1-3) containing information on the Appellant relating to the years 1999 and 2000 were seized. The Minister alleged that the documents seized clearly indicated in detail the days worked by the Appellant outside of the periods indicated on the records of employment. The Minister is convinced that these documents prove that the Appellant had worked for the Payor outside of the periods indicated on the records of employment for 36 days and 29 days in 1999 and 2000 respectively, working 8-hour days.
+[7] The Appellant argued that the information in the documents seized simply indicated the days when he had provided services to the Payor as an independent contractor. According to the Appellant, these services concerned the repair and maintenance of the Payor’s brush cutters.
+[8] The relevant passages of the solemn declaration (Exhibit I-3) signed by the Appellant on February 23, 2004, in the presence of Réal Couture, a major fraud investigation officer employed by Human Resource Development Canada, and an officer of the Royal Canadian Mounted Police (“RCMP”), read as follows:
+[TRANSLATION]
+. . . As well as being foreman, I repair saws in a mobile garage in the forest, I am trained and experienced in the field. In 2002, I finished working on October 11, 2002, and did not work again, not even in my garage. Moreover, no one worked in my garage. When you ask me if Heintje Gilbert worked repairing saws in my garage, I tell you no. When you tell me you saw me on a video cassette brush cutting and preparing meals for employees, I answer that I was in the forest, period. When you show me documents with dates, I tell you I didn’t work during those periods. When you show me a file with my name with “hours accumulated” written on it, I answer that the secretary wrote it, not me. . .
+Appellant’s testimony
+[9] The Appellant testified that:
+(i) he was a trained mechanic;
+(ii) the Payor had awarded him a contract under which he had agreed to repair and maintain and repair the Payor’s brush cutters in consideration of an annual fixed sum payment that the Appellant was unable to specify despite numerous questions. The Appellant added that the Payor had reimbursed him for the cost of parts and materials that he had purchased to repair the brush cutters. The Appellant explained that he had repaired 60 brush cutters over the winter in 1999 and roughly the same number in 2000. He explained that he provided this service to the Payor as an independent contractor in that he performed this work in his garage, on his own time without supervision by the Payor. The Appellant gave the following explanations on the mode of payment of the consideration due: “He added it to my salary in the spring. He added it to my pay periods. . . He increased my pay. . .”;
+(iii) the documents seized at the search in fact contained his personal notes as to the days when he had repaired the brush cutters for the contract that he was granted;
+(iv) Mr. Couture and the RCMP officer had forced him to sign the solemn declaration, threatening to “cut off his unemployment insurance.” The Appellant explained that he had not cooperated with Mr. Couture because he felt threatened by him and by the RCMP officer. He said that he had not given Mr. Couture his explanations about the seized documents concerning him because he was scared. The Appellant stated that it was only at this meeting of February 23, 2004, that he learned from Mr. Couture that the Payor had set up a system of “banking” hours. Finally, the Appellant testified that he did not recall having spoken to Lyne Courcy the appeals officer.
+Testimony of Réal Couture
+[10] Réal Couture, a witness whose credibility has not been questioned in this case, stated that:
+(i) in the course of his investigation of the Payor’s activities in 2004, he met with 24 of the Payor’s employees, including the Appellant;
+(ii) he met with the Appellant in Dolbeau at the HRSDC offices on February 23, 2004, in the presence of an RCMP officer;
+(iii) he recalled that the Appellant had not been very cooperative, systematically refusing to answer the majority of the questions asked. Mr. Couture explained that he remembered this because the Appellant was the only one of the 24 who had not cooperated. He added that this explains the short duration of this meeting (37 minutes) and the short solemn declaration that came out of it;
+(iv) neither Mr. Couture nor the RCMP officer had threatened the Appellant directly or indirectly. The RCMP officer had not asked the Appellant any questions.
+Analysis and conclusion
+[11] The Appellant’s evidence in this matter essentially relied on his testimony, which I did not find very credible, to say the least. First of all, all of the Appellant’s explanations relating to the seized documents concerning him seem implausible. Indeed, I do not see the use for the Appellant of only noting on paper the dates when he repaired the brush cutters or of submitting theses papers to the Payor, since the Appellant testified that the consideration agreed upon with the Payor for this work was a fixed amount. I observe that these papers indicate that the Appellant repaired brush cutters not only during the winter, as he stated in his testimony, but also during other periods of the year.
+[12] Generally speaking, the Appellant was elusive, evasive and incomprehensible. This is perfectly illustrated by the Appellant’s testimony as to the consideration (and the terms of payment of the consideration) negotiated with the Payor for repairing the brush cutters. The time the Appellant took to answer in cross examination, his hesitations, his demeanour and his memory lapses only confirmed my suspicions as to his credibility. His inability or refusal to give explanations on the nature of the terms of the service contract between him and the Payor convinced me that such a service contract did not exist. In support of his testimony, he could have filed supporting documentation related to the purchase of replacement parts that he had paid for. He did not do so although he would have been able to. I infer from this that this evidence would have been unfavourable to him. He could have submitted as evidence his income tax returns for the years in question, returns that could have demonstrated that the Appellant had earned business income during those years, but he did not do so.
+[13] The Appellant’s statement according to which he had not disclosed, at the meeting of February 23, 2004, his service contract with the Payor because he had been threatened did not convince me. I find it hard to understand why the Appellant did not report the threats that had been made to him to the appeals officer or why he would not have disclosed to her the service contract that he allegedly agreed to with the Payor. The Appellant gave no explanation on these omissions. Yet the Appellant never stated that the appeals officer had intimidated him or threatened him in any way. I imagine that the Appellant does not have faith in any public servant!
+[14] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of November 2006.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 24th day of May 2007.
+Gibson Boyd, Translator
+CITATION: 2006TCC554
+COURT FILE NUMBER: 2005-2759(EI)
+STYLE OF CAUSE: ANDRÉ TREMBLAY AND M.N.R.
+PLACE OF HEARING: Roberval, Quebec
+DATE OF HEARING: October 3, 2006
+REASONS FOR JUDGMENT BY: The Honourable Paul Bédard
+DATE OF JUDGMENT: November 14, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Pierre Hébert
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Pierre Hébert
+Firm: Simard Boivin Lemieux, avocats
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

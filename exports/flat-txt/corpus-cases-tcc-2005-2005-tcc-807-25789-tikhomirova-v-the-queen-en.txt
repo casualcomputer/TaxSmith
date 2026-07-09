@@ -1,0 +1,110 @@
+Title: Tikhomirova v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25789/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-807-25789-tikhomirova-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-12-20
+
+# Tikhomirova v. The Queen
+
+- Citation: 2005 TCC 807
+- Decision date: 2005-12-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3799, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tikhomirova v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-20
+Neutral citation
+2005 TCC 807
+File numbers
+2004-3122(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+2004-3122(IT)I
+BETWEEN:
+TATIANA TIKHOMIROVA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 3, 2005, at Toronto, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Agent for the Appellant:
+Ken Gratton
+Agent for the Respondent:
+David Knapp (Student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments of tax made under the Income Tax Act for 2001 and 2002 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 20th day of December, 2005.
+"E.A Bowie"
+Bowie J.
+Citation: 2005TCC807
+Date: 20051220
+Docket: 2004-3122(IT)I
+BETWEEN:
+TATIANA TIKHOMIROVA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] These appeals are brought from reassessments under the Income Tax Act[1] for the taxation years 2001 and 2002. Although the appeal as it was originally framed raised a number of issues, only one was pursued at the hearing. That issue concerns the Appellant's claim that she is entitled to a terminal loss in relation to certain improvements made by her to her residence to enable her to carry on a business there. The terminal loss is claimed in 2002; in the alternative she claims to be entitled to capital cost allowance (CCA) in both years. For reasons best known to himself, the Deputy Attorney General of Canada chose to deliver a Reply to the Notice of Appeal that covered only the first of the two years. The facts and the issues are essentially the same for both years, however, and the Appellant's agent was content to proceed on the basis of the Reply to the Notice of Appeal filed.
+[2] The Appellant immigrated to Canada from Russia in 1998. She has extensive education, training and experience in the fields of aesthetics, aromatherapy, holistic medicine, and acupuncture. In March 2000, she began to carry on an aesthetics business as a sole proprietor under the trade name "La Chance". She conducted the business in her home on Pinecrest Avenue in Toronto. Before long she moved to a larger house on Dorlen Avenue, with a separate entrance from the exterior to the basement level of the house. The basement was more or less unfinished when she moved there. In the summer of 2001, she hired a contractor to create five separate rooms in the basement, consisting of a waiting area, a room used for manicures and display of products for sale, a bathroom, a storage room with a sink in it and shelving for the storage of products, and another treatment room. The Appellant designed the finished facility; she described the work done, and it was considerable. It included installing floor tiles, walls, ceilings, lighting and other electrical fixtures, plumbing fixtures display cases and shelving, as well as some landscaping of the exterior. She paid $14,630.00 for labour alone to the contractor who did the work. She purchased the materials herself, at an additional cost of $14,520.74. Her evidence satisfies me that the total cost of building the spa and equipping it with the necessary fixtures and landscaping the approach to it from outside cost a total of $29,150.74. The work was all done and paid for in the year 2001. The result was a very functional and attractive facility, to judge by the Appellant's description, and the photographs that were entered as exhibits.
+[3] Some time in 2002 the Appellant was told by her insurance agent that her coverage would be cancelled if she continued to operate the business in her residence. She then incorporated La Chance Esthetics Ltd. (the company) to carry on the business, and it leased commercial premises for that purpose. Ms. Tikhomirova testified that she was unable to find an insurer that would provide coverage on her home while the business was being carried on in the basement until after the arrangements to move had been irrevocably put in place. In any event, at some time during the year 2002 she discontinued the business that she had been carrying on as a proprietorship and began the business of the company. The spa that she had built in the basement at the home on Dorlen Avenue remained there intact.
+[4] The Appellant's first contention is that the amounts expended should be treated as being on current account, and so deductible in computing her income for the 2001 taxation year. In the alternative, she submits that the spa is an asset that falls within class 8(i) of Schedule II of the Regulations.[2] This, her agent argues, would entitle her to deduct a terminal loss under subsection 20(16) of the Act.
+[5] The Appellant's first argument cannot succeed. The evidence shows clearly that the expenditures that she made and now seeks to deduct were made entirely to effect lasting improvements to her residence. She stated in her evidence that she now considers that the changes made to her basement have lessened the value of her house and her ability to enjoy it, as the improvements were capable only of use for the business that she no longer carries on there. The fact is, however, that at the time that she made the improvements they added value by making the basement suitable for the business that she was carrying on there.
+[6] The Appellant relies on the decision of this Court in McLaughlin v. M.N.R.[3] for the proposition that she is entitled to treat all those items of expenditure that cost less than $150.00 as being on current account. That, however, was a case in which the taxpayer had made a great many expenditures to restore and improve a century-old residence. Clearly, much of what was spent in that case went to restore parts of the house to its original condition, while other expenses were incurred to make improvements that would be of enduring benefit. Amounts of less than $150.00 were allowed as expenses, on the basis that this was a fair way to distinguish between the two categories of expenditure. In this case, however, there was only one project, and it did not involve renovation; rather, it was entirely directed to creating improvements that were not there before. All the expenditure was therefore of a capital nature, and no deduction from income as an expense is warranted.
+[7] Nor is the Appellant entitled to claim a terminal loss. There is no asset separate from the Appellant's house that was used in her business and disposed of in the taxation year 2002, or at all. The expenditure did not bring any new asset into existence; it simply altered and improved her residence which she continued to own after the business was transferred to a new location and carried on by a corporation. For the same reason, the Appellant cannot claim capital cost allowance on a class 8(i) asset. She did not bring any such asset into existence, she simply improved her residence.
+[8] However, the evidence shows that the Appellant used almost the entire basement of her house exclusively for business purposes during the years under appeal. She is therefore entitled to capital cost allowance at the rate of 4%[4] on the appropriate proportion of her residence. The appeals will be allowed and the assessments referred back to the Minister for reconsideration and reassessment on that basis.
+Signed at Ottawa, Canada, this 20th day of December, 2005.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2005TCC807
+COURT FILE NO.:
+2004-3122(IT)I
+STYLE OF CAUSE:
+Tatiana Tikhomirova and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 3, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+December 20, 2005
+APPEARANCES:
+Agent for the Appellant:
+Ken Gratton
+Agent for the Respondent:
+David Knapp (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c.1 (5th supp.), as amended.
+[2] Income Tax Regulations, C.R.C. c.945, as amended. Class 8(i), so far as it is relevant, reads:
+"a tangible capital property that is not included in another class in this Schedule ..."
+[3] 92 DTC 1030.
+[4] Class 1(q).

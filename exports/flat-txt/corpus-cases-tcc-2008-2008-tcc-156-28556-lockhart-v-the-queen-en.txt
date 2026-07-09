@@ -1,0 +1,145 @@
+Title: Lockhart v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28556/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-156-28556-lockhart-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-03-19
+
+# Lockhart v. The Queen
+
+- Citation: 2008 TCC 156
+- Decision date: 2008-03-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1089, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lockhart v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-03-19
+Neutral citation
+2008 TCC 156
+File numbers
+2006-2322(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2322(IT)G
+BETWEEN:
+TOM J. LOCKHART,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 10, 2008, at Calgary, Alberta.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant:
+Tom J. Lockhart
+Counsel for the Respondent:
+Bryan Wigger
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is dismissed with costs.
+Signed at Ottawa, Canada, this 19th day of March 2008.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2008TCC156
+Date: 20080319
+Docket: 2006-2322(IT)G
+BETWEEN:
+TOM J. LOCKHART,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] This appeal is by Tom J. Lockhart from an assessment made under the Income Tax Act for his 1999 taxation year. By that assessment the Minister of National Revenue included $83,999 in the appellant’s income being the assumed value of 1,400,000 Class A shares of AVL Automatic Vehicle Location Systems Ltd. (“AVL”) issued to him by AVL for $1.00 consideration. The respondent’s position is that the value of these shares was income to the appellant from an office or employment under subsection 5(1) or paragraph 6(1)(a) of the Income Tax Act on the basis that they represented remuneration for past services to AVL.
+[2] Mr. Lockhart is a professional engineer. He raises essentially three issues. The first is whether the value of the shares is income at all. The second is whether he received the shares in 1999. The third is whether the value of $84,000 (less the $1.00 he paid to arrive at the amount in issue, $83,999) attributed to the shares was correct.
+[3] These are all justiciable issues. Mr. Lockhart, who was not represented by counsel, presented his case articulately and skilfully.
+[4] A clear and succinct summary of the events leading up to the assessment is contained in Mr. Lockhart’s notice of appeal. Paragraphs (c) and (d) of the notice of appeal read:
+c) Material facts :
+• In 1995, I was the sole owner and sole manager/employee of AVL Automatic Vehicle Location Systems Ltd. This was a start-up technology company, specializing in GPS tracking and reporting systems for vehicle fleets.
+• The company developed a business plan, describing its plans for growth and development, also setting out the required financing to achieve these goals. Financing was from friends and associates, through a series of share offerings. One of the stated goals was to grow the business to the point where it could become a public company.
+• The business operated at a loss during 1996, 1997, and the first half of 1998. The main activities during this period were business development, development of software (intellectual property), and customer trials. In order to keep the business alive during the later part of this start-up period, I worked for a much reduced level of compensation, and I also provided shareholder loan financing to the business.
+• In 1998, my ongoing business development activities began to produce positive results. Notable contracts achieved in 1998 were the City of Calgary, the British Army Training Unit in Suffield (Alberta), and Amtrak. As a result of these successes, the business was able to pursue its goal of becoming a public company.
+• Early in 1999, the company negotiated a deal with US Exploration. USX was a junior capital pool company, traded on the Alberta Stock Exchange. This was a reverse take-over, whereby AVL would acquire USX through a share exchange. On completion, the AVL shareholders would have majority control of the merged company and would have access to the remaining capital of USX (some $ 300,000) for further growth and development. This was subject to regulatory approval, and it was anticipated that the approval would have conditions attached, including escrowing most or all of the shares of the founder and senior manager.
+• In order to proceed with this deal, AVL had to get its financial house in order. Among the items was an award of additional shares to me for “services rendered”. The number of shares was calculated to be worth about $ 80,000, based on the most recent private offerings. My expectation at that time was that these shares would convert to USX shares and be placed in escrow. When they were eventually released from escrow, I would be able to trade them, subject to the maximum capital gains tax at that time.
+• Regulatory approval was granted and the deal was completed in October (?) 1999. As anticipated, the shares issued to me earlier in the year were placed in escrow (a performance based escrow). The new entity was named Triangulum Corporation. This business was under new management and I was not the controlling shareholder. My role was managing the original AVL business, which carried on as a business unit of Triangulum.
+• This was the beginning of the “dot.com” business era. Triangulum made and promoted plans to start new business units. There were several additional share offerings during 2000; however, the new business units were technically complex and costly to develop. None were successful in the time available, and by 2001 it was no longer possible for Triangulum to raise capital on the public markets.
+• In the second half of 2001, I initiated a management buy-out effort, to buy back the original business of AVL which had been carrying on with some success within Triangulum. This effort was ultimately unsuccessful, and in January 2002 I found myself unemployed. In May of 2002, Triangulum was placed in receivership. My escrowed shares were still in escrow at that time.
+• In 2003, I was the subject of a CCRA audit which determined that the shares of AVL which I received in 1999 should have been declared as income in 1999. In the period since then, there have been a series of meetings and reviews with CCRA. In these, I have been assisted by St. Louis and Associates Chartered Accountants and I have also had legal advice. None of this has changed the position of CCRA with respect to these escrowed shares.
+d) Issues to be decided :
+The payment I received for “services rendered” would not be considered to be income in any normal or business sense. The Oxford Pocket Dictionary of Current English defines income as “Periodical, esp. annual, receipts from one’s work, lands, investments”. It defines receipts as “Receive, accept delivery of, take into one’s hands or possession”. This was a payment I didn’t receive. At no point during the period described above did I have any opportunity to receive any form of value from these escrowed shares. To me, the situation is analogous to being paid with a non-negotiable cheque, or being paid with a promissory note which later becomes worthless. I question whether the provisions of the Income Tax Act should even apply.
+Within the Income Tax Act, there is the issue of whether this payment should be considered to be income, taxable at the time, or a potential taxable gain, to be taxed if and when realized. The Act states that an income can be received in the form of shares, and this includes escrowed shares. So far as I have been able to determine, it is silent on what happens if the escrowed shares cease to have value while they are still in escrow. Nor did I find any cases which addressed this particular situation. Considering this as a potential taxable gain, there are other types of securities which only have a value in the future and under certain conditions. Stock options are an example. The Act, Part 1 – 7.1.1, states that the taxation year is “the taxation year in which the employee disposed of or exchanged the securities”. This was noted as a change. The previous wording was “the taxation year in which the employee received the securities”.
+[5] The reassessment was based upon the following assumptions of fact:
+a) AVL was a Canadian controlled private corporation in taxation year 1998, and it became a public corporation in the taxation year 1999;
+b) In February of the 1999 taxation year, AVL entered into a commitment agreement with USX in which USX agreed to exchange all issued and outstanding shares of AVL for 4.6 million shares of USX;
+c) In May of the taxation year 1999, 1,400,000 Class A shares of AVL (“AVL shares”), of which the Appellant was a major shareholder, were issued to the Appellant for $1;
+d) The fair market value of the AVL shares, at the time, was $0.06 per share for a total amount of $83,999;
+e) The Appellant was the president and director of AVL at the time the AVL shares were issued to him;
+f) The AVL shares were issued to the Appellant as income for past services performed by the Appellant for AVL;
+g) The Appellant did not receive AVL shares pursuant to a stock option plan or a similar agreement whereby the Appellant attained a right or option that could be exercised in the future;
+h) In October of the 1999 taxation year, the AVL shares that were issued to the Appellant were exchanged for approximately 629,477 shares of USX (“USX shares”) and the USX shares were held in escrow on the realization of certain contingencies pursuant to an escrow agreement;
+i) In the November of the 1999 taxation year, Triangulum Corporation (which was formerly known as USX) announced the acquisition of all of the issued and outstanding shares of AVL;
+j) In approximately May of 2002, Triangulum Corporation ceased operations as it could not meet its debt requirements;
+k) At the time Triangulum Corporation ceased operations, the Appellant’s USX shares were still being held in escrow;
+l) The Appellant never received the USX shares nor a distribution of the liquidated assets;
+m) The Appellant’s USX shares were never disposed of to USX or at all.
+[6] I have great sympathy for Mr. Lockhart. If we look at the overall picture and consider all of the transactions that occurred in 1999 together, he was not enriched by one penny. However, on the evidence before me I do not see how I can do anything to extricate him from the situation he is in. In general I believe the economic reality and substance of a series of transactions should be considered in determining their fiscal consequences. Nonetheless one cannot completely ignore the format chosen by business persons to effect their commercial goals.
+[7] I propose to examine his case from several aspects:
+(a) Is it income?
+(b) Restriction on shares;
+(c) value; and
+(d) stock option.
+[8] The initial question is whether the shares of AVL which were issued to him on May 5, 1999 were income. They were said to be remuneration for past services taking into account the fact that he had worked for a number of years for little or no pay and some of the amounts paid to him in previous years were treated as loans to him by AVL.
+[9] I do not think that there can be any doubt that remuneration paid by an employer to an employee for past services is income from employment. It is certainly not a capital receipt or a windfall. Its value and the timing of its recognition as income are of course another matter. So far as timing is concerned income from employment is taxable when received and it must be recognized as income in the years in which the recipients’ right to it is absolute and subject to no restrictions on its unfettered use and enjoyment. If there are any restrictions on its use and enjoyment this could affect either the question of its value or the question of its quality of income.
+[10] The question then becomes: Were there any restrictions on the appellant’s use or enjoyment of the 1,400,000 Class A shares of AVL that were issued to him on May 5, 1999. Mr. Lockhart argues that they were put in escrow. This is not, strictly speaking, correct. They were exchanged for shares of USX that were put in escrow. This did not however happen until October 7, 1999. Mr. Lockhart argues that when the AVL shares were issued to him in May it was anticipated that they would be exchanged for escrowed shares. An anticipation, however well founded, that something may happen is not the same as a legal constraint.
+[11] This point arose in a decision of the Exchequer Court, reversed by the Supreme Court of Canada in Beament Estate v. M.N.R., 69 DTC 5016, reversed 70 DTC 6130. The question there was the value of the shares of a private company. The shares were subject to a contractual obligation to wind up the company. Jackett, P. said at page 5022:
+Here the deceased owned shares which, considered by themselves, carried control of the company and enabled the holder to continue indefinitely to obtain the income (after payment of preferred dividends) from a very large fund. The appellants have failed to show that such shares (considered as subjects of sale by themselves between a hypothetical purchaser and hypothetical vendor) had a value of less than the $110,000 attributed to them by the respondent. This is so, as it seems to me, even though, on the day of the death of the deceased, the particular owner (i.e., both the deceased and his estate) had an obligation to take certain steps as a result of which the shares would be converted into a cash amount of some $10,725.98. That is a result that did not flow from the nature of the property itself but from a contractual obligation assumed by a particular owner of the property. From the point of view of the scheme of the Estate Tax Act, such an obligation falls in the same class as debts and encumbrances — i.e. potential deductions — except that, for some reason that I do not understand, the statute does not permit deductions in respect of obligations of the deceased or his estate other than debts or encumbrances.
+I should not leave the matter without referring to Commissioners of Inland Revenue v. Crossman et al, (1937) A.C. 26, which occupied such a large part of the argument. If I properly appraise what was decided in that case, it can have no application to this case because that case dealt with a problem arising out of limitations on the rights of the shareholders that were carved out of the shares themselves by the statutory documents by which those shares were created, whereas here the shareholder had full rights, as far as his property rights flowing from ownership of the shares were concerned, to continue the company in existence or to cause it to be wound up and to sell all such rights to anybody else; but he had contracted a personal obligation to somebody else that he would cause the company to be wound up. If, in this case, there had been something in the constitution of the company whereby its winding up followed automatically upon the death of the holder of the Class "B" shares, I should have had no difficulty in holding that, on the day of the deceased's death, no person in a market situation, no matter how unrestricted the market, would have paid any more than $10,725.98 to acquire the shares in question.
+[12] The judgment of the Exchequer Court was reversed by the Supreme Court of Canada. The Chief Justice said at page 6133:
+Once it is established (and it has been conceded) that the contract binding the deceased and his executors to have the company wound-up was valid, the real value of the shares cannot be more than the amount which their holder would receive in the winding-up. To suggest that they have in fact any other value would be altogether unrealistic. Once it appears that on the death of the deceased the company had to be wound-up, the fair market value of the 2,000 shares must be the same whether that winding-up takes place under the compulsion of an enforceable contract or pursuant to a mandatory provision in the letters patent.
+[13] This case clearly establishes that the value of property can be affected by contractual obligations that are extraneous to, i.e. not inherent in, the property itself.
+[14] I do not, however, think this assists the appellant. There is nothing in the evidence that I observed that put any contractual restriction on the appellant’s right to deal with the AVL shares as he saw fit. This conclusion has a bearing in two ways. First, I do not think the anticipation that the AVL shares would be exchanged for escrowed shares of USX affected their value in May 1999. Second, I do not think it prevented their being income in the year in which they were issued to the appellant.
+[15] The third question is the value of the shares. Apart from the argument that it was anticipated that they would subsequently be exchanged for escrowed shares of USX, Mr. St-Louis, a chartered accountant and business valuator said that, in his view, $0.06 per share was high and that on a proper valuation the fact that the AVL had nothing but losses and had a large deficit in 1999 justified a valuation of nil. He did not file an expert witness report but the court is still entitled to hear argument on the value of the shares because we know exactly the basis of the Crown’s valuation. It was that the shares of AVL had been previously issued to the public at $0.06 per share. This is prima facie evidence of their fair market value.
+[16] Moreover, we have subsections 27(3) and (4) of the Alberta Business Corporation Act which reads:
+A share shall not be issued until the consideration for the share is fully paid in money or in property or past service that is not less in value than the fair equivalent of the money that the corporation would have received if the share had been issued for money.
+In determining whether property or past service is the fair equivalent of a money consideration, the directors may take into account reasonable charges and expenses of organization and reorganization and payments for property and past services reasonably expected to benefit the corporation.
+[17] I have to assume that the directors applied their minds to the fair value of the past services rendered by the appellant to AVL and concluded that 1,400,000 shares were the equivalent in value put on those services of $84,000.
+[18] Finally, I shall deal briefly with the argument that the issuance of the 1,400,000 shares of AVL was analogous to the issuance of stock options. The appellant’s belief that the issuance of shares with nominal or no value is in substance economically equivalent to issuing stock options to purchase shares at their value at the date of issuance of this option is understandable but it is not the same thing. Apart from section 7 of the Income Tax Act, the law is clear that the value of a stock option granted to an employee to acquire shares in the employer corporation is to be taxed when it is granted (Abbott v. Philbin, [1961] A.C. 352). Section 7 and paragraph 110(1)(d.1) of the Income Tax Act create an entirely different statutory regime under which the taxable benefit to the employee is recognized when the option is exercised. The tax treatment of stock options suggested by the appellant is, with respect, not analogous.
+[19] I have great sympathy for the appellant but I think the assessment is correct. I presume he will be entitled to a capital loss either on the exchange of the AVL shares for the escrowed shares of USX of when the USX shares became valueless, but I express no conclusion on this point.
+[20] The appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 19th day of March 2008.
+“D.G.H. Bowman”
+Bowman C.J.
+CITATION: 2008TCC156
+COURT FILE NO.: 2006-2322(IT)G
+STYLE OF CAUSE: TOM J. LOCKHART v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: March 10, 2008
+REASONS FOR JUDGMENT BY: The Honourable D.G.H. Bowman,
+Chief Justice
+DATE OF JUDGMENT &
+REASONS FOR JUDGMENT: March 19, 2008
+APPEARANCES:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Bryan Wigger
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,142 @@
+---
+title: "Ladora c. Ressources Humaines"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30561/index.do"
+last_modified: "2011-10-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 486"
+citation2: ""
+neutral_citation: "2011 CCI 486"
+decision_date: "2011-10-18"
+language: "fr"
+item_id: "30561"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7302
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:32:42.123000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "460b9db7c1ff5e78cec9701f43d6744ba082659ec5816993ecb9bb41667bf3aa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ladora c. Ressources Humaines
+
+- Citation: 2011 CCI 486
+- Decision date: 2011-10-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7302, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ladora c. Ressources Humaines
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-18
+Référence neutre
+2011 CCI 486
+Numéro de dossier
+2010-1858(OAS)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2010-1858(OAS)
+ENTRE :
+MARGUERITE LADORA,
+appelante,
+et
+LE MINISTRE DES RESSOURCES HUMAINES
+ET DU DÉVELOPPEMENT DES COMPÉTENCES,
+intimé.
+____________________________________________________________________
+Appel entendu le 15 août 2011, à Montréal (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Grégoire Cadieux
+____________________________________________________________________
+JUGEMENT
+Attendu que les parties acceptent que la décision rendue dans le dossier de Raymond Dupuis (2010-1844(OAS)) soit la même;
+L’appel de la décision rendue par le ministre des Ressources humaines et du Développement des compétences touchant la détermination du revenu aux fins du Supplément de revenu en vertu du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse, L.R. (1985), ch. O-9 est rejeté, et la décision est confirmée selon les motifs du jugement ci-joints ainsi que ceux dans le dossier Raymond Dupuis (2010‑1844(OAS)).
+Signé à Ottawa, Canada, ce 18e jour d'octobre 2011.
+« Alain Tardif »
+Juge Tardif
+Référence : 2011 CCI 486
+Date : 20111018
+Dossier : 2010-1858(OAS)
+ENTRE :
+MARGUERITE LADORA,
+appelante,
+et
+LE MINISTRE DES RESSOURCES HUMAINES
+ET DU DÉVELOPPEMENT DES COMPÉTENCES,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] L’appelante en appelle d’une décision du ministre des Ressources humaines et du Développement des compétences (le « ministre ») touchant la détermination du montant de Supplément de revenu mensuel garanti (le « supplément ») selon la Loi sur la sécurité de la vieillesse (« LSV »)[1].
+[2] La décision dont il est fait appel a été prise à partir des faits pris pour acquis aux sous-paragraphes suivants :
+a) L’appelante est prestataire d’une pension d’invalidité de la CSST depuis 1967;
+b) L’appelante reçoit des prestations de supplément de revenu garanti depuis 2003;
+c) Le formulaire intitulé « Demande de pension de la Sécurité de la vieillesse » reçu le 28 janvier 2003 tel que soumis par l’appelante;
+d) Les feuillets T5007 émis par la CSST au nom de l’appelante pour les années 2007 et 2008 indiquant à la case 10 le montant des prestations d’invalidité reçues par l’appelante devant être inclus à ses revenus et par conséquent considéré à cet effet aux fins du calcul de son SRG;
+e) La demande de l’appelante au ministre de ne pas tenir compte de ses prestations d’invalidité de la CSST aux fins du calcul de ses prestations de SRG.
+[3] Les paragraphes 1, 2, 4 à 13 et 14 fond état de l’historique, mais aussi du cheminement qui a précédé la décision à l’origine du présent appel. Je crois utile de reproduire les paragraphes en question :
+1. Quant à l’avis d’appel, il admet que les prestations mensuelles de supplément de revenu garanti (SRG) de l’appelante ont été diminuées à compter de juillet 2009.
+2. Il admet aussi que les prestations provenant d’une pension d’invalidité reçue par l’appelante et provenant de la Commission de la Santé et Sécurité du Travail du Québec (CSST) ont été considérées comme étant un revenu aux fins du calcul de ses prestations de supplément de revenu garanti à compter du mois de juillet 2009.
+4. L’appelante est devenue éligible aux prestations de sécurité de vieillesse et au supplément de revenu garanti au mois d’août 2003, soit le mois suivant son 65e anniversaire de naissance.
+5. Au cours de l’année d’imposition 2006, l’appelante a produit un relevé T5007 indiquant des revenus de CSST au montant de 0 $.
+6. Pour la période de paiement débutant en juillet 2006, le calcul de ses prestations de supplément de revenu garanti a ainsi été calculé en considérant qu’aucune somme n’avait été versée à l’appelante à titre de revenus de CSST »
+7. Au moment du renouvellement des paiements de supplément de revenu garanti pour la période débutant en juillet 2009, l’Agence du Revenu du Canada confirmait à l’intimé que les revenus des années d’imposition 2007 et 2008 de l’appelante incluaient des revenus de CSST de 5 617,00 $ pour 2007 et 5 730,00 $ pour 2008.
+8. Les revenus de CSST de l’appelante n’ayant jamais été considérés aux fins du calcul des prestations de l’appelante avaient généré un trop payé au montant de 2 808,00 $.
+9. Le 29 juillet 2009, l’intimé avisait l’appelante que ce trop payé à titre de supplément de revenu garanti pour la période de paiement de juillet 2008 à juin 2009 au montant de 2 808,00 $ ne lui serait jamais réclamé par ce que dû à une erreur administrative.
+10. Par contre, l’intimé avisait l’appelante que le calcul de ses prestations de supplément de revenu garanti de la période débutant en juillet 2009 incluait le montant de 5 730,00 $ versé à l’appelante par la CSST en 2008, conformément aux prescriptions de la Loi.
+11. L’appelante a demandé à l’intimé de reconsidérer cette décision le 4 décembre 2009.
+12. Le 8 décembre 2009, le ministre a maintenu sa décision du 29 juillet 2009.
+13. Le 29 décembre 2009, l’appelante a soumis son appel au Bureau du commissaire des tribunaux de révision.
+14. Le 2 juin 2010, l’appel a fait l’objet d’un renvoi à la Cour canadienne de l’impôt.
+[4] Au moment de l’audition, l’appelante était présente. Après avoir appris que la Cour avait été saisie d’un dossier où la question en litige était la même, l’appelante a accepté que la décision à être rendue dans cette affaire soit le dossier de Raymond Dupuis (2010‑1844(OAS)) soit la même pour sa cause.
+[5] Conséquemment, l’appel est rejeté puisqu’effectivement la décision à l’origine de l’appel est tout à fait bien fondée en vertu de la Loi, les parties s’étant entendues pour que la décision dans l’affaire Raymond Dupuis (2010-1844(OAS)), dont une copie est jointe au présent jugement, s’applique en l’espèce.
+Signé à Ottawa, Canada, ce 18e jour d'octobre 2011.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : CCI 2011
+Nº DU DOSSIER DE LA COUR : 2010-1858(OAS)
+INTITULÉ DE LA CAUSE : MARGUERITE LADORA ET M.R.H.D.C.C.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 15 août 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 18 octobre 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Grégoire Cadieux
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Loi sur la sécurité de la vieillesse, L.R.C. (1985), ch. O-9 à l’article 11.

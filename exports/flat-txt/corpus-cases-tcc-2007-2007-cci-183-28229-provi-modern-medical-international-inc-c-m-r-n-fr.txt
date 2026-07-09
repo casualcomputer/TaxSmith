@@ -1,0 +1,192 @@
+Title: Provi Modern Medical International Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28229/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-183-28229-provi-modern-medical-international-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-04-20
+
+# Provi Modern Medical International Inc. c. M.R.N.
+
+- Citation: 2007 CCI 183
+- Decision date: 2007-04-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2076, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Provi Modern Medical International Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-20
+Référence neutre
+2007 CCI 183
+Numéro de dossier
+2006-2681(EI)
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2006-2681(EI)
+ENTRE :
+PROVI MODERN MEDICAL INTERNATIONAL INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CÉLINE SENEZ,
+intervenante.
+____________________________________________________________________
+Appel entendu le 21 mars 2007, à Montréal (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentant pour l'appelante :
+Gérald Coss
+Représentante pour l'intimé :
+Isabelle Pipon
+(Stagiaire en droit)
+Pour l'intervenante :
+L'intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre du Revenu national en vertu de la Loi sur l'assurance‑emploi est confirmée, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2007CCI183
+Date : 20070420
+Dossier : 2006-2681(EI)
+ENTRE :
+PROVI MODERN MEDICAL INTERNATIONAL INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CÉLINE SENEZ,
+intervenante.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] L'appelante en appelle de la décision du ministre du Revenu national (le « Ministre »), voulant que madame Céline Senez ait exercé un emploi assurable chez l'appelante pour la période du 5 janvier 2004 au 13 décembre 2004.
+[2] L'intervenante intervient pour soutenir la décision du Ministre.
+[3] Les faits sur lesquels le Ministre s'est appuyé pour rendre sa décision sont décrits au paragraphe 5 de la Réponse à l'avis d'appel comme suit :
+a) l'appelante a été constituée en société le 31 août 1994;
+b) l'appelante exploitait une entreprise de ventes en gros et au détail de produits dentaires et médicaux destinés aux dentistes au Québec et en Ontario;
+c) l'appelante faisait affaires sous le nom et raison sociale « Denesca »;
+d) la travailleuse a été embauchée par l'appelante comme représentante;
+e) les tâches de la travailleuse consistaient à faire la promotion et la distribution des produits de l'appelante;
+f) le 1er décembre 2003, l'appelante et la travailleuse signaient un contrat;
+g) aux termes de ce contrat, la travailleuse devait respecter les prix fixés par l'appelante pour les fournitures et équipements;
+h) la travailleuse ne pouvait pas modifier les prix;
+i) les commandes prises par la travailleuse étaient sujettes à confirmation de la part de l'appelante;
+j) la travailleuse ne pouvait pas engager la responsabilité de l'appelante sans l'autorisation de celle-ci;
+k) aux termes de ce contrat, l'appelante avait délimité un territoire à la travailleuse, soit la Beauce, Victoriaville, Sherbrooke, Trois-Rivières et Québec;
+l) l'appelante avait fourni une liste de clients à la travailleuse;
+m) la travailleuse recevait ses directives de l'appelante;
+n) la travailleuse devait faire des rapports à l'appelante;
+o) la travailleuse devait assister à des réunions d'entraînement de l'appelante;
+p) selon les termes du contrat, la travailleuse ne pouvait pas travailler pour un concurrent de l'appelante;
+q) la rémunération de la travailleuse était établie au contrat;
+r) la travailleuse recevait une rémunération fixe de 2 840 $ par mois de janvier 2004 à juin 2004;
+s) à partir de juillet 2004, la travailleuse recevait une commission fixe de 9 % sur les ventes brutes de fournitures dentaires et de 5 à 6 % sur les ventes brutes d'équipement dentaire;
+t) la travailleuse recevait sa rémunération en deux versements égaux le 15 et le 30 du mois suivant les ventes;
+u) l'appelante fournissait les catalogues et les brochures à la travailleuse;
+v) la travailleuse fournissait son véhicule;
+w) l'appelante versait un montant de 450 $ par mois à la travailleuse pour l'utilisation de son véhicule;
+x) la travailleuse devait exécuter personnellement les tâches, elle ne pouvait pas embaucher un aide;
+y) la travailleuse n'avait aucun investissement avec l'appelante;
+z) la travailleuse n'avait aucun risque financier dans l'accomplissement de ses tâches;
+aa) les clients étaient les clients de l'appelante;
+bb) selon les termes du contrat, la travailleuse devait remettre à l'appelante, en cas de terminaison du travail, tous les documents, dossiers, notes, filières en sa possession;
+cc) les tâches de la travailleuse étaient bien intégrées aux activités de l'appelante;
+dd) selon les termes du contrat, la travailleuse était désignée travailleur autonome mais la travailleuse ne perçoit pas sa relation avec l'appelante de cette façon.
+[4] Les motifs de l'appel sont décrits à l'avis d'appel comme suit :
+À la date de l'embauche de Céline Senez nous avions conclu et signé une entente (contrat) de représentant autonome (voir contrat ci-joint et plus précisément l’article 1.5). Elle n’avait pas de bureau chez Provi Modern Medical International Inc. Elle avait sa liste de clients avant de se joindre à la compagnie. Ses clients étaient situés partout c’est-à-dire qu’elle demeurait dans la Beauce et elle avait des clients à Sherbrooke, Montréal, Laval, St-Georges de Beauce etc … Elle n’était pas obligée de participer à des réunions. Elle n’avait pas d’objectif de vente à atteindre. Nous ne lui fournissions pas d’équipement tel qu’un laptop. Elle voyait le nombre de clients qu’elle voulait et quand elle le voulait. Elle n’avait pas de restriction sur le nombre de semaines de vacances à prendre. Par exemple, 1 mois après la signature du contrat, elle est partie en vacances pour 2 semaines. Elle avait un autre travail autonome c’est-à-dire elle faisait de l’entraînement des chevaux. D’ailleurs cela est une des raisons pourquoi elle a décidé d’être un travailleur autonome. Nous lui donnions une commission sur ses ventes plus les taxes fédérales et provinciales.
+Il est important de noter que notre comptable (fiscaliste) M. Yves Toupin s’était informé des exigences nécessaires du Ministère du Revenu avant que l’on rédige ledit contrat (entente) avec Céline Senez.
+Il est important de noter qu’elle avait emprunté un fax de la compagnie car le sien était défectueux. Nous lui avions prêté pour un certain temps et ce n’était donc pas un équipement fourni par la compagnie.
+[5] Monsieur Gérald Coss, qui est le président de l'appelante, l'a représentée à l'audience. Il a été aussi le seul témoin.
+[6] Il a admis les alinéas 5 a) à c), 5 e) à i), 5 k), 5 p) à t), 5 v), 5 y) et 5 bb).
+[7] En ce qui concerne l'alinéa 5 d) il fait valoir que madame Senez a été embauchée comme travailleuse autonome. Il se réfère à cet égard à l'entente passée entre l'appelante et madame Senez en date du 1er décembre 2003. Cette entente a été produite comme pièce A-1. Il y est spécifié à l'article 1.5 que l'agent, soit madame Céline Senez, est un travailleur autonome.
+[8] Monsieur Coss a expliqué que madame Senez travaillait auparavant pour un compétiteur et qu'elle est arrivée avec sa propre liste de clients. Monsieur Coss a mentionné que madame Senez avait comme intérêt les chevaux et qu'elle souhaitait avoir la liberté de participer à des activités équestres comme elle le souhaitait. De plus, pour des raisons personnelles, elle avait décidé de vivre dans la Beauce. Selon monsieur Coss, c'est à la demande de madame Senez que l'entente de travailleur autonome a été rédigée car c'est le statut qu'elle souhaitait pour pouvoir librement participer à ses activités équestres, continuer d'utiliser sa liste de clients et travailler dans différentes régions.
+[9] En ce qui concerne l'alinéa 5 l) monsieur Coss indique que madame Senez avait déjà une liste de ses propres clients. L'appelante pouvait fournir à l'occasion certains noms de clients mais qu'habituellement c'était au représentant d'établir sa propre liste de clients en autant que ces clients ne soient pas déjà ceux d'un collègue de travail.
+[10] En ce qui concerne l'alinéa 5 m), monsieur Coss dit que le représentant est libre des moyens à utiliser.
+[11] En ce qui concerne l'alinéa 5 n), monsieur Coss dit qu'il communiquait avec madame Senez probablement une ou deux fois par semaine pour voir si tout allait bien. Il s'agissait de communications verbales et la travailleuse n'avait pas de rapports à faire. Les clients qui étaient contactés par le représentant communiquaient directement avec le bureau de l'appelante pour placer les commandes. C'est sur le montant de ces commandes que les commissions étaient payées au représentant qui avait vu et conseillé le client de l’appelante.
+[12] En ce qui concerne l'alinéa 5 o), monsieur Coss dit qu'il s'agissait de réunions organisées par les manufacturiers de produits. Le représentant avait donc intérêt, qu'il soit travailleur autonome ou employé, à assister à ces réunions.
+[13] En ce qui concerne l'alinéa 5 s), son énoncé est conforme à l'entente. Cependant, dans les faits, l'entente a été modifiée d'un commun accord pour prolonger de trois mois le mode de la rémunération mentionné au paragraphe 5 r) de la Réponse.
+[14] Les articles 2.6 et 2.7 de l'entente se lisent comme suit :
+2.6 Le Principal paiera un montant mensuel de $2,840.00 pour les mois de janvier 2004 à juin 2004. De plus, pour cette même période, le Principal paiera un montant de $450.00 par mois de façon à défrayer les frais opérationnels de son véhicule. Toutes autres dépenses requises pour l'exercice de ses fonctions seront à ses frais.
+2.7 Après le mois de juin 2004, le Principal paiera 9% sur les ventes brutes de fournitures dentaires (excluant un nombre limité de produits avec marges réduites, exemple les produits Kodak) et 5% et 6% sur les ventes brutes d'équipement dentaire, le tout excluant les taxes. consentie.
+[15] En ce qui concerne l'alinéa 5 u), les brochures provenaient des manufacturiers. Toutefois l'appelante publie un catalogue annuellement de l'inventaire des produits dentaires et médicaux destinés aux dentistes du Québec et de l'Ontario.
+[16] En ce qui concerne l'alinéa 5 w), ce montant a également été versé trois mois supplémentaires à ce qui avait été originellement prévu à l’entente.
+[17] En ce qui concerne l'alinéa 5 x), bien qu'il ait été nié, il n'y a pas eu de preuve au contraire de la part de monsieur Coss.
+[18] En ce qui concerne l'alinéa 5 z), monsieur Coss fait valoir qu'il y a un élément de risque pour le travailleur à commission.
+[19] En contre interrogatoire, monsieur Coss a mentionné que les représentants de son entreprise étaient maintenant des employés. Il n'a pas été clair lors de l'audience à savoir si au moment du recrutement de madame Senez les représentants fournissaient leurs services à titre de travailleur autonome ou d'employé. Monsieur Coss affirme encore que c'est à la demande de madame Senez qu'il y a eu une entente de travailleur autonome.
+[20] Madame Céline Senez a témoigné. Elle a expliqué qu'avant de commencer à travailler pour l'appelante elle était représentante, à titre d’employée, pour une société d’Ottawa agissant dans le même domaine. Elle souhaitait travailler comme employée mais monsieur Coss lui aurait mentionné que tous les représentants de son entreprise étaient des travailleurs autonomes. Comme elle souhaitait le statut d'un employé, cela explique pourquoi sa rémunération était fondée sur un montant fixe par semaine. Il est vrai qu'elle est amateur de chevaux mais cette activité, elle ne l'exerçait que dans ses temps libres. En fait, selon l'entente elle aurait dû commencer à être payée à commission à partir de juillet 2004, mais comme elle ne souhaitait pas cet état d’incertitude, monsieur Coss a accepté de prolonger l'entente, quant au mode de rémunération, de trois mois supplémentaires.
+[21] À une question de monsieur Coss, elle admet qu'elle n'a pas été forcée de signer l'entente, du moins physiquement mais, on lui avait mentionné qu'elle n'avait pas de choix. Si elle avait eu un choix, il aurait été celui d'être une employée.
+Analyse et conclusion
+[22] Dans le cas de représentants en commerce qui gèrent en quelque sorte leur horaire, qui n'ont pas de bureau dans les lieux d'affaires de l'entreprise pour laquelle ils agissent, la détermination à savoir si une personne agit comme employé ou comme travailleur autonome n'est pas clairement d'un côté ou de l'autre.
+[23] Ce sont des circonstances où l'intention des parties est importante. Je me réfère aux paragraphes 1 et 2 de la décision de la Cour d'appel fédérale dans D & J Driveway Inc. c. Canada (ministre du Revenu national – M.R.N.), 2003 CAF 453 comme suit :
+[1] Nous sommes encore une fois saisis de la difficile et élusive question de l'assurabilité d'un emploi. Comme c'est souvent le cas, elle se soulève dans un contexte où l'intention des parties n'est pas consignée par écrit et où cette dernière n'a pas été établie, ou n'a pas fait l'objet de recherche auprès des témoins, à l'audience devant la Cour canadienne de l'impôt.
+[2] Nous reconnaissons d'emblée que la stipulation des parties quant à la nature de leurs relations contractuelles n'est pas nécessairement déterminante et que la cour chargée d'examiner cette question peut en arriver à une détermination contraire sur la foi de la preuve qui lui est soumise : Dynamex Canada inc. c. Canada, [2003] 305 N.R. 295 (C.A.F.). Mais cette stipulation ou l'interrogatoire des parties sur la question peuvent s'avérer un instrument utile d'interprétation de la nature du contrat intervenu entre les participants.
+[24] Cette décision confirme l’importance de l’intention des parties dans les cas où les circonstances de travail n’établissent pas clairement la nature de la relation de travail. Cette décision confirme aussi que la stipulation des parties quant à la nature de leurs relations contractuelles n’est pas nécessairement déterminante et que la cour chargée d’examiner cette question peut arriver à une détermination différente selon la preuve qui est présentée.
+[25] Je me réfère au paragraphe 7 de la décision de la Cour d'appel fédérale dans 9041-6868 Québec Inc. c. Canada (Ministre du Revenu national – M.R.N.), [2005] A.C.F. no 1720 (Q.L.) comme suit :
+[7] Bref, c'est le Code Civil du Québec qui détermine les règles applicables à un contrat conclu au Québec. Ces règles se retrouvent notamment dans ces dispositions du Code qui traitent du contrat en général (art. 1377 C.c.Q. et suiv.), et dans celles qui traitent du « contrat de travail » (art. 2085 à 2097 C.c.Q.) et du « contrat d'entreprise ou de service » (art. 2098 à 2129 C.c.Q.). Les articles 1378, 1425, 1426, 2085, 2098 et 2099 C.c.Q. sont les plus pertinents pour les fins du présent dossier :
+1378 Le contrat est un accord de volonté, par lequel une ou plusieurs personnes s'obligent envers une ou plusieurs autres à exécuter une prestation.
+1425, Dans l'interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s'arrêter au sens littéral des termes utilisés.
+1426. On tient compte, dans l'interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l'interprétation que les parties lui ont déjà donnée ou qu'il peut avoir reçue, ainsi que des usages.
+1440. Le contrat n'a d'effet qu'entre les parties contractantes; il n'en a point quant aux tiers, excepté dans les cas prévus par la loi.
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[26] Je me réfère aux paragraphes 8 et 9 de la même décision qui enseignent que la Cour peut rechercher la relation contractuelle véritable des parties à partir de l’interprétation que les parties ont donné à l’entente, ou en d’autres termes, de la manière dont elle se sont comportées dans son accomplissement.
+[8] Il faut garder à l'esprit que le rôle du juge de la Cour canadienne de l'impôt est de vérifier dans les faits si les allégations sur lesquelles s'est appuyé le ministre sont bien fondées et, le cas échéant, si la véritable réalité contractuelle des parties en est une qui peut être qualifiée, en droit, de louage de services. Le litige devant la Cour canadienne de l'impôt n'est pas, à proprement parler, un litige de nature contractuelle opposant l'une à l'autre des parties à un contrat. C'est un litige de nature administrative qui oppose un tiers, en l'occurrence le ministre du Revenu national, à l'une ou l'autre des parties, même si l'une ou l'autre peut en définitive vouloir épouser les vues du ministre.
+[9] Le contrat sur lequel le ministre se fonde ou qu'une partie cherche à lui opposer est certes un fait juridique que le ministre ne peut ignorer même s'il ne produit pas d'effet à son égard (art. 1440 C.c.Q.; Baudouin et Jobin, Les Obligations, Éditions Yvon Blais 1998, 5e édition, p. 377). Cela n'empêche en rien le ministre, cependant, d'alléguer que dans les faits le contrat n'est pas tel qu'il parait être, qu'il n'a pas été exécuté selon ses termes ou qu'il ne reflète pas la véritable relation qui s'est établie entre les parties. Il est permis au ministre, et à la Cour canadienne de l'impôt après lui, de rechercher cette relation véritable, ainsi que le prévoient les articles 1425 et 1426 du Code Civil du Québec, dans la nature du contrat, dans les circonstances dans lesquelles il a été conclu, dans l'interprétation que les parties lui ont déjà donnée ou qu'il peut avoir reçue, ainsi que dans les usages. Et parmi ces circonstances dans lesquelles le contrat a été conclu se trouve l'intention légitime déclarée des parties, un facteur important retenu par cette Cour dans un bon nombre d'arrêts (voir Wolf c. Canada (C.A.), [2002] 4 C.F. 396, para. 119 et 122; A.G. Canada c. Les Productions Bibi et Zoé Inc., [2004] A.C.F. no 238, 2004 CAF 54; Le Livreur Plus Inc. c. M.R.N., [2004] A.C.F. no 267, 2004 CAF 68; Poulin c. Canada (M.R.N.), [2003] A.C.F. no 141, 2003 CAF 50; Tremblay c. Canada (M.R.N.), [2004] A.C.F. no 802 (Q.L.), 2004 CAF 175.
+[27] Je me réfère également au propos du juge Décary aux paragraphes 119 et 120 dans l'affaire Wolf c. Canada, [2002] A.C.F. no 375 (Q.L.) :
+[119] Les contribuables peuvent organiser leurs affaires de la façon légale qu'ils désirent. Personne n'a suggéré que M. Wolf ou Canadair ou Kirk-Mayer ne sont pas ce qu'ils disent être ou qu'ils ont arrangé leurs affaires de façon à tromper les autorités fiscales ou qui que ce soit. Lorsqu'un contrat est signé de bonne foi comme un contrat de service et qu'il est exécuté comme tel, l'intention commune des parties est claire et l'examen devrait s'arrêter là. Si ce n'était pas suffisant, il suffit d'ajouter qu'en l'espèce, les circonstances dans lesquelles le contrat a été formé, l'interprétation que lui ont donnée les parties et l'usage dans l'industrie aérospatiale conduisent tous à conclure que M. Wolf n'est pas dans une position de subordination et que Canadair n'est pas dans une position de contrôle. La « question centrale » a été définie par le juge Major dans l'affaire Sagaz comme étant : « si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte ». Il est clair, à mon avis, que M. Wolf a exécuté des services professionnels à titre de personne qui travaillait pour son propre compte.
+[120] De nos jours, quand un travailleur décide de garder sa liberté pour pouvoir signer un contrat et en sortir pratiquement quand il le veut, lorsque la personne qui l'embauche ne veut pas avoir de responsabilités envers un travailleur si ce n'est le prix de son travail et lorsque les conditions du contrat et son exécution reflètent cette intention, le contrat devrait en général être qualifié de contrat de service. Si l'on devait mentionner des facteurs particuliers, je nommerais le manque de sécurité d'emploi, le peu d'égard pour les prestations salariales, la liberté de choix et les questions de mobilité.
+[28] L’article 2085 du Code civil du Québec (le « Code civil ») définit ainsi un contrat de travail :
+Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[29] Le contrat d’entreprise est ainsi défini à l’article 2098 du Code civil :
+Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+[30] Dans la présente affaire, il y a une entente écrite qui prévoit que le travailleur est un travailleur autonome. Toutefois, un des signataires à l’entente, soit madame Senez, fait état que cette affirmation ne reflétait pas son intention et que la clause sur la rémunération ainsi que ses conditions de travail sont indicatives de son intention d’être liée par un contrat de travail.
+[31] Il y a donc deux versions différentes quant à l'intention du travailleur lors de la signature de l'entente.
+[32] Regardons l’entente. Elle prévoit que la travailleuse n'est pas payée à commission mais qu’elle sera payée à salaire pour les mois de janvier à juin et qu’un montant mensuel sera versé pour ses frais de voiture. Elle sera payée à commission à partir de juillet. Cependant, ce mode de rémunération, à la demande de la travailleuse, a été prolongé de trois autres mois.
+[33] Il me faut aussi prendre en considération, que tout en exerçant les mêmes activités, antérieurement, et après son travail auprès de l’appelante, elle avait le statut d’une employée.
+[34] Je suis d’avis que selon ces faits, soit le mode de rémunération auquel tenait l’appelante ainsi que son statut d’employée avant et après le travail en question, que la position de l'intervenante ou de la travailleuse quant à son intention est celle qui doit être privilégiée.
+[35] Il me faut maintenant examiner les relations de travail de l’intervenante pour déterminer s’il s’agit d’un contrat de travail ou d’entreprise. La rémunération par salaire n’est pas toujours indicative de l’état d’employé mais elle est sûrement indicative de l’absence de risques. La possibilité de risques est normalement une caractéristique du contrat d’entreprise. Ici, je ne vois pas de prise de risques.
+[36] L'appelante n'a pas produit l'entente type avec ses représentants à cette époque. En fait, aucun représentant de l’appelante n’est venu témoigner pour décrire la façon d’opérer de l’appelante. Il faut tout de même se rappeler que le représentant de l’appelante a mentionné au cours de l’audience, que les travailleurs de l’appelante, dans l’ensemble, étaient maintenant des employés.
+[37] Dans le cas d’un représentant en commerce, le représentant peut avoir la flexibilité d'organiser son propre horaire de travail mais un contrôle, qui a la caractéristique d’un lien de subordination, peut tout de même s'exercer par l’employeur. Ainsi les communications hebdomadaires ou bihebdomadaires avec le travailleur peuvent être des moyens de contrôle. Un contrôle peut également se fonder sur le montant des ventes et la satisfaction des clients.
+[38] Il n’y a pas eu de preuve très poussée quant au mode quotidien de travail de l’appelante. Toutefois, la preuve a montré que la travailleuse exécutait personnellement le travail convenu dans un cadre établi par l'appelante. Elle devait rendre compte de ses faits et gestes à l’appelante chaque semaine. Ces circonstances sont indicatives d’un contrôle de l’appelante sur la travailleuse qui est de la nature d’un lien de subordination.
+[39] En conclusion, comme je suis d’avis que l’intention de la travailleuse d’être une employée a été confirmée par les faits de cette affaire et que la preuve a révélé un contrôle de l’appelante sur la travailleuse de la nature d’un lien de subordination, la relation de travail entre l’appelante et l’intervenante était un contrat de travail et non d’entreprise.
+[40] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2007CCI183
+Nº DU DOSSIER DE LA COUR : 2006-2681(EI)
+INTITULÉ DE LA CAUSE : PROVI MODERN MEDICAL INTERNATIOANL INC. c. M.R.N. et CÉLINE SENEZ
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 21 mars 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 20 avril 2007
+COMPARUTIONS :
+Représentant de l'appelante :
+Gérald Coss
+Représentante de l'intimé :
+Isabelle Pipon
+(stagiaire en droit)
+Pour l'intervenante :
+L'intervenante elle-même
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenante :

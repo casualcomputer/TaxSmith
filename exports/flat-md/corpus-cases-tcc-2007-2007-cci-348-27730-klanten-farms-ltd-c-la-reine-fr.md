@@ -1,0 +1,209 @@
+---
+title: "Klanten Farms Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27730/index.do"
+last_modified: "2007-06-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 348"
+citation2: ""
+neutral_citation: "2007 CCI 348"
+decision_date: "2007-06-15"
+language: "fr"
+item_id: "27730"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 481
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:34:37.691000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4c3d4c24c863457fb67f99ecd776a310b3d083b13de8d5b8bd05c2a184138c85"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Klanten Farms Ltd. c. La Reine
+
+- Citation: 2007 CCI 348
+- Decision date: 2007-06-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 481, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Klanten Farms Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-15
+Référence neutre
+2007 CCI 348
+Numéro de dossier
+2004-4347(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4347(IT)G
+ENTRE :
+KLANTEN FARMS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 22 septembre 2006, à Edmonton (Alberta).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Avocat de l’appelante :
+Me James Yaskowich
+Avocate de l’intimée :
+Me Margaret McCabe
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est rejeté avec dépens, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 15e jour de juin 2007.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 29 jour de février 2008.
+D. Laberge, LL.L.
+Référence : 2007CCI348
+Date : 20070615
+Dossier : 2004-4347(IT)G
+ENTRE :
+KLANTEN FARMS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Il s’agit d’un appel d’une nouvelle cotisation établie à l’égard de l’année d’imposition 2000 de l’appelante, par laquelle le ministre du Revenu national a inclus dans le revenu de l’appelante un gain en capital imposable de 563 755 $ tiré de la disposition de certaines terres agricoles, à Bowden (Alberta).
+[2] L’appelante n’a pas déclaré de gain tiré de la disposition parce qu’elle affirme avoir acquis certains biens de remplacement et qu’elle avait donc le droit de reporter le gain conformément à l’article 44 de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (la « Loi »).
+[3] L’article 44 de la Loi permet au contribuable de reporter le gain en capital réalisé lors de la disposition de certaines immobilisations si un « bien de remplacement » est acquis au cours d’une période donnée. Afin d’obtenir le report, le contribuable doit faire ce choix dans sa déclaration de revenus pour l’année au cours de laquelle il a acquis le bien de remplacement.
+[4] La première question soulevée dans le présent appel est de savoir si le bien acquis par l’appelante près de Smokey River (Alberta) en l’an 2000 est admissible à titre de « bien de remplacement » au sens du paragraphe 44(5) de la Loi. Dans l’affirmative, il faut ensuite décider si l’appelante a choisi, à juste titre, en vertu du paragraphe 44(1) de la Loi, de traiter le bien, à Smokey River, à titre de bien de remplacement.
+Dispositions applicables de la Loi
+[5] Les passages pertinents de l’article 44 sont rédigés comme suit :
+44(1) Échanges de biens – Lorsque, au cours d’une année d’imposition (appelée « année initiale » au présent paragraphe), une somme est devenue un montant à recevoir par un contribuable à titre de produit de disposition d’une immobilisation qui n’est pas une action du capital‑actions d’une société (l’immobilisation étant appelée « ancien bien » au présent article), mais qui est :
+a) soit un bien dont le produit de disposition est visé aux alinéas b), c) ou d) de la définition de « produit de disposition » au paragraphe 13(21) ou aux alinéas b), c) ou d) de la définition de « produit de disposition » à l’article 54;
+b) soit un bien qui était immédiatement avant qu’il en soit disposé, un ancien bien d’entreprise du contribuable,
+et lorsque le contribuable a acquis :
+c) si l’ancien bien est visé à l’alinéa a), avant la fin de la deuxième année d’imposition suivant l’année initiale;
+d) dans les autres cas, avant la fin de la première année d’imposition suivant l’année initiale,
+une immobilisation en remplacement de son ancien bien, et qu’il n’en a pas disposé avant le moment où il a disposé de son ancien bien, le contribuable peut, malgré le paragraphe 40(1), faire un choix dans sa déclaration de revenu produite pour l’année au cours de laquelle il a acquis le bien de remplacement, pour que les présomptions suivantes s’appliquent :
+e) le gain, pour une année d’imposition donnée, tiré de la disposition de son ancien bien, est réputé être [...]
+44(5) Bien de remplacement -- Pour l’application du présent article, une immobilisation d’un contribuable est un bien servant de remplacement à un ancien bien dont il était propriétaire si les conditions suivantes sont réunies :
+a) il est raisonnable de conclure qu’il l’a acquise en remplacement de l’ancien bien;
+a.1) elle a été acquise par lui et est utilisée par lui, ou par une personne qui lui est liée, pour un usage identique ou semblable à celui qu’il a fait de l’ancien bien ou qu’une telle personne en a fait;
+b) dans le cas où le contribuable ou une personne qui lui est liée utilisait l’ancien bien en vue de tirer un revenu d’une entreprise, l’immobilisation a été acquise en vue de tirer un revenu de cette entreprise ou d’une entreprise semblable ou pour qu’une personne liée au contribuable l’utilise à cette fin;
+c) si l’ancien bien était un bien canadien imposable, l’immobilisation en est un;
+d) si l’ancien bien était un bien canadien imposable (sauf un bien protégé par traité), l’immobilisation en est un (sauf un bien protégé par traité).
+Les faits
+[6] Les parties ont déposé un exposé conjoint des faits dont les passages pertinents sont rédigés comme suit :
+[traduction]
+EXPOSÉ CONJOINT DES FAITS
+1. Avant le mois d’avril 2000, l’appelante possédait et exploitait une entreprise agricole sur onze quarts de section de terres agricoles près de Bowden (Alberta) (les « terres agricoles de Bowden »).
+2. Les terres agricoles de Bowden servaient exclusivement à l’agriculture.
+3. Au mois de mai 2000 ou vers le mois de mai 2000, l’appelante a vendu près de six quarts de section des terres agricoles de Bowden (l’« ancien bien »).
+4. Le produit de la disposition tiré de la vente de l’ancien bien s’élevait à 2 124 632 $.
+5. Le coût en capital de l’ancien bien était de 1 279 000 $.
+6. Au mois de novembre 2000 ou vers le mois de novembre 2000, Willie et Lisa Klanten (les « Klanten ») ont conclu une entente en vue de transférer à l’appelante un quart de section de terres agricoles dans la région de Bowden.
+7. Les Klanten ont par la suite transféré le quart de section que l’appelante avait acheté des Klanten.
+8. L’appelante a payé 330 000 $ pour le quart de section qu’elle a acheté des Klanten.
+9. Le quart de section que l’appelante a acheté des Klanten était admissible à titre de bien servant de remplacement à l’ancien bien.
+10. Le produit de la disposition de l’ancien bien excédait d’un montant de 1 794 632 $ le coût du fonds de terre que l’appelante avait acheté des Klanten.
+11. Après avoir acheté le quart de section des Klanten, l’appelante a exploité une entreprise agricole sur six quarts de section dans la région de Bowden.
+12. À l’automne 2000, l’appelante a acheté toutes les actions émises et en circulation de 859374 Alberta Ltd.
+13. La société 859374 Alberta Ltd. possédait 43 quarts de section près de la ville de Falher (Alberta) et près de la Smokey River, en Alberta (le « bien de Smokey River »).
+14. Au mois de décembre 2000 ou vers le mois décembre 2000, 859374 Alberta Ltd. a été liquidée.
+15. Le coût en capital du bien de Smokey River, pour l’appelante, au moment de la liquidation était d’environ 1 900 844,11 $.
+16. Pendant la période pertinente, la totalité du bien de Smokey River était louée à des tiers (les « locataires »).
+17. L’appelante a été mise au courant de la tenure à bail avant d’acheter les actions de 859374 Alberta Ltd.
+18. Les locataires n’étaient pas liés à l’appelante ni à son actionnaire.
+19. À l’exception d’un bail, les baux des locataires ont pris fin le 31 décembre 2002, mais la tenure à bail afférente au bien de Smokey River a continué à s’appliquer jusqu’au 31 décembre 2001.
+20. L’appelante a reçu un loyer en espèces, plutôt qu’un loyer fondé sur la participation à la production.
+21. L’appelante exploitait principalement une entreprise de culture de céréales.
+[7] À l’exposé conjoint des faits s’ajoutait le témoignage présenté à l’audience par M. Willie Klanten, unique actionnaire de l’appelante. M. Klanten a déclaré que l’appelante avait acquis le bien de Smokey River afin de [traduction] « conserver la base de terres » après la vente du bien de Bowden. L’appelante voulait conserver suffisamment de terres pour permettre à M. Klanten et à son épouse ainsi qu’à leurs deux fils et à leurs familles éventuelles de gagner leur vie au moyen de l’agriculture. M. Klanten croyait que le bien que l’appelante possédait encore à Bowden après la vente des parcelles en question était suffisamment étendu pour assurer son gagne‑pain ainsi que celui de son épouse. À ce moment‑là, en l’an 2000, les fils de M. Klanten étaient âgés de 18 et de 12 ans.
+Première question : Le bien de Smokey River était‑il un « bien de remplacement »?
+Position des parties
+[8] L’intimée affirme que le bien de Smokey River ne satisfait pas aux exigences énoncées à l’alinéa 44(5)a.1) parce que ni l’appelante ni une personne qui lui était liée n’utilisait le bien pour un usage identique ou semblable à celui que le contribuable ou une telle personne en faisait.
+[9] L’intimée affirme que l’appelante utilisait uniquement le bien de Smokey River en vue de gagner un revenu de location, alors qu’elle utilisait le bien de Bowden en vue de cultiver la terre dans le cadre de son entreprise agricole.
+[10] L’avocate a également soutenu que, même si l’appelante avait l’intention d’utiliser plus tard le bien de Smokey River à des fins agricoles, un usage futur envisagé n’est pas un usage au sens de l’alinéa 44(5)a.1) de la Loi. L’avocate a invoqué la décision rendue par la Cour dans l’affaire Glaxo Wellcome Inc. v. H.M.Q., 1996 CarswellNat 853 (C.C.I.), confirmée par la Cour d’appel fédérale, 1998 CarswellNat 1928, [1999] 4 C.T.C. 371 (C.A.F.). Il s’agissait de savoir si le contribuable avait utilisé dans son entreprise certains terrains non bâtis dont il avait disposé, de façon que ces terrains soient admissibles à titre d’« ancien bien d’entreprise », de sorte qu’il avait droit à un report en vertu de l’article 44.
+[11] Dans cette affaire, l’ancien bien avait été acquis et conservé pour un usage futur dans l’entreprise du contribuable. La Cour a conclu que la propriété n’était pas utilisée par le contribuable, en disant qu’elle « était destinée à être utilisée, elle attendait d’être utilisée, mais en réalité elle n’était pas utilisée ».
+[12] L’avocate de l’intimée affirme également qu’étant donné que les exigences énoncées aux alinéas 44(5)a) à d) sont de nature conjonctive et puisque le bien de Smokey River ne satisfait pas aux exigences de l’alinéa 44(5)a.1), le bien ne peut pas être admissible à titre de bien de remplacement.
+[13] L’avocat de l’appelante affirme que l’alinéa 44(5)a.1) ne s’applique pas en l’espèce parce que l’appelante a volontairement disposé du bien de Bowden. Selon l’appelante, l’alinéa 44(5)a.1) s’applique uniquement aux biens acquis en vue de remplacer le bien qui faisait l’objet d’une disposition involontaire, alors que l’alinéa 44(5)b) s’applique au bien acquis en vue de remplacer l’ancien bien d’entreprise dont le contribuable dispose volontairement.
+[14] La distinction que l’avocat de l’appelante fait entre les dispositions volontaires et les dispositions involontaires est fondée sur le paragraphe 44(1) de la Loi. Cette disposition permet le report d’un gain découlant de la disposition involontaire d’une immobilisation appartenant au contribuable si un bien de remplacement est acquis dans un délai de deux ans[1]. Les dispositions involontaires englobent les dispositions causées par l’expropriation, la destruction ou la perte d’un bien. Dans le cas de dispositions volontaires d’un « ancien bien d’entreprise », le contribuable doit acquérir un bien de remplacement dans un délai d’un an[2]. Un « ancien bien d’entreprise » est, d’une façon générale, un bien immeuble qui était une immobilisation appartenant au contribuable et utilisée par le contribuable en vue de tirer un revenu d’une entreprise[3].
+[15] L’avocat de l’appelante soutient qu’une dichotomie similaire entre les dispositions volontaires et les dispositions involontaires est également présente au paragraphe 44(5). L’avocat affirme que le paragraphe 44(5) prévoit implicitement que l’alinéa a.1) ne s’applique pas lorsqu’il y a eu disposition involontaire du bien qui est remplacé. Il affirme que l’alinéa 44(5)a.1) a initialement été adopté ((en tant qu’alinéa 44(5)a)) en vue de correspondre aux dispositions involontaires d’une immobilisation, alors que l’alinéa 44(5)b) a été adopté en vue de correspondre aux dispositions volontaires d’anciens biens d’entreprise. L’avocat affirme que cette distinction a été maintenue lorsque les modifications ultérieures par lesquelles l’alinéa 44(5)a) est devenu l’alinéa 44(5)a.1) ont été effectuées et que cette disposition devrait encore être interprétée comme correspondant uniquement aux dispositions involontaires d’immobilisations.
+[16] Subsidiairement, l’avocat de l’appelante soutient que l’appelante remplit les conditions énoncées à l’alinéa 44(5)a.1) parce qu’elle a conservé le bien de Smokey River en tant que partie intégrante de sa base de terrains sur laquelle son entreprise pourrait être exploitée. Étant donné que le bien de Bowden avait également été détenu en tant que partie intégrante de sa base de terrains, l’appelante affirme qu’elle faisait le même usage des deux biens. L’avocat a qualifié cet usage [traduction] d’« usage plus général » des deux biens. L’avocat a affirmé que la Loi exigeait uniquement qu’un seul des usages qui étaient faits de l’ancien bien et du bien de remplacement coïncide et qu’il n’est pas nécessaire que l’usage principal des deux biens soit identique ou similaire. Par conséquent, le fait que l’usage principal que l’appelante faisait du bien de Smokey River visait à permettre à celle‑ci de gagner un revenu de location n’était pas déterminant pour ce qui est de l’application de l’article 44.
+[17] L’avocat a invoqué l’affaire Depaoli v. The Queen, 96 DTC 1820, [2000] 1 C.T.C. 6, dans laquelle le contribuable cherchait à reporter, en vertu de l’article 44, le gain résultant de l’expropriation d’un terrain qu’il avait acquis comme emplacement futur de sa résidence et d’une entreprise agricole. Il s’agissait de savoir si les deux nouveaux biens acquis par le contribuable étaient des biens de remplacement au sens du paragraphe 44(5). L’intimée avait soutenu qu’étant donné que l’ancien bien n’avait pas été utilisé par le contribuable, les nouveaux biens n’avaient pas été acquis pour un usage identique ou similaire. Le contribuable avait affirmé avoir utilisé l’ancien bien en tant que terre agricole en permettant à d’autres agriculteurs de le cultiver, et que le même usage était fait des deux nouveaux biens. La Cour était d’accord avec le contribuable et elle a conclu que les nouveaux biens étaient des biens de remplacement.
+[18] L’avocat de l’appelante a soutenu que, dans l’affaire Depaoli, même si l’usage précis de la terre se rapportait à la culture et aux récoltes, l’usage plus général, et l’usage que la Cour avait accepté, consistait à garder la terre en jachère tant qu’un usage futur quelconque n’en serait pas fait. L’avocat a affirmé que cet usage plus général était analogue à l’usage plus général que l’appelante faisait du bien de Smokey River, à savoir conserver une base de terrains lui permettant de continuer plus tard à exploiter avec succès une entreprise agricole.
+[19] L’avocat a également invoqué la décision Newcastle City Council v. Royal Newcastle Hospital, [1959] A.C. 248 (N.S.W.P.C.), dans laquelle il a été conclu qu’un terrain qu’un hôpital avait acquis pour que les patients bénéficient d’air frais et d’un environnement paisible, le terrain servant de zone tampon entre l’hôpital d’une part et les maisons et usines environnantes d’autre part, ainsi qu’en vue de permettre l’expansion éventuelle de l’hôpital, était [traduction] « utilisé » par l’hôpital à ces fins.
+Analyse
+[20] En ce qui concerne le premier argument de l’appelante, je ne puis constater aucun fondement à l’appui de la thèse selon laquelle le législateur voulait que l’alinéa 44(5)a.1) s’applique uniquement aux biens acquis pour remplacer des biens ayant fait l’objet d’une disposition involontaire.
+[21] Le libellé du paragraphe 44(5) est clair et non ambigu et il n’impose aucune restriction à l’application de l’alinéa 44(5)a.1) quant aux dispositions involontaires ou à l’application de l’alinéa 44(5)b) quant aux dispositions volontaires.
+[22] En outre, l’emploi du mot « and » à la fin de la version anglaise de l’alinéa 44(1)c) indique que les alinéas 44(5)a) à d) s’appliquent d’une façon conjonctive. Un bien doit donc remplir toutes les conditions pertinentes énoncées au paragraphe 44(5) afin d’être admissible à titre de bien de remplacement, et ce, peu importe que l’acquisition du bien de remplacement soit précédée d’une disposition involontaire ou d’une disposition volontaire.
+[23] De plus, l’argument de l’appelante selon lequel, avant d’être modifié, le paragraphe 44(5) établissait une distinction entre les dispositions volontaires et les dispositions involontaires est selon moi dénué de fondement.
+[24] Le paragraphe 44(5), tel qu’il a initialement été adopté, était rédigé comme suit :
+44(5) Aux fins du présent article, un bien en immobilisations donné d’un contribuable est un bien servant de remplacement à un ancien bien qu’il possédait :
+a) s’il l’a acquis pour le même usage qu’il a fait de l’ancien bien;
+b) lorsqu’il utilisait l’ancien bien dans le but de tirer un revenu d’une entreprise ou de lui faire produire un revenu, si le bien en immobilisations donné a été acquis dans le but de tirer un revenu de cette entreprise ou de lui faire produire un revenu; et
+c) lorsque le contribuable ne résidait pas au Canada à la date où il a acquis le bien en immobilisations donné, si en plus de répondre aux conditions énoncées aux alinéas a) et b), ledit bien était un bien canadien imposable[4].
+[25] Comme on peut le constater, cette version du paragraphe 44(5), comme la version actuelle, ne renferme rien qui permette de conclure que l’alinéa 44(5)a.1) s’appliquait uniquement aux dispositions involontaires ou que l’alinéa 44(5)b) s’appliquait uniquement aux dispositions volontaires.
+[26] Si le législateur avait voulu établir un lien entre les anciens alinéas 44(5)a) et b) (ou, en fait, entre les alinéas 44(5)a.1) et b) actuels) et certains types particuliers de dispositions, il aurait employé un libellé en ce sens, tel que celui qu’il a employé aux alinéas 44(1)c) et d). En vertu de ces deux dernières dispositions, le délai prévu aux fins de l’acquisition d’un bien de remplacement dépend expressément du fait que la disposition était volontaire ou qu’elle était involontaire. Aucun libellé comparable n’est employé au paragraphe 44(5).
+[27] Le second argument de l’appelante, à savoir qu’elle utilisait le bien de Smokey River pour un usage identique ou semblable à celui qu’elle faisait du bien de Bowden, ne peut pas non plus être retenu. Selon le paragraphe 2 de l’exposé conjoint des faits, l’appelante utilisait le bien de Bowden exclusivement à des fins agricoles. Rien ne montre que l’appelante ou quelque personne liée à l’appelante utilisait le bien de Smokey River à des fins agricoles. Par conséquent, même si la [traduction] « conservation d’une base de terrains » pouvait être considérée comme un usage du bien au sens de l’alinéa 44(5)a.1), comme l’affirme l’appelante, cet usage du bien de Smokey River n’aurait pas été identique ou semblable à quelque usage que l’appelante faisait du bien de Bowden.
+[28] Quoi qu’il en soit, je ne crois pas que la [traduction] « conservation d’une base de terres » soit un usage tel que celui qui est envisagé à l’alinéa 44(5)a.1) de la Loi. La conservation d’une base de terres en l’espèce correspond à la possession du bien que M. Klanten et ses fils devaient cultiver plus tard.
+[29] À mon avis, l’« usage », à l’alinéa 44(5)a.1), n’englobe pas la détention en vue d’un usage futur. Telle était la conclusion tirée par la Cour dans la décision Glaxo à l’égard du mot « utilisé » figurant dans la définition de l’expression « ancien bien d’entreprise » au paragraphe 248(1) de la Loi. Je conclus que l’analyse qui a été faite sur ce point dans cette décision‑là s’applique également dans ce cas‑ci. En particulier, le juge Bowman (maintenant juge en chef) a fait une distinction d’avec la décision Newcastle City Council v. Royal Newscastle Hospital, pour le motif que l’usage du terrain non bâti, visant à assurer de l’air frais et un environnement paisible, était un usage courant, usage qui a été opposé à l’usage futur du terrain que le contribuable envisageait dans l’affaire Glaxo.
+[30] Dans la décision Depaoli, la Cour a reconnu que les activités du contribuable constituaient un usage courant de sa part du bien en cause et, par conséquent, pour l’application du paragraphe 44(5), elle a appliqué le même critère que dans la décision Glaxo. La conservation du bien en tant que terre agricole dans l’affaire Depaoli exigeait un certain niveau d’activité sur le terrain, ce qui constituait l’usage courant. Par contre, [traduction] « la conservation d’une base de terrains » dans ce cas‑ci ne comportait pas d’activité ou d’usage courant du terrain par l’appelante. Il s’agissait simplement de la conservation passive du terrain.
+[31] Pour les motifs susmentionnés, je conclus que le bien de Smokey River n’était pas un bien de remplacement au sens du paragraphe 44(5) de la Loi.
+Seconde question : Choix exercé en vertu du paragraphe 44(1)
+[32] Compte tenu de la conclusion susmentionnée, l’appelante ne pouvait pas considérer le bien de Smokey River comme un bien de remplacement, et je n’ai donc pas à me demander si l’appelante a choisi, à juste titre, en vertu du paragraphe 44(1), de reporter le gain tiré de la disposition du bien de Bowden.
+[33] Par conséquent, l’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 15e jour de juin 2007.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 29 jour de février 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2007CCI348
+No DU DOSSIER DE LA COUR : 2004-4347(IT)G
+INTITULÉ : KLANTEN FARMS LTD.
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 22 septembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 15 juin 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Me James Yaskowich
+Avocate de l’intimée :
+Me Margaret McCabe
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : James Yaskowich
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Conformément aux alinéas 44(1)a) et c).
+[2] Conformément aux alinéas 44(1)b) et d).
+[3] Selon la définition figurant au paragraphe 248(1).
+[4] Ajouté par 1977-78, ch. 1, par. 18(1) applicable aux dispositions de biens postérieures au 31 mars 1977.

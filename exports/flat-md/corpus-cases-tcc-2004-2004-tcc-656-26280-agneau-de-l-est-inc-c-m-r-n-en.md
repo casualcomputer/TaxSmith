@@ -1,0 +1,186 @@
+---
+title: "Agneau de l'Est Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26280/index.do"
+last_modified: "2004-10-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 656"
+citation2: ""
+neutral_citation: "2004 TCC 656"
+decision_date: "2004-10-13"
+language: "en"
+item_id: "26280"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4011
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:56:11.801000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "513f7bc29500a8d70d62ffc89bac00330c38c0d6fcd867a11a028e6487857f44"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Agneau de l'Est Inc. c. M.R.N.
+
+- Citation: 2004 TCC 656
+- Decision date: 2004-10-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4011, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Agneau de l'Est Inc. c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-13
+Neutral citation
+2004 TCC 656
+File numbers
+2003-2232(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-2232(EI)
+BETWEEN:
+AGNEAU DE L'EST INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on July 13, 2004, at Matane, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Gaétan Gauthier
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is upheld based on the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of October, 2004.
+"François Angers"
+Angers, J.
+Translation certified true
+on this 20th day of January 2005.
+Wendy Blagdon, Translator
+Citation: 2004TCC656
+Date: 20041013
+Docket: 2003-2232(EI)
+BETWEEN:
+AGNEAU DE L'EST INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers, J.
+[1] This is an appeal of a decision the Minister of National Revenue (the "Minister") rendered on April 16, 2003, to the effect that the employment of Mr. Claude Barrette with the Appellant was insurable employment from January 1 to October 18, 2002 because it met the conditions of a contract of employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (the "Act"). The Minister based the decision on the following presumptions of fact, which were accepted or denied as indicated:
+a) the Appellant, a corporation incorporated on February 14, 2001, acts primarily as a lamb marketing agency with sheep producers; [accepted]
+b) the Appellant delivers meat processed at the slaughterhouse to its various customers located primarily in Quebec City and Montreal; [accepted]
+c) the Appellant's sole shareholder and director is Marielle C. Deschênes; [accepted]
+d) the Appellant's business hours are mainly from 9:00 a.m. to 5:00 p.m., from Monday to Friday; [accepted]
+e) the Appellant hired the worker as a truck driver on or about March 26, 2001; [accepted]
+f) there is no written contract of employment between the parties; [accepted]
+g) the worker's duties involved travelling to the Luceville slaughterhouse, loading the truck and delivering the goods to the Appellant's various customers; [accepted]
+h) when the worker was hired, he held only a temporary drivers' license. He therefore had to be accompanied by another driver to carry out his duties; [accepted]
+i) the worker used the Appellant's only refrigerator truck and it had a 3-tonne capacity; [accepted]
+j) the Appellant paid the gas, insurance and maintenance costs for its truck; [accepted]
+k) the Appellant was responsible for providing the worker with a rented truck if its truck broke down; [accepted]
+l) the Appellant provided the worker with a Petro Canada credit card and a debit card to enable the worker to purchase diesel and make withdrawals when required for minor repairs; [accepted]
+m) the Appellant provided the worker with a cellular telephone and a small tool kit; [accepted]
+n) the Appellant based the worker's itinerary on orders from its customers; [denied as written]
+o) after each trip, the worker had to provide the Appellant with a record of his travel, a logbook, and the delivery slips signed by customers; [denied as written]
+p) the worker was not required to work a fixed number of hours every week. The number of hours varied depending on the destinations the Appellant assigned; [denied as written]
+q) when customers refused goods, the worker contacted the Appellant for instructions; [denied]
+r) the worker was paid a lump sum every week; his remuneration varied depending on the destination and was $240 for a return trip to Montreal and $120 for a return trip to Quebec City; [denied as written]
+s) the Appellant occasionally paid the worker a bonus to thank him when there was a heavy workload; [denied as written]
+t) the worker paid hotel and meal expenses; [accepted]
+u) starting in June or July 2002, further to an agreement the Appellant entered into with the Potager du Fleuve de Pointe-aux-Pères, the latter added a vegetable delivery contract to the worker's itinerary; [denied as written]
+v) if he was absent, the worker was personally unable to hire someone else to replace him; [denied]
+w) the Appellant paid the worker's wage loss insurance premiums [denied] and those for the truck's contents; [accepted]
+x) during his last week of employment, the worker agreed to train a new driver for the Appellant's benefit;
+y) the worker filed a complaint with the Commission des Normes du Travail [labour standards commission], claiming, among other things, his notice, statutory holidays and vacation; [accepted]
+[2] Agneau de l'Est Inc. acts as a lamb marketing agency with sheep producers, and to this end, it delivers animals from the slaughterhouse in Luceville, Quebec, to its customers in Quebec City and Montreal. The Appellant hired Mr. Claude Barrette as a driver on March 26, 2001. The period at issue is between January 1 and October 18, 2002.
+[3] The Appellant has no salaried employees. Ms. Marielle Deschênes, the Appellant's sole shareholder, met with Mr. Barrette twice before hiring him. She allegedly told him that she wanted to hire him as a self-employed worker and that he had to pay his travelling expenses, such as meals and lodging. She explained that he would not receive vacation pay and that he would not be covered by the CSST [Quebec worker's compensation commission].
+[4] He was paid a set rate of $120 for a trip to Quebec City and $240 for a trip to Montreal.
+[5] The Appellant provided the truck and paid truck-related expenses, such as gas, maintenance, repair, and insurance on the truck and its contents. The Appellant provided Mr. Barrette with truck unloading equipment and a cellular telephone, as well as a credit card for purchasing gas and a debit card for paying for certain repairs and making occasional deposits. Mr. Barrette was also allowed to make withdrawals for personal reasons as required. Borrowed amounts were deducted from his fees. No agreement was entered into concerning the appointment of a replacement if Mr. Barrette was off work sick. Ms. Deschênes testified that she would have found someone if this had occurred.
+[6] When Mr. Barrette started his job, he did not have the license required to drive this type of truck and he therefore had to be accompanied by another driver. Ms. Deschênes also taught Mr. Barrette the health and safety regulations to be complied with when carrying these goods. She also informed the worker that he would occasionally be asked to pick up sugarbush equipment on his return trip. The Appellant asked him to find what they call returns, in exchange for which he would receive a bonus.
+[7] Claude Barrette started his work day on Tuesday at 6:00 a.m. He picked up the truck at the Appellant's and then went to the slaughterhouse to load it. The truck was loaded according to the deliveries. He also had to follow some instructions from the Appellant's customers in connection with their availability to accept deliveries. He based all this preparation on transportation and shipping slips. On the road, Mr. Barrette and the Appellant remained in contact via the cellular phone. Mr. Barrette used the cellular phone to inform the Appellant, among other things, of repairs and delivery problems. Based on his instructions, he occasionally sold lambs personally that customers had refused. Mr. Barrette also communicated with the Appellant's customers to verify, among other things, the delivery times and tried to find "returns" to fill the truck.
+[8] At first, Mr. Barrette found a customer and brought back tires. He also brought back sugarbush equipment in the spring, and once, the belongings of Ms. Deschênes' son. He said he did not receive a bonus that time. He started receiving bonuses when the Appellant and Potages du Fleuve signed an agreement to carry goods on return trips. Mr. Jean Yves Chamberland, Potages du Fleuve, contacted Mr. Barrette to give him instructions on the locations where goods were to be picked up. Mr. Barrette received $10 for each pallet of goods he brought back. Toward the end of the period at issue, Mr. Barrette found that he was not paid enough for this extra work. He complained to the Appellant, but continued for a while because he said Ms. Deschênes needed this income. Mr. Chamberland eventually found another carrier. The Appellant invoiced Potages du Fleuve.
+[9] When he returned from his delivery trips, Mr. Barrette gave the Appellant his logbook and the credit and debit cards. The logbook was subject to the Highway Safety Code and to Transportation Commission regulations. He had to indicate in this logbook the number of hours he spent driving, working other than driving and in the sleeper. Mr. Barrette also indicated where he was at each stage. When Mr. Barrette arrived late because Ms. Deschênes said he was having fun, she asked him to come back earlier. The Appellant's debit card was also used to check the expenses Mr. Barrette paid.
+[10] Toward the end of the period at issue, Mr. Barrette was having trouble filling out his tax return and said that he preferred being paid on an hourly basis to simplify his affairs. Further, his income had reached a point where he was forced to charge the Goods and Services Tax (GST) on his services. To avoid this, he signed an agreement with the Appellant to the effect that she would pay him his travelling expenses and fees separately. The other conditions remained unchanged. Mr. Barrette allegedly tried to negotiate, but for naught. The Appellant found a replacement. Mr. Barrette worked with the latter for one week and was thanked for his services. He then filed a complaint with the Commission des normes du travail claiming notice, statutory holidays and vacation. The result of this complaint is unknown.
+[11] The issue in the case at hand is whether Agneau de l'Est and Mr. Claude Barrette were bound by a contract of employment within the meaning of paragraph 5(1)(a) of the Act.
+[12] The Federal Court of Appeal provided useful criteria in Wiebe Door Services Ltd. v. Minister of National Revenue, [1986] 3 F.C. 553, for distinguishing between a contract of employment and a contract for services. The Supreme Court of Canada upheld these criteria in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, by summarizing the legal situation in paragraphs 47 and 48 as follows:
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[13] In Charbonneau v. Canada, [1996] F.C.J. No. 1337 (Q.L.), Mr Justice Marceau of the Federal Court of Appeal points out that the factors at issue are guidelines which it will generally be useful to consider, but not to the point of jeopardizing the ultimate objective of the exercise, which is to determine the overall relationship between the parties.
+[14] In a recent decision, the Federal Court of Appeal restated the legal principles governing the issue of the insurability of employment. In Livreur Plus Inc. v. Canada, [2004] F.C.J. No. 267, Mr. Justice Létourneau summarized these principles in paragraphs 18 and 19 of his judgment as follows:
+In these circumstances, the tests mentioned in Wiebe Door Services Ltd. v. M.N.R., 87 D.T.C. 5025, namely the degree of control, ownership of the work tools, the chance of profit and risk of loss, and finally integration, are only points of reference: Charbonneau v. Canada(Minister of National Revenue - M.N.R.) (1996), 207 N.R. 299, paragraph 3. Where a real contract exists, the Court must determine whether there is between the parties a relationship of subordination which is characteristic of a contract of employment, or whether there is instead a degree of independence which indicates a contract of enterprise: ibid.
+Having said that, in terms of control the Court should not confuse control over the result or quality of the work with control over its performance by the worker responsible for doing it: Vulcain Alarme Inc. v. The Minister of National Revenue, A-376-98, May 11, 1999, paragraph 10, (F.C.A.); D & J Driveway Inc. v. The Minister of National Revenue, supra, at paragraph 9. As our colleague Décary J.A. said in Charbonneau v. Canada (Minister of National Revenue - M.N.R.), supra, followed in Jaillet v. Canada (Minister of National Revenue - M.N.R.), 2002 FCA 394, "It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker."
+[15] The facts in the case at hand show that Mr. Barrette's work was regular in the sense that he had to make deliveries every week, on the same day, at the same time and according to the sequence of orders received by Agneau de l'Est and prepared by the slaughterhouse. The deliveries were made in a purely logical fashion, but in keeping with the requirements of Agneau de l'Est. The Appellant also had the authority to require Mr. Barrette to deviate from his itinerary to go pick up goods and materials for the return trip. Mr. Barrette also had to ensure that certain health and safety standards were complied with. He had to contact Agneau de l'Est to obtain authorization to have certain repairs done or to request instructions when deliveries were refused. On at least one occasion, he sold goods that had been refused after receiving instructions to this effect. The Appellant did not pay him extra for this. Instructions of this kind, as well as those requiring Mr. Barrette to return earlier from his trips, are in my opinion examples of the authority found in a contract of employment which involves a relationship of subordination.
+[16] In the case at hand, Mr. Barrette was supposed to report to Agneau de l'Est before and after each trip. He was the only delivery driver and could not be replaced. In fact, if he had been unable to report to work one morning, Agneau de l'Est would have looked after finding a replacement. Mr. Barrette either had to find returns himself or do those found by Agneau de l'Est, such as that with Potage du Fleuve. He also had to bring back loads for Ms. Deschênes' children. Mr. Barrette was provided with all these instructions during these trips, meaning that he had to travel more, which took him longer. The fact that he was paid in certain cases does not change the fact that he had to follow the instructions he was given.
+[17] It is clear to me in the case at hand that Mr. Barrette did not have the freedom a self-employed worker normally has. The fact that he was asked to train his replacement before he was laid off and to return earlier from his trips should be added to the comments above.
+[18] In my opinion in the case at hand, Agneau de l'Est never surrendered its authority to intervene and regulate Mr. Barrette's work. The Appellant at all times maintained and exerted control over Mr. Barrette's comings and goings and the latter had to follow the instructions received. This is how a subordinate relationship works. He had no control over the way he could provide his services; he did not set his own work schedule; and his comings and goings were governed by Agneau de l'Est and its customers.
+[19] Agneau de l'Est owned the truck and assumed all the costs involved in using it. The tools the worker used to carry out his duties, that is, the equipment for unloading the truck and the cellular telephone, were provided by Agneau de l'Est. Mr. Barrette had no chance of profit or risk of loss, except the travelling expenses he had to cover. This therefore supports the hypothesis that the parties had a contract of employment.
+[20] In terms of integration, Mr. Barrette was the only driver for Agneau de l'Est. He had report to work every week, at the times scheduled for making the deliveries. These deliveries, which were made based on an itinerary drawn up according to the requirements of Agneau de l'Est, were key to its success. Mr. Barrette's work was an integral part of the Appellant's activities.
+[21] I must take into account in my analysis of the facts in this case the desire of both parties to treat Mr. Barrette as a self-employed worker. I am not, however, bound by what the parties agreed if the evidence provided leads to an opposite determination. In Le Livreur Plus Inc. v. M.N.R., [2004] F.C.J. no 267 (Q.L.),
+Mr. Justice Létourneau wrote the following:
+[17] What the parties stipulate as to the nature of their contractual relations is not necessarily conclusive, and the Court may arrive at a different conclusion based on the evidence before it: D & J Driveway Inc. v. The Minister of National Revenue, 2003 FCA 453. However, if there is no ambiguous evidence to the contrary, the Court should duly take the parties' stated intention into account: Mayne Nickless Transport Inc. v. The Minister of National Revenue, 97-1416-UI, February 26, 1999 (T.C.C.). Essentially, the question is as to the true nature of the relations between the parties. Thus, their sincerely expressed intention is still an important point to consider in determining the actual overall relationship the parties have had between themselves in a constantly changing working world: see Wolf v. Canada, [2002] 4 F.C. 396 (F.C.A.); Attorney General of Canada v. Les Productions Bibi et Zoé Inc., 2004 FCA 54.
+[22] In my opinion and based on an analysis of the facts provided, the real nature of the relationship between the parties in the case at hand is a contract of employment. Consequently, the appeal is dismissed.
+Signed at Ottawa, Canada, this 13th day of October 2004.
+"François Angers"
+Angers, J.
+Translation certified true
+on this 20th day of January 2005.
+Wendy Blagdon, Translator
+CITATION:
+2004TCC656
+COURT DOCKET NO:
+2003-2232(EI)
+STYLE OF CAUSE:
+Agneau de l'Est Inc. and M.N.R.
+PLACE OF HEARING:
+Matane, Quebec
+DATE OF HEARING:
+July 13, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice François Angers
+DATE OF JUDGMENT:
+October 13, 2004
+APPEARANCES:
+For the Appellant:
+Gaétan Gauthier
+For the Respondent:
+Claude Lamoureux
+SOLICITOR OF RECORD:
+For the Appellant:
+Name:
+Gaétan Gauthier
+Firm:
+Gaétan Gauthier, Counsel
+Rimouski, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

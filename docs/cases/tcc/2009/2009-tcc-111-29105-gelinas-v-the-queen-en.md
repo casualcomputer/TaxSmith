@@ -1,0 +1,162 @@
+---
+title: "Gelinas v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29105/index.do"
+last_modified: "2009-02-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 111"
+citation2: ""
+neutral_citation: "2009 TCC 111"
+decision_date: "2009-02-19"
+language: "en"
+item_id: "29105"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6668
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:32:52.513000+00:00"
+cases_cited_count: 2
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0fc01a75831978c940920320f25cd37c04104f324cf535fbc9715296218d8bb2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gelinas v. The Queen
+
+- Citation: 2009 TCC 111
+- Decision date: 2009-02-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6668, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gelinas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-19
+Neutral citation
+2009 TCC 111
+File numbers
+2008-2748(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2748(IT)I
+BETWEEN:
+LINDSAY GELINAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 12, 2009, at Toronto, Ontario,
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Mark L. Hendrikx
+Counsel for the Respondent:
+Sonia Singh
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2006 taxation year is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to claim moving expenses in the amount of $18,823.44.
+The $100 filing fee is to be refunded to the Appellant.
+Signed at Ottawa, Canada, this 19th day of February 2009.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2009 TCC 111
+Date: 20090219
+Docket: 2008-2748(IT)I
+BETWEEN:
+LINDSAY GELINAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] This is a unique situation regarding the application of the moving expense deduction set out in subsection 62(1) of the Income Tax Act. Ms. Gelinas, the Appellant, seeks to deduct $18,823.44 of moving expenses for a move she made in 2006, resulting in moving more than 40 kilometres closer to her place of employment at the Lakeridge Health Corporation in Oshawa, Ontario. She lived over 65 kilometres away from the Oshawa hospital at her former residence in Woodville, Ontario, and after her move to Whitby, she was only a few kilometres away from the hospital in Oshawa, where she worked both before and after the move.
+[2] The words of the legislation are to be carefully scrutinized to determine if Ms. Gelinas’ moving expenses qualify. Subsection 62(1) of the Act reads as follows:
+62(1) There may be deducted in computing a taxpayer’s income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation, to the extent that
+(a) they were not paid on the taxpayer’s behalf in respect of, in the course of or because of, the taxpayer’s office or employment;
+(b) they were not deductible because of this section in computing the taxpayer’s income for the preceding taxation year;
+(c) the total of those amounts does not exceed
+(i) in any case described in subparagraph (a)(i) of the definition "eligible relocation" in subsection 248(1), the taxpayer’s income for the year from the taxpayer’s employment at a new work location or from carrying on the business at the new work location, as the case may be, and
+(ii) in any case described in subparagraph (a)(ii) of the definition "eligible relocation" in subsection 248(1), the total of amounts included in computing the taxpayer’s income for the year because of paragraphs 56(1)(n) and (o); and
+(d) all reimbursements and allowances received by the taxpayer in respect of those expenses are included in computing the taxpayer’s income.
+[3] The definition of eligible relocation in section 248 of the Act reads as follows:
+"eligible relocation" means a relocation of a taxpayer where
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location in Canada (in section 62 and this subsection referred to as “the new work location”), or
+(ii) to be a student in full-time attendance enrolled in a program at a post-secondary level at a location of a university, college or other educational institution (in section 62 and in this subsection referred to as “the new work location”),
+(b) both the residence at which the taxpayer ordinarily resided before the relocation (in section 62 and this subsection referred to as “the old residence”) and the residence at which the taxpayer ordinarily resided after the relocation (in section 62 and this subsection referred to as “the new residence”) are in Canada, and
+(c) the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location
+except that, in applying subsections 6(19) to (23) and section 62 in respect of a relocation of a taxpayer who is absent from but resident in Canada, this definition shall be read without reference to the words “in Canada” in subparagraph (a)(i), and without reference to paragraph (b);
+[4] What must Ms. Gelinas prove to have her move qualify as an eligible relocation? She must establish the following:
+(i) The move was to enable her to be employed at the Oshawa hospital, a location in Canada.
+(ii) Both the old and new residences are in Canada. This is not in dispute.
+(iii) The distance between the old residence and the Oshawa hospital is at least 40 kilometres greater than the distance between the new residence and the Oshawa hospital. This is also not in dispute.
+[5] The only question, therefore, is whether Ms. Gelinas’ move was to enable her to be employed at the Oshawa hospital. The Crown argues that because she was already employed at the Oshawa hospital, albeit part-time, she did not move to a new work location – she was already employed there; in effect, the move was not necessary for her employment. The Crown relies on Chief Justice Christie’s comments in the case of Bracken v. The Minister of National Revenue[1] to the effect that there must be four elements to obtain the moving expense deduction: an old work location, a new work location, an old residence and a new residence.
+[6] Before commenting on this interpretation of the moving expense deduction requirements, it is necessary to consider the circumstances of Ms. Gelinas’ move. Up to January 2006, Ms. Gelinas worked part-time at the Lakeridge Health Corporation in Oshawa. She indicated she averaged two shifts a week on the 7th floor of the hospital in General Surgery-Urology. At that time, she lived in Woodville, Ontario, approximately 65 kilometres from the hospital in Oshawa. She sought full-time employment and therefore applied for positions in Lindsay and Peterborough, both locations closer to her home. She also applied for a full‑time position that had come up at Lakeridge Health Corporation in Oshawa (Lakeridge Health also had health centres in Bowmanville, Whitby and Port Perry). The position in Oshawa was with a different department, orthopaedics. Other nurses also applied for that position. Ms. Gelinas was interviewed by Lakeridge and was offered the full-time position at the Oshawa hospital. Given the different nature of her responsibilities, she had to undergo training to work in orthopaedics. Now, as a full-time employee, with a 40-hour work week, she moved to a different pay scale with additional benefits.
+[7] Ms. Gelinas, having accepted the new full-time position at Lakeridge, decided that a 130-kilometre daily commute was simply too much, especially in winter road conditions. She decided to sell her residence, listing it in the spring. The property eventually sold in October and she moved in late November to a new residence in Whitby, only a few kilometres from the Lakeridge Health Centre in Oshawa. She incurred moving expenses of $18,823.44.
+[8] From these undisputed circumstances, I draw certain conclusions. First, Ms. Gelinas’ move was work-related. She moved her residence because her new job required five round trips of 130 kilometres each, as opposed to the twice a week trips she could manage as a part-time employee. Second, her new position was at a work location in Canada. Third, while the new position was in the same health centre as her part-time position, it was in a different department on a different floor: it was a different job.
+[9] Based on these facts, I would have no hesitation in concluding that Ms. Gelinas’ move qualifies as an eligible relocation as that expression is statutorily defined, as her relocation did, I find, enable her to be employed at a location in Canada. She moved so that she could go to work in Oshawa on a full-time basis. This is a work-related expense which I find fits squarely within the wording and spirit of the moving expense deduction provision.
+[10] The difficulty comes when I am presented by the Respondent with case law that suggests to qualify as an eligible relocation requires a new work location, an old work location, a new residence and an old residence. This is derived from former Chief Justice Christie’s comments in Bracken:
+My reading of subsection 62(1) is that it contemplates the existence of four separate elements: old work location, new work location, old residence and new residence, and the comparison of two distances, i.e. the distance from the old residence to the new work location with the distance from the new residence to the new work location the former of which must exceed the latter by 40 or more kilometres in order for the moving expenses to be deductible. …
+[11] Cases subsequent to Bracken have disagreed on the correctness of this interpretation (See, for example, Templeton v. Canada[2] for a decision contrary to Bracken, and Grill v. Canada[3] and Jaggers v. Canada[4] which agree with the approach set forth in Bracken).
+[12] I have concerns with any rigid interpretation requiring both an old and a new work location. Firstly, “new work location” is simply a term defining the words preceding it. Why should it be elevated to introduce a whole new concept that is not contained in the operative words. The words preceding it are “to enable the taxpayer to be employed at a location in Canada”. Those are the critical words, not “new work location”. There is no reference in the operative words to a new location or new employment, though the context is a move of residence by the taxpayer due to fulfilling employment requirements. This certainly suggests something had to have changed in the taxpayer’s work to result in the taxpayer’s move. And, indeed, with respect to Ms. Gelinas, there was something new – a new job.
+[13] The term “new work location” used to describe the concept of enabling a taxpayer to be employed at a location in Canada should not, I respectfully suggest, restrict that very concept. As Chief Justice Rip indicated in Dalisay v. Canada:[5]
+17 The phrase “the new work location” is not to be interpreted with any rigidity. The words “to carry on a business or to be employed at a location in Canada” have a very broad meaning. The words allow for flexibility in interpretation depending on the facts. …
+[14] “New work location” is simply a term defining the actual requirement, and nothing more.
+[15] By interpreting the term “new work location” as not introducing a requirement for an old work location, I am not injecting into the definition of eligible relocation words that are simply not there. I note that former Chief Justice Christie in Bracken, while identifying an old work location as a requirement, actually goes on in applying the eligible relocation definition to rely on only three elements, the location called the new work location, an old residence and a new residence. This suggests to me that this case does not set any rigid rules to be slavishly followed. I believe the appropriate approach generally in determining deductions, such as moving expenses, is the more flexible approach suggested by Chief Justice Rip. It is unnecessary to get hung up on “new work location” as demanding an old work location. What is necessary is to ask if the taxpayer moved to enable the taxpayer to be employed at a location in Canada. Ms. Gelinas meets that requirement.
+[16] This conclusion is not intended to open doors for taxpayers who have no change in their work to claim moving expenses if they move 40 kilometres closer to work. In such situations, there is clearly no change in work that such a taxpayer could rely on to successfully claim the move was to enable such a taxpayer to be employed at the location. Ms. Gelinas’ circumstances are entirely different. Her new job required unacceptable travel: she had to move. What she could handle part-time, she could not handle full-time.
+[17] If I follow Chief Justice Christie’s approach such that there must indeed be an old work location and a new work location, then I ask where is the Government supposed to draw the line? Clearly, the Government argues in this case that moving from the 7th floor to the 6th floor is not from an old work location to a new work location. Chief Justice Rip made the following interesting observation in Dalisay:
+19 The words “work location” and the phrase “the new work location” are elastic, depending on the context in which they are applied. When one “zooms in” on a map to find the location of a street address, one may first be directed to a province, then to a city, then to a district, then to a street, and finally to the address. Similarly, a person who works in Edmonton may inform a person of her work location depending where the person making the inquiry is from. If the person is from outside the country, she may describe her work location to be in Canada or Alberta. To someone in New Brunswick, she may tell them her work location is in Alberta or Edmonton; to someone in Alberta, she may describe her work location to be in Edmonton or in some area of Edmonton; but to an Edmontonian she may inform that person that her work location in a specific area of the city or volunteer the specific building or site. In all cases the person is describing her “work location”. …
+[18] Take this theory a little further. If one nurse asks another nurse working at the Oshawa hospital where she works, she will no doubt respond – on the 7th floor in Urology. Unlike the specific 40 kilometre requirement for a move from an old residence to a new residence, there is no guidance in the legislation for any measurable move of work location. This suggests two conclusions: first, as I have already concluded, an old work location is not strictly a necessary requirement; second, a change of job requiring a move as little as from one floor to another could just as readily be considered a move from an old work location to a new work location. Again, I reiterate, what is key is that the move of residence was necessitated by a change in work circumstances, not necessarily a move of any set distance from one work location to another.
+[19] Finally, if I must put more reliance on “new work location” than I believe is warranted by the legislation, then these words should be read with sufficient elasticity so that “new” defines “work”, as opposed to “location”. I could then read that term as a location of new work. Read in that light, Ms. Gelinas would clearly qualify as she certainly had new work (full-time orthopaedics versus part‑time surgery-urology). And that new work was, as required by the legislation, at a location in Canada.
+[20] As I indicated at the outset, this is a unique situation. At first blush, it may seem counterintuitive that an employee who goes from a job on the 7th floor to a job on the 6th floor could qualify for a moving expense. But when it is clear the move was to enable her to be employed in a new full-time position, all elements of the requirements for moving expense are technically met and also are within the Government policy of assisting taxpayers with work-related moves. The appeal is allowed and referred back to the Minister for reconsideration and reassessment on the basis that Ms. Gelinas is entitled to the full amount of the moving expenses claimed.
+Signed at Ottawa, Canada, this 19th day of February 2009.
+“Campbell J. Miller”
+C. Miller J.
+CITATION: 2009 TCC 111
+COURT FILE NO.: 2008-2748(IT)I
+STYLE OF CAUSE: LINDSAY GELINAS and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 12, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: February 19, 2009
+APPEARANCES:
+Agent for the Appellant:
+Mark L. Hendrikx
+Counsel for the Respondent:
+Sonia Singh
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 84 DTC 1813.
+[2] [1997] F.C.J. No. 396 (QL).
+[3] 2009 TCC 5.
+[4] [1997] T.C.J. No. 477.
+[5] 2004 TCC 126.

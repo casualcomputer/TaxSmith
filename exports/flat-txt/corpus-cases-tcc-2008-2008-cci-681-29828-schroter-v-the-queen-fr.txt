@@ -1,0 +1,220 @@
+Title: Schroter v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29828/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-681-29828-schroter-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2008-12-18
+
+# Schroter v. The Queen
+
+- Citation: 2008 CCI 681
+- Decision date: 2008-12-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6570, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schroter v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-12-18
+Référence neutre
+2008 CCI 681
+Numéro de dossier
+2007-4762(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4762(IT)I
+ENTRE :
+RICHARD G. SCHROTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Jim Johannsson (2008‑598(IT)I), à Edmonton (Alberta), les 10, 11 et 15 septembre 2008.
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Gregory Perlinski
+____________________________________________________________________
+JUGEMENT
+L’appel visant les cotisations établies sous le régime de la Loi de l’impôt sur le revenu relativement aux années d’imposition 1998, 2002 et 2003 est accueilli, et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’avantage imposable doit exclure tout élément au titre de la taxe sur les produits et services.
+Chaque partie assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 18e jour de décembre 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 26e jour de janvier 2009.
+S. Tasset
+Dossier : 2008-598(IT)I
+ENTRE :
+JIM JOHANNSSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Richard G. Schroter (2007‑4762(IT)I), à Edmonton (Alberta), les 10, 11 et 15 septembre 2008.
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Gregory Perlinski
+____________________________________________________________________
+JUGEMENT
+L’appel visant les cotisations établies sous le régime de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2002 et 2003 est accueilli, et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant n’a pas reçu un avantage imposable au titre de la fourniture d’un permis de stationnement.
+L’appelant a droit à ses dépens, le cas échéant, et il est ordonné au greffe de rembourser les droits de dépôt.
+Signé à Toronto (Ontario), ce 18e jour de décembre 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 26e jour de janvier 2009.
+S. Tasset
+Référence : 2008CCI681
+Date : 20081218
+Dossiers : 2007-4762(IT)I
+2008-598(IT)I
+ENTRE :
+RICHARD G. SCHROTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+JIM JOHANNSSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Dans les présents appels, deux employés de TELUS Corporation contestent l’inclusion, dans leur revenu, d’un avantage imposable au titre d’un permis de stationnement fourni par leur employeur. Richard Schroter interjette appel des cotisations établies sous le régime de la Loi de l’impôt sur le revenu relativement aux années d’imposition 1998, 2002 et 2003. Jim Johannsson interjette appel des cotisations établies relativement aux années d’imposition 2002 et 2003.
+[2] La présente affaire soulève deux questions : (1) La fourniture d’un permis de stationnement constitue‑t‑elle un avantage imposable? (2) Dans l’affirmative, quelle est la valeur de cet avantage?
+[3] À titre préliminaire, il convient de signaler que l’audition des présents appels était prévue pour le même jour, mais que personne n’en avait informé les appelants, qui se représentaient eux‑mêmes. Naturellement, ils étaient tous deux étonnés de se voir le matin de l’audience.
+[4] À la suggestion de l’avocat de l’intimée, les appelants ont consenti à ce que leurs appels soient entendus ensemble sur preuve commune. J’ai accepté avec réticence de procéder ainsi parce que les appelants n’étaient pas préparés à cette éventualité. En fin de compte, cependant, les appelants ont été tout à fait en mesure de faire face à ce changement de dernière minute.
+[5] La preuve a été entendue sur une période de trois jours et des observations écrites ont par la suite été reçues. Je tiens à remercier les parties pour leurs observations écrites, qui ont été fort utiles.
+Historique de la vérification
+[6] Les cotisations en litige font partie d’un grand nombre de cotisations établies à l’égard d’employés de TELUS qui avaient reçu un permis de stationnement.
+[7] Un vérificateur ayant participé au processus de cotisation a témoigné à l’audience au sujet du contexte dans lequel s’est déroulée la vérification. À la lumière de renseignements fournis par TELUS et après avoir parlé à quelques employés, le vérificateur a conclu que les employés faisant partie de l’échelle salariale no 5 avaient automatiquement droit à un permis de stationnement. L’ARC a décidé d’établir à l’égard de ces employés une cotisation au titre d’un avantage, sauf lorsqu’une preuve satisfaisante d’une utilisation commerciale appréciable d’un véhicule donné était présentée. Comme TELUS ne possédait pas ce renseignement, le vérificateur a invité les employés touchés à le lui fournir.
+[8] En 1998, l’avantage a fait l’objet d’une cotisation fondée sur 100 pour 100 de la valeur du permis, sauf lorsqu’une preuve d’une utilisation commerciale était fournie. En 2002 et en 2003, la somme visée par la cotisation a automatiquement été réduite de 10 pour 100 afin de tenir compte d’une certaine utilisation commerciale. Si une preuve satisfaisante d’une utilisation commerciale appréciable était fournie, une autre réduction était appliquée, laquelle variait selon l’importance de cette utilisation.
+[9] M. Schroter n’a pas réussi à convaincre le vérificateur d’une utilisation commerciale appréciable et l’avantage qu’il a reçu a été imposé dans une proportion de 100 pour 100 pour 1998 et de 90 pour 100 pour 2002 et 2003. M. Johannsson a pu établir une utilisation commerciale autre que symbolique et, dans son cas, l’avantage a été imposé dans une proportion de 75 pour 100.
+Faits postérieurs à la vérification
+[10] De nombreux employés de TELUS ayant fait l’objet de cotisations au titre de permis de stationnement ont produit des oppositions. En raison du nombre élevé d’oppositions, la Cour a décidé de s’appuyer sur une cause type de manière à pouvoir bénéficier de quelques directives sur la question.
+[11] La première cause type est communément appelée la décision Chow v. The Queen (2001 DTC 164 [CCI]). Elle concerne deux contribuables, lesquels ont chacun obtenu gain de cause dans leur appel. Malheureusement, cette décision ne constituait pas un précédent utile puisque les situations des deux contribuables n’étaient pas suffisamment représentatives de celles de l’ensemble des employés touchés.
+[12] On a subséquemment décidé d’utiliser une autre cause type visant un plus grand nombre d’employés. Cette cause, communément appelée la décision Adler c. La Reine (2007 CCI 272, 2007 DTC 783), a été entendue par le juge suppléant Rowe, et la décision de ce dernier n’a pas été frappée d’appel.
+Principe juridique applicable
+[13] La disposition législative pertinente se trouve à l’alinéa 6(1)a) de la Loi et elle prévoit notamment ce qui suit :
+6 (1) Éléments à inclure à titre de revenu tiré d’une charge ou d’un emploi. Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables :
+a) Valeur des avantages – la valeur de la pension, du logement et autres avantages quelconques qu’il a reçus ou dont il a joui au cours de l’année au titre, dans l’occupation ou en vertu d’une charge ou d’un emploi, […]
+[14] La Cour a à quelques occasions formulé des observations sur le caractère épineux de la question de savoir si un avantage imposable a été accordé à un employé dans un cas donné. À mon avis, le stationnement gratuit tombe dans la catégorie des avantages « difficiles à classer ».
+[15] Récemment, dans la décision Rachfalowski v. The Queen, 2008 DTC 3626, 2008 CCI 258, l’ancien juge en chef Bowman a affirmé, dans une remarque incidente, qu’il doutait que le fait de fournir une place de stationnement à un employé constitue un avantage imposable.
+[16] Le juge suppléant Rowe a exprimé une opinion différente dans la décision Adler, où il a conclu que la fourniture d’un permis de stationnement à des employés de TELUS constituait un avantage imposable, à moins que l’avantage dans un cas donné n’ait principalement profité à TELUS. (Voir la décision Adler, aux paragraphes 75 et 76.)
+[17] Dans la décision Adler, on a conclu que, pour la grande majorité des contribuables visés dans cette affaire, les permis de stationnement constituaient un avantage imposable, bien que certains des contribuables aient établi que leur véhicule avait servi à des fins commerciales. La Cour a conclu qu’il ne s’agissait pas d’un avantage dans seulement deux des 16 cas et, dans l’un de ces deux cas, elle a conclu que le permis de stationnement n’avait pas été utilisé par l’employé.
+[18] En ce qui concerne le contribuable qui avait utilisé le permis, mais à l’égard duquel la Cour a conclu qu’il n’avait pas reçu un avantage imposable, le juge suppléant Rowe a signalé que le fait que TELUS avait fourni un véhicule à ce contribuable à des fins commerciales était important. Au paragraphe 102, le juge a affirmé qu’il y avait « une entente voulant [que le contribuable] utilise la Honda fournie par Telus à des fins commerciales et que la place de stationnement gratuite constituait un accessoire visant à faciliter l’utilisation efficace de la voiture. »
+[19] Dans les présents appels, j’estime qu’il importe d’adopter l’approche suivie par la Cour canadienne de l’impôt dans la décision Adler. Le groupe d’appels entendus dans cette affaire avait pour objet de permettre à la Cour de formuler des directives relativement à d’autres employés de TELUS. Il est important que la Cour adopte une approche uniforme sur ce point.
+[20] Si la décision Adler avait été manifestement erronée, j’aurais réexaminé l’affaire. Mais, à mon avis, la conclusion tirée dans la décision Adler relativement à cette question épineuse était légitime. Je pense qu’elle doit être suivie.
+Richard Schroter
+[21] Je vais d’abord examiner la question du permis de stationnement délivré à Richard Schroter. Les années d’imposition en cause sont 1998, 2002 et 2003.
+[22] Monsieur Schroter a pour la première fois reçu un permis de stationnement en 1998, lorsqu’il a été promu au poste de directeur des affaires fiscales chez TELUS. Avant de recevoir son permis, M. Schroter prenait couramment l’autobus pour se rendre à son travail.
+[23] Dans ses observations, M. Schroter a essentiellement fait valoir que TELUS ne lui avait pas fourni le permis de stationnement à titre d’avantage indirect, mais bien pour favoriser l’accomplissement des heures supplémentaires qu’il serait appelé à effectuer dans le cadre de ses nouvelles fonctions. À la page 112 de la transcription de son contre‑interrogatoire, M. Schroter mentionne ce qui suit :
+[TRADUCTION]
+Lorsqu’on m’a remis le permis de stationnement, mon directeur m’a dit à ce moment que ce permis m’était fourni pour me permettre d’effectuer davantage de travail. Et c’est ce qu’étayent mes feuilles de travail, qu’il s’agissait d’un moyen me permettant d’accomplir ce travail supplémentaire.
+[24] Si la Cour arrive à la conclusion que TELUS a fourni le permis à M. Schroter pour lui permettre de faire plus de travail, cet élément devrait suffire à distinguer la situation de ce dernier de celle des 14 contribuables de l’affaire Adler à l’égard desquels on a conclu qu’ils avaient reçu un avantage imposable.
+[25] Or, sur ce point, j’arrive à la conclusion que la preuve n’est pas suffisante pour établir que le directeur a fourni le permis principalement pour des raisons commerciales.
+[26] Je ne doute pas que M. Schroter a eu une conversation avec son directeur, T.K. McGillicuddy, vice‑président, affaires fiscales, sur la façon dont le permis de stationnement allait faciliter l’exécution de ses fonctions supplémentaires après sa promotion. Cependant, je ne suis pas convaincue qu’il s’agissait là de la principale raison pour laquelle le permis de stationnement a été fourni à M. Schroter.
+[27] Je remarque, par exemple, que M. McGillicuddy a remis à l’ARC, pendant le processus de vérification, une lettre qui laisse entendre que tous les employés de l’échelle salariale no 5, y compris M. Schroter, avaient droit à un permis de stationnement.
+[28] Voici ce qu’a écrit M. McGillicuddy (pièce R-4) :
+[TRADUCTION]
+Habituellement, le stationnement était fourni aux employés des échelles salariales no 5 et plus, de même qu’à un nombre restreint d’employés d’échelles salariales inférieures à l’échelle no 5 qui, pour des raisons particulières, en avaient besoin.
+[29] Pour être en mesure d’établir l’objectif que visait TELUS lorsqu’elle a fourni le permis de stationnement, je crois que M. Schroter devait obligatoirement appeler M. McGillicuddy à témoigner à l’audience. Il ne suffit pas, dans les circonstances, de s’en remettre au témoignage de M. Schroter.
+[30] Je me suis également demandée si, peu importe l’intention de TELUS, la véritable utilisation commerciale du véhicule par M. Schroter constitue un fondement suffisant pour conclure que le permis de stationnement n’est pas un avantage imposable.
+[31] Dans son témoignage, M. Schroter a affirmé que son trajet quotidien était réduit d’environ une heure lorsqu’il utilisait sa propre automobile comparativement au transport en commun. Il a en outre déclaré qu’il avait consciencieusement passé cette heure supplémentaire à son travail plutôt qu’à la maison. L’ensemble de son témoignage était convaincant et étayé par des documents.
+[32] Cet argument n’est pas dénué d’intérêt au regard du bon sens mais, selon moi, il serait contraire à la décision Adler de conclure que le bénéficiaire principal du permis était TELUS. La décision de M. Schroter de se rendre à son travail en automobile tenait essentiellement à un choix personnel.
+[33] Je renvoie aux conclusions tirées par le juge suppléant Rowe relativement à Douglas Alloway dans la décision Adler, au paragraphe 112 :
+[…] De toute évidence, M. Alloway travaillait ferme en s’acquittant des lourdes tâches associées au poste de direction qu’il occupait, mais selon l’appréciation qu’il convient de donner de la preuve, l’utilisation de la place de stationnement était inextricablement liée aux choix personnels qu’il faisait tout le long de l’année plutôt qu’à une directive ou à une exigence, expresse ou implicite, de la part de l’employeur. M. Alloway a admis qu’à son avis, le permis de stationnement lui avait permis d’effectuer des heures supplémentaires, de recevoir de meilleures augmentations et d’obtenir des promotions chez Telus. Par suite des décisions que prenait M. Alloway d’utiliser son véhicule parce que c’était plus commode pour lui et que cela lui permettait d’effectuer plus facilement des heures supplémentaires ou d’utiliser la voiture directement à des fins commerciales sans facturer cette utilisation, Telus bénéficiait d’un avantage accessoire qui, même si la preuve ne permet pas de le quantifier, était bien inférieur à la part du lion que représentait l’avantage dans l’ensemble découlant de la fourniture du permis. C’était M. Alloway qui bénéficiait principalement et avant tout de cet avantage, de sorte que l’avantage est imposable.
+[34] En définitive, je conclus que la fourniture d’un permis de stationnement à M. Schroter constituait un avantage imposable. Je me pencherai maintenant sur la valeur de cet avantage.
+[35] Dans la décision Adler, la valeur de l’avantage n’était pas en litige. Elle a été établie en fonction du prix que payait le grand public lorsqu’il se servait du stationnement situé dans le garage souterrain utilisé par les employés de TELUS au centre‑ville d’Edmonton. Le grand public pouvait acheter un permis mensuel au coût d’environ 160 $, TPS comprise.
+[36] Selon M. Schroter, cette approche est erronée parce qu’elle ne tient pas compte du fait qu’il existe d’autres moyens de transport pour se rendre au travail, notamment l’autobus ou l’utilisation d’un véhicule personnel et d’un parc de stationnement situé non loin, mais moins cher.
+[37] Monsieur Schroter soutient aussi que l’approche du ministre ne prend pas en considération le coût de fonctionnement d’une automobile. Il laisse entendre que ce coût élimine tout avantage économique qu’offre un permis de stationnement en regard de l’utilisation du transport en commun.
+[38] L’approche proposée par M. Schroter se fonde sur le coût économisé plutôt que sur la valeur de ce qui a été reçu. Ce n’est pas la méthode habituellement appliquée par les tribunaux lorsqu’ils examinent la question de la valeur. (Voir, à titre d’exemple, la décision Mommersteeg v. The Queen, 96 DTC 1011 [CCI].)
+[39] Cependant, l’approche fondée sur [TRADUCTION] « l’économie du coût » proposée par M. Schroter a été acceptée par la Cour d’appel fédérale dans une remarque incidente dans l’arrêt McGoldrick v. The Queen, 2004 DTC 6407, 2004 CAF 189.
+[40] Monsieur McGoldrick travaillait dans un casino qui offrait aux membres du personnel, pendant leur période de travail, des repas gratuits à la cafétéria. Les employés n’étaient pas autorisés à emporter de la nourriture à leur travail.
+[41] La Cour d’appel fédérale a confirmé la décision de la Cour canadienne de l’impôt voulant que le montant de l’avantage doive se fonder sur le coût engagé par l’employeur pour fournir les repas, mais elle a conclu ainsi en raison de l’absence d’éléments de preuve relatifs au coût économisé par M. McGoldrick. Dans ses motifs, la Cour d’appel fédérale a reconnu que la mesure appropriée de la valeur de l’avantage ne tient pas à ce qui a en fait été reçu, mais plutôt à ce qui a été économisé. Au paragraphe 9, M. le juge Malone a tenu les propos suivants :
+En règle générale, toute acquisition matérielle liée à un emploi qui confère un avantage économique à un contribuable et ne constitue pas une exception tombe sous le coup de l’alinéa 6(1)a) […] En l’espèce, l’avantage est l’argent épargné par le contribuable relativement à la préparation d’un repas ou à l’achat d’aliments aux machines distributrices du casino pendant ses heures de travail.
+[Non souligné dans l’original.]
+[42] Même si j’ai quelques réserves quant à l’approche proposée dans la décision McGoldrick, je m’estime tenue de la suivre.
+[43] Il s’agit donc maintenant de savoir quel est le coût approprié économisé par M. Schroter.
+[44] À mon sens, il n’est pas opportun en l’espèce d’effectuer une comparaison sur le fondement du coût du transport en commun ou de celui du stationnement dans un autre parc.
+[45] Par suite de sa promotion en 1998, M. Schroter assumait des fonctions et des obligations plus étendues et il était souhaitable qu’il travaille pendant un plus grand nombre d’heures. De son point de vue, la façon la plus efficace d’y parvenir sans empiéter sur son temps libre consistait à conduire son véhicule et à utiliser le stationnement situé dans l’immeuble de TELUS. Je ne suis pas convaincue qu’il existait une autre solution tout aussi satisfaisante pour M. Schroter.
+[46] Enfin, je signale que je comprends difficilement pourquoi le ministre a calculé la valeur de l’avantage en fonction d’un coût incluant la TPS. Aucun débat n’a eu lieu devant moi quant à la question de savoir si la valeur du permis de stationnement devait englober cette TPS. Comme il ne s’agit pas d’une somme importante, je conclus qu’il convient, dans le cadre de la présente procédure d’appel informelle, d’ajuster les cotisations de manière à exclure la TPS du calcul de la valeur de l’avantage. Cette conclusion pourra bien sûr être revue à une autre occasion. Je crois savoir que d’autres employés de TELUS ont interjeté des appels qui sont en instance devant la Cour.
+Jim Johannsson
+[47] Monsieur Johannsson est un employé de longue date de TELUS et il possède de l’expérience dans de nombreux domaines d’activité de la société. Les années d’imposition en cause dans son appel sont 2002 et 2003, au cours desquelles il a assumé les fonctions de directeur de la stratégie client et de directeur du service de commercialisation.
+[48] À l’instar de M. Schroter, M. Johannsson a déclaré, dans son témoignage, qu’il croyait que TELUS lui avait fourni un permis de stationnement parce qu’il avait besoin d’un véhicule dans le cadre de son emploi. Les circonstances l’ayant mené à cette impression sont toutefois différentes de celles présentes dans le cas de M. Schroter.
+[49] La partie pertinente du contre‑interrogatoire de M. Johannsson se trouve aux pages 212 et 218 et est reproduite ci‑dessous :
+[TRADUCTION]
+Q. Donc, seulement pour réitérer, vous avez présenté une demande pour obtenir le permis, celui‑ci ne vous aurait pas été fourni si vous n’aviez pas présenté de demande.
+R. Je devais en faire la demande, c’est ...
+Q. Vous deviez en faire la demande.
+R. Puis, il a en réalité, il s’est écoulé un laps de temps assez long entre, si je me souviens bien, le moment où j’ai fait ma demande et celui où j’ai effectivement reçu le permis.
+[…]
+Q. Connaissez-vous le processus suivi pour décider qui obtient un permis de stationnement?
+R. Certains aspects du processus sont confus pour moi. Je ne suis pas entièrement certain. J’en ai une idée générale, mais mon expérience paraît quelque peu différente du processus tel que je l’avais compris ou du processus allégué que j’ai vu contesté par l’ARC.
+Donc, par exemple, vous savez, l’ARC allègue que les permis de stationnement étaient accordés automatiquement aux employés de l’échelle salariale no 5, et mon expérience n’est pas compatible avec cela. […] selon mon expérience chez Telus, le processus, pendant toutes ces années, se fondait toujours sur les besoins. Vous savez, si vous avez besoin d’un permis de stationnement, vous et votre directeur convenez qu’il existe un besoin et on prend une décision quant à savoir si un permis va ou non être accordé.
+[50] Outre ce témoignage, M. Johannsson a présenté une lettre de son ancien superviseur dans laquelle on confirme qu’il avait habituellement besoin d’un moyen de transport dans le cadre de ses fonctions.
+[51] Je conclus que TELUS a fourni un permis de stationnement à M. Johannsson non principalement à titre d’avantage indirect, mais bien pour des raisons commerciales. Même s’il aurait été préférable que le superviseur de M. Johannsson soit appelé à témoigner et fasse l’objet d’un contre‑interrogatoire, il ne fait aucun doute que TELUS a amené M. Johannsson à croire que le permis de stationnement était fourni en fonction des besoins de chacun puisqu’il a dû présenter une demande pour en obtenir un. Il ne serait pas juste dans les circonstances de conclure que la décision de TELUS avait un autre fondement.
+[52] Il peut paraître étrange que TELUS ait adopté une politique selon laquelle un permis de stationnement était automatiquement accordé aux employés de l’échelle salariale no 5 et que M. Johannsson, qui appartenait à cette catégorie d’employés, ait dû présenter une demande pour en obtenir un. À la lumière de la preuve dont je suis saisie, cela n’est toutefois pas étonnant puisqu’il semble que TELUS n’ait pas clairement communiqué sa politique aux employés.
+[53] Par conséquent, j’arrive à la conclusion que le permis de stationnement fourni à M. Johannsson lui a été remis principalement pour des raisons commerciales et que M. Johannsson n’a pas reçu un avantage imposable.
+Conclusion
+[54] En définitive, l’appel de M. Schroter est accueilli uniquement de manière à défalquer l’élément lié à la TPS de la valeur du permis de stationnement. L’appel de M. Johannsson est accueilli en entier.
+[55] Quant aux dépens, comme M. Schroter a en grande partie été débouté de son appel, aucuns dépens ne lui seront adjugés. M. Johannsson a droit à ses dépens, le cas échéant, ainsi qu’au remboursement des droits de dépôt.
+Signé à Toronto (Ontario), ce 18e jour de décembre 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 26e jour de janvier 2009.
+S. Tasset
+RÉFÉRENCE :
+2008CCI681
+NOS DES DOSSIERS DE LA COUR :
+2007-4762(IT)I
+2008-598(IT)I
+INTITULÉ DE LA CAUSE :
+Richard G. Schroter c.
+Sa Majesté la Reine, et
+Jim Johannsson c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATES DE L’AUDIENCE :
+Les 10, 11 et 15 septembre 2008
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge J. Woods
+DATE DU JUGEMENT :
+Le 18 décembre 2008
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocat de l’intimée :
+Me Gregory Perlinski
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour les appelants :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

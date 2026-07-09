@@ -1,0 +1,195 @@
+---
+title: "Xu c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28546/index.do"
+last_modified: "2006-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 695"
+citation2: ""
+neutral_citation: "2006 CCI 695"
+decision_date: "2006-12-21"
+language: "fr"
+item_id: "28546"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1079
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:26:38.976000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d8b0505afc5be7f7d1bc0784e0617f3cb30a9c0d7f6832d60053cf8e35153000"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Xu c. La Reine
+
+- Citation: 2006 CCI 695
+- Decision date: 2006-12-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1079, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Xu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-21
+Référence neutre
+2006 CCI 695
+Numéro de dossier
+2006-419(IT)G
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-419(IT)G
+ENTRE :
+CHRISTINE Q. XU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue à Toronto (Ontario), le 9 novembre 2006.
+Devant : l’honorable juge M.A. Mogan
+Comparutions :
+Avocat de l’appelante :
+Me Giuseppe G.M. LoPresti
+Avocat de l’intimée :
+Me John Grant
+____________________________________________________________________
+ORDONNANCE
+L’appelante ayant présenté une requête en vue d’obtenir une ordonnance supprimant les passages suivants de la réponse à l’avis d’appel de l’intimée :
+1. alinéa 3;
+2. sous‑alinéa 4(iii);
+3. première phrase de l’alinéa 5;
+4. alinéa 7;
+5. alinéa 10;
+6. alinéa 12, les mots [traduction] « et confirmant » figurant dans le préambule, et les sous‑alinéas 12b), d), e), f) et g);
+7. alinéa 13;
+8. alinéa 14;
+9. alinéa 17;
+10. alinéa 18.
+Ainsi qu’en vue d’obtenir une ordonnance accordant à l’intimée l’autorisation de déposer une réponse modifiée à l’avis d’appel, et prorogeant le délai dans lequel l’appelante peut déposer une réplique à la réponse;
+Les actes de procédure et les autres documents qui ont été déposés ayant été lus;
+Les avocats des parties ayant été entendus;
+LA COUR ORDONNE :
+1. Les alinéas 3, 7 et 17 ainsi que le sous‑alinéa 4(iii) et la première phrase de l’alinéa 5 sont radiés de la réponse de l’intimée;
+2. L’intimée est autorisée à déposer et à signifier une réponse modifiée à l’avis d’appel avant le 1er février 2007;
+3. L’appelante pourra déposer et signifier une réplique à la réponse ou à la réponse modifiée avant le 16 mars 2007;
+4. Les frais et dépens de la présente requête suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 21e jour de décembre 2006.
+« M.A. Mogan »
+M.A. Mogan, J.S.C.C.I.
+Traduction certifiée conforme
+ce 11e jour de juin 2007.
+Maurice Audet, réviseur
+Référence : 2006CCI695
+Date : 20061221
+Dossier : 2006-419(IT)G
+ENTRE :
+CHRISTINE Q. XU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge suppléant Mogan
+[1] L’appelante a présenté une requête à la Cour en vue d’obtenir une ordonnance supprimant certains passages de la réponse de l’intimée en date du 18 avril 2006. L’appel découle d’une nouvelle cotisation concernant l’année d’imposition 1998 de l’appelante. L’avis de nouvelle cotisation a été envoyé par la poste à l’appelante le 28 avril 2004, bien après la « période normale de nouvelle cotisation », au sens donné à cette expression au paragraphe 152(3.1) de la Loi de l’impôt sur le revenu (la « Loi »). Étant donné que la nouvelle cotisation est « prescrite », le ministre du Revenu national devra satisfaire à l’une des conditions énoncées à l’alinéa 152(4)a) de la Loi.
+[2] La requête présentée par l’appelante vise l’obtention, aux termes de l’article 53 des Règles de procédure générale, d’une ordonnance supprimant les passages suivants de la réponse de l’intimée :
+1. alinéa 3;
+2. sous‑alinéa 4(iii);
+3. première phrase de l’alinéa 5;
+4. alinéa 7;
+5. alinéa 10;
+6. alinéa 12, les mots [traduction] « et confirmant » figurant dans le préambule, et les sous‑alinéas 12b), d), e), f) et g);
+7. alinéa 13;
+8. alinéa 14;
+9. alinéa 17;
+10. alinéa 18.
+[3] Après avoir entendu les arguments des deux avocats au sujet de chaque passage de la réponse que l’appelante cherche à faire supprimer, j’ai conclu que la requête devait être accueillie en partie. Les paragraphes 49(1) et (2) ainsi que l’article 53 sont les dispositions les plus pertinentes des Règles :
+49(1) Sous réserve du paragraphe (1.1), la réponse indique :
+a) les faits admis;
+b) les faits niés;
+c) les faits que l’intimée ne connaît pas et qu’elle n’admet pas;
+d) les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation;
+e) tout autre fait pertinent;
+f) les points en litige;
+g) les dispositions législatives invoquées;
+h) les moyens sur lesquels l’intimée entend se fonder;
+i) les conclusions recherchées.
+[...]
+49(2) Les faits allégués que l’intimée ne nie pas dans sa réponse à l’avis d’appel sont réputés admis, sauf le cas où elle affirme ne pas en avoir connaissance.
+[...]
+53 La Cour peut radier un acte de procédure ou un autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour.
+Pour plus de commodité, je grouperai les passages de la réponse auxquels l’appelante s’oppose sous un argument commun, mais dans ces motifs, je n’énoncerai pas au complet tous ces passages de la réponse.
+[4] L’appelante soutient que les alinéas 3 et 7, le sous‑alinéa 4(iii) et la première phrase de l’alinéa 5 de la réponse ne constituent pas de bons plaidoyers parce que, au lieu d’admettre ou de nier certains faits ou de plaider le défaut de connaissance de certains faits allégués dans l’avis d’appel (conformément à l’article 49 des Règles), ils visent à admettre des faits que l’appelante n’a pas allégués; ils renferment également des allégations relatives à la preuve et non aux faits; et ils renferment des conclusions de droit au sujet desquelles aucun fait justificatif n’est allégué. Je conclus que les arguments de l’appelante sont bien fondés à l’égard des alinéas 3 et 7 ainsi que du sous‑alinéa 4(iii) de la réponse. L’avocat de l’intimée a tenté de défendre son plaidoyer en invoquant le [traduction] « contexte », en ce sens qu’il essayait d’admettre ce qu’il pouvait admettre tout en faisant des réserves au moyen d’allégations accessoires portant sur le même point.
+[5] Je radierai les alinéas 3 et 7 de la réponse parce qu’ils visent à admettre certains faits aux alinéas 9 et 13 (respectivement) de l’avis d’appel alors que ces faits ne sont tout simplement pas allégués. Dans un litige civil, le défendeur est uniquement autorisé à admettre les faits allégués par le demandeur. L’aveu devrait porter sur un événement « autonome », non embrouillé par les propres allégations du défendeur portant sur le point visé par l’aveu.
+[6] Je radierai également le sous‑alinéa 4(iii) de la réponse parce que l’appelante a allégué qu’un montant était [traduction] « demandé », alors que l’intimée a admis que le même montant avait été [traduction] « payé ». Les deux mots n’ont peut‑être pas le même sens. En matière comptable, un montant peut s’accumuler en tant que dette de fait (et être déduit dans le calcul du bénéfice ou du revenu) sans pour autant être payé au cours de l’exercice où la dette a pris naissance. À mon avis, le mot [traduction] « demandé » employé par l’appelante est pour le moins imprécis, mais l’intimée n’est pas pour autant autorisée à l’interpréter comme un montant [traduction] « payé » lorsque ce mot est manifestement imprécis.
+[7] Dans l’avis d’appel, l’alinéa 11 est libellé comme suit :
+[Traduction]
+11. Sur la base des conclusions ou hypothèses susmentionnées, le ministre a conclu que le paragraphe 9(1) de la Loi de l’impôt sur le revenu du Canada obligeait l’appelante à inclure un montant de 144 521 $ dans son revenu de 1998 et que le sous‑alinéa 152(4)a)(i) de la Loi permettait au ministre de délivrer la nouvelle cotisation en question après la période normale de nouvelle cotisation pour l’année en cause.
+L’alinéa 5 de la réponse commence par la phrase suivante :
+[Traduction]
+5. En ce qui concerne l’alinéa 11 de l’avis d’appel, il admet que le ministre a établi une nouvelle cotisation à l’égard de l’appelante, conformément au sous‑alinéa 152(4)a)(i) de la Loi, en vue d’inclure un revenu d’un montant de 144 521 $ conformément aux articles 3 et 9 de la Loi.
+À l’alinéa 11, il n’est pas fait mention de l’article 3 de la Loi mais, à l’alinéa 5, un soi‑disant aveu est fait, dans lequel l’article 3 est mentionné. Il s’agit d’un bon exemple montrant que l’on a tenté d’admettre un fait qui n’était pas allégué. Je radierai la première phrase de l’alinéa 5 de la réponse.
+[8] L’alinéa 10 de la réponse est rédigé comme suit :
+[Traduction]
+10. En produisant sa déclaration et en calculant son revenu pour son année d’imposition 1998, l’appelante a omis d’inclure un revenu d’un montant de 144 521 $.
+L’appelante soutient que l’alinéa 10 devrait être radié parce qu’une conclusion de droit y est plaidée, à savoir que le montant de 144 521 $ était un revenu. L’avocat de l’appelante a fait valoir que le mot « revenu » est défini dans la Loi et que le fait d’alléguer qu’un montant particulier est un revenu constitue donc une conclusion de droit. À mon avis, cet argument n’est pas valable, et ce, pour un certain nombre de raisons. Premièrement, le mot « revenu » n’est pas défini à l’article 248 de la Loi, qui est la disposition générale renfermant les définitions. Deuxièmement, les articles 3, 4, 5 et 9 de la Loi énoncent certaines règles fondamentales permettant de déterminer le revenu tiré de différentes sources sans tenter de définir ce qui constitue un « revenu ». L’article 9 prévoit que le revenu tiré d’une entreprise ou d’un bien est le bénéfice qui en découle, mais les tribunaux judiciaires ont statué que, sous réserve de la Loi, le revenu est déterminé selon les principes comptables et les pratiques commerciales.
+[9] Troisièmement, même si le revenu était défini dans la Loi, le fait d’alléguer qu’un montant particulier tiré d’une source particulière est un revenu ne constitue pas une conclusion de droit. La personne qui fait l’allégation affirme simplement qu’il existe ou existera une preuve tendant à inclure le montant particulier dans le terme défini (hypothétique). J’aimerais ajouter que, si le contribuable/appelant ou le ministre intimé ne pouvait pas alléguer qu’un montant particulier est ou n’est pas un revenu (compte tenu du fait qu’une telle allégation constitue une conclusion de droit), il serait fort difficile de rédiger des actes de procédure valides dans la présente cour. Je ne radierai pas l’alinéa 10 de la réponse.
+[10] L’appelante cherche à faire supprimer les mots [traduction] « et confirmant », figurant dans le préambule de l’alinéa 12 de la réponse, parce que ces mots empêchent de déterminer les hypothèses que le ministre a émises en établissant la nouvelle cotisation. L’argument de l’appelante est dénué de fondement. Il y a une différence importante entre les mots [traduction] « et » et « ou ». Les mots [traduction] « et confirmant » montrent clairement que le ministre a émis les mêmes hypothèses en établissant la nouvelle cotisation et en la ratifiant.
+[11] L’appelante cherche à faire radier les cinq sous‑alinéas suivants : 12b), d), e), f) et g). Je ne radierai pas le sous‑alinéa 12b) parce qu’il n’est ni vague, ambigu ou non pertinent, à mon avis. Je ne radierai pas les sous‑alinéas 12d), 12e) ou 12g) parce qu’ils ne comportent pas de conclusions de droit, à mon sens. À l’appui, je mentionnerai les paragraphes 8 et 9 ci‑dessus. Et enfin, je ne radierai pas le sous‑alinéa 12f). Si l’énoncé figurant au sous‑alinéa 12f) est une hypothèse que le ministre a émise en établissant la nouvelle cotisation et en la ratifiant, il convient d’inclure ce plaidoyer dans la réponse. Si le ministre invoque ailleurs dans sa réponse un argument subsidiaire qui contredit le fait présumé au sous‑alinéa 12f), il n’y a rien de mal à plaider des arguments subsidiaires incompatibles.
+[12] L’objection soulevée par l’appelante au sujet des alinéas 13 et 14 de la réponse, fondée sur le fait qu’ils renferment des conclusions de droit, est rejetée pour les motifs énoncés aux paragraphes 8 et 9 ci‑dessus. Je ne radierai ni l’alinéa 13 ni l’alinéa 14, mais l’avocat de l’intimée a convenu de modifier sa réponse en changeant le troisième mot de l’alinéa 14, [traduction] « présume », et en le remplaçant par le mot [traduction] « allègue ».
+[13] Je radierai l’alinéa 17 de la réponse parce que, sous le titre [traduction] « Dispositions législatives et moyens invoqués », l’intimée ne devrait pas alléguer un fait nouveau ou avancer un nouvel argument fondé sur un fait qui n’a pas été allégué antérieurement.
+[14] L’appelante affirme que l’alinéa 18 de la réponse devrait être radié parce que l’intimée se fonde sur un avantage de 144 521 $, conféré à un actionnaire, aux termes du paragraphe 15(1) de la Loi, alors qu’aucun fait n’a été allégué à l’appui de cet argument. Je rejette l’argument de l’appelante. Dans le cadre de l’hypothèse énoncée à l’alinéa 12 de la réponse, le sous‑alinéa 12c) dit que l’appelante était l’unique actionnaire de RX; et le sous‑alinéa 12f) dit que l’appelante [traduction] « s’est vu conférer un avantage de 144 521 $ par RX ». Je ne radierai pas l’alinéa 18.
+[15] En résumé, je supprimerai uniquement les passages suivants de la réponse de l’intimée : les alinéas 3, 7 et 17; le sous‑alinéa 4(iii) et la première phrase de l’alinéa 5. L’intimée sera autorisée à déposer et à signifier une réponse modifiée avant le 1er février 2007. L’appelante pourra déposer et signifier une réplique à la réponse ou à la réponse modifiée avant le 16 mars 2007. Les frais et dépens de la requête suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 21e jour de décembre 2006.
+« M.A. Mogan »
+M.A. Mogan, J.S.C.C.I.
+Traduction certifiée conforme
+ce 11e jour de juin 2007.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2006CCI695
+No DU DOSSIER DE LA COUR : 2006-419(IT)G
+INTITULÉ : CHRISTINE Q. XU
+c.
+LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 9 novembre 2006
+MOTIFS DE L’ORDONNANCE : L’honorable juge M.A. Mogan
+DATE DE L’ORDONNANCE : Le 21 décembre 2006
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Giuseppe G.M. LoPresti
+Avocat de l’intimée :
+Me John Grant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Giuseppe G.M. LoPresti
+Cabinet : Fitzsimmons & Company
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

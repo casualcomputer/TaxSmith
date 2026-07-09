@@ -1,0 +1,1507 @@
+---
+title: "Québecor Inc. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521165/index.do"
+last_modified: "2023-10-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 142"
+citation2: ""
+neutral_citation: "2023 TCC 142"
+decision_date: "2023-10-03"
+language: "en"
+item_id: "521165"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5690
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:35:15.897000+00:00"
+cases_cited_count: 42
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9497f3dd736f7d3d7ea26efe447ff0861b9b2d93293ea8f8cb4bb86db3be8aaf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Québecor Inc. v. The King
+
+- Citation: 2023 TCC 142
+- Decision date: 2023-10-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5690, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Québecor Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-10-03
+Neutral citation
+2023 TCC 142
+File numbers
+2018-979(IT)G
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-979(IT)G
+BETWEEN:
+QUEBECOR INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard by videoconference on June 29 and 30, 2021, at Ottawa, Canada.
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+Counsel for the Appellant:
+Wilfrid Lefebvre
+Catherine Dubé
+Counsel for the Respondent:
+Natalie Goulard
+Marie-Aimée Cantin
+Sara Jahanbakhsh
+JUDGMENT
+The appeal from the notices of determination made under the Income Tax Act for the 2007 taxation year is allowed, with costs, in accordance with the attached reasons.
+Signed at Ottawa, Canada, this 3rd day of October 2023.
+“Sylvain Ouimet”
+Ouimet J.
+Translation certified true
+on this 22nd day of December 2023.
+Melissa Paquette, Jurilinguist
+Citation: 2023 TCC 142
+Date: 20231003
+Docket: 2018-979(IT)G
+BETWEEN:
+QUEBECOR INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Ouimet J.
+I. INTRODUCTION
+[1] Quebecor Inc. (“Quebecor”) is appealing the notices of determination made by the Minister of National Revenue (the “Minister”) on October 17, 2012.[1] These notices were for Quebecor’s 2007 taxation year and were issued in accordance with the general anti-avoidance rule (“GAAR”) provided for in section 245 of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (the “ITA”).[2] By way of these notices, the Minister made three changes regarding Quebecor’s disposition of 44,821,024 common shares of Abitibi Consolidated Inc. (“Abitibi Consolidated”). The Minister made the following changes:
+1-The Minister revised the adjusted cost base (“ACB”)[3] of the 44,821,024 common shares of Abitibi Consolidated. The ACB was reduced from $191,833,983 to $1;[4]
+2-The Minister added a $95,916,990 capital gain to Quebecor’s income in connection with the disposition of 44,821,024 common shares of Abitibi Consolidated;[5] and
+3-The Minister disallowed Quebecor’s $95,916,992 capital loss in connection with the disposition of 44,821,024 common shares of Abitibi Consolidated.[6]
+II. ISSUES [2] The issues are as follows:
+1-Was the Minister correct in reducing the ACB of the 44,821,024 common shares of Abitibi Consolidated held by Quebecor from $191,833,982 to $1?
+2-Was the Minister correct in adding a $95,916,990 capital gain to Quebecor’s income following the disposition of its 44,821,024 common shares of Abitibi Consolidated?
+3-Was the Minister correct in disallowing the $95,916,992 capital loss deduction that Quebecor claimed following the disposition of its 44,821,024 common shares of Abitibi Consolidated?
+[3] In order to answer these three questions, this Court must determine whether the GAAR applies in this case. For these purposes, this Court must answer the following three questions:[7]
+1-Did Quebecor receive a tax benefit resulting from a transaction or from a transaction that was part of a series of transactions?
+2-Was the transaction giving rise to the tax benefit an avoidance transaction? In order to answer this question, this Court must determine whether the transaction may reasonably be considered to have been undertaken primarily for bona fide purposes other than to obtain a tax benefit.
+3-Was the avoidance transaction abusive? In order to answer this question, this Court must determine whether the said transaction resulted directly or indirectly in an abuse having regard to one of the provisions of the ITA.
+[4] In this case, the Court must determine whether, as the Respondent argues, there was an abuse of one of the following provisions:
+-sections 3, 38 and 54 of the ITA; and
+-subsections 39(1), 40(1), 69(5), 84(2), 85(1) and 88(2) of the ITA.
+III. RELEVANT STATUTORY PROVISIONS [5] The relevant statutory provisions are as follows:
+Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.)
+PART I – Income Tax
+DIVISION B – Computation of Income
+Basic Rules
+Income for taxation year
+3 The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer’s income for the year determined by the following rules:
+(a) determine the total of all amounts each of which is the taxpayer’s income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer’s income for the year from each office, employment, business and property,
+(b) determine the amount, if any, by which
+(i) the total of
+(A) all of the taxpayer’s taxable capital gains for the year from dispositions of property other than listed personal property, and
+(B) the taxpayer’s taxable net gain for the year from dispositions of listed personal property,
+exceeds
+(ii) the amount, if any, by which the taxpayer’s allowable capital losses for the year from dispositions of property other than listed personal property exceed the taxpayer’s allowable business investment losses for the year,
+(c) determine the amount, if any, by which the total determined under paragraph (a) plus the amount determined under paragraph (b) exceeds the total of the deductions permitted by Subdivision E in computing the taxpayer’s income for the year (except to the extent that those deductions, if any, have been taken into account in determining the total referred to in paragraph (a), and
+(d) determine the amount, if any, by which the amount determined under paragraph (c) exceeds the total of all amounts each of which is the taxpayer’s loss for the year from an office, employment, business or property or the taxpayer’s allowable business investment loss for the year,
+and for the purposes of this Part,
+(e) where an amount is determined under paragraph (d) for the year in respect of the taxpayer, the taxpayer’s income for the year is the amount so determined, and
+(f) in any other case, the taxpayer shall be deemed to have income for the year in an amount equal to zero.
+SUBDIVISION C – Taxable Capital Gains and Allowable Capital Losses
+Taxable capital gain and allowable capital loss
+38 For the purposes of this Act,
+(a) subject to paragraphs (a.1) to (a.3), a taxpayer’s taxable capital gain for a taxation year from the disposition of any property is ½ of the taxpayer’s capital gain for the year from the disposition of the property;
+…
+(b) a taxpayer’s allowable capital loss for a taxation year from the disposition of any property is 1/2 of the taxpayer’s capital loss for the year from the disposition of that property;
+…
+Meaning of capital gain and capital loss
+39(1) For the purposes of this Act,
+(a) a taxpayer’s capital gain for a taxation year from the disposition of any property is the taxpayer’s gain for the year determined under this Subdivision (to the extent of the amount thereof that would not, if section 3 were read without reference to the expression “other than a taxable capital gain from the disposition of a property” in paragraph 3(a) and without reference to paragraph 3(b), be included in computing the taxpayer’s income for the year or any other taxation year) from the disposition of any property of the taxpayer other than
+…
+(b) a taxpayer’s capital loss for a taxation year from the disposition of any property is the taxpayer’s loss for the year determined under this Subdivision (to the extent of the amount thereof that would not, if section 3 were read in the manner described in paragraph (a) of this subsection and without reference to the expression “or the taxpayer’s allowable business investment loss for the year” in paragraph 3(d), be deductible in computing the taxpayer’s income for the year or any other taxation year) from the disposition of any property of the taxpayer other than
+…
+General rules
+40 (1) Except as otherwise expressly provided in this Part
+(a) a taxpayer’s gain for a taxation year from the disposition of any property is the amount, if any, by which
+(i) if the property was disposed of in the year, the amount, if any, by which the taxpayer’s proceeds of disposition exceed the total of the adjusted cost base to the taxpayer of the property immediately before the disposition and any outlays and expenses to the extent that they were made or incurred by the taxpayer for the purpose of making the disposition, or
+(ii) if the property was disposed of before the year, the amount, if any, claimed by the taxpayer under subparagraph 40(1)(a)(iii) in computing the taxpayer’s gain for the immediately preceding year from the disposition of the property,
+exceeds
+(iii) subject to subsection 40(1.1), such amount as the taxpayer may claim
+(A) in the case of an individual (other than a trust) in prescribed form filed with the taxpayer’s return of income under this Part for the year, and
+(B) in any other case, in the taxpayer’s return of income under this Part for the year,
+as a deduction, not exceeding the lesser of
+(C) a reasonable amount as a reserve in respect of such of the proceeds of disposition of the property that are payable to the taxpayer after the end of the year as can reasonably be regarded as a portion of the amount determined under subparagraph 40(1)(a)(i) in respect of the property, and
+(D) an amount equal to the product obtained when 1/5 of the amount determined under subparagraph 40(1)(a)(i) in respect of the property is multiplied by the amount, if any, by which 4 exceeds the number of preceding taxation years of the taxpayer ending after the disposition of the property; and
+(b) a taxpayer’s loss for a taxation year from the disposition of any property is,
+(i) if the property was disposed of in the year, the amount, if any, by which the total of the adjusted cost base to the taxpayer of the property immediately before the disposition and any outlays and expenses to the extent that they were made or incurred by the taxpayer for the purpose of making the disposition, exceeds the taxpayer’s proceeds of disposition of the property, and
+(ii) in any other case, nil.
+Adjustments to cost base
+53 (1) In computing the adjusted cost base to a taxpayer of property at any time, there shall be added to the cost to the taxpayer of the property such of the following amounts in respect of the property as are applicable:
+…
+Definitions
+54 In this Subdivision,
+adjusted cost base to a taxpayer of any property at any time means, except as otherwise provided,
+(a) where the property is depreciable property of the taxpayer, the capital cost to the taxpayer of the property as of that time, and
+(b) in any other case, the cost to the taxpayer of the property adjusted, as of that time, in accordance with section 53,
+except that
+(c) for greater certainty, where any property (other than an interest in or a share of the capital stock of a flow-through entity within the meaning assigned by subsection 39.1(1) that was last reacquired by the taxpayer as a result of an election under subsection 110.6(19)) of the taxpayer is property that was reacquired by the taxpayer after having been previously disposed of by the taxpayer, no adjustment to the cost to the taxpayer of the property that was required to be made under section 53 before its reacquisition by the taxpayer shall be made under that section to the cost to the taxpayer of the property as reacquired property of the taxpayer, and
+(d) in no case shall the adjusted cost base to a taxpayer of any property at any time be less than nil; (prix de base rajusté)
+…
+proceeds of disposition of property includes,
+(a) the sale price of property that has been sold,
+(b) compensation for property unlawfully taken,
+(c) compensation for property destroyed, and any amount payable under a policy of insurance in respect of loss or destruction of property,
+(d) compensation for property taken under statutory authority or the sale price of property sold to a person by whom notice of an intention to take it under statutory authority was given,
+(e) compensation for property injuriously affected, whether lawfully or unlawfully or under statutory authority or otherwise,
+(f) compensation for property damaged and any amount payable under a policy of insurance in respect of damage to property, except to the extent that such compensation or amount, as the case may be, has within a reasonable time after the damage been expended on repairing the damage,
+(g) an amount by which the liability of a taxpayer to a mortgagee or hypothecary creditor is reduced as a result of the sale of mortgaged or hypothecated property under a provision of the mortgage or hypothec, plus any amount received by the taxpayer out of the proceeds of the sale,
+(h) any amount included in computing a taxpayer’s proceeds of disposition of the property because of section 79, and
+(i) in the case of a share, an amount deemed by subparagraph 88(2)(b)(ii) not to be a dividend on that share,
+but notwithstanding any other provision of this Part, does not include
+(j) any amount that would otherwise be proceeds of disposition of a share to the extent that the amount is deemed by subsection 84(2) or (3) to be a dividend received except to the extent the dividend is deemed
+(i) by paragraph 55(2)(b) to be proceeds of disposition of the share, or
+(ii) by subparagraph 88(2)(b)(ii) not to be a dividend, or
+(k) any amount that would otherwise be proceeds of disposition of property of a taxpayer to the extent that the amount is deemed by subsection 84.1(1), 212.1(1) or 212.2(2) to be a dividend paid to the taxpayer or, if the taxpayer is a partnership, to a member of the taxpayer; (produit de disposition)
+SUBDIVISION F – Rules Relating to Computation of Income
+Inadequate considerations
+69 (5) Where in a taxation year of a corporation property of the corporation has been appropriated in any manner whatever to, or for the benefit of, a shareholder, on the winding-up of the corporation, the following rules apply:
+(a) the corporation is deemed, for the purpose of computing its income for the year, to have disposed of the property immediately before the winding‑up for proceeds equal to its fair market value at that time;
+(b) the shareholder shall be deemed to have acquired the property at a cost equal to its fair market value immediately before the winding-up;
+(c) subsections 52(1) and (2) do not apply for the purposes of determining the cost to the shareholder of the property; and
+(d) subsections 13(21.2), 14(12), 18(15) and 40(3.4) and (3.6) do not apply in respect of any property disposed of on the winding-up.
+…
+SUBDIVISION H – Corporations Resident in Canada and their Shareholders
+Distribution on winding-up, etc.
+84 (2) Where funds or property of a corporation resident in Canada have at any time after March 31, 1977 been distributed or otherwise appropriated in any manner whatever to or for the benefit of the shareholders of any class of shares in its capital stock, on the winding-up, discontinuance or reorganization of its business, the corporation shall be deemed to have paid at that time a dividend on the shares of that class equal to the amount, if any, by which
+(a) the amount or value of the funds or property distributed or appropriated, as the case may be,
+exceeds
+(b) the amount, if any, by which the paid-up capital in respect of the shares of that class is reduced on the distribution or appropriation, as the case may be,
+and a dividend shall be deemed to have been received at that time by each person who held any of the issued shares at that time equal to that proportion of the amount of the excess that the number of the shares of that class held by the person immediately before that time is of the number of the issued shares of that class outstanding immediately before that time.
+Redemption, etc.
+84 (3) Where at any time after December 31, 1977 a corporation resident in Canada has redeemed, acquired or cancelled in any manner whatever (otherwise than by way of a transaction described in subsection 84(2)) any of the shares of any class of its capital stock,
+(a) the corporation shall be deemed to have paid at that time a dividend on a separate class of shares comprising the shares so redeemed, acquired or cancelled equal to the amount, if any, by which the amount paid by the corporation on the redemption, acquisition or cancellation, as the case may be, of those shares exceeds the paid-up capital in respect of those shares immediately before that time; and
+(b) a dividend shall be deemed to have been received at that time by each person who held any of the shares of that separate class at that time equal to that portion of the amount of the excess determined under paragraph 84(3)(a) that the number of those shares held by the person immediately before that time is of the total number of shares of that separate class that the corporation has redeemed, acquired or cancelled, at that time.
+…
+Transfer of property to corporation by shareholders
+85 (1) Where a taxpayer has, in a taxation year, disposed of any of the taxpayer’s property that was eligible property to a taxable Canadian corporation for consideration that includes shares of the capital stock of the corporation, if the taxpayer and the corporation have jointly elected in prescribed form and in accordance with subsection 85(6), the following rules apply:
+(a) the amount that the taxpayer and the corporation have agreed on in their election in respect of the property shall be deemed to be the taxpayer’s proceeds of disposition of the property and the corporation’s cost of the property;
+(b) subject to paragraph 85(1)(c), where the amount that the taxpayer and the corporation have agreed on in their election in respect of the property is less than the fair market value, at the time of the disposition, of the consideration therefor (other than any shares of the capital stock of the corporation or a right to receive any such shares) received by the taxpayer, the amount so agreed on shall, irrespective of the amount actually so agreed on by them, be deemed to be an amount equal to that fair market value;
+(c) where the amount that the taxpayer and the corporation have agreed on in their election in respect of the property is greater than the fair market value, at the time of the disposition, of the property so disposed of, the amount so agreed on shall, irrespective of the amount actually so agreed on, be deemed to be an amount equal to that fair market value;
+…
+(h) the cost to the taxpayer of any common shares of any class of the capital stock of the corporation receivable by the taxpayer as consideration for the disposition shall be deemed to be that proportion of the amount, if any, by which the proceeds of the disposition exceed the total of the fair market value, at the time of the disposition, of the consideration (other than shares of the capital stock of the corporation or a right to receive any such shares) received by the taxpayer for the disposition and the cost to the taxpayer of all preferred shares of the capital stock of the corporation receivable by the taxpayer as consideration for the disposition, that
+(i) the fair market value, immediately after the disposition, of those common shares of that class,
+is of
+(ii) the fair market value, immediately after the disposition, of all common shares of the capital stock of the corporation receivable by the taxpayer as consideration for the disposition;
+…
+Winding-up of Canadian corporation
+88 (2) Where a Canadian corporation (other than a subsidiary to the winding-up of which the rules in subsection 88(1) applied) has been wound up after 1978 and, at a particular time in the course of the winding-up, all or substantially all of the property owned by the corporation immediately before that time was distributed to the shareholders of the corporation,
+(a) for the purposes of computing the corporation’s
+(i) capital dividend account,
+(i.1) capital gains dividend account (within the meaning assigned by subsection 131(6), where the corporation is an investment corporation,
+(ii) capital gains dividend account (within the meaning assigned by section 133), and
+(iii) pre-1972 capital surplus on hand,
+at the time (in this paragraph referred to as the “time of computation”) immediately before the particular time,
+(iv) the taxation year of the corporation that otherwise would have included the particular time shall be deemed to have ended immediately before the time of computation, and a new taxation year shall be deemed to have commenced at that time, and
+(v) each property of the corporation that was so distributed at the particular time shall be deemed to have been disposed of by the corporation immediately before the end of the taxation year so deemed to have ended for proceeds equal to the fair market value of the property immediately before the particular time,
+…
+(b) where the corporation is, by virtue of subsection 84(2), deemed to have paid at the particular time a dividend (in this paragraph referred to as the “winding-up dividend”) on shares of any class of its capital stock, the following rules apply:
+(i) such portion of the winding-up dividend as does not exceed the corporation’s capital dividend account immediately before that time or capital gains dividend account immediately before that time, as the case may be, shall be deemed, for the purposes of an election in respect thereof under subsection 83(2), 131(1) (as that subsection applies for the purposes of section 130) or 133(7.1), as the case may be, and where the corporation has so elected, for all other purposes, to be the full amount of a separate dividend,
+(ii) the portion of the winding-up dividend equal to the lesser of the corporation’s pre-1972 capital surplus on hand immediately before that time and the amount by which the winding-up dividend exceeds
+(A) the portion thereof in respect of which the corporation has made an election under subsection 83(2), or
+(B) the portion thereof in respect of which the corporation has made an election under subsection 133(7.1),
+as the case may be, shall be deemed not to be a dividend,
+(iii) notwithstanding the definition taxable dividend in subsection 89(1), the winding-up dividend, to the extent that it exceeds the total of the portion thereof deemed by subparagraph 88(2)(b)(i) to be a separate dividend for all purposes and the portion deemed by subparagraph 88(2)(b)(ii) not to be a dividend, shall be deemed to be a separate dividend that is a taxable dividend, and
+(iv) each person who held any of the issued shares of that class at the particular time shall be deemed to have received that proportion of any separate dividend determined under subparagraph 88(2)(b)(i) or 88(2)(b)(iii) that the number of shares of that class held by the person immediately before the particular time is of the number of issued shares of that class outstanding immediately before that time, and
+(c) for the purpose of computing the income of the corporation for its taxation year that includes the particular time, paragraph 12(1)(t) shall be read as follows:
+“12(1)(t) the amount deducted under subsection 127(5) or 127(6) in computing the taxpayer’s tax payable for the year or a preceding taxation year to the extent that it was not included under this paragraph in computing the taxpayer’s income for a preceding taxation year or is not included in an amount determined under paragraph 13(7.1)(e) or 37(1)(e) or subparagraph 53(2)(c)(vi) or 53(2)(h)(ii) or the amount determined for I in the definition undepreciated capital cost in subsection 13(21) or L in the definition cumulative Canadian exploration expense in subsection 66.1(6);”.
+…
+DIVISION C – Computation of Taxable Income
+Lump-sum Payments
+Deduction of taxable dividends received by corporation resident in Canada
+112 (1) Where a corporation in a taxation year has received a taxable dividend from
+(a) a taxable Canadian corporation, or
+(b) a corporation resident in Canada (other than a non-resident-owned investment corporation or a corporation exempt from tax under this Part) and controlled by it,
+an amount equal to the dividend may be deducted from the income of the receiving corporation for the year for the purpose of computing its taxable income.
+PART XVI – Tax Avoidance
+Definitions
+245(1) In this section,
+tax benefit means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act, and includes a reduction, avoidance or deferral of tax or other amount that would be payable under this Act but for a tax treaty or an increase in a refund of tax or other amount under this Act as a result of a tax treaty; (avantage fiscal)
+tax consequences to a person means the amount of income, taxable income, or taxable income earned in Canada of, tax or other amount payable by or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount; (attribut fiscal)
+transaction includes an arrangement or event. (opération)
+General anti-avoidance provision
+(2) Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+Avoidance transaction
+(3) An avoidance transaction means any transaction
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+Application of subsection (2)
+(4) Subsection (2) applies to a transaction only if it may reasonably be considered that the transaction
+(a) would, if this Act were read without reference to this section, result directly or indirectly in a misuse of the provisions of any one or more of
+(i) this Act,
+(ii) the Income Tax Regulations,
+(iii) the Income Tax Application Rules,
+(iv) a tax treaty, or
+(v) any other enactment that is relevant in computing tax or any other amount payable by or refundable to a person under this Act or in determining any amount that is relevant for the purposes of that computation; or
+(b) would result directly or indirectly in an abuse having regard to those provisions, other than this section, read as a whole.
+Determination of tax consequences
+Without restricting the generality of subsection (2), and notwithstanding any other enactment,
+(a) any deduction, exemption or exclusion in computing income, taxable income, taxable income earned in Canada or tax payable or any part thereof may be allowed or disallowed in whole or in part,
+(b) any such deduction, exemption or exclusion, any income, loss or other amount or part thereof may be allocated to any person,
+(c) the nature of any payment or other amount may be recharacterized, and
+(d) the tax effects that would otherwise result from the application of other provisions of this Act may be ignored,
+in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly, from an avoidance transaction.
+…
+PART XVII – Interpretation
+Series of transactions
+248 (10) For the purposes of this Act, where there is a reference to a series of transactions or events, the series shall be deemed to include any related transactions or events completed in contemplation of the series.
+IV. FACTS A. Background
+[6] Quebecor is a management company that is part of the communications industry through Quebecor Media Inc. (“Quebecor Media”) and its subsidiaries. Quebecor is a Canadian public corporation incorporated in 1965 under Part I of the Companies Act (the “QCA”)[8] and governed by the Business Corporations Act (the “BCA”).[9] Quebecor is a “taxable Canadian corporation” within the meaning of the ITA,[10] and its shares are listed on a designated stock exchange. Its taxation year ends on the last Saturday of December.[11]
+Acquisition by Quebecor of 44,821,024 common shares of Abitibi Consolidated
+[7] On July 7, 1987, Quebecor acquired 44,821,024 common shares of Abitibi Consolidated. Following this acquisition, Quebecor held 10.18% of the outstanding shares of Abitibi Consolidated. At this time, Abitibi Consolidated was a public corporation that was incorporated under the Canada Business Corporations Act[12] (the “CBCA”) and that was part of the forestry industry. On December 14, 2005, the fair market value (the “FMV”)[13] of these shares was $191,833,983, and their paid-up capital (“PUC”)[14] was $1. The ACB of these shares was $1.[15]
+Quebecor’s and Capitale d’Amérique CDPQ Inc.’s investments in Quebecor Media
+[8] Quebecor Media is a taxable Canadian corporation incorporated on August 8, 2000, under Part IA of the QCA, and it is currently governed by the BCA.[16] Capitale d’Amérique CDPQ Inc. (“Capitale d’Amérique CDPQ”) is a wholly owned subsidiary of the Caisse de dépôt et placement du Québec, and it is exempt from taxation under the ITA.[17]
+[9] In October 2000, Quebecor and Capitale d’Amérique CDPQ invested large amounts in Quebecor Media. The purpose of this investment was to allow Quebecor Media to acquire all the shares of Groupe Vidéotron Ltée (“Groupe Vidéotron”). Following this investment, Quebecor directly and indirectly held 54.72% of the capital stock shares of Quebecor Media. The remaining 45.28% of Quebecor Media’s capital stock was held by Capitale d’Amérique CDPQ.[18]
+Acquisition by Quebecor Media of all the outstanding shares of Groupe Vidéotron
+[10] On October 23, 2000, Quebecor Media acquired all the outstanding shares of Groupe Vidéotron.[19] At the time of this acquisition, Groupe Vidéotron held the following shares of 3662527 Canada Inc.[20] (“3662527”):
+ACB
+PUC
+10,000 common voting shares
+$20,134,789
+$19,775,000
+90,000 common non-voting shares
+$181,213,178
+$177,979,000
+[11] The balance of 3662527’s shares, i.e., 5,000 class “C” preferred shares, was held by the Carlyle Group.[21] The Carlyle Group is a third party operating at arm’s length from Quebecor.[22] It subscribed for class “C” preferred shares of 3662527 in November 1999 for $200,000,000.[23]
+44,821,024 common shares (10.18%)
+ACB: $1
+PUC: $1
+FMV: $191,833,983
+10,000 common voting shares
+ACB: $20,134,798
+PUC: $19,775,000
+90,000 common non‑voting shares
+ACB: $181,213,178
+PUC: $177,979,000
+5,000 class “C” preferred shares
+ACB: $200,000,000
+3662527 Canada Inc.
+Carlyle Group
+Groupe Vidéotron Ltée
+Quebecor Media Inc.
+100%
+Abitibi Consolidated Inc.
+Quebecor Inc.
+54.72%
+45.28%
+100%
+Capital d’Amérique CDPQ Inc.
+Caisse de dépôt et de placement du Québec
+Transfer by Quebecor Media of its Groupe Vidéotron shares to 9071-4866 Québec Inc. and amalgamation of these two corporations
+[12] On December 7, 2000, Quebecor Media transferred its shares of Groupe Vidéotron capital stock to 9071-4866 Québec Inc. (“9071-4866”). 9071-4866 Québec Inc. was a wholly owned subsidiary of Quebecor Media. The transfer was completed in accordance with subsection 85(1) of the ITA. As consideration for this transfer of shares, Quebecor Media received 9071-4866 common shares.[24]
+5,000 class “C” preferred shares
+ACB: $200,000,000
+44,821,024 common shares (10.18%)
+ACB: $1
+PUC: $1
+FMV: $191,833,983
+10,000 common voting shares
+ACB: $20,134,798
+PUC: $19,775,000
+90,000 common non-voting shares
+ACB: $181,213,178
+PUC: $177,979,000
+Carlyle Group
+3662527 Canada Inc.
+100%
+9071-4866 Québec Inc.
+Groupe Vidéotron Ltée
+100%
+Quebecor Media Inc.
+Abitibi Consolidated Inc.
+54.72%
+Quebecor Inc.
+Capital d’Amérique CDPQ Inc.
+45.28%
+100%
+Caisse de dépôt et de placement du Québec
+[13] Subsequently, Groupe Vidéotron amalgamated with 9071-4866 in accordance with subsection 87(1) of the ITA, and the new Groupe Vidéotron Ltée (the “new Groupe Vidéotron”) was formed. This amalgamation allowed for an increase in the ACB of the 3662527 shares held by the new Groupe Vidéotron, in accordance with paragraph 88(1)(d) of the ITA.[25] The ACB was increased to a total of $400,000,000, broken down as follows:[26]
+ACB
+PUC
+Increased ACB
+10,000 common voting shares
+$20,134,798,
+$20,065,202
+$40,200,000
+90,000 common non-voting shares
+$181,213,178
+$178,586,822
+$359,800,000
+5,000 class “C” preferred shares
+ACB: $200,000,000
+44,821,024 common shares (10.18%)
+ACB: $1
+PUC: $1
+FMV: $191,833,983
+10,000 common voting shares
+Increased ACB: $40,200,000
+PUC: $19,775,000
+90,000 common non-voting shares
+Increased ACB: $359,800,000
+PUC: $177,979,000
+3662527 Canada Inc.
+Carlyle Group
+Groupe Vidéotron Ltée
+100%
+45.28%
+54.72%
+Abitibi Consolidated Inc.
+Quebecor Media Inc.
+Quebecor Inc.
+Capital d’Amérique CDPQ Inc.
+100%
+Caisse de dépôt et de placement du Québec
+Incorporation of 9101-0827 Québec Inc.
+[14] On February 16, 2001, 9101-0827 Québec Inc. (“9101-0827”) was incorporated under Part IA of the QCA.[27]
+Incorporation of Vidéotron Telecom Ltée
+[15] On August 31, 2001, the two operating companies owned by 3662527 amalgamated to become Vidéotron Telecom Ltée (“Vidéotron Telecom”).[28]
+Winding-up of the new Groupe Vidéotron into Quebecor Media
+[16] In December 2002, the new Groupe Vidéotron was wound up into Quebecor Media.[29]
+9101-0827 issues 100 common shares to Quebecor Media
+[17] On December 9, 2003, 9101-0827 issued 100 common shares to Quebecor Media for $100.[30]
+5,000 class “C” preferred shares
+ACB: $200,000,000
+44,821,024 common shares (10.18%)
+ACB: $1
+PUC: $1
+FMV: $191,833,983
+10,000 common voting shares
+Increased ACB: $40,200,000
+PUC: $19,775,000
+90,000 common non-voting shares
+Increased ACB: $359,800,000
+PUC: $177,979,000
+100 common shares
+ACB: $100
+PUC: $100
+Carlyle Group
+Vidéotron Telecom Ltée
+3662527 Canada Inc.
+9101-0827 Québec Inc.
+Quebecor Media Inc.
+54.72%
+Abitibi Consolidated Inc.
+45.28%
+Quebecor Inc.
+Capital d’Amérique CDPQ Inc.
+100%
+Caisse de dépôt et de placement du Québec
+Quebecor Media subscribes for common shares of 9101‑0827
+[18] On December 22, 2003, Quebecor Media subscribed for 55,000,000 common shares of 9101-0827 for $55,000,000.[31]
+9101-0827 acquires class “C” preferred shares of 3662527 held by the Carlyle Group
+[19] On December 22, 2003, 9101-0827 acquired 5,000 3662527 class “C” preferred shares held by the Carlyle Group for $125,000,000 ($55,000,000 in cash and an additional $70,000,000, which could vary and which could reach $110,000,000, to be paid no later than December 2008).[32] Following this acquisition, all 3662527 shares were held by Quebecor Media and its subsidiary 9101-0827.
+10,000 common voting shares
+Increased ACB: $40,200,000
+PUC: $19,775,000
+90,000 common non-voting shares
+Increased ACB: $359,800,000
+PUC: $177,979,000
+44,821,024 common shares (10.18%)
+ACB: $1
+PUC: $1
+FMV: $191,833,983
+5,000 class “C” preferred shares
+55,000,100 common shares
+ACB: $55,000,100
+PUC: $55,000,100
+Vidéotron Telecom Ltée
+3662527 Canada Inc.
+9101-0827 Québec Inc.
+Quebecor Media Inc.
+Abitibi Consolidated Inc.
+45.28%
+54.72%
+Quebecor Inc.
+Capital d’Amérique CDPQ Inc.
+100%
+Caisse de dépôt et de placement du Québec
+Reduction in Quebecor Media’s FMV
+[20] As at December 31, 2004, after a slowdown in its business and a general economic downturn, Quebecor Media’s FMV decreased to $3,400,000,000.[33] Part of the decrease in Quebecor Media’s FMV was attributable to the decrease in the FMV of the 3662527 shares.[34]
+FMV and ACB of 3662527 shares held by Quebecor Media
+[21] As at December 13, 2005, the total FMV of the 3662527 shares was $195,600,000. The total FMV and total ACB of the voting and non-voting common shares held by Quebecor Media was $400,000,000. The 5,000 3662527 class “C” preferred shares held by 9101-0827 had an FMV of $195,600,000 and an ACB of $166,500,000.[35]
+Reduction in the PUC of 3662527 class “C” preferred shares held by 9101-0827
+[22] On December 14, 2005, the stated capital account relating to the 3662527 class “C” preferred shares held by 9101-0827 was reduced by $199,995,000. The PUC of these shares dropped from $200,000,000 to $5,000. The reduction in PUC was recorded in the contributed surplus.[36]
+Transfer of Abitibi Consolidated shares by Quebecor to 3662527 as consideration for 1,000 class “D” preferred shares of 3662527
+[23] On December 14, 2005, Quebecor disposed of its 44,821,024 common shares of Abitibi Consolidated in favour of 3662527. This disposition was carried out through a transfer made in accordance with subsection 85(1) of the ITA, namely, by “rollover”. The agreed amount, the PUC and ACB of the shares was $1. The FMV of the shares was $191,833,983. As consideration, 3662527 issued 1,000 class “D” preferred shares to Quebecor. The FMV of these shares was $191,833,983 and their PUC was $1.[37]
+55,000,100 common shares
+ACB: $55,000,100
+PUC: $55,000,100
+44,821,024 common shares
+ACB: $1
+PUC: $1
+FMV: $191,833,983
+1,000 class “D” preferred shares
+ACB: $1
+PUC: $1
+FMV: $191,833,983
+2,515,276 class “A” shares
+ACB: $344,209,002
+FMV: $138,141,304
+2 class “C” preferred shares
+ACB: $6,323,675
+FMV: $11,859,696
+10,000 common voting shares
+Increased ACB: $40,200,000
+PUC: $19,775,000
+FMV: $1
+90,000 common non-voting shares
+Increased ACB: $359,800,000
+PUC: $177,979,000
+FMV: $1
+5,000 class “C” preferred shares
+ACB: $166,500,000
+PUC: $5,000
+FMV: $195,600,000
+Quebecor Media Inc.
+Abitibi Consolidated Inc.
+9101-0827 Québec Inc.
+3662527 Canada Inc.
+Vidéotron Telecom Ltée
+54.72%
+Quebecor Inc.
+45.28%
+Capital d’Amérique CDPQ Inc.
+Caisse de dépôt et de placement du Québec
+100%
+Redemption of the 1,000 3662527 class “D” preferred shares held by Quebecor as consideration for a $191,833,983 demand note
+[24] On December 14, 2005, the 1,000 3662527 class “D” preferred shares held by Quebecor were immediately repurchased by 3662527. As consideration, 3662527 issued Quebecor a demand note in the amount of $191,833,983.[38]
+[25] Under subsection 84(3) of the ITA, 3662527 was thus deemed to have paid Quebecor a $191,883,982 dividend. Given that 3662527 was a taxable Canadian corporation under subsection 112(1) of the ITA, this taxable dividend could be deducted from Quebecor’s income.[39] The deemed payment of this dividend therefore did not have any tax consequences for Quebecor.
+Deemed dividend
+$191,883,982
+44,821,024 common shares
+ACB: $1
+PUC: $1
+FMV: $191,833,983
+2,515,276 class “A” shares
+ACB: $344,209,002
+FMV: $138,141,304
+2 class “C” preferred shares
+ACB: $6,323,675
+FMV: $11,859,696
+10,000 common voting shares
+Increased ACB: $40,200,000
+PUC: $19,775,000
+FMV: $1
+90,000 common non-voting shares
+Increased ACB: $359,800,000
+PUC: $177,979,000
+FMV: $1
+5,000 class “C” preferred shares
+ACB: $166,500,000
+PUC: $5,000
+FMV: $195,600,000
+55,000,100 common shares
+ACB: $55,000,100
+PUC: $55,000,100
+Abitibi Consolidated Inc.
+Demand note for $191,833,983
+3662527 Canada Inc.
+9101-0827 Québec Inc.
+Vidéotron Telecom Ltée
+Quebecor Media Inc.
+Quebecor Inc.
+54.72%
+45.28%
+Capital d’Amérique CDPQ Inc.
+100%
+Caisse de dépôt et de placement du Québec
+Distribution of Abitibi Consolidated shares held by 3662527 to Quebecor as consideration for the demand note
+[26] On December 14, 2005, Quebecor exchanged its $191,833,983 demand note for the 44,821,024 common shares of Abitibi Consolidated held by 3662527.[40] Through this exchange, 3662527 disposed of its Abitibi Consolidated shares and realized a $191,883,982 capital gain (the $191,833,983 proceeds of disposition minus the $1 ACB). The ACB of the Abitibi Consolidated common shares held by Quebecor was established at $191,883,982, namely, the amount that Quebecor paid for the shares, which corresponds to the value of the demand note.[41]
+55,000,100 common shares
+ACB: $55,000,100
+PUC: $55,000,100
+44,821,024 common shares
+ACB: $191,833,983
+PUC: $1
+FMV: $191,833,983
+2,515,276 class “A” shares
+ACB: $344,209,002
+FMV: $138,141,304
+2 class “C” preferred shares
+ACB: $6,323,675
+FMV: $11,859,696
+10,000 common voting shares
+Increased ACB: $40,200,000
+PUC: $19,775,000
+FMV: $1
+90,000 common non-voting shares
+Increased ACB: $359,800,000
+PUC: $177,979,000
+FMV: $1
+5,000 class “C” preferred shares
+ACB: $166,500,000
+PUC: $5,000
+FMV: $195,600,000
+Realized capital gain
+$191,883,982
+Abitibi Consolidated Inc.
+3662527 Canada Inc.
+Vidéotron Telecom Ltée
+9101-0827 Québec Inc.
+Quebecor Media Inc.
+54.72%
+45.28%
+Capital d’Amérique CDPQ Inc.
+Quebecor Inc.
+100%
+Caisse de dépôt et de placement du Québec
+Winding-up of 3662527
+[27] On December 14, 2005, 3662527 was wound up under subsection 88(2) of the ITA, which deals with the winding-up of a Canadian corporation. As the holder of the preferred shares of 3662527, 9101-0827 received all of 3662527’s assets, i.e., the Vidéotron Telecom shares and the balance in its bank account amounting to approximately $45,600,000. The FMV of the Vidéotron Telecom shares was approximately $150,000,000. Quebecor Media did not receive any assets as part of the winding-up of 3662527.[42]
+[28] The winding-up of 3662527 had the following tax consequences:[43]
+-3662527 was deemed to have disposed of its assets at their FMV in accordance with subsection 69(5) of the ITA. Subsection 69(5) deals with the rules that apply if the property of the wound-up corporation was appropriated to, or for the benefit of, one of its shareholders during the winding-up.
+-3662527 reported a $206,067,698 capital loss from the disposition of its class “A” shares of Vidéotron Telecom ($138,141,304 proceeds of disposition minus the $344,209,002 ACB). 3662527 also realized a $5,536,021 capital gain from the disposition of its class “C” shares of Vidéotron Telecom ($11,859,696 proceeds of disposition minus the $6,323,675 ACB).
+-3662527’s $206,067,698 capital loss resulting from the disposition of Vidéotron Telecom’s class “A” shares was deducted from the following taxable capital gains:
+othe $191,883,982 capital gain realized on the shares of Abitibi Consolidated; and
+othe $5,536,021 capital gain realized on the class “C” shares of Vidéotron Telecom.
+-Under subsection 84(2) of the ITA, 3662527 was deemed to have paid to 9101-0827 a $195,527,333 winding-up dividend. 9101-0827 was deemed to have received this dividend. The winding-up dividend was deducted from 9101-0827’s income in accordance with subsection 112(1) of the ITA because the dividend had been received from a taxable Canadian corporation.
+-9101-0827 was deemed to have disposed of the 5,000 3662527 class “C” preferred shares at their FMV. The proceeds of disposition of the shares was $5,000. The ACB of these shares was $166,500,000. As a result, 9101‑0827 reported a capital loss that was reduced to $0 under subsection 112(3) of the ITA, which deals with losses on shares that are capital property.
+-Quebecor Media was deemed to have disposed of the 10,000 common voting shares and the 90,000 common non-voting shares of 3662527 at their FMV. The proceeds of disposition of these shares was nil whereas their ACB was $400,000,000. Consequently, Quebecor Media reported a $400,000,000 capital loss from the disposition of its 3662527 shares.
+Amalgamation of Abitibi Consolidated with Bowater and disposition of the 44,821,024 shares of Abitibi Consolidated by Quebecor
+[29] In 2007, as part of the amalgamation of Abitibi Consolidated and Bowater, Quebecor disposed of its 44,821,024 common shares of Abitibi Consolidated in exchange for 2,806,244 shares of Abitibi Bowater Canada (“Abitibi Bowater”). Following the disposition of its Abitibi Consolidated shares, Quebecor reported a $95,916,992 capital loss ($95,916,991 proceeds of disposition minus the $191,833,983 ACB).[44]
+Disposition by Quebecor of its 2,806,244 Abitibi Bowater shares
+[30] In 2010, as part of an arrangement process with creditors undertaken by Abitibi Bowater, Quebecor disposed of its 2,806,244 Abitibi Bowater shares. The proceeds of disposition of these shares was $0. Following this disposition, Quebecor reported a $95,916,991 capital loss.[45]
+[31] Quebecor compensated Capital d’Amérique CDPQ for the use of the tax consequences transferred to it by Quebecor Media.[46]
+B. Series of transactions
+[32] The parties agreed that the series of transactions consists of the following transactions:[47]
+-the incorporation of 9101-0827 and the issuance of 100 common shares to Quebecor Media;
+-the acquisition by 9101-0827 of the 5,000 class “C” preferred shares of 3662527. These shares were held by the Carlyle Group;
+-the reduction in the PUC of the 3662527 class “C” preferred shares held by 9101-0827;
+-the tax-free rollover transfer of the Abitibi Consolidated shares by Quebecor to 3662527 as consideration for the 1,000 class “D” preferred shares of 3662527;
+-the redemption of the 1,000 3662527 class “D” preferred shares held by Quebecor as consideration for a $191,833,983 demand note;
+-the distribution of the Abitibi Consolidated shares held by 3662527 to Quebecor as consideration for the demand note;
+-the winding-up of 3662527; and
+-Quebecor’s disposition of the Abitibi Consolidated shares.
+[33] This series of transactions generated two capital losses in respect of two separate properties for the same economic interest in 3662527.[48] More specifically, this is a first capital loss of $206,067,698 resulting from 3662527’s disposition of its Vidéotron Telecom class “A” shares and a second capital loss of $400,000,000 resulting from Quebecor Media’s disposition of its voting and non-voting common shares of 3662527. The economic loss relating to Vidéotron Telecom’s activities was realized both on 3662527’s assets and on its capital stock.
+C. Tax benefit within the meaning of subsection 245(1) of the ITA
+[34] The parties agreed on the fact that the series of transactions gave rise to a tax benefit within the meaning of subsection 245(1) of the ITA. This benefit was the reduction in the tax payable by Quebecor following the disposition of its 44,821,024 common shares of Abitibi Consolidated.[49]
+D. The avoidance transaction within the meaning of subsection 245(3) of the ITA
+[35] The parties agreed that the avoidance transaction is made up of the following transactions:[50]
+-the incorporation of 9101-0827;
+-the acquisition by 9101-0827 of the 5,000 class “C” preferred shares of 3662527. These shares were held by the Carlyle Group;
+-the reduction in the PUC of the 3662527 class “C” preferred shares held by 9101-0827;
+-the tax-free rollover transfer of the Abitibi Consolidated shares by Quebecor to 3662527 as consideration for the 1,000 class “D” preferred shares of 3662527;
+-the redemption of the 1,000 3662527 class “D” preferred shares held by Quebecor as consideration for a $191,833,983 demand note;
+-the distribution of the Abitibi Consolidated shares held by 3662527 to Quebecor as consideration for the demand note; and
+-the winding-up of 3662527.
+V. POSITIONS OF THE PARTIES A. Positions of the parties regarding the legal framework applicable to the GAAR
+[36] The parties agreed on the legal framework applicable to the GAAR. The parties contend that the GAAR allows the Minister to deny tax benefits for certain arrangements that, although they may be consistent with a literal interpretation of the provisions of the ITA, amount to an abuse of the application of these provisions.[51]
+[37] The parties argue that in order to determine whether the GAAR applies, the following three-step analysis must be performed:
+-The first step involves determining whether there is a “tax benefit” arising from a transaction or a series of transactions within the meaning of subsection 245(1) of the ITA.
+-The second step is to determine whether the transaction (or at least one of the transactions in the series of transactions) that resulted in the tax benefit is an avoidance transaction under subsection 245(3) of the ITA, in the sense that it was not arranged primarily for bona fide purposes other than to obtain the tax benefit.
+-The third step is to determine whether the avoidance transaction is abusive within the meaning of subsection 245(4) of the ITA.[52]
+[38] The parties allege that these three steps constitute three requirements that must be met in order for the GAAR to apply.[53]
+[39] As to the first step, the parties argue that in accordance with subsection 245(1) of the ITA, a tax benefit is established when there is a reduction, avoidance or deferral of tax or an increase in a refund of tax or other amount paid under the ITA.[54]
+[40] As for the second step, the parties claim that in the case of a series of transactions, only one of the transactions in the series must have been carried out primarily for tax purposes for there to have been an avoidance transaction.[55]
+[41] As for the third step, which consists of determining whether the avoidance transactions were abusive within the meaning of subsection 245(4) of the ITA, the parties contend that the approach adopted by the Supreme Court of Canada includes the following two prongs:[56]
+-The first prong is to determine the object, spirit or purpose of the provisions of the ITA that are being relied on for the tax benefit, having regard to the scheme of the Act, the relevant provisions and the permissible extrinsic aids.[57]
+-The second prong is to determine whether the tax benefit obtained frustrates or defeats the object, spirit or purpose of the provisions being relied on for the tax benefit.[58]
+[42] The parties allege that the Court may find that an avoidance transaction is abusive in the following three circumstances,[59] which may also overlap:[60]
+-if the transaction or series of transactions achieves an outcome that a statutory provision was intended to prevent;
+-if the transaction or series of transactions defeats the underlying rationale of a provision; and
+-if the transaction or series of transactions circumvents the provision in a manner that frustrates or defeats its object, spirit or purpose.
+[43] The Respondent has the burden of demonstrating that the avoidance transaction constitutes an abuse of the provisions of the ITA.[61]
+B. Position of Quebecor
+[44] Quebecor admits that it obtained a tax benefit following the series of transactions undertaken in order to obtain this benefit.[62] However, Quebecor asserts that the third requirement necessary for the GAAR to apply was not fulfilled.
+[45] Quebecor argues that the Minister unfairly used the GAAR to amend the tax consequences resulting from the avoidance transaction. According to Quebecor, the Minister could not act in this way given that the third requirement necessary for the GAAR to apply was not fulfilled.[63]
+[46] Therefore, in this case, the Court must only determine whether the transactions identified by the Minister are abusive within the meaning of subsection 245(4) of the ITA.[64] According to Quebecor, the avoidance transaction did not result in the abuse of the object, spirit or purpose of paragraph 38(b) and subsections 69(5), 84(3), 85(1), 88(2) and 112(1) of the ITA when they are read in light of the ITA as a whole.[65]
+[47] Quebecor submits that the winding-up of 3662527 created two separate capital losses in its corporate structure.
+[48] Quebecor Media realized an initial $400,000,000 capital loss during the winding-up of 3662527 when it was deemed to have disposed of its 10,000 common voting shares and of the 90,000 common non-voting shares of 3662527 at their FMV. The proceeds of disposition of these shares was nil whereas their ACB was $400,000,000. Consequently, Quebecor Media realized a $400,000,000 capital loss from the disposition of its 3662527 shares.
+[49] 3662527 realized a second $206,067,698 capital loss on its own winding‑up. The loss resulted from the disposition of its class “A” shares of Vidéotron Telecom.[66]
+[50] Quebecor alleges that in the absence of a principle of consolidation in Canadian tax law, each property must be treated separately.[67] It also argues that these losses were not created, as the Respondent submits, but that they were unrealized losses that were later realized. They reflect a decrease in the value of the 3662527 and Vidéotron Telecom shares.[68]
+[51] Quebecor contends that subsection 88(2) of the ITA does not provide that the transactions preceding a winding-up must be taken into consideration in the context of a winding-up carried out under this provision.[69] Furthermore, according to Quebecor, the Respondent did not rely on any of the provisions of the ITA that aim to limit or prevent the deduction of unrealized losses.[70] Quebecor claims that these provisions contain specific rules and demonstrate that Parliament deliberately chose to take into account the principle of non‑consolidation and the fact that, because of the distinct existence of a corporation, tax is computed at each level, which can result in three levels of tax consequences for the same economic interest.[71]
+[52] In doing so, Quebecor argues that it complied with the object, spirit and purpose of the provisions relied on by the Respondent and that, consequently, it did not abuse any provisions of the ITA.[72]
+1. Application of the GAAR to the series of transactions undertaken by Quebecor (a) Is there a “tax benefit” arising from a transaction within the meaning of subsection 245(1) of the ITA?
+[53] Quebecor admits that the first requirement that must be met for the GAAR to apply was fulfilled. It therefore recognized that there was a “tax benefit” arising from a transaction within the meaning of subsection 245(1) of the ITA. More specifically, it admits that the series of transactions mentioned in paragraph 35 gave it a tax benefit within the meaning of the ITA. The “tax benefit” arose from the $191,883,982 increase in the ACB of the Abitibi Consolidated shares, which resulted in the realization of a capital loss of $95,916,992 in 2007 when it exchanged its 44,821,024 shares of Abitibi Consolidated for 2,806,244 shares of Abitibi Bowater.[73]
+(b) Does the series of transactions constitute an avoidance transaction referred to in subsection 245(3) of the ITA, in the sense that it was not undertaken primarily for bona fide purposes?
+[54] Quebecor acknowledges that the second requirement that must be met for the GAAR to apply was also fulfilled. Consequently, it acknowledges that certain transactions that it carried out were primarily undertaken for tax purposes.[74] These transactions were part of a series of transactions that gave rise to a tax benefit and constitute avoidance transactions within the meaning of subsection 245(3) of the ITA. These transactions are described in paragraph 35 above.[75]
+(c) Were the avoidance transactions undertaken by Quebecor abusive within the meaning of subsection 245(4) of the ITA?
+(1) Statutory provisions at issue
+[55] According to Quebecor, the Respondent contended in his Reply to the Notice of Appeal that the avoidance transactions resulted in an abuse of the object, spirit and purpose of paragraph 38(b) and subsections 69(5), 84(3), 85(1), 88(2) and 112(1) of the ITA when they are read in light of the ITA as a whole.[76] However, these are not the provisions that were relied on in the Respondent’s written notes. The Respondent instead argued that there was abuse of sections 3, 38 and 54 and subsections 39(1), 40(1), 69(5), 84(2), 85(1) and 88(2) of the ITA.[77]
+(2) Object, spirit and purpose of the provisions at issue
+(a) Paragraph 38(b) of the ITA
+[56] According to Quebecor, under paragraph 38(b) of the ITA, a taxpayer may deduct a capital loss resulting from the disposition of property, including a disposition of shares.[78] It claims that the Federal Court of Appeal of Canada defined the purpose of paragraph 38(b) in Triad Gestco Ltd. v. Canada.[79] In that judgment, the Court determined that the object of this provision was to provide relief as an offset against capital gain where a taxpayer has suffered an economic loss on the disposition of property.[80]
+[57] According to Quebecor, Quebecor Media realized a $400,000,000 capital loss on the shares of 3662527 that it held following the winding-up of 3662527. During its winding-up, 3662527 itself realized a $206,067,698 capital loss on the Vidéotron Telecom shares that it held.
+[58] Quebecor’s redemption of the Abitibi Consolidated shares increased their ACB by $191,883,982. This increase in the ACB resulted in the realization of a capital gain on 3662527’s disposition of the Abitibi Consolidated shares, from which 3662527 was able to deduct the capital loss realized on the Vidéotron Telecom shares.[81]
+[59] Quebecor alleges that, unlike the situations discussed in Triad Gestco,[82] 1207192 Ontario Limited v. Canada[83] and Canada v. Global Equity Fund Ltd.,[84] it did not manipulate the tax base of shares or underlying assets to create different levels of losses or tax consequences.[85] It argues that the FMV of Quebecor Media and of the underlying shares was not unduly reduced.[86]
+[60] Quebecor contends that the capital losses attributable to the Quebecor Media, 3662527 and Vidéotron Telecom shares only reflect the actual economic losses suffered. From an accounting standpoint, they substantially reduced the value of its investment in Quebecor Media, which went from approximately $5,300,000,000 in October 2000 to $3,400,000,000 as at December 31, 2004.[87]
+[61] Quebecor also indicates that the value of all 3662527 shares held by Quebecor Media dropped from $566,500,000 to approximately $195,600,000 during the same period.[88]
+[62] With respect to its Abitibi Bowater shares, it submits that they were no longer worth anything when they were disposed of as part of Quebecor’s creditor protection procedure.[89]
+[63] Finally, Quebecor argues that it suffered real economic losses on its investments and that therefore, the object, spirit and purpose of paragraph 38(b) of the ITA were respected.[90]
+(b) Subsection 85(1) of the ITA
+[64] Quebecor alleges that the purpose of subsection 85(1) of the ITA can be inferred from the consequences of its application. Quebecor maintains that this provision allows a taxpayer to defer the capital gain that would otherwise have been realized from the disposition of property to a taxable Canadian corporation until a later disposition.[91]
+[65] According to Quebecor, under subsection 85(1) of the ITA, a corporation may defer tax payable on a capital gain.[92] A business purpose is not required to qualify for a rollover.[93] The rollover referred to in subsection 85(1) may be carried out for a tax purpose.[94] For subsection 85(1) to apply, the property transferor must receive at least one share of the capital stock of the taxable Canadian corporation receiving the transfer. Consequently, in concrete terms, the transferor may substitute the transferred property with shares of the taxable Canadian corporation receiving the transfer.[95]
+[66] Quebecor contends that subsection 85(1) of the ITA allowed it to transfer its Abitibi Consolidated shares to 3662527 without any tax consequences. The unrealized capital gain on the shares of Abitibi Consolidated was therefore deferred or, in other words, transferred to 3662527 so that 3662527 could use it to offset its capital losses.[96]
+[67] According to Quebecor, it is not relevant in this case that the rollover was carried out so that the unrealized gain on the shares of Abitibi Consolidated could be transferred to 3662527 with the aim that 3662527 could deduct it from its capital losses. The existence of a business purpose is not a requirement for subsection 85(1) of the ITA to apply. Consequently, there was no abuse of this provision.[97]
+[68] Quebecor submits that the argument raised by the Respondent—that, in this case, the tax was not deferred, but rather completely avoided because the capital gain that subsequently arose following a disposition was offset by a capital loss—was not valid. According to Quebecor, a capital gain was realized and was taxed: the capital gain was reported on a tax return and actual capital losses were legitimately applied to this gain. Therefore, according to Quebecor, the capital gain was taxed and the tax was not avoided.[98]
+[69] Moreover, according to Quebecor, the rollover carried out in this case is not covered by subsection 69(11) of the ITA. This anti-avoidance provision prevents a rollover under subsection 85(1) of the ITA from being made in certain circumstances.[99]
+[70] Finally, according to Quebecor, applying the GAAR in this case would create great uncertainty regarding the application of subsection 85(1) of the ITA. Indeed, by acting in this manner, the Court would be adding an application requirement that is not set out in the ITA, i.e., that tax be subsequently paid on the property that has been rolled over, which would therefore prohibit losses from being used to offset such a gain.[100]
+(c) Subsection 84(3) of the ITA
+[71] Quebecor argues that under subsection 84(3) of the ITA, the portion of the amount paid by the corporation upon redemption of the shares, which is a return of capital, is not taxable in the hands of the shareholder. When shares are redeemed at a price that exceeds their PUC, subsection 84(3) applies and deems a dividend equal to the excess of the amount paid by the corporation on redemption of the shares over the PUC of these shares.[101]
+[72] Quebecor alleges that subsection 84(3) of the ITA and paragraph 55(3)(a) of the ITA are designed to allow the transfer of assets within a group of related corporations and the deferral of the tax payable. According to Quebecor, subsection 84(3) is a provision frequently used to transfer assets of a corporation in favour of its shareholders.[102] It contends that in this case, the exception provided for in paragraph 55(3)(a) applies to 3662527’s redemption of the 1,000 preferred shares issued to Quebecor as part of the rollover.[103]
+[73] According to Quebecor, under subsection 55(3) of the ITA, there are exceptions to the application of the deemed capital gain provided for in subsection 55(2) of the ITA. Subsection 55(2) is an anti-avoidance provision aimed at combatting capital gains stripping.[104] Under subsection 55(2), intercorporate tax-free dividends are deemed not to be dividends, but rather the proceeds of disposition of capital property or, where the corporation does not dispose of the shares, a gain realized from the disposition of capital property. Through the application of the exception provided for in paragraph 55(3)(a) of the ITA, the deemed dividend received on the redemption of shares under subsection 84(3) of the ITA is not deemed to be included in the proceeds of disposition of the shares that are redeemed.
+[74] Quebecor argues that according to the Supreme Court of Canada’s ruling in Copthorne, subsection 84(3) of the ITA creates a presumption that the amount paid on a share redemption is split between the PUC and the excess over the PUC. Consideration paid to the shareholder that is less than or equal to the PUC is deemed a non-taxable return of capital. However, where the consideration exceeds the PUC, the excess is deemed to be a dividend subject to tax. Subsection 84(3) merely takes into account the PUC determined under subsection 89(1) of the ITA, including any adjustments similar to that required by the provisions applicable to the transactions, and deems any amount paid in excess of the resulting PUC a dividend subject to tax.[105]
+[75] Finally, Quebecor contends that because subsection 84(3) of the ITA, combined with paragraph 55(3)(a) of the ITA, is designed to permit the withdrawal of assets from a group of corporations on a tax-deferred basis, the application of these provisions in the context of the series of transactions should not be seen as an abuse because this is exactly what they contemplate.[106]
+(d) Subsections 88(2) and 69(5) of the ITA
+[76] 3662527 was wound up under subsection 88(2) of the ITA. Quebecor submits that the general rule applicable during the winding-up of a corporation is provided for in this subsection. The rule set out in subsection 88(1) of the ITA is an exception.[107] Quebecor argues that the conditions for subsection 88(1) to apply were not met given that neither Quebecor Media nor 9101-0827 owned at least 90% of the issued shares of each class of the capital stock of 3662527.[108]
+[77] Quebecor alleges that, on the winding-up of a corporation under subsection 88(2), the purpose of the ITA is to maintain the separate taxpayer status of the wound-up corporation. This corporation must file a tax return independently of any other taxpayer. According to Quebecor, this clearly shows that there is no principle of consolidation in the ITA.[109] When there is a winding-up under subsection 88(2), the status of two separate taxpayers is maintained until the winding-up occurs. A wound-up corporation must produce a tax return for the last taxation year before its winding-up. In this return, the corporation must report the capital gains and losses from the deemed disposition of its property at its FMV.
+[78] According to Quebecor, the Respondent is not disputing that subsection 88(1) of the ITA does not apply to the winding-up of 3662527. However, the Respondent is challenging the outcome that arises from the application of subsections 88(2) and 69(5) of the ITA.
+[79] Quebecor maintains that subsections 88(2) and 69(5) of the ITA specifically provide for a taxable winding-up. Under subsection 69(5), upon a winding-up under subsection 88(2), there is a deemed disposition at the FMV of the property distributed by a corporation to its shareholder. On such a winding-up, given that the transfer of assets takes place at the FMV, the realized capital gains or losses are recognized for tax purposes, during the taxation year of the winding-up.[110]
+[80] According to Quebecor, because 3662527 was wound up on a taxable basis, 3662527 is deemed to have disposed of its assets at their FMV, in accordance with subsection 69(5) of the ITA. On winding-up, 3662527 realized a $206,067,968 capital loss from the deemed disposition of Vidéotron Telecom’s class “A” shares. This loss was deducted from the capital gain realized by 3662527 on the exchange of its Abitibi Consolidated shares as consideration for a $191,833,982 demand note.[111]
+[81] The capital gain that 3662527 realized on the shares of Abitibi Consolidated was subject to tax within the meaning of the ITA. 3662527 reported this capital gain in its income tax return and 3662527 deducted from this gain the capital loss realized during its winding-up. According to Quebecor, being subject to tax does not mean having to pay tax.[112]
+[82] Quebecor argues that, without a taxable winding-up scheme, it would have been impossible to recognize 3662527’s loss in the distribution of its assets, as well as the loss of 3662527’s shareholders from the disposition of their shares.[113]
+[83] According to Quebecor, in Produits forestiers Donohue Inc. v. The Queen,[114] this Court stated that the taxable winding-up of a corporation in order to generate a loss does not constitute an abuse of the ITA, even if the assets of the wound-up corporation are distributed to the controlling shareholder, who will be able to realize a loss as well when disposing of its shares.
+[84] Quebecor adds that, in accordance with subsection 84(2) of the ITA, the amounts received by shareholders are deemed to be dividends, for the portion of the distributions that exceed the reduction in the PUB. Quebecor contends that, on winding-up, this dividend reduces the shareholder’s proceeds of disposition in accordance with paragraph (j) of the definition of “proceeds of disposition” in section 54 of the ITA.[115] When the PUC does not exceed the value of the property distributed, the proceeds of disposition of the shareholder’s shares will be equivalent to the PUC of its shares. If the ACB of the shares disposed of exceeds these proceeds of disposition, a capital loss is realized. However, Quebecor submits that under subsection 112(3) of the ITA, this loss is reduced by any dividend that is received on the shares and is deductible under subsection 112(1) of the ITA.[116]
+[85] Quebecor also argues that, in keeping with the spirit, object and purpose of the ITA, paragraph 69(5)(d) of the ITA precludes the application of the “suspended losses” rules set out in subsections 40(3.3) and (3.4) of the ITA during the winding-up of a corporation on a taxable basis.[117]
+[86] Quebecor alleges that Quebecor Media did not receive anything on the winding-up of 3662527. Consequently, it realized a $400,000,000 capital loss.[118]
+[87] As for 9101-0827, it received property with an FMV greater than the PUC, but lower than the ACB of its shares of 3662527. 9101-0827 was therefore deemed to have received a winding-up dividend, which was treated as a taxable dividend under subsection 112(1) of the ITA. 9101-0827 also realized a capital loss from the disposition of its shares of 3662527, which was reduced to $0 under subsection 112(3) of the ITA.[119]
+[88] Quebecor therefore submits that the combined effect of subsections 88(2) and 69(5) of the ITA ensures that 3662527 was wound up on a taxable basis and that therefore, 3662527’s loss was recognized and used to offset the capital gain realized from the distribution of the Abitibi Consolidated shares to Quebecor.[120]
+[89] As a result, Quebecor contends that, as part of its winding‑up, 3662527 realized all the capital gains and losses on the property appropriated to its shareholders, in proportion to the FMV of their shares. It adds that, as part of the winding-up and dissolution of 3662527, the shares of 3662527 held by Quebecor Media and by 9101-0827 were cancelled. Quebecor Media incurred a capital loss attributable to these shares. As for 9101-0827, it incurred a capital loss attributable to its shares of 3662527, which was reduced to $0 under subsection 112(3) of the ITA.[121]
+[90] In response to the Minister’s argument that subsection 69(5) of the ITA indicates that it is only used to compute capital gains and losses in the final year of the wound-up corporation, which should lead to a narrow interpretation of the scope of the section, Quebecor took the following position: the capital gain was realized by 3662527 in the same year as the winding-up. The ITA is therefore clear: through the application of subsection 69(5) on the winding-up of 3662527, the class “A” shares that it held in the capital stock of Vidéotron Telecom were disposed of at their FMV, which resulted in the realization of the capital loss of approximately $206,000,000.[122] Quebecor added that adopting the Respondent’s reasoning regarding the interpretation of subsection 69(5) would amount to taking a giant step towards importing the principle of consolidation into the ITA. However, the principle is not enshrined in the Act.[123]
+[91] Then, in response to the Minister’s argument that the purpose of subsection 69(5) of the ITA is not to be able to preserve the loss of the wound-up corporation as an increase in the ACB of the shares of Abitibi Consolidated, Quebecor states that the application of subsection 69(5) did not result in an increase of the ACB of the shares. According to Quebecor, the ACB was increased when the shares were exchanged for the $191,833,983 demand note.[124]
+[92] Quebecor maintains that under subsection 88(1) of the ITA, a subsidiary may transfer most of its property to its parent tax-free. Subsection 88(1) applies only if the requirements set out in that subsection are fulfilled. Under this subsection, a subsidiary may transfer its property and their tax consequences, for example losses, to its parent by means of a “rollover”.
+[93] Quebecor argues that the winding-up of a subsidiary under subsection 88(1) of the ITA is an exception to the general scheme set out, among others things, in subsections 88(2) and 69(5) of the ITA. Under this scheme, a winding-up should be carried out on a “taxable basis”.
+[94] Quebecor alleges that subsection 88(1) of the ITA is a “rollover measure” and that no clear and unambiguous policy for eliminating double economic impact emerges from this provision. It contends that, on the contrary, the clear and unambiguous policy recognized by Parliament is the distinct existence of a corporation’s capital stock shares and of the property held by that corporation.
+[95] For example, Quebecor submits that, when a taxpayer “rolls over” property to a corporation, the unrealized gain attributable to the property that was “rolled over” is reflected economically in two ways: in terms of the property acquired by the transferee corporation and in terms of the shares obtained by the transferor shareholder. The ITA does not contain specific measures to eliminate this double economic effect.[125]
+[96] According to Quebecor, Parliament could have easily ensured that the exception scheme set out in subsection 88(1) of the ITA could not apply to a subsidiary owned by its parent or any other corporation linked to the parent. However, this is not what Parliament decided to do. Thus, any winding-up other than a winding-up referred to in subsection 88(1) results in tax consequences for the corporation and its shareholders in accordance with subsections 88(2) and 69(5) of the ITA.[126]
+(e) Subsection 112(1) of the ITA
+[97] Quebecor argues that subsection 112(1) of the ITA allows a corporation to receive dividends without taxes being payable on them (subject to certain conditions) when they are paid by a corporation. Therefore, dividends included in computing corporate income in accordance with subsection 82(1) of the ITA are received tax-free.
+[98] Quebecor also maintains that dividends cannot be subject to several levels of taxation when they are paid between corporations that are shareholders of each other.[127] According to Quebecor, this Court stated this principle in Citibank Canada v. The Queen.[128] In that decision, this Court stated that the operation of subsections 82(1) and 112(1) of the ITA permits the tax-free flow of dividends between any two corporations resident in Canada. According to this Court, the spirit of these provisions is based on the following principles:[129]
+-dividends are ordinarily paid by a corporation out of its after-tax profits, sometimes called “retained earnings”; and
+-if the retained earnings of corporation X were paid as dividends upward through a chain of corporate shareholders resident in Canada, and if those dividends were not free from tax in the hands of the corporate shareholders, the retained earnings of corporation X (having already been taxed) would be eroded by additional income taxes as they passed through a chain of corporate shareholders.
+[99] Quebecor therefore alleges that 9101-0827 was entitled to the deduction set out in subsection 112(1) of the ITA.[130] Quebecor also contends that subsection 55(2) of the ITA, which prevents taxpayers from avoiding paying tax on capital gains when relying on subsections 84(3) and 112(1) of the ITA, does not apply under the exception provided in paragraph 55(3)(a) of the ITA.
+(3) Economic argument
+[100] The Respondent argues that the series of transactions allowed Quebecor to take advantage of capital losses at two levels in its corporate structure for the same economic interest in 3662527.[131] The first capital loss was realized by Quebecor Media, and it is related to the shares that it holds in the capital stock of 3662527. The second capital loss was realized by 3662527 in connection with the shares that it held in Vidéotron Telecom.[132]
+[101] Quebecor admits that, in strictly economic terms, there were considerable unrealized losses at the time when the series of transactions took place. More specifically, as at December 13, 2005, there was an unrealized capital loss involving Quebecor Media and 3662527.[133]
+[102] Counsel for the Respondent defined an unrealized capital loss as a loss in value of a property that has not yet been realized given that the property has not yet been disposed of.[134]
+[103] From a legal standpoint, Quebecor submits that the Respondent recognizes that the two capital losses incurred at two levels of its corporate structure involved two separate properties.[135]
+[104] From an economic standpoint, 3662527 incurred a $206,067,698 loss, and this loss was reflected in the $400,000,000 loss incurred by Quebecor Media.[136] However, Quebecor contends that from a legal and tax standpoint, the two losses are distinct because they involve two separate properties.[137] Quebecor therefore argues that two levels of losses must be recognized.[138]
+[105] According to Quebecor, although an economic analysis may sometimes be relevant, it does not warrant a re-characterization of the taxpayer’s bona fide legal relationships.[139] To reacquire the shares of Abitibi Consolidated, which it had previously transferred by way of a rollover to 3662527, it made a payment by transferring a $191,833,983 demand note to 3662527. As a result, Quebecor became the owner of the shares of Abitibi Consolidated with a $191,833,983 ACB, which reflected the price paid by Quebecor to reacquire them. By asserting that the ACB of these shares should be $1, the Respondent ignored the existence of the demand note that Quebecor used to acquire these shares.[140]
+[106] According to Quebecor, the Respondent is seeking to create a consolidation policy in the ITA, which does not contain such a policy.[141] Still according to Quebecor, the ITA is clear and applies on a taxpayer by taxpayer and a property by property basis.[142] According to Quebecor, in the absence of a clear principle of consolidation, the Canadian courts have recognized that each property must receive appropriate tax treatment. Quebecor submits that the reasoning used by the Federal Court of Appeal of Canada in Donohue[143] is applicable in this case. According to Quebecor, the series of transactions undertaken by the taxpayer in this case is highly similar to the series of transactions undertaken by Quebecor.[144]
+[107] To illustrate this high degree of similarity, Quebecor prepared the following table:[145]
+[translation]
+Quebecor File
+Produits Forestiers Donohue File
+Incorporation of 9101-0827.
+Incorporation of DMI 1993.
+Reduction in the PUC of 3662527 class “C” preferred shares held by 9101-0827.
+Reduction in the PUC of DMI common shares and class “B” preferred shares held by DSF.
+Transfer of Quebecor’s Abitibi Consolidated shares to 3662527 by means of a rollover.
+Transfer of DMI’s assets, except for the valley sawmills, to DMI 1993 by means of a rollover.
+Redemption of 1,000 3662527 class “D” preferred shares held by Quebecor as consideration for a demand note.
+DMI’s redemption of its preferred shares as consideration for preferred and common shares that DMI held in DMI 1993.
+Winding-up of 3662527 and disposition by Quebecor of the Abitibi Consolidated shares.
+DSF’s sale of DMI shares to Cédrico.
+[108] Quebecor argues that, in Donohue, the Minister relied on the GAAR by submitting that the property responsible for the loss claimed by DSF was indirectly held by the same shareholders (DSF). The claimed loss was therefore on property that DSF had not actually disposed of.[146]
+[109] Quebecor adds that in this case, it is taking the same position as the one taken by Donohue.[147] This position is set out in paragraphs 63 and 64 of this Court’s decision, which read as follows:[148]
+[63] Counsel for DSF also gave an example in which the use of a corporation could give rise to two separate legal losses in respect of what is essentially a [translation] “single economic loss”. If a corporation (Holding) held shares of the capital stock of a subsidiary for which it had paid $100, and if that sum were used by the subsidiary to purchase depreciable property worth $100, Holding and the subsidiary could both incur a loss if the value of that depreciable property were nil. Holding could realize a capital loss or a BIL on an actual or deemed disposition of its shares, and the subsidiary could realize a terminal loss on a disposition of its depreciable property, which loss could be carried back to a previous year and deducted from income for that year.
+[64] In some cases, there are rules that may minimize this double taxation or double deduction. However, counsel for DSF contended that this is not necessarily true at all times. There is no principle which necessarily precludes all double taxation or double deduction.
+[Footnotes omitted.]
+[110] Quebecor alleges that the Federal Court of Appeal of Canada, in affirming the judgment of this Court, held that the system of taxation of corporations and their shareholders is designed in terms of the legal reality that a business corporation’s property belongs to the corporation and not to the shareholders. It follows that a capital gain or loss may be realized at the same time by a shareholder in respect of its shares and by the corporation in respect of its own property. There is no principle that would allow the effect of these transactions to be consolidated by matching them. According to the Federal Court of Appeal, there is nothing in the ITA that bars a taxpayer from realizing a capital loss on the sale of corporate shares to third parties, even if a significant portion of the assets to which the loss may be attributed remains within the group of corporations. Quebecor claims that this same reasoning should be applied in this case.
+(4) Did Quebecor “circumvent” certain provisions of the ITA?
+[111] The Respondent argues that subsections 69(5) and 88(2) of the ITA were circumvented. Quebecor contends that these two provisions were applied on the winding-up of 3662527 and not before. The series of transactions that includes the rollover by Quebecor of Abitibi Consolidated shares to 3662527, the redemption of class “D” preferred shares and the distribution of Abitibi Consolidated shares to Quebecor took place before the winding-up process began. According to Quebecor, no provision of the ITA requires that transactions preceding a winding‑up be taken into account as part of this winding-up. Quebecor therefore submits that these provisions were not “circumvented”.[149]
+[112] Quebecor maintains that it is also relevant to point out that the Respondent is not relying on any of the numerous provisions of the ITA that limit or bar the deduction of losses.[150] These rules are as follows:
+-Rules reducing losses otherwise computed (subsections 112(3) to (7) and paragraphs 40(2)(g) and (h)).
+-Rules keeping losses in abeyance (subsections 40(3.3) to (3.5) and rules governing “superficial losses” in section 54).
+-Rules governing “loss restriction events” (subsections 111(4) to (5.4)).
+-Continuity rules (subsections 87(1) and 88(1)).
+[113] According to Quebecor, these rules reflect deliberate choices made by Parliament to take into account the principle of non-consolidation and the fact that, because of the existence of a distinct corporation, tax is computed at each level. This can create three levels of tax consequences for the same economic interest.[151]
+[114] Finally, Quebecor claims that in the absence of a rule that would aim to limit or bar the deduction of the losses incurred in 2007 and 2010 during the sale of the Abitibi Consolidated shares, this Court must find that the object, spirit and purpose of all the provisions cited have been respected.[152]
+(5) Did the avoidance transactions result in an abuse of the provisions of the ITA?
+[115] Quebecor alleges that the Respondent’s argument according to which Quebecor was able to benefit from two capital losses for the same economic interest in two separate properties is inappropriate. According to Quebecor, the result obtained merely represents a transfer of capital losses in the context of transactions between related persons. Quebecor prepared the following table to compare the results obtained and those that would have come about had it not been for the avoidance transactions:
+Transactions undertaken
+No rollovers, redemptions and trades, demand notes, shares
+3662527’s $191,883,982 capital gain (demand note issued for Abitibi Consolidated shares)
+Nil
+3662527’s $206,067,698 capital loss on the class “A” shares of Vidéotron Telecom (winding‑up)
+$206,067,698 capital loss
+3662527’s $5,536,021 capital gain on the class “C” shares of Vidéotron Telecom (winding‑up)
+$5,536,021 capital gain
+Quebecor Media’s $400,000,000 capital loss on the shares of 3662527
+$400,000,000 capital loss
+9101-0827’s dividend and non‑deductible loss
+9101-0827’s dividend and non‑deductible loss
+Abitibi Consolidated Inc.’s ACB = $191,833,983
+Loss in 2007 and 2010
+Abitibi Consolidated Inc.’s ACB = $1.00
+No loss
+$95,916,990 gain in 2007
+[116] Quebecor argues that the deduction of the capital losses was fully consistent with the CRA policy. According to Quebecor, the Department of Finance’s explanatory notes on the GAAR and the CRA policy indicate that the transfer of income or deductions within a group of affiliated corporations does not normally fall within the scope of section 245 of the ITA given that these transactions are not usually considered to result in abuse.[153] Rather, there is a well-established policy according to which the transfer of capital losses or profits between related corporations is entirely permissible and correct.[154]
+[117] Consequently, Quebecor contends that it complied with the object, spirit and purpose of paragraph 38(b) and subsections 69(5), 84(3), 85(1), 88(2) and 112(1) of the ITA.[155] It claims that it did not abuse the scheme for winding up corporations on a taxable basis because the object, spirit and purpose of these provisions in light of the underlying tax policy were not circumvented.[156] The ACB of the 44,821,024 shares of Abitibi Consolidated should be restored to $191,833,983, and the $95,916,992 capital loss realized from the disposition of the 44,821,024 shares of Abitibi Consolidated should be recognized.[157]
+C. Position of the Respondent
+1. Application of the GAAR to the series of transactions undertaken by Quebecor (a) Is there a “tax benefit” arising from a transaction within the meaning of subsections 245(1) and (2) of the ITA?
+[118] The Respondent alleges that subsection 245(1) of the ITA defines a tax benefit as a reduction, avoidance, or deferral of tax or an increase in a refund of tax or other amount under the ITA. According to the Respondent, the existence of a tax benefit may be clear in certain situations, but in other cases, the existence of such a tax benefit must be established “upon a comparison with alternative arrangements.”[158] In all cases, in order to determine whether a tax benefit was realized, it must be determined whether the taxpayer reduced, avoided or deferred tax payable under the ITA.
+[119] The Respondent submits that Quebecor admitted that the series of transactions gave rise to a tax benefit within the meaning of subsection 245(1) of the ITA.[159] This benefit is the reduction in the tax payable by Quebecor following the disposition of its Abitibi Consolidated shares.[160]
+[120] More specifically, the series of transactions undertaken by Quebecor allowed it to increase the ACB of the Abitibi Consolidated shares that it held. The Respondent therefore argues that by increasing the ACB of its Abitibi Consolidated shares, Quebecor thus managed to reduce the tax payable on the disposition of the shares. To calculate a capital gain, the ACB of the shares (amount paid to acquire the shares) must be subtracted from the proceeds of disposition (amount received from the disposition of the shares). The increase in the ACB therefore results in a reduction in the capital gain and thus on the tax payable on this gain.[161]
+(b) Does the series of transactions constitute an avoidance transaction referred to in subsection 245(3) of the ITA, in the sense that it was not undertaken primarily for bona fide purposes?
+[121] The Respondent claims that, in accordance with subsection 245(3) of the ITA, an avoidance transaction includes a transaction that is part of a series of transactions that allows the taxpayer to obtain a tax benefit directly or indirectly, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain a tax benefit.[162]
+[122] In this case, the tax benefit obtained by Quebecor resulted from a series of transactions. In such a situation, the Court must first identify the transactions that were part of the series of transactions. Next, the Court must determine whether each transaction in the series may reasonably be considered to have been undertaken primarily for a bona fide purpose. The Respondent contends that, if at least one transaction in the series was undertaken primarily for tax purposes, the Court must find that it is an avoidance transaction and the GAAR can be applied, as the case may be, to deny the tax benefit that resulted from the series.[163]
+[123] The term “series of transactions” used in subsections 245(2) and 245(3) of the ITA refers to a series of transactions that involves a number of transactions that are pre-ordained in order to produce a given result.[164] The Respondent argues that the issue of whether a transaction has a bona fide purpose must be decided objectively, based on all the evidence. The Respondent submits that a taxpayer cannot avoid the application of the GAAR by merely stating that the transaction was undertaken or arranged primarily for a non-tax purpose. The Court must make an objective assessment of the relative importance of the driving forces of the transaction.[165]
+[124] According to the Respondent, Quebecor admitted that certain transactions that were part of the series of transactions were undertaken primarily to obtain a tax benefit. Therefore, the transactions mentioned above at paragraph 32 constitute an avoidance transaction within the meaning of subsection 245(3) of the ITA.[166]
+[125] According to the Respondent, Quebecor admitted that the sole reason for all the transactions that were part of the series of transactions was to obtain the tax benefit at issue in this case, namely, the increase in the ACB of the shares of Abitibi Consolidated in order to obtain a tax reduction upon the disposition of those shares.[167]
+(c) Was the avoidance transaction undertaken by Quebecor abusive within the meaning of subsection 245(4) of the ITA?
+[126] According to the Respondent, the Minister was correct in finding that the GAAR should be applied to the series of transactions undertaken by Quebecor. Unlike Quebecor, the Respondent maintains that the three requirements for the application of the GAAR were fulfilled.
+[127] The Respondent claims that Quebecor abused sections 3, 38 and 54 of the ITA, as well as subsections 39(1), 40(1), 69(5), 84(2), 85(1) and 88(2) of the ITA. The Respondent alleges that the avoidance transaction undertaken by Quebecor was carried out under these provisions, which are set out in two schemes of the ITA. More specifically, the Respondent argues that the avoidance transaction undertaken by Quebecor involved two schemes set out in Division B of Part I of the ITA. This division of the ITA deals with the computation of a taxpayer’s income. The first scheme is set out in Subdivision C and concerns the taxation of capital gains and losses (sections 3, 38, 53 and 54 and subsections 39(1) and 40(1)). The second scheme is set out in Subdivision H and relates to the computation of the income of corporations resident in Canada and their shareholders (subsections 69(5), 84(2), 85(1) and 88(2)).[168]
+[128] The Respondent contends that in this case, the abuse of the two schemes resulted from the fact that the ACB of the shares of Abitibi Consolidated was increased without the amount being taxed.[169] The Respondent argues that the purpose of two transactions in the series of transactions was to increase the ACB of the shares of Abitibi Consolidated. These transactions were undertaken on December 14, 2015, and are as follows:[170]
+-the transfer of the 44,821,024 common shares of Abitibi Consolidated held by Quebecor to 3662527 by means of a rollover under subsection 85(1) of the ITA; and
+-the subsequent transfer of these same shares from 3662527 to Quebecor in exchange for a demand note. The demand note was issued by 3662527 in favour of Quebecor following the redemption of its class “D” preferred shares issued during the transfer by rollover under subsection 85(1) of the ITA.
+[129] The Respondent claims that these transactions resulted in a taxable capital gain, which triggered the application of the first scheme relating to the taxation of capital gains and losses—in particular, sections 3 and 38 and subsections 39(1) and 40(1) of the ITA as well as sections 53 and 54 of the ITA, which define the concept of ACB.[171]
+[130] The Respondent alleges that Quebecor undertook transactions to create the capital loss allowing it to offset the gain that gave rise to the increased ACB of the Abitibi Consolidated shares. These transactions included, among others, the winding-up of 3662527 on a taxable basis, which gave rise to a capital loss. According to the Respondent, these transactions triggered the provisions in the second scheme relating to the taxable winding-up of a corporation—more particularly, subsections 69(5), 84(2) and 88(2) of the ITA.[172]
+(1) What are the object, spirit and purpose of the capital gains and losses system, in particular sections 3, 38, 53 and 54 of the ITA and subsections 39(1) and 40(1) of the ITA?
+[131] The Respondent argues that the purpose of the capital gains and losses tax system is to tax the increase in the value of capital property, because this gives rise to a form of enrichment. Taxpayers must include a portion of their capital gains in computing their income. Subject to certain restrictions, they can also deduct part of the capital losses that they have incurred.[173]
+[132] According to the Respondent, the gain or loss resulting from the disposition of property is computed by comparing the difference between the ACB of the property and its proceeds of disposition.[174] The ACB consists of amounts that have been subject to tax, and capital gains and losses are realized at the time of the disposition of the property.[175]
+[133] The Respondent submits that the capital gains and losses system applies to real gains and real losses. He adds that this system is aimed at taxing increases in a taxpayer’s economic power and that economic power is unaffected by paper losses.[176]
+(a) Section 3 of the ITA
+[134] Section 3 of the ITA deals with one of the fundamental rules applicable to the computation of a taxpayer’s income for a taxation year. According to the Respondent, paragraph 3(b) of the ITA constitutes the legislative authority for the taxation of capital gains and losses. Under this provision, a capital gain is a source of income that must be subject to tax in the year in which it was realized. A capital gain or loss is realized under the ITA upon the disposition of property, whether the disposition is real or deemed.[177] A capital loss can be deducted only from a capital gain.
+(b) Section 38 of the ITA
+[135] Section 38 of the ITA is used to determine the portion of a capital gain and a capital loss that must be included in the computation of a taxpayer’s income. Under this provision, a taxpayer’s taxable capital gain from the disposition of capital property is generally one-half of the taxpayer’s capital gain for the year from the disposition of the property. A taxpayer’s allowable capital loss for a taxation year from the disposition of property is half of the taxpayer’s capital loss for the year from the disposition of the property.[178]
+(c) Subsection 39(1) of the ITA
+[136] The terms “capital gain” and “capital loss” are defined in subsection 39(1) of the ITA. These definitions are needed to compute a taxpayer’s income in accordance with section 3 of the ITA. According to the Respondent, the general rule that applies when disposing of capital property is that the resulting capital gain or loss must not be taken into account elsewhere in the ITA.[179]
+(d) Subsection 40(1) of the ITA
+[137] Subsection 40(1) of the ITA explains how to compute a capital gain or loss resulting from the disposition of property. The Respondent maintains that a taxpayer realizes a capital gain when the proceeds of disposition of a share exceed the total of its ACB and the expenses incurred to dispose of it. The Respondent also claims that there is a capital loss when the total of the ACB of a share and the expenses incurred to dispose of it exceed its proceeds of disposition.[180]
+[138] At the hearing, the Respondent clarified that he is not arguing, as Quebecor claims, that there is a consolidation policy in the ITA. He is only alleging that the purpose of the provisions under which capital gains and losses are computed is to tax increases in a taxpayer’s economic power.[181]
+(e) Sections 53 and 54 of the ITA
+[139] The Respondent submits that section 54 of the ITA defines the terms “proceeds of disposition” and “adjusted cost base”. The Respondent contends that, upon a disposition of shares, the proceeds of disposition are normally the sale price of the shares stipulated in the sales contract while the ACB of the shares is the amount initially paid by the corporation to acquire the shares sold. As for section 53 of the ITA, the Respondent submits that it provides a list of potential adjustments to the ACB.[182] The capital gain or loss realized on the disposition of a share is based on its ACB.[183]
+(f) Conclusion as to the object, spirit and purpose of these provisions of the capital gains and losses system
+[140] The Respondent argues that the object, spirit and purpose of the provisions relating to the capital gains and losses tax system have already been determined by the Federal Court of Appeal, in particular in Triad Gestco, 1207192 Ontario Limited and 2763478 Canada Inc.[184]
+[141] The Respondent claims that the purpose of sections 3 and 38 and subsections 39(1) and 40(1) of the ITA is to tax the economic gains realized by a taxpayer following the disposition of property and to grant a taxpayer tax relief when the taxpayer incurs an economic loss from the disposition of property.[185]
+[142] In addition, the Respondent maintains that the object, spirit and purpose of the ACB scheme, including sections 53 and 54 of the ITA, were also determined by the courts, notably in Pomerleau and Copthorne. He alleges that the ACB is a tax consequence that makes it possible to determine the amount of economic gain or loss realized from the disposition of property. The Respondent also indicates that the ACB is the amount that the shareholder paid for the shares and that in principle, it is made up of amounts that have been taxed.[186]
+[143] Furthermore, the Respondent underscores the distinction between the ACB and the PUC. In this regard, he refers to Copthorne, which established that PUC relates to shares while ACB relates to a specific taxpayer. PUC depends on the amount initially invested as capital whereas the ACB reflects the amount that the shareholder paid to acquire the shares and, according to Pomerleau, it is composed of amounts that have been subject to tax.[187]
+(2) What are the object, spirit and purpose of the provisions of the system dealing with the computation of the income of corporations resident in Canada and of their shareholders, more specifically of subsections 69(5), 84(2), 85(1) and 88(2) of the ITA?
+[144] The scheme that deals with computing the income of corporations resident in Canada and of their shareholders is set out in Subdivision H of Division B of Part I of the ITA. Sections 82 to 89 of the ITA contain the following rules:[188]
+-rules relating to the tax consequences of certain arrangements involving corporations;
+-rules governing how corporate dividends and other amounts distributed by corporations must be included in shareholder income;[189]
+-rules that govern the taxation of transfers of property between corporations and their shareholders; and
+-rules that govern the taxation of transactions undertaken during corporate amalgamations and winding-ups.
+(a) Subsection 85(1) of the ITA
+[145] The Respondent argues that the object, spirit and purpose of subsection 85(1) of the ITA are to allow a taxpayer to defer payment of tax upon transfer of property by way of a rollover, and not to allow a taxpayer to avoid paying the tax that will be payable upon the subsequent disposition of this property.[190]
+[146] The Respondent alleges that under subsection 85(1) of the ITA, eligible property may be transferred to a taxable Canadian corporation on a tax-deferred basis if consideration has been given. The consideration must include at least one share of the corporation to which the property was transferred.[191]
+[147] According to the Respondent, the purpose of subsection 85(1) of the ITA is to allow tax on the increase in the value of property to be deferred but not avoided.[192] There should be no tax consequences because there is no fundamental change in ownership. Instead of holding the transferred property, the transferor holds shares of the same value.[193] The Respondent submits that this is what the Federal Court of Appeal held in Canada v. Oxford Properties Group Inc.[194] The relevant passage reads as follows:
+[56] Rollovers, including the one provided for in subsection 97(2), defer the tax consequences of transfers which take place amongst selected groups such as shareholders and their corporations (subsection 85(1)) and partners and their partnerships (subsection 97(2)), the premise being that no tax consequences should be recognized given that there is no fundamental change in ownership – i.e.: rather than holding the transferred property, the transferor holds a partnership interest or shares having the same value (Vern Krishna, The Fundamentals of Canadian Income Tax, 9th ed. (Toronto: Thomson/Carswell, 2006), at p. 1112).
+[57] The logic behind rollovers as revealed by the mechanism used to give effect to them – i.e.: the fact that a transferor’s deemed proceeds become the transferee’s deemed cost – ACB or UCC as the case may be – makes it clear that any tax thereby deferred will be paid on a subsequent disposition giving rise to a change in the transferor’s economic position. As was said in direct reference to subsection 97(2): “tax is not avoided; it is deferred […]” (Continental Bank of Canada et al. v. the Queen (1994), 94 D.T.C. 1858 at 1872 (T.C.C.), aff’d 96 D.T.C. 6355 (F.C.A.). This flows from both the wording and the object, spirit and purpose of subsection 97(2).
+[58] Indeed, subsection 97(4) ensures this result in express terms with respect to recapture by providing that where depreciable property is transferred to a partnership for proceeds which exceed the transferor’s capital cost, this cost becomes the partnership capital cost and the difference is deemed to have been taken as CCA by the partnership.
+[59] Against this background, it must be acknowledged that the object, spirit and purpose of subsections 97(2) and 97(4) is to track the tax attributes of depreciable property in order to ensure that deferred recapture and gains are subsequently taxed.[195]
+[Emphasis added.]
+[148] As for subsections 69(5), 82(4) and 88(1) of the ITA, the Respondent contends that the object, spirit and purpose of these provisions are to allow for the winding-up of a corporation by triggering, from a tax standpoint, the realization and taxation of the accumulated additional value on the corporation’s property.[196] This taxable winding-up scheme provides for a form of matching of the value of the property of the wound-up corporation with the value of the corporation’s shares. According to the Respondent, such a winding-up allows the transfer of tax accounts to the parent, but the shareholder cannot realize a capital loss on its shares.
+[149] As for subsection 88(2) of the ITA, it allows the shareholder of a wound-up corporation to realize a capital loss on its shares at the time of the winding-up. This loss is realized by the subsidiary and, if possible, may be deducted in the computation of the subsidiary’s income for its last taxation year. Unusable capital losses will be forfeited. The Respondent argues that under the two winding-up schemes, a taxpayer cannot be subjected to double taxation or claim a capital loss on two levels.
+[150] Finally, the Respondent submits that the object, spirit and purpose of subsection 69(5) of the ITA are to allow the corporation to claim losses deemed to have been realized from its winding-up, but only for the purposes of computing its income for its last taxation year, so that any loss not used by the corporation is forfeited. Thus, the Respondent maintains that the object, spirit and purpose of subsection 69(5) are not to allow a loss to be used to increase the ACB of the shares of another entity.[197]
+(b) Section 88 of the ITA
+[151] The Respondent alleges that, where a corporation has been wound up, it is deemed to have disposed of its property, and its shareholders are deemed to have acquired them. The shareholders are deemed to have disposed of the shares that they held in the wound-up corporation.[198] According to the Respondent, there are two winding-up schemes under the ITA; they are the following:[199]
+-The winding-up set out in subsection 88(1) of the ITA. It allows for a tax‑free transfer of property from a subsidiary to its parent.
+-The winding-up set out in subsection 88(2) of the ITA. It involves the application of subsections 69(5) and 84(2) of the ITA, and it triggers immediate tax implications for the corporation and its shareholders.
+[152] As for the winding-up scheme set out in subsection 88(1) of the ITA, the Respondent argues that it automatically applies to a winding-up when the following conditions are met:[200]
+-A taxable Canadian corporation (the subsidiary) was wound up after May 6, 1974.
+-Immediately before the winding-up, at least 90% of the issued shares of each class of the subsidiary’s capital stock were owned by another taxable Canadian corporation (the parent).
+-All of the shares of the subsidiary that were not owned by the parent immediately before the winding-up were owned by persons with whom the parent was dealing at arm’s length.
+[153] A winding-up under subsection 88(1) of the ITA makes it possible to transfer property from the subsidiary to the parent tax-free. In addition, the shareholders of the wound-up corporation are deemed to have disposed of their shares of the corporation at the cost amount to the subsidiary, and therefore without tax consequences. Any property owned by the subsidiary distributed to the parent on winding-up is deemed to have been disposed of by the subsidiary for proceeds equal to the cost amount of the property to the subsidiary, immediately before the winding-up.[201]
+[154] The parent is deemed to have acquired each property distributed to it on winding-up for an amount equal to the proceeds of disposition of the property to the subsidiary, and this amount is equal to the cost of the property to the subsidiary.[202]
+[155] The parent is also deemed to have disposed of its shares in the subsidiary on winding-up for proceeds of disposition equal to the greater of the following amounts:
+1-the lesser of the PUC of the shares of the subsidiary and the tax cost of the property distributed to the parent, as determined by subparagraph 88(1)(d)(i) of the ITA; or
+2-the ACB of the shares of the subsidiary owned by the parent.
+[156] The Respondent also submits that, in certain circumstances and under paragraph 88(1)(d) of the ITA, the cost of a property distributed to the parent may be “bumped” to reflect the fact that the ACB of the shares held by the parent in the subsidiary was higher than the net tax value of the property owned by the subsidiary.[203]
+[157] Finally, according to the Respondent, the main effect of the application of these rules on a winding-up carried out under subsection 88(1) of the ITA is that it ensures the continuity of the tax consequences of the subsidiary to the parent. In doing so, when the property of the subsidiary is distributed to the parent, the parent will not realize any gain or loss. The gain or loss will be realized only when it disposes of the assets in favour of a third party.[204] The subsidiary will also avoid the consequences relating to the disposition of its assets.[205]
+[158] As for subsection 88(2) of the ITA, the Respondent claims that it applies to winding-ups when those winding-ups do not fall under subsection 88(1) of the ITA and when, at a particular time in the course of the winding-up, all or substantially all of the property owned by the corporation immediately before that time was distributed to the shareholders of the corporation.[206] According to the Respondent, subsection 88(2) deals primarily with the computation and distribution of the wound-up corporation’s capital dividend account and pre-1972 capital surplus on hand.[207]
+(c) Subsection 69(5) of the ITA [159] The Respondent contends that on a winding-up that is not subject to subsection 88(1) of the ITA, subsection 69(5) of the ITA applies if, on the winding-up of the corporation, property of a corporation has been appropriated to, or for the benefit of, a shareholder. It makes it possible to ensure that the assets are transferred at FMV and that any income or loss arising from the transfer is recognized at the time of transfer.[208] The application of subsection 69(5) has the following consequences:[209]
+-the wound-up corporation is deemed, for the purpose of computing its income for the year, to have disposed of the property immediately before the winding-up for proceeds equal to its FMV at that time; and
+-the shareholder is deemed to have acquired the property at a cost equal to its FMV immediately before the winding-up.
+[160] According to the Respondent, the corporation is deemed to have disposed of the property only “for the purpose of computing its income for the year”. According to the Respondent, Professor Krishna’s comments on this subject are relevant. In this regard, Professor Krishna stated that capital gains or losses, capital cost allowance recaptures, inventory gains or final losses are all taken into account in computing the income of the final taxation year of the corporation.[210] The Respondent submits that subsection 69(5) of the ITA does not allow losses resulting from the deemed disposition at FMV to be used to offset the gains of other corporations or to retain an increased ACB in the corporate structure.[211]
+[161] In other words, when a corporation is wound up under subsection 88(2) of the ITA, the capital losses resulting from the application of subsection 69(5) of the ITA must be deducted, if possible, when computing the income of the final year of the wound-up corporation. The Respondent alleges that the $206,067,698 capital loss realized by 3662527 could properly be used to offset the $5,536,021 gain realized by 3662527, during the year of its winding-up. However, he argues that this loss could not be used to offset the unrealized capital gain realized in connection with the Abitibi Consolidated shares held by Quebecor to bump the ACB of these shares by amounts not subject to tax.[212]
+[162] The Respondent adds that under subsection 69(5) of the ITA, certain stop-loss rules set out in subsections 13(21.2), 14(22), 18(15), 40(3.4) and 40(3.6) of the ITA do not apply to property disposed of by the corporation on its winding-up. According to him, in general, stop-loss rules represent specific anti-avoidance measures that defer or suspend a loss realized by a taxpayer following the disposition of property to an affiliated person.[213] Since these stop‑loss rules do not apply where subsection 69(5) applies, the Respondent claims that the corporation may use losses realized on winding‑up to compute its income for its final taxation year.[214]
+(d) Subsection 84(2) of the ITA
+[163] The Respondent submits that subsection 84(2) of the ITA applies where there has been a winding-up or where funds or property have been distributed to or for the benefit of the shareholders of any class of shares in a corporation’s capital stock, and the corporation is deemed to have paid a dividend on the shares of that class. The dividend is equal to the amount by which the value of the distribution exceeds the PUC of the shares.[215] According to the Respondent, any distribution to shareholders that exceeds the PUC value of the shares will be deemed to have been paid as dividends to shareholders. These dividends will be taken into account in computing the capital gain or loss resulting from the deemed disposition of the shares of the corporation’s shareholders because the dividend deemed to have been received by a shareholder under subsection 84(2) of the ITA reduces the proceeds of disposition deemed to have been received upon the disposition of those shares.[216]
+[164] The Respondent argues that although subsections 69(5) and 88(2) of the ITA do not provide an explicit rule to this effect, the definition of “proceeds of disposition” in section 54 of the ITA provides that any amount that would otherwise be proceeds of disposition of a share must be excluded to the extent that the amount is deemed by subsection 84(2) of the ITA to be a dividend.[217]
+[165] The Respondent concludes that the parent will realize a gain or loss on the disposition of its shares in the subsidiary, but will not be attributed the gain or loss of the subsidiary that would have disposed of its property.[218]
+(e) Does the tax benefit that Quebecor obtained frustrate or defeat the object, spirit or purpose of one of the provisions of the ITA?
+[166] After having determined the object, spirit and purpose of the provisions at issue that gave rise to the tax benefit, the second step “requires a close examination of the facts in order to determine whether allowing a tax benefit would be within the object, spirit or purpose of the provisions relied upon by the taxpayer”.[219]
+[167] The Respondent contends that the entire series of transactions should be considered in order to determine whether the individual transactions lead to abuse in the application of one or more provisions of the Act.[220] The transactions’ motivation, purpose and economic substance may be relevant in determining whether the transactions frustrate the purpose of the relevant provisions.[221]
+[168] According to the Respondent, the series of transactions allowed Quebecor to bump the ACB of its Abitibi Consolidated shares, which enabled it to reduce or avoid the tax payable on the disposition of the shares in 2007 and 2010.[222]
+(f) Does the avoidance transaction frustrate or defeat the object, spirit or purpose of one of the provisions of the capital gains and losses system, i.e. sections 3, 38, 53 and 54 and subsections 39(1) and 40(1) of the ITA, and the object, spirit or purpose of subsection 85(1) of the ITA?
+[169] The Respondent maintains that Quebecor transferred its shares of Abitibi Consolidated under subsection 85(1) of the ITA in order to avoid the tax payable upon the potential disposition of these shares to a third party. In so doing, the series of transactions produced a result that frustrates or defeats the object, spirit and purpose of subsection 85(1), which solely allows tax deferral and not tax avoidance.[223] The Respondent also alleges that in so doing, the series of transactions produced a result that frustrates or defeats the object, spirit and purpose of sections 3 and 38 and subsections 39(1) and 40(1) of the ITA. This is attributable to the fact that Quebecor was not taxed for the economic gain that it realized from the disposition of the Abitibi Consolidated shares. On the contrary, Quebecor obtained a tax reduction, even though it had not suffered an economic loss.[224]
+[170] Moreover, the Respondent argues that the series of transactions produced a result that frustrates or defeats the object, spirit and purpose of the ACB scheme provided for in the ITA, more particularly sections 53 and 54 of the ITA, because the ACB of the Abitibi Consolidated shares held by Quebecor was increased by an amount not subject to tax. The Respondent submits that although there was a gain, this gain was not subject to tax because it was entirely offset by the capital loss realized by 3662527 at the time of the deemed disposition of its class “A” shares of Vidéotron Telecom, which took place during its winding-up.[225]
+(g) Does the avoidance transaction frustrate or defeat the object, spirit or purpose of one of the provisions of the scheme used to compute the income of corporations resident in Canada and their shareholders, i.e. of subsections 69(5), 84(2) and 88(2) of the ITA?
+[171] The Respondent contends that the application of subsections 69(5), 84(2) and 88(1) of the ITA at the time of the avoidance transactions produced the following effects:
+-Under subsection 69(5) of the ITA, upon the winding-up of 3662527, the corporation was deemed to have disposed of its assets at their FMV. This corporation’s assets included the class “A” shares of Vidéotron Telecom, which had an FMV of $138,141,304 and an ACB of $344,209,002, as well as class “C” shares of Vidéotron Telecom, which had an FMV of $11,859,696 and an ACB of $6,323,675. Consequently, 3662527 reported a $206,067,698 capital loss ($138,141,304 − $344,209,002) following the disposition of its class “A” shares of Vidéotron Telecom and a $5,536,021 capital gain ($11,859,696 − $6,323,675) following the disposition of its Vidéotron Telecom class “C” shares.
+-Under subsection 84(2) of the ITA, 3662527 was deemed to have paid 9101-0827 a $195,527,333 winding-up dividend. Under subsection 112(1) of the ITA, this winding-up dividend was deducted from 9101-0827’s income.
+-9101-0827 was deemed to have disposed of its 5,000 3662527 class “C” preferred shares at their FMV. The proceeds of disposition of the shares was $5,000,[226] while the ACB was $166,500,000. Consequently, 9101-0827 reported a capital loss, which was reduced to nil in accordance with subsection 112(3) of the ITA. Under subsection 112(3), the amount of any capital loss of a taxpayer from the disposition of shares is reduced by the amount of non-taxable dividends received by the taxpayer on the shares.
+-Quebecor Media was deemed to have disposed of its 10,000 common voting shares and its 90,000 common non-voting shares that it held in the capital stock of 3662527 at their FMV. The proceeds of disposition of these shares was $0 whereas their ACB was $400,000,000. Consequently, Quebecor Media reported a $400,000,000 capital loss from the disposition of its 3662527 shares.
+[172] The $206,067,698 capital loss resulting from 3662527’s disposition of its class “A” shares of Vidéotron Telecom was used to offset the $5,536,021 capital gain realized following the disposition of the class “C” shares of Vidéotron Telecom and to offset the $191,833,982 capital gain realized from 3662527’s disposition of the shares of Abitibi Consolidated in favour of Quebecor.
+[173] The Respondent acknowledges that 3662527 was entitled to use the $206,067,698 capital loss resulting from the deemed disposition of its class “A” shares of Vidéotron Telecom to offset the $5,536,021 capital gain resulting from the deemed disposition of its class “C” shares of Vidéotron Telecom that took place on its winding-up. However, the Respondent argues that 3662527 was not entitled to use the remainder of the capital loss to offset the capital gain resulting from its disposition of the shares of Abitibi Consolidated in favour of Quebecor as consideration for the demand note. The Respondent claims that this loss should be considered only in computing the income for 3662527’s final taxation year and that it was therefore to be forfeited and should not have been retained as an increased ACB of the shares of Abitibi Consolidated.[227]
+[174] The Respondent alleges that subsections 65(5), 84(2) and 88(2) of the ITA allowed for the winding-up of 3662527 and the realization of a $206,067,698 capital loss that was deducted from the capital gain resulting from the disposition of the Abitibi Consolidated shares in favour of Quebecor. This disposition increased the ACB of the shares[228] from $1 to $191,833,983.
+[175] The Respondent maintains that no tax was imposed on the capital gain that increased the ACB of the Abitibi Consolidated shares held by Quebecor. The Respondent acknowledges that this capital gain was included in 3662527’s income. However, he submits that this gain was offset by the capital loss realized from the winding-up of 3662527. This winding-up resulted in the deemed disposition of the Vidéotron Telecom shares held by 3662527, which made it possible to realize a capital loss that was used to offset the capital gain that resulted from the increase in the ACB of the Abitibi Consolidated shares. In so doing, the Respondent argues that no tax was imposed on this amount constituting the new increased ACB of the Abitibi Consolidated shares.[229]
+[176] The Respondents contends that if 9101-0827 had not been incorporated, subsection 88(1) of the ITA would have applied on the winding-up of 3662527. Had this been the case, the Vidéotron Telecom shares that 3662527 held in Quebecor Media would have been transferred at their ACB. Quebecor Media would have maintained an unrealized $400,000,000 capital loss, and the $206,000,000 capital loss realized following their deemed disposition under subsection 69(5) of the ITA would not have occurred.[230]
+[177] The Respondent also submits that the provisions of the winding-up scheme set out in subsections 69(5), 84(3) and 88(2) were used to double part of the unrealized loss of the 3662527 shares.[231] The series of transactions undertaken by Quebecor enabled it to benefit from two tax losses for a single economic loss. The Respondent admits that there was an economic loss of approximately $400,000,000 in Quebecor’s corporate structure.[232] However, he argues that the unrealized $206,000,000 loss on the Vidéotron Telecom shares held by 3662527 was reflected in the unrealized $400,000,000 loss on the 3662527 shares held by Quebecor Media.[233]
+[178] The Respondent objects to the use of the $206,000,000 capital loss realized by 3662527 at the time of the deemed disposition of Vidéotron Telecom’s shares on its winding-up.[234] According to the Respondent, this loss was to be used solely to compute the income for 3662527’s final year and would therefore be forfeited following the winding-up.[235] The Respondent therefore objects to the deduction of this loss from the capital gain realized by 3662527 from the disposition of the Abitibi Consolidated shares to Quebecor. It thus made it possible to increase the ACB of these shares without any taxation.[236]
+[179] The Respondent claims that, with the series of transactions, Quebecor moved from an initial situation where it had an unrealized $191,000,000 capital gain (on the 44,821,024 common shares that it held in the capital stock of Abitibi Consolidated initially and before the series of transactions) and an unrealized $400,000,000 capital loss, to a situation where it realized a $400,000,000 economic loss and offset the $191,000,000 capital gain.[237]
+[180] The Respondent is of the view that the ITA textually allows Quebecor to realize the $206,000,000 capital loss. However, he alleges that Quebecor arranged its transactions so as to allow it to use this loss in a manner not set out in the ITA.[238]
+[181] Finally, the Respondent alleges that Quebecor was able to retain 3662527’s deemed loss—which would have otherwise been forfeited during the winding-up—as the increased ACB of the Abitibi Consolidated shares held by Quebecor. The Respondent therefore submits that the series of transactions produced a result that frustrates or defeats the object, spirit and purpose of subsections 69(5), 82(4) and 88(1) of the ITA.[239]
+(h) Reasonable consequences
+[182] The Respondent argues that subsection 245(2) of the ITA provides that in the event of an avoidance transaction, the tax consequences must be determined as is reasonable in the circumstances in order to deny the tax benefit that, but for the GAAR, would result from the avoidance transactions.[240]
+[183] According to the Respondent, the reduction in tax payable by Quebecor following the disposition of its Abitibi Consolidated shares is not reasonable. In order to deny the benefit arising from the avoidance transactions, the Respondent contends that the Minister had to do the following:[241]
+-disallow Quebecor’s $191,833,982 increase in the ACB of the 44,821,024 common shares of Abitibi Consolidated;
+-add a $95,916,990 capital gain to Quebecor’s income for the 2007 taxation year in connection with the disposition of the 44,821,024 shares of Abitibi Consolidated; and
+-disallow the $95,916,992 capital loss realized from the disposition of the 44,821,024 shares of Abitibi Consolidated, which Quebecor claimed as a deduction for the 2007 taxation year.
+[184] The Respondent submits that, had it not been for the series of transactions, the ACB of the Abitibi Consolidated shares held by Quebecor would have remained at $1 and would not have been increased to $191,833,983. In so doing, at the time of the disposition of these shares by Quebecor, Quebecor would have realized a $95,916,991 capital gain because the proceeds of disposition were $95,916,992, and the ACB would have been $1.[242]
+VI. ANALYSIS A. GAAR
+1. Introduction [185] It is well recognized in Canadian law that taxpayers have the right to arrange their affairs to minimize the amount of tax payable.[243] However, this principle, which is set out in Duke of Westminster, is not absolute, and it is open to Parliament to derogate from it. Parliament has done so through the GAAR,[244] which should not, however, be interpreted as undermining this basic tenet of tax law.[245] As the Supreme Court of Canada stated in Trustco,[246] Parliament intends that taxpayers take full advantage of the provisions of the ITA that confer tax benefits. Indeed, achieving the various policies that the ITA seeks to promote is dependent on taxpayers doing so. Therefore, in the absence of contrary provisions in the ITA, the courts cannot prevent taxpayers from using complex strategies to minimize the tax that they must pay if the strategies comply with the relevant provisions of the ITA.[247] Taxpayers are therefore entitled to enter into a series of transactions that will minimize their tax liability.[248] The GAAR can thus be applied by the Minister to deny a tax benefit only when the abusive nature of the transaction is clear.[249]
+[186] The GAAR is set out in section 245 of the ITA. It is the mechanism chosen by Parliament to curb the proliferation of tax avoidance schemes. The government has recognized that specific anti-avoidance rules are not always desirable because they make the tax system more complex; they sometimes create other unintended loopholes and do not cover transactions that were pre-ordained before the amendments became effective.[250] The GAAR was a choice, made by Parliament, to adopt a general rule to complement its specific anti-avoidance efforts.[251]
+[187] The GAAR’s purpose is to deny the tax benefits of certain arrangements that comply with a literal interpretation of the provisions of the ITA, but amount to an abuse of the provisions of the ITA.[252] The Court’s role must therefore be to conduct an objective, thorough and step-by-step analysis and explain the reasons for its conclusion.[253] The Minister may apply the GARR to deny a tax benefit when the abusive nature of the transaction is clear.[254] Abusive tax avoidance can involve unforeseen tax strategies that undermine the integrity of the tax system by frustrating or defeating the object, spirit and purpose of the provisions relied on by the taxpayer.[255]
+[188] An avoidance transaction may operate alone to produce a tax benefit, but it may also operate as part of a series of transactions that results in a tax benefit. While the focus must be on the transaction, where it is part of a series, it must be viewed in the context of the series to enable the Court to determine whether abusive tax avoidance has occurred.[256] In such a case, whether a transaction is abusive will only become apparent when it is considered in the context of the series of which it is a part and the overall result that is achieved.[257]
+[189] The object, spirit or purpose can be determined by taking the approach adopted for all issues of statutory interpretation—a “unified textual, contextual and purposive approach” to establish the object, spirit or purpose of the provisions at issue.[258] However, as the Supreme Court pointed out in Copthorne, determining the rationale of the relevant provisions of the ITA should not be conflated with a value judgment of what is right or wrong nor with theories about what tax law ought to be or ought to do.[259]
+[190] The purpose of the GAAR is not to imply moral opprobrium regarding the actions of a taxpayer to minimize tax liability utilizing the provisions of the ITA in a creative way.[260] It is a provision of last resort in order to address abusive tax avoidance.[261]
+2. Conditions for the application of the GAAR
+[191] In order for the GAAR to apply, the courts must determine whether the tax benefit obtained by a taxpayer constitutes an abuse of the application of certain provisions of the ITA. To this end, an analysis involving a three-step test must be performed.[262] The Court must answer a question at each step. Each question corresponds to a requirement that must be fulfilled in order for the GAAR to apply.[263] The three questions that this Court must answer are:
+1-Is there a “tax benefit” arising from a “transaction” or “series of transactions” within the meaning of subsections 245(1) and (2) of the ITA?
+2-Is the “transaction” or “series of transactions” an “avoidance transaction” within the meaning of subsection 245(3) of the ITA?
+3-Was the avoidance transaction abusive within the meaning of subsection 245(4) of the ITA?[264]
+[192] The Minister may only apply the GAAR to deny a tax benefit when these three requirements have been fulfilled.[265] Consequently, as part of its analysis, this Court must determine whether the three requirements have been fulfilled, successively.[266]
+[193] On this subject, it should be noted that the taxpayer bears the burden of demonstrating that the first two requirements have not been fulfilled. The Minister bears the burden of proving that the “avoidance transaction” is abusive within the meaning of subsection 245(4) of the ITA.[267]
+(a) The first requirement: Is there a “tax benefit” arising from a “transaction” or “series of transactions” within the meaning of subsections 245(1) and (2) of the ITA?
+[194] The definition of “tax benefit” is provided in subsection 245(1) of the ITA and, for the taxation year at issue, reads as follows:
+tax benefit means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act, and includes a reduction, avoidance or deferral of tax or other amount that would be payable under this Act but for a tax treaty or an increase in a refund of tax or other amount under this Act as a result of a tax treaty; (avantage fiscal)
+[195] In all cases, the Court must determine whether the taxpayer reduced, avoided or deferred tax payable under the ITA.[268] It is also important to note that the tax benefit must be realized.[269]
+(b) The second requirement: Is the series of transactions an “avoidance transaction” within the meaning of subsection 245(3) of the ITA?
+[196] The definition of an avoidance transaction is provided in subsection 245(3) of the ITA. It reads as follows:
+(3) An avoidance transaction means any transaction
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+[197] An avoidance transaction may consist of a single transaction or be part of a series of transactions.[270] A series of transactions also includes related transactions or events in contemplation of the series, which refers to transactions or events before or after the series which were undertaken in relation to or because of the series.[271] A series of transactions is an avoidance transaction if it is reasonable to consider that it was not primarily undertaken for a bona fide purpose. Under subsection 245(3) of the ITA, obtaining the tax benefit cannot constitute a bona fide purpose.[272]
+(c) The third requirement: Is the avoidance transaction abusive within the meaning of subsection 245(4) of the ITA?
+[198] An avoidance transaction is abusive within the meaning of subsection 245(2) of the ITA in the cases listed in subsection 245(4) of the ITA. Subsection 245(4) reads as follows:
+(4) Subsection (2) applies to a transaction only if it may reasonably be considered that the transaction
+(a) would, if this Act were read without reference to this section, result directly or indirectly in a misuse of the provisions of any one or more of
+(i) this Act,
+(ii) the Income Tax Regulations,
+(iii) the Income Tax Application Rules,
+(iv) a tax treaty, or
+(v) any other enactment that is relevant in computing tax or any other amount payable by or refundable to a person under this Act or in determining any amount that is relevant for the purposes of that computation; or
+(b) would result directly or indirectly in an abuse having regard to those provisions, other than this section, read as a whole.
+[199] In Trustco, the Supreme Court of Canada described the analysis that the Court must perform to determine whether an avoidance transaction is abusive as follows:
+[44] The heart of the analysis under s. 245(4) lies in a contextual and purposive interpretation of the provisions of the Act that are relied on by the taxpayer, and the application of the properly interpreted provisions to the facts of a given case. The first task is to interpret the provisions giving rise to the tax benefit to determine their object, spirit and purpose. The next task is to determine whether the avoidance transaction falls within or frustrates that purpose. The overall inquiry thus involves a mixed question of fact and law. The textual, contextual and purposive interpretation of specific provisions of the Income Tax Act is essentially a question of law but the application of these provisions to the facts of a case is necessarily fact-intensive.
+...
+[47] The first part of the inquiry under s. 245(4) requires the court to look beyond the mere text of the provisions and undertake a contextual and purposive approach to interpretation in order to find meaning that harmonizes the wording, object, spirit and purpose of the provisions of the Income Tax Act. There is nothing novel in this. Even where the meaning of particular provisions may not appear to be ambiguous at first glance, statutory context and purpose may reveal or resolve latent ambiguities. ...
+[55] ... The second step is to examine the factual context of a case in order to determine whether the avoidance transaction defeated or frustrated the object, spirit or purpose of the provisions in issue.
+[200] Consequently, in order to determine whether an avoidance transaction is abusive within the meaning of subsection 245(4) of the ITA, the Court must perform an analysis that includes the following two steps:[273]
+1-The first step is to determine the object, spirit or purpose of the provisions of the ITA that are relied on for the tax benefit, having regard to the scheme of the ITA, the relevant provisions and the permissible extrinsic aids.
+2-The second step is to determine whether the tax benefit frustrates or defeats the object, spirit or purpose of the provisions in issue.
+(1) First step: Determining the object, spirit or purpose of the provisions of the ITA that are relied for the tax benefit
+[201] The GAAR requires the Court to look into the underlying rationale of the provisions relied upon in order to obtain the tax benefit.[274] The object, spirit and purpose of a provision represent the rationale of the provision. The text of the provision, its context and its purpose help to shed light on this rationale.[275] The Court must identify the object, spirit and purpose of the provisions alleged to have been abused, with reference to the provisions themselves, the scheme of the ITA and the permissible extrinsic aids. The object, spirit and purpose of the provisions have been referred to as the legislative rationale that underlies specific or interrelated provisions of the Act.[276]
+[202] The first part of the inquiry under subsection 245(4) of the ITA requires that this Court look beyond the mere text of the provisions.[277] When interpreting the provisions of the ITA, the Court must read the words of the ITA in their entire context, in their grammatical and ordinary sense harmoniously with the scheme, object and intention of Parliament.[278] It is in fact possible that, even if the meaning of the words of the statute are clear, the rationale for the provision may not be captured.[279] Discerning the object, spirit and purpose does not rewrite the provision; rather, the Court is merely taking a step back to formulate a concise description of the rationale underlying the provision, against which a textually compliant transaction must be scrutinized.[280]
+[203] In determining the object, spirit or purpose of the provisions at issue, this Court must take a “unified textual, contextual and purposive” approach to statutory interpretation.[281]
+[204] This method of statutory interpretation is not unique to questions relating to the application of the GAAR or the provisions of the ITA; it is the same as for any other statute.[282] However, when applying the GAAR, the analysis seeks to identify a different aspect of the law.
+[205] In traditional statutory interpretation, the court considers a provision’s text, context and purpose to determine what the words of the statute mean.[283] In the GAAR analysis, however, the search is for the rationale that underlies the words that may not be captured by the bare meaning of the words themselves.[284] This analysis begins by reading the words of the ITA in their entire context, in their grammatical and ordinary sense harmoniously with the scheme of the ITA, the object of the ITA, and the intention of Parliament.[285]
+[206] Because the three elements that must be analyzed as part of statutory interpretation are often inevitably intertwined, it is difficult to evaluate them separately. On this subject, the Supreme Court of Canada stated the following in Mathew v. Canada:
+[43] We add this. While it is useful to consider the three elements of statutory interpretation separately to ensure each has received its due, they inevitably intertwine. For example, statutory context involves consideration of the purposes and policy of the provisions examined. And while factors indicating legislative purpose are usefully examined individually, legislative purpose is at the same time the ultimate issue — what the legislator intended.[286]
+[Emphasis added.]
+[207] During the analysis, the Court can use several useful sources to determine the object, spirit and purpose of the provisions of the ITA at issue. The Court may have recourse to Department of Finance explanatory notes and studies, to the description of the object in previous decisions, to manuals and articles in legal journals taken into consideration by the courts as well as to monitoring the development of the statute from its creation to its current form, taking into account the successive amendments that it may have undergone.[287]
+(a) Textual analysis
+[208] The text of the provision is relevant to the analysis of a provision’s object, spirit and purpose.[288] Bearing in mind the search for the provision’s underlying rationale, the Court may ask how the text sheds light on what the provision was designed to achieve.[289] This includes considering what the text of the provision expressly permits or restricts.[290]
+[209] The text must be analyzed using a so-called “grammatical” method. When using this method, the Court must do the following:
+-give the words the meaning that they have in everyday language;
+-give the words the meaning that they had on the day the Act was adopted; and
+-avoid adding to the words of the Act or depriving them of effect.[291]
+[210] The Court must therefore give the words used in the provision their ordinary and grammatical meaning. In Pharmascience Inc. v. Binet, the Supreme Court of Canada stated the following on this subject:
+[30] Although the weight to be given to the ordinary meaning of words varies enormously depending on their context, in the instant case, a textual interpretation supports a comprehensive analysis based on the purpose of the Act. Most often, “ordinary meaning” refers “to the reader’s first impression meaning, the understanding that spontaneously emerges when words are read in their immediate context” (R. Sullivan, Sullivan and Driedger on the Construction of Statutes (4th ed. 2002), at p. 21; Marche v. Halifax Insurance Co., [2005] 1 S.C.R. 47, 2005 SCC 6, at para. 59). In Canadian Pacific Air Lines Ltd. v. Canadian Air Line Pilots Assn., [1993] 3 S.C.R. 724, at p. 735, Gonthier J. spoke of the “natural meaning which appears when the provision is simply read through”.[292]
+[211] When performing this analysis, certain assumptions recognized by the Supreme Court of Canada may be useful. Here are a few examples:
+-Parliament is well informed and competent in drafting legislation;[293]
+-Parliament avoids using superfluous or meaningless words;[294] and
+-Parliament uses language carefully and consistently so that, in a statute or other legislative instrument, the same words have the same meaning and different words have different meanings.[295]
+[212] The Court must look beyond the words of the provision because words that appear clear and unambiguous may in fact prove to be ambiguous once placed in their context.[296] The possibility of the context revealing a latent ambiguity such as this is a logical result of the modern approach to interpretation.[297]
+(b) Contextual analysis
+[213] Contextual analysis involves an examination of other relevant provisions of the ITA, that is, those that interact with and have an effect on the provision at issue.[298] Of course, this does not involve considering every other section of the ITA.[299] The focus is on the relationship between the provision alleged to have been abused and the particular scheme within which it operates.[300] Although the ITA is lengthy and detailed, an understanding of its structure can help to identify the function of the provision at issue.[301]
+[214] Admissible extrinsic aids and the history of the provision may be used.[302] Ultimately, contextual analysis seeks a harmonious whole to ensure that a provision interacts logically and consistently with the ITA as a whole. Contextual analysis therefore focuses on determining the statutory context of a provision. In Copthorne, the Supreme Court of Canada stated the following on this subject:
+[91] The consideration of context involves an examination of other sections of the Act, as well as permissible extrinsic aids (Trustco, at para. 55). However, not every other section of the Act will be relevant in understanding the context of the provision at issue. Rather, relevant provisions are related “because they are grouped together” or because they “work together to give effect to a plausible and coherent plan” (R. Sullivan, Sullivan on the Construction of Statutes (5th ed. 2008), at pp. 361 and 364).[303]
+(c) Purposive analysis
+[215] Purposive analysis or object analysis seeks to ascertain what outcome Parliament intended a provision or provisions to achieve, amidst the myriad of purposes promoted by the ITA.[304] A purposive analysis permits a court to consider legislative history and extrinsic evidence.[305] Tax provisions can serve a variety of independent and interlocking purposes.[306]
+[216] Purposive analysis therefore aims to determine the object of the legislation or legislative scheme in which the provision appears. However, Acts often have several purposes, and the analysis seeks to ascertain the outcome that Parliament intended the provision to achieve. In Copthorne, the Supreme Court of Canada stated the following on this subject:
+[113] Tax provisions are intended to “promote purposes related to specific activities” (Trustco, at para. 52). This step seeks to ascertain what outcome Parliament intended a provision or provisions to achieve, amidst the myriad of purposes promoted by the Act.[307]
+[217] Sometimes the purpose is clearly stated in the ITA;[308] in other cases, the purpose is determined in relation to one or more closely related statutes.[309] Often, the purpose can be discerned from these provisions and related provisions in the ITA.[310] Where the purpose of the statute is not apparent, legislative history may be used.[311] Explanatory notes can also be used to determine the purpose.[312]
+(2) Second step: Determining whether the tax benefit obtained defeated or frustrated or defeated the object, spirit or purpose of the provisions in issue
+[218] In order to determine whether the avoidance transaction is abusive, the context must be taken into account, that is to say all the transactions that are part of the series of transactions, i.e. its overall effect. In Lipson, the Supreme Court of Canada stated the following on this subject:
+[34] It is true, as the appellants argue, that in assessing a series of transactions, the misuse and abuse must be related to the specific transactions forming part of the series. However, the entire series of transactions should be considered in order to determine whether the individual transactions within the series abuse one or more provisions of the Act. Individual transactions must be viewed in the context of the series. Consideration of this context will enable a reviewing court to assess and understand the nature of the individual parts of the series when analysing whether abusive tax avoidance has occurred. At the same time, care should be taken not to shift the focus of the analysis to the “overall purpose” of the transactions. Such an approach might incorrectly imply that the taxpayer’s motivation or the purpose of the transaction is determinative. In such a context, it may be preferable to refer to the “overall result”, which more accurately reflects the wording of s. 245(4) and this Court’s judgment in Canada Trustco.
+[Emphasis added.]
+[219] The purpose of a transaction should not be the focus of the analysis aimed at determining whether the avoidance transaction is abusive:[313]
+[45] While this is sufficient to dispose of this appeal, I note that the Tax Court’s conclusion that section 84.1 was abused appears to have been influenced by Mr. Wild’s inability to explain the purpose of certain transactions or why the transactions were structured as they were. The purpose of the transaction is relevant when considering whether the transaction giving rise to the taxable benefit was an avoidance transaction (Copthorne, paragraph 40). The purpose of a transaction should not be the focus of the abuse analysis where the question is whether a transaction abused the object, spirit or purpose of the provisions relied on.
+[220] The analysis remains squarely focused on abuse. The Court must go beyond the legal form and technical compliance of the transactions; it must compare the result of the transactions to the underlying rationale of the provision and determine whether that rationale has been frustrated. In order to reach such a conclusion, the abusive nature of the transaction must be clear.[314]
+[221] The three situations that may lead the Court to find that the avoidance transaction is abusive were described as follows by the Supreme Court of Canada in Copthorne:
+[72] The analysis will then lead to a finding of abusive tax avoidance: (1) where the transaction achieves an outcome the statutory provision was intended to prevent; (2) where the transaction defeats the underlying rationale of the provision; or (3) where the transaction circumvents the provision in a manner that frustrates or defeats its object, spirit or purpose (Trustco, at para. 45; Lipson, at para. 40). These considerations are not independent of one another and may overlap. At this stage, the Minister must clearly demonstrate that the transaction is an abuse of the Act, and the benefit of the doubt is given to the taxpayer.
+[222] Consequently, an avoidance transaction is deemed abusive in the following circumstances:[315]
+-if the transaction achieves an outcome that the statutory provision was intended to prevent;
+-if the avoidance transaction defeats the underlying rationale of a provision; or
+-if the avoidance transaction circumvents the provision in a manner that frustrates or defeats its object, spirit or purpose.
+[223] The courts have set out several principles to be followed when determining the object, spirit or purpose of provisions in the context of the GAAR. Those principles are:
+-The courts are not authorized to search for an overriding policy of the ITA that is not based on a unified, textual, contextual and purposive interpretation of the specific provisions in issue to obtain a tax benefit.[316]
+-Parliament’s overall policy is to ensure that tax law is certain, predictable and fair so that taxpayers can intelligently order their affairs. To search for an overriding policy of the ITA that is not anchored in a textual, contextual and purposive interpretation of the provisions at issue would run counter to this policy.[317]
+-The Court must exercise caution in decisions with respect to the application of the GAAR to the PUC or ACB of a class of shares because such a decision may have implications for innumerable everyday transactions carried out by taxpayers every year.[318]
+-If Parliament has not been clear and unambiguous as to the general policy it was contemplating, the Court cannot make a finding of abuse, and compliance with the ITA must govern.[319]
+B. Was the Minister correct to apply the GAAR to the series of transactions undertaken by Quebecor in order to cancel their effects?
+[224] As mentioned above, in order to answer this question, the Court must determine whether the three requirements that must be satisfied in order for the GAAR to apply were fulfilled successively.
+1. Did Quebecor obtain a “tax benefit” arising from the series of transactions within the meaning of subsections 245(1) and (2) of the ITA? [225] In order to determine whether this requirement was fulfilled, the Court must determine whether Quebecor reduced, avoided or deferred tax payable under the ITA. It was incumbent upon Quebecor to demonstrate that it did not obtain a tax benefit within the meaning of subsection 245(1) of the ITA as a result of the series of transactions. The parties acknowledged that the series of transactions consisted of the transactions mentioned above at paragraph 32.
+[226] Quebecor admitted to having obtained a tax benefit resulting from this series of transactions.[320] This series of transactions allowed Quebecor to increase the ACB of its Abitibi Consolidated shares by $191,833,982, which resulted in the realization of a $95,916,992 capital loss from the disposition of its 44,821,024 shares of Abitibi Consolidated in exchange for 2,806,244 shares of Abitibi Bowater. Had it not been for this series of transactions, Quebecor would have realized a $95,916,990 capital gain from the disposition of the Abitibi Consolidated shares instead of a capital loss of the same amount.
+[227] In view of the foregoing, the Court finds that Quebecor obtained a tax benefit resulting from a transaction or a series of transactions within the meaning of subsections 245(1) and 245(2) of the ITA.
+2. Is the series of transactions an avoidance transaction within the meaning of subsection 245(3) of the ITA? [228] In order to determine whether this requirement was fulfilled, the Court must determine whether the series of transactions undertaken by Quebecor was an avoidance transaction. To this end, the Court must determine whether the series of transactions may be reasonably considered to have been undertaken primarily for a bona fide purpose.
+[229] In the case at bar, a letter from KPMG dated August 31, 2005, explains the reason for which the series of transactions was undertaken. It is apparent from reading this letter that the objective of the series of transactions was to increase the ACB of the Abitibi Consolidated shares held by Quebecor Media in order to reduce the capital gain that would be realized following the disposition of these shares. In order to achieve this goal, 3662527 had to be put in a position where it would realize a capital loss from the distribution of its property to its shareholders, which could then be used to increase the ACB of the Abitibi Consolidated shares held by Quebecor Media. The relevant passage of this letter reads as follows:
+[translation]
+... To begin with, it is important to consider that without the tax benefit arising from the series of transactions at issue, none of the transactions indicated in this opinion would have been undertaken. In fact, the purpose of this series of transactions is to enable QI to increase the adjusted cost base of its ACI shares in order to reduce the capital gain from the potential disposition of the shares. Under normal circumstances, QMI would have acquired the VTLH shares from Carlyle and the subsequent winding-up of VTLH under subsection 88(1) would not have created a capital loss to increase the adjusted cost base of the ACI shares to QI. However, by implementing this series of transactions, including the incorporation of 9101 to acquire the shares of VTLH from Carlyle, VTLH put itself in a position to realize a loss on the distribution of the property to its shareholders, a loss that will be available to increase the adjusted cost base of ACI’s shares to QI.[321]
+[Emphasis added.]
+[230] KPMG also wrote the following in the same letter: [translation] “without the tax benefit arising from the series of transactions at issue, none of the transactions referred to in this opinion would have occurred”.[322]
+[231] Under subsection 245(3) of the ITA, obtaining a tax benefit cannot constitute a bona fide purpose, and the evidence demonstrates that the series of transactions was undertaken solely to obtain a tax benefit. Taking this into account, the Court finds that the series of transactions was not undertaken primarily for a bona fide purpose. Consequently, the Court finds that the second requirement that must be met for the GAAR to apply has been fulfilled.
+[232] Because the Court has concluded that the first two requirements that must be met for the GAAR to apply have been fulfilled, it finds, as argued by the parties, that the only issue in this case is whether the avoidance transaction is abusive within the meaning of subsection 245(4) of the ITA.
+[233] Before beginning the analysis of the third condition used to determine whether the GAAR should apply in this case, it is important to mention these principles established by the Supreme Court of Canada:
+-Even if an avoidance transaction has been established (that provides a tax benefit and whose primary purpose is to obtain that benefit), the GAAR will apply to deny the tax benefit only if it may not be reasonable to consider that it did not result from abuse under subsection 245(4) of the ITA.
+-The negative language in subsection 245(4) of the ITA indicates that the starting point for the analysis is the assumption that a tax benefit that would be conferred by the actual wording of the ITA is not abusive.[323]
+3. Was the avoidance transaction undertaken by Quebecor abusive within the meaning of subsection 245(4) of the ITA? [234] To find that a transaction is abusive, the Court must perform a two-step analysis. First, it must determine the object, spirit or purpose of the provisions of the ITA that are relied on for the tax benefit, having regard to the scheme of the ITA, the relevant provisions and the permissible extrinsic aids.[324] Next, it must determine whether the transaction complies with the object, spirit or purpose of the provisions or whether it frustrates or defeats them.
+(a) What are the object, spirit and purpose of the provisions of the capital gains and losses system and the system used to compute the income of corporations resident in Canada and their shareholders?
+(1) What are the object, spirit and purpose of the capital gains and losses system, in particular sections 3, 38, 53 and 54 of the ITA and subsections 39(1) and 40(1) of the ITA?
+[235] The Federal Court of Appeal has analyzed the capital gains and losses system on numerous occasions. In 2763478, the Court pointed out the object, spirit and purpose of this system:[325]
+[53] In Triad Gestco, this Court distinguished a “paper loss” from an “economic” or “true” loss and held that, given the object, spirit and purpose of paragraphs 38(b), 39(1)(b) and 40(1)(b), a paper loss does not give rise to an allowable capital loss (Triad Gestco, at paragraphs 39 and 51). The Court drew this distinction after considering the operation of the statutory scheme implemented in 1972 to tax capital gains (Triad Gestco, at paragraphs 27 to 36) and the objective that was being pursued (Ibidem, at paragraph 42). It was noted that before 1972, increases in the value of capital assets were not taxed. It was following the recommendations of the Carter Commission, which found that increases in the value of capital assets gave rise to a form of enrichment, that the legislative framework aimed at taxing capital gains was implemented (Carter Commission Report, 1966, at pages 42 to 44, and Triad Gestco, at paragraph 42).
+[54] Paragraph 3(b) of the ITA is at the root of the regime. It recognizes capital gains as a source of income and makes increases in the value of capital property taxable for the year in which it is realized through the disposition of the property holding the gain. Conversely, a capital loss is recognized when it is realized in the same fashion. Unrealized increases in the value of capital property are not taxable, but it is important to keep in mind the deemed disposition upon death (paragraph 70(5)(a)), which effectively makes all increases in the value of capital property held by a taxpayer taxable at that time.
+[55] Sections 39 and 40 provide the method for calculating the gain or loss. A loss is incurred when property is disposed of for “proceeds of disposition” that are lower than its “adjusted cost base”. The “adjusted cost base” is the purchase price of a capital property adjusted in accordance with section 53, and the “proceeds of disposition” is the price for which the property is sold or is otherwise compensated for, as provided in section 54. The difference between the adjusted cost base and the proceeds of disposition of a given property provides a measure of its change in value, and the corresponding increase or decrease in the owner’s economic power (Triad Gestco, paragraphs 42 and 50).
+[236] In Copthorne, the Supreme Court of Canada provided clarifications regarding the computation of capital gains or losses. These clarifications are as follows:
+[101] ... Capital gains or losses are calculated in relation to the adjusted cost base (“ACB”) of a share, not its PUC. While PUC relates to shares, ACB relates to a specific taxpayer. PUC depends on the amount initially invested as capital, whereas the ACB reflects the amount the current shareholder paid for the shares. In some cases the ACB and PUC may be the same, but in others they may not be. In the case of shares acquired from a prior shareholder it will be unlikely that the ACB will be equal to the PUC.[326]
+[237] In Pomerleau, the Federal Court of Appeal of Canada clarified that the ITA presupposes that the cost of acquiring property, including the cost of acquiring newly issued shares, was paid with amounts that have already been subject to tax:
+[63] As is the case for the initial investment made in exchange for newly issued shares, the ITA operates on the assumption that the cost of acquiring property—i.e.: its initial ACB—is paid with amounts that have been subject to tax. Thereafter, the only adjustments allowed pursuant to section 53 result from taxable transactions or events. It follows that, as a rule, the ACB is composed of amounts that have been subject to tax.[327]
+Conclusion as to the object, spirit and purpose of these provisions of the capital gains and losses system
+[238] It follows that the object, spirit and purpose of the capital gains and losses system are to tax the increase or decrease in the economic power of the value of the property upon its disposition. This is apparent from subsection 3(b), which is the basis of the system.
+[239] Section 38 and subsections 39(1) and 40(1) set out the method for computing a gain or loss, and sections 53 and 54 define the terms “proceeds of disposition” and “adjusted cost base” respectively. These provisions are used to determine the economic growth or loss of the property that will be subject to tax. To this end, the initial ACB of a property must have been paid using amounts subject to tax, and the only changes allowed to the ACB are made based on taxable transactions or events. Ultimately, the provisions make a distinction between amounts used to acquire the property, which have already been subject to tax, and amounts received from the disposition of the property. Consequently, all of these provisions make it possible to implement the object, spirit and purpose of subsection 3(b).
+(2) What are the object, spirit and purpose of the provisions of the system dealing with the computation of the income of corporations resident in Canada and their shareholders, more specifically of subsections 69(5), 84(2), 85(1) and 88(2) of the ITA?
+(a) What are the object, spirit and purpose of subsection 85(1) of the ITA?
+[240] Subsection 85(1) of the ITA deals with the transfer of property to a taxable Canadian corporation by a shareholder. This transfer is commonly referred to as a “rollover”. The term “rollover” is not defined in the ITA. In Husky Oil Limited v. Canada, the Federal Court of Appeal of Canada explained the concept of rollover as follows:
+The Income Tax Act contains a number of provisions that permit a taxpayer to defer the recognition of a capital gain on the disposition of capital property if the disposition occurs in certain circumstances, typically involving a corporate reorganization or restructuring. These provisions are referred to as “rollovers”. Where one property is exchanged for another property in a transaction to which a rollover applies, the taxpayer is treated for income tax purposes as having sold the original property for proceeds of disposition equal to its tax cost (in income tax terms, its “adjusted cost base”) and acquired the new property for a cost equal to the same amount (thus, the tax cost is “rolled over” to the new property). The capital gain so deferred is recognized when the new property is sold or otherwise disposed of in a taxable transaction.[328]
+[Emphasis added.]
+[241] The text of subsection 85(1) of the ITA is clear: it allows a shareholder of a Canadian corporation that disposes of property in favour of this corporation to defer payment of tax on the capital gain that would have been realized on this property if the shareholder had not disposed of it by means of a transfer to a corporation of which it is a shareholder. For this shareholder, the tax on this property will become payable upon the disposition of the property received in exchange and will be computed based on the proceeds of disposition of this property.
+[242] The capital gain deferred at the time of the rollover may be taxed at two levels. First, a capital gain is taxed upon the sale of the property that was transferred by the corporation that received it. A capital gain could also be realized, and therefore taxed, upon the sale of the shares received as consideration for the property.[329] As far as the Court is aware, there is no provision that bars a capital loss at two levels insofar as the ACB of the shares is greater than the proceeds of disposition of the shares at both levels.
+[243] The object, spirit and purpose of certain other provisions of the ITA involving a “rollover” have already been determined by the Federal Court of Appeal of Canada in several decisions. In Oxford Properties,[330] the Federal Court of Appeal stated the following:
+[56] Rollovers, including the one provided for in subsection 97(2), defer the tax consequences of transfers which take place amongst selected groups such as shareholders and their corporations (subsection 85(1)) and partners and their partnerships (subsection 97(2)), the premise being that no tax consequences should be recognized given that there is no fundamental change in ownership – i.e.: rather than holding the transferred property, the transferor holds a partnership interest or shares having the same value (Vern Krishna, The Fundamentals of Canadian Income Tax, 9th ed. (Toronto: Thomson/Carswell, 2006), at p. 1112).
+[57] The logic behind rollovers as revealed by the mechanism used to give effect to them – i.e.: the fact that a transferor’s deemed proceeds become the transferee’s deemed cost – ACB or UCC as the case may be – makes it clear that any tax thereby deferred will be paid on a subsequent disposition giving rise to a change in the transferor’s economic position. As was said in direct reference to subsection 97(2): “tax is not avoided; it is deferred [...]” (Continental Bank of Canada et al. v. the Queen, 94 D.T.C. 1858 at 1872 (T.C.C.), aff’d 96 D.T.C. 6355 (F.C.A.). This flows from both the wording and the object, spirit and purpose of subsection 97(2).
+...
+[59] Against this background, it must be acknowledged that the object, spirit and purpose of subsections 97(2) and 97(4) is to track the tax attributes of depreciable property in order to ensure that deferred recapture and gains are subsequently taxed.[331]
+[Emphasis added.]
+[244] In Canada v. Vaillancourt-Tremblay,[332] the Federal Court of Appeal of Canada stated the following regarding the object, spirit and purpose of section 85.1 of the ITA:
+[5] Section 85.1 creates a “rollover”. When a taxpayer receives proceeds of disposition of an asset in excess of the tax cost of the asset (the adjusted cost base), he or she generally realizes a taxable capital gain. In certain situations, a taxpayer is permitted to defer the recognition of a capital gain on the disposition of an asset until the asset is disposed of again, further down the line. In these situations, the tax characteristics of the asset are said to be “rolled over” until the ultimate taxable disposition.[333] …
+[Emphasis added.]
+[245] In Continental Bank of Canada,[334] this Court stated the following regarding the object, spirit and purpose of section 85 and subsection 97(2) of the ITA:
+[95] What, then, is the “object and spirit” of subsection 97(2)? I am not sure what its spirit, if any, is, — spirits tend to be somewhat elusive — but its object seems rather straightforward. It is to permit a taxpayer to transfer assets to a partnership in return for a partnership interest without triggering the immediate tax result that such a transfer would normally entail. Tax is not avoided; it is deferred and the potential tax is preserved within the partnership until the assets are disposed of, unless, of course, a second rollover is subsequently made to a corporation under section 85. That deferral is not obtained without a certain hidden cost. Both the assets within the partnership and the partnership interest have, for the purposes of the Income Tax Act, a lower cost base than they would have had if no subsection 97(2) election had been filed. This may result in an element of potential double taxation but it is something that taxpayers are normally informed of by their advisors and are prepared to live with. The apparent premise upon which the rollover provisions of both section 85 and subsection 97(2) are based is that where a taxpayer transfers assets to a corporation or a partnership and receives as consideration shares or a partnership interest, as the case may be, for a portion of the value of the assets exceeding the “cost amount”, the taxpayer’s real economic position has not been enhanced. The interest in the assets is merely being held in a different vehicle.
+[Emphasis added.]
+Conclusion regarding the object, spirit and purpose of subsection 85(1) of the ITA
+[246] In light of the Oxford Properties and Vaillancourt-Tremblay decisions of the Federal Court of Appeal of Canada, this Court finds that the object, spirit and purpose of subsection 85(1) of the ITA are the following:
+-to allow possible tax payable on a capital gain to be deferred and not avoided; and
+-to track the tax consequences of depreciable property in order to ensure that capital gains have recovered and that deferred gains are subsequently taxed.
+(b) The object, spirit and purpose of subsection 84(3) of the ITA
+[247] Under subsection 84(3) of the ITA, when a corporation resident in Canada has redeemed, acquired or cancelled in any manner whatever any of the shares of any class of its capital stock, a dividend is deemed to have been paid to the shareholders. This dividend is the amount equal to the difference between the proceeds of disposition and the PUC of the shares. Therefore, any distribution to shareholders that exceeds the PUC value of the shares is deemed to have been paid to shareholders as dividends.
+[248] In Copthorne, the Supreme Court of Canada analyzed subsection 84(3) of the ITA and found as follows:
+[84] Section 84(3) is a deeming provision. It splits the amount paid on a share redemption between the PUC and the excess over PUC. To the extent a shareholder receives an amount less than or equal to the PUC it will be considered a non-taxable return of capital. However, where the payment exceeds the PUC, s. 84(3) deems the excess to be a dividend subject to tax.[335] …
+[249] In Pomerleau, the Federal Court of Appeal reached the same conclusion. The following passage of that judgment is relevant:
+[69] The appellant first triggered the application of subsection 84(3). This provision fulfills a purpose similar to section 84.1 in that it ensures that only the paid-up capital, as adjusted pursuant to the ITA, can be withdrawn from a corporation on a tax free basis. When shares are redeemed at a price that exceeds their paid-up capital as adjusted, subsection 84(3) deems a dividend equal to that excess to have been paid.[336] …
+Conclusion regarding the object, spirit and purpose of subsection 84(3) of the ITA
+[250] According to the Supreme Court of Canada’s finding in Copthorne, the purpose of subsection 84(3) of the ITA is to create a deeming provision pursuant to which the part of the amount paid during a redemption of shares that exceeds the PUC gives rise to a taxable dividend equal to this amount. The purpose of subsection 84(3) is to return capital to investors on which tax has already been paid.[337]
+(c) The object, spirit and purpose of section 88 of the ITA
+[251] The parties did not submit any decisions to the Court relating to the object, spirit and purpose of subsections 88(2) and 69(5) of the ITA. Consequently, in the absence of prior judicial interpretation, this Court must perform a textual, contextual and purposive analysis.
+(i)Textual analysis
+[252] Section 88 of the ITA deals with the winding-up of a Canadian corporation, including the rules applicable during a winding-up. Two schemes can apply to a winding-up.
+[253] The first scheme is set out in subsection 88(1) of the ITA and the second in subsection 88(2) of the ITA. Under these two schemes, when a corporation is wound up, its property is distributed to its shareholders. The corporation is deemed to have disposed of its property and its shareholders are deemed to have acquired it. Shareholders are also deemed to have disposed of their shares in the corporation. Subsection 88(1) allows for the tax-free transfer of property from a subsidiary to its parent. When the requirements set out in subsection 88(1) have been fulfilled, this subsection automatically applies to the winding-up and thus allows for a winding-up with tax deferral: the property of the wound-up subsidiary is deemed to have been disposed of at its cost amount, for this subsidiary, and the parent is deemed to have acquired this property at the same cost.[338] It follows that any gain or loss relating to this property is deferred until the parent disposes of it.[339]
+[254] In cases where subsection 88(1) of the ITA does not apply, it is subsection 88(2) of the ITA that applies. Under subsection 88(2), where at a particular time in the course of the winding-up of a Canadian corporation, all or substantially all of the property owned by the corporation immediately before that time was distributed to the shareholders of the corporation, the winding-up is carried out on a taxable basis.[340]
+[255] Paragraph 88(2)(a) of the ITA provides that each property distributed to the shareholders “shall be deemed to have been disposed of ... for proceeds equal to the fair market value of the property”. This is consistent with subsection 69(5) of the ITA, which applies to a winding-up performed under subsection 88(2) of the ITA. Subsection 69(5) sets out that the wound-up corporation is deemed to have disposed of, and the shareholder of the wound-up corporation is deemed to have acquired, the property distributed to the shareholders, immediately before the winding-up, for proceeds equal to its fair market value.
+[256] The parties agree on the ordinary meaning of the terms in subsections 88(2), 69(5) and 84(2) of the ITA.[341] The winding-up provided for in subsection 88(2) triggers immediate tax consequences for the corporation and its shareholders in the year of the winding-up.
+(ii)Contextual and purposive analysis
+[257] Subsection 88(2) of the ITA is in Subdivision H, “Corporations Resident in Canada and their Shareholders”. This subdivision generally aims to establish the tax consequences of certain transactions between corporations resident in Canada. For its part, subsection 69(5) of the ITA is in Subdivision F, “Rules Relating to Computation of Income”.
+[258] In Pomerleau, the Federal Court of Appeal has already found that Subdivision F is not limited to one section of the ITA, but rather applies to any series of transactions undertaken that frustrates the objectives of the sections of this subdivision.[342] In that case, the Federal Court of Appeal determined that subsection 69(11) of the ITA applied to any disposition made for proceeds that are less than the fair market value.
+[259] For its part, this Court affirmed that Subdivision H is not a series of exceptions, but rather a complete régime.[343] Section 89 of the ITA provides definitions as well as the computations to be carried out depending on the reorganization that has taken place.
+[260] As the Federal Court of Appeal explained in Oxford Properties, under subsection 85(1) of the ITA, rollovers defer the tax consequences of transfers between selected groups,[344] the premise “being that no tax consequences should be recognized given that there is no fundamental change in ownership”.[345]
+[261] Section 86 of the ITA aims to allow a tax-free reorganization of capital stock where a taxpayer transfers all the shares of a particular class for a consideration including other shares of the same corporation.[346] For the tax-free transfer to be made in order to defer the tax at the time of the potential disposition, these provisions require, inter alia, that the consideration other than shares does not exceed the ACB of the shares received.[347]
+[262] In an amalgamation referred to in section 87 of the ITA, the entity resulting from the amalgamation of the predecessor corporations is deemed to be a “new corporation”.[348] All the property of the predecessor corporations becomes the property of the new corporation, and the property maintains its tax cost.[349] As a result, the tax consequences are deferred until the eventual disposition of the property by the new corporation.
+[263] Subsection 88(1) of the ITA deals with the winding-up of a subsidiary that is 90% owned by its parent. In such a context, when the conditions set out in subsection 88(1) are met, this subsection automatically applies to the winding-up and thus allows for the tax on winding-up to be deferred.[350] The following conditions must be met for subsection 88(1) to apply:
+-the corporation (subsidiary) is a taxable Canadian corporation;
+-immediately before the winding-up, at least 90% of the issued shares of each class of the subsidiary’s capital stock were owned by another taxable Canadian corporation (parent); and
+-all the shares of the subsidiary that were not so held by the parent immediately before the winding-up were held, at that time, by persons with whom the parent was dealing at arm’s length.[351]
+[264] A corporation wound up under subsection 88(1) of the ITA is wound up on a tax-deferred basis: the property of the wound-up subsidiary is deemed to have been disposed of at its cost amount for this subsidiary, and the parent is deemed to have acquired this property at the same cost. It follows that any gain or loss relating to this property is deferred until the parent disposes of it.[352]
+[265] Subsections 84(2) and 84(3) of the ITA seek to provide shareholders with a non-taxable return of the PUC, and they deem the excess of the amount paid for the shares and of their PUC a dividend subject to tax.[353] In this way, the subsections aim to tax the economic growth of property that falls under the provisions of Subdivision H.
+[266] In view of the foregoing, and unlike other provisions of Subdivision H, subsection 88(2) of the ITA creates a taxable event. The benefit acquired by winding up a corporation under subsection 88(2) is not to defer tax, but to take advantage of the non-application of various specific anti-avoidance rules.
+[267] Indeed, under paragraphs 69(5)(c) and 69(5)(d) of the ITA, certain specific anti-avoidance rules do not apply to a winding-up.[354] The rules listed in paragraph 69(5)(d), i.e. subsections 14(12), 13(21.2), 40(3.4) and (3.6) as well as subsection 18(15) of the ITA, normally bar the recognition of a loss when there is a transaction involving related parties. The rules listed in paragraph 69(5)(c), i.e. subsections 52(1) and 55(2) of the ITA, determine the cost of the property acquired by the shareholder. However, all these rules do not apply to a winding-up conducted on a taxable basis.
+[268] The rule set out in subsection 13(21.2) of the ITA bars the transferor of depreciable property of a prescribed class from realizing the unrealized loss when transferring the property to an affiliated person. The effect of the subsection is to suspend the loss until the time immediately before the earlier of the times listed in clauses 13(21.2)(e)(iii)(A) to (E).[355]
+[269] As with subsection 13(21.2), subsections 40(3.3) to (3.6) of the ITA have the effect of deferring any unrealized loss on non-depreciable property until the property is disposed of outside of the affiliated group. Subsection 40(3.6) applies upon the disposition of shares. If a corporation disposes of a share in favour of a corporation affiliated with it immediately after the disposition, the resulting capital loss is deemed to be nil. The disposition also increases the ACB of shares of the same class that have not been disposed of if the affiliate continues to hold shares of that class. If the affiliated corporation no longer holds any shares, the loss is not recognized.[356]
+[270] The rule in subsection 14(12) of the ITA[357] denies the deduction provided for in subsection 24(1) of the ITA[358] where the transferor (a partnership, corporation or trust) transfers eligible capital property and, in the preceding or following 30 days, the transferor or an affiliated person acquired the eligible capital property or a right to acquire the property. In that case, the transferor is deemed to continue to own the property (i.e. no deduction can be claimed for ceasing to carry on the business under subsection 24(1) of the ITA).[359]
+[271] The rule in subsection 18(15) of the ITA determines the effects of transactions referred to in subsections 18(13) and 18(14). These subsections are intended to preclude the triggering of an artificial loss to the transferor on a disposition in favour of a person or partnership that the transferor controls. Even though there has been a legal disposition of non-capital property, the transferor still controls the property through the non-arm’s length person or partnership.[360]
+[272] The rules in subsections 52(1) and 55(2) of the ITA prevent a shareholder corporation from converting what would otherwise be a taxable capital gain on a disposition of shares into an intercorporate dividend that would be deductible under subsection 112(1) of the ITA if the conditions set out in subsection 55(2) are met.[361]
+[273] The exclusion of the application of all these specific anti-avoidance rules demonstrates Parliament’s clear intention to produce specific consequences on a winding-up carried out under subsection 88(2) of the ITA. In particular, it denotes the intention to allow, in the final year of the wound-up corporation, the recognition of losses that could otherwise not have been realized under the specific anti‑avoidance rules.
+Conclusion regarding the object, spirit and purpose of section 88 of the ITA
+[274] In summary, the object, spirit and purpose of section 88 of the ITA are to state the rules applicable to the winding-up of a Canadian corporation. In particular, the purpose of this section is to create two schemes that apply to the winding-up of a Canadian corporation. The first scheme allows for the tax-free transfer of property from a subsidiary to its parent while the second does not because the winding-up is carried out on a taxable basis.
+[275] The object, spirit and purpose of subsection 88(2) of the ITA are to state the rules that apply to the winding-up of a Canadian corporation where the parent does not own 90% of its capital stock. More specifically, its purpose is to create a taxable winding-up scheme to which certain specific anti-avoidance rules do not apply.
+b) Does the tax benefit that Quebecor obtained frustrate or defeat the object, spirit or purpose of one of the provisions of the ITA?
+[276] This Court must determine whether the Respondent has met his burden of demonstrating that the tax benefit obtained by Quebecor frustrates or defeats the object, spirit or purpose of one of the provisions of the ITA. Firstly, it was up to the Respondent to demonstrate that the tax benefit that Quebecor obtained following the avoidance transaction frustrates or defeats the object, spirit or purpose of certain provisions of the taxable capital gains and deductible capital losses system. In particular, the Court must determine whether the tax benefit that Quebecor obtained frustrates sections 3, 38, 53 and 54 and subsections 39(1), 40(1) of the ITA. Secondly, it was incumbent upon the Respondent to demonstrate that the tax benefit frustrates or defeats the object, spirit or purpose of certain provisions of the system used to compute the income of corporations resident in Canada and of their shareholders. More specifically, the Court must determine whether the Respondent has demonstrated that the tax benefit frustrates subsections 69(5), 84(2), 85(1) or 88(2) of the ITA.
+(1) Does the avoidance transaction frustrate or defeat the object, spirit or purpose of one of the provisions of the capital gains and losses system, i.e. of sections 3, 38, 53 and 54 and subsections 39(1) and 40(1) of the ITA and the object, spirit or purpose of subsection 85(1) of the ITA?
+[277] The Respondent argues that this system results from the fact that the ACB of the shares of Abitibi Consolidated was increased without the amount having been taxed. The Respondent contends that two transactions in the series of transactions undertaken on December 14, 2005, involving the shares of Abitibi Consolidated resulted in an abuse of sections 3, 38 and 54 and subsections 39(1) and 40(1) of the ITA. These two transactions followed the exchange of shares undertaken under subsection 85(1) of the ITA. According to the Respondent, the transactions were undertaken solely to increase the ACB of the Abitibi Consolidated shares from $1 to $191,833,983. Quebecor was thus able to realize capital losses of $95,916,992 in 2007 and $95,916,991 in 2010 in connection with these shares instead of realizing a $95,196,990 capital gain in 2007 and no capital loss in 2010. These two transactions were as follows:
+-redemption by 3662527 of its 1,000 class “D” preferred shares held by Quebecor as consideration for a $191,833,983 demand note; and
+-exchange by 3662527 of its 44,821,024 common shares of Abitibi Consolidated to Quebecor for a $191,833,983 demand note.
+[278] The main purpose of subsection 85(1) of the ITA is to allow potential tax payable on a capital gain to be deferred and not avoided. The Court agrees with the Respondent when he claims that this is why it is essential that the tax consequences of the property transferred follow the property received in consideration in order to allow the deferred capital gains tax on this property to be recaptured. The capital gain or loss realized by the transferor will ultimately be determined based on the proceeds of disposition of the consideration received in exchange at the time of its disposition and its ACB, which must be equal to that of the property transferred. Depending on the nature of the consideration, the time of the sale and the market for this type of property, the capital gain or loss that the transferee realized at that time will not necessarily be equal to the capital gain or loss that would have been realized on the transferred property had the transferor disposed of it otherwise instead of exchanging it.
+[279] The purpose of the rollover provisions, including subsection 85(1) of the ITA, is to allow tax to be deferred. The potential tax is retained within the corporation until the assets are disposed of, unless a second tax-free transfer is subsequently made in favour of another corporation under subsection 85(1).[362] Consequently, subsection 85(1) allows a corporation to transfer an unrealized capital gain or loss on property to another corporation.
+[280] As Quebecor submits, the Respondent did not allege or demonstrate that one of the provisions of the ITA that aims to limit or prevent the deduction of unrealized losses applies in this case or that the avoidance transaction resulted in an abuse of one of these provisions. Although 3662527’s unrealized loss would be forfeited after the winding-up of the corporation, the Respondent did not show to the Court that Parliament intended subsection 85(1) of the ITA to be applied differently when it is applied to related and unrelated persons. Consequently, the Court is of the opinion that this provision allows two related corporations (belonging to the same group) to transfer a capital gain to be realized on property of a corporation that has no capital losses to another corporation that has a capital loss so that this corporation can deduct it from the capital gain to be realized on the property transferred. This is what Quebecor did by transferring its shares of Abitibi Consolidated to 3662527. Because 3662527 and Quebecor reported their respective capital gains from the disposition of the shares received as part of the rollover, there was no abuse of subsection 85(1) in this sense or of the winding-up scheme in this sense.
+[281] It has been established by the courts, in particular in Oxford Properties, that the object, spirit and purpose of the “rollover” provisions are to track the tax consequences of depreciable property to ensure that the deferred capital gains and recapture be taxed at a later date.[363] The Respondent rightly argued that, given the way that capital gains and losses are computed under the ITA, increasing the ACB of a property reduces the tax payable upon the disposition of the property. The ACB is a tax consequence that is used to determine the amount of economic gain or loss that will be realized by a taxpayer from the disposition of property. The Respondent also rightly argued that the ITA assumes that the ACB consists of an amount that has been subject to tax, this having been confirmed by the Federal Court of Appeal in Pomerleau.
+[282] Considering the Respondent’s submissions, the Supreme Court of Canada’s decision in Copthorne and the Federal Court of Appeal’s decision in Pomerleau, this Court finds that the ITA allows for the increase in a property’s ACB if the amounts used to increase it were subjected to tax.
+[283] Consequently, a taxpayer may reduce a potential capital gain on exchanged property under subsection 85(1) of the ITA by increasing the ACB of the property if the amounts used to increase it were subjected to tax, i.e. following taxable transactions or events. If this is the case, the object, spirit and purpose of the capital gains and losses system, which are to tax the increase in a taxpayer’s economic power, will have been satisfied.[364] In the case at bar, if the amounts used by Quebecor to increase the ACB of the Abitibi Consolidated shares were subjected to tax, the Court must find that there was no abuse of sections 3, 38 and 54 of the ITA and subsections 39(1), 40(1) and 85(1) of the ITA.
+[284] The Respondent submits that the $191,833,983 amount, namely, the value of the demand note that Quebecor gave 3662527 in exchange for its 1,000 class “D” preferred shares, was not subjected to tax. The Court must therefore determine whether or not this amount was subjected to tax.
+[285] It is therefore useful to analyze the transaction through which Quebecor acquired the exchange note and what happened to it subsequently.
+[286] In exchange for 3662527’s preferred shares, 3662527 gave Quebecor a $191,833,983 demand note. Under subsection 84(3) of the ITA, 3662527 was deemed to have paid Quebecor a $191,833,982 dividend, which but for this subsection, would have given rise to a capital gain. Subsequently, under subsection 112(1) of the ITA, it was possible to deduct this taxable dividend from its income. The deemed payment of this dividend therefore had no tax consequences for Quebecor, and no capital gain was recognized in respect of this transaction.
+[287] That said, the object, spirit and purpose of subsection 112(1) of the ITA are to allow dividends to be transferred tax-free within select corporate groups, subject to tax eventually being paid when the dividends reach the final recipients.[365] Consequently, given subsections 84(3) and 112(1), if the final recipients of the $191,833,983 dividend that was paid to Quebecor paid tax on this dividend, the Court must find that the $191,833,983 amount was subjected to tax. In such a situation, the increase in the ACB of the Abitibi Consolidated shares arises from the amount subjected to tax.
+[288] The Respondent had to show the Court that the $191,833,983 amount was not subjected to tax in the hands of the final recipient, as would be the case if, for example, this amount had been paid to tax-exempt taxpayers, which was the situation in Oxford Properties.[366] The Respondent did not submit any evidence in this regard. In the absence of such evidence, the Court must therefore find that the dividend deemed to have been received by Quebecor could not have been transferred to the final recipients without taxation.
+[289] For these reasons, the Court finds that the $191,833,982 amount used by Quebecor to increase the ACB of the Abitibi Consolidated shares was subjected to tax. Therefore, the avoidance transaction failed to produce a result that sections 3, 38, 53 and 54 and subsections 39(1), 40(1) and 85(1) of the ITA seek to bar. As a result, there was no abuse of these provisions.
+(2) Does the avoidance transaction frustrate or defeat the object, spirit or purpose of one of the provisions of the system used to compute the income of corporations resident in Canada and of their shareholders, i.e. of subsections 69(5), 84(2) and 88(2) of the ITA?
+[290] The Respondent maintains that the avoidance transaction resulted in an abuse of subsections 69(5), 84(2) and 88(2) of the ITA. According to the Respondent, there was abuse of these provisions as 3662527 was wound up under subsection 88(2) and not subsection 88(1) because of the incorporation of 9101-0827, which doubled the loss. According to the Respondent, had it not been for the incorporation of 9101-0827 on February 16, 2001, 3662527 would have been wound up under subsection 88(1) of the ITA. Had this been the case, the class “A” and “C” shares of Vidéotron Telecom would have been transferred from 3662527 to Quebecor Media at their ACB, and there would have been no tax impact for 3662527 or Quebecor Media. 3662527 would not have realized a $206,067,698 capital loss ($138,141,304 proceeds of disposition minus the $344,209,002 ACB) from the disposition of its Vidéotron Telecom shares. 3662527 should have paid tax on the $191,833,983 capital gain realized on the exchange of its 44,821,024 common shares of Abitibi Consolidated for the demand note held by Quebecor.
+[291] Instead, because 3662527 was wound up under subsection 88(2) of the ITA, 3662527 was deemed to have disposed of its assets at their FMV, in accordance with subsection 69(5) of the ITA. Under subsection 88(2), the winding-up was undertaken with tax implications for 3662527 and Quebecor Media, namely, the winding-up occurred on a taxable basis. As a result of the winding‑up, 3662527 realized a $206,067,698 capital loss on its Vidéotron Telecom shares, which was used to offset the capital gain that 3662527 realized on the disposition of its Abitibi Consolidated shares.
+[292] Consequently, 3662527 did not pay tax on the $191,833,982 capital gain realized on the disposition of its Abitibi Consolidated shares, and the $206,067,698 capital loss that would have been forfeited on winding-up if it had been carried out under subsection 88(1) of the ITA was used to reduce the tax payable by 3662527.
+[293] The Respondent claims that the object, spirit and purpose of subsection 69(5) of the ITA are to allow the corporation to claim losses deemed to have been realized during its winding-up, but only for the purposes of computing its income for its last taxation year. In other words, the object, spirit and purpose of subsection 69(5) of the ITA are not to allow this loss to be used to increase the ACB of the shares of another entity. Accepting this suggestion would amount to giving a broader interpretation to this provision which, in essence, deems rules applicable only in a specific situation. Furthermore, subsection 85(1) of the ITA does not state that property, once rolled over, does not belong to the taxpayer who receives it. Therefore, the Respondent’s proposition cannot be accepted. The fact that the capital gain that 3662527 realized on the disposition of its Abitibi Consolidated shares is included in its income for the year does not frustrate or defeat the object, spirit and purpose of subsection 69(5).
+[294] As mentioned above, section 88 of the ITA deals with the winding-up of a Canadian corporation, establishing two schemes applicable during a winding-up. The first scheme is set out in subsection 88(1) of the ITA and the second in subsection 88(2) of the ITA.
+[295] Under these two schemes, when a corporation is wound up, its property is distributed to its shareholders. The corporation is deemed to have disposed of its property and its shareholders are deemed to have acquired it. Shareholders are also deemed to have disposed of their shares in the corporation.
+[296] Subsection 88(1) of the ITA allows for the tax-free transfer of property from a subsidiary to its parent. When the conditions set out in subsection 88(1) are met, this subsection automatically applies to the winding-up and thus allows for the tax to be deferred on winding-up.[367] The property of the wound-up subsidiary is deemed to have been disposed of at the cost amount to that subsidiary, and the parent is deemed to have acquired this property at the same cost. It follows that any gain or loss relating to this property is deferred until the parent disposes of it.[368]
+[297] In cases where subsection 88(1) of the ITA does not apply automatically, subsection 88(2) therefore applies. Under subsection 88(2) of the ITA, where at a particular time in the course of the winding-up of a Canadian corporation, all or substantially all of the property owned by the corporation immediately before that time was distributed to the shareholders of the corporation, the winding-up is carried out on a taxable basis.[369]
+[298] The object, spirit and purpose of section 88 of the ITA are solely to state the rules applicable to the winding-up of a Canadian corporation. In particular, the purpose of this section is to create two schemes that apply to the winding-up of a Canadian corporation. The first scheme allows the tax-free transfer of property from a subsidiary to its parent while the second does not because the winding-up is carried out on a taxable basis.
+[299] The Respondent did not show to the Court that Parliament intended to bar the incorporation of a corporation in order to allow affiliated corporations to benefit from subsection 88(1) rather than subsection 88(2) of the ITA, or vice versa. The Respondent also failed to show the Court that the underlying rationale for subsections 88(1) and 88(2), as described above, has been frustrated or that the avoidance transaction has produced a result that subsections 88(1) or 88(2) are intended to prevent or has frustrated the purpose of the provision.
+[300] The Court cannot therefore consider that the transactions frustrated the objectives of section 88 of the ITA. The wound-up corporation and its shareholders realized capital gains, and it was possible to use unrealized losses in accordance with the provisions of the ITA.
+[301] The Respondent acknowledged that the decrease in Quebecor Media’s FMV was real and reflected a slowdown in Quebecor Media’s business and the economy in general.[370] This decrease is reflected in the decrease in the FMV of the shares of 3662527, which held shares of Vidéotron Telecom. The capital gains and losses system aims to tax the increase or decrease in economic power. In this case, the fact that no tax is payable merely indicates that the taxpayer has suffered a cumulative reduction in its economic power. The Respondent did not show the Court that this loss was a paper loss or was incurred from amounts that were not equal to their FMV. Finally, none of 3662527’s tax consequences resulting from the winding-up were transferred to its shareholders after the winding-up, which is consistent with the object, spirit and purpose of subsections 88(2), 84(2) and 69(5) of the ITA.
+[302] As this point, it is important to recall the Supreme Court’s statements in Copthorne. The Supreme Court noted that determining the rationale of the relevant provisions of the ITA should not be conflated with a value judgment of what is right or wrong nor with theories about what tax law ought to be or ought to do.[371]
+[303] In view of the foregoing, this Court must find that the avoidance transaction is not patently abusive.
+VII. CONCLUSION [304] For the reasons stated above, the Court finds that there has not been any abuse of sections 3, 38 and 54 and subsections 39(1), 40(1), 69(5), 84(2), 85(1) and 88(2) of the ITA.
+[305] The Respondent had the burden of establishing that the avoidance transaction undertaken by Quebecor was abusive within the meaning of subsection 245(4) of the ITA. However, on the basis of the arguments submitted, the Court is of the view that the Respondent has not shown, according to a textual, contextual and purposive interpretation of the provisions at issue, that the avoidance transaction may be reasonably considered to have produced a result that one of the provisions is intended to prevent. The Respondent also failed to demonstrate that the result of that transaction frustrates the purpose of one of the provisions or that the transaction has enabled the provisions to be skirted in such a way as to frustrate or defeat their object, spirit or purpose such that the GAAR can be applied to deny the tax benefit. The conclusion that the avoidance transaction is not abusive is warranted in the circumstances.
+[306] Consequently, the Minister was not correct in reducing the ACB of the 44,821,024 common shares of Abitibi Consolidated held by Quebecor from $191,833,982 to $1, which he added to the income of Quebecor as a $95,916,990 capital gain following the disposition of its 44,821,024 common shares of Abitibi Consolidated, and he was not justified in disallowing the $95,916,992 capital loss deduction that Quebecor claimed under this provision.
+[307] The appeal is therefore allowed with costs.
+Signed at Ottawa, Canada, this 3rd day of October 2023.
+“Sylvain Ouimet”
+Ouimet J.
+Translation certified true
+on this 22nd day of December 2023.
+Melissa Paquette, Jurilinguist
+CITATION:
+2023 TCC 142
+COURT FILE NO.:
+2018-979(IT)G
+STYLE OF CAUSE:
+QUEBECOR INC. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+June 29 and 30, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF JUDGMENT:
+October 3, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Wilfrid Lefebvre
+Catherine Dubé
+Counsel for the Respondent:
+Natalie Goulard
+Marie-Aimée Cantin
+Sara Jahanbakhsh
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Wilfrid Lefebvre
+Firm:
+Norton Rose Fulbright Canada Montréal, Quebec
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Agreed statement of facts, para. 31.
+[2] Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) [ITA].
+[3] The term “adjusted cost base” is defined in section 54 of the ITA. It reflects “the amount the current shareholder paid for the shares”; see Copthorne Holdings Ltd. v. Canada, 2011 SCC 63, para. 101 [Copthorne].
+[4] Agreed statement of facts, para. 31(a).
+[5] Agreed statement of facts, para. 31(b).
+[6] Agreed statement of facts, para. 31(c).
+[7] Deans Knight Income Corp. v. Canada, 2023 SCC 16, para. 51 [Deans Knight].
+[8] Companies Act, C.Q.L.R., c. C-38, Part I.
+[9] Business Corporations Act, C.Q.L.R., c. S-31.1.
+[10] ITA, supra note 3, subsection 89(1) and section 248 (“A corporation that, at the time the expression is relevant, (a) was a Canadian corporation, and (b) was not, by virtue of a statutory provision, exempt from tax under this Part;”).
+[11] Agreed statement of facts, paras. 2 and 3.
+[12] Canada Business Corporations Act, R.S.C. 1985, c. C-44.
+[13] The term “fair market value” is not defined in the ITA. The Federal Court of Canada defined this term in Henderson v. Minister of National Revenue, [1973] F.C.J. No. 800 (QL). The Court determined that the “fair market value” is the highest price an asset might reasonably be expected to bring if sold by the owner in the normal method applicable to the asset in question in the ordinary course of business in a market not exposed to any undue stresses and composed of willing buyers and sellers dealing at arm’s length and under no compulsion to buy or sell.
+[14] The term “paid-up capital” is defined in subsection 89(1) of the ITA. In summary, the paid-up capital for a share is the capital initially invested by one or more shareholders in a class of shares of a corporation. The paid-up capital can generally be recaptured by a shareholder without tax consequences. See Copthorne, supra note 3, paras. 84 and 101.
+[15] Agreed statement of facts, para. 4.
+[16] Agreed statement of facts, para. 5.
+[17] Agreed statement of facts, para. 7.
+[18] Agreed statement of facts, para. 6.
+[19] Agreed statement of facts, para. 8.
+[20] Ibid.
+[21] Agreed statement of facts, para. 9.
+[22] Ibid.
+[23] Agreed statement of facts, para. 9. See Appendix 1, p. 11, para. 22.
+[24] Agreed statement of facts, para. 10. See Appendix 2.
+[25] Agreed statement of facts, para. 11. Paragraph 88(1)(d) of the ITA applies to an amalgamation carried out under subsection 87(11) of the ITA. According to this provision, where there is an amalgamation between a parent and one of its subsidiaries (wholly owned by the parent), the parent is deemed to have disposed of the shares of the subsidiary immediately before the amalgamation for proceeds equal to proceeds that would be determined under paragraph 88(1)(b) if subsections 88(1) and 88(1.7) applied, with any modifications that the circumstances require, to the amalgamation.
+[26] Agreed statement of facts, para. 11.
+[27] Agreed statement of facts, para. 12.
+[28] Agreed statement of facts, para. 13.
+[29] Agreed statement of facts, para. 14. See Appendix 4.
+[30] Agreed statement of facts, para. 15.
+[31] Agreed statement of facts, para. 16.
+[32] Agreed statement of facts, para. 17.
+[33] Agreed statement of facts, para. 18.
+[34] Agreed statement of facts, Appendix 1, p. 11, para. 23.
+[35] Agreed statement of facts, para. 19.
+[36] Agreed statement of facts, para. 21(i). See Appendix 6. The term “contributed surplus” is not defined in the ITA. According to the definition in the CPA Canada Handbook, “contributed surplus” comprises all contributions made by the entity’s equityholders in excess of amounts allocated to share capital. In other words, “contributed surplus” is any contribution from equityholders in excess of the value allocated to the shares.
+[37] Agreed statement of facts, para. 21(ii).
+[38] Agreed statement of facts, para. 21(iii).
+[39] Ibid.
+[40] Agreed statement of facts, para. 21(iv).
+[41] Ibid.
+[42] Agreed statement of facts, para. 21(v).
+[43] Agreed statement of facts, para. 22.
+[44] Agreed statement of facts, para. 23. See Appendix 13.
+[45] Agreed statement of facts, para. 24. See Appendix 14.
+[46] Agreed statement of facts, para. 25.
+[47] Agreed statement of facts, para. 26.
+[48] Agreed statement of facts, para. 27. See Appendix 16.
+[49] Agreed statement of facts, para. 28.
+[50] Agreed statement of facts, para. 29.
+[51] Argument of the Appellant, para. 14; written notes of the Respondent, para. 36; Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54, para. 16 [Trustco].
+[52] Argument of the Appellant, para. 17; written notes of the Respondent, para. 39; Trustco, supra note 51, para. 17; Copthorne, supra note 3, paras. 32 and 33.
+[53] Argument of the Appellant, para. 17; written notes of the Respondent, para. 39.
+[54] Argument of the Appellant, para. 18; written notes of the Respondent, para. 40; Trustco, supra note 51, para. 19; ITA, supra note 3, subsection 245(1).
+[55] Argument of the Appellant, para. 20; written notes of the Respondent, para. 43; Trustco, supra note 51, para. 34; Copthorne, supra note 3, para. 40.
+[56] Argument of the Appellant, para. 24; written notes of the Respondent, para. 48; Deans Knight, supra note 7, para. 57.
+[57] Trustco, supra note 51, para. 44; Copthorne, supra note 3, para. 69.
+[58] Trustco, supra note 51, para. 45; Copthorne, supra note 3, para. 71.
+[59] Argument of the Appellant, para. 25; written notes of the Respondent, para. 49; Copthorne, supra note 3, para. 72.
+[60] Written notes of the Respondent, para. 49; Copthorne, supra note 3, para. 72; Trustco, supra note 51, para. 45.
+[61] Argument of the Appellant, para. 26; Trustco, supra note 51, para. 66; Copthorne, supra note 3, para. 72.
+[62] Argument of the Appellant, paras. 5 and 6.
+[63] Argument of the Appellant, paras. 9 and 102.
+[64] Argument of the Appellant, para. 7.
+[65] Argument of the Appellant, paras. 34 and 35.
+[66] Argument of the Appellant, para. 81; Transcript of the June 29, 2021, hearing, p. 12. See also the agreed statement of facts, Appendix 15, p. 173.
+[67] Argument of the Appellant, para. 84; Transcript of the June 29, 2021, hearing, p. 12.
+[68] Transcript of the June 29, 2021, hearing, pp. 16 to 19.
+[69] Argument of the Appellant, para. 93.
+[70] Argument of the Appellant, para. 94; ITA, supra note 3, subsections 112(3) to (7), paragraphs 40(2)(g) and (h), subsections 40(3.3) to (3.5), 111(4) to (5.4), 87(1) and 88(1).
+[71] Argument of the Appellant, para. 95.
+[72] Argument of the Appellant, paras. 101 and 102.
+[73] Argument of the Appellant, para. 5.
+[74] Argument of the Appellant, para. 6; Transcript of the June 29, 2021, hearing, p. 26.
+[75] Argument of the Appellant, para. 21.
+[76] Argument of the Appellant, paras. 34.
+[77] Written notes of the Respondent, paras. 13 and 50 to 52; Transcript of the June 29, 2021, hearing, p. 178 and 179.
+[78] Argument of the Appellant, para. 36.
+[79] Argument of the Appellant, para. 38; Triad Gestco Ltd. v. Canada, 2012 FCA 258 [Triad Gestco].
+[80] Triad Gestco, supra note 79, para. 50.
+[81] Argument of the Appellant, para. 39.
+[82] Triad Gestco, supra note 79.
+[83] 1207192 Ontario Ltd. v. Canada, 2012 FCA 259 [1207192].
+[84] Canada v. Global Equity Fund Ltd., 2012 FCA 272.
+[85] Argument of the Appellant, para. 40.
+[86] Argument of the Appellant, para. 41.
+[87] Argument of the Appellant, para. 42; see also the agreed statement of facts, Appendix 1, p. 12, para. 23.
+[88] Argument of the Appellant, para. 43.
+[89] Argument of the Appellant, para. 44.
+[90] Argument of the Appellant, para. 45.
+[91] Transcript of the June 29, 2021, hearing, pp. 35 and 36.
+[92] Argument of the Appellant, para. 49; Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298, para. 49 [Continental Bank].
+[93] Argument of the Appellant, para. 51; Transcript of the June 29, 2021, hearing, pp. 42 and 43.
+[94] Transcript of the June 29, 2021, hearing, p. 43.
+[95] Argument of the Appellant, para. 48.
+[96] Argument of the Appellant, para. 50.
+[97] Argument of the Appellant, para. 51.
+[98] Transcript of the June 29, 2021, hearing, pp. 41 and 42.
+[99] Argument of the Appellant, para. 52.
+[100] Transcript of the June 29, 2021, hearing, pp. 41, 42 and 59.
+[101] Argument of the Appellant, para. 54; Pomerleau v. Canada, 2018 FCA 129, para. 69 [Pomerleau].
+[102] Argument of the Appellant, para. 55.
+[103] Argument of the Appellant, para. 56.
+[104] Canada v. Kruco Inc., 2003 FCA 284, para. 32.
+[105] Argument of the Appellant, para. 57; Copthorne, supra note 3, para. 84.
+[106] Argument of the Appellant, para. 58.
+[107] Argument of the Appellant, para. 60.
+[108] Transcript of the June 29, 2021, hearing, p. 16.
+[109] Transcript of the June 30, 2021, hearing, pp. 208 and 209.
+[110] Argument of the Appellant, paras. 65 to 68.
+[111] Transcript of the June 29, 2021, hearing, pp. 16 and 17.
+[112] Transcript of the June 29, 2021, hearing, pp. 41 and 42.
+[113] Argument of the Appellant, para. 76.
+[114] Produits forestiers Donohue Inc. v. The Queen, 2001 CanLII 562 (TCC) [Donohue TCC], aff’d 2002 FCA 422 [Donohue FCA].
+[115] Argument of the Appellant, para. 69.
+[116] Argument of the Appellant, para. 70.
+[117] Argument of the Appellant, para. 71.
+[118] Argument of the Appellant, para. 72.
+[119] Argument of the Appellant, para. 73.
+[120] Argument of the Appellant, para. 74.
+[121] Argument of the Appellant, para. 75.
+[122] Transcript of the June 30, 2021, hearing, p. 200.
+[123] Transcript of the June 30, 2021, hearing, p. 200.
+[124] Transcript of the June 30, 2021, hearing, pp. 201 and 202.
+[125] Argument of the Appellant, paras. 61 and 62.
+[126] Argument of the Appellant, paras. 63 and 64.
+[127] Argument of the Appellant, para. 78.
+[128] Citibank Canada v. The Queen, [2001] T.C.J. No. 14, aff’d 2002 FCA 128 [Citibank].
+[129] Citibank, supra note 128, para. 6.
+[130] Argument of the Appellant, para. 79.
+[131] Argument of the Appellant, para. 80.
+[132] Argument of the Appellant, para. 82.
+[133] Argument of the Appellant, para. 81.
+[134] Transcript of the June 29, 2021, hearing, p. 64.
+[135] Argument of the Appellant, para. 82.
+[136] Transcript of the June 29, 2021, hearing, p. 46.
+[137] Transcript of the June 30, 2021, hearing, p. 192.
+[138] Transcript of the June 30, 2021, hearing, p. 198.
+[139] Argument of the Appellant, para. 83; Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622, para. 39.
+[140] Transcript of the June 29, 2021, hearing, p. 22.
+[141] Transcript of the June 30, 2021, hearing, p. 191.
+[142] Transcript of the June 30, 2021, hearing, p. 190.
+[143] Donohue FCA, supra note 114.
+[144] Argument of the Appellant, para. 85.
+[145] Argument of the Appellant, para. 87.
+[146] Argument of the Appellant, para. 85.
+[147] Argument of the Appellant, para. 86.
+[148] Donohue TCC, supra note 114, paras. 63 and 64.
+[149] Argument of the Appellant, paras. 91 to 93.
+[150] Argument of the Appellant, para. 94.
+[151] Argument of the Appellant, para. 95.
+[152] Argument of the Appellant, para. 96.
+[153] Argument of the Appellant, para. 99.
+[154] Transcript of the June 29, 2021, hearing, p. 55; volume 2, Appellant’s book of authorities, Tab 24, Canada Revenue Agency, Income Tax – Technical News No. 30, Corporate Loss Utilization Transactions, May 21, 2004.
+[155] Argument of the Appellant, para. 101.
+[156] Argument of the Appellant, para. 102.
+[157] Argument of the Appellant, para. 103.
+[158] Written notes of the Respondent, para. 40; Trustco, supra note 51, para. 20.
+[159] Agreed statement of facts, para. 28.
+[160] Written notes of the Respondent, para. 41.
+[161] Transcript of the June 29, 2021, hearing, pp. 97 and 127.
+[162] Written notes of the Respondent, para. 42.
+[163] Written notes of the Respondent, para. 43; Trustco, supra note 51, para. 34.
+[164] Written notes of the Respondent, para. 44; Trustco, supra note 51, paras. 25 and 26; Copthorne, supra note 3, para. 43.
+[165] Written notes of the Respondent, para. 45; Trustco, supra note 51, paras. 28 and 29; Copthorne, supra note 3, para. 59.
+[166] Written notes of the Respondent, para. 46.
+[167] Transcript of the June 29, 2021, hearing, pp. 95 and 96.
+[168] Written notes of the Respondent, para. 50.
+[169] Written notes of the Respondent, para. 11.
+[170] Written notes of the Respondent, para. 51.
+[171] Written notes of the Respondent, para. 51.
+[172] Written notes of the Respondent, para. 52.
+[173] Written notes of the Respondent, para. 8.
+[174] Written notes of the Respondent, para. 9.
+[175] Written notes of the Respondent, paras. 8 and 9.
+[176] Written notes of the Respondent, para. 54; Triad Gestco, supra note 79, paras. 41 and 42.
+[177] Written notes of the Respondent, para. 55; 2763478 Canada Inc. v. Canada, 2018 FCA 209, para. 54 [2763478]; Transcript of the June 29, 2021, hearing, p. 137.
+[178] Written notes of the Respondent, para. 56.
+[179] Written notes of the Respondent, para. 57.
+[180] Written notes of the Respondent, para. 58.
+[181] Transcript of the June 30, 2021, hearing, p. 210.
+[182] Written notes of the Respondent, para. 59.
+[183] Written notes of the Respondent, para. 60.
+[184] Written notes of the Respondent, para. 63.
+[185] Written notes of the Respondent, para. 64.
+[186] Written notes of the Respondent, para. 65.
+[187] Written notes of the Respondent, paras. 60 to 62; Copthorne, supra note 3, para. 101; Pomerleau, supra note 101, para. 63.
+[188] Written notes of the Respondent, para. 66.
+[189] Collins & Aikman Products Co. v. The Queen, 2009 TCC 299, para. 62, aff’d 2010 FCA 251 [Collins & Aikman].
+[190] Written notes of the Respondent, para. 90.
+[191] Written notes of the Respondent, para. 69.
+[192] Written notes of the Respondent, para. 70; Transcript of the June 29, 2021, hearing, p. 158.
+[193] Written notes of the Respondent, para. 70; Transcript of the June 29, 2021, hearing, p. 156.
+[194] Canada v. Oxford Properties Group Inc., 2018 FCA 30 [Oxford Properties].
+[195] Ibid., paras. 56 to 59.
+[196] Written notes of the Respondent, para. 91.
+[197] Written notes of the Respondent, para. 93; Transcript of the June 29, 2021, hearing, p. 174.
+[198] Written notes of the Respondent, para. 71.
+[199] Written notes of the Respondent, para. 72.
+[200] Written notes of the Respondent, para. 73.
+[201] Written notes of the Respondent, para. 75; ITA, supra note 3, paragraph 88(1)(a).
+[202] ITA, supra note 3, subparagraph 88(1)(c)(i).
+[203] Written notes of the Respondent, para. 76; Steven J. Roberts and Mark E. Briggs, “The Taxation of Corporate Reorganizations – Winding Up: Part 1”, Canadian Tax Journal (1996), vol. 44, No. 2, p. 533 (to p. 549).
+[204] Canada v. Mara Properties Ltd., [1995] 2 F.C. 433 (FCA), pp. 444, 445 and 453, Justice McDonald, dissenting, rev’d [1996] 2 S.C.R. 161 [Mara Properties].
+[205] Written notes of the Respondent, para. 77.
+[206] Written notes of the Respondent, para. 79.
+[207] Written notes of the Respondent, para. 79; Colin Green, Spencer Ebbert and David Stevens, “Corporate Reorganizations” in Rachel Gervais et al., dir., Taxation of Private Corporations and their Shareholders, 5th ed., Toronto, Canadian Tax Foundation, 2020, c. 12, pp. 23 and 24; as well as Roberts and Briggs, supra note 197, p. 944.
+[208] Department of Finance’s explanatory notes on subsection 69(5) of the ITA.
+[209] Written notes of the Respondent, para. 80.
+[210] Written notes of the Respondent, para. 81; Vern Krishna, Fundamentals of Canadian Income Tax – Volume 2: Corporate Tax, Toronto, Thomson Reuters, 2018, c. 16 (“Winding-up of a Corporation”).
+[211] Transcript of the June 29, 2021, hearing, p. 165.
+[212] Transcript of the June 30, 2021, hearing, p. 219.
+[213] Written notes of the Respondent, para. 82; Roberts and Briggs, supra note 203; Pomerleau, supra note 101, para. 70.
+[214] Written notes of the Respondent, para. 83; Krishna, supra note 210.
+[215] Written notes of the Respondent, para. 84; Green, Ebbert and Stevens, supra note 207, c. 12, p. 21.
+[216] Written notes of the Respondent, para. 85.
+[217] Written notes of the Respondent, para. 86.
+[218] Written notes of the Respondent, para. 87.
+[219] Written notes of the Respondent, para. 94; Trustco, supra note 51, paras. 44 and 59.
+[220] Written notes of the Respondent, para. 95; Lipson v. Canada, 2009 SCC 1, para. 34 [Lipson].
+[221] Written notes of the Respondent, para. 95; Lipson, supra note 220, para. 38.
+[222] Written notes of the Respondent, para. 97.
+[223] Written notes of the Respondent, para. 99; Transcript of the June 29, 2021, hearing, p. 178.
+[224] Written notes of the Respondent, para. 100; Transcript of the June 29, 2021, hearing, p. 178.
+[225] Written notes of the Respondent, para. 101; Transcript of the June 29, 2021, hearing, p. 178.
+[226] According to section 54 of the ITA, the definition of proceeds of disposition excludes all dividends deemed received pursuant to subsection 84(2) of the ITA.
+[227] Transcript of the June 29, 2021, hearing, p. 166.
+[228] Written notes of the Respondent, para. 68.
+[229] Transcript of the June 29, 2021, hearing, pp. 116, 117, 144 and 145.
+[230] Transcript of the June 29, 2021, hearing, pp. 160 and 161, and Transcript of the June 30, 2021, hearing, p. 213.
+[231] Written notes of the Respondent, para. 12.
+[232] Transcript of the June 29, 2021, hearing, p. 89.
+[233] Transcript of the June 29, 2021, hearing, pp. 88, 89, 150 and 151.
+[234] Transcript of the June 29, 2021, hearing, p. 91.
+[235] Transcript of the June 29, 2021, hearing, p. 166.
+[236] Transcript of the June 29, 2021, hearing, pp. 116, 165; Transcript of the June 30, 2021, hearing, p. 216.
+[237] Transcript of the June 29, 2021, hearing, pp. 121, 122, 175 and 176.
+[238] Transcript of the June 29, 2021, hearing, p. 122.
+[239] Written notes of the Respondent, para. 102; Transcript of the June 29, 2021, hearing, p. 179.
+[240] Written notes of the Respondent, para. 103.
+[241] Written notes of the Respondent, para. 104.
+[242] Transcript of the June 29, 2021, hearing, p. 125.
+[243] Deans Knight, supra note 7, para. 46; Copthorne, supra note 51, para. 49; Inland Revenue Commissioners v. Duke of Westminster (1935), 19 T.C. 490 (UK HL).
+[244] Deans Knight, supra note 7, para. 47.
+[245] Trustco, supra note 51, para. 61.
+[246] Trustco, supra note 51, para. 31.
+[247] Trustco, supra note 51, para. 62.
+[248] Copthorne, supra note 3, para. 65.
+[249] Trustco, supra note 51, para. 50.
+[250] Ibid., paras. 43 and 44.
+[251] Ibid., para. 45.
+[252] Trustco, supra note 51, para. 16.
+[253] Copthorne, supra note 3, para. 68.
+[254] Ibid.
+[255] Deans Knight, supra note 7, para. 45 (Canada v. Alta Energy Luxembourg S.A.R.L., 2021 SCC 49, para. 80).
+[256] Copthorne, supra note 3, para. 71.
+[257] Ibid. (Lipson, supra note 220, para. 34).
+[258] Trustco, supra note 51, para. 47; Lipson, supra note 220, para. 26.
+[259] Copthorne, supra note 51, para. 70.
+[260] Copthorne, supra note 3, para. 65.
+[261] Trustco, supra note 51, para. 21.
+[262] Deans Knight, supra note 7, para. 51.
+[263] Trustco, supra note 51, para. 17.
+[264] Trustco, supra note 51, para. 66.
+[265] Ibid.
+[266] Trustco, supra note 51, para. 17.
+[267] Deans Knight, supra note 7, para. 52.
+[268] Deans Knight, supra note 7, para. 53; Trustco, supra note 51, para. 20.
+[269] 1245989 Alberta Ltd. v. Canada, 2018 FCA 114, paras. 30 to 34 [1245989]; see also Gladwin Realty Corporation v. Canada, 2020 FCA 142, para. 47 [Gladwin].
+[270] Deans Knight, supra note 7, para. 54.
+[271] Ibid., para. 55.
+[272] Copthorne, supra note 3, para. 40.
+[273] Deans Knight, supra note 7, para. 56.
+[274] Oxford Properties, supra note 194, para. 45.
+[275] Deans Knight, supra note 7, para. 57.
+[276] Ibid., para. 58.
+[277] Trustco, supra note 51, para. 47.
+[278] Canada v. Villa Ste-Rose Inc., 2021 FCA 35, para. 39.
+[279] Copthorne, supra note 3, para. 70.
+[280] Deans Knight, supra note 7, para. 60.
+[281] Trustco, supra note 51, para. 47; Copthorne, supra note 3, para. 70.
+[282] Lipson, supra note 220, para. 26.
+[283] Deans Knight, supra note 7, para. 63.
+[284] Ibid.
+[285] Ibid.; see also Trustco, supra note 51, para. 10.
+286 Mathew v. Canada, 2005 SCC 55, para. 43; see also Copthorne, supra note 3, para. 87.
+[287] Ruth Sullivan, Sullivan and Driedger on the Construction of Statutes, 4th ed., Markham, Butterworths, 2002, pp. 209 and 210.
+[288] Deans Knight, supra note 7, para. 64.
+[289] Ibid.
+[290] Ibid.
+[291] Pierre-André Côté, Interprétation des lois, 4th ed., Montréal, Thémis, 2009, p. 295
+[292] Pharmascience Inc. v. Binet, 2006 SCC 48, para. 30.
+[293] ATCO Gas & Pipelines Ltd. v. Alberta (Energy & Utilities Board), 2006 SCC 4, para. 59; see also Triad Gestco, supra note 79, para. 56, citing with approval 1207192, supra note 77, paras. 73 to 83; Syndicat de la fonction publique du Québec v. Quebec (Attorney General), 2010 SCC 28, paras. 36 and 37.
+[294] See for example British Columbia v. Philip Morris International, Inc., 2018 SCC 36, para. 29.
+[295] Ruth Sullivan, The Construction of Statutes, 7th ed., Markham, LexisNexis Canada, 2022, c. 8 – Presumption about how legislation is drafted; see also Grenon v. The Queen, 2021 TCC 30, paras. 192 to 195; Orphan Well Association v. Grant Thornton Ltd., 2019 SCC 5, paras. 82 to 84.
+[296] Trustco, supra note 51, para. 47; Montréal (City) v. 2952-1366 Québec Inc., 2005 SCC 62, para. 10.
+[297] Montréal (City) v. 2952-1366 Québec Inc., supra note 287, para. 10; see also Iberville Developments Limited v. The Queen, 2018 TCC 102, para. 60, aff’d 2020 FCA 115, leave to appeal to the SCC denied, 24817 (April 1, 2021).
+[298] Deans Knight, supra note 7, para. 66.
+[299] Ibid.
+[300] Ibid., para. 67.
+[301] Ibid.
+[302] Copthorne, supra note 3, para. 91.
+[303] Ibid.; see also Gladwin, supra note 265, para. 55.
+[304] Copthorne, supra note 3, para. 113.
+[305] Deans Knight, supra note 7, para. 68.
+[306] Ibid.; Trustco, supra note 51, para. 53.
+[307] Trustco, supra note 51, para. 113.
+[308] See for example Canada (Attorney General) v. Almalki, 2016 FCA 195, para. 40.
+[309] Bell ExpressVu Limited Partnership v. Rex, 2002 SCC 42, paras. 44 to 46.
+[310] Hillier v. Canada (Attorney General), 2019 FCA 44, para. 27.
+[311] Ruth Sullivan, supra note 291, section 23.03 – Legislative History (this includes reports from royal commissions, law reform commissions and other similar bodies; ministerial studies; proposals and memoranda submitted to Cabinet; the observations of the Minister responsible for a bill; documents tabled or otherwise brought to the attention of the legislature during the legislative process, including explanatory notes; documents published by the government during the legislative process, such as briefing material or press releases; records of legislative debates and committee hearings; the record of motions to amend the bill; and regulatory impact analysis statements); see for example Tele-Mobile Co. v. Ontario, 2008 SCC 12, paras. 29 to 40.
+[312] Lawyers’ Professional Indemnity Company v. Canada, 2020 FCA 90, paras. 74 to 79.
+[313] 1245989, supra note 265, para. 45.
+[314] Deans Knight, supra note 7, para. 69.
+[315] Copthorne, supra note 3, para. 72.
+[316] Argument of the Appellant, para. 30; Trustco, supra note 51, para. 41.
+[317] Argument of the Appellant, para. 30; Trustco, supra note 51, para. 42.
+[318] Argument of the Appellant, paras. 32 and 33; Copthorne, supra note 51, para. 67.
+[319] Argument of the Appellant, para. 29; OSFC Holdings Ltd. v. Canada, 2001 FCA 260, para. 70 [OSFC Holdings].
+[320] Argument of the Appellant, para. 19; Transcript of the June 29, 2021, hearing, p. 24.
+[321] KPMG letter to Quebecor dated August 31, 2005, pp. 41 and 42, Appendix 1 of the agreed statement of facts. Note that VTHL refers to the 3662527 corporation.
+[322] Ibid.
+[323] Copthorne, supra note 3, para. 65.
+[324] Copthorne, supra note 3, para. 69; see also Trustco, supra note 51, para. 55.
+[325] 2763478, supra note 177, paras. 53 to 55.
+[326] Copthorne, supra note 3, para. 101.
+[327] Pomerleau, supra note 101, para. 63.
+[328] Husky Oil Limited v. Canada, 2010 FCA 125, para. 2.
+[329] Manon Thivierge, “Les roulements” in Journée d’études fiscales, Montréal, L’Association canadienne d’études fiscales, 2010, No. 3, pp. 1 to 26.
+[330] See Oxford Properties, supra note 194, and Continental Bank of Canada v. Canada, [1994] T.C.J. No. 585 (QL) [Continental Bank].
+[331] Oxford Properties, supra note 194, paras. 56, 57 and 59.
+[332] Canada v. Vaillancourt-Tremblay, 2010 FCA 119 [Vaillancourt-Tremblay].
+[333] Ibid., para. 5.
+[334] Continental Bank, supra note 324, para. 95.
+[335] Copthorne, supra note 3, para. 84.
+[336] Pomerleau, supra note 101, para. 69.
+[337] Copthorne, supra note 3, para. 84.
+[338] Mara Properties, supra note 204, p. 437.
+[339] Mara Properties, supra note 204, pp. 444, 445 and 453.
+[340] Silvia Jacinto and Kay Leung, “When Two Become One: A Union of Legal Aspects of Corporate Wind-ups and Amalgamations” in 2021 Ontario Tax Conference, Toronto, Canadian Tax Foundation, 2021, No. 6, p. 42.
+[341] Argument of the Appellant, paras. 63 and 64; written notes of the Respondent, para. 72.
+[342] Pomerleau, supra note 101, para. 65.
+[343] Collins & Aikman, supra note 189, para. 62.
+[344] Oxford Properties, supra note 194, para. 56.
+[345] Ibid.
+[346] Green, Ebbert and Stevens, supra note 207, c. 12, pp. 3 and 4.
+[347] Quebec (Agence du revenu) v. Services Environnementaux AES Inc., 2013 SCC 65, para. 4.
+[348] Envision Credit Union v. Canada, 2011 FCA 321, para. 23.
+[349] Jacinto and Leung, supra note 340, c. 12, pp. 10 and 11.
+[350] Mara Properties, supra note 204, p. 437.
+[351] Jacinto and Leung, supra note 340, c. 6, pp. 1 to 63.
+[352] Mara Properties, supra note 204, pp. 444, 445 and 453.
+[353] Copthorne, supra note 3, para. 84; Vaillancourt-Tremblay, supra note 326, para. 4.
+[354] Ibid.; Roberts and Briggs, supra note 203, pp. 943 to 954.
+[355] Jacinto and Leung, supra note 340, c. 11, p. 23 and c. 17, p. 37.
+[356] Ibid., c. 17, p. 37; see also Jack Bernstein and Kay Leung, “Loss Utilization Planning: An Update”, in 2003 Ontario Tax Conference, Toronto, Canadian Tax Foundation, 2003, No. 17, p. 27.
+[357] This provision was repealed, Budget Implementation Act, 2016, No. 2, S.C. 2016, c. 12, section 14.
+[358] This provision was repealed, Budget Implementation Act, 2016, No. 2, S.C. 2016, c. 12, section 8.
+[359] Bernstein and Leung, supra note 356, c. 17, p. 26.
+[360] OSFC Holdings, supra note 315, paras. 74 and 75.
+[361] 626468 New Brunswick Inc. v. Canada, 2019 FCA 306, para. 68.
+[362] Oxford Properties, supra note 194, paras. 56 and 57; Continental Bank, supra note 324, para. 95.
+[363] Oxford Properties, supra note 194, para. 108.
+[364] Triad Gestco, supra note 79, paras. 42 and 50.
+[365] Fiducie financière Satoma v. Canada, 2018 FCA 74, para. 52.
+[366] Oxford Properties, supra note 194, para. 108.
+[367] Mara Properties, supra note 204, p. 437.
+[368] Mara Properties, supra note 204, pp. 444, 445 and 453.
+[369] Jacinto and Leung, supra note 340, c. 6, p. 42.
+[370] Agreed statement of facts, para. 18.
+[371] Copthorne, supra note 3, para. 70.

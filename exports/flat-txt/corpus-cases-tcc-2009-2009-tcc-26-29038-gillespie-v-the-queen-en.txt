@@ -1,0 +1,236 @@
+Title: Gillespie v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29038/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-26-29038-gillespie-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-01-28
+
+# Gillespie v. The Queen
+
+- Citation: 2009 TCC 26
+- Decision date: 2009-01-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6847, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gillespie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-28
+Neutral citation
+2009 TCC 26
+File numbers
+2007-1802(IT)G
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1802(IT)G
+BETWEEN:
+DOUGLAS GILLESPIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 26, 2008, at
+Winnipeg ,
+Manitoba
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+Counsel for the Appellant:
+Wayne M. Onchulenko
+Counsel for the Respondent:
+Melissa Danish, Jeff Pniowsky
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2003 and 2004 taxation years are dismissed and the Minister of National Revenue’s assessment is confirmed.
+Signed at
+Toronto ,
+Ontario
+, this 28th day of January 2009.
+“T. E. Margeson”
+Margeson J.
+Citation: 2009TCC26
+Date: 20090128
+Docket: 2007-1802(IT)G
+BETWEEN:
+DOUGLAS GILLESPIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Margeson J.
+[1] The Minister of National Revenue (the “Minister”) assessed the Appellant for the 2003 and 2004 taxation years on the basis that he was not entitled to the overseas employment tax credit (“OETC”) for those years.
+[2] From those assessments the Appellant takes this appeal.
+Issues
+[3] The parties agreed that the only issue before the Court is whether or not the Appellant was an independent contractor or an employee during the years in issue “but for the existence of Doug Gillespie Consulting Inc.”.
+[4] Put another way, would the Appellant be reasonably regarded as an employee of Elbit Systems Ltd. (“Elbit”) under the applicable section of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the “Act”)?
+Evidence
+[5] The Appellant testified that he is a resident of
+Winnipeg ,
+Manitoba
+and has lived there since 1985. Before that time, he was in the Canadian Armed Forces, particularly in the Naval Air Branch. He was engaged in Sea King helicopter maintenance, Tudor aircraft, and heavy transport aircraft. He worked at bases in Shearwater,
+Nova Scotia ,
+Moose Jaw ,
+Saskatchewan , and
+Trenton ,
+Ontario , before coming to
+Winnipeg
+in 1985.
+[6] In 1988 he went to British Aerospace as part of the Department of National Defence and became an employee of British Aerospace in 1989.
+Canada sold the aircraft that he was working on to
+Botswana
+and he stayed on to do the maintenance on them. He was the contact person for the Botswana Air Force. He also wrote the maintenance course for them.
+[7] He was informed about a job with Elbit. The opportunity was in
+Venezuela
+working with Venezuela Air Force personnel as the supervisor. The project was with respect to F-5 aircraft. He considered it to be a challenge.
+[8] The position offered more wages, or three times the salary he was earning at that time. His new salary was in the range of $200,000 per year. There were certain risks that he would have to take: he would have to give up his medical and dental coverage; it was a violent country; and he had to buy his own software, computer and camera.
+[9] He identified Exhibit A-1 which was a letter sent to the Canada Revenue Agency (“CRA”) by Elbit which, among other things, referred to him as an independent contractor and not as an employee of Elbit. This document was admitted into evidence only for the purpose of showing that it was sent and not for the truth of the statements contained therein.
+[10] It was the Appellant’s evidence that that indication was correct and he considered himself to be an independent contractor to Elbit and not an employee.
+[11] Exhibit A-2 was identified by the Appellant as his Consultancy Agreement which came to him after he had been contacted by an agent of Elbit. He had been interviewed in
+Canada
+. Paragraph 5(b) set out that nothing in it should be construed as creating an employer-employee relationship. He considered himself to be an independent contractor thereunder.
+[12] He attempted to obtain liability insurance for himself but could not due to the high cost so he obtained coverage through Elbit’s plan for him personally.
+[13] He incorporated a company, Doug Gillespie Consulting Inc. (the “Company”) for the purpose of further protecting his personal liability. In the event that the aircraft failed after he completed his work, he would be responsible. It was a big risk. When he was discussing the contract, the insurance was not to be provided. Further, Elbit agreed to give him paid vacations and pay out‑of‑the‑country medical costs.
+[14] He was to organize and set up all the elements to perform the structural upgrade on the airplanes, the inspection of them, to order parts, keep track of the work and when it was to be done and prepared a training manual for the workers. He had to document testing, overhaul the hydraulics, gather all the information as to what had to be done and forward it to the Venezuela Air Force. He had to inventory the aircraft because the aircraft required more work than what was at first believed necessary. The Appellant quantified what was needed by way of parts, material etc. and the Venezuela Air Force picked the persons that were qualified to do it from their ranks. The Appellant chose the person who was to be second in command of the project.
+[15] The Appellant bought whatever extra machinery and equipment that was necessary and he invoiced the Company for it.
+[16] He said that Elbit brought in a “sheet metal man” to give “hands-on instructions” to the workers. The Appellant kept track of all of the parts and was responsible for the “logistics”. The aircrafts were ultimately reassembled. He laid out the day’s work after meeting with the Venezuelan foreman and would view the progress of the work.
+[17] Often times they worked in the night. He had to arrange to feed and transport the workers. He spent quite a bit of time shopping for parts. Whatever he bought for the project he received reimbursement. He had to provide monthly progress reports to Elbit. The program manager in
+Haifa
+came down periodically to view the job.
+[18] He purchased whatever tools he needed or received them from the Venezuelan Air Force. He had the right to ask for different workers from the Venezuelan Air Force.
+[19] He decided when they needed experts for certain work, for testing and when they needed any special equipment. He had to make the proper “paper trail” for the work and it became part of the aircraft’s record.
+[20] Exhibit A-4 is an On The Job Training Manual and Exhibits A-5 to A8 are Workbooks, 4, 5, 2, and 1, respectively, being manuals and programs that he created. Exhibit A-9 was samples of invoices that he had submitted to Elbit for monies expended by him for which he was seeking reimbursement.
+[21] He said that he had to respond to the needs of the Venezuelan Air Force with respect to this project and had to replace certain parts with substitutes if an export licence could not be obtained from the
+United States
+.
+[22] He also travelled to
+Israel
+and back to pick up the necessary signature. The job started in 2002 and finished in 2004.
+[23] With respect to the present claim, he visited a chartered accountant who told him that he should claim the deduction. It was disallowed ultimately.
+[24] Exhibits A-10, A-11 and A-12 were letters from Elbit that the Appellant received which purportedly supported his status as an independent contractor but were not accepted for the proof of the truth of the statements made therein.
+[25] In cross‑examination, Exhibit R-1, the Consultancy Agreement was admitted.
+Argument on Behalf of the Appellant
+[26] Counsel for the Appellant argued that there was only one issue. But for the existence of the Company, would the Appellant have been an independent contractor or an employee?
+[27] There is no silver bullet which will decide one way or the other. Was he in business on his own account or for someone else? It is more likely that he was an independent contractor.
+[28] It is significant that there was an agreement that both parties signed. The question to be asked is “does it reflect the real situation?”
+[29] Both parties chose not to have an employer-employee relationship for their own reasons. There were benefits for both in their arrangement.
+[30] The Appellant was assigned specific tasks as set out in Exhibit A-2, paragraph 2. a. of the Consultancy Agreement. Under paragraph 5. b. he was not to be considered an employee. Under paragraph 5. d. the Appellant was responsible for any damage that ensued because of his work.
+[31] The letters that were introduced are corroborative of the agreement.
+[32] The Minister has called no evidence to support his position.
+[33] With respect to the matter of control, the Appellant controlled his own work. “It was his baby” even though he provided project reports every couple of months.
+[34] He did what he felt was necessary. He appointed the second in command and he organized the other 25 workers. He organized the tools and trades that were necessary to get the contract completed. He decided the hours. He set up the schedules; the logistics; the procurement of parts; prepared programs; arranged training and produced manuals.
+[35] With respect to the ownership of tools, he provided his own computer, cell phone, camera and procured other tools.
+[36] Regarding profit and loss, he could make a profit and he could suffer a loss as a result of the safety issues. Regarding integration, he was not part of Elbit.
+[37] The facts discussed here meet the tests in Wiebe Door Services Ltd. v. M.N.R., [1986] 2 C.T.C. 200.
+[38] As in Wolf v. Canada, [2002] 3 C.T.C. 3, the Appellant was entitled to arrange his affairs in his own way to allow him to take advantage of a tax benefit. His actions were consistent with the terms of the contract.
+[39] The appeal should be allowed.
+Argument on Behalf of the Respondent
+[40] Counsel said that 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001, S.C.C. 59, applies. Wolf, supra, has been revisited.
+[41] The purpose of the OETC is to facilitate Canadian business abroad. There is an anti-avoidance measure in the relevant section that says that you cannot incorporate a company merely to be able to gain the credit when you are really an employee of a company which is not a specified employer under the provisions of paragraph 112.3(1.1)(c) of the Act.
+[42] The important parts of the agreement are the objective parts, not the bare statements made therein. The Appellant must show on a balance of probabilities that he is an independent contractor. He needs to provide corroborative evidence of that position. His evidence amounts to no more than self-serving evidence.
+[43] The Reply was drafted in accordance with the terms set out in the agreement.
+[44] In answering the question of whether the Appellant could reasonably be regarded as an employee of the person or partnership that is not a specified employer, the question of intention is not relevant but control is. Intention is highly subjective, corroboration is important and this case cries out for it. See Huh v. Canada, 2000 DTC 2422 where the Court was faced with the lack of corroboration even though the taxpayer’s evidence was long and detailed. Those parts that were corroborated were accepted and those that were not corroborated were not accepted.
+[45] Further in that case the mere statement of their intention was not accepted as sufficient evidence of it. There were no written documents to demonstrate the taxpayer’s position with respect to the corporation. The written agreement produced was in conflict with the oral testimony. There was no documentation provided to establish the presence of a bank account and the oral testimony of its existence was rejected.
+[46] The case of Tobin v. M.N.R., 2003 Carswell Nat 2322, is support for the position that the onus of proof is on the Appellant to lead evidence that destroys the presumptions in the Reply. This has not been done. Corroborating evidence should have been available and the oral evidence of the Appellant was self-serving.
+[47] He said that he reported monthly but there were no copies of any such reports and no documents to show that he did report. The best evidence of a party’s intention is the nature of their actions. One must ask, is the evidence of the Appellant credible?
+[48] The Appellant was a highly skilled employee at British Aerospace without risk. What changed when he did the work for Elbit?
+[49] As in 1166787 Ontario Ltd. v. R., 2008 DTC 2722, the independence that the Appellant here had with respect to his work was no different from the independence that consultant professional employees are granted by their employers and there was no risk of loss for the Appellant here in the performance of his contract as found in the above-cited case.
+[50] As In Logitek Technology Ltd. v. M.N.R., 2008 Carswell Nat 2335:
+19. … In the case of highly skilled or professional workers, however, the necessary control is established if the employer has the right to tell the worker what to do, even though he cannot tell him or her how to do it.
+[51] In this case, Elbit had the right to give the Appellant other work if it wished to do so other than work in
+Venezuela
+. It was Elbit that obtained the contract and not the Appellant. Is he in his own business or is he an employee?
+[52] Regarding the issue of chance of profit and risk of loss, it must be a commercial loss or profit.
+[53] A regular pay cheque like the Appellant received is indicative of an employee situation: here his expenses were reimbursed.
+[54] He did not have his own business. When Elbit left
+Venezuela
+, he left. He is a classic professional employee.
+[55] He gets paid when he works. He was a technical supervisor in regular employment.
+[56] The appeal should be dismissed.
+Rebuttal
+[57] The big difference between the case at bar and the cases cited by the Respondent is the written agreement. Not all of the Appellant’s expenses were paid and he could not change the work that was to be done.
+Analysis and Decision
+[58] The factual situation in this case is not really in issue as counsel for the Appellant did not directly or indirectly challenge the presumptions contained in the Reply to Notice of Appeal. Rather it is the conclusion to be drawn from the facts that are in issue.
+[59] The Court is satisfied that credibility is not a real issue here as the Appellant appeared to the Court to be a straight-forward, honest, intelligent and knowledgeable witness. It is true that, apart from the signed contract itself, there was no corroborative evidence of his testimony, but that does not detract from his overall demeanour as a witness which was most satisfactory.
+[60] The Court is satisfied that the Appellant believed that he was entering into an independent contractor situation with Elbit, certainly at the beginning, but the factual situation changed somewhat from the time the negotiations started until the final contract was signed on September 21, 2001.
+[61] The Company came into existence after the consulting agreement was signed and the Appellant said that his purpose in incorporating was to give him further protection against personal liability. He said that he went to an accounting firm when preparing his income tax return for the years in question and there was no evidence given that the availability of the OETC was one of the factors that he considered in incorporating, but even if it was, there was nothing improper about that.
+[62] The burden of proof is extremely important on the facts of this case where there are factors established in evidence that in some instances are indicative of an independent contractor situation and other established facts that would suggest an employer-employee relationship.
+[63] It is the Appellant’s duty to tip the balance in his favour on such competing facts, and if he is not successful in doing so, he cannot succeed in this appeal.
+[64] The case of Wiebe Door Services Ltd., supra, is helpful in the case at bar. The four tests set our therein are
+(a) The degree or absence of control, exercised by the employer,
+(b) Ownership of tools,
+(c) Chance of profit and risk of loss,
+(d) Integration of the alleged employee’s work into the alleged employer’s business.
+To that list this Court adds the terms and conditions of employment and the intention of the parties as established by the evidence of the parties and a written agreement between the parties, if one exists.
+[65] It has been well settled that all of these factors need not be given the same weight. In some cases one factor will stand out and may be given a great deal of weight and the other factors may be given less weight. As indicated in that case and others, it is not just a numbers game so that if you have the majority of factors indicating one conclusion then that defines the relationship.
+[66] In Royal Winnipeg Ballet v. M.N.R., 2006 CarswellNat 492 (F.C.A.), the Federal Court of Appeal overturned a decision of the Tax Court of Canada that found the ballet dancers to be employees. The Court concluded that the Tax Court Judge had failed to consider the question of intention.
+[67] In Wolf, supra, the Federal Court of Appeal placed a great deal of weight on the intention of the parties as evidenced by the terms of the contract.
+[68] Each case must be decided on its own factual situation, after taking into account the above-referred to factors.
+[69] In the case at bar, the Court will consider each of the above referred to factors in light of the evidence given. Of significance also is the case of Sagaz Industries Canada Inc., supra, referred to by counsel for the Respondent.
+[70] In that case the Court asks itself the question, whose business is this? Is the taxpayer engaged in a business in his own right or is he acting as part of the purported employer’s business?
+Intention
+[71] The only evidence of intention here is that of the Appellant and the written agreement. It states that the parties are entering into an independent contractor arrangement. But is that intention consistent with the facts?
+[72] The Court puts little weight on the letters that were submitted in support of this contention. Further, no one was called from the employer to corroborate the evidence of the Appellant and this could have been done. There was no explanation offered as to why this evidence was not available.
+[73] The Appellant submits that he was an independent contractor and yet he obtained for himself a number of benefits that are normally associated with an employer-employee situation such as a definite salary, regular hours, and duty to work overtime, liability insurance, paid vacations and repayment of expenses including travel costs. All of these benefits were included in his agreement.
+Control
+[74] The Appellant had a great deal of anonymity on the job. He selected the second in command, he requested the proper trades’ people and could ask them to be replaced, he directed the daily work at the job site, kept the work on schedule, wrote manuals for the workers and secured the necessary parts and equipment that he deemed necessary. There is no doubt that he had a great deal of control of his work.
+[75] However, he was doing one project only. That was a project that was given to him by Elbit. It was the only project he was doing. He was not free to do work for any other party. Elbit told him when to do the work and set out the number of hours he had to work in a week. Elbit could tell him when to stop his work and when to start it and they did so. He was not free to hire someone else to do his work. He had to provide his services personally.
+[76] The Court is satisfied that the Appellant was a highly skilled technical person who was hired by Elbit to perform very technical work. However, it also had the right to give him other work apart from his work in
+Venezuela
+.
+[77] He had to perform the work in accordance with established procedures and even though he could recommend that some workers be removed, these workers were not hired by him but were provided by Elbit, through the Venezuela Air Force.
+[78] Again, the agreement provided that he work nine hours per day, five days a week and in special circumstances dictated that they would work overtime.
+[79] This Court is persuaded by the able argument of counsel for the Respondent that the Appellant falls into the same category as the worker in 1166787 Ontario Ltd., supra, where Justice Miller, said at paragraph 27:
+27 … The independence Lee had with respect to how she did her work is no different from the independence that competent professional employees are granted by their employers.
+[80] Consequently, this Court finds that in the case of such employees it is no longer acceptable to find that a worker who is not told how to do a job makes that worker an independent contractor.
+[81] The amount of control exercised by Elbit here was sufficient to indicate an employer-employee relationship.
+Ownership of Tools
+[82] The Court is satisfied that this factor is consistent with an employer‑employee relationship.
+[83] It is true that the Appellant was responsible for buying his own cellular telephone and his computer but the vast majority of his tools were provided by Elbit because he was reimbursed for all of his purchases.
+Chance of Profit and Risk of Loss
+[84] The Court is satisfied that the Appellant had no chance of making a profit or suffering a loss in the commercial sense.
+[85] His salary was set and if he worked he received the pay as set out in the agreement. There was no possibility that he could earn more money by working harder or longer. His only income was his salary.
+[86] Likewise, he could not suffer a loss because all of his expenses were paid for by Elbit.
+Integration
+[87] The Court is satisfied that the Appellant’s work was completely integrated into that of Elbit. He was not engaged in a business of his own. Elbit was his only contract and he did not hold himself out as being able to provide services for others and there were not other indications that he was operating a business on his own.
+[88] When the Court asks the question, whose business is this? The answer has to be that it was that of Elbit.
+Terms and Conditions of Employment
+[89] The terms and conditions of employment are of less significance here than the others factors but they are similar to any that would be found in any employer‑employee relationship.
+[90] This is a classic case of where the parties purported to be entering into one kind of relationship in a written agreement, but acted in a completely different manner. The old adage that actions speak louder than words is appropriate here.
+[91] The appeals are dismissed and the Minister’s assessment is confirmed.
+Signed at
+Toronto ,
+Ontario
+, this 28th day of January 2009.
+“T. E. Margeson”
+Margeson J.
+CITATION: 2009TCC26
+COURT FILE NO.: 2007-1802(IT)G
+STYLE OF CAUSE: DOUGLAS GILLESPIE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Winnipeg ,
+Manitoba
+DATE OF HEARING: November 26, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice T. E. Margeson
+DATE OF JUDGMENT: January 28, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Wayne M. Onchulenko
+Counsel for the Respondent:
+Melissa Danish,
+Jeff Pniowsky
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Wayne M. Onchulenko
+Firm: Levene, Tadman, Gutkin, Golub
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

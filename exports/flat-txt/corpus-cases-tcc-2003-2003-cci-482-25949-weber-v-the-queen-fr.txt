@@ -1,0 +1,121 @@
+Title: Weber v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25949/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-482-25949-weber-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-07-11
+
+# Weber v. The Queen
+
+- Citation: 2003 CCI 482
+- Decision date: 2003-07-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3682, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Weber v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-11
+Référence neutre
+2003 CCI 482
+Numéro de dossier
+2002-236(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-236(IT)I
+ENTRE :
+CHRISTA ILSE WEBER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 7 avril 2003 à Toronto (Ontario),
+par : l'honorable juge A. A. Sarchuk
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me A'Amer Ather
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations d'impôt établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1994, 1995, 1996, 1997, 1998 et 1999 sont rejetés.
+Signé à Ottawa, Canada, le 11 juillet 2003.
+« A. A. Sarchuk »
+Traduction certifiée conforme
+ce 8e jour d'avril 2005.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI482
+Date: 20030711
+Dossier: 2002-236(IT)I
+ENTRE :
+CHRISTA ILSE WEBER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Sarchuk
+[1] Il s'agit des appels interjetés par Mme Christa Ilse Weber à l'encontre de ses cotisations de revenu pour les années d'imposition 1994, 1995, 1996, 1997, 1998 et 1999. Il convient de faire l'historique des cotisations.
+1994 et 1995
+[2] L'appelante a omis de produire des déclarations de revenu pour ses années d'imposition 1994 et 1995 comme l'exige le paragraphe 150(1) de la Loi de l'impôt sur le revenu (la Loi). Par la suite, le 27 mars 2000, pendant une vérification, l'appelante a produit ses déclarations et, dans le calcul de son revenu pour ces années d'imposition, elle a déclaré des revenus nets d'entreprise s'élevant à 763,98 $ et à 5 819,02 $ respectivement, relativement à une entreprise de « services de conseils » et d' « interprète et de musicienne » . Le ministre du Revenu national (le ministre) a établi la cotisation de l'appelante pour ces années d'imposition le 20 novembre 2000; il a réduit les dépenses d'entreprise à 7 711 $ et à 13 194 $ respectivement, et il a réduit le revenu d'entreprise brut de 556 $.
+1996, 1997 et 1998
+[3] L'appelante a omis de produire des déclarations de revenu pour ces années d'imposition, contrevenant ainsi au paragraphe 150(1) de la Loi. Par avis de cotisation en date du 3 mars 2000, le ministre a établi l'impôt que devait payer l'appelante conformément au paragraphe 152(7) de la Loi et, ce faisant, il a établi l'impôt exigible à 3 177,22 $, à 1 800,20 $ et à 2 230,28 $ respectivement, avec l'intérêt exigible et les pénalités pour production tardive.
+[4] Le 27 mars 2000, l'appelante a produit ses déclarations de revenu à l'égard des années d'imposition visées, et conséquemment, le ministre a établi des nouvelles cotisations le 17 octobre 2000 et il a ajouté aux déclarations de l'appelante pour les années en cause un revenu d'entreprise net, il a admis la déduction des cotisations au régime enregistré d'épargne-retraite à l'égard du revenu global et il a retranché un revenu de commissions net de 1368 $ pour l'année d'imposition 1997.
+1999
+[5] Dans le calcul du revenu pour l'année d'imposition 1999, l'appelante a déclaré un revenu d'entreprise net de 38 232,85 $ à l'égard de l'entreprise. Le ministre a établi une cotisation pour l'année d'imposition en question, en vertu de quoi les dépenses d'entreprise de l'appelante ont été réduites du montant de 23 507 $.
+[6] À la suite des avis de cotisation pour les six années en question, l'appelante a signifié au ministre des avis d'opposition. Après en avoir dûment tenu compte, par avis en date du 3 octobre 2001, le ministre a établi de nouvelles cotisations à l'égard de l'appelante conformément au paragraphe 165(3) de la Loi de façon à admettre des dépenses d'entreprise supplémentaires pour chacune des années d'imposition, il a réduit le revenu d'entreprise pour l'année d'imposition 1995, il a retranché le revenu d'emploi et il a majoré le revenu d'entreprise brut pour les années d'imposition 1996, 1997 et 1998 respectivement.
+[7] Les questions litigieuses pour toutes les années visées par les appels sont les suivantes :
+a) L'appelante a-t-elle le droit de déduire des dépenses supérieures aux montants admis par le ministre à l'égard des années d'imposition en question?
+b) A-t-on régulièrement imposé des intérêts à l'appelante conformément à l'article 161 de la Loi?
+c) A-t-on correctement imposé à l'appelante des pénalités pour production tardive à l'égard des années d'imposition 1994, 1995, 1996, 1997 et 1998?
+Le témoignage de l'appelante
+[8] À toutes les périodes pertinentes, l'appelante, sous le nom de C. Weber Enterprises, a exercé deux activités distinctes qu'elle décrit comme étant des « services de conseils » et « d'interprétation » . Comme exemple d'activité de son entreprise de « services de conseils » , elle a renvoyé à un contrat de coordination en vue du passage à l'an 2000 pour un client qui, dit-elle, comprenait la fourniture des manuels de programmation requis, la formation, la planification de la reprise des affaires et la gestion du « personnel du service d'assistance » . L'aspect « interprétation » de son entreprise se rattache principalement à sa participation, depuis 1986, à un groupe théâtral communautaire, le Scarborough Theatre Guild. L'appelante ne conteste pas que sa participation n'a jamais été rémunérée sauf, dans ses propres termes, pour ce qui est « d'un certain revenu d'interprétation découlant de quelques vidéos, un vidéo industriel et un genre de vidéo musical » [1].
+[9] L'appelante a été incapable de justifier la grande majorité de ses dépenses à l'aide de pièces comptables, de reçus, d'états de compte ou de toute autre documentation appropriée. Ainsi donc, en ce qui concerne les deux aspects de son entreprise, elle s'est appuyée presqu'exclusivement sur des journaux en guise de pièces justificatives. En ce qui a trait aux divers frais de déplacement déclarés, qui n'étaient appuyés d'aucune pièce justificative, elle s'est référée aux journaux pour chaque période faisant l'objet de l'appel, « et elle a compté le nombre de ses déplacements faits en vue de trouver du travail, ou dans un but de perfectionnement professionnel ou encore pour assister à des conférences » et elle a produit des notes explicatives liées à des « frais de déplacement, travail » , des « frais de déplacement, classes et répétitions » et des « frais de déplacement, concerts, théâtre » [2]. À titre d'exemple, pour le mois de mars 1994, on peut lire dans les notes explicatives, entre autres choses, « divers autobus/admin. x 17; santé (physio, etc.) x 11; et travail x 18; » . Chaque mention, dit l'appelante, représente le nombre d'allers et de retours par transports en commun pour la fin décrite. Dans chaque cas, l'appelante a compté le nombre de déplacements et, en se reportant aux tarifs des transports en commun à Toronto, elle est arrivée à la somme de 4 $ par aller-retour.
+[10] Les « frais de bureau » déclarés par l'appelante étaient liés pour la plupart à ses services de conseils et elle les a justifiés comme suit :
+a) Les « vêtements de travail » reflétaient sa conviction qu' « un expert-conseil doit maintenir une certaine image de marque afin, premièrement, d'obtenir le travail souhaité et, deuxièmement, de le conserver » . Elle a aussi précisé que la dépense était nécessaire pour « m'habiller de façon à camoufler mon poids » afin de créer une « première impression favorable auprès des gens qui me rencontrent » . Des raisons semblables ont été données à l'égard des autres frais de « bureau » tels les coupes de cheveux, le nettoyage à sec et le raccommodage des vêtements.
+b) L'appelante a procédé de la même façon dans son témoignage visant l'aspect « interprétation » de son entreprise. Ici, en plus des frais de déplacement, elle a déclaré des frais de repas et de représentation et de « perfectionnement professionnel » qui comprenaient le prix d'entrée à des spectacles et à des films à titre de formation, ainsi que des cours de danse de salon qu'elle a suivis avec son mari. À son avis, les cours de danse et autres activités semblables étaient nécessaires puisque « plus un acteur ou un interprète de tout genre possède de compétences, plus c'est facile pour lui de trouver du travail. Et la formation professionnelle est une dépense admissible. » Cela la justifiait aussi de déclarer, à titre de dépense déductible, la part de son mari des frais visant cette « formation » . Le même raisonnement a été appliqué aux frais de repas avant ou après les répétitions avec les membres de la troupe. Il suffit de citer, à titre d'exemple, certaines de ces dépenses tirées de la pièce A-9 relativement à l'année d'imposition 1998 :
+10 janvier - 50 $ - dîner avec Gord pour voir un film[3].
+27 janvier - 16 $ - dîner avec Gord concernant la répétition du spectacle.
+30 janvier - 15 $ - avec Gord concernant le karaoké (chanter avec l'assistance, expérience).
+6, 7, 14 et 16 avril - 20 $ et - repas avant et après la répétition avec les membres de la troupe ou mon mari[4].
+7 novembre - 40 $ dîner avec Gord pour voir un film.
+[11] Mme Susan Shah, agente des appels auprès de l'Agence des douanes et du revenu du Canada, a présenté pour le compte de l'intimée des éléments de preuve qui traitaient des avis d'opposition déposés à l'égard des cotisations. Dans ce contexte, Mme Shah a rencontré l'appelante, son avocat et son comptable et elle a reçu des renseignements supplémentaires qui, en fin de compte, ont mené aux nouvelles cotisations en litige. Au cours de son témoignage, Mme Shah a mentionné un certain nombre d'annexes jointes à la réponse à l'avis d'appel qui exposent les divers frais déclarés par l'appelante aussi bien que les sommes admises initialement par le vérificateur et celles qui ont été admises par la suite dans le cadre des appels[5]. Mme Shah a traité comme suit des deux catégories de frais :
+(i) Conseils Les frais rejetés par le ministre dans cette catégorie comportaient deux catégories principales : les « frais de bureau » et les « autres » . Pour ce qui est des frais de bureau, Mme Shah a témoigné que l'appelante avait déclaré le montant total des « vêtements de travail » aussi bien que les coupes de cheveux, le nettoyage à sec, la physiothérapie, de l'équipement non justifié par des reçus et d'autres dépenses personnelles[6]. Toutes ces dépenses ont été considérées être des dépenses personnelles et, par conséquent, non déductibles, et le ministre les a rejetées. Les « autres » dépenses, en majorité, avaient trait, selon Mme Shah, à des déplacements entre la maison de l'appelante et l'endroit où elle exploitait son entreprise de services de conseils. Il n'est pas contesté que la totalité des frais de déplacement n'étaient pas accompagnés de pièces justificatives et que les discussions de Mme Shah avec l'appelante, son avocat et son comptable ont débouché sur le consensus que 50 p. 100 représentaient correctement la part consacrée à l'entreprise.
+(ii) Entreprise d'interprétation Sous la rubrique entreprise d'interprétation, les montants rejetés se rangent aussi dans différentes catégories, la principale étant celle des « autres dépenses qui, comme plus haut, représentaient les tarifs des transports en commun locaux aussi bien que des montants sans pièces justificatives concernant des sujets tels les vêtements, le maquillage et le « perfectionnement professionnel » . Sous la rubrique « repas et divertiss. » , Mme Shah a traité des montants déclarés au chef d'articles de dépenses tels les repas de l'appelante avec son mari, le prix d'entrée aux cinémas, les frais des leçons de danse de salon, etc. Selon Mme Shah, les articles de dépenses rejetés se rapportaient à des dépenses personnelles.
+Conclusion
+[12] Dans le cadre de ses observations, l'appelante a soulevé plusieurs questions litigieuses qui n'avaient pas été plaidées, mais aucune objection substantielle n'ayant été soulevée pour le compte de l'intimée, j'ai l'intention de traiter de ces questions. Premièrement, l'appelante prétend qu'elle a déclaré des dépenses vestimentaires d'entreprise de 12 625 $ parce qu'elle dit « croire sincèrement qu'elles étaient nécessaires à son image professionnelle et, partant, essentielles pour trouver et conserver des clients. » Elle a parlé des sociétés qui envoient leurs employés voir des conseillers en image, et elle a ajouté que se vêtir pour impressionner les clients favorablement était de la première importance pour donner « l'impression de compétence et d'autorité » requise et qu' « un tailleur strict, par exemple, présente une image de marque qui inspire confiance et reflète la sécurité et la stabilité, ce qu'apprécient particulièrement les banquiers. C'est l'exemple qu'ils ont cité. Et le monde bancaire a souvent été au nombre de mes clients » . S'appuyant sur l'Annexe II, déductions pour amortissement, catégorie 12, articles (i) et (k)[7], l'appelante demande à la Cour d'approuver la déduction pour amortissement à l'égard des vêtements parce qu'il s'agit « des uniformes requis pour obtenir des contrats et les conserver » .
+[13] L'argument de l'appelante selon lequel les achats vestimentaires devraient être considérés à titre de coût en capital est sans fondement. À aucun titre ses « toilettes » peuvent-elles être considérées comme un « uniforme » . Les vêtements en question servaient à son usage personnel et ils n'étaient pas uniquement nécessaires à la poursuite de ses activités commerciales. Il n'y a pas davantage de preuve qu'elle était tenue de se servir de ses vêtements ou de ses accessoires pour apparaître sur la scène ou dans le cadre d'activités connexes. Conséquemment, il faut rejeter ses prétentions subsidiaires visant le caractère déductible de ces articles pour amortissement.
+[14] J'ai conclu que les vêtements en question ont servi à l'usage personnel de l'appelante dans la conduite quotidienne de ses affaires et qu'ils ne sont pas des articles déductibles. En outre, il ne fait aucun doute que les coupes de cheveux, le nettoyage à sec et le raccommodage des vêtements, qu'ils soient déduits à titre de services de conseils de l'entreprise de l'appelante ou de ses activités d'interprétation, sont clairement des frais personnels à moins que, dans le second cas, elle ait été capable de produire des éléments de preuve pour établir que les vêtements se rapportaient à des exigences professionnelles (interprétation théâtrale). Dans ce contexte, il existe un aspect que l'on ne saurait négliger, et c'est le fait qu'à aucun moment pertinent l'appelante n'a-t-elle exercé des activités génératrices de revenu avec sa troupe théâtrale communautaire.
+[15] L'appelante soutient que les frais de repas pris à l'extérieur de chez elle lorsque « les déplacements, le temps et la distance ne vous permettent pas de prendre un repas gratuit à la maison » sont déductibles. Elle fait valoir que pour déduire ces frais, il « n'est pas nécessaire de démontrer que les débours ou les dépenses mêmes ont produit un revenu. Il suffit qu'ils aient fait partie du processus générateur de revenu » . Je suis incapable d'accepter que cette proposition appuie le droit de l'appelante de déduire des repas personnels, etc., et je conclus que le ministre a rejeté ces dépenses à bon droit. Je suis également convaincu que la décision du ministre d'admettre 50 p. 100 des frais de déplacement était généreuse dans les circonstances. Le reste a été rejeté à bon droit au motif qu'il s'agissait de frais personnels de déplacement puisque les frais du trajet entre la résidence de l'appelante et son lieu de travail et entre sa résidence et les cinémas où elle s'est rendue avec son mari pour des fins de « formation professionnelle » constituent des frais personnels, dont aucune partie ne peut même de loin être considérée déductible.
+[16] L'appelante a aussi soulevé une question litigieuse (non plaidée) à l'égard du montant de 2 428 $ qui aurait pu être déclaré à titre de déduction pour amortissement au cours des années d'imposition en question mais qui a échappé à son comptable. Comme conséquence, dit-elle, ce montant ne lui est plus disponible et elle soutient qu'elle devrait être autorisée à le déclarer en qualité de dépense courante. Mme Shah a témoigné qu'elle avait étudié toutes les années en question, effectué les additions et calculé les soldes des fractions non amorties du coût en capital et qu'elle avait constaté qu'à la fin de 1999, il y avait en fait un solde de fraction non amortie du coût en capital de 2 427,54 $. Mme Shah a convenu que le comptable avait commis une erreur qui créait un écart entre les déductions pour amortissement déclarées pour certains avoirs au cours des années et le montant qui aurait pu être admis. L'appelante voudrait que ces montants soient considérés comme étant des dépenses d'entreprise à déduire au cours des années pertinentes. Mis à part le fait que cette question litigieuse n'a pas été plaidée et que, partant, elle soulève la question de la compétence de la Cour à en être saisie, il n'existe aucun fondement légal qui permettrait de convertir ce qui était sans aucun doute une dépense en immobilisations en une dépense d'entreprise comme le suggère l'appelante.
+[17] L'appelante demande aussi l'annulation des intérêts, des arriérés d'impôt et des pénalités pour production tardive. Le paragraphe 161(1) prévoit que le contribuable est tenu de verser des intérêts au taux annuel prévu sur les montants d'impôt impayés après l'expiration du délai applicable à la production de la déclaration. La logique veut que les intérêts soient payables sur le montant impayé à la date requise puisque, comme on l'a souvent dit, l'appelante dispose pour son usage après la date limite du paiement de ses impôts le 30 avril, des sommes qui, dans d'autres circonstances, auraient normalement dû se trouver entre les mains du ministère du Revenu national. De plus, il ressort clairement du libellé au paragraphe susmentionné que notre cour n'a pas compétence pour accorder le redressement demandé.
+[18] En ce qui concerne la pénalité pour production tardive, le paragraphe 162(1) de la Loi prévoit ce qui suit :
+162. (1) Toute personne qui ne produit pas de déclaration de revenu pour une année d'imposition selon les modalités et dans le délai prévus au paragraphe 150 (1) est passible d'une pénalité égale au total des montants suivants :
+a) 5 % de l'impôt payable pour l'année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+b) le produit de 1 % de cet impôt impayé par le nombre de mois entiers, jusqu'à concurrence de 12, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+Il ne fait aucun doute que, dans ce cas particulier, les déclarations de revenu de l'appelante pour chacune des années d'imposition 1994, 1995, 1996, 1997, 1998 et 1999 ont été produites tardivement, et la Cour ne dispose d'aucun élément de preuve permettant de croire que ce retard est imputable à autre chose qu'à la négligence de la contribuable de remplir ses obligations. J'estime, à l'égard de cet aspect de l'appel, que notre cour n'est pas compétente pour accueillir un appel interjeté contre l'imposition de pénalités exigées par l'article précité.
+[19] Pour les motifs qui précèdent, les appels sont rejetés.
+Signé à Ottawa, Canada, le 11 juillet 2003.
+« A. A. Sarchuk »
+Traduction certifiée conforme
+ce 8e jour d'avril 2005.
+Mario Lagacé, réviseur
+[1] La documentation dont dispose la Cour montre que son revenu brut « d'interprétation » au cours des sept périodes d'imposition en question a été respectivement de 454 $, 155 $, 71 $, 231 $, 392 $, 390 $ et 203 $.
+[2]
+Pièces A-1, 2, 3, 4, 5, 10 et 11.
+[3] Gord est l'époux de l'appelante - il y a dix-sept inscriptions semblables..
+[4] Il existe plus de 40 inscriptions de ce genre en 1998.
+[5] Voir les annexes « A » , « B » , « C » , « D » , « E » et « F » de la réponse à l'avis d'appel. Chaque annexe consiste en une page visant « l'entreprise de services de conseils » et une page distincte pour « l'entreprise d'interprétation » .
+[6] L'examen de Mme Shah a montré que les frais vestimentaires pour les années d'imposition en question se sont élevés à 1 206 $, 1 528 $, 1 760 $, 3 050 $ et 4 650 $ respectivement. Les frais de coupe de cheveux et de nettoyage à sec se sont élevés en moyenne à 200 $ au cours de ces années.
+[7] i) un uniforme; k) un vêtement ou costume, y compris les accessoires afférents, servant à gagner un revenu de location.

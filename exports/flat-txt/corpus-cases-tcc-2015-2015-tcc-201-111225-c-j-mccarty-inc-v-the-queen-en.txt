@@ -1,0 +1,290 @@
+Title: C. J. McCarty Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/111225/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-201-111225-c-j-mccarty-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-08-12
+
+# C. J. McCarty Inc. v. The Queen
+
+- Citation: 2015 TCC 201
+- Decision date: 2015-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2640, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+C. J. McCarty Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-08-12
+Neutral citation
+2015 TCC 201
+File numbers
+2012-1349(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1349(IT)G
+BETWEEN:
+C. J. McCARTY INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on November 3 and 4, 2014, at Thunder Bay, Ontario
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Brian R. MacIvor and Shannon Nelson
+Counsel for the Respondent:
+Paul Klippenstein
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2007 and 2008 taxation years are allowed and the reassessments are referred back to the Minister of the National Revenue for reconsideration and reassessment on the basis that the appellant did not carry on a personal services business as defined in subsection 125(7) of the Act. Party and party costs are awarded to the appellant.
+Signed at Edmonton, Alberta, this 12th day of August 2015.
+“K. Lyons”
+Lyons J.
+Citation: 2015 TCC 201
+Date: 20150812
+Docket: 2012-1349(IT)G
+BETWEEN:
+C. J. McCARTY INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lyons J.
+[1] C. J. McCarty Inc., the appellant (“CJ”), appeals the reassessments issued by the Minister of National Revenue (the “Minister”) made under the Income Tax Act (the “Act”) relating to the taxation years ending December 31, 2007 (“2007”) and December 31, 2008 (“2008”). CJ has been reassessed on the basis it carried on a “personal services business” within the meaning of subsection 125(7). Consequently, CJ is subject to the limited deductions available to its “incorporated employee” pursuant to paragraph 18(1)(p) and is not entitled to a small business deduction pursuant to subsection 125(1) of the Act.
+I. Issue [2] Bruce McCarty and Steve Blazino, the accountant, both testified on behalf of CJ and gave credible evidence.
+[3] The issue is whether CJ was a “personal services business” in 2007 and 2008 (“relevant time”). It is common ground that the case turns on whether Bruce McCarty “would reasonably be regarded as an … employee of [MEG Energy Corp. (“MEG”)] but for the existence of [CJ].”
+II. Facts [4] Between 1996 to 2000, Bruce McCarty was a consultant working on a large-scale project in Indonesia, however, he returned to Canada because of political unrest.
+[5] CJ was incorporated on June 5, 2001. It is owned by Bruce McCarty, his spouse, Nancy McCarty, and their daughter.[1] According to Mr. McCarty, he and Nancy were employees of CJ with his daughter working occasionally. He is the president and sole director of CJ and has 35 years’ experience in construction management working on large national and international projects. Its head office is located in Thunder Bay, Ontario. At the relevant time, CJ was a Canadian‑controlled private corporation.
+[6] Between 2001 to 2004, Mr. McCarty worked with Bantrel to carry out phase 1 of a construction project for Suncor to build a plant for a steam‑assisted gravity drain (“SAGD” – a new process that removes sand, previously mixed with bitumen and water, to produce a flowable liquid that is deposited into the pipeline). His role was to develop a construction management team by recruiting personnel and develop systems and procedures to proceed with construction. Whilst employed at Suncor, he met Bryan Weir, the Assistant Manager of the Projects Group.
+[7] Subsequently, CJ assisted Access Pipeline Inc. (“Access”) with a “stumble” that occurred in the same vicinity as the Suncor project. MEG was a partner and 50% shareholder of Access.
+[8] In need of experienced personnel, Bryan Weir, now VP Growth Projects for MEG, contacted Bruce McCarty to ascertain his availability relating to the construction of a refining facility at Christina Lake which is 130 kilometres from Fort McMurray, Alberta. Mr. Weir wanted to have a similar arrangement with Mr. McCarty as he did at Suncor. At the relevant time, MEG employed 150 people.
+[9] CJ decided that it would provide the construction management services (“services”) to MEG on the formation of three written “Consulting Agreements” effective from December 8, 2005 to January 3, 2007, April, 1, 2007 to March 31, 2008 and March 1, 2008 to December 31, 2008 (“Agreement 1”, “Agreement 2” and “Agreement 3”, respectively).[2] In each Agreement, a Principal Agreement, with the same date as the Agreement, is appended as Schedule “B.”
+[10] While there is some variation as between the three Agreements, the key provisions are materially similar. In these reasons, Agreement 2 will be used as the example with respect to the terms and conditions covering the three Agreements unless otherwise noted.
+[11] Article 2.1 provides that MEG agrees to engage CJ, the consultant, to provide the services during the term of the Agreement.
+[12] Article 4.2 sets out the nature of the Agreement and stipulates that all the services to be provided under the Agreement shall be performed by Mr. McCarty, the Principal, on behalf of CJ to MEG unless otherwise agreed to by MEG in writing.[3] The services, Mr. McCarty’s role and the requirements under the Agreement (reporting, insurance and expectations as to service delivery) are set out in Schedules “A” and “B” and Article 4, respectively.
+[13] Pursuant to Article 10.2, CJ is to require Mr. McCarty to execute the Principal Agreement under which he would be bound by and comply with certain terms, including Article 4, as if he was a signatory to the Agreement. CJ and MEG are signatories to all the Principal Agreements. Mr. McCarty only executed Agreement 3 in his personal capacity.
+[14] Bruce McCarty testified that Agreement 2 relates to building a $900 million pilot plant for the SAGD process. CJ reviewed engineering and schematic drawings and was responsible for contracting goods, subject to MEG’s approval, and determining the optimum package by trade and commodity. CJ would be responsible for setting up contracts with contractors – a multi-trade arrangement involving up to approximately 50 contractors – establishing time limits and linking in MEG’s purchasing manager. At the time of Agreement 2, 20 people worked on-site. By the time of Agreement 3, 1,500 people worked on-site for which accommodations and trailers had to be arranged by CJ.
+[15] He described Agreement 2 as a “clean contract” in that it identified an hourly fee of $154 per hour plus GST (it had been $125 in Agreement 1 and later increased to $164.55 under Agreement 3). He said that the hourly fee was not his number and was set by Mr. Weir to accord with industry standards. He also said that the increase in the hourly rate was the cost of business to reflect the standards and state of the industry. At one point, he suggested that the increase was in line with what MEG employees received but in re-direct he clarified that only MEG employees received raises, not contractors. The allowable hours per month were capped at 200 per month without authorization and he forewarned Mr. Weir that would be exceeded with a project of this magnitude. He testified that the cap was quite often exceeded.
+[16] Article 5.3 provides that “the Corporation shall also reimburse the Consultant for certain out-of-pocket expenses” including a certain number of return flights to Thunder Bay, lodging and rental vehicle expenses when residing in Calgary which are subject to verification, audit and adjustment by MEG if necessary.[4] Mr. McCarty indicated if he held a meeting, he billed for food. When in Calgary, he billed the cost of food. Renting a car depended on the location of his vehicle which was used to tour MEG’s jobsite at Christina Lake. A person at MEG would make his airline travel arrangements and if there was a spare seat on MEG’s plane, he would take it. Invoice and expense reports submitted by CJ to MEG for reimbursement disclose the above types of expenses and a cell phone.
+[17] CJ was obliged to invoice MEG for services rendered within the first week of the following month. Bruce McCarty stated that he prepared the invoices which his wife formalized and then sent to Mr. Weir with the expense receipts attached. She paid the bills, signed the cheques, kept track of bank and financial matters, prepared HST returns and worked with the accountant all of which took approximately 12 hours a month. In cross‑examination, he agreed that the invoices do not show any time allocated to his wife or his daughter nor were wages paid to them as employees.
+[18] Mr. Blazino, the accountant for CJ, corroborated in his testimony that Nancy provided the source documentation to the accounting firm and after various reviews, the accounting firm prepared the financial statements.
+[19] In computing income, CJ claimed small business deductions in the amounts of $48,959 and $60,194 and sought to deduct as ordinary business expenses the amounts of $97,143 and $105,004 (the “Expense Amounts”) for 2007 and 2008 as follows which included the out-of-pocket expenses:
+2007
+2008
+Meals and entertainment
+$8,587
+$17,492
+Amortization of tangible assets
+$807
+$787
+Bank charges
+$448
+$1,087
+Business taxes, licenses and
+membership
+$270
+$220
+Office expenses
+$1,543
+$2,360
+Professional fees
+$4,600
+$3,970
+Telephone and communications
+$2,850
+$5,388
+Travel expenses
+$62,508
+$54,966
+Vehicle expenses
+$15,530
+$18,734
+Total
+$97,143
+$105,004
+III. Position [20] CJ’s position is that Mr. McCarty could not reasonably be considered to be an employee of MEG. Consequently, CJ is an active business entitled to a small business deduction pursuant to subsection 125(1) and should not be characterized as carrying on a personal service business.
+[21] The respondent’s position is that CJ was a personal services business within the meaning of subsection 125(7). As such, CJ is prohibited from deducting the Expense Amounts as business expenses and is restricted to the types of expenses set out in paragraph 18(1)(p).[5]
+IV. Analysis [22] All statutory references in these reasons are to the provisions of the Income Tax Act and the provisions in force for the 2007 and 2008 taxation years.
+[23] Subsection 125(1) provides that a small business deduction may be taken by a corporation relating to “… amounts each of which is the income of the corporation for the year from an active business carried on in Canada …”
+[24] The definition of “active business carried on by a corporation” in subsection 125(7) “… means any business carried on by the corporation other than a specified investment business or a personal services business …”[6]
+[25] The term personal services business is also defined in subsection 125(7) and is the central focus of this appeal. That and the related provision in paragraph 18(1)(p), “… were enacted to deny certain tax advantages that may be obtained by providing services through a corporation, rather than personally” that would otherwise be available.[7] These provisions read as follows:
+248(1) Definitions. In this Act, …
+“personal services business” - “personal services business” has the meaning assigned by subsection 125(7); …
+…
+125(7) Definitions. In this section, …
+“personal services business” - “personal services business” carried on by a corporation in a taxation year means a business of providing services where
+(a) an individual who performs services on behalf of the corporation (in this definition and paragraph 18(1)(p) referred to as an “incorporated employee”), or
+(b) any person related to the incorporated employee is a specified shareholder of the corporation and the incorporated employee would reasonably be regarded as an officer or employee of the person or partnership to whom or to which the services were provided but for the existence of the corporation, unless
+(c) the corporation employs in the business throughout the year more than five full-time employees, or
+(d) the amount paid or payable to the corporation in the year for the services is received or receivable by it from a corporation with which it was associated in the year;
+…
+18(1) General limitations. In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+…
+(p) Limitation re personal services business expenses - an outlay or expense to the extent that it was made or incurred by a corporation in a taxation year for the purpose of gaining or producing income from a personal services business, other than
+(i) the salary, wages or other remuneration paid in the year to an incorporated employee of the corporation,
+(ii) the cost to the corporation of any benefit or allowance provided to an incorporated employee in the year,
+(iii) any amount expended by the corporation in connection with the selling of property or the negotiating of contracts by the corporation if the amount would have been deductible in computing the income of an incorporated employee for a taxation year from an office or employment if the amount had been expended by the incorporated employee under a contract of employment that required the employee to pay the amount, and
+(iv) any amount paid by the corporation in the year as or on account of legal expenses incurred by it in collecting amounts owing to it on account of services rendered
+that would, if the income of the corporation were from a business other than a personal services business, be deductible in computing its income;
+[26] The exclusions in paragraphs (c) and (d) of the provision pertaining to the application of a personal services business do not apply and are not in issue in this appeal.[8]
+[27] One implication in finding that there is a personal services business is that the corporate income from a personal services business is not an active business, therefore does not qualify for a small business deduction and is taxed at a higher rate than other business income.[9] Another implication is that in computing income of a personal services business, paragraph 18(1)(p) prohibits the deduction of an outlay or expense relating to an incorporated employee (or amounts expended by the corporation to collect accounts). Therefore, this paragraph applies only if the appellant carried on a personal services business.
+[28] The definition of a “personal services business” in subsection 125(7) requires that there be a “specified shareholder” of the corporation, defined in subsection 248(1) as any person who holds 10% or more of any class of shares of the corporation. Bruce McCarty’s shareholding of 40 voting shares in CJ clearly satisfies that requirement.[10]
+[29] The remaining requirement, in issue in this appeal, under subsection 125(7) in determining whether a corporation is a personal service business is:
+….whether the incorporated employee [Mr. McCarty] would reasonably be regarded as an officer or employee [MEG] …. but for the existence of the corporation [CJ]…[11]
+[30] CJ argued that the key to the definition “is a specified shareholder of the corporation and the incorporated employee” with the latter defined in paragraph 125(7)(a) as “an individual who performs services on behalf of the corporation.” Bruce McCarty was not only a specified shareholder but performed services on behalf of CJ in his capacity as president and as one of three employees of CJ that is an active business and should not be characterized as a personal service business. Therefore, but for the existence of CJ and based solely on the relationship between Bruce McCarty personally and MEG, the Court could reasonably conclude that he was not an employee of MEG and CJ is entitled to the small business deduction and the Expense Amounts claimed. CJ drew parallels between the present case and in Dynamic. As noted by the respondent, Dynamic is the leading case in the personal services business context as recently confirmed by the Federal Court of Appeal in Aniger Consulting Inc. v Canada, 2010 TCC 637, 2011 DTC 1039.
+[31] Clearly, the phrase “but for the existence” requires the Court to disregard the actual relationship of the parties, MEG and CJ, and determine what would have been done had a different relationship been set up as between Mr. McCarty and MEG.
+[32] As noted by Sharlow J. in Dynamic, the hypothetical question is a manifestation of the wording of paragraphs (b) and (c) of the definition. In considering whether Dynamic carried on a personal services business, the Court said that the principles in Wiebe Door Services Ltd. v. Canada (Minister of National Revenue – MNR), [1986] 3 FC 553 (FCA) [Wiebe Door] and 671122 Ontario Ltd. v Sagaz Industries Canada Inc., 2001 SCC 59, [2001] 2 SCR 983 [Sagaz] assists in characterizing whether the individual would reasonably be regarded as an employee of a third party purchaser of the services provided by the individual if his/her corporation’s role, rights and obligations were disregarded.
+[33] In Sagaz, the Supreme Court of Canada said that the central question is whether the individual who has been engaged to provide services to another is performing them as a person in business on his or her own account.[12] To decide that question, it is necessary to look at the factors, enunciated in Wiebe Door, of control, tools, whether the worker hires helpers, chance of profit and risk of loss. The relative weight of each of those factors depends on the facts of the case. Before turning to those factors, it is necessary to determine if intention is a factor in the application of the provision pertaining to personal services businesses.
+Intention [34] Article 3.1 in each Agreement indicates that CJ considers itself an independent contractor.
+[35] Initially, CJ and the respondent submitted that intention of the parties in entering the Agreement is irrelevant. CJ had argued that how the parties choose to describe themselves and their intention is not relevant for the Court’s consideration. Reliance was placed on the statement by Sharlow J., at paragraph 56, in Royal Winnipeg Ballet v Canada (Minister of National Revenue – MNR), 2006 FCA 87, 2006 DTC 6323 (FCA) that “… There is ample authority for the proposition that parties to a contract cannot change the legal nature of that contract merely by asserting that it is something else …”
+[36] Both parties referred to the decision of 609309 Alberta Ltd. v Canada, 2010 TCC 166, 2010 DTC 1136 [609309 Alberta Ltd.], in which Boyle J., at paragraph 23, states:
+23. In the context of a personal services business determination, the intention of the parties is not a helpful or relevant test for at least three reasons. …
+[37] First, this (anti-avoidance) provision is designed to deny tax advantages otherwise available. Second, a contract between the corporation purchasing and the corporation providing the services will always be a contract for services because a corporation can never be an employee under a contract of services; thus, intention would have been to enter into a contract for services. Third, the provision requires the Court to disregard the existence of the corporation and reasonably guess what the parties would have done otherwise.[13] In G & J Muirhead Holdings Ltd. v Canada, 2014 TCC 49, 2014 DTC 1067, Boyle J. reiterated that intent is irrelevant relating to the personal services business provision.
+[38] In W.B. Pletch Co. v Canada, 2005 TCC 400, 2006 DTC 2065, Hershfield J. found the parties’ intention to be a neutral factor without any bearing in the determination of the hypothetical question posed in the provision relating to the personal services business as “it is clear that the relationship targeted by the definition of ‘personal services business’ cannot simply be a matter of choice; …” The respondent argued that this anti-avoidance provision is designed to negate the parties’ choice.
+[39] Several recent decisions from this Court have also held that intent is not a relevant consideration in determining if a corporation is a personal services business.[14]
+[40] Having reflected on the decision in 1392644 Ontario Inc. (cob Connor Homes) v Canada (Minister of National Revenue – MNR), 2013 FCA 85, [2013] FCJ No. 327 (QL) (FCA) [Connor Homes], in reply submissions, CJ asserted that the intention of the parties, evidenced by the terms of the Agreement, is a relevant factor for consideration in the personal services business context. It viewed Connor Homes as providing a direction that subjective intent evidenced by objective indicia is to be applied more broadly than in the Employment Insurance Act and the Canada Pension Plan context. CJ relied on comments made at paragraph 37 of that decision that the employee-employer relationship has important legal and practical ramifications to tort law, social programs, labour relations and taxation (goods and services registration and status under the Act).
+[41] I agree with CJ’s statement of the principle in Connor Homes that subjective intent of the parties is measured by the objective criteria (in Sagaz and Wiebe Door) and add that the Court referred to a two-stage inquiry where intention is applied at one of the stages.
+[42] I disagree, however, that the principle applies in the context of the provision relating to a personal services business. The language and framing of that provision effectively renders the parties’ intent redundant - by ignoring CJ’s relationship with MEG as parties to the Agreements - to determine what Mr. McCarty and MEG would have done by virtue of positing the hypothetical question. Furthermore, the phrase “would reasonably be regarded as an … employee” is inconsistent with a subjective approach.
+[43] Significantly, in Dynamic, Sharlow J. did not consider the parties’ intention as a factor in determining that there was no personal services business even though the trial judge had addressed intention as a factor.
+[44] I conclude that intention between the parties does not assist with the characterization as to whether Mr. McCarty would reasonably be considered as an employee of MEG in the context of a personal services business.
+[45] Turning to the facts, the factors and the question to be determined that but for the existence of CJ, whether Mr. McCarty would reasonably be considered to be an employee of MEG.
+Control
+[46] The question is whether MEG had the right to control the manner in which Bruce McCarty performed his activities as a construction manager. CJ argued MEG did not have such right. The respondent argued that there are indicators of control. In my view, the evidence establishes that he was mostly self-directed in pursuit of the desired results without MEG exercising any meaningful control over his activities.
+[47] It is undisputed that Mr. McCarty has a specialized expertise and significant management construction experience. In such instances, the control test suggests that if the entity does not have the ability to tell the individual what to do or how to do it, it tends to support an independent contractor.
+[48] The services to be delivered are itemized in Schedule “A” of the Agreement. Each Agreement shows a finite period of time. Although there are some common elements across the Agreements (assist with construction plans, act as a representative at various meetings and provide advice on certain aspects), the description of services in paragraph 1 of Agreements 2 and 3 and paragraphs 1, 2 and 3 of Agreement 3 appear to be markedly different activities and projects which is apparent from the invoicing. This could be construed as Mr. McCarty being available to MEG to do what MEG wanted or could equally be construed as him being able to select assignments offered.[15] The evidence on this aspect was not sufficiently detailed. I find this to be a neutral element.
+[49] Article 4.1(b) of Agreement 3 provides that CJ shall provide the services during MEG’s usual business hours. Whilst that suggests some control, when Mr. McCarty was cross-examined about this, he said that was “laughable” as construction occurs 24 hours a day on major sites and with 1,500 people, problems can occur at any time of the day or night. I find that MEG did not dictate any hours of work. This diminishes the characterization of an employee working usual business hours.
+[50] Even though exclusivity was not required by MEG under the Agreement, the work had been done exclusively for MEG because of the magnitude of the project. Mr. McCarty said projects of such magnitude seldom come along. Under the Agreement, he had the right to work for third parties but acknowledged that was subject to being available to deal with MEG’s problems and no conflicts of interest pertaining to the obligations with MEG. The right to work for others points away from an employee relationship.
+[51] Although Mr. McCarty spoke with Mr. Weir twice monthly, met him on site when visiting Calgary and a three or four-page monthly progress report went to his desk plus specific reports for awarding contracts. He said that Mr. Weir was inexperienced, often absent and provided little direction. Article 3.2 of each Agreement states that MEG only directed the results to be achieved from the provision of services and not the method nor manner of achieving such results. This is borne out by Mr. McCarty’s evidence that he was told to “go build it” and “get it built” but was not told what to do nor how to accomplish the desired results. He said “No one told him what to do”. The reporting mechanism is a form of control and suggestive of an employee, however, in moving to the desired results, he was left largely to his own devices. This is more conducive with an independent contractor carrying on business on his own account.
+[52] Overall, I find that there was no meaningful degree of control by MEG over Mr. McCarty’s work activities. This factor tilts in favour of an independent contractor.
+Integration
+[53] Integration is based on mutual reliance of the organization (because it needs an individual) and the benefits flowing to the individual.
+[54] CJ asserted that the fact that a corporation monopolizes the services of an individual over a lengthier period of time, as noted by the Court in Dynamic, is not necessarily indicative that an employer-employee relationship is being forged. In Dynamic, the Court also considered the history of the individual’s business.
+[55] During the currency of the Agreements, CJ could have worked for third parties but provided services solely to MEG because of the scale of the project and the demands on Mr. McCarty’s time similar to Dynamic. One of the Agreements was for approximately nine months and the others were for a year. Upon returning from overseas, he saw an opportunity and incorporated in 2001 and began providing his construction management services through CJ. Subsequent to the conclusion of Agreement 1 but before the commencement of Agreement 2, CJ was engaged in activities with Access for services rendered in January and February and in March 2007, unrelated to the three Agreements.[16] He was asked, in cross-examination, when his responsibilities at MEG would end and responded by saying at the end of the project which he later clarified as when the “final certificate” was issued except for warranty work for MEG. At the time of the hearing, CJ continued to subsist.
+[56] There was no evidence that prior to Agreement 1 being entered into, that a relationship existed previously between him and MEG. He also indicated that MEG employed a construction manager and there were other contractors that worked on MEG’s site.
+[57] It is reasonable to conclude that at the relevant time, the services he provided to MEG would have been provided as an independent contractor and was not integral to MEG’s business.
+Tools
+[58] CJ asserted that no tools were provided by Dynamic to Mr. Martindale.
+[59] Mr. McCarty confirmed that CJ included in the amounts charged to MEG, his out-of-pocket expenses for travel, rental vehicles, accommodations, meals and flights, as previously identified, for which CJ paid and MEG then reimbursed, and in some instances, MEG arranged the travel for him directly. Expenses for automotive, telephone and travel combined that were billed by CJ amount to $105,000 and $97,000 in 2007 and 2008, respectively. Of those amounts, $96,000 and $89,000, respectively, were reimbursed by MEG. When he was at the jobsites at Christina Lake, he stayed at MEG’s bunkhouse and ate at MEG’s mess hall.
+[60] The tools and equipment used by Mr. McCarty, being a cell phone, a computer with Primavera software licensed to MEG or a MEG engineer to access MEG’s reports that were needed to provide his services were owned by MEG.
+[61] The equipment provided by CJ or him consisted of a brief case, pens, pencils, stationery, clothing for chemical spills and his personal cell phone. He also used his own vehicle when at Christina Lake to tour the jobsites and go to the site office.
+[62] There was a contribution of tools in varying degrees by CJ, Mr. McCarty and MEG. Weighing this factor leans slightly in favour of Mr. McCarty being reasonably regarded as an employee.
+Helpers
+[63] The respondent argued that the Agreement with MEG required Bruce McCarty to perform the services personally as illustrated in Article 4.2. Article 10.2 is also key in that it states that “The Consultant shall require the Principal to execute a Principal Agreement in the form attached hereto as Schedule “B”, whereby the Principal agrees to be bound by, and to comply with, the terms of Article 3, Article 4, Article 7 and Article 8 of the Agreement, with the same force and effect as if the Principal was a signatory to the Agreement.”
+[64] The Principal Agreement indicates that having read and understood the Agreement, Mr. McCarty agrees to be bound by the same obligations that CJ had agreed to under the Agreement with MEG, as if he had been a signatory to the Agreement and is to fully comply with all terms, conditions and be subject to any restrictions even if the Agreement is terminated. Mr. McCarty said that he had signed the Agreement on behalf of CJ, but he did not do so in his personal capacity nor did he consider himself bound. He had only signed Agreement 3 in his personal capacity albeit he did abide by the terms of the Agreements having provided services and sent invoices.
+[65] He further indicated that even though he is the Principal and was to perform all the services, it was impossible as he could not do it all on his own and the contract was to be one part of a group of people and that was not the reality of the way it worked. During cross-examination, however, he admitted that his wife and daughter were not on the “payroll” and were not paid wages for their services. Instead, CJ paid dividends to all three. This was corroborated in the cross‑examination of Mr. Blazino who confirmed that no salary, wages and no employee benefits or allowances were recorded as an expense on the income and expense statements for CJ. He indicated that he was not part of the decision as to why wages were not claimed.
+[66] Under Article 3.4, CJ needed the prior consent of MEG to subcontract services. For example, in order for Mr. McCarty’s wife to provide assistance to him to carry out the services, approval would have been needed from MEG. Article 4.1(g) says that CJ “shall not subcontract the provision of any Services without prior consent of the Corporation.” Article 10.7 reads “The Agreement may not be assigned by the consultant or the services hereunder subcontracted without the prior written consent of the Corporation.”
+[67] The fact that no wages were paid and there was no evidence that MEG had consented, is inconsistent with his assertion that Nancy and their daughter were employees of CJ at the relevant time. I find that others were not permitted under the Agreement to do any work unless approved by MEG and Mr. McCarty was to provide the contracted services.
+[68] The evidence relating to this factor leans towards an employee status.
+Chance of profit and risk of loss
+[69] The chance of profit and risk of loss factor is intended to reveal whether the activities of Mr. McCarty provided him with the opportunity for profit in the performance of his activities entailing the kind of risks that are more typical of those borne by a business entity rather than an employee.
+[70] The respondent argued that the opportunity for profit was solely a function of the hours worked times the hourly rate which was further limited by MEG having the right to not authorize anything over 200 hours per month (initially by Agreement and later by practice).
+[71] CJ was remunerated for the services provided to MEG for a specified hourly fee. Typically, this is associated with an employee. However, the Court in Dynamic, at paragraph 56, noted that the “cost-plus” hourly rate basis contract is commonly used by a subcontractor carrying on a construction management business.[17] The Court found that it was normal in that line of work and because Mr. Martindale was not remunerated on a timely basis, had to assist with warranties and one other aspect of the remuneration, that this was untypical and pointed away from an employment relationship even though Mr. Martindale had received an hourly fee, overtime and a bonus.
+[72] Mr. McCarty did not receive overtime or a bonus. He confirmed that he did not receive health benefits or pension plans similar to other MEG employees. He said that senior people that he dealt with at MEG received stock options. He did not. Weighing these factors leans towards an independent contractor.
+[73] Initially, he said that increases were the cost of doing business and industry standards, then suggested these were tied to increases that MEG’s employees had received and later clarified that only MEG’s employees received raises. This evidence is inconclusive.
+[74] While the 200-hour cap can be viewed as a limit, it can also be viewed as opportunity especially since he had forewarned Mr. Weir of his expectation that it would be easily exceeded on such a project. His evidence was that it was often exceeded. In my view, the 200-hour cap is an unusual feature of his remuneration and not typical of an employment scenario.
+[75] Mr. McCarty testified that he had encountered delays in payment and if Mr. Weir was away, matters would sit on his desk though he expected that eventually he would be paid. Mr. Blazino testified that at the end of December 2007, the amount of $20,765 was outstanding in the accounts receivable which had been invoiced at the end of December 2007 and had not been received by CJ.
+[76] The normalcy of an hourly rate in that line of business and the manner he was remunerated (hourly rate, the cap, no fringe benefits similar to MEG’s employees, the delays in payment and the expectation of performing warranty work), diminishes the characterization that he would reasonably be regarded as an employee.
+[77] CJ had argued that the risk elements as to the liability, the risk of not getting paid or the delay in payment were the elements that point to an independent contractor status. It referred to the situation in Dynamic in which there was uncertainty as to the specific insurance coverage, that no insurance contract or confirmation was entered into evidence and that Mr. Martindale’s (here Mr. McCarty’s) belief was that Dynamic (here CJ) was insured under S.I.L.L.’s (here MEG’s) policy did not prevent the Court from determining it was not a personal services business.
+[78] In the present case, Article 4.1(i) of the Agreement required that general liability insurance of $2 million and motor vehicle insurance of $1 million be maintained unless it was waived in writing by MEG. Mr. McCarty denied that the handwritten notation “waived” adjacent to that Article was his.[18] I accept his evidence on that.
+[79] Significantly, Mr. McCarty testified that the risk of a “stumble” in the context of an $800 to $900 million project weighed heavily on CJ with the risk of everyone being sued, CJ and Mr. McCarty included. I am satisfied with that explanation and his testimony that contractors would not be allowed on MEG’s site without insurance, lends credence to his belief that insurance had been arranged with a small company in southern Alberta, albeit no documentary evidence was produced. I infer that some insurance had been arranged whether through CJ’s efforts or by MEG similar to S.I.L.L. in Dynamic.
+[80] In addition to the risk of being sued, if Mr. McCarty’s performance impacted MEG’s performance, the provisions would end CJ’s contract.
+[81] The amount billed for expenses and reimbursed in the present case posed little risk of loss relating to the expenses.
+[82] Based on the manner of remuneration and the exposure to the risks, it would be reasonable to conclude that the services Bruce McCarty provided to MEG would have been provided as an independent contractor on his own account.
+[83] On the totality of the evidence, the weight of factors is tipped towards an independent contractor and it would not be reasonable to conclude that, but for the existence of CJ, that Mr. McCarty would have provided his services to MEG as an employee.
+[84] Having reached that conclusion, it is unnecessary to consider paragraph 18(1)(p) and CJ is entitled to the Expenses Amounts as business expenses.
+[85] On the balance of probabilities, I conclude that but for the existence of CJ, Mr. McCarty would reasonably be viewed as a person performing services for MEG as a person carrying on a business on his own account. CJ, therefore, did not carry on a personal services business in 2007 and 2008 as defined in subsection 125(7) of the Act.
+[86] The appeals are allowed.
+[87] Party and party costs are awarded to the appellant.
+Signed at Edmonton, Alberta, this 12th day of August 2015.
+“K. Lyons”
+Lyons J.
+CITATION:
+2015 TCC 201
+COURT FILE NO.:
+2012-1349(IT)G
+STYLE OF CAUSE:
+C. J. McCARTY INC. and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Thunder Bay, Ontario
+DATE OF HEARING:
+November 3 and 4, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K. Lyons
+DATE OF JUDGMENT:
+August 12, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Brian R. MacIvor and Shannon Nelson
+Counsel for the Respondent:
+Paul Klippenstein
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Brian R. MacIvor and Shannon Nelson
+Firm:
+MacIvor Harris LLP
+Thunder Bay, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Schedule 50 indicates 50 non-voting shares for Nancy and 20 non-voting shares for their daughter.
+[2] Exhibit A-2, Tabs 9, 8 and 7 respectively. Agreements 2 and 3 overlap and appear to be incorrectly dated.
+[3] This is reinforced in Exhibit A-2, Tab 8 – Agreement 2 - Articles 4.1(g) and 10.7.
+[4] Exhibit A-2, Tab 8 – Agreement 2 - Article 5.3.
+[5] As a consequence of the disallowed Expense Amounts, the Minister made adjustments in reducing the following amounts to nil:
+2007
+2008
+Amortization of tangible assets
+$807
+$787
+Non-deductible meals and entertainment
+$4,294
+$8,746
+Capital cost allowance
+$1,147
+$1,026
+[6] 125(7) … “active business carried on by a corporation” - “active business carried on by a corporation” means any business carried on by the corporation other than a specified investment business or a personal services business and includes an adventure or concern in the nature of trade.
+[7] Dynamic Industries Ltd. v Canada, 2005 FCA 2011, 2005 DTC 5293 (FCA) [Dynamic], at paragraph 3 provides the historical context.
+[8] The exclusions are in paragraphs (c) and (d) of the definition of personal services business because in 2007 and 2008, CJ did not have more than five full-time employees and CJ and MEG are not “associated corporations” within the meaning of subsection 256(1) of the Act.
+[9] 125(1) Small business deduction. There may be deducted from the tax otherwise payable under this Part for a taxation year by a corporation that was, throughout the taxation year, a Canadian-controlled private corporation, an amount equal to the corporation’s small business deduction rate for the taxation year multiplied by the least of
+(a) the amount, if any, by which the total of
+(i) the total of all amounts each of which is the income of the corporation for the year from an active business carried on in Canada (other than the income of the corporation for the year from a business carried on by it as a member of a partnership), and
+(ii) the specified partnership income of the corporation for the year
+exceeds the total of
+(iii) the total of all amounts each of which is a loss of the corporation for the year from an active business carried on in Canada (other than a loss of the corporation for the year from a business carried on by it as a member of a partnership), and
+(iv) the specified partnership loss of the corporation for the year,
+(b) the amount, if any, by which the corporation’s taxable income for the year exceeds the total of
+(i) 10/3 of the total of the amounts that would be deductible under subsection 126(1) from the tax for the year otherwise payable under this Part by it if those amounts were determined without reference to sections 123.3 and 123.4,
+(ii) 10/4 of the total of the amounts that would be deductible under subsection 126(2) from the tax for the year otherwise payable under this Part by it if those amounts were determined without reference to section 123.4, and
+(iii) the amount, if any, of the corporation’s taxable income for the year that is not, because of an Act of Parliament, subject to tax under this Part, and
+(c) the corporation’s business limit for the year.
+Pursuant to subsection 125(1.1) business income that is active business income reduces the federal corporate income tax rate by 16% in 2007 and 17% in 2008. Subsection 125(1.1) reads as follows:
+125(1.1) Small business deduction rate. For the purpose of subsection (1), a corporation’s small business deduction rate for a taxation year is the total of
+(a) that proportion of 16% that the number of days in the taxation year that are before 2008 is of the number of days in the taxation year,
+(b) that proportion of 17% that the number of days in the taxation year that are after 2007 is of the number of days in the taxation year.
+(c) [Repealed.])
+[10] “specified shareholder” of a corporation in a taxation year means a taxpayer who owns, directly or indirectly, at any time in the year, not less than 10% of the issued shares of any class of the capital stock of the corporation or of any other corporation that is related to the corporation and, for the purposes of this definition,
+(a) a taxpayer shall be deemed to own each share of the capital stock of a corporation owned at that time by a person with whom the taxpayer does not deal at arm’s length,
+(b) each beneficiary of a trust shall be deemed to own that proportion of all such shares owned by the trust at that time that the fair market value at that time of the beneficial interest of the beneficiary in the trust is of the fair market value at that time of all beneficial interests in the trust,
+(c) each member of a partnership shall be deemed to own that proportion of all the shares of any class of the capital stock of a corporation that are property of the partnership at that time that the fair market value at that time of the member’s interest in the partnership is of the fair market value at that time of the interests of all members in the partnership,
+(d) an individual who performs services on behalf of a corporation that would be carrying on a personal services business if the individual or any person related to the individual were at that time a specified shareholder of the corporation shall be deemed to be a specified shareholder of the corporation at that time if the individual, or any person or partnership with whom the individual does not deal at arm’s length, is, or by virtue of any arrangement may become, entitled, directly or indirectly, to not less than 10% of the assets or the shares of any class of the capital stock of the corporation or any corporation related thereto, and
+(e) notwithstanding paragraph (b), where a beneficiary’s share of the income or capital of the trust depends on the exercise by any person of, or the failure by any person to exercise, any discretionary power, the beneficiary shall be deemed to own each share of the capital stock of a corporation owned at that time by the trust;)
+[11] If the Court determines that Bruce McCarty could reasonably be considered as an employee of MEG, the respondent’s position prevails, the reassessments stand and the appellant would be disentitled from obtaining the two reduced rates for taxation in subsection 125(1.1) and it would be prohibited by paragraph 18(1)(p) from deducting the Expense Amounts as business expenses.
+[12] Sagaz, supra, at paragraphs 46 and 47.
+[13] 609309 Alberta Ltd., supra, at paragraph 23.
+[14] See also 1166787 Ontario Ltd. v Canada, 2008 TCC 93, 2008 DTC 2722, 758997 Alberta Ltd. v Canada, 2004 TCC 755, 2004 DTC 3669 and Gomez Consulting Ltd. v Canada, 2013 TCC 135, 2013 DTC 1125.
+[15] Exhibit A-2, Tab 8 – Agreement 2 - paragraph 1 of Schedule “A”.
+[16] Exhibit A-1, Tabs 6 and 8.
+[17] Dynamic had rendered construction management services, performed by Mr. Martindale, to S.I.L.L. between 1995 to 1999 on a substantial project and for two of those years, the services were performed solely for S.I.L.L. Living expenses were also reimbursed. Dynamic indicated that the amount of work available to it meant that it need not look elsewhere.
+[18] MEG’s corporate counsel stated that there is no record of it being waived.

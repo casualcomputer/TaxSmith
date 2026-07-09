@@ -1,0 +1,132 @@
+Title: Lachance c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/99429/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-337-99429-lachance-c-la-reine.md
+Document type: case_law
+Last modified: 2014-11-14
+
+# Lachance c. La Reine
+
+- Citation: 2014 CCI 337
+- Decision date: 2014-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5269, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lachance c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-11-14
+Référence neutre
+2014 CCI 337
+Numéro de dossier
+2012-4023(GST)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-4023(GST)G
+ENTRE :
+RENAUD LACHANCE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 9 septembre 2014, à Montréal (Québec)
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l'appelant :
+Me Benoit Aubertin
+Avocat de l'intimée :
+Me Philippe Gilliard
+JUGEMENT
+L’appel est accueilli avec dépens et la cotisation est annulée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2014.
+« B.Paris »
+Juge Paris
+Référence : 2014 CCI 337
+Date : 20141113
+Dossier : 2012-4023(GST)G
+ENTRE :
+RENAUD LACHANCE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L’appelant interjette appel à l’encontre d’une cotisation fondée sur la responsabilité des administrateurs établie à son égard au titre de l’article 323 de la Loi sur la taxe d’accise (la « LTA ») pour la TPS que la société 9145‑4587 Québec inc. (« 9145 ») a omis de verser, ainsi que les intérêts et les pénalités y afférents, pour la période du 1er mars 2007 au 30 juin 2008. La cotisation s’élève à 11 674,96 $.
+[2] Les questions dont la Cour est saisie sont les suivantes :
+i) la question de savoir si la cotisation a été établie plus de deux ans après que l’appelant eut cessé d’être administrateur de 9145 et, le cas échéant;
+ii) la question de savoir si l’appelant a fait preuve de diligence raisonnable pour prévenir le défaut, par 9145, de verser les sommes dues.
+Contexte [3] La société 9145 exploitait une entreprise de cloisons sèches au cours des périodes en question. La société a été fondée en 2005 par Jean Paul Maheux, un ami de longue date de l’appelant. Ce dernier travaillait pour 9145 en tant que tireur de joints et, en mai 2006, il est devenu administrateur et actionnaire à 49 % de la société. Apparemment, M. Maheux lui avait demandé de devenir administrateur pour se conformer à certaines exigences administratives. Peu d’éléments de preuve donnent à penser que l’appelant a joué un rôle actif dans l’administration de 9145, si ce n’est que signer des chèques et quelques documents. Il n’y a pas eu de réunions des administrateurs, et M. Maheux s’occupait de l’ensemble de la gestion et des finances de l’entreprise.
+[4] L’appelant a continué de travailler comme employé de la société après en être devenu actionnaire et administrateur. Il a témoigné qu’en décembre 2007, il avait avisé M. Maheux qu’il quittait la société et qu’il lancerait sa propre entreprise au début de février 2008. L’appelant avait apparemment pris cette décision en raison de préoccupations qu’il avait concernant la façon dont M. Maheux avait géré les finances d’une autre entreprise exploitée par ce dernier.
+[5] L’appelant a concédé en contre‑interrogatoire qu’il avait continué à travailler comme employé de 9145 jusqu’à la fin du mois de mai 2008 pour terminer les travaux prévus dans un contrat que la société avait conclu avec Québecor. Cependant, il a mentionné qu’il avait aussi enregistré et commencé à exploiter sa propre entreprise, « Joint Ruby », le 1er février 2008, laquelle date a été confirmée par un extrait du Registre des entreprises produit en preuve. L’appelant a aussi dit que sa démission en tant qu’administrateur n’avait été enregistrée auprès du Registraire des entreprises que le 10 février 2009 parce que M. Maheux n’était jamais disponible pour signer les formulaires nécessaires au bureau de l’avocat.
+[6] La preuve de l’appelant concernant le fait qu’il a quitté la société en février 2008 a été corroborée par M. Maheux, dans une lettre datée du 11 février 2011 adressée à Revenu Québec et dans son témoignage devant la Cour.
+[7] M. Maheux a aussi confirmé que l’appelant avait signé un grand nombre de chèques en blanc avant de quitter la société en février 2008 afin que M. Maheux puisse payer les factures après son départ, étant donné que le compte exigeait que les signatures des deux hommes figurent sur les chèques de la société. M. Maheux a utilisé ces chèques jusqu’à ce que le compte bancaire soit modifié pour que seulement sa signature soit requise sur les chèques.
+[8] M. Maheux a aussi mentionné que c’était à cause de lui que la modification au registre des administrateurs de la société n’avait été envoyée que longtemps après que l’appelant eut cessé de jouer un rôle dans la société. Il a dit qu’il ne s’en était tout simplement jamais chargé.
+[9] Pour l’application du paragraphe 323(5) de la LTA, le moment auquel un administrateur cesse d’exercer ses fonctions doit être déterminé en fonction de la loi constitutive de la société. En l’espèce, 9145 a été constituée sous le régime de la Loi sur les compagnies du Québec, RLRQ, ch. C-38, qui dispose, à l’article 123.76, qu’un administrateur « peut résigner ses fonctions en donnant un avis à cet effet ». Il n’est pas nécessaire que la démission soit par écrit.
+[10] J’accepte le témoignage de l’appelant et de M. Maheux concernant la démission de l’appelant à titre d’administrateur de la société. Leur témoignage était cohérent et plausible et j’ai jugé qu’ils étaient des témoins crédibles. Leur témoignage concorde aussi avec la preuve documentaire présentée à l’audience. Plus particulièrement, je souligne que, bien que l’appelant et M. Maheux aient tous les deux signé les états financiers de la société en tant qu’administrateurs pour l’exercice ayant pris fin le 31 août 2007, seul M. Maheux a signé les états financiers pour l’exercice ayant pris fin le 31 août 2008. Selon moi, cela donne clairement à penser que, à partir de ce moment‑là, l’appelant n’exerçait plus la fonction d’administrateur de la société. Je souligne également que M. Maheux a rédigé la lettre du 11 février 2011 au détriment de ses propres intérêts, étant donné que cela l’amène à être le seul administrateur de la société responsable de la TPS impayée. À mon avis, cela rend le contenu de cette lettre encore plus digne de foi.
+[11] Je ne suis pas convaincue que l’intimée peut se fonder sur la présomption figurant à l’article 62 de la Loi sur la publicité légale des entreprises individuelles, des sociétés et des personnes morales (RLRQ, ch. P-45), qui est libellé ainsi :
+62. Les informations relatives à chaque assujetti font preuve de leur contenu en faveur des tiers de bonne foi à compter de la date où elles sont inscrites à l’état des informations. Les tiers peuvent par tout moyen contredire les informations contenues dans une déclaration ou dans un document transféré au registraire en vertu de l’article 72, 72.1 ou 73.
+Ces informations sont les suivantes:
+1° le nom de l’assujetti;
+2° tout autre nom qu’il utilise au Québec;
+3° la mention à l’effet qu’il est une personne physique qui exploite une entreprise ou, le cas échéant, la forme juridique qu’il emprunte en précisant la loi en vertu de laquelle il est constitué;
+4° son domicile;
+5° le domicile qu’il élit aux fins de l’application de la présente loi avec mention du nom du destinataire;
+6° le nom et le domicile de chaque administrateur avec mention de la fonction qu’il occupe;
+7° le nom et le domicile du président, du secrétaire et du principal dirigeant, lorsqu’ils ne sont pas membres du conseil d’administration, avec mention des fonctions qu’ils occupent;
+8° le nom et l’adresse de son fondé de pouvoir;
+9° le nom, l’adresse et la qualité de la personne visée à l’article 5;
+10° l’adresse des établissements qu’il possède au Québec en précisant celle du principal;
+11° la date à laquelle il prévoit cesser d’exister;
+12° le nom et le domicile de chaque associé avec mention qu’aucune autre personne ne fait partie de la société en distinguant, dans le cas d’une société en commandite, les commandités des commanditaires connus lors de la conclusion du contrat;
+13° l’objet poursuivi par la société;
+14° le nom de l’État où il a été constitué et la date de sa constitution;
+15° le nom de l’État où la fusion ou la scission dont la personne morale est issue s’est réalisée, la date de cette fusion ou scission ainsi que le nom, le domicile et le numéro d’entreprise de toute personne morale partie à cette modification;
+16° la date de sa continuation ou de toute autre transformation.
+L’assujetti dont l’immatriculation a été radiée d’office ne peut mettre en question les informations visées au premier alinéa et contenues à l’état des informations.
+[12] L’intimée a fait valoir que, parce que, dans le Registraire des entreprises, le nom de l’appelant figurait encore comme administrateur de la société jusqu’au 10 février 2009, elle avait le droit de se fonder sur ces renseignements. Cependant, la présomption de validité de ces renseignements est réfutable. Voir la décision France Martel c. MRN, 2012 CCI 374, dans laquelle ma collègue la juge Lamarre a fait observer ce qui suit :
+[35] Par ailleurs, notre cour a déjà décidé que la présomption de l’article 98 Lpl (anciennement l’article 62 de la Loi sur la publicité légale des entreprises individuelles, des sociétés et des personnes morales, L.R.Q., ch. P-45) est réfutable (Miklosi (Succession de) c. La Reine, 2004 CCI 253, au par. 24; Sandhu c. La Reine, 2009 CCI 175, au par. 47). Ces dernières décisions ont été rendues alors que la Cour devait déterminer si des contribuables dont le nom apparaissait au REQ comme des administrateurs de leurs sociétés étaient, dans les faits, réellement des administrateurs dans le contexte de la responsabilité des administrateurs pour des dettes fiscales de ces sociétés. Ceci peut s’expliquer du fait que les administrateurs ne sont pas eux-mêmes responsables des inscriptions erronées au REQ puisqu’il revient à la société de faire ces inscriptions. Peut-on en dire autant des associés d’une SENC, celle-ci n’ayant pas de personnalité juridique distincte?
+[13] Pour les motifs que j’ai déjà exposés, je conclus que l’appelant a réfuté la présomption selon laquelle il était un administrateur jusqu’au 10 février 2009. Je suis également convaincu qu’il s’est acquitté de son obligation de prouver qu’il avait cessé d’être un administrateur plus de deux ans avant l’établissement de la cotisation le 28 octobre 2010. Par conséquent, je conclus que la cotisation a été établie après l’expiration du délai prévu au paragraphe 323(5) de la LTA.
+[14] Compte tenu de cette conclusion, il n’est pas nécessaire que j’examine l’argument subsidiaire de l’appelant concernant la diligence raisonnable.
+[15] L’appel est accueilli et la cotisation est annulée. L’appelant a droit aux dépens partie‑partie.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2014.
+« B.Paris »
+Juge Paris
+RÉFÉRENCE :
+2014 CCI 337
+Nº DU DOSSIER DE LA COUR :
+2012-4023(GST)G
+INTITULÉ DE LA CAUSE :
+RENAUD LACHANCE ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 9 septembre 2014
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge B. Paris
+DATE DU JUGEMENT :
+le 13 novembre 2014
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Benoit Aubertin
+Avocat de l'intimée :
+Me Philippe Gilliard
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Me Benoit Aubertin
+Cabinet :
+De Chantal, D’Amour, Fortier
+Longueil (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

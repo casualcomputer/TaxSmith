@@ -1,0 +1,164 @@
+---
+title: "Kardaras v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71438/index.do"
+last_modified: "2014-05-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 135"
+citation2: ""
+neutral_citation: "2014 TCC 135"
+decision_date: "2014-05-06"
+language: "en"
+item_id: "71438"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5299
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:47:15.886000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8ad963f7cbfcb30f78de5f2b601dd5ed3c4105643a936b034b555165588b6df3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kardaras v. The Queen
+
+- Citation: 2014 TCC 135
+- Decision date: 2014-05-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5299, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kardaras v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-05-06
+Neutral citation
+2014 TCC 135
+File numbers
+2013-3607(GST)I
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-3607(GST)I
+BETWEEN:
+STAVROULA KARDARAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 21 and May 2, 2014, at Toronto, Ontario
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+Counsel for the Appellant:
+Norman MacDonald
+Counsel for the Respondent:
+Alisa Apostle
+JUDGMENT
+The appeal with respect to an assessment made under the Excise Tax Act by Notice of Assessment dated March 31, 2010 is dismissed.
+Signed at Ottawa, Canada, this 6th day of May 2014.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation: 2014 TCC 135
+Date: 05062014
+Docket: 2013-3607(GST)I
+BETWEEN:
+STAVROULA KARDARAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Pizzitelli J.
+[1] The Appellant was assessed for the amount of $17,363.39 in respect of GST and accrued interest and penalties, pursuant to subsection 325(1) of the Excise Tax Act (the “Act”), owing by her husband, P, as the result of the transfer of real property from P to her at which time of transfer P had a tax debt of $13.145.64.
+[2] The Appellant’s husband, P, took sole title to a property described as 1395 Danforth Road in Toronto, Ontario (the “Property”) on August 7, 1987, purchased for $382,500 which was used as a rental property. On March 22, 2004, P transferred title of the Property to the Appellant alone, at a time when P was indebted to the Minister in the amount of $13,145.64 for GST, penalties and interest outstanding thereon. The GST owing was a result of assessed filings made by P for his sole proprietorship limousine business. The Minister assumed that the fair market value of the Property at the date of transfer to the Appellant was $334,000 and that there was a mortgage on title not exceeding $295,000, so that net value of the Property was $39,000 and there is no dispute as to those amounts. The Minister also assumes that the Appellant already had beneficial title to one-half of the Property so assumed a net amount of $19,500 was transferred to the Appellant without consideration, obviously an amount in excess of the tax indebtedness owing in any event.
+[3] The Appellant takes the position that she was the beneficial owner of the Property from the start on the basis that her husband held the Property in trust for her from the start and that there was therefore no transfer of any beneficial ownership by the transfer of March 22, 2004 . In the alternative, the Appellant takes the position that her husband is indebted to her for far in excess of $19,500, namely of approximately $477,000 as a result of the Appellant’s claim that she paid all mortgage payments, taxes and insurance charges in respect of the Property from the date of its purchase to the date of the transfer and hence argues there was both a constructive and resulting trust in her favour, or in the further alternative, that there was consideration in excess of $19,500 paid for the transfer due to her husband’s indebtedness for his share of the mortgage and insurance payments owed to her as debt.
+[4] The Respondent takes the position the Property was solely in the husband’s name, that the Appellant was a joint owner and that neither a legal nor a constructive or resulting trust existed with respect to the disputed husband’s interest nor was there any consideration paid for the transfer.
+The Law [5] Subsection 325(1) imposes a joint and several liability for unpaid GST on a transferee of property from a transferor if 4 conditions, as they relate to the facts here, are met:
+1. there must be transfer of property;
+2. the transferor and transferee must have been dealing at arm’s length or not have been spouses or common law partners;
+3. there must have been no consideration or inadequate consideration given by the transferee to the transferor; and
+4. the transferor must have been liable to pay or remit an amount under this Act for the reporting period in which the transfer occurs or any preceding reporting period.
+[6] There is no dispute the Appellant’s husband as transferor was indebted to the Canada Revenue Agency in the amount of $13,145.64 at the time the transfer was registered on March 22, 2004, so it is clear that condition 4 above has been met.
+[7] There is also no dispute the Appellant as transferee was at the time of transfer, and still is, the legal spouse of the transferor, so it is clear the condition 2 above has been met.
+[8] While there is no question or dispute that the Appellant’s spouse transferred his entire interest in the Property to the Appellant on March 22, 2004, as evidenced by the transfer registered on title in the Appellant’s favour, the Appellant, as stated above, does however dispute that there was any transfer of beneficial title to the Property as she states her husband held it in trust for her since its original purchase date or that his interest was held for her under the doctrines of constructive or resulting trust, or in the alternative argues she paid consideration for the transfer of the Property, so it is clear that the parties dispute whether the conditions in 1 and 3 above have been met.
+[9] I propose to analyse the facts relating to whether a transfer occurred first, which addresses the specific issues as to whether the Appellant either already held the Property as sole beneficial owner under a direct trust or resulting trust and then will proceed with an analyses as to whether she paid adequate consideration or not for the Property due to a constructive trust or loan.
+1. Was there a Transfer? [10] The evidence shows that when initial title to the Property was acquired in 1987 the Deed was registered solely in the name of the Appellant’s husband, P. The Appellant however argues that $130,000 of the initial $382,500 purchase price was represented by a dowry given by her parents to enable the couple to buy the rental Property for her sole benefit to ensure her future security and that this is supported by the evidence showing a transfer of such amount to their lawyers trust account by cheque from the Appellant’s father, as well as the fact that the Appellant’s name was crossed out on the Deed, suggesting her name did not make it on the Deed by mistake. The Appellant also points to the fact that a Schedule to the original Agreement of Purchase and Sale to acquire the Property was in the name of her father, not the husband, for the reason she testified that the initial intention was that the Property be for her benefit. The Appellant also points to a document dated April 1, 2013 executed by the Appellant, her parents and the Appellant’s father acknowledging this fact as well as a second document executed by the husband on the same date purporting to be a declaration that she was the beneficial owner under an express trust from the date of its purchase including at the time of the transfer in March 22, 2004.
+[11] On its own this evidence might suggest the Appellant has made a prima facie case for rebutting the Minister’s assumption that the husband was the owner and transferred title, in other words establishing there was a legal or other trust for the Appellant, however, there is substantial evidence which weighs convincingly against finding any such trusts.
+[12] Firstly, there was no expressed declaration of trust on or about the time of the initial purchase in 1987 that can be relied upon. The Appellant’s case is based on the premise that evidence above described supports that a trust was intended and is supported by documents executed 16 years later on April 1, 2013, after the assessment against her, the latter of which are self–serving at best.
+[13] Secondly, I cannot agree the Appellant has established there was a resulting trust in her favour. The Appellant argues that doctrine of resulting trust, as it applies to these circumstances, arises because she was the person who effectively paid for the Property and hence her husband, as registered owner, was under a legal obligation to return it to her. In Water’s Law of Trust in Canada, Fourth Edition, Carswell, quoted by the Appellant, at page 395, this type of trust is implied where:
+A person has paid for the property and had the property put in another’s name. The intention of the transferor or purchaser is implied to be that the transferee is to hold the property on trust for the transferor or purchaser. The implication arises out of the fact that equity assumes bargains, not gifts and requires the donee to prove that a gift was intended.
+[14] In this regard, the Appellant asked the Court to accept that she effectively paid for the Property because her parents paid her dowry of $130,000 to their solicitors trust account to enable the purchase of the Property. The Appellant also points to the testimony of her husband who testified as to the dowry and that he transferred title to the Appellant of the Property because it was the right thing to do, obviously agreeing the payment was made on her behalf and that it was not intended as a gift to him.
+[15] The difficulty I have with this argument, aside from the fact his corroborating evidence is not convincing, is that there is no evidence whatsoever where the balance of the purchase price came from. The Property was purchased in 1987 for $382,500 and the only evidence is that the Appellant had $130,000 of that purchase price contributed on her behalf. The mortgage of $295,000 assumed to be a liability on the Property was not registered on title until 2 years later, August 17, 1989, so it is clear the Court has no evidence who contributed what to the balance of the initial purchase price. If the husband contributed more, would the argument not be that he would be entitled to a larger share? When a mortgage was finally registered two years later, the evidence is that the husband was the mortgagor and the Appellant the guarantor, so prima facie, that could suggest he made a larger contribution at that point at least. There is simply not sufficient evidence for the Court to make a determination of resulting trust in this matter.
+[16] While I appreciate the Appellant’s father had already passed away and could not testify and the Appellant’s mother was not able to testify, apparently being in a frail state and unable to, there was also no testimony from the Appellant’s solicitors who acted on the original purchase and who continued to act for the Appellant and her husband, nor other evidence as to financial contribution towards the purchase price that would enable the Court to find a resulting trust. The Court would have to look to the totality of the financial arrangements between the Appellant and her spouse to determine whether she has claim for greater than 50%, no evidence of which was before the Court and for which similar issues and concerns arise as in the argument for a constructive trust which I will deal with later, not the least of which is whether this Court even has jurisdiction to issue a declaratory order as to beneficial ownership of property between two parties when one is not even a party to the matter.
+[17] I also find that the corroborating evidence of the husband was not credible. When testifying, he seemed to recall every detail as to what monthly or bi-weekly payments came from his wife’s bank account to pay the mortgage and insurance premiums yet had no recollection as to what amounts he claimed as income and losses from the Property in his tax returns from 1987 to 2012.
+[18] Moreover, there was substantial evidence that is more consistent with the fact both the Appellant and her husband were intended to be joint owners of the Property as assumed by the Minister. Not only was the name of the Appellant crossed out on the original deed, but so were the words “as joint tenants and not as tenants in common”, which counsel for the Appellant seemed to ignore. The clear intention of these words is that the couple was initially intending to own the Property as joint tenants. The fact her name was crossed out frankly suggests, prima facie, that the intention may have changed to the husband being the sole beneficial owner.
+[19] The joint ownership of the couple is also reinforced by the fact that the evidence of the policies of insurance over multiple years refers to both of them as “insureds” with respect to the Property and refer to the partnership of the two insureds. In addition the Respondent has brought clear evidence that both the Appellant and her husband reported income and loss from the Property in their taxation years.
+[20] Frankly, the Appellant’s evidence that she did not understand the legal significance of the term ‘partnership” or simply relied on the fact her accountant, who was also her husband’s accountant, prepared their tax returns and she just signed, blindful of the fact she was only accounting for half the proceeds in her returns, is simply not credible. She is an educated woman working for an international pharmaceutical company in a management role and should know whether she was reporting all the income from the Property or just half. Moreover, it seems incredulous of her not to raise the issue of beneficial ownership when she executed a mortgage in favour of Royal Trust as guarantor two years after the initial purchase which was renewed on multiple occasions, rather than to continually just sign on. Frankly, her initial role as guarantor to the initial mortgage explains why her name appeared on all the renewals and in no way suggests she was the sole beneficial owner, let alone a joint owner, however the latter has been assumed by the Respondent and supported by other evidence.
+[21] I must say that I give little weight to the Appellant’s counsel’s argument that both the mortgagor, a major financial institution and Wawanesa, a major insurance underwriter could just as easily mistakenly recorded both their names on the documents and hence such documents should not be treated as determinative of the issue of ownership. Counsel seems to ignore that the Appellant signed the original mortgage documents and all the renewals thereof, several times, and so gave express acceptance of her role and position as both guarantor and co-owner and her husband’s role as owner.
+[22] As for the subsequent documents above referred to dated April 1, 2013 in which both her parents and husband acknowledge she was in effect the sole beneficial owner, I cannot accept them as any more than self serving documentation executed well after the initial purchase, years later, not supported by any credible confirming evidence. I take note that such documentary evidence are inconsistent with her tax returns and the deed and mortgage documents over the span of time since the initial purchase. I also take note of the fact that the transfer of March 22, 2004 has a Land Transfer Tax Affidavit showing the transfer for nil consideration. There is no reliance on the transfer being from a trustee to a beneficial owner that would also have exempted the transaction from Land Transfer Tax in Ontario.
+[23] On the whole, I do not find any credible evidence that would lead me to accept the Appellant’s argument that her husband purchased and owned the Property as trustee for her as sole beneficial owner, directly, indirectly, expressly implied or otherwise.
+2. Was there Consideration - a Constructive Trust or Loan? [24] The Appellant’s argument for constructive trust is based on her position that she alone made all payments for mortgage, taxes and insurance expenses related to the Property and that she alone collected rents. In the alternative, she argues these payments constitute a loan by her to her husband and hence constitute consideration paid for his interest on the transfer of Property.
+Constructive Trust [25] There is some evidence that she maintained an account in her sole name with the CIBC bank and that at least two rent cheques were made payable to her as well as evidence a few mortgage payments, City of Toronto tax payments and Wawanesa insurance premiums were drawn on such account. The Appellant testified she was unable to obtain detailed bank statements for the period from the date of initial purchase to the date of the 2004 transfer, but did manage to find two monthly bank statements issued in January of 2001 and 2002 and a few rent cheques and tax cheques or money order evidencing payments as aforesaid. She also points again to the initial $130,000 provided by her father for the initial purchase as being contributed on her behalf. The Appellant’s husband also confirmed that the Appellant made all mortgage and insurance premium payments and that he made none, notwithstanding that he agreed with Appellant’s counsel that as the father of their three children he should have made a contribution.
+[26] Frankly, the Appellant has reasonably satisfied me that mortgage, insurance and tax instalments came from her bank account. However, I am not satisfied that rents were only received for her benefit as the evidence is also abundantly clear that both the Appellant and her husband claimed the main rental losses from the Property on their tax returns since the initial purchase and continued to do so even after the transfer in question. I accept the evidence of the CRA appeals officer in this regards who credibly testified that the tax assessment summaries evidenced same and that she investigated and confirmed the Property income in question related to the Property that is subject to the transfer.
+[27] The issue of constructive trust has been before this Court in numerous occasions and I refer to my own recent decision in Pliskow v The Queen, 2013 TCC 283, relied upon by the Respondent, wherein I found that this Court has no jurisdiction to determine whether a constructive trust exists so as to define the property rights between two spouses, who in that case were not even divorced but still married, just like in the circumstances of this case. It may well be, as the Appellant has testified, that in 2003 they started to have more serious problems and live separate in the same home before the transfer in question, or even that they started to lead separate lives since 1991 when the Appellant’s husband’s solicitor wrote to the Appellant suggesting separation negotiations with her solicitor, but as I stated in Pliskow, notwithstanding the decision of former Chief Justice Bowman in Savoie v The Queen, 93 DTC 552, relied upon by the Appellant, the issue of constructive trust requires an analyses of the entire relationship between the Appellant and her husband, what contributions the parties made to their assets or in incurring their liabilities, whether there were any agreements, marriage contracts, separation agreements or otherwise, or in general any factors the parties would utilize in arguing for the division of their property rights. These are arguments that must be made before the proper courts having jurisdiction in the province of Ontario in this instance, not this Court.
+[28] As I also stated in paragraph 25 of Pliskow, supra:
+… I share the view expressed by Sarchuk J. as early as in his 1990 decision of Nelson v The Minister of National Revenue, 91 DTC 37 at paragraph 22 and again in his decision John Karavos v R, 96 DTC 1001 where he stated at paragraph 28:
+28. A constructive trust is a mechanism by virtue of which a court with equitable jurisdiction can grant redress to an unjustly deprived person. In determining whether unjust enrichment exists and restitution through the invocation of a constructive trust is appropriate a court may take into account the deprived person’s actual financial contributions, (which may properly include the contributions of earnings towards household bills and maintenance), all work performed in relation to the property, both physical and otherwise, and other factors as the performance of housekeeping duties, the raising of children etc. The result is that effectively a court is required to embark on an examination of the totality of the marital relationship extending over a period of 30 years to determine whether an unjust enrichment occurred and whether it would be appropriately remedied by a declaratory order vesting the claimant with title to property or by granting a monetary award. In my view such an inquiry is inappropriate in an income tax context. The use of a restitutory device to remedy situations of unjust enrichment should not be equated with the determination of a collateral issue necessary in order for this Court to carry out its statutory function, that is, to dismiss or allow an appeal or vacate or vary an assessment.
+[29] In the case at hand the Appellant argues that her husband was unjustly enriched because she paid all the bills in relation to the Property. Even if I were to accept such argument, there had been no evidence as to what contribution her husband made to their married life, including living expenses, other assets or in general that would allow me to determine whether any and who of the parties may have been unjustly enriched in the entire married relationship. Moreover, the Appellant and her husband are not divorced and do not appear to even be in an adversarial position before me regarding their entire properties including the marital home they both still live in, and if they were, no doubt they would be arguing all the factors that might affect their respective positions as contemplated by Sarchuk J. in Karavos above. Again as I stated in Pliskow in paragraph 26:
+… This demonstrates why this Court cannot be the best forum for such argument, being availed of only part if not a fraction of the evidence that can possibly exist to determine the issue.
+Loan Consideration [30] The Appellant also argued in the alternative that the payments made from her account for such aforesaid mortgage, taxes and insurance charges totalling well over $400,000 should be treated as indebtedness or loans owed by her husband to her as consideration for the transfer. There is no dispute between the parties that loans or indebtedness owing by the transferor to a transferee can be considered consideration paid for a transfer for the purposes of subsection 325(1). However, there is no evidence of any loan between the Appellant and her husband; no evidence of even any discussion at the time suggesting any portion of these payments would be treated in this way as between them. The fact the Appellant’s husband testified he should have contributed but did not, over such a lengthy period of time, without the Appellant having taken any action on the matters suggests the Appellant did not treat these as loans nor considered herself deprived in any way. In any event, the Appellant is not without recourse in the Ontario Courts if she wishes to make such claim as there is no evidence she granted her husband any legal forbearance or waiver of her rights to seek the remedy of constructive trust or any other remedy available to her. In fact nothing stops the Appellant from seeking credit or repayment for any payment by the Appellant pursuant to this assessment in such Courts either.
+[31] Having regard to the above I find that the Appellant has not rebutted the Minister’s assumptions in the Reply that nil consideration was given for the transfer of the Property by her to her husband, the transferor.
+[32] Accordingly, the appeal is dismissed.
+Signed at Ottawa, Canada, this 6th day of May 2014.
+“F.J. Pizzitelli”
+Pizzitelli J.
+CITATION:
+2014 TCC 135
+COURT FILE NO.:
+2013-3607(GST)I
+STYLE OF CAUSE:
+STAVROULA KARDARAS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+March 21 and May 2, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice F.J. Pizzitelli
+DATE OF JUDGMENT:
+May 6, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Norman MacDonald
+Counsel for the Respondent:
+Alisa Apostle
+COUNSEL OF RECORD:
+For the :
+Name:
+Norman MacDonald
+Firm:
+Norman MacDonald Law Offices
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

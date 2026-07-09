@@ -1,0 +1,202 @@
+---
+title: "Morin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25994/index.do"
+last_modified: "2004-08-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 584"
+citation2: ""
+neutral_citation: "2004 CCI 584"
+decision_date: "2004-08-27"
+language: "fr"
+item_id: "25994"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3727
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:07:06.090000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "173e4a1aa915b2a8546ef6d3f6bbcfbe126876948ebf52ad8d2022888eba1f26"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morin v. The Queen
+
+- Citation: 2004 CCI 584
+- Decision date: 2004-08-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3727, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morin v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-08-27
+Référence neutre
+2004 CCI 584
+Numéro de dossier
+2004-835(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-835(IT)I
+ENTRE :
+RONALD J. MORIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 29 juillet 2004 à Fort McMurray (Alberta)
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Karen Wood
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000, 2001 et 2002 est accueilli et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci-joints.
+La Cour accorde à l’appelant la somme de 100 $ en guise de remboursement des dépenses qu’il a engagées pour interjeter le présent appel.
+Signée à Saskatoon, en Saskatchewan, ce 27e jour d’août 2004.
+D.W. Beaubier
+Juge Beaubier
+Référence : 2004CCI584
+Date : 20040827
+Dossier : 2004-835(IT)I
+ENTRE :
+RONALD J. MORIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Juge Beaubier
+[1] Le présent appel interjeté par la procédure informelle a été entendu le 29 juillet 2004 à Fort McMurray (Alberta). L’appelant a témoigné. L’intimée a appelé à la barre son ex-épouse, Ellen Foster.
+[2] Les détails du litige figurent aux paragraphes 3 à 14 de la réponse révisée à l’avis d’appel. Au début de l’audience, la Cour a accueilli la requête contestée de l’intimée visant l’adjonction de l’alinéa 13.a. Les paragraphes 3 à 14 se lisent comme suit :
+3. Les cotisations qui suivent ont été établies pour les déclarations d’impôt de 2000, 2001 et 2002.
+Année d’imposition
+Date de la cotisation initiale
+2000
+8 mars 2001
+2001
+11 mars 2002
+2002
+6 mars 2003
+4. Dans le calcul de son revenu pour les années d’imposition 2000, 2001 et 2002, l’appelant a déduit les montants suivants au titre des paiements de pension alimentaire pour enfant (les « montants »);
+Année d’imposition
+Montant de la déduction
+2000
+15 000 $
+2001
+15 000 $
+2002
+5 000 $
+5. Lorsqu’il a établi les nouvelles cotisations de l’appelant relativement aux années d’imposition 2000, 2001 et 2002, le ministre du Revenu national (le « ministre ») lui a refusé la déduction des montants au motif que l’ordonnance initiale rendue à son égard a été modifiée le 1er mai 1997 ou après cette date par la réduction de la pension alimentaire pour enfant payable. Les avis de recotisation sont datés du 17 avril 2003.
+6. L’appelant a déposé des avis d’opposition aux nouvelles cotisations le 16 juin 2003.
+7. Le ministre a confirmé les nouvelles cotisations dans un avis en date du 19 décembre 2003.
+8. Le ministre s’est appuyé sur les faits suivants pour confirmer les nouvelles cotisations relatives aux années d’imposition 2000, 2001 et 2002 :
+a) Ellen Loretta Morin (ci-après « Ellen ») est l’ex‑épouse de l’appelant;
+b) l’appelant et Ellen ont deux enfants (ci-après les « enfants »), qui se nomment :
+Brenda Lee Morin (ci-après « Brenda ») née le
+9 octobre 1982;
+Adam Ronald Morin (ci-après « Adam ») né le
+21 octobre 1984
+c) Une ordonnance sur consentement de mesures accessoires en date du 30 avril 1997 (l’« ordonnance sur consentement ») oblige l’appelant à verser à Ellen, pour le soutien et l’aliment de leurs enfants,
+i) la somme de 750 $ par mois pour chacun des enfants;
+ii) un premier paiement le 30 avril 1997;
+iii) des paiements jusqu’à ce que les enfants cessent d’être des enfants du mariage au sens donné à cette expression par la Loi sur le divorce (1985);
+d) dans un accord écrit en date du 4 décembre 1998 (ci-après l’« accord écrit ») entre elle et l’appelant, Ellen accepte de soustraire 250 $ de la pension alimentaire pour enfant de 1 500 $ par mois qu’elle reçoit de l’appelant rétroactivement au 30 avril 1998 jusqu’au 9 octobre 2000, date du 18e anniversaire de Brenda;
+e) l’appelant déclare des montants de 15 000 $, 15 000 $ et 5 000 $ respectivement pour les années d’imposition 2000, 2001 et 2002;
+f) l’appelant a versé à Ellen une pension alimentaire pour enfant de 15 000 $ en 2000, de 14 375 $ en 2001 et de 4 375 $ en 2002 conformément à l’accord écrit;
+g) Brenda a eu 18 ans le 9 octobre 2000;
+h) l’appelant a continué de payer une pension alimentaire pour enfant de 1 250 $ par mois après le 9 octobre 2000;
+i) l’appelant ne vivait pas avec Ellen lorsqu’il a fait les versements;
+j) Brenda a mis fin à ses études en janvier 2002; un mois plus tard, l’appelant a réduit à 750 $ la pension alimentaire mensuelle qu’il payait pour Adam.
+9. Le ministre a été le premier à présumer du fait énoncé à l’alinéa précédent lorsqu’il a confirmé la nouvelle cotisation.
+Autres faits substantiels
+10. Après que l’appelant eut versé à Ellen le paiement de pension alimentaire pour enfant du mois de juin 2002, Adam a déménagé hors de la maison où il habitait avec Ellen et l’appelant a alors cessé de verser à celle-ci une pension alimentaire pour enfant.
+B. QUESTION EN LITIGE
+11. La question en l’espèce est de savoir si les paiements de pension alimentaire pour enfant versés par l’appelant peuvent être déduits dans le calcul de son revenu pour les années d’imposition 2000, 2001 et 2002.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+12. Le ministre se fonde sur les paragraphes 56.1(4) et 152(9) et les alinéas 60b) et 60c) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e supp.) (ci-après la « Loi »), modifiée pour les années d’imposition 2000, 2001 et 2002.
+13. Le ministre soutient que l’accord écrit a modifié le montant total de la pension alimentaire pour enfant à verser par l’appelant et, partant, qu’une date d’exécution a été fixée aux termes du sous-alinéa 56.1(4)b)(ii) de la Loi. Selon l’al. 60b) de la Loi, la pension alimentaire pour enfant versée par l’appelant durant les années d’imposition 2000, 2001 et 2002 n’est pas déductible d’impôt.
+13.a Subsidiairement, le ministre allègue que l’accord écrit a modifié le montant total de la pension alimentaire pour enfant à verser à la bénéficiaire et que, par conséquent, une date d’exécution a été fixée aux termes du sous-alinéa 56.1(4)b)(iii) de la Loi. L’al. 60b) de la Loi prévoit que la pension alimentaire versée par l’appelant durant les années d’imposition 2000, 2001 et 2002 n’est pas déductible d’impôt.
+[3] La preuve ne réfute aucune des suppositions faites aux alinéas 8a), b), c), e), g), h), i) et j).
+[4] Pour ce qui est de la supposition faite à l’alinéa 8d), l’accord écrit en date du 4 décembre 1998, déposé en tant que pièce A-2), se lit comme suit :
+[traduction]
+4 décembre 1998
+À QUI DE DROIT,
+Je, Ellen Morin, convient de réduire de 250 $ la pension alimentaire mensuelle pour enfant que je reçois de mon ex-mari, Ronald J. Morin, rétroactivement au 30 avril 1998 jusqu’au 9 octobre 2000, date du 18e anniversaire de notre fille, Brenda‑Lee Morin.
+« Ellen Morin » FAIT LE « 31 déc. 1998 »
+ELLEN MORIN
+« Ronald Morin » FAIT LE « 6 déc. 1998 »
+RONALD J. MORIN
+[5] L’accord écrit n’est pas sous scellé; ce n’est pas un acte formaliste. Ellen a une huitième année. L’appelant, l’auteur de l’accord signé par les deux parties, a une dixième année.
+[6] Il ne semble pas, à première vue, que M. Morin puisse faire exécuter l’« accord », la pièce A-2, parce que ce n’est pas un acte formaliste et qu’il n’y a aucune contrepartie. En outre, M. Morin a toujours versé ses paiements de pension alimentaire dans les délais impartis. La pièce A-2 a été rédigé et mis en oeuvre parce que M. Morin a subi une démotion et une baisse de salaire. Il s’est entretenu avec son avocat du fait qu’il n’était plus en mesure de verser, en conformité avec l’ordonnance du 30 avril 1997, la [traduction] « somme de 750 $ par mois pour chacun desdits enfants » (pièce A-1, paragraphe 2). Son avocat lui a fait savoir qu’une modification par ordonnance des versements rendrait ceux-ci imposables pour lui alors qu’une renonciation lui permettrait de déduire ses versements. M. Morin a ensuite communiqué avec Ellen Morin et ils ont rempli la pièce A-2.
+[7] M. Morin n’a en fait réduit ses versements qu’à l’égard d’une seule enfant, en l’occurrence Brenda, et ce depuis le 30 avril 1998 (conformément aux entretiens qu’il a eus avec Ellen), soit avant la signature de la pièce A-2 en décembre. Il a affirmé à la barre que la réduction de son salaire l’empêchait de verser plus d’argent qu’avant et qu’il n’avait pas les moyens d’engager un avocat ou de se pourvoir devant le tribunal pour faire modifier l’ordonnance. Ellen Morin a dû déclarer faillite vers la même époque et cette faillite concernait notamment une partie des honoraires facturés par son avocat pour le divorce; elle se trouvait donc dans la même situation que M. Morin. Mme Foster a payé de l’impôt sur l’argent qu’elle touchait jusqu’à ce qu’un employé de H&R Block lise la pièce R‑2 et lui dise de ne pas le faire, ce qui a entraîné la cotisation dont il est question ici.
+[8] M. Morin a dit en contre-interrogatoire qu’il a toujours fait ses versements de pension alimentaire pour les enfants dans les délais impartis, ce que reconnaît Mme Foster.
+[9] M. Morin et Mme Foster ne peuvent convenir d’écarter ou d’aliéner le droit d’un tiers, en l’occurrence un enfant, à une pension alimentaire établie sur ordonnance du tribunal. Seule une autre ordonnance permet de modifier cette pension alimentaire. Cela est très différent d’un accord portant réduction de la pension alimentaire pour époux. Madame la juge Wilson décrit les différences d’ordre juridique qui existent entre la pension alimentaire pour époux et la pension alimentaire pour enfant dans l’extrait suivant de l’arrêt Richardson c. Richardson, propos cités avec approbation par le juge Sopinka au nom de la majorité de la Cour suprême du Canada dans Willick c. Willick, [1994] 3 R.C.S. 670 :
+Cette corrélation [entre la pension alimentaire versée au conjoint et celle versée aux enfants] ne devrait pas cependant nous amener à en exagérer l'importance ou à oublier les fondements juridiques différents des droits à une pension alimentaire. Le fondement juridique de la pension alimentaire de l'enfant est l'obligation mutuelle qu'ont les parents de subvenir aux besoins de leurs enfants. Cette obligation devrait être assumée par les parents proportionnellement à leurs revenus et moyens financiers respectifs: Paras v. Paras, précité [. . .] La pension alimentaire de l'enfant, comme les droits de visite, est un droit subjectif de l'enfant: Re Cartlidge and Cartlidge, [1973] 3 O.R. 801 (T. fam.). Pour cette raison, le conjoint ne peut aliéner le droit de son enfant à des aliments dans une convention. Le tribunal peut toujours intervenir pour fixer le niveau approprié des aliments à verser à l'enfant [. . .] De plus, parce qu'il s'agit d'un droit de l'enfant, le fait que le conjoint bénéficie indirectement des aliments versés à l'enfant ne saurait justifier une révision à la baisse des aliments accordés.
+Dans l’arrêt Pelech c. Pelech, [1987] 1 R.C.S. 801, prononcé au même moment que Richardson, la Cour a formulé le principe suivant qui a été cité à plusieurs reprises :
+[] le principe de l'arrêt Hyman selon lequel les parties ne peuvent écarter par contrat la compétence du tribunal en matière alimentaire conjugale constitue un précepte bien établi du droit canadien.
+Bien que cet arrêt concerne la pension alimentaire pour époux plutôt que la pension alimentaire pour enfant et s’il est vrai que les parties ne peuvent se soustraire à la compétence du tribunal en concluant un accord sur la pension alimentaire pour époux, il s’ensuit qu’un accord ne saurait écarter la compétence du tribunal à l’égard de la pension alimentaire pour enfant. S’il est interdit d’aliéner les droits d’un enfant dans un accord de séparation, l’un ou l’autre des parents ne peut éteindre ces droits par une « modification » subséquente de la pension en l’absence de contrepartie et sans le consentement du tribunal. Ce seul motif suffit à invalider l’accord écrit. Dans certaines provinces, l’accord peut être déclaré nul du fait qu’il va à l’encontre de la procédure. Cependant, en Alberta, la loi ne prévoit aucune procédure officielle applicable aux accords de pension alimentaire pour époux : Gardner c. Gardner, [2002] A.J. N0 625. Il en serait de même pour la plupart des accords de séparation, y compris ceux sur la pension alimentaire pour enfant (Domestic Relations Act, R.S.A. 2000, c. D-14).
+[10] La décision citée au paragraphe précédent indique les deux premiers motifs pour lesquels il y a lieu d’accueillir l’appel interjeté par M. Morin :
+1. Les conjoints parties ne peuvent se soustraire par contrat à une ordonnance du tribunal; ils doivent plutôt obtenir une nouvelle ordonnance portant modification de la première.
+2. Les conjoints parties ne peuvent écarter les droits d’un enfant (un tiers) à une pension alimentaire accordée par ordonnance.
+[11] Le troisième motif est le suivant : étant donné tous les témoignages entendus, la Cour juge que M. Morin n’a donné aucune contrepartie à Mme Foster en retour de sa signature de la pièce A-2 le 31 décembre 1998. Mme Foster a commis un acte gratuit en signant l’« accord », la pièce A-2, vu que M. Morin ne lui a donné en retour aucune contrepartie reconnue par la loi. M. Morin ne peut donc faire exécuter l’accord et il doit toujours verser à Mme Foster la somme de 250 $ par mois qu’il ne lui avait pas remise durant la période en question.
+[12] Pour les motifs précités, la Cour estime que l’ordonnance en date du 30 avril 1997 visant les Morin demeure exécutoire à leur endroit et qu’elle l’a toujours été durant la période en cause. Les paiements de pension alimentaire pour enfant versés par l’appelant selon la présomption faite à l’alinéa 8f) sont donc déductibles dans le calcul de son revenu pour les années d’imposition 2000, 2001 et 2002.
+[13] Ce dossier est renvoyé au ministre pour nouvel examen et nouvelle cotisation conformément aux motifs susmentionnés. La Cour accorde à l’appelant la somme de 100 $ en guise de remboursement des frais de photocopie, des frais postaux et des autres dépenses qu’il a engagés pour interjeter cet appel.
+Signé à Saskatoon, en Saskatchewan, ce 27e jour d’août 2004.
+D.W. Beaubier
+Juge Beaubier
+RÉFÉRENCE :
+2004CCI584
+NUMÉRO DU DOSSIER DE LA COUR :
+2004-835(IT)I
+INTITULÉ :
+Ronald J. Morin c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Fort McMurray (Alberta)
+DATE DE L’AUDIENCE :
+Le 29 juillet 2004
+MOTIFS DU JUGEMENT :
+L’honorable juge Beaubier
+DATE DU JUGEMENT :
+Le 27 août 2004
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Karen Wood
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

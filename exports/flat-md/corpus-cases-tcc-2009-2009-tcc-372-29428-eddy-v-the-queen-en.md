@@ -1,0 +1,129 @@
+---
+title: "Eddy v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29428/index.do"
+last_modified: "2009-06-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 372"
+citation2: ""
+neutral_citation: "2009 TCC 372"
+decision_date: "2009-06-15"
+language: "en"
+item_id: "29428"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6980
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:12:55.126000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8661bc7f0b3aef04ff8597d975964c192c14625342eea9ca5fe36b128650583b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Eddy v. The Queen
+
+- Citation: 2009 TCC 372
+- Decision date: 2009-06-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6980, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Eddy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-06-15
+Neutral citation
+2009 TCC 372
+File numbers
+2008-3071(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-3071(GST)I
+BETWEEN:
+RICKEY EDDY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 15, 2009, at Gander, Newfoundland
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jill Chisholm
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated January 17, 2008, is allowed in part, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the new housing rebate in the amount of $1,332.34.
+The Appellant is awarded a lump sum payment of $100 with respect to costs.
+It is ordered that the $100 filing fee is to be refunded to the Appellant.
+Signed at Ottawa, Canada, this 30th day of September 2009.
+“B.Paris”
+Paris J.
+Citation: 2009 TCC 372
+Date: 20090928
+Docket: 2008-3071(GST)I
+BETWEEN:
+RICKEY EDDY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on June 15, 2009,
+in Gander, Newfoundland and Labrador.)
+Paris, J.
+[1] Mr. Eddy is appealing the disallowance of his claim for a new housing rebate under the Excise Tax Act. The rebate claim relates to construction done on his home in Clarenville.
+[2] The pleadings raise three issues. One of the issues, the amount of the rebate, was settled by the parties and it was agreed that the correct amount was $1,332.34. The remaining issues are whether the rebate application was made in time and, if so, whether the work done on the house constituted either the substantial renovation of, or the construction of, a residential complex.
+[3] Mr. Eddy testified that he purchased his house in May of 2005. He agreed that he may have told the CRA auditor in a telephone conversation that it was purchased in May, 2004, but testified that if he did say 2004, this would have been a slip. He brought supporting documentation to the hearing that confirmed the May, 2005 purchase date. The house was one storey with an unfinished basement and an attached garage. It had two bedrooms and one bathroom with a finished area of approximately 800 square feet. In May 2005, the Appellant finished the basement as a rec room and storage space and converted the garage to living space.
+One year later, he added a second floor with three bedrooms, including a master bedroom with an ensuite bath and walk-in closet. He added approximately seven feet across the back of the main floor to expand the kitchen area, added a staircase to access the second floor and opened up the existing two bedrooms and incorporated that floor space into the livingroom. He moved the front door and the livingroom window and added a foyer at the entrance. He opened up drywall to rewire the entire first floor and added new electric baseboards. The kitchen and eating area was entirely redone with new cabinets, counters and flooring. A new air exchange system was installed as well. The Appellant also built a new detached garage and landscaped the yard and put in a driveway, although these latter changes do not count towards the renovation of the residential complex for the purposes of the Excise Tax Act.
+[4] The first question I must decide is whether the rebate application was made in time. According to subsection 256(3) of the Act, the application must be made within two years of the earliest of the following dates: 1) the first day that the complex is occupied after the renovation or construction began; 2) the day on which the Applicant makes an exempt supply of the complex; and 3) the day on which the construction or renovation is substantially complete. In this case, the Appellant and his family occupied the house from the time it was purchased and throughout the period during which all the work was done. The Respondent submits that the clock began to run for making the rebate application the first day after the Appellant began renovations in May 2005 and that the rebate application was required to be made no later than May 2007. Since the application was only made in September, 2007, it was out of time. The Respondent’s position is based on the premise that the Appellant carried out one continuous renovation starting in May, 2005.
+[5] However, the evidence shows that there were in fact two separate renovations started, one year apart. The first involved finishing the basement and garage and the second was the remainder of the work described above. There was sufficient separation both in time and as to the areas involved to support the conclusion that these were separate renovations. Therefore, the application for the rebate was required to be made no later than two years after the day the second renovation was started in May 2006. As a result, I find that the rebate application relating to that work was required to be made by May 2008 and was therefore made in time.
+[6] The next question is whether the work done by the Appellant constituted substantial renovation or construction of a new residential complex. Substantial renovation is defined in subsection 123(1) of the Act. In this case, the existing building immediately before the May 2006 renovation was begun consisted of finished living space on the main floor, in the basement and in the converted garage. On the evidence, during the second renovation the main floor was, for all intents and purposes, gutted except for the bathroom and some existing drywall and flooring. New living space was added to the back of the main floor and an area of approximately 840 square feet was added upstairs. According to the evidence, the new living area added on the main and second floor appear to have been in the range of 1,050 square feet (840 square feet on the second floor and 210 square feet on the main).
+[7] The evidence does not show what the existing floor space of the house was in May 2006 prior to the second renovation, but it appears that the renovation approximately doubled the living area.
+[8] The Respondent submits that the changes to the main floor were not extensive enough to constitute a substantial renovation and that the addition was not large enough to have resulted in the construction of a new residential complex and therefore that the Appellant is not entitled to the rebate. I would agree with this position if each of the two aspects of the work was viewed in isolation, but where both were done at the same time, I am satisfied that the result is a new residential complex from that which previously existed.
+[9] The case law cited by the Respondent can be distinguished on the basis that those cases did not involve both an addition and extensive renovations to the existing premises. What I take from all those decisions is that where a taxpayer can be said to have created a new residential complex, he will be entitled to the rebate. On the unusual facts of this case, the combination of renovations and additions to the Appellant’s house transformed it into a new residential complex. As such, the Appellant is entitled to a new housing rebate. The appeal will therefore be allowed, in part, to allow the Appellant a rebate of $1,332.34. The Appellant will be awarded a lump sum of costs of $100.00.
+Signed at Ottawa, Canada, this 28th day of September 2009.
+“B.Paris”
+Paris J.
+CITATION: 2009 TCC 372
+COURT FILE NO.: 2008-3071(GST)I
+STYLE OF CAUSE: RICKEY EDDY AND THE QUEEN
+PLACE OF HEARING: Gander, Newfoundland and Labrador
+DATE OF HEARING: June 15, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: September 28, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jill Chisholm
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

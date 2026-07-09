@@ -1,0 +1,151 @@
+---
+title: "Positano v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/317257/index.do"
+last_modified: "2018-07-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 160"
+citation2: ""
+neutral_citation: "2018 TCC 160"
+decision_date: "2018-07-31"
+language: "en"
+item_id: "317257"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4940
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:41:22.726000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f0344a75d6ce85d13f8613bdaea281eb4597cc65842590b4f344060f91c327a9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Positano v. The Queen
+
+- Citation: 2018 TCC 160
+- Decision date: 2018-07-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4940, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Positano v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-07-31
+Neutral citation
+2018 TCC 160
+File numbers
+2016-3612(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Notes
+A correction was made on August 31, 2018.
+Decision Content
+Docket: 2016-3612(IT)I
+BETWEEN:
+ALBERT J. POSITANO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 30, 2018, at Toronto, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Agent for the Appellant:
+Tina M. Positano
+Counsel for the Respondent:
+Rini Rashid
+JUDGMENT
+The appeal from the two reassessments raised October 27, 2014 under the Income Tax Act (Canada) for the Appellant’s 2012 and 2013 taxation years respectively is dismissed, without costs.
+Signed at Summerville Centre, Nova Scotia, this 31st day of July 2018.
+“B. Russell”
+Russell J.
+Citation: 2018TCC160
+Date: 20180827
+Docket: 2016-3612(IT)I
+BETWEEN:
+ALBERT J. POSITANO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+These Amended Reasons for Judgment, issued in substitution for the Reasons for Judgment signed July 31st, 2018, entail several non-substantive alterations in diction, demarcated by bold font.
+Russell J.
+Introduction:
+[1] This informal procedure appeal was brought by the Appellant, Mr. Positano, to dispute two reassessments raised by the Minister of National Revenue (Minister) October 27, 2014 under the Income Tax Act (Canada) (Act) regarding the Appellant’s 2012 and 2013 taxation years respectively. Each of the two reassessments reflects denial by the Minister of $9,100 claimed as vehicle allowances paid to the Appellant as an employee.
+Evidence:
+[2] There is no significant dispute as to the essential facts, brought out through testimony of Mr. Positano and his sister Tina Positano (who also was his representative) at the hearing of this matter. Both Positano siblings plus another brother are and were at all material times employees of 1017867 Ontario Ltd., operating under the business name Positano Paving (Employer), based in Barrie, Ontario. The Employer’s business during the annual November to April periods including during each of the two taxation years at issue involved commercial snow and ice clearing in and about Barrie, that city being located in a “snowbelt”, i.e. a region that annually receives an appreciable amount of snow. Ms. Positano is the business manager of the Employer and the two Positano brothers including the Appellant also are senior employees.
+[3] The Employer has a number of snow and ice clearing contracts with Barrie institutions such as the town hall, the police and fire departments, schools, churches, and various other municipal and commercial locations. The contracts include clauses committing the Employer to daily and nightly “snow runs” to monitor where within the area snow and or ice clearing is required. Apparently one end of the area at any given time can receive no snow while the other end can have received many centimetres of the white stuff. A snow run involved either of the two Positano brothers driving throughout the area on a basically fixed route going to and past each of the Employer’s client locations to visually check if clearing or further clearing or salting of snow and or ice etc. was required.
+[4] The distance of the snow run fixed route was in the region of 90 to 100 kilometres - also said to be approximately 92 kilometres. If on a snow run an area was identified as requiring further work then either a snow and ice clearing crew of the Employer would be called in to do so, or if the work required was 10 minutes or less, the Positano brother doing the snow run would come back after the snow run with an appropriate snow and ice clearing vehicle owned by the Employer and do the required work himself. This could be either day or night - the Employer offered 24 hour service and of course snow could fall and ice could form basically at any time.
+[5] There is no contractual commitment to how many snow runs would be done during any given period. For each contract the provision would refer to the customer’s location being checked for snow and ice. The concept of snow run itself was that of the Employer which in light of its numerous customers that required these checks of their respective locations, would provide such checks on a snow run routed as passing by each customer’s location.
+[6] Snow runs were done as the Employer deemed needed; one, two or three times a night and also as deemed needed during daytime hours. Notably, no record was kept by the Employer or anyone else of the number of snow runs done during any particular 12 or 24 hour or other time period. Nor were any records kept as to which brother did any particular snow run. Generally, one brother would handle the night snow runs and the other the day snow runs and who had which of these “shifts” would change back and forth between them.
+[7] Also, the snow runs were done by the Positano brothers using personal vehicles. This was explained as being because the Employer’s available vehicles for so doing were relatively big trucks and driving those heavy vehicles for snow runs added a lot of kilometres, fuel consumption and wear and tear on those vehicles. For using their personal vehicles the brothers were paid what were considered as vehicle allowances that were deductible under the Act. The allowances were fixed in amount for each brother at the amount of $9,100 annually. This total amount was paid in instalments of $350 every two weeks of the year. It was explained that the payments were spread throughout the entire year as opposed to being entirely paid during the November - April winter season for cash flow purposes of the Employer. The amounts would be paid every two weeks without regard to how many if any snow runs the brother had done during the said two week period. And obviously there were no snow runs during the summer months when the payments continued. Even in winter, if either brother was away, on vacation for example, he would still receive his bi-weekly $350. As for how the $9,100 figure was picked, my understanding from the evidence was that the Employer’s accountant had recommended it based on some averaging calculations as to likely number of snow runs driven in any given year.
+[8] The Appellant did not report the $9,100 paid annually, thinking it was wholly deductible anyway. The Minister added the $9,100 to income for each of the two taxation years at issue. The basis of the Minister’s position was that these payments were not “reasonable” vehicle allowances as they were not based on the number of kilometres driven. Instead, the Minister found they were based on a flat rate, unrelated to the number of kilometres driven.
+[9] At the hearing this remained the Respondent’s position. The Appellant argued that he had not been made aware they should maintain a log or like record for the snow runs. Also, the payment should be considered “reasonable” as they knew the specific distance of each snow run, being approximately 92 kilometres, and the total payment was based on an average of the number of snow runs driven.
+Legal Analysis and Decision:
+[10] The issue in this matter is clear-cut - was the annual $9,100 payment a “reasonable” vehicle allowance per subparagraphs 6(1)(b)(vii.1) and 6(1)(b)(x) of the Act and thus recognized as not having to be included in income?
+[11] These two subparagraphs provide as follow:
+6(1)(b)(vii.1) reasonable allowances for the use of a motor vehicle received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling in the performance of the duties of the office or employment,
+…
+6(1)(b)(x) where the measurement of the use of the vehicle for the purpose of the allowance is not based solely on the number of kilometres for which the vehicle is used in connection with or in the course of the office or employment,
+[12] These provisions make clear that vehicular allowances are not excludable from income unless the allowance amount is, “based solely on the number of kilometres for which the vehicle is used in connection with or in the course of the…employment.”
+[13] In this case however the $9,100 amount was an amount calculated on the basis of an average of number of snow runs in total, divided evenly between the brothers. The distance of each snow run was known. However the number of snow runs actually made, and by each brother, were not known, but rather were estimated. Thus the actual number of kilometres specifically driven by the Appellant, being one of the two brothers, was not known, but only estimated.
+[14] In Beauport (Ville) v. Minister of National Revenue, 2001 FCA 198, at paragraphs 14 through 19, the Federal Court of Appeal (FCA) made clear, with reference to the above section 6 provisions, that an estimate was not good enough to constitute a reasonable vehicle allowance. The amount of the allowance had to be based on, “actual kilometres travelled rather than an approximation”.
+[15] The FCA added, at paragraph 17:
+In this instance, the scheme introduced by the applicant does not take into account the number of kilometres actually traveled by the employees during the period for which the allowances are paid but is based on an estimate determined by reference to the previous period. That is precisely the type of calculation that was excluded when subparagraph 6(1)(b)(x) was adopted...
+[16] This decision was followed by this Court in I-D Foods Corporation v. Her Majesty, 2013 TCC 15. Other decisions of this Court that the Respondent also cited uniformly recognize that a vehicle allowance has to be based solely on kilometres actually traveled to not be included in income. Those include Melville Motors Ltd. v. R., 2003 TCC 444; Denis Pare v. Her Majesty, 2011 TCC 510; Tozer v. Her Majesty, 2004 TCC 411 and Tri-Bec v. R., 2003 GTC 762.
+[17] In my view, the effect of the legislation and related jurisprudence is clear; the vehicle allowance paid by the Employer to the Appellant does not qualify as being “reasonable” and hence exempt from income inclusion, because the amounts paid were not determined based solely on kilometres actually driven.
+[18] Accordingly I have no alternative but to dismiss this appeal, although I do so on a without costs basis.
+Signed at Halifax, Nova Scotia, this 27th day of August 2018.
+“B. Russell”
+Russell J.
+CITATION:
+2018TCC160
+COURT FILE NO.:
+2016-3612(IT)I
+STYLE OF CAUSE:
+ALBERT J. POSITANO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 30, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+July 31, 2018
+DATE OF AMENDED REASONS August 27, 2018
+FOR JUDGMENT:
+APPEARANCES:
+Agent for the Appellant:
+Tina M. Positano
+Counsel for the Respondent:
+Rini Rashid
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

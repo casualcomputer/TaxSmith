@@ -1,0 +1,56 @@
+Title: Vasquez c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29361/index.do
+Corpus path: corpus/cases/tcc/2008/2009-cci-85-29361-vasquez-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-12-10
+
+# Vasquez c. La Reine
+
+- Citation: 2009 CCI 85
+- Decision date: 2008-12-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6914, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vasquez c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-12-10
+Référence neutre
+2009 CCI 85
+Numéro de dossier
+2008-831(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+No du dossier de la Cour : 2008-831(IT)I
+RÉFÉRENCE : 2009 CCI 85
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+CARLOS VASQUEZ,
+appelant,
+- ET -
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Rendus oralement à l’audience par le juge B. Paris le mercredi 10 décembre 2008, au 701, rue Georgia Ouest, Vancouver (Colombie‑Britannique)
+COMPARUTIONS :
+M. C. Vasquez Pour l’appelant
+Me L. Zumpano Pour l’intimée
+M. Netley Le greffier
+Allwest Reporting Ltd.
+1125, rue Howe, bureau 1200
+Vancouver (Colombie‑Britannique) V6Z 2K8
+MOTIFS DU JUGEMENT
+(Révisés à partir de la transcription des motifs rendus oralement à l’audience à Vancouver (Colombie‑Britannique), le 10 décembre 2008.)
+JUGE : Il n’y a pas d’observations. Vous n’avez donc pas d’argument à présenter à l’effet que des erreurs ont été commises dans les nouvelles cotisations, et en l’absence de preuve, je ne peux rien faire pour vous à l’égard des appels que vous avez interjetés pour ces années‑là.
+M. VASQUEZ : Je comprends.
+JUGE : L’appel sera donc rejeté.

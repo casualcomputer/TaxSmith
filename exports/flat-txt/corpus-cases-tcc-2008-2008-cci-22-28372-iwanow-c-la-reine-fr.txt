@@ -1,0 +1,173 @@
+Title: Iwanow c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28372/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-22-28372-iwanow-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-01-10
+
+# Iwanow c. La Reine
+
+- Citation: 2008 CCI 22
+- Decision date: 2008-01-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1924, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Iwanow c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-10
+Référence neutre
+2008 CCI 22
+Numéro de dossier
+2006-3072(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3072(IT)G
+ENTRE :
+SUSANNE IWANOW,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 5 avril 2007 et le
+9 octobre 2007 à Montréal (Québec)
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Sophie-Lyne Lefebvre
+____________________________________________________________________
+ORDONNANCE
+La requête présentée par l’intimée dans laquelle elle sollicite une ordonnance radiant l’avis d’appel de l’appelante sans autorisation de le modifier, en vertu de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale), est accueillie, et l’appel de l’appelante interjeté à l’encontre des cotisations établies à son égard pour ses années d’imposition 2000, 2001, 2002 et 2003 est rejeté sans frais conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de janvier 2008.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 27e jour de février 2008.
+Jean David Robert, traducteur
+Référence : 2008CCI22
+Date : 20080110
+Dossier : 2006-3072(IT)G
+ENTRE :
+SUSANNE IWANOW,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Favreau
+[1] La Cour est saisie d’un appel interjeté à l’encontre des cotisations datées du 9 juin 2005 établies à l’égard de l’appelante pour ses années d’imposition 2000, 2001, 2002 et 2003.
+[2] Selon un affidavit daté du 12 janvier 2007 de Hubert de Groot, un agent des litiges de l’Agence du revenu du Canada (l’« ARC »), qui était chargé du dossier de l’appel de l’appelante, les faits pertinents en l’espèce sont les suivants :
+a) le 3 février 2004, l’ARC a envoyé à l’appelante une lettre dans laquelle elle lui demandait de produire sa déclaration de revenu pour chacune des années d’imposition 2000 à 2002;
+b) l’appelante n’a pas donné suite à la lettre, et, le 16 mars 2004, une demande formelle de production de déclarations de revenu pour chacune de ses années d’imposition 2000 à 2002 lui a été envoyée;
+c) le 16 avril 2004, l’ARC a envoyé à l’appelante des copies de ses déclarations de renseignements, à savoir les feuillets d’information T3, T4 et T5 qui lui avaient été remis pour ses années d’imposition 2000 à 2002, afin de lui permettre de produire ses déclarations de revenu;
+d) le 10 août 2004, l’appelante a demandé à l’ARC de l’aider à produire ses déclarations de revenu en lui fournissant une copie certifiée conforme de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), modifiée (la « Loi »);
+e) en septembre 2004, l’ARC a informé l’appelante de l’existence d’une version commerciale de la Loi, plutôt que d’une copie certifiée conforme de celle‑ci;
+f) par une lettre datée du 20 septembre 2004, l’appelante a informé l’ARC qu’elle ne pouvait pas se fonder sur une telle version commerciale de la Loi et qu’il lui était impossible d’obtenir l’avis d’une personne disposée à garantir l’exactitude de ses conseils, ce qui l’empêchait de produire ses déclarations de revenu;
+g) un autre échange de lettres a eu lieu entre l’appelante et l’ARC, mais l’appelante refusait toujours d’estimer le montant de l’impôt dû en produisant ses déclarations de revenu pour les années d’imposition 2000 à 2002;
+h) le 9 juin 2005, l’ARC a établi des cotisations à l’égard de l’appelante pour ses années d’imposition 2000 à 2003, malgré le fait que cette dernière n’avait pas produit de déclarations de revenu, en vertu du paragraphe 152(7) de la Loi;
+i) en établissant ces cotisations à l’égard de l’appelante, l’ARC a calculé le revenu imposable de celle‑ci en se fondant, entre autres, sur les feuillets d’information remis à l’appelante pour les années d’imposition 2000 à 2003;
+j) plus tard, l’ARC a fourni à l’appelante des copies des avis de cotisation établis précédemment;
+k) l’appelante a déposé un avis d’opposition daté du 2 décembre 2005 aux cotisations établies à son égard pour ses années d’imposition 2000 à 2003;
+l) l’ARC a accepté le dépôt tardif de l’avis d’opposition;
+m) le 12 avril 2006, l’ARC a écrit à l’appelante pour l’informer qu’elle avait gagné un revenu pendant ses années d’imposition 2000 à 2003 et, encore une fois, l’ARC l’a invitée à produire ses déclarations de revenu pour ces années‑là;
+n) le 26 mai 2006, l’ARC a demandé de nouveau à l’appelante de produire ses déclarations de revenu pour ses années d’imposition 2000 à 2003;
+o) le 8 juin 2006, l’appelante a écrit à l’ARC pour l’informer qu’elle cherchait toujours à obtenir une copie certifiée conforme de la Loi afin de pouvoir produire ses déclarations de revenu;
+p) le 28 juin 2006, l’ARC a écrit à l’appelante pour l’aviser de nouveau qu’elle devait produire ses déclarations de revenu;
+q) le 21 juillet 2006, l’appelante a écrit à l’ARC pour l’informer qu’elle avait besoin d’une copie certifiée conforme de la Loi contenant les plus récentes modifications de celle‑ci;
+r) l’appelante n’a jamais informé la Division des appels de l’ARC des raisons qui l’ont amenée à contester les cotisations établies pour les années d’imposition 2000 à 2003;
+s) le 25 juillet 2006, l’ARC a ratifié les cotisations établies pour les années d’imposition 2000 à 2003;
+t) l’appelante n’a pas encore produit ses déclarations de revenu pour les années d’imposition 2004 et 2005;
+u) le 13 avril 2006, l’ARC a, conformément au paragraphe 150(2) de la Loi, envoyé à l’appelante par courrier recommandé une demande formelle de production de sa déclaration de revenu pour son année d’imposition 2004, mais l’appelante n’a pas donné suite à cette demande.
+[3] Le 20 octobre 2006, l’appelante a déposé auprès de la Cour un avis d’appel rédigé en ces termes :
+[traduction]
+[...]
+Je conteste toutes les cotisations établies pour les années 2000, 2001, 2002 et 2003, étant donné qu’elles sont fondées sur des faits inexistants. J’essaie de me conformer à la loi, mais j’en suis incapable sans l’aide de fonctionnaires de l’Agence du revenu du Canada, afin d’éviter toute obligation financière et/ou la possibilité d’accusations criminelles.
+J’ai communiqué à de nombreuses reprises avec plusieurs fonctionnaires de l’Agence du revenu du Canada pour leur demander de m’aider à me conformer à la loi, mais ils ont été incapables ou ont refusé de me fournir toute aide et, par conséquent, ils n’ont pas accompli leurs devoirs.
+Cette négligence de leur part a rendu nécessaire la présente instance judiciaire. [...]
+[4] Le 12 janvier 2007, l’intimée a présenté une requête visant à obtenir la radiation de l’avis d’appel sans autorisation de le modifier, en vertu de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale), et le rejet de l’appel de l’appelante au motif que :
+a) l’avis d’appel ne révèle aucune cause d’action raisonnable;
+b) il est scandaleux, frivole ou vexatoire;
+c) l’appel constitue par ailleurs un recours abusif à la Cour.
+[5] La Cour a instruit la requête le 5 avril 2007, mais elle n’a pas rendu les ordonnances sollicitées par l’intimée. La Cour a plutôt enjoint aux parties à l’instance de se rencontrer entre le 24 avril et le 25 mai 2007 afin d’aider l’appelante à produire ses déclarations. Elle leur a également ordonné de faire rapport à la Cour au plus tard le 31 mai 2007 pour l’informer de l’état d’avancement de la cause.
+[6] La date limite du 31 mai 2007 a été reportée au 31 juillet 2006, puis au 31 août 2007.
+[7] Le 29 août 2007, l’appelante a demandé une autre prolongation jusqu’au 30 novembre 2007 pour faire rapport à la Cour, mais l’intimée n’a pas consenti à ce qu’une nouvelle date soit fixée pour la communication avec la Cour étant donné qu’aucune réunion avec l’appelante n’avait eu lieu et que celle‑ci n’avait donné aucune raison de croire que son appel serait fondé sur une cause d’action sérieuse, même si les déclarations T1 avaient été produites.
+[8] L’instruction de la requête de l’intimée a été fixée au 9 octobre 2007.
+[9] Par des lettres datées des 5 et 24 septembre 2007 et du 4 octobre 2007, l’appelante a demandé à la Cour de rendre une ordonnance d’ajournement de l’instruction de la requête à cause de la maladie dont souffrait son comptable.
+[10] Cette demande de l’appelante a été rejetée parce qu’aucun progrès n’avait été réalisé depuis la première instruction de la requête, le 5 avril 2007.
+[11] À l’audience, l’appelante a expliqué qu’en avril 2007 elle avait retenu les services d’un comptable pour l’aider à produire ses déclarations de revenu. Elle a dit qu’il était un professionnel exerçant à titre individuel qui détenait une maîtrise en comptabilité et qui possédait un bureau chez lui. Elle pouvait à peine se souvenir de son nom, un certain Bernard Brosseau, et elle n’a pas été en mesure de fournir l’adresse de son bureau. L’appelante a dit qu’elle l’avait rencontré deux fois et qu’elle lui avait remis des boîtes de documents contenant de l’information concernant sa situation fiscale.
+[12] En ce qui concerne la maladie du comptable, l’appelante a fourni les renseignements suivants :
+a) il a été hospitalisé le 5 mai 2007;
+b) le 10 mai 2007, il a dû se faire amputer le pied gauche au Centre hospitalier Charles Lemoyne;
+c) son rétablissement a été interrompu par des complications imprévues, et, le 10 juillet 2007, il a été obligé de subir une seconde amputation de la jambe gauche, pratiquée cette fois‑ci au niveau du genou;
+d) après une période de convalescence, il retournera à l’hôpital pour obtenir une prothèse.
+[13] À l’audience, l’appelante, qui est une infirmière en chirurgie, ne savait pas quand son comptable serait capable de retourner au travail.
+[14] L’appelante a fait valoir que l’accord conclu avec l’intimée le 5 avril 2007 devait être observé. Elle a dit qu’elle avait respecté ses engagements de trouver un fiscaliste responsable pour effectuer les calculs nécessaires relativement aux déclarations de revenu contestées et produire celles‑ci. Elle a ajouté que l’intimée n’agissait pas de façon raisonnable et responsable en lui faisait courir le risque d’une condamnation pénale à cause d’un cas fortuit.
+[15] L’intimée a nié qu’un accord quelconque ait été conclu avec l’appelante en avril 2007. Elle a fait valoir que l’instruction de la requête n’avait pas à être ajournée jusqu’à ce qu’un comptable soit trouvé. Elle a affirmé qu’aucun progrès n’avait été réalisé dans le dossier en cause depuis le 5 avril 2007 et qu’aucune réunion avec l’appelante n’avait eu lieu. Finalement, l’intimée a signalé qu’il était toujours impossible de savoir pour quelles raisons les cotisations en cause étaient contestées.
+[16] En considération des faits décrits ci‑dessus et des actes de procédure des parties à l’instance, j’estime que l’avis d’appel de l’appelante ne révélait aucune cause d’action raisonnable.
+[17] Selon un principe de droit bien établi, la Cour peut radier un acte de procédure lorsqu’il est « évident et manifeste » que celui‑ci ne révèle aucune cause d’action raisonnable (voir les arrêts Bruno v. Canada (Customs and Revenue Agency), 2002 BCCA 47, [2002] B.C.J. nº 113 (QL), et Hunt c. Carey Canada Inc., [1990] 2 R.C.S. 959).
+[18] Il me semble bien évident que l’argument selon lequel un contribuable qui n’est pas en mesure de trouver une copie certifiée conforme de la Loi ne peut pas remplir ses obligations juridiques est sans fondement. Cette question a été examinée dans la décision R. v. Gibbs, 2006 BCPC 215, [2006] B.C.J. nº 1189 (QL), où le juge en est venu à la conclusion suivante au paragraphe 12 :
+[traduction]
+[…]
+Mme Gibbs fait valoir que le bien‑fondé de sa défense reposant sur la diligence raisonnable est établi, étant donné qu’elle ne pouvait pas trouver de copie certifiée conforme de la Loi de l’impôt sur le revenu, ce qui l’a empêchée de prendre connaissance de ses obligations juridiques. Cet argument est sans fondement. On peut facilement consulter la Loi de l’impôt sur le revenu en ligne par ordinateur, dans une bibliothèque publique, et par l’intermédiaire du gouvernement du Canada. […]
+[19] De plus, il a été statué dans de nombreuses décisions que l’ARC n’a aucune obligation de fournir un original ou une copie certifiée conforme de la Loi à un contribuable. Dans la décision R. v. Gibbs, 2006 BCSC 481, [2006] B.C.J. nº 652 (QL), au paragr. 54, la Cour suprême de la Colombie‑Britannique a cité les propos suivants tenus par le juge Tysoe dans la décision R. v. Holly Bruno, [2001] B.C.J. nº 2905, 2001 BCSC 1828, au paragr. 7 :
+[traduction]
+Je suis convaincu que les lois du pays sont contenues dans les Lois révisées du Canada de 1985, modifiées de temps à autre depuis cette année‑là. Mme Bruno pouvait consulter ces lois. Elle a été déclarée coupable en vertu de cette loi, et la déclaration de culpabilité est valide.
+[20] Cette décision a été confirmée par la Cour d’appel de la Colombie‑Britannique dans l’arrêt R. v. Bruno, [2002] B.C.J. nº 1177, 2002 BCCA 348, au paragraphe 7 :
+[traduction]
+[...] Je considère comme mal fondé l’argument selon lequel M. Bruno n’est pas en mesure de consulter les lois du Canada ou selon lequel l’omission de la Couronne de fournir une version de la Loi de l’impôt sur le revenu différente de celle que peut consulter le grand public, y compris M. Bruno, équivaut à une omission de divulguer. [...]
+[21] Dans la décision R. v. Gibbs, 2003 BCPC 527, [2003] B.C.J. 3153 (QL), la Cour provinciale de la Colombie‑Britannique a conclu que le fait qu’un document consistant en une compilation officiellement certifiée comme la Loi de l’impôt sur le revenu n’est pas fourni ne jette pas les bases d’une défense fondée sur la diligence raisonnable permettant à une personne de se soustraire à l’obligation de produire une déclaration de revenu. Au paragraphe 47 de la décision en question, la cour a fait la déclaration suivante :
+[traduction]
+[...] Par conséquent, le simple fait que l’administration fiscale ne lui remet pas un tel document ou que le contribuable est en mesure de trouver une telle compilation, ne soulève pas, en tant que tel, une question de diligence raisonnable.
+Au paragraphe 54 de la décision susmentionnée, la cour a ajouté :
+[traduction]
+[...] Les dispositions sont là, elles sont contraignantes, et le fait qu’une compilation officiellement certifiée n’est pas fournie ne jette donc pas les bases d’une défense fondée sur la diligence raisonnable permettant à une personne de se soustraire à l’obligation de production.
+[22] La déclaration faite par l’appelante dans son avis d’appel selon laquelle les fonctionnaires de l’ARC ont été incapables ou ont refusé de lui fournir toute aide et ont, par conséquent, omis d’accomplir leurs devoirs n’est pas étayée par la preuve et n’a aucun fondement. Dans ses demandes d’assistance, elle a sollicité des garanties de la part de fonctionnaires de l’ARC, comme en témoigne l’extrait suivant de la lettre de l’appelante datée du 29 septembre 2004 qui a été écrite à Michel Lavigne de l’ARC :
+[traduction]
+[...] Cet état de fait m’a convaincue que je dois me fier à un professionnel qui est apte et disposé à garantir ses conseils professionnels sans se dégager de toute responsabilité. Comme vous le savez, il s’agit d’une question de droit et d’une question financière, et la production d’une déclaration inexacte peut avoir de lourdes conséquences. Je souhaite régler cette affaire et, pour le faire, je demande par les présentes que vous m’aidiez et me fournissiez ce qui suit :
+· Une garantie écrite dans laquelle vous déclarez connaître pleinement la Loi de l’impôt sur le revenu du Canada.
+· Une garantie écrite dans laquelle vous déclarez pouvoir appliquer cette loi de façon appropriée.
+· Une garantie écrite que la version de la Loi de l’impôt sur le revenu du Canada qui est publiée par CCH Canadienne Limitée est conforme à la loi.
+· Une garantie écrite dans laquelle vous déclarez accepter la pleine responsabilité personnelle pour votre déclaration selon laquelle cette version de la Loi de l’impôt sur le revenu du Canada, c’est‑à‑dire celle publiée par CCH Canadienne Limitée, est conforme à la loi.
+· Des documents attestant que vous avez la capacité de rendre les décisions que vous rendez.
+· Une garantie écrite dans laquelle vous déclarez accepter la pleine responsabilité personnelle en ce qui concerne la conformité de toutes les consignes que vous me donnez à la copie certifiée conforme de la Loi de l’impôt sur le revenu du Canada.
+[23] Le 5 avril 2007, j’ai ajourné l’instruction de la requête pour donner à l’appelante une autre chance de se conformer à la Loi et de produire ses déclarations de revenu. L’avocate de l’intimée a accepté d’organiser une réunion avec l’appelante et un fonctionnaire de l’ARC pour aider Mme Iwanow à calculer son revenu pour les années d’imposition 2000 à 2003. L’appelante a trouvé un comptable, mais aucune réunion avec l’ARC n’a pu être organisée, et aucun progrès n’a été réalisé dans le dossier en cause depuis le 5 avril 2007. Lorsque l’appelante a réalisé que son comptable était malade, elle n’a fait aucune tentative pour le remplacer par un autre comptable qualifié. Comme elle était infirmière en chirurgie, elle savait certainement que son comptable ne serait pas en mesure de l’aider à produire ses déclarations de revenu pendant de nombreux mois.
+[24] D’après ce que j’ai pu constater, je suis convaincu que l’appelante n’a pas vraiment l’intention de produire les déclarations de revenu demandées.
+[25] Par conséquent, la requête présentée par l’intimée dans laquelle elle sollicite une ordonnance radiant l’avis d’appel de l’appelante sans autorisation de le modifier, en vertu de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale), est accueillie, et l’appel de l’appelante interjeté à l’encontre des cotisations établies à son égard pour ses années d’imposition 2000, 2001, 2002 et 2003 est rejeté sans frais.
+Signé à Ottawa, Canada, ce 10e jour de janvier 2008.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 27e jour de février 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2008CCI22
+Nº DU DOSSIER DE LA COUR : 2006-3072(IT)G
+INTITULÉ : Susanne Iwanow et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Les 5 avril et 9 octobre 2007
+MOTIFS DE L’ORDONNANCE : L’honorable juge Réal Favreau
+DATE DE L’ORDONNANCE : Le 10 janvier 2008
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Sophie-Lyne Lefebvre
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

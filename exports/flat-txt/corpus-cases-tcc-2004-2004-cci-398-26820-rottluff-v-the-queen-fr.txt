@@ -1,0 +1,127 @@
+Title: Rottluff v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26820/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-398-26820-rottluff-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-06-08
+
+# Rottluff v. The Queen
+
+- Citation: 2004 CCI 398
+- Decision date: 2004-06-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 691, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rottluff v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-08
+Référence neutre
+2004 CCI 398
+Numéro de dossier
+2003-2718(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2003-2718(IT)I
+ENTRE :
+JERRY ROTTLUFF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 6 février 2004 à Kamloops (Colombie-Britannique).
+Devant : M. le juge L.M. Little
+Comparutions :
+Représentante de l'appelant :
+Mme Nadine Rottluff
+Avocate de l'intimée :
+Me Shawna Cruz
+____________________________________________________________________
+JUGEMENT
+L'appel à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté, sans dépens, conformément aux motifs ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 8e jour de juin 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL.L.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2004CCI398
+Date : 20040608
+Dossier : 2003-2718(IT)I
+ENTRE :
+JERRY ROTTLUFF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] Pendant les années pertinentes, l'appelant travaillait comme commis-vendeur pour Canada Safeway Ltd., dans un magasin situé au 1033, avenue Austin, à Coquitlam (Colombie-Britannique).
+[2] En septembre 1996, l'appelant et sa conjointe ont vendu leur maison d'Aldergrove (Colombie-Britannique) et ont déménagé leurs biens personnels dans un entrepôt qu'ils ont loué à Scotch Creek (Colombie-Britannique).
+[3] Après la vente de la résidence familiale, l'appelant, sa conjointe et leurs deux enfants se sont installés dans le sous-sol d'une maison appartenant à Don et à Laura Clark, à Langley (Colombie-Britannique). Ces derniers sont les parents de la conjointe de l'appelant.
+[4] À l'automne 1996, l'appelant et sa conjointe ont acheté une maison à Celista (Colombie-Britannique), une ville située entre Salmon Arm et Chase, en Colombie-Britannique.
+[5] En mars 1997, l'appelant, sa conjointe et leurs enfants se sont installés dans la maison de Celista. L'appelant y a aussi déménagé les biens personnels de la famille qui étaient entreposés à Scotch Creek.
+[6] L'appelant a indiqué dans son témoignage qu'il avait demandé à son employeur, Canada Safeway Ltd., de le muter à l'un des magasins de la société situés à Salmon Arm ou à Kamloops, mais que ce dernier avait refusé.
+[7] L'appelant s'est inscrit à un cours d'immobilier à l'Université de la Colombie-Britannique et, le 3 avril 2000, a obtenu un diplôme de gestionnaire immobilier (pièce A-7).
+[8] En avril 2001, l'appelant a été embauché comme gestionnaire immobilier par Century 21 Lakeside Resort Ltd. ( « Century 21 » ), à Celista.
+[9] L'appelant a quitté cet emploi en septembre 2001 et a repris son poste chez Canada Safeway Ltd. au magasin de Coquitlam.
+[10] L'appelant a dit que sa conjointe et ses deux enfants ont habité sans interruption dans leur maison de Celista depuis avril 1997, et qu'il a travaillé de façon continue pour Canada Safeway, sauf pendant les quelques mois où il a été au service de Century 21 à titre de gestionnaire immobilier en 2001.
+[11] L'appelant a dit également qu'il a habité chez ses beaux-parents à Langley après le déménagement de sa conjointe et de ses enfants à Celista en avril 1997. Il a ajouté qu'il allait habituellement à Celista tous les dix jours pour passer quatre jours avec sa conjointe et ses enfants avant de retourner chez ses beaux-parents.
+[12] L'appelant a engagé des frais de déménagement de 4 547 $ en 1997 relativement au déménagement de sa famille à Celista.
+[13] Il a déduit ces frais de déménagement dans sa déclaration de revenus pour l'année d'imposition 2001.
+[14] La conjointe de l'appelant a engagé des frais de déménagement de 13 891 $ en 1997. La déduction de ces frais qu'elle a demandée pour l'année d'imposition 1998 a été accordée (la conjointe de l'appelant n'avait gagné aucun revenu pendant l'année d'imposition 1997, et les frais de déménagement ont été reportés à l'année d'imposition 1998).
+B. QUESTION EN LITIGE
+[15] Il s'agit de déterminer si l'appelant a le droit de déduire les frais de déménagement de 4 547 $ qu'il a payés en 1996 et en 1997 dans le calcul de son revenu pour l'année d'imposition 2001.
+C. ANALYSE
+[16] Le paragraphe 62(1) de la Loi de l'impôt sur le revenu (la « Loi » ) permet à un contribuable qui déménage d'une résidence au Canada à une autre résidence au Canada dans le but d'exploiter une entreprise ou d'occuper un emploi au Canada de déduire certains frais de déménagement si la distance entre sa nouvelle résidence et son nouveau lieu de travail est inférieure d'au moins 40 kilomètres à la distance entre son ancienne résidence et son nouveau lieu de travail.
+[17] Les frais de déménagement sont déductibles seulement du revenu tiré par le contribuable de son emploi ou de l'exploitation de l'entreprise au nouveau lieu de travail.
+[18] Les frais de déménagement d'un contribuable peuvent être déduits dans l'année du déménagement ou, s'ils ne peuvent pas l'être, dans l'année d'imposition suivante.
+[19] Il ressort clairement du libellé de la Loi que, pour déduire des frais de déménagement, un contribuable doit travailler au nouveau lieu de travail au Canada.
+[20] L'appelant soutient qu'il devrait avoir le droit de déduire dans le calcul de son revenu pour l'année d'imposition 2001 les frais de déménagement de 4 547 $ qu'il a payés en 1996 et en 1997 car il a accepté un emploi de gestionnaire immobilier chez Century 21 à Celista en 2001.
+[21] À mon avis, l'appelant n'est pas visé par la Loi parce que tous les frais de déménagement qu'il veut déduire ont été payés en 1996 et en 1997, soit de quatre à cinq ans avant qu'il obtienne l'emploi chez Century 21.
+[22] J'ai conclu que le ministre du Revenu national a eu raison de refuser la déduction des frais demandée par l'appelant pour 2001 puisque ces frais n'ont pas été engagés pendant l'année d'imposition 2001 ou pendant l'année précédente, contrairement à ce que prévoit l'article 62 de la Loi.
+[23] L'appel est rejeté sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 8e jour de juin 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL.L.
+RÉFÉRENCE :
+2004CCI398
+NUMÉRO DU DOSSIER DE LA COUR :
+2003-2718(IT)I
+INTITULÉ :
+Jerry Rottluff c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Kamloops (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 6 février 2004
+MOTIFS DU JUGEMENT :
+M. le juge L.M. Little
+DATE DU JUGEMENT :
+Le 8 juin 2004
+COMPARUTIONS :
+Représentante de l'appelant :
+Mme Nadine Rottluff
+Avocate de l'intimée :
+Me Shawna Cruz
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

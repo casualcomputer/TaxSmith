@@ -1,0 +1,230 @@
+---
+title: "Samson c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/23983/index.do"
+last_modified: "2005-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 383"
+citation2: ""
+neutral_citation: "2005 CCI 383"
+decision_date: "2005-06-17"
+language: "fr"
+item_id: "23983"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2169
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:49:22.341000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d832a3dc424c23b741ac0a70532218ee3af291f98c11cfbc872ef22f4bb2dd50"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Samson c. M.R.N.
+
+- Citation: 2005 CCI 383
+- Decision date: 2005-06-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2169, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Samson c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-17
+Référence neutre
+2005 CCI 383
+Numéro de dossier
+2002-2616(EI)
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-2616(EI)
+ENTRE :
+CECILE SAMSON,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Halifax (Nouvelle-Écosse), les 11 et 14 avril 2005.
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Représentant de l’appelante :
+M. Michel P. Samson
+Avocat de l’intimé :
+Me Edward R. Sawa
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté sans frais et la décision du ministre est confirmée, conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 17e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 9e jour de mai 2006.
+Christian Laroche, LL.B.
+Référence : 2005CCI383
+Date : 20050617
+Dossier : 2002-2616(EI)
+ENTRE :
+CECILE SAMSON,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] L’appelante est l’épouse de Carl Samson (le « payeur »).
+[2] Carl Samson exploite un garage dont il est propriétaire. Il offre des services d’entretien automobile et de réparation de carrosserie à L'Ardoise, à l’île du Cap‑Breton, en Nouvelle‑Écosse. L’entreprise du payeur a été lancée en 1988 et elle est connue sous le nom de « Samson’s Auto Repair » (l’« entreprise »).
+[3] L’appelante a fourni divers services à l’entreprise depuis 1988. Elle s’occupait des clients en personne et par téléphone, elle se chargeait de la facturation, elle effectuait toute la tenue de la comptabilité pour l’entreprise, elle préparait la feuille de paye, payait toutes les factures, faisait les dépôts à la banque, préparait les déclarations de TPS et de T.V.P., allait chercher les pièces d’automobiles chez les fournisseurs et livrait celles‑ci au garage où l’entreprise poursuivait ses activités en plus de raccompagner les clients et de les ramener aux locaux de l’entreprise.
+[4] L’établissement des déclarations de revenus et des états financiers de l’entreprise était confié à un comptable de l’extérieur.
+[5] L’appelante avance qu’elle exerçait un emploi assurable chez le payeur pendant les périodes suivantes :
+1. Du 3 avril 1995 au 16 mars 1996 – la première période;
+2. Du 30 avril 1996 au 26 juillet 1997 – la deuxième période;
+3. Du 3 novembre 1997 au 19 septembre 1998 – la troisième période.
+[6] L’appelante a affirmé qu’elle n’a pas travaillé pour le payeur pendant certaines périodes, parce que l’entreprise du payeur tournait au ralenti et que celui‑ci n’était pas en mesure de lui verser un salaire.
+[7] La feuille de paye du payeur montre que l’appelante a travaillé pour le payeur pendant les semaines se terminant aux dates suivantes : (Note : L’appelante ne travaillait pas pour le payeur pendant les semaines où son nom ne figurait pas sur la feuille de paye du payeur.)
+1996
+6 et 20 janvier
+10 février
+2 et 16 mars
+4 mai
+8 juin
+10 août
+12 octobre
+16 novembre
+14 décembre
+1997
+11 janvier
+1er et 15 février
+1er, 15 et 29 mars
+12 avril
+17 et 31 mai
+14 et 28 juin
+12 et 26 juillet
+8 novembre
+1998
+10 et 31 janvier
+14 et 28 février
+14 et 28 mars
+11 et 25 avril
+2, 16 et 30 mai
+13 et 27 juin
+11 et 25 juillet
+8 et 22 août
+5 et 19 septembre
+14 octobre
+[8] Par une lettre datée du 11 juin 1999, le ministre du Revenu national (le « ministre ») a rendu une décision dans laquelle il mentionne ce qui suit :
+[TRADUCTION]
+Votre emploi à titre d’employée fournissant des services aux termes d’un contrat de louage de services conclu avec Samson’s Auto Repair pendant les périodes visées par l’examen n’était pas assurable parce que, selon l’alinéa 5(2)i) de la Loi sur l’assurance‑emploi et l’alinéa 3(2)c) de la Loi sur l’assurance‑chômage, il existe entre vous un lien de dépendance.
+La raison pour laquelle nous estimons qu’il existait un lien de dépendance entre vous tient au fait que vous étiez mariée à Carl Samson et, après avoir examiné les relations de travail que vous entreteniez avec Samson’s Auto Repair, il n’était pas raisonnable de tirer les conclusions suivantes :
+- un travailleur non lié aurait été embauché à des conditions analogues;
+- votre employeur aurait embauché une personne non liée pour une période de temps analogue;
+- votre employeur aurait embauché une personne non liée pour effectuer ce genre de travail.
+Cette lettre a été signée par M. W.A. Fulton, directeur du Bureau des services fiscaux de Revenu Canada à Sydney. Revenu Canada est maintenant connu sous le nom de l’Agence du revenu du Canada (l’« ARC »).
+[9] L’appelante a interjeté appel de la décision. Dans une lettre datée du 11 juin 2002, le chef des appels du bureau de l’ARC à Sydney a répondu ce qui suit :
+[TRADUCTION]
+La présente vise l’appel que vous avez interjeté à l’égard de la décision relative à l’assurance‑emploi et à l’assurabilité de votre emploi chez Carl Samson, faisant affaire sous le nom de Samson’s Auto Repair, pour les périodes allant du 3 avril 1995 au 16 mars 1996, du 30 avril 1996 au 26 juillet 1997 et du 2 novembre 1997 au 19 septembre 1998. Il a été décidé que l’emploi n’était pas un emploi assurable, parce qu’on a estimé qu’il n’existait aucun contrat de louage de services.
+En outre, compte tenu de toutes les circonstances, notamment les modalités d’emploi, la durée du travail, le taux de salaire, les heures de travail et les fonctions exercées, le ministre a conclu que les parties n’auraient pas conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance. Par conséquent, l’emploi a été considéré comme exclu et non assurable pour l’application de la Loi sur l’assurance‑emploi et de la Loi sur l’assurance‑chômage.
+Si vous n’êtes pas d’accord avec la présente décision, vous pouvez interjeter appel à la Cour canadienne de l’impôt dans les 90 jours suivant la date de mise à la poste de la présente lettre. Vous trouverez des renseignements sur la façon d’introduire un appel dans le formulaire ci‑joint intitulé « Comment interjeter appel à la Cour canadienne de l’impôt ».
+La décision exposée dans la présente lettre est rendue en application du paragraphe 93(3) de la Loi sur l’assurance‑emploi ainsi que du paragraphe 651(3) de la Loi sur l’assurance‑chômage et se fonde sur les alinéas 5(1)a) et 5(2)i) de la Loi sur l’assurance‑emploi ainsi que sur les alinéas 3(1)a) et 3(2)c) de la Loi sur l’assurance‑chômage.
+[10] L’appelante a produit un avis d’appel à la Cour canadienne de l’impôt.
+B. LES QUESTIONS EN LITIGE
+[11] L’appelante exerçait‑elle pour le payeur un emploi assurable au sens de l’alinéa 3(1)a) de la Loi sur l’assurance‑chômage pendant les périodes allant du 3 avril 1995 au 16 mars 1996 et du 30 avril 1996 au 29 juin 1996 ainsi qu’au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi pendant les périodes allant du 30 juin 1996 au 26 juillet 1997 et du 3 novembre 1997 au 19 septembre 1998?
+[12] À titre subsidiaire, si la Cour est convaincue qu’un contrat de louage de services existait entre l’appelante et le payeur, le ministre soutient que l’appelante, en raison du lien de dépendance existant entre elle et le payeur, n’exerçait pas pour ce dernier un emploi assurable au cours des périodes en cause, puisque cet emploi constituait un emploi exclu au sens de l’alinéa 3(2)c) de la Loi sur l’assurance‑chômage pour les périodes allant du 3 avril 1995 au 16 mars 1996 et du 30 avril 1996 au 29 juin 1996 ainsi qu’au sens de l’alinéa 5(2)i) de la Loi sur l’assurance‑emploi pour les périodes allant du 30 juin 1996 au 26 juillet 1997 et du 3 novembre 1997 au 19 septembre 1998.
+[13] Le ministre affirme en outre qu’il était raisonnable de conclure que l’appelante et le payeur n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+C. ANALYSE
+[14] Pendant l’audition de l’appel, l’avocat de l’intimé a appelé Paulette Boudreau à témoigner. Dans son témoignage, Mme Boudreau a déclaré qu’elle travaillait pour Développement des ressources humaines Canada (« DRHC ») depuis 1997. Elle a affirmé qu’après avoir reçu d’un tiers un rapport touchant le payeur et l’appelante, elle a examiné les dossiers du payeur pour vérifier si l’appelante avait droit à des prestations sous le régime de la Loi sur l’assurance‑chômage et de la Loi sur l’assurance‑emploi.
+[15] Dans son témoignage, Mme Boudreau a mentionné qu’après avoir examiné les relevés d’emploi délivrés par le payeur, elle est arrivée à la conclusion que l’appelante avait exécuté un certain nombre de fonctions pour le compte du payeur pendant diverses périodes où son nom ne figurait pas sur la feuille de paye du payeur. Mme Boudreau a donné les exemples suivants :
+Pièce R‑5 — Divers dépôts bancaires effectués par l’appelante pour le compte du payeur alors que son nom ne figurait pas sur la feuille de paye. Note : Cette pièce montre que l’appelante a fait les dépôts suivants à la succursale St. Peter’s de la Banque Royale du Canada pour le compte du payeur pendant les périodes où elle ne travaillait pas pour ce dernier :
+1996 - 36 dépôts bancaires
+1997 - 53 dépôts bancaires
+1998 - 46 dépôts bancaires
+Total 135
+Pièce R‑9 — Divers chèques signés par l’appelante au nom du payeur, alors que l’appelante ne figurait pas sur la feuille de paye du payeur.
+Note : En 1996, l’appelante a établi et signé 259 chèques pour le compte du payeur, alors que son nom ne figurait pas sur la feuille de paye.
+En 1997, l’appelante a établi et signé 209 chèques pour le compte du payeur, alors que son nom ne figurait pas sur la feuille de paye.
+En 1998, l’appelante a établi et signé 155 chèques pour le compte du payeur, alors que son nom ne figurait pas sur la feuille de paye.
+Pièce R‑10 — Diverses factures signées par l’appelante pour le compte du payeur, alors que le nom de l’appelante ne se trouvait pas sur la feuille de paye.
+Selon cette pièce, l’appelante a signé cinq factures en 1997 et deux factures en 1998, alors qu’elle ne figurait pas sur la feuille de paye du payeur.
+[16] Pendant son témoignage, Mme Boudreau a précisé que les diverses activités professionnelles que l’appelante avait exécutées pour le compte du payeur, alors qu’elle ne figurait pas sur la feuille de paye de ce dernier, avaient probablement constitué le principal facteur l’ayant convaincue de refuser la demande de prestations présentée par l’appelante sous le régime de la Loi sur l’assurance‑chômage et de la Loi sur l’assurance‑emploi.
+[17] Dans son témoignage, l’appelante a déclaré que, pendant les périodes où son nom ne se trouvait pas sur la feuille de paye du payeur, elle continuait de faire juste assez de tenue de la comptabilité pour veiller à ce que les chèques émis au payeur soient déposés et que les factures du payeur soient signées. Cependant, l’appelante a affirmé que, pendant les périodes où son nom figurait sur la feuille de paye du payeur, elle remplissait bien d’autres fonctions supplémentaires.
+[18] L’appelante a en outre déclaré que son mari, Carl, est mécanicien d’automobile et qu’il est incapable de remplir les fonctions liées à la tenue de la comptabilité. Elle a ajouté que, si elle ne se chargeait pas de la tenue de la comptabilité et des autres fonctions « administratives », le payeur serait obligé d’embaucher un aide‑comptable.
+[19] La décision rendue sous le régime de la Loi sur l’assurance‑emploi était fondée sur les alinéas 5(2)i) et 5(3)b). Ces dispositions sont ainsi rédigées :
+5(2) N’est pas un emploi assurable :
+[...]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5(3) Pour l’application de l’alinéa 2i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+(Note : Le libellé du paragraphe 5(2) de la Loi sur l’assurance‑emploi est à peu de chose près identique au libellé du paragraphe 3(2) de la Loi sur l’assurance‑chômage. La Loi sur l’assurance‑chômage s’appliquait aux années d’imposition 1995 et 1996.)
+[20] Dans le présent appel, on conteste la décision du ministre voulant qu’il ne soit pas convaincu qu’il aurait été raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, que l’employeur et l’employée auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[21] Selon moi, la position dans laquelle se trouve le juge de la Cour canadienne de l’impôt en pareil cas est correctement exposée par le juge en chef Richard de la Cour d’appel fédérale dans l’arrêt Denis c. Canada, [2004] A.C.F. no 400 :
+5. Le rôle du juge de la Cour canadienne de l’impôt dans un appel d’une détermination du ministre sur les dispositions d’exclusion contenues aux paragraphes 5(2) et (3) de la Loi est de s’enquérir de tous les faits auprès des parties et les témoins appelés pour la première fois à s’expliquer sous serment et de se demander si la conclusion du ministre paraît toujours raisonnable. Toutefois, le juge ne doit pas substituer sa propre opinion à celle du ministre lorsqu’il n’y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus (voir Pérusse c. Canada (ministre du Revenu national – M.R.N.), [2000] A.C.F. no 310, 10 mars 2000).
+Compte tenu de ces observations, je crois que le juge de la Cour canadienne de l’impôt a pour rôle de conduire l’instruction à laquelle les deux parties ont la possibilité de présenter des éléments de preuve touchant les modalités d’emploi de l’appelant, les modalités d’emploi de personnes non liées qui font un travail semblable chez le même employeur et les modalités d’emploi prédominant dans le secteur d’activité pour le même genre de travail au même moment et au même endroit. À la lumière de tous ces éléments de preuve et de l’opinion du juge quant à la crédibilité des témoins, le juge de la Cour de l’impôt doit ensuite apprécier si le ministre, saisi de l’ensemble de cette preuve, aurait pu raisonnablement ne pas conclure que l’employeur et une personne non liée auraient conclu entre eux un contrat de travail à peu près semblable. Voilà, à mon sens, le degré de retenue judiciaire que le législateur accorde à l’opinion du ministre lorsqu’il emploie les termes « [...] si le ministre du Revenu national est convaincu [...] » à l’alinéa 5(3)b).
+(Note : Je suis également d’accord avec les observations formulées par mon collègue, le juge Bowie, dans la décision Birkland c. Canada, [2005] A.C.I. no 195.)
+[22] Lorsque j’applique l’approche énoncée ci‑dessus aux faits dont je suis saisi, je suis convaincu que le principal élément de preuve justifiant la position adoptée par le ministre tient aux travaux étendus que l’appelante effectuait pour le compte du payeur, alors qu’elle ne figurait pas sur la feuille de paye de celui‑ci. Comme il est mentionné plus haut, au cours de ces périodes où l’appelante n’était pas sur la feuille de paye du payeur, elle a effectué un total de 135 dépôts bancaires distincts en 1996, 1997 et 1998. De plus, l’appelante a émis et signé un total de 623 chèques pour le compte du payeur en 1996, 1997 et 1998, bien qu’elle n’ait pas figuré sur la feuille de paye du payeur. Enfin, l’appelante a signé un certain nombre de factures pour le compte du payeur, même si elle n’était pas sur la feuille de paye de ce dernier. Les nombreuses activités accomplies par l’appelante pour le compte du payeur, alors que son nom ne figurait pas sur la feuille de paye, sont une preuve manifeste du fait qu’une personne non liée avec le payeur n’aurait pas rempli des fonctions de cette importance et de cette nature. J’ai donc conclu que le ministre était justifié de rendre sa décision.
+[23] Pendant l’audience, l’appelante était représentée par Michel Samson, député provincial de la Nouvelle‑Écosse. M. Samson soutient qu’il y a eu atteinte aux droits garantis à l’appelante par la Charte canadienne des droits et libertés lorsque les fonctionnaires de DRHC ont obtenu les éléments de preuve invoqués par le ministre.
+[24] M. Samson renvoie expressément aux articles 7 et 8 de la Charte canadienne des droits et libertés, selon lesquels :
+7. Chacun a droit à la vie, à la liberté et à la sécurité de sa personne; il ne peut être porté atteinte à ce droit qu’en conformité avec les principes de justice fondamentale.
+8. Chacun a droit à la protection contre les fouilles, les perquisitions ou les saisies abusives.
+[25] J’ai minutieusement examiné la preuve présentée par le ministre, et en particulier le témoignage de Mme Boudreau, de DRHC, et je ne suis pas convaincu que les droits garantis à l’appelante par la Charte canadienne des droits et libertés ont été violés. À mon avis, Mme Boudreau a rempli comme il se doit sa fonction d’enquêteuse.
+[26] Avant de conclure mes observations, je tiens à signaler combien j’ai été impressionné par le témoignage de l’appelante. De toute évidence, elle fournit un service très important et précieux à son mari. Cependant, ma fonction en l’espèce consiste à interpréter les règles de droit pertinentes et je n’ai pas compétence pour les modifier.
+[27] L’appel est rejeté sans frais.
+Signé à Vancouver (Colombie-Britannique), ce 17e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 9e jour de mai 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE :
+2005CCI383
+NO DU DOSSIER DE LA COUR:
+2002-2616(EI)
+INTITULÉ DE LA CAUSE :
+Cecile Samson c.
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE :
+Les 11 et 14 avril 2005
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 17 juin 2005
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Michel P. Samson
+Avocat de l’intimé :
+Me Edward R. Sawa
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

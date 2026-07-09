@@ -1,0 +1,195 @@
+---
+title: "Boisvert c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29112/index.do"
+last_modified: "2009-02-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 94"
+citation2: ""
+neutral_citation: "2009 CCI 94"
+decision_date: "2009-02-23"
+language: "fr"
+item_id: "29112"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6673
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:08:22.485000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "38aa716fe8add993a7b53ddcd7ae7fcd62f27c29ac0943a240352c37c394af9d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boisvert c. M.R.N.
+
+- Citation: 2009 CCI 94
+- Decision date: 2009-02-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6673, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boisvert c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-23
+Référence neutre
+2009 CCI 94
+Numéro de dossier
+2008-1316(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-1316(EI)
+ENTRE :
+PATRICK BOISVERT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 12 janvier 2009, à Québec (Québec).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l'intimé :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi (« Loi ») est rejeté au motif que monsieur Boisvert, pendant la période du 6 janvier au 29 juillet 2006, n'occupait pas un emploi assurable chez 9164‑0367 Québec Inc., et la décision du ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour de février 2009.
+« Paul Bédard »
+Juge Bédard
+Référence : 2009 CCI 94
+Date : 20090223
+Dossier : 2008-1316(EI)
+ENTRE :
+PATRICK BOISVERT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L’appelant interjette appel de la décision du ministre du Revenu national (le « ministre ») rendue en vertu de la Loi sur l’assurance‑emploi (la « Loi »). Le ministre a décidé que monsieur Patrick Boisvert (le « travailleur ») n’occupait pas un emploi assurable lorsqu’il était au service de 9164-0367 Québec Inc. (le « payeur »), puisqu’il a conclu qu’il s’agissait d’un emploi exclu, parce qu’un contrat de travail semblable n’aurait pas été conclu s’il n’y avait pas eu de lien de dépendance entre le travailleur et le payeur. La période de travail pertinente allait du 6 janvier au 29 juillet 2006.
+[2] Pour rendre sa décision, le ministre s’est fondé sur les hypothèses de fait suivantes énoncées aux paragraphes 5 et 6 de la Réponse à l’avis d’appel :
+5. L’appelant et le payeur sont des personnes liées au sens de la Loi de l’impôt sur le revenu car :
+a) les actionnaires du payeur étaient :
+- Pierre-Luc Boulé-Orichefqui avec 50% des actions comportant droit de vote, [admis]
+- Karine Boulé-Orichefqui avec 50% des actions comportant droit de vote, [admis]
+- Michel Orichefqui avec 63 000 actions ne comportant aucun droit de vote, [nié]
+b) Pierre-Luc et Karine sont les enfants de Michel Orichefqui; [admis]
+c) l’appelant était le conjoint de Karine Orichefqui; [admis]
+d) l’appelant était lié à un groupe de personnes qui contrôlaient le payeur. [ni admis, ni nié]
+6. Le ministre a déterminé que l’appelant et le payeur avaient un lien de dépendance entre eux dans le cadre de l’emploi. En effet, le ministre a été convaincu qu’il était raisonnable de conclure que l’appelante et le payeur n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) le payeur a été constitué en société le 20 janvier 2006; [ni admis ni nié]
+b) le payeur a exploité un resto-bar situé au Lac Mégantic sous la raison sociale de Resto-Pub le Kaméléon du 1er février au 30 septembre 2006; [ni admis ni nié]
+c) le payeur a débuté ses opérations en faisant la location de la salle à manger et de tous les équipements du Motel sur le lac à Frontenac pour une période de 12 mois; [admis]
+d) le contrat de location de la salle à manger et du bar comportait une clause avec option d’achat et a été signé par les 3 actionnaires du payeur et par l’appelant; [admis]
+e) le restaurant du payeur comptait 80 places et possédait un permis de boisson; on y servait des menus du jour et, durant les fins de semaines, des tables d’hôtes avec des thématiques; [admis]
+f) le payeur a embauché jusqu’à 15 personnes, incluant les actionnaires; [admis]
+g) l’appelant a lancé, avec sa conjointe, Karine Boulé-Orichefqui, le projet d’exploiter un restaurant car il avait beaucoup d’expérience dans ce domaine; [ni admis ni nié]
+h) même s’il était à l’origine du projet et celui possédant l’expertise dans le domaine, l’appelant n’a jamais détenu d’actions dans l’entreprise du payeur car il possédait un casier judiciaire; [nié ce qui est souligné]
+i) Mme Karine Boulé-Orichefqui a mentionné que l’appelant assistait à toutes les réunions du conseil d’administration du payeur (les 3 actionnaires), alors que l’appelant a mentionné le contraire; [nié]
+j) l’appelant aurait été embauché en vertu d’un contrat écrit dont le payeur et les signataires contestent l’existence; [admis]
+k) l’appelant a été embauché pour lancer l’entreprise et pour y travailler à titre de chef exécutif, de gestionnaire et de chef cuisinier pour une période d’environ 6 mois; [admis]
+l) à titre de chef exécutif, l’appelant devait s’occuper des tâches suivantes : monter le plan d’affaires et démarrer le restaurant, élaborer les menus, commander le matériel et l’équipement manquant, effectuer les achats des produits, embaucher le personnel et préparer les horaires de travail et effectuer les paiements aux fournisseurs; [admis]
+m) à titre de gestionnaire, l’appelant devait s’occuper de la formation des employés et en assurer le suivi en surveillant leur travail et en contrôlant leurs heures de travail; [admis]
+n) l’appelant, tout comme les 3 actionnaires du payeur, était autorisé à signer les chèques du payeur; il pouvait initialement signer seul mais, à partir de mars 2006, 2 signatures étaient requises dont, obligatoirement, celle de Michel Orichefqui; [admis]
+o) l’appelant, contrairement à tous les employés du payeur, n’avait aucun horaire de travail à respecter et ses heures n’étaient pas comptabilisées par le payeur; [nié]
+p) l’appelant prétend qu’il travaillait 7 jours par semaine et entre 80 et 90 heures par semaine; un peu moins vers la fin de la période; [admis]
+q) selon la version de l’appelant, il aurait convenu avec le payeur qu’il recevrait un montant de 2 500 $ brut par semaine payé de la façon suivante : 700 $ en argent liquide, 800 $ par chèque et la balance de 1 000 $ serait retenu par le payeur pour couvrir l’impôt des 2 paliers, la RRQ et l’assurance-emploi; [admis]
+r) selon la version du payeur, il devait verser un salaire net de 1 000 $ net par semaine pour le couple, soit pour les services de l’appelant et de sa conjointe, Mme Karine Boulé-Orichefqui; [nié]
+s) l’appelant affirme qu’il a reçu 700 $ en argent liquide par semaine alors que le payeur affirme n’avoir versé aucune somme en argent à l’appelant; [admis]
+t) les chèques de paie émis par le payeur révèlent qu’il n’y a eu aucun chèque émis avant le 9 février 2006 et que les 15 premiers chèques de paie étaient faits au nom de Mme Karine Boulé-Orichefqui; [admis]
+u) de plus, le dernier chèque émis au nom de l’appelant était au montant de 600 $ et daté du 4 août 2006; [admis]
+v) nous n’avons pas été en mesure de confirmer la rémunération réelle de l’appelant durant la période en litige; [ni admis, ni nié]
+w) l’appelant aurait cessé son travail suite à la dégradation du chiffre d’affaires du payeur et suite à sa séparation d’avec sa conjointe; [nié]
+x) suite à la fermeture du commerce du payeur, les détenteurs des actions votantes du payeur ont fait une faillite personnelle et Michel Orichefqui a perdu son investissement dans l’entreprise (environ 60 000 $); [admis]
+y) pour sa part, le 26 août 2006, l’appelant a signé une reconnaissance de dettes avec M. Michel Orichefqui par laquelle il s’engageait à rembourser, entre autre, une somme de 27 000 $ représentant une partie de la perte encourue par le restaurant du payeur; [nié]
+[…]
+aa) la période en litige ne débute que le 6 janvier 2006 alors que l’appelant aurait préparé le plan d’affaires, selon toute vraisemblance, avant de louer le restaurant et le bar. [admis]
+[3] Le travailleur a témoigné. Madame Bianca Dubois, la conjointe de fait du travailleur, a aussi témoigné à l’appui de la position du travailleur. Par ailleurs, monsieur Michel Orichefqui et madame Francine Deschesnes, l’agente des appels chargée de la révision de la décision initiale, ont témoigné à l’appui de la décision du ministre.
+Témoignage du travailleur
+[4] Il ressort notamment du témoignage du travailleur que :
+i) un contrat d’emploi écrit (pièce A-3) était intervenu le 5 janvier 2006 entre lui et le payeur. Je souligne immédiatement que monsieur Michel Orichefqui a témoigné qu’aucun contrat d’emploi écrit n’était intervenu entre le travailleur et le payeur et que la signature apparaissant sur le contrat déposé en preuve sous la cote A-3 n’était pas la sienne;
+ii) en 2005, c’est-à-dire hors de la période pertinente, il avait consacré environ 300 heures, et ce, sans rémunération, à trouver un local pour exploiter un restaurant, à monter le plan d’affaire pour le payeur, à élaborer les menus, à négocier le bail, à commander du matériel, à trouver des fournisseurs d’aliments, à négocier le prix des aliments avec ces fournisseurs et finalement à embaucher du personnel qualifié. Le travailleur a expliqué à cet égard que la rémunération convenue avec le payeur, en l’espèce 2 500 $ par semaine, tenait justement compte du fait qu’il n’avait pas été rémunéré pour les 300 heures de travail;
+iii) il avait été signataire du bail déposé en preuve sous la cote I-1 à titre de colocataire du local où avait été exploité le restaurant du payeur pendant la période pertinente;
+iv) il avait assisté à la moitié des réunions du conseil d’administration du payeur. Je souligne que le travailleur avait déclaré[1] à madame Deschesnes qu’il n’avait pas participé à de telles réunions;
+v) il avait un horaire à respecter. Le travailleur a ajouté que ses heures de travail avaient été comptabilisées par monsieur Michel Orichefqui ou par madame Karine Orichefqui. Je souligne que le travailleur avait déclaré[2] à madame Deschesnes qu’il « avait complété à la main une fiche de travail au même titre que les autres employés ». Par ailleurs, je note que monsieur Michel Orichefqui avait déclaré[3] à madame Deschesnes que le travailleur n’avait pas d’horaire à respecter et qu’il n’avait jamais rempli de feuille de temps;
+vi) il n’avait jamais signé la reconnaissance de dette déposée en preuve sous la cote I-3 aux termes de laquelle il se serait engagé notamment à rembourser une somme de 27 000 $ représentant une partie de la perte d’exploitation du restaurant encourue par le payeur. Le travailleur a expliqué à cet égard qu’il avait intenté des poursuites judiciaires visant à démontrer que sa signature avait été falsifiée;
+vii) il avait quitté son emploi non pas en raison de la dégradation du chiffre d’affaires du payeur et de sa séparation d’avec sa conjointe mais bien parce que les actionnaires du payeur utilisaient les fonds du payeur à des fins personnelles.
+Rémunération du travailleur
+[5] À l’égard de la rémunération du travailleur, je note que le contrat d’emploi déposé en preuve sous la cote A-3 prévoyait que le payeur s’engageait à payer au travailleur « 2 500 $ brut par semaine et par entente avec l’employé lui verser 1 500 $ net pour que le remboursement des retenues à la source soit plus élevé et que monsieur Boisvert n’ait pas à débourser à la fin de l’année fiscale… ». À cet égard, le travailleur a expliqué qu’un montant de 2 500 $ brut par semaine lui avait été payé de la façon suivante : 700 $ en argent comptant, 800 $ par chèque tiré à son ordre ou à l’ordre de sa conjointe de fait, madame Karine B. Orichefqui, et le solde de 1 000 $ avait été retenu par le payeur pour couvrir les charges sociales et l’impôt sur le revenu. Le travailleur a expliqué qu’il avait donné à l’occasion des directives au payeur pour que sa rémunération payable par chèque soit plutôt versée par chèque à sa conjointe de fait, madame Karine B. Orichefqui, parce que cette dernière était en mesure d’encaisser plus rapidement les chèques auprès de sa banque. Le travailleur a ajouté que sa conjointe lui avait toujours remis l’argent comptant provenant de l’encaissement de ces chèques, argent comptant qu’il s’empressait de déposer dans son compte bancaire pour couvrir les chèques en circulation ou les paiements préautorisés. Il convient de souligner que le travailleur aurait pu déposer en preuve ses relevés bancaires pour démontrer qu’il avait déposé dans son compte bancaire 1 500 $ en argent comptant, et ce, pendant 29 semaines en 2006. Il était en mesure de fournir cette preuve. Il ne l’a pas fait. J’en infère que cette preuve lui aurait été défavorable. Les déclarations de monsieur Michel Orichefqui et de sa fille Karine faites à madame Deschesnes (dont la crédibilité n’a pas à être mise en doute) à l’égard de la rémunération du travailleur méritent d’être citées immédiatement :
+47. Le rôle de Karine Boulé-Orichefqui était de travailler au service aux tables et bar et Pierre-Luc Boulé-Orichefqui aidait les fins de semaines comme maître d’hôtel. Aucun d’eux ne s’occupait de la gestion, jusqu’au départ de Patrick Boisvert.
+48. Ils ont déterminé tous ensemble le salaire à verser à Patrick Boisvert et à Karine Boulé-Orichefqui.
+49. Le payeur a déterminé un salaire pour le couple, soit 1 000 $ net par semaine. Ce qui donnait 500 $ net par semaine à Karine Boulé-Orichefqui et Patrick Boisvert et chacun devait s’occuper de l’impôt à la fin de l’année. Il n’y a jamais eu d’entente pour 2 500 $ par semaine pour Patrick Boisvert.
+Remarque : Le travailleur a mentionné que deux signatures ont toujours été requises.
+50. La compagnie a versé au couple 1 000 $ pour les trois premières semaines par la suite la compagnie a versé 800 $ par semaine selon les liquidités. Souvent un seul chèque était fait pour le couple. Le payeur affirme n’avoir jamais versé 700 $ en argent par semaine.
+Remarque : Le travailleur a affirmé qu’il a toujours reçu 700 $ en argent à chaque semaine.
+57. Michel Orichefqui affirme n’avoir jamais fait de feuillet T4 pour Patrick Boisvert, ni d’en avoir remis un à Patrick Boisvert.
+Remarque : Le travailleur a affirmé le contraire.
+68. Karine Boulé-Orichefqui mentionne et je cite : « On se faisait des chèques de 800 $ net par semaine et c’était pour nous deux. On avait décidé de notre salaire lui et moi. Des fois le chèque était à mon nom et des fois à son nom. Quand le chèque était à mon nom, je l’échangeais et lui donnais 400 $ ».
+Je souligne que monsieur Michel Orichefqui a essentiellement réitéré dans son témoignage à l’égard de la rémunération du travailleur les déclarations qu’il avait faites à madame Deschesnes. Par ailleurs, il ressort de mon analyse des chèques (Pièce I-2) faits par le payeur au travailleur et à sa conjointe entre le 9 février 2006 et le 19 mai 2006 que :
+1) le montant de ces chèques varie entre 150 $ et 1 600 $;
+2) les montants inscrits sur 18 des 29 chèques sont de 800 $;
+3) les chèques émis entre le 9 février 2006 et le 19 mai 2006 ont été tirés à l’ordre de madame Karine Boulé-Orichefqui.
+[6] Par ailleurs, je note que le premier formulaire T-4 déposé en preuve par l’appelant sous la cote A-2 indique que la rémunération que le travailleur aurait reçue du payeur en 2006 aurait été de 43 500 $. Je rappelle que monsieur Orichefqui avait déclaré à madame Deschesnes que le payeur n’avait produit aucun formulaire à l’égard de la rémunération qu’il avait versée au travailleur et à madame Karine B. Orichefqui. Par ailleurs, madame Deschesnes a témoigné que l’Agence des douanes et du revenu Canada (l’« Agence ») avait reçu le 20 novembre 2007 ce T-4. Enfin, je note à propos du T-4 modifié et déposé en preuve par l’appelant sous la cote A-4 que la rémunération que le travailleur aurait reçue du payeur en 2006 avait été de 72 500 $ et non de 43 500 $. À l’égard du T-4 modifié, madame Deschesnes a témoigné que l’Agence l’avait reçu le 7 mai 2008. Madame Deschesnes a ajouté qu’elle ne pouvait identifier la personne qui avait fait parvenir ces T-4. Finalement, il ressort de mon analyse du registre des salaires du payeur que le nom du travailleur et celui de sa conjointe Karine n’y figurent pas.
+Témoignage de madame Bianca Dubois
+[7] Le témoignage de madame Bianca Dubois qui, à mon avis, doit être examiné avec beaucoup de prudence, étant donné qu’elle est actuellement la conjointe de fait du travailleur, ne nous aura appris de toute façon bien peu de chose si ce n’est qu’elle avait été témoin de la signature par monsieur Orichefqui du document déposé en preuve sous la cote A-5 et qu’elle avait été aussi témoin du versement d’une somme en argent comptant au travailleur par monsieur Orichefqui.
+Témoignage de madame Deschesnes
+[8] Je retiens du témoignage de madame Deschesnes que le site internet d’Emploi‑Québec indique que le salaire horaire versé à un chef cuisinier dans la région de l’Estrie en 2006 variait entre 10 $ et 15,99 $. Elle avait conclu que le salaire horaire de 31,25 $ versé au travailleur était nettement déraisonnable étant donné que l’entreprise du travailleur était en démarrage. À cet égard, elle a souligné que le payeur avait enregistré des revenus bruts de 185 483 $ en 2006.
+Analyse et conclusion
+[9] Rappelons que l’intimé a déterminé que cet emploi n’était pas assurable étant donné l’alinéa 5(2)i) et le paragraphe 5(3) de la Loi, car il a été convaincu qu’il n’était pas raisonnable de conclure, compte tenu de toutes les circonstances, que l’appelant et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[10] La Cour d’appel fédérale a défini à plusieurs reprises le rôle confié par la Loi à un juge de la Cour canadienne de l’impôt. Ce rôle ne permet pas au juge de substituer sa discrétion à celle du ministre, mais il emporte l’obligation de « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, [. . .] décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable ».[4]
+[11] En d’autres termes, avant de décider si la conclusion du ministre me paraît toujours raisonnable, je dois, à la lumière de la preuve dont je dispose, vérifier si les allégations du ministre s’avèrent bien fondées, compte tenu des facteurs mentionnés à l’alinéa 5(3)b) de la Loi. Il y a donc lieu de se demander si le payeur et l’appelant auraient conclu un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[12] L’appelant avait le fardeau de démontrer que le ministre n’avait pas exercé son pouvoir discrétionnaire selon les principes applicables en la matière, c’est-à-dire démontrer notamment qu’il n’a pas examiné tous les faits pertinents ou qu’il n’a pas tenu compte des faits qui étaient pertinents.
+[13] À la lumière de la preuve dont je dispose, après examen des facteurs (dont particulièrement la rétribution versée, l’importance du travail accompli et la durée de l’emploi) mentionnés à l’alinéa 5(3)b) de la Loi et après vérification de leur bien‑fondé, les allégations et conclusions dont le ministre était convaincu me paraissent raisonnables. Par conséquent, je suis d’avis que cet emploi était un emploi non assurable.
+[14] En effet, aucune personne non liée au payeur n’aurait accepté de ne pas être rémunérée pour les 300 heures de travail qu’elle aurait accompli dans le cadre de ses fonctions. De plus, il est évident qu’aucun payeur exploitant, je le rappelle, une toute petite entreprise en démarrage n’aurait accepté de verser un salaire horaire aussi élevé à un employé non lié. Je rappelle que la version du travailleur veut qu’il avait reçu du payeur une rémunération de 72 500 $ en contrepartie de 2 465 heures de travail (29 semaines x 85 heures en moyenne) accomplies pendant la période pertinente. Donc, le salaire horaire versé au travailleur, de l’aveu même de ce dernier, aurait été de 29,41 $, soit un salaire horaire nettement plus élevé que le salaire horaire le plus élevé versé en 2006 ailleurs dans la région de l’Estrie à un chef cuisinier. Je souligne que le travailleur n’a pas fait la preuve que les statistiques sur lesquelles s’était basé le ministre étaient erronées. Je note aussi que le travailleur n’a pas démontré que sa notoriété en tant que chef cuisinier était reconnue. En supposant même que je doive tenir compte du fait que sa rémunération de 72 500 $ tenait compte des 300 heures accomplies lors de la période pertinente, ma conclusion serait la même, car un salaire horaire de 26,22 $ serait de toute façon un salaire déraisonnable en l’espèce.
+[15] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 23e jour de février 2009.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2009 CCI 94
+Nº DU DOSSIER DE LA COUR : 2008-1316(EI)
+INTITULÉ DE LA CAUSE : PATRICK BOISVERT ET M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 12 janvier 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 23 février 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l'intimé :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Vg paragraphe 35 de la Pièce I-7.
+[2] Vg paragraphe 25 de la Pièce I-7.
+[3] Vg paragraphe 52 de la Pièce I-7.
+[4] Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878 (QL), paragraphe 4.

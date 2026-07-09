@@ -1,0 +1,309 @@
+---
+title: "Leduc Society for Christian Education v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520980/index.do"
+last_modified: "2023-07-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 114"
+citation2: ""
+neutral_citation: "2022 TCC 114"
+decision_date: "2023-07-28"
+language: "en"
+item_id: "520980"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4503
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:22:24.917000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f44a3ccd2300b3994fdc2fb2e06c3297a1bb5aa610153bb620b5dfeef75d3985"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leduc Society for Christian Education v. The King
+
+- Citation: 2022 TCC 114
+- Decision date: 2023-07-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4503, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leduc Society for Christian Education v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-10-05
+Neutral citation
+2022 TCC 114
+File numbers
+2017-1753(IT)G
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-1753(IT)G
+BETWEEN:
+LEDUC SOCIETY FOR CHRISTIAN EDUCATION,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2017-1754(IT)G
+AND BETWEEN:
+MCS FOUNDATION LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2017-1755(IT)G
+AND BETWEEN:
+TABER SOCIETY FOR CHRISTIAN EDUCATION LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Matter called for virtual hearing on October 18 and 19, 2021
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellants:
+MaryAnne Loney
+Counsel for the Respondent:
+Joanna Hill
+Linsey Rains
+RULE 58 DETERMINATION
+In accordance with the attached reasons for determination, the questions raised pursuant to section 58 of the Tax Court of Canada Rules (General Procedure) are answered as follows:
+Was the payment of alternative Christian program fees by parents to the Appellants voluntary?
+No
+Did the parents receive a benefit or consideration from the Appellants in return for their payment of the alternative Christian program fees?
+Yes
+Each party shall bear their own costs.
+Signed at Ottawa, Canada, this 5th day of October 2022.
+“Susan Wong”
+Wong J.
+Citation: 2022TCC114
+Date: 05102022
+Docket: 2017-1753(IT)G
+BETWEEN:
+LEDUC SOCIETY FOR CHRISTIAN EDUCATION,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2017-1754(IT)G
+AND BETWEEN:
+MCS FOUNDATION LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2017-1755(IT)G
+AND BETWEEN:
+TABER SOCIETY FOR CHRISTIAN EDUCATION LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR DETERMINATION
+Wong J.
+Introduction/Overview
+[1] This is an application under section 58 of the Tax Court of Canada Rules (General Procedure) and the questions to be determined are:
+a) Was the payment of alternative Christian program fees by parents to the appellants voluntary?
+b) Did the parents receive a benefit or consideration from the appellants in return for their payment of the alternative Christian program fees?
+[2] The fiscal periods (i.e. school years) in issue are as follows:
+a) Leduc Society for Christian Education (“Leduc”) – September 1, 2006 to August 31, 2007 and September 1, 2007 to August 31, 2008;
+b) MCS Foundation Ltd. (“MCS”) – September 1, 2008 to August 31, 2009; and
+c) Taber Society for Christian Education Ltd. (“Taber”) – September 1, 2009 to August 31, 2010 and September 1, 2010 to August 31, 2011.
+[3] The Minister of National Revenue levied penalties against the appellants under subsection 188.1(7) of the Income Tax Act on the basis that the alternative Christian program fees were not gifts and therefore, the appellants could not issue donation receipts.
+[4] In granting the parties’ joint application for determination of these questions, I directed that the parties could rely on the pleadings, a partial agreed statement of facts, and a book of agreed documents. [1]
+Factual background
+[5] The facts are not identical across the three appeals but are sufficiently similar that the matters were argued on common evidence, with distinctions drawn as needed.
+[6] The appellants are registered charities under the Income Tax Act, incorporated in and operating in Alberta. [2] Based on their respective incorporation documents, their common objective was to provide Christian education. [3]
+[7] Prior to the periods under appeal, Leduc and MCS operated private religious schools called Covenant Christian School and Meadowlark Christian School, respectively. [4] Taber Christian School was a private religious school operated by the Society for Christian Education Southern Alberta, prior to be taken over by Taber in 2009. [5]
+[8] During the periods under appeal, Alberta school boards operated under the provincial School Act [6] which was replaced by the provincial Education Act [7] in September 2019. They are required to provide access to education to all children who are residents of the board’s district and no tuition is required to attend public schools. [8]
+[9] Both Acts empower school boards to offer alternative education programs and the boards may charge parents (of children in those programs) fees to cover all or part of the associated non-instructional costs. [9] Boards offering an alternative program must continue to also offer an education program mandated under the statute. [10] Under the repealed School Act, they were called regular education programs [11] while under the Education Act, the mandated offerings are more varied. [12]
+[10] On June 13, 2005 (Leduc), June 9, 2004 (MCS), and June 11, 2009 (Taber), the appellants entered into agreements with their respective local public school boards to establish alternative Christian programs under section 21 of the School Act at the three schools operated by them. As a result, Covenant Christian School, Meadowlark Christian School, and Taber Christian School (the “Schools”) became public schools. [13]
+[11] The respective school boards allocate instructional funding to the Schools in the same proportionate way as with other public schools, by using a formula that takes into account the number of students enrolled in each school. With these funds, the school boards:
+a) employ and pay the salaries of the Schools’ principals, teachers, and educational assistants;
+b) pay administration salaries, librarians, and custodial costs at the Schools; and
+c) pay for the Schools’ secular instructional materials and resources. [14]
+[12] The school boards pay the appellants for use of the Schools’ facilities, which are still owned by the respective appellants. [15]
+[13] The alternative Christian programs are delivered according to the school boards’ governing policies, provincial curriculum requirements, and Education/Educational Vision documents established by the appellants. [16] Religion is integrated into all aspects of education at the Schools, including the secular component. [17] The way students are taught religion and participate in religious activities remained substantively the same before and after the appellants entered into the agreements with the school boards. [18]
+[14] During the periods under appeal, the appellants carried out the following activities: [19]
+a) ensured the Schools operate in accordance with the vision and intent as specified in the Education/Educational Vision documents;
+b) monitored the alternative Christian programs;
+c) provided direction, advice, and support to the principal with respect to religious instruction;
+d) provided input and guidance on hiring teachers and principals;
+e) established and participated in various subcommittees to address religious, financial, administrative, building, and other issues at the Schools;
+f) funded Christian professional development for School staff;
+g) funded Christian materials and resources;
+h) with respect to Leduc – funded the equivalent of 0.6 of a full-time equivalent teacher and occasional speakers;
+i) recruited new families and informed them about the alternative Christian program;
+j) provided, maintained, and improved School facilities;
+k) provided computers and furniture;
+l) organized extra-curricular religious activities and trips;
+m) with respect to Leduc and Taber – operated the school buses;
+n) with respect to Leduc – operated a pre-school; and
+o) raised funds to finance their activities.
+[15] Included in the appellants’ fundraising were Christian program fees charged to parents pursuant to the agreements entered into with the school boards. [20] The appellants also established the amount of the fees and collected them. [21] These fees covered the extra costs associated with the alternative Christian program such as materials and facilities. [22]
+[16] The appellants did not segregate the Christian program fees from other funds and together, the money was used for: [23]
+a) Christian professional development for School staff;
+b) Bibles, Christian textbooks, teacher resources, and library books;
+c) Christian-themed school supplies such as banners and display boards;
+d) chapel furniture and supplies;
+e) membership fees and dues for Christian school associations;
+f) improvements to and maintenance of School facilities;
+g) capital items such as computers, security cameras, and furniture (as part of the provision of School facilities;
+h) promotion, recruitment, and registration in the alternative Christian program;
+i) the appellants’ offices, including employees and supplies;
+j) fundraisers and related initiatives;
+k) extra-curricular religious activities and trips;
+l) with respect to Leduc and Taber – school bus drivers;
+m) with respect to Leduc and Taber – acquiring and maintaining buses;
+n) with respect to Leduc – pre-school program costs;
+o) support for the appellants’ boards of directors, committees, and task forces;
+p) with respect to Leduc – paying the school board for 0.6 full-time equivalent of a teacher for additional religious instruction and for substitute teachers when regular staff were away for Christian professional development;
+q) with respect to Leduc – religious speakers such as chaplains once or twice per year; and
+r) with respect to MCS – cell phones (for the head custodian and School office), maintenance, garbage, internet, and lunchroom supervisors.
+The appellants paid for a few items through the school boards but the majority was paid for directly. [24]
+[17] Parents were required to sign and submit application/registration forms to enroll their children at the Schools. [25] These forms set out the payment of Christian program fees and the appellants expected parents to pay these fees. [26] However, if parents did not pay these fees after their child was accepted for enrolment, the appellants did not remove the child from the alternative Christian program. In some instances, the appellants provided fee assistance or waived all/part of these fees. [27]
+[18] Parents could send their children to other public schools operated by the same school boards in the same geographical area or school district. These other schools offered the same provincial curriculum without a religious component and without charging alternative program fees. [28]
+[19] During the periods under appeal, the appellants issued official tax receipts to parents for 100% of the alternative Christian program fees. [29]
+Legal framework
+[20] At the heart of the questions to be determined is what constitutes a gift under the Act.
+[21] “Gift” is not defined in the Act and the Federal Court of Appeal’s definition in Friedberg continues to be the starting point, i.e. it is “a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor.” [30] In addition, the tax advantage associated with a gift is not ordinarily considered to be a benefit, as doing so would obviate the charitable donation deduction under the Act. [31]
+[22] With respect to consideration, it is a broad term that encompasses: (a) the inducement to a contract, (b) the cause, motive, price or impelling influence which induces a contracting party to enter into a contract, (c) some right, interest, profit, or benefit accruing to one party, or (d) some forbearance, detriment, loss, or responsibility given, suffered or undertaken by the other party. [32]
+[23] One must also consider donative intent when examining whether no benefit or consideration has flowed to the donor, i.e. the donor must intend to impoverish themselves by making the donation. [33] The intent of the donor must be entirely donative [34] and the gift given with the expectation of no return. [35]
+[24] Section 248(30) of the Act does contemplate a conditional intersection between a gift and its advantage and applies to gifts made after December 20, 2002. It says that:
+248. (30) Intention to give – The existence of an amount of an advantage in respect of a transfer of property does not in and of itself disqualify the transfer from being a gift to a qualified donee if
+(a) the amount of the advantage does not exceed 80% of the fair market value of the transferred property; or
+(b) the transferor of the property establishes to the satisfaction of the Minister that the transfer was made with the intention to make a gift.
+[25] However, I will not discuss any potential application (or lack thereof) of subsection 248(30) because paragraph 248(30)(a) falls outside the parameters of this Rule 58 determination.
+Discussion
+A. Was the payment of alternative Christian program fees by parents to the Appellants voluntary?
+[26] The appellants emphasize that parents voluntarily and deliberately choose to enroll their children in the alternative Christian program and that the fees are encompassed within that choice, making neither the enrolment nor the fees obligatory. On the other hand, the respondent says that payment of the fees was a contractual condition of enrolment.
+[27] The parties offered these definitions from Black’s Law Dictionary:
+voluntary gift – without valuable consideration or legal obligation; gratuitous [36]
+voluntary – done by design or intention; unconstrained by interference; not impelled by outside influence [37]
+[28] Leduc’s financial arrangements form asks parents to choose a payment schedule (in full, monthly, or other) and the mode of payment (post-dated cheques or pre-authorized monthly bank withdrawals). There is an option to apply separately for a bursary to reduce the program fees for families with a demonstrated inability to pay the full amount; however, the form advises that the bursary fund is limited and requires that parents choose a payment schedule and mode of payment regardless of whether they are applying for a bursary. The form also requires parents to agree that as a condition of enrolment and continued enrolment, they will pay the total fees as indicated on the form. [38]
+[29] MCS’ payment form asks parents to choose between paying the alternative program fees by lump sum or pre-authorized withdrawal. The program fees schedule advises that the payment form must be completed in its entirety (i.e. payment choice must be selected and a void cheque provided) and that failure to do so will delay a child’s registration until all the necessary information is submitted. The payment form advises that fee assistance is available and that additional forms must be completed. It is less clearly worded than Leduc’s, but there is no indication that parents may forego completing the payment form if they intend to apply for assistance. [39]
+[30] Taber’s financial commitment form states that financial support through payment of fees is not only expected but should be a privilege. Its payment plan form asks parents to choose between 2 or 12 pre-authorized bank withdrawals and the enrolment package did not appear to include information about fee assistance. [40]
+[31] While I can see the nuanced distinctions between the two positions, I am of the view that the payment of these fees was not voluntary in the circumstances. Each set of application/registration forms had to be completed in full, including payment information.
+[32] Once parents made the voluntary choice to enroll their children in the alternative Christian program, the requirements for enrolment were obligatory. Perhaps it could be described as a voluntary choice to pay obligatory fees, but the fees themselves were prescribed by the appellants in terms of quantum and timing; they were also expected to be paid as part of the ordinary enrolment process.
+[33] I believe that the relationship between the appellants and parents of children enrolled in the alternative Christian program was contractual and non-payment of fees would likely be legally enforceable unless waived by the appellants. The ability to waive all or part of the fees and to forego removal of students for non-payment were options within the sole discretion of the appellants; however, the wording of the application/registration materials makes it clear that these instances were the exception to the rule that fees were to be paid.
+[34] For all of these reasons, I would answer the first question in the negative, i.e. the payment of alternative Christian program fees by parents to the appellants was not voluntary.
+B. Did the parents receive a benefit or consideration from the Appellants in return for their payment of the alternative Christian program fees?
+[35] The appellants say that any benefit or advantage received by the parents is subjective and that this subjective value should be distinct from the objective value of consideration. They argue that a religious education has subjective value which varies from person to person, so it is not relevant and there is no objective consideration in the present circumstances. On the other hand, the respondent says that the fees covered the cost of alternative Christian program activities and materials, all of which directly benefited the children enrolled in the program.
+[36] I am unable to follow the nuances of the appellants’ argument through to their desired conclusion. The present appeals align in significant ways with the Federal Court of Appeal’s decision in McBurney. [41] In that case, payments made by the taxpayer toward the operating costs of the private Christian schools his children attended were found to be consideration paid for their educations, even though the amount of the payments was not fixed and he was under no legal obligation. The Court found that the taxpayer’s payments secured the type of education he wished for his children and as a result, the payments were not gifts. [42]
+[37] Here, the alternative Christian programs were established under section 21 of the Alberta School Act, pursuant to the agreements entered into by the appellants with the respective school boards. Both subsection 21(4) of the School Act and subsection 19(5) of its successor, the Education Act, permit school boards to charge parents fees to defray all or part of any non-instructional costs associated with the alternative Christian program. In this context, the appellants are collecting the fees on behalf of the respective school boards since it is the school boards who are empowered to do so by the legislation.
+[38] The nature of the fees collected is also reflected in the appellants’ application/registration documents. For example, the introductory page of MCS’ registration package explains that MCS will charge program fees to cover the cost of its alternative Christian program. [43] As another example, Taber’s financial commitment form states that Taber collects fees “to support the development of Christian curriculum, professional development, to maintain its facilities, for transportation, and other needs to allow the school to operate.” [44] Although it is not expressly stated in Leduc’s application/registration materials, the statute required that the fees be collected for this purpose in any event. In addition, the list of costs covered by the fees (in paragraph 16 of these reasons) shows that the appellants used the fees as they were intended.
+[39] I would infer that without the fees to defray all or part of the non-instructional costs of the alternative Christian program, the appellants would either have to offer a lesser version of the program or be unable to offer the program at all. Therefore, parents received a tangible benefit in return for the fees paid in that their children would attend the desired Christian education program and/or a higher-quality version of it. The benefit was not incidental to the fees but rather, was central to their payment.
+[40] For all of these reasons, I would answer the second question in the affirmative, i.e. parents did receive a benefit or consideration from the appellants in return for their payment of the alternative Christian program fees.
+Other
+[41] Information Circular 75-23 entitled “Tuition Fees and Charitable Donations Paid to Privately Supported Secular and Religious Schools” creates an administrative exception with respect to privately supported schools teaching exclusively religion or providing a combined secular/religious education. In those instances, tuition fees paid may be considered charitable donations. I would say that this administrative exception ceased to apply to the appellants when they entered into the agreements with the respective school boards, resulting in their privately operated schools becoming public ones.
+Conclusion
+[42] In summary, I would answer the questions as follows:
+a) Was the payment of alternative Christian program fees by parents to the appellants voluntary?
+No
+b) Did the parents receive a benefit or consideration from the appellants in return for their payment of the alternative Christian program fees?
+Yes
+[43] As agreed by the parties, they shall each bear their own costs.
+Signed at Ottawa, Canada, this 5th day of October 2022.
+“Susan Wong”
+Wong J.
+CITATION:
+2022 TCC 114
+COURT FILE NO.:
+2017-1753(IT)G
+2017-1754(IT)G
+2017-1755(IT)G
+STYLE OF CAUSE:
+Leduc Society For Christian Education v. His Majesty The King
+MCS Foundation Ltd. v. His Majesty the King
+Taber Society for Christian Education Ltd. v. His Majesty the King
+PLACE OF HEARING:
+Virtual
+DATE OF HEARING:
+October 18 and 19, 2021
+REASONS BY:
+The Honourable Justice Susan Wong
+DATE OF DETERMINATION:
+October 5, 2022
+APPEARANCES:
+Counsel for the Appellant:
+MaryAnne Loney
+Counsel for the Respondent:
+Joanna Hill
+Linsey Rains
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+MaryAnne Loney
+Firm:
+McLennan Ross LLP
+Edmonton, Alberta
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Order dated July 3, 2019
+[2] Partial Agreed Statement of Facts, paragraphs 2 and 3
+[3] Partial Agreed Statement of Facts, paragraph 4
+[4] The schools are erroneously reversed in the partial agreed statement of facts at paragraph 6; Joint book of documents (Tabs 1 and 2)
+[5] Partial Agreed Statement of Facts, paragraph 6
+[6] RSA 2000, c. S-3
+[7] SA 2012, c. E-0.3
+[8] Partial Agreed Statement of Facts, paragraph 7
+[9] School Act, RSA 2000, c. S-3, s. 21 (repealed); Education Act, SA 2012 c. E-0.3, s. 19; Partial Agreed Statement of Facts, paragraph 9
+[10] Partial Agreed Statement of Facts, paragraph 10
+[11] School Act, RSA 2000, c. S-3, s. 21(3) (repealed)
+[12] Education Act, SA 2012 c. E-0.3, s. 19(4)
+[13] Partial Agreed Statement of Facts, paragraphs 11 and 12
+[14] Partial Agreed Statement of Facts, paragraph 13
+[15] Partial Agreed Statement of Facts, paragraph 14
+[16] Partial Agreed Statement of Facts, paragraph 16
+[17] Partial Agreed Statement of Facts, paragraph 18
+[18] Partial Agreed Statement of Facts, paragraph 21
+[19] Partial Agreed Statement of Facts, paragraph 22
+[20] Partial Agreed Statement of Facts, paragraph 25
+[21] Partial Agreed Statement of Facts, paragraph 26
+[22] Partial Agreed Statement of Facts, paragraph 27
+[23] Partial Agreed Statement of Facts, paragraph 30
+[24] Partial Agreed Statement of Facts, paragraph 31
+[25] Partial Agreed Statement of Facts, paragraph 32
+[26] Partial Agreed Statement of Facts, paragraphs 33 and 34
+[27] Partial Agreed Statement of Facts, paragraphs 35 and 36
+[28] Partial Agreed Statement of Facts, paragraph 37
+[29] Partial Agreed Statement of Facts, paragraph 38
+[30] Her Majesty the Queen v. Friedberg, 1991 CarswellNat 669 at paragraph 4, affirmed by [1993] 4 SCR 285
+[31] Her Majesty the Queen v. Friedberg, 1991 CarswellNat 669 at paragraph 4, affirmed by [1993] 4 SCR 285
+[32] Fiducie Famille Gauthier v. The Queen, 2011 TCC 318 at paragraphs 5 and 16
+[33] Her Majesty the Queen v. Berg, 2014 FCA 25 at paragraph 29; Her Majesty the Queen v. Burns, 1988 CarswellNat 271 at paragraph 28 (FCTD), affirmed 1990 CarswellNat 1039 (FCAD); Mariano v. The Queen, 2015 TCC 244 at paragraphs 18 to 20
+[34] Webb v. The Queen, 2004 TCC 619 at paragraph 16; Glover v. The Queen, 2015 TCC 199 at paragraphs 15 and 16
+[35] Maréchaux v. The Queen, 2009 TCC 587 at paragraphs 48 and 49; Glover v. The Queen, 2015 TCC 199 at paragraphs 15 and 17
+[36] Black’s Law Dictionary (11th ed. 2019) – Respondent’s book of authorities (Tab 24)
+[37] Black’s Law Dictionary (11th ed. 2019) – Respondent’s book of authorities (Tab 24); Black’s Law Dictionary (8th ed.) – Appellant’s book of authorities (Tab 27)
+[38] Leduc registration package (Joint book of documents, Tab 16)
+[39] MCS registration package (Joint book of documents, Tab 17)
+[40] Taber registration package (Joint book of documents, Tab 18)
+[41] Her Majesty the Queen v. McBurney, 1985 CarswellNat 329 (FCAD)
+[42] Her Majesty the Queen v. McBurney, 1985 CarswellNat 329 at paragraph 14 (FCAD)
+[43] MCS registration package (Joint book of documents, Tab 17)
+[44] Taber registration package (Joint book of documents, Tab 18)

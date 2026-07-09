@@ -1,0 +1,152 @@
+Title: Sears c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29076/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-22-29076-sears-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-02-02
+
+# Sears c. La Reine
+
+- Citation: 2009 CCI 22
+- Decision date: 2009-02-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6822, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sears c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-02
+Référence neutre
+2009 CCI 22
+Numéro de dossier
+2008-1162(IT)I
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1162(IT)I
+ENTRE :
+MARK D. SEARS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 novembre 2008, à Winnipeg (Manitoba)
+Devant : L’honorable juge T.E. Margeson
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Melissa Danish
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation établie à l’égard de l’appelant pour l’année d’imposition 2006 en vertu de la Loi de l’impôt sur le revenu est rejeté, et la cotisation du ministre est confirmée.
+Signé à Ottawa (Ontario), ce 2e jour de février 2009.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 17e jour de mars 2009.
+Aleksandra Koziorowska, LL.B.
+Référence : 2009CCI22
+Date : 20090202
+Dossier : 2008-1162(IT)I
+ENTRE :
+MARK D. SEARS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] Le présent appel vise la cotisation établie pour l’année d’imposition 2006 de l’appelant, par laquelle le ministre a refusé à celui-ci un crédit pour personne à charge de 7 505 $ qu’il avait demandé à l’égard de son fils, Jack Sears. L’avis de ratification était daté du 11 avril 2008.
+La preuve
+[2] Les parties ont convenu que les hypothèses de fait énoncées dans la réponse sont exactes, à l’exception de celle voulant que le montant de 100 $ représentant l’arriéré relatif à l’année d’imposition 2005 ait été inclus dans les paiements de 13 800 $ effectués aux termes de l’ordonnance en 2006. L’appelant a déclaré qu’il n’y a jamais eu d’arriéré, et aucun élément de preuve n’a été présenté pour contredire ce témoignage. Quoi qu’il en soit, cette hypothèse n’a aucune incidence sur la question en litige.
+[3] La décision du ministre s’appuyait sur les hypothèses suivantes :
+a) l’appelant et Mme Sears sont les parents de deux garçons, Jack et Michael, nés le 22 avril 2000 et le 25 septembre 2002 respectivement;
+b) pendant l’année d’imposition 2006, l’appelant et Mme Sears ont vécu séparés en raison de la rupture de leur mariage;
+c) en décembre 2005, la Cour du Banc de la Reine (Division de la famille) a rendu une ordonnance définitive (l’« ordonnance »), enjoignant entre autres à l’appelant :
+(i) de verser la somme de 860 $ par mois à Mme Sears pour subvenir aux besoins de Jack Sears et de Michael Sears;
+(ii) de verser la somme de 350 $ par mois à Mme Sears à titre de pension alimentaire pour conjoint;
+d) la somme que l’appelant a versée à Mme Sears aux termes de l’ordonnance pendant l’année d’imposition 2006 s’élève à 13 800 $.
+Il s’agit là des principaux éléments de preuve qui ont été présentés en l’espèce.
+[4] L’unique question dont la Cour est saisie est celle de savoir si le refus du ministre d’accorder à l’appelant la déduction que celui-ci a demandée pour l’année en cause, refus qui était fondé sur le paragraphe 118(5) de la Loi de l’impôt sur le revenu (la « Loi »), prive l’appelant des droits et libertés garantis par la Charte canadienne des droits et libertés (la « Charte ») ou constitue une violation de ces derniers.
+[5] Le ministre fait valoir que ni la Loi, ni la cotisation en cause n’ont pour effet de priver l’appelant des droits en question ou de porter atteinte à ces derniers.
+[6] À titre subsidiaire, le ministre soutient que dans la mesure où l’application de la Loi ou la cotisation qu’il a établie à l’égard de l’appelant ont donné lieu à une privation ou violation des droits et libertés garantis aux articles 7 et 15 de la Charte, ou ont porté atteinte à ces derniers, ladite privation, violation ou atteinte représente une limite raisonnable imposée par une règle de droit dont la justification peut se démontrer dans le cadre d’une société libre et démocratique au sens de l’article premier de la Charte.
+[7] Les parties ont reconnu qu’il s’agissait là d’une question constitutionnelle dont la Cour avait été saisie à bon droit. L’appelant a déclaré que les arguments qu’il avançait n’avaient jamais été soumis à un tribunal.
+[8] Il a affirmé qu’en vertu du paragraphe 15(1) et de l’article 7 de la Charte, chacun a droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination. L’article premier de la Charte prévoit que les droits conférés ne peuvent être restreints que par une règle de droit, dans des limites qui soient raisonnables et dont la justification puisse se démontrer dans le cadre d’une société libre et démocratique. Le paragraphe 118(5) est vague, et sa portée est excessive dans la mesure où cette disposition empêche définitivement l’appelant d’obtenir le crédit pour personne à charge. Il ne peut être sauvé par l’article premier de la Charte.
+[9] L’appelant a invoqué le Renvoi sur la Motor Vehicle Act (C.-B.), [1985] 2 R.C.S. 486, et il a fait valoir que la conduite en cause ne peut se justifier, sauf peut‑être en temps de guerre ou en situation de crise nationale.
+[10] Dans l’arrêt R. c. Heywood, [1994] 3 R.C.S. 761, la Cour suprême du Canada a déclaré qu’une disposition ayant une portée excessive, qui n’est pas conforme aux principes de justice fondamentale, ne peut se justifier. La présente affaire est un exemple d’une situation où l’État a adopté une disposition législative qui va trop loin et qui enfreint l’article premier de la Charte. Elle prive d’un droit toutes les personnes qui ont payé une pension alimentaire pour enfants.
+[11] Il a invoqué l’arrêt Ontario c. Canadien Pacifique Ltée, [1995] 2 R.C.S. 1031, à l’appui de son argument selon lequel la disposition législative contestée est trop « imprécise » lorsqu’on la considère dans un contexte interprétatif plus large et non dans l’abstrait. Cette disposition ne constitue pas un guide suffisant pour un débat judiciaire. Il a fait valoir que la disposition en cause crée un préjugé défavorable à l’égard des contribuables qu’elle pénalise. L’État donne l’impression que les parents concernés sont différents des autres et moins dignes de soutien. Voir Rodriguez c. Colombie-Britannique (Procureur général), [1993] 3 R.C.S. 519.
+[12] Accorder un traitement différent à certains parents uniquement à cause du fait qu’ils paient une pension alimentaire est incompatible avec les principes de justice fondamentale énoncés dans la Charte.
+[13] L’arrêt Blencoe c. Colombie-Britannique (Human Rights Commission), 2000 CSC 44, [2000] 2 R.C.S. 307, traite de la question de la dignité humaine et de l’importance de respecter cette valeur dans la législation.
+[14] Il a renvoyé à la décision Cornelius c. La Reine, [2007] A.C.J. no 592, dans laquelle le juge Rossiter a évoqué le caractère « cruellement injuste » de cette disposition. Malgré le fait que le contribuable n’ait pas eu gain de cause dans Cornelius, l’appelant a dit que les arguments avancés en l’espèce n’avaient pas été soumis à la Cour dans cette affaire, aucun argument fondé sur la Charte n’ayant été soulevé.
+[15] En ce qui concerne la question de la justification, l’appelant a invoqué l’arrêt R. c. Oakes, [1986] 1 R.C.S. 103, à l’appui de son argument voulant que pour que la règle de droit puisse être considérée comme ayant été imposée dans des limites qui sont raisonnables et dont la justification peut se démontrer dans le cadre d’une société libre et démocratique, elle doit être suffisamment importante pour justifier la suppression d’un droit ou d’une liberté garantis par la Constitution.
+[16] Selon l’arrêt Andrews c. Law Society of British Columbia, [1989] 1 R.C.S. 143, tout le monde ne doit pas être traité exactement de la même façon, mais une distinction déraisonnable ne peut être maintenue.
+[17] En l’espèce, la privation du droit équivaut à une discrimination directe ou fortuite. Cette privation est fondée sur un des motifs énumérés au paragraphe 15(1) de la Charte ou sur un motif analogue. L’appelant prétend appartenir à un « groupe analogue » du fait qu’il est un parent qui paie une pension alimentaire pour enfants. Une discrimination fondée sur ce motif est dévalorisante et porte atteinte à la dignité profonde d’une personne, de la même manière qu’une discrimination fondée sur les autres motifs reconnus va à l’encontre des normes fondamentales en matière de droits de la personne.
+[18] Pour ce qui est de la réparation demandée en l’espèce, la disposition devrait être déclarée caduque, ou interprétée comme étant assortie de certaines limites raisonnables. Elle ne comporte aucune limite dans sa version actuelle.
+[19] L’appelant a soutenu que la disposition devrait permettre aux juges saisis d’une affaire de rendre une décision favorable au contribuable dans les cas où les deux parents assument à parts égales la garde de leurs enfants, ou subviennent de manière équivalente aux besoins de ces derniers.
+[20] L’appelant prend ses responsabilités de père très au sérieux, et il a été offusqué par le fait qu’il n’avait pas droit au même bénéfice de la loi que les autres parents. La loi considère qu’il n’est pas un parent admissible et que ses enfants ne sont pas des enfants admissibles. L’appel devrait être accueilli avec dépens.
+Les observations de l’intimée
+[21] L’avocate de l’intimée a fait valoir que si on l’interprète suivant son sens ordinaire, le paragraphe 118(5) de la Loi empêche l’appelant d’obtenir la déduction demandée du fait qu’il est tenu de payer une pension alimentaire à son ex-épouse pour ses enfants aux termes d’une ordonnance d’un tribunal, et qu’il a vécu séparé de son ex-épouse tout au long de l’année. Le paragraphe 118(5) de la Loi enfreint-il les articles 7 et 15 de la Charte?
+[22] Il est bien établi en droit que ce paragraphe n’enfreint pas la Charte. Les arguments avancés par l’appelant en l’espèce ne sont pas nouveaux.
+[23] L’arrêt qui a été rendu dans Nelson v. R., [2000] 4 C.T.C. 252, permet d’affirmer que le paragraphe en question n’enfreint pas la Charte. Les faits de cette affaire étaient semblables à ceux de la présente espèce. La Cour d’appel fédérale y a conclu que le traitement distinct établi par le paragraphe 118(5) n’était pas fondé sur un des motifs énumérés au paragraphe 15(1) de la Charte ou sur un motif analogue. Le traitement distinct n’était pas discriminatoire au sens de la Charte. L’application du paragraphe 118(5) n’offensait pas la dignité, la valeur intrinsèque ou l’amour‑propre du contribuable. La décision Calogeracos v. R., 2008 DTC 389, va elle aussi dans le même sens. Dans cette décision, le juge Webb a conclu que le paragraphe 118(5) est clair et non vague, et que l’article 7 de la Charte ne s’applique pas au paragraphe 118(5). En l’espèce, l’appelant n’est pas passible d’emprisonnement, contrairement aux personnes dont il est question dans toutes les décisions auxquelles il a renvoyé.
+[24] Il n’est pas certain que l’article 7 de la Charte puisse protéger les droits économiques. Même si c’est le cas, l’appelant n’a pas démontré qu’il avait besoin du remboursement d’impôt pour survivre.
+[25] Le même point a été examiné par la Cour canadienne de l’impôt dans la cause Donovan v. R., [2006] 6 C.T.C. 2041, où le juge Hershfield s’est posé les trois grandes questions formulées par la Cour suprême du Canada dans l’arrêt Law c. Canada, [1999] 1 R.C.S. 497, avant de conclure à l’absence d’atteinte à la Charte. Dans Calogeracos, Giorno et Frégeau, la Cour a conclu qu’il n’y avait pas violation de la Charte après s’être posé la seconde question énoncée dans la décision Donovan v. R., précitée. Voir Giorno v. R., [2005] 2 C.T.C. 2146, et Frégeau v. R., 2004 DTC 2726.
+[26] Même lorsqu’ils se sont posé la troisième question (sans admettre que les réponses aux deux premières questions étaient affirmatives), les tribunaux ont conclu, à l’instar de la Cour dans la décision Donovan, précitée, qu’il n’y avait pas atteinte à la Charte.
+[27] Le groupe de référence mentionné par l’appelant était le même que le groupe retenu par la Cour d’appel fédérale dans l’arrêt Nelson, précité, à savoir celui d’un parent célibataire qui vit avec un enfant et subvient à ses besoins en vertu d’un accord de garde partagée conclu avec l’autre parent de l’enfant, mais qui n’a pas l’obligation juridique de payer à l’autre parent une pension alimentaire pour l’enfant. La Cour d’appel avait conclu que le traitement distinct établi par le paragraphe 118(5) ne constituait pas de la discrimination au sens du paragraphe 15(1) de la Charte.
+[28] L’argument de l’appelant voulant que le paragraphe 118(5) fasse en sorte que les pères sont traités différemment des mères parce qu’ils paient une pension alimentaire est mal fondé. Dans Calogeracos, précitée, la Cour a conclu que ce paragraphe n’établit pas de distinction entre les hommes et les femmes.
+[29] L’avocate reconnaît qu’en ce qui concerne la première question, la disposition établit une distinction entre l’appelant et le groupe de référence, dans la mesure où l’appelant doit payer une pension pour subvenir aux besoins de l’enfant à l’égard duquel il demande le crédit, mais elle affirme que la distinction n’est pas fondée sur une caractéristique personnelle (contrairement à ce qui est exigé à l’étape de la première question).
+[30] Même si l’appelant a raison d’affirmer qu’il est traité différemment à cause d’une caractéristique personnelle (ce qui n’est pas admis), l’argument fondé sur la Charte échoue à l’étape de la deuxième question, dans la mesure où la différence de traitement n’est pas fondée sur les motifs énumérés ou des motifs analogues. L’obligation de payer une pension alimentaire pour enfants est fonction du niveau de revenu, et ce dernier ne constitue pas une caractéristique personnelle immuable.
+[31] Comme l’application de la Charte n’est pas déclenchée à la deuxième étape, il n’est pas nécessaire de passer à l’étape suivante.
+[32] Toutefois, la troisième question doit elle aussi recevoir une réponse négative, parce que le fardeau que représente pour l’appelant le refus du crédit doit dénoter une application stéréotypée de présumées caractéristiques personnelles ayant pour effet de perpétuer l’opinion selon laquelle l’appelant, en tant que parent ayant la garde d’un enfant et subvenant aux besoins de ce dernier, est moins digne d’être reconnu en tant que parent ou mérite moins de respect.
+[33] Le fait que l’appelant se voie refuser le crédit d’impôt demandé n’est pas dégradant et ne porte pas atteinte à la dignité ou à l’estime de soi de l’appelant en tant que parent ayant la garde d’un enfant.
+[34] Il se peut que la disposition contestée soit fondée sur une mauvaise politique fiscale et qu’elle soit difficile à défendre, mais elle n’a pas pour effet de perpétuer un stéréotype négatif dans les circonstances.
+[35] L’application de la Charte ne peut pas être déclenchée simplement parce qu’un groupe distinct est traité injustement sur le plan fiscal. Le présent appel n’est qu’une tentative de se prémunir contre ce qui constitue, de l’avis de l’appelant, une mauvaise politique fiscale. L’enjeu n’est pas la dignité humaine, puisque la valeur de l’appelant en tant que parent n’est pas remise en question. Les parents qui ont la garde d’un enfant et qui subviennent aux besoins de celui-ci ne sont pas stigmatisés. Le fait qu’il se soit vu refuser le crédit d’impôt n’a pas pour effet de marginaliser l’appelant dans la société canadienne.
+[36] L’application de la Charte n’est pas déclenchée à l’étape de la troisième question. La Cour est liée par l’arrêt Nelson, précité, et elle doit obligatoirement conclure que le paragraphe 118(5) ne viole pas la Charte.
+[37] L’appel devrait être rejeté.
+Analyse et décision
+[38] La Cour n’accepte pas l’argument de l’appelant voulant que les questions que soulève la présente cause n’aient jamais été examinées dans le passé. En effet, la jurisprudence évoquée plus haut traite de la question même qui est au cœur du présent litige, celle de savoir si le paragraphe 118(5) de la Loi porte atteinte à la Charte, et plus précisément aux articles 1, 7 et 15 de celle-ci.
+[39] L’appelant a fait valoir que le paragraphe contesté est trop vague et que sa portée est excessive. Toutefois, la Cour est convaincue que ce n’est pas le cas.
+[40] La disposition est loin d’être vague, et sa portée est relativement limitée. Il est vrai qu’elle s’applique à tout un groupe de contribuables, à savoir les personnes qui sont des parents et qui payent une pension alimentaire pour enfant à leur époux ou conjoint de fait, ou à leur ex-époux ou ancien conjoint de fait, mais on ne saurait dire que sa portée est vaste au point de « piéger » sans distinction les contribuables non avertis, comme le prétend l’appelant. Toute personne lisant le paragraphe en cause sait d’emblée quel est le groupe visé. « L’étendue de son application n’est pas difficile à cerner. » Le libellé de la disposition législative est « suffisamment détaillé » pour que le contribuable sache quelles sont les personnes auxquelles elle s’applique.
+[41] L’appelant a soutenu que la disposition est dévalorisante pour lui en tant parent ayant la garde d’un enfant, et qu’elle porte atteinte à sa dignité en cette qualité. La Cour rejette catégoriquement cette assertion.
+[42] La Cour est convaincue que le droit que le contribuable cherche à défendre est un droit économique, et que, pour reprendre les propos du juge Rothstein dans l’arrêt Mathew c. R. (2003 CAF 371 (C.A.F.)), « [s]i un droit entre en jeu lorsqu’on établit de nouvelles cotisations, c’est d’un droit économique qu’il s’agit ». Le juge Rothstein a ajouté que l’on pouvait effectivement se poser la question de savoir si la portée de l’article 7 était assez large pour englober les droits économiques de manière générale ou, plus particulièrement, l’établissement de nouvelles cotisations fiscales.
+[43] Le juge Webb a souscrit à cet avis dans Calogeracos, précitée, lorsqu’il a conclu que le remboursement n’était pas nécessaire à la survie du contribuable, mais devait plutôt servir à financer des vacances en famille.
+[44] La Cour est satisfaite de la manière dont l’avocate de l’intimée a analysé les trois grandes questions formulées dans l’arrêt Law, précité, dans ses observations, et elle adopte ses conclusions à cet égard.
+[45] La Cour est convaincue d’être liée par l’arrêt Nelson, précité, rendu par la Cour d’appel fédérale, et elle reconnaît qu’aucune distinction ne peut être établie entre cette affaire et la présente cause, ce qui l’amène obligatoirement à conclure que le paragraphe 118(5) ne porte pas atteinte à la Charte.
+[46] L’appelant ne saurait trouver un grand réconfort dans l’opinion incidente émise par le juge Rossiter dans la décision Cornelius c. La Reine, dossier de la Cour 2007‑1130(IT)I, datée du 6 décembre 2007, dans laquelle celui‑ci a laissé entendre que l’intimée pourrait recommander au ministre de modifier la Loi pour éviter qu’une situation semblable à celle qui prévaut en l’espèce ne se reproduise.
+[47] L’appel interjeté dans Cornelius a été rejeté, et la question ayant trait à la Charte soulevée en l’espèce et dans les autres précédents qui ont été évoqués ici ne s’est de toute façon pas posée dans cette affaire.
+[48] L’appel est rejeté, et la cotisation établie par le ministre est confirmée.
+Signé à Ottawa, Ontario, ce 2e jour de février 2009.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 17e jour de mars 2009.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2009CCI22
+No DE DOSSIER DE LA COUR : 2008-1162(IT)I
+INTITULÉ : Mark D. Sears et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 28 novembre 2008
+MOTIFS DU JUGEMENT : L’honorable juge T. E. Margeson
+DATE DU JUGEMENT : Le 2 février 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Melissa Danish
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

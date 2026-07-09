@@ -1,0 +1,1044 @@
+---
+title: "Envision Credit Union c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30078/index.do"
+last_modified: "2010-11-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 576"
+citation2: ""
+neutral_citation: "2010 CCI 576"
+decision_date: "2010-11-17"
+language: "fr"
+item_id: "30078"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7608
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:25:55.121000+00:00"
+cases_cited_count: 11
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "45c86580fb6fafb89b434b8b7063f1c36b811d7eef324dad1fd77556015426de"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Envision Credit Union c. La Reine
+
+- Citation: 2010 CCI 576
+- Decision date: 2010-11-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7608, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Envision Credit Union c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-17
+Référence neutre
+2010 CCI 576
+Numéro de dossier
+2008-2213(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2213(IT)G
+ENTRE :
+ENVISION CREDIT UNION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 21, 22 et 23 avril
+ainsi que les 13, 14 et 15 septembre 2010,
+à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocats de l’appelante :
+Me Joel Nitikman
+Me Michelle Moriartey
+Avocats de l’intimée :
+Me Lynn Burch
+Me John Gibb-Carsley
+____________________________________________________________________
+JUGEMENT
+L’appel que l’appelante a interjeté de la nouvelle cotisation concernant son année d’imposition 2001 est accueilli sans qu’aucuns dépens ne soient adjugés, et la deuxième nouvelle cotisation (datée du 22 avril 2008) ainsi que la première nouvelle cotisation (datée du 23 mai 2006) sont annulées.
+Les appels que l’appelante a interjetés des nouvelles cotisations concernant ses années d’imposition 2002, 2003 et 2004 sont rejetés sans qu’aucuns dépens ne soient adjugés.
+Signé à Halifax (Nouvelle‑Écosse), ce 17e jour de novembre 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 16e jour de mars 2011.
+François Brunet, réviseur
+Référence : 2010CCI576
+Date : 20101117
+Dossier : 2008-2213(IT)G
+ENTRE :
+ENVISION CREDIT UNION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Le présent appel résulte de l’unification de deux caisses de crédit (les « caisses »), laquelle, selon l’appelante, n’entre pas dans les prévisions de l’article 87 de la Loi de l’impôt sur le revenu (la « Loi »). Un certain nombre de questions ont été soulevées :
+a) L’unification de Delta Credit Union (« Delta ») et de First Heritage Savings Credit Union (« First Heritage »), le 1er janvier 2001, était‑elle une fusion entrant dans les prévisions de l’article 87 de la Loi?
+b) Si cette unification de Delta et de First Heritage n’était pas une fusion selon la définition figurant au paragraphe 87(1) de la Loi :
+(i) Les attributs fiscaux, tels que la fraction non amortie du coût en capital (la « FNACC ») des actifs des diverses catégories de biens amortissables de Delta et de First Heritage, sont‑ils transmis à l’appelante? Selon la thèse de l’appelante, les attributs fiscaux de Delta et de First Heritage ne lui sont pas transmis, de sorte que la FNACC des actifs des diverses catégories de biens amortissables au début de son année d’imposition 2001 correspond au coût initial des actifs pour les sociétés remplacées. Selon la thèse de l’intimée, les attributs fiscaux sont transmis, de sorte que la FNACC des actifs des diverses catégories de biens amortissables de l’appelante au début de l’année d’imposition 2001 de celle‑ci correspond au montant total cumulatif de la FNACC des actifs des diverses catégories de biens amortissables de Delta et de First Heritage à la fin de leurs années d’imposition 2000;
+(ii) Si la thèse de l’appelante, telle qu’elle est énoncée au paragraphe précédent, est retenue, la disposition générale anti‑évitement (la « DGAE ») figurant à l’article 245 de la Loi donne-t-elle lieu à la réduction de la FNACC de ces actifs de l’appelante au début de l’année d’imposition 2001 afin qu’elle corresponde au montant total de la FNACC de ces actifs applicable de Delta et de First Heritage à la fin de leurs années d’imposition 2000?
+c) La nouvelle cotisation concernant l’année d’imposition 2001 de l’appelante, laquelle a été établie après l’expiration de la période normale de nouvelle cotisation pour cette année‑là, est‑elle fondée?
+[2] L’article 87 de la Loi joue s’il y a eu fusion de plusieurs sociétés de la manière énoncée au paragraphe 87(1) de la Loi, qui dispose :
+87. (1) Au présent article, « fusion » s’entend de l’unification de plusieurs sociétés dont chacune était, immédiatement avant l’unification, une société canadienne imposable (chacune de ces sociétés étant appelée une « société remplacée » au présent article) destinée à former une société (appelée la « nouvelle société » au présent article) de façon que, à la fois :
+a) les biens (à l’exception des sommes à recevoir d’une société remplacée ou des actions du capital‑actions d’une société remplacée) appartenant aux sociétés remplacées immédiatement avant l’unification deviennent des biens de la nouvelle société en vertu de l’unification;
+b) les engagements (à l’exception des sommes payables à une société remplacée) des sociétés remplacées, existant immédiatement avant l’unification, deviennent des engagements de la nouvelle société en vertu de l’unification;
+c) les actionnaires (à l’exception des sociétés remplacées) qui possédaient des actions du capital‑actions d’une société remplacée immédiatement avant l’unification reçoivent des actions du capital‑actions de la nouvelle société en raison de l’unification,
+autrement qu’à la suite de l’acquisition de biens d’une société par une autre société, de l’achat de ces biens par l’autre société ou de l’attribution de ces biens à l’autre société lors de la liquidation de la société.
+[3] Delta et First Heritage ont fusionné conformément aux dispositions de la Credit Union Incorporation Act (Colombie‑Britannique) (la « CUIA ») afin que soit formée First Heritage Delta Credit Union, le 1er janvier 2001. Le 30 novembre 2001, First Heritage Delta Credit Union a changé son nom pour adopter celui d’Envision Credit Union.
+[4] L’article 20 de la CUIA dispose :
+[traduction]
+20 (1) Plusieurs caisses de crédit (les « caisses fusionnantes ») peuvent fusionner et continuer comme une seule et même caisse (la « caisse issue de la fusion »), à condition de satisfaire aux dispositions du présent article.
+(2) Les caisses fusionnantes, y compris toute caisse à laquelle il a été ordonné de fusionner en vertu de l’alinéa 227g) de la Financial Institutions Act, soumettent à la commission une convention de fusion
+a) indiquant
+(i) la dénomination sociale de la caisse issue de la fusion,
+(ii) les conditions de la fusion,
+(iii) les modalités de réalisation de la fusion,
+(iv) les noms et adresses des premiers administrateurs et cadres supérieurs de la caisse issue de la fusion,
+(v) si les activités exercées par la caisse issue de la fusion se rapportent uniquement à des dépôts ou à la fois à des dépôts et à des fiducies,
+(vi) les services que la caisse issue de la fusion se propose d’offrir à ses membres,
+(vii) le lien existant entre les membres de la caisse issue de la fusion,
+(viii) les modalités d’échange des actions émises et des actions non émises de chaque caisse fusionnante contre des actions de la caisse issue de la fusion,
+(ix) la juste valeur marchande des actions à revenu variable de chaque catégorie, ou la méthode de détermination de la juste valeur marchande des actions à revenu variable de chaque catégorie, pour l’application de l’article 24;
+b) renfermant
+(i) les statuts constitutifs de la caisse issue de la fusion, préparés conformément à l’article 6,
+(ii) les règles de la caisse issue de la fusion, préparées conformément à l’article 7.
+(3) Sur réception de la convention de fusion, y compris toute convention dans laquelle au moins l’une des caisses fusionnantes est sous administration en vertu de l’article 21, la commission peut :
+a) approuver la convention de fusion;
+b) refuser d’approuver la convention de fusion si elle estime que la convention est contraire aux intérêts d’au moins l’une des caisses fusionnantes ou des membres d’une des caisses.
+(4) Si, en application du paragraphe (3), la commission approuve une convention de fusion aux termes de laquelle l’une des caisses fusionnantes n’est pas sous administration en vertu de l’article 21, l’une ou l’autre des conditions suivantes s’applique à la caisse :
+a) la caisse soumet la convention de fusion à ses membres pour que ceux‑ci l’approuvent au moyen d’une résolution spéciale si elle n’a pas émis d’actions à revenu variable sauf, le cas échéant, des parts sociales;
+b) si au moins deux catégories d’actions à revenu variable ont été émises, la caisse soumet la convention de fusion :
+(i) à ses membres pour que ceux‑ci l’approuvent au moyen d’une résolution spéciale,
+(ii) aux détenteurs d’actions à revenu variable de chaque catégorie autres que des parts sociales, pour que ceux‑ci l’approuvent au moyen d’une résolution distincte, la résolution devant être adoptée par une majorité des deux tiers des membres.
+(5) Si une caisse fusionnante à laquelle le paragraphe (4) s’applique l’a prévu dans les règles qu’elle a établies conformément au paragraphe 58(2) à l’égard des droits, spéciaux ou autres, se rattachant aux actions à revenu variable émises, chaque détenteur d’actions à revenu variable a une voix pour chaque action qu’il détient aux fins de la résolution distincte requise en vertu du sous‑alinéa (4)b)(ii).
+(6) La caisse fusionnante visée au paragraphe (4) dont les membres et autres détenteurs d’actions à revenu variable, le cas échéant, ont approuvé la convention de fusion conformément aux paragraphes (4) et (5) peut conclure la convention de fusion; sur signature par chacune des caisses fusionnantes, notamment par toute caisse sous administration en vertu de l’article 21, la convention est remise au registraire avec une copie certifiée conforme de chacune des résolutions requises.
+(7) Sur réception, en application du paragraphe (6), de la convention de fusion signée, ou bien de la convention signée et d’une copie certifiée conforme de chacune des résolutions, le cas échéant, le registraire :
+a) enregistre la convention ou la convention et la copie certifiée conforme de chaque résolution, le cas échéant;
+b) délivre un certificat de fusion attestant que les caisses fusionnantes ont fusionné et indiquant la date de la fusion, cette date ne devant toutefois pas être antérieure à la date de réception des documents;
+c) publie dans la Gazette un avis de la fusion indiquant les dénominations sociales des caisses fusionnantes, la dénomination sociale de la caisse issue de la fusion, l’adresse de son siège social et la date de la fusion.
+[5] L’article 23 de la CUIA dispose :
+[traduction]
+23 À la date de la fusion indiquée dans le certificat de fusion délivré en vertu de l’alinéa 20(7)b) :
+a) les caisses fusionnantes fusionnent et continuent comme une seule et même caisse sous la dénomination sociale mentionnée et avec les statuts constitutifs et règles énoncés dans la convention de fusion;
+b) la caisse issue de la fusion entre en possession des biens, droits et intérêts et prend en charge les dettes, engagements et obligations de chaque caisse fusionnante, y compris toute obligation envers les membres, auxiliaires ou autres, en vertu de l’article 24;
+c) les membres, auxiliaires ou autres, de chaque caisse fusionnante sont liés par la convention de fusion.
+[6] Selon la thèse de l’appelante, même si Delta et First Heritage ont fusionné comme le prévoit la CUIA, cette unification n’était pas une fusion au sens de la définition figurant au paragraphe 87(1) de la Loi parce que chacune des caisses de crédit remplacées a transféré à 619547 B.C. Ltd. (« 619 ») son droit sur certains biens immeubles au moment même de la fusion, de sorte que les biens qui appartenaient aux caisses de crédit remplacées immédiatement avant l’unification ne sont pas tous devenus des biens de l’appelante en vertu de l’unification. La fusion qui est conforme à la législation sur les sociétés applicable à la fusion de sociétés, mais qui ne satisfait pas aux exigences de la définition de la « fusion » figurant au paragraphe 87(1) de la Loi a été appelée, au cours de l’audience, une fusion rompue, une fusion imposable ou une fusion non admissible.
+[7] Selon la thèse de l’appelante, le montant de la FNACC des actifs de chaque catégorie de l’appelante au début de la première année d’imposition suivant la fusion correspondait au coût en capital des actifs des diverses catégories des caisses de crédit remplacées. Le tableau suivant indique le solde de la FNACC des actifs des diverses catégories à la fin de la dernière année d’imposition de Delta et de First Heritage avant la fusion (le solde de fermeture) et le solde d’ouverture de la FNACC tels qu’ils ont été indiqués par l’appelante :
+Catégorie
+Solde de fermeture FNACC – Delta
+Solde de fermeture FNACC – First Heritage
+Solde combiné de la FNACC
+Solde d’ouverture de la FNACC – appelante
+1
+3 865 000
+6 863 291
+10 728 291
+17 919 244
+3
+195 522
+469 479
+665 001
+3 326 000
+6
+172 805
+9 379
+182 184
+1 193 125
+8
+1 499 659
+1 760 140
+3 259 799
+12 538 015
+10
+1 408 341
+1 371 048
+2 779 389
+11 796 495
+10.1
+203
+577
+780
+24 000
+12
+0
+0
+0
+116 998
+13
+60 852
+0
+60 852
+165 202
+13
+0
+0
+0
+362 813
+13
+118 729
+0
+118 729
+245 344
+13
+441 919
+0
+441 919
+882 031
+13
+277 675
+0
+277 675
+504 203
+13
+88
+0
+88
+871
+13
+361 271
+0
+361 271
+656 796
+13
+0
+1 121 140
+1 121 140
+1 191 114
+17
+3 143
+102 967
+106 110
+57 508[1]
+Total :
+8 405 207
+11 698 021
+20 103 228
+50 979 759
+[8] L’appelante disposerait en tout d’une déduction pour amortissement (« DPA ») additionnelle de 30 876 531 $ (50 979 759 $ - 20 103 228 $), qu’elle pourrait déduire avec le temps par rapport à celle dont elle disposerait si les soldes de fermeture de la FNACC avaient été reportés prospectivement à titre de solde d’ouverture de la FNACC de l’appelante. Il ressort des tableaux de DPA applicables à Delta et à First Heritage qui ont été produits en preuve que ni l’une ni l’autre de ces sociétés n’a déclaré une récupération de la DPA dans ses déclarations de revenus pour la période ayant pris fin immédiatement avant la fusion, de sorte que les 30 876 531 $ constitueraient une DPA qui serait demandée à deux reprises – une fois par Delta ou par First Heritage et encore une fois par l’appelante.
+[9] En produisant ses déclarations de revenus pour les années d’imposition 2001 à 2004 (soit les années d’imposition qui sont visées par les présents appels), l’appelante a demandé une DPA au cours de chaque année, en se fondant sur le solde d’ouverture global de la FNACC de toutes les catégories de biens, de 50 979 759 $, au début de la première année d’imposition suivant la fusion. L’appelante a fait l’objet d’une nouvelle cotisation par laquelle le montant de la DPA qui avait été admis pour chaque année a été ramené au montant qui pouvait être demandé si le solde d’ouverture de la FNACC de toutes les catégories de biens s’élevait à 20 103 228 $ au début de la première année d’imposition suivant la fusion. La DPA demandée au cours de chaque année a donc été réduite.
+[10] De plus, en produisant sa déclaration de revenus pour son année d’imposition 2001, l’appelante n’a pas inclus la provision pour créances douteuses de 851 649 $[2] que Delta avait déduite dans le calcul de son revenu pour son année d’imposition 2000. Dans la réponse, il est également fait mention de provisions pour impôts excédentaires de 888 291 $, dont il sera question ci‑dessous à l’égard de la nouvelle cotisation concernant l’année d’imposition 2001 de l’appelante.
+[11] Ces opérations ont des incidences sur un autre compte d’impôt. Les montants imposables à taux réduit de Delta et de First Heritage n’ont pas été reportés prospectivement à la première année d’imposition de l’appelante, de sorte qu’elle a soutenu que son montant imposable à taux réduit d’ouverture était nul. Le montant imposable à taux réduit est uniquement pertinent pour les caisses de crédit; on l’utilise afin de déterminer le montant du revenu qui est assujetti au taux d’imposition des petites entreprises. Il résulte clairement des paragraphes 137(3), (4), (4.3) et (6) de la Loi que, en plus du crédit d’impôt qu’elle peut avoir le droit de demander en application de l’article 125[3], la caisse de crédit peut demander un crédit d’impôt supplémentaire (qui ramènerait son taux d’imposition au taux d’imposition des petites entreprises). Le paragraphe 137(3) de la Loi limite le montant du revenu à l’égard duquel ce crédit d’impôt supplémentaire peut être demandé.
+[12] Le paragraphe 137(3) de la Loi limite le montant du revenu imposable[4] auquel ce crédit d’impôt supplémentaire s’applique (qui ramène le taux d’imposition au taux d’imposition des petites entreprises) au moindre des deux montants suivants :
+a) le revenu imposable de la caisse de crédit pour l’année;
+b) l’excédent éventuel des 4/3 de la provision cumulative maximale de la caisse de crédit à la fin de l’année sur le montant imposable à taux réduit de la caisse de crédit à la fin de l’année d’imposition précédente.
+[13] La provision cumulative maximale est définie au paragraphe 137(6) de la Loi; elle correspond à 5 p. 100 du total des montants que la caisse de crédit doit à ses membres (y compris les dépôts) et du total des montants des parts des membres.
+[14] Le montant imposable à taux réduit est déterminé conformément au paragraphe 137(4.3) de la Loi. Le montant imposable à taux réduit pour les années visées par les appels était le montant total cumulatif du revenu imposé au taux d’imposition des petites entreprises[5].
+[15] Le montant imposable à taux réduit augmentera chaque année (à supposer que la caisse de crédit soit rentable). Toutefois, si le montant des dépôts que la caisse de crédit a reçus est suffisamment élevé (ce qui est établi à la fin de l’année et ce qui comprend donc le montant net des nouveaux dépôts moins les retraits effectués au cours de l’année), il est possible que tout le revenu de la caisse de crédit continue à être imposé au taux d’imposition des petites entreprises même si le montant imposable à taux réduit augmente chaque année étant donné que le plafond est fondé sur la différence entre les 4/3 de la provision cumulative maximale à la fin de l’année et le montant imposable à taux réduit à la fin de l’année d’imposition précédente.
+[16] En l’espèce, la thèse de l’appelante est que le montant imposable à taux réduit qui est pertinent aux fins de la détermination de son droit à un crédit d’impôt en application du paragraphe 137(3) de la Loi pour son année d’imposition 2001 est nul. Le montant imposable à taux réduit de l’appelante pour son année d’imposition 2001 est le montant imposable à taux réduit à la fin de l’année d’imposition précédente. S’il y a eu fusion au sens du paragraphe 87(1) de la Loi, selon l’alinéa 137(4.3)b) de la Loi:
+(4.3) Pour l’application du paragraphe (3)
+[…]
+b) lorsque, à un moment donné, une nouvelle société est créée en raison de la fusion, au sens du paragraphe 87(1), de plusieurs sociétés remplacées, la nouvelle société est réputée avoir eu une année d’imposition se terminant immédiatement avant ce moment et avoir eu, à la fin de cette année, un montant imposable à taux réduit, égal au total des montants imposables à taux réduit de toutes les sociétés remplacées, à la fin de leur dernière année d’imposition;
+Vu que, selon la thèse de l’appelante, la fusion n’est pas une fusion au sens de la définition figurant au paragraphe 87(1) de la Loi, de sorte que les dispositions de ce paragraphe ne jouent pas, l’appelante n’a pas reporté prospectivement les montants imposables à taux réduit de Delta ou de First Heritage.
+[17] Selon la thèse de l’intimée, les montants imposables à taux réduit de Delta et de First Heritage auraient dû être reportés prospectivement par l’appelante, de sorte que le montant imposable à taux réduit de l’année d’imposition 2001 de l’appelante aurait dû s’élever à 72 341 531 $ parce que le montant imposable à taux réduit de Delta à la fin de son année d’imposition ayant pris fin le 31 décembre 2000 s’élevait à 20 182 268 $ et que celui de First Heritage, à la fin de son année d’imposition ayant pris fin le 31 décembre 2000, s’élevait à 52 159 263 $.
+[18] Toutefois, il n’est pas controversé entre les parties que, peu importe que le montant imposable à taux réduit de l’appelante soit nul ou qu’il s’élève à 72 341 531 $ pour son année d’imposition 2001, le montant d’impôt à payer par l’appelante en vertu de la Loi ne changera pas pour les années d’imposition visées par les appels. Le montant de la provision cumulative maximale pour chaque année était suffisamment élevé pour que l’appelante ait droit au même crédit d’impôt en application du paragraphe 137(3) de la Loi, et ce, que les montants imposables à taux réduit des sociétés remplacées aient été transmis à l’appelante ou que le montant imposable à taux réduit de l’appelante pour l’année 2001 ait été nul.
+L’article 87 de la Loi joue‑t‑il?
+[19] La première question à examiner est de savoir si entre dans les prévisions de l’article 87 de la Loi la fusion de Delta et de First Heritage. Il est clair que le paragraphe 87(1) de la Loi contient une définition de la « fusion » aux fins de l’article 87 de la Loi. Par conséquent, s’il n’est pas satisfait à une partie de la définition, même si l’unification peut être une fusion pour l’application de la législation sur les sociétés pertinente, il ne s’agit pas d’une fusion aux fins de l’article 87 de la Loi.
+[20] Il est clair que l’unification de Delta et de First Heritage était dictée par des considérations commerciales. Il est également clair que les parties voulaient structurer l’unification de manière que la fusion de sorte que ne joue pas la définition figurant au paragraphe 87(1) de la Loi et que la démarche serait déterminée par le cabinet Fraser Milner Casgrain. L’intimée a soutenu que les dirigeants des sociétés remplacées et le comptable de l’une des sociétés remplacées (qui était également le comptable de l’appelante) ne semblaient pas comprendre pleinement les modalités du montage, ce ne sont pas eux qui ont conçu ce montage. Il existe probablement un grand nombre de montages conçus par des conseillers fiscaux que les clients ne comprennent pas pleinement. La question n’est pas de savoir si les dirigeants des sociétés remplacées comprennent ce qui s’est passé, mais il s’agit plutôt de savoir ce qui s’est passé.
+[21] L’intimée a mis l’accent sur certaines contradictions entre la convention de fusion et les opérations qui ont été effectuées. En particulier, elle a invoqué le fait que la convention de fusion stipulait qu’une nouvelle société devait être constituée en personne morale au moment de la fusion (la « date de prise d’effet »), mais 619 a en fait été constituée en personne morale avant cette date, le 19 décembre 2000. Il n’existe aucune raison pour laquelle la constitution en personne morale de 619, le 19 décembre 2000, empêcherait le transfert des biens envisagé par l’appelante. Cela aiderait en fait l’appelante, étant donné la nouvelle société devait être constituée en personne morale afin d’acquérir les biens et que la constitution en personne morale de 619 avant le 1er janvier 2001 réduisait simplement le nombre d’opérations qui devaient être effectuées ou d’événements qui devaient se produire à la date de prise d’effet et apaisait toutes les inquiétudes lorsqu’il s’agissait de savoir si cette société pouvait en fait être constituée en personne morale à la date de prise d’effet.
+[22] Comme le juge Archambault l’a observé dans la décision Fredette c. The Queen, 2001 DTC 263, 2001 DTC 621, [2001] 3 C.T.C. 2468 (paragraphe 45) :
+45. […] Selon une jurisprudence bien établie, les incidences fiscales d’une opération doivent être déterminées en fonction des opérations véritables qui ont eu lieu.
+[23] Il faut donc examiner les opérations véritables que les parties ont effectuées étant donné que, s’il existe quelque contradiction entre ce dont les parties avaient convenu et ce qu’elles ont réellement effectué, ce sont ces opérations qui détermineront les incidences fiscales et non ce que les parties avaient convenu de faire.
+[24] L’intimée a également invoqué certains arguments se rapportant à des opérations simultanées et à la question de savoir si les opérations simultanées sont effectives. En particulier, elle a soulevé la question du nombre d’opérations ou d’événements qui avaient eu lieu simultanément, selon ce que l’appelante semblait alléguer. Toutefois, en ce qui concerne l’argument de l’appelante selon lequel la fusion n’était pas une fusion au sens de la définition figurant au paragraphe 87(1) de la Loi, les deux opérations ou événements qui auraient eu lieu simultanément, comme l’appelante aurait à l’établir, sont le transfert en faveur de 619 de la propriété effective de Delta ou de First Heritage à l’égard d’au moins un bien et la fusion de Delta et de First Heritage. En ce qui concerne la définition de la « fusion » figurant au paragraphe 87(1) de la Loi, il faut rechercher si la propriété effective des biens a été transférée à 619 par Delta et par First Heritage (ou du moins par l’une de ces sociétés) au moment exact où la fusion a eu lieu, de sorte que la propriété effective de ces biens n’a pas été transmise à l’appelante en vertu de la fusion. L’accent est mis sur les biens des sociétés remplacées et sur la question de savoir si tous les biens de Delta et de First Heritage sont devenus des biens de l’appelante en vertu de la fusion. Il me semble que la fusion est l’événement qui a déterminé le moment où la propriété effective des biens de Delta et de First Heritage a été transférée à 619. Pour établir que la fusion de Delta et de First Heritage ne constituait pas une fusion au sens de la définition figurant au paragraphe 87(1) de la Loi, l’appelante devra simplement établir que la propriété effective des biens que Delta et First Heritage ont transférés à 619 a été transférée à 619 au moment exact de la fusion. Il importe peu qu’une autre opération ou qu’un autre événement, comme l’émission d’actions par 619, ait eu lieu à ce moment‑là ou par la suite.
+[25] L’intimée a également soulevé la question de la capacité des sociétés remplacées de conclure les opérations en cause comme l’a soutenu l’appelante. Dans ses écritures, l’avocate de l’intimée a fait les observations suivantes :
+[traduction]
+1.34 À notre avis, le mécanisme de l’opération simultanée est incompatible avec les fusions selon le modèle de la continuation. Dans une fusion suivant le modèle de la continuation, les sociétés remplacées sont intégrées à la société issue de la fusion au moment de la fusion. Les sociétés remplacées ne cessent pas d’exister et ne disparaissent pas, mais elles ne sont pas non plus capables de prendre de nouvelles dispositions contractuelles sous leur identité antérieure. [...]
+1.35 Indépendamment de la façon dont l’appelante explique le moment où ces opérations ont eu lieu, au début de la journée du 1er janvier 2001, soit le moment où la fusion a eu lieu, ni First Heritage ni Delta ne pouvaient négocier ou signer d’opérations indépendantes [...]
+[Non souligné dans l’original.]
+[26] L’avocate de l’intimée s’appuie sur les arrêts que la Cour suprême du Canada a rendus dans les affaires La Reine c. Black & Decker Manufacturing Company Ltd., [1975] 1 R.C.S. 411, et Witco Chemical Company, Canada, Limited c. La Corporation de la ville d’Oakville et al., [1975] 1 R.C.S. 273, 43 DLR (3d) 413, ainsi qu’à l’arrêt que la Cour d’appel fédérale a rendue dans l’affaire La Reine c. Guaranty Properties Ltd., [1990] 3 C.F. 337, 90 DTC 6363. L’avocate de l’intimée a ensuite soutenu :
+[traduction]
+1.37 Ces arrêts clés en matière de fusion ne font pas autorité en ce qui concerne la thèse selon laquelle les sociétés remplacées ont la capacité juridique résiduelle d’avoir des relations contractuelles lorsqu’il y a eu fusion et ne peuvent pas être interprétés comme étayant cette thèse.
+[27] L’avocate de l’intimée n’a pas soutenu qu’il fallait en déduire qu’aucun droit sur les biens immeubles n’avait été cédé à 619 par Delta ou par First Heritage, mais cet argument a été avancé à l’appui du raisonnement selon lequel les opérations n’avaient pas été effectuées de la façon proposée par l’appelante.
+[28] Le juge MacFarland, de la Cour de justice de l’Ontario (division générale), a observé dans la décision Rendall c. Royal Insurance Canada [1997] O.J. No. 2672, 34 O.R. (3d) 762 :
+[traduction]
+13. L’avocat de Royal a cité les observations suivantes du juge Dickson (page 398) :
+[...] Il est vrai que par la fusion chaque compagnie constituante perd son existence «distincte» mais il ne s’ensuit pas pour autant qu’elle a cessé d’exister.
+Il est soutenu que Re/Max Grand a cessé d’exister à titre d’entité ayant la capacité d’ester en justice après le 28 novembre 1995 (la date de la fusion). Il affirme que la société n’avait pas la capacité d’ester en justice et que, par conséquent, toute assurance qui visait à couvrir cette éventualité ne s’appliquait plus. Selon cet argument, chacune des sociétés fusionnantes cesse d’avoir une existence distincte, mais elle n’a pas cessé d’exister. Il affirme qu’en pratique et sur le plan juridique, les sociétés fusionnantes cessent d’exister en tant qu’entités juridiques.
+14 Je crois que la réponse à cet argument se trouve dans l’arrêt Witco Chemical Co. Canada Ltd. (page 420), où le juge Spence examine le jugement rendu par le juge Arnup, de la Cour d’appel de l’Ontario, et qu’il rejette sans équivoque en ces termes :
+Il m’est difficile de concevoir une situation où la compagnie constituante ne cesse pas à tous égards d’exister tout en n’étant pas une personne au sens juridique, jouissant d’un statut lui permettant d’intenter une action.
+Et, en outre, à la page 421 :
+J’estime, toutefois, que dans l’affaire qui nous est soumise l’identité corporative de Witco Chemical Company, Canada, Limited, n’a pas été suffisamment éteinte pour que la Cour soit autorisée à statuer que le bref a été émis au nom d’une demanderesse inexistante.
+À mon avis, l’effet combiné de l’actuel article 179 de la Loi sur les sociétés par actions et des arrêts La Reine c. Black & Decker et Witco Chemical Co. Canada Ltd. est que les sociétés fusionnantes continuent à exister et à avoir un statut juridique à la suite de la fusion. Cela dit, il s’ensuit que la police de Royal, si elle ne renferme pas de condition expresse prévoyant que la couverture d’assurance prend fin au moment de la fusion de l’assuré désigné avec une autre société, est toujours en vigueur.
+[Non souligné dans l’original.]
+[29] Delta et First Heritage continueraient donc à exister et à avoir un statut juridique après la fusion. La Cour suprême du Canada semble donc dire, dans l’arrêt Witco Chemical Company, Canada, Limited, qu’une société fusionnante est une personne juridique ayant qualité pour intenter une action. Si cette personne juridique peut intenter une action, peut‑elle également conclure des contrats? Cela soulève la question de savoir qui pourrait négocier ou signer le contrat étant donné que les dirigeants et administrateurs des sociétés remplacées cessent d’agir à ce titre au moment de la fusion. Il me semble que la mention du fait que les sociétés remplacées subsistent ne doit pas être interprétée comme si les dirigeants et administrateurs des sociétés remplacées continuent à occuper leur charge auprès des sociétés remplacées après la fusion. Si c’était le cas, il y aurait en l’espèce trois conseils d’administration et trois groupes de dirigeants – l’un pour Delta, l’un pour First Heritage et l’un pour l’appelante. Tel ne peut pas être le résultat de la mention selon laquelle les sociétés fusionnantes subsistent.
+[30] Il me semble qu’afin de décider s’il y a eu transfert d’un droit sur les biens immeubles au moment de la fusion, il n’est pas nécessaire de décider si Delta et First Heritage avaient la capacité de conclure des contrats de leur propre chef après la fusion et il n’est donc pas nécessaire de décider si le statut juridique de Delta et de First Heritage permettrait à celles‑ci de conclure des contrats après la fusion.
+[31] En l’espèce, il est clair que les conventions en question ont été signées avant la fusion. Par une lettre que David Jones, vice‑président directeur, Services d’entreprise, et directeur financier de First Heritage, a envoyée à Baker Newby le 29 décembre 2000, les documents signés (y compris les conventions de transfert d’actifs et les conventions de fiducie) étaient retournés à Baker Newby. Il est donc clair que les documents de transfert d’actifs et les conventions de fiducie ont été signés au plus tard le 29 décembre 2000.
+[32] Dans l’arrêt Hewlett Packard (Canada) Ltée c. La Reine, 2004 CAF 240, 324 N.R. 201, 2004 DTC 6498, le juge Noël, au nom de la Cour d’appel fédérale, a observé :
+59 Bien que les notions de droit civil et de common law relativement à la propriété proviennent de sources différentes, il y a une règle fondamentale qui est commune aux deux systèmes : la propriété est transférée quand les parties ont l’intention d’effectuer le transfert.
+[33] Dans l’affaire Hewlett Packard, les biens en question étaient des biens meubles, soit des voitures. En l’occurrence, il s’agit de biens immeubles.
+[34] Dans le traité d’Anger & Honsberger intitulé « Law of Real Property », troisième édition, par Anne Warner La Forest, il est observé, aux pages 1 à 7, au sujet de la classification des biens en biens immeubles ou meubles :
+[traduction]
+[…] Néanmoins, un grand nombre de différences subsistent. Cela est particulièrement vrai en ce qui concerne les différents modes d’acquisition, la vérification de titre et l’aliénation des deux types de biens. En général, on peut dire que ces différences existent inévitablement à cause des différences matérielles existant entre ces types de biens.
+[35] Dans l’affaire Stonehouse c. British Columbia (Attorney General), [1962] S.C.R. 103, un mari et sa femme étaient inscrits à titre de tenants conjoints d’un bien, à Vancouver. Avant son décès, la femme avait transféré à sa fille issue d’un mariage antérieur le droit qu’elle détenait sur le bien. L’acte de transfert n’avait été enregistré qu’après le décès de la femme. Le juge Ritchie, au nom de la Cour suprême du Canada, a observé :
+[traduction]
+En vertu des dispositions de l’article 35, l’acte non enregistré ne pouvait pas avoir effet « afin de transmettre un domaine ou un droit, que ce soit en common law ou en equity », autre que celui que détenait l’auteur du transfert; cependant, l’acte intéressant Mme Munk n’avait pas pour effet de « transmettre » le domaine ou l’intérêt détenu par M. Stonehouse; il avait plutôt pour effet de changer le type de propriété d’une tenance conjointe en une tenance commune, de façon à éteindre le droit de M. Stonehouse de faire valoir son droit de survie, ce qui est un accessoire du premier type de propriété, mais non de l’autre. Le droit de survie, en vertu d’une tenance conjointe, est le suivant : au moment du décès d’un tenant conjoint, l’intérêt que ce dernier possède dans le bien‑fonds est transmis à l’autre tenant conjoint ou aux autres tenants conjoints (Megarry et Wade, The Law of Real Property, 2e éd., page 390). Cependant, au moment de la signature et de la délivrance de l’acte de transfert, Mme Stonehouse s’est départie de tout droit qu’elle possédait que le bien‑fonds en question. Au moment de son décès, Mme Stonehouse ne possédait donc plus, à l’égard du bien‑fonds, de droit susceptible d’être transmis à son mari du fait du droit de survie.
+[Non souligné dans l’original.]
+[36] Par conséquent, le droit sur un bien immeuble, en Colombie‑Britannique, est transmis au moment de la signature et de la délivrance du document de transfert, et ce, même si ce document n’est pas enregistré[6].
+[37] En parlant de la délivrance, la Cour d’appel de la Nouvelle‑Écosse a observé dans l’arrêt Re MacNeil Estate, 219 N.S.R. (2d) 80 :
+[traduction]
+11 Le droit portant sur la délivrance d’actes est examiné par C.W. MacIntosh, dans le Nova Scotia Real Property Manual, feuillets mobiles, Markham, ON : Butterworths, 1988, section 5.5A :
+Pour qu’il y ait délivrance effective, il n’est pas nécessaire de délivrer l’acte lui‑même au bénéficiaire du transfert. La délivrance d’un acte est une question d’intention.
+Ce qui est essentiel pour assurer la délivrance de l’acte, c’est que la partie qui est l’auteur de l’acte, l’ayant en premier lieu scellé, doit par ses paroles ou par sa conduite, reconnaître expressément ou implicitement son intention d’être immédiatement liée, sans aucune condition, par les termes de l’acte.
+Il faut établir l’intention à l’aide des paroles, de la conduite et des circonstances environnantes.
+[...]
+12 Dans la décision Ross c. Lynds Estate (1977), 28 N.S.R. (2d) 260 (C.S., 1re inst.), le juge Hallett (tel était alors son titre) a observé :
+[18] On peut penser que la délivrance d’un acte s’entend de la délivrance de l’acte lui‑même, mais comme il en a ci‑dessus été fait mention dans cette décision, la jurisprudence enseigne depuis fort longtemps, qu’il n’est pas nécessaire de délivrer l’acte lui‑même au bénéficiaire du transfert pour qu’il y ait délivrance effective. L’évolution du droit dans ce sens résultait sans aucun doute du fait que la jurisprudence tentait d’assurer la réalisation de ce qui, selon eux, était l’intention de l’auteur du transfert [...]
+[19] Les décisions susmentionnées montrent qu’il n’est pas nécessaire qu’il y ait remise de l’acte lui‑même au bénéficiaire du transfert ou à quelque autre personne pour que l’auteur du transfert ne soit plus en mesure d’effectuer la délivrance.
+[38] Il semble donc clair que, lorsqu’un droit sur un bien meuble ou sur un bien immeuble est transféré, l’intention des parties a un rôle important aux fins de la détermination du moment où le transfert a lieu. En l’espèce, les documents se rapportant au transfert du droit sur les biens immeubles ont clairement été signés avant le 1er janvier 2001. L’intimée n’a pas soutenu, directement ou implicitement, que les documents n’avaient aucun effet aux fins du transfert d’un droit sur les biens. Le seul argument que l’intimée a invoqué se rapportait au moment où le droit sur les biens a été transféré à 619.
+[39] Il est clair que Delta et First Heritage voulaient transférer à 619 leur droit sur les biens immeubles au moment où elles ont fusionné en vertu de la CUIA. La convention de fusion stipulait :
+[traduction]
+1.1 Dans la présente convention :
+[…]
+f) « Date de prise d’effet » Début de la journée de la date de fusion;
+[…]
+2.2 La fusion prend effet à la date de prise d’effet.
+[…]
+8.1 Delta et First Heritage conviennent que certains actifs leur appartenant seront excédentaires aux besoins de la caisse issue de la fusion et qu’ils seront transférés à une nouvelle filiale à la date de prise d’effet.
+[…]
+8.3 À la date de prise d’effet, First Heritage et Delta transféreront chacune à la filiale les actifs établis par les parties, avant la date de la fusion, comme étant excédentaires aux besoins de la caisse issue de la fusion en échange d’actions privilégiées de la filiale dont le prix global de remboursement ou de rachat au gré du détenteur correspondra à la juste valeur marchande de chaque actif transféré dont les parties auront convenu.
+8.4 Lorsque le bien transféré est un bien immeuble dont le transfert peut être imposable en vertu de la Property Transfer Act (Colombie‑Britannique), l’auteur du transfert et la filiale concluent une convention de fiducie nue ou de mandat stipulent que l’auteur du transfert continu à être propriétaire inscrit des biens immeubles en fiducie au profit de la filiale.
+[40] Il y a deux protocoles d’entente – l’un entre Delta (en sa qualité de vendeur) et 619 (en sa qualité d’acquéreur) et l’autre entre First Heritage (en sa qualité de vendeur) et 619 (en sa qualité d’acquéreur). Chaque entente est [traduction] « datée à la " date de prise d’effet ", soit le 1er janvier 2001, telle que cette expression est définie dans la convention de fusion conclue entre Delta Credit Union et First Heritage Savings Credit Union, datée, à titre de référence, du 1er janvier 2001 ».
+[41] Le premier paragraphe de chaque entente stipule :
+[traduction]
+1. Sous réserve des dispositions de la présente entente et compte tenu des garanties et déclarations énoncées dans les présentes, le vendeur vend par les présentes les actifs et l’acquéreur achète par les présentes les actifs.
+[42] Le paragraphe 4 de chaque entente stipule :
+[traduction]
+4. La date de prise d’effet de la présente entente et de tous les événements mentionnés dans les présentes est la « date de prise d’effet », soit le 1er janvier 2001, telle que cette expression est définie dans la convention de fusion conclue entre Delta Credit Union et First Heritage Savings Credit Union, datée, à titre de référence, du 1er janvier 2001, et ce, peu importe la date réelle de signature de la présente entente ou de tout autre document ou acte établi conformément à la présente entente.
+[43] L’entente conclue entre Delta et 619 contenait une annexe indiquant les trois biens immeubles qui devaient être inclus à titre [traduction] d’« actifs » pour cette entente, et l’entente conclue entre First Heritage et 619 contenait une annexe indiquant le seul bien immeuble qui devait être inclus à titre [traduction] d’ «actif » pour cette entente.
+[44] Il y avait également des conventions de fiducie conclues entre Delta et 619 et entre First Heritage et 619, lesquelles étaient [traduction] « datées à la " date de prise d’effet ", soit le 1er janvier 2001, telle que cette expression est définie dans la convention de fusion conclue entre Delta Credit Union et First Heritage Savings Credit Union, datée, à titre de référence, du 1er janvier 2001 ». Dans les conventions de fiducie, Delta et First Heritage confirmaient toutes deux qu’elles n’avaient pas la propriété effective des biens immeubles qui étaient assujettis aux ententes susmentionnées.
+[45] Il ressort clairement des documents qui ont été signés que les parties voulaient transférer au moment de la fusion la propriété effective des biens immeubles qui étaient décrits dans les annexes des protocoles d’entente. L’intimée a convenu que la fusion avait eu lieu dès le début de la journée du 1er janvier 2001. Il est donc clair que les parties voulaient transférer à 619 la propriété effective des biens immeubles de Delta et de First Heritage dès le début de la journée du 1er janvier 2001, soit au moment même où Delta et First Heritage fusionnaient en vertu de la CUlA.
+[46] L’intimée s’appuie sur la jurisprudence Hauber Contracting Ltd. c. British Columbia, [1984] B.C.J. No. 3100, laquelle enseigne, selon elle, que le transfert des actifs ne peuvent avoir eu lieu au moment de la fusion. Cette affaire portait sur une disposition du règlement pris conformément à la Social Service Tax Act, R.S.B.C. 1979 ch. 388. L’article 3.14 de ce règlement disposait que le transfert d’un bien meuble matériel en faveur d’une société était exonéré de la taxe sur les services sociaux si, entre autres, le [traduction] « bien [était] vendu à une société au moment de sa constitution en personne morale ».
+[47] Le juge Hardinge, de la Cour de comté, a observé :
+[traduction]
+8 Le libellé de l’article 3.14 du Règlement est, à première vue, suffisamment clair. Habituellement, l’expression « au moment de sa constitution en personne morale » pourrait s’entendre du « moment où la société est constituée en personne morale ». Il semble que le rédacteur voulait que les deux événements se produisent en même temps. Or, le problème est le suivant : lorsque l’on parle de la « constitution en personne morale » comme étant un événement, il est impossible de déterminer après coup le moment précis où cet événement a eu lieu, et ce, parce que le bureau du registraire des sociétés appose sur les documents soumis avec la demande de constitution en personne morale la date à laquelle il les reçoit. Les documents sont ensuite examinés par divers fonctionnaires sur une période de plusieurs jours ou même, dans certains cas, de plusieurs semaines. S’il est estimé que tout est en règle, la nouvelle société est alors constituée en personne morale. Le certificat de constitution en personne morale est ensuite délivré, lequel indique la date de constitution en personne morale comme étant la date à laquelle l’acte constitutif et les statuts sont reçus par le bureau du registraire.
+9 Si la chose est considérée selon la perspective d’avocats spécialisés en droit commercial, il n’est pas difficile de comprendre l’argument selon lequel il est en pratique impossible de transférer les actifs à une société « au moment de sa constitution en personne morale » si cette expression est interprétée littéralement. Comme il en a été fait mention, une société ne commence pas à exister au moment où il a été conclu qu’il a été satisfait à toutes les exigences de la Company Act, R.S.B.C. 1979, ch. 59. La société commence à exister lorsque le registraire délivre le certificat de constitution en personne morale et qu’il a publié l’avis de constitution en personne morale dans la Gazette, conformément à l’article 9 de la Company Act. Le certificat de constitution en personne morale est ensuite délivré, la date qui y figure étant ce que l’on appelle (quoique d’une façon inexacte) la date de constitution en personne morale.
+10 Même si la date figurant dans le certificat de constitution en personne morale était la date véritable de la constitution en personne morale (la Company Act ne renfermant aucune disposition selon laquelle il est présumé qu’il en est ainsi), il serait néanmoins presque impossible de transférer des biens à une société « au moment de sa constitution en personne morale », et ce, parce qu’un avocat ne peut pas savoir, lorsqu’il confie au service postal un projet d’acte constitutif ou les statuts ainsi que les droits prescrits, à quel moment les documents parviendront au bureau du registraire ou à quel moment le processus de constitution en personne morale sera effectué. Par conséquent, à moins de rédiger une entente concernant la vente d’un bien en faveur d’une société que l’on se propose de constituer en personne morale prévoyant que l’entente prendra effet uniquement « si la société est constituée en personne morale », il serait impossible de se conformer au libellé précis des dispositions du Règlement.
+[48] En l’espèce, le transfert des actifs ne pose pas les mêmes problèmes que ceux qui ont été exposés dans la décision Hauber Contracting Ltd. En effet, dans cette affaire‑là, le bénéficiaire du transfert des actifs n’aurait pas existé au moment de la conclusion de la convention de transfert étant donné que, selon toute probabilité, cette convention, prévoyant le transfert des actifs à la société au moment de sa constitution en personne morale, aurait été conclue avant que la société soit constituée en personne morale. Or, en l’espèce, le bénéficiaire du transfert des actifs existait avant la date de prise d’effet étant donné que 619 avait été constituée en personne morale avant le 1er janvier 2001. Comme il n’est pas controversé entre les parties que la fusion prenait effet dès le début de la journée du 1er janvier 2001, il est clair que le moment où le transfert a eu lieu était certain (au début de la journée du 1er janvier 2001) et ce moment est simplement le point de référence permettant de déterminer le moment où les actifs ont été transférés à 619. Selon moi, on ne saurait conclure, à partir de la jurisprudence Hauber Contracting Ltd., que le transfert des actifs de Delta et de First Heritage en faveur de 619 ne pouvait pas avoir eu lieu à la date de prise d’effet.
+[49] L’intimée a également soutenu [traduction] que « la fusion effectuée en vertu de la CUIA est nécessairement une fusion qui satisfait à la définition figurant à l’article 87 de la Loi ». Le paragraphe 20(2) de la CUIA dispose notamment:
+[traduction]
+(2) Les caisses fusionnantes [...] soumettent à la commission une convention de fusion
+a) indiquant
+[…]
+(iii) les modalités de réalisation de la fusion [...]
+[50] En l’espèce, la convention de fusion prévoyait clairement que, selon les modalités de réalisation de la fusion, certains actifs excédentaires seraient transférés à une nouvelle société au moment de la fusion. Il me semble qu’étant donné que la CUIA prévoit que les caisses fusionnantes peuvent décider, conformément à la convention de fusion, des modalités de réalisation de la fusion (sous réserve de l’approbation par la Financial Institutions Commission, comme le prévoit le paragraphe 20(3) de la CUIA), la fusion, en vertu de la CUIA, est effectuée selon les modalités prévues dans la convention de fusion. La mention, à l’article 23 de la CUIA, du fait que la caisse issue de la fusion prend possession des biens et prend en charge les obligations veut simplement dire que la caisse issue de la fusion acquiert les actifs des sociétés remplacées sous réserve des obligations incombant à celles‑ci. Étant donné que les sociétés remplacées étaient tenues de transférer les actifs à la date de prise d’effet, la caisse issue de la fusion n’a pas acquis la pleine propriété légale et effective de ces actifs. La caisse issue de la fusion a acquis toutes les actions de 619, qui avait acquis la propriété effective des actifs (et l’appelante a donc indirectement acquis la propriété effective), mais l’appelante n’a pas directement acquis la propriété effective des actifs excédentaires.
+[51] À mon avis, le transfert par Delta et par First Heritage de la propriété effective des biens immeubles en faveur de 619 a eu lieu, comme Delta et First Heritage le voulaient, à la date de prise d’effet. L’appelante n’a donc pas acquis la propriété effective de ces biens en vertu de la fusion, et la fusion de Delta et de First Heritage n’est donc pas une fusion au sens de la définition figurant à l’article 87 de la Loi.
+Les comptes d’impôt de Delta et de First Heritage sont-ils transmis à l’appelante?
+[52] Étant donné que la fusion de Delta et de First Heritage n’est pas une fusion au sens de la définition figurant au paragraphe 87(1) de la Loi, il faut maintenant rechercher si les attributs fiscaux de Delta et de First Heritage sont transmis à l’appelante. Lors de l’audience, les débats étaient dans l’ensemble axés sur le montant imposable à taux réduit. Toutefois, l’obligation fiscale de l’appelante au cours de chacune des années visées par les appels est la même, et ce, peu importe que le montant imposable à taux réduit de l’appelante soit nul au début de l’année 2001 ou qu’il soit égal, à ce moment‑là, aux montants imposables combinés à taux réduit de Delta et de First Heritage à la fin de leurs années d’imposition 2000. La détermination du montant imposable à taux réduit n’influera donc pas sur l’obligation fiscale de l’appelante pour l’une ou l’autre des années visées par les appels.
+[53] Dans l’affaire Interior Savings Credit Union c. La Reine, 2007 CAF 151, [2007] 4 C.T.C. 55, 2007 DTC 5342, la Cour d’appel fédérale a statué qu’une caisse de crédit n’avait pas le droit d’interjeter appel devant la présente cour lorsque la seule question en litige se rapportait à la détermination du montant imposable à taux réduit à la suite d’une fusion, lorsque le montant imposable à taux réduit proposé par la caisse ne réduirait pas son obligation fiscale. Tel est le cas en l’occurrence ici. Le montant imposable à taux réduit proposé par l’appelante n’entraînera pas de réduction de l’impôt à payer par l’appelante pour l’une ou l’autre des années visées par les appels et il ne s’agit donc pas d’une affaire qui peut être portée en appel devant la présente cour.
+[54] D’autre part, la FNACC des actifs influe sur le montant qui peut être demandé à titre de DPA et influe sur le montant des impôts à payer. Il faut donc rechercher si la FNACC des actifs de l’appelante au début de son année d’imposition 2001 était le coût en capital initial des actifs assumé par Delta et par First Heritage ou la FNACC de ces actifs, pour Delta et pour First Heritage, à la fin de leurs années d’imposition 2000.
+[55] La FNACC des actifs est déterminée de la façon indiquée au paragraphe 13(21) de la Loi, lequel dispose :
+« fraction non amortie du coût en capital » S’agissant de la fraction non amortie du coût en capital existant à un moment donné pour un contribuable, relativement à des biens amortissables d’une catégorie prescrite, le montant calculé selon la formule suivante :
+(A + B + C + D + D.1) – (E + E.1 + F + G + H + I + J + K)
+où :
+A représente le total des sommes dont chacune est le coût en capital que le contribuable a supporté pour chaque bien amortissable de cette catégorie acquis avant ce moment;
+[…]
+E l’amortissement total accordé au contribuable relativement aux biens de cette catégorie avant ce moment;
+[56] Selon la thèse de l’appelante, si l’on applique cette formule aux fins de la détermination de la FNACC de chaque catégorie de ses biens amortissables, la somme représentée par l’élément A (le coût en capital des biens amortissables que l’appelante a supporté) est le coût en capital de ces biens que Delta ou First Heritage a supporté (ou que l’appelante a supporté pour tout bien acquis après la fusion), mais que dans le calcul de la somme représentée par l’élément E, seul l’amortissement accordé à l’appelante après la fusion doit être inclus. Selon la thèse prise par l’appelante, il ne faut pas inclure l’amortissement accordé à Delta et à First Heritage par le calcul de la somme représentée par l’élément E de la formule susmentionnée pour l’appelante.
+[57] Le juge Dickson (tel était alors son titre) a observé au nom de la Cour suprême du Canada dans l’arrêt La Reine c. Black & Decker Manufacturing Company Ltd., précité :
+Sur la question de l’interprétation de l’art. 137 de la Loi sur les corporations canadiennes, la Cour d’appel a conclu que le mot « liabilities » utilisé dans les par. (13), al b), et (14) ne pouvait s’interpréter comme incluant des responsabilités pénales, mais ce faisant il semble que la Cour ait accepté, comme première prémisse, la proposition que la « nouvelle » compagnie, c’est-à-dire la compagnie née de la fusion, est une entité différente, séparée et distincte des « anciennes » compagnies, c’est-à-dire les compagnies constituantes. La question de savoir si la fusion crée ou fait disparaître une entité constituée en corporation dépend évidemment des termes de la loi applicable mais à la lecture de la Loi, en particulier de l’art. 137, et considérant les fins qu’une fusion est supposée atteindre, il me semble qu’à la suite d’une fusion réalisée en vertu de la Loi sur les corporations canadiennes aucune « nouvelle » compagnie n’est créée et aucune « ancienne » compagnie ne disparaît. La Loi sur les corporations canadiennes n’énonce rien de semblable et les considérations suivantes me semblent à mon avis nier une telle conclusion : (i) le mot clé de l’art. 137 est manifestement le mot « continuer » (continue). Ce terme signifie [TRADUCTION] « subsister ou rester dans son état actuel » — Shorter Oxford English Dictionary. Les compagnies « sont fusionnées et poursuivent leur activité (continue) comme une seule et même compagnie », ce qui est tout à fait le contraire de la notion de disparition des compagnies constituantes ou de leur continuation sous une forme tronquée; (ii) l’énoncé, à l’art. 137, par. (13), al. b), d’après lequel la «compagnie née de la fusion possède tous les biens,… » Si la naissance ou la disparition d’une corporation avait été envisagée, on aurait pu s’attendre à trouver, dans la loi, quelques dispositions sur le transfert ou la cession ou la transmission des actifs et non simplement le mot « possède », lequel renforce le concept de continuité; (iii) les lettres patentes de fusion « confirment la convention » (art. 137 (11)), ce qui contraste fortement avec des lettres patentes de constitution en corporation, lesquelles créent expressément un organisme; (iv) la version française de l’art. 137, par. (1), peut-être mieux que la version anglaise, décrit ce qui est survenu, « Deux ou plus de deux compagnies… peuvent fusionner et continuer comme une seule et même compagnie ». Il y a là une notion d’unité et de continuité comme une seule et même compagnie; (v) la Loi contient un certain nombre de dispositions expresses par lesquelles il peut être mis fin à des organismes constitués en corporation — par exemple, quand une compagnie exploite une entreprise qui n’entre pas dans le cadre de ses objets (art. 5(4)), ou voit sa charte frappée de déchéance (art. 31), ou abandonne sa charte (art. 32), ou est dissoute (art. 133(11)). La Loi ne parle pas d’extinction de compagnies par fusion; (vi) si le Parlement avait voulu dire qu’une compagnie, par le simple fait de fusionner avec une autre compagnie, peut se libérer de l’obligation de rendre compte d’actes faits en contravention du Code criminel ou de la Loi relative aux enquêtes sur les coalitions ou de la Loi de l’impôt sur le revenu, je ne puis que penser qu’un autre énoncé, plus clair que celui que nous trouvons actuellement dans la Loi sur les corporations canadiennes, serait nécessaire.
+[…]
+Le jour même, 4 juillet 1966, où le Juge Jessup a rendu son jugement en délibéré dans l’affaire Beamish, le Juge d’appel Kelly rendait le jugement en délibéré de la Cour d’appel de l’Ontario dans l’affaire Stanward Corporation c. Denison Mines Ltd., dans laquelle la Cour était composée des Juges d’appel Kelly, Wells et Laskin; le Juge Kelly déclarait, p. 592 :
+[TRADUCTION] Nous sommes ici en présence d’une compagnie née d’une fusion dans laquelle, simultanément, deux compagnies constituantes ont fusionné, apportant leurs actifs et leurs passifs. Aux termes de cette fusion et de par sa mise à exécution statutaire, on peut dire, de façon générale, que la compagnie née de la fusion a acquis les actifs et assumé les passifs des deux compagnies composantes; [...]
+un peu plus loin, sur la même page :
+Revenant à l’idée selon laquelle les compagnies nées de la fusion ne constituent pas une nouvelle compagnie mais continuent à subsister comme une seule, la conclusion voulant qu’il n’y ait pas d’acquisition ne peut être que plus évidente. L’art. 96 dit, très clairement, à mon avis, que les deux compagnies constituantes continuent d’exister comme une seule et même compagnie. Bien qu’il soit difficile de saisir avec exactitude en quoi consiste la métamorphose qui intervient, il est de la compétence de la législature de prévoir que deux choses jusqu’alors distinctes continueront à l’avenir comme une seule entité.
+Le Juge d’appel Kelly a comparé l’énoncé de l’art. 96 du c. 19 des Statuts de l’Ontario de 1953, d’après lequel a été jugée l’affaire Stanward, et celui de son prédécesseur, l’art. 11 du Companies Act, c. 59 des R.S.O. 1950, d’après lequel l’arrêt Regina c. Howard Smith Paper Mills, Ltd. [(1954), 4 D.L.R. (2d) 161], un jugement de mon collègue le Juge Spence, avait été rendu. Le texte antérieur mentionnait la corporation née de la fusion comme étant la [TRADUCTION] « nouvelle corporation » et parlait de « la corporation ainsi constituée en corporation ». Les termes exprimaient l’intention manifeste de substituer une nouvelle corporation aux lieux et places des corporations constituantes. Toutefois, lorsque l’affaire Stanward a été jugée, la législature avait réadopté l’article suivant une nouvelle formulation qui, de l’avis du Juge d’appel Kelly auquel je souscris, indiquait l’intention de modifier les conséquences de la fusion. Avec respect, j’estime que les observations du Juge d’appel Kelly dans la cause Stanward, bien qu’étant peut‑être obiter, sont fondées en droit et reflètent exactement les conséquences d’une fusion suivant l’énoncé de l’art. 96 du c. 19 des lois de l’Ontario de 1953, ou suivant l’énoncé quasi-identique de l’art. 137 de la Loi sur les corporations canadiennes.
+[…]
+On a également soutenu que si les compagnies constituantes continuent dans toute leur plénitude lors de la fusion, alors les par. (13), al. b), et (14) de l’art. 137 sont tout simplement redondants. Je ne les considère pas comme tels. Ces articles énoncent en termes larges l’amplification d’un principe général, pratique qui n’est pas inhabituelle chez les rédacteurs des lois. S’il faut, toutefois, interpréter les par. (13), al. b), et (14) de l’art. 137 autrement que comme étant des dispositions venant simplement étayer un principe général, et autrement que comme des dispositions qui embrassent tout, alors certains incidents de la vie corporative, telle la responsabilité pénale, doivent être considérés comme étant retranchés des compagnies constituantes et en dehors de la compagnie née de la fusion. Qu’advient-il de ces vestiges? Disparaissent-ils et, dans l’affirmative, de quel droit? Subsistent-ils à l’état latent? De telles abstractions métaphysiques ne sont pas, à mon avis, des adjuvants nécessaires de la loi. Bien interprétée, la loi a pour effet de permettre aux compagnies constituantes de subsister dans leur intégralité au sein de la compagnie née de la fusion, avec toutes leurs forces et leurs faiblesses, leurs qualités et leurs défauts ainsi que leurs péchés, lorsqu’elles sont pécheresses. Les lettres patentes de fusion ne donnent pas l’absolution.
+[Non souligné dans l’original.]
+[58] La CUIA, comme la Loi sur les corporations canadiennes, dispose, à l’alinéa 23a) que les caisses fusionnantes [traduction] « fusionnent et continuent comme une seule et même caisse ». La CUIA dispose également, à l’alinéa 23b), que [traduction] « la caisse issue de la fusion entre en possession des biens [...] de chaque caisse fusionnante ». Il me semble que l’enseignement de la Cour suprême du Canada dans l’arrêt Black & Decker vaut pour les caisses de crédit qui fusionnent en vertu de la CUIA.
+[59] Il me semble également que si l’amortissement que Delta et First Heritage ont demandé n’est pas transmis à l’appelante, il a été enlevé quelque chose à chacune de ces sociétés. Étant donné que les sociétés remplacées subsistent « dans leur intégralité » dans la société issue de la fusion, Delta et First Heritage ont subsisté avec l’amortissement que chaque société avait demandé.
+[60] L’appelante a soutenu que les comptes d’impôt (comme le montant de l’amortissement demandé) de Delta et de First Heritage n’étaient pas des actifs et qu’ils ne lui avaient donc pas été transmis lors de la fusion de Delta et de First Heritage (vu que l’article 87 de la Loi ne s’appliquait pas). Toutefois, il me semble que cet argument indique le fondement différent des décisions rendues par la Cour d’appel de l’Ontario et par la Cour suprême du Canada dans l’affaire Black & Decker. En effet, la Cour d’appel de l’Ontario avait conclu que le mot « liabilities » n’englobait pas la responsabilité pénale et que la société issue de la fusion ne pouvait donc pas être tenue responsable des actes des sociétés remplacées. Toutefois, la Cour suprême du Canada a décidé que la question dépendait des conséquences de la fusion. Étant donné que les sociétés remplacées continuaient comme une seule et même société, la société issue de la fusion pouvait être tenue responsable des actes des sociétés remplacées. Le résultat ne dépendait pas de ce qui était inclus dans les « engagements » (liabilities), mais des conséquences de la fusion. Par conséquent, il importe peu que les attributs fiscaux se rapportent à des actifs (ou à des obligations).
+[61] L’appelante a également soutenu que les comptes d’impôt ne sont pas transmis à la suite d’une fusion, compte tenu de l’enseignement de l’arrêt Black & Decker et par suite des décisions rendues par notre cour et par la Cour d’appel fédérale dans l’affaire CGU Holdings Canada Ltd. c. La Reine, 2008 CCI 167 et 2009 CAF 20.
+[62] Dans l’affaire CGU Holdings Canada Ltd., la contribuable avait été formée par suite de la fusion de trois sociétés. Cette fusion était une fusion au sens de la définition figurant au paragraphe 87(1) de la Loi. L’une des sociétés remplacées était une société de placement appartenant à des non‑résidents (une « SPANR »), alors que les deux autres n’étaient pas des SPANR. Par suite de l’alinéa g) de la définition d’une SPANR, au paragraphe 133(8) de la Loi, la société issue de la fusion n’était pas une SPANR. Dans cette affaire‑là, il s’agissait de savoir si la société issue de la fusion pouvait choisir, en vertu de l’article 134.1 de la Loi, d’être une SPANR. La société qui était une SPANR au cours d’une année, mais qui cessait de l’être l’année suivante, pouvait se prévaloir de ce choix. Si ce choix pouvait être opéré, il s’agissait ensuite de savoir si le montant admissible de l’impôt en main remboursable de la société remplacée qui était une SPANR était transmis à la société issue de la fusion.
+[63] Dans la décision qu’il a rendue dans l’affaire CGU Holdings Canada Ltd. (2008 CCI 167), le juge Hershfield a fait l’observation suivante :
+27 L’appelante a ensuite reconnu que l’arrêt subséquent de la Cour d’appel fédérale rendu dans l’affaire Pan Ocean a nuancé cette interprétation de l’alinéa 87(2)a), cette cour ayant jugé que celui‑ci s’appliquait à des fins qui allaient au‑delà du simple établissement des fins d’exercice, mais qui étaient néanmoins limitées au calcul du revenu de la nouvelle société et, au besoin et à titre accessoire, au calcul par cette société de son revenu imposable. *
+(* indique une note de bas de page qui figurait dans le texte original, mais qui n’a pas été incluse.)
+[64] Le juge Hershfield a donc conclu qu’« [é]tant donné que le choix prévu au paragraphe 134.1(1) ne traite pas du calcul du revenu ou du revenu imposable », l’alinéa 87(2)a) de la Loi, selon lequel la société issue de la fusion est réputée être une nouvelle société, n’empêchait pas la société remplacée qui était une SPANR d’opérer un choix à la suite de la fusion. Il a ensuite également conclu que le montant admissible de l’impôt en main remboursable n’était pas transmis conformément à l’alinéa 87(2)cc) de la Loi ou en vertu des principes généraux par suite de la continuation des sociétés fusionnantes.
+[65] La Cour d’appel fédérale n’a pas retenu l’interprétation stricte de l’enseignement de son arrêt The Queen c. Pan Ocean Oil Ltd., [1994] 2 C.T.C. 143, 94 DTC 6412. Le juge Noël, au nom de la Cour d’appel fédérale, a fait les observations suivantes dans l’arrêt CGU Holdings :
+37 Avant d’arriver à cette conclusion, le juge de la Cour de l’impôt a bel et bien précisé que GA Scottish pouvait exercer le choix prévu au paragraphe 134.1(1) au motif que son existence s’était poursuivie lorsqu’elle avait fusionné à CGU conformément aux principes du droit des sociétés (Motifs, paragraphe 33). Suivant le juge de la Cour de l’impôt, l’alinéa 87(2)a) n’a pas pour effet de faire en sorte que l’appelante est réputée être une nouvelle société, étant donné que cette disposition ne s’applique pas à la section F, où se trouvent les dispositions relatives aux SPANR. À son avis, l’arrêt Pan Ocean Oil, précité, de notre Cour confirmait cette position. En toute déférence, je ne crois pas que l’arrêt Pan Ocean Oil ait l’effet que le juge de la Cour de l’impôt lui a attribué.
+[…]
+40 La seule question que la Cour devait trancher était celle de savoir si Pan Ocean Oil était réputée être une nouvelle société pour l’application des règles relatives aux sociétés remplaçantes. L’observation suivant laquelle la société issue de la fusion est une nouvelle société « seulement » pour le calcul du revenu de la société issue de la fusion à la section B et, le cas échéant, pour le calcul du revenu imposable en conséquence (section C) et de l’impôt (section E) est une remarque incidente. La Cour n’a pas tranché ─ ni même examiné ─ la question de savoir si la société issue de la fusion est réputée, en vertu de l’alinéa 87(2)a), être une nouvelle société pour l’application des dispositions de la section F relatives aux SPANR.
+41 S’agissant de cette question, il est évident que la règle relative aux nouvelles sociétés que l’on trouve à l’alinéa 87(2)a) qui est censée s’appliquer « pour l’application de la présente loi », perdrait tout son sens dans le contexte de la section F si son application était restreinte, comme le prétend l’appelante, au calcul du revenu (section B) et, le cas échéant au calcul du revenu imposable (section C) et de l’impôt (section E). Fait significatif, cette solution aurait pour effet de retrancher de la Loi l’alinéa 133(8)g), qui prévoit que la société issue de la fusion ne constitue une SPANR que si toutes les sociétés qu’elle remplace étaient des SPANR. À mon humble avis, rien ne justifie d’exclure la section F, et en particulier l’article 134.1, de l’application de l’alinéa 87(2)a) de la Loi.
+42 Comme CGU était une « nouvelle société » au sens de la disposition en question, il s’ensuit qu’elle n’a jamais été une « société de placement appartenant à des non-résidents au cours d’une année d’imposition » au sens de l’alinéa 134.1a) et qu’elle n’avait donc pas qualité pour faire le choix prévu par cette disposition.
+[66] La Cour d’appel fédérale, qui avait conclu que CGU Holdings ne pouvait pas exercer le choix prévu à l’article 134.1 de la Loi, n’a pas eu à rechercher si le montant admissible de l’impôt en main remboursable de la société remplacée était transmis à la société issue de la fusion[7]. La décision de la Cour d’appel fédérale montre clairement qu’il était important, par suite de l’application de l’alinéa 87(2)a) de la Loi, que la société issue de la fusion soit une nouvelle société. Voici le texte de cette disposition:
+(2) Lorsqu’il y a eu fusion de plusieurs sociétés après 1971, les règles suivantes s’appliquent :
+a) pour l’application de la présente loi, l’entité issue de la fusion est réputée être une nouvelle société dont la première année d’imposition est réputée avoir commencé au moment de la fusion et l’année d’imposition d’une société remplacée, qui se serait autrement terminée après la fusion, est réputée s’être terminée immédiatement avant la fusion;
+[67] Il semble également clair que, dans l’affaire Black & Decker, précitée, le fait qu’aucune nouvelle société n’avait été formée a joué un rôle important. Le juge Dickson (tel était alors son titre) a observé :
+[…] La question de savoir si la fusion crée ou fait disparaître une entité constituée en corporation dépend évidemment des termes de la loi applicable mais à la lecture de la Loi, en particulier de l’art. 137, et considérant les fins qu’une fusion est supposée atteindre, il me semble qu’à la suite d’une fusion réalisée en vertu de la Loi sur les corporations canadiennes aucune « nouvelle » compagnie n’est créée et aucune « ancienne » compagnie ne disparaît.
+[68] Dans l’affaire National Bank of Canada c. British Columbia, 48 B.C.L.R. (2d) 45, [1991] 2 C.T.C. 189, le juge Boyd, de la Cour suprême de la Colombie‑Britannique, a conclu que les principes de la jurisprudence Black & Decker ne jouaient pas dans le cas de la fusion effectuée en vertu de la Loi sur les banques étant donné qu’une banque est [traduction] « créée » au moment de la fusion. Le juge Boyd a fait les observations suivantes :
+[traduction]
+Je retiens l’argument de l’avocat de la requérante selon lequel l’enseignement de l’arrêt Black & Decker (précité) ne peut jouer en l’espèce étant donné que le libellé précis de la Loi sur les corporations canadiennes, qui est différent de celui de la Loi sur les banques, dictait le résultat dans ce cas‑là. Dans l’affaire Black & Decker, la cour a accordé beaucoup de poids à l’emploi de l’expression « poursuivent leur activité » (« continue » dans la version anglaise), à l’article 137. [...]
+[…]
+En l’espèce, contrairement au libellé que la cour a examiné dans les arrêts Black & Decker et Stanward, la loi prévoit expressément que la banque nouvellement issue d’une fusion est « créée » par les lettres patentes (paragraphe 256(2)) et que la banque « créée » par les lettres patentes est assujettie à toutes les obligations énoncées dans la Loi (paragraphe 256(3)). Je rejette la thèse de l’avocat du ministre lorsqu’il soutient que le mot « créer » est employé non en ce sens qu’une nouvelle banque qui remplace l’ancienne banque est créée, mais plutôt en ce sens que la banque nouvellement créée permet aux anciennes banques fusionnantes de poursuivre leurs activités. Si c’était le cas, le mot « créée » serait superflu. À mon avis, le libellé de la loi ne prévoit pas la disparition des deux banques fusionnantes, mais plutôt « la continuation comme une seule et même société et banque [...] », la loi prévoit clairement la formation ou la création d’une nouvelle entité. (Deltona Corporation c. Min. of National Revenue, 71 DTC 5196, (C. de l’É.); portée en appel 73 DTC 5180 (C.S.C.); Allendale Mutual Insurance Co. c. Her Majesty the Queen, 73 DTC 5382 (C.F.))
+[Non souligné dans l’original.]
+[69] Par conséquent, les principes applicables aux sociétés qui fusionnent, tels qu’ils sont consacrés par la jurisprudence Black & Decker, ne joueront pas si une nouvelle société est créée au moment d’une fusion. Étant donné que, selon l’alinéa 87(2)a) de la Loi (qui vise la fusion telle qu’elle est définie au paragraphe 87(1) de la Loi), la société issue de la fusion est réputée être une nouvelle société, les principes applicables aux sociétés qui fusionnent, tels qu’ils sont consacrés par la jurisprudence Black & Decker, ne s’appliqueront pas, pour l’application de la Loi, à l’unification qui satisfait à la définition de la fusion qui figure au paragraphe 87(1) de la Loi. Étant donné que, dans l’affaire CGU Holdings, la fusion en cause répondait à la définition figurant au paragraphe 87(1) de la Loi, de sorte que jouait l’alinéa 87(2)a) de la Loi, toute observation que le juge Hershfield a faite dans la décision CGU Holdings, à savoir que les comptes d’impôt ne sont pas transmis selon les principes énoncés dans la décision rendue par la Cour suprême du Canada dans l’affaire Black & Decker, est donc compatible avec cette conclusion, à savoir que ces principes ne jouent pas lorsqu’une nouvelle société est créée.
+[70] En l’espèce, étant donné que l’unification de Delta et de First Heritage n’est pas une fusion répondant à la définition du paragraphe 87(1) de la Loi et que l’alinéa 87(2)a) de la Loi ne joue pas, donc la société issue de la fusion n’est pas réputée être une nouvelle société, la jurisprudence Black & Decker, précitée, est pertinente en ce qui concerne l’appelante. Par conséquent, Delta et First Heritage subsistent dans leur intégralité, avec les montants qui avaient été accordés à chacune d’elles pour l’amortissement.
+[71] L’avocat de l’appelante a également soutenu [traduction] qu’« aux fins de l’impôt fédéral, une loi provinciale selon laquelle la société issue de la fusion est réputée être la continuation des sociétés remplacées ne peut pas donner lieu à la transmission de comptes d’impôt fédéral théoriques ». Cinq raisons ont été données, la première étant la suivante :
+[traduction]
+Comme la présente cour l’a fait remarquer dans la décision CGU, l’alinéa 23a) dispose que la société issue de la fusion est la « continuation » des sociétés remplacées, mais il ne dit pas qu’elle est la « même » société que les sociétés remplacées et elle n’est pas la même société. On peut comparer l’article 108 de la Income Tax Act de la Colombie-Britannique, onglet 79. Par conséquent, lorsque l’on se demande quel est le MITR ou quelle est la FNACC d’Envision, on ne peut pas simplement additionner les MITR ou les FNACC des sociétés remplacées; il ne s’agit pas de la même contribuable que les sociétés remplacées. Dans la décision CGU, la Cour a expressément conclu que tel n’était pas l’enseignement de la jurisprudence Black & Decker.
+[72] Comme je l’ai ci‑dessus indiqué, il n’y a pas lieu de suivre la jurisprudence CGU Holdings en l’espèce parce que, dans cette affaire‑là, la fusion était une fusion au sens de la définition figurant au paragraphe 87(1) de la Loi, de sorte que la société issue de la fusion était réputée être une nouvelle société pour l’application de la Loi et que la jurisprudence Black & Decker n’est pas pertinente lorsqu’il s’agit de déterminer si les comptes d’impôt sont transmis à la suite d’une telle fusion, pour l’application de la Loi. En l’espèce, la fusion de Delta et de First Heritage n’était pas une fusion telle qu’elle est définie au paragraphe 87(1) de la Loi et il me semble, comme je l’ai ci‑dessus dit, que si l’amortissement qui avait été accordé à Delta et à First Heritage n’est pas constaté par l’appelante, Delta et First Heritage ne subsisteraient pas dans leur intégralité. Ne pas inclure l’amortissement qui avait été accordé à Delta et à First Heritage, ce serait faire abstraction de cette demande et, à mon avis, cela serait erroné compte tenu de l’observation suivante du juge Dickson (tel était alors son titre):
+Bien interprétée, la loi a pour effet de permettre aux compagnies constituantes de subsister dans leur intégralité au sein de la compagnie née de la fusion, avec toutes leurs forces et leurs faiblesses, leurs qualités et leurs défauts ainsi que leurs péchés, lorsqu’elles sont pécheresses.
+[Non souligné dans l’original.]
+[73] L’avocat de l’appelante a également conclu ainsi :
+[traduction]
+Le paragraphe 87(2.1) de la Loi exclut la transmission des pertes à la suite d’une fusion. S’il y a « continuation » des pertes en vertu de l’alinéa 23a) de la CUIA, le résultat sera que la CUIA permet la transmission d’un compte d’impôt fédéral dont le législateur fédéral a interdit la transmission. Cela serait inconstitutionnel.
+[...]
+Les faits de l’affaire Black & Decker et ceux de la présente affaire sont différents en ce sens que l’affaire Black & Decker portait sur une loi fédérale concernant les sociétés qui prévoyait que les sociétés remplacées continueraient comme une seule et même société et que la cour a appliqué la loi fédérale. En l’espèce, la Couronne cherche à se fonder sur une loi provinciale afin de déterminer les attributs fiscaux fédéraux d’une société. Les faits sont différents, comme la cour l’a reconnu dans la décision CGU.
+[74] Ces deux arguments sont fondés sur la prémisse selon laquelle la fusion effectuée en vertu d’une loi provinciale (la CUIA dans ce cas‑ci) ne peut pas avoir d’incidences sur des questions qui relèvent d’une loi fédérale (la Loi dans ce cas‑ci). Deux décisions sont citées à l’appui de la thèse énoncée au premier paragraphe précité. La première est la décision rendue par un juge de la Cour provinciale dans l’affaire R. c. Black and Decker Manufacturing Co. Ltd., (1972), 9 C.P.R. (2d) 129 (qui a finalement été portée en appel devant la Cour suprême du Canada). Dans cette décision-ci, le juge de la Cour provinciale s’est reporté à la décision que le juge Jessup[8], de la Haute Cour de justice de l’Ontario, (tel était alors son titre) avait rendue dans l’affaire R. c. J.J. Beamish Construction Co. Ltd. (1966), 59 D.L.R. (2d) 6 (soit l’autre décision qui a été citée), où il est observé:
+[traduction]
+[…] Les « obligations » dont il est question au paragraphe 96(4) ne peuvent pas être interprétées comme comprenant la responsabilité pénale, ce qui mettrait en cause une loi provinciale ultra vires portant sur une question de droit criminel.
+[75] Le juge Jessup a signalé que le paragraphe 96(4) de la Corporations Act de l’Ontario (telle qu’elle était alors en vigueur) disposait :
+[traduction]
+96(4) Si la convention est adoptée conformément au paragraphe (3), les compagnies qui fusionnent peuvent présenter une requête conjointe au lieutenant‑gouverneur en vue d’obtenir des lettres patentes ratifiant la convention et fusionnant les compagnies requérantes. À compter de la date de ces lettres patentes, ces compagnies sont fusionnées en une seule et même compagnie portant la dénomination sociale figurant dans les lettres patentes, et cette dernière devient ainsi propriétaire des biens et titulaire des droits, privilèges et concessions de chacune des compagnies qui fusionnent, et elle est liée par les obligations, contrats, incapacités et dettes de chacune d’entre elles.
+[76] Le paragraphe 137(13) de la Loi sur les corporations canadiennes, S.R.C. 1970, ch. 32, qui était la loi que la Cour suprême du Canada examinait dans l’arrêt Black & Decker, disposait :
+(13) Dès l’émission de lettres patentes prévue par le paragraphe (11), la convention de fusion a pleine vigueur et effet et
+a) les compagnies constituantes sont fusionnées et poursuivent leur activité comme une seule et même compagnie (au présent article appelée « compagnie née de la fusion »), sous le nom, avec le capital autorisé et en vue des objets que fixe la convention de fusion; et
+b) la compagnie née de la fusion possède tous les biens, actifs, prérogatives et concessions de chacune des compagnies constituantes, et elle est assujettie à tous les contrats et engagements, et est liée par toutes les dettes et obligations, de chacune d’entre elles.
+[77] On relève deux conséquences générales lorsque des sociétés fusionnent :
+a) les sociétés poursuivent leur activité comme une seule société;
+b) la société issue de la fusion possède tous les biens et est assujettie à toutes les obligations des sociétés remplacées.
+[78] Dans l’arrêt Black &Decker, la Cour d’appel de l’Ontario a mis l’accent sur le second aspect, à savoir que la société issue de la fusion est assujettie à toutes les obligations des sociétés remplacées. C’est clairement ce sur quoi le juge Jessup a mis l’accent dans la décision J.J. Beamish. Dans la décision que la Cour suprême du Canada a rendue dans l’affaire Black & Decker, il est fait mention de la décision de la Cour d’appel de l’Ontario (qui avait été portée en appel), dans laquelle les observations suivantes avaient été faites :
+[traduction]
+En fin de compte, la question en litige est fort circonscrite : le par. (13), al. b), de l’art. 137, en rendant la nouvelle compagnie « assujettie à tous les engagements » (liabilities) de chacune des anciennes compagnies, impose-t-il à la nouvelle compagnie la responsabilité pénale de l’une des anciennes compagnies.
+[79] Toutefois, la Cour suprême du Canada s’est prononcée dans l’affaire Black & Decker en se fondant sur les conséquences découlant du fait que les sociétés fusionnantes poursuivaient leur activité comme une seule société. Cela découle de l’alinéa 137(13)a) et non de l’alinéa b) de la Loi sur les corporations canadiennes. Il me semble donc que les observations du juge Jessup a faites dans la décision J.J. Beamish ainsi que celles du juge de la Cour provinciale dans la décision Black & Decker ne sont plus pertinentes étant donné que la Cour suprême du Canada s’est prononcée dans l’affaire Black & Decker sur une base différente et que c’est ce fondement différent qui permettrait de conclure que l’appelante devrait constater et comptabiliser l’amortissement que Delta et First Heritage avaient demandé[9].
+[80] Un argument similaire a également été invoqué dans l’arrêt R. c. Mercantile Distributing Ltd., (1975) 61 D.L.R. (3d) 481. Le juge Munroe, de la Cour suprême de la Colombie‑Britannique, a fait l’observation suivante :
+[traduction]
+6 L’avocat de l’intimée cherche à opérer une distinction entre la présente affaire et cette décision clé étant donné (1) que la fusion, dans cette dernière affaire, avait été effectuée en vertu d’une loi édictée par le législateur fédéral qui, contrairement au législateur provincial, a compétence en matière pénale, (2) que, l’arrêt Black & Decker, décide que la société issue de la fusion engage sa responsabilité et peut être poursuivie à l’égard des actes commis avant la fusion des sociétés constituantes, alors que, en l’espèce, la Couronne ne cherche pas à engager des poursuites contre la société issue de la fusion, mais cherche plutôt à exercer un recours contre celle‑ci à l’égard d’une peine imposée à l’une des sociétés constituantes avant la fusion, et (3) qu’en l’espèce, la Couronne ne peut solliciter la réparation demandée qu’à l’égard d’une amende imposée en vertu de l’article 647 du Code criminel et non d’une amende imposée en vertu de la Loi de l’impôt sur le revenu, comme c’était le cas dans cette affaire‑là. Je rejette cette thèse. Je rejette chacune de ces conclusions et je conclus que par suite de la fusion, la société issue de la fusion est devenue redevable envers la Couronne de l’amende imposée à l’ancienne société en vertu de l’article 272 de la Company Act, puisqu’il s’agissait d’une obligation de l’ancienne société, et que l’article 648 du Code criminel, figurant dans la partie XX, qui porte sur les « peines générales », est une disposition d’application générale autorisant la réparation que la Couronne sollicite dans ce cas‑ci.
+7 Il me semble complètement déraisonnable de conclure que l’on puisse remonter à une ancienne société au moyen de la fusion de façon que la société issue de la fusion puisse être reconnue coupable de l’infraction commise par l’ancienne société et qu’elle soit passible de la peine, tout en concluant d’autre part que si l’ancienne société a été reconnue coupable avant la fusion, la société issue de la fusion est exonérée de cette responsabilité.
+8 La société issue de la fusion n’est pas réputée être tenue responsable au criminel en vertu de la loi provinciale. Cette responsabilité est simplement le résultat logique qu’entraîne la conclusion selon laquelle l’ancienne société continue à exister, comme la Cour suprême du Canada l’a conclu.
+[Non souligné dans l’original.]
+[81] En l’espèce, l’exigence voulant que l’appelante constate et comptabilise l’amortissement qui a été accordé à Delta et à First Heritage ne résulte pas du fait que la CUIA exige que les comptes d’impôt pertinents, pour l’application de la Loi, soient transmis lorsque la fusion est effectuée en vertu de la CUIA, mais comme l’a dit le juge Munroe, cette responsabilité [traduction] « est simplement le résultat logique qu’entraîne la conclusion selon laquelle [les] ancienne[s] société[s] continue[nt] à exister, comme la Cour suprême du Canada l’a conclu ».
+[82] L’avocat de l’appelante a également soutenu :
+[traduction]
+La Loi a été modifiée en 1979 par l’ajout du paragraphe 87(9)*, qui porte sur les fusions en triangle, une opération permise en vertu du droit des sociétés, mais non encore reconnue par la Loi (comme il en est fait mention dans la note explicative se rapportant à cette disposition). On cherchait ainsi à assurer que les comptes d’impôt soient transmis lorsqu’une fusion en triangle était effectuée. De même, bien après que la décision dans l’affaire Black & Decker eut été rendue, la Loi a été modifiée en vue de permettre la transmission de divers nouveaux comptes d’impôt*. Pourquoi cela aurait‑il été fait si la société issue de la fusion, en sa qualité de société assurant la continuation des sociétés remplacées, possédait de toute façon tous ces attributs fiscaux? L’article 87 et toute autre disposition dans laquelle il est fait mention de l’article 87 deviendraient redondants, contrairement à la conclusion que la présente cour a tirée dans la décision CGU.
+(* indique une note de bas de page qui n’a pas été incluse)
+[83] En l’absence du paragraphe 87(9) de la Loi, une fusion en triangle ne satisferait pas à la définition de la « fusion » figurant au paragraphe 87(1) de la Loi. Comme il en sera fait mention ci‑dessous, des opinions contradictoires ont été exprimées dans diverses publications doctrinales en ce qui concerne la question de savoir si les comptes d’impôt sont transmis à une société issue de la fusion à la suite d’une fusion qui ne satisfait pas à la définition de la fusion figurant au paragraphe 87(1) de la Loi. On ne saurait critiquer le législateur fédéral pour avoir voulu éclaircir une situation lorsque le résultat était incertain.
+[84] Étant donné que le législateur fédéral a inclus l’alinéa 87(2)a) dans la Loi (selon lequel la société issue de la fusion est réputée être une nouvelle société), comme il en a ci‑dessus été fait mention, les principes consacrés par la jurisprudence Black & Decker ne s’appliquent pas à l’unification qui est une fusion au sens de la définition figurant au paragraphe 87(1) de la Loi. Par conséquent, il faut déterminer les comptes qui seront transmis à cette « nouvelle » société. Le fait que le résultat net, en ce qui concerne des comptes d’impôt particuliers tels que la FNACC des actifs de catégories particulières de biens, puisse être le même si les principes énoncés dans l’arrêt Black & Decker et les dispositions de l’alinéa 87(2)d) de la Loi sont appliqués veut simplement dire que tel était le résultat souhaité. Dans l’affaire Black & Decker, le juge Dickson (tel était alors son titre) devait répondre à un argument similaire. Il a fait l’observation suivante :
+On a également soutenu que si les compagnies constituantes continuent dans toute leur plénitude lors de la fusion, alors les par. (13), al. (b), et (14) de l’art. 137 sont tout simplement redondants. Je ne les considère pas comme tels. Ces articles énoncent en termes larges l’amplification d’un principe général, pratique qui n’est pas inhabituelle chez les rédacteurs des lois.
+[85] Il me semble qu’à l’article 87 de la Loi, le législateur fédéral énonçait simplement en détail les règles en ce qui concerne les incidences, en vertu de la Loi, de la fusion de sociétés et, comme il en a ci‑dessus été fait mention, étant donné qu’en vertu de l’alinéa 87(2)a) de la Loi, la société issue de la fusion est réputée être une « nouvelle » société, il devenait nécessaire de préciser les diverses incidences fiscales découlant de la fusion. Il semble également que ces incidences fiscales ne seraient pas toutes les mêmes. Ainsi, l’alinéa 87(2)e.4) de la Loi prévoit, dans les circonstances qui y sont énoncées, que le coût, pour la nouvelle société, d’un bien évalué à la valeur du marché est la juste valeur marchande du bien, ce qui ne serait pas le résultat si les principes énoncés dans l’arrêt Black & Decker étaient suivis.
+[86] L’avocat de l’appelante a également soutenu ce qui suit :
+[traduction]
+D’une façon plus générale, selon l’arrêt Black & Decker, si la société remplacée a fait quelque chose par le passé (si elle a dépensé de l’argent ou causé de la pollution), la société issue de la fusion, en sa qualité de société assurant la « continuation » de la société remplacée, peut être considérée comme ayant fait cette chose. Les actions ou omissions d’une société remplacée « continuent » à être les actions ou omissions de la société issue de la fusion. Il importe de noter que, dans l’affaire Black & Decker, c’était la société issue de la fusion qui avait été accusée des infractions commises par la société remplacée, mais la Cour suprême n’a pas dit que c’était l’« obligation » de la société remplacée qui engageait cette responsabilité, mais que c’était l’acte commis par la société remplacée. Les sociétés subsistent avec « leurs péchés, lorsqu’elles sont pécheresses ». C’est ainsi que la Cour suprême a esquivé l’enseignement de la Cour d’appel selon lequel, en l’absence d’une disposition expresse du Code criminel, « la responsabilité » ne pouvait pas s’appliquer à une responsabilité criminelle. Cependant, le simple fait d’avoir un compte d’impôt théorique ne constitue pas une action ou une omission de la société remplacée, il ne s’agit pas d’un fait qui s’est produit par le passé, et par conséquent, le compte n’est pas transmis à la société issue de la fusion en vertu de l’alinéa 23a). Si une rivière est la continuation de deux cours d’eau, le fait qu’un cours d’eau a une profondeur de cinq pieds alors que l’autre a une profondeur de dix pieds ne veut pas pour autant dire que la rivière a une profondeur de 15 pieds; la rivière peut avoir une profondeur d’un pied ou elle peut avoir une profondeur de 20 pieds.
+[87] En l’espèce, Delta et First Heritage ont pris des mesures – elles ont chacune demandé l’amortissement dans leurs déclarations de revenus. Cet amortissement a été accordé et, par conséquent, pour l’application de l’élément E de la définition de la « fraction non amortie du coût en capital » à l’alinéa 13(21)f) de la Loi, l’amortissement total accordé à Delta et à First Heritage serait l’amortissement total accordé par suite des mesures que chacune de ces sociétés a prises en demandant la DPA dans sa déclaration de revenus. Étant donné que l’amortissement donne lieu à une déduction discrétionnaire (l’alinéa 1100(1)a) du Règlement de l’impôt sur le revenu évoque le « montant qu’il peut réclamer »), Delta et First Heritage devront demander l’amortissement, pour que cet amortissement soit accordé. Par conséquent, l’on ne peut ainsi opérer une distinction par rapport à la décision rendue par la Cour suprême du Canada dans l’affaire Black & Decker. En ce qui concerne l’analogie avec la rivière que l’appelante a faite, il me semble que la profondeur de la rivière n’est pas pertinente, mais que c’est la quantité combinée d’eau dans la rivière (soit la quantité d’eau totale combinée des cours d’eau qui se sont joints) qui est pertinente et que ce qui était dans la rivière ou ce qui flottait sur la rivière était composé de ce qui était dans les cours d’eau ou de ce qui flottait sur ces cours d’eau.
+[88] Par conséquent, en déterminant la FNACC des actifs amortissables de l’appelante, il faut déduire le montant accordé à Delta et à First Heritage pour les besoins de l’amortissement. Le solde d’ouverture de la FNACC d’une catégorie particulière de biens amortissables pour l’appelante au 1er janvier 2001 sera donc égal au total des soldes de fermeture des FNACC de cette catégorie de biens amortissables pour Delta et pour First Heritage au 31 décembre 2000.
+[89] Le montant imposable à taux réduit n’est pas pertinent lorsqu’il s’agit de déterminer le montant de l’impôt à payer par l’appelante pour l’une ou l’autre des années visées par les appels, mais il me semble également qu’étant donné que Delta et que First Heritage ont subsisté « dans leur intégralité », il aurait fallu inclure le solde des montants imposables à taux réduit de Delta et de First Heritage au 31 décembre 2000 en déterminant le montant imposable à taux réduit de l’appelante pour son année d’imposition 2001.
+[90] L’appelante a également fait l’objet d’une nouvelle cotisation pour l’année 2001, une provision pour créances douteuses de 851 649 $ ayant été incluse dans son revenu. Il me semble qu’étant donné que Delta subsiste « dans son intégralité », ce montant aurait également dû être inclus dans le revenu de l’appelante pour l’année 2001. L’omission de ce montant influe uniquement sur la nouvelle cotisation concernant l’année 2001 et il n’est donc pas nécessaire de déterminer si la nouvelle cotisation concernant l’année d’imposition 2001 de l’appelante était fondée. Dans la réponse, il était également fait mention de provisions d’impôt excédentaires de 888 291 $ que Delta avait déduites dans le calcul de son revenu pour son année d’imposition 2000. Nous reviendrons ci‑dessous sur la question des « provisions d’impôt excédentaires ».
+[91] Étant donné que les DGAE ont été invoquées à titre d’argument subsidiaire, comme il en a ci‑dessus été fait mention, et puisque je conclus qu’en déterminant la FNACC de chaque catégorie de biens amortissables de l’appelante, il faut déduire le montant de l’amortissement accordé à Delta et à First Heritage, il importe peu de savoir si les DGAE se seraient appliquées si ma conclusion avait été différente.
+La nouvelle cotisation concernant l’année 2001
+[92] En l’espèce, deux nouvelles cotisations ont été établies à l’égard de l’année d’imposition 2001. La première nouvelle cotisation était datée du 23 mai 2006 et, outre les éléments visés par les appels, elle incluait également d’autres montants. Le 22 avril 2008, l’appelante a de nouveau fait l’objet d’une nouvelle cotisation pour son année d’imposition 2001, par laquelle les autres montants étaient supprimés de son revenu. L’année d’imposition 2001 de l’appelante a initialement fait l’objet d’une cotisation le 25 septembre 2002. Par conséquent, la première nouvelle cotisation de 1’appelante à l’égard de son obligation fiscale relative à l’année d’imposition 2001 a été établie plus de trois ans après que l’obligation eut initialement été établie pour cette année‑là.
+[93] Au cours de l’instance, l’intimée a reconnu que l’appelante était une société privée sous contrôle canadien et que la période normale de nouvelle cotisation était donc de trois ans. Toutefois, l’intimée soutient que l’appelante pouvait faire l’objet d’une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation par suite des dispositions du sous-alinéa 152(4)a)(i) de la Loi, qui dispose:
+(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit, a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[94] L’intimée a initialement soutenu que l’appelante avait fait une présentation erronée des faits, en se présentant, à la première page de sa déclaration de revenus, comme une « Autre société » plutôt que comme une société privée sous contrôle canadien. Toutefois, le paragraphe 137(7) de la Loi dispose :
+(7) Malgré les autres dispositions de la présente loi, la caisse de crédit qui serait, sans le présent article, une société privée est réputée ne pas en être une, sauf pour l’application des articles 123.1, 125, 127, 127.1, 152 et 157 et sauf pour l’application à l’alinéa 39(1)c) de la définition de « société exploitant une petite entreprise » au paragraphe 248(1).
+[95] Par conséquent, une caisse de crédit est une société privée pour l’application de certaines dispositions de la Loi, mais non pour d’autres. Or, il me semble que le seul choix logique dont l’appelante pouvait se prévaloir était de se présenter comme étant une « autre société » et de préciser ensuite qu’elle était une caisse de crédit, ce qu’elle a fait puisque les seules autres catégories mentionnées à la première page de la déclaration de revenus étaient les suivantes :
+a) une société privée sous contrôle canadien;
+b) une autre société privée;
+c) une société publique;
+d) une société contrôlée par une société publique.
+Ce n’est que lors de son plaidoyer final que l’avocat de l’intimée a indiqué que sa cliente ne se fondait plus sur la désignation de l’appelante à titre d’« autre société – caisse de crédit » comme étant une présentation erronée des faits.
+[96] Dans l’arrêt Nesbitt c. The Queen, 96 DTC 6588, le juge Strayer, au nom de la Cour d’appel fédérale, a observé :
+8 Même en supposant que l’on puisse considérer que la lettre du 6 août 1986 prouve que le ministre était au courant à cette date-là (deux mois avant l’expiration du délai de prescription de quatre ans) des faits véridiques et qu’il y avait eu présentation erronée de faits, je ne crois pas que cela soit utile à l’appelant. Il me semble que l’un des objets du paragraphe 152(4) est de favoriser l’établissement soigné et exact des déclarations de revenus. C’est au moment où la déclaration est produite que l’on peut déterminer s’il y a eu ou non présentation erronée de faits par négligence ou inattention en remplissant la déclaration. Des faits ont été présentés erronément s’il se trouve un élément inexact dans la déclaration, du moins un élément qui est important pour les fins de la déclaration ainsi que de toute nouvelle cotisation ultérieure. [...]
+[Non souligné dans l’original.]
+[97] En l’espèce, le montant qui est censé être le montant imposable à taux réduit n’influait pas sur l’obligation qui incombait à l’appelante pour l’année 2001 en vertu de la Loi. Il me semble donc que la conclusion de l’appelante selon laquelle il ne faut pas inclure les montants imposables à taux réduit de Delta et de First Heritage en déterminant son montant imposable à taux réduit (ce que l’appelante a fait dans sa déclaration de revenus de 2001 en déclarant que son montant imposable à taux réduit pour l’année précédente était nul) n’était pas importante pour les besoins de la déclaration et n’était pas une présentation erronée des faits pertinente pour l’application du paragraphe 152(4) de la Loi. Quoi qu’il en soit, le paragraphe 152(4.01) de la Loi dispose :
+(4.01) Malgré les paragraphes (4) et (5), la cotisation, la nouvelle cotisation ou la cotisation supplémentaire à laquelle s’appliquent les alinéas (4)a), b) ou c) relativement à un contribuable pour une année d’imposition ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans la mesure où il est raisonnable de considérer qu’elle se rapporte à l’un des éléments suivants :
+a) en cas d’application de l’alinéa (4)a) :
+(i) une présentation erronée des faits par le contribuable ou par la personne ayant produit la déclaration de revenu de celui‑ci pour l’année, effectuée par négligence, inattention ou omission volontaire ou attribuable à quelque fraude commise par le contribuable ou cette personne lors de la production de la déclaration ou de la communication de quelque renseignement sous le régime de la présente loi.
+[98] Par conséquent, la nouvelle cotisation établie après l’expiration de la période normale de nouvelle cotisation doit se rapporter à la présentation erronée des faits. Étant donné que l’inclusion des montants imposables à taux réduit de Delta et de First Heritage dans le calcul du montant imposable à taux réduit de l’appelante n’influe pas sur l’obligation fiscale de l’appelante pour l’année 2001, aucune nouvelle cotisation ne pouvait être établie à l’égard du montant imposable à taux réduit déclaré en moins pour l’année 2001 et ce montant déclaré en moins ne pouvait pas justifier l’établissement d’une nouvelle cotisation pour quelque autre élément.
+[99] Dans son plaidoyer final, l’avocate de l’intimée a également soutenu que l’appelante avait fait des présentations erronées de faits :
+[traduction]
+b) en déclarant en trop ses soldes d’ouverture de FNACC d’un montant de 30 876 531 $ par suite de l’omission de comptabiliser l’amortissement total antérieur accordé aux sociétés remplacées;
+c) en déclarant en moins son revenu imposable d’un montant de 5 527 968 $ à l’égard de la DPA déclarée en trop;
+d) en déclarant en moins son revenu imposable d’un montant de 1 739 950 $ à l’égard de son omission d’ajouter de nouveau diverses provisions demandées par les sociétés remplacées.
+[100] Au cours de l’audience, il n’a été produit que fort peu d’éléments de preuve au sujet des provisions. Dans l’avis d’appel modifié, sous le titre [traduction] « autres montants ayant fait l’objet d’une nouvelle cotisation pour les années 2001 à 2004 », il est déclaré ce qui suit :
+[traduction]
+1.44 Dans la première nouvelle cotisation concernant l’année 2001, le ministre a inclus dans le revenu de la société issue de la fusion une provision pour créances douteuses de 851 659 $ que Delta avait déduite au cours de son année d’imposition 2000.
+[…]
+1.47 Dans la première nouvelle cotisation concernant l’année 2001, le ministre a inclus dans le revenu de la société issue de la fusion un montant de 888 291 $ au titre d’une provision que Delta avait déduite ou au titre de dépenses payées d’avance que Delta avait déduites au cours de son année d’imposition 2000.
+[101] Dans l’avis d’appel modifié, sous le titre [traduction] « Questions en litige », il est posé la question suivante :
+[traduction]
+2.3 La fusion entre-t-elle dans les prévisions de l’article 87, de sorte que les FNACC de 20 103 228 $, de 851 659 $ et de 888 291 $ dont il a ci‑dessus été fait mention ont été transmises à la société issue de la fusion ou, subsidiairement, ces montants ont‑ils été transmis à la société issue de la fusion en vertu de la CUIA ou du paragraphe 245(2)?
+[102] Dans l’avis d’appel modifié, sous le titre [traduction] « Moyens invoqués – b) autres points litigieux », il est conclu :
+[traduction]
+3.10 En ce qui concerne le montant de 851 659 $ susmentionné, cette inclusion était fondée sur l’hypothèse selon laquelle la fusion était une fusion visée à l’article 87 ou que la CUIA ou les DGAE s’appliquaient et que cette inclusion n’était donc pas fondée. Quoi qu’il en soit, le montant qui aurait dû être inclus s’élève au plus à 851 649 $.
+3.11 En ce qui concerne le montant de 888 291 $ susmentionné, cette inclusion était fondée sur l’hypothèse selon laquelle la fusion était une fusion visée à l’article 87 ou que la CUIA ou les DGAE s’appliquaient et que cette inclusion n’était donc pas fondée.
+[103] Au paragraphe 3.11 (contrairement à ce qui était le cas au paragraphe 3.10), il n’était pas admis que le montant qui aurait de toute façon dû être inclus s’élevait au plus à 888 291 $.
+[104] Au paragraphe 21 de la réponse, il est déclaré que l’appelante a fait l’objet, pour son année d’imposition 2001, d’une nouvelle cotisation par laquelle les éléments suivants étaient inclus dans le revenu :
+[traduction]
+b) […]
+ii) […] d’autres provisions d’impôt que Delta avait déduites au cours de l’année d’imposition 2000, qui s’élevaient à 888 291 $ (les « provisions d’impôt excédentaires »);
+iii) […] une provision pour créances douteuses que Delta avait déduite au cours de l’année d’imposition 2000, qui s’élevait à 851 659 $ (la « provision pour créances douteuses »).
+[105] Dans la décision Mensah c. La Reine, [2008] A.C.I. no 302, 2008 DTC 4358, le juge en chef Bowman a fait les observations suivantes :
+[8] Quatrièmement, la cotisation établie pour l’année d’imposition 1993 porte sur une année frappée de prescription. C’est au ministre qu’incombe le fardeau de démontrer qu’il était justifié d’établir une nouvelle cotisation pour l’année d’imposition 1993 après la période normale de nouvelle cotisation. Les dispositions de la Loi qui permettent au ministre d’établir de nouvelles cotisations pour des années frappées de prescription ont évolué avec le temps, et cette évolution a été résumée au paragraphe 18 de 943372 Ontario Inc. c. La Reine, 2007 CCI 294, 2007 D.T.C. 1051, [2007] 5 C.T.C. 2001 :
+[18] L’évolution de ces dispositions peut être brièvement résumée : initialement, le paragraphe 152(4) permettait au ministre de rouvrir une année prescrite pour n’importe quelle raison, s’il pouvait conclure à une présentation erronée des faits du type décrit au paragraphe 152(4), peu importante soit‑elle, et il pouvait établir une nouvelle cotisation à l’égard de n’importe quel élément, et ce, peu importe que cet élément ait donné lieu à une présentation erronée des faits, de quelque type que ce soit. De toute évidence, cela semblait plutôt inéquitable, de sorte que l’alinéa 152(5)b) a été édicté en 1973‑1974, cette disposition prenant effet à compter de 1972. La disposition en question permettait au contribuable d’établir que l’omission de déclarer un montant au titre du revenu ne résultait pas d’une présentation erronée des faits effectuée par négligence, inattention, omission volontaire ou attribuable à une fraude. Néanmoins, cette disposition imposait une charge au contribuable. Le paragraphe 152(4.01) a donc été édicté et son effet, selon Me Kutkevicius, est de libérer le contribuable de cette charge et d’imposer au ministre une charge à deux volets pour établir :
+a) qu’il y a eu présentation erronée des faits,
+b) que la présentation erronée des faits a été effectuée par négligence, inattention ou omission volontaire ou qu’elle est attribuable à une fraude.
+Je crois que telle est l’interprétation qu’il convient de donner. Si la charge qui était imposée au contribuable en vertu de l’ancien alinéa 152(5)b) avait survécu à la modification apportée au paragraphe 152(5) et à l’adoption du paragraphe 152(4.01), le paragraphe (4.01) n’aurait aucun objet.
+[Non souligné dans l’original.]
+[106] Il incombait donc à l’intimée non seulement d’établir qu’il y avait eu présentation erronée des faits à l’égard de l’omission d’inclure ces montants dans le revenu de l’appelante, mais aussi que « la présentation erronée des faits a été effectuée par négligence, inattention ou omission volontaire ou qu’elle est attribuable à une fraude ».
+[107] Une copie de la déclaration de revenus de Delta qui avait été initialement produite pour son année d’imposition se terminant le 31 décembre 2000 et une copie de la déclaration de revenus modifiée pour cette année‑là ont été produites en preuve. L’Agence du revenu du Canada (l’« ARC ») ou son prédécesseur a accepté la déclaration de revenus modifiée et une nouvelle cotisation a été établie au mois d’avril 2002. Dans la déclaration initiale, les annexes 1 et 13 indiquent que Delta a demandé les provisions suivantes dans le calcul de son revenu pour cette année‑là :
+[traduction]
+Provision pour créances douteuses 851 649 $
+Autres provisions d’impôt 888 291 $
+Total : 1 739 940 $
+[108] Dans la déclaration de revenus modifiée de Delta pour l’année d’imposition en cause, l’annexe 13 indique uniquement le montant de 851 649 $ pour les provisions, au titre d’une provision pour créances douteuses. On ne sait pas trop où figure cette provision de 851 649 $ dans l’annexe 1. Dans l’annexe 1, il y a un montant de 888 291 $ appelé [traduction] « dépenses reportées payées d’avance ». La raison pour laquelle ces [traduction] « dépenses reportées payées d’avance » ont été déduites dans le calcul du revenu de Delta pour l’année 2000 est loin d’être claire.
+[109] La déclaration de revenus de l’appelante pour son année d’imposition 2001 a également été produite en preuve. Il semble ressortir clairement de cette déclaration de revenus qu’aucun montant n’a été inclus dans l’annexe 13 pour les provisions demandées au cours de l’année précédente. Toutefois, étant donné que la déclaration de revenus modifiée de Delta incluait uniquement la provision pour créances douteuses de 851 649 $, seul le montant de 851 649 $ aurait donc probablement dû être inclus dans l’annexe 13 de l’appelante pour l’année 2001 à titre de solde au début de cette année‑là.
+[110] Le revenu net de l’appelante pour l’année 2001, tel qu’il est indiqué dans l’annexe 1, après impôts (selon les états financiers), s’élevait à 9 777 931 $. Il n’est pas possible de savoir, à l’aide des renseignements fournis, si ce montant inclut le montant antérieurement déduit au titre [traduction] d’« autres provisions pour impôt » ou de [traduction] « dépenses reportées payées d’avance ». On ne sait pas trop non plus pourquoi le montant désigné comme se rapportant à [traduction] d’« autres provisions pour impôt », dans la déclaration initiale, et à des [traduction] « dépenses reportées payées d’avance », dans la déclaration modifiée, serait inclus dans le revenu de l’appelante pour l’année 2001.
+[111] À l’audience, le seul élément de preuve se rapportant directement à ces deux montants a été produit par Thomas Webster, qui était vice‑président, Finances, de Delta et de l’appelante, et par James Thatcher, vérificateur à l’ARC. Au cours de l’interrogatoire principal auquel l’avocat de l’appelante a procédé, Thomas Webster a donné les réponses suivantes :
+[traduction]
+Q. Et ensuite le troisième point dont je voulais vous parler se rapporte à quelque chose qui n’est pas dans cette déclaration. Cela se rapporte aux provisions pour pertes sur prêts de Delta. Au cours de son exercice 2000, Delta a demandé une provision pour créance irrécouvrable d’environ 800 000 $, n’est‑ce pas?
+R. En effet, cela semble à peu près exact.
+Q. Et normalement, Delta ou – dans une fusion visée à l’article 87, la société issue de la fusion devrait ajouter cette provision au revenu de l’année 2001, et la déduire peut‑être de nouveau, si la créance était irrécouvrable, comme vous devez le savoir.
+R. Oui, je le sais.
+Q. Cependant, Envision ne l’a pas fait. Envision n’a pas ajouté cette provision pour pertes sur prêts à son revenu au cours de son année 2001. Cela ne figure nulle part dans cette déclaration, cet ajout au revenu. Croyiez‑vous qu’il était justifié de ne pas inclure cette provision dans le revenu en 2001?
+R. Je croyais également que c’était justifié.
+[112] Il semble clair que ce témoignage se rapporte uniquement au montant demandé à titre de provision pour créances douteuses de 851 649 $. Il n’est pas fait mention des montants que Delta a déduits à titre [traduction] d’« autres provisions d’impôt » ou de [traduction] « dépenses reportées payées d’avance » de 888 291 $.
+[113] L’interrogatoire principal de James Thatcher par l’avocat de l’intimée a notamment donné lieu au dialogue suivant :
+[traduction]
+Q. Pouvez-vous dire, en consultant les annexes, ou en vous en remettant à votre mémoire, – de toute évidence, les rajustements à la déduction pour amortissement révisée effectués par le ministre en 2001 et pour toutes les autres années d’imposition visées par les appels, auraient eu, selon ce que je suppose, une incidence sur le revenu imposable de l’appelante, n’est‑ce pas?
+R. Oui, cela a eu une incidence. Monsieur le juge, par suite de cette vérification, nous avons établi de nouvelles cotisations à l’égard de l’impôt à payer par Envision, pour ses années 2001, 2002, 2003 et 2004. Au cours de chacune de ces années, le montant supplémentaire d’impôt à payer ayant fait l’objet d’une nouvelle cotisation résultait du rejet de la DPA calculée dans les annexes que nous venons d’examiner, le montant des rajustements apportés à la DPA. La seule autre chose qui a donné lieu à une dette fiscale au cours des années visées par la cotisation était le fait que le ministre a rajouté à l’exercice 2001 d’Envision le montant des provisions, d’environ un million et demi de dollars, que Delta, la société remplacée, s’était vu accorder à la fin de ses années antérieures – de son année 2000, Delta a demandé des provisions d’un million et demi de dollars et le ministre a ajouté la provision de Delta au revenu d’Envision, en 2001. Il s’agit des rajustements qui ont donné lieu à l’impôt à payer, en ce qui concerne les avis de nouvelle cotisation qui ont été délivrés.
+Q. Pouvez-vous dire au juge, de mémoire, en dollars et en cents, quelles sont les incidences fiscales des rajustements que le ministre a apportés à la DPA, disons, pour l’année 2001? Savez‑vous à combien cela s’élevait à peu près?
+R. Je préférerais me reporter à l’avis de nouvelle cotisation, si possible. C’est –
+[114] Vu ce témoignage, l’intimée ne parvient pas à établir que l’appelante avait fait une présentation erronée des faits en omettant d’inclure dans son revenu les 888 291 $ que Delta avait déduits au titre [traduction] d’« autres provisions pour impôt » ou de [traduction] « dépenses reportées payées d’avance » dans le calcul de son revenu pour son année d’imposition 2000. Étant donné que le montant de 888 291 $, dans la déclaration de revenus modifiée, n’a pas été demandé à titre de provision, et puisque l’ARC a accepté cette déclaration, dire simplement que les montants que Delta avait demandés à titre de provision ont été ajoutés au revenu de l’appelante ne permet pas à l’intimée a établir que ce montant de 888 291 $ aurait dû être inclus dans le revenu de l’appelante pour l’année 2001. L’intimée n’a pas établi que l’appelante n’avait pas inclus ce montant dans son revenu pour l’année 2001 et que l’appelante aurait dû inclure ce montant dans son revenu pour l’année 2001. L’intimée n’a pas établi que l’appelante avait fait une présentation erronée des faits dans sa déclaration de revenus de l’année 2001 au sujet de ce montant de 888 291 $.
+[115] Toutefois, il me semble bien que l’intimée a établi que l’appelante a déclaré en trop la FNACC de chaque catégorie de biens amortissables (par suite de son omission d’inclure l’amortissement qui avait été accordé à Delta et à First Heritage) et qu’elle n’a pas inclus la provision pour créances douteuses que Delta avait déduite au cours de son année d’imposition ayant pris fin le 31 décembre 2000. Ces déclarations étaient importantes aux fins de la déclaration de revenus. Il faut ensuite rechercher si ces déclarations ont été « effectuées par négligence, inattention ou omission volontaire ». On n’a pas laissé entendre que l’appelante avait commis une fraude en produisant sa déclaration de revenus pour l’année 2001.
+[116] Dans l’arrêt The Queen c. Regina Shoppers Mall Limited, [1991] 1 C.T.C. 297, 126 N.R. 141, 91 DTC 5101, la Cour d’appel fédérale a retenu les observations suivantes du juge Addy :
+7. […] Lorsque le contribuable, après un examen réfléchi et attentif de la situation, évalue celle-ci et produit une déclaration selon la méthode qu’en bonne foi il croit appropriée, il ne peut y avoir présentation erronée des faits au sens de l’article 152 [1056 Enterprises Ltd. c. La Reine, [1989] 2 C.T.C. 1). Dans la décision Joseph Levy c. La Reine, [1989] C.T.C. 151, à la page 176, le juge Teitelbaum cite en l’approuvant la déclaration suivante du juge Muldoon dans l’affaire précitée :
+Le paragraphe 152(4) protège ce genre de conduite et peut-être uniquement ce genre de conduite, dans les cas où le contribuable, après un examen réfléchi et attentif de la situation, évalue celle-ci comme étant un cas où la loi n’exige pas la déclaration d’un lien lorsque le contribuable croit de bonne foi que ce lien n’existe pas.
+[Ce sont les juges Addy et MacGuigan qui soulignent.]
+Il a également été établi que le soin nécessaire doit correspondre à celui d’une personne sage et prudente et que la déclaration doit être faite d’une façon que le contribuable croit véritablement appropriée. [...]
+[117] Les parties se sont référées à deux interprétations administratives (datées du 30 septembre 1988 et du 2 décembre 2000), à deux décisions (l’une n’est pas datée, mais semble avoir été rendue en 1989 et l’autre est datée du 1er janvier 2005) et une consultation (datée du 12 janvier 2006) émanant de l’ARC. Le vérificateur, à l’ARC, a reconnu que la décision qui semble avoir été rendue en 1989 n’avait pas encore été mise à la disposition du public lorsque l’appelante a fait l’objet de la nouvelle cotisation et qu’elle avait uniquement été mise à la disposition de l’avocat de l’appelante après que celle‑ci eut fait l’objet de la nouvelle cotisation. Il a également reconnu qu’au moment où l’appelante a produit sa déclaration de revenus pour l’année 2001, l’ARC n’avait pas encore mis à la disposition du public des documents contredisant les déclarations qui avaient été faites dans les interprétations administratives de 1988 et de l’année 2000. L’interprétation administrative de 1988 était rédigée comme suit :
+[traduction]
+La présente fait suite à votre lettre du 12 mai 1988, dans laquelle vous nous demandiez d’exprimer une opinion au sujet des incidences fiscales d’une fusion qui ne satisfait pas aux exigences du paragraphe 87 (1) de la Loi.
+Lorsqu’une unification est effectuée en vertu d’une loi canadienne qui prévoit que les sociétés remplacées subsistent dans la société unifiée, les biens des sociétés remplacées ne sont pas aliénés ou ne sont pas réputés être aliénés. Toutefois, les comptes d’impôt et autres attributs fiscaux des sociétés remplacées ne sont pas « acquis » par la société unifiée. Cette conclusion découle des règles énoncées au paragraphe 87(2) de la Loi, qui prévoient que les comptes d’impôt sont « transmis » à la société unifiée. Ces règles seraient redondantes si les attributs fiscaux des sociétés remplacées devenaient ceux de la société unifiée.
+Enfin, les actionnaires et les créanciers des sociétés remplacées disposent de leurs actions ou de leurs créances pour un montant égal à la juste valeur marchande des actions et des créances de la société unifiée qui existent au moment de l’unification.
+[118] L’interprétation administrative de l’année 2000, se prononçait dans le même sens à l’égard des comptes d’impôt. Voici ce qu’elle indiquait :
+[traduction]
+La présente fait suite à votre lettre du 19 janvier 2000, dans laquelle vous nous demandiez de formuler des commentaires au sujet des incidences fiscales d’une fusion qui ne satisfait pas aux exigences du paragraphe 87 (1) de la Loi de l’impôt sur le revenu (la « Loi ») (une « fusion non admissible »). En particulier, vous demandez si les comptes d’impôt et autres attributs fiscaux d’une société remplacée sont transmis à la société unifiée au moment d’une fusion non admissible dans laquelle l’unification est effectuée en vertu d’une loi canadienne qui prévoit que les sociétés remplacées subsistent dans la société unifiée.
+Nous sommes d’avis que les comptes d’impôt et autres attributs fiscaux des sociétés remplacées ne sont pas « acquis » par la société unifiée dans une fusion non admissible. Cette conclusion découle des règles énoncées au paragraphe 87(2) de la Loi, qui prévoient que les comptes d’impôt sont transmis à la société unifiée. Ces règles seraient redondantes si les attributs fiscaux des sociétés remplacées devenaient ceux de la société unifiée.
+Nous espérons que ces observations vous seront utiles. Toutefois, comme cela est indiqué dans la circulaire d’information 70‑6R3 publiée le 30 décembre 1996, les observations susmentionnées ne sont pas opposables à l’Agence des douanes et du revenu du Canada.
+[119] Comme l’a observé le juge Strayer, au nom de la Cour d’appel fédérale, dans l’arrêt Nesbitt, précité :
+8 […] C’est au moment où la déclaration est produite que l’on peut déterminer s’il y a eu ou non présentation erronée de faits par négligence ou inattention en remplissant la déclaration.
+[120] Par conséquent, étant donné que la décision qui semble être datée de l’année 1989 n’était pas mise à la disposition du public au moment où la déclaration de revenus de 1’appelante pour l’année 2001 a été produite, en 2002, elle n’est pas pertinente lorsqu’il s’agit de savoir si la présentation erronée des faits qui figure dans cette déclaration a été « effectuée par négligence, inattention ou omission volontaire ». De même, la décision qui a été rendue en 2005 et la consultation datée de l’année 2006 ne sont d’aucune utilité à cette fin.
+[121] Selon les deux interprétations administratives pertinentes, aux yeux de l’ARC, les comptes d’impôt et autres attributs fiscaux ne sont pas transmis à la société unifiée si la fusion n’est pas une fusion au sens de la définition figurant au paragraphe 87(l) de la Loi. Dans son témoignage, le vérificateur de l’ARC, James Thatcher, a déclaré :
+[traduction]
+R L’expression « coût indiqué » est définie dans la Loi de l’impôt sur le revenu à l’égard, par exemple, des biens amortissables, le coût indiqué s’entendant de la « fraction non amortie du coût en capital de ces biens amortissables ». Il s’agirait d’un compte d’impôt ou d’un attribut fiscal. L’Agence du revenu du Canada le considérerait comme un compte d’impôt ou comme un attribut fiscal.
+En ce qui concerne le « coût », et non nécessairement le compte d’impôt lui‑même, le « coût en capital » est une expression fiscale, mais le mot « coût » est un terme commercial plus général et ne serait pas nécessairement un compte d’impôt ou un attribut fiscal.
+[122] Il semble donc clair que, selon la position de l’ARC, telle qu’elle est énoncée dans ces interprétations administratives et telle que le vérificateur de l’ARC l’a définie, la FNACC est un attribut fiscal et que les attributs fiscaux ne sont pas transmis à la société issue de la fusion si la fusion ne satisfait pas à la définition de la fusion figurant au paragraphe 87(1) de la Loi, de sorte que la FNACC des sociétés remplacées ne serait pas transmise à la société issue de la fusion en l’occurrence. En l’espèce, il ne s’agit pas de savoir si cette déclaration est exacte, mais si la « personne sage et prudente » peut se fonder sur cette déclaration et produire ensuite une déclaration de revenus en croyant réellement qu’elle appuie à juste titre la production de cette déclaration. Il me semble qu’afin de savoir si une personne a fait une présentation erronée des faits dans une déclaration de revenus, « par négligence, inattention ou omission volontaire », la « personne sage et prudente » peut, en produisant sa déclaration de revenus, se fonder sur des déclarations de l’ARC qui relèvent du domaine public.
+[123] Il est clair que, en l’occurrence, Delta et First Heritage ont décidé de procéder à l’unification pour des raisons commerciales avant que les modalités de l’unification aient été approuvées. Il est également clair que la planification fiscale relative à l’unification visait avant tout la réduction du montant imposable à taux réduit. Diverses formules de groupement des deux caisses de crédit ont été examinées et finalement le montage qui a donné lieu au présent appel (lequel avait été proposé par Fraser Milner Casgrain) a été retenu. Il est également clair que l’appelante a procédé à « un examen réfléchi et attentif de la situation ». Fraser Milner Casgrain a participé au processus dans son intégralité, ainsi que Grant Thornton. Les représentants des caisses de crédit ont discuté de la position qui devait être prise aux fins de la production lors d’une réunion qui a eu lieu le 26 juin 2000. En ce qui concerne les positions prises à l’égard de la production, Douglas Graham, C.A., du cabinet Grant Thornton, dans une lettre datée du 9 août 2000, a dit ce qui suit :
+[traduction]
+Les positions à adopter à l’égard de 1a production sont discutables. Les personnes qui ont assisté à la réunion du 26 juin s’entendent sur la position suivante :
+1) La caisse de crédit issue de la fusion devrait-elle déclarer un montant imposable à taux réduit d’ouverture nul dans sa déclaration de revenus initiale? Nous souscrivons à cette position.
+Il n’y a pas eu d’entente au sujet des deuxième et troisième questions. Certains participants préconisaient :
+2) L’inclusion dans le revenu de la caisse de crédit issue de la fusion pour son année d’imposition 2001 des provisions pour pertes sur prêts demandées dans les déclarations de revenus finales de Delta et de First Heritage. Nous ne souscrivons pas à cette position.
+3) La déclaration à titre de solde d’ouverture de la fraction non amortie du coût en capital (la « FNACC ») des soldes de fermeture de Delta et de First Heritage dans leurs déclarations de revenus finales. Nous ne souscrivons pas à cette position.
+Nous sommes d’avis que la position énoncée au point 1 amènera l’ADRC à contester le montant imposable à taux réduit nul. Nous nous attendons à ce l’ADRC inscrive un solde d’ouverture nul dans le compte des montants imposables à taux réduit et à ce qu’elle demande à la caisse de crédit issue de la fusion d’expliquer pourquoi le solde est nul. En n’incluant pas les provisions de fermeture pour pertes sur prêts de Delta et de First Heritage dans le revenu de la caisse de crédit issue de la fusion pour l’année 2001, et en déclarant le coût de tous les biens amortissables dans le solde d’ouverture de la FNACC, la caisse de crédit issue de la fusion adoptera une position cohérente selon laquelle aucuns des attributs fiscaux ne devraient lui être transmis.
+Concrètement, la position de négociation de la caisse de crédit issue de la fusion auprès de l’ADRC sera plus forte si la caisse est en mesure de faire un compromis en incluant dans son revenu les provisions de fermeture pour pertes sur prêts et en « transmettant » les soldes de fermeture des FNACC. Si l’affaire est portée devant les tribunaux, cette position cohérente, à l’égard de la production, en est une que votre avocat aimerait être en mesure d’invoquer. Selon moi, l’ADRC contestera fort probablement la position no 1 (montant imposable à taux réduit nul) et il se peut qu’elle veuille saisir les tribunaux de l’affaire. Je préférerais que les trois questions soient soulevées à la table de négociation et qu’il soit possible de soutenir d’une façon cohérente que les attributs fiscaux ne continuent pas à s’appliquer à la suite d’une fusion non admissible.
+Comme il en a été question lors de la réunion et à maintes reprises auparavant, l’adoption des positions que nous préconisons comporte certains risques. Des intérêts seront imposés sur tout impôt impayé. Aucune pénalité ne devrait être imposée puisque la position relative à la production est compatible avec une interprétation administrative récente publiée par l’ADRC. La direction et le conseil ne devront pas s’étonner si l’affaire est portée devant les tribunaux. Je ne crois pas que la saisine du juge doive embarrasser qui que ce soit étant donné que, selon la perspective de la caisse de crédit, vous avez demandé conseil à des experts qui recommandaient que l’unification soit structurée de façon à réduire au minimum l’obligation fiscale des caisses de crédit.
+[Non souligné dans l’original.]
+[124] Étant donné que Douglas Graham mentionnait une interprétation administrative récente de l’Agence du revenu du Canada, il est évident qu’il était au courant de l’interprétation administrative de l’année 2000 susmentionnée lorsqu’il a rédigé cette lettre. Au cours de l’audience, il a confirmé que l’interprétation administrative dont il faisait mention était celle de l’année 2000. Son contre‑interrogatoire a donné lieu au dialogue suivant :
+[traduction]
+Q. Ouais. Et est‑il juste de dire que ces autres attributs fiscaux, la discussion relative à ces autres attributs fiscaux – je ne dis pas que cela s’est produit par surprise, mais est‑il juste de dire qu’à un moment donné, lorsque les sociétés remplacées devaient examiner la position que la société issue de la fusion prendrait à l’égard de la production, après la fusion, que ce n’est qu’alors que les sociétés remplacées et leurs conseillers, ou du moins leur conseiller fiscal, se sont arrêtés à l’examen de la FNACC et des autres provisions d’impôt?
+R. Je vais essayer de répondre à cette question. Les interprétations administratives indiquaient clairement, selon moi, que les attributs fiscaux n’étaient pas transmis s’il y avait une fusion imposable.
+[125] L’avocat de l’intimée a souligné que Douglas Graham n’avait été mis au courant de l’existence de cette interprétation technique qu’après avoir remis son rapport final, qui était daté du 18 avril 2000, mais celui-ci portait uniquement sur le montant imposable à taux réduit et non sur la question de savoir si l’amortissement accordé à Delta et à First Heritage devait figurer dans le solde de la FNACC de l’appelante. De plus, ce rapport n’indiquait pas si la provision pour créances douteuses demandée par Delta au cours de son année d’imposition 2000 devait être incluse dans le revenu de l’appelante pour son année d’imposition 2001. Il est clair que lorsqu’il a été question de la position qui était prise sur ces deux questions aux fins de la production, dans la lettre du 9 août 2000 de Douglas Graham, ce dernier était au courant de l’existence de cette interprétation administrative. La date cruciale, lorsqu’il s’agit de décider si une présentation erronée des faits a été effectuée, « par négligence, inattention ou omission volontaire », est celle de la production, par l’appelante, de sa déclaration de revenus puisque c’est la date à laquelle la présentation erronée des faits a été effectuée. Il est clair qu’à cette date (soit au mois de juin 2002), Douglas Graham était au courant de l’existence de cette interprétation technique et qu’aucune autre interprétation technique, décision, consultation ou autre déclaration publique de l’ARC ne contredit la position exprimée dans l’interprétation administrative en question.
+[126] Il est également clair que Thomas Webster était au courant de l’existence de l’interprétation administrative et qu’il s’est fondé sur elle. Au cours du réinterrogatoire, les questions suivantes ont été posées et les réponses suivantes ont été données :
+[traduction]
+Q. Cependant, vous vous souvenez que l’ARC avait publié une interprétation administrative?
+R. Je m’en souviens, en effet.
+Q. Et vous souvenez-vous – si je vous montrais une interprétation administrative, pourriez‑vous dire s’il s’agit de cette interprétation administrative ou d’une autre?
+R. Je ne pourrais pas le dire.
+Q. Cependant, vous saviez que l’ARC avait publié une interprétation administrative à l’appui de la position qui était prise aux fins de la production?
+R. C’est exact.
+Q. Et était-ce l’un des éléments, pas nécessairement l’élément principal, mais l’un des éléments sur lesquels la caisse de crédit a fondé sa position quant à la production, le fait que cette interprétation administrative avait été publiée?
+R. Cela renforçait les conclusions tirées à l’égard de la position qui était prise aux fins de la production et la caisse de crédit s’est fondée sur cette interprétation.
+[127] De plus, au cours du contre-interrogatoire de Thomas Webster, les propos suivants ont été échangés au sujet de la thèse selon laquelle la position qui a été prise aux fins de la production, en ce qui concerne la FNACC et la provision demandée par Delta en l’an 2000, visait à assurer la position de négociation prise par l’appelante :
+[traduction]
+Q. Les caisses de crédit fusionnantes acceptaient‑elles, en adoptant, à l’égard de la FNACC, la position proposée par M. Graham, que cela renforcerait la position qu’elles prenaient dans le cadre des négociations avec l’Agence, si l’Agence établissait une nouvelle cotisation en vue de refuser de rajuster le MITR pour qu’il soit nul? Reconnaissaient‑elles que cela renforcerait leur position de négociation?
+R. Je puis uniquement exprimer mon propre point de vue. Je me souviens de la réunion en question. Elle a débuté par une discussion des attributs fiscaux qui ne seraient peut‑être pas transmis, et nous cherchions à assurer une vision cohérente avec la thèse selon laquelle le montant imposable à taux réduit n’était pas transmis. Ces deux autres questions ont été déterminées et la discussion portait sur le fait que nous devions être logiques en préparant nos déclarations de revenus et que nous devions être cohérents. Selon moi, tout cela était raisonnable. Je ne suis pas certain que le fait que cela renforçait notre position de négociation m’ait influencé en quoi que ce soit. Nous étions au courant du MITR, nous avions constaté, dans les documents, qu’il s’agissait d’une position agressive – l’énoncé de la position de négociation qui était prise ne m’a pas trop influencé.
+[128] Il semble clair que Grant Thornton (qui a préparé la déclaration de revenus de l’appelante pour l’année 2001) et Thomas Webster (qui a examiné et signé la déclaration de revenus de l’année 2001 pour le compte de l’appelante) étaient tous deux au courant de l’existence de l’interprétation administrative que l’ARC avait publiée en 2000 et qu’ils ne se fondaient pas sur elle.
+[129] Il semble également clair que Thomas Webster croyait véritablement que les positions qu’il avait prises dans ce cas‑ci aux fins de la production étaient appropriées. Voici ce qu’il a déclaré lors de l’interrogatoire principal :
+[traduction]
+Q. [...] Pouvez‑vous nous dire pourquoi vous pensiez, en 2002, lorsque vous avez signé cette déclaration et que vous 1’avez produite, si je ne me trompe, le 28 juin 2002, pourquoi vous pensiez que ces trois positions étaient appropriées? Qu’est‑ce qui vous a amené à le croire à ce moment‑là?
+R. Au cours de l’année 2000, après la signature du protocole d’entente, nous avons retenu les services de Grant Thornton, qui nous a fourni un avis fiscal. Au cours de la période qui a suivi la réception de cet avis, au mois d’avril 2000, nous avons eu de nombreuses discussions avec Grant Thornton et nous avons également reçu un avis fiscal d’un cabinet d’avocats fiscalistes; tous ont avalisé les positions examinées sur ces trois points aux fins de la production.
+Q. D’accord. Avez‑vous personnellement, en votre qualité de comptable agréé, avez‑vous effectué votre propre recherche sur ces points?
+R. Non. À mon avis, les questions fiscales de ce niveau sont fort précises et complexes, et c’est la raison pour laquelle nous avons retenu les services de Grant Thornton, ce qui est également signalé dans le procès‑verbal, lorsque j’ai recommandé de le faire. Et nous avons ensuite demandé et obtenu une seconde opinion, par l’entremise du cabinet d’avocats dont j’ai fait mention, Fraser Milner. Nous nous sommes donc fondés sur les conseils fiscaux que les experts nous ont donnés.
+[130] Il existait également une divergence de vues entre les commentateurs au sujet de la question de savoir si les attributs fiscaux seraient transmis à la suite d’une fusion qui ne satisfait pas à la définition de la fusion figurant au paragraphe 87(1) de la Loi. David A.G. Birnie, dans l’exposé intitulé : « Consolidation of Corporate Structures » qu’il a présenté lors de la conférence de 1979 de l’Association canadienne d’études fiscales, a déclaré ce qui suit à la page 180, en ce qui concerne les fusions auxquelles l’article 87 ne s’applique pas :
+[traduction]
+[...] En outre, tous les comptes d’impôt pertinents des sociétés remplacées devraient simplement revenir à la société issue de la fusion.
+[131] Dans l’ouvrage intitulé : Taxation of Corporations, Partnerships and Trusts, seconde édition, 2001, de Norman C. Tobias, il est observé à la page 398, en ce qui concerne la question des fusions qui ne satisfont pas aux conditions du paragraphe 87(1) de la Loi :
+[traduction]
+Toutefois, les profils fiscaux de chacune des sociétés fusionnantes et les attributs fiscaux de leurs biens respectifs ne peuvent être transmis à la société issue de la fusion que par le jeu des dispositions de la Loi de l’impôt sur le revenu.
+[132] Il semble donc clair, selon moi, que les présentations erronées de faits que l’appelante a faites dans sa déclaration de revenus de 2001 au sujet du solde d’ouverture de la FNACC et que l’omission d’inclure la provision pour créances douteuses n’ont pas été « effectuées par négligence, inattention ou omission volontaire », mais à la suite d’un examen réfléchi et attentif compte tenu non seulement de la position que Grant Thornton avait recommandée de prendre au sujet de la production, mais aussi de la position que l’ARC avait prise dans l’interprétation administrative de l’année 2000. L’appelante croyait était de bonne foi, lorsqu’elle a produit sa déclaration de revenus comme elle l’a fait. Comme il en a ci‑dessus été fait mention, il ne s’agit pas de savoir si ce fondement était exact, mais si l’appelante a véritablement cru qu’il l’était.
+[133] Par conséquent, la nouvelle cotisation relative à l’obligation fiscale de 1’appelante pour l’année 2001 est annulée. En l’occurrence, deux nouvelles cotisations ont été établies à l’égard de l’année d’imposition 2001. La première nouvelle cotisation était datée du 23 mai 2006 et, en plus des questions visées par les présents appels, d’autres montants étaient également inclus. L’appelante a de nouveau fait l’objet, à l’égard de son année d’imposition 2001 le 22 avril 2008, d’une nouvelle cotisation visant la suppression des autres montants de son revenu. Étant donné que l’annulation de la seconde nouvelle cotisation (qui est la plus récente et qui est celle dont il a été interjeté appel) pourrait donner lieu au rétablissement de la première nouvelle cotisation, il est confirmé que la seconde nouvelle cotisation (datée du 22 avril 2008) et la première nouvelle cotisation (datée du 23 mai 2006) sont toutes deux annulées.
+Années d’imposition 2002, 2003 et 2004
+[134] L’avocat de l’appelante a soutenu que si la nouvelle cotisation concernant l’année d’imposition 2001 de l’appelante était annulée, les nouvelles cotisations des autres années devaient également être annulées étant donné que le montant de la FNACC était fixé. Je rejette cette thèse.
+[135] Comme il en a ci‑dessus été fait mention, la FNACC est déterminée au moyen de la formule énoncée dans la définition de la FNACC, au paragraphe 13(21) de la Loi, qui dispose notamment:
+« fraction non amortie du coût en capital » S’agissant de la fraction non amortie du coût en capital existant à un moment donné pour un contribuable, relativement à des biens amortissables d’une catégorie prescrite, le montant calculé selon la formule suivante :
+(A + B + C + D + D.1) – (E + E.1 + F + G + H + I + J + K)
+où :
+A représente le total des sommes dont chacune est le coût en capital que le contribuable a supporté pour chaque bien amortissable de cette catégorie acquis avant ce moment;
+[…]
+E l’amortissement total accordé au contribuable relativement aux biens de cette catégorie avant ce moment;
+[136] Selon cette définition, la FNACC au début d’une année n’est pas le solde de fermeture de la FNACC à la fin de 1’année précédente. Les tableaux relatifs à la DPA sont établis sur cette base pour plus de commodité. Toutefois, cette définition exige qu’un nouveau calcul soit effectué chaque année à l’égard de « l’amortissement total accordé au contribuable relativement aux biens de cette catégorie avant ce moment ». Par conséquent, pour déterminer la FNACC de chaque catégorie de biens amortissables de l’appelante au début l’année 2002, il faut déterminer 1’amortissement total accordé à 1’appelante, à Delta et à First Heritage avant 1’année 2002.
+[137] Le vérificateur de 1’ARC avait préparé un tableau énumérant les diverses catégories de biens amortissables de 1’appelante et indiquant le montant par lequel la FNACC de chaque catégorie avait été déclaré en trop du fait que 1’amortissement qui avait été accordé à Delta et à First Heritage n’avait pas été inclus. Ce tableau est reproduit ci‑dessous :
+[traduction]
+Catégorie
+Solde de fermeture FNACC – Delta
+Solde de fermeture FNACC – First Heritage
+Solde combiné de la FNACC
+Solde d’ouverture de la FNACC – appelante
+FNACC déclarée en trop
+1
+3 865 000
+6 863 291
+10 728 291
+17 919 244
+7 190 953
+3
+195 522
+469 479
+665 001
+3 326 000
+2 660 999
+6
+172 805
+9 379
+182 184
+1 193 125
+1 010 941
+8
+1 499 659
+1 760 140
+3 259 799
+12 538 015
+9 278 216
+10
+1 408 341
+1 371 048
+2 779 389
+11 796 495
+9 017 106
+10.1
+203
+577
+780
+24 000
+23 220
+12
+0
+0
+0
+116 998
+116 998
+13
+60 852
+0
+60 852
+165 202
+104 350
+13
+0
+0
+0
+362 813
+362 813
+13
+118 729
+0
+118 729
+245 344
+126 615
+13
+441 919
+0
+441 919
+882 031
+440 112
+13
+277 675
+0
+277 675
+504 203
+226 528
+13
+88
+0
+88
+871
+783
+13
+361 271
+0
+361 271
+656 796
+295 525
+13
+0
+1 121 140
+1 121 140
+1 191 114
+69 974
+17
+3 143
+102 967
+106 110
+57 508
+-48 602
+Total :
+8 405 207
+11 698 021
+20 103 228
+50 979 759
+30 876 531
+[138] Par conséquent, afin de déterminer le montant exact de la FNACC de 1’appelante au début de son année d’imposition 2002, l’amortissement accordé à Delta et à First Heritage (qui serait le montant par lequel le solde d’ouverture de la FNACC demandé par l’appelante était déclaré en trop) doit être déduit du solde de fermeture de la FNACC à la fin de l’année 2001. Par conséquent, le solde d’ouverture de la FNACC de l’appelante au début de son année d’imposition 2002 sera le suivant :
+Catégorie
+FNACC de l’appelante à la fin de l’année 2001
+Amortissement accordé à Delta et à First Heritage
+FNACC révisée au début de l’année 2002
+1
+16 935 989
+7 190 953
+9 745 036
+3
+3 169 856
+2 660 999
+508 857
+6
+1 073 812
+1 010 941
+62 871
+8
+10 618 898
+9 278 216
+1 340 682
+10
+8 248 436
+9 017 106
+-768 670
+10.1
+16 800
+23 220
+-6 420
+12
+0
+116 998
+-116 998
+13
+132 162
+104 350
+27 812
+13
+686 786
+362 813
+323 973
+13
+196 276
+126 615
+69 661
+13
+705 625
+440 112
+265 513
+13
+403 363
+226 528
+176 835
+13
+697
+783
+-86
+13
+525 437
+295 525
+229 912
+13
+952 892
+69 974
+882 918
+13
+208 688
+0
+208 688
+13
+5 112
+0
+5 112
+17
+52 907
+-48 602
+101 509
+Total :
+43 933 736
+30 876 531
+13 057 205
+[139] Il y a plusieurs catégories pour lesquelles le résultat révisé sera un montant négatif. Il semble également qu’aucune des deux parties n’ait envisagé cette situation, bien que l’appelante ait clairement soutenu que la nouvelle cotisation concernant l’année d’imposition 2001 doit être annulée étant donné que cette nouvelle cotisation a été établie après l’expiration de la période normale de nouvelle cotisation (et qu’elle ne pouvait pas être justifiée en vertu du sous‑alinéa 152(4)a)(i) de la Loi) et que l’intimée ait soutenu que même si cette année‑là ne pouvait pas donner lieu à une nouvelle cotisation, les montants de la FNACC de Delta et de First Heritage doivent néanmoins être reportés prospectivement. Il semble que le tableau ci‑dessus indique simplement le résultat logique de ces deux déterminations.
+[140] Le paragraphe 13(1) de la Loi dispose :
+13. (1) Tout contribuable doit inclure, dans le calcul de son revenu pour une année d’imposition, l’excédent éventuel à la fin de l’année du total des sommes représentées par les éléments E à J de la formule figurant à la définition de « fraction non amortie du coût en capital » au paragraphe (21) sur le total des sommes représentées par les éléments A à D de cette formule, concernant ses biens amortissables d’une catégorie prescrite.
+[141] La question de savoir s’il y a un revenu à inclure par suite des dispositions du paragraphe 13(1) se posera à la fin de l’année 2002. Comme il en a été fait mention, lorsque la FNACC doit être déterminée à un moment donné, le résultat de la formule est le résultat mathématique calculé à ce moment‑là à l’aide de chaque élément de la formule. Les éléments exigent un calcul à compter du moment où le bien est acquis, et non simplement une mise à jour depuis la fin de l’année d’imposition précédente. Ainsi, la somme représentée par l’élément E est basée sur la détermination de tout l’amortissement qui a été accordé avant le moment précis en question.
+[142] Pour déterminer s’il y a un « excédent » pour l’application du paragraphe 13(1) de la Loi, il faut calculer les sommes représentées par les éléments E à J à la fin de l’année 2002 et les sommes représentées par les éléments A à D à ce moment‑là. En préparant le tableau suivant, on a déterminé le « taux » pour les biens de chaque catégorie distincte 13, pour chaque année, en divisant la DPA accordée par le vérificateur de l’ARC pour les biens de cette catégorie par la FNACC déterminée par le vérificateur de l’ARC pour les biens de cette catégorie (avant qu’un montant ait été accordé pour la DPA).
+Catégorie
+FNACC
+Début de l’année 2002 (B)
+Ajouts (C)
+Dispositions
+(D)
+½ de
+[C – D]
+(E)
+Taux de la DPA
+(F)
+DPA
+(F x (B + E) (G)
+FNACC – fin de l’année
+(B + C - D – G)
+1
+9 745 036
+121 072
+0
+60 536
+4 %
+392 223
+9 473 885
+3
+508 857
+0
+0
+0
+5 %
+25 443
+483 414
+6
+62 871
+0
+0
+0
+10 %
+6 287
+56 584
+8
+1 340 682
+3 112 049
+0
+1 556 024
+20 %
+579 341
+3 873 390
+10
+-768 670
+714 607
+0
+357 304
+30 %
+0
+-54 063[10]
+10
+0
+1 051 887
+0
+525 944
+30 %
+157 783
+894 104
+10.1
+-6 420
+0
+0
+0
+30 %
+0
+-6 420
+12
+-116 998
+0
+0
+0
+100 %
+0
+-116 998
+13
+27 812
+0
+0
+0
+25 %
+6 953
+20 859
+13
+323 973
+0
+0
+0
+22 %
+71 274
+252 699
+13
+69 661
+0
+0
+0
+25 %
+17 415
+52 246
+13
+265 513
+0
+0
+0
+25 %
+66 378
+199 135
+13
+176 835
+0
+0
+0
+25 %
+44 209
+132 626
+13
+-86
+0
+0
+0
+0
+-86
+13
+229 912
+0
+0
+0
+25 %
+57 478
+172 434
+13
+882 918
+0
+0
+0
+25 %
+220 730
+662 188
+13
+208 688
+0
+231 876
+0
+0
+0
+0[11]
+13
+5 112
+0
+0
+0
+[12]
+1 136
+3 976
+17
+101 509
+0
+0
+0
+8 %
+8 121
+93 388
+Total :
+13 057 205
+4 999 615
+231 876
+1 654 771
+16 193 361
+[143] Le montant total, compte tenu des calculs indiqués dans ce tableau, qui serait accordé au titre de la DPA pour l’année 2002 serait de 1 654 771 $. Toutefois, en établissant la nouvelle cotisation de l’appelante pour l’année 2002, le montant total de la DPA que l’appelante a été autorisée à demander était de 2 641 195 $. Par conséquent, il me semble que l’appelante a été autorisée à déduire un montant plus élevé au titre de la DPA que celui qu’elle avait par ailleurs le droit de demander. Cela découle de la conclusion que j’ai tirée, à savoir que la nouvelle cotisation concernant l’année d’imposition 2001 de l’appelante est annulée, la DPA supplémentaire demandée par l’appelante en 2001 ramenant donc le solde de la FNACC au début de l’année 2002 à un montant qui est inférieur au montant que l’ARC a utilisé en établissant la nouvelle cotisation de l’appelante pour l’année 2002. Toutefois, si l’appelante est autorisée à déduire 1 654 771 $ seulement au titre de la DPA pour l’année 2002 (ce qui est inférieur au montant de 2 641 195 $ admis par l’ARC), cela voudrait dire que le ministre interjetterait appel de sa propre cotisation, ce qu’il ne peut pas faire.
+[144] Dans la décision Valdis, [2001] 1 C.T.C. 2827, le juge Hamlyn a fait l’observation suivante, au paragraphe 21 :
+21 Dans l’affaire Millette c. La Reine, Mme la juge Lamarre Proulx a réaffirmé que notre cour ne peut entendre un appel dans lequel il est proposé d’accroître l’obligation fiscale d’un appelant. Elle disait au paragraphe 72 :
+Il est accepté par la jurisprudence que cette Cour ne puisse pas augmenter le montant de la cotisation du Ministre parce que cela équivaudrait à un appel de la cotisation par le Ministre, ce que le Ministre ne peut pas faire. Le Ministre ne peut pas en appeler de sa propre cotisation; Harris v. M.N.R., 64 D.T.C. 5332, 5337; Shiewitz v. M.N.R., 79 D.T.C. 340, 342 et Abed v. The Queen, 82 D.T.C. 6099, 6103.
+[C’est le juge Hamlyn qui souligne.]
+[145] Par conséquent, l’appelante ne peut pas faire l’objet d’une nouvelle cotisation qui augmenterait son revenu en faisant passer le montant de la DPA de 2 641 195 $ qu’elle peut demander en 2002 au montant déterminé ci‑dessus, qui s’élève à 1 654 771 $.
+[146] En l’espèce, il y a quatre catégories de biens pour lesquelles les sommes représentées par les éléments E à J, dans la définition de la « fraction non amortie du coût en capital », au paragraphe 13(21) de la Loi, à la fin de l’année 2002 excèdent les sommes représentées par les éléments A à D à ce moment‑là. La nouvelle cotisation concernant l’année d’imposition 2002 de l’appelante se rapportait uniquement à une réduction du montant de la DPA que l’appelante peut demander. La déduction, en ce qui concerne la DPA, est prévue à l’alinéa 20(1)a) de la Loi et l’inclusion dans le revenu aux fins de la déduction pour amortissement récupérée est faite conformément au paragraphe 13(1) de la Loi. La détermination est faite pour chaque catégorie distincte de biens. Étant donné que « le ministre ne peut pas en appeler de sa propre cotisation », le revenu de l’appelante ne peut pas être augmenté du montant de la déduction pour amortissement récupérée.
+[147] Dans l’affaire Petro-Canada c. La Reine, 2004 CAF 158, la contribuable et la Couronne avaient conclu une entente selon laquelle la contribuable avait droit à une déduction de 700 000 $ pour certains frais de recherche scientifique et de développement expérimental, mais elles n’avaient pas pu s’entendre sur la demande beaucoup plus importante se rapportant aux frais d’exploration au Canada. Lorsque notre cour a entendu l’affaire, le juge Bowie a conclu que la contribuable aurait en fait dû avoir droit à un montant inférieur à celui que la Couronne avait admis au titre des frais d’exploration. Il a donc conclu que le montant de 700 000 $ accordé au moyen du jugement rendu sur consentement pour certains frais de recherche scientifique et de développement expérimental ne devait pas être accepté étant donné que le montant des frais d’exploration au Canada que l’ARC avait admis dépassait d’un montant de plus de 700 000 $ le montant qu’il aurait permis à la contribuable de demander au titre de frais d’exploration au Canada.
+[148] La juge Sharlow, au nom de la Cour d’appel fédérale, a fait l’observation suivante :
+[68] Le juge a eu raison de conclure que Petro-Canada avait obtenu une déduction qui dépassait son droit à déduction. L’unique conséquence de cette conclusion était que le juge ne pouvait accorder à Petro-Canada le redressement qu’elle demandait, un redressement qui était une déduction accrue représentant le coût des données sismiques. Le juge était empêché par l’arrêt Harris d’obliger le ministre à réduire la déduction parce que cela aurait eu pour effet d’autoriser la Couronne à faire appel de la cotisation.
+[69] Cependant, le juge a refusé d’obliger le ministre à donner effet au jugement convenu. Refuser les justes prétentions de Petro-Canada à la déduction au titre des frais de recherche scientifique et de développement expérimental avait le même effet qu’une ordonnance faisant droit à telles prétentions mais réduisant de la même somme la déduction de Petro-Canada pour frais de données sismiques. C’est comme si le juge avait fait droit en partie à l’appel de la Couronne contre la déduction pour frais de données sismiques. Le juge faisait indirectement ce qu’il n’aurait pu faire directement. À mon avis, il a commis une erreur en refusant de donner effet au jugement convenu.
+[149] Il me semble également qu’en l’espèce, le montant de la DPA que l’appelante est autorisée à demander pour l’année 2002 ne peut pas être réduit des montants de la déduction pour amortissement récupérée étant donné que l’appelante s’est vu accorder, au titre de la déduction pour amortissement pour l’année 2002, une déduction plus élevée que celle qui aurait dû lui être accordée. Comme la Cour d’appel fédérale l’a fait observer dans l’arrêt Petro‑Canada, on permettrait ainsi à l’intimée de faire indirectement ce qu’elle ne peut pas faire directement. Par conséquent, aucun rajustement ne sera apporté aux montants de la DPA que l’appelante a été autorisée à demander pour l’année 2002. Même s’il était possible d’effectuer pareil rajustement, étant donné qu’une réduction du montant de la DPA qui est accordé entraînerait une augmentation au même montant de la FNACC à la fin de l’année, la déduction ne serait pas perdue; elle serait simplement reportée.
+[150] Lorsque la FNACC est déterminée, la somme représentée par l’élément B de la formule est la suivante :
+B le total des sommes incluses en vertu du présent article dans le revenu du contribuable pour une année d’imposition antérieure à ce moment, si ces sommes sont relatives à des biens amortissables de cette catégorie;
+[151] Étant donné que les montants « excédentaires » ne sont pas inclus dans le revenu en 2002, aucun montant ne serait inclus pour l’élément B au cours d’années subséquentes à l’égard de ces montants et le solde négatif sera dans les faits simplement reporté prospectivement.
+[152] Étant donné que la seule question qui se pose au sujet de la nouvelle cotisation concernant les années d’imposition 2003 et 2004 de l’appelante se rapporte au montant de la DPA que l’appelante est autorisée à demander pour chacune de ces années et puisque le solde d’ouverture pour l’année 2002 (qui aura des incidences sur toutes les années subséquentes) de la FNACC, tel qu’il est ici déterminé, est inférieur au solde d’ouverture de la FNACC utilisé par l’ARC pour l’année 2002, tout calcul de la DPA pour les années 2003 et 2004 dans lequel le solde d’ouverture révisé pour l’année 2002 et l’amortissement qui a été accordé pour l’année 2002 sont utilisés donnera lieu pour chacune de ces années à la détermination, au titre de la DPA, d’un montant inférieur à celui que l’ARC a admis. Étant donné, comme il en a ci‑dessus été fait mention, que le ministre ne peut pas en appeler de sa propre cotisation, aucun rajustement ne sera apporté à la DPA que l’appelante a été autorisée à demander pour les années 2003 et 2004.
+[153] Par conséquent :
+a) l’appel que l’appelante a interjeté à l’encontre de la nouvelle cotisation concernant son année d’imposition 2001 est accueilli, sans qu’aucuns dépens soient adjugés, et la seconde nouvelle cotisation (datée du 22 avril 2008) ainsi que la première nouvelle cotisation (datée du 23 mai 2006) sont annulées;
+b) les appels que l’appelante a interjetés à l’encontre des nouvelles cotisations concernant ses années d’imposition 2002, 2003 et 2004 sont rejetés sans qu’aucuns dépens soient adjugés.
+Signé à Halifax (Nouvelle‑Écosse), ce 17e jour de novembre 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 16e jour de mars 2011.
+François Brunet, réviseur
+RÉFÉRENCE : 2010 CCI 576
+No DU DOSSIER DE LA COUR : 2008-2213(IT)G
+INTITULÉ : ENVISION CREDIT UNION
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATES DE L’AUDIENCE : Les 21, 22 et 23 avril et
+les 13, 14 et 15 septembre 2010
+MOTIFS DU JUGEMENT : L’honorable Wyman W. Webb
+DATE DU JUGEMENT : Le 17 novembre 2010
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Joel Nitikman
+Me Michelle Moriartey
+Avocats de l’intimée :
+Me Lynn Burch
+Me John Gibb-Carsley
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Joel Nitikman
+Michelle Moriartey
+Cabinet : Fraser Milner Casgrain
+Vancouver (Colombie-Britannique)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Aucune explication n'a été fournie au sujet de la raison pour laquelle le solde d'ouverture de la FNACC des actifs de la catégorie 17 de l'appelante était inférieur aux soldes de fermeture combinés de la FNACC des actifs de la catégorie 17 de Delta et de First Heritage.
+[2] Dans l'avis d'appel modifié et dans la réponse, il est fait mention du montant de la provision pour créances douteuses, qui s'élève à 851 659 $. Toutefois, le montant figurant dans l'annexe 13 de la déclaration de revenus modifiée de Delta pour l'année 2000 est de 851 649 $. Il semble donc que le montant exact de la provision pour créances douteuses demandée par Delta en 2000 est de 851 649 $.
+[3] Étant donné que le plafond des affaires tel qu'il est déterminé pour l'application de l'article 125 est réduit conformément au paragraphe 125(5.1) de la Loi compte tenu de l'impôt à payer par la caisse de crédit en vertu de la partie I.3 de la Loi pour l'année précédente, il semble qu'étant donné qu'une caisse de crédit aurait généralement un montant élevé de capital imposable employé au Canada pour l'application de la partie I.3, le plafond des affaires d'une caisse de crédit pour l'application de l'article 125 serait fort probablement nul. Le plafond des affaires de Delta et de First Heritage pour les années d'imposition ayant pris fin le 31 décembre 2000 était nul pour l'application de l'article 125 de la Loi; pour l'année d'imposition de l'appelante ayant pris fin le 31 décembre 2001, le plafond des affaires pour l'application de l'article 125 de la Loi était également nul. Les déclarations de revenus de l'appelante pour ses années d'imposition 2002, 2003 et 2004 n'ont pas été produites en preuve, mais il semble logique de supposer que le plafond des affaires de l'appelante pour chacune de ces années, pour l'application de l'article 125 de la Loi, était également nul.
+[4] L'alinéa 137(3)a) de la Loi vise le revenu imposable, et non le revenu tiré d'une entreprise active. Le revenu imposable comprendrait le revenu tiré d'une entreprise active ainsi que le revenu tiré d'autres sources. De plus, si le revenu de la caisse de crédit donnait droit au crédit d'impôt prévu à l'article 125 de la Loi, ce revenu serait déduit du moindre des deux montants énoncés aux alinéas a) et b).
+[5] Le montant imposable à taux réduit correspond à 25/4 du montant déductible en vertu de l'article 125 de la Loi. Au cours des années visées par les appels, ce montant représenterait 16 p. 100 du revenu imposable; 25/4 x 16 % = 100 %. Le montant imposable à taux réduit est le total cumulatif de ce revenu pour toutes les années antérieures. Le paragraphe 137(4) de la Loi prévoit que tout montant déductible ou tout montant déduit en vertu du paragraphe 137(3) de la Loi est réputé être déductible ou déduit en vertu de l'article 125 de la Loi.
+[6] Dans l’arrêt Forrest c. Howe, [1952] 1 D.L.R. 717, la Cour d'appel de la Colombie-Britannique a observé qui suit :
+[traduction]
+13 Cependant, l'avocat de l'intimé, se fondant sur l'article 35 de la Land Registry Act, R.S.B.C. 1948, ch. 171, soutient que l'acte de transfert non enregistré que le demandeur détient est sans effet lorsqu'il s'agit de lui transmettre un domaine, que ce soit en common law ou en equity. Toutefois, je crois que les décisions faisant autorité enseignent clairement que le document signé par la personne qui détient un titre ou un droit enregistré à l'égard de biens‑fonds, selon lequel ce titre ou cet droit est réputé être transféré à une autre personne, confère au bénéficiaire du transfert un titre ou un droit en equity à l'égard des biens‑fonds, même si le document n'est pas enregistré. En outre, les dispositions de l'article 35 de la Loi n’excluent pas l'exercice des droits conférés par un document non enregistré : voir L. & C. Lumber Co. c. Lundgren, [1942] 4 D.L.R. 637, 58 B.C.R. 270; Davidson c. Davidson, [1946], 2 D.L.R. 289, S.C.R. 115; Greveling c. Greveling, [1950] 2 D.L.R. 308.
+[7] La Cour d'appel fédérale a bien fait remarquer ce qui suit :
+[36] Je ne décèle aucune erreur dans la conclusion du juge de la Cour de l'impôt suivant laquelle le statut de SPANR réputée prévu au paragraphe 134.1(2) ne s'applique pas au sous‑alinéa 87(2)cc)(i) et qu'en conséquence, le compte d'IMR de GA Scottish n'a pas été transféré à l'appelante aux termes de cette disposition.
+[8] Le juge Jessup était également l'un des trois juges de la Cour d'appel de l'Ontario qui ont entendu l'appel dans l'affaire Black & Decker.
+[9] Dans les motifs qu'il a rendus dans l’arrêt Black & Decker, le juge Dickson a renvoyé à la décision que le juge Jessup avait rendue dans l'affaire J.J. Beamish, et bien qu'il n'ait pas expressément dit qu'il n’approuvait pas cette décision, il a cité un passage dans lequel le juge Jessup disait que la société issue de la fusion est une entité distincte et que les sociétés fusionnantes cessent d'exister. Il a ensuite cité un passage tiré d'une décision rendue par la Cour d'appel de l'Ontario, dans l’arrêt Stanward Corporation c. Denison Mines Ltd., [1966] 2 O.R. 585, où le juge Kelly avait dit que [traduction] « les compagnies nées de la fusion ne constituent pas une nouvelle compagnie mais continuent à subsister comme une seule » et il a déclaré souscrire aux observations du juge Kelly.
+[10] Le paragraphe 1100(2) du Règlement de l'impôt sur le revenu prévoit que la FNACC doit être diminuée d'un montant égal à la moitié de l'excédent du coût d'un bien acquis au cours de l'année sur le montant inclus dans le calcul de la FNACC à l'égard de la disposition d'un bien. En l’espèce, la FNACC (avant l'application de la réduction envisagée par cette disposition) sera ‑768 670 + 714 607 = ‑54 063 $. Étant que ce montant est négatif, aucune DPA ne sera accordée pour l'année.
+[11] Étant donné que cette catégorie a été créée après la fusion, aucun montant n'aura été demandé par Delta ou par First Heritage pour l'amortissement à l'égard de cette catégorie. Par conséquent, cette décision n'aura pas d'incidences sur la déduction pour amortissement récupérée.
+[12] Étant donné que cette catégorie a été ajoutée après la fusion, cette décision n'aura pas d'incidence sur la DPA accordée et le taux effectif de la DPA n'est donc pas pertinent.

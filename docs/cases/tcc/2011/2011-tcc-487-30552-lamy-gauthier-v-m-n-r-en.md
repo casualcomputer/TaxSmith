@@ -1,0 +1,237 @@
+---
+title: "Lamy Gauthier v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30552/index.do"
+last_modified: "2011-10-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 487"
+citation2: ""
+neutral_citation: "2011 TCC 487"
+decision_date: "2011-10-18"
+language: "en"
+item_id: "30552"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7293
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:13:32.139000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f0224f4c5d876f88893c5580714a63a3a648921d7a308a7393cd196e28c1b934"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lamy Gauthier v. M.N.R.
+
+- Citation: 2011 TCC 487
+- Decision date: 2011-10-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7293, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lamy Gauthier v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-18
+Neutral citation
+2011 TCC 487
+File numbers
+2010-1263(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2010‑1263(EI)
+BETWEEN:
+DIANE LAMY GAUTHIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+9146-9379 QUÉBEC INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 12, 2011, at Montréal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Gilbert Nadon
+Counsel for the Respondent:
+Anne Poirier
+Mathieu Tanguay (articling student)
+Counsel for the Intervener:
+Gilbert Nadon
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act (the "Act") is dismissed on the basis that the work done by the Appellant, Diane Lamy Gauthier, for the company 9146-9379 Québec Inc. (the "Payor"), from April 3, 2009, to September 14, 2009, was not insurable employment within the meaning of the Act.
+The decision of the Minister of National Revenue dated January 6, 2010, is therefore confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, on this 18th day of October 2011.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 25th day of November 2011.
+Michael Palles, Translator / Language Adviser
+Citation: 2011 TCC 487
+Date: 20111018
+Docket: 2010‑1263(EI)
+BETWEEN:
+DIANE LAMY GAUTHIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+9146-9379 QUÉBEC INC.,
+Intervener.
+REASONS FOR JUDGMENT
+Tardif J.
+[1] The issue to be decided is whether the Appellant, Diane Lamy Gauthier, was engaged in insurable employment from April 3, 2009, to September 14, 2009, for 9146-9379 Québec Inc. (the "Payor"), a corporation whose sole director and shareholder was her spouse, Louis Gauthier.
+[2] Upon investigation, the respondent found that the employment in question was not insurable because of the exclusion provided for under the Employment Insurance Act (the "Act").
+[3] In rendering his decision, the respondent relied on the assumptions of fact set out at subparagraphs 5(a), (b) and (c) and 6(a) through (y) inclusively of the Reply to the Notice of Appeal and the Reply to the Notice of Intervention:
+[translation]
+5. The Appellant and the Payor are related persons with the meaning of the Income Tax Act because
+(a) the Payor's sole shareholder was Louis Gauthier;
+(b) the Appellant has for the last 32 years been the lawful spouse of the Payor's sole shareholder;
+(c) the Appellant is related by marriage to a person who controls the Payor;
+6. The Minister determined that the Appellant and the Payor were not dealing with each other at arm's length in the context of this employment. The Minister was satisfied that it was not reasonable to conclude that the Appellant and the Payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, in light of the following facts:
+(a) the Payor was incorporated on September 22, 1994;
+(b) the Payor specializes in the sharpening and sale of blades of all types;
+(c) the Payor's activities are carried out year round;
+(d) the Payor is known by the name of Centre d'aiguisage professionnel;
+(e) the Payor's clientele consists of regular customers, such as woodworkers or door and window companies, who require the Payor's services on a weekly basis, and customers who stop by the shop to have their tools or skates sharpened;
+(f) the Payor has nearly a hundred regular customers and does business with five or six suppliers;
+(g) the Payor's income for the fiscal year ending December 31, 2008, totalled $231,506;
+(h) the Payor hired five employees during the period at issue, namely, the shareholder, the Appellant, their son and two other employees at arm's length from the Payor;
+(i) the Appellant had a banking power of attorney requiring only one signature to act on behalf of the Payor;
+(j) the Appellant had been taking care of the Payor's bookkeeping since the Payor was incorporated in 1994 and had not received any compensation for doing so;
+(k) the Appellant has been working for the Shawinigan Tax Centre on a casual basis for several years and therefore qualifies for Employment Insurance benefits each year;
+(l) the year of the period at issue, the Appellant had not accumulated enough hours to qualify for Employment Insurance benefits;
+(m) the Appellant therefore asked the Payor to compensate her, starting April 3, 2009, for the bookkeeping work she had been doing for the company since 1994 without compensation;
+(n) the Appellant took care of the accounts payable and receivable, the general ledger, the cash receipts and disbursements journal, bank deposits, invoicing, goods and services price checks and the documentation for the accountant who prepares the annual financial statements;
+(o) the Appellant did not have a set work schedule;
+(p) the Appellant did not keep track of the hours she worked;
+(q) the Appellant was paid an hourly wage of $20;
+(r) according to the payroll records, the Appellant worked four hours a week the first three weeks of the month and six hours a week the last week of the month;
+(s) the Appellant was paid in cash;
+(t) on September 14, 2009, the Appellant asked the Payor to give her a Record of Employment so that she could make a claim for Employment Insurance benefits, having accumulated enough hours of work;
+(u) the Payor did not pay the Appellant her 4% when it issued the Record of Employment;
+(v) a worker at arm's length would not have agreed to work for free;
+(w) on September 15, 2009, the Payor gave the Appellant a Record of Employment stating April 3, 2009, as first day worked and September 14, 2009, as last day of work;
+(x) the Appellant's period of employment does not correspond to the Payor's real needs, since her bookkeeping work is essential to the smooth operation of Payor;
+(y) both before and after she was hired, the Appellant performed bookkeeping work for the Payor, without compensation;
+[4] The facts at subparagraphs 5(a), (b) and (c) and 6(b), (c), (d), (f), (g), (h) (i), (j), (q), (r), (t), (u) and (w) are admitted. As regards the facts at subparagraphs 6(a), (e), (k), (n), (o), (p) and (s), they are also admitted; however, the Appellant and the Intervener reserve the right to add clarifications. As regards the remaining subparagraphs, namely, 6(l), (m), (v), (x) and (y), the facts set out therein are denied.
+[5] The exclusion relied on by the Respondent in his decision is provided for at paragraph 5(2)(i) of the Act, which reads as follows:
+5(2) Excluded employment – Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[6] However, in this same section, Parliament provided that the exclusion could be set aside if parties dealing with each other at arm's length would have entered into a substantially similar contract of employment.
+[7] In other words, Parliament has granted the Respondent discretion to assess all the facts relevant to the work at issue, including compensation, duration and conditions, and determine whether or not the employment is insurable. The statutory provisions in question read as follows:
+5(3) Arm's length dealing – For the purposes of paragraph (2)(i):
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act;
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[8] A number of Federal Court of Appeal decisions have noted that the Court cannot quash a discretionary decision unless it is proved on a balance of probabilities that the exercise of discretion was tainted by an error or a breach, or that it was simply unreasonable because the decision maker either failed to consider relevant evidence or considered evidence that was not relevant.
+[9] If the Minister correctly and reasonably assessed all the relevant facts, the Court cannot quash his decision, even if the Court could have arrived at a different conclusion. The analysis must concern not only the work having led to the determination under appeal, but also all the facts brought to light at trial; unlike the investigation that preceded the determination, a court hearing provides a body of a more comprehensive and nuanced body of evidence, the witness having prepared themselves to present all of the facts they deem to be significant.
+[10] On this point, the two judgements most often cited, namely, Légaré v. Canada (Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878, 246 N.R. 176, and Pérusse v. Canada (Minister of National Revenue - M.N.R.), [2000] F.C.J. No. 310, 261 N.R. 150, have the following to say. In Légaré, Justice Marceau wrote the following:
+4 The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+. . .
+12 I have just said that in our view, these facts by themselves do little to explain and support the response of the Minister or his representative. Under the Unemployment Insurance Act, excepted employment between related persons is clearly based on the idea that it is difficult to rely on the statements of interested parties and that the possibility that jobs may be invented or established with unreal conditions of employment is too great between people who can so easily act together. And the purpose of the 1990 exception was simply to reduce the impact of the presumption of fact by permitting an exception from the penalty (which is only just) in cases in which the fear of abuse is no longer justified. From this perspective, after identifying the true nature of the employment, the importance of the duties and the reasonableness of the compensation, it is difficult in our view to attach the importance the Minister did to the facts he relied on to exclude the application of the exception. It is the essential elements of the employment contract that must be examined to confirm that the fact the contracting parties were not dealing with each other at arm's length did not have undue influence on the determination of the terms and conditions of employment. From this standpoint, the relevance of the facts relied on, even without further detail, seems very questionable. And there is no need to go any further. While the facts relied on might legitimately leave sufficient doubt with respect to an objective basis for the conditions of the applicants' employment contract, placing these facts in the context of the evidence adduced before the Tax Court of Canada - evidence which was almost completely accepted by the Tax Court judge - only serves to highlight the unreasonableness of the Minister's initial conclusion. It was in fact clearly explained and established that the applicants' salary was higher than the minimum wage the other employees received because of the responsibility involved in the duties they performed and that that was the prevailing salary in the industry for similar jobs; it was clearly explained and established that the shareholders had decided to reduce the salary normally due to them to provide for the financial support and development of the business; it was clearly explained and proven that a tornado had destroyed a large number of the buildings of the business in 1994, [sic] which led to a period of confusion, and then reconstruction and financial difficulties; last, it was explained and proven that the presence of the children of one of the applicants on the land around the greenhouses was very unlikely to affect the performance of her duties and the provision of the services she agreed to provide.
+[11] In Pérusse, Justice Marceau wrote the following:
+14 In fact, the judge was acting in the manner apparently prescribed by several previous decisions. However, in a recent judgment this Court undertook to reject that approach, and I take the liberty of citing what I then wrote in this connection in the reasons submitted for the Court:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+15 The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[12] At the trial, the key figures, namely, the employee and the employer's agent, were present and testified. They validate the vast majority, if not all, of the assumptions of fact.
+[13] In essence, the question that the Court must ask is the following: Were the facts that were taken into account and relied upon in the decision under appeal real, correctly analyzed and judiciously considered, such that it could be concluded that, in the circumstances, the decision was appropriate and reasonable in light of the assessment of the evidence submitted to the Court? If so, this Court has no jurisdiction to vary the determination under appeal.
+[14] The evidence showed that the Appellant had worked for her spouse's sharpening business on a volunteer basis since the 1990s.
+[15] In addition to her volunteer work for her spouse's business, the Appellant worked each year at the Taxation Data Centre for periods varying from one year to the next. She generally worked there long enough to be entitled to receive Employment Insurance benefits.
+[16] The Appellant stated that the work performed on a volunteer basis for her spouse's business was insignificant, usually four hours per week or six hours in the last week of the month when closing the entries. The Appellant stated that her spouse had previously hired someone to look after the administration and bookkeeping but had concluded that there was not enough work to justify it.
+[17] The Appellant explained that she performed all of the administrative and bookkeeping duties. He spouse stated that he knew nothing about these duties, did not like doing them, hated anything to do with paperwork and trusted his spouse completely, thus confirming the important role she played.
+[18] The Appellant, her spouse and Ms. Patry, the appeals officer, gave very different estimates of the number of hours worked per week. The Appellant reported four hours worked per week, except for the last week of the month, when she instead worked six hours.
+[19] On this point, Mr. Gauthier stated that he found that his spouse's estimates were often too low, given that she did all of the administrative and bookkeeping work, and he repeated that he took no interest in this aspect of his business. The appeals officer, however, held that the Appellant must have been working a minimum of 10 hours per week.
+[20] As regards compensation, the work was always done on a volunteer basis until the Appellant expressed her frustration and dissatisfaction. Having been deeply affected by the death of her mother, whom she supported for a long time before her death, she allegedly became aware of how important her contribution to her spouse's business was. She then began to feel increasingly uncomfortable with the fact that she was not being compensated and decided that this was unfair. This allegedly put considerable strain on the couple's relationship.
+[21] All of these events caused her a variety of problems, among others, a certain degree of frustration regarding the recognition of her work for her spouse. She submitted that from that moment on, she had insisted on being compensated.
+[22] She therefore began being paid for the work she had previously always done for free.
+[23] She stated that her hourly wage, set at $20 an hour, was paid to her in cash for a certain period, then by cheque, after an audit was done.
+[24] The Appellant also stated that Employment Insurance benefits was an ongoing topic of discussion with colleagues at the Taxation Data Centre who were in the same situation. She added that many of them also had two jobs.
+[25] In 2009, for reasons unknown, the Appellant was laid off by the Taxation Data Centre. The Record of Employment issued to her reported 489 hours worked. However, this was not enough to entitle her to Employment Insurance benefits.
+[26] She therefore acted very quickly to obtain a second Record of Employment, this one attesting to 110 paid hours worked for her spouse's business, thus entitling her to benefits. The total number of hours worked barely exceeded the minimum required to be entitled to Employment Insurance benefits.
+[27] According to the Appellant, the second Record of Employment reflected the hours she had already worked and been paid for, given that the change in her work relationship had already taken place. In other words, the Appellant had already worked these hours and had been paid for them in cash.
+Ms. Patry
+[28] Ms. Patry, the appeals officer responsible for handling the Appellant's appeal, explained that she carried out her investigation through telephone conversations with the Appellant and her spouse. She went over the usual questions and at the end of the conversations asked if there was anything to add. The Appellant never mentioned the reasons behind the change regarding compensation. Only her spouse referred to this issue, albeit vaguely.
+[29] Among other things, Ms. Patry discovered discrepancies in the number of hours worked, first on a volunteer basis and then for cash. She also considered the number of hours and the importance of the duties performed.
+[30] She also noted in her report that, coincidently, the Appellant started being paid in cash for her work around the very same time the second Record of Employment was filed, in the days following the response to the effect that the Appellant had not worked enough hours at the Taxation Data Center to be entitled to Employment Insurance benefits.
+Analysis
+[31] The Appellant is a well-organized and disciplined person who clearly has above-average knowledge of the qualification requirements for Employment Insurance benefits.
+[32] She worked in the Taxation Data Centre, a place where there seems to be a keen interest in the question of the insurability of jobs performed by casual workers.
+[33] Surprisingly, when she was asked specific questions about essential facts regarding such important subjects as her duties and the number of hours worked, the Appellant became extremely vague and evasive. Her hesitations stand in stark contrast to other portions of her testimony, which were very specific.
+[34] I attach very little credibility to the Appellant's explanations regarding the importance of her duties to her spouse's business and find her not to be credible on the number of hours worked to carry out the duties she was responsible for. The number of hours worked is a very important issue in this case, since the Act allows individuals to work a certain number of hours without this affecting their Employment Insurance benefits. However, the Appellant has been working at the Taxation Data Centre for many years, on and off, on a casual basis, which no doubt allowed her to receive Employment Insurance benefits.
+[35] For this reason, the Appellant deliberately tried to play down the importance of her work, since she appears to have received Employment Insurance benefits during the years prior to the period at issue and no doubt expects to be entitled to them again in the future.
+[36] Clearly, the reason given to explain why she started being paid, on the advice of an expert, to smooth over her business relationship with her spouse, elicits sympathy.
+[37] This is the Appellant's basic argument, with her counsel even referring to this explanation as the [translation] "heart of the matter". However, I find it totally implausible that the Appellant failed to raise this in her conversation with the appeals officer, particularly since the Appellant had specialized knowledge of the conditions to be met to receive Employment Insurance benefits.
+[38] The appeals officer did indeed note this fact, the information coming however not from the Appellant, but from her spouse. The officer made specific mention of this in her investigation report.
+[39] The Appellant emphasizes this aspect, concluding that this is a significant and determinative error in the handling of her appeal. She states that the appeals officer's finding is essentially based on errors and wholly invalid speculation.
+[40] The appeals officer's testimony demonstrated showed that she had uncovered a certain number of inconsistencies in the explanations, particularly regarding the number of hours worked on a volunteer basis for a very long period, then paid in cash at the time of the period audited and by cheque after the audit.
+[41] Apart from the changes in how the work was compensated, she also noted discrepancies between the number of hours reported by the Appellant and her spouse's estimate. The difference between the two estimates may seem marginal, but there is nevertheless a difference, up to double the amount.
+[42] If the work performed by the Appellant on a volunteer basis was really so insignificant, then why did she have to seek the help of a psychologist to deal with the deep frustration that was jeopardizing her relationship with her spouse? It would be a completely different situation if the Appellant was working much more, to the point of actually being responsible for the company's administration and bookkeeping, an important, even essential, responsibility in the management of a company. It is easy to imagine that such a contribution could lead to deep frustration if everything were done for free. Thus, everything turns on the importance of the work.
+[43] The company operated year round and engaged in a wide variety of activities clearly requiring more than four hours of bookkeeping and administrative work a week.
+[44] The appeals officer also expressed some scepticism regarding the importance of the Appellant's work. This scepticism is completely legitimate and appropriate, not to mention justified by the explanation of the Appellant herself and validated by the testimony of spouse.
+[45] Indeed, the appeals officer's impression was confirmed by the Appellant herself when she stated that the company had hired a secretary for a time but had to let her go because there was not enough work.
+[46] This alone illustrates rather eloquently that the administrative work and bookkeeping work evidently took more than four hours a week. Why would a company hire a secretary for a task requiring only four hours of work a week? Granted, the Appellant might be efficient and highly experienced, but to go from this to concluding that hiring someone was justified is quite a stretch. There is a major difference between four hours of work and a full-time workload of 30 hours a week; the truth probably lies somewhere in between.
+[47] Moreover, the evidence showed that the Appellant could be expected to take calls, help customers at the counter, make bookkeeping entries, write up monthly reports, prepare all the documentation and year-end information so that the accountant could close the accounts, look after the debts, do the accounts, handle the payroll, check invoices against orders, make sure administrative documents were in order, pay certain employees in cash, including her son and herself for a certain period, and so on.
+[48] The Appellant stated that Ms. Patry made a fundamental error because she did not expressly mention that she began being compensated for the work previously done on a volunteer basis after she started seeing a psychologist.
+[49] However, the Appellant never gave this explanation at the interview, whereas it was given a great deal of attention in her testimony. Furthermore, the appeals officer did in fact state that Mr. Gauthier had mentioned this explanation but had not given it the same significance as the Appellant did at the hearing.
+[50] The Appellant tried to put the blame on the appeals officer, stating that the question had not been raised. This is a fair observation, since the appeals officer is in fact supposed to ask all relevant questions in order to make an accurate analysis. However, this factor is a highly individual and personal one.
+[51] Moreover, the Appellant became withdrawn several times, indicating her unease with personal questions, while other times she jumped at the chance to level some very harsh criticism against her spouse.
+[52] To conclude on this issue, I find that the criticism of the appeals officer is baseless, particularly since the Appellant has and had a solid knowledge of the conditions that had to be met to be entitled to Employment Insurance benefits. She could have given a full, highly detailed explanation in confidence, a telephone conversation obviously being a more appropriate forum than a public trial, where certain unflattering details regarding her spouse were brought out.
+[53] The Appellant also placed a lot of emphasis on consistency, arguing that the appeals officer was unable to cast doubts on certain written documents prepared by the employer.
+[54] The Appellant's argument could have succeeded if the documents had been prepared by a disinterested third party. However, the Appellant herself had clearly prepared the documents in question, so her argument does not have the weight she ascribes to it.
+[55] In light of the evidence, I have found nothing that might discredit the Respondent's investigation and analysis, which were validated by the evidence submitted in court. I therefore find the Respondent's determination to be entirely reasonable and consistent with the facts and explanations compiled in the course of the investigation.
+[56] For all these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, on this 18th day of October 2011.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 25th day of November 2011.
+Michael Palles, Translator / Language Adviser
+CITATION: 2011 TCC 487
+COURT FILE NO.: 2010-1263(EI)
+STYLE OF CAUSE: DIANE LAMY GAUTHIER v. MNR
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: July 12, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: October 18, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Gilbert Nadon
+Counsel for the Respondent:
+Anne Poirier
+Mathieu Tanguay (articling student)
+Counsel for the Intervener:
+Gilbert Nadon
+SOLICITORS OF RECORD:
+For the Appellant and the Intervener:
+Name: Gilbert Nadon
+Firm: Ouellet, Nadon et associés
+Montréal, Quebec
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

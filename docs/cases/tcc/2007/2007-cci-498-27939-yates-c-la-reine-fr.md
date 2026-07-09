@@ -1,0 +1,230 @@
+---
+title: "Yates c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27939/index.do"
+last_modified: "2007-08-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 498"
+citation2: ""
+neutral_citation: "2007 CCI 498"
+decision_date: "2007-08-27"
+language: "fr"
+item_id: "27939"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1722
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:22:32.501000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "15a39911b091b7735d657aebf6293d416bf2e76e807b1f448d678f609369ea32"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Yates c. La Reine
+
+- Citation: 2007 CCI 498
+- Decision date: 2007-08-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1722, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yates c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-27
+Référence neutre
+2007 CCI 498
+Numéro de dossier
+2005-1970(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1970(IT)G
+ENTRE :
+DEBRA YATES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 14 mai 2007, à Windsor (Ontario).
+Devant : L'honorable juge C. H. McArthur
+Comparutions :
+Avocat de l'appelante :
+Me David M. McNevin
+Avocat de l'intimée :
+Me Steven D. Leckie
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des nouvelles cotisations établies en application de l'article 160 de la Loi de l'impôt sur le revenu, dont les avis sont datés du 13 septembre 2004 et portent les numéros 33054, 33055 et 33056, sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 27e jour d'août 2007.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 10e jour d'octobre 2008.
+Yves Bellefeuille, réviseur
+Référence : 2007CCI498
+Date : 20070827
+Dossier : 2005-1970(IT)G
+ENTRE :
+DEBRA YATES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Les présents appels sont interjetés à l'encontre de trois nouvelles cotisations établies par le ministre du Revenu national le 13 septembre 2004, en application du paragraphe 160(1) de la Loi de l'impôt sur le revenu. La question en litige est de savoir si l'appelante est tenue de payer 61 784 $ de la dette fiscale de son époux. Les questions précises à trancher sont de savoir s'il y a eu un transfert de biens de M. Yates, l'époux de l'appelante, à l'appelante, et si c'est le cas, s'il y a eu contrepartie suffisante donnée par l'appelante à M. Yates.
+[2] Les trois nouvelles cotisations concernent trois comptes bancaires. Dans l'ensemble, les faits à l'origine du litige ne sont pas contestés. Le problème qui se pose concerne les opérations effectuées dans les trois comptes bancaires.
+[3] Pendant toute la période en cause, M. Yates avait une dette fiscale non réglée de plus de 485 000 $. Le 23 décembre 2002, il a cédé à l'appelante son intérêt conjoint dans deux comptes bancaires. Ces comptes comprenaient ce qui était désigné comme le compte au Canada et le compte aux États‑Unis. Le compte au Canada était utilisé principalement pour les dépenses quotidiennes, et le compte aux États‑Unis était utilisé pour payer les dépenses afférentes à un condominium en Floride. Monsieur Yates a, en fait, transféré à l'appelante 4 972,30 $ et 2 406,45 $, soit son intérêt de 50 % dans chacun des comptes, peu importe son motif. J'arrive aisément à conclure qu'il y a eu un transfert sans contrepartie suffisante pour ces deux montants relativement minimes.
+[4] La question principale concerne le compte au Canada, mais seulement une fois que M. Yates a transféré son intérêt dans ce compte. À compter du 23 décembre 2002, et tout au long de 2003, l'appelante était le seul signataire autorisé et propriétaire du compte au Canada. Toutefois, du 2 janvier 2003 au 9 octobre 2003, M. Yates a déposé un total de 54 460,20 $ dans ce compte, alors qu'il avait une créance envers l'Agence du revenu du Canada.
+[5] Ce compte avait été utilisé pendant des années avant le 23 décembre 2002, tant par l'appelante que par M. Yates, pour payer les dépenses du ménage. C'était habituellement l'appelante qui s'occupait de ces dépenses. Entre le 23 décembre 2002 et le 31 octobre 2003, le total des dépenses du ménage établies par l'appelante est réparti ainsi :
+(i)
+hypothèque
+42 768,00 $
+(ii)
+taxes et services publics
+24 032,17 $
+(iii)
+nourriture
+8 141,18 $
+(iv)
+autres, divers
+22 807,18 $
+(v)
+factures VISA
+1 169,55 $
+(vi)
+espèces
+21 405,00 $
+(vii)
+transferts à la marge de crédit
+5 725,00 $
+(viii)
+économies GMAC
+25 200,00 $
+Total :
+151 248,08 $
+Le montant de 42 768 $ relatif à une hypothèque concernait un terrain à bâtir d'une valeur de 600 000 $[1]. Les économies de 25 200 $ étaient une réserve pour l'appelante pour les temps difficiles.
+[6] Jusqu'à l'automne 2003, M. Yates était propriétaire d'une entreprise de camionnage fructueuse connue sous la dénomination CJ Rush. De 1999 à 2002, il a gagné les revenus ci‑dessous :
+1999
+469 156 $
+2000
+553 751 $
+2001
+268 488 $
+2002
+963 433 $
+[7] L'appelante a elle aussi gagné d'importants revenus pendant cette période. Elle était propriétaire de la société International Tire Corporation, pour laquelle elle travaillait. Cette société fournissait des services à d'autres sociétés, dont CJ Rush. Ses revenus pour la période étaient d'environ :
+1999
+56 207 $
+2000
+121 116 $
+2001
+162 812 $
+2002
+131 762 $
+De fait, l'appelante aurait pu payer la majeure partie des dépenses du ménage avec ses propres revenus. Elle est propriétaire à elle seule de la maison conjugale d'environ 4 000 pieds carrés depuis 1989, et elle était également l'unique propriétaire du terrain d'une valeur de 600 000 $ acheté en 2000 et sur lequel elle et M. Yates avaient l'intention de bâtir leur nouvelle « maison de rêve ».
+[8] En octobre 2003, la Banque Royale du Canada, un des plus importants créanciers de CJ Rush, a déposé une requête en faillite contre la société. Monsieur Yates a déposé une cession en faillite personnelle le 16 février 2004. À ce jour, il demeure un failli non libéré.
+[9] L'intimée soutient que le retrait du nom de M. Yates des deux comptes bancaires et le versement d'argent dans le compte au Canada de l'appelante constituent des transferts de biens au sens du paragraphe 160(1) de la Loi et que l'appelante est responsable du paiement à l'ARC des montants transférés.
+[10] La position de l'appelante est qu'il n'y a pas eu de transfert d'argent et que les paiements qui ont été faits suivant l'obligation légale incombant à M. Yates de subvenir aux besoins de sa famille ne tombent pas sous le coup de l'article 160. L'avocat de l'appelante a également fait valoir qu'il n'y avait aucune preuve indiquant que M. Yates ou l'appelante étaient au courant de l'impôt qui était à payer au moment des présumés transferts.
+[11] L'article 160, dans la mesure où il est pertinent en l'espèce, est rédigé en ces termes :
+160(1) Lorsqu'une personne a [...] transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+a) son époux [...]
+les règles suivantes s'appliquent :
+[...]
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l'auteur du transfert doit payer en vertu de la présente loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n'est toutefois réputée limiter la responsabilité de l'auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[12] Il existe quatre conditions à remplir, en application du paragraphe 160(1)[2]. Cependant, en l'espèce, seulement deux de ces conditions font l'objet d'un litige :
+(i) il doit y avoir eu un transfert de biens;
+(ii) le bénéficiaire du transfert ne doit pas avoir donné de contrepartie à l'auteur du transfert (ou doit lui avoir donné une contrepartie insuffisante).
+[13] L'appelante soutient qu'il n'y a pas eu de transfert, mais que, si j'en venais à conclure qu'il y en avait effectivement eu un, alors une contrepartie suffisante a été donnée par l'appelante à M. Yates.
+[14] Je traiterai d'abord de la question du transfert. Le mot « transfert » a été défini dans la décision David Fasken Estate v. M.N.R.[3], où le président Thorson a précisé :
+[TRADUCTION]
+Le mot « transfert » n'est pas un terme de l'art et n'a pas un sens technique. Il n'est pas nécessaire qu'un transfert de biens par un mari en faveur de son épouse soit fait sous une forme particulière ni qu'il le soit directement. Il suffit que le mari agisse de façon à se départir des biens et les remettre à son épouse, c'est‑à‑dire transférer les biens de lui à elle. Les moyens d'arriver à cette fin, qu'ils soient directs ou non, peuvent être à juste titre appelés un transfert.
+Cette définition a été acceptée par la Cour au cours des dernières années, y compris dans la décision Tétrault c. La Reine[4] où, au paragraphe 39, le juge Archambault a affirmé :
+[...] pour qu'il y ait un transfert d'un bien aux fins des règles d'attribution, il est essentiel que l'auteur du transfert se soit départi de son droit de propriété et que le bien ait été dévolu au bénéficiaire. [...]
+[15] Cela établi, je conclus facilement qu'il y a eu un transfert des deux comptes conjoints. Il ressort de la preuve non contredite que M. Yates s'était départi de son intérêt d'une moitié dans les comptes conjoints lorsqu'il les avait cédés à son épouse, l'appelante, le 23 décembre 2002. Ensuite, de janvier 2003 à octobre 2003, M. Yates se départait de ses chèques de paie à la quinzaine pour les céder à l'appelante. Les chèques faits au nom de M. Yates étaient simplement remis à son épouse et étaient déposés dans le compte bancaire de son épouse. Cette dernière avait l'autorité complète sur le compte.
+[16] La question qui est plus difficile à trancher est celle de savoir si l'appelante a donné une contrepartie pour les transferts de M. Yates. La question se résume à savoir si les transferts en question ne visaient qu'à satisfaire à l'obligation légale de M. Yates de subvenir aux besoins de son épouse et de sa famille. Si c'est le cas, à ce moment‑là, dans certaines circonstances distinctes, la responsabilité prévue à l'article 160 ne s'applique pas aux paiements. Pour trancher en faveur de l'appelante, je dois être en mesure de conclure qu'elle a donné une contrepartie suffisante à M. Yates. Je suis du même avis que l'appelante en ce qui a trait à l'obligation légale de M. Yates de subvenir aux besoins de sa famille en application de la Loi sur le droit de la famille de l'Ontario. La différence la plus importante entre les observations de l'avocat de l'appelante et la jurisprudence actuelle est la latitude que l'on donne à l'obligation légale.
+[17] Il existe deux courants sur cette question de droit. Le premier, qu'adopte l'intimée, conclut que la contribution des époux aux charges du mariage est donnée sans contrepartie. Le deuxième courant veut que certains paiements faits d'un époux à l'autre dans le but de satisfaire à l'obligation légale de subvenir aux besoins de la famille ne tombent pas sous le coup de l'article 160.
+[18] Dans la décision Logiudice c. La Reine[5], le juge Bowie a affirmé, à la page 10 :
+Le mot « contrepartie », tel qu'il est utilisé dans le contexte de l'article 160 de la Loi, dans son sens ordinaire, signifie la contrepartie qu'une partie à un contrat donne à l'autre partie en échange du bien transféré. L'article 160 vise de toute évidence à empêcher les contribuables de se soustraire à leur obligation fiscale ainsi qu'aux intérêts et aux pénalités prévus par les dispositions de la Loi en plaçant les biens exigibles entre les mains de parents ou d'autres personnes avec lesquels ils ont un lien de dépendance, et donc hors de la portée immédiate du percepteur d'impôt. La disposition restrictive du sous-alinéa 160(1)e)(i) de la Loi vise à protéger les véritables opérations commerciales de l'application de la disposition, jusqu'à concurrence de la juste valeur marchande de la contrepartie donnée pour le bien qui a été transféré. Par conséquent, il est évident que pour que le bénéficiaire du transfert puisse se prévaloir de cette disposition protectrice, il doit être en mesure de prouver que le bien lui a été transféré conformément aux conditions d'une véritable entente contractuelle.
+[Non souligné dans l'original.]
+De plus, dans Tétrault c. La Reine[6], le juge Archambault a approuvé la conclusion tirée par le juge Bowie dans l'affaire Logiudice et a affirmé :
+[47] La contribution aux charges du mariage est, à mon avis, de la nature d'une donation par laquelle un bien est donné sans aucune contrepartie. Cette analyse de l'obligation familiale rejoint celle faite par le juge Mogan dans la décision Raphael, où il est dit « [c]es mêmes obligations familiales ne peuvent toutefois représenter une « contrepartie » au sens de l'article 160 [...] » (par. 27 de la décision).
+[19] J'accepte la deuxième position, soit celle voulant que certains paiements restreints couvrant certaines dépenses du ménage et faits par un conjoint qui est tenu de subvenir aux besoins de sa famille ne sont pas assujettis aux dispositions du paragraphe 160(1). À mon avis, ces dépenses devraient servir aux nécessités de la vie courante plutôt qu'à conserver un niveau de vie luxueux auquel on serait déjà habitué. Pour étayer son argument, l'appelante a cité les décisions suivantes : Michaud c. Canada[7], Ferracuti c. Canada[8], Laframboise c. Canada[9] et Ducharme c. Canada[10].
+[20] Dans la décision Michaud, l'ex‑conjoint de l'appelante payait l'hypothèque afin de s'acquitter de son obligation juridique de subvenir aux besoins de sa famille. Le juge Lamarre Proulx a tiré la conclusion à portée étroite selon laquelle lorsque des paiements hypothécaires sont faits par un conjoint en fonction de son obligation juridique de subvenir aux besoins de sa famille, il y a une « contrepartie » au sens du paragraphe 160(1). Le juge Lamarre Proulx a affirmé :
+Je suis d'avis que lorsque l'ex-conjoint de l'appelante a payé les charges hypothécaires de la maison familiale qui était la propriété de l'appelante, il ne faisait qu'exécuter une obligation légale soit celle de subvenir aux besoins de sa famille en lui procurant le logement dont elle avait besoin.
+[...] le paiement de l'emprunt hypothécaire fait sur la demeure familiale n'est pas de la nature d'un transfert de biens fait sans contrepartie valable s'il est en fait en exécution de l'obligation légale de pourvoir aux besoins de sa famille.
+[21] Dans la décision Laframboise, le ministre avait établi une cotisation de plus de 160 000 $ à l'égard de l'appelante en application de l'article 160. Ce montant représentait des dépôts faits par son conjoint dans son compte bancaire à elle. Le juge Dussault a réduit le montant de la cotisation et a conclu que 28,35 % des dépôts avait servi à payer des frais de subsistance qui n'étaient pas assujettis à une cotisation en application de l'article 160. La Cour a conclu que même si la propriété juridique du compte était passée d'un compte conjoint entre époux et épouse à un compte d'entreprise, les paiements en cause tirés du compte pour payer les dépenses du ménage ou les frais de subsistance ne tombaient pas sous le coup de l'article 160.
+[22] Dans la décision Ducharme, le ministre avait établi une cotisation de 61 878 $ à l'égard de l'appelante à la suite de transferts de biens faits par son conjoint de fait. Le juge Beaubier avait accueilli l'appel et adopté le raisonnement énoncé dans Michaud. La Cour a conclu que les paiements du conjoint étaient semblables à un loyer pour son utilisation du foyer conjugal. La Cour d'appel fédérale a confirmé cette décision sans discuter des diverses positions adoptées par la Cour canadienne de l'impôt dans des causes antérieures. La Cour d'appel fédérale a reconnu la valeur des services domestiques et a conclu, comme l'avait conclu le juge de première instance, que Mme Ducharme avait donné à son conjoint de fait une contrepartie supérieure à ce qu'elle a reçu.
+[23] Dans la décision Ferracuti, j'ai suivi une interprétation plus libérale du paragraphe 160(1) et j'ai conclu que l'obligation juridique d'un conjoint d'effectuer des paiements hypothécaires relatifs au foyer familial et d'assumer les frais de subsistance de base pour sa famille ne tombe pas sous le coup de l'article 160. Ces frais de subsistance ne sont pas sans contrepartie.
+[24] D'emblée, je tiens à éclaircir un commentaire que j'ai formulé dans la décision Ferracuti. Dans les plaidoiries des présents appels, on a beaucoup discuté de mon commentaire au paragraphe 18 de la décision Ferracuti, qui est rédigé en ces termes :
+Pour qu'il y ait transfert au sens de l'article 160 de la Loi, le transfert doit avoir été fait sans contrepartie de valeur. Il pourrait y avoir transfert de biens avec contrepartie de valeur, mais il ne s'agirait pas alors d'un transfert visé à l'article 160 de la Loi.
+[25] L'appelante a saisi ce commentaire et s'en est servi comme fondement pour sa plaidoirie dans laquelle elle soutient que, s'il y a eu une quelconque contrepartie pour la remise d'un bien, il n'y a pas eu de « transfert » au sens de l'article 160. Cela est inexact. Le libellé de l'article 160 énonce clairement que la responsabilité du bénéficiaire est égale à l'écart entre la valeur du bien transféré et la juste valeur marchande de la contrepartie donnée pour le bien. L'existence d'une contrepartie donnée par le bénéficiaire à l'auteur du transfert n'écarte pas l'application de l'article 160 au motif qu'on ne peut pas affirmer qu'un « transfert » a eu lieu. L'article 160 s'applique même si une contrepartie a été donnée, mais la responsabilité est limitée à l'écart de valeur.
+[26] Dans la décision Michaud, la Cour devait décider si l'article 160 s'appliquait aux paiements faits en exécution d'une obligation authentique, par exemple de fournir un hébergement à sa famille. La décision de la Cour dans cette affaire était étroite : le paiement de l'emprunt hypothécaire fait sur la demeure familiale n'est pas de la nature d'un transfert de biens fait sans contrepartie valable s'il est fait en exécution de l'obligation juridique de pourvoir aux besoins de sa famille.
+[27] Dans la décision Ferracuti, j'ai appliqué la conclusion tirée dans la décision Michaud à une situation où il n'y avait pas eu d'échec du mariage. Dans cette affaire‑là, l'appelante était une femme au foyer qui ne gagnait aucun revenu. Elle passait beaucoup de temps à s'occuper de leur fils aîné, qui avait été grièvement blessé dans un accident de voiture. Le foyer conjugal était à son nom à elle. Son époux dirigeait un groupe de sociétés et lui avait transféré certains montants. Quelques‑uns de ces montants avaient servi à payer l'hypothèque et les services publics pour la maison. Sur ces points‑là, les affaires Michaud et Ferracuti sont différentes quant aux faits.
+[28] L'appelante a affirmé qu'en raison de la conclusion que j'avais tirée dans Ferracuti, les dépenses du ménage ne peuvent faire l'objet de l'établissement d'une cotisation en application de l'article 160 parce qu'elles sont faites dans le but de répondre à une obligation juridique. De plus, l'appelante a fait valoir que toutes les dépenses du ménage, quelles qu'elles soient, se rangent dans cette catégorie et que ce n'est pas à la Cour d'examiner le caractère raisonnable de ces dépenses. L'appelante a cité la récente décision de la Cour d'appel de l'Ontario dans l'affaire Martin v. Martin[11], où la Cour a refusé de remettre en question les choix de mode de vie de familles à revenu élevé au moment d'établir la pension alimentaire pour conjoint.
+[29] Je conviens que le rôle de la Cour, en application de l'article 160, n'est pas d'analyser les factures d'épicerie d'un contribuable pour juger du caractère raisonnable des articles achetés. Chaque cas est un cas d'espèce. La Cour doit examiner la preuve présentée par le contribuable en ce qui a trait aux dépenses du ménage afin de trancher la question de savoir quelles dépenses, le cas échéant, sont des dépenses nécessaires au ménage qui doivent être exclues de la portée de l'article 160. Je tiens à le préciser, parce que l'article 160 est un outil de recouvrement d'une grande portée. Il a déjà été décrit comme étant une mesure draconienne, et c'est d'ailleurs ce que visait le législateur lors de sa rédaction. Par conséquent, les exceptions à la portée de cette disposition sont limitées. Dans Ferracuti, j'ai essayé de déterminer quelles dépenses avaient été faites dans le but de satisfaire à l'obligation juridique d'une personne de subvenir aux besoins de sa famille.
+[30] De plus, dans Ferracuti, j'ai précisé que cette obligation juridique ne comprenait pas les dépenses relatives aux factures de téléphone, de câblodistribution et d'entretien de la pelouse. Il s'agit là d'une précision importante. En l'espèce, l'appelante essaie d'étendre la politique établie dans Michaud et les décisions subséquentes bien au‑delà des conclusions tirées initialement. L'appelante a déposé des éléments de preuve indiquant des dépenses du ménage pour la période du 23 décembre 2002 au 31 octobre 2003 s'élevant à 151 248,08 $. De ce montant, 42 768 $ ont servi à payer l'hypothèque d'un deuxième bien‑fonds et 25 200 $ ont été versés dans un compte d'épargne. Les montants demandés sont non seulement déraisonnables, ils sont absurdes. Ils ne correspondent pas aux dépenses essentielles prévues dans les causes précitées. En ce qui concerne le reste des dépenses du ménage, soit 83 280,08 $, il est ressorti de la preuve qu'il s'agissait entre autres de factures de téléphone, de factures de câblodistribution, de factures pour l'entretien de l'immeuble et de la pelouse, de dépenses pour de l'alcool, pour des soins de beauté, pour les services publics du deuxième bien‑fonds, ainsi que de divers retraits d'argent qui auraient entre autres pu servir à payer des frais relatifs au condominium situé en Floride et dont l'appelante est propriétaire. Il se pourrait que ce montant représente des dépenses essentielles du ménage. Je ne crois pas que l'appelante avait de la difficulté à assumer toutes ces dépenses. En 2003, elle a gagné 117 788 $. Je ne peux pas accepter qu'elle était incapable d'assumer les dépenses du ménage avec ses propres revenus. L'époux de l'appelante devait un important montant d'argent en impôt impayé à l'ARC, et il avait fait faillite, ce qui avait probablement éliminé son impôt à payer. Il est absurde de ne pas tenir compte du ministre du Revenu national dans le but d'avoir un mode de vie luxueux. La présente cause n'est pas du tout une cause en matière de division des biens matrimoniaux. Pour cette seule raison, on ne peut pas conclure que les chèques de paie de M. Yates étaient nécessaires pour couvrir les dépenses du ménage.
+[31] Les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 27e jour d'août 2007.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 10e jour d'octobre 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2007CCI498
+N° DE DOSSIER : 2005-1970(IT)G
+INTITULÉ : DEBRA YATES et SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Windsor (Ontario)
+DATE DE L'AUDIENCE : Le 14 mai 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge C. H. McArthur
+DATE DU JUGEMENT : Le 28 août 2007
+COMPARUTIONS :
+Avocat de l'appelante :
+Me David M. McNevin
+Avocat de l'intimée :
+Me Steven D. Leckie
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Me David M. McNevin
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il y avait, sur le terrain, une petite maison qui n'avait pas une très grande valeur pour l'appelante et son époux.
+[2] Raphael c. Canada, 2002 D.T.C. 6798, 2002 CAF 23, paragraphe 4. Lorsqu'il a énoncé les quatre conditions issues de l'article 160 dans l'arrêt Raphael, le juge Mogan a fait un renvoi à l'arrêt Doreen Williams c. La Reine, no 98‑1604(IT)G, 24 juillet 2000, 2000 D.T.C. 2340, dans lequel la Cour d'appel fédérale renvoyait à ces quatre conditions et les approuvait.
+[3] [1948] R.C.É. 580.
+[4] 2004 CCI 332, 2004 D.T.C. 2763.
+[5] no 94‑602(IT)G, 29 juillet 1997, 97 D.T.C. 1462.
+[6] 2004 CCI 332, [2004] A.C.I. n° 265.
+[7] no 97‑1312(IT)G, 13 août 1998, [1998] A.C.I. n° 908.
+[8] no 96‑770(IT)G, 2 octobre 1998, [1998] A.C.I. n° 883.
+[9] no 1999‑3800(IT)G, 29 novembre 2002, [2002] A.C.I. n° 628.
+[10] no 2002‑2058(IT)G, 28 mai 2004, [2004] A.C.I. n° 284; 2005 CAF 137, [2005] A.C.F. n° 713.
+[11] 272 D.L.R. (4th) 666.

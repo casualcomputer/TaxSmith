@@ -1,0 +1,232 @@
+Title: Mazerolle c. Ressources Humaines
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28283/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-586-28283-mazerolle-c-ressources-humaines-fr.md
+Document type: case_law
+Last modified: 2007-10-16
+
+# Mazerolle c. Ressources Humaines
+
+- Citation: 2007 CCI 586
+- Decision date: 2007-10-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1867, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mazerolle c. Ressources Humaines
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-16
+Référence neutre
+2007 CCI 586
+Numéro de dossier
+2003-2695(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2003-2695(EI)
+ENTRE :
+GUY MAZEROLLE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 6 septembre 2007, à Bathurst (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me Basile Chiasson
+Avocat de l'intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel de la décision du ministre du Revenu national à l'effet que l’appelant occupait un emploi exclu, au sens du sous‑alinéa 5(2)i) de la Loi sur l’assurance‑emploi, auprès de Les Entreprises J.G.M. Inc., pour les périodes du 13 décembre 1999 au 16 septembre 2000, du 16 octobre 2000 au 8 septembre 2001 et du 1er octobre 2001 au 23 août 2002, est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour d’octobre 2007.
+« François Angers »
+Juge Angers
+Référence : 2007CCI586
+Date : 20071016
+Dossier : 2003-2695(EI)
+ENTRE :
+GUY MAZEROLLE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’un appel d’une décision du ministre du Revenu national (le « ministre ») en date du 16 juin 2003 selon laquelle l’emploi de l’appelant chez Les Entreprises J.G.M. Inc. (la « payeuse ») au cours des périodes du 13 décembre 1999 au 16 septembre 2000, du 16 octobre 2000 au 8 septembre 2001 et du 1er octobre 2001 au 22 août 2002 n’était pas un emploi assurable au sens de la Loi sur l’assurance-emploi (la « Loi ») au motif que l’appelant et la payeuse avaient entre eux un lien de dépendance au sens du sous‑alinéa 5(2)i) de ladite Loi.
+[2] En prenant sa décision, le ministre s’est basé sur les hypothèses de fait suivantes lesquelles ont d’ailleurs été admises par l’appelant à l’exception de quatre. Les hypothèses admises sont les suivantes:
+a) la payeuse est une personne morale incorporée le ou vers le 3 avril 1991;
+b) l’unique actionnaire de la payeuse est Joanne Mazerolle l’épouse de l’appelant;
+c) l’entreprise de la payeuse consiste en une franchise « Batteries Experts » et en la vente et service de batteries, alternateurs, générateurs, démarreurs, systèmes d’alarme; la payeuse offre aussi des services de soudure et de décapage à la sableuse, sous l’eau;
+d) l’entreprise de la payeuse fonctionne à l’année avec des périodes de pointe qui correspondent aux saisons de pêche;
+f) les ventes brutes de la payeuse pour les années en litige étaient les suivantes :
+2000
+2001
+2002
+janvier
+7 664,72 $
+6 629,47 $
+6 584,43 $
+février
+17 284,45 $
+4 922,45 $
+5 709,68 $
+mars
+12 568,46 $
+4 996,72 $
+18 371,96 $
+avril
+14 354,05 $
+17 059,69 $
+31 186,27 $
+mai
+16 200,17 $
+17 057,15 $
+24 043,12 $
+juin
+7 412,40 $
+10 440,87 $
+7 972,16 $
+juillet
+7 631,76 $
+6 890,62 $
+8 074,58 $
+août
+15 045,81 $
+18 131,02 $
+10 726,80 $
+septembre
+12 108,59 $
+5 607,99 $
+5 053,80 $
+octobre
+12 574,05 $
+5 357,52 $
+novembre
+7 675,17 $
+7 915,10 $
+décembre
+3 859,17 $
+7 202,05 $
+g) l’appelant est électricien et possède un brevet de plongée sous-marine;
+h) les tâches de l’appelant pendant les périodes en litige consistaient en la gérance des opérations : il était le spécialiste pour l’identification et la réparation des troubles électriques des bateaux, il distribuait les tâches aux autres techniciens, voyait au bon fonctionnement de l’atelier, faisait les achats et la vente ainsi que les réparations;
+i) l’appelant recevait une paye hebdomadaire de 15,60 $ l’heure pour 50, 55 ou 60 heures selon les semaines;
+j) pendant les années en litige, l’appelant était inscrit au registre de paye de la payeuse à chaque mois pendant le nombre de semaines qui suit :
+2000
+2001
+2002
+janvier
+1 sem. de 50 heures
+0 sem.
+0 sem.
+février
+2 sem. de 50 heures
+0 sem.
+0 sem.
+mars
+4 sem. de 50 heures
+0 sem.
+1 sem. de 50 heures
+1 sem. de 60 heures
+avril
+4 sem. de 50 heures
+1 sem. de 60 heures
+2 sem. de 50 heures
+1 sem. de 60 heures
+4 sem. de 60 heures
+mai
+4 sem. de 60 heures
+4 sem. de 60 heures
+4 sem. de 60 heures
+juin
+1 sem. de 50 heures
+1 sem. de 60 heures
+3 sem. de 60 heures
+2 sem. de 50 heures
+3 sem. de 60 heures
+2 sem. de 50 heures
+juillet
+0 sem.
+1 sem. de 60 heures
+1 sem. de 55 heures
+3 sem. de 50 heures
+août
+2 sem. de 60 heures
+1sem. de 60 heures
+1 sem. de 50 heures
+2 sem. de 50 heures
+septembre
+3 sem. de 60 heures
+1 sem. de 60 heures
+octobre
+1 sem. de 50 heures
+1 sem. de 60 heures
+1 sem. de 60 heures
+novembre
+1 sem. de 50 heures
+0 sem.
+décembre
+3 sem. de 50 heures
+1 sem. de 50 heures
+n) l’appelant et la payeuse sont des personnes liées au sens de la Loi de l’impôt sur le revenu;
+o) l’appelant et la payeuse ont entre eux un lien de dépendance;
+[3] Les hypothèses niées sont les suivantes:
+e) 80% de la clientèle de la payeuse sont des pêcheurs et les réparations sont sur leurs bateaux;
+k) l’appelant accomplissait des tâches pour la payeuse à l’année même à l’extérieur des semaines inscrites au registre de paye;
+l) l’appelant n’était pas rémunéré pour toutes ses heures de travail;
+m) les fins d’emploi de l’appelant ne correspondent pas réellement à un manque de travail pour l’appelant;
+[4] Il est donc admis que l’appelant et la payeuse sont des personnes liées. Il s’agit donc de déterminer si le ministre a correctement exercé sa discrétion en concluant que, compte tenu de toutes les circonstances, soit la rétribution versée, les modalités de l’emploi ainsi que la durée, la nature et l’importance du travail accompli, il n’était pas raisonnable de conclure que l’appelant et la payeuse auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu un lien de dépendance.
+[5] Les services rendus par l’entreprise de la payeuse sont principalement assurés par deux employés‑clés, soit l’appelant et monsieur Jean Paul Paulin. Il est arrivé à l’occasion à la payeuse de faire appel à d’autres employés, mais leur rôle n’est pas pertinent à la résolution du présent litige. La période de pointe à laquelle on réfère au paragraphe d) de la réponse à l’avis d’appel débute en mai et se termine à la fin septembre ou au début octobre. Il s’agit d’une succession de saisons de pêche et la grande majorité de la clientèle de la payeuse sont des pêcheurs. À cette période de pointe s’ajoutent quelques semaines en vue des préparatifs du début et des réparations de fin de saison.
+[6] Jean Paul Paulin est à l’emploi de la payeuse depuis le début des opérations. Il travaille avec l’appelant et les deux font le même travail. Il est diplômé du collège communautaire en électronique et, durant les deux premières périodes en question, il était considéré comme apprenti. Il ne sait pas ce qu’il en était pour la troisième année, mais le registre des salaires indique qu’il était toujours apprenti. Selon lui, l’épouse de l’appelant, qui est propriétaire de l’entreprise, s’occupe des questions administratives. Il travaille cinq jours par semaine et il est en disponibilité toutes les fins de semaine avec l’appelant. Tout comme ce dernier, il n’est pas rémunéré pour être en disponibilité, mais est payé s’il effectue du travail en fin de semaine. Il travaille normalement de 8 heures à 5 heures les jours de la semaine mais il travaille aussi souvent le soir. Il lui arrive de travailler seul mais, en saison, l’appelant travaille avec lui. Il fait des évaluations pour la payeuse sans qu’il lui soit nécessaire d’obtenir une approbation de la part de la payeuse. Il reçoit sa paie à chaque semaine en fonction des heures qu’il a travaillées. Tout comme l’appelant, il remet sa feuille de temps à la payeuse à chaque semaine.
+[7] Au moment de l’audience, il recevait 12,00 $ l’heure pour ses services. Cependant, en 2000, il était payé 8,50 $.Une augmentation de salaire a suivi dans les années subséquentes. S’il utilise son camion, la payeuse lui rembourse ses achats d’essence. La payeuse lui fournit également une carte de crédit depuis deux ou trois ans pour faire le plein du camion de la payeuse. En outre, elle lui fournit un téléphone cellulaire au cas où les clients ou la payeuse voudraient le rejoindre. Il considère que l’appelant est son patron quand il est là, mais que la conjointe de l’appelant est plus souvent la patronne.
+[8] Madame Joanne Mazerolle est présidente et unique actionnaire de la payeuse depuis qu’elle a été constituée en société en 1991. Elle occupe aussi un emploi à la Caisse populaire de Shippagan en tant que préposée aux services. L’atelier de la payeuse avoisine la résidence de l’appelant et de la payeuse. L’atelier est situé dans un local qui appartient à l’appelant et que la payeuse loue de ce dernier. Le prix du loyer n’a pas été mentionné et l’appelant ne déclare aucun revenu de location dans ses déclarations de revenu. L’inventaire, l’équipement et le camion sont, toutefois, la propriété de la payeuse. Des prêts ont été obtenus par la payeuse pour financer ces achats et elle dispose d’une marge de crédit. Madame Mazerolle s’occupait elle-même d’obtenir les prêts de la payeuse pour lesquels elle s’est portée garante. Il lui est arrivé à l’occasion d’emprunter de l’argent de particuliers pour assurer le bon fonctionnement de l’entreprise. Aucun détail sur ces prêts n’a cependant été dévoilé.
+[9] Madame Mazerolle a confirmé que les préparatifs ont lieu en avril et que la saison débute en mai et se termine à la fin septembre et parfois en octobre ou en novembre s’il faut rebâtir des pièces et achever certains travaux. L’appelant gère l’entreprise et agit à titre de technicien tout comme monsieur Paulin. Elle a témoigné qu’elle s’occupe elle-même de la tenue des livres et qu’elle prend les décisions s’il faut embaucher ou congédier des employés. Il est arrivé entre 1995 et 2002 pour la payeuse d’avoir plus de deux employés. À la question de savoir qui fixait les salaires, elle a répondu « un peu moi ». Elle prépare et signe les cessations d’emploi. Elle a déclaré que l’appelant et monsieur Paulin préparent des factures mais qu’elle prépare les dépôts et a affirmé que monsieur Mazerolle aussi en prépare. Selon madame Mazerolle, il est arrivé une fois à monsieur Paulin de préparer un dépôt. Elle a déclaré que l’appelant et monsieur Paulin sont payés pour chaque heure travaillée selon les feuilles de temps.
+[10] En 2000, le registre des salaires indiquait que l’horaire de travail de monsieur Paulin variait entre huit et 50 heures par semaine. J’ai constaté qu’il travaillait rarement le même nombre d’heures d’une semaine à l’autre. De son côté, l’appelant travaillait toujours 50 ou 60 heures à chaque semaine. Le scénario était à peu près semblable en 1999, monsieur Paulin ayant accumulé plusieurs demi-heures de travail et l’appelant ayant conservé le même rythme de travail à raison de 50 et 60 heures par semaine. Le même scénario s’est répété en 2001.
+[11] L’appelant travaille dans ce domaine depuis plusieurs années. Il a une formation dans ce qu’il appelle l’électro-mécanique. En termes de formation, il possède une troisième division et beaucoup d’expérience. Il a occupé plusieurs emplois avant de travailler pour la payeuse en 1991, dont un emploi pendant sept années avec la Garde côtière du Canada. Il a confirmé que la période de pointe s’étend de mai à la fin août, à laquelle s’ajoute un à deux mois pour les préparatifs au début et pour les activités de fin de saison, à savoir de rebâtir des pièces. Il a déclaré qu’en général il travaillait avec monsieur Paulin et qu’ils étaient payés pour les heures travaillées. Depuis le tout début, il a reçu 15,00 $ l’heure. Il n’a jamais reçu d’augmentation de son taux horaire. Il remettait des feuilles de temps tout comme monsieur Paulin et il a fait des évaluations et des factures. Il a répondu dans un questionnaire que l’entreprise était ouverte durant toute l’année. Lors de l’audience, il a déclaré que ça dépendait de l’offre et la demande. En temps froid, il déclare « on ferme et, si ça vaut la peine, on ouvre. »
+[12] L’intimé a déposé en preuve toutes les factures de ventes de la payeuse pour les trois périodes en question. L’appelant aurait signé des factures à des dates où son nom n’était pas inscrit au registre des salaires. En 2000, on compte 49 journées où l’appelant n’était pas inscrit au registre des salaires et où il a signé une ou des factures. On en compte 77 en 2001 et 35 en 2002. Il y a même des factures signées par monsieur Paulin à des dates où son nom ne figurait pas lui non plus au registre des salaires. Parmi ces factures, il y en a qui indiquent des heures travaillées. Il en va de même pour les dépôts de la payeuse. L’intimé a mis en preuve une série de bordereaux de dépôts signés par l’appelant à titre de déposant pour les périodes en question alors que son nom ne figurait pas au registre des salaires.
+[13] En l’an 2000, l’appelant a fait des dépôts au cours de 27 journées où son nom ne figurait pas au registre des salaires. En 2001, ce chiffre était de 43 journées et en 2003 il était de 14 journées.
+[14] L’agente de détermination à l’assurance-emploi a témoigné avoir eu une conversation avec l’appelant et sa conjointe en novembre 2002 sur les factures signées par l’appelant quand il ne travaillait pas. On aurait alors indiqué que monsieur Paulin avait les mains sales et que l’appelant les signait pour lui. Madame Mazerolle a également expliqué que certaines pièces devant être reconstruites sont identifiées avec une étiquette et réparées mais que la facture est préparée plus tard, soit la journée où la pièce est remise au client. L’appelant, de son côté, a déclaré que chaque pièce devant être réparée ou reconstruite était munie d’une étiquette portant la date où la pièce avait été apportée et le nom du client. L’étiquette indiquait quand le travail avait été fait et par qui. La facture était faite quand le client venait chercher la pièce. Il a précisé que certaines factures sont faites en trois étapes à la demande du client, c’est-à-dire que le travail est fait avant les dates apparaissant sur les factures, de sorte que ça peut indiquer que le travail a été fait alors que l’entreprise était fermée.
+[15] La tâche de l’appelant, en l’espèce, est d’établir, selon la prépondérance des probabilités, que le ministre a exercé son pouvoir discrétionnaire de façon inappropriée en décidant, compte tenu de toutes les circonstances, que la payeuse et l’appelant n’auraient pas conclu un contrat de travail à peu près semblable s’il n’y avait pas eu de lien de dépendance entre eux.
+[16] Le rôle qu’exerce le ministre et que doit exercer la Cour a été établi par la Cour d’appel fédérale dans l’arrêt Légaré c. M.N.R. [1999] A.C.F. no 878. Le juge Marceau a résumé le tout en ces termes au paragraphe 4 :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L’expression utilisée introduit une sorte d’élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu’il s’agit sans doute d’un pouvoir dont l’exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n’est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l’impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n’est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c’est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[17] La Cour d’appel fédérale a d’ailleurs réitéré sa position dans l’arrêt Pérusse c. M.R.N. (dossier A-722-97). Le juge Marceau, se référant au passage cité dans l’arrêt Légaré, a ajouté ce qui suit au paragraphe 15 :
+Le rôle du juge d’appel n’est donc pas simplement de se demander si le ministre était fondé de conclure comme il l’a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l’interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s’enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s’expliquer sous serment et de se demander si la conclusion du ministre, sous l’éclairage nouveau, paraît toujours « raisonnable » (le mot du législateur). La Loi prescrit au juge une certaine déférence à l’égard de l’appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu’il n’y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux.
+[18] Il faut donc se demander si, dans les circonstances, il était raisonnable pour l’intimé de conclure que l’appelant et la payeuse n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu un lien de dépendance. L’avocat de l’appelant a mis beaucoup d’emphase sur le fait que l’appelant et monsieur Paulin font exactement le même travail, assument les même responsabilités et ont les mêmes modalités de travail en ce qu’ils sont tous les deux payés à l’heure, ont le même horaire, soit de huit ou neuf heures à cinq heures, sont en disponibilité les fins de semaine sans être rémunérés sauf s’ils sont appelés à travailler, remplissent des feuilles de temps, font des évaluations et des factures, doivent obtenir une autorisation avant l’achat de pièces dont le prix dépasse 500 $, obtiennent le remboursement de leurs frais d’essence s’ils utilisent leur camion, utilisent des téléphones cellulaires mis à leur disposition et travaillent en équipe.
+[19] La preuve nous apprend toutefois que les heures travaillées à chaque semaine ne sont pas les mêmes pour monsieur Paulin et l’appelant. Durant les périodes en question, l’appelant a régulièrement travaillé des semaines de 50 heures ou de 60 heures. Quant à monsieur Paulin, ses heures sont presque toutes différentes à chaque semaine, soit de 30.5, 40, 36, 39, 42, 35, 47.8, 43.5, 47.5, 34, 48 et 34.5 heures, et ce dans une seule année. Le registre des salaires nous permet aussi de constater qu’ils ne travaillaient pas toujours ensemble durant les périodes en question. En 2000, on peut compter 17 semaines où seulement l’un de ceux-ci travaillait. Il est donc raisonnable de se demander si l’appelant remplissait effectivement des feuilles de temps comme le prétend la payeuse.
+[20] Du côté de la rémunération, il est vrai que le taux horaire de l’appelant est plus élevé que celui de monsieur Paulin. L’écart en ce qui concerne les périodes en question était d’approximativement 6,00 $ l’heure. L’appelant a beaucoup d’expérience et un salaire plus élevé est justifié. Cependant, pourquoi l’appelant, depuis 1991, n’a reçu aucune augmentation de salaire, alors que monsieur Paulin en a reçue une presque tous les ans? À la question de savoir qui fixait les salaires, la représentante de la payeuse a répondu « un peu moi ». Il est donc raisonnable de se demander qui fixait les salaires en bout ligne et pourquoi a-t-on gelé celui de l’appelant et non celui de monsieur Paulin.
+[21] Il faut aussi se questionner sur la durée de l’emploi de l’appelant. Au cours des périodes de pointe, soit de mai à septembre inclusivement et en y ajoutant quelques semaines avant et après ces périodes, l’appelant n’a pas travaillé pendant environ 12 semaines en 2000 et 2001 et pendant environ huit semaines en 2002. C’est au cours de ces périodes et de certaines autres en dehors de la saison de la pêche que l’appelant faisait des dépôts et préparait des factures pour la payeuse. Le nombre de factures et de dépôts a permis à l’intimé de conclure, à raison, qu’il y en avait beaucoup trop pour accepter les explications avancées par l’appelant sur les factures, les étiquettes et la date à laquelle les travaux ont été effectués et j’approuve la conclusion de l’intimé. Bon nombre de ces factures se rapportent à la vente de produits et elles étayent la thèse voulant que l’appelant était toujours sur place et qu’il rendait des services bien qu’il n’était pas censé être en devoir. La preuve avancée par l’appelant est insuffisante et celui-ci ne s’est pas acquitté du fardeau de la preuve qui lui incombait.
+[22] La décision du ministre me paraît donc raisonnable dans les circonstances.
+[23] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 16e jour d’octobre 2007.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2007CCI586
+Nº DU DOSSIER DE LA COUR : 2003-2695(EI)
+INTITULÉ DE LA CAUSE : Guy Mazerolle et M.R.N.
+LIEU DE L’AUDIENCE : Bathurst (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : le 6 septembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 16 octobre 2007
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Basile Chiasson
+Avocat de l'intimé :
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Basile Chiasson
+Cabinet : Chiasson Roy
+Ville : Bathurst (Nouveau‑Brunswick)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

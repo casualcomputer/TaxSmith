@@ -1,0 +1,189 @@
+Title: Jacques Sage s/n Constructions Jacques Sage Enr. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26414/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-528-26414-jacques-sage-s-n-constructions-jacques-sage-enr-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2004-09-01
+
+# Jacques Sage s/n Constructions Jacques Sage Enr. c. M.R.N.
+
+- Citation: 2004 TCC 528
+- Decision date: 2004-09-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3262, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jacques Sage s/n Constructions Jacques Sage Enr. c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-01
+Neutral citation
+2004 TCC 528
+File numbers
+2004-497(EI)
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2004-497(EI)
+BETWEEN:
+JACQUES SAGE
+o/a CONSTRUCTIONS JACQUES SAGE ENR.,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of François Lemieux (2003-4329(EI) on July 15, 2004, at Sherbrooke, Quebec
+Before: The Honourable Judge Brent Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Emmanuelle Faulkner
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, and the decision by the Minister and the assessments are vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1st day of September 2004.
+"B. Paris"
+Paris J.
+Certified true translation
+Colette Dupuis-Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2004TCC528
+Date: 20040901
+Docket: 2004-497(EI)
+BETWEEN:
+JACQUES SAGE
+o/a CONSTRUCTIONS JACQUES SAGE ENR.,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+2003-4329(EI)
+FRANÇOIS LEMIEUX,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] The Appellant operates a construction business, mainly in the construction of farm buildings (barns), in the Eastern Townships, in the Province of Quebec. A small part of the Appellant's operations were of a residential or commercial nature.
+[2] The Appellant, Jacques Sage, has appealed from an assessment by the Respondent for 2001 and 2002 respecting employment insurance assessments for 28 of his Workers (a list of their names is provided in Schedule A of these Reasons). The Respondent determined that the Workers were employed by the business under a contract of service. One of the employees affected by the decision, François Lemieux, has also appealed from it (assessment), and his appeal was heard on the same evidence.
+[3] With respect to the conclusion that the Workers were employees of the Appellant, rather than independent contractors, the Reply to the Notice of Appeal shows that the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+(a) Jacques Sage registered the trade name "Les Constructions Jacques Sage Enr." on January 9, 1995;
+(b) Jacques Sage was the sole proprietor of the business;
+(c) the business was engaged in the construction of farm buildings, mainly barns, which represented 90 percent of its operations, and residential and commercial construction, which represented 10 percent;
+(d) in the barn construction field, the work was not under the jurisdiction of the Commission de la construction du Québec (CCQ);
+(e) the Appellant hired Workers who were cabinet-makers, cement finishers, ventilation installers, aluminium installers and labourers;
+(f) the Appellant employed seven or eight Workers per construction site;
+(g) when the Workers were on a residential or commercial site, subject to the CCQ, the Appellant made the employer and employees deductions from the Workers' remuneration;
+(h) when the Workers were on a farm site, not subject to the CCQ, the Appellant did not make the employer and employee deductions from the Workers' remuneration;
+(i) the Appellant assigned the Workers to a specific site;
+(j) the Appellant visited the sites two or three times a week;
+(k) the Workers received their remuneration by cheque in the week following the week worked;
+(l) the Appellant or the site foreman told the Workers what work to do;
+(m) the Workers were remunerated at an hourly rate;
+(n) the Workers were paid by cheque every week;
+(o) the Workers submitted weekly time sheets showing the hours worked, which were checked by the foreman;
+(p) the Workers usually worked from 7:00 a.m. to 4:30 p.m., Monday to Friday;
+(q) the Workers had to inform the Appellant in advance of any absences;
+(r) the Appellant supplied the Workers with all the necessary materials, large tools and scaffolding to perform their duties;
+(s) the Workers supplied their own small tools;
+(t) the Workers had no chance of profit or risk of loss in the performance of their duties for the Appellant;
+(u) the customers were the Appellant's customers;
+(v) the Workers' duties were integrated into the Appellant's operations.
+Evidence
+[4] The Appellant called two of the 28 Workers, Mathieu Houle and Mr. Lemieux, as witnesses. Both were carpenters and cabinet makers. They stated that, for each job assigned to them, they had entered into an agreement in advance with Mr. Sage on the total cost they would request in payment of the work to be done and on the deadline for performing the work. Once the agreement was reached, they started the work and were paid in weekly instalments. The amounts of those instalments were calculated based on the total cost of the job, divided by the number of weeks scheduled for it to be done.
+[5] Sage went to the job site two or three times a week to check work progress and quality. If the Workers experienced problems on the site, they telephoned him. If they were unable to work, they notified Sage or a coworker by telephone.
+[6] Each Worker supplied his own manual or electric tools, and Sage supplied the necessary large equipment. Sage also supplied the materials.
+[7] Each Worker stated that he had not been required to work a fixed schedule but that they had generally worked from 7:00 a.m. to 4:00 or 4:30 p.m., Monday to Friday. Lemieux further stated that those hours were the normal hours of work in the construction industry. Lemieux added that he had had to report his hours of work but that that had had no impact on his pay and that Sage had gathered that information for bids on other jobs.
+[8] Mathieu Houle stated that, if he thought he could not complete the job within the scheduled time, he worked overtime in order to be sure to complete the work on time. Lemieux said that, if he had needed help to do a job, he would have been responsible for hiring someone, but that that had never happened to him when he worked for Sage. He also said that, if his work was not well done, he had to redo it at his own expense.
+[9] Neither of the Workers billed Sage GST for their work, but it was not established in evidence that they were registered suppliers under the Excise Tax Act or what their annual billings were.
+[10] Mr. Sage also testified and confirmed what the two Workers had said. He added that the working conditions in the residential and commercial fields were different from those of the agricultural field because residential and commercial work was governed by the CCQ (Commission de la construction du Québec), which meant that the Workers in those fields had to be paid by the hour and had to be considered as working under a contract of service.
+[11] The Respondent, for his part, called the Appeals Officer of the Canada Revenue Agency as a witness so that she would explain the basis of her conclusion that the Workers were Sage's employees rather than independent contractors. A report prepared by the Appeals Officer was filed in evidence as Exhibit I-1. She stated that she had communicated with Sage and 12 of the 28 Workers to determine their conditions of employment. The report detailed the conversations she had had with them.
+[12] However, the report on the conversations between the Appeals Officer and the Workers who did not testify constitutes hearsay and is thus not admissible for the purpose of proving that what the officer said was true. Counsel for the Respondent relied on the reasons given by Deputy Judge Somers in the Court's decision in Vézina v. Canada (Minister of National Revenue - M.N.R.), [2001] T.C.J. No. 564, in stating that the evidence in question was admissible. Although it is correct that the Court held in that case that a report of conversations between an Appeals Officer and third parties who had not been called as witnesses was admissible, that finding, in my humble view, was based on an incorrect analysis of two other decisions that the Court had previously rendered, in Duquette v. Her Majesty the Queen, 93 DTC 833, and Violi v. The Minister of National Revenue, 80 DTC 1191.
+[13] The question raised by Duquette and Violi was whether the Minister could rely on statements by third parties in assuming facts on which assessments were based. In Duquette, the Appellant sought to strike out the Notice of Appeal that had been filed. The Appellant alleged in part that the Minister could not rely on hearsay in assessing and that it was therefore incorrect to argue facts on the basis of the hearsay contained in the Reply to the Notice of Appeal. It was in response to that argument that Judge Garon found that the Minister could base an assessment on statements by third parties and assume that those statements were true. In Violi, Judge Cardin also held that the presumptions of fact on which the Minister relied could be based on hearsay. The question raised in those cases is clearly different from the question whether the Minister may file hearsay in evidence in Court to support his position. I agree with Judge Bell where, in his reasons in Nadoryk v. Her Majesty the Queen, docket 96-4601-IT-G, he stated:
+I agree that the tax auditors are, in making assumptions for the purpose of issuing assessments, not bound by the rules of evidence applicable to courtroom proceedings. However the statement of the Respondent's counsel that in this Court, "the route by which the assumptions were arrived at ought to be admissible" can have validity only if the rules of evidence are observed. The auditor can describe the method by which he concluded what assessment should be made but cannot, in doing so, produce a document "when the object of the evidence is to establish the truth of what is contained in the statement."
+[14] In the instant case, in seeking to have the report admitted in evidence, the Respondent wanted to prove that what the other Workers had told the Appeals Officer was true. That constitutes hearsay and is inadmissible in respect of the Workers who were not called as witnesses.
+[15] However, the report contains a summary of the conversation between the Appeals Officer and François Lemieux and of that between the Appeals Officer and Mathieu Houle. That raises another question concerning the admissibility in evidence of those portions of the report, a question that is of no importance with respect to Mathieu Houle's testimony. In essence, his testimony was consistent with what he purportedly told the Appeals Officer concerning his work for Sage. However, there are major differences between what Lemieux told the Court and what he allegedly told the Appeals Officer. The question of those differences was not addressed by the Respondent when he cross-examined Lemieux, and Lemieux did not have a chance to rebut the statements or to explain the contradictions they contained. I am therefore not in a position to determine which of the versions of the facts given by Lemieux is correct, and, for that reason, I cannot accept this testimony before the Court as credible evidence.
+[16] The evidence brought by the Respondent shows that he believed that the Appellant's Workers on the farm building construction sites were subject to the same conditions of employment as the Workers in the residential and commercial fields and that, since the Appellant considered that the Workers in those fields held insurable employment under a contract of service, the same must be true of the Workers on the farm sites.
+Analysis
+[17] To determine whether a person is working under a contract of service or a contract for services, I must consider the degree of control exercised by the "employer" over the work performed, the ownership of the tools, and the chance of profit or risk of loss of the Worker performing the work.
+[18] In the instant case, the control exercised by Sage over the Workers was more consistent with the nature of a contract for services. The evidence showed that the Workers performed their duties independently and that Sage only went to the site a few times a week. The assumption that the Workers were supervised by a foreman was ruled out, as was the assumption that they had to comply with a strict work schedule.
+[19] The fact that the Workers had supplied power tools and manual tools also supports the argument that they were independent contractors. In Precision Gutters Ltd v. Canada (Minister of National Revenue - M.N.R.), [2002] F.C.J. No. 771, the Federal Court of Appeal held as follows at paragraph 25:
+It has been held that if the Worker owns the tools of the trade which it is reasonable for him to own, this test will point to the conclusion that the individual is an independent contractor even though the alleged employer provides special tools for the particular business. See Bradford v. M.N.R. 88 D.T.C. 1661; Campbell v. M.N.R. 87 D.T.C. 47; Big Pond Publishing v. M.N.R. [1998] T.C.J. No. 935.
+[20] As in Precision Gutters, the tools that the Workers supplied were as important for the performance of the work as the equipment supplied by Sage.
+[21] I also find that the Workers had a chance of profit and risk of loss in the work they performed for Sage. If they worked efficiently, they could complete the work sooner and, consequently, their remuneration for the time worked would be that much higher. The Workers were also responsible for correcting any defect in their work at their own expense.
+Conclusion
+[22] Consequently, I find on the evidence brought before me that the Workers were employed by the Appellant under a contract for services and that they did not hold insurable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act, S.C. 1996, c. 23. The appeals are therefore allowed.
+Signed at Ottawa, Canada, this 1st day of September 2004.
+"B. Paris"
+Paris J.
+Certified true translation
+Colette Dupuis-Beaulne
+Schedule A
+Workers 2001 2002
+Arsenault Daniel x x
+Beaudette Éric x x
+Bergeron Éloik x x
+Bouchard Marc x x
+Boulard Philippe x -
+Caron Denis x x
+Charest Pascal x x
+Déry Francis x -
+Déry Serge x x
+Dubé Claude x -
+Dupont Bruno x -
+Fortin Bruce x -
+Grenier Sylvain x x
+Houle Mathieu x x
+Lemieux François x -
+Lemoine Marc x x
+Morin Steeve x -
+Paquette Donald x -
+Paquette Éric x -
+Sage Dominique x x
+Tanguay André x -
+Tanguay Charles x x
+Tardif Marc x x
+Thibeault Alfred x -
+Thibeault Aurel x x
+Tremblay Maxime - x
+Volkhar Friedrich x x
+CITATION:
+2004TCC528
+COURT FILE NUMBER:
+2003-4329(EI) and 2004-497(EI)
+STYLE OF CAUSE:
+François Lemieux and M.N.R. and Jacques Sage Construction
+Jacques Sage Enr. and M.N.R.
+PLACE OF HEARING:
+Sherbrooke, Quebec
+DATE OF HEARING:
+July 15, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Judge B. Paris
+DATE OF JUDGMENT:
+September 1, 2004
+APPEARANCES:
+For the Appellant:
+The Appellants themselves
+For the Respondent:
+Emmanuelle Faulkner
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,217 @@
+Title: Fitzgerald v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29292/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-321-29292-fitzgerald-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-07-03
+
+# Fitzgerald v. The Queen
+
+- Citation: 2009 TCC 321
+- Decision date: 2009-07-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7093, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fitzgerald v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-03
+Neutral citation
+2009 TCC 321
+File numbers
+2008-2731(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2731(IT)I
+BETWEEN:
+FRANK FITZGERALD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 2, 2009, at Moncton, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+Roger Haineault
+Counsel for the Respondent:
+Jill Chisholm
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act in respect of the 2005 and 2006 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 3rd day of July 2009.
+"François Angers"
+Angers J.
+Citation: 2009 TCC 321
+Date: 20090629
+Docket: 2008-2731(IT)I
+BETWEEN:
+FRANK FITZGERALD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] These appeals are with respect to the appellant's 2005 and 2006 taxation years. For those taxation years, the appellant claimed employment expenses in the amounts of $14,302 and $9,555 respectively and employee goods and services tax (GST) rebates of $1,021 and $1,197 respectively. By notice of reassessment, the Minister of National Revenue (Minister) disallowed all the employment expenses claimed and reduced the corresponding employee GST rebate to nil for each of the 2005 and 2006 taxation years. The breakdown of the employment expenses claimed for each year is as follows:
+Please see table on the next page.
+Frank Fitzgerald
+2005 Revised Employment Expenses & Employee GST Rebate
+Claimed
+Allowed
+by Audit
+Accounting and legal
+100.00
+0.00
+Advertising and promotion
+438.97
+0.00
+Motor vehicle expenses
+10,569.89
+0.00
+Supplies
+166.50
+0.00
+Parking
+76.25
+0.00
+Telephone and Cell Phone
+715.91
+0.00
+Workspace in Home
+1,142.85
+0.00
+Meals and entertainment
+1,091.75
+0.00
+Total expenses
+Employee GST Rebate
+14,302.12
+1,021.84
+0.00
+0.00
+Frank Fitzgerald
+2006 Revised Employment Expenses & Employee GST Rebate
+Claimed
+Allowed
+by Audit
+Accounting and legal
+100.00
+0.00
+Motor vehicle expenses
+6,379.12
+0.00
+Meals and entertainment
+1,281.00
+0.00
+Supplies
+1,795.00
+0.00
+Employee GST Rebate
+9,555.12
+1,197.37
+0.00
+0.00
+[2] The Minister disallowed all of the expenses claimed on the basis that they were not incurred for the purpose of earning employment income in the taxation years at issue, that the appellant did not work away from his employer's place of business nor was he required to do so, that the employer provided the appellant with a motor vehicle and reimbursed him for any gasoline expenses incurred for business purposes, that the use of a cell phone or a workspace at home were not required by the appellant's employer nor were the expenses with respect thereto incurred for the purpose of earning employment income, and finally, that the appellant was never required by his employer to be away from the employer's place of business for a period of twelve hours or more as required under paragraph 8(1)(f) and subsection 8(1) and subsection 8(4) of the Income Tax Act (the "Act"). In addition, the records did not indicate the name of any clients or business associates to whom the claimed expenses related.
+[3] During the 2005 and 2006 taxation years, the appellant was employed as a commissioned automobile salesperson by Taylor Ford Sales Ltd. in Moncton, New Brunswick. There is no written employment contract per se between the appellant and Taylor Ford, but the entitlement of each of Taylor Ford's ten commissioned salespersons to the use of a demonstrator vehicle is set out in a letter dated February 2008 (Exhibit A-1) and signed by Mr. Paul LeBlanc, who is the chief financial officer at Taylor Ford. The letter spells out the conditions regarding the demonstrators as follows:
+A commissioned salesperson employed with Taylor Ford Lincoln is entitled to a company demonstrator as part of their employment. As representing Taylor Ford Lincoln, their demonstrator is required to be on display at all times on and off the job. The demonstrator may be required at times to be used to perform duties on the job. The salesperson is responsible for the expense of keeping their demonstrator clean. The salesperson is responsible for fuel for all non business (personal) driving. The salesperson is also responsible for the cost of repairs over $200 as a result of repairing scratches and dents. They are responsible for the deductible if there is an accident that is deemed to be their fault or happened during personal driving.
+The employee will incur a taxable benefit for the use of the demonstrator which is reported on T4 slips and does reimburse Taylor Ford for a portion of the taxable benefit.
+[4] Mr. LeBlanc also testified at the hearing. He confirmed the conditions stated in his letter. He added that all gasoline expenses incurred by salespersons, including the appellant, are reimbursed. The salesperson need only make a request and satisfy the comptroller at Taylor Ford Lincoln that these expenses were in fact incurred for Taylor Ford. In other words, Taylor Ford, through reimbursement, pays for the gasoline if it was used for business purposes. Personal use expenses are the salesperson's responsibility. All expenses for travel outside the Moncton area for business purposes or training are also reimbursed by Taylor Ford. For half-day trips, meal expenses are not reimbursed.
+[5] For 2005, Taylor Ford calculated a taxable benefit of $6,859.09 in respect of the personal use of the demonstrator, and for 2006, a similar benefit of $6,579.15, both of which 2006 which the appellant reported as income for those years.
+[6] Mr. LeBlanc was also questioned on the other requirements of the appellant's employment for the taxation years in issue, and particularly on the content of the T2200 forms that were filed by the appellant with his tax returns for the years under appeal. Mr. LeBlanc acknowledged that some of his answers to the questions contained in the T2200s were different for the two taxation years and stated that his evidence in court was more accurate than some of the answers found in the T2200s. In fact, having consulted an accountant, he has changed some of the answers given on the 2006 T2200. As an example, for the question whether it was required that the employee work away from the place of business or in different places, he answered no for 2005 and yes for 2006 but limited the area to Moncton. For the question whether the employee was required to be away for at least 12 hours, he answered yes for 2005 and no for 2006.
+[7] When asked why he responded yes to the first question, which asks whether the employee is required to pay his or her own expenses, Mr. LeBlanc explained that he did so on the basis that some salespersons do incur expenses for such things as key chains and some advertising, but said that they do this on their own: it is not a requirement by the employer, as the employer pays advertising and all other expenses related to the employment. He admitted that he answered yes to help the salesperson.
+[8] Mr. LeBlanc confirmed that the employee may have had to pay on a fifty-fifty basis some promotional expenses like shirts and key chains, but that it is not a requirement of a salesperson's employment that the salesperson purchase anything. Mr. LeBlanc testified lastly that the conditions of employment did not require Taylor Ford's salespersons to have home offices or cell phones, and that basically everything the salespersons need to perform their work is provided and paid for by the employer.
+[9] The appellant was required to be at the dealership for a period of at least 45 hours per week and was in fact on site 98% of that time. The appellant was not required to work outside those hours. As for the demonstrator vehicles provided to salespersons, they are not to be lent to customers who are having their car repaired, as Taylor Ford has a shuttle service. If, however, the demonstrator were to be lent, the salesperson could get reimbursed for the expenses relating thereto. Taylor Ford has no policy for salespersons regarding meals and does not require its salespersons to provide meals or other services to clients, and none of them would lose their job if they did not provide such things.
+[10] The appellant has been described as an above-average salesperson and he attributes his success to the fact that he takes good care of his clients. To that end, he does advertising and, on occasion, will take clients out for a meal or pay for repairs needed after a sale. He testified that about 80% of his sales are a result of his prospecting for clients and from referrals and loyal clients, and about 15% are from outside the Moncton area.
+[11] He did acknowledged that his employer reimburses him for gasoline expenses if these are business-related, but said that the reimbursement is $5 a time, which he finds insufficient and so does not claim it very often. He also acknowledged that the meal expenses he claimed were approximately one third personal and two thirds for his clients and that the breakdown for the motor vehicle expenses was approximately the same, and not the 88% business use on which he based his claim in his tax return.
+[12] The appellant testified that many of the expenses he claimed were for meals and for repairs done beyond the 30-day guarantee period for used vehicles. He said he also spent money on key chains, hats and other promotional items, again acknowledging that it is not required by his employer that he incur such expenses.
+[13] The appellant admitted on cross-examination that he did claim expenses that were personal. Thus, we find items such as eye examinations, liquor purchases, tapes, tools, clothing and credit card withdrawals. He did not submit any receipts, but relied on a list of items that had been prepared by the auditor in reviewing his expenses.
+[14] For a taxpayer employee to be able to claim deductions from his or her employment income, he or she must meet the requirements of section 8 of the Act. The relevant provisions of the Act that the appellant relies on are the following:
+8(1)(f) Sales expenses
+8(1)(h) Travel expenses
+8(1)(h.1) Motor vehicle travel expenses
+8(1)(i) Dues and other expenses of performing duties
+8(4) Meals
+8(10) Certificate of employer
+8(13) Work space in home
+[15] These provisions are reproduced for reference purposes at the end of my reasons for judgment. Subsection 8(1)(f) sets out the conditions that the appellant must show on a balance of probabilities that has met before he can receive a deduction for sales expenses. No issue can be taken with the fact that the appellant was employed in both taxation years in connection with the sale of motor vehicles for Taylor Ford in Moncton and that he was remunerated in whole by commissions fixed by reference to the volume of his sales. The first of the remaining conditions has to do with whether the appellant's contract of employment required him to pay his own expenses. The evidence of Mr. LeBlanc clearly showed that Taylor Ford's salespersons, including the appellant, are reimbursed for their expenses, whether for gasoline used in their demonstrator vehicles or in running errands, or for other business-related activities or trips outside the Moncton area or for attending training sessions. Where an employee is entitled to reimbursement from his or her employer, that employee cannot expect to be able to deduct these expenses for income tax purposes, which I find the appellant has done here.
+[16] The second of the remaining conditions is that the appellant must be ordinarily required to carry on the duties of his employment away from the employer's place of business. The evidence of Mr. LeBlanc was that Taylor Ford's base clientele was in the Moncton area and that the appellant spent 98% of his time (i.e. of his 45-hour work week) at the dealership. There was, therefore, no requirement that he ordinarily be away from the employer's place of business, although I do recognize that not all discussions on potential sales are conducted there and that the appellant seeks business at all times and in all places. It is at the employer's place of business, though, that the sales are concluded.
+[17] With regard to the last remaining condition, the evidence given by Mr. LeBlanc is very clear in showing that salespersons are reimbursed for their travelling costs and meals if they attend a training seminar or are asked to travel for Taylor Ford.
+[18] Based on the above, the appellant is precluded from deducting the expenses he claimed under paragraph 8(1)(f).
+[19] As for the travel expenses claimed by the appellant that may fall under paragraph 8(1)(h), he must satisfy the requirements set out in subparagraphs (i) and (ii). Given my finding that the appellant was not required to carry out the duties of his employment away from the employer's place of business, he is also precluded from deducting any expenses he may have claimed under paragraph 8(1)(h).
+[20] In addition, the appellant was required to file a T2200 from his employer certifying that the conditions set out in the applicable provisions were met in his case. It is clear that the T2200s filed were erroneous and unreliable. The evidence of Paul LeBlanc clarified the conditions of employment and the T2200s are of no assistance to the appellant. Finally, in addition to the requirements found in paragraphs 8(1)(f) and 8(1)(i), the appellant must satisfy the requirement of paragraph 8(13) that the work space in home be the place where he principally performs the duties of his employment. No evidence was advanced that could permit me to find that such was in fact the case.
+[21] The appellant's expenses for his share of the cost of the shirts, key chains and other promotional items appear to be the only ones the appellant's employer requires him to pay. Unfortunately, the evidence presented does not permit me to put a dollar figure on those expenses.
+[22] The appeals are dismissed.
+[23] The relevant subsections of the Act read as follows:
+8(1)(f) Sales expenses — where the taxpayer was employed in the year in connection with the selling of property or negotiating of contracts for the taxpayer's employer, and
+(i) under the contract of employment was required to pay the taxpayer's own expenses,
+(ii) was ordinarily required to carry on the duties of the employment away from the employer's place of business,
+(iii) was remunerated in whole or part by commissions or other similar amounts fixed by reference to the volume of the sales made or the contracts negotiated, and
+(iv) was not in receipt of an allowance for travel expenses in respect of the taxation year that was, by virtue of subparagraph 6(1)(b)(v), not included in computing the taxpayer's income,
+amounts expended by the taxpayer in the year for the purpose of earning the income from the employment (not exceeding the commissions or other similar amounts referred to in subparagraph (iii) and received by the taxpayer in the year) to the extent that those amounts were not
+(v) outlays, losses or replacements of capital or payments on account of capital, except as described in paragraph (j),
+(vi) outlays, or expenses that would, by virtue of paragraph 18(1)(l), not be deductible in computing the taxpayer's income for the year if the employment were a business carried on by the taxpayer, or
+(vii) amounts the payment of which reduced the amount that would otherwise be included in computing the taxpayer's income for the year because of paragraph 6(1)(e);
+8(1)(h) Travel expenses — where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay the travel expenses incurred by the taxpayer in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year (other than motor vehicle expenses) for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for travel expenses that was, because of subparagraph 6(1)(b)(v), (vi) or (vii), not included in computing the taxpayer's income for the year, or
+(iv) claims a deduction for the year under paragraph (e), (f) or (g);
+8(1)(h.1) Motor vehicle travel expenses — where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer's income for the year, or
+(iv) claims a deduction for the year under paragraph (f);
+8(1)(i) Dues and other expenses of performing duties — amounts paid by the taxpayer in the year as
+(i) annual professional membership dues the payment of which was necessary to maintain a professional status recognized by statute,
+(ii) office rent, or salary to an assistant or substitute, the payment of which by the officer or employee was required by the contract of employment,
+(iii) the cost of supplies that were consumed directly in the performance of the duties of the office or employment and that the officer or employee was required by the contract of employment to supply and pay for,
+(iv) annual dues to maintain membership in a trade union as defined
+(A) by section 3 of the Canada Labour Code, or
+(B) in any provincial statute providing for the investigation, conciliation or settlement of industrial disputes,
+or to maintain membership in an association of public servants the primary object of which is to promote the improvement of the members' conditions of employment or work,
+(v) annual dues that were, pursuant to the provisions of a collective agreement, retained by the taxpayer's employer from the taxpayer's remuneration and paid to a trade union or association designated in subparagraph (iv) of which the taxpayer was not a member,
+(vi) dues to a parity or advisory committee or similar body, the payment of which was required under the laws of a province in respect of the employment for the year, and
+(vii) dues to a professions board, the payment of which was required under the laws of a province,
+to the extent that the taxpayer has not been reimbursed, and is not entitled to be reimbursed in respect thereof;
+8(4) Meals — An amount expended in respect of a meal consumed by a taxpayer who is an officer or employee shall not be included in computing the amount of a deduction under paragraph (1)(f) or (h) unless the meal was consumed during a period while the taxpayer was required by the taxpayer's duties to be away, for a period of not less than twelve hours, from the municipality where the employer's establishment to which the taxpayer ordinarily reported for work was located and away from the metropolitan area, if there is one, where it was located.
+8(10) Certificate of employer — An amount otherwise deductible for a taxation year under paragraph (1)(c), (f), (h) or (h.1) or subparagraph (1)(i)(ii) or (iii) by a taxpayer shall not be deducted unless a prescribed form, signed by the taxpayer's employer certifying that the conditions set out in the applicable provision were met in the year in respect of the taxpayer, is filed with the taxpayer's return of income for the year.
+8(13) Work space in home — Notwithstanding paragraphs (1)(f) and (i),
+(a) no amount is deductible in computing an individual's income for a taxation year from an office or employment in respect of any part (in this subsection referred to as the "work space") of a self-contained domestic establishment in which the individual resides, except to the extent that the work space is either
+(i) the place where the individual principally performs the duties of the office or employment, or
+(ii) used exclusively during the period in respect of which the amount relates for the purpose of earning income from the office or employment and used on a regular and continuous basis for meeting customers or other persons in the ordinary course of performing the duties of the office or employment;
+(b) where the conditions set out in subparagraph (a)(i) or (ii) are met, the amount in respect of the work space that is deductible in computing the individual's income for the year from the office or employment shall not exceed the individual's income for the year from the office or employment, computed without reference to any deduction in respect of the work space; and
+(c) any amount in respect of a work space that was, solely because of paragraph (b), not deductible in computing the individual's income for the immediately preceding taxation year from the office or employment shall be deemed to be an amount in respect of a work space that is otherwise deductible in computing the individual's income for the year from that office or employment and that, subject to paragraph (b), may be deducted in computing the individual's income for the year from the office or employment.
+Signed at Edmundston, New Brunswick, this 3rd day of July 2009.
+"François Angers"
+Angers J.
+CITATION: 2009 TCC 321
+COURT FILE NO.: 2008-2731(IT)I
+STYLE OF CAUSE: Frank Fitzgerald v. Her Majesty the Queen
+PLACE OF HEARING: Moncton, New Brunswick
+DATE OF HEARING: June 2, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: July 3, 2009
+APPEARANCES:
+Agent for the Appellant:
+Roger Haineault
+Counsel for the Respondent:
+Jill Chisholm
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

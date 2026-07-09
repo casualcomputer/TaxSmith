@@ -1,0 +1,164 @@
+Title: Rossi c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/100767/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-20-100767-rossi-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-01-26
+
+# Rossi c. La Reine
+
+- Citation: 2015 CCI 20
+- Decision date: 2015-01-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2801, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rossi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-01-26
+Référence neutre
+2015 CCI 20
+Numéro de dossier
+2014-3096(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-3096(IT)G
+ENTRE :
+BRUNO ELVIO ROSSI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requête entendue le 8 décembre 2014, à Montréal (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocate de l’appelant :
+Me Camille Janvier
+Avocate de l’intimée :
+Me Anne-Marie Boutin
+JUGEMENT
+VU la requête de l’intimée déposée le 20 novembre 2014 auprès de cette Cour, visant à obtenir le rejet de l’appel pour cause de retard au motif que l’appelant n’a pas interjeté appel dans le délai imparti, conformément au paragraphe 169(1) de la Loi de l’impôt sur le revenu;
+Après avoir entendu les parties;
+La requête est accueillie et l’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 26e jour de janvier 2015.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2015 CCI 20
+Date : 20150126
+Dossier : 2014-3096(IT)G
+ENTRE :
+BRUNO ELVIO ROSSI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D’Auray
+INTRODUCTION [1] La présente requête de l’intimée vise à obtenir le rejet de l’appel de Bruno Elvio Rossi (l’« appelant »), pour l’année d’imposition 2003, au motif que ce dernier n’a pas déposé un appel auprès de cette Cour dans les délais prescrits au paragraphe 169(1) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch.1 (5e suppl.) (la « Loi »).
+[2] La question en litige consiste à savoir si le ministre du Revenu national, (le « ministre ») s’est acquitté de l’obligation qui lui incombe en vertu de la Loi en expédiant par courrier recommandé un avis de ratification à l’adresse de l’appelant.
+[3] L’appelant fait valoir que l’avis de ratification ayant été retourné à l’Agence du revenu du Canada (l’« ARC ») par Postes Canada, il n’aurait donc jamais reçu l’avis de ratification.
+FAITS [4] Le 12 juillet 2004, le ministre a établi une cotisation à l’égard de l’année d’imposition 2003 de l’appelant.
+[5] Le 17 octobre 2006, l’appelant a fait l’objet d’une nouvelle cotisation relativement à son année d’imposition 2003.
+[6] L’appelant a présenté un avis d’opposition à la nouvelle cotisation du 17 octobre 2006.
+[7] Le 17 juin 2010, le ministre a envoyé à l’appelant, par courrier recommandé, un avis de ratification confirmant la nouvelle cotisation pour l’année d’imposition 2003.
+[8] Cet avis de ratification a été envoyé à l’adresse que l’appelant a fournie au ministre, soit au 743 D, rue Principale, Saint-Sauveur, J0R 1R0 (Québec).
+[9] Le même jour, soit le 17 juin 2010, le ministre a aussi envoyé une copie de l’avis de ratification par courrier de première classe au comptable de l’appelant, monsieur James Bagiotas.
+[10] Le 3 juillet 2010, Postes Canada a retourné à l’ARC le courrier recommandé, non réclamé par l’appelant.
+[11] Le 12 juillet 2010, le ministre a de nouveau envoyé à l’appelant, l’avis de ratification visant l’année d’imposition 2003, cette fois-ci par courrier de première classe également à l’adresse fournie par l’appelant, soit au 743 D, rue Principale, Saint-Sauveur, J0R 1R0 (Québec).
+[12] Le 3 septembre 2014, l’appelant a déposé un avis d’appel auprès de cette Cour à l’encontre de l’avis de ratification daté du 17 juin 2010.
+[13] Le ministre fait valoir que l’avis d’appel déposé par l’appelant pour l’année d’imposition 2003 est invalide parce que l’appelant n’a pas déposé auprès de cette Cour un avis d’appel dans les 90 jours de l’avis de ratification.
+[14] L’appelant prétend que ni lui, ni son comptable n’ont reçu le courrier daté du 17 juin 2010 contenant l’avis de ratification. L’appelant a aussi indiqué qu’il n’avait pas, non plus, reçu le courrier contenant l’avis de ratification expédié par l’ARC par courrier de première classe en date du 12 juillet 2010.
+[15] L’appelant soutient qu’il recevait des états de compte qui l’induisaient en erreur, lui laissant croire que la nouvelle cotisation pour l’année d’imposition 2003 faisait toujours l’objet d’une opposition. Les états de compte sont datés des années 2013 et 2014. Ils ont été déposés en preuve (pièces A-1, A-2, A-3 et A‑4).
+[16] L’appelant a témoigné qu’il avait interjeté appel d’une nouvelle cotisation semblable établie à l’égard de son année d’imposition 2002. L’appelant a fait valoir qu’il avait l’intention de contester l’avis de ratification pour l’année 2003, comme il avait contesté la nouvelle cotisation établie pour l’année 2002. Le litige concernant l’année d’imposition 2002 s’est réglé sous le paragraphe 169(3) de la Loi, soit en vertu d’une entente entre les deux parties. Suite à cette entente, l’appelant a déposé un désistement.
+[17] L’appelant a de plus affirmé que l’agent de recouvrement responsable du dossier relatif à l’année d’imposition 2002, n’a pas été en mesure de lui fournir de l’information quant aux montants indiqués sur les états de compte qu’il recevait.
+[18] L’appelant a témoigné qu’il ne demeurait à sa résidence de Saint-Sauveur que lors des fins de semaine au cours de l’année 2010. Durant la semaine, il demeurait à la résidence de ses parents située à Montréal en raison de son emploi.
+[19] En mai 2010, l’appelant a déposé un avis de changement d’adresse auprès de Postes Canada afin que son courrier soit réacheminé de sa résidence de Saint‑Sauveur vers la résidence de ses parents à Montréal pour une période d’un an. L’appelant a affirmé qu’il n’a pas avisé l’ARC de la modification de son adresse de correspondance.
+[20] Monsieur Bagiotas, le comptable de l’appelant, a aussi témoigné que les états de compte que recevait l’appelant laissaient croire que la nouvelle cotisation l’année d’imposition 2003 faisait toujours l’objet d’une opposition. En juin 2014, il a essayé de contacter plusieurs personnes de l’ARC pour s’enquérir de la situation fiscale de l’appelant concernant l’année d’imposition 2003. Ses démarches n’ont pas été fructueuses.
+[21] À l’appui de sa requête, l’intimée s’est fondée sur l’affidavit de Chantal Faubert, l’agente des appels à l’ARC responsable du dossier de l’appelant. L’intimée a produit devant la Cour l’affidavit de madame Faubert. Elle a aussi témoigné à l’audience.
+[22] Madame Faubert a pris connaissance du dossier de l’appelant en janvier 2010 pour l’année d’imposition 2003. Elle a aussi pris connaissance du dossier d’opposition de l’appelant pour l’année d’imposition 2002. Suite à l’examen des dossiers d’opposition, elle a décidé de ratifier la nouvelle cotisation établie pour 2003 et d’établir une nouvelle cotisation pour 2002. La nouvelle cotisation pour l’année 2002 a été envoyée à l’adresse fournie par l’appelant par courrier de première classe.
+[23] Dans son affidavit, madame Faubert déclare notamment ce qui suit :
+3. En mai 2010, j’ai préparé l’avis de confirmation de la nouvelle cotisation pour l’année d’imposition 2003 de l’appelant et cette correspondance a été mise à la poste le 16 ou le 17 juin 2010, tel qu’en font foi les copies de l’avis de confirmation, la lettre d’accompagnement et l’enveloppe d’envoi jointes à la présente sous la cote R-1, pour en faire partie intégrante.
+4. En mai 2010, j’ai préparé une copie de l’avis de confirmation et une lettre d’accompagnement au représentant de l’appelant, monsieur James Bagiotas, et cette correspondance a été mise à la poste le 16 ou le 17 juin 2010, tel qu’en fait foi la copie de la lettre jointe à la présente sous la cote R-2, pour en faire partie intégrante.
+5. Bruno Elvio Rossi n’a pas réclamé son courrier recommandé contenant l’avis de confirmation de la nouvelle cotisation pour son année d’imposition 2003.
+6. Le 3 juillet 2010, Postes Canada a retourné à l’Agence du revenu du Canada le courrier recommandé non réclamé par Bruno Elvio Rossi, tel qu’en fait foi la copie de l’enveloppe jointe à la présente sous la cote R-3, pour en faire partie intégrante.
+7. Le 12 juillet 2010, j’ai mis de nouveau à la poste, par courrier régulier, l’avis de confirmation de la nouvelle cotisation pour l’année d’imposition 2003 de l’appelant et la lettre d’accompagnement.
+8. L’envoi du 17 juin 2010 au représentant de Bruno Elvio Rossi et celui du 12 juillet 2010 à Bruno Elvio Rossi n’ont pas été retournés à l’Agence du Revenu du Canada.
+[24] Madame Faubert a expliqué la procédure qu’elle a utilisée pour expédier l’avis de ratification. Après que son chef d’équipe eut signé l’avis de ratification, elle a remis cet avis, accompagné d’une lettre de présentation et d’une enveloppe de courrier recommandé qu’elle avait elle-même préparées, au personnel de la salle de courrier qui s’occupe de l’expédition des lettres.
+[25] Madame Faubert a affirmé que l’avis de ratification, daté du 17 juin 2010, a été expédié à l’adresse de l’appelant, soit au 743 D, rue Principale, Saint‑Sauveur, J0R 1R0 (Québec). Elle a indiqué que cette adresse correspondait à l’adresse que l’on retrouvait dans l’avis d’opposition de l’appelant de même qu’à l’adresse postale inscrite au système informatique de l’ARC au 17 juin 2010. Il est à noter que l’avis de ratification a été envoyé à la même adresse que l’adresse utilisée pour envoyer l’avis de nouvelle cotisation établie pour l’année d’imposition 2002 qui, lui, a été reçu par l’appelant.
+[26] En contre-interrogatoire, madame Faubert a affirmé que l’ARC avait comme pratique d’envoyer les avis de ratification par courrier recommandé. Elle a indiqué qu’elle n’avait pas personnellement connaissance du fonctionnement du service du courrier.
+[27] Quant à la confusion semée par les états de compte, madame Faubert a expliqué qu’un code de suspension sert à suspendre ou interrompre temporairement les procédures de recouvrement dans le dossier d’un contribuable pour les années d’imposition qui font l’objet d’une opposition.
+[28] Madame Faubert a indiqué que les codes sont mis quand l’ARC reçoit une opposition et qu’ils doivent être enlevés quand une décision sur l’opposition est rendue. C’est la responsabilité des commis d’enlever les codes. Les mesures de recouvrement de l’ARC commencent une fois les codes enlevés. Dans le cas de l’appelant, elle a indiqué que les codes n’ont pas été enlevés en temps opportun pour l’année d’imposition 2003. Bien que madame Faubert ait indiqué lors de son témoignage que selon les dossiers de l’ARC, le code de suspension quant au compte de l’appelant a été retiré le 21 novembre 2013, la preuve a démontré que les montants en litige à l’égard de l’année d’imposition 2003 étaient toujours en suspens en vertu d’un état de compte daté du 2 avril 2014.
+Arguments de l’intimée [29] Selon l’intimée, la seule obligation qui incombe au ministre est de démontrer que l’avis de ratification a été envoyé à l’appelant et rien dans la Loi n’exige que l’avis soit reçu par ce dernier.
+[30] L’intimée soutient que l’avis de ratification a été envoyé par courrier recommandé à l’appelant le 17 juin 2010 et par courrier de première classe le 12 juillet 2010. L’appelant a interjeté un appel le 3 septembre 2014, soit quatre ans après l’expiration du délai de 90 jours prévu au paragraphe 169(1) de la Loi. De plus, l’intimée soutient que la Cour n’a pas la compétence pour accorder à l’appelant une prolongation de délai, en vertu du paragraphe 167(5) de la Loi.
+Arguments de l’appelant [31] L’appelant soutient pour sa part que l’envoi fait par courrier recommandé le 17 juin 2010 ne saurait constituer un envoi valide susceptible de faire débuter le délai de 90 jours établi au paragraphe 169(1) de la Loi. L’appelant fait valoir qu’il n’a pas reçu l’avis de ratification, car l’avis a été retourné à l’ARC par Postes Canada. Pour l’appelant, les présomptions prévues dans la Loi en matière d’envoi et de réception ne sont pas applicables à un envoi par courrier recommandé.
+[32] L’appelant fait aussi valoir que la preuve du deuxième envoi par courrier de première classe est déficiente et ne satisfait pas les critères jurisprudentiels.
+[33] L’appelant allègue aussi que selon les états de compte de l’ARC, les montants visant l’année d’imposition 2003 étaient toujours en suspens ce qui laissait entendre qu’une décision n’avait pas été prise par l’ARC quant à son opposition pour l’année 2003. Il fait donc valoir que l’ARC l’a placé dans une situation où il ne pouvait agir.
+[34] Conséquemment, l’appelant soutient qu’il pouvait déposer un avis d’appel au mois de septembre 2014.
+ANALYSE [35] Aux termes du paragraphe 169(1) de la Loi, l’appel doit être interjeté dans les 90 jours suivant l’envoi de l’avis de ratification. Cette disposition est ainsi libellée :
+169(1) Appel – Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation:
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où avis a été envoyé au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[36] Selon le paragraphe 165(3) de la Loi, les obligations du ministre quant à un avis d’opposition sont les suivantes :
+165 (3) Obligations du ministre -- Sur réception de l’avis d’opposition, le ministre, avec diligence, examine de nouveau la cotisation et l’annule, la ratifie ou la modifie ou établit une nouvelle cotisation. Dès lors, il avise le contribuable de sa décision par écrit.
+[37] Dans l’affaire Bowen v Minister of National Revenue, [1991] ACF No 1054, la Cour d’appel fédérale a énoncé les commentaires suivants sur l’obligation qui incombe au ministre en vertu du paragraphe 165(3) de la Loi:
+7 À notre avis, l’obligation qui incombait au ministre aux termes du paragraphe 165(3) correspondait précisément à ce qu’il a fait, c’est-à-dire aviser l’intimé de la ratification de la cotisation par courrier recommandé. Rien, dans ce paragraphe ni dans l’article 169, n’exigeait que la notification soit « signifiée » à personne ou soit reçue par le contribuable. En expédiant l’avis par courrier recommandé, le ministre était en droit de se servir de l’adresse ou des adresses que l’intimé avait lui-même déjà fournies. Le ministre n’était pas tenu de chercher à se renseigner plus avant. En outre, l’exigence de réception de l’avis serait difficile, sinon totalement impossible, à appliquer du point de vue administratif. Le Parlement ne l’a pas exigé; il a simplement prescrit que l’avis devait être envoyé par courrier recommandé.
+[38] La décision Bowen, précitée, de la Cour d’appel fédérale a été rendue à l’égard de la version antérieure du paragraphe 165(3) de la Loi. Il se lisait alors comme suit:
+165(3) Rôle du ministre — Dès réception de l’avis d’opposition, formulé en vertu du présent article, le ministre doit,
+a) avec toute diligence possible, examiner de nouveau la cotisation et annuler, ratifier ou modifier cette dernière ou établir une nouvelle cotisation, ou
+b) lorsqu’un contribuable mentionne dans cet avis d’opposition qu’il désire interjeter appel immédiatement auprès de la Cour canadienne de l’impôt ou auprès de la Cour fédérale, et renonce à ce qu’un nouvel examen soit fait de la cotisation et que le ministre y consent, déposer une copie de l’avis d’opposition auprès du greffier de la Cour canadienne de l’impôt,
+et en aviser le contribuable par lettre recommandée.
+[39] La modification apportée au paragraphe 165(3) de la Loi n’a pas changé les principes énoncés par la Cour d’appel fédérale dans la décision Bowen, précitée.
+[40] Le paragraphe 165(3) de la Loi énonce l’exigence d’aviser le contribuable par écrit. Il n’y existe aucune obligation de la part du ministre de signifier sa décision au contribuable personnellement ou encore de faire la preuve qu’elle a été reçue par celui-ci.
+[41] Dans Skalbania c La Reine, 2009 CCI 576, le contribuable avançait l’argument selon lequel le courrier recommandé constitue un processus distinct des autres méthodes d’envoi de courrier et qui n’est pas terminé lorsque l’envoi est retourné à l’expéditeur. Le juge Hershfield, de notre Cour, a formulé les commentaires suivants au paragraphe 26 :
+[26] Bien qu’ils aient été formulés avec beaucoup de soin, rien dans les arguments de l’appelante ne donnent à penser qu’une conclusion différente soit justifiée, eu égard aux faits de la présente affaire concernant un avis envoyé par courrier recommandé. En effet, laisser entendre autre chose signifierait qu’un contribuable pourrait altérer la capacité du ministre d’établir de nouvelles cotisations au cours de la période normale de nouvelle cotisation en évitant de recevoir du courrier recommandé.
+[42] En l’espèce, la preuve présentée démontre que le ministre s’est acquitté de l’obligation qui lui incombe en vertu du paragraphe 165(3) de la Loi.
+[43] La preuve a révélé que l’avis de ratification a été envoyé par écrit le 17 juin 2010 à l’adresse de l’appelant au 743 D, rue Principale, Saint‑Sauveur, J0R 1R0 (Québec). Il a été envoyé par courrier recommandé tel qu’en fait foi l’enveloppe d’envoi joint à l’affidavit sous la cote R-1. Lors de son témoignage, madame Faubert a décrit la procédure d’envoi du courrier recommandé. Elle a précisé que l’avis de ratification a été envoyé à la bonne adresse de l’appelant. Madame Faubert a mentionné avoir vérifié qu’il s’agissait de l’adresse autorisée de l’appelant inscrit aux dossiers de l’ARC. Elle a aussi dit que c’était l’adresse figurant sur l’avis d’opposition de l’appelant pour l’année d’imposition 2003. C’est aussi cette adresse qui avait été utilisée pour l’envoi de la nouvelle cotisation établie pour l’année 2002.
+[44] Bien que la preuve soit insuffisante pour démontrer le second envoi effectué par courrier de première classe de l’avis de ratification, cette preuve montre tout de même que madame Faubert a entrepris des mesures avec l’avis de ratification qui lui a été retourné. La preuve du second envoi par courrier de première classe n’est d’ailleurs pas nécessaire pour trancher la présente requête.
+[45] Quatre ans se sont écoulés entre le dépôt de l’avis d’appel auprès de cette Cour, soit le 3 septembre 2014, et l’envoi de l’avis de ratification par courrier recommandé par l’ARC, soit le 17 juin 2010. Il est donc clair que le délai de 90 jours de la date de l’envoi de l’avis de ratification prévu au paragraphe 169(1) de la Loi pour déposer un appel auprès de cette Cour n’a pas été respecté.
+[46] En examinant les états de compte, il est facile de comprendre pourquoi l’appelant et son comptable avaient l’impression que la décision à l’égard de l’opposition n’avait pas été prise par l’ARC, les montants pour l’année 2003 étaient toujours en suspens. Madame Faubert a admis que les codes auraient dû être modifiés sur les états de compte, puisqu’une décision avait été rendue confirmant la nouvelle cotisation.
+[47] Ceci étant dit, le 28 octobre 2013, soit la date du plus récent état de compte déposé en preuve, le délai de 90 jours pour interjeter appel prévu au paragraphe 169(1), ainsi que le délai prévu au paragraphe 167(5) pour les demandes de prorogation du délai pour interjeter appel étaient expirés puisque l’avis de ratification était daté du 17 juin 2010.
+[48] Monsieur Bagiotas a indiqué avoir contacté l’ARC en 2014, mais à cette date, il était déjà trop tard pour déposer un appel auprès de cette Cour.
+[49] L’appelant n’était pas dans l’impossibilité d’agir comme il le prétend. En vertu de l’alinéa 169(1)b) de la Loi, un contribuable peut interjeter appel auprès de cette Cour après l’expiration du délai de 90 jours qui suit la signification de l’avis d’opposition, sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation.
+[50] Je suis d’opinion que malgré la confusion semée par les états de compte de l’ARC dans ce dossier, il n’en demeure pas moins que le ministre s’est acquitté de son obligation d’aviser le contribuable par écrit. Je n’ai trouvé aucun fondement juridique pouvant justifier le rejet de la requête de l’intimée. Tel que mentionné par l’avocate de l’intimée, il serait donc indiqué dans le présent dossier que l’appelant présente une demande d’allègement auprès de l’ARC afin que cette dernière renonce aux intérêts et pénalités.
+[51] Par conséquent, la requête de l’intimée visant le rejet de l’appel de l’appelant à l’égard de la nouvelle cotisation établie relativement à l’obligation fiscale de l’appelant pour l’année d’imposition 2003 est accueillie et l’appel de l’appelant rejeté, sans frais.
+Signé à Ottawa, Canada, ce 26e jour de janvier 2015.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2015 CCI 20
+Nº DU DOSSIER DE LA COUR :
+2014-3096(IT)G
+INTITULÉ DE LA CAUSE :
+BRUNO ELVIO ROSSI c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 8 décembre 2014
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 26 janvier 2015
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Camille Janvier
+Avocate de l’intimée :
+Me Anne-Marie Boutin
+AVOCATE INSCRITE AU DOSSIER :
+Pour l’appelant:
+Nom :
+Me Camille Janvier
+Cabinet :
+BCF s.e.n.c.r.l.
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

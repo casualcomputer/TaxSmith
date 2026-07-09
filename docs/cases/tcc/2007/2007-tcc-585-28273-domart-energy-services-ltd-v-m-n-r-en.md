@@ -1,0 +1,179 @@
+---
+title: "Domart Energy Services Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28273/index.do"
+last_modified: "2007-04-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 585"
+citation2: ""
+neutral_citation: "2007 TCC 585"
+decision_date: "2007-04-02"
+language: "en"
+item_id: "28273"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2054
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:15:34.537000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "de1a6783f9ab70197b397da382e5024013adee9c94ff8016c0c6b68b4b9011c1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Domart Energy Services Ltd. v. M.N.R.
+
+- Citation: 2007 TCC 585
+- Decision date: 2007-04-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2054, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Domart Energy Services Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-02
+Neutral citation
+2007 TCC 585
+File numbers
+2006-13(EI)
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-13(EI)
+BETWEEN:
+DOMART ENERGY SERVICES LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Domart Energy Services Ltd. (2006-17(CPP))
+on August 9, 2007, at Grande Prairie, Alberta
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Andrea Chrenek
+Counsel for the Respondent:
+Daniel Segal
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the Minister’s decision of December 7, 2005 is vacated.
+Signed at Ottawa, Canada, this 2nd day of October 2007.
+"Patrick Boyle"
+Boyle J.
+Docket: 2006-17(CPP)
+BETWEEN:
+DOMART ENERGY SERVICES LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Domart Energy Services Ltd. (2006-13(EI)) on August 9, 2007, at Grande Prairie, Alberta
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Andrea Chrenek
+Counsel for the Respondent:
+Daniel Segal
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the Minister’s decision of December 7, 2005 is vacated.
+Signed at Ottawa, Canada, this 2nd day of October 2007.
+"Patrick Boyle"
+Boyle J.
+Citation: 2007TCC585
+Date: 20071002
+Dockets: 2006-13(EI)
+2006-17(CPP)
+BETWEEN:
+DOMART ENERGY SERVICES LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The Appellant Domart Energy Services Ltd. is appealing rulings made under the Employment Insurance Act and the Canada Pension Plan Act that Mr. Wilfrid Flanagan was engaged by Domart Energy in insurable employment for EI purposes and in pensionable employment for CPP purposes.
+[2] Domart Energy is in the trucking and oilfield rental business. Mr. Brian Pavlis is an owner and the General Manager of Domart Energy and testified on its behalf.
+[3] Wilfrid Flanagan carried on business under the name Grubbs Oilfield Services.
+[4] In servicing its oilfield rental business’ clients, Domart Energy uses two picker trucks. Picker trucks are large, expensive trucks that have a boom crane mounted on them suitable for delivering and picking up machinery and equipment of the type and size that it rents out. One of Domart Energy’s picker trucks is owned by it and the other is retained by it from an arm’s length third party, McCallum Trucking Ltd. McCallum Trucking provides to Domart Energy the operator of the picker truck which it provides. Picker trucks are expensive pieces of equipment costing in the $400,000 range.
+[5] Prior to the period in question, Domart Energy employed a private operator for the picker truck that is owned by it. However, when its employed picker operator left, Domart Energy had difficulty finding a new employee to take the job despite its advertising and recruiting efforts.
+[6] Mr. Wilfrid Flanagan approached Mr. Pavlis to offer the services of Mr. Flanagan’s business, Grubbs Oilfield Services, to operate Domart Energy’s picker truck. Mr. Pavlis was familiar with Grubbs Oilfield Services and with Mr. Flanagan’s predecessor business Skookum Inc. through which Mr. Flanagan had operated previously. Domart Energy had been a client of both Skookum and Grubbs Oilfield.
+[7] Grubbs Oilfield Services carried on a number of transport-related services for businesses in the oilfield exploration and development sector. In addition to operating picker trucks, Grubbs Oilfield Services provided pilot trucking services or piloting as well as hotshotting services. Pilot trucking, or piloting, involves providing the lead small truck and driver or the rear small truck and driver that accompany large, slow or dangerous transports. Grubbs Oilfield Services provided pilot trucking services to Domart Energy regularly, about twice a month, during the relevant period. When providing piloting services, Grubbs Oilfield Services provided both the pilot truck and operator. Hotshotting involves making small trucks available to make immediate deliveries to the oilfield of replacement parts and accessories needed for the leased equipment. Domart Energy did not use Grubbs Oilfield for hotshotting as it had other arrangements in place. Grubbs Oilfield had a rate sheet that set out the rates and terms for its piloting, hotshotting and picker operating activities. Mr. Flanagan made a copy of this available to Mr. Pavlis for purposes of their discussion. Mr. Flanagan was insistent to that he was not interested in being Domart Energy’s employee but that Grubbs Oilfield was willing to provide the services as a contractor. Grubbs had its GST number, clearance letter for workers’ compensation, and its own liability insurance and provided these documents to Domart Energy.
+[8] Domart Energy was aware that Grubbs Oilfield had other clients and that Grubbs would not be able to take each picker operator job offered. Grubbs had the option to refuse work when called and Mr. Flanagan did.
+[9] Domart Energy has been able to replace Grubbs Oilfield Services and Mr. Flanagan with an employed picker operator since the period in question.
+[10] Mr. Flanagan obtained and maintained his own Class 1 driver’s license required to operate a picker truck. Mr. Flanagan was a Certified Journeyman Crane and Hoisting Equipment Operator which means he had the required provincial operator license permitting him to operate the picker. These credentials were maintained by Mr. Flanagan on his time and at his expense. In addition, Grubbs Oilfield/Flanagan maintained the statutory log books for the picker truck and for the crane.
+[11] Grubbs Oilfield/Flanagan also bore the cost of highway traffic infractions. It was not standard in the industry for a driver to be responsible for tickets and fines in the way that Grubbs Oilfield Services had agreed to be.
+[12] Domart Energy agreed to pay Grubbs Oilfield Services $45 per hour for Mr. Flanagan’s picker operator time. This significantly exceeded the hourly rate of $35 it had previously paid its employed picker operators and that it was offering to potential employee candidates. There was no written contract. Mr. Pavlis was clear that, from their discussions, the increased rate reflected the fact this was a contract rate and there would be no overtime, etc. paid. While Domart Energy’s strong preference was for an employed picker truck operator, Mr. Pavlis on behalf of Domart Energy did expressly agree with Mr. Flanagan that this picker truck operating would be done as part of Grubbs Oilfield Services business.
+[13] Domart Energy did not pay Grubbs anything additional for meal or hotel expenses, holiday pay, sick leave or any other benefits. Domart Energy’s employees, including its employed picker operators, did enjoy a benefits package. Domart Energy paid the invoice received monthly from Grubbs Oilfield at the agreed rate together with GST.
+[14] Domart Energy paid McCallum Trucking a single hourly rate for its picker truck and operator of $220 an hour which also included the swamper. Domart Energy paid more than $45 per hour for Grubbs Oilfield’s piloting services.
+[15] There was no set schedule for the work. Domart Energy would call Flanagan for same-day work. Occasionally, work was previously arranged in advance. Domart Energy would call Mr. Flanagan on Mr. Flanagan’s cell phone. At times, Mr. Flanagan took the initiative and called Domart Energy in the morning to see if there was work. Grubbs Oilfield was not required to report to work everyday and did not work if there was no picker truck job on a particular day. In contrast, Domart Energy’s employees come in at 8 a.m. and are required to stay until at least lunch time even if there is no work for them that day.
+[16] The times for picking jobs were largely set by Domart Energy’s clients. If there was no set pick-up or drop-off time, Grubbs Oilfield did it on its own time, selected the routes, and took breaks, stops and meals at times of Flanagan’s choosing.
+[17] The operation of a picker mounted on a picker truck effectively requires that the operator be assisted by another person to help to locate the truck and the load safely. This person is known in the oilfield industry as a swamper. The swamper accompanying Flanagan when he was operating Domart Energy’s picker truck was an employee of Domart Energy. As a practical matter, the operator is required to supervise and direct the swamper.
+[18] In the period in question, Domart Energy was very busy and used Grubbs/Flanagan as picker operator extensively. There was no guarantee of any work to Grubbs Oilfield although it seemed to be understood that Grubbs would get Domart Energy’s first call for picker truck jobs for this picker truck. Even though Domart Energy was probably Grubbs Oilfield’s largest client, it could not require or expect Grubbs to accept all picker jobs offered.
+[19] While Grubbs Oilfield maintained its own liability insurance, the one time there was a liability claim in respect of Mr. Flanagan’s operation of the picker truck, the insurance company denied the claim on the basis that it believed Mr. Flanagan was one of Domart Energy’s employees. Thereafter, these EI and CPP rulings were issued that Mr. Flanagan was an employee and, as a result of these rulings, Mr. Flanagan refused to discuss his potential liability any further. Domart Energy paid the claims, which were modest, did not claim them on its own insurance, and moved on with its business having kept its customers making the claims satisfied.
+Analysis
+[20] The issue of employee versus independent contractor for purposes of the definitions of pensionable employment and insurable employment are to be resolved by determining whether the individual, in this case Mr. Flanagan, is truly operating a business on his own account. This is the question set out by the British courts in Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), approved by the Federal Court of Appeal in Wiebe Door Services Ltd v. The Minister of National Revenue, 87 DTC 5025 for purposes of the Canadian definitions of insurable employment and pensionable employment, and adopted by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R 983. This question is to be decided having regard to all of the relevant circumstances and having regard to a number of criteria or useful guidelines including: 1) the intent of the parties; 2) control over the work; 3) ownership of tools; 4) chance of profit/risk of loss and 5) what has been referred to as the business integration, association or entrepreneur criteria.
+[21] Before turning to these criteria and considering them in the facts of this case, I should note that it is both abundantly clear and conceded by the Crown that Mr. Flanagan does indeed carry on a business under the name Grubbs Oilfield Services. The Crown’s position is that the work Mr. Flanagan does as picker operator for Domart Energy is within the context of a separate employment relationship. They do not dispute that the piloting work Mr. Flanagan’s business does for Domart Energy is done in the context of the Grubbs Oilfield Services business Mr. Flanagan carries on. Nor does the Crown dispute that Mr. Flanagan’s Grubbs Oilfield Services does piloting and hotshotting work, and perhaps other picker operator work, for persons other than Domart Energy as part of its business. This aspect makes this particular case quite different from many of the reported cases in this area and from most of the authorities referred to by the Crown. In essence, the Crown’s position is that Mr. Flanagan’s picker operator work constituted a separate employment activity from his piloting work performed for Domart Energy in the same period and from his services provided to others in the period. The contra view to the Crown’s position would be that Domart Energy was merely one of Grubbs Oilfield Services’ best and largest customers in the period in question.
+The intent of the parties:
+[22] It is clear in this case that both parties intended the relationship to be that of independent contractor. Mr. Flanagan carried on business as Grubbs Oilfield Services and, prior to doing picker operating work for Domart Energy, did other work for them and did work for other customers. Mr. Pavlis on behalf of Domart Energy testified that, while he would have preferred to be able to hire Mr. Flanagan as an employed picker operator, at Mr. Flanagan’s insistence Domart Energy knowingly and intentionally agreed to enter into an independent contractor relationship with Mr. Flanagan’s business Grubbs Oilfield Services instead.
+Control:
+[23] It is clear that Domart Energy did not exercise the degree of control over its working relationship with Mr. Flanagan’s Grubbs Oilfield Services of the type that an employer might exercise over an employee. Importantly, Domart Energy could not direct Mr. Flanagan to take any particular Domart Energy job. Domart Energy offered picker operating jobs to Flanagan that he was free to turn down. The evidence is that he at times did turn them down and, while Mr. Pavlis may not always have been aware of the reasons, he could say that at times they were turned down for personal reasons and at times due to previously scheduled commitments for other Grubbs Oilfield Services customers. Further, once Grubbs Oilfield Services agreed to take on a particular Domart Energy job, it was only responsible to Domart Energy for making sure the equipment was dropped off or picked up at Domart Energy’s customer’s location at the agreed to or appointed day or time. Mr. Flanagan decided when to set out, how to proceed, when to take breaks, etc.
+Ownership of tools of the trade:
+[24] Grubbs Oilfield Services did not own a picker truck. However, Grubbs did not hold itself out as being in the picker truck business in the way that McCallum Trucking, Domart Energy’s other supplier, was. Grubbs Oilfield Services only offered the services of providing duly qualified picker truck operators. Mr. Flanagan was the owner of the necessary credentials and legal qualifications to do that and for the cost of maintaining those licenses and certificates. In addition, the cost of the necessary protective equipment, footwear and clothing required to operate a picker truck was borne by Mr. Flanagan without any reimbursement or contribution from Domart Energy.
+Chance of profit/Risk of loss:
+[25] It is clear that the overall activities of Grubbs Oilfield Services were such that Mr. Flanagan as owner benefited from the chance of profit and bore the risk of loss from Grubbs Oilfield Services activities. While the services were performed at an hourly rate, this is not the simple case of an hourly wage earner. Many skilled tradesmen and professionals generate their revenue by charging by the hour for their services. Mr. Flanagan owned at least one truck used in its piloting and hotshotting business and bore all the costs associated with it as well as with the promotion of the business. While the risk of loss with respect to the picker operator services may have been less than in the other areas of Grubbs Oilfield Services activities, this still bore such risks as liability for damage and the related insurance costs therefor. Grubbs Oilfield Services bore the costs of performing to the expectations of its customers or of its customers’ customers. There was no guarantee of picker operator work from Domart Energy. Grubbs was responsible for all fines and penalties associated with highway and transportation infractions as well as out-of-town travel costs other than the fuel consumed by the picker truck. I do not find that this lesser degree of economic risk with its picker operator activities inclines towards an employment relationship between Domart Energy and Flanagan. This is not a case where there is a virtual absence of such risk. It must be borne in mind that prudent business persons always seek to structure their business activities and relationships in such a way as to minimise the bearing of risk in so far as possible. Indeed, many consider that an indicia of a well-run business.
+[26] The Crown placed considerable emphasis in argument on the fact that when Mr. Flanagan was involved in a mishap causing damage to the property of third parties, Grubbs Oilfield Services’ liability insurer denied coverage promptly on the basis that Mr. Flanagan was one of Domart Energy’s employees. I am not much influenced by an insurer denying coverage based on its assessment of the very legal relationship I am asked to determine. It is not as though the insurance investigation turned up a written employment contract or so much as a statement by Mr. Flanagan, much less Domart Energy, that he was an employee. There is no evidence that Mr. Flanagan ever took the position he was an employee for purposes of that damage and insurance claim prior to the Canada Revenue Agency determination in question. I am not influenced by the fact that after finding out that CRA regarded him as a Domart Energy employee, Mr. Flanagan may have held that up as a full answer to Domart Energy’s claim for the damage. Nor do I find it significant in the circumstances that Domart Energy decided to pay for the property damage for the purpose expressed in evidence of keeping its customers satisfied and its goodwill intact. The fact that Domart Energy did not make a claim on its insurance for this damage is not clearly helpful to the Crown’s position since Domart Energy’s insurance would likely cover damage caused by the actions of its employees but it may not extend to damage caused by a third party contractor in the course of providing services to Domart Energy.
+Integration/Association/Entrepreneur:
+[27] I am mindful of the fact that the integration, association or entrepreneur criteria should be used very cautiously if at all. I do not believe that the picker operator services in question were so integrated into Domart Energy’s business as to be Domart Energy carrying on its business through Mr. Flanagan as employee. There was no evidence to suggest that Domart Energy’s customers would not have regarded Grubbs Oilfield Services and Mr. Flanagan as an independent subcontractor involved in getting Domart Energy’s equipment to and from their worksite. Clearly Domart Energy’s customers would have thought so had McCallum Trucking’s picker and operator been used for the delivery or pick up.
+[28] I do not accept that the supervision and direction that a picker truck operator has over the accompanying swamper provided by Domart Energy for the trips is of the nature that constitutes management or supervision of Domart Energy’s employees for purposes of determining whether Flanagan is an integral part of Domart Energy’s business.
+Conclusions
+[29] Based on the evidence in this case I am satisfied that the provision of picker truck operator services was an integral part of the Grubbs Oilfield Services business carried on by Mr. Flanagan. There is no factual or legal basis to justify treating those services used by Domart Energy as separate from Grubbs Oilfield’s overall business activities and characterizing them as being in the nature of the employment of Mr. Flanagan by Domart Energy. This is a case of Mr. Flanagan providing the services to Domart Energy in the course of an already established business of his own. As set out in Market Investigations, this makes it an easier case in which to apply the relevant tests.
+[30] Counsel for the Crown referred to a considerable number of earlier decisions of this Court involving truck drivers. Virtually, all of those cases preceded the decision of the Federal Court of Appeal in Royal Winnipeg Ballet v. The Minister of National Revenue, 2006 DTC 6323. Domart Energy’s counsel referred to the Reasons in A.L.D. Enterprises Inc. v. The Minister of National revenue, 2007 TCC 71 decided by this Court after Royal Winnipeg Ballet. The Reasons in A.L.D. were written by the judge who had decided many of the earlier transport cases relied upon by the Crown. In A.L.D., the Court decided in favour of independent contractor status noting the particular importance of the parties’ intention and the control test. The A.L.D. analysis and decision is consistent with the Federal Court of Appeal’s decision in Royal Winnipeg Ballet as well as its more recent decision in Combined Insurance Co. of America v. Canada ( Minister of National Revenue), 2007 FCA 60. The Reasons of this Court in Vida Wellness Corp. v. Canada (The Minister of National Revenue), 2006 TCC 534 also provide a helpful summary of the significance of the Federal Court of Appeal’s decision in Royal Winnipeg Ballet. Most recently, the Chief Justice’s Reasons in Lang v. Canada (The Minister of National Revenue), 2007 TCC 547 are also very helpful on this point.
+[31] Domart Energy’s position is very straightforward and persuasive. Domart Energy used the services of Grubbs Oilfield Services to operate its picker truck just as it used Grubbs Oilfield Services for piloting and had used Skookum Inc.’s services previously. Grubbs Oilfield Services was comprised of the business of providing picker truck operating services, pilot trucking services and hotshot car services. Since Mr. Flanagan was the owner and operator of Grubbs Oilfield Services when these services were provided, and since they were provided as part of the Grubbs Oilfield Services business, Mr. Flanagan could not be considered to be an employee of Domart Energy.
+[32] In short, Grubbs Oilfield Services was an independent business operated by Mr. Flanagan which had customers other than Domart Energy and offered services that Domart Energy did not avail itself of. Domart Energy and Mr. Flanagan intended their relationship from the outset to be one of contract for services not one of employment. Indeed, Mr. Flanagan refused Domart Energy’s preference for an employment relationship. The parties did not do anything inconsistent with the relationship being an independent contractor relationship. Domart Energy’s employees who worked as picker truck operators prior to the use of Grubbs Oilfield Services and after the Grubbs Oilfield Services relationship ended were paid differently than Grubbs was. Those employees received the lesser hourly rate, received over time, were guaranteed work, were required to report to work at 8 a.m. and could not leave before 1 p.m. even if there was no work to be done. They were not responsible for their own traffic or transport infractions. They were subject to a greater degree of control than Mr. Flanagan was.
+[33] For these reasons I find Mr. Flanagan was not in insurable employment or pensionable employment with Domart Energy. I will be allowing these appeals and vacating the Minister’s decision.
+Signed at Ottawa, Canada, this 2nd day of October 2007.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2007TCC585
+COURT FILE NOS.: 2006-13(EI), 2006-17(CPP)
+STYLE OF CAUSE: DOMART ENERGY SERVICES LTD. AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Grande Prairie, Alberta
+DATE OF HEARING: August 9, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: October 2nd, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Andrea Chrenek
+Counsel for the Respondent:
+Daniel Segal
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Andrea Chrenek
+Firm: Lewis & Chrenek LLP
+Grande Prairie, Alberta
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

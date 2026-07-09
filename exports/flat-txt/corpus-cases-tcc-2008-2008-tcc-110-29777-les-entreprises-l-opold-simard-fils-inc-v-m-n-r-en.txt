@@ -1,0 +1,170 @@
+Title: Les Entreprises Léopold Simard & Fils Inc v. M.N.R
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29777/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-110-29777-les-entreprises-l-opold-simard-fils-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-02-22
+
+# Les Entreprises Léopold Simard & Fils Inc v. M.N.R
+
+- Citation: 2008 TCC 110
+- Decision date: 2008-02-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6522, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Entreprises Léopold Simard & Fils Inc v. M.N.R
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-22
+Neutral citation
+2008 TCC 110
+File numbers
+2006-1332(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006‑1332(EI)
+BETWEEN:
+LES ENTREPRISES LÉOPOLD SIMARD & FILS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 12, 2008 at Chicoutimi, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Sylvain Truchon
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of February 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 11th day of April 2008.
+Brian McCordick, Translator
+Citation: 2008TCC110
+Date: 20080222
+Docket: 2006‑1332(EI)
+BETWEEN:
+LES ENTREPRISES LEOPOLD SIMARD & FILS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif, J.
+[1] This is an appeal regarding the insurability of work performed by Denise Langlois during the periods from August 27, 2001 to August 30, 2002, from December 2, 2002 to April 25, 2003, and from January 5, 2004 to December 3, 2004, for the Appellant company, Les Entreprises Léopold Simard & Fils Inc.
+[2] The decision under appeal is that the work in question must be excluded from insurable employment under paragraph 5(2)(i) of the Employment Insurance Act ("the Act" ) as the parties to the contract of employment were not dealing with each other at arm's length.
+[3] In other words, the Minister exercised his discretionary authority by relying on certain factual assumptions to determine that the contract of work was influenced by the non-arm's-length relationship as regards the terms and conditions, duration, and nature and importance of the work performed.
+[4] The facts assumed are set out in paragraphs 5 (a) through (c) and 6 (a) through (u) of the Reply to the Notice of Appeal. The Appellant admitted the facts mentioned in paragraphs 5 (a) through (c), 6 (a) through (c), (e), (g) through (j), (n) and (o), denied those in paragraphs 6 (f), (l) and ( p) through (t), and, finally, had no knowledge of those mentioned in paragraphs 6 (d), (k), (m) and (u).
+5. The Appellant and the worker are not dealing with each other at arm's length within the meaning of the Employment Insurance Act because:
+(a) during the periods in issue, the Appellant's shareholders were:
+‑ Gérard Simard, with 98% of the shares;
+‑ the worker, with 2% of the shares. (admitted)
+(b) the worker is Gérard Simard's wife; (admitted)
+(c) the worker is related to a person who controlled the Appellant. (admitted)
+6. The Minister determined that the Appellant and the worker were not at arm's length in the context of the employment. In fact, the Minister was satisfied that it was unreasonable to conclude that the Appellant and the worker would have entered into a substantially similar employment contract if they had been dealing with each other at arm's length, in view of the following circumstances:
+(a) the Appellant, incorporated on November 15, 1982, carries on a business specializing in excavation and wood transportation; (admitted)
+(b) the Appellant's office is located in the residence of the worker and Mr. Simard; (admitted)
+(c) the Appellant owned 6 10‑wheeler trucks, a mechanical shovel and 2 loaders; (admitted)
+(d) the Appellant carries on business year-round and has a peak period between the months of April‑May and October‑November of each year; (no knowledge)
+(e) the Appellant hires up to 10 employees during the peak period and often none outside the peak period; (admitted)
+(f) during the peak period, the Appellant might receive up to 30 telephone calls per week, while this number dropped to 1 or 2 calls per week outside the peak period; (denied)
+(g) the worker has been employed by the Appellant since its establishment as a secretary, bookkeeper and receptionist; (admitted)
+(h) in 2000, the Appellant hired Sylvie Simard, the daughter of Gérard Simard, to handle the accounting and administrative aspects of the business; (admitted)
+(i) after that time, the Appellant computerized his business and employed 2 persons full‑time to handle the secretarial and administrative aspects, namely the worker and Sylvie Simard; (admitted)
+(j) during the periods in issue, the worker performed services under the control of Mr. Simard; (admitted)
+(k) the worker's duties were to assist Sylvie Simard when she was too busy by answering the telephone and doing filing; (no knowledge)
+(l) the worker could also do housekeeping chores and do her grocery shopping; (denied)
+(m) the worker had no regular work schedule and her hours of work were not recorded by the Appellant; (no knowledge)
+(n) during the periods in issue, the worker claims she was working 40 hours per week; (admitted)
+(o) the worker was paid $10.00 per hour or $400.00 per week irrespective of the number of hours actually worked; (admitted)
+(p) the worker was often listed in the Appellant's payroll journal outside the peak period when there was little activity and there were no employees; (denied)
+(q) the worker performed services for the Appellant according to her own needs and not according to the Appellant's needs; (denied)
+(r) when the worker was laid off, nobody replaced her because Sylvie Simard could handle the work alone; (denied)
+(s) during the periods in issue, the minimal duties assigned to the worker did not require 40 hours of work per week; (denied)
+(t) after the arrival of Sylvie Simard in June 2000, the worker's work became more incidental than indispensable to the Appellant's activities; (denied)
+(u) although Sylvie Simard had more duties that were more complex than those performed by the worker, she received the same weekly remuneration as Sylvie Simard. (no knowledge)
+[5] Mr. Gérard Simard described the history of the company created by his father, assisted by his mother; his father developed the lands that he sold; he also performed excavation work when his clients decided to have a house built. Over the years, these activities were augmented by the transportation of wood and certain snow removal work.
+[6] In the early 1980s, Gérard Simard, who had been working in his father's business for several years, began to take steps in preparation for the transition. Thus, over a five-year period, he began to gradually acquire his father's shares until, by the end of that period, he owned very nearly all the shares, with his wife Denise Langlois holding 2%.
+[7] He explained how the business continued to grow and develop from independent offices that were connected, however, to the family residence. Over the years, his wife had replaced his mother; she alone handled the administrative tasks, which were performed manually for a long time.
+[8] As the father of two daughters, Mr. Simard explained that one of them ran a day care service and the other, Sylvie, had expressed an interest in the family business at a very early age.
+[9] To prepare herself for an important role in the business, Sylvie first studied administration. In the late 1990s, the business' accountant strongly recommended that a computer system be installed, which Sylvie handled, as her mother was not interested in it and preferred her traditional method of doing everything manually.
+[10] The mother and daughter worked closely together to set up the computer system, a lengthy and difficult task, with Sylvie being the only person capable of using it.
+[11] After the computer system was installed, and with her father's encouragement, Sylvie assumed a role of increasing importance in the business. In particular, she took courses in planning, occupational health and safety, and so on.
+[12] In other words, she began to do what her father had done some thirty years earlier. Her mother, always faithful to the traditional approach, never stopped working, except for three periods, two of which were caused by illness.
+[13] Having no experience with computers, her mother handled matters manually and the work involving the computer was neglected until Sylvie returned, particularly during her maternity leave of several months.
+[14] Mr. Simard explained that when his wife or daughter was absent, he had to spend more time at the office. He stated that he then preferred to hire someone to do the manual work rather than the office work. At a certain point, however, the business hired someone to do the office work. The work was then given to his sister‑in‑law, the Appellant's sister.
+[15] As regards the work of Denise Langlois, which is the subject of this matter, she and Mr. Simard explained that it involved working on a very irregular schedule, stating that she might have to answer a business call at 5 a.m.; it was indicated that work often continued after 5 p.m. and that she often had to receive clients on weekends various reasons.
+[16] As for the hours of work, periods of work, salary and other terms and conditions for performance of the work, Mr. Simard and his daughter described the work performed. They noted that some the work week could vary between 20 and 60 hours.
+[17] All this testimony indicated that the duties were important and numerous and took place over a very long period, with Mr. Simard even talking of 24 hours per day and seven days per week.
+[18] As regards the salary, it was clearly established that it was $400 per week, irrespective of the number of hours worked or the time when the work was performed.
+[19] The same salary of $400 per week was also paid to Mr. Simard's sister‑in‑law when she came to work for the business for a period of two months.
+[20] In this respect, Mr. Simard specifically asserted that this woman's workload was not comparable to his wife's, particularly regarding the regularity of the work schedule.
+[21] The work performed by the worker was been excluded from insurable employment under paragraph 5(2)(i) of the Act, which reads as follows:
+5(2) Insurable employment does not include ...
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+The investigation and analysis conducted under the discretionary authority set out in the Act have led to the conclusion that the Appellant could not benefit from the exception provided by Parliament, considering that the work was not performed under terms and conditions that would have been substantially similar if the parties to the contract had been dealing with each other at arm's length.
+[22] In other words, the Minister determined that persons at arm's length would not have entered into a substantially similar employment contract in terms of the duration or number of hours of work, the time of performance of the work, the workload and finally the remuneration. Parliament has framed the parameters of the Minister's discretionary authority in the following terms:
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[23] Counsel for the Respondent stated unequivocally that the facts established that the secretarial, bookkeeping and receptionist's work were exaggerated and of little importance to the proper functioning of the business.
+[24] However, the evidence submitted to the court indicated instead that the workload was real and, especially, much more important than what was determined during the investigation.
+[25] Given that this is a key consideration forming the basis of the Minister's conclusions, we must proceed with a new analysis based on the evidence adduced.
+[26] It does appear that Denise Langlois' workload was in fact important and real. It is also true that Ms. Langlois was very much involved in the proper functioning of the family business. While she never succeeded in mastering the computer, she nevertheless continued to perform the manual work in a somewhat parallel fashion, as she and her husband were more comfortable with that way of doing things.
+[27] In addition, she regularly assisted her daughter who had taken several months of maternity leave after the birth of her child. On several occasions, the witnesses referred to the fact that mutual assistance and working together were essential in a family business.
+[28] In this regard, Mr. Simard stated that this was a business in which things might have to be done over a period of seven days, even 24 hours per day, adding that his Appellant wife and his daughter worked closely together for the greater good of the business.
+[29] He gave the example of having to answer the telephone at 5 o'clock in the morning. There were also many calls in the evenings and on weekends, and he indicated that his wife was always available, except when she was ill.
+[30] Sylvie's entry into the business could have reduced the importance of Mrs. Langlois' participation. However, Sylvie had a child and as a mother, her family responsibilities increased, thereby reducing her availability. On the other hand, the evidence indicated that she performed a considerable amount of work, with the support and encouragement of her father, eventually assuming a more significant role in which she spent a considerable part of her time outside the office.
+[31] This objective meant that she was doing less office work, devoting more time to duties directly connected with the operation of the business.
+[32] Ms. Langlois and her husband stated that Sylvie was very flexible and could even do personal work during the day, since she knew what had to be done and was available to perform the work at any time, either at night or on the weekend.
+[33] In a situation such as this, the following question must be asked: "Would a person at arm's length have agreed to be as free or flexible?" It is unnecessary to analyse the evidence to answer this question, since Mr. Simard himself stated that his sister‑in‑law, whose services had been retained for a certain period, had been hired to do the same work for the same salary, but on a schedule that was more firm, stable, regular and, especially, less demanding in terms of hours.
+[34] Would a person dealing at arm's length have agreed to work as many hours for remuneration of $400 per week, without considering overtime, and always at the same salary, year after year? To put the question is to answer it, no.
+[35] At this point, it is necessary to restate the facts within the context of a family business. Within the family, availability, flexibility, zeal, dynamism, enthusiasm, willingness to work for free and generosity are essential qualities, which often explain the success of a family business.
+[36] If the business prospers, develops and grows, the result generally benefits everyone. Therefore it is no exaggeration to say that while there are many advantages, often there are also many disadvantages.
+[37] In employment insurance, Parliament wanted to avoid any discrimination with respect to individuals who are employed by persons with whom they are not dealing at arm's length.
+[38] In order to achieve this objective, Parliament enacted paragraph 5(2)(i) of the Act, which provides that this employment is automatically excluded from insurable employment, immediately adding, however, that if this work is performed under terms and conditions of remuneration and duration substantially similar to what would have been the case for persons dealing with each other at arm's length, the work which was initially excluded would then become insurable.
+[39] Accordingly, in order for the work to be insurable, the similarities must be real. In the case at bar, would a person dealing at arm's length with the family have accepted a workload spready over a seven-day week, with the possibility that work could begin as early as 5 a.m. and extend regularly into evenings and weekends, and all this for a salary of $400, without any annual salary increase?
+[40] I do not think so. The sole reason for accepting this work was a concern for the proper operation of the business, its prosperity and development, the ultimate expectation being to achieve a high standard of living. Such motivation, commitment and interest would not have been possible in the case of a person dealing at arm's length. The principal shareholder himself referred to the difference in the case of his sister‑in‑law, who in any event was less demanding than a person at arm's length would have been. The dynamism, interest and flexibility required in the instant case are such that it is thoroughly unlikely that a third person would have accepted even a reduced workload.
+[41] For all these reasons, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 22nd day of February 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 11th day of April 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC110
+COURT FILE NO.: 2006‑1332((EI)
+STYLE OF CAUSE: LES ENTREPRISES LÉOPOLD SIMARD & FILS INC. AND M.N.R.
+PLACE OF HEARING: Chicoutimi, Quebec
+DATE OF HEARING: February 12, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: February 22, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Sylvain Truchon
+Counsel for the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Sylvain Truchon
+Firm: Chicoutimi, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

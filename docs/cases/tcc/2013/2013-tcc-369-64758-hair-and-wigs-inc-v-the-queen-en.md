@@ -1,0 +1,164 @@
+---
+title: "Hair And Wigs Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64758/index.do"
+last_modified: "2013-11-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 369"
+citation2: ""
+neutral_citation: "2013 TCC 369"
+decision_date: "2013-11-21"
+language: "en"
+item_id: "64758"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5890
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:44:28.396000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e1548288df15c739d485d93e5836088eb6d72eb7b336367e1989ca361b1ffcb3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hair And Wigs Inc. v. The Queen
+
+- Citation: 2013 TCC 369
+- Decision date: 2013-11-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5890, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hair And Wigs Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-11-21
+Neutral citation
+2013 TCC 369
+File numbers
+2012-931(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-931(GST)I
+BETWEEN:
+HAIR AND WIGS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 3, 2013, at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Carmelle Farley
+Counsel for the Respondent:
+Christian Cheong
+____________________________________________________________________
+JUDGMENT
+The appeal against the reassessment dated September 23, 2009 made under Part IX of the Excise Tax Act for the reporting periods commencing January 1, 2006 and ending on December 31, 2007 is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 21st day of November 2013.
+"Réal Favreau"
+Favreau J.
+Citation: 2013 TCC 369
+Date: 20131121
+Docket: 2012-931(GST)I
+BETWEEN:
+HAIR AND WIGS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] Hair and Wigs Inc. appeals a reassessment under Part IX of the Excise Tax Act, R.S.C. 1985, c.E-15, as amended (the “ETA”) for the reporting periods commencing January 1, 2006 and ending on December 31, 2007 (the “Periods”).
+[2] The Minister of National Revenue (the “Minister”) reassessed the appellant for the Periods, notices of which were dated September 23, 2009, disallowing input tax credits (“ITCs”) in the following amounts for lack of supporting documentation to substantiate the amounts claimed:
+Period
+ITCs Claimed
+ITCs Disallowed
+Revised ITCs
+2006-03-31
+$15,578
+$13,728
+$1,850
+2006-06-30
+$22,463
+$19,795
+$2,668
+2006-09-30
+$23,657
+$20,847
+$2,810
+2006-12-31
+$20,627
+$18,177
+$2,450
+2007-03-31
+$12,683
+$11,362
+$1,321
+2007-06-30
+$25,433
+$22,784
+$2,649
+2007-09-30
+$22,436
+$20,099
+$2,337
+2007-12-31
+$23,102
+$20,696
+$2,406
+[3] The Minister also assessed gross negligence penalties of $36,873 under section 285 of the ETA for the Periods, late remitting penalties of $2,889.71 under former section 280 of the ETA for the Periods, penalties of $21.30 under section 280.1 of the ETA for failure to file its Goods and Services Tax (“GST”) returns for the periods ending June 30, 2007, September 30, 2007 and December 31, 2007, together with arrears of interest of $32,925.36 for the Periods and interest of $770.78 for the Periods.
+[4] At the hearing of the appeal, Mrs. Farley, sole shareholder and operator of the business, confirmed that the appellant was a corporation operating a retail store specializing in the sale of human hair and wigs and that the appellant was at all material times, a registrant under Part IX of the ETA filing its GST return on a quarterly basis.
+[5] Mrs. Farley explained that the years 2006 to 2009 were very difficult for her: her sister committed suicide, her father died, she had four bank lawsuits, she lost the building where she was carrying on her business and her books and records were lost when they were sent back to her by her former accountant. The appellant's financial statements for 2006 and 2007 were reconstructed in May 2009. GST summaries and ITCs calculations were submitted to the Canada Revenue Agency (“CRA”) on May 29, 2009. The appellant then claimed ITCs of only $11,506 for 2006 and $12,094 for 2007 compared to the amounts of $82,325 and $83,654 she had originally claimed in 2006 and 2007.
+[6] Mrs. Farley admitted that she had been negligent in 2006 and 2007 in the way she dealt with the appellant's GST tax returns but maintained that was due to circumstances beyond her control.
+Analysis
+[7] The appellant has the burden to establish that it is entitled to ITCs. For this purpose, the appellant must establish that it incurred GST in relation to the expenses of its business and that it has supporting documentation before filing its GST returns, as required by subsection 169(4) of the ETA. The evidence presented in this appeal is entirely unsatisfactory and does not meet this burden in both respects.
+[8] The appellant's reconstructed financial statements confirmed in effect that the appellant overclaimed ITCs for 2006 and 2007.
+[9] There were no independent witnesses called to the bar to substantiate Mrs. Farley’s statements that the documentation supporting the ITCs claims was lost either in a flood or when sent back to her by her former accountant. At the very least, the person who prepared the GST returns should have testified.
+[10] I am therefore not satisfied that the expenses claimed were incurred or that the appellant has the prescribed documentation as required by subsection 169(4) of the ETA.
+[11] As for the penalty provided for in section 285 of the ETA, it is clear to me that the appellant, knowingly or under circumstances amounting to gross negligence, made or participated in, assented to or acquiesced in the making of false statements in its GST returns for the reporting Periods. The appellant had systematically and without any justification claimed ITCs that were too high for the reporting Periods and that these excess amounts claimed were substantial. The appellant has been in operation since the year 2000 and has been audited on three occasions for GST between the years 2000 and 2006. Mrs. Farley was familiar with the process and she knew or ought to have known that the ITCs claims that were made by the appellant were wrong and excessive.
+[12] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 21st day of November 2013.
+"Réal Favreau"
+Favreau J.
+CITATION: 2013 TCC 369
+COURT FILE NO.: 2012-931(GST)I
+STYLE OF CAUSE: Hair And Wigs Inc. and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 3, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: November 21, 2013
+APPEARANCES:
+Agent for the Appellant:
+Carmelle Farley
+Counsel for the Respondent:
+Christian Cheong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

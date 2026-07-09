@@ -1,0 +1,197 @@
+Title: Scott v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29789/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-237-29789-scott-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-05-05
+
+# Scott v. The Queen
+
+- Citation: 2010 TCC 237
+- Decision date: 2010-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6595, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scott v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-05
+Neutral citation
+2010 TCC 237
+File numbers
+2008-1657(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2008-1657(IT)I
+BETWEEN:
+GEORGE W. SCOTT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence together with the appeals of Stephonie Scott (2008-1704(IT)I) on March 15, 2010 at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+Stephonie Scott
+Counsel for the Respondent:
+Carol Calabrese
+Aleksandrs Zemdegs
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2005 and 2006 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of May 2010.
+"Diane Campbell"
+Campbell J.
+Dockets: 2008-1704IT)I
+BETWEEN:
+STEPHONIE SCOTT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence together with the appeals of George W. Scott (2008-1657(IT)I) on March 15, 2010
+at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Carol Calabrese
+Aleksandrs Zemdegs
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2005 and 2006 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of May 2010.
+"Diane Campbell"
+Campbell J.
+Citation: 2010 TCC 237
+Date: 20100505
+Dockets: 2008-1657(IT)I
+2008-1704(IT)I
+BETWEEN:
+GEORGE W. SCOTT
+STEPHONIE SCOTT,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] These appeals were part of a group of charitable donation appeals involving almost forty different Appellants. By the time they were scheduled for hearing, many of the Appellants had withdrawn their appeals. In the end, only the appeals of Richard Kwame Adomphwe (2008-3722(IT)I), George W. Scott (2008-1657(IT)I), Stephonie Scott (2008-1704(IT)I) and Doreen Tuar (2008-2888(IT)I) proceeded to hearing.
+[2] The Scott appeals were heard together on common evidence and both appeals involve their 2005 and 2006 taxation years. In each of these taxation years, the Appellants claimed non-refundable tax credits in respect to charitable donations as follows:
+Stephonie Scott
+Year
+Charity
+Amount
+2005
+CanAfrica
+$2,700.00
+2006
+Bible Teaching Ministries
+$3,200.00
+2006
+Heaven’s Gate Healing Ministry
+(“Heaven’s Gate”)
+$3,690.00
+George W. Scott
+Year
+Charity
+Amount
+2005
+PanAfrican Canadian Multicultural Centre
+$8,410.00
+2005
+Bible Teaching Ministries
+$4,125.00
+2006
+Heaven’s Gate Healing Ministry
+(“Heaven’s Gate”)
+$4,130.00
+2006
+Bible Teaching Ministries
+$3,500.00
+[3] The Appellants’ home was listed for sale sometime in 2005. According to Mr. Scott, when the house sold in mid-2006, they moved into a rental unit because his wife was not employed on a regular basis and they were using their savings to pay expenses. Mrs. Scott stated that a friend referred her to an individual that would pick up items of furniture which she wanted to dispose of before selling the house and that he would appraise those items and provide her with a receipt on behalf of a charity in Africa. Sometime in 2005 or 2006, these items were picked up and her husband also delivered items to this individual’s organization although she did not know the location where the items were dropped off. Mr. Scott confirmed that he did deliver items to a trailer belonging to George Gudu but that it was in 2004. Mrs. Scott stated that both she and her husband attended at the home of Ambrose Danso-Dapaah in Mississauga to view videos of charities that worked with African children. Other than this contact, it appears from the evidence that Mrs. Scott’s dealings were entirely through her husband who eventually had George Gudu prepare their tax returns in both 2005 and 2006. Mr. Scott delivered his wife’s information to Mr. Gudu who prepared her returns and then her husband brought these returns back home for her to sign. She said that she did not review these returns before she signed them.
+[4] Mr. Scott first became acquainted with Mr. Gudu when he attended at the offices of ADD Accounting to drop off items that the Scotts were donating. George Gudu, in 2005, was a part-time employee of ADD Accounting and worked for the owner, Ambrose Danso-Depaah. Mr. Danso‑Dapaah has since pled guilty to fraud on December 15, 2008 for issuing false tax donation receipts to clients of ADD Accounting and preparing false tax returns.
+[5] George Gudu purchased the clientele base of ADD Accounting from Mr. Danso-Dapaah in December of 2006 and started operating under the name, Payless Tax. It appears from Mr. Gudu’s own admission that he blithely carried on the common practice of issuing false receipts for which, according to his testimony, clients paid 10 per cent of the face value of the receipt. Mr. Gudu has also been charged, along with a third tax preparer, and according to the evidence will be pleading guilty to fraud, pursuant to an agreement with CRA, in the near future.
+[6] Mr. Scott claimed that he made cash donations in addition to the goods which were donated. Between January and December in 2005, he claims that he withdrew cash from his bank account on numerous occasions and delivered the amounts to the tax offices of Mr. Gudu. However, he could not recall the cash amounts or the exact location of that office. These cash amounts were withdrawn at the same time as he withdrew amounts for payment of household expenses. He could provide no information respecting the amounts he may have withdrawn and no documentation, banking or otherwise, that might support this claim. In respect to the donated goods, he stated that he kept a list of these items but that it had been thrown out and could not be produced at the hearing.
+[7] In 2006, he claims he again provided goods and cash amounts to Mr. Gudu’s office, Payless Tax, but only on three or four occasions. He could not recall the names of the individuals at the office who received the money. Again, he maintained that he kept a personal list of these payments but that he had misplaced it.
+[8] In 2005, Mr. Scott had employment income of $45,741.37 together with a severance allowance of $46,432.14, which accounted for a higher-than-usual income in 2005. In 2006, his employment income was $53,572.66. Mrs. Scott earned $20,280.42 in 2005 and $31,175.28 in 2006.
+[9] Mr. Scott stated that he never investigated the work of these charities except to read through pamphlets of the charities and check to see that they were registered.
+[10] When presented with the invoices attached to the returns for 2005 and 2006 which were printed from the CANTAX software program on computer equipment seized by Canada Revenue Agency (“CRA”) from George Gudu’s office, Mr. Scott denied ever seeing the invoices. These invoices contained a “zero” amount as a preparation fee because, according to Mr. Scott, he pre-paid George Gudu this fee as soon as the paperwork was completed in March or April. These invoices also referenced the total receipt amounts issued in each year but, opposite these amounts, it clearly listed receipt of only 10 per cent of the face value amount of each receipt. The invoice for the 2005 taxation year notes payment in full of the 10 per cent amount as having been received on March 28, 2006 and not throughout 2005 as Mr. Scott claimed. The invoice for the 2006 taxation year contains the same set up but indicates that the 10 per cent amount was still owing. There is also a reference to an individual by the name of “James” on this invoice for 2006. Mr. Scott, in cross-examination, stated that he worked with James Grossett but did not know why there was a reference to “James” contained on this invoice. During the direct examination of George Gudu, he identified the “James” reference on the 2006 receipt as being “James Grossett”, who worked for Mr. Gudu soliciting clients by bringing in taxpayers’ T‑4’s for preparation of returns. Mr. Grossett, one of several individuals doing this for Payless Tax, was paid a percentage of 1.5 per cent of the 10 per cent amount paid by clients that he brought to the business. Mr. Scott maintained that, despite these invoices, he paid the full dollar value amount in respect to each receipt either by way of cash or gifts‑in-kind. Similarly, Stephonie Scott claimed that she paid the full amount of the receipts in either cash or goods-in-kind and not just the 10 per cent amount as evidenced by these invoices attached to their seized returns.
+[11] George Gudu had no specific recollection of the Scotts. Mr. Gudu was employed in 2005 as a part-time tax preparer for ADD Accounting, which was owned by Ambrose Danso-Dapaah. Previous to this part-time employment in 2005, Mr. Danso-Dapaah prepared Mr. Gudu’s tax returns. Their history dates back to being classmates in school before coming to Canada. When Mr. Gudu prepared tax returns in 2005, he stated that it was common practice for all ADD Accounting employees to provide inflated charitable donation receipts where the clients had paid only 10 per cent of the face value of the receipts. The 10 per cent amounts would then be split between the charity that provided the pre-signed receipts and ADD Accounting. In December of 2006, Mr. Danso-Dapaah offered to sell his clientele list to George Gudu. As a result, Mr. Gudu re-opened at a new location on Kipling Street, operating under the name Payless Tax. Mr. Gudu stated that approximately 98 per cent of the 3,000 clients of ADD Accounting purchased such receipts and this practice was continued by Mr. Gudu after he purchased the clientele list and moved to his new location. During tax season, the pre-signed receipts were kept in cars rather than the office to avoid detection. Receipts were completed by different employees and not always by Mr. Gudu to ensure that the receipts contained different handwriting so they would look genuine.
+[12] George Gudu stated that donations of gifts-in-kind consisted primarily of items of clothing that were not appraised. There was never any attempt to correlate the value of the donated goods to the value placed on the receipt given for the goods. His recollection was that for the 2006 taxation year, the only goods that were appraised by Payless Tax would have been a dry cell, eyeglasses and bedding donated by a hotel and an optical store. Further, these were received in 2007, while receipts were issued for the prior taxation year. Therefore, he states that there was no possibility that Mr. Scott donated over $8,000.00 in 2006 by way of goods‑in‑kind. He also stated that there had never been a goods-in-kind donation to Heaven’s Gate charity, although Mr. Scott maintained that a portion of his donation of $4,130.00 in 2006 to Heaven’s Gate consisted of both cash and goods.
+[13] According to George Gudu, his computer equipment was seized in April 2007. Copies of the returns of his clientele, together with other documentation including invoices, were contained within the seized equipment.
+[14] Mr. Kofi Debrah, a so-called pastor, testified that he was “involved” with both Ambrose Danso-Dapaah and with George Gudu on behalf of his charity, Bible Teaching Ministries, which became a registered charity in 2005. He confirmed his “arrangement” with these two individuals respecting the issuance of receipts from Bible Teaching Ministries and the payment of only 10 per cent of the face value of receipts by taxpayers. The 10 per cent amount was then split between the tax preparers and Mr. Debrah or, if Mr. Debrah is to be believed, his charity. The flow of money between Mr. Gudu and Mr. Debrah was always in cash. He also admitted that the receipts issued by Bible Teaching Ministries and provided to George Gudu were blank except for being pre-signed.
+[15] Deborah Edyvean, the Canada Revenue Agency (“CRA”) investigator, detailed the information, including the copies of clients’ tax returns, obtained from the CANTAX software program on the computers and equipment seized from the Payless Tax offices, as well as Mr. Gudu’s personal residence and his van. In addition, receipt booklets, from various charities, some completed and some pre‑signed and sealed but otherwise in blank, were seized. Letterhead from some charities and correspondence were seized.
+[16] Ms. Edyvean also referred to the invoices attached to the returns in respect to the preparation of the tax returns issued to the Appellants in 2005 and 2006. The tax preparation fee statement to the Appellant included references to the receipt number and the face value amount of the receipt but listing only payment of 10 per cent of that amount made in the year that the return was prepared and filed.
+[17] Both Ms. Edyvean and Barbara Lovie, also a special investigator with CRA, determined that Ambrose Danso-Dapaah and George Gudu were participants in a scheme whereby inflated receipt amounts were being utilized by these tax preparers and purchased by the clientele for 10 per cent of the inflated amount. She confirmed that Ambrose Danso-Dapaah entered a guilty plea in 2008 and that George Gudu, among others, has been charged with fraud. All of the charities involved have now had their charitable registrations revoked. According to the evidence of Ms. Lovie, the quantum of false donation receipts issued by Mr. Danso-Dapaah was approximately $21.6 million with $6.2 million in non‑refundable tax credits claimed.
+[18] The main issue in these appeals is whether the Appellants made any gifts to registered charities that would entitle them to claim non-refundable tax credits pursuant to section 118.1 of the Income Tax Act (the “Act”). In addition, a second issue arises as to whether the receipts issued by these charities can qualify as validly issued receipts in prescribed form pursuant to subsection 118.1(2) of the Act and Regulations 3500 and 3501(1) of the Income Tax Regulations (the “Regulations”).
+[19] It is the Respondent’s position that the Appellants did not make a true gift as contemplated by the common law but rather “purchased” donation receipts from their tax preparer which contained grossly inflated face value amounts.
+[20] The leading case on the meaning of “gift” is The Queen v. Friedberg, 92 D.T.C. 6031, where Linden J.A. defined “gift” as:
+… [A] gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor …
+[21] Respondent counsel referred to the case of Coombs et al v. The Queen, 2008 D.T.C. 4004, where Woods J. at paragraph 15 referred to the elements of this definition in the following manner:
+… First, it is necessary that the gifted property be owned by the donor, second that the transfer to the charity be voluntary, third that no consideration flow to the donor in return for the gift, and fourth that the subject of the gift be property, which distinguishes it from providing services to the charity. These elements reflect the general notion that a taxpayer must have a donative intent in regards to the transfer of property to the charity.
+[22] In Webb v. The Queen, 2004 TCC 619, [2004] T.C.J. No. 453, Bowie J. at paragraph 16 described this “donative intent” to transfer property to a charity as follows:
+[16] Much has been written on the subject of charitable donations over the years. The law, however, is in my view quite clear. I am bound by the decision of the Federal Court of Appeal in The Queen v. Friedberg, among others. These cases make it clear that in order for an amount to be a gift to charity, the amount must be paid without benefit or consideration flowing back to the donor, either directly or indirectly, or anticipation of that. The intent of the donor must, in other words, be entirely donative.
+[23] The Appellants made no attempt to show me or persuade me that together they paid any amount to George Gudu beyond the 10 percent value of the face amount of their receipts. In fact, the evidence of Mr. Scott was that they decided to sell their home in 2005 because Mrs. Scott had no regular income and the family was using savings to get by. They moved to a rental unit in 2006 when the house sold. In light of the evidence of financial problems, it is peculiar that together they would, or even could, donate, in cash and goods-in-kind, amounts totalling $15,235.00 in 2005 and $14,520.00 in 2006. Yet Mr. Scott maintained that he provided cash amounts to Mr. Gudu every second week in 2005 and on 3 to 4 occasions in 2006. He supposedly mislaid or lost a personal list supporting these cash amounts. No documentation was produced to support their contention. No attempt was made by either of the Appellants to quantify the amounts they say they contributed in cash. Although according to Mr. Scott’s evidence, he dropped off goods to Mr. Gudu’s office on several occasions, his only recollection of the specific items was that he delivered used computers. In addition, Mr. Scott could not recall the addresses for the locations where he attended to deliver cash and goods in either 2005 or 2006 in spite of the number of times he maintained he was there. He could not provide any information on the dates that he may have attended George Gudu’s premises, nor could he provide the names of the individuals at the office who received the donations. The record he says he kept of the list of donated goods, like his list of cash donations, was either mislaid or thrown out.
+[24] Mrs. Scott listed some items of household furniture that someone had picked up but her recollection was vague. In addition, she was never forthcoming with her evidence. She refused to provide the name of her friend who had given her the contact information for the pick up of her discarded furniture. She was also reticent in providing information on the sale of their home.
+[25] The evidence of the Appellants is in direct contrast to George Gudu who maintained that the majority of goods donated was clothing, not computers and household furniture as the Appellant’s contend, and that in 2006 only a few specific items, such as eyeglasses and bedding, had been donated by companies. However, I am reluctant to state that I would choose Mr. Gudu’s evidence over the Appellants’ where this individual has made a plea bargain to plead guilty in respect to fraud charges in relation to this scheme. That might be akin to a choice between “the Devil and the deep blue sea”.
+[26] The only evidence that charitable contributions were made, other than the receipts, is the testimony of Mr. and Mrs. Scott. However, their evidence was vague and general. Mrs. Scott, in particular, appeared reluctant to provide her story and, after all, this is her appeal. I had the general impression from both Appellants that they thought the production of the receipts should be sufficient to establish and support their claim for these tax credits. In these circumstances, I find it extremely difficult to accept the evidence of the Appellants that they contributed the face value of the receipts in 2005 and 2006. It is not clear that they had the requisite intention to donate even if they did have disposable income for donations in these years. I have the clear admission by Mr. Scott that they sold their home as they had been relying on their savings. He almost doubled his income in 2005 because of receipt of a severance allowance but that fact alone does not mean there was disposable income for donations. The financial difficulties may have arisen in prior years. I simply do not know because I have no evidence before me except Mr. Scott’s testimony. I am left with lingering doubt when no attempt was made to confirm specifics of these donations such as amounts, dates, names or locations. The Appellants provided amounts to George Gudu but the evidence does not support a conclusion that they gave amounts beyond the 10 per cent amount of the face value of the receipts.
+[27] There was also the evidence of the invoices attached to their returns that were produced from the seized equipment of George Gudu. These invoices are a critical piece of evidence that contradict their testimony and connect them to this scheme. They made no attempt to explain the existence of these invoices, which clearly point to the payment by the Appellants of only 10 per cent of the amount they claim they made.
+[28] The reference to “James” on the 2006 invoice is also telling. Although Mr. Scott did not admit that his co‑worker, James Grossett, introduced him to the tax preparation services of George Gudu, according to the evidence, Mr. Grossett worked for Mr. Gudu soliciting clients on his behalf. The reference to “James” apparently meant that he had picked up and dropped off the T4’s on the Scotts’ behalf. This could account for the reason why Mr. Scott could provide no specifics on the location for the drop-off payments or the names of the individuals that received those amounts.
+[29] On a balance of probabilities, I conclude that the evidence supports my finding that the Appellants paid no more than 10 percent in cash or goods in respect to the face value of the receipts that were provided to accompany their returns. In doing so, they meant to take advantage of the benefits the scheme offered.
+[30] Even if I had concluded that the evidence supported a contrary decision, I would still dismiss the appeals on the basis of the Respondent’s alternative argument. The receipts simply do not meet the requirements under subsection 118.1(2) of the Act and Regulations 3500 and 3501.
+[31] According to subsection 118.1(2), a gift is not to be included as a charitable gift unless it is accompanied by a receipt for the gift that contains certain prescribed information. That prescribed information is set out clearly and in specific detail at Regulation 3501(1). In particular, Regulation 3501(1)(h)(i) states that the receipt shall show:
+(h) the amount that is
+(i) the amount of a cash donation, or
+…
+[32] With respect to donations that include gifts of property, other than cash, Regulation 3501(1)(e.1) states that every official receipt shall contain the following:
+(e.1) where the donation is a gift of property other than cash
+(i) the day on which the donation was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+[33] The receipts in these appeals are deficient as they contain no description at all of the property allegedly gifted. The amounts listed on these receipts were not insignificant. Mrs. Scott’s 2005 receipt for $2,700.00 contains no description of the property, nor does it contain any reference to the date on which the donation was made. Again in 2006, her two receipts totalling $6,890.00 are devoid of a description of the property and, in particular, the Bible Teaching Ministries receipt references only that the donation was received for the year ending December 31, 2006 but omits naming the actual day on which the donation was made, as required by Regulation 3501(1)(e.1).
+[34] Mr. Scott’s two receipts for 2005 total $12,535.00 but, again, omit to include a description of the property. The PanAfrican receipt contains the words “In-Kind Donation” but this is insufficient because, when Regulation 3501(1)(e.1) references a description of the property, I believe Parliament intended that a description sufficient to identify the property being donated is to be included on the receipt. The Bible Teaching Ministries receipt again, like Mrs. Scott’s receipt from this organization, does not identify the day on which the donation was made. Mr. Scott’s two receipts in 2006, totalling $7,630.00, contain no description of the property he allegedly donated, and in addition, the Bible Teaching Ministries receipt does not contain the date on which the donation was supposedly made.
+[35] This missing receipt information is critical to the success of a taxpayer relying upon receipts to claim a tax credit where gifts of property are made. It is only reasonable that such information be included on this type of receipt in order to prevent taxpayers donating worthless property or property of a much lesser value while claiming a much greater value in order to obtain a tax benefit. It is also why there is a specific reference to an appraisal of such property. Although it is not a requirement that an appraisal be completed, by incorporating this reference, it implies that where there is doubt as to the value of donated property, a taxpayer may be required to produce the proof of such value through an appraisal or by other acceptable means.
+[36] I subscribe to the remarks by Tardif J. of this Court in Plante v. The Queen, [1999] T.C.J. No. 51, on the importance of issuing appropriate receipts. Tardif J. stated at paragraphs 46-48 of his Judgment:
+[46] The requirements in question are not frivolous or unimportant; on the contrary, the information required is fundamental, and absolutely necessary for checking both that the indicated value is accurate and that the gift was actually made.
+[47] The purpose of such requirements is to prevent abuses of any kind. They are the minimum requirements for defining the kind of gift that can qualify the taxpayer making it for a tax deduction.
+[48] If the requirements as to the nature of the information that a receipt must contain are not met, the receipt must be rejected, with the result that the holder of the receipt loses tax benefits. Accordingly, even though a taxpayer may have made a gift of a painting, he or she cannot claim the potential deduction if the appraisal and the receipt issued for the gift do not comply with the requirements of the Act and the Regulations made thereunder.
+[37] Since the receipts do not contain prescribed information, they do not comply with the Regulations and therefore cannot be used to support the Appellants’ claim that charitable gifts were made in 2005 and 2006.
+[38] For these reasons, the appeals are dismissed without costs.
+Signed at Ottawa, Canada, this 5th day of May 2010.
+"Diane Campbell"
+Campbell J.
+CITATION: 2010 TCC 237
+COURT FILE NOS.: 2008-1657(IT)I
+2008-1704(IT)I
+STYLE OF CAUSE: George W. Scott, Stephonie Scott and
+Her Majesty The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 15, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Diane Campbell
+DATE OF JUDGMENT: May 5, 2010
+APPEARANCES:
+For the Appellants:
+Stephonie Scott
+Counsel for the Respondent:
+Carol Calabrese
+Aleksandrs Zemdegs
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

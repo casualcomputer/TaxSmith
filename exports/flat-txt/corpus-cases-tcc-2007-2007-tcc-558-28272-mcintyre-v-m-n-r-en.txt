@@ -1,0 +1,232 @@
+Title: McIntyre v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28272/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-558-28272-mcintyre-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-04-02
+
+# McIntyre v. M.N.R.
+
+- Citation: 2007 TCC 558
+- Decision date: 2007-04-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1958, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McIntyre v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-02
+Neutral citation
+2007 TCC 558
+File numbers
+2004-2589(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-2589(EI)
+BETWEEN:
+TONY MCINTYRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of Paul Collette (2004-2684(EI)) on July 24, 2007, at Miramichi, New Brunswick
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+George Martin
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 28th day of September 2007.
+« S.J. Savoie »
+Savoie, D.J.
+Docket: 2004-2684(EI)
+BETWEEN:
+PAUL COLLETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of Tony McIntyre (2004-2589(EI)) on July 24, 2007, at Miramichi, New Brunswick
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+George Martin
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 28th day of September 2007.
+« S.J. Savoie »
+Savoie, D.J.
+Citation: 2007TCC558
+Date: 20070928
+Docket: 2004-2589(EI)
+BETWEEN:
+TONY MCINTYRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Docket: 2004-2684(EI)
+PAUL COLLETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Savoie, D.J.
+[1] These appeals were heard jointly at Miramichi, New Brunswick, on July 24, 2007.
+[2] The Tony McIntyre appeal will hereinafter be referred to as the “McIntyre” appeal and the Paul Collette appeal will hereinafter be referred to as the “Collette” appeal. At the hearing a motion was granted to amend paragraph 6 of the Reply to the Notice of Appeal in both the McIntyre and Collette appeals which in both cases will hereinafter read as follows:
+6. He relies on paragraphs 5(1)(a) and 5(2)(i) of the Act.
+[3] Another motion to amend was granted at the hearing whereby the first period of employment referred to under paragraph 5(b) of the Reply to the Notice of Appeal in the McIntyre appeal, i.e., between April 29 to July 7, as well as the applicable insurable hours and earnings was deleted.
+[4] The McIntyre appeal deals with a decision of the Minister of National Revenue (the “Minister”) wherein he informed the Appellant that while he was working for Wilmon Turbide o/a Turbide Engine Rebuilders (the “Payor”) from January 5, 2001 to August 31, 2003 (the “period under appeal”), he was not engaged in insurable employment pursuant to a contract of service within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (the “Act”).
+[5] The Collette appeal deals with a similar decision of the Minister with respect to the employment of Paul Collette between November 16, 2001 and November 2, 2002.
+[6] In reaching his decision in the McIntyre appeal, the Minister relied on the following assumptions of fact:
+(a) the Payor operated a boat building and repair business from a garage large enough to hold two boats; (denied)
+(b) the Payor issued Records of Employment to the Appellant which stated the following:
+PERIOD OF EMPLOYMENT
+INSURABLE HOURS
+INSURABE EARNINGS
+Apr 29 – Jul 7, 2001
+700
+$8,000
+Jul 23 – Aug 18, 2001
+280
+$3,240
+Sep 10 – 14, 2001
+70
+$800
+Aug 19 – 30, 2002
+140
+$1,620
+Sept 9/02 – Mar 29/03
+401
+$5,583
+(ignored)
+(c) the Appellant’s duties included fiberglassing and painting; (admitted)
+(d) the Appellant did not have previous experience in this work and was not trained by the Payor; (denied)
+(e) the Appellant determined his own hours of work; (denied)
+(f) the Appellant kept track of his hours worked and provided this information to the Payor at the end of the week; (admitted)
+(g) the Appellant purchased supplies at Baie Ste-Anne Building Supplies two or three times per week on behalf of the Payor while he was not on the Payor’s payroll; (admitted)
+(h) the Appellant repaired boats on behalf of the Payor while he was not on the Payor’s payroll; (denied)
+(i) the Appellant did the fiberglass work on a boat owned by Brian Ingalls; this work began in late July or early August, 2001 and was finished on or about October 18, 2001; (admitted)
+(j) the Appellant was on the Payor’s payroll for 5 weeks during the approximately 11 weeks that he worked on Brian Ingalls’ [sic] boat. (denied)
+[7] In reaching his decision in the Collette appeal, the Minister relied on the following assumptions of fact:
+(a) the Payor operated a boat building and repair business from a garage that was large enough to hold two boats; (denied)
+(b) prior to the period under appeal the Appellant operated a diesel mechanic business as a proprietorship under the name Collette Diesel; (admitted)
+(c) the Payor did not do business with the Appellant as a proprietor; (denied)
+(d) the Appellant was included on the Payor’s payroll for 20 consecutive weeks from December 17, 2001 to May 3, 2002; (admitted)
+(e) the Appellant’s duties included rebuilding boat engines which included taking the engine apart, cleaning and replacing parts as required; (admitted)
+(f) on May 13, 2002, the Payor issued a Record of Employment to the Appellant which reported insurable earnings of $12,000 and insurable hours of 1000; (admitted)
+(g) the Appellant required 910 insurable hours to establish a claim for Employment Insurance benefits; (admitted)
+(h) on November 15, 2001, the Payor issued a cheque for $500 to the Appellant; (admitted)
+(i) on May 6, 2002 the Appellant purchased supplies on behalf of the Payor; (admitted)
+(j) in May and June, 2002 the Payor did not have a mechanic on the payroll; (denied)
+(k) in May and June, 2002 the Appellant issued invoices on behalf of the Payor for mechanical work completed during that period; (denied)
+(l) on July 10, 2002 the Payor invoiced a client for 3 hours of labour which was performed by the Appellant; (denied)
+(m) the Appellant fixed a boat on behalf of the Payor at the Cap Pelé wharf on July 30, 2002; (denied)
+(n) the Appellant was working at the Payor’s premises on July 16, 2002 and August 14, 2002; and (denied)
+(o) the Appellant returned to the Payor’s payroll on a part-time basis on August 14, 2002. (admitted)
+[8] During the summer of 2002, a complaint was received by Crime Stoppers relative to irregularities in the conduct of the Payor with respect to the Employment Insurance Act and its Regulations. These were referred to CRA who appointed the Investigator and Control Officer, Laurie O’Kane, to investigate. Initially, 18 cases were referred for investigation, including the matters under review in these appeals. This investigation, sought to find evidence in order to validate the records of employment issued by the Payor. During the course of this investigation, documents were delivered to the investigators; these were then returned to the Payor upon request and subsequently, on demand by CRA, these documents were delivered again to the investigators who discovered that in many instances, these documents had been altered and falsified. The discrepancies applied to most employees, including the two Appellants.
+[9] The evidence that the second set of documents delivered by the Payor to the investigators were altered and falsified was not contradicted by the Appellants.
+[10] Copies of invoices were received in evidence, both the originals and the altered versions. The evidence clearly established the alterations supported by proof of different paper weight, some signatures being whited out, different paper sizes, absence of perforations on the altered document and confirmation of photocopying through the page.
+[11] The investigators were unable to determine the earnings of the employees. Some employees were paid by cheque and cash. The actual payroll would not be ascertained. According to the Payor, the employees were paid on Friday of each week. No records of payment were found. The Payor reported that if he paid by cheque, he kept no stub. He stated that he cashed cheques at the Caisse Populaire and paid his employees in cash. He said that whatever record he had in that regard, such as stubs, he threw it out. The Appellants could not produce any records either.
+[12] After examining all the records produced, the investigators were unable to even confirm a likely payroll.
+[13] Charts were prepared by investigators to illustrate that the Appellants were working for the Payor while they were collecting Employment Insurance benefits. Information was gathered from the Payor’s bookkeeper who was resistant to provide data, stating that she was unaware of the two sets of payroll books. She added simply that she did what the Payor told her to do.
+[14] At the hearing, documents were produced which substantiated most of the Minister’s assumptions of fact that were denied by the Appellants. The Appellants did prove that the Payor’s operations were carried out in two buildings instead of one.
+[15] Integrity investigator Laurie Marlene Heckbert testified that she was unable to interview Wilmond Turbide, the Payor. She was always told to make inquiries to the accountant. According to the evidence, the investigators were very accommodating to the Payor when they gave him a final notice dated January 30, 2003. Most witnesses, including the Appellants, confirmed the fact that Turbide was drunk most of the time.
+[16] At the hearing the Appellants were confronted with a number of invoices which established that they were performing services for the Payor while drawing Employment Insurance benefits. Appellant McIntyre stated:
+“I had a one ton truck and the Payor would ask me to pick up stuff, when I was on Employment Insurance. I would pick up supplies. He gave me cash while not on payroll to pick up supplies… while speaking with the Investigator, I denied working for the Payor outside the period… I was nervous to the point of forgetting everything.”
+[17] The evidence established that during the interview, after denying that he performed services outside the period, McIntyre was shown an invoice which bore his signature, whereupon he ended the interview to speak to a lawyer.
+[18] Appellant Collette stated at the hearing that he did some work outside the period which he reported to the Commission. He was also confronted with invoices bearing his signature or establishing that mechanical work had been done which showed that either no mechanics were on duty at the time or that he did the work while not on the payroll. He said: “I did it as a favour, he’s a good guy”.
+[19] The evidence heard and the documents produced established that the services rendered by both Appellants for the Payor while drawing Employment Insurance benefits were not isolated instances. They were frequent. The investigation discovered and the evidence established that 99 such occurrences are attributed to Appellant McIntyre. It was made clear in the evidence that, although the number of instances was not established, such instances occurred with respect to Appellant Collette while he was drawing Employment Insurance benefits, equally with great frequency.
+[20] The testimony of Louise Boudreau, appeals agent and complex case officer and advisor for Revenue Canada, Atlantic region, established that the investigation was exhaustive, in light of the lack of cooperation of the Payor. In addition to the Payor, his bookkeeper, his accountant and the Appellants, she interviewed members of the Miramichi Police Force, the staff of Fisheries and Oceans Canada and suppliers in the Baie Ste-Anne area.
+[21] The Appellants are asking this Court to overturn the Minister’s decision. It must be noted that the Appellants bear the burden of proof to establish, on a balance of probabilities, that the decision of the Minister is wrong and unfounded in law.
+[22] In both cases under review, the Minister has determined that the Appellants’ engagement with the Payor during the periods under review were not insurable employment since the Appellants were not employed pursuant to a contract of service within the meaning of paragraph 5(1)(a) of the Act.
+[23] Furthermore, the Minister’s submission states that the Appellants’ employment was excepted employment within the meaning of paragraph 5(2)(i) of the Act because the Appellants and the Payor were not in fact dealing with each other at arm’s length during the periods at issue.
+[24] At issue is the determination whether the Appellants hold insurable employment under the Employment Insurance Act, specifically its paragraph 5(1)(a) which reads as follows:
+5(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[25] The above paragraph provides a definition of insurable employment. It is employment held under a contract of service. But the law does not define such a contract.
+[26] A contract of service is a concept under the civil law found in the Civil Code of Québec. Therefore, the nature of the contract under study must be determined in accordance with the provisions of the Civil Code, as in 9041-6868 Québec Inc. v. Canada (M.N.R.), [2005] F.C.J. No. 1720:
+3 When the Civil Code of Québec came into force in 1994, followed by the enactment of the Federal Law – Civil Law Harmonization Act, No. 1, SC 2001, c. 4 by the Parliament of Canada and the addition of section 8.1 to the Interpretation Act, R.S.C., c. I-21 by that Act, it restored the civil law of Quebec to its rightful place in federal law, a place that the courts had sometimes had a tendency to ignore. On this point, we need only read the decision of this Court in St-Hilaire v. Canada, [2004] 4 FC 289 (FCA) and the article by Mr. Justice Pierre Archambault of the Tax Court of Canada entitled “Why Wiebe Door Services Ltd. Does Not Apply in Quebec and What Should Replace It", recently published in the Second Collection of Studies in Tax Law (2005) in the collection entitled The Harmonization of Federal Legislation with Quebec Civil Law and Canadian Bijuralism, to see that the concept of "contract of service" in paragraph 5(1)(a) of the Employment Insurance Act must be analyzed from the perspective of the civil law of Quebec when the applicable provincial law is the law of Quebec.
+4 To begin, it will be useful to reproduce several passages from the preamble to the Harmonization Act, No. 1 and the text of section 8.1 of the Interpretation Act:
+Preamble to the Federal Law — Civil Harmonization
+Act, No. 1
+. . .
+WHEREAS the harmonious interaction of federal legislation and provincial legislation is essential and lies in an interpretation of federal legislation that is compatible with the common law or civil law traditions, as the case may be;
+. . .
+WHEREAS the provincial law, in relation to property and civil rights, is the law that completes federal legislation when applied in a province, unless otherwise provided by law;
+. . .
+Property and Civil Rights
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province's rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+5 Section 8.1 of the Interpretation Act came into force on June 1, 2001. It codified the principle that the private law of a province and a federal statute are complementary, which had been recognized (see St-Hilaire, supra) but had not always been put into practice. When that section came into force, the immediate effect was to restore the role of the civil law in matters under the jurisdiction of this Court, to bring to light how the common law might have been borrowed from, over the years, in cases where Quebec civil law applied or should have applied, and to caution us against any such borrowing in future.
+…
+7 … it is the Civil Code of Québec that determines what rules apply to a contract entered into in Quebec. Those rules are found in, inter alia, the provisions of the Code dealing with contracts in general (arts. 1377 C.C.Q. et seq.) and the provisions dealing with the “contract of employment” (arts. 2085 to 2097 C.C.Q.) and the “contract of enterprise or for services” (arts. 2098 to 2129 C.C.Q.). Articles 1378, 1425, 1426, 2085, 2098 and 2099 C.C.Q. are of most relevance for the purposes of this case:
+1378. A contract is an agreement of wills by which one or several persons obligate themselves to one or several other persons to perform a prestation.
+. . .
+1425. The common intention of the parties rather than adherence to the literal meaning of the words shall be sought in interpreting a contract.
+1426. In interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account.
+. . .
+1440. A contract has effect only between the contracting parties; it does not affect third persons, except where provided by law.
+. . .
+2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[27] In the cases under review, the Minister concluded that the employment contract between the Appellants and the Payor is not a genuine contract of employment as contemplated by the Act. This issue has surfaced before. It was dealt with in this Court by Mr. Justice Tardif in Thibeault v. Canada, [1998] T.C.J. No. 690 (Q.L.). His decision was affirmed by the Federal Court of Appeal, [2000] F.C.J. No. 2152. Justice Tardif said:
+22 Genuine employment is employment remunerated according to market conditions, which contributes in a real and positive way to the advancement and development of the business paying the salary in consideration of work performed. These are basically economic factors that leave little, if any, room for generosity or compassion.
+…
+29 Of course, it is neither illegal nor reprehensible to organize one’s affairs so as to profit from the social program that is the unemployment insurance scheme, subject to the express condition that nothing be misrepresented, disguised or contrived and that the payment of benefits occur as a result of events over which the beneficiary has no control. Where the size of the salary bears no relation to the economic value of the services rendered, where the beginning and end of word periods coincide with the end and the beginning of the payment period and where the length of the work period also coincides with the number of weeks required to requalify, very serious doubts arise as to the legitimacy of the employment contract. Where the coincidences are numerous and improbable, there is a risk of giving rise to an inference that the parties agreed to an artificial arrangement to enable them to profit from the benefits.
+[28] In Laverdière v. Canada, [1999] T.C.J. No. 124 (Q.L.), Justice Tardif stated:
+48 Of course, a contract of employment may be lawful and legitimate even if it sets out all kinds of other conditions, including remuneration much higher or lower than the value of the work performed; some contracts may even involve work performed gratuitously. Work may be performed on a volunteer basis. All kinds of assumptions and scenarios can be imagined
+49 Any contract of employment that includes special terms can generally be set up only against the contracting parties and is not binding on third parties, including the respondent.
+50 This is the case with any agreement or arrangement whose purpose and object is to spread out or accumulate the remuneration owed or that will be owed so as to take advantage of the Act's provisions. There can be no contract of service where there is any planning or agreement that disguises or distorts the facts concerning remuneration in order to derive the greatest possible benefit from the Act.
+51 The Act insures only genuine contracts of service; a contract of employment under which remuneration is not based on the period during which work is performed cannot be defined as a genuine contract of service. It is an agreement or arrangement that is inconsistent with the existence of a genuine contract of service since it includes elements foreign to the contractual reality required by the Act.
+[29] In Duplin v. Canada, [2001] T.C.J. No. 136 (Q.L.), he noted:
+18 When services are provided or errands are run for an employer, I do not think that this automatically means there is no contract of service, where this is done from time to time or in special circumstances. However, if the services or errands are recurring, frequent and performed or run by a majority of an employer's employees, this raises questions; even where those providing such services or running such errands characterize what they are doing as free and voluntary, as mutual aid volunteer work, as support or as an expression of solidarity with their co-workers, the fact remains that such conditions, circumstances and facts are hard to reconcile with a genuine contract of service, under which all work must be paid work.
+...
+31 The fundamental components of a contract of service are essentially economic in nature. The records kept, such as payroll journals and records concerning the mode of remuneration, must be genuine and must also correspond to reality. For example, the payroll journal must record hours worked corresponding with the wages paid. Where a payroll journal records hours that were not worked or fails to record hours that were worked during the period shown, that is a serious indication of falsification. Such is the case where pay does not correspond with the hours worked. Both situations create a very strong presumption that the parties have agreed on a false scenario in order to derive various benefits therefrom, including benefits with respect to taxes and employment insurance.
+[30] Lack of work was invoked by the Payor as a reason for the termination of employment in these appeals. The evidence, however, supports a different conclusion, since neither Appellant ceased performing needed services for the Payor following their termination. In spite of the Appellants’ efforts to characterize these services as “volunteer work done for a friend”, the fact remains that it was work that needed to be done and in the normal course of business should have been remunerated.
+[31] It is significant to note that all these attendances at the Payor’s place of business to perform all these required services at no cost to the Payor constituted a definite advantage to him, representing no loss to the Appellants since they were compensated by unemployment benefits. This scheme had the result of subsidizing the Payor’s business and this runs contrary to the whole purpose of the Employment Insurance legislation.
+[32] The Appellants may be of the view that they should not be held accountable for assisting a friend in need and while, in itself, this may not be so reprehensible, it should not be at the expense of the public purse, such as here.
+[33] This Court has on occasion overlooked certain types of volunteer work, such as occasional winter time volunteer work in family farming enterprises, but never has it condoned this so called volunteerism on a scale such as was found in these appeals.
+[34] In conclusion, I find that during all the periods in issue, the work done by the Appellants was not performed under a genuine contract of employment, as provided under paragraph 5(1)(a) of the Act.
+[35] By reason of this finding, there is no need to deal with the submission of the Minister relative to the provision of the Act under paragraph 5(2)(i).
+[36] Consequently, these appeals are dismissed and the Minister’s decision is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 28th day of September 2007.
+« S.J. Savoie »
+Savoie, D.J.
+CITATION: 2007TCC558
+COURT FILE Nos.: 2004-2589(EI), 2004-2684(EI)
+STYLE OF CAUSE: TONY MCINTYRE AND M.N.R.
+AND PAUL COLLETTE AND M.N.R.
+PLACE OF HEARING: Miramichi, New Brunswick
+DATE OF HEARING: July 24, 2007
+REASONS FOR JUDGMENT BY: The Honourable Deputy Judge, S.J. Savoie
+DATE OF JUDGMENT: September 28, 2007
+APPEARANCES:
+Counsel for the Appellants:
+George Martin
+Counsel for the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellants:
+Name: George Martin
+Firm: Martin & Cook
+Miramichi, New Brunswick
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

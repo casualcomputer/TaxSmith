@@ -1,0 +1,167 @@
+---
+title: "Jacques c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30636/index.do"
+last_modified: "2011-12-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 414"
+citation2: ""
+neutral_citation: "2011 CCI 414"
+decision_date: "2011-12-02"
+language: "fr"
+item_id: "30636"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7130
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:25:39.427000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e9c56ab2a55a91aab4e25243ddc1981de13414f44d4da055f2f6523e7b3637db"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jacques c. M.R.N.
+
+- Citation: 2011 CCI 414
+- Decision date: 2011-12-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7130, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jacques c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-12-02
+Référence neutre
+2011 CCI 414
+Numéro de dossier
+2011-556(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2011-556(EI)
+ENTRE :
+RÉJEAN JACQUES,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 18 août 2011, à Sherbrooke (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Représentant de l'appelant :
+Renaud Boulet
+Avocat de l'intimé :
+Me Emmanuel Jilwan
+____________________________________________________________________
+JUGEMENT
+L'appel de la décision du ministre du Revenu national relative à l’admissibilité du travail de monsieur François Quesnel comme emploi assurable aux fins de la Loi sur l’assurance-emploi est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour de décembre 2011.
+« Réal Favreau »
+Juge Favreau
+Référence : 2011 CCI 414
+Date : 20111202
+Dossier : 2011-556(EI)
+ENTRE :
+RÉJEAN JACQUES,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Monsieur Réjean Jacques interjette appel d'une décision du ministre du Revenu national (le « ministre ») relative à l'admissibilité du travail de monsieur François Quesnel (le « travailleur ») comme emploi assurable aux fins de la Loi sur l'assurance-emploi L.C. 1996, ch.23, telle que modifiée (la « Loi »). Le ministre a déterminé que le travailleur occupait un emploi assurable auprès de monsieur Réjean Jacques (le « payeur ») du 1er janvier 2009 au 31 décembre 2009 (la « période »). Selon le ministre, le travailleur était lié par un contrat de travail alors que le payeur soutient qu'il s'agissait d'un contrat de service.
+[2] Le ministre a déterminé que le travailleur exerçait un emploi auprès du payeur aux termes d'un contrat de louage de services, en s'appuyant sur les présomptions de fait suivantes énoncées au paragraphe 5 de la réponse à l'avis d'appel :
+a) depuis plus ou moins 9 ans, l'appelant possède une ferme exploitant un cheptel d'animaux de boucherie; [admis]
+b) l'adresse de la ferme est le 774 rang 7 East Broughton; [admis]
+c) le propriétaire de la ferme, soit l'appelant, habite dans le Connecticut aux États-Unis, soit à 400 milles de East Broughton; [admis]
+d) les actifs de la ferme sont une étable, 2 maisons, 2 garages, 2 tracteurs avec remorque pour les animaux et un véhicule tout terrain; [admis]
+e) en 2008, le cheptel se composait d'environ 500 têtes et a été augmenté de 400 pour un total d'environ 900 têtes; [admis]
+f) en 2009, le chiffre d'affaires brut a été de 911 646 $ et a généré un [sic] perte nette de 882 000 $; [admis]
+g) le travailleur a été engagé après avoir répondu à une annonce publiée à l'Union des producteurs agricoles de Beauce; [admis]
+h) un contrat de travail verbal liait les parties; [admis]
+i) le travailleur remplaçait Réal Bolduc; [admis]
+j) les fonctions du travailleur étaient celles d'un gérant de ferme, à ce titre il avait la responsabilité de s'occuper des animaux et des terres en culture et de faire l'entretien des bâtiments; [admis]
+k) le travailleur avait acquis son expérience en travaillant dans l'ouest canadien; [admis]
+l) durant l'été, le travailleur exécutait ses tâches 7 jours par semaine de 6 h à 18 h, alors que l'hiver il faisait moins d'heures, entre 65 et 70 par semaine; [nié]
+m) bien que les 2 parties décidaient du travail à faire, c'était l'appelant qui planifiait le travail du travailleur; [nié]
+n) comme l'appelant demeurait loin de la ferme, la supervision s'exerçait par des séjours mensuels d'une durée d'au moins 1 semaine par mois à la ferme et par plusieurs appels téléphoniques par jour; [admis]
+o) l'appelant fournissait tout l'équipement et matériel nécessaire à l'exécution des tâches du travailleur incluant une des maisons situées sur la ferme dont le chauffage et l'électricité étaient à la charge de l'appelant ainsi qu'un camion Silverado 2007; [admis]
+p) le travailleur était rémunéré 750 $ par semaine pendant l'année 2008 et 1 000 $ par semaine en 2009; [nié]
+q) pour être payé le travailleur devait soumettre des factures à l'appelant et ce à la demande de ce dernier; [admis]
+r) 2 chèques de l'appelant totalisant 15 150 $ ont été émis au travailleur par l'appelant en guise de boni; [nié]
+s) le 20 octobre 2009, l'appelant signait une lettre adressée à l'UPA dans laquelle il faisait référence au travailleur à titre d'employé, alors que le 25 octobre 2010, il signait une autre lettre adressée à l'UPA indiquant que le travailleur était un sous-contractant. [admis]
+[3] L'alinéa 5 l) de la réponse à l'avis d'appel a été nié par l'appelant parce que, selon lui, le travailleur faisait beaucoup moins d'heures que les heures indiquées parce qu'il avait un horaire flexible lui permettant de s'occuper de ses trois enfants âgés de 4, 6 et 10 ans qui ne demeuraient pas avec lui à la maison sur la ferme. Les enfants du travailleur demeuraient à un endroit non précisé à une distance d'environ 150 kilomètres dont le trajet prenait 1½ heures par transport automobile. Selon le témoignage du payeur, le travailleur n'avait pas à être présent tous les jours pendant toute la journée sur la ferme parce que les travaux manuels de la ferme étaient exécutés par deux autres travailleurs en sous-traitance et parce que les animaux ne requéraient pas des soins quotidiens; ils étaient à l'extérieur toute l'année et leur nourriture ne leur était fournie que tous les 4 ou 5 jours. De plus, le payeur ne tenait pas un registre des heures travaillées parce que le travailleur était payé selon un prix fixe par semaine et non selon les heures travaillées.
+[4] L'alinéa 5 n) de la réponse à l'avis d'appel a été nié parce que le payeur ne planifiait pas le travail du travailleur. Lors de son témoignage, le payeur a expliqué que le travailleur avait plus de 30 ans d'expérience et beaucoup plus de connaissances que lui concernant l'élevage d'animaux de boucherie, les soins à apporter et les maladies pouvant les affecter. Le travailleur avait la gérance générale de la ferme et c'est lui qui planifiait son travail. Le payeur a de plus expliqué, qu'au cours de la période, il exploitait une entreprise de construction au Connecticut aux États-Unis qui comptait une quinzaine d'employés. Le payeur devait consacrer beaucoup de temps à son entreprise de construction de sorte qu'il avait très peu de temps à consacrer aux activités de la ferme. Sa présence à la ferme se limitait à une semaine par mois tout en visitant sa mère âgée de 102 ans et à des appels téléphoniques quotidiens.
+[5] L'alinéa 5 p) de la réponse à l'avis d'appel a été nié parce que la rémunération du travailleur pendant l'année 2008 était plutôt de 600 $ par semaine plus les taxes et que la rémunération pour 2009 était de 800 $ par semaine plus les taxes.
+[6] L'alinéa 5 r) de la réponse à l'avis d'appel a été nié parce que les deux chèques datés du 22 mars 2009 totalisant 15 150 $ n'ont pas été versés en guise de boni mais correspondaient plutôt à l'escompte obtenu par le travailleur lors d'achats de foin. Plutôt que de payer 20 $ par balle, le travailleur a réussi à obtenir une diminution du prix de 3 $ à 4 $ par balle; le payeur a alors remis au travailleur un montant équivalent à l'escompte obtenu.
+[7] En plus des faits ci-dessus mentionnés, la preuve a révélé les éléments suivants :
+(a) Les factures du travailleur étaient généralement faites pour des travaux à forfait et indiquaient la période au cours de laquelle les travaux ont été effectués, le montant facturé et les montants de la taxe sur les produits et services et de la taxe de vente du Québec. Les numéros de taxe du travailleur ne figuraient pas sur les factures;
+(b) une facture, soit celle du 16 janvier 2009, faisait référence à une vente de balles de foin et au prix de vente de ces balles; dans ce cas, la taxe sur les produits et services et la taxe de vente du Québec n’étaient pas ajoutés au montant de la facture;
+(c) selon le témoignage du payeur c’est le travailleur qui a exigé d’avoir un horaire flexible afin de pouvoir s’occuper de ses enfants et d’être considéré comme un travailleur autonome. Selon le payeur, si le travailleur avait voulu être considéré comme un employé, il l’aurait tout de même engagé puisqu’il ne s’y objectait pas;
+(d) le payeur a de plus expliqué qu’en septembre 2009, il a pris la décision de vendre la ferme et qu’il a offert au travailleur de lui verser une rémunération pour quatre mois de travail si la ferme était vendue avant la fin de l’année 2009. Même si la ferme n’a pas été vendue avant la fin de l’année 2009, le payeur a tout de même rémunéré le travailleur pour les trois derniers mois de l’année 2009 parce qu’il a poursuivi le nettoyage de la ferme jusqu’au mois de décembre 2009.
+Analyse
+[8] La question en litige est de savoir si monsieur François Quesnel occupait un emploi assurable aux fins de la Loi. La disposition pertinente est l’alinéa 5(1)a) de la Loi qui se lit comme suit :
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[9] Cet article définit un emploi assurable comme comprenant l’emploi exercé en vertu d’un contrat de louage de services. La Loi ne définit pas ce qui constitue un tel contrat. Par contre, l’article 8.1 de la Loi d’interprétation, L.R.C. (1985), c. I‑21 (édicté par L.C. 2001, ch. 4, art. 8) édicte ce qui suit concernant l’application d’un texte de loi fédérale dans une province en matière de propriété et de droits civils :
+Propriété et droits civils
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+[10] Les dispositions du Code civil du Québec (Code civil ou C.C.Q) servant à déterminer l’existence d’un contrat de travail au Québec et à le distinguer du contrat de service sont les articles 2085, 2098 et 2099 :
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+2098. Le contrat d’entreprise ou de service est celui par lequel une personne, selon le cas l’entrepreneur ou le prestataire de services, s’engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s’oblige à lui payer.
+2099. L’entrepreneur ou le prestataire de services a le libre choix des moyens d’exécution du contrat et il n’existe entre lui et le client aucun lien de subordination quant à son exécution.
+[11] Il ressort clairement de ces dispositions du Code civil que les trois conditions essentielles de l’existence d’un contrat de travail sont : i) une prestation de travail fournie par le travailleur; ii) une rémunération pour ce travail payé par l’employeur et iii) un pouvoir de direction ou de contrôle de l’employeur sur le travailleur. Ce qui distingue nettement le contrat d’entreprise ou de service du contrat de travail, c’est l’existence d’un lien de subordination quant à l’exécution du travail.
+[12] Comme l’a si bien dit le juge Archambault de cette Cour dans l’arrêt Beaucaire c. M.R.N., 2009 CCI 142 (Can LII) :
+[24] Au Québec, contrairement à la situation en common law, la question centrale est de savoir s'il existe un lien de subordination, à savoir un pouvoir de contrôle ou de direction. [. . . ]
+[13] En common law, les critères distinctifs applicables sont ceux énoncés dans l’arrêt Wiebe Door Services Ltd. c. M.R.N., 87 D.T.C. 5025, à savoir le degré de contrôle, la propriété des instruments de travail, les chances de bénéfices et les risques de pertes et, enfin le degré d’intégration du travailleur dans l’entreprise.
+[14] La détermination de la question de l’assurabilité d’un emploi implique la détermination de la nature des relations entre les parties. En l’absence d’un véritable contrat écrit entre les parties, la Cour peut considérer les déclarations des parties quant à la nature de leurs relations contractuelles même si ces déclarations ne sont pas nécessairement déterminantes et concluantes.
+[15] En l’espèce, il a été démontré que le payeur avait affiché à l’U.P.A une offre d’emploi permanent avec logement et électricité fournis. Selon le payeur, le travailleur a exigé d’être considéré comme travailleur autonome pour pouvoir travailler à son rythme et pour bénéficier d’un horaire flexible. Le travailleur a remis au payeur des factures pour des travaux à forfait en chargeant les taxes. Le payeur n’a pas produit de T-4 pour la rémunération versée au travailleur. Dans une lettre datée du 20 octobre 2009 adressée à l’U.P.A (pièce A-2), le payeur a indiqué que, depuis le 1er mai 2008, le travailleur avait plusieurs qualités à titre d’employé et qu’il recommandait sans résiliation le travailleur pour tout emploi en milieu agricole. Dans une lettre subséquente datée du 25 octobre 2010 (pièce A-3), également adressée à l’U.P.A, le payeur a indiqué que le travailleur agissait comme sous-contractant et non pas comme employé, qu’il opérait sous la raison sociale « Service Agricole François Quesnel » et qu’il lui fournissait des factures sous cette appellation. Le travailleur n’a pas agi en tant qu’intervenant dans les procédures et n’a pas témoigné à l’audience.
+[16] Les déclarations et le comportement des parties quant à la nature de leurs relations contractuelles révèlent donc des contradictions et des divergences.
+[17] Par contre, les versions du travailleur et du payeur sont à peu près semblables en ce qui concerne la prestation de travail exécutée par le travailleur pour le bénéfice du payeur et la rémunération versée par le payeur au travailleur, sauf pour ce qui est de la nature des paiements de 15 000 $ en mars 2009 et de 1 400 $ en janvier 2009 pour la vente de balles de foin.
+[18] Selon la preuve, le travailleur s’occupait de la gérance de la ferme du payeur et il devait superviser le troupeau d’animaux du payeur. Le travailleur détenait une certaine latitude dans son travail mais le travailleur devait constamment et régulièrement rendre compte au payeur sur les services rendus ou à rendre par le travailleur à raison de deux ou trois conversations téléphoniques par jour et lors des visites du payeur au rythme d’au moins une semaine par mois. L’exercice de ce pouvoir de contrôle ou de direction du payeur sur le travailleur démontre l’existence d’un lien de subordination et que les services rendus par le travailleur ont été exécutés dans le cadre d’une relation entre un employé et un employeur. Il n’a pas été démontré à l’audience que le travailleur avait le libre choix des moyens d’exécution des services à rendre.
+[19] Parmi les autres facteurs considérés, il y a lieu de souligner que tout l’équipement et le matériel étaient fournis par le payeur et que le payeur supportait tous les risques financiers découlant de l’exploitation de la ferme. Le travailleur avait la possibilité de réaliser un profit lors de la vente de balles de foin mais ce facteur n’est pas en soi déterminant compte tenu de l’ensemble des relations entre le payeur et le travailleur.
+[20] Pour ces motifs, l’appel de la décision du ministre relative à l’admissibilité du travail de monsieur François Quesnel comme emploi assurable aux fins de la Loi est rejeté et la décision du ministre est confirmée.
+Signé à Ottawa, Canada, ce 2e jour de décembre 2011.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2011 CCI 414
+Nº DU DOSSIER DE LA COUR : 2011-556(EI)
+INTITULÉ DE LA CAUSE : Réjean Jacques et M.R.N.
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : le 18 août 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 2 décembre 2011
+COMPARUTIONS :
+Représentant de l'appelant :
+Renaud Boulet
+Avocat de l'intimé :
+Me Emmanuel Jilwan
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

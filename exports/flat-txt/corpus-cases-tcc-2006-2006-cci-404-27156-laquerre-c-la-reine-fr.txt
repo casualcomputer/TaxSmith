@@ -1,0 +1,208 @@
+Title: Laquerre c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27156/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-404-27156-laquerre-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-07-21
+
+# Laquerre c. La Reine
+
+- Citation: 2006 CCI 404
+- Decision date: 2006-07-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1025, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laquerre c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-21
+Référence neutre
+2006 CCI 404
+Numéro de dossier
+2005-2760(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2760(IT)I
+ENTRE :
+RAYMOND LAQUERRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 2 février 2006, à Trois-Rivières (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est rejeté sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de juillet 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI404
+Date : 20060721
+Dossier : 2005-2760(IT)I
+ENTRE :
+RAYMOND LAQUERRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de l'appel d'une cotisation établie par le ministre du Revenu national (le « ministre » ) en vertu de la Loi de l'impôt sur le revenu (la « Loi » )pour l'année d'imposition 2003.
+[2] La question en litige consiste à déterminer si, pour cette année d'imposition, le ministre a correctement établi et ratifié l'inclusion d'une somme de 3 955 $, dans le calcul du revenu de l'appelant, à titre de pension.
+[3] Les faits sont très simples et ont été très bien résumés aux alinéas 6 a), b), c) et d) de la Réponse à l'avis d'appel; ils se lisent comme suit :
+a) le 19 octobre 2004, le ministre a révisé la pension de l'appelant en s'appuyant sur le feuillet T4A émis par la Gendarmerie royale du Canada;
+b) au stade des oppositions, l'appelant a prétendu que de la pension de 29 905 $ une somme de 3 955 $ représentait l'indexation de sa dite pension et que la dite somme devrait être exemptée d'impôt puisqu'il fut mis à la retraite à cause de son état de santé;
+c) la société Morneau Sobeco, laquelle s'occupe de gérer le fonds de pension de la Gendarmerie royale du Canada, confirma que l'appelant reçoit une rente en vertu de la Loi sur la pension de retraite de la Gendarmerie royale du Canada basée sur ses années de services;
+d) une pension accordée pour longs états de service est assujetti à l'impôt.
+[4] La position des parties est, encore là, très simple à résumer.
+[5] L'appelant a soutenu que, n'eût été son état de santé, la pension à laquelle il avait droit en raison de ses années de service et de travail pour la Gendarmerie royale du Canada n'aurait pas été indexée; s'il en était autrement, il n'y aurait pas eu d'indexation.
+[6] Bénéficiaire d'une pension pour des motifs de santé, appuyée d'ailleurs sur un certificat médical, l'appelant a indiqué que cela lui donnait droit à l'indexation, ce qui représente un montant de 3 955 $ pour l'année d'imposition 2003. En conséquence, l'appelant voudrait soustraire ce montant de 3 955 $ de ses revenus imposables, étant donné qu'il considère ce montant comme lui ayant été payé pour cause de maladie.
+[7] À l'appui de ses prétentions, l'appelant a indiqué qu'on peut le comparer à ceux qui cessent de travailler à la suite d'un accident de travail et reçoivent 90 % de leur rémunération de façon non imposable.
+[8] De son côté, le ministre a soutenu que la pension accordée à l'appelant avait comme principal fondement ses longs états de service, ce qui d'ailleurs n'a pas été contredit par l'appelant. L'appelant a effectivement reçu une pension correspondant essentiellement à ses années de services, qui a été indexée du fait qu'il avait un certificat médical.
+[9] D'entrée de jeu, il existe une grande différence entre les deux situations. En effet, une personne qui cesse de travailler à la suite d'un accident de travail reçoit normalement une rémunération calculée selon sa rémunération au moment de l'accident. Le nombre d'années de service n'est pas pris en considération.
+[10] Ainsi deux personnes ayant un nombre d'années de service très différent pourraient obtenir la même compensation à la suite d'un accident de travail si leur salaire était le même au moment de l'accident.
+[11] En l'espèce, le montant que recevait l'appelant était essentiellement fonction du nombre d'années de service pour la Gendarmerie royale du Canada. Quant à l'indexation, elle découlait essentiellement du certificat médical qui avait permis à l'appelant de couper le lien de travail avec son employeur.
+[12] Voyons quelles sont les dispositions de la Loi.
+[13] Tout contribuable doit déclarer la totalité de ses revenus; ceux-ci sont imposables selon à l'article 3 de la Loi.
+[14] Certains revenus et certaines déductions ne sont pas attribuables aux principales sources de revenu visées par la Loi. Les revenus de pension reçoivent également un traitement particulier. Ces revenus sont visés par l'article 56 de la Loi, notamment le sous-alinéa 56(1)a)(i), « Autres sources de revenus » . Ces revenus doivent être inclus dans l'année où le contribuable les reçoit :
+56. (1) Sommes à inclure dans le revenu de l'année -
+Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+a) Pensions, prestations d'assurance-chômage, etc. -
+toute somme reçue par le contribuable au cours de l'année au titre, ou en paiement intégral ou partiel :
+(i) d'une prestation de retraite ou de pension, y compris, sans préjudice de la portée générale de ce qui précède :
+[. . .]
+[15] Le paragraphe 248(1) définit l'expression « prestation de retraite ou de pension » , que l'on trouve au sous-alinéa 56(1)a)(i), de la façon suivante :
+248. (1) Définitions - Les définitions qui suivent s'appliquent à la présente loi.
+[. . .]
+« prestation de retraite ou de pension » Sont compris dans les prestations de retraite ou de pension les sommes reçues dans le cadre d'une caisse ou d'un régime de retraite ou de pension, et, notamment, tous versements faits à un bénéficiaire dans le cadre de la caisse ou du régime, ou à un employeur ou un ancien employeur du bénéficiaire :
+a) conformément aux conditions de la caisse ou du régime;
+b) par suite d'une modification apportée à la caisse ou au régime;
+c) par suite de la liquidation de la caisse ou du régime.
+[16] La Loi prévoit plusieurs distinctions; ainsi, il peut être question de déductions ou de crédits ou d'exemptions d'impôts, selon les circonstances. L'article 149 de la Loi prévoit diverses exemptions. L'article 81 de la Loi prévoit également d'autres exemptions.
+[17] L'alinéa 81(1)i) de la LIR prévoit :
+81. (1) Sommes à exclure du revenu - Ne sont pas inclus dans le calcul du revenu d'un contribuable pour une année d'imposition :
+i) Pension ou indemnité de la Gendarmerie royale du Canada -- une pension ou une indemnité pour blessure, invalidité ou décès reçue en vertu de l'article 5, 31 ou 45 de la Loi sur la continuation des pensions de la Gendarmerie royale du Canada, chapitre R-10 des Statuts révisés du Canada de 1970, ou des articles 32 ou 33 de la Loi sur la pension de retraite de la Gendarmerie royale du Canada;
+[18] La pension dont il est question en l'espèce n'est pas visée par l'une des dispositions mentionnées à l'alinéa 81(1)i) de la Loi, soit l'article 32 ou 33 de la Loi sur la pension de retraite de la Gendarmerie royale du Canada ( « LPRGRC » ). La pension dont il est question aux paragraphes 32 et 33 est clairement définie.
+[19] Dans l'affaire Gingras c. Canada, no 95-2467(IT)I, 19 juillet 1996, [1996] A.C.I. no 794, par. 2-5 et 9 (QL), la juge Lamarre Proulx indique :
+L'appelant a été licencié de la Gendarmerie Royale du Canada le 2 décembre 1988 du fait qu'il était devenu invalide. En vertu de l'alinéa 11(2)b) de la Loi sur la pension de retraite de la Gendarmerie royale du Canada, ( « PRGRC » ), comme l'appelant comptait dix ans ou plus de service ouvrant droit à la pension, il a eu droit a une annuité immédiate. Selon le paragraphe 10(1) de cette même loi, ce montant est fonction du nombre d'années de service ouvrant droit à pension.
+Les annuités reçues de 1989 à 1992 étaient aux montants respectifs de 26 727 $, 25 959 $, 27 205 $ et 28 783 $. La demande de paiement de pension (produite par l'appelant avec son tableau 2A) indique que c'est en vertu de l'alinéa 10(2)b) de la PRGRC, maintenant l'alinéa 11(2)b) que les annuités ont été versées.
+Selon l'article 32 de la PRGRC ci-avant mentionnée, (avant 1985 cet article était l'article 27), une pension conforme à la Loi sur les pensions doit être accordée à un membre de la Gendarmerie qui a subi une invalidité chaque fois que la maladie ayant occasionné l'invalidité était consécutive ou se rattachait directement à son service dans la Gendarmerie. Le 2 décembre 1988, l'appelant a fait une telle demande de pension.
+Le tribunal de la Commission canadienne des pensions a rendu un jugement le 14 mars 1990 avec effet rétroactif au 3 décembre 1988 accordant à l'appelant un droit à une pension en vertu du paragraphe 32(1) de la PRGRC.
+[. . .]
+C'est l'évidence même que ni les faits ni le droit ne concordent avec cette prétention de l'appelant. L'appelant reçoit des pensions de deux catégories différentes, l'une en vertu de l'alinéa 11(2)b) de la PRGRC pour ses états de service et celle-ci doit être incluse dans le calcul de son revenu en vertu du sous-alinéa 56(1)a)(i) de la Loi et l'autre en vertu de l'article 32 de la PRGRC, qui n'est pas incluse dans le calcul de son revenu en vertu de l'alinéa 81(1)(i) de la Loi.
+[Je souligne.]
+[20] Les revenus de pension sont donc imposables.
+[21] Les pensions et les pensions supplémentaires en vertu du Régime de pensions du Canada ou de la Loi sur la sécurité de la vieillesse sont tout aussi imposables (voir l'ouvrage de Vern Khrisna, The fundamentals of Canadian Income Tax, 8e éd., Thomson Carswell, Toronto, 2004, p. 517).
+[22] La question en litige est de déterminer si le montant reçu pour l'indexation doit être assujetti à l'impôt ou non. Pour répondre à la question, il faut d'abord répondre aux questions suivantes :
+1) L'indexation est-elle accordée en raison de l'article 32 ou 33 de la LPRGRC?
+2) Cette indexation est-elle accessoire au principal et, par le fait même, imposable?
+[23] La réponse à la première question étant négative, je n'ai pas à répondre à la seconde question.
+[24] La LPRGRC indique ce qui suit aux articles 32 et 33 à la Partie II :
+PARTIE II
+PRESTATIONS À L'ÉGARD DE BLESSURES OU DÉCÈS DANS L'EXERCICE DE FONCTIONS
+32. Sous réserve des autres dispositions de la présente partie, une compensation conforme à la Loi sur les pensions doit être accordée, chaque fois que la blessure ou la maladie - ou son aggravation - ayant causé l'invalidité ou le décès sur lequel porte la demande de compensation était consécutive ou se rattachait directement au service de l'intéressé dans la Gendarmerie, à toute personne, ou à l'égard de celle-ci :
+a) visée à la partie VI de l'ancienne loi à tout moment avant le 1er avril 1960, qui, avant ou après cette date, a subi une invalidité ou est décédée;
+b) ayant servi dans la Gendarmerie à tout moment après le 31 mars 1960 comme contributeur selon la partie I de la présente loi, et qui a subi une invalidité avant ou après cette date, ou est décédée.
+[. . .]
+33. (1) Lorsqu'un ancien membre de la Gendarmerie qui reçoit une pension en vertu de la présente partie ou en vertu du paragraphe 22(1) de la Loi sur la Gendarmerie royale du Canada, chapitre 241 des Statuts revisés du Canada de 1952, tel qu'il se lisait avant le 1er avril 1960, ou en vertu du paragraphe 5(1) de la Loi sur la continuation des pensions de la Gendarmerie royale du Canada, chapitre R-10 des Statuts révisés du Canada de 1970, parce qu'il est devenu invalide, reçoit un traitement à titre d'hospitalisé, aux termes des règlements pris en vertu de la Loi sur le ministère des Anciens Combattants, pour l'invalidité pour laquelle sa pension lui a été accordée, il peut lui être payé une allocation de traitement qui, de l'avis du Conseil du Trésor, serait équivalente à l'allocation de traitement qui lui serait payable aux termes de ces règlements s'il était un ancien combattant auquel ces règlements s'appliquent, et durant la période pendant laquelle l'allocation de traitement lui est payée, l'article 41 de la Loi sur les pensions s'applique, compte tenu des adaptations de circonstance, à cette pension.
+[25] L'augmentation ou l'indexation dont il est question à ces articles ne s'applique qu'aux situations qui y sont décrites; l'indexation est donc en quelque sorte une prestation supplémentaire. D'ailleurs, il est intéressant, voire même essentiel, de tenir compte des articles 35 et 39 de la LPRGRC, à la Partie III :
+PARTIE III
+PRESTATIONS SUPPLÉMENTAIRES
+35. Les définitions qui suivent s'appliquent à la présente partie.
+« pension » Pension, allocation annuelle ou annuité payable en vertu de la partie I.
+« prestataire » Personne qui reçoit une pension et qui, selon le cas :
+a) a atteint l'âge de soixante ans;
+b) n'ayant pas atteint l'âge de soixante ans, est invalide;
+c) n'ayant pas atteint l'âge de soixante ans, la reçoit en vertu des paragraphes 11(9) ou (10);
+d) n'ayant pas atteint l'âge de soixante ans, la reçoit à l'issue de sa retraite obligatoire de la Gendarmerie au motif que son état de santé physique ou mentale l'a rendue invalide;
+e) n'ayant pas atteint l'âge de soixante ans, la reçoit sur la base d'au moins :
+(i) vingt-six années de service ouvrant droit à pension, si elle a atteint l'âge de cinquante-neuf ans mais n'a pas encore soixante ans,
+(ii) vingt-sept années de service ouvrant droit à pension, si elle a atteint l'âge de cinquante-huit ans mais n'a pas encore cinquante-neuf ans,
+(iii) vingt-huit années de service ouvrant droit à pension, si elle a atteint l'âge de cinquante-sept ans mais n'a pas encore cinquante-huit ans,
+(iv) vingt-neuf années de service ouvrant droit à pension, si elle a atteint l'âge de cinquante-six ans mais n'a pas encore cinquante-sept ans,
+(v) trente années de service ouvrant droit à pension, si elle a atteint l'âge de cinquante-cinq ans mais n'a pas encore cinquante-six ans;
+f) la reçoit du fait de sa qualité de survivant ou d'enfant du contributeur décédé.
+[. . .]
+39. (1) Les prestations supplémentaires payables au prestataire pour un mois d'une année sont calculées par rapport à l'année de retraite du prestataire et leur montant est égal à celui des prestations de retraite supplémentaires qui serait payable à l'égard de sa pension conformément à l'article 4 de la Loi sur les prestations de retraite supplémentaires si celle-ci s'appliquait au prestataire.
+[. . .]
+[26] À l'article 4 de la Loi sur les prestations de retraite supplémentaires ( « LPRS » ), il est prévu ce qui suit :
+PRESTATIONS DE RETRAITE SUPPLÉMENTAIRES
+[. . .]
+4. (1) La prestation de retraite supplémentaire payable à un prestataire pour un mois d'une année donnée est un montant égal au montant obtenu en multipliant les montants suivants :
+a) le montant de la pension payable au prestataire pour ce mois;
+b) la proportion que l'indice de prestation pour cette année représente par rapport à l'indice de prestation pour l'année de retraite de la personne à laquelle, relativement à laquelle, ou relativement au service de laquelle, la pension est payable,
+et en en soustrayant :
+c) le montant de la pension payable au prestataire pour ce mois.
+[. . .]
+[27] Finalement, il est également intéressant de constater la ressemblance entre le contenu du « Bulletin d'information sur les prestations - indexation » de la GRC (pièce A-3) et l'article 35 de la LPRGRC.
+LPRGRC
+35. Les définitions qui suivent s'appliquent à la présente partie.
+[...]
+« prestataire » Personne qui reçoit une pension et qui, selon le cas :
+a) a atteint l'âge de soixante ans;
+b)n'ayant pas atteint l'âge de soixante ans, est invalide;
+c) n'ayant pas atteint l'âge de soixante ans, la reçoit en vertu des paragraphes 11(9) ou (10);
+d) n'ayant pas atteint l'âge de soixante ans, la reçoit à l'issue de sa retraite obligatoire de la Gendarmerie au motif que son état de santé physique ou mentale l'a rendue invalide;
+e) n'ayant pas atteint l'âge de soixante ans, la reçoit sur la base d'au moins :
+(i) vingt-six années de service ouvrant droit à pension, si elle a atteint l'âge de cinquante-neuf ans mais n'a pas encore soixante ans, [26 + 59 = 85]
+(ii) vingt-sept années de service ouvrant droit à pension, si elle a atteint l'âge de cinquante-huit ans mais n'a pas encore cinquante-neuf ans, [27 + 58 = 85]
+(iii) vingt-huit années de service ouvrant droit à pension, si elle a atteint l'âge de cinquante-sept ans mais n'a pas encore cinquante-huit ans, [28 + 57 = 85]
+(iv) vingt-neuf années de service ouvrant droit à pension, si elle a atteint l'âge de cinquante-six ans mais n'a pas encore cinquante-sept ans, [29 + 56 = 85]
+(v) trente années de service ouvrant droit à pension, si elle a atteint l'âge de cinquante-cinq ans mais n'a pas encore cinquante-six ans; [30 + 55 = 85]
+f) la reçoit du fait de sa qualité de survivant ou d'enfant du contributeur décédé.
+Bulletin d'information (GRC)
+Les pensions versées en vertu des dispositions de la LPRGRC et de la LCPGRC sont assujetties à l'indexation qui s'applique comme suit :
+a) tous les survivants qui touchent une allocation annuelle, à l'exception de ceux qui reçoivent des prestations visées à la Partie IV de la LCPGRC (Pensions aux veuves et orphelins)
+b) les membres réguliers âgés de moins de 60 ans et les membres civils âgés de moins de 50 ans qui ont fait l'objet d'un licenciement pour invalidité;
+c) les membres réguliers et les membres civils âgés de moins de 60 ans qui sont invalides depuis leur retraite; (Voir d)
+d) l'indexation pour les membres civils entre en vigueur à l'âge de 50;
+e) les membres réguliers dont l'âge et le nombre total d'années de service ouvrant droit à pension, lorsqu'ils sont additionnés ensemble, donnent 85, à compte de :
+(i) 55 ans si la pension est versée pour 30 années ou plus de service ouvrant droit à pension, [55 + 30 = 85] [Voir 35e)(v)]
+(ii) 56 ans si la pension est versée pour au moins 29 années de service ouvrant droit à pension, [56 + 29 = 85] [Voir 35e)(iv)]
+(iii) 57 ans si la pension est versée pour au moins 28 années de service ouvrant droit à pension, [57 + 28 = 85] [Voir 35e)(iii)]
+(iv) 58 ans si la pension est versée pour au moins 27 années de service ouvrant droit à pension, [58 + 27 = 85] [Voir 35e)(ii)]
+(v) 59 ans si la pension est versée pour au moins 26 années de service ouvrant droit à pension, [59 + 26 = 85] [Voir 35e)(i)]
+(vi) Si aucune de ces conditions ne s'applique, l'indexation de la pension entre en vigueur à l'âge de 60 ans.
+[28] Pour ces raisons, je dois conclure que le montant de l'indexation que reçoit l'appelant ne peut être qualifié de compensation en vertu de l'article 32 ou 33 LPRGRC.
+[29] Cette appréciation s'avère valide en vertu de l'article 40 de la LPRGRC qui se lit comme suit :
+40. (1) Les prestations supplémentaires payables au prestataire sont versées aux mêmes dates, selon les mêmes modalités, pendant ou pour les mêmes périodes et aux mêmes conditions que la pension qui lui est payable.
+[30] L'indexation est donc un accessoire du principal. Sur le relevé de paiement du contribuable, l'indexation ( « IND1 » ) est calculée au moyen d'une formule mathématique en fonction de la rente de base ( « BAS1 » ).
+[31] Le montant payable en vertu de l'indexation correspond à une prestation supplémentaire plutôt qu'à une compensation. En effet, un montant d'indexation ne peut être payé seul; le calcul de l'indexation dépend d'un montant à partir duquel le calcul est effectué.
+[32] En ce sens, il ne peut pas s'agir d'une compensation mais plutôt d'une prestation additionnelle accessoire à un montant principal essentiel; le montant principal peut exister sans l'indexation, mais l'inverse n'est pas vrai.
+[33] En l'espèce, le montant de la prestation supplémentaire ou de l'indexation prend ses assises sur l'article 35 de la LPRGRC plutôt que sur l'article 32 ou 33 de la LPRGRC.
+[34] Pour ces raisons, cette prestation supplémentaire ne peut être déductible en vertu de l'alinéa 81(1)i) de la Loi; conséquemment, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 21e jour de juillet 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2006CCI404
+N º DU DOSSIER DE LA COUR : 2005-2760(IT)I
+INTITULÉ DE LA CAUSE : Raymond Laquerre et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Trois-Rivières (Québec)
+DATE DE L'AUDIENCE : le 2 février 2006
+MOTIFS DU JUGEMENT PAR : l'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 21 juillet 2006
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant:
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

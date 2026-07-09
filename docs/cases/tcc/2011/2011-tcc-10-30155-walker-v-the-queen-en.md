@@ -1,0 +1,265 @@
+---
+title: "Walker v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30155/index.do"
+last_modified: "2011-01-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 10"
+citation2: ""
+neutral_citation: "2011 TCC 10"
+decision_date: "2011-01-10"
+language: "en"
+item_id: "30155"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7832
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:58:47.385000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b96722d5621bc020bc545171d5b7e07c4c5422cdddf4658d25d69b312ebc8600"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Walker v. The Queen
+
+- Citation: 2011 TCC 10
+- Decision date: 2011-01-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7832, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Walker v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-10
+Neutral citation
+2011 TCC 10
+File numbers
+2009-134(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2009-134(IT)I
+BETWEEN:
+CLIVE WALKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence together with the appeals of Normita Walker (2009-135(IT)I) on March 2, 2010 and November 1 and 2, 2010,
+at Kelowna, British Columbia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+Dewey Lotoski
+Counsel for the Respondent:
+Whitney Dunn
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2003 and 2004 taxation years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of January 2011.
+"Diane Campbell"
+Campbell J.
+Dockets: 2009-135(IT)I
+BETWEEN:
+Normita Walker,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence together with the appeals of Clive Walker (2009-134(IT)I) on March 2, 2010 and November 1 and 2, 2010
+at Kelowna, British Columbia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+Dewey Lotoski
+Counsel for the Respondent:
+Whitney Dunn
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2003 and 2004 taxation years are allowed without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of January 2011.
+"Diane Campbell"
+Campbell J.
+Citation: 2011 TCC 10
+Date: January 10, 2011
+Dockets: 2009-134(IT)I
+2009-135(IT)I
+BETWEEN:
+CLIVE WALKER
+NORMITA WALKER,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] These appeals were heard together on common evidence and relate to the Appellants’ 2003 and 2004 taxation years. By Notices of Reassessment, the amounts of $120,086.35 and $130,508.58 were added to their partnership income in 2003 and 2004 respectively, with 50 per cent of these amounts being added to each partner’s income in each year. In addition, the deduction of various claimed expenses was denied and gross negligence penalties were imposed in respect to both taxation years. The Appellants do not dispute the amounts of unreported revenue that were assessed except for two amounts: $10,325.70, proceeds from a British Pound cheque, and $10,000.00 of recapture on the sale of a motor home in 2004.
+[2] The Appellants are equal partners in a business which specializes in selling customized orthotic products internationally. The business operates as a partnership known as Shuswap Orthotics (“Shuswap”) in which the Appellants, who are spouses, each own a 50 per cent interest. Shuswap operates from the Appellants’ home located in Sorrento, British Columbia. The business owns the distribution rights to sell an arch support orthotic product from Step Forward. During the 2003 and 2004 taxation years, these distribution rights allowed the Appellants to sell the orthotic products throughout Canada, the United States, the United Kingdom, Europe and South Africa. The bulk of their sales occurred at trade shows around the world, which required frequent and extended trips away from their home location. Booths were rented at trade shows and the Appellants sold medically approved orthotic products.
+[3] Within Canada, during these taxation years, the Appellants travelled to trade shows using two vehicles: a Bigfoot motor home and a truck with a house trailer. The Appellants slept in the trailer to avoid hotel expenses since the orthotics were customized on-site at the trade shows. All equipment for fitting and manufacturing orthotics was kept in the motor home when they travelled. Their evidence was that they used these three vehicles exclusively, or 100 per cent of the time, for their business. In addition, they testified that they owned an older Ford van which they kept for personal use. The Minister of National Revenue (the “Minister”) allocated personal use of the vehicles at 20 per cent.
+[4] When the Appellants travelled to trade shows outside Canada, they flew and stayed primarily in ‘bed & breakfast’ establishments. When doing business in the United Kingdom, they stored their supplies and equipment in a warehouse. When they travelled to places like South Africa, which they did in 2004, they would fly some equipment in with them and then would rent or buy other equipment, such as chairs, at the location due to cost effectiveness. If they were travelling in Canada, this equipment would be kept in the motor home.
+[5] In addition to this travel, they also had customers who attended at their home for orthotic fittings. The Appellants also trained orthotic distributors who eventually acted as technicians at the trade shows. Training could take three to four days. According to their testimony, the basement of their home was renovated almost entirely to accommodate this business including filing, communication, booking shows, manufacturing, storage and training. According to the Appellants’ evidence, the basement consisted of a bedroom, where trainees stayed overnight during distributor training sessions, washroom and small kitchen area for customers and trainees, a small office, a larger open area with a main office, a laundry room and a furnace room, which the Appellants stated was used 100 per cent for equipment storage and for the manufacture of products. There was no business conducted in the main floors of the home. The Appellants testified that they used 75 per cent of the total 953 square feet in the basement, or 715 square feet, for their business.
+[6] In addition, the Appellants claimed business use of a two-storey, 30 by 30 foot, detached shop. They claimed 50 per cent of each floor of this shop as business use for a total of 900 square feet. The shop was used primarily for storage of equipment and supplies. According to their evidence and their figures contained in Exhibit A-3, they claimed a total of 1,615 square feet or 37.5 per cent (715 square feet in respect to the basement and 900 square feet in respect to the shop) as business use out of a total of 4,310 square feet for both the house and shop.
+[7] According to the evidence of the auditor, Peter Dranchuk, and Exhibit R‑1 of the Minister, the total square footage of the shop was 1,568 square feet, not 1,800 square feet as per the Appellants, with the second floor containing living quarters only. Consequently, the Minister allowed 50 per cent of the bottom floor (50 per cent of 784 square feet) of the shop, or 337 square feet (an incorrect calculation in any event which I will address later in my Reasons). In addition, the Minister allowed 100 per cent business use of the small office located in the basement and 50 square feet respecting storage in the basement, for a total of 200 square feet of basement use for business. The Appellants’ figures, therefore, were revised from approximately 20 per cent for each partner respecting business use of home and shop to 7 per cent for each partner.
+[8] In addition to the business use of home and business use of motor vehicles, the Appellants are disputing the denial of travel expenses in respect of trade shows in England, South Africa and Ireland, expenses relating to South African equipment rentals and expenses for extended warranty and insurance of the Bigfoot motor home.
+[9] The issues are as follows:
+1. What is the proper amount of recapture of capital cost allowance resulting from the sale of the motor home in 2004?
+2. Whether the amount of $10,325.70, the conversion amount of the 4,500 British Pound cheque, should be included in the unreported sales income in 2004?
+3. What is the proper allocation of the business/personal use of the Appellants’ home and shop?
+4. What is the proper allocation of the business/personal use of the vehicles?
+5. Are the following expenses deductible?
+(a) air travel abroad;
+(b) the ferry costs to trade shows abroad;
+(c) the warranty protection and insurance portions of the motor home payment; and
+(d) the equipment rental in South Africa.
+6. Were gross negligence penalties warranted in both of the 2003 and 2004 taxation years?
+7. Is the Respondent entitled to costs in respect to the adjournment of the hearing in March, 2010?
+Analysis:
+[10] The Appellants have the burden of proof in respect to these issues, with the exception of the penalties. The Respondent relies primarily on the fact that many of the expenses were not documented and asks that the Court draw adverse inferences from the Appellants’ failure to provide sufficient information and related documentation. The Respondent relied on the oft-quoted passage from Njenga v. The Queen, 96 D.T.C. 6593, at paragraph 3, for the proposition that:
+… Self written receipts and assertion without proof are not sufficient.
+However, I have never believed or applied the rule of thumb that only those items that are fully documented should be permitted. It depends on the totality of the circumstances, the type of corroborating evidence provided, as well as the credibility of the witnesses.
+[11] The following comments respecting Njenga by C. Miller J., at paragraph 6, in Fenney v. The Queen, [2001] 3 C.T.C. 2592, are applicable:
+6. Certainly the Court made it clear in Njenga that the burden of proof of elligible [sic] deductions rests with the taxpayer, and that the taxpayer must maintain documentation in support of claims. However, in Njenga it was clear that the trial Judge found the Appellant lacking in credibility. That is not the case here. I believe Mr. Fenney's assertions. I do not read Njenga as an absolute prohibition on allowing undocumented expenses: it should be read in the light of a non‑credible witness.
+[12] In these appeals, it is undisputed that the Appellants had a multitude of undocumented expenses and their records, as they existed in 2003 and 2004, were in disarray. However, some of the items were supported by receipts from third parties that matched their self-written receipts and they did travel extensively in their business, so one would expect a significant number of expenses to be incurred. In addition, I do not question the credibility of the Appellants’ testimony. I do not believe they set out to intentionally mislead. Their problem arose when they sensed that their sales could not have increased so significantly in these taxation years and, consequently, questioned the bookkeeper’s calculations and records, which, in hindsight, had apparently been properly calculated from the outset.
+[13] With this background, I turn now to each of the issues.
+Issue #1: What is the proper amount of recapture of capital cost allowance resulting from the sale of the motor home in 2004?
+[14] The Appellants now claim that they did not complete the recapture amount correctly in respect of the disposition of their motor home in 2004. The Minister included, in the Appellants’ net business income, the total amount of $35,929.90, being recapture of capital cost allowance. While the Appellants claimed proceeds of disposition in an amount of $32,210.00 and a corresponding terminal loss of $8,878.59, that was in error since the amounts for repayment of the loan were not included in the proceeds of disposition. There is no issue that the repayment of the loan of $44,808.49 should have been included in the proceeds of disposition; however, there is a dispute as to the total proceeds of disposition. The Appellants claim that since an unrelated cheque for $10,000.00 was deposited on the same day as the cheque from the sale of the motor home was deposited, the recapture amount which the Minister calculated of $35,929.90 should, therefore, be reduced by $10,000.00 to $25,929.90.
+[15] The Appellants submitted cheque number 201, dated July 15, 2004, payable to Normita Walker, in the amount of $10,000.00 from the Shuswap Orthotics’ account at the Westminster Savings Credit Union, together with a copy of a Westminster Savings bank statement of Shuswap Orthotics showing the withdrawal of a $10,000.00 amount on July 15, 2004 and referencing cheque number 201. They also produced a bank statement of Normita Walker, with TD Canada Trust, which showed a deposit of $32,211.21 on July 15, 2004 (all documents contained at Exhibit A-5). They contend that this shows a separate deposit in respect of this $10,000.00 cheque, which was completed at the same time as the deposit for the sale of the motor home proceeds. The result was that the proceeds after repayment of the loan should be $22,211.21 for the purposes of recapture.
+[16] The Respondent’s argument against reducing the recapture amount by this $10,000.00 amount is that the Appellants did not provide the original sales agreement respecting the motor home, which would have conclusively settled the issue. They also did not provide the back of the $10,000.00 cheque to verify that it was deposited to Normita Walker’s account at the TD Canada Trust.
+[17] The Appellants’ testimony concerning the commingling of funds that occurred is reasonable in light of their documentary evidence. Both Appellants provided testimony and there were no inconsistencies in their explanation. In addition, the auditor, Peter Dranchuk, testified that the accounting records did show a deposit of $10,000.00 just prior to the $22,211.21 deposit and that two smaller amounts were posted to the general ledger respecting the $32,211.21 deposit. More importantly, I have the independent testimony of Jewls Buttrey, Shuswap’s present bookkeeper, who stated the following respecting these cheques:
+Q. Could you – when you say you saw this deposit, there was a cheque from $10,000 from one account – from an account from Normita Walker, correct?
+A. From one account of theirs, yes.
+Q. There was a deposit totalling $32,210 in another account.
+A. Yes.
+Q. You could – there was evidence that this cheque had been deposited.
+A. Yes.
+Q. You never saw the original cheque?
+A. It came back with the bank statement.
+Q. Did you see the original cheque?
+A. Yes.
+Q. With a – the double-sided stamp cheque.
+A. Yes.
+Q. Do you have a copy of that today?
+A. No, I do not.
+Q. Are you aware that no copy of a double-sided cheque has ever been provided to the Canada Revenue Agency?
+A. No, I was not aware of that.
+Q. Did you see any record from the receiving bank, where the deposit was placed, of two separate deposits?
+A. I’m sorry, can you repeat that?
+Q. Did the statement from the bank where the $32,000 was deposited only show that there was one deposit of $32,000 on that day?
+A. Yes, because it was – you know how you do your deposits, put your cheques in, and they only put in the total amount. They don’t separate them. And this information was brought to me after the tax return had been done.
+(Transcript, page 222, line 3 to page 223, line 12)
+[18] The testimony of both Jewls Buttrey and Peter Dranchuk supports the Appellants’ explanation and the dates on the accounts match. Consequently, the amount of recapture of capital cost allowance should be reduced by the $10,000.00 cheque amount which will result in a total recapture amount of $25,929.90 in respect to the 2004 taxation year.
+Issue #2: Whether the amount of $10,325.70, the conversion amount of the 4,500 British Pound cheque, should be included in the unreported sales income in 2004?
+[19] The Appellants submit that this amount is a gift from Mr. Walker’s mother who lives in England. He testified that he received many such gifts from her. They relied on a printout of an RBC Financial Group statement showing a deposit of $10,325.70 on December 6, 2004. However, without a copy of the cheque, I have no way of verifying its origin. Although I would be inclined to accept Mr. Walker’s testimony if they were not doing business in England, I must acknowledge the Respondent’s position that an equally logical explanation for this deposit is that it is the sum total of orthotics sales in England during a period of time. Without additional information from the Appellants, I cannot accept their assertion concerning the gifting of the amount in light of the very real possibility that it related to an accumulation of sales in England. I hope this impresses upon the Appellants the necessity of keeping detailed records. In a self-assessing system, that responsibility falls ultimately on their shoulders.
+Issue #3: What is the proper allocation of the business use of the Appellants’ home and shop?
+[20] The proper allocation between business and personal expenses in respect to a work space in the home and, consequently, which expenses may be deducted, will be based upon the ratio of square footage that is actually used for business purposes within the domestic establishment to the total square footage that is used for personal use.
+[21] Subsection 18(12) of the Income Tax Act (the “Act”) states:
+(12) Work space in home. Notwithstanding any other provision of this Act, in computing an individual's income from a business for a taxation year,
+(a) no amount shall be deducted in respect of an otherwise deductible amount for any part (in this subsection referred to as the "work space") of a self-contained domestic establishment in which the individual resides, except to the extent that the work space is either
+(i) the individual's principal place of business, or
+(ii) used exclusively for the purpose of earning income from business and used on a regular and continuous basis for meeting clients, customers or patients of the individual in respect of the business;
+(b) where the conditions set out in subparagraph (a)(i) or (ii) are met, the amount for the work space that is deductible in computing the individual's income for the year from the business shall not exceed the individual's income for the year from the business, computed without reference to the amount and sections 34.1 and 34.2; and
+(c) any amount not deductible by reason only of paragraph (b) in computing the individual's income from the business for the immediately preceding taxation year shall be deemed to be an amount otherwise deductible that, subject to paragraphs (a) and (b), may be deducted for the year for the work space in respect of the business.
+[22] There is no dispute that the Appellants are entitled to deduct expenses in computing their income from business as they relate to the business use of the home. The problem is that the Appellants contend that they use a total of 37.5 per cent as the business use portion of the entire household while the Respondent reduced that total percentage to 14 per cent (or 7 per cent to each Appellant/partner).
+[23] The areas of the home that related to business use in respect to the years under appeal are the two-storey detached garage or shop and the basement of the log home. The basement consisted of a furnace room, laundry room, bedroom, washroom, small office and an open area containing an office space, kitchen and living room areas.
+[24] The auditor did attend to view the premises, although the Appellants contend that it was a cursory view. I was not provided with pictures or detailed diagrams of these areas. I have only the Appellants’ calculations. The second floor of the garage or shop contains a bed and small storage area. According to the evidence of Clive Walker, the living area “…was only ever used once, and that was the year my wife and I got married…” (Transcript, page 31, lines 21 to 22). Based on the evidence, I must reject the Appellants’ claim that 50 per cent of the second floor was used for business-related activities/storage.
+[25] The Appellants also claimed 50 per cent of the first floor area of the garage/shop as business use and the Respondent agreed to that percentage for storage area. However, the problem occurs again in respect to the calculation of the square footage of the bottom floor. The Appellants’ calculations indicate 900 square feet, of which they claimed 450 square feet as business use, primarily for storage of orthotic equipment and tools. The Respondent calculated the total square footage of the entire garage/shop at 1,568 square feet and allowed 50 per cent of 784 square feet (1,568 ÷ 2 for the first floor) or 337 square feet. This is calculated incorrectly as I noted earlier in my Reasons and, in fact, should be 392 square feet of the first floor area for business use based on the Minister’s total square footage calculations. I accept the Minister’s overall calculations in respect to the garage/shop, subject to the mathematical calculation correction from 337 square feet to 392 square feet for business use.
+[26] In respect to the basement, I was not provided with a floor plan containing specific measurements for each room. The Appellants stated that the overall total square footage of the basement was 953 square feet and that 75 per cent of this area (or 715 square feet) was used for business purposes. Mr. Walker, on cross‑examination, testified that the laundry room was used primarily for personal use. The small office of 150 square feet, used by Mrs. Walker, was allowed entirely by the Minister for business use.
+[27] The furnace room, bedroom, washroom and open area remain in dispute. The Appellants claimed 100 per cent business use of the furnace room because manufacturing of orthotics took place there. Based on the auditor’s viewing, no percentage was allowed for business use. However, he did allow 50 square feet for storage area in the basement, which included the furnace room. There is nothing in the evidence to indicate that the primary use of this room was other than to heat the entire premises. As Wood J. stated in Hyska v. The Queen, 2009 TCC 71, at paragraph 20:
+[20] I agree with the treatment of the utilities by the Minister. It is consistent with other cases in this Court dealing with work space in a garage and it makes sense to treat expenses common to the entire home as subject to the restriction in s. 18(12).
+Although Mr. Walker stated that he used the room for manufacturing orthotic products, he also indicated that a “buffing portion” of the manufacturing process was completed in the detached garage/shop. I have no evidence as to the precise portion of the furnace room he claims to have used nor, for that matter, do I have the total square footage of this room. I do not know how often he used the room or whether it would be used frequently or infrequently. Therefore, I must agree with the Minister’s calculations.
+[28] I also agree with the Minister’s conclusion respecting the basement bedroom. The evidence of Clive Walker was that it was used as a place for individuals to stay overnight when he was training them for a distributorship. However, according to the evidence, during the years under appeal, there was at most only one person who stayed there for several days for this training. Therefore, I do not believe that this one-time use converts the area to a regular use of the bedroom to earn income.
+[29] The Appellants stated they received approximately 40 customers per year at their premises for orthotic fittings and that this sometimes included families. It is reasonable that businesses must provide washroom facilities to their customers, so I am prepared to allow the washroom as part of the business use. Since I do not have its dimensions, I am prepared to use whatever measurements the Appellants may have indicated during the audit process.
+[30] The remaining basement portion, the main open area containing office, kitchen and living room areas, as far as I am concerned and as suggested by the evidence, is devoted to business use. The Minister disallowed this area because there was personal use indicated by the kitchen and living room area containing a sofa and television. The Appellants, however, indicated that the television was actually used for security to monitor the premises’ front gate, where customers arrived before entering a long driveway to the house. In addition, the evidence suggests that larger groups, such as families, were fitted for orthotics in this open area. This was also the area that Clive Walker used as his office and the area where all of the arrangements for the international trade shows and travel arrangements were made, as well as where their business records were kept. In fact, their bookkeeper had access to their home while they attended shows and testified that she attended several times per week to open mail and make deposits. According to Normita Walker’s evidence, “…she’s [the bookkeeper] doing all the work in the office.” (Transcript, page 231, lines 20 to 21) while the Appellants are at trade shows.
+[31] In summary, the Appellants will be entitled to 100 per cent business use of the washroom and main open area (in addition to the 100 per cent business use respecting the small office and 50 square feet for storage, both allowed by the Minister) together with 50 per cent of the square footage of the first floor of the garage/shop or 392 square feet for business use.
+Issue #4: What is the proper allocation of the business/personal use of the vehicles?
+[32] The Minister assessed personal use on all of the motor vehicles globally at 20 per cent. There are four vehicles involved. The Appellants claim that a Ford van was used exclusively for personal use and that the other three vehicles – a motor home, house trailer and truck – were used exclusively for business purposes. The auditor admitted that the percentage was chosen as a result of the bookkeeper stating that there was some personal use for all vehicles.
+[33] Although there was no log book maintained, that may not necessarily be fatal to the Appellants. However, their evidence on cross-examination does not support their position in respect to these vehicles. They admitted that the truck and house trailer were not used exclusively for business. They travelled to Arizona to spend part of the winter months using these vehicles. While they did conduct some business there and there is evidence of some sales, the primary purpose of the Arizona travel was for pleasure. In my mind, this negates their claim of exclusive business use of the truck and house trailer and, without some documentation indicating exact usage for business, I am not inclined to accept their evidence that 100 per cent use of the motor home was exclusively related to business either. Consequently, the Minister’s conclusions respecting the personal/business allocation for these vehicles should not be altered.
+Issue #5: Are the following expenses deductible?
+(a) Air Travel Abroad
+[34] The Appellants submit that all of their denied air travel expenses to the United Kingdom and South Africa were business-related. Although Clive Walker was cross-examined with respect to whether any of his trips to England were specifically to visit his mother, he admitted that while he did visit his mother, he was primarily conducting business while in England. The Appellants submitted flight records, together with 2003 and 2004 calendars of the relevant trade show dates. The Respondent’s submissions on the travel expenses were that the Appellants were not sure which of them had taken the flights and, without matching the expenses to the revenue earned, the air travel expenses should be disallowed in their entirety. The evidence supports that, even when the Appellants were in the area where Mr. Walker’s mother resided, they were attending trade shows that were being held there. There is no dispute that revenue was earned in these locations and I am not rejecting the travel expense claim based on the Respondent’s arguments. Since the calendars generally match the flight receipts issued by Air Canada and the evidence of both Appellants was consistent, I am prepared to rely on the Appellants’ calendars to support the travel expenses to the United Kingdom. Such travel is part of their business and, therefore, in respect to these expenses to England and Scotland, the following amounts will be permitted: $1,087.85 for Clive Walker respecting travel between May 24 and June 28, 2003; $1,018.20 for Clive Walker respecting travel between August 20 and September 1, 2003; $2,310.58, or $1,155.29 for each of the Appellants, respecting travel between October 4 and October 29, 2003; $864.88 for Clive Walker respecting travel between January 23 and April 20, 2004; and $1,162.80 for Normita Walker for travel between February 15 and March 31, 2004.
+[35] I have more evidence respecting the air travel of Normita Walker to South Africa in 2004:
+(a) a VISA account printout indicating payments to Globespan Travel of $2,586.33 and $1,257.52 on May 6, 2004;
+(b) the pertinent itinerary from Globespan Travel;
+(c) the Appellants’ calendars indicating attendance at the 2004 Royal Show in South Africa from May 28, 2004 to June 6, 2004;
+(d) a receipt, dated June 1, 2004, from the Royal Agricultural Society of Natal for the rental of display materials.
+The Globespan Travel itinerary, as well as the calendars, support that Normita Walker, after the South African trade shows, travelled to trade shows in the United Kingdom before returning to Vancouver. The final flight segment is for an additional amount of $295.54 for travel between Vancouver and Kamloops. The dates match the dates of the international tickets to South Africa. Although I have no evidence as to why there are two amounts on the credit card statement on the same date for Globespan Travel, I am allowing the largest amount of $2,586.33 together with the $295.54 amount for a total of $2,881.87 respecting the South Africa travel in 2004. Any other amounts that may have been referenced in Exhibit A-8 are not allowed because I consider that they are unsupported.
+(b) Ferry Costs Abroad
+[36] I am not allowing any amount for ferry cost expenses respecting travel between Guernsey and Jersey because contrary to Normita Walker’s testimony, that they were booked online and that their VISA account statement referenced payment of these expenses to “WEBSNCF”, the records before me show only one charge to WEBSNCF of $12.11. In addition, I have no documentation to support a claim of expenses for the ferry travel to Ireland.
+(c) Deductible Portion of Motor Home Payment
+[37] The Appellants claimed a deduction of $1,568.64 in 2003 and $3,790.88 in 2004, respecting the protection and insurance package that they state was required as part of the financing of the motor home. The Respondent argued that these amounts may have already been deducted in prior years. I am prepared to allow these amounts, provided they have not been deducted entirely prior to the years under appeal.
+(d) Equipment Rental in South Africa
+[38] The Respondent indicates that this amount may have already been allowed. If it has not, there is ample evidence to permit a deduction of $208.34 (978.12 South African Rand) based on the Royal Agricultural Society of Natal receipt which shows that it was for the rental of conference chairs and a white bar at this trade show in South Africa.
+Issue #6: Were gross negligence penalties warranted in both of the 2003 and 2004 taxation years?
+[39] Gross negligence penalties were levied, pursuant to subsection 163(2) of the Act, in respect to the amounts of unreported income in each taxation year, as well as the Appellants’ reduction to income of $120,000.00 in 2004. The 2003 unreported revenue amounts related primarily to deposits in foreign currencies, including US$53,000.00 respecting their U.S. account. The unreported revenue amounts for 2004 related to an $86,000.00 adjustment to revenue, the failure to properly recapture $32,211.21 respecting the sale of the motor home and the failure to include a British Pound cheque of $10,325.00 Canadian.
+[40] Gross negligence is defined in Venne v. The Queen, 84 D.T.C. 6247, at page 6256, as follows:
+… "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. …
+[41] The standard of proof respecting gross negligence and the reference to the provision imposing a penal sanction were discussed by Cattanach J. in Udell v. M.N.R., [1970] Ex C.R. 176. At page 190, in discussing subsection 56(2), now subsection 163(2) of the Act, he provided the following comments:
+There is no doubt that section 56(2) is a penal section. In construing a penal section there is the unimpeachable authority of Lord Esher in Tuck & Sons v. Priester [(1887) 19 Q.B.D. 629] to the effect that if the words of a penal section are capable of an interpretation that would, and one that would not, inflict the penalty, the latter must prevail. He said at page 638:
+We must be very careful in construing that section, because it imposes a penalty. If there is a reasonable interpretation which will avoid the penalty in any particular case we must adopt that construction.
+[42] The Respondent relied on the test set forth in Lacroix v. The Queen, 2009 D.T.C. 5029 (FCA), which basically stated that the same test applies respecting subsection 163(2) as the applicable test in 152(4)(c)(i) of the Act. This flies in the face of the preceding decisions, of not only this Court but, also, the Federal Court of Appeal itself. In my criticism of Lacroix, contained in Dao v. The Queen, 2010 D.T.C. 1086, I stated, at paragraph 44:
+… At paragraphs 30 to 32 of Lacroix, the two provisions are essentially lumped together and the same onus is imposed upon the Minister with respect to both provisions. The effect of this would be to remove the requirement for the element of mens rea and, consequently, establish circumstances that would allow penalties in many unsuccessful appeals. Where a taxpayer is accused of reckless and reprehensible conduct bordering on criminal behaviour for which he may be slammed with the punishment of gross negligence penalties, the Minister under subsection 163(2) has a duty to justify its decision which will not be satisfied merely, as Lacroix suggests, by showing that the taxpayer has unreported income but could not provide a credible explanation.
+[43] The application of gross negligence penalties is a question of fact and to determine whether gross negligence is present, reference must be made to the definition contained in Venne, that is, whether the negligence was tantamount to intentional acting or an indifference as to whether the law has been complied with.
+[44] The Appellants stated that excluding the amounts from revenue was based on an honest mistake. After their bookkeeper prepared their books for both years, they doubted her work and felt the income she calculated was not correct. According to their evidence, they thought that the bookkeeper had mistakenly included transfers of money between accounts, which should not have been included, as sales revenue. They maintained seven bank accounts which no doubt contributed to the complexity of their records, especially where transfers were being made among the accounts. They recalculated their taxes twice and, in 2003, because they disagreed with the accuracy of the “Simply Accounting” data file prepared by the bookkeeper, they ignored those figures and made their own adjustments. For 2004, they subtracted amounts which they did not believe were income from the 2004 Simply Accounting data. It appears that, in second-guessing their bookkeeper’s work and the Simply Accounting data system, they incorrectly and mistakenly superimposed their own revenue calculations.
+[45] The auditor did confirm that there were no mischaracterized amounts and that the 2003 deposits to their U.S. bank account had been properly posted to the Simply Accounting file. With respect to the $86,971.67 amount, which the Appellants claimed was mischaracterized as income in 2004, the list of items comprising this amount contained six items that were posted to revenue but there was nothing to indicate that they should not have been so posted. The Appellants also reduced revenue by $32,211.21 because they believed the sale proceeds of the motor home were already included in income but the amount had been posted, not to the revenue account, but to another category. The other large amount in dispute in 2004 was $10,325.70, which the Appellants claimed throughout to be a gift from Clive Walker’s mother. They were unable, however, to produce proof independent of their oral testimony.
+[46] It appears that most of the assumptions that the Appellants made respecting their revenue were incorrect and that their bookkeeper and the Simply Accounting records had correctly posted the bulk of the revenue. This is supported by the fact that the Appellants did not dispute the majority of the amounts assessed as unreported revenue and put only the recapture amount and the mother’s gift amount at issue in these appeals. Initially, however, they were convinced that their own figures were correct and requested adjustments for 2003 and 2004. They did so despite the advice of their accountant that they could run the risk of an audit. There is no doubt that the Appellants were careless in their approach. They failed to keep proper records and, although they hired a bookkeeper, they felt they knew more than she did in respect to adequate record keeping. In hindsight, I am sure they now recognize their own shortcomings and that they should have placed more trust in a bookkeeper that was hired and paid to do a specific job.
+[47] When I apply the definition of gross negligence provided in Venne, I conclude that penalties are not warranted in these appeals. The Appellants had an honest, although mistaken, belief that their bookkeeper had incorrectly posted revenue amounts. This resulted in the Appellants making the adjustments because they thought that tax was not owed in the amounts as calculated in the partnership records. This is not a case where the Appellants simply did not report revenue. They were attempting to comply by filing adjustments. They failed to appreciate that the records they relied on to do so were complex and, in many instances, inadequate. However, as suggested in Venne, there is no indifference here as to whether the law is complied with and, instead, they attempted, although foolishly, to correct amounts themselves. There is no intentional acting and, in these circumstances, the Minister has not met the onus to justify the imposition of penalties.
+Issue #7: Is the Respondent entitled to costs in respect to the adjournment of the hearing in March, 2010?
+[48] Originally, these appeals were scheduled for one day and commenced on March 2, 2010. Toward the end of that day in Court and with only the direct examination of Clive Walker completed, a question arose as to whether the gross negligence penalties were in issue. When it became clear that the Appellants wanted those penalties put before me for resolution, I instructed the Respondent to amend his Reply, as he had the onus in this respect, and adjourned the appeals for continuation for two days in November, 2010. Consequently, the Respondent requested costs for this adjournment pursuant to subsection 10(2) of the Tax Court of Canada Rules (Informal Procedure) because the Appellants had one year from the time they filed their Notices of Appeal on November 10, 2008 to ensure this issue was put before the Court. In addition, the Respondent had written to the Appellants six weeks prior to the hearing to clarify the issues (to which the Appellants had not responded). Even if the Appellants had either amended their pleadings or responded to this written request, it is apparent that an adjournment would have been required in any event in order to complete the hearing. There was no resulting prejudice to the Respondent. Therefore, I am not prepared to award any costs in this respect as per the Respondent’s request.
+Summary:
+[49] Based on my Reasons, the appeals are allowed without costs and the following adjustments are to be made to the reassessments for the Appellants’ 2003 and 2004 taxation years:
+1. Partnership income for the 2004 taxation year to be reduced by $10,000.00 to account for the commingling of this cheque with the proceeds from the sale of the motor home.
+2. Increase the percentage of business use of the home to include the washroom and the entire main open area of the basement in both 2003 and 2004 using the dimensions supplied by the Appellants during the audit together with correcting the Minister’s calculations of the bottom floor of the garage/shop from 337 square feet to 392 square feet of business use.
+3. Allow the air travel expenses, incurred for the purpose of gaining income, to the United Kingdom and South Africa in the following amounts:
+(a) $1,087.85 and $1,018.20 for Clive Walker; $1,155.29 for each Appellant (all in 2003 in respect to the United Kingdom);
+(b) $864.88 for Clive Walker and $1,162.80 for Normita Walker (all in 2004 for United Kingdom travel); and
+(c) $2,881.87 for Normita Walker for the South Africa air travel in 2004.
+4. Allow the deduction of the extended warranty and life and disability insurance in 2003 and 2004 according to the appropriate accounting principles unless these amounts are determined on a re-consideration by the Minister to have been deducted entirely in prior years.
+5. Allow a deduction of $208.34 to the partnership in respect to the South Africa trade show rentals provided the amount has not previously been permitted at the appeals stage.
+6. Cancel gross negligence penalties in both 2003 and 2004.
+Signed at Ottawa, Canada, this 10th day of January 2011.
+"Diane Campbell"
+Campbell J.
+CITATION: 2011 TCC 10
+COURT FILE NOS.: 2009-134(IT)I
+2009-135(IT)I
+STYLE OF CAUSE: Clive Walker, Normita Walker and
+Her Majesty The Queen
+PLACE OF HEARING: Kelowna, British Columbia
+DATES OF HEARING: March 2, 2010 and November 1 & 2, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Diane Campbell
+DATE OF JUDGMENT: January 10, 2011
+APPEARANCES:
+Agent for the Appellants:
+Dewey Lotoski
+Counsel for the Respondent:
+Whitney Dunn
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

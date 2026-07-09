@@ -1,0 +1,193 @@
+---
+title: "Mudge v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/483817/index.do"
+last_modified: "2020-08-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 77"
+citation2: ""
+neutral_citation: "2020 TCC 77"
+decision_date: "2020-08-10"
+language: "en"
+item_id: "483817"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4551
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-11-02T09:24:50.816000+00:00"
+cases_cited_count: 12
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ed3a2e9cf60617e9b88221e40f7a4507927957f9b8d1896a72d0578c6ebb18bd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mudge v. The Queen
+
+- Citation: 2020 TCC 77
+- Decision date: 2020-08-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4551, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mudge v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-08-10
+Neutral citation
+2020 TCC 77
+File numbers
+2018-3248(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-3248(IT)G
+BETWEEN:
+GRAHAM F. MUDGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on October 4, 2019 at Ottawa, Canada
+Before: The Honourable Justice B. Russell
+Appearances:
+Counsel for the Appellant:
+Martin Gentile
+Counsel for the Respondent:
+Shane Aikat
+Stephen Ji
+AMENDED ORDER
+The motion is allowed but only to the extent of striking the word “domiciled” in subparagraphs 18.61 (one occurrence) and 18.63 (two occurrences) in the Amended Reply that has been or is to be filed. Costs of this motion in the fixed amount of $1,250 are to be paid by the Appellant to the Respondent within 30 days of the issuance date of this Order.
+This Amended Order is issued in substitution for the Order dated July 30, 2020.
+Signed at Halifax, Nova Scotia, this 10th day of August 2020.
+“B. Russell”
+Russell J.
+Citation: 2020TCC77
+Date: 20200810
+Docket: 2018-3248(IT)G
+BETWEEN:
+GRAHAM F. MUDGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+Russell J.
+[1] The issuance of the herein Order and Reasons for Order has been delayed by the closure of this Court for several months due to the Covid-19 pandemic.
+[2] The Appellant, Graham Mudge has brought an interlocutory motion per subsection 53(1) of the Tax Court of Canada Rules (General Procedure) (Rules, Rule), in respect of his appeal of a reassessment raised under the federal Income Tax Act (ITA) respecting his 2008 taxation year. He seeks an order striking portions of the Respondent’s Reply pleadings. In advance of the return of this motion the Respondent submitted to the Appellant a proposed Amended Reply reflecting various pleading changes prompted by the bringing of this motion. Accordingly, the proposed Amended Reply rather than the filed Reply is the pleading addressed herein in the consideration of this motion.
+[3] The text of the proposed Amended Reply is attached as Appendix “A” to these Reasons for Order, and will be further referred to below.
+[4] Rule 53(1) provides:
+The Court may, on its own initiative or on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that that the pleading or other document
+(a) may prejudice or delay the fair hearing of the appeal;
+(b) is scandalous, frivolous or vexatious;
+(c) is an abuse of the process of the Court; or
+(d) discloses no reasonable grounds for appeal or opposing the appeal.
+[5] The issue in the Appellant’s underlying ITA appeal is the deductibility per subsection 118.1(3) of the ITA of a charitable donation he claims he made in 2008 to the Canadian Humanitarian Trust (CHT) donation program.
+[6] In the proposed Amended Reply the Respondent has pleaded 131 assumptions said to have been made by the Minister of National Revenue (Minister) in raising the appealed reassessment. The Appellant’s Notice of Motion provides as grounds for striking out portions of the original Reply (and now the proposed Amended Reply) that those portions variously, “may prejudice or delay the fair hearing of the appeal; are scandalous, frivolous or vexatious; are repetitive; are conclusions of mixed fact and law; are conclusions of law; are irrelevant; relate to taxation years that are not in issue in the appeal; contain evidence by which the facts are to be proved.”
+[7] The underlying appeal is at an early stage. There have not yet been exchanges of lists of documents or discovery examinations. A demand for particulars was issued August 2, 2019 by the Respondent; responded to by the Appellant September 3 and September 16, 2019 by particularizing portions of the Reply that the Appellant considers reflect pleading deficiencies.
+[8] Prior to addressing specifically the proposed Amended Reply, I will note certain well-established legal principles governing pleadings.
+[9] The purpose of pleadings is to define the issues in dispute between the parties for the purposes of production, discovery and trial. What is required of a party pleading is to set forth a concise statement of the material facts upon which she relies. Material facts are those facts which, if established at the trial, will tend to show that the party pleading is entitled to the relief sought. (Zelenski v. The Queen, 2002 DTC 1204 (TCC), para. 4; aff’d 2002 DTC 7395 (FCA))
+[10] This is the rule of pleading: all of the other pleading rules are essentially corollaries or qualifications to this basic rule that the pleader must state the material rules relied upon for his or her claim or defence. The rule involves four separate elements: (1) every pleading must state facts, not mere conclusions of law; (2) it must state material facts and not include facts which are immaterial; (3) it must state facts and not the evidence by which they are to be proved; (4) it must state facts concisely in a summary form. (Holmsted and Watson, Ontario Civil Procedure, Vol. 3, pp. 25/20 and 25/21, cited in Zelenski, supra, para. 5)
+[11] Material facts are the facts that must be pleaded in a pleading, being the facts, “necessary for the purpose of formulating a complete cause of action”. (Globtek Inc. v. The Queen, 2005 TCC 727, para.5, citing Bruce v. Odhams Press Ltd., [1936] 1 K.B. 697 at 712 (C.A.))
+[12] Also in Globtek (supra, para.8), Bowie J. of this Court referenced the burden of litigation costs caused by the pleading of immaterial facts.
+[13] In Foss v. Her Majesty, 2007 TCC 201, paras 8 to 11, Bowie, J. further focused on the pleading of immaterial facts, writing that properly, only facts material to the appealed (re)assessment should be pleaded as ministerial assumptions.
+[14] The general test for striking out pleadings, in the context of a motion to strike the Crow n’s reply in an income tax appeal, is that the motion will be granted only if it is plain and obvious, assuming the facts as pleaded in the reply to be true, that the reply fails to state a reasonable basis for concluding that the reassessment under appeal is correct. (CIBC v. Her Majesty, 2013 FCA 122, para. 7.)
+[15] A motions judge should avoid usurping the function of the trial judge in making determinations of fact or relevancy. Such matters should be left to the judge who hears the evidence. (Sentinel Hill Productions v. Her Majesty, 2007 TCC 742, Bowman, CJ, para. 4.)
+[16] It is well established that the statement of factual assumptions must contain no statements of law . . . and where the assessment under appeal is based on a conclusion of mixed fact and law, the factual components must be extricated and stated as factual assumptions. (CIBC, supra, para. 92.)
+[17] Under Rule 53(1)(c) pleadings can be struck as an abuse of process without leave to amend. As well, pleadings can be struck as vexatious under Rule 53(1)(b). Vexatious is broadly synonymous with the concept of abuse of process, and so cases striking out a pleading as vexatious may also be helpful in determining whether to strike out a pleading as an abuse of process...[and]...a pleading which fails to sufficiently reveal the facts on which a claim is based to make it possible to answer or for the court to regulate the proceeding is vexatious.
+[18] Similarly the Federal Court of Appeal (FCA) stated in Merchant Law Group v. Canada Revenue Agency, 2010 CarswellNat 3175 (FCA), that a claim which contains bare assertions or conclusions without material facts on which to base them should be struck as vexatious. Pleadings may be struck as an abuse of process for similar reasons. (Mount Bruno C.C. Inc. v. Her Majesty, 2018 TCC 105, para. 19.)
+[19] Principles for application of Rule 53 include - fairness may require that no onus be placed on the taxpayer to rebut a specific factual assumption made by the Respondent; pleadings must contain material facts that clearly and concisely define the issues before the Court. Facts which are relevant but not material rarely should be pleaded. (CIBC v. Her Majesty, 2011 TCC 568, para. 41, per Rossiter, ACJ as he then was).
+[20] Questions of relevance generally should be left for the trial judge, in the context of all evidence at trial. Facts as to how an allegation will be proved are basically facts as to evidence and so should not be pleaded. As allegations of fraud and dishonesty are so serious, particulars are particularly required. Scandalous pleadings are pleadings which are offensive, do not relate to issues and are abusive or prejudicial. Also, pleadings might be struck because they were inserted for colour, or simply as they are inflammatory. Frivolous claims are pleaded claims with negligible importance and claims that are vexatious generally are usually malicious and have no cause. Pleadings should be struck for being scandalous, frivolous or vexatious only in the most obvious of cases. Abuse of process pertains to prejudicial misuse of procedure and/or the bringing of the administration of justice into disrepute. (CIBC, supra (TCC), paras. 41, 42).
+[21] Facts or perceived facts which are within the particular knowledge of the Respondent [the Crown], that are “paraded as assumptions” in the Reply, but are beyond the knowledge of the Appellant and which are not easily or practically deniable by the Appellant without extraordinary effort and expenditure, should not be deemed to be facts simply because they are not specifically negated by the Appellant’s evidence. Assumptions of fact in such circumstances cannot displace the need of the Respondent to produce evidence to substantiate or support same, to counter or affect the Appellant’s factual presentation. (Transocean Offshore v. Her Majesty, 2005 FCA 104, para. 34, referencing Bell, J from Radash Trading v. Her Majesty, 2004 TCC 446, para. 31).
+[22] In Kossow v. The Queen, 2009 FCA 83 (para. 21), the FCA adopted language of Bowman, ACJ TCC as he then was that it is essential that pleaded assumptions be complete and truthful. The trial judge is in a far better position than a judge hearing a preliminary motion to consider what effect should be given to these assumptions not within the knowledge of the appellant. The trial judge may consider them irrelevant or decide to cast upon the respondent the onus of proving them.
+[23] Further in Kossow (paras. 21 to 23), the FCA adopted language of Bowman, CJ of this Court, in Gould v. The Queen, 2005 TCC 566, as follows:
+[21] . . . A central component in [a prior] assessment which disallowed the charitable donations is the existence of a ‘scheme’ in which it is alleged that the appellant participated and which enabled the participants to obtain what the Crown sees as artificial or inflated charitable tax credits. It of necessity involved third parties and if the existence of a scheme is essential to the Crown’s case it should be able to plead and prove all of the components of the scheme. To say, as the appellant does, that [two certain judicial decisions] preclude any reference to third party transactions unless the appellant knows of or is privy to those transactions goes too far. If the existence of a scheme is germane to the disallowance it cannot be ignored whether or not the Minister assumed that the appellant knew about or was a party to the third party transactions that, according to the Reply, were an integral part of the scheme. If any of the facts assumed are truly within only the Crown’s knowledge the Crown probably has the onus of proving them although this is ultimately for the trial judge to decide.
+Ministerial assumptions of fact should be pleaded in the Crown’s Reply, which “should set out fully [the Minister’s] position. [The Crown] should plead honestly and comprehensively the assumptions upon which the assessment is based...The essential and important function that pleadings serve in litigation is a practical one of providing information about the party’s case.” (Gould v. Her Majesty, 2005 TCC 566 at para. 12, per Bowman, C.J.) As well, Rule 49(1)(d) provides that the Reply pleading, “shall state . . . the findings or assumptions of fact made by the Minister when making the assessment . . .”
+[24] In this motion the parties’ positions may be summarized. The Appellant argues that the Respondent’s obligation to completely plead ministerial assumptions must be kept within the bounds of principles of proper pleading, including conciseness, materiality and the overriding principle of fairness. That is, assumptions that are offensive, immaterial and irrelevant or conclusions of law ought not be pleaded. In particular, there may be situations where fairness requires that no onus be put on a taxpayer to rebut a specific factual assumption made by the Crown (Respondent). An example may be a fact that is exclusively or peculiarly within the knowledge of the Crown, and further cannot easily or practicably be denied by the taxpayer without extraordinary effort and expenditure. Such assumptions would not displace the need for the Crown to produce evidence to substantiate or support that which may be relevant to respond to the taxpayer’s factual presentation.
+[25] The Appellant further contends that the proposed Amended Reply includes many legal conclusions or statements of mixed fact and law, reflects excessive repetition, includes irrelevant or immaterial assumptions of fact and other assumptions “fraught with evidence in disguise”, and includes pleadings that are “vexatious, frivolous, scandalous or an abuse [of] process”. As well, portions of the pleading may prejudice or delay a fair hearing.
+[26] The Respondent defends its proposed Amended Reply, noting that it is essential that assumptions be pleaded completely and truthfully. Pleadings should be struck only in the plainest and most obvious cases. Further, assertions of ownership, possession, acquisition, etc. are in context factual, not legal. Also, the complexity of the CHT program requires a proportional factual description, as distinguished from pleading evidence. Additionally, pleading assumptions regarding third parties is proper. Finally, the language of the Crown’s pleadings is descriptive as opposed to being inflammatory, scandalous, vexatious or otherwise prejudicial.
+[27] Keeping in mind the foregoing principles pertinent for Rule 53 strike motions, I now address the contested pleadings in the proposed Amended Reply, the text of which, as noted above, is attached hereto as Appendix “A”. And, the complete listing of portions of the proposed Amended Reply that the Appellant seeks to strike plus in each case the Appellant’s stated reasons for same is found in Appendix “A” of the Appellant’s Written Submissions.
+[28] The Appellant seeks that paragraph 1 of the proposed Amended Reply be struck due to many alleged failings - “immaterial or irrelevant, evidence, assumptions of this parties, repetitive, mixed fact and law, vexatious, scandalous or frivolous, an abuse of process, prejudice or delay fair hearing”. The Appellant has cited in large part this same or a similar litany of complaints in support of most of its many strike requests.
+[29] I do not find the use of the verb “abuse” in paragraph 1 of the proposed Amended Reply sufficiently offensive or capable of improperly influencing a trial judge - i.e., “vexatious, scandalous or frivolous” - to resort to striking it out per Rule 53. I find the phrase “registered tax shelter” not offensive - after all “tax shelter” is a defined term in the ITA itself which statute as well provides for registration of tax shelters. The other language in paragraph 1 may be pointed but not to the extent that any of it need be struck.
+[30] In paragraph 2, the Appellant seeks that the phrase “fictitious cash donation” be struck. For the same reason as expressed immediately above, I do not find that phrase sufficiently offensive that it need be struck. Portions of a pleading should be struck, particularly at the motion stage, only where the language is strikingly or startlingly objectionable.
+[31] The Appellant seeks that the phrase “tax shelter” be struck from the heading which appears as part of paragraph 18, immediately preceding subparagraph 18.1. The heading reads, “Overview of the Canadian Humanitarian Trust tax shelter”. For the same reasons as expressed above, I decline to do so.
+[32] The Appellant seeks that the phrase “Tax Shelter” in subparagraph 18.1, as part of the phrase, “Canadian Humanitarian Tax Shelter (#TS069310)” be struck. Again I decline to do so, for reasons expressed above regarding paragraph 1. I note, on the basis of undue repetition, the Respondent’s excising of the two subsequent references to “tax shelter” (lower case) appearing in the latter part of the one sentence comprising subparagraph 18.1. The phrases appeared in the Reply and the excising is evident in subparagraph 18.1 of the proposed Amended Reply.
+[33] The Appellant seeks that all of subparagraph 18.3 be struck, including particularly the phrase, “a thinly veiled scheme designed to enrich various parties”. I do not find that phrase sufficiently aggressive or offensive (or overly colourful) to require that it be struck in whole or part due to risk that if left it would improperly influence the judicial mind. I note and have no issue with the Respondent’s proposed amendments to this subparagraph of the proposed Amended Reply.
+[34] The Appellant seeks that all of subparagraphs 18.3 through 18.10 be struck. The reasons are similar to those expressed above, if slightly more focused - “immaterial or irrelevant, evidence, assumptions of third parties, frivolous, an abuse of process, prejudice or delay fair hearing”. In oral submissions, Appellant’s counsel focused particularly on subparagraphs 18.7 to 18.10, asserting that these expressed assumptions were outside the Appellant’s knowledge, and are immaterial. Following Kossow, supra, I do not find these reasons sufficient to strike language at this early stage in the appeal. Per the FCA it is for the discovery examination process and ultimately the trial judge to determine what might be struck out on the basis of immateriality and/or whether the onus of proof should be shifted from the taxpayer Appellant in respect of any factual assumption of the Minister found to be beyond the Appellant’s knowledge and any reasonable ability for the Appellant to inform himself with respect thereto in advance of trial.
+[35] The Respondent has resolved the Appellant’s complaint re subparagraph. 18.15 that the term “tax shelter” appears in the heading and that this has become repetitive, by removing that phrase. I have no issue with that.
+[36] The Appellant seeks that all of subparagraphs 18.15 through 18.20 be struck. The submitted reasons are similar to those expressed above - “immaterial or irrelevant, evidence, assumptions of third parties, frivolous, an abuse of process, prejudice or delay fair hearing”. I do not see these elements in these subparagraphs, apart from the fact that some of the assumptions may be as to facts that are immaterial. As above, that is not a proper basis for striking pleadings at this motions judge stage. The matter should be left for the trial judge.
+[37] In oral submissions the Appellant expressed opposition to use of the term “tax benefit” in subparagraph 18.14 of the proposed Amended Reply, on the basis that it is a legal conclusion. This claim is not included in the written list of items to be struck. This contested pleading of subparagraph 18.14, being another ministerial assumption, reads - “The appellant entered into the CHT program primarily to secure for himself a tax benefit in excess of the initial cash payment he made and not to make a charitable gift to a registered Canadian charity.” I do not have difficulty with use of the term “tax benefit” in this context, focusing on the Appellant’s intention rather than upon any specific legal aspects of a tax benefit per 118.1(3) of the ITA.
+[38] Regarding subparagraph 18.21 the Appellant seeks the striking of all text including particularly the use twice of the phrase “tax shelter”. The Respondent has agreed to remove those two references, presumably on the basis of repetition. As usual, virtually all of the usual reasons for striking were cited. There was little in the way of oral submissions at the hearing about this.
+[39] The Appellant seeks that subparagraphs 18.22 through 18.24 be struck, again with most or all of the several grounds for doing so being cited. The Respondent has in response deleted most of subparagraph 18.22, having been twice as long as the two following subparagraphs. In oral submissions the Appellant focused on the word “controlled” in subparagraph 18.23,within the phrase, “...funds contributed by a participant were controlled by the promoters at all times”. The submission was that this was a statement of mixed fact and law and also it reflected the actions of third parties. I do not consider it obvious that “controlled” is unremittingly a term of law as used in this context, as opposed to a term of general layperson usage.
+[40] The Appellant seeks that the ministerial assumption pleaded at subparagraph 18.25 be struck, again citing all the various bases for so doing, but more particularly in oral submissions arguing that the provision pleads the assumption of an immaterial fact and the Appellant has no knowledge of that pleaded fact. Again this is answered by Kossow, whereby these are issues to be left to discovery examination and ultimately the trial judge, including as to any shifting of onus of proof.
+[41] The Appellant seeks that the ministerial assumption pleaded in subparagraph 18.26 be struck, particularly on the basis it pleads actions of third parties, of which he has no knowledge. The relevant text is, “...each participant retained Sommer’s Business Law Firm...as his or her trust lawyer and to act on their behalf to facilitate the transactions that allegedly occurred as a result of their participation in the CHT...” The Appellant says he has no knowledge as to what “each participant” did, he just knows what he did. As stated above, this is a matter for discovery examination and ultimately the trial judge. The references to “power of attorney” later in this draft provision are objected to by the Appellant on the basis of reflecting “mixed fact and law”. In context, the references do not trouble me, they are reasonably understandable to taxpersons and are cited primarily to convey the relevant factual circumstances. In any event I do not find it obvious that this language should be struck, particularly in my role as motions judge. The trial judge would be in a much better position to know, from context of the evidence adduced before her/him, whether legal intricacies of a right of power of an attorney are at issue. It does not appear to me albeit at the early stage of this appeal that that is likely.
+[42] The Appellant seeks that the ministerial assumption pleaded in subparagraphs 18.27 to 18.30 be struck, yet again citing as reasons virtually the full gamut of claims - “immaterial or irrelevant, evidence, assumptions of theirs parties, frivolous, an abuse of process, prejudice or delay fair hearing”. There is no text for either of subparagraphs 18.27 and 18.29. The text of subparagraph 18.28 is unobjectionable. The Appellant specifically opposes subparagraph 18.30, asserting it pleads evidence in referring to donation payments. The questioned text reads: “The dollar value of the pharmaceuticals and the alleged distribution of pharmaceuticals from the CHT Trusts was in proportion to the initial cash payment from the participant, and was consistent with the marketing materials” I disagree with the Appellant. I find here no obvious instance of pleading evidence as opposed to fully stating the case the Appellant has to meet.
+[43] The Appellant opposes subparagraph 18.31 of the proposed Amended Reply on the basis it pleads mixed fact and law. The questioned wording reads, in relevant part, “The initial cash payments were akin to fees paid to gain access to the CHT program...” The Appellant says that the legal issue here is what are “fees”? I disagree with the Appellant; I find here no concern of sufficient significance to require striking out a portion of these pleadings.
+[44] The Appellant opposes subparagraphs 18.32 through 18.34 of the proposed Amended Reply which plead as another ministerial assumption (subparagraph 18.33) that “[e]very participant who applied was accepted as a beneficiary of a CHT trust save and except (possibly) those who cancelled their initial cash payment”; and also (subparagraph 18.34) that participants had three options with respect to pharmaceuticals allegedly distributed. The Appellant states he has no knowledge of any of this, and that this is information sourced from third parties. Again, given the Kossow decision of the FCA, this is an inadequate basis to strike such pleaded assumptions at this pre-discovery examination stage.
+[45] The Appellant similarly opposes subparagraphs 18.35 and 18.36 of the proposed Amended Reply. Subparagraph 18.35 reads, again as a ministerial assumption: “All participants in the 2008 CHT program chose to sell the pharmaceuticals and gift the proceeds to a charity.” Subparagraph 18.36 reads, as another ministerial assumption: “In 2008 there were no charities or other infrastructure in place to donate the pharmaceuticals to a charity outright.” My finding re these subparagraphs is a repeat of my comments in the immediately preceding paragraph.
+[46] Subparagraphs 18.37 and 18.38 are objected to by the Appellant, as expressed in oral submissions, basically on the assertions that they plead immaterial facts and matters beyond the Appellant’s knowledge. Yet again the Kossow decision applies, establishing these grounds as not a basis for striking pleadings at this early stage in the appeal. Also subparagraph 18.38 refers to entities entering into a “contract”, which the Appellant submits represents the pleading of evidence. I disagree, on the basis that at this early stage at least the “contract” reference appears to be in a general context, without apparent focus on legal elements of a contract. It is not obvious that this portion of the pleading should be struck, at least at this early stage.
+[47] It appears that the Respondent’s further revisions to subparagraphs 18.40 and 18.41 now render those provisions acceptable to the Appellant.
+[48] The Appellant objects to subparagraphs 18.42 through 18.54 on virtually all of the usual bases, and in oral submissions on the more selective bases that they plead immaterial facts as assumptions and the pleaded facts are beyond the knowledge of the Appellant. As noted before, these are matters for a trial judge to determine - per Kossow. As elsewhere, the Respondent’s several proposed revisions to the proposed Amended Reply, put forward in light of the bringing of this motion are noted. The term “shell company” in subparagraph 18.45 is not, in my view, plainly and obviously pleading law; noting that it is a not infrequently heard colloquialism that is part of the layperson’s lexicon. As thought necessary, discovery examination can probe further any intended specific meaning.
+[49] Subparagraph 18.55 is principally objected to on the basis of the therein phrases, “make it appear” and “to create the appearance”. I do not view this rather tame phraseology as at all amounting to vexation, scandal or frivolity let alone an abuse of process, prejudice or cause for delay of a fair hearing. If this language colours the pleaded facts, as orally submitted by the Appellant, the resulting colour is nothing more than a tepid beige. These comments pertain as well to subparagraphs 18.56 and 18.57, which were dealt with by the Appellant in oral submissions together with subparagraph 18.55.
+[50] Subparagraphs 18.58 through 18.70 are objected to essentially on the conjoined bases of immateriality, and knowledge not held by the Appellant. I cite Kossow as the basis for me, being the pre-discovery examination motions judge as distinguished from, in due course, the trial judge, not striking these pleadings on these bases, nor addressing onus of proof issues. However, I would agree that usage of the word “domiciled” in subparagraphs 18.61 (once) and 18.63 (twice) unduly mixes findings of fact and law in those two subparagraphs’ assumptions. I accordingly strike that word in each of the three noted places, which in subparagraph 18.61 leaves the phrase “an entity…in” and in subparagraph 18.63 leaves (twice) the phrase, “which was…in”.
+[51] Subparagraphs 18.71 and 18.72 are attacked as reflecting actions of a third party, of which the Appellant claims to know nothing. Per Kossow that is insufficient to strike at this early pre-discovery stage. The Appellant submits orally that subparagraph 18.71 reflects evidence not fact. That, to me, is not obvious. It seems rather that the subject pleaded language constitutes a factual assertion regarding certain “wire transfers and other transactions” of or on the part of the Appellant. The pleaded factual assumption is that such transactions were, “simply the participants’ initial cash payments moving around in circles through various entities and being re-characterized and re-counted”. That such transactions were assumed to have been “re-characterized” is to me not a statement of evidence - i.e., how a factual assertion would be proved - but rather is a factual assertion in and of itself. In any event it is said there is no bright line distinguishing pleaded facts from pleaded evidence.
+[52] In each of subparagraphs 18.73 and 18.74 the Appellant wishes struck all text and alternatively the phrase “to create the appearance”. Again the Appellant’s written submissions unhelpfully assert the full panoply of reasons - “repetitive, mixed fact and law, immaterial or irrelevant, evidence, assumptions of third parties, vexatious, scandalous or frivolous, an abuse of process, prejudice or delay fair hearing”. In oral submissions, the Appellant urged that sham is claimed by the words “create the appearance” and that these pleadings reflect third party actions, are immaterial and an abuse of process. In my view sham has not been claimed where, as here, it has not been explicitly pleaded. Otherwise, again, Kossow discourages striking pleadings at this pre-discovery stage.
+[53] The Appellant next attacks subparagraphs 18.75 through 18.118 of the proposed Amended Reply, orally citing for the most part third party actions and immaterial facts. Kossow provides that these claims should not prompt striking pleadings which rather should be addressed post-discovery examinations and/or by the trial judge. I add that the reference in subparagraph 18.75 to CHT program participating charities entering “into specific agreements” is not tantamount to pleading evidence as orally asserted by the Appellant. The reference to “agreements” as evidence is too general or generic. Is the further pleading that the participating charities “had no control” of allegedly received funds, a statement of mixed fact and law as orally asserted by the Appellant? In my view that statement - i.e., the participating charities “had no control” of allegedly received funds – is basically a statement of fact rather than of mixed fact and law. It is not apparent how, as supposedly a mixed statement of fact and law, a statement of law could be extricated from this statement of fact. Lastly, as a motions judge I would not strike unless it was obvious (which it is not) that striking would be appropriate.
+[54] The Appellant in written submissions objects to subparagraphs 18.119 (heading) and then 18.126 through 18.128 on slightly differing collective bases, but in oral submissions the Appellant appears accepting of these provisions, replete with changes the Respondent had in the meantime put forth.
+[55] The Appellant asserts that subparagraph 18.131 is immaterial and, “more opinion than fact”. As noted numerous times already, asserted immateriality of ministerial assumptions does not justify striking at the motions judge stage. It is for the trial judge to ultimately sort out what is material and what is not. And as to “more opinion than fact”, whether the pleaded fact as to the primary reason the Appellant entered into the CHT program is based on an opinion is not indicated. However, we do know it is a pleaded assumption of the Minister. I see here no basis for striking any pleaded language. The Appellant also takes issue with use of the terms “inflated donation tax receipt” and “tax shelter” (which latter term the Respondent subsequently removed). I do not find the term “inflated donation tax receipt” particularly vexing. The term accurately and succinctly conveys the thrust of the entire proposed Amended Reply, albeit in language slightly more colourful than what the Appellant might prefer. At this early stage of the appeal I will strike no language from the subparagraph 18.131 pleading in the proposed Amended Reply.
+[56] The Appellant objects to use of the term “tax shelter” in subparagraph 19(a). The term has mostly been excised by the Respondent so that it is not being continuously repeated. As stated the term can be found in the ITA. I do not feel compelled to strike it here.
+[57] The Appellant’s final objection pertains to paragraph 22 of the proposed Amended Reply. In written submissions the Appellant’s only objection was use of the term “tax shelter” in subparagraph 22(a). I decline to strike for the same reasons as set out immediately above regarding subparagraph 19(a).
+[58] I order that the motion be allowed but only to the extent of striking the word “domiciled” in subparagraphs 18.61 (one occurrence) and 18.63 (two occurrences). Costs of this motion in the fixed amount of $1,250 are ordered to be paid by the Appellant to the Respondent within 30 days of the issuance date of the Order in this matter.
+This Amended Reasons for Order is issued in substitution for the Reasons for Order dated July 30, 2020.
+Signed at Halifax, Nova Scotia, this 10th day of August 2020.
+“B. Russell”
+Russell J.
+Appendix “A”
+CITATION:
+2020 TCC 77
+COURT FILE NO.:
+2018-3248(IT)G
+STYLE OF CAUSE:
+GRAHAM F. MUDGE AND THE QUEEN
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+October 4, 2019
+AMENDED REASONS FOR ORDER BY:
+The Honourable Justice B. Russell
+AMENDED DATE OF ORDER:
+August 10, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Martin Gentile
+Counsel for the Respondent:
+Shane Aikat
+Stephen Ji
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Martin Gentile
+Firm:
+KPMG Law LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

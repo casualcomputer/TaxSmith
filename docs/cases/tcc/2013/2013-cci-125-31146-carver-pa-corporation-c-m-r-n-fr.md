@@ -1,0 +1,243 @@
+---
+title: "Carver PA Corporation c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31146/index.do"
+last_modified: "2013-04-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 125"
+citation2: ""
+neutral_citation: "2013 CCI 125"
+decision_date: "2013-04-19"
+language: "fr"
+item_id: "31146"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4736
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:22:24.643000+00:00"
+cases_cited_count: 2
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "504e5970278d3969ebe314b1f42a25a9ab81a7e9ac50c5d94bb6540c92db420e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carver PA Corporation c. M.R.N.
+
+- Citation: 2013 CCI 125
+- Decision date: 2013-04-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4736, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carver PA Corporation c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-19
+Référence neutre
+2013 CCI 125
+Numéro de dossier
+2011-2773(EI), 2011-3219(CPP)
+Juges et Officiers taxateurs
+Norris Weisman
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2011-2773(EI)
+ENTRE :
+CARVER PA CORPORATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel
+de Carver PA Corporation (2011‑3219(CPP)),
+les 25 octobre 2012 et 5 février 2013, à Edmonton (Alberta).
+Devant : L’honorable juge suppléant N. Weisman
+Comparutions :
+Avocat de l’appelante :
+Me James Yaskowich
+Avocat de l’intimé :
+Me Adam Gotfried
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et l’évaluation établie par le ministre est confirmée, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 19e jour d’avril 2013.
+« N. Weisman »
+Juge suppléant Weisman
+Traduction certifiée conforme
+ce 23e jour de mai 2013.
+Alya Kaddour‑Lord, traductrice
+Dossier : 2011-3219(CPP)
+ENTRE :
+CARVER PA CORPORATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel
+de Carver PA Corporation (2011‑2773(EI))
+les 25 octobre 2012 et 5 février 2013, à Edmonton (Alberta).
+Devant : L’honorable juge suppléant N. Weisman
+Comparutions :
+Avocat de l’appelante :
+Me James Yaskowich
+Avocat de l’intimé :
+Me Adam Gotfried
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et l’évaluation établie par le ministre est annulée, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 19e jour d’avril 2013.
+« N. Weisman »
+Juge suppléant Weisman
+Traduction certifiée conforme
+ce 23e jour de mai 2013.
+Alya Kaddour‑Lord, traductrice
+Référence : 2013 CCI 125
+Date : 20130419
+Dossiers : 2011-2773(EI)
+2011-3219(CPP)
+ENTRE :
+CARVER PA CORPORATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Weisman
+[1] L’appelante, Carver PA Corporation (« Carver ») est spécialisée dans le domaine de l’entretien et des opérations industriels. Suncor Energy Services Inc. (« Suncor ») a retenu les services de Carver pour résoudre un problème auquel elle était confrontée du fait du gel de ses pipelines souterrains dans les sables bitumineux de l’Alberta. Carver a à son tour engagé Faisal Mahmood, ingénieur mécanique qui a travaillé sur des pipelines en Arabie saoudite, pour qu’il soit son expert-conseil pour ce projet.
+[2] Le ministre du Revenu national (le « ministre ») a établi une évaluation à l’égard de Carver pour des cotisations d’assurance-emploi et des cotisations au Régime de pensions du Canada impayées en application de la Loi sur l’assurance‑emploi[1] (la « Loi ») et du Régime de pensions du Canada[2] (le « Régime ») à l’égard de la rémunération que Carver a admis qu’elle avait payée à M. Mahmood pour le travail qu’il a accompli au service de Suncor entre le 28 septembre 2009 et le 12 février 2010.
+[3] Carver interjette appel de ces cotisations au motif qu’elle n’était pas une agence de placement, qu’elle n’a pas appelé M. Mahmood à fournir des services à Suncor sous la direction et le contrôle de celle‑ci, et que la relation de travail entre M. Mahmood et Suncor ne relevait ni d’un contrat de louage de services ni de dispositions analogues à celles d’un contrat de louage de services au sens de la Loi[3] et du Règlement sur l’assurance‑emploi[4] ainsi que du Régime[5] et du Règlement sur le régime de pensions du Canada[6], dont les dispositions pertinentes sont libellées de la manière suivante :
+Les dispositions législatives
+La Loi sur l’assurance‑emploi
+5. (5) La Commission peut, avec l’agrément du gouverneur en conseil et sous réserve d’une résolution du Parlement à cet effet, prendre un règlement en vue d’inclure dans les emplois assurables l’activité commerciale de toute personne qui exploite une entreprise au sens du paragraphe 248(1) de la Loi de l’impôt sur le revenu.
+Le Règlement sur l’assurance‑emploi
+6. Sont inclus dans les emplois assurables, s’ils ne sont pas des emplois exclus conformément aux dispositions du présent règlement, les emplois suivants :
+[…]
+g) l’emploi exercé par une personne appelée par une agence de placement à fournir des services à un client de l’agence, sous la direction et le contrôle de ce client, en étant rétribuée par l’agence.
+Le Règlement sur la rémunération assurable et la perception des cotisations[7]
+7. L’agence de placement qui procure un emploi assurable à une personne selon une convention portant qu’elle versera la rémunération de cette personne est réputée être l’employeur de celle-ci aux fins de la tenue des registres, du calcul de la rémunération assurable de la personne ainsi que du paiement, de la retenue et du versement des cotisations exigibles à cet égard aux termes de la Loi et du présent règlement.
+Le Régime de pensions du Canada
+7. (1) Le gouverneur en conseil peut prendre des règlements en vue d’assimiler à un emploi ouvrant droit à pension les emplois suivants :
+[…]
+d) l’exécution de services contre rémunération, s’il apparaît au gouverneur en conseil que les conditions afférentes à l’exécution des services et au paiement de la rémunération sont analogues à celles d’un contrat de louage de services, qu’elles constituent ou non un contrat de louage de services;
+[…]
+Le Règlement sur le régime de pensions du Canada
+34. (1) Lorsqu’une personne est placée par une agence de placement pour la fourniture de services ou dans un emploi auprès d’un client de l’agence, et que les modalités régissant la fourniture des services et le paiement de la rémunération constituent un contrat de louage de services ou y correspondent, la fourniture des services est incluse dans l’emploi ouvrant droit à pension, et l’agence ou le client, quel que soit celui qui verse la rémunération, est réputé être l’employeur de la personne aux fins de la tenue de dossiers, de la production des déclarations, du paiement, de la déduction et du versement des contributions payables, selon la Loi et le présent règlement, par la personne et en son nom.
+(2) Une agence de placement comprend toute personne ou organisme s’occupant de placer des personnes dans des emplois, de fournir les services de personnes ou de trouver des emplois pour des personnes moyennant des honoraires, récompenses ou autres formes de rémunération.
+Les faits
+[4] Sam Mraiche, président de l’appelante, a déclaré que Carver tenait une liste d’experts des divers domaines dans lesquels elle fournissait ses services. Elle a des systèmes et des agents dans le monde entier afin de rechercher l’expert le plus qualifié pour résoudre les problèmes de ses clients. Ces systèmes comprennent sa propre base de données, Workopolis et le réseautage personnel lors de conférences et de salons.
+[5] Carver a remarqué le curriculum vitæ de M. Mahmood sur Workopolis et, aux termes d’un contrat d’entrepreneur indépendant signé le 4 septembre 2009, elle a retenu les services de celui-ci pour qu’il résolve le problème de pipeline auquel Suncor était confrontée. Avant de retenir les services de M. Mahmood, Carver avait organisé une conférence téléphonique à laquelle avaient pris part son recruteur, Mike Eldassouki, M. Mahmood et Mike Mesallmy de Suncor, pour expliquer à M. Mahmood les aspects techniques du problème et les difficultés auxquelles Suncor devait faire face. M. Mahmood avait toute liberté de décliner l’offre de placement de Carver auprès de Suncor, mais il a décidé de négocier un taux de rémunération de 55 $ l’heure avec Carver, laquelle a ensuite facturé à Suncor les services fournis par M. Mahmood au taux de 139 $ l’heure.
+[6] M. Mahmood a été envoyé en avion à Fort McMurray, en Alberta, où se trouvaient les installations principales de Suncor. Cette dernière payait les frais d’alimentation et de logement de M. Mahmood à ses installations de Borealis Camp ainsi que ses frais de déplacement, y compris un vol par mois pour retourner chez lui, au Nouveau‑Brunswick. Dans le contrat d’entrepreneur indépendant qui a été conclu entre l’appelante et M. Mahmood, M. Mesallmy a été désigné comme étant l’employé de Suncor auquel M. Mahmood devrait rendre compte. Ce contrat décrivait M. Mahmood comme étant un [traduction] « ingénieur responsable de la fiabilité des pipelines ».
+[7] M. Mesallmy était lui‑même ingénieur en mécanique, comme M. Mahmood; toutefois, M. Mesallmy n’avait pas l’expertise de M. Mahmood dans l’utilisation du logiciel permettant de simuler les diverses conditions climatiques auxquelles les pipelines de Suncor étaient soumis. MM. Mesallmy et Mahmood travaillaient ensemble à l’usine de Suncor, à Fort McMurray, et leurs bureaux étaient voisins.
+[8] Dans son témoignage, M. Mahmood a décrit son travail et sa relation de travail avec M. Mesallmy. À l’aide de son logiciel, il simulait diverses conditions ambiantes pour établir comment la chaleur est transférée du sol au pipeline, combien de temps il faut pour que le pipeline soit entièrement gelé, les causes du gel et ce qui pourrait être fait pour y remédier.
+[9] M. Mahmood a déclaré qu’il devait rencontrer M. Mesallmy quotidiennement pour discuter de l’état d’avancement des simulations. M. Mesallmy évaluait la qualité et la fiabilité du travail de M. Mahmood et disait à ce dernier quoi faire ensuite, même si M. Mesallmy n’avait pas suffisamment d’expérience en matière de logiciels de simulation pour dire à M. Mahmood comment s’y prendre, comme il a été mentionné plus tôt.
+Analyse
+[10] Les présents faits soulèvent trois questions de droit, dont la résolution déterminera l’issue des présents appels. L’appelante agissait‑elle à titre d’agence de placement en appelant M. Mahmood à fournir ses services à Suncor pendant la période en cause?; le cas échéant, M. Mahmood se trouvait‑il sous la direction et le contrôle de Suncor, aux termes du règlement pertinent?; les conditions du travail accompli par M. Mahmood pour Suncor relevaient‑elles d’un contrat de louage de services ou étaient-elles analogues à celles d’un contrat de louage de services?
+L’agence de placement
+[11] Il est bien établi en droit que le terme emploi tel qu’il est défini à l’alinéa 6g) du Règlement sur l’assurance‑emploi désigne un commerce, un métier ou une occupation et non pas seulement un rapport de commettant à préposé[8]. Il importe peu que le travailleur en cause soit un employé ou un entrepreneur indépendant. Cette disposition du Règlement sur l’assurance‑emploi fait en sorte que les deux types d’emploi sont inclus dans les emplois assurables. Ce n’est pas le cas aux termes du Régime et du Règlement sur le régime de pensions du Canada, lesquels exigent que les conditions du placement constituent un contrat de louage de services ou soient analogues à un contrat de louage de services.
+[12] L’appelante fait valoir qu’elle n’a pas agi à titre d’agence de placement parce qu’elle a fourni à Suncor un ensemble de services de consultation, qui comprenaient l’expertise de M. Mahmood ainsi que l’expertise de l’appelante elle‑même, qui était connue comme étant une experte dans le domaine des services d’appui en matière de gestion des systèmes et des stocks. En outre, aux termes de l’entente de consultation conclue avec Suncor, Carver devait également fournir [traduction] « […] toute la main-d’œuvre, tous les nouveaux matériaux, tous les outils, tous les services professionnels, toute la supervision et tout l’équipement nécessaires pour exécuter et mener à son terme de manière satisfaisante le projet suivant : gestion des stocks et soutien »[9].
+[13] L’expression « agence de placement » est définie dans le Règlement sur le régime de pensions du Canada pour l’application du Régime, mais la Loi ou le Règlement sur l’assurance‑emploi ne contiennent aucune définition comparable. Dans la décision OLTCPI Inc. c. M.R.N.[10] (« OLTCPI »), et de nouveau dans la décision Pro Pharma Contract Selling Services Inc. c. M.R.N.[11], j’ai établi que la définition qui prévaut pour le Régime s’appliquait également aux instances introduites en vertu de la Loi.
+[14] L’avocat de l’appelante me presse d’adopter la définition suivante : « un organisme s’occupant de faire correspondre des demandes de travail à des demandes de travailleurs », que certains juges ont adoptée dans le contexte de litiges entendus en vertu de la Loi et du Régime[12].
+[15] Je préfère appliquer la définition du Règlement sur le Régime de pensions du Canada aux appels interjetés en vertu de la Loi parce que, dans les décisions précitées, il n’a pas été tenu compte de la définition du paragraphe 34(2) du Règlement sur le Régime de pensions du Canada. Cette disposition doit certainement s’appliquer aux affaires relevant de l’application du paragraphe 34(1) du Règlement sur le Régime de pensions du Canada. Dans ce cas, il faut donc appliquer la même définition aux instances introduites en vertu de la Loi, afin d’assurer la plus grande cohérence possible entre deux dispositions qui visent la même situation.
+[16] Cela étant dit, la décision Supreme Tractor est utile pour faire la distinction entre une agence de placement et les payeurs qui fournissent à leurs clients des services distincts qui comprennent les services d’un travailleur. Dans la décision Supreme Tractor, le sous‑traitant fournissait à son client une niveleuse et un opérateur au tarif de 65 $ l’heure, soit 17 $ pour l’opérateur et le solde pour la fourniture et l’entretien de la niveleuse.
+[17] En l’espèce, l’appelante se fonde sur la décision Supreme Tractor pour affirmer que, par contrat, elle était tenue de fournir un ensemble de services de consultation à Suncor, et qu’elle n’était donc pas visée par les dispositions du Règlement sur l’assurance‑emploi ou du Règlement sur le régime de pensions du Canada.
+[18] Cette position pose problème pour plusieurs raisons. L’entente de consultation conclue entre Carver et Suncor a été déposée sous la cote A-6 en l’espèce. Le titre mis à part, il n’est nulle part dans cette entente question de la fourniture de services de consultation par Carver à Suncor. Dans les faits, l’appelante se contentait de s’informer périodiquement auprès de MM. Mesallmy et Mahmood de l’état d’avancement du projet; toutefois, comme l’a décrit M. Mraiche, cette démarche s’inscrivait dans le contexte d’un [traduction] « contrôle de la qualité ». Carver convenait de fournir à Suncor toute la main-d’œuvre, tous les nouveaux matériaux, tous les outils, tous les services professionnels, toute la supervision et tout l’équipement nécessaires pour exécuter et mener à son terme le projet de manière satisfaisante, comme il a été mentionné précédemment. Cela étant dit, je ne suis saisi d’aucun élément de preuve montrant que Carver a fourni à Suncor autre chose qu’un travailleur extrêmement qualifié en la personne de M. Mahmood. À cet égard, le bref échange suivant, entre l’avocat de l’intimé et M. Mraiche, est révélateur :
+[traduction]
+(Me Gotfried) Q. Donc, il n’y a rien dans l’entente qui prévoit que Suncor devait verser de l’argent à Carver pour autre chose que le temps de travail des travailleurs ou les déplacements et le logement de ceux‑ci.
+(M. Mraiche) R. Eh bien, je ne sais pas à quel autre titre on me paierait[13].
+[19] Comme dans la décision OLTCPI, Carver ne facturait que le temps de travail de M. Mahmood à Suncor. Cela permet de distinguer les faits de l’espèce de ceux de la décision Supreme Tractor, dans laquelle une niveleuse et un opérateur avaient été fournis au client, et payés par celui‑ci, à titre de services distincts.
+[20] Par conséquent, je conclus que l’appelante doit être considérée comme une agence de placement pour la période en cause, tant aux termes du Règlement sur l’assurance‑emploi qu’aux termes du Règlement sur le Régime de pensions du Canada.
+La direction et le contrôle
+[21] M. Mahmood était un ingénieur en mécanique extrêmement qualifié et spécialisé. Sa connaissance du logiciel de simulation nécessaire était supérieure à celle de M. Mesallmy, qui était la personne à qui il rendait compte chez Suncor. En pareilles circonstances, la jurisprudence a fait en sorte qu’il peut être conclu que M. Mahmood était sous la direction et le contrôle de M. Mesallmy si ce dernier pouvait dire à M. Mahmood quoi faire, même s’il ne lui disait pas comment s’y prendre[14].
+[22] Carver se considérait comme le gestionnaire du projet visant à résoudre le problème que Suncor connaissait avec ses pipelines. Le paragraphe 12.1 de l’entente de consultation est ainsi rédigé : [traduction] « […] Le consultant (Carver) continue d’exercer le contrôle ou de la direction quant à la manière d’accomplir le travail en cause, et Suncor conserve son droit de supervision relativement aux seuls résultats du travail […] ». L’alinéa 3c) du contrat d’entrepreneur indépendant est quant à lui ainsi rédigé : [traduction] « Les parties conviennent du fait que la société (Carver) ne dirigera l’entrepreneur (M. Mahmood) qu’en ce qui a trait aux résultats devant être obtenus grâce à la fourniture des services par l’entrepreneur, et non en ce qui a trait à la manière particulière d’obtenir ces résultats. […] ».
+[23] Ainsi, toutes les parties étaient bien au courant de ce qui devait être fait, à savoir résoudre le problème de pipeline auquel Suncor était confrontée. Aux termes de l’entente, le choix de la manière ou de la méthode employée pour résoudre ce problème appartenait à Carver, puis à M. Mahmood. Le rôle de Suncor était censé se limiter à la simple supervision des résultats.
+[24] Par ailleurs, le contrat d’entrepreneur indépendant désignait nommément M. Mesallmy de Suncor comme la personne à laquelle M. Mahmood devait rendre compte. Il s’avère par conséquent utile d’examiner plus en détail la relation de MM. Mahmood et Mesallmy pour établir si le rôle de ce dernier consistait, dans les faits, à simplement superviser le résultat du travail ou s’il était plus important que cela.
+[25] La résolution du problème de Suncor relatif au gel de ses pipelines souterrains exigeait que MM. Mesallmy et Mahmood, tous deux ingénieurs en mécanique, collaborent étroitement. Ils occupaient des bureaux voisins et M. Mahmood faisait régulièrement rapport du progrès des simulations à M. Mesallmy, qui ne se contentait pas alors d’informer M. Mahmood des paramètres changeants du projet, mais qui pouvait en tout temps décider de la tournure que les simulations devaient prendre. M. Mahmood considérait M. Mesallmy comme son patron ou son gestionnaire.
+[26] Le présent scénario est similaire à celui qui prévalait dans la décision OLTCPI, dans laquelle le directeur des services infirmiers d’un établissement pour personnes âgées demandait à une diététiste que l’agence de placement appelante avait appelée à travailler chez lui, d’en faire plus que de simplement s’assurer que tout était conforme aux exigences du ministère de la Santé. La travailleuse devait rencontrer l’administrateur de l’établissement, élaborer des programmes et rédiger des rapports sur l’évolution pondérale, les patients à risque élevé et les visites. La Cour d’appel fédérale a conclu qu’il s’agissait de direction et de contrôle de la travailleuse au sens des dispositions relatives aux agences de placement contenues dans la Loi et le Régime, et elle a rejeté les appels[15].
+[27] Selon moi, le fait que M. Mesallmy décidait de la direction à donner aux simulations de M. Mahmood établit que M. Mesallmy ne se contentait pas de simplement superviser le résultat du travail de M. Mahmood. M. Mesallmy, et par conséquent Suncor, dirigeaient et contrôlaient M. Mahmood, qui était leur subordonné.
+L’analogie avec un contrat de louage de services
+[28] M. Mahmood n’était manifestement pas partie à quelque contrat de louage de services qui aurait été conclu avec Carver ou Suncor. La question est alors de savoir si les conditions de son placement auprès de Suncor étaient analogues à un tel contrat. Il convient dès lors de soumettre la relation de travail entre M. Mahmood et Suncor à l’analyse prescrite par la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Ltd. v. M.N.R. (« Wiebe Door »)[16].
+Le contrôle
+[29] Je note que dans l’arrêt Wiebe Door, le critère relatif au contrôle exige que le payeur ait le droit de contrôler le travailleur[17]. Suncor n’avait pas ce droit. Le contrôle qu’elle exerçait sur M. Mahmood était un contrôle de fait. Cela suffit pour que le paragraphe 34(1) du Règlement sur le Régime de pensions du Canada s’applique. S’il en était autrement, on ne pourrait jamais conclure que les entrepreneurs indépendants appelés à travailler pour des clients par des agences de placement ont des conditions d’emploi analogues à celles d’un contrat de louage de services. Ce n’est manifestement pas l’intention du législateur. Ainsi, l’examen du critère de contrôle donne à penser que la relation de travail entre M. Mahmood et Suncor était analogue à un contrat de louage de services.
+Les outils
+[30] M. Mahmood fournissait le logiciel essentiel, capable de simuler les diverses pressions auxquelles étaient soumis les pipelines souterrains exposés à des conditions climatiques changeantes. En outre, la preuve montre qu’il a fourni son propre ordinateur quand il s’est avéré que celui que Suncor lui avait fourni à l’origine pour des raisons de sécurité n’avait pas la puissance nécessaire au fonctionnement de son logiciel. Le bureau et les locaux dans lesquels M. Mahmood travaillait ne sont pas considérés comme des outils, étant donné qu’il aurait dû utiliser ces locaux peu importe la nature de sa relation avec Suncor[18]. Ainsi, l’examen du critère des outils donne à penser que la relation entre M. Mahmood et Suncor n’était pas analogue à celle d’un contrat de louage de services.
+Les chances de profit et le risque de perte
+[31] M. Mahmood a informé Carver qu’il n’accepterait pas le poste offert par Suncor si on lui proposait un salaire annuel inférieur à 100 000 $. Carver est parvenue à lui garantir l’obtention d’un tel salaire. La capacité de M. Mahmood à négocier son taux de rémunération et son droit de décliner des offres d’emploi, comme il a été susmentionné, sont deux éléments qui supposent en soi des chances de profit et un risque de perte[19]. Le critère des chances de profit et du risque de perte donne également à penser que la relation de travail entre M. Mahmood et Suncor n’était pas analogue à celle d’un contrat de louage de services.
+[32] Trois des quatre critères définis dans l’arrêt Wiebe Door donnent à penser que la relation de travail de M. Mahmood et Suncor n’était pas analogue à celle d’un contrat de louage de services au sens du paragraphe 34(1) du Règlement sur le Régime de pensions du Canada.
+L’intention
+[33] Les termes du contrat d’entrepreneur indépendant conclu par Carver et M. Mahmood expriment une intention claire de la part de M. Mahmood d’être un entrepreneur indépendant. La preuve montre que la relation tripartite de Carver, M. Mahmood et Suncor corroborait cette intention. Il convient donc d’accorder du poids à l’intention des parties[20].
+Les hypothèses
+[34] L’avocat du ministre a concédé le fait que l’appelante pouvait s’acquitter du fardeau de la preuve qui lui incombait de réfuter les hypothèses contenues dans les réponses du ministre aux avis d’appel en l’espèce. Dans ces réponses, le ministre a allégué qu’il existait un rapport de commettant à préposé entre Carver et M. Mahmood. Ces allégations étaient fondées sur les réponses erronées que M. Mahmood a fournies dans le questionnaire qu’il a rempli à la demande de l’Agence du revenu du Canada. L’audience a donc porté sur la position que le ministre avait adoptée à titre subsidiaire au titre de l’alinéa 6g) du Règlement sur l’assurance‑emploi et du paragraphe 34(1) du Règlement sur le Régime de pensions du Canada, dispositions que le ministre a invoquées dans ses réponses. Il n’est ici nullement question de surprise ou de manquement à l’équité vu que l’appelante était parfaitement au courant de la preuve qu’elle devait réfuter.
+Le résultat :
+[35] Par conséquent, je conclus que Carver était une agence de placement pendant la période en cause, au sens de l’alinéa 6g) du Règlement sur l’assurance‑emploi, qu’elle rémunérait M. Mahmood et qu’elle l’a appelé à travailler pour Suncor, sous la direction et le contrôle de celle‑ci.
+[36] Il n’en va pas de même en ce qui concerne le paragraphe 34(1) du Règlement sur le Régime de pensions du Canada. Même si Carver était une agence de placement au sens du paragraphe 34(2) du Règlement sur le régime de pensions du Canada, les conditions qui régissaient la relation de travail entre M. Mahmood et Suncor ne constituaient pas un contrat de louage de services et n’étaient pas analogues à un tel contrat.
+[37] J’ai examiné l’ensemble des faits avec les parties et avec les témoins qui ont témoigné sous serment pour la première fois pour le compte des parties. Je n’ai trouvé aucun fait nouveau ni élément donnant à penser que les faits supposés ou retenus par le ministre étaient erronés ou avaient été mal appréciés ou mal compris eu égard à l’appel interjeté en vertu de la Loi. Il en va autrement de l’appel interjeté en vertu du Régime. Par conséquent, la décision rendue par le ministre est objectivement raisonnable au regard de la Loi, mais pas au regard du Régime.
+[38] L’appel interjeté en vertu de la Loi est rejeté et l’évaluation du ministre confirmée. L’appel interjeté en vertu du Régime est accueilli et l’évaluation du ministre est annulée. Étant donné que les parties ont toutes deux eu partiellement gain de cause, elles assumeront leurs propres dépens.
+Signé à Toronto (Ontario), ce 19e jour d’avril 2013.
+« N. Weisman »
+Juge suppléant Weisman
+Traduction certifiée conforme
+ce 23e jour de mai 2013.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2013 CCI 125
+NOS DES DOSSIERS DE LA COUR : 2011-2773(EI); 2011-3219(CPP)
+INTITULÉ : Carver PA Corporation c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATES DE L’AUDIENCE : Les 25 octobre 2012 et 5 février 2013
+MOTIFS DU JUGEMENT : L’honorable juge suppléant N. Weisman
+DATE DU JUGEMENT : Le 19 avril 2013
+COMPARUTIONS :
+Avocat de l’appelante :
+Me JamesYaskowich
+Avocat de l’intimé :
+Me Adam Gotfried
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : James Yaskowich
+Cabinet : Felesky Flynn LLP
+Edmonton (Alberta)
+Pour l’intimé : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] L.C. 1996, ch. 23.
+[2] 1985, ch. C-8, dans sa version modifiée.
+[3] DORS/96-332, dans sa version modifiée.
+[4] DORS/96-332, dans sa version modifiée.
+[5] L.R.C., 1985, ch. C-8.
+[6] C.R.C., ch. 385
+[7] DORS/97-33, dans sa version modifiée.
+[8] La Reine c. Scheer Ltd., [1974] R.C.S. 1046; Martin Service Station Ltd. c. Ministre du Revenu national (1977), 2 R.C.S. 996; Sheridan c. Canada, [1985] A.C.F. no 230.
+[9] Entente de consultation, au paragraphe 2.1.
+[10] 2008 CCI 470, aux paragraphes 11 et 12.
+[11] 2012 CCI 60, au paragraphe 41.
+[12] Computer Action Inc. c. Canada (ministre du Revenu national - M.R.N.), [1990] A.C.I. no 101 (juge Bonner); Silverside Computer Systems Inc. c. Canada (ministre du Revenu national - M.R.N.), [1997] A.C.I. no 38 (juge Watson); Supreme Tractor Services Ltd. c. Canada (ministre du Revenu national - M.R.N.), [2001] A.C.I. no 580 (juge Porter) (« Supreme Tractor »); Dataco Utility Services Ltd. c. Canada (ministre du Revenu national - M.R.N.), [2001] A.C.I. no 372 (juge Porter); Big Sky (Lundle) Drilling Inc. v. Canada (Minister of National Revenue – M.N.R.). [2002] T.C.J. No 16 (juge Porter).
+[13] Transcription, le 25 octobre 2012, à la page 105, lignes 6 à 11.
+[14] 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] A.C.S. no 61, au paragraphe 55.
+[15] [2010] A.C.F. no 379
+[16] (1986), 87 D.T.C. 5025 (C.A.F.).
+[17] Hennick c. Canada (ministre du Revenu national - M.R.N.), [1995] A.C.F. no 294.
+[18] Wolf c. Canada, [2002] A.C.F. no 375, au paragraphe 84 (« Wolf »).
+[19] Precision Gutters Ltd. c. Canada (ministre du Revenu national - M.R.N.), [2002] A.C.F. no 771, au paragraphe 27.
+[20] Royal Winnipeg Ballet c. M.R.N., [2006] A.C.F. no 339, au paragraphe 64; Wolf, précité, au paragraphe 71.

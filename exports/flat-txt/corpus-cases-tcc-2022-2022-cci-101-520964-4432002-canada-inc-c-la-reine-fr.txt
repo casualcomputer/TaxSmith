@@ -1,0 +1,266 @@
+Title: 4432002 Canada Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520964/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-101-520964-4432002-canada-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-09-07
+
+# 4432002 Canada Inc. c. La Reine
+
+- Citation: 2022 CCI 101
+- Decision date: 2022-09-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4490, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+4432002 Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-09-07
+Référence neutre
+2022 CCI 101
+Numéro de dossier
+2019-2559(IT)G
+Juges et Officiers taxateurs
+Gabrielle St-Hilaire
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-2559(IT)G
+ENTRE :
+4432002 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 4 avril 2022, à Montréal (Québec)
+Devant : L’honorable juge Gabrielle St-Hilaire
+Comparutions :
+Avocats de l’appelant :
+Me Guillaume Rochon
+Me Sophia Guedez
+Avocate de l’intimée :
+Me Christina Ham
+JUGEMENT
+Conformément aux motifs ci-joints, l’appel à l’encontre des nouvelles cotisations établies le 28 juin 2016 en vertu de la Loi de l’impôt sur le revenu (Loi) pour les années d’imposition se terminant le 31 décembre 2010 et 2012 est rejeté avec dépens à l’intimée.
+Étant donné le choix valide exercé par l’appelante conformément à l’article 184 de la Loi, l’appel à l’encontre des cotisations établies le 11 août 2016 en vertu de la Partie III pour les années 2012, 2013 et 2014 est accueilli.
+Signé à Ottawa, Canada, ce 7e jour de septembre 2022.
+« Gabrielle St-Hilaire »
+Juge St-Hilaire
+Référence : 2022 CCI 101
+Date : 20220907
+Dossier : 2019-2559(IT)G
+ENTRE :
+4432002 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge St-Hilaire
+I. Introduction
+[1] L’appelante en appelle des cotisations établies par la ministre du Revenu national (Ministre) en vertu de la Loi de l’impôt sur le revenu (Loi) [1] pour les années d’imposition se terminant le 31 décembre 2010, 2012, 2013 et 2014 [2] . Cet appel traite des sommes reçues par l’appelante suite à la disposition de ses droits dans un logiciel appelé GreenHopper (Logiciel ou GreenHopper).
+[2] L’appelante fut constituée le 5 septembre 2007 en vertu de la Loi canadienne sur les sociétés par actions [3] . Les actionnaires de l’appelante sont M. Jean-Christophe Huet et Mme Valérie Coulombe, des conjoints de fait détenant 51 % et 49 % des actions respectivement.
+[3] GreenHopper fut développé par M. Huet en collaboration avec la société Pyxis Technologies Inc. (Pyxis), son employeur au moment du développement du Logiciel. Il s’agit d’un plugiciel qui fonctionne exclusivement sur la plateforme Jira, un logiciel de gestion de projets parmi les plus vendus au monde [4] . Les parties s’entendent pour dire que la principale raison d’être de l’appelante était la détention de la quote-part des droits de M. Huet dans le Logiciel. L’appelante et Pyxis détenaient chacune la moitié des droits dans GreenHopper.
+[4] En mai 2009, l’appelante et Pyxis ont cédé leurs droits dans GreenHopper à la société MITT Australia Pty Ltd. (MITT). En vertu du « Deed of Assignment » (DOA) [5] , la contrepartie payable à l’appelante comprenait des paiements forfaitaires et des paiements additionnels correspondant à un pourcentage des ventes du Logiciel. En outre, la convention de vente prévoyait que M. Huet devait se joindre à MITT à titre d’employé pendant un minimum de 3 ans; le non-respect de cette clause entrainerait une réduction des paiements.
+[5] M. Huet a mis fin à son emploi avec MITT avant la fin de la période minimale de 3 ans. Afin d’éviter l’application des clauses pénales du DOA, M. Huet et MITT ont entamé des négociations qui ont mené à une convention de vente modifiée, soit le « Deed of Amendment » (ADOA) conclu le 14 septembre 2010 [6] . Les paiements reçus par l’appelante en vertu de la convention de vente originale et de la convention modifiée sont au centre du débat dans cette affaire.
+[6] En résumé, le nœud de la question dans cet appel concerne le traitement fiscal de certaines sommes reçues par l’appelante suite à la cession de son intérêt dans GreenHopper. Plus précisément, il s’agit de déterminer si des sommes reçues à titre de paiements additionnels en 2010 et en 2012 doivent être incluses dans le revenu de l’appelante en vertu de l’alinéa 14(1)b) ou plutôt en vertu de l’alinéa 12(1)g) de la Loi. La réponse à cette question est déterminante du montant pouvant être ajouté au compte de dividendes en capital qui à son tour pourrait affecter le montant des dividendes pouvant être versés aux actionnaires en franchise d’impôt ainsi que l’application de l’impôt de la Partie III de la Loi aux dividendes en capital excédentaires, le cas échéant.
+II. Questions en litige
+[7] La première question en litige concerne le traitement fiscal de certains paiements additionnels reçus par l’appelante suite à la vente de GreenHopper. Il importe de préciser que les paiements forfaitaires versés par MITT en 2009 ne sont pas en litige ni ne l’est le paiement additionnel versé par MITT le 17 novembre 2009. Plus précisément, il s’agit de déterminer si les paiements additionnels reçus par l’appelante en 2010 et 2012 doivent être inclus dans le revenu de l’appelante, pour les années d’imposition 2010 et 2012 respectivement, à titre de revenu d’entreprise conformément à l’alinéa 12(1)g) de la Loi comme le prétend l’intimée ou conformément à l’alinéa 14(1)b) comme le prétend l’appelante.
+[8] La deuxième question en litige concerne l’impôt de la Partie III de la Loi applicable au versement d’un dividende en capital qui excède le solde du compte de dividendes en capital (CDC). Cette deuxième question est intimement liée à la première. Il s’agit de déterminer si les dividendes en capital de l’ordre de 961 751 $, 145 000 $ et 270 647 $, versés par l’appelante lors de ses années d’imposition 2012, 2013 et 2014 respectivement, sont assujettis à l’impôt de la Partie III en vertu du paragraphe 184(2). À cet effet, il s’agit de déterminer si ces dividendes en capital, versés conformément au choix prévu au paragraphe 83(2), excédaient le solde du CDC de l’appelante [7] . Un tel excédent pourrait résulter d’une décision relativement à la première question selon laquelle les paiements additionnels sont imposables, en totalité ou en partie, en vertu de l’alinéa 12(1)g). De façon subsidiaire, il faut également considérer la question de savoir si l’appelante peut se prévaloir de la protection offerte par le choix prévu au paragraphe 184(3) de la Loi.
+III. Droit applicable
+[9] L’alinéa 12(1)g) de la Loi prévoit l’inclusion dans le revenu tiré d’une entreprise ou d’un bien d’un contribuable les sommes reçues en fonction de l’usage d’un bien ou de la production qui en découle et se lit comme suit :
+12 (1) Sont à inclure dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien, au cours d’une année d’imposition, celles des sommes suivantes qui sont applicables :
+[…]
+g) les sommes que le contribuable a reçues au cours de l’année en fonction de l’usage d’un bien ou de la production en découlant, qu’elles aient été ou non versées en acompte sur le prix de vente du bien (un acompte sur le prix de vente d’un fonds de terre servant à l’agriculture n’est toutefois pas inclus en vertu du présent alinéa);
+[10] En vertu du régime applicable aux immobilisations admissibles avant 2017, l’alinéa 20(1)b) de la Loi prévoyait qu’une partie des coûts de ces actifs pouvait être amortie à un taux fixe selon une méthode de l’amortissement dégressif applicable à la catégorie d’immobilisations admissibles. Le compte du « montant cumulatif des immobilisations admissibles » comprenait 75 % des « dépenses en capital admissibles » et un contribuable devait déduire toute déduction prise en vertu de l’alinéa 20(1)b) ainsi que 75 % du produit de disposition d’un actif de la catégorie. Le résultat de ces déductions pouvait donner lieu à un solde négatif dans la catégorie d’immobilisations admissibles, soit dans le compte du « montant cumulatif des immobilisations admissibles ».
+[11] Or, lorsqu’un contribuable vendait une immobilisation admissible, une partie du gain pouvait devoir être incluse dans le revenu d’entreprise en vertu du paragraphe 14(1) de la Loi. L’alinéa 14(1)a) prévoyait une inclusion du solde négatif dans le revenu d’entreprise jusqu’à concurrence du montant ayant été déduit aux termes de l’alinéa 20(1)b), en fait une sorte de récupération; l’alinéa 14(1)b) prévoyait l’inclusion d’une partie de l’excédent du solde négatif sur les déductions récupérées aux termes de l’alinéa 14(1)a). Ce dernier montant était considéré comme une augmentation dans la valeur des immobilisations admissibles dans la catégorie et recevait un traitement de la nature de celui accordé au gain en capital bien que ce ne soit pas un gain en capital au sens de la Loi. Je note que seul l’alinéa 14(1)b) est visé par cet appel, l’alinéa 14(1)a) n’ayant pas fait l’objet de débat lors des plaidoiries des parties.
+[12] Le paragraphe 14(1) se lit comme suit :
+14(1) Lorsque, à la fin d'une année d'imposition, le total des montants représentant chacun la valeur, déterminée relativement à une entreprise d'un contribuable, de l'élément E de la formule applicable figurant à la définition de « montant cumulatif des immobilisations admissibles » au paragraphe (5) (appelé « montant en immobilisations admissible » au présent article) ou de l'élément F de cette formule excède le total des valeurs des éléments A à D de cette formule relativement à l'entreprise, la somme des montants ci-après est à inclure dans le calcul du revenu du contribuable tiré de l'entreprise pour l'année :
+a) le montant éventuel égal au moins élevé des montants suivants :
+(i) l'excédent en question,
+(ii) la valeur de l'élément F à la fin de l'année relativement à l'entreprise;
+b) le montant éventuel obtenu par la formule suivante :
+2/3 × (A - B - C - D)
+où :
+A représente l’excédent en question,
+B la valeur de l’élément F à la fin de l’année relativement à l’entreprise,
+C la moitié de la valeur de l’élément Q de la formule applicable figurant à la définition de montant cumulatif des immobilisations admissibles, au paragraphe (5), à la fin de l’année relativement à l’entreprise,
+D le montant demandé par le contribuable, jusqu’à concurrence de son solde des gains exonérés relativement à l’entreprise pour l’année.
+[13] Il appert que les sommes en litige en l’espèce peuvent tomber sous le coup de l’article 12 et de l’article 14 de la Loi. Étant donné que le traitement fiscal découlant de l’application de l’article 12(1)g), soit l’inclusion, dans le revenu, de la totalité des paiements, diffère de celui de l’application de l’article 14(1)b), soit l’inclusion d’une fraction des paiements, il faut déterminer laquelle de ces deux dispositions doit s’appliquer en l’espèce. Il convient de rappeler le paragraphe 248(28) de la Loi lequel reconnait qu’une opération puisse être visée par deux dispositions et vise à éviter un comptage double à moins que la Loi n’impose manifestement ce résultat [8] .
+[14] En ce qui concerne la deuxième question en litige, l’alinéa c.2) de la définition du CDC au paragraphe 89(1) de la Loi autorise l’ajout, au CDC, du montant à inclure dans le revenu en vertu de l’alinéa 14(1)b). Le CDC est un compte théorique qui permet à des sociétés privées de comptabiliser des montants en franchise d’impôt accumulés au fil du temps. En vertu du paragraphe 83(2) de la Loi, une société privée peut exercer le choix de verser des dividendes en capital à ses actionnaires en franchise d’impôt lorsqu’elle a un solde positif dans son CDC. Si une société verse des dividendes en capital pour un montant supérieur au solde de son CDC, elle sera assujettie à un impôt égal à 60 % de l’excédent conformément au paragraphe 184(2) de la Loi. Toutefois, en vertu du paragraphe 184(3), la société qui a versé un dividende excédant le solde de son CDC peut exercer le choix, avec l’accord des actionnaires, de traiter cet excédent comme un dividende imposable. Dans les circonstances de cette affaire, l’appelante a exercé ce choix à l’égard des dividendes en capital déclarés pendant les années d’imposition 2012, 2013 et 2014 sachant que si la position de l’intimée était retenue, elle se trouverait à avoir versé des dividendes en capital excédentaires [9] .
+IV. Position des parties
+Position de l’appelante
+[15] Au cœur de la position de l’appelante se trouve l’observation selon laquelle les paiements additionnels reçus en 2010 et 2012 doivent être inclus dans son revenu en vertu de l’alinéa 14(1)b) de la Loi ce qui a pour effet d’autoriser l’ajout d’un montant au compte de dividendes en capital et par ricochet, la possibilité pour l’appelante de verser des dividendes en capital à ses actionnaires en franchise d’impôt. Selon l’appelante, en disposant de ses droits dans GreenHopper, elle a disposé d’une immobilisation admissible, opération à laquelle l’alinéa 14(1)b) s’applique et cette disposition doit avoir préséance sur l’alinéa 12(1)g) sans quoi en découleraient des résultats illogiques. En outre, l’appelante soutient que l’une des conditions d’application de l’alinéa 12(1)g) n’est pas remplie, soit celle selon laquelle une somme visée doit avoir été versée en fonction de l’usage d’un bien ou de la production en découlant.
+Position de l’intimée
+[16] Selon l’intimée, cette affaire soulève essentiellement une question d’interprétation de contrats, soit le DOA et le ADOA, et puisque les paiements en litige sont basés sur la production ou l’usage du Logiciel, les paiements doivent être entièrement inclus dans le revenu de l’appelante à titre de revenu d’entreprise en vertu de l’alinéa 12(1)g) de la Loi.
+V. Analyse
+[17] Lors de l’audience, les parties ont affirmé que les faits pertinents en l’espèce ne sont pas contestés, le nœud du litige portant essentiellement sur l’interprétation des contrats, soit le DOA et le ADOA, et des dispositions pertinentes de la Loi. Dans les circonstances, il importe de préciser le contenu des clauses qui sont au cœur du débat dans cette affaire.
+[18] Il convient de rappeler que l’appelante et Pyxis ont signé une convention de vente (DOA) en vertu de laquelle elles cédaient l’ensemble de leurs droits dans GreenHopper en mai 2009. Comme mentionné plus haut, M. Huet s’engageait à travailler pour MITT pour une durée de trois ans et la contrepartie payable à l’appelante comprenait des paiements forfaitaires et des paiements additionnels fondés sur les ventes du Logiciel.
+Les paiements reçus par l’appelante aux termes du DOA
+[19] La clause 7.1 du DOA, reproduite à l’Annexe 1, prévoyait les montants et les dates du versement de cinq paiements forfaitaires. Il importe de souligner que les paiements forfaitaires prévus aux sous-alinéas (D) et (E) de la clause 7.1(a)(i) du DOA n’ont pas été versés, ces paiements étant prévus à des dates postérieures à la conclusion du ADOA [10] . En vertu de la clause 3.1(c) du ADOA, l’appelante a renoncé à ces paiements [11] . En août 2009, l’appelante a reçu un total de 750 000 USD (890 400 CAD) à titre de paiements forfaitaires comme prévu aux sous-alinéas (A), (B) et (C) de la clause 7.1(a)(i) du DOA. Elle a déclaré la moitié de cette somme à titre de revenu d’entreprise en vertu de l’alinéa 14(1)b) dans son année d’imposition se terminant le 31 août 2009 [12] .
+[20] La clause 7.3 du DOA, reproduite à l’Annexe 1, prévoyait des paiements à verser au 1er, 2e et 3e anniversaire de la date d'entrée en vigueur du DOA, celle-ci étant le 1er mai 2009, en fonction d’un pourcentage des ventes du Logiciel. Outre les dates de paiement, la différence entre les alinéas (a), (b) et (c) de la clause 7.3 se limitait au pourcentage des ventes, celui-ci passant de 35 % à 25 % et finalement à 17,5 % au fil des trois années.
+[21] En novembre 2009, l’appelante a reçu un montant de 269 466 $ correspondant à la première partie du paiement additionnel prévu à la clause 7.3(a) du DOA [13] . Ce paiement a été calculé en fonction des ventes du Logiciel qui étaient connues à ce moment-là [14] . L’appelante a déclaré ce revenu conformément à l’alinéa 14(1)b) de la Loi dans son année d’imposition se terminant le 13 janvier 2010 [15] . Cette première partie du paiement prévu à la clause 7.3(a) n’est pas en litige, bien que la seconde partie le soit. Cette seconde partie, soit un montant de 878 823 $, a été reçue le 25 mai 2010 et a été incluse dans le revenu de l’appelante pendant l’année d’imposition se terminant le 31 décembre 2010 [16] . Il n’y a pas eu de paiements en vertu des clauses 7.3(b) et (c) du DOA puisque M. Huet a démissionné et les parties ont négocié une nouvelle entente, soit le ADOA conclu le 14 septembre 2010, avant l’échéance des paiements prévus aux clauses (b) et (c) qui auraient eu lieu en mai 2011 et mai 2012.
+[22] La clause 7.8 du DOA prévoyait un maximum de 8 millions USD pour le produit de disposition du Logiciel. M. Huet avait insisté sur une valeur de 8 millions pour GreenHopper et après des négociations longues et ardues, les parties se sont entendues sur une combinaison de paiements forfaitaires et de paiements basés sur les ventes jusqu’à un maximum de 8 millions USD [17] .
+Les paiements reçus par l’appelante aux termes du ADOA
+[23] Selon M. Huet, tout se passait très bien au début de son emploi auprès de MITT ou Atlassian [18] , bien que l’intégration en Australie fut difficile pour sa famille. Il a affirmé que les choses ont commencé à moins bien aller à compter du moment où Atlassian a créé des options d’achat d’actions pour ses employés tout en excluant M. Huet puisque, selon lui, on a jugé qu’il faisait déjà assez d’argent avec le Logiciel. C’est à ce moment-là que, face à un sentiment de rejet du fait de son exclusion des options d’achat d’actions et les difficultés auxquelles faisait face sa famille, M. Huet a décidé de démissionner de son poste et de rentrer à Montréal renonçant ainsi à son engagement de travailler pour MITT/Atlassian pendant au moins 3 ans [19] .
+[24] Suite à la démission de M. Huet, MITT a proposé deux options de règlement de leur différend laissant à l’appelante et à Pyxis le choix de l’une ou l’autre des options. En vertu de la première option, MITT offrait un montant fixe de 1,8 million alors qu’en vertu de la seconde, MITT offrait un montant d’environ 1,7 million qui pouvait varier selon les revenus liés au Logiciel tout en tenant compte des pénalités pour le bris de l’engagement d’emploi. M. Huet, pour le compte de l’appelante, a choisi la deuxième option alors que Pyxis a choisi la première. M. Huet a témoigné qu’il a choisi cette option en espérant que ça rapporterait un montant supérieur lui permettant de se rapprocher de son estimation de la valeur du Logiciel, espoir fondé sur sa certitude que GreenHopper allait performer excessivement bien.
+[25] La clause 3.2 du ADOA, reproduite à l’Annexe 2, prévoyait les montants qui seraient versés à l’appelante conformément à ce règlement à l’amiable. En vertu des clauses 3.2(a) et (b) du ADOA, l’appelante recevrait un montant de 1 733 784 USD (1 615 409 CAD) à titre de prépaiement des montants dus en vertu de la clause 7.3 du DOA. L’appelante a reçu ce montant le 29 décembre 2010.
+[26] La clause 3.2(d) du ADOA prévoyait que des paiements seraient faits à l’appelante en application des clauses 7.3(b) et (c) du DOA sous réserve des réductions pour le non-respect de la clause d’emploi. Aussi, la clause 3.2(d)(i) stipulait que l’appelante n’aurait pas à rembourser une partie du paiement de 1 615 409 $ fait en vertu de la clause 3.2(a) même s’il s’avérait que le montant calculé en vertu de la clause 3(d) était inférieur à ce montant. En outre, le montant maximal des paiements pouvant être reçus par l’appelante passait de 8 millions à 7,6 millions USD.
+Paiements reçus par l’appelante qui sont en litige
+[27] Les paiements reçus par l’appelante qui sont en litige sont les suivants [20] :
+(i) Paiement de 878 823 $ reçu le 25 mai 2010 en vertu de la clause 7.3(a) du DOA, soit en vertu de la convention de vente initiale;
+(ii) Paiement de 1 615 409 $ reçu le 29 décembre 2010 en vertu de la clause 3.2 du ADOA, soit en vertu de la convention de vente modifiée;
+(iii) Paiement de 345 145 $ reçu le 27 mai 2012 en vertu de la clause 3.2 du ADOA, soit en vertu de la convention de vente modifiée.
+[28] Il convient de rappeler que la question principale que je dois déterminer est celle de savoir si l’alinéa 12(1)g) de la Loi s’applique à ces trois paiements.
+[29] L’appelante soutient que les clauses de paiements dans le DOA et le ADOA sont des clauses de « earnout inversé » et non des clauses de « earnout » et que l’alinéa 12(1)g) ne s’applique pas aux paiements de « earnout inversé ». Comme la Loi ne définit pas ces termes, les parties s’en sont remises aux articles de doctrine et autres documents pour appuyer le sens qu’elles accordent à ces expressions.
+[30] À l’appui de sa position, l’appelante cite les propos suivants tirés des matériaux préparés pour un séminaire présenté en 2007 et rédigé par Beaubier et Pederson :
+[Traduction]
+Avec une clause d’indexation sur les bénéfices futurs [earnout], le prix d’achat peut être augmenté si les bénéfices de l’entreprise acquise sont supérieurs à un montant déterminé. Avec une clause d’indexation sur les bénéfices futurs inversée [reverse earnout], le prix d’achat peut être réduit si les bénéfices de l’entreprise n’atteignent pas un niveau déterminé. Cependant, de par leur nature même, les contrats comportant une clause d’indexation sur les bénéfices futurs sont complexes.
+Pour un vendeur, tout paiement qui dépend de « l’usage d’un bien ou de la production en découlant » est inclus dans le revenu, que le montant soit ou non un paiement échelonné sur le prix d’achat de ce bien. Seule la partie variable du prix d’achat qui dépend des gains futurs est imposable en tant que revenu, et non la partie fixe du prix d’achat. […] Ainsi, une clause d’indexation sur les bénéfices futurs peut entraîner la conversion de ce qui serait autrement un gain en capital ou un gain sur une immobilisation admissible (tous deux imposables à des taux réduits) en un revenu entièrement imposable. […]
+L’alinéa 12(1)g) ne s’applique pas aux clauses d’indexation sur les bénéfices futurs inversée. Toutefois, le montant maximal doit être fixé à la juste valeur marchande des actifs et il doit y avoir une attente raisonnable, au moment de la disposition de l’entreprise, que les conditions de rentabilité soient remplies. Dans le cas d’une clause d’indexation sur les bénéfices futurs inversée, la totalité du produit est traitée comme un produit de disposition, et si les conditions ne sont pas remplies par la suite, un ajustement approprié est effectué dans l’année au cours de laquelle le montant de la réduction du prix de vente est connu avec certitude [21] .
+[notes infrapaginales omises]
+[31] À l’audience, à l’appui de sa position selon laquelle il n’est pas question de clauses « earnout » en l’espèce, l’avocat de l’appelante s’est exprimé comme suit :
+Un autre point que j’aimerais vous soumettre, Madame la juge, c’est que nonobstant le libellé utilisé dans la convention de « Deed of Assignment » et la convention de « Deed of Settlement », on n’est pas en présence de ce qu’on pourrait appeler une clause de « earn-out », on est en présence de ce qu’on pourrait appeler une clause de « reverse earn-out ». La différence est la suivante : une clause de « earn-out » se définit comme étant une clause par laquelle on établit un montant de départ minimum qui par la suite pourra être bonifié à la hausse lorsque certains critères et conditions […] seront atteints; la clause de « reverse earn-out » quant à elle est une clause où le prix maximum qu’une partie peut recevoir en lien avec la disposition d’un actif est établi dans la convention et que ce prix maximum là fixé dans la convention pourra être réduit advenant que certains critères et conditions, encore une fois tel qu’établi entre les parties dans leur convention, sont atteints ou ne sont pas atteints [22] .
+[32] L’avocat de l’appelante ajoute que puisque le DOA et le ADOA prévoyaient un montant maximal ne pouvant être dépassé peu importe les ventes du Logiciel, cela confirme qu’il s’agit d’ententes de « earnout inversé ».
+[33] Avec égards, à mon avis, le texte cité par l’appelante ainsi que les observations de son avocat me mènent à la conclusion selon laquelle les clauses en litige dans cette affaire sont de type « earnout » et non de « earnout inversé ».
+[34] Le texte suivant, écrit par Stirling et Bright, publié par la Fondation canadienne de fiscalité, et cité à l’appui des prétentions de l’intimée est encore plus clair à cet égard :
+[Traduction]
+Il existe deux approches courantes pour structurer une clause d’indexation sur les bénéfices futurs : une clause d’indexation sur les bénéfices futurs traditionnelle et une « clause d’indexation sur les bénéfices futurs inversée ». Dans une entente d’indexation sur les bénéfices futurs typique, l’acheteur paierait au vendeur une partie du prix d’achat à la clôture. Le reste du prix d’achat serait payable en vertu d’un accord d’achat basé sur un calendrier de paiements convenu qui ne deviendrait payable que si, et au fur et à mesure que certains paramètres financiers sont atteints. En d’autres termes, le vendeur « gagne » la totalité du prix d’achat en continuant à participer à l’entreprise, et indirectement en continuant à participer aux bénéfices de l’entreprise, à condition que certains objectifs financiers soient atteints. D’autre part, lorsque les parties choisissent de conclure une entente relative à une clause d’indexation sur les bénéfices futurs inversés, l’acheteur verse généralement au vendeur un montant égal au prix d’achat maximum possible convenu, dont une partie est restituée à l’acheteur si certains objectifs financiers ne sont pas atteints.
+[…]
+Clauses d’indexation sur les bénéfices futurs
+Les montants reçus par le vendeur à titre de paiements relatifs à une clause d’indexation sur les bénéfices futurs peuvent devoir être inclus, en vertu de l’alinéa 12(1)g) de la Loi sur l’impôt sur le revenu (Canada) (la « Loi »), dans le calcul du revenu du vendeur pour l’année d’imposition au cours de laquelle ils sont reçus. […] Étant donné que les paiements relatifs à la clause d’indexation sur les bénéfices futurs sont généralement effectués en fonction du succès financier de l’entreprise vendue, ces paiements sont considérés comme étant dépendants de l’usage ou de la production des biens de l’entreprise vendue de sorte que l’alinéa 12(1)g) s’applique généralement, même si les paiements relatifs à la clause d’indexation sur les bénéfices futurs représentent également un produit différé de la disposition des biens de l’entreprise vendue.
+[…]
+Clauses d’indexation sur les bénéfices futurs inversés
+[…] Un tel arrangement ne devrait généralement pas comporter de paiements qui attireraient l’application de l’alinéa 12(1)g); en effet, une des principales raisons de conclure un tel arrangement est que le vendeur veut éviter l’application de cette disposition. L’ARC a récemment confirmé que l’alinéa 12(1)g) ne s’applique pas « lorsque le prix de vente du bien est initialement fixé à un maximum équivalent à la juste valeur marchande du bien au moment de la vente, maximum qui peut par la suite être diminué si certaines circonstances relatives à la production ne se concrétisent pas » [23] .
+[notes infrapaginales omises; nous soulignons]
+[35] En se référant aux propos de Beaubier et Pedersen dans leur description du « earnout inversé » et en empruntant les mots de l’auteur André Paquette cité par la Cour d’appel fédérale dans l’affaire Fiducie Claude Deragon c R, force est de constater que nous ne sommes pas ici en présence d’un arrangement selon lequel « le prix d’acquisition des actifs est déterminé à la clôture de la transaction et qu’il s’agit d’un prix maximal, pouvant faire l’objet d’une révision à la baisse » [24] . Il n’est pas question d’une situation où la convention de vente prévoit que MITT paiera le montant maximal dont une partie pourra devoir être remboursée si certaines cibles financières ne sont pas rencontrées. Un examen attentionné du DOA et du ADOA ne révèle aucune clause de cette nature. Ce que l’on retrouve plutôt, en examinant le DOA et le ADOA, sont des clauses prévoyant le paiement de montants forfaitaires et le paiement de montants additionnels fondés sur les ventes du Logiciel. Dans la mesure où il est utile de caractériser les conventions de vente dans cette affaire, à mon avis, il s’agit clairement de conventions de type « earnout ». Le fait que tant le DOA que le ADOA prévoyaient un maximum en ce qui concerne la totalité des paiements pouvant être reçus par l’appelante ne change rien à cette conclusion.
+[36] Or, l’argument de l’appelante selon lequel l’alinéa 12(1)g) de la Loi est inapplicable en l’espèce parce que cette disposition ne peut s’appliquer à des clauses de « earnout inversé » ne peut donc être retenu.
+[37] L’appelante soutient que dans les circonstances où tant l’alinéa 12(1)g) que l’alinéa 14(1)b) pourraient s’appliquer, il faut privilégier l’alinéa 14(1)b) de la Loi. À l’appui de cette prétention, l’appelante cite l’affaire La Succession de Feu Jean-Paul Rouleau c R [25] , décision dans laquelle le juge en chef Garon de cette Cour, tel qu’il était alors, a préféré appliquer l’alinéa 14(1)b) puisqu’il trouvait absurde que lors de la disposition d’une immobilisation admissible, une partie du paiement puisse être incluse dans le revenu en vertu de l’alinéa 12(1)g) et une partie en vertu de l’alinéa 14(1)b) dans lequel cas cela pourrait avoir un effet illogique sur le montant cumulatif des immobilisations admissibles. Je note que cette décision ne semble jamais avoir été citée par les tribunaux et, de plus, il s’est développé un courant jurisprudentiel qui prône l’application de l’alinéa 12(1)g) dans les circonstances appropriées. Dans l’affaire Smith c R, le juge Favreau s’est exprimé comme suit :
+Même si la liste de clients de l’appelant a fait l’objet d’une opération de la part d’une « entreprise », opération à laquelle l’article 14 de la Loi s’appliquerait normalement, elle peut faire l’objet d’un autre examen à titre de « bien » en vertu de l’alinéa 12(1)g) de la Loi [26] .
+[38] Je fais miens les propos du Juge Favreau et je conclus que rien dans le libellé des alinéas 12(1)g) et 14(1)b) n’empêche un examen de l’application de l’alinéa 12(1)g) dans les circonstances de cette affaire. Lors de cet examen, il faut déterminer si les trois paiements en litige ont été reçus par l’appelante « en fonction de l’usage d’un bien ou la production en découlant », soit en fonction des ventes du Logiciel. Et, à mon avis, rien dans le libellé de l’alinéa 14(1)b) ne suggère qu’il faille lui donner préséance relativement à l’alinéa 12(1)g). En outre, le fait que le traitement du coût d’une immobilisation admissible, en l’espèce, le Logiciel, soit assujetti à l’alinéa 14(1)b) de la Loi, n’est pas pertinent à la question de savoir si le revenu qui découle de sa production doit être assujetti à l’alinéa 12(1)g).
+Traitement fiscal du paiement du 25 mai 2010 fait en vertu du DOA
+[39] La clause 7.3(a) du DOA prévoyait un paiement additionnel à l’appelante et à Pyxis d’un montant représentant 35 % des ventes de GreenHopper pendant la période de douze mois suivant la date d’entrée en vigueur du DOA, soit du 1er mai 2009 au 30 avril 2010. La première partie de ce montant fut reçue par l’appelante en novembre 2009. Le 25 mai 2010, l’appelante a reçu la seconde partie du paiement, soit le montant de 878 823 $. Dans l’entente sur les faits, l’appelante admet que ce paiement est versé en vertu de la clause 7.3(a) [27] . À mon avis, il ne fait nul doute que ce paiement ait été reçu « en fonction de l’usage d’un bien ou de la production en découlant », soit en fonction des ventes de GreenHopper. Or, l’appelante doit inclure ce montant dans son revenu pour l’année d’imposition se terminant le 31 décembre 2010 conformément à l’alinéa 12(1)g).
+[40] À l’audience, l’avocat de l’appelante a affirmé que l’alinéa 12(1)g) ne pouvait s’appliquer au paiement de 878 823 $ reçu par l’appelante le 25 mai 2010 parce que le paiement était versé en vertu d’une clause d’earnout inversé [28] . Comme j’ai conclu que ce n’est pas un cas de « earnout inversé », cet argument ne peut être retenu.
+Traitement fiscal des paiements faits en vertu du ADOA
+[41] La clause 3.2 du ADOA prévoyait des paiements additionnels à l’appelante. En vertu des clauses 3.2(a) et (b), MITT devait faire un paiement de 1 615 409 $, lequel était décrit comme étant un « prepayment in the amount of USD1,733,784 [1 615 409 CAN] towards any Earn-Out Payments pursuant to clause 7.3 of the « Deed of Assignment » (DOA). La clause 3.2(d) du ADOA, quant à elle, prévoyait que les paiements additionnels prévus dans le DOA seraient faits conformément aux clauses 7.3(b) et (c) du DOA tout en précisant que le « prepayment » fait en vertu de la clause 3.2(a), soit le montant de 1 615 409 $, servirait à réduire les montants payables en vertu des clauses 7.3(b) et (c). Aussi, la clause 3.2 précisait que l’appelante n’aurait pas à rembourser une partie du « prepayment » s’il s’avère que les paiements calculés en fonction des ventes conformément aux clauses 7.3(b) et (c) sont inférieurs au montant du « prepayment ».
+[42] Je tiens à rappeler que la clause 7.3(b) du DOA prévoyait un paiement additionnel d’un montant fondé sur 25 % des ventes de GreenHopper pendant la période du 1er mai 2010 au 30 avril 2011 alors que la clause 7.3(c) du DOA prévoyait un paiement additionnel d’un montant fondé sur 17,5 % des ventes de GreenHopper pendant la période du 1er mai 2011 au 30 avril 2012.
+[43] Il n’y a pas eu de paiements en 2011, ce qui suggère qu’une fois les ventes comptabilisées pour la période pertinente, le montant dû ne dépassait pas le « prepayment » de 1 615 409 $.
+[44] Dans l’entente sur les faits, l’appelante admet que le paiement de 345 145 $ reçu le 27 mai 2012 a été payé en vertu de la clause 7.3(c) du DOA [29] . Comme mentionné plus haut, cette clause prévoyait un paiement fondé sur 17,5 % des ventes de GreenHopper pour la période pertinente. Je conclus que le paiement du 27 mai 2012 est fondé sur les ventes du logiciel de sorte qu’il a été reçu « en fonction de l’usage d’un bien ou de la production en découlant », soit en fonction des ventes de GreenHopper. Or, il se situe à l’intérieur des paramètres de l’alinéa 12(1)g) et c’est à ce titre que l’appelante doit l’inclure dans son revenu pour l’année d’imposition se terminant en 2012.
+[45] Dans l’entente sur les faits, les parties indiquent que le paiement de 1 615 409 $ reçu le 29 décembre 2010 a été versé en vertu du Règlement, soit le ADOA, sans ajouter de précision quant aux clauses applicables.
+[46] Toutefois, je tiens à rappeler que la clause 3.2(d) du ADOA stipule expressément que les « earn-out payments » seront faits conformément aux clauses 7.3(b) et 7.3(c) du DOA. À mon avis, cela indique clairement que les paiements seront comptabilisés en fonction d’un pourcentage des ventes. Cela permet de conclure que le paiement de 1 615 409 $ est un paiement fondé sur les ventes de Greenhopper lequel est visé par l’alinéa 12(1)g). En outre, il me semble que pour comptabiliser le montant de 345 145 $ qui a été payé en mai 2012 en vertu de la clause 7.3(c) (un montant fondé sur 17,5 % des ventes), il fallait connaître le montant calculé en vertu de la clause 7.3(b) (un montant fondé sur 25 % des ventes). Une fois le montant calculé conformément à la clause 7.3(b), MITT était en mesure de déterminer l’excédent du total dû sur le « prepayment » de 1 615 409 $, ce montant ayant été payé en mai 2012. Cela confirme la conclusion selon laquelle le « prepayment » de 1 615 409 $ est un montant qui dépendait des ventes et qui est visé par l’alinéa 12(1)g). Le fait que MITT précisait que l’appelante n’aurait pas à rembourser de montants ne change rien à cela. Seule une preuve concluante concernant comment le montant du paiement de 1 615 409 $ fut établi aurait pu persuader la Cour qu’il en est autrement. La preuve présentée à l’audience ne révèle pas comment le montant du paiement de 1 615 409 $ fut établi. Je note qu’au moment de la conclusion du ADOA, MITT connaissait déjà les ventes pour plus de 4 mois de la période pertinente à la clause 7.3(b) du DOA.
+[47] L’avocat de l’appelante a cité l’affaire Brosseau c R [30] à l’appui de ses prétentions. Dans cette affaire, l’appelant avait vendu sa liste de clients et avait reçu un montant de 125 072 $. Toutefois, le contrat prévoyait que l’appelant recevrait, pendant 5 ans, des paiements fondés sur le revenu professionnel produit par son ancienne clientèle, mais qu’il devait recevoir un montant minimum de 100 000 $. La Cour conclut que le montant de 100 000 $ n’était pas assujetti à l’alinéa 12(1)g). À mon avis, dans les circonstances de cette affaire, la somme de 100 000 $ reçue par M. Brosseau est plutôt de la nature des paiements forfaitaires reçus pas l’appelante en 2009 lesquels ne sont pas assujettis à l’alinéa 12(1)g). En outre, il convient de préciser que, malgré toute similitude des faits qu’il pourrait y avoir, la question au cœur du présent litige doit être décidée sur la preuve versée au dossier et la Cour doit faire une analyse complète et indépendante de l’affaire selon cette preuve. [31]
+[48] Ayant conclu que les trois montants reçus par l’appelante étaient fonction de la production ou de l’usage, soit fonction des ventes de GreenHopper, les sommes sont imposables en vertu de l’alinéa 12(1)b) de la Loi. Cela a pour effet de réduire les sommes pouvant être ajoutées au CDC en lien avec ces paiements en vertu de l’alinéa c.2) de la définition du CDC au paragraphe 89(1). Étant donné les choix exercés à l’égard des dividendes en capital déclarés pendant les années d’imposition 2012, 2013 et 2014 conformément au paragraphe 83(2), cela a pour effet de provoquer des paiements de dividendes en capital excédentaires assujettis à l’impôt de la Partie III [32] . Il convient alors de considérer la question de savoir si l’appelante peut se prévaloir de la protection offerte par le paragraphe 184(3) de la Loi.
+[49] En novembre 2016, suivant l’émission des avis de cotisation en août 2016, l’appelante a transmis des choix de protection conformément au paragraphe 184(3) [33] . Comme mentionné plus haut, cette disposition autorise une société à éviter l’impôt de la Partie III de la Loi sur des dividendes en capital excédentaires en traitant l’excédent comme un dividende imposable. Il convient de rappeler que l’appelante avait demandé que ces choix soient mis en suspens jusqu’au règlement de cet appel. À l’audience, l’intimée n’a pas contesté que l’appelante remplissait les conditions d’application du paragraphe 184(3) et en fait, elle n’a fait aucune représentation sur cette question. Il appert que l’intimée était d’avis que la question concernant les cotisations fondées sur l’impôt de la Partie III et le choix de protection était accessoire et découlerait de la détermination de la question principale en l’espèce.
+[50] Dans l’affaire The Gladwin Realty Corporation c R [34] , la Cour d’appel fédérale s’est exprimée comme suit :
+La société privée dont le CDC est positif peut en distribuer l'excédent, en franchise d'impôt, par le versement de dividendes en capital, mais seulement jusqu'à concurrence du solde du CDC de la société, établi juste avant la date où le dividende est payable (par. 83(2)). La société qui verse un dividende en capital supérieur au solde de son CDC est assujettie à l'impôt supplémentaire, prévu à la partie III de la Loi, plus précisément au paragraphe 184(2), à moins qu'elle fasse le choix, avec l'accord des actionnaires intéressés, de traiter l'excédent comme un dividende imposable (par. 184(3) et 184(4)).
+[nous soulignons]
+[51] Je conclus que les choix exercés par l’appelante en vertu du paragraphe 184(3) sont valides. Ces choix font en sorte que les dividendes excédentaires soient considérés comme des dividendes imposables et le résultat est l’évitement autorisé de l’impôt de la Partie III.
+VI. Conclusion
+[52] L’appelante n’a pas démontré que les paiements en litige doivent échapper à l’alinéa 12(1)g) de la Loi. Or, les paiements reçus par l’appelante le 25 mai 2010, le 29 décembre 2010 et le 27 mai 2012 doivent être inclus dans son revenu en vertu de l’alinéa 12(1)g) de la Loi. L’appel à l’encontre des nouvelles cotisations établies le 28 juin 2016 pour les années d’imposition se terminant le 31 décembre 2010 et le 31 décembre 2012 est rejeté avec dépens à l’intimée.
+[53] Dans ces circonstances, la ministre était justifiée de réduire le solde du CDC ce qui a eu pour effet de faire en sorte que l’appelante a déclaré des dividendes en capital excédentaires auxquels s’applique l’impôt de la Partie III conformément au paragraphe 184(2) de la Loi. Toutefois, les choix valides exercés conformément au paragraphe 184(3) autorisent l’appelante à éviter cet impôt, l’excédent des dividendes en capital étant considéré comme un dividende imposable. Par conséquent, l’appel à l’encontre des cotisations d’impôt de la Partie III établies le 11 août 2016 pour les années d’imposition 2012, 2013 et 2014 est accueilli.
+Signé à Ottawa, Canada, ce 7e jour de septembre 2022.
+« Gabrielle St-Hilaire »
+Juge St-Hilaire
+Annexe 1 Deed of Assignment (DOA) Clauses 7.1 et 7.3
+7. Payments
+7.1 Lump Sum Payment Schedule
+(a) As consideration for the assignment of the GreenHopper IP and transfer of the GreenHopper elements to MITT and the Vendors fulfilling their obligations under this deed, MITT will pay the Purchase Price as follows, subject to clause 9 :
+(i) Payments to each of Pyxis and 4432002 of :
+(A) (First Lump Sum Payment): USD625,000 on assignment of the GreenHopper IP and delivery of the items referred to in clause 3.3;
+(B) (Second Lump Sum Payment): USD50,000 which will be owing on the 30th Business Days after the Start Date and payable without penalty within 20 Business Days of such date;
+(C) (Third Lump Sum Payment): USD75,000 which will be owing on the first anniversary of the Effective Date and payable without penalty within 5 Business Days of such date;
+(D) (Fourth Lump Sum Payment): USD50,000 no earlier than the second anniversary of the Effective Date and payable without penalty within 5 Business Days of such date; and
+(E) (Fifth Lump Sum Payment): USD25,000 no earlier than the third anniversary of the Effective Date and payable without penalty within 5 Business Days of such date.
+[…]
+7.3 Earn-Out Payments Schedule
+Subject to clauses 7.4, 7.6 and 9, MITT will pay the Earn-Out Payments to each of Pyxis and 4432002 calculated as follows and at the times referred to below:
+a) within 20 Business Days of the anniversary of the Effective Date an amount equivalent to 35% of all sales during the 12 months from the Effective Date plus any Earn-Out Interest;
+b) within 20 Business Days of the second anniversary of the Effective Date an amount equivalent to 25% of all Sales during the 12 months after the first anniversary of the Effective Date plus any Earn-Out Interest; and
+c) within 20 Business Days of the third anniversary of the Effective Date an amount equivalent to 17.5% of the Sales during the 12 months after the second anniversary of the Effective Date plus any Earn-Out Interest.
+Annexe 2 Deed of Amendment (ADOA) Clause 3.2
+3. Revised Payment Obligations
+[…]
+3.2 Payments to 4432002 and Huet
+Notwithstanding anything contained in the Deed of Assignment, 4432002, MITT and Huet agree to discharge all payment obligations pursuant to the Deed of Assignment on the following terms:
+(a) Subject to Huet’s compliance with clause 4, on or before 10 January 2011, MITT must arrange for the payment of USD1,733,784 to the bank account nominated by 4432002 (or by such other means as is agreed by MITT and 4432002);
+(b) 4432002 and Huet acknowledge and agree that a payment pursuant to clause 3.2(a), if any, constitutes a prepayment in the amount of USD1,733,784 towards any Earn-Out Payments pursuant to clause 7.3 of the Deed of Assignment that will become due and payable to 4432002 at such times as are set out in the Deeds of Assignment;
+(c) 4432002 and Huet acknowledge and agree that:
+(i) the Lump Sum Payments pursuant to clauses 7.1(a)(i)(D) and 7.1(a)(i)(E) of the Deed of Assignment; and
+(ii) any interest that may have accrued on those amounts pursuant to clause 7.2 of the Deed of Assignment,
+is forfeited in its entirety and that no claim, action, or demand (of any kind) will be made or brought against MITT in relation to those amounts or payments;
+(d) 4432002, Huet and MITT acknowledge and agree that the Earn-Out Payments pursuant to the Deed of Assignment will be made in accordance with clauses 7.3(b) and 7.3(c) of the Deed of Assignment subject to :
+(i) a reduction of the Earn-Out Payments for any prepayment, if any, of those amounts pursuant to clause 3.2(a), however, for the sake of clarity but subject to clause 6.6, no refund of the prepayment amount pursuant to clause 3.2(a) is payable by 4432002 to MITT in the event that the calculation of the Earn-Out Payments pursuant to clause 3.2(d) is less than the amount of the prepayment pursuant to clause 3.2(a);
+(ii) the 50% reduction in the total Earn-Out Payment payable to 4432002 as provided for by clause 9.1(b)(i)(B) of the Deed of Assignment; and
+(iii) notwithstanding any other provision of this deed or the Deed of Assignment, the total Purchase Price (as paid in total to all Vendors) not exceeding USD7,600,000.
+(e) 4432002 and Huet acknowledge and agree that the Earn-Out Interest pursuant to clauses 7.5 of the Deed of Assignment is forfeited in its entirety and that no claim, action, or demand (of any kind) will be made or brought against MITT in relation to those payments; and
+(f) 4432002 and Huet must, within one (1) Business Day of the Execution Date provide all consents and signatures required for the release of the funds to MITT as contemplated by clause 7.2(b)(ii) of the Deed of Assignment; and (sic)
+RÉFÉRENCE :
+2022 CCI 101
+Nº DU DOSSIER DE LA COUR :
+2019-2559(IT)G
+INTITULÉ DE LA CAUSE :
+4432002 CANADA INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 4 avril 2022
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Gabrielle St-Hilaire
+DATE DU JUGEMENT :
+Le 7 septembre 2022
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Guillaume Rochon
+Me Sophia Guedez
+Avocat de l’intimée :
+Me Gabriel Girouard
+AVOCATS INSCRIT AU DOSSIER :
+Pour l’appelant:
+Nom :
+Me Guillaume Rochon
+Me Sophia Guedez
+Cabinet :
+Ravinsky Ryan Lemoine, s.e.n.c.r.l.
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Loi de l’impôt sur le revenu, LRC (1985), c 1 (5e supp) [Loi].
+[2] Bien que l’appelante eut plus d’un exercice financier pendant certaines années, les années d’imposition pertinentes en l’espèce sont celles pour les exercices financiers se terminant le 31 décembre 2010, 2012, 2013 et 2014, ci-après les années d’imposition 2010, 2012, 2013 et 2014.
+[3] Loi canadienne sur les sociétés par actions, LRC (1985), c C-44.
+[4] Selon M. Huet, le but du plugiciel GreenHopper était d’étendre les fonctionnalités de Jira de sorte que GreenHopper n’était utile qu’à la clientèle exclusive de Jira. Voir la Transcription de l’audience aux pp 12-13 [Transcription].
+[5] Pièce AI-1, onglet 3.
+[6] Pièce AI-1, onglet 4 et Entente partielle sur les faits aux paras 17-18 [Entente sur les faits].
+[7] Pour les choix exercés conformément au paragraphe 83(2) de la Loi, voir Pièce AI-1, onglets 15 à 22.
+[8] Voir Imperial Oil Ltd c R, 2004 CAF 361 au para 68, infirmée pour d’autres motifs par 2006 CSC 46.
+[9] Il convient de mentionner que l’appelante a demandé à la Ministre de suspendre l’application du choix exercé en vertu du paragraphe 184(3) de la Loi jusqu’au dénouement de sa contestation des cotisations relativement aux paiements en litige. Voir Pièce AI-1, onglet 14.
+[10] L’appelante a reçu les paiements prévus aux clauses 7.1(a)(i)(A), (B) et (C) mais non pas ceux prévus aux clauses 7.1(a)(i)(D) et (E) du DOA. Le paragraphe 10 de l’Entente sur les faits est erroné à cet égard. Voir la Transcription aux pp 41-42.
+[11] Pièce AI-1, onglet 4, Deed of Amendment.
+[12] Voir Entente sur les faits au para 10.
+[13] Entente sur les faits au para 11. Il convient de noter que dans ces motifs, les montants sont exprimés en devises canadiennes, sauf indication contraire.
+[14] Voir la Transcription à la p 46.
+[15] Voir l’Entente sur les faits aux paras 12, 13 et 15. L’année d’imposition de l’appelante a pris fin le 13 janvier 2010 quand M. Huet et Mme Coulombe ont quitté le Canada et une nouvelle année d’imposition a débuté le 14 janvier 2010.
+[16] Entente sur les faits aux paras 14 et 21.
+[17] Voir la Transcription à la p 20.
+[18] Selon l’entente sur les faits, au para 8, M. Huet s’était engagé à travailler pour MITT. Toutefois, selon son témoignage, il travaillait pour la société Atlassian Pty Limited, laquelle avait un lien quelconque avec MITT et en fait, était partie au DOA et au ADOA. Voir la Transcription à la p 22.
+[19] Voir la Transcription aux pp 22-23.
+[20] Il convient de rappeler que les montants sont exprimés en devises canadiennes.
+[21] Beaty Beaubier, The Purchase and Sale of a Business: A Review of the Tax Issues, éd révisée par Yens Pedersen, Saskatchewan Legal Education Society Inc, mars 2007 aux pp 26-27.
+[22] Transcription à la p 66.
+[23] Andrew Stirling, Jonathan C.G. Bright, Selected Issues in Purchase and Sale Transactions, dans 2017 Ontario Tax Conference, Toronto, Canadian Tax Foundation, 2017 aux pages 1-4.
+[24] Voir Fiducie Claude Deragon c R, 2015 CCI 294 au para 36.
+[25] La Succession de Feu Jean-Paul Rouleau c R, [1991] 1 CTC 2055, 91 DTC 115 (version française), 91 DTC 120 [Succession Rouleau].
+[26] Smith c R, 2011 CCI 461 au para 12. Le juge Favreau cite l’affaire 289018 Ontario Ltd c R, [1987] 1 CTC 2095, 87 DTC 38 (CCI), décision que le juge Garon avait citée dans l’affaire Succession Rouleau, supra note 25 au para 50; le Juge Garon avait conclu qu’elle pouvait être distinguée sur les faits sans préciser sa pensée davantage. Pour d’autres décisions dans lesquelles les tribunaux sont appelés à se prononcer sur l’application de l’alinéa 12(1)g), voir Lackie v R, [1979] CTC 389, 79 DTC 5309 (CAF) et Porta-Test Systems Ltd v R, [1980] CTC 71, 80 DTC 6046 (CF, 1re inst).
+[27] Entente sur les faits au para 14 et Transcription à la p 47.
+[28] Transcription à la p 86.
+[29] Entente sur les faits au para 22.
+[30] Brosseau c R, [1986] 1 CTC 2558, 86 DTC 1412 (CCI).
+[31] Ray-Mont Logistiques Montréal Inc c R, 2020 CAF 113 au para 21.
+[32] Voir Réponse à l’avis d’appel au para 23.
+[33] Pièce AI-1, onglet 14.
+[34] The Gladwin Realty Corporation c R, 2020 CAF 142 au para 58.

@@ -1,0 +1,290 @@
+---
+title: "Martel c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31001/index.do"
+last_modified: "2012-10-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 374"
+citation2: ""
+neutral_citation: "2012 CCI 374"
+decision_date: "2012-10-23"
+language: "fr"
+item_id: "31001"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4883
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:19:16.867000+00:00"
+cases_cited_count: 10
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c9b301b56db01104676e0e2ec267257cb492885cdeb8cf4a6b0b1c55fe36a55e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Martel c. M.R.N.
+
+- Citation: 2012 CCI 374
+- Decision date: 2012-10-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4883, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martel c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-23
+Référence neutre
+2012 CCI 374
+Numéro de dossier
+2012-837(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2012-837(EI)
+ENTRE :
+FRANCE MARTEL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Cathy Lavoie, 2012‑840 (EI), le 18 juillet 2012, à Chicoutimi (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l'appelante :
+Sylvain Bergeron
+Avocat de l'intimé :
+Me Simon Vincent
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi (LAE) est rejeté. La décision rendue par le ministre du Revenu national en date du 10 février 2012, établissant que l’appelante n’exerçait pas un emploi aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la LAE et qu’elle n’occupait donc pas un emploi assurable puisqu’une relation employée-employeur ne peut exister entre une associée et une société en nom collectif, est confirmée.
+Signé à Ottawa, Canada, ce 23e jour d’octobre 2012.
+« Lucie Lamarre »
+Juge Lamarre
+Dossier : 2012-840(EI)
+ENTRE :
+CATHY LAVOIE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de France Martel, 2012‑837 (EI), le 18 juillet 2012, à Chicoutimi (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l'appelante :
+Sylvain Bergeron
+Avocat de l'intimé :
+Me Simon Vincent
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi (LAE) est rejeté. La décision rendue par le ministre du Revenu national en date du 10 février 2012, établissant que l’appelante n’exerçait pas un emploi aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la LAE et qu’elle n’occupait donc pas un emploi assurable puisqu’une relation employée-employeur ne peut exister entre une associée et une société en nom collectif, est confirmée.
+Signé à Ottawa, Canada, ce 23e jour d’octobre 2012.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2012 CCI 374
+Date : 20121023
+Dossier : 2012-837(EI)
+ENTRE :
+FRANCE MARTEL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2012-840(EI)
+ENTRE :
+CATHY LAVOIE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Les appelantes en appellent d’une décision du ministre du Revenu national (ministre) par laquelle il fut décidé qu’elles n’exerçaient pas un emploi assurable auprès de Camping Camp D’Accueil 2004 S.E.N.C. (payeur) au motif qu’elles étaient des associées du payeur, détenant chacune 25 pour 100 des parts, et qu’à ce titre, il ne pouvait exister une relation employeur-employée pouvant leur permettre de recevoir des prestations en vertu de la Loi sur l’assurance-emploi (LAE).
+[2] Les périodes en litige sont les suivantes : pour Cathy Lavoie : du 25 mai 2011 au 30 septembre 2011; pour France Martel : du 3 juin 2007 au 6 octobre 2007; du 26 mai 2008 au 18 octobre 2008; du 25 mai 2009 au 12 septembre 2009; du 24 mai 2010 au 11 septembre 2010; et du 25 mai 2011 au 30 septembre 2011.
+[3] Les faits sur lesquels s’est fondé le ministre sont résumés au paragraphe 5 de la Réponse à l’avis d’appel de France Martel et se lisent comme suit[1] :
+Pour rendre sa décision, le ministre s’est appuyé sur les présomptions de faits suivantes :
+a) le payeur a été immatriculé le 8 juin 2004 adoptant une forme juridique de société en nom collectif;
+b) les associés, au moment de l’immatriculation, étaient : Marc-André Lavoie, Monique Simard, Geneviève Lavoie, Fernando Lavoie, Doris Chalifour et Cathy Lavoie;
+c) pendant les périodes en litiges [sic], les associés étaient : Cathy Lavoie, Fernando Lavoie, Marc-André Lavoie et France Martel;
+d) chacun des associés détient 25 % des parts du payeur;
+e) Cathy Lavoie détient 25 % des parts du payeur depuis son immatriculation en 2004 alors que l’appelante détient son 25 % des parts du payeur depuis 2007;
+f) Cathy Lavoie est la fille de Fernando Lavoie et aucun des autres associés n’a de lien de parenté entre eux;
+g) l’appelante et Cathy Lavoie auraient investis [sic] dans la participation de la société en nom collectif par une contribution non monétaire;
+h) les activités du payeur étaient la location de terrain de camping et de parcs à roulottes;
+i) la municipalité de Ferland-et-Boileau [sic] loue le terrain de la MRC du Fjord et assumes [sic] les frais majeurs;
+j) le payeur loue de la municipalité Ferland-et-Boileau [sic] le terrain ce qui lui permet d’exercer ses activités de location de 42 sites pour le camping et d’espaces pour les roulottes, d’offrir des services de sentiers pédestres et d’hébertisme;
+k) le terrain de camping est semi aménagé, c’est-à-dire qu’il n’a pas l’électricité juste l’eau;
+l) la période d’activités du payeur est du début juin jusqu’après la fête du travail en septembre;
+m) le payeur bénéficie des services de deux de ses associés, soit l’appelante et Cathy Lavoie;
+n) les deux travailleuses associées, soit l’appelante et Cathy Lavoie doivent couvrir les heures d’ouverture du payeur qui sont de 7 h à 23 h, soit 90 heures par semaine;
+o) les tâches de l’appelante et de Cathy Lavoie consistaient à s’occuper du terrain, de recevoir les clients, de faire les réservations, les locations de terrains, le nettoyage et l’entretien;
+p) l’appelante et Cathy Lavoie étaient rémunérées au salaire minimum par chèque chaque semaine;
+q) pendant les périodes en litige, l’appelante était une associée du payeur.
+[4] Les appelantes soutiennent que leur contrat de travail avec le payeur avait les caractéristiques d’un contrat de louage de services et que le payeur n’était pas dans les faits une société en nom collectif (SENC) au sens donné par le Code civil du Québec (CcQ), mais s’apparentait plutôt à un organisme sans but lucratif enregistré en vertu de la partie III de la Loi sur les compagnies du Québec (LCQ), LRQ, ch. C‑38, ou encore à une coopérative.
+Faits ressortis à l’audience
+[5] J’ai entendu les témoignages de Fernando Lavoie, de Cathy Lavoie et de France Martel. Il ressort de leurs témoignages qu’une vingtaine de citoyens de la municipalité de Ferland-et-Boilleau s’opposaient à la location par la municipalité, à un groupe de non-résidents, d’un terrain de camping sauvage qui existe depuis 1972.
+[6] Deux de ces concitoyens, dont l’un, monsieur Hervé Simard, comptable pour la commission scolaire de Jonquière, voulaient constituer une charte. Ils ont proposé la constitution d’une SENC, et monsieur Fernando Lavoie et cinq ou six autres concitoyens, dont Cathy Lavoie, sa fille, en ont été les fondateurs. Monsieur Fernando Lavoie a dit qu’il n’a rien investi personnellement, mais qu’il s’agissait pour lui d’un patrimoine à conserver, et que cela lui tenait beaucoup à cœur. Il était lui-même président d’un comité qui a obtenu le financement pour la bâtisse sur le camping. Il ne voulait surtout pas que ce terrain soit administré par des non‑résidents.
+[7] Aucun contrat de société établissant les droits et obligations des associés n’a été rédigé. L’objectif n’était pas de faire des profits, mais plutôt de conserver ce patrimoine. Il n’y avait donc aucun plan d’affaires. S’il y avait des pertes dans une année, on les reportait sur le budget de l’année suivante.
+[8] Le terrain appartient à la MRC du Fjord-du-Saguenay, qui le loue à la municipalité. C’est elle qui supporte tous les coûts des travaux de plus de 1 500 $ (tels les aqueducs, les fosses septiques et les immobilisations). La SENC paie pour l’entretien, les réparations et les sentiers pédestres. Les bâtiments sur le terrain appartiennent à la municipalité.
+[9] Au cours de la période en litige, le conseil d’administration (CA) de la SENC était constitué de quatre personnes, incluant monsieur Fernando Lavoie et les deux appelantes. Le conseil se réunit environ trois fois par année. Monsieur Marc-André Lavoie était le président et monsieur Fernando Lavoie, le secrétaire-trésorier. C’est ce dernier qui rédigeait les procès-verbaux aux réunions du CA et qui préparait également les états financiers (copie de procès-verbaux a été déposée sous la cote A-2).
+[10] Selon monsieur Fernando Lavoie, depuis 2004, la SENC a connu des déficits annuellement, à l’exception d’une seule année, où elle aurait fait un surplus de 200 $, dit-il. On essayait de compenser le déficit d’une année en augmentant les revenus provenant des campeurs. En 2011, ils auraient obtenu une subvention de 5 000 $ pour faire une passerelle pour accéder à une chute et c’est ce qui expliquerait un surplus d’environ 4 000 $ au cours de cette année qui serait venu éponger le déficit de 3 000 $ de l’année précédente (selon l’état des revenus et dépenses déposé, pièce I-1, onglet 1 M). Monsieur Fernando Lavoie dit qu’il a déclaré un bénéfice de 500 $ dans sa déclaration de revenus pour l’année 2011. La preuve ne révèle pas s’il a déclaré un revenu dans l’année où la SENC aurait fait un surplus de 200 $ dans le passé.
+[11] Les appelantes participaient aux décisions prises sur les droits d’entrée exigibles et l’organisation des activités du camping, mais quand il s’agissait de leur rémunération, elles se retiraient de la réunion du CA. Compte tenu des maigres revenus du camping, elles ne recevaient que le salaire minimum pour accomplir les différentes tâches assignées.
+[12] Monsieur Lavoie a précisé qu’il considérait la SENC plutôt comme un organisme sans but lucratif (OSBL) et qu’il ne connaissait pas les règlements régissant la SENC. Il savait l’importance d’être un OSBL car c’était la façon d’obtenir du financement. Les quatre membres du CA participaient aux réunions bénévolement.
+[13] Madame Cathy Lavoie a expliqué qu’un groupe de 20 citoyens avait planifié au début le fonctionnement du camping en vue de présenter un projet à la municipalité. Madame Lavoie n’a pas de contrat comme tel avec la SENC. Le CA, où elle ne siège pas lorsqu’il s’agit de son travail, a déterminé qu’elle devait travailler 44 heures par semaine. À chaque semaine, elle présente à monsieur Lavoie un rapport sur ce qui s’est passé et sur les entrées d’argent. En contre-interrogatoire, elle a dit que les décisions se prenaient par consensus après discussion et qu’elle ne se rappelait pas avoir voté, même si elle détient en apparence 25 pour 100 des parts de la SENC.
+[14] Elle a expliqué qu’elle ne retirait aucun avantage personnel en tant qu’usager saisonnier et qu’elle payait comme tout le monde le prix exigé pour profiter du camping. Ses tâches consistaient à nettoyer le camping, à répondre au téléphone ou aux clients directement, à faire les réparations sur le terrain, à nettoyer les plages. Elle organisait également les activités sur le camping. Elle partageait son temps de travail avec madame France Martel, qui travaillait le même nombre d’heures qu’elle par semaine. On leur demandait simplement que le travail soit fait selon le nombre d’heures attribué.
+[15] La description de leurs tâches se trouve dans un document qui a été déposé sous la cote A-1. On y indique, entre autres, que les employés relèvent directement du CA, et qu’ils doivent s’acquitter de toutes les autres tâches jugées nécessaires par le CA.
+[16] Madame Lavoie a reconnu qu’elle participait aux réunions de planification des activités du camping, qui avaient lieu en février.
+[17] Madame France Martel a expliqué qu’elle est arrivée plus tard et que personne ne lui a jamais expliqué ce qu’était la SENC. Elle voulait simplement s’investir pour conserver le camping. Elle n’a pas investi un sou et ne s’attendait donc à aucun retour sauf pour le salaire qu’on lui versait pour son travail. Elle ne savait pas qu’elle était une associée de la SENC.
+Arguments des appelantes
+[18] Les appelantes soutiennent, en premier lieu, qu’elles sont tout autant des employées de la SENC qu’elles auraient été des employées d’une société par actions. La jurisprudence est claire qu’un actionnaire peut être considéré comme un employé sous le contrôle de la société dans laquelle il détient des actions (voir Canada (procureur général) c. Acier Inoxydable Fafard Inc., 2002 CAF 214).
+[19] En deuxième lieu, les appelantes soutiennent qu’il n’existait pas comme telle de SENC. Elles se réfèrent à la décision du juge suppléant Rowe de notre cour dans l’affaire Sheppard c. Ministre du Revenu national, 2009 CCI 97. Dans cette décision, le juge Rowe a déterminé qu’il n’existait pas de société de personnes au sens des articles 2 et 4 de la Partnership Act de la Colombie-Britannique. Le juge Rowe s’est référé aux arrêts de la Cour suprême du Canada dans Continental Bank Leasing Corp. c. Canada, [1998] 2 R.C.S. 298, Backman c. Canada, [2001] 1 R.C.S. 367, et Spire Freezers Ltd. c. Canada, [2001] 1 R.C.S. 391. La Cour suprême du Canada s’exprime ainsi aux paragraphes 21 à 24, dans l’arrêt Backman :
+21 Pour déterminer si une entreprise est exploitée «en commun», il faut se rappeler qu'une société de personnes naît d'un contrat. L'objectif commun nécessaire à l'établissement d'une société de personnes sera habituellement présent lorsque les parties auront conclu un contrat de société valide énonçant leurs droits et obligations respectifs en tant qu'associés. Comme il a été souligné dans l'arrêt Continental Bank, précité, par. 34-35, la reconnaissance du pouvoir de tout associé de lier la société est certes pertinente, mais le fait que la gestion de celle-ci ait été confiée à un seul associé n'oblige pas à conclure que l'entreprise n'était pas exploitée en commun. Cette constatation est confirmée dans Lindley & Banks on Partnership (17e éd. 1995), p. 9, où l'on mentionne qu'une ou plusieurs parties peuvent, dans les faits, gérer l'entreprise pour leur propre compte et celui des autres parties sans pour autant menacer le statut juridique de l'arrangement. Ce fait peut être pertinent si les parties se sont présentées à des tiers comme étant des associés, tout comme peut l'être le fait pour les parties de ne pas se présenter comme tel [sic]. Parmi les autres éléments de preuve qui sont compatibles avec l'intention d'exploiter l'entreprise en commun, mentionnons les suivants : apport à l'entreprise commune sous forme d'habiletés, de connaissances ou de biens, propriété conjointe de l'objet de l'entreprise, partage des profits et des pertes, production de déclarations de revenus à titre de société de personnes, existence d'états financiers et de comptes bancaires conjoints et échange de correspondance avec des tiers: voir Continental Bank, précité, par. 24 et 36.
+22 Pour déterminer si une entreprise est exploitée « en vue de réaliser un bénéfice », il faut se demander quelles étaient les intentions des parties lorsqu'elles auraient formé la société de personnes. Il importe au départ de distinguer la motivation de l'intention. La motivation est ce qui pousse la personne à agir, alors que l'intention est l'objectif ou la fin que vise l'acte qui a été accompli. À maintes reprises, notre Cour a jugé qu'une motivation d'ordre fiscal n'enlève rien à la validité d'opérations faites à des fins fiscales : Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622; Canada c. Antosko, [1994] 2 R.C.S. 312; Stubart Investments Ltd. c. La Reine, [1984] 1 R.C.S. 536, p. 540. De même, une motivation d'ordre fiscal n'enlève rien à la validité d'une société de personnes lorsque les éléments essentiels d'une telle société sont réunis : Continental Bank, précité, par. 50-52. À ce stade-ci, la question est de savoir si le contribuable peut établir qu'il avait l'intention de réaliser un bénéfice, peu importe s'il était motivé par des considérations fiscales. Pour une analyse plus approfondie, voir D. Nathanson, « Tax Motive Kills Partnership : Spire Freezers (cf. Continental Bank) » (1999), 7 Tax Litigation 458.
+23 En outre, dans l'arrêt Continental Bank, précité, notre Cour a jugé que l'intention prédominante du contribuable n'est pas déterminante pour statuer sur l'existence de l'élément essentiel que constitue la volonté de « réaliser un bénéfice ». Il suffit que le contribuable établisse l'existence d'un objectif accessoire visant la réalisation d'un bénéfice. Cela ressort de l'observation suivante, faite aux p. 10-11 de Lindley & Banks on Partnership, op. cit., et adoptée dans l'arrêt Continental Bank, précité, par. 43 :
+[TRADUCTION] . . . lorsqu'une société est constituée dans quelque autre but dominant [autre qu'un but lucratif], notamment pour éviter l'impôt, mais qu'il existe aussi un élément véritable, bien qu'accessoire, de profit, il est possible d'en conclure que l'entreprise est exploitée «dans le but de réaliser un bénéfice». Cependant, lorsqu'il peut être établi que l'unique raison pour laquelle une société est mise sur pied est de conférer à un associé l'«avantage», par exemple, d'une perte fiscale, alors que les parties n'envisagent nullement qu'un bénéfice [. . .] puisse être tiré de l'exploitation de l'entreprise en cause, la société ne peut véritablement être considérée comme ayant été créée «dans le but de réaliser un bénéfice».
+24 Un objectif accessoire est, par définition, un objectif subordonné ou de moindre importance. Les tribunaux appelés à décider s'il y avait intention de réaliser un bénéfice ne doivent pas adopter ou utiliser une analyse purement quantitative. Le montant du bénéfice escompté n'est qu'un des divers facteurs à considérer. Le droit relatif aux sociétés de personnes n'exige pas la réalisation d'un gain net pendant une période déterminée afin d'établir qu'une activité est exercée dans le but de réaliser un bénéfice. Par exemple, une société de personnes peut subir des pertes lors du démarrage de son entreprise. Cela ne signifie pas que la relation qui existe n'est pas une société de personnes, pourvu toujours que l'entreprise soit exploitée dans le but de réaliser un bénéfice dans le futur. En conséquence, lorsque le motif prédominant de la création d'une société de personnes est l'acquisition d'une perte fiscale, le contribuable n'a pas à établir qu'il avait l'intention de réaliser un bénéfice suffisant pour effacer les pertes acquises ou produire un gain net.
+[20] Dans l’affaire Sheppard, le juge Rowe conclut à la non-existence d’une SENC en se basant sur les faits suivants que l’on retrouve aux paragraphes 22 et suivants de sa décision : 1) la preuve ne permettait pas de conclure que l’un des prétendus associés agissait comme s’il était membre d’une société de personnes plutôt que comme s’il participait volontairement à une entreprise; 2) il ressortait de la preuve que l’appelant dans cette affaire, monsieur Sheppard, qui était aussi un associé selon l’intimé, voulait participer à l’entreprise en tant que collègue dans le cadre d’une nouvelle expérience éducative, qu’il n’avait pas songé à former une société de personnes étant donné qu’il voulait absolument toucher initialement un salaire annuel, et qu’il ne s’occupait aucunement des finances; 3) rien ne montrait que les trois prétendus associés s’étaient présentés comme étant des associés au sens juridique du terme : il n’y avait aucune documentation, sous la forme d’un contrat de société de personnes valide, ni aucune preuve orale qui soit compatible avec l’intention d’exploiter l’entreprise en tant que société de personnes; 4) il n’existait aucune preuve d’une intention de la part de deux prétendus associés, dont monsieur Sheppard, ni de mesures compatibles avec pareille intention, qu’ils soient rétribués, à l’égard des services fournis, en touchant une partie des bénéfices réalisés par la société; 5) l’examen de la preuve révélait qu’il n’existait aucune possibilité de tirer un bénéfice de l’entreprise, telle qu’elle était structurée; il n’y avait pas non plus de plan d’entreprise susceptible de générer des bénéfices dans l’avenir; 6) finalement, monsieur Sheppard se considérait simplement comme un enseignant qualifié fournissant ses services en échange d’un paiement mensuel et il n’avait pas l’intention de participer à titre d’associé à une entreprise dans le cadre de laquelle les risques et les bénéfices seraient partagés.
+[21] Les appelantes soutiennent qu’elles n’avaient pas l’intention de créer une SENC. Il n’y avait aucun contrat déterminant leurs droits et obligations. Il n’y avait aucune intention de réaliser des bénéfices ou de participer à ceux-ci. L’intention était de conserver un patrimoine.
+[22] Elles soutiennent qu’il a été établi que la Loi sur l’assurance-chômage, telle qu’elle était intitulée alors, devait être interprétée d’une façon libérale et que tout doute découlant de l’ambiguïté des textes devait se résoudre en faveur des prestataires (Abrahams c. Procureur général du Canada, [1983] 1 R.C.S. 2).
+[23] Elles prétendent que malgré l’inscription d’une SENC au registre des entreprises du Québec (REQ) indiquant qu’elles en étaient des associées (pièce I-1, onglet G), il s’agissait dans les faits d’un OSBL. Les fondateurs ont été mal conseillés en enregistrant une SENC. Dans leurs arguments écrits (page 4), les appelantes citent également les propos d’André Poupart[2], qui énoncent que « [l]a publicité d’une déclaration ne doit pas être considérée comme un moyen d’établir la preuve de l’existence d’une société. Une telle preuve est régie par l’article 2860 CcQ qui régit la preuve des actes juridiques en général. » L’article 2860 CcQ se lit comme suit :
+2860. L'acte juridique constaté dans un écrit ou le contenu d'un écrit doit être prouvé par la production de l'original ou d'une copie qui légalement en tient lieu.
+Toutefois, lorsqu'une partie ne peut, malgré sa bonne foi et sa diligence, produire l'original de l'écrit ou la copie qui légalement en tient lieu, la preuve peut être faite par tous moyens.
+À l'égard d'un document technologique, la fonction d'original est remplie par un document qui répond aux exigences de l'article 12 de la Loi concernant le cadre juridique des technologies de l'information (chapitre C-1.1) et celle de copie qui en tient lieu, par la copie d'un document certifié qui satisfait aux exigences de l'article 16 de cette loi.
+Arguments de l’intimé
+[24] L’intimé soutient qu’il y avait moyen de rectifier la situation si telle avait vraiment été l’intention des associés et ceci n’a pas été fait. Il se réfère aux articles 2191 et 2195 CcQ, qui se lisent comme suit :
+2191. Lorsque la société constate ou est informée que sa déclaration d’immatriculation est incomplète, inexacte ou irrégulière, celle-ci peut être corrigée par une déclaration de mise à jour produite conformément à la Loi sur la publicité légale des entreprises (chapitre P-44.1).
+2195. Les déclarations relatives à la société sont opposables aux tiers à compter du moment où les informations qu’elles contiennent sont inscrites au registre des entreprises. Elles font preuve de leur contenu en faveur des tiers de bonne foi.
+[25] Par ailleurs la Loi sur la publicité légale des entreprises (Lpl), LRQ, chapitre P-44.1, article 98, dit ceci :
+98. Sont opposables aux tiers à compter de la date où elles sont inscrites à l’état des informations et font preuve de leur contenu en faveur des tiers de bonne foi les informations suivantes relatives à l’assujetti:
+1° le nom de l’assujetti et, s’il a déjà été immatriculé, son numéro d’entreprise du Québec;
+2° tout autre nom qu’il utilise au Québec et sous lequel il s'identifie;
+3° la forme juridique qu’il emprunte en précisant la loi en vertu de laquelle il est constitué;
+4° son domicile;
+5° le domicile qu’il élit avec mention du nom de la personne qu’il mandate pour recevoir les documents, aux fins de l’application de la présente loi;
+6° les nom et domicile de chaque administrateur en mentionnant la fonction qu’il occupe ou, si tous les pouvoirs ont été retirés au conseil d’administration par une convention unanime des actionnaires conclue en vertu d’une loi du Québec ou d’une autre autorité législative du Canada, les nom et domicile des actionnaires ou des tiers qui assument ces pouvoirs;
+7° la date de l’entrée en fonction des personnes visées aux paragraphes 6° et 10° et, s’il y a lieu, la date de la fin de leur charge;
+8° les nom et domicile du président, du secrétaire et du principal dirigeant, lorsqu’ils ne sont pas membres du conseil d’administration, avec mention des fonctions qu’ils occupent;
+9° les nom et adresse de son fondé de pouvoir;
+10° les nom, adresse et qualité de la personne qui agit à titre d’administrateur du bien d’autrui;
+11° l’adresse des établissements qu’il possède au Québec;
+12° les nom et domicile de chaque associé avec mention qu’aucune autre personne ne fait partie de la société de personnes ou, s’il s’agit d’une société en commandite, les nom et domicile de chaque commandité ainsi que ceux des trois commanditaires ayant fourni le plus grand apport;
+13° l’objet poursuivi par la société de personnes;
+14° le nom de l’État, de la province ou du territoire où il a été constitué et la date de sa constitution;
+15° le nom de l’État, de la province ou du territoire où la fusion ou la scission dont la personne morale est issue s’est réalisée, la date de cette fusion ou scission ainsi que les nom, domicile et numéro d’entreprise du Québec de toute personne morale partie à cette fusion ou scission;
+16° la date de sa continuation ou de toute autre transformation.
+Les tiers peuvent, par tout moyen, contredire les informations contenues dans un document qui est produit au registraire ou lui est transféré en application d’une entente conclue conformément à l’un des articles 117 ou 118.
+Toutefois, l’assujetti dont l’immatriculation a été radiée d’office ne peut mettre en question les informations qu’il a déclarées et qui sont contenues à l’état des informations.
+[26] À partir du moment où les appelantes sont identifiées comme des associées d’une SENC au registre des entreprises, ces informations font preuve de leur contenu en faveur des tiers de bonne foi. L’intimé soutient qu’il est un tiers de bonne foi. Si les conditions de l’existence d’une SENC ne sont pas remplies, cela ne peut avoir une incidence sur l’intimé puisque le payeur s’est enregistré officiellement comme une SENC et non comme un OSBL, sans jamais y remédier, et ce, depuis 2004.
+[27] Par ailleurs, l’intimé souligne que les appelantes avaient leur mot à dire dans la gestion et les activités du payeur. Elles étaient toutes deux membres du CA et prenaient part aux décisions sur la façon de gérer leurs tâches. Leurs décisions avaient un impact sur leur façon de travailler et d’accomplir leurs actions.
+[28] L’intimé s’appuie sur la décision de notre cour dans Blais c. La Reine, 2005 CCI 417, 2006 DTC 2235, qui reprend le raisonnement de la Cour d’appel du Québec dans Charron c. Drolet, [2005] J.Q. no 4741 (QL), 2005 QCCA 430, pour soutenir qu’une société de personnes ne peut pas embaucher à titre d’employé un de ses associés (Blais, par. 30).
+[29] Par ailleurs, dans des arguments écrits, l’intimé s’appuie principalement sur l’arrêt Shell Canada Ltée. c. Canada, [1999] 3 R.C.S. 622, pour soutenir sa position selon laquelle la forme juridique du payeur, telle qu’elle apparaît officiellement, doit être respectée. Plus précisément, l’intimé souligne l’extrait suivant dans Shell Canada, au par. 40 :
+[…] la jurisprudence fiscale de notre Cour est bien établie: l’examen de la «réalité économique» d’une opération donnée ou de l’objet général et de l’esprit de la disposition en cause ne peut jamais soustraire le tribunal à l’obligation d’appliquer une disposition non équivoque de la Loi à une opération du contribuable.
+[30] En se basant sur ce passage, l’intimé affirme que si la Cour en venait à la conclusion qu’il ne s’agissait pas dans les faits ici d’une SENC, l’examen de la réalité économique ne peut soustraire cette cour à l’obligation d’appliquer les dispositions législatives non équivoques, soit l’article 2195 du CcQ et l’article 98 de la Lpl. L’intimé souligne que ces deux dispositions créent une présomption selon laquelle les informations relatives à la forme juridique d’un assujetti apparaissant au REQ font preuve de leur contenu à l’égard des tiers de bonne foi, ce qui empêcherait toute nouvelle qualification des rapports juridiques existant entre les appelantes et le payeur.
+Analyse
+[31] En premier lieu, il convient de rappeler que le statut d’un(e) actionnaire d’une société par actions est différent de celui d’un(e) associé(e) d’une SENC. Tel que le rappelle la Cour d’appel du Québec dans l’arrêt Charron c. Drolet, précité, invoqué par l’intimé, seule la société par actions est une personne morale aux termes de l’article 2188 CcQ. Si les associés ont fait le choix de s’engager juridiquement dans le cadre d’une SENC plutôt que d’une société par actions, un tel choix devient incompatible avec le contrat de travail, défini à l’article 2085 CcQ comme étant « celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur ».
+[32] Ainsi, les appelantes ne peuvent s’appuyer sur l’arrêt Acier Inoxydable Fafard Inc., précité, pour soutenir qu’elles pouvaient être engagées, par la SENC dont elles étaient des associées, en vertu d’un contrat de travail qui les rendrait assurables.
+[33] Par ailleurs, la question se pose de savoir si les associé(e)s ont réellement constitué une SENC, ou si, comme les appelantes le prétendent, l’intention réelle était de constituer un OSBL ou une coopérative pour lequel ou laquelle elles ont rendu des services dans le cadre d’un contrat de travail. Si tel était le cas, est-ce que le fait pour le payeur d’être enregistré au REQ comme une SENC crée une présomption irréfragable, aux termes de l’article 2195 CcQ et de l’article 98 Lpl, sur laquelle l’intimé peut se fonder?
+[34] À mon avis, l’inscription au REQ d’une SENC, indiquant incidemment les appelantes comme des associées, bien qu’un indice dans ce sens, n’est pas nécessairement déterminante si la preuve est faite qu’il n’existait pas de SENC sous une forme juridique réelle. En effet, il est toujours possible de rectifier des documents constatés par un agent public, des documents sous seing privé ou des formulaires fiscaux s’ils ne sont pas conformes à l’accord initial. Une telle demande ne cause pas de préjudice au ministre, qui n’a pas de « droit » à faire valoir aux conséquences fiscales des erreurs qui ont été commises (Riopel c. Agence du revenu du Canada, 2011 QCCA 954, par. 25, demande d’autorisation d’appel accordée, 2011 CSCR, no 356). Qui plus est, la Cour suprême du Canada dans l’arrêt Shell Canada, précité, invoqué par l’intimé, a aussi accepté que des rapports juridiques fassent l’objet d’une nouvelle qualification « lorsque la désignation de l’opération par le contribuable ne reflète pas convenablement ses effets juridiques véritables » (par. 39).
+[35] Par ailleurs, notre cour a déjà décidé que la présomption de l’article 98 Lpl (anciennement l’article 62 de la Loi sur la publicité légale des entreprises individuelles, des sociétés et des personnes morales, L.R.Q., ch. P-45) est réfutable (Miklosi (Succession de) c. La Reine, 2004 CCI 253, au par. 24; Sandhu c. La Reine, 2009 CCI 175, au par. 47). Ces dernières décisions ont été rendues alors que la Cour devait déterminer si des contribuables dont le nom apparaissait au REQ comme des administrateurs de leurs sociétés étaient, dans les faits, réellement des administrateurs dans le contexte de la responsabilité des administrateurs pour des dettes fiscales de ces sociétés. Ceci peut s’expliquer du fait que les administrateurs ne sont pas eux-mêmes responsables des inscriptions erronées au REQ puisqu’il revient à la société de faire ces inscriptions. Peut-on en dire autant des associés d’une SENC, celle-ci n’ayant pas de personnalité juridique distincte?
+[36] À tout évènement, j’estime qu’il revient aux appelantes, lesquelles sont désignées comme des associées au REQ, de prouver que non seulement elle n’étaient pas des associées mais également que le payeur n’était pas dans les faits une SENC, mais plutôt un OSBL régi par la partie III de la LCQ ou une coopérative.
+[37] Tel que l’a énoncé la Cour suprême du Canada dans l’arrêt Backman, précité, au par. 17, l’analyse du statut juridique d’une entité doit se faire selon le droit provincial où l’entité a été créée. Ainsi, la détermination du statut juridique du payeur doit être précédée d’un examen des différentes règles prévues par le droit québécois.
+[38] Ce sont les articles 2186 et suivants du CcQ qui régissent la constitution des sociétés dans la province de Québec. Les articles pertinents se lisent comme suit :
+2186. Le contrat de société est celui par lequel les parties conviennent, dans un esprit de collaboration, d'exercer une activité, incluant celle d'exploiter une entreprise, d'y contribuer par la mise en commun de biens, de connaissances ou d'activités et de partager entre elles les bénéfices pécuniaires qui en résultent.
+Le contrat d'association est celui par lequel les parties conviennent de poursuivre un but commun autre que la réalisation de bénéfices pécuniaires à partager entre les membres de l'association.
+2187. La société ou l'association est formée dès la conclusion du contrat, si une autre époque n'y est indiquée.
+2188. La société est en nom collectif, en commandite ou en participation.
+Elle peut être aussi par actions; dans ce cas, elle est une personne morale.
+2189. La société en nom collectif ou en commandite est formée sous un nom commun aux associés.
+Elle doit produire une déclaration d'immatriculation conformément à la Loi sur la publicité légale des entreprises (chapitre P-44.1); à défaut de le faire, elle est réputée être une société en participation, sous réserve des droits des tiers de bonne foi.
+[…]
+2191. Lorsque la société constate ou est informée que sa déclaration d'immatriculation est incomplète, inexacte ou irrégulière, celle-ci peut être corrigée par une déclaration de mise à jour produite conformément à la Loi sur la publicité légale des entreprises (chapitre P-44.1).
+2192. La correction qui porterait atteinte aux droits des associés ou des tiers est sans effet à leur égard, à moins qu’ils n’y aient consenti ou que le tribunal n’ait ordonné la production de la déclaration, après avoir entendu les intéressés et modifié, au besoin, la déclaration proposée.
+2193. La correction est réputée faire partie de la déclaration d’immatriculation et avoir pris effet au même moment, à moins qu’une date ultérieure ne soit prévue à la déclaration de mise à jour ou au jugement.
+2194. Tout changement apporté au contenu de la déclaration d'immatriculation de la société doit faire l'objet d'une mise à jour conformément à la Loi sur la publicité légale des entreprises (chapitre P-44.1).
+2195. Les déclarations relatives à la société sont opposables aux tiers à compter du moment où les informations qu’elles contiennent sont inscrites au registre des entreprises. Elles font preuve de leur contenu en faveur des tiers de bonne foi.
+Les tiers peuvent contredire les mentions d'une déclaration par tous moyens.
+2196. Si la déclaration d'immatriculation de la société est incomplète, inexacte ou irrégulière ou si, malgré un changement intervenu dans la société, la mise à jour n'est pas faite, les associés sont responsables, envers les tiers, des obligations de la société qui en résultent; cependant, les commanditaires qui ne sont pas par ailleurs tenus des obligations de la société n'encourent pas cette responsabilité.
+[39] La constitution d’une société exige le respect de trois conditions essentielles : 1) l’esprit de collaboration démontrant une intention commune de former une société; 2) l’apport : une contribution par la mise en commun de biens, de connaissances ou d’activités; 3) le partage des bénéfices pécuniaires résultant de la mise en commun (Cimon c. Arès, 2005 QCCA 9 (CanLII), par. 50 à 52).
+[40] Dans Backman, précité, la Cour suprême du Canada a spécifié au paragraphe 25 que :
+[…] pour statuer sur l’existence d’une société de personnes, les tribunaux doivent se demander si la preuve documentaire objective et les circonstances de l’affaire, notamment les actes concrets des parties, sont compatibles avec l’existence d’une intention subjective d’exploiter une entreprise en commun dans le but de réaliser un bénéfice.
+[41] Dans le cas présent, en ce qui concerne l’esprit de collaboration ou l’intention commune de former une société, outre la déclaration d’immatriculation au REQ, l’état des revenus et dépenses et les procès-verbaux des assemblées du CA auxquelles participaient les appelantes, qui ont été déposés en preuve, sont tous autant d’indices d’une preuve documentaire objective et d’actes concrets établissant que le payeur se présentait publiquement comme une SENC et que les appelantes s’affichaient comme des associées. Même si les appelantes s’absentaient des réunions du CA lorsqu’il était temps de discuter de leur rémunération, on peut présumer qu’elles participaient aux autres décisions financières du payeur. Il est clair également que la création de ce qui a été qualifié comme une SENC, avait été faite dans le but d’exercer une activité commune, soit l’exploitation et la préservation d’un camping sauvage. Le contrat donnant naissance à une société ne doit pas nécessairement être écrit. Il peut être oral. Ce qui importe c’est l’intention commune d’être en société, l’esprit de collaboration (voir Audet, Daigle, Daoust & Associés c. Lessard et Doyon, 2006 QCCS 990, par. 35 à 38).
+[42] Quant aux apports, les deux appelantes travaillaient 44 heures par semaine contre une rémunération au salaire minimum pendant les périodes estivales, et elles participaient aux réunions du CA bénévolement, donnant ainsi de leur temps et de leurs connaissances à cet organisme.
+[43] Pour ce qui est du partage des bénéfices pécuniaires résultant de la mise en commun, il ne semblait pas y avoir de plan d’entreprise susceptible de générer des bénéfices dans l’avenir. Les trois témoins ont par ailleurs soutenu qu’ils s’étaient investis dans cette aventure dans le seul but de préserver un patrimoine. Il ressort de leurs témoignages que les maigres bénéfices, s’il y en avait, servaient à éponger les déficits antérieurs et non à être redistribués entre eux. Monsieur Fernando Lavoie a mentionné, toutefois, qu’il avait déclaré dans sa déclaration de revenus pour l’année 2011 un profit, en tant qu’associé, de 500 $ généré cette année-là par une subvention spéciale octroyée pour la construction d’une passerelle. La preuve ne dit pas si les appelantes ont elles aussi déclaré un tel montant comme participation aux bénéfices du payeur.
+[44] Une société est formée dans le but de faire des profits qui constituent le bénéfice commun pour être distribué aux associés, selon leur part respective (Cimon c. Arès, précité, au par. 66). Il s’agit là d’un élément essentiel à l’existence de la société. Un objectif accessoire visant la réalisation d’un bénéfice est par ailleurs suffisant (Backman, précité, par. 23).
+[45] Compte tenu de l’ensemble de la preuve, il n’est pas clair que les associés comprenaient bien qu’ils constituaient une SENC et qu’ils désiraient réellement constituer une SENC. Un élément m’apparaît ressortir par ailleurs, c’est qu’on n’avait pas nécessairement en tête de réaliser des profits dans le but de les redistribuer aux associés.
+[46] Toutefois, malgré l’absence d’intention prédominante de réaliser un bénéfice, le fait que monsieur Fernando ait reconnu avoir inclus dans son revenu un léger bénéfice en 2011 peut constituer, selon moi, un indice de l’existence d’un objectif accessoire. Dans ce contexte et compte tenu des autres éléments de preuve, incluant la déclaration d’immatriculation, militant en faveur de l’existence d’une SENC, je considère que les appelantes n’ont pas réussi à me démontrer l’inexistence d’une SENC, dont elles n’auraient pas été des associées.
+[47] Une autre possibilité, c’est qu’on pourrait penser que le payeur était constitué plutôt comme une association au sens de l’article 2186 CcQ, dont les membres étaient les personnes inscrites au REQ, incluant les appelantes au cours des périodes en litige. Un contrat d’association est celui par lequel les parties conviennent de poursuivre un but commun autre que la réalisation de bénéfices pécuniaires à partager entre les membres de l’association. Toutefois, tel qu’il est mentionné à la page 1376 du tome 2 des commentaires du ministre de la Justice, la loi n’accorde pas la personnalité morale aux associations. Il s’ensuit, en vertu de l’article 298 CcQ, a contrario, que l’association ne possède pas une personnalité juridique entière et distincte de celle de ses membres[3]. Dans ce contexte et compte tenu des principes énoncés dans l’arrêt Charron c. Drolet, précité, et dans la décision Blais c. La Reine, précitée, par. 30, la structure juridique d’une association de membres, qui n’est pas une personne morale distincte, n’est pas plus compatible que ne l’est la SENC avec le contrat de travail, défini à l’article 2085 CcQ, par lequel le salarié doit effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur, lequel ici serait une association constituée de membres, dont les appelantes.
+[48] Finalement, les appelantes ont mentionné que, dans les faits, elles travaillaient pour un OSBL. C’est la partie III de la LCQ qui régit la constitution de ces organismes en société sans but lucratif. Une condition prédominante de la création d’un tel organisme est la délivrance de lettres patentes par le registraire des entreprises du Québec (registraire). Afin de les obtenir, il faut en faire la demande au registraire par voie de requête, en suivant de nombreuses formalités prévues par la LCQ, à son article 219 :
+1. Les requérants doivent être âgés d'au moins 18 ans; ils déposent chez le registraire des entreprises une requête contenant les déclarations suivantes:
+a) le nom projeté de la personne morale;
+b) le ou les objets pour lesquels la constitution en personne morale est demandée;
+c) le lieu, au Québec, où sera établi le siège de la personne morale;
+d) le montant auquel sont limités les biens immobiliers ou les revenus en provenant, que peut acquérir et posséder la personne morale;
+e) le nom, en toutes lettres, ainsi que l'adresse et la profession ou l'occupation de chacun des requérants avec mention spéciale des noms d'au moins trois d'entre eux qui doivent être les premiers administrateurs ou administrateurs provisoires de la personne morale.
+2. La requête et un mémoire des conventions sont rédigés sur une formule fournie à cette fin ou autorisée par le registraire des entreprises.
+3. La requête doit également être accompagnée d'un rapport de recherche des noms utilisés et déclarés au registre de toute personne, société ou de tout groupement.
+[49] Ce n’est qu’à compter de la date des lettres patentes que la société sans but lucratif prend naissance. En l’absence de telles lettres patentes, il est donc impossible de conclure, rétroactivement, à la constitution du payeur en société sans but lucratif.
+[50] Les appelantes ont également soulevé la possibilité que le payeur puisse être une coopérative. Une entité ne saura être qualifiée de coopérative que si les conditions prévues aux articles 3 et 4 de la Loi sur les coopératives, L.R.Q., ch. C‑67.2, sont respectées. Ces dispositions se lisent comme suit :
+3. Une coopérative est une personne morale regroupant des personnes ou sociétés qui ont des besoins économiques, sociaux ou culturels communs et qui, en vue de les satisfaire, s'associent pour exploiter une entreprise conformément aux règles d'action coopérative.
+4. Les règles d'action coopérative sont les suivantes:
+1° l'adhésion d'un membre à la coopérative est subordonnée à l'utilisation réelle par le membre lui-même des services offerts par la coopérative et à la possibilité pour la coopérative de les lui fournir;
+2° le membre n'a droit qu'à une seule voix, quel que soit le nombre de parts qu'il détient, et il ne peut voter par procuration;
+3° le paiement d'un intérêt sur le capital social doit être limité;
+4° l'obligation de constituer une réserve;
+5° l'affectation des trop-perçus ou excédents à la réserve et à l'attribution de ristournes aux membres au prorata des opérations effectuées entre chacun d'eux et la coopérative ou à d'autres objets accessoires prévus par la loi;
+6° la promotion de la coopération entre ses membres, entre ses membres et la coopérative et entre celle-ci et d'autres organismes coopératifs;
+7° la formation des membres, administrateurs, dirigeants et employés en matière de coopération et l'information du public sur la nature et les avantages de la coopération;
+8° le soutien au développement de son milieu.
+[Je souligne.]
+[51] Aucune preuve n’a été faite à cet égard et il est donc impossible de conclure que l’organisme pour lequel travaillaient les appelantes possédait le statut juridique d’une coopérative.
+[52] J’estime que les appelantes n’ont pas fait la démonstration que le payeur n’avait pas le statut juridique d’une SENC ou d’une association dont elles étaient associées ou membres. En conséquence, je considère que, pendant les périodes en litige, les appelantes en tant qu’associées ou membres du payeur ne pouvaient pas occuper un emploi assurable.
+[53] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 23e jour d’octobre 2012.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2012 CCI 374
+Nº Des DOSSIERS DE LA COUR : 2012-837(EI) et 2012-840(EI)
+INTITULÉ DE LA CAUSE : FRANCE MARTEL c. LE Ministre du revenu national
+CATHY LAVOIE c. LE ministre du revenu national
+LIEU DE L’AUDIENCE : Chicoutimi (Québec)
+DATE DE L’AUDIENCE : Le 18 juillet 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 23 octobre 2012
+COMPARUTIONS :
+Représentant des appelantes :
+Sylvain Bergeron
+Avocat de l'intimé :
+Me Simon Vincent
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les faits sont les mêmes dans la Réponse à l'avis d'appel de Cathy Lavoie (par. 5), avec les adaptations nécessaires.
+[2] André Poupart, dir., Le défi du droit nouveau pour les professionnels : Le Code civil du Québec et la réforme du Code des professions, Les Journées Maximilien-Caron 1994, Montréal, Les Éditions Thémis, 2005.
+[3] Voir R. c. Café Rencontre du Quartier, [2004] J.Q. no 17535 (QL), au par. 12. Voir aussi Hélène Lauzier inc. (Re/Max Fortin, Delage H.L.) c. Nadeau, [1998] J.Q. no 770 (QL), au par. 29.
+L’article 298 du CcQ se lit comme suit :
+298. Les personnes morales ont la personnalité juridique.
+Elles sont de droit public ou de droit privé.

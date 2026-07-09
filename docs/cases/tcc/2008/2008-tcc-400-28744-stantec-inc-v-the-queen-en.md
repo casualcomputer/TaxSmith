@@ -1,0 +1,211 @@
+---
+title: "Stantec Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28744/index.do"
+last_modified: "2008-06-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 400"
+citation2: ""
+neutral_citation: "2008 TCC 400"
+decision_date: "2008-06-30"
+language: "en"
+item_id: "28744"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1498
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:02:40.254000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b4709fcd931c0390bf64cef013f4b1625aa54bd139ceb97ec46e230854086993"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stantec Inc. v. The Queen
+
+- Citation: 2008 TCC 400
+- Decision date: 2008-06-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1498, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stantec Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-30
+Neutral citation
+2008 TCC 400
+File numbers
+2007-2555(GST)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-2555(GST)I
+BETWEEN:
+STANTEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 9, 2008, at Edmonton, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Shayne Saskiw and
+James Yaskowich
+Counsel for the Respondent:
+David Besler
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments and an assessment made under the Excise Tax Act, as follows:
+(a) Reassessment dated February 21, 2007, bearing number 10BT-GB0617-7164-1090 for the period July 2, 2005 to August 5, 2005,
+(b) Reassessment dated February 21, 2007, bearing number 10BT-GB0617-7164-2416 for the period September 3, 2005 to September 30, 2005;
+(c) Reassessment dated February 21, 2007, bearing number 10BT-GB0617-7164-3167, for the period November 5, 2005 to December 2, 2005; and
+(d) Assessment dated March 29, 2006, for the period December 3, 2005 to December 31, 2005;
+are allowed, and the matters are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to input tax credits related to the listing of the Appellant’s shares on the New York Stock Change.
+Signed at Ottawa, Canada, this 30th day of June 2008.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2008 TCC 400
+Date: 20080630
+Docket: 2007-2555(GST)I
+BETWEEN:
+STANTEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Stantec Inc. (“Stantec”) is a Canadian public company, a holding corporation with a network of subsidiary companies in Canada and the United States. It is a registrant for GST purposes. As part of a merger in 2005 of one of its wholly‑owned subsidiaries, Stantec Consulting California Inc., with a California company, Keith Companies Inc., it incurred significant costs in Canada for professional services required to obtain a listing of its shares on the New York Stock Exchange. It was a condition of the transaction with Keith Companies that Stantec be listed on a United States Exchange. Stantec paid GST on the professional listing services and sought to claim input tax credits in connection therewith. The Minister of National Revenue denied the input tax credits and argued:
+(i) Input tax credits cannot be claimed pursuant to section 169 of the Excise Tax Act (the “Act”) as Stantec had no commercial activity and made no taxable supplies on which it would charge GST.
+(ii) Subsections 186(1) and (2) of the Act do not apply to the merger transaction to deem Stantec to have acquired the listing services in the course of its commercial activities.
+[2] Stantec’s position is that:
+(i) It did acquire the listing services for use in its commercial activity of holding operating companies to obtain dividend and interest income, and, even if the listing services were used in relation to the supply of Stantec’s own shares, that supply was a zero-rated taxable supply, not an exempt supply, and consequently the services were for use in commercial activity, as defined in the Act.
+(ii) It falls squarely within the deeming provisions of subsection 186(1) or subsection 186(2) of the Act, which relate specifically to holding companies.
+Facts
+[3] I heard evidence from Stantec’s Vice-President of Practice and Risk Management, Mr. Alpern, and Stantec’s Manager of Investor Relations, Mr. Stelfox. Stantec is a holding corporation with several subsidiaries engaged in the business of consulting engineering, architecture and interior design. The network of Stantec companies employs approximately 9,000 people throughout Canada and the United States, although Stantec itself only has two or three employees. For the past 10 years, Stantec’s corporate objective has been to grow principally by way of acquisition of subsidiary companies. Its three main subsidiaries are Stantec Consulting (in Canada), Stantec Consulting Services Inc. (in eastern United States) and Stantec Consulting Inc. (in western United States).
+[4] Stantec became interested in Keith Companies and started discussions with them in 2003, but it was not until early 2005 that they took concrete steps towards a deal. Stantec perceived there was a good fit with Keith Companies given the latter’s focus on urban land projects and water and waste water remediation. Keith Companies has a large western U.S. presence. Keith Companies was not the first United States acquisition: from 1997 to 2001, Stantec had made 14 United States’ acquisitions, though Keith Companies would have been the largest to that point.
+[5] Stantec set up a wholly-owned California subsidiary company, Stantec Consulting California Inc., with the plan to merge that company with Keith Companies. The total merger consideration was over $90 million. Stantec and Keith Companies entered into an Agreement and Plan of Merger and Reorganization dated as of April 14, 2005. It is helpful to produce certain parts of that Agreement:
+SECTION 7.03. Conditions to the Obligations of the Company. The obligations of the Company to consummate the Merger are subject to the satisfaction or waiver (where permissible) of the following additional conditions:
+…
+(f) U.S. Exchange Listing. The shares of Parent Common Stock to be issued in the Merger shall have been authorized for listing or quotation, as the case may be, on the U.S. Exchange, subject to official notice of issuance.
+[6] In a Proxy Statement/Prospectus of August 17, 2005, the merger was summarized as follows:
+The Merger
+We are proposing a merger of Keith and Stantec Consulting, a wholly-owned subsidiary of Stantec. Following completion of the merger, Stantec Consulting will continue as the surviving corporation of the merger and as a wholly-owned subsidiary of Stantec. After the merger, Keith’s existing shareholders will own approximately 17% of the outstanding Stantec common shares (based on 18,937,019 Stantec common shares outstanding as of April 13, 2005).
+Pursuant to the merger agreement attached as Appendix A to this proxy statement/prospectus, each share of Keith common stock will be exchanged for merger consideration equal to: (1) US$11.00 in cash, (2) 0.23 common shares of Stantec and (3) that number of Stantec common shares equal to US$5.50, based on the 20-day average trading price of Stantec common shares prior to the merger. Based on the closing sale price of Stantec common shares and the U.S. dollar‑Canadian dollar exchange rate as of August 15, 2005, 0.23 Stantec common shares had a value of approximately US$7.38 and US$5.50 equaled approximately 0.17 Stantec common shares.
+Holders of Keith common stock will have the right to elect to receive their merger consideration in the form of (A) a mixture of cash and Stantec common shares, as described above, (B) all Stantec common shares or (C) all cash, subject in the case of (B) and (C) to pro rata adjustment if the amount of Stantec common shares or cash is oversubscribed. Based on the closing sale price of Stantec common shares and the U.S. dollar-Canadian dollar exchange rate as of August 15, 2005, for each share of Keith common stock a holder who elects to receive (A) a mix of cash and Stantec common shares will receive US$11.00 and approximately 0.40 Stantec common shares, (B) all Stantec common shares will receive approximately 0.74 Stantec common shares and (C) all cash will receive approximately US$23.88, subject to pro rata adjustment in the case of (B) and (C).
+If the merger will not qualify as a tax-free reorganization under the provisions of Section 368(a) of the Code, Stantec has the option, at its sole discretion, to complete the merger by paying cash merger consideration of US$22.00 per share of Keith common stock rather than the merger consideration described above. In such circumstances, you would receive US$22.00 in cash for each and every share of Keith common stock you own. In the event that Stantec exercises this option, Keith and Stantec will recirculate a revised proxy statement/prospectus and resolicit the vote of Keith shareholders to approve the merger. If the merger does not qualify as a tax-free reorganization and Stantec does not exercise its option to pay all cash, Keith will not be obligated to consummate the merger. Furthermore, in such situation, Stantec and Keith will not consummate the merger without recirculating a revised proxy statement/prospectus and resoliciting the vote of Keith shareholders to approve the merger.
+[7] Mr. Alpern was clear that had Stantec not taken steps to list with the New York Stock Exhange, the merger transaction would not have proceeded. Mr. Stelfox indicated that Keith Companies’ shareholders wanted access to a U.S. exchange. Until Keith Companies’ deal came along, Stantec had no plans to list in the United States as, according to Mr. Alpern, it did not make any economic sense to do so. Investors continued to rely most heavily on the Toronto Stock Exchange, rather than the New York Stock Exchange. Stantec did take steps to list on the New York Stock Exchange which it achieved on August 5, 2005. It incurred costs for the professional services in Canada to obtain that listing and the SEC registration. It paid GST of $58,735.83 in connection with such professional listing services.
+Issue
+[8] Is Stantec entitled to input tax credits of $58,735.83?
+Analysis
+[9] Subsections 186(1) and (2) are provisions which recognize the unique situation of a holding company and deem, in certain circumstances, that a holding company is engaged in commercial activities.
+[10] Subsection 186(1) reads as follows:
+186(1) Where
+(a) a registrant (in this subsection referred to as the “parent”) that is a corporation resident in Canada at any time acquires, imports or brings into a participating province particular property or a service that can reasonably be regarded as having been so acquired, imported or brought into the province for consumption or use in relation to shares of the capital stock, or indebtedness, of another corporation that is at that time related to the parent, and
+(b) at the time that tax in respect of the acquisition, importation or bringing in becomes payable, or is paid without having become payable, by the parent, all or substantially all of the property of the other corporation is property that was last acquired or imported by the other corporation for consumption, use or supply by the other corporation exclusively in the course of its commercial activities,
+except where subsection (2) applies, for the purpose of determining an input tax credit of the parent, the parent is deemed to have acquired or imported the particular property or service or brought it into the participating province, as the case may be, for use in the course of commercial activities of the parent to the extent that the parent can reasonably be regarded as having so acquired or imported the particular property or service, or as having so brought it into the province, for consumption or use in relation to the shares or indebtedness.
+[11] To qualify for input tax credits pursuant to this section, Stantec must prove the following:
+(i) It was a registrant, resident in Canada.
+(ii) Keith Companies or Stantec California were involved wholly in commercial activity.
+(iii) Stantec and Keith Companies or Stantec and Stantec California were related at the time of obtaining the professional listing services.
+(iv) The professional listing services to obtain the New York Stock Exchange listing were “in relation to” Keith Companies shares or Stantec California shares.
+[12] There is no dispute that Stantec meets the first two conditions. Also, the Respondent did not argue that Stantec and Keith Companies were not related nor that Stantec and Stantec California were not related at the time the services were acquired. Clearly, Stantec and Stantec California were related. I also accept the Appellant’s argument that on and after the April 14, 2005 agreement, Stantec and Keith Companies were also related by virtue of the application of subsection 126(2) of the Act and paragraph 251(5)(b) of the Income Tax Act.
+[13] That leaves then for consideration the fourth prerequisite for the application of subsection 186(1) – can the listing services reasonably be regarded as having been acquired for use “in relation to” Keith Companies shares or Stantec California shares?
+[14] “Reasonably regarded in relation to” is an expression of the widest possible import. The Supreme Court of Canada addressed the phrase “in relation to” in Slattery (Trustee of) v. Slattery[1] suggesting it implies a wide, rather than narrow, view in connecting two matters. When this expansive approach has a lead-in with the words “reasonably regarded”, I reach the inevitable conclusion that it should not take very much to draw a nexus between acquiring the listing services and the shares of either Keith Companies or Stantec California.
+[15] There is no question there is a strong nexus between the listing services and the Stantec shares – they were the very shares listed, but the connection need not be one of a primary nor substantial nor directly related nature. The concept of “in relation to” is not one of prominence let alone exclusivity.
+[16] The facts are quite clear – the listing services were acquired so that Stantec could complete its deal to own all the shares of the company resulting from the merger of Keith Companies and Stantec California. Those services, I find, can readily and reasonably be regarded as being in relation to the shares of either Keith Companies or Stantec California or the shares of the merged company; that is, the investment by Stantec in its new acquisition.
+[17] The Respondent relies on Policy Statement P-196R, which describes the example of a parent company owning 51% of a subsidiary, raising money by the issuance of its own shares so that it can finance the acquisition of additional subsidiary company shares. The Government would not apply subsection 186(1) to allow the input tax credits relating to the professional services in issuing the shares, as the parent company cannot reasonably be regarded as acquiring the services for use in relation to the operating company shares. The Government contends raising funds by issuing shares is one step removed from obtaining more operating company shares. I see no support for this one step removed doctrine. Policy P‑196R allows the application of subsection 186(1) if the holding company incurs costs to simply buy an operating company shares, without raising money by issuing its own shares. I fail to see how one acquisition is in relation to the subsidiary company shares and the other is not. I am not persuaded by Policy P‑196R. I find that subsection 186(1) does apply to the situation before me.
+[18] While this is sufficient to allow Stantec’s appeal, I also find subsection 186(2) applies. It reads:
+186(2) For the purposes of this Part, if
+(a) a registrant that is a corporation resident in Canada (in this subsection referred to as the “purchaser”) acquires, imports or brings into a participating province a particular property or service relating to the acquisition or proposed acquisition by it of all or substantially all of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of another corporation, and
+(b) throughout the period beginning when the performance of the particular service began or when the purchaser acquired, imported or brought into the participating province, as the case may be, the particular property and ending at the later of the times referred to in paragraph (c), all or substantially all of the property of the other corporation was property that was acquired or imported for consumption, use or supply exclusively in the course of commercial activities,
+the particular property or service is deemed to have been acquired, imported or brought into the participating province for use exclusively in the course of commercial activities of the purchaser and, for the purpose of claiming an input tax credit, any tax in respect of the supply of the particular property or service to the purchaser, or the importation or bringing in of the particular property by the purchaser, is deemed to have become payable and been paid by the purchaser on the later of
+(c) the later of the day the purchaser acquired all or substantially all of the shares and the day the intention to acquire the shares was abandoned, and
+(d) the day the tax became payable or was paid by the purchaser.
+[19] The Government’s December 1999 Technical notes describe the purpose of this provision as follows:
+Subsection 186(2) applies in situations where a corporation acquires or proposes to acquire all or substantially all of the voting shares of the capital stock of another corporation that engaged exclusively in commercial activities. In this case, the purchasing corporation is allowed to claim input tax credits for property and services it acquires in relation to the takeover or proposed takeover.
+[20] To qualify for input tax credits pursuant to this section, Stantec must show that:
+(i) Stantec is a registrant corporation resident in Canada.
+(ii) Stantec must propose to acquire or acquire substantially all of the voting shares of the target company, Keith Companies.
+(iii) Substantially all of Keith Companies’ property must be used exclusively in commercial activities.
+(iv) The listing services must relate to the acquisition of substantially all of Keith Companies shares.
+There is no dispute with respect to the first and third conditions.
+[21] The first argument the Respondent raises, in denying the application of subsection 186(2), is that the merger transaction did not constitute an “acquisition” of Keith Companies shares for the purposes of subsection 186(2), as there was no actual acquisition of those shares. The Respondent is giving a far too restricted meaning to “acquisition” of shares.
+[22] In the Government Memoranda Series, Chapter 8.1, the term “acquire” is defined as follows:
+The word “acquire” is not defined in the Act. The ordinary dictionary definition of the term “acquire” is to get, obtain, have control over or possess. With respect to property, relevant case law indicates that property is acquired by obtaining ownership or such normal aspects of ownership as possession, use or risk.
+[23] Did Stantec acquire Keith Companies? Certainly that is what the representatives of Stantec believed they were doing, as was clear from Mr. Alpern’s and Mr. Stelfox’s testimony and the merger agreement itself. Stantec paid consideration of over $90 million in cash and shares to end up with 100% control of the merged company that resulted from the merger of Keith Companies and Stantec California, already owned 100% by Stantec. As part of the merger transaction, all Keith Companies shares were cancelled. It appears that under the California Corporations Code, only one of the predecessor corporations continues as the surviving corporation, but that surviving corporation has all the assets and liabilities of both predecessors. Stantec has acquired Keith Companies, on any interpretation of the word “acquired”.
+[24] The Respondent argues that this is not the acquisition of Keith Companies shares, yet pursuant to the Merger Agreement, those Keith Companies shares evolve into a right to receive Stantec’s shares or shares and cash. Stantec is paying to get something, and that something is the cancellation of Keith Companies shares and ownership of all the shares of the merged company. Effectively, it gets full ownership of Keith Companies. It does so by contractually having control of the disposition of those shares in the form of their cancellation. As Stantec already owned all of the shares of one predecessor company, it is obtaining, by this transaction, 100% of the right to control the other predecessor, now continued as the newly merged company.
+[25] Subsection 186(2) is aimed at takeovers. This was a takeover. The denial of the application of this section due to some peculiarities in California corporate law and an overly rigid approach to the concept of acquisition of shares, defeats the essence of subsection 186(2). I find that Stantec, in contracting for the cancellation of Keith Companies shares and in owning all of the shares of the merged company, has for the purposes of subsection 186(2) effectively acquired all of Keith Companies shares.
+[26] The Respondent then goes on to argue that the listing services do not relate to the acquisition. I rely on the same reasons I gave in connection with subsection 186(1) to find there is sufficient connection between the listing services and the acquisition of Keith Companies to constitute the one “relating to” the other. I conclude the circumstances of Stantec’s takeover of Keith Companies falls squarely within subsection 186(2).
+[27] The application of subsections 186(1) and (2) is sufficient to find in favour of Stantec and allow the input tax credits. Stantec, however, relied on the general application of section 169 and the definition of “commercial activity” as its main argument for getting the input tax credits, without having to resort to subsections 186(1) and (2). For that reason, I will briefly address their argument.
+[28] The difficulty in applying section 169 to a holding corporation is that the corporation does not carry on a business of making supplies. The Respondent suggests that this alone may be sufficient to deny Stantec the input tax credits. The Respondent then goes on to argue that the only supply Stantec made was the supply of its own shares, which the Respondent mistakenly suggests was an exempt supply, and thus does not constitute commercial activity. While the Respondent did not raise section 141.01 of the Act in argument, it was raised in the Reply to the Notice of Appeal: I presume the Respondent’s argument is based on the application of section 141.01.
+[29] To claim input tax credits pursuant to section 169, Stantec must have acquired the listing services for use in the course of commercial activities. Commercial activities is defined broadly as:
+“Commercial activity" of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+“Business” is defined as:
+"business" includes a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit, and any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, licence or similar arrangement, but does not include an office or employment;
+[30] As was clear from the approach of the Federal Court of Appeal in London Life Insurance Co. v. Canada,[2] a company whose business was making exempt supplies, could still be found to engage in commercial activity with respect to a particular transaction (in that case by making leasehold improvements). As I indicated in the case of BJ Services Co. Canada v. R.[3], the definition of commercial activity is wide. The only activities that would take a corporation’s activities outside the realm of commercial activity would be activities of a personal nature or the making of exempt supplies. Stantec, in acquiring Keith Companies by way of merger, was neither engaged in activity of a personal nature, nor engaged in making exempt supplies. The supply of its own shares to the American shareholders of Keith Companies, as part of the transaction, was a zero-rated taxable supply. See section 10.1 of Schedule VI, Part V of the Act which reads as follows:
+10.1 A supply of intangible personal property made to a non-resident person who is not registered under Subdivision d of Division V of Part IX of the Act at the time the supply is made, but not including
+(a) a supply made to an individual unless the individual is outside Canada at that time;
+(b) a supply of intangible personal property that relates to
+(i) real property situated in Canada,
+(ii) tangible personal property ordinarily situated in Canada, or
+(iii) a service the supply of which is made in Canada and is not a zero‑rated supply described by any section of this Part or Part VII or IX;
+(c) a supply that is the making available of a telecommunications facility that is intangible personal property for use in providing a service described in paragraph (a) of the definition “telecommunication service” in subsection 123(1) of the Act;
+(d) a supply of intangible personal property that may only be used in Canada; or
+(e) a prescribed supply.
+Section 141.01 of the Act would therefore not come into play to restrict any input tax credits.
+[31] Were the listing services acquired to be used in the acquisition by merger? As is clear from my comments in connection with subsections 186(1) and (2), I am satisfied the listing services were clearly for the purpose of cementing the takeover of Keith Companies. I conclude, with respect to the merger transaction, that the listing services were acquired for use in commercial activity as the transaction involved no exempt supply and was not of a personal nature.
+[32] A more interesting question arises if I had determined that the listing services were not in relation to the takeover but were for a greater, longer term benefit to Stantec and its shareholders of obtaining a New York Stock Exchange listing, I would then have to address similar issues raised in BJ Services – for whose benefit (the company’s or the shareholders’) were the costs incurred? Does this alter the nature of the activity from a commercial one to a more personal one? While it is unnecessary to answer these issues given my conclusion in the preceding paragraph, the Appellant’s counsel did allude to them, suggesting the listing was central for Stantec to maintain and grow its value, notwithstanding the perceived, if not real, benefit to shareholders present and future. The Appellant concluded that, given the policy of maximizing shareholder value by acquiring operating subsidiaries, it cannot be said the purpose, benefit or context of the listing services could give rise to a personal benefit. This, however, is unlike the situation in BJ Services where that company’s business was the making of taxable supplies. How section 141.01 applies to a holding company not in the business of making supplies is a different question – one I need not grapple with for this decision.
+[33] The appeals are allowed and the matters are referred back to the Minister for reconsideration and reassessment on the basis that Stantec qualifies for the input tax credits pursuant to section 169, as the listing services were acquired for use in the course of Stantec’s commercial activities pursuant to the deeming provisions of subsections 186(1) or (2) of the Act, or in accordance with the general definition of commercial activities applied to the specific merger transaction.
+Signed at Ottawa, Canada, this 30th day of June 2008.
+"Campbell J. Miller "
+C. Miller J.
+CITATION: 2008 TCC 400
+COURT FILE NO.: 2007-2555(GST)I
+STYLE OF CAUSE: STANTEC INC. and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: May 9, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: June 30, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Shayne Saskiw and
+James Yaskowich
+Counsel for the Respondent:
+David Besler
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Shayne Saskiw and James Yaskowich
+Firm: Felesky Flynn LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1993] 3 S.C.R. 430.
+[2] [2000] F.C.J. No. 2121.
+[3] 2002 CarswellNat 3228.

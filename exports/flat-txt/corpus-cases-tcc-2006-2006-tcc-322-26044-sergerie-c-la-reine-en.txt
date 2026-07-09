@@ -1,0 +1,132 @@
+Title: Sergerie c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26044/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-322-26044-sergerie-c-la-reine-en.md
+Document type: case_law
+Last modified: 2006-06-09
+
+# Sergerie c. La Reine
+
+- Citation: 2006 TCC 322
+- Decision date: 2006-06-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4104, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sergerie c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-09
+Neutral citation
+2006 TCC 322
+File numbers
+2005-3075(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3075(IT)I
+BETWEEN:
+FÉLICIEN SERGERIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on May 11, 2006, at Matane, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+__________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2001 and 2002 taxation years is allowed and the penalties are cancelled, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of June 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 19th day of February 2008.
+Brian McCordick, Translator
+Citation: 2006TCC322
+Date: 20060609
+Docket: 2005-3075(IT)I
+BETWEEN:
+FÉLICIEN SERGERIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This appeal pertains to the 2000 and 2001 taxation years under the Income Tax Act ("the Act").
+[2] Essentially, the issue is the imposition of penalties under subsection 163(2) of the Act. The Court notified the Appellant at the outset that the Tax Court of Canada has no jurisdiction to review or cancel the interest claimed. As for the penalties, now the only point in issue, the Respondent called the auditor as a witness to explain the facts that caused her to impose the penalties set out in subsection 163(2) of the Act.
+[3] Those facts are as follows:
+[TRANSLATION]
+(a) The Appellant works alone in his business. He was the only person responsible for collecting money and depositing it at the bank. (admitted)
+(b) The Appellant signed all the income tax returns. (admitted)
+(c) For each of the years in issue, the Appellant failed to provide his representative with the sales figures of the car wash and the amounts for certain mechanical repairs that were not invoiced. (denied)
+(d) The unreported income represents 120% of reported income for the 2001 taxation year and 154% of reported income for the 2002 taxation year. (denied)
+(e) For each of the years in issue, the withdrawals made by the Appellant exceed the net income reported. (denied.)
+[4] The auditor stated that the Appellant's accounting was approximate and incomplete because there were no control measures and the figures were rather confusing and incomplete. However, she admitted that the Appellant cooperated during the audit. Thus, she had absolutely no problem with his attitude, or, in particular, getting answers to her questions.
+[5] The auditor's first observation was that the amounts deposited greatly exceeded the amounts attested to and supported by invoices. Based on this, she inferred that the deposits either consisted of uninvoiced sales, or revenue from the car wash operated by the Appellant on his garage’s property. Consequently, the auditor concluded that it was unreported income.
+[6] The second thing that the auditor did was to analyse the accounting clerk's work based on the documents that the Appellant remitted to the clerk. From the very outset, she noticed several inconsistencies, a lack of information and a total absence of control measures, which she felt would have been very important under the circumstances because the Appellant was the only person who did the buying and selling.
+[7] In other words, the Appellant was the only person through whom cash flowed in and out. He was generally the one who submitted the invoices and records, such as the deposit book and the purchase and sales invoices, to a person responsible for data entry. Then, at the end of the year, everything was submitted for the purpose of preparing the income tax return.
+[8] The auditor also stated that despite several attempts and initiatives to hold talks with the person responsible for closing the books, she never managed to speak with that person.
+[9] It is patently clear that the people mandated by the Appellant had neither the knowledge nor the skill to successfully complete the work that the Appellant entrusted to them.
+[10] Is this an acceptable excuse to avoid penalties? Is it sufficient to exonerate a person from any fault or negligence determined to exist in his or her case?
+[11] Individuals often entrust their tax work to persons who offer tax-related services. However, merely using such persons' services will not shield an individual from reassessment.
+[12] Consequently, upon entrusting a person with the important responsibility of managing all the data that will be needed in order ultimately to file one's annual tax returns, it is essential to make efforts to ensure that the person whose services one proposes to retain is competent.
+[13] This might initially appear to be exaggerated, and perhaps even unreasonable. However, the same principle applies to all activities of daily life. One does not entrust work to incompetent people, one does not have one's car repaired by unqualified mechanics, and so forth.
+[14] It is certainly commonplace to have to deal with people who claim to but do not have the requisite skill to perform work. Hence, constant vigilance is necessary. Moreover, given the complexity of certain tasks, it is not always possible to assess the skill of the agent, mandatary or professional whose services one has retained.
+[15] This makes it a delicate and difficult task to assess the liability of a person who has entrusted the performance of important work to someone who did not have the skills needed to perform the work in question.
+[16] The evidence in the case at bar disclosed that the Appellant is a mechanic who looked after the entire management of his business. He also operated a car wash, where essentially all transactions are necessarily done in cash. In fact, it is not possible to do otherwise.
+[17] The Appellant gave the accounting clerk all the documents, vouchers and other information that would enable the clerk to do the entries.
+[18] At the end of the year, all of these things were submitted to someone else who was responsible for completing the annual tax returns.
+[19] The auditor said that this person systematically refused to cooperate during the audit. On the other hand, she said that the Appellant cooperated fully, and that she had nothing to hold against him in this regard.
+[20] The Appellant's evidence essentially consists of his testimony. Based on that evidence, he is not a person who hides behind the fact that he entrusted his accounting and tax work to another person and feels that this should exonerate him from penalties.
+[21] During the audit, the Appellant realized that the people whose services he had retained were unable to perform the work correctly, and he immediately began to cooperate fully with the auditor so that she could do her work.
+[22] Is it possible that the Appellant, an intelligent, articulate man, did not realize that his business had generated considerably more taxable income than what was reported?
+[23] The answer might initially seem clear; however, the Appellant operated a business whose earnings fluctuated, and this required him to make numerous withdrawals. He explained that a significant portion of his withdrawals was often re‑deposited so that the business could meet its obligations.
+[24] As for the auditor, she acknowledged that the cash deposits were numerous, and assumed that they consisted of uninvoiced sales; however, it could quite conceivably have been car wash income. A person who is deliberately seeking to conceal income is generally more skilful and subtle. The Appellant affirmed that he submitted all the information to the persons he had tasked with managing the accounts of his business.
+[25] The burden of proof, which involves certain requirements, was on the Respondent, as stated in subsection 163(2) of the Act, which reads:
+163(2) False statements or omissions. Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+[26] I do not believe that the evidence has established on a balance of probabilities that the Appellant deliberately failed to report $18,083 in additional income for the 2001 taxation year and $21,142 in additional income for the 2002 taxation year.
+[27] This evidence certainly established the carelessness of the Appellant, who entrusted his affairs to people who clearly did not possess the requisite skills. The Appellant was unquestionably careless and even somewhat negligent when he retained the services of unqualified people, but is this sufficient to support a finding of gross negligence?
+[28] I would have answered in the affirmative if the evidence had shown genuine recklessness and blatant disregard upon choosing these persons.
+[29] If the Appellant had failed to cooperate or report his car wash income, or if the evidence had established wilful blindness on his part, the significance of the unreported amounts would properly have been a determinative factor warranting the imposition of the penalties.
+[30] The evidence essentially established that a significant amount of income was not reported; however, given the sums involved, a person who had no notion of accounting might not have been aware of the gap between his reported income and his actual income.
+[31] The Appellant's conduct was certainly not that of a prudent, vigilant individual who was beyond reproach. Nor, however, was it the conduct of a person who has done great wrong or a person who demonstrated recklessness or gross negligence in the performance of his obligations.
+[32] For these reasons, I allow the appeal and cancel the penalties imposed. The Court does not have jurisdiction to intervene with respect to interest.
+Signed at Ottawa, Canada, this 9th day of June 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 19th day of February 2008.
+Brian McCordick, Translator
+CITATION: 2006TCC322
+COURT FILE NO.: 2005-3075(IT)I
+STYLE OF CAUSE: Félicien Sergerie and Her Majesty the Queen
+PLACE OF HEARING: Matane, Quebec
+DATE OF HEARING: May 11, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: June 9, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

@@ -1,0 +1,153 @@
+---
+title: "XinconTechnology(Canada)Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28006/index.do"
+last_modified: "2003-06-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 448"
+citation2: ""
+neutral_citation: "2003 TCC 448"
+decision_date: "2003-06-30"
+language: "en"
+item_id: "28006"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1788
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:00:42.531000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b1e16e509cc0a2328a9a209ec3db30d0f37b3a3a9dd5a8d618ec7d2f5140becd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# XinconTechnology(Canada)Inc. v. M.N.R.
+
+- Citation: 2003 TCC 448
+- Decision date: 2003-06-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1788, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+XinconTechnology(Canada)Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-30
+Neutral citation
+2003 TCC 448
+File numbers
+2002-2324(EI)
+Judges and Taxing Officers
+Michael J. Bonner
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-2324(EI)
+BETWEEN:
+XINCON TECHNOLOGY (CANADA) INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Xincon Technology (Canada) Inc. (2002-2325(CPP)) on March 21, 2003 at Toronto, Ontario
+Before: The Honourable Judge Michael J. Bonner
+Appearances:
+Agent for the Appellant:
+Sean Hu
+Counsel for the Respondent:
+Lorraine Edinboro
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the assessment is referred back to the Minister of National Revenue for reassessment in accordance with the Reasons for Judgment.
+Signed at Toronto, Ontario, this 30th day of June 2003.
+"Michael J. Bonner"
+T.C.J.
+Citation: 2003TCC448
+Date: 20030630
+Docket: 2002-2324(EI)
+BETWEEN:
+XINCON TECHNOLOGY (CANADA) INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+BONNER, T.C.J.
+[1] These appeals are brought under the provisions of the Canada Pension Plan and the Employment Insurance Act. They raise the question whether 77 individuals who worked during the period January 1, 2000 to August 31, 2001 as instructors at the Appellant's school did so under contracts of service or contracts for services.
+[2] By Notices of Assessment dated December 19, 2001, the Appellant was assessed for failure to remit Canada Pension Plan contributions and Employment Insurance premiums, in respect of a group which included 77 individuals whose names are listed in Schedule A to the Notice of Appeal. The assessments also included related penalties and interest. Following appeals to the Respondent the assessments, so far as they related to the 77 individuals, were confirmed. The present appeals ensued. The appeals were heard together on common evidence.
+[3] During the period the Appellant operated a private school offering computer training courses, primarily certification courses in information technology. Some of the courses were offered on a full-time basis, others part‑time.
+[4] The school was not operated on conventional lines in which the school designs the programme and fixes course content. Each course offered was a stand-alone unit intended to train individuals to attain levels of competence in the operation of a software program designed by a software producer. The level of skill which must be attained, the course content and the examination required to secure certification were all fixed by the software maker.
+[5] The Appellant set the fees charged to the students. The instructors were not involved in any aspect of the operation of the school save for the teaching of their respective courses.
+[6] The Appellant did not keep instructors on staff for an indeterminate period. Each was engaged to teach a single course and when that task was completed the relationship was at an end, at least until a new contract was made for a separate project. The Appellant maintained a list of individuals who were able and willing to undertake the task of teaching the skills involved in a particular course. When it concluded that sufficient demand existed to justify offering a course it advertised the course and contacted a person from its list of qualified instructors. The Appellant then negotiated a contract limited to the teaching of that course.
+[7] Typically the main topics for negotiation when an instructor was engaged were fee and the time when the course was to be taught. The latter was important because most instructors had other work and had to fit the teaching project into their schedules. The parties negotiated the number of hours required to teach the course, and they agreed on an hourly rate on which the course fee was based.
+[8] At times student enrolment in a course fell below expectations. In such cases the Appellant attempted to reach an agreement with the instructor to reduce the hourly rate on which the course fee was based. The duration of the various courses ranged from three weeks to three months. Instructors completed and submitted to the Appellant time sheets which recorded teaching time and formed the basis for periodic payment of fees.
+[9] Fringe benefits were not made available to the instructors.
+[10] The courses were taught on the Appellant's premises. Students used the Appellant's computers and, in some cases, a projector. Instructors, when teaching, used the Appellant's computers. The Appellant did not furnish the instructors with reference materials or office space or equipment required to prepare for and teach the course. The instructors worked at home when preparing to carry out their teaching assignments. In preparing, the instructors used their own computer software, reference manuals and other supplies and equipment.
+[11] The Appellant called a total of six witnesses at the hearing. They included Ying Qiu who managed the school during part of the period and five other individuals who worked as instructors at the school. None of them suggested that the Appellant possessed or purported to exercise a right to control the manner in which the instructors taught their courses. Some indicated that student satisfaction was measured by survey conducted by the Appellant. If the survey suggested the existence of a problem it was brought to the attention of the instructor but he was not told how to rectify it.
+[12] Two individuals who had worked as instructors were called by the Respondent. One of them, Anil Sinha, suggested that a manager sat in on one or two classes during a 14-week course and offered some feedback. I view that experience as a departure from the norm. The Respondent's second witness did not recall that the Appellant ever had a supervisor present during classes.
+[13] There were minor differences among witnesses on the question whether the instructors were permitted to hire substitutes. The witness Sinha stated that instructors could not do so but admitted on cross-examination that the question had never arisen. The witness Gill stated that he arranged to have another instructor take his class when he was ill. I have concluded that the use by instructors of substitutes was permitted only by way of exception to the general rule. This conclusion rests primarily on evidence regarding the Appellant's insistence on ensuring before hiring instructors that they were properly certified and qualified.
+[14] It would seem that few expenses were encountered by the instructors in carrying out their teaching duties. To the extent that expenses were encountered virtually all were borne by the instructors. Some instructors prepared handouts for their students. Some were permitted to use the Appellant's photocopy machine for this purpose. Some had to pay 10 cents per page and some nothing at all. To the extent that manuals were required by the instructors in order to prepare for and teach the courses, the cost was borne by the instructors.
+[15] Several of the witnesses expressed the opinion that they had been retained by the Appellant as independent contractors. One said his relationship to the Appellant was "business to business". He operated his own business under the name Electronic Consulting Services Company.
+[16] I note that there were minor inconsistencies among witnesses in matters of detail. Those inconsistencies were, in my view, attributable primarily to differences in the experiences of the witnesses and also to the frailties of memory. The witnesses were, after all, attempting to describe the terms of an oral contract and the events on which their descriptions were based may have varied somewhat from one to another.
+[17] A decision whether a contract between a worker and a person who has engaged him or her is a contract of service (or, to use the more current expression, a contract of employment) or a contract for services must depend on an overview of the relevant features of the relationship. While it is necessary and helpful to review the authorities, a mechanical process of totalling factors relied on by the courts in previous cases must be avoided.
+[18] Thus, in Wiebe Door Services v. M.N.R., [1986] 2 CTC 200, the Federal Court of Appeal referred to a fourfold test involving (1) control, (2) ownership of tools, (3) chance of profit and (4) risk of loss. The Wiebe decision was referred to with approval in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983. At paragraphs 39, 47 and 48 of the Reasons, Major J., speaking for the Court noted:
+"[39] An early attempt to deal with the problems of the control test was the development of a fourfold test known as the "entrepreneur test". It was set out by W. O. Douglas (later Justice) in "Vicarious Liability and Administration of Risk I" (1928-1929), 38 Yale L.J. 584, and applied by Lord Wright in Montreal v. Montreal Locomotive Works Ltd., [1947] 1 D.L.R. 161 (P.C.), at p. 169:
+"In earlier cases a single test, such as the presence or absence of control, was often relied on to determine whether the case was one of master and servant, mostly in order to decide issues of tortious liability on the part of the master or superior. In the more complex conditions of modern industry, more complicated tests have often to be applied. It has been suggested that a fourfold test would in some cases be more appropriate, a complex involving (1) control; (2) ownership of the tools; (3) chance of profit; (4) risk of loss. Control in itself is not always conclusive."
+...
+[47] Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[48] It bears repeating that the above factors constitute a non‑exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case."
+[19] Generally speaking, a person who has hired an independent contractor has bargained for the performance of a task. In contrast, in the case of employment, the worker is expected to place his services at the disposal of the employer who directs not only what is to be done but the manner in which it is to be done. In the present case, each worker was engaged to teach a specialized course with a view to preparing the students for a certification examination. The contract between the Appellant and the instructors was result-oriented. The Appellant does not appear to have had the right to control the manner in which the instructors taught the students. It seems likely that the Appellant did not possess the expertise necessary to evaluate the instructors' work with a view to the exercise of control over how it was done. As I see it, the Appellant, by surveying student satisfaction did not attempt to exercise control. It simply attempted to evaluate outcome as is often done by a person who has hired an independent contractor.
+[20] The ownership of tools factor also points to the existence of an employment relationship. The instructors were retained to teach a course and were furnished with virtually nothing to assist them in doing so except a computer in the classroom. The instructors were obliged to use their own manuals. The fact that the Appellant equipped the classroom with computers for student use is beside the point. The contracts in question were related to the instructors' obligations to teach and not to the Appellant's obligation to its students to furnish a properly equipped classroom.
+[21] No doubt the instructors were exposed to a minimum of financial risk in carrying out their contracts. Little in the way of investment in a lasting business structure was involved. The only costs the instructors were likely to encounter in earning their fees were the costs of home office use in preparing for class and the costs of manuals and office supplies. However, the conduct of knowledge‑based work, even when performed by an independent contractor, may involve only minor outlay or risk. This factor is therefore of limited assistance here.
+[22] As noted above, a contract of service usually contemplates the employee putting his own services at the disposal of the employer for a period of time. The right to hire helpers to perform the contract is generally inconsistent with an employment relationship. Ordinarily, the use of assistants or substitutes was not in contemplation in the contracts here. While this consideration points to an employer-employee relationship, it is not determinative. A contract which precludes the use of assistants is not invariably a contract of service.
+[23] Finally I note that the Appellant and many, if not most, of the instructors who testified were of the view that the instructors were independent contractors. Fringe benefits were not provided. The classification of a contract by the parties is not determinative of course but the understanding of the parties, where genuine, cannot be overlooked.
+[24] On an overall view the answer to the "central question" is that the instructors were engaged as "persons in business on their own account" to perform, in each case, an isolated task for a fee applicable to that task alone. They were independent contractors. The appeals will be allowed and the assessments referred back to the Minister of National Revenue for reassessment.
+Signed at Toronto, Ontario, this 30th day of June 2003.
+"Michael J. Bonner"
+T.C.J.
+CITATION:
+2003TCC448
+COURT FILE NO.:
+2002-2324(EI) and 2002-2325(CPP)
+STYLE OF CAUSE:
+Xincon Technology (Canada) and M.N.R.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 21, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge
+Michael J. Bonner
+DATE OF JUDGMENT:
+June 30, 2003
+APPEARANCES:
+Agent for the Appellant:
+Sean Hu
+Counsel for the Respondent:
+Lorraine Edinboro
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

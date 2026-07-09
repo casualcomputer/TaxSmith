@@ -1,0 +1,173 @@
+---
+title: "Bégin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26294/index.do"
+last_modified: "2004-10-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 593"
+citation2: ""
+neutral_citation: "2004 CCI 593"
+decision_date: "2004-10-15"
+language: "fr"
+item_id: "26294"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3306
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:56:09.522000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2780d48ca1524f6419d0edc4c10e5f1cb9ab86f83dc7c2ef78c2c247011a542e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bégin c. La Reine
+
+- Citation: 2004 CCI 593
+- Decision date: 2004-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3306, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bégin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-15
+Référence neutre
+2004 CCI 593
+Numéro de dossier
+2003-4470(IT)I
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-4470(IT)I
+ENTRE :
+GILLES BÉGIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+___________________________________________________________________
+Appels entendus le 6 juillet 2004 à Montréal (Québec)
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Avocat de l'appelant :
+Me François Fisette
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 2000 et 2002 sont rejetés, le tout selon les motifs ci-joints.
+Signé à Ottawa, Canada, ce 15e jour d'octobre 2004.
+« Pierre Archambault »
+Juge Archambault
+Référence : 2004CCI593
+Date : 20041015
+Dossier : 2003-4470(IT)I
+ENTRE :
+GILLES BÉGIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] Monsieur Gilles Bégin interjette appel à l'encontre de cotisations d'impôt à l'égard des années d'imposition 2000 et 2002. Dès le début de l'audience, le procureur de monsieur Bégin a reconnu que ce dernier avait obtenu le crédit d'impôt pour déficience mentale ou physique pour l'année 2000. Le litige ne porte donc que sur le droit de monsieur Bégin à ce crédit pour l'année 2002.
+[2] Durant l'année d'imposition 2002, monsieur Bégin souffrait de narcolepsie et, essentiellement, la question est de savoir si la capacité de monsieur Bégin d'accomplir une activité courante de la vie quotidienne était limitée de façon marquée durant cette année d'imposition. En effet, les autres conditions qui doivent être réunies, qui se trouvent énoncées au paragraphe 118.3(1) de la Loi de l'impôt sur le revenu (Loi), n'étaient pas en cause à l'audience. En particulier, le fait que monsieur Bégin souffrait d'une déficience mentale grave et prolongée n'a pas été contesté. Le fait qu'un médecin de la Clinique du sommeil a écrit, le 8 octobre 1997, que monsieur Bégin lui apparaissait inapte à son travail de professeur est certainement un indice de la gravité de sa déficience. De plus, il est reconnu que cette déficience dure depuis plusieurs années.
+[3] Toutefois, l'intimée soutient, contrairement à ce qui est indiqué par la médecin omnipraticienne, madame la docteure Lemaître-Auger, sur le certificat pour le crédit d'impôt pour personnes handicapées daté du 6 avril 2001, que monsieur Bégin était capable de réfléchir, de percevoir et de se souvenir[1]. Également, l'intimée conteste l'évaluation faite par la même médecin, qui a indiqué, en remplissant le questionnaire produit sous la cote A-6, que la capacité de monsieur Bégin de percevoir, de réfléchir et de se souvenir était limitée de façon marquée. Sur le questionnaire on avait pris soin de fournir les explications suivantes :
+Vous répondez oui uniquement si, même à l'aide de soins thérapeutiques ou de médicaments, votre patient est toujours ou presque toujours incapable de percevoir, de réfléchir ou de se souvenir ou s'il lui faut un temps excessif pour le faire.
+Nous considérons que la capacité de votre patient est limitée de façon marquée s'il n'a pas la capacité intellectuelle de voir à ses besoins personnels (se procurer de la nourriture, des vêtements, etc.) ou de s'occuper de ses soins personnels (se nourrir, voir à son hygiène corporelle, s'habiller, etc.) sans supervision.
+[4] Il faut ajouter que c'est là la seule activité de la vie quotidienne de monsieur Bégin à l'égard de laquelle la médecin a donné une réponse affirmative. En effet, elle a indiqué qu'aucune autre de ses activités de la vie quotidienne n'était limitée de façon marquée.
+Faits
+[5] Voyons ce que la preuve a révélé. Seul monsieur Bégin a témoigné à l'audience. Monsieur Bégin est né en 1937 et il a exercé la profession d'enseignant jusqu'en 1990. Il ressort de son témoignage qu'il souffrait de la narcolepsie depuis le début de la vingtaine. Pour combattre ses périodes de somnolence excessive pendant qu'il enseignait à ses élèves, il avait développé certaines techniques, comme se lever pour aller ouvrir une fenêtre. Il faut aussi ajouter que monsieur Bégin a démissionné de son poste d'enseignant en décembre 1990 à la suite des pressions exercées par son directeur, qui menaçait de le congédier en juin 1991 pour cause de difficulté à communiquer avec ses élèves[2]. Plutôt que d'avoir à faire face à ce congédiement, il avait décidé alors de démissionner le 5 décembre 1990 (voir la pièce A-4).
+[6] On définit la narcolepsie comme une maladie du sommeil dont les symptômes sont des accès de sommeil et de paralysie temporaire. Le docteur J. Paul Caldwell, dans Le sommeil, le comprendre et l'améliorer, ses troubles et ses remèdes, Association médicale canadienne, Collection Santé, Guy St-Jean, éditeur, 1997, énonce ainsi les quatre symptômes de cette maladie, à la page 146 :
+. . . On apprit qu'il y avait quatre symptômes classiques de cette maladie : une somnolence diurne excessive accompagnée d'accès brusques de sommeil irrépressible, une perte de tonus soudaine (cataplexie), une paralysie du sommeil et des hallucinations hypnagogiques (qui précèdent immédiatement le sommeil). Les patients qui souffrent de narcolepsie, [...], n'ont pas toujours tous ces symptômes, mais tous les narcoleptiques souffrent d'une somnolence diurne excessive, c'est-à-dire qu'ils ont tendance à s'endormir rapidement lorsque l'environnement extérieur est calme et non stimulant.
+[...]
+Tous les patients narcoleptiques souffrent de somnolence diurne excessive et, au fur et à mesure que la maladie se développe au cours des ans, commencent à avoir des attaques de sommeil.
+[7] S'inspirant d'un ouvrage réalisé par les docteurs Montplaisir et Godbout et intitulé Les troubles du sommeil et de la vigilance, monsieur Bégin a décrit les symptômes suivants qui se manifestaient lorsqu'il subissait des attaques de sommeil : baisse de l'activité visuelle, rétrécissement du champ visuel, mauvaise évaluation des distances, attention relâchée, réception auditive atténuée, altération de la mémoire, troubles de jugement, difficultés motrices. Il a écrit que la somnolence excessive se présente de façon répétitive et persistante à toutes les heures de la journée et que la chute de la vigilance et la somnolence diurne ont des effets délétères sur le statut socio-économique et sur la qualité de vie des individus.
+[8] Lorsqu'il a été contre-interrogé sur cette description des symptômes qu'il présentait durant la période pertinente, monsieur Bégin a reconnu qu'ils se manifestaient au moment de ses attaques de sommeil. Il a précisé que ces attaques de sommeil pouvaient survenir cinq ou six fois par jour et durer jusqu'à une quinzaine de minutes. Elles pouvaient survenir à deux reprises dans l'avant-midi et dans l'après-midi et à une ou deux reprises dans la soirée. Il pouvait s'endormir en mangeant ou en faisant de la lecture.
+[9] Ce n'est qu'en 1995 que des médecins ont pu nommer la maladie qui empoisonnait l'existence de monsieur Bégin. En effet, c'est cette année-là qu'il a vu le docteur Montplaisir de la Clinique du sommeil de l'Hôpital du Sacré-Coeur de Montréal et c'est ce dernier qui a diagnostiqué la narcolepsie. Ce diagnostic définitif fut posé après que monsieur Bégin eut subi des tests en laboratoire qui mesuraient le degré de sa somnolence. Pendant ces tests, monsieur Bégin a été sous surveillance audio-visuelle continue pendant une nuit et cinq siestes de jour faites selon le protocole standard nommé « test itératif de délai d'endormissement » (TIDE). Voici comment le docteur Montplaisir a expliqué son diagnostic :
+L'enregistrement des siestes pendant la journée confirme, hors de tout doute, le diagnostic de narcolepsie puisque le patient dort à chacune des cinq siestes du TIDE avec un délai moyen d'endormissement de 2,8 minutes. Il présente également deux endormissements directs en sommeil paradoxal et il est porteur de l'antigène HLA DR2 (DR15)-DQW1.
+[10] Monsieur Bégin a subi des tests similaires deux ans plus tard, en 1997, lorsqu'il a été examiné à nouveau par le docteur Montplaisir. L'enregistrement effectué en 1997 s'est déroulé sur deux jours, monsieur Bégin étant sous médication, à savoir le Ritalin SR, 20 mg[3]. Cette médication a été tentée afin de traiter la vigilance déficiente dont souffrait monsieur Bégin en raison de sa narcolepsie. Les tests ont eu lieu sur deux nuits et deux jours. Un TIDE, effectué au cours de la première journée a été suivi d'un test de maintien de vigilance au cours de la deuxième journée. Voici comment le docteur Lespérance a décrit les tests :
+[...] Le test a consisté en deux nuits, un test itératif de délai d'endormissement au cours de la première journée qui a suivi et un test de maintien de vigilance au cours de la deuxième journée. Les tests des siestes mesurent la capacité à s'endormir alors que la deuxième journée la capacité à rester éveillé dans un environnement calme et sombre. Il[s] mesure[nt] donc tous les deux des aspects différents de la vigilance. Le deuxième est plus en rapport avec la capacité à travailler dans des tâches intellectuelles telles que rencontrées par un enseignant.
+[11] Même sous l'effet du Ritalin SR administré dans une dose de 20 mg, la latence moyenne aux siestes s'est élevée à 7,6 minutes. Quant au test de maintien de vigilance, il a révélé que monsieur Bégin s'est endormi en moyenne en 20 minutes, mais lors des trois premières siestes, il s'était endormi en moins de 10 minutes. À la suite de ces tests, le docteur Lespérance a conclu de la façon suivante :
+J'arrive à la conclusion que ce patient actuellement m'apparaît inapte à sa tâche de professeur d'enseignant. Je ferai la demande à la Régie des Rentes du Québec plus tard lor[s]que le patient aura 60 ans.[4]
+[12] Pour illustrer les effets que comportait pour lui sa maladie, monsieur Bégin a indiqué qu'il avait des troubles de mémoire et que, lorsqu'il allait faire des commissions à l'épicerie, il devait apporter une liste des produits à acheter. C'est dans le cadre de cette explication qu'il a indiqué qu'il conduisait sa propre voiture. Surpris qu'une personne toujours ou presque toujours incapable de percevoir, de réfléchir et de se souvenir sans y consacrer un temps excessif puisse conduire une voiture, je lui ai demandé comment la Société de l'assurance automobile du Québec (SAAQ) a pu lui avoir laissé son permis de conduire. Monsieur Bégin a alors offert de fournir à la Cour le rapport d'examen médical qu'il avait remis à la SAAQ, ce qu'il a fait en envoyant par télécopieur[5] le rapport daté du 2 mai 2003 rempli par madame la docteure Lemaître-Auger. Dans ce rapport, elle indique que le docteur Lespérance, en 1997, avait jugé monsieur Bégin apte à conduire. C'est sur la foi de ce rapport médical que la SAAQ a informé monsieur Bégin, le 3 juillet 2003, qu'elle maintenait en vigueur le permis qu'il détenait.
+[13] Monsieur Bégin, à la demande de la Cour, a transmis par télécopieur, la pièce A-9, le rapport médical du docteur Lespérance en date du 19 novembre 1997. Dans ce rapport, ce dernier fournit l'historique médical suivant :
+Le patient présente depuis de nombreuses années une somnolence diurne excessive qui n'avait malheureusement pas fait l'objet d'une investigation spécifique. Pour cette raison, aucune démarche thérapeutique n'avait été appliquée. Cette somnolence diurne excessive est telle que le patient peut s'endormir dans des moments inappropriés, et ce, depuis le début de la vingtaine. Le patient a longtemps cru qu'il s'agissait d'un manque de volonté de sa part. Plus récemment, il s'était décidé à consulter pour en avoir le coeur net. Comme le patient présentait également des symptômes de cataplexie, à savoir une chute du tonus musculaire lors de certaines émotions telles que la colère, la surprise, le rire et la joie, ainsi que des hallucinations hypnagogiques, un diagnostic de narcolepsie devait être éliminé.
+[14] Sous la rubrique « Constatations sur le plan physique et mental » , on trouve la description suivante :
+Le pronostic de cette condition est une évolution chronique de façon indéfinie. Le patient ne va pas se détériorer mais il n'y a pas non plus de chance d'amélioration substantielle au niveau de sa capacité d'éveil et au niveau de sa vigilance. Nous avons testé de plus cette fois-ci sous médication le changement de sa vigilance. Ces changements sont légers, en particulier, je porte à votre attention le test de maintien de vigilance de la deuxième journée d'enregistrement sous médication. On voit une somnolence très significative encore présente malgré un traitement optimal à Ritalin 20 mg par jour.
+[15] Dans le même rapport, le médecin répond par l'affirmative aux deux questions suivantes : « Le requérant a-t-il la capacité mentale de gérer ses affaires? » et « Le requérant est-il apte à conduire un véhicule automobile? » Dans ce rapport médical en date du 19 novembre 1997 destiné à la Régie des rentes du Québec, le docteur Lespérance fournit les observations suivantes :
+Bien qu'on pourrait imaginer que ce patient soit apte à certaines tâches plus motrices, cette difficulté de concentration et de vigilance empêche à mon avis toutes les tâches dans l'enseignement. Je trouve donc même s'il pourrait être apte à un travail rémunérateur probablement à 35 heures, il ne pourrait être dans une tâche d'enseignant ou équivalente. Pour ces raisons, j'estime qu'il est raisonnable que le patient soit considéré invalide étant donné [illisible] conditions vis-à-vis la Régie des Rentes du Québec.
+[16] Monsieur Bégin a indiqué qu'il pouvait sentir venir les attaques de sommeil et qu'il pouvait donc se permettre de conduire sa voiture sur de courtes distances. Par contre, il n'effectuait plus de longs trajets. De plus, il a reconnu que les symptômes décrits plus haut, soit ceux d'altération de la mémoire, de baisse de l'activité visuelle, de réception auditive atténuée et de difficultés motrices, survenaient lors de ces attaques de sommeil et qu'il était capable de fonctionner normalement le reste du temps.
+[17] Dans une lettre du 22 juin 2001 (pièce A-9), adressée à l'Agence des douanes et du revenu du Canada (ADRC), monsieur Bégin fournit l'explication suivante :
+[...]
+En crise de cataplexie :
+1) La vue devient embrouillée et les paupières tombent, les yeux tournent à l'envers.
+2) La marche oblige à se tenir avant de fléchir et de s'immobiliser.
+3) L'élocution est non-logique même si les sens demeurent actifs ... le langage demeure non-rationnel.
+4) Les facultés mentales de perception de réflexion et de mémoire sont gravement affectées par cette diminution de vigilance et de concentration.
+[18] J'en viens donc à la conclusion que, quoique monsieur Bégin souffre d'une maladie grave et prolongée, les effets de cette maladie ne sont pas telles qu'il est toujours ou presque toujours incapable d'accomplir, sans y consacrer un temps excessif, une activité courante de la vie quotidienne, à savoir, ici, la perception, la réflexion et la mémoire. Il faut mentionner que monsieur Bégin s'était levé, le jour de l'audience, vers 6 h 30, qu'il a commencé à témoigner vers 9 h 30 et que son témoignage s'est terminé vers 11 h 30. Il a indiqué lors de son témoignage que, durant la pause, il avait fait une courte sieste de quelques minutes. Pendant la plaidoirie, j'ai pu observer que monsieur Bégin se tenait la tête avec les deux mains et qu'il semblait assoupi, quoique je ne puisse en être certain.
+[19] Toutefois, lorsqu'il a témoigné, il a pu répondre avec clarté aux questions qu'on lui a posées. Il a pu expliquer clairement à la Cour quels étaient les symptômes de sa maladie et il était en mesure de se référer aux tests effectués en 1995 et en 1997, de relater les démarches qui avaient mené au diagnostic posé à son égard en 1995, etc.
+[20] Il n'y a pas de doute que, lorsqu'une personne dort, elle n'est pas en mesure d'exercer ses facultés de réflexion, de perception et de mémoire. Toutefois, dans le cas de monsieur Bégin, les périodes de sommeil irrépressible, qui s'ajoutent aux périodes normales durant lesquelles dort une personne ne souffrant pas de narcolepsie, représentent en tout une période supplémentaire pouvant aller jusqu'à une heure et demie par jour. Une heure et demie par jour représente 6,3 % d'une journée de 24 heures. Si on considère cette heure et demie par rapport à une période de 16 heures au lieu de 24, on arrive à un pourcentage de 9,4 %. Il n'y a pas de doute que, contrairement à ce qui est le cas des personnes ne souffrant pas d'une telle maladie, la vie de monsieur Bégin est empoisonnée par le fait qu'il soit en proie à des accès de sommeil irrépressible. Une telle circonstance peut compliquer la vie professionnelle d'une personne qui enseigne à de jeunes étudiants.
+[21] Toutefois, il m'est impossible de conclure que monsieur Bégin était toujours ou presque toujours incapable de percevoir, de réfléchir et de se souvenir en 2002, la période pertinente. Mis à part les périodes d'une heure et demie de sieste obligatoire et de sommeil incontrôlable, monsieur Bégin pouvait réfléchir, percevoir et se souvenir. D'ailleurs, comment la SAAQ aurait-elle pu permettre à monsieur Bégin de conserver son permis de conduire s'il avait été toujours ou presque toujours incapable, sans y consacrer un temps excessif, de percevoir, de réfléchir et de se souvenir? Si monsieur Bégin devait effectivement subir une baisse de l'activité visuelle, être incapable d'évaluer de façon juste les distances et être sujet à une attention relâchée, à une réception auditive atténuée et à des troubles de jugement, comment pourrait-il conduire une voiture? D'ailleurs, selon la docteure Lemaître-Auger, le docteur Lespérance avait conclu en 1997 que monsieur bégin était apte à conduire. Il est quand même surprenant, à mon humble avis, qu'un médecin puisse à la fois, dans deux rapports médicaux distincts, conclure à l'aptitude de monsieur Bégin à conduire une voiture et conclure qu'il était toujours ou presque toujours incapable de percevoir, de réfléchir et de se souvenir, même avec l'aide de médicaments, et qu'il n'avait pas la capacité intellectuelle de voir à ses besoins personnels (se procurer de la nourriture, des vêtements) ou de s'occuper de ses soins personnels (se nourrir, voir à son hygiène corporelle, s'habiller) sans supervision.
+[22] La nature humaine étant ce qu'elle est, il semble bien que les médecins, sous les pressions de leurs patients qui désirent jouir d'avantages pécuniaires prévus par certaines lois, aient de la difficulté à refuser les demandes qui leur sont présentées par ces patients. À mon avis, s'il est vrai qu'il faut interpréter les dispositions de la Loi avec compassion[6], cela ne veut pas dire qu'il faut le faire avec complaisance. En ce qui me concerne, je n'ai pas d'autre choix que de conclure que monsieur Bégin ne réunissait pas toutes les conditions exigées par la Loi pour avoir droit au crédit d'impôt pour déficience mentale ou physique.
+[23] Pour tous ces motifs, les appels de monsieur Bégin sont rejetés.
+Signé à Ottawa, Canada, ce 15e jour d'octobre, 2004.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE :
+2004CCI593
+No DU DOSSIER DE LA COUR :
+2003-4470(IT)I
+INTITULÉ DE LA CAUSE :
+Gilles Bégin et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 6 juillet 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Pierre Archambault
+DATE DU JUGEMENT :
+le 15 octobre 2004
+COMPARUTIONS :
+Pour l'appelant :
+Me François Fisette
+Pour l'intimée :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me François Fisette
+Étude :
+Gérin Leblanc et Associés
+Sherbrooke (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il faut mentionner, par contre, que dans un certificat similaire en date du 23 avril 1999, la même médecin avait conclu le contraire. La docteure Lemaître-Auger n'a pas témoigné pour expliquer le changement dans son évaluation de l'état de monsieur Bégin.
+[2] Le 11 mai 1990, monsieur Bégin avait eu une altercation fortement angoissante avec un élève qu'il avait dû expulser de la classe.
+[3] De façon générale, l'administration de médicaments, comme 10 mg de Ritalin ou une dose plus forte de 20 mg, permet à une personne souffrant de narcolepsie de mieux résister aux attaques de sommeil. Monsieur Bégin a indiqué avoir pris, le jour de l'audience, une dose de 20 mg de Ritalin. Comme autre technique, monsieur Bégin effectue une sieste avant d'entreprendre une activité. C'est ainsi d'ailleurs qu'il peut faire du vélo avec son épouse pendant une période de 30 à 45 minutes. Il peut également jouer au tennis; toutefois, monsieur Bégin ne fait plus, comme il le faisait avant, du tennis de compétition.
+[4] Le procureur de monsieur Bégin a expliqué à la Cour la raison de cette stratégie. En effet, lorsqu'une personne a atteint l'âge de 60 ans, elle peut obtenir une pension d'invalidité s'il est établi qu'elle est inapte aux tâches habituelles qu'elle exerçait, alors que, si elle a moins de 60 ans, il faudrait établir qu'elle est inapte à toutes autres tâches. Dans les faits, monsieur Bégin a obtenu une rente d'invalidité de la Régie des rentes du Québec, tel qu'en fait foi la pièce A-1, qui révèle le paiement d'une prestation de 8 611,90 $ pour l'année 1998.
+[5] J'ai donné la cote A-8 à ce document.
+[6] Voir le paragraphe 10 de la décision de la Cour d'appel fédérale dans l'affaire Johnston c. Canada, [1998] A.C.F. no 169 (Q.L.), 98 DTC 6169, selon laquelle les dispositions en question ici doivent être interprétées de façon humaine et avec compassion.

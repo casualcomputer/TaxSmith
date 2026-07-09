@@ -1,0 +1,156 @@
+---
+title: "Humphreys c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29648/index.do"
+last_modified: "2010-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 88"
+citation2: ""
+neutral_citation: "2010 CCI 88"
+decision_date: "2010-02-16"
+language: "fr"
+item_id: "29648"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6155
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:16:34.023000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "161a15004a6ac9ed4608a1af95fa1e47c92e8e59130c7124c19fe655ed68561b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Humphreys c. La Reine
+
+- Citation: 2010 CCI 88
+- Decision date: 2010-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6155, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Humphreys c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-02-16
+Référence neutre
+2010 CCI 88
+Numéro de dossier
+2009-1939(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1939(IT)I ENTRE :
+CAMERON HUMPHREYS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 janvier 2010 à Victoria (Colombie-Britannique).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Holly Popenia
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu est accueilli, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que M. Humphreys a droit aux crédits d’impôt pour frais de scolarité et pour études, tels qu’ils ont été demandés, pour l’année d’imposition 2007.
+Signé à Montréal (Québec), ce 16e jour de février 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 7e jour de mars 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010CCI88
+Date : 20100216
+Dossier : 2009-1939(IT)I
+ENTRE :
+CAMERON HUMPHREYS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Cameron Humphreys, a interjeté appel de la décision lui refusant des crédits d’impôt pour frais de scolarité et un crédit d’impôt pour études et pour manuels prévus respectivement par les articles 118.5 et 118.6 de la Loi de l’impôt sur le revenu (la « Loi »). Le ministre du Revenu national (le « ministre ») a refusé les demandes de M. Humphreys au motif que ce dernier ne répondait pas aux critères prévus par ces dispositions.
+[2] Afin d’obtenir gain de cause en appel, M. Humphreys a la charge de prouver que, conformément à l’alinéa 118.5(1)b) de la Loi, il « […] fréquent[ait] comme étudiant à plein temps une université située à l’étranger, où il sui[vait] des cours conduisant à un diplôme […] »; ou que, conformément à l’alinéa 118.5(1)c), il « […]résid[ait] au Canada près de la frontière entre le Canada et les État-Unis » et qu’il :
+(i) était inscrit à un moment de l’année à un établissement d’enseignement situé aux États-Unis —université, collège ou autre — offrant des cours de niveau postsecondaire;
+(ii) faisait régulièrement la navette entre sa résidence et cet établissement,
+[3] Les mêmes critères s’appliquent pour demander un crédit d’impôt pour études, par le jeu du paragraphe 118.6(2) et de l’alinéa 118.6(1)c) de la Loi.
+[4] Du mois de septembre 2007 au mois d’avril 2008, M. Humphreys fréquentait comme étudiant à plein temps le Divers Institute of Technology à Seattle, dans l’État de Washington. Il a obtenu une moyenne de 90,73 %[1] et a reçu plus tard la certification de [traduction] « plongeur alimenté en surface » du Conseil de certification des plongeurs du Canada[2].
+[5] J’examine d’abord l’alinéa 118.5(1)b) de la Loi. Il s’avère que la situation de M. Humphreys ne répond pas aux critères de cette disposition. Même si le Divers Institute était « accrédité » par certaines organisations au Canada et aux États‑Unis en 2007, il n’offrait pas de cours « conduisant à un diplôme » tel que ce terme a été interprété par la jurisprudence[3]. Il ressort clairement de la preuve que le Divers Institute ne délivrait que des certificats.
+[6] Toutefois, je suis persuadée que M. Humphreys a répondu aux exigences relatives aux crédits d’impôt pour frais de scolarité et pour études prévues respectivement par les alinéas 118.5(1)c) et 118.6(1)c).
+[7] En 2007, M. Humphreys était résident de Brentwood Bay, en Colombie‑Britannique. Il était inscrit au Divers Institute et il faisait régulièrement la navette entre sa résidence et cet établissement, ce qui répond aux exigences concernant « un établissement d’enseignement […] offrant des cours de niveau postsecondaire » prévues par l’alinéa 118.5(1)c) et qui cadre avec la définition d’« établissement d’enseignement agréé » donnée à l’alinéa 118.6(1)c) de la Loi. La seule question est celle de savoir si M. Humphreys résidait « près de la frontière entre le Canada et les État-Unis » et « fai[sait] régulièrement la navette » entre sa résidence et le Divers Institute.
+[8] Selon le ministre, on ne peut pas dire que M. Humphreys résidait « près » de la frontière Canada-É.-U. ou qu’il « fai[sait] régulièrement la navette » entre sa résidence et Seattle, car il lui fallait plus de quatre heures en voiture pour se rendre de Brentwood Bay à Seattle. Au soutien de cette prétention, l’avocate de l’intimée a renvoyé la Cour à la décision du juge Dussault dans Van de Water c. Le ministre du Revenu national[4]. Dans cette affaire, le juge Dussault avait conclu qu’un étudiant qui faisait la navette entre son domicile qui se trouve à Pierrefonds, une ville de la banlieue de Montréal située à 80 kilomètres de la frontière Canada‑É.-U., et un collège situé à Plattsburg, dans l’État de New York ne résidait pas « près » de la frontière entre les deux pays.
+[9] Pour arriver à cette conclusion, le juge Dussault a fait remarquer que le mot « près » n’est pas défini dans la Loi et il s’est ensuite penché sur son sens ordinaire avant d’examiner la définition qu’en donne le Black's Law Dictionary[5] :
+[…]
+[TRADUCTION]
+Proche; rapproché; adjacent; contigu; contigu. Ce mot, lorsqu’il s’applique à
+l’espace, est un terme relatif sans signification positive ou précise, dont le
+sens dépend du sujet auquel il se rapporte, ainsi que des circonstances dans lesquelles il devient nécessaire de l’appliquer aux objets environnants...
+Non éloigné dans le temps; non distant; adjacent.
+[10] Le juge Dussault a alors examiné l’objet de l’alinéa 118.5(1)c) de la manière suivante :
+[TRADUCTION]
+Il est évident que la façon d’interpréter les mots et le sens qu’il faut leur donner dépendent du sujet dont il est question et du contexte dans lequel ils sont employés. Nous avons affaire ici à un allègement déterminé que le législateur accorde aux particuliers vivant dans une ville ou une zone frontalière. Cet allègement a pour but de permettre à ces personnes d’avoir accès à des établissements d’enseignement situés de l’autre côté de la frontière, mais peut-être moins éloignés que ceux qui sont situés au Canada, et ce, sans être pénalisés par rapport aux personnes qui fréquentent des établissements situés au Canada et auxquelles l’alinéa 118.5(1)a) de la Loi accorde un allégement. De par sa nature même, l’alinéa 118.5(1)g) doit être considéré comme une exception.
+Il faut donc interpréter l’adverbe « près » selon le sens ordinaire et naturel qu’a ce mot, compte tenu du contexte dans lequel il est employé. Il ne faut surtout pas lui donner un sens qui n’est pas raisonnablement compatible avec l’objet visé. Si j’applique le sens de ce mot aux circonstances particulières de l’espèce, je suis d’avis qu’une personne qui habite à environ 75 à 80 kilomètres de la frontière des États‑Unis ne réside pas « ... près de la frontière entre le Canada et les États‑Unis... ». Je ne crois pas que le lieu de résidence de l’appelant, soit Pierrefonds (Québec) puisse en l’occurrence, être considéré comme un tel lieu de résidence parce qu’il lui manque l’élément de proximité, de contiguïté de la zone frontalière qui, selon moi, était envisagé lorsque cette disposition particulière de la Loi a été adoptée.
+La lecture de la Loi dans son ensemble me conforte aussi dans mon opinion. J’indiquerai ici que l’on applique un critère de 40 kilomètres pour déterminer si une personne peut déclarer des frais de déménagement en vertu de l’article 62 de la Loi. L’hypothèse sous-jacente dans ce cas, je suppose, est que le nouveau lieu de travail est suffisamment éloigné de l’ancien lieu de résidence pour justifier la déduction de frais qu’occasionne le déménagement au nouveau lieu de résidence ou, autrement dit, que le nouveau lieu de travail n’est pas assez près.
+[Non souligné dans l’original.]
+[11] L’arrêt Van de Water ne me permet pas d’affirmer que toute distance supérieure à 80 kilomètres n’est pas, par définition, « près » de la frontière entre le Canada et les États-Unis. Comme le souligne le Black’s dans sa définition, le mot [traduction] « près » est [traduction] « un terme relatif » dont l’interprétation dépendra des circonstances particulières de chaque affaire. Ce qui peut être considéré comme « pas assez près » dans les espaces circonscrits du Québec urbain peut en effet être vu comme très « près » dans le contexte des vastes étendues d’eau de la côte du Pacifique. Il me semble qu’en choisissant d’utiliser le mot « près » dans ces dispositions, plutôt que de mentionner une distance précise, le législateur a voulu reconnaître la grande diversité géographique et démographique du Canada.
+[12] Pour avoir droit à la déduction prévue par les alinéas 118.5(1)c) et 118.6(1)c), le contribuable doit démontrer qu’il résidait « près » de la frontière entre le Canada et les États-Unis, et implicitement, que l’établissement d’enseignement était suffisamment près pour lui permettre de faire régulièrement la navette entre l’établissement et son lieu de résidence.
+[13] Dans la présente affaire, il ne fait aucun doute que Seattle était à une distance permettant à M. Humphreys de faire régulièrement la navette, parce que c’est ce qu’il a bel et bien fait tout au long de l’année scolaire 2007‑2008. Quant à la question de savoir s’il résidait « près » de la frontière, il convient de noter que le trajet hebdomadaire que faisait M. Humphreys entre sa résidence et le Divers Institute à Seattle, dans l’État de Washington, lui prenait plus de quatre heures, un voyage qui comprenait aussi un trajet sur un traversier à partir de l’île de Vancouver. M. Humphreys s’est représenté d’une façon très claire et bien organisée, mais n’ayant pas prévu que ces dispositions seraient applicables, il n’a présenté aucun élément de preuve quant à la distance séparant Brentwood Bay de la frontière entre le Canada et les États‑Unis. Toutefois, je prends acte du fait qu’à mesure que la frontière serpente à travers les nombreuses îles du détroit de Juan de Fuca, elle passe, par rapport aux autres collectivités situées dans ces eaux, très près de Brentwood Bay. De plus, en tant que juge itinérante dont la compétence s’étend sur tout le pays, je suis bien placée pour savoir qu’il n’y a pas nécessairement de lien direct entre le temps mis pour aller d’un point à l’autre et la proximité physique de ces deux points. Ainsi, dans le contexte de la vaste côte du Nord-Ouest de l’Amérique du Nord, la preuve étaye la conclusion selon laquelle M. Humphreys résidait « près » de la frontière entre le Canada et les États‑Unis.
+[14] L’appel est accueilli, et l’affaire est renvoyée au ministre pour nouvel examen et nouvelle cotisation au motif que M. Humphreys a droit aux crédits d’impôt pour frais de scolarité et pour études, tels qu’ils ont été demandés, pour l’année d’imposition 2007.
+Signé à Montréal (Québec), ce 16e jour de février 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 7e jour de mars 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010CCI88
+No DU DOSSIER DE LA COUR : 2009-1939(IT)I
+INTITULÉ : CAMERON HUMPHREYS
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 20 janvier 2010
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 16 février 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Holly Popenia
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1.
+[2] Pièce A-3.
+[3] Gilbert c. R., [1998] A.C.I. no 1091 (CCI).
+[4] [1991] 1 C.T.C 2200. (CCI).
+[5] 6e éd., à la page 1029.

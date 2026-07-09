@@ -1,0 +1,168 @@
+---
+title: "Mennillo c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26567/index.do"
+last_modified: "2005-08-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 481"
+citation2: ""
+neutral_citation: "2005 TCC 481"
+decision_date: "2005-08-11"
+language: "en"
+item_id: "26567"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3575
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:28:04.449000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ae43843284b902e4124b88743333c1517b9bbe7460f5f2c5edf8b94ae9e5c1a4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mennillo c. La Reine
+
+- Citation: 2005 TCC 481
+- Decision date: 2005-08-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3575, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mennillo c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-11
+Neutral citation
+2005 TCC 481
+File numbers
+2003-2879(IT)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2879(IT)G
+BETWEEN:
+LUCIANO MENNILLO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 9, 2005, at Montreal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+the Appellant himself
+Counsel for the Respondent:
+Charles M. Camirand
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1994, 1995 and 1996 taxation years are allowed, without costs, on the ground that amounts of $8,000 for 1994 and $20,000 for each of 1995 and 1996 must be deducted from the cost of living and thus deducted from the unreported income for those years, as assessed. An amount of $600 must also be deducted for each of the years in issue.
+The whole in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of August 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Citation: 2005TCC481
+Date: 20050811
+Docket: 2003-2879(IT)G
+BETWEEN:
+LUCIANO MENNILLO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+[1] These are appeals for the 1994, 1995 and 1996 taxation years. The assessments were made with respect to income determined by the net worth method.
+[2] The appellant was not formally represented. He informed the Court at the commencement of the hearing that he wanted his accountant, Haïm Pinto, to make representations on his behalf. For the purposes of these reasons, therefore, I shall refer to Mr. Pinto as the representative of the appellant.
+[3] The net worth balance sheets were prepared by the Revenu Québec auditors. During the audit, the amounts of unreported additional income for the years from 1994 to 1996 were determined to be $65,927, $166,163 and $89,878. As a result of the adjustments made following the objection stage, the additional income for the years from 1994 to 1996 was fixed at $57,927, $88,863 and $30,207. It was on this basis that the appellant was assessed by Revenu Québec.
+[4] Subsequently, however, a transaction agreement was entered into by the parties in which the interest and penalties were cancelled. The transaction document may be found at Tab 12 of Exhibit R-1. It is also to be found among the documents in Exhibit A-1.
+[5] The federal auditor took as his basis the amounts of additional income as assessed by Revenu Québec following the objection. However, he considered that the cost of living of $26,508 established by Revenu Québec for each of the years in question was an underestimate. According to the auditor, it was physically impossible to have lived on that amount since the taxpayer has two children and lives in an above-average neighbourhood on Rosedale Avenue in Westmount. He compared that cost of living amount with the Statistics Canada data. According to Statistics Canada, the cost of living for 1994 would have been $51,744 for a family with two children. He accordingly increased the amount for 1995 and 1996 by $20,000 and that for 1994 by $8,000.
+[6] For 1995, however, the Minister's agent allowed a $30,000 loan from the appellant's parents and deducted it from the additional income. The Minister of National Revenue (the "Minister") accordingly determined that the additional income for the years from 1994 to 1996 was $65,927, $78,863 and $50,207. These are the amounts of additional income that are under appeal here.
+[7] At the hearing, counsel for the respondent made an application to amend the Reply to the Notice of Appeal (the "Reply"). The appellant objected to this. The draft amended Reply to the Notice of Appeal had been sent to the taxpayer on December 2, 2004. Counsel for the respondent did not receive any reply. Despite this, counsel for the respondent did not make at the appropriate time, prior to the hearing, an application for leave to amend the Reply. In fact, what is stated in the amended Reply could in part be presented orally during the hearing. That is what the Court suggested to counsel for the respondent. The Court decided that the application to amend the Reply could not be granted in view of the lack of consent by the opposing party since the application was late.
+[8] In fact, the amendment to the Reply was generally favourable to the appellant in the sense that the Minister consented to reduce the cost of living to the amount established by Revenu Québec, namely $26,508 for each of the taxation years at issue. Counsel for the respondent did not make any reservation for any of the years in question.
+[9] However, it was also stated in the proposed amendment that an error had occurred in determining the net worth. A sum of $49,300 was subtracted twice as an adjustment to the other assets for 1996.
+[10] This error mentioned by counsel for the respondent was confirmed by the Revenu Québec auditor, Emmanuel Bitondo-Nanga, at the hearing.
+[11] For 1996, if this error had not occurred, the unreported additional income would have been $99,507 whereas the amount taken into account by the Minister in making the assessment was $50,207. If we retain the amount of $50,207 and subtract the additional $20,000 from the cost of living, the unreported additional income would amount to $30,207. If we agree to increase the unreported income by the above-mentioned amount of $49,300, there is then no relief for 1996. However, the additional income for 1996 would remain at $50,207 and not be $79,507, as it should have been.
+[12] This brings us to the first issue: may the Minister use the income amount of $99,507 as the basis for calculating the reductions to which he consents, or must he limit himself to the amount of $50,207, even though this amount was established as the result of an error?
+[13] The second issue concerns the appellant's assertion that a part of the amounts shown as investments belonged to his two children.
+[14] The report of the appeals officer for Revenu Québec is found at Tab 16 of Exhibit R-1. With respect to the [Translation] "Investments item", the document reads as follows:
+[TRANSLATION]
+after detailed analysis of the documents received from the financial institutions with which the taxpayer does business and of the explanations given by the representative, we have determined the balances for this item at the end of each of the years in dispute. The taxpayer agrees with the balances so determined.
+[15] These balances were $83,300, $99,200, $110,025 and $102,479 for the years from 1993 to 1996 respectively. There is no dispute with respect to these amounts; however, the appellant submits that some of these investments were held in the names of the children and represented money received by them from relatives or money from child tax benefits. This argument that some of the investments belonged to the children was made in Mr. Pinto's written proposal to the lawyers acting for Revenu Québec. It was not accepted for the purposes of the transaction referred to at the beginning of these reasons.
+[16] This submission was also made to Revenue Canada at the objection stage. According to Exhibit A-5, the amount of the investments belonging to the children was $23,200 for 1994, $24,200 for 1995 and $32,500 for 1996. In 1993, the amount was apparently $19,300.
+[17] The following appears in the Revenue Canada Report on Objection found at Tab 22 of Exhibit R-1:
+[TRANSLATION]
+3. Three bank accounts allegedly belonging to the children
+At first, during the discussions with the representative, he indicated that three bank accounts belonged to the children. The parents allegedly deposited the family allowances and the family deposited gifts in these accounts.
+During the discussions, the representative always suggested that the taxpayer had two children. In the first place, we are somewhat uncertain and at the very most can contemplate taking only two of these accounts into consideration.
+Furthermore, the representative did not provide any documentary evidence showing that three of these accounts belonged to the children and that deposits were made regularly.
+This point was accordingly not granted.
+[18] The appellant's wife, P. Rabinovitch, testified on this point at the hearing and spoke of the various gifts that the children could have received and the bank accounts that she kept for them.
+[19] During his submissions, counsel for the respondent stated that it was plausible that the children had received money from relatives and friends and from child tax benefits. Although there is no documentary evidence to this effect and while there was only the testimony of the appellant's wife, counsel for the respondent said that he was prepared to allow an amount of $600 per year, which would be included in the adjustments to be deducted for each of the years 1994 to 1996.
+[20] The third issue concerns a sum of $70,000 recorded as a gift or an asset among the assets included in the net worth. The appellant requested that this amount be deducted.
+[21] The Revenu Québec auditor, Emmanuel Bitondo-Nanga, explained that the appellant had stated that he had received a $70,000 loan from his brother Peter in 1994. The amount entered under liabilities for 1994 is $60,000 because $10,000 had allegedly been repaid at the end of that year. Since no explanation was given as to what became of this amount of $70,000, it was recorded as a gift as it could have as well been added to the cost of living. This loan purportedly made by the appellant's brother was said to have been in cash.
+[22] At the objection stage, Revenue Canada made the following comments concerning the loan of $60,000, at Tab 22 of Exhibit R-1:
+[TRANSLATION]
+If a loan is recognized, it must also be determined what use was made of the money. There are two possibilities:
+- either there was an increase in assets
+- or there was an increase in the cost of living for the year in question.
+The representative maintains that the loan was intended to pay the taxpayer's share of the building on Westmore Street, originally purchased on a fifty-fifty basis with his brother-in-law.
+Having acquired full ownership of the building through a payment of money, the taxpayer had a debt in 1993 in the opening balance. He merely substituted one debt for another.
+In other words, in the opening balance, the taxpayer had 100% ownership of the building. If he makes a payment of money, the amount thereof is either an item to be included in the cost of living if the cost of the property is $1.00 or the payment of a debt. Borrowing money on the one hand and repaying it on the other does not in any way change the net worth.
+[23] Ms. Rabinovitch also testified concerning the loan of $70,000. She stated that this sum, which was borrowed from her husband's brother, Peter, had been handed over to her brother, Howard, who, together with her husband, owned the income producing property located at 492527 Westmore. At the beginning of her testimony, she appeared to indicate that Howard's share in the property had been transferred after 1994 or 1995. However, on presentation of the transfer document dated 1993, which indicated that this transfer had occurred in 1993 for the sum of one dollar, Ms. Rabinovitch provided other explanations.
+[24] A somewhat similar version of the facts had been given by Mr. Pinto in his proposal to Revenu Québec in March 2000 found at Tab 24 of Exhibit R-1. During the hearing, the representative of the appellant stated that Revenu Québec had accepted his representations and that the amount of $70,000 had been deducted for the purposes of the assessment. An examination of the transaction document made it clear that Revenu Québec had made no such reduction for the transaction regarding income tax. What Revenu Québec did for the purposes of the transaction was to cancel the interest and penalties (Tab 12 of Exhibit R-1).
+[25] At the objection stage, there was also a request for a reduction of $30,000, for 1995 with respect to the purchase of a property included among the immovables. The Report on Objection at Tab 22 of Exhibit R-1 states the following in this regard:
+[TRANSLATION]
+The taxpayer's mother asked her son to purchase the building on Montclair Street in order to help a personal friend who was experiencing financial problems. To this end, the mother used an inheritance from Italy and loaned her son the sum of $30,000. The representative requests that the net worth be reduced by $30,000.
+. . .
+The documentation provided by the representative is considered sufficient for this point to be granted.
+Analysis and conclusion
+[26] Concerning the first issue, namely the taking into account of the error made in establishing the net worth for 1996, I find that this error was not mentioned in the Reply and that the amendment to the Reply was not accepted. Nor was this error known to the federal auditor at the time of the assessment.
+[27] In my view, these factors, and especially the last one relating to knowledge at the time of the assessment, prevent me from agreeing to take the error into consideration. In this respect, I rely on the decision of the Federal Court of Appeal in Petro-Canada v. Canada, [2004] F.C.J. No. 734 (Q.L), at paragraphs 65, 68 and 69, where that Court ruled that the Minister could not do indirectly what he could not do directly, that is, appeal from his own assessment.
+[28] I must also note that counsel for the respondent did not make any reservation with respect to the reduction of $20,000 in the total amount of personal expenses for each of 1995 and 1996.
+[29] With respect to the amounts purportedly held for the children, which came from sources other than the appellant and his wife, testimonial evidence alone is not sufficient. The amounts allowed by counsel for the respondent seem reasonable and are accepted.
+[30] The appellant's version with respect to the requested deduction of an amount of $70,000 that was purportedly borrowed cannot be accepted. It is not possible to understand what became of this money. There is no document proving anything and no accounting explanation was given by the representative of the appellant.
+[31] The appeals are allowed on the ground that amounts of $8,000 for 1994 and $20,000 for each of 1995 and 1996 must be deducted from the cost of living and thus deducted from the unreported income for those years, as assessed. An amount of $600 must also be deducted for each of the years in issue.
+[32] There was not really any discussion concerning the assessment of the penalties, except for a request to cancel the penalties and interest, as was done in the transaction with Revenu Québec.
+[33] As far as the penalties are concerned, given the substantial amount of unreported income, I feel that they were properly assessed under subsection 163(2) of the Income Tax Act (the "Act"). As regards the interest, the Court has no discretion to cancel it. The only provision of the Act relating to the partial or complete cancellation of interest makes this a matter of ministerial discretion: subsection 220(3.1) of the Act. This provision also gives the Minister discretion with respect to the waiver of penalties.
+Signed at Ottawa, Canada, this 11th day of August 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+CITATION: 2005TCC481
+COURT DOCKET: 2003-2879(IT)G
+STYLE OF CAUSE: LUCIANO MENNILLO v. THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: March 9, 2005
+REASONS FOR JUDGMENT BY:
+DATED: August 11, 2005
+APPEARANCES:
+For the appellant:
+the appellant himself
+Counsel for the respondent:
+Me Charles M. Camirand
+SOLICITORS OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

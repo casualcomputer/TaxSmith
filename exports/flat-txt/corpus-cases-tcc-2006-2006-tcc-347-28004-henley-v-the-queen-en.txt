@@ -1,0 +1,221 @@
+Title: Henley v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28004/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-347-28004-henley-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-07-27
+
+# Henley v. The Queen
+
+- Citation: 2006 TCC 347
+- Decision date: 2006-07-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1786, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Henley v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-27
+Neutral citation
+2006 TCC 347
+File numbers
+2003-3573(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3573(IT)G
+BETWEEN:
+CHRISTOPHER M. HENLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 14, 2005 at London, Ontario
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+David J. Thompson
+Counsel for the Respondent:
+Ronald MacPhee and
+Justine Malone
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment, on the basis that:
+1. the share warrants allocated to the Appellant were a benefit in respect of, in the course of or by virtue of employment within the meaning of paragraph 6(1)(a) of the Act;
+2. the value of that benefit was quantifiable and received by the Appellant on September 28, 1998, the date the share warrants were issued;
+3. the value of that benefit is to be calculated according to the number of share warrants allocated as of September 28, 1998 based on the difference between the market value of the shares on that date of 32 cents per share and the exercise price under the share warrants of 31 cents per share;
+4. the proceeds of $967,480 received in 2000 following the exercise of the share warrants and disposition of the shares acquired were not a benefit in respect of, in the course of or by virtue of employment within the meaning of paragraph 6(1)(a) of the Act; and
+5. the proceeds of $967,480 constitute a capital gain realized by the Appellant in 2000.
+Signed at Ottawa, Canada, this 27th day of July, 2006.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2006TCC347
+Date: 20060727
+Docket: 2003-3573(IT)G
+BETWEEN:
+CHRISTOPHER M. HENLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] From 1995 to 1999, the Appellant, Christopher M. Henley, was employed as an investment banker. In 1998, his employer was issued share warrants by a client in partial payment of the employer's fees. A portion of these share warrants had been earlier allocated to the Appellant by his employer as part of his remuneration for his services on that client's file.
+[2] In 2000, the Appellant caused the share warrants to be exercised and the shares immediately sold. In assessing the Appellant's income for 2000, the Minister of National Revenue included as income from employment under subsection 5(1) and paragraph 6(1)(a)[1] of the Income Tax Act the proceeds of $967,480.16, the difference between the market value per share at the time of their acquisition (and disposition) and the share warrant exercise price of 31 cents per share. In response to the Appellant’s objection, the Minister confirmed the assessment by Notice of Confirmation dated June 26, 2003. It is from that confirmation that the Appellant is appealing.
+[3] A Joint Book of Documents and an Agreed Statement of Facts was filed at the hearing:
+AGREED STATEMENT OF FACTS
+For purposes only of this appeal and any appeal from it or any other proceeding taken in this matter, the parties agree that the facts set out herein are true. The parties also agree that the documents referred to below and attached as exhibits are true copies of the documents they represent, were signed by the persons who purported to have signed them, and were signed on the dates they were purportedly signed. This agreement does not preclude either party from proving other facts provided they are not inconsistent with these facts.
+a) the Appellant was an employee with Canaccord Capital Corporation (Canaccord) between December 1995 and May 4, 1999. The Appellant was not an employee of Canaccord in the year 2000;
+b) Canaccord is in the business of investment banking and related activities;
+c) on June 10, 1997 Canaccord and Unique Systems Inc., who would eventually become Unique Broadband Systems Inc. (UBS) entered into an agreement whereby Canaccord was to act exclusively as agent for UBS in connection with a proposed treasury financing for UBS for a minimum of $3,000,000 and a maximum of $6,000,000 raised (the "Offering) by way of a private placement of equity;
+d) in connection with the offering Canaccord agreed to: (1) use best efforts to structure, market and obtain commitments on mutually agreeable terms in respect of the proposed financing of the company; (2) comply with all applicable securities laws in respect of its obligations hereunder (3) advise the company as to the appropriate structure of the financing and assist with the preparation of required documentation; (4) organize meetings between representatives of the company and potential investors; and (5) assist the company in the negotiating and structuring of the final terms of the financing and assist with closing the transaction;
+e) part of the compensation Canaccord received for its services was a Compensation Option to purchase an aggregate of 10% of the Offered Securities issued or issuable at the issue price of the Offering for a period of 24 months;
+f) Canaccord allocated 742,692 UBS Compensation Options, or share purchase warrants (the UBS Warrants), or other consideration received in lieu thereof, to the Appellant on May 28, 1998;
+g) (i) on September 4, 1998 Unique Broadband Systems Inc. (UBS) issued a press release that the Vancouver Stock Exchange had approved the issuance of 2,970,767 share purchase warrants (also referred to as Compensation Options in the above paragraph) to Canaccord in connection with the acquisition of another company by UBS in September 1997 with a stock price of $0.31.
+(ii) the share purchase warrants were exercisable for two years at $0.31 per share
+(iii) the shares of UBS closed on the Vancouver Stock Exchange on September 4, 1998 at $.31 per share and a high of $0.34 per share that day
+(iv) the warrants were issued as compensation for services provided by Canaccord to UBS.
+h) the warrants entitled Canaccord to purchase shares of UBS at $0.31 per share, for a period of 2 years. The warrants were issued on September 28, 1998, at a time when the shares had a closing price of $0.32 per share. The closing price of UBS shares was less than $0.31 per share for the remainder of 1998;
+i) the terms of the UBS warrants received by Canaccord included the following: the warrants could not be traded on the stock exchange; the warrants could not be transferred or assigned; the warrants could not be converted to shares if the shares were on a restricted list; and the warrants had an expiry date of 24 months from the date of issue;
+j) at all material times to this litigation, prior to their exercise, these warrants were held in the name of Canaccord;
+k) Canaccord allocated a portion of these warrants to its employee, the Appellant, as compensation for services provided in his employment;
+l) Canaccord continued to hold the warrants for the appellant, even after the Appellant left their employment;
+m) Upon leaving his employment with Canaccord, the Appellant signed a release and settlement agreement (the "Agreement") with Canaccord. The Agreement, in part, stipulated that;
+(i) Canaccord had allocated 742,692 UBS Warrants to the Appellant on his understanding, and upon his acknowledgement by signing the release, the said options are non-transferable and non-assignable;
+(ii) Canaccord would exercise the warrants on the direction of the Appellant;
+(iii) the Appellant could exercise the Warrants for cash and corresponding shares deposited to his account;
+(iv) Canaccord had the right to exercise the Warrants from time to time, and if they did so, the Appellant was to receive a pro rata share of the value of the options less any applicable deductions;
+(v) the Appellant was to give instructions to identified employees of Canaccord by telephone, fax or e-mail, during normal business hours.
+n) Canaccord did not include the value of benefits in respect of warrants in the taxpayer's 1998 T4 slip;
+o) Canaccord exercised the options and immediately sold the acquired shares of UBS upon instructions from the Appellant and throughout the period commencing January 12, 2000 and ending September 26, 2000;
+p) Canaccord charged the Appellant commission on each trade which it executed upon the instructions of the Appellant in connection with the Warrants;
+q) Canaccord paid the net proceeds from the exercise of the options and the disposition of the UBS shares to the Appellant;
+r) Canaccord included the difference between the exercise price of the options and the sale price of the UBS shares as income from employment on the T4 form issued by Canaccord to the Appellant in respect of the 2000 taxation year.
+[4] The relevant portions of subsection 5(1) and paragraph 6(1)(a) of the Income Tax Act read as follows:
+5(1) Subject to this Part, a taxpayer’s income for a taxation year from … employment is the salary, wages and other remuneration, including gratuities, received by the taxpayer in the year.
+6(1) There shall be included in computing the income of a taxpayer for a taxation year as income from … employment such of the following amounts as are applicable:
+(a) the value of … other benefits of any kind whatever received or enjoyed … in the year in respect of, in the course of, or by virtue of … employment …
+[5] The Appellant was the only person to testify. I found him to be a knowledgeable and entirely credible witness. While he accepts that the allocation of the share warrants gave rise to an employment benefit under paragraph 6(1)(a), the Appellant disputes that it was taxable in 2000. The Appellant's position is that that benefit was quantifiable when the approval of the issue of the share warrants was announced on September 4, 1998, or alternatively:
+1. on May 28, 1998, the date Canaccord allocated the share warrants to the Appellant;
+2. on September 28, 1998, the date the share warrants were issued to Canaccord; or
+3. on May 7, 1999, the date the Appellant ceased to be employed at Canaccord.
+According to the Appellant, the benefit ought to be included in his 1998 income[2] under paragraph 6(1)(a) of the Act. The Appellant further argues that the proceeds of $967,480 received in 2000 upon the exercise of the share warrants and disposition of the acquired shares ought to be treated as a capital gain[3].
+[6] The Respondent relies on a decision of the Federal Court of Appeal, Robertson v. The Queen[4], to argue that it was not possible for the Appellant to have received a taxable quantifiable benefit from employment until 2000 when he exercised the share warrants, acquired the shares and disposed of them.
+[7] The facts of the Robertson case are summarized by Marceau, J.A. as follows:
+… In 1974, the appellant was employed as a ranch manager supervising the ranching operations of a Mr. Jack M. Pierce. Mr. Pierce was also the President and a shareholder of an oil company, Ranger Oil (Canada) Limited. As an inducement to the appellant to stay on as ranch manager, Pierce granted the appellant, by agreement signed October 9, 1974, an option[5] to purchase up to 2,500 common shares he owned in Ranger Oil at $15 per share, which price approximated their fair market value at the time. The option was to become exercisable at the rate of 500 shares per year, over the next 5 years, subject to certain conditions, the main condition being that the appellant continue his employment.
+Five years later the appellant was still Pierce's ranch manager and he had not yet exercised the greatest portion of the option. In the interim, there had been a split of the common shares of Ranger Oil, entitling him, under the agreement, to purchase 6,000 shares at a price of $3.75 per share. On September 15, 1980, he called for the shares at the aggregate price of $22,500. On that date, the 6,000 shares had a fair market value of $258,000.[6]
+[8] The Minister assessed the difference as a benefit under sections 5 and 6 of the Act. Robertson appealed unsuccessfully on the basis of a House of Lords decision, Abbott v. Philbin[7]. On further appeal to the Federal Court of Appeal, Marceau, J.A. rejected the reasoning of the trial judge but "finally" concluded that his decision must "nevertheless be upheld", qualifiers[8] which suggest a certain lack of satisfaction with the outcome.
+[9] Adopting the reasons of the dissenting Lords Keith and Denning in Abbott v. Philbin, the learned appellate justice expressed his thinking in these words:
+The question debated is whether the benefit of an option to purchase shares at a fixed price (assuming that it is a taxable benefit) should be measured and seen to have accrued at the time of its conferral, or at the time of its exercise. In the Abbott v. Philbin case, the judgment of the majority, as I understand it, hinges on two propositions, a basic one and an alternative one. If, say the three learned law lords, a benefit can be said to have been granted at one time, more precisely when the option was given, it is not possible to speak of another benefit being granted later at another time. In any event, adds Lord Reid, even if we can speak of a benefit realized by the exercise of the option, it would not be possible to relate it directly to the employee's office.
+...
+My reaction to the main proposition is this. Obviously, double-tier taxation should not be imposed on gains from a single transaction, nor should the same benefit be taxed on two occasions. We certainly cannot have two benefits of a same type, both taxable under paragraph 6(1)(a) of the Act. But, that being said, let me ask why the arrangement should necessarily be seen as conveying only a single benefit. It can hardly be contested, it seems to me, that a first benefit arises upon the employer binding himself, over a period of time, to sell shares at a fixed price, regardless of the appreciation in the market value of such shares, and a second benefit arises if and when the employee makes use of the rights flowing from the first one and exercises the option. The fact is however that while the second benefit can be measured by the discrepancy between the cost of exercising the option and the market value of the shares at the time of the acquisition, the first benefit, although a real one, eludes independent quantification.
+...
+In any event, outside any difficulty of text [between the English and Canadian legislation], I fail to see how one can get around the fact that if the purchase of shares for an amount less than their value is possible, it is only because of the existence of a promise made by the employer to reward the services of his employee. The exercise of the option is inseparable from the signing of the agreement and the employer-employee relationship. We cannot look at the taxpayer who exercises the option as if he had owned the shares all along; the power to acquire the shares should not be confused with ownership of the shares itself. Finally, was it not here a condition of the agreement that the option be exercised before or within a few days after the end of employment: the relation with the services rendered as an employee is there too made manifest.
+Thus, in my view, there are two economic benefits, both arising from employment, but only the second is quantifiable as only that one is realized by a flow of money or money's worth from the employer to the employee. Nothing flows from the employer on the granting of the option: while the employer retains the shares, votes them, collects dividends for his own account and may dispose of them, the employee only acquires a possibility to eventually obtain a proprietary interest in those shares and realize a profit therefrom. In my view, individual taxation on employment-source income is based on the flow of money or money's worth from the employer to the employee. Only the second benefit, the quantifiable one, falls within the scope of paragraph 6(1)(a) of the Act.[9]
+[10] Counsel for the Respondent submitted that the present case is indistinguishable from Robertson; thus, while conceding that the Appellant received a "right" when the share warrants were allocated to him in 1998, counsel argued that that right could not constitute a taxable benefit until 2000:
+... Even if the Appellant was allocated and had a legal right to these warrants, when I walk through Robertson I'll point out to Your Honour that Robertson is quite clear that yes, the allocation of warrants or option grants a right to the Appellant but it’s not a taxable benefit when you’re under 5 and 6. The taxable benefit arises as a result of the flow of monies to the Appellant.
+...
+It's the Respondent's submission that the income that the Appellant received is not quantifiable until he exercises these warrants through the mechanism that was placed through his former employer and it's only then that he knows that he traded 3,000 shares for $15,000 or 3,000 shares for $30. Whatever the value of his shares determines, it determines the income he received.[10]
+...
+And in this situation and the facts and the testimony of the Appellant, with what we saw there's a very clear flow of money when he puts the order to Canaccord. They do what I previously described; they sell, buy the shares and send a cheque to the Appellant. That’s the flow of money that I respectfully submit the Federal Court of Appeal is describing should be dealt with as a taxable benefit under section 5 and section 6 of the Act.[11]
+[11] As I understand the Respondent's argument as set out above, Robertson makes it impossible, as a matter of law, for the Appellant to have received a quantifiable taxable benefit within the meaning of paragraph 6(1)(a) before 2000, when the share warrants were exercised and the acquired shares sold.
+[12] Clearly, as both counsel pointed out in their arguments, this Court is bound by decisions of the Federal Court of Appeal. I am not, however, convinced of the correctness of the Respondent's interpretation of the reasons in Robertson. I am more inclined to the Appellant's argument that Robertson was decided on its particular facts; accordingly, this Court is not precluded in law from finding as a fact that the share warrants were capable of quantification prior to their exercise in 2000. I also accept the Appellant’s submission that the facts of the present case are distinguishable from those in Robertson.
+[13] Turning first to the legislation, paragraph 6(1)(a) forms part of Division B of Part I of the Act, appearing under the heading Computation of Income. Section 3, the opening provision of Division B, provides that "income" is to be computed according to the rules for its source; where there are multiple sources, each must be computed individually, with the "total of all amounts" from such sources comprising the taxpayer's "income" for that taxation year.
+[14] Under Subdivision a - Income or Loss from Office or Employment of Division B are found sections 5 and 6. Section 5 is set out under the heading Basic Rules and defines income from employment as "salary wages and other remuneration, including gratuities received by the taxpayer in the [taxation] year".
+[15] Section 6 appears under the heading Inclusions. Paragraph 6(1)(a) provides for the inclusion of the value of "other benefits of any kind whatever". The intention of this broadly drafted provision[12] is to catch the value of employee rewards which, otherwise, might fall outside the meaning of "salary, wages and other remuneration". Consistent with the general provisions of subsection 5(1), under paragraph 6(1)(a) the value of such benefits is to be included as income from employment in the taxation year in which that value is received.
+[16] Paragraph 6(1)(a) is silent, however, as to what constitutes a "benefit" or how the "value" of that benefit is to be quantified. These are questions left to the trier of fact, depending on the particular circumstances of each case. In making such determinations, the Court must be mindful of the Minister's duty under the Act to assess the economic advantage received by a taxpayer in a taxation year, while also respecting fundamental principles underpinning the Canadian taxation system: that (absent a deeming provision), the taxpayer must have, in fact, had an economic advantage, and that the source of that economic advantage must be identified and the computation rules applicable to that source applied[13].
+[17] In Robertson, though adopting the reasons of the dissenting minority in Abbott v. Philbin, Marceau, J.A. did refer to the majority reasons in which Lord Reid distinguishes, as a matter of fact, between a "…reward given in the form of an option … [where] the option itself is the perquisite[14] … and [where] the option is not the perquisite – [where] there is no perquisite until the option is exercised and the shares are issued…"[15] Although ultimately concluding that Robertson's situation fell into the latter category, the Court's reference to this passage suggests that, depending on the facts, the other possibility exists.
+[18] In the particular facts of Robertson, the Court was of the view that "the first benefit, though a real one, eludes independent quantification." Though referring to the first benefit as an "option" in the recitation of the facts found at trial, Marceau, J.A. ultimately concluded that:
+… what the employee has is an offer (an offer which may be made irrevocable at will and will then usually be called "option", but remains nevertheless a simple offer), and in none of them does a quantifiable benefit arise until the offer is acted upon. It is only if and when the offer is so acted upon that a benefit may be received by the employee and become taxable as income from employment, regardless of whether the employment relationship is still in existence.[16] [Emphasis added.]
+The Court also specifically referred to the conditional nature of Pierce's "simple offer" and its link to Robertson's employment:
+Finally, was it not here a condition of the agreement that the option be exercised before or within a few days after the end of employment: the relation with the services rendered as employee is there too made manifest.[17]
+[19] Also significant is the finding of fact that the Ranger Oil shares subject to the offer were already issued and, at all times, remained under the Pierce's control: "… the employer retains the shares, votes them, collects the dividends for his own account and may dispose of them[18]…", this latter suggesting that Pierce had not bound himself to retain enough shares to fulfill his promise to Robertson, if ever he chose to take him up on his "simple offer". According to Marceau, J.A., the "simple offer" of 1974 did not crystallize into an "option" until 1980, the year it was acted upon. It was in this context that the Court concluded that:
+It can hardly be contested, it seems to me, that a first benefit arises upon the employer binding himself, over a period of time, to sell shares at a fixed price, regardless of [page726] the appreciation in the market value of such shares, and a second benefit arises if and when the employee makes use of the rights flowing from the first one and exercises the option. The fact is however that while the second benefit can be measured by the discrepancy between the cost of exercising the option and the market value of the shares at the time of the acquisition, the first benefit, although a real one, eludes independent quantification. [19] [Emphasis added].
+[20] In the present case, the only benefit received by the Appellant in respect of his employment was the share warrants themselves. It is common ground that they formed part of his compensation for his services on the UBS file. Indeed, the notion of using share warrants as a form of compensation originated with the agreement between Canaccord and UBS.
+[21] Canaccord had bound itself to do all things necessary to permit the Appellant to enjoy its rights as share warrant holder in respect of his allocated share warrants. The terms of the share warrants obliged UBS to honour subscriptions for shares from the share warrant holder. Further, in the event of the share warrants not being issued, UBS was required to compensate Canaccord in "other consideration in lieu thereof"; in such circumstances, Canaccord was likewise bound to pay a pro rata share of that alternate consideration to the Appellant - a promise worth very little if no quantifiable value could be ascribed to the share warrants unless or until they were issued, exercised and the shares sold. The inclusion of such a term in the agreement between parties with the experience and understanding of investment banking of Canaccord and the Appellant bolsters the Appellant's argument that the share warrants were capable of valuation as early as their allocation in May 1998. As it happened, the share warrants were issued, as anticipated, on September 28, 1998 and held by Canaccord, as agreed, in its "inventory" account as an "allowance" for the Appellant, in essentially the same way as Canaccord would have done for any of its clients.
+[22] Counsel for the Respondent argued that the limitations[20] imposed by the terms of the share warrants on the Appellant put the share warrants on par with Robertson's "simple offer". I do not think this is so. In Robertson, the Court found a link of some kind between Robertson's employment and the limitation on his power to act on his employer's offer. In the present case, what limitations there were stemmed, not from the employment relationship between Canaccord and the Appellant but rather, directly from the compensation agreement between Canaccord and UBS, or indirectly, from the Vancouver Stock Exchange, as industry regulator. Indeed, what was rooted in the Appellant's employment was his ability to bypass these third party-imposed limitations; for example, the process by which the Appellant could fully exercise his rights to the share warrants[21].
+[23] Counsel for the Respondent submitted, however, that because Canaccord retained the right to exercise the share warrants throughout their 24-month term, the Appellant did not have an "absolute vested interest" in them and thus, was as vulnerable to the whim of his employer as Robertson. I am not persuaded by this argument. Given that the share warrants were issued to Canaccord and that they were, on their face, not transferable or assignable, Canaccord could not escape its legal rights under the share warrants. This did not diminish, however, the Appellant's enforceable equitable right[22], flowing from his employment agreement with Canaccord, to his allocated share warrants, once issued. Furthermore, even if Canaccord had exercised the share warrants[23], it was bound by their employment agreement to turn over to the Appellant his pro rata share of the proceeds, less any fees and commissions. This underscores the unconditional nature of the Appellant's interest in the share warrants qua property; it does not, however, necessarily lead to the conclusion that the source of such proceeds was the Appellant's employment.
+[24] I am further persuaded by the Appellant's evidence that, in retaining this right, Canaccord was fulfilling its oversight duties as broker, ensuring (as it would do for any client) that the Appellant did not, through inadvertence, miss a profitable opportunity by failing to exercise the share warrants prior to their expiry. This, and the charging of fees to the Appellant are indicative of the change in the nature of the relationship between Canaccord and the Appellant once the share warrants were issued. As of that moment, their dealings in respect of the allocated share warrants were not as employer and employee but rather, qua broker and client. It was then, that the link was broken between the Appellant's employment and any economic advantage in excess of the September 28, 1998 value of the share warrants.
+[25] Though the concept of evaluating options is not new[24], since Robertson was decided, technology has increased dramatically the facility with which the data necessary for the calculation of their value may be obtained. In Robertson, it is not clear from the reasons what evidence was before the Court as to how such an evaluation could be made; at the hearing of this matter, however, the Appellant presented a sheaf of computer-generated documents[25] containing the daily ranges of values of the UBS shares between May 1998 and September 2000. The Appellant also testified[26] to the valuation methods he used as an investment banker. He explained that a share warrant has an "intrinsic value"[27] when it is "in the money"; that is to say, when the share value on a particular day (assumed for the purpose, to be the day upon which an option is exercised) is higher than the exercise price of that warrant. In argument, counsel for the Appellant quoted from a publication[28] outlining the ways in which that valuation may be made:
+...
+The value of an option if it were to expire immediately [i.e., on the date evaluation is to be made] with the underlying stock at its current price. The amount by which an option is in the money. For call options the difference between the stock price and the striking price, if that difference is a positive number or zero or otherwise.[29]
+[26] Indeed, the Canada Revenue Agency is no stranger to such methods. Counsel for the Appellant cited Interpretation Bulletin IT-96R6 which deals with, among other things, shareholder benefits. Quoted below is the passage showing the department’s recommendation for determining the value of the benefit conferred on an individual shareholder upon the granting (as opposed to the exercise) of an option:
+...
+Shareholder benefit
+3. Unless all owners of the common shares of a corporation's capital stock are granted rights to acquire shares of the corporation's capital stock, the granting of an option to a shareholder may give rise to a taxable benefit under subsection 15(1) (see the current version of IT-116, Rights to Buy Additional Shares). For options granted after December 19, 1991, the corporation must grant identical rights at the same time to all owners of common shares in respect of each common share they own for subsection 15(1) not to apply.
+For example, when a corporation, for no consideration, grants on only some of its common shareholders, rights to purchase any additional shares of the corporation's capital stock, subsection 15(1) applies to those shareholders. A taxable benefit under subsection 15(1) may also arise when a corporation grants to a non‑shareholder an option to acquire shares in the corporation. Normally, the amount of a benefit under subsection 15(1) is the greater of:
+· the trading value of the rights received; and
+· the amount by which the fair market value of the shares subject to the option at the time of the option's distribution exceeds the exercise price provided in the option.
+The amount of such a benefit is added to the cost of the rights under subsection 52(1) except to the extent that the amount is otherwise added to the cost, or included in calculating the adjusted cost base, of the rights to the shareholder.
+[27] In Robertson, the Court could not "… get around the fact that if the purchase of shares for an amount less than their value is possible, it is only because of the existence of a promise made by the employer to reward the services of the employee." [Emphasis added.] In the present case, however, the "promise made" by Canaccord was to remunerate the Appellant, in part, with share warrants, a promise which was ultimately fulfilled with their issue on September 28, 1998. The share warrants constituted a "right" and were, therefore, "property"[30] which, as of that date, was unconditionally and irrevocably his. The Appellant was free to exploit the share warrants as he chose; for example, by using them (as was typical in the business) as collateral in other deals or by exercising them for cash or other shares. The share warrants themselves were a valuable component of his remuneration and as such, constituted a "flow of money's worth" received by the Appellant's on September 28, 1998. In these circumstances, I am satisfied that the value of the share warrants was quantifiable in 1998 based on the number of allocated share warrants, and the amount by which the fair market value of the UBS shares exceeded the exercise price under the share warrants. On September 28, 1998, the value of the UBS shares was 32 cents per share; the exercise price under the share warrants was 31 cents per share. The Appellant received the share warrants as an employment benefit in 1998 and thus, under subsection 5(1) and paragraph 6(1)(a) of the Act, that value must be included in the computation of the Appellant's income from employment for that year.
+[28] In Robertson, Marceau, J.A. held "[w]e certainly cannot have two benefits of a same type, both taxable under paragraph 6(1)(a) of the Act." And further that "… double-tier taxation should not be imposed on gains from a single transaction, nor should the same benefit be taxed on two occasions"[31]. Having found that the benefit arising from employment occurred upon the issuance of the share warrants to the Appellant in 1998, it follows that the proceeds of $967,480 received by the Appellant in 2000 upon the exercise of the share warrants and the disposition of the acquired shares cannot also be attributable to that source. In my view, the proceeds received in 2000 represent the fruits of the Appellant's prudent management of his capital and ought to be taxed accordingly.
+[29] The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. the share warrants allocated to the Appellant were a benefit in respect of, in the course of or by virtue of employment within the meaning of paragraph 6(1)(a) of the Act;
+2. the value of that benefit was quantifiable and received by the Appellant on September 28, 1998, the date the share warrants were issued;
+3. the value of that benefit is to be calculated according to the number of share warrants allocated as of September 28, 1998 based on the difference between the market value of the shares on that date of 32 cents per share and the exercise price under the share warrants of 31 cents per share;
+4. the proceeds of $967,480 received in 2000 following the exercise of the share warrants and disposition of the shares acquired were not a benefit in respect of, in the course of or by virtue of employment within the meaning of paragraph 6(1)(a) of the Act; and
+5. the proceeds of $967,480 constitute a capital gain realized by the Appellant in 2000.
+Signed at Ottawa, Canada, this 27th day of July, 2006.
+"G. Sheridan"
+Sheridan, J.
+CITATION: 2006TCC347
+COURT FILE NOS.: 2003-3573(IT)G
+STYLE OF CAUSE: CHRISTOPHER M. HENLEY
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: October 14, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: July 27, 2006
+APPEARANCES:
+Counsel for the Appellant:
+David J. Thompson
+Counsel for the Respondent:
+Ronald MacPhee and
+Justine Malone
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David J. Thompson
+Firm: Thompson Corbett Webster LLP
+London, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Section 7 of the Act has no application to the present case as the Appellant was not an employee of the corporation that issued the share warrants to his employer.
+[2] Or alternatively, 1999 income.
+[3] Appellant's Outline of Argument, paragraph 30.
+[4] 90 DTC 6070 (F.C.A.).
+[5] My concern with the description of this inducement as an "option" is discussed below at paragraphs 18 and 19 of these Reasons for Judgment.
+[6] Supra, p. 6071.
+[7] [1960] 2 All E.R. 763.
+[8] Supra, at p. 6071.
+[9] Robertson, Supra, pp. 6073-6074.
+[10] Transcript, p. 137-138.
+[11] Transcript, p. 148.
+[12] The Queen v. Savage, [1983] 2 S.C.R. 428 (S.C.C.).
+[13] Stewart v. Canada, [2002] 2 S.C.R. 645 at paras 48 and 49 (S.C.C.).
+[14] "Benefit", in the context of the Canadian legislation.
+[15] Robertson, Supra, p. 6073.
+[16] Supra, pp. 6074-6075.
+[17] But I must confess, with respect, to having puzzled over how to reconcile this statement with the learned appellate judge's earlier "reservations" (at p. 6074) concerning the trial judge's finding that the "option" was subject to Robertson's continued employment: "… these conditions never operated to prevent the appellant from acquiring, on the day the agreement was signed and at the end of each of the five following years thereafter, rights that were legally enforceable. There was no uncertainty about the existence of such rights."
+[18] Emphasis added.
+[19] Supra, at pp. 6073 - 6074.
+[20]Agreed Statement of Facts; paragraph (i): that the share warrants could not be traded on the stock exchange; that they could not be converted to shares if they were on a restricted list; and that they were not assignable or transferable.
+[21] Agreed Statement of Facts, paragraph (m); Release and Settlement Agreement: Certain individuals at Canaccord were designated to receive and act upon the Appellant's instructions in respect of the share warrants. Although this had been agreed to earlier, it was not reduced to writing until the Appellant's departure from Canaccord in 1999 when, to ensure that new managers (just then being put in place) would be aware of the agreement between the Appellant and their predecessors.
+[22] Re M.C. United Masonry (1983), 40 O.R. (2nd) 330 (Ont. C.A.).
+[23] Which did not, in fact, happen and I accept the Appellant's evidence that he did not expect that it would.
+[24] Estate of A.M. Collings Henderson v. Minister of National Revenue and The Bank of New York v. Minister of National Revenue, 73 DTC 5471 at p.5484.
+[25] Exhibit A-3.
+[26] Not as an expert, but as one who, as part of his regular duties, was familiar with and had applied current methods for option valuation.
+[27] Transcript p. 39.
+[28] Lawrence G. McMillan, Third Edition, Options as a Strategic Investment.
+[29] Transcript, p. 128.
+[30] Subsection 248(1) of the Income Tax Act.
+[31] Robertson, Supra, at p. 6073.

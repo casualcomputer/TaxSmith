@@ -1,0 +1,331 @@
+Title: Davis c. Le Roi
+Source: https://norma.lexum.com/tcc-cci/decisions/fr/item/521153/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-125-521153-davis-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-08-24
+
+# Davis c. Le Roi
+
+- Citation: 2023 CCI 125
+- Decision date: 2023-08-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5472, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davis c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-08-24
+Référence neutre
+2023 CCI 125
+Numéro de dossier
+2015-1196(IT)G
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-1196(IT)G
+ENTRE :
+MARY DAVIS,
+appelante (intimée),
+et
+SA MAJESTÉ LE ROI,
+intimé (requérant).
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 18 janvier 2023, à Calgary (Alberta)
+Devant : l'honorable juge K. Lyons
+Comparutions :
+Avocat de l'appelante :
+Me Jonathan Lafrance
+Avocat de l'intimé :
+Me Matthew W. Turnell
+ORDONNANCE
+VU la requête du requérant visant à obtenir l'autorisation de déposer une réponse modifiée en vertu de l'article 54 des Règles de la Cour canadienne de l'impôt (procédure générale);
+ET VU l'avis de requête et les déclarations sous serment à l'appui;
+ET VU les déclarations sous serment contestant la requête;
+ET VU les observations des deux parties;
+ET VU le consentement de Mme Davis aux modifications aux paragraphes 2, 3, 4, 6.1, 8, 11, 12, 13 et 14 et aux alinéas 15a), 15e), 15i.1), 15i.3), 15i.4), 15i.5), 15j), 15k.1), 15k.2) et 15k.3) de la réponse modifiée jointe en annexe A à l'avis de requête;
+LA COUR ORDONNE :
+a) le sous-alinéa 115(1)a)(ii) de la Loi de l'impôt sur le revenu est radié du paragraphe 37 de la réponse modifiée et remplacé par l'alinéa 115(1)a);
+b) les autres modifications à la réponse modifiée sont autorisées conformément aux motifs de l'ordonnance ci‑joints et la Cour accorde au requérant l'autorisation de déposer la réponse modifiée.
+LA COUR ORDONNE ÉGALEMENT :
+Mme Davis versera au requérant des dépens de 1 000 $ pour la présente requête sur‑le‑champ quelle que soit l'issue de la cause;
+Mme Davis consignera 17 750 $ à titre de cautionnement pour les dépens du requérant dans les présents appels conformément à l'article 166.1 des Règles dans un délai de 30 jours à compter de la date de la présente ordonnance.
+Signé à Ottawa, Canada, ce 24e jour d'août 2023.
+« K. Lyons »
+La juge Lyons
+Référence : 2023 CCI 125
+Date : 20230824
+Dossier : 2015-1196(IT)G
+ENTRE :
+MARY DAVIS,
+appelante (intimée),
+et
+SA MAJESTÉ LE ROI,
+intimé (requérant).
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+La juge Lyons
+I. Introduction [1] La présente requête vise à obtenir une ordonnance autorisant le requérant à déposer une réponse modifiée à l'avis d'appel en vertu de l'article 54 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles ») afin de présenter une thèse subsidiaire et des faits à l'appui en vertu du paragraphe 152(9) de la Loi de l'impôt sur le revenu (la « Loi »)[1]. La thèse subsidiaire est la suivante : le revenu obtenu par Mary Davis pour les services qu'elle a fournis au Canada à Seminars Unlimited Inc. (la « société ») devrait être imposé comme revenu d'emploi gagné par elle en tant qu'employée de la société (la « thèse relative à l'emploi »)[2].
+[2] Les appels sous‑jacents portent sur les cotisations établies par le ministre du Revenu national pour les années d'imposition 2004, 2005, 2006, 2007, 2008, 2009, 2010 et 2011 de Mary Davis (les « années en cause »). Les appels découlent de sa demande de remboursement de l'impôt retenu sur le revenu tiré des services qu'elle a fournis au Canada à la société au cours des années en cause (la « demande de remboursement »)[3]. En tant que non‑résidente du Canada, elle a produit des déclarations de revenus dans lesquelles elle affirmait que le revenu d'entreprise qu'elle avait gagné au Canada en qualité d'entrepreneuse indépendante (« EI ») ne provenait pas d'un établissement stable et n'était donc pas imposable au Canada. Lorsqu'il a examiné la demande de remboursement, le ministre s'est penché sur la question de savoir si, en tant qu'EI d'une entité qui dirigeait la société, l'appelante exploitait une entreprise au Canada par l'intermédiaire d'un établissement stable et il a établi la cotisation sur cette base.
+Questions préliminaires [3] Au début de l'audience sur la requête, le requérant :
+(i) a fait observer qu'il avait fait des aveux de fait supplémentaires aux paragraphes 2, 3 et 6.1 de la réponse modifiée et a précisé qu'il ne retirait pas d'aveux;
+(ii) a précisé que le paragraphe 37 de la réponse modifiée devrait tenir compte de l'alinéa 115(1)a) de la Loi dans son intégralité, plutôt que de se limiter au sous-alinéa 115(1)a)(ii) de la Loi.
+[4] Au début de l'audience sur la requête, Mme Davis :
+(i) a consenti à consigner 17 750 $ à la Cour à titre de cautionnement pour les dépens du requérant dans le présent appel conformément à l'article 166.1 des Règles[4];
+(ii) a consenti aux modifications des paragraphes 2, 3, 4, 6.1, 8, 11, 12, 13 et 14 et des alinéas 15a), 15e), 15i.1), 15i.3), 15i.4), 15i.5), 15j), 15k.1), 15k.2) et 15k.3) de la réponse modifiée;
+(iii) a déclaré qu'elle s'opposait aux autres modifications proposées par le requérant à l'alinéa 15i.2) et aux paragraphes 16 à 36 et 39 de la réponse modifiée.
+La requête
+[5] Le requérant propose d'ajouter l'alinéa 15i.2) de la réponse modifiée en tant qu'hypothèse de fait sur laquelle le ministre se serait fondé en établissant la cotisation et les paragraphes 16 à 35 en tant qu'autres faits pertinents à l'appui de la thèse relative à l'emploi présentée au paragraphe 39; le paragraphe 36 reformule la question[5].
+[6] Les motifs présentés dans l'avis de requête sont que les modifications proposées définissent les questions en litige suivant la découverte, lors de l'interrogatoire préalable de Mme Davis, de faits qui clarifient la position du requérant sur les faits dans l'avis d'appel et les hypothèses de fait dans la réponse. Les autres faits pertinents, dont plusieurs concordent avec les faits allégués dans l'avis d'appel, et la thèse relative à l'emploi à l'appui des cotisations pour les années en cause sont fondés sur son interrogatoire préalable et clarifient la véritable question en litige, ne causent aucun préjudice à l'appelante, n'entraîneraient pas un impôt plus élevé que ce qu'indique la cotisation et étayent le montant indiqué dans la cotisation.
+[7] Les déclarations sous serment suivantes ont été déposées : celle de Naseem Kausar, vérificatrice de l'Agence du revenu du Canada (la « vérificatrice »), les deux déclarations sous serment de Jennifer Lum, qui comprennent une copie de la transcription de l'interrogatoire préalable de Mme Davis, celle de Mme Davis, qui comprend une copie de la transcription de l'interrogatoire préalable de la vérificatrice, et celle de Denise Pope, qui est jointe au dossier de l'intimée à la requête et qui comprend une copie de la transcription du contre-interrogatoire de la vérificatrice sur sa déclaration sous serment.
+II. Le droit applicable L'article 49 des Règles [8] L'article 49 des Règles énonce certains éléments qui doivent figurer dans une réponse. Le passage pertinent du paragraphe 49(1) des Règles dispose que la réponse doit indiquer notamment :
+[...]
+d) les conclusions ou les hypothèses de fait sur lesquelles le ministre s'est fondé en établissant sa cotisation;
+e) tout autre fait pertinent;
+[...]
+L'article 54 des Règles [9] L'article 54 des Règles permet à une partie de modifier ses actes de procédure à certaines conditions. Par exemple, après la clôture des actes de procédure, une partie doit obtenir l'autorisation de la Cour, à moins d'avoir le consentement de l'autre partie. Cet article est libellé ainsi :
+Moment d'apporter les modifications
+54. Une partie peut modifier son acte de procédure, en tout temps avant la clôture des actes de procédure, et subséquemment en déposant le consentement de toutes les autres parties, ou avec l'autorisation de la Cour, et la Cour en accordant l'autorisation peut imposer les conditions qui lui paraissent appropriées.
+[10] La règle générale pour la modification des actes de procédure est qu'une modification devrait être autorisée à tout stade de l'action afin de permettre de trancher la véritable question en litige, pourvu que cela ne cause pas d'injustice à l'autre partie que des dépens ne pourraient compenser et que cela serve les intérêts de la justice[6]. Une modification peut être apportée même pendant le procès pour permettre de cerner les véritables questions en litige[7].
+[11] Récemment, la Cour d'appel fédérale, dans l'arrêt R. c. Pomeroy Acquireco Ltd., a précisé les principes régissant les modifications. L'arrêt énonce que la règle générale est que les tribunaux devraient autoriser une modification à tout stade de l'action si la modification aide le tribunal « à trancher les véritables questions en litige entre les parties » (un facteur important), pourvu que l'autorisation ne cause pas à l'autre partie une injustice que des dépens ne pourraient réparer et qu'elle serve les intérêts de la justice[8].
+[12] Il convient de se demander si le fait d'autoriser les modifications apportera clarté et certitude au procès[9].
+Le paragraphe 152(9) de la Loi [13] Le paragraphe 152(9) de la Loi permet au ministre d'avancer un nouvel argument à l'appui d'une cotisation après l'expiration de la période normale de nouvelle cotisation, sous réserve des limites prévues aux alinéas 152(9)a) et b).
+[14] Puisque les présents appels ont été interjetés en 2015, le libellé pertinent du paragraphe 152(9) est le suivant[10] :
+152(9) Nouvel argument à l'appui d'une cotisation
+Le ministre peut avancer un nouvel argument à l'appui d'une cotisation après l'expiration de la période normale de nouvelle cotisation, sauf si, sur appel interjeté en vertu de la présente loi :
+a) d'une part, il existe des éléments de preuve que le contribuable n'est plus en mesure de produire sans l'autorisation du tribunal;
+b) d'autre part, il ne convient pas que le tribunal ordonne la production des éléments de preuve dans les circonstances.
+[15] Dans l'arrêt Walsh, la Cour d'appel fédérale a énoncé les conditions suivantes applicables lorsque le ministre veut invoquer le paragraphe 152(9) :
+a. Le ministre ne peut pas inclure d'opérations dont on n'a pas tenu compte lors de la nouvelle cotisation du contribuable.
+b. Le droit du ministre de proposer un autre argument à l'appui d'une cotisation est assujetti aux alinéas 152(9)a) et b), qui ont trait au préjudice causé au contribuable.
+c. Le ministre ne peut pas invoquer le paragraphe 152(9) pour établir une nouvelle cotisation après le délai prévu au paragraphe 152(4) de la Loi ou pour percevoir un impôt dépassant le montant de la cotisation contestée[11].
+III. Le contexte [16] Pendant les années en cause, Mme Davis était une non‑résidente du Canada et une résidente des États‑Unis qui fournissait des services à Seminars Unlimited Inc., une société appartenant à Thelma Box, sa mère[12].
+[17] La société a effectué des retenues d'impôt sur les paiements qu'elle versait à Mme Davis pour les services fournis par cette dernière au Canada pour les années 2005 à 2011[13].
+[18] En 2012, Mme Davis a produit des déclarations de revenus pour les années en cause et a demandé le remboursement des retenues à la source prélevées par la société[14].
+[19] En juin 2012, l'ARC a mené une vérification portant sur les années en cause. La vérificatrice a reçu de Mme Davis une copie d'un contrat d'entrepreneur indépendant daté de mars 2012 avec entrée en vigueur rétroactive le 1er janvier 2004 conclu par Mme Davis et la société (le « contrat »). Le contrat qualifie Mme Davis d'EI d'une entité exploitant l'entreprise de la mère de celle‑ci et à laquelle Mme Davis fournit des services. Le ministre a supposé que Mme Davis travaillait à son compte en offrant des séminaires de perfectionnement personnel conformément à un contrat d'entreprise conclu avec la société et qu'elle recevait des revenus en contrepartie des services fournis en tant qu'animatrice de séminaires à divers endroits au Canada au cours des années en cause.
+[20] En 2013, le ministre a établi des cotisations à l'égard de Mme Davis pour les années en cause, et il a ensuite établi une nouvelle cotisation pour un revenu d'entreprise pour l'année d'imposition 2011, au motif que l'appelante exploitait une entreprise au Canada par l'intermédiaire de deux établissements stables. Par la suite, Mme Davis s'est opposée aux cotisations établies pour les années d'imposition 2004 à 2010 et à la nouvelle cotisation établie pour l'année d'imposition 2011. Dans les présents motifs, le terme « cotisations » inclut la nouvelle cotisation établie pour l'année d'imposition 2011.
+[21] Le ministre a ratifié les cotisations et envoyé un avis de ratification à Mme Davis le 7 mai 2015.
+[22] Depuis avril 2022, Mme Box est une patiente au Senior Adults Specialty Healthcare, P.A., où elle réside dans une unité sécurisée pour les troubles de la mémoire. Elle n'est pas en mesure de s'occuper de ses activités juridiques, professionnelles et personnelles, et on doit supposer que ses procurations sont en vigueur. Elle reçoit des soins à temps plein et une assistance totale pour toutes les activités de la vie quotidienne dont elle a besoin[15]. Depuis le 29 juillet 2022, elle est prise en charge par le groupe Austin Geriatric Specialists[16].
+Procédure [23] Mme Davis a déposé un avis d'appel le 10 mars 2015.
+[24] Le requérant a déposé une réponse le 14 janvier 2016.
+[25] Le requérant a déposé une liste de documents le 16 décembre 2016.
+[26] La Cour suprême de la Colombie‑Britannique a nommé la Law Society of British Columbia, le barreau de la Colombie‑Britannique, curatrice du cabinet juridique de l'avocat de Mme Davis à compter du 27 juillet 2017[17].
+[27] Mme Davis a déposé un avis de constitution d'un nouvel avocat le 1er août 2017.
+[28] Mme Davis a déposé une liste de documents le 15 mai 2018[18].
+[29] L'interrogatoire préalable de la vérificatrice en qualité de représentante du requérant a eu lieu le 19 octobre 2018. Le requérant a fourni les réponses aux engagements pris lors de l'interrogatoire préalable à Mme Davis le 18 décembre 2018.
+[30] Lors de l'interrogatoire préalable de Mme Davis, qui a eu lieu le 18 octobre 2018, celle‑ci a pris 24 engagements.
+[31] En juillet 2019, la Law Society of Alberta, le barreau de l'Alberta, a imposé une suspension administrative au deuxième avocat de Mme Davis. Mme Davis a donné suite à ses engagements le 6 décembre 2019[19]. Le 4 mars 2020, le requérant a posé à Mme Davis des questions de suivi sur les engagements, mais d'avril 2020 à octobre 2020, elle n'y a pas répondu.
+[32] Le 6 janvier 2021, le requérant a informé le deuxième avocat de Mme Davis que lorsqu'il recevrait de Mme Davis les réponses aux engagements, il demanderait à apporter des modifications à sa réponse.
+[33] Le 29 septembre 2021, une audience de justification a eu lieu, au cours de laquelle il a été décidé que le dossier de Mme Davis serait transféré à un troisième cabinet d'avocats.
+[34] La Cour a prononcé une ordonnance prévoyant qu'une conférence téléphonique aura lieu le 3 juin 2022. Le 1er juin 2022, Mme Davis a déposé un second avis de constitution d'un nouvel avocat.
+[35] À partir du 13 juin 2022, Mme Davis était représentée par son troisième et actuel avocat.
+[36] Le 27 octobre 2022, l'avocat actuel de Mme Davis a communiqué au requérant les réponses de celle‑ci aux questions de suivi sur les engagements, et le requérant a fait parvenir à Mme Davis un projet de réponse modifiée[20].
+[37] Le 1er novembre 2022 et par la suite, l'avocat actuel de Mme Davis a informé le requérant que Mme Davis entendait s'opposer au dépôt de la réponse modifiée, au motif que la thèse relative à l'emploi avait été soulevée tardivement[21].
+[38] Le 1er novembre 2022, le requérant a fait inscrire la présente requête au rôle en vue d'une audience en 2023.
+[39] Le 16 novembre 2022 :
+a) l'avocat de Mme Davis a communiqué avec le requérant par courrier en vue d'établir un échéancier informel des étapes préalables à l'audience sur la requête[22];
+b) le requérant a signifié à Mme Davis une demande d'aveux, ainsi qu'une demande d'aveux annotée renvoyant aux faits indiqués dans les documents et dans la transcription de l'interrogatoire préalable[23].
+[40] Le 24 novembre 2022, Mme Davis a signifié une réponse à la demande d'aveux, refusant de reconnaître la véracité de l'un quelconque des faits figurant dans la demande d'aveux avant que la question de la modification de la réponse ne soit réglée[24].
+[41] Le 6 décembre 2022, le requérant a signifié l'avis de requête en autorisation de modification et le dossier de requête.
+IV. QUESTION 1 : Alinéa 15i.2) de la réponse modifiée [42] La première question est celle de savoir si la modification proposée à l'alinéa 15i.2) de la réponse modifiée constitue une hypothèse de fait. Cet alinéa est libellé comme suit :
+[TRADUCTION]
+L'appelante a produit des déclarations de revenus aux États-Unis dans lesquelles elle a déclaré les revenus de source étrangère suivants et dans lesquelles elle a réclamé les crédits pour impôt étranger à l'égard du revenu :
+VIERGE
+Revenu brut de source étrangère (USD)
+Revenu imposable (USD)
+Crédit pour impôt étranger (USD)
+2004
+Non disponible
+Non disponible
+Non disponible
+2005
+Non disponible
+43 565 $
+6 535 $
+2006
+141 446 $
+129 158 $
+21 217 $
+2007
+166 040 $
+Non disponible
+22 430 $
+2008
+155 000 $
+Non disponible
+23 250 $
+2009
+155 000 $
+144 808 $
+30 625 $
+2010
+196 444 $
+180 132 $
+36 280 $
+2011
+199 724 $
+174 275 $
+31 535 $
+Les thèses des parties [43] La thèse du requérant est que la modification proposée de l'alinéa 15i.2) est une hypothèse de fait du ministre lors de l'établissement de la cotisation de Mme Davis pour les années en cause, comme le confirme la déclaration sous serment de la vérificatrice[25]. Le requérant soulève qu'à l'exception d'un montant corrigé (à savoir 43 565 $) et de la colonne [TRADUCTION] « Crédit pour impôt étranger (USD) » figurant dans la réponse modifiée et décrivant les crédits demandés par Mme Davis, les autres colonnes et montants sont ceux dans la version actuelle de la réponse. Il soutient que, bien que la vérificatrice ait reconnu, lors du contre-interrogatoire sur sa déclaration sous serment, que la modification proposée ne figurait pas dans son rapport de vérification, il n'est pas nécessaire que toutes les hypothèses apparaissent dans le rapport de vérification et il n'est pas non plus exigé qu'une hypothèse soit consignée dans un document donné. Ainsi, le contre‑interrogatoire n'établit pas que la modification proposée n'était pas une hypothèse de fait formulée lors de l'établissement des cotisations.
+[44] La thèse de Mme Davis est que, bien qu'elle soit disposée à permettre cette modification proposée en tant qu'autre fait pertinent, elle conteste qu'il s'agisse d'une hypothèse de fait, la vérificatrice ayant admis, lors de son contre‑interrogatoire, qu'elle n'avait pas reçu cette information au moment de la rédaction de son rapport de vérification, ce pour quoi elle ne l'avait pas incluse dans son rapport à l'époque[26].
+V. Analyse [45] La cotisation est établie sur la base des hypothèses de fait formulées par le ministre.
+[46] Une fois de plus, l'article 49 des Règles exige qu'une réponse indique les hypothèses de fait sur lesquelles le ministre s'est fondé en établissant sa cotisation. L'appel porte sur la cotisation qui fixe la dette fiscale du contribuable (d'abord établie et ensuite ratifiée par le ministre); le processus d'établissement de la cotisation du ministre n'est terminé que lorsque celui‑ci établit la dette fiscale de façon définitive afin d'établir l'obligation fiscale du contribuable[27]. Le requérant peut alléguer d'autres faits pertinents qui ne font pas partie des hypothèses de fait du ministre, auquel cas il lui incombe de les prouver[28]. Un fait pertinent est un fait nécessaire pour établir une cause d'action (ou un moyen de défense).
+[47] La vérificatrice a admis qu'elle n'avait pas reçu l'information au moment de la rédaction de son rapport de vérification, qu'elle a signé le 29 juillet 2013. Un mois s'est écoulé entre cette date et l'envoi, le 29 août 2013, des avis de cotisation qui signifient à Mme Davis la décision définitive du ministre concernant la cotisation.
+[48] Je ne partage pas l'opinion de Mme Davis selon laquelle, même si la vérificatrice disposait de l'information au moment de la signature du rapport, il était impératif que l'hypothèse elle‑même figure dans le rapport de vérification. Ce qui est nécessaire, c'est que le ministre se soit fondé sur l'hypothèse lorsqu'il a établi de manière définitive l'assujettissement fiscal.
+[49] Compte tenu de l'intervalle entre le rapport de vérification et l'envoi des avis de cotisation, et du fait que la vérificatrice a déclaré dans sa déclaration sous serment que la modification proposée [TRADUCTION] « reflète fidèlement l'hypothèse de fait sur laquelle le ministre s'est fondé pour établir la cotisation à l'égard de l'appelante pour les années en cause », ce que j'accepte, je suis convaincue que la modification proposée (les crédits pour impôt étranger et le montant corrigé) à l'alinéa 15i.2) constitue une hypothèse de fait sur laquelle s'est fondé le ministre en établissant les cotisations. J'en déduis que l'hypothèse a probablement été formulée dans l'intervalle et qu'elle a été omise de la réponse[29].
+VI. QUESTION 2 : Autorisation de modification – Thèse relative à l'emploi et faits à l'appui [50] J'en viens à la question de savoir si la Cour doit exercer son pouvoir discrétionnaire et autoriser le requérant à présenter la thèse relative à l'emploi et les autres faits pertinents à l'appui de cette thèse exposés aux paragraphes 16 à 35 et 39 de la réponse modifiée, reproduits ci-après :
+[TRADUCTION]
+16. Thelma Box est l'âme dirigeante de Seminars Unlimited Inc. et la mère de l'appelante.
+17. À tous les moments pertinents, Seminars Unlimited Inc. détenait la propriété intellectuelle et tous les droits associés aux séminaires.
+18. Seminars Unlimited Inc. a été inscrite en tant que société extraprovinciale sous le régime de la loi intitulée Company Act (Loi sur les personnes morales) de la Colombie‑Britannique le 22 avril 1999.
+19. Seminars Unlimited Inc. a été inscrite en tant que société extraprovinciale sous le régime de la loi intitulée Business Corporations Act (Loi sur les sociétés par actions) de l'Alberta le 5 août 1999.
+20. Seminars Unlimited Inc. disposait de bureaux à Calgary et à Vancouver au cours de la période pertinente ainsi que d'employés qui y travaillaient.
+21. Il incombait principalement à Mme Box de présenter les séminaires au cours de la période pertinente, y compris les séminaires présentés à Calgary et à Vancouver, ainsi qu'ailleurs au Canada et aux États‑Unis.
+22. Au cours des années d'imposition 2004, 2005, 2006, 2007, 2008, 2009, 2010 et 2011, l'appelante a exercé des fonctions et rendu des services au Canada pour Seminars Unlimited Inc., notamment en apportant son assistance et son soutien à l'organisation d'environ six à huit séminaires par an.
+23. Il n'incombait pas à l'appelante de choisir les dates des séminaires au Canada, ni de faire le nécessaire ou de réserver des hôtels pour leur tenue. C'est plutôt Seminars Unlimited Inc. qui organisait les séminaires.
+24. Seminars Unlimited Inc. a également engagé des coordinateurs d'inscription chargés de faire la publicité et la promotion des séminaires.
+25. Pour chaque séminaire auquel elle apportait son concours, l'appelante recevait une somme forfaitaire, dont le montant dépendait du nombre de participants au séminaire.
+26. L'appelante n'avait pas la possibilité d'influer sur le nombre de participants, et n'avait donc pas la possibilité d'augmenter la rémunération qu'elle recevait.
+27. L'appelante n'avait aucune possibilité de profit et aucun risque de perte en ce qui concerne les services qu'elle fournissait à Seminars Unlimited Inc.
+28. Seminars Unlimited Inc. remboursait à l'appelante les dépenses associées à la prestation de services de soutien aux séminaires, y compris les frais de déplacement et d'hébergement.
+29. Les outils et le matériel nécessaires aux séminaires comprenaient des tableaux à feuilles mobiles et du matériel audio et appartenaient à Seminars Unlimited Inc.
+30. L'appelante n'était tenue de fournir aucun outil pour la prestation de ses services de soutien aux séminaires et elle ne l'a pas fait.
+31. L'appelante n'exerçait aucun contrôle sur la prestation ou la présentation des séminaires.
+32. L'appelante accomplissait ses tâches sous la direction de Mme Box et de Seminars Unlimited Inc.
+33. Le 21 mars 2012, l'appelante et une entité liée à Seminars Unlimited Inc. ont conclu un contrat par lequel elles prétendaient donner à l'appelante le statut d'entrepreneuse indépendante à l'égard des services fournis depuis le 1er janvier 2004.
+34. C'est le conseiller fiscal canadien de l'appelante qui a suggéré qu'on conclue un contrat écrit, lors de la production au début de l'année 2012 des déclarations de revenus canadiennes de l'appelante pour les années en cause.
+35. Contrairement à l'hypothèse formulée par le ministre à l'alinéa 15c), l'appelante n'exploitait pas une entreprise pour son propre compte, mais était plutôt une employée de Seminars Unlimited Inc. pendant les années d'imposition 2004, 2005, 2006, 2007, 2008, 2009, 2010 et 2011.
+[...]
+39. À titre subsidiaire, si l'appelante n'a pas exploité sa propre entreprise, elle était au service de Seminars Unlimited Inc. aux termes d'un contrat de travail. Ainsi, l'appelante a gagné des revenus au Canada au cours des années d'imposition 2004, 2005, 2006, 2007, 2008, 2009, 2010 et 2011. La rémunération versée à l'appelante provenait des établissements stables de Seminars Unlimited Inc. situés au Canada.
+[51] Les paragraphes 16 à 21 précisent que Mme Box est l'âme dirigeante de la société et qu'elle était la principale responsable des séminaires, et que la société a été inscrite en tant que société extraprovinciale en Alberta et en Colombie‑Britannique.
+Les thèses des parties [52] Le requérant affirme qu'il est satisfait au critère pour obtenir l'autorisation de modifier à l'article 54 des Règles et aux conditions du paragraphe 152(9) de la Loi selon l'interprétation dans l'arrêt Walsh. Les modifications proposées aux paragraphes 16 à 35 de la réponse modifiée sont fondées sur des faits déjà présents dans les actes de procédure des deux parties et sur des faits nouveaux découverts lors de l'interrogatoire préalable de Mme Davis, de sorte que les faits sont en grande partie les mêmes, qu'il s'agisse de la thèse invoquée dans la version actuelle de la réponse ou de la thèse relative à l'emploi avancée dans la réponse modifiée. Le requérant présente quatre arguments à l'appui de sa position.
+[53] Mme Davis affirme que le requérant ne s'est pas acquitté du fardeau nécessaire pour obtenir l'autorisation de modifier la réponse et que la thèse relative à l'emploi n'a jamais été la véritable question en litige. Si on autorise les modifications proposées, cela causerait à Mme Davis une injustice que des dépens ne pourraient compenser et lui porterait préjudice, parce qu'elle ne serait pas en mesure de produire des éléments de preuve essentiels par suite de l'incapacité de Mme Box à témoigner en raison de son état de santé. Il ne serait pas non plus dans l'intérêt de la justice de permettre au requérant de modifier la réponse à une étape si tardive de l'instance, car, lors de l'introduction de l'appel, la seule question en litige portait sur l'établissement stable. En outre, les déclarations sous serment produites par le requérant n'exposent pas clairement de faits qui démontrent qu'il est satisfait au critère de l'article 54.
+[54] La déclaration sous serment de Mme Davis, au contraire, est détaillée, explique en quoi elle subirait un préjudice (l'incapacité de Mme Box à témoigner) que des dépens ne pourraient compenser et en quoi une autorisation de modifier serait contraire à l'intérêt de la justice. Puisque le requérant a choisi de ne pas contre‑interroger Mme Davis sur sa déclaration sous serment, les éléments de preuve qu'elle a produits sont incontestés et non contredits et doivent être acceptés tels quels. Les modifications proposées concernant la thèse relative à l'emploi contredisent directement le fondement initial de la cotisation.
+La véritable question en litige [55] Premièrement, le requérant soutient que les modifications proposées et la thèse relative à l'emploi clarifient la véritable question en litige, car la principale question à trancher est de savoir si les revenus de Mme Davis provenant de la société sont assujettis à l'impôt au Canada. Elle est non-résidente du Canada et assujettie à l'impôt au titre du paragraphe 2(3) de la Loi si elle soit a été employée au Canada, soit a exploité une entreprise au Canada. Les revenus imposables sur lesquels un non‑résident est assujetti à l'impôt sur le revenu sont calculés conformément à l'article 115 de la Loi.
+[56] Le requérant a d'abord formulé la question de manière étroite en raison de la portée limitée de l'examen mené par la vérificatrice pour établir si Mme Davis disposait d'établissements stables au Canada lors de l'examen de la demande de remboursement sur le fondement du contrat transmis par Mme Davis; elle n'a pas vérifié si le contrat qualifiait à bon droit Mme Davis d'EI ou d'employée.
+[57] Mme Davis répond que le requérant formule la véritable question en litige de manière trop large : elle conteste que la véritable question est de savoir si les montants qu'elle a gagnés étaient des revenus imposables au Canada et elle affirme, entre autres, qu'une telle formulation va à l'encontre de l'objectif du critère juridique applicable à l'autorisation de modifier au titre de l'article 54. Depuis le début de la vérification et lors de l'appel, la seule question qui se pose est de savoir si Mme Davis a exploité une entreprise au Canada par l'intermédiaire d'établissements stables, et l'affaire repose entièrement sur cette seule question.
+Injustice et préjudice pour le contribuable [58] Deuxièmement, le requérant soutient que les modifications proposées et la thèse relative à l'emploi ne causent pas d'injustice ni de préjudice à Mme Davis puisqu'elles s'appuient sur la preuve fournie par celle-ci pendant son interrogatoire préalable et figurant dans ses actes de procédure. Elle ne subit pas non plus de préjudice tenant à l'incapacité de Mme Box à témoigner, car la question de son incapacité se posait déjà avant que la thèse relative à l'emploi ne soit proposée. En outre, Mme Box est non‑résidente du Canada, elle ne peut être contrainte à témoigner par subpoena et il n'est pas certain qu'elle puisse présenter des éléments probants.
+[59] Mme Davis soutient que si le requérant est autorisé à avancer la thèse relative à l'emploi, elle subira un préjudice important que des dépens ne pourraient compenser, en raison de l'incapacité de Mme Box à témoigner de vive voix à l'audience. Pour décider si Mme Davis est une employée ou une EI, il faut établir l'intention subjective de celle‑ci et de Mme Box, mais les soucis de santé de Mme Box l'empêchent de témoigner à l'audience, ce qui place Mme Davis dans une situation très désavantageuse. Le requérant a connaissance de ces problèmes de santé depuis 2018 et aurait pu invoquer la thèse relative à l'emploi avant aujourd'hui.
+L'intérêt de la justice [60] Troisièmement, le requérant soutient que les modifications proposées sont dans l'intérêt de la justice parce qu'elles permettront à la Cour de parvenir au bon résultat sur la base des faits et du droit et ne retarderont pas l'audience, puisqu'elles s'appuient sur des faits déjà allégués dans l'avis d'appel et sur les éléments de preuve ressortant du témoignage préalable de Mme Davis elle‑même. Il soutient également qu'il a déposé la requête en temps opportun avant que la date d'audience n'ait été fixée.
+[61] Mme Davis affirme qu'autoriser les modifications proposées serait contraire à l'intérêt de la justice, que la requête n'a pas été déposée en temps opportun et que le requérant n'a pas justifié la modification tardive. Il a eu connaissance des nouveaux faits qui sous-tendent la thèse relative à l'emploi en 2018 lors des interrogatoires préalables, et non en 2022, et aurait pu déposer la requête plus tôt, ce qui aurait permis à Mme Davis de prendre des dispositions pour préserver les éléments de preuve. En raison du passage du temps, elle n'est guère en mesure de faire témoigner Mme Box et de présenter des éléments de preuve contre la thèse relative à l'emploi, ce qui compromet ses chances de succès au procès.
+Mêmes opérations et absence d'augmentation de la dette fiscale [62] Quatrièmement, le requérant fait valoir que la thèse relative à l'emploi repose sur les opérations déjà en cause dans les cotisations et qu'elle n'augmente pas la dette fiscale[30]. En outre, la question de savoir si les revenus de Mme Davis sont imposables au Canada comme revenus d'entreprise ou comme revenus d'emploi ne modifie en rien l'impôt exigible au titre des cotisations visées par les présents appels[31]. Par conséquent, la condition énoncée dans l'arrêt Walsh est remplie, car le requérant ne cherche pas à établir une nouvelle cotisation ni à percevoir plus d'impôt que le montant établi au cours de la période normale de nouvelle cotisation.
+Contradiction avec la réponse initiale [63] Mme Davis fait valoir que la thèse relative à l'emploi contredit directement le fondement de la cotisation initiale établie par le requérant, à savoir que Mme Davis est une EI. Une personne ne peut pas être à la fois une employée et une EI. Pendant près de dix ans, le requérant a admis que Mme Davis était une EI, mais après les interrogatoires préalables, il a présenté la thèse relative à l'emploi. Les faits à l'appui de la thèse relative à l'emploi contredisent les hypothèses de fait sur lesquelles le requérant a fondé sa cotisation initiale. La présence simultanée de ces deux fondements dans la réponse modifiée rend celle‑ci incohérente, et le requérant ne peut pas faire des allégations de fait contradictoires.
+VII. Analyse [64] L'article 54 des Règles confère à la Cour un pouvoir discrétionnaire large d'accorder l'autorisation de modifier les actes de procédure.
+[65] À mon avis, le requérant s'est acquitté, selon la prépondérance des probabilités, du fardeau nécessaire pour obtenir l'autorisation de modifier la réponse, ce qui joue en faveur de l'octroi de l'autorisation des modifications proposées concernant la thèse relative à l'emploi, qui aideront la Cour à trancher la véritable question en litige, qui n'entraîneront pas d'injustice pour Mme Davis, qui ne manqueront pas de servir l'intérêt de la justice, qui répondent aux critères de l'article 54, qui respectent la règle générale applicable et qui satisfont aux conditions du paragraphe 152(9) de la Loi, selon l'interprétation dans l'arrêt Walsh.
+[66] Dans son avis d'appel, Mme Davis présente les questions en litige en ces termes :
+[TRADUCTION]
+L'appelante a-t-elle droit au remboursement des retenues? Plus précisément :
+a) L'appelante est-elle assujettie à l'impôt au Canada sur les revenus provenant de Seminars Inc.? Plus précisément :
+i. L'appelante exploitait-elle une entreprise par l'intermédiaire d'un établissement stable selon l'article V de la Convention entre le Canada et les États-Unis et la jurisprudence pertinente?
+ii. Dans l'affirmative, est-elle par ailleurs exonérée d'impôt[32]?
+[67] L'alinéa a) de ce passage présente la question comme portant sur l'assujettissement à l'impôt au Canada, ce qui correspond étroitement à la question reformulée du requérant, c'est‑à‑dire la question de savoir si Mme Davis est assujettie à l'impôt au Canada, qui découle de l'interrogatoire préalable qui a précisé les faits allégués ou supposés dans les actes de procédure des deux parties.
+[68] Au cours de l'interrogatoire préalable, on a examiné plus en détail les opérations dont Mme Davis a tiré ses revenus au Canada, ainsi que le contexte dans lequel elles sont se produites, et le contrat. On a découvert des détails et des faits concernant son rôle et la nature des services qu'elle a fournis au Canada; ces détails et faits différaient des renseignements qu'elle avait fournis auparavant et ont changé la nature des appels. Les paragraphes 22 et 23 des modifications proposées précisent que les fonctions et les services de Mme Davis incluaient l'assistance et le soutien à la tenue de séminaires et le paragraphe 24 nomme d'autres personnes responsables de la commercialisation et de la promotion des séminaires. Les paragraphes 25 à 32 décrivent son entente avec la société et brossent un portait plus complet de sa relation avec celle-ci. Les paragraphes 33 et 34 portent sur le contrat et les circonstances l'entourant et, au paragraphe 35, le requérant allègue que, contrairement à l'hypothèse du ministre selon laquelle Mme Davis était une EI, elle était une employée de la société.
+[69] Que Mme Davis ait tiré ses revenus d'une entreprise en tant qu'EI, selon le sous‑alinéa 115(1)a)(ii) de la Loi, ou d'un emploi exercé au Canada, selon le sous‑alinéa 115(1)a)(i) de la Loi, cela ne change rien à la question fondamentale de savoir si elle est redevable de l'impôt ou assujettie à l'impôt au Canada sur les sommes que lui a versées la société. La Cour doit procéder à l'établissement correct de l'impôt selon les faits.
+[70] Bien que le requérant ait d'abord défini la question dans la réponse comme étant celle de savoir [TRADUCTION] « si l'appelante a exploité une entreprise au Canada par l'intermédiaire d'établissements stables situés dans ce pays », cela était fondé sur la portée limitée de l'examen mené par la vérificatrice, comme je le mentionne plus haut, sur le fondement du contrat dans lequel il était prétendu que Mme Davis était une EI d'une entité exploitant l'entreprise de Mme Box.
+[71] L'autre argument de Mme Davis, à savoir que la seule question qui s'était posée depuis la vérification était de savoir si elle exploitait une entreprise au Canada par l'intermédiaire d'établissements stables, ce qui excluait la thèse relative à l'emploi, ne tient pas compte de l'objectif du paragraphe 152(9), qui est de permettre au ministre d'avancer un argument subsidiaire à l'appui de la cotisation à certaines conditions. Rien n'exige que la thèse relative à l'emploi soit soulevée au cours de la vérification par l'ARC, et le requérant ne participe pas au processus de vérification par l'ARC[33]. Dans la décision Polarsat Inc. c. Le Roi[34], le juge Favreau a conclu, et je suis d'accord avec lui, que même si les fonctionnaires de l'ARC n'avaient pas avancé l'argument subsidiaire au cours des étapes préalables au procès, cela n'empêche pas le procureur général du Canada d'ajouter un argument subsidiaire dans sa réponse.
+[72] Mme Davis s'est appuyée sur l'arrêt Canderel, dans lequel la Cour d'appel fédérale a rejeté la requête de la Couronne visant à modifier sa réponse pour y inclure un nouvel argument (selon lequel les paiements incitatifs étaient des dépenses en immobilisation) et préciser la véritable question en litige sur le fondement de l'article 54 des Règles. Elle s'est également appuyée sur l'arrêt Last dans lequel, comme Mme Davis, l'intimé s'était fondé sur les actes de procédure et la Couronne avait cherché à formuler la question de manière plus large. Cependant, le rejet de la requête dans l'arrêt Canderel était en grande partie motivé par le fait que la Couronne avait attendu le cinquième jour du procès pour présenter une requête visant à modifier la réponse une quatrième fois, après les témoignages des experts[35]. Le rejet de la requête dans l'arrêt Last était motivé par le fait que la requête de la Couronne en modification de la réponse avait été présentée le quatrième jour de l'audience, après trois jours de présentation de la preuve. Au contraire, en l'espèce, le requérant a déposé la requête avant même qu'une date de procès ne soit fixée, ce qui laisse largement le temps à Mme Davis de se préparer et de répondre à la thèse relative à l'emploi. Après tout, les modifications proposées reposent sur des faits qui ont été découverts au cours de son interrogatoire préalable. À mon avis, il conviendrait de formuler la question de manière plus large.
+[73] Puisqu'il a présenté, aux paragraphes 16 à 35, d'autres faits pertinents, le requérant aura, en tout état de cause, le fardeau de la preuve quant aux modifications proposées et devra convaincre la Cour du bien‑fondé de la thèse relative à l'emploi, selon lequel il ressort des opérations que Mme Davis était une employée.
+[74] Mme Davis renvoie aux décisions Mandel, Drouin et McKay pour affirmer que le fait qu'on ne pourra présenter un élément de preuve au procès cause un préjudice que les dépens ne pourraient compenser. À mon avis, ces décisions n'appuient pas son argument[36].
+[75] Encore une fois, selon l'arrêt Walsh, le droit du ministre d'avancer un nouvel argument à l'appui d'une cotisation est subordonné aux restrictions prévues aux alinéas 152(9)a) et b) de la Loi. Le ministre ne peut pas avancer un nouvel argument s'il existe des éléments de preuve que le contribuable ne peut produire sans l'autorisation du tribunal. En interprétant la condition énoncée dans l'arrêt Walsh, notre Cour, dans la décision Banque Toronto‑Dominion, a souligné que ces alinéas visent uniquement les éléments de preuve que le contribuable ne peut produire sans l'autorisation du tribunal et a déclaré :
+[32] Il me semble que les mots des alinéas a) et b) du paragraphe 152(9) de la Loi sont précis et sans équivoque. Il semble clair que l'expression « relevant evidence » figurant dans la version anglaise (« éléments de preuve ») s'entend d'éléments pertinents que le contribuable n'est plus en mesure de produire sans l'autorisation du tribunal, et qu'il ne convient pas que le tribunal ordonne la production des éléments de preuve dans les circonstances. Étant donné que l'alinéa b) est lié à l'alinéa a) par suite de l'emploi du mot « and » (« et ») à la fin de la version anglaise de l'alinéa a), et puisque l'alinéa b) dit qu'« il ne convient pas que le tribunal ordonne la production des éléments de preuve dans les circonstances », il semble clair à mes yeux que l'expression « sans l'autorisation du tribunal » vise à modifier le type de preuve que le contribuable n'est pas en mesure de produire. Par conséquent, seuls les éléments de preuve que le contribuable n'est plus en mesure de produire sans l'autorisation du tribunal constituent le type de preuve visé dans ces alinéas[37].
+[Non souligné dans l'original.]
+[76] Dans son analyse, la Cour a noté en outre que :
+[48] [...] Le problème de preuve auquel fait face l'appelante n'est pas qu'elle doit obtenir l'autorisation du tribunal pour produire des éléments de preuve, mais que des témoins cruciaux sont maintenant décédés. Ce type de problème de preuve n'est pas le type de problème prévu aux alinéas a) et b) du paragraphe 152(9) de la Loi.
+[77] Ainsi, le fait que des témoins essentiels pour la Banque TD étaient décédés et que d'autres témoins étaient à la retraite et ne travaillaient plus pour elle n'est pas le type de préjudice envisagé par ces alinéas et, par conséquent, ne relève pas de cette catégorie et ne fait pas obstacle à ce que le ministre avance un nouvel argument en vertu du paragraphe 152(9).
+[78] À mon avis, le problème de preuve en l'espèce — l'incapacité de Mme Box à témoigner — n'est pas le type de problème prévu aux alinéas a) et b) du paragraphe 152(9) de la Loi, car Mme Davis n'est pas tenue d'obtenir l'autorisation du tribunal pour produire le témoignage de Mme Box. Ainsi, les restrictions prévues à ces alinéas ne font pas obstacle à la requête du ministre.
+[79] En outre, dans ses actes de procédure, le requérant répond aux préoccupations de Mme Davis en arguant que la question de la capacité de Mme Box à témoigner et à fournir des éléments probants se pose que le requérant modifie ou non sa réponse, et que le préjudice allégué découle du témoignage préalable de Mme Davis elle‑même.
+[80] Je ne suis pas non plus convaincue que Mme Davis serait placée dans une position très désavantageuse parce que le témoignage de Mme Box serait nécessaire pour établir l'intention de chacune des parties au contrat[38]. Outre le fait que le requérant est prêt à reconnaître que l'intention commune de Mme Box et de Mme Davis était que cette dernière soit une EI, Mme Davis peut témoigner au sujet des facteurs énoncés dans l'arrêt Wiebe Door sans Mme Box[39].
+[81] Le préjudice résulte, en partie, des retards procéduraux de Mme Davis elle‑même, qui ont été nombreux d'octobre 2018 à octobre 2022 et qui ont donné lieu à des audiences sur l'état de l'instance et à des audiences de justification concernant plusieurs manquements de sa part.
+[82] Par conséquent, je suis d'avis que les modifications proposées ne causeront à Mme Davis aucun préjudice du fait qu'elle n'aurait pas accès à des éléments de preuve pertinents ni ne causeront une injustice que des dépens ne pourraient compenser.
+[83] Je retiens que, contrairement à la prétention de Mme Davis selon laquelle la requête n'a pas été déposée en temps opportun, la requête a été déposée peu de temps après la conclusion de l'interrogatoire préalable et avant même qu'une date d'audience soit fixée, ce que j'estime opportun[40]. Il aurait été prématuré de déposer la requête en 2018, comme le suggère Mme Davis, avant d'obtenir de réponses aux questions de suivi. Le requérant avait informé l'ancien avocat de Mme Davis en 2021 qu'il demanderait l'autorisation de modifier la réponse pour y ajouter la thèse relative à l'emploi une fois fournies les réponses aux questions de suivi.
+[84] Permettre les modifications proposées concernant la thèse relative à l'emploi ne retardera probablement pas le procès, car elles s'appuient sur des faits déjà allégués dans l'avis d'appel et sur les éléments de preuve ressortant du témoignage de Mme Davis elle‑même, lesquels sont en grande partie non contestés. Cela serait donc dans l'intérêt de la justice.
+[85] Le requérant ne s'appuie pas sur des opérations autres que celles qui ont été prises en compte lors de l'établissement des cotisations. De plus, puisque la thèse relative à l'emploi n'augmente pas la dette fiscale de Mme Davis pour les services qu'elle a fournis au Canada, l'autorisation des modifications est conforme au paragraphe 152(9) tel qu'il a été interprété par la Cour d'appel fédérale dans l'arrêt Last, dans lequel la Cour a statué que pourvu que la dette fiscale du contribuable à l'égard de la source du revenu (des biens en immobilisation ou des stocks) n'excède pas le montant établi par le ministre, il n'était pas pertinent que le montant soit imposé à titre de gain en capital ou de revenu d'entreprise. De même, il n'importe guère que Mme Davis ait tiré un revenu d'emploi ou un revenu d'entreprise de la société, pourvu que sa dette fiscale à cet égard ne dépasse pas le montant établi par le ministre. À mon avis, ces facteurs, ainsi que l'absence de préjudice causé par la thèse relative l'emploi à Mme Davis au sens des alinéas 152(9)a) et b) de la Loi, satisfont aux conditions énoncées au paragraphe 152(9) de la Loi[41].
+[86] S'appuyant sur l'arrêt Canderel, Mme Davis soutient que le requérant ne devrait pas pouvoir formuler des allégations de fait contradictoires, parce que la question de savoir si une personne est une employée ou une EI est une question binaire, de sorte que le requérant ne peut pas alléguer les deux fondements[42]. Bien que cet arrêt fasse encore jurisprudence, et vu les observations formulées précédemment dans les présents motifs concernant les circonstances de l'affaire Canderel, je note que cet arrêt a été rendu avant l'adoption du paragraphe 152(9).
+[87] Les observations de Mme Davis semblent aller à l'encontre des principes énoncés dans l'arrêt Loewen. La Cour d'appel fédérale a statué que la Couronne ne pouvait pas invoquer des hypothèses contradictoires dans la réponse parce qu'il était impossible qu'en établissant la cotisation, le ministre se soit fondé simultanément sur des hypothèses contradictoires. Toutefois, la Couronne peut faire valoir des allégations incompatibles avec les hypothèses en tant qu'autres faits pertinents ailleurs dans la réponse, et si elle allègue un fait qui ne figurait pas parmi les hypothèses de fait du ministre, elle a alors le fardeau de la preuve[43].
+[88] En l'espèce, le requérant ne cherche pas à invoquer des hypothèses contradictoires. Les hypothèses de fait dans la réponse et la réponse modifiée n'ont pas été changées et indiquent que Mme Davis était une EI. La thèse relative à l'emploi — qui n'est que dans la section des autres faits pertinents de la réponse modifiée — fait valoir qu'elle était une employée de la société, de sorte que le requérant peut affirmer que Mme Davis était une EI ou, à titre subsidiaire, une employée dans la réponse modifiée[44]. La démarche du requérant est conforme aux principes énoncés dans l'arrêt Loewen.
+[89] Compte tenu des critères énoncés à l'article 54 des Règles et de la règle et des conditions énoncées au paragraphe 152(9) de la Loi, je suis d'avis que les modifications proposées et la thèse relative à l'emploi doivent être autorisées, en ce qu'elles aident la Cour à trancher la véritable question en litige entre les parties, qu'elles ne causeront pas à Mme Davis d'injustice que les dépens ne pourraient compenser et qu'elles ne desserviront pas l'intérêt de la justice. Tout cela apportera clarté et certitude lors du procès et permettra de tenir compte de toutes les dispositions applicables afin de décider si Mme Davis est assujettie à l'impôt au Canada pour les revenus qu'elle a reçus en contrepartie des services fournis à la société au Canada au cours des années en cause.
+VIII. Conclusion [90] Je conclus que le requérant s'est acquitté de la charge de justifier les modifications proposées visées par l'article 54 des Règles, et qu'il est satisfait aux conditions énoncées au paragraphe 152(9) de la Loi pour permettre au requérant d'avancer la thèse relative à l'emploi. Pour ces motifs, la requête est accueillie et la Cour autorise le requérant à déposer la réponse à l'avis d'appel modifiée.
+[91] Mme Davis versera au requérant des dépens de 1 000 $ sur‑le‑champ quelle que soit l'issue de la cause.
+Signé à Ottawa, Canada, ce 24e jour d'août 2023.
+« K. Lyons »
+La juge Lyons
+RÉFÉRENCE :
+2023 CCI 125
+NO DU DOSSIER DE LA COUR :
+2015-1196(IT)G
+INTITULÉ :
+MARY DAVIS ET SA MAJESTÉ LE ROI
+LIEU DE L'AUDIENCE :
+Calgary (Alberta)
+DATE DE L'AUDIENCE :
+Le 18 janvier 2023
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge K. Lyons
+DATE DE L'ORDONNANCE :
+Le 24 août 2023
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jonathan Lafrance
+Avocat de l'intimé :
+Me Matthew W. Turnell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Jonathan Lafrance
+Cabinet :
+Norton Rose Fulbright Canada S.E.N.C.R.L., s.r.l.
+Pour l'intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Règles de la Cour canadienne de l'impôt (procédure générale), DORS/90‑688a. On invoque également les articles 4, 57, 65 et 70. Loi de l'impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.).
+[2] Le requérant présente la thèse relative à l'emploi au cas où la Cour conclurait que Mme Davis n'exploitait pas une entreprise au Canada par l'intermédiaire d'un établissement stable.
+[3] Elle a fait la demande de remboursement lors de la production de ses déclarations de revenus au Canada pour les années en cause.
+[4] Le requérant avait demandé une ordonnance de cautionnement pour dépens lors de sa requête.
+[5] La modification proposée concernant la prétendue hypothèse de fait porte sur les crédits pour impôt étranger demandés par Mme Davis pour les années d'imposition 2005 à 2011 dans ses déclarations de revenus américaines et corrige le montant du revenu imposable en 2005.
+[6] Canderel Ltée c. Canada, [1994] 1 C.F. 3 (C.A.F.) (Canderel), par. 10.
+[7] Apotex Inc. c. Bristol‑Myers Squibb Company, 2011 CAF 34 (Apotex).
+[8] R. c. Pomeroy Acquireco Ltd., 2021 CAF 187 (Pomeroy), par. 2, 4 et 13.
+[9] Pomeroy, par. 14.
+[10] Le paragraphe 152(9) de la Loi a été modifié le 15 décembre 2016 par l'article 55 de la Loi no 2 d'exécution du budget de 2016, L.C. 2016, ch. 12. Ces modifications s'appliquent aux appels interjetés après le 15 décembre 2016. Cette modification est sans effet sur les présents appels.
+[11] Walsh c. Canada, 2007 CAF 222, [2007] 4 R.C.F. F‑5.
+[12] Selon le paragraphe 15d) de la réponse, la société est une société constituée sous le régime des lois du Texas. Selon le dossier de réponse à la requête déposé par Mme Davis, il s'agit d'une société canadienne contrôlée par Mme Box.
+[13] Avis d'appel, par. 2.
+[14] En 2012, l'ARC a envoyé à l'appelante une lettre lui demandant de produire des déclarations de revenus au Canada pour les années 2004 à 2010, ce que l'appelante a fait. L'appelante a également produit sa déclaration de revenus pour 2011 peu de temps après.
+[15] Déclaration sous serment de Mme Davis, pièce 11 du 1er décembre 2022, signée par son infirmier clinicien, Eddie Maraboto M.S.N., A.P.R.N., A.C.N.S.‑B.C., Austin (Texas).
+[16] Déclaration sous serment de Mme Davis, pièce 12, note reçue le 2 décembre 2022 par Mme Davis dans laquelle le gériatre de sa mère indique que cette dernière n'est pas apte à prendre des décisions médicales, juridiques ou financières en toute sécurité.
+[17] Déclaration sous serment de Mme Davis, pièce 1.
+[18] Elle avait fait défaut de déposer sa liste de documents avant le 30 décembre 2016. Une audience de justification a été tenue le 11 mai 2017. Un avis de constitution du nouvel avocat de Mme Davis a été déposé le 25 janvier 2018.
+[19] Mme Davis a fait défaut de donner suite à ses engagements avant décembre 2018, ce qui a donné lieu à une audience de justification le 6 juin 2019. Elle avait jusqu'au 31 juillet 2019 pour fournir ses engagements, mais ne l'a pas fait. Une nouvelle audience de justification a eu lieu le 18 novembre 2019 et la Cour lui a donné jusqu'au 6 décembre 2019 pour fournir ses réponses, ce qu'elle a fait.
+[20] Déclaration sous serment de Mme Davis, pièce 5.
+[21] Déclaration sous serment de Mme Davis, pièces 6 et 7.
+[22] Déclaration sous serment de Mme Davis, pièce 8.
+[23] Déclaration sous serment de Mme Davis, pièce 9.
+[24] Déclaration sous serment de Mme Davis, pièce 10.
+[25] Dossier de requête de la Couronne (vol. 1 sur 2), déclaration sous serment de la vérificatrice, par. 5, 6 et 9.
+[26] La vérificatrice a été contre-interrogée le 19 décembre 2022. Dossier de réponse à la requête produit par Mme Davis (vol. 1), p. 241.
+[27] Canada c. Anchor Pointe Energy Ltd., 2007 CAF 188, [2008] 1 R.C.F. 839. Un appel vise le résultat de la cotisation.
+[28] Canada c. Loewen, 2004 CAF 146, [2004] 4 R.C.F. 3 (Loewen).
+[29] La vérificatrice a déclaré qu'avant de participer à la préparation de l'interrogatoire préalable en tant que représentante, elle n'avait pas eu l'occasion de consulter la réponse, mais que lorsqu'elle l'a fait, elle a remarqué des erreurs et omissions.
+[30] Cet argument étaye le montant de la cotisation. À l'exception de l'année d'imposition 2011 (où le ministre a conclu qu'un revenu supplémentaire n'avait pas été déclaré dans les déclarations de revenus), les montants ont été établis selon les formulaires T4A‑NR remis à Mme Davis par la société. Elle a produit des déclarations de revenus dans lesquelles elle a déclaré ces montants, mais a affirmé qu'ils étaient non imposables en vertu de l'article VII de la Convention entre le Canada et les États‑Unis d'Amérique en matière d'impôts sur le revenu et sur la fortune (la « Convention »), au motif qu'ils représentaient des revenus d'entreprise qui n'étaient pas attribuables à un établissement stable au Canada.
+[31] R. c. Last, 2014 CAF 129, [2015] 3 R.C.F. 245 (Last).
+[32] Avis d'appel, par. 31.
+[33] Il est bien établi que la Cour canadienne de l'impôt a compétence exclusive pour déterminer la validité et l'exactitude d'une cotisation fiscale, mais cela n'inclut pas le pouvoir d'examiner la procédure ou la conduite de l'ARC.
+[34] 2023 CCI 10, par. 60 (Polarsat).
+[35] Dans l'arrêt Canderel, la véritable question en litige était de savoir si les paiements incitatifs aux locataires étaient déductibles au moment de leur versement ou s'ils devaient être amortis pendant la durée du bail. La Cour d'appel fédérale a déclaré que la requête constituait un abus de procédure, car elle avait été présentée au milieu du procès, bien que les parties eussent convenu de la véritable question en litige, soit le montant de la déduction, longtemps avant le début du procès et que les faits permettant à la Couronne de tenter d'imputer les paiements au capital avaient été déposés en preuve bien avant le début du procès. De plus, la modification envisagée, qu'on affirmait être à titre subsidiaire, ne constituait pas un argument subsidiaire puisque le juge de première instance trancherait logiquement la question de la dépense en immobilisation avant de régler la question relative au moment de la déduction. Le juge de première instance ne serait même pas en mesure de conclure en faveur de la contribuable sur ce point parce qu'elle avait reconnu que les dépenses n'avaient pas été faites à titre de capital et qu'elle n'avait pas demandé l'autorisation de retirer cet aveu.
+[36] R. c. Mandel, [1996] A.C.F. no 252 (QL) (C.A.F.) (Mandel), Drouin c. La Reine, 2011 CCI 519, McKay c. La Reine, 2015 CCI 33 (McKay). Dans l'arrêt Mandel, la Cour d'appel fédérale a refusé d'autoriser les requérants à modifier leurs actes de procédure parce que 23 ans s'étaient écoulés depuis le dépôt de la déclaration, ce qui empêcherait la Couronne de trouver ses témoins. On n'a pas examiné la question du préjudice aux termes du paragraphe 152(9) dans cet arrêt. Dans la décision Drouin, notre Cour a rejeté une requête en modification de la réponse après les interrogatoires préalables afin d'y ajouter un argument subsidiaire concernant un abri fiscal car cet argument était connu depuis des années. Dans la décision McKay, notre Cour n'a pas autorisé la modification de la réponse à l'avis d'appel en vue d'ajouter un argument subsidiaire au motif qu'un tiers avait été mis sous séquestre et que les circonstances entourant la mise sous séquestre causeraient préjudice à Mme McKay sur le plan de la preuve.
+[37] La Banque Toronto-Dominion c. La Reine, 2008 CCI 284 (Banque TD).
+[38] 1392644 Ontario Inc. c. Canada (Revenu National), 2013 CAF 85, [2013] 3 R.C.F. F‑9, par. 42. La première étape est d'établir l'intention des parties et de vérifier si la réalité objective est conforme au lien entre les parties.
+[39] Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 (C.A.F.) (Wiebe Door). Les facteurs permettant de distinguer un entrepreneur indépendant d'un employé qui sont énoncés dans cet arrêt sont le contrôle, la propriété des instruments de travail, les chances de bénéfice et les risques de perte. La Cour suprême a cité et approuvé Wiebe Door dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] 2 R.C.S. 983. Dans la décision Polarsat, notre Cour a statué que le fait de ne pouvoir peut‑être pas avoir accès aux actionnaires ayant approuvé la restructuration en question en tant que témoins ne constituait pas un réel problème, car un autre témoin serait en mesure d'apporter des éléments de preuve au sujet des opérations faisant partie de la restructuration.
+[40] Dans la décision Thompson c. La Reine, 2018 CCI 167 (Thompson), par. 48, la Couronne a présenté une requête en modification de sa réponse pour avancer un nouvel argument à la fin de l'interrogatoire préalable, les modifications proposées découlant en partie des éléments de preuve fournis par l'un des appelants au cours de l'interrogatoire. La Cour a conclu que la requête avait été déposée à un stade précoce du litige.
+[41] Les parties reconnaissent que le ministre ne cherche pas à établir une nouvelle cotisation après les délais prévus au paragraphe 152(4).
+[42] De nouveau, la cour d'appel a statué que l'argument subsidiaire n'était pas vraiment un argument subsidiaire et qu'il était incompatible avec les aveux de la Couronne selon lesquels les dépenses n'avaient pas été faites à titre de capital, aveux que la Couronne n'avait pas cherché à retirer.
+[43] Dans l'arrêt Loewen, le ministre a établi une nouvelle cotisation pour le contribuable afin de réduire la déduction pour amortissement demandée relativement à l'acquisition de logiciels, en partie parce que la juste valeur marchande des logiciels était inférieure au montant établi par le contribuable. La Couronne a tenté de soulever un nouvel argument dans sa réponse, à savoir « l'absence de but lucratif », et ainsi qu'on n'aurait dû autoriser aucune déduction pour amortissement si cela avait été le fondement de la nouvelle cotisation.
+[44] Dans la décision RCI Environnement Inc. c. La Reine, 2007 CCI 647, la contribuable a reçu 6 millions de dollars par suite d'un règlement en raison de la fin d'une entente de non‑concurrence. La Couronne a fait valoir qu'il s'agissait d'un revenu d'entreprise et non d'un gain fortuit. Notre Cour a autorisé la Couronne à avancer l'argument subsidiaire, et des allégations contradictoires pour l'étayer, selon lequel une partie des sommes constituait un gain en capital ou un montant en immobilisation admissible. Comme la question de savoir si une personne est une EI ou une employée, la question de savoir si un montant imposable est perçu au titre du revenu ou du capital est également une question binaire.

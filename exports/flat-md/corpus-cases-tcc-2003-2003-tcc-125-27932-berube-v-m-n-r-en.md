@@ -1,0 +1,147 @@
+---
+title: "Berube v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27932/index.do"
+last_modified: "2003-03-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 125"
+citation2: ""
+neutral_citation: "2003 TCC 125"
+decision_date: "2003-03-28"
+language: "en"
+item_id: "27932"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1715
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:22:11.216000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "61e636da1b97faaa9cc4733701155b22e9832143aeae64ed61ebca82d3f9460a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Berube v. M.N.R.
+
+- Citation: 2003 TCC 125
+- Decision date: 2003-03-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1715, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Berube v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-28
+Neutral citation
+2003 TCC 125
+File numbers
+2001-4200(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2001-4200(EI)
+BETWEEN:
+NORMAND BÉRUBÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 29, 2002, at Matane, Quebec
+Before: the Honourable Deputy Judge S.J. Savoie
+Appearances
+Counsel for the Appellant:
+Me Alain Tremblay
+Counsel for the Respondent:
+Me Marie-Claude Landry
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 28th day of March 2003.
+“S.J. Savoie”
+D.J.T.C.C.
+Translation certified true
+on this 30th day of January 2004.
+Leslie Harrar, Translator
+Citation: 2003TCC125
+Date: 20030328
+Docket: 2001-4200(EI)
+BETWEEN:
+NORMAND BÉRUBÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Deputy Judge Savoie, T.C.C.
+[1] This appeal was heard at Matane, Quebec, on October 29, 2002.
+[2] This is an appeal concerning the insurability of the appellant’s employment with Construction Goscobec Inc., the payer, during the periods at issue, namely, from July 5 to August 25, 1995, from September 11, 1995, to April 19, 1996, from September 9, 1996, to May 23, 1997, from July 7 to July 25, 1997, and from August 18 to August 21, 1998.
+On September 26, 2001, the Minister of National Revenue (the “Minister”) informed the appellant of his decision that this employment was not insurable because it did not meet the requirements of a contract of service within the meaning of the Employment Insurance Act (the “Act”); there was no employer-employee relationship between the payer and the appellant during the periods at issue.
+[3] In making his decision, the Minister relied on the following assumptions of fact set out in paragraph 5 of the Reply to the Notice of Appeal:
+[Translation]
+(a) The payer, incorporated on November 13, 1974, carries on a business of manufacturing prefab houses.
+(b) The payer hired from 70 to 80 employees, bound by a collective agreement, for his plant.
+(c) In December 1998, the payer’s accounting records were seized by the Rimouski RCMP, because of suspicions that there was a system of accumulating hours at the payer’s plant.
+(d) During the periods at issue, the appellant provided services to the payer as an installer of floor coverings (carpet, linoleum and wood) in houses sold by the payer and already erected on their foundations.
+(e) The appellant was the only one who did this kind of work for the payer; he went to his workplace only when his services were required by the payer.
+(f) The appellant did not work in the plant.
+(g) Unlike the payer’s workers, the appellant was not in the union.
+(h) During the periods at issue, the appellant could provide services to other contractors; he could put off work that was to be done for the payer in order to complete a job that he had undertaken somewhere else.
+(i) From 1985 to 1993, the appellant did the same work, operating his own business (installing and laying floor coverings).
+(j) The appellant invoiced the payer for the time spent working on the payer’s houses.
+(k) On his invoices, the appellant wrote “one man or two men” whereas he always worked alone, but varied his hourly rate depending on the tools that he provided to the payer.
+(l) The appellant provided certain work tools (a sander and others) that he valued at approximately $10,000.
+(m) The appellant was occasionally listed as an office employee in the payer’s payroll journal; he did not know why.
+(n) The hours and weeks of work shown on the appellant’s records of employment were not consistent with the hours of work appearing on the time sheets completed in the appellant’s name.
+(o) Some of the documents seized by the RCMP confirmed that hours were “banked” for the appellant when he worked for the payer.
+(p) During the periods at issue, the appellant carried on his own business.
+[4] The appellant admitted the assumptions set out in subparagraphs (a) to (c) and (l). He either denied the other assumptions as written or wished to add some clarifications.
+[5] It should be noted, however, that the evidence as a whole established the accuracy of all of the Minister’s assumptions. Moreover, when confronted with all of the facts gathered, the appellant’s evidence was contradictory, unconvincing and even suspect.
+[6] In addition to the testimony collected, the evidence consisted of all of the documents submitted, including an appeal report completed by an appeals officer with the Canada Customs and Revenue Agency (Exhibit I-8), which contained the gist of the statutory declarations of the appellant and the others concerned in this case.
+[7] The payer was the subject of an audit, followed by an investigation conducted by Human Resources Development Canada (HDRC) and the RCMP; it was suspected that the payer used a system of accumulating hours. In the course of the investigation, the payer’s books were seized by the RCMP. At the end of the investigation, a prosecution involving 237 counts was filed against the payer and one of his directors. During the investigation, the workers and representatives of the payer were called to an interview by HDRC and RCMP investigators, but most of them did not show up and they refused to provide statements.
+[8] However, the workers who were interviewed confirmed the payer’s system of accumulating hours and admitted that the records of employment issued by the latter did not reflect reality in terms of the number of weeks of insurable employment and actual earnings. Under the system, hours could be recorded together with hours from the following or the preceding weeks so that the workers could have “big insurable weeks” or receive construction materials whose purchase price would be deducted from their hour banks.
+[9] Among the payer’s employees who provided statements are the names of Jocelyn Aubut, Raymond Viel, Nelson Dubé (plant foreman), Louis Bernatchez, Denis Houle, René Bérubé, Gérard Paradis and the appellant. Their statements reveal that overtime was banked as straight time. The employees were instructed to enter their overtime hours on a “separate sheet”, which was blue; those sheets were placed in the locker with the white sheet – for the regular hours – each week. The additional hours were accumulated and the secretaries kept track of them. These hours were used to fill out the “smaller” weeks, thus ensuring equal pay cheques and more advantageous insurable weeks.
+[10] Nelson Dubé, a foreman at the payer’s plant, stated that after a time he realized that the blue sheets were used to “bank time”. He added that [Translation] “this was done primarily with the older workers”, as if it were done for the ones who were trusted by the company. Some of the workers stated that when they were hired it was agreed that their hours would be accumulated and that they would receive pays for 42-hour weeks.
+[11] The appellant said in his statutory declaration that he cumulated hours at the payer’s request. In addition, he stated that, when he needed floor covering, he took his materials from the payer because it was much less expensive. The payer would later invoice him for the purchases and he would pay the invoice with the hours he had banked or else in cash.
+[12] The payer and the appellant both admitted that there was an “hour bank” at the company.
+[13] The evidence disclosed that the appellant was not employed by the payer on a regular basis. Some clients preferred to lay the floor coverings themselves; the payer would then call on the appellant’s services as needed. The foreman would call the appellant, tell him the kind of work that was to be done and check his work when it was completed. The foreman admitted that the appellant was highly skilled and that the payer was not qualified to judge the quality of his work; this is the kind of situation described by the Federal Court of Appeal in Charbonneau v. Canada (Minister of National Revenue – M.N.R.), [1996] F.C.A. No. 1337, where it was held that “monitoring the result” is not to be confused with controlling the worker.
+[14] Unlike the other workers, the appellant was not in the union. On the payroll journal, the appellant was entered, without his knowledge, as an office employee; he did not receive a percentage for vacation pay or group insurance and he was not paid for holidays.
+[15] This Court is of the opinion that in such circumstances the appellant was not controlled by the payer within the meaning of the test established in Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553. With respect to his chance of profit and risk of loss, it was established that the appellant’s hourly rate was adjusted depending on the material that he supplied. The appellant submitted invoices to the payer for his work and his travel expenses, which leads to the conclusion that the appellant enjoyed conditions of work that were different from those of an employee.
+[16] As part of his work for the payer, the appellant provided his own equipment, including a sander worth about $10,000; this is not a piece of equipment that is normally provided by a worker hired under a contract of service. Furthermore, the appellant often worked with a helper.
+[17] It was established that the appellant was in business for himself between 1985 and 1993. Already at that time, he was hired by the payer. He still has his business number. The appellant did not work solely for the payer and admitted he had worked for three different employees in a single week. The payer allowed him to put off his work so that he could complete a contract somewhere else. The Supreme Court of Canada, in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] SCC 59, dealing with a situation similar to the instant case, held that
+According to MacGuigan J.A., the best synthesis found in the authorities is that of Cooke J. in Market Investigations … The fundamental test to be applied is this: "Is the person who has engaged himself to perform these services performing them as a person in business on his own account?" […] The most that can be said is that control will no doubt always have to be considered, although it can no longer be regarded as the sole determining factor; and that factors, which may be of importance, are such matters as whether the man performing the services provides his own equipment, whether he hires his own helpers, what degree of financial risk he takes, what degree of responsibility for investment and management he has, and whether and how far he has an opportunity of profiting from sound management in the performance of his task.
+[18] In the context of the facts of this case, the words of Judge Tardif of this Court in Duplin v. Canada (Minister of National Revenue – M.N.R.), [2001] T.C.J. No. 136, at paragraphs 31 and 32 of his decision, are relevant:
+The fundamental components of a contract of service are essentially economic in nature. The records kept, such as payroll journals and records concerning the mode of remuneration, must be genuine and must also correspond to reality. For example, the payroll journal must record hours worked corresponding with the wages paid. Where a payroll journal records hours that were not worked or fails to record hours that were worked during the period shown, that is a serious indication of falsification. Such is the case where pay does not correspond with the hours worked. Both situations create a very strong presumption that the parties have agreed on a false scenario in order to derive various benefits therefrom, including benefits with respect to taxes and employment insurance.
+It is possible for an arrangement to be more profitable for one party than the other, but this is a secondary effect that is not relevant in characterizing a contract of service, since as soon as a contract of employment is shaped by false or inaccurate information, it no longer meets the essential conditions for being characterized as a contract of service. Thus, when the evidence shows that the records containing the information essential to the existence of a genuine contract of employment are false and incomplete, it becomes essential to prove conclusively that the real facts support the existence of a genuine contract of service.
+[19] In addition, Judge Tardif in Laverdière v. Canada (Minister of National Revenue – M.N.R.), [1999] T.C.J. No. 124, decided a similar issue, and stated, inter alia:
+This is the case with any agreement or arrangement whose purpose and object is to spread out or accumulate the remuneration owed or that will be owed so as to take advantage of the Act's provisions. There can be no contract of service where there is any planning or agreement that disguises or distorts the facts concerning remuneration in order to derive the greatest possible benefit from the Act.
+The Act insures only genuine contracts of service; a contract of employment under which remuneration is not based on the period during which work is performed cannot be defined as a genuine contract of service. It is an agreement or arrangement that is inconsistent with the existence of a genuine contract of service since it includes elements foreign to the contractual reality required by the Act.
+[20] For these reasons, the Minister’s decision that the appellant’s employment was not insurable because it did not meet the requirements of a contract of service is confirmed, and the appeal is accordingly dismissed.
+Signed at Grand-Barachois, New Brunswick, this 28th day of March 2003.
+“S.J. Savoie”
+D.J.T.C.C.
+Translation certified true
+on this 30th day of January 2004.
+Leslie Harrar, Translator

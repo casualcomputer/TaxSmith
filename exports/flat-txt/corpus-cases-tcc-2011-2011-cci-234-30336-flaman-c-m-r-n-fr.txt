@@ -1,0 +1,123 @@
+Title: Flaman c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30336/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-234-30336-flaman-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2011-05-03
+
+# Flaman c. M.R.N.
+
+- Citation: 2011 CCI 234
+- Decision date: 2011-05-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8040, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Flaman c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-05-03
+Référence neutre
+2011 CCI 234
+Numéro de dossier
+2010-3970(EI)
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-3970(EI)
+ENTRE :
+PERRY FLAMAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu le 28 avril 2011, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Amandeep K. Sandhu
+__________________________________________________________________
+JUGEMENT
+Conformément aux motifs ci-après, l’appel de la décision du ministre du Revenu national rendue en application de la Loi sur l’assurance-emploi (la « Loi ») est accueilli, et la décision est annulée compte tenu du fait que, pendant la période, l’appelant contrôlait plus de 40 % des actions de la société employeuse, MSA Moving & Storage Ltd., et son emploi était donc exclu en vertu de l’alinéa 5(2)b) de la Loi.
+Signé à Ottawa, Canada, ce 3e jour de mai 2011.
+« G.A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 16ejour de juin 2011.
+Marie‑Christine Gervais
+Référence : 2011CCI234
+Date : 20110503
+Dossier : 2010-3970(EI)
+ENTRE :
+PERRY FLAMAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Perry Flaman, conteste la décision du ministre du Revenu national suivant laquelle il exerçait un emploi assurable pendant la période allant du 1er janvier 2007 au 10 septembre 2009 (la « période »).
+[2] Le ministre, qui applique le critère à deux volets établi par la Cour d’appel fédérale dans l’arrêt Sexton v. Minister of National Revenue (1992), 132 N.R. 71, est d’avis que tout d’abord le travail de l’appelant constituait un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi (la « Loi ») parce que cet emploi était exercé aux termes d’un contrat de louage de services auprès du payeur, MSA Moving & Storage Ltd., et qu’ensuite ce travail n’était pas exclu en vertu de l’alinéa 5(2)b) de la Loi étant donné l’appelant ne contrôlait pas plus de 40 % des actions avec droit de vote de cette société.
+[3] Afin de parvenir à cette décision, le ministre s’est fondé sur les hypothèses de fait énoncées au paragraphe 6 de la réponse à l’avis d’appel :
+[traduction]
+a) le payeur exploitait une entreprise de déménagement résidentiel et commercial;
+b) le payeur a été constitué en société le 25 septembre 2006;
+c) les actions du payeur étaient détenues par Ashay Ventures Ltd. (« Ashay ») (55 %) et JPACT Enterprises Ltd. (« JPACT ») (45 %);
+d) pendant la période, l’appelant n’avait pas le contrôle des actions avec droit de vote de JPACT;
+e) les actions d’Ashay étaient détenues à parts égales par Graham Baggaley (« Graham ») et Lesley Baggaley (« Lesley »);
+f) l’appelant et son épouse, Joan Flaman (« Joan »), détiennent chacun 50 % des actions avec droit de vote de JPACT;
+g) […][1]
+h) l’appelant et le payeur avaient tous deux l’intention que l’appelant exerce son emploi aux termes d’un contrat de louage de services;
+i) pendant la période, l’appelant était un employé du payeur et a reçu un feuillet T4 chaque année;
+j) l’appelant occupait le poste de vice-président et de directeur de l’exploitation chez le payeur;
+k) le 1er octobre 2006, Joan a signé une résolution de la société en tant qu’administratrice pour conclure une convention d’achat d’actions du payeur;
+l) le 1er octobre 2006, Joan a signé en tant qu’administratrice un billet à ordre de 240 000 $ relativement à l’achat d’actions du payeur par Baggaley Enterprises Inc.;
+m) pendant la période, il n’y a eu aucune entrave qui restreindrait l’exercice libre et autonome des droits de vote de Joan à l’égard de JPACT;
+n) l’appelant ne contrôlait pas plus de 40 % des actions avec droit de vote du payeur pendant la période;
+o) pendant la période, l’appelant n’avait pas de lien de dépendance avec une personne qui est membre d’un groupe lié qui contrôle le payeur.
+[4] Pour ce qui est de savoir si l’appelant est un employé ou un entrepreneur indépendant, je suis convaincue qu’il était, à titre de directeur de l’exploitation, un employé de MSA Moving & Storage Ltd. La société a établi un feuillet T4 à l’égard de l’appelant pendant la période, a passé en charges son salaire, lui a versé un salaire fixe et a payé pour des avantages sociaux comme une assurance médicale, des congés de maladie et une indemnité de vacances.
+[5] La véritable question qui se pose concerne le deuxième volet du critère établi dans l’arrêt Sexton pour ce qui est du contrôle des actions avec droit de vote de MSA Moving & Storage Ltd. et de la contestation par l’appelant des faits présumés aux alinéas 6n) et o) de la réponse. Disons brièvement qu’il n’est pas contesté que, pendant la période, l’appelant et son épouse détenaient chacun 50 % des actions avec droit de vote de leur société de portefeuille, JPACT Enterprises Ltd., qui elle détenait 45 % des actions avec droit de vote de MSA Moving & Storage Ltd. Les 55 % restants des actions de MSA Moving & Storage Ltd. étaient détenus par Ashay Ventures Ltd., la société de portefeuille de l’associé de l’appelant et son épouse, soit Graham et Leslie Baggaley. Tout en reconnaissant que son épouse est le titulaire en droit de 50 % des actions avec droit de vote de JPACT Enterprises Ltd., l’appelant a déclaré dans son témoignage qu’ils avaient en fait conclu une entente selon laquelle son épouse devait exercer le droit de vote assorti à ses actions de la même manière que lui, ce qui avait pour effet de lui donner le contrôle de fait de ses actions à elle. Par conséquent, il avait le contrôle de 100 % des actions avec droit de vote de JPACT Enterprises Ltd. et, de ce fait, le contrôle de 45 % des actions avec droit de vote de MSA Moving & Storage Ltd., soit un pourcentage suffisant pour exclure son emploi en vertu de l’alinéa 5(2)b) de la Loi.
+[6] L’appelant est le seul à avoir témoigné dans le présent appel interjeté sous le régime de la procédure informelle. Je l’ai jugé crédible et n’éprouve aucun doute quant à la véracité de ses propos quand il affirme que son épouse ne participait pas plus aux activités de MSA Moving & Storage Ltd. après l’acquisition, par JPACT Enterprises Ltd., d’une participation de 45 % dans cette société qu’elle ne le faisait quand l’appelant occupait simplement le poste de directeur de l’exploitation de celle‑ci. J’accepte son témoignage suivant lequel le rôle de son épouse se limitait à prendre les mesures nécessaires pour lui permettre de passer du rôle de directeur de l’exploitation en tant qu’employé de MSA Moving & Storage Ltd à celui d’employé‑directeur de l’exploitation et propriétaire d’une partie de l’entreprise. Pour que JPACT Enterprises Ltd. fasse l’achat des actions de MSA Moving & Storage Ltd., l’appelant a dû emprunter 300 000 $. Parce que le foyer conjugal avait servi de garantie, l’épouse était obligée de signer elle aussi la convention de prêt et d’être partie aux diverses ententes sous-tendant la structure de l’entreprise.
+[7] Selon l’avocate de l’intimé, ces documents établissent que l’épouse de l’appelant détenait la moitié des actions de JPACT Enterprises Ltd., limitant ainsi le contrôle de l’appelant à l’égard de cette entreprise à 22,5 %, ce qui est bien inférieur au seuil qui justifierait l’application de l’alinéa 5(2)b). Citant l’arrêt Sexton, l’avocate de l’intimée a affirmé que, vu l’absence d’ententes écrites empêchant l’épouse de l’appelant d’exercer ses droits de vote à l’égard de JPACT Enterprises Ltd., on ne pouvait pas dire que l’appelant contrôlait plus de 40 % des actions avec droit de vote de MSA Moving & Storage Ltd. Le premier problème que pose cette analyse est qu’elle ne tient pas compte de la réalité de la relation qui existait entre l’appelant et son épouse de longue date. En outre, il est possible de distinguer l’arrêt Sexton de l’espèce sur le plan des faits étant donné que la Cour d’appel fédérale a confirmé la conclusion du juge de première instance suivant laquelle il y avait « absence de toute preuve que [les actionnaires majoritaires de la société] n’avaient pas le libre exercice du droit de vote dans les actions qu'ils détenaient[2]. » [Non souligné dans l’original.]
+[8] Cette remarque ne s’applique pas en l’espèce. À cet égard, la présente affaire ressemble davantage, sur le plan des faits, à une autre décision que l’avocate de l’intimé a citée dans son analyse détaillée de la jurisprudence, St-Onge c. Ministre du Revenu national, 2004 CCI 399. Dans cette affaire, le juge du procès ne s’était pas arrêté à la documentation établissant la propriété juridique des actions et avait déterminé qui, de fait, contrôlait les actions de la société employeuse. Compte tenu des témoignages, le juge a statué que les actionnaires employés avaient structuré l’entreprise pour s’assurer que personne ne détiendrait plus de 40 % des actions avec droit de vote, simplement afin de soustraire leur emploi par ailleurs assurable à l’exclusion énoncée à l’alinéa 5(2)b) de la Loi.
+[9] Il n’y avait aucun motif semblable dans la présente affaire; je veux uniquement ici souligner que la Cour, quand elle statue sur l’applicabilité de l’alinéa 5(2)b), doit être convaincue compte tenu des éléments de preuve qui lui ont été présentés que, selon les termes empruntés à l’arrêt Sexton, « s’il existe des circonstances entravant le titulaire dans l’exercice libre et autonome de son droit de vote[3]. » En l’espèce, il existe une preuve suffisante de la présence de telles circonstances pour me convaincre que, selon la prépondérance des probabilités, l’appelant possédait le contrôle de fait des actions avec droit de vote de son épouse dans JPACT Enterprises Ltd. Par conséquent, pendant la période, il contrôlait plus de 40 % des actions de MSA Moving & Storage Ltd., et son emploi était exclu en vertu de l’alinéa 5(2)b) de la Loi. L’appel est accueilli et la décision du ministre est annulée.
+Signé à Ottawa, Canada, ce 3e jour de mai 2011.
+« G.A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 16ejour de juin 2011.
+Marie‑Christine Gervais
+RÉFÉRENCE : 2011CCI234
+No DU DOSSIER DE LA COUR : 2010-3970(EI)
+INTITULÉ : PERRY FLAMAN c.
+M.R.N.
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 28 avril 2011
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 3 mai 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Amandeep K. Sandhu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] À l’audience, la réponse a été modifiée pour supprimer l’hypothèse énoncée à l’alinéa 6g) : [traduction] « L’appelant et le payeur sont des personnes liées au sens de l’article 251 de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), et ses modifications. »
+[2] À la page 75, par. [13].
+[3] Précité, à la page 74, par. [10].

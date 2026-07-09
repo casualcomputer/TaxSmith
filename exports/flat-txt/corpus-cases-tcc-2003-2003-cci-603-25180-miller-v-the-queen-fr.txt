@@ -1,0 +1,130 @@
+Title: Miller v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25180/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-603-25180-miller-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-10-15
+
+# Miller v. The Queen
+
+- Citation: 2003 CCI 603
+- Decision date: 2003-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2560, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Miller v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-15
+Référence neutre
+2003 CCI 603
+Numéro de dossier
+2003-1052(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1052(IT)I
+ENTRE :
+CHARLES W. MILLER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 13 août 2003, à Vancouver (Colombie-Britannique)
+par l'honorable juge M. A. Mogan
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Selena Sit
+____________________________________________________________________
+JUGEMENT
+Les appels de cotisations d'impôt en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999, 2000 et 2001 sont admis, sans frais, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations pour le motif que la deuxième ordonnance du 16 décembre 1999 n'a pas établi de « date d'exécution » au sens du paragraphe 56.1(4) de la Loi.
+Signé à Ottawa, Canada, ce 15e jour d'octobre 2003.
+« M. A. Mogan »
+Le juge M. A. Mogan
+Traduction certifiée conforme
+ce 17e jour de juin 2005.
+Sophie Debbané, réviseure
+Référence : 2003CCI603
+Date : 20031015
+Dossier : 2003-1052(IT)I
+ENTRE :
+CHARLES W. MILLER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Mogan
+[1] Les années d'imposition 1999, 2000 et 2001 sont en appel. Dans chacune de ces années, l'appelant a effectué certains paiements à son ancienne conjointe à titre d'aliments pour leurs enfants. L'Agence des douanes et du revenu du Canada (ci-après l' « ADRC » ) a indiqué, dans des avis de nouvelle cotisation transmis à l'appelant, qu'elle refusait d'accorder la déduction de ces paiements dans le calcul du revenu. L'appelant a fait appel de ces nouvelles cotisations et a choisi la procédure informelle. La seule question en litige est celle de savoir si les montants payés par l'appelant à son ancienne conjointe à titre d'aliments pour enfants sont déductibles dans le calcul du revenu de l'appelant.
+[2] L'appelant a marié Mme Lola Marie en 1973. Elle a adopté le nom de famille de l'appelant et est devenue Mme Lola Marie Miller. Trois enfants sont nés du mariage : Heather en 1977, Erin en 1979 et Sarah en 1981. L'appelant et Lola Marie se sont séparés et ont divorcé en 1985. Lors du divorce, un tribunal a ordonné à l'appelant de payer à son ancienne épouse une pension alimentaire pour enfants de 200 $ par mois par enfant, soit un montant total de 600 $ par mois. Il a effectué ces paiements de 1985 jusqu'en 1996.
+[3] En 1996, Lola Marie s'est adressée au tribunal pour faire modifier les montants de pension alimentaire pour enfants. Le 15 novembre 1996, le juge Holmes de la Cour suprême de la Colombie-Britannique a rendu une ordonnance (pièce R-1) qui est rédigée en partie de la façon suivante :
+[TRADUCTION]
+« LA COUR DÉCLARE QUE HEATHER MAY MILLER, née le 30 juin 1977, est, à l'heure actuelle, une enfant à charge tel que défini dans la Loi sur le divorce, 1985.
+LA COUR ORDONNE que le requérant paye à l'intimée à titre d'aliments pour les enfants à charge, soit HEATHER MAE MILLER, née le 30 juin 1977; ERIN FERN MILLER, né le 5 juin 1979, et SARAH LINDSEY MILLER, née le 1er juin 1981 (ci-après collectivement les « enfants » ) une pension alimentaire de 475 $ par mois par enfant pour un total de 1 425 $ par mois, commençant le 1er novembre 1996 (ci-après la « pension alimentaire mensuelle pour enfants » ) et chaque mois par la suite jusqu'à nouvelle ordonnance de la Cour. »
+[4] L'appelant et Lola Marie se sont retrouvés devant le tribunal en décembre 1999 pour l'audition de ce qui était apparemment une demande conjointe devant la juge MacKenzie. Je dis « apparemment » parce que l'ordonnance débute de la façon suivante :
+[TRADUCTION]
+« J'ai entendu aujourd'hui à New Westminster, Colombie-Britannique, les DEMANDES du demandeur, CHARLES WESLEY MILLER, et de la défenderesse, LOLA MARIE MILLER, ... »
+Le dispositif de l'ordonnance de la juge MacKenzie est rédigé comme suit :
+[TRADUCTION]
+« LA COUR ORDONNE que l'ordonnance de l'honorable juge Holmes, rendue le 15 novembre 1996, soit modifiée de la façon suivante :
+a) la pension alimentaire pour enfants payable par le demandeur à la défenderesse à l'égard de Heather Mae Miller, née le 30 juin 1977, est annulée à compter du 5 octobre 1999;
+b) le demandeur paiera à la défenderesse à titre d'aliments provisoires pour les enfants à charge, soit Erin Fern Miller, née le 5 juin 1979, et Sarah Lindsey Miller, née le 1er juin 1981 (ci-après collectivement les « enfants » ) le montant de 475 $ par mois par enfant pour un montant total de 950 $ par mois commençant le 5 octobre 1999 et chaque mois par la suite jusqu'à nouvelle ordonnance de la Cour, les paiements étant effectués par le demandeur à la défenderesse au montant de 438, 48 $ chaque deux semaines par la suite. »
+[5] Selon les éléments de preuve fournis par l'appelant, lui et son ancienne épouse ont respecté l'ordonnance du 16 décembre 1999 de Mmela juge MacKenzie (ci-après la « deuxième ordonnance » ). Le 5 octobre 1999, l'appelant a commencé à verser à son ancienne conjointe le montant de 475 $ par mois par enfant et il a continué à le faire tout au long de 2000 et de 2001. L'ordonnance de Mme la juge MacKenzie a été déposée comme pièce R-2.
+[6] La question à savoir si la deuxième ordonnance avait modifié le droit de l'appelant de déduire les paiements de pension alimentaire pour enfants qu'il effectuait depuis le 5 octobre 1999 s'est posée en 2002. L'ADRC a alors décidé qu'il s'agissait d'une nouvelle ordonnance et qu'il y avait une « date d'exécution » conformément aux dispositions pertinentes. S'il y avait une date d'exécution en vertu du paragraphe 56.1(4) de la Loi de l'impôt sur le revenu, l'appelant ne pouvait plus déduire les paiements de pension alimentaire pour enfants. Selon ma compréhension, l'ADRC a donné effet à cette décision dans les nouvelles cotisations en appel dans lesquelles la déduction des paiements de pension alimentaire pour enfants effectués à compter du 5 octobre 1999 et par la suite est refusé.
+[7] La question en litige en l'espèce est apparemment simple. La deuxième ordonnance a-t-elle créé une « date d'exécution » au sens du paragraphe 56.1(4)? Les définitions au paragraphe 56.1(4) sont incorporées dans les articles 60 et 60.1 par le paragraphe 60.1(4).
+56.1(4) Les définitions qui suivent s'appliquent au présent article et à l'article 56.
+« date d'exécution » Quant à un accord ou une ordonnance :
+a) si l'accord ou l'ordonnance est établi après avril 1997, la date de son établissement;
+b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l'accord ou de l'ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l'accord ou l'ordonnance, ou dans toute modification s'y rapportant, pour l'application de la présente loi.
+[8] Les dispositions pertinentes ont fait l'objet d'une importante modification qui est entrée en vigueur le 1er mai 1997. Le juge Bowman, juge en chef adjoint de la présente cour, a bien décrit cette modification dans la décision Kovarik c. Canada, [2001] A.C.I. no 181 (2 C.T.C. 2503) :
+8 En vertu de ce que je pourrais décrire comme l'ancien régime (antérieur à mai 1997), les conjoints effectuant des paiements à leurs conjoints dont ils étaient séparés ou à leurs anciens conjoints à titre d'aliments pour les enfants pouvaient déduire ces paiements et les bénéficiaires devaient les inclure dans leur revenu. À la suite de la décision de la Cour suprême du Canada dans l'affaire Thibaudeau c. Canada, [1995] 2 R.C.S. 627, la loi a changé. Tant qu'un accord antérieur à mai 1997 demeurait inchangé, le système de déduction et d'inclusion en vertu de l'ancien régime prévalait.
+9 Si un nouvel accord était conclu ou si un ancien accord était modifié d'une manière particulière, le régime de déduction et d'inclusion cessait, et seuls les paiements effectués à la « date d'exécution » , ainsi qu'elle est définie, étaient déductibles par le payeur et devaient être inclus par le bénéficiaire dans son revenu.
+Le passage de l'ancien au nouveau régime dépendait de l'existence d'une « date d'exécution » telle que définie ci-dessus.
+[9] Étant donné que l'ordonnance de base n'a pas été établie après avril 1997, mais le 15 novembre 1996 (pièce R-1), selon la définition de « date d'exécution » , le présent appel est régi par le paragraphe b). Le paragraphe b) prévoit quatre situations. J'examinerai d'abord la première et la dernière situation parce qu'il est facile de les mettre de côté. Si le payeur et le bénéficiaire signent un choix conjoint et le présentent au ministre sur le formulaire prescrit, ils peuvent choisir une date d'exécution en vertu de l'alinéa b)(i). L'appelant et Lola Marie n'ont pas signé de choix conjoint. En vertu de l'alinéa b)(iv), l'accord ou l'ordonnance peuvent préciser un jour comme date d'exécution pour l'application de la Loi de l'impôt sur le revenu. Aucune date d'exécution n'est précisée dans la deuxième ordonnance. Les alinéas b)(i) et b)(iv) ne s'appliquent pas.
+[10] Il me reste à examiner les deux autres alinéas, soit les alinéas b)(ii) et b)(iii) :
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+[...]
+Il y a une similarité évidente entre les dispositions dans les alinéas (ii) et (iii) parce qu'à l'alinéa (ii) on trouve les mots « touchant le montant de la pension alimentaire pour enfants » et, à l'alinéa (iii), les mots « de changer le total des montants de pension alimentaire pour enfants » . L'alinéa b)(ii) s'applique si un accord ou une ordonnance « fait l'objet d'une modification » tandis que l'alinéa b)(iii) s'applique s'il y a un accord ou une ordonnance subséquent. Dans le présent appel, nous avons ce qui semble être une modification parce que, dans la deuxième ordonnance, Mme la juge MacKenzie conclut :
+[TRADUCTION]
+« LA PRÉSENTE COUR ORDONNE que l'ordonnance de l'honorable juge Holmes, rendue le 15 novembre 1996, soit modifiée de la façon suivante : » (je souligne.)
+Dans l'hypothèse où l'ordonnance du 15 novembre 1996 fait seulement « l'objet d'une modification » , l'alinéa b)(ii) s'applique dans le cas de l'appelant. La deuxième ordonnance n'a pas modifié les montants de pension alimentaire pour enfants payables par mois par enfant. Les deux ordonnances sont rédigées à peu près de la même façon. La première ordonnance de novembre 1996 prévoit « une pension alimentaire de 475 $ par mois par enfant pour un total de 1 425 $ par mois » . La deuxième ordonnance prévoit « le montant de 475 $ par mois par enfant pour un montant total de 950 $ par mois » . Il est parfaitement évident que, s'il y a cessation de l'obligation de payer une pension alimentaire à l'égard de l'un des trois enfants, il y aura diminution du montant total. Mais cela n'est pas ce que l'alinéa b)(ii) de la définition de « date d'exécution » vise. L'alinéa b)(ii) vise le cas où l'ordonnance fait l'objet d'une modification « touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire » .
+[11] Selon moi,l'alinéa b)(ii) s'applique seulement si un accord ou une ordonnance antérieur fait l'objet d'une modification touchant le montant payable par enfant. Dans la deuxième ordonnance, parce que Heather (l'enfant le plus âgé) avait atteint un certain âge ou niveau d'instruction, s'était mariée, était partie ou en raison d'un autre motif, l'appelant n'était plus tenu de payer 475 $ par mois à son égard après le 5 octobre 1999. Par contre, il était tenu aux termes de la deuxième ordonnance de continuer à payer exactement le même montant, pour chacun des deux plus jeunes enfants, que le tribunal lui avait précédemment ordonné de payer dans l'ordonnance du 15 novembre 1996. Selon mon interprétation des deux ordonnances du tribunal, celle du 15 novembre 1996 et celle du 16 décembre 1999, il n'y a pas de date d'exécution en ce qui concerne l'appelant et les paiements qu'il a effectués à son ancienne conjointe en 1999, 2000 et 2001. Comme il n'y a pas de date d'exécution, il continue, tout comme c'était le cas avant le 16 décembre 1999, à avoir le droit de déduire les paiements mensuels.
+[12] L'avocate de l'intimée a attiré mon attention sur la décision que le juge en chef adjoint Bowman a rendue dans l'affaire Kovarik c. Sa Majesté la Reine, précitée. J'ai déjà cité ci-dessus les deux paragraphes de la décision où le juge Bowman résume brièvement les modalités de l'ancien et du nouveau régime. Je dois maintenant examiner les faits dans cette affaire. M. Kovarik et son épouse (ci-après « JV » ) ont divorcé en décembre 1979. Ils avaient deux fils : Garrett, né en 1971, et Ray, né en 1973. Le 15 janvier 1990, M. Kovarik et JV ont signé un accord écrit prévoyant, entre autres, ce qui suit :
+[TRADUCTION]
+1. À partir du 1er janvier 1990, M. Kovarik paiera à Mme Velensky à titre d'aliments, pour Garrett George Kovarik, qui est né le 6e jour de septembre 1971, et Ray Paul Kovarik, qui est né le 26e jour de mars 1973, le montant de 450 $ par mois pour chaque enfant, soit un total de 900 $ par mois.
+En 1998, le fils cadet a obtenu une maîtrise en administration des affaires et est devenu autonome, mais le fils aîné était étudiant en médecine, et l'aide de ses parents lui était toujours nécessaire. Le 12 février 1998, M. Kovarik et JV ont signé un nouvel accord prévoyant, entre autres, ce qui suit :
+[TRADUCTION]
+ET ATTENDU QUE les parties ont accepté que la pension alimentaire pour enfants, pour ledit RAY PAUL KOVARIK, puisse être interrompue à partir du 1er jour de février 1998.
+ET ATTENDU QUE les parties conviennent que l'accord actuel portant sur la pension alimentaire pour enfants à titre d'aliments pour GARRETT GEORGE KOVARIK, né le 6e jour de septembre 1971, se prolonge pour un montant de 450 $ par mois.
+IL EST ATTESTÉ PAR LE PRÉSENT ACTE, et les parties conviennent par les présentes de ce qui suit :
+1. Les parties conviennent en outre que la pension alimentaire pour enfants à l'égard de RAY PAUL KOVARIK, né le 26e jour de mars 1973, soit annulée à partir du 1er jour de février 1998.
+2. Les parties conviennent en outre que l'ordonnance actuelle portant sur la pension alimentaire pour enfants se prolonge en ce qui concerne GARRETT GEORGE KOVARIK jusqu'à ce qu'il ne soit plus un enfant, selon la définition de ce terme dans la Loi sur le divorce.
+[13] Le juge Bowman a rejeté l'appel de M. Kovarik et il a conclu qu'il y avait une « date d'exécution » à cause de l'accord conclu le 12 février 1998. Il dit ce qui suit aux paragraphes 16 et 17 :
+16 La responsabilité à l'égard d'un enfant, le plus vieux, demeure sans conteste la même, mais les montants totaux changent.
+17 L'avocat prétend que l'accord de 1998 n'était pas nécessaire parce que l'obligation de payer une pension alimentaire pour Ray Paul Kovarik aurait pris fin à son départ. Je ne crois pas que la Loi sur le divorce prévoie une telle cessation automatique. Sans le consentement de l'ancienne conjointe de l'appelant, il lui aurait été nécessaire d'obtenir une ordonnance d'un tribunal ou une autre forme d'homologation permettant la modification de l'accord de 1990, et cela l'aurait fait entrer dans le cadre de la définition de « date d'exécution » d'une manière ou d'une autre.
+Dans l'affaire Kovarik, l'accord du 12 février 1998 était « un accord subséquent » auquel s'appliquait, par conséquent, l'alinéa b)(iii) de la définition de « date d'exécution » . Le juge Bowman a conclu qu'il était lié par le libellé clair de l'alinéa b)(iii), soit : « changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur » même si le montant payable par enfant n'avait pas changé.
+[14] Je ne suis pas enclin à interpréter l'alinéa b)(ii) de la définition et en conclure qu'il y a une date d'exécution uniquement parce que parmi deux ou plusieurs enfants il y en a un qui est devenu inadmissible aux paiements de pension alimentaire pour enfants. À mon avis, une date d'exécution aurait été établie après avril 1997 en vertu de l'alinéa b)(ii) seulement s'il y avait eu modification du montant de pension alimentaire payable par enfant. Lorsque deux ou plusieurs enfants sont admissibles aux paiements de pension alimentaire pour enfants et que l'un d'entre eux devient inadmissible aux paiements de pension alimentaire à cause de son âge, de son niveau d'instruction, de son mariage, de son départ, etc., le montant total payable au bénéficiaire diminue, bien entendu, mais cette diminution n'est pas, à mon avis, une « modification » des montants de pension alimentaire pour enfants pour l'application de l'alinéa b)(ii).
+[15] Revenant aux faits dans le présent appel, la deuxième ordonnance a modifié l'ordonnance précédente du juge Holmes seulement dans la mesure où elle mettait fin à la pension alimentaire pour enfants payable à l'égard de Heather. À tout autre point de vue, la deuxième ordonnance a confirmé que le montant précédent de pension alimentaire pour enfant (475 $ par mois) était toujours payable à l'égard des deux plus jeunes enfants (Erin et Sarah). Étant donné ces faits, je conclus que la deuxième ordonnance du 16 décembre 1999 n'a pas établi de « date d'exécution » . Les appels pour les années 1999, 2000 et 2001 sont admis, sans frais.
+Signé à Ottawa, Canada, ce 15e jour d'octobre 2003.
+« M. A. Mogan »
+Le juge M. A. Mogan
+Traduction certifiée conforme
+ce 17e jour de juin 2005.
+Sophie Debbané, réviseure

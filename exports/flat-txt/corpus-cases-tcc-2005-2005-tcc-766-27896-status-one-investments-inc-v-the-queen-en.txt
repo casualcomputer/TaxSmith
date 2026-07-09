@@ -1,0 +1,175 @@
+Title: Status-One Investments Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27896/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-766-27896-status-one-investments-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-12-23
+
+# Status-One Investments Inc. v. The Queen
+
+- Citation: 2005 TCC 766
+- Decision date: 2005-12-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1744, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Status-One Investments Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-23
+Neutral citation
+2005 TCC 766
+File numbers
+2002-2867(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002‑2867(IT)G
+BETWEEN:
+STATUS-ONE INVESTMENTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Application heard September 14, 2005, at Montréal, Quebec
+Before: The Honourable Gerald J. Rip
+Appearances:
+Counsel for the Appellant:
+André Gauthier
+Josée Vigeant
+Counsel for the Respondent:
+Daniel Bourgeois
+_______________________________________________________________
+ORDER
+It is ordered that the Respondent may amend her amended reply and file the Second Amended Reply as Exhibit "E" attached to Paul Chamberland's sworn statement;
+Costs ordered against the Appellant.
+Signed at Ottawa, Canada, this 23rd day of December 2005.
+Rip J.
+Translation certified true
+on this 9th day of December 2005
+Elizabeth Tan, Translator
+Citation: 2005TCC766
+Date: 20051223
+Docket: 2002-2867(IT)G
+BETWEEN:
+STATUS-ONE INVESTMENTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Rip J.
+[1] The respondent has applied for leave of the Court pursuant to section 54 of the Tax Court of Canada Rules (General Procedure)(“Rules”) to further amend her amended reply to the Appellant’s notice of appeal (“Second Amended Reply”). The application is the result of my decision[1] striking out two paragraphs from the amended reply that referred to third parties which decision was upheld by the Federal Court of Appeal.[2] The disputed paragraphs, statements 11(uu) and 11(ww), that I struck from the amended reply were:
+[translation]
+(uu) From 1993 to 1998, Equicap promoted and marketed several limited partnership arrangements by means of offering memoranda;
+(ww) The important aspects of these limited partnership arrangements were identical to AFS No. 11, notably in terms of structure, operating method, agreements signed, parties involved, actions taken, objectives pursued and financial and tax results obtained;
+[2] Noël, J.A, writing for the Federal Court of Appeal in dismissing the respondent’s appeal, stated that:
+[translation]
+Insomuch as the Minister wishes to support an assessment on the actions of a third party, he must then specify the link between these actions and those of the taxpayer in question in order for the taxpaer to know what must be shown.[3]
+[3] The disputed provisions in the Second Amended Reply include the following portions of paragraph 11 that contain facts the Minister assumed to be true in making the reassessment for the Appellant’s 1996, 1998 and 1999 taxation years:
+[translation]
+(oo.1) the directing minds of Alliance No.11 and AFAS No. 11 were respectively Joseph Miller and Bernard Abrams ("Directing Minds");
+(oo.2) Bernard Abrams was also the directing mind of many other partnerships similar to AFS No. 11 namely, AFS Limited Partnership No. 1, AFS Limited Partnership No. 2, AFS and Company Limited Partnership No. 4, AFS and Company Limited Partnership No. 5, AFS Limited Partnership No. 7, AFS Limited Partnership No. 8, AFS Limited Partnership No. 9, AFS Limited Partnership No. 12 and AFS Limited Partnership No. 14 (collectively called "Other AFS Partnerships");
+(oo.3) Joseph Miller was also the directing mind of many other partnerships similar to Alliance No. 11 namely, Alliance Services (No. 1) Limited Partnership, Alliance Services (No. 2) Limited Partnership, Alliance Services (No. 3) Limited Partnership, Alliance Services (No. 4) Limited Partnership, Alliance Services (No. 5) Limited Partnership, Alliance Services (No. 7) Limited Partnership, Alliance Services (No. 9) Limited Partnership, Alliance Services (No. 10) Limited Partnership, Alliance Services (No. 11) Limited Partnership (collectively called, "Other Alliance Partnerships").
+(oo.4) as with AFS No. 11, the units of the Other AFS Partnerships were all subject to promotion and marketing by Equicap through memoranda;
+(oo.5) the promotion and marketing of these units of the Other AFS Partnerships and the creation of the Other Alliance Partnerships took place from 1993 to 1998;
+(oo.6) as with AFS No. 11 and Alliance No. 11, the purpose of the Other AFS Partnerships and Other Alliance Partnerships was to participate in the commercial distribution of films for Warner Bros;
+(oo.7) the financial and fiscal results of the Other AFS Partnerships and the Other Alliance Partnerships were the same as those of AFS No. 11 and Alliance No. 11, insomuch as:
+(i) they all suffered losses that were ultimately allocated to the investors based on their participation for tax deduction purposes;
+(ii) the maximum amount as Defined Gross Payments was payable by Warner Bros. to Other Alliance Partnerships under the Studio Theatrical Distribution Agreement;
+(iii) as with Alliance No. 11, the Other Alliance Partnerships were not able to fulfill their commitments to Warner Bros. under the Studio Loan Agreement;
+(oo.8) in November 1996, at the time the Appellant subscribed its AFS No. 11 units, the Directing Minds were aware of the losses incurred by the Other AFS Partnerships and the Other Alliance Partnerships;
+(oo.9) the Directing Minds did not intend to carry on activities for profit;
+(oo.10) in November 1996, at the conclusion of the Studio Theatrical Distribution Agreement, the Studio Loan Agreement and the Sub-Distribution Agreement, the Directing Minds and Warner Bros. were aware of the financial results following similar agreements with the Other Allaince Partnerships.
+[4] Appellant’s counsel has consented to the inclusion of the following provision of paragraph 11 of the Second Amended Reply, provided, however, the respondent provide more precise details with respect to Mr. Takefman’s description as [translation] “the Appellant's Directing Mind”:
+11.4 Earl Takefman, who was the Appellant's administrator and Directing Mind, personally subscribed to AFS and Company Limited Partnership No. 4 units and knew its financial and fiscal results at the Appellant's acquisition of AFS No. 11 units.
+11.5 Earl Takefman did not intend to carry on activities for profit.
+[5] Respondent’s counsel argues that based on the following facts alleged in the Amended Reply, the allegations in dispute are relevant:
+(i) On November 22, 1996, Status-One Investments Inc. and many other investors bought units of a partnership, AFS No. 11 Limited Partnership (hereinafter "AFS No. 11"), with amounts paid in cash and an amount borrowed from Berkshire Financial Services No. 9 (hereinafter "Berkshire"). AFS No. 11's general partner is Mediaventures No. 16 Inc.
+(ii) The product of this subscription is used to create and buy units of a US partnership, Alliances Services (No. 11) Limited Partnership (hereinafter "Alliance No. 11"). The general partner is Alliance Distribution Services No. 11 Inc. (hereinafter "Alliance Distribution"), a US company whose president is Joseph Miller
+(iii) Alliance No. 11 entered into a number of agreements with Warner Bros. and Riverside Avenue Distributing Inc. (hereinafter "Riverside") targeting the distribution of certain films in the US. Before these films even made it to the theatres and only a few days after these partnerships were created and the agreements signed, Alliance No. 11 claimed a net loss of $28,871,913, which is attributed, in part, to AFS No. 11. This loss was, in turn, attributed to the AFS No. 11 partnerships, including Status-One.
+(iv) The losses claimed by Status-One were refused by the Minister of National Revenue, in particular on the ground that neither AFS No. 11, or Alliance No. 11 were genuine partnerships in the legal sense since they were not jointly operating a company for the purpose of generating a profit. Moreover, in the Amended Reply, the Respondent claimed that the agreements with Warner Bros. and Riverside were a deception.
+(v) The amount of all the promissory notes given by the investors were from ING Bank N.V. (hereinafter "ING"), a Dutch bank. On November 22, 1996, the amount was subject to a number of transfers, that followed a circular pattern. The amount was loaned to Berkshire, which distributed the amount as a loan to investors. The investors put this amount into AFS No. 11 by acquiring units. In turn, AFS No. 11 invested the amount in Alliance No. 11. Finally, the same amount is invested by Alliance No. 11 in a certificate of deposit with ING. All these transfers were carried out using internal transfers between the accounts the stakeholders held with ING. At all times, the amount was kept at ING to ensure full recovery of the debt.
+(vi) A series of transactions involving this credit facility was carried out between December 3, 1996, and January 30, 1998, during which the certificate of deposit with ING was temporarily held by Warner Bros. All these transactions were predetermined and throughout the period in question, this amount was held by ING as a guarantee against the debt. With these transactions were mechanisms that ensured the distribution of income to the investors and allow them to pay interest and reimburse the Berkshire loan at its term.
+(vii) In its amended reply, the Respondent claimed that all the agreements related to the use of the ING credit facility grant AFS No. 11 and the investors the right to receive amounts allowing the investors to reimburse their Berkshire loan and related interest. These benefits were granted in order to eliminate or reduce the effect of the loss that the investors and AFS No. 11 could have incurred as associates of their respective companies. Thus, the benefits should be reduced from the calculation of the at-risk amount of AFS No. 11 and Status-One and therefore reduce the amount of the loss that would be deductible.
+(viii) Over 1996 and 1997, Status-One and the other investors did not pay any interest to Berkshire for their promissory note. Moreover, the Berkshire loans were debts in regard to which remedies are limited, considering the agreements reached between Alliance No. 11, Warner Bros., Berkshire, ING and Equicap. On this, subsection 143.2(6) reduces the cost of Alliance No. 11 units held by AFS No. 11 insomuch as these units were a tax shelter investment.
+(ix) Moreover, the investors involved in this strategy received an offering memorandum from Alliance Equicap Inc. promoting an opportunity to participate in the distribution of certain films with no provision for the income likely to result from the distribution of these films. In addition, the offering memorandum indentified an annual distribution of income to investors that would be equivalent to the interest payable to Berkshire and a special distribution of income to allow them to reimburse the capital on this loan.
+(x) Additionally, Équicap distributed a financial analysis that based calculations of overall investment performance on tax relief forecasts with no mention of potential profit.
+(xi) In its amended reply, the Respondent claimed that it is reasonable to consider that if a person acquired a unit of Alliance No. 11 in 1996, the amount of the losses that would likely be deductible would be equal to or greater than the cost of acquiring the unit. In so doing, the units of Alliance No. 11 were a tax shelter within the meaning of subsection 143.2(1)
+[6] Appellant’s counsel stated that the submissions by respondent’s counsel are a rehash of his submissions to the Federal Court of Appeal and should not be accepted; the allegations are not new, they are stated more precisely. The Crown is saying the same things as before but in a more detailed way. In any event, Appellant’s counsel submits, the Appellant’s intention when acquiring units in ASF No. 11 is the Appellant’s intention, not the intentions of the General Partner or Directing Minds of the limited partnership. One must look to the Appellant, not anyone else, to determine what the Appellant’s intention was at the time. To refer to intentions of others, as is suggested in subparagraphs 11(oo.1) to 11(oo.10), is irrelevant, according to Appellant’s counsel.
+[7] In my reasons for judgment striking out subparagraphs 11(uu) and 11(ww) of the amended reply I held that at that stage of the proceedings it appeared that these allegations were not relevant in determining whether the taxpayer had the intention to make a profit from the operation of AFS. No. 11. The inclusion of the allegations, similar to those disputed allegations in the appeal of The Queen v. Global Communications Ltd.[4], would unduly prolong the discovery and the trial without any assurance that the inquiry would deal with questions relevant to the assessments in issue.
+[8] The allegations of fact in subparagraphs 11(uu) and 11(ww) were facts purportedly assumed by the Minister in assessing. They were rather general allegations without any precision and related to nothing specific. Facts alleged as assumptions made by the Minister on assessing are not ordinary allegations. In my original reasons I referred to Rothstein, J.A. who explained that:
+[translation]
+The pleading of assumptions gives the Crown the powerful tool of shifting the onus to the taxpayer to demolish the Minister's assumptions. The facts pleaded as assumptions must be precise and accurate so that the taxpayer knows exactly the case it has to meet.[5]
+[9] I concluded my reasons as follows:
+Subparagraphs 11(uu) and (ww) muddy the appeal process. At this stage of the process, Equicap's actions appear to have no direct bearing on the fundamental issues raised by the appeals. Considerable caution should be exercised when third parties are involved. The relevant actions are those of the Appellant, which has been assessed and is entitled to know why. In some cases, it is quite possible that relationships or ties between an Appellant and third parties will be relevant. Among other things, I have in mind cases involving securities trading. However, I have found nothing in the parties' pleadings to indicate that the facts alleged in subparagraphs 11(uu) and (ww) are relevant. An Appellant must always make his own case. The Minister must assess taxpayers based on what the taxpayers have or have not done, and not, generally, on the conduct of a third party.
+[10] The Federal Court of Appeal held that the Crown did not demonstrate that the facts alleged in subparagraphs 11(uu) and 11(ww), in particular the relationships between the Appellant and third parties, were relevant to determine any intention. The pleadings precisely show how these bonds or relationships between an appellant and a third party can be useful in determining the taxes owing.
+[11] Noël, J.A. cautioned the Crown that it is not sufficient to allege that all circumstances are relevant:
+[translation]
+It is not enough to claim, as the Crown did, that all the circumstances are relevant. The fact that the person from whom Status-One acquired its participation in the partnership carried out similar activities with third parties in the past does not in itself prove the intentions of Status-One at the time the agreements were signed.[6]
+[12] The question now before me is whether, on the material before me, subparagraphs 11(oo.1) to (oo.10), inclusive, of the Second Amended Reply do not muddy the appeal process but clarify the bond or relationship, if any, between the Appellant and the third parties to the extent that the relationships are relevant in determining the intention of Status-One at the time it entered into transactions under review.
+[13] Section 54 of the Rules states that:
+A pleading may be amended my the party filing it, at any time before the close of pleadings, and thereafter either on filing the consent of all other parties, or with leave of the Court, and the Court in granting leave may imposed such terms as are just.
+Une partie peut modifier son acte de procédure, en tout temps avant la clôture des actes de procédure, et subséquemment de touts les autres parties, ou avec l’autorisation peut imposer les conditions qui lui paraissent appropriées.
+[14] Section 54 of the Rules does not describe the conditions under which the Court may grant leave to amend a pleading. Whether or not leave is granted is at the judge’s discretion. In some instances the judge may wish to be guided by section 53 of the Rules and consider whether the proposed amendment may prejudice or delay the fair hearing of the action, or is scandalous, frivolous or vexatious, or is an abuse of powers of the Court. In such circumstances no leave to amend would follow. Similarly, the judge may also consider whether the proposed amendment discloses reasonable grounds for the appeal or for opposing the appeal: s. 58 of the Rules. The application at bar does not require the guidance of sections 53 and 58 of the Rules.
+[15] I am satisfied that at least to some extent the amended allegations in subparagraphs 11(oo.1) to 11(oo.10) of the Second Amended Reply are not new but describe in more detail what was alleged in subparagraphs 11(uu) and 11(ww) of the amended reply. To this extent I agree with Appellant’s counsel. For example, subparagraphs 11(oo.4) and 11(oo.5) of the Second Amended Reply say much the same as subparagraph 11(uu) of the amended reply. However, there are also sufficient details in subparagraphs 11(oo.1) to 11(oo.10) of the Second Amended Reply that permit to Appellants to understand the dealings and possible relationships between the Appellant and the third parties that were lacking in subparagraph 11(uu) and 11(ww) of the amended reply.
+[16] Subparagraphs 11(oo.1), (oo.2), (oo.3), (oo.6), (oo.7), (oo.8), (oo.9) and (oo.10) allege, among other things, the names of the Directing Minds (âmes dirigeants) AFS No. 11 as well as other partnerships in which they were involved, the similarity of objects of the partnerships, the financial and tax results of the other partnerships in which the Directing Minds were the same as in AFS No. 11, that the other partnerships incurred losses, that the other partnerships did not respect the obligations under contracts they had with Warner Bros., that the Directing Minds were aware of losses by the various partnerships at the time the Appellant subscribed for units in AFS No. 11, that the Directing Minds had no intention for AFS No. 11 to realize a profit.
+[17] All of these allegations, as well as those set out in subparagraphs 11(oo.4) and (oo.5), may or may not be relevant in determining the Appellant’s intention when it acquired units in AFS No. 11. Facts set out in paragraph 5 of these reasons suggest that there may be a relationship between the Appellant and third parties that influenced the Appellant’s decision to invest in AFS No. 11. These allegations, so far, are merely allegations since the bulk of which were assumed by the Minister in assessing and could be rebutted. Evidence that is only available at trial may be necessary to determine the relevancy of disputed allegations. Only the trial judge will be in a position to decide whether all, some or none of the allegations in subparagraphs 11(oo.1) to 11(oo.10) are relevant in considering the Appellant’s intention at the time it acquired units in AFS No. 11. As I wrote in my earlier reasons, there may be appeals in which the activities, past and present, of third parties may be relevant to the actions of a taxpayer. One may be influenced by one’s future or current associates. On the allegations that were before me on the motion to strike subparagraphs 11(uu) and 11(ww), it was clear that nothing could be gleaned from the impugned provisions and therefore they were struck. The provisions now before me are detailed and may be of some import in considering the Appellant’s intention. But again, this is for the trial judge to decide.
+[18] With respect to paragraphs 11.4 and 11.5, I do not see any need for the respondent at this time to detail further Mr. Takefman’s description as a director and moving force of the Appellant. Particulars may be obtained at discovery.
+[19] The facts in this application for leave to amend pleadings are not similar to several of the cases referred to me by counsel: The Queen v. Canderel Limitée[7] and Continental Bank Leasing Corp. v. R[8]. I have referred to the reasons of the Court of Appeal in Anchor Pointe Energy Ltd.[9] earlier in these reasons.
+[20] The respondent shall have leave to file the pleadings referred to as Second Amended Reply. This, of course, does not affect the Appellant’s right on discovery to question the authorized representative of the respondent as to whether, when reassessing the Appellant, the Minister assumed all or any of the facts alleged in paragraph 11 of the Second Amended Reply.
+[21] The Appellant filed its notice of appeal on July 22, 2002. The Court should not be a forum for procedural wrongdoing[10]. It is time the parties got down to the merits of the appeal, exchange lists of documents and proceed to discovery and trial.
+Signed at Ottawa, Canada this 23rd day of December 2005.
+Rip J.
+Translation certified true
+on this 9th day of December 2005
+Elizabeth Tan, Translator
+CITATION:
+2005TCC766
+COURT FILE NO.:
+2002-2867(IT)G
+STYLE OF CAUSE:
+Status-One Investments Inc. v. Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+September 14, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT:
+December 23, 2005
+APPEARANCES:
+Counsel for the Appellant:
+André P. Gauthier
+Josée Vigeant
+Counsel for the Respondent:
+Daniel Bourgeois
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+André P. Gauthier
+Firm:
+Heenan Blaikie SRL
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Arrotney General of Canada
+Ottawa, Canada
+[1] 2004 Carswell Nat 2348, 2004CCI473, 2004 DTC 3042
+[2] 2005 Carswell Nat 881, 2005 FCA 119, 2005 DTC 5224 per Noël, J.A.
+[3] Ibid at para 24
+[4] [1997] F.C.J. No. 382, 97 DTC 1194 (F.C.A.) at 5195
+[5] Anchor Pointe Energy Ltd. v.The Queen, [2003] F.C.J. No.1045 (F.C.A.), 2003 DTC 5512 (F.C.A.).
+[6] 2005 Carswell Nat 881, 2005 FCA 119, 2005 DTC 5224 per Noël, J..A. at para 20
+[7] [1994] 1 F.C. 3
+[8] 93 DTC 298, see also Loewen v. The Queen 2003 DTC 686 (T.C.C.)
+[9] supra
+[10] See Gould v. The Queen 2005 DTC 1311

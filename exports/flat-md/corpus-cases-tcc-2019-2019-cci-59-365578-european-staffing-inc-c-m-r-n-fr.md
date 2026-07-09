@@ -1,0 +1,399 @@
+---
+title: "European Staffing Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/365578/index.do"
+last_modified: "2019-03-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 59"
+citation2: ""
+neutral_citation: "2019 CCI 59"
+decision_date: "2019-03-11"
+language: "fr"
+item_id: "365578"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4309
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:23:34.655000+00:00"
+cases_cited_count: 6
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ab39da1499f24767d8a7a24822010ec1e22965c1ceed558d34890ca78acf4cec"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# European Staffing Inc. c. M.R.N.
+
+- Citation: 2019 CCI 59
+- Decision date: 2019-03-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4309, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+European Staffing Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-03-11
+Référence neutre
+2019 CCI 59
+Numéro de dossier
+2017-383(CPP), 2017-385(EI), 2018-3794(EI), 2018-3798(CPP)
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2017-383(CPP)
+2017-385(EI)
+2018-3794(EI)
+2018-3798(CPP)
+ENTRE :
+EUROPEAN STAFFING INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+JERZY PAJECKI et PAUL KENNY,
+intervenants.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels d’European Staffing Inc. (2017-383(CPP), 2017-385(EI), 2018-3794(EI) et 2018-3798(CPP)) les 9 et 10 janvier 2019 à Toronto (Ontario).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelante :
+Me Jonathan Di Feo
+Avocat de l’intimé :
+Me Warren Silver
+Pour les intervenants :
+Les intervenants eux-mêmes
+JUGEMENT
+Les appels interjetés à l’encontre des décisions (les « décisions ») rendues par le ministre du Revenu national à l’égard des motifs de jugement en l’espèce, selon lesquels les intervenants et les travailleurs énumérés aux annexes A et B occupaient chez l’appelante un emploi assurable et ouvrant droit à pension au sens de la Loi sur l’assurance-emploi et du Régime de pensions du Canada, sont rejetés et les décisions sont confirmées, le tout conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de mars 2019.
+« Robert J. Hogan »
+Le juge Hogan
+Référence : 2019 CCI 59
+Date : Le 11 mars 2019
+Dossiers : 2017-383(CPP)
+2017-385(EI)
+2018-3794(EI)
+2018-3798(CPP)
+ENTRE :
+EUROPEAN STAFFING INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+JERZY PAJECKI,
+intervenant,
+et
+PAUL KENNY
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGMENT
+Le juge Hogan
+I. Contexte
+[1] Il s’agit d’appels interjetés contre des décisions du ministre du Revenu national (le « ministre ») selon lesquelles l’appelante, European Staffing Inc., a placé des personnes dans des emplois ouvrant droit à pension et assurables en tenant compte des dispositions relatives aux agences de placement du Régime de pensions du Canada [1] (« RPC »)et la Loi sur l’assurance-emploi [2] (la « Loi sur l’AE »). Les personnes en question sont M. Paul Kenny pendant la période du 23 février 2017 au 25 juillet 2017, et les personnes énumérées aux annexes A et B de ces motifs pour les années d’imposition 2013 et 2014 (collectivement, les « travailleurs »).
+Les présents appels ont été entendus sur preuve commune.
+II. Les faits
+[2] L’appelante est une entreprise qui fournit des travailleurs à des clients. Les éléments de preuve étaient axés sur les détails des activités de l’appelante et sur les conditions de travail des travailleurs lorsqu’ils rendaient des services aux clients de l’appelante.
+[3] L’appelante a convoqué trois témoins. Le premier était M. Miroslav Banach, fondateur et propriétaire de European Staffing. Les deux autres témoins étaient d’anciens travailleurs, M. Farhad Keshmiri et M. Kato Bennett. L’intimé a également convoqué trois témoins, soit une ancienne travailleuse, Mme Mariana Simoiu, et deux agentes des appels de l’Agence du revenu du Canada en matière de RPC et de l’AE qui ont travaillé au dossier, soit Mme Marie-Claude Marcoux et Mme Sara Vis. Deux autres travailleurs, M. Jerzy Pajecki et M. Paul Kenny, ont témoigné à titre d’intervenants.
+Miroslav Banach
+[4] M. Banach a témoigné en premier. M. Banach a décrit son entreprise comme une « agence de recrutement de chasseurs de têtes » [3] . Selon le témoin, les clients lui présentaient une description de leurs besoins en main-d’œuvre. Il trouvait ensuite des travailleurs qui répondaient à ces besoins [4] . M. Banach a déclaré qu’il menait des entrevues en personne ou par téléphone. Si le travailleur était acceptable et acceptait la durée de travail proposée par M. Banach, ce dernier prenait des dispositions pour que le travailleur rencontre le client [5] . Le témoin a reconnu que, dans certains cas, le travailleur rencontrait le client directement [6] . Le client consignait les heures travaillées par le travailleur sur une feuille de temps. M. Banach facturait le client en fonction de la feuille de temps [7] et payait le travailleur à un taux inférieur que le temps réellement travaillé [8] . Sur les factures, les noms des travailleurs sont énumérés sous la rubrique « Emp Name » (« Nom de l’employé ») [9] .
+[5] Selon le témoin, tous les contrats de l’appelante étaient verbaux [10] . Il a déclaré dans son témoignage avoir toujours dit clairement aux travailleurs qu’ils étaient embauchés comme entrepreneurs indépendants. À ce titre, ils devaient payer leurs propres impôts directement [11] . Il a reconnu avoir payé leurs primes d’assurance contre les accidents du travail. Il prétend l’avoir fait en guise de cadeau et de faveur à l’intention des travailleurs [12] .
+[6] En ce qui concerne les conditions de travail, M. Banach a convenu qu’il y avait habituellement un superviseur à l’étage du lieu de travail du client [13] . Toutefois, il s’est montré évasif lorsqu’on lui a demandé si les travailleurs devaient suivre les instructions du superviseur [14] . Il a semblé concéder que les clients fixaient les heures de travail [15] . Il a déclaré être très proactif et visiter le lieu de travail de chaque client une fois par semaine pour remettre les chèques, mais aussi pour vérifier les conditions de travail et voir s’il y avait des problèmes avec les travailleurs de l’appelante [16] . Son témoignage sur ce point est demeuré non corroboré.
+[7] Beaucoup de temps a été consacré aux outils. M. Banach a déclaré qu’en règle générale, les travailleurs devaient fournir leurs propres outils. Toutefois, il a concédé qu’à titre de faveur personnelle, à de nombreuses occasions, les clients de l’appelante ont fourni aux travailleurs les outils nécessaires pour effectuer leur travail [17] . Lorsque j’ai demandé à M. Banach comment un soudeur qui gagne 18 $ ou 19 $ l’heure pouvait se permettre de fournir le carburant ou les barres nécessaires pour un travail de soudage, il a reconnu qu’on ne s’attendait jamais à ce que les travailleurs fournissent ce genre d’outils ou d’équipement [18] .
+[8] Dans l’ensemble, j’ai trouvé le témoignage de M. Banach intéressé et il semblait avoir été préparé. Ses réponses à des questions directes étaient vagues, voire évasives, et sur plusieurs points clés, son témoignage était en conflit avec celui d’autres témoins, comme nous le verrons ci-après. Dans de tels cas, je préfère le témoignage des autres témoins.
+Farhad Keshmiri
+[9] M. Keshmiri travaille comme mécanicien de chantier et électricien industriel et a clairement déclaré qu’il se considérait comme un travailleur autonome [19] . Il a actuellement une entreprise immatriculée et délivre des factures par l’entremise de son entreprise, [20] mais cette entreprise n’existait pas lorsqu’il travaillait avec European Staffing.
+[10] M. Keshmiri a déclaré lors de son témoignage qu’il a fait du travail en sous-traitance par l’intermédiaire d’European Staffing à une boulangerie entre la fin de 2013 et au début de 2014. Cependant, il a travaillé pour la première fois pour cette même boulangerie à l’été 2013 par l’entremise d’une autre agence [21] . Il a reconnu que la première agence a versé des cotisations d’AE pour son compte [22] .
+[11] M. Keshmiri a décrit le milieu de travail à la boulangerie. Il a été embauché avec d’autres travailleurs de l’appelante pour faire l’essai de l’équipement de boulangerie automatisé nouvellement installé afin de s’assurer qu’il fonctionnerait efficacement une fois la production commerciale amorcée. Il était payé à un taux horaire [23] et la boulangerie établissait les heures de travail [24] . Pendant que M. Keshmiri était là, le directeur de l’entretien de la boulangerie assignait les postes aux travailleurs [25] . M. Keshmiri a déclaré qu’il avait fourni ses propres outils de base et, à l’occasion, d’autres outils particuliers, et que la boulangerie n’avait pas fourni d’outils [26] . Il explique que la boulangerie comptait deux groupes :
+[traduction] […] un groupe nous étions tous des entrepreneurs et un autre groupe était leurs employés. Ils ont engagé le groupe de techniciens, la même expertise que nous, mais ce sont des employés. Ils nous ont embauchés pour augmenter cela temporairement pour la période de mise en service, juste pour le début [...] . [27] [Non souligné dans l’original.]
+[12] Je conclus de ce qui précède que les employés à temps plein de la boulangerie ont reçu les outils nécessaires pour accomplir leurs tâches.
+Kato Bennett
+[13] M. Bennett est un soudeur qui a travaillé dans une usine de fabrication de chariots élévateurs à fourche, Cascade Canada Corp., par l’entremise d’European Staffing [28] . Ses heures de travail étaient fixées par Cascade, bien que M. Bennett quitte à l’occasion pour quelques jours pour exécuter d’autres mandats [29] . Il a déclaré dans son témoignage que des gestionnaires et des superviseurs lui avaient confié ses projets et supervisé son travail [30] . S’il faisait une erreur, il devait la corriger, mais il était quand même payé pour les heures qu’il prenait pour le faire [31] . Il a apporté son propre marteau et d’autres outils de base, mais l’usine lui a fourni la machine à souder, le chalumeau et les barres [32] . Sa feuille de temps fournie par l’usine [33] indiquait que M. Bennett était un « employé temporaire » [34] .
+Jerzy Pajecki
+[14] M. Pajecki est un intervenant dans les présents appels. Comme M. Bennett, il est également soudeur. Par l’entremise d’European Staffing, M. Pajecki a travaillé pour Ankor Engineering Systems Ltd. comme soudeur du 15 septembre 2014 au début d’avril 2015 [35] . M. Pajecki a passé une entrevue avec European Staffing par téléphone, puis a passé une entrevue une autre fois avec Ankor [36] . À Ankor, M. Pajecki avait un superviseur et travaillait des heures déterminées chaque jour, ce qui comprenait deux pauses payées [37] . M. Pajecki était supervisé et suivait les instructions qui lui étaient données [38] . Il pointait son arrivée et son départ [39] et n’était payé que pour les jours où il travaillait [40] . Ankor a fourni à M. Pajecki tous ses outils, bien que M. Pajecki ait d’abord apporté son propre casque de soudage. Quand le casque a été brisé, Ankor lui en a fourni un autre [41] . Ankor a organisé une formation sur le SIMDUT (Système d’information sur les matières dangereuses utilisées au travail) à l’intention de M. Pajecki [42] .
+[15] Le témoignage de M. Pajecki laisse entendre qu’il a été traité de la même façon que les employés permanents d’Ankor, sauf qu’il effectuait un quart de travail plus court [43] . Le témoignage de M. Pajecki est renforcé par le fait qu’après quelques mois, il a été embauché directement par Ankor Engineering et est devenu un employé permanent jusqu’à ce qu’il soit finalement licencié [44] . En tant qu’employé à temps plein, ses tâches sont demeurées les mêmes. L’avantage était qu’il recevait maintenant les mêmes avantages que les autres employés [45] .
+[16] M. Pajecki convient que M. Banach lui a dit qu’il serait un sous-traitant et qu’il n’y aurait pas de retenue d’impôt [46] . Il a reconnu avoir signé un document à cet effet [47] . Toutefois, il ressort très clairement de son témoignage que M. Pajecki n’a pas compris ce que cela signifie d’être un sous-traitant et s’est considéré comme un employé [48] . Il a déclaré ce qui suit : [traduction] « Cette fois, j’ai besoin d’un emploi. J’ai besoin d’argent. J’ai besoin d’un revenu. Je veux accepter un emploi. Je pensais que tout était clair, oui, et j’ai accepté le poste. Quelques mois plus tard, j’ai découvert ce que cela signifie d’être sous-traitant » [49] . Il s’est rendu compte de la différence lorsqu’il a demandé de l’aide pour produire sa déclaration de revenus et que son conseiller fiscal l’a informé qu’il n’était pas admissible à titre de sous-traitant compte tenu de sa description de travail [50] . Il a déclaré les montants reçus de l’appelante comme revenu d’emploi dans sa déclaration de revenus.
+Paul Kenny
+[17] M. Kenny est un peintre industriel et le deuxième intervenant dans les présents appels. M. Kenny a présenté une demande de décision concernant l’assurance-emploi après avoir été mis à pied [51] .
+[18] M. Kenny avait trouvé du travail par l’intermédiaire d’European Staffing en répondant à une annonce publiée par l’appelante sur Indeed.com. L’appelante a organisé une entrevue pour lui à Cascade, au cours de laquelle Cascade n’a pas mentionné que son statut serait celui d’un sous-traitant [52] . Cascade lui a fourni tous les outils dont il avait besoin et un employé lui a donné une formation d’une journée sur la façon d’accomplir ses tâches [53] . Ses heures de travail étaient fixées par Cascade [54] . Parfois, on lui demandait de faire des heures supplémentaires, ce que M. Kenny pouvait accepter ou non de faire selon sa disponibilité [55] . Lorsque Cascade a modifié sa politique sur les heures supplémentaires, M. Kenny n’a pas pu la faire modifier ou négocier quelque chose de différent [56] . Il avait trois superviseurs à Cascade qui lui donnaient des directives sur la façon de faire son travail et lui confiaient des tâches de peinture [57] . Les superviseurs précisaient non seulement ses tâches, mais aussi l’ordre dans lequel elles devaient être exécutées et les périodes pendant lesquelles elles devaient l’être [58] . M. Kenny a déclaré qu’on s’attendait à ce qu’il suive ces instructions et qu’il l’a fait [59] . M. Kenny recevait des commentaires de ses superviseurs de Cascade [60] . Il devait faire le travail personnellement et aviser Cascade s’il devait s’absenter [61] . Cascade lui a demandé de suivre plusieurs cours de formation à l’interne [62] et il a aussi reçu une formation pour d’autres travaux de peinture et travaux liés à la peinture [63] . Il était payé pour suivre la formation pendant les heures normales de travail de l’entreprise [64] . Il a signé son certificat de sensibilisation des travailleurs à la santé et à la sécurité sur la ligne « Signature de l’employé » [65] . M. Kenny a déclaré que son travail à Cascade était [traduction] « très semblable » au travail qu’il avait effectué à titre d’employé direct de son ancienne entreprise [66] .
+[19] M. Kenny était payé par l’appelante [67] . Lorsqu’il a reçu sa première paie, il a remarqué qu’il n’y avait pas de retenues, mais il n’a pas donné suite à l’affaire [68] . Il a déclaré son revenu à la ligne « Autres revenus » de sa déclaration de revenus, et non à titre de « Revenus d’emploi » [69] . Il a compris qu’il devrait payer de l’impôt supplémentaire sur son revenu, mais il ne s’est pas rendu compte que les cotisations au RPC et à l’AE n’étaient pas payées [70] . Il a déclaré que s’il avait su que tel était le cas, il n’aurait pas accepté l’emploi puisqu’il était encore admissible aux prestations d’assurance-emploi lorsqu’il a commencé à travailler à Cascade [71] . Il a accepté le poste à Cascade dans l’espoir d’être engagé directement par Cascade dans un poste permanent [72] .
+[20] M. Kenny a déclaré que personne à European Staffing ne lui avait dit qu’il était un entrepreneur [73] . Il a seulement appris qu’European Staffing avait l’intention de le traiter comme un entrepreneur lorsqu’il a présenté une demande d’assurance-emploi plus tard et qu’il ne pouvait pas obtenir un relevé d’emploi de la part de cette dernière comme il se devait [74] . M. Kenny a déclaré qu’il n’avait jamais préparé de facture pour réclamer les montants que l’appelante lui devait. Les montants que l’appelante lui devait étaient plutôt déterminés en fonction des heures qu’il avait travaillées et qui avaient été consignées sur les feuilles de temps préparées par les clients de l’appelante [75] .
+Mariana Simoiu
+[21] Mariana Simoiu est ingénieure mécanique qui a postulé à European Staffing par l’entremise d’un des sites Web de la banque d’emplois. En fin de compte, elle a obtenu deux postes grâce à European Staffing, le premier à EMPCO et le deuxième à Ankor [76] .
+[22] Dans les deux postes, elle a travaillé aux bureaux du client avec les employés à long terme de l’entreprise. Elle recevait des instructions des ingénieurs et des superviseurs sur place [77] , dans un cas travaillait littéralement côte à côte avec un ingénieur de l’entreprise qui lui donnait des instructions ou de l’aide au besoin [78] . Les clients lui fournissaient tous les outils et le matériel dont elle avait besoin et fixaient ses heures de travail [79] . Elle a déclaré dans son témoignage qu’elle n’avait pas son mot à dire au sujet des heures travaillées et qu’elle n’avait pas le pouvoir discrétionnaire d’accepter ou de refuser du travail [80] . Dans les deux milieux de travail, quelqu’un approuvait son travail [81] . Sa situation était semblable à celle de M. Kenny en ce sens qu’elle souhaitait être embauchée directement par le client à un poste permanent [82] .
+Marie-Claude Marcoux
+[23] Mme Marcoux était l’agente d’appel en matière de RPC et d’AE chargée en premier du dossier d’European Staffing. Dans le cadre de son enquête, elle a envoyé des lettres de contact à tous les travailleurs pour lesquels l’ARC avait des coordonnées [83] , soit un total de 77. Bien qu’elle ait reçu de nombreux appels de travailleurs inquiets, elle n’a pas eu un taux de réponse élevé aux questionnaires officiels qu’elle a envoyés, puisqu’elle en a reçu six au total [84] . Mme Marcoux a déclaré que toutes les personnes ayant appelé auxquelles elle a parlé, soit environ 16 au total, croyaient qu’elles étaient des employées et qu’elles avaient été placées auprès des clients d’European Staffing [85] . Un travailleur a été jugé être un entrepreneur indépendant et son cas a été retiré de l’enquête. Ce travailleur travaillait aux TI dans les bureaux de l’appelante et n’a pas été placé auprès des clients de l’appelante.
+[24] D'après les questionnaires qu'elle a reçus, Mme Marcoux a conclu que les travailleurs se considéraient comme des employés, qu'ils avaient été placés par une agence de placement auprès des clients du payeur, qu'ils étaient supervisés par le client et que leurs heures étaient transmises par le client au payeur et qu'ils ont été payés par le payeur [86] . Cela a été étayé par les renseignements qu’elle a recueillis auprès de l’un des clients d’European Staffing, Ankor [87] .
+[25] Mme Marcoux a déclaré dans son témoignage que M. Banach n’avait pas collaboré à son enquête. Il a refusé de lui fournir une liste de ses clients [88] et a demandé plusieurs prolongations afin de fournir les renseignements demandés [89] .
+Sara Vis
+[26] Mme Vis est l’agente d’appel en matière de RPC et d’AE qui a pris en charge le dossier d’European Staffing après Mme Marcoux. [90] Dans le cadre de son enquête, elle a passé en revue les antécédents de production d’environ la moitié des travailleurs et a constaté que la majorité d’entre eux avaient déclaré soit un revenu d’emploi ou un « autre revenu d’emploi » dans leur déclaration [91] .
+[27] Mme Vis a conclu que l’appelante était une agence de placement et qu’elle avait placé des travailleurs dans un emploi assurable et ouvrant droit à pension avec ses clients [92] . Elle s’est fondée sur l’ensemble des données recueillies spécifiquement à partir des appels téléphoniques entre Mme Marcoux et les travailleurs, à partir des questionnaires, d’autres documents écrits, de son examen des antécédents de production et des entrevues avec Ankor [93] . Elle est convaincue que les renseignements qu’elle a reçus pourraient être extrapolés afin de s’appliquer à tous les travailleurs parce qu’en général, les travailleurs étaient tous embauchés dans des catégories semblables d’emplois de cols bleus, comme des peintres industriels, des mécaniciens, des nettoyeurs, des mécaniciens de chantier, des électriciens et ainsi de suite [94] .
+[28] Elle a effectué une analyse complète de l’ensemble des relations pour le dossier de Paul Kenny, qui était un dossier distinct du reste [95] . Les deux parties ont fourni des renseignements qui appuyaient sa conclusion selon laquelle l’appelante l’avait placé dans un emploi assurable et ouvrant droit à pension à Cascade en tant que peintre industriel [96] . Cela était fondé sur des éléments comme la correspondance par courriel de M. Kenny concernant ses heures supplémentaires, qui confirmait qu’il était lié par la politique de Cascade [97] . Les deux certificats de formation que M. Kenny a reçus alors qu’il travaillait pour Cascade étaient une autre indication [98] . Mme Vis considère que les circonstances factuelles de l’appel de M. Kenny sont très semblables à celles des principaux appels [99] .
+III. Questions en litige
+[29] Les questions en litige dans le présent appel sont les suivantes :
+(1) L’appelante est-elle une agence de placement?
+(2) L’appelante a-t-elle placé les travailleurs auprès de clients pour la fourniture de services selon des modalités qui correspondent à un contrat de louage de services, au sens du règlement pris en vertu du RPC?
+(3) L’appelante a-t-elle placé les travailleurs auprès de clients en emploi sous le contrôle et la direction de ces clients, au sens du règlement d’application de la Loi sur l’AE.
+IV. La loi
+[30] Malgré les similitudes d’objet et d’effet, les dispositions pertinentes des deux lois applicables sont libellées différemment.
+RPC
+[31] Le paragraphe 34(1) du Règlement sur le Régime de pensions du Canada [100] est une disposition déterminative qui élargit la définition d’« emploi ouvrant droit à pension » pour y inclure la fourniture de services dans des conditions qui correspondent à celles d’un contrat de louage de services où le travailleur est placé par une agence de placement. Dans de tels cas, la partie, quelle que soit, qui verse au travailleur une rémunération est réputée être l’employeur aux fins des cotisations au RPC :
+34 (1) Lorsqu’une personne est placée par une agence de placement pour la fourniture de services ou dans un emploi auprès d’un client de l’agence, et que les modalités régissant la fourniture des services et le paiement de la rémunération constituent un contrat de louage de services ou y correspondent, la fourniture des services est incluse dans l’emploi ouvrant droit à pension, et l’agence ou le client, quel que soit celui qui verse la rémunération, est réputé être l’employeur de la personne en ce qui a trait à la tenue de dossiers, la production des déclarations, le paiement, la déduction et le versement des cotisations payables, selon la Loi et le présent règlement, par la personne et en son nom. [Non souligné dans l’original.]
+[32] Le paragraphe 34(2) définit une « agence de placement » comme une organisation qui place des personnes dans une situation de travail décrite ci-dessus moyennant « des honoraires, des récompenses ou autres formes de rémunération » :
+(2) Une agence de placement comprend toute personne ou organisme s’occupant de placer des personnes dans des emplois, de fournir les services de personnes ou de trouver des emplois pour des personnes moyennant des honoraires, récompenses ou autres formes de rémunération.
+AE
+[33] L’alinéa 6g) du Règlement sur l’assurance-emploi [101] inclut dans l’emploi assurable l’« emploi » d’une personne placée sous la direction et le contrôle d’un « client » par une agence de placement lorsque cette personne est rétribuée par l’agence :
+6 Sont inclus dans les emplois assurables […] les emplois suivants :
+[ ]
+g) l’emploi exercé par une personne appelée par une agence de placement à fournir des services à un client de l’agence, sous la direction et le contrôle de ce client, en étant rétribuée par l’agence.
+[34] En vertu du Règlement sur la rémunération assurable et la perception des cotisations assurables [102] , l’agence de placement est réputée être l’employeur du travailleur aux fins des cotisations d’AE :
+7 L’agence de placement qui procure un emploi assurable à une personne selon une convention portant qu’elle versera la rémunération de cette personne est réputée être l’employeur de celle-ci aux fins de la tenue des registres, du calcul de la rémunération assurable de la personne ainsi que du paiement, de la retenue et du versement des cotisations exigibles à cet égard aux termes de la Loi et du présent règlement.
+[35] Bien que la Loi sur l’AE et son règlement d’application ne contiennent aucune définition du terme « agence de placement », la Cour a, à plusieurs reprises, appliqué la définition figurant dans le Règlement sur le RPC pour en assurer l’uniformité [103] . À d’autres occasions, la Cour a donné au terme son sens ordinaire dans son contexte, à savoir « un organisme s’occupant de faire correspondre des demandes de travail à des demandes de travailleurs » [104] . Les deux définitions sont assez semblables.
+V. Analyse
+[36] Comme il a été mentionné précédemment, les questions en litige dans les présents appels sont les suivantes : 1) si l'appelante est une agence de placement; 2) si l'appelante a placé les travailleurs auprès de clients pour la fourniture de services selon des modalités qui correspondent à un contrat de louage de services, au sens du règlement pris en vertu du RPC et 3) si l'appelante a placé les travailleurs auprès de clients en emploi sous le contrôle et la direction de ces clients, au sens du règlement d’application de la Loi sur l’AE.
+[37] Je propose de laisser le premier point pour la fin. J’examinerai d’abord si les travailleurs ont été placés dans un emploi ouvrant droit à pension en vertu de la disposition déterminative du Règlement du RPC. Je me pencherai ensuite sur la question de savoir s’ils ont été placés dans un emploi assurable au sens de la Loi sur l’AE. Enfin, je vais déterminer si l’appelante exerce ses activités à titre d’agence de placement aux fins du RPC et de la Loi sur l’AE.
+RPC : Les modalités correspondaient-elles à un contrat de louage de services?
+[38] Le critère permettant de déterminer si une personne travaille dans le cadre d’un contrat de louage de services, c’est-à-dire à titre d’employé, ou dans le cadre d’un contrat de services, c’est-à-dire à titre d’entrepreneur indépendant, est facile à énoncer, mais il peut être difficile de l’appliquer dans la pratique. La question est toujours de savoir si la personne fournit des services en tant que personne en affaires à son propre compte. La Cour suprême du Canada, dans l’arrêt 671122 Ontario Ltd c Sagaz Industries Canada Inc. [105] , a confirmé et résumé le critère établi à l’origine dans l’arrêt Wiebe Door Services Ltd c MRC [106] :
+[…] Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire [107] .
+[39] Récemment, la Cour d’appel fédérale a précisé le rôle de l’intention subjective des parties aux fins de l’analyse qui précède. Dans 1392644 Ontario Inc. c Ministre du Revenu national [108] Connor Homes, le juge Mainville a établi une analyse en deux étapes selon laquelle, premièrement, les intentions subjectives de chaque partie doivent être établies et ensuite, les faits sont analysés pour établir si cette intention subjective est conforme à la réalité objective [109] . Cette réalité objective se mesure par l’application des facteurs de Wiebe Door, à savoir i) le contrôle; ii) la propriété des outils; iii) la possibilité de profit et le risque de perte; iv) l’intégration à l’entreprise.
+A. Intention subjective
+[40] J’examinerai maintenant si les parties aux contrats, à savoir l’appelante et les travailleurs, avaient l’intention de conclure un contrat de louage de services. Dans l’arrêt Connor Homes, la Cour d’appel fédérale fait remarquer que cela peut être démontré d’après « le contrat écrit » ou « d’après le comportement effectif de chacune d’elles, par exemple en examinant les factures des services rendus, et les points de savoir si la personne physique intéressée s’est enregistrée aux fins de la TPS et produit des déclarations d’impôt en tant que travailleur autonome » [110] .
+[41] Cette analyse est entravée par la pratique de M. Banach qui consiste à éviter les contrats écrits au profit des contrats verbaux. Je dois donc fonder ma décision sur le contenu des contrats verbaux allégués dans les témoignages.
+[42] Selon le témoignage de M. Banach, tous comprenaient et entendaient que les travailleurs s’engageaient à titre d’entrepreneurs indépendants et étaient responsables de leurs propres impôts [111] .
+[43] Il y a des éléments de preuve à l’appui du témoignage de M. Banach. Il y a la documentation que l’appelante a fournie après le fait aux travailleurs, indiquant leur rémunération totale et indiquant qu’ils étaient des sous-traitants [112] . Il y a aussi une lettre d’un travailleur (qui n’a pas témoigné) indiquant qu’il a travaillé en sous-traitance [113] . Il y a aussi le témoignage de M. Keshmiri et de M. Bennett, qui ont tous deux déclaré qu’ils comprenaient qu’ils étaient entrepreneurs. En ce qui concerne M. Keshmiri, toutefois, tout son témoignage ne concorde pas avec cette affirmation. M. Keshmiri a travaillé pour l’appelante de la fin de 2013 jusqu’au début de 2014, mais il n’a pas immatriculé son entreprise avant 2015, et M. Keshmiri a reconnu qu’il n’a pas facturé ni versé la TPS sur les paiements qu’il a reçus de l’appelante [114] .
+[44] De nombreux témoins ont toutefois contredit le témoignage de M. Banach selon lequel les travailleurs savaient que l’appelante avait l’intention de les traiter comme des entrepreneurs indépendants. M. Kenny a déclaré dans son témoignage qu’on ne lui a jamais dit qu’European Staffing le considérait comme un entrepreneur jusqu’à ce qu’il demande son relevé d’emploi à la suite de sa mise à pied [115] . Mme Simoiu a déclaré dans son témoignage qu’elle ne s’était pas rendu compte qu’elle était sous-traitante jusqu’à ce que le gouvernement signale que le document qu’elle avait déposé et qui provenait d’European Staffing l’identifiait comme sous-traitante [116] . En réalité, Mme Simoiu avait demandé un contrat écrit à l’appelante, mais elle ne l’a jamais reçu [117] . M Pajecki a témoigné que M. Banach lui avait dit qu’il serait un entrepreneur indépendant, mais qu’il ne savait pas que cela signifiait qu’il n’était pas un employé. Les factures du client de l’appelante indiquent les travailleurs dans la colonne « Emp Name » (« Nom de l’employé ») [118] . M. Pajecki a finalement été embauché directement par un client, et M. Kenny et Mme Simoiu avaient espéré l’être.
+[45] Selon Mme Marcoux, l’agente des appels de l’ARC qui a entamé l’enquête, tous les travailleurs qui ont communiqué avec elle (sauf le travailleur des TI qui n’est pas inclus dans les présents appels) croyaient être des employés [119] . Mme Vis, qui a pris la relève de l’enquête, a constaté que la majorité des travailleurs qu’elle a examinés ont indiqué leur revenu comme « revenu d’emploi » ou « autre revenu d’emploi » plutôt que comme revenu d’entreprise dans leur déclaration de revenus [120] . De ce qui précède, il est loin d’être évident que la plupart des travailleurs ont accepté de fournir leurs services en tant qu’entrepreneurs indépendants. Quoi qu’il en soit, même si les travailleurs ont été embauchés par l’appelante à titre d’entrepreneurs indépendants, j’estime que la réalité objective entourant la fourniture réelle de leurs services n’est pas conforme à ce statut pour les raisons énoncées ci-après.
+B. Facteurs de Wiebe Door
+(i) Contrôle
+[46] Le contrôle concerne la capacité du bénéficiaire des services d’un travailleur d’exercer un contrôle sur la façon dont il s’acquitte de ses fonctions. Dans le contexte d’une agence de placement, la question est de déterminer le degré de contrôle les clients de l’appelante, plutôt que l’appelante, exerçaient sur les travailleurs. En général, plus le client exerce de contrôle sur le travailleur, plus il est probable qu’il existe une relation d’emploi. Dans les présents appels, je n’ai aucune difficulté à conclure que les travailleurs travaillaient sous le contrôle et la supervision des clients de l’appelante.
+[47] Premièrement, chaque travailleur a déclaré dans son témoignage que les clients établissaient les heures et le lieu de travail. Les travailleurs devaient se présenter à une heure donnée et tous les travaux étaient effectués dans les locaux du client. Selon l’expérience de M. Kenny, les heures supplémentaires étaient laissées à la discrétion du client. M. Keshmiri et M. Bennett ont tous deux déclaré dans leur témoignage que, parfois, pendant leur placement, ils ne se présentaient pas au travail pour des raisons personnelles, dans le cas de M. Keshmiri ou pour accepter des emplois différents, dans le cas de M. Bennett. Il s’agit d’une caractéristique typique des emplois occasionnels à court terme, et je ne considère pas qu’il s’agisse d’un élément de preuve selon lequel les travailleurs pouvaient exercer un contrôle sur leurs heures. Les travailleurs pouvaient décider de travailler ou non, mais, s’ils acceptaient le travail, celui-ci ne pouvait être exécuté qu’aux heures et à l’endroit fixés par les clients.
+[48] Les éléments de preuve quant à savoir si un travailleur avisait le client ou l’appelante s’il ne se présentait pas au travail un jour donné étaient partagés. M. Bennett a déclaré qu’il avisait European Staffing, tandis que M. Kenny a déclaré qu’il avisait le client. Par conséquent, je considère ce facteur comme neutre.
+[49] Deuxièmement, chaque travailleur a déclaré lors de son témoignage que les clients lui ont assigné des tâches et qu’ils ont supervisé l’exécution du travail. Avant de passer en revue les témoignages à ce sujet, je tiens à souligner qu’il s’agit d’une exigence élémentaire compte tenu des industries dans lesquelles de nombreux travailleurs ont été placés. L’appelante a fourni des travailleurs pour les secteurs industriel, technique et manufacturier, c.‑à‑d. pour les usines ayant des chaînes de production ou des espaces de travail intégrés. Il est peu probable que les travailleurs dans ces situations aient été autorisés à aborder leurs tâches sans supervision.
+[50] Dans le cas de M. Kenny, il a reçu une journée complète de formation rémunérée du client avant de commencer à travailler [121] . Ses superviseurs précisaient non seulement les tâches, mais aussi l’ordre dans lequel elles devaient être exécutées et les périodes pendant lesquelles elles devaient l’être, et M. Kenny a estimé qu’il devait suivre ces instructions [122] . De même, MM. Pajecki et Bennett ont déclaré dans leur témoignage respectif que leur travail faisait l’objet d’une supervision et d’une surveillance. M. Pajecki s’est exprimé ainsi : [traduction] « Vous savez, s’ils l’aiment et qu’ils ne l’aiment pas, tout dépend d’eux. Je ne suis pas là pour leur dire comment faire et quoi faire. [...] ils ont leurs normes et je devais les respecter, peu importe ce que j’en pense » [123] . Comme l’a dit M. Bennett, le gestionnaire et les superviseurs de l’usine étaient là pour [traduction] « s’assurer que je fais toujours le travail de la bonne façon » [124] .
+[51] Le témoignage de M. Keshmiri était quelque peu différent en ce sens qu’il a déclaré que les travailleurs étaient habituellement en mesure de juger de la façon dont le travail devrait être fait [125] . Cela est courant dans le cas des travailleurs qualifiés ou professionnels, et la jurisprudence établit que ce qui importe, c’est l’existence du droit de diriger et de contrôler la façon de travailler, et non pas le fait que ce droit soit effectivement exercé [126] . Rien de ce que M. Keshmiri a décrit ne m’a laissé entendre que les superviseurs n’avaient pas ce droit. En réalité, il a reconnu avoir reçu des directives de l’ingénieur et du gestionnaire de la maintenance [127] .
+[52] Contrairement aux autres témoins, Mme Simoiu était une travailleuse de bureau dans ses deux placements. Elle a déclaré que, dans les deux cas, elle a reçu des instructions et des directives d’employés permanents. Ils lui montraient comment utiliser le logiciel technique et comment trouver des projets dans l’ordinateur, et ils répondaient aux questions, vérifiaient et examinaient son rendement. Lors de son deuxième placement, elle s’est assise littéralement côte à côte avec l’employé qui lui a donnait des instructions sur la façon d’exécuter les tâches assignées, puis inspectait son travail [128] .
+[53] Seul M. Keshmiri a déclaré dans son témoignage qu’il pouvait sous-traiter son placement s’il le souhaitait, mais il ne l’a jamais fait. M. Kenny a déclaré qu’il était tenu de faire le travail personnellement [129] .
+[54] Pour ces raisons, j’estime que les clients ont exercé un contrôle important sur les travailleurs.
+(ii) La propriété des outils
+[55] Les éléments de preuve montrent qu’à quelques exceptions près, les clients de l’appelante ont fourni tous les outils nécessaires aux travailleurs. Surtout pour les travailleurs industriels, situation où les outils sont essentiels au travail, ce facteur joue un grand rôle dans la conclusion quant à l’existence d’une relation d’emploi.
+[56] Il y a deux exceptions : M. Bennett et M. Keshmiri ont tous deux déclaré dans leur témoignage qu’ils ont fourni quelques outils de base pendant leur placement, et M. Keshmiri a déclaré qu’à l’occasion, il a également fourni des outils plus spécialisés. En ce qui concerne M. Bennett, j’accorde au fait que le client lui a fourni de l’équipement de soudage spécialisé et coûteux, une soudeuse, un chalumeau, des barres, du carburant un poids plus important qu’au fait que M. Bennett ait fourni son propre marteau ou masque [130] . En ce qui concerne M. Keshmiri, bien que j'accepte qu'il ait fourni ses propres outils, je ne suis pas convaincu que ces outils ne lui auraient pas été fournis par le client s'il l'avait souhaité, étant donné sa description du milieu de travail et son aveu quant au fait d’avoir travaillé aux côtés d’employés exerçant les mêmes tâches.
+[57] M. Banach a déclaré dans son témoignage que la fourniture d’outils à ses travailleurs par les clients constituait une « faveur personnelle » envers lui, plutôt qu’une conséquence de la nature du travail pour lequel il avait été engagé [131] . Cela n’est tout simplement pas crédible et n’est appuyé par aucun autre témoignage. L’utilisation d’équipement coûteux et spécialisé est un facteur important dans l’établissement des coûts des projets. Il est peu probable que les entreprises fassent preuve de laisser-faire ou de charité à l’égard de ce coût lorsqu’elles établissent le prix de leurs besoins en main-d’œuvre, et il est peu probable qu’elles permettent l’utilisation de ce genre d’équipement par des personnes qui ne sont pas sous leur contrôle. En réalité, M. Banach semble reconnaître que ces équipements ont toujours été fournis par les clients. En ce qui concerne les outils plus essentiels, soit la preuve ne corrobore pas en grande partie son témoignage, soit elle est, à mon avis, tout aussi susceptible de constituer un exemple de préférence ou de confort pour les travailleurs, p. ex., les travailleurs qui fournissent leurs propres masques de soudage.
+(iii) Profit ou perte
+[58] Les travailleurs avaient peu de chances de réaliser des profits ou de risquer des pertes. Ils étaient payés à l’heure et leur seule possibilité de profit supplémentaire était de travailler plus d’heures. C’était aux clients, qui fixaient les heures, de décider si cela était possible ou non. Les travailleurs n’avaient pas vraiment la capacité de négocier ces heures, comme en témoigne l’expérience de M. Kenny lorsque Cascade a modifié sa politique sur les heures supplémentaires. Dans le même ordre d’idées, les travailleurs n’avaient aucun risque réel de perte, car ils étaient rémunérés à l’heure, peu importe la qualité de leur travail, et ils n’étaient pas tenus de corriger leurs erreurs pendant leur temps libre. Comme ils ne fournissaient pas leurs propres outils, ils n’étaient pas exposés à des dépassements de coûts imprévus si l’équipement qu’ils utilisaient était brisé ou défectueux.
+(iv) Integration
+[59] En ce qui a trait à l’intégration, il faut se demander si le travailleur fait partie de l’entreprise ou s’il en est manifestement distinct [132] . Son importance en tant que facteur croît et diminue, mais l’intégration est pertinente pour les présents appels parce que tous les travailleurs qui ont témoigné travaillaient aux côtés des employés permanents des clients exerçant les mêmes fonctions ou des fonctions semblables. En réalité, M. Pajecki a par la suite été embauché pour travailler directement pour le client en tant qu’employé en faisant le même travail qu’auparavant. C’était aussi l’objectif de M. Kenny et de Mme Simoiu, bien que cela n’ait pas fonctionné dans leur cas.
+[60] Aucun des travailleurs ne faisait de distinction entre la nature du travail qu’il faisait ou de la supervision dont il faisait l’objet et celle des employés permanents. M. Keshmiri a déclaré dans son témoignage que lui-même et d’autres travailleurs possédant la même expertise que les employés permanents ont été embauchés afin de renforcer temporairement le groupe d’employés en prévision de l’ouverture de la nouvelle installation [133] . Il ne se rappelait pas s’il avait reçu une offre d’emploi permanent avec le client, mais il a déclaré que, normalement, une telle offre est faite [134] . Les conditions de travail de M. Pajecki étaient identiques à celles des employés permanents, sauf qu’il avait des heures plus courtes. La feuille de temps conçue par le client de M. Bennett l’identifiait comme un « employé temporaire » [135] . M. Kenny a suivi une formation obligatoire pour le client pendant les heures de travail et aux frais du client [136] . Mme Simoiu a travaillé aux côtés des employés et des gestionnaires des clients sur les mêmes projets.
+[61] Ensemble, ces faits donnent à penser que le travail des travailleurs a été effectué comme partie intégrante des activités des clients et, en outre, que cela a souvent été reconnu par les clients. Le facteur d’intégration appuie une relation d’emploi.
+C. Conclusion
+[62] Le total des facteurs de Wiebe Door indique que la réalité objective de la situation est que les travailleurs ont été placés avec des clients dans des conditions qui correspondent à celles d’un contrat de louage de services.
+[63] Dans cette décision, je tiens compte du fait que ce ne sont pas tous les travailleurs énumérés dans les annexes ci-jointes qui occupaient les mêmes postes que les travailleurs qui ont témoigné. Malgré cela, je suis convaincu de les inclure dans ma décision pour plusieurs raisons. Premièrement, il incombe à l’appelante d’infirmer l’hypothèse du ministre selon laquelle les travailleurs avaient un emploi ouvrant droit à pension. L’appelante ne l’a pas fait. Deuxièmement, M. Banach a indiqué que les travailleurs figurant aux annexes occupaient l’un des postes suivants : constructeur de machines, soudeur, manutentionnaire de matériaux, mécanicien de chantier, nettoyeur, peintre, machiniste, électricien, ingénieur en mécanique et technicien en hydraulique. De plus, il a identifié trois personnes qui travaillaient au bureau. Je suis d’accord avec Mme Vis de l’ARC pour dire que les travailleurs accomplissaient les types de travail que l’on appelle habituellement des emplois de col bleu.
+AE : Direction et contrôle
+[64] La prochaine question sur laquelle je dois me pencher est celle de savoir si les travailleurs occupaient un emploi assurable au sens de la Loi sur l’AE. La question à laquelle il faut répondre est de savoir si les travailleurs dans les présents appels ont été placés pour fournir des services sous la direction et le contrôle du client. Pour les motifs énoncés ci-dessus sous la rubrique « Contrôle », je conclus que les travailleurs ont été placés en emploi par l’appelante sous la direction et le contrôle de ses clients.
+Agence de placement
+[65] Je vais maintenant examiner l’argument de l’appelante selon lequel elle n’est pas une agence de placement. Par souci de commodité, je reproduit la définition d’« agence de placement » prévue au paragraphe 34(2) du Règlement sur le Régime de pensions du Canada :
+(2) Une agence de placement ou d’emploi comprend toute personne ou organisme s’occupant de placer des personnes dans des emplois, de fournir les services de personnes ou de trouver des emplois pour des personnes moyennant des honoraires, récompenses ou autres formes de rémunération.
+[66] J’ai conclu que l’appelante avait placé des travailleurs en emploi ou pour la fourniture de services moyennant des honoraires. Toutefois, l’appelante soutient qu’elle ne constituait pas une agence de placement parce qu’elle a fourni à ses clients un service qui allait au-delà de simplement leur fournir des travailleurs. Dans S K Manpower Ltd c Ministre du Revenu national, le juge Sheridan a cité le juge suppléant Porter sur ce point :
+Je considère qu’il s’agit surtout de savoir non pas qui est le bénéficiaire ultime du travail ou des services fournis [...] mais plutôt qui a l’obligation de fournir le service. Si la prétendue agence de placement a l’obligation d’assurer un service en plus de la fourniture de personnel, c’est une entité qui fournit ce service plutôt que de placer des gens et qui n’est pas visée par les Règlements [137] .
+[67] Quel service supplémentaire Eurepean Staffing a-t-elle fourni à ses clients? L’avis d’appel de l’appelante indique que [traduction] « le rôle de l’appelante consiste exclusivement à jumeler des travailleurs qualifiés à des entreprises qui ont besoin de tels services spécialisés ». [Non souligné dans l’original.] [138] . M. Banach a déclaré lors de son témoignage qu’il visitait souvent les lieux de travail et qu’il participait à la vérification des conditions de travail [139] . Même si on accepte le fait qu’il était sur place, comme il l’a déclaré, on ne sait pas trop quel service il offre. Dans S K Manpower, l’agence garantissait un certain rendement à ses clients et était responsable envers eux des résultats du travail des travailleurs [140] . L’appelante n’a rien fait de semblable. Il y a aussi peu de corroboration du témoignage de M. Banach concernant ses visites. Aucun élément de preuve documentaire n’a été présenté à l’appui, et M. Kenny et Mme Simoiu ne l’ont jamais vu sur place. Seul M. Pajecki a corroboré par l’affirmative sa présence sur place, bien qu’il ait déclaré que [traduction] « parfois, je ne le voyais pas – la plupart du temps, je ne le voyais pas, oui » [141] .
+[68] Je ne peux donc pas accepter la proposition selon laquelle European Staffing a fourni un service à ses clients en plus de fournir des travailleurs. L’appelante est une agence de placement aux fins du RPC et de la Loi sur l’AE.
+[69] Pour tous les motifs susmentionnés, les appels de l’appelante sont rejetés et les décisions du ministre sont confirmées.
+Signé à Ottawa, Canada, ce 11e jour de mars 2019.
+« Robert J. Hogan »
+Le juge Hogan
+RÉFÉRENCE :
+2019 CCI 59
+NOS DES DOSSIERS DE LA COUR :
+2017-383(CPP)
+2017-385(EI)
+2018-3794(EI)
+2018-3798(CPP)
+INTITULÉ :
+EUROPEAN STAFFING INC. ET LE MINISTRE DU REVENU NATIONAL, JERZY PAJECKI ET PAUL KENNY
+LIEU DE L’AUDIENCE :
+TORONTO (ONTARIO)
+DATE DE L’AUDIENCE :
+9 et 10 janvier 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 11 mars 2019
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Jonathan Di Feo
+Avocat de l’intimé :
+Me Warren Silver
+Pour les intervenants :
+Les intervenants eux-mêmes
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Noms :
+Me Jonathan Di Feo
+Cabinet :
+Barrett Tax Law
+45, Basaltic Road, bureau 1B
+Vaughan (Ontario) L4K 1G5
+Pour l’intimé :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)
+[1] LRC 1985, ch. C-8.
+[2] LC 1996, ch. 23.
+[3] Transcription, vol. 1, p. 17.
+[4] Ibid., à la p. 65.
+[5] Ibid., à la p. 73.
+[6] Ibid., à la p. 73.
+[7] Transcription, vol. 1, p. 37.
+[8] Ibid., à la p. 18.
+[9] Recueil des documents de l’appelante, vol. 1, onglets 31 et 32, et vol. 2, onglet 37.
+[10] Ibid., aux p. 44 et 45.
+[11] Ibid., à la p. 22.
+[12] Ibid., aux p. 84 et 85.
+[13] Ibid., à la p. 76.
+[14] Ibid., à la p. 80.
+[15] Ibid., à la p. 81.
+[16] Ibid., à la p. 86.
+[17] Ibid., à la p. 41.
+[18] Ibid., aux p. 41 et 42.
+[19] Ibid., à la p. 96.
+[20] Ibid., au p. 96 et 97.
+[21] Ibid., à la p. 101.
+[22] Ibid., aux p. 115 et 116.
+[23] Ibid., aux p. 103 et 104.
+[24] Ibid., à la p. 112.
+[25] Ibid., à la p. 105.
+[26] Ibid., aux p. 108 et 109.
+[27] Ibid., à la p. 120.
+[28] Ibid., à la p. 121.
+[29] Ibid., à la p. 122.
+[30] Ibid., aux p. 122 et 123.
+[31] Ibid., aux p. 123 et 124.
+[32] Ibid., à la p. 124.
+[33] Ibid., aux p.126 et 127.
+[34] Recueil des documents de l’appelante, vol. 2, onglet 37.
+[35] Transcription, vol. 1, p.128 et 129.
+[36] Ibid., aux p. 134 et 135.
+[37] Ibid., à la p. 131.
+[38] Ibid., à la p. 148.
+[39] Ibid., à la p. 137.
+[40] Ibid., à la p. 140.
+[41] Ibid., aux p. 139 et 140.
+[42] Ibid, aux p. 149 et 150; Recueil des documents de l’appelante, vol. 1, onglet 35.
+[43] Transcription, vol. 1, p. 138.
+[44] Ibid., aux p. 132 et 133.
+[45] Ibid., à la p. 141.
+[46] Ibid., à la p. 132.
+[47] Ibid à la p 142; Recueil des documents de l’intimé, vol. 1, onglet 4.
+[48] Transcription, vol. 1, p. 142, 144.
+[49] Ibid., aux p. 135 et 136.
+[50] Ibid., à la p. 132.
+[51] Transcription, vol. 2, p. 181.
+[52] Ibid., aux p. 157 et 158.
+[53] Ibid.
+[54] Ibid., à la p. 182.
+[55] Ibid.
+[56] Ibid., aux p. 183 et 184.
+[57] Ibid., aux p. 184 et 185.
+[58] Ibid., à la p. 185.
+[59] Ibid.
+[60] Ibid., aux p. 174 et 175.
+[61] Ibid., à la p. 172.
+[62] Ibid., à la p. 160.
+[63] Ibid., aux p. 159 et 167.
+[64] Ibid., aux p. 186 et 187.
+[65] Ibid., à la p. 187.
+[66] Ibid., à la p. 189.
+[67] Ibid., à la p. 173.
+[68] Ibid., aux p. 160 et 161.
+[69] Ibid., à la p. 161.
+[70] Ibid., à la p. 163.
+[71] Ibid., à la p. 164.
+[72] Ibid., à la p. 163.
+[73] Ibid., à la p. 171.
+[74] Ibid., à la p. 162.
+[75] Ibid., à la p. 180.
+[76] Ibid., à la p. 201.
+[77] Ibid., à la p. 205.
+[78] Ibid., aux p. 212 et 213.
+[79] Ibid., aux p. 202 et 214.
+[80] Ibid., à la p. 231.
+[81] Ibid., aux p. 226 et 227.
+[82] Ibid., à la p. 223.
+[83] Ibid., à la p. 237.
+[84] Ibid., à la p. 241. L’un d’entre eux a été considéré comme travailleur autonome ne faisant pas partie du présent appel.
+[85] Ibid., aux p. 238 et 239.
+[86] Ibid., à la p. 242.
+[87] Ibid., à la p. 243.
+[88] Ibid., à la p. 245.
+[89] Ibid., aux p. 246 et 247.
+[90] Ibid., à la p. 253.
+[91] Ibid., aux p. 255 et 256.
+[92] Ibid., à la p. 256.
+[93] Ibid.
+[94] Ibid., à la p. 257.
+[95] Ibid., à la p. 257.
+[96] Ibid., aux p. 257 et 258.
+[97] Ibid., à la p. 258.
+[98] Ibid., aux p. 258 et 259.
+[99] Ibid., à la p. 259.
+[100] CRC, ch. 385.
+[101] DORS/96-332.
+[102] DORS/97-33.
+[103] Wholistic Child and Family Services Inc c MRN, 2016 CCI 34; Carver PA Corp c MRN, 2013 CCI 125.
+[104] Silverside Computer Systems Inc. c Ministre du Revenu national, 1997 CarswellNat 3198, au paragraphe 14; [1997] TCJ no 38, au paragraphe 13.
+[105] 2001 CSC 59 [2001] 2 RCS 983.
+[106] [1986] 3 CF 553, [1986] ACF no 1052; 1986 CarswellNat 366.
+Sagaz aux paragraphes 47 et 48.
+[108] 2013 CAF 85.
+[109] Aux paragraphes 39 et 40.
+[110] Connor Homes, au paragraphe 39.
+[111] Transcription, vol. 1, p. 43.
+[112] Voir par exemple le Recueil de documents de l’intimé, onglet 4, p. 23.
+[113] Ibid., onglet 5.
+[114] Transcription, vol. 1, p. 113.
+[115] Transcription, vol. 2, p. 162.
+[116] Ibid., à la p. 221.
+[117] Ibid., aux p. 221 et 222.
+[118] Recueil des documents de l’appelante, vol. 1, onglets 31 et 33, et le Recueil des documents de l’appelante, vol. 2, onglet 37.
+[119] Transcription, vol. 2, p. 238 et 239.
+[120] Ibid., à la p. 255.
+[121] Transcription, vol. 2, p. 158.
+[122] Ibid., à la p. 185.
+[123] Transcription, vol. 1, p. 144 et 145.
+[124] Ibid., à la p. 122.
+[125] Ibid., à la p. 106.
+126. Becher c Ministre du Revenu national, 2003 CCI 373, au paragraphe 38.
+[127] Transcription, vol. 1, p. 107.
+[128] Transcription, vol. 2, p. 213.
+[129] Ibid., à la p. 172.
+[130] Transcription, vol. 1, p. 124.
+[131] Ibid., à la p. 41.
+[132] Sagaz, au paragraphe 40.
+[133] Transcription, vol. 1, p. 110.
+[134] Ibid.
+[135] Recueil des documents de l’appelante, vol. 2, onglet 37.
+[136] Transcription, vol. 2, p. 160.
+[137] 2010 CCI 584, au paragraphe 40, citant le juge suppléant Porter dans Big Sky (Lundle) Drilling Inc. c Canada (Ministre du Revenu national), [2002] TCJ No 16 (Qc), au paragraphe 19 et Supreme Tractor Services Ltd c Canada (Ministre du Revenu national), [2001] TCJ N o 580 (Qc).
+[138] Nouvel avis d’appel modifié, dossier de la Cour 2017-383(CCP) et dossier de la Cour 2017-385(EI), dans les deux cas à l’alinéa 9f) sous les motifs.
+[139] Transcription, vol. 1, p. 19, 86.
+[140] S K Manpower, au paragraphe 34.
+[141] Transcription, vol. 1, p. 140 et 141.

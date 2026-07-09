@@ -1,0 +1,189 @@
+---
+title: "Garg Investments Inc. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521097/index.do"
+last_modified: "2023-05-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 67"
+citation2: ""
+neutral_citation: "2023 TCC 67"
+decision_date: "2023-05-17"
+language: "en"
+item_id: "521097"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5883
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:22:47.721000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "85294ac17675c7a39a400e7e15b880832bca07f4234309830b601f2fafa18744"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Garg Investments Inc. v. The King
+
+- Citation: 2023 TCC 67
+- Decision date: 2023-05-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5883, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Garg Investments Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-05-17
+Neutral citation
+2023 TCC 67
+File numbers
+2021-1719(GST)I
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2021-1719(GST)I
+BETWEEN:
+GARG INVESTMENTS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on March 7, 2023, at Toronto, Ontario.
+Before: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellant:
+James Pendergast Jason Rosen Bryan Godkin
+Counsel for the Respondent:
+Humza Khalid
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal is dismissed without costs.
+Signed at Ottawa, Canada this 17th day of May 2023.
+“ R. MacPhee”
+MacPhee J.
+Citation:2023 TCC 67
+Date: 20230517
+Docket: 2021-1719(GST)I
+BETWEEN:
+GARG INVESTMENTS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+I. INTRODUCTION [1] The Appellant, Garg Investments, appeals from the Minister’s denial of their claim for the New Residential Rental Property Rebate (the “NRRPR”) pursuant to subsection 256.2(3) of the Excise Tax Act, R.S.C. 1985, c. E-15 (the “Act”).
+[2] In 2017 the Appellant sought to purchase two home properties for rental purposes. The seller of these properties refused to sell to the Appellant, a corporation, but agreed to sell the homes to the shareholders of the Appellant. The Appellant eventually took sole title to the properties and applied for the NRRPR.
+[3] The NRRPR allows an individual, identified in the Act as a “particular individual”, to recover a portion of the GST or HST imposed pursuant to ss. 165(1) of the Act in respect of newly constructed or substantially renovated residential rental accommodations. The claims in issue were made for two side-by-side residential rental properties purchased in Kitchener, Ontario (the “Watermill properties”).
+[4] The Act includes, as one of the requirements for this claim, that the particular person be the recipient of the supply. The Minister denied the Appellant’s application for this rebate on the basis the Appellant was not the recipient of the supply.
+II. FACTS [5] The Appellant was incorporated under the laws of Ontario. It has three shareholders:
+Satish Kumar Garg (“Satish”)
+Adarsh K. Garg (“Adarsh”)
+Vidushi Garg (“Vidushi”)
+[6] Satish and Adarsh are spouses, and Vidushi is their daughter.
+[7] The Appellant called evidence, which was for the most part uncontested. There is very little dispute concerning the facts in this matter.
+[8] On or about July 22, 2017, the Appellant attempted to enter into an agreement of purchase and sale with Mattamy (Monarch) Limited (herein referred to as the “Seller”).
+[9] The Seller expressly refused to agree to a purchase and sale agreement with the Appellant, a corporation, and instead required that the transaction take place between themselves and one or more non-corporate individuals.
+[10] As such, Vidushi signed the purchase and sale agreement for a home located at 56 Watermill, Kitchener, Ontario.
+[11] Shortly after, on July 24, 2017, Vidushi entered into another purchase agreement for the neighbouring home at 58 Watermill, Kitchener, Ontario.
+[12] Adarsh was added shortly after to both purchase and sale agreements by way of an amendment to each agreement.
+[13] In both transactions, the agreements of purchase and sale only listed Vidushi and Adarsh as the buyers.
+[14] Two trust agreements (herein referred to as the “Trust Agreements”), one per property, were executed between the Appellant, Vidushi and Adarsh on August 2, 2017, each stating that Vidushi and Adarsh were to hold the Watermill properties for the sole benefit of the Appellant. Furthermore, the respective Watermill properties were to be transferred to the Appellant on its demand, and at all material times, the rental income, profits and losses, rights, and liabilities were to be born by the Beneficiary (the Appellant).
+[15] On November 30, 2018, both agreements of purchase and sale were amended to include Satish as one of three purchasers.
+[16] Also on November 30, 2018, the Trust Agreements were amended to include Satish as one of the three bare trustees.
+[17] On December 5, 2018, a Direction re Title was signed by all three Trustees, stating that title was to be registered under the Appellant’s name. It was sent to the Seller’s counsel, who issued a Statement of Adjustments to the Appellant’s counsel.
+[18] The Statement of Adjustments issued by the Seller lists the Appellant’s name as the purchaser.
+[19] On or about December 6, 2018, as per the parties’ intention, the titles on the Watermill properties were transferred to the Appellant.
+[20] Pursuant to the Trust Agreements, the Appellant proceeded to pay the consideration and closing funds from its own account to the Seller’s counsel.
+[21] Pursuant to the Trust Agreements, the Appellant also paid the GST/HST on new housing units as is required by the Act.
+[22] The Appellant has since rented out the Watermill properties to tenants. All rent cheques have been deposited into the Appellant’s corporate bank account. Additionally, the Appellant pays all the expenses such as mortgage payments, insurance premiums, property tax bills, etc., from its corporate bank account.
+III. ISSUE [23] The sole issue in this appeal is whether the Appellant is properly the recipient of the supplies in the purchase of the Subject properties, as required by subsection 256.2(3) of the Act in order to be eligible for the NRRPR.
+IV. APPELLANT’S POSITION [24] The Appellant’s position is that Vidushi, Adarsh and Satish were parties to the agreement of purchase and sale only as a formality, as required by the seller. Titles to the properties were transferred to the Appellant immediately upon the completion of the purchase and sale agreement. Therefore, a denial of the Appellant’s entitlement to this credit would be based upon a reliance on a mere technicality. The Appellant emphasized that Satish, Adarsh, and Vidushi never wavered in their intent for the Watermill properties to be owned and managed by the Appellant.
+[25] The Appellant also relies upon the fact that upon purchase, the Trustees (Vidushi, Adarsh and Satish) were bare trustees, holding the Watermill properties for the Appellant beneficiary until the first moment they could transfer title to the Appellant. On this basis, it is argued that the Appellant should therefore be eligible for the NRRPR.
+V. RESPONDENT’S POSITION [26] The Respondent argues that, pursuant to subsection 256.2(3) of the Act, only the recipient of the supply under the purchase agreement is entitled to claim the NRRPR. Since the Appellant is not the purchaser under the purchase agreements, the Appellant is also not the recipient of the supply of the subject properties. Pursuant to the definition of recipient found in subsection 123(1) of the Act, Satish, Adarsh, and Vidushi were the recipients of the supply as they had the liability to pay the consideration under the purchase and sale agreements. The Appellant is therefore not eligible for the NRRPR.
+[27] The Respondent further argues that since Satish, Adarsh and Vidushi never held legal title to the Watermill properties, they could not be holding the properties in trust for the Appellant.
+VI. ANALYSIS: [28] The relevant statutory framework is primarily set out in subsection 256.2(3) of the Act, under the heading, “Rebate in respect of land and building for residential rental accommodation”. Subparagraph 256.2(3)(a)(I) provides, (with underlining added for emphasis) in abbreviated form:
+Rebate in respect of land and building for residential rental accommodation
+(3) If
+(a) a particular person, other than a cooperative housing corporation,
+(i) is the recipient of a taxable supply by way of sale...from another person of a residential complex or of an interest in a residential complex and is not a builder of the complex, or …
+the Minister shall,…, pay a rebate to the person …
+[29] In determining whether the Appellant was a “recipient”, it should be noted that the term is defined at section 123 of the Act. Clause (a) of that definition provides:
+Recipient of a supply or property or a service means
+where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration...;
+[30] Based upon the wording of the legislation set out above, it was Satish, Adarsh and Vidushi who signed the purchase and sale agreement, obliging them to pay the purchase prices for the Watermill properties. They were therefore the recipients of the supply. As such, the Appellant does not qualify for the rebate.
+[31] Of course, the above analysis does not consider the Appellant’s argument concerning the role that the trust agreement between itself and Satish, Adarsh and Vidushi should play as part of the analysis.
+[32] The Federal Court of Appeal, in the Cheema[1] case has considered an argument very similar to the one put forth by the Appellant dealing with the use of trusts. It is worth setting out the facts and conclusion set out in Cheema in my analysis.
+[33] In Cheema, the Appellant and his friend, Dr. Akbari, signed an agreement of purchase and sale providing for the construction of a house in Vaughan, Ontario. While the house was for Mr. Cheema and his family, Dr. Akbari signed the purchase and sale agreement only to help Mr. Cheema obtain mortgage financing. Dr. Akbari did not pay any part of the purchase price, nor for any of the ongoing expenses related to the house.
+[34] At closing, Mr. Cheema and his spouse acquired 99% interest in the house and Dr. Akbari acquired a 1% interest. On the same day, Dr. Akbari signed a trust declaration acknowledging that he was holding this 1% interest in trust for Mr. Cheema and his spouse. This trust declaration was not provided to the mortgage lender, and probably not provided to the builder.
+[35] Dr. Akbari later transferred his 1% interest to Mr. Cheema’s son, who had been approved by the mortgagee.[2] Mr. Cheema and his spouse moved into the house as their primary place of residence immediately after closing.
+[36] The Minister denied Mr. Cheema the GST/HST New Housing Rebate on the basis that Dr. Akbari was not the “particular individual” for purposes of subsection 254(2) of the Act.[3] Dr. Akbari, who is not related to Mr. Cheema, signed the agreement of purchase and sale for the home in question, but did not intend to occupy the home.[4]
+[37] In order to qualify for the GST/HST New Housing Rebate under section 254 of the Act, seven conditions, set out in paragraphs 254(2)(a) through (g) of the Act, must be satisfied. The main criteria in issue in the Cheema decision is found in paragraph 254(2)(b), summarized below:
+paragraph 254(2)(b): at the time the particular individual assumes liability under the agreement of purchase and sale of the complex, the particular individual must be “acquiring the complex...for use as the primary place of residence of the particular individual or a relation of the particular individual”;
+Majority: Stratas J.A., and Nadon J.A.[5] [38] At the FCA, the majority of the Court found that Mr. Cheema was not entitled to the New Housing Rebate because the requirement in paragraph 254(2)(b) was not met. Because the supply of the complex was made to multiple individuals, the references to “a particular individual” must be read as references to all of those individuals as a group (see ss. 262(3) of the Act). When Mr. Cheema and Dr. Akbari assumed liability under the agreement of purchase and sale, only Mr. Cheema was acquiring the residential complex as a primary place of residence. Dr. Akbari never intended to occupy the complex as his primary residence. The fact that Dr. Akbari acquired the residential complex only as a trustee was found to be of no consequence as the agreement of purchase and sale does not distinguish between Dr. Akbari and Mr. Cheema as purchasers, nor does section 254 provide any exception for trustees.
+[39] The trust arrangement between Mr. Cheema and Dr. Akbari was found to be extraneous to paragraph 254(2)(b) of the Act because subsection 254(2)(b) does not distinguish between beneficial and legal ownership. Rather, paragraph 254(2)(b) focuses on the individual who was legally liable to the builder under the agreement of purchase and sale. In order for any purchaser to receive the GST/HST New Housing Rebate, all purchasers must meet the criteria under paragraph 254(2)(b) of the Act, and intend to occupy the complex as their primary residence.
+[40] Of assistance in this matter, the Court wrote, “It is the relationship of the person acquiring the complex to the builder -one of purchase and sale- that is relevant, not the relationship between co-purchasers.”[6]
+[41] The Appellant, as part of their submissions, urged the Court to rely upon the dissent of Justice Webb in Cheema.
+[42] In his dissent, Justice Webb wrote that Mr. Cheema should be entitled to the GST/HST New Housing Rebate because he was the only person who acquired a beneficial interest in the property from the builder, for purposes of subsection 254(2) of the Act.[7] He concluded that if a person has signed an agreement of purchase and sale but has not acquired a beneficial interest in the residential complex, that person is not a particular individual for the purposes of subsection 254(2) of the Act. Since Dr. Akbari did not acquire a beneficial interest in the residential complex, Dr. Akbari’s was not a particular individual, and there was no supply by way of sale of a residential complex to Dr. Akbari. Dr. Akbari 1% acquisition of the house as bare trustee should be ignored for the purposes of paragraph 254(2).
+[43] Returning now to the matter before me, as stated, the issue is whether the Appellant is entitled to the NRRPR.
+[44] While the issue in Cheema was whether the taxpayer was eligible for the GST/HST New Housing Rebate under section 254, the principles in Cheema still assist me in deciding this appeal. Based on both Cheema and the wording found in paragraph 256.2(3)(a) of the Act, the Appellant is not the recipient of the supplies of the Watermill properties, and as such, is not entitled to the NRRPR. Similar to section 254, subsection 256.2(3)(a) does not distinguish between beneficial and legal ownership, so it is of no consequence that the three related individuals acquired the Subject Properties as bare trustees of the Appellant. Paragraph 256.2(3)(a) required the Appellant to have acquired the Subject Properties (i.e., acquired legal title by signing the purchase and sale agreements) to claim the NRRPR.
+[45] Similar to the Cheema decision, it is the relationship between the purchaser and the seller that is relevant to the entitlement to the NRRPR rebate, not the relationship between the co-purchasers.
+[46] Since the Appellant was not the recipient (as defined in the Act) of the Watermill properties, the Appellant unfortunately does not meet the requirements of ss. 256.2(3)(a) of the Act. The Appeal is dismissed. There shall be no order as to costs.
+Signed at Ottawa, Canada this 17th day of May 2023.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2023 TCC 67
+COURT FILE NO.:
+2021-1719(GST)I
+STYLE OF CAUSE:
+GARG INVESTMENTS INC. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 7, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+May 17, 2023
+APPEARANCES:
+Counsel for the Appellant:
+James Pendergast
+Jason Rosen
+Bryan Godkin
+Counsel for the Respondent:
+Humza Khalid
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+James Pendergast Jason C. Rosen
+Bryan GodkinA
+Firm:
+Rosen Kirshen Tax Law
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada Ottawa, Canada
+[1] Canada v. Cheema, 2018 FCA 45 (F.C.A.).
+[2] Ibid at para 7.
+[3] Ibid at paras 8, 21-22.
+[4] Ibid.
+[5] Ibid at paras 70, 87-98, 113.
+[6] Ibid at paragraph 94.
+[7] A 99% interest in the property was conveyed to Mr. Cheema and his spouse; however, the interest conveyed to Mr. Cheema’s spouse should be treated, for purposes of subsection 254(2) of the Act, as being conveyed to Mr. Cheema (Ibid at paras 63-66).

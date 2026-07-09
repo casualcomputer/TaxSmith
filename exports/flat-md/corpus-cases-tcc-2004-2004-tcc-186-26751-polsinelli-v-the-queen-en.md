@@ -1,0 +1,185 @@
+---
+title: "Polsinelli v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26751/index.do"
+last_modified: "2004-04-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 186"
+citation2: ""
+neutral_citation: "2004 TCC 186"
+decision_date: "2004-04-08"
+language: "en"
+item_id: "26751"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3497
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:37:19.596000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "00a11a4890e45ec4a434af21bb082daf294ca39c4b37e276d8db9f6e3696d2ea"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Polsinelli v. The Queen
+
+- Citation: 2004 TCC 186
+- Decision date: 2004-04-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3497, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Polsinelli v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-08
+Neutral citation
+2004 TCC 186
+File numbers
+2000-5089(GST)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2000-5089(GST)G
+BETWEEN:
+VINCENZO POLSINELLI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of Enzo Polsinelli (2000-5087(GST)G) on October 15, 16 and 17, 2003 at Toronto, Ontario
+Before: The Honourable Justice Georgette Sheridan
+Appearances:
+Counsel for the Appellant:
+Dominic Marciano
+Counsel for the Respondent:
+Arnold H. Bornstein
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated November 18, 1999 and bears number 04163 is allowed and the assessment is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of April 2004.
+"Georgette Sheridan"
+Sheridan, J.
+Docket: 2000-5087(GST)G
+BETWEEN:
+ENZO POLSINELLI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of Vincenzo Polsinelli (2000-5089(GST)G) on October 15, 16 and 17, 2003 at Toronto, Ontario
+Before: The Honourable Justice Georgette Sheridan
+Appearances:
+Counsel for the Appellant:
+Dominic Marciano
+Counsel for the Respondent:
+Arnold H. Bornstein
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated November 18, 1999 and bears number 04162 is allowed and the assessment is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of April 2004.
+"Georgette Sheridan"
+Sheridan, J.
+Citation: 2004TCC186
+Date: 20040408
+Docket: 2000-5089(GST)G
+BETWEEN:
+VINCENZO POLSINELLI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2000-5087(GST)G
+AND BETWEEN:
+ENZO POLSINELLI
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] Mr. Vincenzo Polsinelli and Mr. Enzo Polsinelli are father and son, respectively, and were directors of a family-run construction company known as Visa Construction Co. Ltd. They are appealing the Minister's assessments against them as directors of Visa for GST that the company failed to pay for the years 1992 to 1995. Their appeals were heard on common evidence. For the sake of clarity, Mr. Polsinelli, the father, will be referred to as Vincenzo; Mr. Polsinelli, the son, as Enzo.
+[2] The parties filed an Agreed Statement of Issues setting out four issues for determination. In my view, this case can be determined on one of those issues, specifically, whether Vincenzo and Enzo, in their capacity as directors of Visa, failed to exercise due diligence to prevent Visa's failure to remit the GST collected and collectible by Visa for the quarterly reporting periods in 1992-1995. Having found that Vincenzo and Enzo did exercise due diligence and can therefore avail themselves of the defence set out in s. 323(3) of the Act, it is not necessary for me to consider the other three issues raised.
+FACTS
+[3] Visa was a family-run corporation, engaged primarily in heavy construction doing road work and laying sewer lines and water mains in municipalities and on Indian reserves throughout Ontario.
+[4] Vincenzo came to Canada in 1958. He was then 21 years old. He worked in construction and, although he had only three years of formal education, he built up, over the years, his own construction company. As his family grew, they joined the business which ultimately developed into three separate family-run corporations. By 1992, Vincenzo had turned over his regular duties to his sons but he continued to have an unofficial presence in the business office and on the job sites. As Enzo put it, "Dad was always cruising around in and out". In 1994, Vincenzo replaced his son Tony as a director of Visa.
+[5] Enzo did not complete high school and, like his brothers and sisters, became actively involved in the family businesses at an early age. He began working in the family construction business in 1976. In 1980, he and his brother Tony bought Visa from a family friend. As Visa's site supervisor, Enzo worked long hours, often at remote locations for weeks or months at a time. Because of the day-to-day demands of this role, only rarely was he in the Visa office. His presence was required on the job sites to supervise the work crews, to verify delivery of the equipment and materials used in the construction, and to authorize their payment by signing the payment certificates and faxing them from the site back to the Visa business office for payment.
+[6] Paying these bills was the domain of Enzo's sisters. In 1992, the first year of the period in question, his sister Linda was responsible for Visa's day-to-day management and bookkeeping. When she unexpectedly left Visa in the spring of 1994, the family reacted quickly, bringing in her sister Maria to take over her duties. Maria had been working out of the same office space but for another of the family companies as a marketing director. She picked up where Linda had left off and, at the same time, began the search for a new employee. A non-family member was eventually hired and after training her, Maria returned to her former position.
+[7] The more complicated aspects of Visa's financial management were left to Mr. Joe Lanno, a chartered accountant, who had looked after the Polsinelli family businesses for over 20 years. He handled the preparation of Visa's yearly financial statements, the income tax returns for the company and for the individual Polsinelli family members as well as any specialized financial tasks that were needed from time to time.
+[8] Throughout the years 1992 to 1995, although its revenues were declining, Visa remained a viable business. In 1996, Canada Customs Revenue Agency conducted an audit of Visa's books. The auditor determined that mistakes had been made resulting in Visa's failure to remit the net tax as required between October 1, 1992 and December 31, 1995. On November 7, 1996, the Minister assessed Visa for this amount.
+[9] Some three years later, on November 18, 1999, Vincenzo and Enzo were assessed under s. 323 of the Excise Tax Act for Visa's unpaid GST together with interest and penalties in respect of the corporate assessment. By this time, Visa had ceased operations. Vincenzo and Enzo were assessed as directors of the company: Enzo for the full period under review October 1, 1992 to December 31, 1995; Vincenzo, only for the period October 27, 1994 to December 31, 1995.
+ANALYSIS
+[10] The Minister's position is that Enzo and Vincenzo, as directors of Visa at the relevant time, are liable to pay the unremitted GST under s. 323(1) of the Excise Tax Act[1]. He argues that they failed to exercise due diligence to prevent Visa's failure to remit the GST as required by the statute. The Court does not accept the Minister's contention. There is ample evidence to show that Vincenzo and Enzo took all reasonable measures to ensure that Visa complied with the provisions of the Excise Tax Act.
+[11] Both the Minister and the Polsinellis cited Soper v. Canada (C.A.)[2] as applied in Drover[3] in support of their respective arguments for and against the finding of directors' liability. The Minister also referred the Court to the interpretation and application of Soper in a more recent decision of the Federal Court of Appeal, McKinnon et al v. R., [2001] 2 F.C. 203. In McKinnon, Evans, J.A. identified six principles to guide the Court through the "wilderness of single instances"[4] in its determination of whether, on any particular set of facts, directors exercised due diligence in preventing a company's failure to remit GST.
+[12] The starting point in McKinnon is to determine whether the conduct of the directors constitutes such "patent abuse and mismanagement" as to be the kind of mischief against which s. 323 is directed. In McKinnon, the directors made a conscious decision to defer the payment of the company's GST until its fiscal situation could be stabilized. There is no suggestion that Vincenzo and Enzo chose not to have Visa pay the unremitted GST. Nor was there any evidence that Visa was facing the kind of financial turmoil that, in cases like these, may tempt directors to divert GST funds to other purposes. On the contrary, their uncontradicted evidence is that in conducting their business, their guiding principle was to make sure "everything [including the GST] was paid". At all times during the relevant period Visa reported the net tax as required; the problem was that errors were made in its calculation. Accordingly, the actions of the directors Vincenzo and Enzo do not come within the meaning of "patent abuse and mismanagement".
+[13] Under the second principle, the Court must look to the "due diligence" test set out in Soper. This test has both an objective and subjective component and requires the Court to take into account the characteristics of the directors in question including their levels of skill, experience and knowledge. Directors involved in the day-to-day management of the business, known as "inside directors", will be held to a higher standard. The Minister argues that Vincenzo and Enzo were inside directors. While it is true they were the driving force in the construction work of the family-run company, they were not actively involved in the administrative side of the business. Acknowledging that they had neither the time or training to look after Visa's books, (as Enzo said, he "didn't have the head for it"), they delegated this task to others qualified to do the job. The Polsinelli daughters, Linda and Maria, had bookkeeping and administrative skills acquired through a combination of formal training and on-the-job experience. Mr. Joe Lanno, an experienced chartered accountant familiar with the Polsinelli businesses, made himself available as needed to handle the more complex matters. For example, when the GST was first introduced, Mr. Lanno was brought in to train the staff in the workings of the (then) new and (still) complicated legislation.
+[14] Vincenzo and Enzo took very seriously their responsibility for ensuring Visa met all of its financial obligations. They both testified to their belief in the importance of having good administrative help they could "trust" to do things right. They had every reason to have confidence in the ability of Linda, Maria and Joe Lanno to do the job. Counsel for the Polsinellis referred the Court to the words of Sharlow, J.A. in the Federal Court of Appeal decision Smith v. Canada, [2001] F.C.J. No. 448:
+In assessing the objective reasonableness of the conduct of a director, the factors to be taken into account may include the size, nature and complexity of the business carried on by the corporation, and its customs and its practices. The larger and more complex the business, the more reasonable it may be for directors to ... leave certain matters to corporate staff and outside advisors, and to rely on them.
+[15] The difficulties inherent in GST calculation and administration were dramatically demonstrated by the Minister's own witnesses. All are experienced and dedicated GST officials with extensive training and a range of technical assistance and support staff available to assist them. Notwithstanding such resources, from the time of the initial corporate assessment, up to and including the hearing of this matter, serious errors were made, not only in calculating the amounts for which Vincenzo and Enzo were said to be liable, but also in determining how that calculation should be made. Clearly, the Minister is not bound by his officials' mistakes. That such mistakes could be made by experienced GST officials, however, certainly calls into question the reasonableness of expecting perfection from Vincenzo and Enzo. The Court finds that it would be unreasonable to have required them to double-check the company books for errors they had no reason to suspect were there, especially given their limited education, their lack of knowledge or experience with GST procedure, their delegation of the task to qualified others, and their long hours of heavy construction work at remote locations. It is the Court's view that, having recognized their own shortcomings in this area and having delegated this task to competent administrative staff and a chartered accountant, it was entirely reasonable for Vincenzo and Enzo to rely on them to ensure that proper GST remittances were being made.
+[16] The third and fourth principles in McKinnon pertain to the steps taken by the directors to prevent the company's failure to remit once they became, or ought to have become, aware of it. The section concerns itself with preventative, not remedial, action. Vincenzo and Enzo did not become aware of Visa's failure until well after it had occurred. In Vincenzo's case, he first learned of it at the time of the audit in 1996. Though not relevant to any preventative action he might have taken, Vincenzo's reaction to the news was consistent with the responsible approach he took to Visa's management: upon being informed that the auditor required additional information regarding the unremitted GST, he immediately instructed Maria to have Mr. Lanno respond to his request. This was done. As for Enzo, he did not become aware of the problem until 2000 when CCRA withheld his personal income tax refund to apply towards Visa's GST debt.
+[17] The Minister argues that regardless of when they actually became aware, Vincenzo and Enzo ought to have been aware and acted to prevent the failure. What ought to have tipped them off, according to the Minister, was the decline in Visa's revenues between 1992 and 1995. This argument cannot succeed. Unlike many of the companies whose directors have run afoul of s. 323, Visa was not in dire fiscal straits. Although sales were declining from 1992 to 1995, throughout this period Visa continued to operate in the black. For each of the years in question, the financial statements showed large reserves of retained earnings. In each year, company revenues exceeded the costs of sales which, Enzo testified, was what he kept an eye on to have a sense of the company's financial well-being. Unlike the corporation in McKinnon where the directors deliberately chose to defer GST remittances until the company was restored to good fiscal health, at all times during the relevant period, Visa filed and remitted GST payments. Clerical error, not declining revenues, caused the corporation's failure to remit. It is significant that the greatest number of errors occurred in 1994, the time of bookkeeper Linda's sudden departure and the subsequent staffing changes.
+[18] On what basis, then, ought Vincenzo and Enzo to have become aware of Visa's failure to remit the full amounts collected and collectible? Counsel for the Polsinellis cited Bowman, A.C.J. in Agatha Kit Chun Lau et al v. H.M.Q.[5] who cautioned:
+...Section 323 of the Excise Tax Act and section 227.1 of the Income Tax Act do not demand the impossible. They do not require perfection. Directors are not insurers for the fisc. All that is needed is that the directors "exercise the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances."
+[19] Vincenzo and Enzo found themselves in the same situation as the directors in Lau. Patrick Lau, a director of his family-run restaurant business, lacked the time and skills necessary to look after the GST remittances himself. Having satisfied himself that his wife Agatha had been adequately trained in the procedure by an "outside advisor" KPMG to file and remit GST, he relied on her to do the job for him. Bowman, A.C.J. found that it would have been unreasonable to require Patrick to go further and check Agatha's work, "particularly when neither he nor Agatha were given any indication that anything was wrong". The same conclusion can be drawn in the present case.
+[20] Under the fourth McKinnon principle, to avoid liability, the directors must show that they acted with due diligence to prevent the company's failure to remit, not to remedy it. Again, the Court is satisfied that by having put Visa's administrative needs in the hands of competent bookkeepers and by providing the expertise, as required, of a trusted and experienced chartered accountant, the directors did all that was reasonably necessary to prevent the failure from occurring.
+[21] The fifth and sixth McKinnon principles have no application to the present case.
+[22] On the evidence presented, the Court finds that Mr. Vincenzo Polsinelli and Mr. Enzo Polsinelli exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in similar circumstances. The appeals are allowed, with costs, and the assessments made under section 323 of the Excise Tax Act vacated.
+Signed at Ottawa, Canada, this 8th day of April 2004.
+"Georgette Sheridan"
+Sheridan, J.
+CITATION:
+2004TCC186
+COURT FILE NOS.:
+2000-5089(GST)G and 2000-5087(GST)G
+STYLE OF CAUSE:
+Vincenzo Polsinelli and H.M.Q. and Enzo Polsinelli and H.M.Q.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 15, 16, 17, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+April 8th 2004
+APPEARANCES:
+Counsel for the Appellant:
+Dominic Marciano
+Counsel for the Respondent:
+Arnold H. Bornstein
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Dominic Marciano
+Firm:
+Marciano Beckenstein
+Concord, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Liability of directors - Where a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3), the directors of the corporation at the time the corporation was required to remit the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest thereon or penalties relating thereto.
+[2] [1998] 1 F.C. 124 (F.C.A.)
+[3] [1998] F.C.J. No. 647
+[4] McKinnon [2001] 2 F.C. 203
+[5] 2002 DTC 2212 (T.C.C)

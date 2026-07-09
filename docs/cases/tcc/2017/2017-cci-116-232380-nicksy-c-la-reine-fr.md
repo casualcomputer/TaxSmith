@@ -1,0 +1,167 @@
+---
+title: "Nicksy c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/232380/index.do"
+last_modified: "2017-06-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 116"
+citation2: ""
+neutral_citation: "2017 CCI 116"
+decision_date: "2017-06-27"
+language: "fr"
+item_id: "232380"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2098
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:26:39.305000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d3525282c99c54831dbc473bd4e568563d73fbe02305a48080f90fac3c3a128e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nicksy c. La Reine
+
+- Citation: 2017 CCI 116
+- Decision date: 2017-06-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2098, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nicksy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-06-27
+Référence neutre
+2017 CCI 116
+Numéro de dossier
+2016-2656(IT)APP
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-2656(IT)APP
+ENTRE :
+TIMOTHY E. NICKSY,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 25 mai 2017, à Sudbury (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour le demandeur :
+Le demandeur lui-même
+Avocate de la défenderesse :
+Me Gabrielle White
+ORDONNANCE
+APRÈS AVOIR ENTENDU le témoignage du demandeur et celui du témoin de la défenderesse, examiné les affidavits déposés et pris en considération les observations du demandeur et de l’avocate de la défenderesse;
+ET conformément aux motifs de l’ordonnance prononcés à l’audience ci-joints, LA COUR ORDONNE CE QUI SUIT :
+1. la demande de prorogation de délai pour signifier un avis d’opposition ou un avis d’appel est rejetée au motif que le demandeur n’a pas déposé d’avis d’opposition ou d’avis d’appel ni présenté de demande de prorogation de délai dans le délai prescrit par la loi concernant l’avis de nouvelle cotisation daté du 16 septembre 2010 pour l’année d’imposition 2005; et
+2. les dépens ne sont pas adjugés.
+Signé à Toronto (Ontario), ce 27e jour de juin 2017.
+« R. S. Bocock »
+Le juge Bocock
+Référence : 2017 CCI 116
+Date : 20170627
+Dossier : 2016-2656(IT)APP
+ENTRE :
+TIMOTHY E. NICKSY,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bocock
+[1] La Cour est saisie d’une demande de prorogation de délai pour déposer un avis d’opposition ou un avis d’appel, présentée par M. Nicksy relativement à son avis d’opposition subsistant précédent. Le ministre fait valoir que l’avis d’opposition en question avait été annulé par une demande de modification, et qu’un avis de nouvelle cotisation avait ensuite été émis par le ministre.
+Faits
+[2] Outre cette déclaration plutôt compliquée, la demande porte sur les faits suivants. Au cours de l’année d’imposition 2005, M. Nicksy a produit sa déclaration de revenus et a déclaré des dons de bienfaisance visés par un programme. Les dons étaient destinés à ParkLane Financial Group. Il était question d’un don en espèces de 7 500 $ et d’autres formes de dons de bienfaisance en nature. M. Nicksy a obtenu un reçu pour don de bienfaisance de 30 000 $.
+(a) Opposition initiale [3] Le ministre a initialement établi la cotisation en fonction de la déclaration produite. Toutefois, dans un premier avis de nouvelle cotisation émis le 27 janvier 2009, le ministre a établi une nouvelle cotisation, refusant la déduction complète pour dons de bienfaisance et le crédit d’impôt pour dons de bienfaisance connexe.
+[4] Par la suite, une lettre de M. Grisé, chef des appels, a été envoyée à M. Nicksy le 29 juin 2009. Voici des extraits de la lettre :
+[traduction]
+« La présente vise à vous informer que votre dossier a été mis en suspens dans le cadre du projet Programme de dons du Canada de 2005. »
+« Étant donné que l’opposition porte sur une question qui concerne plusieurs autres contribuables, la décision prise dans votre dossier est reportée jusqu’à ce que les oppositions connexes aient été réglées. »
+[5] Cette situation arrive très fréquemment. L’Agence du revenu du Canada (ARC) souhaite gérer administrativement ces milliers de reçus pour dons de bienfaisance plutôt que de submerger la Cour avec des milliers d’avis d’appel tous liés aux mêmes faits. Les reçus pour dons de bienfaisance sont identiques, mais les montants sont différents. Toutefois, les principes de droit, les biens et le pourcentage des sommes sont généralement identiques. Par conséquent, l’ARC et le ministre tentent de gérer ces appels de manière administrative, sans encombrer le système judiciaire.
+[6] M. Grisé a également écrit ce qui suit :
+[traduction]
+« Sachez que même si les mesures de recouvrement sont suspendues jusqu’à ce que l’opposition soit réglée [...] »
+[7] Cette information est très importante pour les contribuables, qui souhaitent savoir que leurs biens ne sont pas saisis.
+[traduction]
+« [...] les intérêts continuent à s’accumuler sur le solde impayé en litige et il sera perçu lorsque l’opposition sera réglée. »
+[8] C’est une façon de dire : « Si vous gagnez, il n’y aura pas d’intérêts; si nous gagnons, il y en aura. »
+[9] La lettre précise également ce qui suit :
+[traduction]
+« Vous pouvez éviter d’autres intérêts en payant la somme dès maintenant. »
+M. Nicksy a indiqué que c’est ce qu’il avait fait. Il s’agit de la lettre datée du 29 juin 2009.
+(b) Demande de redressement non liée [10] Dans une toute autre affaire, vous avez indiqué, pour les années d’imposition 2005 à 2010, avec l’aide de votre comptable, que vous avez présenté une demande de redressement, qui prend généralement la forme d’une demande de redressement d’une déclaration T1. Cette demande visait des crédits d’impôt pour personnes handicapées concernant votre fille. Ces crédits d’impôt vous ont été accordés. Un avis de nouvelle cotisation vous a donc été transmis. La pièce A-2 est un extrait ou une copie de l’avis de nouvelle cotisation, daté du 16 septembre 2010. Cet avis établit effectivement une nouvelle cotisation pour les déclarations de revenus de 2005 et d’autres années d’imposition, mais plus particulièrement 2005 en l’espèce. Une nouvelle cotisation a donc été établie à cette date. C’était le 16 septembre 2010. Ce fait n’est pas contesté; M. Nicksy admet avoir reçu cet avis de nouvelle cotisation.
+[11] Une autre lettre a été émise par la suite. C’est cette lettre qui est contestée. Elle a été signée par Mme Renzella, employée de l’ARC, le 27 octobre 2010. Cette lettre a été envoyée à la même adresse que l’avis de nouvelle cotisation et toutes les autres lettres que M. Nicksy a reçues de l’ARC au fils des ans. M. Nicksy l’a confirmé.
+[12] Dans cette lettre datée du 27 octobre 2010, Mme Renzella indique qu’en raison de la déclaration de revenus de 2005 et de la cotisation établie, l’ARC a envoyé un avis de nouvelle cotisation daté du 16 septembre 2010. Il s’agit encore une fois de la pièce A-2, que M. Nicksy a bel et bien reçue. Mme Renzella écrit ce qui suit : [traduction] Le présent avis de nouvelle cotisation annule l’avis de nouvelle cotisation précédent et l’opposition déposée. Toutefois, vous pouvez déposer un nouvel avis d’opposition. » M. Nicksy disposait d’un délai de 90 jours suivant la date d’envoi de l’avis de nouvelle cotisation, soit le 16 septembre 2010, pour déposer un nouvel avis d’opposition. Il avait également le droit d’interjeter appel auprès de la Cour canadienne de l’impôt dans un délai de 90 jours suivant la date d’envoi de ce deuxième avis de nouvelle cotisation, soit le 16 septembre 2010.
+[13] Mme Renzella a déclaré, dans son témoignage, qu’elle travaillait au bureau des services fiscaux de Sudbury, je crois, et qu’elle a signé la lettre et l’a déposée dans la boîte du courrier sortant. Par la suite, la lettre est passée par le système de livraison habituel de l’ARC et a été envoyée par la poste. Il y a un affidavit au dossier, du moins en ce qui concerne le système de traitement de l’ensemble du courrier de l’ARC. Cependant, comme je l’ai mentionné, l’avis de nouvelle cotisation de 2005, daté du 16 septembre 2010, n’est pas contesté. M. Nicksy l’a reçu.
+(c) Aucune mesure prise concernant l’opposition initiale [14] M. Nicksy n’a rien fait par la suite, à part à la fin 2015 ou au début 2016, où il a commencé à se méfier parce que d’autres personnes visées par le programme de dons avaient reçu des offres administratives afin de conclure une entente avec l’ARC. Ces personnes profitant d’un règlement administratif, c’est-à-dire entre l’ARC et les contribuables et non devant la Cour, des offres en vue d’établir une nouvelle cotisation selon certains critères cas ont été émises.
+[15] Par conséquent, M. Nicksy a tout logiquement téléphoné à l’ARC. On lui a dit que son opposition ne pouvait pas être traitée parce qu’elle avait été annulée par l’avis de nouvelle cotisation daté du 16 septembre 2010 en ce qui concerne l’année d’imposition 2005. M. Nicksy a déclaré qu’il a alors présenté une demande de redressement d’une déclaration T1 pour l’année d’imposition 2005. Il espérait que le ministre se pencherait sur la question, établirait une nouvelle cotisation et ferait une quelconque offre administrative, comme cela avait été le cas pour les autres contribuables, une offre que M. Nicksy avait l’intention d’accepter.
+[16] Ce sont donc les faits. Ils ne sont pas contestés, à l’exception de la réception de la lettre datée du 27 octobre 2010.
+Loi et décision [17] Je ne peux malheureusement pas accueillir la demande de M. Nicksy. Comme Mme White l’a souligné, la jurisprudence est abondante à ce sujet et indique que l’émission d’un deuxième avis de nouvelle cotisation pour une année d’imposition précise annule toute opposition précédente. C’est ainsi que fonctionne la Loi de l’impôt sur le revenu, de manière raisonnable et rationnelle. Toutefois, si l’on ignore l’existence de cette règle, celle-ci peut constituer un inconvénient.
+[18] En l’espèce, lorsque le deuxième avis de nouvelle cotisation a été émis en septembre 2010 concernant l’année d’imposition 2005, certes pour une raison qui n’était nullement liée, cela a eu pour effet d’annuler l’opposition précédente quant à l’appel relatif aux dons. Si vous aviez déposé un avis d’appel à ce moment-là, ce qui était votre droit, votre appel serait toujours en vigueur. Selon la jurisprudence, comme la décision Bormann c. Canada, 2006 CAF 83, à moins que le contribuable ait déposé un avis d’opposition ou un avis d’appel, la Cour n’a pas compétence pour examiner une demande de prorogation de délai. Les délais sont établis très clairement dans la Loi.
+[19] Les articles 165 à 169 de la Loi de l’impôt sur le revenu portent sur les délais. Puisqu’il y a 35 millions de contribuables, le ministre a besoin de certaines limites temporelles en ce qui concerne les cotisations. Et dans sa grande sagesse, le législateur a déclaré : « Voici comment cela va fonctionner pour tout le monde ». Relativement à toute année d’imposition pour laquelle un avis de nouvelle cotisation a été émis, le contribuable dispose, à compter de la réception de l’avis de nouvelle cotisation, de 90 jours pour déposer un avis d’opposition. Si le contribuable ne le fait pas, il lui reste un délai d’un an pour le faire. En résumé, il y a un délai de 90 jours « de plein droit » et un délai de grâce d’un an. Le contribuable doit déposer son avis d’opposition au cours de ces périodes en ce qui concerne tout avis de nouvelle cotisation visant une année d’imposition en particulier. L’article 165 est très clair sur cette question.
+[20] L’article 166 vise les avis d’opposition à l’intention du ministre. L’article 167 vise les avis d’opposition à l’intention de la Cour de l’impôt. L’article 169 vise les appels. Le délai est le même dans tous les cas.
+[21] Lorsqu’un avis d’opposition est déposé, si le ministre émet un autre avis de nouvelle cotisation, le contribuable peut déposer un avis d’opposition ou un avis d’appel dans un délai de 90 jours ou présenter une demande dans le délai d’un an.
+[22] Je conviens que M. Nicksy ne connaissait pas l’incidence de la nouvelle cotisation de 2010, mais il n’a pas contesté le fait qu’il avait reçu l’avis de nouvelle cotisation. Si je donnais raison au contribuable simplement parce qu’il ne connaissait pas l’incidence de la nouvelle cotisation ou parce qu’il n’avait pas reçu d’avis de courtoisie (le ministre n’étant pas tenu d’informer les gens au sujet de la loi), je ferais erreur. Je souligne également que la lettre de M. Grisé n’était pas nécessaire.
+[23] La lettre de Mme Houde pour l’année d’imposition 2004 et la lettre de Mme Renzella (2005) indiquaient que deux possibilités s’offraient à M. Nicksy : déposer un nouvel avis d’opposition ou déposer un avis d’appel. Vous avez peut-être reçu la première lettre, mais vous affirmez que vous n’avez pas reçu la seconde lettre. Quoi qu’il en soit, la nouvelle cotisation pour 2010 a ces conséquences juridiques. Elle annule toute opposition précédente. C’est certainement quelque chose que votre comptable aurait pu vous dire en passant lorsque vous avez déposé la demande de redressement d’une déclaration T1, mais il ne l’a pas fait.
+Solutions de rechange possibles [24] J’aimerais maintenant aborder la demande de redressement que vous avez présentée pour l’année d’imposition 2005, qui est en attente, mais mise en suspens compte tenu de ce que le représentant de l’ARC vous a dit. En raison du rejet de cette demande, M. Nicksy pourrait envisager de demander que la suspension de cette demande de redressement d’une déclaration T1 soit levée. Je ne peux toutefois pas déterminer s’il respecterait ou non le délai. Cela dépendra de la date à laquelle la demande a été présentée, et la décision est à la discrétion du ministre. Cela dépendra des circonstances de l’espèce. Je peux seulement dire que compte tenu de la nature de la demande de redressement en 2010, qui a eu pour effet d’annuler un avis d’opposition de 2005 qui n’avait aucun lien avec la demande, je suis d’avis que le ministre envisagera sérieusement d’utiliser son pouvoir discrétionnaire à cet égard, toutefois cette décision lui revient entièrement.
+[25] En ce qui concerne le Comité d’équité, un comité de l’ARC auquel les contribuables peuvent demander un allègement des intérêts et des paiements, la situation de M. Nicksy pourrait présenter certains des motifs nécessaires pour déposer une demande. En recherchant les mots-clés « Comité d’équité de l’ARC » sur Internet, il accédera au site Web qui lui indiquera les motifs pouvant être invoqués pour présenter une telle demande.
+[26] En l’espèce, la demande de crédits d’impôt pour personnes handicapées concernant sa fille présentée en 2010 et l’annulation qui en a découlé représentent une injustice fortuite remarquable. Le Comité d’éthique pourrait examiner les intérêts concernant cette période où une offre administrative avait pu être faite si l’avis d’opposition n’avait pas été annulé en raison de l’approbation de la demande de redressement d’une déclaration T1. Là encore, ce n’est pas à moi à prendre la décision, mais je vais certainement m’assurer que les parties reçoivent une copie des présents motifs, dans la mesure où ils pourraient être utiles à M. Nicksy devant le Comité d’équité et en ce qui concerne sa demande de redressement d’une déclaration T1.
+Résumé [27] Voici qui conclut les motifs de mon ordonnance en l’espèce. Comme je l’ai mentionné, il n’est pas du ressort de la Cour en l’espèce de rendre une ordonnance de prorogation de délai. S’il examine la Loi, plus précisément l’article 166.1 ou le paragraphe 167(5.1), M. Nicksy constatera que le législateur a déclaré : « Il n’est fait droit à la demande que si ». Il s’agit du préambule. Le législateur n’aurait pas pu établir plus clairement le fait que la Cour n’a pas compétence lorsque les délais ne sont pas respectés. La jurisprudence soumise à la Cour, mais non avancée par Mme White, est très claire sur cette question : la Cour n’a tout simplement aucune compétence pour accueillir la demande étant donné qu’elle n’a pas été présentée dans le délai de 90 jours de plein droit ou au cours du délai de grâce d’un an.
+[28] Par conséquent, la demande est rejetée.
+Signé à Toronto (Ontario), ce 27e jour de juin 2017.
+« R. S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2017 CCI 116
+No DU DOSSIER DE LA COUR :
+2016-2656(IT)APP
+INTITULÉ :
+TIMOTHY E. NICKSY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Sudbury (Ontario)
+DATE DE L’AUDIENCE :
+Le 25 mai 2017
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Randall S. Bocock
+DATE DE L’ORDONNANCE :
+Le 27 juin 2017
+COMPARUTIONS :
+Pour le demandeur :
+Le demandeur lui-même
+Avocate de la défenderesse :
+Me Gabrielle White
+AVOCATS INSCRITS AU DOSSIER :
+Pour le demandeur :
+Nom :
+[BLANK/EN BLANC]
+Cabinet :
+[BLANK/EN BLANC]
+Pour la défenderesse :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

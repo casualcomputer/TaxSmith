@@ -1,0 +1,348 @@
+Title: Sunrise Realty Investments Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31053/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-5-31053-sunrise-realty-investments-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-01-10
+
+# Sunrise Realty Investments Limited v. The Queen
+
+- Citation: 2013 TCC 5
+- Decision date: 2013-01-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4876, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sunrise Realty Investments Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-01-10
+Neutral citation
+2013 TCC 5
+File numbers
+2012-1071(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1071(IT)I
+BETWEEN:
+SUNRISE REALTY INVESTMENTS LIMITED.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 13, 2012, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Agent for the Appellant:
+Riaz Ahmad
+Counsel for the Respondent:
+Erin Strashin
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the for 2005, 2006, 2007, 2008, 2009 and 2010 taxation years are allowed and the assessments are referred back to Minister of National Revenue for reconsideration and reassessment on the basis that the purchase price of the subject property be allocated as to $731,081 to vacant land and $948,916 to building.
+Signed at Ottawa, Canada, this 10th day of January 2013.
+"Gerald J. Rip"
+Rip C.J.
+Citation: 2013 TCC 5
+Date: 20130110
+Docket: 2012-1071(IT)I
+BETWEEN:
+SUNRISE REALTY INVESTMENTS LIMITED.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip C.J.
+[1] Sunrise Realty Investments Limited ("Sunrise") appeals its assessments for 2005, 2006, 2007, 2008, 2009 and 2010. The issue in each of the assessments is the allocation of the purchase price of real property acquired in 2004 as to the cost of the land and capital cost of assets, specifically a building on the land.
+[2] On August 23, 2004 the appellant purchased for $1,680,000 an investment property bearing civic address 2340 Council Ring Road in Mississauga, Ontario. The property included an eight unit retail plaza from which, at all relevant times, the appellant earned rental income.
+[3] In reporting its income for its 2005 and 2006 taxation years, Sunrise allocated the purchase price of the subject property as to land and other fixed assets as follows:
+Land
+$ 150,000
+Building
+1,429,484
+Parking Lot
+75,000
+Fencing
+20,000
+Signage
+25,000
+[4] The $1,429,484 was allocated to the building in the following manner:
+Building
+$ 1,400,000
+Mortgage brokerage fee
+4,650
+Land transfer tax
+23,675
+Land transfer tax registration
+71
+Title insurance
+1,088
+29,484
+1,429,484
+[5] The Canada Revenue Agency ("CRA") did not agree with the appellant's allocation of the purchase price of the property and after three appraisals of the property, in 2007, 2009 and finally in 2011, issued notices of assessment for all six years on December 12, 2011 on the basis of the valuation of Mr. Peter Petrovsky, a real estate appraiser with the CRA and a member of the Appraisal Institute of Canada. Mr. Petrovsky was qualified as an expert for purpose of this appeal.
+[6] Mr. Petrovsky's valuation of the property was directed to the land on the property being vacant land at time of sale and he concluded that the land component of the property had a value, on August 23, 2004, of $760,000, the balance of the purchase price of $1,680,000, namely $920,000, was the value of the improvements to the vacant land, namely the building, the parking lot, fencing, signage and landscape maintenance. Also included was an amount of $29,484 of costs on closing and mortgage fees.[1]
+[7] In its notice of appeal, the appellant does not suggest its view of the value for the land or building, simply stating that Mr. Petrovsky's value of the land that was used to make the assessments "was not fair or accurate" and states his reasons:
+· To determine the Land value, comparisons were made with other commercial land sales in the area, however, no consideration was given to the location of the property versus other comparables.
+· I believe that location, demographics, accessibility and other factors play important part in land values, which were ignored in general.
+· Appraisals were done multiple times, due to deficiencies and errors in the reports, yet I believe that land value is still not a fair value.
+· No reasons were provided for rejecting the appraisal and land value assessed by our appraiser.
+[8] The appellant's agent, Mr. Riaz Ahmad, also its president, concluded his submissions, a copy of which was provided, that the value of the land at date of purchase was $557,000.
+[9] Mr. Riaz Ahmad wished to produce a valuation prepared by another person. Notwithstanding that this is an appeal under the Informal Procedure, I did not allow its production. To allow production of a document prepared by a purported expert without the opposing party having the opportunity to examine the author of the valuation would not be fair to the other party.
+[10] The principal portions of Mr. Petrovsky's valuation are attached as Apendix I to these reasons.
+[11] Mr. Petrovsky's valuation, although faulty in my view, can be used as basis to determine the value of the land at time of purchase. Mr. Petrovsky made adjustments to six of the seven land sales he compared to the subject property. He made adjustments for lot size in comparing the 350 Burnhamthorpe, 3899 Trelawny, 5380‑90 Terry Fox, 33 Pearl and the 756‑60 Lakeshore and 120 Lakeshore properties, adjustments for location in comparing the Pearl and Thomas properties and an adjustment for "other" in comparing the Thomas and the two Lakeshore properties. In fact, he increased and decreased the Pearl and 753‑60 Lakeshore properties. There were net adjustments upwards when comparing the subject property to the Burnhamthorpe, Trelawny, Terry Fox and Thomas properties and a decrease in comparing the 120 Lakeshore property.
+[12] Finally, Mr. Petrovsky considered the comparables of the Burnhamthorpe, Pearl and 756‑60 Lakeshore properties as closest in character to the subject property and "presented a narrower unadjusted range from $19.90 to $31.40 per square foot". He considered the subject property value to be in the middle of this range, approximately $26 per square foot.
+[13] But how much of a decrease or increase in value he allocated to each adjustment, by percentage or otherwise, Mr. Petrovsky could not say. He simply stated that he made adjustments. This is what I find the major flaw in his valuation. Also, he referred to developments on comparable land that took place after 2004. I note the Burnhamthorpe property was disposed of in 2002, the Pearl property in May 2002 and the 756‑60 Lakeshore property in mid 2003. This causes me some concern since I cannot evaluate whether the adjustments themselves or the amount of the adjustments were valid. Were there increases or decreases in land values in the area to the date of purchase of the subject property? Was he correct in concluding a "narrower unadjusted range" be used? I am, as President Jackett was in National Capital Commission v. Benjamin Marcus[2], "left … left completely in the dark as to how those sales … were made for various factors influencing value." A judge cannot accept a valuation if [he or she] cannot comprehend the reasoning by which a conclusion has been derived from the comparable sales.
+[14] As well, in his evidence, Mr. Ahmad criticized Mr. Petrovsky's report. Some of his criticisms have merit, subject to how Mr. Petrovsky made his adjustments. His view was that the Trelawny property was the closest comparable to the subject property and "should have been used to calculate the subject land's value". The Trelawny property has three times the frontage of the subject property and more than twice the area. Mr. Petrovsky referred to the Burnhamthorpe property as "representing the closest physical characteristics in comparison to the subject". Mr. Ahmad disagreed with Mr. Petrovsky's description of the visibility and exposure of the Terry Fox property being inferior to the subject property. In his view, although the Terry Fox property was superior to the subject property, "it is one of the best comparables considering the location in the same neighbourhood" as the subject property. He also criticized comparing the 756‑60 Lakeshore Road property, a property on a heavily travelled road near the Queen Elizabeth Highway, to a property with a neighbourhood plaza on it. In sum, Mr. Ahmad submitted that the value of the Trelawny and Terry Fox properties compared most to the subject property and their values ought to have been given greater weight by Mr. Petrovsky.
+[15] Mr. Ahmad was also of the view that the subject property had certain disadvantages that would reduce its market value. Indeed, Mr. Ahmad ran down the value of the subject property. A winding road leading to the subject property coupled with a "curb cut" to the south entrance of the property reduced vision of the property to oncoming traffic, two traffic lights were within a block of the property on another road approaching the subject property. A road at the north entrance of the property was sloped and islands along a main road to the property had, in his description, "wide islands with trees and dense shrubs".
+[16] As I mentioned earlier, Mr. Petrovsky did adjust the value of the properties Mr. Ahmad views most comparable to the subject property. But by how much he adjusted the value, he could not say.
+[17] In the appeal at bar, I am not dealing with the various matters that were before President Jacket in Marcus. While Mr. Petrovsky's valuation does carry significant weight, it is flawed. At the same time, while the appellant did raise some valid concerns about Mr. Petrovsky's valuation, he offered nothing in support of the values he may be relying on.
+[18] Therefore, I will have to determine the value of the land component of the subject property on the incomplete information before me but not ignoring Mr. Petrovsky's valuation. I will use Mr. Petrovsky's valuation as a starting point and give some weight to Mr. Ahmad's concerns since, although he is an interested party to this litigation, he is familiar with the neighbourhood. I also had the opportunity of reviewing Google maps of the subject and comparable properties that were produced by Mr. Ahmad.
+[19] The lot size of the subject property, purchased on April 23, 2004, is 29,185 square feet with 134.63 feet of frontage. This compares to the five following properties which are comparable to the subject property, albeit to different degrees:
+Area
+(square feet)
+Frontage
+(feet)
+Date
+of sale
+Sale price $
+Price per
+square foot $
+Burnhamthorpe[3]
+40,128
+200.03
+Aug. 2002
+800,000
+19.90
+Pearl3
+10,355
+86.00
+May 2002
+325,000
+31.40
+756‑60 Lakeshore3
+17,750
+175.76
+July 2003
+444,000
+17.75
+Trelawny3
+77,101
+306.06
+May 2004
+1,504,500
+19.50
+Terry Fox
+77,188
+305.17
+July 2004
+1,432,000
+18.60
+[20] I would make adjustments not too dissimilar from those made by Mr. Petrovsky bearing in mind the valid concession of his comparables made by Mr. Ahmad.
+[21] Mr. Petrovsky states that "Overall, the value for the subject would be higher than the $19.90 per square foot indicated for the Burnhamthorpe property." I would add 7.5 per cent to the value of the subject property based on time and lot size, that is $21.39 per square foot.
+[22] To compare the Trelawny property to the subject property would also require an increase in value of the subject property due to area and frontage; I would increase the price of $19.50 per square foot also by 2.5 per cent, that is to $19.99 per square foot[4].
+[23] Similarly, the Pearl property would require a similar increase of 2.5 per cent, that is from $31.40 per square foot to $32.19.
+[24] I would not adjust the value of the subject property to compare with the Lakeshore property except for the fact that the Lakeshore property is on a street having heavy traffic. For this reason I would adjust its value downward by 5 per cent, that is to $23.75.
+[25] As far as the Terry Fox property is concerned, its area is more than twice as that of the subject property and its frontage about two and a half times greater than that of the subject property. It would require an adjusted increase in price per square foot for it to be a comparable, not less than 5 per cent, that is, to $19.53 per square foot.
+[26] The properties that are arguably the closest in character to the subject property, as described by Mr. Petrovsky and Mr. Ahmad, are the Burnhamthorpe, Trelawny, Terry Fox, Pearl and 756‑60 Lakeshore properties. The adjusted range is from $19.50 to $30.61 per square foot, the mid‑range at approximately $25.05 per square foot which would give the land portion of the subject property the value of $731,081.
+[27] The appeal will therefore be allowed and the matter referred back to Minister of National Revenue for reconsideration and reassessment on the basis that the value of the vacant land at time of acquisition was $25.05 per square foot, or $731,081, and the building value was $948,916.
+Signed at Ottawa, Canada, this 10th day of January 2013.
+"Gerald J. Rip"
+Rip C.J.
+APPENDIX I
+DIRECT COMPARISON APPROACH
+The Direct Comparison Approach is based on the Principle of Substitution which states, that a prudent purchaser will not pay more for a property than it would cost to acquire equally desirable substitute property, assuming no costly delay is encountered in making the Substitution. This approach involves the analysis of recent sales of similar properties to the subject in order to determine the actions of vendors and purchasers in the marketplace. In the absence of actual sales, properties offered for sale or sold subject to certain conditions can be compared. These transactions, however, are not generally as reliable as actual sales which have concluded. Since properties are seldom identical, considerations are made to equate for differences from the subject. The most similar property is generally considered to provide the most reliable information to value. Analysis is normally based on the appraiser’s knowledge of the market. The reliability of this approach, therefore, is dependent upon the quality of sales data and the appraiser’s ability to interpret the data.
+LAND SALES COMPARISON ANALYSIS
+ITEM
+COMP.1
+COMP.2
+COMP.3
+COMP.4
+COMP.5
+COMP.6
+COMP.7
+SUBJECT
+Location
+350 Burnhamthorpe
+Road East
+3899 Trelawny
+Circle
+5380‑90 Terry Fox Way
+33 Pearl
+Street
+35 Thomas
+Street
+750‑60 Lakeshore
+Road East
+120 Lakeshore
+Road West
+2340 Council
+Ring Road
+Date of Sale
+Aug. 2002
+May 2004
+Jul. 2004
+May 2002
+June 2004
+Jul. 2003
+Jan. 2003
+Aug. 2004
+Sale Price
+$800,00
+$1,504,500
+$1,432,000
+$325,000
+$385,000
+$443,925
+$410,000
+N/A
+Frontage
+200.03
+306.06
+305.17
+86.00
+119.42
+175.78
+66.00
+134.63
+Depth
+200.60
+267.77
+475.75
+120.40r
+Irregular
+105.00
+144.82
+Irregular
+Lot Size (Sq. Ft.)
+40.128
+77.101
+77.188
+10.355
+20.893
+17.750
+9.558
+29.185
+Price per Sq. Ft
+$19.9
+$19.5
+$18.6
+$31.4
+$18.4
+$25.0
+$42.9
+N/A
+ADJUSTMENT GRID
+Market Conditions
+Location
+Lot Size
+Other
+Net adjustments
+0
+0
++
+0
++
+0
+0
++
+0
++
+0
+0
++
+0
++
+0
++
+-
+0
+0
+0
++
+0
++
++
+0
+0
+-
++
+0
+0
+0
+-
+-
+-
+Reconcilliation/Conclusions:
+Comparable 1 represented an older sale of a larger vacant corner site. In 2005, a retail plaza of about 13,865 square feet was constructed on this site. Other than size, this comparable represented the closest physical characteristics in comparison to the subject. Overall, the value for the subject would be higher than the $19.90 per square foot indicated by this comparable.
+Comparable 2 represented a sale of a larger vacant corner site. Subsequently,. a retail condominium plaza of about 20,129 square feet was constructed on this site. Overall, the value for the subject would be higher than the $19.50 per square foot indicated by this comparable,
+Comparable 3 represented a sale of a larger vacant corner site. In 2006, a 2-building retail condominium plaza of about 17,330 square feet was constructed on this site. Overall, the value for the subject would be higher than the $18.60 per square loot indicated by this comparable.
+Comparable 4 represented an older sale of a smaller corner site situated in a tertiary retail/commercial location. There was an old bungalow on the site that had been converted to office space. The structure did not appear to contribute value to the site since it was subsequently demolished. In 2010, a new 3 storey office building of about 3,854 square feet was constructed on this site. Overall, the $31.40 per square foot indicated by this comparable set the upper limit of value for the subject.
+Comparable 5 represented a sale of a slightly smaller vacant interior site situated in a tertiary refit/commercial location. The site bordered a CP Rail right-of- way. In 2006, a 3 storey medical office building of about 6,789 square feet was constructed on this site. Overall, the value for the subject would be higher than the $18.60 per square foot indicated by this comparable.
+Comparable 6 represented a sale of a smaller interior site bordered by Waterworks Park. There were 1 or 2 old 1-storery structures on the site that did not appear to contribute value to the site. In 2010, a demolition permit was issued for the structures in relation to an application to construct a 4-storey mixed-use commercial/residential building on this site. Overall, the $25.00 per square loot indicated by this comparable set the lower limit of value for the subject.
+Comparable 7 represented a sale of a smaller corner site. In 2005, a new 3 storey mixed-use cornmercial/residenlial condominium building of about 8,493 square feet was constructed on this site. This represented a superior higher building density of 0,89x the lot area compared to the subjects density of 0.29x the lot area. Overall, the value for the subject would be tower than the $42.90 per square foot indicated by this comparable.
+Based on the preceding analysis, Comparables 1,4 and 6 were considered closest in character to the Subject and presented a narrower unadjusted range’ from $19.90 to $31.40 per square foot. Value for the subject was concluded within the middle of the indicated range at approximately $26.00 per square foot. With the land area of 29,185 square feet, the market value for the subject’s site was calculated as follows: $26.00 x 29,185s.f. = $760,000 (rounded).
+COMMENT ON REASONABLE EXPOSURE TIME: Based on general observations of this market, the exposure time required to sell the subject property at its market value was established at approximately 3 to 6 months. This applies provided it would be competitively priced and well marketed.
+Page: 2
+SCOPE, DISCLOSURE & DEFINITIONS
+SCOPE OF THE REPORT
+The scope of the appraisal encompasses the due diligence undertaken by the appraiser (consistent with the terms of reference from the client, the purpose and intended use of the report) and the necessary research and analysis to prepare a report in accordance with the Canadian Uniform Standards of Professional Appraisal Practice of the Appraisal Institute of Canada. The following comments describe the extent of the process of collecting, confirming and reporting data and its analysis, describe relevant procedures and reasoning details supporting the analysis, and provide the reason for the exclusion of any usual validation procedures.
+An inspection of the subject property was completed on May 6, 2011.
+The investigation consisted of but was not limited to: A search of office records and sale services available (GEOWAREHOUSE and MPAC), an external viewing of the comparable sales, confirmation of municipal data, information was analyzed on the building and site features.
+DEFINITION OF FAIR MARKET VALUE
+The highest price available in an open market between informed, prudent parties acting ar arm's length and under no compulstion to act, expressed in terms of money or money's worth. Mahoney, J. in Connor v. Canada 78 D.T.C. 6497 at 6503.
+1 The general process of separating value between the component parts of a property.
+2 A method of estimating land value in which sales of improved properties are analyzed to establish a typical ratio of land value to total property value and this ratio is applied to the property being appraised or the comparable sale being analyzed. The distribution of the appraised value of the property between land and building.
+ASSUMPTIONS & LIMITING CONDITIONS
+1. This report is prepared at the request of the client and for the specific use referred to herein. It is not reasonable for any third party to rely on this appraisal without first obtaining written authorization from the client, the author and any supervisory appraiser, subject to the qualification in paragraph 5 below. Liability to any person other than the client, designated intended users and those who obtain written consent is expressely denied and, accordingly, no responsibility is accepted for any damage suffered by any such person as a result of decisions made or actions based on this report. Diligence by all intended users is assumed.
+2. Because market conditions, including economic, social and political factors change rapidly and, on occasion, without warning, the fair market value estimate expressed as of the date of this appraisal cannot be relied upon as of any other date except with further advice from the appraiser confirmed in writing.
+3. No responsibility is assumed for matters of a legal nature that affect either the property being appraised or the title to it. It has been assumed that the title is good and marketable and, therefore, no opinion is rendered about the title. The subject property must comply with government regulations, including zoning, building code and health regulations and, if it doesn't comply, its non-compliance may affect market value. To be certain of compliance, further investigation may be necessary. The property is appraised on the basis of it being under responsible ownership.
+4. No survey of the property has been made. Any sketch in the appraisal report shows approximate dimensions and is included only to assist the reader of the report in visualizing the property.
+5. Unless otherwise stated in this report, the appraiser has no knowledge of any hidden or unapparent conditions of the property (including but not limited to its soils, physical structure, mechanical and other operating systems, its foundation, etc) or adverse environmental conditions (on it or any neighbouring property, including the presence of hazardous washes, toxic substances, etc.) that would make the property more or less valuable. It has been assumed that there are no such conditions unless they were observed at the time of inspection or became apparent during the normal research involved in completing the appraisal. This report should not be construed as an environmental audit or detailed property condition report, as such reporting is beyond the scope of the report and/or the qualifications of the appraiser. The author makes no guarantees or warranties, expressed or implied, regarding the condition of the property, and will not be responsible for any such conditions that do exist or for any engineering or testing that might be required to discover whether such conditions exist.
+6. Information, estimates, and opinions that have been expressed in the appraisal report are obtained from sources considered to be reliable and they are believed to be true and correct. No responsibility is assumed for the accuracy of such items that were furnished by other parties.
+7. The opinions of value and other conclusions contained herein assume satisfactory completion of any work remaining to be completed in a good and workmanlike manner. Further inspection may be required to confirm completion of such work.
+8. Written consent from the author must be obtained before all (or any part) of the content of the appraisal report be used for any purposes by anyone except the client specified in the report. The Crown has proprietary rights over all information considered in the preparation of this report, its release and use without the consent of the Crown may constitute a breach of the Copyright Act. As well, disclosure of confidential information would constitute a breach of Section 241 of the Income Tax Act and section 295 of the Excise Tax Act.
+9. The Appraiser reserves the right to review the entire content of this report and to revise the market value estimates if pertinent facts, trends or changing conditions existing prior to the effective date become known to the appraiser following the report's submission.
+10. The appraiser is not qualified to comment on environmental issues that may affect the market value of the property appraised, including but not limited to pollution or contamination of land, buildings, water, groundwater or air. Unless expressly stated, the property is assumed to be free and clear of pollutants and contaminants, including but not limited to moulds or mildews or the conditions that might give rise to either, and in compliance with all regulatory environmental requirements, government or otherwise, and free of any envcironmental condition, past, present or future, that might affect the market value of the property appraised. If the party relying on this report requires information about environmental issues than that party is cautioned to retain an expert qualified in such issues. We expressly deny any legal liability relating to the effect of environmental issues on market value of the property appraised.
+Page: 3
+LAND APPRAISAL "FORM FORMAT"
+DESCRIPTION OF SITE
+The subject site has a frontage on the south side of Council Ring Road of approximately 134.63 feet. The site is irregular in shape and is at street grade. The area of the site is approximately 0.67 acres. The surface parking lot occupies the western portion of the site in front of the building, along the road frontage. The landscaping on the site comprises mostly of asphalt-paved areas and a sod strip which runs along the street frontages. Access to the site is via two driveways from Council Ring Road and from Glen Erin Drive. All municipal services appear to be available to the site. No specific environmental reports were provided nor have any investigations been completed. The land value estimate assumes property is free and clear of any and all soil or other environmental contamination.
+DESCRIPTION OF IMPROVMENTS
+The property is improved with a single storey multi-tenant retail plaza. The building appears to be of typical construction using a structural steel frame behind clay brick
+.
+Floor area …………………………. 8,504 s.f. Age ……………………… 1990
+Site Coverage …………………….. + 29 % Number of Units …………… 7
+The building has a sloping roof line and a canopied walkway along the storefronts. The building has no rear service lane. The building was reported to have been in good condition as of the effective date.
+NARRATIVE ADDENDUM”
+CITATION: 2013 TCC 5
+COURT FILE NO.: 2012-1071(IT)I
+STYLE OF CAUSE: SUNRISE REALTY INVESTMENTS LTD. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 13, 2012
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: January 102013
+APPEARANCES:
+Agent for the Appellant:
+Riaz Ahmad
+Counsel for the Respondent:
+Erin Strashin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pitney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The CRA allowed the amount of the purchase price allocated by the appellant to the parking lot, fencing and signage, aggregating $120,000, and allowed the costs aggregating $29,484 described in paragraph 4 to be added to the capital cost of the building. The CRA permitted the appellant to deduct the cost of $10,000 for landscape maintenance in computing its income for 2004, an amount that was included in the purchase price.
+[2] [1969] 1 Ex. C.R. 327, 338.
+[3] Properties considered by Mr. Ahmad as most comparable property.
+[4] There is no evidence as to the change in land values in the area of the subject land from 2002 to 2004. The adjustments I use are arbitrary, assuming an increase in value.

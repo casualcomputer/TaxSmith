@@ -1,0 +1,262 @@
+---
+title: "4145356 Canada Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29472/index.do"
+last_modified: "2009-09-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 480"
+citation2: ""
+neutral_citation: "2009 TCC 480"
+decision_date: "2009-09-28"
+language: "en"
+item_id: "29472"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6291
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:55:01.624000+00:00"
+cases_cited_count: 11
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "097f0c236e2b361b195db2ed30cbcf68f1942b68fe2adc9e887b67ff443cc3bd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 4145356 Canada Limited v. The Queen
+
+- Citation: 2009 TCC 480
+- Decision date: 2009-09-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6291, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+4145356 Canada Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-28
+Neutral citation
+2009 TCC 480
+File numbers
+2008-2315(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2315(IT)G
+BETWEEN:
+4145356 CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard on September 10, 2009, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Al Meghji and
+Martha MacDonald
+Counsel for the Respondent:
+Daniel Bourgeois and
+Andrew Miller
+____________________________________________________________________
+ORDER
+UPON MOTION by the Appellant for an Order compelling the Respondent to answer Questions 45/46, 146, 175, 185, 235, 237/238 posed by the Appellant at the Examination for Discovery of the Respondent’s nominee, Ms. Simmin Hirji, which the Respondent has refused to answer, and for costs of this motion;
+AND UPON MOTION by the Respondent for an Order directing the Appellant to answer certain questions set out in the Notice of Motion, which the Appellant refused to answer for the stated reason that they were not relevant to the issues in dispute in this litigation, and any proper questions arising from these answers given by the Appellant, and for costs of this motion;
+AND UPON reviewing the materials filed, and hearing counsel for the parties;
+IT IS ORDERED THAT:
+1. The Appellant’s motion is allowed and the Respondent is directed to answer the following:
+- Questions 45 and 46 in connection with the large file auditor’s file, the local tax avoidance file, the appeals file, and the rulings file, identifying privileged and irrelevant documents not produced from those files.
+- Questions 145 and 146
+- Questions 237 and 238
+2. The Respondent’s motion is allowed and the Appellant is directed to answer the following:
+- Question 76, though limited to email correspondences between Mr. Flynn and/or Mr. White from Royal Bank of Canada group on the one hand and Mr. Salamare and/or Mr. Elasingham from the Bank of America group on other hand for the period December 2002 to September 5, 2003.
+- Question 330
+- Question 389
+- Question 394
+3. The parties are directed to complete the examinations for discovery for the above questions by December 31, 2009, and to satisfy any undertakings resulting from such examinations by January 31, 2010.
+4. The parties shall communicate in writing with the hearings coordinator by March 1, 2010 to state whether (i) the case will settle; (ii) a pre-hearing conference would be helpful; or (iii) a hearing date should be set.
+5 The parties shall provide to the Court by October 15, 2009 written submissions pertaining to costs.
+Signed at Ottawa, Canada, this 28th day of September 2009.
+“Campbell J. Miller”
+Miller J.
+Citation: 2009 TCC 480
+Date: 20090928
+Docket: 2008-2315(IT)G
+BETWEEN:
+4145356 CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Campbell J. Miller
+[1] Both parties have brought motions pursuant to Rule 110 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) for orders directing the other party to answer questions refused at Examinations for Discovery. The facts in connection with this matter are complex, though the issues involved are not. The issue is simply whether the Appellant is entitled to a Foreign Tax Credit (the "FTC") pursuant to subsection 126(2) of the Income Tax Act (the "Act"). This credit is based on a determination of whether the Appellant paid business‑income tax in respect of a business carried on by it, in this case, in the United States. "Business‑income tax" paid by a taxpayer means, according to subsection 126(7) of the Act,
+“the portion of any income or profits tax paid by the taxpayer for the year to the government of a country other than Canada that can reasonably be regarded as tax in respect of the income of the taxpayer from a business carried on by the taxpayer in the business country…”.
+[2] It is helpful to repeat the brief version of the facts as summarized by the Respondent in her submissions:
+A. Summary of the Facts Alleged in the Pleadings
+The parties in Canada
+1. The Appellant was incorporated on June 26, 2003 for the purpose of making an investment in a limited partnership the Bank of America group.
+2. The Appellant was a wholly-owned subsidiary of Royal Bank Holding Inc., which in turn was at all material times a wholly-owned subsidiary of Royal Bank of Canada.
+The parties in the United States
+3. Altier LLC was an indirect, wholly-owned subsidiary of Bank of America National Association ("BANA"), itself a wholly-owned subsidiary of Bank of America.
+4. Gaskel Management LLC was a wholly-owned subsidiary of Altier LLC.
+5. Mecklenburg Park, Inc. was a wholly-owned subsidiary of BANA.
+The U.S. Partnership
+6. On December 12, 2002, Crown Point Investments GP was formed under the laws of the State of Delaware as a general partnership. It was later converted from a general partnership to a limited partnership, called Crown Point Investments LP ("Crown Point LP").
+7. On September 3, 2003, Gaskell Management LLC, as general partner, and Altier LLC, as the limited partner, entered into an Amended and restated Agreement of Limited Partnership (the " Partnership Agreement").
+8. As of September 3, 2003, the partnership units of Crown Point LP were held as follows:
+Partners
+Contributed
+Captital
+Limited Partner Units
+General
+Partner Units
+Altier LLC
+Cdn
+$1,600,000,000
+1,600,000,000
+0
+Gaskell Mgt. LLC
+Cdn
+$15,000,000
+0
+15,000,000
+9. On September 5, 2003, the Appellant, Royal Bank Holding Inc. and Altier LLC entered into a purchase and sale agreement whereby the Appellant acquired 25% of the limited partnership units of Crown Point LP, for a total consideration of Cdn $ 400,000,000.
+10. During the years in issue, Crown Point LP engaged in the following transactions:
+a) it made a loan in U.S. dollars to Mecklenberg Park Inc. in the amount of US$ 1,150,840,000 at a floating interest rate of US$ LIBOR plus 1.545%;
+b) it entered into a coupon swap with BANA under which Crown Point LP would, for the term of the loan, pay US$ LIBOR plus 1.545% to BANA on a notional amount of US$ 1,150,840,000 and receive fixed Cdn$ 7.2774% from BANA on a notional amount of $1,602,999,308.
+11. Effective September 5, 2003, the Royal Bank of Canada entered into a cross currency swap agreement with Altier LLC under which Royal Bank of Canada paid US$ 287,171,677.21 to Altier plus ongoing payments at the Cdn$ fixed rate of 5.6275% over a period of 20 years. Altier agreed to pay Royal Bank of Canada Cdn $400 million plus ongoing payments at the 3 month interpolated US$-LIBOR-BBA over 20 years.
+12. In the 2003 taxation year, Crown Point LP earned income from these operations and filed a tax return with the Internal Revenue Service and paid tax to the United States government.
+13. Crown Point LP made an election to be treated as a corporation for U.S. federal tax purposes.
+14. In computing its income for the 2003 taxation year, the Appellant reported 25% of the income of Crown Point LP.
+15. In computing its tax payable for the 2003 taxation year, the Appellant deducted from its tax otherwise payable under Part I of the Income Tax Act (the "Act") a foreign tax credit pursuant to subsection 126(2) of the Act.
+16. In calculating this foreign tax credit, the Appellant claimed 25% of the U.S. taxes paid by Crown Point LP as business-income taxes paid by itself.
+[3] Initially, the Respondent assumed that the Appellant was entitled to a 25% share of the profits realized by Crown Point LP, but in the Reply to the Notice of Appeal, the Respondent has now denied this assumption, claiming the Appellant was not entitled to a 25% share of such profits, but was entitled to a fix return of no more than 4.7303% per annum on the amount it advanced to Altier.
+[4] The Minister of National Revenue (the "Minister") was requested by the Appellant to conduct an audit to determine the question of the FTC. This investigation took four years and included an internal inquiry to the General Anti‑Avoidance Rules Review Committee, which determined that a General Anti-Avoidance Rule (“GAAR”) assessment should not proceed. Ultimately, the Appellant was assessed on the technical basis that it did not qualify pursuant to subsection 126(2) for the FTC.
+[5] The Appellant claims that the Minister’s assumptions set out in the Reply do not fully and properly reflect the assumptions the Minister in fact relied upon in reaching its assessment. The Respondent sought full disclosure pursuant to Rule 82 of the Rules, but as the Appellant balked, the Respondent withdrew its Motion for full disclosure.
+[6] With that brief background, I will now turn to the Respondent’s Motion, in which it seeks answers to five questions.
+1. Question 76 - Requests that copies of any correspondence, emails and other documents exchanged between the Bank of America group and the Royal Bank of Canada group in connection with the discussions and negotiations leading to this transaction be provided.
+[7] The Respondent advises that four individuals, including the Appellant’s nominee for discovery, Mr. D. Flynn, were involved in email negotiations over a six‑month period. The Respondent argues that these circumstances are relevant in construing the Partnership Agreement and in determining whether the payment of tax by Crown Point LP can be "tax paid by the Appellant" and further in determining the Appellant’s entitlement to profits. The Respondent refers to the Saskatchewan Court of Appeal decision of SaskPower International Inc. v. UMA/B&V Ltd.[1], in which the Court quoted from the House of Lords decision Reardon Smith Line Ltd. v. Yngvar Hansen-Tangen:[2]
+No contracts are made in a vacuum: there is always a setting in which they have to be placed. The nature of what is legitimate to have regard to is usually described as ‘the surrounding circumstances’ but this phrase is imprecise; it can be illustrated but hardly defined. In a commercial contract it is certainly right that the court should know the commercial purpose of the contract and this in turn presupposes knowledge of the genesis of the transaction, the background, the context, the market in which the parties are operating.
+[8] The Respondent argues that the emails will:
+a) shed light on the intentions of the parties to the Partnership Agreement and related transactions as well as assist in explaining the genesis and circumstances surrounding the transactions;
+b) support the Respondent’s position that the taxes paid by Crown Point LP cannot be characterized as tax paid by the Appellant;
+c) damage the Appellant’s case to the extent the correspondence between individuals involved in the negotiation show an intention by the parties to the effect that the Appellant would not be personally liable for any U.S. tax paid by Crown Point LP;
+d) damage the Appellant’s case to the extent it demonstrates the parties intentions with respect to the obligations of Gaskell Management LLC, as general partner of the Partnership, and whether it was intended that it would pay the U.S. tax as agent for the Partnership or the Appellant;
+e) support the Respondent’s case by establishing that, as a matter of legal substance, the Appellant’s entitlement to profits under the Partnership Agreement were limited to the amounts that it was entitled to receive under the Distribution provisions of the partnership agreement (4.7303% per annum), regardless of the definition of "share of net profits" contained there;
+f) support the Respondent’s case by establishing how the transactions were treated for U.S. tax purposes to the extent that the exchanges between the parties contain admissions in that regard.
+[9] I accept subparagraphs b), c), d), and e) above, though have some doubts about the intention of the Appellant vis-à-vis the Partnership Agreement, given the Appellant was not an original signatory to that agreement.
+[10] The Appellant has concerns that this email discovery will be time consuming, is far too broad, and at best, may only produce some evidence of subjective intention, which, as made clear by the Federal Court of Appeal in The Queen v. General Motors of Canada Ltd.[3] is inadmissible. Further, as the Partnership Agreement is not ambiguous, there is no need to resort to "surrounding circumstances". But keep in mind, the Partnership Agreement was originally entered into by Altier and Gaskell: the Appellant then bought in.
+[11] It has been oft-stated that the scope of discovery is wide and relevancy is to be construed liberally, but these broad parameters are not to be extended into permitting a fishing expedition. In this regard, see recent comments of Justice V. Miller in General Electric Capital Canada Inc. v. The Queen[4]. I am not here dealing with a situation where there have already been extensive examinations. It is a situation, though, where there are complex transactions, different tax jurisdictions and different legal entities that can impact on the key issue in the appeal. The greater understanding of how all the pieces of the puzzle fit together can only assist the parties in fully comprehending each others’ case.
+[12] The Appellant suggests that if I were to allow this question I should narrow its ambit. For example, the Appellant maintains that the detail of the cross-currency swap has no bearing on the issue. I find that carving out any one aspect of the overall transaction on the basis it does not relate to an issue, in a matter that has a number of intertwined transactions, runs the risk of leaving gaps in the track on the train of inquiry. I conclude that this is not a fishing expedition. Having said that, it was clear from the Respondent’s counsels’ comments that they were prepared to limit the search for documents to email correspondence between Mr. Flynn and/or Mr. White from the RBC Group on the one hand, and Mr. Salamare and/or Mr. Elasingham from the Bank of America group on the other hand, for a limited period of time, being from December 2002 to September 5, 2003. I note that the Appellant was not an original signatory to the Amended and Restated Partnership Agreement, which was between Altier and Gaskell, so when the Respondent asked for emails in connection with discussions and negotiations leading to "this transaction", I take "this transaction" to include the Appellant’s acquisition of units in the partnership from Altier, the Crown Point LP’s loan to Mecklenburg Park, Inc., the coupon swap and the cross‑currency swap.
+2. Question 184 - Request that any documents exchanged between the Bank of America and the Royal Bank of Canada regarding the topic of using a Delaware limited partnership and regarding using a limited partnership as opposed to a general partnership be provided.
+[13] The Respondent acknowledged that this question is subsumed in the previous question. Given that, there is no need for a specific direction with respect to this question.
+3. Question 330 - Request that all documents in the Appellant’s possession, control, and power pertaining to discussions about the terms of the coupon swap be provided.
+[14] This question goes beyond email correspondences. The Appellant fails to see any relation between discussions about the terms of the coupon swap and the Appellant’s liability for tax and entitlement to the Foreign Tax Credit. The coupon swap, the Respondent points out, allows Crown Point LP to receive precisely the amount necessary to pay a fixed distribution of 4.7303% on the Appellant’s investment. I find that this does go to help understand exactly what profits the Appellant was entitled to. That is the very matter the Respondent has raised in its pleading as a shift away from a previous assumption. This is relevant and this request should be answered.
+4. Question 389 – Request that copies of any documents in the possession, control, and power of the Royal Bank of Canada group dealing with a determination of the term for the cross currency swap that appears at Tab 23 of the Appellant’s documents be provided.
+[15] This is a very narrow question directed solely at documents that address the term of the cross currency swap, as its term (20 years) is different from the term of the underlying transactions (25 years). Pursuant to this swap, the $400 million invested by the Appellant in Crown Point LP is paid over the same day to Royal Bank of Canada. It is a piece, albeit a small piece, of the puzzle that may shed light on how the Appellant’s profits were to be determined. The Respondent is entitled to an answer.
+5. Question 394 – Request that copies of any documents within the Appellant’s or the Royal Bank of Canada group’s control, possession, or power which discuss the feature of the limited partnership agreement dealing with allocating specific expenses to the general partner Gaskell be provided.
+[16] Once I have been convinced that circumstances surrounding the entering into of these transactions is relevant, it becomes difficult to exclude documents which "discuss the feature of the partnership". The Appellant buys into the limited partnership and this goes to its understanding of what it believed it was buying into. I find this relevant and the Respondent is entitled to an answer.
+[17] I turn now to the Appellant’s motion. The Appellant seeks answers to five questions.
+1. Questions 45 – 46 - The Appellant requested the Respondent "to produce the contents of all of those files that you have just mentioned".
+[18] It is important to review the transcripts to gain an understanding of what files the Respondent’s nominee mentioned. The following is an exchange between Mr. Meghji, for the Appellant, and Simmin Hirji, for the Respondent:[5]
+41 Q. Which of those files have you reviewed for purposes of preparing for this Examination for Discovery?
+A: I viewed the large file auditor’s file, I reviewed the local tax avoidance file, I reviewed the appeals file, and I did not - become familiar of the events that had transpired at the rulings level and the Ottawa level of the tax avoidance group in Ottawa.
+42. Q. But you haven’t reviewed their files?
+A. My understanding is they have nothing.
+43. Q. Your understanding is that they, meaning tax avoidance Ottawa, has nothing?
+A. That’s right.
+44. Q. Does that make sense to you in light of the fact that before a referral is presented to the GAAR Committee it has to go through tax avoidance in Ottawa?
+A. Well, I shouldn’t say they have nothing. My understanding – I don’t know, I might be incorrect and the Attorney general can let me know, all they have is what I have sent up to them.
+45. Q. What I’d like you to do is to give me an undertaking to produce the contents of all of those files that you’ve just mentioned.
+[19] What I take from this discourse is that there are three files which the nominee mentioned: the large file auditor’s file, the local tax avoidance file, and the appeals file.
+[20] Mr. Meghji later clarified his request at the Examination as follows:[6]
+46. Q. And if you come back and tell me that you’re producing Documents A to C because they’re relevant, but E to F are irrelevant, and G to Z are privileged, maybe you can tell me what you’re not producing on the basis of relevance, so we at least have a basis on which we can decide if we have a fight. Is that fair?
+Mr. Bourgeois stated:
+That’s fair.
+[21] Recent comments of this Court (see Concept Plastics Limited v. The Queen)[7] and the Federal Court of Appeal (see Kossow v. The Queen)[8] have been clear that documents in the Canada Revenue Agency files that led to the assessment are relevant. With respect to the rulings file, the Appellant argues the assessment was based on an opinion of the Rulings directorate of July 28, 2007. The Appellant states that the backup analysis for this is in the Rulings file and must therefore be relevant. While this does not appear to be a file specifically mentioned by Mr. Hirji, it can be and should be lumped with the three files mentioned above. Finally, the Appellant, argues the assumptions in the Minister’s Reply do not accurately represent assumptions relied upon and the Appellant requires the contents of the files as they may assist demolishing those assumptions.
+[22] The Respondent counters that the request is overly broad and vague and is nothing more than a fishing expedition. The Respondent also argues that this approach to obtaining Government documents goes even beyond a Rule 82 full disclosure requirement, which provides for disclosure of relevant documents and does not insist on a listing of irrelevant documents. The Appellant had that avenue available but opposed the Respondent’s suggestion in that regard.
+[23] The Appellant’s request is broad. It smacks of a one-way full disclosure, yet it appears to be an acceptable approach given Rule 105(3), which neither party raised. It seems the difference between a Rule 82 full disclosure or Rule 105(3) approach and the Appellant’s questions at examination is that the Appellant not only wants all relevant documents from the Respondent’s files, but a list of those documents the Respondent claims are irrelevant. The Appellant supports this request, relying on comments of former Chief Justice Bowman in Rezek et al v. The Queen[9] case, where, in dealing with a Crown refusal to provide a list of documents in their file, with reasons why each of the documents is not produced, the former Chief Justice stated:
+Whatever may be the reason, it is incumbent on the person refusing to produce the document to provide the person seeking production with sufficient information to permit him or her to determine whether the basis of refusal is justified or whether it should challenged. Certainly no one party can refuse to produce a document on the basis of a unilateral view of irrelevancy.
+The respondent is directed to provide to the appellants detailed and specific reasons for the refusal to produce particular documents in the convertible hedge file, with sufficient information to allow them to be identified. If the respondent does not do so, the file is to be produced subject to ensuring that confidential information relating to taxpayers is not disclosed.
+[24] First, to be clear, a request for a file is a request for all the documents in the file – what is a file if not its contents. This may become somewhat trickier with electronic files, but presumably the same theory applies. It may be that an appeals file or avoidance file will have documents that the Minister determines will not be used in evidence (thereby escaping Rule 81 disclosure), but remain relevant to the issues between the Respondent and taxpayer, and discoverable on full disclosure (Rule 82) or on examination pursuant to Rule 105(3). What this boils down to is not a question of relevance, but whether the request is simply too broad, given the Appellant’s earlier objection to a Rule 82 disclosure. The request for documents in a Canada Revenue Agency file, a file that is prima facie relevant as it is the Government’s file on this taxpayer, is itself not a broad or vague request. If the file had just one document in it, one could hardly call the request broad. No, it is not the breadth of the answer but the breadth of the inquiry. I do not find the request for documents in a specific taxpayer’s file, that lead to an assessment on one specific issue, too broad.
+[25] The only file that causes me to hesitate is the Ottawa tax avoidance file, as the materials in that file did not lead to this particular assessment. The Respondent’s nominee reviewed the local tax avoidance file to prepare for the examination, suggesting some prima facie relevance. This does not extend to the Ottawa tax avoidance file.
+[26] The Respondent also argues that this type of request is an abuse of process as it goes beyond a Rule 82(1) disclosure, by requesting a listing of irrelevant documents. Further, it is abusive because particular documents are not specified. I reject both these issues. There is nothing abusive about the request, especially in light of the former Chief Justice Bowman’s comments in Rezek cited earlier.
+[27] The Respondent relies on assumptions which are meant to be set out accurately in the Reply. The taxpayer is required to demolish those assumptions if they are untrue. The basis for the assumptions and, indeed, with the Respondent’s case, is to be found in the Respondent’s files. A request from the taxpayer to see those files, especially in light of concerns that the assumptions may not accurately represent all the assumptions relied upon by the Respondent, is not an abusive request. While there may have been other ways for the Appellant to obtain this information, and although the Appellant previously rebuffed an attempt for full disclosure, these are not reasons to deny the Appellant’s current request.
+[28] My remaining concern is the request from the Appellant to obtain a listing of irrelevant documents. The Respondent has a choice. She can provide all the documents in the files (other than those to which privilege can be claimed) and leave it to the Appellant to sort out what is relevant, or the Respondent can produce only the relevant documents in its files, based on its on own assessment of relevance. What is the risk to the Respondent following the former approach – that some irrelevant documents may come to light? While I can conceive of situations of irrelevant documents being in the Respondent’s files, that possibility is slim when the assessment only pertains to one issue. The files can only relate to that issue and are prima facie relevant to it. However, Mr. Meghji acknowledged he sought relevant documents along with a list of those documents withheld on the basis they are not relevant. I order the production of documents in the files mentioned by Simmin Hirji in examination and reviewed by her, being the large file auditor’s file, the appeals file and the local tax avoidance file. I also find the Rulings file is relevant and the documents therein are to be produced. Any documents not produced shall be identified as privileged or irrelevant.
+2. Question 146 - The Respondent refused to identify documents in the Attorney General’s possession that speak to the Respondent’s allegation that it was not entitled to a 25% share of profits of Crown Point LP.
+[29] The Respondent distinguishes between a request for facts, which support an allegation (which the Respondent acknowledges is proper) versus a request for the evidence to support that allegation. The Respondent did answer that the Partnership Agreement was the fact that spoke to this allegation. While this is always a fine distinction (see comments in Sandia Mountain Holdings Inc. et al v. The Queen)[10] I find that the phrasing of the Respondent’s request falls off the fence as fact-seeking as opposed to proof-seeking and is therefore proper. The Appellant is entitled to an answer.
+3. Question 185 - Is the Minister going to take the position that the Appellant incorrectly reported income in respect of the Crown Point LP?
+[30] I find this both a curious question and a more curious refusal. The Minister assessed on the basis of the Appellant’s reported partnership income, but denied the Foreign Tax Credit. That is a fact. What is there to answer or refuse? There has been nothing in the pleadings suggesting income reported is incorrect and there has been no inkling of possible amendments. This is a tempest in a teapot.
+4. Question 235 - Will the Respondent urge the Court not to follow the Minister’s administrative practice as described in IT-270R3 because it is wrong in law?
+[31] The Respondent claims this goes beyond seeking their legal position and is looking for an opinion on the state of the law. I agree. The Appellant appears to be engaging in tactics best left for argument at trial. The Appellant referred me to a number of decisions (notably Silicon Graphics Ltd. V. The Queen[11] and Canadian Occidental US Petroleum Corp. v. The Queen[12]) commenting on the use of IT Bulletins. These comments were raised in the context of legal argument. If Mr. Meghji believes the Respondent has acted inconsistently with an Interpretation Bulletin, the trial judge may certainly take that into consideration. Discovery is not the place to obtain the Government’s opinion on its IT Bulletin. It is what it is. The Respondent’s legal position is not to be crafted by the Appellant seeking opinions on IT Bulletins.
+5. Questions 237 – 238 - Explain the relevance or significance of the documents in the Respondent’s Book of Documents.
+[32] The Appellant relies on former Chief Justice Bowman’s reasoning in Loewen et al v. The Queen[13] where he stated:
+A party is entitled to know why a document is being produced. One must bear in mind that section 81 of Rules, in contrast with section 82, is rather unique in that requires only that the party produce a list of documents that is intended will be used in evidence. If the answers given were acceptable, it would mean that a litigant could swamp the other side by producing cartons of documents and leave it to the other side to go through them in an attempt to anticipate what use, if any, will be made of them. I think a litigant is entitled to know why the other party thinks a document is relevant. It is insufficient to say, in effect, that a document is being put in the list of documents on the off-chance that it may be useful to rebuke some unspecified point that the other side may wish to make.
+[33] I limit these comments to the unique Rule 81 disclosure rule, which I believe was former Chief Justice Bowman’s approach. If a party lists a document that might be used in evidence, the other party is entitled to know which allegation of fact to which it relates for purposes of either establishing or rebutting that allegation. The Respondent referred me to comments of Justice Bonner in Smithkline Animal Health Inc. v. The Queen[14] though those comments were limited in their application to a section 82 full disclosure. I am not dealing with that situation. The Appellant is entitled to an answer.
+[34] In summary:
+1. The Respondent’s motion is allowed and the Appellant is directed to answer the following:
+- Question 76, though limited to email correspondences between Mr. Flynn and/or Mr. White from Royal Bank of Canada group on the one hand and Mr. Salamare and/or Mr. Elasingham from the Bank of America group on other hand for the period December 2002 to September 5, 2003.
+- Question 330
+- Question 389
+- Question 394
+2. The Appellant’s motion is allowed and the Respondent is directed to answer the following:
+- Question 45 and 46 in connection with the large file auditor’s file, the local tax avoidance file, the appeals file, and the rulings file, identifying privileged and irrelevant documents not produced from those files.
+- Question 145 and 146
+- Question 237 and 238
+[35] The parties wish to move this matter along and suggested certain timelines. I therefore order that examinations for discovery be completed within three months of the date of this order with an additional month to complete undertakings and a further month for reporting back to the court advising as to the need for a pre-hearing or the setting of a trial date.
+[36] The parties asked that I not make any order with respect to costs but allow them the opportunity to provide written submissions after receiving these reasons. I ask that they provide those written submissions to the court within two weeks of the date of this order.
+Signed at Ottawa, Canada, this 28th day of September 2009.
+“Campbell J. Miller”
+Campbell J. Miller
+CITATION: 2009 TCC 480
+COURT FILE NO.: 2008-2315(IT)G
+STYLE OF CAUSE: 4145356 CANADA LIMITED AND THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 10, 2009
+REASONS FOR ORDER BY: Campbell J. Miller
+DATE OF ORDER: September 28, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji and Martha MacDonald
+Counsel for the Respondent:
+Daniel Bourgeois and Andrew Miller
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Al Meghji
+Firm: Osler, Hoskin & Harcourt LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2007 SKCA 40.
+[2] [1976] 1 W.L.R. 989 (H.L.).
+[3] 2008 FCA 142
+[4] 2008 TCC 668.
+[5] Examination of Simmin Hirji, pp. 10, 11, Motion Record, Tab 2C.
+[6] Examination of Simmin Hirji, pp.11, 12 Motion Record, Tab 2C.
+[7] 2009 TCC 79.
+[8] 2009 FCA 83.
+[9] 2000 DTC 1966 (T.C.C.).
+[10] 2005 TCC 65.
+[11] 2002 DTC 7112 (Fed. C.A.).
+[12] 2001 DTC 295 (T.C.C.).
+[13] 2006 TCC 498.
+[14] 2002 FCA 229.

@@ -1,0 +1,129 @@
+Title: The Department of Family and Community Services v.  M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27917/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-41-27917-the-department-of-family-and-community-services-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-02-13
+
+# The Department of Family and Community Services v.  M.N.R.
+
+- Citation: 2003 TCC 41
+- Decision date: 2003-02-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1700, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+The Department of Family and Community Services v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-13
+Neutral citation
+2003 TCC 41
+File numbers
+2001-2915(EI)
+Judges and Taxing Officers
+Alban Garon
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2001-2915(EI)
+BETWEEN:
+THE DEPARTMENT OF FAMILY AND COMMUNITY SERVICES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Motion heard on December 10, 2002 in Fredericton, New Brunswick
+Before: The Honourable Alban Garon, Chief Judge
+Appearances:
+Counsel for the Appellant:
+Cedric L. Haines, Q.C.
+Vicky Smith
+Counsel for the Respondent:
+Dominique Gallant
+____________________________________________________________________
+ORDER
+Upon motion by the Respondent for an Order dismissing the appeal on the grounds that the Appellant is not a person affected by the decision on appeal as contemplated in subsection 103(1) of the Employment Insurance Act;
+And upon hearing what was alleged by the parties;
+It is ordered that the Respondent's motion is denied.
+Signed at Ottawa, Canada, this 13th day of February 2003.
+"Alban Garon"
+C.J.T.C.C.
+Citation: 2003TCC41
+Date: 20030213
+Docket: 2001-2915(EI)
+BETWEEN:
+THE DEPARTMENT OF FAMILY AND COMMUNITY SERVICES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+REASONS FOR ORDER
+GARON, C.J.T.C.C.
+[1] This is an application made by the Respondent for an Order dismissing the appeal on the ground that the Department of Family and Community Services "is not a person affected by the decision on appeal as contemplated in subsection 103(1) of the Employment Insurance Act."
+[2] This application relates to an appeal instituted by the Appellant in June 2001 where the issue is whether Mrs. Joyce Bernard, the "worker", was engaged in insurable employment under a contract of service by Mrs. Violet Sergeant, the "payor", during the period from June 28, 2000 to October 31, 2000.
+[3] The facts relating to this appeal are that the Appellant provided in this particular case a monthly financial subsidy to Mrs. Violet Sergeant or to a designated family member in respect of the above-mentioned period which permitted Mrs. Joyce Bernard to provide the required services to Mrs. Violet Sergeant, referred to as the client. The client's contribution to the cost of long-term care services was zero, based on the client's net family income and net family assets. This financial assistance provided by the Appellant enabled Mrs. Violet Sergeant to remain at home and receive services to help her meet her needs.
+[4] The position of the Minister of National Revenue is that subsection 103(1) of the Employment Insurance Act (the "Act") must be read with sections 90, 91 and 92 of the same statute and that the Appellant was not a person affected by the decision within the meaning of section 103 of the Act.
+[5] The position of the Appellant is that subsection 103(1) of the Act stands on its own and the ordinary meaning should be given to the word "affected".
+Analysis
+[6] In order to determine in terms of categories of persons the extent of the right to appeal to the Tax Court of Canada set out in subsection 103(1) of the Act it seems useful to review the entire scheme of the Act relating to rulings and appeals with reference to insurability decisions made under the Employment Insurance Act.
+[7] First, section 90 of the Act provides that the Commission and four categories of persons may request an officer of the Canada Customs and Revenue Agency (CCRA) authorized by the Minister of National Revenue to make a ruling on any of the questions enumerated in subsection 90(1) of the Act.
+[8] These four categories of persons are the following:
+the employer;
+the employee;
+a person claiming to be an employer;
+a person claiming to be an employee.
+[9] The authorized officer of the Canada Customs and Revenue Agency (CCRA) is required to make a ruling within a reasonable time after receiving the request, as provided by subsection 90(3) of the Act.
+[10] Section 91 of the Employment Insurance Act in turn establishes a right to appeal with a set time period to the Minister of National Revenue from a ruling made by the authorized officer of the CCRA. The right to appeal is given to the Commission or "to any other person concerned".
+[11] Section 92 of the Act provides that an appeal may be made to the Minister by an employer who has been assessed under section 85 of the Act.
+[12] In addition, where an appeal is to be decided by the Minister, section 93 of the Act requires the Minister to notify "any person who may be affected" by the future decision of the Minister and such persons shall be given "an opportunity to provide information and to make representations to protect their interests".
+[13] Finally, section 103 of the Act permits an appeal from the decision of the Minister to the Tax Court of Canada within a set time limit. This right to appeal is conferred upon the Commission or "a person affected" by the Minister's decision.
+[14] It is also to be noted that in subsection 104(1) of the Act it is enacted, inter alia, that the Tax Court of Canada and the Minister have authority to decide any question of law or fact necessary to be decided in the course of an appeal under section 91 or 103 of the Act, including the authority to decide "whether a person may be or is affected by the decision or assessment".
+[15] Regarding the matter of the categories of persons who are entitled to request a ruling and those who are entitled to appeal to this Court, if one compares the wording of section 90 to that of section 103, it seems clear that on the one hand the right to request a ruling from an authorized officer of CCRA is limited to the Commission and to four specific classes of persons, as mentioned earlier, while in the case of section 103 the right to appeal is given to the Commission or to any person who may be "affected" by a decision.
+[16] Also, if one looks at section 91 of the Act which deals with a right to appeal to the Minister from a ruling, this right is given to "any person concerned" and in addition, the Minister is bound to notify under section 93 of the Act any person who "may be affected" by the Minister's eventual decision and give them an opportunity to provide information and to make representations
+to protect their interests. Furthermore, section 104 empowers the Minister and the Tax Court of Canada to decide whether "a person is or may be affected by the decision or assessment".
+[17] From the close examination of these provisions, it is therefore clear that the right to appeal to the Tax Court of Canada is not limited to the Commission and to the four categories of persons listed in section 93 of the Act. If Parliament had intended to limit the right to appeal to the Tax Court of Canada to the Commission and to the four categories of persons mentioned in subsection 93(1) of the Act it would have been easy to say so. Surely, it must be assumed that Parliament in using very broad terms — a person affected — in section 103 of the Act must have intended to provide a right to appeal to this Court in appropriate cases to additional categories of persons, that is, to categories of persons who do not fall within the four specific classes referred to in section 90 of this Act. Otherwise, Parliament would have used the same language. Also, the words used in subsection 103(1) of the Act "any person affected" by the decision of the Minister should be given their ordinary meaning and should include, for example, any person or entity that is financially affected in a direct way by the eventual decision of the Tax Court of Canada. Furthermore, I am satisfied that the scheme of granting a right to appeal to this Court in certain circumstances to persons who could not request a ruling under section 90 of the Act would not lead to some absurdity or to unintended results.
+[18] In the present case, the Government of the Province of New Brunswick or more particularly the Appellant is directly affected by the eventual decision of the Tax Court of Canada. In effect, it is beyond dispute that the Appellant was in reality the payor. As noted earlier, the Appellant's subsidy was used to purchase home support services to assist Mrs. Violet Sergeant to remain at home.
+[19] I agree that the meaning to be ascribed to the phrase "a person who may be affected" must not be too broad because otherwise unions, social organizations and a number of other people would be given a right to appeal the decision. This is the "floodgate argument". However, the meaning of the above-mentioned phrase should not be restricted to the Canada Employment Insurance Commission and the four categories referred to in section 90 of the Act for the reasons mentioned earlier. In addition, it seems to me that it is not an unnatural extension of the phrase "a person who may be affected" to determine that it encompasses
+the Government entity which supplies all the funds in support of this particular program and pays directly the person requiring the services (or a designated member of the family) who in turn pays the person providing the services.
+[20] I therefore conclude that the Appellant was a person affected on appeal to this Court within the ambit of section 103 of the Act.
+[21] For these reasons, the motion is denied.
+Signed at Ottawa, Canada, this 13th day of February 2003.
+"Alban Garon"
+C.J.T.C.C.
+CITATION:
+2003TCC41
+COURT FILE NO.:
+2001-2915(EI)
+STYLE OF CAUSE:
+The Department of Family and Community Services and
+The Minister of National Revenue
+PLACE OF HEARING
+Fredericton, New Brunswick
+DATE OF HEARING
+December 10, 2002
+REASONS FOR ORDER BY:
+The Honourable Alban Garon
+Chief Judge
+DATE OF ORDER
+February 13, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Cedric L. Haines, Q.C.
+Vicky Smith
+Counsel for the Respondent:
+Dominique Galant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

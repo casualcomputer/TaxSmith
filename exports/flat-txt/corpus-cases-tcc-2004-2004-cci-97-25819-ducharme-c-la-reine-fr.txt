@@ -1,0 +1,125 @@
+Title: Ducharme c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25819/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-97-25819-ducharme-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-02-09
+
+# Ducharme c. La Reine
+
+- Citation: 2004 CCI 97
+- Decision date: 2004-02-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3894, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ducharme c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-09
+Référence neutre
+2004 CCI 97
+Numéro de dossier
+2002-2058(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI97
+Date : 02092004
+Dossier : 2002‑2058(IT)G
+ENTRE :
+JOANNE DUCHARME,
+appelante,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ORDONNANCE MODIFIÉE ET MOTIFS D’ORDONNANCE
+[1] Il s’agit d’une requête présentée en vertu du paragraphe 116(4) des Règles générales par l’avocate de l’intimée à Vancouver en vue d’obtenir une ordonnance :
+(a) rejetant l’appel, l’appelante ayant refusé ou omis de répondre à une question légitime posée dans un interrogatoire écrit,
+(b) demandant à l’appelante de se soumettre à un interrogatoire oral à ses dépens.
+[2] La requête a été présentée à la fin de novembre 2002. Sans le fait des parties, la requête n’a pas été entendue avant le 9 janvier 2004, et l’audition a été ajournée jusqu’au 26 janvier 2004, date à laquelle l’audition s’est déroulée par téléphone.
+[3] Deux raisons ont motivé l’ajournement. Premièrement, la date de l’audition de la requête a été fixée par la cour à la dernière minute et l’avocat de l’appelante, à Prince George en Colombie‑Britannique, n’a pas eu le temps d’obtenir l’affidavit de sa cliente, de Fort St. John en Colombie‑Britannique, à 450 km derrière les montagnes. Deuxièmement, la cour a converti la requête en une requête en vue d’obtenir des réponses, en vertu du paragraphe 116(2).
+[4] L’appel est interjeté à l’encontre de la cotisation de l’appelante en vertu de l’article 160 de la Loi de l’impôt sur le revenu. Les versements hypothécaires de sa maison située à Fort St. John supposément faits par son conjoint de fait, Donald Edward Vienneau, le père de leurs deux enfants, constitueraient des transferts de biens tels que définis à l’article 160 de la Loi de l’impôt sur le revenu. La période des transferts présumés va du 2 janvier 1992 au 2 septembre 1997 (la « Période »), au cours de laquelle il aurait versé 61 878,94 dollars, y compris un paiement de 25 452,94 dollars fait le 2 septembre 1997.
+[5] Les faits présumés de l’intimée 9(i) à 9(n) décrits dans la Réponse sont :
+[trad.]
+i) L’appelante n’a eu aucun revenu d’emploi pour la période du 2 janvier 1992 au 2 septembre 1997;
+j) La juste valeur marchande de la contrepartie donnée par l’appelante pour les paiements faits en son nom était nulle;
+k) Vienneau n’a pas rempli de déclaration de revenus avant 1996, date à laquelle il a présenté les déclarations de revenus pour dix années d’imposition en un seul coup;
+l) Vienneau a déclaré une faillite personnelle le 27 novembre 1998;
+m) Le montant à payer au gouvernement fédéral par Vienneau en impôts, pénalités et intérêts en vertu de la Loi en date du 2 janvier 1992 se chiffrait au minimum à 86 047,28 dollars, réparti comme suit :
+impôt fédéral 54 842,79 $
+intérêts 23 129,04 $
+pénalités 8 075,45 $
+n) Le total des montants que Vienneau avait à payer en vertu de la Loi, pour les années d’imposition au cours desquelles les paiements ont été faits, ou pour toute année d’imposition précédente, était de 564 628,08 dollars au 2 septembre 1997.
+[6] Les paragraphes 9 à 16 inclusivement de l’avis d’appel expliquent en partie la réponse de l’appelante à la cotisation établie en vertu de l’article 160. On peut y lire :
+[trad.]
+9. L’appelante et son conjoint avaient un accord exprès ou tacite selon lequel ce dernier payait certaines dépenses, y compris les versements hypothécaires, en contrepartie partielle des services domestiques et professionnels cités précédemment (les « Services »), fournis par l’appelante.
+10. Les articles 88 et 89 du Family Relations Act, RSBC 1996 modifié, obligent le conjoint à fournir aide et entretien à la famille.
+11. En vertu dudit accord et du Family Relations Act, RSBC 1996 modifié, le conjoint a l’obligation légale de fournir aide et entretien à la famille et est tenu de le faire pour des motifs juridiques.
+12. Le conjoint a fait des paiements au titre de ses obligations en effectuant les versements hypothécaires sur la maison de l’appelante (les « versements hypothécaires »).
+13. Les versements hypothécaires effectués par le conjoint ont été effectués moyennant contrepartie (les Services).
+14. La juste valeur marchande des services dépassait celle des versements hypothécaires.
+15. L’appelante n’encourt pas de responsabilité comme le laisse entendre l’avis de cotisation.
+16. L’appelante invoque le paragraphe 160(1) de la Loi de l’impôt sur le revenu, RSC 1985, modifiée, et les articles 88 et 89 du Family Relations Act, RSBC 1996, modifié.
+[7] L’appelante n’a pas mené d’interrogatoire et n’avait pas l’intention de le faire.
+[8] L’audience sur l’état de l’instance de la cour dans cette affaire, datée du 20 mars 2003, a ordonné que les interrogatoires soient effectués au plus tard le 15 juin 2003. Sans autre ordre de la cour, l’avocate de l’intimée a télécopié les questions dans un interrogatoire écrit à l’avocat de l’appelante le 16 juin 2003, étant donné que, le 15 juin, comme elle l’a fait valoir dans son argumentation, était un dimanche, ce qui lui donnait un jour de plus pour télécopier les questions!
+[9] L’avocat de l’appelante s’est montré des plus courtois à l’endroit de l’avocate de l’intimée. Sa cliente a répondu aux questions et il n’a pas objecté que les questions de l’interrogatoire préalable avaient été posées après la date limite fixée dans l’audience sur l’état de l’instance. Sur la foi de l’affidavit de Maureen James, daté du 20 janvier 2004, la cour trouve que c’est à cause des efforts incessants faits de l’avocat de l’appelante pour que l’affaire soit entendue en dépit de la démarche « tertullienne » de l’avocate de l’intimée tout au long de cet appel (beaucoup de mots, peu de gestes). L’avocate de l’intimée n’a pas demandé de prolongation!
+[10] Les questions de l’avocate de l’intimée contestées le 26 janvier 2004 sont les questions 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16 et 26. En voici l’exposé :
+[trad.]
+[11] Question 4 : Depuis le début de votre relation avec Donald Vienneau, avez‑vous été informée à quelque moment que celui‑ci n’avait pas fait de déclarations de revenus pour les années 1986 à 1996? Si oui, à votre connaissance, quelles sont les circonstances qui pourraient expliquer ce défaut de produire ses déclarations de revenus pour ces années?
+Question 5 : Depuis le début de votre relation avec Donald Vienneau, avez‑vous été informée, à quelque moment, qu’il devait de l’impôt, resté impayé, pour les années 1986 à 1996? Si oui, à votre connaissance, quelles sont les circonstances qui pourraient expliquer ce défaut de payer l’impôt dû pour ces années?
+L’avocate de l’intimée a déclaré que ces questions avaient été réglées de manière satisfaisante lorsque l’avocat de l’appelante a avisé que celle‑ci ne contestait pas le compte d’impôt de M. Vienneau au cours de l’audition de la requête. Cependant, les questions 4 et 5 n’ont rien à voir avec la cotisation de l’appelante et elles sont inopportunes.
+[trad.]
+[12] Question 6 : À votre connaissance, quelles sont les sources de revenu de Donald Vienneau pour les années d’imposition 1985 à 1997?
+Étant donné que l’appelante a soulevé le Family Relations Act, la cotisation s’applique seulement pour la Période et la question est limitée à la connaissance de l’appelante, il est ordonné que celle‑ci réponde à la question reformulée comme suit :
+[trad.]
+Question 6 : À votre connaissance, quels montants de revenu net d’entreprise et de revenu d’emploi Donald Vienneau a‑t‑il reçus chaque année au cours de la Période?
+[trad.]
+[13] Question 7 : À votre connaissance, quelles dépenses ont été payées par Donald Vienneau au cours des années d’imposition 1985 à 1997?
+L’avocate de l’intimée a déclaré que cette question se rapportait aux dépenses du ménage. Pour les raisons exposées au paragraphe [12], il est ordonné que l’appelante réponde à la question reformulée comme suit :
+[trad.]
+Question 7 : À votre connaissance, quels montants d’aide et d’entretien Donald Vienneau a‑t‑il payés chaque année au cours de la Période, en vertu du Family Relations Act?"
+[trad.]
+[14] Question 8 : De 1985 jusqu’à aujourd’hui, quelles ont été vos sources de revenu personnelles?
+Étant donné la plaidoirie de l’appelante fondée sur le Family Relations Act, cette question est reformulée et il est ordonné à l’appelante de répondre à la question suivante :
+[trad.]
+Question 8 : Quel a été votre revenu pour chacune des années de la Période?
+[trad.]
+[15] Question 9 : De 1985 jusqu’à aujourd’hui, avez‑vous eu un emploi? Si oui, à quel endroit et auprès de quel employeur? Quelles ont été vos périodes d’emploi? Quel était votre salaire pour ces périodes d’emploi?
+Étant donné la plaidoirie de l’appelante fondée sur le Family Relations Act, la réponse à cette question devra porter seulement sur la « Période » et non « de 1985 jusqu’à aujourd’hui ». Il en est ainsi ordonné.
+[trad.]
+[16] Question 10 : De 1986 jusqu’à aujourd’hui, quelles dépenses de ménage avez‑vous payées personnellement? Quel était le montant mensuel moyen de ces paiements?
+Question 11 : De 1986 jusqu’à aujourd’hui, quels comptes bancaires avez‑vous tenus, seule ou conjointement avec Donald Vienneau? Où se trouvent ces comptes?
+Étant donné la plaidoirie de l’appelante fondée sur le Family Relations Act, la réponse à ces questions devra porter seulement sur la « Période » et non « de 1986 jusqu’à aujourd’hui ». Il en est ainsi ordonné.
+[17] L’appelante a répondu à la question 12 dans l’avis d’appel (comme l’a admis l’intimée). L’appelante a aussi répondu à la question proprement dite.
+[trad.]
+[18] Question 13 : Quelle est la raison du transfert de biens en votre faveur? Qu’avez‑vous donné en contrepartie de ce transfert?
+Étant donné la plaidoirie de l’appelante fondée sur le Family Relations Act, et parce qu’il arrive souvent qu’un père fasse un cadeau à sa fille (comme c’est le cas pour cette maison) à la condition que la donataire s’occupe d’un autre membre de la famille, la question est accueillie et il est ordonné à l’appelante de répondre.
+[trad.]
+[19] Question 15 : Autre que cette propriété, y a‑t‑il d’autres propriétés à votre nom? Si oui, quelle est la désignation officielle de ces propriétés? Quand ont‑elles été acquises et pour quelles contreparties?
+Dans son argumentation, l’avocate de l’intimée a suggéré que l’appelante réponde concernant les dépenses possibles qu’elle aurait eues. Ce n’est pas dit, ni même suggéré. Ce point n’est pas pertinent dans la cause en litige et la question est inopportune. L’appelante n’a pas à répondre.
+[trad.]
+[20] Question 16 : À la date du transfert, existait‑il une hypothèque sur la propriété? Si oui, auprès de quelle institution financière? Quel était le solde du capital à la date du transfert?
+Cette question ne paraît pas pertinente pour la Période dans le transfert de biens de M. Vienneau à l’appelante durant la Période. L’appelante n’a pas à répondre.
+[trad.]
+[21] Question 26 : Depuis le jour où vous avez commencé votre relation avec Donald Vienneau, avez‑vous appris à un certain moment donné qu’il avait déclaré faillite? Si oui, à votre connaissance, quelles sont les circonstances qui l’y ont conduit? Est‑ce que Donald Vienneau a fait faillite plus d’une fois?
+Cette question ne paraît pas pertinente en regard du transfert de biens de M. Vienneau à l’appelante durant la Période. L’appelante n’a pas à répondre
+[22] À la fin de l’argumentation, la cour, en consultation avec l’avocate, a ordonné ce qui suit :
+1. Que l’appelante réponde par écrit aux questions et qu’elle les retourne à l’avocate de l’intimée le ou avant le 28 février 2004.
+2. Tout engagement découlant de ces questions devra être exécuté le ou avant le 15 mars 2004.
+3. L’audition de cet appel, qui devrait prendre deux jours, commencera le 5 mai 2004 à 9 h 30 à la Cour canadienne de l’impôt a/s Coast Inn of the North, 770, rue Brunswick, Prince George, Colombie‑Britannique.
+[23] Au vu de la date à laquelle ces questions ont été présentées à l’avocat de l’appelante, de la permission accordée par l’appelante et son avocat à l’avocate de l’intimée, du fait que des questions étaient inopportunes ou que d’autres ont dû être reformulées, de la façon dont a été rédigée la requête d’annulation, alors que ce qui était attendu était des réponses, l’intimée paiera à l’appelante les frais de la requête et de l’interrogatoire sous forme de questions, quelle que soit l’issue de la cause. Ces frais sont fixés à 1 000 dollars par la présente ordonnance spécifique (tarif B, procédure de type C). Ces frais sont payables immédiatement.
+Cette ordonnance et motifs de l’ordonnance remplacent l’ordonnance et motifs de l’ordonnance du 29 janvier 2004.
+Signé à Kelowna, Colombie‑Britannique, ce 9e jour de février 2004.
+"D.W. Beaubier"
+Beaubier, J
+Traduction certifiée conforme
+ce 14e jour d’avril 2005.
+Colette Dupuis-Beaulne, traductrice

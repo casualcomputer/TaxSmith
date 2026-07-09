@@ -1,0 +1,193 @@
+---
+title: "Aapex Driving Academy Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29010/index.do"
+last_modified: "2009-01-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 11"
+citation2: ""
+neutral_citation: "2009 CCI 11"
+decision_date: "2009-01-08"
+language: "fr"
+item_id: "29010"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6758
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:18:53.441000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c143511df635f945f156f72679b8e5df1a5ab5e33b5243cab4fc4c5624f8c301"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aapex Driving Academy Ltd. c. La Reine
+
+- Citation: 2009 CCI 11
+- Decision date: 2009-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6758, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aapex Driving Academy Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-08
+Référence neutre
+2009 CCI 11
+Numéro de dossier
+2006-252(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-252(IT)G
+ENTRE :
+AAPEX DRIVING ACADEMY LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 25 février 2008,
+à Toronto (Ontario).
+Devant : L’honorable juge L. M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Jeffrey L. Goldman
+Avocate de l’intimée :
+Me Suzanne M. Bruce
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies à l’égard de l’appelante en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition se terminant le 31 décembre 1998 et le 31 décembre 2000 sont rejetés, sans dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 8e jour de janvier 2009.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme ce 15e jour de juin 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2009CCI11
+Date : 20090108
+Dossier : 2006-252(IT)G
+ENTRE :
+AAPEX DRIVING ACADEMY LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] En 1994, Aapex Driving Academy Ltd. (« Aapex ») a été constituée en personne morale en vertu des lois de la Province de l’Ontario.
+[2] Pendant toute la période en cause, Christine Raby et son frère, Michael Racine, détenaient respectivement 51 % et 49 % des actions ordinaires d’Aapex.
+[3] L’appelante possédait et exploitait une auto‑école qui proposait à ses clients aussi bien des cours en classe que des leçons de conduite sur la route.
+[4] Les cours en classe et les cours de conduite étaient donnés par des moniteurs employés par l’appelante.
+[5] Mme Raby prétend qu’elle était une employée de l’appelante.
+[6] Mme Raby soutient que les sommes suivantes lui ont été versées par l’appelante à titre de salaire (transcription, p. 110, lignes 20 à 21) :
+a) 2000 - 28 000 $;
+b) 2001 - 30 000 $;
+c) 2002 - 0 $.
+[7] Mme Raby a déclaré qu’elle possédait entre 22 et 27 voitures ainsi qu’un camion (les « véhicules ») pendant les années d’imposition en cause.
+[8] Les véhicules ont été enregistrés et immatriculés au nom de Mme Raby (transcription, p. 103, lignes 2 à 5).
+[9] Mme Raby a affirmé qu’elle fournissait les véhicules à l’appelante, qui s’en servait afin d’exploiter son entreprise; les moniteurs les utilisaient pour les cours de conduite.
+[10] Le ministre du Revenu national (le « ministre ») a conclu que Mme Raby facturait à l’appelante des frais d’utilisation des véhicules, calculés en fonction des kilomètres parcourus (les « frais liés aux véhicules »).
+[11] Les frais liés aux véhicules payés pour chacune des années d’imposition 2000, 2001 et 2002 ont été calculés en fonction des taux prescrits par l’article 7306 du Règlement de l’impôt sur le revenu (le « Règlement »).
+[12] À la fin de chaque année d’imposition, l’appelante portait au crédit du compte d’actionnaires, appartenant à Mme Raby et à M. Racine (le « compte d’actionnaires »), le montant des frais liés aux véhicules. Les montants suivants ont été portés au crédit du compte en question pour chacune des années d’imposition en cause :
+a) 2000 - 273 991 $;
+b) 2001 - 343 959 $;
+c) 2002 - 431 946 $.
+[13] Le ministre a conclu que les frais liés aux véhicules qui ont été portés au crédit du compte d’actionnaires ont été répartis à parts égales entre Mme Raby et M. Racine.
+[14] L’appelante payait tous les frais d’exploitation liés à l’utilisation des véhicules, y compris l’essence, l’immatriculation, l’assurance, l’entretien et les réparations, et elle remboursait les prêts contractés pour l’achat des véhicules (les « frais liés à l’utilisation des véhicules »).
+[15] À la fin des années d’imposition 2000, 2001 et 2002, l’appelante a passé une écriture de contrepassation dans ses livres comptables afin d’annuler la plupart des écritures relatives aux frais liés à l’utilisation des véhicules qui avaient été engagés pendant l’année, et ce, en débitant le compte d’actionnaires du montant des frais liés à l’utilisation des véhicules.
+[16] Les frais liés à l’utilisation des véhicules suivants n’ont pas fait l’objet de l’écriture de contrepassation dans les livres comptables de l’appelante (les « frais d’utilisation non ajustés ») :
+a) 2001 - 19 914 $ de frais d’assurance;
+b) 2001 - 34 383 $ de frais d’entretien et de réparation;
+c) 2002 - 7 619 $ représentant les intérêts payés sur les prêts contractés pour l’achat des véhicules
+[17] Mme Raby prétend n’avoir jamais touché sa part des frais liés aux véhicules qui ont été portés au crédit du compte d’actionnaires. En revanche, Mme Raby soutient avoir reçu de l’appelante des paiements comptant hebdomadaires d’environ 580 $ en échange de l’utilisation de ses véhicules (les « paiements comptant »).
+[18] Mme Raby affirme avoir reçu de l’appelante les paiements comptant suivants en échange de l’utilisation de ses véhicules :
+a) 2000 - 31 660 $;
+b) 2001 - 48 010 $;
+c) 2002 - 30 160 $.
+[19] La différence entre les montants portés au débit et au crédit du compte d’actionnaires qui excédait les paiements comptant restait dans ledit compte.
+[20] Dans le calcul de son revenu, l’appelante :
+a) a reporté sur l’année d’imposition 1998 la perte autre qu’une perte en capital de 62 541 $ qu’elle avait enregistrée pour l’année d’imposition 2001;
+b) a reporté sur l’année d’imposition 2000 les pertes autres que des pertes en capital de 17 816 $ et de 33 457 $, qu’elle avait enregistrées pour les années d’imposition 2001 et 2002 respectivement.
+B. LES QUESTIONS EN LITIGE
+[21] Les questions à trancher sont les suivantes :
+a) dans le calcul de son revenu pour l’année d’imposition 1998, l’appelante a‑t‑elle le droit de déduire la perte autre qu’une perte en capital de 62 541 $?
+b) dans le calcul de son revenu pour l’année d’imposition 2000, l’appelante a‑t‑elle le droit de déduire des pertes autres que des pertes en capital de 17 816 $ et de 33 457 $, lesquelles ont été reportées des années d’imposition 2001 et 2002 respectivement?
+C. ANALYSE
+[22] Le ministre a conclu que l’appelante n’avait pas engagé les frais d’utilisation non ajustés de 54 297 $ et de 7 619 $ pour les années d’imposition 2001 et 2002 respectivement.
+[23] Le ministre a également décidé qu’il n’était pas raisonnable de la part de l’appelante de payer des frais liés à l’utilisation des véhicules en sus des frais liés aux véhicules qu’elle a versés à ses actionnaires.
+[24] Le ministre a établi de nouvelles cotisations à l’égard de l’appelante pour les années d’imposition 1998 et 2000, et a réduit le montant des pertes autres que des pertes en capital qui pouvaient être reportées sur ces années.
+[25] Le ministre a établi les nouvelles cotisations et les montants révisés suivants :
+Année d’imposition
+Cotisations établies au titre de l’impôt payable par Aapex
+Pertes déduites à l’origine
+Réduction après application des pertes reportées de 2001 et de 2002
+Perte autre qu’une perte en capital pouvant être reportée sur l’année
+1998
+62 541 $
+36 481 $
+26 060 $
+2000
+51 273 $
+25 435 $
+25 838 $
+[26] Pendant l’audience, ni l’avocat de l’appelante ni l’avocate de l’intimée n’ont présenté d’observations ou d’arguments relatifs aux avis concernant les nouvelles cotisations qui ont été établies à l’égard d’Aapex au titre de l’impôt payable qui sont en cause dans le présent appel.
+[27] Les tribunaux canadiens ont établi qu’il revenait au contribuable de prouver que les nouvelles cotisations sont erronées. Compte tenu de l’absence totale de preuve et d’arguments concernant les pertes autres que des pertes en capital pouvant être reportées sur les années ultérieures ou antérieures, je rejette la position adoptée par l’appelante en l’espèce.
+[28] Les appels sont rejetés, sans dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 8e jour de janvier 2009.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme ce 15e jour de juin 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2009CCI11
+NO DU DOSSIER DE LA COUR :
+2006-252(IT)G
+INTITULÉ :
+Aapex Driving Academy Ltd. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 25 février 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge L. M. Little
+DATE DU JUGEMENT :
+Le 8 janvier 2009
+COMPARUTIONS :
+Avocat des appelantes :
+Me Jeffrey L. Goldman
+Avocate de l’intimée :
+Me Suzanne M. Bruce
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom :
+Me Jeffrey L. Goldman
+Cabinet :
+Jeffrey L. Goldman
+Toronto (Ontario)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

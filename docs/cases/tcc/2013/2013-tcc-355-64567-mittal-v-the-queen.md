@@ -1,0 +1,123 @@
+---
+title: "Mittal v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64567/index.do"
+last_modified: "2013-11-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 355"
+citation2: ""
+neutral_citation: "2013 TCC 355"
+decision_date: "2013-11-04"
+language: "en"
+item_id: "64567"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5943
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:45:36.044000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "74032a1c501b1dd20b97b77a07d658ca9da5a21e570491245165c257b79be3b5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mittal v. The Queen
+
+- Citation: 2013 TCC 355
+- Decision date: 2013-11-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5943, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mittal v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-11-04
+Neutral citation
+2013 TCC 355
+File numbers
+2011-1396(IT)G
+Judges and Taxing Officers
+Barbara Tanasychuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1396(IT)G
+BETWEEN:
+OM P. MITTAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Appellant in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM of $650.00.
+Signed at Toronto, Canada, this 4th day of November 2013.
+"Barbara Tanasychuk"
+Taxing Officer
+Citation: 2013 TCC 355
+Date: 20131104
+Docket: 2011-1396(IT)G
+BETWEEN:
+OM P. MITTAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR TAXATION
+Barbara Tanasychuk, T.O., T.C.C.
+[1] The taxation of costs of the Appellant’s Bills of Costs was held on July 24, 2013, by conference call. It followed a Judgment of the Honourable Justice C. Miller dated November 28, 2012, in which appeals of reassessments made under the Income Tax Act for the 2006 and 2007 taxation years were allowed, with costs. The Appellant represented himself and Mr. Ernesto Caceres represented the Respondent.
+[2] Prior to the parties making their submissions, Mr. Caceres stated that he was not disputing the Appellant’s claim for $250.00 at item 2 of the Bill of Costs on account of the fee for filing the notice of appeal and the amount of $180.00 at item 11 on account of miscellaneous costs. While Mr. Caceres initially consented to Mr. Mittal’s claim for $220.00 for travelling costs at item 10 of the Bill of Costs, he later stated that he was not consenting to the entire amount.
+Appellant’s Submissions
+[3] Mr. Mittal stated that he spent many more hours dealing with his appeal than he has claimed on the Bill of Costs. He further stated that he had a similar appeal before the Court for the 2004 and 2005 taxation years which was settled, but that there was no similar settlement with respect to this appeal for the 2006 and 2007 taxation years.
+[4] Mr. Mittal stated that he was an engineer and he claimed fees for his time at the rate of $110.00 per hour, which is the hourly rate he charges clients for his engineering services. Mr. Mittal further submitted that he was entitled to compensation for the amount of time he spent on this matter over a period of two years and that the costs would have been higher had he retained counsel to represent him.
+Respondent’s Submissions
+[5] Mr. Caceres clarified his position with respect to the $220.00 claimed at item 10 of the Bill of Costs on account of travelling costs. Mr. Caceres stated that he was consenting to the amount of $150.00 for mileage, $35.00 for parking, but not the amount of $35.00 claimed for meals.
+[6] With respect to the fees claimed by Mr. Mittal, Mr. Caceres stated that the Judgment of the Court of November 28, 2012 awarded costs to the Appellant, but did not include specific directions to the Taxing Officer pursuant to Rule 147(6) Tax Court of Canada Rules (General Procedure) (the “Rules”). Mr. Caceres further stated that Rule 147(7) allows a party to make an application for directions to be given to the Taxing Officer, but Mr. Mittal made no such application.
+[7] Mr. Cacares submitted that Mr. Mittal was a self-represented party and not “counsel”as defined in Section 2 of the Rules and subsection 17.1(2) of the Tax Court of Canada Act (the “Act”). As a result, Mr. Caceres stated that a self-represented party was not entitled to recover any amount for fees pursuant to Schedule II, Tariff B of the Rules.
+Appellant’s Reply
+[8] In response to Mr. Cacares’ submissions, Mr. Mittal admitted that he did not make an application to the Court for directions to the Taxing Officer pursuant to Rule 147(7), but that consideration should be given to the amount of time he spent on this matter.
+Decision
+[9] The Bill of Costs before me in the amount of $12,530.00 includes a claim for fees in the amount of $11,880.00 for 34 hours of Mr. Mittal’s time calculated at the rate of $110.00 per hour, plus disbursements in the amount of $650.00. The parties disagree as to whether Mr. Mittal is entitled to recover any amount for his time.
+[10] In determining whether Mr. Mittal is entitled to recover any amount for his time, I have reviewed the Rules with respect to costs. Pursuant to Rule 147(4):
+The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+The Judgment in this matter did not fix an amount of costs.
+[11] Pursuant to Rule 147(6):
+The Court may give directions to the taxing officer and, without limiting the generality of the foregoing, the Court in any particular proceeding may give directions:
+(a) respecting increases over the amounts specified for the items in Schedule II, Tariff B,
+(b) respecting services rendered or disbursements incurred that are not included in Schedule II, Tariff B, and
+(c) to permit the taxing officer to consider factors other than those specified in section 154 when the costs are taxed.
+The Judgment in this matter did not include any directions to the Taxing Officer.
+[12] In the absence of a direction from the Court to the Taxing Officer, the costs must be taxed pursuant to Rule 154 which states:
+Where party and party costs are to be taxed, the taxing officer shall tax and allow the costs in accordance with Schedule II, Tariff B and the officer shall consider,
+(a) the amounts in issue,
+(b) the importance of the issues,
+(c) the complexity of the issues,
+(d) the volume of work, and
+(e) any other matter that the Court has directed the taxing officer to consider.
+[13] Schedule II, Tariff B sets out the amounts which may be allowed for the services of counsel. “Counsel” is defined in section 2 of the Rules as:
+Every person who by virtue of subsection 17.1(2) of the Act, may practise in the Court.
+Subsection 17.1(2) of the Act states:
+Every person who may practise as a barrister, advocate, attorney or solicitor in any of the provinces may so practise in the Court and is an officer of the Court.
+[14] Mr. Mittal does not fall within the definition of “counsel” as set out above. Mr. Mittal represented himself in this proceeding and he is not entitled to recover fees for his time. While I have no doubt that Mr. Mittal spent many hours pursuing his appeal, the Rules of the Court do not permit me, as a Taxing Officer, to allow any amount for his time. As a result, the amount claimed for fees in the amount of $11,880.00 is disallowed.
+[15] While I have found that I cannot allow Mr. Mittal fees for his time, he is entitled to recover disbursements. The Bill of Costs included a claim for disbursements in the amount of $650.00, which amount included $250.00 for the fee paid to file the notice of appeal, $220.00 for travel expenses, which included $35.00 for meals and $180.00 for other miscellaneous costs. Mr. Caceres consented to the disbursements claimed, with the exception of $35.00 for meals. I do not find the $35.00 claimed for meals to be unreasonable. Mr. Mittal made several trips from his home to the Court and to Mr. Caceres’ office, which are both in downtown Toronto. I have no doubt that Mr. Mittal would have incurred expenses for meals on some of these trips downtown and I will allow the amount claimed for meals. The full amount claimed for disbursements of $650.00 is allowed.
+[16] The Bill of Costs of the Appellant is taxed and $650.00 is allowed.
+Signed at Toronto, Canada, this 4th day of November 2013.
+"Barbara Tanasychuk"
+Taxing Officer

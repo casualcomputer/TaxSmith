@@ -1,0 +1,177 @@
+Title: Tomaszewski v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26353/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-719-26353-tomaszewski-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-12-05
+
+# Tomaszewski v. The Queen
+
+- Citation: 2003 TCC 719
+- Decision date: 2003-12-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3366, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tomaszewski v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-05
+Neutral citation
+2003 TCC 719
+File numbers
+2002-4383(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4383(IT)G
+BETWEEN:
+M.W. TOMASZEWSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard together with the motion of M.W. Tomaszewski (2002-4385(IT)I) on September 24, 2003 at Vancouver, British Columbia
+By: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Eric Douglas
+____________________________________________________________________
+ORDER
+UPON motion by the Respondent for an Order quashing appeal number 2000-4383(IT)G, or alternatively, for an Order extending the time for filing the Respondent's Reply to the Notice of Appeal and consolidating this appeal with appeal number 2002-4385(IT)I;
+AND UPON reading the material filed, including the affidavits of Tom Chang and Ron Datta;
+AND UPON hearing the Appellant and counsel for the Respondent;
+IT IS ORDERED that:
+1. The Respondent's motion to consolidate this appeal with appeal number 2002-4385(IT)I is dismissed;
+2. The Respondent's motion to quash the appeal is dismissed, without costs; and
+3. The Respondent shall have 60 days from the date of this Order in which to file a Reply to the Notice of Appeal.
+Signed at Ottawa, Canada, this 5th day of December, 2003.
+"J.M. Woods"
+J.M. Woods J.
+Docket: 2002-4385(IT)I
+BETWEEN:
+M.W. TOMASZEWSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard together with the motion of M.W. Tomaszewski (2002-4383(IT)G) on September 24, 2003 at Vancouver, British Columbia
+By: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Eric Douglas
+____________________________________________________________________
+ORDER
+UPON motion by the Respondent for an Order quashing appeal number 2000-4385(IT)I, or alternatively, for an Order extending the time for filing the Respondent's Reply to the Notice of Appeal and consolidating this appeal with appeal number 2002-4383(IT)G;
+AND UPON reading the material filed, including the affidavits of Tom Chang and Ron Datta;
+AND UPON hearing the Appellant and counsel for the Respondent;
+IT IS ORDERED that:
+1. The Respondent's motion to consolidate this appeal with appeal number 2002-4383(IT)G is dismissed;
+2. The Respondent's motion to quash the appeal is dismissed, without costs; and
+3. The Respondent shall have 60 days from the date of this Order in which to file a Reply to the Notice of Appeal.
+Signed at Ottawa, Canada, this 5th day of December, 2003.
+"J.M. Woods"
+J.M. Woods J.
+Citation: 2003TCC719
+Date: 20031205
+Docket: 2002-4383(IT)G
+BETWEEN:
+M.W. TOMASZEWSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2002-4385(IT)I
+BETWEEN:
+M.W. TOMASZEWSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+[1] In this motion, the Crown seeks an order quashing appeals filed by Max Tomaszewski on the ground that the appeals were instituted several years beyond the time limit in subsection 169(1) of the Income Tax Act. Mr. Tomaszewski responded to the motion by submitting that the appeals were not out of time because notices of reassessment were never mailed to him.
+[2] The Crown submits that notices of reassessment were mailed to Mr. Tomaszewski. In the alternative, the Crown suggests that, if the notices were not mailed but communicated in some other fashion, the appeals would still be out of time even though the statute bar period in subsection 169(1) runs from the date of mailing. This argument was based on an alleged inconsistency in the wording of subsections 169(1) and 165(3).
+Facts
+[3]The Minister of National Revenue issued notices of reassessment dated November 22, 1996 in respect of Mr. Tomaszewski's 1992, 1993, 1994 and 1995 taxation years. Notices of Objection to these reassessments were duly filed and, on August 22, 1997, the Minister issued further notices of reassessment in respect of the 1993, 1994 and 1995 taxation years and a notice of confirmation for the 1992 taxation year (collectively, the Notices).
+[4] According to Mr. Tomaszewski, neither he, nor the accounting firm that normally received his tax correspondence, received the Notices. However, he knew of an outstanding tax assessment and, at first, did not intend to appeal because the arrears were not large. For a period of time he attempted to work out a satisfactory arrangement for payment with the collections department at the Canada Customs and Revenue Agency. Eventually, the collections department began more aggressive collection action by seeking payment from third parties. As a result, Mr. Tomaszewski decided to investigate whether it was still possible to appeal the reassessments even though several years had elapsed. He concluded that it was possible to appeal because he had never received the Notices. Accordingly, on November 4, 2002 Mr. Tomaszewski filed notices of appeal in respect of the August 22, 1997 Notices.
+[5] The Crown took the position that the Notices had been mailed on August 22, 1997 and submitted in support affidavits of a collections officer and a tax litigation officer. The affidavits of the collections officer were introduced to establish that Mr. Tomaszewski was aware of the outstanding tax liability. An excerpt from those affidavits reads:
+On 3 September 2002, during a phone call I received from Mr. Tomaszewski, he inquired about a Notice of Objection that was filed in 1997 and was denied. He further questioned me regarding whether he could appeal that denial.
+The affidavits of the tax litigation officer were introduced to establish that the Notices were mailed. The relevant part of these affidavits reads:
+2. I have charge of the appropriate records of the Agency and have knowledge of its practises. ...
+5. My examination of the Agency's records shows that further Notices of Reassessment for the 1993 and 1994 taxation years were mailed or otherwise communicated to the Appellant on August 22, 1997 …
+7. At the time that the Appellant's Notices of Objection were being considered by the Agency, it was the policy of the Agency to mail out a Notice of Confirmation on the same date that any related Notices of Reassessment were sent out in situations where a taxpayer had filed Objections to more than one taxation year.
+(italics added)
+[6] The CCRA tax litigation officer also testified in person. He explained that his knowledge about the Notices was derived from the CCRA's mainframe computer which was the only available source of information about the reassessments. Notwithstanding that his affidavits state that the Notices were "mailed or otherwise communicated," he stated that he believed they were mailed. This was based on a reference in the computer to a "RAP" date of August 22, 1997. The officer referred to the RAP date as a reassessment date. He acknowledged that there was no specific reference in the computer record to a mailing date but he explained "RAP" date as follows:
+... what they call the "RAP" date ... that would be the date that would show up on the computer system, and that is our assumption that this is the date that the reassessment had been mailed out on.
+[7] When the officer was asked if he was familiar with how confirmations and reassessments were mailed, he stated that he was familiar with the mailing of confirmations because he once worked in that department. However, he was not familiar with the mailing of reassessments. In this regard he stated:
+The reassessments are computer generated, and my assumption is that they're mailed out by ordinary mail, as far as I can tell. I've never seen the actual computer reassessment being generated and mailed out. I'm not sure how that procedure works.
+Statutory Provisions
+Subsection 165(3) of the Act provides:
+(3) On receipt of a notice of objection under this section, the Minister shall, with all due dispatch, reconsider the assessment and vacate, confirm or vary the assessment or reassess, and shall thereupon notify the taxpayer in writing of the Minister's action.
+(italics added)
+Subsection 169(1) of the Act provides:
+(1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada …
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+(italics added)
+Analysis
+[8] In order to succeed on this motion, the Crown has the onus of establishing that notices of appeal were not filed, as required by subsection 169(1), within 90 days from the day the Notices were "mailed to the taxpayer under section 165." If the Notices were not "mailed under section 165," Mr. Tomaszewski is entitled to appeal to the Tax Court of Canada notwithstanding the lengthy delay.
+Interpretation of mailed
+[9] The Crown suggests that the affidavits of the tax litigation officer are sufficient proof that the Notices were mailed on August 22, 1997. One difficulty with this suggestion is that the affidavits don't state that the notices of reassessment were mailed. The phrase used in the affidavits is "mailed or otherwise communicated."[1] In response to this difficulty the Crown suggests that the time period in subsection 169(1) should start to run from the time a notice of reassessment is communicated and that the word "mailed" in subsection 169(1) should be interpreted accordingly. It is suggested this interpretation is required in order that the 90 day limitation period start to run when the Minister has fulfilled the duty imposed on him by subsection 165(3) to notify the taxpayer in writing. I find that it is not necessary to decide this issue because I am not satisfied, based on the evidence as a whole, that the Notices were either mailed or otherwise sent to Mr. Tomaszewski.
+Proof of mailing
+[10] In order for the Crown to establish that notices of assessment are mailed, it is not necessary to produce a witness with a first hand recollection. However, some knowledge of mailing procedures is necessary. Bowman J. (as he then was) discussed the type of evidence required in Schafer v. The Queen:[2]
+In a large organization, such as a government department, a law or accounting firm or a corporation, where many pieces of mail are sent out every day it is virtually impossible to find a witness who can swear that he or she put an envelope addressed to a particular person to the post office. The best that can be done is to set out in detail the procedures followed, such as addressing the envelopes, putting mail in them, taking them to the mail room and delivering the mail to the post office.
+A similar view was recently expressed by Rothstein J.A. in Kovacevic v. The Queen:[3]
+I accept that when legislation requires that documents be sent by a large organization such as a government department by ordinary mail, but does not require registered or certified mail or evidence of a more formal means of sending, the observation of Bowman J. in Schafer is reasonable. Generally it would be sufficient to set out in an affidavit, from the last individual in authority who dealt with the documents before it entered the normal mailing procedures of the office, what those procedures were.
+[11] By virtue of subsection 244(10), the affidavits of the tax litigation officer are evidence of the statements contained therein. They should be taken into account along with the officer's oral testimony. As for the mailing of these Notices, the officer had no personal knowledge. His involvement with this matter was to assist in the litigation process, not the reassessment process. As for CCRA mailing procedures in general, the officer stated that he assumed that the RAP date referenced in the computer record is the date that notices of reassessment are mailed out. However, he had no knowledge of the CCRA's practises regarding the mailing of reassessments and he did not explain what his assumption was based on. Based on his evidence as a whole, I am not satisfied that he understood what the reference to "RAP" date meant. Accordingly there is not sufficient evidence for me to conclude that the notices of reassessment for the 1993, 1994 and 1995 taxation years were mailed or otherwise sent on August 22, 1997, or sent at all.
+[12] As for the notice of confirmation for the 1992 taxation year, the Crown similarly has failed to establish that it was mailed or otherwise sent to Mr. Tomaszewski. The tax litigation officer stated that, under the CCRA's usual procedures, notices of confirmation are sent by registered mail at the same time that notices of reassessment are mailed. Since the mailing of the notices of reassessment for the 1993, 1994 and 1995 taxation years has not been proven, the mailing of the notice of confirmation for the 1992 taxation year similarly has not been proven.
+[13] The Crown also suggests that the fact that Mr. Tomaszewski acknowledged a tax debt in dealing with the collections department implies that the Notices had been mailed. The collections officer stated in his affidavits that Mr. Tomaszewski knew that his Notices of Objection had been denied. This does not establish that Mr. Tomaszewski had received the Notices and certainly is not evidence of mailing. The Crown's argument was considered, and rejected, by the Federal Court of Appeal in Aztec Industries Inc. v. The Queen.[4] Hugessen J.A. stated:
+Knowledge of the fact that the Minister was asserting a claim, and payment of a portion therefore by or on behalf of the taxpayer does not constitute evidence of the existence or the mailing of notices of assessment.
+[14] The evidence of mailing on this motion is insufficient to establish that the Notices were mailed or otherwise sent to Mr. Tomaszewski or his authorized agent. The motion to quash the appeals is dismissed. The Respondent will have 60 days from the date of the order in which to file a Reply to each Notice of Appeal.
+Signed at Ottawa, Canada, this 5th day of December, 2003.
+"J.M. Woods"
+J.M. Woods J.
+CITATION:
+2003TCC719
+COURT FILE NOS.:
+2002-4383(IT)G
+2002-4385(IT)I
+STYLE OF CAUSE:
+M.W. Tomaszewski v. The Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 24, 2003
+REASONS FOR ORDER BY:
+The Honourable Justice J.M. Woods
+DATE OF ORDER:
+December 5, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Eric Douglas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This phrase appears to have been taken from subsection 244(1) which permits the use of affidavits as evidence of mailing.
+[2] [1998] G.S.T.C. 60 (T.C.C.).
+[3] [2003] F.C.J. No. 1044 (F.C.A.).
+[4] 95 DTC 5235 (F.C.A.).

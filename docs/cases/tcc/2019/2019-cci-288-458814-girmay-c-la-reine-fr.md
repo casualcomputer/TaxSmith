@@ -1,0 +1,155 @@
+---
+title: "Girmay c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/458814/index.do"
+last_modified: "2019-12-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 288"
+citation2: ""
+neutral_citation: "2019 CCI 288"
+decision_date: "2019-12-27"
+language: "fr"
+item_id: "458814"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4268
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:03:51.388000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f8bd73e771fd495777a8acafaac968dc92843bcb3b35d453e409360740e6acd7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Girmay c. La Reine
+
+- Citation: 2019 CCI 288
+- Decision date: 2019-12-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4268, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Girmay c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-12-27
+Référence neutre
+2019 CCI 288
+Numéro de dossier
+2016-4414(IT)I
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-4414(IT)I
+ENTRE :
+LEMLEM GIRMAY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 1er novembre 2019, à Toronto (Ontario)
+Devant : L’honorable juge Ronald MacPhee
+Comparutions :
+Représentant de l’appelante :
+Teshome Gislaslie
+Avocats de l’intimée :
+Me Matthew Turnell
+Me Priya Bains
+JUGEMENT
+La requête de l’intimée en vue d’annuler le présent appel est accueillie.
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 de l’appelante est rejeté.
+Signé à Ottawa (Ontario) ce 27e jour de décembre 2019.
+« R. MacPhee »
+Le juge MacPhee
+Référence : 2019 CCI 288
+Date : 20191227
+Dossier : 2016-4414(IT)I
+ENTRE :
+LEMLEM GIRMAY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge MacPhee
+[1] L’appelante a interjeté appel à l’encontre de la nouvelle cotisation établie par le ministre du Revenu national (le ministre) pour l’année d’imposition 2011. L’appelante conteste le refus par le ministre de lui accorder des crédits d’impôt pour dons de bienfaisance en application de l’article 118.1 de la Loi de l’impôt sur le revenu (la Loi). Plus précisément, pour l’année d’imposition 2011, les montants des dons que l’appelante allègue avoir versés s’élèvent à 5 000 $ en espèces et à 27 500 $ en nature.
+[2] Lors de l’audience, l’intimée a indiqué que les années d’imposition 2006, 2007 2008, 2009, 2010, 2011 et 2012 étaient pertinentes dans le contexte du présent appel.
+[3] Entre les années d’imposition 2006 et 2012, l’appelante, dans ses déclarations auprès de l’Agence du revenu du Canada (Agence), a déclaré avoir versé des dons de bienfaisance d’un montant total de 186 673 $. Le détail de ce montant figure à l’annexe A du présent jugement. Les dons de bienfaisance allégués découlent de la participation de l’appelante au programme Global Learning Gifting Initiative (programme Global). Le programme Global a démarré en octobre 2004 et est inscrit à titre d’abri fiscal dans le but de réunir des fonds au profit de deux organismes de bienfaisance canadiens.
+QUESTIONS EN LITIGE
+[4] Les questions en litige soulevées dans le présent appel sont les suivantes :
+Premièrement, il s’agit de savoir si l’appel portant sur l’année d’imposition 2011 relève de la compétence de la Cour. L’intimée allègue que l’appelante n’a pas déposé d’avis d’opposition valide concernant l’année en question et que, par conséquent, l’appel doit être annulé.
+Deuxièmement, si je conclus que l’appel dont la Cour canadienne de l’impôt a été saisie relève de sa compétence, il s’agit de savoir si l’appelante a fait un don, quelle qu’en soit la somme, au cours de l’année d’imposition 2011 du fait de sa participation au programme Global.
+EXPOSÉ DES FAITS
+[5] En présence de son représentant, l’appelante a choisi de ne pas présenter d’éléments de preuve lors de l’audience, et ce, malgré le fait que j’aie indiqué aux deux parties que je prévoyais, d’une part, de ne pas prendre tout de suite de décision quant à la requête de l’intimée visant à savoir si l’appel de l’appelante devait être annulé et, d’autre part, de porter l’affaire en justice. Par conséquent, je ne peux me fonder que sur les éléments de preuve présentés par l’intimée.
+[6] L’intimée a déposé un affidavit d’un employé de l’Agence, M. Warren O’Dwyer. Les éléments de preuve de M. O’Dwyer étaient les suivants :
+Le ministre a établi un avis de cotisation relatif à l’année d’imposition 2011 de l’appelante le 14 mai 2012.
+Le ministre a établi un avis de nouvelle cotisation relatif à l’année d’imposition 2011 de l’appelante le 4 novembre 2013.
+En date du 2 février 2014, l’appelante n’avait présenté aucun avis d’opposition.
+L’appelante a déposé un avis d’opposition le 4 février 2014.
+Le 14 février 2014, le chef des appels a envoyé à l’appelante une lettre l’informant que l’avis d’opposition déposé pour l’année d’imposition 2011 avait été déposé tardivement. Cette lettre informait l’appelante qu’elle pouvait demander une prorogation du délai afin de déposer une opposition.
+L’appelante n’a jamais demandé de prorogation du délai pour déposer son opposition.
+[7] Pour fixer l’impôt à payer de l’appelante, le ministre s’est fondé sur trois cent une hypothèses, formulées dans l’avis de réponse déposé par l’intimée. L’appelante n’a contesté aucune de ces hypothèses.
+DISCUSSION
+[8] La façon officielle d’interjeter appel administratif à l’encontre d’une cotisation ou d’une nouvelle cotisation établie par le ministre consiste à signifier un avis d’opposition, en application de l’article 165 de la Loi. Pour y arriver, il convient de signifier son opposition par écrit au ministre, en présentant les motifs de cette opposition ainsi que les faits pertinents.
+[9] Le calcul permettant de déterminer le délai imparti pour déposer une opposition n’est pas précisé dans la Loi. Cependant, des dispositions à cet égard figurent dans la Loi d’interprétation [1] .
+[10] Le paragraphe 27(5) de la Loi d’interprétation énonce que, lorsqu’une action doit être effectuée dans un délai imparti à partir d’une date précise, ce délai n’inclut pas la date de début. Dans le cas de figure qui se présente à nous, la date à laquelle l’avis de confirmation a été envoyé n’est donc pas incluse dans le délai. Par conséquent, le décompte de 90 jours commence le 5 novembre 2013.
+[11] La date butoir à laquelle l’appelante devait envoyer son avis d’opposition était le 2 février 2014. L’appelante a déposé un avis d’opposition seulement deux jours après la date butoir. Cependant, les conséquences de ce retard sont importantes. Le ministre n’accepte pas les oppositions déposées tardivement, même un ou deux jours après la date butoir.
+[12] L’appelante avait la possibilité, en application de l’article 166.1 de la Loi, de demander au ministre de proroger le délai pour signifier l’avis d’opposition. Le ministre en a informé l’appelante dans une lettre adressée par l’Agence datée du 14 février 2014. Pour des raisons qui n’ont pas été expliquées à la Cour, l’appelante n’a pas fait le nécessaire pour remédier à cette erreur. Elle a déposé un avis d’appel concernant la présente affaire le 10 novembre 2016.
+[13] En conséquence, l’appelante comparaît donc devant la Cour canadienne de l’impôt sans avoir déposé l’avis d’opposition prescrit à l’article 165 de la Loi. La loi est claire sur ce point. Le droit d’appel de la cotisation d’un contribuable en application de la Loi est énoncé au paragraphe 169(1). Conformément au paragraphe 169(1) de la Loi, le contribuable peut interjeter appel auprès de la Cour canadienne de l’impôt uniquement s’il a signifié un avis d’opposition, conformément à l’article 165 de la Loi. L’appelante n’a pas satisfait à cette exigence. Par conséquent, son appel ne peut pas être entendu par la Cour et doit être annulé.
+[14] Même si l’appelante avait déposé un avis d’appel valide aux termes du paragraphe 169(1) de la Loi, j’aurais rejeté l’appel. L’appelante s’est présentée devant la Cour sans manifester l’intention de présenter des éléments de preuve ou de présenter des observations relatives aux questions en litige. De ce fait, je dois rejeter l’appel.
+[15] L’appel est annulé.
+Signé à Ottawa, Canada, ce 27e jour de décembre 2019.
+« R. MacPhee »
+Le juge MacPhee
+RÉFÉRENCE :
+2019 CCI 288
+NO DU DOSSIER DE LA COUR :
+2016-4414(IT)I
+INTITULÉ :
+LEMLEM GIRMAY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 1er novembre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Ronald MacPhee
+DATE DU JUGEMENT :
+Le 27 décembre 2019
+COMPARUTIONS :
+Représentant de l’appelante :
+Teshome Geslaslie
+Avocats de l’intimée :
+Me Matthew Turnell
+Me Priya Bains
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Loi d’interprétation, L.R.C. (1985), ch. I-21.

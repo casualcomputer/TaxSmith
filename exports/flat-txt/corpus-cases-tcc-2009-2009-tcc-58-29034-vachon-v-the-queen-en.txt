@@ -1,0 +1,90 @@
+Title: Vachon v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29034/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-58-29034-vachon-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-02-06
+
+# Vachon v. The Queen
+
+- Citation: 2009 TCC 58
+- Decision date: 2009-02-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6843, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vachon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-06
+Neutral citation
+2009 TCC 58
+File numbers
+2007-3262(GST)I
+Judges and Taxing Officers
+Alan Ritchie
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-3262(GST)I
+BETWEEN:
+PIERRE-LUC VACHON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Appellant in the proceeding under the authority of subsection 12(1) of the Tax Court of Canada Rules of Procedure Respecting the Excise Act (Informal Procedure) and I ALLOW THE SUM OF $3,305.51.
+Signed at Ottawa, Canada, this 27th day of January 2009.
+"Alan Ritchie"
+Taxing Officer
+Translation certified true
+on this 27th day of April 2009.
+Bella Lewkowicz, Translator
+Citation: 2009TCC58: COR1.DOC
+Date: 20090206
+Docket: 2007-3262(GST)I
+BETWEEN:
+PIERRE-LUC VACHON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR TAXATION
+Alan Ritchie, T.O., T.C.C.
+[1] This matter came on for hearing by way of a telephone conference call on Friday, December 5, 2008. It follows a Judgment of the Honourable Justice Jorré of this Court rendered from the Bench on July 25, 2008, allowing the appeal, with costs.
+[2] The Appellant was represented by Bernard Roy, and the Respondent by Danny Galarneau.
+[3] A Bill of Costs in the amount of $4,819.61 was submitted by the Appellant. This was reduced at the taxation by $100 as the Registry had reimbursed the Appellant his filing fee. It was increased by counsel for the Appellant in the amount of $75.00 for an additional day for the presence of one of his witnesses, and an additional half day of fees for attendance for the delivery of the judgment from the bench. Counsel for the Respondent consented only to the fees as claimed in the original Bill of Costs submitted – for a total of $1,995.
+[4] I will deal with the issues in dispute in the most logical manner possible.
+[5] A major issue concerns the position taken by Galarneau, Counsel for the Respondent with respect to disbursements. The Honourable Justice Jorré, in his written reasons for judgment dated August 15, 2008, stated the following with respect to costs:
+[TRANSLATION]
+Accordingly, the appeals for assessments made pursuant to the Excise Tax Act, for which the notices are dated April 13, 2006 bearing the numbers PQ-2006-8800 and PQ‑2006-8796 are allowed with costs, in accordance with the tariff in section 10 of the Tax Court of Canada Rules (Informal Procedure) pursuant to the Excise Tax Act
+…
+Counsel for the Respondent took the position that the Court specifically referred to section 10 of the Rules, which only covers fees for the services of counsel. Disbursements are covered by sections 10.1 and 10.2, and therefore should not be allowed.
+[6] Technically, I would agree with Counsel for the Respondent. Sections 10.1 and 10.2 are sections unto themselves and not subsections of section 10. However, I cannot conceive of any reason that the Court would intend for the Appellant to be entitled solely to fees, and not disbursements. In the interest of equity, I take the position that the Honourable Court unknowingly referred specifically to section 10, when it actually intended to allow costs under sections 10, 10.1 and 10.2. Disbursements will therefore be taxed.
+[7] Counsel for the Appellant had claimed 4 half days for the conduct of the hearing; the hearing was held over two full days, July 21 and 22. The parties were then instructed to appear on July 25 for the delivery of the decision from the bench. They did so, for 50 minutes beginning at 2:00 p.m. Counsel for the Appellant sought to claim an additional half a day for “conduct of the hearing”. Counsel for the Respondent objected, noting that the rendering of the decision does not form part of the hearing proper.
+[8] I agree with Counsel for the Respondent. According to the Minutes of Hearing, the hearing itself concluded on July 22, the Court reserved judgment and then convened the parties thereafter to render its decision. I will disallow the additional half day claimed.
+[9] The Appellant claimed witness fees and travel expenses for the appearance of the Appellant himself, as well as his father Germain Vachon. The Respondent served the Appellant with a subpoena in order to ensure that he produced certain documents at the hearing. The Rules at subsection 11(1) indicate that witnesses will be paid by “the party who arranged for his or her attendance” – in this case the Respondent. Mr. Galarneau indicated at the taxation that he had paid this witness, and I do not see where counsel for the Appellant could be seeking reimbursement for amounts not paid or expenses not incurred by his client. The total amount of $116.82 claimed for the appearance of the Appellant as a witness is struck off.
+[10] Regarding Germain Vachon, Counsel for the Respondent indicated he had paid the witness fee and that the Appellant should in no way be entitled to reimbursement for the same reasons cited above. I agree, and the total amount claimed of $116.82 is struck off. The claim for an additional day of witness fees is therefore moot.
+[11] Two claims were made for disbursements made by the Appellant prior to the Notice of Appeal in this matter being filed, for a total of $1,180.46. There is no need to discuss them in detail here, as these are generally not proper claims at taxation and are therefore struck off. Section 10.2 of the Rules outlines proper disbursements “…essential for the conduct of the appeal…”. The case law on this point is clear that disbursements made prior to the filing of the Notice of Appeal are only to be allowed in exceptional circumstances, and then only if it can be demonstrated that they were indeed essential for the conduct of the appeal. I do not believe that is the case in this instance, and that the disbursements were simply expenses incurred in the conduct of the Appellant’s business.
+[12] The final item at issue is an amount of $1,310.51 in taxes owing or paid on the counsel fees for the services charged by Mr. Roy for the conduct of the appeal before this Court on behalf of the Appellant. As supporting documentation, an invoice from Mr. Roy to the Appellant dated August 1, 2008, outlines fees owing in the amount of $10,062.50 and related GST in the amount of $508.94 and QST in the amount of $801.57.
+[13] Counsel for the Respondent questioned this claim. He noted that the total amount at issue in the appeal was approximately $6,000 and for Mr. Roy to have charged his client over $10,000 is excessive. In any event, he wanted to ensure the Appellant demonstrated that these amounts were actually paid and that no charges were related to an almost identical appeal by the same client that would be going forward in the Court of Quebec.
+[14] Following the Taxation hearing, I wrote to Mr. Roy and asked him to produce an affidavit of disbursements including relevant extracts from the billing system used by his firm regarding Mr. Vachon’s appeal before this Court.
+[15] Mr. Roy replied by way of a letter, attaching the details of the account for his client Mr. Vachon. The charges relating to work done for the matter before this Court were highlighted; those relating to the matter before the provincial court were not.
+[16] Perhaps in lieu of an affidavit, which I had clearly requested of him, Mr. Roy stated in his letter that [TRANSLATION] “…I confirm under the oath of my office that the total amount incurred for this file, for just the work done on this file, for the Tax Court of Canada, is ten thousand two hundred and twelve dollars and fifty cents”.
+[17] Subsection 10.2(2) reads:
+(2) There may be allowed all services, sales, use or consumption taxes and other like taxes paid or payable on any counsel fees and disbursements allowed if it is established that such taxes have been paid or are payable and are not otherwise reimbursed or reimbursable in any manner whatever, including, without restriction, by means of claims for input tax credits in respect of such taxes.
+[18] Although I might formulate my own opinion regarding the amount Mr. Roy charged to his client in this matter, it is of no consequence here. And although an affidavit was not provided as requested, given what was produced I am on balance satisfied that the counsel fees are payable, even if not yet paid, and therefore the related amounts for GST and QST are as well. I will allow the amount of $1,310.51 claimed on the Bill of Costs.
+[19] The Appellant’s Revised Bill of Costs in the amount of $4,794.61 is taxed, and $3,305.51 is allowed.
+Signed at Ottawa, Canada, this 6th day of February 2009.
+"Alan Ritchie"
+Taxing Officer
+Translation certified true
+on this 27th day of April 2009.
+Bella Lewkowicz, Translator

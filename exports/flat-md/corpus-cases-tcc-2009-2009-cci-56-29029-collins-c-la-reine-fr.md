@@ -1,0 +1,348 @@
+---
+title: "Collins c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29029/index.do"
+last_modified: "2009-01-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 56"
+citation2: ""
+neutral_citation: "2009 CCI 56"
+decision_date: "2009-01-23"
+language: "fr"
+item_id: "29029"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6838
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:16:04.740000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "04e5a651912f913a006858945c3735f2b27d4685dcb83493c04bcbd025856335"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Collins c. La Reine
+
+- Citation: 2009 CCI 56
+- Decision date: 2009-01-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6838, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Collins c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-23
+Référence neutre
+2009 CCI 56
+Numéro de dossier
+2001-2844(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-2844(IT)G
+ENTRE :
+EUGENE COLLINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Fleurette Collins, 2001-2845(IT)G, le 2 avril 2008, à Calgary (Alberta).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelant :
+Me Jehad Haymour
+Avocat de l’intimée :
+Me Mark Heseltine
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1993, 1994, 1995 et 1996 sont accueillis uniquement compte tenu de ce que l’intimée a admis, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+Les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 23e jour de janvier 2009.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 17e jour de juin 2009.
+François Brunet, réviseur
+Référence : 2009CCI56
+Date : 20090123
+Dossier : 2001-2844(IT)G
+ENTRE :
+EUGENE COLLINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2001-2845(IT)G
+ET ENTRE :
+FLEURETTE COLLINS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Les présents appels ont été entendus sur preuve commune; la Cour est uniquement appelée à se prononcer sur la question de savoir si, au cours des années d’imposition 1994, 1995 et 1996, les appelants pouvaient chacun déduire des frais d’intérêt s’élevant à 77 186 $, à 80 127 $ et à 84 391 $ respectivement. J’appellerai ces montants les « intérêts ».
+[2] La preuve, dans les présents appels, était composée d’un exposé conjoint des faits (ci‑joint à l’annexe A) et de plusieurs documents, qui ont tous été produits par les appelants, ainsi que du témoignage d’Eugene Collins. Un résumé de ces éléments de preuve figure ci‑dessous.
+[3] Au début des années 1980, le gouvernement de l’Alberta a encouragé la construction d’immeubles d’habitation dans des régions urbaines au moyen d’un programme de financement connu sous le nom de Core Housing Incentive Program (le « programme CHIP »). Au moyen d’une hypothèque datée du 9 avril 1981 (l’« hypothèque initiale »), les appelants ont obtenu 1 840 725 $ de l’Alberta Mortgage and Housing Corporation (l’« AMHC »), suivant le programme CHIP.
+[4] L’hypothèque initiale était d’une durée de 15 ans et portait intérêt au taux de 8,75 p. 100; les versements mensuels s’élevaient à 13 368,32 $. Ce montant comprenait le principal et les intérêts et il était dû à compter du 1er janvier 1982.
+[5] En tant qu’associés en parts égales, les appelants ont construit un immeuble d’habitation de 39 logements, au 1010, 13e avenue S.‑O., à Calgary (Alberta) (l’« immeuble »). Le bien‑fonds sur lequel l’immeuble était construit appartenait à Shelburne Group Ltd. (« Shelburne »), une société de l’Alberta qui appartenait en parts égales aux appelants.
+[6] Conformément à un contrat de fiducie daté du 1er septembre 1981, Shelburne agissait comme mandataire des appelants pour toutes les questions touchant l’immeuble.
+[7] Entre 1984 et 1987, les appelants ont eu de la difficulté à respecter les obligations qui leur incombaient aux termes de l’hypothèque initiale; en 1987, l’AMHC a procédé à une restructuration, de sorte que le taux d’intérêt soit ramené de 8,75 p. 100 à 6,25 p. 100 et que le paiement des intérêts soit différé. Les intérêts dont le paiement avait été différé ont été ajoutés au montant du prêt hypothécaire. Selon le témoignage de M. Collins, les appelants ont pu répondre aux obligations qui leur incombaient aux termes du contrat de 1987.
+[8] Monsieur Collins a déclaré que le gouvernement de l’Alberta s’inquiétait parce qu’il différait le paiement des intérêts sur des immeubles d’habitation tout en exerçant son droit à la forclusion à l’égard de propriétaires particuliers. Il ressort de la preuve que, en 1993, le montant du prêt se rattachant à l’hypothèque initiale qui grevait l’immeuble était passé à 2 692 921,81 $ en raison des intérêts dont le paiement était différé.
+[9] En 1991, l’AMHC a mis fin à ses activités et Municipal Affairs – Sales Ltd. (« MASL »), une société d’État de l’Alberta, a été autorisée à négocier la résiliation des contrats conclus par l’AMHC[1].
+[10] Les appelants ont entamé des négociations avec MASL en 1991 et ils sont arrivés à un règlement au mois d’avril 1993. Ils ont produit une lettre de règlement et une lettre d’engagement de MASL, qui étaient toutes deux datées du 27 avril 1993. Le premier paragraphe de la lettre de règlement est rédigé comme suit :
+[traduction]
+Objet : Prêt Hypothécaire no 1091453
+Shelburne Group Ltd.
+À la suite à notre lettre du 7 avril 1993 et à notre conversation subséquente, Municipal Affairs – Sales Ltd. (« MASL ») a accepté de modifier les conditions du règlement dont il avait été fait mention et elle est maintenant disposée à procéder à un règlement à l’égard du prêt hypothécaire susmentionné aux conditions suivantes[2] :
+[11] Les conditions des lettres de règlement et d’engagement ont par la suite été consignées dans un contrat de prêt et contrat modificateur d’hypothèque daté du 22 juillet 1993 (le « contrat modificateur ») conclu entre MASL et les appelants.
+[12] Les paragraphes pertinents du contrat modificateur sont les suivants :
+[traduction]
+B. L’emprunteur et le prêteur sont convenus de refinancer une partie de la dette et de modifier l’hypothèque, selon les modalités suivantes :
+(i) un nouveau prêt sera consenti à l’emprunteur, les biens‑fonds étant, entre autres, fournis en garantie, et les produits y afférents seront utilisés pour réduire l’hypothèque;
+(ii) les obligations de l’emprunteur, pour ce qui est du remboursement du reliquat de la dette, seront modifiées;
+[...]
+C.
+1.3 « Dette » Sommes dues au prêteur par l’emprunteur, la somme de 2 692 921,81 $ restant due au 11 mai 1993;
+1.5 « Hypothèque » Charge hypothécaire détenue par le prêteur en garantie de la dette et enregistrée sur les biens‑fonds dans le cadastre du sud de l’Alberta, sous le numéro 811078474;
+4. Pour sa part, l’emprunteur s’engage à signer les documents suivants et à les remettre au prêteur :
+(i) la nouvelle hypothèque;
+(ii) la cession des loyers payés sur les biens-fonds;
+(iii) un contrat de garantie générale concernant les chatels;
+(iv) une garantie, sur le formulaire du prêteur, donnée par EUGENE F. COLLINS et par FLEURETTE M. COLLINS, garantissant le remboursement des obligations qui incombent à l’emprunteur en vertu de la nouvelle hypothèque.
+5. À la suite de l’enregistrement de la nouvelle hypothèque, de la réception de toutes les autres garanties mentionnées ci‑dessus au paragraphe 4 et de la réception par le prêteur d’un avis de son avocat, attestant que toutes les conditions applicables à la nouvelle hypothèque sont remplies, le prêteur accordera une cession d’antériorité à l’égard de l’hypothèque et des garanties pour la nouvelle hypothèque et imputera le produit de la nouvelle hypothèque à la réduction de la dette.
+6. Le prêteur et l’emprunteur conviennent que l’hypothèque soit modifiée comme suit :
+(i) DURÉE : 20 ans à compter du 1er août 1993;
+(ii) INTÉRÊTS : intérêts simples de 10 p. 100 à calculer et à verser une fois l’an, le 1er AOÛT, sous réserve de la disposition énoncée ci‑dessous en ce qui concerne les versements à effectuer au cours des 15 premières années;
+(iii) VERSEMENTS : versements annuels minimaux de 20 000 $ au titre des intérêts pour chacune des 15 premières années de la durée modifiée, dus au plus tard le 1er AOÛT de chaque année. À la fin de la 16e année, le reliquat des intérêts cumulés impayés sera immédiatement dû et payable et, par la suite, les intérêts seront versés conformément aux dispositions du sous‑alinéa (ii) ci‑dessus. La somme impayée au titre du principal sera payée au plus tard le 31 JUILLET 2013;
+(iv) REMBOURSEMENT ANTICIPÉ : L’emprunteur pourra, à son gré, jusqu’au 31 JUILLET 2008, verser les sommes impayées au titre des intérêts et du principal sur paiement de la somme de 100 000 $, plus le paiement des QUINZE (15) versements annuels minimaux impayés de 20 000 $ au titre des intérêts, le montant global devant être imputé en premier lieu aux intérêts impayés qui sont dus à la date du remboursement anticipé et, en second lieu, au principal.
+[...]
+8. La signature du présent contrat ne constitue pas ou n’entraînera pas une fusion des obligations de l’emprunteur ou des garants à l’égard du remboursement de la dette ou des modalités de l’hypothèque, du contrat modificateur de l’hypothèque ou de la garantie. Les garants approuvent par les présentes les modalités du présent contrat et y consentent.
+[...]
+13. Le présent contrat ne constitue pas un accord et un paiement entre l’emprunteur et le prêteur à l’égard de la dette assortie de la garantie, et le présent contrat n’aura aucunement pour effet de supprimer la garantie ou de la compromettre. Notamment, l’hypothèque grevant les biens‑fonds demeurera notamment en vigueur, sauf pour les modifications expressément effectuées dans le présent contrat.
+14. Le présent contrat vise à modifier l’hypothèque et doit être interprété comme tel, et ne constitue aucunement une novation d’hypothèque, et notamment, aucune modalité du présent contrat ne constitue une renonciation à un engagement ou à des engagements personnels pris dans l’hypothèque ou ne supprime pareils engagements. En cas d’incompatibilité entre les modalités de l’hypothèque et le présent contrat, les modalités du présent contratprévalent.
+[13] Conformément au contrat modificateur, les appelants ont conclu un contrat à l’égard de la nouvelle hypothèque, également daté du 22 juillet 1993, le montant du prêt s’élevant à 1 200 000 $. Ce montant a été imputé à la dette existante. L’hypothèque initiale a fait l’objet d’une cession d’antériorité pour la nouvelle hypothèque.
+[14] Conformément à la disposition relative aux versements du contrat modificateur, les appelants ont versé les intérêts annuels minimaux de 20 000 $ en 1994, en 1995 et en 1996. Ils ont obtenu une déduction au prorata de la partie de ce montant dont ils étaient redevables au cours de chaque année.
+[15] Au cours des années visées par l’appel, le total des intérêts impayés en vertu de l’hypothèque initiale s’élevait à 154 372 $, à 160 254 $ et à 168 782 $ pour les années 1994, 1995 et 1996 respectivement. Ces montants ont été ajoutés au montant du prêt par MASL. Les appelants ont produit un document daté du 15 mai 1995, intitulé : [traduction] « Relevé de compte hypothécaire annuel modifié », qui donnait des détails au sujet des intérêts cumulés et du montant de la dette impayée à l’égard de l’hypothèque initiale jusqu’au 31 décembre 1994.
+[16] Selon le témoignage de M. Collins, les appelants déclaraient leur revenu selon la méthode de la comptabilité d’exercice.
+[17] Les appelants ont convenu que les « intérêts » n’avaient pas été versés et qu’ils ne seraient jamais versés. Selon le témoignage de M. Collins, les appelants voulaient verser le montant annuel minimal restant des intérêts de 20 000 $ et le paiement unique de 100 000 $ au plus tard le 31 juillet 2008. Ils voulaient effectuer un remboursement anticipé de l’hypothèque initiale conformément à l’alinéa 6(iv) du contrat modificateur. Ces paiements devaient entraîner l’extinction de la dette.
+La thèse des appelants
+[18] L’avocat des appelants soutient que la dette dont faisait état l’hypothèque initiale a pris naissance et est demeurée impayée au cours des années visées par les appels. L’intimée a admis qu’il n’y avait pas eu remise de dette au cours de la période pertinente. L’obligation relative aux intérêts sur cette dette subsistait tant qu’elle n’était pas acquittée ou tant qu’elle ne prenait pas fin et elle ne pouvait pas être disjointe de l’hypothèque elle‑même. L’avocat des appelants invoque la jurisprudence Wawang Forest Products[3] de la Cour d’appel fédérale à l’appui de sa thèse, à savoir que l’obligation relative aux intérêts n’était pas une obligation éventuelle. Il a déclaré que le simple fait que l’obligation relative aux intérêts faisait l’objet d’une réduction ne voulait pas dire qu’il s’agissait d’une obligation éventuelle.
+[19] Selon les appelants, l’obligation de verser les intérêts a pris naissance lorsque l’hypothèque initiale a été signée; elle a continué à exister en vertu du contrat modificateur. L’avocat des appelants a déclaré que les « intérêts » s’accumulaient, mais qu’ils n’avaient pas à être versés avant la 16e année conformément à l’alinéa 6(iii) du contrat modificateur[4]. À la fin de la 16e année, tout « intérêt » cumulé restant serait immédiatement dû et payable à moins que d’autres événements n’aient eu pour effet d’éteindre cette obligation. À l’appui de son argument, l’avocat a mentionné les paragraphes 4 et 10 de l’hypothèque initiale. Ces dispositions sont reproduites à l’annexe B ci‑jointe.
+[20] L’avocat de l’appelant a soutenu qu’étant donné que la dette avait pris naissance en vertu de l’hypothèque initiale et qu’elle avait continué à exister aux termes du contrat modificateur, il existait une obligation légale de payer les « intérêts » y afférents; les « intérêts » étaient payables et ils étaient donc déductibles.
+La thèse de l’intimée
+[21] En établissant les nouvelles cotisations, le ministre du Revenu national (le « ministre ») a supposé que l’obligation de verser les « intérêts » était une obligation éventuelle et qu’il n’existait aucune obligation légale de verser les « intérêts » au cours des années visées par les appels. À l’audience, l’avocat de l’intimée a uniquement soutenu qu’il n’existait aucune obligation de verser les « intérêts » au cours des années en question.
+[22] L’intimée a soutenu que, conformément au contrat modificateur, l’obligation de verser les intérêts était divisée en deux parties : l’une consistait à verser chaque année 20 000 $ le 1er août, pendant quinze ans; l’autre consistait à verser les « intérêts » restants et ne prenait effet qu’à la fin de la 16e année.
+Analyse
+[23] Les deux parties ont convenu que le montant des « intérêts » n’avait pas à être versé en 1994, en 1995 et en 1996. La réponse à la question de savoir si les montants étaient « payables » dépend du sens de ce terme.
+[24] La disposition légale pertinente est le sous‑alinéa 20(1)c)(i) de la Loi de l’impôt sur le revenu (la « Loi »); en voici le texte :
+20. (1) Déductions admises dans le calcul du revenu tiré d’une entreprise ou d’un bien – Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[...]
+c) intérêts – la moins élevée d’une somme payée au cours de l’année ou payable pour l’année (suivant la méthode habituellement utilisée par le contribuable dans le calcul de son revenu) et d’une somme raisonnable à cet égard, en exécution d’une obligation légale de verser des intérêts sur :
+(i) de l’argent emprunté et utilisé en vue de tirer un revenu d’une entreprise ou d’un bien (autre que l’argent emprunté et utilisé pour acquérir un bien dont le revenu serait exonéré ou pour contracter une police d’assurance‑vie),
+[...]
+[25] L’alinéa 20(1)c) de la Loi constitue une exception à la règle voulant que les intérêts versés sur le capital ne soient pas déductibles[5]. Dans le récent arrêt Lipson c. Canada[6], la Cour suprême du Canada a rappelé l’objet de cette disposition en ces termes :
+[29] L’alinéa 20(1)c) permet au contribuable de déduire l’intérêt sur les fonds empruntés qui sont employés à une fin commerciale. Son objet est « d’encourager l’accumulation de capitaux susceptibles de produire des revenus » (Enterprises Ludco Ltée c. Canada, 2001 CSC 62, [2001] 2 R.C.S. 1082, par. 63) ou de « favoriser l’accumulation de capitaux productifs de revenus imposables » (Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622, par. 57).
+[26] Pour que les appelants puissent déduire les « intérêts » mentionnés ci‑dessus, au premier paragraphe, ils doivent répondre aux quatre éléments de l’alinéa 20(1)c)[7]. Ces éléments, comme ils ont été énumérés dans l’arrêt Shell Canada Ltée, sont les suivants : (1) les intérêts doivent être versés au cours de l’année ou être payables pour l’année au cours de laquelle le contribuable cherche à les déduire; (2) les intérêts doivent être versés en exécution d’une obligation légale de verser des intérêts sur l’argent emprunté; (3) l’argent emprunté doit être utilisé en vue de tirer un revenu non exonéré d’une entreprise ou d’un bien; (4) les intérêts doivent être raisonnables, compte tenu des trois premières exigences.
+[27] Selon l’intimée, les appelants ne répondent pas aux premier, deuxième et quatrième éléments. J'abonde dans sons sens.
+[28] Le Dictionary of Canadian Law définit le mot « payable » (payable) comme suit :
+[traduction]
+1. Qui doit être payé; dû. 2. Décrit une somme d’argent que quelqu’un est obligé de payer.
+Le Canadian Oxford Dictionary définit le mot « payable » (payable) comme suit :
+[traduction]
+1. Qui doit être payé; dû. 2. Qui peut être payé.
+Le Law.com Dictionary définit le mot « payable » (payable) comme suit :
+[traduction]
+1. adj. Se rapportant à une dette qui est due. Une dette peut être due, sans toutefois être payable avant une date donnée ou avant que se produise un événement donné.
+2. n. Dette qui est due. Les « comptes fournisseurs » (« payables ») sont composés du passif (les dettes) d’une entreprise.
+[29] J’interprète le mot « payable » figurant à l’alinéa 20(1)c) comme signifiant que les intérêts « doivent être versés » ou qu’ils sont « dus », par opposition à des intérêts qui restent dus. Les intérêts sont « payables » lorsqu’il existe une obligation de les verser maintenant, par opposition à une obligation de les verser à un moment ultérieur.
+[30] Aux termes du paragraphe 6 du contrat modificateur, les « intérêts » n’étaient pas dus et ils n’avaient pas à être versés au cours des années visées par les appels. Tant que les appelants satisfaisaient aux conditions du contrat modificateur, le créancier hypothécaire ne pouvait pas exiger les « intérêts » cumulés[8]. Je conclus que les « intérêts » n’étaient pas payables au cours des années où leur déduction a été demandée et qu’il n’a pas été satisfait au premier élément mentionné à l’alinéa 20(1)c).
+[31] La conclusion que j’ai tirée au paragraphe précédent suffit pour trancher la question en litige, mais j’examinerai les autres éléments de l’alinéa 20(1)c) de la Loi à la lumière des faits de l’affaire.
+[32] À mon avis, il n’a pas non plus été satisfait au deuxième élément de l’alinéa 20(1)c). J’interprète le deuxième élément comme voulant dire qu’avant que les intérêts puissent être déduits, il doit exister une obligation légale de verser des intérêts sur l’argent emprunté.
+[33] Selon le paragraphe 6 du contrat modificateur, les appelants devaient payer des intérêts annuels de 10 p. 100, [traduction] « sous réserve » de la disposition relative aux versements figurant à l’alinéa 6(iii) de ce contrat. Cette stipulation limitait le versement des intérêts pour les années visées par les appels aux versements annuels minimaux de 20 000 $[9]. Il n’existait aucune obligation légale de versement des intérêts en sus de ce montant de 20 000$. Il n’existait aucune obligation légale de verser une partie des « intérêts » en 1994, en 1995 et en 1996.
+[34] L’avocat des appelants soutient qu’il existait une obligation légale de verser les « intérêts » au cours des années pertinentes. Selon lui, si les appelants avaient omis d’effectuer les versements de 20 000 $ au complet au cours des années en question, il y aurait eu défaut aux termes de l’hypothèque et que le créancier hypothécaire aurait pu exiger le paiement intégral conformément aux articles 4 et 10 de l’hypothèque initiale.
+[35] Je ne peux retenir cette thèse. Selon l’alinéa 6(iv) du contrat modificateur, les appelants pouvaient effectuer un remboursement anticipé n’importe quand, jusqu’au 31 juillet 2008, en versant un montant de 100 000 $ et en effectuant les 15 versements annuels minimaux de 20 000 $ au titre des intérêts impayés à ce moment‑là. Selon ma lecture de cette stipulation, les appelants n’avaient pas à effectuer à temps tous les versements de 20 000 $. De plus, le paragraphe 14 du contrat modificateur prévoit clairement que celui-ci l’emporte sur l’hypothèque initiale.
+[36] L’intimée soutient que le montant que les appelants veulent déduire au titre des « intérêts » n’est pas raisonnable. L’avocat de l’appelant s’est opposé à cet argument étant donné que le caractère raisonnable et l’article 67 n’avaient pas été invoqués. Toutefois, l’article 67 n’avait pas à être invoqué étant donné que l’alinéa 20(1)c) fait lui‑même expressément mention d’une somme raisonnable[10]. De plus, même si le caractère raisonnable, dans le contexte de ces quatre critères, n’a pas été invoqué, la Cour ne peut pas omettre d’en tenir compte étant donné qu’il s’agit d’une question de droit qu’il faut appliquer aux faits particuliers de l’affaire conformément à l’alinéa 20(1)c).
+[37] La Cour suprême du Canada avait ce qui suit à dire au sujet du quatrième élément[11] :
+34. Notre Cour ne s’est encore jamais prononcée au sujet de la quatrième exigence ‑- que la somme que l’on cherche à déduire soit la somme effectivement payée ou « une somme raisonnable à cet égard ». Il est clair, toutefois, compte tenu de la formulation de l’al. 20(1)c), que ces termes renvoient au sous‑al. 20(1)c)(i) en entier. Le contribuable peut donc déduire le moins élevé (1) du montant effectivement versé ou (2) d’un montant raisonnable à l’égard « d’une somme payée […] en exécution d’une obligation légale de verser des intérêts sur […] de l’argent emprunté et utilisé en vue de tirer un revenu d’une entreprise ou d’un bien ». En l’occurrence, l’argent emprunté qui a été utilisé pour produire un revenu, ce sont les 150 000 000 $NZ. En première instance, le juge en chef adjoint Christie a conclu que le taux du marché en 1988 pour le prêt de dollars néo‑zélandais pendant la durée de cinq ans prévue dans les contrats d’achat de débentures était 15,4 pour 100 par année. C’est le taux d’intérêt que Shell a payé. Lorsqu’un taux d’intérêt est fixé sur un marché de prêteurs et d’emprunteurs sans lien de dépendance, il s’agit généralement d’un taux raisonnable: Mohammad c. La Reine, 97 D.T.C. 5503 (C.A.F.), à la p. 5509, le juge Robertson; Canada c. Irving Oil Ltd., [1991] 1 C.T.C. 350 (C.A.F.), à la p. 359, le juge Mahoney. Le quatrième critère est donc respecté.
+[38] Comment le montant des « intérêts » pourrait‑il être « une somme raisonnable à cet égard », puisque ce n’était pas un montant qui était payé ni un montant qui avait à être payé au cours des années visées par les appels? Je conclus que, eu égard aux circonstances, le montant des « intérêts » n’était pas raisonnable.
+[39] Les appelants n’ont pas le droit de déduire des frais d’intérêt s’élevant à 77 186 $, à 80 127 $ et à 84 391 $ au cours des années 1994, 1995 et 1996 respectivement.
+[40] Au stade des plaidoiries, les questions en litige étaient les suivantes :
+a) Chacun des appelants avait‑il le droit de déduire 100 000 $ pour les frais de restructuration, en 1993?
+b) Chacun des appelants avait‑il le droit de demander la déduction des frais d’intérêt aux montants suivants :
+1994 – 77 186 $
+1995 – 80 127 $
+1996 – 84 391 $
+c) Y a‑t‑il eu règlement ou extinction de la dette qui était due aux termes de l’hypothèque initiale en 1993, par suite de l’entente portant règlement?
+d) Le ministre a‑t‑il calculé de la façon appropriée la quote‑part de chaque appelant, en ce qui concerne les gains, lorsque la dette relative à l’hypothèque initiale a été réglée?
+e) Le ministre a‑t‑il eu raison d’établir des cotisations à l’égard de l’année d’imposition 1994 des appelants en vue de réduire à néant la fraction non amortie du coût en capital (la « FNACC ») des biens locatifs?
+f) Subsidiairement, le ministre a-t-il correctement établi des cotisations à l’égard des appelants réduisant à néant la FNACC des biens locatifs en se fondant sur le fait que l’entente portant règlement était un trompe‑l’oeil?
+g) Subsidiairement, le ministre a-t-il correctement établi des cotisations à l’égard des appelants réduisant à néant la FNACC des biens locatifs en se fondant sur le fait que l’accord qui avait été conclu pour que l’hypothèque initiale continue à être remboursable par anticipation pour une période additionnelle de 15 ans constituait une « opération d’évitement » au sens du paragraphe 245(3) de la Loi et que cet accord a donné lien à un détournement de l’article 80 et un abus de la Loi lue dans son ensemble au sens du paragraphe 245(4) de la Loi?
+[41] Par une lettre portant une date antérieure à celle de l’audition des présents appels, l’intimée a admis toutes les questions énumérées au paragraphe 40, sauf la question énoncée à l’alinéa b). Les appels sont accueillis compte tenu de ce que l’intimée a admis.
+[42] L’intimée aura droit à ses dépens.
+Signé à Ottawa, Canada, ce 23e jour de janvier 2009.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 15e jour de juin 2009.
+François Brunet, réviseur
+Annexe A
+[traduction]
+FAITS ADMIS
+LES APPELANTS ONT DEMANDÉ, aux seules fins de la présente, que l’authenticité des documents suivants et la véracité des faits suivants soient reconnues, ET L’INTIMÉE A ADMIS qu’il en était ainsi :
+A. EXPOSÉ DES FAITS
+1. Pendant la période pertinente, Eugene Collins et Fleurette Collins (les « appelants ») étaient résidents au Canada aux fins de la Loi.
+Demande d’aveux des appelants, en date du 17 mars 2008, (la « demande des appelants »), paragraphe premier.
+Réponse de l’intimée à la demande d’aveux, datée du 28 mars 2008, (les « aveux de l’intimée »), paragraphe premier.
+2. Pendant la période pertinente, les appelants détenaient chacun 50 p. 100 des actions de Shelburn Group Ltd. (la « société »), une société de l’Alberta constituée en personne morale en 1972.
+Demande des appelants, paragraphe 2.
+Aveux de l’intimée, paragraphe premier.
+3. Les appelants (les « associés ») détenaient chacun une part de 50 p. 100 dans l’immeuble d’habitation situé au 1010, 13e avenue S.‑O., Calgary (Alberta) (l’« immeuble »).
+Demande des appelants, paragraphe 3.
+Aveux de l’intimée, paragraphe premier.
+4. Par un contrat daté du 1er septembre 1981, la société a loué aux appelants le bien‑fonds sur lequel l’immeuble était situé pour une période de 50 ans.
+Demande des appelants, paragraphe 4.
+Aveux de l’intimée, paragraphe premier.
+5. Pendant la période pertinente, conformément à un contrat de fiducie daté du 1er septembre 1981, la société avait qualité de mandataire des associés en ce qui concerne les questions se rattachant à l’immeuble (la « société de personnes »). Une copie certifiée conforme du contrat de fiducie porte le numéro 5 dans la liste de documents de chaque appelant qui a été produite à l’appui des appels respectifs.
+Demande des appelants, paragraphe 5
+Aveux de l’intimée, paragraphe premier.
+6. Au début des années 1980, le gouvernement de l’Alberta a mis en œuvre un programme de financement en vue d’encourager la construction d’immeubles d’habitation dans des zones urbaines, lequel était connu sous le nom de « Core Housing Incentive Program » (le « programme CHIP »).
+Demande des appelants, paragraphe 6.
+Aveux de l’intimée, paragraphe premier.
+7. Dans le cadre du programme CHIP, les demandeurs ont obtenu des prêts à des taux d’intérêt favorables, à condition qu’un certain nombre de logements des immeubles d’habitation soient réservés aux personnes à faible revenu et assujettis au contrôle des loyers.
+Demande des appelants, paragraphe 7
+Aveux de l’intimée, paragraphe premier.
+8. Lorsqu’il a été créé, le programme CHIP était administré par l’Alberta Mortgage and Housing Corporation (l’« AMHC »), une société d’État de l’Alberta.
+Demande des appelants, paragraphe 8.
+Aveux de l’intimée, paragraphe premier.
+9. Le 9 avril 1981, conformément au programme CHIP, la société (en sa qualité de mandataire de la société de personnes) a conclu avec l’AMHC le contrat de prêt initial, par lequel l’AMHC prêtait à la société un montant de 1 840 725 $, portant intérêt au taux de 8,75 p. 100 (l’« hypothèque initiale »), garanti au moyen d’une hypothèque de premier rang grevant l’immeuble. Une copie certifiée conforme de l’hypothèque initiale porte le numéro 2 dans la liste de documents de chaque appelant qui a été produite à l’appui des appels respectifs.
+Demande des appelants, paragraphe 9.
+Aveux de l’intimée, paragraphe premier.
+10. En 1991 ou vers 1991, l’AMHC a mis fin à ses activités, et Municipal Affairs‑Sales, Ltd. (« MASL »), une société d’État de l’Alberta, s’est vu confier la mission de négocier la résiliation des contrats conclus par l’AMHC.
+Demande des appelants, paragraphe 11.
+Aveux de l’intimée, paragraphe premier.
+11. De 1991 à 1993, la société de personnes a entamé des négociations avec MASL en vue de restructurer l’hypothèque initiale. Par suite de ces négociations, les parties ont conclu le contrat de prêt et contrat modificateur d’hypothèque daté du 22 juillet 1993 (le « contrat modificateur »), une copie certifiée conforme de ce contrat portant le numéro 13 dans la liste de documents de chaque appelant qui a été produite à l’appui des appels respectifs.
+Demande des appelants, paragraphe 12.
+Aveux de l’intimée, paragraphe premier.
+12. Dans le calcul de son revenu pour les années d’imposition 1994, 1995 et 1996, l’appelant a demandé la déduction des frais d’intérêts suivants, payés ou payables en vertu de l’hypothèque initiale, comme elle a été modifiée par le contrat modificateur;
+1994
+1995
+1996
+Intérêts payés ou payables
+174 373 $
+180 255 $
+188 783 $
+Part de l’appelant (50 %)
+87 186 $
+90 127 $
+94 391 $
+Demande des appelants, paragraphe 15.
+Aveux de l’intimée, paragraphe premier.
+13. Le 8 mars 1999, l’appelant a fait l’objet de nouvelles cotisations pour ses années d’imposition 1993, 1994, 1995 et 1996 (les « nouvelles cotisations »), par lesquelles :
+a) la déduction de la part des intérêts payables en vertu de l’hypothèque initiale et du contrat modificateur attribuable à l’appelant pour les années 1994, 1995 et 1996 était refusée, les montants refusés étant calculés comme suit :
+1994
+1995
+1996
+Intérêts payés ou payables
+174 373 $
+180 255 $
+188 783 $
+Moins : Intérêts payés
+(20 000 $)
+(20 000 $)
+(20 000 $)
+Intérêts refusés
+154 373 $
+160 255 $
+168 783 $
+Part des intérêts refusés attribuable à l’appelant (50 %)
+77 186 $
+80 127 $
+84 391 $
+Demande des appelants, paragraphe 16.
+Aveux de l’intimée, paragraphe premier.
+14. Le 31 mai 1999, l’appelant a déposé un avis d’opposition à l’égard des nouvelles cotisations, lesquelles ont été ratifiées par un avis de ratification délivré par le ministre le 24 mai 2001.
+Demande des appelants, paragraphe 17.
+Aveux de l’intimée, paragraphe premier.
+LES APPELANTS ONT DEMANDÉ, pour l’instance seulement, que l’authenticité des documents suivants soit reconnue, ET L’INTIMÉE A ADMIS qu’il en était ainsi :
+Documents numéros 1 à 36 de la liste de documents de chaque appelant qui ont été produits à l’appui du présent appel. Des copies certifiées conformes de ces documents ont antérieurement été signifiées à l’intimée et ne sont donc pas jointes aux présentes.
+FAIT à Calgary (Alberta), le 2 avril 2008.
+FRASER MILNER CASGRAIN LLP
+AVOCATS DE L’APPELANT
+PAR : JEHAD HAYMOUR
+AVOCAT DE L’APPELANT
+Annexe B
+[traduction]
+HYPOTHÈQUE
+LA LAND TITLES ACT DE L’ALBERTA
+THE SHELBURNE GROUP LTD.
+[...]
+4. Le débiteur hypothécaire versera des intérêts au créancier hypothécaire, de la façon susmentionnée, sur ladite somme, au taux susmentionné, et tous les intérêts, une fois échus, seront immédiatement traités (quant au versement des intérêts y afférents) à titre de principal et seront assujettis à des intérêts composés, au taux susmentionné, avant et après l’échéance de la présente hypothèque, ces intérêts étant calculés sur le reliquat, et ils commenceront à être versés six mois après la date à laquelle ils auront été rajustés, et par la suite tous les six mois, au cours de chaque année; et ces intérêts, simples et composés, constitueront une charge sur lesdits biens‑fonds. En cas de non‑paiement des sommes par les présentes garanties, au moment fixé dans les présentes pour leur paiement, le débiteur hypothécaire versera, dans la mesure où il reste un montant impayé, des intérêts audit taux, calculés sur une base quotidienne sur ledit montant.
+[...]
+10. Le débiteur hypothécaire prend en outre les engagements suivants envers le créancier hypothécaire, en cas d’omission d’exécuter les engagements, conventions, conditions ou stipulations énoncés expressément ou implicitement dans les présentes :
+a) le créancier hypothécaire pourra, aux frais du débiteur hypothécaire et aux conditions que le créancier hypothécaire jugera opportunes, assurer l’exécution des engagements, conventions, conditions ou stipulations, ou faire en sorte que soient exécutés ces engagements, conventions, conditions ou stipulations;
+b) le créancier hypothécaire pourra retenir les services d’un inspecteur ou d’un mandataire pour qu’il fasse rapport sur la valeur et sur l’état desdits biens‑fonds et pourra faire appel à un avocat pour qu’il examine le titre afférent aux biens‑fonds et fasse rapport à ce sujet;
+c) le créancier hypothécaire ou son mandataire pourra prendre possession desdits biens‑fonds et, qu’il en ait pris possession ou non, il pourra recouvrer les loyers et revenus y afférents, et transporter à bail ou louer lesdits biens‑fonds, en totalité ou en partie, aux conditions, pour la durée et moyennant les loyers qu’il jugera convenables, et le pouvoir de vente conféré par les présentes pourra être exercé avant ou après la prise de possession, sous réserve de pareil transport à bail ou de pareille location;
+d) le débiteur hypothécaire pourra légitimement accorder et accorde par les présentes au créancier hypothécaire le pouvoir, le droit et l’autorisation d’accéder auxdits biens‑fonds, de les saisir et de les détenir, en totalité ou en partie, et par mandat de saisie‑gagerie, de recouvrer au moyen des loyers réservés, par exemple dans le cas d’un transport à bail desdits biens‑fonds, les arriérés impayés au titre de l’hypothèque, ainsi que les frais et les dépenses associés à la saisie‑exécution ou à la saisie‑gagerie, par exemple dans le cas d’une saisie‑gagerie pour non‑paiement du loyer;
+e) le créancier hypothécaire pourra vendre et aliéner lesdits biens‑fonds, qu’il en ait pris possession ou non, avec ou sans préavis au débiteur hypothécaire ou à toute personne ayant un intérêt dans lesdits biens‑fonds; tous les recours ouverts pourront être exercés; les droits, pouvoirs et privilèges accordés ou conférés au créancier hypothécaire en quelque qualité que ce soit ou en vertu de la présente hypothèque pourront être exercés; tout avis pourra être valablement signifié façon effective en étant laissé à un adulte si les biens‑fonds sont occupés, ou en l’affichant si les biens‑fonds ne sont pas occupés, ou au gré du créancier hypothécaire, par avis dans un journal publié en Alberta; cet avis sera suffisant même s’il ne s’adresse qu’« à qui de droit »; aucune absence d’avis ou de publication ni aucun autre défaut ou irrégularité n’aura pour effet d’invalider la vente réelle ou réputée desdits biens‑fonds en vertu des présentes, et le créancier hypothécaire pourra vendre, transférer et transporter toute partie desdits biens‑fonds à crédit ou en partie au comptant et à crédit, le montant étant garanti au moyen d’un contrat de vente, d’une convention d’achat ou d’une hypothèque, ou autrement, de la façon qui semblera la plus avantageuse au créancier hypothécaire, et aux prix qui pourront raisonnablement être obtenus pour lesdits biens‑fonds; en cas de vente à crédit, ou en partie au comptant et en partie à crédit, par contrat de vente ou par transport ou transfert et au moyen d’une hypothèque, le créancier hypothécaire n’aura pas à rendre compte de quelque somme que ce soit et n’en sera pas redevable, tant qu’il n’aura pas reçu les sommes en cause en espèces; des ventes pourront de temps à autre être conclues à l’égard d’une partie desdits biens‑fonds pour le paiement des intérêts ou de tout montant échu au titre du principal, le principal portant, en totalité ou en partie, intérêt, et ces intérêts étant payables de la façon susmentionnée; le créancier hypothécaire pourra faire des stipulations quant au titre ou quant aux preuves ou au commencement de titre ou de toute autre façon qu’il jugera appropriées, et il pourra incorporer ou annuler ou modifier tout contrat de vente; au moment de toute vente ou de toute libération, le créancier hypothécaire ne sera pas tenu responsable des pertes ainsi occasionnées; à ces fins, le créancier hypothécaire pourra conclure et signer les ententes et assurances qu’il jugera opportunes ou nécessaires; si la vente conclue par le créancier hypothécaire en vertu des lois de l’Alberta conformément au pouvoir de vente conféré dans les présentes n'aboutit pas, le créancier hypothécaire pourra engager des procédures de forclusion à l’égard desdits biens‑fonds conformément aux lois de l’Alberta; si un reliquat à l’égard des sommes garanties par l’hypothèque reste dû au créancier hypothécaire, une fois réalisés lesdites biens‑fonds, le débiteur hypothécaire versera le reliquat au créancier hypothécaire sur demande, avec intérêts, au taux susmentionné;
+f) au gré du créancier hypothécaire, la totalité des sommes à payer en vertu de l’hypothèque deviendront dues et payables;
+g) le créancier hypothécaire pourra exercer les pouvoirs susmentionnés sans en aviser le débiteur hypothécaire.
+RÉFÉRENCE : 2009CCI56
+Nos DES DOSSIERS DE LA COUR : 2001‑2844(IT)G
+2001‑2845(IT)G
+INTITULÉ : EUGENE COLLINS
+c.
+SA MAJESTÉ LA REINE
+FLEURETTE COLLINS
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 2 avril 2008
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 23 janvier 2009
+COMPARUTIONS :
+Avocat des appelants :
+Me Jehad Haymour
+Avocat de l’intimée :
+Me Mark Heseltine
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Me Jehad Haymour
+Cabinet : Fraser, Milner, Casgrain LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Exposé des faits admis.
+[2] Le prêt hypothécaire no 1091453 se rapporte à l’hypothèque initiale.
+[3] 2001 DTC 5212 (C.A.F.).
+[4] Transcription, page 16, ligne 2.
+[5] La Reine c. Bronfman, [1987] 1 R.C.S. 32, paragraphe 22.
+[6] 2009 CSC 1, paragraphe 29.
+[7] Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622, paragraphe 28.
+[8] Voir le paragraphe 14 du contrat modificateur, selon lequel le contrat modificateur s’applique en cas d’incompatibilité entre les modalités de l’hypothèque initiale et celles du contrat modificateur.
+[9] Voir le paragraphe 6 du contrat modificateur.
+[10] Précité, note 6, paragraphe 51
+[11] Précité, note 6, paragraphe 34.

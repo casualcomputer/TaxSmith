@@ -1,0 +1,190 @@
+Title: Bilodeau v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28496/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-53-28496-bilodeau-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-02-07
+
+# Bilodeau v. M.N.R.
+
+- Citation: 2008 TCC 53
+- Decision date: 2008-02-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1293, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bilodeau v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-07
+Neutral citation
+2008 TCC 53
+File numbers
+2007-3425(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-3425(EI)
+BETWEEN:
+MÉLANY-MANON BILODEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+9169-9843 QUÉBEC INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 16, 2008, at Sherbrooke, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Christina Ham
+Agent for the Appellant:
+Michel Raymond
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed on the ground that the work done by the Appellant from June 1, 2006, to June 7, 2007, is excluded from insurable employment under paragraph 5(2)(i) of the Act, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of February 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 25th day of March 2008.
+Susan Deichert, Reviser
+Citation: 2008TCC53
+Date: 20080207
+Docket: 2007-3425(EI)
+BETWEEN:
+MÉLANY-MANON BILODEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+9169-9843 QUÉBEC INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a decision under paragraph 5(2)(i), subsection 5(3) and sections 91 and 93 of the Employment Insurance Act (the “Act”) dated September 20, 2007, that the work done by the Appellant from June 1, 2006, to June 7, 2007, for the Intervener 9169‑9843 Québec Inc. did not constitute insurable employment because that business and the Appellant were not dealing with each other at arm’s length.
+[2] In making his decision, the Minister of National Revenue (the “Minister”) relied on the following assumptions of fact:
+[TRANSLATION]
+5. (a) The Payor, which was incorporated on May 25, 2006, operates a snow removal business and mechanical repair shop under the business name Déneigement EMR; (admitted)
+(b) The Appellant and the Payor have admitted and confirmed that the Appellant rendered services to the Payor from June 1 to September 30, 2006, but received no remuneration from the Payor during that period. (admitted)
+6. The Appellant and the Payor are related persons within the meaning of the Income Tax Act because
+(a) at the time of incorporation, the Appellant and Michel Raymond held the Payor's voting shares in equal amounts; (admitted)
+(b) on August 1, 2006, the Appellant's shares were bought back by the Payor; (denied)
+(c) on August 1, 2006, Michel Raymond became the sole holder of the Payor's voting shares; (admitted)
+(d) the Appellant is Michel Raymond's spouse; (admitted) and
+(e) since August 1, 2006, the Appellant has been related to a person who controls the Payor. (admitted)
+7. (a) The Payor started up its business by purchasing the goodwill of 310 customers of the predecessor business, which belonged to Frank Raymond, the brother of the Payor's shareholder; (admitted)
+(b) The Payor acquired three vehicles (tractors) for snow removal, and Michel Raymond already had one that could do backup work for the Payor; (admitted)
+(c) During its first season of operations, the Payor hired three drivers to operate its tractors and do snow removal; (admitted)
+(d) One of the Payor's drivers was a foreperson and was paid a fixed amount, while the other two were paid solely for snow removal; (admitted)
+(e) The Appellant began to render services to the Payor on or about June 1, 2006, but it was only on October 1 that the Payor hired her for pay; (admitted)
+(f) The Payor hired the Appellant as a secretary-bookkeeper; (denied)
+(g) The Appellant had secretarial training, and had previously worked part time for a dental clinic; (admitted)
+(h) In June 2006, the Appellant began to render services to the Payor by organizing its books. In early September, after her job at the dental clinic ended, she started to work full time for the Payor; (admitted)
+(i) In September, the Appellant, who was not being paid at the time, sent invoices to the Payor's 310 customers, and 250 of them renewed their contracts; (denied)
+(j) In October and November, after placing advertisements in newspapers, the Payor got 200 new customers, for a total of 450 for the 2006‑07 season; (denied)
+(k) Each of the Payor's customers paid 50% of the contract price upon signing, and remitted the balance by cheque postdated to February 1, 2007; (denied)
+(l) The snow removal contracts ended on March 31, but the Payor did an additional run on April 5, 2007, after a significant snowfall; (admitted)
+(m) The Appellant's main duties as of October 2006 can be summarized as follows:
+- taking customers' phone calls,
+- doing the Payor's bookkeeping,
+- preparing the invoices for the customers,
+- going to the bank and making the deposits, and
+- running various errands, such as finding parts for machinery; (denied)
+(n) In October and November 2006, the Appellant received $1,200 in gross monthly pay. During the rest of the period in issue, she received $810 every two weeks; (denied)
+(o) On snowy days, Mr. Raymond was the one who notified drivers of the snow removals that needed to be done, and the Appellant took calls from customers as of 8:00 a.m.; (admitted)
+(p) After her layoff on March 30, 2007, the Appellant continued to render services to the Payor by doing month-end tasks, preparing quarterly reports, preparing the pay for one of the drivers who stayed on longer with the Payor, and doing certain work needed in order to end the fiscal year; (admitted)
+(q) Starting October 1, 2006, which was renewal time for all contracts, the Payor apparently hired the Appellant for 30 hours of work per week over a 17‑week period in order to answer the phone and do some accounting entries on the computer; (denied)
+(r) The few tasks entrusted to the Appellant did not justify a workload of 30 hours per week; (denied)
+(s) During the period in issue, the Appellant was paid more than the drivers hired to do snow removal, which was the very essence of the Payor's existence; (denied)
+(t) From June to late September 2006, when the Payor had to start up its business and there was a work surplus, the Appellant worked without pay; (denied)
+(u) It is not reasonable to believe that a stranger would have agreed to work for the Payor on the terms and conditions offered to the Appellant. (denied)
+[3] Michel Raymond, the sole shareholder and the Appellant's spouse, represented the Appellant at the hearing. After being sworn in, he admitted to the facts referred to in subparagraphs 6(a), 6(c), 6(d), 6(e), 7(a) through 7(e), 7(g), 7(h), 7(l), 7(o) and 7(p):
+[TRANSLATION]
+6. . . .
+(a) at the time of incorporation, the Appellant and Michel Raymond held the Payor's voting shares in equal amounts; (admitted)
+(c) on August 1, 2006, Michel Raymond became the sole holder of the Payor's voting shares; (admitted)
+(d) the Appellant is Michel Raymond's spouse; (admitted)
+(e) since August 1, 2006, the Appellant has been related to a person who controls the Payor. (admitted)
+7. (a) The Payor started up its business by purchasing the goodwill of 310 customers of the predecessor business, which belonged to Frank Raymond, the brother of the Payor's shareholder; (admitted)
+(b) The Payor acquired three vehicles (tractors) for snow removal, and Michel Raymond already had one that could do backup work for the Payor; (admitted)
+(c) During its first season of operations, the Payor hired three drivers to operate its tractors and do snow removal; (admitted)
+(d) One of the Payor's drivers was a foreperson and was paid a fixed amount, while the other two were paid solely for snow removal; (admitted)
+(e) The Appellant began to render services to the Payor on or about June 1, 2006, but it was only on October 1 that the Payor hired her for pay; (admitted)
+(g) The Appellant had secretarial training, and had previously worked part time for a dental clinic; (admitted)
+(h) In June 2006, the Appellant began to render services to the Payor by organizing its books. In early September, after her job at the dental clinic ended, she started to work full time for the Payor; (admitted)
+(l) The snow removal contracts ended on March 31, but the Payor did an additional run on April 5, 2007, after a significant snowfall; (admitted)
+(o) On snowy days, Mr. Raymond was the one who notified drivers of the snow removals that needed to be done, and the Appellant took calls from customers as of 8:00 a.m.; (admitted)
+(p) After her layoff on March 30, 2007, the Appellant continued to render services to the Payor by doing month-end tasks, preparing quarterly reports, preparing the pay for one of the drivers who stayed on longer with the Payor, and doing certain work needed in order to end the fiscal year; (admitted)
+[4] He explained how he got into the snow removal business. He said that his availability was limited because he operated another business with a partner.
+[5] The Appellant was a secretary-bookkeeper with a dental office where she worked part time for roughly 20 hours per week. She left that job to form a 50-50 partnership with her spouse in the new business that he had created.
+[6] It was agreed that she would look after the administrative and accounting aspect of the new business because her spouse would often be unavailable.
+[7] Thus, initially, she looked after the many contract renewals before devoting herself to promotional initiatives aimed at recruiting new customers. The new customer recruitment drive required more work than the contract renewals.
+[8] At first, when the Appellant was a co-shareholder, it was agreed that she should receive $1,200 in remuneration per month. Somewhat later, she assigned her shares to her spouse for nil consideration, at which time it was agreed that she would receive a salary of $800 every two weeks for her work.
+[9] The Appellant apparently transferred her shares free of charge because she found that the responsibilities associated with her shareholder status were burdensome and preferred to be rid of them.
+[10] These were the main arguments of the Appellant and her spouse. With respect to the workload, the Appellant and her spouse explained that the amount of work justified both the salary and the creation of the position. They argued that the work and the pay were reasonable. They also alleged that, although the Appellant was paid a fixed amount for each biweekly pay period, she did roughly 30 hours of work per week.
+[11] A quick calculation shows that, based on a 30-hour week, her pay was equivalent to what she earned when she worked for a dental office. This supports the Appellant's argument that the remuneration that the Intervener paid her was reasonable.
+[12] As for the workload, the Appellant and her spouse provided several explanations to justify the significance of the duties. The Respondent had determined that the Appellant was exaggerating when she said that her duties justified a workload of 30 hours per week.
+[13] In coming to this conclusion, the auditor tried to quantify the time needed to answer the telephone, prepare cheques, receive and pay accounts, prepare bids and contracts, and do all the entries in the computer system. I do not accept the auditor's calculations on the ground that they are not reasonable.
+[14] Indeed, any business, especially a new one, must have someone available at all times, especially during normal business hours, to answer telephone calls from customers, prospective customers, or anyone seeking information.
+[15] This simplistic calculation of the time devoted to each administrative task is not an acceptable formula for calculating the insurable hours of a job. The amount of time necessary to ensure continuity of service is just as important and fundamental but was completely left out of the analysis. This was a significant weakness in the analysis because this element was clearly given conclusive importance in the Minister’s decision.
+[16] Consequently, the analysis should be redone based on the facts and considerations disclosed by the evidence. In this regard, I have accepted, by way of background, that the Appellant did not make any initial investment to obtain her 50% of the company's shares; a few months later, she transferred those shares for nil consideration. These facts are obviously of very little relevance to the issue of the insurability of the employment. However, they aptly illustrate the special context of this situation, in which the family dimension characterized the dealings between the parties.
+[17] As for as the relevant and determinative facts, the Appellant did indeed do work. This was absolutely not a job that was given to someone for the sake of convenience. It was necessary work that was actually done.
+[18] While this conclusion might initially seem favourable to the Appellant's case, its effect on that case is actually the opposite.
+[19] How can one account for the fact that this real and significant work was not remunerated from the outset? In fact, work on finding new contracts and on renewals, bid submissions and responses to inquiries constitutes a fundamental component of the snow removal business. The fact is that a significant share of this work was done prior to the remuneration period. Consequently, the evidence discloses that the Appellant took on quite a heavy workload without being paid — something that a third party would obviously not have agreed to do for free.
+[20] Another very important consideration is the issue of remuneration. It appears that the initial agreement was for the Appellant to be paid $1200 per month; it should be recalled that she was a shareholder at the time, and had not invested anything in the company.
+[21] Interestingly, however, when the Appellant transferred her shares, the parties agreed that her salary would no longer be $1200 per month, but rather $800 every two weeks, or $1720 ($400 per week multiplied by a factor of 4.3) per month, which represents an increase of $520 per month. It is unlikely that such a situation would have occurred if the work had been done by someone who was at arm's length. Such a discrepancy in earnings for the same work is certainly not the norm in the workforce, where the two parties are unrelated.
+[22] Another important consideration is the fact that Michel Raymond said that the Appellant alone signed all the cheques for the business. Here again, a third party would not have had the benefit of such authority. The business’s cheques would probably have needed two signatures: Mr. Raymond’s and the employee’s.
+[23] Lastly, having regard to the vocation of the business, the length and intensity of the work should have been described in a way that was adapted to the various strategic periods of the business, because, as mentioned earlier, a snow removal business must invest time and energy to recruit as many customers as possible before the winter so that it can plan the work ahead and obtain the equipment and materials needed to carry out the contracts.
+[24] The second stage essentially consists in fielding complaints, planning the execution of the work and ensuring that customers make their second payment at the appropriate time.
+[25] These special characteristics mean that the hours of work are markedly longer at the beginning of the winter period than they are in the middle of it, when the schedules of the snow removers become the greatest concern.
+[26] Lastly, the end of the Appellant's pay period in late March does not correspond to the reality of the activities of such a business.
+[27] Moreover, the activities of the business in question are seasonal by their very nature; hence, the beginning and end of the activities should be relatively simple to establish.
+[28] However, in the case at bar, this dimension seems to have been evaluated on the basis of the family situation. Evidently, the Appellant initially worked without pay for the simple reason that the company had not yet generated enough income to pay her. A person at arm's length would not have agreed to work on an unpaid basis, regardless of the reason.
+[29] The Appellant and her spouse assert that they had always acted in good faith, and I do not doubt them for a moment; clearly, they were advised to arrange matters so that the Appellant could receive employment insurance benefits in view of the seasonal nature of the business, and that, in and of itself, is completely legitimate.
+[30] Nonetheless, in order for the Appellant to qualify for benefits, it was imperative that she enter into a contract of service substantially similar to what a person at arm's length would have entered into under similar circumstances.
+[31] An unrelated person would have worked for reasonable remuneration; he or she would not have worked without pay. And an employer would not pay an employee who was not working. An employer would pay an employee using a reasonable pay scale for a reasonable amount of work.
+[32] In the case at bar, the Appellant's contract of employment was not consistent with what a person at arm's length would have entered into. Indeed, this is a business where there is a great need for administrative work (the type of work performed by the Appellant) before the winter season begins: renewals, advertising, contracts, schedules, plan, requests for information, and so forth.
+[33] Once the season has begun, an administrative slowdown is sure to occur, and the emphasis is on the actual snow removal work. After the season has ended, there is a whole series of tasks related to the cessation of activities, the preparation of reports, etc.
+[34] The best approach for a person who is not at arm's length is to enter into a contract of employment that would be substantially similar to the contract that a person at arm's length would obtain.
+[35] For all the foregoing reasons, although the analysis that was carried out as part of the discretion contemplated in paragraph 5(2)(i) of the Act was seriously flawed, I must confirm that the determination that the non-arm's length relationship between the Appellant and the business had an influence on the contact of employment was correct and well-founded.
+[36] For all these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 7th day of February 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 25th day of March 2008.
+Susan Deichert, Reviser
+CITATION: 2008TCC53
+COURT FILE NO.: 2007-3425(EI)
+STYLE OF CAUSE: Mélany-Manon Bilodeau and MNR
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: January 16, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: February 7, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Christina Ham
+Agent for the Appellant:
+Michel Raymond
+COUNSEL OF RECORD:
+For the Appellant:
+For the Intervener:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

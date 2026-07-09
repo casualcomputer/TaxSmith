@@ -1,0 +1,304 @@
+---
+title: "Crane v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520972/index.do"
+last_modified: "2022-10-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 115"
+citation2: ""
+neutral_citation: "2022 TCC 115"
+decision_date: "2022-10-07"
+language: "en"
+item_id: "520972"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4511
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T11:20:49.146000+00:00"
+cases_cited_count: 9
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b76faf078d4efb91a85b0e394e688e8797d9553957bccef844dafd7c9e1a9319"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Crane v. The King
+
+- Citation: 2022 TCC 115
+- Decision date: 2022-10-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4511, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Crane v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-10-07
+Neutral citation
+2022 TCC 115
+File numbers
+2013-3932(IT)G
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-3932(IT)G
+BETWEEN:
+DAVID SAMUEL CRANE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on September 12 and 13, 2022, at Toronto, Ontario
+Before: The Honourable Justice David E. Spiro
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dan Daniels
+Emmanuel Gibson
+JUDGMENT
+The appeal from the reassessment under the Income Tax Act for the Appellant’s 2004 taxation year is dismissed with costs in accordance with the tariff.
+Signed at Toronto, Ontario, this 7th day of October 2022.
+“David E. Spiro”
+Spiro J.
+Citation: 2022 TCC 115
+Date: 20221007
+Docket: 2013-3932(IT)G
+BETWEEN:
+DAVID SAMUEL CRANE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] The issue in this appeal is whether the Appellant made a charitable gift to the Banyan Tree Foundation (“Banyan”) in his 2004 taxation year. The Appellant says that he did. The Respondent says that he did not.
+[2] The Appellant maintains that he made a charitable gift to Banyan notwithstanding a decision released by this Court six months ago in a group of leveraged donation “lead cases” under section 146.1 of the Tax Court of Canada Rules (General Procedure) also involving alleged gifts to Banyan. The taxpayers in those appeals, Herring v The Queen, 2022 TCC 41 [Herring], failed to persuade this Court that they had made any charitable gifts to Banyan.
+[3] The Appellant contends that his facts are distinguishable from the facts in Herring. Although there are certain distinctions, they are distinctions without a difference. I conclude that, like the taxpayers in Herring, the Appellant expected to receive significant financial benefits from his participation in a leveraged donation arrangement in which the financial benefits and the alleged gift were tied so closely together that the Appellant had no donative intent at the time of his alleged gift. [1] For that reason, the Appellant’s appeal must be dismissed.
+The Appellant
+[4] The Appellant is a retired judge of Ontario’s Superior Court of Justice. He was appointed in 1992 [2] and retired in 2013. The transactions at issue occurred in 2004 while he was sitting as a judge of that court in Hamilton, Ontario. He represented himself in this appeal and was the only witness at trial.
+[5] In his Notice of Appeal, the Appellant challenged the reassessment by the Minister of National Revenue (the “Minister”) of his 2004 taxation year. In reassessing, the Minister denied federal and provincial tax credits of $46,409 in respect of a charitable gift of $100,000 the Appellant claimed he made to Banyan in that year. In his Notice of Appeal, the Appellant pleaded the following issue:
+Whether the amount claimed as a donation entitles the donor to a tax credit pursuant to s. 118.1(3) of the Income Tax Act. [3]
+[6] In his Notice of Appeal, the Appellant sought judgment reinstating the federal and provincial tax credits of $46,409 claimed in respect of his alleged charitable gift of $100,000:
+The Appellant asks respectfully that the Reassessment of the CRA be set aside and the tax credit be again recognized with the appropriate monetary adjustments. [4]
+[7] Several months before the hearing, however, the Appellant notified the Court and the Respondent that the issue for trial would be whether the $11,000 that he delivered to Banyan by cheque was a charitable gift. [5] At trial, the Appellant asked the Court to order the Minister to reassess to allow charitable donation tax credits only in respect of a gift of $11,000.
+The Program
+[8] Banyan was a registered charity until 2008 when the Minister revoked its registration. [6] Between 2002 and 2007, it promoted a leveraged donation arrangement with Promittere Asset Management Limited (“Promittere”) and 1106999 Ontario Limited, a corporation later known as Rochester Financial Limited (“Rochester”). [7] I will refer to the leveraged donation arrangement entered into by the Appellant as the “Program”.
+[9] At some time before March 4, 2004, the Appellant’s family lawyer suggested that he meet with Bill Anderson. Mr. Anderson is a financial planner who, in the Appellant’s words, “offers for sale investments, and this one was one.” [8] Mr. Anderson approached him on this particular investment [9] and provided the Appellant with documents and promotional material about the Program at a meeting in the Appellant’s chambers on March 4, 2004. [10] The Appellant believed that Mr. Anderson was “trying to get people to sign up.” [11]
+[10] The promotional material included an opinion from Fraser Milner Casgrain LLP (“FMC”) dated September 5, 2003, entitled “Re: Banyan Tree Foundation Gift Program – Limited Recourse (the “Gift Program”)” that was addressed to Promittere. [12] The Appellant testified that the FMC opinion was “critical to my decision to enter into the arrangement.” [13] In bold letters at the bottom of the first page of the letter, FMC made the following disclaimer (footnote omitted):
+No advance income tax ruling has been obtained in respect of the Gift Program. No assurance can be given that the CCRA will agree with the opinions expressed in this letter. The Act or the CCRA’s practices may be changed retroactively at any time and such changes could materially affect our opinion. Each Donor should consult their own tax advisor in respect of his or her donation, if any.
+[11] In his testimony, the Appellant described how he understood the Program after having read the material provided by Mr. Anderson:
+. . . the nature of the material was that there would be a loan. It would be a structured gift. There would be a pledge to the charity, and it would be financed with cash from the donor and a loan from an entity called Rochester Financial Limited.
+In my case, the loan was $89,000, and the cash donation, which I made prior to . . . the loan, but [in] anticipation of a loan, was for $89,000, so [I was] making a $100,000 donation. [14]
+I read the materials carefully. There [were] obligations, and I have a practice of being careful about my obligations. I intend to carry them out. I showed the documents to my tax accountant, Joe Harrison. I recall he wasn’t overly happy, but he accepted them, and . . . filed my tax return that year. [15]
+[12] The Appellant never met with anyone from Banyan, Rochester, or Promittere. [16] There was no evidence that the Appellant had made gifts to Banyan of any amount before 2004, let alone a six-figure amount.
+Transactions of March 4, 2004 - Introduction
+[13] On March 4, 2004, the Appellant entered into the following pre‑determined series of transactions, making him a participant in the Program:
+a) pledging $100,000 to Banyan which was payable by December 31, 2004;
+b) applying for a loan of $89,000 from Rochester which was repayable by December 31, 2014;
+c) making a Security Deposit of $12,200 to Rochester in respect of his application for a loan of $89,000; and
+d) issuing a promissory note to Rochester in the amount of $89,000. [17]
+[14] The $89,000 loan from Rochester was conditional upon the Appellant executing the Program’s pre-determined series of transactions. That is an admitted fact. [18] Based on that admission, and the evidence as a whole, I find that each transaction entered into by the Appellant on March 4, 2004 constituted an element of an interconnected arrangement or series of transactions.
+Transactions of March 4, 2004 – Documents
+[15] On March 4, 2004, Mr. Anderson presented the Appellant with several documents as a package, all of which he signed in his chambers on that date. I have reviewed the terms and conditions of each of these documents, including the provisions specifically pleaded by the Appellant in his Notice of Appeal, referred to in the course of his testimony, and relied upon in his argument. The excerpts reproduced below are extensive as they include the portions of those documents relied upon by the Appellant as part of his case as well as other portions for context.
+[16] Before reviewing the documents in detail, several statements in them are neither terms nor conditions but self-serving nonsense. [19] For example, paragraph 2(a) of the Pledge states:
+2. The undersigned acknowledges and agrees that
+(a) this Pledge is made by the undersigned voluntarily and without expectation of any return, right, privilege, recognition, benefit or advantage of any nature from the Foundation, other than an income tax receipt in prescribed form
+[17] Another self-serving statement is found in paragraph 4.1(d) of Schedule A to the Loan Application and Power of Attorney:
+4.1 . . . (d) the making of the Loan by the Lender to the Borrower is a transaction completely separate from and independent of the Pledge and any other transaction relating thereto and the Borrower will be irrevocably obligated to the Lender for payment of the Indebtedness without regard to any issues which may arise between the Borrower and any other person or persons
+[18] I have assigned no weight to such statements in light of the overwhelming evidence that all of the transactions, including the pledge, were interconnected and interdependent. I find that the Appellant would not have made the pledge had it not been for the financial benefits that he expected to receive from the Program.
+A. Exhibit A1: The Pledge
+[19] On March 4, 2004, the Appellant agreed to deliver $100,000 to Banyan on or before December 31, 2004. The signed and completed Pledge document is reproduced at Schedule “A” to these reasons. The other documents in the package follow the same format as the Pledge, namely, a pre-printed form with space for amounts and signatures.
+B. Exhibit A2: The Loan Application and Power of Attorney
+[20] On March 4, 2004, the Appellant applied to Rochester to borrow $89,000 by way of Loan Application and Power of Attorney:
+WHEREAS:
+1. The Borrower has by instrument of pledge of even date pledged a donation of the sum of $100,000 (the “Pledge”) to the Banyan Tree Foundation (the “Foundation”), wishes to borrow from the Lender $89,000 being 89% of the Pledge (the “Loan Amount”) in order to help facilitate the fulfillment of the Pledge, and by this application hereby, promises to repay the Lender the Loan Amount on or before December 31, 2014 in accordance with the terms and conditions set forth herein;
+2. The Borrower has delivered to the Lender the sum of $12,200, being approximately 13.71% of the Loan Amount, on account of a deposit as security for the repayment of its indebtedness hereunder, to be invested on behalf of the Borrower (the “Security Deposit”);
+3. The Borrower acknowledges that the Lender will rely on the representations and warranties and other information made herein by the Borrower in processing this Loan Application (the “Application”);
+NOW THEREFORE THE BORROWER HEREBY REQUESTS THAT the Lender make a Loan (the “Loan”) to the Borrower of an amount equal to the Loan Amount in accordance with the terms set out in Schedule A and the Borrower hereby covenants and agrees to such terms and conditions.
+Upon acceptance hereof by the Lender this Application will constitute a loan agreement between the Borrower and the Lender, which agreement, together with any promissory note issued in evidence of the Indebtedness hereunder, shall constitute the entire agreement between the parties hereto in respect of the subject matter hereof.
+[21] Schedule A to the Loan Application and Power of Attorney included the following:
+***
+1.2 If this Application is not accepted before December 31, 2003, the Deposit shall be immediately returned to the Borrower, without interest or deduction. If this Application is accepted within that period, the Lender agrees to advance the Loan Amount to the Borrower and the Borrower hereby irrevocably authorizes and directs the Lender to immediately deliver the Loan Amount to or to the order of the Foundation on behalf of the Borrower, and upon such delivery the Lender will be deemed to have advanced to the Borrower the Loan Amount.
+***
+1.4 The Loan Amount shall bear interest at a rate equal to the greater of 4.5% per annum and the prescribe[d] rate of interest for the purpose of subsection 143.2(7) of the Income Tax Act (Canada) in effect on the date that the Lender accepts this Application. The interest shall be paid within 30 days after each calendar year. The parties agree that a portion of the Security Deposit and its earnings shall be used to pay the interest on the Loan Amount.
+***
+2.1 The Borrower hereby directs the Lender to invest the Security Deposit in the name of the Lender but for the beneficial account of the Borrower immediately upon the delivery of the Security Deposit as contemplated by section 2.2 of this Application.
+***
+2.6 The recourse of the Lender hereunder shall be limited exclusively to the Collateral and the Lender shall have no rights of recourse against any other property or assets of the Borrower. All obligations of the Borrower hereunder are subject to this Section 2.6. The Lender shall not (i) be entitled to sue or commence any action or other proceeding against the Borrower, or (ii) be entitled to seek a judgment, execution or other process against the Borrower, in respect of the collection of the Indebtedness, except, in each case, for the purpose of, or in connection with, realizing on the Collateral.
+***
+3.1 The Borrower hereby acknowledges and agrees that the Lender shall engage at the Borrower’s expense one or more duly qualified investment advisers, including discretionary portfolio, managers, to assist in the investment of the Collateral with a view to meeting the expectations of the parties as set forth above and in furtherance thereof to maximizing the capital appreciation of the Collateral prior to the Due Date while at the same time minimizing income thereon taxable in respect of any period prior to the Due Date. Subject to section 3.3 below, the Borrower hereby grants to the Lender, to the greatest extent permitted under applicable law, the discretionary right and authority to sell, redeem, convert, exchange, invest and reinvest the Collateral on behalf of the Borrower in such manner as any such adviser may from time to time consider appropriate, or to deposit the Collateral in a fully managed account in the name of the Lender or otherwise, subject always to compliance with applicable securities and other laws, which compliance shall be at all times the responsibility of the Lender.
+3.2 The Lender hereby represents and warrants to the Borrower that any and all advisers engaged shall at all times exercise in the performance of that engagement that degree of care and skill that a reasonably prudent adviser would exercise in comparable circumstances.
+3.3 The Borrower hereby represents and warrants to the Lender as follows:
+3.3.a. he or she has a net worth substantially in excess of the Security Deposit,
+3.3.b. he or she has no particular desire or preference as to the investment of the Collateral and agrees that, subject to the provisions hereof, the Lender shall have the full and unfettered discretion to invest the Collateral in such manner as it may consider appropriate, whether or not such investments are publicly traded,
+3.3.c. he or she has a high risk tolerance in relation to the investment and reinvestment of the Collateral for the purposes hereof.
+3.4 The Lender agrees that to the extent that in any calendar year the investment or reinvestment or realization of the Collateral results in taxable income in that year to a Borrower resident in Canada then the Lender shall distribute from the Collateral to the Borrower on or before April 15 of the following year an amount sufficient in the Lender’s opinion to pay the amount of tax payable in respect of such income assuming the Borrower pays income tax at a rate of 35%. For greater certainty, the Lender’s obligation hereunder shall be determined on a cumulative basis, so that in the event that a taxable loss results to the Borrower for tax purposes in any year then the Lender’s obligation to distribute any amount thereafter shall be limited to the extent by which taxable income in subsequent years exceeds the amount of loss so resulting.
+***
+4.1 The Borrower acknowledges and confirms that: (a) the Lender does not, by reviewing this Application, make any commitment to the Borrower to make the Loan; (b) except as expressly set forth herein the Lender does not make any representation or warranty to the Borrower whatsoever with respect to the Pledge or the tax effect thereof, or otherwise; (c) the Lender has no responsibility for, is not and has not been associated with, and does not express any opinion with respect to any representations, warranties, declarations or undertakings made by any other party in connection with the Loan or any other transaction; (d) the making of the Loan by the Lender to the Borrower is a transaction completely separate from and independent of the Pledge and any other transaction relating thereto and the Borrower will be irrevocably obligated to the Lender for payment of the Indebtedness without regard to any issues which may arise between the Borrower and any other person or persons; (e) the Lender will be obliged to exhaust its recourses in respect of its security before looking to the Borrower for payment; and (f) nothing contained herein or in any other instrument will be interpreted so as to oblige the Lender to extend any time for payment of the Indebtedness under any circumstances.
+C. Exhibit A3: The Promissory Note
+[22] On March 4, 2004, Rochester notified the Appellant that it had accepted the loan application he made on the same date. On that date, the Appellant promised to pay Rochester $89,000 with interest at a rate of 4.5% by December 31, 2014. The document included the following statement:
+. . . . The undersigned acknowledges and agrees that any failure to make any such payment when due shall constitute a material default hereunder and the holder shall be immediately entitled without further act or formality to proceed to enforce its rights to recover the whole of the principal sum hereunder together with interest thereon and its actual costs incurred in so doing, including actual legal costs determined on a solicitor and client basis.
+The undersigned hereby waives diligence, demand and presentment for payment, notice of non-payment, protest and notice of protest of this note.
+Official Receipt for Income Tax Purposes
+[23] On March 23, 2004, less than three weeks after the Appellant signed the documents, Banyan issued a document entitled “OFFICIAL RECEIPT FOR INCOME TAX PURPOSES” (Exhibit A6) thanking the Appellant for his donation of $100,000. The Appellant attached the receipt to the income tax return for his 2004 taxation year and used that donation receipt to reduce his federal and provincial taxes by $46,409.
+$47,000 Addition to the Appellant’s Investment Portfolio
+[24] The Appellant testified about a $47,000 amount that he expected would be added to his investment portfolio through his participation in the Program:
+. . . when I filed my tax return, I was getting approximately a tax credit of, I think $46,000 on what I firmly believed was my full donation, and that those funds would be excess to my needs and my family's needs. I live much below my income, and I -- what I do when I get excess funds vis-à-vis excess funds, I would invest it. I have an investment portfolio, and -- or several, and so that my thought was that I would not have a benefit, because I -- the funds in effect would be dedicated to the payment and earnings to the debt, and so that's what I did, and I didn't have -- the use of those funds were not available to me under that arrangement.
+Now, as to the numbers, there would be the $12,000 paid to Rochester as a security deposit, as they call it, or investment fund. There would be a tax savings that I mentioned, and so that would be a fund. And then there would be my donation that I already made.
+So what I had was I had $46,000 less the $11,000 donation, plus the amount invested with Rochester, so it went . . . back up to $47,000.
+JUSTICE SPIRO: Brought what up to $47,000?
+MR. CRANE: Sorry?
+JUSTICE SPIRO: What came up to $47,000?
+MR. CRANE: Oh, the tax credit less the $11,000 donation, plus . . . the $12,200 to Rochester.
+JUSTICE SPIRO: What is that . . .
+MR. CRANE: That's my arithmetic, comes to about $47,000, and that I invested. [20]
+[25] The Appellant’s evidence was that the amount of $47,000 was excess to his living needs and, as always, excess funds went into investments. [21] In argument, the Appellant returned to the same theme, noting that he had invested the “tax savings” in his portfolio. [22]
+Self-Funding $89,000 Loan
+[26] I find that the loan of $89,000 was effectively self-funding as the Appellant did not expect to (a) pay interest out of pocket, or (b) repay principal out of pocket. The Appellant did not expect to make any such payments out of pocket because he expected all those payments to be fully funded from his Security Deposit of $12,200.
+[27] With respect to interest, the Appellant acknowledged that payments of interest would come out of his Security Deposit of $12,200. [23] This is consistent with paragraph 1.4 of Schedule A to the Loan Application and Power of Attorney, the last sentence of which states:
+. . . . The parties agree that a portion of the Security Deposit and its earnings shall be used to pay the interest on the Loan Amount.
+[28] With respect to principal, the Appellant testified that in 2004 “it was reasonable to believe that that sum [the Security Deposit of $12,200] could accrete in a net way to $89,000 in ten years.” [24] In light of (a) the rise of China, (b) the tremendous tar sands boom, and (c) the computer services boom (e.g., Apple Inc.), the Appellant was confident that an “investment sum” [25] of $12,200 “could easily accrete to $89,000” [26] by the time the principal amount of the loan was due.
+Cost of the Appellant’s Participation in the Program
+[29] I find that the Appellant paid $23,200 as the cost of participation in the Program. Two separate amounts were paid by the Appellant by cheque in satisfaction of that cost:
+(a) the $11,000 portion of his $100,000 pledge not covered by the loan; and
+(b) his Security Deposit of $12,200. [27]
+Financial Benefits the Appellant Expected to Receive
+[30] I find that in consideration for his payment of $23,200, the Appellant expected to receive the following financial benefits:
+A. $47,000 to add to his investment portfolio;
+B. A same-day, limited recourse, [28] partially secured [29] loan of $89,000 in respect of which the Appellant did not expect to pay any interest out of pocket or repay any principal out of pocket; and
+C. The services of a discretionary portfolio manager whom he expected would invest on his behalf, on a tax-free basis, [30] the Security Deposit of $12,200 (along with the security deposits of other participants in the Program) in such a way as to fully fund:
+(i) all payments of interest on his $89,000 loan; and
+(ii) the repayment of principal on his $89,000 loan.
+The Herring Decision
+[31] In Herring, Justice Smith decided appeals by other taxpayers all of whom participated in similar leveraged donation arrangements and all of whom claimed charitable gifts to Banyan. Justice Smith thoroughly reviewed the facts in respect of each taxpayer before him along with applicable decisions of this Court and the Federal Court of Appeal. He dismissed the taxpayers’ appeals.
+[32] For purposes of this appeal, the ratio decidendi of Justice Smith’s decision in Herring is found at paragraph 159 of his reasons for judgment:
+[159] Based on an objective review of the evidence, the Court must conclude that the Appellants lacked the requisite donative intent, as that term has been defined in the jurisprudence. While they may have been motivated by the Program’s philanthropic objectives, they participated because of the benefit offered to them in exchange for their cash outlay. As stated by Justice Woods in Maréchaux TCC, “once it is determined that the appellant anticipated to receive, and did receive, a benefit in return for the Donation, there is no gift” (para. 42).
+[33] Although I do not propose to review the authorities that Justice Smith carefully considered in Herring, I reproduce below his discussion of “donative intent” as I have adopted it as part of my reasoning in this appeal:
+[112] The first issue to be addressed is whether the Appellants are entitled to a tax credit for “any part” of the Pledged Amount. As indicated above, the Appellants raise this while also acknowledging that the loan proceeds were never advanced.
+[113] Subsection 118.1(3) allows an individual to claim a tax credit with respect to “total charitable gifts” that are defined in subsection 118.1(1) as the total of all amounts each of which is an “eligible amount” of a gift made to, among others, a “qualified donee.” Pursuant to subsection 149.1(1), this includes “a registered charity.”
+[114] The term “gift” is itself not defined in the Act. However, it has frequently been examined in the jurisprudence where it has been described as a gratuitous transfer of property that is not made in exchange for a financial advantage or benefit. The leading authority is Friedberg v. R (1991) 92 DTC 6031 (Fed CA) (“Friedberg”) (affirmed by the Supreme Court of Canada) where Justice Linden indicated at page 6032:
+(...) a gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor (...) The tax advantage is not normally considered a “benefit” within this definition, for to do so would render the charitable donations deductions unavailable to many donors.
+[Emphasis added]
+[115] Therefore, as long as there has been i) a voluntary transfer of property owned by the donor ii) to a donee iii) in exchange for which no benefit or consideration has flowed to the donor, there will be a gift at law.
+[116] As noted in Friedberg, a taxpayer may be motivated by a tax advantage and still have the requisite intention to give charitably. In Marcoux-Côté v. Canada [2001] 4 CTC 54 (FCA) it was held that “obtaining a receipt from a charitable organization could not be viewed as consideration that would eliminate the gratuitous and liberal nature of the transaction” (para. 8) and in Mariano v. The Queen, 2015 TCC 244 (“Mariano”), Justice Pizzitelli held that a taxpayer’s expectation of a tax receipt does not vitiate the gift because that is not the “benefit contemplated by Friedberg and other case law” (para. 21). In Cassan v. The Queen, 2017 TCC 174 (“Cassan”), Justice Owen concluded that this would be the case “even if the amount of the receipt is inflated” (para. 298), relying on Canada v. Castro, 2015 FCA 225 (paras. 43-48) (“Castro”).
+[117] In Mariano, Justice Pizzitelli noted that Friedberg supports the notion that ‘donative intent’ is “an essential element of a gift” also described in Roman Law as “animus donandi or liberal intent”, meaning that the donor “must be willing to grow poorer for the benefit of the donee without receiving any compensation.” He added that:
+[20] It is clear that the element of “impoverishment” is the crucial element to be found in determining donative intent, and that it is often couched in the language of “impoverishment,” or “not enriching one’s self” or “profiting from the gift” as indicated in Berg, but also in many cases before this Court, including Bandi v The Queen, 2013 TCC 230, 2013 DTC 1192, and Glover v The Queen, 2015 TCC 199, [2015] TCJ No. 160.
+[118] It is established that the presence of ‘donative intent’ is ultimately a question of fact that cannot be determined on a subjective basis. As stated by Justice Iacobucci in the decision of Symes v. The Queen [1993] 4 SCR 695, para. 74 (“Symes”):
+As in other areas of the law where purpose or intention behind actions is to be ascertained, it must not be supposed that in responding to this question courts will be guided only by a taxpayer’s statement ex post facto or otherwise, as to the subjective purpose of a particular expenditure. Courts will, instead, look for objective manifestation of purpose, and purpose is ultimately a question of fact to be decided with due regard for all of the circumstances. ”
+[Emphasis added]
+[119] However, a taxpayer’s intention must not be confused with that which may motivate an individual to act. As noted by the Supreme Court of Canada in Backman v. The Queen, 2011 SCC 10 (“Backman”), “motivation is that which stimulates a person to act, while intention is a person’s objective or purpose in acting” (para. 22). In Klotz v. the Queen, 2004 TCC 147 (“Klotz”) Associate Chief Justice Bowman (as he then was), found that the taxpayer was only interested in obtaining a tax receipt but that this was not relevant. He explained that:
+25. (...) A charitable frame of mind is not a prerequisite to getting a charitable gift tax credit. People make charitable gifts for many reasons: tax, business, vanity, religion, social pressure. No motive vitiates the tax consequences of a charitable gift.
+[Emphasis added].
+[120] As more recently reviewed in Cassan, “donative intent (...) does not require a particular motive for the gratuitous transfer of property” and neither “altruism” nor “benevolence” or even “magnanimity and unselfishness” are essential requirements for a valid gift (paras. 283-298). [31]
+The Appellant’s Position
+[34] The Appellant contends that he expected no benefits from the Program. In this respect, he says he is different from the taxpayers in Herring and its antecedents in this Court and the Federal Court of Appeal.
+[35] First, he argues there was nothing contingent or interconnected about the series of transactions because the $11,000 cash component of his leveraged gift was not refundable had his loan application been rejected. [32] He notes that the cash component of other taxpayers’ gifts was refundable if their loan applications were rejected. He argues that that fact figured prominently in Justice Smith’s reasoning in Herring. In this regard, he relies heavily on paragraphs 160, 164, and 186 of Herring.
+[36] Second, he argues that his $89,000 loan had to be repaid where other taxpayers were under no such obligation or were assured that repayment would not be enforced. On that basis as well, he says, he is different than the rest.
+[37] Third, he argues that the terms of his loan were of no benefit to him as the interest rate of 4.5% was an arm’s length rate and the ten-year term was relatively modest compared to longer, more generous, repayment terms in other leveraged donation arrangements.
+[38] While I accept that (a) the $11,000 payment was not refundable, (b) the $89,000 loan, on its face, was to have been repaid, and (c) a 4.5% rate was an arm’s length rate of interest, the fact is that the Appellant expected to receive, and did receive, significant financial benefits from his participation in the Program. The financial benefits he expected to receive were slightly different than those which other taxpayers expected to receive, but that is of no moment.
+[39] The outcome of each case depends on its own facts and, in this case, the financial benefits the Appellant expected to receive at a cost of $23,200 were significant. In consideration for that payment, the Appellant expected an addition of $47,000 to his investment portfolio along with a same-day, limited recourse, partially secured, self-funding loan of $89,000. The Appellant’s expectation of these financial benefits vitiated any donative intent at the time of his alleged gift.
+Did the Appellant Make a Gift of $11,000?
+[40] At trial, as mentioned earlier, the Appellant conceded that he was not entitled to tax credits in respect of a charitable gift to Banyan of $100,000. Instead, he claimed tax credits only in respect of a charitable gift of $11,000 reflecting the cash component of his leveraged gift of $100,000.
+[41] In Herring, the taxpayers argued that they were entitled to charitable donation tax credits in respect of (a) the cash component of their alleged gifts and (b) their security deposits. In rejecting both claims, Justice Smith reasoned as follows:
+[162] Since the loan proceeds were never directly advanced to Banyan, the Appellants concede that they are not entitled to a donation tax credit for the full Pledged Amount. However, they maintain that they had the requisite donative intent for the cash outlay and Security Deposit and that they have been “impoverished” by those amounts that have not been refunded to them.
+[163] As explained by Justice Woods in Maréchaux TCC, on the issue of partial gifts, “in some circumstances, it may be appropriate to separate a transaction into two parts” (para. 48) but she went on to conclude that it was “not appropriate to separate the transaction in this manner” since there was “just one interconnected arrangement” and “no part of it can be considered a gift that the appellant gave in expectation of no return” (para. 49). The Federal Court of Appeal agreed in Maréchaux FCA (para. 12). [33]
+***
+[166] In the end, I am unable to distinguish the facts in this instance from Maréchaux TCC and Markou TCC, both affirmed by the Federal Court of Appeal. I conclude that ‘no part’ of the donation amount was a gift under the common law and this includes both the cash component and Security Deposit. [34]
+[42] In Herring, Justice Smith concluded that neither the cash component of the alleged gifts nor the security deposits were “voluntary payments, gratuitously made, but consideration paid in the context of an interconnected transaction or arrangement.” [35] I arrive at the same conclusion on the facts of this appeal.
+[43] The Appellant attempts to distinguish himself from the taxpayers in Herring by making a more modest proposal, namely, that he is entitled to charitable gift tax credits in respect of the $11,000 cash component of his claimed charitable gift but not in respect of his Security Deposit of $12,200.
+[44] Although the Appellant does make a more modest claim, I arrive at the same conclusion as Justice Smith in Herring for the same reasons. The $11,000 paid by the Appellant to Banyan was not a voluntary payment, gratuitously made. Rather, it was part of the total consideration of $23,200 and was an integral element of an interconnected arrangement or series of transactions from which the Appellant expected to receive $47,000 to add to his investment portfolio and a same-day, limited recourse, partially secured, self‑funding loan of $89,000. No part of the Appellant’s $100,000 pledge was a gift, including the cash component of $11,000.
+Conclusion
+[45] By 2007 or 2008, the Appellant came to believe that the Program was a fraud. [36] In a rare moment of introspection during argument, the Appellant offered a revealing self-assessment: “I did business, and I was deceived.” [37]
+[46] By participating in the Program, the Appellant certainly did do business. His sudden desire in 2004 to make a six-figure gift to a charity to which he had never donated is difficult to fathom unless he considered the entire series of transactions a prudent business deal. I have concluded that he participated in the Program for the financial benefits he expected to receive, including increasing the size of his own personal investment portfolio by $47,000 and receiving a same-day, limited recourse, partially secured, self-funding loan of $89,000.
+[47] With respect to the Appellant’s plea that he was deceived, the Latin maxim caveat emptor comes to mind particularly as the Appellant himself testified:
+. . . a person with a high risk tolerance is a person who has wealth and investments, sophistication, reasonably to take on high-risk investments, and that's what I warranted, and that's me. [38]
+[48] The Appellant participated in the Program because of the significant financial benefits he expected to receive. In light of the absence of donative intent on the part of the Appellant, there was simply no gift in these circumstances. I will, therefore, dismiss the Appellant’s appeal with costs in accordance with the tariff as requested by counsel for the Respondent.
+Signed at Toronto, Ontario, this 7th day of October 2022.
+“David E. Spiro”
+Spiro J.
+Schedule “A”
+CITATION:
+2022 TCC 115
+COURT FILE NO.:
+2013-3932(IT)G
+STYLE OF CAUSE:
+DAVID SAMUEL CRANE AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 12 and 13, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+October 7, 2022
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dan Daniels and Emmanuel Gibson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant’s lack of donative intent is sufficient to determine this appeal. For that reason, I have not discussed the alternative grounds argued by the Respondent in support of the reassessment.
+[2] At that time, the Ontario Superior Court of Justice was called the Ontario Court (General Division). The name of the Ontario Court (General Division) was changed to the Superior Court of Justice in April 1999 when Ontario’s Courts Improvement Act, 1996 came into force.
+[3] Notice of Appeal, page 6.
+[4] Notice of Appeal, page 7.
+[5] This change of position was first communicated by letter from the Appellant dated July 21, 2022.
+[6] The Respondent’s Request to Admit and the Appellant’s Response to the Request to Admit marked as Exhibit R1 (“Formal Admissions”), para 1.
+[7] Formal Admissions, paras 2, 3, 5, and 6.
+[8] Transcript of September 12, 2022, page 101, lines 1-5.
+[9] Transcript of September 12, 2022, page 60, line 28 to page 61, line 1. See also page 88, lines 18-20 of the Transcript of September 12, 2022 where the Appellant once again called the arrangement “this investment.”
+[10] The evidence is unclear on when exactly the first meeting between the Appellant and Mr. Anderson occurred. Because the Appellant had no record or recollection of any date earlier than March 4, 2004 for that first meeting, I draw the inference that both meetings occurred on March 4, 2004 in the Appellant’s chambers.
+[11] Transcript of September 12, 2022, page 87, lines 27-28.
+[12] Exhibit A10.
+[13] Transcript of September 12, 2022, page 61, lines 26-27.
+[14] The Appellant obviously misspoke during this portion of his evidence. I take the Appellant’s reference to his “cash donation” to refer to $11,000, not to the loan amount of $89,000.
+[15] Transcript of September 12, 2022, page 30, line 28 to page 31, line 14. In cross-examination, the Appellant admitted that he had not spoken with his tax accountant, Mr. Harrison, before deciding to participate in the Program (see page 99, line 24 to page 100, line 4 of the Transcript of September 12, 2022).
+[16] Transcript of September 12, 2022, page 79, lines 24-28.
+[17] Formal Admissions, para 17.
+[18] Formal Admissions, para 22.
+[19] One dictionary definition of “nonsense” is “[t]hat which is not sense; absurd or meaningless words or ideas.” See “nonsense, n. and adj.” OED Online, Oxford University Press, September 2022, www.oed.com/view/Entry/128094. Accessed 7 October 2022.
+[20] Transcript of September 12, 2022, page 65, line 1 to page 66, line 1.
+[21] Transcript of September 12, 2022, page 69, lines 5-7.
+[22] Transcript of September 13, 2022, page 25, lines 22-24.
+[23] Transcript of September 12, 2022, page 110, lines 14-17. On one occasion, the Appellant was called on to pay an amount of “interest” out of pocket which he did (Exhibits A7, A8, and A9), but that unanticipated demand was not made until November 2006 and, therefore, has no bearing on the Appellant’s intention when he decided to participate in the Program in March of 2004.
+[24] Transcript of September 12, 2022, page 56, lines 6-11.
+[25] Transcript of September 12, 2022, page 56, line 8.
+[26] Transcript of September 12, 2022, page 58, lines 9-19. The Appellant was so enamoured with the concept of “accretion” that he began his opening statement with a paean to the “accretive power of capitalism when selectively employed” (Transcript of September 12, 2022, page 11, lines 6-10).
+[27] Formal Admissions, para 18 and Schedule “B” to the Reply.
+[28] I find that the loan was limited recourse as paragraph 2.6 of Schedule A to the Loan Application and Power of Attorney provides that Rochester’s recourse was limited to the “Collateral” defined in paragraph 2.2 as the Security Deposit and all accretions thereto and income and proceeds thereof.
+[29] I find that the loan was partially secured as the only collateral taken by Rochester was $12,200, or less than 14% of the principal amount.
+[30] Paragraph 3.4 of Schedule A to the Loan Application and Power of Attorney effectively provides that the Appellant would never be out of pocket for any tax payable by him on the income earned on his Security Deposit of $12,200.
+[31] Herring, paras 112-120.
+[32] Whether rejection of the Appellant’s loan application was ever a serious possibility is open to question.
+[33] Herring, paras 162-163.
+[34] Herring, para 166.
+[35] Herring, para 164.
+[36] Transcript of September 12, 2022, page 14, line 21; page 49, line 15; page 109, line 24; and page 113, line 15.
+[37] Transcript of September 13, 2022, page 123, lines 23-24.
+[38] Transcript of September 12, 2022, page 117, lines 12-16. The Appellant made this statement in relation to paragraph 3.3.c of Schedule A to the Loan Application and Power of Attorney.

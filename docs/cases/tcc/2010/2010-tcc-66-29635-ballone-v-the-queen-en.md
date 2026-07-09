@@ -1,0 +1,151 @@
+---
+title: "Ballone v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29635/index.do"
+last_modified: "2010-02-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 66"
+citation2: ""
+neutral_citation: "2010 TCC 66"
+decision_date: "2010-02-03"
+language: "en"
+item_id: "29635"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6142
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:40:30.344000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "74a1780c6b8da24097dfb801f632ecc58f944db13e2050542a045868f7aa85fe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ballone v. The Queen
+
+- Citation: 2010 TCC 66
+- Decision date: 2010-02-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6142, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ballone v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-03
+Neutral citation
+2010 TCC 66
+File numbers
+2008-3184(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3184(IT)G
+BETWEEN:
+WILLIAM BALLONE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 26, 2010 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Samantha Hurst
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2003 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant realized a capital gain from securities transactions in the amount of $39,607 and a capital gain in respect of Florida properties in the amount of $88,264.
+Each party shall bear their own costs.
+Signed at Ottawa, Canada this 3rd day of February 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 66
+Date: 20100203
+Docket: 2008-3184(IT)G
+BETWEEN:
+WILLIAM BALLONE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, William Ballone, appeals in respect of an assessment made under the Income Tax Act for the 2003 taxation year.
+[2] The appellant was assessed four months after the expiry of the normal reassessment period to include: (1) capital gains from securities transactions in the amount of $39,607, and (2) income in the amount of $88,264 in respect of an investment with the appellant's brother, Maurizio Ballone.
+[3] At the commencement of the hearing, counsel for the respondent indicated that the appellant was not challenging the capital gains from securities transactions.
+[4] The only issue, then, concerns the purported investment with the appellant's brother.
+[5] The appellant was the only witness at the hearing.
+Background facts
+[6] In the 2003 taxation year, the appellant was a resident of Canada.
+[7] Between 1995 and 2002, the appellant resided in the United States and lived with his brother in Florida.
+[8] The brothers lived in three condominiums during this period. The first, unit 1104, was purchased in 1995 and was sold in 1997 for US$214,000. The property was owned by the brothers equally.
+[9] The second condominium, unit 409, was purchased in 1997 and was sold in 1999 for US$250,000. Title to this property was taken in the name of the appellant’s brother.
+[10] The third property, unit 2501, was purchased in 1999 and was sold in December 2002. Title was also taken in the name of the brother only. The selling price of this property was US$625,000.
+[11] The second property, unit 409, was purchased with funds received from the sale of the first property, including the appellant’s share in the amount of US$107,000.
+[12] Following the sale of the third property, unit 2501, the brother paid to the appellant a total of US$155,000 in two tranches. The first tranche, US$125,000, was paid on or about January 15, 2003 and the second, US$30,000, was paid on or about April 2, 2003 (Ex. A-4, A-5).
+[13] Late in 2002, the appellant moved back to Canada.
+Positions of parties
+[14] The respondent submits that the appellant made a profit from these transactions in the amount of CDN$88,264. This was calculated as the Canadian dollar equivalent of the difference between the appellant’s proceeds from the sale of the first property (US$107,000) and the amount paid to the appellant by his brother in 2003 (US$155,000).
+[15] The appellant, on the other hand, submits that this was not a profit-making venture. He testified that he provided his brother with funds to assist with the purchase of the second property and that he expected to get this money back at some point without interest. There was no verbal or written agreement with his brother, the appellant stated, but this was his expectation.
+[16] The appellant testified that the money received from his brother in 2003 was not profit but a return of his own money. According to the testimony, the funds came from the following sources: (1) repayment of the principal of a loan made to the appellant’s brother in 1997 (US$107,000), (2) a return of cash gifts to the appellant from his mother which originated from an inheritance and which were used to renovate and furnish the condominiums, and (3) a return of a loan to the appellant’s brother made in 1997 in the amount of US$35,649.71, which was lent from the proceeds from the sale of a car.
+Analysis
+[17] To a large extent, the outcome in this appeal depends on the acceptance of the appellant’s own testimony regarding the nature of the payments totaling US$155,000 which were received by the appellant from his brother in 2003.
+[18] The appellant did attempt to introduce supporting documentation in the form of correspondence from his mother and the purchaser of the car. The respondent objected to the introduction of these documents to establish the truth of their contents because the authors of these documents were not present in court to be cross-examined.
+[19] I agree with this objection. These documents would have no probative value since the authors could not be cross-examined.
+[20] The appellant did submit other documentation, such as the brother’s banking records, but they do not establish that the money originated from the sale of a car and gifts from the appellant’s mother.
+[21] As for the appellant’s oral testimony, I did not find the testimony regarding the sale of the car and the mother’s gifts to be convincing. The testimony was brief and vague and it was not nearly detailed and cogent enough to be reliable. For example, on cross-examination the appellant was asked how his mother transferred money to him. At first he stated that the gifts were made in cash, but on further questioning, he stated that he was not sure.
+[22] In light of the unsatisfactory testimony of the appellant and the lack of supporting documentation, I conclude that there is not a sufficient basis to exclude the amount of CDN$88,264 from income.
+[23] The issue that remains is whether the profit is ordinary income or a capital gain. If the true nature of the arrangement was that the appellant would share in any gain on the eventual sale of the condominiums, then the gain on balance is likely a capital gain.
+[24] The evidence is unsatisfactory to establish what the nature of the arrangement between the brothers was. I find it extremely unlikely that there was no agreement between the brothers, as the appellant suggests. However, that is not the end of the matter.
+[25] According to the reply, the Minister assumed that the appellant made this profit “on his investment in the second condominium.” The reference to a “second” condominium is actually a reference to the third property, unit 2501, but nothing turns on this slight error.
+[26] In light of this assumption, it would be reasonable to conclude that the profit in amount of CDN$88,264 was a capital gain.
+[27] The respondent submits that the profit should be ordinary income because the appellant was a real estate salesman.
+[28] It is certainly possible that the profit should be ordinary income on the basis that brothers were involved in a profit-making scheme to buy and sell condominiums. However, there was very little evidence to establish this and the brothers actually lived in each of the condominiums. In my view, it is reasonable to treat the profit as a capital gain.
+[29] In resolving this appeal, I have taken into account that the respondent has the burden to establish that the appellant was negligent or careless in excluding this amount from his income, either as ordinary income or a capital gain. In light of the above factual findings, this burden has been satisfied.
+[30] The appeal is allowed, and the assessment will be referred back to the Minister to reconsider and reassess on the basis that the appellant realized a capital gain from securities transactions in the amount of $39,607 and a capital gain in respect of Florida properties in the amount of CDN$88,264.
+[31] As success is divided, each party shall bear their own costs.
+Signed at Ottawa, Canada this 3rd day of February 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 66
+COURT FILE NO.: 2008-3184(IT)G
+STYLE OF CAUSE: WILLIAM BALLONE and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 26, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: February 3, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,854 @@
+Title: Touchette c. Le Roi
+Source: https://norma.lexum.com/tcc-cci/decisions/fr/item/521557/index.do
+Corpus path: corpus/cases/tcc/2025/2025-cci-195-521557-touchette-c-le-roi.md
+Document type: case_law
+Last modified: 2025-12-22
+
+# Touchette c. Le Roi
+
+- Citation: 2025 CCI 195
+- Decision date: 2025-12-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5610, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Touchette c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2025-12-22
+Référence neutre
+2025 CCI 195
+Numéro de dossier
+2019-108(IT)G, 2019-115(IT)G
+Juges et Officiers taxateurs
+Jean Marc Gagnon
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-108(IT)G
+ENTRE :
+DANIEL TOUCHETTE,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu les 8 et 9 mars 2023 à Sherbrooke (Québec), sous preuve commune de l’appel interjeté par la société par actions 9134‑3822 Québec inc. (2019-115(IT)G), suivi de représentations écrites en date du 24 mars 2023, 16 et 29 juin 2023
+Devant : L’honorable juge Jean Marc Gagnon
+Comparutions :
+Avocat de l’appelant :
+Me Maxime Chouinard
+Avocate de l’intimé :
+Me Anne Poirier
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, les appels concernant les nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2010 et 2011 sont accueillis, sans dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour réexamen et nouvelles cotisations en considérant les décisions suivantes :
+a. Année d’imposition 2010
+Les pénalités imposées en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu sont annulées et les corrections suivantes sont apportées :
+Correction
+Avis de nouvelle cotisation en appel
+Décision de la Cour
+Inclusion - Revenu non déclaré
+108 504 $
+54 328 $
+Avantage à l’actionnaire – 15 LIR
+88 433 $
+60 051 $
+b. Année d’imposition 2011
+Les pénalités imposées en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu sont annulées et les corrections suivantes sont apportées :
+Correction
+Avis de nouvelle cotisation en appel
+Décision de la Cour
+Avantage à l’actionnaire – 15 LIR
+53 206 $
+15 968 $
+Signé ce 22e jour de décembre 2025.
+« J. M. Gagnon »
+Juge Gagnon
+Dossier : 2019-115(IT)G
+ENTRE :
+9134-3822 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu les 8 et 9 mars 2023 à Sherbrooke (Québec), sous preuve commune de l’appel interjeté par Daniel Touchette (2019‑108(IT)G), suivi de représentations écrites en date du 24 mars 2023, 16 et 29 juin 2023
+Devant : L’honorable juge Jean Marc Gagnon
+Comparutions :
+Avocat de l’appelante :
+Me Maxime Chouinard
+Avocate de l’intimé :
+Me Anne Poirier
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, les appels concernant les nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition se terminant le 31 mars 2011, 31 mars 2012 et 31 mars 2013 sont accueillis, sans dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour réexamen et nouvelles cotisations en considérant les décisions suivantes :
+a. Année d’imposition se terminant le 31 mars 2011
+Les pénalités imposées en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu sont annulées et les corrections suivantes sont apportées :
+Correction
+Avis de nouvelle cotisation en appel
+Décision de la Cour
+Inclusion - Revenu non déclaré
+108 504 $
+54 328 $
+Déduction refusée - Dépenses
+(79 878 $)
+(61 583 $)
+Inclusion - Crédit de taxe sur les intrants
+10 066 $
+0 $
+b. Année d’imposition se terminant le 31 mars 2012
+Les pénalités imposées en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu sont annulées et les corrections suivantes sont apportées :
+Correction
+Avis de nouvelle cotisation en appel
+Décision de la Cour
+Dépenses refusées
+(46 703 $)
+(15 968 $)
+Inclusion du crédit de taxe sur les intrants
+6 503 $
+0 $
+c. Année d’imposition se terminant le 31 mars 2013
+Le montant des pertes autres qu’en capital réclamé par l’appelante pour l’année d’imposition 2013 provenant de la perte nette et du revenu imposable de l’appelante pour son année d’imposition 2012 est révisé pour correspondre à la perte nette et au revenu imposable de l’appelante résultant des corrections apportées à l’année d’imposition 2012 par le présent jugement.
+Signé ce 22e jour de décembre 2025.
+« J. M. Gagnon »
+Juge Gagnon
+Référence : 2025 CCI 195
+Date : 20251222
+Dossier : 2019-108(IT)G
+ENTRE :
+DANIEL TOUCHETTE,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé;
+Dossier : 2019-115(IT)G
+ENTRE :
+9134-3822 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Gagnon
+I. Préambule [1] Monsieur Daniel Touchette et la société par actions 9134-3822 Québec inc. (appelant et appelante respectivement, et collectivement les appelants) procèdent en procédure générale sous preuve commune à l’égard de cinq appels au total visant les années d’imposition 2010 et 2011 dans le cas de monsieur Touchette, et 2011, 2012 et 2013 dans le cas de la société par actions (9134). Chaque appel vise un avis de nouvelle cotisation distinct (nouvelle cotisation ou nouvelles cotisations) émanant du ministre du Revenu national (ministre).
+[2] Les appels visent plusieurs aspects aux nouvelles cotisations : revenus non déclarés, dépenses refusées de multiples fournisseurs, inclusion dans le calcul du revenu de crédits de taxes sur les intrants, avantage à l’actionnaire et pénalités pour faute lourde conformément au paragraphe 163(2) de la Loi de l’impôt sur le revenu[1].
+[3] À tout moment pertinent, monsieur Touchette, arpenteur-géomètre, est l’unique actionnaire et administrateur de 9134. 9134 œuvre depuis son incorporation dans le secteur immobilier. 9134 se qualifie à titre de société privée sous contrôle canadien aux fins de la Loi.
+[4] Au cours des années en appel, deux projets sont concernés. 9134 exploite en partenariat avec la société par actions 2849-8541 Québec inc. (2849), une co-entreprise du nom de Le Faubourg de la Renaissance (Co-entreprise). Les actions émises du capital-actions de 2849 sont détenues en totalité par monsieur Michel Leclerc, un entrepreneur en construction. La Co-entreprise réalise au cours des années en litige un projet immobilier impliquant notamment l’acquisition et la vente de lots, la réalisation de travaux d’infrastructure de rue et la construction d’immeubles à logements. De leur côté, messieurs Touchette et Leclerc réalisent personnellement en indivision un projet immobilier adjacent et similaire au projet mené par la Co-entreprise incluant la réalisation d’une rue privée (Rue privée).
+II. Contexte factuel [5] Messieurs Touchette et Leclerc sont des partenaires d’affaires. En 2008-2009, ils décident d’opérer, par le biais de sociétés par actions, la Co-entreprise en propriété indivise ayant pour objet la réalisation d’un projet immobilier situé sur le territoire de la municipalité de Granby qui consiste à acquérir un lot de terre, obtenir les autorisations provinciales, règlementaires et municipales requises, procéder au lotissement, réaliser les infrastructures de rue et disposer de ces lots en faveur notamment d’entrepreneurs en construction.
+[6] La Co-entreprise accomplit ultimement ces résultats sauf à l’égard des lots détenus en indivision par 9134 et 2849 désignés sous les numéros 4 250 243 et 4 250 252 du cadastre du Québec (Lot 243 et Lot 252 respectivement).
+[7] À une date à confirmer, les partenaires de la Co-entreprise cèdent aux deux actionnaires uniques les participations dans les Lot 243 et Lot 252. La cession en faveur de messieurs Touchette et Leclerc est réalisée en indivision et en part égale. Messieurs Touchette et Leclerc vont poursuivre à titre personnel un projet immobilier adjacent au projet immobilier de la Co-entreprise qui implique les Lot 243 et Lot 252 et le lot désigné sous le numéro 4 250 253 du cadastre du Québec (Lot 253) acquis récemment en indivision et en part égale par ces derniers pour constituer ensemble le projet immobilier mené personnellement.
+[8] Les prix d’achat des Lot 243 et Lot 252 versés par monsieur Touchette s’élèvent à 58 695 $ pour le Lot 243 et 45 150 $ pour le Lot 252.
+[9] La réalisation du projet immobilier à titre personnel et sa proximité avec le projet mené par la Co-entreprise impliquent des intérêts communs, des transactions avec lien de dépendance et la réalisation de dépenses de même nature auprès de mêmes fournisseurs. Ces opérations mènent à un examen par l’Agence du Revenu du Canada (ARC).
+[10] Le ministre émet des avis de nouvelle cotisation visant monsieur Touchette pour ses années d’imposition 2010 et 2011. À la suite des oppositions déposées, les ajustements finaux aux nouvelles cotisations visant monsieur Touchette et qui sont en appel dans ce dossier se résument comme suit :
+Monsieur Touchette
+2010
+2011
+Avantage à l’actionnaire (15(1) LIR) en lien avec la cession des Lot 243 et Lot 252 par 9134
+108 504 $
+Avantage à l’actionnaire (15(1) LIR) en lien avec les dépenses encourues par 9134 au bénéfice de monsieur Touchette dans le cadre de la réalisation de la Rue privée
+88 433 $
+53 206 $
+Montant assujetti à la pénalité du paragraphe 163(2) LIR
+196 937 $
+53 206 $
+[11] Les nouvelles cotisations visant 9134 en appel dans ce dossier reflètent à la suite des oppositions les changements finaux suivants aux années d’imposition se terminant le 31 mars 2011, 2012 et 2013 de la société par actions :
+9134
+31 mars 2011
+31 mars 2012
+31 mars 2013
+Revenu additionnel résultant de la hausse du prix de vente lors de la cession des Lot 243 et Lot 252
+108 504 $
+Dépenses refusées encourues à titre d’avantage à l’actionnaire (15(1) LIR) en lien avec la réalisation de la Rue privée par 9234
+(79 878 $)
+(53 206 $)
+Inclusion de crédits sur les intrants sur dépenses refusées (12(1)x) LIR)
+10 066 $
+Montant assujetti à la pénalité du paragraphe 163(2) LIR
+198 448 $
+53 206 $
+Report d’une perte de 47 162 $ réalisée au cours de l’exercice 31 mars 2012
+47 162 $
+III. Questions en litige [12] L’exposé ci-après des questions en litige est relativement détaillé considérant le nombre d’éléments en litige et de changements qui a été apporté à la suite de l’audition.
+[13] Monsieur Touchette soulève les questions suivantes dans son avis d’appel :
+9134 a-t-elle conféré à monsieur Touchette un avantage imposable à l’actionnaire au sens du paragraphe 15(1) LIR totalisant 207 510 $ révisé à l’avis d’opposition à $196 937 $ au cours de l’année d’imposition 2010 et de 53 206 $ au cours de l’année d’imposition 2011?;
+l’intimé a-t-il rencontré son fardeau permettant l’imposition de la pénalité pour faute lourde aux fins du paragraphe 163(2) LIR?
+[14] 9134 réfère aux questions suivantes dans son avis d’appel :
+la juste valeur marchande des Lot 243 et Lot 252 utilisée par l’ARC lors du transfert par 9134 en faveur de monsieur Touchette est-elle justifiée?;
+les dépenses relatives aux infrastructures et à l’équipement mécanique sont-elles déductibles du revenu imposable de 9134?;
+l’intimé a-t-il rencontré son fardeau permettant l’imposition de la pénalité pour faute lourde aux fins du paragraphe 163(2) LIR?
+[15] Les parties ont convenu de résumer au bénéfice de la Cour le montant et la nature des redressements qui demeurent en litige à la suite de l’audition des appels. Par lettre datée du 24 mars 2023, les parties ont transmis à la Cour les conclusions suivantes :
+A. Revenu non déclaré [16] L’intimé admet que la juste valeur marchande des Lot 243 et Lot 252 au moment de la transaction est celle déterminée par l’évaluatrice Lise Fortin. En conséquence, le revenu non déclaré affectant les deux appelants est révisé de la façon suivante :
+Lot
+Date
+Produit de disposition
+JVM ARC
+JVM admise par l’intimé
+243
+14 janvier 2010
+58 695 $
+116 000 $
+74 500 $
+252
+14 avril 2010
+45 150 $
+204 854 $
+138 000 $
+Total
+103 845 $
+320 854 $
+212 500 $
+Écart
+217 009 $
+108 655 $
+Revenu non déclaré
+108 504 $
+54 328 $
+[17] Considérant les éléments du paragraphe 16, le revenu non déclaré de 9134 lié à la disposition des Lot 243 et Lot 252 est révisé de 108 504 $ à 54 328 $ pour l’année se terminant le 31 mars 2011.
+[18] Du même coup, le montant de l’avantage à l’actionnaire aux fins du paragraphe 15(1) LIR de monsieur Touchette lié à l’acquisition des Lot 243 et Lot 252 pour l’année 2010 est révisé de 108 504 $ à 54 328 $.
+[19] La pénalité imposée en vertu du paragraphe 163(3) LIR sur ce redressement est annulée. La Cour comprend de la lettre des parties que le redressement vise les deux appelants.
+B. Dépenses refusées [20] La position de l’intimé au soutien du refus des dépenses de 9134 est essentiellement basée sur la nature personnelle des dépenses attribuables à monsieur Touchette.
+[21] Les dépenses d’infrastructure et de la Pelle 320 refusée de 9134 pour l’année se terminant le 31 mars 2011 demeurent inchangées. Le montant de ces dépenses est 79 878 $, auquel s’ajoute le montant de 10 066 $ à titre de crédit de taxe sur les intrants à inclure au revenu de 9134 conformément à l’alinéa 12(1)x) LIR. À noter que les appelants ne contestent plus 425 $ de dépenses facturées d’infrastructure et maintenues par l’intimé pour l’année de 9134 se terminant le 31 mars 2011.
+[22] Pour l’année d’imposition 2010 de monsieur Touchette, cette dépense s’élève à 78 346 $ pour les dépenses d’infrastructure et de la Pelle 320 en vertu du paragraphe 15(1) LIR et majorée de 10 087 $ à titre de taxes à la consommation en vertu du paragraphe 15(1.3) LIR.
+[23] La dépense d’infrastructure refusée de 9134 pour l’année se terminant le 31 mars 2012 est réduite pour tenir compte des trois factures admises lors de l’audition :
+Date de la facture
+Émettrice
+Montant (participation de 9134 seulement) (sans taxe)
+1er mars 2011
+Ville de Granby
+26 788,50 $
+23 juin 2011
+Les Entreprises Allaire et Gince inc.
+1 157,50 $
+31 décembre 2011
+Pavage G.O.
+797,50 $
+28 743 $
+[24] Pour l’année se terminant le 31 mars 2012 de 9134 la dépense d’infrastructure refusée est donc réduite de 39 658 $ à 10 915 $ (écart de 28 743 $) à laquelle s’ajoutent la dépense de la Pelle 320 de 7 045 $, et 2 501 $ à titre de crédit de taxe sur les intrants à inclure au revenu de 9134 conformément à l’alinéa 12(1)x) LIR. À noter que les appelants ne contestent plus en lien avec l’année de 9134 se terminant le 31 mars 2012 i) 7 015 $ de dépenses facturées d’infrastructures maintenues par l’intimé, et ii) 932 $ de dépenses facturées en lien avec la Pelle 320 toujours maintenues par l’intimé.
+[25] Pour l’année d’imposition 2011 de monsieur Touchette, l’avantage à l’actionnaire s’élève à 17 960 $ pour les dépenses d’infrastructure et de la Pelle 320 en vertu du paragraphe 15(1) LIR et majorée de 2 501 $ à titre de taxes à la consommation en vertu du paragraphe 15(1.3) LIR.
+[26] Après les admissions à l’audition, le redressement en litige existant entre les parties des dépenses refusées de 9134 pour chacune des années se terminant le 31 mars 2011 et 2012 est le suivant :
+9134
+Année au 31 mars 2011
+Année au 31 mars 2012
+Dépenses Infrastructures
+69 690 $ (- 425 $*)
+10 915 $ (- 7 015 $*)
+Dépenses relatives à la Pelle 320
+Essence
+6 145 $
+1 093 $ (- 435 $*)
+Entretien
+324 $
+4 266 $ (- 356 $*)
+Assurance
+692 $
+970 $ (- 81 $*)
+Intérêts Caterpillar
+1 332 $
+716 $ (- 60 $*)
+Taxes – Droit de mutation
+1 695 $
+Total contesté
+77 921 $
+10 013 $
+Crédit de taxe sur les intrants visé à l’alinéa 12(1)x) LIR
+10 066 $
+2 501 $**
+* : Montant non contesté.
+** : Montant révisé à la suite de la révision du montant des dépenses d’infrastructure refusées.
+[27] La pénalité du paragraphe 163(2) LIR imposée par l’intimé sur les dépenses refusées de 9134 est maintenue pour les deux années 2011 et 2012 sur 89 944 $ et 20 461 $ respectivement. Ces deux montants reflètent les dépenses décrites plus haut et sont majorés de 10 066 $ et 2 501 $ respectivement pour crédit de taxe sur les intrants réclamé sur des dépenses refusées et inclus en vertu de l’alinéa 12(1)x) LIR.
+[28] La pénalité imposée par l’intimé en vertu du paragraphe 163(2) LIR pour l’année 2010 de monsieur Touchette est maintenue en lien avec l’avantage à l’actionnaire provenant des dépenses totales refusées de 88 433 $ tel que présenté plus haut. La pénalité imposée par l’intimé en vertu du paragraphe 163(2) pour l’année d’imposition 2011 de monsieur Touchette est maintenue en lien avec l’avantage à l’actionnaire révisé provenant des dépenses refusées à 20 461 $ composés de 17 960 $ sous le paragraphe 15(1) LIR et 2 501 $ sous le paragraphe 15(1.3).
+C. Questions à trancher par la Cour [29] La Cour est donc saisie des points suivants visant les deux appelants :
+Date de transfert et valeur marchande des Lot 243 et Lot 252 : déterminer la date de transfert des lots par 9134 à monsieur Touchette et la valeur des lots à cette date. Les appelants sont d’avis que les transferts de propriété se sont produits antérieurement à la signature des actes notariés qui constitue la position de l’intimé. La date de transfert de propriété des appelants peut expliquer une juste valeur moindre à la date des transferts.
+Dépenses refusées : déterminer si les dépenses refusées d’infrastructures et de la Pelle 320 ont été encourues par 9134 pour le bénéfice personnel de monsieur Touchette. La justesse de la pénalité du paragraphe 163(2) LIR a-t-elle été établie par l’intimé?
+Crédit de taxe sur les intrants réclamé quant aux dépenses refusées : les appelants se sont opposés au traitement retenu par l’intimé concernant l’application du sous-alinéa 12(1)x)(ii) LIR et du paragraphe 248(16) LIR. La Cour note que cette question n’est pas soulevée dans l’avis d’appel ni la réponse. Cependant, l’intimé ne s’y est pas opposé.
+IV. Analyse A. Date du transfert de propriété et valeur marchande des Lot 243 et Lot 252 [30] La date de transfert des Lot 243 et Lot 252 est importante afin de connaître le moment à lequel le quantum des conséquences fiscales du transfert sera déterminé pour les acteurs concernés. Les implications sont essentiellement liées à la détermination de la valeur marchande des Lot 243 et Lot 252 à la date de transfert du droit de propriété des lots de 9134 à l’appelant. La détermination affecte le produit de disposition réputé des lots pour 9134 et la valeur de l’avantage conféré à l’appelant, le cas échéant.
+[31] Monsieur Touchette est l’unique témoin des appelants concernant la date d’acquisition à titre personnel des Lot 243 et Lot 252 par ce dernier et son partenaire monsieur Leclerc. Cette situation empêche donc toute possibilité de corroboration dans les circonstances.
+[32] Les parties n’ont pas questionné les dispositions techniques de la Loi impliquées dans ce débat. La Cour ne propose donc pas de les revisiter. Plutôt, les faits mis en preuve à l’audition sont au centre de la détermination de la valeur marchande.
+[33] L’appelant est arpenteur-géomètre de profession. Il est administrateur et actionnaire unique de 9134.
+[34] Le 17 décembre 2004, 9134 et 2849 achètent en parts égales un vaste terrain vacant à Granby qui deviendra le projet de la Co-entreprise.
+[35] Les appelants retiennent une date en juillet 2009 pour l’acquisition des Lot 243 et Lot 252. Monsieur Touchette souligne qu’il se comporte à titre de propriétaire des Lot 243 et Lot 252 de façon concomitante au moment où lui et monsieur Leclerc ont procédé à l’achat du Lot 253 voisin.
+[36] L’intimé s’en remet plutôt aux dates où le transfert des Lot 243 et Lot 252 a été cristallisé à l’acte notarié visant chacun des lots : le 14 janvier 2010 pour le Lot 243 et le 16 avril 2010 pour le Lot 252.
+[37] La Cour fait donc face à des positions relativement différentes. La position des appelants est essentiellement basée sur une preuve factuelle qui a pour résultat de contredire les actes authentiques que sont les actes notariés minutés par le notaire instrument pour confirmer les actes de transfert des Lot 243 et Lot 252. La Cour doit évaluer alors la force probante de l’écrit et du témoignage pour décider lequel reflète l’intention véritable des parties à l’acte[2].
+[38] Selon monsieur Touchette, les Lot 243 et Lot 252 qui font partie initialement de la Co-entreprise ne suscitent pas d’intérêt auprès des acheteurs, en raison des importants travaux de remblaiement nécessaires afin de les élever à la hauteur de la rue et de les rendre constructibles[3].
+[39] Monsieur Touchette témoigne qu’en avril 2009, alors que la signature du Protocole 2009 est imminente, les propriétaires du Lot 253, situé au sud des Lot 243 et Lot 252, offrent à messieurs Touchette et Leclerc[4] de leur vendre ledit lot. Monsieur Touchette déclare qu’ils ont alors examiné l’opportunité d’affaires pour ensuite décider d’aller de l’avant et mener à bien un second projet de développement résidentiel plus au sud nécessitant la réalisation de la Rue privée vu l’enclave du Lot 253, lequel serait toutefois exploité à titre personnel, et non par l’entremise de sociétés par actions. Au cours du mois d’août 2009, le Lot 253 est finalement acquis par les deux individus en parts égales[5]. C’est dans ce contexte que, pour compléter ce projet de développement en leur nom personnel, chacun acquiert en indivision 50% des Lots 243 et Lot 252 détenus par 9134 et 2849[6].
+[40] Selon monsieur Touchette, l’acquisition en indivision des Lot 243 et Lot 252 s’effectue en juillet 2009 de façon concomitante à l’achat du Lot 253, puisqu’il se serait comporté à titre de propriétaire sur les Lot 243 et Lot 252 depuis ce moment[7]. En effet, les démarches visant à construire un immeuble à logements sur le Lot 243 auraient débutées en juillet 2009, et la construction elle-même en août de la même année. La construction sur le Lot 252 aurait quant à elle débuté vers le mois de mars-fin printemps 2010[8]. Des permis de construction auraient d’ailleurs été émis par la Ville de Granby le 6 août 2009 pour le Lot 243, et le 5 février 2010 pour le Lot 252[9].
+[41] Le témoignage de monsieur Touchette en principal ne confirme pas à qui ou à quelle entité les permis de construction de la Ville de Granby ont été émis. L’interrogatoire est également silencieux à savoir si la Ville de Granby a été avisée des transferts de propriété des Lot 243 et Lot 252 avant qu’ils ne soient constatés par acte notarié. La Cour note que les permis ne sont pas en preuve bien que des références y sont faites par le témoin pour expliquer la trame des faits.
+[42] En contre-interrogatoire, monsieur Touchette affirme qu’aucune promesse d’achat écrite n’est intervenue entre lui et 9134 quant à la vente des Lot 243 et Lot 252 avant la signature des contrats de vente devant notaire les 14 janvier 2010 et 16 avril 2010. Ce ne serait qu’une entente verbale[10].
+[43] Les appelants sont d’avis que leur position ne nécessite pas une inscription en faux puisqu’ils n’attaquent pas une énonciation de fait que l’officier public avait pour mission de constater[11]. La Cour n’est pas convaincue de cette position telle qu’exposée. Le jugement de la Cour supérieure du Québec dans Gaudreau[12], entre autres, présente la position suivante relativement à l’inscription en faux :
+[16] La doctrine et la jurisprudence nous enseignent un certain nombre de principes quant aux conditions nécessaires pour donner ouverture à l'inscription de faux. Elles ont bien été résumées par l'honorable Pierre Boudreault dans l'affaire St Stanislas de Kostka (Corp. municipale du village de) c. Dumouchel [[1988] R.J.Q. 2860], il écrit:
+"Il y a deux sortes de faux, chacun étant susceptible d'ouvrir la voie de l'inscription de faux, soit le faux matériel et le faux intellectuel. Le premier découle d'un changement matériel, de l'altération physique apportée à un acte notarié. Le deuxième affecte la substance même de l'acte. Il est la traduction fautive ou la consignation erronée par le notaire de la volonté exprimée des parties.
+Il y a lieu de s'inscrire en faux, soit pour un faux matériel, soit pour un faux intellectuel, lorsque le notaire a mal constaté, par erreur ou inadvertance, ce qu'il avait mission de constater à titre d'officier public ayant pouvoir d'authentifier certains actes. L'erreur doit émaner du notaire; le faux doit résulter de l'acte même de l'officier public car s'il a correctement inscrit ce qu'il a perçu et constaté, ce que les parties lui ont représenté, il n'y a pas de faux. Si ce sont les parties (ou l'une d'elles) qui ont induit le notaire en erreur, l'inscription de faux n'est pas la procédure appropriée. Ainsi, toute déclaration ou fait que le notaire n'a pas mission de constater et dont la sincérité ou vérité est mise en doute sera contestée par d'autres procédures que l'inscription de faux qui met en cause la sincérité de l'officier public. La distinction est d'importance en ce qui concerne entre autres l'administration des règles de preuve.
+Bref, c'est seulement lorsque la véracité et la sincérité du témoignage de l'officier public dans l'acte qu'il rédige est mise en doute qu'il y a lieu à l'inscription de faux [op. cit. pp. 2862 et 2863]".
+[17] Ces principes n'ont pas été modifiés par l'entrée en vigueur du Code civil du Québec en 1994 puisque l'article 2821 C.C.Q. reprend le texte de l'article 1211 C.c.B.C.
+[18] L'acte notarié est un acte authentique. Le Code civil et la Loi sur le notariat [L.R.Q., c. N-3] énoncent les faits que le notaire a mission de constater:
+- la date et le lieu de l'acte juridique
+- l'identité des parties;
+- la lecture de l'acte; et
+- la signature de l'acte par les parties et, le cas échéant, par les témoins.
+[19] Certes, le notaire doit reproduire la volonté des parties. Cependant, toute énonciation d'une déclaration ou d'un fait que le notaire n'a pas pour mission de constater, dont la sincérité ou la vérité est mise en doute, doit être contesté par d'autres procédures que l'inscription de faux [Denis Ferland et Benoît Emery, Précis de procédure civile du Québec, vol. 1, 4e édition, Les Éditions Yvon Blais, art. 223, no.5. Jean Claude Royer, La preuve civile, 3e édition, Les Éditions Yvon Blais, p. 182 et 183.]
+[44] La Cour d’appel du Québec dans l’appel logé par 9065 ajoute :
+[10] Le faux intellectuel touche la substance d'un acte. Me Henri Kélada explique la distinction entre celui-ci et le faux matériel :
+Le faux matériel découle d’un changement matériel, de l’altération physique d’un acte notarié. Le faux intellectuel affecte la substance même de l’acte. Il consiste en une traduction fautive ou en une consignation erronée par le notaire de la volonté exprimée par les parties. [Henri Kélada, Les incidents, 2e éd., Cowansville, Éditions Yvon Blais, 2003, p. 53 et 54.]
+[11] Pour démontrer un faux intellectuel, il faut apporter une preuve forte, claire et précise[Gaudreau c. Latreille, 2007 QCCS 160, paragr. 24, citant Joanisse v. Liberty, [1974] C.A. 512, 513.]. En cette matière, le fardeau de preuve demeure toutefois celui exigé par l'article 2804 C.c.Q., soit la balance des probabilités. L'état du droit est ainsi résumé par le professeur Léo Ducharme [Léo Ducharme, Précis de la preuve, 6e éd., 2005, Wilson et Lafleur, Montréal, p. 121, paragr. 294.] :
+294. Parce que, lors d'une inscription de faux, la preuve testimoniale est librement admissible et que le fardeau de la preuve n'est pas plus exigeant que dans toute autre cause civile, il ne faut pas en déduire pour autant que la preuve d'un faux dans un acte notarié ne présente aucune difficulté. La jurisprudence considère qu'il ne suffit pas que le requérant vienne affirmer que le notaire a commis un faux pour que sa prétention soit retenue. Elle exige que son témoignage soit corroboré. C'est dire que pour combattre la présomption de vérité qui s'attache aux déclarations du notaire sur les faits qu'il avait mission de constater, il faut « une preuve très forte, très claire et très précise ».
+[12] Ce passage est cité avec approbation par notre Cour dans l'affaire récente Caisse populaire de St-Lambert (Caisse Desjardins Charles-Lemoyne) c. Gestion et placement Bru-Gen inc. [2008 QCCA 237, paragr. 7.]
+[13] En l'espèce, la preuve de l'intimée repose principalement sur des témoignages. Le juge a non seulement entendu les parties, mais également le notaire Handfield qui a rédigé l'acte. Ce dernier a été catégorique. Il a reçu les instructions de M. André Grétry, représentant de l'intimée, qui lui a demandé d'ajouter à l'acte une clause de droit de premier refus[Une clause de premier refus réciproque selon M. Grétry, c'est-à-dire visant tant l'immeuble de l'appelante situé d'un côté de la rue, que celui de l'intimée, de l'autre côté.] et non une option d'achat. Toutefois, il n'était pas familier avec ce type de clause et a cherché un modèle de rédaction. N'en ayant pas trouvé, il a utilisé comme modèle une clause ayant été incluse dans un contrat touchant une ferme. Pour lui, il s'agissait et s'agit toujours d'une clause contenant un droit de premier refus et rien de plus.
+[14] Le juge a conclu que les témoignages de M. Grétry et de Me Handfield étaient en outre confirmés par celui de M. Daniel Hamelin, représentant de l'appelante.
+[45] La situation actuelle présente des similitudes avec la situation exposée par la Cour d’appel où le notaire instrument aurait constaté une traduction fautive de la volonté des parties. Dans le cas actuel, le notaire instrument insère les paragraphes suivants aux actes authentiques que sont les contrats notariés des Lot 243 (14 janvier 2010) et Lot 252 (16 avril 2010) :
+POSSESSION
+L’acquéreur devient propriétaire de l’immeuble à compter de ce jour, avec possession immédiate.
+…
+DÉCLARATION RELATIVE À L’AVANT-CONTRAT
+Les parties conviennent que les seules relations juridiques les liant sont constatées par le présent contrat qui annule toutes ententes précédentes.
+[46] La Cour note également que les services du même notaire instrument sont retenus par les appelants et leurs associés aux fins de d’autres contrats ou affaires immobilières. Dans le cas de l’acquisition par messieurs Touchette et Leclerc du Lot 253 intervenu en juillet 2009, le notaire instrument insère cette fois sous les sujets présentés au paragraphe 45 les paragraphes suivants à l’acte authentique du contrat notarié du Lot 253 :
+POSSESSION
+L’acquéreur devient propriétaire de l’immeuble à compter de ce jour, avec possession et occupation immédiates.
+…
+DÉCLARATION RELATIVE À L’AVANT-CONTRAT
+Les parties conviennent que les seules relations juridiques les liant sont constatées par le présent contrat qui annule toutes ententes précédentes.Cette vente est faite en exécution de l’avant-contrat signé par le vendeur en date du vingt-cinq (25) avril deux mille neuf (2009), accepté par l’acquéreur le vingt-sept (27) avril deux mille neuf (2009). Sauf incompatibilité, les parties confirment les ententes qui y sont contenues mais non reproduites aux présentes.
+(annotations ajoutées)
+[47] Considérant ces règles de l’inscription en faux, il apparaît incertain que les appelants sont en droit de présenter une position contraire à celle exprimée aux contrats notariés des Lot 243 et Lot 252 sans procéder à une inscription en faux. L’inscription en faux n’est pas requise si le notaire a correctement reflété l’intention des parties et qu’il n’y a pas erreur de sa part. Si ce sont les parties à l’acte notarié qui ont induit le notaire en erreur, l’inscription en faux n’est pas la bonne procédure non plus. Cependant, dans les deux cas, bien que pour des motifs différents, l’attaque du contrat notarié par les appelants est d’autant plus difficile sur l’unique témoignage de monsieur Touchette.
+[48] Les appelants soumettent que la présomption prévue à l’article 1710 CcQ s’applique en l’espèce. La promesse de vente verbale qui serait intervenue en juillet 2009 entre 9134 et monsieur Touchette quant aux Lot 243 et Lot 252[13], de façon concomitante à l’achat par monsieur Touchette d’une part indivise du Lot 253 par acte notarié en juillet 2009, aurait été accompagnée de délivrance et possession actuelle, puisque monsieur Touchette se serait comporté comme le véritable propriétaire des lots[14]. Ainsi, selon les appelants, ladite promesse de vente équivaut à vente.
+[49] La position des appelants est tributaire et ne repose que sur le témoignage de monsieur Touchette qui en droit acquiert une part indivise n’excédant pas 50 % dans les deux lots et qui détient 100 % des actions émises du capital-actions de la co-cédante 9134 et aucune du capital-actions de 2849. L’autre part indivise de 50 % des lots est acquise par monsieur Leclerc qui détient toutes les actions du capital-actions de l’autre co-cédante 2849.
+[50] Cela noté, avec ou sans inscription en faux, la Cour n’est pas convaincue que la preuve offerte suffise à établir que monsieur Touchette soit devenu propriétaire des Lot 243 et Lot 252 en juillet 2009. Des éléments concernant les travaux sur les Lot 243 et Lot 252 ont été invoqués. Mais surtout, les circonstances concomitantes concernant l’acquisition du Lot 253 par messieurs Touchette et Leclerc ont été présentées pour soutenir l’acquisition des Lot 243 et Lot 252 au même moment.
+[51] Les propriétaires du Lot 253 approchent les appelants en avril 2009 pour vendre le lot. Le propriétaire est également le propriétaire du Lot 254 contigu au Lot 253 qui lui est enclavé[15]. Messieurs Touchette et Leclerc décident d’acheter personnellement et signe une promesse d’achat en avril 2009 et la transaction opérant le transfert de propriété est notariée le 22 juillet 2009 toujours devant le même notaire de monsieur Touchette, Me Daviau[16]. Bien qu’une promesse d’achat du Lot 253 ait été signée plus tôt, la Cour prend acte du transfert de propriété en juillet 2009 et de la mention d’un avant-contrat intervenu en avril 2009, mais sans aucune trace ou transaction devant le notaire instrument Me Daviau n’est signée concernant les Lot 243 et Lot 252. L’unique raison de cette absence serait l’emploi du temps du notaire instrument habituel des appelants. Deux actes notariés à deux dates différentes et à bien des égards très similaires quant à leur contenu. Cela laisse toute apparence de décisions délibérées ou encore d’une indifférence quant à la date de transfert à cristalliser.
+[52] Monsieur Touchette témoigne qu’une entente verbale seulement serait intervenue pour acquérir les Lot 243 et Lot 252 des sociétés par actions propriétaires. Malheureusement, cette situation ne peut être suivie pour soutenir un transfert de propriété des Lot 243 et Lot 252 en juillet 2009.
+[53] Le témoignage de monsieur Touchette n’a pas convaincu et aucun autre témoignage n’a permis de corroborer son témoignage. Le co-propriétaire monsieur Leclerc n’a pas témoigné, ni même un officier ou administrateur de 2849. Dans un tel contexte, la Cour est placée dans une situation délicate pour favoriser la valeur probante d’un seul témoignage non corroboré dont l’auteur ne peut agir seul considérant l’indivision existant avec monsieur Leclerc. Deux actes authentiques sont intervenus entre les deux acquéreurs et les deux cédantes et chacun de ces actes exprime la volonté de chaque partie au contrat notarié, notamment quant à la prise de possession à titre de propriétaire et la volonté claire des parties exprimée à l’acte quant à l’absence d’une situation juridique quelconque existant avant la signature des actes authentiques visant les Lot 243 et Lot 252.
+[54] Au surplus, le notaire instrument aux actes n’en était pas à ses premières expériences avec les acquéreurs et l’acte authentique qu’est le contrat notarié relatif à l’acquisition du Lot 253 démontre clairement que lorsque des circonstances particulières existent relativement à un avant-contrat de toute sorte, les parties ont dévoilé la situation. Les appelants étaient également familiers des promesses d’achat écrites compte de leur expérience dans le secteur immobilier. Aucune promesse n’a été signée pour les Lot 243 et Lot 252. Et il n’en est rien dans les contrats notariés des Lot 243 et Lot 252.
+[55] Dans un tel contexte, où seule la preuve testimoniale de monsieur Touchette est au dossier, la Cour est d’avis que la valeur probante des contrats notariés n’a pas été attaquée avec succès, et que l’intention véritable des parties aux actes notariés, aux fins d’établir les dates d’acquisition des Lot 243 et Lot 252, demeure reflétée aux actes. En conséquence, les dates d’acquisition des Lot 243 et Lot 252 le 14 janvier 2010 et le 16 avril 2010 respectivement sont retenues par la Cour pour refléter l’intention véritable des parties.
+[56] Le fardeau de la preuve dans les circonstances ne pouvait pas reposer que sur les épaules de monsieur Touchette. Nonobstant la position que monsieur Touchette a exposé lors de son témoignage, le rôle et la position de monsieur Touchette en droit, notamment en regard de ses droits dans la Co-entreprise, ne suffisent pas à renverser la volonté exprimée aux contrats notariés par toutes les parties impliquées. De l’avis de la Cour, la preuve est insuffisante.
+[57] La valeur marchande aux fins des présentes est donc celle en date du 14 janvier 2010 pour le Lot 243 et du 16 avril 2010 pour le Lot 252.
+[58] Aux fins d’établir ces valeurs marchandes, la preuve inclut les témoignages de madame Fortin et de monsieur Touchette ainsi que le dépôt par les appelants des rapports d’évaluation amendés préparés par madame Fortin, évaluateur agréé, en lien avec les Lot 243 et Lot 252.
+[59] De plus, l’intimé admet maintenant les valeurs marchandes des Lot 243 et Lot 252 contenues aux rapports d’évaluation amendés de madame Fortin. Certains des appels seront accueillis si ce n’est entre autres pour donner suite à cette admission.
+[60] Madame Fortin est évaluateur agréée depuis plus de 10 ans mais dans le domaine de l’évaluation depuis 12-13 ans. Elle concentre sa pratique dans l’évaluation de terrains de toutes sortes pour résidence, de valeur assurable, de fonds de prévoyance, de valeur marchande et de valeur rétroactive.
+[61] En mars 2014, Madame Fortin accepte deux mandats dont chacun consiste à présenter une évaluation de la valeur marchande rétroactive de chacun des Lot 243 et Lot 252 en date du 15 janvier 2010 et du 16 avril 2010 respectivement. Pour chacun des lots, un rapport d’évaluation amendé est déposé en preuve.
+[62] L’interrogatoire principal de madame Fortin a été relativement court. Son témoignage n’a pas permis d’apporter beaucoup de précisions sur la nature exacte des mandats obtenus de monsieur Touchette ou encore sur le travail de remblai qui pouvait concerner le Lot 243. Le Lot 243 a été soulevé essentiellement pour expliquer les écarts avec la valeur retenue par l’évaluateur de l’ARC.
+[63] Peu de propos ont été introduit concernant le Lot 243 si ce n’est que de confirmer la valeur marchande qu’elle a identifiée et les raisons de son écart avec le rapport initialement rédigé par l’ARC. Aucun autre élément n’a été abordé[17].
+[64] Concernant le Lot 252 et en réponse à ce qu’elle pouvait dire sur le rapport d’évaluation amendé déposé en preuve, madame Fortin a formulé qu’elle s’était basée sur le commentaire suivant[18] :
+Je me suis basée sur la superficie totale qu’il était possible de faire, à ce moment-là, qui était à possibilité de construire – à la date que l’évaluation était faite, qui était possible demain matin de faire une construction dessus sur un marché normal dans la période de temps demandée en juillet 2009.
+J’ai utilisé les comparables dans le même secteur puis dans les mêmes périodes de temps. Mais il n’y avait pas de restriction pour donner une partie à la rue dans ce terrain-là. Si demain matin on construisait dessus, il n’y avait pas de restriction.
+[65] Madame Fortin est ensuite interrogée sur ce qui pourrait possiblement expliquer la raison pour laquelle les appelants ont transigé le Lot 252 à un prix moindre que le Lot 243 bien que le Lot 252 soit d’une superficie plus grande. Madame Fortin a associé cette situation à possiblement l’existence d’une complexité de construction plus importante sur ce lot. À cet égard, l’avocat des appelants l’a invitée à commenter des photos prises en mars 2014 d’un muret et des constructions sur le Lot 252. Ces photographies ont été essentiellement la seule source pour répondre aux questions[19]. Madame Fortin a confirmé que du travail mécanique de nivellement avait été complété. Elle a confirmé ne pas avoir évalué le coût de ces travaux dans le cadre de son mandat. Son témoignage n’a pas permis de déterminer à quel moment le travail avait été fait et quel en avait été le coût. Elle confirme que son mandat d’évaluation rétroactive n’était pas de procéder à l’évaluation du travail qui a consisté à créer un muret.
+[66] En revanche, elle confirme que l’évaluation du Lot 252 est basée sur la superficie totale qu’il était possible, à ce moment-là, de construire sur le lot à la date d’évaluation demandée dans un marché normal dans la période de temps demandée en juillet 2009[20]. Cette réponse permet donc d’envisager que le Lot 252, bien que susceptible de présenter un dénivelé, le dénivelé n’aurait pas eu pour conséquence d’empêcher toute construction sur l’entièreté du lot.
+[67] L’interrogatoire principal n’a pas permis d’en apprendre davantage sur les valeurs ou les circonstances qui pouvaient exister en juillet 2009[21].
+[68] En contre-interrogatoire, il a été confirmé que les deux rapports déposés en preuve par les appelants sont des rapports d’évaluation amendés de rapports précédents visant entre autres pour le Lot 243 la même date d’évaluation. Elle précise qu’elle a reçu le mandat en mars 2014.
+[69] Madame Fortin précise que son mandat est d’évaluer les Lot 243 et Lot 254 à des dates rétroactives (15 janvier 2010 et 16 avril 2010 respectivement) en considérant qu’ils sont constructibles. Le contre-interrogatoire permet d’établir que le Lot 243 est certes déjà dans cette position puisqu’un immeuble y apparaît en pleine construction en septembre 2009 alors que la date d’évaluation rétroactive est le 15 janvier 2010. Bien qu’à l’évidence, la Cour note des réponses évasives[22]. Ultimement, madame Fortin a confirmé que le Lot 243 en janvier 2010 était un lot constructible[23].
+[70] Elle confirme qu’elle disposait de cartes topographiques afin de déterminer à quoi pouvait ressembler les lots en 2010, mais ces cartes n’ont pas été insérées aux rapports d’évaluation amendés déposés en preuve. Lors qu’interrogée au sujet des cartes en janvier 2010 pour le Lot 243, madame Fortin n’a pas été en mesure d’établir si le lot nécessitait en date de l’évaluation rétroactive du travail de remblai[24].
+[71] Fait intéressant, l’intimé demande à madame Fortin d’expliquer la raison d’avoir inséré en page du rapport d’évaluation amendé du Lot 243 la mention au point 2.4 de la page 6 (reproduite à l’alinéa c) du paragraphe 76) concernant l’identification des biens évalués alors que le Lot 243 était constructible vu l’hypothèse. Cette information est particulièrement importante pour le Lot 252 puisque la même mention y est faite.
+[72] Après quelques échanges, madame Fortin répond « Parce qu’on met toujours une réserve pour ça » et ajoute, lorsque appelé à préciser si cela est automatique sur tous les rapports, « C’est automatique ». Madame Fortin affirme que cette exigence provient du Code de déontologie des Évaluateurs agréés du Québec.
+[73] Relativement au Lot 252, le contre-interrogatoire de madame Fortin confirme que la date d’évaluation rétroactive est le 16 avril 2010 et que la visite des lieux est le 15 mars 2014 tout comme pour le Lot 243. Madame Fortin confirme ne pas avoir été sur le Lot 252 ni fait des démarches pour connaître l’état du lot, mais selon les cartes topographiques consultées le lot n’était pas constructible[25]. Elle précise qu’elle n’a aucune connaissance au sujet des travaux de remblai (dont les coûts possibles et date de réalisation) et qu’elle n’avait pas à s’y intéresser car la déduction des travaux serait déterminée par une autre expertise[26]. Des explications verbales seulement auraient été avancées par monsieur Touchette, sans document présenté par ce dernier[27].
+[74] Elle précise également que les dates d’évaluation rétroactives sont celles retenues par l’ARC et donc qu’il y avait un aspect de comparaison que les appelants voulaient apporter avec ses rapports d’évaluation. La Cour retient sur cet aspect que les dates de transfert de propriété plus tôt en juillet 2009 avancées par les appelants à l’audition n’ont pas été invoquées par les appelants avec l’ARC et n’ont pas fait l’objet de rapports d’évaluation distincts à cette période.
+[75] Cette information impacte considérablement la portée de la mention puisqu’elle n’entraîne pas sur la foi des réponses obtenues de la témoin une valeur probante notable sur l’importance que des travaux de remblai peuvent avoir dans le cadre de l’évaluation d’un lot, et quant à savoir si des travaux de remblai sont ou non nécessaires[28]. Une explication simple pourrait être que la détermination de la valeur marchande d’un lot est fonction de l’état du lot en date de l’évaluation.
+[76] Les rapports d’évaluation amendés au dossier confirment une valeur marchande rétroactive de 74 500 $ pour le Lot 243 et de 138 000 $ pour le Lot 252. Ayant été rédigés en juin 2015, la Cour note les passages suivants sous différentes sections des deux rapports et qui permettent de comprendre la portée des rapports et les éléments considérés aux fins des évaluations déposées en preuve :
+a. Lettre de couverture :
+i. l’évaluateur a visité et inspecté les lieux et considérés les différents éléments qui contribuent à la valeur;
+ii. la valeur confirmée est décrite comme la valeur marchande des terrains sujets;
+iii. le but de l’évaluation est d’estimer la valeur marchande pour fins fiscales;
+iv. les analyses, opinions et conclusions des rapports ne sont restreintes que par les hypothèses et les réserves que l’évaluateur a été appelé à formuler, et le lecteur est référé à la section des rapports énumérant les réserves et hypothèses de base;
+v. les rapports sont rédigés en conformité avec les règlements et normes de pratique professionnelle de l’Ordre des évaluateurs agréés et/ou de l’Institut canadien des évaluateurs;
+vi. les informations contenues dans les rapports ont été obtenues de la municipalité, de l’inspection personnelle de l’évaluateur de la propriété et du voisinage, et de l’examen d’informations provenant de ventes comparables disponibles au secteur.
+b. Réserves et hypothèses de base :
+i. les rapports sont préparés à la demande de monsieur Touchette dans le seul but précisé au point a;
+ii. la date d’évaluation apparaissant aux rapports est la date à laquelle l’évaluateur a apprécié les conditions du marché;
+iii. il n’existe pas d’autre charge, empiètement, restriction, baux, contrats que ceux mentionnés aux rapports;
+iv. aucun levé topographique de l’immeuble n’a été effectué et les rapports ne constituent pas une garantie en matière d’arpentage, et les photographies, croquis, dessins, diagrammes apparaissant aux rapports ne sont qu’illustration et pas nécessairement un reflet de la réalité;
+v. les données du marché considérées sont généralement fiables, et au besoin l’évaluateur a apporté un complément d’enquête en déployant des efforts raisonnables de vérification.
+c. Introduction :
+i. la valeur recherchée ne considère que les actifs immobiliers (terrain) excluant les frais de remblayage, frais d’excavation et frais de développement considérant une évaluation en vrac de terrain non développé.
+d. Description de la propriété
+i. le terrain 243 a une superficie de 15 022 pc, une surface plane et de forme rectangulaire. Un rond-point ampute le terrain de 4 411 pc (sic).
+[77] La Cour note que madame Fortin n’a pas été appelée à commenter les notes débutant aux pages 15 et 16 des rapports d’évaluation amendés des Lot 243 et Lot 252 respectivement. Les corrélations finales qui y sont indiquées confirment la valeur marchande de l’évaluateur à 74 500 $ pour le Lot 243 et à 138 000 $ pour le Lot 252[29]. Elles indiquent également que le propriétaire pourrait être d’avis contraire si certaines hypothèses de coût étaient considérées. Bien que cette position du propriétaire soit exposée, la Cour note que les valeurs marchandes de l’évaluateur des lots sous-études demeurent les mêmes.
+[78] Après avoir entendu l’interrogatoire principal de monsieur Touchette, la Cour note que monsieur Touchette reconnait ne pas être un évaluateur agréé[30] et qu’en conséquence ses évaluations sont basées sur ses connaissances du marché immobilier et de la construction immobilière. Il qualifie ses analyses de valeurs d’évaluation maison.
+[79] Monsieur Touchette reprend l’analyse qu’il a présenté à l’ARC-Division vérification en date du 18 septembre 2014. Ses représentations constituent l’Annexe E des représentations que ses conseillers fiscaux ont adressées à l’ARC-Division des appels en date du 29 janvier 2016. Ses représentations présentent notamment une valeur marchande basée sur des comparables qu’il présente et réduit cette valeur du coût de remblai nécessaire pour ainsi refléter la réelle valeur marchande en date des actes notariés en date du 14 janvier 2010 et 16 avril 2010.
+[80] Monsieur Touchette fait référence à un fournisseur mais ne joint pas de pièces de ce fournisseur, le fournisseur ne témoigne pas, les experts techniciens invoqués ne témoignent pas, le témoignage et les explications sur les véritables coûts qui ont été encourus (par opposition aux estimations) et les périodes des travaux ne sont pas claires, son témoignage n’est pas corroboré. À un moment, monsieur Touchette indique que le problème de valeur du Lot 243 était la proximité du rond-point de la construction sur le lot. Le problème de valeur du Lot 252 serait le volume de remblai nécessaire pour réussir une construction sans station de pompage[31].
+[81] Monsieur Touchette fixe la valeur marchande du Lot 243 à 93 600 $ (93 000 $ provenant de comparables pour une superficie de 1 275 mètres carrés et 600 $ provenant d’un autre comparable pour une superficie excédentaire de 120 mètres carrés). Il n’y a pas d’explication pour justifier l’utilisation de comparables différents et dont le premier comparable est à près de 73 $ le mètre carré et le second à 5 $ le mètre carré.
+[82] En ce qui concerne le coût de remblai, les explications de monsieur Touchette font état d’un montant total de 380 000 $ pour les deux lots. Son témoignage ne permet pas d’établir avec clarté le montant attribué à chaque lot. Les représentations des conseillers fiscaux de monsieur Touchette font mention d’une allocation du coût de remblai entre les deux lots dans leur analyse économique, mais aucune référence n’y a été faite à l’audition.
+[83] En conséquence, le témoignage de monsieur Touchette ne permet pas d’établir une valeur marchande définitive du Lot 243 en date de l’évaluation rétroactive, si ce n’est que le coût de remblai doit réduire la valeur des lots. Monsieur Touchette ayant aussi ajouté que la valeur qu’il a estimé à la fin se rapproche sensiblement de ce que les deux professionnelles ont convenu comme évaluation[32], la Cour est d’avis que la preuve ne supporte pas une démonstration crédible et suffisamment convaincante permettant d’établir, selon la balance des probabilités, une valeur marchande moindre que la valeur établie au rapport d’évaluation amendé de son évaluateur.
+[84] L’analyse économique contenue aux représentations des conseillers fiscaux accorde une valeur négative aux deux lots. La Cour est d’avis qu’au mieux il s’agit là d’une évaluation économique et qu’une évaluation économique n’est pas indicatrice d’une valeur marchande. Même les appelants n’ont pas reconnu une valeur marchande négative lors de la production des déclarations de revenus, pas plus que les rapports d’évaluations amendés au dossier. Notamment, le coût réel payé par les appelants pour le remblai du Lot 252 est indiqué aux représentations comme étant pratiquement nul pour les appelants. Une telle situation démontre que la valeur marchande ne signifie pas une évaluation économique.
+[85] Pour le Lot 252, toujours à l’aide des représentations qu’il avait fait parvenir à la vérification de l’ARC en septembre 2014, monsieur Touchette fixe la valeur marchande du Lot 252 à 100 662 $ (la même approche que pour le Lot 243 est retenue : 93 000 $ provenant de comparables pour une superficie de 1 275 mètres carrés et 7 662 $ provenant d’un autre comparable pour une superficie excédentaire de 1 532 mètres carrés). Dans ce cas également, il n’y a pas d’explication pour justifier l’utilisation de comparables différents et dont le premier comparable est à près de 73 $ le mètre carré et le second à 5 $ le mètre carré.
+[86] Les explications du coût de remblai pour le Lot 252 sont essentiellement au même effet que les explications avancées au sujet du Lot 243. La Cour n’est pas en mesure de tirer une conclusion différente pour le Lot 252 que la conclusion retenue en lien avec le Lot 243.
+[87] En conséquence, le témoignage de monsieur Touchette ne permet pas d’établir une valeur marchande définitive du Lot 252 en date de l’évaluation rétroactive, si ce n’est que le coût de remblai doit réduire la valeur des lots. La Cour n’est pas satisfaite que la preuve supporte une démonstration crédible et suffisamment convaincante permettant d’établir, selon la balance des probabilités, que des valeurs marchandes différentes des rapports existaient pour les Lot 243 et Lot 252 aux dates d’évaluation. La Cour est d’avis que les arguments avancés à l’audition et lors des plaidoiries ne suffisent pas à rencontrer le fardeau de preuve permettant de mettre de côté les rapports et adopter du même coup les valeurs marchandes retenues par les appelants dans le cadre de la production des déclarations de revenus. Malheureusement pour les appelants, la Cour n’arrive pas à se convaincre qu’une autre valeur que celle aux rapports a été établie devant la Cour. Les appelants sont possiblement d’avis que les valeurs marchandes étaient foncièrement différentes de celles des rapports. Cependant, la Cour n’est pas satisfaite qu’une telle détermination a été établie devant la Cour et rencontre le fardeau de preuve avec lequel était confronté les appelants.
+[88] La Cour demeure également perplexe sur l’insistance de monsieur Touchette de produire des rapports d’évaluation de valeur marchande en date des rapports d’évaluation de l’ARC qui correspondent aux dates des actes notariés de transfert de propriété maintenant retenus par cette Cour et de prétendre qu’au même moment cette valeur marchande obtenue de son propre évaluateur soit trop élevée, que ces rapports sont basés en fait sur une situation factuelle erronée. La Cour comprend que l’objectif était de contester les valeurs marchandes plus élevées retenues par l’ARC. Cependant, la Cour explique mal que l’on puisse accorder dans les circonstances une valeur probante au fait que ces valeurs marchandes aux rapports seraient incorrectes sur la foi de l’unique témoignage de monsieur Touchette non corroboré, appelant dans cette affaire, et que le détail et la preuve d’une valeur marchande moindre impliquant notamment les coûts liés aux travaux soient absents du dossier. Une question légitime serait de comprendre ce qui peut motiver une réplique des appelants aux évaluations du fisc avec des évaluations qui seraient incorrectes alors qu’une valeur encore moindre serait plus indiquée. Aucune réponse satisfaisante n’a été démontrée à l’audition.
+[89] Considérant ce qui précède, la Cour est d’avis que la preuve ne supporte pas une démonstration crédible et suffisamment convaincante permettant d’établir, selon la balance des probabilités, une valeur marchande moindre que la valeur établie au rapport d’évaluation amendé de son évaluateur agréé.
+B. Dépenses refusées à 9134 [90] Les appelants sont d’avis que les factures émises avant le 29 novembre 2011 représentent des dépenses d’entreprise légitimes engendrées par 9134 dans le cadre de l’exécution de ses obligations à titre de promoteur en vertu du Protocole 2009. 9134 devait livrer des lots, incluant les Lot 243 et Lot 252, qui seraient desservis par des services d’utilité publique[33].
+[91] Pour les factures émises après le 29 novembre 2011, les appelants admettent qu’il s’agit là de dépenses personnelles encourues lors de travaux effectués sur la Rue privée conformément au Protocole 2011 signé la même date.
+[92] L’intimé soumet que les appelants n’ont pas rencontré leur fardeau visant à démolir les présomptions du ministre quant au refus des dépenses. Les explications avancées par monsieur Touchette sont trop sommaires et imprécises, les rendant insuffisantes[34]. Il semble difficile de discriminer entre les factures personnelles et les factures d’entreprise[35]. Or, il s’agit d’un exercice comptable que les contribuables auraient dû compléter au préalable[36].
+[93] Les paragraphes 20 à 28 plus haut présentent les dépenses qui demeurent en litige, et le traitement des dépenses pour lesquelles les appels seront accueillis si ce n’est entre autres pour refléter les admissions des parties.
+[94] Monsieur Touchette est l’unique témoin présenté par les appelants pour soutenir la déductibilité des dépenses refusées.
+[95] Le 11 juin 2009, 9134 signe une Entente relative à des travaux municipaux à titre de promoteur avec la Ville de Granby (Protocole 2009)[37], laquelle prévoit l’obligation pour 9134 d’exécuter à ses frais tous les travaux municipaux pour la construction des infrastructures de conduites d’eau potable, d’égouts et de voirie sur certaines rues et certains lots, de façon à ce que les terrains qui seront vendus dans le cadre du projet de développement résidentiel soient desservis par les services d’utilité publique[38]. Les Lot 243 et Lot 252 sont inclus dans les lots devant être desservis par lesdits travaux.
+[96] Monsieur Touchette témoigne à l’effet que les travaux d’infrastructures ne pouvaient être entamés tant que le Protocole 2009 n’était pas signé[39]. Ce serait selon lui « toujours comme ça. Toujours, toujours, toujours » lorsqu’il est question d’une telle entente avec une municipalité[40]. Seuls certains travaux de préparation, tels que l’arpentage ou le déboisement du chemin, pouvaient être réalisés avant la signature du Protocole 2009.
+[97] Dans le cadre du projet personnel mené par messieurs Touchette et Leclerc, une autre Entente relative à des travaux municipaux (Protocole 2011)[41] est conclue le 29 novembre 2011 entre la Ville de Granby et 9134 afin de construire la Rue privée entre les Lot 243 et Lot 252[42], le tout afin de bâtir des immeubles sur le Lot 253 et le Lot 252 sud scindé. La Cour rappelle que le Lot 253 est un lot enclavé.
+[98] Contrairement au Protocole 2009, qui concernait des rues publiques, le Protocole 2011 impose seulement au promoteur d’exécuter à ses frais tous les travaux municipaux d’infrastructures de rue[43], ce qui correspond aux conduites pour les services d’eaux potables et d’égouts[44]. Ainsi, les travaux de voirie de la Rue privée ne faisaient pas partie des obligations du promoteur en vertu du Protocole 2011.
+[99] Monsieur Touchette témoigne encore une fois à l’effet que seuls des travaux préparatoires peuvent être faits sur la Rue privée préalablement à la signature du Protocole 2011[45].
+[100] Monsieur Touchette mentionne que les services de la société Bertrand Ostiguy inc. auraient été retenus afin d’effectuer les « travaux municipaux d’infrastructures de rue » sur la Rue privée, tel que requis par le Protocole 2011. Bertrand Ostiguy inc. aurait facturé 9134 pour ses services rendus au cours des mois de novembre et de décembre 2012. Le 2 décembre 2014[46], 9134 aurait « refacturé » monsieur Touchette pour les travaux d’infrastructures reliés au Protocole 2011[47].
+[101] En contre-interrogatoire, monsieur Touchette mentionne que ce n’est pas qu’en raison de la vérification fiscale que cette « refacturation » a eu lieu, puisqu’il aurait eu l’intention de le faire malgré tout[48]. Lors de son témoignage, madame Caroline Beaudry, vérificatrice de l’ARC, indique avoir mentionné à monsieur Touchette que ce n’était peut-être pas la bonne façon de procéder[49].
+[102] Pour toutes les dépenses en litige dans le cadre des présents appels, monsieur Touchette témoigne à l’effet que toutes les factures dont la date précède celle du 29 novembre 2011, soit la date de signature du Protocole 2011, sont des factures qui concernent des services retenus par 9134 dans le cadre de l’exécution de ses obligations à titre de promoteur en vertu du Protocole 2009[50]. À ce titre, elles seraient des factures engagées par 9134 pour gagner un revenu d’entreprise et devraient être déductibles[51].
+[103] Or, toutes les factures postérieures au 29 novembre 2011 seraient pour des services relatifs au Protocole 2011 et devraient à juste titre selon monsieur Touchette faire l’objet de redressements[52]. Il convient toutefois de noter que les appelants ont admis que certaines factures antérieures à cette date relevaient de dépenses personnelles. Il s’agissait surtout de services d’ingénieurs pour les plans et devis et de factures pour l’arpentage[53].
+[104] Le contre-interrogatoire de monsieur Touchette sème quelques doutes quant à la fiabilité de cette explication plutôt simpliste. En effet, la réalité est qu’il semble parfois difficile de discriminer entre les factures dûment émises au nom de 9134 conformément au Protocole 2009 et les factures émises pour des travaux sur la Rue privée en vertu du Protocole 2011 ou sur les terrains détenus personnellement par les deux individus.
+(1) Dépenses d’infrastructures [105] Les années d’imposition de 9134 se terminant avec ses exercices financiers du 31 mars 2011 et 31 mars 2012 sont visées par des dépenses d’infrastructures refusées au montant de 69 690 $ et de 10 915 $ respectivement. En respectant les onglets du Cahier de documents de l’intimé où se trouvent les factures contestées[54], la contestation de ces dépenses par les appelants est estimée à 69 265 $ au 31 mars 2011 et à 3 900 $ au 31 mars 2012[55].
+[106] Pour les exercices financiers se terminant le 31 mars 2011 et le 31 mars 2012 de 9134, les factures peuvent être regroupées.
+(a) Construction Michel Leclerc – Location de machinerie [107] La seule facture de Construction Michel Leclerc, le partenaire de monsieur Touchette dans la Co-entreprise, est émise le 8 octobre 2010 au montant de 40 000 $. Le montant réclamé n’est pas négligeable et l’unique descriptif pour justifier la réclamation sont les mots suivants : Location de machinerie – prix forfaitaire.
+[108] L’interrogatoire de monsieur Touchette au sujet de cette facture se limite à confirmer qu’à son avis cette facture est relative au Protocole 2009. Il ne fait état d’aucun détail pour situer la facture et décrire les services rendus et pour quelles fins. Aucune autre question n’est adressée à monsieur Touchette.
+[109] En contre-interrogatoire, la procureure de l’intimé demande à monsieur Touchette de quoi il s’agit. La réponse n’est pas précise et sa réponse réfère à une possibilité. Monsieur Touchette n’a pas un souvenir précis. Il avance que Construction Michel Leclerc a un « bull », une pelle mécanique, alors cela pourrait expliquer la facture. On lui demande quels terrains ont pu profiter de la machinerie. La réponse est générale. C’est l’ensemble du projet qui en a profité. Il parle de terrains très accidentés, beaucoup de roc, beaucoup de souche à enlever, beaucoup de travaux à effectuer. La location de la machinerie permet d’arriver à un bon résultat[56].
+[110] L’unique explication fournie en interrogatoire principal est de lier la facture au Protocole 2009. La date de la facture invite à un tel constat. Cependant, l’existence d’un lien de dépendance entre les parties contractantes, et les explications avancées en contre-interrogatoire laisse la Cour perplexe. Les explications sont générales. Les lots sont généralement vendus à des tiers qui se chargent de la construction des bâtiments, les appelants sont directement impliqués dans le développement de deux lots. La construction sur le Lot 252 débute au printemps 2010 alors que le Lot 252 est acquis en avril 2010. Il a été amplement question notamment des travaux requis sur le Lot 252. Il semble que l’ensemble de ces circonstances et notamment de la période du printemps et de l’été 2010 justifiaient des explications plus précises de monsieur Touchette. La Cour souligne entre autres que la Pelle 320 n’a pas été mentionnée. La Cour ne reproche pas à monsieur Touchette son témoignage. Ses connaissances et son souvenir ne sont pas infaillibles. Cependant, il n’est pas apparu être la personne pour expliquer les circonstances et les raisons de cette facture. La proximité des travaux entrepris sur le Lot 254 et le manque de précision sèment malheureusement l’incertitude sur le montant total de la facture.
+[111] Il semble également y avoir eu des travaux effectués en vertu du Protocole 2009 en concomitance avec des travaux sur les lots visés et sur la Rue privée visée par le Protocole 2011[57]. Cela accentue la difficulté lorsque vient le temps de discriminer entre les factures personnelles et celles de 9134, particulièrement pour les voyages de sable et les heures de compacteur[58].
+[112] Après avoir considéré i) la preuve versée au dossier, ii) l’unique témoignage de monsieur Touchette ayant porté sur la seule facture de Construction Michel Leclerc et la généralité des explications qui persiste après son contre-interrogatoire, iii) le descriptif succinct des services rendus, iv) les considérations entourant notamment la propriété du Lot 252 et v) l’ensemble des activités de développement de la Co-entreprise et du projet intégré, la Cour est d’avis que la preuve au dossier ne supporte pas une démonstration crédible et suffisamment convaincante permettant d’établir, selon la balance des probabilités, que les services rendus par Construction Michel Leclerc ont été encouru dans le cadre de l’entreprise de la Co-entreprise.
+[113] Dans ce contexte, la Cour n’est pas disposée à accorder la dépense.
+(b) Bertrand Ostiguy inc. – Transport de sable et heures de compacteur, tuyaux [114] La plupart des factures de Bertrand Ostiguy inc. concerne des voyages de sable ou de pierre ainsi que des heures de compacteur. À l’occasion, il est question de tuyaux et de temps de manœuvre de machinerie. Il s’agit des factures les plus discutées lors de l’audition.
+[115] Quoique simpliste, l’explication de monsieur Touchette quant aux dates des factures n’apparaît pas déraisonnable, surtout lorsque l’on considère son témoignage au sujet de la nécessité de conclure un Protocole avec la Ville de Granby avant de débuter les travaux. Ainsi, ce ne serait qu’à partir du 29 novembre 2011 que des travaux auraient pu être entrepris sur la Rue privée conformément au Protocole 2011.
+[116] Toutefois, le contre-interrogatoire de monsieur Touchette démontre que cette explication n’est pas suffisante, puisqu’elle ne permet pas de savoir si les travaux facturés ont eu lieu sur les Lot 243 et Lot 252 ou sur les lots vendus à des tiers par 9134[59], dans un contexte où ces deux séries de travaux se chevauchent. Il est difficile de déterminer à quel moment le remblai, notamment du Lot 252, lié au projet intégré a été effectué[60].
+[117] D’une part, il ne me semble pas évident que les travaux de remblaiement des lots détenus personnellement et certains travaux de base sur la Rue privée n’aient débutés qu’après la signature du Protocole 2011. L’octroi d’un permis de construction en avril 2010 pour le lot enclavé qui aurait nécessité un accès permet d’en douter.
+[118] D’autre part, la Cour est d’avis que les dates de transfert du droit de propriété des Lot 243 et Lot 252 doivent également être considérées aux fins de déterminer à qui les dépenses pourraient raisonnablement appartenir, considérant l’absence de preuve au dossier permettant d’avancer le contraire. Les dates du transfert du droit de propriété des Lot 243 et Lot 252 retenues par la Cour sont le 14 janvier 2010 et le 16 avril 2010 respectivement. La Cour rappelle également que la preuve supporte qu’un travail de remblai a été effectué essentiellement sur le Lot 252.
+[119] Ainsi, les travaux à compter du printemps 2010 incluent le Lot 252 et une partie du développement au sud du projet intégré[61]. Le projet intégré inclut les Lot 243, Lot 252, la Rue privée et le développement du Lot 253. Mais bien qu’un protocole soit requis avant de débuter de façon concrète un projet, la preuve n’est pas claire où les services ont été rendus. La Cour note également qu’aucun des permis de construction pouvant expliquer la date ou la période des travaux n’est déposé en preuve. Malheureusement, un doute trop important persiste.
+[120] De surcroît, un permis de construction semble avoir été émis le 17 avril 2010 pour le lot 4 801 717, qui est une subdivision à l’est de l’ancien Lot 253 acheté personnellement par les individus. Il s’agit d’un terrain enclavé. Pour construire sur ce lot, il devait y avoir eu du remblai et des travaux réalisés sur la Rue privée et les Lot 243 et Lot 252[62].
+[121] Après avoir considéré i) la preuve versée au dossier, ii) l’unique témoignage de monsieur Touchette ayant porté sur les factures concernées de Bertrand Ostiguy inc. et les éléments divergents ou incertains qui persistent après son contre-interrogatoire, iii) le descriptif succinct des services rendus apparaissant aux factures, iv) les autres considérations entourant notamment la propriété des Lot 243 et Lot 252 et les activités qui ont pu être effectuées dans le cadre du projet intégré, et v) l’ensemble des activités de développement de la Co-entreprise, la Cour est d’avis que la preuve au dossier ne supporte pas une démonstration crédible et suffisamment convaincante permettant d’établir, selon la balance des probabilités, qu’une partie précise ou la totalité des dépenses, a été encourue dans le cadre de l’entreprise de la Co-entreprise.
+[122] Dans ce contexte, la Cour n’est pas disposée à accorder la dépense.
+(c) Sani-Eco inc. – Démolition et transport [123] La facture du fournisseur Sani-Eco inc.[63] est en date du 5 juillet 2011 et le descriptif des services dont bénéficie la Cour est relativement court et réfère à des travaux de démolition—garage Michel Leclerc et traitement de matériaux de construction à la tonne. Lors de son interrogatoire principal, monsieur Touchette a simplement confirmé que la facture était liée au Protocole 2009[64]. Aucun autre détail n’a été demandé ou formulé. Par contre, la procureure de l’intimé est revenue sur cette facture afin d’en savoir davantage.
+[124] Monsieur Touchette a indiqué qu’il devait y avoir quelque chose à démolir. Il a ensuite référé à la présence de déchets sur les lots dont des pneus, vieilles cabanes, garages, et ajouté des laveuses, des sécheuses, des matelas, et de la « scrap » de vieux bâtiments[65]. Et la raison de la référence à Construction Michel Leclerc devait s’expliquer du fait que Construction Michel Leclerc assumait la responsabilité de disposer des déchets. Monsieur Touchette n’a pas été en mesure de confirmer le ou les lots concernés.
+[125] Il n’a pas été possible d’identifier sur quel lot les travaux de démolition ont eu lieu. La Cour est d’avis que monsieur Touchette n’a pas réussi de façon raisonnable à expliquer la raison de l’utilisation du mot démolition et un sérieux doute persiste quant à la référence à « JOB : Démolition - Garage Michel Leclerc ». La Cour n’est pas convaincue par les explications de monsieur Touchette au sujet de la description retenue par le fournisseur. Un sérieux doute existe. La Cour est d’avis que la démonstration crédible et suffisamment convaincante, selon la balance des probabilités, d’une dépense encourue dans le cadre de l’entreprise exploitée par la Co-entreprise n’a pas été établie.
+(d) Hydro-Québec [126] Monsieur Touchette a tenté de rattacher la facture d’Hydro-Québec[66] à l’un des Protocoles sans succès[67]. Cette incapacité confirme l’absence de légitimité de la dépense à la Co-entreprise. En fait, la Cour est d’avis que les hésitations dont a fait preuve monsieur Touchette ont davantage supporté la thèse d’une dépense attribuable au projet intégré mené personnellement par les deux partenaires. La localisation de la rue Saint-Charles Sud et les possibilités qu’ils s’agissent d’un véhicule ayant circulé à l’ouest du plan[68] renforce le lien avec le projet intégré de messieurs Touchette et Leclerc. La Cour est d’avis que la démonstration crédible et suffisamment convaincante, selon la balance des probabilités, d’une dépense encourue dans le cadre de l’entreprise exploitée par la Co-entreprise n’a pas été établie.
+(e) 9034-3948 Québec inc. (Les Entreprises Choinière) [127] Il s’agit de deux factures pour des voyages de sable[69]. Monsieur Touchette se limite à dire que puisque les dates précèdent le 29 novembre 2011, il s’agit de dépenses engagées par la Co-entreprise dans le cadre du Protocole 2009[70]. Aucune question n’est posée en contre-interrogatoire quant à ces factures.
+[128] L’absence de contre-interrogatoire concernant ces factures pèse considérablement dans l’établissement de la déductibilité de ces dépenses dans le cadre des activités de la Co-entreprise. La Cour n’est pas disposée à déconsidérer le témoignage de monsieur Touchette au sujet de ces factures, bien que les explications avancées soient limitées. La position des appelants n’est pas dépourvue de raisonnabilité et l’absence de questionnement en contre-interrogatoire contribue à maintenir l’explication. Face à l’unique position des appelants non-contredite pour soutenir la déductibilité des factures, la Cour accepte l’explication, est d’avis que la démonstration crédible et suffisamment convaincante, selon la balance des probabilités, des dépenses encourues dans le cadre de l’entreprise exploitée par la Co-entreprise a été établie. La Cour permet en conséquence la dépense dans la Co-entreprise des deux factures de Les Entreprises Choinière.
+(f) Wolseley Canada inc. et Groupe Gaston Côté [129] Il s’agit de huit factures pour des tuyaux[71]. Elles ont été émises en octobre 2010, sauf une qui date du mois de juin 2011.
+[130] L’unique explication de monsieur Touchette est à l’effet que puisque les dates des factures précèdent le 29 novembre 2011, il s’agit de dépenses engagées dans le cadre du Protocole 2009. Aucune question n’est posée en contre-interrogatoire quant à ces factures. La Cour n’est pas en mesure de remettre en question la déductibilité des factures à même les pièces versées en preuve pour soutenir les dépenses.
+[131] Considérant une situation similaire à la situation avec Les Entreprises Choinière, la Cour adopte la même position que dans le cas des factures de Les Entreprises Choinière. En conséquence, face à l’unique position des appelants non-contredite pour soutenir la déductibilité des factures, la Cour accepte l’explication, est d’avis que la démonstration crédible et suffisamment convaincante, selon la balance des probabilités, des dépenses encourues dans le cadre de l’entreprise exploitée par la Co-entreprise a été établie. En conséquence, la Cour accepte la déductibilité des dépenses dans la Co-entreprise des huit factures de Wolseley Canada inc. et Groupe Gaston Côté.
+(g) Teknika HBA inc./Les Services exp inc. [132] Il s’agit de quatre factures d’honoraires professionnels de la même firme d’ingénieurs retenue pour la préparation de plans et devis relatifs aux différents projets de Faubourg de la Renaissance, rue de Bretagne, Place de Bretagne. Quatre factures étaient en litige, mais les deux factures émises en 2011 ont fait l’objet d’une admission en totalité de la part des appelants :
+Date de la facture
+Montant
+Qualification lors du témoignage de monsieur Touchette
+19 février 2010
+3 457,50 $
+Protocole 2009, mais il ne peut pas exclure avec certitude la possibilité qu’il y ait une proportion attribuable au Protocole 2011[72]
+29 septembre 2010
+2 935,00 $
+Protocole 2009[73]
+18 mai 2011
+3 397,50 $
+Protocole 2011[74] (admission)
+30 juin 2011
+3 621,50 $
+Protocole 2011[75] (admission)
+[133] Toutes les factures portent le titre de « Projet intégré Faubourg – Plans & Devis ». Monsieur Touchette accorde davantage d’importance aux périodes qui sont facturées pour les travaux qu’aux informations qui ont pu être inscrites sur les factures, notamment celle référant à « projet intégré Faubourg ».
+[134] Monsieur Touchette n’est pas en mesure d’être très précis sur les informations qu’il est en mesure de tirer des factures. Il invoque le temps passé, les ingénieurs qui seraient certes mieux placés pour répondre les travaux exacts qui ont été facturés. Il accorde de l’importance au fait que les travaux se situent entre deux protocoles.
+[135] Lors du contre-interrogatoire de monsieur Touchette, la procureure de l’intimé le questionne quant aux annotations manuscrites de « Place de Bretagne » apposées sur les deux premières factures. Ce dernier admet qu’il distingue les deux Protocoles en vertu de la seule date de facturation, et qu’il répond au meilleur de ses connaissances, sans toutefois pouvoir garantir qu’une facture est exclusivement pour un seul Protocole[76]. Bien que les explications fournies sur la signification de Place de Bretagne et à quel secteur ou développement cette expression correspond, il indique que Place de Bretagne peut avoir été utilisé à différentes fins, mais termine en indiquant que « puis évidemment, la section au sud, Place Bretagne, Rue Bretagne ou Projet intégré, c’est tous des noms qu’on a utilisés[77] ». Et plus tard, il ajoute que Place Bretagne a commencé à être utilisée par des gens, qu’il peut s’agir d’une référence à tout le secteur et il termine c’est le secteur au complet[78].
+[136] Les réponses de monsieur Touchette concernant la référence à Place de Bretagne sont en fait évasives. Elles dégagent une utilisation tous azimuts de Place de Bretagne. En considérant l’entièreté des réponses formulées par monsieur Touchette à ce sujet et l’appréciation que la Cour tire de son témoignage sur cette même question, la Cour est davantage portée à associer Place de Bretagne au projet personnel, d’autant plus que ce projet a été décrit par monsieur Touchette comme un projet intégré. Les mots « projet intégré » apparaissent également aux factures.
+[137] La Cour note que monsieur Touchette ne mentionne pas dans ses explications pour soutenir qu’il s’agit d’une facture relative au Protocole 2009, que le Protocole 2009 est signé depuis plus de huit mois lorsque la première facture est émise et que le travail des ingénieurs, tel qu’indiqué lors de son interrogatoire principal au sujet des étapes de développement menant à la signature d’un protocole, inclut un travail important en amont de la signature éventuelle du protocole avec la municipalité. Il n’est donc pas déraisonnable d’associer l’implication des ingénieurs dans le cadre de la préparation du Protocole 2011 à venir, plutôt que de croire que leur travail doit être lié au Protocole 2009 signé huit mois auparavant et dont le travail des ingénieurs s’est terminé encore plus tôt.
+[138] La Cour considère que trop peu de précisions ont été apportées par monsieur Touchette pour permettre d’accepter que la démonstration crédible et suffisamment convaincante, selon la balance des probabilités, des dépenses encourues dans le cadre de l’entreprise exploitée par la Co-entreprise a été établie. En conséquence, les quatre factures de Teknika HBA – Les Services exp inc. sont associées au Protocole 2011 et non déductibles.
+(h) Honoraires professionnels (arpentage et notaire) [139] Il s’agit de neuf factures d’honoraires professionnels de monsieur Touchette et de trois factures d’honoraires professionnels provenant de Me Daviau, notaire. Les appelants ont admis que certaines factures de « Daniel Touchette, arpenteur-géomètre » constituaient des dépenses personnelles. Il en est de même de deux des trois factures du notaire[79]. Demeurent en litige les factures suivantes :
+Date de la facture
+Fournisseur
+Montant
+Explications données par M. Touchette
+27 avril 2010[80]
+Touchette
+1 500 $
+Protocole 2009 en raison de la date
+8 septembre 2011[81]
+Touchette
+650 $
+Protocole 2009, puisque c’est en lien avec la Rue de Provence[82]
+12 août 2011[83]
+Touchette
+1 360 $
+Protocole 2009, puisque des services liés aux lots vendus à Marc Breton[84]
+8 septembre 2011[85]
+Touchette
+485 $
+Protocole 2009, puisque c’est en lien avec la Rue de Provence[86]
+3 novembre 2011[87]
+Touchette
+1 066 $
+1 066 $ pour le Protocole 2009. Admission que 533 $ est personnel[88]
+27 septembre 2010
+Notaire
+2 105 $
+Servitude pour l’installation des lignes électriques dans le projet[89]
+[140] Aucune question n’est posée à monsieur Touchette en contre-interrogatoire relativement à ces factures. La Cour n’est pas en mesure de remettre en question la déductibilité des factures à même les pièces versées en preuve pour soutenir les dépenses.
+[141] Considérant une situation similaire à la situation avec Les Entreprises Choinière plus haut, la Cour adopte la même position que dans le cas des factures de Les Entreprises Choinière. En conséquence, face à l’unique position des appelants non-contredite pour soutenir la déductibilité des factures, la Cour accepte l’explication, est d’avis que la démonstration crédible et suffisamment convaincante, selon la balance des probabilités, des dépenses encourues dans le cadre de l’entreprise exploitée par la Co-entreprise a été établie. En conséquence, la dépense dans la Co-entreprise des six factures de monsieur Touchette et le notaire Daviau est admissible.
+(i) Autres factures [142] Ville de Granby. Monsieur Touchette mentionne que la facture du 15 décembre 2010 de la Ville de Granby[90] au montant de 13 884,75 $ ne relève ni du Protocole 2009, ni du Protocole 2011. Il précise que cette dépense concerne un projet immobilier de 9134 et 2849 qui précède le projet mené par la Co-entreprise et le projet intégré[91]. Aucune question sur le sujet n’est adressée à monsieur Touchette en contre-interrogatoire. Face à l’unique position des appelants non-contredite pour soutenir la déductibilité de la facture, la Cour accepte l’explication, et est d’avis que la démonstration crédible et suffisamment convaincante, selon la balance des probabilités, des dépenses encourues dans le cadre de l’entreprise exploitée par la Co-entreprise a été établie et qu’en conséquence la dépense est accordée.
+[143] Ajustement de taxes 401 rue Paradis. Il s’agit d’une facture au montant de 3 064 $ adressée par 9134 à 9134 et 2849 en date du 13 juillet 2010[92]. Le bref descriptif réfère à un ajustement de taxes rue Paradis et une avance qui aurait été effectuée. Aucun témoignage n’a porté sur cette facture. La seule référence indirecte à cette facture est survenue au moment où les parties se sont entendues sur le témoignage de monsieur Touchette relativement aux Onglets 24 à 28 inclusivement du Cahier de documents de l’intimé[93]. La présente facture n’en fait pas partie puisqu’insérée à l’Onglet 29 du Cahier de documents de l’intimé. Il y a lieu de croire que cette facture est insérée par erreur[94]. En l’absence de témoignage portant sur cette facture, et le manque d’information pouvant la supporter, la Cour est d’avis que les appelants n’ont pas établi une preuve crédible et suffisamment convaincante, selon la balance des probabilités, des dépenses encourues dans le cadre de l’entreprise exploitée par la Co-entreprise. La position de l’intimé est donc maintenue relativement à la non-déductibilité de la dépense.
+(2) Dépenses relatives à la Pelle 320 [144] Les dépenses réclamées en lien avec la Pelle 320 sont relatives à l’essence, à l’assurance, au déplacement, à l’entretien et à la carrosserie de la machinerie[95]. Ces dépenses sont également notées dans la lettre des parties datée du 24 mars 2023 et reprises au paragraphe 26 plus haut[96]. La Cour note que les factures comptabilisées à la Pelle 320 n’ont pas fait l’objet de discussion précise. La présomption des appelants classant les factures à l’un des deux protocoles selon la date de la facture s’applique toutefois aux factures visées aux Onglets 24 à 28 inclusivement du Cahier de documents de l’intimé[97].
+[145] Monsieur Touchette mentionne que 9134 et 2849 ont acheté la Pelle 320 afin de justement réaliser des travaux sur les terrains « dans l’ensemble de [leurs] projets »[98]. La Pelle 320 était souvent utilisée par les opérateurs eux-mêmes. Il ajoute avoir fait plein de travaux avec la pelle tout au long du projet.
+[146] Lorsque demandé s’il est en mesure d’établir une différence entre 2009 et 2011, monsieur Touchette précise qu’après le Protocole 2011, une facture de Bertrand Ostiguy mentionne avoir utilisé la Pelle 320. Bertrand Ostiguy aurait utilisé la pelle parce « … qu’elle était là dans le fond ça fait qu’ils pouvaient s’en servir… »[99]. Après avoir conclu une réponse situant maintenant les travaux en lien avec le Protocole 2011, monsieur Touchette mentionne ensuite des noms de ceux qui ont opéré la pelle. Monsieur Touchette confirme alors que Construction Michel Leclerc pouvait occasionnellement opérer la Pelle 320[100].
+[147] Toutefois, suite à l’insistance en contre-interrogatoire de la procureure de l’intimé relativement à savoir si la pelle a été utilisée sur les Lot 243 et Lot 252, la Rue privée ou l’un ou l’autre des lots du projet intégré, monsieur Touchette confirme que Bertrand Ostiguy a utilisé la pelle pour les infrastructures du projet intégré. Il maintient du même coup que la Pelle 320 n’aurait toutefois jamais été utilisée par lui ou Construction Michel Leclerc pour le nivellement ou le remblayage des Lot 243 et Lot 252 ou d’un autre lot détenu personnellement[101]. Il précise que Construction Michel Leclerc (qui construit les immeubles du projet intégré) a d’autres équipements à sa disposition. Seuls les employés de Bertrand Ostiguy inc. l’auraient utilisée pour les travaux de la Rue privée.
+[148] Dans le cadre du contre-interrogatoire au sujet du même échange, monsieur Touchette confirme que Bertrand Ostiguy aurait utilisé la Pelle 320 lors des infrastructures de la Rue privée en 2009 et ajoute que cette pelle était utilisée pour la préparation de l’ensemble des terrains qu’ils devaient vendre sur l’ensemble du projet[102]. La réponse qui suit semble indiquer que l’ensemble du projet pourrait être une référence à la rue publique et le projet public[103]. Quant au remblai effectué sur le Lot 252 à même le transport de terre venu de l’extérieur, les entrepreneurs qui déchargent la terre sur le lot seraient ceux responsables de l’étendre et la pousser. Ainsi, messieurs Touchette et Leclerc n’utilisent pas la Pelle 320.
+[149] La seule explication fournie par monsieur Touchette demeure que toutes les factures précédant le 22 novembre 2011 concernent le Protocole 2009 et devraient être admises. Deux factures d’essence datées de décembre 2011 ont été admises par les appelants et donc non contestées[104]. Aussi, les appelants admettent qu’une répartition de 1/12 pour les dépenses de la Pelle 320 encourues après le 29 novembre 2011[105].
+[150] La Cour trouve peu convaincant la position des appelants. La prétention que la Pelle 320 a été utilisée « dans l’ensemble des projets », mais à l’exclusion des Lot 243 et Lot 252 et des autres lots détenus personnellement n’a pas convaincu. La Cour est d’avis que toutes les réponses de monsieur Touchette quant à l’utilisation de la Pelle 320, et les nuances avancées quant aux façons de faire entre la phase de la rue publique et la phase du projet intégré ne permettent pas à la Cour de tirer une conclusion favorable aux appelants quant à l’ensemble des factures liées à l’utilisation de la Pelle 320. Les factures relatives à la Pelle 320 sont très peu détaillées, et ne permettent pas de faire la distinction entre les travaux sur la rue publique et les travaux sur la Rue privée et surtout eu égard aux Lot 243 et Lot 252[106]. Les appelants n’ont pas réussi à établir ou tracer une ligne entre les montants des dépenses qui pourraient justifier un traitement différent.
+[151] Les explications de monsieur Touchette voulant que la Pelle 320 essentiellement présente sur le site n’ait jamais été utilisée par messieurs Touchette et Leclerc personnellement sur les Lot 243 et Lot 252 ou encore sur la Rue privée ou les autres lots ne suffisent pas pour convaincre la Cour. Les présomptions de l’intimé n’ont pas été démolies et la Cour n’est pas non plus satisfaite que les appelants ont établi une preuve crédible et suffisamment convaincante, selon la balance des probabilités, de la déductibilité des dépenses liées à la Pelle 320. Les réponses de l’unique témoin entendu à ce sujet manquent de précisions, sont à trop d’égards ambiguës ou incomplètes. Cela est insuffisant pour convaincre la Cour. Entre autres, le Cour est plutôt d’avis que le fait de mettre à la disposition des fournisseurs la Pelle 320 n’exclut pas que la situation ait servi des intérêts personnels. La Cour est d’avis que les explications avancées par monsieur Touchette appuient, ou certes n’exclut pas, les scénarios voulant que l’utilisation de la Pelle 320 sans égard à son opérateur servait ultimement les intérêts de l’appelant. Dans ces circonstances, l’opérateur est secondaire. Cette conclusion se dégage des explications avancées par monsieur Touchette lorsque questionné à ce sujet en contre-interrogatoire. La preuve ne supporte pas d’autre conclusion à cet égard.
+[152] Il n’est pas mis en doute que la Pelle 320 a été acquise et utilisée dans le cadre des activités commerciales des appelants. La problématique concerne principalement l’approche retenue par les appelants pour justifier l’entièreté des dépenses et qui n’a pas su convaincre la Cour qu’ils avaient rencontré leur fardeau de la preuve.
+[153] Ainsi, après avoir considéré i) la preuve versée au dossier, ii) l’unique témoignage de monsieur Touchette ayant porté sur les factures concernant la Pelle 320 et les éléments divergents ou incertains qui persistent après son contre-interrogatoire, iii) le descriptif succinct des services rendus apparaissant aux factures, iv) les autres considérations entourant notamment la propriété des Lot 243 et Lot 252 et v) l’ensemble des activités de développement de la Co-entreprise et du projet intégré, la Cour est d’avis que la preuve au dossier est insuffisante pour établir une preuve crédible et suffisamment convaincante, selon la balance des probabilités, que l’ensemble, ou même un lot de factures, lié à la Pelle 320 a été encouru dans le cadre de l’entreprise de la Co-entreprise.
+C. Alinéa 12(1)x) et paragraphe 248(16) LIR [154] Les appelants sont d’avis que 1’intimé n’invoque pas à bon droit le paragraphe 248(16) LIR. Selon eux, l’objet du paragraphe 248(16) est d’éviter une désynchronisation entre la réclamation d’un crédit de taxe sur les intrants (CTI) afin que le contribuable obtienne par la suite une déduction en vertu de l’alinéa 20(1)h) (sic) LIR.
+[155] Ils sont d’avis que, selon le premier paragraphe et le premier alinéa du paragraphe 248(16) LIR, l’on doit constater que la somme visée doit à la fois avoir été déduite en vertu de la Loi et réclamée en vertu de la Partie IX de la Loi sur la taxe d’accise[107].
+[156] Les appelants résument l’application du paragraphe 248(16) LIR à trois conditions :
+Le montant doit avoir été déduit en vertu de la Loi (cette condition serait au premier paragraphe de la disposition);
+Le montant doit avoir été demandé à titre de CTI (cette condition serait à l’alinéa a) de la disposition);
+Le montant doit avoir été reçu ou crédité (cette condition serait à l’alinéa a) de la disposition).
+[157] Ils précisent ensuite n’avoir réclamé uniquement des CTI en vertu de la LTA, et que les conditions d’application du paragraphe 248(16) LIR ne sont pas respectées. Enfin, l’intimé aurait dû apporter les redressements de CTI en vertu de la LTA. Le paragraphe 248(16) LIR n’autorise pas l’intimé à effectuer des redressements de CTI.
+[158] Bien que les appelants confirment que le paragraphe 248(16) LIR n’est pas une disposition d’assujettissement, la disposition d’assujettissement qui nous occupe, à savoir l’alinéa 12(1)x) LIR, n’est pas directement mise en cause par les appelants.
+[159] Les représentations de l’intimé en date du 16 juin 2023 sont succinctes sur l’inclusion dans le calcul du revenu de 9134 des CTI réclamés sur les dépenses refusées. Il confirme d’abord que les montants visés par l’alinéa 12(1)x) LIR ont été révisés pour donner suite à l’audition. Ils sont passés de 10 066 $ à 9 805 $ pour l’année d’imposition du 31 mars 2011 et de 6 503 $ à 2 266 $ pour l’année d’imposition du 31 mars 2012. Les ajustements sont également effectués pour monsieur Touchette aux fins du paragraphe 15(1.3) LIR.
+[160] L’intimé est d’avis que le paragraphe 248(16) LIR répute un montant demandé à titre de CTI constituer un montant d’aide d’un gouvernement. Cette présomption s’applique aux fins de l’ensemble des dispositions de la Loi.
+[161] L’intimé précise que ce montant doit être ajouté aux revenus de 9134 en vertu du sous-alinéa 12(1)x)(ii) LIR. Il ajoute que dans le cas où 9134 rembourserait le CTI reçu, l’appelante pourrait, considérant le paragraphe 248(18) LIR, obtenir une déduction dans le calcul du revenu en vertu de l’alinéa 20(1)hh) LIR.
+[162] L’intimé ajoute que sans apporter aucune preuve sur la façon dont 9134 a traité la demande de CTI sur les dépenses refusées subséquemment à la vérification, dont un possible remboursement de CTI effectué, il est difficile de modifier le traitement effectué par l’ARC à ce niveau.
+[163] Enfin, l’intimé est d’avis que le traitement est conforme aux dispositions de la « Loi » (la Cour assume une référence à la LIR), que les dépenses refusées étaient des dépenses personnelles et que 9134 ne pouvait réclamer le CTI lié aux dépenses refusées. Les appelants devaient établir une preuve de remboursement de CTI reçu sans droit. Vu l’absence d’une telle preuve, il était permis à l’ARC d’ajouter ces montants aux revenus de 9134 et de monsieur Touchette.
+[164] Le sous-alinéa 12(1)x)(ii) LIR est l’unique référence de l’intimé à la disposition d’assujettissement qui nous occupe. Il n’a fait aucune représentation sur l’application de l’alinéa 12(1)x).
+[165] La position de la Cour relativement à cette question repose sur la prémisse que i) les appelants n’ont pas contesté avoir présenté des demandes de CTI eu égard aux dépenses refusées et avoir bénéficié de CTI demandé, et ii) aucune preuve n’a été présentée confirmant un redressement par l’ARC conformément aux dispositions de la LTA de CTI demandé par 9134.
+[166] La dynamique qui se pose ici implique principalement l’interaction entre les alinéas 12(1)x) et 20(1)hh) LIR, et les paragraphes 248(16), (16.1), (18) et (18.1) LIR. Cela dit, ces dispositions n’ont pas la même importance aux fins de trancher la question du présent cas.
+[167] La Cour n’est pas disposée à tirer les mêmes conclusions que les appelants en ce qui concerne le paragraphe 248(16) LIR, ses conditions d’application et sa portée. Le préambule du paragraphe apparaît le libellé le plus déterminant compte tenu des remarques faites par les parties eu égard au paragraphe.
+[168] La Cour tient également une remarque similaire quant à la position succincte de l’intimé concernant l’alinéa 12(1)x) LIR. L’application de l’alinéa 12(1)x) requiert davantage qu’une simple lecture du sous-alinéa 12(1)x)(ii).
+[169] La Cour tient à préciser qu’elle ne traite aux fins de l’analyse que du contexte de la taxe sur les produits et services (TPS). Un raisonnement identique s’applique également sous la loi relative à la taxe de vente du Québec et le remboursement de la taxe sur les intrants.
+[170] La Cour est d’avis que l’alinéa 12(1)x) LIR joue un rôle central dans le traitement que l’ARC a retenu contre les appelants. L’alinéa est la disposition d’assujettissement dans le cas présent et le paragraphe 248(16) LIR n’introduit qu’une présomption, bien que nécessaire aux fins de l’application de l’alinéa. Pour cette raison, la Cour est davantage encline à procéder à l’examen du mécanisme de l’alinéa 12(1)x) pour déterminer si le traitement retenu par l’ARC est justifié dans les circonstances.
+[171] Eu égard au paragraphe 248(16) LIR, la Cour retient de son préambule un texte suffisamment clair quant à sa portée et les effets qu’il entraîne. Si l’on considère les circonstances du cas présent, 9134 doit avoir présenté une demande de CTI relativement à la TPS applicable à un bien ou à un service[108]. Dans un tel cas, le montant demandé par 9134 est réputé aux fins de la Loi constituer un montant d’aide reçu d’un gouvernement pour le bien ou le service, selon le cas. La demande de CTI n’est pas niée par 9134. Le paragraphe n’ajoute aucun montant au calcul du revenu de 9134, et la question de lui donner une telle portée ne se pose pas. Le préambule ne réfère à aucune circonstance où il est question du traitement fiscal du montant des dépenses réclamées aux fins de la Loi.
+[172] Eu égard à l’alinéa 12(1)x) LIR, la Cour retient les passages suivants aux fins des présentes :
+x) un montant (à l’exclusion d’un montant prescrit) reçu par le contribuable au cours de l’année pendant qu’il tirait un revenu d’une entreprise ou d’un bien :
+…
+(ii) soit d’un gouvernement, d’une municipalité ou d’une autre administration,
+s’il est raisonnable de considérer le montant comme reçu :
+…
+(iv) soit à titre de remboursement, de contribution ou d’indemnité ou à titre d’aide, sous forme de prime, de subvention, de prêt à remboursement conditionnel, de déduction de l’impôt ou d’indemnité, ou sous toute autre forme, à l’égard, selon le cas :
+(A) …
+(B) d’une dépense engagée ou effectuée,
+dans la mesure où le montant, selon le cas :
+…
+(vi) sous réserve des paragraphes 127(11.1), (11.5) ou (11.6), ne réduit pas, pour l’application d’une cotisation établie en vertu de la présente loi, ou pouvant l’être, le coût ou le coût en capital du bien ou le montant de la dépense,
+…
+(notre soulignement)
+[173] Un ouvrage de doctrine présente l’objectif de l’alinéa 12(1)x) LIR comme suit[109] :
+The purpose of paragraph 12(1)(x) is to bring into income all amounts received by a taxpayer in the course of earning income from a business or property as an inducement to do something or as a refund, reimbursement, contribution, allowance or other assistance in respect of an amount included in, or deducted as, the cost of property or an outlay or expense, except to the extent that such amounts have already been included in income, deducted in computing any balance of undeducted outlays or expenses, reduced the cost (or capital cost) of a related property or the amount of a related outlay or expense, or been subject to an election under subsection 13(7.4) or 53(2.1) to reduce the capital cost or cost of the property or under subsection 12(2.2) to reduce the amount of the outlay or expense.
+…
+Applicable after 1990, subsection 248(16) provides that an amount claimed by a taxpayer as a goods and services tax (GST) input tax credit or a rebate in respect of a property or service is deemed to be assistance from a government. However, such credit would normally not be included in income under paragraph 12(1)(x) as it would reduce the cost or capital cost of the property or the amount of the related expenditure or expenditure pool (subpara 12(1)(x)(v)).
+[174] Le budget fédéral déposé le 16 avril 2024 a introduit des amendements notamment à la Loi, incluant à l’alinéa 12(1)x) LIR afin d’y ajouter le sous-alinéa 12(1)x)(ix) LIR[110]. Un document d’information publié par le ministère des Finances au sujet de l’amendement introduit l’alinéa 12(1)x) en soulignant que si un contribuable reçoit de l’aide gouvernementale pour tirer un revenu d’une entreprise ou d’un bien, le montant de cette aide peut venir réduire le montant d’une dépense connexe, ou du coût ou coût en capital d’un bien connexe, ou il peut être inclus dans le revenu du contribuable[111].
+[175] Les notes explicatives de l’alinéa 12(1)x) LIR amendé en 2024 ont été publiées en mai 2024 et précisent en ouverture :
+Selon l’alinéa 12(1)x), certains paiements incitatifs, remboursements, contributions, indemnités et montants d’aide qu’un contribuable reçoit pendant qu’il tire un revenu d’une entreprise ou d’un bien sont à inclure dans son revenu « dans la mesure où » ils n’ont pas par ailleurs été inclus dans son revenu ou appliqués en réduction du coût d’un bien ou du montant d’une dépense engagée ou effectuée.
+(notre soulignement)
+[176] Ainsi, l’alinéa 12(1)x) LIR apparaît pouvoir déterminer le traitement fiscal applicable à un montant d’aide reçu d’un gouvernement.
+[177] D’abord, l’application de l’alinéa 12(1)x) LIR requiert qu’un montant d’aide d’un gouvernement soit reçu et le paragraphe 248(16) LIR énonce en partie cette présomption aux fins de la Loi[112]. L’encaissement du montant d’aide ne fait pas partie de la présomption. Cependant, l’encaissement dans le cas des CTI n’est pas remise en question.
+[178] Ensuite, ce montant reçu à titre d’aide peut être versé sous toute forme. Aussi, le montant reçu sous une forme ou une autre à titre d’aide doit être versé à l’égard d’une dépense engagée ou effectuée[113]. Et enfin, l’alinéa 12(1)x) LIR ne peut s’appliquer que si les alinéas (v) à (ix) LIR sont rencontrés. Dans le cas présent, les seuls alinéas susceptibles de ne pas être rencontrés sont les alinéas (v) et (vi). La Cour ne croit pas avoir à traiter des autres alinéas.
+[179] La Cour rappelle que la présomption du paragraphe 248(16) LIR requiert qu’un montant soit demandé à titre de CTI relativement à la TPS. Par conséquent, aux fins de l’alinéa 12(1)x) LIR, les seuls scénarios pouvant être envisagés dans le cas présent sont des scénarios où un montant d’aide d’un gouvernement (à savoir le CTI) a été reçu par 9134 à l’égard d’une dépense engagée ou effectuée. La Cour considère qu’à cette étape, les conditions sont rencontrées pour l’application de l’alinéa 12(1)x). Une dernière étape doit être franchie, à savoir si les sous-alinéas 12(1)x)(v) et (vi) sont rencontrés[114].
+[180] Cette dernière étape consiste donc dans le cas présent à déterminer si 9134 a réclamé ou non la TPS à la dépense dans le cadre du calcul de son revenu aux fins de la Loi. Les feuilles de travail de la vérificatrice au dossier de 9134 confirment que la TPS n’apparaît pas avoir été réclamée à la dépense[115]. La compréhension de la Cour est à l’effet que la TPS a plutôt été réclamée à titre de CTI.
+[181] Dans l’éventualité où la TPS avait été incluse dans le calcul des dépenses réclamées par 9134 aux fins de la Partie I LIR, l’alinéa 12(1)x) LIR se serait appliqué. Dans un tel cas, le sous-alinéa 12(1)x)(vi) aurait été rencontré puisque le CTI n’a pas réduit le montant de la dépense. Et seul un remboursement du CTI aurait pu permettre une déduction pour neutraliser l’effet de l’alinéa 12(1)x)[116].
+[182] Dans le cas présent, l’absence de la réclamation de la TPS à titre de dépense fait échec au sous-alinéa 12(1)x)(vi) LIR[117]. Le montant total du CTI obtenu en contrepartie de la TPS a eu pour effet de réduire le montant de la dépense aux fins du calcul du revenu de la Partie I LIR. Le montant du CTI étant essentiellement le remboursement de la TPS applicable, la cotisation établie en vertu de la Loi traite d’une dépense dont le montant a été réduit du montant du CTI. Ayant subi une déduction, aucune portion du montant d’aide gouvernementale dans le cas présent ne satisfait le libellé du sous-alinéa 12(1)x)(vi). En conséquence, l’alinéa 12(1)x) ne s’applique à aucune portion de l’aide gouvernementale reçue par 9134.
+[183] Un tel traitement est non seulement conforme à l’objectif de la disposition tel qu’énoncé plus haut aux notes explicatives et la doctrine, mais reflète également le traitement réservé au mécanisme de la TPS et du CTI aux termes de la LTA. La Loi intervient dans la mesure où la TPS est déduite et un CTI (sans égard à son éligibilité) est réclamé. Dans un tel contexte, l’inclusion de l’aide gouvernementale est visée à l’alinéa 12(1)x) LIR.
+[184] Certaines décisions de cette Cour ont traité de ce qui précède[118]. Dans Blais, le contribuable avait inclus le CTI reçu dans le calcul du revenu et réclamé le CTI à titre de dépense aux fins de la Loi. Le juge Jorré note ce qui suit :
+[37] Le montant de TPS et de TVQ en question, soit 2 425,68 $, représente les crédits de taxe sur les intrants (les « CTI ») remboursés par le fisc[37]. L’intimée prétend qu’il faut exclure ce montant des revenus. Bien qu’en général les entreprises font le calcul des revenus et des dépenses hors TPS et TVQ, ceci n’est pas obligatoire. L’alinéa 12(1)x) de la LIR oblige l’inclusion du remboursement de la TPS, à moins que le contribuable choisisse de réduire ses dépenses du montant de TPS et de TVQ remboursables[38].
+[38] Dans les présentes causes, les appelants n’ont pas fait ce choix et veulent, d’une part, inclure les CTI et, d’autre part, déduire le montant de TPS et de TVQ payé qui fait partie de leurs dépenses déductibles. Le montant de 2 425,68 $ doit être inclus dans le revenu.
+…
+[41] Il n’y a aucun litige quant au fait que les dépenses courantes comprenaient 3 033,99 $ en TPS et en TVQ. Les appelants n’ayant pas élu de réduire leurs dépenses selon l’alinéa 12(1)x) et le paragraphe 12(2.2) de la LIR, le montant de TPS et de TVQ payé pour les dépenses, par ailleurs déductibles, est déductible. En premier lieu, il faut ajouter la TPS et la TVQ de 2 154,02 $ au montant de 14 336,24 $ que le ministre a reconnu pour les dépenses[39]. Ensuite, il sera nécessaire d’inclure le montant de TPS et de TVQ payé pour toute autre dépense déductible. (notes de bas de page omises)
+[185] Dans la décision Gauthier, le contribuable avait déduit la TPS au titre de dépense sans par ailleurs réclamer de CTI. La juge Woods, alors membre de cette Cour, a noté ce qui suit concernant le traitement de la TPS sous l’alinéa 12(1)x) LIR :
+[25] Dans le calcul des revenus pour l’année d’imposition 1999, le ministre a refusé une déduction de 1 980 $ qui représente le montant de la taxe sur les produits et services (TPS) payé pour les fournitures de l’entreprise. Les motifs du refus ont été indiqués dans des observations écrites par l’avocat de la Couronne, reçues après l’audience. Les observations sont un peu difficiles à comprendre. La Couronne affirme que le contribuable s’est vu accorder des crédits de taxe sur les intrants pour la TPS payée, et les crédits de taxe sur les intrants doivent être inclus dans le revenu selon le paragraphe 248(16) et l’alinéa 12(1)x). Cependant, la Couronne ne dit pas qu’il devrait y avoir inclusion dans le revenu des crédits de taxe sur les intrants. Elle dit plutôt qu’il s’agit là d’un point qui vient justifier d’une façon ou d’une autre le refus de la déduction de la TPS payée. Je ne suis pas du même avis. La Couronne ne conteste pas le fait que la TPS a été payée comme dépense d’entreprise; alors je ne vois aucune raison de refuser la déduction.
+[26] Pour ce qui est des crédits de taxe sur les intrants, le paragraphe 248(16) stipule que les crédits de taxe sur les intrants déduits par un contribuable doivent être inclus dans le calcul du revenu comme une aide reçue d’un gouvernement visée par l’alinéa 12(1)x). Voici un extrait du paragraphe 248(16) :
+…
+[27] Je n’ai pas reçu d’éléments de preuve que M. Gauthier a déduit les crédits de taxe sur les intrants. Il n’y a donc rien qui me permette de conclure que les crédits de taxe sur les intrants doivent être inclus dans le revenu en application du paragraphe 248(16) et de l’alinéa 12(1)x).
+[186] Dans Mann, c’est le juge Bowman, alors juge en chef adjoint de cette Cour, qui conclut que si le ministre désapprouve le droit à un CTI, alors le contribuable doit être en droit de déduire la TPS dans le calcul du revenu net. À l’opposé, si le CTI n’est pas désavoué alors la TPS ne peut être déduite au titre de la dépense :
+[8] Pour 1996, le ministre a refusé des frais d'intérêts de 776,94 $. Il aurait plutôt dû refuser 240 $. Il a refusé la somme de 97,96 $ des dépenses demandées par les appelants relativement à la TPS au motif qu'ils avaient demandé des crédits de taxe sur les intrants mais qu'ils n'avaient pas inclus ces crédits dans leur revenu. Cela pose un certain problème puisque, à mon avis, les cotisations sont incompatibles, en ce sens que le ministre n'a pas admis les crédits de taxe sur les intrants demandés par les appelants sur ce montant. Ce montant n'aurait donc pas dû être refusé dans le calcul du revenu.
+[9] Toutefois, comme je propose d'accueillir l'appel en matière de TPS en tenant compte du fait que les appelants ont droit à des crédits de taxe sur les intrants au montant d'un peu plus de 5 000 $, je crois que ce refus devrait être maintenu.
+…
+[11] Pour 1997, le ministre a refusé des dépenses de 49,69 $. Ce refus concernait la TPS qui avait été payée et les CTI qui avaient été demandés relativement à cette somme, lesquels n'avaient pas été inclus dans le revenu. Pour les mêmes motifs qui ont été donnés pour l'appel pour l'année 1996, ce refus doit être maintenu, puisque je vais accueillir l'appel en matière de TPS.
+[187] La Cour est d’avis que ces décisions sont conséquentes avec les propos tenus plus haut.
+[188] La position de la Division de la vérification invoque la présomption du paragraphe 248(16) LIR[119]. De cette présomption, la vérificatrice en déduit que l’aide gouvernementale doit être ajoutée aux revenus de 9134 en vertu du sous-alinéa 12(1)x)(ii) LIR. Elle fait ensuite mention que si cette aide devait être remboursée, une déduction en vertu de l’alinéa 20(1)hh) LIR serait disponible.
+[189] Cette position ne vise que les dépenses refusées pour lesquelles le CTI a été réclamé[120]. Autrement dit, bien que toutes les dépenses aient pu être traitées de la même façon par 9134 aux fins de la Loi et la LTA, le traitement retenu par l’ARC aux fins de la Loi ne s’appliquerait qu’aux dépenses refusées. Sur cette base, la Cour comprend qu’il ne peut s’agir là qu’aux fins de la Partie I de la Loi. Et la Cour s’interroge sur ce fondement. Le paragraphe 248(16) LIR, bien qu’applicable puisque les faits sont établis, ne crée qu’une présomption. Cette présomption est ensuite utile à l’examen de l’alinéa 12(1)x) LIR. Cependant, tirer une conclusion sur la foi du sous-alinéa 12(1)x)(ii) sans autre explication est incomplet. D’autres considérations prévues à l’alinéa toute autant déterminantes doivent être analysées. Et ces autres considérations peuvent s’avérer fatales à l’application de l’alinéa 12(1)x).
+[190] Dans un premier temps, la position de la vérification ne fait aucune mention du traitement retenu aux fins de la LTA. Et l’aide gouvernementale est accordée conformément aux dispositions de la LTA. Une seule conclusion semble pouvoir expliquer le raisonnement de la vérification. Cette inclusion de l’aide gouvernementale dans le calcul du revenu de 9134 aux fins de la Partie I de la Loi serait basée sur une conclusion voulant que le CTI réclamé ne serait pas valide en raison du caractère personnel des dépenses refusées. A priori, cette position repose sur une décision qui ne relève pas de la compétence de la vérification. Une telle décision doit découler de l’exercice des pouvoirs conférés au ministre aux termes de la LTA.
+[191] Dans un deuxième temps, le calcul du revenu d’entreprise ou de bien de 9134 sous la Partie I LIR n’est pas entaché par le sort réservé à la TPS. Puisque le montant de la dépense est réduit du montant de la TPS, le jeu de la taxe et de son recouvrement par l’inscrit est exclu du calcul du revenu. Dans l’éventualité où le droit au CTI devait faire l’objet d’un examen par l’ARC, la LTA contient tout un régime permettant au ministre et à l’ARC d’agir en ce sens et aux personnes visées par ces mesures prises de faire valoir leurs droits[121]. Dans un cas comme celui-ci, il n’appartient pas à l’ARC de tirer des conclusions aux fins de l’application de la Loi à l’égard de l’éligibilité ou non d’un inscrit au CTI alors qu’aucune disposition de la Loi ne traite du droit au CTI et des mesures de recouvrement liées au CTI. La compétence des autorités à cet égard et les mesures législatives applicables sont prévues à la LTA. Les appels et les cotisations visés dans le cas présent sont strictement sujets aux dispositions de la Loi.
+[192] Considérant ce qui précède, la Cour est d’avis d’accueillir les appels en lien avec les ajustements effectués par l’intimé en regard des crédits de taxe sur les intrants et l’application de l’alinéa 12(1)x) et le paragraphe 15(1.3) LIR.
+D. Pénalités aux termes du paragraphe 163(2) LIR [193] La Cour retient de la lettre des parties en date du 24 mars 2023 que les pénalités sous le paragraphe 163(2) LIR sont retirées relativement au revenu non déclaré relatif aux Lot 243 et Lot 252. Les pénalités sont toutefois maintenues par l’intimé en regard des dépenses refusées liées aux infrastructures, de la Pelle 320 et des crédits de taxe sur les intrants tant pour l’appelant que l’appelante.
+[194] Les tableaux à l’Annexe I présentent un sommaire du traitement retenu par la Cour eu égard aux dépenses refusées pour les années d’imposition de 9134 se terminant les 31 mars 2011 et 2012. Si l’on exclut la non-inclusion décidée plus haut du montant de CTI dans le calcul du revenu de 9134 en vertu de l’alinéa 12(1)x) LIR, des montants de 18 295 $ et de 1 992 $ des dépenses refusées pour les 31 mars 2011 et 2012 respectivement sont renversés. Il n’y a donc pas lieu de discuter de l’application de la pénalité eu égard au montant de CTI. Seule la question des dépenses refusées se pose.
+[195] Les dépenses refusées représentent dorénavant environ 77 % et 88 % pour l’année d’imposition se terminant les 31 mars 2011 et 2012 respectivement du montant refusé sur lequel l’intimé a maintenu sa décision d’imposer la pénalité. Les montants impliqués sont maintenant approximativement de l’ordre de 60 000 $ au lieu de 78 000 $ pour l’année 2011 et de 16 000 $ au lieu de 18 000 $ pour l’année 2012.
+[196] Le libellé pertinent du paragraphe 163(2) LIR aux fins des présentes et le paragraphe (3) sont libellés comme suit :
+Faux énoncés ou omissions
+(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+[…]
+Charge de la preuve relativement aux pénalités
+(3) Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[197] Le paragraphe 163(2) LIR autorise le ministre à imposer une pénalité aux contribuables qui, sciemment ou dans des circonstances équivalant à faute lourde, font un faux énoncé ou une omission dans leur déclaration de revenus. Et le paragraphe 163(3) impose au ministre la charge d’établir les faits permettant de justifier l’imposition de la pénalité.
+[198] Bien que la pénalité puisse être communément appelée « pénalité pour faute lourde », elle peut être imposée en raison d’une faute lourde du contribuable ou encore d’un geste posé en toute connaissance de cause, dans les deux cas qui mènent à un faux énoncé ou à une omission dans la déclaration de revenus.
+[199] Dans l’affaire Wynter[122], et confirmé dans l’affaire Paletta[123], la Cour d’appel fédérale déclare :
+Lorsque le législateur utilise d’autres termes, il est présumé avoir eu l’intention de prêter des sens différents à ces termes. En d’autres mots, le législateur ne se répète pas : voir Ruth Sullivan, Statutory Interpretation, 3e éd. (Toronto : Irwin Law Inc., 2016), à la page 43. L’article 163 permet l’imposition de pénalités dans les cas où le contribuable a connaissance des faits ou dans des circonstances équivalant à faute lourde. L’article n’est pas conjonctif, et ces deux termes sont présumés avoir un sens et une teneur différents.
+(1) Fondement des circonstances équivalant à faute lourde [200] Le principe de faute lourde a été initialement établi dans l’affaire Venne[124], et plus tard confirmée par la Cour suprême du Canada dans Guindon[125]:
+Dans son mémoire, la ministre soutient que la « conduite coupable » visée à l’art. 163.2 de la LIR [traduction] « n’est pas censée différer de la faute lourde et de la norme qui s’y rattache au par. 163(2) » (par. 79). Dans Venne c. Canada (ministre du Revenu national — M.R.N.), 1984 CanLII 5717 (FC), [1984] A.C.F. no 314 (QL) (1re inst.), une affaire relative à la pénalité prévue au par. 163(2), la Cour fédérale explique qu’« une indifférence au respect de la Loi » ne s’entend pas que d’une simple inattention ou négligence; elle suppose « un degré important de négligence qui corresponde à une action délibérée » (p. 11). Cela s’apparente en somme à faire l’autruche (Sirois (L.C.) c. Canada, 1995 CarswellNat 1974 (WL Can.) (C.C.I.), par. 13; Keller c. Canada, 1995 CarswellNat 569 (WL Can.) (C.C.I.)). Dans Sidhu c. La Reine, 2004 CCI 174, la Cour canadienne de l’impôt, pour expliquer sa décision dans Venne, développe les expressions « équivaut à une conduite intentionnelle » et « montre une indifférence quant à l’observation de la présente loi » :
+Les actions « qui correspondent » à des actions réalisées intentionnellement sont celles pour lesquelles on peut présumer une intention, comme les actions qui démontrent « une indifférence au respect de la Loi ». [. . .] Le fardeau de la preuve ne consiste pas à prouver au delà du doute raisonnable l’intention coupable de se soustraire au paiement de l’impôt, mais à prouver selon la prépondérance des probabilités une telle indifférence à l’égard de la diligence appropriée et raisonnable dans le contexte d’un système d’autocotisation qui contredit et insulte le sens commun. [par. 23 (CanLII)]
+(notre soulignement)
+[201] Considérant que la pénalité pour faute lourde est destinée à sanctionner la faute grave qui va au-delà de la diligence raisonnable ou de l’inattention ordinaire[126], la question est de déterminer, tel que rapporté dans Wynter, si le comportement du contribuable s’écarte :
+[…] de façon tellement marquée de la conduite à laquelle on est en droit de s’attendre qu’elle correspond (sic) à un haut degré de négligence qui peut être qualifié d’écart marqué par rapport aux normes, aux pratiques et à la diligence raisonnable attendues de la part d’un contribuable responsable. La mise en garde exprimée par la Cour suprême dans l’arrêt Guindon, au paragraphe 61, s’applique tout autant en l’espèce : ces pénalités « vise[nt] à sanctionner une conduite grave, non la négligence ordinaire ou la simple erreur ». [par 21]
+[202] La Cour peut prendre en considération tout facteur pertinent pour déterminer si un contribuable a fait preuve de faute lourde. Il peut s’agir, entre autres, de l’ampleur de l’omission relative au revenu déclaré, de la possibilité qu’avait le contribuable de découvrir l’erreur, de son niveau d’éducation et d’intelligence apparente, et l’effort sincère du contribuable pour se conformer à la loi[127].
+[203] Les connaissances générales d’un contribuable en matière commerciale et fiscale sont pertinentes pour déterminer si une infraction a été commise avec le degré de négligence requis[128].
+(2) Fondement établissant en toute connaissance de cause (sciemment) [204] Pour prouver la connaissance, le ministre doit prouver que le contribuable avait une connaissance subjective du fait qu’il faisait une fausse déclaration ou omission dans sa déclaration de revenus[129] :
+Comme l’indique également l’arrêt Wynter, la connaissance subjective de l’appelant peut être prouvée au moyen d’éléments de preuve établissant, selon la prépondérance des probabilités, que l’appelant a fait preuve d’ignorance volontaire quant à la véracité des énoncés contenus dans la déclaration de revenu et la demande. Il s’agit là d’une précision utile sur le fait que l’ignorance volontaire permet d’imputer une connaissance subjective à l’appelant et que l’ignorance volontaire et la faute lourde sont des concepts juridiques différents.
+(notre soulignement)
+[205] L’aveuglement volontaire (ignorance volontaire) est utilisé pour « attribuer une connaissance subjective » au contribuable et se distingue donc de la faute lourde[130].
+[206] La norme de connaissance peut inclure soit la connaissance réelle, soit la connaissance imputée. Puisqu’il est peu probable que le contribuable admette qu’il avait une connaissance réelle d’une inexactitude dans sa déclaration de revenus, la norme fréquemment débattue est de savoir si le contribuable était délibérément aveugle ou aurait dû savoir que la déclaration de revenus était incorrecte.
+[207] Dans l’affaire Torres[131], la Cour présente sommairement les principes de gouvernance, pour les fins du paragraphe 163(2) LIR, de l’aveuglement volontaire (ignorance volontaire) :
+[65] Vu cette jurisprudence et les éléments de preuve qui m’ont été produits dans les six appels dont je suis saisi, je dégage les principes suivants :
+a) La connaissance d’un faux énoncé peut être déduite d’un aveuglement volontaire.
+b) La notion d’aveuglement volontaire peut être appliquée aux pénalités pour faute lourde prévues par le paragraphe 163(2) de la Loi, et il convient d’appliquer cette notion en l’espèce.
+c) Pour savoir s’il y a eu ou non aveuglement volontaire, il faut tenir compte du niveau d’instruction et d’expérience du contribuable.
+d) Pour conclure à un aveuglement volontaire, il doit y avoir eu nécessité de s’informer, ou soupçon d’une telle nécessité.
+e) Les facteurs laissant supposer la nécessité de s’informer avant la production d’une déclaration, ou faisant apparaître « des feux rouges clairs », expression que j’employais à l’occasion de l’affaire Bhatti, comprennent ce qui suit :
+i) l’importance de l’avantage ou de l’omission;
+ii) le caractère flagrant du faux énoncé et la facilité avec laquelle il peut être décelé;
+iii) l’absence, dans la déclaration elle-même, d’une attestation du spécialiste qui a établi la déclaration;
+iv) les demandes inusitées du spécialiste;
+v) le fait que le spécialiste était auparavant inconnu du contribuable;
+vi) les explications inintelligibles du spécialiste;
+vii) le point de savoir si d’autres personnes ont eu recours au spécialiste ou ont fait des mises en garde à l’encontre de ce dernier, ou le point de savoir si le contribuable lui-même hésite à s’en ouvrir à d’autres.
+f) Le dernier critère de l’aveuglement volontaire est le fait que le contribuable ne s’enquiert pas auprès du spécialiste pour comprendre la déclaration de revenus, ni ne s’enquiert aucunement auprès d’un tiers, ou auprès de l’ARC elle-même.
+(3) Défense attribuable à une diligence raisonnable [208] Le contribuable peut se prévaloir d’une défense de diligence raisonnable en ce qui concerne la pénalité prévue à l’article 163 LIR. Une fois que le ministre a prouvé qu’une pénalité s’applique, le contribuable est assujetti à cette pénalité, à moins que le contribuable ne puisse prouver qu’il a fait preuve de diligence raisonnable.
+[209] Il incombe au contribuable de prouver sa défense selon la prépondérance des probabilités. Il incombe toujours au contribuable de prouver qu’il a fait preuve de diligence raisonnable, sans égard au fardeau du ministre d’établir les faits au soutien de la pénalité ou au contribuable de démolir les présomptions de fait retenues par le ministre[132].
+[210] Le test de la défense de diligence raisonnable a été discuté dans l’affaire École Polytechnique[133], et suivi par la même Cour d’appel fédérale dans l’affaire Résidences Majeau[134]. Le test, tel qu’énoncé dans École Polytechnique, est le suivant :
+La défense de diligence raisonnable permet à une personne d’éviter l’imposition d’une pénalité si elle fait la preuve qu’elle n’a pas été négligente. Elle consiste à se demander si cette personne a cru, pour des motifs raisonnables, à un état de fait inexistant qui, s’il eut existé, aurait rendu son acte ou son omission innocent ou si elle a pris toutes les précautions raisonnables pour éviter l’événement qui mène à l’imposition de la peine? Voir La Reine c. Sault Ste-Marie, 1978 CanLII 11 (CSC), [1978] 2 R.C.S. 1299; La Reine c. Chapin, 1979 CanLII 33 (CSC), [1979] 2 R.C.S. 121. En d’autres termes, la diligence raisonnable excuse soit l’erreur de fait raisonnable, soit la prise de précautions raisonnables pour se conformer à la loi.
+[211] Il est à noter que la bonne foi n’est pas suffisante pour établir une défense de diligence raisonnable[135]. Le contribuable doit soit avoir eu une croyance objectivement raisonnable (mais erronée) sur un ensemble de faits qui, s’ils avaient existé, aurait rendu l’acte ou l’omission sans conséquence, soit avoir pris toutes les précautions raisonnables pour éviter l’événement qui a conduit à la pénalité.
+(a) Croyance erronée/erreur de fait [212] Une erreur de fait raisonnable aux fins du test comporte un élément subjectif et un élément objectif. Le critère subjectif est rempli si le contribuable établit qu’il s’est trompé sur une situation de fait qui, si elle avait existé, aurait rendu l’acte ou l’omission sans conséquence. L’élément objectif est rencontré si l’erreur était telle qu’une personne raisonnable dans les mêmes circonstances aurait commis la même erreur[136].
+[213] L’erreur du contribuable doit être une erreur de fait et non une erreur de droit[137]. Cette distinction est souvent en cause dans les recours devant cette Cour. Une erreur de fait objectivement raisonnable est une erreur qu’une personne raisonnable aurait commise dans les mêmes circonstances[138].
+(b) Précautions raisonnables [214] Un contribuable peut également faire preuve de diligence raisonnable s’il prouve qu’il a pris toutes les précautions raisonnables pour éviter l’acte ou l’omission entraînant l’imposition de la pénalité. Par exemple, une précaution raisonnable peut inclure l’obtention de conseils auprès d’un fiscaliste, les efforts sincères pour récupérer les feuillets de renseignements manquants ou contacter l’ARC pour se renseigner sur les mesures à prendre dans les circonstances. Chaque situation est un cas d’espèce à la lumière des faits applicables.
+(4) Cas présent [215] Madame Beaudry, vérificatrice au dossier, a témoigné concernant son rapport recommandant une pénalité dans le cas de monsieur Touchette et 9134.
+[216] L’interrogatoire en chef, somme toute succinct, n’a pas permis d’étayer la preuve et les fondements de l’intimé pour convaincre et ouvrir droit au paragraphe 163(2) LIR[139]. Il reprend essentiellement quelques passages des rapports notamment l’importance des montants, les connaissances d’affaires et fiscales du contribuable, la responsabilité des fonctions et les affaires de 9134 et la présence de conseiller.
+[217] Le contre-interrogatoire a permis de confirmer qu’il n’y avait pas eu de conciliation des dépenses réclamées par 9134 et à partir desquelles les pénalités sont appliquées[140]. Il a également permis de confirmer que la comptabilité était bien tenue. Enfin, madame Beaudry confirme qu’il y a eu peu d’échange avec les contribuables concernant les dépenses d’infrastructure. Il n’a pas été question de malversation ou d’élément trompeur aux écritures comptables. Les factures existent et ont été discutées bien que des positions contraires existent entre les parties.
+[218] Après avoir considéré la preuve documentaire déposée au dossier, les témoignages et les représentations entendus, la Cour ne croit pas que l’intimé a présenté une preuve matérielle et testimoniale convaincante et suffisante pour rencontrer son fardeau.
+[219] D’abord, la Cour n’est pas convaincue que la preuve soutienne une indifférence au respect de la Loi, une action délibérée et une conduite intentionnelle de se soustraire aux obligations de la Loi. Les éléments qui pourraient sous-tendre une telle indifférence n’ont pas été établis. Il ne s’agit pas de nier que les appelants ont fait preuve de laxisme ou de négligence. La preuve déposée n’est pas suffisamment convaincante pour rencontrer, selon la balance des probabilités, le test de la faute lourde établi plus haut.
+[220] La Cour note que la comptabilité de la Co-entreprise était maintenue par le co-associé des appelants, la tenue de livres n’a pas été un enjeu et qu’aucune conciliation de comptes n’a été effectuée relativement aux dépenses imputées à 9134[141]. La rédaction des deux rapports recommandant les pénalités est essentiellement au même effet et l’examen constaté par la vérificatrice est somme toute généralisé. Des références identiques sont invoquées aux deux rapports. Des conclusions sont tirées sans que des circonstances plus précises ne soient relatées. Enfin, les rapports sont rédigés telles que les conclusions sont les mêmes, bien qu’il puisse être question de pénalités au moment de la rédaction, tant sur les revenus non déclarés que les dépenses refusées et le crédit de taxe sur les intrants.
+[221] Les passages des rapports relatifs au revenu non déclaré et à la valeur marchande des lots sont plus révélateurs que ce qui peut concerner les dépenses refusées, alors que seules les pénalités relatives aux dépenses sont maintenues. Le témoignage en chef de madame Beaudry a été très succinct et n’a pas réellement permis d’ajouter d’éclaircissements sur la conduite grave invoquée à l’égard des appelants.
+[222] La décision Venne est très éloquente, et plus particulièrement en regard de la situation actuelle. Cette décision demeure une décision phare dans l’interprétation et la mesure qui doivent être données au paragraphe 163(2) LIR. Dans cette affaire, bien que le contribuable eût acquis une scolarité limitée, le juge Strayer composait avec une situation où pendant plusieurs années des revenus non pas été déclarés. Ces revenus représentaient des sommes bien supérieures au revenu déclaré par le contribuable[142].
+[223] Le juge Stayer a acquiescé à la position de l’intimé concernant plusieurs éléments des revenus non déclarés et accepté que les conditions de l’alinéa 152(4)a) LIR soient rencontrées. Cette situation n’a toutefois pas empêché la décision d’annuler les pénalités du paragraphe 163(2) LIR eu égard aux revenus non déclarés. Dans son analyse de la pénalité en lien avec les revenus non déclarés, et après avoir souligné le niveau élevé de conviction que doit établir l’intimé et la possibilité pour le contribuable de bénéficier d’un doute raisonnable[143], le juge Strayer a fait référence notamment aux éléments suivants :
+36 I have come to the conclusion that the defendant has not sufficiently proven that the misstatements were made “knowingly” by the plaintiff in his tax returns for the years in question. I should note here, as it is relevant to the whole question of the application of penalties under subsection 163(2), that there seems to be a certain element of subjectivity recognized in the case law with respect to assessing the knowlege [sic] or gross negligence of a taxpayer with respect to misstatements in his return: see, eg, Howell v. MNR, (supra), at 2245 [234]; Joris v Minister of National Revenue, [1981] C.T.C. 2596, 81 D.T.C. 470 at 2598 [472]. The taxpayer here is a man with a grade five education, working and paying taxes in a language which is not his first language nor that in which he was educated, a man who is more at ease in a garage than in an office. Not only do these factors militate against a finding that the misstatements in his return were made knowingly by him, but also his entire course of conduct is not consistent with that of a person who had deliberately set out to conceal large amounts of taxable income. He kept what appear to be quite complete records of sales in his business, then turned these over to his bookkeeper. As far as one can judge from the evidence, all or most of the revenues from the business were deposited in the bank where the moneys could readily be traced. He also lodged all but one or two of the mortgages on which he lent money with banks and trust companies which kept careful records of the income earned from these “escrow mortgages”. It is unlikely that a person planning to conceal income would have handled his affairs in this manner. Further it is hard to believe that he was consciously and effectively supervising his bookkeepers since a number of the errors made in his returns were to his disadvantage, even though more of them were to his advantage. I am therefore not able to conclude that the misstatements in the returns were made “knowingly” by the plaintiff.
+37 With respect to the possibility of gross negligence, I have with some difficulty come to the conclusion that this has not been established either. “Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. I do not find that high degree of negligence in connection with the misstatements of business income. To be sure, the plaintiff did not exercise the care of a reasonable man and, as I have noted earlier, should have at least reviewed his tax returns before signing them. A reasonable man in doing so, having regard to other information available to him, would have been led to believe that something was amiss and would have pursued the matter further with his bookkeeper.
+38 With respect to business income, I can more readily recognize that effective surveillance would have been difficult for the plaintiff and would have involved him making and reviewing numerous computations of revenues, expenditures, assets, and liabilities. In other words the errors in business income, small in some years but very substantial in others, would not necessarily have “sprung out” at a person of the taxpayer's background and abilities. […]
+(notre soulignement)
+[224] Certes, des éléments reprochables sont présents dans le cas actuel. L’ampleur des dépenses refusées est possiblement le facteur le plus important. Cependant, l’établissement d’une faute lourde ne peut reposer que sur ce critère[144]. D’autres facteurs peuvent également co-exister et c’est précisément à ce niveau que la preuve de l’intimé s’avère problématique. Les appelants n’ont pas fait l’objet d’une vérification de leur revenu, seules les activités de la Co-entreprise ont fait l’objet d’une vérification. Les rapports recommandant une pénalité ne contiennent aucune information concernant le revenu des appelants par ailleurs et donc le redressement apporté par rapport au revenu déclaré n’est pas inclus au rapport. Également, un certain nombre des questions contenues au rapport pour soutenir une preuve de « sciemment » ou « faute lourde » sont adressées de façon succincte et apportent peu d’éclairage sur le comportement du contribuable ou encore avancent des conclusions qui n’ont pas été mises en preuve. La Cour est d’avis que l’intimé n’a pas réussi à établir une démonstration crédible et suffisamment convaincante, selon la balance des probabilités, d’une faute lourde des appelants aux fins du paragraphe 163(2) LIR.
+[225] En lien avec la connaissance subjective, ici également, la Cour n’est pas en mesure de tirer une conclusion favorable à l’intimé. La preuve de l’intimé n’a pas convaincu la Cour que les appelants ont fait preuve d’ignorance volontaire et qu’un acte délibéré a été orchestré par ces derniers. La tenue de livre est conforme et adéquate. Les factures sont présentes. Les transactions sont disponibles et révisables. Il ne s’agit pas d’une situation où des éléments de preuve ou d’agissement sont cachés. Dans ce cas également, bien que la non-déductibilité de dépenses ait été maintenue dans plusieurs cas et quelques admissions ont été faites par les appelants, cela n’a pas empêché les appelants de manière générale d’avancer une explication au traitement réclamé dans les déclarations. La Cour n’a pas retenu la position des appelants dans ces cas. À l’opposé, pour la Cour, l’intimé n’a pas établi selon la balance des probabilités l’ignorance volontaire des appelants au moment de la production des déclarations de revenus qui est nécessaire aux fins de la connaissance de cause du paragraphe 163(2) LIR. Cette dichotomie n’empêche pas une conclusion défavorable au maintien des pénalités.
+[226] Dans ces circonstances, il appartenait à l’intimé de satisfaire son fardeau de la preuve. Considérant que la Cour est d’avis que la preuve n’a pas suffi, il n’est pas requis de considérer la défense de diligence raisonnable des appelants.
+[227] Considérant ce qui précède, le fardeau de la preuve de l’intimé sous le paragraphe 163(2) LIR n’a pas été satisfait. En conséquence, les pénalités du paragraphe 163(2) n’ont pas lieu d’être maintenues à l’égard des dépenses refusées.
+V. Conclusion [228] Considérant ce qui précède, les appels des avis de nouvelle cotisation des appelants sont accueillis comme suit :
+A. Daniel Touchette – Années d’imposition 2010 et 2011 (1) Année d’imposition 2010 [229] L’appel est accueilli et la nouvelle cotisation en appel de l’appelant pour l’année d’imposition se terminant le 31 décembre 2010 est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en fonction des motifs énoncés ci-dessus et des montants ci-dessous en résultant.
+[230] Les pénalités imposées en vertu du paragraphe 163(2) LIR sont annulées et les corrections suivantes sont apportées :
+Correction
+Avis de nouvelle cotisation en appel
+Montant révisé admis
+Décision de la Cour
+Inclusion - Revenu non déclaré
+108 504 $
+54 328 $
+54 328 $
+Avantage à l’actionnaire – 15 LIR
+88 433 $
+88 433 $
+60 051 $
+(2) Année d’imposition 2011 [231] L’appel est accueilli et la nouvelle cotisation en appel de l’appelante pour l’année d’imposition se terminant le 31 décembre 2011 est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en fonction des motifs énoncés ci-dessus et des montants ci-dessous en résultant.
+[232] Les pénalités imposées en vertu du paragraphe 163(2) LIR sont annulées et les corrections suivantes sont apportées :
+Correction
+Avis de nouvelle cotisation en appel
+Montant révisé admis
+Décision de la Cour
+Avantage à l’actionnaire – 15 LIR
+53 206 $
+20 461 $
+15 968 $
+[233] Pour ce qui est des dépens, le succès des appels est partagé étant donné notamment les admissions et les résultats confirmés aux présents motifs. Par conséquent, aucun dépens n’est accordé.
+B. 9134-3822 Québec inc. – Années d’imposition 2011, 2012 et 2013 (1) Année d’imposition 2011 [234] L’appel est accueilli et la nouvelle cotisation en appel de l’appelante pour l’année d’imposition se terminant le 31 mars 2011 est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en fonction des motifs énoncés ci-dessus et des montants ci-dessous en résultant.
+[235] Les pénalités imposées en vertu du paragraphe 163(2) LIR sont annulées et les corrections suivantes sont apportées :
+Correction
+Avis de nouvelle cotisation en appel
+Montant révisé admis
+Décision de la Cour
+Inclusion - Revenu non déclaré
+108 504 $
+54 328 $
+54 328 $
+Déduction refusée - Dépenses
+(79 878 $)
+(79 878 $)
+(61 583 $)
+Inclusion - Crédit de taxe sur les intrants
+10 066 $
+10 066 $
+0 $
+(2) Année d’imposition 2012 [236] L’appel est accueilli et la nouvelle cotisation en appel de l’appelante pour l’année d’imposition se terminant le 31 mars 2012 est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en fonction des motifs énoncés ci-dessus et des montants ci-dessous en résultant.
+[237] Les pénalités imposées en vertu du paragraphe 163(2) LIR sont annulées et les corrections suivantes sont apportées :
+Correction
+Avis de nouvelle cotisation en appel
+Montant révisé admis
+Décision de la Cour
+Dépenses refusées
+(46 703 $)
+(17 960 $)
+(15 968 $)
+Inclusion du crédit de taxe sur les intrants
+6 503 $
+2 501 $
+0 $
+(3) Année d’imposition 2013 [238] L’appel est accueilli et la nouvelle cotisation en appel de l’appelante pour l’année d’imposition se terminant le 31 mars 2013 est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en fonction des motifs énoncés ci-dessus et de la révision du montant des pertes autres qu’en capital provenant de la perte nette et du revenu imposable de l’appelante révisés ci-haut pour l’année d’imposition se terminant le 31 mars 2012.
+[239] Pour ce qui est des dépens, le succès des appels est partagé étant donné notamment les admissions et les résultats confirmés aux présents motifs. Par conséquent, aucun dépens n’est accordé.
+Signé ce 22e jour de décembre 2025.
+« J. M. Gagnon »
+Juge Gagnon
+RÉFÉRENCE :
+2025 CCI 195
+Nº DES DOSSIERS DE LA COUR :
+2019-108(IT)G & 2019-115(IT)G
+INTITULÉ DE LA CAUSE :
+DANIEL TOUCHETTE ET AL c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Sherbrooke (Québec)
+DATES DE L’AUDIENCE :
+Les 8 et 9 mars 2023
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Jean Marc Gagnon
+DATE DU JUGEMENT :
+Le 22 décembre 2025
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Maxime Chouinard
+Avocate de l’intimé :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant:
+Nom :
+Me Maxime Chouinard
+Cabinet :
+Therrien Couture Jolicoeur S.E.N.C.R.L.
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Loi de l’impôt sur le revenu, LRC 1985, c 1 (5e suppl) [LIR ou Loi].
+[2] Marseille, Claude et al., Les objections à la preuve en droit civil, Deuxième édition, Montréal, LexisNexis Canada Inc., 2022, p 304, para 20-33.
+[3] Notes sténographiques du 8 mars 2023, p 158 à la ligne 26 jusqu’à p 159 à la ligne 3; et p 159 aux lignes 10 à 20.
+[4] Monsieur Michel Leclerc est l’administrateur et l’actionnaire unique de la société 2849, laquelle est la seconde associée de la Co-entreprise.
+[5] La Cour note que le contrat notarié confirmant le transfert de propriété du Lot 253 porte la date du 22 juillet 2009. La Cour note également que le contrat notarié contient la même clause que les contrats notariés des Lot 243 et Lot 252 relativement à la date où les acheteurs deviennent propriétaires de l’immeuble soit à la date du contrat notarié et qui interviendront en date du 14 janvier 2010 et 16 avril 2010 respectivement. Cependant, la clause concernant l’existence ou non d’un avant-contrat dans le contrat notarié du Lot 253 dévoile qu’un avant-contrat existe. Cette situation diverge des contrats notariés des Lot 243 et Lot 252 où le même notaire instrumentant note que les parties conviennent que les seules relations juridiques les liant sont constatées par l’acte notarié lui-même qui annule toutes les ententes précédentes.
+[6] Or, tel que soulevé par l’intimé dans ses représentations écrites additionnelles, il y a une incongruence entre la date de juillet 2009 mentionnée par les appelants à l’audience et la date du mois d’août 2009 mentionnée aux Avis d’appel, para 10.
+[7] Notes sténographiques du 8 mars 2023, p 169 à la ligne 28; et p 170 aux lignes 1 à 24.
+[8] Ibid, p 185 aux lignes 9 à 13.
+[9] Cahier de documents de l’intimé (I-1), Onglet 6, pp 1-2.
+[10] Notes sténographiques du 9 mars 2023, p 62 aux lignes 4 à 19.
+[11] Code civil du Québec, RLRQ c CCQ-1991, art 2821 [CcQ].
+[12] Gaudreau c Latreille, 2007 QCCS 160 (CanLII) [Gaudreau], repris notamment dans 9065-3627 Québec inc. c H.A. Grétry inc., 2011 QCCA 1871 (CanLII) [9065].
+[13] En août 2009, selon les Avis d’appel, au para 10.
+[14] Notamment en débutant la construction des immeubles avant la conclusion des actes de vente devant notaire.
+[15] Cahier de pièces des appelants (A-1), onglet 9, p 65.
+[16] Ibid, onglet 12.
+[17] La question du travail de remblai est nécessaire n’a pas été abordée. Monsieur Touchette témoigne que les travaux de construction du Lot 243 auraient commencé en août 2009. La valeur marchande qu’elle a établi n’est donc pas remise en question à cet égard et les appelants n’ont pas non plus avancé une position contraire.
+[18] Notes sténographiques 9 mars 2023, p 53 aux lignes 22-28; et p 54 aux lignes 1-9.
+[19] Notes sténographiques du 8 mars 2023, p 56 aux lignes 14-19.
+[20] Ibid, p 53 aux lignes 25-28; et p 54 aux lignes 1-8. La date de juillet 2009 crée plutôt une confusion puisque la Cour retient que les rapports d’évaluation amendés au dossier de la Cour réfèrent à des dates d’évaluation en janvier et avril 2010 pour les Lot 243 et Lot 252 respectivement.
+[21] À cet égard, le contre-interrogatoire de madame Fortin a permis d’apprendre que la référence lors de l’interrogatoire principale au mois de juillet 2009 était peut-être une erreur de madame Fortin, puisque les rapports d’évaluation amendés au dossier de la Cour réfèrent à des dates d’évaluation en janvier et avril 2010. La procureure de l’intimé a par la suite résumé en référant à une erreur sans que madame Fortin ne corrige. Madame Fortin a finalement reconnu que le rapport qui a été amendé était également pour une évaluation au 15 janvier 2010. Il est donc vraisemblable qu’il en soit ainsi pour le rapport qui a été amendé et déposé en preuve pour le Lot 252 et évalué en date du 16 avril 2010.
+[22] Notes sténographiques du 8 mars 2023, p 69 et suivantes.
+[23] Ibid, p 70 et p 71.
+[24] Ibid, p 61 et suivantes.
+[25] Ibid, p 76 aux lignes 5-8. Cependant, les cartes topographiques consultées ne sont pas annexées au rapport d’évaluation amendé.
+[26] Ibid, p 76 aux lignes 25-28; et p 77 aux lignes 1-2.
+[27] La Cour est d’avis que les discussions qu’elle a pu avoir avec monsieur Touchette concernant le moment, les coûts et le payeur des travaux de remblai sur le Lot 252 sont non concluantes. Le témoignage de madame Fortin à cet égard n’est pas retenu.
+[28] La Cour retient que, dans une certaine mesure, le travail d’évaluation s’établit selon l’état et les conditions dans lesquels se trouve le lot évalué. Ce qui peut apparaître à première vue raisonnable.
+[29] Les corrélations finales (pp 14 et 15 du rapport 243 et p 16 du rapport 252) indiquent que selon le propriétaire i) le coût d’aménagement, ii) le contexte de construction par rapport aux terrains, iii) la forme et la topographie et iv) le terrain excédentaire non constructible en 2010 (ce dernier élément étant soulevé pour le Lot 253 uniquement) pourraient impacter la valeur des lots. Nonobstant la remarque provenant du propriétaire, la dernière note contenue à la corrélation finale du rapport 243 reconfirme la valeur marchande du Lot 243 sur la base d’une superficie utilisable de 10 441 pc (4 581 pc utilisés par le rond-point de la rue), basée sur les informations obtenues du propriétaire sur l’état du terrain en 2010 et son état actuel en 2014. Rien indique que les remarques du propriétaire n’affectent la valeur marchande du Lot 243 retenue par l’évaluateur. Nonobstant la remarque provenant du propriétaire, la dernière note contenue à la corrélation finale reconfirme la valeur marchande du Lot 252 à 138 000 $ sur la base des informations obtenues sur la construction et l’état du terrain. Rien indique que les remarques du propriétaire n’affectent la valeur marchande du Lot 252 retenue par l’évaluateur.
+[30] Voir notamment aux pp 171, 173 et 178 des notes sténographiques du 8 mars 2023.
+[31] Notes sténographiques du 8 mars 2023, pp 159-160.
+[32] Ibid, p 174.
+[33] Notes sténographiques du 9 mars 2023, p 204 aux lignes 11 à 17.
+[34] Ibid, p 244 aux lignes 8 à 15.
+[35] Ibid, p 248 aux lignes 8 à 14.
+[36] Ibid, p 237 aux lignes 6 à 12; et p 243 aux lignes 14 à 25.
+[37] Cahier de pièces des appelants (A-1), Onglet 8.
+[38] Cahier de pièces des appelants (A-1), Onglet 8, p 4.
+[39] Notes sténographiques du 8 mars 2023, p 122 aux lignes 19 à 28; et p 123 aux lignes 1 à 11.
+[40] Ibid, p 123 à la ligne 11.
+[41] Cahier de pièces des appelants (A-1), Onglet 13.
+[42] Notes sténographiques du 8 mars 2023, p 168 aux lignes 15 à 22.
+[43] Cahier de pièces des appelants (A-1), Onglet 13, p 3.
+[44] Notes sténographiques du 8 mars 2023, p 188 aux lignes 21 à 28; et p 189 aux lignes 1 à 5.
+[45] Ibid, p 190 aux lignes 24 à 28; et p 191 aux lignes 1 à 5.
+[46] Cahier de pièces des appelants (A-1), Onglet 20, p 1.
+[47] Notes sténographiques du 8 mars 2023, p 190 aux lignes 20 à 26; et p 191 aux lignes 17 à 21. Ces dépenses ne seraient pas en litige en l’espèce : Notes sténographiques du 9 mars 2023, p 260 aux lignes 3 à 28; et p 261 aux lignes 1 à 9.
+[48] Notes sténographiques du 8 mars 2023, p 299 aux lignes 14 à 28; et p 300 aux lignes 1 à 14.
+[49] Notes sténographiques du 9 mars 2023, p 102 aux lignes 23 à 26.
+[50] Notes sténographiques du 8 mars 2023, p 195 aux lignes 13 à 21, p 221 aux lignes 24 à 28 et p 222 aux lignes 8-9.
+[51] Ibid, p 200 aux lignes 19- à 25.
+[52] Ibid, p 196 aux lignes 21 à 26; et de la p 200 à la ligne 26 à p 201 à la ligne 2.
+[53] Voir la lettre des parties du 24 mars 2023 adressée au greffe de cette Cour, à la p 4.
+[54] Onglet 21 (En liasse, factures pour les infrastructures 2011), Onglet 22 (En liasse, factures pour les infrastructures 2012), Onglet 23 (En liasse, factures pour les infrastructures 2012-2), Onglet 24 (En liasse, factures pour les frais d’essence 2011), Onglet 25 (En liasse, factures pour les frais d’essence 2012), Onglet 26 (En liasse, factures pour les frais d’entretien et réparation de la pelle 2011), Onglet 27 (En liasse, factures pour les frais d’entretien et réparation de la pelle 2012) et Onglet 28 (Facture pour les frais d’assurance pour la pelle 2012).
+[55] Pour l’exercice financier de 9134 se terminant le 31 mars 2011, la Cour estime le total des dépenses d’infrastructures en litige à 69 690 $ réduit de trois dépenses non contestées par les appelants de 850$, dont 425 $ pour les appelants. Pour l’exercice financier de 9134 se terminant le 31 mars 2012, la Cour estime le total des dépenses d’infrastructures en litige à 10 915 $ réduit de dépenses non contestées par les appelants pour un montant total de 14 030 $ dont 7 015$ pour les appelants.
+[56] Notes sténographiques du 8 mars 2023, p 292 aux lignes 7 à 24.
+[57] Ibid, p 289 aux lignes 1 à 25.
+[58] Ibid, qui réfèrent au Cahier de documents de l’intimé (I-1), Onglet 21, p 7.
+[59] Ibid, p 287 aux lignes 16 à 28; et p 288 à la ligne 1.
+[60] Notes sténographiques du 9 mars 2023, de la p 232 ligne 25 à la p 233 ligne 5. C’est également le cas pour une facture de Sani-Eco inc. relative à des travaux de démolition.
+[61] Notes sténographiques du 8 mars 2023, pp 39 et 40.
+[62] Cahier de documents de l’intimé (I-1), Onglet 6, pp 3 et 4; Notes sténographiques du 9 mars 2023, p 239 aux lignes 9 à 21. Les images tirées de « Google Maps » en septembre 2009 montrent que les travaux de pavage sur la rue publique semblent être déjà complétés à cette date (Pièces I-3 et I-4).
+[63] Cahier de documents de l’intimé, Onglet 22, p 7.
+[64] Notes sténographiques du 8 mars 2023, p 212 aux lignes 13 et 14.
+[65] Ibid, p 295 et p 296.
+[66] Cahier de documents de l’intimé, Onglet 22, p 11.
+[67] Notes sténographiques du 8 mars 2023, p 213 aux lignes 4 et suivantes. Également en contre-interrogatoire : notes sténographiques du 8 mars 2023, p 296 à la ligne 5.
+[68] Cahier de pièces des appelants, Onglet 24.
+[69] Cahier de documents de l’intimé, Onglet 21, factures à la p 24 (15 septembre 2010), p 45 (3 novembre 2010).
+[70] Notes sténographiques du 8 mars 2023, p 206 à la ligne 28; p 207 à la ligne 1; p 210 aux lignes 12 et 13.
+[71] Cahier de documents de l’intimé, Onglet 21, pp 29 à 35; et Onglet 22, p 4.
+[72] Notes sténographiques du 8 mars 2023, de la p 203 à la ligne 22 à la p 204 à la ligne 18.
+[73] Ibid, p 208 aux lignes 18 à 28 et p 209 à la ligne 1.
+[74] Ibid, p 211 aux lignes 12 à 27.
+[75] Ibid, p 212 aux lignes 4 à 11.
+[76] Ibid, de la p 282 à la ligne 10 à la p 284 à la ligne 15.
+[77] Ibid, p 278 lignes 14 et suivantes.
+[78] Ibid, p 279 lignes 12 et suivantes.
+[79] Il s’agit des pièces aux pages 5 et 6, Onglet 23. Monsieur Touchette attribue ces deux factures au Protocole 2011. Notes sténographiques du 8 mars 2023, p 216 aux lignes 19 à 28 et p 217 à la ligne 1.
+[80] Cahier de documents de l’intimé, Onglet 21, p 16.
+[81] Ibid, Onglet 23, p 2.
+[82] Notes sténographiques du 8 mars 2023, p 216 aux lignes 4 à 6.
+[83] Cahier de documents de l’intimé, Onglet 23, p 4.
+[84] Notes sténographiques du 8 mars 2023, p 216 aux lignes 15 à 17.
+[85] Cahier de documents de l’intimé, Onglet 23, p 8.
+[86] Notes sténographiques du 8 mars 2023, p 217 aux lignes 23 à 25.
+[87] Cahier de documents de l’intimé, Onglet 23, p 10.
+[88] Notes sténographiques du 8 mars 2023, p 218 aux lignes 9 à 18.
+[89] Ibid, p 217 aux lignes 2 à 5.
+[90] Cahier de documents de l’intimé, Onglet 21, p 46.
+[91] Notes sténographiques du 8 mars 2023, p 210 aux lignes 14 à 28.
+[92] Cahier de documents de l’intimé, Onglet 29.
+[93] Infra note 97.
+[94] Cette facture n’aurait aucun rapport avec le présent dossier, ni n’a fait l’objet d’un témoignage direct. Notes sténographiques du 8 mars 2023, p 232 aux lignes 5 à 14.
+[95] Ces factures se retrouvent aux Onglets 24, 25, 26, 27 et 28 du Cahier de documents de l’intimé. Les Onglets 14, 15, 16, 17, 18 et 19 du Cahier de documents de l’intimé présentent les feuilles de travail de la vérificatrice concernant les dépenses refusées en lien avec la Pelle 320. On ignore toutefois les factures précises d’essence qui constituent les montants d’essence refusés pour 2011 et 2012. Aussi, voir Notes sténographiques du 8 mars 2023, p 221 aux lignes 24 à 28 où monsieur Touchette confirme que les dépenses sont attribuables à un protocole ou l’autre selon que la dépense ait été encourue avant le 22 novembre 2011 ou après le 21 novembre 2011. Infra note 97.
+[96] La reprise au paragraphe 26 indique également entre parenthèses les montants non contestés par les appelants.
+[97] La revue des factures aux Onglets 24 à 28 inclusivement du Cahier de documents de l’intimé par monsieur Touchette a été interrompue, puisque l’intimé admet que les factures qui s’y retrouvent sont classées par le témoin monsieur Touchette sous le Protocole 2009 si la date de la facture précède le 22 novembre 2011 et sous le Protocole 2011 si la date de la facture est postérieure au 21 novembre 2011. En particulier, voir les Notes sténographiques du 8 mars 2023, p 221 aux lignes 24 à 28 et p 232 aux lignes 7 et 8.
+[98] Notes sténographiques du 8 mars 2023, p 219 aux lignes 10 à 28; et p 220 aux lignes 1 à 11.
+[99] Ibid, p 221 aux lignes 12 à 23.
+[100] Ibid, p 221 aux lignes 13 à 18.
+[101] Notes sténographiques du 9 mars 2023, de p 59 à la ligne 15 à la p 61 ligne 24. Voir cependant les arguments soulevés à ce sujet lors de l’opposition : Cahier de pièces des appelants (A-1), Onglet 4, p 6.
+[102] Notes sténographiques du 9 mars 2023, p 60 aux lignes 5 à 18.
+[103] Ibid, p 60 aux lignes 19 à 28.
+[104] Page 4 in fine de la lettre conjointe des parties datée du 24 mars 2023 et reprises à la page 5.
+[105] Page 5 de la lettre conjointe des parties datée du 24 mars 2023.
+[106] Notes sténographiques du 9 mars 2023, p 249 aux lignes 25 à 28; et p 250 aux lignes 1 à 8.
+[107] Loi sur la taxe d’accise, LRC 1985, c E-15 [LTA].
+[108] Il ne s’agit pas dans le cas présent d’une demande de remboursement de la TPS, qui est assujettie à des dispositions distinctes aux fins de la LTA, mais à des demandes d’intrants visées aux articles 169 et suivants de la LTA.
+[109] Canada Tax Service, Thomson Reuters Analysis, Thomson Reuters Canada Limited, 2025, 12(1)(x) – Inducement Payments and Reimbursements. Vern Krishna dans son ouvrage Fundamentals of Canadian Income Tax, Volume 1: Personal Tax, 2nd Edition, Thomson Reuters, January 2020 (Chapter 8 Inclusions in Business and Investment Income) adopte la même approche: « For tax purposes, paragraph 12(1)(x) taxes inducement receipts, whether from a governmental or private organization, as income. (note de bas de page omise.) The purpose of the rule is to bring into income all amounts that a taxpayer receives in the course of earning income from a business or property as an inducement to do something or as a refund, reimbursement, contribution, allowance or other assistance in respect of an amount included in, or deducted as, the cost of property or an outlay or expense (note de bas de page omise) ».
+[110] Article 5(3) de la Partie 1 du projet de loi C-69 (Loi portant exécution de certaines dispositions du budget déposé au Parlement le 16 avril 2024). Sanctionnée le 20 juin 2024, Chapitre 17 des lois de 2024 – Loi portant exécution de certaines dispositions du budget déposé au Parlement le 16 avril 2024.
+[111] C-69 Loi portant exécution de certaines dispositions du budget déposé au Parlement le 16 avril 2024, Partie 1 – Modification de la Loi de l’impôt sur le revenu et de textes connexes - article 1(k) - Traitement fiscal des prêts concessionnels considérés comme de l'aide gouvernementale.
+[112] Sous-alinéa 12(1)x)(ii) LIR.
+[113] Sous-alinéa 12(1)x)(iv) LIR. Division 12(1)x)(iv)(B) LIR.
+[114] Selon les circonstances entourant chaque dépense, la situation actuelle implique l’un ou l’autre des sous-alinéas 12(1)x)(v) et (vi) LIR. Cependant, la Cour effectue l’exercice dans l’analyse en considérant chaque dépense comme pouvant être visée au sous-alinéa (vi). En conséquence, le sous-alinéa (v) peut être en fait considéré rencontré car les dépenses ne sont pas incluses dans un solde de dépenses ou autres montants non déduits. Ainsi, seul le sous-alinéa (vi) constitue le test.
+[115] Cahier de documents de l’intimé, Onglet 13 et suivants.
+[116] Alinéa 20(1)hh) LIR.
+[117] Généralement, aux fins comptables, le paiement incitatif peut être comptabilisé de deux façons : un revenu ou une réduction des dépenses comptabilisées. Dans les deux cas, l’effet est ultimement le même : le revenu net est augmenté du montant du paiement incitatif.
+[118] Blais c La Reine, 2010 CCI 195 (procédure informelle) [Blais], Gauthier c La Reine, 2004 CCI 57 (procédure informelle) [Gauthier], Kevin Mann and Barbara Mann c La Reine, 2003 CCI 63 (procédure informelle) [Mann].
+[119] La position de la Division des appels de l’ARC prend exactement la même position sans y ajouter quelque commentaire ou analyse.
+[120] Il n’a pas été invoqué que la conclusion retenue par la vérification que l’inclusion de l’aide gouvernementale dans le calcul du revenu de 9134 conformément au sous-alinéa 12(1)x)(ii) LIR était également envisageable dans un contexte où les dépenses étaient permises.
+[121] Notamment la Section VIII de la Partie IX LTA.
+[122] Wynter c R, 2017 CAF 195 [Wynter].
+[123] Canada c Paletta (Succession), 2022 CAF 86 [Paletta].
+[124] L Venne v The Queen, 1984 CanLII 5717 (FC) [Venne].
+[125] Guindon c Canada, 2015 CSC 41 [Guindon].
+[126] Xia c La Reine, 2019 CCI 30.
+[127] Gray c La Reine, 2016 CCI 54 [Gray]; DeCosta c La Reine, 2005 CCI 545 [DeCosta]; Bhatti c La Reine, 2013 CCI 143; McLeod c La Reine, 2013 CCI 228.
+[128] Cette subjectivité a été notée par le juge Strayer dans l’affaire Venne : « there seems to be a certain element of subjectivity recognized in the case law with respect to assessing the knowledge or gross negligence of a taxpayer with respect to misstatements in his returns […] The taxpayer here is a man with a grade five education, working and paying taxes in a language which is not his first language nor that in which he was educated, a man who is more at ease in a garage than in an office. Not only do these factors militate against a finding that the misstatements in his returns were made knowingly by him, but also his entire course of conduct is not consistent with that of a person who had deliberately set out to conceal large amounts of taxable income. »
+[129] Peck c La Reine, 2018 CCI 52, citant Wynter.
+[130] Ibid. Le ministre peut confirmer cette connaissance subjective en établissant que le contribuable était délibérément ou volontairement aveugle quant à la question de savoir si les déclarations faites dans la déclaration de revenus sont exactes ou non.
+[131] Torres c La Reine, 2013 CCI 380 [Torres].
+[132] Galachiuk c La Reine, 2014 CCI 188 [Galachiuk] et Symonds c Canada, 2011 CCI 274.
+[133] Corporation de l'école polytechnique c Canada, 2004 CAF 127 [École Polytechnique].
+[134] Les Résidences Majeau Inc. c La Reine, 2010 CAF 28 [Résidences Majeau].
+[135] Voir École Polytechnique.
+[136] Ibid.
+[137] Deux exceptions existent à l’erreur de droit. Aux fins des présentes, il importe de référer à l’une d’entre elles seulement (c.-à-d. l’erreur de droit provoquée par une personne en autorité) : l’erreur du contribuable peut-être une erreur de droit provoquée par une personne en autorité lorsqu’il s’agit de la position en droit que le contribuable a considéré la sienne, a consulté une personne en autorité compétente en la matière, a obtenu un avis raisonnable et s’est fondé sur cet avis pour accomplir ses actes. Voir R c Jorgensen, 1995 CanLII 85 (CSC), [1995] 4 RCS 55 et École Polytechnique.
+[138] Résidences Majeau.
+[139] Notes sténographiques du 9 mars 2023, pp 123 et 124 en ce qui concerne les pénalités.
+[140] Ibid, p 60 aux lignes 5 à 18.
+[141] Le principe général de l’implication d’un tiers : Carlson c R, 1997 CarswellNat 2359 (TCC), paras 25 et 33 à 36; Goldhar v The King, 2023 TCC 30; Hansen v The Queen, 2020 TCC 102; Julian v R, 2004 TCC 330; Snowball v R, 1996 CarswellNat 1309; Udell v Minister of National Revenue, 1969 CarswellNat 331; Kornfeld v MNR, [1972] C.T.C. 2556 (TRB); Decore v The Queen, [1974] C.T.C. 791 (FCA); Magliaro v MNR, [1980] CTC 2319 (TRB); Norrad v MNR, [1986] 2 CTC 2184 (TCC); Findlay v R, [2000] 3 CTC 152 (FCA); Gagnon v R, 2005 CarswellNat 1665 (TCC); Murugesu v R, [2013] 3 CTC 2052 (TCC); et Vachon v R, 2013 CarswellNat 5563 (TCC).
+[142] Les montants déclarés par le contribuable au cours des années 1972-75 représentaient annuellement des montants de l’ordre de 9 000 $ à 26 000 $, alors que les revenus non déclarés pour les années 1972-77 étaient estimés par l’intimé à 330 000 $ et de cette somme 283 000 $ furent admis par le contribuable.
+[143] Entre autres, voir paragraphe 34 de la décision.
+[144] DeCosta au para 11 : « Pour établir la distinction entre la faute “ordinaire” ou la négligence et la faute “lourde”, il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l'importance de l'omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l'erreur, ainsi que le niveau d'instruction du contribuable et son intelligence apparente. Il n'existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu'il convient dans le contexte de l'ensemble de la preuve ». Chartrand c La Reine, 2015 CCI 298 au para 22 : « Il n'existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu'il convient dans le contexte de l'ensemble de la preuve : voir DeCosta c La Reine, 2005 CCI 545, au paragraphe 11, Bhatti c La Reine, 2013 CCI 143, au paragraphe 24, et McLeod c La Reine, 2013 CCI 228, au paragraphe 14. Voir également, Venne, De Couto v R, [2013] 5 CTC 2122 (TCC) (voir para 19-20), Bandula v R, [2014] 1 CTC 2001 (TCC) (par 44), Chaloux v R, (2015) [2016] 4 CTC 2001 (TCC), and Liu v R, [2017] 6 CTC 2193 (TCC).

@@ -1,0 +1,207 @@
+---
+title: "Glynn c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27143/index.do"
+last_modified: "2007-03-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 83"
+citation2: ""
+neutral_citation: "2007 CCI 83"
+decision_date: "2007-03-13"
+language: "fr"
+item_id: "27143"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1012
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:52:57.847000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a8c764deb9ecd9713ff103b10bbc416fd5d5960aa50de350c7f7be8aa86df9a9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Glynn c. La Reine
+
+- Citation: 2007 CCI 83
+- Decision date: 2007-03-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1012, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glynn c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-13
+Référence neutre
+2007 CCI 83
+Numéro de dossier
+2006-1748(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1748(IT)I
+ENTRE :
+JANET M. GLYNN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 4 décembre 2006, à St. John's (Terre‑Neuve).
+Devant : L’honorable juge François Angers
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Martin Hickey
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 13e jour de mars 2007.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 11e jour de juin 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI83
+Date : 20070313
+Dossier : 2006-1748(IT)I
+ENTRE :
+JANET M. GLYNN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L’appelante appelle d’un avis de nouvelle cotisation daté du 29 septembre 2005 dans lequel le ministre du Revenu national (le « ministre ») a refusé la déduction d’une perte déductible au titre d’un placement d’entreprise (la « PDTPE ») pour l’année d’imposition 2004 et dans lequel il a également refusé de reporter rétrospectivement sur l’année d’imposition 2003 la fraction inutilisée de la PDTPE.
+[2] L’appelante a déclaré une perte au titre d’un placement d’entreprise (la « PTPE ») totale de 35 864 $ relativement à Thomas Oxford Inc. (la société « TOI »), dont 26 426 $ avaient été déduits pour 2004, ce qui a donné lieu à une PDTPE de 13 213 $ après application du taux d’inclusion de 50 %. L’appelante a demandé qu’un rajustement soit apporté pour son année d’imposition 2003 afin de pouvoir déduire le reste de la PTPE de 35 864, soit 9 438 $, et ainsi obtenir une PDTPE de 4 719 $ après application du taux d’inclusion de 50 %.
+[3] La société TOI a été constituée le 26 septembre 1994. Son nom initial était National Wood Products Inc. (la société « NWP »). La société NWP est devenue la société TOI le 29 avril 1999. La société NWP a été constituée pour la production et la fabrication de portes en bois ainsi que d’autres produits en bois à valeur ajoutée. Pour lancer la société NWP, l’appelante et son époux ont prêté 19 467 $ à la société. Les parties conviennent que les modalités du prêt ne prévoyaient pas de taux de remboursement raisonnable. L’appelante et son époux ont également vendu des marchandises à la société NWP le 26 septembre 1994 pour 66 499 $. Selon le contrat conclu entre la société NWP et l’époux de l’appelante, les marchandises étaient vendues en consignation et l’époux de l’appelante conservait la propriété des marchandises inutilisées. La preuve n’indique pas si toutes les marchandises ont été utilisées par la société NWP. Je tiens à souligner que l’entente de vente en consignation conclue avec la société NWP indique que l’époux de l’appelante est la seule autre partie à l’entente. L’époux a toutefois déclaré dans son témoignage que lui et l’appelante travaillaient en équipe et qu’ils étaient tous les deux propriétaires des marchandises. L’intimée s’est fondée sur ce fait dans sa réponse à l’avis d’appel.
+[4] La société NWP a cessé ses activités de fabrication au cours de l’été 1998 et a vendu les marchandises et les matières premières qu’il lui restait. Le printemps suivant, l’époux de l’appelante a transféré à la société NWP le titre d’une maison qu’il avait hérité de sa mère dans le but d’établir une entreprise de gîte touristique. La société NWP est donc devenue la société TOI le 29 avril 1999 à cette fin.
+[5] La société TOI a fourni un logement locatif de 1999 à 2004 et a déclaré des revenus de location de 2 424 $, de 8 076 $, de 13 505 $, de 12 600 $, de 2 700 $ et de 0 $, respectivement, pour ces années. La société TOI n’a pas déclaré d’autres sources de revenu pour les années visées. Les revenus de location n’ont pas été tirés de l’exploitation d’un gîte touristique par la société TOI, mais de la location de la maison qui avait été acquise. L’entreprise de gîte touristique ne s’est jamais concrétisée en raison d’un changement quant aux responsabilités parentales de l’appelante et de l’époux, et la société TOI a cessé d’être exploitée le 23 novembre 2004, comme le montre un certificat de dissolution du gouvernement de Terre‑Neuve‑et‑Labrador daté du 21 décembre 2004.
+[6] La seule hypothèse de fait figurant dans la réponse à l’avis d’appel de l’intimée qui est niée par l’appelante est celle indiquant que son époux était l’unique actionnaire de la société TOI. L’appelante n’a pas produit de documents relatifs à la société, de registre des procès‑verbaux, de registre des actionnaires ni d’autres documents du genre lors de l’instruction. Un état financier de la société TOI annexé à la déclaration de revenus produite par celle‑ci pour l’année d’imposition 2004 indique que l’époux de l’appelante était titulaire de la totalité des actions de la société TOI. Un avis de changement des administrateurs daté du 12 juin 2003 indique que l’appelante et son époux sont devenus des administrateurs de la société le 31 décembre 2002 et que Annette Glynn a cessé d’être administratrice de la société à cette date.
+[7] L’époux de l’appelante a témoigné que, lors de la constitution de la société NWP, ses deux filles étaient des actionnaires, mais que c’était lui et son épouse qui avaient constitué la société. Lui, son frère et ses deux filles étaient les administrateurs de la société. Son frère a par la suite quitté la société, et l’appelante est devenue une administratrice de la société. L’époux de l’appelante a également admis que les déclarations de revenus de la société TOI pour les années 2003 et 2004 indiquaient qu’il était l’unique actionnaire, mais il a ajouté que la personne qui avait établi la déclaration avait dû supposer qu’il en était ainsi. Il a corroboré la preuve de l’appelante selon laquelle, lors du transfert de la maison, ils avaient l’intention d’établir une entreprise de gîte touristique et non pas une entreprise de location. Les loyers perçus par la société TOI devaient être utilisés pour assurer le service des dettes de la société envers la banque.
+[8] La déclaration annuelle de la société TOI pour l’année 2002 indique que les activités de la société TOI pouvaient essentiellement être assimilées à celles d’une société de portefeuille. Aucune autre déclaration annuelle n’a été produite.
+[9] Voici les dispositions pertinentes de la Loi de l’impôt sur le revenu (la « Loi ») :
+38 Sens de gain en capital imposable et de perte en capital déductible
+Pour l'application de la présente loi :
+a) sous réserve des alinéas a.1) et a.2), le gain en capital imposable d'un contribuable pour une année d'imposition, tiré de la disposition d'un bien, est égal à la moitié du gain en capital qu'il a réalisé pour l'année à la disposition du bien;
+a.1) le gain en capital imposable d'un contribuable pour une année d'imposition, tiré de la disposition d'un bien, est égal au quart du gain en capital qu'il a réalisé pour l'année à la disposition du bien si, selon le cas :
+(i) la disposition consiste à faire don à un donataire reconnu au sens du paragraphe 149.1(1) (à l'exception d'une fondation privée) d'une action, d'une créance ou d'un droit coté à une bourse de valeurs visée par règlement, d'une action du capital‑actions d'une société de placement à capital variable, d'une part d'une fiducie de fonds commun de placement, d'une participation dans une fiducie créée à l'égard du fonds réservé au sens de l'alinéa 138.1(1)a) ou d'une créance visée par règlement,
+(ii) la disposition est réputée par l'article 70 avoir été effectuée et le contribuable est réputé par le paragraphe 118.1(5) avoir fait du bien un don visé au sous‑alinéa (i);
+a.2) le gain en capital imposable d'un contribuable pour une année d'imposition tiré de la disposition d'un bien est égal au quart de son gain en capital pour l'année tiré de la disposition du bien si, selon le cas :
+(i) la disposition consiste à faire don à un donataire reconnu (à l'exception d'une fondation privée) d'un bien visé, en ce qui concerne le contribuable, à l'alinéa 110.1(1)d) ou à la définition de « total des dons de biens écosensibles » au paragraphe 118.1(1),
+(ii) la disposition est réputée aux termes de l'article 70 avoir été effectuée, et le contribuable est réputé aux termes du paragraphe 118.1(5) avoir fait don du bien conformément au sous‑alinéa (i);
+b) la perte en capital déductible d'un contribuable, pour une année d'imposition, résultant de la disposition d'un bien est égale à la moitié de la perte en capital que le contribuable a subie, pour l'année, à la disposition du bien;
+c) la perte déductible au titre d'un placement d'entreprise d'un contribuable, pour une année d'imposition, résultant de la disposition d'un bien est égale à la moitié de la perte au titre d'un placement d'entreprise que ce contribuable a subie, pour l'année, à la disposition du bien.
+39(1) Sens de gain en capital et de perte en capital
+Pour l'application de la présente loi :
+[...]
+c) une perte au titre d'un placement d'entreprise subie par un contribuable, pour une année d'imposition, résultant de la disposition d'un bien quelconque s'entend de l'excédent éventuel de la perte en capital que le contribuable a subie pour l'année résultant d'une disposition, après 1977 :
+(i) soit à laquelle le paragraphe 50(1) s'applique,
+(ii) soit en faveur d'une personne avec laquelle il n'avait aucun lien de dépendance,
+d'un bien qui est :
+(iii) soit une action du capital‑actions d'une société exploitant une petite entreprise,
+(iv) soit une créance du contribuable sur une société privée sous contrôle canadien (sauf une créance, si le contribuable est une société, sur une société avec laquelle il a un lien de dépendance) qui est :
+(A) une société exploitant une petite entreprise,
+(B) un failli, au sens du paragraphe 128(3), qui était une société exploitant une petite entreprise au moment où il est devenu un failli pour la dernière fois,
+(C) une personne morale visée à l'article 6 de la Loi sur les liquidations qui était insolvable, au sens de cette loi, et qui était une société exploitant une petite entreprise au moment où une ordonnance de mise en liquidation a été rendue à son égard aux termes de cette loi,
+sur le total des montants suivants :
+(v) dans le cas d'une action visée au sous‑alinéa (iii), le montant de l'augmentation, après 1977, en vertu de l'application du paragraphe 85(4), du prix de base rajusté, pour le contribuable, de l'action ou de toute action (appelée une « action de rechange » au présent sous‑alinéa) pour laquelle l'action ou une action de rechange a été remplacée ou échangée,
+(vi) dans le cas d'une action visée au sous‑alinéa (iii) et émise avant 1972 ou d'une action (appelée « action de remplacement » au présent sous‑alinéa et au sous‑alinéa (vii)) qui a remplacé cette action ou une action de remplacement ou qui a été échangée contre l'une ou l'autre, l'ensemble des montants dont chacun représente un montant reçu après 1971, mais avant la disposition de l'action ou lors de cette disposition, ou un montant à recevoir au moment de cette disposition, à titre de dividende imposable sur l'action ou sur toute autre action pour laquelle l'action est une action de remplacement, par :
+(A) le contribuable,
+(B) son époux ou conjoint de fait si le contribuable est un particulier,
+(C) une fiducie dont le contribuable ou son époux ou conjoint de fait était bénéficiaire;
+toutefois le présent sous-alinéa ne s'applique pas à une action ou action de remplacement acquise après 1971 auprès d'une personne avec qui le contribuable n'avait aucun lien de dépendance,
+(vii) dans le cas d'une action à laquelle le sous‑alinéa (vi) s'applique et lorsque le contribuable est une fiducie visée à l'alinéa 104(4)a), le total des montants dont chacun est un montant reçu après 1971 ou recevable au moment de la disposition par l'auteur (au sens du paragraphe 108(1)) ou par l'époux ou conjoint de fait de l'auteur à titre de dividende imposable sur l'action ou sur toute autre action à l'égard de laquelle elle est une action de remplacement,
+(viii) le montant calculé à l'égard du contribuable en vertu du paragraphe (9) ou (10), selon le cas.
+50(1) Créances reconnues comme irrécouvrables et actions d'une société en faillite
+Pour l'application de la présente sous‑section, lorsque, selon le cas :
+a) un contribuable établit qu'une créance qui lui est due à la fin d'une année d'imposition (autre qu'une créance qui lui serait due du fait de la disposition d'un bien à usage personnel) s'est révélée être au cours de l'année une créance irrécouvrable;
+b) une action du capital‑actions d'une société (autre qu'une action reçue par un contribuable en contrepartie de la disposition d'un bien à usage personnel) appartient au contribuable à la fin d'une année d'imposition et :
+(i) soit la société est devenue au cours de l'année un failli au sens du paragraphe 128(3),
+(ii) soit elle est une personne morale visée à l'article 6 de la Loi sur les liquidations, insolvable au sens de cette loi et au sujet de laquelle une ordonnance de mise en liquidation en vertu de cette loi a été rendue au cours de l'année,
+(iii) soit les conditions suivantes sont réunies à la fin de l'année :
+(A) la société est insolvable,
+(B) ni la société ni une société qu'elle contrôle n'exploite d'entreprise,
+(C) la juste valeur marchande de l'action est nulle,
+(D) il est raisonnable de s'attendre à ce que la société soit dissoute ou liquidée et ne commence pas à exploiter une entreprise,
+le contribuable est réputé avoir disposé de la créance ou de l'action à la fin de l'année pour un produit nul et l'avoir acquise de nouveau immédiatement après la fin de l'année à un coût nul, à condition qu'il fasse un choix, dans sa déclaration de revenu pour l'année, pour que le présent paragraphe s'applique à la créance ou à l'action.
+125(7) Définitions
+Les définitions qui suivent s'appliquent au présent article.
+« entreprise de placement déterminée » Entreprise, sauf une entreprise exploitée par une caisse de crédit ou une entreprise de location de biens autres que des biens immeubles, dont le but principal est de tirer un revenu de biens, notamment des intérêts, des dividendes, des loyers et des redevances. Toutefois, sauf dans le cas où la société est une société à capital de risque de travailleurs visée par règlement au cours de l'année, l'entreprise exploitée par une société au cours d'une année d'imposition n'est pas une entreprise de placement déterminée si, selon le cas :
+a) la société emploie dans l'entreprise plus de cinq employés à plein temps tout au long de l'année;
+b) une autre société associée à la société lui fournit au cours de l'année, dans le cadre de l'exploitation active d'une entreprise, des services de gestion ou d'administration, des services financiers, des services d'entretien ou d'autres services semblables et il est raisonnable de considérer que la société aurait eu besoin de plus de cinq employés à plein temps si ces services ne lui avaient pas été fournis.
+« entreprise exploitée activement » Toute entreprise exploitée par une société, autre qu'une entreprise de placement déterminée ou une entreprise de prestation de services personnels mais y compris un projet comportant un risque ou une affaire de caractère commercial.
+« société privée sous contrôle canadien » Société privée qui est une société canadienne, à l'exception des sociétés suivantes :
+a) la société contrôlée, directement ou indirectement, de quelque manière que ce soit, par une ou plusieurs personnes non-résidentes, par une ou plusieurs sociétés publiques (sauf une société à capital de risque visée par règlement), par une ou plusieurs sociétés visées à l'alinéa c) ou par une combinaison de ces personnes ou sociétés;
+b) si chaque action du capital‑actions d'une société appartenant à une personne non‑résidente, à une société publique (sauf une société à capital de risque visée par règlement) ou à une société visée à l'alinéa c) appartenait à une personne donnée, la société qui serait contrôlée par cette dernière;
+c) la société dont une catégorie d'actions du capital‑actions est cotée à une bourse de valeurs visée par règlement.
+248(1) Définitions
+Les définitions qui suivent s'appliquent à la présente loi.
+« entreprise exploitée activement » Relativement à toute entreprise exploitée par un contribuable résidant au Canada, toute entreprise exploitée par le contribuable autre qu'une entreprise de placement déterminée ou une entreprise de prestation de services personnels.
+« société exploitant une petite entreprise » Sous réserve du paragraphe 110.6(15), société privée sous contrôle canadien et dont la totalité, ou presque, de la juste valeur marchande des éléments d'actif est attribuable, à un moment donné, à des éléments qui sont :
+a) soit utilisés principalement dans une entreprise que la société ou une société qui lui est liée exploite activement principalement au Canada;
+b) soit constitués d'actions du capital‑actions ou de dettes d'une ou de plusieurs sociétés exploitant une petite entreprise rattachées à la société au moment donné, au sens du paragraphe 186(4) selon l'hypothèse que les sociétés exploitant une petite entreprise sont, à ce moment, des sociétés payantes au sens de ce paragraphe;
+[...]
+[10] Pour qu’un contribuable puisse déduire une PDTPE, la perte doit résulter d’une créance du contribuable sur une société exploitant une petite entreprise ou de la disposition de l’action d’une société qui est une société exploitant une petite entreprise. L’intimée a refusé la déduction dans la présente affaire au motif que la société TOI n’était pas une société exploitant une petite entreprise au sens des paragraphes 125(7) et 248(1) précités.
+[11] Comme il est défini ci‑dessus, une société exploitant une petite entreprise s’entend d’une société privée sous contrôle canadien dont les éléments d’actif sont surtout utilisés dans une entreprise exploitée activement principalement au Canada ou dont les éléments d’actif sont constitués d’actions ou de dettes de sociétés exploitant une petite entreprise rattachées, ou d’une combinaison des deux. Pour déterminer une PTPE, une société qui était une société exploitant une petite entreprise à tout moment dans les 12 mois précédant la disposition des actions ou des dettes, selon le cas, sera considérée comme une société exploitant une petite entreprise.
+[12] Les expressions « entreprise exploitée activement [par une société] » et « entreprise exploitée activement » sont définies ci‑dessus. Les deux définitions excluent les entreprises de placement déterminées. Une entreprise de placement déterminée est définie comme une entreprise dont le but principal est de tirer un revenu de biens, notamment des loyers. Il y a des exceptions en ce qui concerne le nombre minimum d’employés à plein temps, mais elles ne s’appliquent pas en l’espèce.
+[13] L’expression « but principal » n’est pas définie dans la Loi, mais on considère généralement qu’il s’agit de ce que la société fait et de ce qui constitue ses sources de revenu. Dans la décision Gill v. Le ministre du Revenu national, 98 DTC 2048, le juge Brulé a examiné des affaires dans lesquelles l’expression avait été étudiée :
+[27] L'expression « but principal » a été examinée dans l'affaire Mayon Investments Inc. et al. v. M.N.R. [1991] 1 C.T.C. 2245, 91 DTC 364, où le juge Brulé, de la C.C.I., a déclaré à la page 369 que, relativement à la définition de l'expression « entreprise de placement désignée », ce que l'on entend par l'expression « [dont] le but principal est de tirer un revenu de biens » est « [l]orsque la source de revenu, la nature des biens détenus et le but de la corporation consistent à tirer un revenu de biens, tel le revenu en intérêts ».
+[28] Dans l'affaire Ed Sinclair Construction & Supplies Ltd. et al. v. M.N.R., [1992] 1 C.T.C. 2218, 92 DTC 1163, le juge Bowman, de la C.C.I., a examiné le « but principal » dans le contexte d'une « entreprise de placement désignée » relativement à la déduction accordée aux petites entreprises. Le juge a déclaré, à la page 1165, en reprenant un passage de l'affaire Ben Company Limited v. M.N.R., 89 DTC 242, à la page 244 :
+[TRADUCTION]
+En déterminant le « but principal » d'une entreprise exploitée par une corporation, l'objectif déclaré de la personne qui l'exploite n'est pas nécessairement le seul ni même le plus important critère. Sont d'importance cruciale ce que la corporation fait effectivement et ce qui constitue ses sources de revenu.
+[29] L'expression « but principal » a également été analysée dans la doctrine. Dans un article cité de David Phillip Jones, dans Reflections on Integration: The Modified Small Business Deduction, Nonqualifying Businesses, Specified Investment Income, Corporate Partnership, and Personal Service Corporations (1982) 30 Can. Tax J. 1, à la page 5, l'auteur commente l'objet de la modification de la notion de « revenu de placement désigné ». À la page 5 de son article, M. Jones écrit :
+[TRADUCTION]
+Dans une série d'affaires, cependant, les tribunaux ont effectivement éliminé l'idée d'une entreprise non exploitée activement et statué que presque toutes les entreprises constituaient des entreprises exploitées activement. La modification relative au « revenu de placement désigné » visait par conséquent à ce que le revenu tiré de l'entreprise de location de biens ne constitue généralement pas un revenu tiré d'une entreprise exploitée activement, mais plutôt un revenu de placement, ce qui se trouvait dans les faits à infirmer la jurisprudence sur ce point.
+[14] Au paragraphe 14 du bulletin d’interprétation IT‑73R6 daté du 25 mars 2002, on fait valoir que, pour chaque année, il faut déterminer le but principal de chaque entreprise exploitée par une société après avoir considéré et analysé tous les faits relatifs à l'entreprise. Aux fins de la détermination, il faut notamment tenir compte des critères suivants : le but pour lequel l'entreprise a été lancée initialement, l'historique et l'évolution de l’entreprise, y compris les changements apportés à son mode de fonctionnement et à sa raison d'être, et la manière dont elle est gérée.
+[15] La société TOI était une entreprise exploitée activement au sens de la Loi jusqu’au moment où elle a cessé d’être exploitée en 1999. Un an plus tard, la société avait l’intention d’ouvrir une entreprise de gîte touristique, mais le projet ne s’est jamais concrétisé. Les activités exercées par la société après 1999 étaient complètement différentes de celles qu’elle avait exercées avant ou de celles qu’elle avait l’intention d’exercer. Pour les cinq années qui ont suivi, la raison d’être de la société, de même que sa seule source de revenu, était l’exploitation d’une entreprise de location. Tels étaient les buts et la seule source de revenu de la société TOI. À mon avis, la société TOI était une « entreprise de placement déterminée ». Par conséquent, elle n’était pas une société exploitant une petite entreprise au sens de la Loi.
+[16] Les appels sont donc rejetés.
+Signé à Ottawa, Canada, ce 13e jour de mars 2007.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 11e jour de juin 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2007CCI83
+NO DU DOSSIER : 2006-1748(IT)I
+INTITULÉ : Janet M. Glynn c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : St. John's (Terre‑Neuve)
+DATE DE L’AUDIENCE : Le 4 décembre 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 13 mars 2007
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Martin Hickey
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

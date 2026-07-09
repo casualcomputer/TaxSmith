@@ -1,0 +1,188 @@
+Title: C C Gold Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/317253/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-155-317253-c-c-gold-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-07-30
+
+# C C Gold Inc. v. The Queen
+
+- Citation: 2018 TCC 155
+- Decision date: 2018-07-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4967, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+C C Gold Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-07-30
+Neutral citation
+2018 TCC 155
+File numbers
+2015-1665(GST)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Notes
+A correction was made on September 10, 2018.
+Decision Content
+Docket: 2015-1665(GST)G
+BETWEEN:
+C C GOLD INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on February 26, 2018 at Toronto, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Counsel for the Appellant:
+Charles Haworth
+Counsel for the Respondent:
+Annie Paré
+ORDER
+The Respondent’s motion for an order compelling the Appellant to re-attend at discovery examination to answer the twenty-five “disputed questions” identified in the notice of motion is granted.
+The Appellant is ordered to re-attend discovery examination, at its own complete expense including as to venue rental and court reporter attendance fees, to orally answer through the Appellant’s nominee and not Appellant’s counsel each of the identified disputed questions other than the two identified in the attached reasons for order as having already been answered; and also to orally answer through the Appellant’s nominee and not Appellant’s counsel any follow-up questions arising from the answers to any of the disputed questions; and also to answer through the Appellant’s nominee and not Appellant’s counsel any follow-up questions relating to answers provided in writing by Appellant’s counsel subsequent to such answers having been refused or taken under advisement or with undertaking given to answer at the prior discovery examination themselves.
+Costs of this motion, fixed at $2,750, are to be to be paid by the Appellant to the Respondent by Friday, September 14, 2018, failing which Respondent’s counsel may move for dismissal of this appeal.
+Signed at Summerville Centre, Nova Scotia, this 30th day of July 2018.
+“B. Russell”
+Russell J.
+Citation: 2018TCC155
+Date: 20180827
+Docket: 2015-1665(GST)G
+BETWEEN:
+C C GOLD INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+These Amended Reasons for Order, issued in substitution for the Reasons for Order signed July 30, 2018, entail several non-substantive alterations in diction, demarcated by bold font.
+Russell J.
+Introduction:
+[1] The Respondent has moved for an Order that the Appellant’s discovery examination nominee re-attend oral examinations for discovery at the Appellant’s expense and answer the questions set out in an appendix to the Notice of Motion (the Disputed Questions) and as well any proper follow-up questions arising from the answers and comments Appellant’s counsel has provided subsequent to the examinations for discovery held March 23, 2017 and April 21, 2017; and in the alternative or failing compliance of such an Order, an Order dismissing the appeal; and costs of this motion, clarified at the hearing as being costs sought by the Respondent to be paid by Appellant’s counsel Mr. J. Radnoff personally.
+Background:
+[2] The appeal in this matter concerns denial of input tax credits (ITCs) per Part IX of the Excise Tax Act (Canada) (Act). The fact situation as pleaded by the Appellant is that the Appellant was in the business of purchasing gold jewellery and selling same to gold refiners. The Appellant alleges it was denied ITCs in respect of Harmonized Sales Tax (HST) it had paid in purchasing the jewellery, netted against HST it collected and remitted in selling the jewellery. The Respondent pleads that the Appellant did not trade in scrap gold and pure gold for profit, thus conducted no commercial activity and therefore was not entitled to ITCs; and puts the Appellant to the strict proof of its claim.
+[3] The Respondent has put the twenty-five Disputed Questions before the Court, on the basis that the Appellant through counsel, without valid reason, had not answered them, each being a valid discovery examination question. The Respondent divided these questions into nine categories in oral submissions at the hearing. I will follow that division in these Reasons.
+The Disputed Questions:
+Category 1 - questions 856, 317, 779, 795, 896, 923, 940:
+[4] The Respondent submits these seven questions relate to obtaining information from the Appellant pertaining to individual(s) who may have knowledge of the subject transactions or occurrences. In this regard Tax Court of Canada Rules (General Procedure), section 95 (the Rules, Rule 95, etc.) provides as follows:
+Scope of Examination
+95 (1) A person examined for discovery shall answer, to the best of that person’s knowledge, information and belief, any proper question relevant to any matter in issue in the proceeding or to any matter made discoverable by subsection (3) and no question may be objected to on the ground that
+(a) the information sought is evidence or hearsay,
+(b) the question constitutes cross-examination, unless the question is directed solely to the credibility of the witness, or
+(c) the question constitutes cross-examination on the affidavit of documents of the party being examined.
+(2) Prior to the examination for discovery, the person to be examined shall make all reasonable inquiries regarding the matters in issue from all of the party’s officers, servants, agents and employees, past or present, either within or outside Canada and, if necessary, the person being examined for discovery may be required to become better informed and for that purpose the examination may be adjourned.
+(3) [Repealed, SOR/2014-26, s. 10]
+(4) A party may on an examination for discovery obtain disclosure of the names and addresses of persons who might reasonably be expected to have knowledge of transactions or occurrences in issue in the proceeding, unless the Court orders otherwise.
+[5] This fundamental Rule concerning discovery examinations provides that each person examined must answer to best of their knowledge, information and belief; and each such person prior to discovery must make all reasonable enquiries to be informed as to the matters at issue; and a party may at discovery obtain names and addresses of persons who might reasonably have knowledge of the transactions or occurrences in issue unless the Court orders otherwise.
+[6] Turning now to the seven individual questions of this category:
+[7] Q 856: Undertaking given by Appellant’s counsel at discovery (Mr. J. Radnoff) to provide Rick Tino’s contact information, phone number and address. The Appellant’s deponent or nominee, Tomaso Carnovale (TC), testified at Q 855 that he did not have an address for Mr. Tino but could get his phone number. The answers to this undertaking given to date are, as Respondent’s counsel summarized - (1) Trying to obtain, (2) Phone number provided on October 30, 2017 and (3) Client does not have his address.
+[8] At the hearing Respondent’s counsel submitted that discovery testimony made clear that Mr. Tino is an individual who may have knowledge of the herein transactions or occurrences. And, it should be easy for the Appellant’s nominee to use Mr. Tino’s phone number to obtain his address. Rule 95(4) entitles a party to obtain names and addresses of individuals who may have knowledge of transactions of occurrences pleaded. Appellant’s counsel submitted his client does not have the address and that should be the end of it.
+[9] I have no hesitation in ordering that this question be answered by the Appellant’s nominee. Appellant’s counsel gave an undertaking that the address would be provided. Rule 95(2) expressly obliges parties’ discovery nominees to inform themselves in preparation for discovery. Both of these factors impose an obligation to make all reasonable enquiries to answer a basic question such as this which, yet further, relates to matters specifically spoken to in Rule 95(2).
+[10] The Appellant’s basis for not answering this undertaking is utterly without foundation. All reasonable efforts to obtain the address would have to have been made in good faith on behalf of the Appellant before there could be any basis for saying the question cannot be answered or that the undertaking to answer cannot be satisfied.
+[11] Q 317: Requested undertaking to produce the current address and contact information for TC’s father, Nicola Carnovale. The answers given to date by the Appellant are - (1) Refused on basis not a relevant witness - he does not have knowledge; (2) 98 Poetry Drive, Maple, Ontario. At the hearing Respondent’s counsel submitted that information as to a telephone number is generally understood as being contact information. She also stated that this gentleman’s residence was used as the location for the supposed business of the Appellant run by his son, TC. Also the house apparently had within it a safe in which the gold bars said to be involved in this matter were kept. That made his contact information relevant, as a person perhaps having knowledge of the subject events. Appellant counsel’s response was that providing the address was sufficient and they did not have to provide any other information even though the question was to produce the current address and contact information - two separate items.
+[12] Again I have no hesitation in ordering that the Appellant provide also the telephone number for TC’s father. The address by itself is insufficient to have fully answered the discovery examination question. Of course the Appellant’s discovery examination nominee, TC, being the son, would know or could relatively easily obtain his father’s phone number. The Appellant’s position in refusing this relevant information, concerning a person who reasonably may be expected to have relevant knowledge, is baseless.
+[13] Q 779: Requested undertaking to provide the full name and last contact information for Mike Mazomenos (spelling not confirmed at the discovery examination). The answer given to date by the Appellant is refusal to answer on the basis of relevance, as Appellant’s counsel says the gentleman is now deceased. The Respondent submits that “last contact information” would be his last address and last telephone number, and that the Respondent is entitled to confirm whether the person, said to have assisted TC in this matter, ever existed. The Appellant submits that subsequently in the discovery examination it was stated that this gentleman had not had a cell phone and TC stated at Q786 that the gentleman “lived on Ossington. I can get it [i.e., the address] for you.” I understand the Ossington reference to be in relation to a Toronto street of that name or the neighbourhood within which that street is located. But that is not an address. And, the discovery question as to phone number was not limited to seeking a cell phone number.
+[14] Thus I order that the Appellant fully answer this question too, by making all reasonable efforts to obtain the late gentleman’s last actual address as TC said he could obtain, and as well his last actual phone number - land line if not cell phone. Again I must say that I find entirely unpersuasive the Appellant’s proffered reasons for refusing to fully answer this question.
+[15] Q795: Requested undertaking to find out and advise to whom the invoices were given at Guardian International? The answer given was that the request would be taken under advisement. Respondent’s counsel advises that Appellant’s counsel subsequently advised that the Appellant’s nominee could not remember to whom at Guardian the invoices were provided. At the hearing Appellant’s counsel maintained that position.
+[16] Yet again I find the Appellant’s refusal to be entirely without merit. If the nominee does not remember he in any event is under a duty to enquire, to make himself knowledgeable as to the answer. And the question anyway is not does the nominee remember. The nominee is merely the designated mouthpiece for the corporate Appellant at the discovery examination. Others connected with the Appellant including the nominee, TC, may know, or certainly could come to know the answer to this question, through making reasonable or best efforts enquiries. I certainly will order that the Appellant answer this discovery question.
+[17] Q 896: Requested undertaking to find out from Depot Canada or 999 who did the assays and who prepared the assay reports [in reference to the documents at pages 456, 458, 460, 466, 471, 473, 481, 484 and 511 of Exhibit R-2 - assay reports]. The request was refused, and answers said by Respondent’s counsel that Appellant’s counsel has given to date are - (1) Ask yourself; and (2) Don’t know. At the hearing Respondent’s counsel submitted that the Appellant should provide this information as it was the Appellant who had the ten assay reports it provided to Canada Revenue Agency (CRA) at an earlier stage of this dispute. The Appellant maintained this is third party information and the Respondent should seek to obtain this information itself.
+[18] And again I completely disagree with Appellant’s counsel. It is the Appellant that purportedly has the relationship with the originators of the assay reports that the Appellant itself produced at an earlier CRA stage of this dispute. So, the Appellant presumptively has ownership, possession or control of originals or copies thereof. Certainly this is a proper question and the Appellant is ordered to substantively and fully answer this question, as it should have done many months ago.
+[19] Q 923: In reference to the Exhibits R-A, R-B, R-C, R-D, R-E, R-F, from whom did TC obtain the cheques? At discovery counsel for Appellant refused a response on the basis the cheques had not been included in the Respondent’s list of documents and had just been introduced shortly earlier in the discovery examination itself. The Appellant’s answer given to date is solely, “Errol”. At the hearing the Respondent submitted that these cheques fell within the documentation requested in the Notice to Attend that had been served upon the Appellant prior to the discovery examination. Apparently the Respondent had not included these in its production list on the basis of litigation privilege which it waived upon producing them at the discovery examination after the Appellant had failed to produce them notwithstanding the Notice to Attend.
+[20] What should have happened here is that the Appellant’s nominee either proceeded to answer at the discovery examination or if the nominee needed time to consider, that the matter have been taken under advisement, or an undertaken have been given. In any event a partial answer has now been given - “Errol”. So the matter reduces to giving a complete version of this obviously incomplete answer - i.e., with the Appellant making reasonable enquiries as to, if it does not already know, Errol’s full name and his contact particulars, being a person who would reasonably be expected to have relevant knowledge. As to the Appellant basing refusal on documents not having been on the Respondent’s list, in my view that is a red herring, particularly if the disclosure lists herein filed and served were, as is most commonly the case, partial disclosure lists per Rule 81.
+[21] If in some way a subsequent disclosure of documents by one party causes the other party to revise its response to a discovery question then so be it. But answers normally cannot be withheld on the basis that the asking party may or does have further documentation relevant to the particular question. In any event, here the mystery documentation was produced, albeit only at the discovery examination. The Respondent is entitled to full answer to the question, as certainly the Appellant has had full opportunity to consider the produced documents (cancelled cheques) of which TC, the Appellant’s nominee, would have had knowledge. The Appellant will be ordered to substantively and fully answer this question as well as, like all the other Disputed Questions that the Appellant is directed to answer, any proper follow up questions.
+[22] Q 940: In reference to the Exhibits R-A, R-B, R-C, R-D, R-E, R-F, from whom did TC receive these cheques? At discovery counsel for the Appellant refused a response for the same reason as above. The answer given to date is solely, “Errol”. To this same incomplete and incomprehensible response as immediately above, I reiterate the response given immediately above.
+Category 2 - questions 470 x 3:
+[23] There are three consecutive discovery questions each identified by the court reporter as number 470. They are identified herein as Q 470(a), Q 470(b) and Q 470(c). They are said by the Respondent to each relate to documents pertaining to the whereabouts and ability of Appellant’s deponent TC to enter into any of these transactions.
+[24] Q 470(a): To undertake to provide TC’s school’s official calendar for 2010/11 and 2011/12. Answers to date of Appellant - (1) Refused on basis of relevance; (2) Will make best efforts to provide.
+[25] My response is that the promised best efforts should be promptly expended and fully accounted to the Respondent if unsuccessful.
+[26] Q 470(b): To undertake to provide TC’s official class schedule for 2010/11 and 2011/12. Answers to date - (1) Refused on basis he had already answered questions regarding that (mostly not recalling); (2) Cannot obtain.
+[27] Same answer as immediately above.
+[28] Q 470(c): To undertake to produce TC’s official record of attendance at work for 2010/11 and 2011/12. Answers to date - Relevance and Cannot obtain.
+[29] Same response as immediately above. There is no question that these three questions are relevant, given the Appellant’s assertion that TC actually was engaged in a business, thus reasonably giving rise to questions as to where did he find the time to conduct this business, given his full time employment as a secondary school phys ed instructor. The questions should be answered and in the absence of full answers, a full accounting should be provided to Respondent’s counsel by Appellant’s counsel of all reasonable steps unsuccessfully taken to procure the sought answers. In this way the Appellant is obliged to be transparent as to asserting it has done all it reasonably can to obtain answers. The response simply of “Cannot obtain” is entirely untenable.
+Category 3 - questions 26, 281:
+[30] Q 26: To advise if the Appellant has any other documents with respect to the operations of the alleged business, such as lease agreements, phone bills, applications, correspondence, emails, permits, licenses, referred to in the Notice to Attend. The answer at discovery was that this would be taken under advisement, and to date there has been provision of some phone bills, see Q 281 immediately below.
+[31] This question is clearly proper, for the purpose of confirming the pleaded allegation that the Appellant did run a business. Argument otherwise regarding this question was particularly focused on the question immediately following.
+[32] Q 281: To provide TC’s cell phone records for 2011 and 2012. The answers given to date are (1) At discovery, refused as to relevance; (2)The Appellant to obtain (September 11, 2017); (3) Attached to answers provided on November 30, 2017; (4) Certain alleged phone bills or portions thereof provided attached to correspondence of January 11, 2018.
+[33] The Respondent at hearing represented that at the discovery examination TC had clarified that his dealings on behalf of the Appellant with Mr. Collia “involved telephone communications during the day, during the evening and on weekends”. And, certain phone bills, for February, March, May, June, July, August and September 2012 all were missing from what had been produced. Further, what had been produced had not been properly redacted - that is with supposedly irrelevant numbers blackened out. Instead, fully blank pages had been produced, to the extent apparently, as I understand it, that it could not even be confirmed from examination that they were any part of phone bills. The Appellant defended this as proper production.
+[34] I find wholly for the Respondent on this question. The Appellant will be ordered to produce all phone bills within the requested period, and to redact therefrom only actual phone numbers that Appellant’s counsel, being reminded he is an officer of this Court, knows with certainty have nothing to do, directly or indirectly, with the Appellant. All phone calls shown on the bills as between TC and Mr. Collia, and all others also relating directly or indirectly to the Appellant’s alleged business, are not to be redacted.
+Category 4 - questions 965, 966, 967:
+[35] Q 965: Where was this cheque deposited? The answer given for the Appellant is: Need Exhibit M before can answer. Exhibit M was provided to Appellant’s counsel on April 21, 2017 and February 8, 2018. Respondent’s counsel advises that a subsequent answer from Appellant’s counsel, referring to the same bank account as that the cheque was drawn on, was provided.
+[36] The Respondent submits that the Appellant’s response is obviously wrong because the response is the same bank account as the cheque was drawn upon - not the account that it was deposited to, which is the question. The Appellant says now that the question is not relevant. The Respondent notes that the cheque was made to TC a week before the first of two properties was transferred into his name on December 14, 2011. This latter fact is enough to make the question sufficiently relevant (relevance as discovery examination stage having a low bar) that the question is to be answered, and of course answered accurately not inaccurately as apparently has been the case with the Appellant citing the same account the cheque was drawn upon as being the account in which it was deposited. The Appellant is ordered to answer this question without further ado.
+[37] Q 966: Undertaking requested to provide the financial institution and the bank account number where this was deposited. The undertaking request was refused as Appellant’s counsel had just received Exhibit M. The answer subsequently given was “TD Bank on Brender”. The Respondent states that the answer is incomplete as the bank account number has not been provided. I find this question should be answered for the same reasons as the immediately preceding question.
+[38] Q 967: Undertaking requested to provide the bank statements where this cheque was deposited. Same answers given to date as for Q 966. I find also that this question should be answered for the same reasons as the immediately preceding question.
+Category 5 - questions 972, 975, 976, 981, 982, 983:
+[39] Q 972: To confirm that TC also purchased a property (clarified in the transcript as being located at 187 Johnston Avenue, Toronto) in 2011 for the amount of $806,000. An answer was refused. The Respondent states the Appellant has advised that TC did not purchase that property. The Respondent submits that this is untrue.
+[40] I find that this question is relevant as to the source of funds for the substantial deposit and so should be answered.
+[41] If the truthful and complete answer indeed is that TC did not purchase that property then that is the answer to the question as put. Follow-up questions by the Respondent will be permitted.
+[42] Q 975: Undertaking requested to provide the closing documents with respect to the acquisition of that property. Refused.
+[43] For the same reason as for the immediately preceding question this question is relevant and I order that the Appellant answer it on a best efforts basis (which is as all questions should be answered). If the requested documents or copies of same are within the possession, ownership or control of the Appellant they should be produced, period.
+[44] Q 976: Undertaking requested to provide the mortgage documents including the application for a mortgage and the mortgage agreement with respect to the mortgaging of 187 Johnston Avenue. Refused, asserting not relevant.
+[45] Again for the same reason as to the two immediately preceding questions, this question is relevant. There is no denying here by the Appellant that there was a mortgage application and mortgage agreement for the said property. I order that that the question be answered, fully.
+[46] Q 981: To advise how TC paid for that property [purchased a property for $457,000 in July 2012 located at 88 Park Lawn Road]. Answer refused.
+[47] I order that this question be answered, for the same reasons as for the immediately preceding questions in this category.
+[48] Q 982: Undertaking requested to provide the closing documents with respect to the purchase of that property. Refused.
+[49] I order that this question be answered, for the same reasons as for the immediately preceding questions in this category.
+[50] Q 983: Undertaking requested to provide the mortgage documents including the application and the mortgage agreement with respect to that property. Refused, asserting not relevant.
+[51] I order that this question be answered, for the same reasons including as to relevance as for the preceding questions in this category.
+Category 6 - question 985:
+[52] Q 985: Undertaking requested for Appellant’s nominee TC to provide his personal bank records for 2011 and 2012. Refused. Appellant counsel’s request for basis of the refusal was, “You understood the basis.”
+[53] Respondent’s counsel submits the relevance of this request is that it can help show whether funds transferred from the Appellant’s account to TC’s account were actually used for purchasing gold as opposed to, for example, the purchase of the two above referenced properties. One property was purchased December 14, 2011 and a cheque from the Appellant to TC was dated December 2, 2011. The other property was purchased in 2012. The Appellant submitted at the hearing re this point that, “the Respondent is hoping to find something. It’s beyond the scope of what’s in issue.”
+[54] Relevance at the stage of discovery examination has a low threshold. I order that the Appellant answer Q 985.
+Category 7 - question 759:
+[55] Q 759: Undertaking requested to advise whether the invoices [at Tab 5 of Exhibit R-2 from CC Gold] were issued before, at the same time or after the invoices from Guardian. Refused initially, on basis “backup is behind and you can see the date.” Respondent’s counsel advises that subsequent response from Appellant is that the invoices were issued after the parties agreed to the price. The Respondent submits that that response is non-responsive to the question, and that the question would have been asked for each of the 56 or 57 invoices of the Appellant. The Appellant refers to its actual answers of January 5, 2018 and February 15, 2018 - that, “Invoices were issued after the parties agreed to the price, after the invoices from Guardian were issued.”
+[56] The Appellant states that the Respondent did not take note of the latter phrase in that response, which did appear by itself on the following page of the Appellant’s said 2018 responses.
+[57] In my view in light of the Appellant’s submission, it appears the Appellant has, albeit belatedly, answered the question - the answer being that the invoices of the Appellant were issued after issuance of the applicable Guardian invoices.
+Category 8 - question 1171:
+[58] Q 1171: Undertaking requested to advise of any facts, information or documents the Appellant through its nominee TC may be aware of with respect to TC’s competencies in respect of gold and other precious metals.
+[59] Refused on the asserted basis that the Appellant is not obliged to provide such documentation. The answer subsequently became that the Appellant did not understand the question. The question was restated February 22, 2018 as - Did Mr. Carnovale possess any skills to deal with gold and precious metal? If yes, to advise of any fact, information or documents relating to his skills.
+[60] It appears from the transcript that subsequently TC did answer as to any skills he had to “value” gold and any other precious metal. His answer was that he had no such skills. But Q 1171 is worded more broadly, asking as to any “competencies in respect of gold and other precious metals”. The Appellant takes the position that this is the same question as the subsequent question re any skills to “value” gold or other precious metals. I order that the Appellant specifically answer the broader question, being Q 1171, regarding any competencies in respect of gold or other precious metals.
+Category 9 - question 1333:
+[61] Q 1333: To advise how each of the 57 invoices (Tab 4 part 2) for gold jewellery purchased from FB Steel was paid for by CC Gold (gold, cheque) and what was used to pay for them (i.e., which gold bars purchased from 999 Gold and Guardian). The Appellant’s response was that the question would be taken under advisement. A subsequent answer from the Appellant apparently was that gold bars were used, except for a cheque at the end of the relationship. The Respondent submits that the question seeks a specific response with respect to each of the 57 invoices. Q 1333 reads - “Ms. Paré: I need to understand how each invoice was actually paid for. Mr. Radnoff: I will take that under advisement.” Q1331 & Q1332 read - “Mr. Radnoff: It [one of the invoices] was obviously purchased as gold bars. Is your question, which gold bars were used to pay for a specific invoice or whether it was a cheque or not? Ms. Paré: Yes.”
+[62] On the basis of the foregoing exchanges I order that the Appellant respond to this question by identifying for each invoice which gold bar or bars; and or cheque was used to satisfy that invoice.
+[63] At the conclusion of the hearing the Respondent moved for costs to be paid by Appellant’s counsel (Mr. Radnoff) personally. This was because of his tendency to and insistence upon answering for and instead of TC, being the nominee for counsel’s client the Appellant, many of the discovery questions asked by Respondent’s counsel, over her objections. As well, Appellant’s counsel adopted the procedure of refusing and instructing his client’s nominee to refuse to answer certain discovery questions which subsequently have been answered in writing sent by Appellant’s counsel, again avoiding having the answers given directly by the Appellant’s nominee.
+[64] As the Respondent gave no notice in advance of the hearing of intent to seek costs personally against Mr. Radnoff, I will decline to so order here. However, having read numerous passages of the discovery examination transcripts, I must remind and caution counsel that a discovery examination in respect of an appeal to this Court is a process of this Court. As such it is not to be abused - and most certainly not by counsel, being officers of this Court. As such, they are particularly expected to accord respect to the Court’s processes and proceedings. Doing so in no way impinges upon counsel still being able to diligently and fearlessly - and professionally - advocate in favour of their clients.
+[65] The Respondent’s motion as reflected in its notice of motion will be granted in full, with an Order to be issued accordingly, including for costs of this motion to the Respondent, which I fix at $2,750, to be paid by the Appellant by Friday September 14, 2018, failing which Respondent’s counsel may move for dismissal of this appeal.
+[66] Therefore the parties will return to oral discovery examinations to address these remaining questions as well as for follow-up questions in respect thereof and also in respect of answers that have been provided in writing by Appellant’s counsel only after conclusion of the oral discovery examinations. Certainly a motion for costs to be personally paid by counsel can be brought with appropriate notice as one form of relief should these further oral discovery examinations fail to proceed appropriately.
+Signed at Halifax, Nova Scotia, this 27th day of August 2018.
+“B. Russell”
+Russell J.
+CITATION:
+2018TCC155
+COURT FILE NO.:
+2015-1665(GST)G
+STYLE OF CAUSE:
+C C GOLD INC. AND THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 26, 2018
+REASONS FOR ORDER BY:
+The Honourable Justice B. Russell
+DATE OF ORDER:
+July 30, 2018
+DATE OF AMENDED REASONS
+FOR ORDER
+August 27, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Charles Harworth
+Counsel for the Respondent:
+Annie Paré
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Charles Harworth
+Firm:
+DioGuardi Tax Law
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

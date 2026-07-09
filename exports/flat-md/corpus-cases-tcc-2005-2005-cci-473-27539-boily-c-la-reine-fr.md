@@ -1,0 +1,156 @@
+---
+title: "Boily c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27539/index.do"
+last_modified: "2005-08-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 473"
+citation2: ""
+neutral_citation: "2005 CCI 473"
+decision_date: "2005-08-12"
+language: "fr"
+item_id: "27539"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 101
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:39:38.330000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2d77e78ac85709000367df11c025b9da9300b27ed28293a84a0079eabdad374d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boily c. La Reine
+
+- Citation: 2005 CCI 473
+- Decision date: 2005-08-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 101, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boily c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-12
+Référence neutre
+2005 CCI 473
+Numéro de dossier
+2004-4653(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4653(IT)I
+ENTRE :
+MARIO BOILY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 22 juin 2005, à Nicolet (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Nancy Dagenais
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est rejeté, sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 12e jour d'août 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI473
+Date : 20050812
+Dossier : 2004-4653(IT)I
+ENTRE :
+MARIO BOILY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] L'appelant a déposé un avis d'appel à la suite d'un avis de cotisation établi le 14 avril 2004 et ratifié le 7 septembre 2004 à la suite d'un avis d'opposition.
+[2] Le ministre du Revenu national (le « ministre » ) a ajouté au revenu imposable de l'appelant pour l'année d'imposition la somme de 2 000 $, étant donné que celui-ci n'avait pas remboursé cette somme dans le cadre du régime d'éducation permanente (REP).
+[3] Les faits énoncés dans la Réponse à l'avis d'appel et corrigés à l'audience à la demande de l'intimée résument assez bien le pourquoi de la cotisation. Ces faits sont les suivants :
+a) En juin 2000, l'appelant a retiré la somme de 10 000 $ de son régime enregistré d'épargne-retraite (REER) dans le cadre du programme de REP;
+b) En janvier 2001, l'appelant a retiré la somme de 10 000 $ de son REER dans le cadre du programme de REP;
+c) Au cours de l'année d'imposition 2003, ni l'appelant, ni sa conjointe n'étaient inscrits aux études à plein temps dans un établissement d'enseignement agréé;
+d) L'appelant n'a pas désigné de somme, selon la manière prescrite, à titre de remboursement de contribution dans un REER au cours de l'année d'imposition 2003 ni dans les 60 premiers jours de l'année 2004.
+[4] L'appelant a admis tous les faits. Il a essentiellement fait valoir qu'il avait toujours été préoccupé par l'obligation de procéder au remboursement requis selon les dispositions de la Loi de l'impôt sur le revenu (la « Loi » ).
+[5] Étant donné qu'il semble y avoir eu une certaine équivoque ou une confusion quant à l'année où il devait commencer à rembourser, et ce, bien que l'article 146.02 de la Loi prévoie très clairement que le remboursement doit débuter la quatrième année de la période de participation, il y a lieu de reproduire le texte de l'article 146.02 de la Loi et du paragraphe 118.6(2)
+Régime d'éducation permanente
+ARTICLE 146.02 : Définitions :
+[...]
+« période de participation » - Quant à un particulier, chaque période qui commence au début d'une année civile au cours de laquelle il reçoit un montant admissible [...]
+[...]
+« période de remboursement » Quant à un particulier pour sa période de participation relativement à une personne désignée en vertu de l'alinéa b) de la définition de « montant admissible » , la période suivante qui fait partie de la période de participation et qui :
+a) commence :
+[...]
+(ii) au début de la quatrième année civile de la période de participation, dans le cas où la personne n'aurait pas le droit de déduire un montant en application du paragraphe 118.6(2) pour au moins trois mois de chacune des troisième et quatrième années civiles de cette période en l'absence de l'alinéa b) de l'élément B de la formule figurant à ce paragraphe.
+[...]
+118.6(2)
+(2) Crédit d'impôt pour études. [...]
+a) 400 $ multipliés par le nombre de mois de l'année pendant lesquels le particulier est inscrit à un programme de formation admissible comme étudiant à temps plein d'un établissement d'enseignement agréé,
+[...]
+[6] La confusion ou l'équivoque est résultée de l'avis de cotisation en date du 24 mars 2003 pour l'année d'imposition 2002, où on peut lire ce qui suit :
+État de compte 2003
+à l'égard du Régime d'encouragement à l'éducation permanente (REEP)
+Total des retraits
+Moins : Total des remboursements, annulations et montants inclus au revenu
+Solde à rembourser
+Votre remboursement requis pour 2003 :
+Le montant (B) divisé par 10 (le nombre d'années à rembourser)
+20 000 $
+0 $
+20 000 $ (B)
+0 $
+[7] L'appelant a alors communiqué avec deux personnes différentes à l'Agence des douanes et du revenu du Canada ( « ADRC » ), lesquelles lui auraient confirmé de manière non équivoque qu'il n'avait rien à rembourser pour l'année d'imposition 2003. Il a même demandé le nom de ces deux personnes, soit une dame nommée Lorraine Houle Mallet et monsieur Aurélien Turcotte.
+[8] Étant donné la clarté du texte des dispositions applicables de la Loi, il est difficile de comprendre comment les représentants de l'ADRC auraient pu induire l'appelant en erreur.
+[9] Bien plus, l'appelant affirme qu'après vérification dans un guide sur le Régime d'encouragement à l'éducation permanente, il était lui-même arrivé à la conclusion qu'un premier versement devait être fait en 2003. Il a indiqué être devenu ainsi hésitant en constatant le chiffre 0 dans la case portant la mention « Votre remboursement requis pour 2003 : le montant (B) divisé par 10 (le nombre d'années à rembourser) 0 $ » .
+[10] C'est alors qu'il a entrepris les démarches auprès des autorités pour faire clarifier la situation. Selon sa version, les personnes consultées lui ont confirmé qu'il n'avait aucun remboursement à faire pour 2003.
+[11] Ces personnes, employées de l'ADRC, l'auraient-elles induit en erreur? Il n'est malheureusement pas possible de répondre à cette question puisque la preuve n'a pas permis de savoir très exactement ce que l'appelant avait fourni comme renseignements. A-t-il été question du fait que son épouse était toujours aux études? Il s'agissait là d'un fait déterminant dans l'hypothèse où cette dernière aurait fait l'inscription appropriée.
+[12] Il m'apparaît étonnant que les personnes responsables de renseigner le public aient fait une erreur aussi manifeste, voire même grossière, étant donné que l'appelant avait lui-même constaté à la simple lecture d'un guide qu'il devait faire un remboursement.
+[13] De toute façon, même si la preuve révélait d'une manière non équivoque la réalité d'une telle erreur manifeste, cela ne serait pas suffisant pour que la Cour annule la cotisation, laquelle a été établie conformément aux dispositions de la Loi.
+[14] Pour cette seule raison, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 12e jour d'août 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2005CCI473
+N º DU DOSSIER DE LA COUR : 2004-4653(IT)I
+INTITULÉ DE LA CAUSE : Mario Boily et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Nicolet (Québec)
+DATE DE L'AUDIENCE : le 22 juin 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 12 août 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Nancy Dagenais
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

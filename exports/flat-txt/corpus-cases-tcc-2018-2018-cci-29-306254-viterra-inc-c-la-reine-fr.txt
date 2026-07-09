@@ -1,0 +1,323 @@
+Title: Viterra Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/306254/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-29-306254-viterra-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-02-07
+
+# Viterra Inc. c. La Reine
+
+- Citation: 2018 CCI 29
+- Decision date: 2018-02-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7120, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Viterra Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-02-07
+Référence neutre
+2018 CCI 29
+Numéro de dossier
+2016-1995(GST)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-1995(GST)G
+ENTRE :
+VITERRA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 10 avril 2017 à Saskatoon (Saskatchewan) et le 7 novembre 2017 à Ottawa (Ontario)
+Devant : L'honorable juge Steven K. D'Arcy
+Comparutions :
+Avocats de l'appelante :
+Me Justin Kutyan
+Me Adam Gotfried
+Me Kristen Duerhammer
+Avocates de l'intimée :
+Me Brooke Sittler
+Me Anne Jinnouchi
+Me Bryn Frape
+ORDONNANCE
+VU la requête présentée par l'appelante en vertu de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale) afin que la question suivante soit tranchée avant l'audience :
+La cotisation pour la TPS de 640 492,69 $ établie par le ministre le 19 février 2016 relativement à la fourniture par l'appelante de services de gestion de placements à trois fiducies de régimes de retraite (à supposer que ces services aient été fournis) pour les périodes de déclaration mensuelles terminées du 1er août 2003 au 31 juillet 2005 est‑elle prescrite?
+ET VU les observations des avocats des parties et les documents déposés;
+CONFORMÉMENT aux motifs de l'ordonnance ci‑joints, la Cour conclut qu'elle n'a pas suffisamment d'éléments de preuve pour répondre à la question.
+LA COUR ORDONNE :
+1. Les parties sont libres de soulever la question devant le juge du procès.
+2. Aucuns dépens ne sont adjugés.
+3. Les parties communiqueront avec le coordonnateur des audiences dans les 30 jours suivant la date de la présente ordonnance pour lui transmettre un projet d'échéancier pour toutes les étapes à venir dans la présente instance.
+Signé à Ottawa, Canada, ce 7e jour de février 2018.
+« S. D'Arcy »
+Le juge D'Arcy
+Référence : 2018 CCI 29
+Date : 20180207 Dossier : 2016-1995(GST)G
+ENTRE :
+VITERRA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge D'Arcy
+[1] Les présents motifs portent sur une requête présentée en vertu de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale), DORS/90‑688a (la « requête selon l'article 58 »), afin que soit tranchée une question mixte de droit et de fait (la « question à trancher »), laquelle est rédigée comme suit :
+La cotisation pour la TPS de 640 492,69 $ établie par le ministre le 19 février 2016 relativement à la fourniture par l'appelante de services de gestion de placements à trois fiducies de régimes de retraite (à supposer que ces services aient été fournis) pour les périodes de déclaration allant du 1er août 2003 au 31 juillet 2004 et du 1er août 2004 au 31 juillet 2005 est‑elle prescrite?
+[2] L'appelante a déposé la requête nécessaire afin que la question soit tranchée avant l'audience. L'intimée a consenti à la requête. La Cour a alors rendu une ordonnance, le 8 novembre 2016, prévoyant la tenue d'une audience relative à la question à trancher (l'« ordonnance du 8 novembre »).
+I. Les faits
+[3] Conformément à l'ordonnance du 8 novembre, les éléments de preuve suivants ont été présentés à la Cour pour les besoins de la requête selon l'article 58 :
+– l'exposé conjoint des faits joint à titre de pièce A à l'ordonnance du 8 novembre;
+– l'exposé conjoint supplémentaire des faits déposé par les parties le 22 février 2017 (l'« exposé conjoint supplémentaire »);
+– la demande d'aveux de l'appelante et la réponse de l'intimée à la demande.
+[4] J'ai également examiné les actes de procédure mentionnés dans l'ordonnance du 8 novembre.
+[5] L'exposé conjoint des faits est rédigé comme suit :
+[TRADUCTION]
+a) l'appelante était autrefois dénommée Saskatchewan Wheat Pool (« SWP »);
+b) SWP était une société de manutention de grain, de transformation et de commercialisation de produits agroalimentaires établie à Regina, en Saskatchewan;
+c) aux époques pertinentes, SWP administrait trois régimes de retraite à prestations déterminées distincts (les « régimes de retraite »);
+d) chacun des régimes de retraite était administré par une fiducie distincte créée pour détenir et placer les éléments d'actifs du régime;
+e) du 1er août 2003 au 31 juillet 2004 et du 1er août 2004 au 31 juillet 2005 (les « périodes pertinentes »), SWP a eu recours aux services de gestionnaires indépendants afin de gérer les fonds des régimes de retraite (les « services de placement »);
+f) durant les périodes pertinentes et à toutes les dates pertinentes, SWP était inscrite à la TPS et elle devait produire chaque mois une déclaration de TPS;
+g) pour chaque période de déclaration mensuelle pendant les périodes pertinentes, SWP a produit une déclaration de TPS (collectivement, les « déclarations de TPS ») et, le 19 février 2016, plus de quatre années s'étaient écoulées depuis la dernière des dates suivantes :
+i. la date à laquelle SWP devait produire sa déclaration de TPS;
+ii. la date à laquelle SWP a produit sa déclaration de TPS;
+h) dans ses déclarations de TPS, SWP a demandé notamment des crédits de taxe sur les intrants (« CTI ») de 640 492,69 $ pour la TPS versée aux gestionnaires relativement aux services de placement;
+i) le ministre a d'abord établi des cotisations à l'égard de SWP pour les périodes pertinentes le 10 août 2007 et le 17 septembre 2008 (les « cotisations »);
+j) dans ces cotisations, le ministre a refusé les demandes de CTI faites par SWP au titre de la TPS payée aux gestionnaires relativement aux services de placement au motif que SWP n'avait pas acquis ces services pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales;
+k) SWP s'est opposée aux cotisations le 2 novembre 2007 et le 10 décembre 2008 respectivement, et le ministre et elle ont convenu de suspendre les oppositions en attendant l'issue de l'appel interjeté par la Compagnie General Motors du Canada (« GM ») à la Cour d'appel fédérale, lequel portait sur une question semblable;
+l) le 19 février 2016, presque sept ans après que la Cour d'appel fédérale eut statué sur l'appel de GM, le ministre a établi de nouvelles cotisations pour les périodes pertinentes (les « nouvelles cotisations »);
+m) dans ces nouvelles cotisations, le ministre a accordé les demandes de CTI de 640 492,69 $ faites par SWP relativement à la TPS payée aux gestionnaires relativement aux services de placement;
+n) toutefois, le ministre a également inclus dans les nouvelles cotisations un montant de 640 492,69 $ au titre de la TPS non déclarée et à percevoir par SWP pour les services de placement fournis par SWP aux régimes de retraite;
+o) on ne prétend pas que SWP a fait une présentation erronée des faits par négligence, inattention ou omission volontaire en ce qui concerne les services de placement.
+[6] L'exposé conjoint supplémentaire des faits (dont une copie est jointe à titre d'annexe A) porte principalement sur les cotisations et les nouvelles cotisations établies par le ministre. Il indique ce qui suit :
+– Par la cotisation établie le 10 août 2007 pour les périodes de déclaration terminées du 1er août 2003 au 31 juillet 2004, le ministre a refusé les crédits de taxe sur les intrants de 551 956,19 $ demandés à l'égard des services de placement.
+– Par la cotisation établie le 17 septembre 2008 pour les périodes de déclaration terminées du 1er août 2004 au 31 juillet 2005, le ministre a refusé les crédits de taxe sur les intrants de 88 536,50 $ demandés à l'égard des services de placement.
+– Les détails de la nouvelle cotisation établie le 19 février 2016 pour les périodes de déclaration de l'appelante terminées du 1er août 2003 au 31 juillet 2004 sont les suivants :
+L'appelante s'est vu imposer la somme de 68 043,38 $ au titre de la TPS à percevoir pour des [TRADUCTION] « services de ressources et d'administration internes »;
+L'appelante s'est vu accorder des crédits de taxe sur les intrants de 551 956,19 $ relativement à des services de placement;
+L'appelante s'est vu imposer la somme de 551 956,19 $ au titre de la TPS à percevoir pour la [TRADUCTION] « nouvelle fourniture des services de placement ».
+– Les détails de la nouvelle cotisation établie le 19 février 2016 pour les périodes de déclaration de l'appelante terminées du 1er août 2004 au 31 juillet 2005 sont les suivants :
+L'appelante s'est vu imposer la somme de 61 739,68 $ au titre de la TPS à percevoir pour des [TRADUCTION] « services de ressources et d'administration internes »;
+L'appelante s'est vu accorder des crédits de taxe sur les intrants de 88 536,50 $ relativement à des services de placement;
+L'appelante s'est vu imposer la somme de 88 536,50 $ au titre de la TPS à percevoir pour la [TRADUCTION] « nouvelle fourniture des services de placement ».
+– Les nouvelles cotisations établies le 19 février 2016 n'ont pas augmenté la taxe nette de l'appelante pour les périodes visées.
+[7] Dans sa réponse à la demande d'aveux de l'appelante, l'intimée a admis que, pour chaque période de déclaration de l'appelante terminée du 1er août 2003 au 31 juillet 2005, plus de quatre années s'étaient écoulées le 19 février 2016 depuis la dernière des dates suivantes :
+a) le jour où l'appelante devait produire sa déclaration de TPS pour la période donnée;
+b) le jour où l'appelante a produit sa déclaration de TPS pour la période donnée.
+Le ministre a établi les nouvelles cotisations à l'égard de l'appelante pour ces périodes de déclaration le 19 février 2016.
+II. Le droit applicable
+[8] Le paragraphe 296(1) de la partie IX de la Loi sur la taxe d'accise (la « Loi ») dispose notamment que le ministre peut établir une cotisation pour déterminer la taxe nette d'une personne pour une période de déclaration ainsi que les pénalités et intérêts payables par une personne en application de la Loi. Le paragraphe 296(1) dispose également que le ministre peut établir une nouvelle cotisation ou une cotisation supplémentaire pour déterminer la taxe nette, les pénalités ou les intérêts.
+[9] La taxe nette d'une personne pour une période donnée est calculée conformément au paragraphe 225(1). De façon générale, ce calcul est fait comme suit :
+la TPS qui est devenue percevable durant la période de déclaration
++ la TPS qui est perçue durant la période de déclaration
+– les crédits de taxe sur les intrants réclamés dans la déclaration de TPS produite par la personne.
+[10] Le paragraphe 298(1) établit le délai dans lequel le ministre peut établir une cotisation à l'égard d'une personne. Le ministre ne peut notamment pas établir, en application de l'article 296, une cotisation visant la taxe nette d'une personne pour une période de déclaration après l'expiration d'un délai de quatre ans à partir du dernier en date du jour où la personne était tenue par l'article 238 de produire une déclaration pour la période et du jour de la production de la déclaration. J'appellerai ce délai le « délai de prescription ».
+[11] Selon le paragraphe 123(1), le terme « cotisation » s'entend d'une cotisation ou nouvelle cotisation établie aux termes de la Loi. Par conséquent, le délai de prescription s'applique aux cotisations et aux nouvelles cotisations.
+[12] Les parties conviennent que le ministre a établi les cotisations avant l'expiration du délai de prescription et qu'il a établi les nouvelles cotisations après l'expiration de ce délai.
+[13] Les paragraphes 298(3) et (6.1) énoncent les cas où le délai de prescription ne s'applique pas au ministre. Le ministre s'est fondé sur ces dispositions, en particulier le paragraphe 298(3), pour établir les nouvelles cotisations.
+[14] Les paragraphes 298(3) et 298(6.1) étaient libellés comme suit au cours de la période pertinente :
+(3) Les paragraphes (1) et (2) ne s'appliquent pas aux nouvelles cotisations établies :
+a) en vue d'exécuter la décision rendue par suite d'une opposition ou d'un appel;
+b) avec le consentement écrit de la personne visée, en vue de régler un appel.
+(6.1) Le ministre peut avancer un nouvel argument à l'appui d'une cotisation établie à l'égard d'une personne après l'expiration des délais prévus aux paragraphes (1) ou (2) pour l'établissement de la cotisation, sauf si, sur appel interjeté en vertu de la présente partie :
+a) d'une part, il existe des éléments de preuve que la personne n'est plus en mesure de produire sans l'autorisation du tribunal;
+b) d'autre part, il ne convient pas que le tribunal ordonne la production des éléments de preuve dans les circonstances.
+III. Les thèses des parties
+[15] L'appelante soutient que les paragraphes 298(3) et 298(6.1) ne confèrent pas au ministre le pouvoir d'établir, après l'expiration du délai de prescription, une nouvelle cotisation visant à exécuter une décision rendue par suite d'une opposition qui impose une nouvelle taxe sur des opérations différentes. En particulier, le ministre ne peut pas tenir compte d'opérations nouvelles ou différentes après l'expiration du délai de prescription. L'appelante soutient que c'est le cas même si le montant de la nouvelle cotisation est identique ou inférieur.
+[16] L'appelante fait valoir que les nouvelles cotisations à l'égard de son droit à des crédits de taxe sur les intrants pour les services fournis par les gestionnaires indépendants à l'appelante et à l'égard de la taxe pour les services de placement que l'appelante aurait fournis aux régimes de retraite portent sur deux opérations distinctes. La première opération consiste en la fourniture de services à l'appelante par les gestionnaires indépendants et la deuxième, en la fourniture de services par l'appelante aux régimes de retraite.
+[17] L'appelante soutient que le ministre ne peut pas établir de cotisation à l'égard de la deuxième opération après l'expiration du délai de prescription.
+[18] L'intimée fait valoir que, lorsqu'il répond à un avis d'opposition fondé sur la Loi, le ministre peut établir une nouvelle cotisation fondée sur des opérations différentes, ou même augmenter la taxe nette. Voici ce qu'elle déclare dans ses observations écrites :
+[TRADUCTION]
+[...] Cela s'explique par le fait que, contrairement aux dispositions correspondantes de la Loi de l'impôt sur le revenu, le paragraphe 298(3) n'impose aucune limite au pouvoir du ministre d'établir une nouvelle cotisation. Le paragraphe 298(3) indique que les délais prévus aux paragraphes 298(1) et (2) « ne s'appliquent pas » aux nouvelles cotisations établies en vue d'exécuter la décision rendue par suite d'une opposition. En l'absence de toute disposition limitative, le ministre à qui incombe l'obligation d'appliquer correctement la Loi sur la taxe d'accise est tenu d'établir une cotisation conformément à la loi.
+[19] L'intimée soutient également que, même si le ministre ne peut tenir compte dans sa nouvelle cotisation d'opérations sur lesquelles la cotisation du contribuable ne repose pas, cette interdiction ne s'applique pas au présent appel, puisque le ministre ne s'est pas fondé sur de nouvelles opérations pour établir les nouvelles cotisations à l'égard de l'appelante.
+[20] L'intimée fait valoir que les nouvelles cotisations ne sont pas fondées sur de nouvelles opérations, mais plutôt sur une nouvelle qualification des opérations dont le ministre a tenu compte pour établir les cotisations. Cette nouvelle qualification est fondée sur la nouvelle façon dont le ministre a interprété la nature du lien unissant les mêmes parties aux mêmes opérations, sans que cela ne donne lieu à une augmentation de la taxe nette de l'appelante.
+IV. Les questions préliminaires soulevées par la Cour
+A. La preuve présentée à la Cour
+[21] La Cour a d'abord fixé au 10 avril 2017 la date de l'audition de la requête de l'appelante. Au début de l'audience, j'ai informé les parties que je craignais ne pas pouvoir répondre à la question à trancher alors que si peu d'éléments de preuve m'avaient été présentés. Après avoir discuté de mes préoccupations avec les avocats, j'ai ajourné l'audience pour permettre aux parties de décider si elles souhaitaient poursuivre l'instance en se fondant sur les faits présentés ou déposer un exposé conjoint supplémentaire des faits.
+[22] Dans une lettre déposée à la Cour le 28 juin 2017, les parties ont déclaré ce qui suit :
+[TRADUCTION]
+Les parties ont examiné la question et vous avisent par la présente lettre qu'elles acceptent que l'affaire se poursuive en se fondant sur les faits énoncés dans l'ordonnance rendue par la Cour le 8 novembre 2016 et dans l'exposé conjoint supplémentaire des faits déposé par les parties avant qu'elles ne comparaissent devant la Cour le 10 avril 2017.
+B. Les périodes de déclaration de l'appelante
+[23] Après la fin de l'audience, je me suis rendu compte que la question à trancher ne reflète pas les périodes de déclaration réelles de l'appelante. En particulier, la question renvoie à deux périodes de déclaration annuelles, l'une allant du 1er août 2003 au 31 juillet 2004 et l'autre du 1er août 2004 au 31 juillet 2005. Toutefois, comme l'indique l'exposé conjoint des faits, l'appelante produit ses déclarations chaque mois.
+[24] La Cour a avisé les parties du problème. Le 10 novembre 2017, les parties ont déposé à la Cour une lettre indiquant qu'elles convenaient de reformuler comme suit la question à trancher :
+[TRADUCTION]
+La cotisation pour la TPS de 640 492,69 $ établie par le ministre le 19 février 2016 relativement à la fourniture par l'appelante de services de gestion de placements à trois fiducies de régimes de retraite (à supposer que ces services aient été fournis) pour les périodes de déclaration mensuelles terminées du 1er août 2003 au 31 juillet 2005 est‑elle prescrite?
+[25] J'ai accepté cette reformulation de la question. Elle n'a pas d'incidence sur les questions dont est saisie la Cour.
+V. Les motifs de l'ordonnance
+[26] J'examinerai d'abord l'argument de l'intimée qui affirme qu'en vertu du paragraphe 298(3) de la Loi, le ministre peut, après l'expiration de la période de nouvelle cotisation, établir une nouvelle cotisation fondée sur des opérations différentes ou même augmenter la taxe nette.
+[27] La Cour n'est pas saisie d'une nouvelle cotisation ayant pour effet d'augmenter le montant de la taxe nette d'un inscrit à la TPS après l'expiration de la période de nouvelle cotisation, puisque la nouvelle cotisation établie par le ministre n'a pas eu pour effet d'augmenter la taxe nette de l'appelante. Toutefois, l'appelante soutient que le ministre a établi la nouvelle cotisation après l'expiration de la période de nouvelle cotisation et qu'il a tenu compte d'opérations différentes de celles sur lesquelles reposait la première nouvelle cotisation concernant la taxe nette de l'appelante.
+[28] À mon avis, la conclusion de la Cour d'appel fédérale dans Canada c. Anchor Pointe Energy Ltd. [1] , et celle de mon collègue le juge Hogan dans Klemen c. La Reine [2] , en ce qui concerne le paragraphe 165(5) de la Loi de l'impôt sur le revenu, s'appliquent également au paragraphe 298(3) de la Loi. Le juge Hogan a dit ce qui suit aux paragraphes 22 et 23 de sa décision :
+[22] À titre de question préliminaire, l'appelant soutient qu'il y a lieu d'annuler la seconde nouvelle cotisation, parce qu'elle a été établie après l'expiration de la période normale de nouvelle cotisation et que les conditions énoncées au paragraphe 152(4) de la Loi n'ont pas été remplies. L'intimée fait valoir que les limites énoncées au paragraphe 152(4) de la Loi ne s'appliquent pas à la seconde nouvelle cotisation, car celle-ci a été établie après que le ministre a examiné l'avis d'opposition que l'appelant a déposé au sujet de la première nouvelle cotisation. L'intimée se fonde à cet égard sur le libellé du paragraphe 165(5) de la Loi :
+165(5) Validité d'une nouvelle cotisation — Les restrictions prévues aux paragraphes 152(4) et (4.01) ne s'appliquent pas aux nouvelles cotisations établies en vertu du paragraphe (3).
+[23] Je ne suis pas d'accord avec la manière dont l'intimée interprète le paragraphe 165(5) de la Loi. Certes, cette disposition, interprétée littéralement, pourrait étayer l'argument de l'intimée, mais dans l'arrêt Canada c. Anchor Pointe Energy Ltd., la Cour d'appel fédérale (la « CAF ») a décrété qu'une nouvelle cotisation établie après l'expiration de la période normale de nouvelle cotisation, postérieurement à l'examen de l'avis d'opposition du contribuable, ne peut faire augmenter l'impôt que le contribuable doit payer, sauf si l'on respecte les limites énoncées au paragraphe 152(4) de la Loi. Pour ce qui est de la portée des paragraphes 165(3) et (5) de la Loi, le juge Rothstein a fait le commentaire suivant :
+Je ne puis partager l'avis du juge Rip selon lequel la période normale de nouvelle cotisation reste en suspens ou est prolongée jusqu'à ce que le ministre pose une action en vertu du paragraphe 165(5). Il découlerait d'une telle interprétation que, parce qu'un contribuable dépose un avis d'opposition, le ministre dispose d'un délai illimité pour établir une nouvelle cotisation à son endroit et augmenter le montant d'impôt qu'il doit payer, après l'expiration de la période normale de nouvelle cotisation.
+[...]
+À mon avis, le paragraphe 165(5) autorise le ministre à établir une nouvelle cotisation après l'expiration de la période normale de nouvelle cotisation lorsqu'un avis d'opposition a été déposé, mais pas de manière à inclure dans le revenu du contribuable des sommes qui n'étaient pas incluses dans une cotisation ou une nouvelle cotisation établie pendant la période normale de la nouvelle cotisation.
+[Non souligné dans l'original.]
+[29] Bien que le libellé du paragraphe 298(3) de la Loi soit différent de celui du paragraphe 165(5) de la Loi de l'impôt sur le revenu, l'intention du législateur est, à mon avis, la même : le ministre ne peut, après l'expiration de la période de nouvelle cotisation, invoquer le paragraphe 298(3) de la Loi pour augmenter la taxe nette de l'inscrit à la TPS ou pour prendre en compte des opérations différentes de celles ayant servi de fondement à la nouvelle cotisation qui a été établie au cours de la période de nouvelle cotisation [3] .
+[30] Comme l'a souligné la Cour d'appel fédérale dans l'arrêt Anchor Pointe, il découlerait de l'interprétation de l'intimée que, parce qu'un contribuable dépose un avis d'opposition, le ministre dispose d'un délai illimité pour établir une nouvelle cotisation à son endroit et augmenter le montant d'impôt qu'il doit payer, après l'expiration de la période normale de nouvelle cotisation [4] . Une telle interprétation n'est pas compatible avec le régime établi par la Loi.
+[31] En outre, l'alinéa 298(3)a) comporte les mots « en vue d'exécuter la décision rendue par suite d'une opposition ou d'un appel ». À mon avis, ces mots limitent l'application de l'alinéa 298(3)a).
+[32] Comme je l'ai mentionné, le paragraphe 296(1) dispose que le ministre établit une cotisation pour déterminer la taxe nette d'un inscrit. Le paragraphe 301(1.1) permet à l'inscrit de présenter un avis d'opposition à la cotisation. L'alinéa 298(3)a) prévoit notamment que le ministre peut établir une nouvelle cotisation après l'expiration du délai de prescription « en vue d'exécuter la décision rendue par suite d'une opposition ». À mon avis, les mots « décision rendue par suite d'une opposition » s'entendent d'une décision concernant la taxe nette contestée dans l'avis d'opposition, c'est‑à‑dire la taxe nette établie par le ministre. En d'autres termes, l'alinéa 298(3)a) n'écarte la période de nouvelle cotisation prévue par la loi qu'à l'égard de la taxe nette imposée à l'origine par le ministre; il n'écarte pas le délai de prescription qui s'applique à toute autre nouvelle taxe nette.
+[33] Je vais maintenant examiner l'argument de l'appelante selon lequel les nouvelles cotisations du ministre sont fondées sur des opérations différentes de celles sur lesquelles reposent les cotisations initiales de la taxe nette de l'appelante.
+[34] Comme je l'ai indiqué, je ne crois pas que le ministre, lorsqu'il établit une nouvelle cotisation après la période de nouvelle cotisation prévue par la loi, peut prendre en compte des opérations différentes de celles sur lesquelles repose la cotisation. Par exemple, le ministre a refusé les crédits de taxe sur les intrants en ce qui concerne la taxe payée pour l'achat des services de placement pour les régimes de retraite des employés de l'appelante. Le ministre ne peut donc pas, après l'expiration de la période de nouvelle cotisation prévue par la loi, établir une cotisation relativement à une opération qui n'était en aucun cas liée aux régimes de retraite, comme la vente de grains à un tiers.
+[35] Toutefois, la question de savoir si la nouvelle fourniture de services de placement aux régimes de retraite fait partie des opérations qui ont servi de fondement aux cotisations du ministre est une question à laquelle il n'est possible de répondre qu'en procédant à un examen de l'ensemble des faits pertinents entourant l'administration et le financement par l'appelante des régimes de retraite.
+[36] Les faits qui suivent sont les seuls qui m'ont été présentés quant aux services de placement et aux cotisations et nouvelles cotisations établies par le ministre :
+– Aux époques pertinentes, l'appelante administrait trois régimes de retraite à prestations déterminées distincts (les régimes de retraite susmentionnés).
+– Chacun des régimes de retraite était administré par une fiducie distincte créée pour détenir et placer les actifs du régime.
+– Durant les périodes pertinentes, l'appelante a eu recours aux services de gestionnaires indépendants afin de gérer les fonds des régimes de retraite (les « services de placement »).
+– L'appelante a demandé, dans ses déclarations de TPS pour les périodes pertinentes, des crédits de taxe sur les intrants de 640 492,69 $ pour la TPS versée aux gestionnaires de placements relativement aux services de placement.
+– Dans les cotisations établies à l'égard de l'appelante, le ministre a refusé les crédits de taxe sur les intrants de 640 492,69 $ demandés par l'appelante au titre des services de placement.
+– L'appelante s'est opposée aux cotisations.
+– En établissant les nouvelles cotisations à l'égard de l'appelante, le ministre a accordé les crédits de taxe sur les intrants de 640 492,69 $ demandés par l'appelante au titre de la TPS payée aux gestionnaires pour les services de placement. Dans les nouvelles cotisations, le ministre a inclus 640 492,69 $ au titre de la TPS non déclarée et à percevoir pour les services de placement que l'appelante aurait fournis de nouveau aux régimes de retraite.
+[37] Le régime établi par la Loi est important pour déterminer si le ministre a tenu compte d'une nouvelle opération lorsqu'il a établi les nouvelles cotisations à l'égard de l'appelante.
+[38] Le paragraphe 169(1) énonce les règles générales relatives aux demandes de crédit de taxe sur les intrants. En voici les parties applicables :
+169(1) Règle générale — Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d'une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu'elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l'importation ou au transfert devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable :
+A × B
+où :
+A représente la taxe relative à la fourniture, à l'importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable;
+B :
+[...]
+b) dans le cas où le bien ou le service est acquis, importé ou transféré dans la province, selon le cas, par la personne pour utilisation dans le cadre d'améliorations apportées à une de ses immobilisations, le pourcentage qui représente la mesure dans laquelle la personne utilisait l'immobilisation dans le cadre de ses activités commerciales immédiatement après sa dernière acquisition ou importation de tout ou partie de l'immobilisation;
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l'a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[39] L'admissibilité de l'appelante aux crédits de taxe sur les intrants relativement à la TPS payée pour les services de placement dépend de la mesure dans laquelle elle a acquis les services pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[40] Ainsi, pour calculer la taxe nette de l'appelante afin d'établir les cotisations, le ministre devait d'abord déterminer si l'appelante avait consommé, utilisé ou fourni les services de placement. Une fois cette détermination faite, il devait ensuite décider si la consommation, l'utilisation ou la fourniture avait eu lieu dans le cadre des activités commerciales de l'appelante.
+[41] Dans les cotisations qu'il a établies, le ministre a refusé les crédits de taxe sur les intrants demandés par l'appelante au titre de la TPS payée pour les services de placement. Le problème est que je ne sais pas pourquoi le ministre a conclu que l'appelante n'avait pas droit aux crédits de taxe sur les intrants. Je ne sais pas s'il a conclu que l'appelante avait consommé ou utilisé les services de placement, mais qu'elle ne les avait pas consommés ou utilisés dans le cadre de ses activités commerciales, ou s'il a conclu que l'appelante avait effectué une nouvelle fourniture de ces services, mais qu'elle ne l'avait pas effectuée dans le cadre de ses activités commerciales.
+[42] C'est pourquoi je ne peux décider si, au moment d'établir les nouvelles cotisations, le ministre a tenu compte d'une nouvelle opération puisque je ne sais pas quelles opérations il a examinées lorsqu'il a établi les cotisations initiales refusant les crédits de taxe sur les intrants. Je ne peux donc pas répondre à la question à trancher.
+[43] Une deuxième raison m'empêche de répondre à la question à trancher.
+[44] Comme on peut le voir dans la décision General Motors du Canada ltée c. La Reine de notre Cour, l'administration et le financement des régimes de retraite peuvent être extrêmement compliqués et ils sont normalement régis par de nombreux documents complexes [5] . Il ressort des hypothèses formulées par le ministre dans la réponse que la participation de l'appelante aux trois régimes de retraite n'était pas simple et mettait en cause de nombreuses ententes. La Cour ne dispose d'aucune preuve concernant la participation de l'appelante aux trois régimes de retraite.
+[45] Pour répondre à la question à trancher, la Cour doit décider si les fournitures des services de placement indépendants à l'appelante et la fourniture par l'appelante de ces services aux régimes de retraite font partie de la même opération ou série d'opérations, de sorte que le ministre ne s'est pas fondé sur de nouvelles opérations pour établir les nouvelles cotisations de l'appelante. Les faits pertinents, y compris les ententes, dont la Cour a besoin pour trancher cette question ne lui ont pas été présentés.
+[46] Par exemple, l'avocat de l'appelante a admis au cours des débats que l'appelante avait fourni de nouveau les services de placement aux régimes de retraite. Par conséquent, il peut y avoir un lien entre l'acquisition par l'appelante des services de placement et la nouvelle fourniture de ces services aux régimes de retraite. Les faits qui m'ont été soumis ne me permettent pas de déterminer si un tel lien existe et, le cas échéant, de me prononcer sur la nature ou l'étendue de ce lien. La Cour ne peut pas répondre à la question à trancher sans posséder cette connaissance. Elle ne peut pas répondre à la question dans un vide factuel.
+[47] J'estime que, à supposer que les parties présentent à la Cour les éléments de preuve pertinents, seul le juge du procès peut répondre à la question à trancher.
+[48] L'avocat de l'appelante a fait valoir qu'il est difficile de trouver les documents pertinents 14 ans après les faits. Je ne vois pas très bien à quelle période de 14 ans il fait référence. De toute façon, j'ai beaucoup de réserves à propos de cet argument.
+[49] Premièrement, la Cour fonde ses décisions sur les faits qui lui sont présentés. Deuxièmement, les cotisations établies par le ministre le 10 août 2007 et le 17 septembre 2008 visaient les périodes de déclaration qui ont pris fin du 1er août 2003 au 31 juillet 2005. L'appelante a donc appris dans un délai relativement court qu'elle avait un problème fiscal. L'appelante est une contribuable avertie et elle devait savoir qu'elle devait conserver les documents nécessaires pour étayer son appel en matière fiscale.
+VI. Conclusion
+[50] Pour les motifs qui précèdent, la Cour ne peut pas répondre à la question à trancher étant donné le peu de faits dont elle dispose. Les parties franchiront les diverses étapes de l'instance, y compris l'interrogatoire préalable, et présenteront les éléments de preuve pertinents au juge du procès, qui statuera sur la question à trancher.
+[51] Puisque l'intimée a consenti à l'audition de la question à trancher, aucune ordonnance ne sera rendue quant aux dépens.
+Signé à Ottawa, Canada, ce 7e jour de février 2018.
+« S. D'Arcy »
+Le juge D'Arcy
+ANNEXE A
+[TRADUCTION]
+Dossier : 2016-1995(GST)G
+ENTRE :
+VITERRA INC.
+appelante
+- et -
+SA MAJESTÉ LA REINE
+intimée
+EXPOSÉ CONJOINT SUPPLÉMENTAIRE DES FAITS PRÉSENTÉ EN VUE DE LA REQUÊTE FONDÉE SUR L'ARTICLE 58
+Les parties admettent, pour les besoins d'une requête présentée en vertu de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale), la véracité des faits suivants, en plus des faits énoncés dans l'annexe A de l'ordonnance rendue par la Cour le 8 novembre 2016.
+1. Viterra Inc. interjette appel des nouvelles cotisations établies le 19 février 2016 (les « nouvelles cotisations ») par le ministre du Revenu national (le « ministre »), en vertu de la Loi sur la taxe d'accise, pour les périodes du 1er mai au 31 juillet 2003, du 1er août 2003 au 31 juillet 2004 et du 1er août 2004 au 31 juillet 2005.
+2. Seules les périodes allant du 1er août 2003 au 31 juillet 2004 et du 1er août 2004 au 31 juillet 2005 (les « périodes pertinentes ») sont pertinentes pour la présente requête.
+3. Les détails des cotisations initiales établies à l'égard des périodes pertinentes sont :
+Période pertinente
+Date de la cotisation
+TPS à percevoir pour les services de ressources et d'administration internes
+CTI refusés pour les services de placement
+Du 1er août 2003 au 31 juillet 2004
+10 août 2007
+68 043,38 $
+551 956,19 $
+Du 1er août 2004 au 31 juillet 2005
+17 septembre 2008
+61 739,68 $
+88 536,50 $
+Total
+[EN BLANC]
+129 783,06 $
+640 492,69 $
+4. Le 19 février 2016, le ministre a établi de nouvelles cotisations à l'égard de Viterra pour les périodes pertinentes. Les détails des nouvelles cotisations sont [6] :
+Période pertinente
+TPS à percevoir pour les services de ressources et d'administration internes
+CTI admis pour les services de placement
+TPS percevable pour la nouvelle fourniture des services de placement
+Du 1er août 2003 au 31 juillet 2004
+68 043,38 $
+551 956,19 $
+551 956,19 $
+Du 1er août 2004 au 31 juillet 2005
+61 739,68 $
+88 536,50 $
+88 536,50 $
+Total
+129 783,06 $
+640 492,69 $
+640 492,69 $
+5. Les nouvelles cotisations n'ont pas augmenté la taxe nette de l'appelante pour les périodes pertinentes.
+FAIT à Toronto (Ontario), le 17 février 2017.
+« Kristen Duerhammer »
+Par :
+Justin Kutyan/Adam Gotfried
+Avocats de l'appelante
+KPMG cabinet juridique s.r.l./S.E.N.C.R.L.
+Centre Bay Adelaide
+333, rue Bay, bureau 4600
+Toronto (Ontario)
+M5H 2S5
+FAIT à Saskatoon (Saskatchewan), le 21 février 2017.
+« Anne Jinnouchi »
+PROCUREUR GÉNÉRAL DU CANADA
+Ministère de la Justice du Canada
+Région des Prairies
+10e étage, 123, 2e Avenue S.
+Saskatoon (Saskatchewan)
+S7K 7E6
+Téléc. : (306) 975-8991
+Par : Anne Jinnouchi/Bryn Frape
+Tél. : (306) 975-4505/(306) 975-6121
+Adresses courriel :
+Anne.jinnouchi@justice.gc.ca/
+bryn.frape@justice.gc.ca
+Avocats de l'intimée
+RÉFÉRENCE :
+2018 CCI 29
+No DU DOSSIER DE LA COUR :
+2016-1995(GST)G
+INTITULÉ :
+Viterra Inc. c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Ottawa (Ontario)
+DATES DE L'AUDIENCE :
+Le 10 avril 2017 et le 7 novembre 2017
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge Steven K. D'Arcy
+DATE DE L'ORDONNANCE :
+Le 7 février 2018
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Justin Kutyan
+Me Adam Gotfried
+Me Kristen Duerhammer
+Avocates de l'intimée :
+Me Brooke Sittler
+Me Anne Jinnouchi
+Me Bryn Frape
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Justin Kutyan
+Adam Gotfried
+Cabinet :
+KPMG cabinet juridique s.r.l./S.E.N.C.R.L.
+Toronto (Ontario)
+Pour l'intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] [2004] 1 R.C.F. F‑5, 2003 CAF 294 (« Anchor Pointe »).
+[2] 2014 CCI 244.
+[3] Voir Anchor Pointe, paragraphe 39.
+[4] Voir Anchor Pointe, paragraphe 33.
+[5] General Motors du Canada ltée c. La Reine, 2008 CCI 117; voir, par exemple, les paragraphes 3 à 21.
+[6] Lettre du 19 février 2016 envoyée à Viterra par l'ARC, y compris les pièces jointes. Cette copie de la lettre du 19 février 2016, à laquelle étaient jointes des pièces, est conforme à celle que l'intimée a reçue de l'appelante. L'intimée a une copie de la lettre du 19 février 2016, mais elle n'a pas de copie des pièces.

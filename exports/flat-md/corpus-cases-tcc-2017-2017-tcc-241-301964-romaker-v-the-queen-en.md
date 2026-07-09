@@ -1,0 +1,227 @@
+---
+title: "Romaker v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/301964/index.do"
+last_modified: "2017-12-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 241"
+citation2: ""
+neutral_citation: "2017 TCC 241"
+decision_date: "2017-12-01"
+language: "en"
+item_id: "301964"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7726
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:05:20.004000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f94bffe0cebef3e19b19c145b0ed36a66cb99907e96bd512dac42612e98e2616"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Romaker v. The Queen
+
+- Citation: 2017 TCC 241
+- Decision date: 2017-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7726, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Romaker v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-12-01
+Neutral citation
+2017 TCC 241
+File numbers
+2012-1943(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1943(IT)G
+BETWEEN:
+PHILIP ROMAKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on July 6, 2017, at Hamilton, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dominique Gallant
+Katie Beahen
+AMENDED JUDGMENT
+The appeal from the reassessments made under the Income Tax Act (Canada) for the Appellant’s 2007, 2008 and 2009 taxation years is dismissed, with costs, in accordance with the attached Amended Reasons for Judgment.
+This Amended Judgment is issued in substitution for the Judgment dated December 1, 2017.
+Signed at Ottawa, Canada, this 8th day of February 2018.
+“B. Russell”
+Russell J.
+Citation: 2017TCC241
+Date: 20180208
+Docket: 2012-1943(IT)G
+BETWEEN:
+PHILIP ROMAKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Russell J.
+Introduction: [1] The Appellant, Philip Romaker, launched this general procedure appeal of reassessments under the Income Tax Act (Canada) (Act) in respect of his 2007, 2008 and 2009 taxation years. He is appealing so-called gross negligence penalty assessments pursuant to subsection 163(2) of the Act in respect of deductions claimed in his 2007, 2008, 2009 returns, as prepared by persons the Appellant says he had trusted and that they deceived him.
+Evidence: [2] The Appellant, self-represented, testified that he has a Grade 13 education. He now is retired, after 29 years serving as a police officer in Hamilton, Ontario. In 2008, apparently at the urging of friends, he attended two public presentations offered by “Sovereign Trusts” regarding how taxpayers who primarily had T4 income might obtain substantial income tax refunds. He says he did not follow much of what he heard at these sessions (and now says it was mostly “gibberish”). But he decided to go forward with seeking refunds of income tax he had remitted in recent years. Accordingly he contracted with the speaker at these presentations, one Christian Lachappelle (Mr. L.), to lead him in so doing.
+[3] He testified that he signed forms Mr. L. prepared and subsequently submitted on his behalf to Canada Revenue Agency (CRA). He thereafter received negative responses from CRA. Mr. L. encouraged him to continue, advising him that CRA simply was reluctant to pay him the tax refunds. CRA continued to respond negatively. Eventually the Appellant became disillusioned with Mr. L. and carried on instead with guidance from an apparent associate of Mr. L., one R. Terracina (Mr. T.) in preparing and filing representations to CRA at the objection stage for each of the subject years. Initially Mr. T., through an assistant, apparently had given the Appellant a list of made-up business expenses for submission to CRA.
+[4] The Appellant testified that he was duped by Messrs. L. and T., being “the masterminds behind the scam”. He says he was victimized and now CRA wants to victimize him again. He says he has “learned his lesson” and this is a “sorry mess”. He now just wants to move forward and there is “no need for salt in the wound.”
+[5] In cross-examination he concurred he never had had a business. He, or another person for electronic filing, had always prepared his returns. Before this matter came up he had never paid a professional to prepare them. He reiterated that friends had significantly influenced him to pay the fees to attend the two Sovereign Trusts sessions and to then have Sovereign Trusts prepare his 2008 and 2009 returns and 2007 request for amendment.
+[6] Certain documents were entered in evidence. They included Ex. A-1, the Sovereign Trusts ad for “a private full-day seminar” including a three hour session on “how to reduce my taxes”, which session the Appellant twice attended. The ad shows it was “revised” May 14, 2008.
+[7] Ex. R-2 is a five page document provided to the Appellant by Mr. L., entitled “Getting prepared to apply the C2++ Process”. Its “Introduction” begins by stating (as actually printed):
+You, as a living man or woman, is called Humanus Being in the C2++ Process terminology. You are considered sovereign, thus having the free will to govern yourself.
+[8] This section concludes, stating:
+The underlying principle in the C2++ Process is that loans are NOT revenues. Your employer is not taxed on the capital he received from you, isn’t it? The banks are not taxed on their loans, isn’t it? You contracted a loan from a bank, the money you received is not taxable, isn’t it? Only the accrued value is! The profit is taxable. Since you are not in commerce but are used by commerce, so you don’t generate profits. You loaned some value, and it came back without profit. You are simply being reimbursed your capital.
+[9] The Appellant said that when, upon receipt, he “skimmed” this document, he didn’t understand it but viewed Mr. L. as the expert.
+[10] Other documents filed in evidence in the course of the Appellant’s cross-examination included Ex. R-4 which was an email from Mr. L. to the Appellant dated February 2, 2009 with six documents attached for him to sign and courier back to Mr. L. These documents include one entitled “corporate resolution to accept contract for hire”, one entitled a “UCC financing statement” and one entitled “corporate resolution to accept the annual invoice”. They basically meant nothing to the Appellant.
+[11] Exhibits R-5, R-6 and R-8 are respectively the Appellant’s returns for 2008 filed June 30, 2010, and 2009 filed April 30, 2010, and his September 2, 2008 letter to CRA Appeals re his 2007 amendment request.
+[12] The 2009 return claimed a business loss of $22,610. It is signed by the Appellant, under the usual wording - “I certify that the information given on this return and in any documents attached is correct, complete, and fully discloses all my income.”
+[13] The 2008 return claimed a deduction of $89,713 as “Due to Animator (Principal) as agent” and other income (in addition to employment income of $83,214) of $16,450 for a net deductions loss of $73,216. The 2008 return was signed by the Appellant directly under the typed in statement, “This tax return, done involuntarily under protest and duress, uses a process in which the Animator (principal) is being reimbursed his human capital he loaned to society, by his agent.” To the right in the same signature box is typed, in upper and lower case as here reproduced, this statement: “ALL RIGHTS RESERVED WITHOUT PREJUDICE UCC 1-308. NON-ASSUMPSIT CONTRACT, WITHOUT COMPRENHENSION [sic]. Done for the Agent by the Animator.” The usual statement appearing on this prescribed income tax return form, “I certify that the information given on this return and in any documents attached is correct, complete, and fully discloses all my income.” is absent.
+[14] The 2007 taxation year amendment request was that the “business net income” box, which per original filing read zero, be amended to show a loss of $69,558. Again it was signed by the Appellant, this time directly under the wording - “All rights reserved, without prejudice, UCC 1-308 non assumes it contract, without comprehension for the natural person PHILIP ROMAKER.” And directly below his signature is the wording - “by Philip : Romaker, Animator for the natural person PHILIP ROMAKER. Correspondence accepted in writing only.”
+[15] Each of these three filed documents was signed by the Appellant, with Mr. L. having provided the Appellant each document for his signature. In Court the Appellant did not seek to say that the unique wordings in and about his signatures, reproduced herein, had not been there when he signed.
+Pleadings: [16] The Respondent’s key assumptions of fact, pleaded at paragraph 15 of the Reply, are as follows:
+a) the appellant’s total income for the 2007 taxation year was $85,412 consisting of employment income from The City of Hamilton, the Toronto Police Association and other investment income;
+b) the appellant’s total income for the 2008 taxation year was $83,435.02 consisting of employment income from The City of Hamilton and investment income;
+c) the appellant’s total income for the 2009 taxation year was $83,443.00 consisting of employment income from The City of Hamilton and investment income.
+2007 Claimed Agent Loss
+a) in filing a T1 adjustment request for the 2007 taxation year, the appellant claimed a business loss in the amount of $69,557.61 (the previously defined Claimed Agent Loss);
+b) the Claimed Agent Loss, if allowable, would have resulted in a refund of all taxes withheld at source for the 2007 taxation year;
+c) the appellant claimed in his T1 Adjustment Request for the 2007 taxation year that the business was a “default business”;
+d) the Claimed Agent Loss in the amount of $69,557.61, was not in respect of the appellant’s alleged “default business”;
+e) in requesting a T1 Adjustment for a net business loss in the amount of $69,557.61 for the 2007 taxation year, the appellant requested that the entire amount be deducted in the 2007 year;
+f) the appellant claimed in his T1 Adjustment Request for the year that the income from this “business” was “business income” and that his expenses, which were described as “exp. reimbursement as per private contract”, were $69,557.61 (the “2007 Disallowed Expenses”);
+g) the appellant signed his T1 adjustment request for the 2007 year as “by Philip : Romaker, Animator for the natural person PHILIP ROMAKER”;
+h) the appellant claimed that:
+Based on several communications with different CRA agents we can give you this hint: in our letters you will come into contact with the human being Philipp : Romaker and the natural person PHILIP ROMAKER which is the corporation. In order to differentiate them, anytime you see the word person we are referring to the legal construct, the corporation, the legal entity, the judicial personality, as defined and referred in the law. Furthermore, when you see the colon “:” in the name, it is precisely the sign that this name refers to a human being. The meaning of this colon is “of the family”. Hope this helps in your understanding.
+…
+The human being Philipp : Romaker signed a private contract with the corporation PHILIP ROMAKER (the natural person). This contract recognize [sic] the inestimable value of Philip : Romaker for the corporation PHILIP ROMAKER (the natural person) to operate. Thus the corporation PHILIP ROMAKER has committed itself, through the private contract and in the title of compensation for incommensurable efforts, to reimburse the human being Philip : Romaker for all his expenses which he encountered during the period covered by the contract. These expenses reimbursement incurred by the taxpayer (the natural person or the corporation PHILIP ROMAKER) is for the purpose of gaining or producing income for all the businesses the corporation is involved in, in accordance with section 18(1)(a) of the Income Tax Act or its provincial equivalence. Note that for income tax purposes, only part of these expenses were taken into consideration (see Other expenses in the already submitted T2124).
+i) the appellant’s position is based on script;
+j) the script shows that the appellant knowingly participated in a type of detax group in order to avoid paying tax;
+k) the appellant was not involved in a business activity of any kind;
+l) the appellant had no source of income with respect to his alleged business;
+m) the appellant’s claim for an “exp. reimbursement as per private contract” consisted solely of personal and living expenses;
+n) the appellant did not incur the claimed “exp. reimbursement as per private contract” expenses for the purpose of gaining or producing income from business or property;
+2008 Other Deductions Loss
+o) in filing his 2008 tax return, the appellant claimed a deduction in the amount of $89,713.35 “Due to Animator as Agent” (the previously defined Other Deductions) and claimed other income in the amount of $16,450.18 as “Miscellaneous Deposits” generating a loss of $73,263.17 (described as the “Other Deductions Loss”);
+p) the Other Deductions Loss, if allowable, would have resulted in a refund of all taxes withheld at source for the 2008 taxation year;
+q) the appellant claimed in his income tax return for the 2008 taxation year that the business was as an “Agent as a Transmitting Utility”;
+r) the Other Deductions Loss in the amount of $73,263.17, was not in respect of the appellant’s alleged “Agent as a Transmitting Utility business”;
+s) the appellant claimed that his income from this alleged business was “Moneys collected for the Animator by Agent”;
+t) the appellant claimed in his 2008 tax return that the income from the “business” (detailed in paragraph 7 above) was $16,450.18 (described as Moneys collected for the Animator by agent, and are NOT reported as third parties). The appellant claimed that his expenses, which were described as “Moneys owed to the Animator by the Agent in paper money” were $89,713.35 (the “2008 Disallowed Expenses”);
+u) the appellant signed his “Annual Statement for Agent’s Activities” for the 2008 taxation year as:
+I certify that I am the Animator (principal) for the Agent, PHILIP ROMAKER, and that the information given on this statement is true and accurate. This statement, prepared by the Animator, is an original receipt”
+v) the appellant signed his income tax return for the 2008 taxation year as:
+This tax return, done involuntary [sic] under protest and duress, uses a process in which the Animator (principal) is being reimbursed his human capital he loaned to society, by his agent.
+ALL RIGHTS RESERVED WITHOUT PREJUDICE UCC 1-308 NON ASSUMPSIT CONTRACT, WITHOUT COMPREHENSION
+Done for the Agent by the Animator
+PER: P. Romaker
+w) the appellant provided a ‘Notice of Usage’ which advised that as of May 27, 2009:
+“Be advised that, as of May-27-2009, the natural person aka taxpayer PHILIP ROMAKER (hereinafter “the Agent for which the SIN 449XXXXXX has been issued, is being used as an agent in commerce, having the duty of a transmitting utility towards its sovereign, self governed Animator free to choose its spiritual governance, Philip of the family Romaker aka Philip : Romaker (hereinafter “the Animator”).
+The Agent’s role consists of accepting the human capital furnished by its Animator as a temporary loan to society without interest or usury, and afterwards totally reimbursing the Animator, minus the Agent’s fees.
+…
+Furthermore, the Animator has not seen any evidence supporting the alleged presumption that the Animator shall be the surety for the Agent who is insolvent in nature, and any claim against the Agent having a value will be presented to the Receiver General who will accept the payment instrument as presented and shall do whatever necessary to offset the accepted value of the claim against the exemption account bearing the number ….
+x) the appellant’s position is based on script;
+y) the script shows that the appellant knowingly participated in a type of detax group in order to avoid paying tax;
+z) the appellant was not involved in a business activity of any kind;
+aa) the appellant had no source of income with respect to his alleged business;
+bb) the appellant’s claim for “Moneys owed to the Animator by the Agent in paper money” consists solely of personal and living expenses;
+cc) the appellant did not make or incur the claimed “Moneys owed to the Animator by the Agent in paper money” expenses for the purpose of gaining or producing income from business or property;
+2009 Claimed Business Loss
+dd) in filing his 2009 tax return, the appellant claimed a business loss in the amount of $22,610 (the previously defined Claimed Business Loss);
+ee) the Claimed Business Loss, if allowable, would have resulted in a refund of some taxes withheld at source for the 2009 taxation year;
+ff) the appellant claimed in the business statement in his income tax return for the 2009 taxation year that the business was an “Art Services + Investment Management Business”
+gg) the appellant’s position is based on script;
+hh) the Claimed business Loss in the amount of $22,610, was not in respect of the appellant’s alleged “Art Services + Investment Management Business”;
+ii) in reporting a net business loss in the amount of $22,610 for the 2009 taxation year, the appellant deducted the whole amount from his income;
+jj) the appellant claimed that he received no income from his alleged business;
+kk) the appellant’s claim for expenses as attached a Appendix “A” consisted solely of personal and living expenses (the “2009 Disallowed Expenses”);
+ll) the appellant did not make of incur the claimed 2009 Disallowed Expenses attached as Appendix “A” for the purpose of gaining or producing income for business or property;
+mm) the appellant was not involved in a business activity of any kind;
+nn) the appellant had no source of income with respect to his alleged business;
+oo) the appellant did not make or incur the claimed business loss for the purpose of gaining or producing income from business or property; and
+…
+Subsection 163(2) Penalties
+17. In applying a penalty under subsection 163(2) of the Act, for the 2007, 2008 and 2009 taxation years, the Minister relied on the following facts:
+a) the assumptions stated in paragraph 15 above;
+Reassessments and Issue: [17] In the ensuing reassessments the business expense claims were all denied, but included were assessments of subsection 163(2) penalties plus counterpart provincial penalties totaling $7,139, $9,013 and $1,337 for Mr. Romaker’s 2007, 2008 and 2009 taxation years.
+[18] I do not consider that in the hearing the Appellant effectively rebutted any of the above-reproduced assumptions. I do not believe he particularly sought to do so. The Appellant’s position simply is that he was misled by supposed experts and should not be penalized for having been taken in by these, in his words, “masterminds behind the scam”.
+Analysis: [19] The subsection 163(2) “gross negligence” penalty wording of immediate relevancy is as follows:
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of…
+[20] The two elements of subsection 163(2) to be established are:
+a) a false statement or omission in a return;
+b) knowledge or gross negligence in the making of, asserting to or acquiescing in the making of that false statement or omission.
+In accordance with Venne v Canada, [1984] FCJ 314 (TD), gross negligence requires something more than mere negligence. It involves a high degree of negligence tantamount to intentional acting or indifference as to whether the law is complied with or not.
+[21] I have considered the decisions of Torres v R, 2013 TCC 380; Strachan v R, 2015 FCA 60; Lauzon v R, 2016 TCC 71; Lauzon v R, 2016 FCA 298; Tomlinson v R, 2016 TCC 246; Chartrand v R, 2015 TCC 298.
+[22] As noted in Torres (supra) at paragraph 62, it is settled law that gross negligence can include wilful blindness. See also Villeneuve v Canada, 2004 DTC 6077 (FCA).
+[23] The Appellant testified that Mr. L. told him to just make up a business in order to best claim deductions, as the Appellant had no actual business. So the Appellant did make one up – a business engaged in “art services and investment management”. He testified that this came from the fact that his wife had an interest in art. See in this regard Ex. R-7 being a CRA form “Statement of Business or Professional Activities” for his 2009 taxation year. The above business description is written in the field headed “main product or service”. (In Part 5 an itemized listing of purported business expenses is set out, with the total of $22,610 shown at line 9369 as being a net loss.) The Appellant’s signature does not appear on this document.
+[24] Complying with a request to make up a business undertaking is indicative of an intentional false statement. But to give the Appellant the benefit of the doubt, I will decide this appeal on the basis of wilful blindness constituting gross negligence.
+[25] The guiding jurisprudence in this regard is Torres (supra) which sets out a check-list of items to be considered as “red flags” suggestive of an enquiry, absent which wilful blindness constituting gross negligence may be found.
+[26] One red flag is magnitude of the advantage or omission sought. Here, per Ex. R-8 for the 2007 taxation year a business loss of almost $70,000 was claimed in a letter to the Sudbury Tax Services Office dated September 2, 2008. The “other deductions” loss for “Due to Animator as Agent” claimed for the 2008 taxation year was $89,713 gross and $73,263 net. This all was fictitious. And for the 2009 year a business loss of $22,610 was claimed in respect of the fictitious “Art Services and Investment Management Business”. These are all substantial amounts that have been falsely stated and claimed, apparently without engendering any enquiry from the Appellant.
+[27] The education and experience of the taxpayer is a prominent red flag. The Appellant is a recently retired police officer who as such presumably spent his career dealing with persons of illegal action and intent. I feel obliged to say that one surely would not last long as a police officer were one gullible to the extent the Appellant is self-portrayed in this appeal. Also the Appellant’s education is significant – he had graduated Grade 13, therefore having a full secondary education.
+[28] The blatancy of the false statements as to existence of a fictional business and related losses and “other deductions” loss (2008) is extreme – another significant red flag.
+[29] Also, a noted red flag is if the supposed expert’s correspondence is incomprehensible and nonsensical. That is surely the case here. Portions of such language have been quoted at length herein, including at length from the Respondent’s pleadings, in order to show this. Further, the Appellant as noted above described what he heard in one of the seminars he attended as mostly “gibberish”. It is simply not credible, given all the circumstances herein, that the Appellant, a retired career police officer, dismissed the “gibberish” on the basis that the utterer was an expert, so he the Appellant would, or could, or should not expect to understand what was being said.
+[30] These observations extend also to the nonsensical and incomprehensible language appearing in the signature box for his 2008 tax return (Ex. R-5 noted above).
+Conclusion: [31] On the basis of the foregoing I readily find that this appeal should be dismissed. I am of the clear view that the appealed gross negligence penalties were properly assessed in respect of this Appellant for his 2007, 2008 and 2009 taxation years. The dismissal of this appeal shall be with costs, as sought by the Respondent.
+This Amended Reasons for Judgment is issued in substitution for the Reasons for Judgment dated December 1, 2017.
+Signed at Ottawa, Canada, this 8th day of February 2018.
+“B. Russell”
+Russell J.
+CITATION:
+2017TCC241
+COURT FILE NO.:
+2012-1943(IT)G
+STYLE OF CAUSE:
+PHILIP ROMAKER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+July 6, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+December 1, 2017
+DATE OF AMENDED JUDGMENT
+AND REASONS FOR JUDGMENT: February 8, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dominique Gallant
+Katie Beahen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

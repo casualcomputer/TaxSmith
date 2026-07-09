@@ -1,0 +1,227 @@
+---
+title: "Bhatti c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31174/index.do"
+last_modified: "2013-05-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 143"
+citation2: ""
+neutral_citation: "2013 CCI 143"
+decision_date: "2013-05-06"
+language: "fr"
+item_id: "31174"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5068
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:19:47.907000+00:00"
+cases_cited_count: 4
+cases_citing_count: 32
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "089635127e79c6584f2d77e39a50f1515f584fbff1b653c960eac679e322fc3f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bhatti c. La Reine
+
+- Citation: 2013 CCI 143
+- Decision date: 2013-05-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5068, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bhatti c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-05-06
+Référence neutre
+2013 CCI 143
+Numéro de dossier
+2011-3754(IT)I, 2011-3755(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3755(IT)G
+ENTRE :
+RAJPAL BHATTI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Manjit Bhatti (2011‑3754(IT)I), le 29 avril 2013, à Vancouver (Colombie‑Britannique)
+Devant : L'honorable juge Campbell J. Miller
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Kristian DeJong et
+Me Pavanjit K. Mahil Pandher
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies au titre de la Loi de l'impôt sur le revenu pour les années d'imposition 2007 et 2008 sont rejetés.
+Signé à Vancouver (Colombie‑Britannique), ce 6e jour de mai 2013.
+« Campbell J. Miller »
+Le juge C. Miller
+Traduction certifiée conforme
+ce 8e jour de juillet 2013.
+Yves Bellefeuille, réviseur
+Dossier : 2011-3754(IT)I
+ENTRE :
+MANJIT BHATTI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Rajpal Bhatti (2011‑3755(IT)G), le 29 avril 2013, à Vancouver (Colombie‑Britannique)
+Devant : L'honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l'appelante :
+M. Bijay Ram
+Avocats de l'intimée :
+Me Pavanjit K. Mahil Pandher et
+Me Kristian DeJong
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie au titre de la Loi de l'impôt sur le revenu (la « Loi ») pour l'année d'imposition 2007 est accueilli, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait :
+a) qu'aucune pénalité n'est exigible au titre du paragraphe 163(2) de la Loi en ce qui touche le supposé gain en capital imposable de 39 418 $ pour l'immeuble locatif sis au 6838, 135e Rue, à Surrey (Colombie‑Britannique).
+L'appel interjeté à l'encontre de la cotisation établie au titre de la Loi pour l'année d'imposition 2008 est rejeté.
+Signé à Vancouver (Colombie‑Britannique), ce 6e jour de mai 2013.
+« Campbell J. Miller »
+Le juge C. Miller
+Traduction certifiée conforme
+ce 8e jour de juillet 2013.
+Yves Bellefeuille, réviseur
+Référence : 2013 CCI 143
+Date : 20130506
+Dossier : 2011‑3755(IT)G
+ENTRE :
+RAJPAL BHATTI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2011-3754(IT)I
+ENTRE :
+MANJIT BHATTI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] [TRADUCTION] « J'ai été trop cupide. » C'est ce qu'a admis M. Bhatti en expliquant comment il avait pu produire une déclaration demandant un remboursement de 31 000 $, somme promise par une organisation malhonnête qui a préparé des déclarations reposant sur des pertes d'entreprise fictives. Bien souvent la Cour soupçonne ce que M. Bhatti a laissé échapper aussi franchement : la cupidité peut être trop souvent un malheureux facteur de motivation.
+[2] L'appel de M. Bhatti sous le régime de la procédure générale et celui de Mme Bhatti sous le régime de la procédure informelle ont été entendus en même temps. Dans les deux cas, la seule question à trancher a trait aux pénalités imposées par le fisc. Les pénalités de Mme Bhatti ont été imposées au titre du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi ») (communément appelées pénalités pour faute lourde) en raison de son omission de déclarer des revenus locatifs en 2007 et en 2008 ainsi que de l'omission de déclarer un gain en capital lors de la disposition d'un immeuble locatif en 2007. M. Bhatti fait aussi face à des pénalités prévues au paragraphe 163(2), qui reposent sur les mêmes fondements que les pénalités de Mme Bhatti, mais qui reposent également sur l'omission de déclarer un revenu d'entreprise en 2008 et aussi sur la déclaration, en 2008, de pertes d'entreprise fictives de 477 716 $.
+[3] Lors de l'interrogatoire principal, les témoignages de M. Bhatti et de Mme Bhatti se sont surtout limités à affirmer qu'ils avaient simplement suivi des conseils professionnels lors de la production de leurs déclarations et que, si une faute lourde a été commise, ce sont les spécialistes en déclarations, et non eux personnellement, qui en sont responsables.
+[4] Malheureusement, Mme Bhatti n'était pas bien du tout : sa voix était faible et ses souvenirs étaient vagues. J'ai pu comprendre, cependant, qu'une partie de la maison où elle et M. Bhatti vivaient à Surrey avait été louée par quatre personnes qui habitaient les appartements du rez‑de‑chaussée en 2007 et en 2008. C'est principalement M. Bhatti qui avait trouvé les locataires et qui percevait le loyer. Mme Bhatti s'occupait des factures des dépenses ménagères. Elle travaillait comme aide de maintien à domicile, après avoir obtenu un diplôme dans ce domaine à la suite d'une formation de six mois.
+[5] Madame Bhatti ne participait pas à la préparation de ses déclarations de revenus. M. Bhatti remettait tous les documents nécessaires à leur comptable, M. Sidhu, pour qu'il remplisse les déclarations. M. Bhatti allait ensuite les chercher pour les faire signer par Mme Bhatti. Elle a affirmé qu'elle ne faisait que les signer sans les regarder.
+[6] Monsieur Bhatti a affirmé qu'en ce qui concerne le revenu tiré de la location des appartements de leur résidence principale, de 13 950 $ et de 9 700 $ en 2007 et en 2008 respectivement, il avait discuté de la question avec M. Sidhu, à qui il faisait beaucoup confiance. Ce dernier lui avait signalé que les dépenses seraient probablement plus élevées que le revenu et qu'il n'était donc pas nécessaire de déclarer ce revenu. Cette explication ne correspondait pas à ce que M. Bhatti avait déclaré lors des interrogatoires préalables ni avec ce qu'il avait allégué dans son avis d'appel. Lors de l'interrogatoire préalable et dans son avis d'appel, M. Bhatti laisse entendre qu'il n'avait jamais réellement informé M. Sidhu du revenu qu'il tirait de la location d'appartements dans son domicile. Je tiens compte de cette contradiction eu égard au fait que M. Sidhu n'a pas été appelé à témoigner, et je conclus que l'explication donnée par M. Bhatti lors du procès n'est tout simplement pas exacte. Il peut avoir pensé que ses dépenses excéderaient peut‑être ses revenus de location, mais ce n'est pas M. Sidhu qui lui en a parlé.
+[7] En 2007, un immeuble locatif sis au 6838, 135e Rue, à Surrey (l'« immeuble locatif »), enregistré aux noms de M. Bhatti et de Mme Bhatti, a été vendu, ce qui a mené à un gain en capital imposable d'environ 78 800 $, ou 39 000 $ chacun. M. Bhatti et Mme Bhatti avaient déclaré des revenus de location tirés de cet immeuble en 2004, en 2005 et en 2006, bien que Mme Bhatti ait soutenu n'avoir touché aucun revenu de location avant 2007. En fait, elle a nié avoir été au courant de l'existence de l'immeuble locatif. Ni elle ni M. Bhatti n'avaient déclaré le gain en capital imposable. Mme Bhatti était confuse et vague lors de ses réponses relatives à l'immeuble et, dans une certaine mesure, elle semblait ne pas comprendre ce dont il s'agissait. Elle a soutenu avoir rédigé son avis d'appel, qui fait clairement référence à la vente de l'immeuble locatif. Elle a maintenu que la mention de l'immeuble locatif dans l'avis d'appel était tout simplement une erreur.
+[8] Monsieur Bhatti a affirmé que son nouveau comptable, M. Ram, qui a agi comme représentant de Mme Bhatti lors du procès, avait aidé à la rédaction des avis d'appel. Compte tenu des ressemblances entre les avis d'appel de M. Bhatti et de Mme Bhatti, je conclus que cette dernière n'avait pas vraiment rédigé son avis d'appel. Il n'est donc pas étonnant que la mention de la vente de l'immeuble locatif l'ait laissée perplexe. Le fait qu'elle avait laissé la préparation des déclarations à son époux et au comptable, le fait qu'elle croyait ne pas avoir touché de revenu locatif avant 2007, le fait que je ne crois pas qu'elle ait rédigé son avis d'appel et sa confusion totale au sujet de la vente de cet immeuble m'amènent à conclure que l'immeuble locatif était géré uniquement par M. Bhatti et que Mme Bhatti ignorait tout de cette affaire.
+[9] Monsieur Bhatti, cependant, était parfaitement au courant du produit de la vente de l'immeuble locatif. Il n'a pas informé M. Sidhu de la disposition de l'immeuble; il prétend n'avoir pas été au courant du fait qu'un tel produit de la vente devait être déclaré. Ce n'est pas le premier gain en capital de M. Bhatti, ni sa seule vente de bien immobilier. M. Bhatti a non seulement construit la maison dans laquelle il vivait avec son épouse en 2004, mais aussi, en 2006, il a créé une entreprise de construction dénommée Jivu Construction, avec un associé, M. Gandhi. En 2007, la société de personnes a construit et vendu un duplex à Surrey. En 2008, M. Bhatti, avec M. Gandhi et un troisième associé, M. Gill, a construit et vendu une autre maison à Surrey. M. Bhatti a réalisé un bénéfice d'environ 23 160 $ lors de la vente; il a omis de le déclarer.
+[10] Avant d'examiner le témoignage de M. Bhatti à l'égard de la perte fictive de 477 000 $ déclarée en 2008, il convient de noter que, jusqu'en 2008, il s'en remettait à M. Sidhu pour la préparation de ses déclarations. Son revenu se composait principalement d'un revenu d'emploi comme débardeur, et d'un revenu de placement et d'un revenu locatif moins importants. M. Sidhu remplissait les déclarations en fonction des renseignements que lui fournissait M. Bhatti. Ce dernier a mentionné que ses remboursements d'impôt s'élevaient en moyenne à 3 000 $ ou 4 000 $ par année.
+[11] J'examine maintenant le témoignage de M. Bhatti en ce qui concerne les pertes commerciales fictives qu'il a déclarées et qui ont donné lieu à un remboursement de 31 000 $ pour son année d'imposition 2008. Une annonce affichée dans le milieu de travail de M. Bhatti et de ses collègues par une organisation appelée Fiscal Arbitrators a attiré leur attention. L'un des collègues de M. Bhatti, M. Bal, a confirmé l'existence de l'affiche et l'intérêt qu'elle avait suscité chez ses collègues, ce qui avait amené plusieurs d'entre eux à rencontrer des représentants de Fiscal Arbitrators. La rencontre avait eu lieu en présence de M. John Gillespie, auquel s'était joint par la suite M. Larry Watts, qui avait expliqué que des dépenses pouvaient être déduites pour obtenir des remboursements d'impôt importants. M. Gillespie et M. Watts semblaient projeter une image professionnelle aux yeux de M. Bal et de M. Bhatti et semblaient aussi être bien informés. L'un d'eux avait même affirmé avoir travaillé pendant un certain temps à l'Agence du revenu du Canada (l'« ARC »). Fiscal Arbitrators a recommandé à M. Bhatti et à ses collègues d'obtenir de l'ARC les cotisations pour les dix dernières années. M. Bhatti en a fait la demande et a transmis l'information obtenue à M. John Gillespie chez Fiscal Arbitrators. Il a été informé qu'il recevrait un remboursement de l'intégralité de l'impôt de 2008 qui avait été payé en raison de son emploi (environ 31 000 $). Un peu plus tard, Fiscal Arbitrators a remis à M. Bhatti un tableau indiquant que des pertes pouvaient être utilisées pour compenser un montant d'environ 103 000 $ au titre de l'impôt des années antérieures. M. Bhatti a également été avisé qu'il aurait à verser 500 $ pour la préparation initiale de sa déclaration s'il souhaitait aller de l'avant et, finalement, qu'il aurait à payer à Fiscal Arbitrators 20 p. 100 de tout remboursement qu'il recevrait de l'ARC, et que les 500 $ seraient soustraits de ce montant de 20 p. 100. M. Bhatti a effectivement payé à Fiscal Arbitrators 20 p. 100 de son remboursement de 31 000 $, moins 500 $.
+[12] Monsieur Bhatti n'a pas signé de contrat tout de suite avec Fiscal Arbitrators, mais il a reçu des appels de M. John Gillespie, qui insistait pour qu'il signe. Il en a discuté avec son épouse et son comptable, M. Sidhu, qui lui ont tous deux déconseillé de le faire. En interrogatoire préalable, M. Bhatti a reconnu que son épouse et son comptable lui avaient laissé entendre qu'il commettrait une fraude; M. Bhatti n'avait pas un souvenir aussi clair de ce fait au procès.
+[13] Monsieur Bhatti n'a pas tenu compte des conseils de son épouse et de son comptable; il a avisé M. Sidhu de ne pas remplir sa déclaration de 2008 et en a plutôt confié la préparation à Fiscal Arbitrators, qui l'a ensuite retournée à M. Bhatti. Des papillons jaunes avaient été apposés aux endroits où M. Bhatti devait signer. Les documents comprenaient des directives selon lesquelles il devait écrire [TRADUCTION] « par » devant sa signature. La déclaration comprenait un [TRADUCTION] « état des résultats des activités du mandataire » indiquant un montant [TRADUCTION] « perçu comme mandataire pour le compte des mandants » d'environ 1 000 000 $, des biens vendus et des dépenses de Jivu Construction d'un coût de 744 000 $, plus 612 000 $ correspondant à un [TRADUCTION] « montant versé au mandant en échange de travail accompli », ce qui donnait une perte d'environ 477 000 $. C'était complètement absurde.
+[14] Monsieur Bhatti a admis franchement qu'il s'agissait tout simplement de chiffres inventés. Il n'avait aucune idée de ce que ces chiffres voulaient dire et il savait en tout cas qu'ils n'étaient liés à aucun revenu d'entreprise ou d'emploi : en fait, il n'avait aucune idée de ce que ces chiffres voulaient dire, sauf qu'il en résulterait un remboursement important. Ainsi qu'il l'a affirmé : [TRADUCTION] « J'étais simplement heureux d'avoir mon argent. » À l'époque, il a porté peu d'attention à ces chiffres.
+[15] Monsieur Bhatti a signé la déclaration. Il n'a jamais appelé l'ARC, un fiscaliste ou tout autre comptable. Il soutient avoir été endoctriné par Fiscal Arbitrators.
+[16] Monsieur Bhatti a obtenu son remboursement de 31 000 $. L'ARC a ensuite établi une nouvelle cotisation et a rejeté les pertes d'entreprise fictives de 477 716 $. L'ARC a ajouté aux déclarations de 2007 et de 2008 de M. Bhatti et de Mme Bhatti un revenu de location net de 4 471 $ et de 2 943 $ respectivement; elle a établi un gain en capital imposable de 39 418 $ découlant de la vente de l'immeuble locatif à l'égard de chacun d'eux, et elle a ajouté 23 116 $ au revenu d'entreprise de M. Bhatti en 2008 tiré de la vente de la maison de Surrey que lui et ses associés avaient construite. L'ARC a également imposé des pénalités au titre du paragraphe 163(2) de la Loi en fonction de ces montants. Ce sont ces pénalités qui sont en cause.
+Analyse
+[17] Le paragraphe 163(2) de la Loi est libellé ainsi :
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+[...]
+[18] Conformément au paragraphe 163(3) de la Loi, il incombe à la Couronne de démontrer que le paragraphe 163(2) de la Loi s'applique. La Couronne doit donc prouver :
+a) qu'il y a eu un faux énoncé ou une omission;
+b) que le faux énoncé ou l'omission a été fait :
+i) soit sciemment,
+ii) soit dans des circonstances équivalant à faute lourde.
+Il y a de nombreuses décisions au sujet de ce qui constitue une faute lourde. L'énoncé classique du terme se trouve dans la décision de la Cour fédérale dans Venne c. Canada[1] :
+Quant à la possibilité d'une faute lourde, j'ai conclu, après hésitation, qu'elle n'a pas non plus été établie ici. La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi. Je ne conclus pas à l'existence d'un tel degré de négligence en rapport avec les faux énoncés de revenus commerciaux. Certes, le contribuable n'a pas fait preuve de la prudence d'un homme raisonnable et, comme je l'ai déjà fait remarquer, il aurait au moins dû réviser ses déclarations de revenus avant de les signer. Ce faisant, un homme raisonnable, eu égard aux autres renseignements dont il disposait, aurait été amené à croire que quelque chose n'allait pas et aurait cherché à en savoir plus long auprès de son teneur de livres.
+[19] En fait, dans une décision récente rendue en 2012, Chénard c. La Reine[2], qui mettait en cause la même organisation malhonnête, Fiscal Arbitrators, le juge Bédard s'est appuyé sur l'explication qu'avait faite l'ancien juge en chef Bowman de la distinction qui existe entre la faute ordinaire et la faute lourde, dans DeCosta c. La Reine[3] :
+11. Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde », il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l'importance de l'omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l'erreur, ainsi que le niveau d'instruction du contribuable et son intelligence apparente. Il n'existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu'il convient dans le contexte de l'ensemble de la preuve.
+12. Qu'en est‑il ici? Un homme fort intelligent qui déclare un revenu d'emploi de 30 000 $ et qui omet de déclarer des ventes brutes d'environ 134 000 $ et des bénéfices nets de 54 000 $. Même si son comptable doit assumer une certaine part de responsabilité, je ne crois pas que l'on peut dire que l'appelant peut signer nonchalamment sa déclaration et passer outre à l'omission d'un montant qui représente presque le double du montant qu'il a déclaré. Une attitude aussi cavalière va au‑delà du simple manque d'attention.
+[20] La Cour d'appel fédérale a adopté le terme « aveuglement volontaire » pour expliquer ce qui peut constituer une faute lourde (voir, par exemple, Procureur général c. Villeneuve, 2004 CAF 20). Le juge Favreau a invoqué cette notion dans la décision Brochu c. Canada[4], en concluant que les pénalités s'appliquaient :
+Depuis l'arrêt Villeneuve, la question ne se limite plus à déterminer si un contribuable avait connaissance de la négligence du spécialiste et s'il a fait preuve d'indifférence, mais comprend également le cas où il s'en est remis aveuglément au préparateur pour ses affaires. En l'espèce, même si l'appelante n'avait pas une connaissance délibérée et intentionnelle des erreurs de madame Tremblay, elle a tout de même fait preuve d'aveuglement volontaire.
+[21] Compte tenu de cet état du droit, les pénalités ont‑elles été imposées à juste titre à M. Bhatti et à Mme Bhatti, conformément au paragraphe 163(2) de la Loi?
+[22] Je traiterai d'abord des pénalités en ce qui touche les pertes d'entreprise fictives de 477 000 $ déclarées par M. Bhatti. Premièrement, s'agit‑il d'un faux énoncé? Oui, M. Bhatti l'a admis. Deuxièmement, M. Bhatti l'a‑t‑il fait sciemment ou dans des circonstances équivalant à faute lourde? M. Bhatti a vu et a signé sa déclaration. Je crois qu'il a vu le revenu de 1 000 000 $ et la perte de 477 000 $. Il savait que ces chiffres n'étaient tout simplement pas vrais. Il a fait sciemment un faux énoncé à cet égard.
+[23] Même si j'accepte son explication selon laquelle il n'a pas examiné la déclaration de manière suffisamment approfondie pour se rendre compte que le remboursement avait été établi à partir de chiffres inventés, il a alors fait preuve d'un tel aveuglement volontaire, sans se soucier de savoir s'il se conformait à la loi ou non, que son attitude constituait une faute lourde.
+[24] La raison pour laquelle j'en arrive à cette conclusion est la suivante :
+a) la réclamation excédait de beaucoup son revenu global;
+b) il a eu en maintes occasions la possibilité de constater qu'il y avait un faux énoncé :
+i) le montant du remboursement à lui seul aurait dû éveiller des soupçons;
+ii) sa femme et son comptable lui ont dit qu'il semblait y avoir fraude;
+iii) un examen sommaire de la déclaration elle‑même aurait révélé une perte complètement inexplicable de 500 000 $;
+iv) on lui a demandé de signer la déclaration en ajoutant le terme [TRADUCTION] « par ».
+Ce ne sont pas des signes subtils d'un problème possible, mais des feux rouges clairs, et M. Bhatti n'a rien fait.
+c) M. Bhatti ne manquait pas d'expérience pour ce qui était de savoir ce en quoi consistaient un revenu d'entreprise et des pertes d'entreprise. Il touchait non seulement un revenu d'emploi, mais aussi un revenu de son entreprise de construction. De plus, il touchait un revenu de placement et un revenu de location. Il ne manquait pas d'expérience dans le domaine commercial.
+Il avait la possibilité, l'expérience et les connaissances nécessaires pour se rendre compte que ce montant de 31 000 $ ne pouvait découler que de faux énoncés. Il s'agit d'un cas classique d'aveuglement volontaire où des pénalités devraient s'appliquer.
+[25] Je crois comprendre qu'il y a eu quelques appels touchant des pénalités liées à Fiscal Arbitrators, qui ont tous été rejetés, même s'il s'agit du premier cas du genre à être entendu sous le régime de la procédure générale. Sans doute, d'autres qui se sont laissé emporter par la cupidité partagent la préoccupation de M. Bhatti, à savoir que ceux qui sont vraiment à blâmer, ce sont les responsables de Fiscal Arbitrators. Malheureusement, ce sont eux qui ont présenté le gain, et M. Bhatti a volontiers succombé à l'appât.
+[26] J'examine maintenant l'omission de M. Bhatti de déclarer le revenu d'entreprise de 23 160 $ tiré de la vente, en 2008, de la maison de Surrey qu'il possédait avec ses deux associés. Encore une fois, je conclus que M. Bhatti savait qu'il avait touché ce revenu et qu'il a donc sciemment omis de le déclarer. Ses propres états financiers de la société de personnes indiquaient ce revenu.
+[27] Ensuite, en ce qui concerne les revenus de location des appartements situés dans leur résidence principale, je n'admets pas l'affirmation de M. Bhatti selon laquelle, parce que le loyer provenait de sa résidence principale, il ignorait qu'il devait le déclarer. Il avait d'autres revenus de location; il savait ce qu'était un loyer. Il percevait lui‑même le loyer de ses locataires. Il a sciemment omis de déclarer ces revenus.
+[28] Enfin, en ce qui concerne l'omission de déclarer le gain en capital réalisé lors de la disposition de l'immeuble locatif, M. Bhatti connaissait bien les gains en capital et le produit de la disposition de biens immobiliers. Il travaillait dans le secteur de la construction domiciliaire et savait que le produit de ces ventes constituait un revenu d'entreprise. Il savait qu'un gain de 80 000 $ lors de la vente d'un immeuble locatif comportait des conséquences fiscales. Même s'il n'en était pas certain, le fait de présumer qu'il n'y avait pas d'incidences fiscales va au‑delà du simple manque d'attention. C'est le type même d'attitude cavalière ou de nonchalance à l'égard de la conformité à la loi qui, selon la jurisprudence, constitue une faute lourde entraînant les pénalités prévues au paragraphe 163(2) de la Loi.
+[29] Je ne doute pas un instant que le résultat de ces pénalités impose un lourd fardeau financier à M. Bhatti, un fardeau qu'il affirme ne peut‑être jamais pouvoir assumer, mais ce n'est pas une raison pour ne pas imposer une pénalité qui est manifestement justifiée. Le résultat est sévère, et la leçon est douloureuse pour M. Bhatti. On ne peut qu'espérer que ce sera une leçon pour d'autres personnes attirées par un stratagème fiscal qui semble trop beau pour être vrai. Inévitablement, ce ne sera que cela.
+[30] J'examine maintenant les pénalités de Mme Bhatti. Même si elle ne participe pas aussi étroitement aux ententes de location dans la résidence, elle savait très bien qu'ils recevaient un loyer de leurs locataires. Elle a sciemment omis de déclarer le loyer perçu. Il est tout simplement insuffisant d'affirmer ne pas avoir vérifié ses déclarations. Confier aveuglément ses obligations à quelqu'un d'autre sans même une vérification minimale de l'exactitude de la déclaration va au‑delà de l'imprudence. Donc, même si elle n'a pas sciemment omis de déclarer le revenu, elle a certainement adopté l'attitude cavalière du laisser‑aller. Elle s'occupait des factures des dépenses ménagères, elle avait suivi une formation liée à la carrière qu'elle avait choisie, et elle était une femme intelligente. Signer une déclaration donne simplement la possibilité de s'assurer de son exactitude. Certes, les montants du loyer (4 471 $ et 2 943 $) n'étaient peut‑être pas importants dans les déclarations de M. Bhatti, mais le revenu de Mme Bhatti était beaucoup moins élevé, et ces montants n'auraient pas été négligeables.
+[31] Enfin, en ce qui concerne les gains en capital tirés de la vente de l'immeuble locatif, j'estime que l'intimée n'a pas prouvé, selon la prépondérance des probabilités, que Mme Bhatti savait ou aurait dû savoir qu'elle avait fait une omission, sciemment ou dans des circonstances équivalant à faute lourde. J'interprète la preuve de Mme Bhatti, selon la prépondérance des probabilités, en faveur d'une conclusion selon laquelle elle ignorait simplement tout de l'immeuble locatif. Elle ne croyait pas qu'elle touchait un revenu locatif d'un tel immeuble et, en fait, elle ne semblait pas savoir à propos de quel immeuble elle était interrogée. Je conclus que, bien que l'immeuble ait peut‑être été détenu conjointement, elle ignorait tout de cette affaire. Je ne peux conclure de ce fait qu'elle a agi sciemment ou a commis une faute lourde en omettant de déclarer un gain.
+[32] En conclusion, je rejette les appels de M. Bhatti relatifs aux deux années ainsi que l'appel de Mme Bhatti relatif à 2008. J'accueille l'appel de Mme Bhatti en ce qui a trait à son année d'imposition 2007 et je renvoie l'affaire au ministre du Revenu national pour nouvel examen et nouvelle cotisation, en tenant compte du fait qu'aucune pénalité n'est exigible au titre du paragraphe 163(2) de la Loi en ce qui touche le supposé gain en capital imposable de 39 418 $ pour l'immeuble locatif.
+[33] Je n'ai pas l'intention de remuer le couteau dans la plaie en adjugeant des dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 6e jour de mai 2013.
+« Campbell J. Miller »
+Le juge C. Miller
+Traduction certifiée conforme
+ce 8e jour de juillet 2013.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2013 CCI 143
+NOS DE DOSSIER DE LA COUR : 2011-3755(IT)G et 2011-3754(IT)I
+INTITULÉS : Rajpal Bhatti c. Sa Majesté la Reine
+Manjit Bhatti c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE : Le 29 avril 2013
+MOTIFS DU JUGEMENT : L'honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 6 mai 2013
+COMPARUTIONS :
+Pour l'appelant Rajpal Bhatti :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Kristian DeJong et
+Me Pavanjit K. Mahil Pandher
+Représentant de l'appelante Manjit Bhatti :
+M. Bijay Ram
+Avocats de l'intimée :
+Me Pavanjit K. Mahil Pandher et
+Me Kristian DeJong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant : Rajpal Bhatti
+Nom : s.o.
+Cabinet :
+Pour l'appelante : Manjit Bhatti
+Nom : s.o.
+Cabinet :
+Pour l'intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] [1984] A.C.F. no 314 (QL) (C.F. 1re inst.).
+[2] 2012 CCI 211.
+[3] 2005 CCI 545.
+[4] 2011 CCI 75.

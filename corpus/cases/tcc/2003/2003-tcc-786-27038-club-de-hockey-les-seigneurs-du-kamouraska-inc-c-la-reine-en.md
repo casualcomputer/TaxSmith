@@ -1,0 +1,124 @@
+---
+title: "Club de Hockey les Seigneurs du Kamouraska Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27038/index.do"
+last_modified: "2003-11-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 786"
+citation2: ""
+neutral_citation: "2003 TCC 786"
+decision_date: "2003-11-10"
+language: "en"
+item_id: "27038"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 616
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:32:39.704000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "64ebfc2a34e420a38b0c0b25cedf385eeefa5f7953d60c749d9cd2c0137054d4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Club de Hockey les Seigneurs du Kamouraska Inc. c. La Reine
+
+- Citation: 2003 TCC 786
+- Decision date: 2003-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 616, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Club de Hockey les Seigneurs du Kamouraska Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-10
+Neutral citation
+2003 TCC 786
+File numbers
+2002-3928(GST)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-3928(GST)I
+BETWEEN:
+CLUB DE HOCKEY LES SEIGNEURS DE KAMOURASKA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on June 25th, 2003, at Rivière-du-Loup, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+Annik Doiron
+Counsel for the Respondent:
+Frank Archambault
+JUDGMENT
+The appeals from the assessments made under the Excise Tax Act for the periods from May 1, 1998, to April 30, 1999, and from May 1, 1999, to April 30, 2000, notices of which are dated April 25, 2001, are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of November 2003.
+"François Angers"
+Angers, J.
+Translation certified true
+on this 31st day of August 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC786
+Date: 20031110
+Docket: 2002-3928(GST)I
+BETWEEN:
+CLUB DE HOCKEY LES SEIGNEURS DE KAMOURASKA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers, J.
+[1] The appeals in this case were instituted from two assessments made by the Minister of National Revenue (the "Minister") under Part IX of the Excise Tax Act (the "Act") for the periods from May 1, 1998, to April 30, 1999, and from May 1, 1999, to April 30, 2000. Those assessments of the goods and services tax ("GST") are for $1,246.21 with interest of $127.33 and penalties of $142.92, for the first period, and $2,472.97 with interest of $111.67 and penalties of $113.67, for the second period.
+[2] The appellant states in its notice of appeal that it mistakenly collected the GST on admissions to its matches during the periods in issue since the admissions in question constitute exempt supplies under the Act. It further states in the notice that, for that same reason, it could not claim input tax credits. The appellant moreover conceded at the start of the hearing that it was not entitled to the input tax credits it had claimed and that the Minister had disallowed.
+[3] The appellant operates a semi-professional hockey club at the senior AA level and is a registrant for GST purposes. It was admitted by the parties that the appellant paid no remuneration in the form of salary to the players on its team. They are not employees, and the appellant does not have the required employer file with Quebec's Ministère du Revenu in order to make source deductions. The team's players receive indemnities or allowances for travelling and meal expenses, which are paid to them as a reimbursement for direct expenses they have defrayed.
+[4] The evidence showed that not only the players of the appellant's team were not remunerated but that this was also the case for all the players in the league. Clément Vallières, the president of the Ligue centrale de hockey senior AA du Québec, confirmed everything in a letter dated September 26, 2002, filed as Exhibit A-1.
+[5] The appellant had its accounting officer, Jean-Pierre Thibault, testify. Mr. Thibault explained that, during the years in issue, there were two types of tickets for attending hockey games: season tickets at $105 and single-game tickets for $6. He said that, in theory and in practice, both prices included applicable taxes, and taxes were remitted accordingly. Based on the opinion of his accounting firm, the appellant had no longer remitted the applicable taxes for approximately two years because the admissions were exempt supplies under section 11 of Part VI, Schedule V of the Act, which states that, where all the athletes taking part in an athletic event receive no remuneration, the supply of a right to be a spectator at that athletic event is exempt.
+[6] According to Mr. Thibault, the tax was paid out of the ticket price because he considered it as having been collected. Apart from the increases that became necessary the following year, the ticket prices were not changed as a result of the opinion of the accounting firm. He considered that, at that time, the tax no longer had any relation to the price of the tickets.
+[7] The respondent produced the two objections officers responsible for the case: Alain Therrien and Dany Lévesque. According to Mr. Therrien, the audit had focused mainly on the net tax variance in that he had adjusted the input tax credits, which resulted in the assessments in issue. He did not consider the income issue as such or examine the issue of whether the supply of a right to be a spectator was exempt. The issue of admissions being exempt from tax never arose.
+[8] Dany Lévesque testified that, for the purposes of the assessments, he had considered only the input tax credits and had wondered whether the appellant was entitled to them. He did not consider whether there was an exemption from the tax collected because the appellant's objection did not concern the cancellation of the tax. In any case, according to him, the spectators are the ones who would be entitled to the rebate if there was an exempt supply, and a proper rebate application would have to be made in order to obtain it.
+[9] Mr. Lévesque admitted, however, that the appellant's agent had raised this issue in a letter dated February 20, 2002. At that time, he had asked the appellant's agent to provide evidence in support of his position that this was an exempt supply but had not received anything. He concluded by maintaining his position that the assessment covered the input tax credits and not the tax collected and by asserting that no rebate application had been made. The notice of appeal was filed on October 4, 2002.
+[10] In the reply to the notice of appeal, the respondent nevertheless raised the issue of whether the appellant had mistakenly collected and remitted the tax on exempt supplies and, if so, whether it was entitled to the rebate.
+[11] Part VI of Schedule V of the Act concerns public sector bodies, and section 11 of that part makes a supply of a right to be a spectator at an athletic event exempt where the conditions stated in that section are met:
+11. [Right to be a spectator at a performance, athletic event or competitive event] - A supply of a right to be a spectator at a performance, athletic event or competitive event, where all or substantially all of the performers, athletes or competitors taking part in the performance or event do not receive, directly or indirectly, remuneration for doing so (other than a reasonable amount as prizes, gifts or compensation for travel or other expenses incidental to the performers', athletes' or competitors' participation in the performance or event, or grants paid by a government or a municipality to the performers, athletes or competitors), and no advertisement or representation in respect of the performance or event features participants who are so remunerated, but does not include a supply of a right to be a spectator at a competitive event in which cash prizes are awarded and in which any competitor is a professional participant in any competitive event.
+[12] This case concerns an athletic event in which all the participating athletes received no remuneration for taking part in the event, other than an amount for travelling expenses and meals. The evidence does not show that the travelling and meal expenses were unreasonable. The facts presented do not mention that cash prizes were awarded or that the players of the hockey league of which the appellant is a part are professionals. As Judge Mogan of this Court held in Cosmopolitan Music Society v. Canada, [1995] T.C.J. No. 263 (Q.L.), at paragraph 6:
+... the sale of a ticket to a truly amateur performance is free of GST....
+[13] Admissions to the appellant's hockey games could therefore be exempt supplies for the purposes of the Act. However, I have no authority to decide that question because the appeals concern, first, assessments made to adjust the appellant's net tax for the two periods in issue and, second, the appellant's right to an input tax credit in respect of the amounts paid to the players as reimbursement for travelling and meal expenses. However, the two assessments in question do not result from an application for rebate, and subsection 309(1) of the Act limits the Court's intervention to the assessment in appeal.
+309(1) The Tax Court may dispose of an appeal from an assessment by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment, or
+(ii) referring the assessment back to the Minister for reconsideration and reassessment.
+[14] Sections 232 and 261 of the Act provide for an adjustment where the tax was paid by mistake. However, certain conditions apply; there is a limitation period, for example. An application for rebate results in the Minister making an assessment under section 297 of the Act, which assessment may be appealed from.
+[15] For these reasons, and in light of the appellant's admission that it is not entitled to the input tax credits claimed, and in view of the assessments appealed from, I must dismiss the appeals.
+Signed at Ottawa, Canada, this 10th day of November 2003.
+"François Angers"
+Angers, J.
+Translation certified true
+on this 31st day of August 2004.
+Sophie Debbané, Revisor

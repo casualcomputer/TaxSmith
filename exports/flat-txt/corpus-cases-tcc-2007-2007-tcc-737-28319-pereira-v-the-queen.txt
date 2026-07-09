@@ -1,0 +1,150 @@
+Title: Pereira v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28319/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-737-28319-pereira-v-the-queen.md
+Document type: case_law
+Last modified: 2007-12-06
+
+# Pereira v. The Queen
+
+- Citation: 2007 TCC 737
+- Decision date: 2007-12-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1838, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pereira v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-12-06
+Neutral citation
+2007 TCC 737
+File numbers
+2005-4485(GST)G, 2005-4486(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-4485(GST)G
+BETWEEN:
+ALFONSO PEREIRA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Alfonso Pereira (2005-4486(IT)G) on September 17, 2007 at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+James N. Aitchison
+Counsel for the Respondent:
+Shatru Ghan
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, Notice of Assessment number 31469, dated January 28, 2003, for the period July 1, 1999 to September 30, 2000 is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of December 2007.
+"Diane Campbell"
+Campbell J.
+Docket: 2005-4486(IT)G
+BETWEEN:
+ALFONSO PEREIRA,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Alfonso Pereira (2005-4485(GST)G) on September 17, 2007 at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+James N. Aitchison
+Counsel for the Respondent:
+Shatru Ghan
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act, Notice of Assessment number 31483 dated March 18, 2003 is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of December 2007.
+"Diane Campbell"
+Campbell J.
+Citation: 2007TCC737
+Date: 20071206
+Dockets: 2005-4486(IT)G
+2005-4485(GST)G
+BETWEEN:
+ALFONSO PEREIRA,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] The Appellant was assessed by the Minister of National Revenue (the “Minister”) pursuant to section 323 of the Excise Tax Act, for the period July 1, 1999 to September 30, 2000, in respect to goods and services tax (GST), remittable by United Growth Inc. (the “Company”) together with penalties and interest. He was also assessed pursuant to subsection 227(10) and section 227.1 of the Income Tax Act, in respect to the 2002 taxation year, for unremitted source deductions, penalties and interest also relating to the Company. These provisions contained in both Acts provide for the liability of directors of a company where that company has failed to remit net tax.
+[2] There are two issues in these appeals:
+(1) Was the Appellant a director of the Company during the relevant periods; and
+(2) If the Appellant is a director did he exercise the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances within the meaning of subsection 227.1(3) of the Income Tax Act and subsection 323(3) of the Excise Tax Act.
+[3] The Appellant, his brother, Jose Pereira, and Marjorie Mann, a bookkeeper, testified. The Respondent called no witnesses.
+[4] The Appellant left school in grade 11 and since that time has worked as a bricklayer. In 1999 his older brother, Jose, also a bricklayer, approached him about entering into a business relationship and introduced him to an individual, Emanuel Bettencourt DeMelo (“DeMelo”). DeMelo held himself out to be an experienced, successful business person in the masonry industry who had previously operated a similar business and who possessed the necessary contacts with a lawyer, an accountant, a bank and potential clients. Consequently, the Company was incorporated on February 23, 1999 to provide masonry services. It was agreed that DeMelo would deal with administrative matters relating to the business with the assistance of his accountant. The Appellant testified that his duties in the Company related to the actual bricklaying. He was not involved in the management of the business nor had he ever been involved in management duties in any capacity in any other companies. He stated that he was to be a partner and a shareholder in the Company. He did not recall any discussions concerning directors of the Company when the minute book was signed at the lawyer’s office. The Company maintained no head office. There was no equipment as the main contractor supplied the necessary equipment on the job site. The Appellant and his brother, together with several other employees, were paid hourly union wages, with deductions being made from their paycheques. He received no compensation over and above his wages. He testified that he was not involved in any of the day‑to‑day business operations involving paying bills and wages or making out the cheques. He believed the accountant completed all of these duties. Two signatures were required on the cheques, and although he had never been introduced to this accountant, DeMelo would pick them up and then attend at the job site to obtain the signature of either the Appellant or his brother. Some of the cheques were payable to DeMelo for his wages but other cheques were also written to reimburse him for the cost of supplies, for example diesel and gasoline, which the main contractor did not supply. The Company was unable to obtain credit with suppliers and it was required to pay cash. The cheques, payable to DeMelo, ranged from one hundred dollars to several hundred dollars. He also recalled signing cheques payable to Revenue Canada.
+[5] In June 2000, DeMelo attended at a job site, where the Appellant and his brother were working, and advised them that the Company was losing money and that amounts were owed to the government. This was the first time the Appellant had ever been informed that some of the cheques that he had been signing to pay remittances to the government had not been sent by DeMelo. Within a day or two, the Appellant decided he would no longer continue to work with the Company and he and his brother insisted that a meeting be held at the accountant’s office to review the problems. DeMelo set up the appointment but never attended. The accountant’s secretary advised the two brothers that the accountant was not in the office but she provided them with copies of documentation. They then went to the bank and obtained copies of bank statements. It was after perusing the bank documents that they saw withdrawals of large amounts, in the range of $5,000.00 to $15,000.00. That same day, both brothers went to see a lawyer, that Jose Pereira knew, to discuss their options. Both the Appellant and his brother confronted DeMelo the following day about the discrepancies. The Appellant stated that DeMelo had all of the unremitted cheques for payroll deductions and GST in a briefcase in his truck. He told the Appellant that he intended to reimburse the Company for the missing amounts. Once informed that a lawyer was involved, DeMelo disappeared with much of this documentation. The brothers stopped further business activities within the Company and paid the other employees their wages to date together with union dues. When the Appellant was shown cheques in large amounts, payable to DeMelo, which contained the Appellant’s signature, he testified that when he signed these cheques, the amounts were for smaller sums and he believed these cheques were to be cashed by DeMelo to pay suppliers. In retrospect he now believes if for example, a cheque he signed was made out for $490.00 that DeMelo later tampered with the amount on the face of the cheque by adding figures so that the cheque in the end was cashed for an amount of $14,900.00.
+[6] The bookkeeper, Marjorie Mann, confirmed that she did not recall ever meeting the Appellant and his brother and believed that DeMelo was the sole owner of the Company. She also confirmed that she calculated remittances and GST and then prepared the cheques but released them to DeMelo for signature and remittance.
+[7] The Appellant’s brother confirmed that he did not recall any discussions concerning appointment of directors other than the business was to be a partnership. He stated that DeMelo picked the lawyer and bookkeeper to complete the business. He recalled seeing and signing cheques for source deductions and remittances, which he believed the bookkeeper prepared. He also testified that he believed DeMelo presented incomplete cheques for signature and then later altered the amounts.
+Analysis
+[8] A number of exhibits were entered which related to the corporate set up. The Articles of Incorporation (Exhibit A-1, Tab 8) dated February 23, 1999 named DeMelo alone as the first and only director of the Company. By‑Law No. 1, relating to the conduct of the business of the Company (Exhibit A-1, Tab 9) was signed by DeMelo. In that By-Law (Article 2.01) the appropriate deletions that establish the number of directors on the Board of the Company have not been properly completed. Article 2.04 specifies that the directors are to be elected at the first meeting of the shareholders of the Company. Article 5.01 of this same By-Law specifies that, except for the Chairman of the Board and its managing director, no other officers of the Company are required to be a director.
+[9] The first directors’ meeting (Exhibit A-1, Tab 10), held on March 23, 1999, in which DeMelo acted as Chairman and sole director, orders that if all of the shareholders attend a meeting, either personally or by proxy, they will elect a Board of Directors and appoint accountants. At a later hour on March 23, 1999, another directors’ meeting occurs in which DeMelo alone was in attendance, appointed himself as President and Secretary/Treasurer of the Company and dealt with banking resolutions (Exhibit A-1, Tab 11). The remaining and final meeting of directors, contained in the minute book (also Exhibit A-1, Tab 12) is dated March 31, 1999. It is signed by DeMelo as Chairman of the meeting and by the Appellant and his brother. They are referred to as being all of the directors of the Company. The two relevant paragraphs in these minutes are as follows:
+The Chairman stated that this meeting of the Board of Directors was being called for the purpose of introducing Jose Santos Pereira as Secretary/Treasurer and Alfonso Pereira as Vice President of the Corporation. They would be appointed as a Director of the Corporation and one (1) share of stock would be issued to Jose Santos Pereira and one (1) share of stock would be issued to Alfonso Pereira, forthwith, for the issuing price of one (1) dollar.
+On Motion duly made, seconded and carried unanimously it was Resolved that the following person be, and he is hereby elected or appointed officers of the Corporation, to hold office referred to opposite his respective names for the ensuing year, or until his successors are elected or appointed.
+Jose Santos Pereira-Secretary/Treasurer
+Alfonso Pereira-Vice President
+[10] The only shareholders’ meeting was held on March 23, 1999. At that meeting DeMelo, as the sole shareholder, attended and acted as Chairperson. By‑Laws 1 and 2 were approved, accountants were appointed and the Company (United Growth Inc.) was elected as director until the first annual meeting or until successors are appointed or elected.
+[11] Clearly these corporate exhibits establish that it is the shareholders who must elect the directors of the Company and in fact the first meeting of the provisional director on March 23, 1999 states that it is the shareholders who must meet to elect a Board of Directors and appoint an accounting firm. Yet there is no record of a shareholders’ meeting where the Appellant is appointed as a director. The only meeting of shareholders appoints the Company itself as a director. Although this is not appropriate without going on to appoint a nominee of the Company to the Board, it is all that is contained in the minute book. According to subsection 119(4) of the Ontario Business Corporations Act (the “OBCA”), the directors of a corporation shall be elected by the shareholders. That subsection states:
+Subject to clause 120(a), shareholders of a corporation shall elect, at the first meeting of shareholders and at each succeeding annual meeting at which an election of directors is required, directors to hold office for a term expiring not later than the close of the third annual meeting of shareholders following the election.
+[12] In addition, pursuant to subsection 119(9) of the OBCA, it is clear that written consent must be given by prospective directors before their appointment becomes effective. That subsection states:
+Subject to subsection (10), the election or appointment of a director under this Act is not effective unless the person elected or appointed consents in writing before or within 10 days after the date of the election or appointment.
+This presumably relates to the liability issues which directors face in assuming such a role within a corporation and establishes the requirement of personal knowledge by that director of his election or nomination to that role. Therefore directors must not only be elected by the shareholders but must also consent in writing to act. Neither the documentation nor the evidence in these appeals suggests the presence of either requirement.
+[13] The Respondent argued that by virtue of the Appellant signing the Minutes of the Directors’ meeting held on March 31, 1999 (Exhibit A-1, Tab 12) that consent was given. I conclude that the Respondent’s interpretation of these Minutes is completely incorrect. The Respondent is correct that there does not have to be a separate written agreement of consent but at minimum there must be some form of acknowledgment by the individual accepting the appointment. Although there is a reference to the Appellant becoming a director, the only Motion that was passed at this meeting was the appointment of the Appellant as Vice President. The By-Law No. 1 was clear that to be an officer, one did not first have to be a director. In fact this meeting itself is not properly constituted as the Appellant and his brother had never been elected by the shareholders as directors. The only director at this point in time was DeMelo. Even if there had been an attempt within this meeting to appoint the Appellant as a director (which it did not do), I would not recognize the appointment, as it was not legally effected by a shareholders’ meeting, as required by both the Company’s By-Laws and by the OBCA. As there was no election by the shareholders and no written consent, the Appellant cannot be a director of the Company.
+[14] Even if I were to conclude that the Appellant was a director of this Company, I would not find him liable for the amounts payable by the Company because I believe he meets the standard of care referenced in subsection 227.1(3) of the Income Tax Act and subsection 323(3) of the Excise Tax Act. The Appellant has never completed high school; he has worked all of his adult life as an employed bricklayer. He had no prior involvement in operating a business and absolutely no bookkeeping background. Given his complete lack of experience and sophistication in business, it was reasonable for him to rely upon DeMelo, who had prior business experience in masonry and had contacts for lawyers, accountants, banks and clients. After the delegation of administrative duties to DeMelo, it was reasonable for the Appellant to continue to place reliance upon him in the year that the business operated. He signed cheques for source deductions and remittances and was given no reason to believe these cheques were not being remitted. The first and only time that the Appellant became aware of the problems was in June 2000 when DeMelo advised him that there were cash flow problems. It was only then that the Appellant had knowledge that in fact the cheques were still in DeMelo’s briefcase. The Appellant believed that the Company was generating sufficient funds to pay its bills and he had no reason to be suspicious of DeMelo until June 2000. By signing cheques for the remittances, he was assured that these obligations were being met. As soon as the problems became known, the Appellant and his brother closed the Company’s operations, paid the remaining employees, sought legal advice, met with the accountant and the bank to get copies of documents in an attempt to piece together what had happened and tried to meet with DeMelo, who had already fled.
+[15] The personal education, experience and sophistication of the Appellant must play a role here. From the outset he was never involved in the daily management and administration of the Company. His role was limited to actual bricklaying and signing cheques that DeMelo delivered to the work site. There was no reason for him to suspect these cheques were not reaching the destinations stated on the face of the cheques. Once he did become aware of the problems, he took immediate and appropriate steps to deal with these problems.
+[16] In conclusion, I find that the Appellant was not a director of the Company and even if I had concluded that he was a director he would have exercised the degree of care, skill and diligence required by the Acts.
+[17] For these reasons, the appeals are allowed with costs to the Appellant.
+Signed at Ottawa, Canada, this 6th day of December 2007.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2007TCC737
+COURT FILES NO.:
+2005-4485(GST)G
+2005-4486(IT)G
+STYLE OF CAUSE:
+Alfonso Pereira and
+Her Majesty the Queen
+PLACE OF HEARING
+Toronto, Ontario
+DATE OF HEARING
+September 17, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT
+December 6, 2007
+APPEARANCES:
+Counsel for the Appellant:
+James N. Aitchison
+Counsel for the Respondent:
+Shatru Ghan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+James N. Aitchison
+Firm:
+Aitchison Law Office
+Oshawa, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

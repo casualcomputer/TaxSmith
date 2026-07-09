@@ -1,0 +1,261 @@
+---
+title: "Davidson c.  La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108539/index.do"
+last_modified: "2015-03-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 54"
+citation2: ""
+neutral_citation: "2015 CCI 54"
+decision_date: "2015-03-04"
+language: "fr"
+item_id: "108539"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2769
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:39:33.143000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "909921875e4b0b70f32c5d5c567b394215de79a0f941d2f1a53ce64ca8748655"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Davidson c.  La Reine
+
+- Citation: 2015 CCI 54
+- Decision date: 2015-03-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2769, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davidson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-03-04
+Référence neutre
+2015 CCI 54
+Numéro de dossier
+2013-1849(IT)G
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1849(IT)G
+ENTRE :
+JACINTA DAVIDSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 17 juillet 2014, à Toronto (Ontario)
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Kathleen Beahen
+JUGEMENT
+Les appels relatifs aux décisions prises en vertu de la Loi de l’impôt sur le revenu pour une partie de l’année d’imposition de base de 2008 (la période de paiement de prestations de mai et de juin 2010) et les années d’imposition de base de 2009 et de 2010, relativement à la Prestation fiscale canadienne pour enfants, sont rejetés.
+Les appels relatifs aux décisions prises en vertu de la Loi de l’impôt sur le revenu pour une partie de l’année d’imposition de base de 2008 (la période de paiement de prestations de septembre 2009 à avril 2010) et les années d’imposition de base de 2011 et de 2012, relativement à la Prestation fiscale canadienne pour enfants, sont annulés.
+Chacune des parties supportera les dépens qui lui sont propres.
+Signé à Toronto (Ontario), ce 4e jour de mars 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 17e jour de juillet 2015.
+Mario Lagacé, jurilinguiste
+Référence : 2015 CCI 54
+Date : 20150304
+Dossier : 2013-1849(IT)G
+ENTRE :
+JACINTA DAVIDSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Lyons
+[1] La question en litige dans le présent appel consiste à savoir si Mme Davidson, l’appelante, a droit à la Prestation fiscale canadienne pour enfants (la « prestation »). Lors de l’audience, Mme Davidson a confirmé qu’elle conteste les prestations qui ne s’appliquent qu’à la période de septembre 2009 à avril 2013[1].
+[2] Pour les besoins de la prestation, la période de paiement des prestations (la « PPP ») débute au mois de juillet qui suit la fin de l’année d’imposition de base (l’« AIB ») à laquelle elle se rapporte et elle dure un an, comme suit :
+AIB
+PPP
+2006
+Juillet 2007 à juin 2008
+2007
+Juillet 2008 à juin 2009
+2008
+Juillet 2009 à juin 2010
+2009
+Juillet 2010 à juin 2011
+2010
+Juillet 2011 à juin 2012
+2011
+Juillet 2012 à juin 2013
+2012
+Juillet 2013 à juin 2014
+I. Questions préliminaires [3] Il est utile d’exposer une partie du contexte procédural. Le 4 avril 2011, le ministre du Revenu national (le « ministre ») a reçu la demande de Mme Davidson concernant les AIB de 2006 à 2010. Le 20 septembre 2011, le ministre a décidé et informé Mme Davidson qu’elle n’était pas admissible à la prestation pour l’AIB de 2010 parce qu’elle ne répondait pas aux exigences. Le 30 juillet 2012, Mme Davidson a fait opposition[2]. Le ministre a demandé des renseignements relatifs à l’immigration ainsi que le permis de travail[3]. Mme Davidson a transmis le permis de travail ainsi que la lettre datée du 9 mars 2010 de CIC à l’ARC[4]. Le ministre a par la suite confirmé que la décision était correcte[5].
+[4] Le ministre n’a autorisé aucune prestation parce que Mme Davidson :
+a) n’a pas fourni de documents confirmant son statut d’immigrante pour les AIB de 2006 et 2007 et une partie de l’AIB de 2008 (PPP de juillet 2009 à avril 2010);
+b) ne répondait pas aux exigences relatives à son statut d’immigrante qui s’appliquaient aux prestations versées pour le reste de l’AIB de 2008 (PPP de mai et de juin 2010) et pour les AIB de 2009 et de 2010 (les « prestations applicables à la période pertinente »).
+[5] L’intimée a déposé une requête, qui a été accueillie, en vue de faire annuler l’appel concernant :
+1. l’AIB de 2011 parce que le ministre n’avait pas rendu une décision, comme l’a admis Mme Davidson, pour cette AIB[6];
+2. l’AIB de 2012 parce que Mme Davidson avait reçu la prestation pour cette AIB.
+[6] La période qui, comme Mme Davidson l’a confirmé, fait l’objet d’un appel se compose des AIB suivantes :
+a) une partie de l’année 2008 (PPP de septembre 2009 à juin 2010);
+b) l’année 2009 (PPP de juillet 2010 à juin 2011);
+c) l’année 2010 (PPP de juillet 2011 à juin 2012);
+d) une partie de l’année 2011 (PPP de juillet 2012 à avril 2013).
+[7] La thèse de l’intimée est la suivante :
+e) la PPP de septembre 2009 à avril 2010 (les « prestations rétroactives ») est soumise à une décision discrétionnaire du ministre parce que Mme Davidson a présenté une demande en avril 2011 et qu’elle ne peut demander des prestations que pour les onze mois (mai 2010) précédant la date de présentation de sa demande, et la Cour n’a pas compétence;
+f) la PPP de mai et de juin 2010, plus les AIB de 2009 et de 2010 (collectivement, les « prestations applicables à la période pertinente ») doivent être rejetées car Mme Davidson n’avait aucun des statuts exigés à l’alinéa 122.6e);
+g) la PPP de juillet 2012 à avril 2013 tombe dans l’AIB de 2011 et a été annulée.
+II. Les faits [8] Au moment de l’audience, Mme Davidson était âgée de 28 ans. Elle est née aux États-Unis et a déménagé au Canada en 1994, à l’âge de neuf ans, avec ses parents.
+[9] Depuis lors, Mme Davidson a vécu dans diverses villes en Ontario et a fait ses études primaires, secondaires et postsecondaires au Canada. Elle n’avait pas obtenu un permis d’études de Citoyenneté et Immigration Canada (« CIC ») à l’époque où elle fréquentait l’école secondaire, ni entre 2005 et 2012. En juin 2012, elle a obtenu un baccalauréat en sciences infirmières avec distinction à l’Université York[7].
+[10] Mme Davidson a déclaré qu’en septembre 2009, elle a quitté son époux violent, emmenant avec elle ses deux enfants, J.H., 9 ans, et J.E., 6 ans. Cela lui a causé des problèmes financiers, et il lui était impossible de payer le loyer, des aliments nutritifs et les besoins de base. En août 2010, J.N. est né. Avant septembre 2009, c’était son époux qui demandait la prestation.
+[11] En septembre 2007, Mme Davidson a présenté à CIC une demande de résidence permanente (la « demande »). En attendant que l’on examine sa demande, il lui a été impossible de travailler jusqu’à ce qu’elle reçoive un permis de travail, qui lui a été délivré le 20 octobre 2011.
+[12] La question en litige consiste à savoir si Mme Davidson a droit aux prestations rétroactives ainsi qu’aux prestations applicables à la période pertinente pour ses enfants, conformément aux dispositions de l’article 122.6 de la Loi de l’impôt sur le revenu (la « Loi »).
+[13] Mme Davidson déclare que la prestation a pour but de prévenir et de réduire la pauvreté infantile et d’aider à subvenir aux besoins essentiels de la vie en procurant une aide au revenu aux familles à revenus modiques. Sa position est la suivante : elle comprend la loi, mais il est injuste que le fait de ne pas avoir un statut d’immigrante – d’autant plus qu’elle vit au Canada depuis 1994 – fasse souffrir ses enfants.
+III. L’analyse [14] Mme Davidson a cité diverses sources pour faire valoir que l’on peut dire que des particuliers, des familles et des groupes au sein de la population vivent dans la pauvreté lorsqu’ils n’ont pas les ressources nécessaires pour obtenir les types d’aliments, prendre part aux activités et bénéficier de conditions de vie et de commodités qui sont habituels, encouragés ou approuvés dans la société[8]. En raison de son statut d’immigrante, la santé, le bien-être, la qualité de vie, le développement et l’instruction de ses enfants sont en péril, et il lui est difficile de subvenir aux besoins de base (par exemple, des repas nutritifs quotidiens) à cause de sa situation financière, qui restreint leur aptitude à participer à la vie de la société, ce qui perpétue un cycle de pauvreté. Elle a rompu le cycle de la pauvreté, et elle sollicite une dispense de l’application de la loi pour cause de compassion dans l’intérêt supérieur de ses enfants et du fait de sa situation particulière.
+Particulier admissible
+[15] Pour avoir droit à la prestation, une personne doit être considérée comme un « particulier admissible » au sens de l’article 122.6 de la Loi. Le passage pertinent se trouve à l’alinéa 122.6e), qui exige que le statut de « particulier admissible » à l’égard d’une personne à charge admissible désigne une personne qui répond aux conditions suivantes à ce moment :
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens du paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés,
+(ii) résident temporaire ou titulaire d’un permis de séjour temporaire visés par la Loi sur l’immigration et la protection des réfugiés ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) personne protégée au titre de la Loi sur l’immigration et la protection des réfugiés;
+(iv) quelqu’un qui fait partie d’une catégorie précisée dans le Règlement sur les catégories d’immigrants précisées pour des motifs d’ordre humanitaire pris en application de la Loi sur l’immigration. […]
+Prestations rétroactives
+[16] Les dispositions pertinentes de la Loi sont les suivantes :
+Particuliers admissibles
+122.62(1) Pour l’application de la présente sous-section, une personne ne peut être considérée comme un particulier admissible à l’égard d’une personne à charge admissible au début d’un mois que si elle a présenté un avis au ministre, sur formulaire prescrit contenant les renseignements prescrits, au plus tard onze mois après la fin du mois.
+Prorogation
+(2) Le ministre peut, en tout temps, proroger le délai prévu au paragraphe (1).
+[17] En réponse à sa demande du 4 avril 2011 à l’Agence du revenu du Canada (l’« ARC »), l’ARC a demandé une preuve que ses enfants vivaient avec elle et une preuve de son statut d’immigrante[9]. Par la suite, les prestations rétroactives ont été refusées à cause du manque de documentation sur son statut d’immigrante[10].
+[18] L’avocate de l’intimée fait valoir qu’étant donné que Mme Davidson n’a pas présenté avant le 4 avril 2011 une demande de prestations pour les PPP de septembre 2009 à avril 2010, le ministre a exercé son pouvoir discrétionnaire de refuser les prestations rétroactives parce que Mme Davidson n’en avait pas fait la demande dans le délai de onze mois, comme le prévoit le paragraphe 122.62(1), qui suivait la PPP et qu’elle n’était donc pas un particulier admissible.
+[19] Dans la décision Nicholls c Canada, 2011 CCI 287, 2011 DTC 1213, la Cour fait remarquer que l’intention du législateur est de limiter une demande rétroactive de prestations aux onze mois antérieurs à la date de la demande, sous réserve du pouvoir discrétionnaire du ministre de proroger ce délai. Elle a également conclu qu’une décision de ne pas proroger le délai prescrit pour présenter une demande rétroactive est également de nature discrétionnaire; de ce fait, un contribuable ne peut pas interjeter appel auprès de la Cour canadienne de l’impôt car il ne s’agit pas d’un avis de décision qui donne droit à un contribuable de faire appel.
+[20] Conformément au paragraphe 122.62(1) de la Loi, le moment le plus proche où Mme Davidson a droit à la prestation est le mois de mai 2010[11]. Comme le ministre a rendu une décision discrétionnaire au sujet des PPP antérieures à mai 2010 et qu’il a également refusé d’exercer le pouvoir discrétionnaire que lui confère le paragraphe 122.62(2) de proroger le délai de dépôt prévu au paragraphe 122.62(1), la Cour n’a pas compétence à l’égard des décisions discrétionnaires qui concernent les prestations rétroactives.
+Prestations applicables à la période pertinente
+[21] L’avocate de l’intimée fait valoir que Mme Davidson n’était pas un « particulier admissible » au sens de l’alinéa 122.6e) de la Loi à l’égard des prestations applicables à la période pertinente car elle n’avait obtenu aucun des statuts d’immigrant requis.
+Statut de résident permanent
+[22] La Loi exige que l’on donne aux mots « résident permanent » le sens que lui donne le paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés, LC 2001, ch. 27, dans sa forme modifiée (la « LIPR ») :
+« résident permanent » Personne qui a le statut de résident permanent et n’a pas perdu ce statut au titre de l’article 46.
+[23] En général, il faut aux étrangers une autorisation pour pouvoir rester au Canada. Sans une autorisation écrite qui confirme leur statut, ils sont susceptibles d’être renvoyés. Les articles 31 et 32 de la LIPR énoncent les types de documents qu’une personne aurait en main si elle avait le statut de résidente permanente ou de résidente temporaire. Le paragraphe 31(1) de la LIPR dispose :
+31.(1) Il est remis au résident permanent et à la personne protégée une attestation de statut.
+[24] L’article 53 du Règlement sur l’immigration et la protection des réfugiés (le « RIPR ») est libellé en ces termes :
+53.(1) Pour l’application du paragraphe 31(1) de la Loi, l’attestation de statut de résident permanent est une carte de résident permanent :
+a) soit remise par le ministère à la personne qui est devenue résident permanent sous le régime de la Loi;
+b) soit délivrée par le ministère, sur demande, à la personne qui est devenue résident permanent sous le régime de la Loi ou à celle qui a acquis ce statut en vertu de la Loi sur l’immigration, chapitre I-2 des Lois révisées du Canada (1985), dans sa version antérieure à l’entrée en vigueur de l’article 31 de la Loi.
+(2) La carte de résident permanent demeure en tout temps la propriété de Sa Majesté du chef du Canada et doit être renvoyée au ministère à la demande de celui-ci.
+[25] L’article 32 de la LIPR dispose :
+32. Les règlements régissent l’application des articles 27 à 31, définissent, pour l’application de la présente loi, les termes qui y sont employés et portent notamment sur :
+[…]
+d) les conditions qui peuvent ou doivent être, quant aux résidents permanents et aux étrangers, imposées, modifiées ou levées, individuellement ou par catégorie, […]
+[…]
+f) les cas de délivrance, de renouvellement et de révocation de l’attestation de statut et du titre de voyage.
+[26] Le 23 mars 2009, CIC a avisé Mme Davidson que la première mesure que l’on prend dans le cadre du processus est d’évaluer les facteurs d’ordre humanitaire en vue de décider s’il y a lieu d’accorder une dispense de l’application des exigences législatives pour que sa demande puisse être traitée au Canada, plutôt qu’à l’étranger, comme l’exige la loi[12]. Si la dispense est accordée, la seconde mesure consiste à déterminer si Mme Davidson répond à toutes les autres conditions que prévoit la LIPR[13]. Cependant, CIC avait besoin de plus de renseignements pour déterminer s’il était possible d’accorder une dispense[14].
+[27] Contrairement à ce que Mme Davidson a affirmé, à savoir que la lettre de CIC du 9 mars 2010 était la première déclaration d’approbation de son statut de résidente permanente, cette lettre accorde seulement la dispense, réitère le processus décisionnel en deux étapes qui est suivi et prévient Mme Davidson que sa demande de statut de résidente permanente peut tout de même être refusée si certaines conditions ne sont pas remplies :
+[traduction] Tout d’abord, on évalue les facteurs d’ordre humanitaire dans le but de déterminer si on vous accordera une dispense de certaines exigences législatives afin que votre demande de résidence permanente soit traitée au Canada. Le 09MAR2010, un représentant du ministre de la Citoyenneté et de l’Immigration du Canada (CIC) a approuvé votre demande d’une dispense de ces obligations aux fins de traitement de votre demande de résidence permanente.
+Deuxièmement, vous devez répondre à toutes les autres exigences de la Loi sur l’immigration et la protection des réfugiés, […]. Pendant que l’on traitera votre demande, des décisions distinctes seront prises sur le fait de savoir si vous répondez à ces autres exigences. […]
+[28] C’est à cause de considérations d’ordre humanitaire dans l’intérêt supérieur des enfants que la dispense a par la suite été accordée.
+[29] La lettre du 9 mars 2010 est presque identique à celle qu’avait reçue l’appelante dans l’affaire Ahansaz c Canada, 2007 CCI 568, 2008 DTC 3709, où la Cour a conclu que l’expression « conditions humanitaires » faisait référence à l’autorisation donnée à l’appelante de demander la résidence permanente depuis le Canada[15]. La Cour a conclu que cette expression ne dénotait pas que le statut de résidente permanente avait été approuvé.
+[30] Je conclus que la lettre du 9 mars 2010 n’accorde pas le statut de résidente permanente. Comme Mme Davidson n’a présenté aucune preuve documentaire montrant qu’elle avait obtenu une carte de résidente permanente au cours de la période pertinente, je déduis qu’elle n’a pas obtenu le statut de résidente permanente avant que CIC délivre une confirmation de résidence permanente le 18 juin 2013[16].
+Statut de résidente temporaire
+[31] On n’acquiert pas automatiquement le statut de résident temporaire par la simple résidence. Aux termes de la LIPR, il est nécessaire de présenter une demande à CIC. Comme l’indique le paragraphe 22(1) :
+22.(1) Devient résident temporaire l’étranger dont l’agent constate qu’il a demandé ce statut, s’est déchargé des obligations prévues à l’alinéa 20(1)b), n’est pas interdit de territoire et ne fait pas l’objet d’une déclaration visée au paragraphe 22.1(1).
+[32] Selon l’article 179 du RIPR, un agent délivre un visa de résident temporaire qui accorde le statut de résident temporaire si les conditions énoncées aux alinéas a) à f) de cet article sont remplies.
+[33] Il ne ressort pas de la preuve que le permis de travail, comme le décrit Mme Davidson, est une carte de résident permanent temporaire. Le permis de travail que CIC a délivré le 20 octobre 2011 indique qu’il « ne confère pas le statut de résident temporaire » et le permis de travail n’était valide que jusqu’au 19 octobre 2013[17]. Le permis permettait à Mme Davidson de travailler pendant que l’on examinait sa demande de résidence permanente, ainsi qu’il était indiqué dans la lettre du 9 mars 2010.
+[34] Cela ressemble à la situation dont il était question dans l’affaire Bituala-Mayala c Canada, 2008 CCI 125, [2008] ACI no 90 (QL), où la Cour a signalé, aux paragraphes 2 et 6, que l’appelante détenait un permis de travail mais que celui-ci indiquait explicitement qu’il ne conférait pas le statut de résident temporaire; en conséquence, même si l’appelante détenait un permis de travail, la limite signifiait qu’elle ne répondait pas aux conditions énoncées à l’alinéa 112.6e). Pour ces raisons, et étant donné que l’appelante n’avait aucune autre preuve, la Cour a conclu que cette dernière ne satisfaisait à aucune des conditions énoncées à l’alinéa 112.6e) de la Loi[18].
+[35] En l’espèce, la restriction expressément mentionnée sur le permis de travail, le fait que ce dernier n’était valide que jusqu’au 19 octobre 2013, le fait que Mme Davidson n’a pas produit de preuve qu’elle détenait un visa de résidente temporaire de même que les facteurs soulignés plus tôt dans la lettre du 9 mars 2010 m’amènent à inférer et à conclure que le statut de résidente temporaire ne lui a pas été accordé.
+Personne protégée
+[36] Pour qu’une personne soit considérée comme un particulier admissible aux termes de l’alinéa 122.6e) de la Loi, l’une des conditions à remplir est d’être une personne protégée à qui l’asile a été conféré, conformément à la définition donnée au paragraphe 95(2) de la LIPR :
+95(2) Est appelée personne protégée la personne à qui l’asile est conféré et dont la demande n’est pas ensuite réputée rejetée au titre des paragraphes 108(3), 109(3) ou 114(4).
+[37] Le paragraphe 95(1) indique :
+95.(1) L’asile est la protection conférée à toute personne dès lors que, selon le cas :
+a) sur constat qu’elle est, à la suite d’une demande de visa, un réfugié au sens de la Convention ou une personne en situation semblable, elle devient soit un résident permanent au titre du visa, soit un résident temporaire au titre d’un permis de séjour délivré en vue de sa protection;
+b) la Commission lui reconnaît la qualité de réfugié au sens de la Convention ou celle de personne à protéger;
+c) le ministre accorde la demande de protection, sauf si la personne est visée au paragraphe 112(3).
+[38] Mme Davidson a reconnu que ses parents avaient demandé le statut de réfugié quand ils avaient déménagé au Canada mais qu’il leur avait été refusé; elle était visée par cette demande. Elle a reconnu que d’autres statuts, comme celui de personne protégée, n’ont jamais été accordés. Si l’on avait accordé l’asile à Mme Davidson, elle aurait obtenu un visa de résident permanent ou un permis de résident temporaire, conformément à l’article 95. Je conclus qu’au cours de la période pertinente Mme Davidson n’était pas une personne protégée.
+Membre d’une catégorie
+[39] Si Mme Davidson avait été désignée comme membre d’une catégorie découlant du Règlement sur les catégories d’immigrants précisées pour des motifs d’ordre humanitaire avant son abrogation le 28 juin 2002, tout droit rattaché à cette désignation aurait été préservé. Cependant, elle n’a présenté aucune preuve de cette nature pour montrer qu’elle avait obtenu cette désignation avant l’abrogation du Règlement et, au cours de la période pertinente, le Règlement n’était pas en vigueur[19]. J’en déduis que Mme Davidson n’a pas été désignée comme membre d’une catégorie découlant de ce règlement.
+[40] L’avocate de l’intimée a noté les similitudes entre la présente espèce et l’affaire Kwawukumey v Canada, [2001] 4 CTC 2566. Même si, dans cette affaire, le libellé de la loi est différent, l’intéressé n’avait pas obtenu le statut requis et avait lui aussi longtemps séjourné au Canada. Le juge C. Miller a fait remarquer que l’intéressé n’avait aucun des statuts admissibles qu’exigeait l’alinéa 122.6e) qui était en vigueur à cette époque, et il mentionne au paragraphe 14 :
+14. […] [L]es termes « résident permanent », « visiteur » et « titulaire de permis » sont si clairement définis dans la Loi sur l'immigration que je ne puis les interpréter de telle sorte qu'ils visent le particulier qui détient une autorisation d'emploi et qui appartient à la catégorie des immigrants visés par une mesure de renvoi à exécution différée, même si cette interprétation aurait par ailleurs permis d'atteindre l'objet visé. Les termes de la disposition ne laissent tout simplement place à aucune autre méthode d'interprétation qui permette d'obtenir un résultat plus favorable à M. Kwawukumey. Je dois rejeter l'appel.
+[41] Dans le présent appel, les termes employés dans la Loi et dans la LIPR sont expressément définis. Mme Davidson a résidé au Canada en vertu d’un permis de travail. Le législateur a ébauché la disposition législative exigeant que l’on ait obtenu certains statuts pour avoir droit à la prestation. Mme Davidson n’en a obtenu aucun au cours de la période pertinente. Le fait que ses enfants soient nés au Canada n’a malheureusement aucune incidence sur son statut de « particulier admissible » au sens de la Loi.
+[42] Le plaidoyer de Mme Davidson en faveur d’une dispense et ses observations sur l’équité ne sont pas des mesures de redressement que la Cour peut accorder. Celle-ci est une cour d’origine législative et les considérations d’équité ne s’appliquent pas. Dans l’arrêt Chaya c Canada, 2004 CAF 327, 2004 DTC 6676 (CAF), la Cour d’appel fédérale a noté, au paragraphe 4, que :
+4 […] [La Cour] ne peut pas déroger aux dispositions législatives pour des raisons liées à l'équité. S'il estime que la loi est inéquitable, le demandeur doit avoir recours au Parlement et non pas à la Cour.
+IV. Conclusion [43] En conséquence, je conclus que la Cour n’est pas compétente pour réviser la décision discrétionnaire du ministre quant au refus des prestations rétroactives (ou à la prorogation de délai connexe). Les appels relatifs à cette décision discrétionnaire ainsi qu’aux AIB de 2011 et de 2012 sont annulés. Je conclus par ailleurs que Mme Davidson n’était pas un « particulier admissible » au sens de l’alinéa e) de la définition donnée à l’article 122.6 de la Loi, relativement aux prestations applicables à la période pertinente, et ces appels doivent être rejetés.
+[44] Comme l’a déclaré Mme Davidson, les efforts qu’elle a faits pour faire des études supérieures et décrocher un diplôme, malgré tant d’obstacles, en vue de rompre le cycle de la pauvreté, a contribué à la réalisation des objectifs de réduction de la pauvreté infantile. Sa contribution est louable et sera sans nul doute source d’inspiration pour bien des personnes.
+[45] Les noms des enfants seront rayés de la transcription.
+[46] Chaque partie aura droit aux dépens qui lui sont propres.
+Signé à Toronto, Canada, ce 4e jour de mars 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 17e jour de juillet 2015.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2015 CCI 54
+No DE DOSSIER DE LA COUR :
+2013-1849(IT)G
+INTITULÉ :
+JACINTA DAVIDSON et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 17 juillet 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge K. Lyons
+DATE DU JUGEMENT :
+Le 4 mars 2015
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Kathleen Beahen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.O.
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Dans son avis d’appel, Mme Davidson demande des prestations pour ce qu’elle décrit comme les années d’imposition s’étendant de septembre 2009 à décembre 2012.
+[2] Pièce R-4.
+[3] Pièce R-5.
+[4] Pièce R-6.
+[5] L’avis de confirmation de la décision a été établi par le ministre le 14 janvier 2013 : pièce R-1.
+[6] L’appel relatif à la période de juillet 2012 à avril 2013 fait partie de l’AIB de 2011.
+[7] Pièce A-1.
+[8] Lors de son plaidoyer, il a été fait référence au ministère des Finances et au rôle joué par le gouvernement en vue de promouvoir la justice et l’équité chez les personnes dont les revenus et les situations familiales sont différents, ainsi qu’au Plan fédéral de réduction de la pauvreté : Travailler en partenariat afin de réduire la pauvreté au Canada, établi par la Chambre des communes du Canada; Dave Quist, Institut du mariage et de la famille Canada; Reno Melatti, Fédération des enseignantes et des enseignants de l’Ontario; Andrew Lynk, Société canadienne de pédiatrie; Nelson Mandela; Deb Matthews, gouvernement de l’Ontario; le premier ministre Harper; Melinda Gates; Brian Dickson, ancien juge en chef du Canada; et Plan fédéral de réduction de la pauvreté; Monica Thompson.
+[9] Lettre de l’ARC à Mme Davidson, datée du 31 mai 2011.
+[10] Lettre de l’ARC à Mme Davidson, datée du 26 août 2011.
+[11] Elle devait déposer le formulaire prescrit pour la prestation dans les onze mois suivant la PPP pour laquelle elle présentait une demande en vue d’être considérée comme un « particulier admissible ».
+[12] L’article 11 du Règlement sur l’immigration et la protection des réfugiés, DORS/2002‑227, dispose qu’une demande de statut de résident permanent donnant lieu à un visa doit généralement être faite hors du Canada, depuis le pays où la personne réside légalement ou dont elle a la nationalité. Le ministre de CIC peut exercer le pouvoir discrétionnaire de déroger à l’exigence selon laquelle la demande doit être faite hors du Canada afin de permettre à une personne de le faire au Canada même, pour motif d’ordre humanitaire et compte tenu de l’intérêt supérieur de l'enfant directement touché. C’est sur ce fondement, d’après les éléments de preuve présentés, que l’on a invoqué des motifs d’ordre humanitaire. L’exemption figure à l’article 25 de la LIPR. Voir aussi les articles 34, 35 et 37.
+[13] C’est-à-dire des questions relatives à l’état de santé, à la sécurité et au passeport, ainsi que les dispositions nécessaires en matière de soins et de soutien.
+[14] Pièce R-2, lettre de CIC à Mme Davidson, datée du 23 mars 2009.
+[15] Paragraphes 17 et 27.
+[16] Pièce A-4.
+[17] Pièce A-2. Habituellement, aux termes de la LIPR, les permis de travail sont combinés au statut de résident temporaire.
+[18] Paragraphe 7.
+[19] Dans la décision Ahansaz, la Cour a fait remarquer que ce règlement ne s’appliquait qu’aux personnes se trouvant hors du Canada.

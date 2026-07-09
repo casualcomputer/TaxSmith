@@ -1,0 +1,209 @@
+---
+title: "Duchaine c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/120609/index.do"
+last_modified: "2015-10-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 245"
+citation2: ""
+neutral_citation: "2015 CCI 245"
+decision_date: "2015-10-20"
+language: "fr"
+item_id: "120609"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2726
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:20:38.042000+00:00"
+cases_cited_count: 4
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bfab59a9cf061a75050dd5a69cb92b12ce70456686d011aa78b77a66ca01abdb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Duchaine c. La Reine
+
+- Citation: 2015 CCI 245
+- Decision date: 2015-10-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2726, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duchaine c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-10-20
+Référence neutre
+2015 CCI 245
+Numéro de dossier
+2015-821(IT)I, 2015-825(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2015-821(IT)I
+2015-825(IT)I
+ENTRE :
+LINE DUCHAINE et GILLES ST-YVES,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appels entendus le 21 août 2015, à Montréal (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat des appelants :
+Me Mark Likhten
+Avocat de l'intimée :
+Me Simon Vincent
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le Revenu pour la période du 1er janvier 1999 au 31 décembre 2000 sont rejetés selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 20e jour d'octobre 2015.
+« Alain Tardif »
+Juge Tardif
+Référence : 2015 CCI 245
+Date : 20151020
+Dossiers : 2015-821(IT)I
+2015-825(IT)I
+ENTRE :
+LINE DUCHAINE et GILLES ST-YVES,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’appels de cotisations établies à partir des dispositions de l’article 160 de la Loi de l’impôt sur le revenu (LIR). Les dossiers sont particuliers en ce que les intérêts qui ont courus depuis l’établissement des cotisations sont plus importants que le montant du capital des cotisations.
+[2] Les cotisations ont été établies à la suite du paiement (transfert) de dividende par 2858-6246 Québec inc. (Société) aux appelants pour la période du 1er janvier 1999 au 31 décembre 2000. Les parties ont convenu de procéder au moyen d’une preuve commune
+FAITS • L’appelant et la conjointe de l’appelant étaient actionnaires de la société durant l’année d’imposition 1999.
+• Pendant les années d’imposition 1999 et 2000, les appelants ont reçu des sommes à titre de dividendes de la part de la société.
+• En date du 14 février 2005, la société avait une dette fiscale à l’égard du ministre de 14 943,88$ pour l’année d’imposition 1999.
+• En date du 20 février 2014, l’intimée a émis une cotisation à l’égard des appelants concernant un transfert de biens entre personnes ayant un lien de dépendance pour l’année d’imposition 1999; en effet, la société 2858-6246 Québec inc. a versé des dividendes aux appelants tous deux actionnaires de la société
+[3] Les appelants prétendent que le ministre n’a pas fait preuve de diligence à l’égard des appelants dans l’établissement de sa cotisation en vertu de l’article 160 de la LIR. De ce fait, ils évoquent les motifs suivants :
+• Effet de la prescription fixée à 10 ans.
+• Absence de vigilance pour l’établissement des cotisations.
+[4] Dans un premier temps, les fondements juridiques des cotisations ne sont pas contestés si ce n’est que les appelants ont fait valoir qu’ils ont fourni des prestations de travail dont la valeur était largement supérieure à la valeur des montants transférés [dividendes] à l’origine des cotisations.
+[5] La pertinence de cet argument relatif à la contrepartie n’est pas bien fondée; en effet, la jurisprudence a établi qu’un dividende ne peut être considéré comme une contrepartie équivalente à du salaire. En d’autres mots, un dividende ne peut être pris en compte comme contrepartie valable pour contester une cotisation établie en vertu de l’article 160 de la LIR.
+[6] Sur les conseils de leur comptable, ils ont choisi la formule dividende plutôt que la formule salaire pour la contrepartie du travail effectué pour le compte et bénéfice de la compagnie à l’origine du transfert.
+[7] Il n’y a aucune équivoque ou ambiguïté sur la question de savoir comment il faut traiter les dividendes lors d’un transfert de biens assujettis à l’article 160 de la LIR. À cet effet, la jurisprudence est unanime.
+[8] Toutes les conditions édictées par l’article 160 de la LIR sont présentes. Les appelants soutiennent avoir été mal conseillés par celui ou celle qui s’occupait de la comptabilité de la société qui a versé les dividendes.
+[9] Une telle excuse n’est pas imputable à l’intimée d’une part, et d’autre part, si elle était justifiée, la possible responsabilité incomberait à ceux qui ont fait l’erreur.
+[10] L’appelante a expliqué avec émotion qu’elle et son conjoint avaient créé une société dont la vocation était l’exécution de tous les travaux requis à la suite d’un sinistre. De façon générale, la compagnie faisait affaires avec des sous‑traitants. L’appelante et son conjoint y travaillaient très fort, et ce, plus souvent qu’autrement sans aucun salaire.
+[11] Les affaires étaient très difficiles et le succès n’était pas au rendez-vous malgré l’intensité du travail et la détermination de tout faire pour développer les affaires et obtenir éventuellement une certaine rentabilité.
+[12] Malgré tous les efforts, ils ont dû faire face à l’échec suivi de l’abandon des affaires. Or, la société, dans le cours de ses opérations, a payé des dividendes aux appelants, lesquels sont à l’origine des avis de cotisation établis à leur endroit.
+[13] Ils ont pris arrangement avec Revenu Québec et ont tenté en vain d’obtenir un règlement avec l’Agence de Revenu; l’appelante a affirmé avoir fait une offre de règlement laquelle serait demeuré sans réponse, pour surgir soudainement plusieurs années plus tard, les intérêts courus ayant considérablement augmenté les cotisations.
+[14] À partir de ces faits, les appelants soutiennent que les cotisations devraient être annulées étant donné le manque important de vigilance de l’Agence dans le traitement de leurs dossiers.
+[15] Pour ce qui est de la prescription prévue à l’article 222(4) de la LIR, le délai de prescription pour le recouvrement commence en date du 4 mars 2004 et prend fin dix ans après son début, soit le 4 mars 2014.
+[16] Le Ministre a cotisé en date du 20 février 2014, soit précisément 12 jours avant l’effet de la prescription.
+[17] Tel qu’exprimé lors de l’audience, la prescription tranche comme un couteau. La date fatidique était le 4 mars 2014. Avant cette date, la prescription est sans effet et la dette est toujours due au Ministre.
+[18] En 2003, la Cour Suprême du Canada, dans l’arrêt Markevich c. Canada[1] (concernant le recouvrement et la prescription), a déterminé qu’un contribuable a le droit d’être fixé sur sa situation financière, ce qui inclut ses dettes envers le Ministre :
+19 L'argument de l'appelante que les justifications des délais de prescription militent contre leur application au recouvrement de créances fiscales ne peut être retenu. Les dispositions en matière de prescription reposent sur les justifications qui peuvent être décrites comme étant la certitude, la preuve et la diligence : voir M. (K.), précité, p. 29. Pour ce qui est de la certitude, après un certain temps, un individu "devrait être raisonnablement certain qu'il ne sera plus redevable de ses anciennes obligations" : M. (K.), précité, p. 29. En ce qui concerne la preuve, il faut écarter les réclamations fondées sur des éléments de preuve périmés. Enfin, quant à la diligence, les demandeurs sont encouragés "[à] agi[r] avec diligence et [à] ne "[pas] tarde[r] [...] à faire valoir leurs droits"" : M. (K.), précité, p. 30.
+[Mes soulignements.]
+[19] Quant à l’autre motif, à savoir le devoir de diligence du Ministre lors de l’établissement d’une cotisation.
+[20] Tout d’abord, la cotisation a été établie en vertu de l’article 160(1) de la LIR qui concerne les transferts de biens entre personnes ayant un lien de dépendance.
+[21] Au paragraphe 160(2) de la LIR, il est clairement mentionné que la nouvelle cotisation basée sur 160 de la LIR peut être émise « en tout temps ». Ainsi, il n’y a pas de délai de prescription qui s’applique.
+[22] De plus, la cotisation émise en vertu de l’article 160 s’applique comme si elle avait été établie en vertu de l’article 152 :
+160. (2) Le ministre peut, en tout temps, établir une cotisation à l’égard d’un contribuable pour toute somme à payer en vertu du présent article. Par ailleurs, les dispositions de la présente section, notamment celles portant sur les intérêts à payer, s’appliquent, avec les adaptations nécessaires, aux cotisations établies en vertu du présent article comme si elles avaient été établies en vertu de l’article 152 relativement aux impôts à payer en vertu de la présente partie.
+[Mes soulignements.]
+[23] Effectivement, l’article 152 de la LIR impose au ministre d’établir l’impôt avec diligence :
+152. (1) Le ministre, avec diligence, examine la déclaration de revenu d’un contribuable pour une année d’imposition, fixe l’impôt pour l’année, ainsi que les intérêts et les pénalités éventuelles payables et détermine :
+a) le montant du remboursement éventuel auquel il a droit en vertu des articles 129, 131, 132 ou 133, pour l’année;
+b) le montant d’impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 122.7(2) ou (3), 122.8(2) ou (3), 125.4(3), 125.5(3), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l’impôt payable par le contribuable en vertu de la présente partie pour l’année.
+[Mes soulignements.]
+[24] L’obligation de cotiser avec diligence s’applique essentiellement lors de l’émission de la cotisation initiale.
+[25] Regardons maintenant comment l’expression « avec diligence » a été interprétée par les tribunaux.
+[26] Dans la décision Jolicoeur v. Canada (Minister of National Revenue - M.N.R.)[2], cette cour a donné une définition de l’expression «avec diligence» du paragraphe 152(1) LIR :
+In my opinion the words "with all due dispatch" have the same meaning as "with all due diligence" or "within a reasonable time". They appear in ss. 46(1), 58(3) and 105(2) of the Income Tax Act and other fiscal statutes. In a legal sense, they are interpreted as giving a discretion and freedom, justified by circumstances and reasons, to the person whose duty is to act. The acts involved are not submitted to a strict and general rule.
+[Mes soulignements.]
+[27] Lors d’un contrôle judiciaire, la Cour fédérale a analysé l’expression «avec diligence» du paragraphe 152(1) de la LIR dans la décision Ficek c. Canada (Procureur général)[3]. Il fut décidé que le Ministre ne s’était pas conformé à son obligation de diligence, en se basant, entre autres, sur la décision J. Stollar Construction[4].
+[28] À ce sujet, la Cour d’appel fédérale, dans la décision Ginsberg c. Canada (C.A.)[5], s’est, quant à elle, penchée sur la question de la diligence du Ministre lors de l’établissement de la cotisation.
+[29] Dans cette décision, la cour a déterminé que les cotisations n’ont pas été faites avec diligence, mais que l’avis de cotisation demeure valide même s’il s’est passé un long délai avant qu’il ne soit établi. En l’espèce, il s’était écoulé plus d’un an avant que l’avis de cotisation soit émis. Il est à noter que cette décision représente l’état actuel du droit en la matière.
+[30] Plus récemment, dans l’arrêt Canada c. Addison & Leyen Ltd.[6], la Cour Suprême du Canada, a déterminé que le délai écoulé pour établir la cotisation ne justifie pas un contrôle judiciaire. D’ailleurs, cet arrêt porte particulièrement sur une cotisation en vertu de l’article 160 de la LIR :
+Toutefois, en raison du terme «en tout temps» à l’art. 160 LIR, la longueur du délai écoulé avant qu’il soit décidé d’établir une cotisation à l’égard d’un contribuable ne suffit pas à fonder un contrôle judiciaire, sauf, peut-être, s’il s’agit d’autoriser un recours comme le mandamus pour inciter le ministre à faire preuve de diligence raisonnable une fois l’avis d’opposition déposé.
+[Mes soulignements.]
+[31] Par ailleurs, il est possible de regarder l’analyse faite par les tribunaux de l’expression «avec diligence» au paragraphe 165(3) de la LIR.
+[32] L’expression « avec diligence » a été interprétée par les tribunaux dans l’application du paragraphe 165(3) de la LIR. Il s’agit de la diligence que le Ministre doit exercer suite à la réception de l’avis d’opposition.
+[33] Dans la décision Moledina c. R.[7], la question en litige était de déterminer si la Cour peut annuler les intérêts sur une cotisation en raison de retards. Le Juge Bowman de cette cour a exprimé que le retard du traitement d’un avis d’opposition n’est pas un motif d’annulation d’une cotisation :
+7 En général, les retards dans le traitement d'un avis d'opposition ne constituent pas un motif d'annulation d'une cotisation ni, à plus forte raison, de suppression des intérêts. La raison pour laquelle une telle mesure de redressement n'est pas accordée n'est pas l'absence de compétence de la Cour canadienne de l'impôt -- parce que, s'il existe un motif juridiquement valable d'annuler une cotisation, la Cour a le pouvoir de le faire -- mais plutôt le fait que, dans la plupart des cas, le retard ne constitue pas un motif juridiquement valable de contester une cotisation, étant donné que le contribuable lui-même détient le pouvoir de mettre fin au retard.
+8 Selon l'alinéa 169(1)b) de la Loi, si le ministre n'a pas répondu à un avis d'opposition en établissant une nouvelle cotisation ou bien en annulant ou en ratifiant la cotisation, le contribuable a le droit d'interjeter appel devant la Cour canadienne de l'impôt. Étant donné qu'il a manifestement le droit d'interjeter appel après l'expiration d'une période de 90 jours, il est difficile d'imaginer pourquoi, dans un cas où le ministre tarde à traiter une opposition, un contribuable chercherait à obtenir ou se verrait accorder un redressement extraordinaire comme le mandamus ou un autre type de contrôle judiciaire. […]
+[Citations omises.] [Références omises.] [Mes soulignements.]
+[34] De son côté, la Cour d’appel fédérale, dans l’arrêt Ford c. Canada, avait récemment à déterminer si le Ministre pouvait accorder une renonciation à une partie des intérêts puisqu’il avait tardé à examiner de nouveau les cotisations. La cour conclut ainsi :
+Je souscris à la déclaration du juge Hugessen dans l'arrêt Bolton selon laquelle un contribuable ne peut réussir à faire annuler une nouvelle cotisation qui a été précédemment établie uniquement parce que le ministre n'a pas examiné de nouveau cette nouvelle cotisation avec diligence.
+[Mes soulignements.]
+[35] Dans ce dossier, il fut clairement déterminé que la cotisation ne peut pas être annulée pour cause de non-diligence du Ministre.
+[36] Tout d’abord, il faut savoir qu’il est établi que la Cour canadienne de l’impôt (CCI) n’a pas le pouvoir d’annuler les intérêts, mais que ce pouvoir appartient au Ministre en vertu du paragraphe 220(3.1) de la LIR.
+[37] À cet effet, le paragraphe 220(3.1) de la LIR mentionne que le Ministre a le pouvoir discrétionnaire de renoncer aux intérêts.
+[38] Ainsi, n’ayant pas le pouvoir d’annuler les intérêts, la CCI a toutefois formulé dans certaines décisions une recommandation au Ministre d’exercer son pouvoir discrétionnaire et d’annuler les intérêts.
+[39] À cet effet, dans la décision Burla c. Canada, cette cour recommande au Ministre d’annuler les intérêts en question :
+8 Toutefois, je ne puis omettre de tenir compte des arguments que l'appelante et son conjoint ont avancés. Compte tenu en particulier des présumés renseignements erronés qu'ils ont reçus de certains agents de Revenu Canada et du fait que la cotisation tardive établie en 1995 a eu pour effet de modifier complètement la position que le ministre avait prise dans les cotisations antérieures, je recommanderais au ministre d'examiner d'une façon favorable toute demande que l'appelante a faite ou peut faire conformément aux lignes directrices en matière d'équité approuvée le 17 décembre 1991 et de renoncer aux intérêts réclamés. J'encouragerais en outre l'appelante, si elle ne l'a pas déjà fait, à présenter une demande conformément aux lignes directrices en matière d'équité.
+[40] C’est également la recommandation qui est faite par cette cour dans la décision Murch v. R. dans un dossier concernant un remboursement de taxe:
+13 Although this is not binding on the Minister, the Court would like to make a very strong recommendation that the penalty and interest assessed under subsection 280(1) of the Act be waived. The Minister assessed the request of Mrs. Murch and issued the rebate in conformity with his initial interpretation of the Act, which he subsequently decided was not proper. Taxpayers who had received rulings from the Minister confirming the initial interpretation were exempted from having to pay the rebate back to the Minister, as this is the normal practice of the Minister when “rulings” are issued. While it is my understanding here that Mrs. Murch did not apply for such ruling, I think, in fairness, that the amount of the penalty and the interest should be forgiven in these circumstances and that only the amount of the rebate should be paid by the taxpayer.
+[41] Dans un autre dossier, cette cour recommande également que si l’appelant fait une demande d’annulation des intérêts au Ministre, qu’elle lui soit accordée :
+12 Par conséquent, l'appel est regrettablement rejeté. Toutefois, je voudrais recommander, eu égard du fait que l'appelant a accepté de ne pas contester plusieurs dépenses et du fait qu'effectivement il y avait un bureau et une aire d'entreposage dans la maison pour sa pratique de la médecine, quoique ne satisfaisant pas aux critères stricts du paragraphe 18(12), je voudrais recommander cependant que, s'il fait une demande d'annulation des intérêts, que cette demande lui soit accueillie.
+[42] Par ailleurs, l’on peut voir que c’est également le même type de recommandation qui est formulée dans les dossiers concernant la Loi sur la taxe d’accise. À cet effet, cette cour a recommandé l’annulation de la pénalité dans la décision Isaac v. R.:
+16 Comme il a été mentionné ci-dessus, le paragraphe 280(1.1) de la Loi prévoit que le ministre peut renoncer aux intérêts et aux pénalités payables en vertu de l'article 280 ou les annuler. L'article 280 est l'article en vertu duquel les pénalités et les intérêts ont été imposés en l'espèce. Cette cour n'a pas le pouvoir d'intimer au ministre de le faire. Cependant, dans les circonstances, alors que l'appelant a réalisé un effort de bonne foi pour se libérer de sa responsabilité en offrant plus d'argent à Revenu Canada qu'il ne devait de taxe, je ne peux recommander plus fermement que le ministre renonce aux intérêts et aux pénalités ou les annule en l'espèce.
+[43] C’est également la recommandation qui est faite par cette Cour dans la décision Kingsbury v. R.:
+14 L'article 281.1 de la Loi dispose que le ministre peut annuler les intérêts et les pénalités payables en application de l'article 280—en vertu duquel la pénalité et les intérêts ont été imposés en l'espèce ou qu'il peut y renoncer. Bien que la Cour ne puisse ordonner au ministre d'annuler les intérêts ou d'y renoncer, elle lui recommande fortement de le faire, dans les circonstances de l'espèce.
+[44] Dans la décision Humber College Institute of Technology & Advanced Learning c. Canada, cette cour a déterminé que si elle faisait erreur dans son interprétation première, qu’alors elle recommanderait qu’une demande de renonciation aux intérêts soit faite.
+[45] Par ailleurs, dans la décision Carpini v. R., cette cour a recommandé au Ministre d’annuler les intérêts, dus aux délais d’audition.
+[46] Le paragraphe 220(3.1) de la LIR mentionne cependant clairement que le Ministre peut renoncer aux intérêts pour une durée de 10 ans précédant l’année de la demande.
+[47] À cet effet, en date du 2 juin 2011, la Cour d’appel fédérale, a rendu une décision dans l’affaire Bozzer c. Canada (Ministre du Revenu national - M.R.N.). La cour y a conclu que le Ministre a le pouvoir de renoncer aux intérêts accumulés au cours des 10 années précédant l’année au cours de laquelle une demande d’allègement a été demandée, et ce, peu importe la date de la naissance de la dette fiscale.
+[48] L’Agence du Revenu du Canada avait d’ailleurs publié un communiqué en date du 21 novembre 2011, expliquant les impacts de la décision Bozzer.
+[49] Hypothétiquement, si l’appelant appliquait en 2015 pour obtenir une renonciation aux intérêts, il pourrait possiblement obtenir une renonciation pour tous les intérêts courus depuis l’année civile 2005.
+[50] Cette Cour n’ayant pas le pouvoir d’ordonner au Ministre d’annuler les intérêts en question, compte tenu les circonstances de la présente affaire, je cependant recommande au Ministre d’exercer son pouvoir discrétionnaire en accueillant favorablement une éventuelle demande des appelants de renoncer aux intérêts courus. Quant aux appels, ils doivent être malheureusement rejetés.
+Signé à Ottawa, Canada, ce 20e jour d'octobre 2015.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2015 CCI 245
+Nº DU DOSSIER DE LA COUR :
+2015-821(IT)I
+INTITULÉ DE LA CAUSE :
+LINE DUCHAINE et GILLES ST-YVES c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 21 août 2015
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+Le 20 octobre 2015
+COMPARUTIONS :
+Avocat des appelants :
+Me Mark Likhten
+Avocat de l'intimée :
+Me Simon Vincent
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants:
+Nom :
+Me Mark Likhten
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Markevich c. Canada, 2003 CSC 9.
+[2] Jolicoeur v. Canada (Minister of National Revenue - M.N.R.), 60 D.T.C. 1254.
+[3] Ficek c. Canada (Procureur général), 2013 CF 502.
+[4] J. Stollar Construction, supra note 5.
+[5] Ginsberg c. Canada (C.A.), [1996] 3 C.F. 334. Les déclarations de revenus ont été reçues par l’intimée le 4 mai 1989 et les avis de cotisation ont été émis en date du 21 décembre 1990.
+[6] Canada c. Addison & Leyen Ltd., 2007 CSC 33, para 10.
+[7] Moledina c. R., 2007 CCI 354, para 7-8, 31.

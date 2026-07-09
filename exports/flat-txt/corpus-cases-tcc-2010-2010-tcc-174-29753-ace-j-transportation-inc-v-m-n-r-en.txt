@@ -1,0 +1,124 @@
+Title: Ace-J Transportation Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29753/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-174-29753-ace-j-transportation-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2010-04-15
+
+# Ace-J Transportation Inc. v. M.N.R.
+
+- Citation: 2010 TCC 174
+- Decision date: 2010-04-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6499, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ace-J Transportation Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-15
+Neutral citation
+2010 TCC 174
+File numbers
+2009-194(EI), 2009-195(CPP)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2010 TCC 174
+Date: 20100415
+Docket: 2009-194(EI)
+2009-195(CPP)
+BETWEEN:
+ACE-J TRANSPORTATION INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons for Judgment delivered orally from the Bench on November 24, 2009 in Toronto, Ontario)
+Weisman D.J.
+[1] I have heard two appeals by ACE-J Transportation Inc. against determinations by the Minister of National Revenue that five truck drivers by the names of Shou Qiang Huang, who was a witness before the Court today, Mr. Shuang Chen, Faramarz Reyhanifar, Xian Wei Bu and Hong Cuong Ly were employees of the Appellant under contracts of service during the period under review, which is between January 1, 2008 and July 24, 2008, and that accordingly the Appellant is responsible for Canada Pension contributions and Employment Insurance premiums. The Appellant, of course, appeals on the basis that the five gentlemen in question during the period under review were independent contractors and, therefore, the Appellant is not responsible for the aforementioned deductions.
+[2] It was agreed ab initio that, since we don't have all five workers before us, the hearing would proceed on the common evidence that was heard on a viva voce basis and would be applicable to all five workers because there was agreement that they all had the same working terms and conditions. There was a minor caveat on the part of counsel for the Minister that the terms and conditions set out in the five written contractor contracts were not identical, but I did not hear any evidence indicating that it made any difference in the result.
+[3] In order to resolve the question as to whether the five gentlemen are employees or independent contractors, the total relationship of the parties and the combined force of the whole scheme of operations must be considered. To this end, the evidence in this matter is to be subjected to the four-in-one test laid down as guidelines by Lord Wright in Montreal City v. Montreal Locomotive Works, [1947] 1 D.L.R. 161, which guidelines were adopted by Justice MacGuigan in Wiebe Door Services v. Minister of National Revenue, which is cited as [1986] 87 D.T.C. 5025 in the Federal Court of Appeal.
+[4] The four guidelines are: the payer's control over the worker; whether the worker or the payer owns the tools required to fulfil the worker's function; and the worker's chance of profit and risk of loss in his or her dealings with the payer.
+[5] The parties placed great weight upon the contracts which were executed by the parties, and they are all in Exhibit A-1. In that regard the law is that such contracts are not binding upon the court because the status of a worker is not a question of agreement between the parties; it is a matter of law, because the rights of third parties are involved -- and that was clarified or determined by the Supreme Court of Canada in Sagaz Industries, [2001] Supreme Court Judgments No. 61. The Court said:
+The distinction between an employee and an independent contractor applies not only in vicarious liability…
+which was the fact situation before the Court in Sagaz,
+…but also to the application of various forms of employment legislation,…
+which is what we are dealing with,
+…the availability of an action for wrongful dismissal, the assessment of business and income taxes, the priority taken upon an employer's insolvency, and the application of contractual rights.
+[6] Similarly, there was some weight placed upon the fact that all parties have registered business names and have business licence registrations and upon such registration the remuneration was paid to their business rather than their personal names. Again, very little weight, if any, is placed on that, whether or not it was a matter of coercion by the payer, because you cannot avoid the tests set out in Wiebe Door by the simple expedient of having people register business names, whether those people want to be held to be independent contractors or not.
+[7] Of interest in this case is the Respondent's Book of Authorities because its tabs consist primarily of cases at the trial level where the truck drivers were found to be employees on the whole. Some of them are fairly dated, such as tab 4, Lister Transportation which was back in 1998.
+[8] Why that is of interest is because based on these trial level authorities one could make out a strong case that the Wiebe Door factors point to these five gentlemen being employees under contracts of service during the period under review.
+[9] Starting first with control, there are various exhibits that constitute an unusual degree of control over the workers. The primary one, of course, is the Contractor Agreement. It has in its provisions various onerous and unreasonable requirements that constitute control over the worker. I would point directly to section 1, Contractor's Duties. Under (b)(2) there is a $50 fine for failing to report and a $200 fine for any unreported late deliveries. In my experience, it is unusual, to say the least, for an agreement to impose fines. That is inconsistent with the person being fined being an independent contractor or independent in any way.
+[10] On the other hand, there is clause (g) which called for the driver paying a $2,500 deductible which is applicable both to the tractor-trailer and to the cargo if he was at fault. That is a provision that is reasonable and that I have seen in a number of cases involving drivers. However, 3(d), a two-trip holdback as a security deposit for the various fines and penalties in the contract, again is an unusual degree of control, which indicates that the person subject to such controls is an employee.
+[11] The $1,000 training compensation in paragraph 5, in the event that the worker is terminated prior to six months, by way of reimbursement for his training, is again something that I call an unreasonable degree of control and inconsistent with the person being controlled being independent.
+[12] The final unreasonable control is the 3.0 per cent management fee that came out in the evidence as a regular deduction from these gentlemen's pays for which I cannot find any authorization in their agreements. It was said that this management fee was to assist them with their schedules, but I repeat that that is unusual, unreasonable and a great deal of control over the worker.
+[13] The only one, aside from the deductible, that I thought was reasonable was Exhibit R-3, the urgent notice. In a situation where there is a very expensive piece of equipment being entrusted to the care of the worker, I did not think it was at all unreasonable for there to be consequences for failure to take normal precautions, such as walk around the truck before you embark upon a lengthy journey and making sure that all the various fluid levels were safe throughout the trip, and that there was a financial penalty for failing to do so. Accordingly, there is a case to be made for a degree of control in this matter that indicates that the workers were employees.
+[14] If one considers the truck a tool and the main tool aside from the worker's licence, then the tools factor would indicate that the workers were employees. With these gentlemen having a fixed rate of remuneration per kilometre for their trips, it would be difficult at first blush to see any chance of profit, and indeed that reason is reflected in some of these cases found in the Minister's Book of Authorities.
+[15] There is a minimal risk of loss. It is true that there are these fines, but normally they involve some degree of culpability or negligence that caused damage or delay of delivery of the goods, and the evidence was that some of these penalties are only incurred if a customer deducted money from the Appellant and they would pass that deduction on to the driver.
+[16] I say all this is interesting because one gets a different picture if one takes a look at the cases emanating from the Federal Court of Appeal. Referring first to the criterion or guideline of control, the Federal Court of Appeal aligns that closely with the concept of subordination. There is a series of cases that do so. In that regard, I draw your attention to Le Livreur Plus, [2004] F.C.J. No. 267. The exact reference is at paragraph 25. Then there is D & J Driveway, [2003] Federal Court of Appeal, page 453 at paragraph 26. There is a judgment of my own where I simply summarize those cases in paragraph 13, which is called Mediclean Incorporated v. The Minister of National Revenue, [2009] Tax Court Judgments No. 288.
+[17] The reasoning is that the Civil Court of Quebec in Article 2099 says that the essential characteristic of an independent contractor is if there is no relationship of subordination between the principal and the agent. Therefore, the courts have adopted the converse proposition that to be a contract of employment there must be a relationship of subordination between the employer and the employee or the payer and the payee.
+[18] Of great importance in this case is that these same cases talk about the importance of a worker having a right to refuse assignments. The evidence in this case is quite clear that the five workers indeed had such a right, and that the controls mentioned above only came into effect once the driver accepted an assignment.
+[19] It was the very clear and credible evidence of the sole witness for the Appellant, Mrs. Jin, that if a co-driver smoked or if it was too dangerous to cross the Rocky Mountains on the way to Vancouver, these drivers could simply refuse to take the assignment. That was a degree of independence and lack of control which is inconsistent with a relationship of subordination, which indicates that the workers were independent contractors.
+[20] On the issue of tools, the case of Precision Gutters [2002] Federal Court Judgments No. 771 in the Federal Court of Appeal, was a case where the gentlemen on a job installed eavestroughing. When they installed the eavestroughs, the payer for whom they did this work had a very large and expensive machine that took raw aluminum and turned it into gutters, and they would install them. Of course, that was a necessary tool for them to use to do the job and, didn't that therefore indicate that the tools were provided by the payer.
+[21] The Federal Court of Appeal in Precision Gutters said that, if the worker owns the tools of the trade which it is reasonable for him to own, that indicates that he is an independent contractor even though the alleged employer provides special tools for the particular business. That sounds to me a lot like this situation where the drivers are supplying tools, and they were listed by Mrs. Jin -- things such as a GPS, a cell phone -- she thought that they all had laptops, but it turned out that the witness before the Court on behalf of the Minister did not have one -- repair kits, safety boots, a blanket, and they paid for their own meals. That begins to sound like these workers had the normal tools of the trade.
+[22] This brings me back to the truck. The truck is of interest because I am not sure that it is a tool in these circumstances. This goes directly to a submission made by counsel for the Minister that surely a driver needs a truck to drive. I had not read a case that says this and I have yet to see one, but it seems to me that there is a difference between a business where the person's business is to drive trucks and a business where it is the person's business to do haulage which involves having a truck with which to do the hauling.
+[23] I would think that for someone who is in the haulage business a truck is a necessary tool. I am not sure whether or not it is in a business where the person is solely a driver. I do know that some of the cases at the provincial level say that the truck is an essential tool.
+[24] That brings me back to Precision Gutters. It does sound to me like this machine that made gutters and these gentlemen were found to be independent contractors, notwithstanding that the payer supplied that essential instrument just as the payer here was supplying and repairing a truck.
+[25] On the chance of profit and the risk of loss, I refer again to Precision Gutters. Unfortunately, I don't have the exact quote before me or the paragraph, but in Precision Gutters the court says that the right to refuse an assignment involves a chance of profit and a risk of loss. The more assignments you accept, the more profit you make, and the fewer you accept is a loss of profits.
+[26] The cases talk about a worker's ability to profit by sound management. There is a lot of evidence in this case that these workers could profit by sound management, and that arises in a two-fold way, the first being the fact that they get paid by kilometre. Therefore, it is patently clear that, if a driver is quick and expeditiously, with or without the assistance of a teammate, gets himself to Los Angeles or to Vancouver quickly and has a return load or then can take off on another trip because he is refreshed because he had the assistance of a worker or otherwise, then he can get in more kilometres. Conversely, the person who is slow will not do as many trips and not get as many kilometres, and they will not have the same chance to profit by sound management.
+[27] I am saying that there is a chance of profit and a risk of loss in two ways: from the Federal Court of Appeal's point of view, the one arising out of Precision Gutters in that the right to refuse inherently involves a chance of profit and a risk of loss, and in the circumstances before me sound management and maximizing your kilometres can increase your profit.
+[28] It is possible -- and I don't think there is a good deal in it, but I mention it for the sake of accuracy -- that wherever there is the right to hire a helper there is some element of profit and loss. You may be required to hire that helper in urgent circumstances and pay him a higher rate than you are getting. Conversely, if you hire a helper and pay him less, you are assured a profit. I have not forgotten that these driver substitutes have to be approved by the payer. One of the cases in the Respondent's Book of Authorities does not look upon that as an unfettered right to hire others but, in my view, if a worker is entrusted with a very expensive tractor and trailer and its cargo, it is not at all unreasonable to require that the person who is going to help be licensed, have a safe driving record and be a responsible person to be entrusted.
+[29] This brings me to the total relationship between the parties. A very important fact that comes to mind -- there are really two in the evidence. The first is the right to refuse assignments, which really separates employees from independent contractors. The other is the ability to hire helpers. That one is important because of a case called Ready-Mixed Concrete v. The Minister of National Revenue. That is cited as [1968] 1 All E.R. 433, Queen's Bench Division. Justice McKenna said:
+Freedom to do a job either by one's own hands or by another's is inconsistent with a contract of service where limited or occasional power of delegation may not be.
+I take it from that that it is the essence of a contract of service that you have to do the work personally.
+[30] In these matters, the burden is upon the Appellant to demolish the assumptions set out in the Minister's Reply to the Notice of Appeal, inasmuch as I am bound by the Federal Court of Appeal's decisions that I have set out in brief. The Minister's assumptions are set out in paragraph 7, and I will start with (g):
+…the Workers were required to report to the Appellant twice a day, at 9:00 am and 4:00 pm, and when they arrive at a destination, along with when they are fined or receive notices.
+The evidence did not exactly support that, but I repeat that the burden is upon the Appellant. If there is an assumption that has not been demolished, there is no burden on the Minister to support the assumption. It is on the Appellant to demolish it. Anything that is not demolished has to be taken as true, and I took (g) as true.
+[31] Any other paragraph that I don't mention is taken as true.
+[32] The evidence was not that Jin Liang or the dispatcher supervised the workers. I would say they controlled the workers by keeping in contact and enforcing these fines and penalties.
+[33] I have already said that (l) was primarily demolished because I found most of these written and oral directions about how you clear customs and how you avoid weigh scales were not about control. In either case it is simply a matter of giving a useful tip to the driver. I won't comment on the propriety of doing so, but mainly for our purposes it was not an instance of control.
+[34] (n) was refuted as was (o). Also (p) did not bear up under the evidence.
+[35] I have already said that, except for the truck, I think (q) bears up to scrutiny under the evidence or lack of demolishing it.
+[36] (ff) was demolished. It was not the Appellant that determined the workers' hours. The evidence was that the Appellant had ways of finding out the minimum kilometres between the pick-up point and the delivery point of the cargo, and that would be all the worker was paid for. If he went farther, that was on his own time. If there was an appointment made, and there was evidence that in certain cases there were appointments, they were set by the client or the end-user as to when the goods were really needed.
+[37] The evidence did not satisfy me on (ii), "the Workers were expected to work long hours or they could be terminated." It did not come out that way. Sometimes they worked long hours and, depending on where they went and how quickly, sometimes they did not.
+[38] (jj) was established, but it is irrelevant. There is confusion as to what business we are talking about.
+[39] (ll) was not supported by the evidence in the way it is worded here. There was not anything about they were not unreasonably to reject any assignments that were arranged by the Appellant. The evidence was that they were free, without reason, to reject assignments, and they worked as frequently or infrequently as they wanted to.
+[40] I am moved to comment on the Minister's Reply because, in fairness to the Appellant, there is not a lot in the Reply to argue with because there is a not a lot in the Reply that is determinative of the issue before the Court. You virtually never see a reply that starts off with control and has assumptions that say that the workers were controlled in such a way, and then goes to tools and then to profit and loss, and there is something that the Appellant can tackle head-on.
+[41] The one before me is difficult for an Appellant to demolish head-on because there are some assumptions that inferentially talk about control and inferentially talk about tools, but there are not assumptions that are worded in such a way that they can be rebutted as I have led you through the Federal Court of Appeal's key findings in this area.
+[42] Very important is the right to refuse, and the Minister has it wrong. Very important is the right to hire a helper, and the Minister has it wrong.
+[43] I keep talking about the right to refuse because the Federal Court of Appeal does, and it is significant in two respects. It is inconsistent with subordination, which is akin to control. If there is no subordination and the control in that regard is lacking, then you are not dealing with an employee and, as I have already said more than once, it also goes to the chance of profit and risk of loss.
+[44] Having heard the witnesses for the parties under oath for the first time -- and, by the way, I found them both quite open and clear. I am talking about Mrs. Jin for the Appellant and Mr. Huang for the Respondent. I have heard new evidence or evidence that the Minister seems to have misinterpreted or misconstrued such that I find that his findings with reference to all five workers were unreasonable. These five workers were carrying on business on their own account as truck drivers.
+[45] Therefore, the two appeals, each involving the five workers, will be allowed and the decisions of the Minister are vacated.
+Signed at Toronto, Ontario, this 15th day of April 2010.
+“N. Weisman”
+Weisman D.J.
+CITATION: 2010 TCC 174
+COURT FILE NO.’S: 2009-194(EI)
+2009-195(CPP)
+STYLE OF CAUSE: Ace-J Transportation Inc.
+and The Minister of National Revenue
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 24, 2009
+REASONS FOR JUDGMENT BY: The Honourable N. Weisman, Deputy Judge
+DATE OF ORAL JUDGMENT: November 24, 2009
+APPEARANCES:
+Agent for the Appellant:
+Christopher Goldson
+Counsel for the Respondent:
+Carol Calabrese
+Joshua Winter (student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

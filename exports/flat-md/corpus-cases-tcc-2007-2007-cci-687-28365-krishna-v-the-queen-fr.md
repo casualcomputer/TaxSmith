@@ -1,0 +1,201 @@
+---
+title: "Krishna v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28365/index.do"
+last_modified: "2007-11-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 687"
+citation2: ""
+neutral_citation: "2007 CCI 687"
+decision_date: "2007-11-13"
+language: "fr"
+item_id: "28365"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1950
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:05:57.044000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9c4f181cebbeaeba3a61fa814e44cc71d5b2d5766f4997342cb58fe1e1b3e1e4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Krishna v. The Queen
+
+- Citation: 2007 CCI 687
+- Decision date: 2007-11-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1950, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Krishna v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-13
+Référence neutre
+2007 CCI 687
+Numéro de dossier
+2007-444(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-444(IT)I
+ENTRE :
+COWCILLA KRISHNA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 octobre 2007, à Toronto (Ontario).
+Devant : L’honorable juge T. O’Connor
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Laurent Bartleman
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 7 juillet 2005 et porte le numéro 33531, est rejeté pour les motifs énoncés dans les motifs du jugement ci‑joints, sans dépens.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2007.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 10e jour de décembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI687
+Date : 20071113
+Dossier : 2007-444(IT)I
+ENTRE :
+COWCILLA KRISHNA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O’Connor
+[1] La question en litige dans le présent appel est décrite dans les paragraphes de la réponse à l’avis d’appel qui suivent :
+[traduction]
+3. Le ministre du Revenu national (le « ministre ») a établi une cotisation de 20 204,23 $ à l’égard de l’appelante en vertu du paragraphe 160(1) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi »), au moyen de l’avis de cotisation numéro 33531, daté du 7 juillet 2005.
+4. L’appelante a déposé un avis d’opposition, daté du 30 septembre 2005, à l’encontre de l’avis de cotisation.
+5. Le ministre a ratifié la cotisation du 7 juillet 2005 dans un avis de ratification daté du 18 octobre 2006.
+6. Pour établir la cotisation à l’égard de l’appelante et ratifier cette cotisation, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) 916054 Ontario Inc. (la « société ») a été constituée en société en octobre 1990 et faisait affaire sous le nom de Kris Auto Service;
+b) à toutes les époques pertinentes, l’appelante et son époux étaient les actionnaires et les administrateurs de la société;
+c) en 1992, la société a acheté un immeuble situé au 51, avenue Chauncey, Etobicoke (Ontario) pour la somme de 220 000 $, et l’a vendu en mai 2003 pour la somme de 415 000 $;
+d) le 10 septembre 2003, l’appelante a reçu la somme de 126 000 $ de la société;
+e) la juste valeur marchande de la contrepartie que l’appelante a donnée pour les 126 000 $ qu’elle avait reçus de la société était nulle;
+f) au 7 juillet 2005, la société devait les sommes suivantes au titre de l’impôt fédéral, des pénalités et des intérêts pour les années d’imposition 1992, 1993 et 1994 :
+Impôt fédéral
+Pénalité
+Intérêts
+Total
+1992
+0 $
+0 $
+270,39 $
+270,39 $
+1993
+0 $
+4 406,55 $
+6 947,93 $
+11 353,59 $
+1994
+3 108,94 $
+434,75 $
+5 036,56 $
+8 580,25 $
+Total
+3 108,94 $
+4 840,41 $
+12 254,88 $
+20 204,23 $
+B. QUESTION À TRANCHER
+7. Il s’agit de savoir si le ministre a correctement établi la cotisation à l’égard de l’appelante en vertu de l’article 160 de la Loi.
+DISPOSITIONS, MOYENS INVOQUÉS ET MESURE DE REDRESSEMENT DEMANDÉE
+8. Il s’appuie sur l’article 160 et sur les paragraphes 248(1), 251(1) et 251(2) de la Loi.
+9. Il soutient que le ministre a correctement établi la cotisation à l’égard de l’appelante en vertu des dispositions des paragraphes 160(1) et 160(2) de la Loi pour les raisons suivantes :
+a) l’appelante avait un lien de dépendance avec la société (l’auteure du transfert) au sens des paragraphes 251(1) et 251(2) de la Loi;
+b) l’auteure du transfert a transféré des biens de 126 000 $ à l’appelante. Pour l’application de la Loi, l’argent constitue des biens;
+c) à l’époque où les biens ont été transférés à l’appelante, leur juste valeur marchande était de 126 000 $;
+d) l’appelante n’a fourni aucune contrepartie pour les biens que lui avait transférés l’auteure du transfert;
+e) à l’époque où l’auteure du transfert a transféré les biens à l’appelante, l’auteure du transfert devait la somme de 20 204,23 $ au titre de l’impôt, des pénalités et des intérêts.
+10. Il demande le rejet de l’appel.
+[2] L’appelante nie l’hypothèse énoncée à l’alinéa 6b) de la réponse; dans son avis d’appel, elle déclare qu’elle ne s’est jamais occupée de la société et n’a jamais été copropriétaire. À l’audience, elle a livré un témoignage contradictoire. À un moment donné, elle a déclaré ceci : [traduction] « Je détiens une action de la société mais je n’en sais pas grand‑chose. » Elle a ensuite mentionné qu’elle n’était pas actionnaire. Il est toutefois clair que l’époux de l’appelante était le seul administrateur de la société, qu’il contrôlait la société et qu’il existait des liens de dépendance entre la société et l’appelante.
+[3] En ce qui concerne l’hypothèse du ministre figurant à l’alinéa 6e) de la réponse, selon laquelle l’appelante n’avait pas donné de contrepartie pour les 126 000 $, l’appelante déclare ceci, dans son avis d’appel :
+[traduction]
+Je ne crois pas devoir de l’argent parce que la somme que j’ai reçue devait servir à rembourser des parents à qui j’avais emprunté de l’argent afin de lancer l’entreprise en 1984. Mon mari était dans une situation difficile; il me demandait de l’argent pour acheter de la machinerie et des outils, et parfois pour payer les factures.
+Analyse
+[4] Les dispositions pertinentes de la Loi de l’impôt sur le revenu (la « Loi ») se lisent en partie comme suit :
+160(1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux […]
+[…]
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+[…]
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+[…]
+Lien de dépendance
+251(1) Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+Définition de « personnes liées »
+(2) Pour l’application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l’union de fait ou de l’adoption;
+b) une société et :
+(i) une personne qui contrôle la société si cette dernière est contrôlée par une personne,
+(ii) une personne qui est membre d’un groupe lié qui contrôle la société,
+(iii) toute personne liée à une personne visée au sous‑alinéa (i) ou (ii);
+[5] En termes simples, ces dispositions, appliquées en l’espèce, signifient que si une personne contrôle une société et que la société transfère des biens, y compris de l’argent, à l’épouse de cette personne sans recevoir de contrepartie, l’épouse est responsable du paiement de tout montant d’impôt que la société devait au moment du transfert.
+[6] Dans le présent cas, il est clair que l’argent, sous la forme d’un chèque de 126 000 $, a été transféré à l’appelante par la société. Il est également clair que l’époux de l’appelante, Krishnamurthy Krishna, contrôlait la société et que, par conséquent, il existait un lien de dépendance entre la société et l’appelante. En outre, aucun élément de preuve satisfaisant n’établit que l’appelante a donné une contrepartie pour le transfert des 126 000 $ ni que la société devait de l’argent à l’appelante. Il a aussi été établi qu’au moment du transfert, la société avait une dette fiscale de 20 204,23 $.
+[7] En résumé, les hypothèses contenues dans la réponse à l’avis d’appel n’ont été ni réfutées, ni démolies, à l’exception peut‑être du fait que l’appelante pourrait n’avoir été ni administratrice, ni actionnaire de la société. Toutefois, il ne s’agit pas d’un fait pertinent puisque l’époux de l’appelante contrôlait la société.
+[8] En outre, l’énoncé que l’appelante a fait dans son avis d’appel et dans son témoignage selon lequel elle remboursait des parents n’est pas pertinent dans les circonstances de l’espèce, la seule question en litige étant de savoir si l’appelante avait reçu un transfert d’argent de la société, et non comment elle avait utilisé l’argent.
+[9] Pour les motifs susmentionnés, je dois conclure que le ministre a correctement établi la cotisation l’égard de l’appelante. L’appel est donc rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2007.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 10e jour de décembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI687
+NO DU DOSSIER DE LA COUR : 2007-444(IT)I
+INTITULÉ : Cowcilla Krishna c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 17 octobre 2007
+MOTIFS DU JUGEMENT : L’honorable juge T. O’Connor
+DATE DU JUGEMENT : Le 13 novembre 2007
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

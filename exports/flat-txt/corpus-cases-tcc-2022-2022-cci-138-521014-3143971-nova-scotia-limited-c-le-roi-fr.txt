@@ -1,0 +1,188 @@
+Title: 3143971 Nova Scotia Limited c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521014/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-138-521014-3143971-nova-scotia-limited-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2022-11-17
+
+# 3143971 Nova Scotia Limited c. Le Roi
+
+- Citation: 2022 CCI 138
+- Decision date: 2022-11-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5809, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+3143971 Nova Scotia Limited c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-11-17
+Référence neutre
+2022 CCI 138
+Numéro de dossier
+2019-1372(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-1372(IT)G
+ENTRE :
+3143971 NOVA SCOTIA LIMITED,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu les 11 et 12 octobre 2022, à Québec (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me Bobby Doyon
+Avocat de l'intimé :
+Me Cédric Renaud-Lafrance
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation datée du 31 juillet 2018 établie en vertu de la Loi de l’impôt sur le revenu par la ministre du Revenu national concernant l’année d’imposition se terminant le 31 mai 2013 de l’appelante est accueilli, sans dépens, pour donner effet à la concession faite par l’intimé à l’ouverture de l’audience. Par conséquent, la nouvelle cotisation est déférée à la ministre pour nouvel examen et établissement d’une nouvelle cotisation afin de soustraire du revenu de l’appelante un montant de 708 695,65 $ représentant le solde d’une facture qui a été modifiée le 15 mai 2013 et complètement annulée le 15 mai 2016. À tous autres égards, la nouvelle cotisation demeure inchangée conformément aux motifs du jugement ci-joints.
+Signé à Montréal, Québec, ce 17e jour de novembre 2022.
+« Réal Favreau »
+Juge Favreau
+Référence : 2022 CCI 138
+Date : 20221117
+Dossier : 2019-1372(IT)G
+ENTRE :
+3143971 NOVA SCOTIA LIMITED,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit ici d’un appel à l’encontre d’une nouvelle cotisation datée du 31 juillet 2018 établie en vertu de la Loi de l’impôt sur le revenu, LRC 1985, ch. 1 (5ième suppl.), telle que modifiée (la « Loi ») par la ministre du Revenu National (la « Ministre ») concernant l’année d’imposition se terminant le 31 mai 2013 de l’appelante.
+[2] En vertu de cette nouvelle cotisation, la ministre a, notamment, inclus dans le revenu de l’appelante, un montant de 708 695,65 $ représentant le solde d’une facture adressée à son seul actionnaire et administrateur, monsieur Gordon Raymond Rudolph (« M. Rudolph »), laquelle facture a été modifiée le 15 mai 2013 et complètement annulée le 15 mai 2016.
+[3] A l’ouverture de l’audience, l’intimé a concédé, afin d’assurer un traitement fiscal cohérent, que le solde de cette facture au montant de 708 695,65 $ devait être soustrait du revenu de l’appelante.
+[4] En vertu de la nouvelle cotisation du 31 juillet 2018, la ministre a également refusé des dépenses d’entretien et de réparations au montant de 85 905 $ ainsi que des déductions en lien avec le compte du montant cumulatif des immobilisations admissibles (le « MCIA ») totalisant 136 549 $. Des pénalités en vertu de la Loi ont été appliquées à l’égard du montant de 85 905 $ réclamé à titre de dépenses d’entretien et de réparations et à l’égard du montant de 136 549 $ réclamé en déduction en lien avec son MCIA.
+[5] Les questions en litige sont les suivantes :
+a) la ministre était-elle justifiée de cotiser l’année d’imposition se terminant le 31 mai 2013 de l’appelante en dehors de la période normale de nouvelle cotisation? Pour répondre à cette question, il faut déterminer si l’appelante a fait une présentation erronée des faits, par négligence, inattention, omission volontaire, ou si elle a commis une fraude en produisant sa déclaration de revenu pour l’année d’imposition se terminant le 31 mai 2013, comme l’exige le sous-alinéa 152(4)a)(i) de la Loi; et
+b) la ministre était-elle justifiée d’imposer la pénalité du paragraphe163(2) de la Loi à l’égard de la réclamation des dépenses d’entretien et de réparations ainsi qu’aux déductions en lien avec le MCIA de l’appelante. La réponse à cette interrogation requiert l’examen de la question de savoir si l’appelante a, sciemment ou dans des circonstances équivalant à une faute lourde, fait un faux énoncé ou une omission dans sa déclaration de revenu qu’elle a remplie, produite ou présentée, ou à laquelle elle a consenti ou acquiescé, relativement à ses réclamations pour les dépenses alléguées d’entretien et de réparations ainsi qu’aux déductions en lien avec son MCIA.
+[6] Les faits dans cette affaire ne sont pas complexes et ont fait l’objet d’une entente partielle sur les faits par les parties. Il y a lieu de reproduire ici les paragraphes 1 à 30 de cette entente. À noter que l’annexe A de cette entente qui montre les revenus et les dépenses déclarés par l’appelante pour les années d’imposition se terminant le 31 mai des années 2007 à 2016 est annexée à la fin de ce jugement.
+Les Parties Impliquées
+L’Appelante a été incorporée le 1er juin 2006 selon les lois provinciales de la Nouvelle-Écosse.
+À la suite de l’incorporation, Douglas Rudolph (Douglas) était actionnaire et administrateur de l’Appelante.
+Le 2 août 2007, l’Appelante a été radiée pour non-paiement.
+L’Appelante n’a pas produit de déclaration de revenus de 2007 jusqu’à juin 2013.
+Le 9 août 2012, l’Appelante a été rétablie, à la suite de quoi Gordon Raymond Rudolph (Gordon) est devenu l’unique administrateur et actionnaire de l’Appelante.
+Douglas est le frère de Gordon.
+Après le rétablissement de l’Appelante, Gordon contrôlait l’Appelante à lui seul et prenait les décisions au nom de l’Appelante.
+L’Appelante opère de la résidence de Gordon.
+L’Appelante n’a pas d’employés.
+Historique
+En 2012, l’Appelante a émis une facture portant le numéro 2012-1 à Gordon au montant de 2 130 434,78 $ plus 319 565,22 $ au titre de la TPS/TVH, pour un montant total de 2 450 000 $.
+Gordon a réclamé une dépense de 2 450 000 $ en frais de gestion et d’administration pour son année d’imposition 2010.
+En 2013, l’Appelante a ajouté un montant de 4 020 062 $ à son compte de montant cumulatif des immobilisations admissibles (MCIA) pour son année d’imposition 2007.
+Le 15 mai 2013, l’Appelante a modifié la facture portant le numéro 2012-1 pour la réduire au montant de 708 695,65 $, plus 106 304,35 $ au titre de la TPS/TVH, pour un montant total de 815 000 $.
+Le 15 mai 2016, l’Appelante a émis une facture modifiée à l’égard de Gordon dans l’objectif d’annuler la facture du 15 mai 2013.
+En août 2017, l’Appelante a fait l’objet d’une vérification fiscale en impôt corporatif de la part de l’ARC relativement aux transactions plus amplement décrites ci-devant.
+L’ARC a refusé la déduction de 2 450 000 $ réclamée par Gordon dans le calcul de son revenu pour l’année 2010 et n’a pas inclus le montant de 2 130 434,78 $ dans le calcul du revenu de l’Appelante pour l’année 2010.
+L’Appelante a déclaré les revenus et dépenses se trouvant à l’Annexe A lors des années d’imposition se terminant le 31 mai.
+Au cours de son année d’imposition 2016, l’Appelante désirait annuler les déductions réclamées au cours des années d’imposition 2007 à 2014 liées à son compte de [sic] montant cumulatif des immobilisations admissibles (MCIA) et aux frais d’entretien et de réparation en ajoutant un montant de 2 220 660 $ à ses revenus imposables.
+Au cours de l’été 2018, l’Appelante faisait toujours l’objet d’une vérification fiscale de la part de l’ARC.
+Aux termes de cette vérification fiscale, l’ARC a réduit le revenu imposable de l’Appelante pour l’année d’imposition 2016 d’un montant de 2 220 660 $ et refusé les déductions réclamées par l’Appelante au cours des années d’imposition 2007 à 2014 liées à son compte MCIA et aux frais d’entretien et de réparation.
+L’Entente entre Gordon et l’Appelante
+Le 13 janvier 2013, Gordon et l’Appelante ont signé l’entente se trouvant à l’onglet 19 du cahier de documents de l’Intimée.
+Les Déclarations Personnelles de Gordon
+En 2010, Gordon a déclaré des revenus bruts d’opérations de change au montant de 2 628 132 $.
+Gordon a payé des frais à :
+AGEMO, pour 4 000 $; et
+Doctor Tax Inc., pour 50 000 $.
+Historique de M. Terracina
+En 1999, Terracina a plaidé coupable à 131 accusations pour défaut de produire ses déclarations de revenus.
+Terracina a été condamné à trois ans de prison pour ces 131 accusations.
+En novembre 2012, Terracina fut condamné à 4 mois de prison et une amende de 28 000 $.
+En avril 2016, Rudolfo Terracina (Terracina) est décédé.
+Participation de Gordon à des Programmes Fiscaux
+Gordon a participé aux programmes fiscaux suivants :
+« Global Learning Gifting Initiative 2004 Tax Shelter »; et
+« Edge of Command».
+[7] Pour faciliter la compréhension des faits, il y a lieu ici d’apporter certaines précisions.
+a) l’entente du 13 janvier 2013 entre M. Rudolph et l’appelante à laquelle il est fait référence au paragraphe 21 de l’entente partielle sur les faits est l’entente par laquelle M. Rudolph a transféré à l’appelante ses droits de propriété intellectuelles lesquels ont été évalués à 4 020 062 $ au 1er juin 2006 en tenant compte des neuf années d’études universitaires de M. Rudolph, de son expérience dans des projets de développement immobilier (maisons en rangée, centre professionnel, club de golf, hôtel, et dans des projets de production d’énergie et d’une usine pétrochimique) et de ses connaissances dans le commerce d’actions et d’opérations de change. C’est sur la base de cette transaction que l’appelante a réclamé de l’amortissement sur des intangibles au cours des années d’imposition se terminant le 31 mai des années 2007 à 2014;
+b) les frais de 4 000 $ et de 50 000 $ payés à AGEMO et à Doctor Tax Inc. auxquels il est fait référence au paragraphe 23 de l’entente partielle sur les faits sont des frais versés à des entités reliés à monsieur Rudolfo Terracina (« M. Terracina ») un promoteur de programmes fiscaux très agressifs dont le stratagème auquel M. Rudolph a participé.
+Position de l’appelante
+[8] Selon l’appelante, le fardeau de démontrer que les conditions d’application du sous-alinéa 152(4)a)(i) et du paragraphe 163(2) de la Loi repose sur l’intimé.
+[9] Le moment approprié pour évaluer si les conditions d’application de ces deux dispositions législatives sont rencontrées est au moment où l’appelante a produit sa déclaration de revenu pour l’année d’imposition se terminant le 31 mai 2013, i.e. le 30 novembre 2013.
+[10] M. Rudolph a expliqué qu’il a débuté la mise-en-place en 2010 de la planification suggérée par M. Terracina dans le but de simplifier la structure corporative de ses nombreux investissements dans les projets immobiliers afin d’améliorer son rendement financier. M. Rudolph a également indiqué qu’il a entrepris d’annuler ladite planification en 2016 suite à la maladie dégénérative de sa conjointe soit une année avant le début de la vérification du 31 juillet 2018.
+[11] M. Rudolph a soutenu que l’appelante n’a pas fait une présentation erronée des faits lors de la production de sa déclaration de revenu pour l’année d’imposition se terminant le 31 mai 2013. Lors de son témoignage, M. Rudolph a reconnu avoir signé ladite déclaration sans l’avoir lue et sans en avoir fait l’analyse parce qu’il avait pleine et entière confiance envers son frère Douglas qui préparait ses déclarations de revenus personnelles et celles de ses sociétés depuis de nombreuses années.
+[12] M. Rudolph a également indiqué qu’il s’est fié à son frère Douglas pour la mise en place de la planification suggérée par M. Terracina ainsi qu’aux vérifications que ce dernier a dû effectuer avant de la recommander à son frère. M. Rudolph n’a pas questionné la valeur attribuée à ses actifs intangibles et ne s’est pas inquiété du fait que l’appelante déduise des frais d’entretien et de réparations d’immeubles dont elle n’était pas propriétaire.
+[13] L’appelante a soutenu que la lettre d’engagement au programme de M. Terracina qui a été déposée en preuve n’a été signée ni par elle ni par M. Rudolph, que les pourcentages de paiement qui y sont mentionnés n’ont pas été respectés et, qu’à toute fin de droit, cette lettre n’est pas pertinente.
+[14] En résumé, l’appelante prétend qu’elle n’a pas fait de faux énoncés dans sa déclaration de revenus, qu’elle et son unique actionnaire et administrateur étaient de bonne foi et qu’il n’y a pas eu d’aveuglement volontaire de leur part.
+[15] Concernant l’imposition de la pénalité du paragraphe 163(2) de la Loi, l’appelante a indiqué que le fardeau de la preuve repose sur l’intimé en vertu du paragraphe 163(3) de la Loi.
+[16] Selon l’appelante, même si des déductions douteuses ont pu être prises, cela ne signifie pas nécessairement que cela a été fait sciemment ou dans des circonstances équivalant à une faute lourde.
+[17] L’appelante et son unique actionnaire et administrateur ont cru de bonne foi que la planification fiscale suggérée par M. Terracina était acceptable et ils se sont fiés à l’avis de M. Douglas Rudolph.
+[18] M. Rudolph a témoigné à l’effet qu’il n’a appris les démêlés de M. Terracina avec le fisc qu’au début de la vérification des affaires de l’appelante par l’Agence de Revenu du Canada, le 25 août 2017.
+[19] L’appelante a également soutenu que le bénéfice du doute doit être accordé au contribuable. M. Rudolph a été naïf en mettant en place une planification fiscale agressive mais il n’a pas commis de faute lourde en ce faisant.
+Position de l’intimé
+[20] Selon l’intimé, l’appelante a participé à un stratagème afin de diminuer l’impôt payable par son actionnaire unique, M. Rudolph, pour son année d’imposition 2010. Dans la cadre de ce stratagème, l’appelante déclarait, en toute connaissance de cause, des pertes nettes causées par des dépenses inexistantes. Pour l’année d’imposition se terminant le 31 mai 2013, ces dépenses fictives ont totalisé au moins 222 454 $. Le seul actionnaire et administrateur de l’appelante, M. Rudolph, a signé la déclaration fiscale de l’appelante sachant que les dépenses réclamées par celle-ci étaient fictives.
+[21] L’objectif derrière le stratagème était de transférer les revenus de M. Rudolph à l’appelante par l‘entremise d’une facture pour que l’appelante puisse ensuite déduire ce revenu à l’aide de dépenses fictives.
+[22] L’appelante a sciemment fait de faux énoncés en produisant sa Déclaration T2 2013, puisqu’elle savait que la déduction contenait des dépenses fictives. Les dépenses de réparations et d’entretien au montant de 85 905 $ réclamées par l’appelante n’avaient pas réellement été effectuées par celle-ci et la déduction pour amortissement des immobilisations admissibles au montant de 136 549 $ réclamée par l’appelante n’était pas justifiée parce que l’appelante n’avait acquis aucune immobilisation admissible.
+[23] L’appelante et son âme dirigeante savaient que l’appelante n’avait réparé ou entretenu quoique ce soit ayant engendré des dépenses de 85 905 $. En 2013, l’appelante n’exploitait aucune entreprise réelle.
+[24] L’appelante et son âme dirigeante connaissait la nature fictive de la déduction des immobilisations admissibles puisqu’ils savaient que la valeur de la propriété intellectuelle alléguée a été établie par M. Terracina sur la base des informations qu’ils lui ont fournies, à savoir le temps passé par M. Rudolph sur chacun de ses projets d’investissement, les détails sur son éducation et sur ses réalisations personnelles.
+[25] M. Rudolph n’a parlé à M. Terracina qu’une seule fois au milieu des années 2000 et il n’a pris aucune mesure afin de s’informer sur le passé de M. Terracina. Une simple recherche sur internet aurait permis à M. Rudolph de découvrir qu’en 1999, M. Terracina a plaidé coupable à 125 chefs d’accusation en lien avec des accusations sous l’article 239.1 de la Loi et à six chefs d’accusations en lien avec des accusations sous l’article 327.1 de la Loi sur la taxe d’accise. Ces accusations résultaient de faux énoncés que M. Terracina avait fait dans les déclarations d’impôt de ses clients, telles que des dépenses gonflées ainsi que des dépenses non reliées aux activités des entreprises de ses clients.
+[26] L’appelante a fait preuve d’aveuglement volontaire puisqu’elle et son âme dirigeante n’ont fait aucun effort pour s’assurer que les renseignements figurant dans sa déclaration de revenu étaient exacts et complets. M. Rudolph s’est contenté de signer la Déclaration T2 2013 sans même l’examiner, dans des circonstances où il aurait dû savoir que quelque chose n’allait pas. M. Rudolph est un contribuable éduqué possédant plusieurs diplômes universitaires en plus d’être un entrepreneur d’expérience.
+[27] De plus, l’appelante a fait de faux énoncés dans sa Déclaration T2 2013 dans des circonstances équivalant à faute lourde. La conduite de l’appelante et de son âme dirigeante correspond à un haut degré de négligence et s’écarte de façon marquée par rapport aux normes, aux pratiques et à la diligence raisonnable attendues de la part d’un contribuable raisonnable.
+Analyse et conclusion
+Cotisation au-delà de la période normale de nouvelle cotisation
+[28] L’alinéa 152(4)a)(i) de la Loi prévoit que la ministre peut établir une cotisation après la période normale de cotisation lorsqu’un contribuable ayant produit une déclaration de revenu a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la Loi. Le moment pertinent pour les fins d’analyse de l’alinéa 152(4)a)(i) de la Loi est au moment de la production de la déclaration de revenu.
+[29] Les conditions énoncées ci-dessous ne requirent pas nécessairement l’existence d’une omission volontaire, d’une faute ou même d’une faute lourde. L’établissement d’une nouvelle cotisation pour une année pour une année prescrite est conforme à la Loi dès qu’une présentation erronée de faits dans une déclaration est imputable à la négligence ou à l’inattention (voir Deyab c. Canada, 2020 CAF 222, par. 59 à 61).
+[30] La preuve au dossier a démontré que l’appelante a sciemment fait de faux énoncées en produisant sa Déclaration T2 2013 puisqu’elle savait pertinemment bien que ladite déclaration contenait des dépenses fictives.
+[31] L’appelante a réclamé des dépenses pour des réparations et d’entretien qu’elle n’a pas effectuées. Elle n’avait ni le mandat, ni le personnel pour effectuer lesdites dépenses et les immeubles concernés appartenaient à d’autres sociétés dans lesquelles M. Rudolph avait des intérêts.
+[32] L’appelante a également réclamé une déduction en lien avec le montant cumulatif des immobilisations admissibles alors qu’elle savait qu’elle n’avait acquis aucune immobilisation admissible. L’appelante et son âme dirigeante savaient que la méthode d’évaluation de la propriété intellectuelle de M. Rudolph qui a été utilisée par M. Terracina était complètement farfelue et n’ont fait aucune démarche pour faire valider ladite évaluation.
+[33] L’appelante a clairement fait preuve d’une omission volontaire puisqu’elle n’a fait aucun effort pour s’assurer que les renseignements figurant dans sa Déclaration T2 2013 était exacts et complets. M. Rudolph s’est contenté de signer ladite déclaration sans même l’examiner.
+[34] L’appelante a implicitement reconnu la validité de sa cotisation du 31 juillet 2018 qui a été établie en dehors de la période normale de nouvelle cotisation en acceptant qu’elle soit modifiée afin de soustraire de son revenu le montant de 708 695,65 $.
+La pénalité en vertu du paragraphe 163(2) de la Loi
+[35] Le paragraphe 163(2) de la Loi prévoit que toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé dans une déclaration remplie, produite ou présentée pour une année d’imposition, est passible d’une pénalité. La ministre a le fardeau d’établir les faits qui justifient l’imposition d’une telle pénalité.
+[36] Une conduite justifiant l’imposition d’une pénalité pour faute lourde en est une qui montre une indifférence quant à l’observation de la Loi et qui équivaut à une conduite intentionnelle, i.e. une conduite considérablement en-deçà de la conduite d’un contribuable raisonnable (voir Wynter c. Canada, 2017 CAF 195, par. 13 et 16).
+[37] La pénalité s’applique également lorsqu’un contribuable fait un faux énoncé en toute connaissance de cause. En effet, la Cour d’appel fédérale a confirmé dans l’arrêt Wynter, précité aux paragraphes 18 et 19, l’existence de la doctrine de l’aveuglement volontaire, laquelle a pour effet d’imputer la connaissance d’un fait au contribuable, établissait ainsi l’élément de connaissance requis par le paragraphe 163(2) de la Loi.
+[38] Dans les circonstances présentes, l’appelante a fait de faux énoncés dans sa Déclaration T2 2013, comme il a été démontré précédemment, et ce, sciemment ou dans des circonstances équivalant à une faute lourde.
+[39] La conduite de l’appelante et de son âme dirigeante correspond à un haut degré de négligence et s’écarte de façon marquée par rapport aux normes, au pratiques et à la diligence raisonnable attendues de la part d’un contribuable raisonnable. Au strict minimum, un contribuable raisonnable et un homme d’affaires aguerri auraient entrepris les démarches suivantes pour valider la planification suggérée par M. Terracina :
+a) il se serait informé sur le passé et les qualifications de M. Terracina;
+b) il aurait réviser sa Déclaration T2 2013 pour s’assurer de valider les dépenses réclamées par l’appelante;
+c) il aurait posé des questions à M. Terracina quant à la validité et la légitimité de ces dépenses;
+d) il aurait questionné à M. Terracina quant à la nature et à l’utilité de l’entente portant sur la propriété intellectuelle;
+e) il aurait consulter un expert en évaluation pour valider l’évaluation de la propriété intellectuelle et les conséquences d’un transfert de cette propriété intellectuelle à une société bidon.
+[40] Par conséquent, la ministre était justifiée d’imposer à l’appelante la pénalité de paragraphe 163(2) de la Loi.
+[41] Les circonstances présentes dans ce dossier ne permettent pas à l’appelante de soulever comme moyen de défense le recours à une tierce partie de confiance parce que M. Douglas Rudolph n’a pas témoigné à l’audience et parce qu’il n’y a aucune preuve au dossier à l’effet que M. Douglas Rudolph a fait une quelconque vérification au sujet de la planification suggérée par M. Terracina.
+[42] Pour toutes ces raisons, l’appel est accueilli sans dépens, pour donner effet à la concession faite par l’intimé à l’ouverture de l’audience et la nouvelle cotisation est déferrée à la ministre pour nouvel examen et établissement d’une nouvelle cotisation afin de soustraire du revenu de l’appelante un montant de 708 695,65 $ représentant le solde d’une facture qui a été modifiée le 15 mai 2013 et complètement annulée le 15 mai 2016. A tous autres égards, la nouvelle cotisation demeure inchangée.
+Signé à Montréal, Québec, ce 17e jour de novembre 2022.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2022 CCI 138
+Nº DU DOSSIER DE LA COUR :
+2019-1372(IT)G
+INTITULÉ DE LA CAUSE :
+3143971 NOVA SCOTIA LIMITED ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+les 11 et 12 octobre 2022
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 17 novembre 2022
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Bobby Doyon
+Avocat de l'intimé :
+Me Cédric Renaud-Lafrance
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Me Bobby Doyon
+Cabinet :
+Therrien Couture Jolicoeur SENCRL
+Pour l’intimé :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

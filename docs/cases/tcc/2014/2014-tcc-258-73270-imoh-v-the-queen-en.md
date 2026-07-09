@@ -1,0 +1,272 @@
+---
+title: "Imoh v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/73270/index.do"
+last_modified: "2014-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 258"
+citation2: ""
+neutral_citation: "2014 TCC 258"
+decision_date: "2014-08-26"
+language: "en"
+item_id: "73270"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5211
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:36:01.748000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a0a0d82cd6942d33d7e181178453abc3cb3e60a81136eb2a45551b59fd1babe1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Imoh v. The Queen
+
+- Citation: 2014 TCC 258
+- Decision date: 2014-08-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5211, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Imoh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-08-26
+Neutral citation
+2014 TCC 258
+File numbers
+2013-4109(IT)I, 2013‑4405(IT)I
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-4109(IT)I
+BETWEEN:
+DAVID ANELE IMOH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Oladele Bello, 2013-4405(IT)I on July 14, 2014,
+at Toronto, Ontario.
+Before: The Honourable Justice K. Lyons
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Darren Prevost
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2007, 2008 and 2009 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 26th day of August 2014.
+"K. Lyons"
+Lyons J.
+Docket: 2013-4405(IT)I
+BETWEEN:
+OLADELE BELLO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+David Anele Imoh, 2013-4109(IT)I on July 14, 2014,
+at Toronto, Ontario.
+Before: The Honourable Justice K. Lyons
+Appearances:
+Agent for the Appellant:
+D.A. Shaw
+Counsel for the Respondent:
+Darren Prevost
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2009 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 26th day of August 2014.
+"K. Lyons"
+Lyons J.
+Citation: 2014 TCC 258
+Date: 20140826
+Docket 2013-4109(IT)I
+BETWEEN:
+DAVID ANELE IMOH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-4405(IT)I
+AND BETWEEN:
+OLADELE BELLO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lyons J.
+[1] David Anele Imoh and Oladele Bello, the appellants, each appeal the Minister of National Revenue’s (the “Minister”) disallowance of charitable donation tax credits claimed under section 118.1 of the Income Tax Act (the "Act").
+[2] Mr. Imoh claims to have made charitable donations totalling $15,000, in cash, to Revival Time Ministries (“Ministries”) in each of the 2007 and 2008 taxation years and $15,000, in cash, to Revival Time Ministries International (“Revival”) in the 2009 taxation year.
+[3] Mr. Bello claims to have made charitable donations totalling $15,000, by cheque and cash, to Revival in 2009. At the hearing, Mr. Bello indicated that he was no longer pursuing the late-filing penalty.
+[4] The issues in these appeals are whether Mr. Imoh and Mr. Bello each made the donations to enable each of them to claim tax credits, and if so, whether the charitable donation receipts they received from the respective organizations contain the prescribed information as required by section 3501 of the Income Tax Regulations (the “Regulations”).
+I. Legislation [5] Section 118.1 of the Act provides for a tax credit to persons for donations to qualified charities. Subsection 118.1(3) allows a deduction from tax payable for gifts made to a registered charity. Paragraph 118.1(2)(a) reads:
+An eligible amount of a gift shall not be included in the total charitable gifts, … of an individual unless the making of the gift is evidenced by filing with the Minister
+(a) a receipt for the gift that contains prescribed information;
+[6] Subsection 3501(1) of the Regulations sets out the requirements for official charitable donation receipts for income tax purposes, which provides as follows:
+3501.(1) Every official receipt issued by a registered organization shall contain a statement that it is an official receipt for income tax purposes and shall show clearly in such a manner that it cannot readily be altered,
+(a) the name and address in Canada of the organization as recorded with the Minister;
+(b) the registration number assigned by the Minister to the organization;
+(c) the serial number of the receipt;
+(d) the place or locality where the receipt was issued;
+(e) where the gift is a cash gift, the date on which or the year during which the gift was received;
+(e.1) where the gift is of property other than cash
+(i) the date on which the gift was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+(f) the date on which the receipt was issued;
+(g) the name and address of the donor including, in the case of an individual, the individual’s first name and initial;
+(h) the amount that is
+(i) the amount of a cash gift, or
+(ii) if the gift is of property other than cash, the amount that is the fair market value of the property at the time that the gift is made;
+(h.1) a description of the advantage, if any, in respect of the gift and the amount of that advantage;
+(h.2) the eligible amount of the gift;
+(i) the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge gifts; and
+(j) the name and Internet website of the Canada Revenue Agency.
+Relevant to these appeals is paragraph (a). II. Evidence David Imoh
+[7] David Imoh testified that in 2005 he had contributed $6,000 to a charity unrelated to Ministries or Revival.
+[8] He was introduced to Ministries and Revival by a friend, Gode Nkawala, who explained that the programs for giving encompassed such purposes as the less privileged, scholarships for children, hospitals and other programs in Angola, South Africa, Kenya and Zimbabwe.
+[9] Mr. Imoh telephoned Daniel Mokwe and met with him at the Oakdale office. Daniel Mokwe expanded the explanation of the programs as helping “all of Africa” as and “when need arises”. Shortly after that meeting, Mr. Imoh was invited to a social gathering to meet other contributors and was provided with pamphlets.
+[10] He decided to donate. Mr. Imoh said he made monthly cash donations totalling $15,000 to Ministries in each of 2007 and 2008, and $15,000 to Revival in 2009, and received receipts #1032 and #1689, from Ministries, and receipt #022, from Revival (“the three receipts”). He called Daniel Mokwe periodically to see how things were going.
+[11] By 2009, he had received a letter from the Canada Revenue Agency (“CRA”) requesting receipts. After six months, he was informed that the singular receipt that he had provided for each of 2007, 2008 and 2009 was insufficient. He informed the CRA that the contributions were made in cash and he obtained two letters, each dated May 3, 2009 relating to 2007 and 2008 (“the two Letters”), from Revival which he sent to the CRA. The two Letters provided a breakdown of the $15,000 showing contributions of $1,250 per month. After six months, the CRA told him that the three receipts and two Letters were insufficient and disallowed his claims. By 2011, he had given everything to the CRA.
+[12] Mr. Imoh became aware in 2012 via a newspaper article of the revocation of the charitable designation of Revival Time Ministries Int. (“Revival Int.”).
+Oladele Bello
+[13] Mr. Bello testified that a friend had introduced him to an accountant, George (“George”). George explained Revival’s charitable activities as helping the poor in West Africa. Later, he met Dan who represented Revival. Mr. Bello was impressed and “in the spirit of giving” he decided to contribute, as a first‑time contributor, in 2009.
+[14] A log, which he signed, was maintained by George which itemized the instalment cheques and cash contributions he had made in 2009.[1]
+[15] Except for the “Official Donation Receipt (Receipt #72)” provided to Mr. Bello and dated December 31, 2009 (“Receipt #72”), no receipts were provided when he made the contributions. The Receipt describes the type of donation as a “cheque” with the value ascribed as $15,000. It was issued by Revival to Mr. Bello and shows his address and Revival’s address as 217 – 2357 Finch Ave W, Toronto, plus provides a charity number and refers to the CRA website relating to charities.
+[16] According to Mr. Bello, the bank statements he provided for 2009 show the following highlighted transactions relating to his claim for the donations:
+Cheques issued/Cash withdrawals
+Amount
+January 9, 2009
+#54
+$100.00
+January 12, 2009
+#53
+$200.00
+January 20, 2009
+#99
+$300.00
+April 1, 2009
+#45
+$300.00
+May 14, 2009
+#89
+$190.00
+September 3, 2009
+Cash
+$5,000.00
+September 8, 2009
+Cash
+$200.00
+Instant teller
+Boivard location
+September 8, 2009
+Cash
+$300.00
+Instant teller
+Dundas location
+October 1, 2009
+Cash
+$1,000.00
+CRA
+[17] Mr. Huenemoeder, a CRA Team Leader with the Charities Audit Group for the past 12 years, testified with respect to the audit of Revival Time Ministries Int., of which he has personal knowledge.
+[18] The CRA selected Revival Time Ministries Int. for audit.[2] In September 2008, CRA officials had an initial discussion with Daniel Mokwe who initially informed the CRA that the books and records for Revival were lost in the repossession of a storage unit because of a bill in the amount of $258 for storage. Revival was unable to verify if the books and records were in storage or disposed of. Six months later, the CRA received the books and records which were suspect because Revival had provided falsified bank statements relating to revenues and expenditures.
+[19] The first concern was the significant receipting discrepancies. The donation receipts totalling $830,000 conflicted with other information showing $1.6 million or $1.7 million in donation receipts for 2007. The CRA wanted to see if those amounts were deposited into the bank accounts. According to the bank statements, $1.8 million or $1.9 million in donations were deposited but the bank statements for Revival were unusual and contained irregularities in the dates. Consequently, the CRA issued requirements to various banks.
+[20] Documents obtained by the CRA from one bank show that over a two-year period only $3,000 was received and deposited by Revival into the bank account. However, bank statements provided by Revival for the same period showed $2.5 million had been receipted as bank deposits.
+[21] To determine if there was proof of payment by cash, CRA officials conducted a sampling of the donors. It subsequently expanded its review to 900 donors for 2006 to 2008. None of the 900 donors contacted by the CRA were able to provide cancelled cheques or proof supporting cash donations.
+[22] Mr. Huenemoeder acknowledged in cross-examination by Mr. Imoh that the CRA allows cash donations if adequate proof is provided to support the donations. However, Revival had not provided any validation or verification of such donations by its books and records, nor did the donors furnish adequate proof.
+[23] Mr. Huenemoeder said that the bank statements showed expenses had been paid by the issuance of bank drafts to Africa, reggae bands and an amount to a Toronto city councillor. Attempts were made to provide proof that goods were shipped to Africa but no charitable purposes were revealed in the expenses claimed by Revival.
+[24] In response to questions from Mr. Imoh in cross-examination, Mr. Huenemoeder stated that he had met Daniel Mokwe three times during the initial audit when gathering documentation and that the CRA had obtained copies of receipts in the spring of 2009 so there was no need to show the receipts to Daniel Mokwe.
+[25] Daniel Mokwe was also involved in another organization. The CRA issued requirements against Daniel Mokwe for 2009 and 2010 but he failed to comply. He was referred for criminal prosecution charges but he fled Canada before the charges were laid.
+[26] Effective January 8, 2011, Revival Time Ministries Int.’s registration as a charity was revoked for cause by the Minister. The revocation was challenged at, but was ultimately dismissed by, the Federal Court of Appeal without leave being granted to the Supreme Court of Canada.
+III. Analysis [27] Read together paragraph 118.1(2)(a) of the Act and subsection 3501(1) of the Regulations require that there be a gift and an official receipt containing all the prescribed information.
+[28] The respondent asserts that neither Mr. Imoh nor Mr. Bello have provided sufficient evidence that they made the donations that they claim were made, and that each of them did not have a receipt containing all the prescribed information as mandated by the legislation.
+[29] Mr. Imoh and Mr. Bello each have the onus to show, on a balance of probabilities, that they made the donations they claim they have made. For the reasons that follow, I find that the donations were not made and neither Mr. Imoh nor Mr. Bello have discharged the onus.
+Were donations made?
+Mr. Imoh
+[30] Mr. Imoh argued that he had the option to make monthly cash donations, and that the three receipts show that he made cash donations totalling $15,000 in each of 2007, 2008 and 2009, respectively, and contain all the elements required by the legislation.
+[31] Clearly, Mr. Imoh has that option as supported by the Regulations. However, the Act strictly regulates the conditions of eligibility for charitable donation deductions in requiring that donations be supported and verifiable. The only proof offered by Mr. Imoh that he made the donations was his testimony, and the three receipts and the two Letters issued by Ministries and Revival.
+[32] Mr. Huenemoeder testified that the bank statements provided to the CRA by Daniel Mokwe had been falsified and that there were discrepancies in the receipting which could not be validated in the books and records. I accept his evidence. He also said that none of the 900 donors contacted were able to provide cancelled cheques or other proof of payment by cash to support donations except for a singular receipt for the year of the contribution similar to the three receipts presented by Mr. Imoh.
+[33] In his testimony, Mr. Imoh explained that since December 2007, when he moved to Pickering, he would drive two or three times a month to Revival’s office (“office”) located on Oakdale Road, in North West Toronto, to make cash contributions. Each time it would take him up to an hour to travel. Sometimes he went to the office on the way to pick up groceries at a specialty African food store in the same vicinity. He said he placed his name and the amount of his contribution on a slip of paper and placed it and the cash in an envelope, and handed it to Juliette at the office. He received a receipt (“individual receipts”) from her each time he dropped off his contribution.
+[34] I find Mr. Imoh’s explanations implausible. It is difficult to accept that on the strength of a phone call and a brief meeting with Daniel Mokwe, plus a social gathering, that he would contribute such large sums over a three-year period.[3]
+[35] Further, in Court Mr. Imoh stated that Ministries and Revival were not religious organizations. However, Mr. Huenemoeder testified, which I accept, that Revival was registered as a charitable organization for the purposes of religion and advancement. I would expect that Mr. Imoh would have been aware of this feature of any organization that he desired to make a contribution to.
+[36] Of some import is Mr. Imoh’s failure to produce the individual receipts - of which there would have been many over a three-year period - that he said he had obtained from Juliette. I draw an adverse inference from the failure of Mr. Imoh to call Juliette to confirm he made the donations.
+[37] Mr. Imoh stated that on the same day or the day before he made the contribution, he would withdraw cash from the bank or various bank machines. No details of the dates and specific amounts were given except that he would contribute somewhere between $1,200 to $1,300 per month. He could have, but did not, provide detailed banking records to substantiate the pattern of cash withdrawals from his account thrice monthly. I would have expected more attention to be paid given the large sums involved over a three-year period.
+[38] Another factor as to why I am rejecting Mr. Imoh’s testimony is the following inconsistency. The two Letters he sent to the CRA show $1,250 monthly was contributed. In Court, he said he gave $1,200 to $1,300 monthly and explained that the $1,250 referred to in the two Letters is not accurate but he did not challenge that with Revival because the annual total of $15,000 was accurate. However, in his Notice of Appeal he states “I made monthly contributions of $1250 every month for total of 12 months for each of the three Income Tax Years.” If that was not accurate, one would not expect to see that inaccuracy reiterated and included in the Notice of Appeal filed with the Court several years later.
+[39] Although Mr. Imoh said that he informed Mr. Nkawala about the hearing, he said that on the eve of trial Mr. Nkawala decided that he would not attend.[4] I draw a negative inference from the failure of Mr. Nkawala to attend to corroborate Mr. Imoh’s testimony relating to the purported donations.
+[40] All of which casts doubt on the reliability of Mr. Imoh’s evidence, and for that reason, he has not proved that he made donations to Ministries in 2007 and 2008 and to Revival in 2009.
+Mr. Bello
+[41] The representative for Mr. Bello argued that Mr. Bello made donations totalling $15,000 in 2009 in good faith to Revival as a church and despite the irregularities in its bookkeeping, he should be allowed a charitable donation tax credit.[5]
+[42] His assertion does not accord with his testimony that throughout 2009, he went to George’s office and gave instalment cheques and later cash amounts totalling $15,000 to George. During cross-examination, he admitted that the cheques were made payable to George, and he never observed George forwarding any of the contributions to Revival, nor did he have any evidence to show that the amounts were given to Revival or Daniel Mokwe. I find that making cheques payable to George and giving cash to George does not amount to making a charitable donation to a charitable organization. This alone is sufficient for me to conclude that no donations were made by Mr. Bello to Revival. However, I will deal with other aspects of the evidence.
+[43] Mr. Bello’s testimony contradicts the information in his Notice of Appeal which indicates that instalment cheques were issued to Revival, not George.
+[44] When asked in cross-examination if he had copies of the instalment cheques, Mr. Bello said that all cheques were returned to him by the bank. He explained that he did not retain the cheques because he obtained Receipt #72 from Revival.
+[45] Receipt #72 identifies the type of donation as “cheque” with the value ascribed in a singular sum of $15,000. However, in his testimony, he said that cash contributions were also made later in the year. Aside from Receipt #72, dated at the end of the year, not referencing any cash contributions, his Notice of Appeal is also bereft of any suggestion that cash contributions were made. Instead, the later refers only to instalment cheques; a fact he had previously communicated to the CRA by letter dated June 18, 2012. The inconsistencies make his evidence unreliable.
+[46] Furthermore, he did not retain copies of the cheques, he did not obtain copies of images of the cheques from the bank, and he did not make any attempt to obtain a copy of the log to corroborate the purported cheque or cash donations. It is difficult to accept that he would not have taken such measures to prove he made such donations given the large amount and especially as a first-time contributor. I draw a negative inference from his failure to produce such documentation to confirm the purported donations were made.
+[47] The bank statements he produced at the hearing did not support his assertion of instalment cheques. Three of the five cheques were issued in January and three of the four cash amounts were withdrawn in September; the amounts were sporadic, ranging from $100 (cheque) to $5,000 (cash). All totalled the amounts on the statements are considerably less than the $15,000 claimed. Absent some other proof, I am not convinced that these records support Mr. Bello’s testimony concerning his purported donations to Revival.
+[48] Considering the above combined with Mr. Huenemoeder’s evidence as to the falsification of documents by Revival, and that neither Revival nor the donors contacted were able to validate, support or provide proof of cash donations except for a singular receipt similar to Mr. Bello’s Receipt #72, I find that Mr. Bello’s evidence is not reliable. I can only conclude that he has not shown that he made any donations to Revival in 2009.
+[49] In light of the above findings, it is not necessary for me to address the respondent’s secondary position that the appellants’ receipts from Ministries and Revival are not organizations “as recorded with the Minister” thus did not contain all of the information prescribed by paragraph 3501(1)(a) of the Regulations.
+[50] For these reasons, the appeals are dismissed.
+Signed at Toronto, Ontario, this 26th day of August 2014.
+"K. Lyons"
+Lyons J.
+CITATION:
+2014 TCC 258
+COURT FILE NO.:
+2013-4109(IT)I and 2013-4405(IT)I
+STYLE OF CAUSE:
+DAVID ANELE IMOH and HER MAJESTY THE QUEEN
+OLADELE BELLO and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 14, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K. Lyons
+DATE OF JUDGMENT:
+August 26, 2014
+APPEARANCES:
+For the Appellant,
+David Anele Imoh:
+The Appellant himself
+Agent for the Appellant,
+Oladele Bello
+D.A. Shaw
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The accountant died of a heart attack in November or December 2012.
+[2] According to Exhibit A-1, Revival Time Ministries International was audited. According to Mr. Huenemoeder, Revival Time Ministries Int. was audited. Presumably those are the same entities which I will refer to collectively from hereon in as “Revival.”
+[3] The pamphlet from the social gathering was not produced by Mr. Imoh.
+[4] A subpoena could have been arranged.
+[5] Without having pleaded the issue or tendered evidence in support, he speculated that the charitable status of Revival had not necessarily been revoked permanently. It is unnecessary for me to address this issue but note that Mr. Huenemoeder testified that Revival Int.’s status as a charity was revoked and although it had been challenged by Revival Int. at the Federal Court of Appeal, that Court, as the final arbiter, dismissed the challenge.

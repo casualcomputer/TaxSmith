@@ -1,0 +1,263 @@
+---
+title: "Huntly Investments Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/304078/index.do"
+last_modified: "2017-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 255"
+citation2: ""
+neutral_citation: "2017 CCI 255"
+decision_date: "2017-12-21"
+language: "fr"
+item_id: "304078"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7900
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:15:09.032000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fd6eb625edecc307b92b68726e5da2890f4ae18c1c0f1c83e9eb3a26ac554e1a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Huntly Investments Limited c. La Reine
+
+- Citation: 2017 CCI 255
+- Decision date: 2017-12-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7900, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Huntly Investments Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-12-21
+Référence neutre
+2017 CCI 255
+Numéro de dossier
+2014-3345(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-3345(IT)G
+ENTRE :
+HUNTLY INVESTMENTS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 31 janvier et les 1er et 2 février 2017
+à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge B. Paris
+Comparutions :
+Avocat de l’appelante :
+Me David Davies
+Avocat de l’intimée :
+Me Matthew Turnell
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2010, 2011 et 2012 sont rejetés, et les dépens sont adjugés à l’intimée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 21e jour de décembre 2017.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 11e jour d’octobre 2018.
+Elisabeth Ross, jurilinguiste
+Référence : 2017 CCI 255
+Date : 20171221
+Dossier : 2014-3345(IT)G
+ENTRE :
+HUNTLY INVESTMENTS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Aux termes du paragraphe 125(1) de la Loi de l’impôt sur le revenu (la « Loi »), une société privée sous contrôle canadien peut demander une déduction pour petite entreprise relativement au revenu provenant d’une entreprise exploitée activement au Canada. La déduction pour petite entreprise n’est pas applicable au revenu provenant d’une entreprise de placement déterminée exploitée par une société.
+[2] L’entreprise exploitée par une société n’est pas une entreprise de placement déterminée si la société compte plus de cinq employés à plein temps ou s’il est raisonnable de considérer que la société aurait eu besoin de plus de cinq employés à plein temps n’eussent été les services fournis par des sociétés associées.
+[3] La question en litige dans le présent appel est celle de savoir si l’appelante a exploité une entreprise de placement déterminée pendant ses années d’imposition 2010, 2011 et 2012. Ces années d’imposition couvrent la période du 1er septembre 2009 au 31 août 2012.
+[4] Puisque l’appelante employait moins de cinq employés à plein temps pendant les années en cause, la présente affaire repose sur la question de savoir s’il est raisonnable de considérer qu’elle aurait eu besoin de plus de cinq employés à plein temps si ses sociétés associées ne lui avaient pas fourni de services.
+Les faits
+Les activités de l’appelante
+[5] Pendant la période visée, l’entreprise de l’appelante consistait principalement à détenir et à louer des biens immobiliers au centre-ville de Vancouver.
+[6] Son portefeuille locatif était constitué de cinq immeubles. L’un d’entre eux, le « Beaconsfield », comptait 40 logements et était situé au 884, rue Bute. Les quatre autres immeubles étaient adjacents les uns aux autres et comptaient 40 logements en tout. Ces immeubles étaient les suivants : un immeuble d’habitation de six étages situé au 601, rue Bute, un autre petit immeuble d’habitation situé au 1218, rue Melville, une maison située au 649, rue Bute, et une maison de chambres située au 1222, rue Melville. L’appelant a désigné collectivement ce groupe d’immeubles sous le nom de « Stadacona », soit le nom du plus grand des quatre immeubles. Dans les présents motifs, je ferai de même.
+[7] Brent Wolverton est le président et un administrateur de l’appelante et il dirige les activités de cette dernière depuis le début des années 1990.
+Les sociétés associées
+[8] Les deux sociétés associées qui ont fourni des services à l’appelante pendant les années en cause sont Pacific Investment Corporation Limited (« PIC ») et Wolverton Securities Ltd (« WSL »).
+[9] PIC se spécialisait dans le développement, la construction et la gestion de biens immobiliers dans la région de Vancouver. Elle était propriétaire de deux immeubles d’habitation, soit le « Holly Lodge », qui comptait 84 logements, et le « Caroline Court », qui comptait 75 logements, auxquels s’ajoutait un immeuble commercial. Elle possédait aussi un certain nombre de restaurants et de brasseries, dont certaines étaient artisanales, en propriété directe ou indirecte par l’entremise de filiales.
+[10] WSL était une entreprise de courtage en valeurs mobilières ayant des bureaux dans l’ouest du Canada. Ses revenus se calculaient en dizaines de millions de dollars. Elle comptait de 25 000 à 35 000 clients et employait de 125 à 150 employés, dont environ 25 comptables. Sa masse salariale avoisinait les trois millions de dollars.
+[11] L’appelante, PIC et WSL étaient des sociétés associées au sens du paragraphe 256(1) de la Loi, puisque des membres de la famille Wolverton contrôlaient, directement ou indirectement, les trois sociétés.
+[12] Brent Wolverton est aussi le président et un administrateur de PIC, et était le premier dirigeant de WSL jusqu’à ce que WSL vende son entreprise en 2016.
+Sommaire des activités de l’appelante
+[13] Pendant les années en cause, Brent Wolverton a participé activement à la gestion de l’entreprise de l’appelante. L’appelante a aussi utilisé une société de gestion immobilière avec laquelle elle avait un lien de dépendance, Dorset Realty Group Canada Limited (« Dorset »), et elle employait un directeur de l’exploitation et des gérants résidents pour ses immeubles.
+[14] De plus, certains services de gestion, de comptabilité et d’administration ont été fournis pour l’appelante par des employés de PIC et de WSL.
+Le rôle de Dorset
+[15] Dorset fournissait des services de gestion immobilière à l’appelante aux termes d’un contrat conclu en 2004. Même si les témoignages de Brent Wolverton et du propriétaire de Dorset, Kim Schuss, ne concordaient pas en tous points en ce qui a trait au travail réalisé par Dorset pour l’appelante, je constate que Dorset :
+- faisait la comptabilité des loyers et déposait l’argent des loyers après leur perception par les gérants des immeubles,
+- renouvelait les baux et aidait l’appelante à fixer les augmentations de loyer,
+- approuvait les nouveaux locataires après avoir vérifié leurs antécédents de crédit et communiqué avec les références, préparait les avis d’expulsion et s’occupait des conflits entre locataires et des procédures devant le tribunal administratif du logement,
+- fournissait des services de gestion de la paie aux employés de l’appelante, délivrait les feuillets T4 et versait des paiements,
+- supervisait, dans une certaine mesure, les gérants des immeubles et embauchait de nouveaux gérants avec l’approbation de Brent Wolverton,
+- tenait le registre des revenus et des dépenses liés aux immeubles et s’occupait de la plus grande partie du travail administratif lié à leur exploitation, notamment ce qui concernait le registre locatif, les contrats, les conventions de location, les augmentations de loyer, les avis d’expulsion et les factures,
+- faisait le suivi des évaluations foncières et des impôts fonciers, et déposait les appels relatifs aux impôts fonciers,
+- prenait les mesures nécessaires pour l’entretien régulier des immeubles, comme l’enlèvement des ordures, et négociait certains contrats pour l’acquisition de matériel et de fournitures,
+- coordonnait les réparations ponctuelles et, pour les projets de réparation de plus grande envergure, embauchait des ouvriers et obtenait des devis pour Brent Wolverton et le directeur de l’exploitation,
+- menait des inspections des immeubles et aidait à la planification des réparations et à la gestion de leur coût.
+[16] Huntly a accepté de verser à Dorset des frais équivalant à 2,75 % des loyers perçus dans les immeubles locatifs. La preuve montre que, en réalité, l’appelante a payé à Dorset près de 3 % des loyers perçus, ce qui représentait environ 30 000 $ par année.
+Les employés de l’appelante
+i) Les gérants des immeubles
+[17] Pendant toutes les années en cause, l’appelante employait des gérants qui vivaient généralement sur place. Pendant une partie de la période visée, PIC a fourni les gérants du Stadacona.
+[18] Les gérants des immeubles avaient pour tâches, entre autres, de percevoir les loyers, de faire visiter les logements aux locataires éventuels, de répondre aux plaintes des locataires, de faire les travaux d’entretien général et les petites réparations, de préparer les déménagements et d’inspecter les logements. Ils s’occupaient aussi des locataires qui ne payaient pas leur loyer et signifiaient les avis d’expulsion. Souvent, l’appelante embauchait un couple pour occuper le poste de gérant de l’immeuble, et le couple s’acquittait des tâches en équipe.
+[19] Les gérants des immeubles percevaient un salaire calculé en fonction d’une semaine de travail de 40 heures au salaire minimum. Les couples qui travaillaient comme gérants se partageaient le salaire du poste et chaque membre du couple recevait un feuillet T4 délivré par l’appelante, généralement pour des montants identiques.
+[20] Il semble que les gérants des immeubles ne suivaient pas d’horaire fixe et qu’ils n’étaient pas obligés de faire le compte de leurs heures de travail. Ils n’avaient pas à se trouver sur les lieux à certaines heures, mais ils devaient être disponibles sur appel. Brent Wolverton a affirmé que les gérants résidents devaient travailler 40 heures par semaine, mais qu’ils étaient autorisés à travailler au moment qui leur convenait. Il a aussi affirmé que les gérants résidents étaient disponibles sur appel 24 heures sur 24 pour répondre aux urgences.
+[21] Les gérants employés par l’appelante étaient Jennifer Wells, Bradley et Jeeyoon Bennett, Stephen Hubley, Wendy Moore et Murray Miller.
+[22] Jennifer Wells a géré le Beaconsfield du 15 mai 2010 au 30 avril 2011 et le Stadacona pour la plus grande partie de la même période, soit du 1er juin 2010 au 30 avril 2011.
+[23] Bradley et Jeeyoon Bennett, un couple, ont travaillé ensemble comme gérants résidents du Beaconsfield du 1er mai 2011 au 30 juin 2012.
+[24] Stephen Hubley a été le gérant résident du Beaconsfield du 1er juillet 2012 jusqu’après la fin de la période visée par l’appel.
+[25] Wendy Moore et Murray Miller, un couple, ont été les gérants du Stadacona du 1er septembre 2009 au 31 mai 2010.
+[26] Le 1er mai 2011, Jennifer Wells a cessé d’être la gérante du Beaconsfield et d’être employée par l’appelante. Elle a ensuite été embauchée par PIC comme gérante du Holly Lodge. Toutefois, tandis qu’elle gérait le Holly Lodge, elle a continué de gérer le Stadacona, au moins jusqu’à la fin de 2012. Elle n’était pas rémunérée par l’appelante pour son travail au Stadacona et n’a été rémunérée que par PIC pendant cette période.
+[27] L’époux de Jennifer Wells, Paul Wells, l’aidait à gérer le Holly Lodge et le Stadacona. Il pourrait aussi l’avoir aidée au Beaconsfield, mais la preuve n’est pas claire sur ce point. Il a reçu 11 000 $ et 23 350 $ de PIC au cours des années civiles 2011 et 2012, respectivement.
+ii) Le directeur de l’exploitation
+[28] Boz Najdovski était employé simultanément par l’appelante et par PIC comme directeur de l’exploitation de leurs biens immobiliers, jusqu’à la fin de l’année d’imposition 2010. Brent Wolverton a déclaré dans son témoignage que M. Najdovski était depuis longtemps employé du groupe de sociétés Wolverton et qu’il travaillait à plein temps pour ce dernier.
+[29] M. Najdovski coordonnait et supervisait les grands travaux d’entretien et de réparation, il réalisait des travaux de réparation et d’entretien et il supervisait les gérants des immeubles à la fois pour l’appelante et pour PIC.
+[30] Selon le feuillet T4 délivré à M. Najdovski par l’appelante en 2010, celui‑ci a reçu un revenu d’emploi de 54 487,50 $. Le feuillet T4 délivré par PIC la même année fait état d’un revenu d’emploi de 36 144 $. Brent Wolverton a affirmé que le salaire de M. Najdovski versé par les deux sociétés était fondé sur le travail qu’il réalisait pour elles. M. Najdovski n’avait pas d’horaire fixe pour l’une ou l’autre des deux sociétés, mais Brent Wolverton a déclaré dans son témoignage qu’il était disponible à plein temps si l’appelante avait besoin de lui.
+[31] M. Najdovski est tombé malade et a cessé de travailler peu avant la fin de l’année d’imposition 2010 de l’appelante. Il est décédé en décembre 2010. Après le décès de M. Najdovski, l’appelante n’a embauché personne pour le remplacer au poste de directeur de l’exploitation.
+[32] De la cessation d’emploi de M. Najdovski jusqu’en décembre 2011, certaines des tâches du directeur de l’exploitation ont été exécutées pour le compte de l’appelante par Dorset, Brent Wolverton et Jennifer Wells, et certains des grands travaux de réparation et d’entretien ont été reportés.
+[33] En décembre 2011, WSL a embauché Togie Moyes comme directeur de l’exploitation pour l’appelante et pour PIC. M. Moyes était un vieil ami de Brent Wolverton et avait déjà travaillé pour le groupe de sociétés Wolverton, pour lequel il avait réalisé de petits travaux à titre d’entrepreneur indépendant.
+iii) Les autres employés
+[34] Brent Wolverton a reçu un revenu d’emploi de 60 000 $ de l’appelante au cours de son année d’imposition 2011. Il n’a pas été rémunéré par l’appelante au cours des autres années en cause. Il a affirmé avoir fourni des services de gestion de haut niveau à l’appelante tout au long des années en cause. Aucun compte n’a été fait du nombre d’heures qu’il a travaillé pour l’appelante.
+[35] L’épouse de Brent Wolverton, Linda Wolverton, a reçu un salaire de 35 000 $ de l’appelante au cours de son année d’imposition 2010. Selon Brent Wolverton, elle était la [traduction] « remplaçante désignée » de la société et devait principalement être disponible en cas d’urgence et percevoir les frais de buanderie. Il a affirmé que la somme qui lui a été versée constituait une indemnisation équitable pour s’être rendue disponible sur appel. Elle n’a pas été rémunérée par l’appelante au cours des autres années visées par l’appel.
+[36] En 2010 et en 2011, l’appelante a payé un salaire de 3 000 $ à la dirigeante principale des finances de WSL, Ellen Paterson. Selon Brent Wolverton, Mme Paterson a fait du travail de comptabilité stratégique pour l’appelante au cours de ces années.
+[37] L’appelante comptait aussi deux employés à temps partiel en 2012, soit Xavier « Paco » Besne et Timothy Street, qui faisaient des réparations et des petits travaux.
+Les services fournis par WSL
+[38] Comme je l’ai déjà mentionné, Togie Moyes a été embauché par WSL à plein temps en décembre 2011 pour remplir les fonctions de directeur de l’exploitation pour l’appelante et PIC. Brent Wolverton a affirmé que M. Moyes était à la disposition de PIC et de l’appelante au besoin et qu’il n’a pas fait de travail pour WSL. Aucune explication n’a été donnée sur la raison pour laquelle il a été embauché par WSL.
+[39] M. Moyes n’a pas été rémunéré par l’appelante, et WSL n’a pas facturé les services de celui‑ci à l’appelante. Aucun compte n’a été fait du nombre d’heures qu’il a travaillé pour l’appelante.
+[40] Brent Wolverton a affirmé que d’autres employés de WSL ont fait du travail pour l’appelante.
+[41] Lui-même a fourni des services de gestion de haut niveau à l’appelante tout au long de la période visée, et son adjointe de direction chez WSL, Margaret Ferguson, l’a aidé à exécuter son travail. Entre autres attributions, cette dernière gérait son agenda, filtrait ses appels et prenait des notes lors des réunions.
+[42] Brent Wolverton a aussi affirmé que la directrice des finances de WSL, Rose Zanic, et le personnel comptable de WSL étaient à la disposition de PIC et de l’appelante au besoin. Il a déclaré dans son témoignage que Mme Zanic avait participé à la préparation des états financiers de l’appelante ainsi qu’à des évaluations et à des études financières liées à l’appelante. Toutefois, lors de l’interrogatoire préalable, M. Wolverton a affirmé que Mme Zanic n’avait fourni aucun service à l’appelante pendant la période visée.
+[43] Brent Wolverton a aussi affirmé qu’un membre du personnel comptable, Shelly Cheung, avait aidé l’appelante en lui fournissant des services de tenue de livres, de gestion des comptes clients et d’autres services corollaires.
+[44] Brent Wolverton a témoigné que les services fournis par Ellen Paterson à l’appelante étaient plus importants que ce pour quoi elle avait été payée par l’appelante et qu’elle avait fourni des services de [traduction] « comptabilité stratégique », mais aucun élément de preuve précis n’a été présenté quant à ces services.
+[45] Brent Wolverton a déclaré qu’une partie des services qu’il fournissait à l’appelante avec d’autres membres du personnel de WSL étaient liés aux plans de réaménagement préparés pour le site du Stadacona.
+[46] Brent Wolverton a affirmé que la valeur du Stadacona avait augmenté pour atteindre environ 50 millions de dollars en 2009 et que, par conséquent, l’appelante n’était pas en mesure d’obtenir un rendement satisfaisant des logements existants. La possibilité d’augmenter les loyers était limitée en raison des mesures de contrôle des loyers, et les immeubles étaient vieux et nécessitaient sans cesse des réparations. Vu l’âge et l’état des immeubles et leur emplacement de choix au centre-ville, selon les dires de M. Wolverton, l’appelante estimait que la meilleure solution était de réaménager le site du Stadacona.
+[47] Au début de 2009, l’appelante a commencé à envisager la possibilité de construire de nouveaux immeubles locatifs et a embauché un architecte pour lui présenter des idées. L’appelante a aussi discuté avec la Ville de Vancouver pour s’informer des mesures incitatives offertes pour la construction d’un nouveau parc locatif. Des plans préliminaires ont été établis en avril 2009 en vue de la construction d’une tour de 47 étages comprenant 368 logements locatifs. M. Wolverton a toutefois précisé que cette proposition n’avait jamais été présentée aux autorités municipales et qu’elle faisait simplement partie de la phase d’incubation du processus de réaménagement.
+[48] Brent Wolverton a reconnu qu’après l’établissement des plans préliminaires, les travaux ont avancé lentement en raison de la crise financière. Il a affirmé que, pendant et après la crise financière, il avait dû porter son attention sur l’entreprise de courtage en valeurs mobilières de WSL et qu’il n’avait pas eu beaucoup de temps à consacrer aux plans de réaménagement du Stadacona. Il a reconnu que le processus de planification avait été suspendu pendant quelques années et n’avait été repris qu’en 2013 et en 2014. En 2016, Huntly avait choisi un plan de réaménagement à partir des propositions de 2009, et un plan révisé a été préparé par un nouvel architecte.
+Les services fournis par PIC
+[49] Comme je l’ai déjà mentionné, Jennifer Wells et son époux ont travaillé comme gérants du Stadacona du 1er mai 2011 jusqu’à la fin de la période visée par le présent appel, à titre d’employés de PIC. Ils ont également travaillé comme gérants résidents du Holly Lodge, qui appartenait à PIC. Le Holly Lodge comptait 84 logements locatifs. Le Stadacona en comptait 79.
+La thèse de l’appelante
+[50] L’appelante fait valoir que le critère « à défaut de » prévu à l’alinéa b) de la définition d’« entreprise de placement déterminée » exige qu’on compte le nombre réel de personnes employées à plein temps et à temps partiel directement par l’appelante et qu’on ajoute à cette somme le nombre d’employés à plein temps et à temps partiel qu’il serait raisonnable de considérer comme ayant été nécessaire si les sociétés associées n’avaient pas fourni de services à l’appelante.
+[51] L’appelante affirme que, pour appliquer le critère prévu à l’alinéa b), il ne faut pas compter le nombre d’employés de la société fournissant les services, mais plutôt le nombre d’employés, selon ce qu’il est raisonnable de considérer, dont l’appelante aurait eu besoin si elle avait agi seule. L’appelante affirme qu’il convient d’abord d’examiner les services fournis, ainsi que la question de savoir s’il y a des chevauchements entre les attributions de postes qui pourraient raisonnablement être fusionnés en un seul poste, puis de considérer raisonnablement le nombre d’employés à plein temps dont l’appelante aurait eu besoin.
+[52] Par ailleurs, l’appelante affirme que le critère ne tient pas compte de la possibilité de sous-traiter les services fournis par les sociétés associées, même dans le cas où la sous-traitance serait économiquement avantageuse. Le critère exige qu’on établisse le nombre d’employés à plein temps dont l’appelante aurait eu besoin pour exécuter ces services.
+[53] L’appelante soutient que l’expression « il est raisonnable de considérer que la société aurait eu besoin » signifie qu’il faut démontrer qu’il existe plus qu’une simple possibilité que l’appelante aurait eu besoin de plus de cinq employés à plein temps si les sociétés associées ne lui avaient pas fourni de services. L’emploi théorique de ces personnes doit être vraisemblable, mais le critère n’impose pas un seuil aussi élevé que celui de la prépondérance des probabilités.
+[54] D’après l’appelante, son entreprise pendant les années d’imposition en cause était constituée de l’exploitation et de la gestion du Beaconsfield et du Stadacona, en plus de la planification et de la réalisation d’un grand projet de construction.
+[55] Selon les calculs de l’appelante, elle employait au moins deux employés à plein temps et deux employés à temps partiel pendant son année d’imposition 2010, un employé à plein temps et deux employés à temps partiel en 2011, et un employé à plein temps et deux employés à temps partiel en 2012.
+[56] Les employés à plein temps pendant l’année 2010 étaient le directeur de l’exploitation, Boz Najdovski, et une gérante d’immeuble à plein temps au Beaconsfield (Wendy Moore jusqu’en mai 2010, puis Jennifer Wells jusqu’à la fin de l’année).
+[57] Pour l’année 2011, l’employé à plein temps était le gérant du Beaconsfield (Jennifer Wells jusqu’en mai 2011, puis Bradley Bennett).
+[58] Pour l’année 2012, l’appelante affirme que ses employés à plein temps étaient le gérant du Beaconsfield (Bradley Bennett jusqu’en juillet 2012, puis Stephen Hubley jusqu’à la fin de l’année).
+[59] L’appelante soutient que, afin de remplacer les services fournis par WSL et PIC, elle aurait eu besoin de quatre employés à plein temps au cours de son année 2010 : un premier dirigeant; un adjoint de direction; un comptable agréé, un comptable général accrédité ou l’équivalent; et un assistant confirmé ou un commis comptable. Elle affirme que, en plus de ces employés, elle aurait eu besoin d’un gérant à plein temps pour fournir les services rendus par Jennifer et Paul Wells au Stadacona pendant ses années d’imposition 2011 et 2012, ainsi que d’un directeur de l’exploitation à plein temps pour remplacer Togie Moyes pendant l’année 2012.
+[60] En tout, l’appelante affirme donc qu’elle aurait eu besoin d’au moins six employés à plein temps au cours de ses années d’imposition 2010 et 2011, et d’au moins sept employés au cours de son année d’imposition 2012.
+Les dispositions légales
+[61] Le paragraphe 125(1) prévoit la déduction pour petite entreprise :
+Déduction accordée aux petites entreprises
+125 (1) La société qui est tout au long d’une année d’imposition une société privée sous contrôle canadien peut déduire de son impôt payable par ailleurs pour l’année en vertu de la présente partie une somme égale au produit de la multiplication du taux de la déduction pour petite entreprise qui lui est applicable pour l’année par la moins élevée des sommes suivantes :
+a) l’excédent éventuel du total des montants suivants :
+(i) le total des sommes dont chacune est le montant de revenu de la société pour l’année provenant d’une entreprise exploitée activement au Canada, sauf l’une des sommes suivantes :
+[62] Le taux de déduction pour petite entreprise ne peut s’appliquer qu’au revenu tiré par une société d’une « entreprise exploitée activement », et la définition d’« entreprise exploitée activement » exclut la société qui exploite une entreprise de placement déterminée. Ainsi, s’il est établi que l’appelante exploite une entreprise de placement déterminée, elle ne pourra pas bénéficier de la déduction pour petite entreprise.
+[63] Les termes « entreprise exploitée activement » et « entreprise de placement déterminée » sont définis au paragraphe 125(7) :
+entreprise exploitée activement Toute entreprise exploitée par une société, autre qu’une entreprise de placement déterminée ou une entreprise de prestation de services personnels mais y compris un projet comportant un risque ou une affaire de caractère commercial;
+(Non souligné dans l’original.)
+entreprise de placement déterminée Entreprise, sauf une entreprise exploitée par une caisse de crédit ou une entreprise de location de biens autres que des biens immeubles ou réels, dont le but principal est de tirer un revenu de biens, notamment des intérêts, des dividendes, des loyers et des redevances. Toutefois, sauf dans le cas où la société est une société à capital de risque de travailleurs visée par règlement au cours de l’année, l’entreprise exploitée par une société au cours d’une année d’imposition n’est pas une entreprise déterminée si, selon le cas :
+a) la société emploie dans l’entreprise plus de cinq employés à plein temps tout au long de l’année;
+b) une autre société associée à la société lui fournit au cours de l’année, dans le cadre de l’exploitation active d’une entreprise, des services de gestion ou d’administration, des services financiers, des services d’entretien ou d’autres services semblables et il est raisonnable de considérer que la société aurait eu besoin de plus de cinq employés à plein temps si ces services ne lui avaient pas été fournis;
+[64] La jurisprudence était partagée sur la question de savoir si « plus de cinq employés à plein temps » signifiait que six employés à plein temps étaient nécessaires. La Cour a tranché définitivement la question dans la décision 489599 B.C. Ltd c. La Reine, 2008 CCI 332, dans laquelle il a été décidé qu’il y a « plus de cinq employés à plein temps » s’il y a cinq employés à plein temps et des employés à temps partiel. Toutefois, il est clair que, pour arriver à cinq employés à plein temps, on ne peut pas tenir compte des employés à temps partiel ni les additionner pour arriver à un équivalent en emplois à plein temps : Lerric Investments Corp. c. La Reine, [1999] CanLII 396.
+[65] Le sens d’employé « à plein temps » dans le contexte de la définition d’entreprise de placement déterminée a fait l’objet d’un examen par la Cour fédérale dans La Reine c. Hughes & Co. Holdings Ltd., [1994] A.C.F. no 935 (QL). Dans cette décision, la Cour a mis l’accent sur l’horaire de travail régulier et les heures normales de travail à titre de principaux facteurs pour déterminer si un employé travaille à plein temps. En concluant que l’employé dans cette affaire n’était pas un employé à plein temps, la Cour s’est exprimée ainsi :
+Il a travaillé « à des heures irrégulières » et ses services n’étaient pas requis pour le jour, la semaine, le mois ou l’année normal de travail; il était employé sur une base régulière pour travailler un nombre inférieur aux heures régulières de travail de chaque jour de travail, dans la mesure où il a rendu des services chaque jour. Le Parlement a utilisé l’expression « employé à plein temps » dans le sens habituel de ces mots.
+[66] Le même raisonnement a été adopté par la Cour d’appel fédérale dans l’arrêt Baker c. Canada, 2005 CAF 185, aux paragraphes 14 et 15 :
+Je partage la conclusion tirée par le juge Muldoon dans la décision Hughes and Co., précitée, en page 6517, que le concept d’emploi « à plein temps » dans la définition d’« entreprise de placement déterminée » s’emploie par opposition à emploi « à temps partiel ». Cette distinction se rapporte à la considération générale que le législateur avait à l’esprit lorsqu’il posait pour condition un minimum de cinq employés à temps plein tout au long de l’année. Cette condition n’est remplie que si l’emploi est à plein temps, par opposition à l’emploi à temps partiel.
+Les employés de Town Properties travaillaient certes cinq jours par semaine et, à ce titre, avaient un emploi régulier, mais ils ne travaillaient pas le nombre normal d’heures par jour, semaine ou mois. En fait, leur travail de quatre heures par jour leur permettait d’occuper de façon relativement facile plus d’un emploi.
+[67] Suivant la décision de la Cour d’appel fédérale dans l’arrêt Baker, le critère à appliquer pour établir si un employé travaille à plein temps exige que l’on réponde à la question de savoir si l’employé travaille le nombre normal d’heures par jour, semaine ou mois.
+Analyse
+[68] En l’espèce, l’objectif principal de l’appelante était de tirer un revenu locatif de biens résidentiels. Par conséquent, son entreprise s’assimile à une entreprise de placement déterminée, sauf si l’une des exceptions prévues à la définition de ce terme s’applique.
+[69] Puisque l’appelante n’employait pas directement plus de cinq employés à plein temps au cours des années d’imposition visées, la seule exception qui pourrait s’appliquer se trouve à l’alinéa b) de la définition d’« entreprise de placement déterminée ». Cette disposition énonce un critère « à défaut de » hypothétique servant à établir si une société peut éviter que son entreprise soit assimilée à une entreprise de placement déterminée : serait-il raisonnable de considérer que l’appelante aurait eu besoin, à défaut des services fournis par les sociétés associées, de plus de cinq employés à plein temps?
+[70] L’appelante fait remarquer, à bon droit, que, pour appliquer ce critère, il faut d’abord connaître le nombre d’employés à plein temps que l’appelante employait réellement pendant les années en cause.
+[71] L’étape suivante consiste à déterminer le nombre d’employés à plein temps dont l’appelante aurait eu besoin pour exécuter les services fournis par les sociétés associées.
+[72] Je souscris à l’observation de l’appelante selon laquelle le critère ne vise que le recours à des employés pour assurer les services visés, à l’exclusion des entrepreneurs externes, puisque le libellé de la disposition ne fait mention que des employés. Autrement, il me semble qu’on pourrait faire valoir que tous les services fournis par les sociétés associées pourraient être offerts par des entrepreneurs indépendants et que, par conséquent, l’exception prévue à l’alinéa b) pourrait ne jamais s’appliquer.
+[73] Cependant, je n’admets pas que ce critère exclue la possibilité que les services fournis par les sociétés affiliées puissent être assurés par des employés à temps partiel. L’expression « il est raisonnable de considérer » doit être interprétée dans son sens ordinaire, et manifestement il serait déraisonnable de s’attendre à ce qu’une société embauche un employé à plein temps lorsqu’il n’y a suffisamment de travail que pour un employé à temps partiel. À mon avis, le libellé de la disposition à cet égard est clair et sans ambiguïté.
+[74] En outre, l’appelante avance que l’expression « il est raisonnable de considérer que la société aurait eu besoin » impose à l’appelante un fardeau de la preuve plus léger que celui de la prépondérance des probabilités. Étant donné les conclusions que je tire plus loin, il n’est pas nécessaire d’examiner cette question.
+[75] Je me pencherai d’abord sur la question du nombre d’employés à plein temps que l’appelante comptait pendant la période visée.
+[76] D’après la preuve, l’appelante employait surtout des couples comme gérants de ses immeubles et, dans chaque cas, il semble que les couples se partageaient une charge de travail à plein temps. Puisque chaque membre du couple était payé pour sa part du travail réalisé, je conclus que chaque membre du couple était en fait employé à temps partiel par l’appelante. Cette conclusion est appuyée par les feuillets T4 distincts qui ont été délivrés à Wendy Moore et à Murray Miller, ainsi qu’à Bradley et à Jeeyoon Bennett.
+[77] Seule Jennifer Wells était employée à plein temps, du 1er mai 2010 au 30 avril 2011. Cette période couvrait partiellement les années d’imposition 2010 et 2011 de l’appelante. Par conséquent, Jennifer Wells n’était pas employée à plein temps tout au long de l’une ou l’autre de ces années.
+[78] Il s’ensuit que l’appelante n’a employé aucun gérant à plein temps tout au long des années en cause.
+[79] L’appelante affirme aussi que Boz Najdovski était un employé à plein temps au cours de son année d’imposition 2010. Toutefois, M. Najdovski a travaillé à la fois pour l’appelante et pour PIC pendant cette période, et Brent Wolverton a déclaré dans son témoignage que le salaire que M. Najdovski recevait de chaque société était basé sur le travail qu’il faisait pour chacune d’elles. D’après les montants perçus en 2010, il a consacré 60,1 % de son temps à l’appelante. Compte tenu de la répartition du salaire de M. Najdovski entre l’appelante et PIC, je n’accepte pas qu’il fût à la disposition de l’appelante à plein temps, comme l’a affirmé M. Wolverton. Il n’est pas du tout logique d’affirmer que M. Najdovski était à la disposition de l’appelante pendant qu’il travaillait pour PIC.
+[80] Je conclus que M. Najdovski n’était pas un employé à plein temps de l’appelante au cours de son année d’imposition 2010.
+[81] Par conséquent, compte tenu de la preuve présentée à l’audience, je conclus que l’appelante n’avait aucun employé à plein temps tout au long des années visées par le présent appel.
+[82] Ensuite, je dois déterminer le nombre d’employés à plein temps dont l’appelante aurait eu besoin pour remplacer les services fournis par WSL et PIC.
+[83] L’appelante soutient que, pour remplacer ces services, elle aurait eu besoin de quatre employés à plein temps au cours de l’année 2010 : un premier dirigeant; un adjoint de direction; un comptable agréé, un comptable général accrédité ou l’équivalent; et un assistant confirmé ou un commis comptable.
+[84] Elle affirme aussi que, outre ces employés, elle aurait eu besoin d’un gérant à plein temps pour assurer les services fournis par Jennifer et Paul Wells au Stadacona au cours des années d’imposition 2011 et 2012 et, enfin, d’un directeur de l’exploitation à plein temps pour assurer les services fournis par Togie Moyes au cours de l’année 2012.
+[85] La thèse de l’appelante selon laquelle elle aurait eu besoin d’un premier dirigeant, d’un adjoint de direction, d’un comptable ou d’un premier dirigeant des finances et d’un commis comptable à plein temps est principalement fondée sur le postulat qu’elle préparait activement une proposition de réaménagement relative au site du Stadacona au cours des années d’imposition 2010 à 2012. J’estime que la preuve ne me permet pas de conclure que l’appelante planifiait activement le réaménagement pendant les années en cause. Les seuls documents liés aux activités de réaménagement qui ont été présentés à l’audience sont les plans d’architecte préparés en 2009 et en 2016. Vu l’aveu fait par Brent Wolverton selon lequel les activités de réaménagement ont été en suspens pendant plusieurs années après l’établissement des plans de 2009, et vu l’absence de tout élément de preuve montrant la prise de quelque mesure que ce soit en vue de l’avancement du réaménagement pendant les années en cause, je déduis que peu d’efforts, voire aucun effort, ont été déployés à cet égard. En outre, si des travaux avaient été entrepris pour faire avancer la proposition de réaménagement pendant les années en cause, je me serais attendu à ce qu’ils soient consignés dans des documents ou des registres de cette époque. Le fait que l’appelante n’ait pas produit ces documents à l’audience étaye également la conclusion que le projet était alors en suspens.
+[86] Je conclus aussi que les services fournis par Brent Wolverton à l’appelante consistaient principalement à donner des directives au directeur de l’exploitation, à Dorset et à certains employés de WSL, et à les superviser. À l’occasion, M. Wolverton participait aussi à des tâches telles que la modification des conventions de location utilisées par l’appelante. De son propre aveu, il a consacré la majorité de la période visée à l’entreprise de WSL et à la gestion des affaires de PIC. Je constate que le portefeuille locatif de PIC était près de deux fois plus important que celui de l’appelante et que PIC participait aussi à un certain nombre d’entreprises exploitées activement. Par conséquent, je conclus que M. Wolverton a probablement dû consacrer plus de temps à la gestion des affaires de PIC qu’à celles de l’appelante et que, compte tenu des autres fonctions de M. Wolverton (pour WSL et pour PIC), les services qu’il a rendus à l’appelante n’auraient vraisemblablement exigé qu’une petite part de son temps. Cette conclusion est aussi étayée par le fait que WSL n’a pas facturé à l’appelante les services fournis par Brent Wolverton ni tenté de faire le compte de ses heures de travail pour l’appelante et pour PIC ou de répartir son salaire en fonction du travail réalisé pour elles.
+[87] Pour ces motifs, je ne suis pas convaincu que l’appelante se soit acquittée du fardeau de démontrer que, sans les services fournis par M. Wolverton, elle aurait eu besoin d’un premier dirigeant à plein temps. Il s’ensuit que l’appelante n’aurait pas eu besoin d’un adjoint de direction à plein temps pour remplacer les services fournis par Margaret Ferguson, l’adjointe de direction de M. Wolverton chez WSL.
+[88] L’appelante n’a pas non plus su me convaincre qu’elle aurait eu besoin, à défaut des services fournis par Rose Zanic et le personnel comptable de WSL, d’un comptable et d’un commis comptable à plein. Mme Zanic n’a pas été appelée à témoigner, pas plus que les autres employés des services comptables de WSL. Il est difficile d’évaluer la portée des services qu’ils ont fournis à l’appelante sans ces témoignages. M. Wolverton a lui-même affirmé qu’il ne pouvait pas déterminer le nombre d’heures consacrées par ces employés de WSL aux activités de l’appelante et que WSL n’a pas facturé leur travail à l’appelante. Par ailleurs, je m’interroge sur la fiabilité du témoignage de M. Wolverton se rapportant à la portée des services fournis par Mme Zanic, étant donné qu’il a déclaré, à l’interrogatoire préalable, qu’il ne se souvenait pas qu’elle ait jamais travaillé pour l’appelante. Son explication selon laquelle il avait, depuis, vu des documents qui lui avaient rappelé ce que Mme Zanic avait fait n’a été corroborée par aucun document déposé en preuve.
+[89] Par contre, je prête foi au témoignage de Kim Schuss selon lequel la comptabilité courante pour l’appelante était réalisée par Dorset sous le régime de l’entente de gestion immobilière. Son témoignage concorde avec celui de M. Wolverton, selon lequel la majorité des services comptables fournis à l’appelante par le personnel de WSL étaient fournis vers la fin de l’exercice de l’appelante et se rapportaient à la préparation des états financiers.
+[90] En ce qui concerne les services fournis par Ellen Paterson, je prends note que l’appelante lui a versé un salaire de seulement 3 000 $ en 2010 et en 2011, ce qui tend à démontrer qu’elle n’a apporté qu’un soutien limité à l’appelante pendant ces périodes. Le témoignage de Brent Wolverton sur son rôle dans les activités de l’appelante était lacunaire et, sans témoignage de Mme Paterson ou document faisant état du temps qu’elle aurait consacré à l’entreprise de l’appelante, je ne suis pas convaincu qu’elle ait passé beaucoup de temps à fournir des services à l’appelante.
+[91] L’appelante soutient aussi que, sans les services fournis par les employés de PIC Jennifer et Paul Wells du 1er mai 2011 jusqu’à la fin d’août 2012, l’appelante aurait eu besoin d’un gérant à plein temps pour le Stadacona. Je reconnais que c’était le cas. L’ensemble de la preuve donne à penser que le poste de gérant était un emploi à plein temps pour une seule personne. Le salaire des gérants des immeubles était calculé en fonction d’une semaine de travail de 40 heures au salaire minimum et, bien que les heures de travail aient été souples, dans le cas où le travail était réalisé par une seule personne, cette personne devait travailler chaque semaine le nombre d’heures équivalant à une semaine de travail à plein temps. Toutefois, Paul et Jennifer Wells ne sont devenus employés de PIC qu’en mai 2011 et, par conséquent, PIC n’a fourni des services à l’appelante que pendant une partie de l’année d’imposition 2011 de l’appelante et pendant toute son année d’imposition 2012. Par conséquent, l’appelante aurait eu besoin d’un employé à plein temps pour remplacer les services fournis par le couple Wells tout au long de l’année d’imposition 2012 de l’appelante uniquement.
+[92] Enfin, l’appelante a affirmé que, sans les services de Togie Moyes, qui était employé par WSL, elle aurait eu besoin d’un directeur de l’exploitation à plein temps. Le problème avec cette thèse est que M. Moyes agissait à titre de directeur de l’exploitation pour l’appelante et pour PIC et que le portefeuille locatif de PIC était environ deux fois plus important que celui de l’appelante. Par conséquent, il semble invraisemblable que l’appelante aurait eu besoin d’un directeur de l’exploitation à plein temps pour remplacer les services fournis par M. Moyes pendant l’année d’imposition 2012. Quoi qu’il en soit, faute de preuve précise sur le temps consacré par M. Moyes à l’entreprise de chaque société, il m’est impossible de déterminer la portée du travail qu’il a réalisé pour l’appelante. Le manque de preuve m’amène à conclure que l’appelante ne s’est pas acquittée du fardeau de la preuve qui lui incombait à l’égard des services fournis par M. Moyes.
+Conclusion
+[93] Pour résumer, l’appelante a seulement réussi à me convaincre qu’elle aurait eu besoin d’un employé à plein temps pendant son année d’imposition 2012 si WSL et PIC ne lui avaient pas fournis de services. Puisqu’elle n’a pas démontré que, n’eussent été les services fournis par WSL et PIC, elle aurait eu besoin de plus de cinq employés à plein temps tout au long des années en cause, je conclus qu’elle a exploité une entreprise de placement déterminée durant ces années.
+[94] Les appels sont rejetés, et les dépens sont adjugés à l’intimée.
+Signé à Vancouver (Colombie-Britannique), ce 21e jour de décembre 2017.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 11e jour d’octobre 2018.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2017 CCI 255
+No DU DOSSIER DE LA COUR :
+2014-3345(IT)G
+INTITULÉ :
+Huntly Investments Limited et Sa Majesté la Reine
+LIEU ET DATES DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+Le 31 janvier et les 1er et 2 février 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 21 décembre 2017
+COMPARUTIONS :
+Avocat de l’appelante :
+Me David Davies
+Avocat de l’intimée :
+Me Matthew Turnell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+David Davies
+Cabinet :
+Thorsteinssons LLP
+Vancouver (Colombie-Britannique)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

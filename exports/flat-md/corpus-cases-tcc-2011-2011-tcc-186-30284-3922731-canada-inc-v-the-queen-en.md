@@ -1,0 +1,252 @@
+---
+title: "3922731 Canada Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30284/index.do"
+last_modified: "2011-03-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 186"
+citation2: ""
+neutral_citation: "2011 TCC 186"
+decision_date: "2011-03-25"
+language: "en"
+item_id: "30284"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8026
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:43:38.013000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d4a3e4d89abeea416851e54c2647af0ff10911dccbb3165461ce56c11d2ddbcb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 3922731 Canada Inc. v. The Queen
+
+- Citation: 2011 TCC 186
+- Decision date: 2011-03-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8026, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+3922731 Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-25
+Neutral citation
+2011 TCC 186
+File numbers
+2009-2966(GST)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-2966(GST)I
+BETWEEN:
+3922731 CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on January 18, 2011, at Ottawa, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the appellant:
+Chantal Donaldson
+Counsel for the respondent:
+Kira Brezhneva
+Michael Ezri
+____________________________________________________________________
+JUDGMENT
+The appeals from the goods and services tax reassessments made under Part IX of the Excise Tax Act for the period from January 1, 2006, to December 31, 2007, is dismissed.
+Signed at Ottawa, Canada, this 25th day of March 2011.
+“Gerald J. Rip"
+Rip C.J.
+Translation certified true
+on this 18th day of May 2010.
+Daniela Possamai, Translator
+Citation: 2011 TCC 186
+Date: 20110325
+Docket: 2009-2966(GST)I
+BETWEEN:
+3922731 CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Rip C.J.
+[1] This is an appeal from reassessments issued under Part IX of the Excise Tax Act (Act) for the period from January 1, 2006, to December 31, 2007, in which the Minister of National Revenue (Minister) assessed the goods and services tax (GST) collected but not remitted by the appellant for an amount of $10,357.17 and denied input tax credits (ITCs) in the amount of $7,378.85.
+[2] The appellant is known under the business name “Handyman Plus.” The appellant provides residential renovation services that are subject to GST. The appellant is registered for GST purposes.
+[3] During the period at issue, the appellant’s sales were $561,245.31 and it collected the GST for an amount of $33,608.32. However, the Minister submits that only one amount of $23,251.15 was remitted. The appellant therefore failed to remit $10,357.17.
+[4] During the same period, the appellant claimed ITCs in the amount of $17,839.82. The Minister alleges that no documentation required to support the ITC claim for $7,378.85 was provided.
+[5] Prior to and at the beginning of the hearing, the parties agreed to reduce the amounts in issue. The only amounts still being disputed by the appellant are as follows: the unpaid and disallowed GST amount now totals $1,268.42 for the period ending March 31, 2006, whereas the ITC amount claimed by the appellant, for the period ending September 30, 2007, is $5,775.79 and concerns only one invoice.
+[6] Serge Lafortune testified for the appellant. He has been handling his accounting for four years. His job involves the preparation of yearly financial statements, bookkeeping and tax remittances. He handled his accounting for the period ending September 30, 2007, but not the period ending March 31, 2006.
+[7] As for the $5,775.79 in disallowed ITCs, the appellant introduced in evidence an invoice from the corporation 4362799 Canada Inc. dated August 13, 2007. The invoice was for “consulting services” charged to the appellant in the amount of $102,011.00 $ (including $6,120.66 in GST) for a total of $108,131.66. The accountant claimed ITCs for that invoice in the amount of $6,120.66. At the time of audit, the Canada Revenue Agency (CRA) refused to allow the ITCs considering that there was no mention of the GST number of 4362799 on the invoice. Furthermore, 4362799 was not registered for GST purposes and had not remitted the amount in question. 432799 was registered by the CRA at the time of the audit.
+[8] The CRA’s audit allowed the accountant to realize that the invoice of 432799 was inaccurate. In fact, the appellant only paid $102,011 to 432799 by way of a cheque in the amount of $45,000 and by a certified cheque in the amount of $57,011. The accountant inferred that it was rather a “tax inclusive” transaction totalling $102,011. The invoice is therefore incorrect and the tax actually charged is $5,775.79 and not $6,120.66.
+[9] There is also another anomaly. The invoice is dated August 13, 2007, whereas the first cheque of $45,000 is dated July 19, 2007. However, nowhere on the invoice is there mention of the first payment of $45,000 already made. The accountant never amended the GST report respecting the incorrect ITC amount that was initially claimed as he was unaware of the error until the time of the audit.
+[10] The contract between the appellant and 432799 was not filed in evidence. There was no communication between the appellant and 432799, or with its directors, to amend the invoice and it seems that 432799 is being dissolved. The accountant stated that he had a discussion with the principal of the appellant during which he confirmed that the agreement was for $102,011.
+[11] As for the GST amount collected but not remitted, the books and records of the appellant indicate for the period ending March 31, 2006, that the GST owed is $3,262.42 whereas only $1,924 has been remitted according to its GST return. That leaves a shortfall of $1,338.42 that has not been remitted to the CRA. The parties have agreed to reduce that amount to $1,268.42.
+[12] According to the accountant, there is no supporting documentation, no service sold to a customer that generated GST for an amount of $1,268.42. Although the accountant did not go through all of the appellant’s invoices, he did verify subsequent cash inflows. He began his cash inflow verifications only from April 1, 2006. He did not verify the appellant’s invoices and cash inflows prior to that date.
+[13] While the accountant does not know why such an amount appeared on the appellant’s return, he put forward certain hypotheses. He also stated that he attempted to contact the former accountant, but to no avail. He could not recall his name at the hearing.
+[14] The following exchange properly summarizes the situation as regards the amount of $1,268.42. Counsel for the respondent posed the following question [Translation]: “So you are suggesting that the amount is incorrect but without providing any concrete evidence as to why the amount is incorrect. The different [sic] theory but it is unknown what actually happened with the books and records for the year 2006?” The accountant replied, “That is correct.”
+[15] As for the ITCs, the appellant is of the view that it is entitled to them as the tax was in fact paid. It is irrelevant whether or not 432799 was registered as it had an obligation to be registered. Moreover, the appellant cannot be held liable for the failure of 432799 to remit the GST; it is entitled to ITCs from the moment GST is paid. Finally, the obligation to provide an invoice with a GST number is simply a “technicality” of the Act, which, furthermore, was subsequently resolved when the CRA assigned a GST number to 432799.
+[16] The respondent, for her part, is of the view that the appellant is not entitled to the ITCs, as the invoice does not follow the formal procedure set out in paragraph 169(4)(a) of the Act and in the regulatory provisions. The case law strictly applied such provisions in Systematix,[1] Baker,[2] Camion DM Inc[3] and St-Isidore Écono Centre Inc.[4]
+[17] As for the unremitted GST amount of $1,268.42, the appellant argues that good faith is always presumed and, from the moment it stated that the amount was incorrectly entered, in light of after-the fact verifications, the CRA should have no longer claimed that amount from it. As for the respondent, she is asking that the Court draw a negative inference from the absence of testimony by the former accountant and principal of the appellant.
+Act
+[18] Subsections 169(4) and 169(5) of the Act read as follows:
+(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+(b) where the credit is in respect of property or a service supplied to the registrant in circumstances in which the registrant is required to report the tax payable in respect of the supply in a return filed with the Minister under this Part, the registrant has so reported the tax in a return filed under this Part.
+(4) L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+b) dans le cas où le crédit se rapporte à un bien ou un service qui lui est fourni dans des circonstances où il est tenu d’indiquer la taxe payable relativement à la fourniture dans une déclaration présentée au ministre aux termes de la présente partie, il indique la taxe dans une déclaration produite aux termes de la présente partie.
+(5) Where the Minister is satisfied that there are or will be sufficient records available to establish the particulars of any supply or importation or of any supply or importation of a specified class and the tax in respect of the supply or importation paid or payable under this Part, the Minister may
+(a) exempt a specified registrant, a specified class of registrants or registrants generally from any of the requirements of subsection (4) in respect of that supply or importation or a supply or importation of that class; and
+(b) specify terms and conditions of the exemption.
+(5) Le ministre peut, s’il est convaincu qu’il existe ou existera des documents suffisants pour établir les faits relatifs à une fourniture ou à une importation, ou à une catégorie de fournitures ou d’importations, ainsi que pour calculer la taxe relative à la fourniture ou à l’importation, qui est payée ou payable en application de la présente partie :
+a) dispenser un inscrit, une catégorie d’inscrits ou les inscrits en général des exigences prévues au paragraphe (4) relativement à la fourniture ou à l’importation ou à une fourniture ou une importation de la catégorie;
+b) préciser les modalités de la dispense
+Sections 2 and 3 of the Input Tax Credit Information (GST/HST) Regulations (Regulations) read as follows:
+2. In these Regulations,
+“Act” means the Excise Tax Act; (Loi)
+“intermediary” of a person, means, in respect of a supply, a registrant who, acting as agent of the person or under an agreement with the person, causes or facilitates the making of the supply by the person; (intermédiaire)
+. . .
+Regulations; (taxe de vente provinciale)
+. . .
+“supporting documentation” means the form in which information prescribed by section 3 is contained, and includes
+(a) an invoice,
+(b) a receipt,
+(c) a credit-card receipt,
+(d) a debit note,
+(e) a book or ledger of account,
+(f) a written contract or agreement,
+(g) any record contained in a computerized or electronic retrieval or data storage system, and
+(h) any other document validly issued or signed by a registrant in respect of a supply made by the registrant in respect of which there is tax paid or payable; (pièce justificative)
+“tax paid or payable” means tax that became payable or, if it had not become payable, was paid. (taxe payée ou payable)
+2. Les définitions qui suivent s’appliquent au présent règlement.
+. . .
+« intermédiaire » Inscrit qui, agissant à titre de mandataire d’une personne ou aux termes d’une convention conclue avec la personne, permet à cette dernière d’effectuer une fourniture ou en facilite la réalisation. (intermediary)
+« Loi » La Loi sur la taxe d’accise. (Act)
+« pièce justificative » Document qui contient les renseignements exigés à l’article 3, notamment :
+a) une facture;
+b) un reçu;
+c) un bordereau de carte de crédit;
+d) une note de débit;
+e) un livre ou registre de comptabilité;
+f) une convention ou un contrat écrits;
+g) tout registre faisant partie d’un système de recherche documentaire informatisé ou électronique ou d’une banque de données;
+h) tout autre document signé ou délivré en bonne et due forme par un inscrit pour une fourniture qu’il a effectuée et à l’égard de laquelle il y a une taxe payée ou payable. (supporting documentation)
+. . .
+« taxe payée ou payable » Taxe devenue payable ou qui a été payée alors même qu’elle n’était pas devenue payable. (tax paid or payable)
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+(a) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is less than $30,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business,
+(ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+(iii) where an invoice is not issued in respect of the supply or the supplies, the date on which there is tax paid or payable in respect thereof, and
+(iv) the total amount paid or payable for all of the supplies;
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+(ii) the information set out in subparagraphs (a)(ii) to (iv),
+(iii) where the amount paid or payable for the supply or the supplies does not include the amount of tax paid or payable in respect thereof,
+(A) the amount of tax paid or payable in respect of each supply or in respect of all of the supplies, or
+(B) where provincial sales tax is payable in respect of each taxable supply that is not a zero-rated supply and is not payable in respect of any exempt supply or zero-rated supply,
+(I) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of each taxable supply, and a statement to the effect that the total in respect of each taxable supply includes the tax paid or payable under that Division, or
+(II) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of all taxable supplies, and a statement to the effect that the total includes the tax paid or payable under that Division,
+(iv) where the amount paid or payable for the supply or the supplies includes the amount of tax paid or payable in respect thereof and one or more supplies are taxable supplies that are not zero-rated supplies,
+(A) a statement to the effect that tax is included in the amount paid or payable for each taxable supply,
+(B) the total (referred to in this paragraph as the “total tax rate”) of the rates at which tax was paid or payable in respect of each of the taxable supplies that is not a zero-rated supply, and
+(C) the amount paid or payable for each such supply or the total amount paid or payable for all such supplies to which the same total tax rate applies, and
+(v) where the status of two or more supplies is different, an indication of the status of each taxable supply that is not a zero-rated supply; and
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+3. Les renseignements visés à l’alinéa 169(4)(a) de la Loi, sont les suivants :
+a) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de moins de 30 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire,
+(ii) si une facture a été remise pour la ou les fournitures, la date de cette facture,
+(iii) si aucune facture n’a été remise pour la ou les fournitures, la date à laquelle il y a un montant de taxe payée ou payable sur celles-ci,
+(iv) le montant total payé ou payable pour la ou les fournitures;
+b) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 30 $ ou plus et de moins de 150 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire et le numéro d’inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur ou à l’intermédiaire, selon le cas,
+(ii) les renseignements visés aux sous-alinéas a)(ii) à (iv),
+(iii) dans le cas où la taxe payée ou payable n’est pas comprise dans le montant payé ou payable pour la ou les fournitures :
+(A) ou bien, la taxe payée ou payable pour toutes les fournitures ou pour chacune d’elles,
+(B) ou bien, si une taxe de vente provinciale est payable pour chaque fourniture taxable qui n’est pas une fourniture détaxée, mais ne l’est pas pour une fourniture exonérée ou une fourniture détaxée :
+(I) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour chaque fourniture taxable, ainsi qu’une déclaration portant que le total pour chaque fourniture taxable comprend la taxe payée ou payable selon cette section,
+(II) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour toutes les fournitures taxables, ainsi qu’une déclaration portant que ce total comprend la taxe payée ou payable selon cette section,
+(iv) dans le cas où la taxe payée ou payable est comprise dans le montant payé ou payable pour la ou les fournitures et que l’une ou plusieurs de celles-ci sont des fournitures taxables qui ne sont pas des fournitures détaxées :
+(A) une déclaration portant que la taxe est comprise dans le montant payé ou payable pour chaque fourniture taxable,
+(B) le total (appelé « taux de taxe total » au présent alinéa) des taux auxquels la taxe a été payée ou était payable relativement à chacune des fournitures taxables qui n’est pas une fourniture détaxée,
+(C) le montant payé ou payable pour chacune de ces fournitures ou le montant total payé ou payable pour l’ensemble de ces fournitures auxquelles s’applique le même taux de taxe total,
+(v) dans le cas où deux fournitures ou plus appartiennent à différentes catégories, une mention de la catégorie de chaque fourniture taxable qui n’est pas une fourniture détaxée;
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l’acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[19] I have substantial doubts regarding the invoice involving the amount of $5,775.79. The invoice has a number of anomalies. The GST amount indicated is inaccurate and does not make mention of the initial payment of $45,000. Moreover, the contract for services between 432799 and the appellant was not filed in Court and no principal of the appellant testified. The accountant’s testimony as to the nature of the agreement between 432799 and the appellant is hearsay. All this leads me to believe that the tax was never paid or charged. However, even without arriving at that conclusion, the appellant cannot claim ITCs, as the formal procedure set out in paragraphs 3(c) and 3(b)(i) of the Regulations was not followed. The invoice must bear the supplier’s registration number.
+[20] The “technicalities” of the Act, as characterized by counsel for the appellant, must be respected. The case law is well-established. The following excerpt from the Federal Court of Appeal’s decision[5] properly summarizes the situation:
+[4] We are of the view that the legislation is mandatory in that it requires persons who have paid GST to suppliers to have valid GST registration numbers from those suppliers when claiming input tax credits.
+[5] We agree with the comments of Bowie J. in the case of Key Property Management Corp. v. R. [2004] G.S.T.C. 32 (T.C.C.) where he stated:
+The whole purpose of paragraph 169(4)(a) and the Regulations is to protect the consolidated revenue fund against both fraudulent and innocent incursions. They cannot succeed in that purpose unless they are considered to be mandatory requirements and strictly enforced. The result of viewing them as merely directory would not simply be inconvenient, it would be a serious breach of the integrity of the statutory scheme.
+[Emphasis added.]
+[6] We also agree with the comments of Campbell J. in Davis v. R. [2004] G.S.T.C. 134 (TCC):
+Because of the very specific way in which these provisions are worded, I do not believe they can be sidestepped. They are clearly mandatory and the Appellant has simply not met the technical requirements which the Act and the Regulations place upon him as a member of a self-assessing system.
+[Emphasis added.]
+[21] The appellant cannot claim ITCs if the invoice does not bear the supplier’s registration number. Although the Minister could have allowed the ITCs under subsection 169(5) of the Act, he chose not to exercise his discretion in this case. The Court cannot force his hand. In such circumstances, it is irrelevant whether or not the invoice was “tax inclusive.”
+[22] The burden of proving that the amount of $1,268.42 was incorrectly entered rested with the appellant. The new accountant did not verify all the invoices and cash inflows for the period ending March 31, 2006. He simply verified subsequent cash inflows. The accountant and the appellant should have conducted an analysis of the invoices and cash inflows for the period ending March 31, 2006. The fact of verifying cash inflows after that period is not enough. Furthermore, the accountant does not know why the amount was incorrectly entered. In such circumstances, the testimony of the former accountant was necessary.
+[23] The appeal is dismissed.
+Signed at Ottawa, Canada, this 25th day of March 2011.
+“Gerald J. Rip”
+Rip J.
+Translation certified true
+on this 18th day of May 2010.
+Daniela Possamai, Translator
+CITATION: 2011 TCC 186
+COURT FILE NO.: 2009-2966(GST)I
+STYLE OF CAUSE: 3922731 CANADA INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+PLACE OF HEARING: January 18, 2011
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: March 25, 2011
+APPEARANCES:
+Counsel for the appellant:
+Chantal Donaldson
+Counsel for the respondent:
+Kira Brezhneva
+Michael Ezri
+COUNSEL OF RECORD:
+For the appellant:
+Name: Chantal Donaldson
+Firm: Leblanc Doucet McBride
+Gatineau, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada Ottawa, Canada
+[1] Systematix Technology Consultants Inc. v. Canada, 2007 FCA 226.
+[2] Baker v. Canada, 2007 TCC 106.
+[3] Camions DM Inc. v. Canada, 2009 TCC 63.
+[4] St-Isidore Écono Centre Inc. v. Canada, 2008 TCC 280.
+[5] Systematix Technology Consultants Inc. v. Canada, 2007 FCA 226.

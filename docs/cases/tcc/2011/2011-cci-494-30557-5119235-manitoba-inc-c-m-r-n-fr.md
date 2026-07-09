@@ -1,0 +1,192 @@
+---
+title: "5119235 Manitoba Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30557/index.do"
+last_modified: "2011-10-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 494"
+citation2: ""
+neutral_citation: "2011 CCI 494"
+decision_date: "2011-10-20"
+language: "fr"
+item_id: "30557"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7298
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:31:57.688000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bdcc93a42b200714def1622d430a4fcada04a79cdfda8ca7e8a04f92399b53ca"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 5119235 Manitoba Inc. c. M.R.N.
+
+- Citation: 2011 CCI 494
+- Decision date: 2011-10-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7298, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+5119235 Manitoba Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-20
+Référence neutre
+2011 CCI 494
+Numéro de dossier
+2011-1008(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2011-1008(EI)
+ENTRE :
+5119235 MANITOBA INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu le 6 septembre 2011 à Winnipeg (Manitoba).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+M. Robert McMullin
+Avocate de l’intimé :
+Me Larissa Benham
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu de la Loi sur l’assurance‑emploi à l’égard de la décision du ministre du Revenu national datée du 28 janvier 2011 est accueilli, sans dépens, et la décision du ministre est modifiée en vue de prévoir qu’au cours de la période du 24 septembre 2005 au 14 février 2010, Christine Sawler n’exerçait pas auprès de l’appelante un emploi assurable pour l’application de la Loi sur l’assurance‑emploi.
+Signé à Ottawa, Canada, ce 20e jour d’octobre 2011.
+« Wyman W. Webb»
+Juge Webb
+Traduction certifiée conforme
+Ce 5e jour de décembre 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 494
+Date : 20111020
+Dossier : 2011-1008(EI)
+ENTRE :
+5119235 MANITOBA INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Il s’agit d’un appel interjeté en vertu de la Loi sur l’assurance‑emploi (la « LAE »). L’appelante exploitait en franchise, à Winnipeg, un restaurant appelé « Chicken Chef ». Les actions de l’appelante étaient détenues à parts égales par Robert McMullin et Donna Sawler. La question en litige est de savoir s’il y avait un lien de dépendance entre l’appelante et Christine Sawler, qui est la fille de Donna Sawler et qui compte parmi les employés de l’appelante. La période en question va du 24 septembre 2005 au 14 février 2010. Robert McMullin avait demandé si la période pourrait être prolongée jusqu’à juin 2010. Toutefois, étant donné qu’un appel interjeté à la Cour est un appel d’une décision du ministre du Revenu national (le « ministre »), et comme la décision du ministre ne concernait que la période se terminant le 14 février 2010, c’est cette période qui est applicable en l’espèce. La période visée par l’appel ne peut pas être prolongée pour la présente audience.
+[2] L’article 5 de la LAE prévoit en partie ce qui suit :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+5(2) N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[3] Étant donné que Donna Sawler et Robert McMullin n’étaient pas des personnes liées, l’appelante n’était pas liée à Christine Sawler. En conséquence, l’alinéa 5(3)b) de la LAE n’est pas applicable en l’espèce.
+[4] Pour l’application de la LAE, n’est pas un emploi assurable l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance. L’appelante soutient que Christine Sawler n’exerçait pas auprès de la société un emploi assurable étant donné que l’appelante et Christine Sawler avaient entre elles un lien de dépendance.
+[5] Dans l’arrêt Canada c. Remai, 2009 CAF 340, 2009 DTC 5188 (angl.), [2010] 2 C.T.C. 120, le juge Evans, s’exprimant au nom de la Cour d’appel fédérale, a fait les observations suivantes :
+31 Le juge a appliqué le cadre analytique qui avait été adopté dans la décision Peter Cundill & Associates Ltd. c. La Reine, [1991] 1 C.T.C. 197 (C.F. 1re inst.), conf. par [1991] 2 C.T.C. 221 (C.A.F.) (Peter Cundill) et qui avait été appliqué dans l’arrêt McLarty, aux paragraphes 64 et suivants, pour déterminer si Sweet et Frank avaient ou non un lien de dépendance lorsque la Fondation a vendu les billets à Sweet en échange d’un billet de Sweet ayant la même valeur et portant intérêt au même taux.
+32 Suivant la décision Peter Cundill, pour déterminer si une transaction a été réalisée entre des personnes « sans lien de dépendance », le tribunal doit se demander : (i) si un seul cerveau dirigeait les négociations pour les deux parties à l’opération; (ii) si les parties à l’opération agissaient de concert, sans intérêts distincts; (iii) si l’une des deux parties exerçait un contrôle effectif sur l’autre. Comme tout autre critère légal comportant plusieurs volets, il n’est pas nécessaire de satisfaire à chacun des volets dans tous les cas. Certains revêtent une importance particulière dans certains cas, alors que d’autres ont moins d’importance. De plus, les facteurs énumérés ne sont pas nécessairement exhaustifs.
+33 Sa Majesté admet que le critère exposé dans la décision Peter Cundill est le critère juridique à appliquer, mais elle ajoute que le juge a commis une erreur de droit en ne se demandant pas si « les termes des opérations […] traduisaient […] des relations commerciales ordinaires entre [des parties] agissant dans leurs propres intérêts » (la juge Sharlow, dans l’arrêt Petro-Canada c. La Reine, 2004 CAF 158, 2004 DTC 6329 [C.A.F.], au paragraphe 55).
+34 À mon avis, il ne s’agit pas là d’une erreur de droit, parce que la question de savoir si les termes d’une opération traduisent « des relations commerciales ordinaires entre des parties agissant dans leurs propres intérêts » ne constitue pas un facteur distinct du critère juridique dont on doit tenir compte pour déterminer si une opération a été conclue sans lien de dépendance. Cette expression se veut plutôt une définition utile d’une opération sans lien de dépendance que les divers éléments du cadre d’analyse de la décision Peter Cundill visent à cerner. Elle peut également aider le juge à s’interroger sur le bien-fondé de la conclusion à laquelle aboutit l’application de chacun des facteurs énoncés dans la décision Peter Cundill.
+[6] Un des facteurs à prendre en compte pour déterminer si deux personnes ont entre elles un lien de dépendance, c’est de savoir si ces personnes agissaient de concert, sans intérêts distincts.
+[7] En l’espèce, Donna Sawler était responsable de la gestion courante de l’appelante, y compris la prise de décisions en matière d’embauche. Lors de l’interrogatoire principal de Donna Sawler par l’avocate de l’intimé, l’échange suivant a eu lieu :
+[traduction]
+Q Et je crois comprendre que votre fille, Christine, travaillait au Chicken Chef qui est en cause en l’espèce. Qui avait pris la décision de l’engager?
+R Je ne pense pas qu’il s’agissait vraiment d’une décision. C’était à l’époque – ce n’est pas comme si on en avait discuté. C’était plutôt acquis. Comme si c’était acquis qu’elle viendrait travailler pour nous. Et c’est aussi ainsi que nous avons engagé Mike Morrissette, qui était un employé de Chicken Chef, à Portage, et nous avons aussi intégré à notre équipe, je pense, quatre anciens employés de PFK.
+[8] Il me semble que le fait de dire que c’était « acquis » s’applique uniquement à l’embauche de Christine Sawler. Cette situation laisse entendre que l’appelante et Christine Sawler agissaient de concert, sans intérêts distincts. Les dispositions prises en ce qui concerne les heures supplémentaires donnent aussi à penser (et, à mon avis, donnent fortement à penser) que l’appelante et Christine Sawler agissaient de concert, sans intérêts distincts.
+[9] En l’espèce, il semble que Christine Sawler touchait au départ 10 $ l’heure et que, plus tard, ce montant avait été porté à 13 $ l’heure. Cette rémunération ne semble pas être très différente de celle que l’appelante accordait aux autres employés qui, incontestablement, n’avaient pas de lien de dépendance avec l’appelante. Toutefois, les dispositions prises à l’égard de Christine Sawler relativement aux heures supplémentaires étaient différentes de celles qui étaient applicables aux autres employés. Les propos suivants font partie de l’échange qui a eu lieu lors de l’interrogatoire principal de Donna Sawler mené par l’avocate de l’intimé :
+[traduction]
+Q Est‑ce que Christine travaillait des heures supplémentaires?
+R Si elle travaillait des heures supplémentaires? Oui, elle travaillait des heures supplémentaires.
+Q À quelle fréquence?
+R Durant toutes les cinq années?
+Q Si cela peut être utile, nous pouvons encore procéder par année, donc –
+R Je ne – honnêtement, j’irais à tâtons. Je dirais, je ne sais pas, 60, 70 pour cent du temps.
+Q Donc, vous diriez souvent?
+R Souvent, oui.
+Q À quel taux était‑elle rémunérée pour les heures additionnelles qu’elle travaillait, donc pour les heures supplémentaires?
+R Elle ne l’était pas.
+Q Donc, vous dites qu’elle n’était pas rémunérée à un taux majoré pour les heures supplémentaires qu’elle travaillait?
+R Elle ne l’était pas.
+Q Était-elle rémunérée?
+R Oui, elle était rémunérée. Elle était rémunérée au taux des heures normales.
+[…]
+Q Avez‑vous discuté avec Christine du fait qu’elle n’était pas rémunérée au taux des heures supplémentaires?
+R Non, elle ne me l’a jamais demandé.
+Q Est-ce que les autres employés travaillaient des heures supplémentaires?
+R Oui, ils travaillaient des heures supplémentaires.
+Q À quelle fréquence?
+R Dans la dernière année, je crois qu’il était en fait prévu que Chantelle et Missy travaillent des heures supplémentaires. Par exemple, Chantelle travaillait un quart d’ouverture les samedis. C’était un quart de travail de 9 h 30 à 19 h. Cela était en fait prévu. Elle recevait une rémunération au taux des heures supplémentaires.
+Q Donc, cela veut dire qu’elle travaillait des heures supplémentaires au moins une fois par semaine?
+R Au moins, oui. Et il y a eu une période entre le départ d’Anita et l’embauche de Leaette, au cours de laquelle elles ont vraisemblablement travaillé un assez grand nombre d’heures supplémentaires.
+Q Quel est le taux des heures supplémentaires que recevaient les autres employés?
+R Un taux majoré de moitié.
+[10] Le fait que les autres employés, qui n’avaient incontestablement aucun lien de dépendance avec l’appelante, étaient rémunérés selon un taux majoré de moitié pour les heures supplémentaires alors que Christine Sawler travaillait des heures supplémentaires pour 60 à 70 pour cent du temps au taux des heures normales, semble, à mon avis, mener à la conclusion selon laquelle, en toute vraisemblance, Christine Sawler et l’appelante agissaient de concert, sans intérêts distincts. Le fait que Christine Sawler travaillait un aussi grand nombre d’heures supplémentaires et qu’elle n’ait jamais soulevé la question concernant sa rémunération pour de telles heures supplémentaires alors que d’autres employés étaient rémunérés selon un taux majoré de moitié pour les heures supplémentaires indique aussi que Christine Sawler et l’appelante agissaient de concert, sans intérêts distincts. Il me semble que, si Christine Sawler et l’appelante avaient eu des intérêts distincts, alors Christine Sawler aurait soulevé cette question, étant donné que, pour 60 à 70 pour cent du temps qu’elle travaillait, elle travaillait des heures supplémentaires.
+[11] Robert McMullin a également soulevé une question relative à des plaintes qui avaient été portées contre Christine Sawler. Il semble qu’un grand nombre de plaintes aient été portées contre Christine Sawler, bien que ce nombre ne soit pas clairement établi. Robert McMullin et Donna Sawler avaient eu des expériences différentes en ce qui concerne l’exploitation d’un restaurant et le nombre de plaintes déposées par les clients. Robert McMullin a ainsi témoigné lors du contre‑interrogatoire :
+[traduction]
+Q D’accord, nous y arriverons dans un instant.
+Elle n’était pas la seule personne qui faisait l’objet de plaintes, n’est‑ce pas?
+A Je crois qu’il y en avait une ou deux à l’égard de Missy. Toutes les autres concernaient Christy.
+Je veux dire, en toute justice, dans mon restaurant, en 18 ans, je crois que j’ai reçu deux plaintes, des plaintes déposées au siège social.
+[12] Robert McMullin parlait d’un autre restaurant « Chicken Chef » qu’il exploitait par l’intermédiaire d’une autre société. Robert McMullin parlait de plaintes déposées au siège social. Il a également déclaré au cours de son témoignage qu’ [traduction] « au cours de mes années d’expérience, pour chaque plainte déposée au siège social, le restaurant comme tel en recevait probablement une dizaine ou une vingtaine ». Il semblerait donc qu’au cours de ses 18 ans d’expérience, il aurait eu, environ, de 22 à 44[1] plaintes, ce qui représenterait une moyenne de moins de trois plaintes par année.
+[13] Donna Sawler, au cours de son interrogatoire principal, a déclaré ce qui suit :
+[traduction]
+Q Est‑ce que les plaintes avaient une incidence sur l’évaluation du rendement d’un employé ou sur l’augmentation de salaire?
+A Elles auraient peut‑être eu des incidences à mon avis, mais, non, ai-je jamais pénalisé un employé à cause des plaintes de clients? Comme, par exemple, et Rob l’expliquerait probablement mieux que moi, je ne connais pas ce nombre. Cela couvre une période de cinq ans. Si j’y allais à tâtons, je ne sais pas, une dizaine, et certaines d’entre elles ne concernaient pas Christy.
+Un restaurant ordinaire où j’ai travaillé recevait en moyenne de 500 à 900 plaintes par année. Je ne dirais pas que ce nombre est énorme. Sans parler des plaintes reçues au restaurant. Je dirais qu’en moyenne, nous recevions peut‑être au restaurant, je ne sais pas, une dizaine de plaintes par mois.
+[14] Une moyenne de 500 à 900 plaintes par année est beaucoup plus importante que le nombre de plaintes reçues à l’autre restaurant de Robert McMullin, qui était inférieur à 3 plaintes. Si on suppose qu’un restaurant est ouvert 365 jours par année, le nombre moyen de plaintes par jour que mentionne Donna Sawler (en référence à un autre restaurant où elle avait travaillé) serait égal à environ le nombre moyen de plaintes que recevait Robert McMullin par année à son autre restaurant. Il me semble que si un restaurant reçoit 900 plaintes par année (pour un restaurant ouvert 365 jours par année), c’est‑à‑dire une moyenne de 2,5 plaintes par jour, chaque jour, alors, il y a quelque chose qui ne va pas en ce qui concerne le restaurant. Il me semble que Donna Sawler essayait de justifier le fait qu’aucune mesure n’avait été prise contre sa fille et essayait de minimiser les plaintes portées contre Christine Sawler. Bien qu’il ne soit pas nécessaire, en l’espèce, d’établir si le nombre de plaintes portées contre Christine Sawler indiquerait que Christine Sawler et l’appelante agissaient de concert, sans intérêts distincts, il me semble que l’absence de toute mesure disciplinaire prise par Donna Sawler (qui était responsable du personnel) par suite des plaintes portées contre Christine Sawler, et sa tentative de faire dévier toute critique à l’endroit de Christine Sawler en laissant entendre qu’un restaurant pouvait s’attendre à recevoir de 500 à 900 plaintes par année, indiquent que l’appelante et Christine Sawler agissaient de concert, sans intérêts distincts.
+[15] À mon avis, Christine Sawler et l’appelante agissaient de concert, sans intérêts distincts, et avaient donc entre elles un lien de dépendance tout au long de la période visée par l’appel (du 24 septembre 2005 au 14 février 2010).
+[16] En conséquence, l’appel interjeté en vertu de la LAE à l’égard de la décision du ministre datée du 28 janvier 2011 est accueilli, sans dépens, et la décision du ministre est modifiée en vue de prévoir qu’au cours de la période du 24 septembre 2005 au 14 février 2010, Christine Sawler n’exerçait pas auprès de l’appelante un emploi assurable pour l’application de la LAE.
+Signé à Ottawa, Canada, ce 20e jour d’octobre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+Ce 5e jour de décembre 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 494
+NO DU DOSSIER DE LA COUR : 2011-1008(EI)
+INTITULÉ : 5119235 MANITOBA INC.
+c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 6 septembre 2011
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 20 octobre 2011
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Robert McMullin
+Avocate de l’intimé :
+Me Larissa Benham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les deux plaintes déposées au siège social plus les 10 à 20 plaintes pour chacune de celles‑ci.

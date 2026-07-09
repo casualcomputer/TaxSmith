@@ -1,0 +1,161 @@
+---
+title: "Drake c. Ressoources Humaines"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22810/index.do"
+last_modified: "2005-08-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 498"
+citation2: ""
+neutral_citation: "2005 CCI 498"
+decision_date: "2005-08-08"
+language: "fr"
+item_id: "22810"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2318
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:40:40.904000+00:00"
+cases_cited_count: 0
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c2a7cda799ac0f001be007369aebc93c14d490cead61b2a66e03a655222d778f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Drake c. Ressoources Humaines
+
+- Citation: 2005 CCI 498
+- Decision date: 2005-08-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2318, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Drake c. Ressoources Humaines
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-08
+Référence neutre
+2005 CCI 498
+Numéro de dossier
+2005-141(OAS)
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2005-141(OAS)
+ENTRE :
+DELLA M. DRAKE,
+appelante,
+et
+LE MINISTRE DU DÉVELOPPEMENT DES RESSOURCES HUMAINES
+DU CANADA,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu le 21 juillet 2005 à Saint John (Nouveau-Brunswick)
+devant l’honorable juge E. A. Bowie
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimé :
+Me Heidi Schedler
+_______________________________________________________________
+JUGEMENT
+Considérant que l’appelante a porté en appel devant un tribunal de révision une décision prise par l’intimé en application de la Loi sur la sécurité de la vieillesse, L.R. (1985), ch. O-9 (la « Loi »);
+ET CONSIDÉRANT QUE l’appelante a invoqué comme moyen d’appel le montant de son revenu pour l’année civile 2002 et que ce moyen d’appel a été renvoyé devant la Cour canadienne de l’impôt pour décision en vertu du paragraphe 28(2) de la Loi;
+ET après avoir entendu le témoignage de l’appelante ainsi que les observations de l’appelante et de l’avocate de l’intimé;
+LA COUR STATUE que l’intimé n’a pas commis d’erreur en décidant du montant du revenu de l’appelante pour l’année civile 2002. L’appel est donc rejeté, et le Commissaire des tribunaux de révision sera informé en conséquence.
+Signé à Ottawa, Canada, ce 8e jour d’août 2005.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 29e jour de mars 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2005CCI498
+Date : 20050808
+Dossier : 2005-141(OAS)
+ENTRE :
+DELLA M. DRAKE,
+appelante,
+et
+LE MINISTRE DU DÉVELOPPEMENT DES RESSOURCES HUMAINES
+DU CANADA,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Le présent appel concerne le calcul des prestations auxquelles l’appelante avait droit selon la Loi sur la sécurité de la vieillesse[1] (la « Loi ») pour la période commençant en juillet 2004 et se terminant en juin 2005. Ce calcul dépend du montant du revenu de l’appelante pour l’année 2003[2]. L’appelante conteste le calcul effectué par le ministre du Développement des ressources humaines (le « ministre ») et a appelé de la décision du ministre devant un tribunal de révision. Le paragraphe 28(2) de la Loi prévoit que, lorsque l’appelant invoque comme moyen d’appel que la décision du ministre en ce qui concerne son revenu est mal fondée, l’appel doit être renvoyé pour décision devant la Cour. C’est pour cette raison que j’ai été saisi de cette affaire à Saint John (Nouveau-Brunswick).
+[2] À l’époque pertinente, l’appelante recevait des prestations en vertu de la Loi, y compris le supplément de revenu garanti. Il n’est pas contesté que le niveau des prestations auxquelles elle avait droit pour la période pertinente dépend de son revenu pour l’année 2003. Il n’est pas non plus contesté qu’elle a retiré une somme importante d’un régime enregistré d’épargne-retraite pour faire l’acquisition d’un véhicule fiable qui l’aiderait à remplir certaines obligations familiales. Le ministre a établi les prestations de l’appelante pour la période pertinente en fonction d’un calcul du revenu de l’appelante pour l’année 2003 selon lequel ce revenu comprenait le montant du retrait. Si le ministre n’avait pas inclus ce montant dans son calcul, les prestations reçues par l’appelante auraient été beaucoup plus importantes. L’appelante dit qu’il est injuste d’inclure ce montant dans le calcul de son revenu. Non seulement la réception des fonds retirés est un événement non récurrent, mais elle a eu lieu au courant de l’année qui précédait l’année du calcul des prestations qui fait l’objet de cet appel. Lors de l’année du calcul en question (2004-2005), elle n’avait même plus en sa possession l’argent du retrait. De plus, elle a dû payer de l’impôt sur le montant retiré et n’a eu que le montant net d’impôt pour subvenir à ses besoins.
+[3] Malheureusement, l’appel ne saurait être accueilli. Selon l’article 2 de la Loi, le revenu d’une personne pour l’année civile est son revenu calculé conformément à la Loi de l’impôt sur le revenu (la « LIR »), sous réserve de certaines exceptions qui ne trouvent pas application en l’espèce. Le paragraphe 146(8) et l’alinéa 56(1)h) de la LIR prévoient (toujours sous réserve de certaines exceptions qui ne trouvent pas application en l’espèce) que les prestations reçues dans le cadre d’un régime enregistré d’épargne-retraite d’un contribuable au cours de l’année doivent être incluses dans le calcul du revenu de ce contribuable pour l’année. C’est évidemment pourquoi l’appelante a eu à payer de l’impôt sur le montant du retrait.
+[4] Lorsqu’il a informé l’appelante de sa décision, le ministre a fait référence au paragraphe 14(4) de la Loi et a déclaré que le paragraphe en question ne s’appliquait pas à la situation de l’appelante. Ce paragraphe se lit comme suit :
+(4) Le demandeur -- ou son époux ou conjoint de fait, dans le cas où celui-ci produit la déclaration visée à l'alinéa 15(2)a) -- peut aussi produire une seconde déclaration lorsqu'il subit une perte de revenu par suite de la suppression ou de la réduction du revenu perçu au titre de son régime de pension, au plus tard à la fin de la période de paiement suivant la période de paiement en cours. La seconde déclaration porte alors sur son revenu estimatif de l'année civile au cours de laquelle il a subi cette perte, compte non tenu du revenu perçu au titre du régime de pension pour les mois précédant celui où il a subi la perte. Son revenu pour l'année de référence correspond alors au total des éléments suivants :
+a) son revenu pour cette année civile, compte non tenu du revenu perçu au cours de celle-ci au titre du régime de pension;
+b) le produit du revenu perçu au titre du régime de pension au cours de la partie de l'année civile qui suit le mois précédant le mois au cours duquel il a subi cette perte et de la fraction dont le numérateur est douze et le dénominateur le nombre de mois compris dans cette partie d'année.
+Cette disposition pourrait aider l’appelante seulement si le retrait pouvait être considéré comme un « revenu provenant d’un régime de pension ». Cependant, cette expression est définie pour l’application de la Loi à l’article 14 du Règlement sur la sécurité de la vieillesse[3]. Même l’interprétation la plus large de cette définition ne saurait y inclure le retrait prématuré de fonds d’un régime enregistré. Plus particulièrement, le retrait n’est pas une rente parce qu’il n’est pas fait sur une base périodique. Il ne pourrait pas non plus tomber sous le coup de l’article 14.
+[5] J’ai aussi étudié chacun des autres paragraphes de l’article 14 de la Loi. Il est évident qu’aucun d’entre eux ne pourrait s’appliquer à cette situation factuelle. Je conclus que le ministre n’a pas commis d’erreur en incluant le retrait dans le revenu de l’appelante pour l’année 2003, et le Commissaire des tribunaux de révision en sera informé conformément à l’article 44 du Règlement sur la sécurité de la vieillesse.
+[6] Cependant, je ne voudrais pas laisser cette question sans avoir exprimé mon espoir que le gouvernement songe à proposer une modification de la Loi qui pourrait aider les personnes dans la situation de l’appelante. Il arrive que les bénéficiaires du supplément de revenu garanti se trouvent dans l’obligation de retirer des fonds d’un régime enregistré pour subvenir à un important besoin d’argent. Ils sont alors désavantagés de deux façons. Tout comme l’appelante, non seulement ils perdent l’avantage du revenu de rente que les fonds retirés auraient produit, mais ils subissent en plus une perte quant aux prestations versées en vertu de la Loi, et ce, même si l’augmentation de leur revenu résultant de l’inclusion du montant retiré est une augmentation temporaire d’un an. Bien des préjudices pourraient être évités si les attributions du ministre en vertu de la Loi lui permettaient d’établir le montant des prestations en fonction du revenu du requérant, sans tenir compte des retraits de fonds dans les cas appropriés.
+Signé à Ottawa, Canada, ce 8e jour d’août 2005.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 29e jour de mars 2006.
+Mario Lagacé, jurilinguiste
+ANNEXE « A »
+14. Pour l'application de l'article 14 de la Loi, le revenu provenant d'un régime de pension est le total des montants perçus au titre :
+a) de rentes;
+b) de prestations alimentaires et de soutien;
+c) de prestations d'assurance-emploi;
+d) de prestations d'invalidité provenant d'un régime d'assurance privé;
+e) de prestations, autres que des prestations de décès, versées aux termes du Régime de pensions du Canada ou d'un régime provincial de pensions, tel que défini dans le Régime de pensions du Canada;
+f) de pensions ou de pensions de retraite, autres que les prestations reçues aux termes de la Loi et tout versement semblable reçu en vertu d'une loi provinciale;
+g) d'une indemnité versée aux termes d'une loi fédérale ou provinciale sur l'indemnisation des victimes d'accidents du travail, en raison d'une blessure, d'une invalidité ou d'un décès;
+h) d'allocations de complément de ressources versées aux termes d'un accord visé au paragraphe 33(1) de la Loi sur le ministère du Développement des ressources humaines, en raison d'une réduction définitive du personnel visée à ce paragraphe;
+i) d'allocations de complément de ressources versées au titre du Programme d'adaptation des travailleurs d'usine, du Programme de retraite anticipée des pêches ou du Programme d'adaptation et de redressement de la pêche de la morue du Nord, en raison d'une réduction définitive du personnel.
+RÉFÉRENCE :
+2005CCI498
+Nº DU DOSSIER DE LA COUR :
+2005-141(OAS)
+INTITULÉ :
+Della M. Drake et
+Le ministre du Développement des ressources humaines du Canada
+LIEU DE L’AUDIENCE :
+Saint John (Nouveau-Brunswick)
+DATE DE L’AUDIENCE :
+Le 21 juillet 2005
+MOTIFS DU JUGEMENT :
+L’honorable juge E. A. Bowie
+DATE DU JUGEMENT :
+Le 8 août 2005
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimé :
+Me Heidi Schedler
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R. (1985), ch. O-9, dans sa forme modifiée.
+[2] La Loi, partie II.
+[3] Reproduit à l’annexe « A » des présents motifs du jugement.

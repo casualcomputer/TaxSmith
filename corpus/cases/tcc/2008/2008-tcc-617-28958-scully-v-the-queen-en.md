@@ -1,0 +1,213 @@
+---
+title: "Scully v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28958/index.do"
+last_modified: "2008-11-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 617"
+citation2: ""
+neutral_citation: "2008 TCC 617"
+decision_date: "2008-11-10"
+language: "en"
+item_id: "28958"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2775
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:39:41.632000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bd8c77b242eae0ed270d86deed228117d9b6184ce9e5d5a74f6f0cd19a6bf9cc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Scully v. The Queen
+
+- Citation: 2008 TCC 617
+- Decision date: 2008-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2775, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scully v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-10
+Neutral citation
+2008 TCC 617
+File numbers
+2008-1512(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1512(IT)I
+BETWEEN:
+TERRENCE SCULLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 12, 2008, at Moncton, New Brunswick.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kendrick Douglas
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2006 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of November 2008.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2008 TCC 617
+Date: 20081110
+Docket: 2008-1512(IT)I
+BETWEEN:
+TERRENCE SCULLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+Facts
+[1] The Appellant appealed under the informal procedure from a reassessment disallowing medical expenses.
+[2] The particulars of the appeal are set out in paragraphs 6, 7, 8 and 9 of the Reply to the Notice of Appeal, which are reproduced below:
+6. By Notice of Assessment dated April 16, 2007 the Minister of National Revenue (the “Minister”) advised the Appellant that his income tax liability for the 2006 taxation year had been initially assessed.
+7. When calculating his tax liability for the 2006 taxation year the Appellant claimed amounts totalling $16,235 as medical expenses (the “Medical Expenses”).
+8. By Notice of Reassessment dated October 16, 2007, the Minister advised the Appellant that his claim for Medical Expenses for the 2006 taxation year had been reduced from $16,235 to $1,409, thereby disallowing amounts totalling $14,826.
+9. The Appellant filed a valid Notice of Objection for the 2006 taxation year with which he asked to increase the Medical Expenses from $16,235 as originally claimed to $23,699. By Notice of Reassessment dated March 6, 2008, the Minister varied the reassessment by allowing an additional amount of $220, thereby increasing the total allowable medical expenses to $1,629 and increasing the disallowed amounts to $22,070 (the “Disallowed Amounts”). . . .
+[3] The Appellant and his spouse are the parents of Chanel Scully, born October 27, 1995 (“Chanel”) and Nika Scully, born October 5, 1997 (“Nika”). Both Chanel and Nika have been certified by a medical doctor as having severe and prolonged mental or physical impairments. The types of expenses claimed by the Appellant are summarized in the table below:
+Description
+Amount claimed
+Amount allowed
+Amount disallowed
+Travel (general: 20,222 km @ $0.39/km; to school: January to June 2006; to school: September to December 2006)
+9,444
+0
+9,444
+Trip away to visit parents
+2,656
+0
+2,656
+Trip to IWK, Halifax 566 km @ $0.39
+220
+220
+0
+Babysitting, 52 weeks @ $25/week
+1,300
+0
+1,300
+Replace beds due to bed-wetting ($1,435.07 + $1,177)
+2,612
+0
+2,612
+House confinement (45’ x 26’ = 1,170 sq. ft. + 200 sq. ft. – basement)
+1,370
+0
+1,370
+Telephone (home phone and cellular)
+1,083
+0
+1,083
+House repairs (painting)
+1,156
+0
+1,156
+Prescriptions, medical premiums ($583.16, $280, $149.50, $166.39, $167.46, and $63.35)
+1,409
+1,409
+0
+Massage therapy (portion not paid by Appellant’s medical insurance)
+30
+0
+30
+Super 8 Motel
+91
+0
+91
+Footwear
+80
+0
+80
+Volunteer Centre of Southeastern NB (no purpose identified)
+450
+0
+450
+Sundry: special food, drink, clothing and cleaning
+1,798
+0
+1,798
+Total Expenses Claimed
+$23,699
+Total Expenses Allowed
+$1,629
+Total Expenses Disallowed
+$22,070
+[4] The Minister submits that the expenses included in the disallowed amounts totalling $22,070 were ordinary living expenses and that none of the amounts were medical expenses for the purpose of calculating the medical expense tax credits in accordance with subsections 118.2(1) and 118.2(2) of the Income Tax Act (Canada) (the “Act”).
+[5] In addition, the Respondent claims that massage therapists are not registered under the laws of the province of New Brunswick to practise as medical practitioners as defined in subsection 118.4(2) of the Act. The Respondent further submits that the expense claimed in respect of massage therapy was not a medical expense pursuant to subsection 118.2(2) of the Act as this expense was not an amount paid to a medical practitioner in respect of medical services.
+[6] The Appellant was the only party to testify at trial. The Appellant testified that his daughter Nika was diagnosed with Niemann-Pick Type C disease (“NPC”). He stated that NPC is a very rare disease and that there are only about 500 cases diagnosed worldwide. NPC patients are not able to metabolize cholesterol and other lipids properly within their cells. The Appellant testified that NPC has been initially diagnosed as a learning disability, as mild retardation and as delayed development of fine motor skills.
+[7] Chanel, the older of the two daughters, was diagnosed with autism. Autism is part of a group of pervasive developmental disorders characterized by impairments in social interaction and in verbal or non-verbal communication skills, and often leads to repetitive behaviour. The Appellant testified that Chanel is often violent, reacting negatively to strange sights or sounds, and has on a number of occasions hit people who have come to her aid in situations of emotional crisis. He further testified that Chanel does not like leaving the security of the family residence. She has speech and learning problems and has been barred from taking the school bus for safety reasons.
+[8] Nika faces a host of similar problems. She has speech, learning and sleeping difficulties. She cannot take the school bus for both safety and health reasons. The Appellant testified that Nika is destructive by nature and breaks things constantly. She cannot walk properly and in many cases she has to crawl or use a wheelchair. The Appellant testified, and the Court has no reason to doubt, that his children require 24 hours a day, seven days a week care, thus placing a tremendous emotional and financial burden on both parents.
+[9] The Appellant explained that he and his spouse were advised by a medical specialist that they should take at least two vacations a year without the children to allow them to cope with the emotional burden of providing constant attendant care to their children. He alleged that the government was willing to put the children into foster homes on weekends at a cost of roughly $300 per day per child to give him and his spouse a break from a very stressful life.
+[10] The Appellant pointed out that the $2,656 claimed represented expenses incurred in respect of the vacations taken by him and his spouse in order to allow them to “disconnect” as he put it, for a minimum of seven days out of a 365‑day‑a‑year full-time 24‑hour-a-day job of caring for his special needs children. He found it unfair that the government would not allow him and his spouse to claim the expense of a one‑week vacation twice a year as compensation for providing attendant care to their children in view of the considerable savings achieved by virtue of their refusal to avail themselves of the offer of third-party foster care on weekends. He alleges that without these two short breaks he and his spouse would be unable to cope with the stress of raising two special needs children and that the costs to the government would likely be much higher if they became unable to provide proper care.
+[11] The Appellant explained that $7,885 out of the total travel expenses related to the costs of operating the family van, which was the only means of transportation that he could use to carry his daughter Nika’s wheelchair. The van is often used to take both of his daughters swimming at the beach or at the pool located on the property of the Appellant’s brother in the neighbouring county.
+[12] The Appellant testified that his daughter Chanel has been found by her school to be too impulsive and aggressive to take the bus. The school also advised the Appellant to arrange for school transportation for his daughter Nika himself because her physical condition would pose a safety problem in the event of an accident. The Appellant claimed a total of $1,559 in respect of travel expenses incurred to take his daughters to school.
+[13] The Appellant claimed $1,300 as child care expenses for babysitting. The Respondent did not contest the quantum of the expenses nor their purpose, but alleged that they were also claimed by the Appellant’s spouse in her tax return and had been allowed. The Appellant alleged that he was unaware of the fact that his spouse had claimed the same expenses in her return.
+[14] The Appellant testified that he had had to replace the mattresses of both of his children’s beds, for a total expense of $2,612, due to constant bed-wetting.
+[15] The Appellant did not provide details with respect to the house confinement expenses that were claimed. The Court understood that this was an arbitrary amount chosen by the Appellant to represent the time spent by him and his spouse looking after their children and was compensation for the lack of a meaningful social life in the community.
+[16] The Appellant claimed the costs of cellular phones as an expense in his return as it was extremely important that either the girls or people taking care of the girls during or after school hours be able to reach him or his spouse at all times.
+[17] The amount claimed by the Appellant for house repairs represented the costs of repainting various rooms in the principal residence. The Appellant testified that the paint was chipping and both girls put the paint chips in their mouths, which is extremely dangerous from a health standpoint.
+[18] The Appellant claimed that he paid the Volunteer Centre of Southeastern New Brunswick a total of $450 for three to six hours per week of assistance. The Minister disallowed the expense because a similar amount had been claimed by the Appellant’s spouse. The Appellant claimed that he was unaware of this fact.
+[19] The Appellant testified that the sundry expenses totalling $1,798 referred to as being for special food, drink, clothing and cleaning were incurred in respect of special footwear for his daughter Nika, special food because she suffered from constipation, activity equipment, dry cleaning and expenses incurred at the activities centre.
+Analysis
+[20] The Act provides relief to taxpayers in two forms with respect, inter alia, to children with special needs.
+[21] The first type of relief is provided for under section 118.3 of the Act in the form of a special credit in respect of individuals with mental and physical impairments that cause restrictions to their ability to perform basic activities of daily living (the “DTC”).
+[22] The DTC provides tax relief in the form of a lump sum credit in recognition of non-discretionary expenses that a taxpayer may incur, for example, with respect to dependent children suffering from mental or physical impairments. The tax policy underlying this provision appears clear. Dependents with special needs place an additional financial burden on themselves or related caregivers. In view of the large scope of physical and mental impairments that can affect taxpayers’ well‑being, Parliament has adopted the approach of a lump sum credit based on a specified percentage of a base amount of notional expenses. Parliament has assumed that this minimum amount of expenses would be incurred in respect of individuals suffering from physical or mental impairments.
+[23] Obviously, the Appellant feels that the bar has been set too low in the present case. The Court is very sympathetic to the Appellant’s position and can only begin to imagine the financial and psychological hardship that the Appellant and his spouse face on a daily basis in choosing to personally provide care to their children rather than relying on less satisfactory publicly funded third-party care.
+[24] The other form of tax relief that often applies to cases like the present is the medical expense tax credit (“METC”) provided for in section 118.2 of the Act. The approach adopted for the METC is the opposite of the approach taken with respect to the DTC. For the purposes of the METC the taxpayer must first establish that expenses have been incurred in respect of the taxpayer, a spouse, a common-law partner or a child under the age of 18. However, unlike the DTC, which is based on a credit for a notional amount of expenses, in the case of the METC the expense must meet the specific conditions set out in one of the paragraphs of subsection 118.2(2).
+[25] With the greatest of sympathy for the Appellant’s situation, I am forced to conclude that the expenses that have been disallowed by the Respondent are not of the type that can be deducted under subsection 118.2(2). For example, the travel and transportation expenses claimed by the Appellant and disallowed by the Respondent are not of the type described in paragraphs 118.2(2)(g) and (h). Both of these provisions refer to travel to obtain medical services not available in the locality of the patient’s residence. To be considered as falling under paragraph 118.2(2)(g), the medical services must be obtained at a location that is not less than 40 kilometres from the locality where the patient lives. In addition, where the medical services are provided at a location at least 80 kilometres from the patient’s locality, reasonable travel expenses in addition to transportation expenses incurred in respect of the patient and an accompanying attendant may be deducted under paragraph 118.2(2)(h).
+[26] In the present case, the Appellant argued that some of the travel expenses were incurred in respect of both of his children to drive them to swimming which was ordered by their physician as a therapy that could help their conditions. The Appellant alleged that a medical service could include swimming if recommended by a physician to improve or stabilize the patient’s health. Counsel for the Respondent took a narrower view of the term “medical services”, insisting that the type of medical services in question must be listed in paragraph 118.2(2)(a) of the Act. I note that paragraph 118.2(2)(a) does not set out a definition of “medical services”, but simply defines the type of expenses that are eligible for inclusion under subsection 118.2(1). Therefore, without deciding this issue, I find that the Appellant’s position clearly has some merit. However, the Appellant has failed to establish on a balance of probabilities that the swimming activities that his children benefited from were obtained in a locality that was at least 40 kilometres from their home, or at least 80 kilometres from their home for the purposes of paragraph 118.2(2)(h). The Appellant also failed to establish that there were no swimming facilities available in the locality of his home or at a closer distance to his home. Therefore, the Appellant must fail in his attempt to bring these expenses under paragraphs 118.2(2)(g) and (h) of the Act. As these expenses related to the operation of a van rather than to costs incurred for the acquisition or adaptation of a van, they could not fall within the scope of paragraph 118.2(2)(l.7).
+[27] As mentioned earlier, the other expenses claimed by the Appellant and disallowed by the Minister do not fit within any of the other paragraphs of subsection 118.2(2) of the Act. For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 10th day of November 2008.
+“Robert J. Hogan”
+Hogan J.
+CITATION: 2008 TCC 617
+COURT FILE NO.: 2008-1512(IT)I
+STYLE OF CAUSE: TERRENCE SCULLY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Moncton, New Brunswick
+DATE OF HEARING: September 12, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: November 10, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kendrick Douglas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,321 @@
+---
+title: "Eramo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28018/index.do"
+last_modified: "2009-09-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 510"
+citation2: ""
+neutral_citation: "2007 CCI 510"
+decision_date: "2009-09-20"
+language: "fr"
+item_id: "28018"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1604
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:32:58.021000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ffc80804a05fd4dfbdbe992b4dee97dc15ee1dadb4c0c2de6a5095cd50d2f8fd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Eramo v. The Queen
+
+- Citation: 2007 CCI 510
+- Decision date: 2009-09-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1604, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Eramo v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-20
+Référence neutre
+2007 CCI 510
+Numéro de dossier
+2006-3599(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3599(IT)I
+ENTRE :
+NATALIE ERAMO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue par téléconférence le 2 mai 2007, à Ottawa (Ontario).
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Avocats de l’appelante :
+Me A. Christina Tari et Me Stephen Yoker
+Avocat de l’intimée :
+Me Bobby Sood
+____________________________________________________________________
+ORDONNANCE
+Vu la requête que l’intimée a présentée pour obtenir une ordonnance radiant ou supprimant les passages suivants de l’avis d’appel de l’appelante en l’espèce :
+a) la dernière phrase complète du paragraphe 4, à savoir « Delso touche des produits annuels importants et paie de l’impôt fédéral depuis longtemps »,
+b) les paragraphes 7 à 9, 12 à 22, 24 à 26, 29 à 32 et 34,
+c) les alinéas 27i), ii) et iv),
+et une ordonnance accordant une prorogation du délai imparti pour le dépôt de la réponse à l’avis d’appel, ainsi que les dépens afférents à la présente requête;
+Et après avoir pris connaissance des documents déposés et entendu les avocats des parties;
+La Cour ordonne :
+1. La dernière phrase complète du paragraphe 4 ainsi que les paragraphes 7 à 9 sont supprimés de l’avis d’appel.
+2. L’intimée dispose de 30 jours à partir de la date de la présente ordonnance pour déposer et faire signifier une réponse à l’avis d’appel.
+3. Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 28e jour d’août 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 27e jour de septembre 2007.
+Johanne Brassard, trad. a.
+Dossier : 2006-3600(IT)G
+ENTRE :
+DOMENIC ERAMO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue par téléconférence le 2 mai 2007, à Ottawa (Ontario).
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Avocats de l’appelant :
+Me A. Christina Tari et Me Stephen Yoker
+Avocat de l’intimée :
+Me Bobby Sood
+____________________________________________________________________
+ORDONNANCE
+Vu la requête que l’intimée a présentée pour obtenir une ordonnance radiant ou supprimant les passages suivants de l’avis d’appel de l’appelant en l’espèce :
+a) la dernière phrase complète du paragraphe 3, à savoir « Delso touche des produits annuels importants et paie de l’impôt fédéral depuis longtemps »,
+b) les paragraphes 5 à 7, 10 à 20, 22 à 24, 27 à 30 et 32,
+c) les alinéas 25i), ii) et iv),
+et une ordonnance accordant une prorogation du délai imparti pour le dépôt de la réponse à l’avis d’appel, ainsi que les dépens afférents à la présente requête;
+Et après avoir pris connaissance des documents déposés et entendu les avocats des parties;
+La Cour ordonne :
+1. La dernière phrase complète du paragraphe 3 ainsi que les paragraphes 5 à 7 sont supprimés de l’avis d’appel.
+2. L’intimée dispose de 30 jours à partir de la date de la présente ordonnance pour déposer et faire signifier une réponse à l’avis d’appel.
+3. Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 28e jour d’août 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 27e jour de septembre 2007.
+Johanne Brassard, trad. a.
+Dossier : 2006-3802(IT)G
+ENTRE :
+DELSO RESTORATION LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue par téléconférence le 2 mai 2007, à Ottawa (Ontario).
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Avocats de l’appelante :
+Me A. Christina Tari et Me Stephen Yoker
+Avocat de l’intimée :
+Me Bobby Sood
+____________________________________________________________________
+ORDONNANCE
+Vu la requête que l’intimée a présentée pour obtenir une ordonnance radiant ou supprimant les passages suivants de l’avis d’appel de l’appelante en l’espèce :
+a) la dernière phrase complète du paragraphe 3, à savoir « Delso touche des produits annuels importants et paie de l’impôt fédéral depuis longtemps »,
+b) les paragraphes 5 à 7, 10 à 20, 22 à 24, 27 à 29 et 31,
+c) les alinéas 25i), ii) et iv),
+et une ordonnance accordant une prorogation du délai imparti pour le dépôt de la réponse à l’avis d’appel, ainsi que les dépens afférents à la présente requête;
+Et après avoir pris connaissance des documents déposés et entendu les avocats des parties;
+La Cour ordonne :
+1. La dernière phrase complète du paragraphe 3 ainsi que les paragraphes 5 à 7 sont radiés de l’avis d’appel.
+2. L’intimée dispose de 30 jours à partir de la date de la présente ordonnance pour déposer et faire signifier une réponse à l’avis d’appel.
+3. Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 27e jour d’août 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 27e jour de septembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI510
+Date : 20070828
+Dossiers : 2006-3599(IT)I
+2006-3600(IT)G
+2006-3802(IT)G
+ENTRE :
+NATALIE ERAMO, DOMENIC ERAMO
+et DELSO RESTORATION LTD.,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge McArthur
+[1] Les requêtes que l’intimée a présentées en vue de faire radier certains passages de chacun des avis d’appel déposés par les appelants se fondent sur l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale). Exception faite de certaines différences mineures dans les trois avis d’appel, les conclusions sont essentiellement identiques. Par conséquent, l’intimée soulève les mêmes arguments à l’appui de la suppression de parties à peu semblables contenues dans les trois avis d’appel.
+[2] L’article 53 des Règles prévoit ce qui suit :
+53. La Cour peut radier un acte de procédure ou un autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour.
+[3] Compte tenu des faits en l’espèce, il peut être utile de commencer l’analyse en citant les observations suivantes que le juge en chef Bowman a formulées dans Niagara Helicopters Ltd. c. Canada[1] :
+[6] À mon avis, il est prématuré à ce stade du procès de déterminer que les faits que l’avocat de l’appelante considère comme pertinents et partie intégrante de la cause de l’appelante sont dénués de pertinence. Selon la jurisprudence et la doctrine, il est incontestable que seul peut être radié un acte de procédure clairement et manifestement scandaleux, frivole ou vexatoire ou constituant un recours abusif au tribunal (Hunt c. Carey Canada Inc., [1990] 2 R.C.S. 959, à la page 980; Erasmus c. Sa Majesté la Reine, C.A.F., no T‑148‑91, le 7 juin 1991 (91 DTC 5415, à la page 5416).
+[8] Il appartient au juge d’instance de trancher la question de savoir si une allégation est dénuée de pertinence, compte tenu de l’ensemble de la preuve présentée au procès. Lors d’une requête préliminaire, il ne serait pas approprié qu’un juge saisi de la requête, qui n’a pas entendu la preuve, décide qu’une allégation est dénuée de pertinence, privant une partie de la chance de présenter la question devant le juge qui présidera au procès afin de le laisser y accorder le poids qu’il jugera bon.
+[4] Je vais d’abord discuter de l’argument de l’intimée concernant les avis d’appel de Natalie et de Domenic Eramo et ensuite de la requête visant à faire radier certains passages de l’avis d’appel de Delso Restoration Ltd.
+[5] La premier paragraphe des requêtes présentées par l’intimée en vue d’obtenir la radiation de certaines parties des avis d’appel est rédigé comme suit :
+À l’égard de Domenic Eramo :
+a) la dernière phrase complète du paragraphe 3, à savoir « Delso touche des produits annuels importants et paie de l’impôt fédéral depuis longtemps »,
+b) les paragraphes 5 à 7, 10 à 20, 22 à 24, 27 à 30 et 32,
+c) les alinéas 25i), ii) et iv).
+À l’égard de Natalie Eramo :
+a) la dernière phrase complète du paragraphe 4, à savoir « Delso touche des produits annuels importants et paie de l’impôt fédéral depuis longtemps »,
+b) les paragraphes 7 à 9, 12 à 22, 24 à 26, 29 à 32 et 34,
+c) les alinéas 27i), ii) et iv).
+[6] Tel que l’alinéa 1a) le précise, l’intimée veut faire supprimer des avis d’appel la phrase « Delso touche des produits annuels importants et paie de l’impôt fédéral depuis longtemps », au motif qu’elle n’est pas pertinente quant aux appels[2]. Je suis d’accord. Cette phrase n’est pas pertinente quant aux questions soulevées en appel et elle est certainement frivole au sens où le prévoit l’alinéa 53b) des Règles. Pour ce motif, le paragraphe 3 de l’avis d’appel de Domenic Eramo et le paragraphe 4 de l’avis d’appel de Natalie Eramo sont supprimés.
+[7] Les alinéas 1b) et 1c) des requêtes de l’intimée énumèrent divers passages des avis d’appel. L’intimée a fait valoir qu’il est évident et manifeste que ces passages sont scandaleux, frivoles ou vexatoires et constituent un recours abusif et qu’ils devraient être radiés pour quatre motifs. Premièrement, l’intimée affirme que bon nombre des paragraphes ne sont pas pertinents quant à la question du bien‑fondé des cotisations. Deuxièmement, l’avocat de l’intimée soutient que la Charte canadienne des droits et libertés[3] ne s’applique pas aux sociétés et que la référence à la Charte devrait être supprimée. Troisièmement, les paragraphes invoquant la théorie de la préclusion ne s’appliquent pas et devraient donc être supprimés. Et, quatrièmement, le fait que l’appelante ait plaidé coupable à une accusation de fraude fiscale et payé une amende n’est pas pertinent quant au bien‑fondé des nouvelles cotisations au civil.
+[8] Les paragraphes 5, 6 et 7 de l’avis d’appel de Domenic Eramo, en particulier, sont rédigés comme suit :
+5. Le 1er décembre 1998, ou vers cette date, un ancien employé mécontent de Delso s’est présenté à la Division des enquêtes de l’Agence du revenu du Canada. L’informateur a rencontré N. Carter et lui a remis une copie d’un journal d’achats qu’il avait volé à Delso; il a informé l’ARC que des rénovations avaient été effectuées à la résidence de Domenic et Natalie Eramo et faussement décrites et comptabilisées en charges par Delso comme des achats.
+6. Après le 1er décembre 1998 et avant le 30 janvier 2000, Michael DeCoste, vérificateur de l’« économie souterraine » à l’ARC, a été chargé de la vérification à l’égard de Delso pour déterminer la validité des accusations de l’informateur.
+7. Vers le mois de janvier 2000, Michael DeCoste s’est présenté à l’établissement de Delso pour examiner certains registres afférents aux années d’imposition 1995 à 1999.
+Ces paragraphes seront supprimés car ils ne sont pas pertinents quant au bien‑fondé des cotisations, et je fais miennes les observations suivantes du juge Bowie dans Globtek Inc. c. La Reine[4] :
+La manière dont la situation du contribuable est venue à l’attention du ministre, les questions particulières posées par les autorités belges, les réponses particulières données par les autorités canadiennes et tout autre fait ayant conduit à la décision de faire une vérification à l’égard du contribuable ne sont pas pertinents quant au bien‑fondé de la cotisation à laquelle cette vérification a donné lieu. [Non souligné dans l’original.]
+Ces faits, tel qu’il a été plaidé, se rapportent à la procédure préliminaire du ministre qui a mené à l’établissement des cotisations et n’ont aucune valeur en ce qui a trait aux questions dont la Cour est saisie. Les paragraphes 7, 8 et 9 de l’avis d’appel de Natalie Eramo, qui sont identiques, seront également supprimés.
+[9] L’intimée allègue que les articles de la Charte invoqués par les appelants ne s’appliquent pas parce que la perquisition et la saisie étaient autorisées par mandat judiciaire[5]. Il est prématuré de prendre une décision sur les paragraphes se rapportant aux articles 7 et 8 de la Charte. Il est possible que la Charte s’applique à ces appels, et le juge du procès sera plus à même de trancher la question de la pertinence de ses dispositions quant aux questions soulevées dans les appels.
+[10] Les paragraphes 14, 16 et 17, l’alinéa 25i), ainsi que les paragraphes 27, 28 et 29 semblent porter principalement sur une question de préclusion. Même si l’existence d’une lettre de proposition affirmant que les années d’imposition antérieures à 1998 sont prescrites ne doit habituellement pas empêcher le ministre d’établir une nouvelle cotisation, le juge du procès sera mieux placé pour prendre la décision à cet égard après avoir entendu toute la preuve. Par conséquent, ces paragraphes ainsi que les paragraphes 16, 18 et 19, l’alinéa 27i) et les paragraphes 29, 30 et 31 de l’avis d’appel de Natalie Eramo ne seront pas supprimés.
+[11] En dernier lieu, en ce qui a trait aux autres paragraphes que l’intimée cherche à faire radier, encore une fois, le juge du procès sera mieux placé pour déterminer leur pertinence et leur importance. Le recours en radiation est réservé aux cas les plus manifestes, comme Davitt v. The Queen[6].
+[12] Finalement, par souci de convenance et de commodité, l’avis d’appel de Delso Restoration Ltd. est reproduit à l’annexe A des présents motifs, et la requête en radiation visant l’avis d’appel de cette société sera traitée comme les requêtes qui ont été présentées à l’égard des avis d’appel des deux autres appelants, à l’exception des arguments concernant la Charte. La requête de l’intimée en vue de faire radier certaines parties de l’avis d’appel de Delso précise ce qui suit :
+À l’égard de Delso :
+a) la dernière phrase complète du paragraphe 3, à savoir « Delso touche des produits annuels importants et paie de l’impôt fédéral depuis longtemps »,
+b) les paragraphes 6 à 7, 10 à 20, 22 à 24, 27 à 29 et 31,
+c) les alinéas 25i), ii) et iv).
+[13] La dernière phrase du paragraphe 3 sera supprimée en raison de l’absence de pertinence, et les paragraphes 6 et 7 seront supprimés en raison de leur manque de pertinence quant au bien‑fondé de la cotisation. Pour les motifs exposés précédemment, il n’est pas manifeste et évident que les prétentions relatives à la préclusion et à la culpabilité de Delso sont scandaleuses, vexatoires et frivoles ou constituent un recours abusif. Par conséquent, ces paragraphes ne seront pas supprimés et il reviendra au juge du procès de déterminer leur pertinence et leur importance.
+[14] Contrairement aux deux autres avis d’appel, l’avis d’appel de Delso ne pourra se fonder sur l’article 7 de la Charte parce que cette disposition protège seulement les personnes physiques, et non les sociétés[7]. Voir également Hunt c. Carey Canada Inca[8]. Par conséquent, les mots [TRADUCTION] « article 7 » seront supprimés des paragraphes 26 et 31 de l’avis d’appel de Delso. Encore une fois, même si le paragraphe 26 n’est pas visé par la requête de l’intimée concernant l’avis d’appel de Delso, il serait inapproprié de ne pas supprimer la mention relative à l’article 7 de la Charte.
+[15] Toutefois, on ne peut pas dire la même chose au sujet du passage dans lequel l’appelante invoque l’article 8 et, par conséquent, il vaut mieux laisser au juge du procès le soin de prendre une décision à cet égard.
+[16] Compte tenu du succès partiel de la présente requête, aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 28e jour d’août 2007.
+« C.H. MacArthur »
+Juge MacArthur
+Traduction certifiée conforme
+ce 27e jour de septembre 2007.
+Johanne Brassard, trad. a.
+ANNEXE A
+Dossier no : 2006-3802(IT) G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+DELSO RESTORATION LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+AVIS D’APPEL
+A. Adresse de l’appelante aux fins de signification :
+a/s de A. Christina Tari
+Risler et Tari, fiscalistes
+2225, avenue Sheppard Est
+Bureau 1001, Atrial II
+Toronto (Ontario) M2J 5C2
+B. Cotisation visée par l’appel : Il s’agit de la cotisation relative à l’année d’imposition 1995 de l’appelante (l’exercice se terminait le 31 octobre) dont l’avis était daté du 18 mars 2003 (la « cotisation »). Le ministre du Revenu national (le « ministre ») a confirmé la cotisation dans un avis daté du 1er septembre 2006.
+1. L’appelante interjette appel à la Cour canadienne de l’impôt en vertu de l’alinéa 169(1)a) de la Loi de l’impôt sur le revenu (la « Loi »).
+2. En établissant la cotisation, le ministre a fixé l’impôt fédéral de l’appelante à un montant ne dépassant pas 30 000 $.
+C. Faits pertinents
+3. L’appelante (« Delso ») est entrepreneur général en construction commerciale. Elle a été constituée en société le 16 mars 1987 et elle emploie environ 100 Canadiens. Delso touche des produits annuels importants et paie de l’impôt fédéral depuis longtemps.
+4. Domenic Eramo est un dirigeant de Delso. Natalie Eramo est l’épouse de Domenic Eramo.
+5. Le 1er décembre 1998, ou vers cette date, un ancien employé mécontent de Delso s’est présenté à la Division des enquêtes de l’Agence du revenu du Canada. L’informateur a rencontré N. Carter et lui a remis une copie d’un journal d’achats qu’il avait volé à Delso; il a informé l’ARC que des rénovations avaient été effectuées à la résidence de Domenic et Natalie Eramo et faussement décrites et comptabilisées en charges par Delso comme des achats.
+6. Après le 1er décembre 1998 et avant le 30 janvier 2000, Michael DeCoste, vérificateur de l’« économie souterraine » à l’ARC, a été chargé de la vérification à l’égard de Delso pour déterminer la validité des accusations de l’informateur.
+7. Vers le mois de janvier 2000, Michael DeCoste s’est présenté à l’établissement de Delso pour examiner certains registres afférents aux années d’imposition 1995 à 1999.
+8. Dans une lettre datée du 25 janvier 2001 (la « première lettre de proposition »), l’ARC énonçait les fondements proposés pour l’établissement de la nouvelle cotisation de Delso.
+9. La première lettre de proposition refusait certains achats (les factures de 1995) passés en charges à l’égard de Delso. Le montant proposé pour la cotisation se chiffrait alors à environ 30 000 $ (impôt et TPS).
+10. Au cours de l’année 2000 ou 2001, Carter a fait enquête auprès de tiers qui auraient été en cause dans l’établissement des factures de 1995 durant la période allant du 1er novembre 1994 au 31 octobre 1996.
+11. Au plus tard le 7 novembre 2001, une enquête criminelle exhaustive concernant les factures de 1995 avait été autorisée.
+12. Michael DeCoste a rencontré Domenic Eramo cinq fois entre janvier 2000 et le 6 mars 2002. Domenic Eramo et Delso n’étaient pas représentés par un avocat lors de ces rencontres. En aucun temps Michael DeCoste n’a avisé Domenic Eramo qu’une enquête criminelle était en cours.
+13. Le 19 novembre 2001, ou vers cette date, Michael DeCoste a rencontré M. Darker, agent d’enquête à la Division des enquêtes de l’ARC, pour discuter de la vérification qu’il effectuait à l’égard de Delso.
+14. Dans une lettre datée du 7 mars 2002 (la « deuxième lettre de proposition »), Michael DeCoste informait Delso que les rajustements proposés à l’égard des achats effectués dans les années d’imposition antérieures à 1998 avaient été retirés parce que ces « modifications » étaient prescrites. En particulier, les factures de 1995 avaient été retirées des rajustements proposés.
+15. Les nouvelles cotisations établies à l’endroit de Delso à la fin de la vérification effectuée par Michael DeCoste ne comprenaient aucun rajustement à l’égard des années d’imposition antérieures à 1998.
+16. Le 11 avril 2002, ou vers cette date, soit un mois après que Michael DeCoste eut informé Delso par écrit que les factures de 1995 ne seraient pas incluses dans la cotisation puisque l’année d’imposition et la question soulevée étaient prescrites, M. Darker, en vue d’obtenir un mandat de perquisition, a fait une dénonciation sous serment dans laquelle il soutenait notamment qu’il avait des motifs raisonnables de croire que Delso et Domenic Eramo avaient arrangé et utilisé des fausses factures et comptabilisé les montants de celles‑ci dans le coût des ventes de l’année d’imposition 1995.
+17. Dans sa dénonciation, M. Darker s’appuyait sur des renseignements fournis par Carter et DeCoste. Le montant de la fraude fiscale dénoncée se chiffrait à environ 30 000 $ (impôt et TPS).
+18. Le 9 avril 2002, ou vers cette date, quarante‑cinq agents de l’ARC, dont Carter et Darker, ont participé à l’exécution des mandats de perquisition délivrés sur la foi de la dénonciation de Darker et des registres saisis concernant Delso, Domenic Eramo et Natalie Eramo.
+19. Le 18 avril 2002, ou vers cette date, trois agents de l’ARC, dont M. Darker, ont participé à l’exécution d’une autre perquisition pour trouver des registres concernant Delso, Domenic Eramo et Natalie Eramo, encore une fois sur la foi de la dénonciation souscrite par M. Darker le 11 avril 2002, ou vers cette date.
+20. Le 17 décembre 2002, ou vers cette date, des accusations criminelles ont été déposées par l’ARC contre Delso, Domenic Eramo et Natalie Eramo. Ces accusations se fondaient sur les factures de 1995 et alléguaient une fraude fiscale d’environ 30 000 $ (impôt et TPS).
+21. Le 26 mars 2003, ou vers cette date, l’ARC a établi, à l’endroit de Delso, Domenic Eramo et Natalie Eramo, de nouvelles cotisations tenant compte des factures de 1995. Ces nouvelles cotisations ont été établies un an après que Michael DeCoste eut déclaré, par écrit, que l’année d’imposition et le fondement de la cotisation étaient prescrits. Le montant inclus dans la cotisation établie à l’endroit de Delso était d’environ 30 000 $ (impôt et TPS). Ce montant a également été inclus dans les cotisations établies à l’égard de Domenic et Natalie Eramo à titre d’avantage conféré à un actionnaire.
+22. Les accusations criminelles portées contre Domenic et Natalie Eramo ont été retirées le 13 décembre 2004 ou vers cette date.
+23. Compte tenu des frais à engager pour contester les accusations criminelles, Delso a également plaidé coupable à l’accusation de fraude le 13 décembre 2004, ou vers cette date, et payé une amende de 63 892 $ correspondant à 200 p. 100 du montant détourné au fédéral.
+24. L’appelante n’a jamais signé de renonciation relativement à l’année d’imposition 1995 et on ne lui a jamais demandé d’en signer une.
+D. Points en litige
+25. Les questions soulevées sont les suivantes :
+i) Le ministre était‑il empêché par préclusion d’établir une nouvelle cotisation à l’égard de l’appelante pour l’année d’imposition 1995?
+ii) Subsidiairement, l’établissement de la nouvelle cotisation visée par l’appel constitue‑t‑il un abus de pouvoir de la part du ministre?
+iii) L’année d’imposition 1995 est‑elle prescrite à l’égard de l’appelante?
+iv) La vérification effectuée par Michael DeCoste était‑elle en fait une enquête criminelle déguisée donnant ouverture à la protection offerte par la Charte?
+v) Subsidiairement, la nouvelle cotisation établie est‑elle bien fondée?
+E. Dispositions législatives sur lesquelles l’appel est fondé
+26. L’appelante invoque les paragraphes 152(3.1) et 152(4) de la Loi de l’impôt sur le revenu (la « Loi ») ainsi que les articles 7 et 8 et le paragraphe 24(2) de la Charte canadienne des droits et libertés (la « Charte »).
+F. Moyens sur lesquels l’appelante entend se fonder
+27. Le ministre était empêché par préclusion de procéder à l’établissement de la nouvelle cotisation en question. Michael DeCoste a clairement signalé que les factures visées se rapportaient à une année d’imposition prescrite et qu’elles ne feraient pas l’objet d’une cotisation.
+28. En établissant la cotisation plus d’un an après cette déclaration écrite, le ministre a en fait augmenté le montant de la cotisation au détriment de l’appelante.
+29. L’appelante affirme que l’établissement de la cotisation par le ministre constituait un recours abusif susceptible de déconsidérer l’administration de la justice.
+30. La nouvelle cotisation établie à l’égard de l’appelante pour l’année d’imposition 1995, dont l’avis est daté du 18 mars 2003, est prescrite au sens du paragraphe 152(4) de la Loi.
+31. La vérification qui a été effectuée tout au moins entre janvier 2000 et mars 2002 constituait une enquête criminelle déguisée. La vérification visait principalement à établir la responsabilité pénale. En aucun temps durant la vérification l’appelante n’a été avisée qu’une enquête criminelle avait été ouverte. La Couronne n’a pas accordé la protection de la Charte à l’appelante. Par conséquent, les droits garantis aux articles 7 et 8 de la Charte ont été violés. La Couronne ne peut s’appuyer, dans le présent appel, sur aucun des documents obtenus durant la vérification ou durant les perquisitions effectuées par la Division des enquêtes. Permettre l’utilisation de ces documents dans la présente instance violerait le paragraphe 24(2) de la Charte et déconsidérerait l’administration de la justice.
+32. Subsidiairement, l’appelante soutient n’avoir fait aucune présentation erronée lorsqu’elle a produit sa déclaration fiscale pour l’année d’imposition 1995.
+33. Subsidiairement, l’appelante affirme que la nouvelle cotisation visée par l’appel a été établie sans fondement.
+G. Conclusions recherchées
+34. L’appelante prie la Cour de rendre une ordonnance accueillant l’appel, annulant les nouvelles cotisations et lui adjugeant les dépens relatifs à l’appel.
+LE TOUT RESPECTUEUSEMENT SOUMIS en ce 30e jour de novembre 2006.
+« A. Christina Tari »
+Richler et Tari, fiscalistes
+2225, avenue Sheppard Est
+Bureau 1001, Atria III
+Toronto (Ontario) M2J 5C2
+Tél. : 416-498-7090
+Téléc. : 416-498-5190
+RÉFÉRENCE: 2007CCI510
+Nos DES DOSSIERS DE LA COUR : 2006-3599(IT)I, 2006-3600(IT)G et
+2006-3802(IT)G
+INTITULÉ : Natalie Eramo, et al. c. La Reine
+LIEU DE L’AUDIENCE : Salle des requêtes, Ottawa
+DATE DE L’AUDIENCE : Le 2 mai 2007
+MOTIFS DE L’ORDONNANCE : L’honorable juge C.H. McArthur
+DATE DE L’ORDONNANCE : Le 28 août 2007
+COMPARUTIONS :
+Avocats de l’appelante :
+Me A. Christina Tari et Me Stephen Yoker
+Avocat de l’intimée :
+Me Bobby Sood
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me A. Christina Tari et Me Stephen Yoker
+Cabinet : Richler et Tari
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [2003] A.C.I. no 65.
+[2] Zelinski c. Canada, 2002 CAF 330 (conf. [2001] A.C.I. no 774).
+[3] Loi constitutionnelle de 1982, (Charte canadienne des droits et libertés), Annexe B de la Loi de 1982 sur le Canada, (R.‑U.), 1982, ch. 11.
+[4] 2005CCI727
+[5] Transcription de l’instance sur les requêtes que l’intimée a présentées en vue de faire radier certains paragraphes de l’avis d’appel, 2 mai 2007, à la page 12.
+[6] 2001 DTC 702.
+[7] Main Rehabilitation Co. c. Canada, 2004 CAF 403 (conf. 2003 CCI 454); autorisation de pourvoi refusée [2005] C.S.C.R. no 37.
+[8] [1990] 2 R.C.S. 959.

@@ -1,0 +1,142 @@
+---
+title: "Warren v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521635/index.do"
+last_modified: "2026-05-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 94"
+citation2: ""
+neutral_citation: "2026 TCC 94"
+decision_date: "2026-05-22"
+language: "en"
+item_id: "521635"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5565
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-05-29T09:10:21.314000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "45935e45b407db099f449f523c8c5faf661df970ff55c5246436f7555f1db58d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Warren v. The King
+
+- Citation: 2026 TCC 94
+- Decision date: 2026-05-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5565, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Warren v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-05-22
+Neutral citation
+2026 TCC 94
+File numbers
+2022-551(IT)I
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-551(IT)I
+BETWEEN:
+ROBERT P. WARREN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion determined by Written Submissions
+Before: The Honourable Justice David E. Graham
+Participants:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sean Karmali
+JUDGMENT
+The appeals of the reassessments of the Appellant’s 2009 and 2010 taxation years are struck without leave to amend.
+Signed this 22nd day of May 2026.
+“David E. Graham”
+Graham J.
+Citation: 2026 TCC 94
+Date: 20260522
+Docket: 2022-551(IT)I
+BETWEEN:
+ROBERT P. WARREN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] By order dated March 19, 2026, I gave eleven taxpayers who had participated in the Global Learning and Gifting Initiative donation program (“GLGI”) the chance to explain why their appeals should not be struck without leave to amend for abusing the Court’s process.
+[2] One of those taxpayers withdrew his appeal. One conceded the GLGI portion of his appeal. One did not respond by the deadline and, as a result, I have struck his appeal without leave to amend.
+[3] The remaining eight taxpayers all filed written submissions. None of them satisfied me that they would be raising new facts or new arguments that could somehow overcome what I described in my Order as the donative intent problem. Similarly, none of them satisfied me that their appeal involves some other issue over which the Court has jurisdiction. They simply made the same stale arguments that have failed in this Court time and again – arguments that it would be an abuse of this Court’s process to allow to proceed.
+[4] I will address the specific arguments raised by the Appellant, Robert Warren, below.
+A. Donative Intent [5] Mr. Warren argues that he is a good person who cares about others in his community and has previously made donations to various charities. Many GLGI taxpayers who have appeared before the Court have made the same argument. It does not work.
+[6] Donative intent is determined on a donation-by-donation basis. Mr. Warren’s general character or previous charitable gifts are irrelevant to the question of whether he had donative intent in respect of his purported GLGI donations of approximately $108,000 in 2009 and 2010 just as his lack of donative intent in GLGI would have been irrelevant to the validity of the $10 legitimate gift that the Reply indicates the Minister allowed in 2009.
+[7] GLGI taxpayers frequently tell the Court that they have previously made charitable donations. What these taxpayers fail to mention is that the charities that received those donations gave them receipts for the amount of cash they donated, not an amount three to eight times greater than that. They came away from those donations poorer, not richer.
+[8] Mr. Warren also makes an argument that I have a hard time imagining he actually believes. Under the scheme, Mr. Warren purportedly received a distribution of courseware from a purported trust that he, in turn, purportedly donated. Using what appear to be figures from his 2009 tax year, he argues that he must have had donative intent because the courseware that he purportedly donated was worth more than the tax refund he received and therefore he lost money. Even if I accepted that the trust existed and that Mr. Warren received ownership of the courseware (both things that Justice Pizzitelli found were not true in Mariano v. The Queen[1]), this was all part of the scheme. Comparing Mr. Warren’s situation before entering into the program to his situation after doing so, he was richer, not poorer. He had no donative intent.
+[9] Mr. Warren says that he was not approached about the program by a GLGI promoter, but rather by a long-standing colleague. He suggests that this shows he had donative intent. I cannot see the connection between these two things.
+[10] In summary, Mr. Warren has not satisfied me that his appeal raises any new facts or arguments that could overcome the donative intent issue.
+Other Arguments [11] Mr. Warren raises a number of other arguments. I will address them briefly.
+Due Diligence [12] GLGI taxpayers commonly argue that they were duly diligent. Mr. Warren is no different. He says that he “undertook a detailed and independent due diligence process” and “consulted with a professional accountant to review the tax implications of the arrangement”.
+[13] Mr. Warren has not asserted that the reassessments were issued beyond the normal reassessment period or that he was assessed gross negligence penalties. Accordingly, his due diligence or lack thereof in deciding to participate in GLGI is irrelevant.
+Cash Portion [14] Mr. Warren argues that he should, at least, be entitled to claim a donation for the cash that he paid. As I explained at paragraph 6 of my Order, the Federal Court of Appeal has already made it clear that this argument does not work because there is still a lack of donative intent (Walby v. The King[2]).
+Fair Market Value [15] Mr. Warren asserts that he did independent research to determine the fair market value of the courseware that he purportedly received. He says he deserves the chance to present his position on fair market value at trial. It appears that he is actually taking the position that GLGI vastly underestimated the value of the courseware.
+[16] Leaving aside the fact that Mr. Warren would also have to prove that he actually had ownership of the courseware, the fair market value of the courseware would only be relevant if Mr. Warren had donative intent. Since he has not satisfied me that he can overcome the donative intent problem, the fair market value of the courseware is irrelevant.
+Day In Court [17] Mr. Warren asserts that it would be unfair to deprive him of his day in Court but he does not explain why other than that he wants the chance to make the above arguments. He does not address the concerns I set out in my Order concerning consistency, judicial economy or finality.
+[18] As I stated in my Order, the fact that Mr. Warren has not personally had a chance to make the same arguments about the same facts is far outweighed by the potential risks to the integrity of the judicial system of allowing his appeal to continue.
+Conclusion [19] Based on all of the foregoing, Mr. Warren’s appeal is struck without leave to amend. Costs are awarded to the Respondent.
+Signed this 22nd day of May 2026.
+“David E. Graham”
+Graham J.
+CITATION:
+2026 TCC 94
+COURT FILE NO.:
+2022-551(IT)I
+STYLE OF CAUSE:
+ROBERT P. WARREN v. HIS MAJESTY THE KING
+DATE OF HEARING:
+Motion determined by Written Submissions
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+May 22, 2026
+PARTICIPANTS:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sean Karmali
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Marie-Josée Hogue
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2015 TCC 244.
+[2] 2025 FCA 94 (lave to appeal denied 2026 CanLII 11877 (SCC)).

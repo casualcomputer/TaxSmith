@@ -1,0 +1,248 @@
+Title: D & D Livestock Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64364/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-318-64364-d-d-livestock-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-10-22
+
+# D & D Livestock Ltd. v. The Queen
+
+- Citation: 2013 TCC 318
+- Decision date: 2013-10-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5924, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+D & D Livestock Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-10-22
+Neutral citation
+2013 TCC 318
+File numbers
+2011-137(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-137(IT)G
+BETWEEN:
+D & D LIVESTOCK LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 6, 2013, at Edmonton, Alberta.
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+James C. Yaskowich
+Counsel for the Respondent:
+Gregory Perlinski
+Darcie Charlton
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act is allowed and the matter is referred back to the Minister of National Revenue for reassessment on the basis that subsection 55(2) does not apply to the $517,427 stock dividend received by the Appellant on May 30, 2005.
+Costs are awarded to the Appellant.
+Signed at Ottawa, Canada, this 22nd day of October 2013.
+“David E. Graham”
+Graham J.
+Citation: 2013 TCC 318
+Date: 20131022
+Docket: 2011-137(IT)G
+BETWEEN:
+D & D LIVESTOCK LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] This Appeal involves the application of subsection 55(2) of the Income Tax Act (the “Act”) to a complex series of transactions that the Appellant and a number of other companies entered into in 2005. The Minister of National Revenue (the “Minister”) reassessed the Appellant to re-characterize a $517,427 stock dividend as a capital gain.
+Agreed Facts:
+[2] Both parties agreed to have this Appeal decided based on a Statement of Agreed Facts. The Statement of Agreed Facts is reproduced below. The only changes that I have made to the Statement filed by the parties are to remove the cross-references to the Joint Book of Documents and the headings.
+1. At all material times to this appeal, the Appellant was a taxable Canadian corporation as defined in s. 89(1) of the Income Tax Act (the “Act”).
+2. Prior to May 27, 2005, the Appellant held 300 of 600 Class A Common Shares in Roberge Transport Inc. (“RTI”) with an adjusted cost base (“ACB”) of $501,231.
+3. Prior to May 27, 2005:
+a) Hetherington Livestock Ltd. (“HLL”) owned 2,250,000 Class D Preferred Shares in the Appellant;
+b) Hetherington Family Trust (“Trust”) owned 750 Class A Common Shares in the Appellant;
+c) Robert Dougall (“Dougall”) owned 250 Class A Common Shares in the Appellant;
+d) Douglas Hetherington (“Douglas”) owned 100% of the Preferred Shares in HLL; and
+e) Douglas was the trustee of the Trust.
+4. On May 27, 2005, Hetherington Livestock (Alberta) Ltd. (“HLAL”) was incorporated, with the result that:
+a) HLL owned all of the 100 Common Shares in HLAL;
+b) the ACB of the 100 Common Shares was $1; and
+c) the PUC of the 100 Common Shares was $1.
+5. On May 29, 2005 at 9:00 a.m., Dougall sold his 250 Class A shares in the Appellant to HLL for $1,250,000, and:
+a) HLL paid Dougall the $1,250,000 by a promissory note;
+b) the 250 Class A shares purchased by HLL had an ACB of $1,250,000 and PUC of $25; and
+c) the Trust’s 750 Class A shares in the Appellant had an ACB of $75 and PUC of $75.
+6. On May 29, 2005 at 10:00 a.m., the Trust disposed of its 750 Class A shares in the Appellant to HLL for $3,750,000, paid for by the issuance of 3,750,000 Class D Preferred Shares. A joint election was filed pursuant to s. 85(1) of the Income Tax Act in respect of this transaction, with an elected amount equal to the Trust’s ACB of $75.00. As a result of this transaction:
+a) HLL now owned 1000 Class A shares in the Appellant with an ACB of $1,250,075.
+b) The PUC of the 1000 Class A shares in the Appellant was $100.
+7. On May 29, 2005 at 11:00 a.m., the Appellant declared and paid a stock dividend in the stated amount of $1,465,465 and resolved to pay the dividend by issuing 1,000 Class A shares to HLL (“Stock Dividend 1”). As a result of this transaction:
+a) HLL now owned 2000 Class A shares and 2,250,000 Class D Preferred Shares in the Appellant;
+b) the ACB of the newly acquired 1,000 Class A shares was $1,465,465;
+c) the PUC of the newly acquired 1,000 Class A shares was $1,465,465;
+d) the total ACB of the 2000 Class A shares was $2,715,540; and
+e) the total PUC of the 2000 Class A shares was $1,465,565.
+8. For the purposes of subsection 55(2) of the Income Tax Act, the portion of a capital gain that would have been realized on a disposition of the Appellant’s capital stock owned by HLL that could reasonably be considered to be attributable to income earned or realized by any corporation after 1971 and immediately before payment of the First Dividend[1] (“safe income”) was $1,493,364. This safe income balance included the following amounts:
+a) safe income earned or realized by the Appellant in the amount of $975,876; and
+b) safe income in the amount of $517,488 earned or realized by RTI.
+9. On May 29, 2005 at 12:00 noon, HLL transferred all of its shares in the Appellant, being the 2000 Class A common and 2,250,000 Class D Preferred Shares, to 1138278 Alberta Ltd (“Newco”) for combined proceeds of $7,050,000.
+a) The total ACB to HLL of the 2000 Class A shares was $2,715,540;
+b) the total PUC of the 2000 Class A shares was $1,465,565;
+c) the ACB to HLL of the 2,250,000 Class D Preferred Shares in the Appellant was $750,000;
+d) the PUC of the 2,250,000 Class D Preferred Shares in the Appellant was $2;
+e) as consideration for all of the shares in the Appellant, Newco issued 3,465,000 Class D Preferred Shares and 99 Class A Common Shares to HLL; and
+f) the parties filed a joint election pursuant to s. 85(1) of the Income Tax Act in respect of this transaction, with a total elected amount of $3,465,465.
+10. On May 29, 2005 at 1:00 p.m., HLL disposed of 3,465,000 Newco Class D Preferred Shares to 1138313 Alberta Ltd. (“Newco 2”) for proceeds of $3,465,000, paid for by the issuance of 100 Class A Common Shares. The parties filed a joint election pursuant to s. 85(1) of the Income Tax Act in respect of this transaction, with an elected amount equal to HLL’s ACB of $3,465,000.
+11. On May 29, 2005 at 2:00 p.m., Newco 2 declared and paid a dividend in kind on its Class A Common Shares to HLL in the amount of $3,465,000. The dividend in kind was comprised of the 3,465,000 Class D Preferred Shares of Newco.
+12. On May 30, 2005 at 3:00 p.m., the Appellant disposed of its 300 Class A Common Shares in RTI to Hetherington Holdings Alberta Ltd. (“Newco 3”) for $7,050,000, paid for by the issuance of 100 Class A Common Shares by Newco 3, after which the Appellant became the sole shareholder of Newco 3. The parties filed a joint election pursuant to s. 85(1) of the Income Tax Act in respect of this transaction with an elected amount equal to the Appellant’s ACB of $501,231.
+13. On May 30, 2005 at 4:00 p.m., Newco 3 paid a stock dividend to the Appellant in the amount of $517,427, paid by issuing 900 Class A Common Shares (“Stock Dividend 2”). A designation under paragraph 55(5)(f) of the Income Tax Act was made in respect of this transaction.
+14. The Appellant filed a designation in respect of Stock Dividend 2 under paragraph 55(5)(f) of the Act, pursuant to which the Stock Dividend 2 was deemed by the Appellant to be ten separate taxable dividends in the following amounts:
+a) $150,000
+b) $100,000
+c) $100,000
+d) $75,000
+e) $50,000
+f) $25,000
+g) $10,000
+h) $5,000
+i) $2,000
+j) $427
+15. On May 31, 2005 at 8:00 a.m. and 9:00 a.m. respectively, Newco and the Appellant were wound up.
+16. On May 31, 2005 at 10:00 a.m., HLL disposed of 1000 Class A Common Shares in Newco 3 to Newco 2 for $7,050,000, paid for by the issuance of 1000 Class A Common Shares by Newco 2.
+a) HLL’s ACB of the 1000 Class A Common Shares in Newco 3 was reported to be $1,018,658;
+b) the PUC of the 1000 Class A Common Shares in Newco 3 was reported to be $517,727; and
+c) the parties filed a joint election pursuant to s.85(1) of the Income Tax Act in respect of this transaction with an elected amount equal to HLL’s reported ACB of $1,018,658.
+17. On May 31, 2005 at 11:00 a.m., Newco 3 was wound up and its assets were transferred in the course of the wind-up at that time. Newco 3 was dissolved on September 16, 2005.
+18. On May 31, 2005 at 12:00 noon, HLL disposed of 1,100 Class A Common Shares of Newco 2 to HLAL for $7,050,000, paid for by the issuance of 9,900 Class A Common Shares by HLAL.
+a) HLL’s ACB of the 1,100 Class A Common Shares of Newco 2 was reported to be $4,483,658;
+b) the PUC of the shares was reported to be $1,983,293; and
+c) the parties filed a joint election pursuant to s. 85(1) of the Income Tax Act in respect of this transaction with an elected amount equal to HLAL’s reported ACB of $4,483,658.
+19. On June 1, 2005 at 9:00 a.m., Newco 2’s only asset was the 300 RTI Class A Common Shares originally held by the Appellant.
+20. On June 1, 2005 at 9:00 a.m., HLAL sold Newco 2 to RBTL[2] for $7,050,000. HLAL reported its disposition of Newco 2 as follows:
+Proceeds: $7,050,000
+ACB: $4,483,658
+Capital Gain $2,566,342
+[3] With the exception of the term “safe income”, I will use the defined terms from the Statement of Agreed Facts in these Reasons for Judgment.
+Concessions:
+[4] At the beginning of the trial, the Appellant conceded that the transactions described in the Statement of Agreed Facts were a series of transactions and that subsection 55(2) would apply to turn Stock Dividend 2 into a capital gain to the extent that the Appellant had insufficient safe income on hand in its shares of Newco 3.
+[5] During the trial, the Respondent conceded that if the Appellant did not have sufficient safe income on hand in its shares of Newco 3 to cover Stock Dividend 2, then pursuant to paragraph 55(5)(f) the resulting capital gain already assessed by the Minister should be reduced by $27,427 and the Appellant should be entitled to a deduction under section 112 in the same amount.
+Issue:
+[6] As a result of the above concessions, the sole issue in this Appeal is whether the capital gain that would have been realized had the Appellant disposed of its shares in Newco 3 immediately prior to Stock Dividend 2 could reasonably be considered to be attributable to anything other than income earned or realized by RTI in excess of $27,427.
+[7] Stated in more general terms, the issue is whether the safe income on hand of shares in a subsidiary is reduced by the amount of a stock dividend paid on the shares of the subsidiary’s parent.
+Safe Income and Safe Income On Hand:
+[8] The terms “safe income” and “safe income on hand” are commonly used to describe the concepts found in paragraph 55(5)(c) and subsection 55(2) of the Act.
+[9] Subsection 55(2) reads as follows:
+Where a corporation resident in Canada has received a taxable dividend in respect of which it is entitled to a deduction under subsection 112(1) or (2) or 138(6) as part of a transaction or event or a series of transactions or events, one of the purposes of which (or, in the case of a dividend under subsection 84(3), one of the results of which) was to effect a significant reduction in the portion of the capital gain that, but for the dividend, would have been realized on a disposition at fair market value of any share of capital stock immediately before the dividend and that could reasonably be considered to be attributable to anything other than income earned or realized by any corporation after 1971 and before the safe-income determination time for the transaction, event or series, notwithstanding any other section of this Act, the amount of the dividend …
+(a) shall be deemed not to be a dividend received by the corporation;
+(b) where a corporation has disposed of the share, shall be deemed to be proceeds of disposition of the share except to the extent that it is otherwise included in computing such proceeds; …
+[emphasis added.]
+[10] Paragraphs 55(5)(b), (c) and (d) set out the method by which “income earned or realized” is to be calculated for the purposes of section 55. The term “safe income” is generally used to describe the income defined in paragraphs 55(5)(b), (c) and (d). Paragraph 55(5)(c) applies to private corporations. It states that for the purposes of section 55:
+the income earned or realized by a corporation for a period throughout which it was a private corporation is deemed to be its income for the period otherwise determined …
+[11] The Federal Court of Appeal made it clear in Kruco Inc. v. The Queen, 2003 FCA 284 that paragraph 55(5)(c) is a complete code for the calculation of safe income. No adjustments are permitted to the safe income otherwise determined under that paragraph.
+[12] The term “safe income on hand” is generally used to describe the portion of the increase in value of shares held by a given shareholder that can reasonably be considered to be attributable to safe income. While no adjustments are permitted to be made as part of the calculation of safe income, the courts have recognized that reductions are permitted when calculating safe income on hand. The Federal Court of Appeal described the concept as follows in Kruco:
+…
+37 The starting point for the subsection 55(2) apportionment was thus fixed by way of a deeming provision, leaving as the only other exercise the determination of that part of the notional capital gain which can “reasonably be considered to be attributable to anything other than” this income.
+38 There can be no doubt that this exercise calls for an inquiry as to whether “the income earned or realized” was kept on hand or remained disposable to fund the payment of the dividend. It follows, for instance, that taxes or dividends paid out of this income must be extracted from safe income (see Deuce Holdings Ltd., supra and Gestion Jean-Paul Champagne Inc., supra ).
+Summary of the Positions of the Parties:
+[13] The parties agree that the safe income on hand of HLL’s shares in the Appellant immediately before the declaration of Stock Dividend 1 was $1,493,364 calculated as follows:
+safe income earned or realized by the Appellant
+$975,876
+plus: safe income earned or realized by RTI
+$517,488
+Consolidated Safe Income of HLL’s shares in the Appellant
+$1,493,364
+[14] In calculating the safe income on hand of HLL’s shares in the Appellant immediately before the declaration of Stock Dividend 1, the parties have accepted the principle that when calculating the safe income on hand of the shares of a parent company, one should include both the safe income of the parent and the safe income of its subsidiary provided that both of those amounts can reasonably be considered to be attributable to the gain on the shares of the parent. This principle of consolidation arises from the word “any” in the phrase “income earned or realized by any corporation” in subsection 55(2) and has been accepted by the courts (Trico Industries Ltd. v. MNR, 94 DTC 1740 (TCC)). Thus, to calculate the safe income on hand of HLL’s shares in the Appellant, the parties have added the safe income of the Appellant to the safe income of RTI.
+[15] The parties also agree that the safe income on hand of HLL’s shares in the Appellant immediately after the declaration of Stock Dividend 1 was $27,427, calculated as follows:
+safe income earned or realized by the Appellant
+$975,876
+plus: safe income earned or realized by RTI
+$517,488
+less: safe income earned or realized by the Appellant “used up” in Stock Dividend 1
+($975,876)
+less: safe income earned or realized by RTI “used up” in Stock Dividend 1
+($489,589)
+total deduction of safe income converted to paid up capital in Stock Dividend 1
+($1,465,465)
+less: immaterial unexplained difference
+($472)
+Safe Income on Hand of HLL’s shares in the Appellant
+$27,427
+[16] In other words, both parties agree that Stock Dividend 1 had the effect of reducing HLL’s safe income on hand in its shares of the Appellant. The parties agree that, having used the Appellant’s safe income to declare Stock Dividend 1, that safe income is no longer available for future dividends declared by the Appellant. The parties also agree that, having used the consolidated safe income of RTI to declare Stock Dividend 1, that safe income is no longer available for future dividends declared by the Appellant. This is because the gains that HLL had in its shares in the Appellant could no longer reasonably be considered to be attributable to the safe income earned by the Appellant and RTI since that safe income had already been used up in the stock dividend. This principle, which I will call the “dividend reduction principle”, has been accepted by the courts (see Kruco at para. 38).
+[17] The parties also agree that the safe income on hand that the Appellant had in the shares of RTI became the safe income on hand that the Appellant had in the shares of Newco 3 when the shares of RTI were rolled from the Appellant to Newco 3 pursuant to subsection 85(1) of the Act.
+[18] Where the parties disagree is on what the amount of that safe income on hand in the Appellant’s shares in Newco 3 was immediately before the declaration of Stock Dividend 2. The Appellant says that it had $517,488 in safe income on hand in its shares in Newco 3 immediately before the declaration of Stock Dividend 2 calculated as follows:
+safe income earned or realized by RTI
+$517,488
+less: safe income earned or realized by RTI that was used up in Stock Dividend 1
+$0
+Appellant’s safe income on hand immediately before Stock Dividend 2
+$517,488
+[19] The Respondent says that the Appellant had only $27,427 of safe income on hand on its shares in Newco 3 immediately before the declaration of Stock Dividend 2 calculated as follows:
+safe income earned or realized by RTI
+$517,488
+less: safe income used up in Stock Dividend 1
+($489,589)
+less: immaterial unexplained difference
+($472)
+Appellant’s safe income on hand immediately before Stock Dividend 2
+$27,427
+[20] In essence, the Respondent says that the safe income on hand of the Appellant’s shares in Newco 3 was reduced by the amount of safe income that had been used up in Stock Dividend 1. By contrast, the Appellant says that it was the safe income on hand of HLL’s shares in the Appellant that was reduced by Stock Dividend 1, not the safe income on hand of the Appellant’s shares in Newco 3. The Appellant admits that the same safe income is being used twice, but says there is nothing in the Act that prevents that double use.
+[21] The parties agree that there is no case law directly on point.
+Analysis:
+[22] The Appellant takes the position that the dividend reduction principle only applies to reduce the safe income on hand of the shares of the company that declared a stock dividend, not the shares of any subsidiary company even if the safe income of that subsidiary company contributed to the safe income on hand that covered the stock dividend. The Appellant submits that the gain on the Appellant’s shares in Newco 3 can reasonably be considered to be attributable to the income earned by RTI after 1971 because RTI has not done anything to distribute that income. The declaration of Stock Dividend 1 reduced the Appellant’s assets. It did nothing to reduce RTI’s assets. In the Appellant’s view, there is nothing else to which that portion of the gain on the Appellant’s shares in Newco 3 could be attributed. The gain in the shares of RTI was attributable to its income earned after 1971 before Stock Dividend 1 was declared. That same gain remained after Stock Dividend 1 was declared and was still attributable to RTI’s income earned after 1971. The Appellant acknowledges that by taking this position it is arguing that it should have the benefit of using the same safe income twice, but it submits that that is the only interpretation that subsection 55(2) allows in the circumstances.
+[23] The Appellant further submits that the Federal Court of Appeal had the opportunity to interpret subsection 55(2) in a purposive manner in order to prevent perceived abuses of the subsection (Lamont Management Ltd. v. The Queen, 2000 DTC 6256 and VIH Logging Ltd. v. The Queen, 2005 DTC 5095) and chose instead to interpret the subsection based on its explicit wording. The Appellant submits that I should do the same.
+[24] The Respondent takes the position that using the same safe income twice goes against the purpose of subsection 55(2) and thus that it should be prevented. The capital gain reported by the Appellant was $489,589 lower than it would have been had the Appellant not used the same safe income twice.
+[25] The Respondent referred me to paragraph 10 of Canada Trustco Mortgage Co. v. The Queen, 2005 SCC 54:
+… The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words play a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+[26] The Respondent argues that the Courts had found portions of subsection 55(2) to be ambiguous (The Queen v. Brelco Drilling Ltd., 99 DTC 5253 (FCA) and 729658 Alberta Ltd. v. The Queen, 2004 TCC 474). I agree.
+[27] Based on that finding of ambiguity, the Respondent urges me to conduct a textual, contextual and purposive analysis of subsection 55(2). The Respondent submits that subsection 55(2) is a specific anti-avoidance provision that was designed to prevent capital gains stripping while, at the same time, avoiding double taxation (Kruco, Brelco; 729658 Alberta). I agree and I accept that what the Appellant has done amounts to capital gains stripping.
+[28] Since the series of transactions entered into by the Appellant have resulted in capital gains stripping, the Respondent submits that I should interpret subsection 55(2) in a manner consistent with its purpose in order to prevent the capital gains stripping.
+[29] Finally, the Respondent submits that in 729658 Alberta Justice Woods found the phrase “could reasonably be considered to be attributable” to be ambiguous and used a textual, contextual and purposive analysis to determine how it should be interpreted and that I should do the same in this case. I agree that that is what Justice Woods did and I agree with both her decision to do so in the circumstances of the case before her and with the conclusion that she reached in that case. However, 729658 Alberta can be distinguished from the case at bar. Justice Woods was dealing with a factual situation that caused the phrase “could reasonably be considered to be attributable” to have ambiguity. The shares in question in that case were transferred to holding companies on a partial rollover under subsection 85(1) at an elected amount that caused a portion of the capital gain on the shares to be realized by the transferers and the balance to remain in the hands of the holding companies. Dividends were then declared on the transferred shares in an amount equal to what the taxpayer asserted was their safe income on hand. Finally, the shares were then sold to an arm’s length purchaser for a price equal to their adjusted cost base. As a result, no gain arose on the sale. Justice Woods was faced with two possible interpretations of the phrase “could reasonably be considered to be attributable”. Either the entire safe income on hand could be attributed to the gain that had been realized on the sale of the shares to the arm’s length purchaser or the safe income on hand could be allocated on a pro-rata basis across the entire original gain on the shares (i.e. allocated between the gain realized on the subsection 85(1) partial rollover and the gain on the sale of shares to the arm’s length purchaser) such that only a portion of it was left available on the sale by the holding companies. Both interpretations could be supported by the wording of subsection 55(2). Justice Woods considered the wording and stated at paragraph 18:
+… In my view, the word “reasonably” in the context of this anti-avoidance provision implies that the accrued gain should be allocated based on the particular circumstances of the case to counter the mischief that was sought to be addressed. …
+[30] Justice Woods went on to review the purpose of subsection 55(2) and concluded that attributing the entire safe income to the gain that had been realized on the sale to the third party was consistent with that purpose.
+[31] The problem with the Respondent’s position is that, while there was ambiguity in 729658 Alberta, the Respondent is unable to identify any ambiguity in subsection 55(2) as that subsection relates to the facts of the Appellant’s case. I am not being asked, as Justice Woods was, to consider two possible interpretations and determine which one is more in line with the purpose of the subsection. There is only one way to attribute the Appellant’s gain. The first $517,488 of the gain in the Appellant’s shares in Newco 3 is entirely attributable to income that RTI earned after 1971. There is nothing else to which that gain could be attributed. The shares in RTI had value because of the income earned by that company after 1971. That income had not been removed from RTI by way of dividend. The fact that a stock dividend (i.e. Stock Dividend 1) was declared by the Appellant did nothing to change the fact that the shares in RTI obtained their value from the income earned by RTI after 1971.
+[32] The Respondent is asking me to interpret subsection 55(2) in a way that prevents the Appellant from using the same safe income twice, but the Respondent has failed to show me how I should do so. What word or phrase should I interpret differently in order to achieve the result that the Respondent desires? The Respondent is, in essence, asking me to give effect to the purpose of the subsection in spite of its wording rather than interpreting its wording in a manner which gives effect to its purpose.
+[33] Canada Trustco requires me to use a textual, contextual and purposive analysis, but it also says that “[w]hen the words of a provision are precise and unequivocal, the ordinary meaning of the words play a dominant role in the interpretive process.” Applying the facts of this case to the phrase, “could reasonably be considered to be attributable”, I am unable to discern any imprecision or equivocation. In the absence of any ambiguity in, or alternative interpretation of, the phrase “could reasonably be considered to be attributable”, despite the fact that I recognize that the Appellant’s actions have defeated the purpose of subsection 55(2), I do not believe that Canada Trustco gives me the authority to simply re-write the subsection to give effect to its purpose. As stated at paragraph 12 of that decision:
+The provisions of the Income Tax Act must be interpreted in order to achieve consistency, predictability and fairness so that taxpayers may manage their affairs intelligently. As stated at para. 45 of Shell Canada Ltd. v. R., [1999] 3 S.C.R. 622 (S.C.C.):
+[A]bsent a specific provision to the contrary, it is not the courts’ role to prevent taxpayers from relying on the sophisticated structure of their transactions, arranged in such a way that the particular provisions of the Act are met, on the basis that it would be inequitable to those taxpayers who have not chosen to structure their transactions that way. [Emphasis added.]
+See also 65302 British Columbia, at para. 51, per Iacobucci J. citing P.W. Hogg and J.E. Magee, Principles of Canadian Income Tax Law (2nd ed. 1997), at pp. 475-76:
+It would introduce intolerable uncertainty into the Income Tax Act if clear language in a detailed provision of the Act were to be qualified by unexpressed exceptions derived from a court’s view of the object and purpose of the provision.
+[34] If the Minister finds transactions such as the Appellant’s to be abusive, she can always attack them using the general anti-avoidance rule or recommend that Parliament amend the Act.
+Conclusion:
+[35] Based on all of the foregoing, the appeal is allowed and the matter is referred back to the Minister of National Revenue for reassessment on the basis that subsection 55(2) does not apply to the $517,427 stock dividend received by the Appellant on May 30, 2005.
+[36] Costs are awarded to the Appellant.
+Signed at Ottawa, Canada, this 22nd day of October 2013.
+“David E. Graham”
+Graham J.
+CITATION: 2013 TCC 318
+COURT FILE NO.: 2011-137(IT)G
+STYLE OF CAUSE: D & D LIVESTOCK LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: June 6, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice David E. Graham
+DATE OF JUDGMENT: October 22, 2013
+APPEARANCES:
+Counsel for the Appellant:
+James C. Yaskowich
+Counsel for the Respondent:
+Gregory Perlinski
+Darcie Charlton
+COUNSEL OF RECORD:
+For the Appellant:
+Name: James C. Yaskowich
+Firm: Felesky Flynn LLP
+Edmonton, Alberta
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I have assumed that the term “First Dividend” was erroneously used here instead of the defined term “Stock Dividend 1”.
+[2] The term “RBTL” is not defined by the parties in the Statement of Agreed Facts. It refers to Roberge Brothers Transport Ltd. My understanding is that RBTL was already the owner of the other 300 RTI Class A Common Shares.

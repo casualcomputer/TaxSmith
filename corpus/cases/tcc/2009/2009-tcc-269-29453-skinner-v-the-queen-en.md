@@ -1,0 +1,392 @@
+---
+title: "Skinner v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29453/index.do"
+last_modified: "2009-07-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 269"
+citation2: ""
+neutral_citation: "2009 TCC 269"
+decision_date: "2009-07-03"
+language: "en"
+item_id: "29453"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6944
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:09:45.421000+00:00"
+cases_cited_count: 1
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4f9cf575509d1ce639df881e4f9a8292dc7cba61ba859c572639d4811bcecf61"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Skinner v. The Queen
+
+- Citation: 2009 TCC 269
+- Decision date: 2009-07-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6944, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Skinner v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-03
+Neutral citation
+2009 TCC 269
+File numbers
+2006-2969(IT)G, 2007-1950(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2006-2969(IT)G
+2007-1950(IT)G
+BETWEEN:
+SARA DORIS SKINNER, IN HER CAPACITY AS EXECUTRIX
+OF THE ESTATE OF RONALD SKINNER, DECEASED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Respondent’s Motions heard jointly on an Agreed Statement of Facts
+with the Motions of
+Sara Doris Skinner, (2006-2972(IT)G and 2007-1949(IT)G)
+on September 4, 2008 at Saskatoon, Saskatchewan
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Kurt G. Wintermute
+Counsel for the Respondent:
+Karen Janke
+____________________________________________________________________
+ORDER
+Upon the Respondent having brought a motion under sections 58 and 65 of the Tax Court of Canada Rules (General Procedure) for the following orders:
+1. An Order dismissing the appeals with respect to the 2001 taxation year (#2006‑2972(IT)G and #2006-2969(IT)G) pursuant to paragraph 58(3)(a) of the General Procedure Rules; and
+2. An Order determining the following questions of law in relation to the appeals for the 2002 taxation year (#2007-1949(IT)G and #2007‑1950(IT)G), pursuant to paragraph 58(1)(a) of the General Procedure Rules:
+a. In order to obtain a deduction for an amount under paragraph 20(l)(j) of the Income Tax Act in computing income for a taxation year, must there be an inclusion in income of an amount by virtue of subsection 15(2) of the Income Tax Act in the final determination of tax liability by the Minister of National Revenue in a preceding taxation year? and
+b. If the answer to this is yes, whether the appeals with respect to the 2002 taxation year should be dismissed?
+And upon having heard the submissions of counsel and having read the materials filed;
+IT IS HEREBY ORDERED THAT:
+1. the appeals with respect to the 2001 taxation year (2006-2972(IT)G and 2006-2969(IT)G) are dismissed; and
+2. in respect of the appeals for the 2002 taxation year (2007-1949(IT)G and 2007‑1950(IT)G):
+(a) the question as to whether, to obtain a deduction for an amount under paragraph 20(l)(j) of the Income Tax Act in computing income for a taxation year, there must have been an inclusion in income of an amount by virtue of subsection 15(2) of the Income Tax Act in the final determination of tax liability by the Minister of National Revenue in a preceding taxation year, is answered in the affirmative; and
+(b) given that determination, the appeals for the 2002 taxation year, 2007-1949(IT)G and 2007‑1950(IT)G, are dismissed.
+Signed at Ottawa, Canada, this 3rd day of July, 2009.
+“G. A. Sheridan”
+Sheridan J.
+Dockets: 2006-2972(IT)G
+2007-1949(IT)G
+BETWEEN:
+SARA DORIS SKINNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Respondent’s Motions heard jointly on an Agreed Statement of Facts
+with the Motions of
+Sara Doris Skinner, in her capacity as Executrix
+of the Estate of Ronald Skinner, Deceased,
+(2006-2969(IT)G and 2007-1950(IT)G)
+on September 4, 2008 at Saskatoon, Saskatchewan
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Kurt G. Wintermute
+Counsel for the Respondent:
+Karen Janke
+____________________________________________________________________
+ORDER
+Upon the Respondent having brought a motion under sections 58 and 65 of the Tax Court of Canada Rules (General Procedure) for the following orders:
+1. An Order dismissing the appeals with respect to the 2001 taxation year (#2006‑2972(IT)G and #2006-2969(IT)G) pursuant to paragraph 58(3)(a) of the General Procedure Rules; and
+2. An Order determining the following questions of law in relation to the appeals for the 2002 taxation year (#2007-1949(IT)G and #2007‑1950(IT)G), pursuant to paragraph 58(1)(a) of the General Procedure Rules:
+a. In order to obtain a deduction for an amount under paragraph 20(l)(j) of the Income Tax Act in computing income for a taxation year, must there be an inclusion in income of an amount by virtue of subsection 15(2) of the Income Tax Act in the final determination of tax liability by the Minister of National Revenue in a preceding taxation year? and
+b. If the answer to this is yes, whether the appeals with respect to the 2002 taxation year should be dismissed?
+And upon having heard the submissions of counsel and having read the materials filed;
+IT IS HEREBY ORDERED THAT:
+1. the appeals with respect to the 2001 taxation year (2006-2972(IT)G and 2006-2969(IT)G) are dismissed; and
+2. in respect of the appeals for the 2002 taxation year (2007-1949(IT)G and 2007‑1950(IT)G):
+(a) the question as to whether, to obtain a deduction for an amount under paragraph 20(l)(j) of the Income Tax Act in computing income for a taxation year, there must have been an inclusion in income of an amount by virtue of subsection 15(2) of the Income Tax Act in the final determination of tax liability by the Minister of National Revenue in a preceding taxation year, is answered in the affirmative; and
+(b) given that determination, the appeals for the 2002 taxation year, 2007-1949(IT)G and 2007‑1950(IT)G, are dismissed.
+Signed at Ottawa, Canada, this 3rd day of July, 2009.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2009TCC269
+Date:20090703
+Dockets: 2006-2969(IT)G
+2007-1950(IT)G
+BETWEEN:
+SARA DORIS SKINNER, IN HER CAPACITY AS EXECUTRIX
+OF THE ESTATE OF RONALD SKINNER, DECEASED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+2006-2972(IT)G
+2007-1949(IT)G
+SARA DORIS SKINNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Sheridan, J.
+Introduction
+[1] The Respondent’s motion arises out of the Appellants’ appeals of the reassessments by the Minister of National Revenue of their 2001 and 2002 taxation years. Briefly summarized, in the 2001 appeals, the Appellants are challenging the Minister’s decision to exclude from their income shareholder loans of $1.1 million reported by the Appellants pursuant to subsection 15(2) of the Income Tax Act and the disallowance of foreign tax credits in respect of that income. In 2002, they are appealing the Minister’s disallowance of a deduction claimed by the Appellants for the repayment of a shareholder loan under paragraph 20(1)(j) of the Act.
+[2] Just prior to the hearing of the appeals, the Respondent brought a motion for:
+1. An Order dismissing the appeals with respect to the 2001 taxation year (#2006‑2972(IT)G and #2006-2969(IT)G) pursuant to paragraph 58(3)(a) of the General Procedure Rules; and
+2. An Order determining the following questions of law in relation to the appeals for the 2002 taxation year (#2007-1949(IT)G and #2007‑1950(IT)G), pursuant to paragraph 58(1)(a) of the General Procedure Rules:
+a. In order to obtain a deduction for an amount under paragraph 20(l)(j) of the Income Tax Act in computing income for a taxation year, must there be an inclusion in income of an amount by virtue of subsection 15(2) of the Income Tax Act in the final determination of tax liability by the Minister of National Revenue in a preceding taxation year? and
+b. If the answer to this is yes, whether the appeals with respect to the 2002 taxation year should be dismissed?
+[3] The hearing of the motion proceeded on an Agreed Statement of Facts, including the documents referred to therein and attached as exhibits, and the pleadings and proceedings in the appeals.
+[4] The text of the Agreed Statement of Facts is reproduced below:
+1. In 1987, the appellants purchased a condominium (the “Condo”) at #1401 – 4000 Wailea Alanui, Kihei, Hawaii for $846,058.00 USD;
+2. On January 17, 2001, the appellants disposed of the Condo for $4,200,000 USD and each paid United States and Hawaiian State Tax of $321,947 USD ($498,502 CDN) on the capital gain;
+3. On filing their original T1 individual income tax returns for 2001, the appellants did not report any foreign non-business income, other than the net capital gain realized from the sale of the Condo;
+4. On or about December 6, 2001 the appellants and their daughter, Kimberley Dawn South, organized and registered Rondor Investments (USA), LLC (“Rondor”) in the State of California, with the appellants and their daughter as the members of the limited liability company;
+5. Rondor’s year end was the last Friday in December of each calendar year, its first fiscal year ended December 28, 2001 and its second fiscal year ended December 27, 2002;
+6. On or about November 29, 2001 the appellants each borrowed $1,100,000 CDN from the Yorkton Credit Union in Yorkton, Saskatchewan;
+7. On December 18, 2001 the appellants each made a contribution of capital to Rondor in the amount of $1,089,000 CDN and loaned $11,000 CDN to their daughter, who made a capital contribution to Rondor in the amount of $22,000 CDN;
+8. On December 19, 2001 each of the appellants borrowed the amount of $1,100,000 from Rondor, and gave Rondor promissory notes;
+9. On December 27, 2002 the loans to the appellants remained outstanding;
+10. On December 30, 2002 Rondor issued promissory notes to each of the appellants in the amount of $1,089,000 CDN as the return of their capital contributions;
+11. On December 31, 2002 Rondor accepted the promissory notes from each of the appellants, together with a cash payment of $11,000 CDN, as payment in full of the loans;
+Filing and Assessment History:
+2001 Taxation Year – Ronald Skinner
+12. On or about April 26, 2002, Ronald Skinner filed his 2001 individual income tax return in Canada and file a Form T2091 designating the Condo as his principal residence, disclosing a capital gain of $2,342,901 CDN and claiming a principal residence exemption in the amount of $2,342,901 CDN. (A copy of Ronald Skinner’s 2002 income tax return is attached as Exhibit A);
+13. This 2001 individual income tax return was assessed as filed on June 10, 2002. (A copy of the Notice of Assessment is attached as Exhibit B);
+14. On or about March 4, 2003, the Estate of Ronald Skinner (the “Estate”) filed a request with the Canada Revenue Agency (“CRA”), on behalf of Ronald Skinner, to amend his 2001 individual income tax return to include an amount of $1,100,000 pursuant to subsection 15(2) of the Income Tax Act (the “Act”) for an outstanding shareholder loan. The Estate requested that this income be included as foreign non-business income and claimed foreign tax credits in the amounts of $310,554.75 (Federal) and $172,875.58 (Provincial). (A copy of the amended 2001 income tax return is attached as Exhibit C);
+15. Ronald Skinner’s amended return was initially assessed as filed and the tax liability assessed as $13,205.23. (Attached at Exhibits D and E are copies of Notices of Reassessment dated April 29, 2003 and May 15, 2003. In the Notice of Reassessment dated April 29, 2003 there was an error in the assessment of Saskatchewan provincial tax that was corrected in the May 15, 2003 Notice of Reassessment.);
+16. By Notice of Reassessment dated June 9, 2005 the CRA reversed the inclusion of the amount of $1,100,000 in income, denied the claim for foreign tax credits and reduced the net federal tax payable to $4,167.14. (Attached as Exhibit F is a copy of the Notice of Reassessment and Form T7W-C);
+17. This Notice of Reassessment was confirmed by Notification of Confirmation by the Minister dated June 23, 2006 on the basis that the transactions resulting in the subsection 15(2) income and the foreign tax credits in 2001 were a sham or, alternatively, avoidance transactions. (A copy of the Notification of Confirmation is attached as Exhibit G);
+2001 Taxation Year – Sara Doris Skinner
+18. On or about April 26, 2002, Sara Doris Skinner filed her 2001 individual income tax return in Canada and filed a Form T2091 designating the Condo as her principal residence, disclosing a capital gain of $2,342,901 CDN and claiming a principal residence exemption in the amount of $2,342,901 CDN. (A copy of Sara Doris Skinner’s 2002 income tax return is attached as Exhibit H);
+19. This 2001 individual income tax return was assessed as filed on June 6, 2002.
+20. On or about March 4, 2003, Sara Doris Skinner filed a request with the CRA to amend her 2001 individual income tax return to include an amount of $1,100,000 pursuant to subsection 15(2) of the Act for an outstanding shareholder loan. Sara Doris Skinner requested that this income be included as foreign non-business income and claimed foreign tax credits in the amounts of $310,499.00 (Federal) and $172,856.00 (Provincial). (A copy of the amended 2001 income tax return is attached as Exhibit I);
+21. Sara Doris Skinner’s amended return was initially assessed as filed and the tax owing assessed as $8,091.33. (A copy of the Notice of Reassessment dated March 27, 2003 is attached as Exhibit J);
+22. By Notice of Reassessment dated June 3, 2005 the CRA reversed the inclusion of the amount of $1,100,000 in income, denied the claim for foreign tax credits and reduced the net federal tax payable to $2,359.73. (Attached as Exhibit K is a copy of the Notice of Reassessment and Form T7W-C);
+23. This Notice of Reassessment was confirmed by Notification of Confirmation by the Minister dated June 23, 2006 on the basis that the transactions resulting in the subsection 15(2) income and foreign tax credits in 2001 were a sham or, alternatively, avoidance transactions. (A copy of the Notification of Confirmation is attached as Exhibit L);
+2002 Taxation Year – Ronald Skinner
+24. In filing the 2002 individual income tax return on behalf of Ronald Skinner, the Estate claimed a $1,100,000 deduction pursuant to paragraph 20(1)(j) of the Act relating to a repayment of a shareholder loan and claimed a non-capital loss of $1,063,111.11, of which the Estate requested $228,982.00 be carried back to his 1999 taxation year and $288,621.00 be carried back to his 2000 taxation year, leaving a non‑capital loss balance of $545,508.11 available for carryforward. (A copy of the 2002 individual income tax return is attached as Exhibit M);
+25. On September 29, 2003 the CRA issued a Notice of Assessment disallowing $1,089,000 of the deduction on the basis that the giving of a promissory note did not constitute repayment. The assessment resulted in no tax liability. (A copy of the Notice of Assessment is attached as Exhibit N);
+26. Upon the request of the Estate, the CRA issued a Notice of Determination of Loss dated September 29, 2006 determining the amount of non-capital loss for 2002 to be nil. (A copy of the Notice of Determination is attached as Exhibit O);
+27. This Notice of Determination was confirmed by Notification of Confirmation dated January 23, 2007 on the basis that the transactions resulting in the foreign tax credit and subsection 15(2) income in 2001 and the paragraph 20(1)(j) deduction in 2002 were a sham; alternatively, the shareholder loans that resulted in the subsection 15(2) income inclusions are Canadian source income; or, as a further alternative, these transactions were avoidance transactions. (A copy of the Notification of Confirmation is attached as Exhibit P);
+2002 Taxation Year – Sara Doris Skinner
+28. In filing her 2002 individual income tax return, Sara Doris Skinner claimed a $1,100,000 deduction pursuant to paragraph 20(l)(j) of the Act relating to a repayment of a shareholder loan and claimed a non-capital loss of $1,074,322.44, of which she requested $99,337.00 be carried back to her 1999 taxation year and $117,134.00 be carried back to her 2000 taxation year, leaving a non-capital loss balance of $857,851.44 available for carryforward. (A copy of the 2002 individual income tax return is attached as Exhibit Q);
+29. On September 5, 2003 the CRA issued a Notice of Reassessment allowing the deduction as filed. (A copy of the Notice of Reassessment is attached as Exhibit R);
+30. On September 29, 2003 the CRA issued a Notice of Reassessment disallowing $1,089,000 of the deduction on the basis that the giving of a promissory note did not constitute repayment. The reassessment resulted in no tax liability. (A copy of the Notice of Reassessment is attached as Exhibit S);
+31. At the request of Sara Doris Skinner, the CRA issued a Notice of Determination of Loss dated September 29, 2006 determining the amount of non-capital loss for 2002 to be nil. (A copy of the Notice of Determination is attached as Exhibit T);
+32. This Notice of Determination was confirmed by Notification of Confirmation dated January 23, 2007 on the basis that the transaction resulting in the foreign tax credit and subsection 15(2) income in 2001 and the paragraph 20(l)(j) deduction in 2002 were a sham; alternatively, the shareholder loans that resulted in the subsection 15(2) income inclusions are Canadian source income; or, as a further alternative, these transactions were avoidance transactions. (A copy of the Notification of Confirmation is attached as Exhibit U);
+The Appeals to the Tax Court of Canada
+33. The Estate’s appeals to Tax Court are from the Notice of Reassessment dated June 9, 2005 (subsequently confirmed by Notification of Confirmation dated June 23, 2006) for the 2001 taxation year and from the Notice of Determination of Loss dated September 29, 2006 (subsequently confirmed by Notification of Confirmation dated January 23, 2007) for the 2002 taxation year.
+34. Sara Doris Skinner’s appeals to Tax Court are from the Notice of Reassessment dated June 3, 2005 (subsequently confirmed by Notification of Confirmation dated June 23, 2006) for the 2001 taxation year and from the Notice of Determination dated September 29, 2006 (subsequently confirmed by Notification of Confirmation dated January 23, 2007) for the 2002 taxation year.
+35. For the 2001 taxation year, the appellants are each seeking to have the Notices of Reassessment vacated.
+36. For the 2002 taxation year, the appellants are seeking deductions pursuant to paragraph 20(l)(j) of the Act. These deductions result in non-capital losses, which the appellants are seeking to apply to other taxation years. There is nothing else at issue in the appeals of the 2002 taxation years.
+[5] For ease of reference, in these Reasons for Order, the individual assessments from which the Appellants are appealing, that is to say, the Notices of Reassessment for 2001[1] and Notices of Determination/Redetermination of Loss for 2002[2], are referred to collectively as the “2001 Reassessment” and the “2002 Determination of Loss”, respectively. The individual amounts reported by the Appellants as shareholder loans are referred to herein as “the shareholder loan”.
+The 2001 Reassessment
+[6] In respect of the appeals of the 2001 Reassessment, the Respondent is seeking an order to dismiss the appeals under paragraph 58(3)(a) of the General Procedure Rules on the basis that the Tax Court of Canada does not have jurisdiction to make any order that would result in an increase in the tax assessed. It is an agreed fact that the relief sought by the Appellants is to have the 2001 Reassessment vacated thereby restoring the Minister’s prior assessment in which the shareholder loan was included in their 2001 income. There is no question that this would result in an increase in their tax liability for that year.
+[7] Counsel for the Respondent submitted that the jurisprudence is clear and binding on this Court that it is without authority to order an increase in the tax assessed as that would be “tantamount to allowing the Minister to appeal his own reassessment”[3], a power the Crown does not enjoy under the legislation. In support of this contention, the Respondent relied, in particular, on Harris v. Canada, (Minister of National Revenue – M.N.R.)[4], a decision of the Exchequer Court of Canada as well as four more recent decisions of the Federal Court of Appeal, Abed Estate v. Canada[5]; Pedwell v. Canada[6]; Petro-Canada v. Canada[7] and Bruner v. Canada[8].
+[8] The Respondent also took the position that, in any case, there is no ground to vacate the 2001 Reassessment: it was issued within the normal reassessment period and as such, is a valid assessment that has nullified and replaced the prior assessment which had included the shareholder loan in income[9]. From this it follows that the prior assessment no longer continues to “subsist”[10] and cannot be revived by an order vacating the 2001 Reassessment. Finally, the Respondent argued that the right of appeal is from the result of the calculation made by the Minister, not from the calculations themselves.[11]
+[9] The Appellants submitted that, notwithstanding the remedy sought is an increase in their tax liability, this Court does have jurisdiction to hear their appeals. This position is based on the following arguments:
+(a) the principle relied upon by the Respondent that the Court does not have jurisdiction on an appeal to increase an assessment is not applicable to the facts and circumstances of the within Appeals;
+(b) to the extent that the jurisprudence has established a general principle that the Court does not have jurisdiction on an appeal to increase an assessment, such general principle is not well-founded based on the governing legislation that provides the Court with its jurisdiction; and
+(c) it is the Appellants’ position that the original principle that the Minister cannot appeal his own assessment has been misapplied and misinterpreted in the jurisprudence and has been extended well beyond its intended meaning and purpose.[12]
+[10] In support, counsel for the Appellants made a thorough review of the case law immediately prior and subsequent to the Harris decision. Given its central role in the evolution of the jurisprudence it is useful to review the details of the Harris case.
+[11] In 1960, Dr. Harris claimed a capital cost allowance deduction of $30,425.80 for a building he was leasing. On reassessment, the Minister disallowed the capital cost allowance deduction in its entirety but allowed a deduction of $775.02 for rent expenses (which Harris had never claimed).[13] Harris appealed the disallowance of the capital cost allowance; the Tax Appeal Board upheld the Minister’s reassessment.
+[12] Harris appealed to the Exchequer Court. The Crown’s alternative argument before Thurlow, J. was that if section 18 of the Act was applicable to Harris’ situation, he ought to have been allowed a capital cost allowance deduction of $525, but nothing at all for rental expenses. If its contention were to be upheld, the Crown submitted that the proper remedy would be to allow the appeal and refer the matter back to the Minister for reassessment on that basis[14]. However, because the Crown had not raised the question of rental expenses in its Reply, it first sought leave to amend its pleadings accordingly. The Court rejected the Crown’s request on the following basis:
+17 I do not think … this is the correct way to deal with the matter. On a taxpayer's appeal to the Court the matter for determination is basically whether the assessment is too high. This may depend on what deductions are allowable in computing income and what are not but as I see it the determination of these questions is involved only for the purpose of reaching a conclusion on the basic question. No appeal to this Court from the assessment is given by the statute to the Minister and since in the circumstances of this case the disallowance of the $775.02 while allowing the $525 would result in an increase in the assessment the effect of referring the matter back to the Minister for that purpose would be to increase the assessment and thus in substance allow an appeal by him to this Court. The application for leave to amend is therefore refused. [Emphasis added.][15]
+[13] The Court ultimately determined that Harris was entitled to a capital cost allowance deduction of $525 but went on to dismiss the appeal on the following basis:
+… as it is thus not shown that the deduction to which [Harris] is entitled under s. 18 exceeds the $775.02 which the Minister, in my opinion, wrongly allowed as rent, the amount of tax assessed against the appellant is not in excess of his liability therefore and it follows that he has no cause to complain that his appeal fails.[16]
+[14] As mentioned above, counsel for the Appellants reviewed the cases which have expressly or by implication relied on Harris, including some appellate court decisions. Before considering his arguments in that regard, however, it is useful to review the more recent Federal Court of Appeal decisions considered by counsel for the Appellants and relied on by the Respondent, the earliest of which is Abed Estate v. Canada[17]. The relevant portion of that judgment is the Court’s conclusion that:
+[m]oreover, the Court could not, in my view, render a judgment which could, for certain years under consideration, result in a higher assessment than the assessment under attack. The Trial Division, therefore, should not have reserved to Mr. Abed the right to agree to the application of the reserve provisions of section 85B.[18]
+[15] A similar conclusion regarding the limitations on the Court’s powers under subsection 171(1) was reached by the Federal Court of Appeal in Pedwell v. Canada. In that case, the taxpayer challenged the inclusion in his personal income of some $180,000 which, according to the Minister’s basis of assessment, he had appropriated from the sale proceeds of certain land owned by his corporation. At trial, the Tax Court judge found that no such appropriation had been made and allowed the appeal; however, the Court then went on to refer the assessment back to the Minister for reconsideration and reassessment on the basis of his finding of fact that the sale proceeds from certain other properties owned by the corporation had been appropriated by the taxpayer.
+[16] The taxpayer appealed to the Federal Court of Appeal to have the decision of the Tax Court quashed on the ground that the transactions involving the other properties had not formed the basis of the assessment under appeal and could not, therefore, underpin the Court’s disposition. Rothstein, J.A. (as he then was) agreed and allowed the appeal on the following basis:
+Here, on his own motion, the Tax Court Judge, in his decision and after the completion of the evidence and argument directed to the Minister’s basis of assessment, changed the basis of that assessment without the appellant having the opportunity to address the change. This is clear because the Tax Court judgment allowed the appellant’s appeal i.e., found that there was no appropriation of property which was the basis of the Minister’s assessment, but then referred the matter back to the Minister to reassess on the basis that the [other properties not under appeal] were appropriated. What has taken place is tantamount to allowing the Minister to appeal his own reassessment.[19] [Emphasis added.]
+[17] This theme continues in Petro-Canada v. Canada where the issue under appeal was the Minister’s disallowance of a portion of certain seismic data expenses claimed by the taxpayer. The taxpayer had claimed a deduction based on a fair market value of the seismic data of approximately $46 million; upon reassessment, the Minister reduced that amount to some $8.9 million. At trial, the Tax Court judge found as a fact that the fair market value of the seismic data was only $4.7 million, about half the amount actually allowed by the Minister. However, on the basis of Harris, the Minister “could not and did not”[20] argue that the seismic data deduction allowed by the Minister in the assessment under appeal ought to be reduced to accord with the Court’s findings.
+[18] However, there was also before the Court the matter of a consent judgment pursuant to which the Minister had agreed to allow the taxpayer an additional deduction of $700,000 in respect of scientific research and experimental development expenses.
+[19] In his disposition of the case, the Tax Court judge dismissed the appeal in respect of the seismic data issue but also refused to give effect to the consent judgment in respect of the scientific research and experimental development expenses because the taxpayer had already been allowed a deduction for seismic data expenses that “… exceeded its entitlement by much more than $700,000, and the ultimate issue before [the Court] was the correctness of the assessment under appeal, …”[21].
+[20] The taxpayer appealed. The Federal Court of Appeal accepted the trial judge’s finding that the fair market value was less than the amount allowed on assessment and citing Harris, affirmed his dismissal of that aspect of the appeal. However, the Court overturned his refusal to give effect to the consent judgment on the following basis:
+… Refusing Petro-Canada’s rightful claim to the deduction for scientific research and experimental development had the same effect as an order allowing the claim but reducing Petro-Canada’s seismic expense deduction by the same amount. It is as though the Judge had allowed, in part, the Crown’s appeal of the seismic data deduction. The Judge was doing indirectly what he could not have done directly. In my view, the Judge erred in failing to give effect to the consent judgment.[22] [Emphasis added.]
+[21] The last of the appellate decisions cited above, Bruner v. Canada, was an appeal by the Crown of the Tax Court’s dismissal of its motion seeking the dismissal of the taxpayer’s appeal as being from a nil assessment. The narrow issue before the Federal Court of Appeal was whether the principle that there can be no appeal from a “nil assessment” under the Income Tax Act is equally applicable to an appeal under the Excise Tax Act. The somewhat unusual facts of this case are summarized in the reasons of the Tax Court judge:
+[3] Mr. Bruner incorporated the company on July 4, 1994. From the outset, he has been the sole shareholder, officer and director. Its directing mind is his. The company and Mr. Bruner both became registrants under the provisions of Part IX of the Act on July 7, 1994. The first reporting period for each of them ended on July 31, 1994. On July 5, 1994, Mr. Bruner registered the trade name "More Black Ink" under the Ontario Business Names Act. It cost him $60.00 to do so. On July 29, 1994, he sold that trade name to the company, and in payment for it the company gave him a non-interest bearing promissory note with a face value of $l trillion dollars ($1,000,000,000,000), having a maturity date 499 years in the future, that is on July 29, 2493. Mr. Bruner alleges that this was a commercial transaction carried out in furtherance of a business to be conducted by the company, the details of which I need not go into for purposes of these motions. At the same time, the company gave a second promissory note to Mr. Bruner (the GST note) purportedly to satisfy its obligation under section 165 of the Act to pay goods and service tax (GST), and to satisfy Mr. Bruner's obligation to collect it. This was also a non-interest bearing note, but payable to the bearer on demand, in the amount of $70 billion dollars ($70,000,000,000), which of course is 7% of $1 trillion. Under the terms of this note, the company was entitled to offset against its obligation to pay the face amount to the bearer any amounts owed to the company by the bearer. On or about July 31, Mr. Bruner filed a GST return for the company for the reporting period ending July 31, 1994. On August 30, he filed a GST return for himself, for the same period. Along with the return, he tendered the GST note, purportedly to satisfy his liability to remit GST that he had collected on the sale transaction. Ignoring for present purposes the effect of one or two other small transactions carried out by the company, the purported effect of these returns was the following. The Appellant reported sales of $1 trillion, and liability to remit GST collected, at the rate of 7%, in the amount of $70 billion. He claimed to have satisfied that liability by the tender of the GST note. The company claimed an input tax credit of $70 billion, and a net tax refund of that amount.
+…
+[4] Both notices of appeal [Both Bruner and his company appealed their respective assessments] go on to plead in some detail evidence as to dealings between Mr. Bruner and Revenue Canada over a period of some years during which Mr. Bruner, on behalf of the company, asserted the right to be paid interest in respect of the net tax refund of $70 billion, pursuant to subsection 229(3) of the Act. The quantum of this interest sought on behalf of the numbered company is not specified in either notice of appeal. Counsel for the Respondent stated in argument that the amount of interest at issue is approximately $300 million. My own rough calculation verifies that it is indeed in that order of magnitude. This is the pot of gold that Mr. Bruner hopes to retrieve at the end of his personal rainbow.[23]
+[22] The Tax Court judge had premised his refusal to grant the Crown’s motion, in part, on the different tax consequences flowing from a “nil” balance in a GST assessment and a “nil” assessment under the Income Tax Act. In overturning his decision the Federal Court of Appeal held that:
+… The provisions of the Income Tax Act relating to assessments and appeals are mirrored in the Excise Tax Act and we see no reason why the principles relating to appeals from nil assessments under the Income Tax Act should not apply to appeals under the Excise Tax Act providing that the principles extend to input tax credits and refunds as well as to liability for tax. …[24] [Emphasis added.]
+[23] The Court then went on to make the following statement, the underlined portions of which are relied on by the Respondent in the present matter to support the Crown’s argument that the 2001 appeals ought to be dismissed:
+… Consequently, a taxpayer is not entitled to challenge an assessment where the success of the appeal would either make no difference to the taxpayer's liability for tax or entitlement to input tax credits or refunds, or would increase the taxpayer’s liability for tax. When the [taxpayer] took the position that there was no amount in dispute, the Tax Court judge should have applied the nil assessment jurisprudence and quashed the Notice of Appeal.[25] [Emphasis added.]
+[24] Counsel for the Appellants took the position that the appellate and lower court decisions relied upon by the Respondent are distinguishable from the Appellants’ case; specifically, in respect of Bruner, counsel argued that unlike the taxpayer in that case, the Appellants are not appealing from a nil assessment nor were their appeals brought under the Excise Tax Act.
+[25] Counsel also argued that there is nothing in the appeal provisions of the Income Tax Act to limit expressly a taxpayer’s right of appeal to a reduction of tax. The restriction on the Minister’s powers can be traced to the legislation itself, i.e. the right to appeal is conferred exclusively on the taxpayer; the Minister’s recourse against his own assessment lies in his right, subject to certain limitations, to reassess “at any time”[26]. Following his review of the case law, counsel contended that although the jurisprudence is clear that the Court’s role is to determine whether the Minister’s assessment of tax is “correct in law and in fact”[27], the shorthand description in Harris (“basically whether the assessment is too high”[28]) has been improperly applied to prevent a taxpayer from seeking an increase in the tax assessed. This result has been achieved, he argued, without consideration of the language used in subsection 169(1) or subsection 171(1) and without regard to whether it was the Minister seeking the increase, the taxpayer or both, by mutual agreement[29]. Having read the cases cited with some care, I must agree with counsel that the evolution of the Harris principle seems to have occurred without direct analysis of the underlying legislative provisions and on the assumption that the prohibition against the Minister’s seeking an increase of his assessment is equally applicable to the taxpayer. This is perhaps understandable in view of the dearth of taxpayers petitioning the Court for a tax increase. However, as can be seen from the present circumstances and given the complexities of the Act in its application and operation, it is not inconceivable that a taxpayer might wish to challenge the correctness of an assessment on the basis that the tax assessed was too low.
+[26] While I am sympathetic to counsel’s argument, I am bound by the jurisprudence to reject it. The lack of any express limitation of a taxpayer’s right of appeal to a reduction in tax under the equivalent provisions in the Excise Tax Act was noted by the Tax Court judge in Bruner[30]; while not specifically attracting any negative comment from the appellate Court, nor did that analysis prevent his decision from being reversed. In my view, the combined effect of the appellate Court’s conclusions in Bruner that “[t]he provisions of the Income Tax Act relating to assessments and appeals are mirrored in the Excise Tax Act …”[31] and that a taxpayer is “… not entitled to challenge an assessment where the success of the appeal … would increase the taxpayer’s liability for tax”[32] precludes this Court from finding in the Appellants’ favour on this point.
+[27] Counsel for the Appellants also sought to distinguish the present case on the basis that, in none of the binding authorities cited by the Respondent was it the taxpayer who was seeking an increase in the tax assessed. He also urged the Court to consider that, although the Appellants are seeking an order that would result in a higher assessment for 2001, their ultimate goal in appealing the 2001 and 2002 taxation years is a reduction in their tax liability. In support of this contention, he underscored the fact that in reassessing the 2001 and 2002 taxation years, the Minister himself treated them as a “package deal”[33]: the bases of the 2001 Reassessment and the 2002 Determination of Loss are identical; the same transactions spanning 2001 and 2002 were considered in respect of each taxation year; and the corresponding legislative provisions relied on by the Minister are premised on the occurrence of certain events over a course of years.
+[28] Firstly, notwithstanding the interconnectedness of the 2001 Reassessment and 2002 Determination of Loss, the fact remains that a taxpayer’s right of appeal under subsection 169(1) arises from the assessment for each individual taxation year. As for the Appellants’ other contention, the Tax Court has considered and rejected the argument that a taxpayer (as opposed to the Minister) can seek an increase in the tax assessed. In Cohen v. M.N.R.[34], a General Procedure case, the taxpayer challenged the Minister’s disallowance of his inclusion in income of interest in the year under appeal as part of a larger strategy to force the Minister to reassess prior years to reduce certain interest amounts already included in income in those years. Although Rip, J. (as he then was) allowed the appeal on another basis, he had this to say in respect of the remedy initially sought by the taxpayer:
+… The Court can consider an appeal for an assessment of tax only when relief sought is in the form of a reduced amount of tax for the year under appeal: Vide: No. 526 v. M.N.R., 20 Tax A.B.C. 114; 58 D.T.C. 497, Neil L. Boyko et al. v. M.N.R., [1984] C.T.C. 2233 at page 2237; 84 D.T.C. 1233 at 1237; and Steven Cooper v. M.N.R., [1987] 1 C.T.C. 2287 at 2301; 87 D.T.C. 194 at page 205. The Court has no authority to increase tax in a taxation year properly before it even if such a decision may result in reduced taxes for other years.[35]
+[29] Finally, counsel for the Appellants submitted that the nature of the remedy sought by the Appellants distinguishes their situation from the authorities cited above. By seeking an order to vacate the 2001 Reassessment, all the Appellants are asking is that the prior assessment in which the Minister had included the shareholder loan as income under subsection 15(2) be restored. This remedy, counsel argued, avoids an order referring the matter back to the Minister for a fresh reassessment and the evil of permitting the Minister to appeal his own assessment. Thus, in all the circumstances of the appeals of the 2001 Reassessment, the Court has jurisdiction to hear those appeals notwithstanding that a successful result would entail an increase in the Appellants’ tax liability.
+[30] As I read the jurisprudence, however, the governing factor in determining the Court’s jurisdiction is not who is seeking the order or the nature of the remedy sought, but rather, whether the ultimate result would be an increase in the quantum assessed in the assessment under appeal. If that question is answered in the affirmative, the “effect” is, by definition, to permit the Minister to appeal his own assessment and the Court is without authority to make such an order. As shown by both Pedwell and Petro‑Canada, the Court stands in no better position than the Minister where the order granted results in an increase in the taxpayer’s assessment. The effect of an order vacating that assessment is still to increase the tax assessed in that year, an outcome beyond the Court’s power to impose. Thus, whether the request originates with the taxpayer or the Minister and whether the order is to vary or vacate, the effect of ordering such a remedy is the same.
+[31] As there is no question that if the Appellants were successful in their appeals of the 2001 Reassessment the result would be an increase in the quantum of their tax liability for that year, I am bound by the jurisprudence to conclude that the Court is without jurisdiction to hear their appeals. The Respondent’s motion to dismiss the appeals of the 2001 Reassessment is therefore granted.
+The 2002 Determination of Loss
+[32] The Respondent seeks the following order in respect of the 2002 appeals:
+An Order determining the following questions of law in relation to the appeals for the 2002 taxation year (#2007-1949(IT)G and #2007‑1950(IT)G), pursuant to paragraph 58(1)(a) of the General Procedure Rules:
+a. In order to obtain a deduction for an amount under paragraph 20(l)(j) of the Income Tax Act in computing income for a taxation year, must there be an inclusion in income of an amount by virtue of subsection 15(2) of the Income Tax Act in the final determination of tax liability by the Minister of National Revenue in a preceding taxation year? and
+b. If the answer to this is yes, whether the appeals with respect to the 2002 taxation year should be dismissed?
+[33] Paragraph 58(1)(a) of the General Procedure Rules provides as follows:
+58. (1) A party may apply to the Court,
+(a) for the determination , before hearing, of a question of law, a question of fact or a question of mixed law and fact raised by a pleading in a proceeding where the determination of the question may dispose of all or part of the proceeding, substantially shorten the hearing or result in a substantial saving of costs, or
+…
+[34] The grounds for the Respondent’s motion under paragraph 58(1)(a) are:
+6. The questions to be determined are a question of mixed fact and law;
+7. The determination of the questions may dispose of part of the proceeding, substantially shorten the hearing or result in a savings of costs;
+8. The only issue raised in the Notices of Appeal in relation to the 2002 taxation year … is whether the appellants are entitled to a deduction under paragraph 20(1)(j) of the Act for repayment of a shareholder loan, which results in non-capital losses;
+9. In the Minister’s final determination of tax liability for the 2001 taxation year, there is no inclusion of an amount for an outstanding shareholder loan by virtue of subsection 15(2) in computing the appellants’ income, as required by paragraph 20(1)(j) of the Act, and accordingly, the Tax Court cannot order the relief sought by the appellants in the 2002 taxation year.
+[35] Before embarking on the answer to a question posed under paragraph 58(1)(a), the Court must first determine whether it is appropriate to do so[36]. In Carma Developers Ltd. v. Canada[37], cited with approval by the Federal Court of Appeal in Jurchison v. Canada[38], Christie, A.C.J. cautioned that:
+… paragraph 58(1)(a) of the Rules is not intended as an easily accessible alternative to a trial for the disposition of complex and contentious disputes about the rights and liabilities of litigants. It is to be invoked when it is clear that the determination of all or part of a dispute by trial would be essentially redundant.[39]
+[36] Counsel did not become aware of the issues raised in the Respondent’s motion until shortly before the trial was scheduled for hearing. The Appellants agreed that the Respondent’s motion raised issues that they preferred to have decided before the hearing of the appeals and were also agreeable to proceed for the purposes of the motion by an agreed statement of facts[40]. In these circumstances, what is normally a two-step process under paragraph 58(1)(a) was condensed into one hearing. I am satisfied that it would be appropriate to hear the Respondent’s motion: the parties agree that the sole issue in the 2002 appeals is whether the Appellants are entitled to a deduction under paragraph 20(1)(j). They have filed an Agreed Statement of Facts in which it is also agreed at paragraphs 16 and 20 that the shareholder loan was not included in the 2001 Reassessment, a fact consistent with the allegations in paragraphs 33 to 35 of the Notice of Appeal and the admission at paragraph 2 of the Reply. In these circumstances, an answer in the affirmative to questions set out in the Respondent’s motion will effectively dispose of the 2002 appeals saving time and money and making the hearing of the appeals redundant.
+[37] Turning, then, to the Respondent’s motion, the first question is whether to obtain a deduction under paragraph 20(1)(j) of the Income Tax Act, there must have been an inclusion in income of an amount by virtue of subsection 15(2) in the Minister’s final determination of tax liability in a preceding taxation year.
+[38] The relevant portions of subsection 15(2) and paragraph 20(1)(j) of the Act read as follows:
+Subsection 15(2) Shareholder debt. Where a person … is
+(a) a shareholder of a particular corporation,
+…
+and the person … has in a taxation year received a loan from or has become indebted to the particular corporation …, the amount of the loan or indebtedness is included in computing the income for the year of the person …
+Section 20(1) Notwithstanding paragraph 18(1)(a), (b) and (h), in computing a taxpayer’s income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+…
+(j) Repayment of loan by shareholder – such part of any loan or indebtedness repaid by the taxpayer in the year as was by virtue of subsection 15(2) included in computing the taxpayer’s income for a preceding taxation year … if it is established by subsequent events or otherwise that the repayment was not made as part of a series of loans or other transactions and repayments; [Emphasis added.]
+[39] Counsel for the Respondent argued that paragraph 20(1)(j) has been interpreted to mean that whether an amount “was included” in a taxpayer’s income in a prior year is a question of fact: Quigley v. Canada[41] and Hevey v. R.[42]. Because in the present matter it is an agreed fact that the shareholder loan was not included under subsection 15(2) in the 2001 Reassessment, and assuming that the Tax Court of Canada has no jurisdiction to hear an appeal from that assessment, counsel submitted that no amount “was included by virtue of subsection 15(2)” in the Minister’s final determination of their tax liability for that year. Accordingly, the Respondent’s position is that the Appellants will not be able to satisfy the requirements of paragraph 20(1)(j) and the 2002 appeals ought to be dismissed.
+[40] The Appellants also relied on Quigley for the proposition that whether an amount “was included” is a question of fact but rejected the Respondent’s interpretation of paragraph 20(1)(j) on various grounds: first, it requires reading into the provision the words “in an assessment by the Minister” or “as assessed by the Minister” after the phrase “was by virtue of subsection 15(2) included in computing the taxpayer’s income”. Because paragraph 20(1)(j) does not expressly address by whom an amount must have been included, the Appellants argued that the combined effect of their having reported the shareholder loan as subsection 15(2) income in their amended 2001 returns and its inclusion in income by the Minister in his initial assessment of the amended returns is sufficient to satisfy the paragraph 20(1)(j) criteria.
+[41] Counsel for the Appellants further argued that, if the Respondent’s interpretation were correct, the effect would be to permit the Minister to bar a taxpayer’s right to appeal the disallowance of a deduction in one taxation year merely by denying the corresponding inclusion in another; such an interpretation of paragraph 20(1)(j) would have implications for other provisions of the Act which also operate in tandem, i.e. a deduction for bad debts or reserve for doubtful debts. It would also be inconsistent with the jurisprudence in which taxpayers have been allowed to appeal subsection 15(2) inclusions in income and the Minister’s denial of paragraph 20(1)(j) deductions; in support of this contention, counsel cited Hill v. Canada[43]. Counsel for the Appellants urged that Parliament cannot be taken to have intended to impose such an inequitable result or to deprive taxpayers of their statutory right of appeal.
+[42] Finally, counsel for the Appellants challenged the Respondent’s argument as to the effect of the Court’s lack of jurisdiction to hear the 2001 appeals: that did not, he argued, preclude the Court from making factual and legal determinations in respect of that year for the purposes of disposing of the 2002 appeal.
+Analysis
+[43] In my view, the Respondent’s interpretation of paragraph 20(1)(j) is the correct one. In Quigley, the issue was the interpretation of the words “was included” as used in paragraph 80.4(3)(b) of the Act. The facts of the case are summarized in the headnote:
+From 1986 to 1990, there was a loan account between the appellant and his company. In the earlier years the appellant advanced money to the company and later the company loaned money to the appellant by way of advance or in respect to a housing loan. During those years, further advances were made and repayments were also made. On December 31, 1987, the appellant owed $187,632 to the company whose fiscal year end was April 30. The Minister did not include any amount in income for 1987 under subsection 15(2). The taxation year 1987 is now statute-barred. In assessing for 1988, the Minister included $21,703 under subsection 15(2) and $17,967 as an interest benefit under subsection 80.4(2). For 1989 the Minister allowed a deduction of $21,703 under paragraph 20(1)(j). Also, the Minister included a net interest benefit of $6,376 under subsection 80.4(2). The appellant appealed from the assessments for his 1988 and 1989[44] taxation years. Simply put, the appellant’s case was that the Minister should have included $187,632 in his income for 1987 under subsection 15(2). The fact that he did not do so and that the year was now statute-barred was, according to the appellant, irrelevant because paragraph 80.4(3)(b) excludes from the operation of subsection 80.4(1) and (2) … any debt that “was included” in computing the income of a person. The appellant reads “was included” in paragraph 80.4(3)(b) to mean “ought to have been included”. [Footnote added.]
+[44] The Court rejected the above interpretation of the words “was included” and dismissed the taxpayer’s appeals on the following basis:
+… I do not think the proposition of law advanced by the appellant can be sustained. Just because subsection 15(2) provides that an amount “shall be included” [the provision now reads “is included”] in computing income, it does not follow that it “was included”. Whether something was or was not included is purely a question of fact.[45]
+[45] Bowman, J., (as he then was) referred to paragraph 20(1)(j) to illustrate the difference in meaning ascribed by the Act to the words “required to be included” and “was included”:
+… Whether an amount is “required to be included” – words used, for example, in subsection 104(12), or subsection 144(7) – is a question of law. The distinction between the two phrases is recognized throughout the Act. A good example of this is found in paragraph 20(1)(j), which permits a deduction when a shareholder’s loan that was previously included in income under subsection 15(2) is repaid. Since 1983 the paragraph had read, in part, as follows:
+Such part of a loan or indebtedness repaid by the taxpayer in the year as was by virtue of subsection 15(2) included in computing his income for a preceding year.
+Prior to 1983 the relevant portion of the phrase read “such part of any loan repaid by the taxpayer as was by subsection 15(2) required to be included…”
+The reason for the amendment is obvious as it was arguable that a deduction would result from repayment even if there was no prior inclusion. To give effect to the appellant’s interpretation of the words in paragraph 80.4(3)(b) would mean that a similar interpretation should be given to virtually the same wording in paragraph 20(1)(j). Such an interpretation would defeat the purpose of the amendment.[46]
+[46] In my view, the Appellants’ interpretation of paragraph 20(1)(j) is inconsistent with the scheme of the Act and the jurisprudence, both of which make a clear distinction between the respective roles of the taxpayer and the Minister: under the legislation, a return of income shall be filed for each taxation year of a taxpayer[47] and a person required to file a return shall estimate the tax payable[48]; the power to assess the tax payable for the year, however, lies exclusively with the Minister[49]. It is only after the Minister has made that assessment of the tax that the taxpayer’s right to object[50] and to appeal[51] arises. In Anchor Pointe Energy Ltd. v. Canada[52], the Federal Court of Appeal summarized the process in this fashion:
+The appeal is, to use the words of Hugesson, J.A.[53] [footnote added], from the product of that assessment: see also Parsons v. M.N.R.[54] [footnote added] …, where Cattanach, J. held that the “assessment by the Minister, which fixes the quantum and tax liability, is that which is the subject of the appeal”. That product refers to the amount of tax owing as initially assessed or determined, and subsequently confirmed. From the perspective of the process itself, the assessment pursuant to sections 152 to 165 is not completed by the Minister until, within the time allotted by the Act, the amount of tax owing is finally determined, whether by way of reconsideration, variation, vacation or confirmation of the initial assessment: …[55]
+[47] Accordingly, the mere reporting of subsection 15(2) income or its initial inclusion by the Minister is immaterial to a subsequent (and in the present matter, unassailable) reassessment excluding it from income. It is implicit in the Act that the inclusion of subsection 15(2) income contemplated by paragraph 20(1)(j) occurs upon the completion of the Minister’s assessment for the preceding year, however that completion may come about: whether from the Minister’s acceptance of such income as filed by the taxpayer or failing that, upon the Minister’s reassessment to include it (either without challenge by the taxpayer or upon the taxpayer’s unsuccessful objection to or appeal of its inclusion), the effect is the same. Where no amount was included after the timely completion of the Minister’s assessment of the preceding year, the criteria for deduction under paragraph 20(1)(j) cannot be satisfied.
+[48] As for the Appellants’ argument that Parliament cannot have intended to empower the Minister to prevent a taxpayer from appealing the disallowance of a paragraph 20(1)(j) deduction merely by denying the inclusion upon which it is contingent, first, the Minister must be presumed to be acting in good faith in carrying out his duties to assess in accordance with the legislative provisions. His failure to adhere to that standard would not, in any case, be a matter for this Court. Furthermore, both the legislation and the jurisprudence contemplate that in certain circumstances, the taxpayer may not be able to appeal an assessment, i.e. upon the expiry of time limitations, from a nil assessment, or in circumstances where the relief sought is to increase the quantum of tax payable.
+[49] The purpose of subsection 15(2) and paragraph 20(1)(j) is not to block a taxpayer’s right of appeal but rather, to set out the circumstances in which certain amounts must be included in income and the criteria for the subsequent deduction of such income. Unfortunately for the Appellants, it happens that in the present circumstances, the assessment upon which their entitlement to a deduction under paragraph 20(1)(j) depends is beyond legal challenge.
+[50] Counsel for the Respondent made the point in her submissions that normally, the operation of the inclusion-deduction provisions will result in a “wash”, and referred to Hill v. Canada[56], also cited by counsel for the Appellants, above. That decision (referred to herein as “Hill (1985)”) involved an appeal of a consequential reassessment of the taxpayer’s 1985 taxation year. By way of background, in 1987, the Minister reassessed the taxpayer’s 1983, 1984 and 1985 taxation years to include shareholder loans in his 1983 and 1984 income under subsection 15(2) and to allow a corresponding deduction in 1985 under paragraph 20(1)(j) of the Act. The taxpayer appealed[57] the income inclusion in the 1983 and 1984 reassessments. The Court allowed the appeals and referred the matter back to the Minister “… for reconsideration and reassessment on the basis that the amounts included in his income for [1983 and 1984] pursuant to subsection 15(2) of the Income Tax Act are to be deleted…”[58].
+[51] Following the completion of the reassessment ordered by the Court for 1983 and 1984, the Minister made a consequential reassessment under subsection 152(4.3) disallowing the paragraph 20(1)(j) deduction that had initially been allowed for 1985. For ease of reference, subsection 152(4.3) is reproduced below:
+Consequential assessment. Notwithstanding subsections (4), (4.1) and (5), where the result of an assessment or a decision on an appeal is to change a particular balance of a taxpayer for a particular taxation year, the Minister may, or where the taxpayer so requests in writing, shall, before the later of the expiration of the normal reassessment period in respect of a subsequent taxation year and the end of the day that is one year after the day on which all rights of objection and appeal expire or are determined in respect of the particular year, reassess the tax, interest or penalties payable, or redetermine an amount deemed to have been paid or to have been an overpayment, under this Part by the taxpayer in respect of the subsequent taxation year, but only to the extent that the reassessment or redetermination can reasonably be considered to relate to the change in the particular balance of the taxpayer for the particular year.
+[52] It is the taxpayer’s appeal of the 1985 consequential reassessment that is relied upon by the parties in the present matter. While Hill (1985) had as its focus the interpretation of subsection 152(4.3), the following passage illustrates the interplay between subsection 15(2) and paragraph 20(1)(j), as well as the respective roles of the Court and the Minister:
+On the clear wording of subsection 152(4.3) on September 23, 1993 – (a) the result of the Tax Court of Canada’s decision is to change the balance for the particular years of 1983 and 1984, and (b) the reassessment of the Appellant’s 1985 taxation year can be reasonably considered to relate to the change in the particular balance of the Appellant’s 1983 and 1984 taxation years. Thereafter, the Minister is the person who may or shall determine the Appellant’s tax and interest in respect of the subsequent taxation year. ....[59] [Emphasis added.]
+[53] Counsel for the Respondent submitted that Hill (1985) is directly on point: in light of the agreed fact that the income inclusion initially assessed for 1983 and 1984 had been deleted by the Minister in his final determination of tax liability following the decision of the Tax Court, the taxpayer could not satisfy paragraph 20(1)(j) and the Minister’s reassessment to disallow the deduction was upheld. Here, as it is an agreed fact that the Minister did not include the shareholder loan as income under subsection 15(2) in the 2001 Reassessment and given that that reassessment is beyond legal challenge, the Appellants are not entitled to a paragraph 20(1)(j) deduction and accordingly, their appeals of the 2002 taxation years must fail.
+[54] The Appellants argued that Hill (1985) supports their position that even if the Court is without jurisdiction to hear the 2001 appeals, it may still make findings of fact and law in respect of that year for the purposes of deciding the 2002 appeals: “Was the shareholder loan included in 2001? Was it required to be included in 2001? Those are factual and legal determinations that could still be made in the context of the 2002 appeal”[60]. In my view, however, the Appellants are in the same position as the taxpayer in Quigley: in that case, the preceding year in which the taxpayer argued that the loan ought to have been included was statute‑barred. Thus, no amount was included in the Minister’s final determination of tax for that year. The use of the words “was included” in paragraph 20(1)(j), a change from “was required to be included” which originally appeared in that provision, renders irrelevant the inquiry proposed by the Appellants. If I am correct in concluding that the Court has no jurisdiction to hear the 2001 appeals, even if the trial judge were to be satisfied that the Minister should have included the shareholder loan in the Appellants’ 2001 income, the fact remains that ultimately, no amount “was included” under subsection 15(2) in the 2001 Reassessment. In Quigley, although Bowman, J. considered that the loan received by the taxpayer “should have been taxed”[61] in the prior year, that did not affect his finding that no amount “was included” as required by the legislation.
+[55] Counsel for the Appellants also sought to characterize the facts in Hill (1985) as being “the opposite” of the Appellants’ circumstances:
+… in the sense that the Minister included a shareholder loan in 1983 and 1984 but allowed a deduction in 1985…. So the Court held that in that case there could not be a repayment of the loan in '85 if the loan had not been included in paragraph 15(2) in the prior years. But interestingly enough, in this case it was not until the Court made the determination as to whether the loan was properly included in income in '83 and '84 that the issue concerning '85 could be decided, but the taxpayer was still given the right to challenge the income inclusion. … It would be entirely inconsistent with the principles of the Act if a taxpayer is able to challenge the income inclusion and the subsequent deduction based on the facts in Hill case and have the Court rule on the matter, yet in the [present] facts … a taxpayer would not be able to challenge the income inclusion and their entitlement to a deduction if the opposite of those facts were the situation.[62] [Emphasis added.]
+[56] With respect, the flaw in the Appellants’ argument is that it overlooks the significant and fundamental differences between their appeals and those in Hill (1985). Unlike the Appellants, the taxpayer in Hill (1985) did not face any substantive impediments to appealing either the inclusion in income in the preceding years or the subsequent disallowance of a deduction in 1985. Counsel’s submission also leaves the impression that the 1985 appeal turned on the Court’s having made a fresh inquiry into the correctness of the exclusion of the shareholder loans from Hill’s 1983 and 1984 income. In fact, the Court relied on the agreed fact that no amount had been included under subsection 15(2) in the Minister’s consequential reassessment of those years following the Court’s decision in respect of those years.
+[57] In both Hill (1985) and Quigley, the taxpayer’s entitlement to a deduction under paragraph 20(1)(j) depended upon whether, in fact, an amount was included in income under what, in the particular circumstances of each case, turned out to be the Minister’s final determination of the taxpayer’s liability for the preceding years. I am unable to find any justification to stray from that interpretation of paragraph 20(1)(j).
+[58] For the reasons set out above, the following question must be answered in the affirmative:
+a. In order to obtain a deduction for an amount under paragraph 20(l)(j) of the Income Tax Act in computing income for a taxation year, must there be an inclusion in income of an amount by virtue of subsection 15(2) of the Income Tax Act in the final determination of tax liability by the Minister of National Revenue in a preceding taxation year?
+[59] Given this determination and in light of the admitted facts and circumstances of the 2002 appeals, I am persuaded that the second question for determination in the Respondent’s motion under paragraph 58(1)(a), whether the appeals with respect to the 2002 taxation years should be dismissed, must also be answered in the affirmative.
+Signed at Ottawa, Canada, this 3rd day of July, 2009.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2009TCC269
+COURT FILE NOS.: 2006-2969(IT)G; 2007-1950(IT)G;
+2006-2972(IT)G; 2007-1949(IT)G
+STYLE OF CAUSE: SARA DORIS SKINNER, IN HER CAPACITY AS EXECUTRIX OF THE ESTATE OF RONALD SKINNER, DECEASED AND THE QUEEN AND BETWEEN SARA DORIS SKINNER AND THE QUEEN
+PLACE OF HEARING: Saskatoon, Saskatchewan
+DATE OF HEARING: September 4, 2008
+REASONS FOR ORDER BY: The Honourable Justice G. A. Sheridan
+DATE OF ORDER: July 3, 2009
+APPEARANCES:
+Counsel for the Appellants:
+Kurt G. Wintermute
+Counsel for the Respondent: Karen Janke
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Kurt G. Wintermute
+Firm: MacPherson Leslie & Tyerman, LLP
+Saskatoon, Saskatchewan
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] For the Appellant Doris Skinner, Notice of Reassessment for 2001 dated June 3, 2005; for the Estate of the Late Ronald Skinner, Notice of Reassessment for 2001 dated June 9, 2005.
+[2] For the Appellant Doris Skinner, Notice of Determination/Redetermination of a Loss for 2002 dated September 29, 2006; for the Estate of the Late Ronald Skinner, Notice of Determination/Redetermination of a Loss for 2002 dated September 29, 2006.
+[3] Pedwell v. Canada, [2000] 3 C.T.C. 246 at paragraph 18 (F.C.A.)
+[4] [1964] C.T.C 562 (Ex. Ct.), affirmed on other grounds, [1966] C.T.C 226 (S.C.C.).
+[5] [1982] C.T.C 115.
+[6] Above.
+[7] [2004] 3 C.T.C. 156.
+[8] [2003] F.C.J. No. 144.
+[9] Abrahams v. Canada (Minister of National Revenue – M.N.R.) (No. 2), [1966] C.T.C 690 (Ex. Ct.).
+[10] Lornport Investments Ltd. v. Canada, [1992] 1 C.T.C. 351 (F.C.A); Merswolke v. Canada, [1995] 1 C.T.C. 2524 (T.C.C.).
+[11] Bowater Mersey Paper Co. v. Canada, [1987] 2 C.T.C 159 (F.C.A.).
+[12] Appellants’ Brief of Law at paragraph 7.
+[13] Harris, above, at paragraph 2.
+[14] Above, at paragraph 5.
+[15] Above, at paragraph 17.
+[16] Above, at paragraph 15.
+[17] Above.
+[18] Above, at paragraph 24.
+[19] Pedwell, above, at paragraph 18.
+[20] Petro-Canada, above, at paragraph 24.
+[21] Above, at paragraph 65.
+[22] Above, at paragraph 69.
+[23] Bruner v. Canada, [2002] 4 C.T.C. 2168 at paragraphs 3 and 4. (T.C.C.).
+[24] Bruner (F.C.A.), above at paragraph 3.
+[25] Above.
+[26] Subsection 152(4).
+[27] Addison & Leyen Ltd. v. Canada, [2006] 3 C.T.C. 95 at paragraph 43. (F.C.A.); Nicholson Ltd. v. Minister of National Revenue, [1945] C.T.C 263. (Ex. Crt.); See also: Perley v. R., [1997] 3 C.T.C. 3087. (T.C.C.); Burrows v. R., 2006 D.T.C. 2172. (T.C.C.).
+[28] Harris, above at paragraph 17.
+[29] See: Vineland Quarries & Crushed Stone Ltd. v. Minister of National Revenue, [1970] C.T.C 12 (Ex. Crt.); Schiewitz v. Minister of National Revenue, [1979] C.T.C. 2291. (T.R.B.); Boyko v. Minister of National Revenue, [1984] C.T.C. 2233. (T.C.C.); Cooper v. Minister of National Revenue, [1987] 1 C.T.C. 2287. (T.C.C.).
+[30] Bruner v. Canada, [2002] 4 C.T.C. 2168 at paragraphs 13 to 15 (T.C.C.).
+[31] Bruner v. Canada , (F.C.A.), above at paragraph 3.
+[32] Above.
+[33] Submissions of Counsel for the Respondent, Transcript, page 56, lines 1-21, inclusive.
+[34] [1988] 2 C.T.C. 2021 (T.C.C.). See also: Les Soudures Chagnon Ltée v. Minister of National Revenue, [1990] 1 C.T.C. 2365; Valdis v. R., [2001] 1 C.T.C. 2827; Schnurr v. R., 2004 D.T.C. 3531; Yates v. R., [2005] 4 C.T.C. 2364.
+[35] Above, at page 2023.
+[36] Webster v. Canada, 2002 FCA 205 (F.C.A.); Perera v. Canada, [1998] 3 F.C. 381 at paragraphs 13-15 (F.C.A.).
+[37] [1995] 96 D.T.C. 1803 (T.C.C.).
+[38] 2001 F.C.J. No.654 at paragraph 8.
+[39] Carma Development, above, at paragraph 11.
+[40] Transcript of Telephone Conference Call before Sheridan, J. on August 27, 2008, page 4, lines 16 to 20.
+[41] [1996] 1 C.T.C 2378 (T.C.C.).
+[42] [2005] 1 C.T.C 2848 (T.C.C.).
+[43] [1996] 1 C.T.C 2893 (T.C.C.).
+[44] Interestingly, à propos the appeals of the 2001 Reassessment, after analyzing the loans and repayments in 1987, 1988 and 1989, at paragraph 17 of Quigley, Bowman, J. opined in respect of the 1989 appeal that the amount included in income in 1988 “probably” ought to have been greater but (consistent with Harris) stated that was not his “… concern, the only issue being whether the assessment is too high”.
+[45] Above, at page 2383.
+[46] Above, at pages 2383 - 2384, inclusive.
+[47] Subsection 150(1).
+[48] Section 151.
+[49] Subsection 152(1).
+[50] Subsection 165(1).
+[51] Subsection 169(1).
+[52] [2007] F.C.J. No. 687 at paragraph 33.
+[53] Consumers’ Gas Co. v. R., 1986 CarswellNet 496 at paragraph 13 (F.C.A.)
+[54] [1984] 1 F.C. 804 at page 814.
+[55] [2007] F.C.J. No. 687 at paragraph 33.
+[56] [1996] 1 C.T.C 2893 (T.C.C.).
+[57] Nigil T. Hill and Uphill Holdings Ltd. v. Canada (Minister of National Revenue – M.N.R.), [1993] 1 C.T.C 2021 (T.C.C.).
+[58] Above, at paragraph 37.
+[59] Hill, above, at paragraph 11.
+[60] Transcript, page 142, lines 16 to 20.
+[61] Quigley, above at at page 2383.
+[62] Transcript, page 145, lines 5-7 and 24-25 to page 146, lines 1-20, inclusive.

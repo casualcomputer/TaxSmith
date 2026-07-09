@@ -1,0 +1,114 @@
+Title: Tremblay v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26903/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-273-26903-tremblay-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-04-27
+
+# Tremblay v. The Queen
+
+- Citation: 2004 TCC 273
+- Decision date: 2004-04-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 775, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-27
+Neutral citation
+2004 TCC 273
+File numbers
+2003-3288(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3288(IT)I
+BETWEEN:
+MARCEL TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+___________________________________________________________________
+Appeal heard on March 26, 2004, at Chicoutimi, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Agents for the Appellant:
+Julie McCann and Christine Drolet
+Counsel for the Respondent:
+Sylvain Ouimet
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment taking into account that the Appellant is eligible for an equivalent-to-spouse credit for a wholly dependent person in the amount of $1,066.88 ($6,293 X 16%) with respect to his son Keven, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 27th day of April 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 29th day of September 2004.
+Ingrid B. Miranda, Translator
+Citation: 2004TCC273
+Date: 20040427
+Docket: 2003-3288(IT)I
+BETWEEN:
+MARCEL TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from an assessment made by the Minister of National Revenue (the "Minister") for the 2001 taxation year, wherein the Minister denied the Appellant an equivalent-to-spouse credit for a wholly dependent person in the amount of $1,066.88 ($6,293 X 16%) with respect to his son Keven, in accordance with paragraph 118(1)(b) of the Income Tax Act (the "Act").
+[2] Keven was born on February 13, 1987. He is the son of the Appellant and the late Claude Tremblay, who died on March 22, 2003. The Appellant and Ms. Tremblay cohabited for seven years and stopped living together in the early 1990s. On July 6, 1992, both parties signed an agreement on access rights; the agreement was later confirmed by the Superior Court of Quebec. The order in question granted access rights to the Appellant, with respect to his son, in accordance with an understanding of the parties; if the parties are unable to reach an understanding, then the order sets out a specific access arrangement such that Keven would visit the Appellant every second weekend, from 5 p.m. Friday evenings to 7 p.m. Sunday evenings, two consecutive days at Christmas or New Year's and one week during the summer holidays. There is no order or agreement as to legal custody; however, the Appellant acknowledges that Keven's mother had custody of the youth. The parties did not agree on any terms of support for Keven.
+[3] In fact, specifically in 2001, Keven spent almost all his weekends at the residence of his father. Throughout the taxation year at issue, the frequency of Keven's visits to his father increased to the point that he not only spent every weekend at his father's residence, but he spent two or three weekdays with his father as well. Keven spent most of the summer of 2001 with his father and was in the habit of going to work with his father.
+[4] Keven was a student at the Jonquière high school and most of his friends lived in the same city as the Appellant. Ms. Tremblay lived out of town with her new common-law partner.
+[5] During the course of the year at issue, the Appellant made changes to his residence to better accommodate his son. He assumed his responsibilities as a father and gave his son everything he needed. He fed him, clothed him and drove his son when necessary; he also imposed a curfew on his son and gave him a pager to facilitate contact. Sometimes, the Appellant shared some expenses with the mother, although this took place outside a specific agreement.
+[6] Due to the growing presence of his son at his residence in 2001, the Appellant decided to seek custody of his son. On August 6, 2002, the Superior Court of Quebec granted custody of Keven to the Appellant and confirmed that Keven had lived with his father since June 19, 2002. Before July 2002, the Appellant did not receive the Child Tax Benefit for Keven.
+[7] During the year at issue, the Appellant lived separate and apart from Ms. Tremblay and had no other common-law partner. His son Keven has confirmed all his statements. His mother had to work 60 hours per week and Keven did not get along very well with his stepfather. He said that he spent most of his time in 2001 with his father and that, for the most part, the latter supported him.
+[8] In computing his non-refundable tax credits for the 2001 taxation year, is the Appellant entitled to claim a credit for a qualified dependant with respect to his son Keven, in accordance with paragraph 118(1)(b) of the Act? The paragraph reads as follows:
+Personal credits - For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+A x B
+where
+A is the appropriate percentage for the year, and
+B is the total of,
+(a) Married status - in the case of an individual who at any time in the year is a married person or a person who is in a common- law partnership who supports the individual's spouse or common-law partner and is not living separate and apart from the spouse or common-law partner by reason of a breakdown of their marriage or common-law partnership, an amount equal to the total of
+(i) $7,131, and
+(ii) the amount determined by the formula
+$6,055 - (C - $606)
+where
+C is the greater of $606 and the income of the individual's spouse or common-law partner for the year or, where the individual and the individual's spouse or common-law partner are living separate and apart at the end of the year because of a breakdown of their marriage or common-law partnership, the spouse's income for the year while married or in a common-law partnership and not so separated,
+[1997, c. 25, ss. 25(1), (2); 2000, c. 12, Sch. 2, par. 1(z.5), par. 9(g), par. 11(a); P.C. 2000-1177]
+(b) Wholly dependent person - in the case of an individual who does not claim a deduction for the year because of paragraph 118(1)(a) and who, at any time in the year,
+(i) is
+(A) a person who is unmarried and who does not live in a common-law partnership, or
+(B) a person who is married or in a common-law partnership, who neither supported nor lived with their spouse or common-law partner and who is not supported by that spouse or common-law partner, and
+(ii) whether alone or jointly with one or more other persons, maintains a self-contained domestic establishment (in which the individual lives) and actually supports in that establishment a person who, at that time, is
+(A) except in the case of a child of the individual, resident in Canada,
+(B) wholly dependent for support on the individual, or the individual and the other person or persons, as the case may be,
+(C) related to the individual, and
+(D) except in the case of a parent or grandparent of the individual, either under 18 years of age or so dependent by reason of mental or physical infirmity,
+an amount equal to the total of
+(iii) $7,131, and
+(iv) the amount determined by the formula
+$6,055 - (D - $606)
+where
+D is the greater of $606 and the dependent person's income for the year,
+[1997, c. 25, s. 25(3); 2000, c. 12, s. 131]
+[9] Counsel for the Respondent takes the position that the Appellant is not entitled to this credit because he did not obtain custody of Keven until August 6, 2002, and because no documents were produced to show that Keven was wholly dependent on the Appellant during the period at issue.
+[10] Custody is not a mandatory condition for the applicability of par. 118(1)(b) of the Act (See Matte v. Canada[2003] F.C.J. No. 43). This paragraph is applicable when, at any time in the year, the Appellant claiming the credit did not claim the credit under paragraph 118(1)(a) and is unmarried and does not live in a common-law partnership, or is married or in a common-law partnership and does not live with his spouse or common-law partner and maintains a self-contained domestic establishment (in which he lives) and actually supports in that establishment a person. In my opinion, the Court may grant the credit to the Appellant on the basis of the evidence before it, if the person (Keven) satisfies the four conditions set out in par. 118(1)(b). The only condition questioned by the Minister is whether Keven was wholly dependent on the Appellant. The Appellant must establish that this was true at some time in the taxation year at issue.
+[11] The Appellant has testified that, during the 2001 taxation year, Keven spent almost every weekend with the Appellant. Moreover, he spent many weekdays at his father's residence in order to be closer to his friends and to his school. He spent the whole summer of 2001 with the Appellant. At all times, the Appellant did his best to accommodate his son and to make him feel comfortable in his residence. He has also provided for all his basic material and educational needs. Although the Appellant and Keven's mother did share some of the expenses, and the mother took care of some expenses on her own, these facts do not constitute an impediment to concluding that, at some time in the year 2001, Keven was wholly dependent on the Appellant (See Isaac v. Canada[1994] T.C.J. No. 952). The appeal is allowed and the assessment is referred back to the Minister for reconsideration and reassessment, in accordance with these Reasons for Judgment.
+Signed at Ottawa, Canada, this 27th day of April 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 29th day of September 2004.
+Ingrid B. Miranda, Translator

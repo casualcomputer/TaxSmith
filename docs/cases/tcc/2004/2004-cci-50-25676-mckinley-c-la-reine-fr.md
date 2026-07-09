@@ -1,0 +1,204 @@
+---
+title: "McKinley c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25676/index.do"
+last_modified: "2004-02-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 50"
+citation2: ""
+neutral_citation: "2004 CCI 50"
+decision_date: "2004-02-09"
+language: "fr"
+item_id: "25676"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3834
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:01:55.788000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a49a5abd38fbd27de65612471ee97a84878ffac02db923baad2febda6e97ec8f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McKinley c. La Reine
+
+- Citation: 2004 CCI 50
+- Decision date: 2004-02-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3834, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKinley c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-09
+Référence neutre
+2004 CCI 50
+Numéro de dossier
+2003-2840(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2840(IT)I
+ENTRE :
+NORMA DORIS MCKINLEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appels entendus le 5 janvier 2004, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Représentant de l’appelante :
+Martin R. McKinley
+Avocat de l’intimée :
+Me Raj Grewal
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+Les appels concernant les cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001 et 2002 sont accueillis, avec dépens, et les cotisations sont renvoyées au ministre du Revenu national pour qu’il les réexamine et établisse de nouvelles cotisations, selon les motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 9e jour de février 2004.
+"L.M. Little"
+Le juge Little
+Traduction certifiée conforme
+ce 14e jour d’avril 2005.
+Colette Dupuis-Beaulne, traductrice
+Référence : 2004CCI50
+Date : 2004-02-09
+Dossier : 2003-2840(IT)I
+ENTRE :
+NORMA DORIS MCKINLEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L’appelante a 88 ans.
+[2] L’appelante a reçu un crédit d’impôt pour personnes handicapées (« CIPH ») pour les années d’imposition 1999, 2000 et 2001.
+[3] Au début de 2000, l’appelante a été admise à l’Inglewood Private Hospital de Vancouver-Ouest (« Inglewood »). Inglewood est un hôpital privé de soins de longue durée.
+[4] En décembre 2000, l’appelante a quitté Inglewood pour aller résider à la Hawthorn Park Retirement Community (« Hawthorn Park »). Au cours des années 2001 et 2002, l’appelante a résidé à Hawthorn Park.
+[5] Hawthorn Park est un complexe résidentiel comptant 113 unités d’habitation; il est situé à Kelowna, en Colombie-Britannique.
+[6] Hawthorn Park est conçu pour les personnes âgées qui ont besoin d’aide dans toutes leurs activités quotidiennes. Dans son témoignage, Barbara Goertzen, inf. aut., directrice des services aux résidents, a indiqué que Hawthorn Park fournit les services suivants :
+- services infirmiers au besoin;
+- service d’intervention d’urgence 24 heures sur 24;
+- contrôle des besoins en soins de santé;
+- programme complet de divertissements.
+[7] Pendant que l’appelante résidait à Hawthorn Park en 2000 et 2001, les montants suivants ont été payés pour elle chaque mois :
+- Frais de services fournis
+- Frais pour administration de médicaments matin et soir, aide pour le bain, contrôle et test de glycémie
+- Médicaments
+- Services ménagers
+Total des montants payés par mois
+950 $
+525 $
+395 $
+50 $
+1 920 $
+[8] En décembre 2003, l’appelante a quitté Hawthorn Park et a été admise à l’Orchard Manor, une maison de retraite soins complets adjacente à Hawthorn Park.
+[9] Lorsque la déclaration de revenus de l’appelante pour 2001 a été produite, une déduction pour frais médicaux de 38 576 $ a été demandée (la somme de 33 514 $ avait été versée à Hawthorn Park).
+[10] Lorsque la déclaration de revenus de l’appelante pour 2002 a été produite, une déduction pour frais médicaux de 30 137 $ a été demandée (la somme de 29 464 $ avait été versée à Hawthorn Park).
+[11] Le 20 janvier 2003, le ministre du Revenu national (« le ministre ») a établi un avis de nouvelle cotisation pour l’année d’imposition 2001 et réduit les frais médicaux à 5 062 $, refusant la déduction du montant de 33 514 $ qui avait été versé à Hawthorn Park.
+[12] Le 5 août 2003, le ministre a établi un avis de nouvelle cotisation pour l’année d’imposition 2002 et refusé la déduction de 30 137 $ pour les frais médicaux.
+[13] Dans un avis de nouvelle cotisation daté du 28 juillet 2003, le ministre a admis une déduction de 10 000 $ comme frais médicaux pour soins auxiliaires, et l’appelante a reçu un CIPH.
+[14] Dans un avis de nouvelle cotisation daté du 5 septembre 2003, le ministre a admis une déduction de 11 433 $ comme frais médicaux (10 000 $ pour soins auxiliaires et 1 433 $ pour d’autres frais médicaux), et l’appelante a reçu un CIPH.
+B. QUESTION
+[15] L’appelante a-t-elle le droit de demander une déduction pour des frais médicaux qui dépassent les montants admis par le ministre?
+C. ANALYSE
+[16] Le Dr David Martin de Vancouver-Ouest était le médecin de famille de l’appelante de 1996 à 2001. (Comme cela a été indiqué, l’appelante a été admise à Hawthorn Park en décembre 2000.) Dans une lettre datée du 11 décembre 2003, le Dr Martin disait ce qui suit :
+[TRADUCTION]
+Objet : Norma McKinley
+DDN : le 10 janvier 1916
+Madame, Monsieur,
+La dame en question a été ma patiente de 1996 à 2001. Elle a quitté un établissement de soins de longue durée situé à Vancouver-Ouest et a été admise à un autre établissement similaire à Kelowna.
+Avant de quitter Vancouver-Ouest, elle était entièrement dépendante du personnel hospitalier. Elle ne pouvait pas prendre son bain, s’habiller, ni prendre ses médicaments. Les services comprenaient les soins pour la glycémie et l’administration des doses d’insuline pour son diabète.
+Depuis, selon l’information dont je dispose, son état s’est détérioré de façon marquée. Elle est maintenant aveugle et souffre de démence grave.
+Elle est entièrement dépendante du personnel infirmier et auxiliaire pour toutes les activités quotidiennes. Elle ne survivrait pas sans ces soins quotidiens.
+[17] L’avocat de l’intimée a soutenu que l’appelante ne peut déduire un montant qui dépasse les montants admis par le ministre, étant donné que les frais payés à Hawthorn Park n’étaient pas versés pour un séjour à plein temps dans une maison de santé ou de repos, comme il est énoncé à l’alinéa 118.2(2)b) de la Loi.
+[18] Les éléments de preuve présentés devant la Cour indiquent que l’appelante a reçu des soins intermittents ou à temps partiel d’environ deux heures par jour lorsqu’elle était à Hawthorn Park, c’est-à-dire qu’elle n’a pas reçu de soins dans le cadre d’un séjour à plein temps.
+[19] L’avocat de l’intimée a soutenu que Hawthorn Park ne pourrait pas être considéré comme une « maison de santé ». L’argument de l’avocat de l’intimée concernant les maisons de santé est appuyé par un certain nombre de décisions judiciaires.
+[20] À l’audience, Martin R. McKinley, le fils de l’appelante et son représentant, a soutenu que l’alinéa 118.2(2)e) de la Loi permettrait à l’appelante de déduire les frais qui avaient été refusés par le ministre.
+[21] L’alinéa 118.2(2)e) de la Loi se lit comme suit :
+2) Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+[...]
+e) pour le soin dans une école, une institution ou un autre endroit – ou le soin et la formation – du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a), qu’une personne habilitée à cette fin atteste être quelqu’un qui, en raison d’un handicap physique ou mental, a besoin d’équipement, d’installations ou de personnel spécialisés fournis par cette école ou institution ou à cet autre endroit pour le soin – ou le soin et la formation – de particuliers ayant un handicap semblable au sien;
+[22] Comme le Dr Martin l’a dit dans sa lettre :
+[TRADUCTION]
+(L’appelante) « est entièrement dépendante du personnel infirmier et auxiliaire pour toutes les activités quotidiennes. Elle ne survivrait pas sans ces soins. »
+[23] Comme il est indiqué ci-dessus, l’appelante est aveugle au sens de la loi; elle souffre de diabète, de démence et ne peut pas marcher.
+[24] Les pages D-6, D-7 et D-8 de la pièce A-1 sont un certificat pour le crédit d’impôt pour personnes handicapées daté du 10 septembre 2003 et indiquent en partie ceci :
+[TRADUCTION]
+Objet : Norma Doris McKinley
+Répondez aux questions suivantes en ce qui concerne la déficience de votre patiente.
+1. Votre patiente peut-elle voir?
+(réponse) Non.
+2. Votre patiente peut-elle marcher?
+(réponse) Non.
+4. Votre patiente est-elle capable de percevoir, de réfléchir et de se souvenir?
+(réponse) Non.
+6. Votre patiente est-elle capable de se nourrir ou de s’habiller?
+(réponse) Non.
+La réduction marquée de votre patiente dans une activité courante de la vie quotidienne, sa cécité ou son besoin de soins thérapeutiques essentiels ont-ils duré ou prévoyez-vous qu’ils dureront pendant au moins 12 mois consécutifs?
+(réponse) Oui.
+Si oui, indiquez la date :
+Votre patiente est devenue limitée de façon marquée ou aveugle, ou les soins thérapeutiques essentiels ont commencé –
+(réponse) 2001, 10
+Diagnostic
+Aveugle au sens de la loi
+Souffre de démence
+En tant que personne qualifiée, j’atteste que, à ma connaissance, les renseignements fournis dans la partie B sont exacts et complets.
+Dr Irene C. Bergh
+[25] Selon le témoignage de Barbara Goertzen et les autres éléments de preuve présentés, Hawthorn Park serait une « institution ou un autre endroit » au sens de l’alinéa 118.2(2)e) de la Loi.
+[26] Pour déterminer si l’alinéa 118.2(2)e) était applicable, j’ai pris en considération les décisions judiciaires suivantes :
+1. Dungan c. R., [2003] 3 C.T.C. 2156 [« Dungan »], est un exemple concret avec presque les mêmes faits. Dans ce cas, la contribuable vivait à un endroit qui n’était pas une maison de santé autorisée. La contribuable a demandé un crédit d’impôt non remboursable pour frais médicaux de 26 009 $, le montant versé à la maison de santé au cours d’une année d’imposition. La Cour a renvoyé la cotisation au ministre pour qu’il établisse une nouvelle cotisation, étant donné que, selon la Cour, le montant en question correspondait à frais médicaux au sens de l’alinéa 118.2(2)e) de la Loi de l’impôt sur le revenu. En arrivant à cette conclusion, la Cour a affirmé ce qui suit au paragraphe 12 :
+12. Dans l’affaire La Succession de Harry Title c. La Reine, le ministre a refusé à l’appelant, qui était décédé, la déduction d’un montant de 71 361,60 $, qu’il avait payé pour un séjour dans une maison de santé non autorisée. La succession de l’appelant a interjeté appel à la Cour canadienne de l’impôt. Le juge Bell a admis l’appel en s’appuyant sur les conditions énoncées à l’alinéa 118.2(2)e) de la Loi. L’une d’elles est l’obligation d’attester que l’appelant a besoin de l’aide qu’offre l’établissement en cause. Le juge Bell a conclu que la lettre du médecin de l’appelant indiquant que « cette personne a besoin de supervision depuis le 31 janvier 1995 à cause de sa maladie. Elle a besoin d’accompagnement 24 heures par jour. » satisfait à la condition. Toutefois, la Cour d’appel fédérale a infirmé la décision de la Cour canadienne de l’impôt. Le juge Sharlow, se prononçant pour la Cour d’appel fédérale, a dit ceci :
+À notre avis, une attestation prévue à l’alinéa 118.2(2)e) doit au moins préciser le handicap mental ou physique qu’a le patient, et l’équipement, les installations ou le personnel dont le patient a besoin afin d’obtenir le soin ou la formation nécessaire pour faire face à ce handicap. Les attestations en l’espèce sont tout simplement trop vagues pour répondre à cette exigence.
+Le juge Hamlyn a conclu ce qui suit aux paragraphes 13 et 14 :
+[13] Dans la présente affaire, le médecin de l’appelante situé à Peterborough a attesté que celle-ci était atteinte d’ostéoarthrite et de démence précoce et que les activités liées à la marche, à ses facultés mentales et à l’élimination étaient gravement restreintes en raison de ces déficiences (pièce A-1). La preuve montre que le Peterborough Manor était, en 1998, une maison de retraité qui offrait, entre autres choses, des services d’intervention d’urgence 24 heures sur 24, de supervision de la prise de médicaments, de supervision et d’assistance pour le bain et l’hygiène, des repas réguliers et équilibrés, de l’aide pour les déplacements, un système d’appel infirmier et un poste de soins infirmiers. À la fin de la pièce R-3, le médecin de l’appelante indique que le Peterborough Manor est un établissement qui assure les soins et la supervision dont sa patiente a besoin en raison de son état de santé, qui se détériore progressivement.
+[14] Je conclus par conséquent que les frais de 26 009 $ ont été payés pour que des soins soient prodigués à l’appelante pendant son séjour au Peterborough Manor. Un médecin a attesté que, du fait de son handicap physique et mental, lequel a fait l’objet d’un diagnostic, l’appelante avait besoin des installations et du personnel expressément fournis par le Peterborough Manor pour le soin des résidents qui souffraient de handicaps semblables au sien.
+2. Dans l’affaire Barsch c. Canada, [2001] A.C.I. 428 [« Barsch »], une des questions que le juge Rip a abordée était de savoir s’il y avait une attestation conforme aux exigences de l’alinéa 118.2(2)e). Voici ce qu’il a dit :
+[29] L’avocat de l’intimée a soutenu qu’il n’existe aucune attestation conforme aux exigences de l’alinéa 118.2(2)e). Cependant, l’ensemble de la preuve indique que trois personnes habilitées à cette fin ont attesté que Davin a un handicap mental et qu’il a besoin d’être soigné dans une institution de traitement en milieu fermé.
+[...]
+[32] En l’espèce, le Dr Matthews a attesté dans un formulaire médical en date du 12 janvier 1998 que Davin avait un grave trouble oppositionnel avec provocation et il a écrit que Davin a besoin d’un cadre très strict, stable et structuré. Le Dr Matthews a précisé le handicap mental qu’avait Davin. Il est donc satisfait à la première exigence énoncée par Mme le juge Sharlow dans l’affaire Title Estate relativement à l’attestation nécessaire pour l’application de l’alinéa 118.2(2)e).
+[33] Dans le formulaire médical, le Dr Matthews indique que Davin a besoin d’un cadre stable et très strict. En outre, Mme Baird a, dans son avis de demande d’ordonnance de traitement en milieu fermé en date du 25 septembre 1998, attesté que Davin avait un trouble mental ou comportemental, qu’il représentait un danger pour lui-même ou pour les autres et qu’il fallait l’interner dans une institution de traitement en milieu fermé en vue de guérir ou d’atténuer ce trouble. L’alinéa 1(1)u) de la Child Welfare Act précise qu’une institution de traitement en milieu fermé est une institution désignée par le ministre du Revenu national (le « ministre ») comme étant une institution de traitement en milieu fermé. L’annexe 2 du règlement intitulé Child Welfare Act General Regulation [17] énumère huit institutions de traitement en milieu fermé qui se trouvent en Alberta, dont une à Edmonton, soit le Yellowhead Youth Centre, où Davin avait été admis. L’alinéa 43(2)a) de la Child Welfare Act stipule que la personne responsable de l’institution de traitement en milieu fermé doit veiller à ce que l’enfant interné à l’institution aux termes d’une ordonnance reçoive les services de diagnostic et de traitement dont il a besoin conformément aux normes prescrites par les règlements. L’équipement, les installations ou le personnel d’une institution de traitement structurée sont donc réglementés en vertu des lois de l’Alberta. Ainsi, lorsque Mme Baird a, en vertu de l’autorité qui lui était conférée par la Child Wefare Act, demandé une ordonnance pour que Davin soit soigné dans une institution de traitement en milieu fermé, sa mention d’une telle institution était suffisamment précise en matière « d’équipement, d’installations ou de personnel spécialisés fournis par cette […] institution […] pour le […] soin et la formation […] de particuliers ayant un handicap semblable » à celui de Davin. Il est donc satisfait à la deuxième exigence énoncée par Mme le juge Sharlow dans l’affaire Title Estate relativement à l’attestation nécessaire pour l’application de l’alinéa 118.2(2)e).
+[34] Somme toute, la preuve dans son ensemble indique que le Dr Matthews, Mme Baird et le juge Fowler sont des « personne[s] habilitée[s] à cette fin » qui ont attesté que Davin est quelqu’un qui, en raison de son handicap mental, a besoin d’équipement, d’installations ou de personnel spécialisés fournis par une institution de traitement en milieu fermé, pour le soin et la formation de Davin relativement au handicap de ce dernier.
+[27] Le juge Rip s’est aussi référé à la décision du juge Bowman dans l’affaire Radage c. La Reine, 96 DTC 1615, où le juge Bowman détermine, aux paragraphes 35, 36 et 37, que dans certaines circonstances, les lois doivent être interprétées de manière humaine :
+[35] Enfin, je renvoie au raisonnement tenu par le juge Bowman, titre qu’il portait alors, dans l’affaire Radage c. La Reine :
+a) L’intention du législateur semble être d’accorder un modeste allégement fiscal à ceux et celles qui entrent dans une catégorie relativement restreinte de personnes limitées de façon marquée par une déficience mentale ou physique. L’intention n’est pas d’accorder le crédit à quiconque a une déficience ni de dresser un obstacle impossible à surmonter pour presque toutes les personnes handicapées. On reconnaît manifestement que certaines personnes ayant une déficience ont besoin d’un tel allégement fiscal, et l’intention est que cette disposition profite à de telles personnes.
+b) La Cour doit, tout en reconnaissant l’étroitesse des critères énumérés aux articles 118.3 et 118.4, interpréter les dispositions d’une manière libérale, humaine et compatissante et non pas d’une façon étroite et technique. Dans l’affaire Craven c. La Reine, 94‑2619(IT)I, je disais :
+L’application des critères inflexibles de l’article 118.4 ne permet pas à la Cour d’user de son bon sens ou de faire montre de compassion dans l’interprétation des dispositions relatives au crédit d’impôt pour personnes handicapées prévu par la Loi de l’impôt sur le revenu – dispositions qui doivent être appliquées avec compassion et bon sens.
+Dans cette affaire-là, j’estime avoir énoncé le critère d’une manière trop étroite. Depuis, j’ai entendu de nombreuses causes relatives au crédit d’impôt pour déficience, et ma pensée a évolué. […] Pour donner effet à l’intention du législateur, qui est d’accorder à des personnes déficientes un certain allégement qui atténuera jusqu’à un certain point les difficultés accrues avec lesquelles leur déficience les oblige à composer, la disposition doit recevoir une interprétation humaine et compatissante. L’article 12 de la Loi d’interprétation se lit comme suit :
+Tout texte est censé apporter une solution de droit et s’interprète de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet.
+c) S’il existe un doute quant à savoir de quel coté de la limite se situe une personne demandant le crédit, on doit accorder à cette personne le bénéfice du doute.
+[36] Conformément à ce qui disait le juge McArthur dans l’affaire Bryce c. La Reine, malgré le fait que le juge Bowman traitait de la déductibilité du crédit d’impôt pour déficience prévu à l’article 118.3, ses motifs s’appliquent également à la présente espèce.
+[37] Une interprétation libérale, humaine et compatissante de l’alinéa 118.2(2)e) exige d’accorder le bénéfice du doute à l’appelant.
+[28] Je suis convaincu d’après les preuves présentées, d’après la lettre du Dr Martin et d’après le certificat du Dr Bergh que Hawthorn Park fournit les services et installations dont l’appelante a besoin.
+[29] D’après moi, la déduction des frais médicaux demandée par l’appelante doit être admise en vertu de l’alinéa 118.2(2)e) de la Loi.
+[30] Les appels sont accueillis, avec dépens.
+Signé à Vancouver (Colombie-Britannique), ce 9e jour de février 2004.
+"L.M. Little"
+Le juge Little
+Traduction certifiée conforme
+ce 14e jour d’avril 2005.
+Colette Dupuis-Beaulne, traductrice

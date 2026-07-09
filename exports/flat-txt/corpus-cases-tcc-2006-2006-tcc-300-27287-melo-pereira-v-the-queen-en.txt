@@ -1,0 +1,176 @@
+Title: Melo Pereira v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27287/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-300-27287-melo-pereira-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-09-21
+
+# Melo Pereira v. The Queen
+
+- Citation: 2006 TCC 300
+- Decision date: 2006-09-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 894, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Melo Pereira v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-21
+Neutral citation
+2006 TCC 300
+File numbers
+2005-4330(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-4330(IT)I
+BETWEEN:
+JOSÉ M. MELO PEREIRA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION] ____________________________________________________________________
+Appeal heard on May 17, 2006, at Sherbrooke, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Benoit Mandeville
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under the Income Tax Act for the 2003 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of September 2006.
+“Paul Bédard”
+Justice Bédard
+Translation certified true
+on this 23rd day of May 2007.
+Gibson Boyd, Translator
+Citation: 2006TCC300
+Date: 20060921
+Docket: 2005-4330(IT)I
+BETWEEN:
+JOSÉ M. MELO PEREIRA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+[OFFICIAL ENGLISH TRANSLATION]
+Bédard J.
+[1] This is an appeal from the confirmation by the Minister of National Revenue (the “Minister”), on November 9, 2005, of the assessment dated May 28, 2004, under the terms of which he refused the Appellant the residence deduction for members of the clergy, which he was claiming under paragraph 8(1)(c) of the Income Tax Act (the “Act”) for the 2003 taxation year.
+[2] During the 2003 taxation year, the Appellant, a lay person, held the position of pastoral animator at the Centre for Health and Social Services for the Thetford Mines area (CSSSRT) pursuant to a pastoral mandate conferred by the archbishop of the diocese of Québec. His duties as pastoral animator pertained to health care chaplaincy as defined by the Protocole d’entente entre le ministère de la Santé et des Services sociaux du Québec et les autorités religieuses concernant les services de pastorale des établissements de santé et de services sociaux[1] [Memorandum of Agreement between the Quebec Ministry of Health and Social Services and the Religious Authorities Concerning Chaplaincy Services in Healthcare and Social Service Facilities] (the “Memorandum”). The Memorandum specifies that professionals working in chaplaincy hold the title of pastoral animator. They are priests, pastors, rabbis, deacons or lay people. They are employees of the hospital and must have a pastoral mandate from their religious authority.[2] In this case, the archbishop of the diocese of Québec gave the Appellant a first pastoral mandate in 2001, which was renewed on May 28, 2004, until July 31, 2007.[3] The duties of religious and spiritual support performed by the Appellant are described in the Memorandum and in the Cadre de référence pour l’organisation de la pastorale en établissements de santé et de services sociaux [Terms of Reference for the organization of the chaplaincy in healthcare and social services establishments] (“Terms Reference”).[4] These duties include religious and spiritual support of the ill and their families, organization of chaplaincy activities, celebration of regular weekly liturgies and special liturgies, celebration of benediction rituals, last rites, leadership, training and supervision of chaplaincy volunteers, moral assistance and support, as contact person, on questions of ethics and bioethics. As well as four workdays, the week includes 68 hours on call (evenings, nights, weekends), or the equivalent of eight regular paid hours. It should be pointed out that the Appellant is paid by the CSSSRT. The Memorandum specifies that the minimum education requirement is an undergraduate (bachelor’s) degree in theology, chaplaincy, religious sciences or the equivalent, depending on the religion. Moreover, a practicum in health care chaplaincy is required prior to assumption of duties. In this case, the Appellant holds a Bachelor of Theology and Philosophy as well as a Master of Theology. Furthermore, he met the requirements concerning the chaplaincy practicum. It should be pointed out that the Appellant was married and the father of two children. Also, he lived in a residence that he owned, a few kilometres from the hospital.
+The Appellant’s position
+[3] In his submissions, the Appellant, stated the following:
+[TRANSLATION]
+8. While the pastoral animator of my institution who is a priest is eligible for the deduction, it is refused to me as lay pastoral animator, despite the fact that we each have the same responsibilities towards the institution’s pastoral service and the hospital community served, that we have the same position, the same title and the same pastoral mandate, and that we meet the same academic and professional requirements.
+. . .
+11. My role as hospital pastoral animator is not just based on the position I hold at the CSSSRT, but is also validated by a mandate conferred by the archbishop of the diocese of Québec. It is the same mandate conferred on my colleague the pastoral animator who is a priest. We assume jointly and on equal basis the responsibility for pastoral service. Whether they are a priest, a deacon or a layperson, the person who performs religious or spiritual duties at a hospital has the status and title of pastoral animator through the two-fold requirement of the position held and the mandate received.
+12. [The hospital pastoral animator] was traditionally referred to . . . using the title of chaplain. In order to take into account the diverse situations of people who hold this position, as well as the inclusive and multifaith reality of spiritual and religious affiliations, it was agreed to replace the title of chaplain with that of pastoral animator . . . However, the title of chaplain continues to be used, as much in mentalities and common vocabulary as in administrative documents in care facilities.
+. . .
+14. [He or she] is not dependant on a priest animator who delegates tasks and to whom he or she must report.
+[4] To support his claims, the Appellant quoted the following excerpts from Interpretation Bulletin IT-141R, which states the conditions that one must meet to be entitled to a deduction:
+5. A “regular minister” is a person who . . . is is authorized or empowered to perform spiritual duties, conduct religious services, administer sacraments and carry out similar religious functions. Religious functions may include participation in the conduct of religious services, the administration of some of the rituals, ordinances or sacraments, and pastoral responsibilities to specific segments of the religious organization;
+. . .
+7. Deaconesses and deacons, elders, commissioned officers of the Salvation Army, chaplains (including female chaplains in the Roman Catholic church) and cantors may be recognized as regular ministers depending upon the structure and practices of the particular church or religious denomination . . .
+[5] Furthermore, in support of his position, the Appellant cited Margaret M. Noseworthy.[5] In that case, Hamlyn J. decided that a woman who held the position of interfaith chaplain in a women’s prison in Nova Scotia was a regular minister. This woman had received a mandate from the Catholic religious authority of the area and held a permanent position in the prison to perform the duties of lay chaplain.
+[6] As for the argument that pastoral animators are not religious ministers when they are not authorized to perform the majority of the duties of a minister, or all of these duties, including the administration of most of the sacraments of the Roman Catholic Church, the Appellant stated the following in his written submissions:
+[TRANSLATION]
+25. This argument, in our opinion, cannot be applied to refuse lay chaplains the status of “regular minister,” as the administration of sacraments is only one of the many duties fulfilled by the chaplain. The sacramental aspect is far from being the predominant feature of the pastoral ministry in a health-care setting; spiritual and religious support is considered the primary criterion of this ministry. Also, a chaplain who is a priest only administers certain sacraments himself, given that the community served is not a parish community. The Terms of Reference lists no less than 11 tasks that are performed by hospital chaplains (also called hospital pastoral animators) with only one of these corresponding with the administration of sacraments. Moreover, even a lay chaplain participates in sacraments in that he or she supports the person, by preparing them, before, during and after. An example of this would be the rite of communion within a Sunday celebration of the Word that he or she leads, or his or her administration of the viaticum or last communion before death. Another would be the preparation of the sacraments of Reconciliation and Annointing, or, in urgent situations, at the request of the families, support and administration of the baptismal sacrament or provisional baptismal sacrament.
+26. Furthermore, the administration of sacraments is far from being given to all persons benefiting from hospital pastoral services, including those of Catholic faith. In many cases, other liturgical actions are offered in consideration of the person’s situation: refusal of sacrament, medical condition not justifying the administration of the sacrament, etc. It is important to note that, although it is generally performed by pastoral animators of Catholic faith (the faith of the majority in Quebec), pastoral service, pursuant to the Memorandum, has an interfaith status and serves the entire hospital or home community. The pastoral animator is therefore called upon to provide spiritual support to persons of non-Catholic religious faiths, by exercising an interfaith ministry where the purely sacramental dimension is absent.
+27. To base the designation and the recognition of the status of “regular minister” on the fact that a chaplain who is not a priest (man or woman) cannot administer certain sacraments, while he or she performs all the spiritual functions in the community served by the hospital in which he or she works, seems like a questionable and expeditious, even discriminatory, assumption. It does not take into consideration the organization and the current pastoral framework providing spiritual and religious services in a hospital, including those belonging to the Catholic faith, which only recognizes one status for chaplains, referred to as pastoral animators. Obtaining this status is not related to being a priest or not, but is conferred on a person who: (a) performs the duties according to the mission of the pastoral service as defined jointly by the religious authorities (the Catholic Church of Quebec in my case) and the hospital establishment and (b) is given a mandate by the religious authority in question (mandate which at the same time authorizes the pastoral animator to provide spiritual and religious services to a particular community and incorporates the pastoral animator into the church structure by linking him or her directly to the bishop).
+28. Let us also note that in Bulletin IT-141R, it is mentioned that “chaplains (including female chaplains in the Roman Catholic church) . . . may be recognized as regular ministers . . .” It is clear that a woman performing the duties of chaplain within the Catholic Church – which is the case for many female pastoral animators in Canadian hospitals – has a lay status and not that of a priest, and therefore cannot administer sacraments (see also the judgment rendered in Margaret M. Noseworthy v. Her Majesty the Queen).
+Analysis and conclusion
+[11] Paragraph 8(1)(c) of the Act reads as follows:
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+. . .
+(c) Where, in the year, the taxpayer
+(i) is a member of the clergy or of a religious order or a regular minister of a religious denomination, and
+(ii) is
+(A) in charge of a diocese, parish or congregation,
+(B) ministering to a diocese, parish or congregation, or
+(C) engaged exclusively in full-time administrative service by appointment of a religious order or religious denomination . . .
+[12] It is apparent from the legislative provision, as well as the abundant case law and even the administrative practices of the Minister, that there is a twofold test:
+(i) a status test; and
+(ii) a function test.
+[13] To meet the status test qualifying for the deduction, the taxpayer must be:
+(i) a member of the clergy; or
+(ii) a member of a religious order; or
+(iii) a regular minister of a religious denomination;
+[14] In addition, to meet the function test, he or she must be:
+(i) in charge of or ministering to a diocese, parish or congregation; or
+(ii) engaged exclusively in full-time administrative service by appointment of a religious order or religious denomination.
+[15] Counsel for the Respondent admitted that the Appellant met the function test. However, the Respondent argued that the Appellant did not meet the status test since, during the relevant period, he was neither a member of the clergy, nor a member of a religious order, nor a regular minister of a religious denomination. The Appellant admitted that he was not a clergy member or a member of a religious order, but argued that he was a regular minister of a religious denomination. Therefore, the only issue is the following: for the application of paragraph 8(1)(c) of the Act, is the Appellant a regular minister of a religious denomination?
+[16] I am of the opinion that paragraph 8(1)(c) of the Act must receive a strict rather than a liberal interpretation given its exceptional character in relation to the general rule that stipulates that in computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the amounts mentioned in subsection 8(1) of the Act as are wholly applicable to that source or such part of the amounts mentioned in that sub-section as may reasonably be regarded as applicable thereto.
+[17] This Court has reviewed the meaning of the term “regular minister” several times. Lamarre Proulx J., in Côté[6], appears to adopt the meaning of “regular minister” given by Lord MacDermott in Walsh v. Lord Advocate, [1956] 3 All E.R. 129 (H.L.), in paragraph 20 of her decision:
+In my opinion the words "a regular minister" connote a class which forms but a part of the denomination in question and is acknowledged by that denomination as having a superior and distinct standing of its own in spiritual matters. . . . Lord MacKintosh puts this requirement very clearly when, speaking of the "regular minister", he says:
+. . . he must have by virtue of his appointment as a minister what might be called 'a clergyman status' which sets him apart from and places him over the laity of his denomination in spiritual matters.
+[18] In Osmond v. Canada, No. 97-1446(IT)I, December 10, 1998, [1998] T.C.J. No. 1086, and Kolot v. Canada, No. 91-718(IT), November 9, 1992, [1992] T.C.J. No. 673, Bonner and Beaubier JJ. also appear to adopt the definition of “regular minister” given by Lord MacDermott in Walsh.
+[19] In light of this definition, the Appellant did not convince me that the Catholic Church recognized him as having a superior and distinct rank in spiritual matters. Indeed, the Appellant did demonstrate that, as an employee of the CSSSRT, he performed pastoral animation in his employer’s establishment, thanks to an appointment by the archbishop of Québec. Did the archbishop’s appointment make the Appellant someone of superior and distinct rank in spiritual matters? In my opinion, the Appellant simply did not supply satisfactory evidence in that respect.
+[20] In Hardy v. Canada, No. 97-560(IT)I, November 3, 1997, [1997] T.C.J. No. 1191, Rip J. studied at length the case law relating to the term “regular minister”. He quoted a fairly long passage of Greenlees v. Canada (Attorney General), O.R. 411 (Ont. H.C.), aff'd [1946] O.R. 90 (Ont. C.A.), leave to appeal refused [1946] S.C.R. 462. At the trial, Hogg J. referred to a decision rendered by the High Court of Justiciary in Scotland in Saltmarsh v. Adair, [1942] S.C.(J.) 58. At pages 8 and 9, after having quoted part of the analysis by Hogg J. and part of the decisions of Lord Justice-General Normand and Lord Moncrieff in Saltmarsh, Rip J. notes:
+Thus, Lord Justice-General Normand and Lord Moncrieff appear to infer that a "regular minister" is one who
+(i) performs spiritual duties, the conduct of religious services, the administration of sacraments and the like;
+(ii) is appointed by a body or person with the legitimate authority to appoint or ordain ministers on behalf of the denomination; and
+(iii) is in a position or appointment of some permanence.
+In the absence of a legitimate appointment, the mere performance of the duties of a minister will not suffice, in their view, to constitute a "regular minister".
+[21] In light of the conclusions arrived at by Rip J. in Hardy, on the meaning of the term “regular minister,” the following questions, in my opinion, must be asked:
+(i) Did the Catholic Church consider the Appellant to be a regular minister? Did the mandate given the Appellant by the archbishop of Québec, in itself, confer on the Appellant the status of “regular minister” of the Catholic Church? Was it not rather a temporary appointment for certain liturgical actions? Did this temporary (if that is the case) appointment still confer on the Appellant the status of “regular minister” of the Catholic Church? Is the status of “regular minister” not conferred by the Catholic Church only on ordained members? Due to the fact that the Catholic Church is short of priests in Quebec, does it need to give, as in this case, certain interim duties to lay members with adequate training?
+(ii) Did the Appellant occupy a position with permanency?
+[22] Each religion has its own practices, traditions and rules. To determine if a person is a “regular minister,” the structure and practices of the Church in question must be considered. Counsel for the Respondent was the only one who attempted to enlighten me on the rules, practices and traditions of the Catholic Church relating to the status of “regular minister”. Indeed, in his submissions, counsel for the Respondent argued, relying moreover on the Pope’s instructions with respect to this, that the rules of the Catholic Church clearly lay down that it is illegal to confer on a non-ordained member the status of “regular minister” or “chaplain”. Unfortunately, I cannot accept the arguments of counsel for the Respondent in this respect. He should have known that foreign law, in this case canon law, is equated with a fact. Whoever relies on it must allege it in their written submissions and prove it adequately, which was not done.
+[23] Indeed, the Appellant brought proof that he had received a pastoral mandate from the archbishop of Québec. However, the Appellant did not convince me that the archbishop of Québec, in so doing, conferred on him the status of “regular minister” of the Catholic Church. Furthermore, examination of the evidence leads me to believe that, although the Appellant occupied this position on a full-time basis, he performed his duties according to the goodwill of the archbishop of Québec and his appointment therefore does not appear to be permanent.
+[24] In short, simply by performing most of the duties of a “regular minister” under a precise and temporary liturgical mandate is, in my opinion, insufficient to make the Appellant a “regular minister” of the Catholic Church.
+[25] As for the case of Noseworthy, supra, and relied on by the Appellant in support of his position, I must emphasize that the principles used by Hamlyn J. to determine that the Appellant was a “regular minister” of the Catholic Church were based on the principles specified by Rip J. in Hardy, mentioned above. Hamlyn J. arrived at a different conclusion from Rip J. in Hardy, simply because the facts in the matter were, in my opinion, very different. I came to a different conclusion from that of Hamlyn J. for the same reasons. In Noseworthy, Hamlyn J. assumed, in light of the evidence submitted to him by Ms. Noseworthy that:
+1) the Catholic archbishop of Halifax had granted her the position of chaplain;
+2) she held that position permanently;
+3) to my great surprise, she could administer sacraments and did so;
+4) the Catholic Church considered her to be a Catholic chaplain working regularly as minister.
+Nothing in the evidence of the Appellant allows me to conclude that he held, for the period in question, a permanent position, that he could administer sacraments and that the Catholic Church, by giving him a precise and temporary liturgical mandate, had nevertheless conferred on him the status of chaplain or regular minister.
+[26] For all of these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 21st day of September 2006.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 23rd day of May 2007.
+Gibson Boyd, Translator
+CITATION:
+2006TCC300
+COURT FILE NO.:
+2005-4330(IT)I
+STYLE OF CAUSE:
+José M. Melo Pereira and
+Her Majesty the Queen
+PLACE OF HEARING:
+Sherbrooke, Quebec
+DATE OF HEARING:
+May 17, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF JUDGMENT:
+September 21, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+For the Respondent:
+Benoit Mandeville
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Tab 8 of Exhibit A-1.
+[2] Paragraph 7.1 of Tab 8 of Exhibit A-1
+[3] Tab 7 of Exhibit A-1
+[4] Tab 10 of Exhibit A-1
+[5] No. 98-981 (IT)I, April 13, 1999. [1999] T.C.J. No. 209
+[6] Côté v. Canada, No. 97-2020(IT)I, September 2, 1998, [1998] T.C.J. No. 762

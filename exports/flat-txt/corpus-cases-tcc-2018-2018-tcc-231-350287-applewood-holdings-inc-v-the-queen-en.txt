@@ -1,0 +1,174 @@
+Title: Applewood Holdings Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/350287/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-231-350287-applewood-holdings-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-11-15
+
+# Applewood Holdings Inc. v. The Queen
+
+- Citation: 2018 TCC 231
+- Decision date: 2018-11-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5027, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Applewood Holdings Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-11-15
+Neutral citation
+2018 TCC 231
+File numbers
+2016-4498(GST)G
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-4498(GST)G
+BETWEEN:
+APPLEWOOD HOLDINGS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 8 and 9, 2018, at Toronto, Ontario
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+Counsel for the Appellant:
+Matthew G. Williams
+E. Rebecca Potter
+Counsel for the Respondent:
+Frédéric Morand
+JUDGMENT
+The appeal from a reassessment dated March 31, 2015 for GST/HST assessed on compensation earned during the period of calendar years 2010 and 2011 is allowed with costs to the Appellant.
+Signed at Ottawa, Canada, 15th day of November 2018.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation: 2018 TCC 231
+Date: 20181115
+Docket: 2016-4498(GST)G
+BETWEEN:
+APPLEWOOD HOLDINGS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Pizzitelli J.
+[1] The Appellant appeals from a reassessment dated March 31, 2015 for GST/HST assessed on compensation earned during the period of calendar years 2010 and 2011, during which the Appellant filed monthly returns, in respect of services provided by the Appellant pertaining to the sale of insurance products to its car dealership customers.
+[2] The only issue disputed is whether the Appellant’s compensation for services it provided were a taxable supply or exempt from GST/HST under subsection 165(1) of the Excise Tax Act (the “Act”) because they were exempt under Schedule V as an “exempt supply” of a “financial service” as defined in subsection 123 (1) of the Act.
+[3] It should be noted upfront that the Appellant pleads the assessed GST/HST amount is $57,837.39 while the Respondent pleads it is $36,282.27. It was agreed at the outset of the trial in a partial statement of agreed facts that the amount in issue is actually $33,802.14 and that the services provided by the Appellant under agreement constitutes a single supply.
+[4] There is no dispute that the following provisions of the Act are the relevant provisions in issue.
+S165(1) Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 5% on the value of the consideration of the supply.
+S123(1) defines a “taxable supply” as a ”supply made in the course of a commercial activity”.
+S123(1) defines a “commercial activity” to include (a) “a business carried on by the person….except to the extent to which the business involves the making of exempt supplies”.
+s.123(1) defines an “exempt supply” as “a supply included in Schedule V”.
+Schedule V lists all exempt supplies and in Part VII thereof includes:
+1.a supply of a financial service that is not included in Part IX of Schedule VI.
+[5] It is clear the exception to the financial services referred to in Part IX of Schedule VI do not apply in the case at hand as that section refers to financial services provided to non-resident persons.
+[6] S.123(1) defines a “financial service” to include:
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument; and
+(l) the agreeing to provide, or the arranging for, a service that is
+(i) referred to in any of paragraphs (a)to (i), and
+(ii) not referred to any of paragraphs (n) to (t)…
+but does not include:
+(r.4) a service(other than a prescribed service) that is preparatory to the provision or the potential provision of a service referred to in any of paragraphs (a) to (i) and (l), or that is provided in conjunction with a service referred to in any of those paragraphs, and that is
+(i) a service of collecting, collating or providing information, or
+(ii) a market research, product design, document preparation, document processing, customer assistance, promotional or advertising service or similar service.
+[7] S.123(1) defines a “financial instrument” as including in paragraph (c) thereof “an insurance policy”.
+[8] There is no dispute that relates to any other definitions that pertain to or are found in any of the above such as whether a valid “insurance policy” exists or were issued by a valid “insurer” so I will make no reference to those ancillary definitions.
+[9] Many of the facts underlying this matter are not in dispute. The Appellant operated a car dealership and sold vehicles to customers that often leased or financed the purchase of such vehicles. The Appellant entered into an Authorized Retailer Agreement with Walkaway Canada Incorporated (the “Dealer Agreement”), a company that administers and distributes insurance products for Arch Insurance Company, a licensed Canadian Insurance Company (“Arch”) under which it acquired a group insurance policy underwritten by Arch pursuant to which the Appellant could sell to its customers various types of credit insurance to cover their lease or finance payment obligations from risks such as loss of employment, critical illness, disability and accidental death and other perils ( the “Insurance Products”). Coverages generally provided for the return of the vehicle with protection for the differences between its appraised value and debt owing thereon up to specified limits or for payments to be made on account of such lease or loan obligations for specific periods before having to return the vehicle if the perils continued to exist thereafter.
+[10] Under the Dealer Agreement, the Appellant was required to provide a complimentary policy to the customers who purchased or leased vehicles for personal use that covered them for 6 basic perils for which the Appellant was required to pay Walkaway a premium, but the Appellant could and made every effort to sell one of the higher grades of policies, which increased in price as extended time protection, more perils or more monthly payments were covered and for which the Appellant received compensation via keeping 55% of the premium and remitting the balance to Walkaway.
+[11] The facts in dispute between the parties goes to the level and characterization of services provided by the Appellant and whether such services results in the Appellant providing an exempt supply.
+[12] The Appellant takes the position that the services it provided in connection with the Insurance Products fall with the meaning of a “financial service” as defined in subsection 123(1) because they amounted to “agreeing to provide, or arranging for a financial service”, namely the Insurance Products. The Appellant says the services to be analysed are those provided to the ultimate customer of the Appellant, the car and Insurance Product buyer, since the Appellant’s remuneration which is the subject to the GST/HST assessment was payable only as a result of such sale transaction.
+[13] The Respondent takes the position that the services provided by the Appellant do not constitute financial services or in the alternative fall within an exception to the definition of “financial services” found in paragraph 123(1) (r.4) that concern the provision of only preparatory promotional or administrative activities and which it argues consisted of essentially document preparation, processing, customer assistance or promoting the Insurance Products. The Respondent takes the position that the services provided to Walkaway are the relevant services to analyse in the context of determining the issue.
+[14] The Respondent assumes the following relevant facts in its assumptions found in paragraph 9 of its Reply:
+(f) the Appellant promoted the Insurers’ group insurance products such as life, disability, accident and sickness or critical illness insurance to the Customers(the “Insurance Products”);
+(g) Upon a Customer’s selection of one or more of the Insurance Products, the Appellant performed the following promotion and administrative activities (the “Services”):
+(i) The Appellant completed the insurance certificate in accordance with the respective Insurer’s procedures;
+(ii) The Appellant provided a copy of the completed insurance certificate to the Customer and the respective Insurer;
+(iii) The Appellant calculated the insurance premiums payable by the Customer based on rates specified by the respective Insurer;
+(iv) The Appellant held the premiums received from the Customer in trust until their delivery to the respective Insurer;
+(v) The Appellant provided the Insurer with reports concerning premiums remitted and insurance certificates delivered based on the respective Insurer’s instructions;
+(h) The Appellant received expense allowances from the Insurer’s as compensation for the Services (the “Commissions”).
+[15] The Appellant agrees that it provided all of the Services referred to in the above assumptions in (f) and (g) but argues it did far more than those activities such that “the totality of its role in arranging for the provision of its Group Insurance Products cannot be reduced to merely promotional or administrative activities”[see paragraph 25 of the Notice of Appeal] and it should be noted that although not assumed by the Minister, the Minister admitted the Appellant also carried out the following tasks in subparagraphs 10(a-c) of the Notice of appeal; namely that the Appellant.
+(a) met with its customers to explain the differences between Group Insurance Products that are available(e.g., basic insurance, enhanced forms of insurance) including their respective coverage, limitations, terms, cancellation policies, conditions, and exclusions;
+(b) assisted its customers in selecting which of the Group Insurance Products was appropriate for the customer’s particular needs;
+(c) reviewed and explained claims procedures and other relevant details of the Group Insurance Products with its customers;
+[(d)-(g) essentially agree with the Minister’s assumptions in 9(g) of the Reply reproduced above]
+[16] Notwithstanding the extent of the Minister’s agreement with the description of the services provided by the Appellant to its customers, the Minister still assumes these services do not amount to providing or arranging for the provision of insurance for two reasons; (1): that the predominant services in issue must be seen from the perspective of the purchaser of such services, which she contends is Walkaway; and (2): that all the services agreed to above are merely ancillary to the predominant services and so in the alternative the provisions of (r.4) apply. Moreover, the Minister disagrees with the Appellant’s characterization of its compensation pursuant to the Dealer Agreement as it pleads it as being for expense allowances rather than retaining a portion of premiums as payment for its services for “arranging for the issuance of the Group Insurance Products to its customers” as pleaded by the Appellant. In a nutshell, a disagreement as to the characterization and effect of such agreed services and compensation therefor.
+[17] There is not even any dispute as to the case law that should be applicable herein. Both parties agree that, in accordance with Promotions D.N.D Inc. v. The Queen at paragraph 35, the definition of “financial services” above can refer to two situations: (1) the act of agreeing to provide a service; and (2) the act of arranging for a service and that the first concerns the person who, in the final analysis, provides the “financial service”, in this case Walkaway or the Insurer according to the Appellant, while the latter situation concerns intermediary persons that arranged for the “financial service”, in this case the Appellant arranged for the sale of Insurance Products, according to the Appellant. The Respondent, of course, does not agree the services of the Appellant amount to a financial service at all, since they do not involve the provision of insurance in its view, which I will discuss shortly.
+[18] Both parties agree that the test to determine whether a single supply is within the definition of a “financial service” is, in accordance with the Federal Court of Appeal’s decision in Global Cash Access (Canada) Inc. v. The Queen, 2013 FCA 269, a two-fold test which requires the Court to determine what services was provided to earn the compensation and then whether that service falls within the definition of a “financial service”. At paragraph 26 the Court stated:
+[26] To determine whether that single supply falls within the statutory definition of ‘financial service”, the questions to be asked are these: (1) Based on an interpretation of the contracts between the Casinos and Global, what did the Casinos provide to Global to earn the commissions payable by Global? (2) Does that service fall within the statutory definition of “financial service”?
+[19] Both parties agree that the Federal Court of Appeal later clarified the test in Great-West Life Assurance Co. v. The Queen, 2016 FCA 316 by essentially breaking the second step in Global Cash into two parts as well. At paragraphs 46 and 47 the Court stated:
+[46] In determining whether a supply is a “financial service,” there are two questions to be answered (Global Cash, paragraph 26): …
+[47] The first question is simply to determine what services were provided for the consideration received. At this stage, the services should include all services and not just the predominant elements. This is clear in Global Cash in which the first step included some services that were not predominant elements (i.e. clerical services and access to premises) (Global Cash, paragraphs 27,37 and 38);
+[48] The difficult part of the analysis comes at the second step. It requires a determination as to whether the supply is included in the definition of “financial service.” As part of this exercise, it is necessary to determine the predominant elements of the supply if it is a single compound supply. It is only the predominant elements that are taken into account in applying the inclusions and exclusions in the “financial service” definition.
+[20] The first step in the process requires the Court to undertake an analysis of all the services provided by the Appellant.
+[21] As earlier set out there is no dispute that the Appellant provided the services set out in paragraph 10 of the Notice of Appeal above which also includes the services assumed by the Respondent in paragraphs 9(f) and (g) of the Reply; all set out above. The Respondent admits and the evidence is clear and not challenged by the Respondent, that after a customer of the Appellant made the decision to purchase a vehicle, the salesman or sales manager would escort him to meet the Business Manager of the Appellant who worked in the Finance and Insurance branch of the dealership and essentially tried to upsell the customer. The Business Manager, whose uncontested testimony was corroborated by the CEO of the Appellant and the CEO of Walkaway, would inquire as to the customer’s age, employment, income, indebtedness, lifestyle and other factors to discuss with and attempt to sell the Insurance Products, as well as extended warranties and other accessories to the Appellant’s customers. His duties included extracting relevant information, explaining the available policies to potential customers including their coverage options, terms, limitations, conditions and exclusions, and assisting the customer in selecting the Insurance Product for his particular needs and in a nutshell selling those Insurance Products to the customer so as to “leave no money on the table”; and to earn commissions thereon on which his remuneration was entirely based. There is no dispute he also assisted the customer in post-sale services including issuing the certificate of insurance, advising as to the claims procedure and even getting the customer to acknowledge in writing that he turned down any higher levels of protection to protect any future liability from a customer alleging the policies were not adequately explained.
+[22] The Appellant’s witnesses, particularly the Business Manager as the main party charged with performing these functions, testified he received intensive training at the start on the Insured Products and sales techniques from Walkaway and that salespersons did as well so they could plant the seeds of buying the said Insurance Products into the minds of customers before handing them off to the Business Manager and that Walkaway attended at the dealership to provide ongoing training once or twice each month as well. The evidence is that the Finance and Insurance branch of the Appellant accounted for 50% of its profits, as much as the sale of vehicles, and that the sale of the Insurance Products accounted for 25% of the Finance and Insurance branch profits, or 12.5% of the entire dealership profits, a not inconsequential amount.
+[23] As between the Appellant and Walkaway, the Authorized Retailer Agreement dated December 16, 2009, referred to as the Dealer Agreement throughout the trial, contains the duties and services to be performed by the parties to each other including the main duty and underlying raison d’etre for the agreement found in Section 1 Appointment and Terms of Sale:
+1.1 Subject to this Agreement, WALKAWAY hereby appoints Dealer during the Term (as defined below in Section 6.1), and the Dealer accepts such appointment and agrees to:
+1.1.1 promote and deliver the complimentary version of the Product(the “Complimentary Product”) at no charge to each of Dealer’s Customers; and
+1.1.2 promote, offer for sale and sell Standard and Elite versions of the Product (each an “Enhanced Product” and collectively, the “Enhanced Products”) to all of Dealer’s customers.
+1.2 Dealer shall be entitled to retain from the price paid for each Enhanced Product ( the “Enhanced Product Premium”) a fee in the amount identified in Table 1 of Schedule A as the “Administration Fee”… .
+1.3 Dealer shall pay the Complimentary Product Premium identified in Table 2 of Schedule A for each Complimentary Product delivered. No Administration Fee is payable to Dealer for delivery of the Complimentary Products.
+[24] Schedule A lists tables which show the cost of each Enhanced Product and the Appellant’s 55% fee on the sale of each and Table 2 which shows the Appellant must pay $65 for each Complimentary Product it issues to its customers as required to do.
+[25] Section 2 of the said Dealer Agreement requires the Appellant to ensure its sales personnel have received product and procedures training provided by Walkaway, require the issuance of complimentary policies to customers that do not purchase Enhanced Products, remit the balance of the insurance cost net of the Appellant’s premium, maintain records, ensure full disclosure of the terms and conditions of all Insurance Products and collect and remit any sales taxes on the premium as applicable.
+[26] There is no real disagreement as to the overall services provided by the Appellant, both to its customers under the Dealership Agreement and to Walkaway, nor for that matter the obligations of Walkaway to the Appellant to maintain a Product website as a resource tool for the Appellant, issue monthly sales reports, allow the Appellant to use it proprietary trademarks and software, calculate the repurchase price of vehicles returned to the dealership and above all “appoint Dealer to promote, offer for sale and sell the Product”. There are clearly obligations to be performed by both parties to each other and to third party purchasers as is common in most retail based contracts.
+[27] In analysing whether the services amount to the provision of “financial services” as the next step in the determination dictated by the appellate Court in Global Cash and Great-West Life above, the Respondent contends that it is the obligations of the Appellant to Walkaway under the Dealership Agreement that are the relevant services for which the Appellant earned its compensation and hence must be considered in determining the predominant elements of the supply of services that must be evaluated in deciding whether such services fall within the definition of “financial services”.
+[28] The Respondent argues that the predominant elements of the services of the Appellant to Walkaway include:
+1. Access to the Appellant’s customers; since the Appellant is required to promote and offer to sell the Insurance Products to them;
+2. The right to use the Appellant’s sales specialist, which counsel defined as the trained personnel; in particularly the Business Manager, which are mandated to accept training by Walkaway;
+3. Commercial efficacy achieved through Walkaway piggybacking on to the Appellant’s operation to enable the sale of the Insurance Products; and
+4. the Profitable nature of Walkaway’s products, which provide incentive to the Appellant to sell them.
+[29] With respect to the Respondent, I must agree with the Appellant that the predominant elements of the services for which the Appellant earned its fee was the sale of Insurance Products to its customers, not in simply providing a customer base for the sale of the Insurance Products to Walkaway nor in providing initially untrained staff that underwent extensive training, nor even the commercial efficacy of the sales model employed by Walkaway to piggyback onto another’s operations. Moreover, I cannot see how appointing a party as a dealer to sell a profitable product renders the profitable product an element of a service being provided per se.
+[30] In Canadian Imperial Bank of Commerce v. The Queen, 2018 TCC 109, Chief Justice Rossiter opined at paragraph 67:
+In considering the Appellant’s and Respondent’s arguments, they both seem to be in agreement that the predominant element of the supply should be found by objectively looking at what the supply was perceived as being from the purchaser’s perspective. I however disagree with the Respondent’s suggestion that the predominant element of the supply cannot be the summation or end result of the different elements of the service provided. Often times, a supply is nothing if not a culmination of its various inputs, where from the perspective of the purchaser, it is the culmination or end result, and not the constituent elements which make up this end result, that is the true value added service which is being transacted for.
+[31] It is simply unconvincing that in evaluating a retail dealer agreement whose underlying rationale is the sale of Insurance Products to a consumer by appointing the Appellant as a dealer “to promote, offer for sale and sell” the Insurance Products of Walkaway, that somehow the predominant element of the agreement is other than the sale of the Insurance Products, but the ancillary obligations of the seller to the higher tier supplier. I find that any objective analyses of the Dealer Agreement would lead to the conclusion the main purpose of the contract is to sell insurance not provide expert advice, personnel or commercial efficacy. As CJ Rossiter opined in Canadian Imperial Bank of Commerce, one can look to the end result of the services provided to determine the predominant element of the services [See paragraph 73], and in paragraph 72 relied on the Federal Court of Appeal’s decision in Canadian Medical Protective Association v. The Queen, 2009 FCA 115, (FCA) where the Court discussed whether the use of investment managers were the provision of a financial service itself:
+…the Court found that although the research and analysis undertaken by the brokers was essential to the service that they provided, the supply being provided could not be characterized in this manner, as the research and analysis was all done in service of the end result, which was the purchase and sale of financial instruments
+56. The transfer of ownership of financial instruments is the end result of the exercise. “Arranging for” the transfer of ownership of a financial instrument, i.e. give instructions, cause to occur or issue buying and selling orders to the brokers is infinitesimal in terms of skill and time involved. The issuance of the order represents, however, an essential and vital part of the investment managers’ activity but it is not the dominant one. …
+63. …the research and analysis aspect of the trade will be purposeless if it does not end with a buy or sell order or a “hold” decision.
+[32] It is therefore quite clear that the “purchaser” whose perspective one must objectively look through is the consumer of the end supply that is the subject matter of the transaction. In our case, that is the car buyer who buys the insurance product and he would clearly and objectively know he was buying insurance, not the expertise or training, or commercial efficacy or profitability of the Dealer or its staff as the predominant elements of the transaction, notwithstanding that such services, if provided, may have an ancillary role to play in his decision making process; if he was even aware of their existence. There is simply no merit to the Respondent’s argument that the services or duties under the Dealer Agreement that may be said to be owed to Walkaway from the Appellant constitute the predominant element of the services to be provided under the Dealer Agreement, neither when analysing the terms of such agreement nor when conducting a functional analyses of the Appellant’s acts in performing its Insurance Product retailer duties.
+[33] Moreover, the compensation arrangement in the Dealer Agreement supports the predominant element of the Appellant’s services as being the sale of the Insurance Products, as, notwithstanding the Schedule A reference to an “Administration Fee”, it is clear that it is calculated solely on sales of Insurance Products and there is no link or discussion in the Dealer Agreement to such fee being related to compensating the Appellant for any other services or level thereof as might be the case if Walkaway was retaining a professional consultancy or like service nor to reimbursing the Appellant for any type of level of expenses. The bottom line is that the Appellant’s compensation is based and only arises on a sale of the Insurance Products. Nothing in the Agreement gives a cent of compensation for providing a customer base, skilled employees or knowledge or anything else nor was there any evidence the Appellant, a car dealership, was in the business of providing the services of employees or staff, or that it provided or sold any customer list to Walkaway. Walkaway simply had no contact with the Appellant’s customers other than at the claims stage under any insurance policy sold, nor did it have the right to instruct, control or supervise any staff or employees of the Appellant. It may be possible in certain arrangements or contracts, that the main purpose of a contract is for such services, but that is not the case in this matter.
+[34] Accordingly, I find that the predominant element of the Appellant’s service was the arranging for the sale of insurance which falls within the definition of a “financial service”, notwithstanding that some of the ancillary services provided by the Appellant could be considered promotional or administrative; particularly after the sale of Insurance Products was completed, thus the compensation received by the Appellant is exempt from GST/HST. The Appeal is allowed with costs to the Appellant.
+Signed at Ottawa, Canada, this 15th day of November 2018.
+“F.J. Pizzitelli”
+Pizzitelli J.
+CITATION:
+2018 TCC 231
+COURT FILE NO.:
+2016-4498(GST)G
+STYLE OF CAUSE:
+APPLEWOOD HOLDINGS INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 8 and 9, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice F.J. Pizzitelli
+DATE OF JUDGMENT:
+November 15, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Matthew G. Williams
+E. Rebecca Potter
+Counsel for the Respondent:
+Frédéric Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Matthew G. Williams
+E. Rebecca Potter
+Firm:
+Thorsteinssons LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

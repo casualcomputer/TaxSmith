@@ -1,0 +1,162 @@
+---
+title: "Deveo & Piercey v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28138/index.do"
+last_modified: "2003-10-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 723"
+citation2: ""
+neutral_citation: "2003 TCC 723"
+decision_date: "2003-10-28"
+language: "en"
+item_id: "28138"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1657
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:34:16.046000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "93c730a0da205a13ef1118c7d8274afc8678c4d3bcee110757514d1d1014cd39"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Deveo & Piercey v. M.N.R.
+
+- Citation: 2003 TCC 723
+- Decision date: 2003-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1657, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deveo & Piercey v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-28
+Neutral citation
+2003 TCC 723
+File numbers
+2002-2734(EI), 2002-468(EI), 2002-470(EI)
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2003TCC723
+Date: 20031028
+Dockets: 2002-2734(EI)
+2002-468(EI)
+2002-470(EI)
+BETWEEN:
+CLIFFORD DEVOE,
+SANDRA PIERCEY
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons for Judgment delivered orally from the Bench on August 13, 2003 at Corner Brook, Newfoundland)
+Campbell, J.
+[1] These three appeals were heard together on common evidence. The Appellants, Sandra Piercey and Clifford Devoe, were the only witnesses called, with evidence also taken via teleconferencing call in respect to the Appellants' solicitor, John Bruce.
+[2] According to the evidence of Sandra Piercey, she began a common‑law relationship with Clifford Devoe in late 1994 or early 1995. They had a child in 1996. In July 1995, they acquired a property from Clifford Devoe's father. A mortgage was placed on this property with the Codroy Valley Credit Union in 1995. Sandra Piercey stated that she left the relationship and vacated this property in 1997. She and the child lived with her parents while Mr. Devoe continued to reside in this property acquired in 1995.
+[3] In 1999 Sandra Piercey was a student and as part of her program, she completed a business plan on boat tours and rentals. She decided she would make this business plan a reality and contacted Clifford Devoe with a business proposal. Mr. Devoe had been leaving Newfoundland for a number of years to work part time on a seasonal basis in Nova Scotia. He received $12.00 per hour in Nova Scotia and worked long workweeks in construction. She offered Mr. Devoe employment in her proposed new business in exchange for permission to operate the business from the property which was still in both of their names. Mr. Devoe gave evidence that he preferred to stay in Newfoundland to work, provided he received comparable wages.
+[4] At the time this arrangement was made, the Appellants were still separated. They did not resume co-habitation until November of 2000. During the first season of operation, which was approximately May or June until October of 2000, the evidence was that the parties did not co-habit and retained separate residences during this time. According to the evidence of Ms. Piercey, Mr. Devoe was hired to handle the boat tours, to assist with the small boat rentals and to construct wharves, rock walls and a playground. Mr. Devoe had knowledge of the river, sand shoals and land markers, as he had lived his entire life by the water. In addition, he had a guide license for salmon fishing and had completed, at the request of Ms. Piercey, First Aid courses and kayaking courses. She reached an oral agreement with Mr. Devoe to hire him in the year 2000 for $10.00 per hour for a 70-hour workweek.
+[5] In February of 2000, Ms. Piercey applied for a $30,000.00 business loan with Gateway Development Association. She obtained the loan in her personal name. There were no co-signers or guarantors. Her evidence was that all decisions in the year 2000 were made by her and there was no input by Mr. Devoe. She also owned all of the assets and borrowed her father's tools to construct the rock wall, wharves and playground. She stated Mr. Devoe may have used his own hammer.
+[6] After the business-ceased operations in October for the 2000 season, the Appellants revived their relationship. In early 2001, they decided to incorporate the business which had been previously operated as a sole proprietorship under Ms. Piercey's name. The primary concern in incorporating the business was to limit liability in respect to the operations. This was confirmed by the evidence of Mr. Bruce, the Appellants' solicitor, who incorporated the company.
+[7] Sandra Piercey confirmed in her evidence that the ability to obtain EI benefits was also a consideration. The shareholders of the company were Sandra Piercey with 34 percent of the shares, Clifford Devoe with 33 percent and Clifford's brother, Vincent, with 33 percent. Vincent owned the property adjacent to the property owned by the Appellants. It was on Vincent's property that the playground was constructed. Vincent was living in Nova Scotia and employed with the Military. He was close to retirement and wanted to be involved in this business when he returned to Newfoundland. Shareholders' meetings were held regularly and if Vincent was not present personally, he participated via telephone.
+[8] The appeal of Sandra Piercey covers the period May 14, 2001 through to August 31, 2001. The sole issue in the Piercey appeal is whether she was employed by Sparkling Waters Boat Tours and Rentals Limited pursuant to a contract of service. The Minister denied her claim for employment insurance benefits for this period, on the basis that she was not so employed by the company. The Respondent argued that the company did not exist as a separate entity and that since the company and Sandra Piercey were one and the same, she basically was employed by herself. In denying Piercey's 2001 EI claim, the Minister made the assumptions, which I have summarized as follows:
+- Pre-incorporation Sparking Waters was operated by Piercey as a sole proprietorship, "more in the nature of a partnership between herself and Clifford Devoe".
+- In 2001, Piercey continued to operate the business as a partnership between herself and Devoe.
+- Sparkling Waters did not compensate either Piercey or the other landowners for the business use of the property.
+- Sparkling Waters used, in its business, boats and other assets owned by Piercey.
+- Sparkling Waters did not have its own bank account and instead, used the account of proprietorship under Piercey's name.
+- Piercey performed the same administrative and customer service duties for Sparkling Waters before and after incorporation.
+- And therefore, there is no contract of service between Piercey and Sparkling Waters.
+[9] In 2001, the business had been incorporated and both Piercey and Devoe were shareholders. The primary driving force in the incorporation was protection from personal liability. This was confirmed by the evidence of Piercey and of John Bruce, solicitor, who completed the incorporation. Mr. Bruce expressed his concern that the company obtain adequate insurance and erect appropriate signage on the property. Piercey also testified that one of the reasons for incorporation was to enable the parties to collect benefits. There is nothing improper in individuals arranging their affairs to take advantage of such payments. Here there was no evidence to suggest that here was anything illegal or improper in the procedure employed by the Appellants.
+[10] It was clear from the evidence of Mr. Bruce and the Appellant, Sandra Piercey, that it was the intention of Ms. Piercey to roll over the assets of the proprietorship, which she had operated, to the company pursuant to section 85 of the Income Tax Act. Mr. Bruce confirmed that he advised the Appellants on this matter and prepared both a lease document and a bill of sale. He provided these to the Appellants with instructions to complete a list of assets with valuations and to contact an accountant in this regard. The originals of these documents could not be located by Mr. Bruce or anyone else. The bill of sale (page 34 of Exhibit A-1) was executed by Ms. Piercey and dated May 4, 2001, but it was not witnessed. It appeared from the evidence that she included the amount of $300.00 as a consideration paid to Sandra Piercey by the company for the assets, although this amount did not reflect the true value of the assets which, I believe, are closer to a value of $25,000.00. It was clear from Piercey's evidence that she did not fully comprehend the nature of the documents. She had a general idea of what Mr. Bruce intended to accomplish, but she is not a solicitor and has no legal training and, therefore, did not truly understand the nature of the documents she signed. Her evidence was that it was her intention to transfer the business assets to the company. Whether this was actually accomplished legally is not relevant to the issue before me. I believe it is sufficient that the evidence supports that she fully intended to transfer the assets and executed the bill of sale to accomplish this intent. No schedule of assets was attached to this bill of sale, but she confirmed that she had completed one and given it to the accountant, as per Mr. Bruce's directions. She believed she had transferred the assets to the company and that, in 2001, it was the company that owned the assets and tools of this business. There was no evidence to the contrary and I accept that the company was the intended owner of the tools, being the boats and equipment, necessary to operate this business. I do not draw any unfavourable inference against the Appellant except to say that her solicitor could have been more diligent in following these documents through to correct completion.
+[11] In respect to the control issue, regular shareholders' meetings were held according to the evidence of Ms. Piercey. Minutes of these meetings were recorded, (Exhibit R-2) and when Vincent Devoe could not be present, he participated via telephone. Decisions were made at these meetings as to how the business operations would be carried out. Ms. Piercey did not have the control that she previously exercised in the year 2000 when she operated the business as a proprietorship. Although the bank account still continued in her name, she explained that she was attempting to avoid the bank fees charged for changing the name on the account to the corporate name. She testified, however, that the bank was fully aware that the business was now operated through the company. In respect to the final two factors, chance of profit and risk of loss, there is a risk of loss and a chance of profit for the shareholders of the company, but not as employees of the company. Employees and shareholders in a company have distinct and separate roles. A shareholder/employee is not automatically precluded from benefits. The shareholders met and made decisions affecting their duties as employees. Appellant counsel cited the integration factor, but I refer him to the federal case and I believe this is the correct pronunciation Mirchandani v. Canada, [2001] F.C.J. No. 269. I believe this factor has been relegated now to a more minor, if not insignificant, role in deciding such cases.
+[12] Although the business operated as a sole proprietorship in 2000, it is clear from the evidence that the company incorporated in early 2001 was and remains a viable business operation. It was a separate entity from Piercey after the incorporation and clearly she intended that it be operated in that manner. There is no evidence to suggest that she was continuing the business as a proprietorship. It was the company that now possessed the assets, the chance of profit, the risk of loss and the control over the business operations. The business was no longer a proprietorship under the sole direction of Piercey. I simply do not accept that this company was, in any way, set up as a sham operation. There is no evidence to substantiate that this company was part of some elaborate scheme to obtain EI benefits. Although Vincent was not involved in daily operations, he did participate regularly in shareholders' meetings, where decisions were made on a regular basis. This was part of his future retirement plans. This business continues today and, in fact, is growing. An office, mini golf course and garage have been added and there are plans to continue to increase operations. Although the evidence was not absolutely clear, it appeared that the company did not pay rent for the use of the land. The Federal Court in Canada v. Société d'exploitation des ressources de la Vallée Inc. et al., [1984] 61 N.R. 131 (F.C.A.) stated that being paid to work on one's own land was not necessarily uninsurable employment. That ruling stated that what matters, in determining insurability, is the creation of a link of subordination between the employer and the employee, and not where the work is done. This factor alone is not determinative of this issue, particularly where a link of subordination has been established as it has been here.
+[13] I conclude therefore, that Sandra Piercey was engaged by Sparkling Waters Boat Tours and Rentals Limited for the period May 14, 2001 through to August 31, 2001 in insurable employment within the meaning of paragraph 5(1)(a) of the Act, as there was contract of service between the Appellant, Sandra Piercey, and the Payor company. Her appeal is therefore allowed.
+[14] I turn now to the two appeals of Clifford Devoe. The first appeal covers the period July 6, 2000 through to October 6, 2000. The second appeal is for the period July 23, 2001 through to October 26, 2001. The Minister has submitted that for the 2000 appeal period, there was no contract of service between Mr. Devoe and Sandra Piercey because they were actually in partnership in the operation of this business. In the appeal for 2001, the Minister has argued that there is no contract of service between Mr. Devoe and the company as they were simply continuing the partnership. In addition for this particular appeal the Minister denied the claim on the basis that Devoe's employment was excepted employment, as he was in a non-arm's length relationship with the company within paragraph 5(2)(i) of the Act.
+[15] In denying Devoe's 2000 EI claim, the Minister made the following assumptions and I will summarize those:
+- Devoe was paid primarily to improve the properties owned by himself, Piercey and Vincent.
+- Revenue generated by the business was insufficient to cover the cost of his wages.
+- Devoe was not compensated for the business use of the property.
+- Devoe was not expected to work predetermined hours.
+- Devoe's working relationship with Piercey was in the nature of a partnership.
+[16] The key to Devoe's 2000 appeal is whether he was a partner or an employee of the business. If Devoe was a partner in Sparkling Waters prior to its incorporation, then, of course, his EI appeal for the year 2000 must fail. When I look at the facts, it is clear that it was Piercey alone who formulated the idea of boat tours and rentals, developed a business plan, obtained the necessary financing, purchased the assets and equipment and generally oversaw the business operations in the 2000 season. Devoe did not share in the profits or losses and owned none of the assets or equipment which the business used. He did not resume his relationship with Piercey until November 2000, one month after the business operation ceased for that season. In addition, it was Piercey who obtained the necessary financing via a development grant. Devoe did not set his own hours, as his testimony indicated that sometimes Piercey would request that he leave at a certain hour and return in several hours to work late into the evening. His direction came from Piercey, not only in respect to these hours, but also in respect to tasks to be completed. There was nothing in the conduct of the parties from which one could infer that Devoe and Piercey were partners in this business. It is clearly Piercey's business in the year 2000. No license was required to give these boat tours, although Devoe had a salmon guide license and knowledge of the water, which were valuable assets for such an employee to have. However, Piercey gave evidence that she was capable herself of giving these tours and, in fact, did so in the 2001 season.
+[17] It is true that on September 28, 2000, Piercey and Devoe acquired a second mortgage on their property, some of the proceeds of which were used to pay off the Sparkling Waters loan. The timing of this mortgage is important. It was acquired just several days before Devoe finished his employment in the 2000 season. I am therefore placing less importance on this factor than if the mortgage had been acquired at the beginning of the 2000 season.
+[18] There was no evidence to suggest that the $10.00 an hour rate of pay offered by Piercey to Devoe would be out of line for an individual hired to complete the tasks and handle the boat tours that was expected of Devoe. The fact that the business revenue was not sufficient to offset the wages paid to Devoe is not a factor which points either strongly to a partnership or employee relationship. This was the first year of a new business. Many businesses operate at a loss in the start-up years. The business today is still growing and adding assets. It is true that the Appellant was not paid for the use of his property, although being offered a job that enabled him to remain in Newfoundland instead of returning to Nova Scotia may certainly be viewed as partial compensation. I have previously referred to the case of Canada v. Société d'exploitation des ressources de la Vallée Inc. et al., where the Federal Court found that being paid to work on one's own land is not necessarily uninsurable employment. The case is directly on point here. The evidence has clearly established a link of subordination here between Devoe and Piercey. Devoe was clearly an employee of the sole proprietorship operated by Piercey in the year 2000. A lease agreement was entered into, although not properly executed. Although the intention was present to pay rent of $50.00 monthly for the use of the property, the fact that no rent was paid cannot alter the employee/employer relationship which the facts have established.
+[19] And finally, I turn to the assumption relating to work related duties of Devoe which the Minister claims "... were primarily to improve the property owned by himself, the Payor and Vincent Devoe". The facts have proved that this is only partially correct. The work duties which Devoe completed brought about only one possible improvement to this property and that was the erection of the rock wall at the edge of their property, but which was actually on government land. It did have the potential of improving their property by preventing soil erosion. All other improvements including the wharves and playground were removed and stored at the end of each season.
+[20] I therefore allow Devoe's appeal for this period of employment in the year 2000 based upon my finding that he was an employee only of the proprietorship operated by Piercey.
+[21] In denying Devoe's 2001 EI claim, the Minister made the following assumptions and again, I will summarize:
+- Sparkling Waters did not compensate any of the landowners for the business use of their property.
+- It can be inferred that although Devoe was not on the payroll of the company until July 23, 2001, he was the sole tour guide of the business for the entire season and Piercey was not a licensed guide.
+- Devoe was not expected to work predetermined hours, nor was a record kept of the hours, which he worked.
+- Devoe therefore, was not employed pursuant to a contract of service with the company.
+- Devoe was related to the company and not dealing at arm's length.
+- Having regard to all the circumstances of his employment, the remuneration paid, the terms and conditions of employment, duration and nature and importance of the work performed, it was not reasonable to conclude that Devoe and the company would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[22] Although during the 2001 season Devoe was a shareholder of the employer corporation and made some improvements to the property, which he and Piercey owned, these facts alone do not automatically make Devoe's employment uninsurable. I have already concluded that Devoe's work duties did not relate primarily to property improvements as suggested by the Minister. In addition, I have also concluded that the corporation was not a sham, but a viable company. Devoe did not own or have any personal share of the tools, assets and equipment. I previously concluded in deciding Piercey's appeal, these were owned by Piercey and transferred to the corporation in 2001. When cross-examined as to his possible use of his own truck to move oars, boats and other corporate assets, Devoe was clear in his evidence that his truck was customized and he would never use it to move these items. Devoe's activities stayed much the same in 2001, although he did not commence employment until July 23 of that year. Piercey testified that Devoe was not hired until the business got busy enough to re-hire him and that she did the guide tours until he was re-hired. Shareholders' meetings were held on a regular basis and Devoe took his direction from these meetings. He did not take draws. He continued to be paid a regular wage of $10.00 per hour for the 70-hour workweek. Although he sometimes worked more than 70 hours per week, he testified that he was used to doing this in seasonal employment. He used the expression that he was "... required to make hay while the sun shines" to illustrate a similar practice in other seasonal employment he had in the past.
+[23] I conclude that Devoe was an employee during the period of employment in 2001 pursuant to a contract of service with the company.
+[24] In the alternative, the Minister has argued that Devoe was non-arm's length to the company. Pursuant to the definition of "related persons", contained in section 251 of the Income Tax Act, having again resumed his common-law relationship with Piercey and together owning 67 percent of the corporate shares, Devoe falls within the definition provided in this section. The Minister made the determination that Devoe's employment was excepted employment within 5(2)(i) of the Act, as Devoe and the Payor company were not dealing with each other at arm's length. The issue is whether this determination by the Minister was made in a lawful manner.
+[25] In respect to all these determinations, there is a standard of review which this Court must observe. The case of Attorney General of Canada v. Jencan Ltd., [1998] 1 F.C. 187 is often quoted as setting the standard which binds this Court. This Court may only interfere with the Minister's determination where the Minister acted in bad faith or for an improper purpose or motive, failed to take into account all of the relevant circumstances or took into account an irrelevant factor. The case of Tignish Auto Parts Inc. v. Canada (M.N.R.), [1994] F.C.J. No. 1130 (F.C.A.) requires that this Court undertake a two-stage inquiry on an appeal from such a determination. The test is well summarized in the case of Bayside Drive‑In Ltd. v. M.N.R., [1997] F.C.J. No. 1019 at paragraph 15 where it states:
+At the threshold stage of the inquiry, review by the Tax Court is confined to ensuring that the Minister has exercised his discretion in a lawful manner. If, and only if, the Minister has exercised his discretion in a manner contrary to law can the Tax Court then proceed to a review of the merits of the determination. It is only by limiting the first stage of the inquiry in this manner that the Tax Court exhibits the degree of judicial deference required when faced with an appeal from a discretionary determination.
+The Federal Court of Appeal stated in the case of Ferme Emile Richard v. M.N.R., [1994] F.C.J. No. 1859 at paragraph 4:
+... In other words, the Court does not have to consider whether the Minister's decision was correct: what it must consider is whether the Minister's decision resulted from the proper exercise of his discretionary authority.
+I must therefore verify whether the facts relied on by the Minister in his determination were real and were correctly assessed and considered, having regard to the context in which they occurred. The Court, however, may not simply substitute its assessment for that of the Minister, even if it would have reached a different conclusion.
+[26] Assumption (l) now has been rebutted as the evidence supports that prior to July 23 when Devoe was hired, Piercey completed these guide tour duties as required. The Appellant's evidence which was not contradicted was that a tour guide did not have to be licensed. Assumption (m) is not completely correct as Piercey also conducted work when necessary as a tour guide prior to July 23. Assumption (h) has been rebutted as Piercey's evidence was that she conducted the tours prior to Devoe being hired and in any event, she did not need to be licensed to do this work. Assumption (o) has been rebutted. Devoe was, in fact, a licensed guide, but for salmon fishing which had nothing to do with his duties for this operation. There was no evidence to suggest that he performed any of the tours for the company prior to July 23. Assumption (q) is only partially correct. Devoe was required to work 70 hours per week, which was predetermined together with the hourly wage of $10.00. In addition, there was no evidence to suggest $10.00 was an unreasonable amount.
+[27] These assumptions were critical to the Minister's determination. The cumulative effect of all of my above comments on these assumptions is that the Minister erred in several instances in stage one of the inquiry in that irrelevant factors were considered and some relevant factors were not. The Appellant has met the onus at this stage. The second stage of the inquiry involves a consideration of whether or not the Appellant has established on a balance of probabilities that a similar contract of service would have been entered into between the parties had they not been related. I am satisfied here that the Appellant's employment was not contrived or concocted. The work Devoe performed was essential to the operation of the company. There was no evidence to suggest that the $10.00 hourly rate is unreasonable. The amount was a negotiated rate in the 2000 season and continued into the 2001 season. Devoe worked a minimum of 70 hours per week. I place little importance on the fact that he worked in excess of 70 hours on occasion, as he testified that he generally worked at seasonal jobs where he quite often worked additional hours to get the job done for other employers. The tools were provided by his employer. The shareholders provided the direction through regular meetings for which records were kept. I am satisfied that a similar contract of service would have been entered into with an unrelated or arm's length individual. The appeal for Devoe for the 2001 period is, therefore, allowed.
+[28] In summary, all three appeals are allowed and the determinations of the Minister are varied on the basis that the Appellants were engaged in insurable employment for the periods in question.
+Signed at Ottawa, Canada, this 28th day of October, 2003.
+"Diane Campbell"
+Campbell, J.
+CITATION:
+2003TCC723
+COURT FILES NO.:
+2002-2734(EI, 2002-468(EI)
+2002-470(EI)
+STYLE OF CAUSE:
+Clifford Devoe and Sandra Piercey and
+The Minister of National Revenue
+PLACE OF HEARING:
+Corner Brook, Newfoundland
+DATE OF HEARING:
+August 11, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice
+Diane Campbell
+DATE OF ORAL JUDGMENT:
+August 13, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Nicholas Summers
+Counsel for the Respondent:
+James Murphy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Nicholas Summers
+Firm:
+Newfoundland & Labrador Legal Aid
+St. John's, Newfoundland and Labrador
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

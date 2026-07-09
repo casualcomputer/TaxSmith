@@ -1,0 +1,293 @@
+Title: Laboratoire Du-Var Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30994/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-366-30994-laboratoire-du-var-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-10-17
+
+# Laboratoire Du-Var Inc. c. La Reine
+
+- Citation: 2012 CCI 366
+- Decision date: 2012-10-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4813, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laboratoire Du-Var Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-17
+Référence neutre
+2012 CCI 366
+Numéro de dossier
+2010-2038(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2038(IT)G
+ENTRE :
+LABORATOIRE DU-VAR INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 9 juillet 2012, à Montréal (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l’appelante :
+Me Richard Généreux
+Avocate de l’intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel des cotisations est admis en partie; tout d’abord pour les années d’imposition 2003 et 2004, la Cour s’en remet au Consentement à jugement intervenu entre les parties dont l’original est joint pour faire partie intégrante du jugement.
+Quant aux années d’imposition 2005 et 2006, les parties se sont entendues pour qu’il porte essentiellement sur le salaire réclamé par monsieur Pierre J. Trudeau et madame Louise Nadon, sa conjointe. L’appelante a aussi consenti à ce que certains projets, soit les projets 11, 12, 13 et 34 identifiés par les noms respectifs suivants : « Panneau de contrôle », « Projet air/électricité » et « Maintenance préventive » soient exclus du débat, consentant ainsi aux conclusions retenues par l’intimée à cet égard.
+L’appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu, par le ministre du Revenu national pour les années d’imposition 2005 et 2006, dont l’objet a été clairement défini par les parties relativement aux salaires réclamés par monsieur Pierre J. Trudeau et madame Louise Nadon sont rejetés, sans frais.
+Signé à Ottawa, Canada, ce 17e jour d’octobre 2012.
+« Alain Tardif »
+Juge Tardif
+Référence : 2012 CCI 366
+Date : 20121017
+Dossier : 2010-2038(IT)G
+ENTRE :
+LABORATOIRE DU-VAR INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel relatif à des dépenses reliées à divers projets de recherche et développement. Les parties ont convenu d’une entente quant à une partie du dossier en litige. Ainsi, les parties ont convenu d’un consentement à jugement en faveur de l’appelante quant aux années d’imposition 2003 et 2004.
+[2] Étant donné que le consentement en question fait partie du présent jugement, il y a lieu d’en reproduire le contenu intégral.
+Les parties consentent à ce que la Cour rende jugement, accueillant l’appel à l’encontre des cotisations pour les années d’imposition 2003 et 2004 et déférant le tout au ministre du Revenu national pour nouvel examen et nouvelle cotisation à établir en acceptant les dépenses supplémentaires suivantes à titre de dépenses
+admissibles de recherche scientifique et de développement expérimental aux fins du calcul du crédit d’impôt à l’investissement :
+2003
+2004
+Salaires d’employés non-déterminés
+18 842 $
+-
+Matériaux
+131 $
+371 $
+Entrepreneurs
+-
+2 420 $
+Salaire d’employé déterminé (Pierre Trudeau)
+5 486 $
+2 794 $
+Salaire d’employé déterminé (Louise Nadon)
+6 171 $
+8 488 $
+Total :
+30 630 $
+14 073 $
+À tout autre égard, les nouvelles cotisations demeurent inchangées.
+LE TOUT SANS FRAIS.
+Ile-des-Sœurs, le juillet 2012
+par : _______________________________
+Richard Généreux
+Avocat de l’appelant
+MONTRÉAL, le juillet 2012
+Myles J. Kirvan
+Sous-procureur général du Canada
+Procureur de l’intimée
+par : ________________________________
+Christina Ham
+Avocate de l’intimée
+[3] Conséquemment, l’appel porte essentiellement sur les années d’imposition 2005 et 2006; l’appelante a également indiqué que certains projets de recherche pour les années 2005 et 2006 ne faisaient plus l’objet de litige. Il s’agit des projets suivants : pour l’année 2005, le projet numéro 11 « Panneaux de contrôle »; le projet no 12 « Projet air/électricité », le projet no 13 « Maintenance préventive » et le projet no 34. Pour l’année 2006, le projet no 34 identifié comme « Panneaux de contrôle »
+[4] Conséquemment, la seule question en litige est la suivante : le salaire de monsieur Pierre Trudeau et celui de sa conjointe madame Louise Nadon constituaient-ils des dépenses admissibles? L’intimée a refusé en partie le salaire réclamé à titre de dépenses pour monsieur Trudeau et la totalité des dépenses de salaire dans le cas de madame Nadon, conjointe de monsieur Trudeau. Les dépenses de salaire de monsieur Trudeau et de sa conjointe réclamées à titre de dépenses admissibles doivent-elles être accordées?
+[5] Pour les années d’imposition 2003 et 2004, la totalité des salaires payés tant à monsieur Trudeau qu’à sa conjointe à titre de salaires déboursés dans le cadre de divers projets de recherche et développement a été acceptée; pour les années 2005 et 2006 l’Agence du revenu du Canada (l’« Agence ») a accepté les dépenses jusqu’à concurrence de 25 % pour monsieur Trudeau et refusé en totalité celles de madame Nadon.
+[6] Le président et seul actionnaire de l’appelante, monsieur Trudeau, est ingénieur civil détenant des compétences très larges en matière de gestion et de productivité. Sa carrière lui a permis de développer plusieurs créneaux en matière de gestion.
+[7] Lors d’un concours de circonstances, il s’est vu offrir l’entreprise exploitée par l’appelante.
+[8] Malgré son ancienneté, son excellente réputation et son expertise très recherchée, l’appelante connaissait d’importantes difficultés financières. Devant l’offre, monsieur Trudeau a évalué la situation; il a préparé un plan et recruté des personnes réputées et crédibles pour finalement relever un nouveau défi en faisant l’acquisition de l’appelante.
+[9] Le dynamisme, l’intérêt et la passion de monsieur Trudeau pour l’activité commerciale de l’entreprise a fait en sorte qu’il a rapidement développé et acquis une expertise et une grande connaissance en matière de recherche et développement des produits de toilettes et de cosmétiques sous toutes ses formes. Il est devenu un chef de file en la matière malgré la petitesse de l’entreprise d’une part, et d’autre part, de son absence de formation académique en matière de biochimie.
+[10] Le président Trudeau a expliqué que le succès de l’appelante découlait de la grande et profonde préoccupation de l’entreprise à l’endroit de ses clients et de son souci omniprésent de grandir avec eux, en les soutenant et en les accompagnant à toutes les étapes du processus devant conduire à la mise en marché des nouveaux produits créés à la demande de ces mêmes clients.
+[11] Monsieur Trudeau a expliqué que l’entreprise reçoit des clients avec une ou des idées concernant de nouveaux produits qui souvent s’apparentent à de véritables rêves.
+[12] L’idée cible généralement un produit fini. L’appelante reçoit ainsi le mandat de réaliser toutes les étapes devant conduire au produit désiré prêt à la mise en marché. Pour obtenir le résultat espéré, plusieurs étapes sont requises et nécessitent souvent un véritable projet de recherche et développement.
+[13] Le succès de l’appelante repose également sur la qualité, l’abondance des multiples expériences au niveau des produits à améliorer, à créer, à développer, et ce, dans un contexte et un environnement répondant à des normes de qualité très strictes.
+[14] Selon monsieur Trudeau, bien que peu nombreuses, les personnes assignées au développement et à la recherche constituent le cœur de l’entreprise. Le volet recherche et développement est une composante peu importante en termes de main-d’œuvre et de chiffre d’affaires, mais tout à fait fondamentale et stratégique pour la santé financière de l’entreprise et de son essor.
+[15] En ce qui concerne les années en litige, le volet et département de recherche et développement étaient dirigés par madame Marie‑Claude Nadeau, biochimiste diplômée de l’Université de Sherbrooke.
+[16] Pour ce qui est de l’ensemble des activités commerciales de l’appelante, monsieur Trudeau a indiqué que l’entreprise engageait de 50 à 80 personnes, selon les périodes.
+[17] Au fil des ans, l’appelante a soumis de nombreux projets de recherche et développement. La très grande majorité de ceux-ci a reçu un accueil favorable de l’Agence du revenu du Canada qui, généralement, les acceptaient tel que soumis. Monsieur Trudeau a expliqué que l’appelante avait ainsi développé une expertise de haut niveau concernant la préparation, la présentation et la gestion de ces projets de recherche et développement.
+[18] Compte tenu de l’importance des projets de recherche et développement pour l’appelante, monsieur Trudeau a ajouté avoir investi énormément pour obtenir l’information pertinente afin que soient acceptés les différents projets de recherche et pour être à l’affût des exigences en constante évolution, d’autant plus qu’il s’agit là du volet le plus important de l’entreprise.
+[19] Il a mentionné que l’Agence avait modifié et restreint les critères de qualification tout en resserrant les mécanismes de contrôle d’une part, et d’autre part en ajoutant toutes sortes de nouveaux éléments. Conscient des nouvelles exigences et contraintes dont le but était manifestement de permettre de meilleurs contrôles, il ne ménageait aucun effort pour s’y conformer.
+[20] Le président, qui dirigeait une entreprise dans laquelle chaque détail compte, et où la compétition est féroce et l’efficacité indispensable, a affirmé avoir mis en place un système accessible, fiable et très bien documenté permettant de savoir, de connaître et de comptabiliser avec précision le nombre d’heures consacrées à chaque projet de recherche, et expliquant également le pourquoi des heures investies par chacun des intervenants.
+[21] L’appelante a répété et beaucoup insisté lors de l’interrogatoire des représentants de l’intimée pour leur faire affirmer qu’ils auraient dû prendre en compte les dossiers antérieurs où tant le salaire du président que celui de sa conjointe avaient été entièrement acceptés notamment pour les années 2003 et 2004.
+[22] L’appelante a investi beaucoup d’efforts et d’énergie pour démontrer la bonne réputation de l’entreprise au niveau des projets de recherche et développement; la presque totalité des projets soumis ayant été acceptés et ce, notamment au niveau du salaire réclamé tant pour monsieur Trudeau que pour sa conjointe madame Louise Nadon, l’intimée aurait dû accepter les réclamations de salaires à l’origine de l’appel selon l’appelante. L’avocat de l’appelante a multiplié les questions sur les expériences antérieures en soutenant qu’il s’agissait là d’éléments pertinents et concluants au niveau du bien-fondé de l’appel.
+[23] Malgré le fait que les analystes ont, dès le début, clairement indiqué qu’ils ne connaissaient pas le détail des dossiers antérieurs à leur travail d’analyse à l’origine des cotisations d’une part, et d’autre part, que cela était non pertinent pour les dossiers dans lesquels ils ont fait la vérification, l’appelante, par le biais de son procureur, a vigoureusement critiqué cette approche, exprimé sa frustration et sévèrement reproché l’absence de continuité dans le processus d’acception des dépenses de salaire du président et de sa conjointe concernant les projets de recherche litigieux.
+[24] Messieurs Marc-André Paquin et Gilles Caron, respectivement analyste financier et analyste scientifique, responsables de l’analyse des dossiers qui ont conduit aux avis de cotisation ont expliqué le travail qu’ils avaient effectué. Monsieur Paquin était responsable de l’analyse des montants réclamés investis dans les projets de recherche concernés; quant à monsieur Caron, il devait s’assurer que la dimension scientifique répondait aux critères pertinents.
+[25] Finalement, l’analyse et la vérification avaient pour but d’établir si toutes les dépenses, y compris les salaires de monsieur Trudeau et de sa conjointe, étaient directement reliées et requises pour mener à bien les projets de recherche en cause.
+[26] Les analystes ont expliqué et répété que leur travail avait ciblé essentiellement et exclusivement les projets visés par leur mandat d’analyse et de vérification. Ils ont répété qu’ils n’avaient ni considéré ni pris en compte les expériences antérieures. Leur travail et analyse quant aux salaires réclamés tant pour monsieur Trudeau que pour sa conjointe les avaient amenés à conclure à l’absence de relation entre l’importance du travail et les projets de recherche et développement auxquels l’appelante voulait les rattacher.
+[27] En d’autres termes, les réclamations pour salaire étaient exagérées pour monsieur Trudeau et totalement irrecevables dans le cas de sa conjointe. Selon les vérificateurs, il s’agissait là de dépenses non pertinentes pour la réalisation des projets de recherche et développement.
+[28] Relever un tel fardeau de preuve requiert non seulement la mise en lumière de faits les plus précis possibles mais aussi fiables et crédibles. Le fait que l’intimée ait déjà accepté les réclamations pour du travail attribué à d’autres projets de recherche n’a aucun impact déterminant ni suffisant pour modifier les règles quant au fardeau de preuve. De telles informations ont un effet tout à fait neutre. Chose certaine, ce grief n’est pas suffisant pour disqualifier ou discréditer les faits pris en compte pour expliquer et justifier les cotisations qui font l’objet de l’appel.
+[29] En effet, chaque dossier est indépendant et l’approche pour vérifier si l’exécution est conforme aux exigences légales auxquelles il est assujetti n’est pas un exercice essentiellement mathématique. Un lien direct entre les différentes composantes de la réclamation soumise est requis et doit être établi selon le principe de la prépondérance de la preuve; de cette réalité, il appert que chaque projet de recherche et développement est un dossier particulier avec ses données particulières.
+[30] Les multiples approbations antérieures, la qualité habituelle des dossiers de l’entreprise, la confusion et la possible ambiguïté de certains textes réglementaires quant aux exigences requises, et l’absence de critères précis et absolus ne sont pas suffisants pour expliquer ou justifier l’absence de registre, ou de documents permettant de savoir très exactement l’apport tant du président que de sa conjointe au niveau des différents projets de recherche acceptés.
+[31] L’appelante a beaucoup insisté sur le fait qu’elle présentait généralement des dossiers impeccables, voire exemplaires en matière de recherche et de développement. Elle a fait valoir que les réclamations soumises dans le cadre de projet de recherche et de développement avaient toujours reçu un très bon accueil et que, de façon générale, elle avait obtenu ce qui était réclamé, notamment en ce qui concerne les salaires du président monsieur Trudeau et de sa conjointe.
+[32] Le président de l’appelante a soutenu avoir été prudent, vigilant et précis quant aux données relatives à son travail et à celui de sa conjointe imputées à différents projets de recherche. Pour valider ses prétentions, il a témoigné d’une manière plutôt générale; il a insisté sur sa bonne réputation en la matière, sur ses connaissances, son expertise et sur sa grande maîtrise des exigences requises. Bien que le président Trudeau ait affirmé avoir mis en place un système ou un registre permettant de constater l’apport de chacun en termes de temps, de pourquoi et comment, il n’a pas été en mesure d’expliquer précisément le pourquoi, le comment et l’impact de sa contribution et celle de sa conjointe au niveau des divers projets de recherche et développement litigieux.
+[33] La preuve de bonne conduite, le fait d’avoir présenté et soumis antérieurement de bons dossiers ayant obtenu des notes presque parfaites, n’a rien à voir avec une cotisation précise pour des projets précis. Il s’agit tout au plus d’un élément neutre en soi et possiblement utile pour le contexte, mais certainement pas déterminant quant au bien-fondé d’un nouveau dossier.
+[34] En l’espèce, les hypothèses de faits prises pour acquis à l’origine de la partie toujours contestée de la cotisation n’ont pas été réfutées ou disqualifiées. Au contraire, la preuve a établi que le travail avait été correctement exécuté à partir des éléments et de l’information disponibles.
+[35] La recherche et le développement sont un domaine complexe où il n’existe pas de recette magique pour en établir la recevabilité au niveau de tous les éléments. Le législateur a prévu des critères qui, au fil des années, se sont précisés, ils ont été nuancés et vulgarisés de manière à ce que les intéressés soient mieux placés pour soumettre des réclamations sans être déçus.
+[36] La présence de critères et de conditions fait en sorte qu’il existe des contraintes et des restrictions qui exigent que toutes les dépenses soient démontrées comme étant directement liées aux projets de recherche et également essentielles à sa réalisation.
+[37] Les dépenses réclamées doivent avoir une relation directe et pertinente avec le projet soumis et accepté. Les dépenses doivent être requises, nécessaires et pertinentes. Il ne doit pas s’agir de dépenses circonstancielles, indirectes ou tout simplement pertinentes selon la seule analyse et appréciation du promoteur.
+[38] Les diverses directives émises par l’Agence visent à faciliter la compréhension et l’accessibilité, mais aussi à permettre aux intéressés de structurer et d’organiser la mise en place de registres, de comptes rendus explicites et précis qui faciliteront la vérification au niveau de l’interrelation et de la pertinence.
+[39] En l’espèce, s’appuyant sur l’expérience passée et réussie de l’entreprise qu’il dirige, le président a lui-même évalué sa participation et celle de sa conjointe dans les divers projets de recherche. La preuve a établi que les montants réclamés pour les années d’imposition en litige étaient de beaucoup supérieurs aux réclamations habituelles. Monsieur Trudeau a essentiellement justifié ces écarts du fait qu’il s’agissait de projets de recherche très importants requérant davantage son implication et celle de sa conjointe.
+[40] Lorsqu’il a été questionné et contre-interrogé sur les détails précis de sa participation pour mieux en connaître la pertinence, la raisonnabilité et la recevabilité, il a répondu que le temps investi rencontrait les critères et respectait les exigences établies par l’Agence.
+[41] Questionné aux fins qu’il précise ses réponses, il répondait avoir respecté l’une ou l’autre des directives formulées par l’Agence en se référant à un numéro ou à un ensemble de numéros.
+[42] Le président notait sur un relevé informatique le nombre d’heures investies pour chacun des projets; selon lui, de telles inscriptions signifiaient que le travail en question rencontrait l’un ou l’autre des paragraphes de l’énoncé. Pour illustrer le tout, je reproduis un extrait du témoignage de monsieur Trudeau.
+[…]
+Q. O.K.
+R. Chose surprenante, oui.
+Q. Mais c’est...
+R. Puis il y a personne qui l’a duplicaté [sic] sur le marché.
+Q. Mais les six heures spécifiquement qui sont mentionnées pour le 8 janvier?
+Me GÉNÉREUX: En fait, Monsieur le juge, ce n’est pas le 8 janvier.
+Me C. HAM: Ou la semaine du 8 janvier.
+Me GÉNÉREUX: C’est la semaine.
+R. Je ne peux pas spécifier. C’est du 5. 4 ou 5. C’est toujours...
+Q. Quand vous dites « 4, 5 »...
+R. 95 %, c’est... Dans l’onglet 30, ---
+Q. H’m.
+R. ---c’est---
+Q. Dans votre description de tâches?
+R. ---révision, analyse des résultats, discussions et ébauches des « scale-up », des hypothèses de formules avec le client ou avec Du-Var et révision des tests de laboratoire.
+Q. O.K. Mais vous dites que...
+R. Pour aller plus loin, pour vous dire ce que j’ai fait spécifiquement, ça a commencé en 2008, en 2008 avec le rapport de M. Pâquin qui disait : « Donnez-moi un backup. » Il me l’a dit en décembre ou en janvier 2008, et on a commencé en janvier 2008 à spécifiquement prendre des notes dans les agendas de chaque intervention.
+Q. H’m.
+R. Comme je vous ai dit, là j’écrirais : « S-4d-2 heures. »
+Q. O.K.
+R. Mais avant ça, ça n’existait pas.
+Q. Donc Monsieur Trudeau...
+R. On nous avait demandé de créer un système informatique, on le mettait dans le système informatique, puis c’est les instructions qu’on avait eues en 2004, de faire ça comme ça.
+Q. Donc Monsieur Trudeau, pour les deux fichiers Excel qui se trouvent à l’onglet 35, qui vous concernent, ---
+R. Oui, Madame.
+Q. ---pour 2005 et pour l’année 2006, est-ce exact de dire que vous n’êtes pas capable de me spécifier exactement quelles tâches ont été accomplies par rapport aux heures indiquées?
+R. Ça...
+Q. Spécifiquement par rapport au projet?
+R. Ça se résume aux tâches de 1 à 10. Exclusivement une de ces tâches-là, qui est à l’onglet 30. C’est une de ces tâches-là qui a été accomplie.
+Q. H’m. Et puis si je ne me trompe pas, vous avez tout à l'heure...
+R. Est-ce que j’ai parlé au client pour lui dire que le produit tourne bleu, on rentrait... On n’a jamais rentré dans le détail, et ça n’a pas été demandé.
+Q. La liste de tâches à l’onglet 30 auquel vous faites référence, ---
+R. Oui.
+Q. ---qui vous concerne spécifiquement, vous avez dit tout à l'heure que cette liste de tâches là a été développée en 2008, c’est exact?
+R. Oui, à la demande du Ministère.
+Q. H’m.
+R. Avant ça, si on regarde les rapports que j’ai présentés, c’est... En gros, c’est... Je décrivais ces tâches-là. Je disais : « Voici les tâches que je faisais », et c’est ces tâches-là qui étaient décrites dans mes présentations. Dans les réponses à M. Pâquin, dont ma lettre en 2007, je décris mes tâches, et en gros c’est ces tâches-là qui sont indiquées.
+Q. O.K.
+R. Aussi, à M. Bougie, c’est les tâches que j’ai décrites en date... On en a parlé un peu plus tôt, au Ministère, et c’est la même description, toujours.
+Q. H’m.
+R. Ce qui est différent ici, c’est que j’ai mis un numéro devant chaque tâche.
+Q. O.K. Monsieur Trudeau, je vais vous montrer ici la pièce A-3, A-3 qui est le rapport technique en R & D qu’on a regardé ce matin.
+R. H’m.
+Q. Plus spécifiquement la page 37.
+Me C. HAM: Monsieur le juge, les pages sont paginées en haut à votre droite.
+SON HONNEUR: J’y suis.
+Q. Donc à la page 37 ici, c’est indiqué :
+« Annexe - Description de tâches du
+personnel. » -- Tel que lu
+Q. Puis à peu près au milieu de la page, on voit votre description de tâches.
+R. Oui.
+Q. Pour vous.
+R. Oui.
+Q. Vous êtes d'accord avec moi que la description de tâches qui se trouve là diffère beaucoup quand même de ces...
+R. Non, c’est les mêmes tâches. C’est juste qu’ici, elles sont numérotées et ici elles sont décrites avec plus de verbes, plus long, dans un paragraphe. Mais c’est essentiellement les mêmes tâches.
+Q. O.K.
+R. Parce que pour écrire ça, on s’est fié aux politiques d’application de 1996.
+Q. D'accord. Si je vous montre ici la pièce I-1, qui a été déposée à matin... Je vais vous la montrer là, ---
+R. Oui.
+Q. ---pour vous mettre en contexte.
+R. H’m.
+Q. Ça, c’est le document que M. Pâquin dit avoir reçu comme description de tâches en tant qu’examinateur financier.
+R. Oui.
+Q. O.K.? Vous êtes d'accord avec moi que la description de tâches par rapport à vous en particulier ici à I-1 est la même qu’on retrouve à la page 37 de la pièce A-3?
+R. Oui.
+Q. Prenez le temps pour le lire.
+R. Essentiellement, je me souviens. J’ai participé à l’écriture de ça.
+Q. H’m.
+R. C’est Marie-Claude, Mme Nadeau qui les a écrites. Par la suite, je les ai révisées et c’est essentiellement la même description. La I-1, 37 et l’annexe D, c'est-à-dire...
+Q. À...
+R. Dans A-1, à l’onglet 30, ---
+Q. 30.
+R. --- c’est essentiellement les mêmes descriptions, mais dans des mots un peu différents. Avec le temps, on a appris que certains mots... Le gouvernement ne veut pas qu’on dise certains mots.
+Q. Merci.
+Me C. HAM: Je n’ai pas d’autres questions pour le témoin, Monsieur le juge.
+SON HONNEUR: Merci, Monsieur Trudeau. C’est votre preuve?
+Me GÉNÉREUX: C’est ma preuve, Monsieur le juge.
+[…]
+[43] Relever un fardeau de preuve requiert de la crédibilité certes, mais les fondements de cette crédibilité ne doivent pas reposer essentiellement sur des expériences antérieures non pertinentes et des explications générales auxquelles il est possible de faire dire ce que l’on veut.
+[44] Le président peut être crédible quand il affirme avoir investi un nombre d’heures définies dans tel ou tel projet. Cette seule qualité en soi n’est cependant pas suffisante puisque l’évaluation doit être validée à savoir si le temps et l’énergie déployée étaient en lien direct avec le projet de recherche et développement.
+[45] L’appréciation subjective de son emploi du temps n’est pas une preuve suffisante et déterminante. Le travail doit rencontrer le test de la pertinence et du lien direct et utile avec le projet de recherche auquel il est rattaché.
+[46] Certes, il ne s’agit pas là d’une preuve facile, d’où l’importance de pouvoir se référer à des notes, des comptes rendus ou des procès-verbaux, etc. de manière à être en mesure de soumettre une preuve idéalement directe.
+[47] En l’espèce, la preuve de l’appelante repose essentiellement sur les expériences vécues avec l’Agence quant à des projets qui n’ont strictement rien à voir avec le présent dossier, sur la réputation de l’entreprise, sur la qualité des projets soumis, rencontrant les objectifs du programme et finalement sur des énoncés théoriques vagues et généraux ne permettant pas d’en évaluer la conformité aux exigences.
+[48] Malgré les nombreuses questions adressées au président monsieur Trudeau, ce dernier n’a jamais été en mesure de fournir des explications précises pour établir un lien direct et sans équivoque concernant le travail attribué au projet de recherche pour lequel il facturait des heures de travail qui ont été refusées créant ainsi le seul objet de l’appel.
+[49] Pour ce qui est des heures de travail également réclamées pour la conjointe de monsieur Trudeau, cette dernière n’a pas témoigné. Les raisons invoquées pour son absence sont à l’effet que cette dernière a été gravement malade il y a quelques années.
+[50] Il a été mentionné qu’elle s’est depuis réhabilitée, mais qu’elle a cessé d’occuper une charge complète à l’entreprise se limitant à quelques jours de travail par semaine. De plus, elle fait tout pour éviter le stress; sa présence à la Cour aurait provoqué chez elle un énorme stress qu’elle n’était pas en mesure d’assumer.
+[51] Évidemment, ce sont là des raisons fort sympathiques, mais malheureusement elles ne sont pas suffisantes pour conclure que si elle avait témoigné, elle aurait démontré que son travail attribué aux divers projets de recherche était conforme, réel et devait être accepté comme dépenses admissibles.
+[52] Par contre, s’il avait existé de bons, voire d’excellents registres, et si des notes ou des procès-verbaux avaient été complétés, les vérificateurs auraient pu en vérifier la pertinence et établir la présence d’un lien direct avec les projets faisant l’objet de la vérification.
+[53] En cas de doute ou de confusion, et dans un contexte moins stressant que celui de la Cour, ils auraient pu obtenir de la part de madame des précisions et des explications, ce qui leur aurait permis de tirer des conclusions.
+[54] Dans l’hypothèse de conclusions ni souhaitées ni désirées, la Cour aurait, à son tour, pu prendre connaissance des documents et, de ce fait, elle aurait été en meilleure position pour évaluer la pertinence du travail quant au lien requis pour être accepté.
+[55] Étant donné l’absence de madame Nadon et l’inexistence de registres fiables et détaillés démontrant le bien-fondé des prétentions de l’appelante et, étant donné que les explications soumises par monsieur Trudeau et madame Marie-Claude Nadeau en qualité de responsables du département recherche et développement ne suffisent pas à conclure à la présence d’une prépondérance de la preuve, du lien direct et de la pertinence des dépenses reliées à son travail et à celui de sa conjointe, l’appel doit être rejeté quant aux années d’imposition 2005 et 2006. Toutefois, l’appel sera accueilli en conformité avec le contenu du document intitulé « Consentement à jugement » prévoyant ce qui suit :
+Les parties consentent à ce que la Cour rende jugement, accueillant l’appel à l’encontre des cotisations pour les années d’imposition 2003 et 2004 et déférant le tout au ministre du Revenu national pour nouvel examen et nouvelle cotisation à établir en acceptant les dépenses suivantes supplémentaires à titre de dépenses admissibles de recherche scientifique et de développement expérimental aux fins du calcul du crédit d’impôt à l’investissement :
+2003
+2004
+Salaires d’employés non-déterminés
+18 842 $
+-
+Matériaux
+131 $
+371 $
+Entrepreneurs
+-
+2 420 $
+Salaire d’employé déterminé (Pierre Trudeau)
+5 486 $
+2 794 $
+Salaire d’employé déterminé (Louise Nadon)
+6 171 $
+8 488 $
+Total :
+30 630 $
+14 073 $
+À tout autre égard, les nouvelles cotisations demeurent inchangées.
+LE TOUT SANS FRAIS.
+Île-des-Sœurs, le juillet 2012
+par : _______________________________
+Richard Généreux
+Avocat de l’appelant
+MONTRÉAL, le juillet 2012
+Myles J. Kirvan
+Sous-procureur général du Canada
+Procureur de l’intimée
+par : ________________________________
+Christina Ham
+Avocate de l’intimée
+[56] Pour tous ces motifs, l’appel est accueilli en partie en ce que les cotisations pour les années d’imposition 2003 et 2004 devront faire l’objet de correction en prenant pour acquis les changements mentionnés au Consentement à jugement reproduit précédemment dans ce jugement.
+[57] Quant aux années d’imposition 2005 et 2006, les cotisations établies sont confirmées comme bien-fondé et l’appel est rejeté en ce qui a trait à ces deux années, le tout avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 17e jour d’octobre 2012.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2012 CCI 366
+Nº DU DOSSIER DE LA COUR : 2010-2038(IT)G
+INTITULÉ DE LA CAUSE : LABORATOIRE DU-VAR INC.ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 9 juillet 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 17 octobre 2012
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Richard Généreux
+Avocate de l’intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante:
+Nom : Me Richard Généreux
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

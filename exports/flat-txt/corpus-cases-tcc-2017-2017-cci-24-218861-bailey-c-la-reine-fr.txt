@@ -1,0 +1,141 @@
+Title: Bailey c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/218861/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-24-218861-bailey-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-02-13
+
+# Bailey c. La Reine
+
+- Citation: 2017 CCI 24
+- Decision date: 2017-02-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2256, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bailey c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-02-13
+Référence neutre
+2017 CCI 24
+Numéro de dossier
+2016-2749(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-2749(IT)I
+ENTRE :
+KYLE BAILEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 14 novembre 2016, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me James Lhalungpa
+JUGEMENT
+L’appel relatif à la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 de l’appelant est rejeté.
+L’appel relatif à la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2012 de l’appelant est renvoyé au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que l’appelant est passible d’une pénalité en application du paragraphe 162(1) de la Loi de l’impôt sur le revenu.
+Signé à Ottawa, Canada, ce 13e jour de février 2017.
+« V.A. Miller »
+Juge V.A. Miller
+Référence : 2017CCI24
+Date : 20170213
+Dossier : 2016-2749(IT)I
+ENTRE :
+KYLE BAILEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Dans le présent appel, la question en litige consiste à savoir si l’appelant est tenu de payer la somme de 11 817,32 $ et de 710,58 $ à l’égard de pénalités imposées en vertu du paragraphe 162(2) de la Loi de l’impôt sur le revenu (la « Loi ») pour ses années d’imposition 2010 et 2012, respectivement.
+Une question préliminaire
+[2] Au début de l’audience, l’avocat de l’intimée a présenté une requête visant à déposer une réponse modifiée. L’appelant avait été informé trois semaines à l’avance de cette requête et il ne s’y était pas opposé. J’ai fait droit au dépôt de la réponse modifiée.
+[3] Les témoins à l’audience étaient l’appelant et Katrina Abesamis, une agente des appels au service de l’Agence du revenu du Canada.
+[4] L’appelant est consultant en informatique et il travaille à son compte.
+Le fardeau de la preuve
+[5] Dans le cas des pénalités, l’intimée a le fardeau de prouver que celles-ci ont été imposées à juste titre, et elle peut s’en acquitter en montrant que les conditions énoncées au paragraphe 162(1) ont été remplies. Pour ce qui est de l’année d’imposition 2010, le texte de cette disposition est le suivant :
+Défaut de déclaration de revenu
+162 (1) Toute personne qui ne produit pas de déclaration de revenu pour une année d’imposition selon les modalités et dans le délai prévus au paragraphe 150(1) est passible d’une pénalité égale au total des montants suivants :
+a) 5 % de l’impôt payable pour l’année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+b) le produit de 1 % de cet impôt impayé par le nombre de mois entiers, jusqu’à concurrence de 12, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+Récidive
+(2) La personne qui ne produit pas de déclaration de revenu pour une année d’imposition selon les modalités et dans le délai prévus au paragraphe 150(1) après avoir été mise en demeure de le faire conformément au paragraphe 150(2) et qui, avant le moment du défaut, devait payer une pénalité en application du présent paragraphe ou du paragraphe (1) pour défaut de production d’une déclaration de revenu pour une des trois années d’imposition précédentes est passible d’une pénalité égale au total des montants suivants :
+a) 10 % de l’impôt payable pour l’année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+b) le produit de 2 % de cet impôt impayé par le nombre de mois entiers, jusqu’à concurrence de 20, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+[6] L’alinéa 162(2)b) a été modifié en date du 29 juin 2012, de sorte qu’il n’était pas nécessaire qu’une lettre de mise en demeure soit signifiée par courrier recommandé; elle pouvait être envoyée au contribuable par courrier ordinaire.
+[7] Pour que le paragraphe 162(2) s’applique, l’intimée doit montrer que les conditions suivantes sont remplies :
+a) l’appelant n’a pas produit ses déclarations de revenus pour les années d’imposition 2010 et 2012 dans le délai spécifié au paragraphe 150(1);
+b) une mise en demeure a été signifiée à l’appelant pour l’année d’imposition 2010 et une mise en demeure lui a été envoyée pour l’année d’imposition 2012;
+c) l’appelant doit s’être vu imposer une pénalité en vertu du paragraphe 162(1) ou 162(2) pour une des trois années précédentes.
+[8] L’intimée a répondu aux conditions énoncées aux alinéas 7a) et c) qui précèdent en contre-interrogeant l’appelant. Ce dernier a convenu que ses déclarations de revenus pour 2010 et 2012 devaient être produites le 30 avril 2011 et le 30 avril 2013, respectivement. Il a admis qu’il devait un montant d’impôt fédéral à l’époque où ces déclarations devaient être produites et qu’il n’avait pas produit sa déclaration relative à l’année 2010 avant le 21 avril 2015 et sa déclaration relative à l’année 2012 avant le 4 mai 2015. Il a également admis avoir produit tardivement sa déclaration relative à l’année 2009, soit le 21 avril 2015, et une pénalité lui a été imposée en application du paragraphe 162(1) de la Loi.
+[9] L’appelant a toutefois déclaré qu’il n’était pas passible d’une pénalité en application du paragraphe 162(2) parce qu’il n’avait pas reçu une mise en demeure de produire ses déclarations relatives aux années d’imposition 2010 et 2012. Il a fait valoir que, de ce fait, le ministre n’était pas habilité à imposer des pénalités.
+[10] Ceci étant dit avec égards, il n’est pas exigé au paragraphe 162(1) ou dans la Loi que le contribuable reçoive la lettre de mise en demeure : Bowen v Minister of National Revenue, [1991] 2 CTC 266, au paragraphe 7. L’exigence est que le ministre signifie la lettre de mise en demeure ou qu’il l’envoie, suivant l’année dont il est question.
+[11] Katrina Abesamis a déclaré que dans les cas où l’Agence du revenu du Canada (l’« ARC ») prend des mesures pour qu’un contribuable produise sa déclaration, ces mesures sont consignées dans l’ordinateur de l’ARC, dans un dossier appelé « Mesures d’exécution ». Elle a obtenu les documents relatifs à l’appelant pour les années d’imposition 2007 à 2012 inclusivement.
+[12] Mme Abesamis a passé en revue chaque inscription consignée dans le dossier des mesures d’exécution. Elle a déclaré :
+a) une mise en demeure de produire sa déclaration de revenus concernant l’année 2007 a été délivrée à l’appelant le 26 avril 2010. Il a produit la déclaration en question le 28 janvier 2011 et une cotisation a été établie à son endroit le 14 mars 2011;
+b) une mise en demeure de produire sa déclaration de revenus concernant l’année 2008 a été délivrée à l’appelant le 20 avril 2010. Il a produit la déclaration en question le 28 janvier 2011 et une cotisation a été établie à son endroit le 14 mars 2011;
+c) une mise en demeure de produire sa déclaration de revenus concernant l’année 2009 a été délivrée à l’appelant le 21 juillet 2010. Il n’a pas produit la déclaration en question dans un délai raisonnable et il a été l’objet d’une cotisation arbitraire, en application du paragraphe 152(7) le 14 avril 2011;
+d) une lettre de mise en demeure a été délivrée le 2 février 2012 à l’appelant afin qu’il produise sa déclaration de revenus pour 2010 dans les 30 jours suivant la date de la lettre. L’appelant n’a pas produit la déclaration en question avant le 22 avril 2015 et une cotisation a été établie à son endroit le 28 mai 2015;
+e) aucune lettre de mise en demeure n’a été délivrée à l’appelant pour son année 2011. Cependant, il n’a pas produit sa déclaration pour 2011 avant le 25 mai 2015;
+f) une lettre de mise en demeure de produire sa déclaration concernant l’année 2012 a été signifiée à l’appelant le 20 février 2014. Il a produit la déclaration en question le 25 mai 2015 et une cotisation a été établie à son endroit le 30 juillet 2015.
+[13] Mme Abesamis a déclaré que la lettre de mise en demeure concernant l’année d’imposition 2010 de l’appelant a été envoyée par courrier recommandé. Elle a demandé à Postes Canada (« PC ») une preuve de livraison de cette lettre. Le document de PC (pièce R-2) montrait qu’un article avait été livré à K Bailey le 6 février 2012. Le numéro d’article inscrit sur le document de PC correspondait au numéro inscrit dans les dossiers de l’ARC au sujet du courrier recommandé envoyé à l’appelant. L’article a été envoyé au 1966, avenue Hillside, qui est l’adresse de l’appelant. Il dit qu’il vit à cet endroit depuis quinze ans.
+[14] Mme Abesamis a déclaré qu’en 2010 le seul autre document que l’ARC a envoyé par courrier recommandé est un avis de confirmation. Les dossiers de l’ARC ont révélé que l’appelant n’a pas envoyé d’avis d’opposition avant le 27 octobre 2015. Cette opposition a été confirmée le 7 avril 2016. Il s’ensuit donc que le courrier recommandé documenté par la pièce R-2 devait être la lettre de mise en demeure concernant l’année 2010, envoyée à l’appelant le 2 février 2012.
+[15] L’appelant a déclaré que la signature apparaissant sur la pièce R-2 n’est pas la sienne. Je suis toutefois convaincue que le ministre a signifié à l’appelant la lettre de mise en demeure concernant son année 2010 par courrier recommandé.
+[16] Pour ce qui est de la lettre de mise en demeure concernant l’année 2012, Mme Abesamis a déclaré qu’il ressort des dossiers de l’ARC qu’une mise en demeure a été envoyée et qu’il n’y a rien dans les dossiers qui montre qu’elle a été retournée. Si cela avait été le cas, il y aurait eu une note à cet effet dans les dossiers de l’appelant.
+[17] Je suis d’avis que le témoignage de Mme Abesamis ne satisfait pas au fardeau qu’avait l’intimée de prouver qu’une lettre de mise en demeure avait été envoyée à l’appelant pour son année 2012. Son témoignage élude plutôt la question.
+[18] L’intimée aurait dû produire une preuve semblable à celle qu’a décrite le juge Bowman, au paragraphe 23 de la décision Schafer v R, [1998] GSTC 60 :
+23 Dans une grande organisation comme un ministère, un cabinet d’avocats ou d’experts-comptables ou une société, où le courrier envoyé chaque jour est volumineux, il est pratiquement impossible de trouver un témoin pouvant jurer qu’il a déposé au bureau de poste une enveloppe adressée à telle ou telle personne. Le mieux qu’on puisse faire est de décrire en détail les étapes suivies, par exemple le fait d’adresser les enveloppes, d’y insérer des documents, d’apporter les enveloppes à la salle du courrier et de livrer le courrier au bureau de poste.
+[19] Les propos du juge Bowman ont été approuvés par le juge Rothstein, dans l’arrêt Kovacevic c Canada, 2003 CAF 293, au paragraphe 16 :
+16 Je conviens que lorsque la loi exige qu’un document soit envoyé par courrier ordinaire par une grande organisation comme un ministère, mais qu’elle n’exige pas que ce soit fait par courrier recommandé ou certifié ou qu’il y ait une preuve d’un moyen d’envoi plus formel, la remarque du juge Bowman dans la décision Schafer est raisonnable. En général, il suffit donc d’énoncer dans un affidavit, souscrit par la dernière personne en autorité qui a traité le document avant qu’il soit soumis à la procédure normale d’envoi du bureau, la description de cette procédure.
+[20] Cependant, cela ne met pas un terme à l’affaire. Dans sa réponse modifiée, l’intimée s’est fondée sur le motif subsidiaire selon lequel l’appelant est passible d’une pénalité en application du paragraphe 162(1) pour ses années d’imposition 2010 et 2012.
+[21] L’appelant a admis qu’il avait omis de produire sa déclaration concernant l’année 2012 au moment où l’exigeait le paragraphe 150(1) de la Loi et qu’il y avait un montant d’impôt fédéral impayé au moment où la déclaration de revenus de 2012 devait être produite.
+[22] Aucune preuve ne montre que l’appelant a fait preuve de diligence raisonnable en 2010 ou en 2012. En fait, ce serait plutôt le contraire. L’appelant a déclaré que lorsqu’il avait reçu les [traduction] « enveloppes brunes » de l’ARC, il ne les avait pas ouvertes. Il les avait jetées dans un contenant jusqu’au jour où le ministre avait saisi des fonds dans son compte en banque. Ce n’est qu’à ce moment-là qu’il avait amené ses documents à son comptable pour qu’il établisse ses déclarations de revenus.
+[23] L’appel relatif à l’année d’imposition 2010 est rejeté. L’appel relatif à l’année d’imposition 2012 est renvoyé au ministre pour nouvel examen et nouvelle cotisation au motif que l’appelant est passible d’une pénalité en application du paragraphe 162(1) de la Loi.
+Signé à Ottawa, Canada, ce 13e jour de février 2017.
+« V.A. Miller »
+Juge V.A. Miller
+RÉFÉRENCE :
+2017CCI24
+No DU DOSSIER DE LA COUR :
+2016-2749(IT)I
+INTITULÉ :
+KYLE BAILEY ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 14 novembre 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 13 février 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me James Lhalungpa
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Avocat de l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

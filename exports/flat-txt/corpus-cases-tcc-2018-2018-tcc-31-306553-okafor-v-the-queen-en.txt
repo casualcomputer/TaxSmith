@@ -1,0 +1,270 @@
+Title: Okafor v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/306553/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-31-306553-okafor-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-03-20
+
+# Okafor v. The Queen
+
+- Citation: 2018 TCC 31
+- Decision date: 2018-03-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7213, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Okafor v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-03-20
+Neutral citation
+2018 TCC 31
+File numbers
+2016-3153(IT)I
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Income Tax Act
+Notes
+A correction was made on March 28, 2018
+Decision Content
+Docket: 2016-3153(IT)I
+BETWEEN:
+TIMOTHY OKAFOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 5 and November 22, 2017
+at Toronto, Ontario
+Before: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stephanie Hodge
+AMENDED JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2011 taxation year is allowed, without costs, and the matter is referred back to the Minister for re-evaluation and reassessment on the basis that:
+a. the Appellant is entitled to claim net rental losses for the taxation year amounting to $1,842.
+b. the Respondent concedes that this is not a proper case for the imposition of the gross negligence penalties imposed pursuant subsection 163(2) of the Act and therefore the Appellant is not liable for these penalties.
+In all other respects, the appeal is dismissed in accordance with the attached Reasons for Judgment and Addendum.
+The Appellant is entitled to no further relief.
+This Judgment is issued in substitution of the Judgment dated February 16, 2018.
+Signed at Kingston, Ontario, this 20th day of March 2018.
+“Rommel G. Masse”
+Masse D.J.
+Citation: 2018 TCC 31
+Date: 20180320
+Docket: 2016-3153(IT)I
+BETWEEN:
+TIMOTHY OKAFOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Masse D.J.
+[1]The Appellant is appealing his reassessment for the 2011 taxation year whereby the Minister of National Revenue (the “Minister”) disallowed rental losses, charitable donations and business losses that were claimed by the Appellant for that year. The Minister also assessed a gross negligence penalty pursuant to subsection 163(2) of the Income Tax Act, RSC 1985, c 1 (5th Supp), as amended (the “Act” ) in respect of the claimed charitable donations.
+[2]Mr. Okafor lives in Mississauga. He is an accountant by profession. At the relevant time throughout 2011, he was working for SCM Supply Chain Management Inc. He was married and had a dependant child but is now divorced.
+[3]In computing income for the 2011 taxation year, the Appellant reported gross rental income of $4,800 and claimed a net rental loss of $3,726.15.
+[4]The Appellant also claimed a non-refundable tax credit with respect to a portion of charitable donations amounting to $3,349.35 allegedly made by him to Power Zone Outreach Ministries (“Power Zone” ) as well as a carry-forward of unclaimed charitable donations in the amount of $3,312.46 allegedly made by the Appellant to Power Zone in 2010. The total charitable donation amount claimed in 2011 was therefore $6,661.81.
+[5]Finally, the Appellant reported gross business income of $67,588.00. The reported cost of goods sold was in the amount of $48,317.33 for a gross profit of $19,270.67. He also reported total business expenses in the amount of $65,972.21, which resulted in a claimed business loss of $46,234.52.
+[6]The Minister initially assessed the Appellant’s tax return as claimed by way of Notice of Assessment dated June 11, 2012. However, the Minister later reassessed the Appellant by way of Notice of Reassessment dated June 11, 2015 so as to disallow all of the above noted claimed rental losses, charitable donations and business losses. The Minister also assessed a gross negligence penalty pursuant to subsection 163(2) of the Act in respect of the charitable donation non-refundable tax credit claimed in the 2011 taxation year.
+[7]The Appellant filed a Notice of Objection to this reassessment. The Minister confirmed the reassessment by way of Notice of Confirmation dated May 12, 2016. Hence the appeal to this Court.
+[8]Mr. Okafor owned a property located at 100 Sand Cherry Crescent, Brampton Ontario. This residence is a three-story, semi-detached four-bedroom residence with a finished basement. The basement is a self-contained living unit with a separate entrance. Each storey has the same floor area, amounting to 33% of the available living space per storey. The Appellant, his ex-wife and his son lived on the main and upper floors. The basement apartment was rented out to a tenant named Meaghan Corbett-Dickson. This tenancy is evidenced by a written lease‑agreement for one-year. A copy of this lease is contained in Exhibit A-1. The rent for the basement apartment was $800 per month as stated in the lease. Ms. Corbett-Dickson moved out at the end of March 2011.
+[9]The Appellant testified that during the first three months of 2011 his brother-in-law, Jason (or Jesse) McKain, occupied two rooms on the top floor of the residence for his exclusive use. The Appellant and his wife occupied the master bedroom on the top floor and their son occupied the other bedroom. They all shared the remainder of the living area on the top floor and main floor, in common. Mr. McKain lived there for 3 months. He paid $800 per month for a total of $2,400. Therefore, according to the Appellant, his total gross rental revenue for 2011 was $4,800.00. The Appellant’s expenses in relation to this property for insurance, interest, maintenance & repairs, property taxes and utilities amounted to $12,725.60. The Appellant attributed 33% of these expenses to personal use amounting to $4,199.45. He attributed the remaining 67% of these expenses to rental expenses amounting to $8,526.16. This resulted in a net rental loss of $3,726.15 that he claimed on his 2011 tax returns. The attribution rate is based on the percentage of floor space occupied by the tenants.
+[10]Initially, the Respondent took the position that the Appellant did not rent out any property owned by him to any individual at any time during the 2011 taxation year, and if he did, then he was not doing so in a sufficiently commercial manner to constitute income from property. However, at the beginning of the hearing, the Respondent conceded that the Appellant suffered a rental loss for that year but only $1,842.00 and not the amount claimed by the Appellant. The Respondent is of the view that the correct percentage of property related expenses to be attributed to personal use is 67%, not 33%, as claimed by the Appellant.
+[11]How many tenants did the Appellant have living in his house? In his Notice of Objection dated August 13, 2015, the Appellant did not indicate who his tenants were or how many there were. The Appellant also indicated that all his tenants made their rental payments to him by way of cheques. The Appellant has produced copies of cheques from Meaghan Corbett-Dickson proving he received rents from her. However, he did not produce any cheques from his brother-in‑law. The Appellant did advertise the basement apartment for rent to the public at large. He did not advertise the fact that other rooms in his house were also available for rent. He states that he would not have rented those rooms to strangers, only family or friends. The Appellant has produced a written lease‑agreement for the rental of the basement apartment. He has not produced any written lease-agreement with his brother-in-law. In his Notice of Appeal, the Appellant indicates that once he separated from his wife and moved out, his wife put her two brothers in the rooms upstairs but they never paid any rent. If they paid any rent, it was paid directly to his ex-wife. He maintains that his wife stole the rent money that his brothers-in-law paid by depositing the rent in their joint bank account and then withdrawing all of the money.
+[12]I accept that the basement apartment, or 33% of the available living space in the Appellant’s home, was rented out to Meaghan Corbett-Dickson. This fact is fully supported by documentation such as a written lease agreement and copies of cancelled checks. However, there is no documentation that would support the Appellant’s contention that a brother-in-law lived with him in a landlord/tenant relationship. The Appellant cannot provide any documentation whatsoever confirming the existence of a lease agreement between himself and his brother-in-law. There is no written lease agreement, there are no cancelled checks, there are no receipts attesting to the payment of cash amounts, and the appellant cannot point to any entries in his bank records that would relate to payments from his brother-in-law. It is significant that neither his wife nor his brother-in-law came to testify and explain their involvement in all of this. I am entitled to draw an adverse inference from their failure to testify and I do so. It must be remembered that the burden of proof is upon the Appellant to establish on the balance of probabilities that there was indeed a rental agreement between himself and his brother-in-law. Quite simply, there is no convincing evidence beyond the Appellant’s verbal assertion to that effect.
+[13]If the Appellant was permitting his brother-in-law to live in the family home, then this was a family arrangement under which rent was to be paid in order to help defray the expenses of maintaining the family home and not for the purpose of earning income (see for example Greig v. Canada, [2003] 2 C.T.C. 2475).
+[14]Therefore, with respect to rental expenses, the appeal is allowed in part and the matter is referred back to the Minister for re-evaluation and reassessment on the basis that the Appellant is entitled to claim a net rental loss of $1,842.
+[15]In computing the tax payable for the 2011 taxation year, the Appellant claimed a non-refundable tax credit with respect to charitable donations allegedly made by him to Power Zone. He claimed the sum of $3,349.35 from donations made in 2011 as well as a carry-forward of $3,312.46 of unclaimed charitable donations made by him in 2010. The total charitable donation amount claimed for 2011 was therefore $6,661.81.
+[16]The Appellant produced a copy of a receipt (Exhibit R-6) issued 17th February 2011 in the amount of $15,220.00 representing charitable donations made by him to Power Zone in 2010. The Appellant also produced a copy of a receipt (part of Exhibit A-2) issued 27th February 2011 in the amount of $16,450.00 representing charitable donations made by him to Power Zone in 2011. The Appellant has also provided copies of seven cancelled cheques drawn on his personal bank account (also part of Exhibit A-2). These cheques total $15,000.
+[17]The charitable organization status of Power Zone was revoked for cause on May 5, 2012 (see Exhibit R-7, excerpt from Canada Gazette).
+[18]Subsection 118.1(3) of the Act allows a deduction from tax payable for gifts made to a registered charity. Subsection 118.1(2) of the Act provides that the making of a gift must be proven by filing with the Minister a receipt containing prescribed information. The prescribed information required to be included in an official charitable receipt is listed in subsection 3501(1) of the Income Tax Regulations, C.R.C., c. 945 (the “Regulations”), which states:
+Rental Losses
+Charitable donations
+(1) Every official receipt issued by a registered organization shall contain a statement that it is an official receipt for income tax purposes and shall show clearly in such a manner that it cannot readily be altered,
+(a) the name and address in Canada of the organization as recorded with the Minister;
+(b) the registration number assigned by the Minister to the organization;
+(c) the serial number of the receipt;
+(d) the place or locality where the receipt was issued;
+(e) where the gift is a cash gift, the date on which or the year during which the gift was received;
+(e.1) …
+(f) the date on which the receipt was issued;
+(g) the name and address of the donor including, in the case of an individual, the individual’s first name and initial;
+(h) the amount that is
+(i) the amount of a cash gift, or
+(ii) …
+(h.1) …
+(h.2) …
+(i) the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge gifts; and
+(j) the name and Internet website of the Canada Revenue Agency.
+[19]The Respondent argues that the receipts provided by the Appellant for both 2010 and 2011 are deficient in that neither receipt shows the place or the locality of issuance of the receipt as required by paragraph 3501(1)(d) of the Regulations. The requirements of the Regulations are mandatory and they are to be strictly adhered to. If the requirements are not met, a receipt is deficient and the credit must be denied.
+[20]In Plante v. R., [1999] 2 C.T.C. 2631, Justice Tardif of this Court observed at paragraphs 46 through to 48:
+[46] The requirements in question are not frivolous or unimportant; on the contrary, the information required is fundamental, and absolutely necessary for checking both that the indicated value is accurate and that the gift was actually made.
+[47] The purpose of such requirements is to prevent abuses of any kind. They are the minimum requirements for defining the kind of gift that can qualify the taxpayer making it for a tax deduction.
+[48] If the requirements as to the nature of the information that a receipt must contain are not met, the receipt must be rejected, with the result that the holder of the receipt loses tax benefits. …
+[21]In Sowah v. R., [2014] 1 C.T.C. 2072, Mr. Justice Campbell Miller of this Court found that the charitable donations receipt issued by the Jesus Healing Centre that had been produced to the Court was deficient in several respects. In particular, the address of the charitable organization was provided but there was no indication of the locality of where the receipt was issued. Justice Campbell Miller was of the view that the charity’s address as indicated on the official receipt could not be considered as the place of issuance of the receipt. He stated at paragraphs 19 and 20 as follows:
+[19] … [T]he receipt must show the locality or place where the receipt was issued. This is a separate requirement from the address of the organization as recorded with the Minister. Here, while we might presume that the address of the organization is the same place as where the receipt was issued, this should not be left to presumption. Maybe there are several Jesus Healing Centres throughout Toronto. It should be clear on the receipt from which place the receipt is issued. It is not. Again, a requirement has not been met
+[20] The Appellant has therefore not provided a receipt with the prescribed information and has therefore not met the 2nd condition necessary to obtain credit for a charitable donation. The Appeal can be dismissed on that basis.
+An appeal to the Federal Court of Appeal was dismissed (see Sowa v. R., 2015 D.T.C. 5052. [It is noted that the spelling of the Appellant’s name at the Federal Court of Appeal is different from that at the Tax Court of Canada]. I myself arrived at the same decision in the case of Bope c. R., 2015 TCC 120. In Bope, I agreed with Justice Miller in Sowah that the requirement pertaining to the locality or place where the receipt was issued is a separate requirement from the address of the organization as recorded with the Minister. It should be clear on the face of the receipt from which place the receipt is issued, because the address of the organization may be different from the place where the receipt was issued.
+[22]I agree with the Respondent’s position. The receipts being considered here must show not only the address of the organization as recorded with the Minister, as required by paragraph 3501(1)(a) of the Regulations, they must also show the place or locality where the receipts were issued as required by paragraph 3501(1)(d). These requirements may be technical but they are mandatory. In keeping with what I said in Bope, it should be made clear on the face of the receipt the place or locality where the receipt was issued in addition to the address of the organization. The receipts here in question do not. The Appellant argues that the address of the organization and the place where the receipts were issued is the same. Perhaps that is so but we cannot presume that they are the same – if they are the same, then that should have been so indicated on the receipts. That alone is a sufficient basis upon which to deny the Appellant’s appeal in regard to the charitable donations.
+[23]Part of the charitable donations that the Appellant claimed in 2011 were carried over from his 2010 taxation year. The Appellant argues that the Minister was statute barred from reassessing his 2010 tax returns. This argument has no merit. The Minister reassessed only the 2011 taxation year, which is not statute barred. In doing so, the Minister was fully entitled to consider the validity of all claimed deductions for that year, even those that are carried forward from previous years.
+[24]Quite apart from the foregoing, there is much that gives rise to suspicion regarding the validity of the supposed charitable donations. Firstly, the cheques that the Appellant produced as part of Exhibit A-2 are all dated during the last three months of 2011. The Appellant was experiencing serious financial difficulties in 2011, having gone through an acrimonious separation, having allegedly suffered significant business losses of some $46,000 and yet he made a flurry of large donations in the last quarter of the year. The total charitable donations for that year amount to about 25% of his annual gross income of $66,965 from employment. It is unlikely that a taxpayer in the Appellant’s personal situation would make charitable donations of that magnitude. Secondly, the seven cheques produced by the Appellant were processed by the bank anywhere from one-and-a-half to two months after the date they were written. It is most unusual that a charity would hold on to cheques for that long before depositing them. That is suspicious. Thirdly, the receipt for 2011 is suspicious on its face. The Power Zone logo on Exhibit R-6 for 2010 is positioned between the printed portions of the receipt and does not overlap on any of the printed portions of the receipt. However, the 2011 receipt in Exhibit A-2 is off-centre and almost impinges onto the printed portions of the receipt located on the upper left of the document leaving one to conclude that this document was simply pasted together on a computer. Lastly, both receipts indicate “Official Receipt Number 90327”. I find it astonishingly coincidental that two receipts issued a year apart in time to exactly the same individual donor would have exactly the same official receipt number.
+[25]And finally, the Minister assessed a gross negligence penalty pursuant to subsection 163(2) of the Act in respect of the charitable donation non-refundable tax credit claimed in the 2011 taxation year. The Respondent now concedes that this is not a proper case for the imposition of a gross negligence penalty. Therefore, with respect to charitable donations, the appeal is allowed in part and the matter is referred back to the Minister for re-evaluation and reassessment on the basis that the Appellant ought not to be subjected to the imposition of a gross negligence penalty pursuant to subsection 163(2) of the Act. All other aspects of the appeal with respect to the charitable donations are dismissed.
+[26]In computing income for the 2011 taxation year, the Appellant reported gross business income of $67,588.00. The reported cost of goods sold was in the amount of $48,317.33 for a gross profit of $19,270.67. He also reported total business expenses in the amount of $65,972.21, which resulted in a claimed business loss of $46,234.52.
+[27]The Appellant and a colleague, Mr. Chris Nsoedo, decided to go into business together. Their plan was to buy used clothing in bulk, sort it and export it to Africa where the clothing was very much needed and could be sold at considerable profit. However, this was a very high-risk adventure.
+[28]Initially, the Appellant and Mr. Nsoedo were to invest $9,000 each and they were to be equal partners. Mr. Nsoedo was having difficulties in securing funds to invest and so the business relationship changed from one of equal partners to one where the Appellant had a 99% interest and Mr. Nsoedo only had a 1% interest. However, Mr. Nsoedo was kept on because he knew how things worked in Nigeria, the target market.
+[29]The enterprise was registered in Ontario as a registered partnership under the business name of Christim Associates (“Christim”). Partnership banking accounts were opened at the Royal Bank of Canada in the name of Christim for both US and Canadian currencies. Christim decided to market its product through a consignee who operated in Nigeria. The Appellant and Nsoedo travelled to Nigeria in order to study the potential market there. The sum of $9,000 was used to purchase a bulk container load of used clothing. However, the supplier of this container was forced into liquidation and Christim was at risk of losing its investment. Rather than take a loss on its initial investment, Christim doubled down and invested an additional $7,000 in order to obtain the inventory remaining on the premises of this supplier. Christim also purchased another bulk container of used clothing from another supplier at a cost of $32,000. However, not all the inventory of clothing could be sold in Nigeria since some of the clothing was not suitable to the Nigerian climate. Therefore, Christim got another consignee to sell some of the clothing in Malawi where the clothing was better suited to that climate. With respect to both containers, what Christim bought was not what was expected in terms of quality and quantity and simply was not worth what Christim paid for it. Two containers of used clothing were shipped overseas to be sold in Nigeria and Malawi. Once in Africa, additional expenses had to be paid to government officials and to un-named others for customs clearing, warehousing, demurrage, and to bring the product to market.
+[30]The business venture was never profitable. It was shut down in 2012.
+[31]The Appellant has filed a number of documents in support of his contention that he was indeed carrying on a business and that his business suffered financial losses. Exhibit A-3 is comprised of the following:
+Business Losses
+1)Master Business License dated December 7, 2010 issued by the Government of Ontario registering the business name of Christim Associates.
+2)Minutes of partners meeting held on January 2, 2011.
+3)Partnership Agreement dated January 3, 2011 between Christim as consignor, and Mr. Nwose Ambrose Chukwualuka of Nigeria as agent and consignee.
+4)Partnership agreement dated January 3, 2011 between Christim as consignor and Mr. Peter Chkwu of Malawi as agent and consignee.
+5)Packing list dated December 13, 2010 detailing the contents of a shipping container.
+6)Form T2125, Statement of Business or Professional Activities, showing profit and loss for the 2011 taxation year.
+7)Invoice dated February 24, 2012 from, Comet May Industrial Ltd. (“Comet”) of Nigeria regarding the shipment and sale of a container of used clothing indicating itemized expenses of $34,213.13.
+8)Invoice dated February 28th 2012 from Trinity Holdings (“Trinity”) from Malawi regarding the shipment and sale of a container of used clothing indicating itemized expenses of $24,138.26.
+9)Invoice dated March 1, 2011 from ABN Exports Inc. from Mississauga Ontario regarding the purchase of used clothing for $16,209.78.
+10)Invoice from ACMS Export Inc. dated March 1, 2011 regarding purchase of 450 bales of used clothing for $32,000.
+11)Invoice from Alphatec Business Operations Inc. (“Alphatec”) dated March 22, 2011 in the amount of $6,500 representing the cost of shipping a container to Nigeria.
+12)Invoice from Alphatec dated May 3, 2011 in the amount of $5,725 representing the cost of shipping a container to Malawi.
+13)Business Account Statements in US funds from the Royal Bank of Canada regarding Christim together with copies of cancelled checks from March 4, 2011 to July 6, 2011.
+14)Business Account Statements in Canadian funds from the Royal Bank of Canada regarding Christim together with copies of cancelled checks from February 17, 2011 to July 6, 2011.
+[32]The Appellant also providedhis personal bank account statements, his personal line of credit statements and his credit card statements.
+[33]The Respondent argues that the Appellant is not entitled to deduct any of the claimed business losses of $46,234 from his personal income in the 2011 taxation year. The Respondent argues that the Appellant did not have a source of business income in 2011 as he has not demonstrated that he operated his venture with sufficient commerciality. If it is found that the Appellant was operating a business, then the Respondent argues that he has not shown that the claimed expenses were legitimate business expenses and that there is insufficient source documentation to support his claimed business expenses.
+[34]Was the Appellant operating a business? Resort must be had to the leading case of the Supreme Court of Canada inStewart v. Canada, 2002 SCC 46 (CanLII), for guidance. In that case, the Court posited a two-stage test to determine if an activity amounted to a business enterprise. The Court stated the following:
+50. It is clear that in order to apply s. 9 [which deals with income and losses from a business or property], the taxpayer must first determine whether he or she has a source of either business or property income. As has been pointed out, a commercial activity which falls short of being a business, may nevertheless be a source of property income. As well, it is clear that some taxpayer endeavours are neither businesses, nor sources of property income, but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+(ii) If it is not a personal endeavour, is the source of the income a business or property?
+The first stage of the test assesses the general question of whether or not a source of income exists; the second stage categorizes the source as either business or property.
+51. Equating “source of income” with an activity undertaken “in pursuit of profit” accords with the traditional common law definition of “business”, i.e., “anything which occupies the time and attention and labour of a man for the purpose of profit”: … As well, business income is generally distinguished from property income on the basis that a business requires an additional level of taxpayer activity: … As such, it is logical to conclude that an activity undertaken in pursuit of profit, regardless of the level of taxpayer activity, will be either a business or property source of income.
+52. The purpose of this first stage of the test is simply to distinguish between commercial and personal activities, … [W]here the nature of a taxpayer’s venture contains elements which suggest that it could be considered a hobby or other personal pursuit, but the venture is undertaken in a sufficiently commercial manner, the venture will be considered a source of income for the purposes of the Act.
+53. … [This] “pursuit of profit” source test will only require analysis in situations where there is some personal or hobby element to the activity in question. … Where the nature of an activity is clearly commercial, there is no need to analyze the taxpayer’s business decisions. Such endeavours necessarily involve the pursuit of profit. As such, a source of income, by definition, exists, and there is no need to take the inquiry any further.
+54. … Thus, in expanded form, the first stage of the above test can be restated as follows: “Does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?” This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+[35]On considering the testimony of the Appellant as well as all of the documents provided by him and the activity of the partnership banking accounts, I come to the conclusion that the activity carried on by the Appellant was not a personal endeavour. I am satisfied that the Appellant’s predominant intention was to make a profit from this activity and he made efforts to carry out his intention in accordance with objective standards of businesslike behaviour. In hindsight, he may not have demonstrated the best business acumen and he may not have made the best business decisions but it is not up to this Court to second-guess his business judgment.
+[36]Having decided that Christim was carrying on a business activity, I now have to determine whether the claimed expenses are properly deductible for tax purposes.
+[37]Before analyzing the deductibility of the expenditures that are in dispute, it would be helpful to review some of the legal principles that may limit the deductibility of expenses. It is common knowledge that, in computing the income of a taxpayer from a business:
+a) paragraph 18(1)(a) of the Act precludes the deduction of an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business;
+b) paragraph 18(1)(h) of the Act precludes the deduction of many personal or living expenses of the taxpayer;
+c) section 67 of the Act precludes the deduction of an otherwise deductible outlay or expense, except to the extent that the outlay or expense was reasonable in the circumstances.
+[38]In addition the burden of proving that any disputed expense is properly deductible lies upon the Appellant. In a self-assessing and self-reporting tax system such as exists in Canada, the taxpayer must provide the evidence necessary to substantiate any claimed deductible expenditures on the balance of probabilities. This evidence must amount to more than mere assertion. There must be credible and reliable documentary evidence that corroborates the expenditures being claimed. To that end, proper record keeping is a must. The Act recognizes this since section 230 of the Act provides that a person carrying on a business is required to keep records and books of account. Section 230 of the Act provides in part:
+Records and books
+230 (1) Every person carrying on business and every person who is required, by or pursuant to this Act, to pay or collect taxes or other amounts shall keep records and books of account (including an annual inventory kept in prescribed manner) at the person’s place of business or residence in Canada or at such other place as may be designated by the Minister, in such form and containing such information as will enable the taxes payable under this Act or the taxes or other amounts that should have been deducted, withheld or collected to be determined.
+…
+Limitation period for keeping records, etc.
+(4) Every person required by this section to keep records and books of account shall retain
+(a) the records and books of account referred to in this section in respect of which a period is prescribed, together with every account and voucher necessary to verify the information contained therein, for such period as is prescribed; and
+(b) all other records and books of account referred to in this section, together with every account and voucher necessary to verify the information contained therein, until the expiration of six years from the end of the last taxation year to which the records and books of account relate.
+[39]Therefore, there is a positive duty on a taxpayer to keep all records and books of account, and I would also suggest all contracts, accounting ledgers, bank statements, cheques, vouchers, invoices, receipts, explanatory letters and emails, and any and all other documents that contain such information as will enable the taxes payable on income to be determined. The absence of adequate documentation will tell against a taxpayer.
+[40]In the case of Njenga v. Canada, [1996] F.C.J. No. 1218, Justice McDonald of the Federal Court of Appeal put this succinctly as follows at paragraph 3:
+The income tax system is based on self monitoring. As a public policy matter the burden of proof of deductions and claims properly rests with the taxpayer. The Tax Court Judge held that persons such as the Appellant must maintain and have available detailed information and documentation in support of the claims they make. We agree with that finding. Ms. Njenga as the Taxpayer is responsible for documenting her own personal affairs in a reasonable manner. Self written receipts and assertion without proof are not sufficient.
+[41]According to the Appellant, the documents that he produced in Exhibit A-3 constitute practically the entirety of the business records before the Court in support of his claimed business expenditures. It is his evidence that the information used to draw up his Statement of Business or Professional Activities (Form T2125) was gleaned primarily from two documents, the Comet invoice regarding Nigeria and the Trinity invoice regarding Malawi. There are no third‑party source documents to show how any amounts listed therein were determined or who they were paid to.
+[42]The Appellant claims that copies of source documents containing all the information from Nigeria and Malawi were stored on a computer flash-drive that was destroyed by his son while the Appellant was working on his computer with his son sitting on his lap. However, the Appellant did not obtain or request any replacement documentation from any independent sources such as his agents/consignees in Nigeria and Malawi. The Appellant states that these source documents are not his but rather belong to his agents/consignees in Africa. With respect, that assertion only serves as an excuse to avoid the responsibility of keeping adequate records. Such documentation was necessary to prove the existence of, the amount and the reasonableness of the claimed expenditures. The Appellant takes the position that all the information that is required can be obtained by simply contacting people in Nigeria. That may be true but the burden of so doing does not repose upon the CRA, or the Court or anybody else other than the Appellant.
+[43]One would generally expect an export business to produce considerably more of a paper record than what has been provided by the Appellant to this Court, particularly when run by someone who understands the need to produce documentation in order to make tax claims in Canada. What is striking in this case is that we do not have a general ledger for the business, there is no evidence of an effort of ongoing accounting of the money coming in and out of the business. The Appellant consistently pointed to the bank statements that he provided to the Court; however, they are incomplete and provide only for the first half of 2011. Although the bank statements do indicate some activity, there is no clear indication of where the money is coming from and where it’s going. When asked to source the expenses claimed by the Appellant, he points to his bank statements and essentially invites the Court to find the answers within those documents. It is not the function of this Court to act as a forensic accountant. It is up to the Appellant to satisfy the Court that expenses were incurred and accounted for.
+[44]Nonetheless, the Appellant was carrying on a business and he did incur some expenses that are properly deductible. The Respondent concedes that if it is found that the Appellant did carry on a business, then the cost of shipping totalling $12,225 (see Exhibit A-3: Alphatec invoice dated March 22, 2011 for $6,500 and Alphatec invoice dated May 3, 2011 for $5,725) would be a proper business deduction.
+[45]I am also willing to allow other deductions as discussed below.
+[46]The Appellant’s Statement of Business or Professional Activities (Form T2125) filed with his 2011 tax return shows total business expenses of $65,972.21 for a net business loss of $46,701.54. Details of total business expenses are as follows:
+Interest
+$4,502.63
+Management and administration fees
+$1,351.76
+Rent
+$3,510.00
+Salaries, wages and benefits
+$1,798.69
+Travel
+$3,118.19
+Custom clearing, demurrage, NBL, offloading, keys, sorting, and miscellaneous
+$51,690.94
+Total
+$65,972.21
+Interest
+[47]The Appellant is claiming interest charges of $4,502.63. It should be a simple matter to go through the banking records and determine how and when the interest charges were incurred. An examination of Christim’s bank records does not disclose how much money Christim borrowed, from whom, the rate of interest charged, the schedule of payments or when the interest charges were paid. The Appellant claims that he borrowed money on his personal line of credit. An examination of his personal bank records indicate that he paid interest on his line of credit for 2011 in the amount of $2.295.19.
+[48]On the question of interest expenses, I am willing to give the Appellant the benefit of the doubt and I accept the claimed interest expenses of $2,295.19.
+[49]The Appellant claims expenses of $1,351.76 under the heading of Management and Administration Fees. These management and administration fees really are commissions at the rate of 2% of sales paid to Trinity and Comet. These were paid in accordance with the partnership agreements that were contracted with the consignees. These commissions are clearly indicated on the invoices from Comet May and Trinity that are part of Exhibit A-3.
+[50]I accept the claimed Management and Administration Fees expenses of $1,351.76.
+[51]The Appellant is claiming rental expenses in the amount of $3,510. It has not been established to my satisfaction what premises were being rented, where the premises were located, or for what purpose. There is no evidence of any rental agreement. An examination of banking records does not support the contention that this amount of rental expenses was in fact paid. The total amount claimed for rent on the Trinity and Comet invoices do not add up to the amount claimed. The Appellant claims that something else must have been added in but he cannot say what that was. His answers concerning the details of this additional unaccounted for expense are vague, uncertain and unsupported by any documentation.
+[52]I reject the claimed rental expenses.
+[53]The Appellant claims expenses on account of salaries, wages and benefits in the amount of $1,798.69. With respect to Nigeria, these expenses appear on the Comet invoice as two items; Sales Boy expenses amounting to $342.44, and 2nd Sales Boy expenses amounting to $406.25. In Malawi, the Trinity invoice shows an item of Salary for a sales lady in the amount of $1,050 for a total of $1,798.69. We of course have no idea who was hired to do this work in Nigeria and Malawi. However, I do not doubt that some labour was hired and that in those countries casual labour is very likely paid for in cash and I can appreciate that it might be unusual to ask for a receipt in such circumstances.
+[54]I accept the claimed expenses of $1,798.69 as a valid business.
+[55]The Appellant claims travel expenses in the amount of $3,118.19. It is my understanding that this is in relation to motor vehicle expenses for fuel, maintenance and repairs, and insurance. The Appellant has provided copies of invoices in support of maintenance and repairs expenses (see Exhibit A-5) from January 29, 2011 to August 27, 2011 totalling $2,338.38 but not for insurance or fuel. He does not have any vehicle logs showing the distance travelled for business as opposed to the distance travelled for personal reasons. Thus we do not know what proportion of these claimed expenses are properly deductible for tax purposes. It is up to the Appellant to establish this. The Appellant also indicated that this may very well have included the cost of travelling to Nigeria but he has not provided any supporting documentation such as airline tickets or invoices.
+[56]I reject this claimed expenditure of $3,118.19 for travel expenses.
+[57]The Appellant claims business expenses totalling $51,690.94 under this heading. The source documents that are relied upon in support of these claimed expenses are the two invoices from Comet and Trinity. The Trinity invoice shows a line item of $20,000 for Clearing Costs. The Comet invoice shows $29,375 for Clearing, $687.50 for Demurrage, $625.00 for NBL, $237.50 for Off-loading, $12.50 for Key, $188.44 for Sorting and $235 for Balance of 1st deposit. Not one of these expenditures is supported by any source document.Indeed, when it comes to source documents from the Nigerian or Malawian governments for customs clearing, I am left with the clear impression that none exist since the goods being marketed by the Appellant in Africa were considered to be contraband.
+[58]This claimed expenditure of $51,690.94 for Custom Clearing, Demurrage, NBL, Offloading, Keys, Sorting and Miscellaneous is rejected.
+[59]In summary, with respect to the claimed business deductions, the appeal is allowed in part and the matter is referred back to the Minister for re-evaluation and re-assessment on the basis that the following expenditures are properly deductible from income:
+Management and Administration Fees
+Rent
+Salaries, Wages and Benefits
+Travel
+Custom Clearing, Demurrage, NBL, Offloading, Keys, Sorting, and Miscellaneous
+Shipping
+$12,225.00
+Interest
+$2,295.19
+Management & Administration Fees
+$1,351.76
+Salaries, Wages and Benefits
+$1,798.69
+Total
+$17,670.64
+[60]In all other respects, the appeal is dismissed.
+[61]In conclusion, the appeal is allowed in part and the matter is referred back to the Minister for re-evaluation and reassessment on the basis that:
+a.With respect to the appeal regarding net rental losses, the Appellant is entitled to claim net rental losses for the taxation year amounting to $1,842.
+b.With respect to the appeal regarding charitable donations, the Respondent concedes that this is not a proper case for the imposition of the gross negligence penalties imposed pursuant to section 163(2) of the Act and therefore the Appellant is not liable for these penalties.
+c.With respect to the appeal regarding claimed business losses, this Court determines that the Appellant was carrying on business during the 2011 taxation year. It is further determined that the business income earned that year was gross profit of $19,270.67 net of the cost of sales. The Appellant has established allowable business expenses of $17,670.64. Since this would result in an increased assessment to the Appellant, the appeal is dismissed without costs.
+[63]These Reasons For Judgment are issued in substitution of the Reasons For Judgment dated February 16, 2018.
+Conclusion
+[62] In all other respects, the appeal is dismissed without costs.
+Signed at Kingston, Ontario this 20th day of March 2018.
+“Rommel G. Masse”
+Masse D.J.
+ADDENDUM TO REASONS FOR JUDGMENT
+Masse D.J.
+[1] Reasons For Judgment were issued in this matter on February 16, 2018. The appeal was allowed in part and referred back to the Minister for re-evaluation and reassessment: see Timothy Okafor v. The Queen, 2018 TCC 31.
+[2] The Respondent has brought a Motion pursuant to Sections 168 and 172 of the Tax Court of Canada Rules (General Procedure) requesting the Court to reconsider the terms of the judgment on the ground that some matter that should have been dealt with in the judgment has been overlooked or accidentally omitted. Recourse is being had to the General Procedure Rules since the Tax Court of Canada Rules (Informal Procedure) do not contain any similar provisions.
+[3] In computing income for the 2011 taxation year, the Appellant claimed net business losses amounting to $46,234.52. The Respondent seeks an amendment to the judgment and urges the Court to make a determination as to whether the Appellant earned any income from business in the 2011 taxation year and if so, to determine the amount of that income.
+[4] At the hearing of this matter, the Respondent argued that the Appellant was not operating a business and therefore had no business income. Hence, the Appellant’s claimed business losses were properly disallowed. The Appellant argued that he was indeed carrying on the business of exporting used clothing to Africa. The Appellant claimed to have earned income from this business and he suffered significant business losses. Paragraph 26 of the Reasons for Judgment summarize the Appellant’s claimed income and expenses for the taxation year. It reads:
+[26] In computing income for the 2011 taxation year, the Appellant reported gross business income of $67,588.00. The reported cost of goods sold was in the amount of $48,317.33 for a gross profit of $19,270.67. He also reported total business expenses in the amount of $65,972.21, which resulted in a claimed business loss of $46,234.52.
+[5] The Respondent took the position that there was no business and therefore no business income. The Court found that there was indeed a business. Although not specifically determining the amount of income earned, there was no reason to reject the Appellant’s position that he in fact earned gross business income of $67,588.00 or gross profit of $19,270.67 net of the cost of goods sold as reported in his tax return and I so find.
+[6] The Appellant claimed business expenses amounting to $65,972.21 which would result in business losses of $46,234.52 if allowed. On reviewing the entirety of the evidence, the Court found that the Appellant had only established $17,670.64 of business expenses (not business losses).
+[7] In the ordinary course of computing income, these business losses of $17,670.67 would be deducted from the claimed gross profits of $19,270.67 resulting in a positive amount of net business income and thus an increase in the amount of tax payable. I agree with the Respondent that a taxpayer’s appeal cannot result in an increased assessment. Consequently, even though the Appellant did achieve partial success, the matter should not have been referred back to the Minister for re-evaluation and reassessment since this would result in greater than assessed tax liability to the Appellant. The Appeal should simply have been dismissed.
+Conclusion
+[8] In conclusion, paragraph [61] c of the Reasons for Judgment issued on February 16, 2018, in this matter is amended to read as follows:
+With respect to the appeal regarding claimed business losses, this Court determines that the Appellant was carrying on business during the 2011 taxation year. It is further determined that the business income earned that year was gross profit of $19,270.67 net of the cost of sales. The Appellant has established allowable business expenses of $17,670.64. Since this would result in an increased assessment to the Appellant, the Appeal is dismissed without costs.
+[9] Judgment will issue accordingly.
+CITATION:
+2018 TCC 31
+COURT FILE NO.:
+2016-3153(IT)I
+STYLE OF CAUSE:
+TIMOTHY OKAFOR AND HER MAJESTY THE QUEEN
+PLACE AND DATES OF HEARING:
+Toronto, Ontario
+September 5 and November 22, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Rommel G. Masse, Deputy Judge
+DATE OF AMENDED JUDGMENT:
+March 20, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stephanie Hodge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

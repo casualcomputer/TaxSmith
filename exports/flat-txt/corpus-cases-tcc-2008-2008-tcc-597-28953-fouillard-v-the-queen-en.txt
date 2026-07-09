@@ -1,0 +1,106 @@
+Title: Fouillard v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28953/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-597-28953-fouillard-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-11-05
+
+# Fouillard v. The Queen
+
+- Citation: 2008 TCC 597
+- Decision date: 2008-11-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1393, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fouillard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-05
+Neutral citation
+2008 TCC 597
+File numbers
+2008-1610(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008TCC597
+Date: 20081105
+Docket: 2008-1610(IT)I
+BETWEEN:
+JULIETTE MARIE FOUILLARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on September 10, 2008 in Winnipeg, Manitoba.)
+Beaubier, D.J.
+[1] The witnesses to this appeal pursuant to the informal procedure were heard at Thompson, Manitoba on September 8, 2008. The Appellant testified and called her husband Armand Pitre to testify. The Respondent called the Appellant’s former husband Robert Boland, the father of the child Ross, to testify.
+[2] The questions in dispute are set out in paragraphs 13 to 16 inclusive in the Reply to the Notice of Appeal. They read:
+13. In redetermining the Appellant’s entitlement to the CCTB and NCBS for the 2003, 2004 and 2005 base years the Minister made the following assumptions of fact:
+(a) the Appellant is the mother of three children, Olivia whose date of birth was December 28, 1988, Dominique whose date of birth was April 15, 1990 and Ross whose date of birth was June 17, 1993;
+(b) the Appellant was the parent who primarily fulfilled the responsibility for the care and upbringing of Olivia and Dominique;
+(c) Ross’s father is Robert Boland;
+(d) the Appellant and Robert Boland separated in 2000 and have lived separate and apart since them;
+(e) Ross lived primarily with his father from July 2003 to March 2007;
+(f) the Appellant was not the person who primarily fulfilled the responsibility for the care and upbringing of Ross from July 2003 to March 2007;
+(g) the Appellant’s family income for the 2003, 2004 and 2005 base taxation years was as follows:
+2003 $ 7,692.00
+2004 $18,988.00
+2005 $17,709.00
+B. ISSUE TO BE DECIDED
+14. The issue to be decided is whether the Minister properly calculated the Appellant’s entitlement to the CCTB and NCBS in respect of Ross for the 2003, 2004 and 2005 base taxation years.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+15. He relies on subsections 248(1) and sections, 122.6, 122.61 and 122.62 of the Act and on section 6302 of the Income Tax Regulations as amended for the 2003, 2004 and 2005 taxation years.
+16. He submits that the Minister properly determined that the Appellant was not entitled to the CCTB in respect of Ross for the periods July 2004 to March 2007 as the Appellant was not the “eligible individual” as defined in section 122.6 of the Act. The Minister properly requested that the Appellant repay CCTB and NCBS overpayments for the 2003, 2004 and 2005 base taxation years.
+[3] Assumptions 13(e) and (f) are the subject matter of the case. The remaining assumptions were either confirmed by the evidence, or were not refuted.
+[4] Ultimately, the question before the Court turns on the testimony of Robert and Juliette. Using the factors set out in Regulation 6302, the Court finds:
+6302. For the purposes of paragraph (h) of the definition “eligible individual” in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+Ross went back and forth between his parents who had an “equal shared custody” Order of the Court dated December 18, 2003 (Exhibit A-1, Item A). That Order continued in force until March of 2008 when sole custody of Ross was awarded to Juliette. The Appellant is a substitute teacher; Mr. Boland is a college instructor and at times, when Ross was interested in sports, was a hockey and soccer coach. Ross went back and forth between their homes, depending on circumstances and seasons, but the Court finds that each parent supervised his activities and needs and maintained a secure environment for him. The Appellant had custody of Ross’s two siblings. Mr. Boland had a much larger income than the Appellant. Mr. Boland coached in Ross’s sports and was more involved in them, provided more equipment and paid more fees in Ross’s behalf for his various activities. However, respecting Regulation 6302 (a) and (b), they were equal.
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+Mr. Boland took Ross to the dentist; Mrs. Fouillard took Ross to the doctor. Mr. Boland appears to have had dental insurance covering Ross. (See Exhibit R-3).
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+For reasons already described, and the fact that Mr. Boland had more money to spend, Mr. Boland was more involved in Ross’s athletic activities. But in respect to Ross’s education and general recreation, the Court finds that the two were equally but separately involved.
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant;
+The parents were equal in these aspects of Ross’s upbringing in the period in question. Neither complained of the other or gave explicit evidence about this. Mr. Boland paid for Ross to attend Bible Camp in the summer, but the Court regards this as a function of Mr. Boland’s superior income, rather than an excess of guidance for Ross over that of the Appellant.
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+The Court Order quoted granting divided custody (Exhibit A-1, item A) covers the period in question. On that basis and on the evidence then at hand, Ross’s parents shared the Child Tax Credit.
+[5] The Appellant bears the onus of proof in a tax appeal. However, the definition of “eligible individual” in Section 122.6, paragraph (f) provides that the female parent is presumed to be the parent of a qualified dependant where that dependant resides with her. Thus, there are pluses and minuses on the factors quoted. But another factor is that Ross’s only siblings, his sisters, resided with the Appellant. It is an important family factor in a separation or divorce because in a separation or divorce, the children together become an important family unit. That out-balances any minor pluses that might assist Mr. Boland. While money was not readily available to the Appellant and the living conditions at her residence were more crowded and Ross was a boy and so had different friends than his sisters, his sisters were an important, although unlisted, factor in what remained of any family unit for Ross.
+[6] The appeal is allowed and this matter is referred to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+[7] The Appellant had to travel from The Pas, Manitoba to Thompson, about a four-hour drive, to present her case at 9:30 am. She is awarded a lump sum of $300 on account of out-of-pocket disbursements.
+Signed at Saskatchewan, Saskatoon, this 5th day of November 2008.
+“D.W. Beaubier”
+Beaubier D.J.
+CITATION: 2008TCC597
+COURT FILE NO.: 2008-1610(IT)I
+STYLE OF CAUSE: JULIETTE MARIE FOUILLARD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Thompson, Manitoba and
+Winnipeg Manitoba
+DATE OF HEARING: September 8, 2008 and
+September 10, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: September 10, 2008
+DATE OF WRITTEN REASONS: November 5, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Melissa Danish
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

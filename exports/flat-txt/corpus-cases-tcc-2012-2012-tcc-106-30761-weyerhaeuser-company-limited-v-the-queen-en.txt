@@ -1,0 +1,287 @@
+Title: Weyerhaeuser Company Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30761/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-106-30761-weyerhaeuser-company-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-03-30
+
+# Weyerhaeuser Company Limited v. The Queen
+
+- Citation: 2012 TCC 106
+- Decision date: 2012-03-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7498, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Weyerhaeuser Company Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-03-30
+Neutral citation
+2012 TCC 106
+File numbers
+2007-1055(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1055(IT)G
+BETWEEN:
+WEYERHAEUSER COMPANY LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+HER MAJESTY THE QUEEN IN RIGHT OF THE
+PROVINCE OF BRITISH COLUMBIA
+Intervenor.
+____________________________________________________________________
+Appeal heard on December 15, 2010,
+at Vancouver, British Columbia
+By: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Wendy King
+Counsel for the Respondent:
+Counsel for the Intervenor:
+David Jacyk
+Andrew Majawa
+David Poore
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal from the reassessment made pursuant to the Income Tax Act for the 1999 taxation year is dismissed with costs to the Respondent on a party and party basis.
+This Amended Order is issued in substitution of the Order dated March 30, 2012.
+Signed at Vancouver, British Columbia, this 26th day of April, 2012.
+"B. Paris"
+Paris J.
+Citation: 2012 TCC 106
+Date: 20120330
+Docket: 2007-1055(IT)G
+BETWEEN:
+WEYERHAEUSER COMPANY LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+HER MAJESTY THE QUEEN IN RIGHT OF THE
+PROVINCE OF BRITISH COLUMBIA
+Intervenor.
+REASONS FOR JUDGMENT
+Paris J.
+[1] The issue in this case is whether gains made on the disposition of saw mills and real estate should be included in the Appellant’s “income from logging operations in a province” for the purpose of calculating the logging tax credit found at s. 127(1) of the Income Tax Act[1] (“ITA”). For the reasons that follow, I conclude that the gains should not be so included.
+Introduction
+[2] The Appellant is an international integrated forest products company with its head office in British Columbia. It is a successor by amalgamation to Weyerhaeuser Canada Limited. The transactions which give rise to the reassessment under appeal were carried out by Weyerhaeuser Canada, which I will refer to as Weyerhaeuser in these reasons.
+[3] In 1999, Weyerhaeuser disposed of certain capital assets in B.C. and Ontario. Its taxable capital gains less the allowable capital losses on the dispositions amounted to $504,215 (the “Gain”).
+[4] The British Columbia Minister of Revenue determined that the Gain was subject to tax under the B.C. Logging Tax Act[2] (“LTA”) as “income derived from logging operations” as defined in the LTA.
+[5] Subsection 127(1) of the ITA provides a credit against tax payable under Part I of the ITA for a portion of any tax paid by a taxpayer to a province in respect of “income from logging operations in the province” as defined in the Income Tax Regulations[3] ("Regulations") This is referred to as the logging tax credit.
+[6] The Minister of National Revenue determined that the Gain was not “income from logging operations in the province” and therefore that the B.C. logging tax paid by Weyerhaeuser on the Gain did not give rise to a federal logging tax credit.
+[7] The definition of “income from logging operations in the province” in the Regulations is substantially similar to the definition of “income derived from logging operations” in the LTA. It appears that there has been a general understanding between the tax authorities at the two levels of government that those definitions should be interpreted consistently across the two statutes. In the event of an inconsistent interpretation, a taxpayer would be exposed to taxation under both the LTA and the ITA on the same income.
+[8] The Province of British Columbia obtained intervenor status in this appeal because of its interest in obtaining a judicial decision whether gains from the disposition of capital property are “income from logging operations in the province” under the ITA. The Province appears to accept that the interpretation given ultimately in these proceedings will determine the meaning of the phrase “income derived from logging operations” in the provincial legislation. Counsel for the Intervenor recognized, however, that the task before this Court is the interpretation of the federal legislation alone.
+[9] The issue in this appeal, therefore, is whether or not Weyerhaeuser is entitled to the logging tax credit in respect of the tax paid under the LTA on the Gain. This will turn on whether the Gain falls within the definition of “income from logging operations in the province” in the Regulations.
+Facts
+[10] The facts relating to the disposition of the assets are straightforward and were largely agreed to by the parties. A Statement of Agreed Facts and a Joint Book of Documents were filed at the hearing.
+[11] Two of the assets that Weyerhaeuser disposed of in 1999 were sawmills, one in Merritt, B.C. and one in Lumby, B.C. Weyerhaeuser sold the sawmills because it was no longer economically viable to operate them. They were disposed of as surplus assets. The decision to close the mills was made as part of Weyerhaeuser’s overall business plan of maximizing revenues.
+[12] Weyerhaeuser began winding down operations at the Merritt sawmill in October 1998, and it was closed in February 1999. Weyerhaeuser subsequently sold the mill, realizing a taxable capital gain of $469,896.
+[13] The decision to discontinue operation of the Lumby sawmill was also made in October, 1998. The property was sold in two transactions in 1999, which resulted in a total taxable capital gain to Weyerhaeuser of $71,706.
+[14] The third asset disposed of by Weyerhaeuser in 1999 was some housing in Ear Falls, Ontario. Weyerhaeuser originally acquired the housing in 1998 as part of its purchase of the Dryden Pulp and Paper Mill. Dryden had used it to provide accommodation for managers at its Ear Falls operation. Weyerhaeuser did not normally provide housing to its employees and therefore, if it had been given the choice, Weyerhaeuser would have excluded it from the overall purchase.
+[15] Weyerhaeuser disposed of the Ear Falls housing in 1999. This resulted in an allowable capital loss of $37,387.
+[16] There was disagreement between the parties as to whether Weyerhaeuser had used the housing in its business at any point before it was sold in 1999. The Appellant’s witness, Ross Parker, a retired Weyerhaeuser manager, testified that Weyerhaeuser kept the Dryden employees on after the purchase and that the managers continued to live in the company housing after Weyerhaeuser took over. His testimony was not seriously challenged on cross-examination and I accept that Weyerhaeuser used the property in its business prior to the disposition.
+[17] The net taxable capital gains from the sale of the two mills less the allowable capital loss from the sale of the Ear Falls property, was $504,215.
+[18] When Weyerhaeuser filed its tax returns for its 1999 taxation year, it did not include the Gain in either its “income derived from logging operations” for the purposes of the LTA or in its “income from logging operations” for the purpose of calculating its federal logging tax credit.
+[19] This manner of reporting was in accordance with the long-standing assessing practice of the both the federal and provincial tax authorities with respect to capital gains from the disposition of surplus assets.
+[20] In 2005, the B.C. Minister of Revenue revised his assessing practice under the LTA respecting capital gains and determined that the gain realized by Weyerhaeuser in 1999 should be included its “income derived from logging operations”. The B.C. Minister of Revenue re-assessed Weyerhaeuser and increased the amount of logging tax payable for the 1999 taxation year.
+[21] This resulted in Weyerhaeuser’s “income derived from logging operations” assessed by B.C. to be higher than its “income from logging operations” determined for the purposes of the federal logging tax credit, and in tax being assessed on the Gains under the LTA with no corresponding tax credit allowed under the ITA.
+[22] The Minister of National Revenue subsequently reassessed Weyerhaeuser for its 1999 taxation year in respect of other matters not related to this appeal, and in its objection to that reassessment, Weyerhaeuser also sought to have its federal logging tax credit increased based on the increase to its provincial logging tax. The Minister refused the increase because he did not consider the Gain to be “income from logging operations”.
+[23] The Appellant contested both the federal and provincial reassessments. The federal reassessment was confirmed and gives rise to this appeal. I understand that the appeal from the provincial reassessment is being held in abeyance pending the outcome of these proceedings.
+Relevant Statutory Provisions
+[24] Subsection 127(1) of the ITA generally credits a taxpayer for 2/3 of the amount logging tax paid to a province on income from logging operations, up to a maximum of 6 2/3% of that income.[4]
+[25] Subsection 127(1) reads:
+127 (1) There may be deducted from the tax otherwise payable by a taxpayer under this Part for a taxation year an amount equal to the lesser of
+(a) 2/3 of any logging tax paid by the taxpayer to the government of a province in respect of income for the year from logging operations in the province, and
+(b) 6 2/3% of the taxpayer’s income for the year from logging operations in the province referred to in paragraph 127(1)(a),
+except that in no case shall the total of amounts in respect of all provinces that would otherwise be deductible under this subsection from the tax otherwise payable under this Part for the year by the taxpayer exceed 6 2/3% of the amount that would be the taxpayer’s taxable income for the year or taxable income earned in Canada for the year, as the case may be, if this Part were read without reference to paragraphs 60(b), 60(c) to 60(c.2), 60(i) and 60(v) and sections 62, 63 and 64.
+[26] According to subsection 127(2) of the ITA, the phrase “income for the year from logging operations in the province” has the meaning assigned by regulation. That definition is found in subsection 700(1) of the Regulations. “Income from logging operations” is defined as the aggregate of several amounts, which are determined under paragraphs 700(1)(a) to (d). I will reproduce subsection 700(1) and then proceed to summarize the amounts described in paragraphs (a) to (d).
+[27] Subsection 700(1) reads:
+700 (1) Except as provided in subsection (2), for the purposes of paragraph 127(2)(a) of the Act “income for the year from logging operations in the province” means the aggregate of
+(a) where standing timber is cut in the province by the taxpayer or logs cut from standing timber in the province are acquired by the taxpayer and the logs so obtained are sold by the taxpayer in the province before or on delivery to a sawmill, pulp or paper plant or other place for processing logs, the taxpayer’s income for the year from the sale, other than any portion thereof that was included in computing the taxpayer’s income from logging operations in the province for a previous year;
+(b) where standing timber in the province or the right to cut standing timber in the province is sold by the taxpayer, the taxpayer’s income for the year from the sale, other than any portion thereof that was included in computing the taxpayer’s income from logging operations in the province for a previous year;
+(c) where standing timber is cut in the province by the taxpayer or logs cut from standing timber in the province are acquired by the taxpayer, if the logs so obtained are
+(i) exported from the province and are sold by him prior to or on delivery to a sawmill, pulp or paper plant or other place for processing logs, or
+(ii) exported from Canada,
+the amount computed by deducting from the value, as determined by the province, of the logs so exported in the year, the aggregate of the costs of acquiring, cutting, transporting and selling the logs; and
+(d) where standing timber is cut in the province by the taxpayer or logs cut from standing timber in the province are acquired by the taxpayer, if the logs are processed by the taxpayer or by a person on his behalf in a sawmill, pulp or paper plant or other place for processing logs in Canada, the income of the taxpayer for the year from all sources minus the aggregate of
+(i) his income from sources other than logging operations carried on in Canada and other than the processing in Canada by him or on his behalf and sale by him of logs, timber and products produced therefrom,
+(ii) each amount included in the aggregate determined under this subsection by virtue of paragraph (a), (b) or (c), and
+(iii) an amount equal to eight per cent of the original cost to him of properties described in Schedule II used by him in the year in the processing of logs or products derived therefrom or, if the amount so determined is greater than 65 per cent of the income remaining after making the deductions under subparagraphs (i) and (ii), 65 per cent of the income so remaining or, if the amount so determined is less than 35 per cent of the income so remaining, 35 per cent of the income so remaining.
+[28] Paragraphs 700 (1)(a) and (c) include income earned by the taxpayer from the sale of logs that are cut in the province. Paragraph (a) refers to the sale of logs within the province, and paragraph (c) refers to the sale of logs that are exported from the province or from Canada.
+[29] Paragraph 700(1)(b) includes income earned by the taxpayer from the sale of standing timber or the right to cut standing timber in the province.
+[30] Paragraph 700(1)(d) deals with income earned by an integrated forest products company where, in addition to cutting logs or buying logs in the province, the taxpayer (or someone on its behalf) processes the logs in a sawmill, pulp and paper plant or other facility in Canada.
+[31] The amount included in income from logging operations pursuant to paragraph 700(1)(d) is determined in a somewhat roundabout fashion. Paragraph 700(1)(d) starts with the taxpayer’s income from all sources and then, broadly speaking, subtracts everything that is not income from logging operations, log processing or the sale of logs, timber and related products. Subparagraphs 700(1)(d)(i) to (iii) exclude the following amounts:
+- the taxpayer’s “income from sources other than logging operations carried on in Canada and other than the processing in Canada by him or on his behalf and sale by him of logs, timber and products produced therefrom ( subparagraph 700(1)(d)(i)),
+- any amounts already included in income from logging operations under paragraphs 700(1)(a), (b) and (c) (subparagraph 700(1)(d)(ii)); and
+- an investment allowance in respect of the original cost of log processing equipment (subparagraph 700(1)(d)(iii)) .
+[32] Both parties agree that since Weyerhaeuser was an integrated forest products company, paragraph 700(1)(d) of the Regulations is applicable. In particular, the question is whether the Gain on the disposition of surplus assets was income to Weyerhaeuser from logging operations carried on in Canada, or the processing and sale of logs, timber and products produced therefrom, as set out in subparagraph 700(1)(d)(i)
+Position of the parties
+Appellant
+[33] At the hearing, the Appellant’s counsel made no submissions and relied upon the arguments presented by counsel for the Intervenor.
+Intervenor
+[34] The Intervenor argues that the most plausible interpretation of s. 700(1)(d) is that it includes the Gain at issue. The Intervenor argues that the Gain should be considered income from a source that is logging operations or the processing and sale of logs, timber or products produced therefrom because taxable capital gains are income under section 3 of the ITA.
+[35] Accepting that capital gains are properly understood to be income from a source, the issue becomes whether the Gain in this case is income from a source that is logging operations or processing and sale.
+[36] The Intervenor argues that “logging operations” has a broader meaning than “logging business” and that “income from logging operations” captures more than “income from a logging business.” Rather, in determining whether income should be included under s. 700(1)(d), income from activities integral to logging operations should be included.
+[37] The Intervenor submits that the dispositions in issue were an integral part of Weyerhaeuser’s overall logging operations. The dispositions were part of its overall business plan of minimizing costs and increasing the efficiency of its overall logging operations.
+[38] The Intervenor also argues that its interpretation is consistent with the history of the federal and provincial logging tax provisions.
+Respondent
+[39] The Respondent says that the plain and ordinary meaning of the words found in paragraph 700(1)(d) of the Regulations does not allow for the Gain to be included in income from logging operations. Rather, only income directly linked to ongoing logging or processing and sale activities falls within the scope of paragraph 700(1)(d).
+[40] The Respondent argues that it is not sufficient in this case that the Gain originate from the sale of assets previously used in Weyerhaeuser’s logging operations. The Gain in this case does not come from Weyerhaeuser’s carrying on of logging operations.
+[41] The Respondent also submits that this interpretation is consistent with the remainder of subsection 700(1) of the Regulations and with the ITA read as a whole. In particular, it respects the longstanding distinction within the ITA between income and capital.
+[42] The Respondent also argues that excluding the capital gains in this case from income from logging operations is consistent with the purpose of the provision. At the time Parliament enacted these provisions, Parliament could not have intended that capital gains such as those at issue would be included under s. 700(1)(d), as capital gains were not generally taxed until 1972.
+Analysis
+[43] The proper approach to the interpretation of tax statutes was set out by the Supreme Court of Canada in Canada Trustco Mortgage Co. v. Canada:[5]
+The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words plays a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+The Supreme Court also stated that the ITA “remains an instrument dominated by explicit provisions dictating specific consequences, inviting a largely textual interpretation.”[6]
+[44] In this case, it is necessary to interpret the following portion of paragraph 700(1)(d) of the Regulations:
+(d) … the income of the taxpayer for the year from all sources minus …
+(i) his income from sources other than logging operations carried on in Canada and other than the processing in Canada by him or on his behalf and sale by him of logs, timber and products produced therefrom,
+[45] In particular it is necessary to determine whether the sources of income described as “logging operations…and…the processing…and sale… of logs, timber and products produced therefrom” would include the taxable capital gains and the allowable capital loss that make up the Gain.
+Text
+[46] In this case, the calculation in paragraph 700(1)(d) begins by taking the taxpayer’s “income from all sources” and subtracts the amounts listed in subparagraphs (i) to (iv). The taxpayer’s income from all sources would clearly include capital gains, which are income from a source according to section 3 of the ITA: Schwartz v. Canada. [7]
+[47] However, it does not follow that “income” from the source described in subparagraph 700(1)(d)(i) (logging operations or processing… and sale) must include capital gains. The word “income” is used in different ways in the Act and can have different meanings. In Ludco Enterprises Ltd. v Canada, the Supreme Court of Canada was required to determine the meaning of “income” for the purposes of subparagraph 20(1)(c)(i) of the Act. The Court observed that:
+The Income Tax Act does not define the term “income”. The Act speaks of “net income”, “taxable income”, and income from different sources, but it neither identifies nor describes the legal characteristics of “income”; it only speaks of what is to be included or excluded from income. [8]
+[48] The word “income” in subparagraph 700(1)(d)(i) therefore will take its meaning from the context in which it is used.
+[49] I will first consider the words used to describe the named source in subparagraph 700(1)(d)(i). As the parties point out, the terms “logging operations” and “processing and sale” are not defined in the Regulations, and therefore it is necessary to consider their ordinary meaning.
+[50] I agree with the Respondent’s submission that the words “logging operations” and “processing… and sale of logs, timber and products produced therefrom” refer to ongoing activities that are carried on by a taxpayer. This is apparent from the following dictionary definitions of “logging”, “operation” “logging operation”, “process” and “processing”:
+Logging - the work of cutting and preparing forest timber.[9]
+“logging” - the felling, limbing, bucking and marking of trees, construction of logging roads, off-highway transportation of logs to a mill-pond or mill yard, log salvaging and reforestation.[10]
+“operation” - the process of operating or mode of action.[11]
+“operation” - the action or process or method of working or operating” and “the state of being active or functioning” and “an active process. [12]
+“logging operation” - the felling, cutting into logs, barking in the forest, cartage, piling, driving, loading and highway transportation of timber but not its processing outside the forest.[13]
+“process” - a course of action or proceeding, a series of stages in manufacture or some other operation.[14]
+“process” - the adjustment, alteration, assembly, manufacture, modification, production or repair of the goods.[15]
+[51] I find that, according to their ordinary meaning, the words “logging operations” denote the ongoing activity of physical cutting of trees into logs and transporting those logs and the words “processing and sale” connote an ongoing activity involving manufacturing or production and sale.
+[52] I consider it material as well that the words “logging operations” in subparagraph 700(1)(d)(i) are qualified by the words “carried on in Canada” which reinforces the notion that the logging operations involve ongoing activity.
+[53] Since “logging operations” and “processing and sale” all refer to ongoing activities carried on by a taxpayer, the source of income named in subparagraph 700(1)(d)(i) - logging operations or processing and sale of logs or timber products – appears to be equivalent to a business source of income, which arises from specific activities carried on by a taxpayer.
+[54] The Intervenor, however, argues that “logging operations” has a broader meaning than “logging business” and that income from logging operations” captures more than “income from a logging business” and relies on the decision in MacMillan Bloedel Limited v. The Queen[16] as authority for this proposition.
+[55] The issue in that case was whether the taxpayer, an integrated forestry company, had correctly included various kinds of interest income in its “income from logging operations in the province” for the purposes of the federal logging tax credit. The taxpayer had included the interest under subparagraph 700(1)(d)(i) of the Regulations.
+[56] Collier J. found some of the interest was income from logging operations, while other interest was not. The Intervenor submits that the Court took an expansive and practical approach to determining whether something is income from a source that is logging operations, effectively holding that “income from logging operations in the province” is not limited strictly to income arising from the sale of timber.
+[57] I find this case to be of very limited assistance. The Court does not at any point purport to interpret the words “income…from logging operations…and…processing…and sale”. Instead Collier J. evaluates each type of interest income on the basis of what it considered “logging operations… and … processing…and sale…” to entail, without any analysis. For example, in holding that interest earned on mortgages and advances made by the taxpayer to employees to assist with moving expenses was income from logging operations, the Court simply states that the amounts were “from a practical and business point of view, part of the plaintiff's logging operations”.
+[58] It is clear that the Court did not undertake a textual, contextual and purposive interpretation if the kind now mandated by recent Supreme Court cases including Canada Trustco.
+[59] Even if I were able to rely on this decision, it does not assist the Intervenor because the Court appears to have implicitly accepted that “income from logging operations” was limited to income from the taxpayer’s logging business. For example, in deciding that the interest on loans made to customers was income from the taxpayer’s logging operations, Collier J. said that the interest was “part and parcel of the plaintiff’s logging operations, and not some separate source of business income”[17] (my emphasis) and, in holding that four items of bank interest should be excluded from income from logging operations because there was no evidence as to how the amounts arose, Collier J. said:
+It is not enough to say, as I see it, the plaintiff was carrying on an integrated forest products business, and these items must have arisen out of that business. There must be something, factually, more than that. (emphasis added)[18]
+[60] Collier J.’s requirement of “something… more” may not be the most precise language, but he clearly held that to be “income from logging operations” an amount must bear a sufficient connection with an ongoing logging operation.
+[61] Both the Intervenor and the Respondent agree that ordinary meaning of “logging operations” and “processing and sale” would include any activities that are integral thereto. They both cite the decision of the Federal Court Trial Division in Echo Bay Mines Ltd. v. The Queen,[19] to this effect.
+[62] In Echo Bay Mines, the taxpayer was engaged in mining and processing silver. To protect itself against fluctuations in the price of silver it entered into silver hedging contracts. The taxpayer realized a gain on the settlement of the hedging contracts, and it included the gain in its “resource profits” under paragraph 1204(1)(b) of the Regulations for the purpose of determining its resource allowance deduction under paragraph 20(1)(v.1) of the ITA. “Resource profits” were defined as including “the amount… of the aggregate of… incomes… from the production in Canada of… metals or minerals…” The Minister excluded the gains from the taxpayer’s “resource profits” on the basis that the hedging contracts were not sufficiently integrated with production of silver by the taxpayer to be considered income from that production.
+[63] MacKay J. considered what was meant by “income … from production of metals…”, and determined that production must by necessity include sales of metals because without sales, no income would be produced. After making this finding, the Court went on to decide that the hedging contracts were interconnected with the sales of silver by the taxpayer and that they therefore formed an integral part of the production of silver by it.
+[64] The Court stated, at page 6447:
+…income from “production” may be generated by various activities provided those are found to be included in production activities. Production activities yield no income without sales. Activities reasonably interconnected with marketing the product, undertaken to assure its sale at a satisfactory price, to yield income, and hopefully a profit, are, in my view, activities that form an integral part of production which is to yield income and resource profits, with Regulation 1204((1)
+[65] The interpretation of the words “income…from production” given in Echo Bay Mines was adopted in this Court in 3850625 Canada Inc. v. The Queen where Woods J. said:
+The principle that flows from Echo Bay Mines is that production and processing income is not limited to revenues from the sale of mineral resources but it includes income from other activities that are integral to the production and processing activity. [20]
+[66] Insofar as this case is concerned, it seems to me indisputable that income from activities that are integral to logging or processing or sale of logs or timber products would be included in income from those activities. Integral simply means something that forms part of the whole. It is a question of fact whether an activity is integral to another activity. Can it be said that the disposition of surplus capital assets was an integral part of Weyerhaeuser’s logging operations or its processing and sale of logs and timber products?
+[67] The Respondent’s counsel states that “proceeds from the disposition of a capital property are the very antithesis of income earned from an ongoing activity” because the disposition of the capital assets used in logging operations makes it impossible for the operation to be ongoing and active. Furthermore, operations ceased at the sawmill properties the year before the gains from the dispositions of the properties were realized. Thus, there is no way to see the proceeds from their sale as income from ongoing activities.
+[68] The Intervenor says that, until 1998, the Merritt and Lumby mills formed an integral part of Weyerhaeuser’s integrated logging business, and that the decision to close the mills was made as part of its overall business plan of maximizing revenues. It was submitted that apart from business income, there is no type of income more clearly sourced from Weyerhaeuser’s integrated logging operations than the disposition of assets used in its business.
+[69] In my view, the disposition of the capital assets by Weyerhaeuser was not an integral part of its logging operations or an integral part of processing or selling the timber and related products. The disposition did not involve cutting or processing logs or the sale of timber products was outside the ongoing logging and processing and sale activities from which Weyerhaeuser was earning income. It was not done in the course of carrying on of the activity. The sale of the means by which the logging or processing operations were carried on does not form part of those operations. The sale took place after the assets were no longer being used in such activities.
+[70] Even if the sawmills had been operational when Weyerhaeuser sold them, the gain from their disposition would not arise from the carrying on of an activity but from Weyerhaeuser ceasing its activity at those mills.
+Context
+[71] Both parties directed my attention to paragraph 700(1)(b) of the Regulations, which they say includes capital gains realized by a taxpayer on the disposition of standing timber or of the right to cut standing timber. For ease of reference this provision is reproduced below:
+(b) where standing timber in the province or the right to cut standing timber in the province is sold by the taxpayer, the taxpayer’s income for the year from the sale, other than any portion thereof that was included in computing the taxpayer’s income from logging operations in the province for a previous year;
+[72] The parties rely on the decision of the Supreme Court of Canada in Tabor Creek Sawmills Ltd. v. British Columbia (Minister of Finance),[21] which held that a capital gain from the sale of a right to cut standing timber fell within the definition of “income derived from logging operations” in section 2 of the LTA. Paragraph (b) of that definition, as it read at the time, referred to “the net profit from the acquisition…and the sale of…the right to cut the standing timber”. The relevant portions of section 2 read:
+2. In this Act, unless the context otherwise requires...
+‘income derived from logging operations’ by a person in any taxation-year means ...
+(b) where standing timber in the Province, or the right to cut standing timber in the Province, is sold by the person in any manner, including on a stumpage or royalty basis, the net profit from the acquisition of the standing timber or the right to cut the standing timber, and the sale of the timber or the right to cut the standing timber.
+[73] The Supreme Court upheld the decision of the B.C Court of Appeal, which found that, based on the “clear and unequivocal language in s. 2(b)” the intent of that provision was to tax both capital and income receipts.[22]
+[74] Both counsel suggested that the reference in paragraph 700(1)(b) of the Regulations to income from the sale of standing timber or the right to cut standing timber would include capital gains realized by a taxpayer from such sales, on the authority of Tabor Creek Sawmills. Each counsel then set out how this was helpful to the position taken by his client.
+[75] I am not convinced, though, that Tabor Creek Sawmills is necessarily applicable. The language used in paragraph 700(1)(b) is different from the language of paragraph 2(b) of the LTA as it then read. The latter provision referred to “net profit” from the acquisition and sale of standing timber or the right to cut standing tmber. Paragraph 700(1)(b) refers to “income” from the sale. In the judgment of the B.C. Supreme Court decision in Tabor Creek Sawmills, Ruttan J. referred to the specific use of the words “net profit” in paragraph 2(b) of the LTA in relation to the sale of the right to cut standing timber saying:
+…Whether or not such sales are part of the normal business operation of the taxpayer, they are "logging operations" as defined in the Act and the net profit from such logging operations is income under this statute. It appears to me that the important word under the Logging Tax Act is not "income" but "profit." [23] (emphasis added)
+[76] Income and net profit are not synonymous. For this reason, I find that that the particular relevance of paragraph 700(1)(b) to the interpretation of subparagraph 700(1)(d)(i) has not been demonstrated.
+[77] If I am wrong in this regard, and if “income” from the sale of standing timber or a right to cut standing timber is intended to include capital gains from such dispositions, then I would agree with the Respondent that the specific inclusion of that “income” by means of paragraph 700(1)(b) would indicate that capital gains are not included in “income from logging operations or from processing or sale” by subparagraph 700(1)(d)(i).
+[78] Another contextual factor, however, provides support for the Respondent’s interpretation of subparagraph 700(1)(d)(i) in this case: the source concept of income that underpins the Act. As stated by this Court in Fortino v. The Queen, “segregation of income by source is the essence of the structure of the Canadian income tax system.” [24]
+[79] According to the source concept, income from each source is calculated separately, following rules applicable to the particular source, and capital gains are treated as a separate source of income. In Schwartz, the Supreme Court said at paragraph 20:
+Section 3 states the basic rules to be applied in determining a taxpayer's income for a given year and identifies, in para. (a), the five principal sources from which income can be generated: office, employment, business, property and capital gains. Subdivisions a, b and c of Division B of Part I contain specific provisions relating to the characterization of income as being from either office, employment, business, property or as constituting capital gains. [25]
+[80] As part of this scheme, capital gains are dealt with as a separate source of income distinct from the four enumerated sources under section 3, and capital gains are not included in income from any other source.
+[81] In subparagraph 700(1)(d)(i), “logging operations…and …processing…and sale (of timber products)” denote a source of income. Following the scheme of the Act, income from this source would be determined separately from income from other sources. It would be inconsistent with this scheme to include capital gains in income from a particular, identified source of income such as logging operations and processing and sale, unless the statutory provision contained clear language to this effect or unless it was otherwise apparent from the context of the provision. This conclusion is reinforced by the fact that capital gains do not arise under the Act from an ongoing activity but rather as a result of the disposition of property. In Principles of Canadian Income Tax Law, authors Hogg, Magee and Li note that capital gains “although included in income under section 3…are not income from a source in a traditional sense – rather, capital gains are income from the disposition of a source.”[26]
+Purpose
+[82] As instructed by the Supreme Court in Canada Trustco, I must also take into account the purpose of Parliament in enacting subparagraph 700(1)(d).
+[83] I agree with the Respondent that legislative intent must be that which existed at the time the provision was enacted. This concept is expressed in Sullivan on the Construction of Statutes, as follows:
+…the purpose of legislation is a historical fact… If the duty of the courts is to give effect to the actual intent of the legislature, it must attempt to reconstruct the original purpose(s) of the legislation…[27]
+[84] In R v. Big M Drug Mart Ltd., the Supreme Court rejected the possibility that legislation could have a shifting purpose. Per Dickson C.J.:
+Furthermore, the theory of a shifting purpose stands in stark contrast to fundamental notions developed in our law concerning the nature of "Parliamentary intention". Purpose is a function of the intent of those who drafted and enacted the legislation at the time, and not of any shifting variable. [28]
+[85] Section 700 of the Regulations was enacted in 1963 (P.C. 1963-1421, September 26, 1963, Canada Gazette, Part II, October 9, 1963). At the time of enactment, the wording of paragraph 700(1)(d) was substantially similar to the present version. Like the current version, the original version of paragraph 700(1)(d), referred to “income from all sources” and subparagraph 700(1)(d)(i) referred to “income from all sources other than logging operations…and…processing…and sale”.
+[86] The relevant portion of the original enactment read:
+700. (1) Except as provided in subsection (2) …“income for the year from logging operations in the province” means the aggregate of
+(d) where standing timber is cut in the province by the taxpayer or logs cut from standing timber in the province have been acquired by the taxpayer, if the logs are processed by the taxpayer, if the taxpayer operates a sawmill, pulp or paper plant or other place for processing logs in Canada, the income of the taxpayer for the year from all sources minus the aggregate of
+(i) his income from sources other than logging operations and other than the processing and sale by him of of logs, timber and products produced therefrom, …
+(underlining added)
+[87] The current version reads:
+700. 1) Except as provided in subsection (2)… "income for the year from logging operations in the province" means the aggregate of
+(d) where standing timber is cut in the province by the taxpayer or logs cut from standing timber in the province are acquired by the taxpayer, if the logs are processed by the taxpayer or by a person on his behalf in a sawmill, pulp or paper plant or other place for processing logs in Canada, the income of the taxpayer for the year from all sources minus the aggregate of
+(i) his income from sources other than logging operations carried on in Canada and other than the processing in Canada by him or on his behalf and sale by him of logs, timber and products produced therefrom, …
+(underlining added)
+[88] The Intervenor maintains that historically, the federal government intended to allocate taxing room over logging to the provinces. With the introduction of the taxation of capital gains in 1972, the amount of logging income available to be taxed was expanded. An interpretation of “income from logging operations” that excludes capital gains would mean that Parliament intended to reserve this new area of logging income for its own tax base. The Intervenor says that this interpretation runs counter to the historical development of the federal logging tax credit.
+[89] This argument cannot succeed for two reasons.
+[90] First, the history of section 127 of the ITA and section 700 of the Regulations shows that while Parliament always intended to allow relief for taxes imposed by a province on income from logging, the credit has always been subject to limitations.The intention to limit the amount of the credit is apparent. One such limitation is found in subsection 127(1) (and its predecessor section 41A) which restricts the credit to a maximum provincial logging tax rate of 6 2/3% of the taxpayer’s “income from logging operations”. Therefore, an increase to the provincial logging tax rate would not result in a corresponding increase in the amount of the federal logging tax credit available. Furthermore, Parliament has chosen to define “income from logging operations” for the purposes of the logging tax credit, in order to control the tax base on which the credit will be available. Therefore, it is apparent that Parliament did not intend to allocate all taxing room in respect of logging activities to the provinces.
+[91] Second, capital gains cannot be considered logging income as suggested by the Intervenor. As Krishna says, “there is an intuitive notion that the appreciation of capital is not what we normally consider “income.” [29] A capital gain derives from an increase in the capital value of an asset[30]. It does not result from any activity carried on by a taxpayer. Therefore, it cannot be said that with the advent of capital gains tax Parliament was taxing a “new area of logging income.” In my view, the Intervenor’s interpretation would result in an expansion of the base on which the federal logging tax credit is calculated by including gains that were never intended by Parliament to be part of the logging tax credit regime. If the Intervenor were correct, even gains from the sale of land that had become more valuable for residential or recreational use than as forest land would be considered “income from logging operations” despite the fact that the increase in value would have nothing to do with any logging or processing business activities carried on.
+[92] I agree with the Respondent’s submission concerning the purpose of subparagraph 700(1)(d)(i). I find that at the time Parliament enacted this provision, it did not intend that income from a source that was logging operations or processing and sale of logs or timber products would include capital gains because in 1963 capital gains were not a source of income under the ITA. Since purpose is a historical fact, the inclusion of capital gains as a source of income under the ITA in 1972 would not alter the purpose for which subparagraph 700(1)(d)(i) was enacted.
+Conclusion
+[93] I find that a textual, contextual and purposive interpretation of paragraph 700(1)(d) of the Income Tax Regulations leads to the conclusion that the Gains were not “income from logging operations in the province” and therefore tax paid under the LTA on those Gains does not qualify for the federal logging credit.
+[94] The appeal is therefore dismissed, with costs on a party and party basis to the Respondent.
+Signed at Ottawa, Canada, this 30th day of March 2012.
+"B. Paris"
+Paris J.
+CITATION: 2012 TCC 106
+COURT FILE NO.: 2007-1055(IT)G
+STYLE OF CAUSE: WEYERHAEUSER COMPANY LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: December 15, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: March 30, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Wendy King
+Counsel for the Respondent:
+Counsel for the Intervenor:
+David Jacyk
+Andrew Majawa
+David Poore
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Wendy King
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] RSC 1985, c 1 (5th Supp).
+[2] R.S.B.C. 1996, c. 277.
+[3] C.R.C., c. 945.
+[4]In B.C. The other 1/3 of the logging tax paid by a taxpayer under the LTA is credited against its provincial income tax payable: s. 19.1(2) of the British Columbia Income Tax Act. R.S.B.C. 1996, c. 215
+[5] [2005] 2 S.C.R. 601, para. 10
+[6] Canada Trustco, supra, at note 2, para. 13.
+[7] [1996] 1 S.C.R. 254, para. 20
+[8] [2001] 2 S.C.R. 1082, para. 57
+[9] The Canadian Oxford Dictionary, 1st ed.
+[10] Daphne A. Dukelow & Betsy Nuse, The Dictionary of Canadian Law, 2nd ed. (Scarborough: Carswell, 1995) at 696
+[11] Black’s Law Dictionary, 6th ed.
+[12] The Canadian Oxford Dictionary, 1st ed.
+[13] The Dictionary of Canadian Law, supra, at 696
+[14] The Canadian Oxford Dictionary, 1st ed.
+[15] The Dictionary of Canadian Law, supra, at 954.
+[16] 90 DTC 6219 (FCTD).
+[17] MacMillan Bloedel, supra, note 11 at 6222.
+[18] MacMillan Bloedel, supra, note 11 at 6222.
+[19] 92 DTC 6437.
+[20] 2010 TCC 104, para 18.
+[21] [1973] S.C.J. No. 17.
+[22][1972] B.C.J. No. 727 at paragraph 26, per Taggart, J.A.
+[23][1971] B.C.J. No. 85 at paragraph 13
+[24] 97 DTC 55, para 39.
+[25]Supra, at note 25, para. 20.
+[26]Peter W. Hogg, Joanne E. Magee & Jinyan Li, 6th ed. (Toronto: Carswell, 2006) at c. 4.4 (a)
+[27] Ruth Sullivan, 5th ed. (Markham: LexisNexis Canada Inc., 2008) at 278
+[28] [1985] 1 S.C.R. 295, para. 91.
+[29] Supra, note 26 at 430
+[30] Krishna, The Fundamentals of Canadian Income Tax, 8th ed. at 431

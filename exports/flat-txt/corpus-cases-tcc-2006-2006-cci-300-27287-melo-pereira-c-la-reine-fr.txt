@@ -1,0 +1,166 @@
+Title: Melo Pereira c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27287/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-300-27287-melo-pereira-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-09-21
+
+# Melo Pereira c. La Reine
+
+- Citation: 2006 CCI 300
+- Decision date: 2006-09-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 894, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Melo Pereira c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-21
+Référence neutre
+2006 CCI 300
+Numéro de dossier
+2005-4330(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4330(IT)I
+ENTRE :
+JOSÉ M. MELO PEREIRA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 17 mai 2006, à Sherbrooke (Québec)
+Devant : l'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Benoit Mandeville
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21ième jour de septembre 2006.
+« Paul Bédard »
+Juge Bédard
+Référence : 2006CCI300
+Date : 20060921
+Dossier : 2005-4330(IT)I
+ENTRE :
+JOSÉ M. MELO PEREIRA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le présent appel fait suite à la ratification par le ministre du Revenu national (le « ministre » ), le 9 novembre 2005, de la cotisation datée du 28 mai 2004, aux termes de laquelle il a refusé à l'appelant, pour l'année d'imposition 2003, la déduction relative à la résidence des membres du clergé qu'il réclamait en vertu de l'alinéa 8(1)c) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[2] Durant l'année d'imposition 2003, l'appelant, un laïc, occupait le poste d'animateur de pastorale au Centre de santé et de services sociaux de la région de Thetford (CSSSRT) en vertu d'un mandat pastoral conféré par l'archevêque du diocèse de Québec. Ses fonctions d'animateur de pastorale s'inscrivaient dans le cadre de la pastorale hospitalière comme le définit le Protocole d'entente entre le ministère de la Santé et des Services sociaux du Québec et les autorités religieuses concernant les services de pastorale des établissements de santé et de services sociaux[1] ( « le protocole » ). Le protocole spécifie que les professionnels travaillant en pastorale portent le titre d'animateurs ou d'animatrices de pastorale. Ils sont soit prêtre, pasteur, rabbin, diacre ou laïc. Ces personnes sont des employés de l'établissement hospitalier et détiennent obligatoirement un mandat pastoral de leur autorité religieuse[2]. En l'espèce, l'archevêque du diocèse de Québec a confié a l'appelant un premier mandat de pastorale en 2001, mandat qui a été renouvelé le 28 mai 2004 jusqu'au 31 juillet 2007[3]. Les fonctions d'accompagnement spirituel et religieux exercées par l'appelant sont décrites au protocole et au Cadre de référence pour l'organisation de la pastorale en établissements de santé et de services sociaux ( « CR » )[4]. Ces fonctions comprennent notamment l'accompagnement spirituel et religieux des personnes malades et de leurs familles, l'organisation des activités de pastorale, la célébration des liturgies hebdomadaires, régulières et spéciales, la célébration des rites de bénédiction et des rites d'adieu en fin de vie, l'animation, la formation et la supervision des bénévoles en pastorale, l'assistance morale aux personnes et le soutien, comme personne-ressource, sur des questions d'éthique ou de bioéthique. Il y a 4 jours de travail par semaine, auxquels s'ajoutent 68 heures de garde (soir, nuit et fin de semaine), soit l'équivalent de 8 heures régulières rémunérées. Il convient de souligner que l'appelant est rémunéré par le CSSSRT. Le protocole spécifie que la scolarité minimale requise est un diplôme universitaire de premier cycle (baccalauréat) en théologie, en pastorale ou en sciences religieuses, ou l'équivalent, suivant la religion. De plus, un stage en pastorale de la santé est exigé avant l'entrée en fonction. Dans ce cas, l'appelant détient un baccalauréat en théologie et en philosophie en plus d'une maîtrise en théologie. En outre, il répondait aux exigences en ce qui avait trait au stage en pastorale. Il convient de souligner que l'appelant était marié et père de deux enfants. Enfin, il habitait une résidence dont il était propriétaire et qui était située à quelques kilomètres du centre hospitalier.
+Position de l'appelant
+[3] Lors de sa plaidoirie, l'appelant s'est ainsi exprimé :
+8. Alors que l'animateur de pastorale prêtre de mon institution est admissible à la déduction, celle-ci m'est refusée comme animateur de pastorale laïc, bien que tous les deux nous ayons les mêmes responsabilités vis-à-vis le service de pastorale de l'institution et la communauté hospitalière desservie, que nous ayons le poste et le même titre d'emploi, que nous possédions le même mandat pastoral, et que nous répondions aux mêmes exigences académiques et professionnelles.
+[...]
+11. Ma fonction d'animateur de pastorale hospitalière ne repose pas uniquement sur le poste que j'occupe au CSSSRT mais se trouve validée par un mandat conféré par l'archevêque du diocèse de Québec. C'est le même mandat qui est conféré à mon collègue animateur de pastorale prêtre. Nous exerçons conjointement et sur le même pied la responsabilité du service de pastorale. Qu'il soit prêtre, diacre ou laïc (homme ou femme), la personne qui exerce les fonctions spirituelles ou religieuses auprès d'un hôpital a le statut et le titre d'animateur de pastorale par la double exigence du poste qu'il occupe et du mandat qu'il reçoit.
+12. [L'animateur de pastorale en milieu hospitalier] a traditionnellement été désigné [...] par le titre d'aumônier. Pour tenir compte de nos jours de la diversité des situations des personnes qui occupent cette fonction, ainsi que de la réalité pluraliste et multiconfessionnelle des appartenances spirituelles et religieuses, il a été convenu de remplacer le titre d'aumônier par celui d'animateur(trice) de pastorale. [...] Toutefois, tant dans les mentalités et le vocabulaire courant que dans les documents administratifs dans les milieux de soins, le titre d'aumônier continu d'être utilisé.
+[...]
+14. [Il] ne dépend pas d'un animateur prêtre qui lui déléguerait des tâches et auquel il aurait à se référer.
+[4] Pour étayer ses allégations, l'appelant a cité les extraits suivants du bulletin d'interprétation IT-141R qui énonce les conditions auxquelles il faut satisfaire pour avoir droit à la déduction :
+5. Un « ministre régulier » est une personne qui [...] est autorisée ou habilitée à exercer des fonctions spirituelles, célébrer des services religieux, administrer des sacrements et effectuer des fonctions religieuses semblables. Les fonctions religieuses peuvent inclure la participation à la célébration de services religieux, l'accomplissement de certains rites, ordinations ou sacrements et les responsabilités pastorales assumées à l'égard de différents secteurs de l'organisation religieuse;
+[...]
+7. « Les diacres et les diaconesses, les anciens, les agents commissionnés de l'Armée du Salut, les aumôniers (y compris les femmes exerçant cette fonction au sein de l'Église catholique romaine) et les chantres peuvent être reconnus comme des ministres réguliers selon la structure ou les pratiques de l'Église ou de la dénomination religieuse en question. [...]
+[5] De plus, l'appelant a cité la décision Margaret M. Noseworthy[5] à l'appui de sa position. Dans cette affaire, le juge Hamlyn a décidé qu'une dame qui occupait un poste d'aumônier interconfessionnel dans un pénitencier pour femmes en Nouvelle-Écosse était un ministre régulier. Cette dame avait reçu un mandat de l'autorité religieuse catholique du lieu et avait un poste permanent dans le pénitencier pour exercer les fonctions d'aumônier laïc.
+[6] Quant à l'argument selon lequel les animateurs de pastorale ne seraient pas des ministres religieux lorsqu'ils ne sont pas autorisés à exercer la plupart des fonctions d'un ministre, ou toutes ces fonctions, notamment l'administration de la plupart des sacrements de l'Église catholique romaine, l'appelant s'est ainsi exprimé dans sa plaidoirie écrite :
+25. Cet argument ne peut, à notre avis, s'appliquer pour refuser le statut de « ministre régulier » aux aumôniers laïcs puisque l'administration des sacrements ne représente qu'une des fonctions parmi un ensemble de fonctions que remplit l'aumônier. L'aspect sacramentel est loin de représenter la caractéristique première et prépondérante du ministère pastoral en milieu de soin, l'accompagnement spirituel et religieux étant considéré comme la fonction et le critère premier attaché à ce ministère. Par ailleurs, un aumônier prêtre lui-même n'administre que certains des sacrements compte tenu que la communauté desservie n'est pas une communauté paroissiale. Dans le document Cadre de référence pour l'organisation de la pastorale en établissements de santé et de services sociaux, on énumère pas moins de 11 tâches que remplissent les aumôniers d'hôpitaux (aussi appelés animateurs de pastorale en milieu hospitalier), une seule parmi celles-ci correspondant à l'administration des sacrements. Par ailleurs, même un aumônier laïc participe aux sacrements dans la mesure où il accompagne la personne, notamment en la préparant, avant, pendant et après : on peut penser au rite de la communion à l'intérieur d'une célébration dominicale de la Parole qu'il préside ou encore à son administration comme viatique ou dernière communion avant le décès; on peut également penser à la préparation du sacrement du pardon et de l'onction, ou encore, dans des cas d'urgence et à la demande des familles, à l'accompagnement et l'administration du sacrement du baptême ou ondoiement.
+26. De plus, l'administration des sacrements est loin de se donner à toutes les personnes qui bénéficient des services de pastorale hospitalière, y compris pour celles de confession catholique. Dans de nombreux cas, d'autres gestes liturgiques sont proposés compte tenu des situations des personnes visées : refus du sacrement, état médical de la personne ne justifiant pas l'administration du sacrement, etc. Il est important de noter que, bien que tenu en général par des animateurs de pastorale de confession catholique (la confession de la majorité au Québec), le service de pastorale, conformément au protocole d'entente, a un statut interconfessionnel et dessert l'ensemble de la communauté hospitalière ou en hébergement. L'animateur de pastorale est donc appelé à prodiguer un accompagnement spirituel à des personnes d'autres confessions religieuses que catholique, en exerçant un ministère interconfessionnel où la dimension strictement sacramentelle est absente.
+27. Baser la désignation et la reconnaissance du statut de « Ministre régulier » sur le fait qu'un aumônier non prêtre (homme ou femme) ne peut administrer certains sacrements, alors qu'il effectue toutes les fonctions spirituelles auprès de la communauté desservie par l'hôpital au sein duquel il oeuvre, nous apparaît un présupposé questionnable et expéditif, voire discriminatoire. Cela ne tient pas compte de l'organisation et du cadre actuel des services de pastorale desservant les services spirituels et religieux dans un hôpital, y compris ceux relevant de la confession catholique romaine, qui ne reconnaît qu'un seul statut d'aumônier auquel on donne le titre d'animateur de pastorale. L'obtention de ce statut n'est pas lié au fait d'être prêtre ou non, mais se retrouve conféré à celui ou celle qui, d'une part, occupe les fonctions et les tâches selon la mission du service de pastorale telle qu'elle se trouve définie conjointement par les autorités religieuses (l'Église catholique de Québec dans mon cas) et l'établissement hospitalier et, d'autre part, se voit conféré un mandat par l'Autorité religieuse en question (mandat qui à la fois autorise l'animateur de pastorale à desservir une communauté particulière en matière de services spirituels et religieux et inscrit l'animateur de pastorale dans la structure ecclésiale en le reliant directement au ministère de l'évêque).
+28. Notons aussi, par ailleurs, que dans le bulletin IT-141R il est mentionné que « les aumôniers (y compris les femmes exerçant cette fonction au sein de l'Église catholique romaine) [...] peuvent être reconnus comme des ministres réguliers [...] » . Il est clair qu'une femme qui exerce la fonction d'aumônier au sein de l'église catholique - ce qui est le cas pour plusieurs animatrices de pastorale dans les hôpitaux canadiens - a le statut de laïque et non celui de prêtre, et ne peut donc administrer les sacrements (voir aussi le jugement rendu dans l'affaire Margaret M. Noseworthy c. Sa Majesté la Reine).
+Analyse et conclusion
+[11] L'alinéa 8(1)c) de la Loi se lit comme suit :
+8.(1) Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+[...]
+c) Lorsque le contribuable, au cours de l'année :
+(i) d'une part, est membre du clergé ou d'un ordre religieux ou est ministre régulier d'une confession religieuse,
+(ii) d'autre part :
+(A) soit dessert un diocèse, une paroisse ou à la charge d'une congrégation,
+(B)soit à la charge d'un diocèse, d'une paroisse ou d'une congrégation,
+(C) soit s'occuppe exclusivement et à temps plein du service administratif, du fait de sa nomination par un ordre religieux ou une confession religieuse [...]
+[12] Il ressort de la disposition législative, ainsi que de l'abondante jurisprudence et des pratiques administratives mêmes du ministre, qu'un double critère est en cause :
+i) le critère du statut;
+ii) le critère de la fonction.
+[13] Pour avoir droit à la déduction, le contribuable doit, de manière à satisfaire au critère du statut :
+i) soit être membre du clergé;
+ii) soit être membre d'un ordre religieux;
+iii) soit être ministre régulier d'une confession religieuse;
+[14] Il doit en outre, de manière à satisfaire au critère de la fonction :
+i) soit desservir un diocèse, une paroisse ou une congrégation ou en avoir la charge;
+ii) soit s'occuper exclusivement et à plein temps du service administratif, du fait de sa nomination par un ordre religieux ou une confession religieuse.
+[15] L'avocat de l'intimée a admis que l'appelant répondait au critère de la fonction. Toutefois, l'intimée a soutenu que l'appelant ne satisfaisait pas au critère du statut car, pendant la période pertinente, il n'était ni membre du clergé, ni membre d'un ordre religieux, ni ministre régulier d'une confession religieuse. L'appelant a admis qu'il n'était pas membre du clergé ou membre d'un ordre religieux, mais il a soutenu qu'il était ministre régulier d'une confession religieuse. Par conséquent, la seule question en litige est la suivante : pour l'application de l'alinéa 8(1)c) de la Loi, l'appelant est-il ministre régulier d'une confession religieuse?
+[16] Je suis d'avis que l'alinéa 8(1)c) de la Loi doit recevoir une interprétation stricte plutôt que libérale compte tenu de son caractère exceptionnel par rapport à la règle générale qui stipule que sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments mentionnés à au paragraphe 8(1) de la Loi qui se rapportent entièrement à cette source de revenus, ou la partie des éléments mentionnés à ce paragraphe qu'il est raisonnable de considérer comme s'y rapportant.
+[17] Cette cour s'est à penchée plusieurs reprises sur le sens du terme « ministre régulier » . La juge Lamarre Proulx, dans l'affaire Côté[6], semble retenir la définition de « ministre régulier » donnée par lord MacDermott dans l'affaire Walsh v. Lord Advocate, [1956] 3 All E.R. 129 (C.L.), au paragraphe 20 de sa décision :
+D'après moi, les termes « ministre régulier » désignent une classe formant seulement une partie de la confession en question et reconnue par cette confession comme ayant un rang supérieur et distinct sur le plan spirituel... Lord MacKintosh a très clairement établi cette exigence, lorsqu'il a dit au sujet des « ministres réguliers » :
+... il doit avoir, en vertu de sa qualité de ministre, ce qui pourrait être appelé un « statut ecclésiastique » qui le met à part et au-dessus des laïcs de sa confession sur le plan spirituel.
+[18] Dans les affaires Osmond c. Canada, no 97-1446(IT)I, 10 décembre 1998, [1998] A.C.I. no. 1086, et Kolot c. Canada, no 91-718(IT), 9 novembre 1992, [1992] A.C.I. no. 673, les juges Bonner et Beaubier semblent aussi avoir retenu la définition de « ministre régulier » donnée par lord MacDermott dans l'affaire Walsh.
+[19] À la lumière de cette définition, l'appelant ne m'a pas convaincu que l'Église catholique le reconnaissait comme ayant un rang supérieur et distinct sur le plan spirituel. Certes, l'appelant a démontré qu'à titre d'employé du CSSSRT, il animait la pastorale dans l'établissement de son employeur, et ce, en raison d'une nomination de l'archevêque de Québec. Est-ce que la nomination de l'archevêque faisait de l'appelant quelqu'un d'un rang supérieur et distinct sur le plan spirituel? À mon avis, l'appelant n'a tout simplement pas apporté de preuve satisfaisante à cet égard.
+[20] Dans l'affaire Hardy c. Canada, no 97-560(IT)I, 3 novembre 1997, [1997] A.C.I. no. 1191, le juge Rip a examiné assez longuement la jurisprudence relative au terme « ministre régulier » . Le juge Rip a cité un assez long passage de l'affaire Greenlees v. Canada (Attorney General), [1945] O.R. 411 (H.C. Ont.), conf. par [1946] O.R. 90, autorisation d'appel refusée au [1946] R.C.S. 462. Lors du procès, le juge Hogg avait fait référence à la décision rendue par la Haute Cour de justice de l'Écosse dans l'affaire Saltmarsh v. Adair, [1942] S.C.(J.) 58. Le juge Rip a fait remarquer, aux pages 8 et 9, après avoir cité une partie de l'analyse du juge Hogg ainsi qu'une partie des jugements du lord juge général Normand et de lord Moncrieff dans l'affaire Saltmarsh :
+Par conséquent, le Lord juge général Normand et le Lord Moncrieff paraissent inférer que le « ministre régulier »
+i) exerce des fonctions spirituelles, célèbre des services religieux, administre des sacrements et autres choses semblables;
+ii) est nommé par un organisme ou une personne qui détient le pouvoir légitime de nommer ou d'ordonner des ministres au nom de la confession; et
+iii) occupe un poste de façon plutôt permanente.
+En l'absence d'une nomination légitime, le simple fait d'exécuter les fonctions d'un ministre sera à leur avis insuffisant pour faire de lui un « ministre régulier » .
+[21] À la lumière des conclusions dégagées par le juge Rip dans l'affaire Hardy, précitée, sur le sens du terme « ministre régulier » , il faut poser, à mon avis, les questions suivantes :
+i) Est-ce que l'Église catholique considérait l'appelant comme un ministre régulier? Est-ce que le mandat accordé par l'archevêque de Québec à l'appelant conférait en soi à ce dernier le statut de « ministre régulier » de l'Église catholique? Est-ce qu'il s'agissait plutôt d'une nomination temporaire pour certaines actions liturgiques? Est-ce que cette nomination temporaire, si tel est le cas, conférait pour autant le statut de « ministre régulier » de l'Église catholique à l'appelant? Est-ce que le statut de « ministre régulier » n'est accordé par l'Église catholique qu'aux fidèles ordonnés? Du fait que l'Église catholique est en manque de prêtres au Québec, est-ce qu'elle se doit de donner, comme en l'espèce, certaines fonctions de suppléance à des fidèles laïcs ayant une formation adéquate?
+ii) Est-ce que l'appelant occupait un poste de façon permanente?
+[22] Chaque religion a ses propres pratiques, ses traditions et ses règles. Pour déterminer si une personne est un « ministre régulier » , il faut considérer la structure et les pratiques de l'Église en cause. Seul l'avocat de l'intimée a tenté de m'éclairer sur les règles, les pratiques et les traditions de l'Église catholique liées au statut de « ministre régulier » . En effet, lors de sa plaidoirie, l'avocat de l'intimée a soutenu, en s'appuyant notamment sur les instructions du Pape à cet égard, que les règles de l'Église catholique édictaient clairement qu'il était illicite de conférer à des fidèles non ordonnés le statut de « ministre régulier » ou d' « aumônier » . Malheureusement, je ne peux retenir les prétentions de l'avocat de l'intimée à cet égard. Ce dernier aurait dû savoir que le droit étranger, le droit canon en l'espèce, est assimilé à un fait. Celui qui l'invoque doit l'alléguer dans ses actes de procédure et doit en faire la preuve adéquatement, ce qui n'a pas été fait.
+[23] Certes, l'appelant a apporté la preuve qu'un mandat de pastorale lui avait été confié par l'archevêque de Québec. Pour autant, l'appelant ne m'a pas convaincu que ce faisant l'archevêque de Québec lui conférait le statut de « ministre régulier » de l'Église catholique. De plus, l'examen de la preuve m'amène à conclure que, bien que l'appelant occupait ce poste à temps plein, il exerçait ses fonctions selon le bon vouloir de l'archevêque de Québec et sa nomination ne paraît donc pas permanente.
+[24] En résumé, le simple fait d'exécuter la majorité des fonctions d'un « ministre régulier » dans le cadre d'un mandat liturgique bien précis et temporaire est, à mon avis, insuffisant pour faire de l'appelant un « ministre régulier » de l'Église catholique.
+[25] Quant à l'affaire Noseworthy, précitée, invoquée par l'appelant à l'appui de sa position, je tiens à souligner que les principes retenus par le juge Hamlyn pour déterminer que l'appelante était un « ministre régulier » de l'Église catholique étaient basés notamment sur les principes dégagés par le juge Rip dans l'affaire Hardy, précitée. Le juge Hamlyn est arrivé à une conclusion différente de celle du juge Rip dans l'affaire Hardy tout simplement parce que les faits dans les deux affaires étaient, à mon avis, fort différents. J'en suis arrivé à une conclusion différente de celle du juge Hamlyn pour les mêmes motifs. Dans l'affaire Noseworthy, précitée, le juge Hamlyn avait tenu pour acquis, à la lumière de la preuve qui lui avait été soumise par madame Noseworthy, que :
+1) l'archevêque catholique d'Halifax lui avait octroyé le poste d'aumônier;
+2) elle occupait le poste de façon permanente;
+3) à mon grand étonnement, elle pouvait administrer tous les sacrements et le faisait;
+4) l'Église catholique la considérait comme un aumônier catholique travaillant régulièrement comme ministre du culte.
+Rien dans la preuve soumise par l'appelant ne permet de conclure qu'il occupait, pour la période visée, un poste de façon permanente, qu'il pouvait administrer les sacrements, et que l'Église catholique, en lui donnant un mandat liturgique bien précis et temporaire, lui avait conféré pour autant le statut d'aumônier ou de ministre régulier.
+[26] Pour toutes ces raisons, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 21ième jour de septembre 2006.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2006CCI300
+No DU DOSSIER DE LA COUR :
+2005-4330(IT)I
+INTITULÉ DE LA CAUSE :
+José M. Melo Pereira et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+le 17 mai 2006
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+le 21 septembre 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimée :
+Me Benoit Mandeville
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Onglet 8 de la pièce A-1
+[2] Article 7.1 de l'onglet 8 de la pièce A-1
+[3] Onglet 7 de la pièce A-1
+[4] Onglet 10 de la pièce A-1
+[5] no 98-981 (IT)I, 13 avril 1999. [1999] A.C.I. no. 209
+[6] Côté c. Canada,no 97-2020(IT)I, 2 septembre 1998, [1998] A.C.I. no. 762

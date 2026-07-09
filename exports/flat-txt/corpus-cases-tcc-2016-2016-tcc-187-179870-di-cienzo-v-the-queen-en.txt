@@ -1,0 +1,134 @@
+Title: Di Cienzo v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/179870/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-187-179870-di-cienzo-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-08-26
+
+# Di Cienzo v. The Queen
+
+- Citation: 2016 TCC 187
+- Decision date: 2016-08-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2875, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Di Cienzo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-08-26
+Neutral citation
+2016 TCC 187
+File numbers
+2014-1896(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-1896(IT)I
+BETWEEN:
+LUCIANO DI CIENZO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 16, 2016, at Hamilton, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dominique Gallant
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals from the reassessments made under Income Tax Act for the 2010 and 2011 taxation years are dismissed, without costs.
+Signed at Ottawa, Canada, this 26th day of August 2016.
+“Gaston Jorré”
+Jorré J.
+Citation: 2016 TCC 187
+Date: 20160826
+Docket: 2014-1896(IT)I
+BETWEEN:
+LUCIANO DI CIENZO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction [1] This is an appeal regarding a claim for an allowable business investment loss. The key issue is whether any loss has crystallized in the year by reason of either an actual disposition or by reason of a deemed disposition where the taxpayer has established that the debt owing to him become a bad debt in the year.[1]
+[2] The secondary issue is the quantum of the debt.
+[3] In the 2010 taxation year the Appellant claimed an allowable business investment loss and in the 2011 taxation year he claimed part of that loss as a loss carry forward. On reassessment the Minister of National Revenue disallowed the losses claimed.
+[4] The Appellant and his spouse were part owners of an incorporated business operating a motor inn for a number of years. Over the years the Appellant advanced significant sums of money to the corporation. These amounts owing by the Corporation to the Appellant were added to the Appellant’s shareholder account.
+[5] In 2010 the Appellant and his spouse sold all their shares in the corporation.[2] The business loss claimed is what the Appellant says the corporation owed him at the time of the sale.
+Was there a disposition of a debt? [6] While the Appellant certainly believes that he has lost the amounts claimed, unfortunately there is little in the evidence before me to suggest that the debt owed to him, whatever the quantum of it, was disposed of at the time he sold his shares in the company.
+[7] With one exception that I will come to in a moment, in the documentation filed I am unable to find anything to support the existence of an agreement between the Appellant and the company and/or the purchaser of his shares to dispose of the debt in any fashion.
+[8] Exhibit A-9 is a binder with 28 tabs of documents relating to the share transaction that appears to have been put together by counsel for the Appellant in the share sale transaction.[3]
+[9] Exhibit A-9 contains extensive documentation relating to the share sale by the Appellant but I am unable to find anything in the share purchase agreement at Tab 2, or in any of the other documents in Exhibit A-9, that deals with the debt owing from the Corporation to the Appellant.
+[10] The only thing that could remotely relate to the shareholder account in Exhibit A-9 is a provision in clause 2 of the share purchase agreement. Clause 2 provides that the purchase price of the shares from the Appellant and the Appellant’s wife, the vendors, shall be $140,000, payable to the vendors on the 1st day of September 2010 plus an additional $56,250, payable to the Corporation on the 3rd day of February 2010. The clause further says that the amount of $56,250 “payable to the Corporation shall be non-refundable and shall stand to the credit of the [vendors]”.
+[11] As I understand the arrangement, and, in particular the words “shall stand to the credit of the [vendors]”, the $56,250 is to be treated as an amount owing by the company to the Appellant and the Appellant’s spouse that will presumably be paid at some future date by the company.
+[12] This suggests that there will be a continuing account between the Appellant and the company.[4]
+[13] The Appellant’s did not testify that there was some agreement regarding the debt, whether as part of the contract of sale or as some separate agreement.
+[14] The only thing in the other documents that would support the notion that there was a disposition of the debt is a letter of the 29th day of November 2013 to the Appellant from the lawyer for the company and the purchaser at the time of the share sale.[5] Part of the letter relates to a letter of the 15th of November 2013 from the CRA to the Appellant that asked, among other things, for the following information at b): “Explanation as to why the share sales agreement did not address the shareholder loan balance still outstanding at the time of the sale.”
+[15] The 29 November 2013 letter from the lawyer to the Appellant states at b): “I can confirm that the sale proceeds received by you at the time of the sale of your shares included all outstanding debt (shareholders, loans).”
+[16] No objection was made to the filing of the letter. However, neither the lawyer who wrote the 29 November 2013 letter nor the Appellant’s lawyer for the share sale transaction were called to testify and explain the basis for the statement.
+[17] Given that, given the fact that the 29 November 2013 letter appears to be in response to an email sent to the lawyer on 22 November 2013 by a chartered accountant acting for the Appellant which stated with respect to item b) of the CRA request:
+“You must provide CRA/Phyllis with a letter as the corporate solicitor for Pilgrim/PHI that the sale proceeds Luciano received was for his shares and for the debt (shareholder loans). Please clarify this matter for CRA.”
+and given the fact that none of the documents filed suggest that the debt was disposed of, I am not prepared, on the basis of the short statement in the letter of 29 November 2013, to conclude that there was some sort of agreement disposing of the debt from the Corporation to the Appellant.
+[18] I am reinforced in this conclusion by the fact that there appears to have been care taken to protect the Appellant and his wife as much as possible in the transaction. At Tab 21 of Exhibit A-9 there is a document entitled “Full and Final Release” whereby the company releases the Appellant and his wife from any claims that the company may have had or may subsequently have against them. One would expect that if the intention was that the Appellant was to release the company from any debts owed by the company to the Appellant there would have been some document at the time of the sale of the shares that released the company from any claims by the Appellant for debts owing to him.[6]
+[19] Consequently, I conclude that there was no disposition of the debt.
+[20] As to the possibility that the debt owing to the Appellant became a bad debt in either 2010 or 2011, there is nothing in the evidence to suggest that in those years any efforts were made to collect the debt nor is there any evidence to suggest that the company was unable to pay.
+[21] The Appellant spoke at length about the Company’s losses over the years but I have no evidence as to the company’s prospects at the time of purchase or after in 2010 or 2011. Obviously, the purchaser thought there was value in the company and was willing to pay the price he did. The company owned the motor inn, the land it was on and two adjoining parcels of land.
+[22] Accordingly, I am unable to conclude that the amount owing by the company to the Appellant was established to be a bad debt and thereby gave rise to a deemed disposition in either 2010 or 2011.
+[23] I would point out to the Appellant that while the debt was not disposed of in 2010, or for that matter in 2011, it may be that there is disposition or deemed disposition in a subsequent year.
+Quantum of the Debt [24] Given my conclusion on the first question it is not necessary for me to reach a conclusion on the quantum of debt. Given that there may be a future disposition, it is preferable that I not reach any conclusions since that will enable the parties to further explore the question of the quantum of the debt at a future time if a disposition or deemed disposition of that debt is established after 2011.
+[25] Accordingly, I will not make any findings on the question of quantum; I will simply make a few comments that I hope may be of assistance to the parties if at a future time a disposition occurs.
+[26] The Appellant filed on the basis that the corporation owed the Appellant $567,731. The Minister accepted that there was an amount of $106,000 owing.
+[27] The Appellant testified in a general way about his loans to the corporation. More specifics about loans and repayments would be helpful as would more documentation although one must bear in mind that the early years go quite far back in time.
+[28] The Appellant also filed a schedule, Exhibit A-3, setting out how the $567,731 was computed. He also filed various other documents including Trial balances at 31 December 2008 and 31 December 2009, Exhibits A‑5 and A‑4, respectively.
+[29] The Trial balance for the Appellant’s shareholder account on 31 December 2008 in Exhibit A‑5 is identical with the number shown for the same date on Exhibit A‑3. However the Trial Balance at 31 December 2009 cannot be reconciled with the numbers shown on Exhibit A‑3. If Exhibit A‑4 is correct, about $190,700 was paid out to the Appellant sometime after 31 December 2008 and is not reflected in Exhibit A-3. The person who prepared Exhibits A-3 to A-5 was not called as a witness and the Appellant could not explain the discrepancy. It would have been useful to hear from the person who prepared the documents.
+[30] Exhibit A‑3 is a single page although the heading to the fourth column from the left refers to attached material that was not produced. The attachments might be of assistance.
+[31] Exhibit A-8 shows a $50,000 cheque that cleared on 12 May 2005. It might support a conclusion that this was the funding of the $50,000 advance that Exhibit A‑3 shows as having been made on the 5th of May. It deserves some exploration, however, given that Exhibit A‑8 shows a balance available in the account of under $8,000 on the 6th of May and a deposit of $50,000 into the account just the day before the $50,000 cheque cleared.
+[32] Finally, the last advance from the Appellant to the corporation shown in Exhibit A‑3 is $56,250 on 10 February 2010. This is the portion of the sale price paid for the Appellant’s shares and his spouse’s shares that was payable directly to the corporation.
+[33] This last entry of $56,250 seems to support that there was a $56,250 advance since in is consistent with the share purchase agreement; however, the question arises why the entire amount is credited to the Appellant. Clause 2, paragraph 2, of the share purchase agreement says that the amount shall stand to the credit of the vendor. Vendor is defined at the top of the first page of that Agreement to include both the Appellant and his spouse. The Appellant and his spouse had an equal number of shares; one wonders why half of the $56,250 is not credited to Mrs. Dicienzo rather than the Appellant.
+Conclusion [34] For these reasons, given that there was no disposition or deemed disposition of any debt, there can be no allowable business investment loss in the two years in issue. Accordingly the appeal is dismissed. There will be no order as to costs.
+Signed at Ottawa, Canada, this 26th day of August 2016.
+“Gaston Jorré”
+Jorré J.
+CITATION:
+2016 TCC 187
+COURT FILE NO.:
+2014-1896(IT)I
+STYLE OF CAUSE:
+LUCIANO DI CIENZO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+August 16, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+August 26, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dominique Gallant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See subsection 50(1) of the Income Tax Act.
+[2] They had sold some of their shares in a prior year, see the Exhibit A‑7.
+[3] See the cover and page 1 of Tab 1 of the exhibit. Tab 17 is empty but no documents appear to be missing because it appears that the documents in the index that should be at tabs six and seven are both at tab six and then the subsequent tabs are one document out of sequence until Tab 17. From Tab 18 of the documents are back in the same sequence as shown in the index.
+[4] After the sale one might think of it as a “former shareholder’s account”. Indeed, Exhibit I‑3 which represents what the Appellant claims as the amount he loaned to the Company and that was reflected in the shareholders’ account, specifically shows the $56,250 as credited to the account.
+[5] The letter is in Exhibit A-7. With regard to this lawyer’s role in the sale, see both the 29 November 2013 letter and the first page of Tab 1of Exhibit A-9.
+[6] I also note Clause 13 of the share purchase agreement that says that the agreement is the entire agreement and there shall not be any verbal representations, undertakings or agreements between the parties to the agreement and that the agreement may not be amended except by written instrument signed by the parties.

@@ -1,0 +1,200 @@
+---
+title: "Tremblay v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26707/index.do"
+last_modified: "2006-03-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 113"
+citation2: ""
+neutral_citation: "2006 TCC 113"
+decision_date: "2006-03-28"
+language: "en"
+item_id: "26707"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3453
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:13:37.329000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a1695dc93e104da779fbdd21be6d9106d41a143ed6c258e1f73569d7ae1d9177"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tremblay v. M.N.R.
+
+- Citation: 2006 TCC 113
+- Decision date: 2006-03-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3453, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-28
+Neutral citation
+2006 TCC 113
+File numbers
+2004-4369(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-4369(EI)
+BETWEEN:
+MICHEL TREMBLAY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 4, 2006, at Rivière-du-Loup, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Frédéric St-Jean
+Counsel for the Respondent:
+Jean Lavigne
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed with regard to the period of April 13, 1998, to December 24, 1999, and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of March 2006.
+"François Angers"
+Angers J.
+Translation certified true
+on this 18th day of January 2007
+Monica F. Chamberlain, Translator
+Citation: 2006TCC113
+Date: 20060328
+Docket: 2004-4369(EI)
+BETWEEN:
+MICHEL TREMBLAY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from a decision of the Minister of National Revenue ("the Minister") dated May 11, 2004, which stated that the Appellant's employment with Service Agromécanique Inc. ("the payer") from April 13, 1998, to December 24, 1999, ("the period in issue") was not insurable employment. The Minister determined that the Appellant and the payer were not dealing with each other at arm's length in the context of this employment, and he was satisfied that it was not reasonable to conclude that they would have entered into a substantially similar employment contract if they had been dealing with each other at arm's length within the meaning of paragraph 5(2)(i) and subsection 5(3) of the Employment Insurance Act (the "Act").
+[2] The Appellant admits that he is related to the payer within the meaning of sections 251 and 252 of the Income Tax Act. The Minister's decision is based on the following circumstances, which the Appellant has either admitted to or denied, as stated below:
+[TRANSLATION]
+(a) The payer operated a farm machinery sales and maintenance business. [admitted]
+(b) The payer had two places of business — one in St-Clément and the other in St‑Pascal — and employed approximately 25 persons. [admitted]
+(c) The payer operated throughout the year and was busier from April to December each year. [admitted]
+(d) The Appellant was hired by the payer as a farm machinery salesperson. [admitted]
+(e) The Appellant worked for the payer for more than 15 years as a salesperson and representative. [admitted]
+(f) The Appellant's duties were to sell and demonstrate machinery and solicit new customers. [admitted]
+(g) The Appellant's salary was determined based on the previous year's sales and on the profits generated by his sales. [admitted]
+(h) The Appellant was paid $821.82 for his 42‑hour weeks. [admitted]
+(i) The Appellant used his personal vehicle without receiving any allowance for his automobile expenses. [denied]
+(j) The Appellant rendered services to the payer in weeks that he was not entered in the payroll journal. [denied]
+(k) The Appellant rendered services to the payer for no reported remuneration. [denied]
+(l) A person dealing at arm's length would not have done unpaid work. [no knowledge]
+(m) On December 29, 1999, the payer gave the Appellant a Record of Employment which stated that the first day worked was April 13, 1998, the last day worked was December 24, 1999, and that there were 1680 insurable hours and $22,182.74 in insurable earnings. [admitted]
+(n) The Appellant's Record of Employment is not a true account of the period or the number of hours worked. [denied]
+(o) The Appellant and the payer entered into an arrangement to enable the Appellant to receive unemployment benefits while continuing to render services to the payer. [denied]
+[3] Counsel for the Appellant raised the question of whether the Minister's decision is reasonable, and the corollary question of whether the Minister's investigation was a serious one that complied with the fundamental principles of natural justice, including the audi alteram partem rule, thereby enabling the Minister to exercise his discretion quasi-judicially as prescribed by the Act.
+[4] This second argument was raised because of unusual circumstances in the instant appeal and other appeals before this Court involving the same Appellant. In particular, the Appellant filed an appeal in this Court from a decision rendered by the Minister on February 7, 2000, which stated that, because of non‑arm's length dealing, his employment with the payer during various periods from 1993 to 1997 was not insurable employment.
+[5] In the case at bar, the director of tax services, employment insurance section, informed the Appellant on March 21, 2000, that his employment during the period in issue was not insurable for the same reasons as given in previous years, namely non‑arm's length dealing, or, more specifically, because by reason of the terms and conditions of employment, he was of the opinion that a similar contract would not have been entered into if the Appellant and the payer had been dealing with each other at arm's length.
+[6] On March 28, 2000, the Appellant received a letter from Human Resources Development Canada informing him that his claim for benefits commencing December 26, 1999, had been cancelled, because Revenue Canada was of the view that his employment was not insurable. The same letter notified the Appellant that he could contact them if he needed further details or had additional information that might change this decision. The Appellant was informed of his right to appeal from the decision within 30 days after receipt of the notice.
+[7] On June 9, 2000, the Appellant wrote André Paquin of Revenue Canada and notified him of his intent to appeal from the decision concerning the period in issue. He wrote that he wished to make clarifications so that all the factors could be analyzed appropriately to determine whether his employment with the payer was insurable. He indicated that he would like to attend the hearing and that Jérôme Carrier, his lawyer at the time, would represent him. An acknowledgment of receipt was sent to him on June 28, informing him that an appeals officer would be contacting him to discuss the matter and obtain any relevant information.
+[8] According to the report of Revenue Canada appeals officer Lyne Courcy, Bruno Arguin, the investigator assigned to the file, did indeed contact Mr. Carrier by telephone on July 4, 2000, and the two agreed that the Appellant's matter would be put on hold until this Court rendered a decision, because the terms and conditions of employment were the same as during the previous periods.
+[9] This Court dismissed the Appellant's appeal concerning the previous periods on February 10, 2004, thereby confirming the Minister's February 2000 decision. A few months later, in May 2004, the matter was assigned to appeals officer Lyne Courcy for investigation. Ms. Courcy phoned Jérôme Carrier, the Appellant's legal representative and, on or about May 6 or May 7, 2004, Mr. Carrier left a message on her voicemail saying that the Appellant wanted to continue the appeal process and that she could render her decision based on the information that was already in the file.
+[10] Thus, faced with this situation, she proceeded to analyze the information in the file, which consisted of the information obtained by Emmanuel St-Victor following a telephone conversation with the Appellant on February 21, 2000; a telephone conversation with Pierre Tremblay, a shareholder of the payer, on February 14, 2000; and the information obtained from the appeals officer's report regarding the Appellant's case for the periods covered by the Minister's decision of February 7, 2000. She examined the employment insurance benefit claim in which the salary is stated as $821.27 per week for 42 hours of work, as well as the Record of Employment and the Appellant's income tax returns. Based on the comments of the Appellant's counsel to the effect that the terms and conditions of employment were the same as they had been during the previous periods of employment, Ms. Courcy came to the following conclusions (see Exhibit I‑2):
+[translation]
+Compensation
+The Appellant stated that his terms and conditions of employment were the same. Specifically, in January, February, March and mid-April, the Appellant worked for the payer for no remuneration. During this time, he was remunerated by his snow removal company, 3098-2165 Québec Inc., while continuing to make sales for the payer.
+The Appellant's salary was determined based on his previous year's sales and on the profits generated by his sales.
+Based on his claim for benefits, his gross weekly salary for 42 hours of work was $821.42.
+A third party was apparently compensated for all the hours that he worked.
+Terms and conditions of employment and duration of employment
+It has been determined that the Appellant worked throughout the year but was only in the payroll journal for certain months during the year.
+This situation reflects the non‑arm's length dealing between the parties.
+Nature and importance of work performed
+The Appellant's work as a salesperson was required by the payer. There was no true interruption of work, but merely a reduction of work because the Appellant continued to make sales and maintain relationships with customers.
+In the TCC judgment, the conclusion regarding the Appellant's employment contains the following:
+The Appellant carried on sales for the payer during his periods of unemployment, and he did so for no remuneration. His volume of sales was considerable during some of the months that he was not paid. In my opinion, these are not normal terms and conditions of employment that qualify a person for benefits under the UI or EI Acts.
+This was the case during the period in issue because the terms and conditions were the same as they had been during his previous periods of employment.
+[11] In her testimony, Ms. Courcy explained that when Appellants are represented by counsel, she contacts counsel directly to establish the procedure to follow for the purposes of the investigation. Otherwise, she contacts the Appellants directly and the information obtained is then submitted to the employer for confirmation. In 98% of cases, both the Appellant and the employer are contacted. The only exception is when the Appellant provides no information, in which case there is nothing to check with the employer. In the case at bar, Ms. Courcy respected what Mr. Carrier told her: that the facts were the same and that she should make a decision accordingly. But for this instruction, she said that she would have contacted the Appellant and the payer to complete her investigation. She acknowledged that she was not aware, in the course of her investigations, that according to Exhibit A‑5, the Appellant had reported income from his own snow removal business from January to March 2000, but she adds that in any event, this information can be found at the employment insurance office that processes EI benefit claims, not the office that determines whether employment is insurable.
+[12] Pierre Tremblay has been the majority shareholder and director of the payer since 1983. He explained how his corporation has evolved over the years based on its sales and the number of people that it employed. He tendered the Appellant's Record of Employment as admitted in the Reply to the Notice of Appeal. The document states that the Appellant worked 1680 insurable hours during the period in issue, and that his total insurable earnings were $22,182.74. Since it is admitted that he worked 42 hours per week, he allegedly worked only 40 weeks for $554.56 each week. This, then, is inconsistent with the information set out in Exhibit I‑1, the EI benefit claim, where the Appellant declares that his weekly pay at the end of the period was $821.82.
+[13] The payer’s financial statements, which were tendered in evidence, set out the total payroll for roughly 30 employees from 1998 to 2000. According to the payer’s representative, the Appellant was paid approximately $31,000 per year. Exhibit A‑3, another of the payer’s documents, is a table setting out the wages paid to the Appellant based on the payer’s payroll journal from April 12, 1998 to December 30, 2000. The table states that the Appellant received a salary of $725 for the week of April 12, 1998, $812 for the week of April 19, 1998, and $768.50 for the weeks beginning May 26, 1998, and ending January 3, 1999. The Appellant was not remunerated from January 10 to March 21, 1999, or during the week of December 26, 1999, to January 2, 2000. He was then paid $821.50 per week until the week of November 1, 1999, and $821.82 per week until the end of 1999.
+[14] According to the table, in 2000, unlike the previous year, the Appellant was paid from January to March inclusive, but was paid for reduced hours — specifically, 8 to 15 hours per week. For the rest of the year, the Appellant's salary was determined based on the number of sales during the previous year and the net profit earned on each sale. Mr. Tremblay says that this salary is in keeping with salaries in the agricultural field, i.e. $30,000 to $40,000 per year for salespersons. As for the fact that the Appellant was paid in January, February and March 2000, he explains that the Appellant was called when required and was available more often than during the previous year because his snow removal business had less work. He was paid $19 per hour.
+[15] With regard to the period of January to March 1999, he said that he did not require the Appellant's services. However, he added that if the Appellant had rendered services, he would have paid him, but that in any event, he was busy full‑time with his snow removal business. He said that he responded to the Appellant's customers himself, and added that sales declined during this period.
+[16] In his testimony, Mr. Tremblay acknowledged that the Appellant used his own car until late 1998, but that the payer subsequently provided him with a car. Based on the information obtained in the first investigation, the Appellant received no allowance for his automobile expenses, which apparently amounted to $1,000 to $2,000 a year. He testified that, during the period in issue, he was not contacted by any of the Respondent's investigators. However, he said that he was contacted with regard to prior periods.
+[17] On cross-examination, Mr. Tremblay confirmed that the Appellant's salary was based on his sales. He would use the total number of sales and the profit on each sale. He acknowledged that profit depends on the item sold. However, he was unable to provide an example. When questioned about the fact that there was not a big difference between the weekly income of $768.50 in 1998 and the weekly income of $821.82 in 1999, Mr. Tremblay responded that this resulted from the calculations done to establish the Appellant's salary, and he explained that since the vehicle was provided to the Appellant in 1999, there was a benefit to add. In addition, he stated that he assigned a value to the use of the Appellant's car in 1998, and, while he provided no details, he claimed that this value was not based on mileage.
+[18] Pierre Tremblay also acknowledged that the Appellant might have closed some sales between January 10 and March 27, 1999, when he was not being remunerated by the payer. His explanation for this was that sales are solicited during the year through demonstrations, and that negotiations sometimes drag on, in which case the sale closes outside the salesperson's period of employment. He added that he sometimes closes sales while salespeople are absent.
+[19] The Appellant did not get a raise in 2000. Thus, his salary was the same as it was in 1999. The payer’s agent explained that the Appellant made as many sales during the nine months that he worked in 1999 as he had made in 1998. No example of the calculations establishing his salary was provided. Lastly, the payer’s agent admitted that the payer pleaded guilty to charges of falsifying Records of Employment. His explanation for this error was that the return‑to‑work dates indicated full‑time employment even though the employees were working part‑time. The payer pleaded guilty on the advice of its lawyer. Mr. Tremblay ended his testimony by saying that the payer fired its lawyer on February 10, 2004, which is the date that this Court rendered its decision in the dispute over the previous periods involving the Appellant.
+[20] The Appellant has been working for the payer for more than 20 years. He says that he had no contact with Revenue Canada or Human Resources Canada from March 21, 2000, to May 2004. He does not recall being contacted by Ms. Courcy or speaking with André Paquin. He acknowledges that Jérôme Carrier was his lawyer and the payer’s lawyer, and believes this was the case until this Court's decision in February 2004. He says that he did not talk to Mr. Carrier about the instant appeal and was not aware that his lawyer had agreed to put his appeal on hold until a the Court rendered a decision regarding his appeals concerning prior years. He says that he is unaware of the fact that his lawyer told Ms. Courcy that she could render a decision based on the information already in the files regarding the prior periods, just as he is unaware of whether his lawyer contacted Ms. Courcy later than February 2004. He says that his brother Pierre told him that a new lawyer was retained in early 2004. Seeking to narrow down the time frame during which the previous lawyer was fired, the Appellant deduced that it was between February and August 2004 because he signed his Notice of Appeal himself on August 5, 2004.
+[21] When the Appellant was questioned about Exhibit A-3, the table setting out the Appellant's weekly salary from April 12, 1998, to December 24, 2000, he stated that from January to March 2000, he carried out tasks that his brother asked of him — specifically, customer prospecting — and that he might have closed some sales. He also he drew a salary from his snow removal business during this period. He says that the total income was reported in his employment insurance claim as shown in Exhibit A‑5.
+[22] He received no salary from the payer in respect of the period beginning the week of January 10 and ending the week of March 21, 1999, but acknowledges that he did a small amount of work. He says that he mainly worked on snow removal with his business because he had a bigger snow removal contract that year and because the winter of 1999 was more severe than winter of 1998. He does not recall whether he was more available to the payer in winter 1998, but he claims that he was free in the winter of 2000 because of the loss of a snow removal contract.
+[23] Counsel for the Appellant submits that he has refuted, on a balance of probabilities, the assumptions of fact on which the Minister based his decision. Alternatively, he submits that there has been no quasi-judicial investigation in the case at bar, for neither the Appellant, nor a representative of the payer, had the opportunity to explain themselves and be heard in accordance with the principles of natural justice. He submits that the audi alteram partem rule has been violated. For his part, counsel for the Department submits that the Minister's decision was based on the facts established by the investigation regarding previous years, and that he complied with the instructions given by the Appellant and payer’s legal counsel. He submits that the facts were considered in accordance with the criteria set out in the Act, that, having regard to the circumstances, the investigation was conducted judiciously despite the constraints imposed by the instructions given by the legal representative of the Appellant and payer, and that it was an investigation within the meaning of the Act which resulted in a reasonable decision.
+[24] In support of his submissions, counsel for the Appellant cites two decisions of Lamarre Proulx J., namely Berthiaume v. Canada, No. 97-1803(UI), December 3, 1998, [1998] T.C.J. No. 1067 (QL) and Lebel v. Canada, No. 1999‑4135(EI), November 7, 2000, [2000] T.C.J. No. 760 (QL), and the decision of Deputy Judge Savoie in 9089-4114 Québec Inc. v. Canada, No. 2001‑3321(EI), December 9, 2003, [2003] T.C.J. No. 732 (QL). The three cases consider the type of investigation that the Minister's officer must conduct when an appeal has been entrusted to him or her. The relevant excerpt from Berthiaume is at paragraph 32 of the decision:
+Can counsel for an Appellant, or an Appellant himself, dictate to the Minister's officer responsible for the investigation at the appeals level the investigation method that officer should use? To ask the question, in my view, is to answer it. Counsel for the Appellant wished to know the Court's position on this point. The Court usually does not rule on a question unless it has been debated in court. In this case, I find the answer so obvious that I will give it. The Minister's appeals officer must render a decision after forming an opinion on the case. His is a quasi-judicial role. However, regardless of whether an officer of the Minister acts in a quasi-judicial role or in an inspection role, it is up to him to determine the best way to ascertain the truth in accordance with the standards of what is reasonable. It seems clear to me that a meeting or at least a telephone conversation with the Appellants was necessary to enable him to assess the grounds of appeal and to allow the Appellants to be heard. Indeed, Appellants do not always find a telephone conversation sufficient to fully express their point of view. However, this method may be acceptable for purposes of efficiency. But there is definitely no obligation for the appeals officer to proceed by means of a written questionnaire if he deems that this is not how he will best shed light on a case. In my opinion, in view of his lack of cooperation, the Appellant cannot complain that there was no investigation. In any case, I find that the Minister had sufficient information to be able to render his decision.
+[25] What I take from the excerpt above is that the Minister's officer has an obligation to conduct an investigation, in accordance with the standards of what is reasonable, in order to ascertain the truth, and that it is up to him to determine the best way to achieve this. There can, however, be instances in which the scope and depth of an investigation do not meet the officer's expectations, particularly if it is impossible for the officer to obtain all the necessary information because the persons concerned by the investigation refuse to cooperate or do not cooperate sufficiently. Such a situation could make it reasonable for an officer not to conduct an investigation.
+[26] In my opinion, the appeals officer in the case at bar had sufficient information to make a decision. The legal representative of the Appellant and payer admitted that the circumstances surrounding the employment contract between them were the same as those which prevailed during the appeals officer's investigation into the prior periods. The Appellant, and a representative of the payer, had the opportunity to convey their version of the facts in the investigation concerning this matter, but given the admission made by their legal representative, it was practically futile for the officer to attempt investigate more thoroughly. The appeals officer's approach was entirely normal under the circumstances, since she had no reason to believe that the legal representative of the Appellant and payer did not have the authority to act as he did. I have no reason not to accept the appeals officer's version of the facts as far as this admission is concerned, and it would not have been acceptable for her to bypass the lawyer.
+[27] In this situation, it is difficult to conclude that the Appellant was denied his right to be heard or that no investigation was conducted. If the Appellant had truly intended to make clarifications at a hearing, as he said in his letter of June 9, 2000, then what accounts for the fact that he showed no interest in his case for almost four years, during which he was unaware of the fact that his lawyer had it put on hold? In my opinion, when an Appellant agrees to let his employer hire and dismiss the lawyer and agrees to be represented by the lawyer, he must also accept the consequences of this. In my opinion, the admissions of the lawyer to Ms. Courcy could not have been clearer, so it was entirely reasonable for her to conduct the investigation as she did. Under such circumstances, the Appellant, through his lawyer, waived his right to be heard. It is also noteworthy that during a telephone conversation with coverage officer Emmanuel St-Victor on February 21, 2000, the Appellant told him that his terms and conditions of employment were identical to the facts mentioned earlier in relation to the years 1993 through 1997. In light of all these circumstances, the investigation conducted by the appeals officer seems reasonable in my view. The Appellant was heard and there was enough information to make a decision.
+[28] The Federal Court of Appeal defined the functions of the Minister and the Court in Légaré v. Canada, A-392-98, May 28, 1999, [1999] F.C.J. No. 878 (QL), at paragraph 4:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[29] In fact, the Federal Court of Appeal reiterated its position in Pérusse v. Canada, A-722-97, March 10, 2000, [2000] F.C.J. No. 310 (QL), where Marceau J.A., referring to the above excerpt from Légaré, added as follows at paragraph 15:
+The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[30] The provisions of the Act by which employments are excluded from insurable employment where the employer and employee are not dealing with each other at arm's length, and the provisions that apply to situations where such non‑arm's length dealing is deemed not to have existed, are drafted as follows:
+5. . . .
+Excluded employment
+(2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+Arm's length dealing
+(3) For the purposes of paragraph (2)(i),
+. . .
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[31] In Louis-Paul Bélanger v. M.N.R., 2005 TCC 36, Archambault J. of our Court analyzed a set of decisions of both the Federal Court of Appeal and our Court on the issue of non‑arm's length dealing and on the process that the Court must follow in an appeal from a decision of the Minister based on the statutory provisions cited above. I will analyze the facts of the instant appeal based on all those instructions.
+[32] In assessing the circumstances of the Appellant's employment with the payer, the Minister concluded that the Appellant's Record of Employment did not truly reflect the period or number of hours worked. The Appellant's Record of Employment (Exhibit A‑1) states that the period of employment began on April 13, 1998, and ended on December 24, 1999, and that he received $22,182.74 in insurable earnings for 1680 hours of insurable employment. In his claim for employment insurance benefits (Exhibit I‑1), the Appellant referred to the same period of employment but declared that he worked 42 hours per week and that his regular weekly pay before deductions was $821.82. However, if the 1680 insurable hours are divided by 42 hours per week, it appears that the Appellant worked 40 weeks during the period and that his weekly salary was $554.56. There is already erroneous information here.
+[33] The payer, for its part, stated that the Appellant worked for 78 paid weeks during the period in issue (Exhibit A-3). In 1998, 38 weeks were worked at a salary of $725, for a total of $30,740. In 1999, 40 weeks were worked at a salary of $768.50 for one week, $821.82 for seven weeks and $821.50 for 32 weeks, for a total of $32,809.24. For the purposes of the period in issue, the Appellant did not work for the payer from January 10 to March 27, 1999. This absence from work is not recorded in the Record of Employment, and it is impossible to reconcile the Record of Employment with the account that Exhibit A‑3 gives of the Appellant's workweeks. In my opinion, the Minister's conclusion was correct.
+[34] One cannot disregard the admissions made by the Appellant and by the payer’s representative when they acknowledged that the Appellant made sales at a time that he was not being remunerated. Not only did he render services to the payer without being remunerated, but the sales were the basis on which his salary for the following year was determined, which meant that the Appellant lost nothing during his absence. It is during this wintertime absence that the Appellant did snow removal work for his business. However, when he lost a major snow removal contract in 2000, he went to work for the payer. If the payer had needed his services during the winter of 2000, why did it not need then during the winters of 1998 and 1999? No explanation was offered. In my opinion, the Appellant went to work for his business during the winters of 1998 and 1999 because the business wanted him, not because the payer had a work shortage. This was obviously a possibility given the fact that he and his employer were not at arm's length. In 2000, when the work diminished, he returned to work for the payer. One cannot disregard the fact that the Appellant used his car to the payer’s benefit free of charge. A person at arm's length would not have accepted such terms and conditions of employment.
+[35] Considering the compensation paid, the terms and conditions of the employment, its duration, and the nature and importance of the work performed, it was entirely reasonable for the Minister to conclude that, by reason of the non‑arm's length dealing, the Appellant's employment with the payer during the period in issue was not insurable employment within the meaning of the Act. The Appellant has not established, on a balance of probabilities, that the decision of the Minister was not reasonable under the circumstances, despite the fact that the Minister exercised his discretion without knowledge of the Appellant's or the payer’s account of the facts at the time of his investigation. The appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 28th day of March 2006.
+"François Angers"
+Angers J.
+Translation certified true
+on this 18th day of January 2007
+Monica F. Chamberlain, Translator
+CITATION: 2006TCC113
+COURT FILE NO.: 2004-4369(EI)
+STYLE OF CAUSE: Michel Tremblay and M.N.R.
+PLACE OF HEARING: Rivière-du-Loup, Quebec
+DATE OF HEARING: July 4, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: March 28, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Frédéric St-Jean
+Counsel for the Respondent:
+Jean Lavigne
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Frédéric St-Jean
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

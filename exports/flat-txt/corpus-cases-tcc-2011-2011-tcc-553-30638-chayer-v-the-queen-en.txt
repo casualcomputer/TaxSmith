@@ -1,0 +1,97 @@
+Title: Chayer v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30638/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-553-30638-chayer-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-12-02
+
+# Chayer v. The Queen
+
+- Citation: 2011 TCC 553
+- Decision date: 2011-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7132, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chayer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-12-02
+Neutral citation
+2011 TCC 553
+File numbers
+2011-336(GST)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-336(GST)I
+BETWEEN:
+VINCE CHAYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 2, 2011, at Ottawa, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Ryan Gellings
+____________________________________________________________________
+JUDGMENT
+The appeal under the Excise Tax Act from the notice of reassessment dated November 9, 2009 for the period from January 1, 2008 to December 31, 2008, is dismissed, without costs.
+Signed at Ottawa, Canada, this 2nd day of December, 2011.
+“Wyman W. Webb”
+Webb J.
+Citation: 2011TCC553
+Date: 20111202
+Docket: 2011-336(GST)I
+BETWEEN:
+VINCE CHAYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant was assessed net tax under the Excise Tax Act for the period from January 1, 2008 to December 31, 2008 in the amount of $1,578.85. The Appellant was also assessed penalties and interest. The only issue raised by the Appellant in his Notice of Appeal was that he did not collect GST. At the hearing he also raised an additional argument that the amount assessed was significant in comparison to his net income.
+[2] The facts in this case are not in dispute. The Appellant carries on business as a sole proprietor. He is mainly a drywall contractor but he also sells and installs windows. On September 7, 1999 the Appellant registered under the provisions of the Excise Tax Act. He collected GST for a period of time but when he noticed that some of the other subcontractors were not collecting GST he decided to stop collecting GST. He did not take any steps to cancel his GST registration and his GST registration was not cancelled by the Minister.
+[3] For the four calendar quarters ending on December 31, 2004, the Appellant made taxable supplies of $30,574 and in the four calendar quarters ending on December 31, 2008, the Appellant made taxable supplies of $31,577. These are the only two periods for which there was any indication of the amount of taxable supplies that the Appellant was making. It therefore appears that he was generally just over the threshold for a small supplier.
+[4] Subsection 221(1) of the Excise Tax Act provides that:
+221. (1) Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+[5] If a person is a small supplier who is not a registrant, section 166 of the Excise Tax Act provides that any consideration for a taxable supply that becomes due while that person is a small supplier who is not a registrant, is not included in calculating the tax payable in relation to that taxable supply, thus effectively providing that GST is not payable on taxable supplies made by small suppliers. However, if the person is a registrant, the provisions of section 166 of the Excise Tax Act do not apply. A registrant is defined in section 123 of the Excise Tax Act as follows:
+“registrant” means a person who is registered, or who is required to be registered, under Subdivision d of Division V;
+[6] Since the Appellant was registered in 1999 and did not take any steps to cancel his registration under section 242 of the Excise Tax Act (which he may not have been able to do in any event if his taxable supplies were consistently over $30,000 in every four consecutive calendar quarters since 1999), the Appellant was still registered in 2008 and therefore a registrant in 2008. As such he could not rely on section 166 of the Excise Tax Act. The Appellant cannot unilaterally and arbitrarily decide to stop collecting GST.
+[7] The Appellant did not lead any evidence or otherwise question the calculation of the amount of GST that the Appellant failed to collect and remit nor did he lead any evidence in relation to the amount that he had claimed for input tax credits.
+[8] With respect to the Appellant’s argument that his net income was only approximately $20,000, the amount of GST that he should have collected is based on his taxable supplies, not his net income. The net amount to be remitted is simply the difference between the GST collected (or collectible) on the taxable supplies that he made in 2008 and the amount of GST that he paid (or that was payable by him) on taxable supplies that he acquired for the purposes of carrying on his commercial activity. The net tax is based on taxable supplies made or acquired, not on his net income.
+[9] As a result the appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 2nd day of December, 2011.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2011TCC553
+COURT FILE NO.: 2011-336(GST)I
+STYLE OF CAUSE: VINCE CHAYER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: December 2, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: December 2, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Ryan Gellings
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

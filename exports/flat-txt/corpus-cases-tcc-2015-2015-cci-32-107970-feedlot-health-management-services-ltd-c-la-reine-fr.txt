@@ -1,0 +1,260 @@
+Title: Feedlot Health Management Services Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/107970/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-32-107970-feedlot-health-management-services-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-02-06
+
+# Feedlot Health Management Services Ltd. c. La Reine
+
+- Citation: 2015 CCI 32
+- Decision date: 2015-02-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2745, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Feedlot Health Management Services Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-02-06
+Référence neutre
+2015 CCI 32
+Numéro de dossier
+2012-1292(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1292(IT)G
+ENTRE :
+FEEDLOT HEALTH MANAGEMENT SERVICES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 18 septembre et 10 novembre 2014,
+à Calgary (Alberta)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocats de l’appelante :
+Me Robert D. McCue
+Mme Erica Hennessey (étudiante en droit)
+Avocate de l’intimée :
+Me Connie L. Mah
+JUGEMENT
+L’appel interjeté d’une cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que les montants contestés qui ont été payés à GK Jim Farms, d’une somme globale de 1 649 537 $, sont des dépenses définies à la division 37(8)a)(ii)(B) de la Loi. L’appelante a droit aux dépens, conformément au tarif.
+Signé à Toronto (Ontario), ce 6e jour de février 2015.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 15e jour de juin 2015.
+François Brunet, réviseur.
+Référence : 2015 CCI 32
+Date : 20150206
+Dossier : 2012-1292(IT)G
+ENTRE :
+FEEDLOT HEALTH MANAGEMENT SERVICES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+I. Introduction [1] Dans l’année d’imposition 2010, Feedlot Health Management Services Ltd. (« FHMS ») s’est lancée dans quatre projets de recherche visant à tester des régimes alimentaires, des suppléments et des vaccins innovateurs destinés au bétail. Le point en litige consiste à savoir si certaines dépenses relatives à ces projets sont déductibles aux termes de la division 37(8)a)(ii)(B) de la Loi de l’impôt sur le revenu.
+[2] La division 37(8)a)(ii)(B) fait partie de ce que l’on appelle la méthode de remplacement concernant la déclaration de dépenses en matière de recherche et de développement, qui permet aux contribuables d’opter pour une méthode de calcul simplifiée. Si les dépenses controversées sont déductibles aux termes de cette disposition, elles sont également admissibles au crédit d’impôt à l’investissement (CII), conformément à l’article 127 de la Loi.
+[3] Les dépenses en cause totalisent 1 649 537 $.
+II. Les faits [4] Un grand nombre des conclusions de fait qui suivent sont fondées sur un exposé conjoint des faits partiel et détaillé.
+[5] FHMS est une société albertaine qui a une entreprise de prestation de services de consultation dans le domaine vétérinaire. Les actions de cette société sont détenues indirectement par quatre personnes, qui sont vétérinaires. L’actionnaire le plus important, qui détient 42,5 p. 100 des actions, est une société appartenant en propriété exclusive au Dr Gung Kee Jim.
+[6] Dans le cadre de son entreprise, FHMS réalise des projets de recherche, soit pour des clients particuliers, soit pour son propre compte. Dans l’année d’imposition en cause, FHMS a entrepris environ quarante projets de recherche.
+[7] Le présent appel concerne quatre projets de recherche (les « projets de recherche ») menés pour des commanditaires et consistant à étudier des régimes alimentaires, des suppléments et des vaccins spéciaux destinés au bétail. Ces projets étaient conçus pour vérifier le lien entre des régimes alimentaires et des additifs nouveaux, et l’état de santé ainsi que le rendement de bovins.
+[8] Environ 7 000 bovins appartenant à des tiers ont été étudiés dans le cadre des projets de recherche. Ces bovins étaient placés dans des parcs d’engraissement commerciaux et élevés en vue d’une production commerciale pour le compte de leurs propriétaires. La production commerciale avait recours aux méthodes courantes, sous réserve des protocoles des projets de recherche.
+[9] Les bovins ont été soumis pendant plusieurs mois à des régimes alimentaires, des suppléments ou des vaccins particuliers par les parcs d’engraissement, conformément aux exigences des projets de recherche, et ce, jusqu’à leur envoi à des usines de transformation de la viande. Pendant tout le processus, les parcs d’engraissement prenaient des mesures des bovins et transmettaient les données à FHMS pour analyse.
+[10] FHMS a conclu avec les parcs d’engraissement diverses ententes, appelées « ententes de coopération », en vue d’effectuer des travaux liés aux projets de recherche, dont la collecte de données.
+[11] FHMS a également conclu des ententes avec GK Jim Farms (« Jim Farms ») en vue de la fourniture d’un pourcentage important des bovins à utiliser dans le cadre des projets de recherche.
+[12] Jim Farms est une entreprise individuelle appartenant au Dr Jim, qui exploite une vaste entreprise d’investissement dans l’industrie bovine. Les bovins achetés pour les projets de recherche ont été élevés et traités de la même façon que les autres bovins de Jim Farms, sous réserve de modifications convenues avec FHMS pour mener ses recherches.
+[13] Les montants controversés, qui totalisent la somme de 1 649 537 $, représentent ceux qui ont été facturés et payés par FHMS à Jim Farms, relativement à la fourniture de bovins pour les projets de recherche. Les ententes régissant cet arrangement sont décrites ci-après.
+[14] Pour établir la cotisation à l’endroit de FHMS au sujet des projets de recherche, le ministre du Revenu national (le « ministre ») :
+(i) a admis que les projets de recherche comportaient des activités de recherche scientifique et de développement expérimental (RS‑DE) au sens de la Loi;
+(ii) a admis que les travaux exécutés par les parcs d’engraissement dans le cadre des ententes de coopération étaient des activités de RS‑DE;
+(iii) a mis en doute que les travaux accomplis par Jim Farms constituaient des activités de RS‑DE et que les montants qui lui avaient été payés étaient déductibles selon la méthode de remplacement que FHMS avait choisie.
+III. Les ententes conclues entre FHMS et Jim Farms [15] Pour chaque projet de recherche, FHMS a conclu avec Jim Farms une entente distincte, intitulée [traduction] « Entente relative à une étude de recherche » (EER). Les EER sont toutes semblables, et les modalités d’une entente représentative sont reproduites ci-dessous :
+[traduction]
+Attendu que FHMS a besoin d’environ 3 930 têtes de bétail présentant certaines caractéristiques sur le plan de la santé et de la race (le « bétail à l’étude ») en vue de mener une étude de recherche évaluant l’ajout de drèches sèches de blé et de maïs avec solubles (DSBMS) dans le régime de finition du bétail à l’étude (« FHMS 0803 ») et que Jim Farms a convenu d’acheter le bétail à l’étude à cette fin, les parties conviennent par les présentes de ce qui suit :
+1. entre le 24 septembre et le 1er décembre 2009, Jim Farms fera l’acquisition, à ses propres frais, de 3 930 têtes de bétail présentant les caractéristiques suivantes :
+a) achat auprès d’un marché aux enchères;
+b) bouvillons croisés exotiques.
+2. Jim Farms demandera que le bétail soit traité en fonction des spécifications de FHMS, d’après les exigences de l’étude de recherche FHMS 0803.
+3. Jim Farms paiera la totalité des coûts associés à l’acquisition du bétail, ainsi qu’à son transport jusqu’au(x) parc(s) d’engraissement participant à l’étude de recherche FHMS 0803.
+4. Jim Farms paiera durant cette période la totalité des coûts d’alimentation afin de permettre à FHMS d’évaluer le bétail et de s’assurer qu’il répond aux exigences de l’étude de recherche FHMS 0803.
+5. Sur acceptation de sa participation à l’étude, FHMS convient de payer la totalité des coûts d’alimentation et de santé associés au bétail à l’étude.
+6. Jim Farms convient de donner à FHMS accès à toutes les données relatives à la santé et aux carcasses du bétail à l’étude.
+7. Jim Farms convient que FHMS prendra toutes les décisions relatives à l’état de santé, à l’alimentation et à la mise en marché du bétail à l’étude.
+[16] Les EER prévoient que FHMS paiera la totalité des frais d’alimentation et de santé qui se rapportent au bétail évalué. Comme nous le verrons plus loin, ce n’est pas ce qui s’est réellement passé.
+[17] Dans les hypothèses qu’il a plaidées, le ministère public a tenu pour acquis que FHMS avait payé la totalité des frais d’alimentation relatifs à trois des projets de recherche et uniquement la moitié de ces frais pour l’autre projet (réponse, alinéa 20r)).
+[18] Le Dr Jim a parlé de cette hypothèse dans son témoignage. Il a déclaré qu’il n’y avait qu’un seul projet de recherche dans le cadre duquel FHMS avait payé la totalité des frais d’alimentation. FHMS et Jim Farms avaient négocié des frais égaux à un prix fixe par tête de bétail, et ces frais étaient suffisants pour compenser les risques que prenait Jim Farms à l’égard des EER. Il a ajouté que, dans trois des quatre projets de recherche, les montants réellement payés avaient été nettement inférieurs à la totalité des frais d’alimentation.
+[19] Selon le témoignage du Dr Jim, le prix négocié n’a pas été indiqué dans les EER parce que, d’après les conseils fiscaux donnés, il fallait que la contrepartie soit liée aux aliments consommés. Il avait été suggéré de déclarer les dépenses sous forme de matériaux consommés, lesquels pouvaient être déduits selon la méthode de remplacement. C’est ainsi que les déclarations de revenus ont été établies, mais FHMS n’a pas tenté de justifier la production de déclarations de revenus dans le présent appel.
+[20] Je trouve que le témoignage du Dr Jim sur ce point est problématique. À première vue, il donne à penser que FHMS et lui, délibérément, n’ont pas fait état dans les EER de leur arrangement véritable. Le Dr Jim a laissé entendre que cette erreur était involontaire, mais ce témoignage est intéressé.
+[21] En raison de cela, j’ai considéré le témoignage du Dr Jim avec une prudence particulière.
+[22] Je dirais toutefois que de nombreux éléments du témoignage du Dr Jim, dont celui concernant les frais négociés, n’étaient pas controversés, et le ministère public ne les a pas contestés. J’en conclus que les paiements réels que FHMS a faits étaient nettement inférieurs à la contrepartie indiquée dans les EER pour trois des projets de recherche, comme le Dr Jim l’a déclaré.
+IV. Le droit applicable [23] Pour ce qui est des dépenses en matière de recherche scientifique, l’économie de la Loi est tortueuse et complexe. Les dispositions législatives pertinentes se divisent en trois volets :
+(i) le paragraphe 248(1) définit les activités de RS‑DE;
+(ii) l’article 37 définit les dépenses liées aux activités de RS‑DE qui peuvent être déduites lorsqu’elles sont engagées et qui peuvent être reportées à une année ultérieure;
+(iii) l’article 127 définit les dépenses liées aux activités de RS‑DE qui sont admissibles au CII.
+[24] Chacun de ces volets comporte ses propres critères à respecter. Pour compliquer encore plus les choses, le contribuable a le choix de déterminer les dépenses admissibles en fonction de ce que l’on appelle soit la méthode classique, soit la méthode de remplacement.
+[25] La méthode de remplacement est un moyen simplifié de déterminer les déductions relatives aux activités de RS‑DE et le CII connexe. Elle a été ajoutée à la Loi en 1994. Contrairement à la méthode classique, la méthode de remplacement permet seulement aux contribuables de déclarer des types énumérés de dépenses liées aux activités de RS‑DE. L’intention du législateur est d’exclure certaines dépenses, telles que les frais généraux et d’autoriser, à leur place, un pourcentage des salaires et des traitements liés aux activités de RS‑DE pour les besoins du CII.
+[26] Pour l’année d’imposition 2010, il y avait quatre types généraux de dépenses liées aux activités de RS‑DE qui étaient autorisés selon la méthode de remplacement : les dépenses au titre des installations ou de matériel ou de leur location, les salaires et traitements, les dépenses afférentes aux travaux accomplis pour le compte du contribuable, de même que le coût des matériaux consommés.
+[27] Les éléments pertinents des dispositions législatives qui étaient en vigueur dans l’année pertinente sont reproduits ci-dessous. Comme les dispositions relatives au CII ne sont pas en cause, elles n’ont pas été reproduites.
+248(1)
+[…]
+« activités de recherche scientifique et de développement expérimental » Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+a) la recherche pure, à savoir les travaux entrepris pour l’avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l’avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l’étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l’exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données.
+37(1) Activités de recherche scientifique et de développement expérimental – Le contribuable qui exploite une entreprise au Canada au cours d’une année d’imposition peut déduire dans le calcul du revenu qu’il tire de cette entreprise pour l’année un montant qui ne dépasse pas l’excédent éventuel du total des montants suivants :
+a) le total des montants dont chacun représente une dépense de nature courante qu’il a faite au cours de l’année ou d’une année d’imposition antérieure se terminant après 1973 :
+(i) soit pour des activités de recherche scientifique et de développement expérimental exercées au Canada directement par le contribuable, en rapport avec son entreprise,
+[…]
+37(8) Interprétation – Dans le cadre du présent article :
+a) les mentions des dépenses afférentes aux activités de recherche scientifique et de développement expérimental :
+[…]
+(ii) lorsqu’elles figurent ailleurs qu’au paragraphe (2), se limitent :
+(A) aux dépenses engagées par un contribuable au cours d’une année d’imposition, sauf une année d’imposition pour laquelle le contribuable a fait le choix prévu à la division (B), représentant chacune :
+(I) soit une dépense courante attribuable en totalité, ou presque, à des activités de recherche scientifique et de développement expérimental exercées au Canada, ou à la fourniture, à ces fins, de locaux, d’installations ou de matériel,
+(II) soit une dépense courante directement attribuable, selon ce qui est prévu par règlement, à des activités de recherche scientifique et de développement expérimental exercées au Canada, ou à la fourniture, à ces fins, de locaux, d’installations ou de matériel,
+(III) soit une dépense en capital pour la fourniture de locaux, d’installations ou de matériel qui, au moment où la dépense est engagée, répondent à l’une des conditions suivantes :
+1. ils sont censés être utilisés, pendant la totalité, ou presque, de leur temps d’exploitation au cours de leur vie utile prévue, dans le cadre d’activités de recherche scientifique et de développement expérimental exercées au Canada,
+2. la totalité, ou presque, de leur valeur est censée être consommée dans le cadre d’activités de recherche scientifique et de développement expérimental exercées au Canada,
+(B) si un contribuable en fait le choix sur formulaire prescrit et en conformité avec le paragraphe (10) pour une année d’imposition, aux dépenses engagées par lui au cours de l’année, représentant chacune :
+(I) soit une dépense courante pour la location de locaux, d’installations ou de matériel servant à des activités de recherche scientifique et de développement expérimental exercées au Canada et qui y est attribuable en totalité, ou presque, à l’exception d’une dépense pour du mobilier ou de l’équipement de bureau de nature générale,
+(II) soit une dépense pour des activités de recherche scientifique et de développement expérimental exercées au Canada et entreprises directement pour le compte du contribuable,
+(III) soit une dépense visée à la subdivision (A)(III), à l’exception d’une dépense pour du mobilier ou de l’équipement de bureau de nature générale,
+(IV) soit la partie d’une dépense faite relativement à des frais engagés au cours de l’année pour le traitement ou le salaire d’un employé exerçant directement des activités de recherche scientifique et de développement expérimental au Canada, qu’il est raisonnable de considérer comme se rapportant à ce travail compte tenu du temps que l’employé y consacre; à cette fin, la partie de dépense est réputée correspondre au montant de la dépense si elle en constitue la totalité, ou presque,
+(V) soit le coût du matériel consommé dans le cadre d’activités de recherche scientifique et de développement expérimental exercées au Canada,
+(VI) soit la moitié de toute autre dépense courante pour la location de locaux, d’installations ou de matériel utilisés principalement dans le cadre d’activités de recherche scientifique et de développement expérimental exercées au Canada, à l’exception d’une dépense pour du mobilier ou de l’équipement de bureau de nature générale;
+[…]
+V. Analyse A. Introduction [28] La question est de savoir si les dépenses controversées sont déductibles selon la méthode de remplacement énoncée à la division 37(8)a)(ii)(B) de la Loi. FHMS est tenue d’utiliser cette méthode par suite d’un choix irrévocable qu’elle a fait pour l’année d’imposition 2010.
+[29] Comme il a été signalé plus tôt, seuls certains types énumérés de dépenses sont admissibles selon la méthode de remplacement, et ils sont énumérés aux subdivisions (I) à (VI) de la division 37(8)a)(ii)(B).
+[30] Dans son avis d’appel, FHMS a soutenu que les dépenses controversées étaient admissibles au titre de la méthode de remplacement soit parce qu’elles étaient destinées à la location de matériel (c.-à-d., du bétail) (subdivisions (I) ou (VI)), soit parce qu’elles avaient été engagées pour des activités de RS‑DE exercées pour son compte (subdivision (II)). FHMS a décidé de ne pas donner suite à la question de la subdivision (II) lors des débats, mais le ministère public l’a discutée dans ses observations.
+[31] Malgré l’abandon, par FHMS, du moyen tiré de la subdivision (II), j’ai conclu après l’audience qu’il fallait examiner cette disposition et j’ai invité les parties à formuler d’autres observations. Les principes applicables au fait qu’un tribunal soulève une question de sa propre initiative ont récemment été exposés dans l’arrêt R. c Mian, 2014 CSC 54. Je cconclus qu’il est important d’examiner la subdivision (II) dans le contexte du présent appel et que le fait que je soulève la question ne porte préjudice à ni l’une ni l’autre des parties.
+[32] Les deux parties ont répondu à ma demande en produisant des observations détaillées et utiles. Fait non surprenant, FHMS a exprimé l’avis que la subdivision (II) jouait, et le ministère public a défendu le point de vue contraire.
+[33] Il sera question plus loin dans les présents motifs de la subdivision (II). Commençons par la question de la location.
+B. Les dépenses controversées ont-elles été engagées pour la location de matériel? [34] FHMS soutient que les dépenses contestées ont été engagées pour la location de matériel, c’est-à-dire la location de bétail, au sens des subdivisions (I) et (VI) de la division 37(8)a)(ii)(B).
+[35] Il suffit seulement de mettre l’accent sur la subdivision (I), dont voici le texte :
+(I) soit une dépense courante pour la location de locaux, d’installations ou de matériel servant à des activités de recherche scientifique et de développement expérimental exercées au Canada et qui y est attribuable en totalité, ou presque, à l’exception d’une dépense pour du mobilier ou de l’équipement de bureau de nature générale,
+[Non souligné dans l’original.]
+[36] L’avocat de FHMS soutient que les mots « location » et « matériel » (« lease » et « equipment » dans la version anglaise de cette disposition) ont des sens étendus et qu’une interprétation fondée sur l’objet visé inclut l’accès au bétail que prévoient les EER.
+[37] Le ministère public, en revanche, soutient que les EER ne sont pas des « contrats de location » (« leases » en anglais) et que le bétail n’est pas du « matériel » au sens ordinaire de ces deux termes.
+[38] J’ai conclu que la subdivision (I), et la subdivision (VI) connexe, ne jouaient pas parce que les EER n’étaient pas des contrats de location.
+[39] Le mot anglais « lease », qui, lorsqu’il est employé comme substantif, peut se traduire en français par « contrat de location », est défini dans le Canadian Oxford Dictionary (2e éd.) :
+[traduction]
+contrat de location 1 contrat par lequel le propriétaire d’un bâtiment, d’un appartement, d’un véhicule, d’un terrain, etc. autorise quelqu’un d’autre à l’utiliser pendant un délai prescrit moyennant un certain prix. […]
+[40] À mon avis, les droits que confèrent les EER à FHMS sont loin d’être des contrats de location.
+[41] Les EER obligent Jim Farms à acquérir certains types de bovins et à les transporter jusqu’à des parcs d’engraissement précis, elles autorisent FHMS à prendre des décisions en matière de santé, d’alimentation et de mise en marché, et elles confèrent à FHMS le droit d’accéder à des données. D’après ce que j’ai compris, le droit qu’a FHMS de prendre des décisions en matière de mise en marché signifie généralement que le bétail sera traité à des moments précis d’une certaine façon, en vue de répondre aux besoins des projets de recherche.
+[42] De pair avec les EER, le bétail a également été acquis, élevé et traité pour l’avantage de Jim Farms, et ce, d’une manière identique à ses activités régulières, sauf dans la mesure requise pour répondre aux besoins des projets de recherche.
+[43] Le bail implique une possession exclusive : Johnson v British Canadian Insurance Company, [1932] SCR 680, à la page 685.
+[44] Je conclus que FHMS n’a pas eu la possession exclusive du bétail pendant la durée des EER, et qu’elle ne jouissait que de droits restreints à l’égard de ces animaux.
+[45] Je reproduis ci-dessous des passages extraits du témoignage du Dr Jim sur la gestion du bétail. Il ressort de ce témoignage que Jim Farms a conservé certains droits à l’égard du bétail pendant toute la durée des EER :
+(i) Le Dr Jim a déclaré que Jim Farms avait renoncé à [traduction] « plusieurs choses importantes au sujet du bétail. […] [L]es protocoles d’alimentation, les protocoles de santé et les protocoles de mise en marché […] » (transcription, page 42).
+(ii) Le Dr Jim a déclaré que les factures envoyées par les parcs d’engraissement commerciaux à Jim Farms concernaient [traduction] « la totalité des aliments collectifs et des autres éléments qui étaient nécessaires pour soumettre le bétail du parc d’engraissement à la phase de production de ce dernier » (transcription, page 51).
+(iii) En contre-interrogatoire, le Dr Jim a confirmé que les factures font état de [traduction] « dépenses relatives aux aliments, aux enclos, à la litière, aux soins de santé et à la transformation […] » (transcription, page 66).
+[46] Je conclus que les EER ne prévoient pas la possession exclusive du bétail et qu’il ne s’agit pas de contrats de location.
+[47] L’avocat de FHMS soutient qu’il faut interpréter de manière large le mot « location » pour que l’article 37 atteigne son objectif. Selon moi, on étirerait le sens du mot « location » au-delà d’une interprétation raisonnable s’il englobait les droits restreints que FHMS a acquis en vertu des EER.
+[48] Je conclurais donc que les dépenses controversées n’entrent pas dans les prévisions des subdivisions (I) ou (VI) de la division 37(8)a)(ii)(B).
+C. Les dépenses controversées qui ont trait aux activités de RS‑DE ont-elles été engagées pour le compte de FHMS? 1) Introduction [49] Dans ses observations supplémentaires, FHMS soutient que les dépenses controversées peuvent être déduites au titre de la subdivision (II) de la division 37(8)a)(ii)(B), dont voici le texte :
+(II) soit une dépense pour des activités de recherche scientifique et de développement expérimental exercées au Canada et entreprises directement pour le compte du contribuable,
+[50] La question est de savoir si les dépenses controversées ont été engagées pour des activités de RS‑DE directement exercées pour le compte de FHMS.
+[51] Le ministère public soutient que la subdivision (II) ne joue pas, car les travaux que Jim Farms a accomplis dans le cadre des EER ne sont pas des activités de RS‑DE, au sens du paragraphe 248(1) de la Loi.
+[52] FHMS soutient que Jim Farms a bel et bien exercé des activités de RS‑DE et que, de toute façon, il n’est pas nécessaire qu’elle exerce de telles activités, car les dépenses sont admissibles si elles ont été engagées pour des activités de RS‑DE.
+[53] Si les travaux accomplis par Jim Farms sont des activités de RS‑DE, il est évident que les dépenses contestées sont déductibles au titre de la subdivision (II). Mais il est moins sûr qu’elles puissent l’être si les travaux en question n’en sont pas.
+[54] Par les motifs qui suivent, je conclus que les travaux accomplis par Jim Farms n’étaient pas des activités de RS‑DE, en raison de l’exclusion commerciale qui figure à l’alinéa i) de la définition. Cependant, selon moi, les dépenses controversées sont déductibles au titre de la subdivision (II), car elles ont été engagées pour des activités de RS‑DE exercées par une tierce partie.
+[55] Il y a deux questions qui se posent : les activités sont-elles des activités de RS‑DE, et les dépenses entrent-elles dans les prévisions de la subdivision (II)? Logiquement, il faut d’abord vérifier si les activités sont des activités de RS‑DE. Cependant, comme j’ai conclu qu’il n’était pas nécessaire que ce soit le cas, je commencerai par la subdivision (II). L’analyse concernant les activités de RS‑DE suivra.
+2) La subdivision (II) de la division 37(8)a)(ii)(B) [56] Les dépenses controversées sont déductibles au titre de la subdivision (II) si elles sont afférentes aux activités de RS‑DE exercées pour le compte de FHMS. Il est utile de reproduire une fois de plus le texte de cette subdivision :
+(II) soit une dépense pour des activités de recherche scientifique et de développement expérimental exercées au Canada et entreprises directement pour le compte du contribuable,
+[57] J’ai conclu que la subdivision (II) jouait parce que les dépenses controversées avaient été engagées pour des activités de RS‑DE exercées par les parcs d’engraissement pour le compte du contribuable.
+[58] Le seul objet des dépenses contestées était de faciliter l’exécution des projets de recherche en prenant les dispositions nécessaires pour que le bétail soit livré à des parcs d’engraissement précis et pour que ces derniers puissent effectuer les tests ainsi que recueillir les données pertinentes que FHMS devait analyser. Essentiellement, les dépenses controversées ont été engagées en vue de fournir des sujets sur lesquels mener des recherches scientifiques. Dans ce contexte, les dépenses controversées ont été engagées pour des activités de RS‑DE exercées par FHMS, et elles ont également été engagées pour des activités de RS‑DE exercées par les parcs d’engraissement pour le compte de FHMS, soit la collecte de données. Les dépenses engagées pour des activités de RS‑DE exercées par les parcs d’engraissement sont admissibles au titre de la subdivision (II).
+[59] Examinons maintenant certaines des observations des parties.
+[60] Le ministère public est d’avis que la subdivision (II) ne joue pas parce que les travaux accomplis par Jim Farms ne sont pas des activités de RS‑DE.
+[61] La difficulté que pose cet argument est qu’il n’accorde pas un poids suffisant au mot « pour ». La subdivision (II) ne s’applique pas simplement aux dépenses engagées « pour » les activités de RS‑DE, mais aussi aux dépenses engagées « quant aux » activités de RS‑DE. Cette expression, selon moi, élargit les dépenses admissibles au titre de la subdivision (II) aux dépenses qui se rapportent aux activités de R‑DE.
+[62] Il est bien établi que l’expression anglaise « in respect of » (« pour » dans le texte français de la subdivision (II), mais « quant à » dans l’extrait qui suit) a en général une très grande portée dans la Loi. Par exemple, dans l’arrêt La Reine c Savage, [1983] 2 RCS 428, au paragraphe 23, la Cour suprême du Canada a fait référence au passage suivant tiré de la décision Nowegijick c La Reine, 83 DTC 5041 :
+À mon avis, les mots « quant à » ont la portée la plus large possible. Ils signifient, entre autres, « concernant », « relativement à » ou « par rapport à ». Parmi toutes les expressions qui servent à exprimer un lien quelconque entre deux sujets connexes, c'est probablement l’expression « quant à » qui a la portée la plus large.
+[63] En conséquence, il n’est pas nécessaire que les dépenses admissibles pour les besoins de la subdivision (II) aient été engagées pour des activités de RS‑DE en soi.
+[64] Le ministère public soutient également que certaines des dépenses contestées ne sont pas liées à des activités de RS‑DE, parce que le montant des dépenses est excessif par rapport aux travaux que Jim Farms a accomplis pour les projets de recherche. Cet argument met en doute le caractère raisonnable des dépenses contestées.
+[65] Bien que la preuve semble aller quelque peu dans le sens de cette position, je suis arrivée à la conclusion qu’il n’y avait pas lieu de la prendre en considération, parce qu’elle n’avait pas été soulevée en tant que point en litige dans la réponse.
+[66] Pour résumer le contexte, il ressort clairement des actes de procédure que le ministère public a décidé de mettre en doute le caractère raisonnable des dépenses contestées. FHMS a soulevé directement la question dans l’avis d’appel, et le ministère public a décidé de ne pas y faire référence dans la réponse. FHMS a eu raison de conclure que le caractère raisonnable n’était pas un point en litige. J’ai donc tenu pour acquis aux fins de la présente décision que le montant des dépenses contestées était raisonnable par rapport aux activités exercées pour le compte de FHMS.
+[67] Je ferais également une observation sur un argument que FHMS a invoqué. Si j’ai bien compris, FHMS soutient que la subdivision (II) joue parce que les dépenses controversées concernaient des activités exercées par Jim Farms pour le compte de la contribuable et qu’elles étaient liées à des activités de RS‑DE exercées par FHMS.
+[68] FHMS soutient donc que la subdivision (II) joue même s’il n’existe aucun contrat pour des activités de RS‑DE exercées par un tiers. Cette observation interprète cette disposition d’une manière par trop générale. Selon moi, le législateur entendait vraisemblablement que la subdivision (II) ne s’applique qu’aux dépenses engagées pour des activités de RS‑DE qui étaient exercées par un tiers. Cette interprétation concorde avec le texte de la loi, et elle est également logique dans le contexte de la méthode de remplacement, qui vise à limiter les types de dépenses admissibles.
+[69] Cependant, par les motifs indiqués plus tôt, je conclus que les dépenses controversées sont déductibles au titre de la subdivision (II) de la division 37(8)a)(ii)(B).
+3) Les activités exercées par Jim Farms sont-elles des activités de RS‑DE? [70] Au vu de la conclusion qui précède, il est inutile d’examiner si les activités exercées par Jim Farms dans le cadre des EER constituent bel et bien des activités de RS‑DE. Cependant, j’ai reçu de longues observations sur cette question et je les commenterai brièvement.
+[71] Le ministère public est d’avis que les activités exercées par Jim Farms ne constituent pas des activités de RS‑DE, car elles ne sont pas décrites aux alinéas a), b), c) et d) de la définition des activités de RS‑DE. Il soutient également que les activités sont exclues aux termes de l’alinéa i).
+[72] Je vais me concentrer sur l’exclusion prévue à l’alinéa i), car il me semble clair que les travaux accomplis par Jim Farms constituent par ailleurs des activités de RS‑DE, puisqu’ils sont liés à la tenue d’essais et à la collecte de données, qui sont admissibles aux termes de l’alinéa d). La position du ministère public, à savoir que les travaux accomplis par Jim Farms ne cadrent pas avec l’alinéa d), semble faire abstraction de l’expression « with respect to » (dans la version anglaise de cette disposition).
+[73] L’alinéa i) de la définition des activités de RS‑DE dispose :
+« activités de recherche scientifique et de développement expérimental » Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+[…]
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+[…]
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+[74] La position du ministère public au sujet de cette disposition est ainsi résumée dans la réponse :
+[traduction]
+Les paiements destinés à l’alimentation – et à l’élevage – du bétail des parcs d’engraissement dans le cadre des quatre projets de recherche étaient attribuables à la production commerciale de bovins en parc d’engraissement améliorés de Farms ou à l’utilisation commerciale d’un procédé amélioré pour élever les bovins en parc d’engraissement de Farms dans les parcs d’engraissement commerciaux.
+[75] J’aurais quelques commentaires préliminaires à formuler à propos de la position du ministère public.
+[76] Premièrement, l’énoncé qui précède est axé sur les « paiements ». Cependant, l’exclusion relative à l’utilisation commerciale est liée aux activités exercées, et non à la contrepartie payée. Les paiements versés aux termes des EER sont sans rapport avec le présent examen.
+[77] Deuxièmement, la réponse fait référence à une production et une utilisation commerciales qui sont « améliorées ». Le mot « améliorées » implique que les recherches ont déjà été prouvées, ce qui n’est pas le cas en l’espèce. Mais cela n’est pas pertinent, car la loi fait mention aussi de produits et processus « nouveaux ». Dans le cas présent, il était question de l’utilisation de « nouveaux » protocoles d’alimentation et de santé.
+[78] Passons maintenant à la question principale, qui consiste à savoir si les activités exercées par Jim Farms dans le cadre des EER sont liées à l’utilisation commerciale de nouveaux processus.
+[79] Quelles sont les activités exercées par Jim Farms dans le cadre des EER? Ces activités comportent l’acquisition de bovins et le fait de permettre à FHMS de fixer des protocoles d’alimentation et de suppléments. Ces activités sont pour l’avantage de FHMS, mais elles sont aussi exercées par Jim Farms dans le cadre ordinaire de l’élevage de bovins. D’autres activités, tel qu’autoriser FHMS à accéder à des données, ne sont pas liées à l’entreprise ordinaire de Jim Farms.
+[80] À mon avis, il y a un nombre suffisant d’activités exercées aux termes des EER qui sont liées à l’entreprise ordinaire de Jim Farms pour que les travaux accomplis aux termes des EER soient généralement « pour » l’utilisation commerciale, par Jim Farms, de nouveaux processus. Je signale que l’exclusion s’applique non seulement à l’usage commercial que fait le contribuable, mais aussi à l’usage commercial que fait une tierce partie, à la condition que les travaux accomplis soient pour un usage commercial. Telle semble être l’intention du législateur.
+[81] L’avocat de FHMS soutient que cette interprétation restreint indûment les dépenses qui devraient être autorisées sous le régime relatif aux activités de RS‑DE. Je ferais remarquer que chaque affaire dépend des faits particuliers qui lui sont propres. En l’espèce, les travaux accomplis par Jim Farms dans le cadre des EER sont assujettis à l’exclusion commerciale du fait de leur intégration à la propre activité commerciale de Jim Farms.
+VI. Décision [82] Par conséquent, l’appel est accueilli, avec dépens en faveur de l’appelante.
+Signé à Toronto (Ontario), ce 6e jour de février 2015.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 15e jour de juin 2015.
+François Brunet, réviseur.
+RÉFÉRENCE :
+2015 CCI 32
+No DU DOSSIER DE LA COUR :
+2012-1292(IT)G
+INTITULÉ :
+FEEDLOT HEALTH MANAGEMENT SERVICES LTD. et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Les 18 septembre et 10 novembre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 6 février 2015
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Robert D. McCue
+Mme Erica Hennessey (étudiante en droit)
+Avocate de l’intimée :
+Me Connie L. Mah
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Robert D. McCue
+Cabinet :
+Bennett Jones LLP
+Calgary (Alberta)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

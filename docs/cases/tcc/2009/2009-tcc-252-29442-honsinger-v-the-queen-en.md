@@ -1,0 +1,277 @@
+---
+title: "Honsinger v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29442/index.do"
+last_modified: "2009-05-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 252"
+citation2: ""
+neutral_citation: "2009 TCC 252"
+decision_date: "2009-05-08"
+language: "en"
+item_id: "29442"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6933
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:18:06.384000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f8ec60d8396b3e95e489562d772bdfbb369894903264318b14fa58147b709162"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Honsinger v. The Queen
+
+- Citation: 2009 TCC 252
+- Decision date: 2009-05-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6933, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Honsinger v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-05-08
+Neutral citation
+2009 TCC 252
+File numbers
+2008-1137(EI)
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-1137(EI)
+BETWEEN:
+FRANCES HONSINGER & MARIANNE COLLINS,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Frances Honsinger & Marianne Collins (2008‑1138(CPP))
+on March 24, 2009 in Nanaimo, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellants:
+Frances Honsinger
+Counsel for the Respondent:
+Whitney Dunn
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, without costs, and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 8th day of May 2009.
+"L.M. Little"
+Little J.
+Docket: 2008-1138(CPP)
+BETWEEN:
+FRANCES HONSINGER & MARIANNE COLLINS,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Frances Honsinger & Marianne Collins (2008‑1137(EI))
+on March 24, 2009 in Nanaimo, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellants:
+Frances Honsinger
+Counsel for the Respondent:
+Whitney Dunn
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, without costs, and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 8th day of May 2009.
+"L.M. Little"
+Little J.
+Citation: 2009 TCC 252
+Date: 20090508
+Dockets: 2008-1137(EI)
+2008-1138(CPP)
+BETWEEN:
+FRANCES HONSINGER & MARIANNE COLLINS,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] The Appellants owned and operated a business under the name of Sunrise Learning Centre (“Sunrise”) with offices in Courtenay and Campbell River, British Columbia.
+[2] Students who attended Sunrise received tutoring in academic subjects such as reading, writing and mathematics.
+[3] Sara Kerr (the “Worker”) was a tutor at Sunrise for the period of August 21, 2006 to July 7, 2007 (the “Period”).
+[4] The issue in these appeals is whether the Worker was engaged by Sunrise as an employee or an independent contractor during the Period.
+[5] Sometime in 2007, the Worker applied to receive benefits under the Employment Insurance Act (the “EI Act”).
+[6] By letter dated September 14, 2007 an official of the Canada Revenue Agency (the “CRA”) wrote to the Appellants. The letter provided, in part, as follows:
+Based on our analysis we have ruled that
+For the period of August 21, 2006 to July 7, 2007, Sara Kerr was an employee and her employment was insurable pursuant to paragraph 5(1)(a) of the Employment Insurance Act and pensionable pursuant to paragraph 6(1)(a) of the Canada Pension Plan.
+Appellants’ Position
+[7] The Appellants maintain that since they commenced to operate Sunrise in 1999, Sunrise has had 22 tutors who worked as independent contractors. The Appellants said that they took the position that all of the tutors were independent contractors and the CRA accepted this position. However, in one situation a tutor by the name of Pamela Merritt was initially considered by the CRA to be an employee of Sunrise. After the CRA reviewed the arrangement between Sunrise and Pamela Merritt it determined that Ms. Merritt was a self-employed independent contractor. The letter from the CRA dated March 3, 2006 reads, in part, as follows:
+It has been decided that Pamela Merritt’s employment was not pensionable and insurable for the following reason(s): She was engaged under a contract for services and therefore, she was not an employee of Sunrise Learning Centre during the period mentioned above.
+Respondent’s Position Re: The Worker (Sara Kerr)
+[8] The Reply to the Notice of Appeal prepared by the Minister of National Revenue (the “Minister”) states as follows:
+In making his decision the Minister relied on the assumptions of fact as follows:
+a) during the Period, the Appellant operated a learning center that provided instruction and tutoring to students;
+b) the Appellant’s learning center provided the tutoring mostly after school and on Saturdays;
+c) the Appellant advertised for students;
+d) the Appellant assessed the learning needs of each student;
+e) the Appellant established an instruction program for each student dependent on that student’s needs;
+f) the Appellant hired instructors to tutor each of the Appellant’s students;
+g) the Appellant provided the classroom facilities, including the desks and the curriculum materials, used by the instructors to tutor students;
+h) the Appellant required that each of the instructors have a British Columbia teacher’s certificate;
+i) the Appellant hired Kerr to instruct its students;
+j) the Appellant required Kerr to complete reports and records for each student assigned to her;
+k) the Appellant trained Kerr in respect to the record keeping that was required;
+l) the Appellant matched the students to the instructor that the Appellant felt best suited each student’s learning needs;
+m) the Appellant set the ratio of students to instructor and the limit was a maximum of two students for each hourly instructional session;
+n) the Appellant established the rate of pay and paid Kerr $10 per hour for a single student and $20 per hour for a two student instructional session;
+o) in addition to the hourly rate for instructional duties, Kerr was also paid $15 for each student report that she was required to complete;
+p) Kerr was required to follow the individual program established by the Appellant for each student;
+q) the Appellant required Kerr to provide her personal services;
+r) in the event that Kerr was not able to teach a scheduled session she was required to arrange for a replacement from the Appellant’s list of instructors;
+s) it was the Appellant and not Kerr that paid the replacement instructor; and
+t) Kerr was not in a position to make a profit nor was she required to incur expenses in the performance of her instructional duties.
+(Note: The Appellants do not agree with all of these assumptions.)
+B. ISSUE:
+[9] The issue is whether the Appellants employed Ms. Kerr under a contract of service in pensionable employment during the Period within the meaning of paragraph 5(1)(a) of the EI Act and paragraph 6(1)(a) of the Canada Pension Plan (the “Plan”).
+C. ANALYSIS AND DECISIONS
+[10] The question as to whether a Worker was an employee or an independent contractor has been litigated before Canadian Courts on many occasions. Some of the leading cases in this area are Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025 (FCA), 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. No. 61 and Royal Winnipeg Ballet v. Canada, [2006] FCA 87. The tests established in the Wiebe Door case for determining whether a person was an employee or an independent contractor are:
+(a) control;
+(b) ownership of tools;
+(c) chance of profit;
+(d) risk of loss; and
+(e) integration.
+[11] In Royal Winnipeg Ballet (supra) the Federal Court of Appeal relied upon the intention of the parties as an important factor.
+I. Control
+[12] In commenting upon the control exercised by Sunrise on Ms. Kerr, the Appellant, Francis Honsinger, said that Sunrise exercised very little control over the Worker. Ms. Honsinger quoted with approval from the case of Learning Loft Ltd. v. M.N.R., [2001] T.C.J. No. 380, at paragraph 24 which reads as follows:
+…it was the tutor who determined, with the student, who would be taught, what would be taught, how the lesson would be taught, when the lesson would be taught and where the lesson would be taught. These were not the appellant's decisions. There was no master servant relationship between the Worker and the appellant. The appellant did not exercise any meaningful control over the Worker, nor did it wish to exercise such control. The Worker could always teach students for her own account without the intervention of the appellant.
+(Transcript page 23, lines 4-16)
+[13] Ms. Honsinger referred to the above comment and said:
+Which was applicable in our case. (Transcript page 23, line 17)
+[14] The Appellant again quoted from paragraph 26 of Learning Loft Ltd. (supra):
+…The business of the appellant is to get students requiring help and tutors together to establish and promote a relationship between a tutor and a pupil. The appellant's business is not to teach the pupil, that is the business of the tutor.
+(Transcript page 23, lines 19-24)
+[15] In referring to the independent responsibility of the Worker, Ms. Honsinger said:
+Tutors had a number of management chores that they had to do in the running of their own businesses. They had to invoice us. They had to arrange for the replacement teachers. They had to re-arrange schedules where necessary. They discussed with parents if a student needed to be moved to a private lesson as opposed to a semi-private lesson, in which case the tutor charged twice as much.
+They would discuss any behavioral issues with the parents and evaluate options with them for the students. They maintained their daily records. They sent the reports. They contacted parents in consideration of curriculum development and they notified parents when educational objectives had been met. (Transcript page 24, lines 2 to 15)
+[16] Ms. Kerr was called as a witness by Counsel for the Minister. Counsel for the Minister asked Ms. Kerr how closely she was supervised by the Appellant. Ms. Kerr said – “We were not supervised at all”.
+[17] The Appellants and Counsel for the Minister each referred to the decision of the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc. (supra). At paragraph 44 of the Sagaz decision, Justice Major referred to the decision of MacGuigan J.A., in Wiebe Door and said:
+According to MacGuigan J.A., the best synthesis found in the authorities is that of Cooke J. in Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732 …..
+The observations of LORD WRIGHT, of DENNING, L.J., and of the judges of the Supreme Court … is this: “Is the person who has engaged himself to perform these services performing them as a person in business on his own account?”. If the answer to that question is “yes”, then the contract is a contract for services. If the answer is “no” then the contract is a contract of service. …
+[18] In connection with answering the test outlined by Justice Major, I refer to the following comment made by the Appellants in the Rebuttal that they filed with the Court. The Appellants referred to the activities of the Tutors and said:
+J. Tutors
+a. Invoiced Sunrise
+b. Arranged for replacement teachers
+c. Re-arranged schedules to satisfy changing schedule of either the student or the tutor, student absence, or tutor absence
+d. Discussed with parents if a student needed to be moved to a private lesson as opposed to a semi-private lesson
+e. Discussed behavioural issues and evaluated options with parents
+f. Maintained daily records of student progress
+g. Regularly sent reports to parents
+h. Contacted parents in consideration of curricular development
+i. Notified parents when educational objectives had been met or could not be met
+These were aspects of managing their own business. (Emphasis added)
+[19] In his argument Counsel for the Minister referred to the binder that was provided by Sunrise to Ms. Kerr and said:
+… You heard her talking about how she had the binder, how it was an individualized learning program put together by Frances Honsinger and Marianne Collins, and that she felt that she couldn’t largely deviate from that.
+(Transcript page 12, lines 6-9)
+[20] In answer to the comment made by Counsel for the Minister concerning the binder provided by Sunrise to the Worker, Ms. Honsinger said:
+… in each individual student’s binder it had the results of the diagnostic assessment … That it’s just what the diagnostic assessment showed, combined with about the parents said that they wanted to work on.
+(Transcript page 3, lines 1-7)
+…
+JUSTICE: And what would it translate to in terms of pages in a binder?
+MS. HONSINGER: Oh, terms of a -- one sheet.
+JUSTICE: One page, two pages?
+MS. HONSINGER: One page of the summary of the diagnostic assessment.
+(Transcript page 3, lines 15-21)
+[21] Ms. Honsinger referred to the binder and said:
+… mostly it was the teacher’s notes that she would take on the student, because as she was -- she would make comments about how the child was doing on things, so that at the end of the 12 lessons she would be able to go back and review her notes. That is just standard professional practice as a teacher.
+(Transcript page 5, lines 22-25 and page 6, lines 1-2)
+[22] I do not believe that the fact that Sunrise provided a binder to the Worker indicates that Sunrise was exercising “control” over the Worker. I believe that the evidence indicates that the “binder” was more of a “progress report” prepared by the tutor than a recommendation from the Appellants on how the student should be taught.
+[23] From a review of the above evidence it is apparent, I believe, that the tutors were performing their services as a person in business would perform them.
+II. Tools and Equipment
+[24] Ms. Honsinger referred to this test and said:
+To go to provisions of tools and equipment, we strongly recommended that tutors bring in many resources and it wasn't up to us which ones. That was up to them. (Transcript page 25, lines 14 to 17)
+[25] Ms. Honsinger also said:
+They (i.e. the tutors) had to invest a lot of time and money in their education. They had to have a Bachelor or Education degree. That represents a significant investment of money just to be able to do the work in the first place. (Transcript page 26, lines 9 to 13)
+[26] In a Rebuttal document filed by the Appellants with the Court, the Appellants said:
+Provision of Tools and Equipment
+We strongly recommended that the tutors bring in many resources. It is up to the tutors to address the students’ needs with whatever materials they see fit. We did not suggest to the tutors which learning resources to use; it was up to their professional judgment and expertise. We observed that tutors brought in abundant materials, but we did not monitor how much any one tutor brought in. Tutors did not have to purchase all the materials they used, because they shared amongst themselves. Furthermore, students often brought in their own materials, e.g. math texts, novels, poetry, writing assignments, and other homework.
+[27] I believe that the evidence on this test points in favour of independent contractor status rather than employee status for the Worker.
+III. Chance of Profit and Risk of Loss
+[28] Ms. Honsinger said:
+If a teacher did not teach well and a parent complained, then a teacher was responsible for re-teaching that hour at his or her own expense. … And if it a student un-enrolled, her contract terminated. (Transcript page 29, lines 12 to 17)
+[29] In my opinion the evidence on this issue points in favour of independent contractor status for the Worker.
+IV. Intention
+[30] In the Royal Winnipeg Ballet case (supra), Justice Sharlow of the Federal Court of Appeal said at paragraphs 63 and 64:
+[63] … The evidence is that the RWB, the CAEA and the dancers all believed that the dancers were self employed, and that they acted accordingly.
+…
+[64] In these circumstances, it seems to me wrong in principle to set aside, as worthy of no weight, the uncontradicted evidence of the parties as to their common understanding of their legal relationship, even if that evidence cannot be conclusive.
+Justice Sharlow also said at paragraph 67:
+…the common understanding of the parties as to the nature of their legal relationship is borne out by the contractual terms and the other relevant facts.
+[31] It will be noted that Madam Justice Sharlow put a lot of emphasis on Intention because of the common understanding of the parties.
+[32] In this situation Ms. Kerr was asked whether there was any discussion about the position of a tutor being an independent contractor as opposed to an employee and she said “I do not remember”.
+[33] However, Ms. Kerr did say that she understood that a tutor would not have any withholding for income tax, she would not receive an employment invoice and she would receive no benefits such as holiday pay or pension.
+[34] Since the intention of Ms. Kerr was uncertain and the intention of the Appellant was that the Worker would be an independent contractor we cannot apply the Intention test in this situation.
+[35] I have also considered the following Tax Court decisions:
+1. Kids Count Consultants Corporation Ltd. o/a Sylvan Learning Centre Brampton v. M.N.R., 2005 TCC 99.
+Justice McArthur held that a tutor at the learning centre was an independent contractor.
+2. Preddie v. The Queen, 2004 TCC 181.
+Justice McArthur held that a tutor at a learning centre (Sylvan Learning Centre) was an independent contractor.
+3. Learning Loft Ltd. case (supra).
+Justice Rip (now Chief Justice Rip) held that a tutor at a learning centre was an independent contractor.
+I agree with the decision in the above three appeals.
+[36] Based upon an analysis of the evidence before me and the statements by the Appellants and a consideration of the Court decisions referred to above, I have concluded that in the relevant Period Sara Kerr was an independent contractor and not an employee of the Appellants for the purpose of the E.I. Act and the Plan.
+[37] The appeals are allowed without costs.
+Signed at Vancouver, British Columbia this 8th day of May 2009.
+"L.M. Little"
+Little J.
+CITATION:
+2009 TCC 252
+COURT FILE NOS.:
+2008-1137(EI) and
+2008-1138(CPP)
+STYLE OF CAUSE:
+Frances Honsinger &
+Marianne Collins and
+The Minister of National Revenue
+PLACE OF HEARING:
+Nanaimo, British Columbia
+DATE OF HEARING:
+March 24, 2009
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF REASONS FOR JUDGMENT:
+May 8, 2009
+APPEARANCES:
+Agent for the Appellants:
+Frances Honsinger
+Counsel for the Respondent:
+Whitney Dunn
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

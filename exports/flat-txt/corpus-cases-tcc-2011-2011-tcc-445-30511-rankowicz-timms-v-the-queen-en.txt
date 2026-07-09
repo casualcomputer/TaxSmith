@@ -1,0 +1,174 @@
+Title: Rankowicz-Timms v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30511/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-445-30511-rankowicz-timms-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-09-22
+
+# Rankowicz-Timms v. The Queen
+
+- Citation: 2011 TCC 445
+- Decision date: 2011-09-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7251, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rankowicz-Timms v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-09-22
+Neutral citation
+2011 TCC 445
+File numbers
+2010-2282(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2282(IT)I
+BETWEEN:
+GRACE RANKOWICZ-TIMMS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 10, 2011, at Montréal, Québec.
+By: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marie-France Dompierre
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act and dated February 1, 2010, with respect to the Appellant’s 2006 and 2007 taxation years, are allowed in part and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 22nd day of September 2011.
+« Réal Favreau»
+Favreau J.
+Citation: 2011 TCC 445
+Date: 20110922
+Docket: 2010-2282(IT)I
+BETWEEN:
+GRACE RANKOWICZ-TIMMS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] These are appeals, by way of the informal procedure, from the reassessments made under the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), as amended, (the "Act") with respect to the Appellant’s 2006 and 2007 taxation years.
+[2] Following the decision of the Tax Court of Canada dated December 2, 2009, rendered in the appeal of Mr. Brian Timms (Docket No. 2009-1729(IT)I), the Minister of National Revenue (the "Minister") reassessed, on February 1, 2010, the Appellant’s 2006 and 2007 taxation years to include in her income the support amounts received during each of those years, being $29,353 in 2006 and $13,287 in 2007.
+[3] In order to establish the reassessments, the Minister relied upon the following assumptions of fact described in paragraph 6 of the Reply to the Notice of Appeal:
+a) The Appellant and Brian Timms (hereinafter “the parties”) were married on June 10, 1980; (Admitted)
+b) From the marriage there were two children, one born in 1982 and the second born in 1987 (hereinafter “the children”); (Admitted)
+c) At the breakup of the marriage, August 5, 1988, the parties entered into an interim agreement providing, amongst other items, that the Appellant (sic) was to provide support in the amount of $150 per week for the children; (Admitted with the understanding that Mr. Brian Timms was to provide support to the Appellant).
+d) On October 19, 1989 the parties entered into a Consent to Provisionary + Accessory Mesures (sic) with Respect to Custody and Visiting Rights;
+(Admitted with the understanding that it was one amongst many others).
+e) On December 28, 1989 the parties entered into a Consent to Accessory Measures which provided amongst other items that the support payment for the children be established at $1,000 per month; (Admitted)
+f) On January 28, 1990, the Cour Superieure Chambre de la Famille (Divorces), granted a divorce to the parties giving act to the consents signed by the parties on October 19, 1989 and December 28, 1989; (Admitted)
+g) On June 3, 1996, following a demand by the (sic) Brian Timms, the Cour Supérieure du Québec allowed for a reduction of support paid for the children (at that time at $1,150 per month) to $1,000 per month and ordered Brian Timms to pay to the Appellant the arrears in the amount of $325 within the three following weeks; (Admitted)
+h) Following the changes in the employment of Brian Timms on May 20, 1999, the parties entered into an interim agreement dated July 9, 1999 and signed by the Appellant (sic) (Judge's note: should be Brian Timms) on October 22, 1999 and Grace Rankowicz Timms on July 12, 1999, pursuant to which they agreed:
+i) That Brian Timms would pay every two weeks $190.62 in place of $481.66, starting on July 29, 1999 until such time that he obtains employment and is able to pay again the $481.66 every two weeks; (Admitted)
+ii) An addendum to the interim agreement dated October 22, 1999, and signed by the parties (sic) October 22, 1999 and October 23, 1999, the parties, on October 22, 1999, revised the amounts of the Interim Agreement of July 9, 1999 previously agreed to; (Admitted with the understanding that Mr. Brian Timms signed the addendum to the Interim Agreement on October 22, 1999).
+iii) On April 6 (sic), 2005, having fallen in arrears of support payments in the amount of $40,070.69 to that date, Brian Timms filed a Motion to cancel arrears and modify child support with the Superior Court of Quebec, Family Division to fix and modify the child support in accordance to Brian Timm’s new revenue and the revenue of Grace Rankowicz Timms retroactively to July 1999, and (Admitted with the understanding that the exact date was on April 11, 2005 and not April 6, 2005).
+iv) To cancel the arrears in child support in the sum of $40,070.69; (Admitted)
+v) On May 9, 2006 the Cour Supérieure du Québec rendered a decision on the motion of April 6, 2005 granting:
+a) The amount owed by Brian Timms to Grace Rankowicz‑Timms at $34,288, and cancelling all other arrears; (Admitted)
+b) Fixing and modifying the child support for 2005 at $661 (sic) per month with an allocation for special expenses being 35% for Brian Timms and 65% for Grace Rankowicz‑Timms; (Admitted with the understanding that the exact amount was $666.01 instead of $661).
+c) Fixing and modifying the child support for 2006, for January 1 to April 30, at $661 (sic) per month with an allocation for special expenses being 40% for Brian Timms and 60% for Grace Rankowicz Timms; and (Admitted with the understanding that the exact amount was $598.09 instead of $661).
+d) From May 1, 2006 the monthly support payments at $323.77 at the same pro rata for special expenses; and (Admitted)
+e) That the arrears for 2005 and 2006 is the sum of $7,818.48, such to be paid within 30 days of the decision; and (Admitted)
+f) The arrears to the period ending December 31, 2004, in the amount of $34,288 were to be paid at $3,000 per month starting on June 9, 2006 and ending with a final payment of $1,288 due May 9, 2007. (Admitted)
+i) By the decision by Justice Hogan in the appeal of Brian Timms, the Tax Court of Canada accepted the evidence that the agreements executed during 1999 were found not to be valid by the Quebec Superior Court and ruled that the arrears that the Appellant received were calculated following the original support order issued in 1990. (Denied)
+[4] Subparagraph 6(i) of the Reply has been denied because Hogan J. was not made aware of the reasons for judgment of Auclair J. of the Superior Court of Québec and this has been admitted by the Respondent’s counsel. The Respondent’s counsel also confirmed that the parties were not joined by virtue of section 174 of the Act.
+[5] The Appellant testified at the hearing and she filed the following documents:
+a) the proposal made by Mr. Brian Timms for an interim child support arrangement (revision 2) dated July 9, 1999, that had been accepted and signed by the Appellant on July 12, 1999, which was modified by an addendum dated October 22, 1999, that had been accepted by both parties and signed by Mr. Brian Timms on October 22, 1999, and by the Appellant on October 23, 1999;
+b) the transcription of the reasons given orally of the judgment rendered by Auclair J. on May 9, 1999, and the minutes of the hearing.
+c) a Statement of Account under the Act to Facilitate the Payment of Support prepared by Revenu Québec for the period beginning on January 1, 2000 and ending on December 31, 2005; and
+d) a document dated June 10, 2011 prepared by the Appellant which summarizes the facts of her appeal.
+[6] The Appellant confirmed during her testimony that the July 9, 1999 document had been prepared by Mr. Brian Timms and that, at that time, there was no discussion concerning the tax treatment of the support payments. This was also confirmed by Mr. Timms during his own testimony. According to him, the understanding of the parties was that the support payments were subject to the old tax rules. If the new rules were made applicable, adjustments would have been made to the payments. Mr. Timms further explained that Auclair J. did not ask any questions concerning the tax treatment of the support payments.
+[7] The judgment of Auclair J. was on a motion to cancel arrears and modify child support presented by the petitioner, Mr. Brian Timms. Auclair J. described in paragraph (2) of his reasons for judgment delivered on May 9, 2006, the conclusions of the motion:
+2. Timms asks the Court, by the conclusions of his Motion, to:
+2.1 Fix and modify the child support in accordance to Petitioner’s new revenue and Respondent’s revenues retroactively to July 1999;
+2.2 Cancel the arrears in child support in the sum of $40,070.69;
+2.3 And asking the Court to adjust the child support to be paid retroactively to the period of July 1999 to present and apply compensation against the outstanding child support arrears.
+[8] In paragraphs 6, 7 and 11 of his reasons for judgment, Auclair J. made specific references to the July 9, 1999 proposal for interim child support arrangement (P-4) and to the October 22, 1999 addendum (P–5):
+6. In 1999, before producing a Motion, he agreed with his wife to a reduction of the support for the two children for a period of time (P-4 and P-5). His Motion, dated in October 1999, never proceeded. Between this Motion and December 2004, at many times, he asked Madam to modify the support order but, according to his testimony, she refused. Timms asked his lawyer, at the end of December 2004, that a letter (P-8) be sent to Madam to revise the amount due and offering to pay some money but never comply (sic) with the past order.
+7. After that letter, Madam asked the Minister of Revenue Quebec to collect her arrears and the amount of $40,070.69 was calculated at that time. At the beginning of February or March 2005, Timms replied and answered by his Motion in front of the Court today. There is no renunciation from Madam except the clear agreement made for a part of 1999 (P-4 and P-5). Her position is still the same; she is the creditor of a judgment.
+…
+11. On the other hand, Madam owes a credit to Monsieur of $3 422 according to P-4 and P-5. On the amount, according to P-3, of the arrears due on December 31st 2004 which is $37 708,11. At that sum, we have to deduct $3 422,10 so it gives the amount of arrears of $34 288,01.
+[9] The conclusions of Auclair J. were as follows:
+17. DECLARES that the amount of arrears owed by Monsieur to Madame is $34 288 for the period ending December 31st, 2004;
+18. CANCELS all other arrears;
+19. FIXES and MODIFIES the child support for Mark and Kristina as follows:
+Monsieur will pay to Madame for 2005: $666.01 per month. The pro rata for special expenses is 35% for Monsieur and 65% for Madame;
+For 2006: from January 1st to April 30th, $598.09 per month. The pro rata for special expenses is 40% for Monsieur and 60% for Madame;
+And from May 1st 2006, a monthly payment of $323.77 at the same pro rata for the special expenses;
+20. DECLARES that Monsieur has already paid for 2005 the sum of $2 034 and for 2006, the sum of $534;
+21. DECLARES that the arrears due to Madame for 2005 and 2006 is the sum of $7 818,48 to be paid within 30 days; and the arrears of $34 288 for the period ending December 31st, 2004 will be paid by monthly payments of $3 000 starting June 9, 2006 and the last payment of May 9, 2007 will amount to $1,288. Should one payment be missing, the whole amount will be due immediately;
+22. ORDERS Madame to inform and consult Monsieur concerning Kristina’s school projects;
+23. ORDERS to Madame to radiate the registration of the lean (sic) on Monsieur’s home located on Dawson Street which was effected on or about the month of June 2005, after all arrears to be paid to Madame.
+[10] The issue to be decided is whether the Minister correctly included in the Appellant's income the arrears of support amounts she received during the 2006 and 2007 taxation years?
+[11] The Respondent submits that the Minister was justified to include the support amounts for the 2006 and 2007 taxation years as there was no commencement day pursuant to subsection 56.1(4) of the Act.
+Analysis
+[12] The relevant provisions of the Act are paragraph 56(1)(b) and subsection 56.1(4), which contain the definitions of "commencement day", "support amount" and "child support amount":
+56(1) Amounts to be included in income for year
+Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+…
+(b) Support - the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+Where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer's income for a preceding taxation year;
+…
+56.1(4) The definitions in this subsection apply in this section and section 56.
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a legal parent.
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[13] The provisions of the Act are structured in such a way that only the child support amounts payable on or after the commencement day can be received by a recipient on a tax-free basis. Where an agreement or order was made before May 1997, as in this case, the new rules can apply only if one of the four conditions described in subparagraphs (b)(i) to (b)(iv) of the definition of "commencement day" is met. Of these subparagraphs, the only ones that can apply in this instance are (b)(ii) and (iii).
+Did the July 1999 agreement and the October 1999 addendum establish a commencement day?
+[14] The July 1999 agreement was an interim arrangement designed to help Mr. Timms while he was pursuing a fully committed job search program. By virtue of that arrangement, the amount of child support had been reduced from $481.66 payable every two weeks to $190.62 every two weeks. The amount of child support had been further revised by the October 1999 addendum. The interim measures were of a temporary nature as Mr. Timms undertook to resume the payment of the full amount of child support of $481.66 every two weeks as soon as he received his first paycheque from his new employer. The July 1999 agreement and the October 1999 addendum did not contain any reference to the tax treatment of the reduced child support and there is no evidence that the parties intended to change the tax status of the child support amount.
+[15] Accordingly, I am of the view that subparagraphs (b)(ii) and (iii) of the Act regarding the definition of "commencement day" did not result in the July 1999 agreement and the October 1999 addendum having a commencement day. The payment obligation of $481.66 every two weeks was simply reduced for a short period of time at the end of which that same child support amount was once again payable.
+Did the Superior Court judgment establish a commencement day?
+[16] The arrears that were due on December 31, 2004 amounted to $37,708.11. The arrears were calculated by Revenu Québec based on the regular child support payments. Auclair J. allowed a credit to Mr. Timms of $3,422 to take into account the reduction of the child support payments resulting from the July 1999 agreement and the October 1999 addendum. The $3,422 credit was applied against the amount of arrears and Mr. Timms had been ordered to pay the net result of $34,288, by monthly payments of $3,000 commencing on June 9, 2006 and ending on May 9, 2007.
+[17] In my view, that part of the judgment simply gave recognition to the pre‑May 1997 agreement or order which continued to exist and to be effective until the judgment date, and to the July 1999 agreement and the October 1999 addendum which ceased to exist and to be effective in year 2000 (the exact date is not known) and has not changed in any way the child support amounts payable to the Appellant.
+[18] In these circumstances, I am satisfied that, based upon the evidence before me, that part of the May 9, 2006 judgment does not have a May 1, 1997 or later commencement day for the purposes of the Act. However, that part of the May 9, 2006 judgment that dealt with the child support for 2005 and 2006 clearly established a commencement day, as the total child support amounts payable to the Appellant has been changed as a result of the adjustments described in paragraph 12 of the judgment.
+[19] Considering the fact that the arrears due to the Appellant for 2005 and 2006 in the sum of $7,818.48 have been computed by reference to the new child support amounts payable in years 2005 and 2006, they should be subject to the same tax treatment. The Minister shall not include any of these amounts in computing the Appellant’s income for 2006 and 2007.
+[20] For the foregoing reasons, I would allow the appeals in part and refer the matter back to the Minister for reassessment in accordance with these reasons.
+Signed at Ottawa, Canada, this 22nd day of September 2011.
+« Réal Favreau»
+Favreau J.
+CITATION: 2011 TCC 445
+COURT FILE NO.: 2010-2282(IT)I
+STYLE OF CAUSE: Grace Rankowicz-Timms v. Her Majesty the Queen
+PLACE OF HEARING: Montréal, Québec
+DATE OF HEARING: June 10, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: September 22, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marie-France Dompierre
+COUNSEL OF RECORD:
+For the Appellant: n/a
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

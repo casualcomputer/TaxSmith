@@ -1,0 +1,179 @@
+---
+title: "A&T Tire & Wheel Limited v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30794/index.do"
+last_modified: "2012-05-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 150"
+citation2: ""
+neutral_citation: "2012 TCC 150"
+decision_date: "2012-05-08"
+language: "en"
+item_id: "30794"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7548
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:26:33.976000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e8c5ef8ea13e6f55ae932903aa9fe91191a0701518337ac70350c6d877e233b6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# A&T Tire & Wheel Limited v. M.N.R.
+
+- Citation: 2012 TCC 150
+- Decision date: 2012-05-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7548, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+A&T Tire & Wheel Limited v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-05-08
+Neutral citation
+2012 TCC 150
+File numbers
+2011-105(CPP), 2011-106(EI), 2011-107(EI), 2011‑113(EI), 2011-124(EI), 2011-125(CPP), 2011-79(CPP), 2011-80(CPP), 2011-98(CPP), 2011-99(EI)
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2011-124(EI), 2011‑113(EI),
+2011-106(EI), 2011-107(EI),
+2011-99(EI), 2011-125(CPP),
+2011-105(CPP), 2011-79(CPP),
+2011-80(CPP), 2011-98(CPP)
+BETWEEN:
+A&T TIRE & WHEEL LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 10 and 11, 2012, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Leigh Somerville Taylor
+Counsel for the Respondent:
+Cenobar Parker and Jasmeen Mann
+____________________________________________________________________
+JUDGMENT
+The appeals with respect to the decisions of the Minister of National Revenue (the “Minister”), made under the Employment Insurance Act and the Canada Pension Plan, that Edgar Ganopolsky, Vladimir Mozhar, Hassan Sahly, Jason Smeskal and Michael Young were employed by the Appellant in insurable and pensionable employment during the period from January 1, 2007 to August 1, 2009 are dismissed and the Minister’s decisions are confirmed, in accordance with the attached reasons for judgment. Each party shall bear their own costs.
+Signed at Ottawa, Canada, this 8th day of May 2012.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2012 TCC 150
+Date: 20120508
+Dockets: 2011-124(EI), 2011-113(EI),
+2011-106(EI), 2011-107(EI),
+2011-99(EI), 2011-125(CPP),
+2011-105(CPP), 2011-79(CPP),
+2011-80(CPP), 2011-98(CPP)
+BETWEEN:
+A&T TIRE & WHEEL LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] These are appeals from determinations by the Minister of National Revenue (the “Minister”) that Edgar Ganopolsky, Vladimir Mozhar, Hassan Sahly, Jason Smeskal and Michael Young (the “workers”), were employees, rather than independent contractors, of A&T Tire & Wheel Ltd. (the “Appellant”) during the period from January 1, 2007 to August 1, 2009.
+[2] The Appellant requested a review of the determinations, which were confirmed. The Appellant argues that the five workers were independent contractors providing services to the Appellant in the course of businesses carried on by them for their own benefit.
+[3] The Appellant called Michael Young and Vladimir Mozhar, (two of the workers concerned in these appeals), Anna Mozhar (the daughter of Mr. Mozhar), and Mathew Foster, Dennis Le Course and Kyle Izzard (former workers of the Appellant), as witnesses to give evidence of the workers’ intention to enter into independent contractor relationships with the Appellant.
+[4] The Respondent called Hassan Sahly and Jason Smeskal as witnesses to show that those workers did not intend to become independent contractors and to establish that the workers’ actual dealings with the Appellant are not consistent with a finding of independent contractor status.
+I. Factual Background
+[5] The Appellant operates a small tire sales, installation and service business. Dan Smith is the sole shareholder of the Appellant.
+[6] These appeals concern five individuals, namely Michael Young, the shop manager; Vladimir Mozhar, who sorts and stores tires; Edgar Ganopolsky, who works on the shop floor and performs general duties such as installing and removing tires; and Jason Smeskal and Hassan Sahly, who no longer work for the Appellant, but whose responsibilities were similar to Mr. Ganopolsky’s.
+[7] Of the individuals about whom evidence was presented at trial, Mr. Young was the only person who had relevant work experience before starting to work for the Appellant. Mr. Mozhar, Mr. Sahly and Mr. Smeskal received on‑the‑job training from Mr. Young and the other workers at the shop. Mr. Sahly and Mr. Smeskal were respectively 20 and 19 years of age when they started working for the Appellant. Mr. Mozhar, who spoke to the Court through a translator, was a lawyer in Russia prior to immigrating to Canada and had never worked in a tire shop before being hired by the Appellant. Mr. Ganopolsky was not available to testify at trial and no evidence was presented regarding his level of experience when he was first hired.
+[8] The evidence shows that the workers were initially all hired pursuant to verbal agreements. After the Canada Revenue Agency (the “CRA”) began its audit that culminated in the determinations at issue in these appeals, Vladimir Mozhar, Jason Smeskal and Michael Young were asked to sign written agreements prepared by the Appellant describing their status as that of independent contractors.
+[9] Mr. Smeskal never signed the contract. He was the only individual concerned in the present appeals who tried to negotiate the terms of the contract. He gave Michael Young, on the morning of April 27, 2009, when he arrived at work, a letter addressed to Dan Smith requesting a provision whereby A&T would provide him with the Workplace Safety and Insurance Board coverage and adequate liability insurance. He received at 5:50 p.m. on the same day, a termination letter accompanied with two invoices to clients suggesting “sloppy work” as the reason for his termination. Mr. Smeskal believes that he was let go because he attempted to negotiate the terms of the agreement presented to him.
+[10] Mr. Young testified that he was hired by Mr. Smith to manage the Appellant’s business. In his words: “I look after my own business, but in place, my duties involve making sure the shop runs smoothly but also putting new tires on and calling people back. There are many different things that I do there, but if I decide not to come in one day, the shop may not be open”.[1]
+[11] Mr. Young testified that he agreed to work for the Appellant as an independent contractor because Mr. Smith offered him the opportunity to run a business while benefiting from a share of its profits.
+[12] Mr. Young alleged that he interviewed Mr. Smeskal, Mr. Ganopolsky and Mr. Sahly when they applied to work for the Appellant. According to the witness, he made it clear to each of these workers that they would perform their duties as independent contractors and not employees.
+[13] Mr. Sahly had a different recollection of his discussion with Mr. Young. According to that witness, he was hired as a general labourer because he had little work experience, being a recent high school graduate. Mr. Sahly testified that he was not informed that he would be an independent contractor. The witness added that because he received his instructions from Mr. Young, he believed he was an employee of the Appellant while he worked there.
+[14] Mr. Smeskal’s recollection of his discussions with Mr. Young was similar to that of Mr. Sahly. He recalled that he was told that he was hired as an independent contractor more than one year after he had started to work for the Appellant. He did not recall this matter being discussed when he was first hired by the Appellant.
+[15] Mr. Mozhar testified that he agreed to work as an independent contractor when he was first hired by the Appellant.
+[16] With the exception of Michael Young, all of the workers were paid an hourly wage for their services, for a normal working week of 8:00 a.m. to 6:00 p.m. Monday to Friday and 8:00 a.m. to 1:00 p.m. on Saturday. They were paid an additional hourly amount if they worked overtime. Mr. Young was generally paid $850.00 per week. He was entitled to a bonus of 20% of the Appellant’s profits, determined quarterly.
+[17] The evidence shows that the workers were allowed to take one or two weeks of vacation with pay. They were not paid for sick days.
+II. Analysis
+[18] The Appellant argues that it has presented sufficient evidence for the Court to conclude that the workers intended to be treated as independent contractors while working for the Appellant. According to the Appellant, the evidence presented by the Respondent is insufficient to justify disregarding the parties’ choice in this regard.
+[19] I do not agree with the Respondent’s assertion that the evidence shows that Jason Smeskal, Edgar Ganopolsky and Hassan Sahly agreed to be treated as independent contractors when they were engaged by the Appellant. First, the evidence shows that these workers did not sign written agreements with the Appellant at the time they were hired. While Mr. Young testified that they verbally agreed to be treated as independent contractors, Mr. Sahly testified that this point was not discussed when he was hired. He believed he was hired as a general labourer.
+[20] Mr. Smeskal was asked to sign a written agreement declaring himself to be an independent contractor after the Canada Revenue Agency (“CRA”) began the audit that resulted in the determinations now under appeal. Mr. Smeskal attempted to negotiate the terms of the written agreement presented to him for signature. In a letter addressed to Dan Smith dated April 27, 2009, he makes the following suggested changes to the provision entitled “Supplies and Equipment”:
+I also agree with point 3; however, the following addition should be included:
+3. Supplies and Equipment: (Original statement). PLUS: A&T will train the contractor on all equipment to be used in the shop. A&T ensures that all tools and fixed machinery are in good working order and condition and are properly maintained. In case of work-related injuries or accidents, A&T will cover the contractor under WSIB. In addition, A&T will provide adequate liability insurance for the contractor related to moving clients’ vehicles.
+[21] “WSIB” is the abbreviation for the Workplace Safety and Insurance Board established in Ontario to administer the no-fault workplace insurance program funded by employers to provide, inter alia, compensation and medical rehabilitation to workers injured in the workplace. Independent contractors or self-employed persons are not automatically covered under this program for injuries that they suffer in the workplace.
+[22] Mr. Smeskal also sought to be covered, under the Appellant’s insurance policy, for damage caused by him to customers’ vehicles. These requests are illustrative of Mr. Smeskal’s reluctance to accept the Appellant’s unilateral characterization of their relationship. The parties did not sign a written agreement as Mr. Smeskal was terminated by the Appellant on the same day that he delivered his letter to Dan Smith requesting changes to the draft of the proposed contract he had received from the Appellant. I accept Mr. Smeskal’s testimony that his request to negotiate the terms of the contract prepared by the Appellant played a role in his termination rather than it being attributable to the causes alleged by Mr. Young during his testimony.
+[23] In any event, the case law has established that the parties’ declaration of their intention to enter into an independent contracting relationship is not in and of itself determinative of the issue. In TBT Personnel Services v. Canada, 2011 FCA 256, Sharlow J.A., writing the unanimous decision of the Court, cautions that the factors outlined in Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553 (FCA), must nonetheless be applied to determine whether the facts are indeed consistent with the parties’ description of their relationship. Sharlow J.A. stated the following:
+9. In Wolf v. Canada, 2002 FCA 96, [2002] 4 F.C. 396 (C.A.), and Royal Winnipeg Ballet v. Canada (Minister of National Revenue – M.N.R.), 2006 FCA 87, [2007] 1 F.C.R. 35, this Court added that where there is evidence that the parties had a common intention as to the legal relationship between them, it is necessary to consider that evidence, but it is also necessary to consider the Wiebe Door factors to determine whether the facts are consistent with the parties’ expressed intention.
+[Emphasis added.]
+[24] In assessing the relevance of contracts signed by the individuals involved in TBT Personnel Services, Sharlow J.A. added:
+35. Such intention clauses are relevant but not conclusive. The Wiebe Door factors must also be considered to determine whether the contractual intention suggested by the intention clauses is consistent with the remaining contractual terms and the manner in which the contractual relationship operated in fact.
+[25] The Wiebe Door factors must be applied to determine whether the workers’ declared intentions, if any, conform to the true nature of their relationship with the employer. Applying these tests, does the evidence show that a particular worker is performing his services in the course of a business conducted for his benefit?
+III. Application of the Wiebe Door factors
+A. Control
+[26] The Minister assumed in the replies to the notices of appeal that Mr. Young supervised the other workers in his capacity as the Appellant’s shop manager. His duties included a supervisory function. Mr. Young denies this, but he has failed to convince me that such was not the case.
+[27] Mr. Sahly was hired as a general labourer. He had no relevant work experience when he began working for the Appellant. He testified that Mr. Young told him what to do and supervised the performance of the duties that he was given. Mr. Smeskal’s situation was similar to that of Mr. Sahly. He also started as a general labourer. When he came to work he was assigned tasks by Mr. Young. It is hard to imagine how unskilled workers would know what to do and how to do it if no one explained their duties to them and showed them what was expected of them.
+[28] Mr. Smeskal alleges that Mr. Young and personnel appointed by Mr. Young trained him on the equipment used to install and remove tires from rims and on the equipment used to balance wheels. I cannot envisage it having been otherwise, as Mr. Smeskal had no prior experience performing these tasks. Mr. Young denied that he supervised the other workers but admitted that the business might be closed if he decided to take a day off. This is an admission that the Appellant’s workers could not be trusted to perform their duties on their own without the benefit of Mr. Young’s supervision.
+[29] Mr. Young acknowledged that it was he who dealt with the clients. The clients would line up in the morning and be served on a first-come, first-served basis. If they were unhappy with the service they received, they would complain to Mr. Young, who would ensure that the work was redone in accordance with the client’s wishes. In this context, it is hard to imagine how the shop could function smoothly if Mr. Young did not exercise oversight over the workers.
+[30] Mr. Mozhar was likewise an unskilled labourer when he was hired by the Appellant to work in its used tire division. He did not speak English and his daughter acted as a translator when he was hired. In these circumstances it appears highly unlikely that he could have performed his duties without proper training and supervision. I do not doubt that he learned his tasks quickly, which allowed him to enjoy greater autonomy in the exercise of his duties. However, the case law has established that it is not the actual exercise of control that matters. What is important is the employer’s ability to exercise control.[2]
+[31] Very little evidence was presented on the working conditions of Mr. Ganopolsky. I assume that, as asserted by the Minister, his situation was analogous to that of the other four unskilled workers. The Appellant did not prove otherwise and it had the burden of doing so.
+[32] Mr. Young denied that he was subject to the direction and control of Mr. Smith, the sole shareholder of the Appellant. Mr. Sahly and Mr. Smeskal claimed the contrary. They testified that they had observed Mr. Young seeking direction from Mr. Smith. Mr. Smeskal’s testimony is corroborated by the circumstances surrounding the termination of his services. According to that witness, Mr. Young told him that the decision to fire him was made by Mr. Smith. Mr. Young did not have the authority to ignore Mr. Smith’s wishes in this regard. The termination letter was signed by Mr. Smith. This suggests to me that Mr. Smith was instrumental in the decision and that Mr. Young was tasked with breaking the unpleasant news to Mr. Smeskal.
+[33] Mr. Smith wanted his workers to be independent contractors and Mr. Young was charged with convincing the workers to accept this status. Mr. Smith wanted written contracts to be executed by the workers following the CRA audit, and Mr. Young endeavoured to cause this to be done. Mr. Smeskal attempted to negotiate the written agreement presented to him by the Appellant, and Mr. Young told him he was fired after discussing the matter with Mr. Smith. Mr. Young testified that he forwarded mail to Mr. Smith, as he did when he received letters from the CRA concerning the matters in dispute here. In my opinion, the fact that he did not report to Mr. Smith on a daily basis does not detract from the fact that ultimate control over the Appellant’s business resided with Mr. Smith. Mr. Young was required to comply with Mr. Smith’s business philosophy. This aspect of the test thus points to the existence of an employer/employee relationship.
+[34] I note that my findings on the respective roles of Mr. Smith and Mr. Young are consistent with the findings of Deputy Judge Weisman who, in A & T Tire & Wheel Limited v. The Minister of National Revenue, 2009 TCC 640, held that Justin Bunn, a worker employed by the Appellant from mid‑2006 to September 2008, was an employee of the Appellant. In that case, Deputy Judge Weisman placed importance on Mr. Smith’s admission that he had hired Mr. Young to manage the business in a manner consistent with his business philosophy. Mr. Smith testified that Mr. Young was tasked, inter alia, with ensuring that the workers adhered to Mr. Smith’s stringent safety standards for removing and installing wheels and tires. Mr. Smith was not called as a witness by the Appellant in these appeals. Given his position as the sole shareholder of the company, Mr. Smith was in the best position to give material information on the facts, including the intention of the Appellant regarding the nature of its relationship with the workers and the reasons behind Jason Smeskal’s dismissal. A negative inference may be drawn from the fact that he was not called as a witness. The evidence as a whole shows that Mr. Smith’s role in the business was more important than that described by Mr. Young.
+Ownership of Tools
+[35] Mr. Smeskal and Mr. Sahly provided their own work boots. The Appellant provided the uniform, tools, equipment and premises used to install and remove wheels and tires. No specific evidence was led by the Appellant with respect to the tools or equipment used by Mr. Ganopolsky and Mr. Mozhar. I assume that their situation was analogous to that of Mr. Smeskal and Mr. Sahly. In the case of those workers, this test points to the existence of an employer/employee relationship.
+[36] Mr. Young testified that he owned some of the tools that he used to perform his duties. However, he did acknowledge that all of the tools necessary to the discharge of his duties were made available by the Appellant. The value of the tools and equipment provided by the Appellant far exceeded the value of the tools belonging to Mr. Young. At very best, this aspect of the test is not conclusive in the case of Mr. Young.
+Chance of Profit/Risk of Loss
+[37] With respect to four of the five workers, the evidence shows they were all paid an hourly wage for their services. Nobody earned more than $11.00 per hour, save Mr. Young. Mr. Young benefited from a profit-sharing arrangement, but this incentive arrangement is not inconsistent with a finding that he was an employee of the Appellant. All of the workers were granted paid time off for vacation. The amount paid to them was labelled as “VP” in the Appellant’s accounting ledgers. VP is an abbreviation for “vacation pay”.
+[38] The workers were not charged for the use of the Appellant’s property. Mr. Young suggested in his testimony that the workers would be charged if they damaged more than one tire or wheel annually. The evidence shows, however, that none of the workers were held financially liable for any damage despite the fact that Mr. Smeskal testified that he had damaged at least two rims in the same year.
+[39] The Appellant maintains that the workers could have hired workers to assist them in their duties. However, none of the workers made enough money to make this a practical option.
+[40] The workers performed all of their services on the Appellant’s premises. The Appellant controlled the maximum number of hours that they could work. The shop would be open during regular working hours, or for scheduled overtime, only if Mr. Young was present.
+[41] The Appellant alleged that the workers had the opportunity to make a profit by working more hours. In the case of Mr. Smeskal, he asked for a raise that was eventually granted. Some evidence was adduced to show that the workers were able to use the shop premises to service vehicles belonging to friends and family, for which they could be directly compensated in kind or with a “case of beer”. This is insufficient to provide a real opportunity for profit. Working overtime and requesting a pay raise are consistent with an employer-employee relationship. Using shop facilities to provide services to friends and family is akin to using an employee discount for friends and relatives.
+[42] In light of the evidence and the application of the Wiebe Door tests, I conclude that the workers were employees of the Appellant throughout the period under review. Therefore, the Minister’s determinations are confirmed.
+Signed at Ottawa, Canada, this 8th day of May 2012.
+“Robert J. Hogan”
+Hogan J.
+CITATION: 2012 TCC 150
+COURT FILE NOS.: 2011-124(EI), 2011-113(EI), 2011-106(EI), 2011-107(EI), 2011-99(EI), 2011-125(CPP), 2011-105(CPP), 2011-79(CPP), 2011‑80(CPP), 2011-98(CPP)
+STYLE OF CAUSE: A&T TIRE & WHEEL LTD. v.
+THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 10 and 11, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: May 8, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Leigh Somerville Taylor
+Counsel for the Respondent:
+Cenobar Parker and Jasmeen Mann
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Leigh Somerville Taylor
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript, page 63, lines 10 to 15.
+[2] Gagnon v. Minister of National Revenue, 2007 FCA 33 at para. 7.

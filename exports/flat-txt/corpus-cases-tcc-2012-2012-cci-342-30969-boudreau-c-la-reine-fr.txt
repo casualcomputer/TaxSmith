@@ -1,0 +1,108 @@
+Title: Boudreau c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30969/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-342-30969-boudreau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-09-28
+
+# Boudreau c. La Reine
+
+- Citation: 2012 CCI 342
+- Decision date: 2012-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4843, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boudreau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-09-28
+Référence neutre
+2012 CCI 342
+Numéro de dossier
+2011-1650(GST)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-1650(GST)I
+ENTRE :
+RÉAL BOUDREAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 24 août 2012, à Québec (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Louis Sirois
+Avocat de l'intimée :
+Me Éric Bernatchez
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre d’une cotisation établie à l’égard de l’appelant en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2012.
+« Paul Bédard »
+Juge Bédard
+Référence : 2012 CCI 342
+Date : 20120928
+Dossier : 2011-1650(GST)I
+ENTRE :
+RÉAL BOUDREAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d'un appel à l’encontre d’une cotisation (dont l’avis est daté du 18 juillet 2006 et porte le numéro PQ‑2006‑9010, pour la période du 1er mai 1998 au 31 octobre 2003) établie à l’encontre de l’appelant en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise (la « LTA »). Il s’agit en l’espèce de déterminer si, en tant qu’administrateur de Couture universelle Inc. (la « société »), l’appelant doit être tenu solidairement avec cette société de payer 182 182,19 $, soit le montant que la société a omis de verser, les intérêts et les pénalités. Il convient immédiatement de souligner que la preuve a révélé que :
+i) le 2 août 2004, la société a fait cession de ses biens;
+ii) les réclamations dans la faillite ont été faites dans les six mois de la date de la faillite conformément aux conditions prescrites par l’alinéa 323(2)b) de la LTA.
+[2] La seule question en litige en l’espèce consiste à déterminer si l’appelant a agi avec le même degré de soin, de diligence et de compétence pour prévenir le manquement qu’aurait employé une personne raisonnablement prudente dans les mêmes circonstances.
+Thèse de l’appelant
+[3] L’appelant est d’avis que la défense de soin, de diligence et de compétence prévue au paragraphe 323(2) de la LTA s’applique à lui vu qu’en tant qu’administrateur de bonne foi et prudent, il ne pouvait prévenir le défaut de verser le montant (en l’espèce 182 182,19 $) lié à la taxe sur les produits et services (« TPS ») en ce que ni lui, ni sa société, ni les autorités fiscales ne pouvaient raisonnablement identifier avant la faillite de la société le montant dû au fisc. En effet, l’appelant soutient que, n’eût été du vol de documents (factures), de la perte de documents par le ministère chargé de l’administration du bien‑être social au Québec (le « Ministère ») à l’occasion d’une perquisition le 10 juin 1999, et par le comptable mandaté par la société pour la représenter dans le cadre de la vérification, et de la négligence de ce dernier, la société aurait été en mesure de démontrer au ministre que la cotisation établie à l’encontre de la société était non fondée.
+[4] L’appelant a témoigné et sa conjointe France Boudreau a aussi témoigné à l’appui de la position de l’appelant.
+[5] Madame Boudreau a témoigné que :
+i) pendant la période pertinente, elle avait produit tous les rapports trimestriels liés à la TPS et payé en temps requis la taxe nette liée à la TPS. Madame Boudreau a précisé que la société lui avait confié toutes les responsabilités liées à son administration, dont notamment celle de remplir les rapports liés à la TPS;
+ii) son ex‑gendre avait volé des documents de la société (sans en préciser la nature) pour être en mesure de contrefaire la signature de l’appelant. Madame a expliqué que son ex‑gendre avait extorqué en 2001 une somme d’environ 20 000 $ à la société en imitant la signature de l’appelant sur des chèques tirés sur le compte bancaire de la société. Enfin, madame Boudreau a ajouté que son ex‑gendre avait été condamné pour vol en relation à cette extorsion. Je souligne que madame Boudreau n’a pas produit en preuve l’acte d’accusation et le jugement relatif au vol ou encore la plainte faite aux policiers. Je note aussi qu’il aurait été fort intéressant d’entendre le témoignage de l’ex‑gendre à cet égard;
+iii) le 10 juin 1999, des policiers avaient perquisitionné la société (dans le cadre d’une enquête menée par le Ministère et ainsi saisi tous les documents de la société. Madame Boudreau a précisé qu’à la suite de cette enquête, la société avait été blanchie mais que les enquêteurs avaient perdu une bonne partie des documents saisis et qu’ils n’ont donc jamais été retournés à la société. Je souligne que l’appelant n’a déposé aucun document relatif à cette perquisition, notamment l’inventaire des biens saisis et sa plainte à l’égard des documents perdus;
+iv) dans le cadre de la vérification, le cabinet de comptables Voyer, Voyer et Associés (« Voyer ») avait été mandaté pour représenter la société. Madame Boudreau a ajouté que Voyer avait fait preuve de négligence dans le cadre de ce mandat en ce qu’il avait refusé de transmettre aux autorités fiscales les rapports de la société, ses registres et ses factures qui auraient réduit à néant la cotisation établie à l’encontre de la société. Somme toute, madame Boudreau a prétendu que, n’eût été de la négligence de Voyer, la cotisation de la société aurait été réduite à néant et la société n’aurait pas fait faillite. À cet égard, l’appelant a déposé en preuve une mise en demeure (pièce A‑7) avisant Voyer qu’à défaut de transmettre les documents à la société dans les cinq jours de sa réception, des procédures en dommages au montant de 405 093,58 $ seraient entamées contre lui. Je souligne qu’il aurait été fort intéressant d’entendre un représentant de Voyer donner sa version des faits à cet égard. Je note aussi que Voyer, par le truchement de ses avocats, a nié dans la lettre du 28 mars 2007 tous les reproches qui lui ont été faits par l’appelant. Enfin, je note que, dans le rapport de vérification déposé en preuve sous la côte A‑1, la vérificatrice rapporte que, l’appelant n’avait pas été très coopératif, et que le comptable lui aurait affirmé que l’appelant ne lui avait apporté certains documents qu’« au compte goutte ».
+[6] Lors de son témoignage, l’appelant s’est essentiellement contenté de corroborer le témoignage de sa conjointe. L’appelant a ajouté qu’il ne s’était aucunement occupé de l’administration de la société, étant donné qu’il n’avait aucune connaissance en cette matière, ce qui explique pourquoi il avait confié l’administration de la société à sa conjointe en qui il avait une confiance aveugle.
+Analyse et conclusion
+[7] Le cadre juridique applicable à une défense de soin, de diligence et de compétence au paragraphe 323(3) de la LTA a été récemment expliqué en bref comme suit par la Cour d’appel fédérale dans l’arrêt Buckingham c. La Reine, 2011 CAF 142 au paragraphe 23 :
+23. Les appels conjoints soulèvent trois questions principales :
+a. La norme de soin, de diligence et d'habileté applicable fondée sur le paragraphe 227.1(3) de la Loi de l'impôt sur le revenu et le paragraphe 323(3) de la Loi sur la taxe d'accise est-elle une norme objective?
+b. La norme fondée sur le paragraphe 227.1(3) de la Loi de l'impôt sur le revenu s'applique-t-elle différemment lorsqu'elle est fondée sur le paragraphe 323(3) de la Loi sur la taxe d'accise?
+c. Un moyen de défense valable fondé sur le paragraphe 227.1(3) de la Loi de l'impôt sur le revenu ou sur le paragraphe 323(3) de la Loi sur la taxe d'accise est-il recevable si les efforts déployés par les administrateurs visent à remédier aux défauts de versement plutôt qu'à prévenir de tels défauts?
+[8] Je rappelle que l’appelant a soutenu qu’en tant qu’administrateur prudent et de bonne foi, il ne pouvait prévenir le défaut de verser le montant lié à la TPS que ni lui, ni la société, ni les autorités fiscales ne pouvaient raisonnablement identifier avant la faillite de la société comme étant dû au fisc en ce que, n’eût été du vol, de la perte de documents et de la négligence du comptable, la société aurait été en mesure de démontrer au ministre que la cotisation établie à l’encontre de la société était non fondée. Donc, dans un premier temps, l’appelant devait me convaincre des faits allégués au paragraphe 5. La preuve de l’appelant à cet égard reposait essentiellement sur son témoignage et celui de sa conjointe. Ce n’est certes pas par des témoignages vagues, imprécis et contredits par les documents qu’il a lui‑même déposés en preuve (voir mes commentaires au paragraphe 5) que l’appelant pouvait espérer me convaincre. J’ajouterai que l’appelant était en mesure de produire des preuves pertinentes et d’assigner certains témoins (voir mes commentaires au paragraphe 5) ce qui aurait peut-être permis d’élucider les faits. Il ne l’a pas fait. J’en infère que la preuve en question lui aurait été défavorable.
+[9] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2012.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2012 CCI 342
+Nº DU DOSSIER DE LA COUR : 2011-1650(GST)I
+INTITULÉ DE LA CAUSE : RÉAL BOUDREAU ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 24 août 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 28 septembre 2012
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Louis Sirois
+Avocat de l'intimée :
+Me Éric Bernatchez
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Louis Sirois
+Cabinet : Sirois, Tremblay & Associés
+Québec (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

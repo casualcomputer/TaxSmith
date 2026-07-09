@@ -1,0 +1,169 @@
+Title: Goldstein c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31183/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-165-31183-goldstein-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-05-21
+
+# Goldstein c. La Reine
+
+- Citation: 2013 CCI 165
+- Decision date: 2013-05-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5078, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goldstein c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-05-21
+Référence neutre
+2013 CCI 165
+Numéro de dossier
+2012-1320(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1320(IT)I
+ENTRE :
+GITA GOLDSTEIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 7 décembre 2012 et le 16 janvier 2013, à Toronto (Ontario).
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Représentant de l’appelante :
+M. Shmuel Goldstein
+Avocates de l’intimée :
+Me Kathleen Beahen
+Me Jasmeen Mann
+____________________________________________________________________
+JUGEMENT
+La Cour ordonne que, concernant les appels relatifs à des déterminations faites en vertu de la Loi sur la prestation universelle pour la garde d’enfants et de la Loi de l’impôt sur le revenu :
+1. l’appel portant sur la Loi sur la prestation universelle pour la garde d’enfants soit annulé;
+2. l’appel concernant les déterminations faites en vertu de la Loi de l’impôt sur le revenu, déterminations selon lesquelles l’appelante n’a pas droit aux prestations fiscales pour enfants ni au crédit pour taxe sur les produits et services pour les années de base allant de 2000 à 2009, soit rejeté;
+3. les parties assument leurs propres frais.
+Signé à Toronto (Ontario), ce 21e jour de mai 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 5e jour de juillet 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2013 CCI 165
+Date : 20130521
+Dossier : 2012-1320(IT)I
+ENTRE :
+GITA GOLDSTEIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] En l’espèce, la Cour est appelée à trancher la question de savoir si Gita Goldstein était une résidente du Canada durant la période allant de 2000 à 2009.
+[2] En 2008, Mme Goldstein a produit des déclarations de revenus canadiennes afin de demander rétroactivement des prestations fiscales pour enfants et des crédits pour taxe sur les produits et services en vertu de la Loi de l’impôt sur le revenu (la « LIR »), ainsi que des prestations pour la garde d’enfants en vertu de la Loi sur la prestation universelle pour la garde d’enfants (la « LPUGE »). Dans les demandes qu’elle a présentées, Mme Goldstein a considéré qu’elle était une résidente du Canada. Le ministre du Revenu national (le « ministre ») n’était pas d’avis que Mme Goldstein était une résidente du Canada de 2000 à 2009 et a refusé de lui accorder les prestations et les crédits.
+Questions préliminaires
+[3] Il y a deux questions préliminaires. Premièrement, l’appel interjeté en vertu de la LPUGE doit être annulé, parce que la Cour n’a pas compétence pour trancher les appels interjetés en vertu de cette loi : Fatima c. La Reine, 2012 CCI 49.
+[4] Deuxièmement, l’intimée a retiré une objection préliminaire selon laquelle l’appel relatif à la prestation fiscale pour enfant pour l’année de base 2009 devrait être annulé compte tenu du fait qu’il n’avait pas été validement formé. Étant donné que l’objection a été retirée, j’ai supposé que cet appel relatif à la prestation fiscale pour enfants avait été validement formé.
+Principes juridiques applicables
+[5] Il existe une exigence qui s’applique aussi bien à la prestation fiscale pour enfants qu’au crédit pour taxe sur les produits et services : le contribuable doit être un résident du Canada durant l’année de base. C’est ce qui ressort des articles 122.5 et 122.6 à 122.63 de la LIR et, en particulier, du paragraphe 122.5(2) et de la définition de l’expression « particulier admissible » à l’article 122.6 de la LIR.
+[6] Le terme « résident » a généralement comme sens celui déterminé de la manière suivante dans l’arrêt Canada c. Laurin, 2008 CAF 58 :
+[2] […] est résident dans un pays un contribuable qui, dans sa vie de tous les jours, y habite d’une manière régulière, normale ou habituelle, par opposition à quelqu’un qui y demeurerait exceptionnellement, occasionnellement ou par intermittence. […]
+Fiabilité de la preuve
+[7] Avant d’énoncer le contexte factuel, j’aimerais faire des observations sur la fiabilité de la preuve.
+[8] Mme Goldstein n’était pas présente à l’audience, ni en décembre ni en janvier. Elle était représentée par son époux, Shmuel Goldstein, et celui‑ci a témoigné pour le compte de son épouse.
+[9] Pour que le témoignage de M. Goldstein soit considéré comme fiable, il doit être franc, détaillé et convaincant. Il n’en a pas toujours été ainsi et, à mon avis, le témoignage de M. Goldstein n’était pas tout à fait fiable, même en tenant compte du fait qu’un témoin intéressé aurait habituellement tendance à faire ressortir les aspects favorables d’une affaire et d’en minimiser les aspects négatifs.
+[10] Par exemple, tout au long de son témoignage, M. Goldstein a décrit ses liens avec le Canada au temps présent, sans préciser d’une manière ou d’une autre si ces liens existaient durant la période en question. La distinction est cruciale, parce que la Couronne a soutenu qu’un bon nombre des liens n’ont été établis que récemment afin de renforcer le droit de Mme Goldstein aux prestations qu’elle cherche à obtenir.
+[11] Pour illustrer le fait que le témoignage de M. Goldstein n’était pas franc, je renvoie à l’extrait suivant provenant de la transcription, dans lequel je lui ai demandé de clarifier son témoignage antérieur concernant une couverture des soins de santé.
+[traduction]
+LA JUGE WOODS : Vous parliez donc de l’Assurance‑santé de l’Ontario. Qu’en est‑il de l’Assurance‑santé de l’Ontario?
+LE TÉMOIN : Oui. J’avais une carte valide de l’Assurance‑santé de l’Ontario durant toute la période.
+LA JUGE WOODS : Votre épouse n’en avait pas?
+LE TÉMOIN : Je n’ai pas la carte de l’Assurance‑santé de l’Ontario de mon épouse.
+[12] J’ai tenu compte de ces lacunes pour tirer les conclusions de fait. Je me penche à présent sur le contexte factuel.
+Contexte factuel
+[13] Mme Goldstein était âgée de 32 ans au moment de l’audience. Elle est née au Canada et a fréquenté un collège dans l’État de New York pendant un an, à partir de 1997.
+[14] À cette époque, Mme Goldstein a rencontré son futur époux. M. Goldstein est aussi né au Canada, et, lorsqu’il a rencontré Mme Goldstein, il poursuivait ses études au collège Beth Medrash Govoha (le « collège BMG »), à Lakewood, au New Jersey. M. Goldstein et Mme Goldstein se sont fiancés en 1999 et se sont mariés en 2000. Un certificat de mariage a été délivré par l’État du New Jersey.
+[15] Les Goldstein ont eu leur premier enfant en 2000, et ils ont maintenant sept enfants.
+[16] Depuis le mariage, la famille habite à Lakewood, où M. Goldstein poursuit des études à temps plein de droit talmudique et biblique au collège BMG.
+[17] M. Goldstein espère terminer ses études en 2014 et obtenir un poste d’enseignant au Canada.
+[18] Les Goldstein ont des ressources limitées. À l’audience, les sources de fonds suivantes ont été mentionnées :
+a) le loyer à Lakewood était payé au moyen de l’aide sociale du gouvernement américain.
+b) des prestations fiscales pour enfants étaient reçues du gouvernement américain au moyen de déclarations de revenus conjointes des époux aux États-Unis.
+c) M. Goldstein recevait 1 000 $ par mois, un montant qu’il a décrit comme étant une source de revenus à temps partiel. Je ne connais pas la source de ce revenu.
+d) Mme Goldstein gagnait un montant relativement modeste tiré de l’exploitation d’un centre préscolaire à son domicile.
+[19] Les Goldstein ont des liens familiaux et religieux étroits au Canada, et ils viennent souvent en visite au Canada lors des vacances scolaires. Au cours de ces visites, la famille habite au domicile des parents de M. Goldstein, situé à Toronto.
+[20] M. Goldstein a témoigné que la famille est venue au Canada lors de chaque période de vacances scolaires depuis 2000 (quatre par année), pour une durée moyenne de séjour de deux semaines. Le séjour le plus long était celui au cours des vacances d’été d’un mois. Le témoignage de M. Goldstein dans son ensemble n’était pas suffisamment fiable pour me convaincre que les visites étaient aussi régulières qu’il le prétend. J’accepte, toutefois, que les Goldstein ont des liens familiaux et religieux étroits au Canada, et qu’ils viennent souvent au Canada durant les vacances scolaires de M. Goldstein.
+Analyse
+[21] Je ne suis pas persuadée que Mme Goldstein était une résidente du Canada durant la période en question. Depuis son mariage, sa vie de tous les jours se déroule aux États‑Unis et non au Canada.
+[22] L’argument principal avancé par M. Goldstein est que son épouse et lui ont conservé des liens étroits au Canada, et qu’ils n’ont pas établi de liens étroits aux États‑Unis.
+[23] Je ne souscris pas à cet argument. Mme Goldstein a eu des liens très étroits avec les États‑Unis depuis son mariage en 2000. La vie de tous les jours de Mme Goldstein, de son époux et de ses enfants se déroule au New Jersey depuis une longue période, au cours de laquelle M. Goldstein a poursuivi ses études à long terme.
+[24] Le fait que les Goldstein ne possèdent pas de nombreux biens matériels aux États‑Unis traduit la situation financière de la famille et n’affaiblit pas leurs liens de résidence avec les États‑Unis. C’est la vie de tous les jours des Goldstein, plutôt que leur manque de biens, qui est le facteur dominant en l’espèce.
+[25] En outre, le fait que les Goldstein espèrent déménager au Canada en 2014 n’est pas un facteur important compte tenu de la longue période qu’ils ont passée aux États‑Unis.
+[26] M. Goldstein a insisté sur les liens que la famille a avec le Canada. Les Goldstein ont certainement de nombreux liens avec le Canada, mais ces liens n’équivalent pas à une vie quotidienne qui se déroule au Canada et ne sont pas suffisamment importants pour établir la résidence.
+[27] Lorsque les Goldstein sont au Canada, un logement est mis à la disposition de la famille à Toronto, au domicile des parents de M. Goldstein. Il ne s’agit pas d’un facteur important pour trancher la question de la résidence canadienne en l’espèce. À mon avis, ces visites sont des vacances, et ont la nature de visites intermittentes plutôt que d’une routine établie.
+[28] M. Goldstein soutient que la famille n’a jamais rompu ses liens avec le Canada, et que leurs liens se sont renforcés au fil des années. Je ne puis souscrire à cet argument. Les Goldstein ont rompu des liens importants avec le Canada lorsque M. Goldstein a décidé d’entreprendre des études à long terme aux États‑Unis. Les liens qu’ils avaient au Canada avant que M. Goldstein ne commence des études au collège ont été fondamentalement modifiés par le fait que leur vie quotidienne se déroule au New Jersey.
+[29] Certains liens que M. Goldstein a mentionnés dans son témoignage sont énoncés ci‑dessous :
+a) M. Goldstein a déclaré qu’il avait loué une ou deux chambres (deux depuis 2004) au sous‑sol de la maison de ses parents, que sa famille utilisait et qui servaient pour l’entreposage d’effets personnels. Il a été déclaré que les chambres étaient louées pour 100 $ chacune.
+b) M. et Mme Goldstein ont tous les deux de la famille au Canada.
+c) Durant une partie de la période en question, Mme Goldstein offrait des services d’inscription de monogrammes et des services de rencontre au Canada.
+d) Mme Goldstein a conservé son téléphone et son télécopieur à la maison des parents de M. Goldstein à Toronto.
+e) Les Goldstein et leurs enfants sont tous citoyens canadiens. Les Goldstein ont obtenu des passeports canadiens en 2010, lorsque ces documents ont été exigés pour traverser la frontière.
+f) Les Goldstein ont des affiliations religieuses à Toronto.
+g) M. Goldstein a en principe une offre d’emploi à Toronto, à la congrégation dont son épouse et lui sont membres.
+h) M. Goldstein a conservé un permis de conduire de l’Ontario et la protection offerte par l’Assurance‑santé de l’Ontario.
+i) Mme Goldstein détient des titres auprès d’une institution financière canadienne.
+j) M. Goldstein dispose de comptes bancaires actifs au Canada et une carte de crédit canadienne.
+k) Les Goldstein sont membres actifs du Parti conservateur au Canada et Mme Goldstein est inscrite sur les listes électorales au Canada.
+[30] L’appréciation que je fais du témoignage ci‑dessus est qu’il n’établit pas que Mme Goldstein avait un mode de vie habituel au Canada.
+[31] En ce qui concerne les liens familiaux et religieux, les passeports et la citoyenneté, ces facteurs confirment que les Goldstein ont des liens solides au Canada, mais ils n’établissent pas l’existence d’un mode de vie habituel dans ce pays.
+[32] Pour ce qui est du logement au domicile des parents, il s’agit, à mon avis, d’un facteur faible. L’utilisation de la maison des parents lors de visites n’est pas un facteur solide pour établir la résidence.
+[33] En ce qui a trait au prétendu loyer de 100 $ par chambre, il y a lieu de signaler que c’est un montant relativement minime. En outre, la preuve ne me convainc pas que le loyer a été payé tout au long de la période en question. Des relevés bancaires faisant état de retraits ont été fournis, mais ces relevés concernaient une période ultérieure. De plus, les reçus de loyer qui ont été produits en preuve laissent penser, au vu de leur numérotation, que relativement peu de reçus ont été délivrés.
+[34] Quant à l’entreprise dont l’activité était d’offrir des services d’inscription de monogramme et des services de rencontre, la preuve était simplement trop vague pour que je sois convaincue qu’il s’agit d’un facteur important pour établir la résidence. Par exemple, je ne sais pas comment ni quand l’activité était exercée et si des membres de la famille au Canada participaient à l’exploitation de l’entreprise. Je tiens à souligner que le numéro de téléphone figurant sur une carte de visite pour cette entreprise est celui des parents de Mme Goldstein.
+[35] Concernant le téléphone et le télécopieur, la preuve ne me convainc pas quant aux circonstances et aux moments où cet équipement était utilisé et aux personnes qui l’utilisaient.
+[36] Le permis de conduire de l’Ontario et la protection offerte par l’Assurance‑santé de l’Ontario de M. Goldstein ne constituent pas des éléments de preuve solides d’un mode de vie habituel au Canada. M. Goldstein a conservé ces liens depuis qu’il a commencé ses études au collège au New Jersey. Le fait de garder ces liens était vraisemblablement une question de commodité et d’intérêt pour M. Goldstein plutôt que l’illustration d’un mode de vie habituel au Canada.
+[37] Les comptes bancaires ne sont pas non plus un facteur solide en l’espèce. La preuve indique que les comptes étaient relativement inactifs et que le compte bancaire concernant la période initiale est un compte différent du compte bancaire plus récent. La preuve était tout simplement trop vague pour que les comptes soient considérés comme un facteur important.
+[38] Pour ce qui est de la qualité de membre du Parti conservateur et de l’inscription sur les listes électorales, j’ai accordé très peu de poids à ces facteurs, parce que je ne suis pas convaincue que ces liens ont été établis avant que l’appelante décide de demander les prestations pour enfants et qu’elle sache qu’il était souhaitable d’avoir des liens avec le Canada. J’aimerais souligner, par exemple, que, lorsque Mme Goldstein a produit ses déclarations de revenus canadiennes en 2008 afin d’obtenir des prestations fiscales pour enfants, elle a coché, sur la déclaration, une case concernant l’inscription électorale.
+[39] Compte tenu de la preuve dans son ensemble, je suis convaincue que Mme Goldstein a eu un mode de vie habituel aux États‑Unis au moins depuis son mariage en 2000, et que ses liens avec le Canada ne sont pas suffisants pour établir la résidence.
+[40] Enfin, j’aimerais mentionner une décision qui a certaines ressemblances avec l’espèce, dans laquelle il a été décidé qu’une personne qui poursuivait des études religieuses à long terme en Israël était demeurée une résidente du Canada pour ce qui est de l’admissibilité à la prestation fiscale canadienne pour enfants. Il s’agit de la décision Perlman c. La Reine, 2011 CCI 658, 2011 D.T.C. 1045.
+[41] Comme je l’ai mentionné dans la décision Snow c. La Reine, 2012 CCI 78, la décision Perlman est plus ou moins utile, parce que la Couronne avait la charge de la preuve dont elle n’a pas réussi à s’acquitter. Plus particulièrement, ainsi que l’a souligné le juge Boyle, la Couronne n’a pas pu indiquer un moment donné où il y avait eu un changement important des faits au point de constituer un changement de résidence (au paragraphe 32).
+[42] M. Goldstein soutient que le raisonnement ci‑dessus est aussi applicable en l’espèce, parce qu’il n’existe pas de moment donné où son épouse et lui ont rompu leurs liens avec le Canada. Je ne souscris pas à cet argument. Je suis convaincue que les liens de résidence de Mme Goldstein avec le Canada avaient bel et bien été rompus au moment de son mariage au début de 2000. Les éléments de preuve n’étaient pas suffisamment détaillés pour me permettre de conclure que les liens de résidence de Mme Goldstein avec le Canada ont été rompus plus tôt, mais cela n’est d’aucune utilité pour Mme Goldstein dans le présent appel où la charge initiale de la preuve lui incombe.
+[43] L’appel interjeté relativement aux prestations fiscales pour enfants et au crédit pour taxe sur les produits et services est rejeté.
+Signé à Toronto (Ontario), ce 21e jour de mai 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 5e jour de juillet 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2013 CCI 165
+No DU DOSSIER DE LA COUR : 2012-1320(IT)I
+INTITULÉ : GITA GOLDSTEIN c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Le 7 décembre 2012 et le 16 janvier 2013
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 21 mai 2013
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Shmuel Goldstein
+Avocates de l’intimée :
+Me Kathleen Beahen
+Me Jasmeen Mann
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s/o
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

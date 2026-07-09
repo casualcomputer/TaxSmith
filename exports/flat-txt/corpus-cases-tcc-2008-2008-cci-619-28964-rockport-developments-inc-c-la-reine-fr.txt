@@ -1,0 +1,443 @@
+Title: Rockport Developments Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28964/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-619-28964-rockport-developments-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-11-14
+
+# Rockport Developments Inc. c. La Reine
+
+- Citation: 2008 CCI 619
+- Decision date: 2008-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6774, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rockport Developments Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-14
+Référence neutre
+2008 CCI 619
+Numéro de dossier
+2006-3036(GST)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-3036(GST)G
+ENTRE :
+ROCKPORT DEVELOPMENTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur preuve commune avec les requêtes de
+Pine Glen Supply Ltd. (2006-3037(GST)G),
+Goldsboro Contracting Ltd. (2006-3038(GST)G),
+C M J Storage Ltd. (2006-3039(GST)G),
+ASA Construction Company Ltd. (2006-3040(GST)G),
+M R Martin Construction Inc. (2006-3041(GST)G),
+The Bend Electric Ltd. (2006‑3042(GST)G),
+Codiac Drilling & Boring Ltd. (2006‑3043(GST)G) et
+Robinson Construction Company Ltd. (2006‑3044(GST)G)
+le 26 septembre 2008, à Fredericton (Nouveau‑Brunswick).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Edward J. McGrath
+Avocat de l’intimée :
+Me John Bodurtha
+____________________________________________________________________
+ORDONNANCE
+VU la requête présentée par l’appelante en vue d’obtenir une ordonnance de réouverture de l’audience en vertu de l’article 138 des Règles de la Cour canadienne de l’impôt (procédure générale);
+VU la déclaration sous serment de David Ross;
+ET VU les observations des parties;
+La requête est rejetée, sans dépens, conformément aux motifs de l’ordonnance ci‑joints.
+L’appelante et l’intimée auront respectivement jusqu’au 19 décembre 2008 et jusqu’au 23 janvier 2009 pour déposer un mémoire après procès additionnel si nécessaire, et l’appelante aura jusqu’au 6 février 2009 pour déposer sa réponse.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 24e jour de novembre 2008.
+Alya Kaddour‑Lord, traductrice
+Dossier : 2006-3037(GST)G
+ENTRE :
+PINE GLEN SUPPLY LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur preuve commune avec les requêtes de
+Rockport Developments Inc. (2006-3036(GST)G),
+Goldsboro Contracting Ltd. (2006-3038(GST)G),
+C M J Storage Ltd. (2006-3039(GST)G),
+ASA Construction Company Ltd. (2006-3040(GST)G),
+M R Martin Construction Inc. (2006-3041(GST)G),
+The Bend Electric Ltd. (2006‑3042(GST)G),
+Codiac Drilling & Boring Ltd. (2006‑3043(GST)G) et
+Robinson Construction Company Ltd. (2006‑3044(GST)G)
+le 26 septembre 2008, à Fredericton (Nouveau‑Brunswick).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Edward J. McGrath
+Avocat de l’intimée :
+Me John Bodurtha
+____________________________________________________________________
+ORDONNANCE
+VU la requête présentée par l’appelante en vue d’obtenir une ordonnance de réouverture de l’audience en vertu de l’article 138 des Règles de la Cour canadienne de l’impôt (procédure générale);
+VU la déclaration sous serment de David Ross;
+ET VU les observations des parties;
+La requête est rejetée, sans dépens, conformément aux motifs de l’ordonnance ci‑joints.
+L’appelante et l’intimée auront respectivement jusqu’au 19 décembre 2008 et jusqu’au 23 janvier 2009 pour déposer un mémoire après procès additionnel si nécessaire, et l’appelante aura jusqu’au 6 février 2009 pour déposer sa réponse.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 24e jour de novembre 2008.
+Alya Kaddour‑Lord, traductrice
+Dossier : 2006-3038(GST)G
+ENTRE :
+GOLDSBORO CONTRACTING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur preuve commune avec les requêtes de
+Rockport Developments Inc. (2006-3036(GST)G),
+Pine Glen Supply Ltd. (2006-3037(GST)G),
+C M J Storage Ltd. (2006-3039(GST)G),
+ASA Construction Company Ltd. (2006-3040(GST)G),
+M R Martin Construction Inc. (2006-3041(GST)G),
+The Bend Electric Ltd. (2006‑3042(GST)G),
+Codiac Drilling & Boring Ltd. (2006‑3043(GST)G) et Robinson Construction Company Ltd. (2006‑3044(GST)G)
+le 26 septembre 2008, à Fredericton (Nouveau‑Brunswick).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Edward J. McGrath
+Avocat de l’intimée :
+Me John Bodurtha
+____________________________________________________________________
+ORDONNANCE
+VU la requête présentée par l’appelante en vue d’obtenir une ordonnance de réouverture de l’audience en vertu de l’article 138 des Règles de la Cour canadienne de l’impôt (procédure générale);
+VU la déclaration sous serment de David Ross;
+ET VU les observations des parties;
+La requête est rejetée, sans dépens, conformément aux motifs de l’ordonnance ci‑joints.
+L’appelante et l’intimée auront respectivement jusqu’au 19 décembre 2008 et jusqu’au 23 janvier 2009 pour déposer un mémoire après procès additionnel si nécessaire, et l’appelante aura jusqu’au 6 février 2009 pour déposer sa réponse.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 24e jour de novembre 2008.
+Alya Kaddour‑Lord, traductrice
+Dossier : 2006-3039(GST)G
+ENTRE :
+C M J STORAGE LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur preuve commune avec les requêtes de
+Rockport Developments Inc. (2006-3036(GST)G),
+Pine Glen Supply Ltd. (2006-3037(GST)G),
+Goldsboro Contracting Ltd. (2006-3038(GST)G),
+ASA Construction Company Ltd. (2006-3040(GST)G),
+M R Martin Construction Inc. (2006-3041(GST)G),
+The Bend Electric Ltd. (2006‑3042(GST)G),
+Codiac Drilling & Boring Ltd. (2006‑3043(GST)G) et Robinson Construction Company Ltd. (2006‑3044(GST)G)
+le 26 septembre 2008, à Fredericton (Nouveau‑Brunswick).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Edward J. McGrath
+Avocat de l’intimée :
+Me John Bodurtha
+____________________________________________________________________
+ORDONNANCE
+VU la requête présentée par l’appelante en vue d’obtenir une ordonnance de réouverture de l’audience en vertu de l’article 138 des Règles de la Cour canadienne de l’impôt (procédure générale);
+VU la déclaration sous serment de David Ross;
+ET VU les observations des parties;
+La requête est rejetée, sans dépens, conformément aux motifs de l’ordonnance ci‑joints.
+L’appelante et l’intimée auront respectivement jusqu’au 19 décembre 2008 et jusqu’au 23 janvier 2009 pour déposer un mémoire après procès additionnel si nécessaire, et l’appelante aura jusqu’au 6 février 2009 pour déposer sa réponse.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 24e jour de novembre 2008.
+Alya Kaddour‑Lord, traductrice
+Dossier : 2006-3040(GST)G
+ENTRE :
+ASA CONSTRUCTION COMPANY LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur preuve commune avec les requêtes de
+Rockport Developments Inc. (2006-3036(GST)G),
+Pine Glen Supply Ltd. (2006-3037(GST)G),
+Goldsboro Contracting Ltd. (2006-3038(GST)G),
+C M J Storage Ltd. (2006-3039(GST)G),
+M R Martin Construction Inc. (2006-3041(GST)G),
+The Bend Electric Ltd. (2006‑3042(GST)G),
+Codiac Drilling & Boring Ltd. (2006‑3043(GST)G) et Robinson Construction Company Ltd. (2006‑3044(GST)G)
+le 26 septembre 2008, à Fredericton (Nouveau‑Brunswick).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Edward J. McGrath
+Avocat de l’intimée :
+Me John Bodurtha
+____________________________________________________________________
+ORDONNANCE
+VU la requête présentée par l’appelante en vue d’obtenir une ordonnance de réouverture de l’audience en vertu de l’article 138 des Règles de la Cour canadienne de l’impôt (procédure générale);
+VU la déclaration sous serment de David Ross;
+ET VU les observations des parties;
+La requête est rejetée, sans dépens, conformément aux motifs de l’ordonnance ci‑joints.
+L’appelante et l’intimée auront respectivement jusqu’au 19 décembre 2008 et jusqu’au 23 janvier 2009 pour déposer un mémoire après procès additionnel si nécessaire, et l’appelante aura jusqu’au 6 février 2009 pour déposer sa réponse.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 24e jour de novembre 2008.
+Alya Kaddour‑Lord, traductrice
+Dossier : 2006-3041(GST)G
+ENTRE :
+M R MARTIN CONSTRUCTION INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur preuve commune avec les requêtes de
+Rockport Developments Inc. (2006-3036(GST)G),
+Pine Glen Supply Ltd. (2006-3037(GST)G),
+Goldsboro Contracting Ltd. (2006-3038(GST)G),
+C M J Storage Ltd. (2006-3039(GST)G),
+ASA Construction Company Ltd. (2006-3040(GST)G),
+The Bend Electric Ltd. (2006‑3042(GST)G),
+Codiac Drilling & Boring Ltd. (2006‑3043(GST)G) et Robinson Construction Company Ltd. (2006‑3044(GST)G)
+le 26 septembre 2008, à Fredericton (Nouveau‑Brunswick).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Edward J. McGrath
+Avocat de l’intimée :
+Me John Bodurtha
+____________________________________________________________________
+ORDONNANCE
+VU la requête présentée par l’appelante en vue d’obtenir une ordonnance de réouverture de l’audience en vertu de l’article 138 des Règles de la Cour canadienne de l’impôt (procédure générale);
+VU la déclaration sous serment de David Ross;
+ET VU les observations des parties;
+La requête est rejetée, sans dépens, conformément aux motifs de l’ordonnance ci‑joints.
+L’appelante et l’intimée auront respectivement jusqu’au 19 décembre 2008 et jusqu’au 23 janvier 2009 pour déposer un mémoire après procès additionnel si nécessaire, et l’appelante aura jusqu’au 6 février 2009 pour déposer sa réponse.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 24e jour de novembre 2008.
+Alya Kaddour‑Lord, traductrice
+Dossier : 2006-3042(GST)G
+ENTRE :
+THE BEND ELECTRIC LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur preuve commune avec les requêtes de
+Rockport Developments Inc. (2006-3036(GST)G),
+Pine Glen Supply Ltd. (2006-3037(GST)G),
+Goldsboro Contracting Ltd. (2006-3038(GST)G),
+C M J Storage Ltd. (2006-3039(GST)G),
+ASA Construction Company Ltd. (2006-3040(GST)G),
+M R Martin Construction Inc. (2006-3041(GST)G),
+Codiac Drilling & Boring Ltd. (2006‑3043(GST)G) et Robinson Construction Company Ltd. (2006‑3044(GST)G)
+le 26 septembre 2008, à Fredericton (Nouveau‑Brunswick).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Edward J. McGrath
+Avocat de l’intimée :
+Me John Bodurtha
+____________________________________________________________________
+ORDONNANCE
+VU la requête présentée par l’appelante en vue d’obtenir une ordonnance de réouverture de l’audience en vertu de l’article 138 des Règles de la Cour canadienne de l’impôt (procédure générale);
+VU la déclaration sous serment de David Ross;
+ET VU les observations des parties;
+La requête est rejetée, sans dépens, conformément aux motifs de l’ordonnance ci‑joints.
+L’appelante et l’intimée auront respectivement jusqu’au 19 décembre 2008 et jusqu’au 23 janvier 2009 pour déposer un mémoire après procès additionnel si nécessaire, et l’appelante aura jusqu’au 6 février 2009 pour déposer sa réponse.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 24e jour de novembre 2008.
+Alya Kaddour‑Lord, traductrice
+Dossier : 2006-3043(GST)G
+ENTRE :
+CODIAC DRILLING & BORING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur preuve commune avec les requêtes de
+Rockport Developments Inc. (2006-3036(GST)G),
+Pine Glen Supply Ltd. (2006-3037(GST)G),
+Goldsboro Contracting Ltd. (2006-3038(GST)G),
+C M J Storage Ltd. (2006-3039(GST)G),
+ASA Construction Company Ltd. (2006-3040(GST)G),
+M R Martin Construction Inc. (2006-3041(GST)G),
+The Bend Electric Ltd. (2006‑3042(GST)G), et Robinson Construction Company Ltd. (2006‑3044(GST)G)
+le 26 septembre 2008, à Fredericton (Nouveau‑Brunswick).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Edward J. McGrath
+Avocat de l’intimée :
+Me John Bodurtha
+____________________________________________________________________
+ORDONNANCE
+VU la requête présentée par l’appelante en vue d’obtenir une ordonnance de réouverture de l’audience en vertu de l’article 138 des Règles de la Cour canadienne de l’impôt (procédure générale);
+VU la déclaration sous serment de David Ross;
+ET VU les observations des parties;
+La requête est rejetée, sans dépens, conformément aux motifs de l’ordonnance ci‑joints.
+L’appelante et l’intimée auront respectivement jusqu’au 19 décembre 2008 et jusqu’au 23 janvier 2009 pour déposer un mémoire après procès additionnel si nécessaire, et l’appelante aura jusqu’au 6 février 2009 pour déposer sa réponse.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 24e jour de novembre 2008.
+Alya Kaddour‑Lord, traductrice
+Dossier : 2006-3044(GST)G
+ENTRE :
+ROBINSON CONSTRUCTION COMPANY LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur preuve commune avec les requêtes de
+Rockport Developments Inc. (2006-3036(GST)G),
+Pine Glen Supply Ltd. (2006-3037(GST)G),
+Goldsboro Contracting Ltd. (2006-3038(GST)G),
+C M J Storage Ltd. (2006-3039(GST)G),
+ASA Construction Company Ltd. (2006-3040(GST)G),
+M R Martin Construction Inc. (2006-3041(GST)G),
+The Bend Electric Ltd. (2006‑3042(GST)G) et
+Codiac Drilling & Boring Ltd. (2006‑3043(GST)G)
+le 26 septembre 2008, à Fredericton (Nouveau‑Brunswick).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Edward J. McGrath
+Avocat de l’intimée :
+Me John Bodurtha
+____________________________________________________________________
+ORDONNANCE
+VU la requête présentée par l’appelante en vue d’obtenir une ordonnance de réouverture de l’audience en vertu de l’article 138 des Règles de la Cour canadienne de l’impôt (procédure générale);
+VU la déclaration sous serment de David Ross;
+ET VU les observations des parties;
+La requête est rejetée, sans dépens, conformément aux motifs de l’ordonnance ci‑joints.
+L’appelante et l’intimée auront respectivement jusqu’au 19 décembre 2008 et jusqu’au 23 janvier 2009 pour déposer un mémoire après procès additionnel si nécessaire, et l’appelante aura jusqu’au 6 février 2009 pour déposer sa réponse.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 24e jour de novembre 2008.
+Alya Kaddour‑Lord, traductrice
+Référence : 2008CCI619
+Date : 20081114
+Dossiers : 2006-3036(GST)G,
+2006-3037(GST)G, 2006-3038(GST)G,
+2006-3039(GST)G, 2006-3040(GST)G,
+2006-3041(GST)G, 2006-3042(GST)G,
+2006-3043(GST)G, 2006-3044(GST)G
+ENTRE :
+ROCKPORT DEVELOPMENTS INC.,
+PINE GLEN SUPPLY LTD.,
+GOLDSBORO CONTRACTING LTD.,
+C M J STORAGE LTD.,
+ASA CONSTRUCTION COMPANY LTD.,
+M R MARTIN CONSTRUCTION INC.,
+THE BEND ELECTRIC LTD.,
+CODIAC DRILLING & BORING LTD.,
+ROBINSON CONSTRUCTION COMPANY LTD.,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Angers
+[1] Il s’agit d’une requête présentée par les appelantes en vertu de l’article 138 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), en vue d’obtenir une ordonnance de réouverture de l’audience, aux fins et aux conditions qui sont appropriées, avant que le jugement ne soit prononcé. Les appels susmentionnés ont été entendus à Moncton (Nouveau‑Brunswick), les 12 et 13 mai 2008. La Cour avait mis les causes en délibéré en attendant que les parties déposent des mémoires, le dernier étant attendu le 12 septembre 2008.
+[2] L’avis de requête et la déclaration sous serment qui l’appuie ont été déposés devant la Cour le 25 juin 2008. Les appelantes disposent maintenant de nouveaux éléments de preuve qu’elles souhaitent présenter dans les causes susmentionnées. Ces éléments de preuve concernent une série d’opérations effectuées en date du 25 juin 2008 sur les actions des sociétés appelantes, et les résolutions que certaines d’entre elles ont adoptées le 18 juin 2008 afin de pouvoir présenter des choix en vertu des paragraphes 156(2) et (4) de la Loi sur la taxe d’accise (la « Loi »), ce qu’elles ont fait le 25 juin 2008, soit environ un mois après la fin du procès.
+[3] Les appels susmentionnés portent sur les cotisations établies par le ministre du Revenu national (le « ministre ») au titre de la taxe payable par les appelantes pour les périodes allant du 1er janvier 2001 au mois de décembre 2003, ou au 31 mars 2004, selon le cas. Les appelantes interjettent appel à l’encontre de la décision du ministre d’établir des cotisations pour modifier les montants déclarés au titre de la taxe sur les produits et services (« TPS ») et de la taxe de vente harmonisée (« TVH ») pour les périodes susmentionnées. Parmi les questions à trancher en l’espèce, il y a celle de savoir si les appelantes Goldsboro Contracting Ltd. (« Goldsboro »), M R Martin Construction Inc. (« Martin »), Pine Glen Supply Ltd. (« Pine Glen »), Rockport Developments Inc. (« Rockport »), The Bend Electric Ltd. (« Bend »), C M J Storage Ltd. (« C M J ») et Codiac Drilling & Boring Ltd. (« Codiac ») peuvent se prévaloir de l’article 156 de la Loi dans la mesure où, selon le ministre, ces appelantes ne peuvent être considérées comme les « membres déterminés » d’un « groupe admissible » parce qu’elles ne sont pas des personnes morales « étroitement liées » au sens de l’article 128 de la Loi.
+[4] Pour résumer brièvement les faits, je me contenterai de dire que Robinson avait conclu un contrat avec MRM Technical Group (« MRM »), une société américaine qui avait passé des contrats avec Enbridge Gas New Brunswick Inc. (« Enbridge ») en vue de mettre en place un système de distribution de gaz naturel au Nouveau‑Brunswick. Robinson avait donné l’exécution d’une partie du travail et la fourniture de certains services en sous‑traitance à ses sociétés affiliées. En raison de l’incapacité d’Enbridge d’obtenir les permis nécessaires et du fait de certains changements de dernière minute apportés au projet, celui‑ci a accusé un retard de quatre mois par rapport à la date qui avait été fixée pour le début des travaux, ce qui s’est traduit par des frais supplémentaires. Robinson a présenté la facture relative à ces frais à MRM, qui l’a à son tour soumise à Enbridge, mais pour une grande partie de ces dépenses, aucun ordre de paiement n’a été donné. Finalement, Robinson a intenté une poursuite contre MRM et Enbridge, réclamant 3,5 millions de dollars en frais supplémentaires impayés. Cette poursuite a été réglée à l’amiable pour la somme de 545 000 $.
+[5] En conséquence de ce règlement à l’amiable, les sociétés affiliées appelantes n’ont pu être payées pour les services qu’elles avaient fournis, et elles ont demandé des crédits de taxe sur les intrants pour les montants qui s’étaient transformés en créances irrécouvrables. Goldsboro, Robinson, Rockport, ASA Construction Company Ltd. et Bend ont voulu déduire ces créances irrécouvrables en vertu de l’article 231 de la Loi, mais le ministre a refusé leurs demandes, considérant que les sociétés en question étaient des personnes liées aux termes du sous‑alinéa 251(2)c)(ii) de la Loi de l’impôt sur le revenu, et qu’en tant que telles, elles avaient entre elles un lien de dépendance contrairement à ce qui est exigé par l’article 231 de la Loi. En outre, comme je l’ai mentionné précédemment, le ministre soutient que les appelantes Goldsboro, Martin, Pine Glen, Rockport, Bend, C M J et Codiac ne peuvent se prévaloir de l’article 156 de la Loi, étant donné qu’aucune de ces sociétés ne peut être considérée comme un « membre déterminé » d’un « groupe admissible » dans la mesure où elles ne sont pas des personnes morales « étroitement liées » aux termes de l’article 128 de la Loi.
+[6] C’est ce dernier argument qui a poussé les appelantes, après que le procès a pris fin, à effectuer un transfert de propriété de leurs actions, et qui a amené certaines d’entre elles à présenter un choix en vertu des paragraphes 156(2) et (4) de la Loi. Ce sont là les nouveaux éléments de preuve qu’elles souhaitent présenter, parce qu’elles sont d’avis que ces nouveaux éléments sont pertinents lorsqu’il s’agit de décider si les appelantes devaient payer des taxes pendant les périodes en cause. Les appelantes sont également d’avis que la Loi ne contient aucune disposition les empêchant de présenter un choix avec effet rétroactif, prenant effet à la date qu’elles ont fixée, soit le 15 décembre 2000. Finalement, les appelantes soutiennent qu’elles ne cherchent qu’à faire valoir leur droit de recevoir un traitement fiscal conforme à l’esprit de la Loi.
+[7] L’intimée prétend que, dans les avis d’appel, il n’est nullement mentionné que les appelantes étaient parvenues à s’entendre entre elles, ou qu’elles avaient présenté des choix qui s’appliquaient aux périodes en cause. Par conséquent, cela soulève une nouvelle question, celle de savoir si les choix qui ont été faits sont valides pour les périodes visées par les appels, question qui peut elle‑même exiger la présentation de nouveaux arguments et preuves concernant les transferts de propriété des actions. L’intimée soutient également que les nouveaux éléments de preuve que les appelantes souhaitent produire étaient inexistants au moment du procès, et qu’il ne s’agit pas simplement de nouveaux éléments qui préexistaient au procès, et qui, pour une raison quelconque, n’ont pas pu être présentés. L’intimée affirme que le fait de créer de nouveaux éléments de preuve relativement à une nouvelle question constitue un recours abusif à la Cour.
+[8] Le paragraphe 138(1) des Règles prévoit ce qui suit :
+Le juge peut rouvrir l’audience avant que le jugement n’ait été prononcé aux fins et aux conditions qui sont appropriées.
+[9] Dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, la Cour suprême du Canada a adopté le critère à deux volets énoncé dans la décision Scott v. Cook, [1970] 2 O.R. 769 (H.C. Ont.), critère à la lumière duquel le juge de première instance doit examiner une requête en réouverture de l’audience avant que le jugement ne soit prononcé. Il s’agit de répondre à deux questions, à savoir si l’issue du procès serait différente si les nouveaux éléments de preuve étaient présentés, et si les éléments de preuve en question auraient pu être obtenus avant le procès si la personne qui souhaite les produire avait fait preuve d’une diligence raisonnable.
+[10] Il m’apparaît clairement que les éléments de preuve que les appelantes souhaitent maintenant présenter étaient inexistants au moment où le procès a eu lieu. Que ce soit l’acquisition d’actions, les résolutions ou les choix présentés afin que certaines fournitures taxables soient réputées avoir été effectuées sans contrepartie, toutes ces mesures ont été prises après la fin du procès. Il était peut‑être loisible aux appelantes de poser ces gestes bien avant la tenue du procès, mais elles n’en ont rien fait; par conséquent, il ne s’agit pas ici d’un cas où les éléments de preuve auraient pu être obtenus ou présentés si les appelantes avait fait preuve de diligence raisonnable.
+[11] Les éléments de preuve que les appelantes souhaitent maintenant présenter concernent des évènements qui ont eu lieu après coup. Le fait de les admettre soulèverait de nouvelles questions, soit celles de savoir si les choix sont valides, s’ils sont rétroactifs et jusqu’où ils doivent remonter dans le temps pour s’appliquer aux années en cause, mais également celles de savoir si les opérations sur actions et les résolutions sont valides, et si les appelantes satisfont aux critères énoncés dans les définitions de la Loi. Il faudrait répondre à toutes les questions susmentionnées. En outre, si les opérations sur actions, les résolutions et les choix avaient existé au moment de la vérification, l’issue du procès et le fondement des cotisations auraient pu être différents, tout comme les plaidoyers prononcés devant la Cour et les questions dont cette dernière a été saisie. Étant donné que les nouveaux éléments de preuve étaient inexistants au moment de la vérification et du procès, je conclus qu’ils ne peuvent altérer l’issue du procès.
+[12] À mes yeux, le fait d’accueillir la requête des appelantes constituerait un abus de procédure, et porterait atteinte au droit garanti à l’intimée par les principes d’équité procédurale. Les appelantes et l’intimée auront respectivement jusqu’au 19 décembre 2008 et jusqu’au 23 janvier 2009 pour déposer un nouveau mémoire après procès si nécessaire, et les appelantes auront jusqu’au 6 février 2009 pour présenter leurs réponses.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 24e jour de novembre 2008.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2008CCI619
+NOS DES DOSSIERS DE LA COUR : 2006-3036(GST)G, 2006-3037(GST)G,
+2006-3038(GST)G, 2006-3039(GST)G,
+2006-3040(GST)G, 2006-3041(GST)G,
+2006-3042(GST)G, 2006-3043(GST)G,
+2006-3044(GST)G
+INTITULÉS : Rockport Developments Inc. et Sa Majesté la Reine;
+Pine Glen Supply Ltd. et Sa Majesté la Reine;
+Goldsboro Contracting Ltd. et Sa Majesté la Reine;
+C M J Storage Ltd. et Sa Majesté la Reine;
+ASA Construction Company Ltd. et Sa Majesté la Reine;
+M R Martin Construction Inc. et Sa Majesté la Reine;
+The Bend Electric Ltd. et Sa Majesté la Reine;
+Codiac Drilling & Boring Ltd. et Sa Majesté la Reine;
+Robinson Construction Company Ltd. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Fredericton (Nouveau‑Brunswick)
+DATE DE L’AUDIENCE : Le 26 septembre 2008
+MOTIFS DE L’ORDONNANCE : L’honorable juge François Angers
+DATE DE L’ORDONNANCE : Le 14 novembre 2008
+COMPARUTIONS :
+Avocat des appelantes :
+Me Edward J. McGrath
+Avocat de l’intimée :
+Me John Bodurtha
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom : Edward J. McGrath
+Cabinet : Anderson Sinclair
+Moncton (Nouveau‑Brunswick)
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

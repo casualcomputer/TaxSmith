@@ -1,0 +1,205 @@
+Title: Astle v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521474/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-105-521474-astle-v-the-king.md
+Document type: case_law
+Last modified: 2025-08-01
+
+# Astle v. The King
+
+- Citation: 2025 TCC 105
+- Decision date: 2025-08-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5402, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Astle v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-08-01
+Neutral citation
+2025 TCC 105
+File numbers
+2021-1982(CPP), 2021-1983(IT)I, 2021-1984(EI)
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2021-1983(IT)I
+2021-1984(EI)
+2021-1982(CPP)
+BETWEEN:
+KURTIS ASTLE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeals heard on common evidence on April 15, 2024, at Toronto, Ontario
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+Laura Zubot
+Chukwuebuka (Stanley) Ndibe
+Counsel for the Respondent:
+Bryant Godkin
+JUDGMENT
+The appeals are dismissed with costs to the respondent in the amount of $1,185, representing one set of costs under section 11 of the Tax Court of Canada Rules (Informal Procedure).
+Signed this 1st day of August 2025.
+“Susan Wong”
+Wong J.
+Citation: 2025 TCC 105
+Date: 2025 08 01
+Docket: 2021-1983(IT)I
+BETWEEN:
+KURTIS ASTLE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Dockets: 2021-1982(CPP)
+2021-1984(EI)
+AND BETWEEN:
+KURTIS ASTLE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+I. Introduction/Overview [1] The appellant entered into a business venture to open a craft brewery and restaurant. He invested as a shareholder and agreed to be one of the directors. He trusted his business associate and fellow director, who already ran a successful pub. Unfortunately, the venture ran into a series of financial difficulties and the appellant became increasingly involved in an effort to save the business.
+[2] Among the company’s financial problems was the failure to remit source deductions to the federal Crown and the appellant was eventually assessed for the debt as a director.
+II. Issues [3] The issue is whether the appellant is liable as a director for the corporation’s failure to remit the following source deductions:[1]
+federal income tax of $5,362.34 for 2017;
+federal income tax of $14,163.23 for the period from January 1 to May 31, 2018;
+employment insurance premiums of $10,124.99 for the period from January 1 to May 31, 2018; and
+Canada Pension Plan contributions of $16,628.40 the period from January 1 to May 31, 2018.
+[4] Provincial income tax was also assessed for these periods but this Court has no jurisdiction with respect to provincial amounts.[2]
+[5] The parties agree that a certificate for the corporation’s liability was registered in the Federal Court and execution for that amount was returned unsatisfied,[3] so the prerequisite under subparagraph 227.1(2)(a) has been met.
+III. Legislative framework [6] An employer paying salary or wages to its employees is typically required to deduct income tax,[4] employment insurance contributions (where employment is insurable),[5] and Canada Pension Plan contributions (where employment is pensionable)[6] from their employees’ remuneration and remit these amounts to the Receiver General. There is a trust element with respect to these source deductions from an employee’s income, which leads to the respective director’s liability provisions where there has been a failure to deduct and/or remit.
+[7] Subsections 227.1(1) of the Income Tax Act, 83(1) of the Employment Insurance Act, and 21.1(1) of the Canada Pension Plan provide that where the employer is a corporation, its directors at the time of the corporation’s failure to deduct and/or remit are jointly and severally liable for the amounts. The Employment Insurance Act and the Canada Pension Plan then provide that the remainder of the income tax director’s liability provision [i.e. subsections 227.1(2) to (7)] applies with such modifications as the circumstances may require.[7]
+Due diligence
+[8] A director is not liable for the corporation’s failure if he/she/they exercised “the degree of care, diligence and skill to prevent the failure that a reasonable prudent person would have exercised in comparable circumstances.”[8]
+[9] The Federal Court of Appeal’s decision in Buckingham[9] continues to the leading case with respect to the objective standard for due diligence of directors. A director must have turned their attention to the required remittances and show that they exercised their duty of care, diligence, and skill with a goal of preventing the corporation’s failure to remit.[10] The efforts must be aimed at preventing the failure to remit rather than curing the failure after the fact.[11]
+[10] Under the objective standard, the director’s particular circumstances must be considered in the context of the “reasonably prudent person”.[12] The stricter standard discourages the appointment of inactive/outside directors who might tend to rely on active/inside directors to carry out directorial functions.[13]
+Two-year limitation
+[11] Subsection 227.1(4) requires the Minister of National Revenue to assess a director within two years after they last ceased to be a director of the corporation. Where a director has ostensibly resigned, there must be certainty with respect to the effective date.[14] That objective verification requires one to look at the company/corporations legislation for the jurisdiction in question,[15] i.e. the British Columbia Business Corporations Act[16] in the present case.
+[12] The relevant portions of section 128 of the B.C. Business Corporations Act read as follows:
+128 (1) A director ceases to hold office when
+…
+(b) the director dies or resigns, or
+…
+(2) A resignation of a director takes effect on the later of
+(a) the time that the director’s written resignation is provided to the company or to a lawyer for the company, and
+(b) if the written resignation specifies that the resignation is to take effect at a specified date, on a specified date and time or on the occurrence of a specified event,
+(i) if a date is specified, the beginning of the specified date,
+(ii) if a date and time is specified, the date and time specified, or
+(iii) if an event is specified, the occurrence of the event.
+…
+IV. Factual background [13] Brew Street Craft and Kitchen Ltd. was a craft brewery and restaurant incorporated in British Columbia in December 2014. The appellant testified that Brew Street operated as a restaurant during the day and more like a night club in the evening. He stated that he first became aware of Brew Street earlier in 2014 from his neighbor David James, whom he had known since the early 2000s and who ran a successful pub.
+[14] The appellant testified that Mr. James was seeking to expand his successful pub concept and encouraged him to consider investing. The appellant was very interested and met Mr. James’ two partners (Heath Ferguson and Joshua Woodward) who also had successful pub/bar backgrounds. He entered into an investment agreement[17] with them on December 15, 2014 and testified that he contributed $50,000 to become a 10% shareholder in Brew Street. The investment agreement shows that the company’s principals were Messrs. James, Ferguson, and Woodward; the appellant stated that they were the directors at the time as well.
+[15] About two weeks later, the appellant signed a declaration and consent to act as director/officer of Brew Street.[18] The last paragraph of this document says that he consents to do so until such time as his consent is revoked in writing. He stated that he had only wanted to be a shareholder, did not know much about being a director, and did not attend any directors’ meetings in 2015. In cross‑examination, he testified that he believed his signed declaration and consent was never filed but learned during a subsequent legal proceeding that it in fact was.
+[16] The appellant has a Bachelor’s degree in business administration which included an entry‑level corporate law course but no payroll or tax courses. He explained that he had limited payroll experience but worked at a startup company called Instant Financial, where he worked his way up from customer success manager to director of customer success. He stated that Instant Financial administered payroll for various companies so he learned how payroll works.
+[17] He said that since Brew Street’s inception in 2014, it used Ceridian payroll services to pay its employees. He explained that Ceridian would calculate an employee’s net pay, withhold and remit source deductions, and direct‑deposit the net funds to the employee’s account. He stated that for only a couple of payroll periods in 2015 or 2016, Brew Street experimented with using Instant Financial to administer its payroll in conjunction with Ceridian.
+[18] The appellant testified that he became more involved as a director in 2016, when Messrs. Ferguson and Woodward left amid allegations of theft from the company. He stated that at Mr. James’ request in about March 2016, he agreed to act as a temporary director until a long‑term director was identified.
+[19] He stated that he then began taking on more responsibility as director in June 2016 and tried to set up regular directors’ meetings. Ultimately, there were two in‑person meetings — one in January 2017 and the other in October 2017. He testified that Mr. James was frequently unavailable for meetings so they relied on telephone discussions in those instances.
+[20] He recalled loaning about $10,000 to Brew Street in about 2016 or 2017 to cover shortfalls and stated that it was over and above his initial investment.
+[21] In 2017, Brew Street’s directors were the appellant, Mr. James, and an individual named Curtis Moyen. The appellant stated that in 2017, Messrs. James and Moyen held signing authority for Brew Street’s bank account. He testified that he did not know Mr. Moyen until they were both involved with Brew Street. It appears that he was co‑director with Messrs. James and Moyen in two other companies called Craft & Cork Kitchen and Moyastle James Group.[19] In cross‑examination, he stated that he did not recall how long he was director of the latter two companies or when he resigned. He explained that unlike Brew Street, he did not invest any personal funds in Craft & Cork and that Moyastle James was a company which did not lead to anything. The appellant stated that he began taking minutes of their directors’ meetings on his own initiative and did so for the January and October 2017 meetings.[20]
+[22] By January 2017, he was concerned because he was not receiving the financial records he had requested. He also become aware from social media that Mr. James had opened a new bar near Brew Street called Rocky Point Taphouse, which Mr. James acknowledged when the appellant confronted him about it. At around the same time, the appellant became concerned about questionable disbursements by Mr. James which were revealed to be Brew Street funds redirected for use at Mr. James’ new bar.[21]
+[23] By October 2017, the problems at Brew Street were increasing. Two months earlier, a provincial ministry of finance representative contacted the appellant about unremitted provincial sales tax. The appellant also became aware of unremitted GST and both failures were discussed at the October 2017 meeting.[22]
+[24] In his minutes from the October 2017 meeting, he noted (among other things) that: (a) Mr. James’ new bar owed Brew Street $180,000, (b) a plan to pay the unremitted PST and GST which seemed to largely involve Mr. James bringing funds back into Brew Street, and (c) a two‑signatory requirement for cheques to keep better track of expenditures.[23] The appellant stated that when he followed up about the unremitted PST/GST, he was assured by Mr. James that there was a plan in place; he stated that he felt better with this reassurance and took no other steps in this regard.
+[25] About a week after the October 2017 directors’ meeting and unbeknownst to the appellant, Brew Street had fallen behind in paying Ceridian for its payroll services, resulting in their Ceridian account being locked.[24] The appellant was unaware of any problems with payroll but did recall asking Brew Street’s employees if they were being paid, to which they said yes. He stated that he otherwise left payroll in the hands of Mr. James and the controller, and had no reason to believe that remittances were not being made.
+[26] The appellant testified that on November 1, 2017, he exchanged text messages with David James.[25] He stated that Mr. James asked him to inject further funds into Brew Street to cover expenses but he responded that he was uncomfortable doing so in light of the funds which had been redirected to Mr. James’ new bar. In this text exchange, the appellant stated (among other things) that he was “done with it all”, Brew Street should be sold, and the taxes paid. He testified that Mr. James subsequently discussed with him a plan to sell the appellant’s shares to some possible investors.
+[27] An email exchange from June 2018 shows Brew Street’s corporate counsel responding to the appellant’s inquiry about paperwork and in their response, they ask him if he also wishes to resign as director.[26] The email exchange also shows that on June 26, 2018, the corporate counsel gave the appellant advice as to how to word his resignation, agreed to note the resignation on the corporate registers, but advised that nothing would be filed with the Registrar until at least some of their unpaid legal accounts were paid. There is a signed resignation dated June 26, 2018 by the appellant as director and officer of Brew Street and it indicates that his resignation is effective immediately.[27]
+[28] The appellant stated that during the period between the text exchange on November 1, 2017 and the signed resignation on June 26, 2018, he assumed that Mr. James informed Brew Street’s corporate counsel as to his intention to resign and the transfer of his shares. He testified that he first realized no steps had been taken when he followed up with corporate counsel in June 2018.
+[29] He testified that he first learned of Brew Street’s unremitted source deductions when he was contacted by a CRA officer in 2019. He stated that he then followed up with Mr. James and learned that Brew Street had changed payroll systems from Ceridian to one which did not automatically withhold source deductions.
+V. Analysis and discussion Two‑year limitation
+[30] British Columbia law[28] requires that a director’s resignation be written and provided to either the company or the company’s lawyer. Business efficacy requires that third parties be able to rely on available information as to who the directors of a corporation are.[29] For practical reasons, a director’s status must be capable of objective verification such that one need not (and should not) rely on a director’s subjective intent.[30]
+[31] The appellant’s text exchange with Mr. James on November 1, 2017, during which the appellant stated that he was “done with it all”, is indication of his subjective intent. However, the practical challenge with accepting November 2, 2017 as his resignation date (as he asserts it should be) becomes clearer when one considers the factual backdrop. For example, the relationship and trust between the appellant and Mr. James deteriorated gradually so it is not straightforward or obvious which event would equate a resignation. This ambiguity would likely exist in nearly every situation and in turn justifies the need for objective certainty.
+[32] In the present case, it is undisputed that the earliest point at which the appellant provided his written resignation to the company’s lawyer was on June 26, 2018.[31] It was the earliest point at which his resignation complied with the legal requirements for resigning so I find June 26, 2018 to be the date on which he resigned.
+[33] Pleadings filed in all three matters show that the Minister assessed the appellant for the unremitted source deductions on December 11, 2019, which falls within the two‑year limitation set out in subsection 227.1(4) of the Income Tax Act. Therefore, the assessments are valid.
+Due diligence
+[34] The next question is whether — by an objective standard — the appellant as director turned his attention to the required remittances and showed that he exercised his duty of care, diligence, and skill with a goal of preventing Brew Street’s failure to remit.[32] It requires that he demonstrate he was specifically concerned with these remittances, [33] and his efforts must be proactive (to prevent failure) rather than reactive (to remedy failure).[34] The objective standard for due diligence means that the appellant as director is not to be judged based on his own skill set, knowledge, abilities, and capacities.[35] Rather, did he do what a reasonable prudent person would have done in comparable circumstances?[36]
+[35] Based on the evidence, it is clear that the appellant entered the Brew Street venture with positive expectations which were gradually/eventually dashed. His degree is in business administration, he is intelligent, and successfully worked his way up at Instant Financial where he learned how payroll systems work. He also had been a co‑director with Messrs. James and Moyen in two other companies. However, his experience as a director seemed limited to that of an outside director and he seemed to expect a similar arrangement with Brew Street.
+[36] The stricter objective standard discourages the appointment of inactive/outside directors who (for one reason or other) do not discharge their duties and leave decision‑making to the active/inside directors; i.e. a director must actively carry out their duties to be considered duly diligent.[37]
+[37] It is very unfortunate that the appellant’s venture with Brew Street took such a negative turn. It is clear that when he became aware of Brew Street’s money issues, he became more directly involved by trying to obtain financial records plus following up with Mr. James and the controller. From time to time, he also asked the Brew Street staff if they were being paid. He stated that he did so to check whether there were issues with payroll. However, I cannot find that these inquiries were directed at preventing the failure to remit; rather, they were efforts to obtain information with a view to deciding next steps.
+[38] There is no evidence that he was aware of unremitted source deductions or that he turned his mind to preventing such a failure. For example, references to unpaid taxes in his October 16, 2017 meeting minutes[38] and his November 1, 2017 text exchange with Mr. James[39] seem more likely to refer to Brew Street’s own unpaid taxes rather than unremitted source deductions.
+[39] Therefore, I must find that the appellant did not meet the requirements of subsection 227.1(3) of the Act.
+VI. Conclusion [40] The appeals are dismissed with costs to the respondent in the amount of $1,185, representing one set of costs under section 11 of the Tax Court of Canada Rules (Informal Procedure).
+Signed this 1st day of August 2025.
+“Susan Wong”
+Wong J.
+CITATION:
+2025 TCC 105
+COURT FILE NOS.:
+2021-1983(IT)I
+2021-1982(CPP)
+2021-1984(EI)
+STYLE OF CAUSE:
+Kurtis Astle v. His Majesty the King
+PLACE OF HEARINGS:
+Toronto, Ontario
+DATE OF HEARINGS:
+April 15, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+August 1, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Laura Zubot
+Chukwuebuka (Stanley) Ndibe
+Counsel for the Respondent:
+Bryant Godkin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Laura Zubot
+Firm:
+Farber Tax Law
+Toronto, Ontario
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Amended Partial Agreed Statement of Facts, pages 1 and 2
+[2] Buckingham v. The Queen, 2010 TCC 247 at paragraphs 4 to 6, affirmed on other grounds in 2011 FCA 142; Seier v. The Queen, 2010 TCC 495 at paragraph 5
+[3] Amended Partial Agreed Statement of Facts, page 2
+[4] Income Tax Act, subsection 153(1)
+[5] Employment Insurance Act, subsection 82(1)
+[6] Canada Pension Plan, subsection 21(1)
+[7] Employment Insurance Act, subsection 83(2); Canada Pension Plan, subsection 21.1(2)
+[8] Income Tax Act, subsection 227.1(3)
+[9] Buckingham v. Canada, 2011 FCA 142
+[10] Buckingham v. Canada, 2011 FCA 142 at paragraphs 40 and 52
+[11] Buckingham v. Canada, 2011 FCA 142 at paragraph 51
+[12] Buckingham v. Canada, 2011 FCA 142 at paragraph 39
+[13] Buckingham v. Canada, 2011 FCA 142 at paragraph 38
+[14] Cliff v. Canada, 2022 FCA 16 at paragraph 11; Canada v. Chriss, 2016 FCA 236 at paragraph 18
+[15] Canada v. Chriss, 2016 FCA 236 at paragraphs 10 and 14; Hunter v. The Queen, 2018 TCC 108 at paragraph 24
+[16] SBC 2002, chapter 57
+[17] Exhibit A-1, Tab 1
+[18] Exhibit A-1, Tab 2
+[19] Exhibit A-1, Tab 11; Exhibit R-1, Tab 1
+[20] Exhibit A-1, Tabs 3 and 5
+[21] Exhibit A-1, Tab 3
+[22] Exhibit A-1, Tab 5
+[23] Exhibit A-1, Tab 5
+[24] Exhibit R-1, Tab 5, page 66
+[25] Exhibit A-1, Tab 6
+[26] Exhibit A-1, Tab 10
+[27] Exhibit A-1, Tab 11; Exhibit R-1, Tab 1
+[28] Business Corporations Act, SBC 2002, chapter 57, subsection 128(2)
+[29] Canada v. Chriss, 2016 FCA 236 at paragraph 11
+[30] Canada v. Chriss, 2016 FCA 236 at paragraphs 14 and 15
+[31] Exhibit A-1, Tab 11; Exhibit R-1, Tab 1
+[32] Buckingham v. Canada, 2011 FCA 142 at paragraph 40
+[33] Buckingham v. Canada, 2011 FCA 142 at paragraph 52
+[34] Buckingham v. Canada, 2011 FCA 142 at paragraph 51
+[35] Buckingham v. Canada, 2011 FCA 142 at paragraph 38
+[36] Income Tax Act, subsection 227.1(3)
+[37] Buckingham v. Canada, 2011 FCA 142 at paragraph 38; Helgesen v. The Queen, 2016 TCC 114 at paragraph 22, affirmed by Helgesen v. Canada, 2017 FCA 21
+[38] Exhibit A-1, Tab 5
+[39] Exhibit A-1, Tab 6

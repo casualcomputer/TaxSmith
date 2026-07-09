@@ -1,0 +1,189 @@
+---
+title: "Strong v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28389/index.do"
+last_modified: "2004-06-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 297"
+citation2: ""
+neutral_citation: "2004 TCC 297"
+decision_date: "2004-06-01"
+language: "en"
+item_id: "28389"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1908
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:23:27.330000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "23cf5e4bf24724a2494ee9f3393846351fce703310245e8b5ab4e97573218154"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Strong v. The Queen
+
+- Citation: 2004 TCC 297
+- Decision date: 2004-06-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1908, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Strong v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-01
+Neutral citation
+2004 TCC 297
+File numbers
+2003-2843(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2843(IT)I
+BETWEEN:
+MELVIN BRYAN STRONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 19, 2004, at Edmonton, Alberta,
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Cheryl A. Gibson
+Counsel for the Respondent:
+Dawn Taylor
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 1999 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in computing income, the Appellant is entitled to deduct $20,000 as travelling expenses pursuant to paragraph 8(1)(h).
+Signed at Ottawa, Canada, this 1st day of June, 2004.
+"C.H. McArthur"
+McArthur J.
+Citation: 2004TCC297
+Date: 20040601
+Docket: 2003-2843(IT)I
+BETWEEN:
+MELVIN BRYAN STRONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] After dealing with several preliminary matters, the issue boiled down to whether the Appellant can deduct $20,000[1] as an incidental expense incurred for third party meals and beverages and $3,000 for taxi fares. He was a union representative who travelled primarily in North America, over two hundred days in the 1999 taxation year.
+[2] He was paid $217,798 annually which included a $58,000 allowance for expenses. His accountant added this allowance to his employment income because his employer had issued a T4 for it. The Appellant submits that the allowance should be excluded from his income because it fell within subparagraph 6(1)(b)(v) or (vii) of the Income Tax Act being a "reasonable allowance for travel expenses". He argues that the $58,000 allowance was reasonable because he incurred the expenses in the course of his employment for which he was not reimbursed other than the allowance which was intended to cover his out-of-pocket employment expenses. Alternatively, he submits that the expenses are deductible pursuant to paragraph 8(1)(h) of the Act.
+[3] The Respondent submits that the allowance received from the Appellant's employer is not excluded from his income under subparagraphs 6(1)(b)(v) or (vii) of the Act, and therefore, should be included in the Appellant's income. The Respondent adds that the Appellant is not entitled to deduct expenses for meals, lodging, airport tax and taxi expenses, entertainment expenses, convention expenses and office expenses in excess of the amounts allowed pursuant to paragraphs 8(1)(h), (h.1), (i) and (j) and subsections 8(4) and (13) of the Act.
+[4] In the alternative, the Respondent adds that as the Appellant is not remunerated in whole or in part by commissions or other similar amounts fixed by reference to the volume of the sales made or the contracts negotiated, the Appellant is not entitled to claim expenses pursuant to paragraph 8(1)(f).
+[5] The following assumptions of fact are accurate:
+18. In so reassessing the Appellant for the 1999 taxation year, the Minister made the following assumptions of fact:
+(a) during the 1999 taxation year the Appellant was employed by the United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry USA and Canada (the "Employer");
+(b) the Employer paid the Appellant a weekly allowance of $750 per week for a yearly total of $39,000 (the "Allowance")(US funds) (C$58,000) ;
+(c) the Allowance was included in the Appellant's employment income on his T4 slip;
+(d) the Allowance was paid to cover all hotels, meals, surface, transportation, entertainment, auto and other expenses;
+(e) during the 1999 taxation year the Appellant's employment income with the Employer was C$217,798.83 (which included the Allowance);
+(f) the Employer's place of business was North America;
+(g) the Appellant was ordinarily required to carry on the duties of employment away from the Employer's place of business or in different places;
+(h) under the contract of employment the Appellant was required to pay his own expenses;
+(i) …
+(j) the Appellant was required to:
+(i) rent an office away from the Employer's place of business or use a portion of his home;
+(ii) pay for a substitute or assistant; and
+(iii) pay for supplies that the Appellant used directly in his work;
+The Appellant conceded issues dealing with his automobiles.
+[6] Immediately prior to trial, I granted leave to counsel for the Appellant to amend the Notice of Appeal. For the most part, the amendment provided for the inclusion of subparagraph 6(1)(b)(v) and (vii) of the Income Tax Act to permit her to argue that an allowance paid to the Appellant was reasonable and should not have been included in his income. The Respondent was made aware of the amended Notice of Appeal on the Friday previous to the Monday hearing date.
+[7] Because subsection 5(1) of the Informal Rules does not specifically address amended Replies, I refer to sections 54 and 57 of the General Procedure Rules. Section 54 reads:
+54 A pleading may be amended by the party filing it, at any time before the close of pleadings, and thereafter either on filing the consent of all other parties, or with leave of the Court, and the Court in granting leave may impose such terms as are just.
+The guiding case on allowing an amended Reply is The Queen v. Canderel Limited[2] where Décary J.A. states at page 5360:
+... the general rule is that an amendment should be allowed at any stage of an action for the purpose of determining the real questions in controversy between the parties, provided, notably, that the allowance would not result in an injustice to the other party not capable of being compensated by an award of costs and that it would serve the interests of justice.
+[8] There is no injustice or prejudice to the Respondent. It is in the interest of justice to determine the essential questions in controversy. The Appellant's main argument is that the allowance should be excluded from his income pursuant to either subparagraph 6(1)(b)(v) or (vii) of the Act. He alternatively argued that his incidental expenses are deductible under paragraph 8(1)(h) of the Act.
+[9] The amendment to the Notice of Appeal was allowed.
+[10] The relevant legislation reads:
+6(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+(a) ...
+(b) all amounts received by the taxpayer in the year as an allowance for personal or living expenses or as an allowance for any other purpose, except
+and, for the purposes of subparagraphs (v), (vi) and (vii.1), an allowance received in a taxation year by a taxpayer for the use of a motor vehicle in connection with or in the course of the taxpayer's office or employment shall be deemed not to be a reasonable allowance
+(v) reasonable allowances for travel expenses received by an employee from the employee's employer in respect of a period when the employee was employed in connection with the selling of property or negotiating of contracts for the employee's employer,
+...
+(vii) reasonable allowances for travel expenses (other than allowances for the use of a motor vehicle) received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling away from
+…
+(x) where the measurement of the use of the vehicle for the purpose of the allowance is not based solely on the number of kilometres for which the vehicle is used in connection with or in the course of the office or employment, or
+Subsection 8(1)(h) provides in part:
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(h) Where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+amounts expended by the taxpayer in the year (other than motor vehicle expenses) for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for travel expenses that was, because of subparagraph 6(1)(b)(v), (vi) or (vii), not included in computing the taxpayer's income for the year, ...
+A general limitation in subsection 8(2) reads:
+8(2) Except as permitted by this section, no deductions shall be made in computing a taxpayer's income for a taxation year from an office or employment.
+[11] If the $58,000 allowance was a "reasonable" amount pursuant to paragraph 6(1)(b) to reimburse the Appellant for his out-of-pocket business expenses in 1999, then it is not included in his 1999 taxable income. This is the finding the Appellant seeks. For reasons that follow, I conclude that it is not a "reasonable" amount within the meaning of paragraph 6(1)(b) and that the Minister properly included it in the Appellant's taxable income. The Appellant's counsel then turns to her alternative argument and asks for a finding that the Appellant be entitled to claim a deduction for some of his expenses pursuant to paragraph 8(1)(h) which I shall deal with later.
+[12] Subparagraphs 6(1)(b)(v) and (vii) provide that allowances are to be included in income unless they are "reasonable allowances" received by the employee for travel expenses in connection with the selling of property or negotiating of contracts for the employer. The Appellant established that he was negotiating contracts for his employer so the criteria is met.
+[13] As noted by the Respondent, subparagraph 6(1)(b)(x) states that an allowance for a motor vehicle is unreasonable if it is 'not based solely on the number of kilometres for which the vehicle is used ...'. The Appellant's allowance was paid by the Appellant's employer to cover all hotels, meals, surface transportation, entertainment, automobile and other expenses. The Appellant's allowance was not divided into amounts specific for hotels, meals, surface transportation, entertainment and other expenses and an amount for the vehicle. The Appellant's automobile allowance was not based solely on the number of kilometres for which the vehicle was used. The allowance the Appellant received included automobile expenses lumped together with hotels, meals, surface transportation, entertainment and other expenses. It is unfortunate that his automobile portion was not based solely on the number of kilometres the vehicle was used for his employment. Subparagraph 6(1)(b)(x) reads:
+(x) where the measurement of the use of the vehicle for the purpose of the allowance is not based solely on the number of kilometres for which the vehicle is used in connection with or in the course of the office or employment, or
+Subparagraph 6(1)(b)(x) clearly deems his allowance not to be reasonable. I do not believe the Appellant's counsel seriously contested this conclusion in that she did not rebut the Respondent's counsel's "unreasonable" argument. The intention behind section 6 is to prevent excessive allowances that might amount to a tax-free and expense-free allowance.
+[14] I will now deal with the Appellant's argument to the effect that the expenses claimed can be deducted under paragraph 8(1)(h). To deduct expenses under this section, the Appellant must meet certain criteria.
+[15] I find that the Appellant meets this criteria. He was ordinarily required to carry on the duties of employment in different places (subparagraph 8(1)(h)(i)) and he was required to pay travel expenses he incurred in the performance of his duties (subparagraph 8(1)(h)(ii)). He is not precluded from claiming these expenses in subparagraph 8(1)(h)(iii) because he received travel allowance that was included in his income. I find the "travel expenses" referred to in paragraph 8(1)(h) do not include "entertainment expenses" which are referred to in paragraph 8(1)(f). Paragraph 8(1)(h) is different from paragraph 8(1)(f) and is to be applied in isolation.
+[16] There is some ambiguity as to whether paragraph 8(1)(h) includes incidental treavelling expenses. Johns‑Manville Canada Inc. v. The Queen,[3] assists in resolving the ambiguity in favour of the Appellant. The following conclusion of Estey J. of the Supreme Court of Canada, writing for the majority, applies equally to the present case:
+… the appropriate taxation treatment is to allocate these expenditures to the revenue account and not to capital. Such a determination is, furthermore, consistent with another basic concept in tax law that where the taxing statute is not explicit, reasonable uncertainty or factual, ambiguity resulting from lack of explicitness in the statute should be resolved in favour of the taxpayer. This residual principle must be the more readily applicable in this appeal where otherwise, annually recurring expenditures completely connected to the daily business operation of the taxpayer, afford the taxpayer no credit against tax either by way of capital cost or depletion allowance with reference to a capital expenditure, or an expense deduction against revenue.
+There is nothing in the wording of paragraph 8(1)(h) that suggests that only the expenses that relate personally to the taxpayer should be allowed and the incidental expenses should not. The incidental expense in question is the $20,000 for meals and beverages for others.
+[17] There is no question that he travelled extensively throughout North America and Bermuda in 1999. He was away more than he was home. His work included negotiating union contracts which required paying for the meals and drinks for his guests. Having found that the allowance was unreasonable, his only hope for deduction is pursuant to paragraph 8(1)(h) of the Act.
+[18] I agree with Appellant's counsel in quoting Johns-Manville to the effect that where there is ambiguity as to what is included in travelling expenses, it should be resolved in favour of the taxpayer. Paragraph 8(1)(h) is to be interpreted on its own if it is not ambiguous. There is nothing in the section that would lead to a conclusion that travel expenses, in the course of employment, does not include paying meals and beverages for business associates while away from home. These are business expenses for which his employer gave an allowance. He has to include that allowance in his income and it is common sense that he should have an offsetting deduction.
+[19] The Minister questioned the quantum of these expenses in general terms. The Appellant provided a list of incidental expenses in Exhibit A-6 and the last column, totalled approximately $40,000, of which $20,000 is claimed after applying section 67.1 which reduces the cost of food and beverages by 50%. While this seems like a lot to spend on food and beverages, I accept the Appellant's evidence that this is how he conducted business. In other terms, he travelled on business over 200 days a year and the $20,000[4] represents about $100 per day. Surely the words "travel expenses" are broad enough in the context of paragraph 8(1)(h) to include the incidental amounts claimed. I accept that the third person food and beverage expense does not come under "entertainment" which is partly defined in paragraph 67.1(4)(b) as amusement and recreation. Entertainment is more in the category of tickets to a sporting or cultural event, a fishing trip or a cruise. The incidental to travel the Appellant is claiming has a more direct connection to his office or employment. He had business gatherings over a meal and picks up the bill as he would be expected to.
+[20] The remaining matter is the Appellant's claim for approximately $3,000 in taxi fares primarily while he and his wife attended a conference in Bermuda and extended their stay for a week for personal reasons. The evidence is unclear. I accept the Respondent's position that the taxi expense be disallowed because there is no way to determine whether he incurred these expenses while on business or vacation. He spent two weeks with his wife in Bermuda.
+[21] In conclusion, the appeal is allowed, with costs, only to permit the Appellant to deduct $20,000 in travel expenses for the 1999 taxation year pursuant to paragraph 8(1)(h) of the Act.
+Signed at Ottawa, Canada, this 1st day of June, 2004.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2004TCC297
+COURT FILE NO.:
+2003-2843(IT)I
+STYLE OF CAUSE:
+Melvin Bryan Strong and Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+January 19, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+June 1, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Cheryl A. Gibson
+Counsel for the Respondent:
+Dawn Taylor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Cheryl A. Gibson
+Firm:
+Fraser Milner Casgrain
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This is a rounded amount used by the Appellant.
+[2] 93 DTC 5357.
+[3] 85 DTC 5373 (SCC).
+[4] After applying section 67.1.

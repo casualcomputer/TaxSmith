@@ -1,0 +1,119 @@
+Title: James Wootton
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27983/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-545-27983-james-wootton-en.md
+Document type: case_law
+Last modified: 2007-09-13
+
+# James Wootton
+
+- Citation: 2007 TCC 545
+- Decision date: 2007-09-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1765, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+James Wootton
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-13
+Neutral citation
+2007 TCC 545
+File numbers
+2007-890(GST)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-890(GST)I
+BETWEEN:
+JAMES WOOTTON and ANN WOOTTON,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 30, 2007 at Halifax, Nova Scotia.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+James A. Wootton
+Counsel for the Respondent:
+Devon Peavoy
+JUDGMENT
+The appeal from the Notice of Assessment No. 01CB0103751 dated June 12, 2006 is allowed in full and this assessment is vacated with costs.
+Signed at Toronto, Ontario, this 13th day of September 2007.
+“Wyman W. Webb”
+Webb J.
+Citation: 2007TCC545
+Date: 20070913
+Docket: 2007-890(GST)I
+BETWEEN:
+JAMES WOOTTON and ANN WOOTTON,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this case is whether the Appellants should have charged HST in relation to certain services that they provided during the period of January 1, 2004 to December 31, 2005 or whether such services were exempt supplies of child care services under paragraph 1 of Part IV of Schedule V to the Excise Tax Act (“Act”).
+[2] The Appellants operated a recreational farm known as “Boulderwood Stables” during the period under appeal.
+[3] The Appellants offered various services including horseback riding, business parties and catered parties, trail rides, horse arena rentals, pool facilities, and sales of various items such as pop, juice, water and t-shirts. The issue in this case relates to a day camp program that was offered by the Appellants.
+[4] The day camp program was offered to school age children which would include children who are over 14 years of age as well as those 14 years of age and under. However, the Appellants treated supplies of the day camp program differently depending on the age of the participant and whether the participant was left in their care. If a child was over 14 years of age, HST was charged in relation to the amount paid for the day camp program. If a child was 14 years of age or under, and the parents or whoever was dropping the child off left the child for the day, then HST was not charged. If the parent or other person dropping the child off remained with the child during the day, then HST was charged.
+[5] The day camp program started around 9:00 a.m. although some parents, because they had to get to work, would drop the child off earlier. The scheduled completion time was 4:00 p.m. but in some cases parents would pick their child up later because of their work schedule. As part of the day camp program, the children were involved in various activities related to the horses. They would help to bring the horses in from the field, check the horses over, brush them down and be involved in other activities related to the care of the horses. They would participate in a trail ride in the morning and a trail ride in the afternoon. Each trail ride would last for approximately one hour. They would also receive some instructions and lessons in relation to the horses. They would have a lunch break where the children would eat the lunch that they brought with them. If a child lost his or her lunch, then lunch would be provided to that child. The children would also have time when they could swim in the pool that was available on the property.
+[6] The issue in this case is whether the day camp services on which no HST was charged were exempt supplies under the Act. Paragraph 1 of Part IV of Schedule V of the Act provides that the following services are exempt supplies for the purposes of the Act:
+1. A supply of child care services, the primary purpose of which is to provide care and supervision to children 14 years of age or under for periods normally less than 24 hours per day, but not including a supply of a service of supervising an unaccompanied child made by a person in connection with a taxable supply by that person of a passenger transportation service.
+[7] Therefore, the first issue to be determined is whether these services that were being provided were child care services. Child care service is not defined in the Act. However, this expression also appears in the Income Tax Act. In Bailey v. The Queen, 2005 TCC 305, 2005 DTC 673, [2005] 3 C.T.C. 2170, Justice Rip (as he then was) made the following comments in relation to child care expenses under the Income Tax Act:
+7 Subsection 63(3) of the Income Tax Act provides the following definition of "child care expense":
+"child care expense" means an expense incurred in a taxation year for the purpose of providing in Canada, for an eligible child of the taxpayer, child care services including baby sitting services, day nursery services or services provided at a boarding school or camp if the services were provided
+(a) to enable the taxpayer, or the supporting person of the child for the year, who resided with the child at the time the expense was incurred,
+(i) to perform the duties of an office or employment,
+. . .
+except that
+. . .
+(d) for greater certainty, any expenses described in subsection 118.2(2) and any other expenses that are paid for medical or hospital care, clothing, transportation or education or for board and lodging, except as otherwise expressly provided in this definition, are not child care expenses;
+8 To determine what is meant by a child care expense it is helpful to consider the definition of the word "care". The Canadian Oxford English Dictionary defines care as "the process of looking after or providing for someone or something; the provision of what is needed for health or protection".
+9 The French version confirms the importance of protecting the child as the phrase for child care expenses is « frais de garde d'enfants » which literally means costs of minding the children.
+[8] In Jones v. The Queen, 2006 TCC 501, 2006 DTC 3531, [2007] 1 C.T.C. 2137, Justice Woods made the following comments:
+14 In many of these cases, it was not clear from the evidence that the recreational activity was really required to enable the parents to work. But the courts also noted that recreational activities such as piano lessons and gym classes generally lack an essential characteristic of child care, which is to "watch over" or "protect" the child.
+15 To determine whether an activity is a "child care service" in a particular case, I agree with the test recently described by Rip J. in Bailey v. R., 2005 D.T.C. 673 (Eng.). The essential question is what is the primary reason for enrolling the child in the activity.
+[9] In Bell v. The Queen, [2001] 1 C.T.C. 2308, Justice Campbell quoted from a decision of Justice Archambault in Levine as follows:
+11 Both the appellant and respondent submitted the case of Levine v. R. (1995), [1996] 2 C.T.C. 2147 (T.C.C.) to support their respective positions. At page 2151 of that decision Justice Archambault of this court stated, and I quote:
+These expenses were not incurred for the purpose of watching over the children to protect them, and therefore enable the parents to earn income from employment. They were incurred to develop the physical, social and artistic abilities of the children. These expenses would have been incurred whether or not the parents were working... The fact that these activities were for a limited period of time, one hour to one-and-a-half hours per week, sometimes just for a few weeks, also supports this conclusion. Attending a one-hour lesson can hardly be considered an effective way of watching over the children to protect them. It is, however, a very effective means of teaching children new physical and artistic abilities.
+[10] Justice Campbell then concluded that:
+16 I agree with the Keefer decision wherein it was stated that expenses, to be deductible child care expenses must relate to the overwhelming component of guardianship, protection and child care. Recreational activities were never intended to be included as such an expense by Parliament, as these recreational activities do not have as their aim, providing care for the children. I believe that if one were to ask a volunteer hockey coach of young children if his primary duty was to be guardian or caregiver of these children, I do not believe his or her response would be in the affirmative. The protection and care giving are certainly a part of this activity but it is only secondary and incidental to the primary function that a hockey coach would view himself as having and that is to teach the basic skills of playing hockey.
+[11] A distinguishing feature in this case is that the Appellants had the responsibility of looking after the children for at least seven hours. While the program was scheduled to run from 9:00 a.m. until 4:00 p.m., the evidence was that parents would drop off the children on their way to work before 9:00 a.m. and may not always be able to pick the children up by 4:00 p.m. The only day camp services for which no HST was charged were those where the parent (or whoever drove the children to the Appellants’ premises) would leave the children in the Appellants’ care. Since the Appellants had the children for this period of time without the parents being present, the Appellants must have been responsible for the protection and care of the children during this time. This is too long of a period of time for the children to be in the Appellants’ care and custody and not to conclude that the overwhelming component of this program was the guardianship, protection and care of the children during this period of time.
+[12] The fact that the Appellants had activities for the children to participate in is only reasonable and to be expected since they had the children for such a long period of time. Any supply related to the activities for the children, including the supply of horseback rides, would be part of the supply of child care services, as provided in section 138 of the Act, as they were supplied for a single consideration and were incidental to the supply of child care services. Anyone who has the care and custody of children who are 14 years of age or under for seven hours would be expected to have activities planned for the children and it would be unreasonable to suggest that this paragraph of Part IV of Schedule V to the Act only applies in situations where the only service provided is care and custody and no activities are planned for the children. That could not have been the intention of Parliament. As well, it should be noted that the technical notes issued in May 1990 in relation to paragraph 1 of Part IV of Schedule V provide as follows:
+This section exempts daycare services provided primarily to children 14 years of age and under. This exemption covers day camps and other daycare services for children which are eligible for the childcare expense tax deduction of the Income Tax Act.
+[13] Therefore it was clearly contemplated that day camps would be included in this section. In Silicon Graphics Ltd. v. The Queen, 2002 FCA 260, 2002 DTC 7112, [2002] 3 C.T.C. 527, the Federal Court of Appeal made the following comments on the use of technical notes:
+50 Of course, Technical Notes are not binding on the courts, but they are entitled to consideration. See Ast Estate v. R., [1997] F.C.J. No. 267 (Fed. C.A.), para. 27:
+Administrative interpretations such as technical notes are not binding on the courts, but they are entitled to weight, and may constitute an important factor in the interpretation of statutes. Technical Notes are widely accepted by the courts as aids to statutory interpretation. The interpretive weight of technical notes is particularly great where, at the time an amendment was before it, the legislature was aware of a particular administrative interpretation of the amendment, and nonetheless enacted it.
+[14] Counsel for the Respondent had submitted that the Canada Revenue Agency (“CRA”) no longer relies on this technical note. However, since the technical note was released when the legislation was introduced and since the legislation has not been amended in relation to this aspect of the paragraph, it is not clear how the CRA could change what was in the technical note which was intended to reflect the intention of Parliament in drafting this section. It is Parliament’s intention in enacting this paragraph of Part IV of Schedule V to the Act that must be interpreted not the intention of the CRA.
+[15] Since, as noted above, the only supplies in issue are supplies of day camp services on which the Appellants did not charge HST and hence were supplies of the day camp services to children 14 years of age and under who were left unsupervised with the Appellants, clearly in relation to these supplies the primary purpose was to provide care and supervision to children 14 years of age and under. As well, since the day camp lasted from approximately 9:00 a.m. until approximately 4:00 p.m., the periods were normally less than 24 hours per day and therefore the day camp services on which no HST was charged satisfied the requirements under paragraph 1 of Part IV of Schedule V of the Act and since these were exempt supplies, HST should not have been charged in relation to these supplies.
+[16] As a result, the appeal is allowed, with costs, and the assessment of HST in relation to the day camp services provided by the Appellants on which the Appellants had not charged HST is vacated.
+Signed at Toronto, Ontario, this 13th day of September 2007.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2007TCC545
+COURT FILE NO.: 2007-890(GST)I
+STYLE OF CAUSE: JAMES WOOTTON, ANN WOOTTON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: August 30, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: September 13, 2007
+APPEARANCES:
+Agent for the Appellant:
+James A. Wootton
+Counsel for the Respondent:
+Devon Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

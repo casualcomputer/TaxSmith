@@ -1,0 +1,140 @@
+Title: Marples c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/232841/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-129-232841-marples-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-07-06
+
+# Marples c. La Reine
+
+- Citation: 2017 CCI 129
+- Decision date: 2017-07-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2104, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marples c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-07-06
+Référence neutre
+2017 CCI 129
+Numéro de dossier
+2016-4526(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-4526(IT)G
+ENTRE :
+SIMON MARPLES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue et décision rendue le 22 juin 2017
+à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Geraldine Chen
+ORDONNANCE
+Vu la requête présentée par l’appelant en vue de l’obtention d’une ordonnance, au titre du paragraphe 58(1) des Règles de la Cour canadienne de l’impôt (procédure générale);
+Vu les observations formulées par l’intimée en réponse à la requête de l’appelant;
+Et après avoir entendu les parties;
+Pour les motifs ci-joints, prononcés oralement à l’audience, la Cour rejette la requête. L’appelant doit payer des dépens de 1 650 $ à l’intimée dans les 60 jours suivant la date de la présente ordonnance.
+Signé à Toronto (Ontario), ce 6e jour de juillet 2017.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 2e jour d’août 2018.
+Elisabeth Ross, jurilinguiste
+Dossier : 2016-4526(IT)G
+ENTRE :
+SIMON MARPLES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+VERSION RÉVISÉE DE LA TRANSCRIPTION DES MOTIFS DE L’ORDONNANCE PRONONCÉS ORALEMENT
+Je requiers que soit déposée la transcription révisée ci-jointe des motifs de l’ordonnance prononcés oralement à l’audience, le 22 juin 2017, à Vancouver, en Colombie‑Britannique. J’ai révisé la transcription (certifiée par le sténographe judiciaire) sur le plan du style et de la clarté, et pour y apporter des corrections mineures seulement. Je n’y ai fait aucune modification quant au fond.
+Signé à Toronto (Ontario), ce 6e jour de juillet 2017.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 2e jour d’août 2018.
+Elisabeth Ross, jurilinguiste
+Référence : 2017 CCI 129
+Date : 20170706
+Dossier : 2016-4526(IT)G
+ENTRE :
+SIMON MARPLES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+(Requête entendue et décision rendue oralement à l’audience,
+le 22 juin 2017, à Vancouver (Colombie‑Britannique).)
+Le juge Boyle
+[1] Voici ma décision sur la requête présentée ce matin par l’appelant. L’appelant a présenté en vertu de l’article 58 une requête dans laquelle il demande à la Cour de trancher les deux questions suivantes :
+[traduction]
+a) Est-ce qu’il y a lieu de faire une distinction entre le terme « Social Insurance Number », figurant [dans la version anglaise du] par. 237(1) de la Loi de l’impôt sur le revenu (la « LIR ») et écrit en lettres majuscules et minuscules, et le terme « social insurance number », écrit en lettres minuscules seulement, qui figure dans [la version anglaise d’un] certain nombre de formulaires de l’Agence du revenu du Canada (l’« ARC »)? Plus précisément, est-ce que le « Social Insurance Number » est attribué exclusivement à un « représentant légal » au sens du par. 248(1) de la LIR et le « social insurance number » au titulaire d’une « charge » au sens du par. 248(1) de la LIR et du par. 2(1) du Régime de pensions du Canada?
+b) Dans l’affirmative, quel formulaire de l’ARC l’appelant devrait-il utiliser pour déclarer le revenu tiré en sa qualité de « représentant légal » auquel est attribué un « Social Insurance Number » écrit en anglais en lettres majuscules et minuscules?
+[2] Il ressort clairement du dossier de la requête que ces questions se rapportent directement à celle de savoir si l’appelant a fait preuve de diligence raisonnable dans le contexte de la pénalité pour faute lourde qui lui a été imposée. Cette pénalité est l’un des deux points en litige énoncés dans l’avis d’appel modifié que la Cour est appelée à trancher.
+[3] L’avis d’appel modifié indique que l’appelant ne conteste plus la nouvelle cotisation établie à l’égard d’un revenu de commissions non déclaré provenant de la vente d’assurances, s’élevant à environ 1 000 000 $, tiré de son entreprise CanTrust Financial Services Inc. au cours des quatre années d’imposition en cause. Voir le paragraphe 17. Il a toutefois inclus son revenu de commissions tiré de l’entreprise AC&D Insurance.
+[4] En plus de la question relative à la pénalité, l’appelant demande dans son avis d’appel modifié la déduction de dépenses d’environ 100 000 $ faites en vue de tirer un revenu de la vente d’assurances.
+[5] La question de savoir si M. Marples a fait preuve de la diligence raisonnable nécessaire pour se disculper, conformément aux exigences établies dans la disposition prévoyant la pénalité, est largement tributaire des circonstances et des faits propres à l’affaire. L’issue dépendra, entre autres, de la crédibilité de l’appelant lorsqu’il tentera de convaincre la Cour qu’il était raisonnable d’omettre de déclarer son revenu au motif que la Loi de l’impôt sur le revenu et des formulaires de l’Agence du revenu du Canada dans leurs versions anglaises divergeaient quant à l’orthographe du terme « Social Insurance Number », l’écrivant parfois avec et parfois sans majuscules, et que l’acronyme « SIN » était parfois utilisé sans être bien défini.
+[6] La Cour pourrait être appelée à déterminer si cette confusion a raisonnablement amené l’appelant à penser qu’il devrait qualifier son revenu de commissions provenant de la vente d’assurances comme des « fonds publics » au sens de la Loi sur la gestion des finances publiques et que ce revenu n’avait pas, pour cette raison, à être inscrit dans sa déclaration de revenus.
+[7] Répondre aux deux questions posées par l’appelant ne réglera pas l’appel. Il resterait à trancher la question de fond relative aux dépenses que l’appelant cherche à déduire de son revenu non déclaré. En outre, si la déduction de certaines dépenses était permise, le montant de la pénalité serait modifié.
+[8] L’objet des deux questions de l’appelant pourrait sans doute satisfaire aux exigences de l’article 58 des Règles, qui confère au juge le pouvoir de rendre une ordonnance pour trancher une ou plusieurs questions. Cependant, je suis d’avis que, lorsque le litige porte sur des questions de fait et sur le caractère raisonnable des actes du contribuable, comme en l’espèce, et qu’on peut s’attendre à ce que des questions de crédibilité soient soulevées, il est préférable de laisser au juge du procès le soin de trancher les questions à la lumière des circonstances particulières.
+[9] Je ne crois pas qu’il soit possible pour le juge saisi d’une requête de trancher convenablement ces questions de manière à réduire le temps nécessaire pour entendre et trancher la requête ainsi que le reste de l’appel.
+[10] En outre, puisque le contribuable convient que les premières réponses à ses questions étaient erronées, celles-ci ne sont plus en litige et la Cour n’a pas à les trancher pour régler l’appel.
+[11] La requête de l’appelant est par conséquent rejetée. Les dépens pour la préparation et l’audition de la requête sont fixés à 1 650 $, à savoir le montant prévu dans le tarif de la Cour, et doivent être payés à l’intimée dans un délai de 60 jours.
+[12] Merci beaucoup M. Marples et Me Chen. L’audience est levée.
+Signé à Toronto (Ontario), ce 6e jour de juillet 2017.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 2e jour d’août 2018.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2017 CCI 129
+No DU DOSSIER DE LA COUR :
+2016-4526(IT)G
+INTITULÉ :
+SIMON MARPLES c. LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 22 juin 2017
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE :
+Le 6 juillet 2017
+COMPARUTIONS :
+[EN BLANC]
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Geraldine Chen
+AVOCATS INSCRITS AU DOSSIER :
+[EN BLANC]
+Pour l’appelant :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

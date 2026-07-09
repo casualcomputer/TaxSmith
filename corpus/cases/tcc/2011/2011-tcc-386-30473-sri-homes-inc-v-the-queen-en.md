@@ -1,0 +1,220 @@
+---
+title: "SRI Homes Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30473/index.do"
+last_modified: "2011-08-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 386"
+citation2: ""
+neutral_citation: "2011 TCC 386"
+decision_date: "2011-08-18"
+language: "en"
+item_id: "30473"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7269
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:23:45.506000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8d4031973a00bbc317e299da451d564dbd66e7baf991dd0d2bc3cb288237a9aa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# SRI Homes Inc. v. The Queen
+
+- Citation: 2011 TCC 386
+- Decision date: 2011-08-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7269, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+SRI Homes Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-08-18
+Neutral citation
+2011 TCC 386
+File numbers
+2007-4061(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4061(IT)G
+BETWEEN:
+SRI HOMES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 28, 2011, at Kelowna, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Kenneth Ihas
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000 and 2001 taxation years are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 18th day of August 2011.
+“L.M. Little”
+Little J.
+Citation: 2011 TCC 386
+Date: August 18, 2011
+Docket: 2007-4061(IT)G
+BETWEEN:
+SRI HOMES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] SRI Homes Inc. (“SRI”) is a company incorporated under the laws of the Province of Alberta, with its head office located in Edmonton, Alberta.
+[2] SRI is in the business of producing and selling manufactured homes.
+[3] Prior to May 1, 2001, Norterra Inc. (“Norterra”) owned 100 per cent of the issued and outstanding shares of SRI.
+[4] Effective May 1, 2001, R&M Frontier Holdings Corporation (“R&M”) purchased 100 per cent of the shares of SRI from Norterra.
+[5] The purchase of the shares of SRI by R&M triggered a deemed year-end for SRI of April 30, 2001.
+[6] Prior to the purchase of the shares of SRI by R&M, SRI owned 50 per cent of the common shares of Valley Vista Seniors Park Inc. (“Valley Vista”) and 33 per cent of the common shares of Lakeside Pines Development Inc. (“Lakeside Pines”).
+[7] SRI advanced money to Valley Vista and Lakeside Pines to finance their general business operations, i.e., to pay for capital and current expenses (the “Shareholder Loans”).
+[8] The Shareholder Loans were interest-bearing and SRI reported the accrued interest.
+[9] Effective April 30, 2001, SRI sold certain assets (the “Assets”) including the Valley Vista shares and the Lakeside Pines shares and the Shareholder Loans to 3556514 Canada Inc. (“3556514”). 3556514 is a corporation in the Norterra Group of companies.
+[10] At all material times, Norterra controlled 3556514.
+[11] At the time of the Assets sale referred to in paragraph [9] above, SRI and 3556514 were related companies.
+[12] The total purchase price paid for the Assets was $4,430,366.
+[13] SRI paid $4,430,366 for the Assets and allocated proceeds of disposition to the Shareholder Loans of $1,332,796.
+[14] The Minister of National Revenue (the “Minister”) maintained that the fair market value of the Shareholder Loans was $1,744,626.
+[15] The Minister also maintained that SRI made no attempt to collect on the Shareholder Loans and took no legal action to collect the said loans.
+[16] The Minister maintained that the principal and accrued interest on the Shareholder Loans were fully collectable at the time of the disposition to 3556514.
+[17] The Minister maintained that SRI expected the Shareholder Loans to be fully repaid.
+[18] The Minister maintained that no Section 22 Election was executed by SRI or 3556514 with respect to the sale of the Shareholder Loans by SRI to 3556514.
+[19] The Minister maintained that SRI reported a portion of the amount owing on the Shareholder Loans as interest income on its tax returns.
+[20] The Minister maintained that the interest was expensed by Valley Vista and Lakeside Pines.
+[21] The Minister maintained that SRI did not forgive any portion of the Shareholder Loans owed by Valley Vista and Lakeside Pines.
+[22] The Minister maintained that, after the sale of the Assets, Valley Vista and Lakeside Pines owed 3556514 both the principal and accrued interest outstanding on the Shareholder Loans.
+[23] The Minister maintained that the fair market value of the Shareholder Loans on April 30, 2001 included both the principal and the interest thereon.
+[24] The Minister maintained that there was no income loss or capital loss on the disposition of the Shareholder Loans to 3556514.
+[25] The Minister maintained that there was no income loss or capital loss on the disposition of the shares of Valley Vista and the shares of Lakeside Pines to 3556514.
+[26] The Minister maintained that the receivable on the Shareholder Loans was a shareholder loan and not a trade receivable.
+[27] The Minister maintained that SRI is not in the business of lending money.
+[28] The Minister maintained that Valley Vista repaid its Shareholder Loans to 3556514 in full on October 21, 2002.
+[29] The Minister maintained that the allocation of the proceeds of disposition for the remaining assets, excluding the Shareholder Loans, was reasonable.
+[30] The Minister maintained that the proceeds of disposition allocated for the remaining assets, excluding the Shareholder Loans, was equal to their fair market value.
+[31] The Minister maintained that, in its April 30, 2001 tax return, SRI expensed the negative retained earnings of its investment in Valley Vista and Lakeside Pines (i.e., its portion of those companies’ cumulative equity losses) in the amount of $411,830.
+[32] The Minister maintained that SRI had a non-capital loss of $605,527 for its taxation year ending April 30, 2001.
+B. ISSUES
+[33] The issues are whether, for its taxation year ending April 30, 2001, SRI:
+a) is entitled to expense the negative retained earnings of its investment in Valley Vista and Lakeside Pines (i.e., its portion of those companies’ cumulative equity losses) in the amount of $411,830; and
+b) had an additional non-capital loss of $411,830 available for carry back to its taxation year ending December 31, 2000.
+C. ANALYSIS AND DECISION
+[34] In his opening remarks, Counsel for the Appellant said:
+MR. IHAS: … Just by way of background, the evidence will show -- and this is brief background, Justice, obviously the evidence will tell this, but in or about May, 2001 there was a transaction between a company by the name of R&M Frontier Holdings Corporation whereby it purchased the shares of the appellant, SRI Homes, from NorTerra Inc. As part of that transaction, certain assets -- and these were related to manufactured home parks, were transferred from SRI to a numbered company, that's 3556514 Canada [Inc.], immediately prior to the transfer of the shares. So these were assets to be excluded part and parcel with the share transaction.
+The primary issues on the appeal will be whether the disposition of these receivables by the taxpayer was at fair market value, and whether the losses suffered upon the disposition were capital or non-capital. Of course, if they're in the latter, the deduction is allowed, and I know my learned friend will argue that if they're in the former, the deduction is not allowed.
+(Transcript, page 3, line 22 to page 4, line 15)
+[35] In his opening remarks, Counsel for the Minister said:
+MR. SENKPIEL: Your Honour, it's the respondent's position that this isn't a case about valuation at all. This is a case about a company that had some assets that were removed from it. That's SRI Home[s] Inc. At that time, it's owned a hundred percent by NorTerra Inc.
+When those assets are removed, they're sold to a sister subsidiary. They're both related parties. Two of the items on the appendix to the agreement for that transfer are for shareholder receivables. The shareholder receivables indicate that there is an allowance for doubtful accounts.
+But what really happened is on the books of SRI Home[s] Inc. They simply expensed their proportionate share of the negative retained earnings of two companies that were owned by SRI Inc. to a certain degree. So, Lakeside Pines, which is owned 50 percent by SRI Homes Inc., and Valley Vista Seniors Park Inc. is owned 33 and a third percent, as those companies would have income, or loss, they would obviously on their own income statements for tax purposes indicate whether they had income or loss. They had had losses for a number of years, and if you total up those losses, they were the $411,830.
+When they do the consolidated statement for SRI Home[s] Inc., they consolidate those numbers, just for book purposes, not for tax purposes. And so they had done that, and they had taken their proportionate share of these negative retained earnings, and it amounted to $411,830. When the transaction arises where those assets, those shares and those shareholder loans, are transferred over to the sister subsidiary –
+(Transcript, page 8, line 11 to page 9, line 15)
+[36] Mr. Senkpiel continued:
+When that amount -- when those assets are transferred over to the sister subsidiary, that's done in preparation for the purchase by an independent third party, R&M. They are going to buy SRI Homes Inc., but they don't want these assets. So what they did is, on their books they expensed the negative retained earnings in these investments. They're not entitled to do that. That's -- and that is what this case is about in its simplest. They weren't entitled to expense the negative retained earnings of their investments in these companies.
+(Transcript, page 9, line 23 to page 10, line 8)
+[37] In his argument, Counsel for the Appellant said:
+MR. IHAS: Now, Your Honour, it's my submission that this is a simple case. Ultimately, there is a decision to be made about whether the assets that were transferred from SRI to the numbered company, 514, as I'll refer to it, were at fair market value, the particular assets in question, which are namely the loans.
+(Transcript, page 359, lines 10 to 15)
+And then my friend will respond to that, and say, "Well, even if it was, the losses were capital." So the second question will be whether they are capital or non-capital. It will be my submission that they are clearly non-capital in light of the decisions stemming from the Easton decision and others which I have in my brief of authorities, which I will submit clearly show that in this circumstance, viewing the facts that we have before the court, they're non-capital in nature.
+In which case, the expenses claimed by the appellant were entirely appropriate and in which case the appeal should be allowed.
+(Transcript, page 360, lines 6 to 17)
+[38] In his argument, Counsel for the Respondent said:
+MR. SENKPIEL: At this point, the respondent would like to hand up the respondent's book of authorities. And it's the respondent's submission that, despite the -- as was suggested by my friend, despite the complexity in the transactions themselves, the law and the facts that we're going to be dealing with today are quite simple.
+(Transcript, page 405, lines 4 to 10)
+With respect, no expert has testified that in determining the collectability of shareholder loans, we look at the liquidation value of a company. Neither Valley Vista [n]or Lakeside Pines, as I've mentioned, was valued by a qualified business valuator. The approach in determining the collectability of shareholder loans is not supported by expert evidence. We have a real estate appraisal and liquidation of assets approach which is misguided, and we have no testimony by a qualified expert that suggests it's appropriate.
+Moreover, Lakeside Pines wasn't even appraised.
+JUSTICE: So you're suggesting, Mr. Senkpiel, there was, in your view, no basis for the suggestion that these loans were non-collectable.
+MR. SENKPIEL: I'm suggesting there is no expert evidence that suggests that it's appropriate to try to attempt to calculate a liquidation value for a company selling its real estate assets, and then have that related to the collectability. All we have is a real estate appraisal, and obviously that's something that somebody would want to consider. But is a liquidation value the appropriate approach? Is an ongoing value the appropriate approach? We need a business valuator to make a proper expert -- give proper expert evidence in this appeal, and we haven't had that.
+And in addition, it gets more complicated, because we have somebody who's looking at the real estate value who is independent and a third party, but then the rest of the details are by Mr. Robert Adria and Brian Holterhus, who obviously have an interest in the litigation.
+(Transcript, page 406, line 7 to page 407, line 13)
+[39] Mr. Senkpiel said:
+MR. SENKPIEL: I'd like to suggest that the particular amount of $411,830 is not deductible for six reasons. And right now I'll just give the reasons and then I'll give the details.
+The first reason is on page 6, paragraph (ee). In its April 30th, 2001 tax return, SRI expensed the negative retained earnings of its investments in Valley Vista and Lakeside Pines; that is to say, its portion of those companies' cumulative equity losses in the amount of $411,830. That's the first reason. The Act doesn't permit that deduction.
+The second reason is the shareholder loans were fully collectable. That's set out on page 7, paragraph 21 of the reply.
+The third reason –
+JUSTICE: Just bear with me for one second.
+MR. SENKPIEL: Sure.
+The last one is on page 7, paragraph 21. The shareholder loans were fully collectable.
+JUSTICE: And that's paragraph 21. Okay.
+MR. SENKPIEL: The next one is related to paragraph 22. But I'll just phrase it slightly differently. In order to take a doubtful account on a loan receivable, the debt must still be owned. On April 30th, 2001, the debt was no longer owned by SRI Homes Inc. They couldn't take an allowance for doubtful accounts pursuant to the Act. That's my third argument.
+JUSTICE: Okay, just follow through with that a bit more. Tell me what you're saying there.
+MR. SENKPIEL: Pursuant to the particular way the provision works, under Section 22 it's really a reserve. During the year, you take an allowance for a doubtful account, based on the fact that you have a receivable, whether it's an account receivable for inventory in retail or if it's an account receivable on a loan receivable. You take a reserve, an allowance for doubtful accounts.
+JUSTICE: I know how that works.
+MR. SENKPIEL: And then the next year you take it back into income, and if it's still doubtful you take an allowance for doubtful accounts.
+JUSTICE: And SRI had sold the park at this time?
+MR. SENKPIEL: Yes.
+JUSTICE: OK.
+MR. SENKPIEL: They can't take an allowance for doubtful accounts. So the next question is, this is number four: Can they take a bad debt expense? Okay, we've got a receivable, whether it's an account receivable or it's a loan receivable if we accept that it's on income account. The debt had to be bad -- has to be a bad debt. It means it has to be uncollectable. There is no possible way that this debt was uncollectable. And we'll see -- I'll go into that. But it had to be bad. It's trite law.
+And so they can't take that deduction. So then they don't have any basis to take a deduction. The fair market value is the value, then, of the face amount of the debt, pursuant to the Income Tax Act. And so, my fifth argument, it's sort of found on page 7 of the reply, paragraph 26, we've got related parties. The fair market value is the full amount of the shareholder loans assigned. No way that they're allowed to take a deduction in the Act. And there are numerous -- and we'll go into the provisions that would allow them to do it, but they have to do it a certain way.
+The last argument, argument 6, if we turn to page 8, paragraph 31, if SRI had an offer –
+JUSTICE: Just before you go to that next one --.
+MR. SENKPIEL: Sure.
+JUSTICE: What do you say about SRI in number 27? SRI is not in the business of lending money.
+MR. SENKPIEL: It's our position that SRI clearly was in the business of lending money to dealers and that sort of thing. What we're saying is, this particular loan was not made in that business of lending money, which is a requirement under the particular provision. That's what we were just about to get to.
+JUSTICE: OK.
+MR. SENKPIEL: Which is –
+JUSTICE: I'm just telling you that -- I heard the evidence, and I heard Mr. Ihas's argument. I don't think it's a stretch to recognize that SRI is in the business of lending money. They were assisting, financially, dealers. They were providing financial facilities in the same way that GMAC, or whatever they are called, did for General Motors, or companies of that nature. So it's not a stretch, it's not beyond the evidence that I hear that that was part of SRI's business.
+MR. SENKPIEL: It would be the respondent's position that it's not a stretch at all. We would accept that they obviously lend money to dealers.
+JUSTICE: Yes.
+MR. SENKPIEL: The question then is: Is this particular loan one of those loans? Right? Because you can't -- even if you are in the business of lending money, the particular loan itself has to be in that business, as we'll see pursuant to the case law. And pursuant to the provisions. And it's going to be our position that in this particular case it wasn't, because of the originating document that we've looked at, the 1992 letter agreement between the three parties.
+We have there three parties. We don't just have a dealer, we have SRI homes, we have a dealer, and the individual who owned the land. Basically, they've got together for an investment dealing with a particular project. And we would say therefore that -- and we do agree with the argument, the case that's cited by the respondent, particularly the Federal Court of Appeal decision in Easton at paragraph 15 and 16. We do agree with the law, and so we will be dealing with that. And as you note, that's my sixth argument.
+So, it's my position logically that should have been our first argument, if it was our strongest, because that ends everything. …
+(Transcript, page 412, line 25 to page 417, line 22)
+[40] Mr. Senkpiel continued:
+MR. SENKPIEL: In terms of a Section 22 election, I don't have included in my book of authorities -- it's not something that could have been done in the circumstances. The reason is, you have to have the sale of 90 percent of the assets of a company that are being sold, and the other business has to carry it on. And that's not what happened here. It was a sale of just simply receivables and shares.
+So they couldn't have actually done Section 22, but they could have done, as I have indicated -- forgiven the debt and '514 wouldn't have been able to collect the amount. And Section 80 would have applied to have the amounts included in the income of the subsidiary company.
+(Transcript, page 424, line 20 to page 425, line 8)
+[41] I agree with the reasoning outlined by Mr. Senkpiel in his argument.
+[42] The appeals are dismissed, with costs.
+Signed at Vancouver, British Columbia, this 18th day of August 2011.
+“L.M. Little”
+Little J.
+CITATION: 2011 TCC 386
+COURT FILE NO.: 2007-4061(IT)G
+STYLE OF CAUSE: SRI HOMES INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kelowna, British Columbia
+DATE OF HEARING: February 28, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: August 18, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Kenneth Ihas
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Kenneth Ihas
+Firm: Rush Ihas Hardwick LLP
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

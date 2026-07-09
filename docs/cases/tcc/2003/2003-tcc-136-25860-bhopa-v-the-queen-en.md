@@ -1,0 +1,121 @@
+---
+title: "Bhopa v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25860/index.do"
+last_modified: "2003-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 136"
+citation2: ""
+neutral_citation: "2003 TCC 136"
+decision_date: "2003-03-18"
+language: "en"
+item_id: "25860"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3854
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:25:44.678000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3c99aea13b516cc0716745ce49b89496298033e5672df092c919353d4dcbddf6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bhopa v. The Queen
+
+- Citation: 2003 TCC 136
+- Decision date: 2003-03-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3854, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bhopa v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-18
+Neutral citation
+2003 TCC 136
+File numbers
+2002-3445(GST)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-3445(GST)I
+BETWEEN:
+HENRY BHOPA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 14, 2003 at Toronto, Ontario
+Before: The Honourable Judge D. W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Edward Park
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated February 19, 2001 and bears number 05CP0105854 is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 18th day of March, 2003.
+"D. W. Beaubier"
+J.T.C.C.
+Citation: 2003TCC136
+Date:20030318
+Docket: 2002-3445(GST)I
+BETWEEN:
+HENRY BHOPA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.T.C.C.
+[1] This appeal pursuant to the Informal Procedure was heard at Toronto Ontario on March 14, 2003. The Appellant and his wife, Sherissa Bhopa, testified on behalf of the Appellant. William Chan, the GST auditor on the file, testified on behalf of the Respondent.
+[2] Paragraphs 4, 5 and 6 of the Reply to the Notice of Appeal read:
+4. The Minister of National Revenue (the "Minister") assessed the Appellant for the Period for a total net tax adjustment of $7,916.04, consisting of adjustments to the Goods and Services Tax ("GST") in the amount of $1,296.96 and adjustment to Input Tax Credits ("ITC's") in the amount of $6,619.09. Penalty of $446.59 and interest of $406.67 were added to the total net tax adjustment.
+5. In so assessing the Appellant, the Minister made the following assumptions of fact:
+(a) at all material times, the Appellant was a registrant for GST purposes for the supply of dust cleaning, heating and air conditioning services (the "Taxable Supplies") and operated as a sole proprietor;
+(b) during the Period, the Appellant included ITC's relating to personal expenses not relating to the provision of his Taxable Supplies;
+(c) the Appellant failed to obtain sufficient evidence in such form containing such information as would enable an amount of ITC's to be determined;
+(d) during the Period, the Appellant failed to declare and remit GST on its Taxable Supplies of $1,296.96; and
+(e) the Appellant failed to report and remit the GST assessed for the Period.
+B. ISSUE TO BE DECIDED
+6. The issues are
+(a) whether the Minister properly assessed the Appellant as stated in paragraph 4 above; and
+(b) whether the Minister properly disallowed the ITC's claimed by the Appellant.
+[3] None of the assumptions were refuted.
+[4] In particular, four periods of the Appellant's business "Dust Doctor", in which he cleaned heating and air conditioning ducts, were reassessed. They were the periods ending September 30, 1999; December 31, 1999; March 31, 2000; and June 30, 2000.
+[5] The Appellant's accountant filed a return for the June 30, 2000 period after the Appellant failed to file and was automatically reassessed by the GST authorities. This return was accepted and reassessed as filed. That reassessment is therefore confirmed by the Court.
+[6] Sherissa Bhopa originally filed the other three quarterly returns. She admitted that her claim for GST input tax credits for a Chrysler Intrepid for the period ending September 30, 1999 was wrong. However, respecting the remaining input tax credit claims and GST assessments, she stated that she filed correctly, gave the proper receipts to the Appellant's accountant and that he was instructed to deal with Canada Customs and Revenue Agency on the reassessments for the Appellant. The latter statement was confirmed by the Appellant. She then stated that the accountant failed to return all the receipts to her to carry out this appeal. None of the alleged receipts in question were filed to rebut the assumptions.
+[7] William Chan stated that the Appellant's accountant filed spread sheets with supporting receipts in the course of the reassessment procedure and that this material was acceptable and the reassessment in question followed based on it.
+[8] The Appellant offered no supporting receipts or documentation appealing the matters in dispute. Without them, as stated by Bowman, A.C.J. in Helsi Construction Management Inc. v. The Queen [2001] G.S.T.C. 39, he cannot succeed.
+[9] The appeal is dismissed.
+[10] Pursuant to the application of the Appellant at the hearing, the Appellant's address for the purposes of this appeal is now ordered to be:
+293 Doubtfire Crescent
+Markham, Ontario
+L3S 3V9
+Signed at Ottawa, Canada this 18th day of March, 2003.
+"D. W. Beaubier"
+J.T.C.C.

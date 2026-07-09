@@ -1,0 +1,211 @@
+Title: Filion v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/420931/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-175-420931-filion-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-08-27
+
+# Filion v. The Queen
+
+- Citation: 2019 TCC 175
+- Decision date: 2019-08-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4227, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Filion v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-08-27
+Neutral citation
+2019 TCC 175
+File numbers
+2018-40(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2018‑40(GST)I
+BETWEEN:
+JULES FILION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on January 9, 2019, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Michelle Picard
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated January 31, 2017, and bears number 378798, for the period from July 1, 2016, to September 30, 2016, is allowed with respect solely to the input tax credit on the invoice from Mikhaël Ange Peinture de Toiture Inc. and is dismissed in all other respects. Consequently, the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in order to allow an input tax credit of $150 for the above‑mentioned invoice, in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 27th day of August 2019.
+“Réal Favreau”
+Favreau J.
+Citation: 2019 TCC 175
+Date: 20190827
+Docket: 2018‑40(GST)I
+BETWEEN:
+JULES FILION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant is appealing from an assessment made under Part IX of the Excise Tax Act, R.S.C., 1985, c. E‑15, as amended, (the ETA) by the Quebec Minister of Revenue, as an agent of the Minister of National Revenue (the Minister), notice of which is dated January 31, 2017, and bears number 378798, for the period from July 1, 2016, to September 30, 2016.
+[2] The amounts assessed under the assessment of January 31, 2017, are as follows:
+Adjustments to the reported net tax calculation
+$9,700
+Net interest
+$16.79
+Total (amount owing)
+$9,716.79
+[3] The adjustments to the reported net tax calculation can be broken down as follows:
+Goods and Services Tax (GST) collected or collectible as overpayment
+($4,000)
+Input tax credits (ITCs) claimed and overpaid or paid without entitlement
+$13,700
+Total (amount owing)
+$9,700
+[4] The GST collected or collectible as overpayment in the amount of $4,000 represents a GST rebate on an ineligible vehicle.
+[5] The ITCs claimed and overpaid, or paid in error or without entitlement, in the amount of $13,700, can be broken down as follows:
+ITCs claimed and paid for a recreational vehicle used for personal and non‑commercial activities
+$13,550
+ITCs claimed and paid in the absence of proper documentation (Mikhaël Ange Peinture de Toiture Inc.)
+$150
+Total
+$13,700
+[6] To establish the assessment at issue, the Minister relied on the following facts and assumptions:
+a) the Jules Filion Inc. corporation purchases and sells various used vehicles;
+b) the appellant’s activities involve used vehicle sales and commercial rentals, which are taxable supplies at 100%;
+TRADED RV AND ACQUIRED RV
+c) the appellant traded a Gulf Stream 2008 SuperNova W6331 1HTMPAFM78H542001 (traded RV) outside of Quebec for another recreational vehicle, the Entegra 2013 Anthem 4VZBU1D92CC075442 (acquired RV);
+d) on September 29, 2016, the appellant became the owner of the acquired RV after purchasing the vehicle from the dealer Les V.R. St‑Nicolas for a price of $270,000;
+e) since the appellant acquired the vehicle in exchange for another, an offset phenomenon occurred, so that the value of the exchange is as follows:
+Value of the acquired RV
+$270,000
+Value of the traded RV
+$80,000
+Subtotal
+$190,000
+GST
+$9,500
+QST
+$18,962.50
+Total (paid by bank draft on September 28, 2016)
+$218,462.50
+f) the appellant collected GST on the net amount of $190,000;
+g) the appellant claimed the ITCs on the basis of the calculation in sub‑paragraph (e);
+h) in this regard, the Minister disallowed the ITCs, partly because the opponent used the acquired RV for personal, rather than business, purposes;
+i) moreover, the GST payable and the ITCs to be claimed should have been calculated on the amount of $270,000, rather than $190,000, meaning that the disallowed ITCs should have been $13,500;
+j) the facts on which the Minister relied to disallow the ITCs claimed on the basis that the acquired RV was used for personal, rather than business, activities, are namely as follows:
+in September 2016, the appellant purchased the acquired RV, with an odometer reading of 40,800 kilometres;
+the SAAQ register shows that the appellant registered the acquired RV in his own name;
+the appellant insured the acquired RV under his personal insurance;
+the appellant sold the acquired RV on August 22, 2017, that is, after the audit file was closed;
+when the acquired RV was sold in August 2017, the kilometrage listed on the sales contract was 50,718 km;
+between the time it was acquired in September 2016 and resold in August 2017, the acquired RV travelled 9,918 km;
+the appellant was unable to explain the added kilometrage;
+k) as for the traded RV that the appellant purchased on December 29, 2015, with 81,000 km on the odometer, it was also used for personal, rather than business, activities, namely based on the following reasons:
+the appellant registered and insured the traded RV on June 15, 2016;
+the appellant sold the traded RV on October 6, 2016, on which date the odometer read 99,000 km;
+the traded RV was registered and insured in the appellant’s own name;
+therefore, between the purchase and sale, the vehicle travelled 18,000 km during the 10 months the appellant owned it;
+the appellant also used the traded RV for personal activities;
+therefore, the ITCs in the amount of $50 for maintenance and repairs by the provider La Belle Armoire were disallowed because the vehicle was used for personal activities, based on the aforementioned reasons;
+ITCs DISALLOWED ON THE INVOICE ISSUED BY MIKHAËL ANGE PEINTURE DE TOITURE INC.;
+l) the ITCs of $150 for the invoice from Mikhaël Ange Peinture de Toiture Inc. were disallowed because the invoice is not dated.
+[7] This case raises the following issues:
+a) Did the appellant use the acquired RV and the traded RV for personal activities or for his commercial activities?
+b) If it is determined that the appellant used the acquired RV and the traded RV for personal activities, did the appellant claim ITCs that were overpaid or paid in error or without entitlement in the amount of $13,550 in the calculation of his net tax for the period at issue?
+c) Was the appellant entitled to claim ITCs on the invoice from Mikhaël Ange Peinture de Toiture Inc.?
+[8] At the start of the hearing, the respondent agreed to the ITCs for the invoice from Mikhaël Ange Peinture de Toiture Inc. because it concerned the metal roof on a commercial building owned by the appellant.
+[9] Mr. Filion testified at the hearing. He first explained and demonstrated that he was a member of the Association des marchands de véhicules d’occasion du Québec (AMVOQ) by submitting into evidence: (a) the membership certificate bearing number 15704, issued in his name and effective from May 2016 to April 2017; (b) the cheque dated April 7, 2016, in the amount of $631.21 made payable to AMVOQ for his membership dues for the period from May 2016 to April 2017; and (c) the membership certificate for the purpose of a bond from AMVOQ (in the amount of $100,000) issued on December 9, 2016. The appellant also demonstrated that he personally held a motor vehicle dealer’s licence issued by the Société de l’assurance automobile du Québec (the SAAQ) for the period from December 10, 2016, to November 30, 2018 (the invoice date for the cost of the licence was August 31, 2016, that is, during the period at issue).
+[10] Mr. Filion went on to explain the circumstances surrounding the acquisition and sale of his first motorhome, the traded RV. The appellant acquired the vehicle in his own name under a contract with Les Roulottes Rive Sud Inc. The vehicle sales contract is dated November 5, 2015, and the vehicle delivery date provided in the contract was also November 5, 2015. The price of the vehicle was $67,000 before taxes. According to the contract, the vehicle’s odometer read 81,000 kilometres.
+[11] Mr. Filion registered the vehicle with the SAAQ on June 10, 2016, specifying the odometer reading as 81,000 kilometres.
+[12] On September 16, 2016, Mr. Filion traded his recreational vehicle for another recreational vehicle, the acquired RV. The sales contract was signed with Les V.R. St‑Nicolas, and the traded RV was valued at $80,000. The sales contract indicated that the odometer of the traded RV read 99,000 kilometres.
+[13] During his testimony, Mr. Filion stated that he had acquired his first recreational vehicle in order to resell it. He stated that he had stored the vehicle at his residence during the winter of 2015/2016 in an enclosed area after removing the battery. During that period, the vehicle was not registered or insured.
+[14] Mr. Filion also stated that he spent the winter of 2015/2016 in Florida, where he had a residence. It was not until he returned from Florida that he decided to register and insure his recreational vehicle in order to attend festivals with the goal of selling it. The vehicle was sold on September 16, 2016, at the Saint‑Tite Festival.
+[15] Mr. Filion also testified that the kilometrage indicated in the contract of purchase and for the vehicle’s registration with the SAAQ of 81,000 kilometres was incorrect and should have been 94,179 kilometres. Mr. Filion submitted into evidence a sales offer document for the vehicle from Monaco Montréal (for the price of $82,500 and with an odometer reading of 94,179 kilometres).
+[16] The acquired RV cost $270,000, and the taxes were calculated on an amount of $190,000, the difference between the price of the acquired RV and the value of the traded RV. According to the sales contract, the odometer of the acquired RV read 40,800 kilometres. Mr. Filion submitted into evidence a sales offer on the vehicle on lespac.com for the price of $289,995, with an odometer reading of 19,899 miles (approximately 32,024 kilometres).
+[17] Mr. Filion took possession of the acquired RV on September 29, 2016, and immediately entered into a roadside assistance contract with CornerStone United Ltd. to facilitate the resale of the vehicle. The cost of this one‑year service contract was $3,451.55 (taxes included). Mr. Filion also took out a personal insurance policy with Economical for the period from December 23, 2016, to December 23, 2017. The amount of the premium was $2,760, and the policy included the following coverage:
+- Civil liability = $2,000,000
+- Comprehensive vehicle coverage against damages = $125,000
+[18] During his testimony, Mr. Filion explained that he had registered the acquired RV on October 7, 2016, and travelled to Florida with the goal of reselling it by attending large events, such as the Florida RV SuperShow in Tampa. Since he did not find a buyer for the acquired RV in the United States, Mr. Filion brought it back to his residence in Quebec and cancelled the vehicle’s registration on April 30, 2017. The vehicle was sold on August 22, 2017, with 50,718 kilometres on the odometer.
+[19] To demonstrate that he did indeed reside in the housing unit at 3161E Golf Boulevard, Pompano Beach, Florida, when he acquired the two recreational vehicles, Mr. Filion submitted into evidence his municipal tax account for the year 2016, an account statement from AT&T for the period from January 6, 2016, to February 5, 2016, and an account statement from the company Comcast dated March 21, 2014.
+[20] Julie Paquet, Revenu Québec (RQ) audit technician, testified at the hearing, and her audit report was submitted into evidence. She explained that the appellant’s file had been selected for an audit because the amount of the input tax credits claimed was higher than for previous reporting periods. She performed the audit in fall 2016, and her report is dated January 25, 2017. She stated that the appellant’s commercial activities consisted of buying and selling various used vehicles and offering commercial building rentals. However, she noted that her searches with the SAAQ revealed that, between 1993 and 2016, the two recreational vehicles involved in this case are the only recreational vehicles the appellant bought and sold.
+[21] Ms. Paquet explained that she had made adjustments to the Goods and Services Tax and the input tax credits for the appellant’s two recreational vehicles because they were not acquired for the purpose of being resold as part of the appellant’s commercial activities.
+[22] The auditor stated in her report that, according to the SAAQ register, the odometer of the traded RV read 81,000 kilometres when it was purchased on December 29, 2015. The vehicle was not registered from the purchase date until June 15, 2016, but it was registered from June 15, 2016, until it was traded in on October 6, 2016. The kilometrage indicated at the SAAQ in the new owner’s file was 99,000 kilometres as of October 6, 2016. On the basis of the kilometrage indicated at the SAAQ, the vehicle travelled 18,000 kilometres during the 10 months the appellant owned it.
+[23] The auditor mentioned in her report that Mr. Filion had told her that the kilometrage listed in the SAAQ when the vehicle was purchased in 2015 was incorrect and that he had made an error when he reported the information to the SAAQ. According to Mr. Filion, the actual kilometrage when the vehicle was purchased was 94,179 kilometres. To support his statements, Mr. Filion sent the auditor third‑party documents, which were not signed.
+[24] With regard to the acquired RV, the auditor stated in her report that the vehicle had been registered soon after it was purchased and was insured under the appellant’s personal insurance policy. The auditor states in her report that she asked Mr. Filion whether he planned to use his recreational vehicle when he travelled to Florida and that he did not provide a clear answer to her question after indicating that he was considering selling the vehicle in the United States if the opportunity arose.
+Relevant statutory provisions
+[25] The following ETA provisions apply to this dispute: the concepts of “commercial activity” and “business” defined in section 123; subsection 169(1), which sets out the general rule for calculating input tax credits; and subsection 199(2), which deals with specific conditions for the tax payable on the acquisition of capital personal property to be included in the calculation of a registrant’s input tax credits. These provisions read as follows:
+123(1) commercial activity of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply; (activité commerciale)
+business includes a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit, and any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, licence or similar arrangement, but does not include an office or employment; (entreprise)
+169(1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+199(2) Where a registrant acquires or imports personal property or brings it into a participating province for use as capital property,
+(a) the tax payable by the registrant in respect of the acquisition, importation or bringing in of the property shall not be included in determining an input tax credit of the registrant for any reporting period unless the property was acquired, imported or brought in, as the case may be, for use primarily in commercial activities of the registrant; and
+(b) where the registrant acquires, imports or brings in the property for use primarily in commercial activities of the registrant, the registrant is deemed, for the purposes of this Part, to have acquired, imported or brought in the property, as the case may be, for use exclusively in commercial activities of the registrant.
+Analysis
+[26] The documents Mr. Filion submitted, which are listed in paragraph 9 above, clearly show that, during the period at issue, he was a dealer within the ETA meaning and his business consisted of buying and selling various types of used vehicles, including recreational vehicles, in Canada and the United States. In my view, the purchase and sale of the two recreational vehicles at issue was an extension or expansion of his business of buying and selling used vehicles and not a new business. Furthermore, according to the information on record, the appellant used the same tax numbers to report the transactions related to the recreational vehicles as those he had previously used for the other types of used vehicles.
+[27] The purchase of the two recreational vehicles in under a year and their brief periods of ownership of 10 and 11 months, respectively, confirm for all practical purposes that the appellant acquired them with the intention of reselling them, thus as part of his commercial activities.
+[28] However, the exercise does not stop there. Under paragraph 169(1)(c) of the ETA, it is necessary to determine the extent, expressed as a percentage, to which the appellant acquired the recreational vehicles for consumption, use or supply in the course of his commercial activities. The answer to that question is used to determine the percentage of tax paid upon acquisition of the recreational vehicles that the appellant can claim as input tax credits.
+[29] Paragraph 199(2)(a) of the ETA sets out the requirement that the property be acquired for use primarily in the appellant’s commercial activities in order for the tax payable upon acquisition of the recreational vehicles to be included in the calculation of his input tax credits. Paragraph 199(2)(b) of the ETA stipulates that if the registrant used the recreational vehicles primarily in his commercial activities, they are deemed to have been acquired for use exclusively in his commercial activities (i.e. at 100%).
+[30] In this context, the word “primarily” means more than 50% of the total use of the property, and the words “for use” assumes an intention on the day it was acquired. In this regard, the courts analyzed the actual use of the property to determine the registrant’s initial intention (see, for example, Foote v. The Queen, 2007 TCC 46, Coburn Realty Ltd. v. The Queen, 2006 TCC 245 and 9180‑2801 Québec Inc. v. The Queen, 2011 TCC 129).
+[31] In the present case, the evidence does not show that, based on the actual use of the recreational vehicles, the appellant’s initial intention was to use them primarily for commercial purposes. The appellant did not submit sufficient evidence to establish that when he acquired the two recreational vehicles, the primary goal of the acquisitions was to use them primarily for his commercial activities. If we consider the actual use of the vehicles in the months following their acquisition, it can be seen that, for all intents and purposes, they were used solely for personal activities.
+[32] In the case of the traded RV, the appellant left it in his yard on his property during the winter of 2015/2016, and it was only upon his return from Florida that he registered it in order to attend festivals. With regard to the acquired RV, the appellant registered it immediately in order to travel to Florida, where he spent the winter of 2016/2017 while he was in the process of separating from his spouse. It was only upon returning from Florida that the appellant took steps to sell the acquired RV. The appellant provided no evidence that he had registered for events in Florida to sell his recreational vehicle.
+[33] In addition, the appellant did not provide RQ with any log detailing the commercial use of his recreational vehicles. His testimony in this regard was vague and unclear. The appellant was unable to explain the travel for commercial activities of 18,000 kilometres in the case of the traded RV and of 9,918 kilometres in the case of the acquired RV. Even if we accept that the appellant made a mistake when he reported the kilometrage to the SAAQ as 81,000 kilometres rather than 94,179 kilometres, he still failed to explain a commercial use of 4,821 kilometres for the traded RV.
+[34] In light of the above, I agree with the respondent’s position that the appellant is not entitled to the input tax credit on the tax paid when he acquired the traded RV because he did not acquire it primarily for use in his commercial activities and because the percentage of use of this recreational vehicle for commercial activities could not be determined with sufficient accuracy.
+[35] For these reasons, the appeal is allowed only with regard to the input tax credits on the invoice from Mikhaël Ange Peinture de Toiture Inc. and is dismissed in all other regards. Consequently, the assessment is referred back to the Minister for reconsideration and reassessment in order to allow an input tax credit of $150 for the above‑mentioned invoice.
+Signed at Montréal, Quebec, this 27th day of August 2019.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2019 TCC 175
+COURT FILE NO.:
+2018‑40(GST)I
+STYLE OF CAUSE:
+JULES FILION AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+January 9, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+August 27, 2019
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Michelle Picard
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+N/A
+Firm:
+[EN BLANC]
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

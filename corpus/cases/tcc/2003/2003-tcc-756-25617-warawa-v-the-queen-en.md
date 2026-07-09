@@ -1,0 +1,182 @@
+---
+title: "Warawa v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25617/index.do"
+last_modified: "2003-10-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 756"
+citation2: ""
+neutral_citation: "2003 TCC 756"
+decision_date: "2003-10-17"
+language: "en"
+item_id: "25617"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2424
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:36:33.184000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6754625562a3bb4dc6e6fb294717a3d2680b8a70e1b442a64bc184aac74cf5fb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Warawa v. The Queen
+
+- Citation: 2003 TCC 756
+- Decision date: 2003-10-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2424, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Warawa v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-17
+Neutral citation
+2003 TCC 756
+File numbers
+2000-155(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-155(IT)G
+Citation No: 2003TCC756
+BETWEEN:
+ALLEN WARAWA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on October 17, 2003 at Edmonton, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Douglas J. Forer
+Counsel for the Respondent:
+Louis A.T. Williams
+____________________________________________________________________
+ORDER AND REASONS FOR ORDER
+[1] This motion by the Appellant for an order allowing his appeals for 1985, 1986, 1987, 1988, 1989 and 1990 and vacating the reassessments for those years were heard at Edmonton, Alberta, on October 17, 2003.
+[2] The basis for the application is:
+1. An allegation that the fundamental basis for the reassessments is an illegal search and seizure in violation of the Appellant's rights under sections 7 and 8 of the Canadian Charter of Rights and Freedoms (the "Charter").
+2. The Respondent requires the foregoing information to meet the onus under subparagraph 152(4)(a)(i) of the Income Tax Act and it formed the basis for the reassessments for the 1989 and 1990 years.
+[3] The motion is pursuant to Rules 58 and 100 of the Tax Court of Canada Rules (General Procedure). They read:
+58. (1) A party may apply to the Court,
+(a) for the determination, before hearing, of a question of law raised by a pleading in a proceeding where the determination of the question may dispose of all or part of the proceeding, substantially shorten the hearing or result in a substantial saving of costs, or
+(b) to strike out a pleading because it discloses no reasonable grounds for appeal or for opposing the appeal,
+and the Court may grant judgment accordingly.
+(2) No evidence is admissible on an application,
+(a) under paragraph (1)(a), except with leave of the Court or on consent of the parties, or
+(b) under paragraph (1)(b).
+(3) The respondent may apply to the Court to have an appeal dismissed on the ground that,
+(a) the Court has no jurisdiction over the subject matter of an appeal,
+(b) a condition precedent to instituting a valid appeal has not been met, or
+(c) the appellant is without legal capacity to commence or continue the proceeding,
+and the Court may grant judgment accordingly.
+…
+100. (1) At the hearing, a party may read into evidence as part of that party's own case, after that party has adduced all of that party’s other evidence in chief, any part of the evidence given on the examination for discovery of
+(a) the adverse party, or
+(b) a person examined for discovery on behalf of or in place of, or in addition to the adverse party, unless the judge directs otherwise,
+if the evidence is otherwise admissible, whether the party or person has already given evidence or not.
+(1.1) The judge may, on request, allow the part of evidence referred to in subsection (1) to be read into evidence at a time other than that specified in that subsection.
+(2) Subject to the provisions of the Canada Evidence Act, the evidence given on an examination for discovery may be used for the purpose of impeaching the testimony of the deponent as a witness in the same manner as any previous inconsistent statement by that witness.
+(3) Where only part of the evidence given on an examination for discovery is read into or used in evidence, at the request of an adverse party the judge may direct the introduction of any other part of the evidence that qualifies or explains the part first introduced.
+(3.1) A party who seeks to read into evidence under subsection (1) or who requests the judge to direct the introduction of evidence under subsection (3) may, with leave of the judge, instead of reading into evidence, file with the Court a photocopy or other copy of the relevant extracts from the transcripts of the examination for discovery, and when the copy is filed such extracts shall form part of the record.
+(4) A party who reads into evidence as part of that party's own case evidence given on an examination for discovery of an adverse party, or a person examined for discovery on behalf of or in place of or in addition to an adverse party, may rebut that evidence by introducing any other admissible evidence.
+(5) The evidence given on the examination for discovery of a party under disability may be read into or used in evidence at the hearing only with leave of the judge.
+(6) Where a person for discovery,
+(a) has died,
+(b) is unable to testify because of infirmity or illness,
+(c) for any other sufficient reason cannot be compelled to attend at the hearing, or
+(d) refuses to take an oath or make an affirmation or to answer any proper question,
+any party may, with leave of the judge, read into evidence all or part of the evidence given on the examination for discovery as the evidence of the person examined, to the extent that it would be admissible if the person were testifying in Court.
+(7) In deciding whether to grant leave under subsection (6), the judge shall consider,
+(a) the extent to which the person was cross-examined on the examination for discovery,
+(b) the importance of the evidence in the proceeding,
+(c) the general principle that evidence should be presented orally in Court, and
+(d) any other relevant factor.
+(8) Where an appeal has been discontinued or dismissed and another appeal involving the same subject matter is subsequently brought between the same parties or their representatives or successors in interest, the evidence given on an examination for discovery taken in the former appeal may be read into or used in evidence at the hearing of the subsequent appeal as if it had been taken in the subsequent appeal.
+[4] Sections 7, 8 and 24 of the Charter read:
+7. Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
+8. Everyone has the right to be secure against unreasonable search or seizure.
+…
+24. (1) Anyone whose rights or freedoms, as guaranteed by this Charter, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances.
+(2) Where, in proceedings under subsection (1), a court concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.
+[5] At the outset, upon the appropriate objections by the Respondent's counsel, the Court ordered the Appellant's motion to proceed for the following reasons:
+1. Mogan, J.'s decision in Warawa v. R., 2002 DTC 1264, a similar motion by the Appellant, was made before the Examination for Discovery of the Respondent's witness and the Respondent's subsequent undertakings. While this could have been done before the earlier motion, two matters cause the Court to allow the motion to proceed, namely:
+(a) Any delay by the Appellant which prevented the matter from proceeding at an earlier date could have been resolved then by a motion by the Respondent.
+(b) The Appellant's earlier motion, had it been successful, would have prevented the cost of a Hearing and the cost of the Examination for Discovery. This motion, if successful, will only prevent the cost of a Hearing.
+2. Upon the Respondent's objection to the admission of the answers by the Respondent's witness on the Examination for Discovery and the consequent undertakings of the Respondent, the Court ruled them admissible because they are binding upon the Respondent in this appeal. The Respondent's only right respecting them is to file evidence to explain them further.
+[6] The jurisprudence respecting this application was thoroughly reviewed by Bowman, J. in O'Neill Motors Ltd. v. Canada, [1995] T.C.J. No. 1435, with the unanimous approval of the Federal Court of Appeal, [1998] 4 F.C. 180. In O'Neill, Bowman, J. made three points:
+1. There is a distinction to be made between an application to exclude documents (subsection 24(1)) and an application to vacate an assessment (subsection 24(2)) where it is alleged that a seizure has been made in violation of the Charter. (Paragraph 18).
+2. Evidence should be excluded under subsection 24(1) if its admission would bring the administration of justice into disrepute within the meaning of subsection 24(2) (subparagraph 18(3)(b)(iii)).
+3. The tests are:
+(i) Was the violation deliberate, wilful or flagrant, or was it committed in good faith?
+(ii) Was the violation motivated by urgency or necessity to preserve evidence?
+(iii) Were other investigative techniques available?
+(Paragraph 15(b)).
+[7] In O'Neill Bowman, J. found that the violation was serious, the admission of the evidence in question would impinge upon the fairness of the trial, and its admission would impinge upon the public perception of the administration of justice if evidence was unconstitutionally obtained and then admitted for the purposes of the trial.
+[8] Finally Bowman, J. decided that to merely exclude the evidence so obtained would negate the rights that the Charter guarantees. On the finding that the evidence seized in violation of the Charter was "fundamental" to the assessment, Bowman, J. vacated the assessment. (Paragraph 28).
+[9] Bowman, J. pointed out in paragraph [31] that cases may arise in which a simple exclusion of evidence is sufficient. He described two explicit examples:
+1. Where the evidence is of little or no significance in the making of the assessments.
+2. Where its introduction would not bring the admission of justice into disrepute.
+Two more general tests which he described are the introduction to points 1. and 2. above and the Suarez test.
+[10] In the course of a voir dire in a trial between these same parties respecting the same subject matter wherein the Appellant was charged with violation of subsections 239(a) and (b) of the Income Tax Act, Clarke, J. of the Alberta Court of Queen's Bench made an order of exclusion of evidence in the following words:
+As a result of the breach of the accused's s. 7 and s. 8 Charter rights and the inability of the Crown to overcome those breaches under s. 24 of the Charter all of the documents and statements subject to these voir dires starting with the Leblanc audit material and ending with the July 1992 search and seizure material will be excluded from the trial.
+[11] In R. v. Warawa, [1997] A.J. No. 989 Clarke, J. found the testimony of the Respondent's witness, Mr. Rodgirs was not credible. Where it conflicted with the Appellant's testimony, he accepted the Appellant's testimony. The Respondent proposes to call Mr. Rodgirs in this case.
+[12] Paragraphs 135 to 144 inclusive of Clarke J.'s decision read as follows:
+135. I am satisfied that the accused in this case was entitled to exercise the right to silence. In that regard, I respectfully adopt the analysis and conclusion of Judge Fradsham in R. v. Jarvis, supra at p. 320 to p. 325. The accused was told that he and his clients were being audited and no one advised him that the matter had progressed to an investigation of the accused. He was still operating under the erroneous conclusion that s. 231.1(1) of the Income Tax Act applied and he was bound by law to answer the inquiries and comply with requests. Up until May 10, 1992 the accused was labouring under two forms of misapprehension: (1) he did not know that he had the right to silence resulting from being under investigation (as opposed to being audited); (2) he thought he had a legal duty to provide the information to Revenue Canada officials because of the operation of s. 231.1(1) of the I.T.A. I have concluded that the failure to give a caution resulted in a violation of the accused's s. 7 Charter rights. In that regard I adopt and apply the analysis again of Judge Fradsham in R. v. Jarvis, supra at p. 325 through p. 328. For emphasis I simply note that the accused is in a significantly different position from a suspect in most criminal investigations. Unlike most criminal suspects the I.T.A. s. 231.1 conscripted the accused to cooperate by answering questions and providing documents if he was the subject of an audit under the I.T.A. Therefore the accused as a result of the failure of the Revenue Canada to tell him that the audits were in fact an investigation believed that he was still compelled by law to answer questions and provide information. This distinction from the more traditional situation makes the failure to caution him a very serious matter and a clear violation of s. 7 Charter rights.
+136. It follows that I do not agree with the views of Judge Lamperte in R. v. Gaudet, supra, where at p. 22 he says as follows:
+"I want to point out that in my opinion, neither the Norway case, supra, nor the Jarvis, case, supra, nor any of the other cases cited by defence counsel stand for the proposition that in a situation, such as the case at bar, where national revenue, without any prior indication of tax evasion by the taxpayer set out to do an audit, at some time later, the audit becomes an Investigation, Revenue Canada is then precluded from using the information secured during the audit either during the investigation or in connection with any search warrant related thereto. The case, of course, is somewhat different when National Revenue officials, under the guise of conducting an investigation, commence an audit, and then attempt to use that information secured during the so-called audit, which in fact was an investigation, during later investigatory proceedings."
+With respect that opinion cannot be correct. All of the information that is given by a taxpayer during the audit is conscripted information. When used by S.I. it can result in the taxpayer being subject to criminal sanctions. When that information comes into the hands of S.I. and is used in a criminal prosecution it is tainted evidence obtained in violation of the accused's s. 7 Charter rights. In other words audit's conscriptive powers may only be used for audit purposes. S.I. may not use the results of those conscriptive powers unless the taxpayer has from the beginning been advised of his s.7 Charter rights through the appropriate caution. If I am wrong and in any event, there was a clear indication of tax evasion by the taxpayer in the notes of Mr. Leblanc (Ex. 5.) and he was a suspect from November 1987 onward.
+Was There a s. 8 Charter Breach?
+137. Section 8 provides a right to a person "to be secure against unreasonable search or seizure". The Crown submitted that the key interest here being protected is privacy. Furthermore, could it be said that there was a reasonable expectation of privacy in the documents that were obtained. What was being sought was financial business records and the courts have held that there is a lower expectation of privacy in such records. Furthermore it was the Crown's submission that the search was reasonable, and minimally intrusive in its scope.
+138. Once again I respectfully adopt and agree with the analysis of His Honour Judge Fradsham in R. v. Jarvis, supra, at pp. 345 and 346 where he too concludes that both a taxpayer and the taxpayer's accountant have a reasonable expectation of privacy with respect to the documents of the taxpayer.
+139. Madam Justice Wilson in delivering the principal judgment in R. v. McKinley Transport Ltd. (1990), 55 C.C.C. (3d) 530 at p. 546 makes this statement:
+"This is not to say that any and all forms of search and seizure under the Income Tax Act are valid. The state interest in monitoring compliance with the legislation must be weighed against an individual's privacy interest. The greater the intrusion into that privacy interest of the individual, the more likely it will be that safeguards akin to those in Hunter will be required. Thus when tax officials seek entry onto the private property of an individual to conduct a search and seizure the intrusion is much greater than a mere demand for production of documents. The reason for this is that, while a taxpayer might have little expectation of privacy in relation to his business records relevant to the determination of his tax liability, he had a significant privacy interest in the inviolate ability of his home."
+Where Revenue Canada is sending out a demand for some documents which were then sent to them by the taxpayer she noted that that kind of a demand provides the least intrusive means of monitoring compliance with the Income Tax Act. She notes again at p. 546 "... it involves no invasion of a taxpayer's home or business premises ..." . In this case it is clear that an invasion occurred at both places.
+140. Furthermore, particularly with respect to the audit and search and seizure of the accused a great deal more than simply business records was involved. The records disclose a great deal of personal information with respect to the accused and his wife and his business. This issue was addressed again by the Supreme Court of Canada in a judgment issued in the same year as R. v. McKinley, supra. In Thompson Newspapers Ltd. v. Canada (Director of Investigation and Research) (1990), 76 C.R. (3d) 129, Mr. Justice LaForest was of the view that business records and documents while not devoid of any privacy interest raised much weaker privacy concern than personal papers. He went on at p. 205 to say in part:
+"The ultimate justification for a constitutional guarantee of the right to privacy is our belief, consistent with so many of our legal and political traditions, that it is for the individual to determine the manner in which he or she will order his or her private life. It is for the individual to decide what persons or groups he or she will associate with, what books he or she will read, and so on. One does not have to look far in history to find examples of how the mere possibility of the intervention of the eyes and ears of the state can undermine the security and confidence that are essential to the meaningful exercise of the right to make such choices. Thus where the possibility of such intervention is confined to business records and documents the situation is entirely different. These records and documents do not normally contain information about one's lifestyle, intimate relations or political or religious opinions. ..."
+In July 1992 when S.I. conducted its search and seizure it also seized records from its own vaults of the accused (Ex. 101). From a review of the list of documents seized it is clear that the information seized contains a great deal of personal information with respect to the accused's lifestyle. His VISA bills disclose his personal spending habits, his receipts disclose his religious affiliation, other records disclose Alberta Health Care and drugstore transactions, all of which would disclose information concerning his health and numerous other records which disclose a great deal of information about the lifestyle of the accused and his wife. Their use in a subsequent criminal prosecution will make that information available to the public. I am satisfied that the accused had an expectation of privacy with respect to being secure against search and seizure of his home and business premises.
+141. With respect to the first search warrant that was executed on the accused's business premises in the Baumgardner matter the courts subsequently determined that the power under which the warrant was granted was unconstitutional. Thus that particular search must be considered on the basis of being a warrantless search. I am satisfied on the evidence that at least so far as the accused is concerned S.I. did not have reasonable and probable grounds that would have enabled it to obtain a search warrant with respect to the accused.
+142. With respect to the search of the accused's home and business that search warrant was obtained under powers granted under the Criminal Code. The issue then becomes was there evidence obtained as a result of a Charter breach used to obtain the warrant. A review of the Information to Obtain a Search Warrant (IOSW Ex. 76) taken by Mr. Rodgirs and his adoption of the analysis of the sources of information for that Information (Ex. 80A) make it clear that the vast majority of the information used to satisfy the requirement of reasonable and probable grounds to issue the warrant came from material gathered by S.I. in violation of the accused's s. 7 Charter rights. When that information is excluded from the IOSW it is apparent that what remains is not sufficient to meet the test of reasonable and probable grounds. Without that information the search warrant would not have been granted. Thus I have concluded that the accused's s. 8 Charter rights were violated by the search and seizure of July 22, 1992 of his home and business and by the search and seizure conducted in April 1988 by Mr. Willisko as a warrantless search to the extent that the Crown seeks to use information from that search in the prosecution of the accused.
+Should the Evidence Obtained Through the Searches Be Excluded -- the Application of s. 24(2) of the Charter?
+143. At one time the starting point in determining an answer to this question was R. v. Collins, [1987] 3 W.W.R. 699 in the Supreme Court of Canada. The test enunciated in that case has been refined in subsequent cases and distilled in a very recent decision of the Supreme Court of Canada in Stillman v. R. (1997), 113 C.C.C. (3d) 321. Mr. Justice Cory in delivering the judgment of the majority reviews the development of the law in this area, summarizes the law and then with respect to his summary says as follows at pp. 364 and 365:
+"The summary itself can be reduced to this short form:
+1. Classify the evidence as conscriptive or non-conscriptive based upon the manner in which the evidence was obtained. If the evidence is non-conscriptive its admission will not render the trial unfair and the court will proceed to consider the seriousness of the breach and the effect of exclusion on the repute of the administration of justice.
+2. If the evidence is conscriptive and the Crown fails to demonstrate on a balance of probabilities that the evidence would have been discovered by alternative non-conscriptive means, then its admission will render the trial unfair. The court, as a general rule, will exclude the evidence without considering the seriousness of the breach or the effect of the exclusion on the repute of the administration of justice. This must be the result since an unfair trial would necessarily bring the administration of justice into disrepute.
+3. If the evidence is found to be conscriptive and the Crown demonstrates on a balance of probabilities that it would have been discovered by alternative non-conscriptive means, then its admission will generally not render the trial unfair. However, the seriousness of the Charter breach and the effect of exclusion on the repute of the administration of justice will have to be considered."
+The first step that I must take is to classify the evidence as either conscriptive or non-conscriptive based upon the manner in which the evidence was obtained. It is clear in this case that all of the evidence prior to the search and seizure in July 1992 was conscriptive. I am satisfied that the accused provided the evidence under the mistaken belief that he was conscripted to do so because of the provisions of s. 231.1.
+144. Given that the evidence is conscriptive has the Crown demonstrated on a balance of probabilities that the evidence would have been discovered by alternative non-conscriptive means. In this case the evidence includes not only documents but also oral information given by the accused through statements taken from him and information obtained from him on various occasions by Revenue Canada about his own and his clients' tax affairs. The information disclosed the type, location and condition of documents or indeed the absence of such documents. When the accused became aware for the first time that he was a suspect in May 1992 his reaction was immediate. He promptly sought legal advice. On the evidence that I heard, I am satisfied that the Crown has not met the onus of demonstrating on a balance of probabilities that the evidence would have been discovered by alternative non-conscriptive means. Similarly the documents themselves while they are real evidence are documents which S.I. would not have been able to discover either the existence or location had they not used the conscriptive means of s. 231.1. In any event, I am satisfied that the Crown has failed to demonstrate on a balance of probabilities that this category of evidence would have been discovered by alternative non-conscriptive means. The result of this conclusion following from R. v. Stillman, supra, is that this evidence must be excluded since it would result in an unfair trial of the accused and that would necessarily bring the administration of justice into disrepute.
+[13] In the Appellant's argument, counsel pointed out that Mr. Rodgirs admitted in the Appellant's Examination for Discovery of him on behalf of the Respondent that the material excluded by Clarke, J. was fundamental to the reassessments of the Appellant for 1986, 1987, 1988 and 1989. But whether that was "fundamental" within the legal meaning found in O'Neill or whether the reassessments could be established by untainted evidence remains an open question to this Court.
+[14] The Appellant's application is to vacate the reassessments and not, as in the case before Clarke, J. to exclude evidence. However there are a number of aspects to this appeal under the Income Tax Act which must be considered:
+1. The assumptions may in whole or in part be based upon the evidence dealt with by Clarke, J. That is a question of evidence to be dealt with by a trial judge.
+2. If the assumptions are based on the evidence dealt with by Clarke, J.'s judgment, and that evidence is excluded, then the Appellant does not have an onus to refute them.
+3. In such a case, the Respondent may still call untainted evidence to prove that the reassessments are correct.
+4. In its Pre-Hearing Brief in this motion, the Respondent lists a number of witnesses whose names do not appear in the text of Clarke, J's judgment.
+[15] The application is to vacate the reassessments of the Appellant. Based on the material before this Court, it remains possible that they can be confirmed by a court, depending on the evidence which will be admitted at trial. In particular, there may be evidence brought before the Court at the Hearing which would not bring the administration of justice into disrepute.
+[16] Therefore the application is dismissed.
+Signed at Edmonton, Alberta, this 17th day of October 2003.
+"D.W. Beaubier"
+Beaubier, J.

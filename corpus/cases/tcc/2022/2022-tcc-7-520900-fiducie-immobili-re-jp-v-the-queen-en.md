@@ -1,0 +1,258 @@
+---
+title: "Fiducie Immobilière JP v. The Queen"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/520900/index.do"
+last_modified: "2022-02-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 7"
+citation2: ""
+neutral_citation: "2022 TCC 7"
+decision_date: "2022-02-09"
+language: "en"
+item_id: "520900"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5483
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:06:23.312000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f0ab6d535cc39af8104df0e43d56d48f35f492a330b58364280814db0d81a7b3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fiducie Immobilière JP v. The Queen
+
+- Citation: 2022 TCC 7
+- Decision date: 2022-02-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5483, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fiducie Immobilière JP v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-02-09
+Neutral citation
+2022 TCC 7
+File numbers
+2018-850(IT)G
+Judges and Taxing Officers
+Gabrielle St-Hilaire
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-850(IT)G
+BETWEEN:
+FIDUCIE IMMOBILIÈRE J.P.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 18, 2021, at Montreal, Quebec
+Before: The Honourable Justice Gabrielle St-Hilaire
+Appearances:
+Counsel for the Appellant:
+Serge Fournier
+Counsel for the Respondent:
+Anne Poirier
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2013 taxation year is dismissed, with costs to the respondent.
+Signed at Ottawa, Canada, this 9th day of February 2022.
+"Gabrielle St-Hilaire"
+St-Hilaire J.
+Translation certified true
+on this 29th day of March 2022.
+François Brunet, Revisor
+Citation: 2022 TCC 7
+Date: 20220209
+Docket: 2018-850(IT)G
+BETWEEN:
+FIDUCIE IMMOBILIÈRE J.P.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+St-Hilaire J.
+I. Introduction
+[1] The appellant, Fiducie Immobilière J.P., is appealing against an assessment made by the Minister of National Revenue (Minister) under the Income Tax Act[1] for the 2013 taxation year. The Minister denied the appellant the deduction for business investment losses related to cash advances that the appellant made to two corporations.
+[2] The appellant is an inter vivos discretionary trust established on March 28, 2003, and in 2013, Jean Pichette was its sole trustee,[2] but not its beneficiary.
+[3] On April 28, 2008, the Business Development Bank of Canada (BDC) granted a loan of $400,000 to the appellant to allow it to make a cash advance to the corporation Le Roseau Épurateur 2006 Inc. (Roseau).[3] On June 13, 2012, BDC granted a loan of $300,000 to the appellant to allow it to make a cash advance to the corporation HG Spec. Inc. (Spec).[4] The loans granted by BDC to the appellant had an interest rate that was based on BDC's floating base rate.[5] The appellant made interest-free[6] advances that were without terms of repayment to Roseau and Spec.[7] The appellant holds no shares in either Roseau or Spec.[8]
+[4] On December 31, 2013, the corporations Roseau and Spec became insolvent and were then placed under the administration of a bankruptcy trustee.[9] On that date, the balance of the advances made by the appellant to Roseau and Spec totalled $400,000 and $200,000, respectively. The appellant claimed the deduction of an allowable business investment loss in the amount of $300,000 (½ x $600,000) for the 2013 taxation year. In the appellant's 2013 reassessment, the Minister denied the claimed deduction.
+II. Issue
+[5] The issue in this case is whether the appellant can claim a business investment loss in respect of interest-free advances made to Roseau and Spec. In particular, what needs to be determined is whether the debt obligations in question were acquired for the purpose of gaining or producing income from a business or property pursuant to subparagraph 40(2)(g)(ii) of the Act.
+III. Analysis
+[6] A business investment loss is essentially a capital loss resulting from the disposition of a share or debt of a small business corporation. To claim a business investment loss, a taxpayer must meet specific conditions set out in paragraph 39(1)(c) of the Act. At the hearing, counsel for the respondent stated that she would not make any argument in respect of the conditions and that she would instead invoke the requirements of subparagraph 40(2)(g)(ii) of the Act. The Act provides that a capital loss resulting from the disposition of a debt is nil unless the debt was acquired for the purpose of gaining or producing income from a business or property. The relevant part of the provision reads as follows:
+40(2) Notwithstanding subsection 40(1),
+(g) a taxpayer's loss, if any, from the disposition of a property . . . to the extent that it is
+. . .
+(ii) a loss from the disposition of a debt or other right to receive an amount, unless the debt or right, as the case may be, was acquired by the taxpayer for the purpose of gaining or producing income from a business or property (other than exempt income) or as consideration for the disposition of capital property to a person with whom the taxpayer was dealing at arm's length,
+. . . is nil; . . .
+Positions of the parties
+[7] According to the appellant, it must be determined whether the "commercial proximity" between it and the two corporations, Roseau and Spec, is sufficient to characterize the losses suffered as business investment losses.[10] The appellant argues that it is sufficient that one of the purposes of the advances is to gain or produce income without it being the sole or the main purpose of these advances. The appellant also argues that, according to the case law, a nexus must be made between the taxpayer and a source of income and that a broad meaning must be given to the concept of nexus. If I have correctly understood the arguments of counsel for the appellant, there is a nexus between Fiducie immobilière J.P. and the two corporations, Roseau and Spec, because [translation] "everything is connected" and everything revolves around Mr. Pichette, who holds, whether directly or indirectly, or has under his control, all the shares relating to the operations of Roseau and Spec.[11] Lastly, the appellant argues that it was trying to maintain its rental income while ensuring the survival of Roseau and Spec.[12]
+[8] The respondent argues that the appellant has failed to show that the advances were made for the purpose of earning income from a business or property. The appellant held no shares in either Spec or Roseau and the advances were made interest-free and without terms for repayment; therefore, the appellant could not receive dividends or interest income. Moreover, the respondent argues that there is insufficient evidence to show that the advances were made for the purpose of generating rental income.
+Context in which the appellant made the advances and evidence at the hearing
+[9] The testimony of Jean Pichette, the only person to testify at the hearing, was generally credible. However, his testimony was incomplete to the point of being unconvincing in respect of the facts pertaining to the relevant determinative legal tests for the issue to be decided in this case.
+[10] Jean Pichette is a mechanical engineer. He is the trustee of two trusts—the appellant and the Fiducie familiale Jean Pichette—and a shareholder in a number of corporations, as can be seen in the organizational chart appended to the Reply to the Notice of Appeal. The organizational chart is included in Appendix A of these reasons.[13] Mr. Pichette holds all the common shares in four corporations including Spec, and an unspecified number of preferred shares in Roseau. The common shares in Roseau are held by Fiducie familiale Jean Pichette. Spec holds all the preferred shares in Roseau and all the common shares in two other corporations. According to the organizational chart, five of the corporations in the "group," including Roseau and Spec, are bankrupt.
+[11] Mr. Pichette explained that the [translation] "foundational" business of the group of corporations was Spec, which he had bought from his brother-in-law. He relocated the business from Laval to Blainville to set up shop in a larger building. Mr. Pichette testified that the appellant had bought a plot of land in Blainville and had a 25,000-square-foot building built. On the advice of its accountants, the appellant, Fiducie immobilière J.P., was created so that it, and not Spec, could hold the property. According to Mr. Pichette's testimony, at some point all the businesses in the group were in the same building, but Spec was the only one that had a lease.[14]
+[12] Mr. Pichette described the nature of the businesses that the various corporations operated. For example, in the beginning, Spec manufactured pressure vessels. Sometime around 2003, it sold the manufacturing business to an American corporation, but retained its product distribution activities on the Canadian market. Having negotiated with the American corporation the right to distribute the products on the Japanese market, the corporation 2440644 Canada Inc. was created for the purpose of exporting the products to Asia.
+[13] Mr. Pichette explained that Spec was very active during the winter because it was centred around hot-water heating products for buildings. He was therefore trying to diversify activities in order to increase Spec's income during the summer. He succeeded in so doing by distributing sewage pumps and aquatic garden pumps made by the American corporations Zoeller and Beckett, respectively.
+[14] A corporation by the name of Roseau Épurateur bought a number of Spec's products but had problems paying its bills. Mr. Pichette became interested in this phytofiltration business and in 2006, he created the corporation Roseau Épurateur 2006 inc. (Roseau) with the aim of buying part of the business. He bought the entire corporation the following year. Mr. Pichette explained that Roseau bought Spec's products and sold them as part of its phytofiltration business. Roseau incurred many research and development expenses and Spec financed these activities because Roseau was not economically viable.
+[15] In response to the question regarding the purpose of the advances made by the appellant, Mr. Pichette explained that the goal was to [translation] "finance Roseau's cash flow"[15] and to [translation] "keep the ship afloat"[16] for Roseau and Spec. In general, if I correctly understood his testimony, Mr. Pichette explained that, in his view, the appellant trust and the various businesses are his, and because the appellant had an asset, it was able to go get a loan to [translation] "sponsor the businesses".[17] He asserts that it was the businesses that [translation] "gave" the asset (the building) to the appellant trust and that it was therefore a bit like [translation] "the pendulum swinging back".[18] It was therefore a way for Spec and Roseau [translation] "to take back . . . a little the asset of this because I would not have been able otherwise to finance the development of HG Spec and Roseau Épurateur".[19]
+[16] In 2013, BDC asked for the loans to be repaid, and Spec and Roseau went bankrupt. Mr. Pichette explained that Roseau and Spec were experiencing financial hardship. Spec had lost its right to distribute products manufactured by Zoeller, which represented about 40% of its sales, and it appeared that aquatic gardens were losing popularity. As for Roseau, it had been impacted by the Charbonneau Commission and a number of projects could not be carried out although the costs had already been incurred.
+[17] Under cross-examination, Mr. Pichette insisted on the fact that he was an engineer, not an accountant, and that he was [translation] "not much of a director".[20] When asked whether he had written documents regarding the advances that the appellant made to Spec and Roseau, and whether there should be interest and terms for repayment, Mr. Pichette replied that he did not know.[21] He said that he needed money in Roseau and that he had no other way of getting funding. Mr. Pichette asserts that he followed the advice of his accountants, who recommended that the appellant get a loan in order to then make the advances to Spec and Roseau. He did not remember having discussed with his accountants the possibility of the appellant becoming a shareholder in Spec and Roseau. When asked what the benefit was to the appellant in making the advances interest-free, Mr. Pichette replied that it made it easy to get the money and that it was done relatively quickly.
+[18] Under cross-examination, Mr. Pichette suggested that Roseau and the other corporations were paying rent to Spec because the lease had been signed with Spec. This is odd because no lease was entered into evidence. When asked where the rental costs could be found in Roseau's financial statements for 2012, Mr. Pichette replied [translation] "[g]ood question. I couldn't tell you".[22] He suggested that the rental costs could be included in [translation] "management fees". When counsel for the respondent suggested that management fees could include administrative or accounting costs, Mr. Pichette admitted that he did not know the details of what was included in these fees. I note that counsel for the appellant did not ask any questions about Roseau's financial statements during his examination of Mr. Pichette.[23] On the basis of the evidence presented at the hearing, I am simply not able to find that Roseau paid rental costs to the appellant or to Spec.
+[19] Counsel for the appellant did not ask Mr. Pichette any questions about Spec's financial statements, or more specifically about the items in the financial statements that might have related to the rental costs, any more than he asked about Roseau's financial statements. In reference to Spec's financial statements for 2012, counsel for the respondent remarked that in the [translation] "cost of sales", we find the item "rent", but Mr. Pichette was not able to provide any useful information in that respect. There is therefore no evidence that enables me to know to what these rental costs were connected and to whom they were paid. I note that there is also an item called "rent" in the operating costs, although no questions were asked about it at the hearing. No evidence to document whether Spec had paid the rent (a cheque, electronic transfer, etc.) or showing the amount paid and the recipient of these payments was presented at the hearing and I would reiterate that no lease was entered into evidence.
+[20] At the hearing, the appellant did not enter its financial statements into evidence. Nor did it enter any kind of documentation demonstrating that it had received rental income from Roseau or from Spec.
+Application of the legal tests
+[21] To succeed, the applicant must demonstrate that it made advances to Roseau and Spec with the purpose of earning income from a business or property. Generally, an interest-bearing loan could satisfy the condition that requires that a debt be acquired for the purpose of gaining or producing income. In this case, it is common ground that the advances were non-interest bearing. However, the case law has evolved to render the application of subparagraph 40(2)(g)(ii) of the Act more flexible in certain circumstances.
+[22] In this case, both parties cite Byram v. Canada[24] in support of their positions. In Byram, the Federal Court of Appeal had to determine whether Mr. Byram could claim the loss arising from interest-free loans made to the corporation Elkhound Resources Ltd. (Elkhound). The minister did not dispute that the loans had been made for the purpose of earning income from the dividends. Writing for that court, Mr. Justice McDonald stated that "[f]requently, shareholders make such loans on an interest-free basis anticipating dividends to flow from the activities financed by the loan."[25] The Federal Court of Appeal held that Mr. Byram had the right to claim a capital loss for the loans made while he was a shareholder in Elkhound as well as for those made when he no longer had capital stock in Elkhound, but he was a shareholder in another corporation that held all of Elkhound's shares. Justice McDonald made it clear that, as a general rule, when the taxpayer has no capital stock in the debtor corporation, "the burden of demonstrating a sufficient nexus between the taxpayer and the dividend income, in such cases, will be much higher."[26]
+[23] Counsel for the appellant invokes on the following paragraphs from Byram:[27]
+21 It is equally clear that the anticipation of dividend income cannot be too remote. It is trite law that sections 3 and 4 of the Act, in conjunction with the rules set out in subdivisions (a) through (d) of division B, establish that the income of a taxpayer is to be determined on a source by source basis. Furthermore, the availability of certain deductions under the Act, including subparagraph 40(2)(g)(ii), require that some regard be given to the source of income that is relevant to the deduction. Accordingly, a deduction cannot be so far removed from its corresponding income stream as to render its connection to the anticipated income tenuous at best. This does not preclude a deduction for a capital loss incurred by a taxpayer on an interest-free loan given to a related corporation where it had a legitimate expectation of receiving income through increased dividends resulting from the infusion of capital.
+22 The shareholders of a company are directly linked to that corporation"s future earnings and its payment of dividends. Where a shareholder provides a guarantee or an interest free loan to that company in order to provide capital to that company, a clear nexus exists between the taxpayer and the potential future income. Where a loan is made for the purpose of earning income through the payment of dividends, this connection is sufficient to satisfy the purpose requirement of subparagraph 40(2)(g)(ii).
+[Notes omitted; our emphasis]
+[24] According to counsel for the appellant, as in the present case, [translation] "everything is connected, everything revolves around Mr. Pichette, who directly holds or has in his control all the shares related to the operations of HG Spec and Roseau Épurateur 2006",[28] there is sufficient, even direct, nexus between the advances and the income within the meaning of Byram.[29] He adds that the entire Pichette group must be taken into consideration to see that, in the end, the loans will also benefit 2440644 Canada Inc., a preferred shareholder in Spec and a beneficiary of the appellant. It is difficult to conceive how a given benefit for 2440644 Canada Inc. could, in and of itself, be a benefit for the appellant. Counsel for the appellant asked the Court to perform [translation] "gymnastics of intelligence and rationality"[30] to conclude that in making the advances, the appellant [translation] "saw itself in a situation wherein it could generate income".[31]
+[25] Contrary to the circumstances in Byram and to Justice McDonald's comments, in this case, the appellant trust could not have a "legitimate expectation of receiving income through increased dividends"[32] because it is not a shareholder in Roseau and Spec, or in any of the other corporations in the group of corporations to be found in the organizational chart in Appendix A. As has already been mentioned, in Byram, Justice McDonald specified that where the taxpayer does not own shares in the debtor company, but rather is a shareholder in another shareholder of the debtor company, the taxpayer is not entitled to receive dividend income directly from the debtor company and the sufficient nexus between the taxpayer and the earnings will be much more difficult to establish. In this case, not only is the appellant trust not a shareholder in Roseau or Spec, but it bears reiterating that it is also not a shareholder in any other corporation. No gymnastics or acrobatics in the world would lead me to find that the appellant could have legitimately expected dividend income by any means.
+[26] The appellant also cites an authority of this court, MacCallum v. The Queen.[33] In my opinion, that case is of no use to it. In that case, the taxpayer had guaranteed a loan for a corporation wholly-owned by his son. Madam Justice Miller found that one of the reasons that had motivated the taxpayer to guarantee the loan was that it would help his son, but, citing a case decided by the Federal Court of Appeal, Rich v. Canada,[34] she stated that this did not prevent the statutory requirements from being met because "gaining or producing income need not be the exclusive or even the primary purpose of the loan".[35] However, more relevant to the circumstances in the present case, Justice Miller concluded that, by guaranteeing the loan, the appellant was trying to protect and recover a source of considerable income for itself and for the corporation that was held by another corporation in which the appellant was the majority shareholder. In this case, no such nexus between the appellant trust and the corporations Roseau and Spec exists because the appellant holds no capital stock.
+[27] Given that it is impossible to conclude that the appellant made the advances to earn interest income or dividend income, it is appropriate to consider whether the appellant made the advances for the purpose of earning rental income, as it submits.
+[28] Counsel for the respondent submits that subparagraph 40(2)(g)(ii) of the Act does not contemplate a situation wherein the income generated by the loan takes the form of rental income. According to Ms. Poirier, this would be [translation] "stretching Byram too far".[36]
+[29] In Scott v. The Queen,[37] Mr. Justice Boyle made the following comment:
+[translation] The Court must deepen its analysis and address all the lender's actions and activities with respect to a loan to be able to conclude that the lender had as its objective to gain or produce income from the loan. For instance, it must consider whether a reasonable rate of return, in the form of interest, premiums, discounts, fees, etc. was lawfully payable for the loan and whether it was the lender's intention to collect it.
+(Our emphasis)
+[30] I agree with Justice Boyle's comments that there are no grounds for interpreting subparagraph 40(2)(g)(ii) of the Act more strictly than it was worded by Parliament. In my view, there is no justification for excluding the rental income from the wording of subparagraph 40(2)(g)(ii), which provides that the deduction is nil unless it was acquired for the purpose of earning income from a business or property.
+[31] That being said, I am particularly concerned by the absence of evidence with respect to the rental income that the appellant may have received and by the poor quality of the evidence when it comes to the rental costs that Roseau and Spec may have incurred. If there was one, the lease between Spec and the appellant was not produced as evidence at the hearing. In addition, no leases between Roseau and the appellant and between Roseau and Spec were offered. We do not know whether rent was lawfully payable to the appellant or whether the appellant had the intention of collecting it. We do not know how much rent the appellant received in the end or from whom.
+[32] During his testimony, Mr. Pichette was unable to refer to a single document showing that Roseau had incurred rental costs. Roseau's financial statements that were addressed in the examinations—the statements from 2012—do not reveal that rental costs were paid, much less to whom this rent would have been paid. Spec's financial statements for 2012 were addressed during the cross-examination of Mr. Pichette, but the evidence could not establish what the nature of the rental costs was and to whom Spec paid them, as the case may be.
+[33] In response to the Court's questions, counsel for the appellant conceded that neither Mr. Pichette's testimony nor the financial statements supported the submission that Roseau had incurred rental costs.[38] With regard to Spec, counsel for the appellant argues that Mr. Pichette's testimony is sufficient to establish that the appellant received rental income from Spec. I disagree. There is nothing in the documentary evidence discussed at the hearing that shows that Spec paid rent to the appellant. Mr. Pichette's testimony was incomplete and, in some cases, unreliable. I would reiterate that, during his testimony, and in response to questions concerning the advances, whether it was about the existence of written documents or the questions concerning the interest or the terms of repayment, Mr. Pichette answered that he [translation] "did not know". He said that Roseau paid rent to Spec and that Spec paid rent to the appellant. During cross-examination, he said that the other corporations, including Roseau, paid rent to Spec because [translation] "the lease was signed with HG Spec".[39] Yet no lease was entered into evidence. Moreover, no evidence was produced to support Mr. Pichette's assertion that Roseau paid rental costs to Spec—or to anyone else, for that matter. In all fairness to Mr. Pichette, I would reiterate his testimony that he is an engineer who is interested in the technical side of his businesses rather than the accounting side.
+[34] Counsel for the respondent argues that to prove that there was the possibility for the appellant to receive rental income, it should have presented more evidence. She states that such evidence ought to have included leases, the rental conditions and their reasonableness, the area of the building and the part used by each of the entities that occupy the building, and so on. She argued that the appellant did not discharge its burden of proof.
+[35] There is no evidence before me to the effect that the appellant made the advances for the purpose of earning legally payable rental income and that it was the appellant's intention to collect it. The appellant has not presented clear evidence of the existence of rental income. In these circumstances, I would have expected robust and convincing documentary evidence to that effect. Unfortunately, the evidence is quite simply insufficient in this case.
+IV. Conclusion
+[36] Given the terms under which the appellant made advances to Roseau and Spec, it was not entitled to interest income. Moreover, the appellant had no prospect of earning dividend income because it did not hold shares in either Roseau, Spec, or any other corporation found in the organizational chart in Appendix A. With regard to rental income, there is simply not enough evidence to show that the appellant received rental income or that Roseau and Spec paid rent and were legally bound to do so. Therefore, the appellant cannot avail itself of the exclusion set out in subparagraph 40(2)(g)(ii) of the Act. As a result, the appellant is not entitled to claim a business investment loss for the 2013 taxation year.
+[37] The appeal is dismissed with costs to the respondent.
+Signed at Ottawa, Canada, this 9th day of February 2022.
+"Gabrielle St-Hilaire"
+St-Hilaire J.
+Translation certified true
+on this 29th day of March 2022.
+François Brunet, Revisor
+CITATION:
+2022 TCC 7
+COURT FILE NO.:
+2018-850(IT)G
+STYLE OF CAUSE:
+FIDUCIE IMMOBILIÈRE J.P. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+October 18, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gabrielle St-Hilaire
+DATE OF JUDGMENT:
+February 9, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Serge Fournier
+Counsel for the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Serge Fournier
+Firm:
+BCF S.E.N.C.R.L.
+For the Respondent:
+François Daigle Deputy Attorney General of Canada Ottawa, Canada
+Target
+Source
+Fiducie Immobilière J.P.
+Fiducie Immobilière J.P.
+Settlor: Michel Trudel (Chartered Accountant)
+Constituant : Michel Trudel (Comptable agréé)
+Trustees: Jean Pichette and Gilles Buissières (resigned)
+Fiduciaires : Jean Pichette et Gilles Buissières (a démissionné)
+Beneficiaries: 2440644 Canada Inc. (went bankrupt in 2013), P.H. ENERGY RECUPERATION GROUP INC., all corporations resulted from an amalgamation of the above corporations, all having acquired the rights of one of the beneficiaries with the consent of the trustees.
+Bénéficiaires : 2440644 Canada Inc (a fait faillite en 2013), Groupe de récupération d'énergie P.H. Inc., toute personne morale issue d'une fusion des sociétés ci-haut, toute personne ayant acquis les droits d'un des bénéficiaires avec le consentement des fiduciaires.
+JEAN PICHETTE
+M. JEAN PICHETTE
+Fiducie familiale Jean Pichette
+Fiducie familiale Jean Pichette
+100% of the common shares
+100% des actions ordinaires
+Preferred shares
+Actions privilégiées
+2440644 Canada Inc.
+2440644 Canada inc.
+GREPH Inc.
+GREPH inc.
+MRP Canada Inc.
+MRP Canada inc.
+Bankrupt
+Faillite
+HG Spec. Inc.
+HG Spec inc.
+4125924 Canada Inc.
+4125924 Canada inc.
+HG Marketing Inc.
+HG Marketing inc.
+Roseau Épurateur 2006
+Roseau Épurateur 2006
+Appendix A
+Annexe A
+[1] Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (Act).
+[2] The appellant trust was established by Michel Trudel. Although there were two trustees when the trust was established, Jean Pichette was the sole trustee of the appellant in 2013.
+[3] According to the credit offer letter from BDC (Exhibit AI-1, tab 12), this loan was added to an existing loan with an unpaid balance of $904,400, and the purpose of the loan could not be amended without BDC's prior written consent.
+[4] According to the credit offer letter from BDC (Exhibit AI-1, tab 13), this loan was added to an existing loan with an unpaid balance of $1,003,290, and the purpose of the loan could not be amended without BDC's prior written consent.
+[5] The interest rate for the loan associated with the advance made to Roseau was defined as follows: [translation] "BDC's floating base rate less a difference of 0.10 (difference) per year on the unpaid amount of the loan principal. BDC's current floating base rate is 6.75% per year." See Exhibit AI-1, tab 12. The interest rate for the loan associated with the advance made to Spec was defined as follows: [translation] "BDC's floating base rate plus a difference of 0.500% per year (Difference). BDC's current floating base rate is 5.000% per year." See Exhibit AI-1, tab 13.
+[6] Partial agreed statement of facts, at para. 15.
+[7] Transcript of the hearing at 44–47 [Transcript]. The evidence did not reveal a single document attesting to the existence of any terms of repayment for the loans.
+[8] Partial agreed statement of facts, at para. 14.
+[9] Ibid at para. 13.
+[10] Transcript at 57.
+[11] Ibid at 65–68.
+[12] Ibid at 66–67.
+[13] To the extent that there are differences between the organizational chart and the agreed statement of facts, preference must be given to the organizational chart. See Transcript at page 6.
+[14] Transcript at page 11.
+[15] Ibid at page 25.
+[16] Ibid at page 24.
+[17] Ibid at page 23. See more generally 22–25.
+[18] Ibid at page 23.
+[19] Ibid.
+[20] Ibid at page 43.
+[21] Ibid at page 44.
+[22] Ibid at page 30.
+[23] Roseau's financial statements for 2009, 2011 and 2013 were included in the book of documents identified as Exhibit AI-1 and the parties agreed that all the documents therein formed part of the evidence, but no questions were asked about these financial statements during the examinations or cross-examinations.
+[24] Byram v. Canada, [1999] FCJ No. 92 at para. 23 [Byram].
+[25] Ibid at para. 17.
+[26] Ibid at para. 23.
+[27] Ibid at paras. 21–22.
+[28] Transcript at page 65.
+[29] Ibid at pages 78–79.
+[30] Ibid at page 71.
+[31] Ibid at page 72.
+[32] Byram, supra note 24 at para. 21.
+[33] MacCallum v. The Queen, 2011 TCC 316 [MacCallum].
+[34] Rich v. Canada, 2003 FCA 38 [Rich].
+[35] MacCallum, supra note 33 at para. 40, citing Rich, ibid. at para. 8.
+[36] Transcript at page 102.
+[37] Scott v. The Queen, 2010 TCC 401 at para. 15.
+[38] Transcript at page 73.
+[39] Ibid at page 29.

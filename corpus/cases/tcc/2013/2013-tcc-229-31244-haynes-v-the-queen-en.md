@@ -1,0 +1,138 @@
+---
+title: "Haynes v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31244/index.do"
+last_modified: "2013-07-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 229"
+citation2: ""
+neutral_citation: "2013 TCC 229"
+decision_date: "2013-07-12"
+language: "en"
+item_id: "31244"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5148
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:59:48.824000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d1a54d53c45312ddbf5f40a076d9e6a67a4b7a50a09ad99cb72bb36be6946208"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Haynes v. The Queen
+
+- Citation: 2013 TCC 229
+- Decision date: 2013-07-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5148, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Haynes v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-07-12
+Neutral citation
+2013 TCC 229
+File numbers
+2013-2227(IT)APP
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2227(IT)APP
+BETWEEN:
+KIRK HAYNES,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on July 5, 2013 at Edmonton, Alberta
+By: The Honourable Justice Judith M. Woods
+Appearances:
+Agent for the Applicant:
+Robert Haynes
+Counsel for the Respondent:
+Robert Neilson
+____________________________________________________________________
+ORDER
+The application for an order to extend the time within which an appeal in respect of assessments made under the Income Tax Act for the 2008 and 2009 taxation years may be instituted is dismissed. Each party shall bear their own costs.
+Signed at Toronto, Ontario this 12th day of July 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 229
+Date: 20130712
+Docket: 2013-2227(IT)APP
+BETWEEN:
+KIRK HAYNES,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+[1] Kirk Haynes applies for an extension of time to institute an appeal in respect of assessments made under the Income Tax Act for the 2008 and 2009 taxation years.
+[2] The Crown opposes the application on the grounds that Mr. Haynes has not demonstrated (1) that there are reasonable grounds for the appeal, and (2) that it would be just and equitable to grant the application. These are two of the conditions to be satisfied before this type of application can be granted (subsection 167(5) of the Act).
+[3] Subsection 167(5) provides:
+167.(5) When order to be made - No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+(Emphasis added)
+[4] Mr. Haynes’ father, Robert Haynes, represented the applicant at the hearing. One of his main arguments in response to the Crown’s submissions was to suggest that the Income Tax Act had not been validly enacted.
+[5] In my view, it is not appropriate for the Court to consider this frivolous argument. I would comment that the argument was raised for the first time at the hearing and the Crown did not have a chance to properly respond. In addition, no support for the submission was given. I would also note that section 18 of the Canada Evidence Act requires that judicial notice be taken of all Acts of Parliament. It would be an abuse of the Court’s resources to further consider the argument in these circumstances.
+[6] Turning to the submissions of the Crown, I would agree that the applicant has not demonstrated reasonable grounds for the appeal. Robert Haynes stated at the hearing that the only item in dispute is the imposition of gross negligence penalties. That is not clear on the face of the notice of appeal, and in any event there is nothing in the material before me, or stated at the hearing, that would reasonably support a conclusion that the penalties are improper.
+[7] In particular, the notice of appeal states that the Crown has the burden of proof and that the Crown has not provided any facts. It also asserts that the Minister was wrong to disallow a business loss, but the applicant is not seeking a deduction for the business loss. This does not demonstrate that the applicant has reasonable grounds for the appeal, as required by the legislation.
+[8] I also agree with the submission of the Crown that the applicant has not demonstrated that it would be just and equitable to allow the application. At the hearing, Robert Haynes requested that I provide a copy of the document that ratifies the Income Tax Act, the date of that ratification and the relevant signatures. He stated that he is trained in income tax law and that his knowledge is compatible with the approach taken by an organization known as Fiscal Arbitrators.
+[9] The approach taken by the applicant in this application has been described in detail in Meads v Meads, 2012 ABQB 571. In that decision, Rooke A.C.J. describes this type of litigant as a vexatious litigant and describes the tactics as follows, at para 1:
+[1] […] These persons employ a collection of techniques and arguments promoted and sold by “gurus” (as hereafter defined) to disrupt court operations and to attempt to frustrate the legal rights of governments, corporation, and individuals.
+[10] Taking the entire circumstances into account, the applicant has not demonstrated that it would be just and equitable to grant the application. To the contrary, I would conclude that it would be an abuse of Court resources to do so.
+[11] The application will be dismissed. Each party shall bear their own costs.
+Signed at Toronto, Ontario this 12th day of July 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 229
+COURT FILE NO.: 2013-2227(IT)APP
+STYLE OF CAUSE: KIRK HAYNES and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: July 5, 2013
+REASONS FOR ORDER BY: The Honourable Justice J.M. Woods
+DATE OF ORDER: July 12, 2013
+APPEARANCES:
+Agent for the Applicant:
+Robert Haynes
+Counsel for the Respondent:
+Robert Neilson
+COUNSEL OF RECORD:
+For the Applicant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

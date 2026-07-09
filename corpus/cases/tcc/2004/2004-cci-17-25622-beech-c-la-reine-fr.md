@@ -1,0 +1,194 @@
+---
+title: "Beech c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25622/index.do"
+last_modified: "2004-01-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 17"
+citation2: ""
+neutral_citation: "2004 CCI 17"
+decision_date: "2004-01-08"
+language: "fr"
+item_id: "25622"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2428
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:09:11.014000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8a90bf77f5c6756c08e2fce5e2b52321988939568ffd165aa8874a94259c0554"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beech c. La Reine
+
+- Citation: 2004 CCI 17
+- Decision date: 2004-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2428, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beech c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-08
+Référence neutre
+2004 CCI 17
+Numéro de dossier
+2003-2484(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI17
+Date : 20040108
+Dossier : 2003‑2484(IT)I
+ENTRE :
+BRIAN P. BEECH
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Cet appel, régi par la procédure informelle, a été entendu à Nanaimo, en Colombie‑Britannique, le 28 novembre 2003. L’appelant a témoigné et l’intimé a fait témoigner Linda Beech, l’épouse de M. Beech, ainsi que Cynthia Pacheco, la vérificatrice en charge du dossier.
+[2] Les paragraphes 4 à 12 de la réponse à l'avis d'appel indiquent :
+[TRADUCTION]
+4. En ce qui concerne les avis d’opposition qui sont joints à l’avis d’appel, il admet que :
+a) l’appelant a rempli et soumis en temps opportun ses déclarations de revenus pour toutes les années d’imposition;
+b) l’appelant tire sa principale source de revenu des services qu’il fournit en tant que bûcheron, et il inscrit les montants figurant sur le feuillet T4 à titre de revenus d’emploi sur ses déclarations de revenus;
+c) l’appelant est marié à Linda Beech (« Mme Beech »), qui ne dispose que d’un revenu de location;
+d) l’appelant exploite une société appelée Brian Beech Contracting (la « société »);
+e) l’appelant, avec l’assistance d’un aide‑comptable, prépare un état des recettes et des dépenses pour chaque année d’imposition;
+f) la société est dirigée depuis le domicile conjugal, situé au 1670 Jenkins Crescent, dans la municipalité de Nanoose Bay;
+g) l’appelant a été informé par Cynthia Pacheco, de l’Agence des douanes et du revenu du Canada, qu’elle viendrait au bureau de sa société le 9 septembre 2002 afin de vérifier ses livres et ses documents comptables;
+h) le 11 octobre 2002, la vérificatrice a informé l’appelant qu’elle proposait certains redressements pour les revenus déclarés par sa société, notamment le rejet des salaires versés à Mme Beech;
+i) l’Agence des douanes et du revenu du Canada a délivré des avis de nouvelle cotisation pour les années d’imposition 1999, 2000 et 2001, conformément à la lettre de la vérificatrice datée du 20 décembre 2002.
+5. Il nie toutes les autres allégations de fait contenues dans l’avis d’appel et ses pièces jointes.
+6. Dans ses déclarations de revenus pour les années d’imposition 1999, 2000 et 2001, l’appelant a déclaré des dépenses de 12 000 dollars, 10 000 dollars et 8 000 dollars respectivement, (les « montants en cause ») à titre de salaires payés à Mme Beech.
+7. Le ministre du Revenu national (le « ministre ») a initialement établi des cotisations à l’égard de l’appelant et a admis les montants en cause pour les années d’imposition 1999, 2000 et 2001, et ce, le 26 mai 2000, le 1er juin 2001 et le 29 avril 2002, respectivement.
+8. Le 13 janvier 2003, le ministre a établi de nouvelles cotisations à l’égard de l’appelant pour les années d’imposition 1999, 2000 et 2001, et a rejeté les montants en cause. Tous les montants déclarés, admis et rejetés pour les années d’imposition 1999, 2000 et 2001 figurent aux annexes A, B et C, respectivement, jointes à la présente réponse.
+9. L’appelant a déposé des avis d’opposition pour les années d’imposition 1999, 2000 et 2001 et, dans un avis daté du 13 juin 2003, le ministre a confirmé les nouvelles cotisations établies le 13 janvier 2003 pour les années d’imposition 1999, 2000 et 2001.
+10. Pour confirmer ses décisions pour les années d’imposition 1999, 2000 et 2001, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelant, qui est superviseur de la sécurité de l’abattage, travaille dans l'industrie forestière depuis 37 ans;
+b) pendant toutes les périodes en cause, l’appelant était employé à temps plein chez Bendickson Contractors Ltd (« Bendickson »);
+c) les revenus que l’appelant a tirés de son emploi chez Bendickson pendant les années d’imposition 1999, 2000 et 2001 étaient de 89 124,00 dollars, 85 823,20 dollars et 90 010,90 dollars, respectivement;
+d) pendant les années visées par cet appel, l’appelant exploitait également une société;
+e) la société lancée par l’appelant en 1982 louait des tronçonneuses, des haches et d’autres équipements d’exploitation forestière aux autres employés de Bendickson;
+f) l’appelant transportait l’équipement sur le site d’exploitation et le ramenait chez lui à la fin de chaque travail ou lorsqu’une réparation était nécessaire;
+g) l’appelant avait également une fourgonnette sur le site d’exploitation pour les réparations sur place;
+h) Bendickson percevait les montants de location auprès de ses employés puis les reversait à l’appelant en déduisant le prix du carburant consommé;
+i) la voisine de l’appelant était chargée de la comptabilité de celui‑ci, en consignant mensuellement des renseignements dans un grand livre manuel, en procédant aux écritures de régularisation de fin d’exercice, en préparant les états financiers et en remplissant les déclarations de revenus, y compris les déclarations de TPS;
+j) la voisine ne recevait aucune rémunération pour ses services de comptabilité;
+k) l’appelant a déclaré les montants suivants en tant que revenus tirés de sa société pour les années d’imposition 1999, 2000 et 2001 :
+Année
+Revenu d’entreprise brut
+Revenu d’entreprise net
+1999
+49 638
+498
+2000
+42 661
+689
+2001
+34 804
+259
+l) les montants en cause ont été déclarés comme dépenses dans le calcul du revenu d’entreprise net pour chaque année;
+m) il n’aurait pas été raisonnable dans ces circonstances que Mme Beech ait tiré un revenu plus important de la société que l’appelant, qui en était le propriétaire;
+n) l’appelant n’a effectué aucune retenue salariale au nom de Mme Beech et n’a préparé aucun feuillet T4 pour elle;
+o) l’appelant n’a versé aucune somme à Mme Beech;
+p) Mme Beech n’a fourni aucun service à la société.
+B. LE POINT EN LITIGE
+11. Le point en litige consiste à savoir si l’appelant a le droit de déduire les montants en cause pour les années d’imposition 1999, 2000 et 2001.
+C. LES DISPOSITIONS LÉGISLATIVES INVOQUÉES
+12. Il se fonde sur les alinéas 18(1)a) et 18(1)h), l’article 67 et le paragraphe 248(1) de la Loi de l’impôt sur le revenu (la « Loi »), et modifications, pour les années d’imposition 1999, 2000 et 2001.
+[3] Les hypothèses énoncées aux alinéas 10a), b), c), d), f), g), i), j), k), l) et n) n’ont pas été réfutées par la preuve.
+[4] En ce qui concerne le reste des hypothèses :
+e) et h)
+La société louait du matériel à Bendickson, qui payait le montant des locations.
+m)
+Cette « hypothèse » est en elle‑même une idée fausse. En effet, il existe de nombreuses petites entreprises au Canada dans lesquelles un employé reçoit un revenu plus important que le propriétaire.
+o)
+L’appelant affirme que les montants suivants ont été payés à Mme Beech par la société. Ces montants sont inscrits de la manière suivante dans les copies des documents comptables de la société qui figurent aux trois dernières pages de la pièce A‑5 (documents photocopiés non datés) :
+P1
+Transfert
+2 000,00 $
+P2
+Transfert
+4 000,00
+P3
+Sears
+3 091,67
+TH Furnishing (?)
+2 000,00
+United Carpet
+1 530,65
+TH Furnishing (?)
+819,20
+TH Furnishing (?)
+500,00
+Les « ? » ont été insérés parce que l’écriture n’est pas très lisible. Les transferts ont été effectués sur le compte joint de M. et Mme Beech. D’après le contexte du témoignage de M. Beech, les paiements indiqués à la page 3 devaient être destinés à la rénovation et au réaménagement de la cuisine familiale.
+p)
+Mme Beech a effectivement fourni des services à la société. D’après les éléments de preuve, ce n’est pas elle qui tenait les livres comptables mais la voisine. Mme Beech triait les factures, nettoyait les locaux de la société, s’occupait d’obtenir les pièces et les fournitures, répondait au téléphone et envoyait les pièces à M. Beech lorsqu’il était dans les bois avec l’équipement de la société, une vingtaine de jours par mois, dans des régions éloignées, uniquement accessibles par avion, sur la côte de la Colombie‑Britannique, pendant la saison d’exploitation forestière.
+[5] Il est reconnu en droit, dans les affaires relatives à l’impôt sur le revenu, que lorsqu’un époux emploie son épouse dans une société lui appartenant, tout doit être fait comme dans n’importe quelle autre société en ce qui concerne les employés. L’employée doit travailler selon des horaires normaux, même s’il s’agit d’un emploi à temps partiel. Il faut tenir des feuilles de temps. Le salaire doit être payé par chèque. Il doit être versé selon des périodes de paie régulières et déposé sur le compte personnel de l’employée, de manière à pouvoir reconstituer clairement le parcours de l’argent. Les retenues pertinentes doivent être faites et payées, et la société doit effectuer en temps opportun les déclarations requises aux administrations compétentes en ce qui concerne l’employée.
+[6] En l’espèce, rien de tout cela n’a été fait.
+[7] Même les deux « transferts » de 2 000 et 4 000 dollars étaient (1) des « transferts » et (2) ont été faits sur un compte joint. La cuisine était celle du couple, et non celle de Mme Beech seule, et ces paiements ne constituent pas une transaction ordinaire entre employeur et employé.
+[8] Étant donné que Mme Beech fournissait effectivement des services à la société et que la Cour constate un transfert de fonds sur le compte joint, la Cour conclut que la moitié de cet argent, soit 1 000 et 2 000 dollars, a été versée à Mme Beech. Cependant, ces versements ne lui ont pas été faits à titre d’employée mais pour les services qu’elle a fournis en tant qu’entrepreneure.
+[9] L’appel est admis et l’affaire est renvoyée au ministre pour nouvel examen et nouvelles cotisations pour les années en cause en ce qui concerne ces deux paiements, dont les dates ne figurent pas dans les pièces au dossier et qui n’ont pas fait l’objet de témoignages. Pour l’année ou les années restantes, les appels sont rejetés.
+Signé à Saskatoon (Saskatchewan), ce 8e jour de janvier 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 23e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE :
+2004CCI17
+Nº DU DOSSIER DE LA COUR :
+2003‑2484(IT)I
+INTITULÉ :
+Brian P. Beech c. La Reine
+LIEU DE L’AUDIENCE :
+Nanaimo (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 28 novembre 2003
+MOTIFS du jugement :
+L’honorable juge Beaubier
+DATE DU JUGEMENT :
+Le 8 janvier 2004
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Ed R. Heese
+Avocate de l’intimée :
+Me Shawna Cruz
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Ed. R. Heese
+Cabinet :
+E R Heese Accounting & Tax Services
+Pour l’intimée :
+Morris Rosenberg
+Sous‑procureur général du Canada
+Ottawa, Canada

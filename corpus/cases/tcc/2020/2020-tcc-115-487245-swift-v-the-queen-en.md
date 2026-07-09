@@ -1,0 +1,426 @@
+---
+title: "Swift v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/487245/index.do"
+last_modified: "2020-10-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 115"
+citation2: ""
+neutral_citation: "2020 TCC 115"
+decision_date: "2020-10-20"
+language: "en"
+item_id: "487245"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4606
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:02:12.692000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b5184cdc234ae3ba0d4a9d25c708df7f93e4c7b438739d28d0ae08b1731801da"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Swift v. The Queen
+
+- Citation: 2020 TCC 115
+- Decision date: 2020-10-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4606, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Swift v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-10-20
+Neutral citation
+2020 TCC 115
+File numbers
+2016-1566(GST)G
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-1566(GST)G
+BETWEEN:
+THOMAS SWIFT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 21 and 22, 2019, at Victoria, British Columbia
+Before: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+Counsel for the Appellant:
+J. Andre Rachert
+Counsel for the Respondent:
+Cindy Mah
+JUDGMENT
+This appeal, from the assessment made under the Excise Tax Act, notice of which was dated December 6, 2013, for the period between January 1, 2010 and December 31, 2010 inclusive, is allowed, with costs, and the assessment that is the subject of this appeal is vacated.
+The parties shall have 30 days from the date of this judgment to reach an agreement on costs and to so advise the Court, failing which the Appellant shall have a further 30 days to file written submissions on costs, and the Respondent shall have yet a further 30 days to file a written response. Any such submissions shall be limited to five pages in length. If, within the applicable time limits, the parties do not advise the Court that they have reached an agreement and no submissions are received from the parties, costs shall be awarded to the Appellant in accordance with the Tariff.
+Signed at Ottawa, Canada, this 20th day of October 2020.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2020 TCC 115
+Date: 20201020
+Docket: 2016-1566(GST)G
+BETWEEN:
+THOMAS SWIFT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. INTRODUCTION
+[1] These Reasons pertain to the Appeal by Thomas Swift in respect of a (re)assessment (the “Assessment”) issued by the Canada Revenue Agency (the “CRA”), on behalf of the Minister of National Revenue (the “Minister”), pursuant to which Mr. Swift was assessed in the amount of $85,175.13, [1] on the assumption that he was a builder, as defined in subsection 123(1) of the Excise Tax Act (the “ETA”), [2] and that he did not qualify for the personal-use exception (set out in subsection 191(5) of the ETA) from the self-supply rule (set out in subsection 191(1) of the ETA).
+II. FACTS
+[2] The Parties filed an Agreed Statement of Facts (the “ASF”), a copy of which is attached as Appendix A. In addition, Mr. Swift and his former spouse, Linda Kirkby, testified at the hearing of this Appeal.
+[3] As a young man, Mr. Swift helped his father to build a home for their family in Victoria. Ever since, for a period of more than 40 years, Mr. Swift has been involved in the construction industry, as a carpenter and as a developer. In 1997, Mr. Swift arranged for the incorporation of Tom Swift Construction Ltd. (“TSC”). Mr. Swift is the sole shareholder of TSC, a small construction company, which sometimes operates with only a few, and never more than about 24, employees and contractors.
+[4] Like many small businesses, TSC generally needed to rely on its shareholder, Mr. Swift, for financing. The typical pattern was for Mr. Swift to borrow money from the credit union (the “Credit Union”) of which he was a customer. Often the loan from the Credit Union was secured by a mortgage on Mr. Swift’s home. Mr. Swift loaned the proceeds of the Credit Union loan to TSC, which recorded it as a shareholder loan. TSC used the borrowed money to buy land and construction materials for a new subdivision or some other project, as the case may have been. TSC frequently entered into joint ventures with an entity described by Mr. Swift as Citta Investments (“Citta”) and was required to meet periodic cash calls to fulfill its obligations in respect of the joint venture. As homes were built and sold, after paying expenses, TSC repaid the shareholder loans and Mr. Swift used the funds so received to repay the respective loans from the Credit Union. Mr. Swift explained that this was a cycle that was repeated over and over, such that there would be periods when his home was heavily mortgaged and TSC was indebted to him, and other periods where, after TSC had repaid a particular shareholder loan and he had repaid the Credit Union, he was debt free.
+[5] Mr. Swift and Ms. Kirkby were married in 1990. They subsequently had two children. As well, Mr. Swift had two children from a previous marriage. From 1990 until 1994, they lived in a home that had been owned by Mr. Swift for several years before the marriage.
+[6] As will be explained in greater detail below, from 1994 to 2017 (a period of 23 years), Mr. Swift and Ms. Kirkby owned and lived in five homes in the Cadboro Bay area of Victoria, British Columbia.
+A. 3900 Scolton Road
+[7] In 1994, after purchasing a home located at 3900 Scolton Road, Mr. Swift and Ms. Kirkby undertook significant renovations before occupying it as their residence. In early 1998, due to marital difficulties, the couple briefly separated. At one point, Mr. Swift lived somewhere other than 3900 Scolton Road, but for the most part, Ms. Kirkby lived in a rented home on Pear Street, a five-minute drive from 3900 Scolton Road. While no precise dates were given during the testimony of Mr. Swift and Ms. Kirkby, at some point during the separation, they listed the home at 3900 Scolton Road for sale. In April 1998, Mr. Swift and Ms. Kirkby reconciled, and Ms. Kirkby moved back into that home. However, as the property was already listed, they did not try to cancel the listing agreement. The home at 3900 Scolton Road was sold in 1999 for $477,000, whereupon Mr. Swift, Ms. Kirkby and their children moved into a rented home, where they resided until June 2000. Mr. Swift explained that, due to the marital uncertainty following the separation and reconciliation, they decided to rent a home for a period of time, before purchasing their next home.
+B. 3921 Scolton Road
+[8] In June 2000, Mr. Swift and Ms. Kirkby purchased a home at 3921 Scolton Road, which was across the street and a short distance from their first home. It was smaller than the initial home and not as nice. While living at 3921 Scolton Road, Mr. Swift and Ms. Kirkby did not undertake any renovations to the home itself, although Mr. Swift built a small structure in the backyard, which he used as an office and workshop and which the subsequent owner used as a tool shed. They lived there until August 2004 (a period of four years and two months).
+[9] Mr. Swift and Ms. Kirkby purchased the home at 3921 Scolton Road for $285,000. They sold the home for $475,000. Mr. Swift testified that, during that particular period of time (i.e., roughly 2000 to 2004), average house prices in Victoria doubled.
+[10] After selling the home at 3921 Scolton Road, Mr. Swift, Ms. Kirkby and their family moved into a rented home, where they lived for approximately one year.
+C. 3950 Telegraph Bay Road
+[11] In 2003, TSC and Mr. Swift jointly (in a 75%/25% proportion) purchased, for a price of $752,500, a large corner lot, with a house, located at the intersection of Telegraph Bay Road and another busy street. Mr. Swift was of the opinion that the property, whose municipal address was 3950 Telegraph Bay Road, could be subdivided into four lots, with two of the lots fronting onto Telegraph Bay Road, one of the lots fronting onto the intersecting street and the fourth lot being in the back corner of the subdivided property. The two lots that did not front onto Telegraph Bay Road were designated as strata lots and shared a common driveway, which was named in the subdivision plan as Digby Place. [3] TSC and Mr. Swift paid 75% and 25% respectively of the $752,500 purchase price and the costs of arranging for the subdivision.
+[12] After the subdivision was completed, the four lots were municipally described as 3950 Telegraph Bay Road (which contained the original house), 3948 Telegraph Bay Road, 2704 Digby Place and 2708 Digby Place (which was located in the back corner of the original parcel and which Mr. Swift and Ms. Kirkby had selected as the site of their new home). After the subdivision was completed in 2004, title to 2708 Digby Place was eventually registered in the name of Mr. Swift and Ms. Kirkby in 2005, and titles to the other three lots were registered in the name of TSC.
+[13] In October 2004, TSC sold the house at 3950 Telegraph Bay Road for $442,500, without having done any work on that property.
+[14] In October 2004, TSC began to construct a house at 3948 Telegraph Bay Road and a house at 2708 Digby Place. In July 2005, TSC sold the new house at 3948 Telegraph Bay Road for $799,000. In July or August 2005, Mr. Swift and Ms. Kirkby moved into the house that TSC had constructed on the lot owned by them at 2708 Digby Place.
+[15] TSC waited four years before constructing a house at 2704 Digby Place. TSC sold that house in October 2009 for $875,000.
+D. 2708 Digby Place
+[16] As noted, Mr. Swift, Ms. Kirkby and their family moved into the house at 2708 Digby Place in July or August 2005. They lived in that house until 2010. In August 2010, they sold 2708 Digby Place for $1,140,000.
+[17] During her testimony, Ms. Kirkby said that she was very content living at 2708 Digby Place, and anticipated that it would be the family home for a lengthy and indefinite period of time.
+[18] Mr. Swift stated that he too considered the house at 2708 Digby Place to be a nice home and an adequate home. However, due to the low elevation and many trees, he found the property to be cool and dark in the late afternoon.
+E. 3957 Juan De Fuca Terrace
+[19] While walking home from a friend’s place in September 2009, Mr. Swift noticed a “For Sale” sign on a hill above 2708 Digby Place. This surprised Mr. Swift, as he had understood that the site was parkland. He was immediately interested in the property, as it was higher, brighter and warmer than the property at 2708 Digby Place. While the hillside property had a number of trees, it also had large open areas, which permitted more sunlight and greater warmth in the late afternoon. Mr. Swift soon formulated the thought of building his dream home on that parcel of land, which was located at 3957 Juan De Fuca Terrace (and which I will call the “JDF Lot”). Initially, Ms. Kirkby did not share the dream, as she was reluctant to take on more debt and to move again.
+[20] In the ensuing days or weeks, Mr. Swift and Ms. Kirkby made several visits to the JDF Lot, taking with them lawn chairs, on which they would sit, enjoy the view, drink wine and talk about building a future home there. Before long, Ms. Kirkby was persuaded, and they purchased the JDF Lot in October 2009 for $646,000.
+[21] After acquiring the JDF Lot, Mr. Swift made arrangements to construct a house (the “JDF House”) on it. Construction of the JDF House began on December 17, 2009. Mr. Swift hired TSC to provide labour, which was billed at cost by TSC to him. TSC also provided a new home warranty. Mr. Swift personally purchased the materials, engaged the sub-trades and did much of the construction work himself, with the help of his son. [4] The JDF House was designed with a stand-alone rental suite in the basement (with a separate entrance to the outdoors) for use by tenants, and an extra bedroom and bathroom in the basement, for use by the upstairs occupants. Mr. Swift, Ms. Kirkby and their family moved into the basement (both the suite and the extra bedroom and bathroom) on August 1, 2010, while waiting for the main floor to be completed. On November 2, 2010, an occupancy permit was issued and Mr. Swift, Ms. Kirkby and their family moved up to the main floor and rented out the basement suite to a tenant. The landscaping, driveway, sidewalks, patios, rock walls and irrigation system were completed between November 2, 2010 and October 15, 2011. [5]
+[22] Due to a severe financial setback (which will be discussed below), in 2012 the JDF Lot and the JDF House (together, the “JDF Property”) were listed for sale. The JDF Property was ultimately sold in June 2013, apparently with a closing date of October 20, 2013, for a price of $1,700,000. The purchasers were not ready to take possession of the property; therefore, Mr. Swift, Ms. Kirby and their children continued to live at the JDF Property until the spring of 2014.
+[23] In a GST/HST New Housing Rebate Application dated November 2, 2010, Mr. Swift indicated that the then fair market value of the JDF Property was $1,443,000. However, before the hearing of the Appeal commenced, the Parties reached an agreement that the time contemplated by paragraphs 191(1)(d) and (e) of the ETA occurred on November 2, 2010 (i.e., the date when Mr. Swift, Ms. Kirkby and their family moved up to the main floor of the JDF Property), and that the fair market value of the JDF Property at that time was $1,295,000 (exclusive of HST). [6]
+F. 2766 Tudor Avenue
+[24] In November 2013, Mr. Swift and Ms. Kirkby purchased a house located at 2766 Tudor Avenue, to which they moved when they left the JDF Property. The purchase price was $885,000. The house was not in good condition; parts of it were mouldy. As well, the house had an ungainly wing, which Mr. Swift removed from the house. Other renovations were done, as well.
+[25] The earlier matrimonial difficulties returned; Mr. Swift and Ms. Kirkby separated in 2016 and divorced in 2017. As part of the dissolution of the matrimonial estate, in July 2017 Mr. Swift and Ms. Kirkby sold the Tudor Avenue house for $1,900,000.
+III. ISSUES
+[26] The issues in this Appeal are:
+a) Was Mr. Swift a builder (as defined in subsection 123(1) of the ETA) of the JDF Property?
+b) If Mr. Swift was a builder of the JDF Property and if the self-supply rule in subsection 191(1) of the ETA would otherwise have become applicable when Mr. Swift occupied the JDF Property as a place of residence, as contemplated by subsection 191(1) of the ETA, was the personal-use exception in subsection 191(5) of the ETA available to Mr. Swift?
+IV. ANALYSIS
+[27] By way of general overview, if an individual who is not a builder (as defined in subsection 123(1) of the ETA) builds a house for personal use (i.e., not in the course of a business or an adventure in the nature of trade), no GST is exigible. If a builder builds a house for sale to a buyer, the builder is required to collect GST from the buyer in respect of the consideration paid by the buyer for the house. If the builder is an individual and if the builder occupies the house before selling it to a buyer, the self-supply rule in subsection 191(1) of the ETA may require the builder to self-assess and pay GST/HST in respect of the fair market value of the house. However, if the builder builds the house and uses it primarily as a place of residence for himself or herself, and not primarily for some other purpose, the personal-use exception in subsection 191(5) of the ETA precludes the application of the self-supply rule. [7]
+A. Was Mr. Swift a Builder, as Defined in Subsection 123(1)?
+[28] In 2013, when Mr. Swift sold the JDF Property, subsection 123(1) of the ETA defined “builder” as follows:
+“builder” of a residential complex … means a person who
+(a) at a time when the person has an interest in the real property on which the complex is situated, carries on or engages another person to carry on for the person
+(i) [n/a],
+(ii) [n/a], and
+(iii) in any other case, the construction or substantial renovation of the complex, …
+but does not include
+(f) an individual described by paragraph (a) … who
+(i) carries on the construction or substantial renovation,
+(ii) engages another person to carry on the construction or substantial renovation for the individual, or
+(iii) acquires the complex or interest in it,
+otherwise than in the course of a business or an adventure or concern in the nature of trade….
+[29] As Mr. Swift, at a time when he had an interest in the JDF Lot, constructed, and engaged TSC to assist in constructing, the JDF House, he was, by reason of paragraph (a) in the definition of “builder” in subsection 123(1) of the ETA, a builder of the JDF Property, unless he came within the exclusion set out in paragraph (f) of that definition. As Mr. Swift is an individual, he qualified for the exclusion unless he carried on the construction, or engaged TSC to carry on the construction, of the JDF House in the course of a business or an adventure or concern in the nature of trade.
+[30] While the respective definitions of the word “business” in the ETA and in the Income Tax Act (the “ITA”) [8] have certain similarities, there are also differences between the two definitions. Most notably, the definition of “business” in the ITA states that, except for certain specified purposes, the word “business” includes an adventure or concern in the nature of trade; however, the definition of “business” in the ETA does not contain that particular inclusion. For the purposes of these Reasons, without making a definitive decision in this regard, I will assume that the word “business,” as defined in the ETA, does not include an adventure or concern in the nature of trade. That assumption is consistent with the drafting structure in the concluding portion of paragraph (f) of the definition of “builder” quoted above. [9]
+[31] Based on my evaluation of the evidence, it is clear that, after TSC was incorporated in 1997, Mr. Swift’s former development and construction business activities were carried on through TSC, rather than by him personally. As noted above, TSC frequently entered into joint ventures with Citta. There was no evidence that, after 1997, Mr. Swift personally entered into joint ventures with Citta or undertook development or construction projects as a sole proprietor. Accordingly, I find that Mr. Swift did not, in the course of a business, construct, or engage TSC to construct, the JDF House. While TSC assisted in constructing the JDF House in the course of a business (i.e., its own business), Mr. Swift did not.
+[32] Turning to the question of whether Mr. Swift, in constructing the JDF House, may have participated in an adventure or concern in the nature of trade, it is helpful to review some of the leading jurisprudence in this area. In Happy Valley Farms, Justice Rouleau noted that the most comprehensive analysis of the meaning of the term “adventure in the nature of trade” [10] was given in the Taylor case. [11] Referencing Taylor, Justice Rouleau stated:
+13. … The most comprehensive analysis of the meaning of “adventure in the nature of trade” is found in Minister of National Revenue v. Taylor, … where the Court set out a number of tests to be applied to determine when a transaction, which is not itself a trade or business, can be held to be “an adventure or concern in the nature of trade”. The [Taylor] decision makes it clear that the question to be answered … is, was the asset acquired by the taxpayer as an investment or was it not…. Whether an asset was acquired as an investment is to be determined by all the facts of a particular case including, the course of conduct of the taxpayer, the nature of the subject property, the probability of the asset producing income without the need to be turned over and the similarity of the transaction in question to a trading transaction. [12]
+[33] Justice Rouleau then proceeded to enumerate his own list of six factors (or tests, as he called them), taken from various cases, to be used in determining whether a gain is of an income or capital nature. Those factors or tests are also relevant in determining whether a particular gain or loss is derived from an adventure in the nature of trade, or whether a particular transaction or series of transactions is an adventure in the nature of trade. The six phrases that he used to identify those factors are listed below (without the elaborating comments provided by Justice Rouleau in respect of each factor):
+a) the nature of the property sold;
+b) the length of period of ownership;
+c) the frequency or number of other similar transactions by the taxpayer;
+d) work expended on or in connection with the property realized;
+e) the circumstances that were responsible for the sale of the property; and
+f) motive or intention. [13]
+[34] Justice Rouleau then stated the following about motive or intention, which is the last item in the above list:
+15. While all of the above factors have been considered by the courts, it is the last one, the question of motive or intention[,] which has been most developed. That, in addition to consideration of the taxpayer’s whole course of conduct while in possession of the asset, is what in the end generally influences the finding of the court.
+16. This test has been carried one step further by Canadian courts into what has generally been referred to as the “secondary intention” test. This has meant, in some cases, that even where it could be established that a taxpayer’s main intention was investment, a gain on the sale of the asset would be held taxable as income if the court believed that, at the time of acquisition, the taxpayer had in mind the possibility of selling the asset if his investment project did not, for whatever reason, materialize. [14] [Emphasis in original.]
+[35] In the Canada Safeway case, the Federal Court of Appeal explained the “secondary intention” test in this manner:
+A number of principles emerge from these decisions which I believe can be summarized as follows. First, the boundary between income and capital gains cannot easily be drawn and, as a consequence, consideration of various factors, including the taxpayer’s intent at the time of acquiring the property at issue, becomes necessary for a proper determination. Second, for the transaction to constitute an adventure in the nature of trade, the possibility of resale, as an operating motivation for the purchase, must have been in the mind of the taxpayer. In order to make that determination, inferences will have to be drawn from all of the circumstances. In other words, the taxpayer’s whole course of conduct has to be assessed. Third, with respect to “secondary intention”, it also must also [sic] have existed at the time of acquisition of the property and it must have been an operating motivation in the acquisition of the property. Fourth, the fact that the taxpayer contemplated the possibility of resale of his or her property is not, in itself, sufficient to conclude in the existence of an adventure in the nature of trade. In Principles of Canadian Income Tax Law, … the learned authors, in discussing the applicable test in relation to the existence of a “secondary intention”, opine that “the secondary intention doctrine will not be satisfied unless the prospect of resale at a profit was an important consideration in the decision to acquire the property” …. I agree entirely with that proposition. Fifth, the viva voce evidence of the taxpayer with respect to his or her intention is not conclusive and has to be tested in the light of all the surrounding circumstances. [15]
+[36] Ms. Kirkby and Mr. Swift were credible and reliable witnesses. Their oral evidence supported their position that the possibility of reselling the JDF Property was not an operating motivation for the purchase and construction by Mr. Swift and Ms. Kirkby of that property, and that, at the time of acquiring the JDF Property, a secondary intention to sell it was not an operating motivation in the acquisition. However, as noted above, such oral evidence is not conclusive and must be tested in the light of all the surrounding circumstances.
+[37] A convenient manner in which to examine those circumstances is to consider the list of factors identified by Justice Rouleau in Happy Valley Farms, as set out in paragraph 33 above.
+(1) Nature of the Property
+[38] Beginning with the nature of the JDF Property, it was (after the construction was completed) a lot with a house, intended to be occupied as a residence, i.e., for personal enjoyment. In fact, Mr. Swift referred to it as his dream home. [16] He described the JDF Lot as “a gorgeous piece of property,” [17] which he “just loved,” [18] and which was “a much warmer place to live” than 2708 Digby Place. [19] Before purchasing the JDF Lot, Mr. Swift and Ms. Kirkby often visited the lot, where they kept camp chairs, drank wine, and watched the sun set. [20] Mr. Swift built “a custom high-end house” on the JDF Lot. [21] These facts suggest that the JDF Property was acquired for personal enjoyment, and not for the purpose of sale. [22] A further indication of the personal-enjoyment element was that the JDF House was designed and custom built according to the preferences of Mr. Swift and Ms. Kirkby and the needs of their family. [23] For instance, the house was designed for large family gatherings; [24] the bedrooms for the daughters of Ms. Kirkby and Mr. Swift were “quite separate” from the master suite and had their own bathroom; [25] the lights, fixtures and colours in the daughters’ bedrooms and bathroom were chosen by the daughters; [26] the house had several decks, including a small deck off the daughters’ bedrooms; [27] there was an extra bedroom and bathroom (as well as a rental suite) in the basement; [28] rather than putting the laundry room in the basement, it was located on the main floor between the master bedroom and the daughters’ bedrooms; [29] there was a utility bathroom located for easy access from outside; [30] there was a cat door into the kitchen; [31] and there was a large tiled entrance to accommodate their dog’s bed, food (and water) bowls, and dirty paws. [32]
+(2) Length of Period of Ownership
+[39] Turning to the length of the period of ownership, Justice Rouleau noted that, while there are many exceptions, generally property meant to be dealt in (i.e., sold) is realized within a short time after acquisition. [33] That was not the case here. The JDF Lot was acquired by Mr. Swift and Ms. Kirkby in October 2009, the JDF House was constructed between December 2009 and November 2010, and the JDF Property was sold in June 2013, with a closing date of October 30, 2013. By way of contrast, Mr. Swift testified that the general practice of TSC, after it had constructed a building, was to sell the building as quickly as it could. [34]
+(3) Frequency or Number of Similar Transactions
+[40] Concerning the third factor (i.e., the frequency or number of other similar transactions), Justice Rouleau noted that, if the same sort of property has been sold in succession over a period of years, a presumption arises that there has been dealing in respect of the property. [35] During the period covered by the ASF (a 23-year period from 1994 to 2017), Mr. Swift and Ms. Kirkby bought and sold five homes, with the five sales occurring in 1999, 2004, 2010, 2013 and 2017 respectively. While that succession of purchases and sales might suggest that the presumption described by Justice Rouleau may be applicable, the frequency of sales in this Appeal is significantly less than the frequency in many other appeals. For instance, in Wall the taxpayer sold the first house in question after owning it for approximately 16 months, the second house after owning it for approximately 21 months and the third house after owning it for approximately 16 months. [36]
+(4) Work Expended on the Property
+[41] In commenting on the fourth factor (i.e., work expended on the property), Justice Rouleau stated that, if effort is put into bringing a property into a more marketable condition during the period of ownership, there is some evidence of dealing in the property. [37] It is readily apparent that Mr. Swift and Ms. Kirkby made the JDF Lot more marketable by constructing an upscale house on the lot. Similarly, with the possible exception of the property located at 3921 Scolton Road (where Mr. Swift’s only work was to construct a workshop or office in the backyard), Mr. Swift either made significant renovations to, or constructed (or engaged TSC to construct) a house on, each of the properties discussed above. Thus, this factor could be viewed as some evidence of dealing in residential properties.
+(5) Circumstances Responsible for the Sale of the Property
+[42] Turning to the fifth factor, the circumstances that were responsible for the sale of the property, Justice Rouleau stated that there “may exist some explanation, such as a sudden emergency or an opportunity calling for ready money, that will preclude a finding that the plan of dealing in the property was what caused the original purchase.” [38] That was the situation in respect of the JDF Property, as well as each of the other properties owned by Mr. Swift and Ms. Kirkby.
+[43] Mr. Swift explained that the recession that hit other parts of North America in 2008 arrived late in Victoria. As a small construction company, TSC was particularly vulnerable. In previous years, the profitability of TSC had been cyclical. While purchasing land and materials for a new subdivision or some other project, TSC usually showed only modest profits or the occasional loss. Then, in the year in which the subdivision or project was completed and the houses were sold, TSC realized larger profits, enabling it to repay bank debt and have some available cash for the next project. However, that cycle was interrupted in 2010, which marked the first of three consecutive loss years for TSC. [39] Initially, Mr. Swift had thought that TSC’s poor financial performance in 2010 was simply part of the normal cycle and that there would be a turnaround in 2011 or 2012. [40] However, as it turned out, in 2011 and 2012 TSC continued to incur losses. [41]
+[44] I accept the evidence of Mr. Swift and Ms. Kirkby that the reason for selling the JDF Property was the difficult financial circumstances in which TSC and they found themselves as a result of the downturn in the construction industry in Victoria in 2012 and 2013. [42] During this challenging time, in an attempt to keep the business of TSC viable, Mr. Swift had borrowed heavily and loaned the borrowed funds to TSC. [43] When the debt servicing became too onerous, and Mr. Swift feared that bankruptcy was a possibility, [44] Mr. Swift and Ms. Kirkby sold the JDF Property and used the proceeds to pay down bank debt and to purchase a home worth only half the value of the JDF Property.
+[45] I also accept the explanations given for the sales of the other residential properties owned by Mr. Swift and Ms. Kirkby, to the effect that:
+a) the property at 3900 Scolton Road was sold due to the separation in 1998 of Mr. Swift and Ms. Kirkby and the subsequent uncertainty after their reconciliation as to the longevity of their marriage;
+b) the property at 3921 Scolton Road was sold because of the opportunity to purchase 3950 Telegraph Bay Road, which called for ready money, which was obtained by the sale of 3921 Scolton Road;
+c) the property at 2708 Digby Place was sold because Mr. Swift had unexpectedly come upon an opportunity to purchase the vacant JDF Lot and build their dream home, which called for ready money; and
+d) the property at 2766 Tudor Avenue was sold due to the divorce of Mr. Swift and Ms. Kirkby and the need to dissolve the matrimonial estate.
+(6) Motive or Intention
+[46] Concerning the sixth factor, motive or intention, Justice Rouleau stated that a taxpayer’s intention at the time of acquiring a property, “as inferred from surrounding circumstances and direct evidence[,] is one of the most important elements in determining whether a gain is of a capital or income nature.” [45] I accept the stated intention of Mr. Swift and Ms. Kirkby, as given in their oral testimony (which I found to be consistent with the surrounding circumstances and other evidence), that their motive or intention in purchasing the JDF Lot was to build their dream home, where they intended to reside on a long-term basis. [46] While Mr. Swift “just loved” the JDF Lot when he first realized that it was for sale, it took Ms. Kirkby longer to buy into the dream, as she was reluctant to take on more debt and to move again, [47] even though Mr. Swift “started getting excited about building this dream house, this west coast modern style dream house thing.” [48] However, as she visited the lot, with its rocks, Garry oaks and moss, which “[she] loved,” and talked with Mr. Swift about how he could build their dream home, “where it would be and how it would look,” and viewed some drawings which Mr. Swift had started, showing a new “west coast modern style,” which, to her, “looked cool,” she “eventually … bought the dream too.” [49]
+(7) Summary
+[47] While the fact that Mr. Swift improved, renovated or built a house on each of the above properties [50] is some evidence of dealing in residential properties, the other factors (i.e., the nature of each property, the length of ownership, the frequency or number of transactions, the circumstances responsible for the sale of each property, and the motive or intention in buying the JDF Property and the other properties) are consistent with a personal-enjoyment intention, rather than a sale intention.
+(8) Other Circumstances
+[48] During Ms. Kirby’s cross-examination, she stated that, when she viewed the property at 2766 Tudor Avenue (after having realized the need to sell the JDF Property), she loved the property, as it was in a good area and had a good price. As well, in her mind, the property was subdividable, which helped to alleviate some of her financial concerns because she thought that, when she and Mr. Swift retired, they could subdivide the Tudor Avenue property and sell part of it to have some money for their retirement. [51] The evidence was not sufficient to establish that the possibility of a future subdivision of the Tudor Avenue property was an operating motivation or an important consideration in the decision to acquire that property. Furthermore, although the thought of subdivision was in the mind of Ms. Kirkby, there was no evidence of Mr. Swift having a similar thought in respect of the Tudor Avenue property. In addition, even if the thought or intention of a subdivision did apply in respect of the Tudor Avenue property, that intention is not transferrable to the JDF Property. [52]
+[49] During the hearing, evidence was presented as to the mortgage financing that was regularly used by Mr. Swift and Ms. Kirkby. Generally, each of their homes was subject to a significant mortgage. I do not consider the use by Mr. Swift of mortgage financing as an indication that he engaged in an adventure in the nature of trade when he and Ms. Kirkby acquired the JDF Property. As noted above, the typical pattern for Mr. Swift throughout his business career was to use the equity in his home as security for institutional financing, which he re-loaned to TSC for its business purposes. This is a pattern common to many small business owners and, in my view, does not suggest that the purchase of a home and the granting of a mortgage in respect of that home is indicative of an adventure in the nature of trade. Many Canadians, even those who do not own a small business, have mortgages on their homes.
+[50] It should also be noted that some of the mortgages granted by Mr. Swift to the Credit Union had a face amount significantly greater than the amount advanced by the Credit Union under the particular mortgage. [53] It is not unusual for a financial institution to request (or insist) that the face amount of a mortgage be greater than the amount that the mortgagor initially intends to borrow. Such a practice enables additional loan advances to be made in the future, without the need to register a new mortgage. Therefore, I do not consider the discrepancy between the face amount of some of the mortgages granted by Mr. Swift to the Credit Union and the amount actually advanced by the Credit Union as being indicative of an adventure in the nature of trade.
+[51] Accordingly, I find that the series of transactions consisting of the purchase of the JDF Lot in 2009, the construction of the JDF House in 2010 and the sale of the JDF Property in 2013 was not an adventure in the nature of trade. Consequently, Mr. Swift was not a builder (as defined in subsection 123(1) of the ETA) of the JDF Property.
+B. Self-Supply Rule in Subsection 191(1)
+[52] In case I am wrong in my conclusion that Mr. Swift was not a builder of the JDF Property, I will consider whether he is subject to the self-supply rule in subsection 191(1) of the ETA. In 2013, the relevant portions of that subsection were as follows:
+191(1) For the purposes of this Part, where
+(a) the construction … of a residential complex that is a single unit residential complex … is substantially completed,
+(b) the builder of the complex
+(i) [n/a],
+(ii) [n/a], or
+(iii) where the builder is an individual, occupies the complex as a place of residence, and
+(c) the builder … is the first individual to occupy the complex as a place of residence after substantial completion of the construction …,
+the builder shall be deemed
+(d) to have made and received, at the later of the time the construction … is substantially completed and the time … the complex is so occupied by the builder, a taxable supply by way of sale of the complex, and
+(e) to have paid as a recipient and to have collected as a supplier, at the later of those times, tax in respect of the supply calculated on the fair market value of the complex at the later of those times.
+[53] If Mr. Swift was a builder of the JDF Property, the other criteria of the self‑supply rule in subsection 191(1) of the ETA were satisfied (i.e., the construction of the JDF House was substantially completed on or before November 2, 2010, Mr. Swift (who is an individual) occupied the JDF House as a place of residence on or before November 2, 2010, and he was the first individual to occupy the JDF House as a place of residence after substantial completion of its construction). Thus, if Mr. Swift was a builder of the JDF Property, subsection 191(1) would require the self-assessment and remittance of GST/HST. Accordingly, it becomes necessary to determine whether the exception for personal use, as set out in subsection 191(5) of the ETA, was applicable.
+C. Personal-Use Exception in Subsection 191(5)
+[54] Subsection 191(5) of the ETA sets out an exception to the self-supply rule in subsection 191(1) of the ETA, provided that certain requirements are met. In 2013, subsection 191(5) read as follows:
+191(5) Subsections (1) to (4) do not apply to a builder of a residential complex … where
+(a) the builder is an individual;
+(b) at any time after the construction … of the complex … is substantially completed, the complex is used primarily as a place of residence for the individual, an individual related to the individual or a former spouse or common-law partner of the individual;
+(c) the complex is not used primarily for any other purpose between the time the construction … is substantially completed and that time; and
+(d) the individual has not claimed an input tax credit in respect of the acquisition of or an improvement to the complex.
+Where subsection 191(5) applies, if an individual who is a builder and who has, without claiming ITCs, constructed a house for personal use, i.e., primarily as a place of residence, the self‑supply rule in subsection 191(1) does not apply.
+[55] In paragraph 29 of the Notice of Appeal, Mr. Swift alleged that neither he nor Ms. Kirkby claimed any ITCs in respect of the construction of the JDF House. That statement was admitted by the Crown in paragraph 2 of the Reply. Thus, it is my understanding that Mr. Swift did not claim any ITCs in respect of the acquisition and construction of the JDF Property. [54]
+[56] To ascertain whether the personal-use exception to the self-supply rule is available, the main issue to be determined is whether the JDF Property was used primarily as a place of residence for Mr. Swift, Ms. Kirkby and their family (see paragraph 191(5)(b) of the ETA) or whether the JDF Property was used primarily for any other purpose (see paragraph 191(5)(c) of the ETA), such as inventory held in respect of a business or property that was the subject of an adventure in the nature of trade. [55]
+[57] With respect to the personal-use exception, counsel for the Crown referred me to the Lacina, [56] Nagra, [57] and Martinuzzi cases. [58] Those cases dealt with builders who constructed houses, which they occupied for very short periods of time, usually measured in months, rather than years, such that those cases are distinguishable from Mr. Swift’s situation, as he and Ms. Kirkby resided in each of their homes for a period of three to five years.
+[58] Although the facts of Lacina are not on all fours with the facts in this Appeal, that case does assist in interpreting and applying paragraphs 191(5)(b) and (c) of the ETA. In the decision of the Federal Court-Appeal Division, Justice Heald stated the following:
+16. There remains for consideration the question as to whether criteria (b) and (c) [in subsection 195(5)] have been met in the circumstances of this case. It is the submission of the applicant that the word “primarily” as used in ss. 191(5) refers to the amount of space dedicated to a residence and not the enduring quality of the residence therein. On the other hand, the respondent submits that, used in this context, the word “primarily” refers to a personal intention to live there permanently and not to use the property as stock-in-trade or, in other words, as a disposable asset.
+17. I agree with the interpretation suggested by counsel for the respondent. The self‑supply rules are designed to prevent a builder from gaining any advantage from occupying the residential complex, which is a part of his inventory, for a short time before selling it. [59]
+[59] With respect to the above statement by Justice Heald, I interpret the phrase “a personal intention to live there permanently” as referring to an intention to live in a particular dwelling on an indefinite basis. It is not uncommon in our society for an individual, upon retiring from the work force, to downsize and move into a smaller home, then into an assisted-living facility and perhaps ultimately into a nursing home. I do not think that an individual who foresees such a sequence would fail to satisfy the criteria contemplated by paragraph 191(5)(b) of the ETA.
+[60] In a concurring decision in Lacina, Justice Marceau stated:
+22. In my respectful view, the suggestion by the applicant that the expression [i.e., “primarily as a place of residence”] refers strictly to the amount of space in the house used as a personal residence, and not to the enduring quality of the use thereof, is simply unsound. The applicant’s interpretation of the expression makes little sense in light of Parliament’s legislative intent in enacting the personal use exemption, which is to treat a builder who exceptionally builds for himself in the same manner as if he was not a builder by exempting him from the self-supply rule; a provision which has as its very purpose the elimination of any tax advantage which could otherwise be gained by a builder by occupying a residential complex for a short period of time before selling it. Only by interpreting the word “primarily” as referring to the primary intention of the builder to use the house as his personal residence, and not merely as a stock-in-trade, do we have a consistent taxation regime with the following general rules founded upon a principled line between residential real estate transactions that attract GST liability and those that do not:
+• Any individual who self-builds a house for personal use, whether (s)he is classed as a “builder” under the Act or not, is exempt from GST liability on the additional value of assembly and construction, although GST would still have to be paid on the inputs purchased. If the individual is not a “builder”, (s)he falls outside of the self-supply rule in ss. 191(1). If the individual is a “builder”, (s)he is exempted by virtue of ss. 191(5).
+• A “builder” who builds a house for sale to a third party buyer has to collect GST on the sale at fair market value, whether or not the builder occupies the house temporarily before sale. If it is a direct sale, the builder must collect GST from the buyer. If the builder occupies the house first, the builder must collect GST from him- or herself as a deemed sale under the self-supply rules. The subsequent sale to the buyer would then be an exempt supply. In either case, the builder is entitled to claim input tax credits to reduce the GST liability. [60]
+[61] In the Coates case, Justice Hogan provided the following explanation in respect of subsection 191(5) of the ETA:
+13. It is important to note that the tests outlined in the Happy Valley Farms case have no bearing on the determination as to whether or not the exception in subsection 191(5) applies. I make this comment because counsel for the Respondent relies on a number of cases that, I believe, fail to acknowledge this.
+14. The wording of subsection 191(5) makes it clear that a different test must be applied. That provision requires that the property actually be used first by the individual (who is a builder as defined) as a place of residence. That involves a simple factual determination as to whether or not the property was used as a family home after it was substantially completed. A secondary intention to resell the property at a later date is irrelevant to the determination as to whether or not the exception applies.
+15. By definition, an individual is a builder only if the property was built in the course of a business or an adventure in the nature of trade. If the home was constructed by the individual purely for personal reasons, the “self-supply” rule does not apply in the first instance. The exception only comes into play after an individual has been found to be a builder. Therefore, the exception cannot be interpreted as requiring that the property have been built only for purely personal reasons. This means that an individual can benefit from the exception even if he has the secondary intention, at the time of its construction, of reselling the property, provided he actually uses it as a place of residence after the construction is completed. [61] [Footnote omitted.]
+[62] As indicated above, I have found that Mr. Swift was not a builder. However, if that finding is incorrect, the evidence clearly establishes that Mr. Swift, Ms. Kirkby and their family resided in the JDF Property as their family home. In other words, they used the JDF Property primarily as a place of residence. Thus, Mr. Swift has satisfied the test enunciated in Coates.
+[63] While the test set out in Coates is not worded precisely the same as the test set out in Lacina, even under the Lacina test, Mr. Swift qualifies for the personal-use exception in subsection 191(5) of the ETA. Based on my understanding of the evidence, when Mr. Swift and Ms. Kirkby, with their family, moved into the JDF Property, they intended to reside there on an indefinite basis. In other words, they expected that there would be an enduring quality to their use of the JDF Property. For the purposes of the Lacina factors, the primary intention of Mr. Swift and Ms. Kirkby was to use the JDF Property as their personal residence, and not merely as a stock-in-trade. There was no evidence to suggest that Mr. Swift and Ms. Kirkby held the JDF Property as inventory in respect of a business or as the subject of an adventure in the nature of trade.
+[64] To summarize, it is my finding that:
+a) for the purposes of paragraph 191(5)(b) of the ETA, after the construction of the JDF House was substantially completed, until it was sold, it was used primarily as a place of residence for Mr. Swift, Ms. Kirkby and their children; and
+b) for the purposes of paragraph 191(5)(c) of the ETA, the JDF House was not used primarily for any other purpose (other than as a place of residence) between the time that its construction was substantially completed and the time that it was sold.
+[65] Accordingly, if my finding that Mr. Swift was not a builder of the JDF Property is not correct, he nevertheless qualified for the personal-use exception in subsection 191(5) of the ETA.
+CONCLUSION
+[66] The Appeal is allowed, with costs, and the Assessment is vacated.
+[67] The Parties shall have 30 days from the date of the Judgment in respect to this Appeal to reach an agreement on costs and to so advise the Court, failing which Mr. Swift shall have a further 30 days to file written submissions on costs, and the Crown shall have yet a further 30 days to file a written response. Any such submissions shall be limited to five pages in length. If, within the applicable time limits, the Parties do not advise the Court that they have reached an agreement and no submissions are received from the Parties, costs shall be awarded to Mr. Swift in accordance with the Tariff.
+Signed at Ottawa, Canada, this 20th day of October 2020.
+“Don R. Sommerfeldt”
+Sommerfeldt J
+APPENDIX A
+2016-1566(GST)G
+TAX COURT OF CANADA
+THOMAS SWIFT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent
+AGREED STATEMENT OF FACTS
+1. Mr. Swift is the sole shareholder of Tom Swift Construction Ltd. (the “Corporation”), and has been in the construction industry for over 40 years.
+2. Mr. Swift’s former spouse is Linda Kirkby.
+3. Mr. Swift and Ms. Kirkby have owned properties in the Cadboro Bay area in Victoria,
+B.C., either through the Corporation or in their individual capacity, including:
+(a) In 1994 Mr. Swift and Ms. Kirkby purchased 3900 Scolton Road and lived in the home as a residence. The residence was renovated after they moved in. The
+couple separated in 1998.
+(b) Ms. Kirkby rented a home on Pear Street and lived there until the couple
+reconciled in April 1998.
+(c) In 1999, Mr. Swift and Ms. Kirkby sold 3900 Scolton Road for $477,000.
+(d) After 3900 Scolton Road was sold, Mr. Swift and his family lived in a rental
+residence until June 2000.
+(e) In June 2000, Mr. Swift and Ms. Kirkby purchased 3921 Scolton Road for
+$285,000 and lived there until August 2004. 3921 Scolton Road was sold for
+$475,000.
+4. After selling 3921 Scolton Road, Mr. Swift and his family moved into a rental residence
+where they lived for approximately one year.
+3950 Telegraph Bay Road
+5. In 2003, the Corporation and Mr. Swift jointly, on a 75/25 basis, purchased the Telegraph Bay Road property for $752,500.
+6. In 2004 Telegraph Bay was subdivided into four lots by Mr. Swift and the Corporation:
+3948 Telegraph Bay Road, 3950 Telegraph Bay Road, 2704 Digby Lane and 2708 Digby
+Lane. [62] The existing single family home that was located on the property was at the 3950
+Telegraph Bay Road address.
+7. In October of 2004, the house and property at 3950 Telegraph Bay Road was sold for
+$442,500 by the Corporation.
+8. Following the sale of 3950 Telegraph Bay Road, the Corporation and Mr. Swift owned
+the remaining vacant lots. 3948 Telegraph Bay Road was a separate lot and 2704/2708 Digby Lane was a strata lot.
+9. In October 2004, [sic] began constructing residential homes at 3948 Telegraph Bay Road, and at 2708 Digby Lane. The Appellant and Ms. Kirkby paid for 25% of the construction
+costs. Construction took approximately 8 months to complete.
+10. In July/August of 2005, Mr. Swift and his family moved into 2708 Digby Lane. Title to 2708 Digby Lane was transferred to Mr. Swift and Ms. Kirkby.
+11. 2708 Digby Lane was the first home that Mr. Swift had ever built for himself and his
+family. It had three bedrooms and three bathrooms.
+12. In July of 2005, the Corporation sold the new home at 3948 Telegraph Bay Road for $799,000.
+13. 2704 Digby Lane was constructed in 2009. In October of 2009, the Corporation sold the 2704 Digby Place property with a new house for $875,000.
+2708 Digby Lane
+14. In July of 2005, the title for the Residence at 2708 Digby Lane was transferred to Mr. Swift and Ms. Kirkby. Mr. Swift and his family lived in this residence until 2010.
+15. On March 9, 2007, Coast Capital Savings Credit Union (“Coast Capital”) registered a $l.1 million mortgage against the 2708 Digby property. No funds were advanced at the time the mortgage was registered.
+16. Mr. Swift used the mortgage as a line of credit for construction development projects in the Corporation and for the purchase of the lot for the family’s next residence.
+17. Mr. Swift and Ms. Kirkby sold 2708 Digby Lane in August of 2010 for $1,140,000.
+3957 Juan De Fuca
+18. In October of 2009 Mr. Swift and Ms. Kirkby purchased a lot located at 3957 Juan De Fuca Terrace, Victoria, B.C. for $646,000.
+19. Mr. Swift used his line of credit on the 2708 Digby Lane Residence to buy the lot for 3957 Juan De Fuca.
+20. On January 29, 2010, Coast Capital registered a mortgage on the Juan De Fuca Residence for $2.5 million. No funds were distributed on that mortgage at the time it was registered.
+21. Mr. Swift and Ms. Kirkby built a custom, high end house on Juan De Fuca Residence.
+22. Mr. Swift and Ms. Kirkby used the Corporation for the construction of the house at Juan De Fuca.
+23. The Corporation did not charge Mr. Swift and Ms. Kirkby a project management fee.
+24. The labour provided by the Corporation’s employees was billed at cost. The employees were paid their regular wages.
+25. Mr. Swift worked on the construction of the house.
+26. An occupancy permit was issued for Juan De Fuca on November 2, 2010.
+27. On August 1, 2010, Mr. Swift and his family had moved into the ground floor of the Juan De Fuca Residence while completing the main floor of the house.
+28. Construction at the Juan De Fuca Residence began on or about December 17, 2009 and ended on or about October 15, 2011.
+29. On November 2, 2010, Mr. Swift filled out a GST/HST New Housing rebate application indicating a fair market value of $1,443,000.
+30. The Juan De Fuca Residence was listed for sale in 2012 and sold in June 2013 with an original closing date of October 30, 2013.
+31. The Juan De Fuca Residence sold for gross proceeds of $1,700,000.
+32. Mr. Swift and Ms. Kirkby and their family [sic] Juan De Fuca Residence for 3.5 years, until March/April 2014.
+33. Costs associated with the construction of the Juan De Fuca Residence are as follows:
+(a) Total invoices: $1,398,67l.99
+(b) HST paid: $33,967.88 – ($8,147.64 post-dated November 2, 2010)
+(c) GST paid: $49,820.89
+(d) PST paid: $8,325.32
+(e) Net Invoices including PST: $1,314,883.22
+2766 Tudor Avenue
+34. Mr. Swift and Ms. Kirkby purchased 2766 Tudor Avenue Residence in November of 2013 for $885,000.
+35. Mr. Swift, Ms. Kirby and their children moved into the residence.
+36. Mr. Swift and Ms. Kirkby renovated the 2766 Tudor Avenue Residence.
+37. Mr. Swift and Ms. Kirkby separated in 2016 and divorced in 2017.
+38. In July of 2017, Mr. Swift and Ms. Kirkby sold the Tudor Ave. residence for $1.9 million as part of the dissolution of the matrimonial estate.
+The Assessment
+39. On December 6, 2013, the Minister assessed Mr. Swift in the amount of $85,175.13 for
+the period of January 1, 2010 to December 31, 2010 (the “Period”), and accordingly
+issued a notice on that date as follows:
+(a) Include GST/HST collectible of $86,580;
+(b) Allow input tax credits (ITCs) of $14,788;
+(c) Assess arrears interest of $10,511.91; and, [sic]
+(d) Apply a failure to file penalty of $2,871.65.
+Dated for reference this 18th day of October, 2019.
+[63]
+Andre Rachert
+Cindy Mah
+Counsel for the Appellant
+Counsel for the Respondent
+Cook Roberts LLP
+Department of Justice
+7th Floor - 1175 Douglas Street
+#900 – Howe Street
+Victoria, British Columbia
+Vancouver, British Columbia
+V8W 2E1
+V6Z 2S9
+CITATION:
+2020 TCC 115
+COURT FILE NO.:
+2016-1566(GST)G
+STYLE OF CAUSE:
+THOMAS SWIFT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+October 21 and 22, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+October 20, 2020
+APPEARANCES:
+Counsel for the Appellant:
+J. Andre Rachert
+Counsel for the Respondent:
+Cindy Mah
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+J. Andre Rachert
+Firm:
+Cook Roberts LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Minister assessed goods and services tax (“GST”) or harmonized sales tax (“HST”) collectible in the amount of $86,580, allowed input tax credits (“ITCs”) in the amount of $14,788, assessed arrears interest in the amount of $10,511.91, and applied a failure-to-file penalty in the amount of $2,871.65, for a net amount of $85,175.56, which is slightly different from the net amount shown in the Agreed Statement of Facts (presumably because of rounding in respect of the amount of GST/HST collectible and the amount of the ITCs).
+[2] Excise Tax Act, RSC 1985, c. E-15, Part IX, as enacted by SC 1990, c. 45, and as subsequently amended.
+[3] The Notice of Appeal, the Reply and the Agreed Statement of Facts incorrectly described the driveway as Digby Lane. See Transcript, vol. 1, p. 72, lines 16-27.
+[4] Transcript, vol.1, p. 90, line 21 to page 91, line 7; and p. 147, lines 2-10.
+[5] Transcript, vol. 1, p. 147, line 23 to p. 148, line 2; and p. 148, lines 20-27.
+[6] Transcript, vol. 1, p. 161, line 23 to p. 163, line 5; and vol. 2, p. 167, line 27 to p. 168, line 28. The Parties acknowledged that the fair market value of the JDF Property on November 2, 2010, inclusive of HST, was $1,450,000.
+[7] The above paragraph, which is written in a generalized and simplified manner, omits some of the details of the relevant legislative provisions.
+[8] Income Tax Act, RSC 1985, c.1 (5th Supplement), as amended.
+[9] If the word “business,” in the context of the ETA, includes an adventure or concern in the nature of trade, there would be no need for the concluding portion of paragraph (f) of the definition of “builder” to refer to both a business and an adventure or concern in the nature of trade.
+[10] This is the term used by Justice Rouleau. In these Reasons, I too will use that slightly shorter term (i.e., “adventure in the nature of trade”) as an abbreviation for the precise term “adventure or concern in the nature of trade.”
+[11] MNR v Taylor, [1956] CTC 189, 56 DTC 1125 (Ex. Ct.).
+[12] Happy Valley Farms Ltd. v MNR, [1986] FCJ No. 465, [1986] 2 CTC 259, 86 DTC 6421 (FCTD), ¶13. See also Wall v The Queen, 2019 TCC 168, ¶154; and Atlantic Packaging Products Ltd. v The Queen, 2020 FCA 75, ¶35.
+[13] Happy Valley Farms, supra note 12, ¶14. A review of subparagraph 14(6) and paragraphs 15 through 18 of his reasons indicates that Justice Rouleau treated motive and intention together. In paragraph 155 of Wall, supra note 12, Justice Visser stated “that the question of motive or intention is an important factor.”
+[14] Ibid, ¶15-16.
+[15] Canada Safeway Limited v The Queen, 2008 FCA 24, ¶61.
+[16] Transcript, vol. 1, p. 87, lines 6-16.
+[17] Transcript, vol. 1, p. 82, lines 27-28; and p. 85, line 2.
+[18] Transcript, vol. 1, p. 85, line 9.
+[19] Transcript, vol. 1, p. 84, lines 25-28.
+[20] Transcript, vol. 1, p. 85, lines 12-22.
+[21] Transcript, vol. 1, p. 90, lines 17-20; and p. 146, line 26. See also ¶21 of the ASF.
+[22] See Happy Valley Farms, supra note 12, ¶14(1), where Justice Rouleau stated, “Property which does not yield to its owner an income or personal enjoyment simply by virtue of its ownership is more likely to have been acquired for the purpose of sale than property that does.” [Emphasis added.]
+[23] Transcript, vol. 1, p. 90, lines 17-20.
+[24] Transcript, vol. 1, p. 25, lines 19-26.
+[25] Transcript, vol. 1, p. 26, lines 25-27.
+[26] Transcript, vol. 1, p. 27, lines 18-20.
+[27] Transcript, vol. 1, p. 28, lines 3-6.
+[28] Transcript, vol. 1, p. 25, lines 8-11; p. 28, lines 16-18; p. 91, lines 24-25; and p. 148, lines 7-10.
+[29] Transcript, vol. 1, p. 26, lines 25-28.
+[30] Transcript, vol. 1, p. 28, lines 23-24. Ms. Kirkby described this bathroom as a “raunchy bathroom,” which was accessible to people coming in from outside or to guests coming up from the extra bedroom in the basement.
+[31] Transcript, vol. 1, p. 26, lines 12-15.
+[32] Transcript, vol. 1, p. 26, lines 16-23. Ms. Kirkby referred only to the dog’s food, but I assume that there were bowls for both food and water.
+[33] Happy Valley Farms, supra note 12, ¶14(2).
+[34] Transcript, vol. 1, p. 161, lines 1-10.
+[35] Happy Valley Farms, supra note 12, ¶14(3).
+[36] Wall, supra note 12, ¶158. See also the Lacina, Nagra and Martinuzzi cases referred to in paragraph 57 and footnotes 56, 57, and 58 below.
+[37] Happy Valley Farms, supra note 12, ¶14(4).
+[38] Happy Valley Farms, supra note 12, ¶14(5).
+[39] Exhibit A-1 (p. 764, 794 & 823) and Exhibit A-2.
+[40] Transcript, vol. 1, p. 116, lines 5-26.
+[41] Exhibits A-1 and A-2; transcript, vol. 1, p. 117, line 6 to p. 119, line 6.
+[42] Transcript, vol. 1, p. 93, line 20 to p. 94, line 10; and p. 123, lines 15-20.
+[43] Transcript, vol. 1, p. 119, lines 11-28.
+[44] Transcript, vol. 1, p. 125, lines 11-13; and p. 158, lines 10-16.
+[45] Happy Valley Farms, supra note 12, ¶14(6).
+[46] See Transcript, vol. 1, p. 127, line 27 to p. 128, line 1, where Mr. Swift confirmed that, when he bought the JDF Lot, he planned to live there for the rest of his life.
+[47] Transcript, vol. 1, p. 21, lines 25-27; p. 37, lines 10-16; and p. 42, line 28 to p. 43, line 9.
+[48] Transcript, vol.1, p. 20, lines 22-24.
+[49] Transcript, vol. 1, p. 20, lines 22-24; and p. 21, line 28 to p. 22, line 24.
+[50] By way of qualification of the above comment, the only improvement to 3921 Scolton Road was the construction of a workshop or office in the backyard.
+[51] Transcript, vol. 1, p. 47, lines 16-24.
+[52] The acquisition of 2766 Tudor Avenue should be contrasted with the acquisition of 3950 Telegraph Bay Road, which clearly was the subject of a contemplated subdivision, such that the purchase price and subdivision costs were split 75%/25% between TSC and Mr. Swift respectively. There was no such allocation of the purchase price in respect of 2766 Tudor Avenue.
+[53] Transcript, vol. 1, p. 88, line 22 to p. 89, line 7; p. 90, lines 14-16; and p. 145, lines 3-13.
+[54] See also the Respondent’s Written Submissions, dated October 22, 2019, p. 14, ¶77-78, which imply that no ITCs were claimed by Mr. Swift.
+[55] For the purposes of paragraphs 191(5)(b) and (c) of the ETA, the focus is on the actual use by the individual of the residential complex. By way of contrast, in determining whether a transaction or a series of transactions constitutes an adventure in the nature of trade, the focus is on a number of factors, as discussed above, with one of the most significant factors being the individual’s motive or intention at the time of acquiring the particular property.
+[56] Lacina v The Queen, [1997] FCJ No. 998, [1997] GSTC 69 (FCAD), affirming [1996] GSTC 11 (TCC).
+[57] Nagra v The Queen, [1997] TCJ No. 925, [1997] GSTC 78 (TCC).
+[58] Martinuzzi v The Queen, [1999] TCJ No. 791, [2000] 1 CTC 2661, 2000 DTC 1716 (TCC).
+[59] Lacina (FCAD), supra note 56, ¶16-17.
+[60] Ibid, ¶ 22.
+[61] Coates v The Queen, 2011 TCC 74, ¶13-15.
+[62] As indicated in paragraph 11 of the above Reasons and footnote 3 thereof, the name of this driveway or lane is actually Digby Place.
+[63] The copy of the Agreed Statement of Facts that was filed with the Court on October 18, 2019 was signed by counsel for Mr. Swift and by counsel for the Crown.

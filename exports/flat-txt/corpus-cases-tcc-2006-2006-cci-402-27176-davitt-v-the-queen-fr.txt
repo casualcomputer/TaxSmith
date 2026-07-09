@@ -1,0 +1,176 @@
+Title: Davitt v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27176/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-402-27176-davitt-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-07-12
+
+# Davitt v. The Queen
+
+- Citation: 2006 CCI 402
+- Decision date: 2006-07-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 979, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davitt v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-12
+Référence neutre
+2006 CCI 402
+Numéro de dossier
+2001-893(IT)G
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+No de dossier : 2001-893(IT)G
+ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+No de dossier : 2002-2807(CPP)
+ET ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+2003-283(CPP)
+2003-284(EI)
+2003-511(IT)G
+ET ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL
+et SA MAJESTÉ LA REINE,
+intimés.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requêtes entendues le 15 juin 2006, à Toronto (Ontario).
+Devant : M. le juge M.A. Mogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Me Jocelyn Espejo Clarke
+____________________________________________________________________
+ORDONNANCE
+Vu les demandes présentées par l’appelant afin que, dans les affaires susmentionnées, la Cour rende certaines ordonnances visant à annuler les ordonnances suivantes de la Cour :
+1 - l’ordonnance rendue par le juge en chef Bowman le 31 mai 2001 dans l’appel de William Shawn Davitt, 2001-893(IT)G;
+2 - l’ordonnance rendue par le juge McArthur le 18 juin 2003 dans l’appel de William Shawn Davitt, 2002-2807(CPP);
+3 - l’ordonnance rendue par le juge Little le 9 février 2004 dans les appels de William Shawn Davitt, 2003-283(CPP), 2003-284(EI) et 2003‑511(IT)G.
+Et vu la demande présentée par l’appelant afin d’obtenir des dommages‑intérêts punitifs de dix millions de dollars;
+Et vu la demande présentée par l’appelant afin d’obtenir que l’avocate de l’intimé lui verse une indemnité au titre de certains dépens;
+Et après avoir examiné les éléments de preuve produits par les parties;
+Et après avoir entendu l’appelant et l’avocate de l’intimé;
+La Cour ordonne que les demandes soient rejetées et que l’appelant paye immédiatement à l’intimé des dépens s’élevant à 500,00 $.
+Signé à Ottawa, Canada, ce 12e jour de juillet 2006.
+« M.A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 29e jour de mai 2007.
+Maurice Audet, réviseur
+Référence : 2006CCI402
+Date : 20060712
+No de dossier : 2001-893(IT)G
+ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+No de dossier : 2002-2807(CPP)
+ET ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+2003-283(CPP)
+2003-284(EI)
+2003-511(IT)G
+ET ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL
+et SA MAJESTÉ LA REINE,
+intimés.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+(Rendus oralement à l’audience
+à Toronto (Ontario), le 15 juin 2006, et
+révisés à Ottawa (Ontario), le 12 juillet 2006.)
+Le juge suppléant Mogan
+[1] Je vais rejeter vos requêtes, M. Davitt. Pour des raisons de célérité, je vais tenter de dicter mes motifs maintenant, mais je me réserve le droit de les réviser, de les modifier et éventuellement de les étoffer. Il sera peut‑être utile aux parties que j’expose ma position sans délai. Puis, j’obtiendrai la transcription de ce que j’aurai dit et il se pourrait que j’étoffe mes motifs.
+[2] L’appelant, William Shawn Davitt, s’est adressé à la Cour au moyen de deux avis de requête. Par le premier, il souhaite obtenir un certain nombre d’ordonnances, comme il est mentionné dans l’avis :
+[TRADUCTION]
+(i) une ordonnance annulant le jugement prononcé par le juge en chef adjoint Bowman le 31 mai 2001 pour cause de fraude;
+(ii) une ordonnance annulant le jugement prononcé par le juge McArthur le 18 juin 2003 pour cause de fraude;
+(iii) une ordonnance annulant le jugement prononcé par le juge Little le 9 février 2004 pour cause de fraude;
+(iv) une ordonnance accordant des dommages‑intérêts punitifs de dix millions de dollars en application de l’article 24 de la Charte canadienne des droits et libertés;
+(v) les autres réparations que l’appelant pourrait demander et que la Cour pourrait accorder, ainsi que les dépens.
+Il est ajouté dans l’avis :
+La présente requête est présentée en application de l’article 172 des Règles de la Cour canadienne de l’impôt.
+Mis à part la demande de dommages-intérêts punitifs, l’appelant souhaite pour l’essentiel obtenir l’annulation de trois ordonnances rendues par les juges Bowman, McArthur et Little. Ces ordonnances, qui sont consignées au dossier, ont pour effet de radier certains avis d’appel que l’appelant a produits à la Cour.
+[3] Incidemment, l’ordonnance rendue par le juge en chef adjoint Bowman attribuait aussi les dépens à l’intimé dans le cadre de l’appel visant l’année d’imposition 1998. Il ressort des documents au dossier que ces dépens ont maintenant été taxés à la somme de 1 475,70 $.
+[4] La deuxième requête vise à obtenir une ordonnance selon laquelle :
+[TRADUCTION] L’avocate de l’intimé, Me Jocelyn Espejo Clarke, indemnise l’appelant pour l’ensemble des dépens qu’il doit payer relativement au dossier susmentionné [...]
+Il s’agit du dossier 2001-893, soit celui dans le cadre duquel le juge en chef adjoint Bowman a rendu son ordonnance relative à l’année d’imposition 1998. Au cours de la présentation de l’appelant, je lui ai demandé s’il avait payé ces dépens, et il a dit que non. Cela est confirmé par une assertion formulée dans les observations écrites de l’avocate de l’intimé, voulant que l’appelant n’ait pas encore payé les dépens taxés. Je ne rendrai pas d’ordonnance d’indemnisation pour deux raisons : premièrement, les dépens n’ont pas été payés par M. Davitt. Deuxièmement, de façon plus fondamentale, je ne vois absolument pas pourquoi l’avocate de l’intimé devrait être personnellement tenue d’indemniser l’appelant pour ses dépens simplement parce qu’elle a tenté, conformément à son obligation en qualité d’avocate du ministère de la Justice, de recouvrer les dépens que lui avait accordés le juge en chef adjoint Bowman dans son ordonnance du 31 mai 2001.
+[5] Une longue période s’est écoulée entre le prononcé de l’ordonnance du juge en chef adjoint Bowman et la taxation des dépens, laquelle a eu lieu dans les premiers mois de 2006. Je ne connais pas les raisons de ce retard, mais il ne fait aucun doute que l’appelant a eu suffisamment de temps pour payer les dépens.
+[6] La requête en vue d’obtenir une indemnité de la part de Me Clarke est rejetée.
+[7] L’autre requête visant l’annulation des jugements des juges Bowman, McArthur et Little se fonde sur la fraude. L’appelant a apporté à la Cour aujourd’hui de nombreux classeurs à anneaux contenant des documents qu’il souhaitait présenter à l’appui de son allégation de fraude. Il voulait produire 17 classeurs. Après une brève discussion avec l’appelant, ce dernier a mentionné que les documents réunis dans ces classeurs concernaient principalement les comptes publics des gouvernements du Canada et de la Nouvelle‑Écosse, certaines assertions formulées dans des rapports du vérificateur général du Canada ainsi que les états financiers de l’Atomic Energy Company of Canada et d’autres sociétés. Après avoir entendu l’appelant et l’avocate de l’intimé, j’ai décidé de ne pas accepter les 17 classeurs à anneaux parce qu’ils étaient dénués de pertinence.
+[8] La requête en annulation d’un jugement ou d’une ordonnance qui se fonde sur la fraude doit intéresser la façon dont la partie adverse a induit le juge en erreur pour qu’il rende le jugement ou l’ordonnance qui, si le juge n’avait pas été trompé, n’aurait pas été accordé.
+[9] Toutes les allégations de fraude présentées à la Cour par l’appelant ne sont, d’abord et avant tout, que de simples allégations : elles ne sont pas prouvées. Elles ont trait à ce que j’appellerais les comptes publics généraux, à la question de savoir si plus d’argent qu’il n’était nécessaire a été recueilli pour financer l’assurance‑emploi et les demandes touchant la caisse d’assurance‑emploi, de même qu’à la question de savoir si la déduction personnelle consentie à chaque contribuable en 1998 (environ 7 000 $) était adéquate compte tenu du fait que, dans certaines provinces à cette époque, le revenu ne pouvait faire l’objet d’une saisie‑arrêt dans le cadre d’une instance civile s’il était inférieur au seuil de 10 000 $ ou 11 000 $.
+[10] Il se peut qu’il y ait eu une différence appréciable entre le montant de la déduction personnelle prévue par la Loi de l’impôt sur le revenu et la somme qui, dans une province donnée, ne pouvait faire l’objet d’une saisie‑arrêt dans le cadre d’une instance civile mais, à mon avis, la Cour canadienne de l’impôt n’a pas compétence pour effectuer des rajustements au titre de ce genre de différence. Ces sommes (comme la déduction personnelle prévue par la Loi de l’impôt sur le revenu, et le seuil de faible revenu non susceptible de saisie‑arrêt) sont fixées au moyen de lois adoptées par le Parlement du Canada ou par les législatures des provinces. Ces sommes y font l’objet de discussions et de débats, puis elles sont finalement établies par des dispositions législatives.
+[11] Si l’appelant a raison d’affirmer que les taux prévus par le Régime de pensions du Canada sont trop élevés, que le Régime est trop bien financé et que l’excédent est ajouté aux recettes générales fédérales; ou s’il a raison de dire que les taux d’assurance‑emploi sont trop élevés et qu’il n’aurait pas dû payer autant qu’il l’a fait pendant les années 1998, 1999 ou 2000; que ces taux soient trop élevés ou non constitue une question qui, elle aussi, déborde la compétence de la Cour. Ces taux sont fixés dans le cadre de débats publics au sein du Parlement, selon le texte législatif particulier à l’étude. Les comités parlementaires tiennent des audiences au cours desquelles différents groupes d’intérêt et divers partis politiques font connaître leur position. Je conclus que la Cour canadienne de l’impôt n’a pas compétence pour intervenir à l’égard de ce genre de législation.
+[12] L’appelant va encore plus loin, cependant, et soutient que, contrairement à la Charte des droits et libertés, il a été victime de discrimination au regard des membres d’autres catégories de revenus au Canada ou d’autres groupes visés par le Régime de pensions du Canada qui versent peut‑être des cotisations différentes dans des situations différentes. Pendant sa présentation, je lui ai demandé s’il avait quoi que ce soit à redire aux montants de son revenu réellement fixés pour les années en cause par le gouvernement du Canada, qu’il s’agisse du ministère du revenu, du régime d’assurance‑emploi ou du Régime de pensions du Canada. Il a répondu que non, qu’il n’avait rien contre le fait que son revenu ait été déterminé de façon exacte.
+[13] J’ai demandé à l’appelant s’il avait le moindre doute quant au fait que les taux appliqués à son égard, une fois son revenu et son revenu imposable établis, consistaient bien en les taux applicables prévus par la législation pertinente, que ce soit la Loi de l’impôt sur le revenu, le Régime de pensions du Canada ou le régime d’assurance-emploi. Il a affirmé que non, il ne mettait pas en doute le fait que les taux appliqués à son endroit étaient les mêmes que ceux auxquels étaient assujetties les personnes appartenant à la même catégorie de revenus que lui. L’appelant avance qu’il y a eu tellement de fraude dans certaines sphères du gouvernement que les taux (Loi de l’impôt sur le revenu, Régime de pensions du Canada et assurance‑emploi) seraient différents ou devraient être différents si l’existence de cette fraude était reconnue. Voilà vraiment la fraude dont il parle.
+[14] Après avoir écouté tout ce que l’appelant avait à dire, j’arrive à la conclusion qu’il n’a pas établi, ni même allégué, le genre de fraude nécessaire pour justifier l’annulation d’un jugement. En d’autres termes, il n’a pas réussi à me convaincre que le juge en chef adjoint Bowman (tel était alors son titre) ou le juge McArthur ou le juge Little ont été induits en erreur de manière frauduleuse relativement aux faits qui leur ont été présentés lorsqu’ils ont instruit des requêtes antérieures visant à obtenir la radiation d’actes de procédure de l’appelant. La fraude se fonde principalement sur des faits, ce n’est pas une question de droit. Les faits doivent se rapporter à un contribuable donné et à sa situation particulière au cours d’une année d’imposition ou d’un certain exercice établi pour l’application de l’assurance‑emploi ou du Régime de pensions du Canada.
+[15] L’appelant soutient qu’il devrait être autorisé à présenter des demandes fondées sur la Charte relativement au caractère inéquitable des taux prévus par la Loi de l’impôt sur le revenu, le Régime de pensions du Canada et le régime d’assurance‑emploi parce que, suivant la Charte, ils ne sont pas justes pour l’ensemble des citoyens. Cet argument déborde la compétence de la Cour.
+[16] Il existe des situations où une demande fondée sur la Charte relève de la compétence de la Cour. Par exemple (et l’appelant a invoqué cette décision), l’affaire O’Neill Motors Ltd. v. The Queen, 96 DTC 1486, dans laquelle la Cour a conclu que certains documents avaient été saisis par Revenu Canada en application d’une disposition de la Loi de l’impôt sur le revenu. Cette disposition était contraire à la Charte et les documents saisis ne pouvaient donc servir à établir une cotisation. En appel à la présente cour, par suite de la radiation de la disposition de la Loi pour cause de violation de la Charte, le tribunal a annulé une cotisation au motif qu’elle se fondait sur des documents irrégulièrement saisis.
+[17] Voilà le genre de situations dans lesquelles les juges de la Cour peuvent entendre un argument fondé sur la Charte et accorder une réparation fondée sur celle‑ci. Les faits doivent toutefois se rapporter au contribuable lui‑même et lui être propres. Dans la décision O’Neill Motors, ce sont les documents du contribuable qui avaient été irrégulièrement saisis. De même, l’avocate de l’intimé a renvoyé à une décision où le contribuable s’était appuyé sur la Charte pour affirmer qu’il avait subi un préjudice en raison d’une présomption prévue par la Loi de l’impôt sur le revenu voulant que le principal fournisseur de soins d’un enfant donné soit la mère et non le père. Le contribuable s’est adressé à la Cour en invoquant la Charte pour soutenir qu’il avait été victime de discrimination fondée sur le sexe contrairement aux dispositions de l’article 15 parce qu’il ne devrait pas y avoir de présomption jouant en faveur de la mère et au détriment du père pour décider qui est le principal fournisseur de soins. Cet argument fondé sur la Charte est valable et peut être entendu par la Cour, mais il vise la situation particulière d’un appelant qui prétend qu’une présomption prévue par la loi et fondée sur le sexe joue en faveur de son ancienne épouse ou conjointe contrairement à la Charte.
+[18] Voilà le genre d’arguments fondés sur la Charte que la Cour entend et qu’elle a compétence pour entendre puisqu’ils intéressent la situation particulière d’un contribuable. Le problème auquel l’appelant est confronté dans les requêtes présentées en l’espèce tient au fait que ses arguments fondés sur la Charte ne portent pas sur sa situation personnelle au cours d’une année donnée. Ils s’apparentent à ce que j’appellerais des arguments visant un groupe. Parce qu’il a un niveau de revenu donné au cours d’une année donnée, il avance qu’il n’est pas juste de l’imposer sur une certaine base relativement à d’autres éléments. Il a attiré mon attention sur les paragraphes 91, 92, 93 et 94 de son avis d’appel, lesquels ont été radiés par le juge en chef adjoint Bowman. Il fait valoir que, compte tenu de son groupe d’âge, il ne devrait pas avoir à payer d’impôt au titre de certaines obligations non divulguées du gouvernement du Canada.
+[19] Si ce genre d’argument avait le moindre fondement, les juges de la Cour ne pourraient en aucune manière accorder une réparation à l’appelant sans annuler l’ensemble de la Loi telle qu’elle s’applique à tous les contribuables du Canada. L’appelant n’a pas réussi à établir l’existence d’une fraude, quelle qu’elle soit, dans la façon dont les trois juges de la Cour en sont arrivés à leur décision respective de rendre des ordonnances portant annulation ou radiation de ses appels.
+[20] Je me suis penché sur les avis de requête comme s’ils étaient fondés, à titre de nouveaux avis à la Cour; mais au‑delà d’un examen sur le fond, il existe à mon sens une raison très importante justifiant le rejet des requêtes. Si les ordonnances rendues par ces juges devaient être annulées, l’appelant aurait dû les soumettre à la Cour d’appel fédérale. Dans chaque cas, les ordonnances du juge en chef adjoint Bowman, du juge McArthur et du juge Little éteignaient les droits de l’appelant, en ce sens que chaque ordonnance particulière avait pour effet soit de radier l’avis d’appel dans son intégralité, soit d’annuler l’appel. Comme ces ordonnances empêchaient l’appelant de demander réparation à la présente cour, je comprends qu’il aurait pu interjeter appel à la Cour d’appel fédérale et demander réparation à ce tribunal supérieur en montrant que les ordonnances n’auraient pas dû être rendues. Pour une raison quelconque, l’appelant a mentionné aujourd’hui dans sa présentation de vive voix qu’il était démuni et que cette situation constituait un des motifs fondamentaux, mais il n’a pas insisté sur ce point.
+[21] Environ cinq ans après la date du prononcé de l’ordonnance du juge en chef adjoint Bowman, le 31 mai 2001, l’appelant revient maintenant devant la Cour pour lui demander d’annuler cette ordonnance. Premièrement, il aurait dû s’adresser à la Cour d’appel fédérale. Deuxièmement, le retard est injustifiable en ce qui a trait à la demande d’annulation de l’ordonnance. Et troisièmement, sur le fond, l’appelant n’a pas établi que le juge en chef adjoint Bowman avait été l’objet d’une fraude en mai 2001. Je pourrais dire la même chose à propos de l’ordonnance rendue par le juge McArthur en 2003 et de l’ordonnance rendue par le juge Little en 2004. Il s’est écoulé trois ans depuis l’ordonnance rendue le 18 juin 2003 par le juge McArthur et plus de deux ans depuis l’ordonnance rendue le 9 février 2004 par le juge Little.
+[22] Le délai de prescription applicable à la demande d’annulation des ordonnances présentée par l’appelant est expiré depuis longtemps. Si ces ordonnances ont été rendues par suite d’une fraude, comme il le prétend, cette fraude aurait dû être à ce point flagrante dans son esprit qu’il aurait dû demander réparation dans le délai d’appel applicable à ces ordonnances. Il ne l’a pas fait.
+[23] Malgré les conclusions qui précèdent, j’ai tenté d’examiner et d’entendre les arguments formulés par l’appelant quant au fond de la présente affaire. Mais, pour revenir à ma première conclusion, les requêtes ne peuvent être accueillies puisque l’appelant n’a pas réussi à établir l’existence d’une fraude, quelle qu’elle soit, dont la Cour et les juges concernés auraient été l’objet lorsque les ordonnances ont été rendues en 2001, 2003 et 2004.
+[24] Pour ces raisons, les requêtes sont rejetées, à savoir les requêtes en annulation, la requête visant à obtenir des dommages‑intérêts punitifs de dix millions de dollars et la requête visant à obtenir une indemnité. J’accorde à l’intimée des dépens de 500,00 $ payables immédiatement par l’appelant.
+Signé à Ottawa, Canada, ce 12e jour de juillet 2006.
+« M.A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 29e jour de mai 2007.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2006CCI402
+NOS DE DOSSIERS DE LA COUR : 2001-893(IT)G, 2002-2807(CPP),
+2003-283(CPP), 2003-284(EI),
+2003-511(IT)G
+INTITULÉ DE LA CAUSE : WILLIAM SHAWN DAVITT ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 15 juin 2006
+MOTIFS DE L’ORDONNANCE PAR : M. le juge M.A. Mogan
+DATE DE L’ORDONNANCE : Le 12 juillet 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Me Jocelyn Espejo Clarke
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimé : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

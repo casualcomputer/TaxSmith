@@ -1,0 +1,335 @@
+Title: I-D Foods Corporation c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31060/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-15-31060-i-d-foods-corporation-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-01-17
+
+# I-D Foods Corporation c. La Reine
+
+- Citation: 2013 CCI 15
+- Decision date: 2013-01-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4700, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+I-D Foods Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-17
+Référence neutre
+2013 CCI 15
+Numéro de dossier
+2010-1002(GST)G
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-1002(GST)G
+ENTRE :
+I-D Foods corporation,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 novembre 2012, à Montréal (Québec).
+Devant : L’honorable juge Pierre Archambault
+Comparutions :
+Avocat de l’appelante :
+Me Aaron Rodgers
+Avocate de l’intimée :
+Me Brigitte Landry
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E‑15, à l’égard des périodes de déclaration allant du 1er janvier 2005 au 31 décembre 2007 est rejeté, et les dépens sont adjugés à l’intimée.
+Signé ce 17e jour de janvier 2013.
+« Pierre Archambault »
+Juge Archambault
+Traduction certifiée conforme
+ce 2e jour de juillet 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2013 CCI 15
+Date : 20130117
+Dossier : 2010-1002(GST)G
+ENTRE :
+I-D Foods corporation,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] I-D Foods Corporation (la société « IDF ») interjette appel à l’encontre d’une cotisation établie par le sous‑ministre du Revenu du Québec pour le compte du commissaire de l’Agence du revenu du Canada (le « ministre ») en vertu de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E‑15 (la « LTA »). La période pertinente va du 1er janvier 2005 au 31 décembre 2007. Au moyen de cette cotisation, le ministre a refusé les crédits de taxe sur les intrants (les « CTI ») de 126 338,98 $ pour la période pertinente, relativement à des allocations d’automobile que la société IDF avait versées à ses employés pour l’usage de leur véhicule dans l’accomplissement des fonctions de leur charge. La disposition pertinente est l’article 174 de la LTA, qui mentionne les sous‑alinéas 6(1)b)(v), (vi), (vii) et (vii.1) de la Loi de l’impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1 (la « LIR »). En fin de compte, la question principale soulevée en l’espèce tient plus au droit qu’aux faits et concerne le champ d’application de l’article 174 de la LTA. Plus précisément, la question qu’il faut trancher est de savoir s’il faut tenir compte du sous‑alinéa 6(1)b)(x) de la LIR, tel qu’il a été interprété par la Cour d’appel dans l’arrêt Beauport (Ville) c. Canada (Ministre du Revenu national), 2001 CAF 198, [2002] 2 C.T.C. 161, pour l’application de l’alinéa 174c) de la LTA. Il convient de reproduire ci‑après un certain nombre de dispositions afin de comprendre la portée de cet alinéa :
+Loi sur la taxe d’accise
+Indemnités et remboursements
+174 Indemnités pour déplacement et autres — Pour l’application de la présente partie, une personne est réputée avoir reçu la fourniture d’un bien ou d’un service dans le cas où, à la fois :
+a) la personne verse une indemnité à l’un de ses salariés, à l’un de ses associés si elle est une société de personnes ou à l’un de ses bénévoles si elle est un organisme de bienfaisance ou une institution publique :
+(i) soit pour des fournitures dont la totalité, ou presque, sont des fournitures taxables, sauf des fournitures détaxées, de biens ou de services que le salarié, l’associé ou le bénévole a acquis au Canada relativement à des activités qu’elle exerce,
+(ii) soit pour utilisation au Canada d’un véhicule à moteur relativement à des activités qu’elle exerce;
+b) un montant au titre de l’indemnité est déductible dans le calcul du revenu de la personne pour une année d’imposition en application de la Loi de l’impôt sur le revenu, ou le serait si elle était un contribuable aux termes de cette loi et l’activité, une entreprise;
+c) lorsque l’indemnité constitue une allocation à laquelle les sous-alinéas 6(1)b)(v), (vi), (vii) ou (vii.1) de la Loi de l’impôt sur le revenu s’appliqueraient si l’indemnité était une allocation raisonnable aux fins de ces sous-alinéas, les conditions suivantes sont remplies :
+(i) dans le cas où la personne est une société de personnes et où l’indemnité est versée à l’un de ses associés, ces sous-alinéas s’appliqueraient si l’associé était un
+salarié de la société,
+(ii) si la personne est un organisme de bienfaisance ou une institution publique et que l’indemnité est versée à l’un de ses bénévoles, ces sous-alinéas s’appliqueraient si le bénévole était un salarié de la personne,
+(iii) la personne considère, au moment du versement de l’indemnité, que celle-ci est une allocation raisonnable aux fins de ces sous-alinéas,
+(iv) il est raisonnable que la personne l’ait considérée ainsi à ce moment.
+De plus :
+d) toute consommation ou utilisation du bien ou du service par le salarié, l’associé ou le bénévole est réputée effectuée par la personne et non par l’un de ceux-ci;
+e) la personne est réputée avoir payé, au moment du versement de l’indemnité et relativement à la fourniture, une taxe égale au résultat du calcul suivant :
+A × (B/C)
+Où :
+A représente le montant de l’indemnité,
+B :
+(i) dans les circonstances prévues par règlement relativement à une province participante, le pourcentage déterminé selon les modalités réglementaires,
+(ii) dans les autres cas, le taux fixé au paragraphe 165(1),
+C la somme de 100% et du pourcentage déterminé selon l’élément B.
+Excise Tax Act
+Allowances and Reimbursements
+174. Travel and other allowances. — For the purposes of this Part, where
+(a) a person pays an allowance
+(i) to an employee of the person,
+(ii) where the person is a partnership, to a member of the partnership, or
+(iii) where the person is a charity or a public institution, to a volunteer who gives services to the charity or institution
+for
+(iv) supplies all or substantially all of which are taxable supplies (other than zero-rated supplies) of property or services acquired in Canada by the employee, member or volunteer in relation to activities engaged in by the person, or
+(v) the use in Canada, in relation to activities engaged in by the person, of a motor vehicle,
+(b) an amount in respect of the allowance is deductible in computing the income of the person for a taxation year of the person for the purposes of the Income Tax Act, or would have been so deductible if the person were a taxpayer under that Act and the activity were a business, and
+(c) in the case of an allowance to which subparagraph 6(1)(b)(v), (vi), (vii) or (vii.1) of that Act would apply
+(i) if the allowance were a reasonable allowance for the purposes of that subparagraph, and
+(ii) where the person is a partnership and the allowance is paid to a member of the partnership, if the member were an employee of the partnership, or, where the person is a charity or a public institution and the allowance is paid to a volunteer, if the volunteer were an employee of the charity or institution,
+the person considered, at the time the allowance was paid, that the allowance would be a reasonable allowance for those purposes and it is reasonable for the person to have considered, at that time, that the allowance would be a reasonable allowance for those purposes,
+the following rules apply:
+(d) the person is deemed to have received a supply of the property or service,
+(e) any consumption or use of the property or service by the employee, member or volunteer is deemed to be consumption or use by the person and not by the employee, member or volunteer, and
+(f) the person is deemed to have paid, at the time the allowance is paid, tax in respect of the supply equal to the amount determined by the formula
+A × (B/C)
+where
+A is the amount of the allowance,
+B Is
+(i) in prescribed circumstances relating to a participating province, the percentage determined in prescribed manner, and
+(ii) in any other case, the rate set out in subsection 165(1), and
+C is the total of 100% and the percentage determined for B.
+Loi sur la taxe d’accise
+Remboursements [TPS]
+253. (1) Salariés et associés — Sous réserve des paragraphes (2) et (3), le ministre rembourse un particulier — associé d’une société de personnes, laquelle est un inscrit, ou salarié d’un inscrit autre qu’une institution financière désignée — pour chaque année civile relativement à un bien ou à un service, si les conditions suivantes sont réunies :
+a) un instrument de musique, un véhicule à moteur, un aéronef ou un autre bien ou service est considéré comme ayant été acquis, importé ou transféré dans une province participante par le particulier, ou serait ainsi considéré si ce n’était le paragraphe 272.1(1);
+[…]
+b) le particulier a payé la taxe (appelée « taxe payée par le particulier » au présent paragraphe) relative à l’acquisition ou à l’importation du bien ou du service ou relative au transfert du bien dans une province participante, selon le cas;
+[…]
+Le montant remboursable correspond au résultat du calcul suivant :
+A × (B - C)
+où :
+A représente :
+a) dans le cas où la taxe payée par le particulier ne comprend que la taxe imposée par le paragraphe 165(1) ou les articles 212 ou 218, le montant obtenu par la formule suivante :
+[…]
+B l’un des montants suivants, déduit en application de la Loi de l’impôt sur le revenu dans le calcul du revenu du particulier pour l’année tiré d’une charge ou d’un emploi ou provenant de la société et pour lequel le particulier n’a pas reçu d’allocation d’une personne, exception faite d’une allocation que celle-ci ne considère pas, selon l’attestation qu’elle a faite en la forme déterminée par le ministre et contenant les renseignements requis, comme étant, au moment de son versement, soit une allocation raisonnable pour l’application des sous-alinéas 6(1)b)(v), (vi), (vii) ou (vii.1) de cette loi, […]
+[…]
+c) le montant relatif […] à la fourniture du service ou à la fourniture au Canada de l’autre bien, selon le cas;
+C le total des montants que le particulier a reçus ou a le droit de recevoir de son employeur ou de la société de personnes, selon le cas, à titre de remboursement du montant déduit visé à l’élément B.
+Excise Tax Act
+[GST] Rebates
+253. (1) Employees and partners — Where
+(a) a musical instrument, motor vehicle, aircraft or any other property or a service is or would, but for subsection 272.1(1), be regarded as having been acquired, imported or brought into a participating province by an individual who is
+. . .
+(ii) an employee of a registrant (other than a listed financial institution),
+. . .
+(b) the individual has paid the tax (in this subsection referred to as the “tax paid by the individual”) payable in respect of the acquisition or importation of the property or service, or the bringing into a participating province of the property, as the case may be, and
+. . .
+the Minister shall, subject to subsections (2) and (3), pay a rebate in respect of the property or service to the individual for each calendar year equal to the amount determined by the formula
+A X (B - C)
+where
+A is
+(a) where the tax paid by the individual includes only tax imposed under subsection 165(1) or section 212 or 218, the amount determined by the formula
+. . .
+B is an amount equal to
+. . .
+(c) the amount in respect of
+(i) . . .
+(ii) the supply of the service, or
+(iii) the supply in Canada of the other property,
+as the case may be, that was deducted under the Income Tax Act in computing the individual’s income for the year from an office or employment or from the partnership, as the case may be, and in respect of which the individual did not receive an allowance from a person, other than an allowance in respect of which the person certifies, in prescribed form containing prescribed information, that, at the time the allowance was paid, the person did not consider
+(d) the allowance to be a reasonable allowance for the purposes of subparagraph 6(1)(b)(v), (vi), (vii) or (vii.1) of that Act, or
+. . .
+C is the total of all amounts that the individual received or is entitled to receive from the individual’s employer or the partnership, as the case may be, as a reimbursement in respect of the amount that was so deducted.
+Loi de l’impôt sur le revenu
+Éléments à inclure
+6.(1) Éléments à inclure à titre de revenu tiré d’une charge ou d’un emploi — Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables :
+[…]
+b) Frais personnels ou de subsistance — les sommes qu’il a reçues au cours de l’année à titre d’allocations pour frais personnels ou de subsistance ou à titre d’allocations à toute autre fin, sauf :
+[…]
+(v) les allocations raisonnables pour frais de déplacement reçues de son employeur par un employé et afférentes à une période pendant laquelle son emploi était lié à la vente de biens ou à la négociation de contrats pour son employeur,
+[…]
+(vi) les allocations raisonnables reçues par un ministre du culte ou un membre du clergé desservant un diocèse, une paroisse ou une congrégation, ou en ayant la charge, pour les frais de transport qu’a entraînés l’accomplissement des fonctions de sa charge ou de son emploi,
+(vii) les allocations raisonnables pour frais de déplacement, à l’exception des allocations pour l’usage d’un véhicule à moteur, qu’un employé — dont l’emploi n’est pas lié à la vente de biens ou à la négociation de contrats pour son employeur — a reçues de son employeur pour voyager, dans l’accomplissement des fonctions de sa charge ou de son emploi, à l’extérieur :
+(A) de la municipalité où était situé l’établissement de l’employeur dans lequel l’employé travaillait habituellement ou auquel il adressait ordinairement ses rapports,
+(B) en outre, le cas échéant, de la région métropolitaine où était situé cet établissement,
+(vii.1) les allocations raisonnables pour l’usage d’un véhicule à moteur qu’un employé — dont l’emploi n’est pas lié à la vente de biens ou à la négociation de contrats pour son employeur — a reçues de son employeur pour voyager dans l’accomplissement des fonctions de sa charge ou de son emploi,
+[…]
+pour l’application des sous-alinéas (v), (vi) et (vii.1), une allocation reçue au cours de l’année par le contribuable pour l’usage d’un véhicule à moteur dans l’accomplissement des fonctions de sa charge ou de son emploi est réputée ne pas être raisonnable dans les cas suivants :
+(x) l’usage du véhicule n’est pas, pour la fixation de l’allocation, uniquement évalué en fonction du nombre de kilomètres parcourus par celui-ci dans l’accomplissement des fonctions de la charge ou de l’emploi,
+(xi) le contribuable, à la fois, reçoit une allocation pour cet usage et est remboursé de tout ou partie de ses dépenses pour le même usage (sauf s’il s’agit d’un remboursement pour frais d’assurance‑automobile commerciale supplémentaire, frais de péage routier ou frais de traversier et si l’allocation a été déterminée compte non tenu des dépenses ainsi remboursées);
+Income tax act
+Inclusions
+6.(1) Amounts to be included as income from office or employment — There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable
+. . .
+(b) Personal or living expenses — all amounts received by the taxpayer in
+the year as an allowance for personal or living expenses or as an allowance for any other purpose, except
+. . .
+(v) reasonable allowances for travel expenses received by an employee from the employee’s employer in respect of a period when the employee was employed in connection with the selling of property or negotiating of contracts for the employee’s employer,
+. . .
+(vi) reasonable allowances received by a minister or clergyman in charge of or ministering to a diocese, parish or congregation for expenses for transportation incident to the discharge of the duties of that office or employment,
+(vii) reasonable allowances for travel expenses (other than allowances for the use of a motor vehicle) received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling away from
+(A) the municipality where the employer’s establishment at which the employee ordinarily worked or to which the employee ordinarily reported was located, and
+(B) the metropolitan area, if there is one, where that establishment was located,
+in the performance of the duties of the employee’s office or employment,
+(vii.1) reasonable allowances for the use of a motor vehicle received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling in the performance of the duties of the office or employment,
+. . .
+and for the purposes of subparagraphs 6(1)(b)(v), 6(1)(b)(vi) and 6(1)(b)(vii.1), an allowance received in a taxation year by a taxpayer for the use of a motor vehicle in connection with or in the course of the taxpayer’s office or employment shall be deemed not to be a reasonable allowance
+(x) where the measurement of the use of the vehicle for the purpose of the allowance is not based solely on the number of kilometres for which the vehicle is used in connection with or in the course of the office or employment, or
+(xi) where the taxpayer both receives an allowance in respect of that use and is reimbursed in whole or in part for expenses in respect of that use (except where the reimbursement is in respect of supplementary business insurance or toll or ferry charges and the amount of the allowance was determined without reference to those reimbursed expenses);
+Loi de l’impôt sur le revenu
+Déductions
+18.(1) Exceptions d’ordre général — Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+[…]
+r) Allocation pour usage d’une automobile — tout montant payé ou payable par le contribuable à titre d’allocation pour usage d’une automobile par un particulier, dans la mesure où ce montant excède le montant prescrit, sauf si le montant ainsi payé ou payable doit être inclus dans le calcul du revenu du particulier;
+Income Tax Act
+Deductions
+18.(1) — General limitations. In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+. . .
+(r) Certain automobile expenses — an amount paid or payable by the taxpayer as an allowance for the use by an individual of an automobile to the extent that the amount exceeds an amount determined in accordance with prescribed rules, except where the amount so paid or payable is required to be included in computing the individual’s income;
+[Non souligné dans l’original.]
+Les faits
+[2] La société IDF s’occupe de l’importation et de la distribution de produits alimentaires au Canada depuis 1948. Son chiffre d’affaires annuel se situait entre 85 millions et 90 millions de dollars durant la période pertinente. Pendant cette période, la société IDF avait à son service environ 80 employés (décrits comme étant des représentants commerciaux) qui se chargeaient de la distribution de ses produits et auxquels elle versait un salaire toutes les deux semaines. M. Domenic Nardolillo a témoigné que sa rémunération était en partie fixe et en partie fonction des ventes qu’il faisait. À part le directeur commercial, M. Nardolillo était le seul représentant commercial à témoigner à l’audience. Chaque représentant commercial se voyait attribuer un territoire exclusif qu’il devait couvrir. Le travail était en grande partie effectué sur la route et consistait à se rendre à des magasins et à prendre des commandes, cinq jours par semaine.
+[3] Les représentants commerciaux devaient utiliser leur propre véhicule pour accomplir leurs fonctions, et la société IDF leur versait une allocation d’automobile. Selon Mme Linda Ross, qui était responsable de la paie chez IDF, ces allocations d’automobile étaient constituées de trois volets : les frais d’essence, les frais d’assurance — jusqu’à concurrence de 1 000 $ — avec facture à l’appui, et d’autres frais concernant l’automobile. La société IDF déterminait le montant de l’allocation en faisant appel à sa bonne connaissance du nombre de kilomètres qu’il fallait parcourir pour couvrir un territoire précis. Selon Diane Dault, la responsable des ventes, qui travaille à la société depuis 29 ans, l’allocation est fonction du nombre de kilomètres parcourus par un représentant commercial et de l’objectif de ventes que celui‑ci devait atteindre. Par exemple, la société IDF tenait compte de l’expérience antérieure à l’égard d’un territoire précis, comme le nombre de kilomètres parcourus sur ce territoire au cours de l’année précédente. La société IDF recevait également des rapports de ventes quotidiens et hebdomadaires de chaque représentant commercial, de sorte qu’elle connaissait les clients auxquels les représentants avaient rendu visite sur le territoire.
+[4] Une fois que l’estimation des frais de déplacement annuels pour un territoire précis avait été faite, le montant total était divisé par 26, et une allocation fixe était versée toutes les deux semaines aux représentants commerciaux, en même temps que leur rémunération. Certains représentants commerciaux étaient autorisés à utiliser une carte de crédit de la société pour payer leur essence. Toutefois, le montant de telles opérations était déduit de l’allocation d’automobile (voir la pièce I‑1, à la page 4.21). En outre, l’allocation fixe versée à la quinzaine pouvait être rajustée tous les trois mois pour tenir compte du prix réel de l’essence (voir pièce I‑1, à la page 4.20).
+[5] Si un territoire était modifié et que le nombre de kilomètres à parcourir augmentait ou diminuait, l’allocation était rajustée. Toutefois, Mme Ross a signalé que, lorsqu’elle recevait les déclarations écrites concernant la distance parcourue annuellement à des fins professionnelles par les représentants commerciaux, elle ne faisait aucun rajustement de l’allocation totale versée pour l’année. Elle classait simplement les déclarations. En outre, Mme Dault a mentionné qu’elle ne vérifiait pas non plus ces déclarations écrites; elle ne vérifiait que les siennes.
+[6] La pièce I‑1 a été produite pour illustrer ce point. Elle concerne certains représentants commerciaux de la société IDF. Par exemple, Mme Diana Hénault a présenté, le 6 février 2007, une déclaration écrite faisant état de 15 367 kilomètres qu’elle avait parcourus en 2006. Selon le registre de paie à la quinzaine de la société IDF, Mme Hénault a reçu une allocation d’automobile fixe de 261,54 $ pour les périodes de paie se terminant les 6 et 20 octobre 2006. M. Marc Rousseau a mentionné dans sa déclaration écrite qu’il avait parcouru 28 103 kilomètres en 2006. Le montant de son allocation d’automobile fixe qui figurait sur le registre de paie était de 469,08 $ pour les mêmes périodes de paie que celles de Mme Hénault. M. Rousseau a parcouru une distance supérieure à celle parcourue par Mme Hénault et a reçu une allocation fixe supérieure à la sienne. Un autre exemple concerne le cas de Mme Josée Lafrenière, qui a signalé dans sa déclaration qu’elle avait parcouru 6 884 kilomètres en 2006; elle a reçu une allocation d’automobile de 392,32 $ pour les mêmes périodes de paie que Mme Hénault et M. Rousseau (pièce I‑1, aux pages 4.7 à 4.9). Toutefois, Mme Lafrenière n’a parcouru que 44,8 % de la distance parcourue par Mme Hénault, mais elle a reçu une allocation correspondant à 150 % de celle de Mme Hénault.
+[7] M. Siino, un employé du ministre qui a préparé les tableaux produits sous la cote I‑5 et I‑6, et qui a rédigé la partie intitulée « Autres constatations » dans le rapport de l’agente des appels (pièce I‑4), a signalé que certains représentants commerciaux avaient en outre reçu exactement la même allocation d’automobile, alors qu’ils n’avaient pas parcouru le même nombre de kilomètres. Il a également témoigné que le taux au kilomètre calculé par rapport au nombre total annuel de kilomètres parcourus par les représentants commerciaux et à l’allocation annuelle totale versée par la société IDF variait entre 0,11 $ et 1,35 $. Il a également précisé que, dans certains cas, le taux au kilomètre avait diminué au fil du temps. Le cas de M.Yves Beaucage a été cité à titre d’exemple : le taux est passé de 0,79 $ en 2006 à 0,48 $ en 2007.
+[8] Tout comme les observations de M. Siino, le résumé préparé par un comptable engagé par la société IDF relativement au présent appel fait état de variations du taux au kilomètre. Un représentant commercial, dont le nombre de kilomètres parcourus était bas, a reçu 0,65 $ par kilomètre alors qu’un autre, qui avait parcouru 38 748 kilomètres n’a reçu que 0,20 $ par kilomètre en 2005. Nous voyons des variations similaires en 2006 et en 2007. Un autre exemple est le cas d’un représentant commercial qui, en 2007, a reçu 1,35 $ par kilomètre pour 3 479 kilomètres (voir pièce A‑4 et I‑2).
+[9] Un des tableaux préparés par M. Siino (pièce I‑6) montre aussi que l’allocation versée par la société IDF était une allocation fixe versée à la quinzaine par opposition à une allocation au kilomètre issue de la multiplication d’un taux par le nombre réel de kilomètres parcourus à des fins professionnelles par un représentant commercial précis. Par exemple, dans le cas de M. Knowles, dont le nom apparaît à la pièce A‑4, le résumé montre qu’en 2007, on lui a versé 0,45 $ par kilomètre pour 36 375 kilomètres, soit une allocation totale de 16 305,01 $. Toutefois, ainsi que M. Siino l’a démontré par ses calculs, le taux réel par kilomètre était de 0,4482 et non le chiffre arrondi de 0,45 $. Si la société IDF avait payé 0,45 $, M. Knowles aurait reçu 63,74 $ de plus.
+[10] La méthode utilisée par la société IDF permettait dans la plupart des cas d’obtenir des résultats satisfaisants pour indemniser les représentants commerciaux relativement aux frais de déplacement qu’ils avaient supportés (pièce A‑4). Malgré les variations mentionnées ci‑dessus, une analyse du résumé préparé par le comptable montre que les allocations fixes versées étaient dans la plupart des cas raisonnables. En effet, lorsque l’on divise l’allocation annuelle par le nombre de kilomètres parcourus à des fins professionnelles par chacun des représentants commerciaux, les résultats font état d’un taux au kilomètre qui tournait généralement autour de 0,37 $ en 2005 et de 0,45 $ en 2006 et en 2007. Au cours de l’examen qu’elle a effectué à l’égard du résumé susmentionné, l’agente des appels, Mme Caroline Daviau, a dressé une liste des taux précisés dans le Règlement sur les impôts du Québec pour déterminer dans quelle mesure un montant serait déductible dans le calcul du revenu tiré d’une entreprise. Pour 2005, le taux au kilomètre était de 0,45 $ pour les 5 000 premiers kilomètres et de 0,39 $ par kilomètre par la suite; pour 2006 et 2007, le taux au kilomètre était de 0,50 $ pour les 5 000 premiers kilomètres et de 0,44 $ pour chaque kilomètre supplémentaire.
+[11] À l’audience et dans l’avis d’appel de la société IDF, l’avocat de celle‑ci a presque admis que les allocations d’automobile étaient fondées sur une estimation. Par exemple, dans l’avis d’appel de la société IDF, on trouve la déclaration suivante :
+[traduction]
+10. Les rajustements étaient rares, étant donné que les itinéraires précis permettaient d’obtenir une bonne estimation des kilomètres parcourus à des fins professionnelles;
+18. L’appelante n’a choisi de rajuster l’allocation pour le kilométrage que lorsqu’il y avait un écart important entre les kilomètres estimés et les kilomètres réels, étant donné que, d’un point de vue commercial, des rajustements mineurs auraient coûté plus cher à l’employeur que les rajustements réels[1];
+19. Les allocations pour le kilométrage étaient ainsi, en fait, calculées en fonction du kilométrage. Quant à la décision de ne pas faire de rajustement en cas d’écarts mineurs entre le kilométrage réel et le kilométrage estimé, l’appelante a le droit de mener ses affaires à sa guise;
+[Non souligné dans l’original.]
+[12] Dans sa lettre datée du 16 septembre 2009 adressée à Mme Daviau, le comptable a déclaré ce qui suit, à la page 2 : [traduction] « [C]haque allocation était négociée en fonction du nombre estimé de kilomètres qu’il fallait parcourir à des fins professionnelles et, si nécessaire, l’allocation était rajustée pour tenir compte du nombre de kilomètres réels[2] parcourus à des fins professionnelles. Veuillez noter que des rajustements [à la fin de l’année] étaient rares, étant donné qu’un itinéraire précis était attribué à la plupart des employés, ce qui permettait de faire une bonne estimation du nombre de kilomètres parcourus à des fins professionnelles. » (Pièce I‑2). [Non souligné dans l’original.]
+[13] J’ai conclu, à partir de cette description, que la société IDF versait une allocation qui était fondée sur une estimation du nombre de kilomètres qui devaient être parcourus par un représentant commercial et non sur le nombre réel de kilomètres parcourus. Le montant estimé représentait dans la plupart des cas des efforts très louables fournis par la société IDF pour établir une indemnité d’automobile raisonnable pour les employés. Toutefois, la question est de savoir si cette méthode satisfait aux exigences de l’article 174 de la LTA. Pour reprendre l’argument présenté par l’avocat de la société IDF, il faut trancher la question de savoir si l’estimation faite par la société IDF du nombre de kilomètres qui devaient être parcourus satisfait aux exigences de l’article 174 de la LTA. Plus précisément, pour reprendre le libellé de l’alinéa 174c) de la LTA, la question est de savoir si l’indemnité que la personne (l’employeur) considère comme étant raisonnable est une allocation raisonnable pour l’application du sous-alinéa 6(1)b)(v)[3]de la LIR.
+La thèse de l’appelante
+[14] L’avocat de la société IDF a soutenu, à l’audience, que l’article 174 de la LTA doit être appliqué non seulement par renvoi au sous‑alinéa 6(1)b)(v) de la LIR, mais aussi par renvoi au sous‑alinéa 6(1)b)(x) de la LIR[4]. Toutefois, il estime que les exigences pour l’application de l’article 174 de la LTA devraient recevoir une interprétation plus libérale, étant donné que cet article dispose que c’est la personne (l’employeur) qui doit déterminer si l’allocation était raisonnable au moment de son versement, et que cette détermination faite par la société IDF était raisonnable pour l’application du sous‑alinéa 6(1)b)(v) de la LIR. L’estimation du nombre de kilomètres à parcourir faite par la société IDF était suffisamment précise pour qu’il ne soit pas nécessaire de rajuster le montant de l’allocation à la fin de l’année pour tenir compte de l’utilisation réelle du véhicule.
+[15] De plus, l’avocat de la société IDF a affirmé que le montant déterminé par la société IDF était un bien meilleur calcul du nombre réel de kilomètres parcourus par chaque représentant commercial. À son avis, il serait peu probable que le calcul du nombre de kilomètres parcourus (tel qu’il ressort de la pièce I‑1) fait par les représentants commerciaux soit plus précis que celui fait par la société IDF. Par exemple, un employé aurait pu inclure dans son kilométrage les kilomètres parcourus entre sa résidence personnelle et le lieu d’affaires de la société IDF.
+[16] En outre, l’avocat de la société a fait valoir qu’une interprétation libérale de l’article 174 de la LTA s’impose, compte tenu du contexte dans lequel cette disposition doit être appliquée. Une interprétation trop restrictive, comme celle adoptée par le ministre, ferait perdre à la société IDF son droit aux CTI relativement à la TPS payée indirectement lors du versement d’allocations à ses employés. En fait, le refus des CTI donnerait lieu à un gain fortuit pour le ministre.
+[17] Toutefois, le comptable de la société IDF ne semble pas partager le point de vue exprimé par l’avocat de la société, puisqu’il a soutenu que les représentants commerciaux pouvaient récupérer les CTI. Le 27 octobre 2009, il s’est adressé à Mme Daviau en ces termes (pièce I‑3) :
+[traduction]
+En outre, veuillez noter que le fait de considérer les allocations d’automobile comme étant déraisonnables, ce qui les rendrait imposables, ne serait avantageux ni pour le ministre ni pour notre cliente.
+Ainsi que cela ressort des carnets de route déjà produits, les employés utilisent beaucoup leur automobile à des fins professionnelles et ils auraient donc le droit, en vertu de l’article 63.1 de la Loi sur les impôts du Québec, de déduire les montants dépensés à l’égard du véhicule pour les années en question.
+Il s’ensuivrait que le ministre devrait modifier les déclarations de revenus des particuliers pour 2005, 2006 et 2007 de tous les employés afin d’autoriser la déduction de dépenses d’emploi et les remboursements de TPS/TVQ.
+Compte tenu du fait qu’environ 110 employés seraient directement touchés, le ministre devrait modifier environ 330 déclarations de revenus des particuliers.
+[Non souligné dans l’original.]
+La thèse de l’intimée
+[18] L’avocate de l’intimée soutient que la cotisation devrait être confirmée parce que les allocations versées par la société IDF ne satisfont pas à toutes les exigences de l’article 174 de la LTA. Pour qu’une allocation soit considérée comme raisonnable pour l’application de l’alinéa 174c) de la LTA, il est nécessaire que l’usage du véhicule soit évalué uniquement en fonction du nombre de kilomètres parcourus par celui‑ci dans l’accomplissement de la charge ou de l’emploi, comme l’exige le sous‑alinéa 6(1)b)(x) de la LIR. L’avocate de l’intimée a invoqué, au soutien de cette position, la décision Tri‑Bec Inc. v. R., 2003 G.S.T.C. 75, 2003 G.T.C. 762, 2002 G.S.T.C. 27 (Fr.). Au paragraphe 19 de cette décision, la juge Lamarre Proulx a fait les observations suivantes :
+Je suis d’avis que le susdit sous-alinéa (x) de la Loi de l’impôt sur le revenu est clair. Comme l’article 174 de la Loi se rapporte à cette disposition législative, une allocation raisonnable pour l’usage d’un véhicule est celle qui est fixée en fonction du nombre de kilomètres parcourus par le contribuable dans l’accomplissement de la charge ou de l’emploi[5].
+[Non souligné dans l’original.]
+[19] Dans l’arrêt Beauport, où le champ d’application du sous‑alinéa 6(1)b)(x) de la LIR a été examiné, le juge Noël, de la Cour d’appel fédérale, a fait les observations suivantes, au paragraphe 17 :
+17 Or, le système mis en place par la demanderesse ne tient pas compte des kilomètres parcourus par les employés pendant la période pour laquelle les allocations sont versées, mais se fonde sur un estimé basé sur l’expérience de la période précédente. Il s’agit là précisément du type de calcul que le législateur a écarté en adoptant le sous-alinéa 6(1)b)(x) et la lecture qu’a faite le premier juge de cette disposition tout en étant fidèle au texte n’est aucunement incompatible avec le concept d’allocation.
+[Non souligné dans l’original.]
+[20] Les faits pertinents de cette affaire sont résumés au paragraphe 5 des motifs de l’arrêt Beauport de la manière suivante :
+5 La preuve révèle que la demanderesse a élaboré une « politique concernant les allocations d’automobile » à partir de données contenues dans une publication spécialisée, en l’occurrence celle du Club automobile (CAA Québec). Pour en arriver à un prix au kilomètre, elle a, de concert avec le syndicat, dégagé des moyennes de coûts qui prennent en compte les frais fixes et les frais variables rattachés à l’utilisation d’un véhicule. Elle a par la suite appliqué ce prix, ou tarif, à une valeur représentant l’estimation du kilométrage parcouru annuellement à partir d’une extrapolation des kilomètres réels parcourus par ses employés au cours d’une période de référence de trois mois.
+[Non souligné dans l’original.]
+L’analyse
+[21] En l’espèce, tout comme dans l’arrêt Beauport, la société IDF a déterminé l’allocation en fonction de l’expérience antérieure. L’évaluation de l’usage du véhicule était une estimation du nombre de kilomètres qu’il fallait parcourir sur un territoire précis. L’allocation pouvait être rajustée tous les trois mois pour tenir compte du coût réel de l’essence. Toutefois, j’estime que ce rajustement ne permettait pas de faire une distinction entre l’utilisation du véhicule dans l’accomplissement des fonctions de l’emploi et l’utilisation du véhicule à des fins personnelles. En outre, à la fin de l’année, lorsque les représentants commerciaux déclaraient le nombre de kilomètres parcourus à des fins professionnelles durant l’année, la société IDF ne rajustait pas l’allocation versée dans l’année. En l’espèce, le taux au kilomètre déterminé par le comptable de la société IDF a été utile pour établir le caractère raisonnable des allocations versées; toutefois, le nombre réel de kilomètres parcourus à des fins professionnelles par un représentant commercial donné n’a pas été utilisé pour déterminer l’allocation réelle versée au représentant. Par conséquent, ainsi que je l’ai déjà mentionné, les allocations versées étaient fondées sur une estimation des kilomètres qu’il fallait parcourir et non sur le nombre réel de kilomètres représentant l’usage du véhicule par les représentants dans l’accomplissement de leurs fonctions durant l’année pertinente.
+[22] Si la LIR était la seule loi applicable, le bien‑fondé de l’appel interjeté par la société IDF serait facile à établir, à la lumière des déclarations faites par la Cour d’appel fédérale dans l’arrêt Beauport, lequel a confirmé la décision du juge Dussault, de la Cour. Toutefois, la question à trancher est de savoir si les allocations d’automobile versées aux représentants répondent aux exigences de l’article 174 de la LTA. Plus particulièrement, il faut décider si, pour l’application du sous‑alinéa 6(1)b)(v) de la LIR, il était raisonnable pour la société IDF de déterminer qu’elle avait versé une allocation raisonnable. Au début de l’audience, j’ai avisé les parties que je me posais des questions concernant la déclaration faite dans la décision Tri‑Bec, au paragraphe 19, qui est reproduit ci‑dessus. J’ai mentionné que je ne croyais pas que l’article 174 de la LTA renvoyait explicitement au sous‑alinéa 6(1)b)(x) de la LIR et que je n’étais pas certain si ce sous‑alinéa était applicable.
+[23] Après avoir examiné la thèse de chacune des parties, y compris les observations écrites de celles‑ci, et après avoir réfléchi à la question, je crois que le fait que l’article 174 de la LTA ne renvoie pas explicitement au sous‑alinéa 6(1)b)(x) de la LIR ne signifie pas nécessairement qu’il n’y renvoie pas implicitement. En l’espèce, les avocats des deux parties ont déclaré dans leur argumentation qu’ils croyaient que la règle énoncée au sous‑alinéa 6(1)b)(x) de la LIR devait être prise en considération dans l’application du sous‑alinéa 6(1)b)(v) de la LIR pour l’application de l’alinéa 174c) de la LTA. En outre, c’est le même avis[6] qui est exprimé dans le Goods and Services Tax Reporter (CCH) et le Canada GST Service (Carswell). Dans ce dernier, David Sherman a écrit ce qui suit au sujet de l’article 174 de la LTA, dans la section G, sous le titre « Whether a Travel Allowance is ‘Reasonable’ — Paragraph 174(c) » (Une allocation de déplacement est-elle « raisonnable »? — L’alinéa 174c)) :
+[traduction]
+Pour de telles allocations, l’alinéa 174c) exige que l’employeur, la société de personnes, l’organisme de bienfaisance ou l’institution publique considère raisonnablement que l’allocation est « raisonnable » selon la LIR. Selon les sous‑alinéas 6(1)b)(x) et (xi), certaines allocations sont réputées ne pas être raisonnables : [...]
+Le sous‑alinéa 6(1)b)(x) constitue une dérogation expresse aux sous‑alinéas (v) –(vii.1), de sorte que, même si une allocation est par ailleurs « raisonnable », elle est déraisonnable si elle n’est pas fondée uniquement sur le nombre de kilomètres parcourus : Beauport (Ville) v. R., [2002] 2 C.T.C. 161 (C.A.F.).
+Autrement dit, une allocation fixe versée mensuellement, ou une allocation versée en plus d’un remboursement, est réputée déraisonnable. Aucun crédit de taxe sur les intrants ou remboursement de TPS ne peut être accordé pour le volet TPS d’une telle allocation. (Voir les décisions Tri-bec et Melville Motors dont il est question dans la section M ci‑dessous.)
+[Non souligné dans l’original.]
+[24] Dans le Goods and Services Tax Reporter, à la section 65‑800 sous le titre « Employee Allowances » (Allocations versées aux employés), il est déclaré ce qui suit :
+[traduction]
+Les sous‑alinéas 6(1)b)(v), (vi), (vii) ou (vii.1) de la LIR s’appliquent. Ces dispositions s’appliquent aux allocations de déplacement, y compris les allocations d’automobile versées à des représentants de commerce […] En conséquence, une allocation qui n’est pas raisonnable selon le critère de l’évaluation en fonction du nombre de kilomètres parcourus, énoncé au sous‑alinéa 6(1)b)(x) de la LIR et du critère de remboursement à deux volets énoncé au sous-alinéa 6(1)b)(xi) ne serait pas une allocation raisonnable pour l’application de l’article 174 de la Loi sur la taxe d’accise (LTA). Toutefois, le particulier pourrait peut‑être demander un remboursement en vertu de l’article 253.
+[Non souligné dans l’original.]
+[25] Je crois aussi que l’interprétation ainsi faite de l’article 174 de la LTA est la plus raisonnable de toutes, compte tenu du fait que la question qu’il faut trancher à l’article 174 de la LTA est de savoir si l’indemnité serait une « allocation raisonnable pour l’application de », c’est‑à‑dire pour l’application du sous-alinéa 6(1)b)(v) de la LIR. Le renvoi implicite au sous‑alinéa 6(1)b)(x) de la LIR est nécessaire à cause de la relation étroite qui existe entre les articles 174 et 253 de la LTA et le sous‑alinéa 6(1)b)(v) de la LIR. Il est évident que l’intention du législateur était de faire en sorte que ces trois dispositions soient étroitement liées. Cela ressort manifestement non seulement du libellé de l’alinéa 174c) et du paragraphe 253(1)[7]de la LTA, mais aussi des notes explicatives[8] publiées par le ministère des Finances lorsque l’alinéa 174 c) de la LTA a été modifié en 1993. Pour comprendre le contexte de ces notes et de ces modifications, il est utile de reproduire ci‑après les articles 174 et 253 de la LTA tels qu’ils étaient libellés avant les modifications de 1993 :
+174 Indemnités de déplacement et autres — Pour l’application de la présente partie, dans le cas où une personne verse une indemnité raisonnable à son salarié ou, si elle est une société de personnes, à un associé, pour des fournitures dont la totalité, ou presque, est constituée de fournitures taxables, sauf des fournitures détaxées, dont ils étaient les acquéreurs au Canada relativement à une activité exercée par la personne, ou pour l’utilisation au Canada d’un véhicule à moteur relativement à cette activité, et où un montant au titre de cette indemnité est déductible dans le calcul du revenu de la personne pour son année d’imposition en application de la Loi de l’impôt sur le revenu, ou le serait si elle était un contribuable aux termes de cette loi et l’activité, une entreprise, la personne est réputée :
+a) avoir reçu une fourniture taxable;
+b) avoir payé, au moment où elle verse l’indemnité, la taxe relative à la fourniture, égale à la fraction de taxe de l’indemnité.
+253(1) Salariés et associés — Dans le cas où une taxe est payable relativement à
+l’acquisition ou à l’importation d’une automobile, d’un aéronef ou d’un instrument de musique ou relativement à la fourniture d’un autre bien ou service, par un particulier – associé d’une société de personnes qui est un inscrit ou salarié d’un inscrit (sauf une institution financière désignée) – et où le particulier n’a pas droit au crédit de taxe sur les intrants relatif à la taxe, le ministre verse au particulier pour chaque année civile un remboursement calculé selon la formule suivante :
+A x (B - C)
+où :
+A représente une fraction de la taxe applicable le dernier jour de l’année;
+B le total des montants dont chacun représente soit la déduction pour amortissement applicable à l’automobile, à l’aéronef ou à l’instrument de musique, soit tout ou partie de la contrepartie de la fourniture de l’autre bien ou service, qui est déduite en application de la Loi de l’impôt sur le revenu dans le calcul du revenu du particulier pour l’année tiré d’un emploi ou de la société;
+C le total des montants dont chacun représente un montant inclus dans le total calculé à l’élément B et pour lequel le particulier a reçu une indemnité ou un remboursement d’une autre personne.
+[Non souligné dans l’original.]
+[26] Voici les notes explicatives concernant la nouvelle version des articles 174 et 253 de la LTA :
+[traduction]
+Projet de loi C‑112 (le 11 février 1993)
+[...]
+L’article 174 : Indemnités des salariés et des associés
+L’article 174 porte sur les indemnités versées aux salariés et aux associés à l’égard des dépenses engagées par le salarié ou l’associé et la personne qui verse une indemnité est réputée avoir reçu une fourniture et payé la taxe. De cette façon, la personne a droit à un crédit de taxe sur les intrants en application de l’article 169 à l’égard de l’indemnité, dans la mesure où la taxe a été payée dans le cadre des activités commerciales de la personne. L’article actuel ne s’applique qu’aux indemnités considérées « raisonnables » aux fins de l’impôt sur le revenu. Étant donné que, dans le cas de salariés, le caractère « raisonnable » de l’indemnité n’est pas définitivement déterminé avant que le salarié détermine son revenu à la fin de l’année d’imposition, il pourrait arriver que l’on refuse un crédit de taxe sur les intrants demandé antérieurement à l’égard d’une indemnité estimée être une allocation raisonnable par l’employeur qui paie l’indemnité, parce que le salarié l’avait ensuite considérée non raisonnable aux fins de l’impôt sur le revenu. Cette situation se présenterait le plus souvent lorsque le salarié considère l’indemnité insuffisante pour couvrir ses dépenses réelles à l’égard desquelles l’indemnité a été versée – c’est‑à‑dire une indemnité déraisonnablement basse.
+La modification de l’article 174 traite de ce problème en prévoyant qu’une personne aura droit à un crédit de taxe sur les intrants ou à un renboursement à l’égard d’une indemnité si, au moment du paiement de l’indemnité, la personne peut considérer à juste titre que l’indemnité est raisonnable aux fins de l’impôt sur le revenu (ou, dans le cas d’une indemnité versée à un associé, que l’indemnité est raisonnable aux fins de l’impôt sur le revenu si l’associé était, au contraire, un salarié).
+Cette modification met en œuvre les changements annoncés dans les communiqués du 27 mars 1991, du 14 septembre 1992 et du 9 décembre 1992 et entre en vigueur le 1er janvier 1991.
+Paragraphes 253(1) et (2): Remboursement aux salariés et aux associés
+La plus importante modification apportée au paragraphe 253(1) est l’introduction d’une exigence concernant les attestations relatives aux allocations versées aux salariés ou aux associés d’une société de personnes. Le paragraphe 253(1) modifié précise qu’un salarié n’a pas droit au remboursement prévu dans cette disposition relativement à des dépenses pour lesquelles il a reçu une allocation, à moins qu’il obtienne de la personne qui verse l’allocation une attestation comme quoi cette dernière ne jugeait pas, au moment du versement de l’allocation, que celle‑ci était une allocation raisonnable aux fins des sous‑alinéas 6(1)b)(v), (vi), (vii) ou (vii.1) de la Loi de l’impôt sur le revenu.
+[...]
+Cette modification découle de celles qui ont été apportées à l’article 174, aux termes desquelles les personnes sont réputées avoir payé des taxes, et ont ainsi droit à un crédit de taxe sur les intrants ou à un remboursement au titre d’une indemnité selon que, au moment du versement de celle‑ci, la personne jugeait le montant raisonnable aux fins de l’impôt sur le revenu. La modification apportée au paragraphe 253(1) permettra donc de veiller à ce qu’aucun remboursement ne soit versé à un salarié ou à un associé lorsque l’employeur ou la société de personnes a droit à un crédit de taxe sur les intrants ou à un remboursement à l’égard de la même dépense.
+Cette modification était annoncée dans les communiqués de presse du 14 septembre 1992 et du 9 décembre 1992. Des attestations d’allocations seront nécessaires pour les remboursements demandés au titre des années d’imposition 1992 et suivantes. L’attestation figurera sur le formulaire de demande de remboursement.
+Le paragraphe 253(1) est également modifié de manière à remplacer le mot « automobile » par l’expression « véhicule à moteur », conformément à la terminologie employée à l’alinéa 8(1)j) de la Loi de l’impôt sur le revenu, qui a récemment été modifiée de manière à faire mention d’un « véhicule à moteur » plutôt que d’une « automobile ». Ce changement était annoncé dans le communiqué de presse du 27 mars 1991.
+[Non souligné dans l’original.]
+[27] Bien que l’on puisse soutenir que le sous‑alinéa 6(1)b)(x) de la LIR ne s’applique pas pour l’application de l’alinéa 174c) de la LTA au motif que cet alinéa ne renvoie pas explicitement au sous‑alinéa 6(1)b)(x) de la LIR, je crois que la meilleure position qu’il convient d’adopter est qu’il s’applique. Par conséquent, il faut tenir compte du sous‑alinéa 6(1)b)(x) de la LIR pour déterminer ce qui constitue une allocation raisonnable pour l’application du sous‑alinéa 6(1)b)(v) de la LIR. Je ne vois aucune raison d’écarter son application. Au contraire, j’estime qu’il existe de nombreuses raisons qui militent en faveur de son application. Pour que la société IDF puisse demander des CTI relativement à des allocations d’automobile en vertu de l’article 174 de la LTA, les allocations doivent être raisonnables selon le sous‑alinéa 6(1)b)(v) de la LTA. Selon le sous‑alinéa 6(1)b)(x) de la LTA, une allocation par ailleurs raisonnable selon le sous‑alinéa 6(1)b)(v) est réputée ne pas être raisonnable si l’usage du véhicule n’est pas évalué uniquement en fonction du nombre de kilomètres parcourus.
+[28] À mon avis, il est logique de tenir compte du sous‑alinéa 6(1)b)(x) de la LIR dans l’application du sous‑alinéa 6(1)b)(v) de la LIR pour l’application de l’article 174 de la LTA. Il en découle une application plus harmonieuse de ces deux lois qu’il n’en serait autrement, application qui peut être illustrée de la manière suivante en l’espèce. Compte tenu du fait qu’au titre de la LIR, les représentants commerciaux de la société IDF devaient inclure l’allocation d’automobile dans leur revenu parce qu’il ne s’agissait pas d’une allocation raisonnable en raison de l’application du sous‑alinéa 6(1)b)(x) de la LIR, la société IDF pouvait déduire l’allocation en vertu de l’alinéa 18(1)r) de la LIR, parce qu’elle était incluse dans le revenu d’emploi des représentants de la société IDF. Ces représentants devaient normalement déduire leurs frais d’automobile en application de l’alinéa 8(1)f) de la LIR[9] et demander le remboursement de TPS en application de l’article 253 de la LTA. Dans ce cas‑là, le « crédit » de TPS (c’est‑à‑dire les CTI ou le remboursement) est demandé par la personne qui déduit les frais d’automobile. Il s’agit d’un résultat logique. En effet, si l’on devait adopter le point de vue de la société IDF, on aboutirait à un résultat étrange parce que la société IDF pourrait demander les CTI et les représentants ne le pourraient pas, bien que ce serait ces derniers qui déduiraient les frais d’automobile. Il en serait ainsi parce que la société IDF ne pourrait pas fournir l’attestation qui est exigée à l’article 253 de la LTA pour que les représentants aient le droit de demander le remboursement de TPS. Le mécanisme qui exige une attestation, décrit à l’article 253 de la LTA, vise à éviter que l’employeur et le salarié ne reçoivent chacun des CTI et le remboursement pour les mêmes dépenses[10].
+[29] J’ai conclu que l’interprétation qu’il convient d’accorder à l’alinéa 174c) de la LTA exige que la détermination de ce qui constitue une allocation raisonnable aux termes du sous‑alinéa 6(1)b)(v) de la LIR tienne compte du sous‑alinéa 6(1)b)(x) de la LIR telle qu’elle a été interprétée par la Cour d’appel fédérale dans l’arrêt Beauport. J’ai également conclu que les allocations versées par la société IDF n’ont pas été déterminées uniquement en fonction du nombre de kilomètres parcourus par les représentants commerciaux. Malheureusement pour la société IDF, la conséquence inéluctable qui en découle est le non‑respect des exigences de l’article 174 de la LTA. Ainsi que le juge Noël l’a fait observer dans l’arrêt Beauport, au paragraphe 17, le fait de fonder une allocation sur une estimation du nombre de kilomètres parcourus « [est] précisément [le] type de calcul que le législateur a écarté en adoptant le sous‑alinéa 6(1)b)(x)[11] ». Pour que la détermination faite par la société IDF (selon laquelle l’indemnité était une allocation raisonnable au moment où elle a été versée) soit raisonnable, elle doit être conforme au sous‑alinéa 6(1)b)(v) de la LIR, et tenir compte de la règle déterminative énoncée au sous‑alinéa 6(1)b)(x) de la LIR. Le but de permettre à un employeur, en vertu de l’alinéa 174c) de la LTA, de déterminer ce qui est raisonnable au moment du paiement n’est pas de donner à l’employeur le pouvoir de définir le concept juridique d’« allocation raisonnable », mais de lui accorder la souplesse de conclure à ce moment‑là (en l’espèce, toutes les deux semaines), compte tenu de tous les rajustements effectués au cours de l’année, y compris ceux effectués à la fin de l’année, que l’allocation respecte la définition juridique de l’expression « allocation raisonnable[12] ».
+[30] Pour les motifs exposés ci‑dessus, l’appel interjeté par la société IDF est rejeté, et les dépens sont adjugés à l’intimée.
+Signé ce 17e jour de janvier 2013.
+« Pierre Archambault »
+Juge Archambault
+Traduction certifiée conforme
+ce 2e jour de juillet 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2013 CCI 15
+No DU DOSSIER DE LA COUR : 2010-1002(GST)G
+INTITULÉ : I-D Foods corporation c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 13 novembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge Pierre Archambault
+DATE DU JUGEMENT : Le 17 janvier 2013
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Aaron Rodgers
+Avocate de l’intimée :
+Me Brigitte Landry
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Aaron Rodgers
+Cabinet : Garfinkle Nelson-Wiseman
+Montréal (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le fondement factuel de cet argument n’a pas été établi durant l’audience.
+[2] Voir note 1.
+[3] Dans la réponse à l’avis d’appel, l’intimée mentionne le sous‑alinéa 6(1)b)(vii.1) de la LIR, qui s’applique à d’autres employés que ceux dont l’emploi est lié à la vente de biens, ces derniers étant visés au sous-alinéa 6(1)b)(v) de la LIR. À mon avis, c’est le dernier sous‑alinéa qui est applicable en l’espèce, compte tenu du fait que les représentants commerciaux s’occupaient de la vente de produits alimentaires de la société IDF.
+[4] Le point de vue de cet avocat était légèrement différent dans ses observations écrites datées du 7 janvier 2013.
+[5] Ce paragraphe a été cité et approuvé dans d’autres décisions de la Cour, y compris la décision Cat Bros. Oilfield Construction Ltd. c. M.R.N., 2010 CCI 287, au paragraphe 57, et la décision Melville Motors Ltd. c. La Reine, 2003 CCI 444, [2003] G.S.T.C. 128, au paragraphe 9. Toutefois, il conviendrait de noter que la décision Cat Bros. concernait la Loi sur l’assurance‑emploi, tout comme l’arrêt Beauport, précité, rendu par la Cour d’appel fédérale.
+[6] Voir aussi Michael Matthews, « What’s that factor? Employees expenses » (Quel est ce facteur? Les dépenses d’employé), au symposium fiscal de 2002, Ottawa, septembre et octobre 2002, aux pages 15 et 16.
+[7] Voir, en particulier, le passage de l’élément B de la formule figurant au paragraphe 253(1) de la LTA qui précède l’alinéa a) et qui se lit comme suit :
+[...] soit une allocation raisonnable pour l’application des sous-alinéas 6(1)b)(v), (vi), (vii) ou (vii.1) de cette loi, soit, si cette personne est une société dont le particulier est un associé, une allocation qui serait une allocation raisonnable pour l’application des sous-alinéas 6(1)b)(v), (vi), (vii) ou (vii.1) de cette loi si le particulier était un salarié de cette société à ce moment [...]
+[8] Le passage suivant explique le but des notes explicatives (du projet de loi C‑112, du 11 février 1993), telles qu’elles ont été communiquées par le ministère des Finances :
+Les présentes notes explicatives ont pour but de faciliter la compréhension des modifications qu’il est proposé d’apporter à la Loi sur la Taxe d’accise, la Loi sur l’accès à l’information, le Régime de pensions du Canada, la Loi sur les douanes, la Loi sur la Cour fédérale, la Loi de l’impôt sur le revenu, la Loi sur la Cour canadienne de l’impôt, la Loi sur la cession au remboursement en matière d’impôt, la Loi sur l’assurance‑emploi et une loi connexe. Les présentes notes explicatives sont publiées uniquement à titre d’information et ne constituent pas l’interprétation officielle des dispositions qui y sont résumées.
+[9] L’alinéa 8(1)f) de la LIR est ainsi libellé :
+Déductions
+8. (1) Éléments déductibles — Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+f) Dépenses de vendeurs — lorsque le contribuable a été, au cours de l’année, employé pour remplir des fonctions liées à la vente de biens ou à la négociation de contrats pour son employeur [...]
+[10] Voir l’arrêt Le Groupe Commerce Compagnie d’Assurances v. The Queen, 99 DTC 5491 (CAF), 96 DTC 1958 (CCI), pour l’exemple d’une démarche similaire dans un contexte factuel et légal différent.
+[11] Il a été ajouté par L.C. 1988, ch. 55, par. 1(3), applicable aux années d’imposition 1988 et suivantes.
+[12] Il s’agit de la politique administrative suivie par le ministre. Voir aussi, à titre d’exemple, le bulletin d’interprétation IT‑522 R, au paragraphe 44. C’est également l’interprétation que les tribunaux ont adoptée. Voir aussi la décision Tri-Bec, précitée, aux paragraphes 20 et 21.

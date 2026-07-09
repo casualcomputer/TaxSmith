@@ -1,0 +1,150 @@
+Title: Kallis c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520924/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-47-520924-kallis-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-04-25
+
+# Kallis c. La Reine
+
+- Citation: 2022 CCI 47
+- Decision date: 2022-04-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4518, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kallis c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-04-25
+Référence neutre
+2022 CCI 47
+Numéro de dossier
+2017-4032(IT)G
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-4032(IT)G
+ENTRE :
+MICHAEL KALLIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 17 septembre 2020, à Calgary, en Alberta. Observations écrites fondées sur le paragraphe 98(3) de la Loi de l’impôt sur le revenu, déposées le 1er octobre 2020 (appelant) et le 8 octobre 2020 (intimée).
+Devant : l’honorable juge Susan Wong
+Comparutions :
+Avocat de l’appelant :
+Me Matthew Clark
+Avocate de l’intimée :
+Me Valerie Meier
+ORDONNANCE
+Des dépens de 13 639,58 $ sont adjugés à l’intimée, plus les débours raisonnables et les taxes applicables.
+Signé à Ottawa, Canada, ce 25e jour d’avril 2022.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+ce 14e jour de juin 2022.
+François Brunet, réviseur
+Référence : 2022 CCI 47
+Date : 25 avril 2022
+Dossier : 2017-4032(IT)G
+ENTRE :
+MICHAEL KALLIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE RELATIVE AUX DÉPENS
+La juge Wong
+Introduction/survol
+[1] Dans le jugement que j’ai rendu le 1er septembre 2021, rejetant l’appel avec dépens en faveur de l’intimée, j’ai accordé du temps aux parties afin qu’elles puissent parvenir à une entente sur les dépens, à défaut de quoi il leur a été enjoint de déposer des observations écrites à mon attention. J’ai également avisé les parties que, si je n’avais aucune nouvelle d’elles au sujet des dépens, ils seraient adjugés à l’intimée conformément au tarif B [1] .
+[2] Puisque les parties ne sont pas parvenues à une entente sur les dépens; elles ont présenté des observations écrites. Voici ce que soutient l’intimée : (1) les dépens prévus au tarif jusqu’à la date à laquelle elle a signifié une offre de règlement; (2) les dépens prévus au tarif après le prononcé du jugement; (3) les dépens indemnitaires substantiels [2] à compter du jour suivant la signification d’une offre de règlement jusqu’à la date du prononcé du jugement. L’appelant s’y oppose et soutient que les dépens prévus au tarif sont appropriés.
+Contexte et chronologie des événements
+[3] L’audience d’une durée d’une journée s’est déroulée le 17 septembre 2020 dans le cadre d’une instance de catégorie C. La principale question en litige était de savoir si, entre 2010 et 2014, l’appelant exploitait une entreprise de prêt d’argent ou s’il était un investisseur, ce qui, en retour, déterminait si ses pertes étaient imputables au revenu ou au capital au cours de ces années. Il y avait aussi la question secondaire de savoir si les frais juridiques qu’il a engagés dans le but de recouvrer des sommes d’argent étaient déductibles.
+[4] L’intimée a signifié une offre de règlement écrite le 10 juin 2020. Dans cette offre, il était proposé qu’en ce qui concerne la question secondaire, l’appelant puisse se voir accorder une perte en capital de 25 000 $, constituant une perte en capital déductible de 12 500 $. Avant que l’intimée ne signifie l’offre, les parties ont suivi les étapes précédant le contentieux, y compris un interrogatoire écrit de l’appelant, la demande d’aveux de l’intimée et la réponse de l’appelant à la demande d’admission.
+[5] L’appelant reconnaît que les exigences en matière de délais, prévues par le paragraphe 147(3.3) des Règles de la Cour canadienne de l’impôt (procédure générale) ont été respectées pour ce qui est de l’offre écrite.
+Demande de dépens présentée par l’intimée
+[6] La demande de l’intimée de se voir accorder les dépens prévus par le tarif B [3] est répartie comme suit :
+1(1)a)
+pour tous les services fournis avant l’interrogatoire préalable qui ne sont pas par ailleurs énumérés [...]
+700,00 $
+1(1)b)
+pour la communication de documents ou l’inspection de biens
+200,00 $
+1(1)f)
+pour un [...] avis de demande d’admission
+500,00 $
+1(1)i)
+pour les services fournis après le prononcé du jugement
+450,00 $
+[7] L’intimée sollicite également des dépens de 700 $ en application de l’alinéa 1(1)c) pour la préparation de ses observations sur les dépens, comparables à ceux relatifs à une requête. Par conséquent, l’intimée sollicite des dépens totalisant 2 550 $, selon le tarif.
+[8] En ce qui concerne la partie des dépens indemnitaires substantiels de la demande de dépens de l’intimée, cette dernière sollicite 11 089,58 $ [4] , selon le calcul suivant :
+Les heures que l’avocate de l’intimée a enregistrées, soit 56,73 heures (63,68 heures moins 6,95 heures de déplacement) du 7 juillet 2020 au 8 octobre 2020 [5] ;
+Le taux horaire de l’avocate de l’intimée, soit 244,35 $ conformément au taux horaire du Groupe praticiens du droit de niveau LP-2 publié par le Conseil du Trésor du Canada au cours de l’exercice financier 2020-2021 [6] ;
+80 % de (56,73 heures x 244,35 $), soit 11 089,58 $ [7] .
+Cadre juridique
+[9] Les paragraphes 147(3.1) et (3.2) sont des images inversées en ce qui a trait aux dépens indemnitaires substantiels, et ne diffèrent que quant à la partie qui fait l’offre visant à déclencher le règlement. En l’espèce, alors que l’intimée a présenté l’offre, le paragraphe 3.2 s’applique. Le libellé précis est important, et dispose de ce qui suit :
+147. (3.2) Sauf directive contraire de la Cour, lorsque l’intimée fait une offre de règlement et que l’appelant obtient un jugement qui n’est pas plus favorable que l’offre de règlement, ou que l’appel est rejeté, l’intimée a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+[10] Par conséquent, le paragraphe 147(3.2) accorde par défaut le droit aux dépens indemnitaires substantiels tout en maintenant le pouvoir discrétionnaire de la Cour. L’objectif est d’encourager les parties à en arriver à un règlement à un stade précoce dans la mesure du possible du fait du droit reconnu par défaut, qui annule les obstacles habituels (ou les conditions) à l’adjudication de dépens majorés [8] . Le droit reconnu par défaut doit être évalué au regard du pouvoir discrétionnaire général de la Cour d’accorder des dépens justes et appropriés, qui répondent aux circonstances particulières de chaque cas [9] . Le pouvoir discrétionnaire d’écarter le droit conféré par défaut doit être exercé seulement de manière cohérente, et ce droit ne doit pas être écarter à la légère [10] .
+Discussion
+[11] En ce qui concerne la question du revenu par rapport au capital, l’intimée a contesté la qualification des dépenses, mais n’a pas contesté le fait qu’elles ont été engagées. D’autre part, en ce qui a trait à la question secondaire des frais juridiques, la réponse à l’avis d’appel alléguait que l’appelant n’avait pas établi qu’il avait personnellement engagé les frais juridiques, à défaut de quoi ces frais constituaient une dépense en capital [11] .
+[12] Lors de l’audience, l’intimée n’a toujours pas admis que les frais juridiques avaient été engagés, en faisant remarquer, au cours du contre-interrogatoire [12] et de la plaidoirie finale que la preuve de l’appelant reposait sur une traite bancaire payée au syndic de faillite. Même si la question secondaire avait une valeur nettement inférieure à celle de la question principale, il s’agissait d’une question en litige pour les deux parties. Dans son offre, l’intimée proposait de reconnaître que les frais juridiques avaient été engagés (et constituaient une dépense en capital), tandis qu’à l’audience, l’intimée n’a pas reconnu que ces frais avaient été engagés. Par conséquent, l’offre de l’intimée ne peut pas être considérée comme une offre lui demandant de capituler, comme l’a affirmé l’appelant.
+[13] Je peux comprendre la façon dont l’appelant peut considérer l’importance relative de l’offre de l’intimée comme équivalant à une offre lui demandant de capituler. Cependant, les deux parties ont choisi d’adopter l’approche tout ou rien relativement à la question principale du revenu par rapport au capital, et c’était leur droit le plus strict. Dans les circonstances, logiquement, je ne saurais écarter le droit conféré par défaut à l’intimée aux dépens indemnitaires substantiels.
+Conclusion
+[14] L’intimée a droit aux dépens totalisant13 639,58 $, qui comprend des dépens de 2 550 $ selon le tarif ainsi que des dépens indemnitaires substantiels de 11 089,58 $, plus les débours raisonnables et les taxes applicables.
+Signé à Ottawa, Canada, ce 25e jour d’avril 2022.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+ce 14e jour de juin 2022.
+François Brunet, réviseur
+RÉFÉRENCE :
+2022 CCI 47
+NO DU DOSSIER DE LA COUR :
+2017-4032(IT)G
+INTITULÉ :
+MICHAEL KALLIS ET LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+17 septembre 2020. Observations écrites fondées sur le paragraphe 98(3) de la Loi de l’impôt sur le revenu, déposées le 1er octobre 2020 (appelant) et le 8 octobre 2020 (intimée)
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Susan Wong
+DATE DE L’ORDONNANCE :
+Le 25 avril 2022
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Matthew Clark
+Avocate de l’intimée :
+Me Valerie Meier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Matthew Clark
+Cabinet :
+Matthew Clark Professional Corporation Calgary (Alberta)
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Tarif B de l’annexe II des Règles de la Cour canadienne de l’impôt (procédure générale)
+[2] Paragraphe 147(3.2) des Règles de la Cour canadienne de l’impôt (procédure générale).
+[3] Affidavit de Linda Plitt souscrit le 25 novembre 2021, pièce D (mémoire de frais de l’intimée)
+[4] Affidavit de Linda Plitt souscrit le 25 novembre 2021, pièce D (mémoire de frais de l’intimée)
+[5] Affidavit de Linda Plitt souscrit le 25 novembre 2021, pièce E
+[6] Affidavit de Nicolas Wojcik souscrit le 24 novembre 2021, au paragraphe 14
+[7] Paragraphe 147(3.5) des Règles de la Cour canadienne de l’impôt (procédure générale)
+[8] Sun Life du Canada, compagnie d’assurance-vie c. La Reine, 2015 CCI 171 (CanLII), au paragraphe 8; Ike Enterprises Inc c. La Reine, 2017 CCI 160, au paragraphe 15
+[9] Transalta Corporation c. Canada, 2013 CAF 285 (CanLII), au paragraphe 31
+[10] Sun Life du Canada, compagnie d’assurance-vie c. La Reine, 2015 CCI 171 (CanLII), aux paragraphes 10 et 11
+[11] Réponse à l’avis d’appel, paragraphes 32 et 33
+[12] Transcription de l’audience, page 56, aux lignes 22 à 28, page 58, aux lignes 9 à 13, page 95, aux lignes 7 et 8, page 109, aux lignes 6 à 28 et page 110, aux lignes 1 à 4

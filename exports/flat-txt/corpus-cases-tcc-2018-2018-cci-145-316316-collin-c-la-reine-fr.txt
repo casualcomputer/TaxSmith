@@ -1,0 +1,165 @@
+Title: Collin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/316316/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-145-316316-collin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-07-18
+
+# Collin c. La Reine
+
+- Citation: 2018 CCI 145
+- Decision date: 2018-07-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4959, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Collin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-07-18
+Référence neutre
+2018 CCI 145
+Numéro de dossier
+2016-128(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-128(GST)I
+ENTRE :
+RÉAL COLLIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 13 avril 2018, à Montréal (Québec).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Bobbie Dion
+JUGEMENT
+L’appel à l’encontre de la cotisation établie à l’égard de l’appelant en vertu de la Partie IX de la Loi sur la taxe d’accise dont l’avis est daté du 26 mai 2015 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de juillet 2018.
+« Réal Favreau »
+Juge Favreau
+Référence : 2018 CCI 145
+Date : 20180718
+Dossier : 2016-128(GST)I
+ENTRE :
+RÉAL COLLIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit ici d’un appel logé par monsieur Réal Collin qui est juge au Tribunal administratif du Québec, Section des affaires immobilières.
+[2] L’appel porte sur une cotisation établie en vertu de la Partie IX de la Loi sur la taxe d’accise L.R.C. (1985), ch. E-15, telle que modifiée (la « LTA ») par le ministre du Revenu du Québec en tant que mandataire du ministre du Revenu national, (ci-après le « ministre ») dont l’avis est daté du 26 mai 2015.
+[3] La cotisation en litige fait suite à une demande de remboursement de la taxe sur les produits et services / taxe de vente harmonisée (« TPS/TVH ») pour habitations neuves d’un montant de 4 446,68 $ concernant l’immeuble sis au 1008-10200, boulevard de l’Acadie à Montréal (ci-après l’« immeuble »).
+[4] Le montant de la cotisation s’élève à 4 849,94 $ et comprend le montant du remboursement refusé de 4 445,68 $ et des intérêts sur arriéré de 404,26 $.
+[5] La question en litige consiste à déterminer si l’immeuble servait de résidence habituelle à la conjointe de l’appelant, madame Nadia Maftah, qui est d’origine marocaine.
+[6] Les circonstances ayant mené à l’acquisition de l’immeuble sont les suivantes :
+a) l’appelant et sa conjointe se sont mariés en 1998;
+b) madame Maftah a émigré au Québec en 1999 et elle est venue habiter avec l’appelant au 6397, rue Monette à Val-Morin (le « 6397 rue Monette ») qui appartenait à l’appelant en propriété exclusive;
+c) de 1999 à 2004, madame Maftah travaillait comme agent passager à l’aéroport de Mirabel;
+d) suite à la fermeture de l’aéroport de Mirabel en 2004, madame Maftah a été transférée à l’aéroport Pierre-Elliot-Trudeau de Montréal où elle a continué d’exercer les mêmes fonctions;
+e) le voyagement entre l’aéroport de Montréal et Val-Morin (190 kilomètres à l’aller/retour) quatre à cinq fois par semaine et, parfois six fois par semaine, selon les exigences de son employeur, avec des horaires variables, de jour, de soir et même de nuit, sans compter les multiples retards des horaires des aéronefs et les conditions hivernales des routes sont devenus insoutenables au fil des ans;
+f) en décembre 2011, l’appelant et sa conjointe ont eu l’opportunité d’acheter l’immeuble en prévente et ils en ont pris possession à la fin de la construction en septembre 2013.
+[7] Les modalités d’acquisition de l’immeuble sont les suivantes :
+a) l’appelant a d’abord signé une première promesse d’achat en date du 11 novembre 2011 pour l’achat de l’immeuble;
+b) le nom de madame Maftah a été ajouté sur la promesse d’achat originale de l’immeuble et, le 22 décembre 2011, une nouvelle promesse d’achat de l’immeuble a alors été signée par l’appelant et sa conjointe;
+c) selon cette dernière offre d’achat, le prix d’achat total de l’immeuble était de 271 900,00 $, payable en partie par des dépôts successifs de 13 595,00 $ lors de la signature de la promesse d’achat et aux dates suivantes, soit le 23 février 2012 et le 17 mai 2012;
+d) le contrat de vente notarié de l’immeuble porte la date du 16 septembre 2013 et a été conclu entre, d’une part, les sociétés 9245-4818 Québec inc., 9239-1309 Québec inc. et 9214-7669 Québec inc. et, d’autre part, monsieur Réal Collin et madame Nadia Maftah;
+e) le prix de vente total de l’immeuble était pour la somme de 271 900,00 $ lequel était constitué de la façon suivante :
+- prix de l’immeuble (terrain et bâtisse) =
+246 982,20 $
+- taxe sur les produits et services (T.P.S.) =
+12 349,11 $
+- ristourne sur la T.P.S. =
+4 445,68 $
+- taxe de vente du Québec (T.V.Q.) =
+22 043,16 $
+- ristourne sur la T.V.Q. =
+5 028,79 $
+f) aux termes du contrat de vente, les vendeurs ont porté au crédit des acquéreurs les montants de T.P.S. et de T.V.Q. qui leur sont remboursables, soit 4 445,68 $ quant à la T.P.S. et 5 028,79 $ quant à la T.V.Q. et les acquéreurs ont cédé aux vendeurs tous leurs droits dans lesdits remboursements.
+[8] L’immeuble est une unité de condominium de 975 pieds carrés comprenant 2 chambres à coucher, 2 salles de bain, une cuisine et un salon, située au 10e étage d’une tour de 150 logements. Selon l’appelant, l’immeuble a toujours été occupé par lui et sa conjointe et n’a jamais été sous-loué depuis son acquisition.
+[9] L’appelant a mis en preuve des relevés de cartes de crédit émises à son nom et au nom de sa conjointe montrant, entre autres choses, des achats de rideaux, de luminaires et de meubles effectués à Montréal et à Laval pour meubler le condominium.
+[10] L’appelant a, de plus, mis en preuve un relevé d’une facture de Vidéotron Ltée datée du 13 novembre 2015 émise à l’appelant à l’adresse du condominium, de même que des relevés de cartes de crédit en liasse appartenant à l’appelant et à sa conjointe pour des périodes antérieures et postérieures à l’acquisition du condominium et une note datée du 15 décembre 2015 du dentiste de la conjointe de l’appelant indiquant qu’elle fréquente la clinique dentaire sise sur la rue Bélanger à Montréal.
+[11] Lors de son témoignage, l’appelant a apporté les précisions suivantes :
+a) le prix d’achat de l’immeuble a été payé à la hauteur de 120 000,00 $ à 140 000,00 $ par sa conjointe tandis que le solde a été payé par lui;
+b) l’appelant a payé l’hypothèque, les taxes, l’électricité et le câble du condominium depuis son acquisition;
+c) l’appelant a payé tous les meubles pour l’usage du condominium et aucun meuble provenant de la résidence de Val-Morin a été déménagé au condominium;
+d) l’appelant a indiqué qu’il utilise à l’occasion le condominium lorsqu’il doit se rendre aux bureaux du Tribunal administratif du Québec à Montréal. Sa conjointe l’utilise les jours de semaine quand elle travaille alors qu’elle passe normalement les fins de semaine à Val-Morin;
+e) l’immeuble est, depuis son acquisition, assuré à titre de résidence secondaire; et
+f) l’appelant et sa conjointe n’ont effectué aucun changement d’adresse auprès de leurs employeurs respectifs, auprès de l’Agence du revenu du Canada et de l’Agence du revenu du Québec, auprès de la Régie de l’assurance-maladie du Québec et de la Régie de l’assurance-automobile du Québec, auprès de leur banque à Sainte‑Agathe-des-Monts, auprès de la Ville de Montréal pour les taxes foncières, ni auprès d’Élections Québec.
+[12] Madame Maftah a également témoigné à l’audience et elle a expliqué qu’elle vivait à Montréal la semaine et à Val-Morin les fins de semaine; qu’elle faisait son épicerie à Montréal; qu’elle fréquentait une clinique dentaire et une clinique médicale sans rendez-vous de même qu’un gymnase, tous situés à Montréal.
+[13] Madame Maftah a aussi expliqué qu’elle avait magasiné l’ameublement et la décoration du condominium avec son amie, madame Naima Chenfouri, qui demeurait dans l’immeuble voisin du condominium acquis par elle et son conjoint, chez qui, avant qu’elle ne fasse l’acquisition du condominium, elle pouvait passer la nuit lorsqu’elle ne pouvait retourner à Val-Morin. Madame Maftah avait alors la clé de l’appartement de son amie.
+[14] Madame Maftah a aussi reconnu qu’elle n’avait pas effectué de changement d’adresse auprès de son employeur, de la banque à Sainte-Agathe-Des-Monts, de la Société d’assurance-automobile du Québec, de la ville de Montréal et d’Élections Québec.
+[15] Madame Chenfouri a témoigné à l’audience et elle a expliqué qu’elle était devenue une amie de madame Maftah en 2006 lorsque cette dernière a été transférée à Montréal et qu’elle lui avait prêté la clé de son appartement pour qu’elle puisse l’utiliser les jours où elle ne pouvait se rendre à Val-Morin.
+[16] Madame Chenfouri a aussi expliqué que seulement des meubles neufs avaient été achetés par le couple pour meubler le condominium.
+[17] Selon madame Chenfouri, madame Maftah vivait à Montréal la semaine et à Val-Morin les fins de semaine. Elle a de plus indiqué que madame Maftah ne passait pas la nuit à Val-Morin si l’appelant n’y était pas.
+Les dispositions législatives applicables
+[18] Un remboursement d’une partie de la TPS ou de la composante fédérale de la TVH est accordé, dans des conditions particulières, aux particuliers qui achètent un immeuble d’habitation neuf d’un constructeur. Une des conditions particulières est que l’immeuble doit être acquis par des particuliers pour qu’il serve de lieu de résidence habituelle. Cette condition est prévue à l’alinéa 254(2)b) de la LTA qui se lit comme suit :
+a.254(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+[…]
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+[19] Aux fins de la disposition qui précède, le mot « proche » signifie l’ex-époux ou ancien conjoint de fait d’un particulier ou un autre particulier lié à ce particulier (voir le paragraphe 254(1) de la LTA).
+[20] Une autre disposition pertinente aux fins du présent litige est le paragraphe 299(3) de la LTA qui établit qu’une cotisation en vertu de la LTA est réputée être valide et exécutoire sous réserve d’une nouvelle cotisation ou d’une annulation prononcée par suite d’une opposition ou d’un appel.
+Analyse et conclusion
+[21] La cotisation établie par le ministre en se fondant sur des présomptions de fait est réputée être valide et exécutoire et il incombe à l’appelant de démolir les présomptions du ministre afin de montrer que la cotisation est erronée. L’appelant peut s’acquitter de ce fardeau en présentant une preuve prima facie que les présomptions du ministre sont erronées.
+[22] La jurisprudence a, maintes fois, établi qu’une preuve prima facie est une preuve appuyée par des éléments qui soulèvent un tel degré de probabilité qu’elle doit être acceptée par la Cour, à moins qu’elle ne soit réfutée ou que le contraire soit prouvée.
+[23] Le ministre a conclu que l’appelant n’avait pas droit au remboursement parce que lui-même et sa conjointe ne satisfaisaient pas aux exigences prévues à l’alinéa 254(2)b) de la LTA selon lesquelles l’immeuble doit être acquis pour servir de « lieu de résidence habituelle ».
+[24] L’appelant et sa conjointe ont déclaré au contrat de vente de l’immeuble qu’ils acquéraient ledit immeuble pour qu’il leur serve de résidence habituelle en prenant possession le 16 septembre 2013. Les termes de cette déclaration sont comme suit :
+L’acquéreur déclare être un particulier et acquérir ledit immeuble pour qu’il lui serve de résidence habituelle en prenant possession à la date des présentes.
+[25] Aux fins du contrat de vente, le terme « acquéreur » comprenait à la fois l’appelant et sa conjointe.
+[26] Au paragraphe suivant la déclaration mentionnée au paragraphe 24, les parties au contrat de vente ont déclaré avoir satisfait à toutes les exigences requises par l’article 254 de la LTA portant sur le droit au remboursement de la TPS pour les maisons neuves. En l’occurrence, les parties ont sûrement fait référence à la signature du formulaire prescrit pour le remboursement de taxes accordé par le constructeur pour une nouvelle habitation lequel fut signé par l’appelant le 5 septembre 2013 et dans lequel il déclare qu’il a acheté un immeuble d’habitation pour lui ou un de ses proches comme lieu de résidence habituelle.
+[27] La jurisprudence de cette Cour et plusieurs énoncés de politique relatifs à la législation sur la TPS/TVH ont utilisé les facteurs suivants pour déterminer ce qui constitue un lieu de résidence habituelle :
+- l’intention du contribuable d’utiliser l’habitation neuve comme lieu de résidence habituelle;
+- la durée de l’occupation de l’habitation neuve;
+- l’adresse de correspondance utilisée;
+- le moment de l’emménagement et celui où les effets personnels ont été déménagés;
+- les causes d’un éventuel retard du déménagement s’il en est;
+- les détails de la couverture d’assurance; et
+- tout autre facteur pertinent compte tenu des circonstances de l’affaire.
+[28] En l’espèce, l’intention déclarée de l’appelant et de sa conjointe au contrat de vente et au formulaire pour réclamer le remboursement de taxes était d’utiliser l’immeuble comme lieu de résidence habituelle pour lui et/ou pour sa conjointe mais cette intention ne s’est pas transposée dans la réalité par des gestes concrets montrant un déplacement du port d’attache ou du centre d’intérêts économiques de Val-Morin à Montréal.
+[29] Je suis convaincu que l’appelant et sa conjointe ont occupé et habité l’immeuble mais pas de manière habituelle. Il n’y a pas de preuve prépondérante au dossier que l’immeuble a été utilisé comme lieu de résidence habituelle par l’appelant ou par sa conjointe.
+[30] L’appelant et sa conjointe n’ont effectué aucun changement d’adresse. L’appelant n’a jamais eu l’intention de vendre sa résidence de Val-Morin et n’a posé aucun geste en ce sens. L’immeuble a été assuré comme résidence secondaire. Selon la preuve, il n’y a pas eu de déménagement de meubles de Val−Morin à Montréal puisque l’immeuble a été entièrement meublé à l’aide de meubles neufs achetés à Montréal et dans les environs. De plus, il n’y a rien dans la preuve pour démontrer que les effets personnels de la conjointe de l’appelant ont été déménagés au condominium. Les affaires bancaires de la conjointe de l’appelant sont demeurées à Sainte-Agathe-Des-Monts. La preuve n’a révélé aucune estimation basée sur des données précises du pourcentage de temps passé à l’immeuble par rapport au temps passé à Val-Morin par la conjointe de l’appelant.
+[31] Selon l’ensemble de la preuve soumise, je suis arrivé à la conclusion que l’immeuble a servi de pied-à-terre à Montréal à la fois pour l’appelant et pour sa conjointe dans le cadre de leur emploi respectif.
+[32] Compte tenu de ce qui précède, je conclus que l’immeuble n’a pas été acquis pour servir à l’appelant et/ou à sa conjointe comme lieu de résidence habituelle au sens de l’alinéa 254(2)b) de la LTA comme l’exige cette disposition. Par conséquent, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de juillet 2018.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2018 CCI 145
+Nº DU DOSSIER DE LA COUR :
+2016-128(GST)I
+INTITULÉ DE LA CAUSE :
+Réal Collin et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 13 avril 2018
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 18 juillet 2018
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Bobbie Dion
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,423 @@
+Title: Renaud c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27260/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-353-27260-renaud-c-la-reine-en.md
+Document type: case_law
+Last modified: 2006-08-08
+
+# Renaud c. La Reine
+
+- Citation: 2006 TCC 353
+- Decision date: 2006-08-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 801, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Renaud c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-08-08
+Neutral citation
+2006 TCC 353
+File numbers
+2005-2913(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2913(IT)I
+BETWEEN:
+DENIS RENAUD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Bruno Beaupré (2005-2936(IT)I), Estate of Alain Beaupré (2005‑2934(IT)I), Louis Valois (2005-2927(IT)I)), Rénald Beaumont (2005-2926(IT)I), Yvon Robert (2005-2921(IT)I), Gary McClean (2005‑2920(IT)I) and Hugues Guimont (2005-2915(IT)I) June 1, 2006, at Québec, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Michel Martel
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 1998, 1999, 2000, 2001, 2002 and 2003 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of August 2006.
+Paul Bédard
+Bédard J.
+Translation certified true
+on this 30th day of April 2007.
+Gibson Boyd, Translator
+Docket: 2005-2936(IT)I
+BETWEEN:
+BRUNO BEAUPRÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Denis Renaud (2005-2913(IT)I), Estate of Alain Beaupré (2005‑2934(IT)I), Louis Valois (2005-2927(IT)I)), Rénald Beaumont (2005-2926(IT)I), Yvon Robert (2005-2921(IT)I), Gary McClean (2005‑2920(IT)I) and Hugues Guimont (2005-2915(IT)I) June 1, 2006, at Québec, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Michel Martel
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 1999, 2000, 2001, 2002 and 2003 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of August 2006.
+Paul Bédard
+Bédard J.
+Translation certified true
+on this 30th day of April 2007.
+Gibson Boyd, Translator
+Docket: 2005-2934(IT)I
+BETWEEN:
+ESTATE OF ALAIN BEAUPRÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Denis Renaud (2005-2913(IT)I), Bruno Beaupré (2005-2936(IT)I), Louis Valois (2005‑2927(IT)I)), Rénald Beaumont (2005-2926(IT)I), Yvon Robert (2005-2921(IT)I), Gary McClean (2005‑2920(IT)I) and Hugues Guimont (2005-2915(IT)I) June 1, 2006, at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Michel Martel
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2000, 2001, 2002 and 2003 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of August 2006.
+Paul Bédard
+Bédard J.
+Translation certified true
+on this 30th day of April 2007.
+Gibson Boyd, Translator
+Docket: 2005-2927(IT)I
+BETWEEN:
+LOUIS VALOIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Denis Renaud (2005-2913(IT)I, Bruno Beaupré (2005-2936(IT)I), Bruno Beaupré (2005‑2936(IT)I), Estate of Alain Beaupré (2005‑2934(IT)I), Rénald Beaumont (2005-2926(IT)I),Yvon Robert (2005-2921(IT)I), Gary McClean (2005‑2920(IT)I) and Hugues Guimont (2005-2915(IT)I) June 1, 2006, at Québec, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Michel Martel
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 1998, 1999, 2001, 2002 and 2003 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of August 2006.
+Paul Bédard
+Bédard J.
+Translation certified true
+on this 30th day of April 2007.
+Gibson Boyd, Translator
+Docket: 2005-2926(IT)I
+BETWEEN:
+RÉNALD BEAUMONT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Denis Renaud (2005-2913(IT)I), Bruno Beaupré (2005-2936(IT)I), Estate of Alain Beaupré (2005‑2934(IT)I), Louis Valois (2005‑2927(IT)I)), Yvon Robert (2005-2921(IT)I), Gary McClean (2005‑2920(IT)I) and Hugues Guimont (2005-2915(IT)I) June 1, 2006, at Québec, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Michel Martel
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 1998, 1999, 2000, 2001, and 2002 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of August 2006.
+Paul Bédard
+Bédard J.
+Translation certified true
+on this 30th day of April 2007.
+Gibson Boyd, Translator
+Docket: 2005-2921(IT)I
+BETWEEN:
+YVON ROBERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Denis Renaud (2005-2913(IT)I), Bruno Beaupré (2005-2936(IT)I), Estate of Alain Beaupré (2005‑2934(IT)I), Louis Valois (2005-2927(IT)I)), Rénald Beaumont (2005-2926(IT)I), Gary McClean (2005‑2920(IT)I) and Hugues Guimont (2005-2915(IT)I) June 1, 2006, at Québec, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Michel Martel
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 1999, 2000, 2001, 2002 and 2003 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of August 2006.
+Paul Bédard
+Bédard J.
+Translation certified true
+on this 30th day of April 2007.
+Gibson Boyd, Translator
+Docket: 2005-2920(IT)I
+BETWEEN:
+GARY MCCLEAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Denis Renaud (2005-2913(IT)I)), Bruno Beaupré (2005-2936(IT)I), Estate of Alain Beaupré (2005‑2934(IT)I), Louis Valois (2005‑2927(IT)I)), Rénald Beaumont (2005-2926(IT)I), Yvon Robert (2005-2921(IT)I), and Hugues Guimont (2005-2915(IT)I) June 1, 2006, at Québec, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Michel Martel
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 1998, 1999, 2000, 2001, 2002 and 2003 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of August 2006.
+Paul Bédard
+Bédard J.
+Docket: 2005-2915(IT)I
+BETWEEN:
+HUGUES GUIMONT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Denis Renaud (2005-2913(IT)I), Bruno Beaupré (2005-2936(IT)I), Estate of Alain Beaupré (2005‑2934(IT)I), Louis Valois (2005-2927(IT)I)), Rénald Beaumont (2005-2926(IT)I), Yvon Robert (2005-2921(IT)I) and Gary McClean (2005‑2920(IT)I) June 1, 2006, at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Michel Martel
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1998 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of August 2006.
+Paul Bédard
+Bédard J.
+Citation: 2006TCC353
+Date: 20060808
+Docket: 2005-2913(IT)I
+BETWEEN:
+DENIS RENAUD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2005-2936(IT)I
+BRUNO BEAUPRÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2005-2934(IT)I
+ESTATE OF ALAIN BEAUPRÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+2005-2927(IT)I,
+LOUIS VALOIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2005-2926(IT)I
+RÉNALD BEAUMONT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2005-2921(IT)I
+YVON ROBERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2005-2920(IT)I
+GARY MCCLEAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2005-2915(IT)I
+HUGUES GUIMONT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] These appeals, filed under the informal procedure, were heard on common evidence at Québec, Quebec, on June 1, 2006.
+[2] In reassessments dated September 2, 2004, the Minister of National Revenue (the “Minister”) added to the Appellants’ incomes the following amounts for the taxation years from 1998 to 2003 as employment income. The Minister also imposed the following penalties under subsection 163(2) of the Income Tax Act (the “Act”):
+1998
+1999
+2000
+2001
+2002
+2003
+Denis Renaud
+I[1] $4,785
+P[2] $607.84
+I $7,146
+P $951.66
+I $10,503
+P $1,231.36
+I $8,880
+P $842.27
+I $2,788
+P $256.55
+I $159
+P $100
+Bruno Beaupré
+I $9,848
+P $137.58
+I $4,911
+P $680.45
+I $3,145
+P $367.64
+I $1,251
+P $146.52
+I $3,396
+P $323.50
+Estate of Alain Beaupré
+I $1,646
+P $192.38
+I $5,495
+P $71.46
+I $283
+P $100
+I $220
+P $100
+Louis Valois
+I $610
+P $100
+I $69
+P $100
+I $1,524
+P $140.04
+I $2,009
+P $185.02
+I $347
+P $100
+Renald Beaumont
+I $2784
+P $342.97
+I $1,994
+P $239.65
+I $8,827
+P $1,079.33
+I $6,472
+P $508.18
+I $30
+P $100
+Yvon Robert
+I $188
+P $100
+I $4,061
+P $465.51
+I $3,172
+P $331.06
+I $4,050
+P $504.21
+I $728
+P $100
+Gary McClean
+I $338
+P $100
+I $1,152
+P $207.57
+I $4,559
+P $434.20
+Hugues Guimont
+I $124.36
+P $1,590.23
+Preliminary Remarks
+[3] It should be pointed out that the Appellants did not testify. On the other hand Frédérik Huard and Jeannôt Roy, investigators for the Canada Customs and Revenue Agency (the “Agency”) testified in favour of the Respondent’s position. The Appellants were represented by Michel Martel, an accountant.
+[4] Given the admission by the Agent for the Appellants that the Appellants had knowingly failed to report their employment income concerned in these reassessments, except with regard to the first taxation year for which they were assessed, the issues consist in determining whether:
+(i) the Minister was justified in making a reassessment after the normal period for reassessment pursuant to subparagraph 152(4)(a)(i) of the Act, with regard to Mr. Renaud for his 1998 taxation year, Mr. Beaupré for his 1999 taxation year, the estate of Alain Beaupré for its 2000 taxation year, Mr. Valois for his 1998 taxation year, Mr. Beaumont for his 1998 taxation year, Mr. Robert for his 1999 taxation year and Mr. Guimont for his 1998 taxation year;
+(ii) the Minister was justified in assessing the following penalties against the Appellants pursuant to subsection 163(2) of the Act:
+Penalties Year
+Denis Renaud $607.84 1998
+Bruno Beaupré $137.58 1999
+Estate of Alain Beaupré $192.38 2000
+Louis Valois $100.00 1998
+Rénald Beaumont $342.97 1998
+Yvon Robert $100.00 1999
+Gary McClean $100.00 2001
+Hugues Guimont $1,590.23 1998
+Respondent’s evidence
+[5] Mr. Huard, auditor at the Agency, testified that following the Agency’s investigation of Société Quincaillerie Durand Inc., the Minster executed search warrants at the premises of S.M. Construction Inc., Pagui Inc. and Tardif Metal Inc., and at the residence of Serge Tardif, controlling shareholder and president of these companies, active in the construction sector. The investigation concerned the benefits paid to the employees of these companies. During these searches, the Minister seized the computer files of these companies. The computer files revealed that the companies had developed a scheme that consisted in keeping the employees’ salary information in more than one payroll record. There were payroll records for each of the companies, where the data corresponding to the T4 “Statement of Remuneration Paid” slips and the T4-A “Summary” slips were recorded. Furthermore, there was a system parallel to the payroll record. This was a time bank system used to record part of the employees’ overtime hours as well as the means of payment for these hours. The benefits paid to the employees through this system were not indicated on the employees’ T4 slips; therefore no tax was collected on these amounts. This scheme enabled 148 employees of these companies to avoid paying taxes. The computer files seized made it possible to identify all of the beneficiaries of this scheme and to find out all of the amounts that they had received as employment benefits and the details of those benefits for each of the beneficiaries. Their compensation included personal goods purchased from suppliers of these companies, living allowances that the employees were not entitled to and the supply of fuel for personal use. These companies, as well as Serge Tardif, plead guilty to tax evasion charges for the 1998 to 2001 taxation years and paid fines totalling more than $148,000. These companies paid the employees benefits totalling close to one million dollars for the taxation years from 1998 to 2001 and no tax was deducted at source on these amounts.
+[6] Following that, the Respondent filed as evidence an excerpt from the computer file seized at the headquarters of Pagui Inc., the Appellants’ employer (Exhibit I-3). Exhibit I-3 clearly shows the number of overtime hours that had been recorded in the parallel time bank system for each of the Appellants and for each of the taxation years in question. Also indicated are the benefits paid to the Appellants through this system that had not been included in the T4 slips and on which no tax had been collected. These benefits consisted of personal goods purchased from suppliers of Pagui Inc., in particular from Quincaillerie Durand Inc., of living or transportation allowances that the Appellants were not entitled to under their collective agreement and the supply of fuel for personal use.
+[7] Mr. Huard explained that the Appellants and their employer had received the following benefits from this scheme:
+(i) the employer paid the Appellants for overtime hours worked at a lower hourly rate prescribed in the collective agreements in effect in the construction sector;
+(ii) the employees paid no tax on the compensation received for their overtime hours.
+[8] The agent for the Appellants alleged in his submissions that the employees had no choice choice but to accept the scheme set up by their employer, who only hired employees who accepted this method of compensation for overtime. He also argued, without proving it however, that the Appellants only realized from the second taxation year at issue that the compensation for their overtime hours did not appear on their T4 slips.
+Conclusion
+[9] With regard to the justification put forward by the agent for the Appellants to the effect that his clients had to agree to their employer’s scheme if they wanted to earn their living, I would simply say that honesty and respect for the law are not optional, but compulsory, regardless of the circumstances. As for the argument raised by the agent for the Appellants to the effect that the Appellants didn’t realize until the second of their taxation years at issue that their overtime hours did not appear on their T4 slips, I am of the opinion that it is not only implausible, but also absurd. I will also recall that no evidence was submitted in support of this argument. The Appellants could have at least testified to give their version of the facts.
+[10] In my opinion, the Minister has met the burden of proof incumbent upon him with regard to the penalties that he had imposed on the Appellants for the first of their taxation years at issue. Indeed, the Minister demonstrated, on the balance of probabilities, that the Appellants had knowingly made omissions in their income tax returns for the first of the taxation years at issue. The Minister clearly demonstrated that the Appellants had knowingly agreed to and participated in the scheme set up to avoid paying tax. Their participation was an essential link in the execution of the scheme and they benefited from it. It takes two to tango. It is simply impossible for me to come to another conclusion. Since the Minister met his burden of proof with regard to the penalty, he was justified in making reassessments after the normal period for reassessments.
+[11] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 8th day of August 2006.
+Paul Bédard
+Bédard J.
+Translation certified true
+on this 30th day of April 2007.
+Gibson Boyd, Translator
+CITATION: 2006TCC353
+COURT FILE NO.: Dockets 2005-2913(IT)I, 2005-2936(IT)I, 2005-2934(IT)I, 2005-2927(IT)I, 2005‑2926(IT)I, 2005-2921(IT)I,
+2005-2920(IT)I, 2005-2915(IT)I
+STYLE OF CAUSE: Denis Renaud, Bruno Beaupré, Estate of Alain Beaupré, Louis Vidal, Rénald Beaumont, Yvon Robert, Gary McClean, Hughes Guimont and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: June 1, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: August 8, 2006
+APPEARANCES:
+Agent for the Appellants:
+Michel Martel
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income added.
+[2] Penalties imposed under subsection 163(2) of the Act.

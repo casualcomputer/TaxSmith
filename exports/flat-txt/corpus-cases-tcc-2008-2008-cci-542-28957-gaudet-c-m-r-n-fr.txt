@@ -1,0 +1,150 @@
+Title: Gaudet c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28957/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-542-28957-gaudet-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-11-10
+
+# Gaudet c. M.R.N.
+
+- Citation: 2008 CCI 542
+- Decision date: 2008-11-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1398, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gaudet c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-10
+Référence neutre
+2008 CCI 542
+Numéro de dossier
+2006-3088(EI)
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Docket: 2006-3088(EI)
+BETWEEN:
+CLAIRE GAUDET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+LÉONCE GAUTHIER,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard ON September 9, 2008, in Moncton, New Brunswick.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marie-Claude Landry
+For the Intervener:
+The Intervener himself
+JUDGMENT
+The appeal is allowed and the Minister’s decision dated October 16, 2006, pursuant to the Employment Insurance Act, is amended in such a way as to stipulate that the Appellant’s employment during the period from March 1, 2005, to February 28, 2006, is insurable in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of November 2008.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 9th day of January 2009.
+Bella Lewkowicz, Translator
+Citation: 2008 TCC 542
+Date: 20081110
+Docket: 2006-3088(EI)
+BETWEEN:
+CLAIRE GAUDET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+LÉONCE GAUTHIER,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+[1] This is an appeal pursuant to the Informal Procedure from a decision made by the Minister of National Revenue regarding the period from March 1, 2005, to February 28, 2006 (“relevant period”), during which the Appellant’s employment with Léone Gauthier (“Intervener”) was not insurable employment. The details of the appeal are outlined in paragraphs 1(c), (d), (e), (f) and (h) of the Reply to the Notice of Appeal.
+[2] When he rendered his decision, the Respondent relied on the following assumptions of fact (the Appellant’s response to each assumption is listed in parentheses at the end of each paragraph):
+5.a) the Payor’s need for in-home care was assessed by the Department of Family and Community Services for the Province of New Brunswick (the “DFCS”); (admitted)
+b) based on their assessment, the DFCS determined the Payor was eligible to receive financial assistance for approximately 217 hours of in-home care per month for himself and for his elderly mother; (no knowledge)
+c) the Payor engaged the part-time services of 2 individuals, one of which was the Appellant; (admitted)
+d) the Payor could not have paid the Appellant for the services she provided without the financial assistance he received from the DFCS; (no knowledge)
+e) the Appellant’s duties included assisting the Payor with his bath, preparing the mid-day meal, housekeeping/housecleaning chores, and attending to the personal hygiene needs of the Payor and his mother; (admitted)
+f) the Appellant performed her duties at the Payor’s home; (admitted)
+g) the Appellant was paid $8 per hour and worked approximately 25 hours per week, from 9 :00 to 2 :00, Monday to Friday; (admitted)
+h) the Appellant’s duties and hours of work were determined by the Payor; (admitted)
+i) the Appellant was free to choose the manner and sequence in which her assigned duties were accomplished; (denied)
+j) the Appellant was not regularly required to run any errands or take the Payor to medical or other appointments; (admitted)
+k) the Appellant did not require any special tools or equipment and the Payor provided all the supplies she required in the performance of her duties; (admitted)
+l) the Appellant did not incur any expenses in the course of performing her duties for the Payor; (admitted)
+m) the Appellant recorded the hours she worked on time-sheets, which the Payor submitted to DFCS for reimbursement to the Payor; (admitted)
+n) the DFCS reimbursed the Payor, who in turn paid the Appellant bi-weekly by cheque and she was paid for the hours she worked; (denied)
+o) the Payor did not deduct or remit any statutory payroll deductions; (admitted)
+p) the Appellant did not receive vacation pay or paid vacation, did not receive sick benefits and was required to work any statutory holiday that fell on a regular work-day; (admitted)
+q) the Appellant was required to provide her services personally; (admitted)
+r) during the period under appeal, the Appellant was engaged, also on a part-time basis, to perform similar duties for another party; (admitted)
+s) the Payor did not have exclusive claim on the Appellant’s time. (admitted)
+[3] Two different decisions were made in the Appellant’s file. In the first letter dated April 7, 2006, produced by the Respondent in the Appellant’s file, it was decided that, during the relevant period, the Appellant was an employee, and that her employment was insurable pursuant to paragraph 5(1)(a) of the Employment Insurance Act (the “Act”). Moreover, the letter specified that pursuant to section 9.1 of the Employment Insurance Regulations, the Minister established that the Appellant had accumulated 1,189 hours of insurable employment during the relevant period and that her insurable earnings totalled $9,516. This letter was addressed to the Intervener. The purpose of this first letter was to inform the Intervener of the decision made in regard to of the Appellant and to allow him to file an appeal.
+[4] The Intervener wrote a letter on May 16, 2006, to the Saint John Tax Services Office. In his letter, he said that he disagreed with the decision to treat Claire Gaudet as his employee. He did not include any reason for his objection, but stated that he had received financial assistance from the DFCS, which gave him the means to pay the Appellant’s salary.
+[5] On September 22, 2006, the Intervener filled out a Canada Revenue Agency questionnaire regarding the Appellant’s status. On the questionnaire, the Respondent confirmed most of the assumptions of fact on which the Minister replied. To the question, [TRANSLATION] “Was the Worker in a position to refuse any work offered by you? If yes, for what reasons?” the Intervener answered, “No, she never refused.”
+[6] The Appellant is the only person testifying on her behalf. In her testimony, she confirmed having found employment with the Intervener after hearing an announcement on a local public radio station, which said the Intervener was looking for an individual to provide attendant care for his elderly mother and for himself.
+[7] In her testimony, the Appellant confirmed the Intervener had met her for an interview at his residence and that he had explained that the tasks included care giving for himself and for his mother, Geneviève Gauthier, now deceased.
+[8] Following the interview, the Appellant was initially told the Intervener had filled the position. A few days later, the Intervener called her to tell her the initial person had refused his offer.
+[9] According to the Appellant’s testimony, during her initial meetings with the Intervener, he established her work schedule. For example, she stressed that she had to do laundry twice a week and change the bedding on specific days. Moreover, the Appellant stated the Intervener gave her specific instructions with respect to housework. For example, the Intervener did not want her to clean the kitchen floor using a mop. She had to do it by hand, with cloths. The Appellant followed these instructions.
+[10] In her testimony, the Appellant also stated never having met any DFCS employees. Even if she later learned that the Intervener was receiving financial aid from the DFCS, in the beginning, she was not aware that an agreement existed between the Intervener and the DFCS. The Intervener asked her to sign a form that showed the number of hours she worked each week.
+[11] Later, the Intervener confirmed in his testimony that the form had been sent to the DFCS, which provided him with financial assistance equal to the amount he was paying the Appellant.
+[12] The Appellant confirmed that, once she finalized her agreement with the Intervener, she was under the impression that the Intervener was her employer. According to her testimony, had she known that the Intervener would eventually tell her that the agreement was actually a contract for service rather than a contract of service she would never have accepted the job. She confirmed that, during the relevant period, she was a single mother to a pre-school daughter and would never have accepted the job if she had known that she was not entitled to any benefits pursuant to the Act. She stressed that she was not in a position to take such a risk.
+[13] She also said that she believed all the mandatory deductions would be made before she received her first pay.
+[14] When she filled out her tax return, she found out that she would not receive any record of employment or other pertinent document. She filled out her income tax return and stated she had reported her earnings as employment income.
+[15] In her testimony, she also claimed that she had had to wait many weeks before receiving her first employment insurance benefit. Many weeks later, she learned that the Intervener was contesting her employment status.
+[16] The Appellant also declared having done similar tasks as a home healthcare attendant for Beauséjour Home Care in Shediac (New Brunswick) for which she received a record of employment and was treated like an employee.
+[17] The Intervener, Léonce Gauthier, also testified during the hearing. He confirmed hiring the Appellant through an ad on local public radio. He also confirmed providing the Appellant with a work schedule and instructions for tasks she had to do to maintain the house and to take care of his mother and himself. He confirmed having provided her with precise instructions for how he wanted her to clean the floor.
+Analysis
+[18] Counsel for the Respondent based her arguments mainly on three cases. The most important is the Federal Court of Appeal decision in Poulin v. Canada (Minister of National Revenue), 2003 FCA 50, which I will address in these reasons. The other two cases concern decisions of this Court: the decision by Savoie J. in Vienneau v. MNR, 2006 TCC 470, and Angers J. in Castonguay v. Canada (Minister of National Revenue), [2002] T.C.J. No. 352 (QL).
+[19] Briefly, Counsel for the Respondent indicated that the facts in the present case are similar to the facts in the each of the aforementioned decisions and that, as a result, as was done by the justices in each of the cases, the Court must arrive at the conclusion that the Appellant’s employment was not insurable. The Appellant testified that she would not have accepted the position offered by the Intervener if she had known that she would not have had employee status. She testified that she believed the entire time that she was the Intervener’s employee.
+[20] The Court is aware of the significant equity issues that exist for both the Appellant and the Intervener. On the one hand, the Intervener is affected by a severe and prolonged physical impairment preventing him from performing several basic activities of daily living without the assistance of a visiting homemaker like the Appellant. The Court strongly doubts that the DFCS informed the Intervener of his obligations pursuant to the Act or the various tax laws that may apply, where appropriate, should the Court find that the legal relationship between the Intervener and the Appellant was that of employer and employee.
+[21] On the other hand, the Appellant is a single mother who is looking after a young child by herself. As a single mother, the Appellant testified that her financial situation is fragile and as a result, she would not have accepted a position that did not come with the benefits provided by the Act. Had she done so, she would have wilfully failed to perform her obligations to her child.
+[22] Notwithstanding the sad picture for both parties, a court’s decision must be based on the principles of law applicable to the facts as they are established at trial. Higher courts have made observations on several occasions on the principles of law applicable to the present case. These principles are now well known. Commenting on the decision of MacGuigan J. in Wiebe Door Services Ltd. v. Canada (Minister of National Revenue), [1986] 3 F.C. 553, Major J. of the Supreme Court of Canada explored the nature of these principles in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59 and declared the following:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan, J.A. that a persuasive approach to the issue is that taken by Cooke, J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[23] Létourneau J. of the Federal Court of Appeal applied the same principles in Poulin, supra. In this case, the Court of Appeal found that the patient suffering serious paralysis was not, contrary to the opinion of the Tax Court of Canada, the employer of three workers providing him services. The Court of Appeal decided that the trial judge of the Tax Court of Canada had wrongly applied certain tests from Wiebe Door, supra, and failed to focus sufficiently on the intentions of the parties when determining the overall relationship between them. I would like to note that in all the cases, the facts are of primary importance and that one variation in the facts, as established at trial, could easily lead the Court to reverse its finding. In Poulin, supra, the Federal Court of Appeal found that the trial judge had put too much emphasis on the control tests, which were not particularly useful in determining the nature of the agreement between a patient and the workers overseeing his care. The Court of Appeal found in that case that the courts had to examine the intention of the parties in a particular fashion. I note that the Court of Appeal also found, in light of the physical condition of the Applicant, that it was not reasonable to infer that the Applicant in Poulin had intended to conclude a contract of employment in which he was an employer. In that case, I note that one of the workers, Ms. Paquette, the visiting homemaker, worked full time for an agency and provided services for the Applicant only every other weekend. The Court of Appeal found that she was clearly the agency’s employee.
+[24] In this case, the facts are completely different. First, the Appellant worked directly for the Intervener. She was hired following an ad the Intervener ran on community radio. The Intervener was the one who decided to hire her following an interview and the rejection of his offer by another individual. The Appellant testified in a straightforward manner that she always believed she was the Intervener’s employee and that she would not have accepted the job had her relationship with the Intervener not been governed by the legal relationship of employer-employee. The Court has no reason to doubt her sincerity on this point. The Intervener indirectly corroborated the Appellant’s position during his testimony. At one moment during his testimony, he referred to the Appellant as his employee. Second, the Intervener confirmed that he gave the Appellant instructions regarding the execution of tasks. The Appellant testified during the trial that the Intervener required her to wash the kitchen floor on her knees rather than using a mop because the Intervener believed this yielded better results. In light of the circumstances, the Court finds that an unfavourable decision in regard to the Appellant would be surprising in this case and would consequently deprive her of the protection the Act offers for a worker in a precarious financial situation who only accepted the job because she thought she was hired as an employee.
+[25] The Court takes judicial notice of the fact that some provinces have amended the terms and conditions with respect to remuneration as is the case in Quebec where attendants are now subject to source deductions, imposed by pay clerks hired to fulfill these duties on behalf of patients. The Court suspects that the Intervener was left to his own devices, without any instructions from the DFCS.
+[26] For these reasons, the Court allows the appeal and finds that the Appellant’s employment was insurable during the relevant period.
+Signed at Ottawa, Canada, this 10th day of November 2008.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 9th day of January 2009.
+Bella Lewkowicz, Translator
+CITATION: 2008 TCC 542
+COURT FILE NO.: 2006-3088(EI)
+STYLE OF CAUSE: CLAIRE GAUDET v. MNR and LÉONCE GAUTHIER
+PLACE OF HEARING: Moncton, New-Brunswick
+DATE OF HEARING: September 9, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: November 10, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marie-Claude Landry
+For the Intervener:
+The Intervener himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

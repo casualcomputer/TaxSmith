@@ -1,0 +1,155 @@
+Title: Kaviar International Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28280/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-589-28280-kaviar-international-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-10-09
+
+# Kaviar International Inc. c. M.R.N.
+
+- Citation: 2007 CCI 589
+- Decision date: 2007-10-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1864, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kaviar International Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-09
+Référence neutre
+2007 CCI 589
+Numéro de dossier
+2006-3151(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-3151(EI)
+ENTRE :
+KAVIAR INTERNATIONAL INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ÉDITH GAGNÉ,
+intervenante.
+____________________________________________________________________
+Appel entendu le 2 avril 2007, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Représentante de l'appelante :
+Marie-Josée Bourgeois
+Avocate de l'intimé :
+Me Christina Ham
+Pour l'intervenante :
+L'intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L’appel de la décision du ministre du Revenu national à l’effet que l’intervenante, madame Édith Gagné, occupait un emploi assurable auprès de l’appelante pour la période du 11 septembre 2004 au 2 août 2005, au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi, est rejeté, sans frais, selon les motifs du jugement ci-joint.
+Signé à Montréal (Québec), ce 9e jour d’octobre 2007.
+« Réal Favreau »
+Juge Favreau
+Référence : 2007CCI589
+Date : 20071009
+Dossier : 2006-3151(EI)
+ENTRE :
+KAVIAR INTERNATIONAL INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ÉDITH GAGNÉ,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel de la décision rendue par le ministre du Revenu national (le « ministre ») le 11 septembre 2006 concernant l’assurabilité de l’emploi de madame Edith Gagné auprès de l’appelante pour la période du 11 septembre 2004 au 2 août 2005 (la « période visée »).
+[2] Le ministre a en effet conclu que madame Gagné exerçait auprès de l’appelante durant la période visée un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi, L.C. 1996, c. 23, telle que modifiée (la « Loi »).
+Les faits
+[3] L’appelante, constituée en société le 27 septembre 1995, exploitait une entreprise de vente et de distribution de produits alimentaires pour chats et chiens et opérait depuis trois ans le service de toilettage.
+[4] Madame Manon Davis Bourgeois a été la seule actionnaire de l’appelante depuis sa constitution.
+[5] Avant son embauche par l’appelante, soit entre les mois de décembre 2003 et avril 2004, madame Gagné avait suivi avec succès un cours de toilettage donné par l’appelante. Ce cours de formation de 2 500 $ incluait une trousse de tonte et de toilettage dont elle a pris possession le 8 janvier 2004.
+[6] L’appelante a embauché madame Gagné en vertu d’un contrat verbal pour s’occuper du toilettage des chiens et des chats et aussi, occasionnellement, pour donner des cours de toilettage. La date exacte de l’embauche n’a pas été précisée.
+[7] Au cours de la période visée, madame Gagné opérait également une entreprise de toilettage d’animaux sous la raison sociale « Salon de toilettage Beauté Animal ». L’entreprise était enregistrée auprès du Registraire des entreprises sous le numéro de matricule 2262483383. Madame Gagné rendait ses services à partir de son domicile à Sainte-Sabine.
+[8] Madame Gagné rendait aussi ses services à la place d’affaires de l’appelante située au 110, Route 104, à Saint-Jean-sur-Richelieu.
+[9] Madame Gagné travaillait généralement du mardi au samedi, entre 10 h et 17 h / 17 h 30 et elle pouvait demeurer au travail jusqu’à 19 heures les jeudis soirs. Les heures de travail de madame Gagné variaient en fonction des rendez-vous fixés par l’appelante. Madame Gagné fournissait à l’appelante ses disponibilités et l’appelante cédulait les rendez-vous avec ses clients.
+[10] Madame Gagné devait se présenter aux rendez-vous fixés par l’appelante même s’il s’agissait d’un seul client. Madame Gagné devait aviser l’appelante si elle ne pouvait se présenter à un rendez-vous qui devait être remis ou être exécuté par quelqu’un d’autre. Madame Gagné devait rendre elle-même les services à l’appelante et elle ne pouvait se faire remplacer par quelqu’un de son choix.
+[11] À l’occasion, surtout les fins de semaine, madame Gagné pouvait se faire aider par son conjoint dans l’exécution de son travail mais ce dernier n’était pas rémunéré par l’appelante.
+[12] Lorsque madame Gagné se présentait au travail, l’appelante lui remettait une carte ou une fiche comportant le nom de l’animal et donnant les instructions à suivre concernant la coupe ou les services à rendre.
+[13] Les noms des clients n’étaient généralement pas divulgués à madame Gagné puisque les clients étaient les clients de l’appelante et non ceux de madame Gagné.
+[14] Madame Gagné rapportait oralement à l’appelante le comportement de l’animal qu’elle avait toiletté mais cela n’était apparemment pas obligatoire.
+[15] En cas d’erreur, madame Gagné devait reprendre le travail à ses frais mais l’appelante était responsable des erreurs commises auprès de ses clients. L’appelante a, d’ailleurs, dû, à quelques reprises, faire soigner par un vétérinaire des blessures infligées par madame Gagné à un animal. Les frais de vétérinaire étaient alors payés par l’appelante et n’étaient pas déduits de la rémunération versée à madame Gagné puisque cette dernière n’était pas en mesure de les supporter.
+[16] L’appelante fournissait les locaux de travail, la table, le shampoing et les foulards à madame Gagné qui, elle, fournissait sa trousse personnelle contenant son rasoir, ses ciseaux, ses peignes et sa brosse. Occasionnellement, madame Gagné utilisait le rasoir, le séchoir et les lames de l’appelante.
+[17] La rémunération de madame Gagné était basée sur sa production; elle recevait 50 % du prix facturé par l’appelante à ses clients.
+[18] Madame Gagné pouvait aussi recevoir une rémunération de 1 000 $ par élève pour les cours de toilettage qu’elle donnait pour le compte de l’appelante.
+[19] Dans les faits, madame Gagné recevait une rémunération fixe de 400 $ par semaine sans égard au montant réellement gagné par sa production, et ceci, même pendant une semaine de maladie. L’appelante tenait un registre informatisé tenant compte de l’état du cumulatif des montants gagnés par madame Gagné.
+[20] Le travail de madame Gagné était supervisé et la qualité de son travail était contrôlée par l’appelante dans les cas à problèmes pour sauver le nom et la clientèle de l’appelante.
+Législation pertinente
+[21] L’alinéa 5(1)a) de la Loi définit l’expression « emploi assurable » de la façon suivante :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[22] L’expression « contrat de louage de service » utilisée à l’alinéa 5(1)a) de la Loi est désuète puisque le Code civil du Québec, L.Q. 1991, ch. 64 utilise maintenant les expressions « contrat de travail » à l’article 2085 et « contrat d’entreprise ou de service » à l’article 2098. Ces articles se lisent comme suit :
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+…
+2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+[23] L’article 2099 du Code civil du Québec est également pertinent puisqu’il fournit les éléments qui caractérisent un entrepreneur ou un prestataire de services. Cet article se lit comme suit :
+2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[24] En droit civil québécois, les trois éléments constitutifs qui caractérisent le « contrat de travail » est une prestation de travail, une rémunération et un lien de subordination.
+Analyse
+[25] Madame Marie-Josée Bourgeois, directrice du marketing auprès de l’appelante, a témoigné et a soulevé les points suivants pour justifier que madame Gagné n’était pas une employée de l’appelante :
+a) l’appelante n’exerçait pas de supervision du travail de madame Gagné;
+b) madame Gagné exploitait une entreprise similaire chez elle et elle défrayait ses frais de cellulaire, de déplacement et de publicité;
+c) madame Gagné utilisait son équipement de tonte pour exécuter son travail;
+d) madame Gagné travaillait à des heures irrégulières. Elle donnait ses disponibilités à l’avance et l’appelante fixait les rendez-vous avec ses clients;
+e) madame Gagné pouvait refuser du travail si elle était trop fatiguée. L’appelante avait d’autres personnes-ressources pour exécuter le toilettage d’animaux dont Chantale Florent qui travaillait à temps partiel surtout la semaine et Chantal Grimard, une employée à temps plein qui s’occupait surtout des gros chiens;
+f) madame Gagné retenait parfois les services de son conjoint pour se faire aider;
+g) aucune déduction n’a été faite pour les retenues à la source et madame Gagné n’avait droit à aucun avantage social quel qu’il soit.
+[26] Un registre de transactions a été déposé sous la cote A-1, lequel fait référence à certaines ententes conclues avec madame Gagné. Les modalités de ces ententes sont succinctement décrites dans des notes manuscrites apparaissant au début d’un lot de feuilles de comptabilité hebdomadaire pour la période du 1er janvier 2005 au 2 août 2005 contresignées par madame Gagné.
+[27] Madame Gagné a également témoigné. Elle a indiqué qu’elle avait travaillé chez l’appelante à presque tous les jours et avait toiletté plusieurs chiens par jour comme en fait foi le registre des heures tenu par l’appelante. Madame Gagné a dit avoir très peu travaillé chez elle pendant la période visée par manque de temps et avoir enregistré son commerce pour pouvoir acheter des produits pour le toilettage d’animaux.
+[28] Madame Gagné a affirmé qu’elle n’avait jamais refusé de toiletter un animal et qu’elle avait l’obligation de se présenter au travail même pour un seul chien.
+[29] Madame Gagné a confirmé qu’elle avait très peu de contacts avec les propriétaires des chiens. Pour chaque chien à toiletter, l’appelante lui remettait une fiche de travail et, à la fin du travail, un représentant de l’appelante venait chercher le chien pour le montrer au propriétaire. Si le travail n’était pas satisfaisant, madame Gagné devait apporter les corrections nécessaires.
+[30] Madame Gagné a affirmé qu’elle subissait des pressions de la part de l’appelante pour travailler plus rapidement.
+[31] Madame Gagné a invoqué comme motif de son congédiement le fait qu’elle réclamait 4 800 $ à l’appelante pour des heures effectuées et non payées. Elle a noté des différences notables dans les registres d’heures tenus par l’appelante en faisant référence aux pièces déposées sous les cotes I-1 et I-2.
+[32] Concernant les documents déposés sous la cote A-1, madame Gagné a affirmé qu’au moment où elle les a signés, il n’y avait aucune note manuscrite sur les documents. Elle a confirmé qu’elle ne les avait jamais vus et qu’elle n’en a jamais discuté avec les représentants de l’appelante.
+[33] L’avocate de l’intimé a soutenu qu’il y avait un lien de subordination entre l’appelante et madame Gagné qui est l’élément déterminant pour qu’un contrat de travail puisse exister. Elle a de plus fait référence à la décision rendue par le juge Dussault dans l’affaire Lévesque c. Canada (ministre du Revenu national), [2005] A.C.I. no 183, 2005CCI248, dans laquelle les indices de l’existence d’un lien de subordination ont été examinés. Elle s’est notamment appuyée sur les indices suivants pour conclure à l’existence d’un lien de subordination entre l’appelante et madame Gagné :
+a) les heures de travail de madame Gagné étaient déterminées par l’appelante en fonction des rendez-vous fixés par l’appelante avec ses clients. Madame Gagné n’avait pas le contrôle de ses heures de travail et devait même se présenter au travail pour un seul chien;
+b) l’appelante exerçait un contrôle sur madame Gagné en faisant pression pour qu’elle travaille plus rapidement et pour qu’elle fasse travailler ses élèves plus rapidement, en fournissant à madame Gagné les fiches sur les coupes à effectuer, en vérifiant le travail effectué, en montrant aux clients le résultat du travail effectué, et en sanctionnant le travail non satisfaisant en faisant apporter par madame Gagné les corrections nécessaires;
+c) madame Gagné n’encourait aucun risque financier puisqu’elle recevait une rémunération fixe et qu’elle n’était pas financièrement responsable des erreurs commises dans le cadre de son travail. Les frais de vétérinaire pour les coupures faites aux chiens par madame Gagné étaient défrayés par l’appelante.
+[34] Vu ce qui précède, j’estime qu’il y a plus d’indices ou d’éléments démontrant l’existence d’un lien de subordination entre l’appelante et madame Gagné et que l’appelante et madame Gagné étaient liées par un contrat de travail.
+[35] Le fait que l’appelante a dû s’ajuster en fonction des disponibilités de madame Gagné, le fait que madame Gagné fournissait ses instruments de travail et le fait que l’appelante n’exigeait pas l’exclusivité de madame Gagné ne sont pas des facteurs déterminants permettant de conclure à l’absence d’un lien de subordination.
+[36] L’application des critères énoncés dans l’arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, à savoir la propriété des équipements de travail, les chances de profits, les risques de pertes et l’intégration aux activités de l’entreprise, confirme également que madame Gagné occupait un emploi assurable auprès de l’appelante. Seul le critère de la propriété des instruments indique l’existence d’un contrat d’entreprise ou de service.
+[37] À mon avis, madame Gagné n’avait pas la liberté de choisir les moyens d’exécution de son travail. Le temps d’exécution du travail était déterminé par l’appelante, le lieu de travail était chez l’appelante, les instructions de travail étaient fournies par l’appelante, la qualité et la quantité de travail étaient contrôlées par l’appelante, et cette dernière pouvait sanctionner la performance de madame Gagné.
+[38] Pour ce qui est de l’intention des parties, le comportement de l’appelante indique qu’elle considérait madame Gagné comme travailleur autonome. L’absence de retenues à la source sur la rémunération versée à madame Gagné et la non-participation de madame Gagné aux avantages sociaux de l’appelante sont des facteurs en ce sens. Par contre, je n’attache aucune valeur probante aux notes manuscrites apparaissant à la première page du registre annexée à la pièce A-1 puisque l’original du document n’a pas été déposé et que, selon le témoignage de madame Gagné, les notes auraient été ajoutées après qu’elle eut signé ledit document.
+[39] Compte tenu de ce qui précède, je conclus que madame Gagné occupait pendant la période visée un emploi assurable auprès de l’appelante et que l’appelante et madame Gagné étaient liées par un contrat de travail plutôt que par un contrat de service. En conséquence, l’appel est rejeté et la décision du ministre est confirmée.
+Signé à Montréal (Québec), ce 9e jour d’octobre 2007.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2007CCI589
+Nº DU DOSSIER DE LA COUR : 2006-3151(EI)
+INTITULÉ DE LA CAUSE : Kaviar International Inc. et M.R.N. et
+Edith Gagné
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 2 avril 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 9 octobre 2007
+COMPARUTIONS :
+Représentante de l'appelante :
+Marie-Josée Bourgeois
+Avocate de l'intimé :
+Me Christina Ham
+Pour l'intervenante :
+L'intervenante elle-même
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

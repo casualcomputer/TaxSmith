@@ -1,0 +1,158 @@
+---
+title: "Strauss Enterprises Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27897/index.do"
+last_modified: "2005-04-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 262"
+citation2: ""
+neutral_citation: "2005 CCI 262"
+decision_date: "2005-04-19"
+language: "fr"
+item_id: "27897"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1745
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:00:02.300000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4b971c3aa92431f3c69eddd68c3509414994cef4ec4bffeeeb0785f99dee1369"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Strauss Enterprises Ltd. c. La Reine
+
+- Citation: 2005 CCI 262
+- Decision date: 2005-04-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1745, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Strauss Enterprises Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-19
+Référence neutre
+2005 CCI 262
+Numéro de dossier
+2004-448(GST)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004‑448(GST)G
+ENTRE :
+STRAUSS ENTERPRISES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Requête entendue le 6 juillet 2004 à Belleville (Ontario)
+Devant : L’honorable juge T. O’Connor
+Comparutions :
+Représentant de l’appelante :
+M. Trueman Tuck
+Avocat de l’intimée :
+Me Richard Gobeil
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l’intimée demandant que le présent appel soit entendu dans le cadre des Règles de la Cour canadienne de l’impôt (procédure générale);
+La requête est accueillie et l’ordonnance suivante est rendue :
+a) une ordonnance enjoignant d’appliquer les articles 17.1, 17.2 et 17.4 à 17.8 de la Loi sur la Cour canadienne de l’impôt au présent appel, auquel les articles 18.3003 et 18.3007 à 18.302 s’appliqueraient par ailleurs;
+b) une ordonnance enjoignant à l’appelante de déposer, au plus tard le 20 juin 2005, un avis d’appel modifié conforme à la l’article 48 et à la formule 21(1)a) des Règles de la Cour canadienne de l’impôt (procédure générale);
+c) une ordonnance prorogeant, pour l’intimée, le délai pour déposer une réponse à l’avis d’appel modifié de l’appelante de 60 jours à compter de la date du dépôt de l’avis d’appel modifié.
+Aucuns dépens ne sont adjugés à l’égard de la présente requête.
+Signé à Ottawa, Canada, ce 19e jour d’avril 2005.
+T. O’Connor
+Juge O’Connor
+Traduction certifiée conforme
+ce 25e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2005CCI262
+Date: 20050419
+Dossier : 2004‑448(GST)G
+ENTRE :
+STRAUSS ENTERPRISES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge O’Connor
+[1] L’intimée soumet une requête qui vise essentiellement à obtenir une ordonnance pour que l’appel en l’espèce relève des Règles de la Cour canadienne de l’impôt (procédure générale) plutôt que des Règles de la Cour canadienne de l’impôt (procédure informelle).
+[2] Les points fondamentaux, comme la législation applicable, sont bien énoncés dans les observations écrites de l’intimée que voici :
+PARTIE I – EXPOSÉ DES FAITS
+1. L’appelante a interjeté appel devant la Cour canadienne de l’impôt pour contester la cotisation de taxe nette de 427 800 $, plus intérêts et pénalités, établie en application de la Partie IX de la Loi sur la taxe d’accise par le ministre du Revenu national (le « ministre »), pour les périodes de déclaration s’étant écoulées du 1er mars 1999 au 30 juin 2002.
+2. L’avis d’appel de l’appelante a été transmis au ministre le 10 février 2004.
+3. L’avis d’appel de l’appelante déposé le 30 janvier 2004 ne l’a pas été selon la formule 21(1)a), comme le requiert l’article 48 des Règles de la cour canadienne de l’impôt (procédure générale).
+PARTIE II – POINTS EN LITIGE
+4. L’appel devrait‑il procéder selon la procédure générale de la Cour?
+5. L’avis d’appel de l’appelante devrait‑il être modifié pour être conforme à la formule 21(1)a)?
+PARTIE III – OBSERVATIONS
+6. L’article 18.3002 de la Loi sur la Cour canadienne de l’impôt (la « Loi ») prévoit que, sur demande du procureur général, la Cour doit ordonner l’application des articles 17.1, 17.2 et 17.4 à 17.8 de la Loi à l’appel auquel les articles 18.3003 et 18.3007 à 18.302 de la Loi s’appliqueraient par ailleurs. La demande doit être présentée dans les 60 jours après que la Cour canadienne de l’impôt a transmis au ministre l’avis d’appel de l’appelante.
+7. La demande de l’intimée en l’espèce a été faite dans les 60 jours prévus par l’article 18.3002 de la Loi.
+8. Le montant qui sera contesté en appel est de 427 800 $. Par conséquent, aucune des règles spéciales sur les frais, prévues pour les cas où le montant contesté est inférieur à 7 000 $ à l’article 18.3002 ou à 50 000 $ à l’article 18.3007 de la Loi, ne s’applique.
+9. Par conséquent, les conditions pour juger ce cas dans le cadre de la procédure générale sont remplies.
+10. Le juge Bowie a expliqué le but des actes de procédure dans l’affaire Zelinski c. La Reine : « L’acte de procédure a pour but de définir les questions faisant l’objet du litige entre les parties aux fins de production et de communication préalable ainsi qu’en prévision du procès. Il incombe aux parties de présenter un exposé concis des faits pertinents sur lesquels elles se fondent. Les faits pertinents sont ceux qui, dans l’éventualité où ils sont établis au cours du procès, concourront à démontrer que la partie ayant déposé l’acte de procédure a droit au redressement demandé. »
+11. L’article 48 des Règles de la Cour canadienne de l’impôt (procédure générale) prévoit que :
+48. Every notice of appeal shall be in Form 21(1)(a).
+48. L’avis d’appel doit se conformer à la formule 21(1)a).
+12. La formule 21(1)a) prévoit que l’appelant indique son adresse complète, indique la cotisation visée par l’appel, énumère les faits pertinents qui servent de fondements à l’appel, précise les points en litige, mentionne les dispositions législatives sur lesquelles l’appel est fondé, énonce les moyens sur lesquels l’appelant entend se fonder et indique les conclusions recherchées (voir la Formule 21 (1)a) ci‑jointe).
+13. La façon dont est rédigé l’avis d’appel rend difficile pour l’intimée d’admettre, de nier ou de contester les faits.
+14. Il est par conséquent demandé à la Cour d’ordonner la modification de l’avis d’appel pour tenir compte des Règles de la Cour canadienne de l’impôt (procédure générale).
+PARTIE IV – ORDONNANCE RECHERCHÉE
+15. L’intimée cherche à obtenir les mesures suivantes :
+a) une ordonnance enjoignant d’appliquer les articles 17.1, 17.2 et 17.4 à 17.8 de la Loi sur la Cour canadienne de l’impôt au présent appel, auquel les articles 18.3003 et 18.3007 à 18.302 s’appliqueraient par ailleurs;
+b) une ordonnance enjoignant à l’appelante de déposer un avis d’appel modifié conforme à l’article 48 et à la formule 21(1)a) des Règles de la Cour de l’impôt du Canada (procédure générale);
+c) une ordonnance prorogeant, pour l’intimée, le délai pour déposer une réponse à l’avis d’appel modifié de l’appelante de 60 jours à compter de la date du dépôt de l’avis d’appel modifié;
+(i) subsidiairement, une ordonnance prorogeant pour l’intimée le délai pour déposer une réponse à l’avis d’appel de l’appelante de 60 jours à compter de la date de l’ordonnance.
+[3] À mon avis, les observations de l’intimée sont bien fondées et, pour les motifs qui y sont énoncés, la requête est accueillie et l’ordonnance recherchée, accordée.
+Signé à Ottawa, Canada, ce 19e jour d’avril 2005.
+T. O’Connor
+Juge O’Connor
+Traduction certifiée conforme
+ce 25e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2005CCI262
+DOSSIER DE LA COUR NO: 2004‑448(GST)G
+INTITULÉ DE LA CAUSE : Strauss Enterprises Ltd. c. La Reine
+LIEU DE L’AUDIENCE : Belleville (Ontario)
+DATE DE L’AUDIENCE : Le 6 juillet 2004
+MOTIFS DE L’ORDONNANCE : L’honorable juge T. O’Connor
+DATE DE L’ORDONNANCE : Le 19 avril 2005
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Trueman Tuck
+Avocat de l’intimée :
+Me Richard Gobeil
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Ontario)

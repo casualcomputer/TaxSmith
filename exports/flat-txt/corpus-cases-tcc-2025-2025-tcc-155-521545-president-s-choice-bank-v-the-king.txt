@@ -1,0 +1,151 @@
+Title: President's Choice Bank v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521545/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-155-521545-president-s-choice-bank-v-the-king.md
+Document type: case_law
+Last modified: 2025-11-13
+
+# President's Choice Bank v. The King
+
+- Citation: 2025 TCC 155
+- Decision date: 2025-11-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5593, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+President's Choice Bank v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-11-13
+Neutral citation
+2025 TCC 155
+File numbers
+2021-1965(GST)G
+Judges and Taxing Officers
+Ted Cook
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2021-1965(GST)G
+BETWEEN:
+PRESIDENT’S CHOICE BANK,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Submissions filed December 20, 2024, January 27, 2025 and February 4, 2025. Additional materials filed July 3, 8 and 10, 2025.
+Before: The Honourable Justice Edward (Ted) Cook
+Participants:
+Counsel for the Applicant:
+Anu Koshal
+Simon Douville
+Almut MacDonald
+Counsel for the Respondent:
+Lindsay Tohn
+Andrée-Anne Lavoie
+Natalie Keller
+ORDER
+In accordance with the attached reasons;
+The Applicant’s motion under section 58 of the Tax Court of Canada Rules (General Procedure) is dismissed, with costs in the cause.
+Signed on this 13th day of November 2025.
+“Ted Cook”
+Cook J.
+Citation: 2025 TCC 155
+Date: 2025/11/13
+Docket: 2021-1965(GST)G
+BETWEEN:
+PRESIDENT’S CHOICE BANK,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Cook J.
+Introduction [1] By way of motion in writing, President’s Choice Bank (“PC Bank”) makes an application under section 58 (“Rule 58”) of the Tax Court of Canada Rules (General Procedure) (“Rules”). Rule 58 allows the Court to hear, and dispose of, a question before hearing the related appeal.
+[2] Rule 58 comprises a two-stage process. The first stage is the determination of whether the proposed question is suitable for a Rule 58 hearing and, if it is, to state the question for determination and give any directions the Court considers appropriate. The second stage is the Rule 58 hearing itself. PC Bank’s application is for a stage-one determination. The Respondent opposes the application.
+[3] PC Bank is a Schedule I chartered bank under the Bank Act and is registered for goods and services tax (“GST”) and harmonized sales tax (“HST”) purposes. It is appealing the Minister of National Revenue’s (“Minister’s”) assessments under Part IX of the Excise Tax Act (“Act”) of its reporting periods ending in 2013 to 2015 (“2013 to 2015 Reporting Periods”). There is one issue in the appeal – whether PC Bank is entitled to notional input tax credits (“NITCs”) under subsection 181(5) of the Act for payments made to Loblaws Inc. as part of PC Bank’s loyalty points program.
+[4] The same issue for PC Bank’s reporting periods ending in 2009 to 2012 (“2009 to 2012 Reporting Periods”) was dealt with in President’s Choice Bank v The Queen, 2024 FCA 135, rev’g 2022 TCC 84 [President’s Choice]. In that decision, the Federal Court of Appeal held that PC Bank was entitled to NITCs for its 2009 to 2012 Reporting Periods. At the joint request of the parties, the present appeal was held in abeyance until the Federal Court of Appeal’s decision in President’s Choice was issued.
+Issues [5] PC Bank proposes the following question:
+Whether President’s Choice Bank is entitled to notional input tax credits for the 2013 to 2015 reporting periods pursuant to subsection 181(5) of the Excise Tax Act, R.S.C. 1985, c. E-15 with respect to payments made to Loblaws Inc. as part of its loyalty program.
+PC Bank requests specific time limits for the service and filing of written submissions, but does not otherwise request specific directions for the conduct of the proposed Rule 58 hearing.
+[6] In this instance, there are three mandatory conditions that must be met before an application for a stage-one determination may be granted. The parties agree those mandatory conditions have been met.
+[7] The first condition is that the proposed question is a question of law, fact, or mixed law and fact. PC Bank’s proposed question is a question of mixed law and fact. The second is that the question must have been raised in a pleading. It was raised in PC Bank’s notice of appeal. Subsection 58(2) of the Rules sets out the third condition it must appear “that the determination of the question before the hearing may dispose of all or part of the proceeding or result in a substantially shorter hearing or a substantial saving of costs”. The Respondent accepts that the third condition is met, but only insofar as the proposed question may dispose of all or part of the proceeding.
+[8] I agree that the three mandatory conditions have been met. Regarding the third condition, it is evident that the determination of the proposed question may dispose of all or part of PC Bank’s appeal and that is sufficient to meet the third condition (see Paletta v The Queen, 2016 TCC 171, aff’d 2017 FCA 33, at paras 23-25).
+[9] However, the fact that the mandatory conditions have been met does not compel the Court to grant an order under Rule 58 (Paletta at para 20). The granting of an order for a Rule 58 hearing is in the discretion of the Court. I may consider other factors and all the circumstances of the case.
+[10] The application also raises two additional issues. The first of these relates to the affidavit of Theodore Glinnyi (“Glinnyi Affidavit”) submitted by PC Bank. The second relates to the tendering of fresh evidence after all submissions were filed.
+Parties’ Positions [11] PC Bank submits that the availability of NITCs is the only issue in the appeal. It is the same question decided by the Federal Court of Appeal in President’s Choice. The only difference between that decision and the present appeal is the reporting periods involved. The parties, issue and facts are all the same. President’s Choice dealt with same agreements, which were in force in 2009-2012 and 2013-2014. The relevant aspects of new agreements, which became effective January 1, 2015, remained the same.
+[12] The Federal Court of Appeal’s decision in President’s Choice renders further litigation steps unnecessary. The proposed question can be decided based on President’s Choice. Determining the NITC issue before trial would result in substantial cost and time savings as it would eliminate the need for a trial and any further litigation steps. PC Bank points to section 4 of the Rules, which provides that the Rules must be liberally construed to secure the just, most expeditious and least expensive determination of every proceeding on its merits.
+[13] PC Bank also submits that the conditions set out in Hryniak v Mauldin, 2014 SCC 7 at para 49 [Hryniak] for a fair and just determination are met. A Rule 58 hearing would allow the judge to make the necessary findings of fact, apply the law to the facts, and is more expeditious and less expensive than a trial.
+[14] In its submissions, the Respondent submits that the Court is being asked to replace a trial with a Rule 58 hearing and a Rule 58 hearing is not meant to be a substitute for a trial. There are material facts in dispute. A Rule 58 hearing would require the same factual findings as would be required at trial. It would not shorten the hearing required nor would it provide substantial cost savings. It would likely result in duplication. PC Bank has not explained how the evidence required to answer the proposed question would differ from the evidence used to make the same determination at trial.
+[15] The Respondent also submits that the PC Bank is seeking to deprive it of its right to conduct examination for discovery, which, at the time of the submissions, was scheduled for March 2025. Alternatively, if examination for discovery proceeded, a Rule 58 hearing would be unlikely to achieve the just, most expeditious and least expensive determination because the evidence would be the same as that for a trial. As of the date of my order, the discovery process has not yet been completed. As well, it would be unfair to the Respondent to hear the proposed question without the procedural protections of a full hearing.
+[16] Finally, the Respondent submits that the state of the law is uncertain pending the Federal Court of Appeal’s decision in Amex Bank of Canada v The King, 2023 TCC 93, under appeal – Federal Court of Appeal File No.: A-225-23 [Amex], which is currently under reserve. In particular, the Respondent has asked the Federal Court of Appeal to not follow the majority decision in President’s Choice. If a Rule 58 hearing were held, there would be a residual issue regarding the quantum of NITCs. Should the law change after the Rule 58 decision because of Amex, the Rule 58 decision would inappropriately bind the trial judge.
+[17] In its reply to the Respondent’s submissions, PC Bank submits that the Respondent’s position that a full trial is required is irreconcilable with its requests to hold this appeal in abeyance pending the other PC Bank litigation. The Respondent would not be deprived of its rights as discoveries would proceed. There is no reason for the parties to wait for a trial date and then conduct a full hearing when the Federal Court of Appeal has already decided the issue. PC Bank is also of the view that there are no material facts in dispute and to the extent that there are factual issues in dispute (e.g., the quantum of NITCs), they do not justify a full trial.
+[18] PC Bank submits the Respondent’s argument that the state of the law is uncertain pending the decision in Amex is wrong. President’s Choice was not appealed, and it is final and binding. The Amex appeal involves different parties, agreements, facts and issues.
+[19] On July 3, 2025, PC Bank filed a letter purporting to update the Court with evidence given during examination for discovery that could impact the Court’s decision on this application. The letter enclosed a chart with the Respondent’s answers to undertakings. By letter filed July 8, 2025, PC Bank asked the Court to remove the chart from the Court record but to still consider the July 3 letter in making its decision on this application.
+[20] The Respondent’s position, set out in its letter filed July 10, 2025, is that fresh evidence cannot be tendered unless PC Bank seeks leave to do so by way of motion. Therefore, the Court should not consider the July 3 letter in deciding whether to grant this application. The Respondent also requested that the chart be removed from the Court record. On September 8, 2025, it was ordered that the chart be expunged from the Court record.
+Analysis [21] PC Bank originally appealed the 2013 to 2015 Reporting Periods on three grounds; however, the dispute has been narrowed to one remaining issue – PC Bank’s entitlement to NITCs. For the reasons below, this case is not an appropriate circumstance in which to grant the order requested under Rule 58. In coming to this conclusion, I have not considered the materials filed by the parties on July 3, 8 and 10, 2025.
+Substitute for Hearing [22] The proposed question is the same as the one issue in the appeal. PC Bank argues that President’s Choice has already effectively decided the issue for the 2013 to 2015 Reporting Periods so there is no need to go through a trial.
+[23] Essentially, a Rule 58 hearing would supplant the hearing of the appeal. Although this is arguably consistent with the third mandatory condition for a stage-one determination (i.e., that the determination of the question may dispose of all or part of the proceeding), a Rule 58 hearing is not intended to short cut the litigation process by acting as a substitute for the hearing of an appeal. Rule 58 is intended to enhance litigation efficiency by dealing with one or more issues in advance of a hearing.
+[24] In Jurchison v The Queen, 2001 FCA 126 at para 8, the Federal Court of Canada – Appeal Division quoted with approval Carma Developers Ltd. v The Queen (1995), 96 DTC 1803 (TCC): “[Rule 58] is not intended as an easily accessible alternative to a trial for the disposition of complex and contentious disputes about the rights and liabilities of litigants.” Similarly, Justice Campbell in McIntyre v The Queen, 2014 TCC 111 at para 27 held:
+Despite this amendment, a Rule 58 determination should never be a substitute for a hearing and there should never be a dispute as to the material facts underpinning the question of law. As such, a Rule 58 determination should not be an easily accessible alternative to a hearing for contentious disputes (Jurchison v. R., 2001 FCA 126 (Fed. C.A.) at para 8).
+[25] In Thomas 2009 Family Trust v The King, 2022 TCC 102 at para 21, Justice St. Hilaire (as she then was) found that if a Rule 58 hearing were held in the case at hand, the motions judge would be essentially holding a full hearing of the appeal. Consequently, she decided that it was not an appropriate matter for which to grant the order requested under stage one of Rule 58.
+[26] In Rio Tinto Alcan Inc. v The Queen, 2016 TCC 31 at para 62, the Court decided it was appropriate to proceed to a Rule 58 hearing because the proposed question had nothing in common with the substantive issue. The question was a preliminary one.
+[27] PC Bank, based on its success in President’s Choice, seeks to replace the hearing of the appeal with a Rule 58 determination. This is not a proper use of Rule 58 and, therefore, it is not appropriate to grant the order requested.
+Other Considerations [28] Rule 58 contemplates the determination of questions of fact and of mixed questions of law and fact. Therefore, a dispute about the facts is not a bar to its use. The proposed question is a question of mixed law and fact. PC Bank wishes to proceed to a Rule 58 hearing based on the facts as found in the prior litigation. Its position is that no, or very little, fact finding would be needed.
+[29] PC Bank argues that the only difference between President’s Choice and the present appeal is the reporting periods involved. President’s Choice dealt with same agreements, which were in force in 2009-2012 and 2013-2014. The relevant aspects of the new agreements, which came into effect January 1, 2015, remained the same. As a result, there are no material facts in dispute and a Rule 58 hearing may proceed on that basis.
+[30] Conversely, the Respondent argues that there are material facts in dispute, including the quantum of NITCs, whether a certain payment to PC Bank was a taxable supply subject to GST/HST and whether the agreements that came into effect January 1, 2015 differed from the prior agreements. A Rule 58 hearing would require the same factual findings as would be required at trial, only without the procedural protections of a trial. The Respondent argues that there is no agreement between the parties, and the Court cannot conclude on the record that the facts and issue in this appeal are identical to those in President’s Choice.
+[31] This is a contentious dispute (as can be seen from the parties’ submissions and the Court record) and the parties do not agree on the extent to which a Rule 58 hearing would need to engage in fact finding or how that fact finding would be done. As noted above, the discovery process is not yet complete.
+[32] PC Bank effectively seeks to limit the ability of the Respondent to adduce evidence to distinguish the present appeal from President’s Choice. Even though the parties, issues and facts may all be very similar, that does not mean it would be appropriate to foreclose the ability of the Respondent to adduce evidence. To my mind, evidentiary determinations are better made in the context of a full hearing.
+[33] In 632738 Alberta Ltd. v The Queen, 2019 TCC 225, aff’d 2021 FCA 43, at para 74, the Court found that it would be unfair for the appellant to be permitted to control the way in which the respondent could elicit and adduce evidence by using Rule 58. A full hearing with the attendant procedural protections was necessary to provide the Court with the information needed to make its findings and weigh the evidence. Consequently, it did not appear that a stage-two hearing would substantially shorten the hearing or reduce costs.
+[34] See also Suncor Energy Inc. v The Queen, 2015 TCC 210. Chief Justice Rossiter stated at para 26 that “[a]lthough Rule 58 contemplates questions of fact and of mixed law and fact, the determination of such questions is very much like a trial, except that an actual trial has the benefits of a fair hearing with evidentiary protections.” In Jurchison at para 10, the Court stated that the admissibility of evidence is normally a matter best left to the trial judge, who can make their decision informed by all the circumstances and evidence before them.
+[35] I am concerned that a Rule 58 hearing in this instance would either unfairly circumscribe the ability of the Respondent to adduce evidence or, alternatively, mean that the Rule 58 hearing would not result in cost savings or greater efficiency than a trial. See Cougar Helicopters Inc. v The Queen, 2017 TCC 126 at paras 40-45 and, in particular, its caution regarding the application of the principle in Hryniak. I take the fact that a Rule 58 hearing might not result in cost savings or greater efficiency into consideration (see similar reasoning in 632738 Alberta Ltd. at para 29).
+[36] PC Bank makes much of the fact that President’s Choice dealt with the same issue for other years; however, that is not sufficient reason to replace a trial with a Rule 58 determination. As stated in General Electric Canada Co. v The Queen, 2011 TCC 564 at para 16: “Generally, each taxation year for each taxpayer will represent a new cause of action. For this reason, tax appeals are entertained even where the parties may have litigated very similar facts in respect of a previous taxation year.” At para 17, the Court then quoted Merrins v The Queen, 2006 TCC 281 at para 9:
+There are no material differences between the facts as they relate to the Appellant’s 2002 and 2003 taxation years and the facts upon which the earlier appeals were decided. The Appellant’s sources of income were the same in all of the years, and the reassessment of the Appellant’s tax was made in the same manner for each year, as set out below. However, given that these appeals involve separate taxation years, an independent review of the facts and issues is required.
+[37] Different reporting periods are at issue in this appeal. It cannot be assumed for the purposes of this application that the ultimate result would be the same as in President’s Choice.
+Amex [38] I turn now to the Respondent’s argument that the state of the law is uncertain. In Amex, the Respondent has argued that the majority decision in President’s Choice is manifestly wrong and ought not to be followed. Amex is currently under reserve. In my view, the fact that the Respondent has argued in another case that President’s Choice was wrongly decided does not mean the state of the law can be characterized as uncertain. What the Federal Court of Appeal might decide in Amex is of no moment for the purposes of this application.
+Glinnyi Affidavit [39] The Respondent submits that, among other things, the Glinnyi Affidavit refers to the procedural history of the parties’ joint request to hold this matter in abeyance, PC Bank’s view that the Respondent should concede this appeal and PC Bank’s position on costs. The Respondent argues that this information is irrelevant, prejudicial and inappropriate, and should be struck.
+[40] I agree that costs and whether this appeal should be conceded are not relevant to my decision. However, I will comment on PC Bank’s argument that the Respondent’s opposition to this application is irreconcilable with requesting an abeyance in this matter. I find that the Respondent’s opposition can be reconciled with the parties jointly requesting an abeyance. In the initial joint request for an abeyance (dated September 26, 2022), the parties stated that PC Bank’s entitlement to NITCs for a prior period would be decided in President’s Choice and that:
+The parties respectfully request that the court hold the above-noted appeal [i.e., the appeal for the 2013 to 2015 Reporting Periods] in abeyance pending the final determination of the notional input tax credit issue raised in the July 19, 2022 decision [i.e., the date of the Tax Court of Canada decision in President’s Choice], which issue will be relevant to the only issue remaining this appeal.
+[41] I see nothing in the request other than the recognition that the NITC issue decided in President’s Choice for the 2009 to 2012 Reporting Periods would be highly relevant to the only issue in the present appeal. In the request, neither party undertakes to treat President’s Choice as determinative of the present appeal.
+Fresh Evidence [42] Submissions were completed on February 4, 2025. The letters filed by PC Bank on July 3 and 8, 2025, and the letter filed by the Respondent on July 10, 2025, all relate to whether in making my stage-one determination I should consider additional evidence arising from examination for discovery. I did not use the letters in deciding this application because no motion was made to introduce fresh evidence.
+Conclusion [43] PC Bank’s motion under Rule 58 is dismissed, with costs in the cause.
+Signed on this 13th day of November 2025.
+“Ted Cook”
+Cook J.
+CITATION:
+2025 TCC 155
+COURT FILE NO.:
+2021-1965(GST)G
+STYLE OF CAUSE:
+PRESIDENT’S CHOICE BANK AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+Submissions filed December 20, 2024, January 27, 2025 and February 4, 2025. Additional materials filed July 3, 8 and 10, 2025.
+REASONS FOR ORDER BY:
+The Honourable Justice Edward (Ted) Cook
+DATE OF ORDER:
+November 13, 2025
+PARTICIPANTS:
+Counsel for the Applicant:
+Anu Koshal
+Simon Douville
+Almut MacDonald
+Counsel for the Respondent:
+Lindsay Tohn
+Andrée-Anne Lavoie
+Natalie Keller
+COUNSEL OF RECORD:
+For the Applicant:
+Names:
+Anu Koshal
+Simon Douville
+Almut MacDonald
+Firm:
+McCarthy Tétrault LLP
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

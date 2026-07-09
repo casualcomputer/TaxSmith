@@ -1,0 +1,242 @@
+---
+title: "Richard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30245/index.do"
+last_modified: "2011-03-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 136"
+citation2: ""
+neutral_citation: "2011 TCC 136"
+decision_date: "2011-03-03"
+language: "en"
+item_id: "30245"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8014
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:48:43.289000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8abe58faf83e22458fcab54a2def2b79d4e7463617a33df7115c1cce54ffeb16"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Richard v. The Queen
+
+- Citation: 2011 TCC 136
+- Decision date: 2011-03-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8014, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Richard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-03
+Neutral citation
+2011 TCC 136
+File numbers
+2010-2251(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2251(IT)I
+BETWEEN:
+GARY RICHARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 25, 2010, at Halifax, Nova Scotia.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ms. Jill Chisholm
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made by the Minister of National Revenue for the amount of $9,011.78 pursuant to section 160 of the Income Tax Act is dismissed.
+Signed at Ottawa, Canada, this 3rd day of March 2011.
+"Lucie Lamarre"
+Lamarre J.
+Citation: 2011 TCC 136
+Date: 20110303
+Docket: 2010-2251(IT)I
+BETWEEN:
+GARY RICHARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal from an assessment made by the Minister of National Revenue (Minister) for the amount of $9,011.78 pursuant to section 160 of the Income Tax Act (ITA).
+Subsection 160(1) of the ITA reads as follows:
+160. (1) Tax liability re property transferred not at arm’s length – Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common-law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefore, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+[2] In determining the appellant’s tax liability, the Minister relied on the facts referred to in paragraph 6 of the Reply to the Notice of Appeal (Reply), which are reproduced hereunder:
+(a) at all material times the Appellant was the common-law spouse of Brenda Boates Rock ("Brenda");
+(b) at all material times the Appellant was not dealing at arms length with Brenda;
+(c) Mildred Dinsdale ("Mildred") was Brenda’s aunt;
+(d) Mildred passed away on January 6, 2003;
+(e) the disposition of property in Mildred’s estate (the "Estate") was governed by a will;
+(f) at the time of her death, Mildred owned property at 20 Patillo Avenue, Truro, Nova Scotia (the "Property");
+(g) under the will, Brenda was given the option to purchase the Property from the Estate for $75,000;
+(h) Brenda exercised her option to purchase the Property;
+(i) the Property was transferred by the Estate to Brenda under an indenture dated February 21, 2003;
+(j) the Appellant provided $75,000 to Brenda so that Brenda could purchase the Property;
+(k) Brenda transferred the Property to the Appellant on March 14, 2003, for $1;
+(l) the fair market value of the Property at the time it was transferred to the Appellant on March 14, 2003, was not less than $171,000; and
+(m) the aggregate of all amounts that Brenda was liable to pay under the Act in or in respect of the 2001 taxation year was not less than $9,011.78 as of November 7, 2008.
+[3] At the outset of the hearing, the appellant admitted all of the above facts, except for subparagraph 6 (j), with respect to which the appellant stated that he had paid the amount of $75,000 directly to the estate.
+[4] The appellant does not dispute that the transfer of the property was made from the estate to his spouse and from his spouse to himself in order to comply with the testator’s will.
+[5] In his Notice of Appeal, the appellant argued that the cost of exercising the option was set by a third party and no fair market value analysis was required. At the hearing, the appellant did not adduce any evidence to challenge the fair market value of the property as estimated by the Minister. On the contrary, he admitted subparagraph 6 (l) of the Reply, which established that value at $171,000.
+[6] The appellant also stated in his Notice of Appeal, that his spouse did not have any taxes owing at the time of the transfer and that he should not be liable for penalties assessed against his spouse. During the course of the hearing, the appellant also took issue with all interest allegedly accrued on his spouse’s tax debt after the date of the transfer.
+[7] With respect to the tax owed by the appellant’s spouse, the respondent filed a statement of account sent to the appellant’s spouse showing the amount of tax owed by her for her 2001 taxation year and still owing on October 6, 2005. This amount of $7,019.27 was constituted as follows, as per the statement of account found in Exhibit R-1, Tab 8, and in Schedule A to the Respondent’s Written Submissions filed with the Court on December 15, 2010:
+Unpaid balance of law costs for certification in Federal Court of a tax debt in respect of the 1999 and 2000 taxation years
+$41.07
+2001 Assessment
+Provincial Tax
+$1,403.44
+Federal Tax
+$2,269.65
+Repeat late‑filing penalty
+$1,836.55
+Arrears interest charged
+$1,468.56
+Total
+$7,019.27
+[8] The appellant was assessed on November 7, 2008. At that time, the interest on the amount owed by his spouse was $3,461.07 (as shown in Schedule A to the Respondent’s Written Submissions), meaning that from October 6, 2005 to the date of the appellant’s assessment, additional interest of $1992.51 had accrued, which, added to the total amount due of $7,019.27 on October 6, 2005, gives the total amount assessed against the appellant of $9,011.78.
+[9] In his written submissions filed with the Court on December 29, 2010, the appellant alleged that the balance of $41.07 owing referred to above was paid in March 2004. This does not appear on the statement of account attached to his submissions, which clearly shows that there was a balance owing of $41.07 after the payment of $23,951.78 credited on March 17, 2004. So the appellant cannot argue that the respondent is claming that amount twice.
+[10]The appellant further argued that the amount of interest accrued after he was personally assessed brought the total amount due on November 8, 2010 to $9,986.90, as per the same document attached to his submissions. That document, however, is his spouse’s statement of account at that date and does not have any impact on the appellant’s assessment in issue before me, in which the amount assessed is $9,011.78.
+[11]The appellant also argued that he is not liable for the repeat late‑filing penalty as it was not assessed until October 6, 2005, which is after the date of the transfer of the property to him. The statement of account for the appellant’s spouse filed as Exhibit R-1, Tab 8, clearly shows that this penalty applies to the 2001 taxation year, which was prior to the date of transfer.
+[12]More importantly, the appellant argued in court, although the argument was not raised in his Notice of Appeal, that he is not liable pursuant to section 160 of the ITA for interest assessed or accrued after the date of transfer. In support of that argument, he relied on the decision of this Court in Currie v. MNR, 2008 TCC 338, a case heard under the informal procedure by Rossiter J. (as he then was), and in which Rossiter J. interpreted the oral decision rendered by Judge Dussault in Algoa Trust v. R., [1998] 4 C.T.C. 2001. In court, the appellant, who is himself a lawyer, did not have those decisions with him. As everyone was caught by surprise, I adjourned the hearing for a short period of time to find those decisions myself. As at first glance the decision in Currie seemed to support the appellant’s argument, I asked counsel for the respondent to call an officer from the Canada Revenue Agency (CRA) to explain the appellant’s assessment in order to determine the amount of interest accrued after the date of the transfer. Everyone being confused, I decided to adjourn the hearing to give the respondent a chance to explain in detail the assessment, particularly the amount of interest accrued after the year of the transfer. At that point, counsel for the respondent asked me for permission to make written submissions on that particular issue, which I granted. I also advised the appellant that he would have a chance to reply. Contrary to what is alleged by the appellant in a letter filed on December 16, 2010 in response to the respondent’s written submissions, I never gave my decision from the bench. Although I told the appellant that he might be right, I reserved my decision until I received both parties’ submissions on that particular issue. The Court received the respondent’s on December 15, 2010 and the appellant’s on December 29, 2010. The respondent replied on January 12, 2011.
+[13]Now that I have everything to hand, I am in a position to give my decision. It is true that Rossiter J. held in Currie, supra, that a transferee cannot be assessed interest accrued on the transferor’s debt after the year of the transfer. McArthur J. seems to have followed that decision in a judgment amending his earlier oral judgment in Provost v. The Queen, 2009 TCC 585 (however, it is not clear in Provost whether the interest cancelled pertained to the section 160 assessment or whether it was interest accrued on the transferor’s debt after the year of the transfer). It is also true, as alleged by the appellant, that there is a draft proposed amendment of July 16, 2010 to subparagraph 160(1)(e)(ii) of the ITA, which has not yet been enacted. I reproduce hereunder subparagraph 160(1)(e)(ii), as it now reads followed by the proposed amendment (as found in Carswell, TaxnetPro):
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+Proposed Amendment – 160(1)(e)(ii) and 160(1) closing words
+(e)
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act (including, for greater certainty, an amount that the transferor is liable to pay under this section, regardless of whether the Minister has made an assessment under subsection (2) for that amount) in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection limits the liability of the transferor under any other provision of this Act or of the transferee for the interest that the transferee is liable to pay under this Act on an assessment in respect of the amount that the transferee is liable to pay because of this subsection.
+Application: The July 16, 2010 draft legislation (Part 1 -- technical), subsec. 114(1), will amend the portion of subsec. 160(1) after subpara. (e)(i) to read as above, applicable in respect of assessments made after December 20, 2002.
+Technical Notes (July 2010): The amount that a taxpayer is liable to pay in respect of the transfer of property from a non-arm's length tax debtor is determined under subsection 160(1). The Minister may assess the taxpayer for such a liability under subsection 160(2). Paragraph 160(1)(e) is amended, in respect of assessments made after December 20, 2002, to clarify that the assessment of the taxpayer is subject to interest, without any limit on the amount of interest for which the taxpayer may be liable.
+Notes:
+This overrules Algoa Trust, [1998] 4 C.T.C. 2001 (TCC), and Currie, [2009] 1 C.T.C. 2139 (TCC); but in Zen, [2010] 6 C.T.C. 28 (FCA) (leave to appeal to SCC denied 2011 CarswellNat 47 (SCC)), the FCA suggests that Algoa Trust is wrong due to "the provisions of this Division apply" in 160(2), and that interest runs anyway. The CRA charges interest from the assessment date, not from the date of transfer, according to VIEWS doc 2008-0287751E5 (but presumably the s. 160 assessment will itself be for an amount that includes the transferor's interest). ...
+[14]Nevertheless, I fully agree with the recent decision by Archambault J. of this court in the general procedure case of Christiane Gagnon v. The Queen, 2010 TCC 482. Archambault J. did not follow Currie, and ruled that the Minister could legitimately assess the transferee for interest owed by the transferor for any period after the transfer, as long as it was interest in respect of an amount of tax owed for the taxation year in which the transfer took place or for a preceding taxation year. I also fully agree with Archambault J. that it cannot be said (as held by Rossiter J.) that Judge Dussault held in Algoa Trust that the transferee could not be held liable for interest accrued after the year of the transfer with respect to the transferor’s tax debt.
+[15]In Gagnon, Archambault J. stated the taxpayer’s argument in that regard at paragraph 16 :
+· Whether the tax debt includes interest
+16 Ms. Gagnon's counsel argued that the assessment could be only for the amount of $14,855, that is, only the tax amount, and that the $7,257 in interest had to be excluded because it was not part of the tax debt that existed during the year of the transfer. In fact, at December 31, 2001, no such obligation existed. Interest started to accrue only on April 30, 2002. In support of his claim, he cited Currie v. Canada, 2008 TCC 338, [2008] TCJ No. 266 (QL), where justice Rossiter (as he then was) specifically stated at paragraphs 22 and 27:10
+________________
+10 From what I understand of the facts of that case, the transfers of property took place in 1996 and 1999. The transferee was assessed under section 160 on February 3, 2004. The tax debt he was liable for was $544,146, $321,444 of which was interest. From July 2004 to March 2006, the transferee paid the Minister a total of $620,289 (paragraph 16 of the Reasons). The transferee acknowledged that he was jointly and severally liable with the transferor to pay the Estate's debt up to February 3, 2004, date of the assessment, but argued that he was not liable to pay the interest that had accrued on the debt between February 3, 2004 and the date of payment. Therefore, he was claiming the extra interest he had paid, namely, the amounts accumulated and paid after February 3, 2004. Thus, he acknowledged that he owed the interest incurred after the year in which the transfer had taken place. However, the Court cancelled the interest starting on December 31 of the year of the transfer.
+22 Subparagraph 160(1)(e)(i) is really not applicable. Under subparagraph 160(1)(e)(ii), the Appellant is liable for all amounts which the transferor, that is the Estate, is liable to pay under the Act in or in respect of the taxation year in which the property was transferred or in a preceding taxation year - this means any amount owing for the transfer of the Estate up to and including December 31st of the year of the transfer. The Appellant is only liable for that which the Estate was liable as per subparagraph 160(1)(e)(ii). The transfer most certainly took place before Assessment #1. As a result, Assessment #1 must be sent back to the Minister for recalculation and reconsideration, on the basis that the Appellant is only liable for the amount owing by the transferor, that is the Estate, up to and including December 31st of the year of the transfer and nothing more. This is certainly consistent with Algoa Trust, supra. Also, the Appellant specifically wanted to be repaid the $75,000, paid by him as interest, post the Assessment #1. This amount will be deleted from the assessment, per my previous comment and most certainly should be deleted to be consistent with Algoa Trust, supra, in which Dussault T.C.J. set out the inability of the Minister of National Revenue to levy interest against the transferee, at pages 2002 and 2003:
+. . .
+3. The rule stated in s. 160 of the Act does not have the effect of creating a tax debt. The effect of the provision is not to create a second debt: there is only one tax debt. The wording of the Act is quite clear: the purpose of s. 160 is essentially to add another debtor who is jointly and severally liable with the transferor. This new debtor is called the transferee. There is thus no new debt created under the Act and the obligation arises not from the assessment but from the Act itself. Fundamentally, therefore, there is only one debt and only that debt can bear interest.
+4. First, subsection (1) of s. 160 in fact states that the transferee is jointly and severally liable and that his or her liability is limited to the lesser of the two amounts mentioned in s. 160(e)(i) and (ii), namely (i) the value of the property transferred less the consideration, and (ii) the total of all amounts which the transferor is liable to pay in or in respect of the year of the transfer or any preceding year, that is to say, for the year of the transfer and for any preceding years.
+5. Secondly, s. 160(2) provides that the Minister of National Revenue (“the Minister”) may at any time make an assessment. This is also quite clear. However, the limit imposed in s. 160(1)(e) must be observed for each assessment.
+6. Thirdly, I would say that there is no provision of the Act regarding interest that may be applicable to an assessment issued pursuant to s. 160 of the Act. This is logical, since there is no new tax debt and an assessment under s. 160 already incorporates the interest which the transferor owed in addition to the tax. The assessment may also incorporate penalties and interest thereon.
+. . .
+27 The Appeal is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is not liable for interest on the Estate debt from December 31st of the year of the transfer.
+[Emphasis added.]
+[16]Thereafter, Archambault J. made a thorough analysis on this particular issue to which I wholeheartedly subscribe. I reproduce here his reasoning:
+17 As always, it is important to cite the relevant provisions of the Act as a starting point for any analysis where there is a dispute as to interpretation:
+160. (1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+. . .
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+160. (1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+. . .
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(ii) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n’est toutefois réputée limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[Emphasis added.]
+18 In response to Currie, counsel for the respondent cited Montreuil v. R., 1994 CarswellNat 2034, [1994] T.C.J. No 418 (QL), [1996] 1 C.T.C. 2182, a decision rendered in 1994 by the late Judge Dussault. In that decision, which is not mentioned in Currie, Judge Dussault adopted an interpretation of subparagraph 160(1)(e)(ii) that is the opposite of that adopted in Currie. Indeed, he held that that subparagraph covered "all interest compounded on an outstanding tax debt for a specified preceding taxation year at the time of the transfer or for the taxation year during which the transfer occurred, whether these are compounded before or after the year of the transfer." [Emphasis added.] Judge Dussault based that ruling on the following analysis, found at paragraphs 43 to 46 CarswellNat (39 to 42 QL):
+43 On the second question, we need at the outset to recall that on the date of death, which in my view is also the date of the transfer as I explained above, paragraph 160(1)(e) of the Act prescribed that the transferee and transferor are jointly and severally liable to pay an amount equal to the lesser of the amounts specified in subparagraphs 160(1)(e)(i) and (ii), i.e.:
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the aggregate of all amounts each of which is an amount that the transferor is liable to pay under this Act or in respect of the taxation year in which the property was transferred or any preceding taxation year.
+44 In view of the facts admitted, the only problem here concerns the interpretation of subparagraph 160(1)(e)(ii) for the purpose of establishing the tax liability of the transferor pursuant to this provision because it is used as one of the parameters to determine the quantum of the transferee's liability. […]
+45 Subsection 161(1) of the Act prescribes that interest is payable on any excess unpaid tax for a taxation year and that it is "computed for the period during which that excess is outstanding". In fact interest is compounded daily, and since 1987, compounded daily pursuant to subsection 248(11) of the Act. The rate is prescribed by Part XLIII of the Income Tax Regulations. Interest is payable as provided in subsection 161(1) for as long as the tax payable for a "taxation year" remains outstanding. Hence the only relationship that exists between the interest on an outstanding tax liability and a "specified taxation year" is precisely the relationship established in subsection 161(1) of the Act based on the amount of tax unpaid for this taxation year and "for the period during which" the amount is outstanding. The tax is the principal and the interest is the accessory. In this sense, interest that compounds until full payment of an outstanding taxation amount for a specified "taxation year" prior to the transfer constitutes, whatever the year in which it is compounded, an amount that the transferor is required to pay under the Act "in respect of" this preceding taxation year according to the wording of subparagraph 160(1)(e)(ii) as it applied prior to December 17, 1987, or "in or in respect of" this preceding year according to the wording that has applied since that date. Indeed, the Bordas dictionary40 defines the expression "à l'égard de" in its usual and modern sense as meaning "envers" and "en ce qui concerne". Moreover, the Grand Robert de la langue française41 gives particularly to the word "pour" the meaning of "en ce qui concerne" and "par rapport à". The English expression used in subparagraph 160(1)(e)(ii) "in respect of" has the same meaning and in my view corroborates the interpretation to the effect that these expressions cover all interest compounded on an outstanding tax liability for a specified preceding taxation year at the time of the transfer or for the taxation year during which the transfer occurred, whether these are compounded before or after the year of the transfer. We also know that the words "in respect of" have a very wide meaning, as recognized by the Supreme Court of Canada in Norwegijick. In his judgment in this case, Dickson J., who was later to become Chief Justice, analyzed these words in the following terms:
+The words "in respect of" are, in my opinion, words of the widest possible scope. They import such meanings as "in relation to", "with reference to" or "in connection with". The phrase "in respect of" is probably the widest of any expression intended to convey some connection between two related subject matters.
+46 In my view, this is enough to dispose of the second point. The question of determining whether an amount assessed under section 160 bears interest by application of section 161 was not raised as such and is not directly in issue here, and I thus need not rule on this question.11
+[Emphasis added.]
+______________
+11 He would rule on this issue in Algoa Trust v. Canada, [1998] TCJ No. 292 (QL), 98 DTC 1614. Judge Dussault’s footnotes have been omitted.
+19 In my view, Judge Dussault's interpretation is entirely consistent with the wording of subsection 160(1) of the Act. Though it is true that, as Judge Dussault held, the meaning of the French expression "pour une de ces années" is broad enough to include the meanings of "en ce qui concerne" and "par rapport à", the English version of subparagraph 160(1)(e)(ii) dispels all doubt by defining tax debt, for the purposes of section 160, as "an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year". If the words "in respect of" were not in the provision, it might be argued that the tax debt is that which existed at the end of the year during which the transfer was made. However, Parliament clearly intended, by adding the words "or in respect of", not to impose any such limit.
+20 Not only is Judge Dussault's interpretation more consistent with the wording of the section, it is also more consistent with Parliament's intention. Indeed, when a taxpayer transfers property to a person with whom he or she is not dealing at arm's length for a consideration that is less than the fair market value of the property, the taxpayer is diminishing his or her assets by an amount that could be used to pay off his or her tax debt. A taxpayer's tax debt is not limited to the tax owed, but also includes interest and, if applicable, penalties. Why would Parliament want tax authorities to be unable to recover the interest owed by the tax debtor when the benefit received by the transferee is enough to allow him or her to assume such an obligation?
+21 In addition, I do not accept that Judge Dussault had rejected that interpretation in his opinion for Algoa Trust, mentioned in Currie. On the one hand, he did not do so explicitly, since he did not cite Montreuil. On the other hand, there is nothing in his reasoning in Algoa Trust that would lead me to believe that he changed his interpretation of subparagraph 160(1)(e)(ii) of the Act.
+22 Let us briefly review the facts of that case. Algoa Trust was a shareholder of the Jaans Leasing. That company had reported dividends totalling $78,000 in May and September 1982 in favour of Algoa Trust. At the time of the transfer, Jaans had a tax debt of $88,244.82, $21,952.37 of which was tax for 1980 and 1981 and $66,292.45 was interest (that is, an amount more than three times as high as the tax) in respect of the 1978 to 1982 taxation years. (See Judge Rip's reasons for Algoa Trust v. Canada, [1993] TCJ No. 15 (QL), 93 DTC 405 at page 406.) One of the important issues before Judge Rip was whether the dividends constituted a transfer of property within the meaning of section 160. Judge Rip held that that was the case and confirmed the assessment made by the Minister under section 160. However, payments had been made by Jaans, or by another party on behalf of Jaans, to reduce its tax debt, and those payments had been made during different taxation years from those indicated at the time of payment. Allowing the appeal, Judge Rip referred the notice of assessment back to the Minister in order that he redetermine the interest taking into account the payments made.
+23 In the reassessment resulting from Judge Rip's decision, the Minister determined a tax debt balance of $25,278.60, but Algoa Trust challenged that reassessment. Judge Dussault heard that appeal. At paragraph 8 of his Reasons, Judge Dussault stated that Jaans' tax debt for 1982 and the preceding years was $88,244.82, which was the same amount as that stated by Judge Rip. According to Judge Dussault, Algoa Trust made a payment of $57,387.14 on February 14, 1991. (See paragraph 13 of his decision.) That payment was not acknowledged until 1993 and was applied to reducing Jaans' debt retroactive to February 14, 1991. As the total benefit received by Algoa Trust, which was determined under subparagraph 160(1)(e)(i) of the Act, was $78,000, the amount of the tax debt in respect of which Algoa Trust could be held jointly and severally liable, could not exceed $78,000, even though the debt was $88,244.82 and interest continued to accrue. Since it had paid $57,387, Algoa Trust could not have been held liable to pay more than $20,612.86 ($78,000 - $57,387.14).
+24 That being said, there is nothing in Judge Dussault's reasoning that would lead me to conclude that Algoa Trust could not be held liable for interest accrued in respect of the tax debt owed after the year of the transfer. Quite on the contrary, the assessment under section 160 was dated November 20, 1989. On that date, $66,292 in interest had been calculated in respect of the 1978 to 1982 taxation years. Since the transfers were made in May and September 1982, it is quite likely that the interest of $66,292 in respect of the 1979 to 1982 taxation years was for a period that went beyond 1982. In fact, it is quite likely that the interest was calculated up to the date of the assessment made under section 160 and dated February 20, 1989. Judge Dussault wrote at paragraph 14 that, between November 20, 1989 (date of assessment), and February 14, 1991 (date of payment), the debt increased because of interest, and that, subsequently, the debt, reduced by the payment of $57,387.14, continued to increase, reaching $26,810.36 by December 21, 1995, according to the collection officer's calculations. That was the date of the second assessment before Judge Dussault. He wrote the following at paragraph 14:
+Between November 20, 1989 (the date of the assessment) and February 14, 1991 the total debt increased because of interest, and subsequently the debt reduced by the payment of $57,387.14 continued to increase, reaching $26,810.36 by December 21, 1995 according to Mr. Gélinas's calculations. It is now perhaps $32,000 or $33,000, but again this is not significant. If Algoa Trust were assessed now for the first time and a payment of $57,387.14 were received the same day, clearly Algoa Trust could not be held liable for an amount greater than $20,612.86 pursuant to s. 160(1)(e) and (3)(a), namely the difference between the amount established under s. 160(1)(e), that is, $78,000, and the amount already paid, namely $57,387.14. Even if nothing were recovered from Algoa Trust for 50 years, in my opinion no more than $20,612.86 could ever be recovered.
+[Emphasis added.]
+25 To really understand the meaning of Judge Dussault's comments, it must be understood that he was making a distinction between the interest that could accrue on the amount established under section 160 and that which was being accrued on the transferor's tax debt. Judge Dussault only said that, in the first case, interest was not being accrued, while, in the second case, it was. He wrote the following at paragraph 6:
+6. Thirdly, I would say that there is no provision of the Act regarding interest that may be applicable to an assessment issued pursuant to s. 160 of the Act. This is logical, since there is no new tax debt and an assessment under s. 160 already incorporates the interest which the transferor owed in addition to the tax. The assessment may also incorporate penalties and interest thereon.
+[Emphasis added.]
+26 His reasoning is clearly expressed at paragraph 3,:
+3. The rule stated in s. 160 of the Act does not have the effect of creating a tax debt. The effect of the provision is not to create a second debt: there is only one tax debt. The wording of the Act is quite clear: the purpose of s. 160 is essentially to add another debtor who is jointly and severally liable with the transferor. This new debtor is called the transferee. There is thus no new debt created under the Act and the obligation arises not from the assessment but from the Act itself. Fundamentally, therefore, there is only one debt and only that debt can bear interest.
+[Emphasis added.]
+27 Judge Dussault's reasoning seems to be cogent. If the Minister could charge interest in respect of the amount determined under section 160, he could, in some way, collect interest more than once on the same debt: once from the principal debtor and another time from the transferee (joint and several debtor). If there were several transferees, the Minister could have as many times the interest. In addition, if the interest could be calculated on the amount of the assessment determined under section 160, that could mean that the amount that the transferee may have to pay would exceed the amount of the benefit he or she received, which would be contrary to the intent of section 160. That would be unfair.
+28 On the other hand, nothing prevents the Minister from holding the transferee liable for the interest owed by the transferor under section 160. Thus, he can assess the transferee to pay the interest owed by the transferor for any period after the year of the transfer, including, it would seem, a period following the assessment under section 160, as long as it is interest owed by the transferor. Obviously, as Judge Dussault held in Algoa Trust, that interest amount could not exceed the limit prescribed in subparagraph 160(1)(e)(i) of the Act, that is, the amount of the benefit received by the transferee.
+29 Accordingly, it cannot be convincingly argued that Judge Dussault held that the transferee could not be held liable for the interest accrued after the year of the transfer with respect to the transferor's tax debt. For these reasons, I rule that Ms. Gagnon is liable to pay the interest indicated in the assessment made by the Minister, namely, $7,257.73.
+[17]There is not much that I can add to Archambault J.’s reasoning. In Montreuil, supra (followed by this court in Achtem v. M.N.R., 1995 CarswellNat 316), judge Dussault clearly interpreted subparagraph 160(1)(e)(ii) in such a way that the transferee is liable for the amount of tax owed by the transferor in respect of the taxation year in which the transfer took place or any preceding taxation year (including penalties assessed and interest accrued, after the year of the transfer, on the tax debt owed by the transferor) up to the amount of the benefit received by the transferee. In Algoa Trust, supra, judge Dussault concluded that the tax assessed against the transferee pursuant to section 160 related to the transferor’s tax liability, but the section 160 assessment itself did not attract interest, as interest was already included in the transferor’s tax liability. My reading of the proposed amendment to subparagraph 160(1)(e)(ii) is that it is aimed at overruling that particular conclusion in Algoa Trust. The way in which the proposed amendment is drafted leads me to conclude that the purpose behind it is to have an assessment pursuant to section 160 considered as a distinct assessment with regard to which interest could accrue. Considering the recent decision in Zen v. Canada, 2010 FCA 180, it might not be necessary to amend subparagraph 160(1)(e)(ii) at all. However, it is my understanding that this proposed amendment is not directed at the interest accruing on a transferor’s amount of tax owed even after the year of the transfer, as it is clear from the actual wording of the provision that the transferee is jointly and severally liable with the transferor to pay the amount owed by the transferor in respect of the taxation year in which the transfer occurred and any preceding year. That amount, according to the decision in Montreuil, Achtem and Gagnon, supra, includes penalties and all interest accrued on the transferor’s debt to the date the transferee is assessed but may not exceed the limit prescribed in subparagraph 160(1)(e)(i) of the ITA. I will not follow the reasoning in Currie (a case heard under the informal procedure and which, pursuant to section 18.28 of the Tax Court of Canada Act, does not constitute a precedent), which, in my view, does not reflect what Judge Dussault said in Algoa Trust, supra.
+[18]In court, I also raised the point as to whether a section 160 assessment could cover the provincial tax owed by the transferor. Although the appellant did not dispute that it could, I just want to mention that such tax is covered by virtue of the definition of "amount payable" in subsection 223(1) of the ITA, which defines that expression as including an amount payable by a person under an Act of a province with which the Minister of Finance has entered into an agreement for the collection of taxes payable to that province under that Act, which is the case here.
+[19]I therefore conclude that the appellant is liable pursuant to section 160 of the ITA for the lesser of 1) the total of all tax, penalties and interest accrued on the debt owed by his spouse in respect of the taxation year in which the transfer took place or any preceding taxation year ($9,011.78) and 2) the amount of the benefit received ($96,000, which is the fair market value of the property ($171,000) less the consideration paid for it ($75,000)). I will therefore confirm the assessment in the amount of $9,011.78.
+[20]The appeal is dismissed.
+Signed at Ottawa, Canada, this 3rd day of March 2011.
+"Lucie Lamarre"
+Lamarre J.
+CITATION: 2011 TCC 136
+COURT FILE NO.: 2010-2251(IT)I
+STYLE OF CAUSE: GARY RICHARD v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: November 25, 2010
+RESPONDENT’S WRITTEN
+SUBMISSIONS December 15, 2010
+APPELLANT’S WRITTEN
+SUBMISSIONS December 29, 2010
+RESPONDENT’S REBUTTAL January 12, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: March 3, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ms. Jill Chisholm
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,172 @@
+Title: Her Majesty the Queen in Right of Ontario v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30163/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-23-30163-her-majesty-the-queen-in-right-of-ontario-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2011-01-17
+
+# Her Majesty the Queen in Right of Ontario v. M.N.R.
+
+- Citation: 2011 TCC 23
+- Decision date: 2011-01-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7824, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Her Majesty the Queen in Right of Ontario v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-17
+Neutral citation
+2011 TCC 23
+File numbers
+2010-1087(CPP)
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Canada Pension Plan
+Decision Content
+Dockets: 2010-1087(CPP)
+2010-1088(CPP)
+BETWEEN:
+HER MAJESTY THE QUEEN IN RIGHT OF ONTARIO,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 17, 2010, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Omar Shahab
+Counsel for the Respondent:
+Thang Trieu
+____________________________________________________________________
+JUDGMENT
+The appeals from the decisions of the Minister of National Revenue ("Minister") made pursuant to paragraph 6(1)(a) of the Canada Pension Plan with respect to the tenures of office of Roger Davidson and Gail Stiffler during the periods January 1, 2005 to December 31, 2007 and January 1, 2006 to December 2008, respectively, are allowed and the Minister's decisions are varied on the basis that Roger Davidson and Gail Stiffler's tenures of office during these periods were pensionable employment.
+Signed at Ottawa, Canada, this 17th day of January 2011.
+"Gerald J. Rip"
+Rip C.J.
+Citation: 2011 TCC 23
+Date: 20110117
+Dockets: 2010-1087(CPP)
+2010-1088(CPP)
+BETWEEN:
+HER MAJESTY THE QUEEN IN RIGHT OF ONTARIO,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Rip C.J.
+[1] The appellant, Her Majesty the Queen in Right of Ontario, is appealing from decisions of the Minister of National Revenue, the respondent, dated January 15, 2010, that the tenures of office of Roger Davidson and Gail Stiffler during the periods January 1, 2005 to December 31, 2007 and January 1, 2006 to December 31, 2008, respectively, were pensionable under paragraph 6(1)(a) of the Canada Pension Plan ("Plan"). According to the Minister of National Revenue ("Minister") during the respective periods Mr. Davidson and Ms. Stiffler each received remuneration that was "fixed and ascertainable" within the meaning of the subsection 2(1) definition of "office" and "officer". The appeals were heard together on common evidence.
+[2] The appellant was represented by the Ontario Ministry of the Attorney General ("MAG") who is responsible for administering justice in Ontario and for the running of the courts of the province.
+[3] There is no dispute as to facts. The respondent admitted all the facts alleged by the appellant in his notice of appeal which include the following:
+…
+2) In 1988, the Attorney General announced a three‑year pilot project to try a different model of appointment for Provincial Court Judges. The Judicial Appointments Advisory Committee (JAAC) mandate was, "First, to develop and recommend comprehensive, sound and useful criteria for selection of appointments to the judiciary, ensuring that the best candidates are considered; and, second, to interview applicants selected by it or referred to it by the Attorney General and make recommendations."
+3. Between 1990 and 1995, the size of the pilot committee grew from 9 to 13 persons and the committee worked at developing criteria and procedures which were reviewed, refined and eventually publicized. JAAC was formally established on February 28, 1995 by proclamation of the Courts of Justice Act amendment passed in 1994.
+4. The Courts of Justice Act, section 43(1) to (14) sets out the structure and role of the JAAC.
+5. Vacancies on the Bench are advertised in the Ontario Reports as the need arises. Candidates must submit 14 copies of a prescribed application form. These applications are reviewed by the Committee and a short list is prepared. The Judicial Appointments Advisory Committee meets to select candidates for interviews from the short list. After reference checks, confidential inquiries and interviews, the Committee sends a ranked list of its recommendations to the Attorney General who is required to make the appointment from that list.
+6. The JAAC is independent of the Ministry of the Attorney General and the Government.
+7. The composition of the JAAC is to reflect the diversity of Ontario's population, including gender, geography, racial and cultural minorities. In addition to seven (7) lay members who are appointed by the Attorney General, two (2) judges are appointed by the Chief Justice of the Ontario Court of Justice, one (1) member is appointed by the Ontario Judicial Council and three (3) from the legal community are appointed by the Law Society of Upper Canada, Ontario Bar Association and the County and District Law President's Association, respectively. All members serve for a term of three (3) years and may be re‑appointed.
+8. Mr. Davidson was first appointed as a lay person member to the JAAC for a three year term to the JAAC effective March 1, 2004 pursuant to an Order‑in‑Council ("OIC"). An OIC appointment is at the pleasure of Her Majesty the Queen in Right of Ontario. On March 1, 2007, Mr. Davidson was reappointed for another three year term.
+9. Mr. Davidson is not an employee of the MAG. There is no control exercised over Mr. Davidson and he does not report to a supervisor or manager at MAG. He utilizes his own equipment in carrying out his duties, does not have fixed place of employment with MAG and has a large degree of autonomy in carrying out his duties. There is no opportunity for promotion within MAG, he is not listed on the employee directory and MAG does not pay health premiums or remit workers compensation for him.
+10. From March 1, 2004 to March 9, 2007, Mr. Davidson was paid at the per diem rate of 100.00 dollars pursuant to OIC No. 1423/93. On March 1, 2007, OIC No. 993/2007 revoked OIC No. 1423/93 and the per diem rate increased from 100.00 dollars to 355.00 dollars.
+11. Mr. Davidson is paid 355.00 dollars per diem for his services, without statutory deductions. In order to receive remuneration, he is required to provide an invoice to the Office of Judicial Support Services, and is paid out of its budget.
+12. When a judicial vacancy occurs, Mr. Davidson and other JAAC members would be required to review the applications from candidates, conduct reference checks on certain candidates, interview candidates and then meet with the other JAAC members to discuss the recommendations that will be made to the Attorney General. Mr. Davidson would be paid for these activities at the per diem rate.
+…
+[4] The facts described in paragraphs 2 to 7 of Mr. Davidson's notice of appeal are similar to the following alleged facts in Ms. Stiffler's notice of appeal and are also admitted:
+…
+8. Ms. Stiffler was first appointed as a lay person member to the JAAC for a three year term effective March 1, 2004 pursuant to an Order‑in‑Council ("OIC"). An OIC appointment is at the pleasure of Her Majesty the Queen in Right of Ontario. On March 1, 2007, Ms. Stiffler was reappointed for another three year term.
+9. Ms. Stiffler is not an employee of the MAG. There is no control exercised over Ms. Stiffler and she does not report to a supervisor or manager at MAG. She utilizes her own equipment in carrying out her duties, does not have fixed place of employment with MAG and has a large degree of autonomy in carrying out her duties. There is no opportunity for promotion within MAG, she is not listed on the employee directory and MAG does not pay health premiums or remit workers compensation for her.
+10. From March 1, 2004 to March 9, 2007, Ms. Stiffler was paid at the per diem rate of 100.00 dollars pursuant to OIC No. 1423/93. On May 9, 2007, OIC No. 993/2007 revoked OIC No. 1423/93 and the per diem rate increased from 100.00 dollars to 355.00 dollars.
+11. Ms. Stiffler is paid 355.00 dollars per diem for her services, without statutory deductions. In order to receive remuneration, she is required to provide an invoice to the Office of Judicial Support Services, and is paid out of its budget.
+12. When a judicial vacancy occurs, Ms. Stiffler and other JAAC members would be required to review the applications from candidates, conduct reference checks on certain candidates, interview candidates and then meet to discuss the recommendations that will be made to the Attorney General. Ms. Stiffler would be paid for these activities at the per diem rate.
+[5] The number of days worked by each of Mr. Davidson and Ms. Stiffler is as follows:
+Year
+Davidson
+Stiffler
+2005
+124
+—
+2006
+135
+132
+2007
+91
+96
+2008
+—
+118
+[6] The Crown relies on paragraph 6(1)(a) of the Plan which states that "pensionable employment is employment in Canada that is not exempted employment". However, nowhere in its reply to the notice of appeal does the Crown plead that either Mr. Davidson or Ms. Stiffler, or both, were not engaged in excepted employment. As a matter of fact the Crown has admitted the appellants' allegation that they are not employees of MAG. Notwithstanding the facts alleged or admitted in the pleadings, subsection 2(1) of the Plan states that "'employee' includes officer" and "'employment' means the performance of services under an express or implied contract of service …, and includes the tenure of an office"[1].
+[7] The only issue raised by the parties in these appeals is whether the stipend or remuneration received by Mr. Davidson and Ms. Stiffler was "fixed and ascertainable" for the purposes of the definitions of "office" and "officer" in subsection 2(1) of the Plan:
+“office” means the position of an individual entitling him to a fixed or ascertainable stipend or remuneration and includes … , and “officer” means a person holding such an office;
+Le poste qu’occupe un particulier, lui donnant droit à un traitement ou à une rémunération déterminée ou constatable. Sont visés par la présente définition une charge […]; « fonctionnaire » s’entend d’une personne détenant une telle fonction ou charge.
+[8] The courts have not been consistent in their views as to the meaning of "ascertainable" or, in the French version of the Plan, "constatable" in subsection 2(1) of the Plan. In Merchant v. M.N.R.[2] Reed J. took the word "ascertainable"
+… to mean that the amount to be paid is capable of being made certain, or capable of being determined but not that a definite sum be known by the office-holder at the commencement of holding office. The word has to have some meaning beyond "fixed" or else it is completely redundant.
+(Emphasis added.)
+[9] The issue in Merchant was whether expenses for a campaign for leader of a political party were deductible in computing income from a business for purposes of the Income Tax Act. The leader of the political party was provided with a stipend that varied between $20,000 and $40,000 but sometimes was nothing. In the Minister's view the income as party leader would be income from an office within the meaning of subsection 248(1) of the Income Tax Act.
+[10] Justice Reed considered the provisions of subsection 248(1) of the Income Tax Act, in particular the definitions of "office" and "officer". The definitions of office and officer in the Income Tax Act are similar to those in the Plan; that the individual be entitled to a "fixed or ascertainable stipend or remuneration" is required in the definitions of "office" and "officer" in both statutes. However, in the immediately preceding paragraph of the reasons I cite in paragraph 8, Justice Reed asserted that:
+… In order to be classified as income from an office the remuneration must be fixed and ascertainable.
+(Underline added.)
+[11] Reed J. disagreed with the opinion of the Chairman of the Income Tax Appeal Board in 1952 that "By 'position entitling one to a fixed and ascertainable stipend or remuneration', Parliament, … meant a position carrying such a remuneration that when accepting it a person knows exactly how much he will receive for the services he is called upon to render..."[3] [English translation.] She was not convinced that at the time of taking office the taxpayer must know how much he will receive. "… It seems to me", she declared, "that a per diem rate, or a specified amount per sitting renders the income sufficiently ascertainable to meet the definition in subsection 248(1) …"[4]
+[12] The word "fixed" is given several meanings in the Shorter Oxford Dictionary. For our purposes, the Short Oxford Dictionary's definition that "fixed" means "stationary or unchanging" appears appropriate. A fixed stipend or remuneration is one that the worker and employee know at the outset. In the French version of subsection 2(1) the word "déterminée" is used where "fixed" is in English. The word "fixed", as "déterminée", more than suggests an amount known at the outset of the tenure of office.
+[13] The reasons for judgment of my former colleague Justice Dussault in Payette v. M.R.N.[5] are quite relevant to the appeal before me. Mr. Payette, a lawyer, was a member of the review committee of the Commission des services juridiques of Quebec. This Commission sat on an irregular basis to review eligibility decisions under Quebec's legal aid regime. Members of the Committee were paid an honorarium of $50 per hour on days they provided services. Dussault J. had to interpret the meaning of the word "ascertainable" on the facts before him and reasoned as follows:
+24 However, in commenting on the decision in Guérin (supra), Reed J. appears to assume that in that case the remuneration was not ascertainable mainly because of the expenses the appellant was obliged to incur. The Court does not agree with that position. The words "stipend" and "remuneration" mean gross income, not income net of expenses. This is clear from the wording of subsection 5(1) of the Income Tax Act. As well, the Court considers that the descriptor "ascertainable" must refer to something that can be ascertained a priori; otherwise it would have no meaning since everything can be ascertained a posteriori. Thus if the "stipend" or "remuneration" is not fixed, it must still be ascertainable in advance with at least some degree of accuracy by using some formula or by referring to certain set factors. The Court considers that this is the meaning of the decisions in Guérin and MacKeen (supra).
+…
+26 … [I]t is not enough to occupy a position: the position must entitle the person to a "fixed or ascertainable stipend or remuneration", according to the definition set out in subsection 2(1) of the Canada Pension Plan. In the present case, it is clear that the position does not entitle a person to a fixed remuneration or stipend. The Court also considers it impossible to conclude that the remuneration is ascertainable since in this regard the facts set out in the Notice of Appeal, the truth of which the respondent has admitted, are insufficient. It is not known how many times each member is called upon to sit on the review committee or how many days or hours are spent on this activity in a given year. The information about the number of review committee sittings held and the number of review applications heard each year does not provide a reliable factor for individual members. The Court has no idea of the "stipend" or the "remuneration" that the members of the review committee were likely to receive for rendering their services; nor has any such information been adduced, except that the members are paid on a fee basis at a rate of $50 per hour. The Court considers that merely indicating the hourly rate set by the Commission des services juridiques is insufficient to establish that the position itself makes a member eligible for a "fixed or ascertainable stipend or remuneration". …
+[14] The reasons in Payette were followed by Beaubier J. in Churchman v. R.[6] on substantially a similar fact situation as in Payette and in the appeal at bar[7].
+[15] The word "ascertainable is defined in the Oxford English Dictionary[8] as "1. Capable of being fixed, settled, or decided. 2. Capable of being discovered or learned by agreement, examination, or investigation." The Dictionary of Canadian Law[9] defines "ascertainable" as "capable of being made certain or being determined."
+[16] The word used in the French version of the definition of "office" and "officer" in subsection 2(1) of the Plan for "ascertainable" is "constatable". Le Grand Robert de la Langue Française[10] defines "constatable" as "qui peut être constaté". Le Grand Robert defines "constater" as "1. Établir par experience directe la vérité, la validité de; se rendre compte de …". Dictionaire Encyclopédique Quillet's[11] definition of "constater" includes "vérifier la réalité d'un fait, s'en assurer … Établir la réalité d'un fait, montrer, prouver …". According to Larousse Trois Volumes "constater" means among other things, "Prendre connaissance de … Établir la vérité de …"[12] Lexis Larousse de la langue Française defines "constater" as "remarquer objectivement …"
+[17] In Merchant, Justice Reed conjoined "fixed" and "ascertainable" and thus concluded that the word "ascertainable" "has to have some meaning beyond 'fixed' or else it would be completely redundant." The words "fixed" and "ascertainable" in the definitions of both the Plan and the Income Tax Act are not conjoined. The stipend or remuneration may be either fixed or ascertainable. The words "fixed" and "ascertainable", in my view, are not redundant. In any event Reed J.'s comments cited earlier were obiter. She concluded that on the facts before her it was difficult to determine whether the sums paid were ascertainable and assumed that they were not. She decided the appeal on other grounds.
+[18] The Federal Crown relied heavily on the reasons for judgment in Vachon (Succession de) v. Canada,[13] a decision of the Federal Court of Appeal. The taxpayers were the central councils for two unions and 14 of their individual officials. The officials were elected to their positions and were otherwise employed in local chapters of the union. They received two to five days leave per week to carry out their union activities and duties and were paid during that time pursuant to their employers collective agreements. The employer was reimbursed by the local chapter, who was in turn reimbursed by the central council. In addition, the union officials also received allowances for the meal, travel and child care expenses incurred in the course of their union work. The Minister determined that the allowances paid by the central councils to the union officials were taxable and were insurable earnings. The Court found that the allowances in question were neither taxable nor insurable, as they were paid not in the course of an office or employment but, rather, for the performance of union duties on a volunteer basis. The judge found that the officials did not occupy an office, as their activities did not entitle them to fixed or ascertainable remuneration. The assessments were ordered vacated and the Minister appealed.
+[19] The Federal Court of Appeal found that the union officials held an office within the meaning of s. 248(1) of the Income Tax Act and s. 2(1) of the Plan. The officials were all elected to the positions they held. Their positions entitled them to a fixed or ascertainable stipend or remuneration. The union officials knew of the monetary conditions associated with their leave when they applied for the union position. The allowances were paid to the officials as union officials during their leave to conduct activities associated with their elected positions. They received their usual remuneration during their union leave that they would otherwise receive in the course of their normal employment. The fact that the remuneration was paid by employers rather than the central councils did not change the analysis, as the payments were made on behalf of the councils.
+[20] The Court of Appeal considered whether the remuneration was fixed or ascertainable at paragraph 38 of its reasons:
+L'existence de ce deuxième critère est assujettie à deux conditions. La charge ou le poste occupé doit « donner droit » à une rémunération, et cette rémunération doit être « fixe ou vérifiable » ou « déterminée ou constatable ». L'aspect fixe ou vérifiable de la rémunération semble acquis puisque les militants connaissaient avec précision les conditions monétaires rattachées à leur libération syndicale dès qu'ils posaient leur candidature à un poste syndical (Témoignage de Pierre Morel, dossier d'appel, vol. III, p. 707).
+There are two requirements for meeting this second test. The office or position held must "entitle" the individual to remuneration, and this remuneration must be "fixed or ascertainable". The fixed or ascertainable aspect of the remuneration seems to have been met, since the union officials knew exactly what the monetary conditions associated with their union leave were when they applied for a union position (Testimony of Pierre Morel, appeal book, Vol. III, p. 707).
+[21] Counsel for the respondent submitted that Vachon is very similar to the case at bar. In his view, "those persons who were members, specifically these workers here, knew what the monetary conditions were. They knew that they were going to be paid a set rate."
+[22] In Vachon the union officials were permitted to be absent from their regular employment obligations in order to attend to union duties. Under the collective agreement it was established that the union officials would not be penalised monetarily for their commitment to their union positions. As such, no matter how many days they spent fulfilling union duties, they would always be assured of receiving the full amount of their employment salary. They could not receive more remuneration by engaging in union activities more frequently. Neither would they receive less if their union duties were not particularly onerous. The only differences were the amounts they received as allowances for travel, meals and childcare.
+[23] The remuneration of the union members in Vachon was "fixed or ascertainable" because the remuneration could not vary from their actual salary (other than by the amount of the allowances). The union officials always knew in advance what their salary would be for the year. The total compensation that the union officials would receive was always fixed at the beginning of the year. It did not exceed or fall short of their base salary. The only unknown was what percentage would be paid by the employer and what would be paid by the union. This is consistent with the reasoning in Payette.
+[24] I agree with the reasons of Dussault J. in Payette. The time when an amount of remuneration or stipend is to be ascertained for the purpose of subsection 2(1) is at the beginning of the term of the employment when, for example, the payer has to begin to withhold amounts from remuneration paid to the employee and make contributions to the Canada Pension Plan on its own account. The fact that one part of the formula to determine the amount of remuneration or stipend, in the appeals at bar, the per diem rate, is known at the commencement of the employment does not make the amount ascertainable. As Dussault J. pointed out such a definition would strip any meaning from the term "ascertainable", since everything can be known a posteriori.
+[25] For the purposes of subsection 2(1) of the Plan the stipend or remuneration must be ascertainable; they must be known to both the payer and payee or be calculable to a reasonable degree of certainty before the term of office begins. Remuneration is ascertainable for example if a person knows or reasonably expects that he or she will be called upon to attend approximately 20 meetings of a committee during the year and will receive payment of $100 for each meeting. The person would know with a reasonable degree of certainty that the remuneration from the office will be approximately $2,000 for the year. If at the commencement of the year or beginning of the tenure of the position, the person has no idea how many meetings he or she will attend in a year, there is no way to reasonably ascertain the stipend or remuneration. In the appeals at bar, the days either appellant would attend meetings during the year would depend on the number of judicial vacancies in the year, among other things. The evidence at bar was that the number of days the appellants be required to fulfill their obligations as members of JAAC varied significantly from year to year. To ascertain their income from JAAC at the beginning of any year would not be a reasonable exercise.
+[26] The appeals are allowed.
+Signed at Ottawa, Canada, this 17th day of January, 2011.
+"Gerald J. Rip"
+Rip C.J.
+CITATION: 2011 TCC 23
+COURT FILES NOS.: 2010-1087(CPP) and 2010-1088(CPP)
+STYLE OF CAUSE: HER MAJESTY THE QUEEN IN RIGHT OF ONTARIO v. M.N.R.
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 17, 2010
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: January 17, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Omar Shahab
+Counsel for the Respondent:
+Thang Trieu
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Omar Shahab
+Ministry of the Attorney General
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Subsection 2(1).
+[2] [1984] 2. F.C. 197 at para. 12; 84 DTC 6215 at 6217.
+[3] Guérin v. M.N.R., 52 DTC 118 at p. 121 per F. Monet Q.C.
+[4] Supra, para. 14.
+[5] (2002) CarswellNat 4668 (TCC).
+[6] 2004 DTC 2371 at paras. 10 to 13.
+[7] See also McMillan Properties Inc. v. M.N.R., 2005 TCC 654, para. 32 and Guyard v. M.N.R., 2007 TCC 231 where Angers J. noted the conflict in Merchant and Payette.
+[8] 2ed ed., Vol. I.
+[9] 3rd ed., Thomson-Carswell, 2004.
+[10] 2nd ed., Le Robert, Tome II, Paris.
+[11] Librairie Aristide Quillet, Paris, 1968.
+[12] Librairie Larousse, Paris, 1968.
+[13] 2010 DTC 5032, 2010 DTC 5038, 2009 FCA 375. Application for leave to the Supreme Court dismissed.

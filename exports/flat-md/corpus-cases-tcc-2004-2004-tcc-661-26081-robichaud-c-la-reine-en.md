@@ -1,0 +1,272 @@
+---
+title: "Robichaud c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26081/index.do"
+last_modified: "2004-11-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 661"
+citation2: ""
+neutral_citation: "2004 TCC 661"
+decision_date: "2004-11-10"
+language: "en"
+item_id: "26081"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4076
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:50:56.508000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b528ec93935aa837e2a88415100fe332781974a31920aa68513495069dd0b50e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Robichaud c. La Reine
+
+- Citation: 2004 TCC 661
+- Decision date: 2004-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4076, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robichaud c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-10
+Neutral citation
+2004 TCC 661
+File numbers
+94-2544(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 94-2544(IT)G
+BETWEEN:
+GILLES ROBICHAUD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+___________________________________________________________________
+Appeal heard on September 16, 2004, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Chantal Jacquier
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 1989, 1990 and 1991 taxation years is allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment taking into account the fact that the Appellant donated sets of stamps for which the fair market value at the time of the donation was $280 for the 1989 taxation year, $433 for the 1990 taxation year and $671 for the 1991 taxation year; as to the penalties, they are set aside, with costs in favour of the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of November 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of February 2005
+Aveta Graham, Translator
+Citation: 2004TCC661
+Date: 20041110
+Docket: 94-2544(IT)G
+BETWEEN:
+GILLES ROBICHAUD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from an assessment made under the Income Tax Act (the "Act") concerning the 1989, 1990 and 1991 taxation years. The appeal deals with the following three questions:
+· Was there a genuine donation of certain property?
+· If it was a genuine donation, did the amounts on the receipts correspond to the fair market value (the "FMV") of the property in question at the time the property was transferred?
+· Lastly, were the penalties imposed under subsection 163(2) of the Act for 1989, 1990 and 1991 justified?
+[2] To make and justify the reassessments in question, the Minister of National Revenue (the "Minister") assumed the following facts:
+(a) in his income tax return for the 1989 taxation year, the Appellant claimed, as a charitable donations credit, an amount of $2,089 with respect to the property (stamps) purportedly "given" to the Fondation Amérindienne Tecumseh;
+(b) in his income tax return for the 1990 taxation year, the Appellant claimed, as a charitable donations credit, an amount of $5,190 with respect to the property (stamps) purportedly "given" to the Fondation Amérindienne Tecumseh;
+(c) in his income tax return for the 1991 taxation year, the Appellant claimed, as a charitable donations credit, an amount of $6,870 with respect to the property (stamps) purportedly "given" to the Fondation Amérindienne Tecumseh;
+(d) the Appellant did not genuinely donate of any of that property in 1989, 1990 or 1991;
+(e) the Appellant did not have animus donandi to give that property to the Fondation Amérindienne Tecumseh;
+(f) the Appellant bought a tax deduction each year;
+(g) the Appellant only sought to obtain an undue tax advantage for the 1989, 1990 and 1991 taxation years since each year the transaction was conditional upon receiving a receipt for an amount larger than the amount he had to spend to obtain it;
+(h) in addition, the value declared by the Appellant for 1989, 1990 and 1991 for the property in question, of which the description provided in the documents submitted by the Appellant was not admitted, was not attributed by an independent expert and was not, in any case, the fair market value of the property in question;
+(i) the receipts submitted by the Appellant do not comply with section 3501 of the Income Tax Regulations;
+(j) the Appellant is therefore not entitled, for 1989, 1990 and 1991, to any charitable donations credit with regard to the property in question;
+(k) the Appellant did not fill in Schedule 3 on his income tax returns concerning the gains realized on the disposition of listed personal property;
+(l) the Appellant, knowingly or under circumstances amounting to gross negligence, made, participated in, assented to or acquiesced in the making of a false statement or omission in his income tax returns for the 1989, 1990 and 1991 taxation years and as a result the income tax that would have been payable if it had been established based on the information provided in his returns would have been $503.96, $1,312.54 and $1,751.90 less, respectively, than the income tax actually payable for the 1989, 1990 and 1991 taxation years; (no confirmation in the file)
+(m) the penalties accordingly imposed on the Appellant under subsection 163(2) of the Income Tax Act amount to 50% of that tax differential, namely, $251.98, $656.27 and $875.95, respectively, for the 1989, 1990 and 1991 taxation years.
+[3] The Appellant admitted the statements in paragraphs (a), (b), (c), and (k); he denied all the others, specifically, (d), (e), (f), (g), (h), (i), (j), (l), and (m).
+[4] Only the Appellant, a chartered accountant (CA), testified in support of his appeal.
+[5] The Appellant, who has been truly fond of stamps since a very young age, had gathered a significant number of them over the years, which he considered to be a collection. Many members of his family had made it their duty to gather stamps for him; with time and the help of his family and friends, he had accumulated so many that he considered himself an amateur stamp collector.
+[6] In parallel with this hobby, he was interested in tracing his ancestors to build his family tree; when he learned that some of his ancestors were of Amerindian origin, he became interested in that community and wanted to help them.
+[7] Due to a lack of time and interest, and with his fondness for stamps waning, he apparently then decided to help the Fondation Amérindienne Tecumseh by donating part of his collection to the foundation in three different donations during 1989, 1990 and 1991.
+[8] In consideration for the donations to the Fondation Amérindienne Tecumseh, he received three receipts in the amounts of $2,089.70, $5,189.81 and $6,870. The value of the donations indicated on the receipts was established based on the international catalogue "Scott" for the years in question. Those were the key elements of the evidence submitted by the Appellant.
+[9] To show the FMV of the stamps that he gave to the Fondation Amérindienne Tecumseh during the 1989, 1990 and 1991 taxation years, the Appellant essentially stated that the FMV had been determined based on the information in the "Scott" catalogue. He was consistent. He did not enlist the aid of any experts or stakeholders; he repeated that, in his view, the "Scott" catalogue was an appropriate and satisfactory reference tool for determining the FMV.
+[10] He also added that he has very little or no knowledge about tax matters. Throughout the years, his professional career had moved away from pure accounting; for some years now, he has dedicated himself more to administration than to accounting.
+[11] As to his experience with income tax returns, he took care of his own, those of some family members and a few friends, but this work in general was not very significant.
+[12] The cross-examination of the Appellant revealed some interesting and very relevant information. First, the Appellant was not a very informed collector; even he described himself as an amateur.
+[13] For example, he was not able to explain the meaning of the letter J in the stamp descriptions that he gave to the Fondation even though that is very basic for a true collector. The letter J means that the stamps are used by Canada Post to stamp mail without sufficient postage. The Appellant was more a gatherer of stamps than a true collector.
+[14] He stated that he had re-gained his fondness for his hobby following a meeting with Jean Allaire, a co-worker, who was very interested in stamps and even had a business in this field called "Zimo."
+[15] The Appellant became interested in stamps once again; that interest primarily developed as part of his relationship with his co-worker, an accountant at the same company.
+[16] In response to the questions designed to determine the extent of his knowledge of stamp collecting and whether he had discussions, took steps, organized meetings, visits or exchanges or made purchases or sales with other collectors, both amateur and professional, he essentially stated that he occasionally went to Mr. Allaire's and that he had once visited his booth at an exhibition.
+[17] The cross-examination also revealed that the stamps given in the three donations for 1989, 1990 and 1991 were acquired from the business Zimo, owned by his co-worker and friend, Jean Allaire.
+[18] Was this true for all the stamps given? It was not possible to determine that specifically. However, it was for the large majority; some stamps, the quantity of which could not be determined, were presumably obtained in trades for stamps he already had.
+[19] However, the evidence in that regard was so incomplete that it was appropriate to accept that the large majority of the stamps given in the three donations came from Jean Allaire; to acquire those stamps, the Appellant paid $503.96, $1,312.54 and $1,751.90, plus the applicable taxes.
+[20] With regard to the matter of the stamps given in the three donations and the price paid, the Appellant answered all the questions in a very evasive manner. However, the Respondent's evidence clarified the matter, all the more because two of the three payments were made at practically the same time as the receipts were issued.
+[21] To establish the FMV of the stamps in respect of which the three receipts submitted by the Appellant were issued, the Respondent enlisted the help of Maurice Valentin, an expert in philately. Mr. Valentin, who has been working full time in this field for more than 40 years, the last 20 of which in Canada, prepared and submitted a report on the results of his analysis (Exhibit I-13).
+[22] As the Appellant acknowledged Mr. Valentin's expertise, the Court confirmed the expert qualification.
+[23] Accordingly, Maurice Valentin testified as an expert. He explained and described certain fundamental rules for appraising stamps, both for dealers and for the collectors themselves.
+[24] As he was not able to examine the state of the stamps in question, he referred to the very detailed descriptions prepared as part of the three donations. He was then able to determine and assess the method used for attributing the value indicated on the receipts.
+[25] The substance of the expert testimony dealt with a critique of the various guides on the subject.
+[26] First, he pointed out a very important element, namely, that the stamps given up were not a collection, but rather a batch of stamps, therefore losing a significant part of their potential value. He explained that true collectors usually have objectives based on countries, themes or other characteristics making it possible to build true collections. For the expert, a collector is a person who gathers or tries to gather stamps from the same family, the same era or the same country, where it is often a matter of a specific theme. The Appellant's approach essentially consisted in gathering all sorts of stamps without any homogeneity.
+[27] According to Mr. Valentin, the stamps given in the three donations were of no interest to a collector. They could be sold in essentially commercial transactions because the potential purchaser would only have one interest, namely, to make a profit by selling them in small batches.
+[28] There was no connection between the various stamps, which told him that they were dealing with an "inventory" of stamps and not a collection.
+[29] In such case, the stamps are of no interest to a collector. Only a dealer may be interested in those stamps, as long as he only spends a very small fraction of the price that may be listed in the different catalogues hoping to resell them at a profit while selling them for less than the value indicated in the different guides or catalogues.
+[30] In light of Mr. Valentin's testimony, it appears that the Appellant was clearly not a high-level collector. He was interested in stamps as an amateur in that he was more concerned with the size of his inventory than with the quality, rarity or distinctiveness of certain stamps.
+[31] Furthermore, the evidence in no way established that he had the knowledge, classifications, specialties, etc. He undoubtedly took pleasure in gathering the stamps and quantity was his primary concern.
+[32] Mr. Valentin provided several concrete examples to illustrate his statements. His comments and explanations were clear and simple. His conclusions resulted from a reliable and well-documented analysis.
+[33] Although reliable, professional and detailed, that analysis cannot lead to irrefutable conclusions. However, when the work is done in a professional manner and is consistent with the rules of the art, the conclusions drawn cannot be disregarded for essentially intuitive reasons.
+[34] In the case at bar, there were no meaningful criticisms of Mr. Valentin's work. On the contrary, the Appellant acknowledged his experience and expertise in the matter. He acknowledged having learned interesting and very valuable things from the testimony.
+[35] For those reasons, I have no ground to disregard or disallow the expert's conclusions. Accordingly, I concur with Mr. Valentin's opinion as to the FMV; the FMV of the three batches of stamps that were donated to the Fondation Amérindienne Tecumseh was established as follows:
+Mr. Valentin's conclusions
+Batch
+FMV accepted
+$280.48
+$216 to 433
+$500.62 to 671.25
+I
+II
+III
+$280
+$433
+$671
+[36] Is the Scott catalogue or guide an appropriate and reliable reference for determining the FMV of stamps? The answer is clearly no.
+[37] Relying on the Scott guide, the Appellant stated and repeated that the amount indicated on the different receipts obtained from the Fondation Amérindienne corresponded to the FMV of the stamps that he had donated.
+[38] There is no sufficient or satisfactory guide, catalogue or register for determining the FMV of property. That type of reference exists for a number of consumer goods such as cars, motorcycles, trailers, trucks, etc. Many also exist for property that is collected like coins, dishes, stamps, watches, pens, firearms, etc. Those guides, catalogues or reference tools are essentially tools that give some idea of the possible value. They are not definitively sufficient for attributing a FMV at a given time. They are, at most, a reference that prevents one from making totally arbitrary decisions.
+[39] Depending on the reliability, the market, the interest and the circulation, certain guides may have a better rating, maybe even better credibility and may be based on actual transactions such as the price obtained at an auction. For the collector, there are dozens of details that can have a significant impact on the FMV; for example, the condition of the property, its purity, its authenticity, etc., are very important aspects for a true collector.
+[40] The sales at specialized auctions are also data that may prove to be interesting and relevant; those transactions have the advantage of providing actual data as opposed to just theoretical data. However, a rich amateur without any knowledge on the matter can raise the bidding at the auction considerably because of pride, boastfulness, specific emotions, etc., which as a result vitiates or distorts the FMV of property.
+[41] To better understand that reality, it should be noted that the FMV is generally the price that a buyer free from any constraint, specific emotion or need is prepared to pay to acquire the property from its owner equally free from any pressure or influence of any kind.
+[42] The Respondent argued that, first, a donation implies that the donor has to be the owner of the object at the time of the donation, otherwise the donation cannot have taken place, implying that the Appellant did not own the stamps at in respect of which the three receipts were issued.
+[43] Although the evidence of ownership of the stamps was not absolute or beyond a reasonable doubt, on the balance of probabilities, the stamps were indeed the property of the Appellant.
+[44] Some came from his own inventory, but the number had not been established; the large majority came from Zimo, a business operated by a co-worker who was also apparently a friend.
+[45] For any transfer of ownership of property to take place, there has to be consent, specific identification of the object of the transfer and finally payment in consideration. In the case at bar, the property was very clearly identified and described in detail; the Appellant paid much less than the amount indicated on the receipts, but he did pay something.
+[46] The requirements applicable to the three receipts, which are set out in section 3500 and subsections 3501(1) and (1.1) of the Income Tax Regulations, read as follows:
+3500. In this Part,
+"other recipient of a gift" means a person, to whom a gift is made by a taxpayer, referred to in any of subparagraphs 110.1(1)(a)(iii) to (vii), paragraphs 110.1(1)(b) and (c), subparagraph 110.1(3)(a)(ii), paragraphs (c) to (g) of the definition "total charitable gifts" in subsection 118.1(1), the definition "total Crown gifts" in subsection 118.1(1), paragraph (b) of the definition "total cultural gifts" in subsection 118.1(1) and paragraph 118.1(6)(b) of the Act;
+...
+"official receipt" means a receipt for the purposes of subsection 110.1(2) or (3) or 118.1(2), (6) or (7) of the Act, containing information as required by section 3501 or 3502
+...
+3501. (1) Every official receipt issued by a registered organization shall contain a statement that it is an official receipt for income tax purposes and shall show clearly in such a manner that it cannot readily be altered,
+(a) the name and address in Canada of the organization as recorded with the Minister;
+(b) the registration number assigned by the Minister to the organization;
+(c) the serial number of the receipt;
+(d) the place or locality where the receipt was issued;
+(e) where the donation is a cash donation, the day on which or the year during which the donation was received;
+(e.1) where the donation is a gift of property other than cash
+(i) the day on which the donation was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+(f) the day on which the receipt was issued where that day differs from the day referred to in paragraph (e) or (e.1);
+(g) the name and address of the donor including, in the case of an individual, his first name and initial;
+(h) the amount that is
+(i) the amount of a cash donation, or
+(ii) where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made; and
+(i) the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge donations.
+(1.1) Every official receipt issued by another recipient of a gift shall contain a statement that it is an official receipt for income tax purposes and shall show clearly in such a manner that it cannot readily be altered,
+(a) the name and address of the other recipient of the gift;
+(b) the serial number of the receipt;
+(c) the place or locality where the receipt was issued;
+(d) where the donation is a cash donation, the day on which or the year during which the donation was received;
+(e) where the donation is a gift of property other than cash,
+(i) the day on which the donation was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+(f) the day on which the receipt was issued where that day differs from the day referred to in paragraph (d) or (e);
+(g) the name and address of the donor including, in the case of an individual, his first name and initial;
+(h) the amount that is
+(i) the amount of a cash donation, or
+(ii) where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made; and
+(i) the signature, as provided in subsection (2) or (3.1), of a responsible individual who has been authorized by the other recipient of the gift to acknowledge donations.
+[47] The receipts submitted are certainly not ideals; however, they contain enough details on the fundamental aspects to allow for adequate verification of all the relevant elements quickly and easily.
+[48] Furthermore, the Minister obtained a very detailed and specific description of the stamps that were given to the Fondation Amérindienne Tecumseh in three donations. Furthermore, the availability of all the details also allowed the Respondent to commission an expert who prepared his report based essentially on the description provided by the Appellant.
+[49] From the appraisal or the appraiser, the Minister learned that it was a reputable catalogue which was undoubtedly a classic for all those interested in stamps.
+[50] The very strict requirements set out in the Regulations do not make it possible to draw irrefutable conclusions; their purpose is essentially to make available all the elements necessary for a review to ensure reasonableness and avoid abuses.
+[51] The Appellant's file was audited as part of what seems to have been a special project. Claiming that he had no knowledge of the scheme from which some individuals presumably tried to benefit, the Appellant described himself as being honest, upright and very compliant with the Act; he stated that had not hidden anything or made false statements. He vigorously defended the transparency of his actions and stated that he had always acted in good faith.
+[52] The Appellant's testimony, his reactions to the numerous comments from the Court, his behaviour during the cross-examination of the expert, his observations to all the stakeholders and, finally, the extensive observations made during his closing statement are elements that discredit or at the very least weaken the theory that he knowingly or under circumstances amounting to gross negligence, made, participated in, assented to or acquiesced in the making of a false statement or omission in his income tax returns for the 1989, 1990 and 1991 taxation years.
+[53] The Appellant's professional training as a chartered accountant would have normally made him more suspicious, more vigilant and especially more meticulous in the handling of his personal tax affairs.
+[54] Not only did the Appellant fail to use reasonable care, he was also rather naïve. He was an accountant. As such, he was an accounting professional, which includes the obligation to know and understand the fundamental principles of taxation.
+[55] Were the penalties imposed on the Appellant justified? Subsection 163(2) of the Act reads as follows:
+(2) False statements or omissions. Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+(a) the amount, if any, by which
+(i) the amount, if any, by which
+(A) the tax for the year that would be payable by the person under this Act
+exceeds
+(B) the amounts that would be deemed by subsections 120(2) and (2.2) to have been paid on account of the person's tax for the year
+if the person's taxable income for the year were computed by adding to the taxable income reported by the person in the person's return for the year that portion of the person's understatement of income for the year that is reasonably attributable to the false statement or omission and if the person's tax payable for the year were computed by subtracting from the deductions from the tax otherwise payable by the person for the year such portion of any such deduction as may reasonably be attributable to the false statement or omission
+exceeds
+(ii) the amount, if any, by which
+(A) the tax for the year that would have been payable by the person under this Act
+exceeds
+(B) the amounts that would be deemed by subsections 120(2) and (2.2) to have been paid on account of the person's tax for the year
+had the person's tax payable for the year been assessed on the basis of the information provided in the person's return for the year,
+...
+[56] To decide whether a taxpayer was grossly negligent, Strayer J. stated in Venne v. Canada, [1984] F.C.J. No. 314 (Q.L.), 84 D.T.C. 6247 (FCTD):
+"Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[57] Can it be argued that the Appellant's behaviour was equivalent to wilful blindness? I do not believe so; the practice of accounting is also an exercise that often makes it possible to draw a considerable tax advantage from the characterization of certain transactions. Some examples are the numerous planning strategies that often have a considerable impact on the tax burden.
+[58] In the case at bar, the Appellant did not ask himself any questions; he paid for the stamps that he donated within a few hours in return for a receipt the amount of which was considerably higher than the amount spent, trusting that the amount on the receipt corresponded to the FMV since it was supported by the Scott catalogue.
+[59] He did not make up the FMV. The FMV was established without any intervention on his part. It was not a fake donation. The property was identifiable. The fact that he benefited considerably from the donation does not automatically establish bad faith or wrongful conduct. To acquire the stamps that he donated to the Fondation Amérindienne Tecumseh, it seems on the balance of probabilities that the Appellant spent the following amounts: $503.96 for the 1989 donation, $1,312.54 for 1990 and $1,751.90 for 1991.
+[60] According to the expert, Mr. Valentin, the stamps given in the three donations had a FMV of $280 for the 1989 donation, $433 for the 1990 donation and $671 for the 1991 donation.
+[61] The Appellant could not benefit from a receipt on which the amount indicated was higher than the FMV regardless of the amount he spent, which in the case at bar did not at all correspond to the FMV. Consequently, the Appellant could not claim to be entitled to more than the FMV established by Mr. Valentin based on the details indicated above.
+[62] Lack of care, naïveté or seeking a tax benefit is not sufficient to establish the validity of the penalties set out in subsection 163(2).
+[63] The preparation of the file and the work necessary for its presentation to the Court undoubtedly accounted for most of the time devoted to this file; the penalty component did not require a special workload considering that the penalties primarily resulted from the interpretation of the facts primarily used for the assessment, I therefore grant costs to the Respondent.
+[64] For all those reasons, the appeal is allowed and the assessments are referred back to the Minister for reconsideration and reassessment given the fact that the Appellant donated the sets of stamps for which the FMV at the time of the donation was $280 for the 1989 taxation year, $433 for the 1990 taxation year and $671 for the 1991 taxation year; as to the penalties, they are set aside, with costs in favour of the Respondent.
+Signed at Ottawa, Canada, this 10th day of November 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of February 2005
+Aveta Graham, Translator
+CITATION:
+2004TCC661
+COURT FILE NO.:
+94-2544(IT)G
+STYLE OF CAUSE:
+Gilles Robichaud v. Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+September 16, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+November 10, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Chantal Jacquier
+COUNSEL OF RECORD:
+For the Appellant:
+City:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

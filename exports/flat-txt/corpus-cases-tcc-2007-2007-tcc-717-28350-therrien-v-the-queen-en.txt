@@ -1,0 +1,171 @@
+Title: Therrien v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28350/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-717-28350-therrien-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-11-19
+
+# Therrien v. The Queen
+
+- Citation: 2007 TCC 717
+- Decision date: 2007-11-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1935, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Therrien v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-19
+Neutral citation
+2007 TCC 717
+File numbers
+2007-2045(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2045(IT)I
+BETWEEN:
+MANON THERRIEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 19, 2007, at Montréal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Anne-Marie Boutin
+____________________________________________________________________
+JUDGMENT
+The appeal from the redetermination of the Canada Child Tax Benefit made pursuant to the Income Tax Act for the 2005 base year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 19th day of December 2007.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 30th day of March 2009.
+Bella Lewkowicz, Translator
+Citation: 2007TCC717
+Date: 20071219
+Docket: 2007-2045(IT)I
+BETWEEN:
+MANON THERRIEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal from a redetermination by the Minister of National Revenue (the Minister), that the Appellant is not eligible to receive the Canada Child Tax Benefit for Maximilian Baer.
+[2] In making the redetermination for the 2005 base year, the Minister relied on the following facts outlined in paragraph 5 of the Reply to the Notice of Appeal (the Reply):
+[TRANSLATION]
+a) Maximilian Baer is a German citizen born September 18, 1990;
+b) Maximilian Baer came to live with the Appellant for the 2006-2007 school year under a cultural exchange program;
+c) The Appellant never had legal custody of Maximilian Baer.
+[3] The Appellant admitted to all three allegations.
+[4] The Appellant explained that her family was a host family for exchange students through an association called ASSE: American Scandinavian Student Exchange. In Quebec, this association operates under the umbrella of Programmes internationaux d’échange étudiants.
+[5] The Quebec ASSE coordinator is Pierre Constantin. The Sherbrooke region representative is Grace Benoît.
+[6] At the hearing, the Appellant repeated what she outlined in her Notice of Appeal. In this regard, I cite the relevant remarks from this notice:
+[TRANSLATION]
+... We took in a 15-year-old boy from August 9, 2006, until July 4, 2007, which means that he lived under our roof for eleven months. He had to go to school throughout the school year and pass his secondary IV (it was a cultural exchange). This means that we had to enrol him in school, ensure he had good friends, register him for extracurricular activities, take him places, check his homework, his health, ensure he went to his classes, teach him about our culture, our French language, feed him, help him discover our country, provinces and cities by travelling, know the laws, the environment. We are very aware that we did not have legal custody of the child, but we had to take on the responsibilities of parents here in Quebec. This means we had the same amount of responsibility as far as ours. We were his only family in Quebec. We had to meet 100% of his needs just as a parent must for a child. We ask you to review our application. We have already had other young people from other countries and the government has always supported us.
+...
+[7] She contends that until this refusal to grant the Child Tax Benefit, the host families have always claimed and received it.
+[8] The Appellant filed several documents in a bundle, one of which was from ASSE Canada. It was addressed to the host family on July 27, 2006, and is signed by Monique Constantin.
+[9] There are two paragraphs. The second one reads as follows:
+[TRANSLATION]
+...
+Here are some of the documents you will require:
+...
+For your Canada Child Tax Benefit:
+– The RC‑66 form to be completed
+– Copy of the Host Family Placement Form
+– Passport copy
+– And you must make a photocopy of the visa in the student’s passport
+...
+[10] The RC-66 form is the application for the Canada Child Tax Benefit.
+[11] A document filed by the Appellant is the fourth page of an ASSE text. This page contains two elements: the first is the “ASSE Student Program Rules and Consent Agreement”, and the second is the “ASSE/Host Family Agreement”. The agreement was signed by the Appellant and her spouse on January 30, 2006, and by the ASSE representative, Ms. Benoît, on February 1, 2006.
+[12] The agreement reads as follows:
+ASSE/HOST FAMILY AGREEMENT: We agree to host an ASSE exchange student, who is unrelated to our family, and agree to attend the host family orientation meeting prior to the student’s arrival. We have read and fully understand the above ASSE Student Rules and agree to adhere to them. We agree to cooperate with the ASSE organization and its representatives. We understand that ASSE may not be able to accept all host family applicants and that ASSE has the right to accept and reject a host family applicant at any time. We also acknowledge that ASSE has the final authority in all decisions concerning discipline, student placements, length of home stay or time in area, and students’ arrival and departure dates. We realize that failure to cooperate with ASSE can result in a student being removed from a family and relocated or returned to his/her home country. In the event that we are unable or unwilling to continue hosting our ASSE exchange student due to unforeseen circumstances, we shall provide ASSE with adequate notice allowing the program a reasonable period of time to secure a suitable alternative host family.
+[13] During cross-examination, the Appellant admitted that she did not have to pay for anything for Maximilian or cover any school fees or medical insurance. Maximilian has had own pocket money. He had his own medical insurance. He regularly communicated with his parents using a computer and the telephone. The Appellant said she had to pay $20 for a vaccine.
+[14] Counsel for the Respondent filed an excerpt from the ASSE website as Exhibit I-2. A paragraph of this excerpt is called: “A Priceless Investment”. This text says that apart from room and board, there are no other financial obligations. The paragraph reads as follows:
+A Priceless Investment
+If you are concerned about the cost of hosting an ASSE exchange student, rest assured; your financial obligation is minimal. You merely furnish meals and a room. In fact, your student may even share a room with a child of the same sex who is close in age. Although not a motive to host, in some countries you may deduct a small part of your taxable income by hosting an exchange student (check with your tax adviser). ASSE students pay for their own airfare and provide their own medical and liability insurance. Spending money is the responsibility of the student and his or her natural parents. Your most important contribution is far from monetary. It comes from your heart—a willingness to welcome this student to your country and into your home by making him or her feel like a true member of the family.
+[15] Exhibit I-3 is called “Declaration of Parental Authority”. It is a document from Immigration et Communautés culturelles du Québec. The parents’ signatures are on the form, as is their agreement “to delegate custody, supervision and education” of their son to Pierre Constantin. There are two statements regarding this delegation that parents can select. They are a follows:
+This delegation entails ensuring custody, supervision and education of this minor under conditions that are in the child's best interest and that respect the child's rights.
+This delegation entails covering all costs related to the minor child's stay in Quebec and ensuring custody, supervision and education under conditions that are in the child's best interest and that respect the child's rights.
+[16] The first statement was selected.
+[17] There is another document accompanying the one regarding parental authority called: “Declaration of guardianship for a minor child”. This declaration was signed by Mr. Constantin, who undertook to “...commit to ensuring the custody, supervision, and education of the minor child identified above, under conditions that are in the child’s best interests and that respect the child’s rights”.
+[18] Exhibit I-4 is a certificate of financial responsibility signed by Maximilian’s German parents. They undertake to provide their child with $1,500 during his stay in Canada.
+[19] Oriana Leon, officer with the Ministère de l’immigration du Québec, testified at the request of counsel for the Respondent. She talked about a delegation of moral authority. When foreign parents send their underage child to study in Quebec, the parents must give a delegation of moral authority to an individual in Canada who is a permanent resident or Canadian citizen. With respect to Exhibit I-3, “Declaration of parental authority”, she said it was a delegation of moral parental authority signed by both parents, given to Pierre Constantin, director of the ASSE exchange program. If there is a problem with the minor, this person will act as the link between the Department and the biological family. The Department does not know the host families.
+Analysis and conclusion
+[20] For Canada Child Tax Benefit purposes, the relevant portions of the definitions of “eligible individual” and “qualified dependant”, read as follows in section 122.6 of the Income Tax Act (the Act):
+“eligible individual” in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+...
+“qualified dependant” at any time means a person who at that time
+(a) has not attained the age of 18 years,
+...
+[21] These definitions refer only to the mother or to the father of the qualified dependant.
+[22] However, subsection 252(1) of the Act expands on the meaning of the term “child” and subsection 252(2) of the Act likewise expands on the meaning of the terms “mother” and “father”.
+[23] Subsection 252(1) of the Act means that the individual who is wholly dependent on a taxpayer for support and of whom the taxpayer has, in law or in fact, the custody and control, is considered to be the taxpayer’s child.
+[24] Subsection 252(2) of the Act means that the taxpayer is then considered to be the mother or the father of this child.
+[25] I cite the relevant parts of these definitions:
+252(2) Relationships
+In this Act, words referring to
+a) a parent of a taxpayer include a person:
+(i) whose child the taxpayer is,
+...
+252(1) Extended meaning of “child”
+In this Act, words referring to a child of a taxpayer include
+(a) a person of whom the taxpayer is the legal parent;
+(b) a person who is wholly dependent on the taxpayer for support and of whom the taxpayer has, or immediately before the person attained the age of 19 years had, in law or in fact, the custody and control;
+(c) a child of the taxpayer’s spouse or common-law partner; and
+(d) [repealed]
+(e) a spouse or common-law partner of a child of the taxpayer.
+[26] It is admitted that neither the Appellant nor her spouse are Maximilian’s mother or father. In order for them to be considered parents, Maximilian would have to be wholly dependent on them and they would have to have had custody and, in law or in fact, control of him.
+[27] Let us then address the first requirement: that the child is wholly dependent on the taxpayer. The evidence showed this was not at all the case. The Appellant provided room and board as part of the host family’s responsibilities. This is generous on her part and no one is contesting this. But she did not pay for the clothing, pocket money or medical insurance. Maximilian was certainly not wholly dependent on the Appellant.
+[28] The second requirement is to have, in law or in fact, custody and control of the child. These words have to do with parental authority.
+[29] According to the document signed by the German parents called “Declaration of parental authority”, the German parents declared that they held parental authority but they allowed some exercise of this of parental authority by signing the document.
+[30] Article 601 of the Civil Code of Québec, provides that the person having parental authority may delegate the custody, supervision or education of the child. Article 1460 of the Code sets out the obligations of a person who, without having parental authority, is entrusted, by delegation or otherwise, with the custody, supervision or education of a minor.
+[31] I do not intend to thoroughly analyze the case law on article 601 of the Civil Code of Québec, seeing as the Appellant does not meet the first requirement of paragraph 252(1)(b) of the Act. However, it is clear that the delegation carried out pursuant to article 601 of the Civil Code of Québec is not a transfer of parental authority, although, in exceptional cases, there may be an extended delegation that could lead to a deprivation of parental authority. When it is only temporary, such as in the case of a child attending boarding school for a school year or another school authority, it has no effect other than the power or duty on the part of the delegated party to exercise a certain degree of parental authority on the child left in its care.
+[32] The delegation in this case is not a transfer of parental authority. The German parents never relinquished their parental authority. The delegation permitted the exercise of certain aspects of parental authority by the delegated party in place of parents who are far away. Moreover, this delegation was made to the provincial coordinator and not to the host family.
+[33] I have analyzed this delegation of parental authority for the purposes of examining the law in this matter. But I must point out that the Appellant admitted from the start that she did not have legal custody of the child. She was right.
+[34] As the Appellant is not the child’s mother and the child was not wholly dependent on her and she did not have legal custody in law or in fact, she did not possess the status of eligible individual for the purposes of the Canada Child Tax Benefit.
+[35] The appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 19th day of December 2007.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 30th day of March 2009.
+Bella Lewkowicz, Translator
+CITATION: 2007TCC717
+COURT FILE NO.: 2007-2045(IT)I
+STYLE OF CAUSE: MANON THERRIEN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: November 19, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: December 19, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Anne-Marie Boutin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

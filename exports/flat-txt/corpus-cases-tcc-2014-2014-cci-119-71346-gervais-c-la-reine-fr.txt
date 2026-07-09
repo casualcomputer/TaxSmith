@@ -1,0 +1,496 @@
+Title: Gervais c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71346/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-119-71346-gervais-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-04-23
+
+# Gervais c. La Reine
+
+- Citation: 2014 CCI 119
+- Decision date: 2014-04-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5291, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gervais c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-04-23
+Référence neutre
+2014 CCI 119
+Numéro de dossier
+2010-70(IT)G, 2010-71(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2014 CCI 119
+Date : 20140423
+Dossiers : 2010-71(IT)G
+2010-70(IT)G
+ENTRE :
+GUY GERVAIS,
+LYSANNE GENDRON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] Les appelants, Guy Gervais et Lysanne Gendron, appellent de nouvelles cotisations pour l’année d’imposition 2002[1].
+[2] Ces appels ont été entendus sur preuve commune. Il n’y a pas vraiment de désaccord sur les faits[2].
+Un survol simplifié du débat
+[3] Il n’y a aucun débat quant aux montants en jeu et, pour simplifier ce survol, je vais arrondir les chiffres.
+[4] Au début de 2002, M. Gervais est actionnaire d’une entreprise familiale. Mme Gendron, son épouse, n’est pas actionnaire.
+[5] Au cours de l’été 2002, une compagnie non liée, BW Technologies Ltd., fait une offre d’achat de l’entreprise et les actionnaires, M. Gervais et son frère Mario Gervais, acceptent l’offre d’achat avant le 26 septembre 2002.
+[6] Le 26 septembre 2002, M. Gervais vend un million de ses actions de l’entreprise familiale à Mme Gendron pour 1 000 000 $, la juste valeur marchande des actions, et il fait le choix de réaliser son gain en disposant de ses actions[3] avec la conséquence que Mme Gendron a un prix de base rajusté de 1 000 000 $.
+[7] Mme Gendron était au courant de l’acceptation de l’offre d’achat avant de devenir actionnaire et, au moment où elle a acheté les actions, son intention était de revendre les actions quelques jours plus tard.
+[8] Quatre jours plus tard, le 30 septembre 2002, M. Gervais donne à titre gratuit un million de ses actions[4] à Mme Gendron, et il y a un roulement en vertu du paragraphe 73(1) de la Loi de l’impôt sur le revenu avec la conséquence qu’il ne réalise pas de gain et que Mme Gendron est réputée avoir acquis les actions pour le prix de base rajusté de M. Gervais, un montant minime. Aux fins de ce survol, disons que ce montant est de 0 $.
+[9] Sept jours après la donation, le 7 octobre 2002, Mme Gendron vend toutes ses actions de l’entreprise familiale à BW Technologies pour un montant de 2 000 000 $[5].
+[10] Dans sa déclaration de revenus pour l’année d’imposition 2002, Mme Gendron inclut un gain en capital relatif à la vente des actions. Pour faire le calcul de son gain, elle applique le mécanisme du paragraphe 47(1) de la Loi et, en conséquence, elle considère que le coût[6] de toutes ses actions[7] de l’entreprise familiale est de 1 000 000 $. Elle fait le calcul suivant dans sa déclaration :
+Produit de disposition
+2 000 000 $
+Moins :
+Prix de base rajusté
+(1 000 000 $)
+Gain en capital
+1 000 000 $
+Moins :
+Portion du gain attribuée à M. Gervais
+(500 000 $)
+Gain en capital de Mme Gendron
+500 000 $
+Gain en capital imposable
+250 000 $
+Moins :
+Déduction pour gain en capital
+(250 000 $)
+Résultat final
+0 $
+[11] En conséquence, Mme Gendron n’a payé aucun impôt sur sa disposition des actions de la compagnie et la moitié du gain est attribuée à M. Gervais.
+[12] Selon le ministre du Revenu national (ministre), ce résultat n’est pas conforme à la Loi et :
+a) il faut imposer le gain qu’a fait Mme Gendron en vendant ses actions comme un revenu, et non un gain en capital
+ou, alternativement,
+b) il faut enlever le gain en capital du revenu de Mme Gendron et l’ajouter au revenu de M. Gervais comme gain en capital en vertu de la règle générale anti-évitement.
+[13] Selon les appelants, les deux appels devraient être accueillis.
+Les faits
+[14] Vulcain Alarme inc., une entreprise familiale de taille moyenne, a été vendue en 2002.
+[15] En mai ou en juin 2002, quand BW Technologies a communiqué une première offre d’achat de l’entreprise, M. Gervais et son frère Mario étaient actionnaires; Mme Gendron n’était pas actionnaire.
+[16] Après certaines transactions décrites ci-dessous, le 7 octobre 2002, BW Technologies a acheté l’entreprise, entre autres, de M. Gervais et de Mme Gendron.
+[17] Dans sa déclaration de revenus pour l’année d’imposition 2002, Mme Gendron a déclaré un gain en capital relatif à la vente de ses actions de l’entreprise. Elle s’est prévalue de l’exonération du gain en capital[8].
+[18] Le ministre a établi une nouvelle cotisation à l’égard de Mme Gendron sur la base que son gain en vendant ses actions était un revenu et non un gain en capital.
+[19] Le ministre a établi une nouvelle cotisation à l’égard de M. Gervais en appliquant la règle générale anti-évitement pour inclure le gain réalisé par Mme Gendron dans le revenu de M. Gervais en tant que gain en capital.
+[20] Le ministre concède qu’il ne peut avoir raison dans les deux appels[9].
+[21] La société Vulcain est une compagnie familiale démarrée par le père de M. Gervais, Clément Gervais. Vulcain est, entre autres, un fabricant de moniteurs de gaz toxiques. L’application la plus fréquente est la mesure de monoxyde de carbone dans les stationnements intérieurs.
+[22] Au début de l’entreprise, son père et sa mère travaillaient ensemble et les bureaux étaient dans le sous-sol de la maison familiale.
+[23] Dès l’âge de 14 ans, M. Gervais a travaillé à l’entreprise familiale en été.
+[24] M. Gervais est ingénieur de formation. Après ses études à l'école polytechnique, il a commencé à travailler dans l’entreprise familiale[10].
+[25] En 1988, au moment où il a commencé, les locaux de la compagnie étaient passés du sous-sol de la maison familiale au garage; il y avait quatre employés y compris son père et lui-même[11].
+[26] À son arrivée, le chiffre d’affaires était aux alentours de 750 000 $ à 800 000 $, en décroissance de 20 % comparativement à la meilleure année, deux ans auparavant.
+[27] Par la suite, l’entreprise a connu une croissance importante. L’entreprise a quitté le garage pour s’installer dans une usine de 3 600 pieds carrés; en 2000 il y avait une centaine d’employés.
+Ententes partielles sur les faits
+[28] Les parties ont déposé des ententes partielles sur les faits; ces faits sont reproduits ci‑dessous[12]. Pour rendre l’exposé des faits plus logique, j’ai également ajouté certains faits provenant de la preuve à part les ententes partielles sur les faits; j’ai indiqué les ajouts dans les notes de bas de page.
+Les parties admettent la véracité des faits énumérés ci-dessous[13]
+[29] Vulcain a été constituée en société le 29 février 1968 sous le régime de la Partie IA de la Loi sur les compagnies du Québec par Clément Gervais.
+[30] Vulcain exploitait une entreprise dans le domaine de la fabrication de détecteurs de gaz toxiques et d’explosifs.
+[31] Le ou vers le 16 février 1983, Guy Gervais acquiert une action ordinaire de Vulcain pour la somme de 10 $; dès lors, le capital-actions de la société est détenu par Clément Gervais et ses trois fils, Guy, Mario et Robert.
+[32] Guy Gervais et Lysanne Gendron se sont mariés en 1987.
+[33] En 1988, Guy Gervais est devenu administrateur de Vulcain.
+[34] De 1968 jusqu’à la vente en bloc des actions de Vulcain à BW Technologies en 2002, le capital-actions de Vulcain a toujours été détenu par Clément Gervais et/ou ses fils.
+[35] Le 26 janvier 2001, une convention unanime des actionnaires de Vulcain a été signée par Clément Gervais, Mario Gervais et Guy Gervais.
+[36] Au cours de l’année 2002, Guy Gervais était l’unique administrateur de Vulcain.
+[37] Au cours de l’année 2002, BW Technologies a présenté une offre d’achat dans le but d’acquérir Vulcain.
+[38] En mai ou en juin 2002 les appelants apprennent par une lettre d’un intermédiaire qu’une firme est désireuse d’acheter Vulcain. Ils ont appris peu après qu’il s’agissait de BW Technologies de Calgary[14].
+[39] Quelque temps après, le président de BW Technologies est venu visiter la compagnie[15].
+[40] Le 12 juin 2002, une entente de confidentialité a été signée entre BW Technologies et Vulcain.
+[41] Quelques semaines après la visite du président de BW Technologies les appelants ont reçu une offre d’achat pour un montant d’environ 7 500 000 $. Cette offre donnait une période de deux semaines pour y répondre et est arrivée à peu près en même temps que les appelants s’apprêtaient à partir en voyage au Maine[16].
+[42] Il y a eu une offre d’achat de caractère non obligatoire signée le 31 août 2002 qui a été modifiée le 26 septembre 2002[17].
+[43] L’offre d’achat de la totalité du capital-actions fut acceptée par les actionnaires de Vulcain, Guy Gervais et Mario Gervais, avant le 22 septembre 2002[18].
+[44] Lysanne Gendron connaissait l’existence de l’offre d’achat et de l’acceptation de celle-ci par les actionnaires avant qu’elle devienne actionnaire[19].
+Modifications apportées au capital-actions[20]
+[45] Le 26 août 2002, les deux seuls actionnaires de Vulcain étaient Guy Gervais et Mario Gervais[21], et ce, de la manière suivante :
+a) Guy Gervais détenait 790 000 actions ordinaires de catégorie « A » et 5 120 actions privilégiées de catégorie « I », et
+b) Mario Gervais, le frère de Guy Gervais, détenait 200 000 actions ordinaires de catégorie « A » et 5 120 actions privilégiées de catégorie « I ».
+[46] Le ou vers le 26 septembre 2002, Guy Gervais convertissait ses 790 000 actions ordinaires de catégorie « A » en 2 087 778 actions privilégiées de catégorie « E » et 4 168 192 actions ordinaires de catégorie « B ».
+[47] Aux fins de l’application de la Loi, Guy Gervais a fait le choix d’utiliser le mécanisme du roulement fiscal prévu à l’article 85 de la Loi.
+[48] Le ou vers le 26 septembre 2002, Mario Gervais a également converti ses 200 000 actions ordinaires de catégorie « A » en 1 583 790 actions privilégiées de catégorie « E ».
+[49] Les actions privilégiées de catégorie « E » comportaient, entre autres, les droits, privilèges et restrictions suivants : non votantes, non participantes, dividende mensuel, préférentiel et non cumulatif de 1 % par mois, calculé sur la « valeur de rachat » en priorité sur les actions de catégorie « A », « B », « F » et « G » mais subséquemment aux actions de catégorie « D », « H », « I », « J », rachetables à la demande du détenteur et de gré à gré.
+[50] Lors de la conversion, chacune des actions de catégorie « E » et « B » avait une juste valeur marchande de 1 $ par action.
+[51] Le 26 septembre 2002, Vulcain a autorisé le transfert des 4 168 192 actions ordinaires de catégorie « B » détenues par Guy Gervais à 9120-9957 Québec inc.
+[52] Le 26 septembre 2002, Guy Gervais transférait ses 4 168 192 actions ordinaires de catégorie « B » à 9120-9957 Québec, une société dont il détenait la totalité du capital-actions.
+[53] Aux fins de l’application de la Loi, Guy Gervais a fait le choix d’utiliser le mécanisme du roulement fiscal prévu à l’article 85 de la Loi en ce qui a trait à ce transfert.
+[54] Avant le 26 septembre 2002, Lysanne Gendron n’était pas actionnaire de Vulcain[22].
+[55] Tel qu’il appert au document intitulé « convention d’achat d’actions » en date du 26 septembre 2002, Guy Gervais vendait 1 043 889 actions privilégiées de catégorie « E » à Lysanne Gendron pour une somme de 1 043 889 $.
+[56] La convention prévoyait que Lysanne Gendron ne pouvait « céder à quiconque ses droits et obligations découlant des présentes, sans avoir préalablement obtenu le consentement de Guy Gervais à cet effet »[23] et que, sans la permission de Guy Gervais, Lysanne Gendron ne pouvait vendre ses actions à n’importe qui d’autre que BW Technologies[24].
+[57] Tel qu’il appert à la convention d’achat d’actions, Lysanne Gendron devait acquitter le prix d’achat en remettant à Guy Gervais un billet à ordre payable à l’intérieur d’un délai de cinq ans et portant intérêts au taux annuel de 4,5 %.
+[58] La convention prévoit à l’article 2.2 cinq paiements égaux de 208 777 $ le 31 décembre 2002, 2003, 2004, 2005 et 2006 plus intérêts (article 2.3). Lysanne Gendron a fait les paiements[25].
+[59] Aux fins de l’application de la Loi, Guy Gervais a fait le choix, dans sa déclaration de revenus pour l’année 2002, de ne pas se prévaloir des dispositions prévues au paragraphe 73(1) de la Loi. Par conséquent (aux fins de l’application de la Loi[26]) :
+a) le prix de base rajusté desdites actions étant de 43 889 $, Guy Gervais réalisait un gain en capital de 1 000 000 $, et
+b) le prix de base rajusté des actions acquises par Lysanne Gendron est de 1 043 889 $.
+[60] Tel qu’il appert d’un acte notarié en date du 30 septembre 2002, Guy Gervais donnait à titre gratuit 1 043 889 actions privilégiées de catégorie « E » à Lysanne Gendron.
+[61] Aux fins de l’application de la Loi, Guy Gervais n’a pas effectué le choix lui permettant de soustraire cette opération du 30 septembre 2002 à l’application du paragraphe 73(1) de la Loi. Par conséquent (aux fins de l’application de la Loi[27]) :
+a) Guy Gervais est réputé avoir disposé des actions pour un montant égal au prix de base rajusté des actions, soit 43 889 $, et
+b) Lysanne Gendron est réputée avoir fait l’acquisition des actions pour un montant égal au prix de base rajusté des actions, soit 43 889 $.
+[62] Du 26 septembre au 7 octobre 2002, Lysanne Gendron n’avait pas l’intention de conserver les actions de Vulcain à titre de placement[28].
+[63] Du 26 septembre au 7 octobre 2002, Lysanne Gendron n’avait pas l’intention de détenir les actions de Vulcain à long terme et elle n’envisageait pas d’en tirer un revenu de bien[29].
+[64] Lysanne Gendron savait qu’elle ne recevrait aucun dividende relativement aux actions de Vulcain pendant la période du 26 septembre au 7 octobre 2002[30].
+[65] Le 26 septembre 2002, l’intention de Lysanne Gendron était de vendre les actions de Vulcain qu’elle détenait, et ce, le ou vers le 7 octobre 2002, au moment de la signature du contrat de vente de la totalité du capital-actions de Vulcain à BW Technologies[31].
+[66] Au moment où Lysanne Gendron a acheté les actions, elle n’avait pas les moyens financiers de payer pour les actions, mais elle pouvait le faire parce qu’elle allait revendre les actions à BW Technologies[32].
+Vente des actions de Vulcain à BW Technologies[33]
+[67] Le ou vers le 7 octobre 2002, BW Technologies a acquis toutes les actions du capital-actions de Vulcain pour la somme totale de 7 850 000 $.
+[68] Tel qu’il appert au contrat de vente, le prix se répartit comme suit :
+a) 2 087 778 $ pour 2 087 778 actions privilégiées de catégorie « E » détenues par Lysanne Gendron,
+b) 5 120 $ pour 5 120 actions privilégiées de catégorie « I » détenues par Guy Gervais,
+c) 5 120 $ pour 5 120 actions privilégiées de catégorie « I » détenues par Mario Gervais,
+d) 4 168 192 $ pour 4 168 192 actions ordinaires de catégorie « B » détenues par 9120-9957 Québec, et
+e) 1 583 790 $ pour 1 583 790 actions ordinaires de catégorie « B » détenues par Mario Gervais[34].
+Déclarations de revenus de Guy Gervais et de Lysanne Gendron[35]
+[69] Dans sa déclaration de revenus pour l’année d’imposition 2002, Lysanne Gendron a établi le coût moyen des 2 087 778 actions privilégiées de catégorie « E » à 1 087 778 $ (1 043 889 $ + 43 889 $) en application du mécanisme prévu au paragraphe 47(1) de la Loi et a déclaré un gain en capital calculé de la façon suivante :
+Produit de disposition
+2 087 778 $
+Prix de base rajusté
+(1 087 778 $)
+Gain en capital
+1 000 000 $
+Dépenses engagées pour la disposition
+(13 809 $)
+Gain en capital
+989 191 $
+Gain en capital attribué à Guy Gervais
+(486 191 $)
+Gain en capital après attribution
+500 000 $
+Gain en capital imposable
+250 000 $
+Déduction pour gain en capital
+(250 000 $)
+Net
+0
+[70] Dans sa déclaration de revenus pour l’année d’imposition 2002, Guy Gervais a déclaré un gain en capital calculé de la façon suivante :
+1re disposition/Lysanne Gendron/
+26 septembre 2002
+Produit de disposition
+1 043 889 $
+Prix de base rajusté
+(43 889 $)
+Gain en capital
+1 000 000 $
+2e disposition/donation Lysanne Gendron/
+30 septembre 2002
+Produit de disposition
+43 889 $
+Prix de base rajusté
+(43 889 $)
+Gain en capital
+0
+Vente à BW Technologies
+Produit de disposition
+5 120 $
+Prix de base rajusté
+(5 120 $)
+Gain en capital
+0
+Gain en capital total
+1 000 000 $
+Dépenses engagées pour la disposition
+(13 809 $)
+Gain en capital
+989 191 $
+Gain en capital attribué à Guy Gervais
+486 191 $
+Gain en capital après attribution
+1 472 382 $
+Provision demandée
+(788 953 $)
+Gain en capital
+683 429 $
+Gain en capital imposable
+341 714 $
+Déduction pour gain en capital
+(158 720 $)
+[71] En 2002, la somme maximale que pouvait réclamer Guy Gervais à titre de déduction pour gain en capital était au montant de 158 720 $, soit le solde disponible au titre de cette déduction.
+Projet comportant un risque ou une affaire de caractère commercial[36]
+[72] Le 26 septembre 2002, Lysanne Gendron :
+a) connaissait les modalités de la vente de la totalité du capital-actions de Vulcain à BW Technologies,
+b) connaissait le prix de vente qui avait été négocié entre BW Technologies et Vulcain et/ou les actionnaires de Vulcain,
+c) connaissait l’échéance fixée pour la vente des actions de Vulcain à BW Technologies, et
+d) savait qu’un profit important serait réalisé relativement à la vente des actions de Vulcain et en particulier des actions privilégiées.
+[73] Le paragraphe précédent est le dernier provenant des ententes partielles sur les faits.
+Autres faits
+[74] Mme Gendron a travaillé comme employée salariée chez Vulcain à partir de 1992, mais elle avait déjà une certaine implication avant cela.
+[75] Mme Gendron était très active dans l’entreprise. Au début des années 2000, elle était chargée de toute l’administration. Entre autres, elle s’occupait des ressources humaines, du bureau de New York et de celui de Toronto. Elle parlait constamment avec M. Gervais au sujet des opérations et de toutes les décisions importantes que l’entreprise devait prendre.
+[76] Au moment où l’entreprise a acheté les actions du père de M. Gervais, il a fallu emprunter de l’argent et donner des garanties. Mme Gendron a accepté qu’il y ait, entre autres, une hypothèque sur la maison familiale en garantie.
+[77] M. Gervais a témoigné qu’à partir du moment où ils ont pris la décision de vendre, ils ont décidé d’obtenir des conseils de la firme d’avocats McCarthy Tétrault.
+[78] Il a demandé à leurs conseillers juridiques de faire trois choses[37] :
+a) de les conseiller au cours des négociations pour s’assurer que leurs intérêts soient protégés,
+b) de les conseiller sur les aspects fiscaux et
+c) de les conseiller relativement à la volonté qu’avait M. Gervais de reconnaître la contribution de Mme Gendron afin qu’elle reçoive 1 000 000 $.
+[79] McCarthy Tétrault a proposé la structure des transactions et les appelants l’ont acceptée[38].
+[80] M. Gervais et Mme Gendron étaient tous les deux présents aux réunions avec McCarthy Tétrault[39].
+Analyse
+Les possibilités
+[81] Avant de faire l’analyse des différents arguments, il est utile de dresser un aperçu des conséquences des différentes réponses possibles aux questions soulevées par les appels en cause et d’établir la relation entre les réponses possibles et les conséquences des réponses d’un appel sur l’autre.
+[82] L’intimée concède que si elle a raison quant à l’une des cotisations, l’autre appel doit être accueilli[40].
+[83] Dans le cas de Mme Gendron, les questions suivantes se posent :
+a) Le gain que Mme Gendron a réalisé a-t-il la qualité d’un revenu ou d’un gain en capital?
+b) Le gain que Mme Gendron a réalisé sur la vente des actions qu’elle avait achetées a‑t-il nécessairement le même caractère que le gain réalisé sur les actions qu’elle avait reçues comme don?
+c) Si le caractère du gain réalisé sur les actions achetées est différent de celui réalisé sur les actions reçues comme don, l’article 47 de la Loi peut-il s’appliquer et, si l’article 47 ne peut s’appliquer, quelle en est la conséquence?
+d) Selon la réponse, quelle est la conséquence pour M. Gervais?
+[84] La première question dans l’appel de M. Gervais est de savoir si la règle générale anti-évitement s’applique et, deuxièmement, si tel est le cas, quelle en est la conséquence?
+[85] Je vais examiner le cas de Mme Gendron en premier lieu, car si tout le gain qu’elle réalise sur ses actions est attribuable à M. Gervais, M. Gervais ne peut pas avoir reçu un « avantage fiscal » au sens de l’article 245 de la Loi et la règle générale anti‑évitement ne peut s’appliquer.
+Lysanne Gendron — revenu ou gain en capital?
+[86] La question de la qualification du gain et la question de savoir s’il faut qualifier de la même façon la vente des actions que Mme Gendron a achetées et la vente de celles qu’elle a reçues comme don sont très liées, et je vais examiner ces questions en même temps.
+[87] Les faits essentiels peuvent être résumés ainsi :
+a) Mme Gendron a participé activement à l’administration de Vulcain. Elle était au courant des négociations avec BW Technologies relatives à la vente de Vulcain à BW Technologies; elle en a beaucoup parlé avec M. Gervais.
+b) Mme Gendron a acheté la moitié de ses actions de Vulcain et elle a reçu l’autre moitié comme don.
+c) Mme Gendron devait payer pour les actions qu’elle a achetées en cinq versements étalés sur une période de cinq ans.
+d) Mme Gendron avait l’intention de revendre ses actions à BW Technologies avant qu’elle les achète et avant qu’elle les ait reçues comme don.
+e) Au moment où elle a acheté ses actions de Vulcain et, quelques jours plus tard, au moment où elle a reçu un don d’actions de Vulcain, elle sait que BW Technologies va acheter toutes ses actions dans quelques jours.
+f) Les actions achetées et les actions reçues comme don ont été vendues à BW Technologies moins de deux semaines après leur acquisition.
+[88] Ces circonstances sont assez différentes des circonstances classiques où il faut distinguer entre la réalisation d’une immobilisation ou d’un investissement et le gain résultant d’une affaire de caractère commercial[41]. Le rôle de la Cour est d’appliquer les principes à ces circonstances.
+[89] Il y a une abondante jurisprudence sur la question de savoir si une vente produit un gain en capital provenant de la réalisation d’un investissement ou un revenu provenant d’une affaire de caractère commercial.
+[90] Les auteurs Hogg, Magee et Li résument les grands principes de la question[42].
+[91] Des exemples typiques de biens dont la disposition donne lieu à un gain en capital sont :
+a) un placement, par exemple, des actions ou des obligations détenues à long terme pour en tirer un revenu,
+b) dans le cas d’un particulier, un bien détenu pour son usage personnel, comme un tableau ou un chalet,
+c) une immobilisation appartenant à une entreprise, par exemple, une usine qui sert à la fabrication de meubles par l’entreprise.
+[92] Les actions en question ne ressemblent pas du tout à de tels biens.
+[93] L’intention joue un rôle clé dans la caractérisation d’une vente. Hogg, Magee et Li disent :
+[TRADUCTION]
+D’après la jurisprudence1, la réponse à la question de savoir si une opération isolée revêt un caractère commercial dépend de l’intention du contribuable au moment où il a fait l’acquisition du bien. S’il avait une autre intention, par exemple, celle de détenir le bien à titre de placement générateur de revenus, ou de s’en servir comme immobilisation (immobilisation corporelle) dans une entreprise, ou de l’utiliser à des fins personnelles, la vente subséquente du bien sera traitée comme une opération en capital.
+1 L’arrêt Irrigation Industries, […], étant une exception.
+Les actions acquises[43]
+[94] Les faits relatifs aux actions que Mme Gendron a acquises sont incompatibles avec un investissement et ne favorisent pas la conclusion qu’il s’agit d’une vente à titre de capital[44] :
+a) Avant même que Mme Gendron ait acquis ses actions, elle avait l’intention de les revendre à très court terme.
+b) Les actions n’ont produit aucun revenu pendant qu’elle les a détenues.
+c) Les actions ont été revendues moins de deux semaines après leur acquisition.
+[95] Ces trois indices que je viens d’énumérer appuient une caractérisation comme revenu[45]. Un quatrième indice favorisant une caractérisation comme revenu est l’absence de mise de fonds par Mme Gendron au moment de l’achat; elle a payé M. Gervais sur une période de cinq ans[46].
+[96] Un indice habituel d’une affaire de caractère commercial semble manquer. Normalement on s’attendrait à ce qu’il y ait comme objectif de réaliser un profit sur la revente des actions. Ici, aucun gain ni aucune perte n’étaient prévus à la revente des actions et Mme Gendron a revendu les actions au même prix que leur prix d’achat.
+[97] J’ai dit « semble manquer » car, bien que l’achat et la revente des actions ne produisent aucun gain sur la disposition des actions, Mme Gendron a eu un avantage financier; elle a revendu très rapidement les actions achetées, mais vu qu’elle a payé M. Gervais, avec intérêts, sur une période de cinq ans, elle a obtenu le bénéfice d’un flux net de trésorerie très avantageux.
+[98] Il n’y a donc pas de profit sur la revente, mais il y a quand même un avantage financier. Les entreprises cherchent souvent l’amélioration de leur flux net de trésorerie et l’amélioration du flux net de trésorerie est un indice de caractère commercial.
+[99] Il est important de noter que le profit comme objectif est un indice, mais non une condition essentielle à la conclusion qu’il s’agit d’une affaire de caractère commercial[47].
+[100] Traditionnellement, la nature du bien en question, des actions, est considérée comme un indice d’un investissement[48]. Toutefois, les circonstances ici sont telles que le fait qu’il s’agit d’actions, la nature du bien, n’a qu’une portée minime[49].
+[101] Quand on applique ces principes aux actions achetées, il est difficile de voir comment il pourrait s’agir d’autre chose qu’un revenu. Bien qu’il n’y ait ni gain, ni perte sur la disposition des actions achetées, les indices penchent très fortement en faveur d’une caractérisation de la vente comme un revenu.
+[102] Il faut toutefois que je considère la décision de la Cour suprême du Canada dans Irrigation Industries Ltd. v. M.N.R.[50]
+[103] Mme Gendron accorde beaucoup d’importance à la décision Irrigation Industries. Ceci est très compréhensible vu que la décision majoritaire semble suggérer qu’il y a une présomption extrêmement forte que l’acquisition d’actions d’une entreprise donne lieu à l’acquisition d’une immobilisation qui génère un gain en capital au moment de la vente des actions, à moins de forts indices du contraire[51].
+[104] Dans Irrigation Industries, il y a un achat de 4 000 actions en février 1953[52] et une vente de 2 400 de ces actions entre le 10 et le 13 mars 1953. Les 4 000 actions étaient des actions non émises[53].
+[105] Les 1 600 actions restantes ont été vendues en juin 1953. Du prix d’achat total de 40 000 $, un montant de 37 000 $, la quasi-totalité du prix, a été financé par une découverte bancaire[54].
+[106] Avant l’achat des actions, la compagnie avait emprunté 50 000 $ à la banque pour financer l’achat d’un immeuble et s’attendait à obtenir une hypothèque de 75 000 $ sur l’immeuble. Cette somme de 75 000 $ aurait servi à rembourser la découverte bancaire et à réduire le montant de l’emprunt bancaire.
+[107] Peu après l’achat des actions, la banque a informé Irrigation Industries qu’elle ne pourrait obtenir une hypothèque de seulement 40 000 $ et qu’elle devait rembourser la découverte bancaire. Peu après que la compagnie ait reçu cette information, la compagnie a décidé de vendre 2 400 actions et d’utiliser les fonds pour rembourser la découverte[55].
+[108] En juin, la compagnie a vendu les 1 600 autres actions restantes et a réduit l’emprunt bancaire[56].
+[109] Je ne crois pas que Irrigation Industries ait pour conséquence que, dans les circonstances ici, je dois conclure qu’il s’agit d’un investissement plutôt que d’une affaire de caractère commercial, et ce, pour les raisons suivantes.
+[110] À part un aspect, la majorité et la minorité dans Irrigation Industries ne semblent pas en désaccord sur les principes applicables et, notamment, acceptent les principes dans M.N.R. v. Taylor[57].
+[111] La différence est que la majorité attache une très grande importance à la nature du bien acquis[58]. La majorité attache également de l’importance à ceci :
+[TRADUCTION]
+[...] À mon avis, on ne peut dire qu’une personne qui met de l’argent dans une entreprise commerciale en achetant les actions d’une compagnie à une occasion isolée et non dans le cadre de ses activités commerciales courantes a pris un risque de caractère commercial simplement parce que l’achat était spéculatif en ce sens qu’à l’époque, la personne entendait non pas détenir les actions indéfiniment mais plutôt, si possible, de les vendre à profit dès qu’il serait raisonnable de le faire. Je pense qu’il faut des indications de l’existence d’un « commerce » plus claires que cela avant de pouvoir dire qu’il y avait un risque de caractère commercial[59].
+[112] Il est important de noter que dans le passage que je viens de citer il est accepté qu’une transaction isolée peut constituer une affaire de caractère commercial.
+[113] S’il fallait comprendre la décision majoritaire comme établissant le principe qu’une intention de revendre rapidement une action n’est pas un indice clair d’une affaire de caractère commercial, la décision serait difficilement conciliable avec la jurisprudence d’avant[60] et d’après[61].
+[114] Toutefois, je ne crois pas que cela soit la bonne façon de lire la décision, car il faut tenir compte de tout le passage que je viens de citer dans Irrigation Industries, notamment de ceci : [TRADUCTION] « en ce sens qu’à l'époque, la personne entendait non pas détenir les actions indéfiniment ».
+[115] Lorsqu’on tient compte de toute la phrase, le principe exprimé est tout simplement : le simple fait qu’une personne reconnaisse qu’un jour elle va probablement revendre des actions n’est pas suffisant pour qu’il s’agisse d’une affaire de caractère commercial. Cela est un principe accepté.
+[116] Compris de cette façon, il reste toujours difficile de comprendre pourquoi la majorité croit qu’il fallait quelque chose de plus pour conclure qu’il s’agit d’une affaire de caractère commercial vu le reste de la jurisprudence[62].
+[117] Quoi qu’il en soit, il y a deux différences importantes entre les circonstances ici et celles dans Irrigation Industries. Premièrement, dans la grande majorité des achats où les actions achetées existent déjà, le vendeur met fin à son investissement dans une compagnie et l’acheteur le remplace. Dans Irrigation Industries, la situation est différente, car, en achetant des actions non émises, Irrigation Industries faisait plus que juste l’acquisition d’un investissement, elle augmentait le capital de la compagnie émettrice.
+[118] Sur le plan économique, cela a des conséquences différentes de celles de l’achat d’une action existante, car, dans la très grande majorité des cas, lorsque les personnes achètent des actions existantes d’une compagnie, ceci n’a aucun effet sur le capital de la compagnie[63].
+[119] Le fait d’acheter des actions non émises qui augmente le capital de la compagnie émettrice est un indice d’un investissement[64].
+[120] Ici, Mme Gendron n’a pas acheté des actions non émises[65].
+[121] Deuxièmement, ici il y a des indications « plus claires » d’un projet de caractère commercial. Il y a eu non seulement revente à court terme, mais la revente des actions à BW Technologies était programmée d’avance. Je ne vois pas comment il pourrait y avoir un indice « plus clair » que la revente d’actions programmée avant l’achat.
+[122] En conséquence, Irrigation Industries n’est pas applicable et, vu que les indices penchent fortement en faveur d’une affaire de caractère commercial, je conclus qu’il s’agit d’une affaire de caractère commercial et que le gain sur la vente des actions achetées est un revenu[66].
+Les actions reçues comme don
+[123] Quant aux actions que Mme Gendron a reçues gratuitement, elle réalise la totalité du gain. Elle a monétisé la valeur des actions reçues comme don, mais elle n’a pas fait un profit commercial habituel.
+[124] L’intimée a beaucoup insisté sur le fait que Mme Gendron avait exactement la même intention relativement aux actions achetées et à celles reçues comme don.
+[125] Cela n’est pas tout à fait exact. Mme Gendron avait la même intention de revendre rapidement toutes les actions; par contre, il y a une différence quant à leur mode d’acquisition. Dans un cas, l’intention était d’acheter les actions et, dans l’autre, d’accepter un don.
+[126] Ce n’est pas la même chose.
+[127] Deux questions se posent :
+a) L’acceptation d’un don avec l’intention de revendre la chose reçue très rapidement donne-t-elle lieu à un revenu ou à un gain en capital?
+b) La réponse est-elle différente dans cette cause parce que cela fait partie de la série de transactions qui inclut également l’achat et la revente des autres actions par Mme Gendron?
+[128] Mme Gendron a reçu la moitié des actions en question comme don en conformité avec le Code civil du Québec[67].
+[129] Recevoir un don ou un héritage est d’une nature très différente de l’achat d’un bien pour le revendre. L’intention d’accepter n’est pas du tout la même chose qu’une intention d’acheter, car la décision de donner quelque chose relève du donateur et non de la personne qui reçoit le don.
+[130] Le simple fait de vouloir réaliser la valeur du don en revendant le bien reçu, même rapidement et même si l’intention existait avant la réception du don, ne signifie pas que la vente du bien est une affaire de caractère commercial. Il faut qu’il y ait plus.
+[131] Par exemple, le simple fait qu’un enfant qui s’attend à hériter d’un chalet familial ait l’intention de le revendre le plus vite possible parce qu’il veut réduire l’hypothèque sur sa maison ne signifie pas que la revente du chalet est une affaire de caractère commercial[68].
+[132] Il faut donc évaluer différemment le caractère de la vente, car, de par la nature des choses, la personne qui reçoit un don ne peut avoir fait un investissement. En conséquence, certains indices, quand un bien est acheté, n’ont aucune application dans le cas d’un don.
+[133] Il n’y a pas d’autres indices ici qui favoriseraient la conclusion qu’il s’agit d’une affaire de caractère commercial. Il n’y a pas, par exemple, d’effort de la part de Mme Gendron pour ajouter de la valeur aux actions reçues comme don.
+[134] L’appelante a porté à mon attention la décision de la Cour d’appel du Québec dans Fiducie Charbonneau c. Québec (Sous-ministre du Revenu)[69], une décision fort intéressante. À la suite du décès de M. Charbonneau, la fiducie a reçu ce qui était à l’origine un terrain agricole que M. Charbonneau avait exploité dans le passé et qu’il avait cessé d’exploiter. Avant son décès, il a vendu deux parcelles du terrain. Après son décès, la fiducie a vendu des lots. La Cour d’appel a conclu que la fiducie ne faisait que réaliser le terrain, ce que M. Charbonneau avait commencé à faire, et était d’accord avec la fiducie que les ventes donnaient lieu à un gain en capital.
+[135] La Cour d’appel fait également référence au bulletin d’interprétation IT‑218R « Bénéfices, gains en capital et pertes provenant de la vente de biens immeubles, y compris les terres agricoles et les terres transmises par décès et la conversion de biens immeubles qui sont des biens en immobilisation en biens figurant dans un inventaire et vice versa »[70] :
+Terres agricoles et terres transmises par décès
+23. La vente en bloc ou lot par lot par un contribuable
+a) d’une terre agricole utilisée régulièrement par le contribuable dans le but de réaliser ou de produire un revenu tiré d’une entreprise agricole exploitée par le contribuable, ou
+b) d’une terre qui lui a été transmise par décès
+donnera généralement lieu, selon le cas, à un gain ou à une perte en capital pour le contribuable, sauf par exemple lorsque le contribuable
+c) convertit cette terre en bien d’exploitation (voir le numéro 24 ci-dessous), ou
+d) acquiert la terre mentionnée en a) avec l’intention de la revendre à profit à un moment opportun (voir le numéro 5 ci-dessus).
+Évidemment, l’interprétation de l’Agence du revenu du Canada ne peut changer la loi, mais elle peut être considérée[71].
+[136] Si l’héritage d’un terrain donne généralement lieu à un gain ou à une perte en capital, logiquement, sans plus, cela est également vrai généralement, en l’absence d’autres facteurs, pour les biens reçus comme don ou héritage dans un contexte familial.
+[137] Il ne semble pas y avoir beaucoup de jurisprudence sur cette question. C’est probablement parce qu’il est généralement accepté que la simple revente, sans plus, d’un bien reçu comme don ou héritage, même si elle a lieu peu après l’acquisition du bien, est une vente qui donne lieu à un gain en capital.
+[138] La disposition des actions reçues comme don a lieu dans le contexte plus général de la vente de Vulcain à BW Technologies, mais le fait que Mme Gendron ait facilité la vente à BW Technologies ne change pas le caractère de la vente pour elle.
+[139] En conséquence, la vente des actions reçues comme don est un gain en capital.
+[140] Mme Gendron a argumenté que le caractère des actions qu’elle a vendues devait rester le même que si M. Gervais les avait vendues par analogie avec les décisions de la Cour suprême du Canada dans Continental Bank Leasing Corporation c. Canada[72] et Canada c. Banque Continentale du Canada[73]. Vu ma conclusion, il n’est pas nécessaire que j’examine cet argument[74].
+Article 47 de la Loi
+[141] Il est clair que l’article 47 s’applique uniquement aux gains en capital pour deux raisons. D’une part, l’article fait partie de la sous-section c de la section B de la partie I de la Loi, c’est-à-dire la partie qui traite de gains en capital imposables et de pertes en capital déductibles. D’autre part, l’article 47 prévoit des règles pour le calcul du « prix de base rajusté »; or, le prix de base rajusté est une notion qui est utilisée par la Loi pour le calcul des gains en capital.
+[142] Vu ma conclusion que la disposition des actions achetées donne lieu à un revenu et que la disposition des actions reçues comme don donne lieu à un gain en capital, l’article 47 n’a pas d’application.
+[143] Puisque l’article 47 ne peut s’appliquer, le coût des actions reçues comme don est de 0 $ et le coût des actions achetées est tout simplement ce que M. Gervais a payé[75].
+[144] Pour cette raison, en ce qui concerne les actions achetées, le gain de Mme Gendron est de 0 $[76].
+[145] Pour ce qui est des actions reçues comme don, le résultat est que Mme Gendron a fait un gain en capital de 1 000 000 $ dont la totalité doit être attribuée à M. Gervais en vertu de l’article 74.2 de la Loi[77].
+[146] En conséquence, Mme Gendron n’a aucun gain imposable résultant de la vente de ses actions.
+[147] Je note qu’une conséquence de ce résultat est que Mme Gendron n’a pas utilisé son exonération pour gain en capital en vertu de l’article 110.6 de la Loi et qu’elle pourra l’utiliser à l’avenir.
+Guy Gervais — règle générale anti-évitement
+[148] Vu que tout le gain de Mme Gendron est attribué à M. Gervais, il est évident qu’il ne peut y avoir d’« avantage fiscal » en vertu de la règle générale anti‑évitement et qu’en conséquence, la règle ne peut être appliquée. Il n’est donc pas nécessaire que j’examine l’application possible de ladite règle.
+[149] Le résultat pratique pour M. Gervais est le même que celui de la cotisation du ministre selon laquelle tout le gain de Mme Gendron doit être inclus dans son revenu.
+Conclusion[78]
+[150] En conclusion, le résultat est que Mme Gendron ne doit être imposée sur aucun gain, mais M. Gervais doit être imposé sur la totalité du gain.
+[151] La Cour va communiquer avec les parties afin que des projets de jugement appropriés soient préparés pour donner effet à cette décision[79]. La Cour va également communiquer avec les parties relativement aux coûts.
+Signé à Ottawa (Ontario), ce 23e jour d’avril 2014.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2014 CCI 119
+Nº DES DOSSIERS DE LA COUR : 2010-71(IT)G
+2010-70(IT)G
+INTITULÉ DE LA CAUSE : GUY GERVAIS,
+LYSANNE GENDRON,
+c. LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : Les 20 et 21 août 2012 et 25 juin 2013
+MOTIFS DU JUGEMENT PAR : L’honorable juge Gaston Jorré
+DATE DES MOTIFS DU
+JUGEMENT : Le 23 avril 2014
+COMPARUTIONS :
+Avocats des appelants :
+Me Serge Fournier
+Me Étienne Retson Brisson
+Avocates de l’intimée :
+Me Josée Tremblay
+Me Mélanie Sauriol (25 juin 2013)
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour les appelants : Me Serge Fournier
+Me Étienne Retson Brisson
+Cabinet : BCF s.e.n.c.r.l.
+Montréal (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Des appels ont également été interjetés pour l’année d’imposition 2003 et, dans le cas de Mme Gendron, pour l’année 2004; les parties m’ont informé que les ajustements liés aux années subséquentes découleront automatiquement de la décision relative à l’année 2002.
+[2] Les parties ont déposé deux ententes partielles sur les faits et deux cahiers de documents conjoints (pièces A‑1 et A‑2). L’intimée a également déposé une demande d’aveux corrigée selon la règle 130 des Règles de la Cour canadienne de l’impôt (procédure générale) ainsi que la réponse à la demande d’aveux selon la règle 131 des Règles (pièces I-1 et I‑2). Il n’y a pas de question de crédibilité.
+[3] C’est-à-dire qu’il fait le choix de ne pas se prévaloir des dispositions prévues au paragraphe 73(1) de la Loi de l’impôt sur le revenu. Il n’y a donc pas eu de roulement.
+[4] Il s’agit d’actions de la même catégorie que les actions qu’il a vendues à Mme Gendron.
+[5] La juste valeur marchande de chaque action ne change pas entre le 26 septembre 2002 et le 6 octobre 2002.
+[6] Le prix de base rajusté.
+[7] Les deux millions d’actions.
+[8] Article 110.6 de la Loi. Mme Gendron a réclamé une exonération de 250 000 $. M. Gervais a réclamé une exonération de 158 720 $, le montant de l’exonération qu’il n’avait pas encore utilisé.
+[9] Selon l’intimée, si elle a raison dans l’appel de Mme Gendron, l’appel de M. Gervais doit être accueilli; si elle a raison dans l’appel de M. Gervais, l’appel de Mme Gendron doit être accueilli.
+[10] En 1986 ou en 1987 (transcription du 20 août 2012, pages 19 et 22).
+[11] En plus de M. Gervais et de son père, il y avait une secrétaire ainsi qu’un technicien sur la route qui était un employé ou un sous-traitant (transcription du 20 août 2012, page 22).
+[12] J’ai combiné les ententes partielles sur les faits dans la mesure du possible pour éviter la duplication. J’ai remplacé « appelant » ou « appelante » par le nom de la personne. La numérotation est nécessairement différente.
+[13] Ce titre est dans l’entente.
+[14] Paragraphe ajouté.
+[15] Paragraphe ajouté; voir la transcription du 20 août 2012, aux pages 29 à 31.
+[16] Paragraphe ajouté; voir la transcription du 20 août 2012, aux pages 29 à 31.
+[17] Paragraphe ajouté; voir la convention d’achat du 7 octobre 2002, à la pièce A-2, onglet 56, paragraphe 9.8, où l’on parle du « non‑binding offer to purchase (“LOI”) », [TRADUCTION] [« offre d’achat de caractère non obligatoire »], soit l’offre du 31 août 2002 modifiée le 26 septembre 2002; je présume que « LOI » signifie « Letter of Intent », [TRADUCTION] [« lettre d’intention »].
+[18] Paragraphe ajouté; voir les pièces I-1 et I-2. L’offre fut acceptée avant le 22 septembre 2002; voir la transcription du 20 août 2012, à la page 42.
+[19] Paragraphe ajouté; voir les pièces I-1 et I-2 et la transcription du 20 août 2012, à la page 73.
+[20] Ce titre est dans l’entente.
+[21] La compagnie a racheté les actions du père en trois étapes en 2001 et en 2002 avec le résultat qu’après 9 h le 26 août 2002 (pièce A-1, onglet 7) le père ne détenait plus d’actions de Vulcain; le père avait détenu ses actions par l’entremise d’une compagnie.
+[22] Paragraphe ajouté.
+[23] Paragraphe ajouté; voir la transcription du 20 août 2012, à la page 72, où il est admis que dans le texte de l’article 6.3 de la convention les termes « acheteur » et « vendeur » ont été inversés.
+[24] Paragraphe ajouté; voir la transcription du 20 août 2012, aux pages 72 et 73.
+[25] Paragraphe ajouté; voir la pièce A-2, aux onglets 40 et 41.
+[26] Les mots entre parenthèses se retrouvent dans l’entente sur les faits dans l’appel de Mme Gendron mais non dans l’entente sur les faits dans l’appel de M. Gervais. Voir le paragraphe 22 de chaque entente. Il s’agit probablement d’une omission involontaire.
+[27] Les mots entre parenthèses se retrouvent dans l’entente sur les faits dans l’appel de Mme Gendron mais non dans l’entente sur les faits dans l’appel de M. Gervais. Voir le paragraphe 24 de chaque entente. Il s’agit probablement d’une omission involontaire.
+[28] Paragraphe ajouté; voir les pièces I-1 et I-2, tel que le paragraphe a été corrigé à l’audition (transcription du 20 août 2012, pages 82 et 83).
+[29] Paragraphe ajouté; voir les pièces I-1 et I-2.
+[30] Paragraphe ajouté; voir les pièces I-1 et I-2.
+[31] Paragraphe ajouté; voir les pièces I-1 et I-2.
+[32] Paragraphe ajouté; voir la transcription du 20 août 2012, à la page 74.
+[33] Ce titre est dans l’entente.
+[34] Bien que les ententes sur les faits parlent de 1 583 790 actions ordinaires de catégorie « B » détenues par Mario Gervais, il semble qu’il s’agirait plutôt de 1 583 790 actions privilégiées de catégorie « E »; voir, par exemple, l’onglet 55 et l’onglet 56 (pages 4 et 20 du document) de la pièce A-2.
+[35] Ce titre est dans l’entente.
+[36] Ce titre est dans l’entente.
+[37] Transcription du 20 août 2012, pages 32 à 35 et 49.
+[38] Transcription du 20 août 2012, page 49.
+[39] Transcription du 20 août 2012, pages 33 et 65.
+[40] Les parties n’ont pas élaboré sur les raisons pour lesquelles la cotisation de l’un des époux implique nécessairement qu’il est impossible que la cotisation de l’autre époux soit valable. Vu mes conclusions ci-dessous, il ne sera pas nécessaire que j’examine cette question, mais je ferai l’observation suivante. Si hypothétiquement la règle générale anti-évitement s’appliquait à M. Gervais et que, simultanément, la disposition des actions par Mme Gendron était un revenu pour Mme Gendron, la question suivante se poserait : en vertu des paragraphes 245(6) et (8) de la Loi, le ministre n’aurait-il pas l’obligation de faire une modification de façon à enlever du revenu de Mme Gendron le gain sur la vente de ses actions? Le texte de la disposition indique clairement qu’une modification peut être relative à un tiers :
+245(5) Sans préjudice de la portée générale du paragraphe (2) et malgré tout autre texte législatif, dans le cadre de la détermination des attributs fiscaux d’une personne de façon raisonnable dans les circonstances de façon à supprimer l’avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, d’une opération d’évitement :
+a) toute déduction, exemption ou exclusion dans le calcul de tout ou partie du revenu, du revenu imposable, du revenu imposable gagné au Canada ou de l’impôt payable peut être en totalité ou en partie admise ou refusée;
+b) tout ou partie de cette déduction, exemption ou exclusion ainsi que tout ou partie d’un revenu, d’une perte ou d’un autre montant peuvent être attribués à une personne;
+c) la nature d’un paiement ou d’un autre montant peut être qualifiée autrement;
+d) les effets fiscaux qui découleraient par ailleurs de l’application des autres dispositions de la présente loi peuvent ne pas être pris en compte.
+[Je souligne.]
+Le texte anglais est :
+245(5) Without restricting the generality of subsection (2), and notwithstanding any other enactment,
+(a) any deduction, exemption or exclusion in computing income, taxable income, taxable income earned in Canada or tax payable or any part thereof may be allowed or disallowed in whole or in part,
+(b) any such deduction, exemption or exclusion, any income, loss or other amount or part thereof may be allocated to any person,
+(c) the nature of any payment or other amount may be recharacterized, and
+(d) the tax effects that would otherwise result from the application of other provisions of this Act may be ignored,
+in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly, from an avoidance transaction.
+[Je souligne.]
+[41] Il est évident que, dans ce cas, il ne peut s’agir d’une entreprise sauf dans la mesure où il s’agit d’un projet comportant un risque ou une affaire de caractère commercial. Voir la définition d’« entreprise » au paragraphe 248(1) de la Loi.
+[42] Principles of Canadian Income Tax Law, huitième édition (Carswell, 2013), extrait de Tax Partner (Carswell, 2013 — version 12). Voir le chapitre 11, particulièrement 11.1, 11.3 et 11.4(b).
+[43] Les parties ont prétendu que la vente des actions était entièrement un gain en capital selon l’appelante ou entièrement un revenu selon l’intimée.
+En considérant les arguments des parties, il me semblait qu’il y avait un certain mérite dans les deux positions mais que le mérite de chaque position semblait plus convaincant quand c’était par rapport, dans un cas, aux actions reçues comme don et, dans l’autre, aux actions achetées.
+À un certain moment, j’ai demandé aux parties de faire des observations additionnelles y compris sur la question de savoir si le résultat était forcément le même pour les actions achetées et les actions reçues comme don.
+[44] Puisqu’il ne s’agit pas de l’activité d’une entreprise de Mme Gendron, il ne peut s’agir de la disposition d’une immobilisation ou de l’inventaire d’une entreprise.
+[45] Un projet comportant un risque ou une affaire de caractère commercial.
+[46] Ces quatre indices ressemblent beaucoup à une transaction spéculative.
+[47] Voir la décision de la Cour de l’Échiquier dans M.N.R. v. Taylor, [1956] C.T.C. 189, aux pages 211 et 212, [1956‑60] Ex.C.R. 3, aux pages 26 et 27.
+Il sera question ci-dessous de la décision de la Cour suprême du Canada dans Irrigation Industries Ltd. v. M.N.R., [1962] S.C.R. 346. Dans Irrigation Industries, aussi bien la majorité, aux pages 351 et 352, que la minorité, aux pages 359 et 360, acceptent les principes de Taylor.
+[48] Dans la mesure où on peut considérer qu’une action, de par sa nature, est un indice d’un investissement. Vu la façon dont les marchés financiers ont évolué depuis 20 ou 30 ans, il y a de bonnes raisons de se demander si de nos jours les actions sont un bien dont la nature est un indice d’un investissement. Les marchés opéraient très différemment avant les 20 ou 30 dernières années, et il y a lieu de se demander si cet indice, formulé dans d’autres circonstances, est encore valable. Dans les circonstances actuelles, aurait-il lieu de considérer que la nature d’une action n’est pas un indice dans un sens ou dans l’autre? Il n’est pas nécessaire que je réponde à cette question.
+[49] Voir la discussion de la décision dans Irrigation Industries, [1962] S.C.R. 346, ci-dessous.
+[50] [1962] S.C.R. 346.
+[51] Voir le premier paragraphe à la page 351 de Irrigation Industries où le juge Martland cite la cause de Barry v. Cordy, [1946] 2 All E.R. 396. Il est clair que le juge Martland accepte qu’il y ait des transactions d’achats et de reventes d’actions qui sont des affaires de caractère commercial.
+[52] Le ou vers le 23 février selon la décision minoritaire de la Cour suprême, mais le ou vers le 6 février selon la Cour de l’Échiquier dans Irrigation Industries Ltd. v. M.N.R., [1960] C.T.C. 329.
+[53] Le fait qu’il s’agit d’actions non émises, « treasury shares », est dans le jugement majoritaire aux pages 348 et 354.
+[54] Voir le troisième paragraphe de la décision du juge Cameron de la Cour de l’Échiquier dans Irrigation Industries, [1960] C.T.C. 329.
+[55] Voir le sixième paragraphe de la décision de la Cour de l’Échiquier.
+[56] Voir le septième paragraphe de la décision de la Cour de l’Échiquier.
+[57] [1956‑60] Ex.C.R. 3.
+[58] Irrigation Industries, [1962] S.C.R. 346, page 352.
+[59] Irrigation Industries, [1962] S.C.R. 346, page 351.
+[60] Notamment M.N.R. v. Taylor, [1956‑60] Ex.C.R. 3.
+[61] Notamment la décision subséquente de la Cour suprême du Canada dans M.N.R. v. Sissons, [1969] S.C.R. 507, à la page 512 (avant-dernier paragraphe) et à la page 514 (première phrase complète).
+[62] Ceci est d’autant plus vrai que la majorité ne semble pas avoir attaché d’importance à la preuve devant la Cour de l’Échiquier qui suggère que la vente a été provoquée par la demande de la banque que la découverte bancaire soit remboursée (voir la page 357 de la décision de la Cour suprême du Canada et la décision de la Cour de l’Échiquier) et qu’en conséquence les circonstances ont changé, ce qui aurait pu mener le tribunal de première instance à conclure qu’à l’origine la compagnie prévoyait garder les actions plus longtemps et que l’intention originale a dû être modifiée quand la compagnie n’a pu obtenir l’hypothèque de 75 000 $.
+[63] Évidemment, le fait qu’une action peut être revendue, bien que cela n’augmente pas le capital de la compagnie, est tout de même un avantage pour la compagnie, car cela facilite la vente éventuelle d’actions non émises parce que l’acheteur d’actions non émises sait qu’il est possible de les revendre.
+[64] Quand on tient compte de cet élément dans Irrigation Industries, il n’y a plus le même degré de divergence entre Irrigation Industries et le reste de la jurisprudence.
+[65] Je souligne que même l’achat d’actions non émises n’est qu’un indice, pas plus.
+[66] Mme Gendron a également argumenté que les actions qu’elle a acquises gardaient le même caractère qu’elles avaient dans les mains de M. Gervais. Cette prétention était faite dans le contexte de toutes les actions. Je vais en traiter dans le contexte des actions reçues comme don, car, quels que soient les mérites, ou non, de ces arguments dans le contexte d’un don où une vente fait suite à un roulement permis par la Loi, la prétention ne peut avoir d’application quand il s’agit tout simplement d’un achat. En achetant les actions de M. Gervais, Mme Gendron est dans la même situation que si elle avait acheté les actions de tout autre contribuable non lié.
+[67] Article 1806 et suivants du CCQ.
+[68] Je ne veux pas suggérer qu’il ne peut pas y avoir de circonstances où un don reçu est revendu et produit un revenu plutôt qu’un gain en capital. Par exemple, la situation serait, peut-être, très différente si, entre deux entreprises qui avaient fait affaires longuement ensemble au bénéfice des deux, l’une avait donné gratuitement de l’inventaire à l’autre pour la dépanner pendant une crise. Il y a sans doute d’autres exemples. Il n’y a rien comme cela ici.
+[69] 2010 QCCA 400.
+[70] Agence du revenu du Canada, 16 septembre 1986.
+[71] Voir Harel c. Sous-ministre du Revenu (Québec), [1978] 1 R.C.S. 851, Nowegijick c. La Reine, [1983] 1 R.C.S. 29.
+[72] [1998] 2 R.C.S. 298.
+[73] [1998] 2 R.C.S. 358.
+[74] Toutefois, comme je l’ai dit dans une note précédente, même si Continental pouvait s’appliquer dans le cas des actions données à Mme Gendron par analogie, cela ne peut s’appliquer aux actions achetées où il n’y a pas de roulement.
+Je n’ai pas besoin de décider si Continental peut s’appliquer par analogie aux actions reçues comme don, mais je ferai l’observation qu’il s’agit ici de circonstances très différentes et de dispositions différentes de la Loi. Dans Continental, la banque voulait vendre à la Central Capital Corporation les actions ou les avoirs d’une filiale de la banque, la Continental Bank Leasing. Si la banque avait fait cette vente, le gain aurait été un gain en capital. Toutefois, pour diverses raisons la vente a été structurée d’une certaine façon en utilisant un roulement prévu par la Loi. La conséquence du roulement était que la banque a reçu un intérêt de 99 % dans une société de personnes qui contenait les avoirs de la Continental Bank Leasing. Cet intérêt de 99 % a été revendu à la Central Capital Corporation par la Continental Bank deux jours après que l’intérêt a été acquis par la Continental Bank. Voir les paragraphes 34 et 35 du jugement de première instance dans Banque Continentale du Canada c. Canada, [1994] A.C.I. no 585 (QL). Les faits dans Banque Continentale sont assez complexes, mais il y a un sommaire aux paragraphes 3 à 5 et les détails se retrouvent aux paragraphes 8 à 49. Aux fins de cette cause, les faits essentiels à retenir sont que la Banque Continentale a commencé avec un bien, sa filiale, et par voie de roulement a acquis un autre bien, un intérêt de 99 % dans une société de personnes qui a tout de suite été revendue.
+Le juge Bowman, tel était alors son titre, a conclu que l’intérêt dans la société avait le même caractère que l’intérêt que la Banque Continentale avait à l’origine dans la Continental Bank Leasing. En conséquence, le gain était un gain en capital. Voir les paragraphes 97 à 101.
+Autrement dit, dans les circonstances, la vente par la Banque Continentale de la propriété substituée par roulement, l’intérêt dans la société, avait le même caractère qu’aurait eu une vente de la propriété originale, la Continental Bank Leasing, détenue par la Banque Continentale.
+Il s’agit toujours du même propriétaire. Ici, les circonstances sont fondamentalement différentes. Il s’agit d’une vente par une personne différente, Mme Gendron, et non M. Gervais.
+Ici, une fois que M. Gervais donne les actions à Mme Gendron, il n’a plus d’intérêt dans les actions et il n’a pas droit, directement ou indirectement, au produit de disposition de la revente des actions par Mme Gendron.
+M. Gervais a également invoqué la décision de Meixner c. La Reine, 2005 CCI 283, relativement aux actions reçues comme don et également aux actions achetées.
+Dans Meixner, les circonstances sont assez uniques. La partie pertinente du jugement est liée à la disposition d’une maison (47 Lakeside). Cette maison avait été la résidence de l’appelante, Mme Meixner, et de son ex-mari de 1982 à 1996, mais sa belle-mère était propriétaire de la maison jusqu’à son décès en 1994.
+Bien que son ex-mari et son ex-beau-frère étaient les héritiers de la belle-mère, la maison au 47 Lakeside était toujours enregistrée au nom de la belle-mère au moment où elle a été mise en vente en août 1997. Ce n’est que juste avant la revente que, selon la documentation, Mme Meixner a acquis la maison. La Cour a conclu que Mme Meixner et son ex-mari avaient un intérêt bénéficiaire égal et que Mme Meixner n’a rien payé pour l’acquisition de son intérêt. Si Mme Meixner n’a rien payé, cela implique logiquement qu’elle a reçu son intérêt comme don. Vu cela, je ne vois pas comment Meixner pourrait aider les appelants quant aux actions achetées.
+[75] Les actions avaient été achetées dans une seule transaction, et il n’est pas nécessaire de faire appel à M.N.R. v. Anaconda American Brass Ltd., [1956] A.C. 85.
+[76] En vertu du paragraphe 10(1.01) de la Loi, Mme Gendron doit utiliser le coût d’achat de ses actions pour déterminer le gain. Le résultat serait identique même si la transaction avait lieu avant que le paragraphe 10(1.01) entre en vigueur.
+[77] Je note qu’il y a certaines dépenses à déduire qui réduisent un peu le gain en capital et le gain en capital attribué. Voir le paragraphe 69 ci-dessus.
+[78] Relativement à Mme Gendron, la théorie de l’intimée était que la totalité du gain sur la vente des actions était un revenu. À un certain moment, je me suis posé la question suivante : même si cela était exact, l’article 74.1 n’aurait‑il pas pour effet d’attribuer tout ce gain à M. Gervais?
+Vu mes conclusions ci-dessus, il n’est pas nécessaire de répondre à cette question. Toutefois, je note ceci.
+La position des deux parties était que l’article 74.1 ne peut s’appliquer à un revenu d’entreprise et que, vu que la définition d’« entreprise » inclut les affaires de caractère commercial, l’article 74.1 ne peut s’appliquer dans ce cas si la vente des actions est de caractère commercial.
+Le paragraphe 74.1(1) se lit :
+Dans le cas où un particulier prête ou transfère un bien — sauf par la cession d’une partie d’une pension de retraite conformément à l’article 65.1 du Régime de pensions du Canada ou à une disposition comparable d’un régime provincial de pensions au sens de l’article 3 de cette loi —, directement ou indirectement, par le biais d’une fiducie ou par tout autre moyen, à une personne qui est son époux ou conjoint de fait ou qui le devient par la suite ou au profit de cette personne, le revenu ou la perte de cette personne pour une année d’imposition provenant du bien ou d’un bien y substitué et qui se rapporte à la période de l’année tout au long de laquelle le particulier réside au Canada et tout au long de laquelle cette personne est son époux ou conjoint de fait est réputé être un revenu ou une perte, selon le cas, du particulier pour l’année et non de cette personne.
+Quand on enlève tous les mots qui ne sont pas pertinents dans ce contexte, l’essentiel du paragraphe est :
+Dans le cas où un particulier […] transfère un bien […] à une personne qui est son époux […], le revenu […] de cette personne […] provenant du bien […] est réputé être un revenu […] du particulier […] et non de cette personne.
+[Je souligne.]
+La définition de « biens » au paragraphe 248(1) de la Loi est très large et, à première vue, le paragraphe 74.1(1) semble inclure un revenu d’entreprise qui provient de biens transférés. Le texte essentiel du paragraphe n’est pas :
+Dans le cas où un particulier […] transfère un bien […] à une personne qui est son époux […], le revenu tiré d’un bien […] de cette personne […] provenant du bien […] est réputé être un revenu […] du particulier […] et non de cette personne.
+[Je souligne.]
+Il y a des vieilles décisions qui tiennent pour acquis que le prédécesseur du paragraphe 74.1(1) s’applique au revenu d’entreprise bien qu’il fallait, selon les circonstances, faire une certaine répartition pour déterminer quelle partie du revenu d’entreprise provenait des biens transférés et quelle partie provenait d’autres choses; voir Goodman v. M.N.R., 3 Tax A.B.C. 280, et Trinca v. M.N.R., 3 Tax A.B.C. 354.
+Plus tard, dans Robins v. M.N.R., [1963] C.T.C. 27, la Cour de l’Échiquier a dit que la disposition s’appliquait uniquement à un revenu de propriété et non à un revenu d’entreprise. Toutefois, il s’agit d’obiter parce que la Cour de l’Échiquier avait conclu qu’il n’y avait pas de transfert.
+Quelques mois plus tard, dans l’arrêt M.N.R. v. Minden, [1963] C.T.C. 364, à la page 382, la Cour de l’Échiquier, encore en obiter, semble arriver à la conclusion inverse, soit que la disposition pouvait s’appliquer à un revenu d’entreprise. La Cour de l’Échiquier ne mentionne pas Robins.
+Finalement, dans Lackie c. Canada, [1979] A.C.F. no 700 (QL), une décision de la Cour d’appel fédérale, les parties étaient d’accord que la disposition ne pouvait pas s’appliquer à un revenu d’entreprise et la Cour d’appel a procédé sur cette base sans avoir analysé la question.
+En conséquence, strictement, la Cour d’appel n’a pas tranché la question, mais, vu qu’elle était consciente de la question, il faut tenir compte du fait qu’elle a procédé sur cette base.
+Je note également que dans certains bulletins d’interprétation, l’Agence du revenu du Canada dit que l’article 74.1 ne peut s’appliquer.
+Il y a donc une disposition avec un texte qui suggère une application très large et deux courants jurisprudentiels. S’il fallait décider la question, ne serait-il pas important de tenir compte du principe qu’il est souhaitable que le droit soit prévisible et qu’il semble largement accepter que le paragraphe 74.1(1) ne peut s’appliquer au revenu d’entreprise?
+[79] Voir la règle 169 des Règles.

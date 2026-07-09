@@ -1,0 +1,118 @@
+Title: Bateman v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27315/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-635-27315-bateman-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-11-21
+
+# Bateman v. The Queen
+
+- Citation: 2006 CCI 635
+- Decision date: 2006-11-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 855, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bateman v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-21
+Référence neutre
+2006 CCI 635
+Numéro de dossier
+2005-2799(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2799(IT)I
+ENTRE :
+KELLY BATEMAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 16 octobre 2006 à Toronto (Ontario)
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Représentant de l’appelante :
+Arthur E. Green
+Avocat de l’intimée :
+Me Josh Hunter
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est accueilli sans frais, et la cotisation concernant des pénalités pour production tardive prévues au paragraphe 162(1) est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2006.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 24e jour de janvier 2008.
+Jean David Robert, traducteur
+Référence : 2006CCI635
+Date : 20061121
+Dossier : 2005-2799(IT)I
+ENTRE :
+KELLY BATEMAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hershfield
+[1] L’appelante, qui est un déclarant par voie électronique admissible, interjette appel d’une pénalité pour production tardive imposée pour son année d’imposition 2003. Sa déclaration pour l’année en question a été transmise par voie électronique le 29 avril 2004, un jour avant la date limite de sa production, par le comptable de l’appelante (un déclarant par voie électronique inscrit) au moyen d’un logiciel approprié. Le ministre du Revenu national (le « ministre ») admet que la déclaration a été transmise à cette date, mais il nie qu’elle ait été « produite » à cette date, adoptant de ce fait la position selon laquelle la déclaration a été produite en retard lorsqu’elle a été retransmise le 26 mai 2004.
+[2] Ayant adopté cette position, le ministre a imposé à l’appelante des pénalités de 1 922 $ en application du paragraphe 162(1) de la Loi de l’impôt sur le revenu (la « Loi »).
+[3] Le ministre se fonde sur le paragraphe 150.1(3) de la Loi. En application de cette disposition, une déclaration transmise par voie électronique est réputée produite le jour où le ministre en accuse réception.
+(3) Date présumée de transmission. Pour l’application de l’article 150, la déclaration de revenu d’un contribuable pour une année d’imposition qui est transmise par voie électronique est réputée produite auprès du ministre sur formulaire prescrit le jour où celui-ci en accuse réception.
+[4] Il est acquis aux débats qu’à la suite de la transmission de la déclaration en cause l’ordinateur du ministre a transmis, en retour, un message à l’ordinateur du déclarant par voie électronique inscrit. Ce message, qui portait le titre « ENREGISTREMENTS NON ACCEPTÉS », indiquait que la déclaration de l’appelante n’avait pas été acceptée, et il comportait un code d’erreur. Les publications de l’Agence du revenu du Canada (l’« ARC ») décrivent les codes d’erreur. Celui en l’espèce signifiait que le nom de famille ne correspondait pas à d’autres enregistrements de l’ARC.
+[5] Il n’est pas non plus contesté que, le 26 mai 2004, la déclaration en cause a été retransmise par voie électronique. Cette fois‑ci, l’ordinateur du ministre a transmis un message intitulé « DÉCLARATIONS ACCEPTÉES » et a identifié la déclaration de l’appelante. La déclaration retransmise était identique à celle transmise par voie électronique le 29 avril 2004, sauf pour la donnée relative au nom de famille de l’appelante, qui avait été modifiée en raison d’un changement dans la situation matrimoniale de celle‑ci.
+[6] L’intimée admet que, selon la pratique administrative appliquée à ce moment‑là, la déclaration en cause n’aurait pas été considérée comme produite en retard si elle avait été retransmise au plus tard le 6 mai 2004. L’intimée reconnaît aussi que, si la version papier de la déclaration originale avait été déposée à la poste ou à un bureau d’impôt le 29 avril, aucune pénalité pour production tardive n’aurait pu être imposée parce que la déclaration aurait alors été produite dans le délai prescrit, même si l’erreur qui a fait que l’ordinateur n’a pas accepté la première transmission par voie électronique apparaissait au recto de la déclaration sur papier.
+[7] L’appelante a présenté une demande fondée sur les dispositions d’équité et s’est vu refuser l’annulation des pénalités. Le comptable de l’appelante a comparu à l’audience et a demandé cet allègement.
+[8] Bien que l’avocat de l’intimée ait interprété l’appel comme un moyen de demander un examen fondé sur l’équité, que la Cour n’a pas compétence pour effectuer, j’estime que l’allègement sollicité est plus large. En effet, l’avis d’appel ne constitue manifestement pas une demande d’examen fondé sur l’équité. Il s’agit d’un appel concernant l’imposition de la pénalité au motif qu’elle ne s’applique pas ou ne doit pas s’appliquer en l’espèce. Il m’est loisible d’examiner des arguments concernant le bien‑fondé de l’imposition des pénalités et de titrer des conclusions à cet égard. La Cour a une telle compétence dans des circonstances limitées, par exemple lorsque le contribuable a agi avec un degré suffisant de diligence raisonnable[1].
+[9] En l’espèce, le ministre reconnaît que la transmission de déclarations par voie électronique ne peut pas fonctionner à moins qu’un certain nombre de jours de grâce soient accordés entre le moment où le déclarant est avisé de la non‑acceptation d’une déclaration et le moment où une correction est effectuée. J’ai examiné les documents qui m’ont été fournis par l’avocat de l’intimée et je n’y trouve aucune mention de la pratique administrative dont il a été question à l’audience et dans la réponse à l’avis d’appel. C’est‑à‑dire que le délai de grâce arbitraire de six jours ne semble pas être une pratique publiée – il aurait pu être de 14 jours ou de 30 jours. Aucun nombre de jours n’est fixé par la loi. Le paragraphe 150.1(1) dispose que le ministre peut établir par écrit les modalités selon lesquelles se fait la transmission de documents par voie électronique, mais aucune pratique de ce genre ne semble avoir été établie en ce qui concerne les délais de grâce.
+[10] Dans une lettre se trouvant dans le recueil de documents de l’intimée, il est indiqué que le comptable était un nouveau déclarant par voie électronique, que ce n’est que le 26 mai qu’il a appris que la déclaration en cause n’avait pas été acceptée, et que c’est à cette date qu’il a immédiatement retransmis, par voie électronique, cette déclaration. Il est acquis aux débats que, jusqu’à ce moment‑là, il croyait honnêtement que la transmission par voie électronique initiale avait donné lieu à une production dans le délai prescrit.
+[11] La position de l’appelante était le message envoyé le 29 avril par l’ordinateur de l’ARC doit être considéré comme une acceptation de la déclaration. Un cachet de la poste ou un reçu de livraison constituent des preuves de la date de production, et il devrait en être de même d’un accusé de réception d’une transmission électronique. Il est difficile de souscrire à cet argument étant donné que, dans le cas de la transmission de déclarations sur papier, aucun examen initial n’est effectué pour déterminer si elles seront acceptées, tandis que pour les transmissions de déclarations par voie électronique, la loi semble entériner la nécessité de procéder à un examen informatisé, qui constitue un point de contrôle qui doit être franchi pour que l’on puisse considérer qu’il y a eu production. Cependant, le ministre a reconnu que des jours de grâce sont nécessaires et que l’omission de les publier revient à imposer une norme de diligence raisonnable non écrite et potentiellement variable.
+[12] Comme je l’ai mentionné ci‑dessus, la Cour a compétence pour examiner les questions de diligence raisonnable relativement à l’imposition de pénalités. En exerçant cette compétence, j’accueille l’appel. Contrairement à l’approche rigide de compartimentation adoptée par le ministre pour décider si un allègement fondé sur les dispositions d’équité doit s’appliquer, la Cour examine les faits et les circonstances propres à chaque affaire. Les décisions rendues sous le régime de la procédure informelle ne constituent pas des précédents d’application obligatoire. Par conséquent, en l’espèce, je ne fais que conclure, à la lumière des faits et des circonstances de la présente affaire, que l’appelante, par l’entremise de son comptable, a fait preuve d’une diligence raisonnable justifiant l’annulation des pénalités imposées. Le fait que l’appelante a agi immédiatement après avoir pris connaissance de l’erreur et relativement peu de temps après la date limite de production de la déclaration m’incite à conclure, compte tenu des circonstances en l’espèce, y compris du défaut de publication du délai de grâce, qu’elle a fait preuve de diligence raisonnable. Si je disposais de quelque preuve que ce soit de la publication du délai de grâce de six jours accordé par l’ARC pour la retransmission de déclarations non acceptées par voie électronique, le résultat du présent appel aurait peut‑être été différent.
+[13] Par conséquent, je conclus que l’appelante, par l’intermédiaire de son mandataire, a fait preuve de diligence raisonnable en ce qui concerne la production de la déclaration en cause dans le délai prescrit, et, pour ce motif, l’appel de la cotisation concernant les pénalités pour production tardive est accueilli sans frais.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2006.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 24e jour de janvier 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE :
+2006CCI635
+Nº DU DOSSIER DE LA COUR :
+2005-2799(IT)I
+INTITULÉ :
+Kelly Bateman et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 16 octobre 2006
+MOTIFS DU JUGEMENT :
+L’honorable juge J.E. Hershfield
+DATE DU JUGEMENT :
+Le 21 novembre 2006
+COMPARUTIONS :
+Représentant de l’appelante :
+Arthur E. Green
+Avocat de l’intimée :
+Me Josh Hunter
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Quant à la défense de diligence raisonnable à l’égard des pénalités prévues au paragraphe 162(1), voir, par exemple, la décision Pillar Oilfield Projects Ltd. v. R., [1993] G.S.T.C. 49 (C.C.I.) rendue par le juge Bowman, maintenant juge en chef; la décision Ford v. R. (1994), 95 DTC 848 (C.C.I.) rendue par le juge Bell; la décision Bennett v. R. (1995), 96 DTC 1630 (C.C.I.) rendue par la juge Lamarre Proulx; la décision Stuart Estate v. R., 2003 DTC 329, [2003] 3 C.T.C. 2232 rendue par le juge Rip.

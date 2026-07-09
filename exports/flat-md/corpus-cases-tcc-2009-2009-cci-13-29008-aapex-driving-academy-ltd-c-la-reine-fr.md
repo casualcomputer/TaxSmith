@@ -1,0 +1,179 @@
+---
+title: "Aapex Driving Academy Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29008/index.do"
+last_modified: "2009-01-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 13"
+citation2: ""
+neutral_citation: "2009 CCI 13"
+decision_date: "2009-01-08"
+language: "fr"
+item_id: "29008"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6769
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:18:58.795000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5e3410f52b4b7a20871dbeb4ee9debc95371ee4932479bcfdec4690cae62ff67"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aapex Driving Academy Ltd. c. La Reine
+
+- Citation: 2009 CCI 13
+- Decision date: 2009-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6769, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aapex Driving Academy Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-08
+Référence neutre
+2009 CCI 13
+Numéro de dossier
+2005-1892(GST)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-1892(GST)I
+ENTRE :
+AAPEX DRIVING ACADEMY LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 25 février 2008,
+à Toronto (Ontario).
+Devant : L’honorable juge L. M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Jeffrey L. Goldman
+Avocate de l’intimée :
+Me Suzanne M. Bruce
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie à l’égard de l’appelante en vertu de la partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 11 mai 2004 et porte le numéro 085P0051048, pour la période allant du 1er janvier 2001 au 31 décembre 2002 est accueilli, sans dépens, et la cotisation est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+DE PLUS, LA COUR ORDONNE que l’appelante reçoive le remboursement de son droit de dépôt de 100 $.
+Signé à Vancouver (Colombie‑Britannique), ce 8e jour de janvier 2009.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme ce 14e jour de janvier 2009.
+Alya Kaddour‑Lord, traductrice
+.
+Référence : 2009CCI13
+Date : 20090108
+Dossier : 2005-1892(GST)I
+ENTRE :
+AAPEX DRIVING ACADEMY LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] Le présent appel a été entendu sur preuve commune avec les appels interjetés à l’encontre des cotisations d’impôt sur le revenu dans les causes Christine Raby c. Sa Majesté la Reine (« Raby ») et Aapex Driving Academy Ltd. c. Sa Majesté la Reine (« Aapex »). Outre les faits exposés ci‑dessous, je ferai référence aux définitions des termes et aux faits tels qu’ils sont décrits dans ces deux décisions.
+[2] Dans les nouvelles cotisations en cause dans la décision Raby, le ministre du Revenu national (le « ministre ») a inclus dans le revenu tiré d’une entreprise par Christine Raby certains montants se rapportant aux frais liés aux véhicules qu’Aapex a portés au crédit du compte d’actionnaires de celle‑ci, et qui représentaient la contrepartie donnée à cette dernière pour les véhicules dont elle était propriétaire et qu’elle avait mis à la disposition d’Aapex.
+[3] Le ministre a conclu que bien que des écritures de contrepassation aient été passées dans les livres comptables de l’appelante à la fin de chaque année d’imposition en cause, et ce, afin d’annuler les écritures relatives aux frais liés à l’utilisation des véhicules, aucun ajustement n’a été apporté aux fins de la Taxe sur les produits et services (la « TPS ») sur les frais liés à l’utilisation des véhicules.
+[4] L’appelante a demandé des crédits de taxe sur les intrants (les « CTI ») de 5 906 $ et de 7 016 $ pour les périodes se terminant respectivement le 31 décembre 2001 et le 31 décembre 2002 relativement aux frais liés à l’utilisation des véhicules.
+[5] L’appelante a aussi demandé des CTI de 6 756,97 $, de 4 800 $ et de 6 432,36 $ pour les périodes se terminant respectivement le 30 juin 2001, le 30 septembre 2001 et le 31 décembre 2001, relativement aux frais liés aux véhicules qu’elle a payés à Mme Raby et à M. Racine.
+[6] Le ministre a établi une nouvelle cotisation à l’égard de l’appelante pour la période allant du 1er janvier 2001 au 31 décembre 2002. Le ministre :
+a) a augmenté la TPS percevable de 12 922 $;
+b) a refusé d’accorder à l’appelante des CTI dont la somme totale s’élevait à 30 911,33 $;
+c) a imposé à l’appelante des intérêts de 2 589,83 $, calculés en date du 3 mai 2004;
+d) a imposé à l’appelante une pénalité de 5 897,82 $, calculée en date du 3 mai 2004.
+B. LES QUESTIONS EN LITIGE
+[7] En l’espèce, les questions à trancher sont les suivantes :
+a) le ministre a‑t‑il refusé à juste titre d’accorder à l’appelante des CTI de 5 906 $ et de 7 016 $ pour les périodes se terminant respectivement le 31 décembre 2001 et le 31 décembre 2002 relativement aux frais liés à l’utilisation des véhicules qu’elle a payés au nom de Mme Raby et de M. Racine?
+b) le ministre a‑t‑il refusé à juste titre d’accorder à l’appelante des CTI de 6 756,97 $, de 4 800 $ et de 4 432,26 pour les périodes se terminant respectivement le 30 juin 2001, le 30 septembre 2001, et le 31 décembre 2001 relativement aux frais liés aux véhicules qu’elle a payés à Mme Raby et à M. Racine?
+c) le ministre a‑t‑il eu raison d’imposer à l’appelante des intérêts de 2 589,83 $, calculés en date du 3 mai 2004, quand il a établi une nouvelle cotisation à l’égard de l’appelante relativement à la TPS?
+d) le ministre a‑t‑il eu raison d’imposer à l’appelante une pénalité de 5 897,82 $, calculée en date du 3 mai 2004, quand il a établi une nouvelle cotisation à l’égard de l’appelante relativement à la TPS?
+C. ANALYSE
+[8] Au cours de l’audience, l’avocate de l’intimée a déclaré que, en l’espèce, le montant révisé de la taxe payable devrait être calculé de la manière suivante :
+TPS payable : Aapex
+Périodes annuelles se terminant le :
+31/12/2001
+31/12/2002
+Taxe nette d’après la nouvelle cotisation
+45 470,85 $
+52 363,23 $
+Moins : CTI déductibles
+CTI sur l’allocation pour l’usage d’un véhicule
+24 954 $
+31 141 $
+Taxe payable nette révisée
+20 516,85 $
+21 222,23 $
+(Remarque : Des modifications ont été apportées aux nouvelles cotisations d’origine.)
+[9] Toutefois, ni l’avocat de l’appelante ni l’avocate de l’intimée n’ont déposé d’observations ou d’arguments relativement au fait que, dans la nouvelle cotisation qu’il a établie, le ministre a refusé à l’appelante les CTI qu’elle a demandés. L’avocate de l’intimée n’a fait aucune observation relativement aux montants révisés de la taxe payable qu’elle a présentés à l’audience.
+[10] Les tribunaux canadiens ont établi que c’est au contribuable qu’il revient de prouver que les nouvelles cotisations sont erronées. En l’espèce, du fait de l’absence de preuve ou d’observations concernant le refus d’accorder les CTI, je rejette la position adoptée par l’appelante sur ces questions.
+[11] En outre, l’avocate de l’intimée n’a présenté aucun argument ou observation relativement à la pénalité que le ministre a imposée à l’appelante.
+[12] Du fait de l’absence de preuve et d’arguments concernant l’imposition de pénalités, je ne suis pas en mesure de vérifier comment ces pénalités ont été calculées, ni sur quel fondement elles ont été imposées.
+[13] Dans l’arrêt Consolidated CDN Contractors Inc. v. R., [1998] G.S.T.C. 91, la Cour d’appel fédérale a décidé qu’une pénalité imposée en vertu de l’article 280 de la Loi pouvait être annulée si l’appelant parvenait à démontrer qu’il avait fait preuve de diligence raisonnable en essayant de se conformer à la législation en matière de TPS.
+[14] Dans la décision Tri-Bec Inc. v. R, [2003] G.S.T.C. 75, la Cour a pris en considération l’arrêt Consolidated Canadian Contractors pour décider s’il y avait lieu d’annuler une pénalité imposée en vertu de l’article 280 de la Loi. Au paragraphe 25 de cette décision, la juge Lamarre Proulx a déclaré :
+En ce qui concerne l'imposition de la pénalité, l'intimée ne m'a fait aucune représentation ou observation à cet égard. Je suis d'avis en me fondant sur la décision de la Cour d'appel fédérale dans Consolidated CDN Contractors Inc. v. R.que je n'ai pas dans cette affaire une manifestation claire de manque de diligence. Je suis donc d'avis que l'imposition de la pénalité n'est pas fondée en vertu de la Loi.
+[15] De même, compte tenu de l’absence de preuve ou d’arguments à ce sujet, je ne suis pas convaincu que le ministre a à juste titre imposé une pénalité à l’appelante.
+[16] Par conséquent, l’appel est rejeté en ce qui a trait à la nouvelle cotisation, mais l’affaire est renvoyée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que la pénalité devrait être annulée pour les périodes en cause.
+[17] En l’espèce, étant donné que les deux parties ont eu partiellement gain de cause, il n’est pas adjugé de dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 8e jour de janvier 2009.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme ce 14e jour de janvier 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE :
+2009CCI13
+NO DU DOSSIER DE LA COUR :
+2005-1892 (GST)I
+INTITULÉ :
+Aapex Driving Academy Ltd. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 25 février 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge L. M. Little
+DATE DU JUGEMENT :
+Le 8 janvier 2009
+COMPARUTIONS :
+Avocat des appelantes :
+Me Jeffrey L. Goldman
+Avocate de l’intimée :
+Me Suzanne M. Bruce
+AVOCATS INSCRITS AU DOSSIER :
+Avocat des appelantes :
+Nom :
+Me Jeffrey L. Goldman
+Cabinet :
+Jeffrey L. Goldman
+Toronto (Ontario)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

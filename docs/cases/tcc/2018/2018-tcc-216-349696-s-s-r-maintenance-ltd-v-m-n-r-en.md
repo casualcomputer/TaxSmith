@@ -1,0 +1,219 @@
+---
+title: "S.S.R. Maintenance Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/349696/index.do"
+last_modified: "2018-11-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 216"
+citation2: ""
+neutral_citation: "2018 TCC 216"
+decision_date: "2018-11-06"
+language: "en"
+item_id: "349696"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5018
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:35:44.427000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7d4443f4713b03c43c34c6a09a010716f7b6dca0210390ffe653fb47ad14255d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# S.S.R. Maintenance Ltd. v. M.N.R.
+
+- Citation: 2018 TCC 216
+- Decision date: 2018-11-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5018, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+S.S.R. Maintenance Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-11-06
+Neutral citation
+2018 TCC 216
+File numbers
+2017-2921(CPP), 2017-2922(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2017-2921(CPP),
+2017-2922(EI)
+BETWEEN:
+S.S.R. MAINTENANCE LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeals heard on June 5, 2018, at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Sriruban Sripathman
+Counsel for the Respondent:
+Alisa Apostle
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals of the Minister of National Revenue’s decisions regarding the insurability and pensionability of the following workers’ employment with the appellant during their respective working periods:
+Worker
+Period
+Sureshkumar Mahendiran
+October 1, 2014 to April 30, 2015
+Piramila Uruthireswaran
+January 1, 2015 to April 18, 2016
+Leo Puvanendran
+February 1, 2015 to November 30, 2015
+Kadosan Rajakiri
+March 15, 2015 to April 18, 2016
+Anushiya Sipaskaran
+April 1, 2015 to May 15, 2015
+Mithilarajh Mohanarajah
+June 1, 2015 to August 31, 2015
+Rex Tharmarajasingham
+August 15, 2015 to September 30, 2015
+are dismissed as the workers were engaged in insurable and pensionable employment with the appellant within the meaning of paragraph 5(1)(a) of the Employment Insurance Act and of paragraph 6(1)(a) of the Canada Pension Plan Act.
+Signed at Ottawa, Canada, this 6th day of November 2018.
+“Réal Favreau”
+Favreau J.
+Citation: 2018 TCC 216
+Date: 20181106
+Dockets: 2017-2921(CPP),
+2017-2922(EI)
+BETWEEN:
+S.S.R. MAINTENANCE LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] These appeals are from the Minister of National Revenue’s decision regarding the pensionability and insurability of employment of the following workers’ employment collectively (the “Workers”) during the following periods (collectively the “Periods”) with S.S.R. Maintenance Ltd.
+Worker
+Period
+Sureshkumar Mahendiran
+October 1, 2014 to April 30, 2015
+Piramila Uruthireswaran
+January 1, 2015 to April 18, 2016
+Leo Puvanendran
+February 1, 2015 to November 30, 2015
+Kadosan Rajakiri
+March 15, 2015 to April 18, 2016
+Anushiya Sipaskaran
+April 1, 2015 to May 15, 2015
+Mithilarajh Mohanarajah
+June 1, 2015 to August 31, 2015
+Rex Tharmarajasingham
+August 15, 2015 to September 30, 2015
+[2] In making her decision, the Minister of National Revenue relied on the following assumptions of fact:
+The Appellant
+(a) the Appellant was in the business of providing janitorial and cleaning services; (agreed)
+(b) the Appellant operated out of Stouffville, Ontario; (agreed)
+(c) the Appellant was incorporated on June 18, 2013; (agreed)
+(d) the Appellant’s sole shareholder was Sriruban Sripathman; (agreed)
+(e) Sriruban Sripathman controlled the day-to-day operations of the Appellant (agreed)
+The Workers
+(f) the Workers entered into verbal agreements with the Appellant; (agreed)
+(g) the Workers were hired to perform cleaning services; (agreed)
+(h) the Workers obtained the positions by either responding to a newspaper advertisement or by referral; (agreed)
+(i) the Workers did not negotiate the terms and conditions of their employments (sic) with the Appellant: (agreed)
+(j) the Workers’ duties included the following: vacuuming, dusting, cleaning windows, collecting garbage, washing floors and bathrooms; (agreed)
+(k) the Appellant determined the Workers’ tasks, duties, responsibilities, work schedules and work locations; (agreed)
+(l) the Appellant provided paid training to the Workers; (agreed)
+(m) the Appellant gave the Workers oral directions respecting the work to be performed; (agreed)
+(n) the Appellant occasionally supervised the Workers by means of impromptu on site visits; (denied – Mr. Sripathman was always there on site with them)
+(o) the Workers were expected to advise the Appellant of leave or vacation plans; (agreed)
+(p) the Workers performed their duties between the hours of 7:00 pm and 6:00 am; (denied)
+(q) the Appellant obtained the cleaning contracts with the clients; (agreed)
+(r) the Appellant guaranteed the work completed by the Workers; (agreed)
+(s) the Appellant was responsible for addressing complaints about the quality of the work performed by the Workers; (agreed)
+(t) the Appellant provided all the tools, equipment and supplies that the Workers’ required to complete their duties; (agreed)
+(u) the Workers were not charged for the use of the tools, equipment and supplies; (agreed)
+(v) the Appellant was responsible for the maintenance and repair of the tools and equipment; (agreed)
+(w) the Workers were required to perform the work personally; (agreed – Mr. Sripathman had to replace for holidays and sick leave)
+(x) the Workers could not hire assistants; (agreed)
+(y) the Appellant was responsible for hiring substitute workers; (agreed)
+(z) the Appellant determined the Workers’ rates and method of pay; (agreed)
+(aa) the Workers were paid an hourly rate of $12.50 per hour; (agreed)
+(bb) the Workers did not negotiate their rate of pay; (agreed)
+(cc) the Workers were paid on a monthly basis; (agreed)
+(dd) the Workers were either paid by cash or cheque; (agreed)
+(ee) the cheques were issued to the Workers’ personal names; (agreed)
+(ff) the Workers did not invoice the Appellant; (agreed)
+(gg) the Workers did not charge the Appellant GST/HST; (agreed)
+(hh) the Workers did not operate their own business; (agreed)
+(ii) the Workers did not advertise their services; (ignored)
+(jj) the Workers did not have CRA business account numbers associated with cleaning businesses; (ignored)
+(kk) the Workers did not have trade names; (ignored)
+(ll) the Workers did not maintain books and records for business purposes; (ignored) and
+(mm) the Workers did not incur expenses in relation to the work they did for the Appellant. (Agreed. The appellant paid dinner and coffee for employees working the night shifts)
+[3] Mr. Sriruban Sripathman testified at the hearing on behalf of the appellant. He explained that the appellant has been inactive since June 2017 but it has not been dissolved. He added that the appellant is registered for GST/HST purposes and that it has a debt of $ 40,000.
+[4] Mr. Sriruban Sripathman essentially confirmed that he always worked with the Workers on site and that he picked them up at 7 p.m. and drove them to the sites where they worked. The travel time was not taken into account in the calculation of their working hours. He stated that the appellant provided all the tools, equipment and supplies to the Workers. He confirmed that the Workers were paid on a monthly basis at an hourly rate of between $12 and $13 and that the Workers usually worked 40 hours a week, five days in a row from Mondays to Fridays or Tuesdays to Saturdays or Wednesdays to Sundays.
+[5] Mr. Sriruban Sripathman also added that he provided tee shirts with the appellant’s logo to the Workers and that when a worker did not do his work properly, he would offer assistance to the Worker to improve the quality of his or her work.
+[6] Finally, Mr. Sriruban Sripathman explained that the appellant had to maintain and pay an insurance for the Workers on site.
+Analysis
+[7] The issue to be determined is whether the Workers were employed in insurable and pensionable employment with the appellant during the Periods within the meaning of paragraph 5(1(a) of the Employment Insurance Act, S.C. 1996, c. 23 and paragraph 6(1)(a) of the Canada Pension Plan, R.S.C. 1985, c. C-8 (the “CPP ”).
+[8] In 1392644 Ontario Inc. (c.o.b. Connor Homes v. Canada (Minister of National Revenue – M.N.R.), 2013 FCA 85, the Federal Court of Appeal set out the criteria that are used to assist in addressing the central question whether an individual is performing the services on his own account or not in the following terms:
+41 The central question at issue remains whether the person who has been engaged to perform the services is, in actual fact, performing them as a person in business on his own account. As stated in both Wiebe Door and Sagaz, in making this determination no particular factor is dominant and there is no set formula. The factors to consider will thus vary with the circumstances. Nevertheless, the specific factors discussed in Wiebe Door and Sagaz will usually be relevant, such as the level of control over the worker's activities, whether the worker provides his own equipment, hires his helpers, manages and assumes financial risks, and has an opportunity of profit in the performance of his tasks.
+[9] In this case, all specific factors discussed in Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025 and in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983 favour the conclusion that the Workers were employees of the Appellant.
+Level of Control Exercised over the Workers’ Activities
+[10] The evidence revealed that the appellant supervised the Workers directly. The appellant’s agent was always on site with the Workers. The appellant determined the Workers’ tasks, duties, responsibilities, work schedules and work locations and the appellant gave the Workers oral directions respecting the work to be performed. The appellant guaranteed the work of the Workers and was responsible for addressing any complaints on their quality of work. The work hours of the Workers’ were determined by the appellant while taking into account the requirements of the appellant’s clients. The Workers worked eight hours per day.
+Did the Workers Provide their Own Tools, Equipment and Supplies?
+[11] The evidence revealed that the appellant provided all the tools, equipment and supplies that the Workers needed to perform their duties.
+Opportunity for Profit
+[12] The workers did not negotiate their rate of pay. The appellant determined the Workers’ rate of pay and method of payment. The Workers were paid an hourly rate of between $12 and $13. The Workers were not allowed to subcontract their work to other people at a lower rate. This factor favours the conclusion that the Workers were employees.
+Degree of Financial Risk Taken on by the Workers
+[13] It is clear from the evidence that the Workers did not invest in nor manage the company. They did not invest in equipment or tools or in operating the business and therefore did not bear any financial risks. The appellant provided the Workers with free transportation from their residences to the worksites and they did not have to obtain their own liability insurance.
+[14] When applying the factors used in Wiebe Door Services Ltd. to this case, it clearly favours the conclusion that the Workers were employees of the appellant during the Periods.
+[15] For the foregoing reasons, the appeals are dismissed as the Workers were engaged in insurable and pensionable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act and of paragraph 6(1)(a) of the Canada Pension Plan Act.
+Signed at Ottawa, Canada, this 6th day of November 2018.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2018 TCC 216
+COURT FILE NOS:
+2017-2921(CPP)
+2017-2922 (EI)
+STYLE OF CAUSE:
+S.S.R. Maintenance Ltd. and M.N.R.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 5, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+November 6, 2018
+APPEARANCES:
+Agent for the Appellant:
+Sriruban Sripathman
+Counsel for the Respondent:
+Alisa Apostle
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

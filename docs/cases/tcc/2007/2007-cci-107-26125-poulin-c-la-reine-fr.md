@@ -1,0 +1,155 @@
+---
+title: "Poulin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26125/index.do"
+last_modified: "2007-02-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 107"
+citation2: ""
+neutral_citation: "2007 CCI 107"
+decision_date: "2007-02-23"
+language: "fr"
+item_id: "26125"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4120
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:55:53.711000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b15dae39d991ae550bee48873c41bac2069b495df8c61390a54040a16ee94193"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poulin c. La Reine
+
+- Citation: 2007 CCI 107
+- Decision date: 2007-02-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4120, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poulin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-23
+Référence neutre
+2007 CCI 107
+Numéro de dossier
+2003-2189(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2189(IT)G
+ENTRE :
+RICHARD POULIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+__________________________________________________________________
+Appels entendus le 5 février 2007, à Québec (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me Frédéric Desgagnés
+Avocat de l'intimée :
+Me Nicolas Simard
+__________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995, 1996, 1997, 1998 et 1999 sont rejetés avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour de février 2007.
+« François Angers »
+Juge Angers
+Référence : 2007CCI107
+Date : 20070223
+Dossier : 2003-2189(IT)G
+ENTRE :
+RICHARD POULIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Les présents appels concernent des avis de nouvelles cotisations établis le 14 mars 2003 à l'encontre de l'appelant et visant les années d'imposition 1995, 1996, 1997, 1998 et 1999. Le ministre du Revenu national (le « ministre » ), par ces nouvelles cotisations, a ajouté aux revenus de l'appelant des montants de 44 410 $, 72 730 $, 115 273, 12 426 $ et 10 183 $ respectivement, et ce, par la méthode de l'avoir net. À ces sommes ont été ajoutées des pénalités en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ) et une pénalité en vertu du paragraphe 162(1) de la Loi pour dépôt tardif de la déclaration de revenus pour l'année d'imposition 1999. Pour les années d'imposition 1995 et 1996, le ministre a établi les avis de nouvelles cotisations après l'expiration de la période normale de nouvelle cotisation.
+[2] Tel que mentionné, les revenus non déclarés de l'appelant pour les années d'imposition en litige ont été déterminés par la méthode de l'avoir net. L'appelant ne conteste pas les données ayant servi au calcul des revenus additionnels, mais conteste la conclusion du ministre voulant qu'il y ait eu des avances de fonds par l'appelant à deux sociétés durant les années 1995, 1996 et 1997 et s'oppose à ce que ces montants ont été pris en considération dans les calculs des revenus de l'appelant par la méthode de l'avoir net. Il est aussi bon de noter que le ministre a aussi accordé à l'appelant une perte déductible à titre de placement d'entreprise dans ces deux sociétés pour les années d'imposition 1996, 1997 et 1998 en raison des avances attribuées à l'appelant.
+[3] Les deux sociétés en question sont 9011-7821 Québec inc. ( « 9011 » ) et Pool Bar (Ste-Foy) inc. ( « Pool Bar » ).
+[4] La société 9011 a été constituée le 18 novembre 1994. Aucun document de la société n'a été déposé en preuve, de sorte que l'information visant l'identité des actionnaires de 9011 provient de la première déclaration de revenus de la société pour l'année 1995. L'appelant est identifié comme étant le seul actionnaire. Les états financiers annexés à la déclaration de revenus de 9011 ont été préparés par la société Bussières Paquet (ci-après « Bussières » ). C'est à partir de ces états financiers que le ministre a pris connaissance d'une avance de 18 497 $ de l'actionnaire pour l'année 1995. Selon une note aux états financiers, l'actionnaire a « indiqué qu'il ne va pas demander le remboursement au complet des montants en cause au cours du prochain exercice ce qui explique que les sommes dues soient présentées dans le passif à long terme dans les états financiers ci-joints » . L'appelant a signé la déclaration de revenus. Au procès, l'appelant a déclaré avoir acheté les actions de deux autres actionnaires pour presque rien. Il n'a cependant pas apporté plus de détail sur cette question.
+[5] Selon l'information recueillie de l'Inspecteur général des institutions financières ( « IGIF » ), l'appelant seul est identifié comme personne liée, et ce, à titre de président. On apprend aussi que la société a été radiée d'office le 8 mai 1998.
+[6] Dans la déclaration de revenus de 9011 pour l'année 1996, le ministre a constaté aux états financiers préparés par Bussières qu'il y avait eu, au cours de l'année, une autre avance de 18 431 $ de l'actionnaire. La documentation identifie encore l'appelant comme étant le seul actionnaire de 9011, et il a signé la déclaration de revenus en question. Il y a une note identique à celle qui apparaît aux états financiers de 9011 pour l'année précédente. Il s'agit de la deuxième avance de l'actionnaire que le ministre a utilisée dans les calculs des revenus de l'appelant par la méthode de l'avoir net.
+[7] Dans le cas de la société Pool Bar, le ministre s'est également servi de l'information contenue dans les états financiers de la société pour attribuer des revenus non déclarés à l'appelant. En 1996, l'appelant a avancé la somme de 40 000 $ à Pool Bar et en 1997, il s'agit cette fois-ci d'une avance de 102 348 $ d'un particulier.
+[8] Selon l'information disponible au vérificateur et à l'agent des appels lors de l'établissement des différents avis de cotisation, ils ont conclu que ces deux avances étaient attribuables à l'appelant parce qu'il était le seul actionnaire de Pool Bar en 1996 et qu'il ne pouvait s'agir que de lui, puisqu'il n'a jamais pu identifier le particulier qui a avancé 102 348 $ en 1997.
+[9] Pool Bar a été constituée le 12 juillet 1994. Son seul actionnaire (détenteur de 10 actions de catégorie « A » ) est la société Novalcorp inc. ( « Novalcorp » ). Son siège social est situé au 570, Grande Allée Est, à Québec. Sa première déclaration de revenus comprend des états financiers pour la période du 12 juillet 1994 au 30 juin 1995 préparés par le cabinet comptable Audet, Beaudoin, Girard; la signataire autorisée est madame Odile Vallières à titre de présidente. Les états financiers indiquent un montant de 17 846 $ dû à un administrateur.
+[10] La déclaration de revenus de Pool Bar pour l'exercice du 1er juillet 1995 au 30 juin 1996 indique le même actionnaire, le même cabinet comptable, la même adresse pour le siège social, le nom de madame Odile Vallières (qui n'a pas signé), un montant de 25 681 $ dû à un administrateur et un montant de 24 181 $ dû à une société liée. Les états financiers sont datés du 31 juillet 1996.
+[11] Quelques mois plus tard, soit le 26 septembre 1996, le conseil d'administration de Novalcorp adoptait une résolution autorisant la vente de la totalité des actions qu'elle détient dans Pool Bar à l'appelant pour 50 000 $ et elle autorisait Michel Noël à signer pour Novalcorp tout document pour réaliser la vente.
+[12] Le lendemain, une offre d'achat provenant de l'appelant fut acceptée par Novalcorp. L'offre faite par l'appelant vise l'achat des 10 actions de catégorie « A » émises par Pool Bar à Novalcorp pour la somme de 0,10 $ l'action. L'appelant s'engage cependant « à rembourser la totalité des « Avances à la société » Pool Bar (Ste-Foy) inc. par le biais de la société Pool Bar (Ste-Foy) inc., soit la somme de 50 000 $ » . Les modalités de paiement prévoient le transport de deux actions et le paiement en comptant de 20 000 $ au moment de la clôture de la vente en échange d'une quittance de 20 000 $ pour les avances à la société et les deux actions. Le solde du prix offert est payable en deux versements de 15 000 $ dus le 15 novembre 1996 et le 15 janvier 1997. Le 15 novembre 1996, deux actions seront remises à l'acheteur, ainsi qu'une quittance pour les avances à la société; le 15 janvier 1997, les six actions restantes seront remises à l'acheteur.
+[13] L'offre d'achat prévoit la prise de possession de l'immeuble où est situé le commerce le 30 septembre 1996. Il est également prévu à la clause 6.14 que « sur demande de l'acquéreur, les officiers et administrateurs actuels de la société [Pool Bar] démissionneront à compter du dernier paiement final du 15 janvier 1997 » .
+[14] Selon la documentation déposée, l'appelant a effectivement retiré de son compte à la Caisse populaire de Maizerets la somme de 20 000 $ le 27 septembre 1996. Cette somme aurait été remise à Novalcorp et déposée dans le compte de Novalcorp le 28 septembre 1996.
+[15] Le 23 octobre 1996, l'appelant a effectué un transfert de 20 000 $ de son compte folio 20579 à celui de Pool Bar, folio 60475. Ce montant provient d'un emprunt personnel effectué par l'appelant auprès de la Caisse St-Pascal de Maizerets.
+[16] L'appelant a donc effectivement injecté la somme de 40 000 $ dans Pool Bar en 1996. Le 15 novembre 1996, Pool Bar remettait un chèque de 15 000 $ payable à l'ordre de Michel Noël (Novalcorp) en guise du deuxième versement prévu dans l'offre d'achat. Ce chèque est signé par l'appelant seul et il note sur le chèque qu'il reste un solde de 15 000 $.
+[17] Selon le témoignage de Michel Noël, le conjoint de Odile Vallières, soit la personne autorisée par Novalcorp pour signer toute documentation en rapport avec l'offre d'achat, le troisième versement s'est fait par une reprise de possession de matériel vendu à Pool Bar d'une valeur équivalant au dernier versement prévu. Cette reprise de possession s'est toutefois faite vers le 15 décembre 1996 et constituait le dernier paiement dû par l'appelant. Selon Michel Noël, les actions et toute la documentation visant Pool Bar, telle que procès-verbaux, résolutions et autres, ont été remises à l'appelant le 27 septembre 1996. Il témoigne qu'il est demeuré administrateur à titre passif pour un certain temps, afin de permettre le transfert des permis d'alcool et des loteries vidéo à la nouvelle gestion et l'obtention d'une quittance pour sa caution personnelle à l'égard d'un prêt hypothécaire consenti à Pool Bar.
+[18] La déclaration de revenus de Pool Bar pour la période du 1er juillet 1996 au 30 juin 1997 est datée du 29 octobre 1997. Elle n'est pas signée et le siège social est le même, soit 570, Grande Allée Est, à Québec. Elle identifie l'unique actionnaire comme étant Novalcorp. Les états financiers sont cependant préparés par la société Bussières Paquet, les comptables de l'appelant. Sous la rubrique « Avances d'un administrateur » , on n'indique aucun montant, et on constate qu'il y a encore des avances de sociétés liées et de la société mère de 22 647 $. On voit également qu'il y a eu des avances de 102 348 $ d'un particulier.
+[19] Il est intéressant de noter que la déclaration de revenus provinciales de Pool Bar pour le même exercice se terminant le 30 juin 1997 réfère aux mêmes états financiers de Pool Bar préparés par Bussières Paquet, à la même adresse pour le siège social, soit sur Grande Allée, et à l'actionnaire Novalcorp, mais que Richard Poulin est le représentant autorisé à signer pour Pool Bar. Le formulaire n'est pas signé, mais on identifie sa fonction comme étant celle d'administrateur.
+[20] Il est aussi intéressant de signaler que dans la preuve documentaire déposée au procès, on retrouve des copies de cinq documents déposés auprès de l'IGIF par Pool Bar. Le premier document est la déclaration annuelle de Pool Bar pour l'année 1995. L'actionnaire majoritaire identifié est Novalcorp et les administrateurs sont Jean Linteau, Odile Vallières et Michel Noël, et le document est signé par Odile Vallières le 16 novembre 1995. Le deuxième document est la déclaration annuelle de 1996. Le seul actionnaire identifié est Novalcorp et les administrateurs sont Michel Noël et Odile Vallières. Le document est signé le 3 décembre 1996 par Odile Vallières. Il n'y a aucune mention de l'appelant.
+[21] Le 31 juillet 1997, une déclaration modificative est déposée. Elle est en date du 1er juillet 1997 et est signée par Michel Noël. On retire Odile Vallières comme administratrice et on ajoute l'appelant et Michel Noël.
+[22] La déclaration annuelle de 1997 de Pool Bar a été déposée à l'IGIF le 4 février 1998. L'administrateur identifié est Michel Noël et l'appelant est identifié comme étant le principal dirigeant. Le siège social est toujours sur Grande Allée toujours et le document est signé par Michel Noël.
+[23] Une déclaration modificative signée par Michel Noël le 30 septembre 1999 indique un changement de l'adresse du siège social de Pool Bar et indique que l'appelant est le premier actionnaire et détient plus de 50 % des voix. Le document a été déposé à l'IGIF le 13 octobre 1999.
+[24] Pool Bar a fait l'objet d'une vérification par le ministre du Revenu du Québec en 1999. Le 17 août 1999, l'appelant a remis au ministre ses réponses à un questionnaire qu'on lui avait fait parvenir. L'appelant répond que Pool Bar a cessé ses activités le 15 mars 1997 et qu'il n'a jamais été nommé administrateur de Pool Bar. Il était rémunéré à titre d'employé en sa qualité de gérant. Il n'a jamais assisté aux réunions des administrateurs et nie avoir reçu les états financiers ou des rapports concernant les activités de Pool Bar. Il déclare que Michel Noël et Odile Vallières les examinaient. Il pouvait signer les chèques de Pool Bar, mais avec un cosignataire, soit Michel Noël ou Odile Vallières. Il déclare que tous les procès-verbaux et les registres des administrateurs et ceux des actionnaires sont conservés par les mêmes deux personnes.
+[25] Lors de cette vérification, on a demandé à Michel Noël et Odile Vallières de répondre à un questionnaire. Ils ont fait parvenir leurs réponses le 22 octobre 1999. Selon eux, la société a été vendue le 27 septembre 1996 (Je suppose qu'il s'agit de la vente des actions.) Le registre des procès-verbaux et les autres registres de Pool Bar ont été remis à l'appelant le 27 septembre 1996. Ils précisent n'avoir aucune fonction dans Pool Bar, à quelque titre que ce soit, notamment comme administrateurs. Ils précisent dans la lettre au ministre qu'à la signature du contrat de vente, tout a été remis à l'appelant, y compris la possession des lieux, les clés et le code de l'alarme et que l'appelant a pris possession de l'entreprise.
+[26] Ils ajoutent qu'ils ont convenu de demeurer administrateurs jusqu'à la fin des procédures de transfert des permis d'alcool et de loterie à l'appelant. Ils ajoutent plus loin qu'après le dernier versement de janvier 1997, et nonobstant qu'il avait été convenu au contrat de vente que les soussignés démissionneraient lors du dernier paiement, ils ont accepté d'accorder un délai additionnel à l'appelant pour lui permettre de clore le dossier des permis. Ils ajoutent que quelques mois plus tard, lorsqu'ils ont appris l'impossibilité de transférer les permis, se rendant compte de la mauvaise foi de l'appelant, ils ont eux-mêmes retiré leurs noms à titre d'administrateurs auprès de l'IGIF.
+[27] Michel Noël a témoigné sensiblement la même chose au procès. Il est demeuré administrateur passif pour permettre le transfert des permis et obtenir une mainlevée de sa caution sur l'hypothèque grevant l'immeuble. Il a remis les actions et les registres de la société à l'appelant le 27 septembre 1996. Il déclare que les comptables Bussières Paquet sont les comptables de l'appelant et qu'il n'a rien eu à faire jusqu'à ce qu'il soit payé et que les permis soient transférés.
+[28] De son côté, l'appelant témoigne qu'il n'a pas les moyens d'avancer 102 000 $. Il dit ne rien comprendre dans toute cette affaire-là, et il ne sait pas d'où proviennent les 102 000 $ et les autres montants. Il ne connaît rien des papiers. Il affirme que ses revenus sont tels qu'indiqués dans ses déclarations de revenus. Par contre, il déclare qu'il prenait 150 $ par semaine de la caisse. Interrogé sur certains autres emprunts qu'il aurait pu faire, il est très évasif, tout comme il l'est au sujet des motifs pour lesquels il aurait perdu le permis d'alcool pour 9011.
+[29] L'agente des appels a expliqué les constatations tirées des états financiers décrits dans les présents motifs et le traitement accordé. Elle a revu la preuve documentaire et les déclarations de l'appelant et de Michel Noël et Odile Vallières. Elle s'est fiée, en fin de compte, au fait que les actions ont été vendues et qu'il ne peut s'agir que de l'appelant qui a fait les avances de l'actionnaire et du « particulier » à Pool Bar. Elle a demandé à l'appelant de lui produire les registres de Pool Bar et celui-ci lui a répondu que le feu avait tout détruit. Elle a tout examiné et a offert à l'appelant d'apporter des explications, notamment au sujet de l'identité du particulier qui a avancé 102 000 $ à Pool Bar. Elle n'a rien reçu. Elle a donc accordé des pertes déductibles à titre de placement d'entreprise pour les deux entreprises et a imposé des pénalités en vertu des paragraphes 163(2) et 162(1) de la Loi.
+[30] La position de l'appelant est fondée principalement sur l'argument qu'il a présenté une preuve prima facie en l'espèce, que les hypothèses de fait qui ont servi au fondement de la cotisation sont imprécises et qu'il se voit attribuer des revenus additionnels en raison du fait que le ministre a établi une cotisation suivant la méthode de l'avoir net. De son côté, l'intimée défend sa cotisation par le fait qu'il incombe à l'appelant d'apporter des explications pouvant démolir le fondement de la cotisation et qu'en l'espèce, les calculs de l'avoir net sont fondés sur des informations qui proviennent des états financiers des deux sociétés dont l'appelant est le seul actionnaire. C'est précisément ce dernier point qui a fait l'objet des arguments présentés par les parties.
+[31] À mon avis, les états financiers de 9011 indiquent clairement une mise de fonds faite par l'actionnaire, et la preuve est également précise sur le fait que l'appelant est le seul actionnaire. Aucune explication n'a été apportée pouvant me permettre de modifier quoi que ce soit du calcul du revenu de l'appelant par la méthode de l'avoir net en ce qui concerne les avances dues à l'actionnaire par 9011 pour les années 1995 et 1996.
+[32] En ce qui concerne Pool Bar, les avances de l'actionnaire de 40 000 $ en 1996 sont également demeurées sans explication sauf la moitié qui provient de l'emprunt à la Caisse Populaire. La vérification a pris en considération cet emprunt de 20 000 $ qu'a fait l'appelant dans les calculs selon la méthode de l'avoir net. Il s'agit de savoir si l'appelant est l'actionnaire en question en ce qui a trait à cette avance. Pour ce qui est de l'avance de 102 348 $ par un particulier, la question qui se pose est de savoir s'il s'agit de l'appelant.
+[33] Il ne fait aucun doute que, selon les témoignages et la documentation déposée, il s'agit d'un cas classique où les écrits et les paroles se contredisent et où les actions des acteurs principaux sont contraires aux engagements convenus. La vérificatrice du dossier a ici choisi d'accepter qu'il y a effectivement eu vente des actions de Pool Bar à l'appelant le 26 septembre 1996 et que ce dernier en avait effectivement la maîtrise et en exerçait la gestion. Elle a conclu également que vu l'absence totale d'information pouvant identifier le particulier qui a avancé 102 348 $ à Pool Bar, il ne pouvait s'agir que de l'appelant.
+[34] Le témoignage de l'appelant n'a apporté absolument aucune lumière sur quelque question que ce soit pouvant permettre une conclusion probable qui soit différente ou qui puisse permettre mon intervention. Les explications qu'il a données étaient incertaines, imprécises et très peu fiables. Il s'est contenté de dire qu'il ne comprenait rien, et sur des questions plus épineuses, il y avait beaucoup d'hésitations.
+[35] Il est vrai que l'information contenue dans les documents déposés avec l'IGIF concernant l'adresse du siège social de Pool Bar et l'identité des administrateurs écarte l'appelant d'une participation dans cette société, mais l'offre d'achat des actions de Pool Bar et le témoignage de Michel Noël nous fournissent une explication acceptable et plausible. On est loin d'avoir fait les choses selon les normes, mais il me paraît probable que l'appelant a effectivement fait l'acquisition des actions de Pool Bar à l'automne 1996 et qu'il en a pris la maîtrise en tant qu'actionnaire unique. Ses comptables ont d'ailleurs préparé les états financiers après cette transaction. Il est évident qu'on a contourné les règles pour s'assurer que le bar puisse continuer ses activités avec les permis nécessaires et que cet état de choses a perduré. Michel Noël et Odile Vallières sont demeurés signataires à la demande de la caisse populaire. Ce qui semble accorder une certaine crédibilité au témoignage de Michel Noël lorsqu'il a témoigné avoir remis les registres de la société Pool Bar à l'appelant, c'est que l'appelant a déclaré qu'il n'avait pas les registres de Pool Bar parce qu'il ont été détruits dans un incendie. Il faut en conclure qu'il les a reçus à un moment donné.
+[36] Somme toute, l'appelant est devenu le seul et unique actionnaire de Pool Bar en septembre 1996. Il en avait la maîtrise et la gestion. Il est, à mon avis, la personne la plus en mesure de connaître les affaires de Pool Bar et de connaître l'identité du particulier qui a fait des avances en 1997. Cette information a été communiquée au cabinet comptable de l'appelant et elle ne peut pas apparaître dans les états financiers par enchantement. L'appelant ne connaît pas l'identité de cette personne et le cabinet comptable n'a pas été appelé à témoigner au procès afin d'apporter des explications. Je ne peux qu'en déduire que ce témoignage n'aurait pas été favorable à l'appelant. Devant cette absence de preuve, il est difficile d'arriver à une conclusion favorable à l'appelant.
+[37] Il s'agit donc d'injections d'argent dans deux sociétés dont l'appelant est l'unique actionnaire et dont la provenance est demeurée inexpliquée. À mon avis, il ne peut s'agir que de revenus non déclarés par l'appelant.
+[38] Cet état de choses démontre que l'appelant a fait une présentation erronée de ses revenus en produisant ses déclarations et les autres renseignements applicables, de sorte que le ministre était justifié d'établir une cotisation après l'expiration de la période normale de nouvelle cotisation. Ces faux énoncés de ses revenus pour les années en litige justifient aussi l'imposition des pénalités en l'espèce. Finalement, la déclaration de revenus de l'appelant pour l'année 1999 a été produite le 30 mai 2000, justifiant ainsi l'imposition d'une pénalité pour production tardive.
+[39] Les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 23e jour de février 2007.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2007CCI107
+N º DU DOSSIER DE LA COUR : 2003-2189(IT)G
+INTITULÉ DE LA CAUSE : Richard Poulin et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 5 février 2007
+MOTIFS DE JUGEMENT PAR : l'honorable juge François Angers
+DATE DU JUGEMENT : le 23 février 2007
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Frédéric Desgagnés
+Avocat de l'intimée :
+Me Nicolas Simard
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom : Me Frédéric Desgagnés
+Cabinet : William Noonan Hickson Noonan
+Ville : Québec (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

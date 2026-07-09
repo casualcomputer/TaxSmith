@@ -1,0 +1,211 @@
+Title: Wilfrid Paquet et Fils Ltée v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28256/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-546-28256-wilfrid-paquet-et-fils-lt-e-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-10-24
+
+# Wilfrid Paquet et Fils Ltée v. M.N.R.
+
+- Citation: 2006 TCC 546
+- Decision date: 2006-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2037, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wilfrid Paquet et Fils Ltée v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-24
+Neutral citation
+2006 TCC 546
+File numbers
+2006-990(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-990(EI)
+BETWEEN:
+WILFRID PAQUET ET FILS LTÉE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 24, 2006, at Québec, Quebec
+Before: The Honourable Deputy Judge S.J. Savoie
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision rendered by the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 24th day of October 2006.
+"S.J. Savoie"
+Savoie D. J.
+Translation certified true
+on this 18th day of July 2007.
+Brian McCordick, Translator
+Citation: 2006TCC546
+Date: 20061024
+Docket: 2006-990(EI)
+BETWEEN:
+WILFRID PAQUET ET FILS LTÉE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D. J.
+[1] This appeal was heard at Québec, Quebec, on August 24, 2006.
+[2] It is an appeal from the decision of the Minister of National Revenue ("the Minister") regarding the insurability of the employment of Michel Paquet and Steeve Paquet ("the workers") while working for the Appellant from January 1, 2004, to June 23, 2005 ("the period in issue").
+[3] On December 16, 2005, the Minister notified the Appellant of his decision that the workers were employed in insurable employment during the period in issue.
+[4] In rendering his decision, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+5. (a) The Appellant incorporated on July 26, 1968. (admitted)
+(b) The Appellant operated a business that traded in, transported and milled pine, spruce and fir lumber. (admitted)
+(c) The Appellant's business operated throughout the year. (admitted)
+(d) The Appellant operated from Monday to noon on Saturday, and the lumber drying kilns operated seven days a week. (admitted)
+(e) The Appellant's main supplier of lumber (80%) was located in the United States. (admitted)
+(f) The Appellant employed 110 employees per year. (admitted)
+(g) At September 30, 2004, the Appellant had done more than $38 million dollars in business for the fiscal year. (admitted)
+(h) The workers have been with the Appellant for several years, and their experience has earned them positions of responsibility. (admitted)
+(i) The Appellant was run by three managers: Roger Paquet and the two workers. (admitted)
+(j) Roger Paquet was in charge of purchasing and finance. (admitted)
+(k) Michel Paquet was in charge of human resource management (except truckers), production, control in the mill, and equipment projects. (admitted)
+(l) Steeve Paquet was in charge of the sale of wood chip residues, the transportation of lumber, the four shipping employees, the two travelling salespeople, and the Québec sales office. (admitted)
+(m) The workers reported to the Appellant with respect to their decisions. (denied)
+(n) The workers had variable schedules during the week. (denied)
+(o) The workers worked at least 55 hours per week. (denied)
+(p) The workers had an annual salary of $48,100 and their gross weekly pay was $925. (admitted)
+(q) The workers received their pay by direct deposit on a regular basis. (admitted)
+(r) Roger Paquet was paid an annual salary of $60,000. (admitted)
+(s) The workers worked at the Appellant's place of business. (admitted)
+(t) The workers worked for the Appellant throughout the year. (admitted)
+(u) The workers went on vacation when the mill closed during the construction holiday. (admitted)
+(v) The workers had no expenses to incur in the performance of their duties. (admitted)
+(w) All the materials and equipment that the workers used belonged to the Appellant, including a pickup truck for which the Appellant paid the expenses. (admitted)
+(x) The workers' work was integrated into the Appellant's activities. (admitted)
+[5] The Appellant and the workers are related within the meaning of the Income Tax Act because
+[TRANSLATION]
+6.(a) The Appellant's only shareholder with voting shares was Placements G.R.W. Paquet Inc. (admitted)
+(b) Placements G.R.W. Paquet Inc. was held by
+9025-5829 Québec Inc. (Roger Paquet) 68.4% of shares
+9082-9839 Québec Inc. (Michel Paquet) 15.8% of shares
+9082-9656 Québec Inc. (Steeve Paquet) 15.8% of shares (admitted)
+(c) Roger Paquet is Michel Paquet and Steeve Paquet's father. (admitted)
+(d) The workers are members of a related group that controls the Appellant. (admitted)
+[6] The Minister also determined that the Appellant was deemed to deal with the workers at arm's length in relation to their employment because he agreed that it was reasonable to conclude that the Appellant and the workers would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, having regard to the following circumstances:
+[TRANSLATION]
+7.(a) The Appellant was an active corporation. (admitted)
+(b) On December 8, 2005, Roger Paquet told a representative of the Respondent that the Appellant and the workers never signed a written employment contract. (admitted)
+(c) On December 8, 2005, Roger Paquet told a representative of the Respondent that the workers' salaries had been determined by the shareholders based on what the Appellant was able to pay, as well as the economic context and the ability to support a family appropriately. (denied)
+(d) An unrelated worker's salary would be based on the same reasoning. (denied)
+(e) The gross weekly remuneration of $925 was reasonable in the opinion of the Appellant's shareholders. (denied)
+(f) The workers' remuneration was reasonable having regard to their role, duties and experience as well as the Appellant's ability to pay. (denied)
+(g) The workers' positions were managerial. (denied)
+(h) It is normal for a manager to have a variable and regular schedule. (denied)
+(i) The workers were entitled to annual vacations. (admitted)
+(j) On December 8, 2005, Roger Paquet told a representative of the Respondent that the three shareholders met monthly to examine the financial statements and discuss important purchases. (denied)
+(k) The Appellant's important decisions were made by the three shareholders, not the workers. (admitted)
+(l) The workers never lent the Appellant any money. (admitted)
+(m) The workers were not personally liable for the Appellant's lines of credit. (admitted)
+(n) The workers ran no financial risks in working for the Appellant. (denied)
+(o) In keeping with the Appellant's needs, the workers provided services throughout the year. (admitted)
+(p) The workers' functions were necessary and essential to the smooth operation of the Appellant's business. (admitted)
+(q) the terms and conditions, duration, nature and importance of the workers' work were reasonable. (denied)
+[7] The Appellant called its accountant Yves Paulin, C.G.A., as a witness, along with Roger Paquet, the Appellant's majority shareholder; his son, the worker Steeve Paquet, who holds 15.8% of the Appellant's shares; and his brother Michel Paquet, the other worker, who also owns 15.8% of the Appellant's shares. Following a discussion between the parties, it was agreed that Michel Paquet's testimony would be similar to his brother's and would therefore be superfluous.
+[8] The evidence discloses that Wilfrid Paquet purchased a sawmill in 1956. At the time, the sawmill was located very close to Route 173, very close to the U.S. border, and Wilfrid Paquet employed four people and produced 500,000 feet of lumber per year.
+[9] In 1962, Wilfrid Paquet, wishing to expand his business, purchased a small lumber mill located at the intersection of Routes 173 and 269 in Armstrong (a town that was later renamed St-Théophile). The business is located there today.
+[10] In 1968, Wilfrid Paquet incorporated his company under the name WILFRID PAQUET & FILS with his three sons Raymond, Roger and Gérard as his associates. The business specialized in the harvesting of hardwood lumber at the time.
+[11] In 1984, Roger Paquet and his sons Raymond and Gérard had a second mill built, and opened INDUSTRIES PAQUET, a subsidiary of WILFRID PAQUET & FILS that specialized in the harvesting of spruce and fir, leaving pine-related operations to WILFRID PAQUET & FILS.
+[12] The business now operates on 80 acres of land. The site comprises two sawmills, a planer, a residue boiler, ten compartment kilns, and three warehouses for the dry pine, and there are five trucks on the road.
+Background
+[13] In 1997, a consultant suggested methods to ensure that the business would be able to change guard smoothly. Roger Paquet had been concerned about the succession issue for three years. Both of Roger Paquet's sons grew up in the business and expressed an interest in pursuing it as a career. The matter was studied for three years until 1999, when the workers became shareholders upon purchasing Gérard Paquet's shares. The workers had been introduced to the Appellant's operations when they were still young. Steeve Paquet began to work there in 1987 and his brother Michel began to work there in 1993. They were involved in every aspect of the business and became familiar with the operations of the mill and of the business in general.
+[14] Roger Paquet testified that he would already have sold the business if it had not been for the two workers and their involvement in it.
+[15] After implementing the plans for the intergenerational transfer of the business from an operational, management and long-term planning perspective, the Appellant made some major capital asset purchases. From 2000 to 2005, $6,848,673 worth of assets were purchased. It was established that both workers were fully involved in the decisions leading up to this major expansion, in which significant investments were made in order to purchase kilns, automatic graders, grader rooms and several trucks, among other assets. The evidence discloses that this major expansion was an initiative of the workers, who planned it and carried it out.
+[16] The Appellant wanted to show how the workers had been an integral part of the management of the business since 1999, but it also wanted to point out that they will be playing an even more decisive role effective October 1, 2006, when each of them will own 33⅓% of the shares, like their father Roger Paquet. In order to illustrate the foregoing, the Appellant produced Exhibit A‑3, reproduced below, at the hearing:
+[TRANSLATION]
+GROUPE PAQUET
+VS
+STEEVE PAQUET and MICHEL PAQUET
+Oct. 1, 1999 9082-9839 Québec Inc., 100% of which is controlled by Michel Paquet, purchases 15.8% of the shares of Groupe Paquet for $312,500.
+9082-9656 Québec Inc. 100% of which is controlled by Steeve Paquet, purchases 15.8% of the shares of Groupe Paquet for $312,500.
+2002-2005 $6,848,673 in capital investments.
+2003-2005 Planning of corporate reorganization for the purpose of raising Michel Paquet and Steeve Paquet's holdings to 33⅓% each.
+2006 Corporate reorganization in progress in order to increase Steeve and Michel Paquet's share ownership as of October 1, 2006. Following the reorganization, the common share capital at October 1, 2006, will be allocated as follows:
+9025-9829 Québec Inc. (Roger-father) 33⅓%
+9082-9656 Québec Inc. (Steeve-son) 33⅓%
+9082-9839 Québec Inc. (Michel-son) 33⅓%
+100%
+[17] It was established that the workers did not report to the Appellant. The evidence also disclosed that the workers had no fixed schedule, and that they worked an average of 65 hours a week. Moreover, the workers were on call 24 hours a day, 7 days a week, for emergencies. These emergencies, such as problems with kilns which were in operation 24 hours a day, and problems related to trucks or customs, could require a half-hour to four hours of additional work each week.
+[18] The Appellant has proven that the workers' salaries were determined by the shareholders, including the workers, who were concerned about the financial health of the business and were content to be paid a salary lower than the industry norm, having regard to the number of hours devoted to their duties and their responsibilities in the business. In addition, the evidence has established beyond a doubt that the Appellant could have paid the workers a higher salary, having posted a net profit of $832,967 in 2004.
+[19] The Appellant submitted Exhibit A-8, a document regarding average salaries in Quebec, in support of his claim that the workers' salaries were below the industry norm. Citing research at the University of Liverpool, the document states that a sales manager in Montréal, Quebec earned $66,056 to $115,335. At the hearing, Steeve Paquet stated that a sales director in the Beauce region would have earned a salary in excess of $100,000 per year.
+[20] The Minister adduced no evidence at the hearing other than the investigators' report, but he expressed serious doubts about the accuracy of the information contained in Exhibit A‑8. Nevertheless, the Appellant proved that the salary paid to the workers is well below the level of people who work in the same field under similar circumstances. This Court is of the opinion that the workers have proven that they made sacrifices for the family business by working long hours for a salary well below the industry average. It was also proven that they were destined to take over the family business and that much of this takeover had already occurred.
+[21] The evidence establishes, on a balance of probabilities, that Roger Paquet manages the business along with the two workers, who, for their part, are involved in all purchasing and sales projects. A single signature of any of those three people is enough to bind the business. It must be noted that the Appellant's controller is not an authorized signatory even though he is a member of the board of directors. The evidence discloses that the Appellant's purchases can amount to roughly $500,000 a week.
+[22] The business has a line of credit of roughly $6,000,000, which is guaranteed by Roger Paquet as well as the assets and inventory of the business and its accounts receivable. The Appellant argued that Roger Paquet's guarantee is essentially symbolic because the assets of the business, especially the lumber and other inventory, would be sufficient to cover the debt since they are in great demand. The workers did not lend any money to the business, nor did they guarantee the line of credit. It was determined that their personal guarantee was unnecessary.
+[23] Roger Paquet is the majority shareholder of the business but has never exercised his veto power at board meetings. At the hearing, he stated that the decisions at the quarterly board meetings are a three-person affair. The day-to-day and operational decisions are also made by the three people, or by the workers only.
+[24] In order to illustrate the workers' total freedom of action, Roger Paquet said that he never makes any purchases for the business without talking to the workers. He added that he devotes only 50% of his time to the Appellant's business. He takes leave more and more frequently and draws less income from the Appellant than the others. He specified that the workers' management decisions are more important than his own.
+[25] The evidence discloses that the workers would refuse to work for a salary equal to their current one if they were not shareholders of a family business and were not destined to take over that business in the short term.
+[26] The Appellant has persuasively argued that a stranger at arm's length would never work under the same conditions as the workers. While the workers get two weeks' vacation a year, they must always have their cell phones with them in the event of an emergency.
+[27] The Appellant acknowledges Roger Paquet's majority shareholder status and legal power. However, while all the Appellant's witnesses acknowledged his legal power, they stated that the facts on the ground are different. Roger Paquet never exercised his veto power on the board or in the day-to-day operations of the business. He himself stated that he never exercised it, and that he would discuss any such situation with the workers if it arose. He added that the workers already had total freedom of action in every aspect of the business, and he specified that despite his status, he would make no purchases without talking to the workers, and that the workers often made the decisions that were more important to the business than his.
+[28] What, then, is in dispute here? First of all, the Minister determined that the workers held insurable employment within the meaning of paragraph 5(1)(a) of the Act. In addition, the Minister determined that, despite the non arm's length dealings between the workers and the Appellant, their employment was not excluded under paragraph 5(2)(i) of the Act because the Appellant was deemed to deal with the workers at arm's length under paragraph 5(3)(b) of the Act and the Minister was satisfied that it was reasonable to conclude, having regard to all the circumstances, that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[29] Counsel for the Respondent submits that this Court, like the Minister, should find that the workers' jobs were insurable. In support of this submission, she argues that despite all the freedom and authority that they were granted in the performance of their duties, and despite their position within the business, they were still subject to the power of the board of directors, on which they sat as minority shareholders and directors, and were under the de jure power of that board, on which Roger Paquet sat as the majority shareholder.
+[30] For his part, counsel for the Appellant submits that the complete absence of a relationship of subordination, an important element of a contract of service under the Act and the most important element of the concept of an employment contract under the Civil Code of Québec, has the effect of excluding the workers' employments from insurable employment under paragraph 5(1)(a) of the Act and from the concept of "contract of employment" within the meaning of article 2085 of the Civil Code of Québec.
+[31] Having found, based on the evidence, that the relationship between the parties appears more likely to constitute insurable employment than not, this Court, like the Minister, must conduct a more thorough analysis and determine whether the employments are excluded under paragraph 5(2)(i) of the Act by reason of the non arm's length dealing.
+[32] I reproduce the relevant portion of the Act below:
+INSURABLE EMPLOYMENT
+5(2) Insurable employment does not include
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+5(3) For the purposes of paragraph (2)(i),
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[33] The circumstances set out in paragraph 5(3)(b) should be examined in light of the evidence adduced at the hearing.
+Remuneration paid
+[34] It has been established that the workers' salaries were set at $48,000 per year. The Appellant's case aims to show that, given their duties, their responsibilities and the number of hours that they worked, this amount was markedly lower than the industry norm. The Appellant produced Exhibit A‑8 in support of its claim that the average salary in the industry for similar employment would be roughly $78,724. As for the worker Steeve Paquet, he argues that a sales director in the Beauce region would earn more than $100,000 per year. It was also established that the Appellant could have paid the workers a much higher salary during the period in issue given the net profits that it earned. In addition, the worker Steeve Paquet argued that he would not work for a salary of $48,000 per year if he were at arm's length from the business and were not destined to take it over.
+Terms and conditions and duration of employment
+[35] The workers have been working for the Appellant since 1987 and 1993, respectively. They do not count their hours. Each of them works at least 65 hours per week, plus emergencies, which can account for four or five additional hours per week. They each take two weeks of annual paid vacation, but must have their cellular phones on them at all times in case of an emergency. They must always be available to respond to emergencies, which arise frequently. They have the benefit of a company vehicle, but the vehicle is also a work instrument for them. They both work full‑time.
+Nature and importance of work performed
+[36] Among other things, Michel Paquet was responsible for the management of the human resources (other than truckers) in the business, and for production, control in the mill, and equipment projects. As for Steeve Paquet, he was responsible for the sale of wood chip residues, the transportation of lumber, the four shipping employees, the two travelling salespeople, and the Québec sales office. Both of them enjoyed total autonomy in the performance of their duties and did not report to anyone. The workers are the next generation of the business. They make all the decisions as would a chief executive officer. Their work is essential to the Appellant's business. Without them, the majority shareholder would undoubtedly already have sold his business.
+[37] The question that must be asked is as follows: Would a stranger have worked as the workers did for a salary that is considerably below the industry average? Would that stranger have worked as much unpaid overtime without adequate time off? Without repeating all the terms and conditions of the workers' employment, we must examine this determination by the Minister and ask whether it is reasonable to conclude that the Appellant and the workers would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[38] Having closely examined all the circumstances surrounding the workers' employment as mandated by paragraph 5(3)(b) of the Act, this Court finds that the facts do not support such a conclusion.
+[39] In Légaré v. Canada (Minister of National Revenue – M.N.R.), [1999] F.C.J. No. 878, the Federal Court of Appeal set out the principles that must be applied in order to solve the problem faced by this Court:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[40] The Appellant bore the burden of proof — that is to say, the burden of proving that the Minister's presumptions of fact are wrong. The Appellant has discharged this burden in many ways.
+[41] In view of the evidence, this Court must find that the facts inferred or relied on by the Minister are not real and were not correctly assessed having regard to the context in which they occurred. The determination that must be made based on the evidence adduced at the hearing is that the conclusion with which the Minister was "satisfied" does not still seem reasonable.
+[42] Consequently, the appeal is allowed and the decision rendered by the Minister is vacated.
+Signed at Grand-Barachois, New Brunswick, this 24th day of October 2006.
+"S.J. Savoie"
+Savoie D. J.
+Translation certified true
+on this 18th day of July 2007.
+Brian McCordick, Translator
+CITATION: 2006TCC546
+COURT FILE NO.: 2006-990(EI)
+STYLE OF CAUSE: WILFRID PAQUET ET FILS LTÉE AND M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: August 24, 2006
+REASONS FOR JUDGMENT BY: The Honourable Deputy Judge S.J. Savoie
+DATE OF JUDGMENT: October 24, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jérôme Carrier
+Firm: Jérôme Carrier, attorney
+Lévis, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

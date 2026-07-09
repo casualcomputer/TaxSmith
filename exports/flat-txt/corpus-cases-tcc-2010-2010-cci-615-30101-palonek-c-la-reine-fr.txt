@@ -1,0 +1,260 @@
+Title: Palonek c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30101/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-615-30101-palonek-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-12-01
+
+# Palonek c. La Reine
+
+- Citation: 2010 CCI 615
+- Decision date: 2010-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7647, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Palonek c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-12-01
+Référence neutre
+2010 CCI 615
+Numéro de dossier
+2007-3798(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007‑3798(IT)G
+ENTRE :
+EDWARD PALONEK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appels entendus les 10 et 11 juin 2010 et le 18 octobre 2010, à Hamilton (Ontario)
+Devant : L'honorable juge Diane Campbell
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocats de l'intimée :
+Me John Grant
+Me Brent E. Cuddy
+__________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000 et 2001 sont rejetés conformément aux motifs du jugement ci‑joints.
+Les parties ont 45 jours à compter de la date des motifs pour soumettre des observations écrites au sujet des dépens.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2010.
+« Diane Campbell »
+Le juge Campbell
+Traduction certifiée conforme
+ce 26e jour de janvier 2011.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 615
+Date : 20101201
+Dossier : 2007‑3798(IT)G
+ENTRE :
+EDWARD PALONEK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Campbell
+[1] Les présents appels concernent plusieurs années d'imposition, soit les années 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000 et 2001, au cours desquelles l'appelant a déduit les montants suivants à titre de pension alimentaire :
+Année
+Montant déduit à titre de pension alimentaire
+1993
+18 670 $
+1994
+22 179 $
+1995
+23 190 $
+1996
+70 769 $
+1997
+126 053 $
+1998
+116 810 $
+1999
+85 454 $
+2000
+100 536 $
+2001
+88 485 $
+Le ministre du Revenu national (le « ministre ») a refusé tous les montants demandés par l'appelant.
+[2] L'appelant et son épouse, Angela Palonek, se sont séparés le 1er novembre 1992. Ils ont conclu le 30 septembre 1993 une entente de séparation (l'« entente ») aux termes de laquelle l'appelant s'engageait à verser une pension alimentaire de 2 500 $ par mois, soit 500 $ par mois pour son ex‑conjointe pendant dix ans, et 1 000 $ par mois pour chacun des deux enfants. L'appelant allègue par ailleurs qu'il a effectué des paiements à titre gracieux pour les enfants conformément à l'entente.
+[3] Le 20 juin 2002 ou vers cette date (avis d'appel modifié, paragraphe C(8)), l'appelant a conclu une entente de divulgation volontaire avec l'Agence du revenu du Canada (l'« ARC ») et, le 12 août 2002, il a produit ses déclarations de revenus pour les années d'imposition 1993 à 2001. Dans les déclarations de revenus en question, il a, conformément aux modalités de l'entente, déduit la pension alimentaire ainsi que les paiements à titre gracieux.
+[4] L'appelant allègue que, conformément à l'entente, il a versé la pension alimentaire et les paiements à titre gracieux à son ex‑conjointe et précise qu'il a lui‑même effectué entre 20 p. 100 et 30 p. 100 de ces paiements et qu'entre 70 p. 100 et 80 p. 100 de ces paiements avaient été effectués pour son compte par l'entremise de diverses personnes morales et d'une fiducie familiale. Il a soutenu que ces paiements étaient périodiques et qu'ils ne changeaient pas de nature lorsqu'il demandait que des tiers les fassent. Il ajoute que les paiements effectués par l'entremise de tiers ont été comptabilisés à titre de revenus dans ses déclarations de revenus pour les années d'imposition en question. L'appelant allègue aussi que son ex‑conjointe avait, dans ses déclarations de revenus précédentes, déclaré à titre de revenu la pension alimentaire qu'il lui avait versée. Il a par conséquent soutenu que ces déductions devaient lui être accordées. À l'audience, l'appelant a abandonné le moyen fondé sur la Charte canadienne des droits et libertés qu'il avait initialement invoqué dans son avis d'appel modifié.
+[5] La thèse de l'intimée est que l'appelant n'a jamais versé de pension alimentaire à son ex‑conjointe et que, s'il a versé quelque montant à Angela Palonek, il ne s'agissait pas d'une pension alimentaire au sens du paragraphe 56.1(4) de la Loi de l'impôt sur le revenu (la « Loi »). L'intimée ajoute que l'argent qu'Angela Palonek a reçu de personnes morales tierces ne constituait pas une pension alimentaire versée conformément aux modalités de l'entente. L'appelant n'a pas effectué au cours des années d'imposition en question les paiements à titre gracieux dont il a demandé la déduction et, s'il a effectué de tels paiements, il ne s'agissait pas d'une pension alimentaire qui peut être déduite parce que l'appelant n'était pas légalement tenu de faire ces paiements.
+[6] La question en litige est celle de savoir si l'appelant peut déduire la pension alimentaire et les paiements à titre gracieux en question. Pour trancher cette question, il faut répondre aux quatre sous‑questions suivantes :
+1. L'appelant a‑t‑il vraiment effectué ces paiements, directement ou par l'intermédiaire de tiers?
+2. Si l'appelant a effectué ces paiements de pension alimentaire, les paiements qui ont été faits par l'intermédiaire de tiers sont‑ils déductibles?
+3. Si l'appelant a effectué les paiements à titre gracieux, ces paiements sont‑ils déductibles en tant que paiements de pension alimentaire?
+4. Le ministre a‑t‑il établi des cotisations incompatibles à l'égard de l'appelant et de son ex‑conjointe?
+[7] L'entente de l'appelant, qui remonte à 1993, est antérieure aux modifications légales de mai 1997 rendues nécessaires par l'arrêt Thibaudeau c. Canada, [1995] 2 R.C.S. 627, de la Cour suprême du Canada. À la suite de ces modifications, le payeur ne pouvait plus demander de déduction pour de tels paiements et le bénéficiaire n'avait pas à déclarer ces paiements en tant que montants imposables. Avant ces modifications, la Loi autorisait la déduction de la pension alimentaire versée par le payeur aux termes d'une ordonnance judiciaire ou d'un accord écrit, alors que le bénéficiaire était pour sa part tenu d'inclure ces paiements dans ses revenus en tant que montants imposables. C'est ce qu'on appelle parfois le régime d'inclusion‑exclusion antérieur à 1997. À condition qu'aucune ordonnance judiciaire n'ait été rendue et qu'aucune entente écrite n'ait été conclue depuis, ce traitement fiscal continue à s'appliquer aux paiements effectués après les modifications de 1997.
+[8] L'expression « pension alimentaire » est définie comme suit au paragraphe 56.1(4) de la Loi :
+56.1(4) Définitions
+[...]
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex‑époux ou l'ancien conjoint de fait du payeur et vit séparé de celui‑ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est légalement le père ou la mère d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+[9] L'alinéa 60b) de la Loi permet la déduction d'un montant de pension alimentaire. Bien que cette disposition ait été révisée à deux reprises au cours des années visées par le présent appel, ces révisions n'ont pas eu d'incidence sur la déductibilité des montants en litige dans le présent appel. L'alinéa 60b) dispose :
+60. Autres déductions
+[...]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A ‑ (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l'année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d'imposition antérieure;
+[10] Le paragraphe 60.1(1) et son pendant, le paragraphe 56.1(1), prévoient que les paiements de pension alimentaire effectués à un tiers au profit d'un conjoint, d'un enfant ou des deux, pour qui une pension alimentaire est payable, sont par ailleurs réputés déductibles pour l'application de l'alinéa 60b).
+[11] L'entente de 1993 (pièce R‑1, onglet 5) renferme plusieurs dispositions qui nous intéressent particulièrement en l'espèce. Les dispositions pertinentes des articles 9 et 10 de l'entente sont ainsi libellées :
+[TRADUCTION]
+9. PENSION ALIMENTAIRE POUR LE CONJOINT :
+a) L'époux versera à l'épouse, le 23 septembre 1993, et le 23e jour de chaque mois par la suite, pour une période de dix ans, une pension alimentaire au sens de la Loi de l'impôt sur le revenu (Canada) de 500 $ par mois jusqu'à la survenance de l'un ou l'autre des événements suivants :
+[...]
+10. PENSION ALIMENTAIRE POUR LES ENFANTS :
+a) L'époux versera à l'épouse, le 23 septembre 1993, et le 23e jour de chaque mois par la suite, par anticipation, 1 000 $ à titre de pension alimentaire pour chacun des enfants (soit un total de 2 000 $ chaque mois), jusqu'à la survenance de l'un ou l'autre des événements suivants :
+(i) l'enfant cesse d'habiter à plein temps avec l'épouse. Est considéré comme habitant à plein temps avec l'épouse l'enfant qui se trouve à l'extérieur de la maison afin de fréquenter un établissement d'enseignement, qui est en vacances ou qui se trouve à un endroit où il exerce un travail d'été, mais qui continue à habiter chez l'épouse;
+(ii) l'enfant atteint l'âge de 18 ans et cesse de fréquenter à temps plein un établissement d'enseignement;
+(iii) l'enfant atteint l'âge de 21 ans;
+(iv) l'enfant se marie;
+(v) l'épouse décède;
+(vi) l'enfant décède.
+b) Dès la signature de la présente entente, l'époux remet à l'épouse une série de 12 chèques postdatés, portant chacun la date du 23e jour du mois, du 23 septembre 1993 au 23 août 1994 inclusivement, pour les montants payables à l'épouse conformément à la présente entente, et par la suite chaque année, au plus tard le 23 septembre de chaque année, l'époux remet à l'épouse une autre série de 12 chèques postdatés pour les 12 mois suivants, et ainsi de suite tant qu'il est tenu d'effectuer de tels paiements à l'épouse.
+c) L'époux et l'épouse se chargent du paiement de toutes les dépenses quotidiennes pour les enfants, notamment celles relatives aux aliments, aux vêtements, au logement, aux divertissements et aux vacances, lorsque les enfants sont sous la garde de ce parent.
+d) L'épouse reçoit les allocations familiales pour les enfants libres de toute réclamation par l'époux.
+e) Chaque parent participe de façon proportionnelle à ses revenus aux autres dépenses liées aux enfants, notamment celles relatives aux frais de garderie, aux activités parascolaires, aux cours, aux loisirs et à l'équipement. L'époux et l'épouse discutent et s'entendent à l'avance au sujet des dépenses ainsi consacrées aux enfants.
+f) L'épouse reconnaît par la présente que toutes les sommes que l'époux lui verse pour elle‑même ou pour les enfants sont, en date du 23 juin 1993, conformément à l'entente confirmative du 24 septembre 1993 ci‑jointe à titre d'annexe A, des dépenses déductibles de l'époux, au sens de la Loi de l'impôt sur le revenu, et que ces sommes comprennent notamment les prestations prévues aux articles 9 à 11 inclusivement.
+[12] Les deux paragraphes qui forment le corps de l'entente confirmative mentionnée à l'alinéa 10f) précité prévoient ce qui suit :
+[TRADUCTION]
+Qu'Edward Palonek déduit de ses revenus imposables totaux tous les paiements (c.‑à‑d. les paiements fixes de 2 500 $ et les paiements à titre gracieux) effectués à compter du 23 juin 1993.
+Il est de plus convenu qu'Angie Palonek déclarera à titre de revenus imposables les sommes, les prestations et les paiements susmentionnés reçus à compter du 23 juin 1993 d'Edward Palonek et qu'à compter de cette date, toute somme, toute prestation et tout paiement à venir sera déclaré et considéré comme un revenu imposable entre les mains d'Angie Palonek. Edward Palonek convient de payer à Angie Palonek, le 30 avril 1994 ou vers cette date, une somme supplémentaire d'au plus 1 000 $ à appliquer à l'impôt sur le revenu qu'Angie Palonek doit payer pour l'année civile 1993.
+[13] Outre le témoignage de l'appelant, j'ai entendu celui d'Angela Palonek, l'ex‑épouse de l'appelant, et celui de Stephen Griffiths, le vérificateur de l'ARC qui s'est occupé des redressements des T‑1 de l'appelant pour les années visées par le présent appel. Ces deux témoins étaient présents à l'audience à la demande de l'appelant. Monsieur Griffiths n'a pas apporté beaucoup d'éclaircissements en ce qui concerne les points litigieux soumis à la Cour, s'attardant sur les aspects commerciaux des déclarations produites et non sur les montants de la pension alimentaire. Il a expliqué qu'il avait vu que ces montants étaient mentionnés dans les déclarations de revenus, mais que les déductions avaient été refusées par le Ministère, à Ottawa, et non par lui‑même.
+[14] Angela Palonek a déclaré qu'elle ne voulait pas participer à l'audience et qu'elle ignorait pourquoi M. Palonek l'avait assignée à comparaître. À l'instar de l'appelant, elle s'est montrée à l'occasion vague, exaspérée et évasive. De plus, son témoignage renfermait des contradictions. J'hésite donc à accorder beaucoup de poids à ce qu'elle a déclaré devant moi. Si l'appelant a fait témoigner son ex‑épouse pour lui faire confirmer qu'elle avait bien reçu les montants en question à titre de pension alimentaire, il est évident qu'il n'a pas réussi. Madame Palonek a continué à répugner à confirmer qu'elle avait reçu une pension alimentaire au cours des années d'imposition en question et, chose étonnante, elle a déclaré que l'appelant et elle s'étaient en fait réconciliés en 1994 après que l'entente eut été signée et que l'appelant lui avait expliqué comment remplir ses déclarations de revenus pour certaines des années d'imposition en question pour lesquelles elle avait déclaré une pension alimentaire alors qu'ils habitaient ensemble.
+[15] Elle a expliqué que les déclarations de revenus de l'appelant étaient inexactes et, aux pages 186 à 188 de la transcription, on trouve l'échange suivant entre l'appelant et Mme Palonek :
+[TRADUCTION]
+Q. Bon, si je peux revenir sur ce que vous avez déjà dit dans votre témoignage, vous avez dit que vous estimiez que mes déclarations n'étaient pas exactes.
+R. Je savais qu'elles n'étaient pas exactes.
+Q. Vous saviez qu'elles n'étaient pas exactes. Pouvez‑vous me dire pourquoi elles n'étaient pas exactes?
+R. Voulez‑vous vraiment que je réponde à cette question?
+Q. En ce qui concerne les déductions que j'ai demandées, pour les enfants et la conjointe?
+R. Est‑ce que je peux répondre à la question, Madame le juge?
+LE JUGE CAMPBELL : Allez‑y.
+LE TÉMOIN : Je savais que vos chiffres étaient inexacts en ce qui concerne l'impôt sur le revenu parce que je savais que vous sortiez de l'argent du Canada et que vous le cachiez.
+M. PALONEK : Madame le juge, pouvez‑vous lui dire d'arrêter?
+LE TÉMOIN : Vous m'avez demandé pourquoi j'étais au courant. Voilà la raison pour laquelle je le savais.
+LE JUGE CAMPBELL : Essayez d'expliquer en quoi cela a un lien avec la pension alimentaire, parce que c'est la seule question que je suis appelée à trancher, Mme Palonek.
+LE TÉMOIN : Je comprends, Madame le juge, mais nous habitions ensemble. Je travaillais avec mon mari. Je l'ai aidé à construire une entreprise. J'ai fait l'erreur stupide de lui donner des cartes de crédit pour l'aider à cause de sa faillite. J'étais au courant de cela. Je crois qu'il se sabote lui‑même en me forçant à être ici aujourd'hui parce que je ne veux pas être ici. C'est la raison pour laquelle je savais qu'ils étaient inexacts : je savais que les chiffres indiqués dans les déclarations de revenus étaient incorrects. Je savais combien d'argent entrait chez nous. Je savais que les chiffres étaient inexacts, mais j'avais le choix entre avoir raison ou être heureuse. J'ai choisi d'être heureuse et de m'assurer que les enfants venaient en premier. Voilà, c'est tout.
+(Transcription, 10 juin 2010, de la page 186, ligne 23, à la page 188, ligne 13)
+[16] Madame Palonek a d'abord admis qu'elle avait peut‑être reçu quelques paiements de pension alimentaire comme en témoignent certaines de ses déclarations de revenus pour les années d'imposition en question. Toutefois, plus tard dans son témoignage, elle s'est rétractée, affirmant même ignorer la provenance ou la raison d'être de ces montants. De plus, elle a par la suite admis qu'elle n'avait pas présenté avec exactitude les montants ainsi déclarés. L'échange qui suit a eu lieu après que l'appelant eut interrogé Mme Palonek au sujet de la pension alimentaire de 30 000 $ qu'elle avait déclarée dans sa déclaration de revenus de 1996 :
+[TRADUCTION]
+Q. Pouvez‑vous dire à la Cour d'où provenait cette pension alimentaire?
+R. Vous me l'auriez donnée.
+Q. Pourquoi croyez‑vous que vous aviez droit à cette somme?
+R. Je ne croyais pas que j'avais droit à cette pension alimentaire cette année‑là.
+Q. Vous avez donc présenté les faits de manière erronée à l'ARC, à l'Agence du revenu du Canada?
+R. Je crois que le chiffre aurait dû être de zéro pour les paiements de pension alimentaire, mais nous avons convenu tous les deux à l'époque que je les déclarerais encore une autre année parce que vous aviez peur de faire faillite.
+(Transcription, 11 juin 2010, page 256, lignes 9 à 21)
+[17] En réponse aux questions qui lui ont été posées au sujet des chèques et des virements télégraphiques effectués par certains tiers, elle a expliqué qu'au cours de certaines des années en cause, elle travaillait pour l'une des personnes morales tierces et que les chèques pouvaient se rapporter aux activités commerciales que l'appelant et elle avaient exercées après 1993, de sorte qu'il ne s'agissait pas d'une pension alimentaire. Elle a également signalé que la plupart des chèques sur lesquels l'appelant a attiré son attention lors de son témoignage étaient payables non pas à elle, mais au porteur, et que l'appelant avait omis de soumettre l'endos des chèques dans ses documents, qui étaient nécessaires pour connaître l'endosseur.
+[18] Madame Palonek a également expliqué qu'elle recevait rarement des chèques de l'appelant et que des montants dont la provenance était inconnue et qui ont été présentés comme des montants de pension alimentaire avaient tout simplement apparu dans son compte. Aux pages 268 et 269 de la transcription, elle a répondu aux questions posées au sujet des montants déposés dans son compte :
+[TRADUCTION]
+Q. Ainsi, vous ne savez pas si c'est M. Palonek ou une personne morale qui a versé ces fonds dans votre compte?
+R. Non, je ne le sais pas. J'ignore d'où provenait l'argent et, souvent, vous savez, Edward rentrait à la maison et disait d'accord, j'ai déposé de l'argent dans ton compte pour payer les factures, le loyer, etc., mais je ne voyais jamais de chèque comme tel. Je n'ai jamais tenu de chèque entre les mains. La plupart du temps, je ne voyais rien.
+(Transcription, 11 juin 2010, de la page 268, ligne 18, à la page 269, ligne 2)
+[19] Les tentatives qu'a faites l'appelant pour interroger Mme Palonek au sujet des paiements de pension alimentaire qu'il affirmait avoir effectués pour son compte en réglant les soldes des cartes de crédit de Mme Palonek ont également échoué, parce que cette dernière a affirmé que ces cartes avaient été délivrées à son nom à la suite de la faillite de l'appelant en 1993 et qu'elle lui avait fourni des cartes supplémentaires. Elle affirmait que ces cartes étaient utilisées pour une foule de raisons, et notamment pour payer des dettes personnelles, pour faire des paiements pour le compte de la soeur handicapée de l'appelant, pour payer les vacances familiales et pour payer des dépenses liées à l'entreprise, et elle a ajouté que les paiements effectués avec ces cartes se rapportaient à ces dépenses particulières.
+[20] Malgré le fait que l'intimée et la Cour lui ont accordé amplement l'occasion de le faire, l'appelant n'a jamais donné de détails ou de précisions pour expliquer comment, quand, où et pourquoi les présumés paiements de pension alimentaire avaient été versés soit par lui‑même directement, soit, sur son ordre, par les personnes morales tierces. Il s'en est tenu à des généralités et m'a donné l'impression qu'il devrait suffire pour lui accorder la déduction qu'il réclame que l'entente renfermait des dispositions l'obligeant à verser une pension alimentaire. Ses réponses en contre‑interrogatoire, délibérément évasives, étaient données avec une attitude antagoniste.
+[21] Le témoignage de l'appelant était parsemé de tentatives d'éviter de répondre aux questions précises qui lui étaient posées :
+[TRADUCTION]
+Q. Y a‑t‑il de l'argent qui est directement payé par vous? Un compte bancaire que vous possédez directement ou dont vous êtes le titulaire? Y a‑t‑il quelque part une preuve dans ces documents?
+R. C'est possible, mais il me faudrait peut‑être une heure pour les retrouver, si vous me demandiez de le faire tout de suite. [...]
+(Transcription, 18 octobre 2010, page 51, lignes 16 à 22)
+Q. [...] Je cherche simplement les documents que vous avez en mains et qui ont été présentés en preuve et qui vous permettraient de dire : « Voilà qui confirme que j'ai payé 20 p. 100 ou 30 p. 100 » du montant que vous avez déjà chiffré à plus de 640 000 $. Je ne cherche donc pas seulement un chèque de 2 000 $ provenant d'une fiducie familiale. Je cherche à obtenir une preuve de vous.
+R. Comme je l'ai dit, il y a un annuaire téléphonique dans ce recueil. Je crois que c'est la pièce A‑6.
+LE JUGE CAMPBELL : On va les examiner. On va vous accorder un moment. Il vous demande s'il se trouve dans les pièces quelque chose qui le confirme. C'est vous qui avancez le chiffre de 20 p. 100, alors il vous demande de justifier ce chiffre.
+LE TÉMOIN : Je comprends, mais je doute qu'on le trouve dans ces documents. Ces documents ne visent pas à confirmer ce chiffre de 20 p. 100. Ce n'est pas ici, je ne le crois pas. Mais peut‑être que ça l'est.
+(Transcription, 18 octobre 2010, de la page 52, ligne 8, à la page 53, ligne 2)
+Q. [...] quelles sont les personnes morales ou les fiducies qui vous devaient à l'époque de l'argent pour vos services de consultation, si je comprends bien les explications que vous avez données plus tôt aujourd'hui?
+R. Elles me devaient toutes de l'argent, je crois. C'était dans les premières années. La société Rothwell Corporation n'existait plus, je crois, depuis un certain temps.
+Q. Vous avez réclamé tout l'argent qui vous était dû en tant que consultant?
+R. Vous me posez la question ou vous me l'affirmez?
+Q. Je vous pose la question.
+R. J'ai dit que je n'étais pas sûr s'il s'agissait de revenus de consultation ou d'un revenu d'emploi. C'est ce qui apparaît dans les déclarations de revenus.
+(Transcription, 18 octobre 2010, de la page 59, ligne 17, à la page 60, ligne 6)
+Q. Par conséquent, les quatre personnes morales ou fiducies en question vous devaient toutes des honoraires de consultation, et vous avez ensuite fait en sorte qu'elles versent toutes des sommes d'argent qui, dans votre esprit, constituaient une pension alimentaire. Ai‑je bien compris?
+R. Oui. Comme je l'ai dit, nous n'avons pas décidé si j'étais un employé d'une des sociétés ou un consultant, mais elles m'ont versé des honoraires d'une manière ou d'une autre. C'est ce que vous venez de dire.
+Q. Je ne veux pas que vous changiez vos réponses, Monsieur, et si vous voulez les changer, je veux bien les comprendre. Si vous n'étiez pas un consultant auprès de toutes ces sociétés, comme vous venez d'y faire allusion, alors j'ai de la difficulté avec le témoignage que vous avez donné plus tôt aujourd'hui et celui que vous venez de donner suivant lequel vous avez offert des services de consultation à ces personnes morales et fiducies et avez fait en sorte qu'elles versent à votre épouse des montants que vous croyez être une pension alimentaire. Quelle version est la bonne?
+R. J'ai également dit — pour répondre à votre question, et je suis tout à fait cohérent — que j'avais peut‑être été à un certain moment un employé de Found Money Inc., de sorte qu'il s'agit soit de revenus de consultation, soit de revenus d'emploi. Je ne sais pas duquel des deux il s'agit.
+(Transcription, 18 octobre 2010, de la page 61, ligne 3, à la page 62, ligne 2)
+[22] Je me retrouve en fin de compte avec plus de questions qu'à l'ouverture de l'audience. Certes, l'appelant a comparu en personne, mais il lui suffisait de présenter des éléments de preuve pertinents pour confirmer ou infirmer le détail des paiements de 2 500 $ versés chaque mois conformément à l'article 9 de l'entente. À titre de preuves à l'appui, il aurait pu présenter des chèques payés, des reçus remis par le bénéficiaire, des relevés bancaires indiquant les montants transférés à son ex‑conjointe, des documents des personnes morales tierces confirmant l'entente qu'il avait conclue avec elles relativement au paiement de certains montants à Angela Palonek, ou le témoignage d'un des dirigeants de ces tiers corroborant son témoignage. Si l'on m'avait soumis certains de ces renseignements essentiels, j'aurais peut‑être été en mesure d'accorder à l'appelant une partie des montants qu'il cherche à déduire. Toutefois, pour reprendre l'expression qu'a employée l'appelant lors de son contre‑interrogatoire : [TRADUCTION] « Il n'y a rien ici. » (Transcription, 18 octobre 2010, page 120, lignes 6 et 7.)
+[23] Il n'est sûrement pas difficile de fournir pareils éléments de preuve. Dans le cas des personnes morales concernées, il doit exister des documents qui appuient la thèse de l'appelant suivant laquelle il avait la faculté d'ordonner que l'argent provenant de ces personnes morales soit versé à Angela Palonek et que cet argent lui était dû, d'une façon ou d'une autre. Je ne dispose d'aucun élément de preuve me permettant de savoir pourquoi ces personnes morales ont versé ces montants. L'appelant bénéficiait‑il de certains avantages à titre d'actionnaire? Lui devait‑on un traitement ou un salaire? Lui devait‑on des honoraires de consultation? Comment ces sommes étaient‑elles imposées entre les mains de ces personnes morales? Comment a‑t‑il été en mesure de les forcer à payer les sommes en question? Je ne suis pas en mesure de répondre à ces questions essentielles parce que l'appelant ne pouvait pas ou ne voulait pas produire les éléments de preuve nécessaires qui m'auraient permis de tirer des conclusions.
+[24] Après avoir entendu des témoignages pendant trois jours, je suis toujours incapable de tirer des conclusions précises sur quelque chose d'aussi fondamental que la nature exacte des rapports de l'appelant avec les personnes morales en question. Une des réponses que l'appelant a données lors de son contre‑interrogatoire illustre bien ce que je veux dire :
+[TRADUCTION]
+R. Je n'ai pas dit qu'il s'agissait de sociétés tierces indépendantes. J'ai dit que je travaillais pour elles, alors je ne sais pas si on peut en conclure qu'il s'agissait ou non de sociétés indépendantes. De toute évidence, j'entretenais des rapports avec elles, mais tout ce dont vous avez besoin se trouve ici. [...]
+(Transcription, 18 octobre 2010, page 71, lignes 20 à 25)
+[25] De plus, le seul élément de preuve présenté par l'appelant à l'appui de l'affirmation que les montants qu'il aurait demandé aux personnes morales tierces de verser à Angela Palonek apparaissent dans les déclarations de revenus qu'il a produites en 2002 était son affirmation que ces montants étaient inclus dans ces déclarations.
+[26] L'appelant a affirmé qu'il avait soumis une grande quantité de [TRADUCTION] « pièces à l'appui » pour démontrer que les personnes morales en question avaient effectivement versé de l'argent à son ex‑conjointe. Cette affirmation n'est pas suffisante, à elle seule, pour permettre à l'appelant de demander la déduction de ces montants à titre de pension alimentaire. Dans l'arrêt Gagnon c. La Reine, [1986] 1 R.C.S. 264, la Cour suprême du Canada a déclaré que la déductibilité des pensions alimentaires en vertu de l'alinéa 60b) (qui fait maintenant partie de la définition de « pension alimentaire » au paragraphe 56.1(4)) était assujettie à quatre conditions :
+1. la somme doit être payable périodiquement;
+2. la somme payée doit servir à subvenir aux besoins de l'ex‑conjoint, des enfants, ou à la fois de l'ex‑conjoint et des enfants;
+3. les conjoints doivent vivre séparés pour cause d'échec de leur mariage;
+4. l'obligation de payer doit découler d'une ordonnance judiciaire ou d'un accord écrit.
+[27] Il incombe à l'appelant d'établir que les paiements en question font partie des arrangements relatifs à la pension alimentaire. L'intimée cite l'arrêt Hodson c. M.R.N., no A‑146‑87, 30 novembre 1987, [1987] A.C.F. no 1053 (QL), dans lequel la Cour d'appel fédérale, qui examinait la portée de l'alinéa 60b), a affirmé qu'une application stricte de l'alinéa 60b) (ainsi que du paragraphe 60.1(1)) empêche la mise sur pied d'un « régime relâché et incertain » qui pourrait :
+[...] donner lieu à des ententes trompeuses et frauduleuses et à des plans d'évasion fiscale. [...]
+Essentiellement, pour pouvoir bénéficier des avantages que comporte la déductibilité d'une pension alimentaire, les circonstances qui permettent au contribuable d'y avoir droit doivent être clairement établies pour éviter toute utilisation abusive de ces dispositions.
+[28] Sans la production des détails que j'ai mentionnés et, compte tenu du témoignage contradictoire de l'ex‑conjointe au sujet de la question même de la cohabitation au cours des années en cause, force m'est de conclure que l'appelant n'a pas démontré qu'il a versé les montants au titre de la pension alimentaire prévue à l'entente, contrairement à ce qu'il affirme. En conséquence, l'appelant n'a pas réfuté les hypothèses de fait fondamentales sur lesquelles l'intimée s'est fondée. Je ne conteste pas sa prétention que les paiements ont été faits, mais je ne dispose d'aucun élément qui me permettrait de conclure qu'il s'agissait effectivement d'une pension alimentaire au sens des dispositions applicables de la Loi et de l'entente.
+[29] Bien que les appels échouent pour ce seul motif, il y a quelques questions que je désire aborder brièvement, pour la simple raison que les sommes en jeu sont considérables et que l'appelant comparaît en personne et a consacré du temps à ces questions. Premièrement, la déductibilité des paiements à titre gracieux est‑elle abordée à l'article 27 de l'entente de séparation de l'appelant? L'article 27 de l'entente est ainsi libellé :
+[TRADUCTION]
+27. PAIEMENTS À TITRE GRACIEUX :
+L'un ou l'autre des conjoints ou son ayant droit peut faire à l'autre conjoint un paiement à titre gracieux non prévu aux présentes. Le fait d'effectuer ce paiement ou de l'offrir n'est pas considéré comme obligeant le conjoint ou son ayant droit à continuer à effectuer de tels paiements, et le fait qu'un des conjoints ait offert de faire ce paiement ne peut être plaidé, mis en preuve, présenté en preuve ou invoqué à titre de préclusion dans une instance judiciaire opposant les parties.
+Aux termes de l'entente, la pension alimentaire de base versée pour le conjoint et pour les enfants s'élevait à 2 500 $ par mois, soit 30 000 $ par année. En conséquence, une grande partie des montants que l'appelant souhaite déduire pour certaines des années d'imposition en question est composée des montants qu'il affirme avoir payés à titre gracieux conformément à l'article 27 de l'entente.
+[30] Je reviens aux conditions énumérées dans l'arrêt Gagnon c. La Reine, [1986] 1 R.C.S. 264, au sujet de la déductibilité des pensions alimentaires en vertu du paragraphe 56.1(4) de la Loi. On a de toute évidence affaire à des paiements à titre gracieux qui ne sont pas déductibles. Même si j'avais conclu que l'appelant avait fait ces paiements, ce qui n'est pas le cas, je ne dispose d'aucun élément de preuve qui me permettrait de penser que ces paiements pourraient être assimilés à une pension alimentaire parce qu'ils n'étaient pas payés périodiquement. De plus, pour que ces paiements soient déductibles, la jurisprudence exige que le payeur soit contraint ou obligé de faire les paiements conformément à une ordonnance d'un tribunal ou en vertu d'un accord écrit. L'article 27 de l'entente emploie le mot « peut » lorsqu'il évoque la possibilité de faire un tel paiement. Cet article déclare de façon catégorique que, s'ils sont effectués, ces paiements ne sont pas considérés comme obligatoires, en ce sens que le conjoint n'est pas obligé de continuer à les faire à l'avenir. Concernant l'obligation de faire ces paiements, l'article 27 est formulé en des termes facultatifs et non en des termes impératifs.
+[31] Le fait que l'entente confirmative, jointe à titre d'annexe A, indique que tous les paiements d'un montant mensuel fixe de 2 500 $ de même que tous les paiements effectués à titre gracieux sont déduits par l'appelant de ses revenus imposables ne saurait lier le ministre ou notre Cour, qui ne sont pas pour autant forcés de les considérer comme déductibles. Ce n'est que lorsqu'ils sont conformes aux dispositions applicables de la Loi que ces paiements sont déductibles.
+[32] La deuxième question est celle de la déductibilité des montants qui, suivant ce qu'affirme l'appelant, ont été faits à Angela Palonek par des personnes morales tierces pour le compte de l'appelant. Cette question nous oblige à nous demander si la pension alimentaire versée directement au conjoint bénéficiaire par une société ou fiducie tierce en paiement de la dette de cette personne morale ou de cette fiducie envers le payeur est quand même déductible en vertu de la Loi. L'appelant affirme que ces tiers lui devaient de l'argent et qu'il leur a ordonné de payer ces montants à Angela Palonek pour remplir ses obligations alimentaires. Il affirme aussi que ces montants ont été inclus dans ses revenus au cours des années en cause.
+[33] Bien qu'il existe une abondante jurisprudence sur la question des paiements de pension alimentaire effectués par un conjoint payeur à des tiers ou à des organismes gouvernementaux pour le compte d'un conjoint bénéficiaire (par exemple, lorsque des montants sont affectés au remboursement d'une hypothèque), il ne semble pas exister de jurisprudence portant expressément sur le cas du conjoint payeur à qui un tiers doit de l'argent et qui ordonne que ces montants soient redirigés vers son conjoint bénéficiaire pour satisfaire aux obligations aux termes d'une ordonnance d'un tribunal ou d'une entente. La jurisprudence indique clairement que, lorsque ces paiements sont effectués par le biais d'un organisme gouvernemental agissant à titre d'intermédiaire, la nature de la « pension alimentaire » n'est modifiée en rien et le montant peut encore être déductible (voir les décisions Pepper c. La Reine, no 95‑2223(IT)I, 4 décembre 1996, [1996] A.C.I. no 1606 (QL) (C.C.I.), et Gervais c. La Reine, no 96‑1237(IT)I, 26 août 1997, [1997] A.C.I. no 816 (QL) (C.C.I.)).
+[34] Je conclus que les personnes morales et fiducies tierces peuvent, sur l'ordre du payeur, agir de la même façon comme intermédiaires et, à condition que les paiements ainsi redirigés répondent aux conditions énoncées dans la Loi et que l'on puisse démontrer que le payeur les a inclus dans ses revenus, ces paiements peuvent être déduits. Toutefois, pour que ces paiements de pension alimentaire puissent être déductibles, le payeur doit être en mesure de prouver qu'ils servent à des fins alimentaires et qu'ils ne visent pas simplement à réaliser une sorte de fractionnement du revenu sous le couvert d'un véhicule de paiement d'une pension alimentaire. Le payeur doit aussi soumettre à la Cour des éléments de preuve suffisants pour appuyer sa prétention que cette somme lui était due par le tiers ainsi que la preuve de la directive sur laquelle ce tiers s'est fondé pour rediriger ce paiement.
+[35] Il n'y a rien de magique en ce qui concerne les paiements effectués par les tiers, sauf si d'autres conditions sont respectées. Dans les présents appels, il incombe à l'appelant d'établir que les paiements en cause satisfaisaient à la totalité des dispositions applicables de la Loi, qu'il avait le droit de recevoir cet argent des tiers, que les tiers avaient reçu pour instruction de rediriger vers Angela Palonek les fonds qui seraient payables à l'appelant et que ces paiements avaient été reçus par son ex‑conjointe à titre de pension alimentaire. Malheureusement, l'appelant n'a pas soumis d'éléments de preuve lui permettant de s'acquitter de ce fardeau. Il n'a produit aucun document qui appuierait son allégation qu'il avait la capacité de diriger et d'influencer l'une ou l'autre des personnes morales ou la fiducie en ce qui concerne le paiement de quelque montant que ce soit à son ex‑épouse. L'appelant n'a fourni que des réponses vagues et générales en ce qui concerne ces montants payés par des tiers. On ne m'a présenté aucun élément de preuve clair et concis sur les raisons pour lesquelles ces personnes morales ou cette fiducie devaient de l'argent à l'appelant ni même si elles le lui devaient réellement. De plus, je ne dispose d'aucun élément de preuve sur la façon dont on est parvenu à une entente prévoyant le paiement de ces montants à l'ex‑épouse, sur l'existence d'écritures comptables attestant ces paiements, sur la façon dont ces montants se sont transformés en revenus dans les déclarations produites par l'appelant ou sur la façon dont les personnes morales ou la fiducie en question ont traité ces montants dans leurs livres et registres. L'appelant a essentiellement déclaré qu'il avait conclu une entente « relâchée et incertaine » avec ces tiers mais, dans ces conditions, il lui incombe encore plus d'exposer en détail les ententes que j'ai mentionnées.
+[36] Il vaut la peine de répéter que, dans l'arrêt Hodson, la Cour d'appel fédérale a déclaré qu'une application stricte des conditions prévues à l'alinéa 60b) empêche qu'un « tel régime relâché et incertain [donne] lieu à des ententes trompeuses et frauduleuses et à des plans d'évasion fiscale ». L'avantage que constitue le droit de déduire une pension alimentaire ne doit être conféré que dans des circonstances précises et l'appelant a la charge d'établir ces dernières, pour permettre à la Cour d'être certaine que nul n'abuse de l'avantage en question.
+[37] Bien que l'appelant ait constamment parlé de ses nombreuses « pièces à l'appui », je ne dispose d'aucun élément de preuve concret me permettant de conclure que les paiements que ces tiers ont faits à Angela Palonek constituaient une pension alimentaire. Je sais que l'appelant a été en mesure de rediriger ces paiements, mais je ne sais pas comment ou pourquoi. Il a affirmé que ces paiements avaient été effectués par le biais de ces tiers parce qu'il était absent du pays, mais, suivant la preuve, ces paiements ont également été effectués lorsqu'il était au pays.
+[38] Le témoignage d'Angela Palonek ne corrobore aucunement les allégations de l'appelant. Elle a affirmé que les montants qu'elle avait reçus de la fiducie familiale avaient servi à payer les dépenses relatives aux vacances familiales et aux soins de relève pour la soeur de l'appelant. Madame Palonek a également expliqué que certains des paiements effectués avec la carte American Express qui avaient été remboursés par les tiers en question visaient peut‑être les services fournis à la soeur de l'appelant, mais je n'ai entendu aucun témoignage au sujet de la proportion que ces paiements représenteraient. Je ne dispose d'aucun élément de preuve qui me permettrait de savoir quelle partie des montants ainsi payés était effectivement imputable à une pension alimentaire. Par ailleurs, le témoignage d'Angela Palonek suivant lequel, pendant certaines des années visées par l'appel, l'appelant et elle faisaient en fait vie commune vient évidemment modifier quelque peu la situation.
+[39] L'appelant a en outre soutenu que le paragraphe 56(2) de la Loi appuyait ses prétentions. Il a cité à l'appui la décision Lambert c. La Reine, 2004 CAF 389. Si j'ai bien compris son argument, l'appelant affirme que l'application du paragraphe 56(2) aurait pour effet de rajouter à son revenu les paiements qu'il a ordonné aux tiers en cause de faire pour son compte. Ces paiements seraient donc déductibles de ses revenus parce qu'ils constituaient à son avis une pension alimentaire. Cependant, contrairement à ce que prétend l'appelant, aux termes du paragraphe 56(2), les sommes versées par les tiers en question pour son compte ne sont pas automatiquement réputées constituer une pension alimentaire. Pour ce faire, l'appelant doit établir que les paiements étaient faits à titre de pension alimentaire et qu'ils répondaient aux conditions prévues par les dispositions applicables de la Loi. En se fondant sur la décision Lambert, l'appelant a tout au plus établi qu'il devrait être imposé sur les montants qui, selon ce qu'il allègue, ont été transférés à Angela Palonek.
+[40] Troisièmement, l'appelant se plaint de contradictions et d'un traitement fiscal inéquitable en ce qui concerne les cotisations dont lui et son ex‑conjointe ont fait l'objet. Il se fonde sur la décision Fink c. La Reine, no 98‑1535(IT)G, 6 janvier 1999 (C.C.I.), mais cette décision ne lui est d'aucun secours. Bien qu'il déclare expressément que les tribunaux ne tolèrent jamais les cotisations contradictoires, le juge Rip, maintenant juge en chef de la Cour, signale aussi qu'il peut légitimement y avoir des cotisations contradictoires dans le cas de contribuables se trouvant dans une situation semblable, à condition que ces cotisations soient conformes aux dispositions de la Loi. Il s'ensuit que toute contestation d'une cotisation doit reposer sur l'argument que celle‑ci contredit la loi fiscale et non simplement la cotisation d'un autre contribuable.
+[41] Il ressort des circonstances des présents appels que l'appelant et Angela Palonek ne sont pas des contribuables se trouvant dans une situation semblable. L'appelant est le présumé payeur de la pension alimentaire et Mme Palonek en est la bénéficiaire. La décision Fink précise bien que, lorsque le ministre peut avoir des raisons d'établir des cotisations contradictoires à l'égard des contribuables et que ces raisons peuvent être pertinentes en appel, le contribuable peut réclamer des précisions pour savoir la thèse à laquelle il doit répondre. Toutefois, dans les présents appels, le ministre n'a pas refusé de communiquer les raisons pour lesquelles il refusait les déductions, mais il a clairement énoncé les motifs de son refus, à savoir le défaut de l'appelant de démontrer qu'il avait effectué les paiements de pension alimentaire qu'il affirme avoir faits.
+Conclusion
+[42] C'est à l'appelant qu'il incombe de démontrer qu'il a effectué les paiements de pension alimentaire qu'il cherche à déduire pour chacune des années d'imposition en cause. Or, il ne s'est pas acquitté de ce fardeau, étant donné qu'il n'a présenté aucun élément de preuve établissant que les montants qui ont été payés visaient à subvenir aux besoins de son ex‑conjointe et de ses enfants. Il n'a pas justifié le paiement des montants qu'il prétendait avoir payés directement à son ex‑conjointe (entre 20 p. 100 et 30 p. 100) et il n'a pas justifié comment il avait acquis le droit aux paiements effectués par les tiers, ni comment il avait obtenu le pouvoir d'ordonner aux tiers d'effectuer ces paiements à son ex‑conjointe ou comment ces paiements étaient désignés dans les livres et registres des personnes morales ou comptabilisés dans leurs déclarations de revenus.
+[43] Je ne vois aucune raison pour laquelle les paiements de pension alimentaire qui ont été effectués à un bénéficiaire par des tiers sur l'ordre du payeur ne devraient pas être déductibles, dès lors que la preuve confirme que ces paiements étaient faits à titre de pension alimentaire et qu'ils satisfaisaient par ailleurs aux dispositions pertinentes de la Loi. Dans les présents appels, l'appelant n'a pas présenté d'éléments de preuve qui établiraient que ces paiements ont été effectués à titre de pension alimentaire. Même si l'on avait soumis des éléments de preuve démontrant qu'ils ont été faits, les paiements à titre gracieux ne sont pas déductibles parce qu'ils ne constituent pas des paiements obligatoires selon le libellé de l'entente.
+[44] Les appels doivent par conséquent être rejetés.
+[45] Les parties auront 45 jours à compter de la date des présents motifs pour soumettre des observations écrites au sujet des dépens.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2010.
+« Diane Campbell »
+Le juge Campbell
+Traduction certifiée conforme
+ce 26e jour de janvier 2011.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 615
+No DU DOSSIER DE LA COUR : 2007‑3798(IT)G
+INTITULÉ : EDWARD PALONEK c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Hamilton (Ontario)
+DATES DE L'AUDIENCE : Les 10 et 11 juin et le 18 octobre 2010
+MOTIFS DU JUGEMENT : L'honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 1er décembre 2010
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui‑même
+Avocat de l'intimée :
+Me John Grant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : Me Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

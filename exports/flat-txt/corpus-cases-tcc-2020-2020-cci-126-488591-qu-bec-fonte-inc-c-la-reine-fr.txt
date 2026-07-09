@@ -1,0 +1,214 @@
+Title: Québec Fonte Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/488591/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-126-488591-qu-bec-fonte-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-11-16
+
+# Québec Fonte Inc. c. La Reine
+
+- Citation: 2020 CCI 126
+- Decision date: 2020-11-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4643, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Québec Fonte Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-11-16
+Référence neutre
+2020 CCI 126
+Numéro de dossier
+2014-3008(GST)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2014-3008(GST)G
+ENTRE :
+QUÉBEC FONTE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requêtes entendues le 15 septembre 2020
+à Montréal (Québec).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelante :
+Me Régent Laforest
+Avocats de l’intimée :
+Me Antoine Lamarre
+Me Normand Perreault
+ORDONNANCE
+Vu la requête de l’appelante visant à obtenir ce qui suit :
+1. Une directive en vertu de l’article 12 des Règles de la Cour (procédure générale) prolongeant les délais impartis par les articles 64 et 68 et ce, dans l’intérêt de la justice;
+2. Une ordonnance à l’effet qu’une entente est intervenue entre les parties le 20 mars 2019, constituant de ce fait une transaction valablement conclue au terme du Code civil du Québec;
+3. Une ordonnance à l’effet que la transaction du 20 mars 2019, constitue un règlement global et final, mettant un terme aux procédures judiciaires dans trois (3) instances devant les tribunaux suivants :
+a) La Cour canadienne de l’impôt, dossier : 2014-3008(GST)G, appel de l’avis de cotisation, émis le 19 avril 2013, à l’encontre de l’appelante, en vertu de la Loi sur la taxe d’accise;
+b) La Cour du Québec, dossier 700-80-008082-148, appel de l’avis de cotisation, émis le 19 avril 2013 en vertu de la taxe de vente du Québec;
+c) La Cour supérieure du Québec, dossier 700-17-013142-160, poursuite en dommages-intérêts à l’encontre des intimées intentée par l’appelante;
+4. Une ordonnance à l’effet que la convention de transaction signée par les parties, les 3, 5 et 9 avril 2019, constitue un document dont la teneur est inopposable à la transaction du 20 mars 2019 et de nul effet entre les parties;
+5. Une ordonnance à l’effet d’homologuer la transaction valablement conclue le 20 mars 2019, et d’en ordonner l’exécution forcée soit en décrétant que :
+a) La période visée par la vérificatrice fiscale s’étend du 1er janvier 2011 au 30 avril 2012, et constitue la plage litigeuse réglée par la transaction;
+b) La transaction entre les parties, entraîne pour l’appelante et ce, pour la période visée, qu’aucune somme n’est due aux chapitres de la taxe sur les produits et services (TPS) et de la taxe de vente du Québec (TVQ);
+c) Les autorités fiscales versent la somme de 550 000 $ au bénéfice de la requérante et ce, à titre de règlement global et final des trois (3) instance judiciaires dont la transaction a fait en sorte d’y mettre fin;
+d) Ordonner la radiation de l’hypothèque légal et des saisies pratiquées en l’instance en exécution des sommes réclamées par les autorités fiscales;
+6. Une ordonnance à l’effet que l’appel de l’appelante devant la Cour canadienne de l’impôt est réglé à toute fin que de droit, par l’exécution forcée de la transaction du 20 mars 2019;
+Vu la requête de l’intimée visant à obtenir ce qui suit :
+une ordonnance annulant les appels interjetés par Québec Fonte inc.contre les nouvelles cotisations établies le 19 avril 2013 à l’égard des périodes incluses du 1er janvier 2011 au 30 avril 2012;
+dans l’alternative,
+une ordonnance confirmant que les nouvelles cotisations établies le 10 mai 2019 par le ministre du Revenu national sont conformes à la convention de transaction signée par l’appelante et par les procureurs des parties, les 3, 5 et 9 avril 2019, en vertu du paragraphe 298(3) de la Loi sur la taxe d’accise (la « Convention de Transaction »; et,
+une ordonnance prenant acte du désistement de l’appelante daté du 3 avril 2019, remis au ministre du Revenu national conformément à la Convention de Transaction, et rejetant l’appel suivant l’art. 16.2 de la Loi sur la Cour canadienne de l’impôt; ou,
+une ordonnance rejetant l’appel suivant l’art. 64 des Règles de la Cour canadienne de l’impôt (procédure générale) considérant que l’appelante n’agit pas avec promptitude.
+La Cour ordonne ce qui suit :
+Pour les motifs de l’ordonnance ci-joints :
+La requête de l’appelante est rejetée avec dépens à l’intimée;
+La requête de l’intimée est accueillie avec dépens à l’intimée; et
+L’appel est rejeté avec dépens.
+Signé à Montréal (Québec) ce 16e jour de novembre 2020.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2020 CCI 126
+Date : 20201116
+Dossier : 2014-3008(GST)G
+ENTRE :
+QUÉBEC FONTE INC.
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Boyle
+[1] En juillet 2019, l’intimée a présenté une requête dans laquelle elle demandait à la Cour d’annuler les appels interjetés par Québec Fonte à l’encontre des nouvelles cotisations de TPS établies en 2013 à pour les périodes de déclaration en 2011 et en 2012 au motif que l’appelante et l’intimée avaient conclu une entente de règlement écrite et signée en avril 2019 (la convention de transaction) et que l’intimée avait établi de nouvelles cotisations en mai 2019 mettant en œuvre les modalités de cette entente.
+[2] L’avocat de l’appelante a refusé de confirmer que les nouvelles cotisations étaient conformes aux rajustements convenus dans l’entente. Par conséquent, l’intimée n’est pas en mesure de déposer le désistement signé par l’appelante et remis à l’intimée lors du règlement.
+[3] L’intimée invoque la convention de transaction, y compris le désistement, et les nouvelles cotisations de mai 2019. L’intimée a aussi produit en preuve la correspondance entre les parties jusqu’à la signature de la convention de transaction pour confirmer que la convention de transaction correspond aux intentions des parties et aux ententes qu’elles ont conclues.
+[4] À la suite de la requête de l’intimée, le 27 janvier 2020, l’appelante a présenté une requête visant à obtenir une ordonnance a l’effet que les parties ont conclu une entente exécutoire le 20 mars 2019 dans leur correspondance jusqu’à cette date et qui s’est poursuivie par la suite pour se solder par la convention de transaction. La thèse de l’appelante est qu’une entente distincte et exécutoire écartant la convention de transaction a été conclue le 20 mars 2019, à tout le moins en ce qui a trait à toute incohérence entre la convention de transaction et l’entente du 20 mars 2019.
+[5] L’audition sur le fond de l’appel a été fixée pour une durée de six semaines à compter du 1er avril 2019. Les seules questions en litige dans l’appel dont la Cour est saisie sont celles des crédits de taxe sur les intrants (CTI) refusés et des pénalités connexes. L’appel a été ajourné lorsque les parties ont avisé la Cour le 28 mars 2019 que les questions ont été réglées.
+[6] Les nouvelles cotisations établies en mai 2019 ont porté sur les questions dont la Cour est saisie, conformément aux modalités de la convention de transaction. Toutefois, le ministre du Revenu du Québec (MRQ) a aussi indiqué que l’appelante avait omis de verser une taxe nette de 3,9 millions de dollars qu’elle avait déclarée elle-même et qui n’avait pas été contestée pour ces périodes; il a entamé le recouvrement de cette somme. Les deux parties ont soutenu ne pas avoir été au courant de cette taxe nette non versée, qui n’avait aucun rapport avec les questions en litige dans l’appel dont la Cour est saisie, lors du règlement du présent appel. Ces 3,9 millions de dollars sont à l’origine de ces requêtes contradictoires. Les deux parties soutiennent que l’appel relatif à la TPS a été réglé – elles ne sont simplement pas d’accord sur les modalités du règlement.
+Les faits
+[7] L’appel relatif à la TPS dont la Cour est saisie porte sur les nouvelles cotisations de 2013 pour la période du 1er janvier 2011 au 30 avril 2012 et ne porte que sur les CTI refusés et les pénalités connexes, en ce qui a trait aux achats d’or pour l’entreprise d’achat et de revente d’or de l’appelante. Selon l’avis d’appel, la somme en cause était d’environ 2,3 millions de dollars. D’après la thèse de l’intimée énoncée dans sa réponse, l’appelante s’est fondée sur de « fausses factures » pour présenter ces demandes de CTI rejetées.
+[8] Le 27 février 2019, à peine plus d’un mois avant la date prévue de l’audition de l’appel, l’avocat de l’intimée a envoyé un courriel à l’avocat de l’appelante. Dans ce courriel, l’avocat mentionne d’abord un appel téléphonique au cours duquel l’avocat de l’appelante a fait une offre de règlement à des conditions qui assureraient à l’appelante un remboursement de 550 000 $. Dans ce courriel, l’avocat de l’intimée a présenté une offre précise de règlement des questions en litige dans l’appel. Cette offre précise est immédiatement précédée d’un paragraphe qui renfermait notamment ce qui suit :
+[…] Nous précisons toutefois, tel que mentionné à plusieurs reprises, que notre offre est modulée suivant des ajustements spécifiques aux éléments fiscaux cotisés antérieurement et en litige dans les appels de cotisations judiciarisés. Ainsi, le montant de 550 000 $ identifié par votre cliente peut être considéré comme la cible visée, mais ne doit pas être considérée comme le montant exacte qu’il recevra. Les modalités ci-dessous expliquent les éléments que nous offrons d’ajuster. Dans la deuxième section, nous estimons la portée de ces ajustements, incluant en calculant de manière approximative les intérêts sur le remboursement estimé anticipé. Nous croyons que nos calculs sont justes, mais nous réitérons qu’en aucun cas il ne lient l’Agence du revenu du Québec ou l’Agence du revenu du Canada à un remboursement ou un résultat spécifique ou précis. Les calculs ci-dessous pourraient être inférieurs ou supérieurs ou résultat réel. Seuls les ajustements prévus aux points 1 à 12 ci-dessous forment le règlement et lient l’ARQ et l’ARC. Ces calculs, reflétés dans les fichiers joints, vous sont offerts pour fins de référence dans le cadre des discussions de règlement seulement. Nous invitons votre cliente à effectuer ses propres calculs au besoin. [Souligné dans l’original.]
+Sous réserve des commentaires ci-dessous, les modalités de notre offre sont donc : [1 à 12]
+Après ces 12 points, il est fait mention d’un « remboursement estimé » (souligné dans l’original) aux points 13, 15, 16, 17 et 18.
+[9] L’annexe jointe à ce courriel comportait les mentions « Pour discussions de règlement (27 février 2019) », puis « les montants sont à confirmer et/ou parfaire ».
+[10] Le 1er mars 2019, l’avocat de l’appelante a écrit à l’avocat de l’intimée en réponse à la proposition du 27 février 2019 de l’intimée. La partie pertinente de la réponse est essentiellement que l’appelante et son représentant « ne peuvent accepter l’offre tel que formulée puisque les modalités ne respectent pas l’esprit d’un règlement global et final » et que « [l]e but de notre cliente est d’obtenir un versement de la somme de 550 000 $ nette et exempte de toutes réclamations de nature fiscale pour les années, à partir de 2010 jusqu’à 2018 inclusivement ». Il convient de souligner que seuls l’année 2011 et les quatre premiers mois de l’année 2012 font l’objet de l’appel dont la Cour est saisie.
+[11] L’avocat de l’intimée a répondu le jour même et a commencé par expliquer l’impossibilité d’accepter une somme globale fixe à titre de règlement :
+Dans un premier temps, je réitère que nous ne pouvons pas régler pour un montant global et forfaitaire tel que le souhaite votre client. Un règlement en fiscal passe par l’annulation ou, comme en l’espèce, la modification des cotisations en litige. La modification des cotisations en litige est faite par l’application d’ajustements raisonnés, en l’occurrence sur les CTI/RTI refusés et accordés. Les modalités discutées et offertes sont énumérées dans mon courriel ci-dessous.
+[...]
+[12] L’avocat poursuit le courriel en dressant une liste précise révisée des propositions, précédée de la phrase suivante :
+[…] Le détails des calculs permettant d’arriver à ce montant vous a été communiqué et les comptables de Québec Fonte sont à même de les avaliser au besoin.
+[13] Les propositions précises se terminent ainsi :
+Si d’autres attributs fiscaux de Québec Fonte ou d’autres éléments de revenus de Québec Fonte, à la connaissance de M. Savard, sont susceptibles d’influencer positivement ou négativement ce montant, nous ne le savons pas et nous ne pouvons pas l’anticiper.
+[14] Le 5 mars 2019, l’avocat de l’appelante a envoyé un courriel à l’avocat de l’intimée :
+[…] je suis dans l’attente du rapport comptable concernant les dernières années afin de s’assurer qu’aucune dette n’est due ou sera due à l’un des paliers du gouvernement.
+Je vous reviens donc incessamment mais nos chances de règlement augmentent beaucoup.
+[15] Le 12 mars 2019, l’avocat de l’intimée a écrit à l’avocat de l’appelante, à la suite d’une conversation téléphonique qui avait eu lieu ce matin-là, pour expliquer qu’« une “immunité fiscale” personnelle à l’égard des années en litige » n’était pas envisageable dans un règlement à l’amiable et renvoyer à l’arrêt JP Morgan.
+[16] Plus tard le 12 mars 2019, l’avocat de l’intimée a de nouveau écrit un courriel à l’avocat de l’appelante dans lequel il précise ce qui suit :
+Nous considérons que notre contre-offre répond aux éléments essentiels de votre offre du 1er mars. Les éléments auxquels elle ne répond pas, le cas échéant, sont contraires à la loi et n’ont pas à être considérés.
+[17] Le 13 mars 2019, l’avocat de l’intimée a envoyé par courriel une lettre dans laquelle il explique en détail la proposition révisée de l’intimée, qui comprend notamment ce qui suit :
+La proposition conjointe de nos clientes du 27 février 2019 propose des ajustements aux cotisations en litige dont découlerait un remboursement anticipé et estimé de 549 186,63 $. […]
+[…]
+Quant à la demande de votre cliente voulant que le remboursement soit net et exempt de toutes réclamations de nature fiscale pour les années, à partir de 2010 jusqu’à 2018 inclusivement, nous vous référons aux paragraphes 77 à 79 de la décision de la Cour d’appel fédérale dans JP Morgan Asset Management (Canada) c. Canada, 2013 CAF 250.
+Votre cliente exige « l’immunité fiscale » à l’égard de toute cotisation pour toutes les années de 2010 à 2018. Cet intervalle couvre des années qui ne sont pas en litige. De plus, la demande est contraire à la loi, aux pouvoirs des autorités fiscales et à l’ordre public. Celles-ci ne peuvent pas y consentir. À cet effet, nous vous renvoyons aux mêmes paragraphes de la décision de la Cour d’appel fédérale dans JP Morgan. Notez également que votre cliente ne pourrait ni obtenir cette « immunité fiscale » de la Cour du Québec, ni de la Cour canadienne de l’impôt, ni de la Cour supérieure.
+Quant à la demande voulant que le remboursement soit établi à l’ordre de Segal Laforest en fidéicommis, nous vous renvoyons à l’art. 33 de la Loi sur l’administration fiscale qui l’interdit.
+Ces deux dernières demandes de vos clients sont contraires aux lois applicables et à l’ordre public et, en conséquence, n’ont pas à être considérées au titre des éléments essentiels de votre offre du 21 février 2019.
+La proposition de nos clientes du 27 février 2019 rencontre donc chacun des éléments essentiels de l’offre de votre cliente et, à ce titre, vaut acceptation et constitue une transaction au sens de l’art. 2631 du Code civil du Québec.
+Il faut comprendre que le règlement d’appels de cotisations fiscales passe par l’annulation ou, comme en l’espèce, la modification des cotisations en litige. La modification des cotisations en litige est faite par l’application d’ajustements raisonnés, en l’occurrence sur les CTI et RTI en litige, refusés ou accordés. Les autorités fiscales ne peuvent pas convenir d’un compromis concernant les sommes en litige sans que ce soit fondé sur les faits et les lois fiscales applicables. Nous vous renvoyons au paragraphe 79 de la décision JP Morgan précitée.
+Malgré ce qui précède, les autorités fiscales fédérale et provinciale ont accepté l’offre de votre client du 21 février 2019 sur une base raisonnée (détaillée dans nos correspondances des 27 février 2019 et 1er mars 2019) qui respect le remboursement de 550 000 $ exigé par votre cliente.
+[…]
+Considérant l’audition fixée en Cour canadienne de l’impôt pour 6 semaines à compter du 1er avril prochain et considérant que notre demande en homologation pourrait occasionner le report de l’audition, nous vous demandons de nous confirmer la position de votre cliente au plus tard à 12h00, le 15 mars 2019. À défaut, nous demanderons l’homologation de la transaction dans les meilleurs délais.
+Nous réitérons notre intention de régler ces dossiers à l’amiable par la signature d’une entente de règlement dont le texte reflétera les modalités détaillées dans nos courriels du 27 février et 1er mars 2019 et aura été révisé et approuvé par les parties de consentement, plutôt que par homologation.
+[18] Le 20 mars 2019, l’avocat de l’appelante a envoyé par courriel une lettre dans laquelle il établit les principes qu’exige Québec Fonte dans une entente de règlement acceptable. Il commence ainsi :
+Nous désirons confirmer que nous sommes d’accord à accepter une entente de règlement pour Québec Fonte Inc. qui respecte les principes suivants :
+[...]
+[19] Ces principes sont notamment un remboursement de 550 000 $, à 15 000 $ près, en raison de la complexité du calcul des intérêts, et le fait que ce remboursement ne sera pas accaparé par le fisc. Les propositions se terminent ainsi :
+Si l’Agence est en accord avec ces principes, M. Savard s’engage à signer la documentation que vous nous avez soumise pour mettre fin au litige, en comprenant que cette documentation, complexe mais nécessaire pour l’Agence, reflète les principes ci-haut énoncés, mais en termes juridiques plus spécifiques.
+[20] Le même jour, l’avocat de l’intimée a envoyé le courriel suivant à l’avocat de l’appelante :
+Sujet aux commentaires faits à l’instant au téléphone, mentionnés dans ma lettre du 13 mars, nous avons une entente.
+Nous transmettrons donc notre lettre à Mme Vallée sous peu. Nous communiquerons à nouveau avec vois dès demain pour ma finalisation des documents de règlement hors Cour.
+[21] Le lendemain, le 21 mars 2019, l’avocat de l’intimée a écrit à l’avocat de l’appelante :
+Je donne suite à votre lettre ci-dessous, à notre conversation téléphonique qui l’a suivie de même qu’à mon courriel, envoyé en réponse avec mon iPhone à 16h10.
+Pour davantage de précision, les « principes » mentionnés dans votre lettre d’hier doivent être lus afin d’inclure les précisions/commentaires suivants discutés lors de notre conversation téléphonique et/ou mentionnés dans mes lettres ou courriels précédents.
+Le montant de 550 000 $ demeure estimatif. Nous croyons que l’estimé est bon, mais sujet à variation. Nous comprenons que Me Desrosiers a effectué ses propres estimés pour le bénéfice de votre cliente.
+Nous comprenons que votre cliente souhaite que le remboursement ne varie pas, positivement ou négativement, de plus de 15 000 $, mais nous n’avons aucun contrôle sur cet aspect. Le remboursement sera celui qui résultera des ajustements prévus à l’entente.
+Le remboursement de 550 000 $ ne sera pas accaparé par RQ, sauf dans la mesure où Québec Fonte doit des sommes au gouvernement en raison de lois fiscales (suivant la LAF). En l’occurrence, nous savons qu’une partie du montant sera accaparé pour l’impôt corporatif impayé et pour le paiement des CTI (en TPS) – ce qui constitue la base de ce règlement. Tel qu’indiqué dans mes correspondances précédentes, je n’ai pas connaissance d’autres montants dus en vertu de lois fiscales.
+Nous ne pouvons toujours pas plus donner d’immunité fiscale à M. Savard. La seule chose à laquelle nous pouvons consentir c’est que le règlement met un terme définitif au litige opposant les parties en lien avec les faits judiciarisés. Ainsi, Québec Fonte ne sera pas cotisée à nouveau pour les mêmes CTI/RTI qui sont réglés ou concernant ces mêmes fournisseurs pour ces mêmes années fiscale […]
+Je vous transmettrai un projet d’entente révisé aujourd’hui. […]
+[22] Le 21 mars 2019, l’avocat de l’intimée a envoyé l’ébauche révisée d’une entente de règlement à l’avocat de l’appelante.
+[23] Le 22 mars 2019, l’avocat de l’intimée a envoyé une ébauche d’avis de désistement. Le courriel d’accompagnement comporte la phrase : « Je demeure dans l’attente de vos commentaires ou observations concernant ces projets ou de votre confirmation que le tout convient à vos clients. »
+[24] Le 25 mars 2019, l’avocat de l’intimée a envoyé un courriel à l’avocat de l’appelante dans lequel il confirme leur conversation téléphonique cette matinée-là « à l’occasion de laquelle vous m’avez confirmé que vous et Me Desrosiers étiez en accord avec le projet d’entente que je vous ai envoyé le 21 mars dernier, mais que certaines clauses devaient être discutées plus longuement avec votre client, ce mardi ou mercredi ». Une ébauche d’avis de désistement à l’attention de notre Cour et une ébauche de la convention de transaction révisée étaient jointes au courriel.
+[25] Le 28 mars 2019, l’avocat de l’appelante a transmis des pages signées de chacun des documents envoyés par l’avocat de l’intimée.
+[26] Le 28 mars 2019, l’avocat de l’intimée a envoyé par courriel à l’avocat de l’appelante une ébauche de lettre conjointe devant être envoyée à la Cour, dans laquelle il est indiqué que les parties avaient signé une entente de règlement de tous les points en litige, conformément au paragraphe 298(3) de la Loi sur la taxe d’accise, et qu’un avis de désistement serait déposé à la Cour une fois que les nouvelles cotisations confirmant le règlement auront été établies. Cette lettre, signée par les avocats des deux parties, a été envoyée à la Cour le 28 mars 2019.
+[27] L’auteur de la convention de transaction, signée par l’appelante et son avocat le 3 avril et par l’avocat de l’intimée le 5 avril 2019, précise, à l’article 34, sous l’en-tête « Les cotisations en appel » , le montant exact des CTI devant être reconnus lors du calcul de la TPS pour chacune des périodes de déclaration de 2011 et de 2012 visées par l’appel et confirme que les pénalités au titre de l’article 285 seront réduites pour tenir compte des CTI supplémentaires de 414 345,37 $ accordés.
+[28] Sous l’en-tête « Recouvrement » à l’article 39, il est indiqué que :« Québec Fonte reconnait que si elle est débitrice envers le gouvernement en vertu d’une loi fiscale ou d’une loi, autre qu’une loi fiscale prescrite par règlement, et si les cotisations mentionnées aux paragraphes 33 et 34 génèrent un remboursement, ce remboursement ou une partie de celui-ci de même que les intérêts accessoires, seront affectés au paiement de leur dette conformément à l’article 31 de la Loi sur l’administration fiscale (RLRQ, chapitre A-6.002). »
+[29] Dans une lettre du 14 juin 2019, l’avocat de l’intimée a écrit à l’avocat de l’appelante pour lui transmettre les copies des nouvelles cotisations du 10 mai 2019. L’avocat de l’intimée souligne que les redressements convenus dans l’entente de règlement à l’amiable aux articles 33 et 34 avaient été mis en application et avaient donné lieu à une réduction de près de 508 000 $. Il indique ensuite que la TPS nette déclarée par l’appelante elle-même, qui n’a jamais été visée par l’appel, n’avait jamais été remise pour les périodes visées par l’appel et que cela donnait lien à une somme exigible importante qui est une dette visée par le paragraphe 39 de la convention de transaction.
+[30] L’avocat de l’appelante a répondu à l’avocat de l’intimée dans une lettre du 20 juin 2019. En voici une partie :
+[…] Or la convention, si son interprétation est valide, ne respecte pas les dispositifs de l’entente de règlement intervenue et réitérée entre les parties les 1er, 13, 20 et 21 mars 2019.
+N’eût été d’une entente de règlement convenue entre les parties, la convention de transaction n’existerait pas.
+La convention se veut le reflet de l’entente entre les parties qui précise un remboursement de 550 000 $ suite à des ajustements qui effacent pour la période en litige la totalité de la dette aux comptes TPS et TVQ de Québec Fonte Inc. envers l’ARQ et l’ARC, laissant ainsi un solde créditeur à plus ou moins 1% du montant convenu, payable par un chèque libellé à l’ordre de Québec Fonte Inc.
+Les résultats engendrés par l’interprétation de la convention ou par la convention elle-même constituent manifestement des erreurs qui commandent des modifications à apporter soit à l’interprétation des termes de la convention ou aux items constitutifs du corps de ladite convention.
+[…]
+Dans ces circonstances, il est clair que le règlement convenu entre les parties n’a pas été respecté et que les documents signés par notre cliente constituant des avis de règlement, ne doivent en aucun cas être déposés aux greffes des différentes instances dans le but de mettre fin à ces dernières, soit les instances judiciaires telles que sommairement décrites en rubrique.
+[31] Cette lettre a été envoyée à la Cour avec une lettre d’accompagnement le 20 juin 2019. L’avocat de l’intimée a écrit à l’avocat de l’appelante le 20 juin 2019 et a déclaré ce qui suit :
+Notre mandat est de demander à la Cour de constater que les avis de nouvelles cotisations reflètent la convention de transaction signée par toutes les parties au début d’avril 2019, également en pièce jointe.
+[32] L’appelante n’a produit aucun élément de preuve pour contester le fait que les redressements demandés dans l’appel à notre Cour ont fait l’objet des nouvelles cotisations conformément aux dispositions de la convention de transaction.
+Analyses et conclusions
+[33] La Cour a compétence pour décider si une entente entre le fisc et un contribuable qui établit la manière dont un contribuable doit faire l’objet d’une nouvelle cotisation est applicable, elle a compétence pour ordonner l’établissement de nouvelles cotisations conformes aux ententes en l’absence de circonstances viciant l’opération, et elle a compétence pour autoriser le dépôt de désistements après l’établissement de nouvelles cotisations conformes à l’entente de règlement : voir l’arrêt Smerchanski c. Ministre du Revenu national, [1977] 2 R.C.S. 23; l’arrêt University Hill Holdings Inc. c. Canada, 2017 CAF 232; les décisions Oberoi c. La Reine, 2006 CCI 293, 1390758 Ontario Corporation c. La Reine, 2010 CCI 572, Huppe c. La Reine, 2010 CCI 644; SoftSim Technologies Inc. c. La Reine, 2012 CCI 181; Davies c. La Reine, 2016 CCI 104, et Granofsky c. La Reine, 2016 CCI 181.
+[34] Dans University Hill, la Cour d’appel fédérale s’est dite d’accord avec la décision antérieure dans Galway c. Ministre du Revenu national [1974] 1 CF 600, qui portait sur les jugements par consentement, et dont les principes s’appliquent également aux ententes de règlement que notre Cour doit faire appliquer, en précisant que la Cour doit s’assurer « que le jugement recherché relève de sa compétence et qu’il peut être rendu » : voir le paragraphe 66 et suivants. Voir aussi le paragraphe 18 de Huppe, où le juge Webb s’est exprimé dans le même sens.
+[35] Aucune des parties ne conteste ce pouvoir de la Cour qu’énoncent l’alinéa 298(3)b) et l’article 309 de la Loi sur la taxe d’accise.
+[36] Pour décider si les parties ont conclu en l’espèce une entente et pour interpréter cette entente ou pour décider s’il existe des circonstances viciant l’opération, il faut tenir compte du Code civil du Québec (CCQ).
+[37] Les articles 6, 7 et 1375 du CCQ imposent une obligation de bonne foi aux personnes lors de leurs interactions interpersonnelles. Il est précisé à l’article 2805 du CCQ que la bonne foi se présume toujours. En l’espèce, il n’y a aucune allégation de mauvaise foi, rien ne l’indique.
+[38] Selon l’article 1388 du CCQ, une offre doit comporter tous les éléments essentiels du contrat envisagé.
+[39] De l’article 2863 à l’article 2865 du CCQ, le législateur restreint considérablement la capacité d’une partie contractante à chercher à contredire les termes d’une entente écrite.
+[40] Les articles 1399 et 1400 du CCQ portent sur les exigences en matière de consentement et sur les circonstances viciant le consentement.
+Conclusions
+[41] Dans les circonstances de l’espèce, il est clair qu’il n’existe qu’une seule entente conclue par les parties et qu’il s’agit de la convention de transaction signée par les parties en avril 2019.
+[42] Le courriel du 20 mars 2019 ne peut pas constituer une entente de règlement distincte de la convention de transaction conclue quelques semaines plus tard, et il ne peut pas non plus être invoqué pour contester de quelque façon les modalités de la convention de transaction. Il ne saurait être considéré comme un règlement global définitif comme le prétend l’appelante; sinon, les parties n’auraient pas procédé à l’examen ni à la révision de la convention de transaction et elles n’y auraient pas non plus consenti.
+[43] Dans son courriel du 20 mars 2019, l’appelante énonce les principes d’un règlement acceptable. À eux seuls, ils ne peuvent pas constituer l’ensemble des éléments constitutifs d’une entente de règlement, compte tenu des contraintes juridiques applicables à un règlement par le fisc de différends en matière d’impôt contraintes dont l’appelante a eu connaissance lors des négociations.
+[44] La convention de transaction est claire et sans équivoque et il n’existe aucun autre « commencement de preuve » pertinent qui étaye les prétentions de l’appelante quant à l’interprétation ou la mise en application de la convention de transaction.
+[45] La taxe nette de 3,9 millions de dollars que devait l’appelante, et que celle‑ci a déclarée elle-même, n’était pas, selon les actes de procédure l’une des questions en litige que la Cour devait trancher. Il s’agit d’une somme deux fois plus importante que celle que conteste l’appelante dans son appel à la Cour.
+[46] Il n’y a aucune raison de penser qu’au moment de négocier le règlement, l’une des parties aurait raisonnablement pu croire que cette taxe nette aurait dû faire l’objet du règlement de l’appel devant la Cour. Il est facilement compréhensible que l’avocat de l’intimée n’ait pas été au courant de questions ne faisant l’objet d’aucun débat dans l’appel interjeté par Québec Fonte et auxquelles il n’avait pas l’obligation de répondre. On comprend moins comment Québec Fonte pourrait avoir oublié qu’elle n’avait pas versé une somme de près de 4 millions de dollars qu’elle a déclaré elle-même devoir, indépendamment des CTI refusés dans les nouvelles cotisations de 2013. Toutefois, j’admets qu’elle dit ne pas avoir été au courant, et il n’y a aucune preuve du contraire.
+[47] Cela étant dit, il est clair que Québec Fonte est à l’origine de sa propre déconvenue relativement à la convention de transaction, puisqu’elle n’a pas porté attention à ses obligations générales en matière de TPS. Elle connaissait le risque posé par ce manque de rigueur et de diligence suffisantes, puisque l’intimée l’avait souligné à plusieurs reprises par écrit et qu’il faisait l’objet d’un article précis de la convention de transaction.
+[48] Par conséquent, la requête de l’intimée est accueillie, la requête de l’appelante est rejetée et l’appel est rejeté avec dépens.
+Signé à Montréal (Québec), ce 16e jour de novembre 2020.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE :
+2020 CCI 126
+No DU DOSSIER DE LA COUR :
+2014-3008(GST)G
+INTITULÉ DE LA CAUSE :
+QUÉBEC FONTE INC. c. LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 15 septembre 2020
+MOTIFS DE L’ORDONNANCE PAR :
+L'honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE :
+Le 16 novembre 2020
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Régent Laforest
+Avocats de l'intimée :
+Me Antoine Lamarre
+Me Normand Perreault
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante:
+Nom :
+Me Régent Laforest
+Cabinet :
+Ségal, Laforest
+Saint-Adolphe-d’Howard (Québec)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

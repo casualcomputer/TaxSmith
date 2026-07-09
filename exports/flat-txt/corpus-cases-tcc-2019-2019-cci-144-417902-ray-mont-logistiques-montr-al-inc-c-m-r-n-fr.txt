@@ -1,0 +1,255 @@
+Title: Ray-Mont Logistiques Montréal Inc. c. M.R.N
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/417902/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-144-417902-ray-mont-logistiques-montr-al-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2019-06-28
+
+# Ray-Mont Logistiques Montréal Inc. c. M.R.N
+
+- Citation: 2019 CCI 144
+- Decision date: 2019-06-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4384, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ray-Mont Logistiques Montréal Inc. c. M.R.N
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-06-28
+Référence neutre
+2019 CCI 144
+Numéro de dossier
+2017-1476(EI)
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2017-1476(EI)
+ENTRE :
+RAY-MONT LOGISTIQUES MONTRÉAL INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu sur preuve commune avec l’appel de Ray-Mont Logistiques Montréal Inc. (2017-1478(CPP)) les 25 et 26 septembre 2018, à Montréal (Québec).
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Avocats de l'appelante :
+Me Christopher R. Mostovac
+Me Maude Piché
+Avocats de l'intimé :
+Me Gabriel Girouard
+Me Annie Laflamme
+JUGEMENT
+L’appel de la décision rendue par le ministre du Revenu national en vertu de l’article 91 de la Loi sur l’assurance-emploi en date du 24 février 2017 est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de juin 2019.
+« Guy R. Smith »
+Juge Smith
+Dossier : 2017-1478(CPP)
+ENTRE :
+RAY-MONT LOGISTIQUES MONTRÉAL INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu sur preuve commune avec l’appel de Ray-Mont Logistiques Montréal Inc. (2017-1476(EI)) les 25 et 26 septembre 2018, à Montréal (Québec).
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Avocats de l'appelante :
+Me Christopher R. Mostovac
+Me Maude Piché
+Avocats de l'intimé :
+Me Gabriel Girouard
+Me Annie Laflamme
+JUGEMENT
+L’appel de la décision rendue par le ministre du Revenu national en vertu de l’article 27 du Régime de pensions du Canada en date du 24 février 2017 est accueilli, déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de juin 2019.
+« Guy R. Smith »
+Juge Smith
+Référence : 2019 CCI 144
+Date : 20190628
+Dossiers : 2017-1476(EI)
+2017-1478(CPP)
+ENTRE :
+RAY-MONT LOGISTIQUES MONTRÉAL INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Smith
+I. INTRODUCTION
+[1] Ray-Mont Logistiques Montréal Inc. (ci-après « Ray-Mont ») interjette appel d’une décision rendue par le ministre du Revenu national (ci-après le « Ministre ») le 24 février 2017 à l’égard de certains de ses travailleurs (« les travailleurs ») dont la période en litige est indiquée à l’annexe A.
+[2] Selon le Ministre, ces travailleurs occupent un emploi assurable en vertu des dispositions pertinentes de la Loi sur l’assurance-emploi, L.C. 1996, ch. 23 (« LAE ») et, pour un travailleur seulement, en vertu du Régime de pensions du Canada, L.R.C. (1985), ch. C-8, (« RPC »).
+[3] Pour les motifs qui suivent, l’appel relatif à la LAE doit être rejeté et l’appel relatif à la RPC doit être accueilli en partie.
+II. EXPOSÉ DES FAITS
+[4] Ray-Mont est une société spécialisée dans les services de logistique pour l’exportation sur le marché mondial de produits agroalimentaires soit des grains et des légumineuses. Son rôle consiste à recevoir des cargaisons livrées par camion ou wagon ferroviaire en provenance de l’Ouest canadien et de les transborder dans des conteneurs maritimes au port de Montréal qui seront éventuellement livrés outre-mer.
+[5] Les travailleurs dont il est question dans cette instance sont chargés de la manutention et du transbordement des poches contenant les divers produits agroalimentaires. Selon Ray-Mont, il s’agit de travailleurs autonomes.
+[6] La Cour a entendu le témoignage de plusieurs travailleurs. Elle a aussi entendu le témoignage du directeur des opérations et d’un individu qui a travaillé comme superviseur pour Ray-Mont.
+Jonathan Dandenault
+[7] M. Dandenault est directeur des opérations depuis plus de seize (16) ans. À ce titre, il est responsable des salariés (dont il n’est pas question ici) et des travailleurs dits autonomes. Il doit structurer leurs horaires et assurer le bon fonctionnement général des opérations de l’entreprise.
+[8] À l’égard des employés salariés, M. Dandenault doit s’assurer qu’ils sont à leur poste selon l’horaire de la semaine préétabli et que leur travail est effectué selon ce qui a été convenu. Pour les travailleurs, il n’y a pas de travail à temps plein étant donné la nature saisonnière de l’entreprise.
+i) Horaire de travail des travailleurs
+[9] Tel qu’indiqué ci-dessus, les travailleurs ont la tâche de décharger les poches et de les transborder dans les conteneurs. Le rôle du directeur à l’égard de ces travailleurs consiste à calculer le nombre de camions ou de wagons en transit afin de déterminer le volume de travail.
+[10] Il communique avec les travailleurs soit par courriel ou message texte, la journée précédant l’arrivée des cargaisons afin de déterminer leur disponibilité et de convenir une heure pour débuter les travaux, tout en respectant le quart de travail désiré, jour ou soir, selon le cas. Le travailleur doit alors répondre par l’affirmative ou la négative concernant le travail proposé. S’il n’est pas disponible, M. Dandenault passe au prochain sur la liste de travailleurs. Selon lui, malgré l’heure suggérée pour le début des travaux, les travailleurs peuvent se présenter plus tard.
+ii) Travail effectué par les travailleurs
+[11] Les travailleurs s’organisent en équipes : un travailleur agit comme « tireur » pour sortir les poches et l’autre comme « pileur » pour déposer ou empiler les poches dans le conteneur, mais ils peuvent changer de rôle selon ce qui leur convient. Le transbordement s’effectue donc en deux temps et consiste à retirer les poches et à les transborder aux conteneurs.
+[12] Le travailleur qui a confirmé sa présence le jour précédent se présente dans la cour de l’entreprise. Une fois sur les lieux, le directeur des opérations (ou son subalterne, le superviseur du chantier) explique certaines spécifications du client en question, par exemple, l’installation de cartons sur les murs du conteneur ou l’inclusion de poches de gel en silicone. Quant à la méthode de travail, c’est aux travailleurs formés en équipe de deux de décider de la façon de procéder. Ils doivent seulement s’assurer qu’il y a le bon nombre de poches par conteneur.
+iii) Outils de travail
+[13] Peu d’outils sont nécessaires pour effectuer le travail – des bottes avec caps d’acier, une veste de sécurité réfléchissante et des gants selon une préférence personnelle. Les travailleurs ont leur propre tabouret (ou « step ») d’une valeur d’environ 400 $ à 500 $, afin d’effectuer le travail. Cet outil leur permet d’empiler les poches.
+[14] Selon M. Dandenault, le seul outil fourni par Ray-Mont est un convoyeur qui relie les camions ou wagons au conteneur. Il s’agit d’un outil trop coûteux pour les travailleurs. Il reconnaît qu’il n’y a aucun cas où un travailleur devait utiliser son propre convoyeur.
+iv) Facturation du travail
+[15] Chaque équipe de travailleurs reçoit la feuille de contrôle, ou « loading sheet » (la « feuille de contrôle ») pour chaque livraison. La feuille de contrôle indique le nombre de poches à transborder ainsi que le nombre de conteneurs. Les travailleurs sont payés à la pièce, c’est-à-dire selon le nombre de poches transbordées. Il arrive que l’entreprise paie aussi un supplément pour certaines tâches effectuées comme l’installation de cartons sur les murs du conteneur, le temps supplémentaire pour retirer l’emballage ou si le travail est effectué durant la fin de semaine.
+[16] Selon lui, le prix par poche est déterminé avec le travailleur. Ainsi, lorsque le travail est plus difficile, le travailleur peut négocier un montant supplémentaire. Afin de faire le suivi des poches transbordées, le travailleur peut inscrire le nombre sur une feuille à part. Ce document permet de vérifier la facture de chaque équipe préparée à la fin de la journée par Ray-Mont. Une fois le travail terminé, le superviseur signe la feuille de contrôle afin d’attester que le travail a été bien fait et confirme le nombre de poches par conteneur.
+v) Encadrement du travail
+[17] Selon M. Dandenault, les travailleurs sont responsables de la qualité de leur travail. Par exemple, si le transbordement se fait dans le mauvais conteneur, ils doivent recommencer et n’ont pas droit à une rémunération supplémentaire.
+[18] Il indique aussi que les travailleurs ont la possibilité d’emmener d’autres personnes afin de les aider. Ainsi, le rythme de travail appartient à chaque travailleur. De plus, un travailleur peut former une équipe de travail et peut changer de rôle durant le quart de travail entre le pileur et le tireur.
+[19] Il indique aussi que les travailleurs doivent respecter les standards établis par l’entreprise lorsqu’ils sont dans la cour de Ray-Mont. Par exemple, il est requis de porter une veste de sécurité en tout temps dans la cour.
+[20] M. Dandenault précise que les travailleurs dits autonomes travaillent en même temps que les employés de Ray-Mont. En fait, ils travaillent conjointement. Par exemple, les employés salariés déplacent les conteneurs au fur et à mesure que les travailleurs les remplissent. Il admet que la productivité des travailleurs est affectée par la vitesse de travail des employés.
+Mario Dionne Raymond
+[21] M. Dionne Raymond était directeur de conformité de 2013 à 2016 et superviseur du chantier de travail. Il est le cousin des actionnaires principaux. Son témoignage est très succinct. À titre de superviseur, c’est lui qui remettait aux travailleurs la feuille de contrôle avec le nombre de poches à être transbordés. Il faisait le suivi et s’assurait que les informations étaient complètes pour la préparation de la facture pour chaque équipe.
+Adelso De Jesus Da Costa
+[22] M. Da Costa est travailleur avec Ray-Mont depuis plus de 10 ans. Habituellement, il reçoit un appel téléphonique le soir précédent le quart de travail et se présente le lendemain. L’entreprise décide du nombre de poches à transborder et la feuille de contrôle qui contient ces renseignements lui est remise. Sans cette feuille, il ne peut commencer le travail.
+[23] Quant à la facturation, il indique qu’il peut négocier un montant supplémentaire si le travail prend plus de temps pour diverses raisons. Il témoigne de la présence d’un employé de Ray-Mont qui agit comme inspecteur et qui vérifie le travail effectué. Il précise qu’en cas d’erreur dans le chargement des poches, il doit refaire son travail. Le superviseur vérifie si la bonne quantité a été chargée dans le conteneur.
+[24] M. Da Costa indique qu’il a déjà travaillé pour un compétiteur. Il précise qu’il n’y avait pas de convoyeur et donc le travail était plus onéreux.
+[25] En contre-interrogatoire, il affirme qu’ayant négocié un montant supplémentaire la semaine précédant l’audition de cette instance, il n’avait pas eu de travail pour trois jours. Il indique que s’il refuse un quart de travail, il peut y avoir des représailles et que certains superviseurs peuvent décider de ne pas le rappeler pendant plusieurs jours.
+Adipenza Bemboy
+[26] M. Bemboy travaille chez Ray-Mont depuis presque 15 ans, mais il a aussi travaillé chez un compétiteur. Il explique que Ray-Mont lui remet la feuille de contrôle lors de son arrivée et que, à la fin de la journée, une facture est émise qui reflète sa production de la journée. Il explique qu’il fait le suivi de son travail sur une autre feuille afin de s’assurer que les chiffres sont exacts.
+[27] Il explique que l’horaire d’un travailleur peut varier d’un travailleur à l’autre. Généralement, on communique avec lui soit par téléphone ou messagerie texte pour vérifier sa disponibilité pour un moment précis. Il accepte généralement de travailler, mais indique qu’il peut décider d’accepter ou non et que c’est à son choix.
+[28] Il ajoute que son quart de travail peut changer. Il travaille seulement comme tireur et il ne travaille pas toujours avec la même personne. En fonction de son coéquipier, la durée et le moment de la pause peut changer. Il affirme qu’il a lui-même payé ses bottes, ses gants et sa veste de sécurité.
+Alexis Garcia Quinteros
+[29] M. Quinteros travaille depuis cinq ans pour Ray-Mont. Il a commencé à travailler en accompagnant son père, mais, après un certain temps, le superviseur s’est mis à communiquer directement avec lui.
+[30] Il affirme avoir accepté la plupart des quarts de travail proposés, avec quelques rares exceptions. De plus, il affirme que ce sont les superviseurs qui décident de l’attribution des travailleurs pour chaque quart de travail.
+[31] M. Quinteros mentionne qu’à une occasion, les travailleurs se sont regroupés afin de négocier leur rémunération. Il affirme que ce n’était pas une grève, mais que le travail s’est arrêté momentanément.
+Antoine Raymond
+[32] Antoine Raymond est lié aux actionnaires de Ray-Mont, étant le fils d’un actionnaire et le frère d’un autre actionnaire. Il a débuté en tant qu’employé salarié en travaillant à temps partiel. Puisqu’il manquait de travail à temps plein, Ray-Mont lui a offert une transition dans le travail de transbordement.
+[33] Selon lui, le travail de transbordement comporte plus d’incertitude et un certain risque puisqu’il n’est plus payé à l’heure. Cependant, il est d’avis que ça en vaut la peine puisqu’il peut faire plus d’argent.
+[34] Il a appris le travail en observant les travailleurs, mais il n’a pas reçu de formation supplémentaire de la part de Ray-Mont. Ce sont les travailleurs qui lui ont enseigné des techniques de travail.
+Mohamed Maarouf
+[35] M. Maarouf est agent des appels à l’agence du Revenu du Canada. Son rôle est de statuer sur les appels qu’il reçoit, c’est-à-dire de réviser la décision et les pièces justificatives. Il était l’agent d’appels au dossier de Ray-Mont.
+[36] Il n’y a pas lieu de revoir son témoignage puisqu’il est arrivé à des conclusions de faits et de droit qui sont le sujet même du présent litige.
+III. DROIT APPLICABLE
+[37] Tel qu’indiqué ci-dessus, la question au cœur du litige est de savoir si les travailleurs en question sont des travailleurs autonomes, ou s’il existe plutôt une relation employé/employeur, régie par un contrat de travail.
+[38] Étant donné que le lieu de travail est au Québec, il est de mise de revoir l’article 8.1 de la Loi d’interprétation, L.R.C. (1985), c. I-21 qui reconnaît la complémentarité du droit civil québécois et du droit fédéral lorsque les conditions sont rencontrées. L’article se lit comme suit :
+8.1 - Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+[39] La première disposition que la Cour doit à la fois interpréter et appliquer dans cette instance est l’article 5(1)(a) de la LAE qui prévoit ce qui suit :
+Sous réserve du paragraphe (2), est un emploi assurable :
+(a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[40] La deuxième disposition que la Cour doit interpréter et appliquer est l’alinéa 6(1)(a) de la RPC qui prévoit qu’un emploi donne droit à une pension s’il s’agit d’un emploi « au Canada qui n’est pas un emploi excepté ».
+[41] Afin de déterminer s’il y a un « emploi assurable » au sens de la LAE ou un emploi donnant droit à une pension en vertu du RPC, la Cour doit tenir compte des dispositions pertinentes du Code civil du Québec, L.Q. 1991, c.64 (C.c.Q.), notamment les dispositions suivantes :
+1425. Dans l’interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s’arrêter au sens littéral des termes utilisés.
+1426. On tient compte, dans l’interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l’interprétation que les parties lui ont déjà donnée ou qu’il peut avoir reçue, ainsi que des usages.
+[…]
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+2086. Le contrat de travail est à durée déterminée ou indéterminée.
+[. . .]
+2098. Le contrat d’entreprise ou de service est celui par lequel une personne, selon le cas l’entrepreneur ou le prestataire de services, s’engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s’oblige à lui payer.
+2099. L’entrepreneur ou le prestataire de services a le libre choix des moyens d’exécution du contrat et il n’existe entre lui et le client aucun lien de subordination quant à son exécution.
+[42] La notion de la complémentarité du droit civil québécois et du droit fédéral a été revue par la Cour d’appel fédérale dans la décision Grimard c. R., 2009 CAF 47 (« Grimard »), où le juge Létourneau a indiqué (au para. 27) qu’il « serait erroné de croire qu’il y a antinomie entre les principes du droit civil québécois sur la question et ce qu’il est convenu d’appeler les critères de common law, soit le contrôle, la propriété des outils, l’expectative de profits et les risques de perte et, enfin, l’intégration du travailleur à l’entreprise ».
+[43] Le juge Létourneau a ajouté « que le droit civil québécois (…) définit les éléments requis pour l’existence d’un contrat de travail ou d’un contrat d’entreprise. Pour sa part, la common law énumère plutôt des facteurs ou critères qui, si présents, servent à déterminer l’existence ou non de tels contrats » (para 29). Il conclut avec ce qui suit :
+[43] En somme, il n’y a pas, à mon avis, d’antinomie entre les principes du droit civil québécois et les soi‑disant critères de common law utilisés pour qualifier la nature juridique de la relation de travail entre deux parties. Dans la recherche d’un lien de subordination juridique, c’est-à-dire de ce contrôle du travail, exigé par le droit civil du Québec pour l’existence d’un contrat de travail, aucune erreur ne résulte du fait que le tribunal prenne en compte, comme indices d’encadrement, les autres critères mis de l’avant par la common law, soit la propriété des outils, l’expectative de profits et les risques de pertes, ainsi que l’intégration dans l’entreprise.
+(Mon soulignement)
+[44] La Cour doit se demander s’il y a « contrat de louage de services » selon l’expression qui figure dans le paragraphe 5(1)(a) de la LAE. Autrement dit, elle doit déterminer s’il y a un « contrat de travail » selon l’article 2085 C.c.Q. où la personne en question s’engage « à effectuer un travail sous la direction ou le contrôle d’une autre personne », c’est-à-dire un employeur.
+[45] Pour que la Cour puisse conclure qu’il s’agit de travailleurs autonomes, comme le prétend l’appelant, elle doit être satisfaite que ces derniers avaient « le libre choix des moyens d’exécution du contrat » et qu’il n’existait « (…) aucun lien de subordination quant à son exécution » selon la formulation prévue à l’article 2099 C.c.Q.
+[46] L’article 1425 C.c.Q. prévoit que « dans l’interprétation du contrat », la Cour doit s’arrêter à « la commune intention des parties ». D’ailleurs, la Cour d’appel fédérale a indiqué que cette analyse se fait en deux étapes. La Cour doit d’abord tenir compte de l’intention subjective de chacune des parties à la relation de travail puis faire une analyse afin de déterminer si elle correspond objectivement à cette intention : 1392644 Ontario Inc. (Connor Homes) c. Canada (revenu national), 2013 CAF 85 (« Connor Homes »).
+[47] Pour ce faire, la Cour doit adopter une approche multidimensionnelle et un certain nombre de facteurs doivent être soupesés. Comme l’indique la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59 (« Sagaz Industries »), les facteurs exerçant la plus grande incidence sont ceux établis par la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Ltd., c. Ministre du Revenu national, [1986] 3 CF 553 (« Wiebe Door »). Les facteurs Wiebe Door représentent un amalgame de plusieurs critères utilisés dans la jurisprudence, dont :
+le degré ou l’absence de contrôle exercé par l’employeur allégué;
+la propriété des instruments de travail;
+la possibilité de profit et le risque de perte et de responsabilité;
+l’intégration du travail des employés allégués à l’entreprise des employeurs allégués.
+[48] L’objectif principal de l’analyse objective de ces facteurs consiste à répondre à la question de savoir si la personne qui fournit les services le fait à titre d’employé ou si elle les fournit en tant que personne travaillant à son propre compte : Sagaz Industries, para. 47.
+[49] L’appelant s’appuie sur la décision Entreprises Yvon Bessette Inc. c. Québec (Sous-ministre du Revenu), 2002 CanLII 12080 (QC CQ) où l’appelant a obtenu un jugement favorable quant à la détermination du statut de ses travailleurs. Il s’agit d’un compétiteur de Ray-Mont. La Cour du Québec a conclu dans cette affaire que les manutentionnaires étaient des travailleurs autonomes. Malgré la similitude des faits présentés, cette Cour n’est pas liée par cette décision et se doit de faire une analyse complète et indépendante de la cause qui lui est présentée.
+IV. ANALYSE
+[50] Selon la jurisprudence, la Cour doit tout d’abord s’interroger sur « la commune intention des parties ». Si elle conclut que l’intention commune était d’établir « un contrat d’entreprise ou de service » selon lequel les travailleurs devaient « fournir un service moyennant un prix », conformément à l’article 2098 C.c.Q., elle doit ensuite faire une analyse des facteurs énumérés ci-haut afin de déterminer que les travailleurs avaient bel et bien « le libre choix des moyens d’exécution du contrat » et ce « sans lien de subordination quant à son exécution », conformément à l’article 2099 C.c.Q.
+[51] Le contrat établi entre Ray-Mont et les travailleurs était verbal et aucun document n’a été déposé devant la Cour pour indiquer le contraire.
+[52] Il est évident que les personnes-cadres distinguaient entre les salariés et les travailleurs dits autonomes. D’ailleurs, M. Dandenault a réitéré à maintes reprises que le travail était saisonnier et dépendait du volume de marchandises qui devaient être transbordées. Il gérait cette situation en communiquant avec eux au besoin, souvent le soir même ou en début de semaine.
+[53] Il y a lieu de se demander si Ray-Mont avait réellement l’intention de retenir les services des travailleurs en vertu « d’un contrat de service ou d’entreprise ». Tel qu’indiqué dans les témoignages, chaque équipe de travailleurs recevait une feuille de contrôle avant de débuter les travaux, le transbordement s’effectuait avec la présence d’un superviseur et Ray-Mont préparait les factures pour chaque équipe à la fin de la journée.
+[54] L’analyse de l’intention des travailleurs est aussi problématique. Ils ont compris qu’ils devaient eux-mêmes fournir certains outils et qu’ils étaient libres de travailler pour un compétiteur. Ils ont compris qu’il n’y avait pas de travail à temps plein, qu’ils seraient appelés seulement au besoin, qu’ils seraient payés à la pièce, qu’ils pouvaient parfois négocier un léger supplément, se former en équipe, changer de rôle au besoin et parfois se faire remplacer par quelqu’un qui était connu par Ray-Mont. Ils acceptaient ces conditions de travail, mais le témoignage de chacun d’entre eux semble suggérer qu’ils ne comprenaient pas réellement la nature de la relation juridique qui les liait à Ray-Mont.
+[55] Nonobstant ces difficultés, la question pour la Cour est de déterminer si Ray-Mont et les travailleurs « pensaient » qu’ils étaient travailleurs autonomes et indépendants et s’ils ont agi en conséquence: Royal Winnipeg Ballet c. Canada (Ministre du Revenu national), 2006 CAF 87, para. 63.
+[56] Quoiqu’il y a certainement ambigüité, la Cour conclut pour les fins de cette analyse seulement que les parties pensaient qu’ils avaient établi un « contrat d’entreprise ou de service » selon ce qui est prévu à l’article 2098 du C.c.Q.
+[57] Il reste l’analyse de la réalité objective de la relation de travail.
+i) La propriété des outils de travail
+[58] Les travailleurs avaient besoin de très peu d’outils qui étaient tous aisément transportés. Ils pouvaient les laisser dans les casiers, au besoin. Le tabouret pouvait être laissé sur place et était parfois verrouillé aux casiers.
+[59] Ray-Mont ne fournissait aucun vêtement, mais les travailleurs devaient suivre les normes de sécurité et porter la veste réfléchissante.
+[60] Le convoyeur était fourni par Ray-Mont. Il s’agissait d’une pièce relativement lourde (et probablement coûteuse) qui était bougée au besoin par les salariés et facilitait la sortie de la marchandise des camions ou des wagons. Sans cet outil, le travail aurait été beaucoup plus onéreux, moins rapide et donc moins profitable pour Ray-Mont et les travailleurs.
+[61] En fin de compte, quoiqu’il ne soit certainement pas déterminant en soi, la Cour est d’avis que l’analyse de ce facteur, notamment le peu d’outils, favorise la conclusion qu’il s’agissait d’une relation employé/employeur.
+ii) La possibilité de gains ou de pertes
+[62] Tel que résumé par Antoine Raymond qui a fait la transition d’employé salarié à travailleur au transbordement, il y avait un certain risque puisqu’il n’était pas payé à la semaine, mais ça en valait le coût.
+[63] D’ailleurs, l’appelant a remis plus d’une douzaine de factures par travailleur, dont une (la pièce A-1) qui indique qu’un travailleur a transbordé plus de 5 000 poches et rempli dix conteneurs en une seule journée. Il a été payé à la pièce et la rémunération pour la journée était d’environ 332 $, soit de 45$ à 55$ l’heure. Son coéquipier aurait reçu le même montant. Mais le montant par jour pouvait varier de 227 $ (la pièce A-8) à 498 $ (la pièce A-7). De plus, les travailleurs pouvaient à l’occasion demander un surplus et « négocier » avec le superviseur.
+[64] Il est apparent que le profit de chaque travailleur augmentait en fonction de la quantité de marchandise à transborder. La force physique ou la rapidité d’exécution pouvait aussi augmenter le profit d’un travailleur. Cependant, il faut noter que le superviseur attribuait un nombre précis de poches par équipe.
+[65] Selon l’appelant, les montants versés aux travailleurs à la suite d’une journée typique dépassaient de beaucoup le salaire minimum. Il y avait aussi le risque d’erreur qui pouvait obliger un travailleur à recommencer le travail à ses frais – mais il s’agissait d’une perte de temps et non d’une perte monétaire.
+[66] Calculée selon un tarif horaire qui pouvait varier d’une équipe à l’autre, la rémunération semble suggérer qu’il s’agissait de travailleurs autonomes. Il reste que les risques encourus n’étaient pas très différents d’un employé rémunéré par commission dont le sort est lié à sa capacité de générer des revenus en réalisant des ventes et des commissions. Les travailleurs n’avaient pas de capital à risque et le seul « investissement » nécessaire pour devenir manutentionnaire était les outils identifiés ci-dessus.
+[67] La Cour est d’avis que la possibilité de « négocier » un montant supplémentaire était plutôt factice ou artificielle et donnait aux travailleurs une certaine illusion de contrôle. De toute façon, les montants étaient minimes.
+[68] La Cour doit considérer la nature des services rendus, qui exigeaient essentiellement une certaine force physique avec une volonté de travail et un peu de finesse. Les travailleurs ne recevaient aucune formation particulière.
+[69] Dans la décision Collingwood Physiotherapy Ltd. c. Minister of National Revenue, 2002 CarswellNat 316, la Cour a conclu que des professionnels, soit des chiropraticiens, rémunérés par une clinique selon une entente de répartition des honoraires, étaient des entrepreneurs autonomes et indépendants.
+[70] Mais dans la décision Coathup c. M.R.N., 2017 CCI 54, la Cour a conclu que des enseignants donnant des cours privés à des élèves dans une école de musique étaient des employés même s’ils recevaient un pourcentage du tarif horaire versé par les étudiants. Le revenu des enseignants était établi en fonction du nombre d’élèves et diminuait s’ils perdaient des élèves. Malgré ces faits, la Cour a conclu que les enseignants n’avaient aucune possibilité de profit ni aucun risque de perte dans le sens véritable de l’expression, n’étant pas obligé d’investir des fonds pour toucher un revenu. La seule façon d’augmenter leur revenu consistait à travailler davantage, ce qui, selon la Cour, « n’est pas la même chose qu’une possibilité de profit » (paragraphe 55).
+[71] L’appelante reconnaît que le « profit » des travailleurs est, pour toute fin pratique, calculé selon le nombre de poches transbordées dans une journée. L’article 5(1)(a) de la LAE prévoit d'ailleurs qu’il s’agit d’un « emploi assurable » lorsque « la rémunération [est] calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces ». Le langage est sans-équivoque.
+[72] La Cour est donc d’avis que l’analyse de ce facteur favorise la conclusion qu’il s’agissait d’une relation employé/employeur..
+iii) L’intégration des travailleurs à l’entreprise
+[73] Étant donné la nature saisonnière des travaux, les travailleurs étaient appelés seulement lorsqu’il y avait du travail de transbordement. Ils jouaient un rôle important mais l’entreprise pouvait néanmoins continuer d’offrir ses services de logistiques sans qu’ils soient présents.
+[74] Ceci dit, lorsqu’ils étaient présents pour la haute saison, ils travaillaient de très près avec les employés salariés qui déplaçaient les camions, les conteneurs ou le convoyeur. Il y avait donc intégration dans l’entreprise même si la période de travail était saisonnière.
+[75] L’analyse du facteur d’intégration porte aussi à croire qu’il s’agissait d’une relation employé/employeur.
+iv) Le degré de contrôle et la subordination
+[76] Les facteurs relatifs au degré de contrôle exercé sur les travailleurs sont importants lorsqu'il s'agit de savoir s'il y a une relation de travail ou de subordination : Romanza soins capillaires et corporels inc. c ministre du Revenu national, 2015 CCI 328, para.38.
+[77] Tel qu’indiqué ci-dessus, les travailleurs se présentaient sur les lieux de travail si le directeur des opérations (ou le superviseur) avait communiqué avec eux le jour précédent. Ils pouvaient accepter ou refuser le travail (ou aller travailler pour un compétiteur), mais selon leurs témoignages, ils acceptaient presque toujours le travail et l’heure convenue. Un travailleur a indiqué qu’il pouvait y avoir des représailles s’il n’acceptait pas l’heure convenue et que le superviseur pouvait attendre quelque temps avant de le rappeler.
+[78] Sur les lieux, aucun travail ne débutait sans la feuille de contrôle. Ils devaient travailler de pair avec les salariés chargés de déplacer les conteneurs. De plus, ils devaient suivre les consignes des clients en ajoutant une matière pour protéger les poches dans les conteneurs. Quant à la méthodologie, ils étaient libres de former une équipe, de changer de rôle et ainsi de suite, mais le travail final était vérifié. Ils pouvaient se faire remplacer, mais c’est le superviseur des opérations qui communiquait avec les remplaçants. Il y avait une deuxième feuille de contrôle qui était vérifiée par le superviseur avant d’être remise à la comptabilité pour la préparation de la facture pour chaque travailleur.
+[79] Les travailleurs assumaient soit le rôle de « tireur » ou celui de « pileur », mais il s’agissait essentiellement d’un travail manuel et physique. Ils avaient une certaine liberté quant à la méthodologie exercée pour effectuer le transbordement, mais il est difficile de conclure qu’ils avaient réellement « le libre choix des moyens d’exécution » des travaux comme prévu à l’article 2099 du C.c.Q. Ils ne pouvaient débuter les travaux sans la feuille de contrôle et le directeur des opérations ou un superviseur était présent pendant la période de travail.
+[80] Pour les travailleurs d’expérience, il y avait une certaine liberté, mais la Cour est d’avis qu’il y avait néanmoins un « lien de subordination quant à » l’exécution des travaux et que « la direction ou le contrôle » de Ray-Mont était pour toute fin pratique omniprésent dans la relation de travail.
+[81] Puisque la Cour conclu qu’il y avait un lien de subordination, elle doit aussi conclure que l’analyse de ce facteur porte à croire qu’il s’agissait d’une relation employé/employeur.
+[82] L’analyse de la réalité objective de la relation de travail et notamment des facteurs énumérés ci-dessus, indique qu’il s’agissait d’une relation employé/employeur. Il ne s’agissait donc pas de travailleurs autonomes.
+V. RÉGIME DE PENSIONS DU CANADA
+[83] Il reste la question de l’application du Régime de pensions du Canada ou « RPC ». Le Ministre prétend que Santiago Armando Galeas a droit à cette pension pour la période en litige puisqu’il a été embauché « selon une entente conclue dans la province de la Colombie-Britannique ».
+[84] Le paragraphe 4(4) du RPC prévoit que, pour l’application de la Loi, « une personne est réputée employée dans la province où est situé l’établissement de son employeur où elle se présente pour le travail ».
+[85] Or selon la preuve testimoniale, M. Galeas a travaillé à Vancouver de 2011 à 2014 et par la suite à partir du siège social situé à Montréal. Par la suite, il est déménagé à Montréal. Donc pour les fins de la RPC, la période en litige serait du 1er janvier 2013 au 31 décembre 2014.
+VI. CONCLUSION
+[86] Pour ces motifs, la Cour conclut que les travailleurs occupaient un « emploi assurable » pour la période en litige en vertu de l’alinéa 5(1)(a) de la LAE et que Antoine Raymond, nonobstant son lien de dépendance, occupait un « emploi assurable » en vertu du paragraphe 5(3) de la LAE.
+[87] De plus, la Cour conclut que Santiago Armando Galeas occupait un emploi donnant droit à une pension en vertu de l’alinéa 6(1)(a) de la RPC pour la période du 1er janvier 2013 au 31 décembre 2014.
+Signé à Ottawa, Canada, ce 28e jour de juin 2019.
+« Guy R. Smith »
+Juge Smith
+ANNEXE A
+Voici la période en litige (la « période en litige ») pour chaque travailleur :
+Antoine Raymond : 1er janvier 2013 au 8 juillet 2016
+Adelso De Jesus Acosta : 1er janvier 2013 au 12 décembre 2014
+Alexis Garcia Quinteros : 1er janvier 2013 au 8 juillet 2016
+Adimpenza Bemboy : 1er janvier 2013 au 31 décembre 2014
+Santiago Armando Galeas : 1er janvier 2013 au 8 juillet 2016
+RÉFÉRENCE :
+2019 CCI 144
+Nos DES DOSSIERS DE LA COUR :
+2017-1476(EI) 2017-1478(CPP)
+INTITULÉ DE LA CAUSE :
+RAY-MONT LOGISTIQUES MONTRÉAL INC. c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+les 25 et 26 septembre 2018
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 28 juin 2019
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Christopher R. Mostovac
+Me Maude Piché
+Avocats de l'intimé :
+Me Gabriel Girouard
+Me Annie Laflamme
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante:
+Nom :
+Me Christopher R. Mostovac
+Me Maude Piché
+Cabinet :
+Starnino Mostovac
+Montréal (Québec)
+Pour l’intimé :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

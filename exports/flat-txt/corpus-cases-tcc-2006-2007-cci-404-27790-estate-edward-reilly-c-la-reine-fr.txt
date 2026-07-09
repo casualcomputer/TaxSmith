@@ -1,0 +1,183 @@
+Title: Estate Edward Reilly c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27790/index.do
+Corpus path: corpus/cases/tcc/2006/2007-cci-404-27790-estate-edward-reilly-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-11-20
+
+# Estate Edward Reilly c. La Reine
+
+- Citation: 2007 CCI 404
+- Decision date: 2006-11-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 270, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Estate Edward Reilly c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-20
+Référence neutre
+2007 CCI 404
+Numéro de dossier
+2005-1756(IT)G
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1756(IT)G
+ENTRE :
+LA SUCCESSION D’EDWARD REILLY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 novembre 2006 à Winnipeg (Manitoba)
+Devant : L’honorable juge suppléant M.A. Mogan
+Comparutions :
+Représentante de l’appelante :
+Mme Carole Reilly
+Avocate de l’intimée :
+Me Penny L. Piper
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 18e jour de juillet 2007.
+« M.A. Mogan »
+M.A. Mogan, juge suppléant
+Traduction certifiée conforme
+ce 29 jour d’août 2007
+D. Laberge, LL.L.
+Référence : 2007CCI404
+Date : 20070718
+Dossier : 2005-1756(IT)G
+ENTRE :
+LA SUCCESSION D’EDWARD REILLY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Mogan
+[1] Depuis 1972, la Loi de l’impôt sur le revenu fédérale (la « Loi ») prévoit que les gains en capital sont imposables. Les dispositions de la Loi y afférentes figurent à la « sous-section c » (articles 38 à 55). D’autres dispositions de la Loi prévoient l’exonération de tout ou partie du gain réalisé au moment de la disposition de certaines immobilisations. En particulier, les « actions admissibles de petite entreprise » sont exonérées, c’est-à-dire en termes généraux, les actions d’une société privée sous contrôle canadien qui utilise la totalité de ses éléments d’actif, ou presque, en vue d’exploiter activement une entreprise au Canada.
+[2] Les dispositions de la Loi prévoyant l’exonération susmentionnée sont complexes. Pour être bref et par souci de simplicité, je reproduirai les trois dispositions les plus pertinentes en citant uniquement les passages qui sont, selon moi, pertinents aux fins qui nous occupent :
+110.6(1) Les définitions qui suivent s’appliquent au présent article.
+« action admissible de petite entreprise » S’agissant d’une action admissible de petite entreprise d’un particulier [...] à un moment donné, action du capital-actions d’une société qui, à la fois :
+a) au moment donné, est une action du capital-actions d’une société exploitant une petite entreprise [...]
+248(1) « société exploitant une petite entreprise » Sous réserve du paragraphe 110.6(15), société privée sous contrôle canadien et dont la totalité, ou presque, de la juste valeur marchande des éléments d’actif est attribuable, à un moment donné, à des éléments qui sont :
+a) soit utilisés principalement dans une entreprise que la société ou une société qui lui est liée exploite activement principalement au Canada;
+b) […]
+110.6(2.1) Le particulier […] qui dispose au cours de cette année donnée [l’année d’imposition] […] d’actions qui sont alors des actions admissibles de petite entreprise peut déduire, dans le calcul de son revenu imposable pour l’année donnée, le montant qu’il peut demander et qui ne dépasse pas le moins élevé des montants suivants :
+a) le montant déterminé selon la formule figurant à l’alinéa (2)a) à l’égard du particulier pour l’année;
+b) […]
+c) […]
+d) l’excédent qui serait calculé quant au particulier pour l’année donnée en application de l’alinéa 3b) […] au titre des gains en capital et des pertes en capital, si les seuls biens visés à l’alinéa 3b) étaient des actions admissibles de petite entreprise […]
+[3] M. Edward Reilly (« M. Reilly ») est décédé le 13 mars 2000. Au moment de son décès, il contrôlait une société qui exploitait quatre entreprises différentes, à Carberry (Manitoba) : un magasin Home Hardware, une entreprise de plomberie, un lave‑auto et une laverie. Lors de son décès, la propriété des entreprises était répartie comme suit :
+(i) M. Reilly détenait toutes les actions émises de 62490 Manitoba Ltd. (« Holdco »);
+(ii) Holdco détenait toutes les actions émises de Reilly Ventures Limited (« Ventures »);
+(iii) Ventures était propriétaire des quatre entreprises familiales qu’elle exploitait : la quincaillerie, l’entreprise de plomberie, le lave‑auto et la laverie.
+[4] Lorsque la déclaration de revenus de M. Reilly a été produite pour l’année de son décès (l’année 2000), l’exécutrice testamentaire a demandé une exonération d’un montant de 273 200 $ relativement au gain en capital à l’égard de la valeur des actions que M. Reilly détenait dans Holdco et dans Ventures. Lorsqu’il a établi la cotisation d’impôt à l’égard de la déclaration de revenus de l’année du décès, le ministre du Revenu national a refusé d’accorder l’exonération relative au gain en capital pour le motif que les actions de Holdco et de Ventures n’étaient pas des « actions admissibles de petite entreprise ». L’exécutrice testamentaire a interjeté appel de cette cotisation.
+[5] La question générale dont la Cour est saisie est de savoir si les actions en question sont visées par les dispositions susmentionnées de la Loi et doivent être considérées comme des actions admissibles de petite entreprise. Plus précisément, il s’agit de savoir si la totalité, ou presque, de la juste valeur marchande des éléments d’actif de Ventures (au cours des 24 mois qui ont précédé le décès) était attribuable à des éléments qui étaient utilisés principalement dans une entreprise exploitée activement principalement au Canada.
+[6] La question la plus précise est centrée sur le bilan de Ventures au 31 mai 2000, soit dans les 90 jours qui ont suivi le décès de M. Reilly. Les pièces A-1 (renvoi 7) et R-1 (onglet 4B) renferment les états financiers non vérifiés de Ventures au 31 mai 2000 (plus les chiffres des quatre exercices précédents aux fins d’une comparaison). Les actifs figurant dans le bilan de Ventures au 31 mai 2000 peuvent être répartis entre les quatre catégories suivantes :
+Éléments d’actif selon le bilan
+Valeur au bilan
+%
+1. Encaisse et titres négociables
+272 821 $
+38,0 %
+2. Créances, stocks, impôts recouvrables, frais payés d’avance et achalandage
+256 240 $
+35,5 %
+3. Immobilisations (fonds, bâtiments, matériel, etc.)
+90 022 $
+12,5 %
+4. Capitaux engagés dans la franchise Home Hardware
+95 509 $
+14,0 %
+Total des actifs
+718 592 $
+100 %
+[7] L’intimée fonde sa cause sur la thèse voulant que, selon le bilan de Ventures au 31 mai 2000, la valeur comptable des éléments d’actif de Ventures lors du décès de M. Reilly peut être considérée comme étant utilisée principalement dans l’une ou plus des entreprises exploitées activement au Canada que dans une proportion de 62 p. 100 seulement. L’intimée estime que l’encaisse et les titres négociables sont des actifs hors exploitation en ce qui concerne les entreprises exploitées activement par Ventures.
+[8] Selon l’appelante, l’encaisse et les titres négociables sont nécessaires en vue de faciliter le transfert des entreprises actives de M. Reilly à la génération suivante. M. Reilly et sa femme, Carole, avaient trois enfants : Christina (fille) née en 1964, Sandy (fille) née en 1967 et Richard Jay (fils) né en 1972. M. Reilly et Carole se sont séparés en 1985 et ont divorcé en 1992, mais au fil des ans ils ont continué à entretenir des relations cordiales. Dans son dernier testament, daté du 5 novembre 1980 (pièces A-1, renvoi 11, et R-1, onglet 1), M. Reilly désignait sa femme Carole comme seule exécutrice testamentaire et comme seule bénéficiaire si elle lui survivait. Après la séparation et le divorce, aucun autre testament n’a été rédigé.
+[9] Carole a survécu à M. Reilly et elle est devenue la seule exécutrice testamentaire. Elle a témoigné lors de l’audition du présent appel et elle a déclaré que, juste avant de mourir au mois de mars 2000, M. Reilly lui avait dit qu’il savait qu’elle ferait ce qu’il convenait de faire. Carole savait que M. Reilly voulait que leurs enfants continuent à exploiter les entreprises qu’il avait lancées. Au mois de janvier 1995, cinq ans avant son décès, M. Reilly était tombé gravement malade et il avait été obligé de se faire amputer une jambe. Il est par la suite devenu admissible à un crédit d’impôt pour personnes handicapées. Sa maladie débilitante l’avait contraint à prendre d’autres dispositions pour certaines parties de ses entreprises, comme l’entreprise de plomberie, qu’il ne pouvait plus exploiter lui‑même.
+[10] Au cours des années qui ont précédé le décès de M. Reilly, et en particulier après 1995, lorsqu’il a été atteint de sa déficience, le fils de M. Reilly, Richard Jay, a pris en charge la gestion de l’entreprise de plomberie, du lave‑auto et de la laverie; la fille aînée, Christina, travaillait à temps partiel au magasin Home Hardware. Après le décès de M. Reilly, Carole a laissé Richard Jay et Christina respectivement s’occuper de la gestion de ces entreprises. En 2005, l’entreprise de plomberie, le lave‑auto et la laverie sont devenus le gagne‑pain de Richard. Christina a témoigné à l’audience; elle a déclaré être propriétaire‑gérante du magasin Home Hardware, à Carberry, où travaillent quatre employés à temps plein.
+[11] Le bilan de Ventures au 31 mai 2000 (pièces A‑1, renvoi 7, et R‑1, onglet 4B) renfermait des chiffres comparatifs pour les quatre exercices précédents. Je résumerai ces chiffres dans le tableau reproduit ci-dessous, en indiquant à la dernière ligne le pourcentage respectif de la valeur de l’encaisse et des titres négociables par rapport à la valeur de l’ensemble des actifs figurant dans le bilan :
+1996
+1997
+1998
+1999
+Encaisse et titres négociables
+162 484 $
+211 070 $
+247 405 $
+246 664 $
+Créances, stocks, etc.
+275 510 $
+247 230 $
+239 703 $
+247 496 $
+Immobilisations
+102 562 $
+101 871 $
+97 719 $
+92 753 $
+Franchise Home Hardware (capitaux engagés)
+59 276 $
+67 921 $
+77 768 $
+88 285 $
+Total des éléments d’actif
+599 832 $
+628 092 $
+662 592 $
+675 198 $
+Encaisse et titres négociables exprimés en pourcentage du total des éléments d’actif
+27 %
+33 %
+37 %
+36 %
+[12] Les tableaux figurant aux paragraphes 6 et 11 ci-dessus montrent qu’au cours de chaque exercice allant de l’année 1996 à l’année 2000 inclusivement, la valeur de l’encaisse et des titres négociables de Ventures, en tant que pourcentage de la valeur comptable de la totalité des éléments d’actif de Ventures, n’a jamais été inférieure à 27 p. 100 et que, dans l’année du décès, elle représentait 38 p. 100 de cette valeur. Dans ces conditions, est-il possible de dire que la totalité, ou presque, de la juste valeur marchande des éléments d’actif de Ventures était utilisée principalement dans des entreprises actives? L’encaisse et les titres négociables étaient-ils essentiels aux entreprises de Ventures ou étaient-ils hors exploitation?
+[13] Dans l’arrêt Ensite Limited c. La Reine, [1986] 2 R.C.S. 509, il s’agissait de savoir si les intérêts provenant de certains dépôts en dollars américains aux Philippines constituaient un revenu tiré d’un bien ou s’il s’agissait d’un revenu tiré d’un bien utilisé aux fins de l’entreprise. La société contribuable avait soutenu que les intérêts en question constituaient uniquement un revenu tiré d’un bien. En se prononçant à l’encontre de la société contribuable, la Cour suprême du Canada a dit ce qui suit aux paragraphes 14 et 15 :
+14 […] Il ne suffit pas que le bien soit utilisé à des fins commerciales. On satisfait aux exigences minimales du critère dès lors que le retrait du bien aurait « un effet nettement négatif sur les opérations de la compagnie » : March Shipping Ltd. c. Ministre du Revenu national, précité, à la p. 374. Cela créerait une distinction entre le placement de bénéfices provenant d’activités commerciales afin d’atteindre quelque but accessoire comme le remplacement à long terme d’un bien immobilisé (voir, par exemple, Bank Line Ltd. c. Commissioner of Inland Revenue (1974), 49 T.C. 307 (Scot. Ct. Of Session)) et un placement effectué pour satisfaire à une condition qui doit obligatoirement être remplie avant d’entreprendre des activités commerciales (voir, par exemple, Liverpool and London and Globe Insurance Co. v. Bennett, [1913] A.C. 610 (H.L.), et Owen v. Sassoon (1951), 32 T.C. 101 (Eng. H.C.J.) C’est dans ce dernier cas seulement que si on n’affectait plus ce bien de cet usage, l’exploitation de l’entreprise en souffrirait notablement. Il en va de même d’une condition qui n’est pas obligatoire, mais qui est néanmoins intimement liée aux activités commerciales en question, telle que la nécessité de régler certaines réclamations périodiques résultant de ces activités; voir, par exemple La Reine c. Marsh & McLennan, Ltd., précité, et La Reine c. Brown Boveri Howden Inc., 83 D.T.C. 5319 (C.A.F.)
+15. Il est vrai qu’en l’espèce le contribuable aurait pu exploiter son entreprise et satisfaire à l’exigence philippine d’importation de devises étrangères en recourant à un moyen ne comportant pas l’usage de biens. Il aurait pu emprunter les devises américaines à l’étranger pour ensuite les importer aux Philippines. Ce facteur ne revêt toutefois aucune importance aux fins de notre examen. Le critère applicable consiste non pas à déterminer si le contribuable s’est vu dans l’obligation d’employer un bien déterminé pour exploiter son entreprise, mais plutôt à se demander si ce bien a été utilisé pour satisfaire à une exigence qui devait être remplie pour qu’il puisse exploiter son entreprise. Dans cette dernière hypothèse, il s’agirait véritablement d’un bien employé et risqué dans l’entreprise. En l’espèce, le bien en cause a été employé pour satisfaire à une condition qui devait obligatoirement être remplie avant d’entreprendre des activités commerciales; loin de revêtir un caractère accessoire, ce bien est employé et risqué au sens le plus strict dans l’entreprise du contribuable. Il s’agit d’un bien dont la société a eu l’usage ou la possession aux fins de son entreprise.
+[14] Dans l’arrêt Skidmore c. La Reine, [2000] A.C.F. no 276, de la Cour d’appel fédérale, les faits se rapprochaient beaucoup plus de ceux de la présente affaire. M. et Mme Skidmore détenaient les actions d’une société familiale qui exploitait activement une entreprise, mais dont les réserves liquides étaient élevées. Lorsque M. et Mme Skidmore ont vendu les actions qu’ils détenaient dans la société familiale à une société appartenant à leurs enfants, ils ont demandé une exonération des gains en capital en vertu du paragraphe 110.6(2.1) de la Loi. Le juge Sarchuk, de la Cour, s’est prononcé à l’encontre des contribuables individuels en citant l’arrêt Ensite. La Cour d’appel fédérale a confirmé cette décision. Le juge Sexton, au nom de la Cour, a dit ce qui suit aux paragraphes 9 et 10:
+9 Le juge de la Cour de l=impôt a décidé que les appelants n=avaient pas su faire la démonstration que * la totalité, ou presque, [des éléments d=actif] de Birchill + avaient été utilisés dans une entreprise exploitée activement au sens du paragraphe 248(1) de la Loi.
+10 Il a conclu que les appelants n=avaient pas su prouver que les réserves liquides que Birchill gardait étaient raisonnablement nécessaires en tant qu=éléments d=actif de réserve ou que Birchill comptait sur les dépôts à terme et les considérait comme faisant partie intégrante de l=exploitation de l=entreprise. Il a entendu la preuve présentée par les appelants et a été incapable de conclure à l=existence d=un lien de dépendance financière d=une quelconque importance entre les montants en cause et l=entreprise de culture de semis. Il a conclu que Birchill n=avait jamais dû puiser dans les réserves et qu=il était très improbable que l=on puise dans les réserves pour assurer la subsistance de l=entreprise Birchill.
+[15] Je conclus que l’affaire qui nous occupe correspond quant à tous les points à l’affaire Skidmore. Rien ne montre que l’encaisse et les titres négociables détenus par Ventures aient été nécessaires ou même importants aux fins de l’exploitation des petites entreprises actives. Ou, comme la Cour suprême l’a dit dans l’arrêt Ensite, rien ne montre que l’encaisse et les titres négociables aient été détenus « pour satisfaire à une condition qui devait obligatoirement être remplie avant d’entreprendre des activités commerciales ».
+[16] Au cours des cinq années qui se sont écoulées entre l’année 1996 et l’année 2000, la juste valeur marchande de l’encaisse et des titres négociables, en tant que pourcentage de la valeur comptable totale de tous les actifs de Ventures, n’a jamais été inférieure à 27 p. 100 et l’année du décès de M. Reilly (en 2000) elle représentait 38 p. 100 de cette valeur. Eu égard à ces faits, je ne puis conclure que la totalité, ou presque, de la juste valeur marchande des éléments d’actif de Ventures était attribuable à des éléments utilisés principalement dans une entreprise exploitée activement. Je conclus que Ventures n’était pas une « société exploitant une petite entreprise » au sens du paragraphe 248(1) de la Loi. Et, si Ventures n’était pas une « société exploitant une petite entreprise », les actions de
+Ventures et de Holdco ne pouvaient pas être des « actions admissibles de petite entreprise » au sens du paragraphe 110.6(1). L’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 18e jour de juillet 2007.
+« M.A. Mogan »
+M.A. Mogan, juge suppléant
+Traduction certifiée conforme
+ce 29e jour d’août 2007
+D. Laberge, LL.L.
+RÉFÉRENCE : 2007CCI404
+No DU DOSSIER DE LA COUR : 2005-1756(IT)G
+INTITULÉ : LA SUCCESSION D’EDWARD REILLY
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 20 novembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge suppléant M.A. MOGAN
+DATE DU JUGEMENT : Le 18 juillet 2007
+COMPARUTIONS :
+Représentante de l’appelante :
+Mme Carole Reilly
+Avocate de l’intimée :
+Me Penny L. Piper
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

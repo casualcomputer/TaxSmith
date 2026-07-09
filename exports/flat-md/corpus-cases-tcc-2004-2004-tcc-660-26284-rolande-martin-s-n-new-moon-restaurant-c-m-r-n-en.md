@@ -1,0 +1,345 @@
+---
+title: "Rolande Martin s/n New Moon Restaurant c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26284/index.do"
+last_modified: "2004-10-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 660"
+citation2: ""
+neutral_citation: "2004 TCC 660"
+decision_date: "2004-10-14"
+language: "en"
+item_id: "26284"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3393
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:56:06.011000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fa6716e44f0c20d27a3725bcdda45eec98a5907f9ae77fef283407ec276e3510"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rolande Martin s/n New Moon Restaurant c. M.R.N.
+
+- Citation: 2004 TCC 660
+- Decision date: 2004-10-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3393, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rolande Martin s/n New Moon Restaurant c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-14
+Neutral citation
+2004 TCC 660
+File numbers
+2003-3434(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-3434(EI)
+BETWEEN:
+ROLANDE MARTIN O/A NEW MOON RESTAURANT,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+And
+CAROLE MUCKLER,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+New Moon Motel & Restaurant Inc. (2003-3435(EI)),
+Carole Muckler (2003-3437(EI) and 2003-3438(EI)),
+Romain Parent (2003-3717(EI)),
+and Madeleen Parent (2003-3718(EI) and 2003-4124(EI))
+on June 28, 2004, at Edmundston, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Representing the Appellants and the Interveners:
+Jacqueline Ruest
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister of National Revenue is upheld based on the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of October 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of February 2005.
+Wendy Blagdon, Translator
+Docket: 2003-3435(EI)
+BETWEEN:
+NEW MOON MOTEL & RESTAURANT INC.,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CAROLE MUCKLER,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Rolande Martin O/A New Moon Restaurant (2003-3434(EI)),
+Carole Muckler (2003-3437(EI) and 2003-3438(EI)),
+Romain Parent (2003-3717(EI)),
+and Madeleen Parent (2003-3718(EI) and 2003-4124(EI))
+on June 28, 2004, at Edmundston, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Representing the Appellants and the Interveners:
+Jacqueline Ruest
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister of National Revenue is upheld based on the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of October 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of February 2005.
+Wendy Blagdon, Translator
+Dockets: 2003-3437(EI) and 2003-3438(EI)
+BETWEEN:
+CAROLE MUCKLER,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ROLANDE MARTIN O/A NEW MOON RESTAURANT,
+NEW MOON MOTEL & RESTAURANT INC.,
+Interveners.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Rolande Martin O/A New Moon Restaurant (2003-3434(EI)),
+New Moon Motel & Restaurant Inc. (2003-3435(EI)),
+Romain Parent (2003-3717(EI)),
+and Madeleen Parent (2003-3718(EI) and 2003-4124(EI))
+on June 28, 2004, at Edmundston, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Representing the Appellants and the Interveners:
+Jacqueline Ruest
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeals are dismissed and the decisions rendered by the Minister of National Revenue are upheld based on the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of October 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of February 2005.
+Wendy Blagdon, Translator
+Docket: 2003-3717(EI)
+BETWEEN:
+ROMAIN PARENT,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ROLANDE MARTIN O/A NEW MOON RESTAURANT,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Rolande Martin O/A New Moon Restaurant (2003-3434(EI)),
+New Moon Motel & Restaurant Inc. (2003-3435(EI)),
+Carole Muckler (2003-3437(EI) and 2003-3438(EI)),
+and Madeleen Parent (2003-3718(EI) and 2003-4124(EI))
+on June 28, 2004, at Edmundston, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Representing the Appellants and the Interveners:
+Jacqueline Ruest
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister of National Revenue is upheld based on the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of October 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of February 2005.
+Wendy Blagdon, Translator
+Dockets: 2003-3718(EI)
+2003-4124(EI)
+BETWEEN:
+MADELEEN PARENT,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Rolande Martin O/A New Moon Restaurant (2003-3434(EI))
+New Moon Motel & Restaurant Inc. (2003-3435(EI)),
+Carole Muckler (2003-3437(EI) and 2003-3438(EI)), and
+Romain Parent (2003-3717(EI)),
+on June 28, 2004, at Edmundston, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Representing the Appellants and the Interveners:
+Jacqueline Ruest
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeals are dismissed and the decisions rendered by the Minister of National Revenue are upheld based on the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of October 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of February 2005.
+Wendy Blagdon, Translator
+Citation: 2004TCC660
+Date: 20041014
+Dockets: 2003-3434(EI),
+2003-3435(EI),
+2003-3437(EI) and 2003-3438(EI),
+2003-3717(EI),
+2003-3718(EI) and 2003-4124(EI)
+BETWEEN:
+ROLANDE MARTIN O/A NEW MOON RESTAURANT,
+NEW MOON MOTEL & RESTAURANT INC.,
+CAROLE MUCKLER,
+ROMAIN PARENT,
+MADELEEN PARENT,
+Appellants,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CAROLE MUCKLER,
+ROLANDE MARTIN O/A NEW MOON RESTAURANT,
+NEW MOON MOTEL & RESTAURANT INC.,
+Interveners.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] These appeals were heard on common evidence. Appeals 2003-3434 (EI) and 2003-3437 (EI) involve the same period of employment, when Appellant Carole Muckler was the employee and Appellant Rolande Martin was the employer, and appeals 2003-3435 (EI) and 2003-3438 (EI) involve the same period of employment, when Appellant Carole Muckler was the employee and Appellant New Moon Motel & Restaurant Inc. (hereinafter the "New Moon") was the employer. The periods at issue in these appeals are from January 12, 1997 to January 12, 1998, from January 18, 1998 to January 23, 1999, from January 24 to December 31, 1999, from January 1 to January 22, 2000, from January 23 to December 16, 2000, from December 17, 2000 to November 17, 2001, and from November 18, 2001 to November 16, 2002. Based on the payroll, Appellant Carole Muckler earned $400.40 a week from March 3, 1997 to January 16, 1998, $416.42 a week from June 15, 1998 to January 22, 1999, $416.42 a week from June 7, 1999 to October 15, 1999, $416.42 a week from July 10 to October 20, 2000, $416.42 a week from July 2 to November 16, 2001, worked five hours a week and earned $47 a week from December 3, 2001 to June 29, 2002, and earned $416.42 a week from June 30 to September 16, 2002.
+[2] In these four cases, the Appellants are appealing the decision of the Minister of National Revenue (hereinafter, the "Minister") to the effect that the employment of Appellant Carole Muckler with Rolande Martin and New Moon during the periods at issue was not insurable employment because they were not dealing at arm's length within the meaning of paragraph 5(2)(i) of the Employment Insurance Act (hereinafter the "Act"). However, the Minister found that the employment was insurable from December 3, 2001 to November 16, 2002.
+[3] In the dockets of Appellant Madeleen Parent, the periods at issue are from December 22, 1996 to October 18, 1997, from October 19, 1997 to November 7, 1998, from November 8, 1998 to November 6, 1999, from November 7, 1999 to January 31, 2000, and from February 1 to October 28, 2000. She was appealing the Minister's decision to the effect that her employment during the periods at issue was not insurable employment because she and the Payer (Rolande Martin or New Moon) had a non-arm's length relationship within the meaning of paragraph 5(2)(i) of the Act.
+[4] Appellant Romain Parent was appealing the Minister's decision to the effect that his employment with Rolande Martin during the periods from July 14 to November 29, 1997, from November 30, 1997 to November 28, 1998, and from November 29, 1998 to November 27, 1999 was not insurable employment because they had a non-arm's length relationship within the meaning of paragraph 5(2)(i) of the Act.
+[5] Appellant Rolande Martin was the sole proprietor of a business that consisted in a 68-seat restaurant, a 21-room motel, a convenience store, and until October 2000, a gasoline pump. On November 23, 1999, she incorporated New Moon; she was its sole shareholder. New Moon therefore became the new employer of the Appellants in the dispute at hand. Until 1999, the business was open 24 hours a day, seven days a week. After, the business hours were from 6 a.m. to 11 p.m. or midnight in the summer, and from 6 a.m. to 8 p.m. the rest of the year, except on Wednesdays, Saturdays and Sundays, when the business closed at 10 or 11 p.m. The business was located on the TransCanada highway near the village of Ste-Anne, New Brunswick. The business hours changed after a new four-lane section of the TransCanada highway opened on October 5, 1999. This resulted in all the highway traffic being diverted. There is no doubt that this new highway was the beginning of the end for this business.
+[6] Carole Muckler is Rolande Martin's daughter. She was hired, as required, as a cashier in the restaurant or convenience store, secretary to do the bookkeeping, dishwasher, waitress or housekeeper. Based on the payroll, she worked 44 hours a week. The above-mentioned periods were entered in the payroll. At the beginning of the periods at issue, she was paid $8.75 an hour. She was given a $0.35 an hour raise in 1998. She was the only employee who was given this raise. Despite the fact that there were 44 hours of work indicated in the payroll, her work schedule totalled only 40 hours a week. Ms. Muckler explained this by saying that she was paid by the week, not the hour.
+[7] The dispute involves the allegation that Appellant Carole Muckler worked while she was not on the payroll during all the periods at issue. She allegedly continued to provide her services on a regular basis without being paid while she was receiving employment insurance benefits and this continued until December 2001. After this date, she reported her hours of work during her periods of unemployment.
+[8] In her testimony, Ms. Muckler admitted that she had worked for her mother while she was receiving employment insurance benefits. She spent between 15 minutes and two hours at her mother's place of business. She replaced her mother when she was absent, did her shopping and deposits, and replaced the cashier as required. Because she was not paid, she did not record her hours. In response to the question as to whether she had looked for a job while she was unemployed, she said that yes, she had. In her statement to the investigation officer on October 31, 2002, she said she did not report her hours of work while she was receiving benefits because she was not paid and she was working for her mother. She added that she could have looked for another job elsewhere, but her mother had allegedly said [translation] "You're abandoning me". She could not do that to her mother.
+[9] The following passage is found in this same statement:
+[TRANSLATION] Ms. Muckler told us that she worked during periods other than those indicated in the payroll and she was not paid for that work. She did this work to help out her mother and her business because she was unable to pay her. She was not paid and did the work as a favour to her mother, who did things for her and many other people.
+[10] In a questionnaire filled out during an interview on February 24, 2003, Ms. Muckler said she worked or helped out about 10 hours a week during the winter and was not paid. She did not indicate these hours of work on her report cards because she was neither paid nor indicated on the work schedule. In her testimony, she admitted sending her son to the after-school program even when she was unemployed, which leads us to believe that she was working at that point. She did not start indicating her hours of work on her report cards until 2002, after the Royal Canadian Mounted Police made a seizure during its investigation.
+[11] For her part, Rolande Martin testified and provided us with a history of her business and discussed the financial problems she has had since the new section of the TransCanada highway opened. During the investigation and after the search warrant was obtained, all her business documents were seized. The investigation showed that the Appellant's firm and New Moon had two logs for recording staff work hours. Ms. Martin admitted banking her staff's hours for a number of years. The payroll was allegedly accurate, but a record book with "Notebook" (Exhibit I-4) indicated on it was kept for banking staff hours. All staff banked hours when they received employment insurance benefits and were not paid until they came back to work. Staff therefore provided services while they were unemployed. Ms. Martin also admitted that her daughter was the only one to get a raise and it was at her discretion.
+[12] In Appellant Madeleen Parent's case, Ms. Martin explained that Ms. Parent kept the "Notebook". Based on the payroll, the Appellant's hours of work were 50 hours a week, while the actual hours of work were indicated in the "Notebook". Appellant Madeleen Parent did not work 50 hours a week. She worked 25 hours a week and as she said, when she was "in the red", she transferred some of her husband Romain's hours, which meant that she was paid for hours worked by her husband. Like Appellant Carole Muckler, Madeleen Parent worked while she was receiving employment insurance benefits.
+[13] Appellant Madeleen Parent did the bookkeeping, and kept the payroll and records of the staff's pay. Her work hours were not fixed and she followed the instructions of her employer, Rolande Martin and New Moon. She entered the hours worked by staff and the banked time in the "Notebook". She explained that it is a seasonal business and there is not enough income in the winter to pay staff. The banked hours and the "Notebook" were used to pay staff when the business could afford to. She also admitted transferring hours worked by her spouse, Appellant Romain Parent.
+[14] Like Carole Muckler, she continued working after being laid off and while she was receiving employment insurance benefits. She made the following statement to the investigation officer on October 31, 2002, and agreed with the content of the proceedings:
+Mrs. Parent [Madeleen] was accumulating her hours part of the year because the business could not pay her. She was not declaring hours of work while collecting Employment Insurance. She was in a negative situation most of the time due to the number of hours of work and the Employment Insurance stamps that were paid to her. She was paid 50 and 55 hours a week when on payroll but was making less hours than that. There was hours transferred [sic] from her husband [sic] account to her account because she needed the hours and because her husband had all kind of hours. At the end of 1999 there was a transfer of over 470 hours transferred from Romain Parent [sic] account.
+[15] A questionnaire was entered as evidence as Exhibit I-7. It consists of a series of questions Appellant Madeleen Parent was asked and the answers confirm the scenarios implemented, that is, hours were banked using the "Notebook" and staff continued working while receiving employment insurance benefits.
+[16] Appellant Romain Parent is the brother of Appellant Rolande Martin. He testified quite candidly that he had always worked year-round for the business. He started when his father owned it and continued after he died. His sister, Rolande, ran the motel and he ran the restaurant. His sister purchased the restaurant in 1993 and he worked for her and New Moon until he retired in October 1993. He was there all the time and his wife Madeleen kept track of his hours of work. He is aware that his hours were transferred to his wife when she needed them. If she needed hours, he gave her some. He also allegedly gave his son some. He concluded his testimony by saying that his hours of work did not change when he was unemployed.
+[17] Although the Appellants' representative stated that Mr. Parent could have been suffering from Alzheimer's disease, no evidence was provided in this regard. Further, Mr. Parent seemed to understand the questions very well, was properly situated in time and responded coherently to all the questions he was asked.
+[18] This case was investigated fairly thoroughly by the investigation and appeals officers from the departments involved. As a result, all the information came to light: the banking of hours and the hours of work transferred between Appellants Romain Parent and Madeleen Parent. Tables were prepared to show the periods of employment and unemployment for each appellant employee. In Appellant Carole Muckler's case, the "Notebook" did not show that she did not work the 44 hours reported because she was scheduled to work less than 40 hours a week. Further, although she reported to work almost every day during these periods, she did not report income during her periods of unemployment.
+[19] In the case at hand, the Appellants must show, on a balance of probabilities, that the Minister inappropriately exercised his discretion having regard to all the circumstances in deciding that Rolande Martin, New Moon and the Appellants would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[20] The Federal Court of Appeal established the role the Minister plays and the Court must play in Légaré v. Canada(Minister of National Revenue - M.N.R.), [1999] F.C.J. No 878. Mr. Justice Marceau summarized as follows at paragraph 4:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[21] The Federal Court of Appeal reiterated its position in Pérusse v. Canada, [2000] F.C.J. No 310. Mr. Justice Marceau elaborated on this statement at paragraph 15:
+The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[22] The applicable legislative passages are paragraph 5(2)(i) and subsection 5(3), which read as follows:
+5(2) Excluded employment. - Insurable employment does not include
+...
+i) employment if the employer and employee are not dealing with each other at arm's length.
+5(3) Arm's length dealing. - For the purposes of paragraph (2)(i):
+a) ...
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[23] The Appellants in all the dockets are dealing with each other at non-arm's length within the meaning of the Income Tax Act. Therefore, there is a non-arm's length relationship between Employer Rolande Martin and New Moon and the Appellant employees and their employment is not included in insurable employment. After analyzing all the facts, the Minister concluded that there was a non-arm's length relationship. All of the assumptions of fact upon which the Minister's decisions were based in all the appeal dockets at hand and which were denied by the Appellants were proven by the evidence provided at the hearing. In fact, there is nothing in the evidence provided by the Appellants to allow me to conclude that there were errors in the facts considered by the Minister in exercising his discretion. In fact, the Appellants' testimony in certain cases confirmed the assumptions of fact upon which the Minister based his decision. The following are excerpts from the assumptions of fact denied by the Appellants:
+Docket 2003-3434(EI)
+h) the worker continued to provide the Appellant with her services on a regular, unpaid, basis outside the weeks entered in the payroll while she was receiving employment insurance benefits.
+Docket 2003-3718(EI)
+j) the Appellant worked for the Payer year-round without interruption for the number of hours required to carry out her duties;
+k) the hours of work entered in the special record book rarely exceeded 20 hours a week;
+m) the hours of work entered in the special record book for the Appellant were deficient until the week ending March 18, 2000; and
+n) the hours of work entered in the special record book for the Appellant during the period at issue include the transfer on September 9, 2000 of 420 hours worked by Romain Parent, her husband.
+Docket 2003-3717(EI)
+i) the Appellant worked for the Payer year-round without interruption;
+k) some hours worked by the Appellant were transferred to Madeleen Parent, his wife, as follows:
+July 11, 1998: 100 hours
+December 30, 1999: 480.5 hours
+September 9, 2000: 420 hours
+[24] There is no doubt that Rolande Martin and New Moon used a system to bank hours for employees and that Appellants Romain and Madeleen Parent were involved in it. There is also no doubt that the three appellant employees continued to provide services and work for Rolande Martin and New Moon during all the periods at issue while they were receiving employment insurance benefits. The records showed that Madeleen Parent worked 50 hours a week, when she worked only 25 hours. Romain Parent worked more hours, but was not paid for all of them. He transferred some to his son or his wife. Appellant Carole Muckler was paid for 44 hours of work, but she was scheduled for less. These types of conditions of work are normally found when the parties have non-arm's length relationships.
+[25] In Bérard v. Canada(Minister of National Revenue- M.N.R.), [1997] F.C.J. No 88, Mr. Justice Hugessen of the Federal Court of Appeal reminded us that:
+[...] The clear purpose of the legislation is to except contracts of employment between related persons that are not similar in nature to a normal contract between persons dealing with each other at arm's length.It is in our view clear that this abnormality can just as well take the form of conditions unfavourable to the employee as of favourable conditions. In either case, the employer-employee relationship is abnormal and can be suspected of having been influenced by factors other than economic forces in the labour market.
+[26] In the case of Appellant Carole Muckler, the evidence shows that not only did she work for her mother during her periods of unemployment, but she was also paid for this work. Further, she was paid based on an hourly rate for 44-hour weeks when she worked only 40 hours including a lunch break. When we look at the criteria set out in paragraph 5(3)(b) of the Act, it is clear that the remuneration paid and the terms of employment would not have been the same unless there was a non-arm's length relationship. She was the only one to be given a raise, albeit a minimal one. Given her responsibilities and the significance of her contribution, the duration of her employment was not in keeping with the employer's requirements.
+[27] The relationships between Appellants Romain and Madeleen Parent also involve terms and conditions that would only occur because of their non-arm's length relationship with Rolande Martin and New Moon. Their responsibilities required them to be present year-round and it is clear that they abused the system. The employer knew and allowed them to transfer hours between them. Appellant Madeleen Parent was paid for hours of work she did not work and Appellant Romain Parent worked more hours than he was paid for.
+[28] After hearing the evidence, I can only reach the conclusion that given the circumstances of the case at hand, the Minister's determination for all the years at issue for all the Appellants was reasonable because the conditions of work would not have been similar if the Appellant employees and the Appellant employers had been dealing at arm's length.
+[29] The appeals are dismissed.
+Signed at Ottawa, Canada, this 14th day of October 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of February 2005.
+Wendy Blagdon, Translator
+CITATION:
+2004TCC660
+COURT DOCKET NO:
+2003-3434(EI), 2003-3435(EI),
+2003-3437(EI), 2003-3438(EI),
+2003-3717(EI), 2003-3718(EI),
+2003-4124(EI),
+STYLE OF CAUSES:
+Roland Martin O/A New Moon Restaurant and M.N.R.
+New Moon Motel & Restaurant Inc. and M.N.R.
+Carole Muckler and M.N.R.
+Romain Parent and M.N.R.
+Madeleen Parent and M.N.R.
+PLACE OF HEARING:
+Edmundston, New Brunswick
+DATE OF HEARING:
+June 28, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice François Angers
+DATE OF JUDGMENTS:
+October 14, 2004
+APPEARANCES:
+For the Appellants:
+Jacqueline Ruest
+For the Respondent:
+For the Interveners:
+Julie David
+Jacqueline Ruest
+SOLICITOR OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

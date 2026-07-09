@@ -1,0 +1,117 @@
+Title: Ciobanu v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30422/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-319-30422-ciobanu-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-06-27
+
+# Ciobanu v. The Queen
+
+- Citation: 2011 TCC 319
+- Decision date: 2011-06-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7953, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ciobanu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-27
+Neutral citation
+2011 TCC 319
+File numbers
+2010-3725(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3725(IT)I
+BETWEEN:
+OTILIA CIOBANU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 30, 2011, at Toronto, Ontario
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Ben C. d'Avernas
+Counsel for the Respondent:
+Ernesto Caceres
+Bogdan Bright (student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment dated October 26, 2009 made under the Income Tax Act for the 2008 taxation year is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 27th day of June 2011.
+“Réal Favreau”
+Favreau J.
+Citation : 2011TCC319
+Date : 20110627
+Docket: 2010-3725(IT)I
+BETWEEN:
+OTILIA CIOBANU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal by way of the informal procedure from a reassessment dated October 26, 2009 made under the Income Tax Act R.S.C. 1985, c.1 (5th Supp.) as amended (the “Act”) in respect of the 2008 taxation year.
+[2] The only issue is whether the Minister of National Revenue (the “Minister”) properly levied a penalty pursuant to subsection 163(1) of the Act in respect of the Appellant’s unreported income earned in the 2008 taxation year. The issue whether section 12 of the Charter of Rights and Freedoms has any application in this matter was raised in the Notice of Appeal but was abandoned at the beginning of the hearing.
+[3] The facts that gave rise to the reassessment are not contested and may be summarized as follows:
+a) in the 2008 taxation year, the Appellant failed to report employment income in the amount of $10,781 received from the Canadian Apartment Properties Real Estate Investment Trust (the “Employer”);
+b) in the 2005 taxation year, the Appellant failed to report T4 employment income in the amount of $2,264 received from the Employer and T5 investment income in the amount of $69 received from the Bank of Canada;
+c) the Employer issued two separate T4’s to the Appellant for each of the years 2005 and 2008;
+d) for the 2008 taxation year, the Employer issued to the Appellant one T4 for $34,286 and a second T4 for $10,781 for a total of $45,067.
+[4] In reassessing the Appellant for the 2008 taxation year the Minister included unreported employment income in the amount of $10,781 and levied a penalty of $1,078.10 pursuant to subsection 163(1) of the Act.
+[5] Subsection 163(1) of the Act reads as follows:
+(1) Repeated failures. Every person who
+(a) fails to report an amount required to be included in computing the person’s income in a return filed under section 150 for a taxation year, and
+(b) had failed to report an amount required to be so included in any return filed under section 150 for any of the three preceding taxation years,
+is liable to a penalty equal to 10% of the amount described in paragraph (a), except where the person is liable to a penalty under subsection (2) in respect of that amount.
+[6] The Appellant’s agent argued that a T4 statement of employment income was unintentionally omitted from the Appellant’s tax return for each of the 2005 and 2008 taxation years. For unknown reasons, the Employer issued two T4’s in these years which is not a normal practice as employers generally issue one T4 per employee in any given year. In support to his position, the Appellant’s agent referred to the following cases:
+Alcala v. The Queen 2010 TCC 198 (CanLII)
+Raboud v. The Queen 2009 TCC 99 (CanLII)
+Khalil v. The Queen 2002 TCC 1029 (CanLII)
+R. v. Beauchamp [1953] O.R. 422 (Court of Appeal)
+[7] Subsection 163(1) imposes a penalty of 10% of the unreported income in a year where a taxpayer has failed to report income in any of the preceding three years. The onus to establish such facts rests on the Minister pursuant to subsection 163(3). As it has been admitted that the Appellant failed to report income in both 2005 and 2008 taxation years, it is clear that the Minister has met the onus of proof thereunder.
+[8] Subsection 163(1) is a strict liability provision and it is accepted and well-established law that a due diligence defence is available to a taxpayer. The onus to show due diligence is, however, on the Appellant and not on the Minister.
+[9] In Home Depot of Canada Inc. v. Canada 2009 TCC 281, [2009] G.S.T.C. 87, Justice C. Miller described in general terms the circumstances where the due diligence defence may be applied (at paragraph 14):
+“Due diligence may be applied either where there has been a reasonable error of fact or the taxpayer took reasonable steps to comply with the Act.”
+[10] In the case at hand, the circumstances leading to a due diligence defence were not present. The Appellant knew she had to report in her income the amounts shown on the T4’s she received because this is precisely what she did in 2005 and in 2008. The fact that the Appellant had received two T4’s in each year does not constitute a reasonable error of fact here. It is simply a lack of care. No credible defence of due diligence within the criteria of the law has been established. The Appellant cannot blame another person for her oversight.
+[11] The unreported income represents a substantial amount of her overall income for 2008, being approximately 24% of the total income for the year.
+[12] In my view, the case at hand is simply not similar to either Khalil or Alcala case on its facts. I do not accept the proposition of the Appellant’s agent that such cases support a test for failure to report income as suggested. An assumption that income need not be reported because a deduction for estimated income had been made is not an excusable basis for failure to report (see Grosdanof v. Canada, [1993] 2 C.T.C. 2319 followed by Justice Pizzittelli in Peterson v. Canada 2010 TCC 559).
+[13] The Appellant cannot rely on the fact that the Employer had reported the income to the Canada Revenue Agency by filing copies of the T4’s and had deducted at source most of the tax payable by the Appellant.
+[14] I accordingly conclude that the explanation put forward to justify cancellation of the penalty is not admissible. In consequence, I confirm that the penalty is well founded.
+[15] The appeal is dismissed.
+Signed at Ottawa, Canada, this 27th day of June 2011.
+“Réal Favreau”
+Favreau J.
+CITATION: 2011TCC319
+COURT FILE NO.: 2010-3725(IT)I
+STYLE OF CAUSE: OTILIA CIOBANU AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 30, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: June 27, 2011
+APPEARANCES:
+Agent for the Appellant:
+Ben C. d'Avernas
+Counsel for the Respondent:
+Ernesto Caceres
+Bogdan Bright (student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,136 @@
+Title: Vegreville Hotel & Inn Ltd c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29869/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-503-29869-vegreville-hotel-inn-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-09-09
+
+# Vegreville Hotel & Inn Ltd c. M.R.N.
+
+- Citation: 2008 CCI 503
+- Decision date: 2008-09-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6426, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vegreville Hotel & Inn Ltd c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-09
+Référence neutre
+2008 CCI 503
+Numéro de dossier
+2007-4142(EI), 2007-4143(CPP)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2007-4142(EI)
+2007-4143(CPP)
+ENTRE :
+VEGREVILLE HOTEL & INN LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+HAMID BARADARAN,
+intervenant,
+et
+SHIVA KHODABAKHSH,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 2 septembre 2008, à Edmonton (Alberta)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant de l’appelante :
+M. Hamid Rahmanian
+Avocate de l’intimé :
+Me Valerie Meier
+Représentant des intervenants :
+M. Hamid Baradaran
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des décisions rendues par le ministre du Revenu national en vertu de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada sont accueillis, et les décisions sont modifiées pour le motif que Hamid Baradaran et Shiva Khodabakhsh n’occupaient pas un emploi assurable ou ouvrant droit à pension pour le compte de l’appelante pendant la période allant du 1er mars 2006 au 28 octobre 2006.
+Signé à Edmonton (Alberta), ce 9e jour de septembre 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 29e jour de septembre 2008.
+Alya Kaddour-Lord, traductrice
+Dossier : 2008CCI503
+Date : 20080909
+Dossiers : 2007-4142(EI)
+2007-4143(CPP)
+ENTRE :
+VEGREVILLE HOTEL & INN LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+HAMID BARADARAN,
+intervenant,
+et
+SHIVA KHODABAKHSH,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 5 septembre 2008)
+La juge Woods
+[1] Les présents motifs rendus oralement portent sur les décisions rendues par le ministre du Revenu national en vertu de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada. Comme je l’ai indiqué à la fin de l’audition de l’appel, je joindrai un exemplaire de ces motifs au jugement qui sera envoyé aux parties par courrier.
+[2] En l’espèce, la question consiste à savoir si les intervenants, Hamid Baradaran et Shiva Khodabakhsh, ont travaillé pour Vegreville Hotel & Inn Ltd. à titre d’employés ou d’entrepreneurs indépendants du 1er mars 2006 au 28 octobre 2006. Dans les décisions faisant l’objet du présent appel, on a conclu que les intervenants étaient des employés.
+[3] Au cours de l’audience, Vegreville Hotel & Inn Ltd. était représentée par son propriétaire, Hamid Rahmanian. Les intervenants, qui sont mari et femme, étaient représentés par le mari, M. Baradaran.
+[4] La question essentielle que la Cour est appelée à trancher consiste à savoir si les intervenants agissaient en tant que propriétaires de leur propre entreprise lorsqu’ils ont passé un contrat avec Vegreville Hotel & Inn Ltd., ou s’ils ont été engagés en tant qu’employés.
+[5] Pour les motifs suivants, j’ai conclu que la relation s’apparentait davantage à une relation employeur‑entrepreneur indépendant qu’à une relation employeur‑employé.
+[6] Le propriétaire de Vegreville Hotel and Inn Ltd., M. Rahmanian, exploite plusieurs commerces, au nombre desquels on compte au moins un autre hôtel. Il a embauché les intervenants pour la première fois comme employés dans un autre hôtel quand ils sont venus au Canada après avoir émigré d’Iran. C’est un parent qui les avait présentés à M. Rahmanian. La relation qu’ils avaient à l’époque était clairement une relation employeur‑employé, et les intervenants étaient payés à l’heure.
+[7] Au bout d’un certain temps, M. Baradaran a souhaité occuper un poste comportant davantage de responsabilités. Tout le monde s’accordait à dire que M. Baradaran et sa femme étaient des travailleurs très compétents, et M. Rahmanian leur a offert des postes à l’hôtel Vegreville, qu’il venait tout juste d’acheter.
+[8] Les modalités régissant la relation ont été négociées, et un contrat écrit a été rédigé sans l’assistance d’un avocat. Bien que le contrat ne fasse pas expressément référence à M. Baradaran et à sa femme comme à des gestionnaires, c’est bien là la fonction dont ils s’acquittaient.
+[9] Le litige dont la Cour est saisie porte sur la question de savoir si les parties à l’entente avaient souhaité instaurer une relation employeur‑employé ou non. M. Rahmanian clame avec véhémence qu’elles n’avaient pas une telle intention, et M. Baradaran a témoigné qu’il pensait que leur relation était quelque chose qu’il a appelé [traduction] « un emploi de nature contractuelle ».
+[10] Si M. Baradaran avait pensé que l’entente créait des liens d’emploi, il n’avait aucune raison d’en arriver à cette conclusion. Il n’y a rien dans le contrat écrit qui laisse penser cela et ce n’est certainement pas M. Rahmanian qui aurait donné une telle impression à M. Baradaran.
+[11] Même si M. Baradaran s’était inquiété des subtilités juridiques et avait cherché à savoir s’il nouait des liens d’emploi au moment où le contrat a été signé, et s’il avait pensé qu’il s’agissait effectivement d’un emploi, cette impression n’aurait été que très passagère. Aucune retenue à la source n’a été effectuée sur le salaire des intervenants, ceux‑ci se sont inscrits aux fins de la TPS et ont enregistré un nom commercial, HRH Contractors. J’en conclus que les deux parties acceptaient le fait qu’elles avaient noué une relation employeur‑entrepreneur indépendant et non une relation employeur‑employé.
+[12] Il s’agit d’un élément très important en l’espèce.
+[13] Toutefois, cela ne clôt pas nécessairement la question parce que si les modalités de l’entente ne correspondent pas à celles que l’on associe à une véritable relation employeur‑entrepreneur indépendant, on considérera qu’elle créait des liens d’emploi.
+[14] À cette fin, il est utile de prendre en considération les facteurs habituels, à savoir le contrôle, la propriété des instruments de travail ainsi que les chances de bénéfice et les risques de perte.
+[15] En ce qui concerne les instruments de travail, les intervenants n’avaient pas besoin de grand chose si ce n’est d’une voiture, laquelle était fournie par les intervenants eux‑mêmes. Ils s’en servaient régulièrement dans le cadre de leur travail, essentiellement pour aller s’approvisionner en nourriture et en produits divers. D’après la preuve, une partie des frais d’essence a été facturée à Vegreville Hotel & Inn Ltd., mais le contrat écrit était muet à ce propos et les parties n’ont rien négocié sur ce point. Je ne pense pas que le fait que la voiture ait été fournie par les intervenants soit un facteur important en l’espèce, mais dans les limites de sa pertinence, il fait pencher la balance en faveur d’une relation employeur‑entrepreneur indépendant.
+[16] En ce qui a trait aux chances de bénéfice et aux risques de perte, deux dispositions du contrat s’avèrent pertinentes. Premièrement, le contrat prévoyait que les intervenants auraient droit à une partie des bénéfices à titre de gratification. Je suis d’avis qu’il s’agit d’un facteur neutre parce cette pratique est courante dans beaucoup de situations de travail, qu’il y ait lien d’emploi ou pas.
+[17] Deuxièmement, le contrat stipulait que les intervenants seraient responsables des coûts de la main‑d’œuvre si leurs fonctions étaient accomplies par des tierces parties. Il s’agit essentiellement d’une clause que l’on retrouve dans les ententes de type entrepreneurial, ce qui milite fortement en faveur d’une relation employeur‑entrepreneur indépendant.
+[18] Je prends note du fait que les fils de M. Rahmanian se sont acquittés d’une partie des fonctions des intervenants lorsque ceux‑ci ont pris un congé. Le contrat exige que les intervenants assument les coûts de la main‑d’œuvre, c’est‑à‑dire du travail de leurs fils, en pareil cas. Ils ne l’ont pas fait, mais ils ont retranché ces coûts des sommes qui leur ont été payées. Cet arrangement est compatible avec l’intention générale émanant du contrat écrit, et je ne pense pas qu’il s’agisse d’un facteur significatif. De plus, il s’agissait d’un événement isolé.
+[19] Je vais maintenant examiner la question à la lumière du facteur de contrôle afin d’établir si Vegreville Hotel & Inn Ltd. pouvait dicter aux intervenants la façon d’accomplir leur travail. À cet égard, les témoignages de M. Baradaran et de M. Rahmanian divergeaient, M. Baradaran laissant entendre que M. Rahmanian pouvait imposer ses règles en ce qui concerne la gestion de l’hôtel, et M. Rahmanian déclarant essentiellement qu’en général il ne s’en mêlait pas. Dans la mesure où les témoignages divergeaient, j’ai tendance à préférer le témoignage de M. Baradaran à celui de M. Rahmanian. M. Baradaran semblait avoir une connaissance plus directe des faits et se souvenir des événements avec plus de précision que M. Rahmanian.
+[20] Indépendamment de la question de savoir quel témoignage est le plus exact, en général, je ne pense pas que Vegreville Hotel & Inn Ltd. avait la faculté de dicter aux intervenants la façon dont ils devaient accomplir leur travail, sauf dans la mesure où cela s’avérait nécessaire afin de protéger les capitaux investis dans l’hôtel. Dans la mesure où l’hôtel Vegreville exerçait un contrôle sur les aspects ayant trait aux finances et à la sécurité, je ne pense pas que ce facteur altère la nature de la relation liant les parties. Par ailleurs, il y a eu quelques incidents isolés au cours desquels M. Rahmanian a exercé davantage de contrôle que le contrat ne lui en accordait, mais j’accepte son témoignage quand il dit qu’il n’intervenait que rarement. Je ne pense pas que des incidents isolés permettent de dresser le tableau exact de la situation. L’ensemble de la preuve me donne l’impression que les intervenants pouvaient gérer l’hôtel de la manière qu’ils jugeaient appropriée, à l’exception des questions d’ordre financier.
+[21] Pour l’ensemble de ces motifs, je conclus que la relation correspond davantage à une relation employeur‑entrepreneur indépendant qu’à une relation employeur‑employé.
+[22] Les appels seront accueillis et les décisions du ministre seront modifiées pour le motif que M. Baradaran et Mme Khodabakhsh n’occupaient pas un emploi assurable ou ouvrant droit à pension pour le compte de Vegreville Hotel & Inn Ltd.
+Signé à Edmonton (Alberta), ce 9e jour de septembre 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 29e jour de septembre 2008.
+Alya Kaddour-Lord, traductrice
+RÉFÉRENCE : 2008CCI503
+NOS DES DOSSIERS DE LA COUR : 2007-4142(EI); 2007-4143(CPP)
+INTITULÉ : Vegreville Hotel & Inn Ltd. et Le ministre du Revenu national et Hamid Baradaran et Shiva Khodabakhsh
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 2 septembre 2008
+MOTIFS DU JUGEMENT : L’honorable juge Woods
+DATE DU JUGEMENT : Le 9 septembre 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Hamid Rahmanian
+Avocate de l’intimé :
+Me Valerie Meier
+Représentant des intervenants :
+M. Hamid Baradaran
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante : s.o.
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada Ottawa, Canada
+Pour les intervenants : s.o.

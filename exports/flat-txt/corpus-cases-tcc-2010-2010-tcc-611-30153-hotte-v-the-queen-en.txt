@@ -1,0 +1,125 @@
+Title: Hotte v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30153/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-611-30153-hotte-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-11-30
+
+# Hotte v. The Queen
+
+- Citation: 2010 TCC 611
+- Decision date: 2010-11-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7833, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hotte v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-30
+Neutral citation
+2010 TCC 611
+File numbers
+2009-1068(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1068(IT)I
+BETWEEN:
+DENIS A. HOTTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 12 and September 7, 2010, at Ottawa, Canada.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Charles Camirand
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act with respect to the appellant’s 2007 taxation year is dismissed, without costs, in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 30th day of November 2010.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+On this 30th day of November 2010
+François Brunet, Revisor
+Citation: 2010 TCC 611
+Date: 20101130
+Docket: 2009-1068(IT)I
+BETWEEN:
+DENIS A. HOTTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+I. Facts
+[1] The appellant submits in this informal appeal that the age restriction in the pension income‑splitting provisions added to the Income Tax Act (the “Act”) in [2006] contravene the equality and non‑discrimination provisions of the Canadian Charter of Rights and Freedoms (the “Charter”). He also submits that they are in conflict with the Canadian Human Rights Act.
+[2] In short, the pension income‑splitting provisions in section 60.03 of the Act permit income‑splitting amongst spouses of a portion of their pension income. The amount eligible to be split under section 60.03 is defined by reference to the definitions of “pension income”, “qualified pension income” and “eligible pension income” in section 118 of the Act, which deals with the general pension tax credit. In short, this is effectively limited to a portion of:
+i. All of a spouse’s “pension income” if the person is 65 years or older; and
+ii. Only the “qualified pension income” if the person is younger than 65.
+[3] Qualified pension income sources are defined as only a subset of pension income sources. Thus, only some sources of a taxpayer’s pension income can be split with a spouse if the taxpayer is under 65, whereas all sources of the same pension income could be split if the taxpayer was 65 or older. (There is an exception to this restriction for taxpayers who die before reaching 65 but that is not relevant in this case.) One of the principal differences is that a person over 65 can split his or her registered pension plan (“RPP”) income as well as his or her pension income from “registered retirement savings plans” (“RRSPs”) and “registered retirement income funds” (“RRIFs”), whereas a person under 65 cannot split his or her income‑sourced from an RRSP or RRIF.
+[4] The effect of this on Mr. Hotte in 2007, who was not 65 years or older, is that he was permitted to split his RPP income with his spouse but he did not qualify to split his RRSP‑sourced income with her. This is the result under the income‑splitting provisions of the Act even though his RRSP withdrawals were converted into life annuities.
+[5] Specifically, Mr. Hotte sought to split his pension income with his spouse in order to more or less equalize their respective incomes and taxes payable for the year and thereby reduce the aggregate taxes payable by them. By a reassessment, Mr. Hotte was permitted to do this with respect to his 2007 RPP income. However, he was not permitted to split his 2007 RRSP‑sourced annuity income with his wife, even though the annuities were purchased upon his retirement with the proceeds of his RRSP, because he was not yet 65 years old as required by the pension income‑splitting provisions summarized above.
+[6] Mr. Hotte brought two pre‑trial motions for an order requiring any judge under the age of 65 to be recused from hearing his case. The initial request was dismissed by the judge hearing the original motion. A motion to reconsider was dismissed by the Chief Justice of this Court.
+II. Analysis
+[7] It is clear that the Tax Court of Canada does not have jurisdiction to hear complaints brought against the Crown under the Canadian Human Rights Act. Tax appeals are heard by the Tax Court in accordance with the Tax Court of Canada Act and the Act and other tax-related legislation. Human rights complaints are heard by the Human Rights Commission in accordance with the Canadian Human Rights Act. While the Canadian Human Rights Act applies to the Crown, it cannot be enforced against the Crown or anyone else in this Court. For that reason, Mr. Hotte’s before appeal to this Court based on the Canadian Human Rights Act must be dismissed.
+[8] The Court turns now to Mr. Hotte’s Charter claim. All legislative distinctions based on age or other enumerated or analogous grounds are not, for that reason alone, discrimination prohibited by the Charter. As held by the Supreme Court of Canada in R. v. Kapp, 2008 SCC 41, [2008] 2 S.C.R. 483, a distinction in a law based upon an enumerated or analogous ground is discrimination prohibited by the Charter when the distinction creates a disadvantage by perpetuating group disadvantage and prejudice or imposing disadvantage on the basis of stereotyping. As set out in Law v. Canada (Minister of Employment and Immigration), [1999] 1 S.C.R. 497, at p. 502:
+. . . Frequently, where differential treatment is based on one or more enumerated or analogous grounds, this will be sufficient to found an infringement of s. 15(1) in the sense that it will be evident on the basis of judicial notice and logical reasoning that the distinction is discriminatory within the meaning of the provision.
+[9] Age is at times a ground that is considered differently under the Charter than other enumerated or analogous grounds. Absent an early death, all Canadians will at some point in their lives be 16, 18 and 65. Age distinctions are often used by Parliament to regulate and structure our lives and society.
+[10] In Gosselin v. Québec (Attorney General), 2002 SCC 84, [2002] 4 S.C.R. 429, the Chief Justice of the Supreme Court of Canada wrote:
+31 Many of the enumerated grounds correspond to historically disadvantaged groups. For example, it is clear that members of particular racial or religious groups should not be excluded from receiving public benefits on account of their race or religion. However, unlike race, religion, or gender, age is not strongly associated with discrimination and arbitrary denial of privilege. This does not mean that examples of age discrimination do not exist. But age based distinctions are a common and necessary way of ordering our society. They do not automatically evoke a context of pre‑existing disadvantage suggesting discrimination and marginalization under this first contextual factor, in the way that other enumerated or analogous grounds might.
+32 To expand on the earlier example, a sign on a courthouse door proclaiming “Men Only” evokes an entire history of discrimination against a historically disadvantaged class; a sign on a barroom door that reads “No Minors” fails to similarly offend. The fact that “[e]ach individual of any age has personally experienced all earlier ages and expects to experience the later ages” (P. W. Hogg, Constitutional Law of Canada (loose-leaf ed.), vol. 2, at p. 52‑54) operates against the arbitrary marginalization of people in a particular age group. Again, this does not mean that age is a “lesser” ground for s. 15 purposes. However, pre‑existing disadvantage and historic patterns of discrimination against a particular group do form part of the contextual evaluation of whether a distinction is discriminatory, as called for in Law. Concerns about age‑based discrimination typically relate to discrimination against people of advanced age who are presumed to lack abilities that they may in fact possess. Young people do not have a similar history of being undervalued. This is by no means dispositive of the discrimination issue, but it may be relevant, as it was in Law.
+[11] In Kapp itself, age-based distinctions in the Canada Pension Plan were in issue; they were held not to be discrimination prohibited by the Charter.
+[12] The same age‑based restrictions apply under the Act to the pension income tax credit as are set out in the pension income‑splitting provisions. This Court has previously decided that such restrictions do not constitute discrimination prohibited under the Charter: see Kennedy v. The Queen, [2001] 4 C.T.C. 2192. This Court has also held that age‑based distinctions in the personal tax credit and the dependents tax credit are not in violation of the Charter: see Tiberio et al. v. M.N.R., 91 DTC 17. While Kennedy pre‑dated the Supreme Court of Canada’s decision in Kapp, which set out and refined the analytical approach to be followed in Charter‑based discrimination determinations, it followed the Supreme Court’s previously propounded analytical approach in Law. In Kapp, the Supreme Court of Canada said that the analysis described in Law is in substance the same as that in Kapp. I am satisfied that this Court’s decision in Kennedy remains good law and should be followed and applied in this case.
+[13] In Cheberiak v. The Queen, 2002 DTC 1342, this Court again considered the pension income tax credit in the case of a person younger than 65. This Court followed Kennedy. At paragraph 19, Hershfield J. wrote:
+With respect to the Charter argument raised by the Appellant I note that this was considered in Kennedy. Bowie, J. rejected the Charter argument in that case and I endorse his reasoning which adopted the reasoning in the Supreme Court decision in Law v. Canada, [1999] 1 S.C.R. 497. To invalidate legislation that differentiates individuals (or groups) on the basis of age (or marital status), it must be shown that the differential treatment withholds the benefit from the claimant in a way that reflects a presumed stereotypical characteristic of that group or person or that has the effect of perpetuating or promoting the view that the person or group is less capable or less worthy of the benefit or less worthy of recognition or of less value as a human being or as a member of Canadian Society than the person or group benefited. Judge Bowie found that the object of the provisions of the Income Tax Act in question is to ameliorate in some small degree the lot of persons 65 and over and those who have lost a spouse who contributed to the family income. As did the Supreme Court in Law, Bowie, J. found that such ameliorating legislative provisions did not violate the human dignity of more advantaged individuals (or that of the persons not receiving the benefit). I agree with Judge Bowie’s conclusions in respect of this ground for appeal. Accordingly the Charter argument fails in my view.
+[14] The Court was not presented with any evidence by Mr. Hotte, nor is it otherwise apparent to the Court, that people drawing retirement income or making withdrawals from RRSPs or RRIFs before they are 65 years of age are a disadvantaged class. Nor did Mr. Hotte introduce any evidence or advance any persuasive argument as to how a financial benefit extended to persons 65 or older disadvantaged or reflected prejudicial stereotyping of persons younger than 65.
+[15] The Minister of Finance sent Mr. Hotte a letter responding to his complaint regarding this age‑based distinction in the pension income‑splitting rules as they apply to his RRSP‑sourced income. The Minister’s response included the following explanation for the differing treatments of those under 65 from 65 or older:
+The purpose of the age-65 requirement for RRSP annuity and RRIF income is to target the Pension Income Credit (upon which eligibility for pension income splitting is based) to retired individuals. Individuals have much greater personal control over the timing of withdrawals under RRSPs and RRIFs compared to RPPs. Without the age‑65 eligibility rule, many individuals who are not retired could gain significant tax advantages well before they attain age 65 by arranging to withdraw money each year as RRSP annuity or RRIF income while still saving for retirement. Individuals in receipt of RPP income, on the other hand, generally have little control over the timing of their pension payments — they usually only receive such payments when they are retired.
+[16] This indicated Parliament had a reason for choosing the particular age‑based distinction in the pension income‑splitting provisions. The choice of age 65 as the threshold was a policy choice open to Parliament to make and they have made it. The age chosen does relate to the object and intended of scope of the provisions. It is not for this Court to judge whether Parliament could have done better. As explained by Laforest J. of the Supreme Court of Canada, in Andrew v. The Law Society of British Columbia, [1989] 1 S.C.R. 143:
+Much economic and social policy‑making is simply beyond the institutional competence of the courts: their role is to protect against incursions on fundamental values, not to second guess policy decisions.
+In Gosselin the Supreme Court wrote:
+55 I add two comments. Perfect correspondence between a benefit program and the actual needs and circumstances of the claimant group is not required to find that a challenged provision does not violate the Canadian Charter. The situation of those who, for whatever reason, may have been incapable of participating in the programs attracts sympathy. Yet the inability of a given social program to meet the needs of each and every individual does not permit us to conclude that the program failed to correspond to the actual needs and circumstances of the affected group. As Iacobucci J. noted in Law, supra, at para. 105, we should not demand “that legislation must always correspond perfectly with social reality in order to comply with s. 15(1) of the Charter”. Crafting a social assistance plan to meet the needs of young adults is a complex problem, for which there is no perfect solution. No matter what measures the government adopts, there will always be some individuals for whom a different set of measures might have been preferable. The fact that some people may fall through a program’s cracks does not show that the law fails to consider the overall needs and circumstances of the group of individuals affected, or that distinctions contained in the law amount to discrimination in the substantive sense intended by s. 15(1).
+. . .
+57 A final objection is that the selection of 30 years of age as a cut‑off failed to correspond to the actual situation of young adults requiring social assistance. However, all age‑based legislative distinctions have an element of this literal kind of “arbitrariness”. That does not invalidate them. Provided that the age chosen is reasonably related to the legislative goal, the fact that some might prefer a different age — perhaps 29 for some, 31 for others — does not indicate a lack of sufficient correlation between the distinction and actual needs and circumstances. Here, moreover, there is no evidence that a different cut‑off age would have been preferable to the one selected.
+[17] In short, no novel issue is raised in Mr. Hotte’s appeal. These issues have been decided by this Court previously in the context of pension and other age‑based tax credits. There is no reason to reject this Court's doctrine with regard to the newer income‑splitting provisions.
+[18] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 30th day of November 2010.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+On this 30th day of November 2010
+François Brunet, Revisor
+CITATION: 2010 TCC 611
+COURT FILE NO.: 2009-1068(IT)I
+STYLE OF CAUSE: DENIS A. HOTTE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATES OF HEARING: April 12 and September 7, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: November 30, 2010
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Charles Camirand
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

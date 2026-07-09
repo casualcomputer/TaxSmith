@@ -1,0 +1,134 @@
+Title: Community Living Burlington v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27682/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-316-27682-community-living-burlington-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-06-02
+
+# Community Living Burlington v. M.N.R.
+
+- Citation: 2006 TCC 316
+- Decision date: 2006-06-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 502, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Community Living Burlington v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-02
+Neutral citation
+2006 TCC 316
+File numbers
+2004-3214(EI), 2004-3215(CPP)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Dockets: 2004-3214(EI)
+2004-3215(CPP)
+BETWEEN:
+COMMUNITY LIVING BURLINGTON (FORMERLY BURLINGTON ASSOCIATION FOR THE INTELLECTUALLY HANDICAPPED),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on July 4, October 31 and November 1, 2005
+at Hamilton, Ontario.
+By: The Honourable Justice Judith Woods
+Appearances:
+Agents for the Appellant:
+John Barratt
+Judy Pryde
+Counsel for the Respondent:
+Jeremy Streeter
+Craig Maw
+____________________________________________________________________
+JUDGMENT
+The appeals in respect of assessments made under the Employment Insurance Act and the Canada Pension Plan are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that live-in managers and live-in partners are engaged as independent contractors and that relief workers are engaged as employees.
+There will be no order as to costs.
+Signed at Toronto, Ontario, this 2nd day of June 2006.
+"J. Woods"
+Woods J.
+Citation: 2006TCC316
+Date: 20060602
+Dockets: 2004-3214(EI)
+2004-3215(CPP)
+BETWEEN:
+COMMUNITY LIVING BURLINGTON (FORMERLY BURLINGTON ASSOCIATION FOR THE INTELLECTUALLY HANDICAPPED),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] These are appeals by Community Living Burlington (the “Association”) in respect of assessments for failure to remit premiums under the Employment Insurance Act and the Canada Pension Plan. The total amount assessed for the relevant years, 2002 and 2003, is approximately $170,000 exclusive of interest.
+[2] The Association is a non-profit organization that provides various services for approximately 350 children and adults who are disabled. The organization was formed 50 years ago by parents of disabled children and continues to be managed by volunteers.
+[3] The question to be decided is whether the Minister of National Revenue correctly determined that 40 individuals who provided caregiving services were engaged by the Association as employees notwithstanding that most of them had signed written contracts evidencing an intention to be self-employed.
+[4] It is the position of the Minister that the intention of the parties should only be taken into account in a “close case” where the relevant factors point in both directions with equal force: Respondent’s Outline of Argument, at paragraph 3.
+[5] This may have been a reasonable argument for the Minister to make at the time of the hearing based on the jurisprudence at the time but it is clearly not the law today.
+[6] At the end of the hearing, I indicated to the parties that I wished to defer rendering a decision in these appeals until the release of the Federal Court of Appeal’s decision in The Royal Winnipeg Ballet v. The Minister of National Revenue.
+[7] That case was an appeal of a Tax Court decision in which dancers with The Royal Winnipeg Ballet were found to be employees of the ballet company. In reaching that conclusion the judge concluded that the intention of the parties was a factor to be considered only if a tiebreak was needed.
+[8] On March 2, 2006, the Federal Court of Appeal released its decision (2006 FCA 87) and reversed the Tax Court, finding that the judge erred in considering that intention was a tiebreak only. Sharlow J.A. writing for the majority in the appeal court stated:
+[59] It seems to me from Montreal Locomotive that in determining the legal nature of a contract, it is a search for the common intention of the parties that is the object of the exercise.
+[9] In light of this decision, the submission of the Minister that intention is only to be used in a “close call” cannot be accepted. The intention of the parties as expressed in written contracts should govern if the facts are consistent with it.
+[10] As noted earlier, most of the workers whose status is at issue in these appeals had written contracts that expressed an intention that they not be employees. For the reasons below, I conclude that the facts are consistent with this intention and consequently that these workers are independent contractors and not employees.
+[11] During the relevant period, the Association managed 20 government-funded homes for developmentally disabled persons. Each home accommodates four or five persons and the arrangement is designed to replicate normal home life as much as possible. The concept was innovative when it was initiated by the Association in the 1980s and it has now become a model used by other communities. The workers at issue provide the “parental” role in these homes.
+[12] There are three categories of workers: (1) the primary caregivers who are referred to as “live-in managers,” (2) the husbands or boyfriends of the live-in managers who are referred to as “live-in partners,” and (3) part-time workers who come into the homes on a periodic basis to provide relief.
+[13] The majority of the evidence concerned the live-in managers and I will consider them first.
+[14] Live-in managers were formerly called “house parents” and this aptly describes their role. They were engaged to provide around-the-clock care and supervision in the same way as a parent to four or five disabled persons living in the home. The managers live in the home, sometimes with a spouse or other partner, and interact with the persons in their care as extended family.
+[15] The nature of the disabilities of the individuals living in the homes is such that they all require different care. The live-in managers liaise closely with family members to ensure that the care is appropriate. The role that the Association plays is mainly to facilitate and be available for support rather than to provide detailed supervision. One of the live-in managers testified that the executive director provided initial hands-on support to new live-in managers but after that the executive director visited the homes just once or twice a year.
+[16] Based on the terms of the contract and the testimony of the various witnesses, all of whom gave forthright and credible evidence, I conclude that the relationship is more consistent with an independent contractor relationship rather than employment. The following are some of the factors that I have taken into account:
+· The relationship is governed by a written agreement called a “Live-In Manager Purchase of Services Contract.” Under the terms of the contract, the parties expressly negate an intention to enter into an employment relationship;
+· Live-in managers have considerable freedom in determining how care is provided as long as the needs of the individuals are met and government regulations are complied with;
+· Although live-in managers are essentially “on-duty” around the clock, they do have time to themselves. During the day, the individuals under their care attend structured programs provided by the Association and consequently the live-in managers have flexibility with their time unless there are special needs such as, for example, driving someone to a medical appointment. The managers also have flexibility at night provided that someone, often a relative of the live-in manager, is available to provide relief;
+· Although the contracts provide that the Association has access to the homes at any time, it is not contemplated that live-in managers be under the detailed supervision of the Association;
+· Generally the live-in managers consult the family of the persons living in the home in relation to their care more than the Association;
+· Live-in managers are responsible for managing the home within a budget that is nominally set by the Association but in effect is mandated by the Ontario government which provides most of the funding;
+· Live-in managers are responsible to arrange for a relief worker from an approved list if they want to take time off. In practice relatives often provide the relief and some of these individuals are not on the approved list;
+· Live-in managers are paid on a per diem basis and receive extra compensation if additional duties are assumed;
+· Pursuant to the contracts, live-in managers are to work between 313 and 327 days per year which far exceeds what would be expected in an employment relationship. What most distinguishes this situation is the blending of personal and work life. I also note that live-in managers often work more than the maximum stipulated number of days in a given year, although there are instances where this is not by choice but because no relief workers are available;
+· Although live-in managers are required to fill out detailed reports, such as medication reports, this is generally in accordance with government requirements;
+· At the hearing, conflicting testimony was given as to whether participation in administrative duties such as committees is mandatory or voluntary. Even if some administrative duties are mandatory, this is not a significant factor if the relationship is considered as a whole;
+· Although the contracts provide that live-in managers cannot take on other work, including volunteer work, the evidence suggests that the Association is flexible in this regard.
+[17] The foregoing factors generally are consistent with the submission of the Association that the live-in managers are engaged to independently manage the homes under very little supervision and control from the Association, except as required by law. I accept the argument of the Association that their role was primarily as a facilitator and conduit with respect to government funding and regulations.
+[18] In deciding that the live-in managers are employees, the Minister relied in part on a provision in the contracts that provided that “adequate housing” and “care and supervision” were to be defined by the Association. These terms have not been defined by the Association and it is not clear what the provision is intended to mean. Based on the evidence as a whole, it appears that the provision is likely intended to permit the Association to set standards with respect to the maintenance of the homes and the care of the individuals residing in them. Presumably it is important for the Association to have this power in order to comply with government guidelines. In the absence of further evidence, I do not interpret it to mean that the Association has the authority to dictate the manner in which the caregivers perform their services where there are no issues regarding safety or quality of care.
+[19] For these reasons, I conclude that the Association did not have a general ability to control the manner in which live-in managers perform their services except to ensure that the standards of care are in accordance with government guidelines.
+[20] Where the control that can be exercised is no more than is necessary in the circumstances of the particular job, it is generally not inconsistent with an independent contractor relationship: Royal Winnipeg Ballet, paragraph 66.
+[21] Before concluding, I would note that the person who could best have explained the relevant circumstances is the person who acted as executive director during the relevant period and he did not testify. This is unfortunate and if these appeals had been heard under the Court’s general procedure, an adverse inference might be made against the Association which has the burden of proof. However, the appeals were heard under the informal procedure and the officers who represented the Association at the hearing did an admirable job in the presentation of the appeals. I do not think that it is appropriate to make an adverse inference in the circumstances. I also note that the Minister could have called the former executive director to testify but did not do so.
+[22] I find that the live-in managers are not engaged in an employment relationship.
+[23] Turning to the status of the husbands and boyfriends of the live-in managers, I have no hesitation in concluding that they are not employees. Live-in partners are allowed to live in the home free of charge in return for assisting with the maintenance of the house and socializing with others in the home. Whatever one might call this relationship, it is certainly not employment.
+[24] Finally, the Association was also assessed for failure to remit premiums for relief workers. There was very little evidence presented at the hearing regarding this relationship and none of the relief workers testified. The representatives for the Association indicated that they did not focus on this aspect of the appeals because the amounts at issue were small. I find that the Association has not satisfied the burden of establishing that they are self-employed.
+[25] In the result, the appeals will be allowed and the assessments will be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that live-in managers and live-in partners are engaged as independent contractors and that relief workers are engaged in employment.
+[26] There will be no order as to costs.
+Signed at Toronto, Ontario, this 2nd day of June 2006.
+"J. Woods"
+Woods J.
+CITATION: 2006TCC316
+COURT FILE NOS.: 2004-3214(EI) and 2004-3215(CPP)
+STYLE OF CAUSE: COMMUNITY LIVING BURLINGTON (FORMERLY BURLINGTON ASSOCIATION FOR THE INTELLECTUALLY HANDICAPPED) AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: July 4, October 31 and November 1, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: June 2, 2006
+APPEARANCES:
+Agents for the Appellant:
+John Barratt
+Judy Pryde
+Counsel for the Respondent:
+Jeremy Streeter
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

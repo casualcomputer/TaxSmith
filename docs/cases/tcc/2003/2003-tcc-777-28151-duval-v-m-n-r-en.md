@@ -1,0 +1,223 @@
+---
+title: "Duval v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28151/index.do"
+last_modified: "2003-11-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 777"
+citation2: ""
+neutral_citation: "2003 TCC 777"
+decision_date: "2003-11-18"
+language: "en"
+item_id: "28151"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1997
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:28:58.077000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "da8a3a6d9e5113d647027a5d2fd22177f68a5cccc99db9574a132a4f7cfb28d5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Duval v. M.N.R.
+
+- Citation: 2003 TCC 777
+- Decision date: 2003-11-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1997, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duval v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-18
+Neutral citation
+2003 TCC 777
+File numbers
+2002-4860(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002‑4860(EI)
+BETWEEN:
+GINO DUVAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 29, 2003, at Québec, Quebec
+Before: The Honourable Deputy Judge S. J. Savoie
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Marie‑Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand‑Barachois, New Brunswick, this 18th day of November 2003.
+"S. J. Savoie"
+Savoie, D.J.
+Translation certified true
+on this 20th day of April 2004.
+Sharlene Cooper, Translator
+Citation: 2003TCC777
+Date: 20031118
+Docket: 2002‑4860(EI)
+BETWEEN:
+GINO DUVAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie, D.J.
+[1] This appeal was heard at Québec, Quebec, on July 29, 2003.
+[2] This appeal concerns the insurability of the employment held by the Appellant, Gino Duval, when he was engaged by André Duval, the "Payor," during the periods at issue, that is, from January 4 to October 30, 1998, from January 24 to February 13, 1999, from August 2 to November 5, 1999, from January 9 to March 25, 2000, from October 2 to November 3, 2000, from December 10 to December 16, 2000, from January 14 to March 10, 2001, and from September 10, 2001 to March 29, 2002, within the meaning of the Employment Insurance Act (the "Act").
+[3] On December 9, 2002, the Minister of National Revenue (the "Minister") informed the Appellant of his decision that, upon reviewing the terms and conditions of employment for the periods at issue, this employment was not insurable because the Payor and the Appellant would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[4] In rendering his decision, the Minister relied on the following presumptions of fact, which the Appellant admitted or denied:
+[translation]
+(a) The Payor has operated a timber transport company in Canada and the United States for 30 years; (admitted)
+(b) In addition, the Payor executed snow removal contracts; (admitted)
+(c) The Payor possessed three trucks and a loader; (admitted)
+(d) The Appellant is the Payor's son; (admitted)
+(e) The Appellant has worked as a truck driver for the Payor since 1998; (admitted)
+(f) The Appellant's duties consisted of locating timber in American forests and transporting it to Canadian paper manufacturers; (admitted subject to amplification)
+(g) The Payor hired another truck driver, in addition to his son, Gino; (admitted)
+(h) Since 2000, the Appellant is the only one from among the Payor's workers who is authorized to cross the U.S. border for the Payor; (admitted)
+(i) In his statutory declaration to HRDC, the Appellant stated that he worked for the Payor from 40 to 65 hours per week, for eight to nine months of the year; (denied)
+(j) When the Appellant was listed in the payroll journal, he allegedly received fixed remuneration from week to week, whereas in reality, the Appellant did not receive all of the remuneration recorded in the Payor's payroll journal; (denied)
+(k) During certain months of the years at issue, the Payor's income exceeded $20,000.00 per month and no employees were listed on the payroll; (denied)
+(l) The Appellant rendered services to the Payor outside the periods at issue, with no reported income; (denied)
+(m) The Appellant was not listed on the payroll during the Payor's busiest periods; (denied)
+(n) The periods that the Appellant allegedly worked do not correspond to the periods he actually worked; (denied)
+(o) On November 3, 1998, the Payor issued a record of employment to the Appellant, for the period starting on January 4, 1998 and ending on October 30, 1998, indicating 1,035 insurable hours and total insurable earnings of $7,475.00; (admitted)
+(p) On November 11, 1999, the Payor issued a record of employment to the Appellant, for the period starting on August 2, 1999 and ending on November 5, 1999, indicating 450 insurable hours and total insurable earnings of $5,740.00; (admitted)
+(q) On November 10, 2000, the Payor issued a record of employment to the Appellant, for the period starting on October 2, 2000 and ending on November 3, 2000, indicating 225 insurable hours and total insurable earnings of $3,000.00; (admitted)
+(r) On April 2, 2002, the Payor issued a record of employment to the Appellant, for the period starting on September 10, 2001 and ending on March 29, 2002, indicating 1,215 insurable hours and total insurable earnings of $16,200.00; (admitted)
+(s) The records of employment do not reflect the actual period worked or the actual remuneration paid. (denied)
+[5] The evidence revealed that the Appellant was the driver of a truck used to transport timber from American forests to Canadian paper manufacturers on behalf of the Payor.
+[6] It was proved at the hearing that André Duval, the Payor, is responsible for operating the loader. He described his company's operations, specifying that operations ceased in the fall, during hunting season. He added that operations also ceased in the spring, during the thawing period, that is, around February and March, due to the poor condition of the logging roads. He confirmed that he controlled the Appellant's work, by communicating with him using a cellular telephone. He stated that he maintained the equipment, trucks, etc., in his garage; Gino Duval was not responsible for any maintenance. He does not like the garage. He stated that the Appellant was paid weekly, by cheque, during the work periods.
+[7] André Duval stated that he works at the mill with his loader and that he is paid $100.00 to $125.00 per hour for 40 to 45 hours per week, for total weekly earnings of approximately $5,000.00. He confirmed that he is paid weekly, with a one‑week delay. He claimed that his trucks never break down, because he possesses new trucks and he keeps them well‑maintained.
+[8] He added that the loader is operated four to five months per year.
+[9] The Payor reported that the Appellant works 40, 45, and sometimes up to 50 hours per week, adding that if a day is lost, it is worked at a later date. He confirmed that the Appellant was paid a fixed salary, regardless of the number of hours he worked. The evidence revealed that the Appellant started working with the Payor in 1998. At that time, he was paid $326.00 gross per week. His salary increased from $326.00 to $600.00 gross per week after 51 weeks of work, representing a 46% increase upon acquiring work experience. He received the same salary regardless of the number of hours he worked.
+[10] In his review of the file, the Minister collected the following data (appeal report–Exhibit I‑3) from Human Resources Development Canada (HRDC), the investigation of which revealed the dates on which the Appellant applied for benefits as well as the weeks for which the Appellant received employment insurance benefits:
+[translation]
+Year
+1998
+1999
+2000
+2002
+BPC
+1,115
+1,168
+1,220
+1,294
+DATE
+01‑11‑98
+07‑11‑99
+05‑11‑00
+07‑04‑02
+Number of hours required to qualify
+595
+665
+420
+420
+Number of hours worked
+1,035
+789
+651
+1,215
+Number of eligible benefit weeks
+24
+17
+35
+Number of benefit weeks paid
+22
+7
+33
+[11] Based on this data, the Minister determined that the Worker applied for employment insurance when the Payor was still in his busy season.
+[12] Gino Duval worked sufficient hours to qualify and he distributed his benefits based on his own needs and not based on the Payor's actual needs. Upon analyzing the documentation, particularly the payroll journal, the evidence revealed that in 1999, Gino Duval was listed on the payroll for 17 weeks, whereas the active season spanned 36 weeks. In 2000, the worker was listed on the payroll for 17 weeks and the active season represented 43 weeks. In 2001, Gino Duval was listed on the payroll for 23 weeks, while the company's active season spanned 44 weeks. For 2002, the worker was listed for 12 weeks, whereas from January 1 to August 31, the Payor's operations were spread out over 34 weeks.
+[13] The Minister had difficulty establishing proof that the Appellant's salary had been paid. In this process, the insurability file produced the following table:
+[translation]
+Year
+Weekly Salary
+Weeks Worked According to the Payroll Journal
+Number of Weeks With Proof of Payment
+Payment Details
+1998
+$250
+24
+2
+2 cheques: $250
+1999
+Jan. to March: $250
+Aug. to Dec.: $400
+17
+4
+4 cheques: $250
+2000
+$402.58
+17
+0
+-
+2001
+Jan. to March: $473.05
+Sept. to Dec.: $454.41
+23
+2
+2 withdrawals: $473.05
+2002
+$450 gross
+12
+-
+-
+[14] In light of the foregoing, the Minister determined the following: Gino Duval applied for benefits on November 1, 1998, while the Payor was still in his active season.
+[15] For the months of January, February and March 1999, the Payor had snow removal contracts in addition to the contracts with the United States. The worker was listed on the payroll from January 31 to March 20, 1999.
+[16] When the active season resumed its operations in July 1999, the worker terminated his employment insurance benefits before returning to work on August 8. Subsequently, the worker applied for benefits on November 8, 1999, while the Payor was still in the active season, which lasted from July until March.
+[17] According to information provided by the Payor, there was more work at the company since 2000, which explained why there were two full‑time truck drivers. However, there were, in fact, 28 weeks for which no worker was listed in the payroll journal. In 2001, there were 29 weeks for which no worker was listed on the payroll.
+[18] According to the appeal report (Exhibit I‑3), the second driver, Martin Bélanger, was listed on the payroll; however, he did not travel to the United States because he had a criminal record. Furthermore, according to Huguette Blanchette, the wife of André Duval, the Payor, her husband has not been permitted to cross the border for approximately two years, for the same reason as Mr. Bélanger.
+[19] It is appropriate to emphasize that 80% of the Payor's income came from transporting timber from the United States, and that since 2000, the Appellant, who does not have a criminal record, is the only person permitted to go there.
+[20] To this, it is appropriate to add that the worker has contradicted the declaration he made to investigators concerning a number of points, particularly with regard to the duration of his employment.
+[21] Moreover, the Payor waited until the hearing to report that his company received additional income from work performed with the loader and from the sale of timber on his land. This information was never disclosed to investigators, in spite of the fact that the Payor had three opportunities to do so prior to the hearing.
+[22] The Appellant asked the Court to interfere and to reverse the Minister's decision. However, nearly all of the Minister's assumptions were proved by all of the evidence submitted.
+[23] It is appropriate to refer to jurisprudence regarding the review of determinations of the Minister under paragraph 5(2)(i) of the Act. In Attorney General of Canada and Jencan Ltd., [1998] 1 F.C. 187, the Federal Court of Appeal circumscribed the power of this Court concerning the exercise of the Minister's discretionary authority under this paragraph. The Court stated:
+The decision of this Court in Tignish, . . . (185 N.R. 73 (F.C.A.)) requires that the Tax Court undertake a two‑stage inquiry when hearing an appeal from a determination by the Minister under subparagraph 3(2)(c)(ii). At the first stage, the Tax Court must confine the analysis to a determination of the legality of the Minister's decision. If, and only if, the Tax Court finds that one of the grounds for interference are established can it then consider the merits of the Minister's decision. As will be more fully developed below, it is by restricting the threshold inquiry that the Minister is granted judicial deference by the Tax Court when his discretionary determinations under subparagraph 3(2)(c)(ii) are reviewed on appeal. Desjardins J.A., speaking for this Court in Tignish, supra, described the Tax Court's circumscribed jurisdiction at the first stage of the inquiry as follows:
+Subsection 71(1) of the Act provides that the Tax Court has authority to decide questions of fact and law. The applicant, who is the party appealing the determination of the Minister, has the burden of proving its case and is entitled to bring new evidence to contradict the facts relied on by the Minister. The respondent submits, however, that since the present determination is a discretionary one, the jurisdiction of the Tax Court is strictly circumscribed. The Minister is the only one who can satisfy himself, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions and importance of the work performed, that the applicant and its employee are to be deemed to deal with each other at arm's length. Under the authority of Minister of National Revenue v. Wrights' Canadian Ropes Ltd., contends the respondent, unless the Minister has not had regard to all the circumstances of the employment (as required by subparagraph 3(2)(c)(ii) of the Act), has considered irrelevant factors, or has acted in contravention of some principle of law, the court may not interfere. Moreover, the court is entitled to examine the facts which are shown by evidence to have been before the Minister when he reached his conclusion so as to determine if these facts are proven. But if there is sufficient material to support the Minister's conclusion, the court is not at liberty to overrule it merely because it would have come to a different conclusion. If, however, those facts are, in the opinion of the court, insufficient in law to support the conclusion arrived at by the Minister, his determination cannot stand and the court is justified in intervening.
+In my view, the respondent's position is correct in law. . . .
+In Ferme Émile Richard et Fils Inc. v. Minister of National Revenue et al., this Court confirmed its position. In obiter dictum, Décary J.A. stated the following:
+. . . As this court recently noted in Tignish Auto Parts Inc. v. Minister of National Revenue, July 25, 1994, A‑555‑93, F.C.A., not reported, an appeal to the Tax Court of Canada in a case involving the application of s. 3(2)(c)(ii) is not an appeal in the strict sense of the word and more closely resembles an application for judicial review. In other words, the court does not have to consider whether the Minister's decision was correct: what it must consider is whether the Minister's decision resulted from the proper exercise of his discretionary authority. It is only where the court concludes that the Minister made an improper use of his discretion that the discussion before it is transformed into an appeal de novo and the court is empowered to decide whether, taking all the circumstances into account, such a contract of employment would have been concluded between the employer and employee if they had been dealing at arm's length.
+[24] It is the opinion of this Court that it is not appropriate to interfere with the exercise of the Minister's discretion in this case. The Appellant had the burden of proving that the Minister, in exercising his discretionary authority, has not had regard to all the circumstances of the employment, has considered irrelevant factors, or has acted in contravention of some principle of law. He did not do so.
+[25] In Légaré v. Canada, [1999] F.C.J. No. 878, Marceau J., of the Federal Court of Appeal, expressed the same opinion in different words. He wrote:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so‑called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[26] Consequently, the appeal is dismissed and the Minister's decision is confirmed.
+Signed at Grand‑Barachois, New Brunswick, this 18th day of November 2003.
+"S. J. Savoie"
+Savoie, D.J.
+Translation certified true
+on this 20th day of April 2004.
+Sharlene Cooper, Translator

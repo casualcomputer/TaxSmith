@@ -1,0 +1,218 @@
+Title: Simon Fraser University c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31144/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-121-31144-simon-fraser-university-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-04-22
+
+# Simon Fraser University c. La Reine
+
+- Citation: 2013 CCI 121
+- Decision date: 2013-04-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4734, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Simon Fraser University c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-22
+Référence neutre
+2013 CCI 121
+Numéro de dossier
+2012-1698(GST)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-1698(GST)I
+ENTRE :
+UNIVERSITÉ SIMON FRASER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 mars 2013, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocate de l’appelante :
+Me Elizabeth Junkin
+Avocat de l’intimée :
+Me Zachary Froese
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise pour la période allant du 1er avril 2003 au 31 mai 2005 est accueilli, sans dépens, et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelante n’a pas à percevoir et à verser la taxe sur les produits et services pour les amendes de stationnement dont il est question dans les présents motifs.
+Le présent jugement modifié remplace le jugement daté du 22 avril 2013.
+Signé à Ottawa, Canada, ce 27e jour de mai 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 3e jour de juin 2013.
+Alya Kaddour-Lord, traductrice
+Référence : 2013 CCI 121
+Date : 20130527
+Dossier : 2012-1698(GST)I
+ENTRE :
+UNIVERSITÉ SIMON FRASER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge C. Miller
+[1] Le présent appel en matière de taxe sur les produits et services (« TPS »), interjeté sous le régime de la procédure informelle, a trait à la question de savoir si l’Université Simon Fraser (l’« Université ») doit payer la TPS sur les amendes de stationnement qu’elle a perçues pendant la période allant d’avril 2003 à mai 2005. Le directeur des services de stationnement, M. Agosti, a expliqué avec force détails le fonctionnement du stationnement à l’Université.
+[2] M. Agosti a décrit le rôle des services de stationnement, qui consiste à fournir aux membres de la communauté universitaire des aires de stationnement sur une base équitable et économiquement avantageuse. M. Guthrie, directeur des services financiers de l’Université, a confirmé que le stationnement n’était absolument pas une activité commerciale ni un centre de profit, mais qu’il était fourni dans le contexte de l’accomplissement du mandat de l’Université en matière d’éducation et de recherche, au bénéfice du milieu universitaire, et il a précisé qu’il ne s’agissait que d’un service complémentaire parmi d’autres services qui n’ont jamais été destinés à générer des profits, autrement dit, qui doivent simplement générer suffisamment de revenus pour couvrir leurs frais d’administration, d’exploitation et de service de la dette.
+[3] Il y a quatre types de places de stationnement à l’Université :
+a) des aires réservées aux détenteurs de permis, soit des aires de stationnement avec des places que les étudiants et les membres du personnel peuvent louer sur une base mensuelle, semestrielle ou annuelle; le permis peut viser une place de stationnement précise ou simplement une aire de stationnement particulière;
+b) des aires pour visiteurs, soit des aires de stationnement pour les personnes qui se trouvent à l’Université pour une courte période; ces places sont payées selon un taux horaire, au moyen de tickets obtenus à une borne de paiement;
+c) d’autres emplacements qui sont des places de stationnement non payantes pour de courtes périodes, comme les aires de chargement;
+d) le stationnement résidentiel des étudiants, qui ne relève pas des services de stationnement et qui n’est pas en cause en l’espèce.
+[4] Pendant la période en cause, les aires réservées aux détenteurs de permis et les aires pour visiteurs comptaient quelque 5 600 places. Il est intéressant de noter que depuis la période en cause, l’offre et la demande de places de stationnement ont toutes deux diminué de manière importante. Il est clairement ressorti des témoignages de MM. Agosti et Guthrie que l’Université faisait la promotion du transport en commun en vue de diminuer le recours aux parcs de stationnement. M. Guthrie a déclaré que l’Université ne considérait pas le stationnement comme une entreprise, mais qu’elle en avait besoin comme moyen d’appuyer l’accomplissement de son mandat.
+[5] Par suite de l’amélioration du transport en commun (par exemple, le laissez‑passer auquel tous les étudiants de l’Université ont droit) et compte tenu des projets de construction de l’Université visant des immeubles ou des résidences universitaires, on compte au moins 1 000 places de stationnement en moins, et il semble que la diminution se poursuivra.
+[6] Les aires de stationnement réservées aux détenteurs de permis étaient identifiées au moyen d’un panneau sur lequel il était écrit que le stationnement était réservé aux détenteurs de permis ou précisant ce qui suit : [traduction] « les véhicules non autorisés seront immobilisés aux frais du propriétaire/conducteur ». M. Agosti a déclaré qu’[traduction] « immobiliser » signifiait qu’on plaçait un sabot de Denver sur la voiture ou qu’on la faisait remorquer, même si on n’avait recours à cette dernière solution que dans le cas où le conducteur avait trois amendes impayées.
+[7] Les panneaux situés près des stationnements pour visiteurs, normalement à proximité de la borne de paiement, affichaient plus d’informations :
+[traduction]
+Informations relatives au stationnement pour visiteurs
+Procédure à suivre en matière de stationnement :
+1. Garer le véhicule
+2. Acheter un ticket à la borne de paiement
+3. Afficher le ticket, face imprimée vers le haut, sur le tableau de bord pendant toute la durée du stationnement
+Tarif de stationnement : (en vigueur 24 heures sur 24)
+2,75 $ par heure (ou par heure entamée)
+Tarif quotidien maximum :
+11,75 $ du lundi au vendredi
+6 $ les fins de semaine et les jours fériés
+Tarif de soir (de 19 h à 8 h) :
+Tarif fixe de 2,75 $ pour la période (ou pour une partie de la période)
+VEUILLEZ SUIVRE LES INSTRUCTIONS AFFICHÉES SUR LA BORNE DE PAIEMENT
+VEUILLEZ NOTER CE QUI SUIT
+Les véhicules n’affichant pas de reçu valide feront l’objet d’amendes et d’une immobilisation aux frais du propriétaire/conducteur. L’Université n’assume aucune responsabilité à l’égard des véhicules et de leur contenu. L’Université Simon Fraser ne prend pas les véhicules en charge, mais ne fait que louer des espaces de stationnement.
+Au besoin, veuillez contacter la patrouille de sécurité du campus au 778-782-3100.
+[8] L’Université employait une ou deux personnes pour effectuer des patrouilles et assurer le respect des règles de stationnement, et elle donnait une contravention, qui était laissée sur la voiture, quand l’une ou l’autre des infractions suivantes était constatée :
+a) aucun permis valide n’était affiché;
+b) aucun reçu valide n’était affiché;
+c) le reçu était périmé;
+d) le véhicule n’était pas garé correctement dans l’aire;
+e) il y avait contravention à un panneau;
+f) le véhicule était garé dans une place pour personne handicapée;
+g) le véhicule était garé dans une zone ou une place interdite.
+[9] La contravention, appelée [traduction] « Avis d’infraction à la circulation », est ainsi rédigée :
+[traduction]
+Il est allégué qu’à la date mentionnée, le propriétaire (ou le conducteur) du véhicule portant la plaque d’immatriculation mentionnée ci‑dessous a commis l’infraction suivante, en contravention aux règles en matière de circulation et de stationnement de l’Université Simon Fraser.
+Elle se poursuit de la manière suivante :
+[traduction]
+Vous devez payer le montant susmentionné dans les 72 heures auprès des services de la sécurité de l’Université […].
+La contravention pouvait s’élever à 30 $, à 50 $ ou à 100 $; d’après M. Agosti, la majorité des contraventions s’élevaient à 30 $. Au verso de l’avis d’infraction, on pouvait lire ce qui suit :
+[traduction]
+Le présent avis d’infraction à la circulation est délivré en vertu de l’article 27 de la University Act (Loi sur les universités) de la Colombie‑Britannique.
+[10] Pour que les choses soient claires, seules sont en cause les amendes, qui comme je l’ai précisé s’élevaient normalement à 30 $, découlant des trois premières infractions susmentionnées (soit un montant d’environ 8 484 $) ainsi que les amendes assorties d’une pose de sabot (2 849 $).
+[11] Il est clairement ressorti des témoignages de MM. Agosti et Guthrie que les amendes de stationnement n’étaient pas un moyen de gagner un revenu, mais un moyen de faire respecter les règles. Sur les quelque 10 000 contraventions qui étaient données dans une année, 2 500 étaient annulées, 3 500 étaient payées et 4 000 demeuraient impayées. Les quelque 100 000 $ perçus ne font pas contrepoids aux 200 000 $ qu’il en coûte pour assurer le respect des règles de stationnement. Comme M. Guthrie l’a déclaré, l’Université voulait que les règles soient respectées, parce que garer son véhicule sans payer revenait à voler l’Université.
+[12] Pour finir, M. Guthrie a clairement expliqué que le gouvernement de la Colombie‑Britannique exerçait un contrôle important sur l’Université du fait qu’il nommait la majorité des membres du conseil d’administration, finançait un tiers du budget et imposait certaines exigences en matière de rapports.
+[13] L’annexe A jointe aux présents motifs du jugement est une copie de l’article 27 de la University Act (Loi sur les universités) de la Colombie‑Britannique.
+La question en litige
+[14] L’Université est‑elle tenue de percevoir et de verser la TPS sur les amendes de stationnement, telles qu’elles sont décrites dans les présents motifs, que ce soit à titre de contrepartie de la fourniture taxable d’une place de stationnement ou en application de l’article 182 de la Loi sur la taxe d’accise (la « Loi »)? Cette question peut être subdivisée de la manière suivante :
+a) Existe‑t‑il un contrat régissant la fourniture d’une place de stationnement?
+b) Le paiement de l’amende constitue‑t‑il une contrepartie pour cette place?
+c) Le paiement de l’amende est‑il un paiement effectué en raison de l’inexécution d’une convention portant sur la fourniture de cette place, ce qui ferait intervenir l’article 182 de la Loi?
+d) En l’absence de contrat, sommes‑nous en présence d’une fourniture taxable, et le paiement de l’amende constituait‑il une contrepartie pour cette fourniture?
+[15] L’appelante soutient que les amendes n’étaient rien d’autre que des amendes, imposées en vertu de la loi (la University Act) et qu’elles n’étaient donc pas assujetties à la TPS. Contrairement à ce qui a été conclu dans la décision Imperial Parking Ltd. v. R.[1], le paiement ne découlait pas de l’exécution d’un contrat. Il n’existait aucune convention prévoyant le paiement d’une amende à titre de contrepartie pour la place de stationnement, et il ne s’agissait pas non plus d’un paiement découlant de l’inexécution d’une quelconque convention. Comme l’avocat de l’appelante l’a déclaré, cela ne cadre tout simplement pas avec la situation en l’espèce.
+[16] L’intimée prétend qu’il faut examiner la véritable nature du paiement. Les amendes ne sont pas définies dans la Loi, et par conséquent, elles ne sont pas expressément exclues de l’application du régime de la TPS. L’intimée suggère de retourner aux sources. Dans le cas des fournitures taxables, l’article 165 de la Loi impose la TPS au taux de 5 % sur la valeur de la contrepartie de la fourniture taxable. L’article 123 de la Loi définit une fourniture taxable comme une fourniture effectuée dans le cadre d’une activité commerciale. Le terme « fourniture » a un sens large : livraison de biens ou prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation.
+[17] En se fondant sur la conclusion tirée par la Cour d’appel fédérale dans l’arrêt Imperial Parking, l’intimée ajoute qu’une convention était créée à partir du moment où un conducteur laissait sa voiture dans l’aire de stationnement sans payer. L’intimée soutient, compte tenu de la définition large qui a été reproduite ci‑dessus, que le conducteur avait convenu de payer le montant de l’amende à titre de contrepartie pour la fourniture d’une place de stationnement, ou, à titre subsidiaire, qu’il existait une convention que le conducteur qui n’a pas payé les frais de stationnement n’a pas exécutée, et qu’aux termes de l’article 182 de la Loi, le montant de l’amende est réputé constituer une contrepartie. Dans le cas où je conclurais qu’il n’existe pas de convention, l’intimée soutient qu’il n’en demeure pas moins que nous somme en présence d’une fourniture taxable, soit la fourniture d’une place de stationnement dans le cadre d’une activité commerciale, et que le paiement de l’amende est une contrepartie pour cette fourniture. Cette dernière position m’apparaît comme quelque peu contradictoire, en ce sens qu’il ne peut pas y avoir de contrepartie s’il n’y a pas de convention.
+[18] Il s’agit d’une question délicate et je remercie les avocats des parties d’avoir fait preuve de rigueur dans la présentation de leurs arguments. La difficulté vient du fait qu’une amende à proprement parler, une amende pour excès de vitesse par exemple, n’est pas assujettie à la TPS. Et, parce que l’Université se voit conférer le pouvoir d’imposer des amendes par la University Act, il semble à première vue que les amendes en cause soient des amendes à proprement parler plutôt qu’une contrepartie pour les places de stationnement en tant que telles. Je dois toutefois examiner cette question de plus près.
+[19] Je me pencherai d’abord sur la question du pouvoir des universités quant à l’imposition d’amendes. Cette question a été examinée en détail, d’abord en première instance par la Cour suprême de la Colombie Britannique[2], et ensuite en appel par la Cour d’appel de la Colombie‑Britannique, dans l’arrêt Barbour v. The University of British Columbia[3]. En première instance, il a été conclu que l’Université de la Colombie‑Britannique n’avait pas le pouvoir d’imposer des amendes de stationnement. L’Université de la Colombie‑Britannique avait essayé de faire valoir qu’elle pourrait conclure un contrat avec un tiers en vue d’imposer une telle pénalité, mais à nouveau, le tribunal de première instance a jugé que non : s’il est ultra vires pour une entité instituée par la loi d’imposer une amende, alors le fait pour cette entité de retenir les services d’un organisme privé dans ce même but est également ultra vires.
+[20] Avant que la Cour d’appel de la Colombie‑Britannique connaisse de l’appel, le gouvernement de la Colombie‑Britannique a modifié rétroactivement la University Act, afin de donner aux universités le pouvoir d’imposer des frais de stationnement (voir l’annexe A). La Cour d’appel de la Colombie‑Britannique a alors jugé que le pouvoir d’imposer des amendes de stationnement était intra vires. De manière implicite, il est également intra vires pour une université de donner à contrat l’imposition d’amendes de stationnement.
+[21] Les deux parties m’ont renvoyé à l’arrêt Imperial Parking Ltd. v. R.[4] de la Cour d’appel fédérale; Imperial Parking, société privée, avait installé le panneau suivant sur son terrain, lequel ne faisait l’objet d’aucune surveillance :
+[traduction]
+Veuillez lire attentivement... Vous êtes sur une propriété privée.
+Aux termes de ce panneau, Imperial Parking Limited offre des emplacements de stationnement publics. Le stationnement de votre automobile dans ce parc signifie que vous acceptez la présente offre. Imperial Parking Limited renonce par les présentes à toutes les exigences en matière d’avis et d’acceptation. Si vous stationnez votre automobile, mais que vous n’exhibez pas de ticket ou de laissez‑passer valide, le tarif est de 50 $ par jour et votre automobile pourra être remorquée. Dans les deux cas, si vous stationnez votre automobile dans ce parc, Imperial Parking Limited considère que vous avez accepté son offre concernant l’occupation d’un emplacement de stationnement. Si vous n’êtes pas d’accord avec ces conditions, ne stationnez pas votre automobile dans ce parc. En percevant la somme de 50 $, Imperial Parking Limited ne renonce pas à son droit de remorquer une automobile stationnée dans ce parc sans ticket ou laissez-passer valide exhibé sur le tableau de bord.
+[22] La Cour et la Cour d’appel fédérale n’ont pas éprouvé de difficulté à conclure qu’il existait entre Imperial Parking et le conducteur qui n’avait pas payé les frais de stationnement une convention selon laquelle ce conducteur convenait de payer la place au tarif de 50 $. C’est ainsi que la Cour d’appel fédérale a établi qu’il y avait une convention, ce qui revêt de l’importance. Il m’arrive rarement de citer des extraits aussi longs d’une décision, mais les commentaires formulés par le juge Robertson abordent les mêmes problèmes que ceux que j’ai soulevés auprès des avocats des parties :
+[13] Interprétée correctement, l’entente énoncée sur le panneau de l’appelante signifie que l’automobiliste paiera un montant maximal de 50 $ par jour pour l’utilisation d’un emplacement de stationnement et un montant inférieur si les conditions du contrat qui concernent le paiement du tarif horaire, du tarif de jour ou du tarif de soir sont respectées. Les conditions du contrat sont claires. Si vous voulez payer un montant inférieur pour un emplacement de stationnement, achetez un ticket pour la période nécessaire. Si vous dépassez ce temps, vous paierez davantage que le montant minimal et il se peut également que votre véhicule soit remorqué. Bref, l’automobiliste qui dépasse le temps prescrit demeure lié par contrat envers l’appelante jusqu’à ce que celle-ci reçoive le paiement conformément aux conditions dudit contrat.
+[…]
+[16] D’abord, l’argument de l’appelante est fondé sur la conviction erronée selon laquelle le droit ne reconnaît pas facilement les ententes insensées. En droit, ce n’est tout simplement pas vrai. Les personnes qui [concluent] ce que d’aucuns pourraient considérer comme une entente insensée sont liées par contrat jusqu’à ce qu’elles soient en mesure de convaincre le tribunal qu’elles devraient être libérées de leurs obligations selon l’une ou l’autre des doctrines reconnues en equity, soit l’abus, la contrainte ou l’incapacité. Encore là, il n’y a aucune garantie que le tribunal annulera le contrat ab initio. En tout état de cause, la partie qui stationne son véhicule à l’un des emplacements de l’appelante et omet intentionnellement d’acheter un ticket ne peut invoquer l’équité, parce que son attitude n’a pas été irréprochable. De plus, dans les circonstances dépeintes par l’appelante, il n’y a pas d’inégalité touchant le pouvoir de négociation en ce qui concerne ceux qui décident d’occuper un emplacement de stationnement sans payer. Bien que l’appelante considère la personne qui stationne son véhicule sans acheter de ticket comme un « intrus », l’étiquette qui convient le mieux est celle du « joueur ».
+[14] En deuxième lieu, l’appelante soutient qu’aucune personne raisonnable n’accepterait les conditions affichées sur son panneau. Elle conclut donc implicitement que les conditions du contrat sont un tant soit peu déraisonnables. En réalité, l’automobiliste qui dépasse le délai alloué par un parcomètre paie au moins 25 $ dans la ville d’Ottawa et court le risque que son véhicule soit remorqué. Dans la présente affaire, les automobilistes qui dépassent la période de stationnement allouée à un emplacement de l’appelante paient un montant minimal de 25 $ et un montant maximal de 50 $, tout comme ceux qui utilisent le système de façon abusive en omettant dès le départ d’acheter un ticket. Ceux qui décident de courir le risque ne peuvent se plaindre lorsqu’ils reçoivent un avis d’infraction ou que leur véhicule est remorqué. Compte tenu des intérêts commerciaux légitimes de l’appelante dans le cadre de l’exploitation d’un parc de stationnement entièrement automatisé et du problème que soulève l’utilisation du système de l’honneur pour poursuivre des activités commerciales, il ne m’apparaît pas évident que les conditions énoncées à l’entrée des parcs de stationnement de l’appelante sont abusives ou déraisonnables. Il se peut qu’elles aient pour but d’encourager les automobilistes à payer dès le départ, ce qui serait un objectif commercial légitime.
+[15] En troisième lieu, l’appelante allègue en réalité que le refus de payer prouve l’intention de ne pas conclure de contrat exécutoire. Cet argument ne tient pas compte de la distinction entre l’intention de créer des liens juridiques et l’intention de respecter ses obligations contractuelles. La première intention concerne la formation d’un contrat, tandis que l’autre porte sur la question de son exécution. La personne qui convient d’acheter des marchandises et qui les reçoit demeure tenue par contrat d’en payer le prix, que cette intention ait existé ou non. Par conséquent, la question de savoir si les personnes qui reçoivent des produits ou des services avaient ou non l’intention d’en payer le prix n’est pas pertinente quant à la question de la formation d’un contrat.
+[16] La dernière raison pour laquelle je rejette l’argument de l’appelante est le fait que la preuve de l’intention de passer un contrat est une preuve objective; par conséquent, même lorsqu’une personne croit qu’elle n’est pas liée, la formation d’un contrat sera reconnue en droit, sauf si l’autre partie contractante savait que tel n’était pas le cas. Selon la théorie objective de la formation d’un contrat, le critère à appliquer est la question de savoir s’il y a eu acceptation sans équivoque d’une offre. Dans le cas d’un parc de stationnement automatisé, l’acceptation doit se déduire de la conduite, car c’est la seule façon de déterminer objectivement l’intention dans les circonstances de la présente affaire. À mon avis, la conduite sans équivoque qui constitue une acceptation de l’offre d’emplacements de stationnement de l’appelante a lieu lorsque le chauffeur quitte le parc après y avoir stationné son véhicule. Cette interprétation est renforcée par le texte du grand panneau qui se trouve à l’entrée du parc de l’appelante. C’est le moment où il est permis de présumer que l’automobiliste a accepté l’offre de l’appelante. En tout temps avant ce moment, le chauffeur peut démontrer qu’il refuse l’offre de l’appelante en s’éloignant. Ceux qui achètent un ticket ont forcément accepté les conditions du contrat de l’appelante lorsqu’ils laissent leur véhicule stationné au parc de l’appelante. Dans le cas de ceux qui stationnent leurs véhicules sans payer, le défaut de paiement indique davantage l’intention de commettre un manquement à un contrat que celle de refuser d’en conclure un.
+[23] Suivant cette analyse, peut-on dire qu’il existe un contrat entre l’Université et le conducteur qui n’a pas payé les frais de stationnement? Il serait difficile de prétendre le contraire. En se garant dans le stationnement tout en sachant qu’il fallait pour cela détenir un permis ou avoir obtenu un ticket de stationnement d’une distributrice comme preuve de paiement, et en quittant le stationnement sans s’être conformé à ces exigences avec en sa possession un avis d’infraction à la circulation précisant qu’il devait 30 $ à l’Université, le conducteur qui n’a pas payé les frais de stationnement a, dans le droit fil du raisonnement de la Cour d’appel fédérale, conclu une entente avec l’Université.
+[24] Dans la décision Imperial Parking, l’entente consistait à payer une somme assez importante pour la place de stationnement. Comme la Cour d’appel fédérale l’a souligné, le panneau appuyait cette interprétation, clarifiant la nature de l’entente. Mais quelle était la nature de l’entente entre l’Université et les conducteurs qui ne payaient pas les frais de stationnement? Quand un tel conducteur sortait de sa voiture, il savait seulement qu’il n’avait pas payé, et qu’il aurait dû le faire; en outre, il savait qu’il pourrait recevoir une amende et que le véhicule pourrait être saisi, ce qui sous‑entendait certains coûts. Il importait peu à ce conducteur que ces frais découlent du pouvoir conféré par la loi à l’Université ou du pouvoir implicite de cette dernière de donner à contrat l’imposition de tels frais. Le conducteur convenait‑il de payer 30 $ pour sa place de stationnement aux termes d’une convention, étant donné qu’il savait certainement, et ce, avant de quitter le stationnement, qu’il devait la somme de 30 $, vu qu’il avait reçu un avis d’infraction à la circulation? Non, contrairement à ce qu’il en était dans la décision Imperial Parking, l’avis ne précisait pas clairement que le conducteur acceptait de payer 30 $ pour une place de stationnement. En fait, il était clair que l’avis d’infraction à la circulation se rapportait à une infraction qui avait été commise, et qu’il était délivré en vertu de l’article 27 de la University Act. Ces modalités contractuelles diffèrent largement de celles qui étaient établies sur le panneau en cause dans la décision Imperial Parking, dans laquelle il était clair que le paiement constituait une contrepartie pour la place de stationnement. Les modalités de la convention entre l’Université et le conducteur qui n’avait pas payé les frais de stationnement et qui était en possession d’un avis d’infraction à la circulation étaient les suivantes : si vous n’avez pas de permis et que vous n’avez pas payé le tarif horaire prescrit, vous recevrez une amende, parce que la loi confère à l’Université le pouvoir de vous imposer une telle amende. Même si, dans l’approche adoptée par la Cour d’appel fédérale dans la décision Imperial Parking, un contrat est établi au moment où le conducteur se gare et sort de son véhicule, les modalités du contrat ne sont pas les mêmes en l’espèce. Imperial Parking n’avait pas le pouvoir d’imposer une amende aux conducteurs qui n’avaient pas payé les frais de stationnement, et elle devait se contenter d’imposer au conducteur, par contrat, des frais de stationnement plus élevés. Il se trouve que l’Université avait une importante corde supplémentaire à son arc, étant donné que la loi lui conférait le pouvoir d’imposer des amendes. Le paiement de l’amende ne sert pas à payer la place de stationnement : en abandonnant son véhicule sans payer, le conducteur renonçait à son droit de payer le tarif horaire normal pour une place de stationnement. L’avis d’infraction à la circulation ne dit pas qu’il faut maintenant payer plus cher la place de stationnement, mais qu’il faut payer pour l’infraction commise.
+[25] Cela nous amène à la question de savoir si le paiement est visé par l’article 182 de la Loi, qu’il convient de reproduire :
+1) Pour l’application de la présente partie, dans le cas où, à un moment donné, par suite de l’inexécution, de la modification ou de la résiliation, après 1990, d’une convention portant sur la réalisation d’une fourniture taxable au Canada, sauf une fourniture détaxée, par un inscrit au profit d’une personne, un montant est payé à l’inscrit, ou fait l’objet d’une renonciation en sa faveur, autrement qu’à titre de contrepartie de la fourniture, ou encore une dette ou autre obligation de l’inscrit est réduite ou remise sans paiement au titre de la dette ou de l’obligation, les présomptions suivantes s’appliquent :
+a) la personne est réputée avoir payé, au moment donné, un montant de contrepartie pour la fourniture égal au résultat du calcul suivant :
+(A/B) × C
+où
+A
+représente 100%,
+B
+le pourcentage suivant :
+(i) si la taxe prévue au paragraphe 165(2) était payable relativement à la fourniture, la somme de 100 %, du taux fixé au paragraphe 165(1) et du taux de taxe applicable à la province participante où la fourniture a été effectuée,
+(ii) dans les autres cas, la somme de 100 % et du taux fixé au paragraphe 165(1),
+C
+le montant payé, ayant fait l’objet de la renonciation ou remis, ou le montant dont la dette ou l’obligation a été réduite;
+b) la personne est réputée avoir payé, et l’inscrit avoir perçu, au moment donné, la totalité de la taxe relative à la fourniture qui est calculée sur cette contrepartie, laquelle taxe est réputée égale au montant suivant :
+(i) si la taxe prévue au paragraphe 165(2) était payable relativement à la fourniture, le total des taxes prévues à ce paragraphe et au paragraphe 165(1) calculées sur cette contrepartie,
+(ii) dans les autres cas, la taxe prévue au paragraphe 165(1), calculée sur cette contrepartie.
+[26] Cette disposition part du principe qu’il existe un contrat portant sur la réalisation d’une fourniture taxable et que ce contrat n’a pas été exécuté. J’ai conclu que les modalités de l’entente contractuelle entre un conducteur qui n’a pas payé les frais de stationnement et l’Université ne prévoient pas le paiement d’une contrepartie pour une place de stationnement, mais que le conducteur qui n’a pas payé les frais de stationnement accepte plutôt le risque de devoir payer une amende. Il n’y a pas d’intention d’inexécution d’une convention pour payer la fourniture taxable du stationnement; la convention ne vise pas le paiement d’une contrepartie pour la fourniture d’une place de stationnement. Essentiellement, la convention pourrait se résumer de la façon suivante : si je me fais prendre, je paie une amende. Je conviens qu’il semble s’agir d’une distinction subtile, mais elle fait ressortir le fait que l’amende en cause est bel et bien une amende, sans plus, et si aucune modalité de la convention ne vise la fourniture taxable à un conducteur qui n’a pas payé les frais de stationnement, en dehors du fait qu’une amende pourrait lui être imposée, il n’y a pas eu d’inexécution faisant intervenir l’article 182 de la Loi.
+[27] Peut-être qu’il faut simplement établir ce qu’est essentiellement une amende. L’avocat de l’intimée a cité une définition du Dictionary of Canadian Law, selon lequel une amende est une pénalité d’ordre pécuniaire ou une autre somme. Je lui préfère la définition du Canadian Oxford Dictionary, selon lequel il s’agit d’une somme d’argent exigée à titre de pénalité pour une infraction. Il convient de noter qu’il n’est pas question d’un paiement pour inexécution d’un contrat. La loi conférait à l’Université le pouvoir d’avoir recours à une amende en cas d’infraction à la circulation. C’est ce qu’elle a fait, et c’est là un exemple classique d’amende. Cela va dans le même sens que la philosophie de l’Université, selon laquelle le stationnement n’était pas un centre de profit. Les amendes étaient imposées parce que les conducteurs qui ne payaient pas les frais de stationnement commettaient essentiellement un vol. Nonobstant le fait qu’il ait pu y avoir un contrat, je conclus que, dans les circonstances, la TPS n’était pas exigible sur l’amende.
+[28] L’appel est accueilli, sans dépens, et l’affaire est déférée au ministre du Revenu national pour nouvelle cotisation, compte tenu du fait que, conformément aux présents motifs, l’appelante n’a pas à percevoir et à verser la TPS sur les amendes de stationnement.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement datés du 22 avril 2013.
+Signé à Ottawa, Canada, ce 27e jour de mai 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 3e jour de juin 2013.
+Alya Kaddour-Lord, traductrice
+[traduction] ANNEXE A Loi sur les universités [Lois révisées de la Colombie‑Britannique, 1996] Chapitre 468
+Pouvoirs du conseil
+27(1) Le conseil est chargé de la gestion, de l’administration et du contrôle des biens, du revenu, des activités et des affaires de l’Université.
+(2) Sans restreindre la portée du paragraphe (1) ou les pouvoirs généraux que la présente loi lui confère, le conseil a les pouvoirs suivants :
+[…]
+s) conclure des ententes au nom de l’université;
+t) édicter des règles, imposer des interdictions et fixer des exigences à l’égard de l’utilisation des biens immobiliers, des bâtiments, des constructions et des biens meubles de l’université, notamment en ce qui a trait :
+(i) aux activités et aux évènements,
+(ii) à la circulation et au stationnement des véhicules, y compris les bicyclettes et les autres moyens de transport,
+(iii) à la circulation des piétons;
+t.1) édicter des règles, imposer des interdictions et fixer des exigences relativement au niveau de bruit sur la propriété de l’université ou à l’intérieur de ses bâtiments et constructions;
+t.2) pour l’application des alinéas t) et t.1), prendre les mesures nécessaires pour le déplacement, l’immobilisation ou la saisie ainsi que la récupération de tout bien associé au non respect d’une règle ou de tout instrument établi dans l’exercice du pouvoir conféré par le présent article;
+t.3) d’établir, de calculer et de percevoir des frais pour l’application des alinéas t) à t.2), notamment en ce qui a trait aux approbations, aux permis, à la sécurité, à l’entreposage et à l’administration, ainsi qu’aux dépenses associées à ces postes;
+[…]
+u) de faire l’acquisition et de gérer :
+(i) une invention ou tout intérêt dans une telle invention, ou une licence autorisant la réalisation, l’utilisation ou la vente du produit d’une invention;
+(ii) un brevet, des droits d’auteur, une marque de commerce, un nom commercial ou tout autre droit de propriété ou tout intérêt afférent;
+[…]
+x) d’établir des règles conformément aux pouvoirs conférés au conseil d’administration par la présente loi;
+x.1) d’imposer et de percevoir des pénalités, y compris des amendes, en cas de non respect d’une règle ou de tout instrument établi dans l’exercice des pouvoirs conférés par le présent article;
+x.2) de prendre les dispositions nécessaires à l’audition et au règlement des différends découlant de :
+(i) le non respect d’une règle ou de tout instrument établi dans l’exercice d’un pouvoir conféré par le présent article,
+(ii) l’imposition d’une pénalité en application de l’alinéa x.1);
+y) de veiller à tout autre aspect visé par la présente loi qui pourrait s’avérer nécessaire ou utile pour l’accomplissement des objectifs de l’université, directement ou indirectement, ainsi que pour l’accomplissement de toute fonction par le conseil d’administration ou ses représentants.
+RÉFÉRENCE : 2013 CCI 121
+NO DU DOSSIER DE LA COUR : 2012-1698(GST)I
+INTITULÉ : Université Simon Fraser c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 19 mars 2013
+MOTIFS DU JUGEMENT
+MODIFIÉS : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT MODIFIÉ : Le 27 mai 2013
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Elizabeth Junkin
+Avocat de l’intimée :
+Me Zachary Froese
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Elizabeth Junkin
+Cabinet : Junkin Law Office
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 99 G.T.C. 3047, (sub nom. Imperial Parking Ltd. v. Canada) [1998] G.S.T.C. 129 (Cour canadienne de l’impôt).
+[2] 2009 BCSC 425, (2009) B.C.J. No. 617 (QL).
+[3] 2010 BCCA 425, 2010 BCCA 63.
+[4] [2000] G.S.T.C. 52.

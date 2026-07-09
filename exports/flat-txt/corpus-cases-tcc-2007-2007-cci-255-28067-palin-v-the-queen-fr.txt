@@ -1,0 +1,128 @@
+Title: Palin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28067/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-255-28067-palin-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-03-15
+
+# Palin v. The Queen
+
+- Citation: 2007 CCI 255
+- Decision date: 2007-03-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1587, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Palin v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-15
+Référence neutre
+2007 CCI 255
+Numéro de dossier
+2006-1074(IT)I
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1074(IT)I
+ENTRE :
+CHRISTOPHER D. PALIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 15 mars 2007, à Toronto (Ontario).
+Devant : L’honorable juge E. P. Rossiter
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Nimanthika Kaneira
+ORDONNANCE
+Vu la requête que l’intimée a présentée afin d’obtenir :
+1. une ordonnance rejetant l’avis d’appel de l’appelant pour les années d’imposition 1990, 1991, 1992 et 1993;
+2. à titre subsidiaire, une ordonnance prorogeant le délai dans lequel l’intimée doit produire et signifier sa réponse à 60 jours suivant la date de communication de l’ordonnance de la Cour;
+Et après avoir entendu les observations des parties et lu les documents déposés par les parties;
+1. La requête est accueillie et l’appel est rejeté.
+2. Aucuns dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2007.
+« E. P. Rossiter »
+Juge Rossiter
+Traduction certifiée conforme
+ce 21e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI255
+Date : 20071101
+Dossier : 2006-1074(IT)I
+ENTRE :
+CHRISTOPHER D. PALIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Rossiter
+[1] L’intimée a présenté un avis de requête afin d’obtenir :
+1. une ordonnance rejetant l’avis d’appel de l’appelant pour les années d’imposition 1990, 1991, 1992 et 1993;
+2. à titre subsidiaire, une ordonnance prorogeant le délai dans lequel l’intimée doit produire et signifier sa réponse à 60 jours suivant la date de communication de l’ordonnance de la Cour.
+Question en litige
+[2] La question est celle de savoir si la Cour a compétence pour entendre l’appel d’une affaire visée par les dispositions d’équité du paragraphe 220(3.1) de la Loi de l’impôt sur le revenu (la « Loi »), ou si cette affaire relève de la compétence de la Cour fédérale du Canada.
+Faits
+[3] Les faits de l’espèce sont clairs :
+1. Le 22 décembre 1994, l’appelant a fait l’objet d’une cotisation arbitraire pour les années d’imposition 1990, 1991, 1992 et 1993. L’Agence du revenu du Canada (l’« ARC ») a établi que l’appelant avait payé trop d’impôt et qu’il avait droit à un remboursement.
+2. Le 9 mars 1995, l’appelant a déposé des avis d’opposition à toutes les nouvelles cotisations, en partie parce que l’ARC avait mal calculé et sous‑évalué son revenu imposable, ce qui avait donné lieu à un remboursement.
+3. Le 15 février 1995 et le 21 juin 1996, l’ARC a établi de nouvelles cotisations à l’égard de l’appelant pour les années d’imposition 1990, 1991, 1992 et 1993; elle a maintenu le remboursement et délivré un chèque de remboursement à l’appelant.
+4. Le 7 octobre 2004, l’appelant a rempli des déclarations modifiées pour les années d’imposition 1990, 1991, 1992 et 1993 après avoir découvert que l’ARC avait établi des cotisations insuffisantes à son égard pour les années en question et il a expliqué le remboursement excédentaire. Après avoir reçu le remboursement, l’appelant l’avait déposé dans un compte ne portant pas intérêt et l’y avait laissé pendant quatre ans et demi. L’ARC a traité les déclarations modifiées comme des demandes de rajustement des déclarations d’impôt de l’appelant pour les années d’imposition 1990, 1991, 1992 et 1993.
+5. Le 16 juin 2005, en réponse aux déclarations modifiées, l’ARC a établi des avis de nouvelle cotisation à l’égard de l’appelant pour les années d’imposition 1990, 1991, 1992 et 1993 et demandé une somme substantielle à titre d’intérêts sur le remboursement excédentaire.
+6. Le 7 septembre 2005, après s’être conformé aux nouvelles cotisations du 16 juin 2005, l’appelant a demandé à l’ARC de réduire les intérêts à zéro.
+7. Le 17 janvier 2006, la demande de l’appelant a été rejetée en vertu des dispositions d’équité de la Loi parce qu’elle n’avait pas été présentée dans le délai imparti. Selon la position de l’intimée, les dispositions d’équité s’appliquent seulement aux dix années qui se terminent l’année civile précédente; par conséquent, une demande présentée en 2005 ne serait acceptée que pour l’année 1995 et les années subséquentes.
+Position de l’intimée
+[4] La position de l’intimée est la suivante :
+1) le ministre a examiné la demande de renonciation aux intérêts présentée par le contribuable en vertu du paragraphe 220(3.1) de la Loi;
+2) aux termes du paragraphe 165(1.2) de la Loi, aucune opposition ne peut être faite par un contribuable à une cotisation établie en application du paragraphe 220(3.1). Le paragraphe est ainsi rédigé :
+165.(1.2) Restriction – Malgré les paragraphes (1) et (1.1), aucune opposition ne peut être faite par un contribuable à une cotisation établie en application des paragraphes 118.1(11), 152(4.2), 169(3) ou 220(3.1). Il est entendu que cette interdiction vaut pour les oppositions relatives à une question pour laquelle le contribuable a renoncé par écrit à son droit d’opposition.
+3) pour interjeter appel, le contribuable doit signifier un avis d’opposition valable conformément au paragraphe 169(1) de la Loi. Selon l’intimée, même si l’appelant a envoyé une lettre le 7 septembre 2005 en réponse aux nouvelles cotisations établies en juin 2005, il ne s’agissait pas d’un avis d’opposition valable selon le paragraphe 165(1.2);
+4) puisque l’appelant ne peut présenter d’opposition, la Cour n’a pas compétence pour entendre l’appel. Selon l’intimée, une révision relativement aux dispositions d’équité contenues au paragraphe 220(3.1) s’obtient uniquement par voie de contrôle judiciaire devant la Cour fédérale, et non au moyen d’un appel interjeté devant la Cour canadienne de l’impôt.
+Position de l’appelant
+[5] L’appelant soutient qu’il ne s’agit pas de l’appel d’une décision fondée sur l’équité, mais plutôt d’un appel qui concerne sa demande d’annulation des intérêts qu’il doit payer. Selon l’appelant, le ministre n’a pas du tout honoré sa demande de septembre 2005 et a simplement dit que la demande n’avait pas été présentée dans le délai prescrit, point à la ligne. L’appelant a par la suite soutenu que le ministre n’avait pas interprété correctement le paragraphe 220(3.1).
+[6] En outre, l’appelant déclare que le ministre a traité les modifications de l’appelant comme un rajustement aux déclarations des années 1990 à 1993, et qu’il n’avait pas donné au ministre la permission d’établir ces nouvelles cotisations.
+Analyse
+[7] L’appel ne porte pas sur les intérêts imposés, mais plutôt sur la révision ou l’absence de révision effectuée en vertu du paragraphe 220(3.1) de la Loi. Le dossier indique que la demande d’annulation de l’appelant a été examinée conformément au paragraphe 220(3.1) de la Loi, et que selon le résultat de cet examen, le paragraphe 165(1.2) de la Loi s’applique. Le paragraphe 165(1.2) prévoit qu’aucune opposition ne peut être faite par un contribuable à une cotisation établie en application du paragraphe 220(3.1) de la Loi. Compte tenu de ce qui précède, l’appelant ne peut interjeter appel devant la Cour canadienne de l’impôt parce qu’il ne peut déposer un avis d’opposition valable au sens du paragraphe 169(1) de la Loi.
+[8] Il convient de faire référence à l’arrêt rendu par la Cour d’appel fédérale dans Armstrong c. Canada; Armstrong c. Canada (M.R.N.), [2006] A.C.F. no 463, dans lequel la juge Sharlow a déclaré, au paragraphe 8 :
+Une déclaration de revenu modifiée portant sur une année d’imposition qui a déjà été l’objet d’un avis de cotisation n’entraîne pas pour le ministre l’obligation de fixer l’impôt avec toute la diligence possible (paragraphe 152(1) de la Loi de l’impôt sur le revenu), ni n’a pour effet de faire repartir de zéro l’un quelconque des délais de prescription qui commencent quand une déclaration de revenu relative à une année donnée est produite, puis qu’une cotisation est établie. Une déclaration de revenu modifiée est simplement une demande adressée au ministre pour qu’il établisse une nouvelle cotisation concernant cette année‑là.
+Ce passage énoncé par la Cour d’appel fédéral appuie assurément la proposition voulant que lorsque l’appelant a produit ses déclarations modifiées en 2004, il autorisait implicitement le ministre à établir une nouvelle cotisation pour les années d’imposition visées. On peut également mentionner la décision rendue par le juge Mogan de la Cour canadienne de l’impôt dans Yaremy c. Canada, [1999] A.C.I. no 713, où le paragraphe 165(1.2) de la Loi a aussi été examiné. Le juge Mogan a déclaré ce qui suit, au paragraphe 10 :
+Ayant conclu que la nouvelle cotisation en appel a été établie en vertu du paragraphe 152(4.2), je conclus aussi que le paragraphe 165(1.2) s’applique et que l’appelant ne pouvait pas faire une opposition valable à cette nouvelle cotisation. S’il est impossible de faire une opposition valable, alors aucun appel valable ne peut être interjeté en vertu du paragraphe 169(1). Je maintiens l’objection préliminaire formulée par l’intimée et je rejette l’appel.
+[9] De même, en l’espèce, étant donné que la demande d’annulation a été examinée en vertu du paragraphe 220(3.1) de la Loi, je conclus que le paragraphe 165(1.2) de la Loi s’applique et qu’aucune opposition valable et aucun appel valable ne sont possibles. C’est par une demande de contrôle judiciaire devant la Cour fédérale du Canada que le contribuable peut contester une décision rendue en vertu des dispositions d’équité du paragraphe 220(3.1) de la Loi. Le contribuable qui veut contester le refus du ministre d’accueillir une demande présentée en vertu des dispositions d’équité doit obtenir une ordonnance de mandamus auprès de la Cour fédérale du Canada. Aucuns dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2007.
+« E. P. Rossiter »
+Juge Rossiter
+Traduction certifiée conforme
+ce 21e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI255
+NO DU DOSSIER DE LA COUR : 2006-1074(IT)I
+INTITULÉ : Christopher D. Palin c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 15 mars 2007
+MOTIFS DE L’ORDONNANCE : L’honorable juge E.P. Rossiter
+DATE DE L’ORDONNANCE : Le 1er novembre 2007
+COMPARUTIONS :
+Pour l’appelant ::
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Nimanthika Kaneira
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

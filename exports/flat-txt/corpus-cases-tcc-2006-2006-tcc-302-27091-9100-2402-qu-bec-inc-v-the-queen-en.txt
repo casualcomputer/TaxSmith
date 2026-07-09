@@ -1,0 +1,144 @@
+Title: 9100-2402 Québec Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27091/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-302-27091-9100-2402-qu-bec-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-07-04
+
+# 9100-2402 Québec Inc. v. The Queen
+
+- Citation: 2006 TCC 302
+- Decision date: 2006-07-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 961, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9100-2402 Québec Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-04
+Neutral citation
+2006 TCC 302
+File numbers
+2005-2543(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2543(IT)I
+BETWEEN:
+9100-2402 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on May 10, 2006, at Matane, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Denis Tremblay
+Counsel for the Respondent:
+Christina Ham
+__________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is allowed, without costs, and, in accordance with the attached Reasons for Judgment, the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in order to eliminate the sum of $16,000 from the Appellant's income and make the appropriate corrections as a consequence of this judgment.
+Signed at Ottawa, Canada, this 4th day of July 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 4th day of July 2007.
+Brian McCordick, Translator
+Citation: 2006TCC302
+Date: 20060704
+Docket: 2005-2543(IT)I
+BETWEEN:
+9100-2402 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This appeal pertains to the 2001 taxation year.
+[2] The issue is whether the Minister properly added the amount of $16,000 to the Appellant's income for the 2001 taxation year as a taxable benefit.
+[3] In making the assessment under appeal, the Respondent relied on the following assumptions of fact:
+[TRANSLATION]
+(a) During the period in issue, the Appellant's sole shareholder was Martine Cyr. (admitted)
+(b) The Appellant's fiscal year ended on December 31, 2001. (admitted)
+(c) During the period in issue, the Appellant held 100% of 2550‑9605 Québec Inc. (hereinafter the "operating company"). (admitted)
+(d) The operating company's fiscal years ended on March 23, 2001, and December 31, 2001, respectively. (admitted)
+(e) During her audit, the Minister's auditor made the following findings:
+(i) The operating company paid a total of $16,000 in professional fees ($10,000 + $6,000). (admitted in part)
+(ii) These professional fees were paid for transactions in which the Appellant purchased 385 Class B shares and 341 Class D shares of the operating company. (admitted in part)
+(iii) No intercompany liability was entered in the accounting books in respect of these payments, which totalled $16,000. (admitted in part)
+(f) Consequently, the Minister's auditor made the following determinations:
+(i) The total amount of $16,000 was a benefit conferred on the Appellant. (admitted in part)
+(ii) The adjusted cost base of the stock investment was increased by $10,000 in fees. (admitted in part)
+(iii) $6,000 in fees were incorporation expenses and were considered eligible capital property. (admitted in part)
+(iv) The total of $16,000 was not allowable as an expense of the operating company. (admitted in part)
+(g) At the objections stage, the Appellant's representative told the objections officer that the Appellant was not contesting the Minister's disallowance of the $16,000 as an expense of the operating company. (admitted)
+(h) The facts set out in subparagraph 6(g) above were first assumed when the reassessment of August 19, 2004, in respect of the 2001 taxation year, was confirmed. (admitted)
+[4] The vast majority of the facts were admitted. This includes, inter alia, subparagraphs (a), (b), (c), (d) and (g). Sub-subparagraphs (e)(i), (ii) and (iii), and (f)(i), (ii), (iii) and (iv) were admitted in part.
+[5] The facts are not truly being contested. The Appellant essentially claims that the assumptions of fact stemmed from a simple error caused by the ignorance and lack of experience of Martine Cyr, the sole shareholder of the corporation.
+[6] Counsel for the Appellant placed considerable emphasis on the speed with which the Appellant corrected the mistake following the auditor's finding.
+[7] In support of its case, the Appellant adduced the testimony of France Guérette, the corporation's accountant, and Martine Cyr, its sole shareholder, who was responsible for the day‑to-day bookkeeping in that she made the entries in the various accounting books. Ms. Guérette's mandate was essentially to produce the financial statements at the end of the corporations' fiscal year.
+[8] As for the Respondent, she called Gaétane Gauthier, the auditor, as a witness. Essentially, Ms. Gauthier explained the nature of the various findings that led her to conclude that a reassessment based on subsection 15(1) of the Income Tax Act ("the Act") was necessary.
+[9] Ms. Guérette explained that she acknowledged, at the time of the objection, that the auditor's findings of fact which form the basis of the assessment under appeal were correct.
+[10] Counsel for the Appellant argued that this was essentially a mistake that can be explained and justified by Ms. Cyr's ignorance, and lack of experience, at the time that it was made.
+[11] As soon as she noticed the mistake that led to the reassessment, Ms. Cyr did what was necessary to rectify the situation so that everything would reflect reality, which was that the amount was not a benefit, but rather, a loan from 2550‑9605 Québec Inc. to the Appellant corporation. The corrections were made so that the financial statements would reflect exactly what they should have reflected from the start.
+[12] Ms. Cyr, a nurse by training, explained that she had very little accounting knowledge. In fact, she said that she has taken courses in order learn more about it.
+[13] The explanation that she offered in order to convince the Court that this was a mistake was that, to her mind, there was no real difference between the two corporations; the newly incorporated 9100‑2402 Québec Inc. had no bank account and therefore had no money in the bank, whereas 2550‑9605 Québec Inc. had a bank account with cash in it. Thus, she spontaneously, naturally and automatically had the expenses covered by the corporation which, in strictly reasonable terms for someone who was not trained in accounting, seemed able to do so. Based on this reasoning, she wrote a cheque drawn on the account in question.
+[14] It is a settled principle of tax law that all taxpayers may organize and plan their affairs in order to minimize their tax liability, provided their planning is in keeping with the provisions of the Act. All planning requires a voluntary act that is clearly expressed and is not ambiguous.
+[15] It is also settled that an assessment must be based on the facts as they were observed and gathered. In other words, while it may occasionally be necessary to question the facts in order to uncover the intent of certain transactions that have arisen in the course of certain business, it is generally accepted that an assessment must reflect the facts and transactions that are actually entered in the various relevant books, not hypothetical facts or facts that the assessed person wishes that he had brought about after he discovers certain advantages, or, conversely, certain drawbacks.
+[16] However, this reality does not prevent a genuine mistake from being corrected. Several types of mistakes can be made. In some cases, the mistake is not a genuine one, but rather, a intentional mistake aimed at deriving a benefit while being able to plead good faith in order to avoid penalties in the event that these mistakes are discovered or followed up in an audit.
+[17] All the facts in the case at bar point to a genuine mistake, committed in good faith, without an ulterior motive, and in an unusual context. In this regard, I have in mind the following facts, among others:
+· Ms. Cyr acted on a reflex that was normal for a layperson to act upon when she caused an expense to be incurred by the corporation that was able to incur it rather than the corporation that had no cash and no bank account at the time of the payment.
+· Ms. Cyr was clearly acting in good faith when she had the amounts in issue paid by the legal entity that had the necessary funds; this reflex was not without logic even though it was repugnant to the rigour and strict requirements that must apply where there are two distinct legal entities. In the case at bar, the Appellant corporation had just recently been incorporated, and had no assets and no bank account; consequently, the payment was made by the other corporation.
+· As soon as the finding was made in the assessment, the accountant immediately corrected the financial statements of both corporations involved.
+[18] In Long v. Canada, [1997] T.C.J. No. 722, docket 96‑4714(IT)I, the Honourable Chief Judge Bowman, of this Court, cited a passage from the decision in Pillsbury Holdings Ltd., 64 D.T.C. 5184, at page 5187, where the Honourable Judge Cattanach wrote as follows:
+In applying paragraph (c) full weight must be given to all the words of the paragraph. There must be a "benefit or advantage" and that benefit or advantage must be "conferred" by a corporation on a "shareholder". The word "confer" means "grant" or "bestow". Even where a corporation has resolved formally to give a special privilege or status to shareholders, it is a question of fact whether the corporation's purpose was to confer a benefit or advantage on the shareholders or some purpose having to do with the corporation's business such as inducing the shareholders to patronize the corporation. If this be so, it must equally be a question of fact in each case where the Minister contends that what appears to be an ordinary business transaction between a corporation and a shareholder is not what it appears to be but is in reality a method, arrangement or device for conferring a benefit or advantage on the shareholder qua shareholder.
+[19] Judge Morgan, in Chopp v. Canada, [1995] T.C.J. No. 12, docket 93‑547(IT)G, affirmed by the Federal Court of Appeal, [1997] F.C.J. No. 1551, A-87-95, wrote as follows:
+19 I would not go as far as Judge Rowe in stating that the words used in subsection 15(1) refer to some form of action with a strong component of intent. I think a benefit may be conferred within the meaning of subsection 15(1) without any intent or actual knowledge on the part of the shareholder or the corporation if the circumstances are such that the shareholder or corporation ought to have known that a benefit was conferred and did nothing to reverse the benefit if it was not intended. I am thinking of relative amounts. If there is a genuine bookkeeping error with respect to a particular amount, and that amount is truly significant relative to a corporation's revenue or its expenses or a balance in the shareholder loan account, a court may conclude that the error should have been caught by some person among the corporate employees or shareholders or outside auditors. Shareholders should not be encouraged to see how close they can sail to the wind under subsection 15(1) and then plead relief on the basis of no proven intent or knowledge.
+[20] In the case at bar, Ms. Cyr's act had the effect of creating a benefit in the Appellant's books. Not only was this not her intent, but she was also unaware of the matter, and did not know enough to understand the import of her decision to impute the expense to the wrong corporation.
+[21] Should she have known? The evidence showed that she clearly did not have the expertise required to understand the consequences. In fact, the quick acknowledgment and admission by the accountant tend to confirm that this was a mistake, not an intentional, self-interested initiative that was subsequently explained away as a banal error.
+[22] While the amount in issue was relatively large, it was not an exceptional amount that could have or should have compelled Ms. Cyr to question herself and consult the accountant.
+[23] Ms. Cyr simply made the entry without questioning herself or conducting any sort of analysis; essentially, she drew a cheque on the account that contained the money so that it would be honoured, and the fact that the two legal entities were, to her mind, closely related (in the sense that a layperson would ascribe to that concept) lends further support to this understanding of her actions.
+[24] In reality, the payment was made without an element of intent, other than the intent to pay the professional services invoice out of an account that would permit such a payment to be made.
+[25] In order to avoid this mistake, Ms. Cyr would have had to possess knowledge that she clearly did not have, or she would have had to do absolutely nothing without consulting the accountant first. And what she did, which was to pay an invoice by cheque, was completely commonplace.
+[26] In my opinion, in order for an assessment under subsection 15(1) of the Act to be warranted, certain factors must be found to be present, such as wilful blindness, a subtle, intentional tactic, a skilful attempt, or a self-interested and advantageous initiative that could ultimately be explained as an error if it were ever discovered.
+[27] For all these reasons, the appeal is allowed on the basis that the Respondent improperly added $16,000 to the Appellant's income as a taxable benefit. The assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in order to eliminate the amount of $16,000 from the Appellant's income. Naturally, my decision means that the appropriate corrections must be made as a consequence of this judgment. There shall be no costs.
+Signed at Ottawa, Canada, this 4th day of July 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 4th day of July 2007.
+Brian McCordick, Translator
+CITATION: 2006TCC302
+COURT FILE NO: 2005-2543(IT)I
+STYLE OF CAUSE: 9100-2402 Québec Inc.
+and Her Majesty the Queen
+PLACE OF HEARING: Matane, Quebec
+DATE OF HEARING: May 10, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: July 4, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Denis Tremblay
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Denis Tremblay
+Firm: Tremblay & Tremblay
+City: Matane, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

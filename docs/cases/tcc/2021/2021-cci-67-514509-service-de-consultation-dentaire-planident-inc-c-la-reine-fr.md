@@ -1,0 +1,176 @@
+---
+title: "Service de consultation dentaire Planident inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/514509/index.do"
+last_modified: "2021-10-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 CCI 67"
+citation2: ""
+neutral_citation: "2021 CCI 67"
+decision_date: "2021-10-14"
+language: "fr"
+item_id: "514509"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4470
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:55:05.093000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "716773759bf50721ee977c89802080161b5ae18c4d96b9f70d67ff5403d16965"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Service de consultation dentaire Planident inc. c. La Reine
+
+- Citation: 2021 CCI 67
+- Decision date: 2021-10-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4470, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Service de consultation dentaire Planident inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-10-14
+Référence neutre
+2021 CCI 67
+Numéro de dossier
+2017-2999(IT)I, 2017-3001(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-2999(IT)I
+ENTRE :
+SERVICE DE CONSULTATION DENTAIRE PLANIDENT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2017-3001(IT)G
+ET ENTRE :
+THÉRÈSE ST-JEAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu par visioconférence les 21 et 22 juin 2021, à Ottawa (Ontario)
+Devant : L'honorable juge Patrick Boyle
+Comparutions :
+Avocat des appelantes :
+Me Etienne Rolland
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+JUGEMENT
+Les appels sont rejetés avec dépens.
+Signé à Vancouver, Canada, ce 14e jour d’octobre 2021.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2021 CCI 67
+Date : 20211014
+Dossier : 2017-2999(IT)I
+ENTRE :
+SERVICE DE CONSULTATION DENTAIRE PLANIDENT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2017-3001(IT)G
+ET ENTRE :
+THÉRÈSE ST-JEAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Juge Boyle
+I. Les questions à trancher
+[1] Les deux appels ont été entendus ensemble. La société Service de consultation dentaire Planident inc. (« Planident ») possède une clinique dentaire dans Westmount et loue des cabinets dentaires meublés à des dentistes. Thérèse St‑Jean est l'unique actionnaire de Planident.
+[2] Le fils de madame St‑Jean, Carl Benoît, est le président et l'administrateur de Planident. Il est également dentiste et loue le cabinet dentaire principal de la clinique Planident. Au moment de l'audience, madame St‑Jean était âgée de 93 ans et son fils détenait une procuration générale depuis au moins plusieurs années avant les années en cause. Madame St‑Jean avait quelque quatre‑vingts ans à cette époque.
+[3] Les nouvelles cotisations portent sur les frais versés pour une résidence secondaire habitable toute l'année à St‑Donat qu'avait achetée Planident et sur la question de savoir si cette résidence a été acquise et utilisée dans le but d'en tirer un revenu ou s'il s'agissait d'une dépense personnelle donnant lieu à un avantage conféré à un actionnaire pour madame St‑Jean.
+[4] Les nouvelles cotisations touchent les années d'imposition 2009 à 2013. Pour chacune des appelantes, certaines des nouvelles cotisations ont été établies après la période normale de nouvelle cotisation selon le paragraphe 152(4). Cette question n'a été soulevée que par l'intimée dans sa réponse. De plus, des pénalités pour faute lourde ont été imposées aux deux contribuables, aux termes du paragraphe 163(2) : à Planident en ce qui a trait à des dépenses non déductibles déclarées, et à madame St‑Jean en ce qui a trait aux avantages conférés à un actionnaire non déclarés reçus de Planident. Le ministre a également établi des cotisations corrélatives à l'égard des paiements en trop de la Sécurité de la vieillesse à madame St‑Jean.
+[5] Madame St‑Jean n'a pas présenté d'élément de preuve ou d'observation pour contester le calcul de la valeur de l'avantage conféré à un actionnaire en raison de l'utilisation personnelle de la résidence secondaire que Planident avait achetée.
+II. Les aveux des appelantes
+[6] Au cours du procès, l'avocat des appelantes a reconnu que bon nombre des dépenses en question étaient des dépenses en capital non déductibles. Il n'a toutefois pas reconnu que cela justifiait l'établissement de nouvelles cotisations après la période normale de nouvelle cotisation ou l'imposition de pénalités pour faute lourde. Les autres dépenses n'étaient que l'assurance habitation, les impôts fonciers, les taxes scolaires et l'intérêt hypothécaire.
+III. La résidence de vacances
+[7] Planident a acheté la résidence le 12 juin 2009 contre 550 000 $. Planident a utilisé 70 000 $ de ses propres fonds et a emprunté le reste d'une institution financière et du vendeur. Il s'agit d'une résidence de vacances habitable toute l'année au lac Archambault dans un emplacement de choix. M. Benoît avait examiné trois ou quatre maisons avant de l'acheter. Il a affirmé que Planident cherchait une maison à rénover et à revendre à profit et qui pourrait être louée durant les rénovations. On n'a pas dit avec précision à quel moment a été conclu l'entente d'achat‑vente. La promesse de prêt hypothécaire a été donnée à la fin mai. Le premier bail de la maison a été conclu le 10 avril 2009.
+IV. Les témoins
+[8] M. Benoît était le principal témoin des appelantes. Le seul autre témoin était le courtier immobilier de Planident lors de l'achat en 2009, qui n'a confirmé qu'en 2009, M. Benoît avait affirmé qu'il cherchait une maison au bord de l'eau, habitable à l'année et dans un emplacement de choix, qu'il pourrait facilement louer. Son bref témoignage n'a pas suffi pour corroborer les principales questions touchant le but, l'usage prévu et l'usage réel de la maison pour en tirer un revenu de location. Il n'a jamais été agent de location et on ne lui a jamais demandé de remettre la maison en vente. Il croyait comprendre que Planident était toujours propriétaire de la maison et il pense que sa valeur a beaucoup augmenté.
+V. Conclusions et décisions
+[9] Les deux appels ne peuvent être accueillis. La raison en est que les éléments de preuve déposés ne permettent pas d'établir, selon la prépondérance des probabilités, que Planident a acheté ou utilisé la résidence de vacances dans le but d'en tirer un revenu. Les éléments de preuve appuient la conclusion voulant qu'on ait acheté et utilisé la maison afin que madame St‑Jean, par l'intermédiaire de son mandataire, M. Benoît, puisse permettre à son fils M. Benoît, à sa conjointe et à leurs filles d'utiliser la maison pour leur usage personnel. Même s'il y aurait pu y avoir quelques locations à court terme de la maison, les éléments de preuve ne permettent pas d'établir, selon la prépondérance des probabilités, que ce fut le cas. De plus, les éléments de preuve ne permettent pas d'établir, selon la prépondérance des probabilités, que la conjointe de M. Benoît a réellement payé le loyer fixé dans le bail initial de la maison.
+[10] Les deux principales raisons de ces conclusions sont les suivantes :
+1) Le témoignage de M. Benoît a soulevé d'importantes préoccupations quant à la crédibilité, qui ont jeté un doute sur la plupart des aspects importants de son témoignage, faute d'éléments de preuve corroborants.
+2) Il n'y a pour ainsi dire aucun document justificatif contemporain au sujet des efforts de Planident pour louer la maison, ou au sujet d'une location réelle de la maison, ce qui aurait pu corroborer le témoignage de M. Benoît.
+J'explique ces conclusions ci‑dessous.
+VI. La location à la conjointe et l'inscription sur Internet
+[11] M. Benoît a décrit les efforts faits pour louer la maison et a affirmé qu'après l'achat de la maison, on a immédiatement offert des locations à court terme à au moins deux sites Web. Un des sites indiquait que M. Benoît était membre depuis novembre 2010, et l'autre depuis mai 2009. Ces captures d'écran ont été prises en août 2019. Il a également déposé un texte qu'il a raconté avoir trouvé sur son ordinateur peu de temps avant le procès; il pourrait s'agir de son ébauche pour l'inscription sur le Web. Le texte ne porte aucune date.
+[12] M. Benoît a déposé en preuve une copie du premier bail de la maison. La locataire était sa conjointe à l'époque et le bail était de 12 mois, de juin 2009 à mai 2010. Ce bail a été signé le 10 avril 2009. Madame St‑Jean a elle‑même signé le bail avec la conjointe de son fils. M. Benoît a plus tard affirmé que sa conjointe avait peut‑être continué à louer la maison jusqu'en 2014, année où elle a cessé d'être sa conjointe. Il n'est pas clair si le bail de 12 mois signé en 2009 a été prolongé, ou s'il y a eu plusieurs locations à court terme ou saisonnières suivant la première année.
+[13] À l'interrogatoire préalable en 2009, on a demandé à M. Benoît, dans un questionnaire écrit, de nommer les locataires de la maison au cours des années en question, et il a uniquement nommé son ancienne conjointe et lui‑même. M. Benoît a confirmé qu'il n'existait pas d'autre document sur la location à long terme ou à court terme ou de document financier, sauf le bail initial de 12 mois signé en 2009 avec sa conjointe. Au procès, M. Benoît a été en mesure de nommer trois autres personnes qui avaient loué la maison à court terme au cours des ans, mais n'a pu fournir plus de détails. Il a affirmé que dans le but de réduire les risques de pertes ou de dommages, il préférait louer la maison à des amis, des collègues et des patients.
+[14] Comme les deux inscriptions initiales sur des sites Web ont été faites après que Planident eut signé le bail de 12 mois avec la conjointe de M. Benoît, j'estime que ces inscriptions ne constituaient pas des tentatives faites de bonne foi pour offrir la maison en location. Je juge qu'elles n'étaient qu'un trompe‑l'oeil et qu'elles montrent qu'on avait dès le départ l'intention de tromper l'ARC.
+[15] La conjointe de M. Benoît n'a pas témoigné. Rien n'indique que l'on ait communiqué avec elle pour voir si elle possédait des documents plus détaillés ou des chèques encaissés, par exemple. On n'a fourni aucun autre dossier et aucune explication satisfaisante. Selon les éléments de preuve présentés, la Cour ne peut conclure que la conjointe de M. Benoît a vraiment versé à Planident le loyer prévu au bail. M. Benoît a uniquement présenté un tableau qu'il avait récemment préparé en se fondant sur des relevés bancaires qui n'ont pas été déposés en preuve à l'audience et des relevés de tous les loyers reçus par Planident, qu'il a présenté comme somme globale qui, selon lui, correspondait principalement aux loyers versés à Planident pour son cabinet dentaire, mais aussi aux paiements de sa conjointe et aux paiements pour des locations à court terme. Il a été incapable de fournir, lors de son témoignage ou en renvoyant aux dossiers financiers de Planident, une ventilation fiable des revenus de location de la résidence de vacances pour les années en question. Il a également reconnu que le comptable de Planident avait préparé les états financiers selon les renseignements et les directives qu'il lui avait donnés.
+[16] M. Benoît ne pouvait expliquer de façon satisfaisante pourquoi il n'avait pas tenu de dossiers relativement à la location de la résidence de vacances, d'autant plus que certaines des nouvelles cotisations ont été établies durant la période normale de nouvelle cotisation des appelantes. De plus, cela semble incompatible avec le fait qu'il a pu trouver et déposer en preuve des dossiers contemporains des frais d'exploitation de la résidence de vacances.
+VII. L'assurance habitation
+[17] Le certificat d'assurance de la maison pour 2009 est un renouvellement d'une police pour une « résidence secondaire » décrite comme une « habitation secondaire occupée par des tiers », au coût de 4 600 $.
+[18] La nouvelle police d'assurance pour 2010 décrit la résidence secondaire comme une « habitation secondaire occupée par l'assurée » et la police est du type « propriétaire occupant ». Le coût annuel était de 2 000 $. Les documents relatifs au renouvellement de la police pour 2012 décrivent la police et la résidence secondaire dans les mêmes termes que pour 2010, et le coût était également de 2 000 $.
+[19] M. Benoît a indiqué dans son témoignage qu'il avait changé la description pour l'assurance parce que cela coûtait moins cher, et non parce qu'il y avait eu un changement de l'utilisation de la résidence. Il a affirmé que son courtier l'avait peut‑être suggéré. Le courtier d'assurance n'a pas été appelé à témoigner, et on n'a donné aucune explication satisfaisante. M. Benoît a indiqué qu'il ne se souvenait pas s'il avait tenté de communiquer avec son courtier d'assurance pour obtenir plus de renseignements ou pour l'inviter à venir témoigner. Dans les circonstances, je ne peux accepter les explications non corroborées de M. Benoît. J'estime que la modification dans l'usage déclaré de la résidence a été faite dans le but de réduire les coûts d'assurance de plus de la moitié, et que cela a été fait délibérément à cette fin. Comme la résidence était en fait louée à sa conjointe, et compte tenu du trompe‑l'oeil qu'il a tenté de créer par la suite en affichant la maison sur des sites Web de location à court terme, il semble que M. Benoît avait simplement décidé de réduire le coût du trompe‑l'oeil pour faire croire qu'il s'agissait d'une résidence appartenant à Planident et offerte de bonne foi en location. Quoi qu'il en soit, les descriptions irréconciliables concernant l'usage de la résidence et les différents types de polices achetées ne permettent pas à la Cour de reconnaître que la police de 2009 est celle qui décrit avec exactitude l'usage de la maison.
+VIII. La vérification
+[20] Les documents produits lors de la vérification étaient également peu nombreux. M. Benoît a refusé de rencontrer les vérificateurs, et il a fourni aux vérificateurs bien peu de documents touchant ces questions. De plus, M. Benoît a écrit des lettres, adressées personnellement aux vérificateurs, soutenant dans des termes pseudo juridiques que les demandes de l'ARC n'étaient pas légitimes, parce qu'il n'existait aucun contrat signé à la main liant Planident à l'autorité de l'ARC. Les lettres soutiennent également que la Loi de l'impôt sur le revenu excède la compétence du législateur et qu'elle est nulle ab initio parce qu'il s'agit d'un projet de loi de finances qui n'a jamais été autorisé par le gouverneur général. Les lettres soutiennent que si les destinataires ne fournissent pas à M. Benoît ce qu'il demande dans les 10 jours, il considérera l'affaire comme close, et que si des mesures de recouvrement sont prises après ce délai, les vérificateurs auront alors consenti, à titre personnel, à des jugements sommaires à leur encontre. Enfin, il affirme que si le destinataire souhaite obtenir une prorogation du délai de 10 jours : [TRADUCTION] « Je pourrais l'accorder si j'estime que la demande de prorogation est raisonnable ». Deux ans plus tard, en réponse à une lettre au sujet d'un projet de nouvelle cotisation, M. Benoît a renvoyé l'ARC à ces lettres adressées précédemment aux vérificateurs et a terminé en affirmant au fonctionnaire de l'ARC qu'il était complice d'un gouvernement abusif et d'un système illégal, ce qui prouvait ses faiblesses personnelles. Même si M. Benoît était dans son droit de ne pas rencontrer les vérificateurs et de leur écrire des lettres dénuées de sens, et qu'il ne pouvait fournir des documents que ni Planident ni sa mère ne possédait, tout cela n'améliore pas sa crédibilité ou sa fiabilité dans les présents appels.
+IX. La déduction des dépenses et les déclarations de revenus
+[21] Les états financiers de Planident déposés en preuve commencent par la phrase suivante : « Nous avons compilé, à partir des renseignements fournis par la direction, le bilan de [Planident] » (non souligné dans l'original).
+[22] M. Benoît a affirmé qu'il avait donné au comptable les reçus qu'il possédait avec les descriptions qu'il avait indiquées. M. Benoît n'a pas discuté de la différence entre les dépenses en capital et les dépenses courantes avec le comptable de Planident. M. Benoît n'a pas expliqué à la Cour sa compréhension ou sa façon de distinguer les dépenses courantes, les dépenses en capital et les dépenses personnelles. Rien n'indique non plus que M. Benoît a discuté avec le comptable de Planident de la différence entre les dépenses personnelles, les dépenses d'entreprise et les dépenses liées à un revenu tiré d'un bien.
+[23] Il n'existe absolument aucun élément de preuve montrant que M. Benoît a examiné les déclarations de revenus de Planident ou de sa mère, ou en a discuté avec le comptable ou avec quelqu'un d'autre avant qu'elles ne soient produites. La Cour n'a eu aucun témoignage concernant la préparation et le dépôt des déclarations de revenus des appelantes. Rien n'indique que M. Benoît, au nom de Planident ou de sa mère, a discuté avec le comptable de Planident ou avec quelqu'un d'autre de la définition d'un bien locatif ou d'un bien à usage personnel. Le comptable n'a pas été appelé comme témoin et aucune explication n'a été fournie pour justifier son absence.
+X. Le règlement des appels
+[24] La Cour estime, en fonction de la preuve, que la résidence de vacances à St‑Donat située au lac Archambault a été achetée par Planident et a été utilisée par Planident pour l'usage personnel de son actionnaire et de son fils Carl Benoît, et d'autres personnes de leur choix. La Cour juge que l'intention de M. Benoît a toujours été de rendre la résidence disponible à sa conjointe et à lui‑même, pour leur usage personnel. Les inscriptions trompeuses de la résidence sur le Web, alors qu'elle était déjà louée à sa conjointe, même avant la clôture de la vente, et la description trompeuse de l'usage de la résidence dans la police d'assurance confirment que M. Benoît entendait dès le départ essayer de tromper l'ARC quant à son usage réel. Étant donné les doutes importants de la Cour quant à la crédibilité de M. Benoît et de son témoignage, et le peu d'éléments de preuve appuyant ses dires, la Cour ne peut conclure, selon la prépondérance des probabilités, que la conjointe de M. Benoît ou M. Benoît lui‑même ont réellement versé un loyer à Planident pour leur utilisation de la résidence. Pour les mêmes raisons, la Cour ne peut conclure, selon la prépondérance des probabilités, que la maison a été louée à des tiers. Planident a donc conféré chaque année un avantage à son actionnaire, et les dépenses déclarées ne sont pas déductibles.
+[25] Il ressort clairement de la preuve que les déclarations de revenus des appelantes pour chacune des années en cause contenaient une présentation erronée des faits et un faux énoncé ou une omission concernant l'utilisation de la résidence et les dépenses qui y étaient associées. Comme je l'ai indiqué ci‑dessus, la Cour estime qu'il s'agissait d'une omission volontaire faite sciemment par M. Benoît, qui est président et administrateur de Planident et mandataire de sa mère. Pour cette raison, on pouvait établir de nouvelles cotisations après la période normale de nouvelle cotisation. Pour les mêmes raisons, les pénalités prévues au paragraphe 163(2) ont été imposées à juste titre.
+[26] Les appels sont rejetés avec dépens.
+Signé à Vancouver, Canada, ce 14e jour d’octobre 2021.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE :
+NOS DES DOSSIERS DE LA COUR :
+2017-2999(IT)I
+2017-3001(IT)G
+INTITULÉS :
+Service de consultation dentaire Planident inc. c. Sa Majesté la Reine
+Thérèse St‑Jean c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Par visioconférence à Ottawa (Ontario)
+DATES DE L'AUDIENCE :
+Les 21 et 22 juin 2021
+MOTIFS DU JUGEMENT :
+L'honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 14 octobre 2021
+COMPARUTIONS :
+Avocat des appelantes :
+Me Etienne Rolland
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom :
+Me Etienne Rolland
+Cabinet :
+Pour l'intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

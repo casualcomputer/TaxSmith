@@ -1,0 +1,178 @@
+Title: Flikkema v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27285/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-202-27285-flikkema-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-03-29
+
+# Flikkema v. The Queen
+
+- Citation: 2006 TCC 202
+- Decision date: 2006-03-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 892, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Flikkema v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-29
+Neutral citation
+2006 TCC 202
+File numbers
+2002-4683(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+2002-4683(IT)G
+BETWEEN:
+MIKE FLIKKEMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 22, 2006, at Niagara-on-the-Lake, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brianna Caryll
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of tax made under the Income Tax Act for 1998 taxation year is allowed, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant's income is reduced by $2,151.83, and the tax, interest and penalty will be adjusted accordingly. The Respondent is entitled to her costs.
+Signed at Ottawa, Canada, this 29th of March, 2006.
+"E.A. Bowie"
+Bowie J.
+Citation: 2006TCC202
+Date: 20060329
+Docket: 2002-4683(IT)G
+BETWEEN:
+MIKE FLIKKEMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] At issue in this case is the liability of the Appellant for income tax, interest and a penalty assessed under subsection 163(2) of the Income Tax Act (the Act). The Appellant chose to represent himself at the hearing of his appeal, although I did allow him to be assisted by his wife, who at the relevant time kept such financial records as he had for his business. The business consists of buying, raising and selling exotic birds. The taxation year under appeal is 1998. The Appellant and his wife both gave evidence. The investigator who prepared the reassessment under appeal and the appeals officer both gave evidence for the Respondent.
+[2] At the opening of the hearing the Appellant requested that I adjourn the matter, arguing that he had come anticipating a meeting with counsel for the Respondent, not a hearing of his appeal, and that he was therefore not prepared to proceed. I refused the request for an adjournment, for essentially the reasons that appear at paragraph 5 of my judgment in Solomons v. The Queen:[1]
+Some adjournments are necessary in the interests of justice by reason of factors that cannot be either predicted or prevented. People become ill; witnesses are justifiably unavailable; other litigation may prevent parties or counsel from being available at the time fixed. However, this is not such a case. I understand that there may have been some settlement negotiations that continued until late last week. That often happens, but it is up to litigants, and their counsel, to be prepared to proceed with cases on the dates that have been fixed. It is a great convenience to counsel and to the parties that this Court fixes dates for trial months in advance; they do not have to be available for trial on short notice, as is the case in some other Courts. That convenience comes at a price, however; they must do what is required in order to be ready on the day fixed. Litigants who decide to conduct their own cases without counsel, hoping to achieve a settlement before trial, run the risk that they will have to proceed to trial without counsel. They cannot expect that the Court will grant them an adjournment, and thereby waste the resources of the Court for the time that has been allotted to the matter, because their settlement discussions have failed. This Court has a significant backlog of informal appeals that are waiting to have dates fixed for hearing in Toronto. Three or four of them could be disposed of in every day that goes to waste. The reason advanced by the Appellant for seeking an adjournment of this trial does not weigh very heavily in the balance, compared to the public interest in efficient use of Court resources, including providing hearings to the Appellants in the backlog of informal cases. I turn now to the merits of the appeal.
+Although Mr. Flikkema expressed no intention to retain counsel if the matter were adjourned, his position was no different from that of Mr. Solomons - he was not ready to present his case, although more than three years have elapsed since he filed his Notice of Appeal, and it is more than three months since the Order fixing the trial date was made.
+[3] The basis upon which the Minister of National Revenue arrived at the amount of the additional income to be assessed in this case is set out clearly in the assumptions pleaded, so I shall reproduce them here:
+a) In the 1998 taxation year, the Appellant carried on a business of importing and exporting exotic birds. The business operated under the name "Flikkema Aviaries".
+b) In the 1998 taxation year, the Appellant reported gross and net farming income from this business in the amounts of $706,541 and $9,590, respectively.
+c) The Appellant failed to report additional net business income in the amount of $65,319.46 in the 1998 taxation year.
+d) The gross income of $706,541 as reported by the Appellant for the 1998 taxation year was comprised of $301,453 attributed to "Birds and Merchandise" and $405,088 attributed to "Birds US".
+e) The gross income and expense amounts reported by the Appellant for the 1998 taxation year reconcile with bank statements related to two Royal Bank of Canada accounts in the name of Flikkema Aviaries ("the RBC accounts"), one of which was a Canadian dollar account and the other a U.S. dollar account.
+f) Expense amounts claimed by the Appellant in his return of income for the 1998 taxation year are deductible, and were allowed by the Minister.
+g) The Appellant held another bank account in the name of Flikkema Aviaries with the Niagara Credit Union ("the NCU account").
+h) Income from the Appellant's business in the amount of $97,180.89 was deposited to the NCU account during the period January 5, 1998 to December 31, 1998.
+i) A total of $19,000 was transferred from the NCU account to the Canadian funds RBC account in 1998 and this amount was included in the gross income reported by the Appellant for the 1998 taxation year.
+j) Debits of $12,861.43 to the NCU account in the 1998 taxation year relate to the Appellant's business and are deductible in addition to the expenses claimed by the Appellant in his return of income for the 1998 taxation year.
+k) The remaining $65,319.46 is unreported income from the Appellant's business.
+l) Expenses in excess of the amounts allowed by the Minister in the 1998 taxation year, if made or incurred, were not made or incurred for the purpose of gaining or producing income from a business or property.
+m) Debits to the NCU account that are not included in the expense amount allowed by the Minister relate to personal or living expenses of the Appellant.
+n) The Appellant failed to produce receipts or other documentation to properly substantiate expenses beyond those already allowed.
+o) In failing to report income in the amount of $65,319.46 for the 1998 taxation year, the Appellant knowingly, or under circumstances amounting to gross negligence in carrying out a duty or obligation imposed under the Act, made or participated in, assented to or acquiesced in the making of false statements or omissions in his income tax return filed for the 1998 taxation year, as a result of which the tax that would have been payable assessed on the information provided in the Appellant's income tax return filed in respect of that year was less than the tax in fact payable in that year, as follows:
+Tax in fact payable:
+$15,667.85
+Tax payable on basis of return
+(399.00)
+Difference
+16,066.85
+Penalty at 50%
+8,033.42
+p) As a consequence of the Appellant's false statements or omissions regarding income earned, the Appellant is liable for a penalty in the amount of $8,033.42, imposed pursuant to subsection 163(2) of the Act.
+[4] The investigator's evidence may be summarized this way. He learned of the Credit Union bank account through a seizure of documents from the Appellant in the course of an investigation undertaken by Environment Canada in 1999. He obtained access to the seized documents by obtaining an Order under subsection 490(1) of the Criminal Code. His analysis of this bank record led him to the conclusion set out in subparagraphs 6(h), (i), (j) and (k) above. He reassessed the Appellant accordingly.
+[5] The Appellant's evidence, and that of his wife, was intended to establish that while there was a Credit Union account, it was opened not to conceal income but to receive deposits of payments made to him by Mastercard, that service not being available through the Royal Bank where his other two accounts were held. His contention is that $72,362 was deposited to the Credit Union account during the year, amounts approximating the same total were paid out, $19,000 being transferred to the Royal Bank and thus already included in his declared income, and the balance being amounts that he is entitled to deduct as allowable expenses in computing his income. He therefore asserts that he was not liable to be reassessed at all.
+[6] The Appellant and his wife did not in the course of their evidence or argument give any organized or even coherent picture of the deductible amounts that they say were paid from the Credit Union account. Counsel for the Respondent prepared a working paper in which she sought to define the amounts in issue. It is not in dispute that $19,000 from the Credit Union account went to the Royal Bank account, and so was included in the income declared in Mr. Flikkema's return. The investigator's analysis led him to allow $12,861.43 as expenses paid from the Credit Union account. Mr. Flikkema did not dispute the summary prepared by Ms. Caryll which showed that he claimed the following additional deductions as having been paid from the account:
+1.
+Birdfeed expense
+11,750.00
+2.
+Tax on imports
+878.62
+3.
+Minister of Finance
+984.36
+4.
+Loan payments
+6,972.00
+5.
+Line of credit
+15,000.00
+6.
+Durotest light bulbs
+383.92
+Total
+Allowed by investigator
+Transferred to Royal Bank
+42,968.90
+12,861.43
+79,000.00
+74,830.33
+On this analysis, Mr. Flikkema would have over-reported his income by some $2,468.
+[7] Unfortunately, the evidence does not support his contention, for the following reasons:
+(i) The investigator's evidence, including the calculator tape, satisfied me that the deposits to the Credit Union account did in fact total $97,299.05. He deducted $118.16 from this, being an amount that was in his view not income but goods and services tax collected, to arrive at $97,180.89, which he assumed was business income (assumption 6(h)). Mr. Flikkema did not explain the amount of $72,362 found in his Notice of Appeal, but it would appear to be simply the deposits from April to December 1998.
+(ii) The birdfeed expense and tax on imports claimed total $12,628.62. Mrs. Flikkema presented a bundle of untabulated invoices and Customs statements that she said substantiate this claim. They do not, however, show that the payments were made from the Credit Union account. If this bundle did in fact amount to $12, 628.62, there would still be no way to ascertain whether it had been included in the $402,338 that the Appellant claimed as expenses pertaining to the birds in his return of income, as one would expect.
+(iii) Items 4 and 5, the loan payments and line of credit, total $21,972. The loan payments apparently represent the total paid from the Credit Union account on a loan about which the evidence is silent as to its purpose, the principal, the interest rate and the amount of each payment that was principal and the amount that was interest. There is simply no basis on which I could conclude that any part of these payments are properly deductible. The line of credit amount of $15,000 claimed is one lump sum payment, and the overwhelming probability is that it was a payment of principal and included no interest. Certainly the evidence does not establish that any part of it was interest.
+The amount described as "Minister of Finance" for $984.36 is made up of two cheques that are Exhibit A-2. One was payable to the Ontario Government for provincial sales tax of $659.12 and the other to the Receiver General of Canadafor gst of $325.24. The probability is that these were payments of provincial sales tax and goods and services tax that had been collected and deposited in the Credit Union. They should not have been included in income, and the assessment should be reduced accordingly.
+[8] The Appellant placed emphasis on Exhibit A-3, and in particular an analysis of the Credit Union account for the months of January, February and March, 1998, said to have been done for him by someone described only as a tax preparer. The point of this analysis was to show that of the $25,954.81 deposited to this account in those three months, all but $1,375.98 had been paid out. The problem with this analysis is that it does not establish that those payments were made for the purpose of gaining or producing income from the business. Nor are the cheques available to assist. The cheques for those three months appear to have been lost, although whether this is the fault of Environment Canada, the Appellant or someone else, I simply cannot determine on the evidence before me. It is clear, however, that $1,064.85 of these payments were for veterinary clearance and other border service fees, and these, too, should be deducted from the income assessed, as well as $103.62 for bank charges. The other amounts are simply described as "loan payments" and "total cheques". The unidentified cheques total $20,255.21, and it may be that some of them were deposited to the Royal Bank account, but if they were it was as part of larger deposits; no specific deposit is identifiable as corresponding to a cheque drawn on the Credit Union account during this period.
+[9] In the result, then, the assessment appears to be too great by this amount:
+Provincial sales tax
+$659.12
+GST
+324.24
+Veterinary and other border fees
+1,064.85
+Bank charges
+103.62
+Total
+$2,151.83
+It may well be that there are other amounts that Mr. Flikkema would be entitled to deduct if he only had the evidence to establish the expenditures, and the nature of them. He is vehement in blaming the loss of the January to March Credit Union cancelled cheques on the Revenue Agency officials, but, as I have said, I cannot make any such determination on the evidence. If in fact the records seized were not all returned to him there are remedies that he could have taken, but apparently did not, at the time. I can only deal with the assessment before me on appeal in accordance with the probative evidence introduced at trial.
+the penalty issue
+[10] The Minister assessed a penalty under subsection 163(2) of the Act. The pertinent part of that section reads:
+163(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty ...
+[11] There are a number of factors that need to be taken into account in considering whether the penalty is warranted. It was not suggested that the Appellant deliberately concealed the income deposited to the Credit Union account. The question is whether it was extreme carelessness amounting to disregard for whether or not his return of income was accurate that led to the omission of some $65,000 of income from that return. My impression is that neither the Appellant nor his wife has any sophistication in financial matters. I understand that Mrs. Flikkema looks after much of the financial end of the business. It was not much explored in the evidence, but from what I saw and heard I conclude that there were no books of account kept for the business on a regular basis in 1998. The income tax return was prepared for Mr. Flikkema by a tax preparer. His evidence was that he simply signed the return that he was told to sign because he had no way of knowing whether it was accurate, so that it would not have been useful to spend time reading it. Mr. Flikkema must have known of the Credit Union account. At the least, he had an obligation to furnish all of the pertinent records to the person who prepared the return. Clearly the records of the Credit Union account were not reflected in the return that he filed. Whether it was his wife who failed to give all the records to the tax preparer, or the tax preparer who somehow omitted the Credit Union transactions, I am of the view that normal care on Mr. Flikkema's part, even as unschooled in finance as he is, would have avoided the error. Almost $100,000 was deposited to the Credit Union account; $19,000 was redeposited to the Royal Bank; almost $80,000 gross income was not included in the Appellant's return. That is approximately 10% of the Appellant's gross income. The combination of his failure to put a proper system of accounting in place, and his failure to examine the return closely and to discuss the details of it with the tax preparer in my view amounts to evidence of a complete disregard for whether or not all his income was properly reported. This constitutes gross negligence, and warrants imposition of the penalty.
+[12] In the result the appeal is allowed only to this extent. The reassessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant's income should be reduced by $2,151.83, and the tax, interest and penalty adjusted accordingly. The Respondent is entitled to her costs, as the Appellant's success is negligible.
+Signed at Ottawa, Canada, this 29th day of March, 2006.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2006TCC202
+COURT FILE NO.:
+2002-4683(IT)G
+STYLE OF CAUSE:
+Mike Flikkema and Her Majesty the Queen
+PLACE OF HEARING:
+Niagara-on-the Lake, Ontario
+DATE OF HEARING:
+March 22, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+March 29, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brianna Caryll
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2003 CanLII 604.

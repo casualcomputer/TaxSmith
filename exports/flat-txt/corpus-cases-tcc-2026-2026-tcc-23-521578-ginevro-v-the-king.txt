@@ -1,0 +1,177 @@
+Title: Ginevro v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521578/index.do
+Corpus path: corpus/cases/tcc/2026/2026-tcc-23-521578-ginevro-v-the-king.md
+Document type: case_law
+Last modified: 2026-02-02
+
+# Ginevro v. The King
+
+- Citation: 2026 TCC 23
+- Decision date: 2026-02-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5622, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ginevro v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-02-02
+Neutral citation
+2026 TCC 23
+File numbers
+2024-1966(IT)I
+Judges and Taxing Officers
+Scott Bodie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-1966(IT)I
+BETWEEN:
+FERNANDA GINEVRO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on October 9, 2025 at Vancouver, British Columbia and heard virtually on November 17, 2025 at Ottawa, Ontario
+Before: The Honourable Justice J. Scott Bodie
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jia Ling
+JUDGMENT
+The appeal of the determinations of the Appellant’s entitlement to Canada Child Benefits in relation to the Appellant’s 2019, 2020, 2021 and 2022 base taxation years is allowed, without costs, and the determinations are referred back to the Minister of National Revenue for reconsideration and redetermination on the basis that the Appellant is an eligible individual as a shared-custody parent throughout the payment periods commencing on March 1, 2021 and ending on
+August 31, 2022. For greater certainty, the Appellant is not an eligible individual in respect of the payment periods commencing on September 1, 2022, and ending on June 30, 2024.
+Signed this 2nd day of February 2026.
+“J. Scott Bodie”
+Bodie J.
+Citation: 2026 TCC 23
+Date: 20260202
+Docket: 2024-1966(IT)I
+BETWEEN:
+FERNANDA GINEVRO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Bodie J.
+INTRODUCTION [1] The Appellant, Ms. Ginevro is the mother of two children H, born in 2012, and T, born in 2019. Ms. Ginevro and the children’s father, Marcus Vinicius Veri Teixeira, married in Brazil in 2010 and moved to Canada in 2015. They separated in February 2021 and ultimately divorced in 2023.
+[2] Following her separation from Mr. Teixeira, Ms. Ginevro received the Canada Child Benefit (the “CCB”) in respect of each of the 2019, 2020, 2021 and 2022 base taxation years (collectively, the “Base Years”).
+[3] On September 1, 2022, Mr. Teixeira claimed CCB entitlement in respect of both H and T on the basis that he was primarily responsible for their care and upbringing throughout the payment periods associated with the Base Years, commencing on March 1, 2021. By notices dated January 19, 2024, the Minister of National Revenue (the “Minister”) determined that Ms. Ginevro was not entitled to the CCB with respect to H and T in respect of the Base Years. This resulted in an overpayment which the Canada Revenue Agency (the “CRA”) is attempting to recover. Ms. Ginevro is appealing the Minister’s determinations.
+[4] At the outset of the hearing of this appeal, the Respondent conceded that Ms. Ginevro is an eligible individual as a shared-custody parent of her children in respect of the payment periods commencing on March 1, 2021, and ending on August 31, 2022. The Respondent further conceded that any such periods for which CCB eligibility is determined by reference to Ms. Ginevro’s adjusted income in the 2019 base taxation year are statute barred, in any event.
+ISSUE [5] Accordingly, the remaining issue in this appeal is whether Ms. Ginevro is an eligible individual of H and T in respect of the remainder of the payment periods at issue, commencing on September 1, 2022, and ending on June 30, 2024.
+LAW 1. Overview of Statutory Framework [6] The provisions of the Income Tax Act (the “Act”) which govern the CCB are found in sections 122.6 to 122.63. Unless otherwise specified, all statutory references herein are to the Act.
+[7] The CCB was created in 2016 and replaced the Canada Child Tax Benefit. It is a tax-free monthly payment to low- and middle-income families to assist them in raising children under 18 years of age. A separate payment is payable to an eligible individual for each child in a family. Payments are made to an eligible individual by way of 12 monthly disbursements beginning on July 1 of each year of eligibility and ending the following June 30. The amount of the CCB is determined by several factors, including the number of children in a family, their ages, and the eligible individual’s adjusted income in a year prior to the applicable payment period, which is known as the base taxation year. The applicable base taxation year varies depending on the month in question during the applicable 12‑month cycle. For the months of January to June, the CCB eligibility and amount depend upon the eligible individual’s adjusted income two taxation years ago. For the months of July to December, the CCB eligibility and amount depend upon the eligible individual’s adjusted income in the immediately preceding taxation year.
+[8] For example, CCB eligibility and the amount for the month of March 2021, would depend upon the eligible individual’s adjusted income in the 2019 taxation year. For the month of September 2021, it would depend upon adjusted income in the 2020 taxation year.
+[9] The term “eligible individual” is defined in section 122.6. Under the definition, there are generally three categories of eligible individuals:
+(a)If the parents are cohabitating, the female parent is presumed to be the eligible individual and therefore generally receives the full amount of CCB available in respect of the applicable child.
+(b)If the parents are separated and one parent primarily fulfills the responsibility for the care and upbringing of the child, that parent is the eligible individual and receives the full amount of CCB available in respect of the applicable child.
+(c)If the parents are separated and they each qualify as shared-custody parents, they are both eligible individuals and each is entitled to one-half of the amount of CCB available in respect of the applicable child.
+[10] It is Ms. Ginevro’s position that she and Mr. Teixeira each qualify as shared‑custody parents of H and T, and consequently she is entitled to one-half of the amount of CCB available in respect of the Base Years. The Respondent, on the other hand, takes the position that Ms. Ginevro does not qualify as a shared‑custody parent during the payment periods at issue, as she does not meet the requirements of the definition of that term during that time.
+[11] Consequently, it must be determined whether Ms. Ginevro is a shared-custody parent of H and T during the payment periods at issue.
+a. The definition of “shared-custody parent” [12] The term shared‑custody parent is defined in section 122.6 as follows:
+Shared-custody parent in respect of a qualified dependent at a particular time means, where the presumption referred to in paragraph (f) of the definition of “eligible individual” does not apply in respect of the qualified dependent, an individual who is one of the two parents of the qualified dependent who
+(a) are not at that time cohabiting spouses or common-law partners of each other,
+(b) reside with the qualified dependent either
+(i) at least 40% of the time in the month in which the particular time occurs, or
+(ii) on an approximately equal basis, and
+(c) primarily fulfil the responsibility for the care and upbringing of the qualified dependent when residing with the qualified dependent, as determined in consideration of prescribed factors.
+[13] The term “qualified dependent” is defined in section 122.6 as a person under 18, who is not married or in a common-law partnership and is not a person in respect of whom a special allowance under the Children’s Special Allowances Act is payable. Both parties agreed that both H and T were qualified dependents throughout the periods in question.
+[14] Secondly, paragraph (f) of the definition of eligible individual does not apply in respect of either H or T. Paragraph (d) of Regulation 6301 provides that the presumption that the female parent is the parent who primarily fulfils the responsibility for the care and upbringing of a qualified dependent does not apply where the parents are not cohabitating and each are claiming to be an eligible individual in respect of the qualified dependent, as is the case in this matter.
+[15] Thirdly, both parties agree that Ms. Ginevro and Mr. Teixeira are the parents of each of H and T and that they were not, during the periods at issue, cohabitating spouses or common-law spouses of each other.
+[16] Lastly, the Respondent concedes that during the times that H and T resided with Ms. Ginevro, Ms. Ginevro primarily fulfilled the responsibility for their care and upbringing.
+[17] Therefore, only paragraph (b) of the definition of shared-custody parent is at issue.
+b. Paragraph (b) of the definition of shared-custody parent [18] To understand the proper application of paragraph (b), it is necessary to understand the legislative history of the provision. The current iteration of this component of the definition of shared‑custody parent was introduced as part of a 2021 amendment to the Act. The amendment was made retroactive to July 1, 2011, which was the date that the definition became part of the Act. Previously, paragraph (b) required a parent to “reside with the qualified dependent on an equal or near equal basis.”
+[19] The definition was amended in response to two decisions of the Federal Court of Appeal in the cases of Lavrinenko v. Canada, 2019 FCA 51 and Morrissey v. Canada, 2019 FCA 56. In those decisions, the Federal Court of Appeal held that the phrase “equal or near equal basis” means 45% to 55% and determined that time with each parent was to be rounded down if the time spent was under 45% and rounded up if it was more than 45%. This decision was seen as a response to the difficulty of accurately quantifying the time a child spends with a parent. Only percentages that rounded up to 50% could qualify as near equal. Prior case law held that generally the phrase “equal or near equal basis” meant at least 40%. This percentage was formalized in the amendment.
+[20] However, the amendment also created two potential paths to meeting the definition of shared‑custody parent. One path is for a parent to meet the mathematical threshold of residing with the qualified dependent at least 40% of the time. The second path appears more flexible as it requires a parent to reside with the qualified dependent on “an approximately equal basis”. This suggests that there are circumstances where a parent residing with a qualified dependent less than 40% of the time may nevertheless qualify as a shared-custody parent.
+[21] According to the Department of Finance, “Explanatory Notes Relating to the Legislative Proposal Relating to the Income Tax Act (Shared-Custody Parent)”, Government of Canada, August 29, 2019, the amendment is intended to create flexibility in circumstances where a parent normally meets the 40% threshold but temporarily falls below it due to illness, vacations, etc.
+[22] Clause 21 of the Explanatory Notes provides as follows:
+While it is expected that the test in subparagraph (i) of the definition will apply in almost all cases where paragraph (b) is satisfied, the amendments allow for the possibility that, in certain circumstances, parents could be outside the 40% to 60% range (reflected in the Federal Child Support Guidelines) and still be considered to reside with the qualified dependent on an approximately equal basis. For example, the test in subparagraph (ii) may be met where the qualified dependent generally resides with each parent in the 40% to 60% range and the parents try to reside with the qualified dependent on as near an equal basis as possible but, due to illness or summer vacation schedules, the split is 38% to 62% in a particular month.
+[23] In Friesen v. The Queen, 2022 TCC 53, Justice Graham considered the purpose and effects of the 2021 amendments and concluded as follows, beginning at paragraph 34:
+[34] As set out above, the definition of shared-custody parent was amended in 2021, retroactive to 2011. As a result of the amendment, a parent can be a shared-custody parent if he or she resided with the child at least 40% of the time in the month or on an approximately equal basis.
+[35] Based on the clear language of the provision and the statements made in the explanatory notes that accompanied the new legislation, I conclude that the new definition contemplates a situation where a parent normally meets the 40% threshold but temporarily slips below it in a given month because for example, of illness, vacations, or something similar.
+[36] In my view, the new provision is a very practical solution to the fact that, while parenting occurs on an ongoing basis, entitlement to the Canada Child Benefit is determined on a monthly basis. The amendment provides a level of consistency for parents in the often unpredictable world of raising children.
+[37] The addition of the approximately equal basis test appears to have been designed to recognize that irregularities in a given month may upset an otherwise established schedule but that, over time, these irregularities will balance out.
+FACTS AND ANALYSIS [24] At the hearing of this matter, which was conducted under the Court’s Informal Procedure, Ms. Ginevro represented herself. She proved to be a well‑prepared, thoughtful, and passionate advocate for her position. She also appeared as her only witness. I found her testimony to be credible and reliable.
+[25] Mr. Teixeira appeared as the sole witness for the Respondent. I also found him to be a credible and reliable witness.
+[26] The evidence showed that during the payment periods at issue there were two court orders issued, which governed parenting time with H and T. The first was an Order issued by Master Hughes of the Supreme Court of British Columbia on August 19, 2022 (“Master Hughes’ Order”). Master Hughes’ Order included the following provisions:
+1. Effective September 1, 2022, H and T are to reside primarily with Mr. Teixeira;
+2. Commencing Monday September 5, 2022, Ms. Ginevro’s parenting time shall be on a two-week rotating schedule as follows:
+a. Week 1:
+On Tuesday from between 4:00 pm until 7:00 pm with pick up and drop off to be at a mutually agreed location in Abbotsford;
+On either Wednesday or Thursday, from between 3:00 and 4:00 pm until 7:00 pm with pick up and drop off to be at Mr. Teixeira’s home in Delta;
+On Friday, as soon as Ms. Ginevro and each child is available until 7:00 pm, with pick up and drop off to be at Mr. Teixeira’s home in Delta.
+On Tuesday from between 4:00 and 4:30 pm until 7:00 pm, with pick up to be at a mutually agreed location in Abbotsford;
+On either Wednesday or Thursday from between 3:00 and 4:00 pm until 7:00 pm with pick up and drop off to be at the Mr. Teixeira’s home in Delta;
+For the weekend as soon as Ms Ginevro and each child is available on Friday until 6:00 pm on the following Sunday.
+b. Week 2:
+Parenting time during Christmas holidays and Spring Break is split approximately evenly and the summer holidays are left to be agreed upon by Ms. Ginevro and Mr. Teixeira.
+[27] The second order which governed Ms. Ginevro’s and Mr. Teixeira’s parenting time was issued by Justice Kent of the Supreme Court of British Columbia on November 20, 2023 (“Justice Kent’s Order”). Justice Kent’s Order is entitled “Final Order” and replaces Master Hughes’ Order. Justice Kent’s Order includes the following provisions:
+H and T will reside with Mr. Teixeira;
+Parenting time will be governed by the following parenting schedule:
+Ms. Ginevro will have three weekends out of every four weekends with H and T;
+Mr. Teixeira will have one weekend out of every four weekends with H and T;
+Ms. Ginevro will have alternating Wednesdays with H and T in Delta from 4 pm to 7 pm;
+On weeks that Ms. Ginevro does not come to Delta on Wednesday night, she will have one weeknight in Langley with H and T from 4 to 7 pm;
+Mr. Teixeira will have H and T for all non-instructional days or professional development days; and
+Ms. Ginevro and Mr. Teixeira will divide the statutory and school holidays throughout the year equally.
+[28] Ms. Ginevro and Mr. Teixeira each testified that the parenting schedules set out in Master Hughes’ Order and Justice Kent’s Order (collectively, the “Court Orders”) were generally adhered to by both parties, with only minor exceptions to accommodate work schedules, medical appointments and the like.
+[29] It is Ms. Ginevro’s position that she is a shared-custody parent for purposes of the CCB because she shares the parenting time of H and T with Mr. Teixeira on an approximately equal basis, based on the following:
+1. Under Justice Kent’s Order she is the joint guardian of each of H and T and as such shares and exercises parental responsibilities over many of the factors that are to be considered in determining what constitutes the care and upbringing of a qualified dependent under Regulation 6302, such as arranging for transportation, medical appointments, educational and recreational activities, and providing guidance and companionship;
+2. When comparing the parenting time she spends with H and T to that spent by Mr. Teixeira, Mr. Teixeira should not be credited with time which H and T spend in school or in the care of other third parties, such as Mr. Teixeira’s mother, who lives with him, and Mr. Teixeira’s wife, both of whom attend to the needs of H and T while their father is at work;
+3. According to calculations she presented to the Court during her argument, when the time spent with H and T by those described in paragraph 2 is not allocated to Mr. Teixeira’s parenting time, the parenting time allocated to her by the Court Orders, including the holiday time, which is split evenly between the two parents, is 35% to 39% throughout each year; and
+4. This should constitute a division of parenting time on an approximately equal basis such that she is a shared-custody parent for purposes of the CCB.
+[30] I cannot agree.
+[31] First, under paragraph (b) of the definition of shared-custody parent in section 122.6, it is not the amount of parenting time that enables a party to meet that definition, but rather the time which the parent resides with the qualified dependent.
+[32] The term “resides” is not defined in the Act. However, to reside with a child means something other than spending parental time with a child. For in my view, to reside with a child requires the presence of both the parent and the child carrying on their normal routines of life in or from a physical structure to which they return on a regularly recurring basis.
+[33] In S.R. v. The Queen, 2003 TCC 649 at paragraph 12, Justice Bonner wrote the following to describe the term that is, in his words, the “threshold test” for determining whether a parent is an eligible individual for purposes of section 122.6:
+Physical presence of the child as a visitor in the residence of a parent does not satisfy the statutory requirement. The word “resident” as used in section 122.6 connotes a settled and regular abode.
+[34] I note that the current definition of shared-custody parent, which was not part of the Act at the time Justice Bonner rendered this decision, clearly contemplates that for purposes of the CCB, a child may reside in two separate locations.
+[35] On this basis, if I accept that for purposes of the CCB, the time spent by H and T during the weekends that they spent with Ms. Ginevro under the Court Orders constitutes time she was residing with them, I still cannot accept that she could be residing with them during the times she spent with H and T during the work weeks. Ms. Ginevro testified that during these periods, which were restricted under the Court Orders to three to four-hour intervals, she and H and T spent their time in malls, movie theatres, restaurants and attending the children’s recreational activities.
+[36] Throughout most of the periods under dispute, Ms. Ginevro lived in Chilliwack, British Columbia, while H and T, under the Court Orders, were living with Mr. Teixeira in Delta, British Columbia. The distance between Delta and Chilliwack is approximately 83 kilometers which is not a distance that can be usefully travelled to and from during the course of a three or four-hour visit. In any event, I understand from the evidence that trips to Ms. Ginevro’s home in Chilliwack were not undertaken during her work week visits, regardless of whether the meeting place was Delta, Abbotsford or Langley. Such weekday visits do not connote a settled and regular abode. Nor do such visits constitute carrying on the normal routines of life in or from a physical structure to which parent and child return on a regularly recurring basis. Therefore, I am not prepared to accept that the time Ms. Ginevro spent with H and T during the week constitutes time she spent residing with them.
+[37] Further, since the test is one of residency, I am not prepared to disregard the time H and T spent at school or in the care of third parties from consideration in determining whether Ms. Ginevro is a shared-custody parent. The evidence shows that Mr. Teixeira’s home in Delta is listed as the address of both H and T for their schools, medical practitioners, and for their extracurricular activities. Moreover both Ms. Ginevro and Mr. Teixeira testified that during the weekdays it was to Mr. Teixeira’s home that H and T returned at day’s end. A person’s residence does not cease to be their residence, even temporarily, simply because they leave it to follow their daily pursuits.
+[38] In Scott v. The King, 2022 TCC 131, the Court considered a somewhat similar situation. The children in that case visited their mother, the Appellant, on an almost daily basis and would assist her with caring for their developmentally impaired brother. Despite the frequency of these visits, the children were deemed to reside with their father. In so holding, Justice MacPhee noted that it was to their father’s house that the children regularly returned and where they kept their belongings.
+[39] Lastly, while not necessarily determinative of the issue before me, I cannot ignore that Master Hughes’ Order states, “…the children [H and T] shall reside primarily with the Claimant [Mr. Teixeira]”. Further, Justice Kent’s Order states, “The Children [H and T] will reside with the Claimant [Mr. Teixeira]”. Both Ms. Ginevro and Mr. Teixeira testified that they generally adhered to the Court Orders.
+[40] Accordingly, even if I were to count the three weekends each month during which H and T spent with Ms. Ginevro under Justice Kent’s Order as time that she resided with H and T, I am not prepared to disregard or discount any portion of the time H and T spent living in Delta with Mr. Teixeira during the week. Therefore, on that basis, using the month in which I am writing these reasons, January 2026, as an example, Ms. Ginevro would reside with H and T for 8 of 31 days, or approximately 26% of the month, which is well below the 40% requirement in subparagraph (b)(i) of the definition of shared-custody parent.
+[41] Further, in my view Ms. Ginevro residing with H and T approximately 26% of the time, compared to Mr. Teixeira’s approximate 74%, cannot be considered as her residing with H and T on “an approximately equal basis”, as required by subparagraph (b)(ii) of the definition. Even though I accept the view that subparagraph (b)(ii) was included in the 2021 amendments to allow for some flexibility in determining whether a person qualifies as a shared-custody parent, I agree with Justice Graham’s finding in Friesen, that falling below the 40% threshold should be the exception and not the rule in applying subparagraph (b)(ii). There is nothing before this Court that would indicate that H and T resided with Ms. Ginevro at least 40% of the time during any month throughout the payment periods at issue, regardless of the method of calculation.
+[42] Finally, I would like to emphasize that in reaching these conclusions I am in no way passing judgment on Ms. Ginevro’s parenting abilities nor am I diminishing the role that she plays in the lives of her children. On the contrary, from the testimony of both her and Mr. Teixeira, she appears to be a dedicated and caring mother, who has fought hard and sacrificed much to remain a significant and positive presence in the lives of both H and T, under what have, at times, been trying circumstances.
+[43] Nevertheless, the issue before this Court is whether she meets the definition of shared-custody parent throughout the monthly periods between September 1, 2022 and June 30, 2024. She does not.
+[44] This appeal is allowed without costs, and referred back to the Minister for reconsideration and redetermination on the basis that Ms. Ginevro is an eligible individual as a shared-custody parent throughout the payment periods commencing on March 1, 2021 and ending on August 31, 2022. For greater certainty, Ms. Ginevro is not an eligible individual in respect of the payment periods commencing on September 1, 2022, and ending on June 30, 2024.
+Signed this 2nd day of February 2026.
+“J. Scott Bodie”
+Bodie J.
+CITATION:
+2026 TCC 23
+COURT FILE NO.:
+2024-1966(IT)I
+STYLE OF CAUSE:
+FERNANDA GINEVRO AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Vancouver, British Columbia and
+Ottawa, Ontario (virtually)
+DATE OF HEARING:
+October 9, 2025 and
+November 17, 2025 (virtually)
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J. Scott Bodie
+DATE OF JUDGMENT:
+February 2, 2026
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jia Ling
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

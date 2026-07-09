@@ -1,0 +1,147 @@
+---
+title: "Jeppesen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25604/index.do"
+last_modified: "2003-04-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 274"
+citation2: ""
+neutral_citation: "2003 TCC 274"
+decision_date: "2003-04-25"
+language: "en"
+item_id: "25604"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2446
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:14:14.540000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5bd78d740f8e113335310dd1d6bf25b6c34b5ec23519dd417c0543d8252a2c5c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jeppesen v. The Queen
+
+- Citation: 2003 TCC 274
+- Decision date: 2003-04-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2446, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jeppesen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-25
+Neutral citation
+2003 TCC 274
+File numbers
+2002-3519(GST)APP
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-3519(GST)APP
+BETWEEN:
+SALLY JEPPESEN,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on April 10, 2003 at Vancouver, British Columbia
+Before: The Honourable Judge L.M. Little
+Appearances:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Samantha Davey
+____________________________________________________________________
+ORDER
+Upon reading the application for an Order extending the time within which an appeal, from assessment number 877778 dated April 21, 1999 made under the Excise Tax Act, may be instituted;
+And upon reading the Affidavit of Marc Roy, filed;
+And whereas the Respondent moved for dismissal of the appeal;
+This Court orders that the application for extension of time be dismissed in accordance with the attached Reasons for Order.
+Signed at Vancouver, British Columbia, this 25th day of April 2003.
+"L.M. Little"
+J.T.C.C.
+Citation: 2003TCC274
+Date: 20030425
+Docket: 2002-3519(GST)APP
+BETWEEN:
+SALLY JEPPESEN,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little, J.
+A. FACTS
+[1] The Applicant was the Sole Proprietor, Administrator and Bookkeeper for Rainbow House.
+[2] Rainbow House provided accommodation for women and children coming out of Transition Houses who were receiving Income Assistance.
+[3] The Applicant requested that Rainbow House be registered under the Excise Tax Act (the "Act") in order to receive a refund of Goods and Services Tax ("GST").
+[4] By letter dated the 1st day of May 2000, Mr. S. Wong of the Canada Customs and Revenue Agency ("CCRA") stated that the supply of a residential unit with meals provided by Rainbow House to people for a period of at least one month is an exempt supply.
+[5] As a result of this decision the CCRA determined that the Applicant was not carrying on a business and was therefore not permitted to register for GST.
+[6] By letter addressed to the Tax Court of Canada and dated the 25th day of May 2001 the Applicant requested that she be given the opportunity to file a new Notice of Objection to the Decision of the Minister that was issued on the 1st day of May 2000.
+[7] In a letter dated June 6, 2001 Mr. Chid Desantos of the Tax Court Registry responded to the Applicant's letter of the 25th day of May 2001.
+[8] In his letter Mr. Desantos stated as follows:
+This will acknowledge receipt of your letter seeking an Application for Extension of Time to file an appeal. Upon review of your documents, essential information required in an application are missing.
+[9] By letter dated the 12th day of August 2002 the Applicant applied to the Tax Court for an extension of time within which to serve a Notice of Appeal.
+[10] The Minister determined that the Applicant's application filed on the 16th day of August 2002 was late.
+B. ISSUE
+[11] Was the Applicant's application to extend the time within which to file a Notice of Appeal filed on the 16th day of August 2002 acceptable?
+C. ANALYSIS
+[12] I have concluded that the letter from the Applicant to the Tax Court dated the 25th day of May 2001 (Exhibit A-2) does not qualify as an Application to Extend the Time to Appeal within the meaning of section 305 of the Act.
+[13] As is noted above, by letter dated the 12th day of August 2002, the Applicant applied to the Tax Court of Canada for an extension of time within which to serve a Notice of Appeal.
+[14] Paragraph 305(5)(a) of the Act provides that an extension of time shall be granted if the extension of time is made within one year following the expiration of the original 90-day limitation as provided for in the Act.
+[15] In this situation the 90-day limitation expired on the 31st day of July 2000 and one year from that date would be the 31st day of July 2001. It therefore follows that the Applicant's application to extend the time within which to file a Notice of Appeal was one year and 12 days past the allowable application date.
+[16] The application is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 25th day of April 2003.
+"L.M. Little"
+J.T.C.C.
+CITATION:
+2003TCC274
+COURT FILE NO.:
+2002-3519(GST)APP
+STYLE OF CAUSE:
+Sally Jeppesen and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+April 10, 2003
+REASONS FOR ORDER BY:
+The Honourable Judge L.M. Little
+DATE OF ORDER:
+April 25, 2003
+APPEARANCES:
+For the Applicant:
+The Appellant herself
+Counsel for the Respondent:
+Samantha Davey
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,217 @@
+Title: Price c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28595/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-153-28595-price-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-04-11
+
+# Price c. La Reine
+
+- Citation: 2008 CCI 153
+- Decision date: 2008-04-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1062, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Price c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-11
+Référence neutre
+2008 CCI 153
+Numéro de dossier
+2006-1590(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006‑1590(IT)I
+ENTRE :
+LESLIE PRICE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de l’appelant
+(2006-1591(GST)I) et l’appel de
+Lillian Jenkins (2006-1425(GST)I) le 11 juin 2007,
+à Miramichi (Nouveau-Brunswick).
+Devant l’honorable juge François Angers
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Christina Ham
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour la période allant du 3 juillet 1998 au 26 juin 2001 est accueilli en partie, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 11e jour d’avril 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 30e jour de mai 2008.
+Aleksandra Koziorowska
+Dossier : 2006‑1591(GST)I
+ENTRE :
+LESLIE PRICE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de l’appelant (2006-1590(IT)I) et l’appel de
+Lillian Jenkins (2006-1425(GST)I) le 11 juin 2007,
+à Miramichi (Nouveau-Brunswick).
+Devant l’honorable juge François Angers
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Pour l’intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 6 janvier 2004, pour les périodes allant du 1er avril 1999 au 30 juin 1999, du 1er juillet 1999 au 30 septembre 1999 et du 1er janvier 2000 au 31 mars 2000 est rejeté selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 11e jour d’avril 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 30e jour de mai 2008.
+Aleksandra Koziorowska
+Dossier : 2006-1425(GST)I
+ENTRE :
+LILLIAN JENKINS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+Leslie Price (2006-1590(IT)I et 2006-1591(GST)I) le 11 juin 2007,
+à Miramichi (Nouveau-Brunswick).
+Devant l’honorable juge François Angers
+Comparutions :
+Avocat de l’appelante :
+Michael F.G. Noel
+Avocate de l’intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 6 janvier 2004, pour les périodes allant du 1er avril 1999 au 30 juin 1999, du 1er juillet 1999 au 30 septembre 1999 et du 1er janvier 2000 au 31 mars 2000 est accueilli, et la cotisation est annulée selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 11e jour d’avril 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 30e jour de mai 2008.
+Aleksandra Koziorowska
+Référence : 2008CCI153
+Date : 20080411
+Dossiers : 2006-1590(IT)I, 2006-1591(TPS)I,
+2006-1425(TPS)I
+ENTRE :
+LESLIE PRICE et
+LILLIAN JENKINS,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Les trois appels ont été entendus sur preuve commune. En ce qui a trait à l’appel numéro 2006‑1590(IT)I, j’ai décidé que les articles 17.1, 17.2 et 17.4 à 17.8 de la Loi sur la taxe d’accise s’appliquaient. Il convient également de souligner que l’appelant Leslie Price a joint à ses observations écrites des documents supplémentaires qui ne font pas partie du dossier. Je ne puis donc en tenir compte pour trancher ses appels.
+[2] L’appel que Leslie Price a interjeté en vertu de la Loi de l’impôt sur le revenu (la « Loi ») concerne une cotisation en date du 6 janvier 2004 qui a été établie conformément au paragraphe 227.1 de la Loi. La question est de savoir si l’appelant, en qualité d’administrateur de C‑Shells Inc. (« C‑Shells »), est responsable de l’omission de celle‑ci de remettre les retenues à la source au receveur général comme l’exige l’article 153 de la Loi, et redevable des intérêts sur le montant dû et des pénalités s’y rapportant. Le montant de la cotisation s’élève à 26 802,73 $ et couvre une période allant du 3 juillet 1998 au 26 juin 2001, comme le montre l’annexe A jointe à la réponse à l’avis d’appel.
+[3] Les appels relatifs à la TPS de Leslie Price et de Lillian Jenkins concernent une cotisation en date du 6 janvier 2004 qui a été établie sous le régime de la partie IX de la Loi sur la taxe d’accise (la « LTA ») pour les périodes allant du 1er avril 1999 au 30 juin 1999, du 1er juillet 1999 au 30 septembre 1999 et du 1er janvier 2000 au 31 mars 2000. La question à trancher dans ces appels est de savoir si les appelants sont tenus, en qualité d’administrateurs de C‑Shells, de remettre au receveur général le montant de la taxe nette selon les exigences du paragraphe 228(1) de la LTA et de payer les intérêts sur ce montant ainsi que les pénalités s’y rapportant. Le montant de la cotisation s’élève à 11 240,82 $.
+[4] Les parties conviennent que C‑Shells a fait cession de ses biens sous le régime de la Loi sur la faillite et l’insolvabilité du Canada le 31 octobre 2000, et que l’intimée a produit des preuves de réclamation auprès du syndic à l’égard de la taxe nette impayée et des retenues à la source non remises le 1er décembre 2000. L’intimée a également produit une preuve de réclamation révisée au montant de 26 802,73 $ le 30 avril 2003 en ce qui a trait à la responsabilité de C‑Shells au titre des retenues à la source. La preuve de réclamation initiale s’établissait à 23 633,62 $. Les mesures susmentionnées visaient à assurer le respect de l’alinéa 227.1(2)c) de la Loi ainsi que de l’alinéa 323(2)c) de la LTA.
+[5] C‑Shells a été constituée en société le 10 septembre 1997, sous le régime de la Loi sur les corporations commerciales du Nouveau‑Brunswick, afin d’exploiter un restaurant et un bar dans la ville de Miramichi, au Nouveau‑Brunswick. Les fondatrices étaient Shelly Malley et Cheryl Woods. Elles étaient également les deux seules administratrices de C‑Shells lors de la constitution.
+[6] Afin d’exploiter la société, C‑Shells a conclu avec la Province du Nouveau‑Brunswick un bail l’autorisant à louer un immeuble connu sous le nom de mess des officiers et situé sur l’emplacement de l’ancienne BFC de Chatham. Le bail a été signé par Shelly Malley et Cheryl Woods au nom de C‑Shells. Il s’agissait d’un bail de trois ans comportant une option d’achat.
+[7] L’appelant Leslie Price s’est montré intéressé à acheter des actions et à investir dans C‑Shells. Il a donc été engagé comme gestionnaire, et l’appelante Lillian Jenkins a été engagée pour accomplir des tâches de bureau. Lillian Jenkins est la mère de Cheryl Woods.
+[8] En ce qui a trait à la structure du capital‑actions de C‑Shells, l’appelant Leslie Price a expliqué au cours de son témoignage que les actions devaient être réparties comme suit : 30 p. 100 devaient être attribuées à chacune des fondatrices, 20 p. 100 à lui‑même et 5 p. 100 à l’appelante Lillian Jenkins. Une autre tranche de 5 p. 100 devait être attribuée à une autre personne, et une tranche de 10 p. 100 devait être conservée pour les employés clés qui se montreraient intéressés à en faire l’acquisition. Au cours de son témoignage, Shelly Malley a dit qu’elle ignorait pourquoi Leslie Price devait obtenir des actions et qu’elle ne se rappelait pas non plus ce qui s’était passé en ce qui concerne les administrateurs de C‑Shells. Apparemment, tout ce que la preuve montre clairement en ce qui a trait au capital‑actions, c’est que les actions n’ont jamais été émises en réalité.
+[9] Shelly Malley et Cheryl Woods étaient également les propriétaires‑exploitantes d’un collège privé appelé Progressive Learning Centre (« PLC »). À ce double titre, elles devaient offrir une formation aux employés de C‑Shells. En raison de la possibilité d’un conflit d’intérêts et du fait que leur rôle ne consistait pas à s’occuper de l’exploitation quotidienne de C‑Shells, leur avocat leur a conseillé de ne pas être administratrices de celle‑ci. Elles ont accepté de se retirer, mais la preuve ne montre pas clairement la date à laquelle elles ont effectivement démissionné et cessé de ce fait d’être administratrices de C‑Shells. Selon les relevés de la base de données du Registre des affaires corporatives du Nouveau‑Brunswick qui ont été produits à l’instruction, les deux appelants ont été administrateurs de C‑Shells à compter de la modification de statut précédente de celle‑ci, survenue le 31 octobre 2000, jusqu’à sa dissolution en 2005, mais aucun élément de preuve n’indique la date à laquelle les fondatrices ont officiellement cessé d’être administratrices de C‑Shells.
+[10] Au cours des semaines qui ont suivi la constitution, il est devenu évident que des fonds supplémentaires étaient nécessaires pour que le projet soit viable. Cheryl Woods a rédigé un document d’information non daté au sujet de C‑Shells afin d’appuyer une demande de prêt présentée à la Banque de développement du Canada (la « BDC »). D’après ce document, C‑Shells a contracté un emprunt à court terme d’environ 250 000 $ auprès de PLC en novembre et en décembre 1997 et, en janvier‑mars (1998, je suppose), l’appelant Leslie Price a prêté un montant de 75 000 $ à C‑Shells. Lors de la rédaction du document d’information, un montant d’environ 54 000 $ était encore dû à PLC, et le prêt de 75 000 $ n’avait toujours pas été remboursé à Leslie Price. L’appelant Leslie Price est décrit comme le gestionnaire de C‑Shells, et l’appelante Lillian Jenkins, comme gestionnaire de bureau. Tous deux sont décrits comme des principaux actionnaires et des employés à temps plein.
+[11] La BDC a approuvé la demande de prêt de C‑Shells. Le prêt a été garanti par une hypothèque grevant la propriété louée que C‑Shells a finalement achetée. La preuve ne permet pas de savoir à quel moment l’acte d’hypothèque a effectivement été signé, mais les deux appelants ont signé le document à titre d’administrateurs inscrits et croient que c’est à cette date qu’ils sont devenus administrateurs de C‑Shells. Selon l’appelant Leslie Price, l’acte relatif à la propriété louée et le document hypothécaire ont été remplis en octobre 1998, et il a affecté une partie de ses biens personnels en garantie du prêt, en plus de fournir une garantie personnelle. Il a également souligné que les deux fondatrices avaient accepté en 2003 de l’aider financièrement à rembourser le montant qu’il devait au titre de la garantie personnelle en question.
+[12] Environ un mois après la signature de l’acte hypothécaire, les quatre actionnaires se sont réunis pour examiner différentes options afin de permettre à C‑Shells de poursuivre ses activités; cependant, en décembre 1998, l’appelant Leslie Price a appris que les trois autres actionnaires avaient tenu une autre rencontre sans lui. Il a alors compris que la situation devait changer radicalement. Il a rencontré les trois autres actionnaires en décembre 1998 à un endroit appelé Keystone Kelly’s et leurs discussions ont mené à un accord verbal dont les conditions ont ensuite été consignées dans une note télécopiée à l’avocat de Leslie Price.
+[13] Il appert de la note télécopiée que l’appelant Leslie Price devait acheter la totalité des actions appartenant aux deux fondatrices pour la somme de 28 000 $, et un acompte de 4 900 $ a été versé le 20 décembre 1998. L’appelant Leslie Price devait acheter la totalité des actions appartenant à l’appelante Lillian Jenkins pour la somme de 396,07 $ et, d’après la note, celle‑ci a reçu ce montant le 21 décembre 1998. L’accord prévoyait également une reddition de compte et une vérification de fin d’exercice et/ou une mission d’examen qui devaient être effectuées le plus tôt possible et dont toutes les parties accepteraient le résultat; à compter de ce moment, l’appelant Leslie Price et C‑Shells devaient être responsables de tous les comptes créditeurs et comptes débiteurs et devaient régler tous ces comptes. De nouveaux fonds devaient être obtenus, et C‑Shells devait s’efforcer de verser à l’appelante Lillian Jenkins, à une date indéterminée, un montant maximal de 4 000 $ au titre du salaire ou des dividendes impayés. La note prévoyait également que PLC utiliserait les installations de C‑Shells à un prix réduit et, enfin, que si l’appelant décidait de vendre la part de 100 p. 100 qu’il détenait dans C‑Shells, les profits réalisés au‑delà du montant des dettes seraient partagés avec les deux fondatrices en fonction du ratio des prêts impayés dus aux parties concernées.
+[14] En plus de l’accord verbal susmentionné, il a été convenu qu’une déclaration de la taxe de vente harmonisée (« TVH ») représentant un montant important devait être transférée à PLC, ce qui a été fait. L’accord verbal n’a quant à lui pas vraiment été respecté. L’appelant Leslie Price soutient qu’il n’a jamais reçu les documents financiers de C‑Shells, contrairement à ce qui avait été convenu. Shelly Malley les avait en main, parce qu’elle était la personne responsable des aspects financiers de C‑Shells. Elle était la principale responsable qui assurait la liaison avec le cabinet de comptables qui établissait les états financiers. L’appelant Leslie Price lui a téléphoné à maintes reprises afin d’obtenir les états financiers, mais en vain. Il a continué à en faire la demande même après avoir remis la déclaration de TVH aux deux fondatrices. Malgré le fait que les renseignements financiers étaient consignés dans un ordinateur, l’appelant Leslie Price a dit qu’il ne pouvait utiliser celui‑ci. Aucune action n’a été transférée à l’appelant Leslie Price par suite de la rencontre au Keystone Kelly’s et de l’accord verbal.
+[15] À la fin de février 1999, l’appelante Lillian Jenkins a retenu les services d’un avocat qui, le 4 mars 1999, a envoyé une lettre à l’avocat représentant les deux fondatrices, et une copie de cette lettre à l’avocat qui représentait l’appelant Leslie Price. Il a proposé que les trois avocats se rencontrent afin de discuter [traduction] « de la meilleure façon de satisfaire les désirs de chacun de leurs clients ». Il a également proposé à l’avocat des deux fondatrices d’apporter les livres de la société C‑Shells à la rencontre.
+[16] L’appelant Leslie Price a expliqué au cours de son témoignage que l’appelante Lillian Jenkins avait voulu démissionner en avril 1999, mais qu’il avait refusé cette démission. C’est le 12 mai 1999 que l’avocat de Lillian Jenkins a envoyé à l’avocat de M. Price une lettre à laquelle il a joint la démission de sa cliente en ce qui a trait à l’emploi ou au poste de direction ou de cadre qu’elle occupait chez C‑Shells. La copie qui a été présentée en preuve n’est pas signée par l’appelante Lillian Jenkins, mais celle‑ci a déclaré qu’elle se rappelait avoir signé une lettre semblable. La lettre du 12 mai énonce qu’une démission originale ainsi qu’une demande de mise à jour des livres de la société pour qu’ils tiennent compte de cette démission ont été présentées à l’avocat représentant les deux fondatrices et C‑Shells. L’avocat de Lillian Jenkins y a en outre écrit que toutes les personnes concernées devraient conclure une forme d’entente afin, à tout le moins, d’établir un cadre pour la prise de contrôle de la société par M. Price. L’avocat de l’appelante Lillian Jenkins a fait parvenir à sa cliente une lettre confirmant que la démission de celle‑ci avait été remise.
+[17] L’appelant Leslie Price n’a jamais pu obtenir les actions et a finalement abandonné toute tentative en vue de les obtenir vers avril 1999. Il a néanmoins exploité la société à compter d’avril 1999 jusqu’à la fin d’octobre 2000, lorsque le syndic de faillite a été nommé. Au cours de cette période, il a payé les factures et les créanciers locaux, car il avait besoin de fournitures. Auparavant, il ne s’était nullement occupé de l’aspect financier. De plus, il soutient qu’il ignorait que les retenues à la source étaient remises tardivement en ce qui a trait à une bonne partie des cotisations qui ont été envoyées à l’adresse de PLC. Il a rencontré le vérificateur de Revenu Canada au milieu de l’année 1999 et c’est lors de cette rencontre qu’il aurait été informé des montants. Il a continué à produire les déclarations de TVH même s’il n’était pas en mesure de payer la taxe correspondant aux trois dernières périodes de déclaration. Il a expliqué au cours de son témoignage qu’il comptait sur la vente des éléments d’actif par le syndic pour payer tous les arriérés à Revenu Canada, parce qu’il avait compris, comme tous les autres actionnaires, que Revenu Canada serait le premier créancier payé. Cependant, Revenu Canada n’a pas été payé, et la preuve ne permet pas de savoir ce qui s’est vraiment passé en ce qui concerne la vente de l’immeuble ou de l’actif. Il appert d’un affidavit signé par le syndic de faillite qu’un acte de transport par renonciation a été signé en faveur de C‑Shells à l’égard de l’immeuble.
+[18] Au cours de son témoignage, l’appelante Lillian Jenkins a commencé par dire qu’elle avait démissionné comme administratrice et employée de C‑Shells en octobre 1999. Plus tard, elle a dit qu’elle croyait qu’elle l’avait fait en mai 1999, mais elle a mentionné par la suite que c’était en avril 1999. Le mois d’avril ou de mai 1999 est compatible avec la date (12 mai 1999) à laquelle l’avocat de Lillian Jenkins a fait parvenir la démission de celle‑ci aux avocats des fondatrices et de l’appelant Leslie Price. Lors de l’établissement des cotisations, l’appelante Lillian Jenkins n’a fourni aucune copie de sa démission au vérificateur et elle a précisé dans son avis d’opposition du 6 avril 2004 qu’elle avait démissionné vers 2001. En ce qui concerne Shelly Malley, elle se rappelle avoir vu une copie de la démission de l’appelante Lillian Jenkins, mais elle n’a pas précisé à quel moment elle avait vu cette copie.
+[19] Les dispositions pertinentes de la LTA concernant la responsabilité d’un administrateur en vertu de cette loi figurent aux paragraphes 323(1), 323(3) et 323(5) de celle‑ci :
+323(1) Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payé ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+(3) L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+(5) L’établissement d’une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu’il a cessé pour la dernière fois d’être administrateur.
+[20] L’appelante Lillian Jenkins soutient qu’elle a démissionné en bonne et due forme en avril ou au début de mai 1999 et elle se fonde sur les dispositions du paragraphe 323(5) de la LTA. Elle fait valoir que l’avis de cotisation établi à son égard le 6 janvier 2004 l’a été plus de deux ans après la date à laquelle elle a cessé d’être administratrice de C‑Shells.
+[21] L’intimée allègue que l’appelante Lillian Jenkins n’a pu établir selon la prépondérance des probabilités que sa prétendue démission a effectivement été remise et est entrée en vigueur à une date précise.
+[22] Le mot « administrateur » n’est pas défini dans la LTA et celle‑ci ne comporte aucune disposition précisant le moment auquel le mandat de l’administrateur d’une société prend fin. L’article 66 de la Loi sur les corporations commerciales du Nouveau‑Brunswick (L.N.B., ch. B‑9.1) énonce les circonstances dans lesquelles le mandat d’un administrateur prend fin :
+66 (1) Le mandat d’un administrateur prend fin en raison :
+a) de son décès ou de sa démission;
+b) de sa révocation aux termes de l’article 67; ou
+c) de la survenance de son inhabilité à l’exercer, aux termes du paragraphe 63(1).
+66 (2) Une démission d’un administrateur prend effet à la date de son envoi par écrit à la corporation ou à la date qui est indiquée dans la démission, selon la dernière éventualité.
+[23] L’intimée a également soulevé la question de la confusion de l’appelante Lillian Jenkins au sujet de la date à laquelle elle a effectivement démissionné, faisant allusion à cet égard aux différentes dates que l’appelante a mentionnées au cours de son témoignage. Malgré cette confusion, l’appelante Lillian Jenkins m’a semblé être un témoin crédible qui n’avait nullement l’intention de tromper la Cour. Les événements en question sont survenus il y a près de dix ans au cours d’une période pendant laquelle les principaux intervenants étaient incertains quant à leurs rôles et responsabilités respectifs, et à un moment où la participation de l’appelante Lillian Jenkins elle‑même dans C‑Shells était incertaine. Non seulement a‑t‑elle voulu partir, mais elle a également quitté l’emploi qu’elle occupait chez C‑Shells, désirant rompre tous les liens qu’elle avait avec la société. Cette conduite est compatible avec les événements survenus lors de la rencontre au Keystone Kelly’s en décembre 1998, lorsqu’elle a vendu ses actions à l’appelant Leslie Price. À cette époque, elle ne participait nullement au processus décisionnel à toutes fins utiles.
+[24] La lettre de démission que l’appelante Lillian Jenkins a, à mon avis, effectivement signée, a été envoyée aux avocats des fondatrices le 12 mai 1999, qui étaient également enjoints par cette lettre de mettre à jour le registre des procès‑verbaux de C‑Shells en conséquence. La date d’entrée en vigueur de la démission de l’appelante serait donc le 12 mai 1999, soit la date à laquelle la lettre de démission a été envoyée à C‑Shells par l’entremise des avocats de M. Price et des fondatrices, ou une date antérieure, c’est‑à‑dire la date à laquelle elle a effectivement signé la démission en question. La Loi n’exige pas que l’appelant Leslie Price ait accepté la démission de l’appelante Lillian Jenkins pour que celle‑ci entre en vigueur. Je suis donc convaincu, selon la prépondérance des probabilités, que la démission de l’appelante Lillian Jenkins est entrée en vigueur le 12 mai 1999, soit la date la plus tardive, et que, à compter de cette date, cette appelante n’a eu aucun lien avec C‑Shells, que ce soit en qualité d’administratrice ou autrement. La cotisation établie en vertu de la LTA à l’encontre de l’appelante Lillian Jenkins le 6 janvier 2004 a donc été établie plus de deux ans après la date à laquelle l’appelante a cessé d’être administratrice de C‑Shells. L’appel de l’appelante Lillian Jenkins est accueilli, et la cotisation établie à son égard est annulée.
+[25] Les dispositions pertinentes en ce qui a trait à la responsabilité de l’administrateur en vertu de la LTA sont les mêmes pour l’appelant Leslie Price que celles qui ont été mentionnées à l’égard de Lillian Jenkins. L’autre appel de Leslie Price concerne sa responsabilité en qualité d’administrateur en vertu de la Loi, et les dispositions pertinentes sont les paragraphes 227.1(1) et 227.1(3), dont voici le texte :
+227.1(1) Lorsqu’une société a omis de déduire ou de retenir une somme, tel que prévu au paragraphe 135(3) ou à l’article 153 ou 215, ou a omis de remettre cette somme ou a omis de payer un montant d’impôt en vertu de la partie VII ou VIII pour une année d’imposition, les administrateurs de la société, au moment où celle‑ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s’y rapportant.
+227.1(3) Un administrateur n’est pas responsable de l’omission visée au paragraphe (1) lorsqu’il a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[26] L’appelant Leslie Price soutient que les cotisations ont été établies plus de deux ans après la faillite et devraient donc être annulées. Subsidiairement, il fait valoir qu’il a agi à tout moment avec le degré de soin, de diligence et d’habileté nécessaire pour empêcher l’omission de remettre les retenues à la source et les impôts. En dernier lieu, il allègue qu’il a été incité à croire que le syndic de faillite paierait Revenu Canada en premier lieu sur le produit de la vente de l’actif de C‑Shells.
+[27] La preuve présentée soulève de nombreuses préoccupations au sujet de la façon dont l’appelant Leslie Price et les deux fondatrices ont exploité l’entreprise de C‑Shells et géré leurs propres affaires. Bon nombre de questions demeurent sans réponse, notamment quant aux circonstances entourant la participation des deux fondatrices dans PLC et à la nature du conflit d’intérêts pouvant découler de l’occupation d’un poste de direction à la fois chez C‑Shells et chez PLC. L’impossibilité de consulter le registre des procès‑verbaux de C‑Shells, l’absence de documents écrits et la passation, à l’établissement Keystone Kelly’s, d’un accord qui n’a jamais été mis au point légalement soulèvent des questions sur ce qui s’est vraiment passé.
+[28] Il est cependant indéniable que les deux appelants étaient administrateurs de C‑Shells lorsque l’immeuble a été acheté, plus précisément lorsqu’ils ont signé un document au nom de la société, en octobre 1998, afin d’obtenir l’emprunt de la BDC. Malgré le fait que l’appelant Leslie Price dirigeait les activités quotidiennes de C‑Shells à l’époque, je crois, eu égard au témoignage qu’il a présenté, que les deux fondatrices jouaient et ont continué à jouer un rôle actif et prépondérant chez C‑Shells. Shelly Malley contrôlait les opérations financières et comptables et a apparemment continué à le faire jusqu’à la prise de contrôle par l’appelant en avril 1999. En raison du rôle qu’il avait joué jusqu’à cette date, il se trouvait dans une position difficile, car il ne pouvait comprendre parfaitement la situation financière de C‑Shells et les obligations de celle‑ci en ce qui a trait aux retenues à la source et aux déclarations de TVH. En fait, il n’a pu obtenir les états financiers de C‑Shells ni les données comptables, même s’il avait accepté de régler tous les comptes créditeurs impayés.
+[29] À mon avis, jusqu’au moment où la société a passé officiellement entre ses mains en avril 1999, je ne crois pas que l’appelant Leslie Price devrait être assujetti à la même norme de prudence en ce qui a trait à sa responsabilité en qualité d’administrateur. Dans Soper c. Canada, [1997] A.C.F. n° 881 (QL), [1997] 3 C.T.C. 242, la Cour d’appel fédérale a commenté comme suit la norme de prudence applicable :
+[37] […] La norme de prudence énoncée au paragraphe 227.1(3) de la Loi est fondamentalement souple. Au lieu de traiter les administrateurs comme un groupe homogène de professionnels dont la conduite est régie par une seule norme immuable, cette disposition comporte un élément subjectif qui tient compte des connaissances personnelles et de l’expérience de l’administrateur, ainsi que du contexte de la société visée, notamment son organisation, ses ressources, ses usages et sa conduite. Ainsi, on attend plus des personnes qui possèdent des compétences supérieures à la moyenne (p. ex. les gens d’affaires chevronnés).
+[38] La norme de prudence énoncée au paragraphe 227.1(3) de la Loi n’est donc pas purement objective. Elle n’est pas purement subjective non plus. Il ne suffit pas qu’un administrateur affirme qu’il a fait de son mieux, car il invoque ainsi la norme purement subjective. Il est également évident que l’intégrité ne suffit pas. Toutefois, la norme n’est pas une norme professionnelle. Ces situations ne sont pas régies non plus par la norme du droit de la négligence. La Loi contient plutôt des éléments objectifs, qui sont représentés par la notion de la personne raisonnable, et des éléments subjectifs, qui sont inhérents à des considérations individuelles comme la « compétence » et l’idée de « circonstances comparables ». Par conséquent, la norme peut à bon droit être qualifiée de norme « objective subjective ».
+[30] Dans ce même arrêt, la Cour d’appel fédérale fait également une distinction entre les administrateurs internes et externes en ce qui a trait au degré de la norme de prudence applicable. Dans Peter Sziklai c. Canada, [2006] A.C.I. n° 152 (QL), le juge Hershfield, de la Cour canadienne de l’impôt, a analysé de la manière suivante la norme applicable aux administrateurs internes et externes :
+[10] Le mandat inévitable dont le juge Mogan parle est, selon lui, ce qui fait en sorte que l’unique administrateur est un administrateur interne et qu’il assume la responsabilité des omissions de faire les versements nécessaires. Malgré tout le respect que je lui dois, il s’agit d’une inférence qui pose problème. Dans l’arrêt Soper c. Sa Majesté la Reine, le juge Robertson explique, au paragraphe 44, le fondement de la distinction qu’il convient de faire entre les administrateurs internes et les administrateurs externes :
+[…] les administrateurs internes, c’est‑à‑dire ceux qui s’occupent de la gestion quotidienne de la société et qui peuvent influencer la conduite de ses affaires, sont ceux qui auront le plus de mal à invoquer la défense de diligence raisonnable. Pour ces personnes, ce sera une opération ardue de soutenir avec conviction que, malgré leur participation quotidienne à la gestion de l’entreprise, elles n’avaient aucun sens des affaires, au point que ce facteur devrait l’emporter sur la présomption qu’elles étaient au courant des exigences de versement et d’un problème à cet égard, ou auraient dû l’être. Bref, les administrateurs internes auront un obstacle important à vaincre quand ils soutiendront que l’élément subjectif de la norme de prudence devrait primer sur l’aspect objectif de la norme.
+Pour ce qui est des administrateurs externes qui ne participent pas directement à l’exploitation de l’entreprise, il dit, aux paragraphes 52 et 53, qu’ils peuvent :
+[…] compter sur les personnes qui s’occupent de la gestion quotidienne de la société pour payer des dettes comme les créances de Sa Majesté. […]
+À mon avis, l’obligation expresse d’agir prend naissance lorsqu’un administrateur obtient des renseignements ou prend conscience de faits qui pourraient l’amener à conclure que les versements posent, ou pourraient vraisemblablement poser, un problème potentiel. En d’autres termes, il incombe vraiment à l’administrateur externe de prendre des mesures s’il sait, ou aurait dû savoir, que la société pourrait avoir un problème avec les versements. […]
+[11] Par conséquent, les administrateurs internes, par définition, participent à la gestion de l’entreprise. Imputer la participation à la gestion de l’entreprise à une personne qui ne participait pas à celle‑ci est incompatible avec ce facteur déterminant. De plus, le fait d’imputer à l’administrateur unique de la société la participation à la gestion de celle‑ci et la conduite de la personne qui s’est soustraite à ses obligations implique qu’aucune défense fondée sur la diligence raisonnable ne peut être invoquée par les administrateurs uniques. Il est clair qu’il ne peut en être ainsi, et, à mon avis, il ne faut pas non plus supposer que le juge Mogan voulait que sa conclusion soit considérée comme étant une règle immuable dans tous les cas.
+[12] Cela ne veut pas dire que la norme de diligence à laquelle l’appelant est assujetti n’est pas plus stricte que celle à laquelle les administrateurs externes sont assujettis. La démarche qui consiste à établir une distinction entre les administrateurs « internes » et les administrateurs « externes » sert à déterminer ce qu’une personne raisonnablement prudente aurait fait dans les mêmes circonstances. Dans ce contexte, il serait peut‑être mieux de se poser simplement la question de savoir si, compte tenu de sa position et de son niveau de participation, l’appelant était en mesure de détecter des problèmes éventuels et de les résoudre. Le juge Bonner a adopté cette approche dans la décision Mariani c. La Reine. Au paragraphe 19, il a dit ce qui suit :
+Je ne peux souscrire au point de vue de l’intimée. La distinction entre les catégories d’administrateurs internes et externes ne fait pas partie d’un processus mécanique de classification dans des catégories définies de manière rigide de gagnants et de perdants. Il s’agit plutôt d’une reconnaissance qui va de soi. Certains administrateurs, généralement parce qu’ils participent à la gestion au jour le jour de l’entreprise, sont en meilleure position que d’autres pour détecter la possibilité de manquements et y faire face. Il s’agit là d’un élément pertinent.
+[31] Le juge Hershfield a ajouté les remarques suivantes :
+[14] Toutefois, il y a malgré tout une certaine souplesse dans l’application des critères, même lorsqu’il s’agit des administrateurs internes. La norme est celle du raisonnable et non celle de la perfection, même à l’égard des administrateurs internes d’une entreprise à peine rentable. La question qu’il faut se poser est toujours la même et il s’agit de savoir ce que, dans les circonstances, une personne raisonnablement prudente qui se trouverait dans la même position que l’appelant devrait faire. Dans l’arrêt Smith c. La Reine, la juge Sharlow de la Cour d’appel fédérale a dit qu’il faut se rappeler que la norme n’est pas celle de la perfection.
+[12] La souplesse inhérente à la défense de diligence raisonnable peut créer des situations où une norme de prudence plus élevée s’impose à certains administrateurs d’une société par rapport à d’autres. Par exemple, il peut être approprié d’imposer une norme plus élevée à un « administrateur interne » (par exemple, un directeur ayant l’habitude de la gestion au jour le jour) qu’à un « administrateur externe » (comme un directeur qui connaît assez peu les affaires de la société et n’est impliqué que de façon superficielle).
+[32] L’appelant Leslie Price était responsable de l’exploitation quotidienne de C‑Shells, mais la preuve et les circonstances de la présente affaire m’incitent à croire que cette exploitation consistait à gérer le restaurant en soi, et que les finances étaient contrôlées par Shelly Malley, une des fondatrices. Je ne crois pas que l’appelant Leslie Price a été en mesure de déceler les problèmes inhérents à la remise des retenues à la source ou de la TVH avant le moment où il a effectivement obtenu le contrôle de l’ensemble de l’entreprise de C‑Shells en avril 1999. La preuve semble montrer que l’appelant Leslie Price a obtenu le contrôle complet vers la date à laquelle il a eu la mainmise en avril 1999.
+[33] À compter de cette date, l’appelant était le seul administrateur de C‑Shells; il avait le plein contrôle de la société et était parfaitement au courant de la situation de celle‑ci. C’est à cette date qu’il a été en mesure de déceler des problèmes, ce qui s’est produit. Il a peut‑être été impossible pour lui de régler le problème en ce qui concerne les arriérés; cependant, en avril 1999, il était en mesure de régler le problème des impôts impayés et des retenues à la source non remises. L’appelant savait que les retenues à la source n’étaient pas remises et que les montants de la TVH n’étaient pas payés, et il appert clairement de son témoignage que, pendant cette période, soit d’avril 1999 jusqu’à la faillite, sa préoccupation était de veiller à ce que C‑Shells puisse poursuivre ses activités et payer ses fournisseurs. Son objectif était de sauver la société et il fallait d’abord payer les fournisseurs.
+[34] La norme applicable réside dans le degré de soin, de diligence et d’habileté qu’une personne raisonnablement prudente se trouvant dans la position de l’appelant aurait exercé dans les circonstances pour empêcher le manquement. Les mesures que prend une personne après le fait pour aider Revenu Canada à percevoir les montants qui lui sont dus ne sont pas pertinentes. L’appelant a peut‑être cru que Revenu Canada serait le premier créancier payé, mais ce fait ne permet pas de savoir quelles sont les mesures qu’il a prises pour empêcher l’omission de remettre les impôts et retenues. Si louables que soient le dur labeur et la détermination, le fait que des fournisseurs aient été payés en premier n’est pas utile dans le contexte de la défense de la diligence raisonnable.
+[35] La preuve que l’appelant Leslie Price a présentée ne me permet pas de conclure, selon la prépondérance des probabilités, qu’il a agi avec le degré de soin, de diligence et d’habileté qu’une personne raisonnable aurait exercé pour empêcher l’omission. L’appelant n’a pris aucune mesure concrète pour prévenir l’omission de C‑Shells de remettre les retenues à la source et la TVH d’avril 1999 jusqu’à la faillite.
+[36] En dernier lieu, la preuve présentée à l’instruction ne comporte aucun élément qui me permettrait de conclure que la cotisation a été établie après le délai de deux ans prescrit dans la Loi. Ce délai commence à courir après la date à laquelle le contribuable en cause a cessé d’être administrateur, et aucun élément de preuve ne montre que le mandat de l’appelant Leslie Price à titre d’administrateur de C‑Shells a pris fin à quelque moment que ce soit.
+[37] L’appel interjeté en vertu de la Loi est accueilli en partie, et la cotisation établie à l’égard de l’appelant Leslie Price est déférée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant est responsable des retenues à la source non remises de C‑Shells uniquement pour la période postérieure à avril 1999.
+[38] L’appel interjeté à l’égard de la taxe sur les produits et services (2006‑1591(GST)) est rejeté.
+Signé à Ottawa, Canada, ce 11e jour d’avril 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 30e jour de mai 2008.
+Aleksandra Koziorowska
+RÉFÉRENCE : 2008CCI153
+Nos DES DOSSIERS DE LA COUR : 2006-1590(IT)I, 2006-1591(GST)I,
+2006-1425(GST)I
+INTITULÉS : Leslie Price et Sa Majesté La Reine
+Lillian Jenkins et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Miramichi (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : Le 11 juin 2007
+MOTIFS DU JUGEMENT : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 11 avril 2008
+COMPARUTIONS :
+Pour l’appelant Leslie Price :
+Avocat de l’appelante Lillian Jenkins:
+L’appelant lui-même
+Me Michael F.G. Noel
+Avocate de l’intimée :
+Me Christina Ham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant Leslie Price:
+Nom :
+Cabinet :
+Pour l’appelante Lillian Jenkins :
+Nom : Me Michael F.G. Noel
+Cabinet : Noel Urquhart Hayes
+Miramichi (Nouveau-Brunswick)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

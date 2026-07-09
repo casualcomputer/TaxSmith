@@ -1,0 +1,99 @@
+Title: Tenn-Yuk v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25931/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-243-25931-tenn-yuk-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-03-25
+
+# Tenn-Yuk v. The Queen
+
+- Citation: 2004 CCI 243
+- Decision date: 2004-03-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3664, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tenn-Yuk v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-25
+Référence neutre
+2004 CCI 243
+Numéro de dossier
+2003-3327(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3327(IT)I
+ENTRE :
+MICHAEL TENN-YUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Toronto (Ontario), le 23 janvier 2004.
+Devant : L'honorable A.A. Sarchuk, juge
+Comparutions :
+Avocat de l'appelant :
+Me Ernie Singer
+Avocat de l'intimée :
+Me Brent Cuddy
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation fiscale établie en vertu du paragraphe 227.1(1) de la Loi de l'impôt sur le revenu, dont l'avis est daté du 29 avril 2003 et porte le numéro 20571, est rejeté.
+Signé à Ottawa, Canada, ce 25e jour de mars 2004.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 31e jour de mars 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI243
+Date : 20040325
+Dossier : 2003-3327(IT)I
+ENTRE :
+MICHAEL TENN-YUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sarchuk
+[1] Il s'agit d'un appel interjeté par Michael Tenn-Yuk à l'égard d'une cotisation établie par le ministre du Revenu national, dont l'avis est daté du 29 avril 2003 et porte le numéro 20571, conformément aux articles 227 et 227.1 de la Loi de l'impôt sur le revenu (la « Loi » ) par suite de l'omission de 839399 Ontario Limited ( « 839399 » ) de verser au receveur général le montant de l'impôt sur le revenu fédéral, des pénalités et des intérêts exigibles en vertu de l'article 153 de la Loi.
+Les faits
+[2] En 1978 ou vers 1978, l'appelant et Cecil Thomas ont commencé à exploiter un atelier de réparation d'automobiles, Tryman's Transmissions ( « Tryman's » ). En plus d'enlever et d'installer des transmissions, l'appelant était responsable du travail quotidien de bureau, ce qui comprenait la tenue des dossiers pertinents, le paiement des comptes et les versements à effectuer. M. Thomas s'occupait principalement de la réparation des transmissions et de la gestion de l'atelier. À un moment donné, après que Tryman's eut commencé à exploiter son entreprise, Brian Caffrey a été embauché comme apprenti. En temps et lieu, il est devenu mécanicien qualifié de transmissions et il a continué à être employé en cette qualité pendant environ cinq ans; il a alors fait savoir qu'il voulait travailler à son compte. On a discuté de la question et l'appelant ainsi que MM. Thomas et Caffrey se sont entendus pour constituer une nouvelle société, 839399, en vue d'exploiter une entreprise de réparation de transmissions sous le même nom (Tryman's), mais dans des locaux différents situés dans un autre endroit. Les trois hommes ont été nommés administrateurs, M. Caffrey agissant comme président, M. Thomas comme vice-président et l'appelant comme secrétaire-trésorier. Dès le début, il était entendu que M. Caffrey dirigerait 839399 et s'occuperait des activités quotidiennes, alors que l'appelant et M. Thomas resteraient à l'emplacement existant. La nouvelle entreprise était financée au moyen d'un emprunt d'un montant de 60 000 $ contracté auprès de l'établissement bancaire avec lequel les associés traitaient. Chaque associé a signé le contrat de prêt et les fonds ont été déposés directement dans le compte de 839399. M. Caffrey devait utiliser ces fonds pour acheter l'équipement, les outils et le matériel nécessaires.
+[3] L'appelant estimait être un homme d'affaires chevronné. Chez Tryman's, à part les autres tâches qu'il accomplissait, il se chargeait des états financiers et des livres et s'en occupait régulièrement; il effectuait toutes les retenues et versait les cotisations sociales et les taxes de vente. Bien que M. Caffrey n'ait pas eu d'expérience similaire, l'appelant a déclaré que le fait de se lancer dans les affaires avec lui et de s'en remettre à lui pour diriger l'entreprise ne l'inquiétait pas. Cette confiance était presque exclusivement fondée sur les relations personnelles qu'il entretenait avec M. Caffrey et la famille de celui-ci. Ils habitaient dans le même quartier et, comme l'appelant l'a dit, il connaissait bien M. Caffrey, il connaissait sa famille, il connaissait ses parents, il connaissait la personne avec qui M. Caffrey était alors fiancé et la famille de la fiancée. Il avait même assisté au mariage de M. Caffrey, de sorte qu'ils entretenaient des relations étroites. Par conséquent, lorsque la nouvelle entreprise a ouvert ses portes, l'appelant a supposé que M. Caffrey assumerait les mêmes responsabilités que celles qu'il assumait chez Tryman's. Il semble que la participation de l'appelant se soit limitée à faire en sorte, lorsque 839399 a commencé à être exploitée, que les comptables de Tryman's mettent en place un système comptable pour l'entreprise; Francis Rodriguez, qui s'occupait de la tenue de livres de Tryman's, a été affecté à cette tâche. L'appelant a convenu qu'en sa qualité d'administrateur, il aurait dû vérifier les livres, mais il a dit que même s'il savait que M. Caffrey manquait d'expérience, il s'en était simplement remis au comptable. De fait, pendant les neuf ou dix années où 839399 a été exploitée, il n'a pas eu de discussions avec M. Rodriguez au sujet des livres et registres, si ce n'est pour lui demander si tout allait bien, question à laquelle M. Rodriguez lui répondait par l'affirmative.
+[4] Selon l'appelant, la nouvelle entreprise devait produire un rapport financier additionnel à l'intention des associés. L'emprunt contracté auprès de la banque n'a été remboursé qu'au bout d'environ six ans et les bénéfices n'avaient pas été répartis pendant les années où l'entreprise a été exploitée, mais l'appelant déclare qu'il croyait que les affaires étaient bonnes chez 839399. L'appelant a affirmé qu'il avait donc été surpris lorsque, en 1999, M. Caffrey l'a appelé pour lui dire qu'il voulait fermer l'entreprise étant donné qu'il était dans le pétrin et que, cela étant, il avait trouvé un acheteur et avait reçu une offre de 70 000 $ pour l'entreprise, y compris l'équipement et la clientèle. Ces négociations avaient eu lieu à l'insu de l'appelant. M. Caffrey a également dit que le bail allait bientôt prendre fin et qu'il n'avait pas l'intention de le renouveler, mais qu'il préférerait que l'acheteur signe lui-même un bail. Devant ce qui semblait être un fait accompli, l'appelant a uniquement stipulé que le nom de Tryman's ne soit pas inclus au moment de la vente. En fin de compte, cette vente n'a pas été conclue et on a laissé le bail prendre fin. M. Caffrey a enlevé et entreposé l'équipement. L'appelant affirme ne pas avoir été informé de l'endroit où se trouvait l'équipement.
+[5] À l'automne 2002, Sandra Shaw, de la Division du recouvrement, Agence des douanes et du revenu du Canada, a communiqué avec l'appelant, avec ce qu'elle a décrit comme [TRADUCTION] « une lettre de proposition préalable à l'établissement d'une cotisation concernant la responsabilité d'un administrateur » et l'appelant a appris que Mme Shaw enquêtait sur le non-versement de la TPS par 839399. Mme Shaw a eu une autre conversation avec l'appelant après avoir établi la cotisation, le 29 avril 2003. L'appelant a alors reconnu avoir reçu la lettre et a fait savoir que même s'il agissait comme administrateur, il n'avait pas pris part aux affaires de l'entreprise et qu'il croyait qu'il n'aurait pas dû faire l'objet d'une cotisation.
+Conclusion
+[6] L'article 227.1 de la Loi de l'impôt sur le revenu est en partie libellé comme suit :
+227.1(1) Lorsqu'une société a omis de déduire ou de retenir une somme, tel que prévu au paragraphe 135(3) ou à l'article 153 ou 215, ou a omis de remettre cette somme ou a omis de payer un montant d'impôt en vertu de la partie VII ou VIII pour une année d'imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s'y rapportant.
+(2) [...]
+(3) Un administrateur n'est pas responsable de l'omission visée au paragraphe (1) lorsqu'il a agi avec le degré de soin, de diligence et d'habileté pour prévenir le manquement qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[7] L'appelant est instruit, puisqu'il est titulaire d'un baccalauréat en sciences en génie chimique et qu'il travaillait en cette qualité à titre d'expert-conseil. Il a également travaillé pendant plusieurs années à la Banque de Montréal. Au cours des 25 années où il s'est occupé de Tryman's, il était responsable de toutes les affaires de l'entreprise. Il ne serait pas exact de qualifier l'appelant d'administrateur initié puisqu'il ne s'occupait pas de la gestion quotidienne de 839399, mais le fait qu'il était le seul administrateur qui avait de l'expérience dans les affaires et en matière financière doit être pris en considération lorsqu'il s'agit de déterminer la norme de soin à laquelle il est logique de s'attendre`de sa part eu égard à ces circonstances. Comme il en a déjà été fait mention, l'appelant a témoigné que, lorsque 839399 a commencé à exercer ses activités, M. Caffrey était chargé de s'occuper de l'entreprise sous tous ses aspects. Il ressort du témoignage de l'appelant que même s'il devait à coup sûr savoir que M. Caffrey n'avait aucune expérience dans le domaine de la gestion, il ne lui a donné absolument aucun conseil et aucune directive et il ne l'a aucunement aidé. Il semble avoir adopté l'attitude suivante :
+[TRADUCTION]
+En fait - s'il y avait un problème, j'en entendais parler. C'est ainsi que je voyais les choses. Si tout allait bien, je n'entendais pas parler du comptable. Je n'entendais pas parler du gouvernement. Je dois supposer [...] comme vous le savez, lorsque l'on dirige son entreprise, c'est difficile, comme vous le savez, d'essayer - si l'on ne fait pas confiance à une personne, on ne traite pas avec elle. C'est ainsi que je vois les choses. Une poignée de mains, et c'est ainsi que je considérais les choses.
+[8] Dans l'arrêt Gordon E. Smith c. La Reine[1], la Cour d'appel fédérale a fait les remarques suivantes :
+[10] L'élément subjectif de la norme de prudence applicable à un administrateur donné dépendra de ses qualités personnelles, y compris ses connaissances et son expérience. En général, une personne expérimentée en affaires ou en questions financières sera tenue à une norme plus élevée qu'une personne qui n'a pas de connaissances ou d'expérience en affaires et dont le statut d'administrateur reflète, par exemple, un simple lien familial. Toutefois, la défense de diligence raisonnable ne sera d'aucune aide à un administrateur qui n'a pas tenu compte des obligations imposées aux administrateurs par la loi, ou qui n'a fait aucun cas d'un problème dont il connaissait l'existence, ou dont il aurait dû connaître l'existence comme toute personne prudente en pareilles circonstances (Hanson c. Canada (2000) 260 N.R. 79, [2001] 4 C.T.C. 215, 2000 DTC 6564 (C.A.F.)).
+[9] En sa qualité d'administrateur de Tryman's et de 839399, l'appelant savait qu'il était notamment tenu de veiller à ce que l'impôt et la TPS appropriés soient versés au gouvernement. L'appelant a admis qu'en ce qui concerne 839399, il aurait fallu tenir des réunions du conseil d'administration, mais en fait les administrateurs ne s'étaient jamais réunis. L'appelant a également témoigné que chez Tryman's, il examinait régulièrement les états financiers et les livres étant donné qu'il estimait en être responsable, mais que pendant les années où 839399 avait exercé ses activités, il n'avait jamais reçu les états financiers ou les projets d'états financiers, et ce qui est encore plus important, il ne les avait jamais demandés. La confiance qu'il avait envers le comptable, M. Rodriguez, était également mal placée en ce sens que les obligations de ce cabinet étaient restreintes.
+[10] Dans l'arrêt Soper v. The Queen[2], la Cour a fait remarquer que l'administrateur n'est pas obligé de consacrer son attention en permanence aux affaires de la société et qu'il n'est même pas tenu d'assister à toutes les réunions du conseil. Toutefois, la Cour a ajouté ce qui suit :
+[...] Malgré ces décisions, il serait absurde de prétendre que la common law resterait figée et permettrait aux administrateurs de se conformer à une norme de passivité et d'irresponsabilité totales. Au risque d'anticiper sur ce qui vient, je tiens à faire remarquer à ce moment-ci qu'on ne peut guère dire que le droit de nos jours pose en principe que moins un administrateur en fait, moins il en sait ou moins il se montre prudent, moins il risque d'être tenu responsable. Par ailleurs, la norme de prudence d'origine législative sera sûrement interprétée et appliquée d'une manière propre à encourager la responsabilité. Par conséquent, l'administrateur qui agit de façon irresponsable, par exemple, en n'assistant pas à toutes les réunions du conseil le fait maintenant à ses risques et périls : voir McCandless (M.W.) c. Canada, [1995] 2 C.T.C. 2111 (C.C.I.). Cela dit, la question de la passivité de l'administrateur devra être réévaluée à la lumière de la norme d'origine législative examinée ci-après.
+En ce qui concerne la norme de soin à laquelle on peut raisonnablement s'attendre de la part d'une personne qui possède des compétences, des connaissances et de l'expérience telles que celles de l'appelant, j'adopte les remarques suivantes que le juge Marceau a faites dans l'arrêt Soper :
+Le paragraphe 227.1(1) tient l'administrateur d'une société responsable de l'omission de sa société de verser les retenues d'impôt et d'autres retenues à la source à l'égard de la rémunération des employés, et le paragraphe 227.1(3) permet à l'administrateur d'échapper à la responsabilité s'il peut démontrer qu'il a exercé un certain degré de soin, de diligence et de compétence pour prévenir ce manquement. Par ces dispositions, le législateur impose, selon moi, à l'administrateur d'une société une obligation entièrement nouvelle, distincte et expresse. Il s'agit d'une obligation envers la Couronne et non envers la société, qui consiste à faire ce qu'il est raisonnablement possible de faire pour prévenir pareil manquement. Je ne peux tout simplement pas imaginer qu'on puisse jamais considérer qu'un administrateur comme l'appelant en l'espèce s'est acquitté d'une telle obligation s'il ne s'est jamais soucié de cette exigence et est demeuré complètement indifférent et passif à cet égard.
+[11] À mon avis, l'appelant, qui connaissait la nature et l'étendue de ses obligations à titre d'administrateur, ne s'est absolument pas acquitté de ces obligations. Par conséquent, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 25e jour de mars 2004.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 31e jour de mars 2005.
+Jacques Deschênes, traducteur
+[1] 2001 CAF 84.
+[2] 97 DTC 5407.

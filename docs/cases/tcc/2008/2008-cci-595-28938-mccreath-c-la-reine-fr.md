@@ -1,0 +1,191 @@
+---
+title: "McCreath c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28938/index.do"
+last_modified: "2008-10-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 595"
+citation2: ""
+neutral_citation: "2008 CCI 595"
+decision_date: "2008-10-30"
+language: "fr"
+item_id: "28938"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1378
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:15:50.163000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e19a134a30788159f32e1131a9db149399fe42d36e2216909d4facc85b8fbe44"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McCreath c. La Reine
+
+- Citation: 2008 CCI 595
+- Decision date: 2008-10-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1378, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCreath c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-30
+Référence neutre
+2008 CCI 595
+Numéro de dossier
+2007-1283(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1283(IT)G
+ENTRE :
+PETER MCCREATH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus sur preuve commune avec l’appel de Peter McCreath (2007‑4645(IT)G) à Halifax (Nouvelle‑Écosse), le 8 octobre 2008.
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Avocat de l’appelant :
+Me P. Robert Arkin
+Avocat de l’intimée :
+Me Martin Hickey
+____________________________________________________________________
+JUGEMENT
+Attendu qu’à l’ouverture de l’audience, l’avocat de l’appelant a appris à la Cour que son client désirait retirer son appel interjeté à l’égard de l’année d’imposition 2005 parce que l’appelant n’avait pas fait l’objet d’une nouvelle cotisation portant sur un avantage imposable pour cette année d’imposition‑là;
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est rejeté.
+Les appels interjetés à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont rejetés, avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 30e jour d’octobre 2008.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 16e jour de décembre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Dossier : 2007-4645(IT)G
+ENTRE :
+PETER MCCREATH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Peter McCreath (2007‑1283(IT)G) à Halifax (Nouvelle‑Écosse), le 8 octobre 2008.
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Avocat de l’appelant :
+Me P. Robert Arkin
+Avocat de l’intimée :
+Me Martin Hickey
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 30e jour d’octobre 2008.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 16e jour de décembre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008 CCI 595
+Date : 20081030
+Dossiers : 2007-1283(IT)G
+2007-4645(IT)G
+ENTRE :
+PETER MCCREATH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Les présents appels ont été interjetés à l’égard de cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2002, 2003 et 2004 de l’appelant. La question est de savoir si l’appelant doit inclure dans le calcul de ses revenus les sommes que son employeur, la Nova Scotia Liquor Corporation (la « NSLC »), lui a versées durant chacune des années d’imposition en cause pour compenser ses déplacements entre son bureau à domicile situé à Hubbards (Nouvelle‑Écosse) et le siège social de la NSLC situé sur la promenade Chain Lake, à Halifax (Nouvelle‑Écosse). Le ministre du Revenu national (le « ministre ») a établi des nouvelles cotisations à l’égard de l’appelant pour inclure ces sommes dans le revenu de l’appelant à titre d’avantages imposables en application du paragraphe 6(1) de la Loi. À l’ouverture de l’audience, l’avocat de l’appelant a retiré l’appel interjeté à l’égard de l’année d’imposition 2005 parce que l’appelant n’avait pas fait l’objet d’une nouvelle cotisation portant sur un avantage imposable pour cette année d’imposition‑là.
+[2] L’appelant a été nommé président de la NSLC en 2001. Il est aussi membre du conseil d’administration de la NSLC. Le siège social de la NSLC est situé sur la promenade Chain Lake, à Halifax. La NSLC y tient un bureau pour l’appelant. La NSLC n’oblige pas l’appelant à avoir un bureau à domicile; toutefois, c’est principalement à partir de son bureau à domicile situé à Hubbards que l’appelant remplit ses fonctions de président de la NSLC. C’est aussi à partir de son bureau à domicile qu’il exploite PMC Communications Inc. (« PMC »), son entreprise principale et sa première source de revenus. Ce bureau a été entièrement équipé par PMC. L’appelant a témoigné qu’il passe environ deux heures par jour à remplir ses fonctions de président de la NSLC à partir de son bureau à domicile. De plus, il se rend au siège social de la NSLC une ou deux fois par semaine, et il y passe environ deux heures par semaine à effectuer des tâches qu’il ne peut pas faire à partir de son bureau à domicile. Lors de ces déplacements, l’appelant rencontre le président‑directeur général et les membres du conseil d’administration, participe à des réunions et signe des documents. Il accomplit environ 70 % de ses tâches de président à partir de son bureau à domicile et il fait un pourcentage moins important de ce travail au siège social de la NSLC ou à des activités de l’industrie tenues dans des brasseries et des établissements vinicoles (10 % au siège social de la NSLC et 20 % à d’autres endroits, pour rencontrer des représentants de l’industrie et des fournisseurs). Comme l’appelant utilise rarement son bureau au siège social de la NSLC, il a dit à la NSLC qu’elle pouvait se servir de son bureau au besoin.
+[3] L’appelant a admis les hypothèses de fait b) à o) posées dans la réponse à l’avis d’appel rédigée par le ministre, hormis les hypothèses e), f), g) et o).
+(1) Pour l’hypothèse e), qui est ainsi rédigée :
+[TRADUCTION]
+l’appelant exerçait ses fonctions de président du conseil d’administration de la NSLC au bureau;
+(à savoir le bureau situé au siège social de la NSLC), l’appelant a nié cette hypothèse et a dit qu’il se servait rarement du bureau mis à sa disposition par la NSLC.
+(2) Pour l’hypothèse f), qui est ainsi rédigée :
+[TRADUCTION]
+pendant toute la période pertinente, l’appelant assistait aux réunions des administrateurs de la NSLC au siège social de la NSLC;
+et pour l’hypothèse g), qui est ainsi rédigée :
+[TRADUCTION]
+pendant toute la période pertinente, l’appelant assistait à des réunions au centre‑ville de Halifax (Nouvelle‑Écosse) dans le cadre de ses fonctions de président du conseil d’administration de la NSLC;
+l’appelant a apporté une réserve à ces deux hypothèses en affirmant avoir assisté à des réunions non seulement au siège social de la NSLC, mais aussi ailleurs, notamment lors d’activités de l’industrie.
+(3) Pour l’hypothèse o), qui est ainsi rédigée :
+[TRADUCTION]
+l’appelant n’a pas déclaré les sommes de 1 201 $ et de 3 332 $, respectivement, dans le calcul de ses revenus pour les années d’imposition 2002 et 2003.
+l’appelant a apporté une réserve en disant qu’il n’avait pas déclaré ces sommes parce qu’il ne considérait pas qu’elles constituaient des revenus.
+[4] Lors de son contre‑interrogatoire, l’appelant a dit que les heures qu’il consacrait dans son bureau à domicile aux activités de sa propre entreprise et celles qu’il consacrait aux activités de la NSLC étaient combinées, et qu’il [TRADUCTION] « faisait ce qu’il y avait à faire au fur et à mesure que le travail se présentait ». L’appelant a aussi expliqué qu’il ne se servait pas de son bureau situé au siège social de la NSLC parce qu’il était trop éloigné de son domicile, le siège social se trouvant à environ 55 kilomètres de chez l’appelant. De plus, il n’était pas obligé de remplir ses fonctions à partir du bureau situé au siège social de la NSLC. Il était plus commode pour l’appelant de travailler à partir de son bureau à domicile.
+[5] L’appelant recevait une allocation de déplacement calculée selon le kilométrage lorsqu’il voyageait entre le siège social de la NSLC et son bureau à domicile. Le litige vient du fait que l’appelant n’ait pas inclus ces sommes dans ses revenus lorsqu’il a produit ses déclarations de revenus pour les années d’imposition en cause. Le ministre soutient que ces sommes constituent des frais personnels ou de subsistance et ont été reçues par l’appelant relativement à sa charge auprès de la NSLC, et non pas pour ses déplacements dans le cadre de ses fonctions à la NSLC.
+[6] L’appelant affirme que son bureau à domicile est le principal endroit où il accomplit ses fonctions de président de la NSLC. Bien que la NSLC mette un bureau à la disposition de l’appelant, ce dernier remplit la plus grande partie de ses fonctions de président à partir de son bureau à domicile, ce qui en fait son lieu de travail habituel pour ces fonctions. Ainsi, les frais engagés par l’appelant se rapportaient à l’utilisation de son véhicule pour se déplacer entre des lieux de travail habituels.
+Analyse
+[7] Il est de jurisprudence constante que les frais engagés par le contribuable pour se déplacer entre son domicile et son lieu de travail constituent des frais personnels et ne sont donc pas déductibles. Le jugement de principe soutenant la position voulant que les frais de déplacement ne soient pas considérés comme ayant été engagés dans le cadre du travail du contribuable est Ricketts v. Colquhoun, [1926] A.C. 1 (U.K. H.L.). La Cour d’appel fédérale a réaffirmé ce principe dans Hogg c. Canada, [2002] 4 C.F. 443.
+[8] La jurisprudence a établi certaines exceptions à ce principe général. Pour soutenir sa position, l’appelant s’est fondé sur deux décisions, Campbell et al. v. The Queen, 2003 DTC 420 et Toutov v. The Queen, 2006 DTC 2928. Toutefois, après avoir examiné ces deux décisions, j’ai noté des différences importantes les distinguant des présents appels.
+[9] Dans l’affaire Campbell, le juge Margeson a conclu que les allocations de déplacement payées aux contribuables qui se rendaient aux réunions d’un conseil scolaire ne constituaient pas des frais personnels, et qu’ils n’avaient donc pas à être inclus dans les revenus en application du paragraphe 6(1) de la Loi. Bien que l’avocat de l’appelant ait mentionné qu’un seul fait différenciait l’affaire Campbell des présents appels, je suis d’avis que ce fait représente une différence fondamentale. Le fait que le conseil scolaire n’ait pas mis de bureau à la disposition des appelants, en leur qualité de membres du conseil, permet de distinguer l’affaire Campbell des présents appels. Quoique le juge Margeson n’ait pas dit qu’il s’agissait là d’un facteur déterminant dans sa décision, il a dit, au paragraphe 9 de son jugement, que le fait que les appelants tenaient un bureau à domicile l’avait beaucoup aidé à trancher la question. De plus, la preuve présentée dans Campbell donne à penser qu’une partie de la résidence des appelants était réservée exclusivement aux activités du conseil scolaire.
+[10] En l’espèce, l’appelant se servait surtout de son bureau à domicile pour l’exploitation de sa propre entreprise, et non pas pour les activités de la NSLC. Le bureau à domicile avait été équipé par l’entreprise de l’appelant et, chose encore plus importante, la NSLC tenait un bureau à la disposition de l’appelant à Halifax.
+[11] De façon similaire, dans l’affaire Toutov, l’employeur ne tenait pas de bureau pour le contribuable. L’employeur exigeait aussi que le contribuable se déplace pour aller rencontrer des clients, mais, parce que l’employeur faisait preuve de souplesse en permettant au contribuable de travailler à partir de chez lui, à Kingston, ce dernier devait assumer ses frais de déplacement lorsqu’il allait rencontrer des clients à Ottawa et à Carleton Place. Dans Toutov, la Cour a conclu que la véritable base d’opérations du contribuable était son bureau à domicile. En l’espèce, la véritable base d’opérations de l’appelant pour les activités de la NSLC n’était pas son bureau à domicile. La NSLC avait aménagé un bureau pour l’appelant. Les réunions du conseil d’administration étaient tenues au siège social de la NSLC, tout comme les rencontres de l’appelant avec le président‑directeur général et les employés. La preuve n’a aucunement montré que la NSLC avait obligé l’appelant à avoir un bureau à domicile. Cette décision appartenait entièrement à l’appelant, qui l’avait prise par souci de commodité. L’appelant passait près de six à sept heures par jour à s’occuper des activités de sa propre entreprise, alors que le temps qu’il réservait aux activités de la NSLC, entre une et deux heures par jour, était combiné avec celui qu’il consacrait aux activités de sa propre entreprise.
+[12] À mon avis, les décisions Campbell et Toutov ne peuvent pas être appliquées à des affaires où, comme dans les présents appels, le contribuable décide de travailler à partir de chez lui alors que l’employeur lui fournit déjà un bureau. Les faits dans Campbell et dans Toutov diffèrent considérablement de ceux qui sont en cause dans les présents appels. À mon avis, il n’est pas pertinent que l’appelant ait permis au personnel de la NSLC d’utiliser son bureau situé au siège social de l’entreprise lorsqu’il n’était pas là et qu’il ait permis à la NSLC de déplacer son bureau dans l’immeuble à trois reprises. Cela n’a aucun rapport avec le fait que l’appelant a choisi de travailler à partir de son bureau à domicile plutôt qu’à partir du bureau que la NSLC lui fournissait à titre de président. Le bureau à domicile de l’appelant ne peut pas être considéré comme un prolongement du bureau situé au siège social de l’employeur, et, par conséquent, on ne peut pas considérer que les frais de déplacement ont été engagés pour voyager d’un lieu de travail à l’autre. Les déplacements de l’appelant étaient faits entre son domicile, où il avait choisi, par souci de commodité, d’accomplir la majorité de ses fonctions de président de la NSLC, et son lieu de travail situé au siège social de la NSLC.
+[13] En résumé, je crois que les décisions Campbell et Toutov ont établi certaines exceptions au principe général voulant que le contribuable ne puisse pas déduire les frais de déplacement engagés pour voyager entre son domicile et son lieu de travail, ou vice versa (voir Ricketts et Hogg, précitées). Cependant, je ne crois pas que ces exceptions s’appliquent au contribuable qui choisit librement de remplir une partie ou la totalité de ses fonctions ailleurs qu’à son véritable lieu de travail. En l’espèce, c’est uniquement par souci de commodité que l’appelant a choisi d’accomplir la majorité de ses fonctions de président à partir de son bureau à domicile plutôt qu’à partir du bureau situé au siège social de la NSLC, et, heureusement pour l’appelant, la NSLC ne lui a pas imposé de contrainte à cet égard.
+[14] Les appels interjetés à l’égard des années d’imposition 2002, 2003 et 2004 sont rejetés, avec dépens, car c’est à bon droit que le ministre avait conclu que les sommes versées par la NSLC durant chacune de ces années d’imposition constituaient des avantages imposables conformément au paragraphe 6(1) de la Loi.
+Signé à Ottawa, Canada, ce 30e jour d’octobre 2008.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 16e jour de décembre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008 CCI 595
+Nos DES DOSSIERS DE LA COUR :
+2007-1283(IT)G; 2007-4645(IT)G
+INTITULÉ :
+Peter McCreath et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE :
+Le 8 octobre 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 30 octobre 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me P. Robert Arkin
+Avocat de l’intimée :
+Me Martin Hickey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me P. Robert Arkin
+Cabinet :
+Cox & Palmer, Halifax (Nouvelle‑Écosse)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,149 @@
+---
+title: "Penate v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/482748/index.do"
+last_modified: "2020-07-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 63"
+citation2: ""
+neutral_citation: "2020 TCC 63"
+decision_date: "2020-07-20"
+language: "en"
+item_id: "482748"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4592
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:07:49.169000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9f6066af4fe2d39802bc886252a9dc3f6e5d656497de7cc1c4dbc11a3697b177"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Penate v. The Queen
+
+- Citation: 2020 TCC 63
+- Decision date: 2020-07-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4592, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Penate v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-07-20
+Neutral citation
+2020 TCC 63
+File numbers
+2017-612(GST)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2017-612(GST)G
+BETWEEN:
+KARLA PENATE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 10, 2020, at Vancouver, British Columbia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+Guadalupe Sibrian
+Counsel for the Respondent:
+Karen Truscott
+JUDGMENT
+The appeal, made under Part IX of the Excise Tax Act, with respect to Notice of Assessment No. 3492985, dated October 27, 2015, is allowed, with costs to the Appellant, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Summerside, Prince Edward Island, this 20th day of July 2020.
+“Diane Campbell”
+Campbell J.
+Citation: 2020 TCC 63
+Date: 20200720
+Docket: 2017-612(GST)G
+BETWEEN:
+KARLA PENATE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] This appeal is in respect to a Notice of Assessment dated October 27, 2015 in which the Minister of National Revenue (the “Minister”) assessed the Appellant as a director of Delphina Enterprises Ltd. (the “Company”) for unremitted net GST/HST, plus penalty and interest, for the reporting periods from January 1, 2010 to December 31, 2012 (the “Period”).
+[2] The Company was incorporated on May 20, 2008. The Appellant was its sole director and shareholder. In an otherwise male-dominated industry, she was the only female owner of a roofing company in Canada at this time. According to the evidence, she was involved with the daily hands-on activities of the actual roofing (…“I was on the roof…” [Transcript, page 15]), in addition to training employees and dealing with customers. Almost immediately after commencing her business activities, the Appellant engaged the services of Guadalupe Sibrian as the general office manager. One of the first things Ms. Sibrian did was to advise the Appellant to hire an outside accountant to ensure that proper accounting practices were in place. Hernandez Financials was hired in 2008 to set up the books and to complete annual income tax and GST/HST returns. That firm completed these returns until 2011. Ms. Sibrian testified that she met with the outside accountant two or three times a year to ensure she was completing the books properly.
+[3] The issue of GST/HST remittances became a problem and came to light in August 2010 when Ms. Sibrian noticed that $8,000 had been removed from the Company account by Canada Revenue Agency (“CRA”). According to the evidence, many of the corporate contracts were stalled because the Company could not meet payroll obligations. The Appellant approached some of her trusted employees who agreed to continue working without pay until such time as the Company could generate a cash-flow again by collecting some of its outstanding accounts. At this time in 2010, Ms. Sibrian made enquiries with Business Plans Canada [Exhibit A-1] and drafted a business plan for the Company. She also completed online bookkeeping training to assist in properly managing the office [Exhibit A‑2)].
+[4] In early 2011, the outside accounting firm advised the Appellant and Ms. Sibrian that there were GST deficiencies in respect to 2010. At this point, they decided to hire a full-time bookkeeper, Dawn Eyben. Ms. Eyben was hired because she had over 20 years of experience managing multiple businesses, particularly in the roofing industry where she dealt with estimates, pricing and account collections. According to the evidence, she was hired specifically to address the issue of GST remittances.
+[5] Ms. Sibrian testified that she maintained constant communication with Ms. Eyben respecting the remittances and according to the records, the Company should have been able to meet its annual filing obligations. However, as both the Appellant and Ms. Sibrian testified, Ms. Penate was forced to deal with harassment from some of the contractors, who withheld payment from the Company for a roofing job the Company had completed as a subtrade, while demanding that she meet sexual favours ranging from a kiss, to a date, to a marriage proposal. Even where payment, in some cases, was eventually received, it impacted the business activities and created cash-flow problems in the interim. Some of the money was never collected. Ms. Penate could no longer go to locations, some of them remote, to complete the estimates herself due to the ongoing sexual overtures by contractors. She initially brought her brother on board as an estimator but, due to discrimination from some homeowners where, for example, crews were not permitted to use a home’s outside hoses to obtain water, a Caucasian estimator had to be hired.
+[6] It appears from the evidence that, although one of the bookkeeper’s responsibilities was to attend to collection of contract payments on time, those efforts were continuously frustrated with the ongoing sexual harassment and discrimination. At this time, Ms. Sibrian testified that she pursued the idea of having payments made to the Company at the job site rather than sending invoices and waiting for payment [Exhibit A-3]. However, when the cost quoted to implement this program was in the thousands of dollars, she testified that the decision was made to make payments to CRA instead.
+[7] Both the Appellant and Ms. Sibrian pursued the possibility of the Company doing its own marketing and contracting rather than acting as a subcontractor [Exhibit A-5] in order to avoid the delayed and, in some instances, the non-payment of contract money owed to the Company. They pursued the cost involved in this as well as the cost of doing CTV advertising [Exhibit A-6] but the cost was again prohibitive. Ms. Sibrian testified that “…if we’re going to spend money or invest money in having an ad, she preferred that we would rather submit that money to CRA instead, instead of going with the ad production.” [Transcript, page 36]. They also met with a female developer of a company to get advice on how the Appellant could circumvent the harassment from other contractors and get paid for the work [Exhibit A-7].
+[8] According to the evidence, they were in constant communication with CRA about the steps that they were taking to deal alternatively with the harassment and discrimination issues, but that they never diverted revenue to operate the business activities. At page 77 of the transcript, Ms. Sibrian stated:
+… And at that time when I was trying to come up with a payment arrangement with CRA I also communicated with her about the steps. ‘Cause they always ask you what steps are you doing to make those payments. So I told her about this and what she said is that if we were going to be making payments for something like this then it would mean that we should be making payments towards CRA instead.
+[9] Ms. Sibrian testified that the Company also attempted an alliance with another contractor, Len Meyer, whom they met at a marketing event [Exhibit A‑8]. Although the Company completed a roofing job for him, he refused to pay and instead alleged that the Company owed him money. When asked on cross-examination about the money that was owed to him, Ms. Sibrian responded, “Well, but we are the subtrade. How come we owe him money when we’re doing the roof for him, for his client that he signed the contract for? That’s why I’m saying that these items are fictitious…” [Transcript, page 81]. Although the Appellant went to the owner of the home to advise she had not been paid by Mr. Meyer for the work on the home, the Company was never paid for the roofing job, in the approximate amount of $20,000, nor for the additional cost of materials that were used.
+[10] Ms. Sibrian testified that throughout the Period, she was in constant communication with CRA. When there were funds available to make a payment, the Company did so rather than pursue other avenues. Because some of the accounts could not be collected, she repeatedly asked CRA for a summary of the payments made throughout 2010 to 2012, but the Company was provided only with its assessment. The corporate bank statements were not produced in Court because the Company, along with the records, had been transferred to the Appellant’s brother.
+[11] Since the Company could not collect on many of its subcontracts, the decision was made to cut payroll costs and the bookkeeper was released from her employment. To replace Ms. Eyben, the decision was made to hire a UBC business student [Exhibit A-10]. In addition, the Appellant had unsuccessfully sought loans to pay CRA from both RBC and Vancity Credit Union [Exhibits A‑11 and A-12].
+[12] After 2011, Ms. Sibrian telephoned CRA on the Appellant’s behalf, requesting that the remittances be done quarterly as opposed to annually as a means of keeping remittances current, but this request was denied. Also in 2011, the then bookkeeper, Ms. Eyben, had suggested that the Company open a separate account for GST amounts. Ms. Sibrian, who had signing authority on behalf of the Company, followed this advice, immediately met with an RBC account manager and opened a separate account. Ms. Sibrian’s evidence was that they made numerous proposals to CRA, in respect to payment arrangements for these GST/HST remittances, but CRA refused and advised that the entire amount had to be paid. Despite this, Ms. Sibrian testified that payments were made even though there were no documents to support this. She maintained that she made many requests for CRA to provide a summary of these payments, but to no avail.
+[13] Throughout mid-2012 and 2013, the Appellant and Ms. Sibrian were fortunate to be dealing with only one collections officer, Brianna Westhaver, rather than a succession of different officers. Toward the end of 2013, the Company secured a “very large job” but “It didn’t happen. As the contractor refused to pay her because she would not agree to give him a French kiss.” [Transcript, page 44]. At this point, Ms. Penate was not prepared to continue with the ongoing sexual harassment and approached her brother to take the business over and, in return, he would be responsible for the GST/HST remittances. Her brother invested $40,000 into the business with the knowledge of the collections officer, Ms. Westhaver, and Ms. Penate resigned as director on November 1, 2013 [Exhibit A-13]. Ms. Sibrian stated that she and the Appellant were in constant communication with the collections officer during the transfer of ownership. She submitted a letter dated June 20, 2013 from Ms. Westhaver [Exhibit A-14] which requested additional financial information from the Company. Ms. Sibrian stated that this information was sent to Ms. Westhaver and that she agreed to allow the injection of funds into the Company, provided Ms. Sibrian continued with the Company to act as the liaison with CRA to ensure remittances were made. By June of 2014, the Appellant’s brother had secured a large contract but the CRA officer changed and, according to Ms. Sibrian’s evidence, Sarah Nelson, the new CRA officer assigned to the case, refused to abide by the agreement that Ms. Sibrian and Ms. Westhaver, the former collections officer, had reached. Consequently, Ms. Nelson seized the corporate accounts in 2015, effectively forcing the Company to close its doors.
+Analysis
+[14] The sole issue in this appeal is whether Ms. Penate, as the sole director of the Company, is liable for the unremitted net GST/HST, plus penalty and interest. Since the Appellant was a director in the relevant time period, as she had not ceased to be a director within the two-year Period, and also the underlying corporate debt was not directly challenged, the issue of her liability as a director focussed solely on whether she could successfully rely on a due diligence defence under subsection 323(3) of the Excise Tax Act (the “Act”), which is almost identical to its companion section, 227.1 of the Income Tax Act.
+[15] The relevant legislative provision states:
+323. (3) Diligence (due diligence defence) – A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+However, it is clearly the intention of Parliament that a director’s liability not be one of absolute liability.
+[16] If the Appellant is to rely on the defence set out in this provision, she must establish that she has turned her attention to the GST/HST remittances and that she exercised a duty of care, diligence and skill with a view to preventing a failure by the Company to remit these amounts. (Canada v. Buckingham, 2011 FCA 142, 2011 DTC 5078, at para 40). The Federal Court of Appeal in Buckingham stated that the standard of care, skill and diligence required under subsubsection 323(3) is the objective standard as set out by the Supreme Court of Canada in Peoples Department Stores Inc. (Trustee of) v. Wise, 2004 SCC 68, [2004] 3 SCR 461. The Federal Court of Appeal, relying on paragraph 62 of this Supreme Court decision, stated:
+[39] An objective standard does not however entail that the particular circumstances of a director are to be ignored. These circumstances must be taken into account, but must be considered against an objective “reasonably prudent person” standard. …
+[17] The emphasis under subsection 323(3) of the Act is the prevention of failures to remit and “not to condone it in the hope that matters can be rectified subsequently.” (Buckingham, at paragraph 49). “What is required is that the directors establish that they were specifically concerned with the tax remittances and that they exercised their duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts.” (Buckingham, at paragraph 52).
+[18] There has also been a recognition, that in certain exceptional circumstances, a director may still establish the defence of due diligence where the business is carried on knowing a failure to remit may be likely (Worrell v The Queen, 52 DTC 1783). In Worrell, the bank exercised de facto control over the company’s finances, effectively preventing payment of the remittances. It is my view that this appeal contains “certain exceptional circumstances and facts” which allow me to conclude that Ms. Penate may avail herself of the due diligence defence. This was not a case where the Appellant simply carried on the roofing operations hoping that the Company’s fortunes would see a reversal if the economy turned around. There was nothing in the facts before me to suggest that this Company was not busy with roofing contracts or that it was operating in an unfavourable economy. The problems that this Company was encountering revolved around sexual harassment and racial discrimination. Both Ms. Penate and her office manager, Ms. Sibrian, attempted to deal with and circumvent these issues head on. This was an entirely male-dominated industry across Canada until Ms. Penate commenced her business. There is no evidence that any GST/HST remittances were diverted to assist with the business activities. It was simply a matter of not being able to collect from many contractors as a female-run subtrade unless Ms. Penate agreed to return sexual favours for payment of the Company’s completed subcontracts.
+[19] Both witnesses were believable and credible, particularly Ms. Sibrian, who was thorough and well-prepared in providing her testimony. She had nothing to gain if this appeal was allowed. There were no witnesses called to refute any of the evidence which they gave and it remained unchallenged in cross-examination. An outside accountant was engaged almost immediately to complete income tax and GST/HST returns. After several years, when the Company began to fall behind with remittances, an experienced office manager was hired to provide more hands‑on with the accounting and, particularly, to attempt to collect on the accounts where contractors refused to pay unless sexual favours were provided. She had 20 years of experience in the roofing business in the areas of expertise for which she was hired. When she was not successful in collecting, a UBC student was hired to replace her and limit expenditures. A male Caucasian estimator was hired to address both the discrimination issue as well as the harassment problems so that Ms. Penate would not have to attend remote business locations to meet some of these contractors. At one point, when CRA took $8,000 from the corporate account prior to the annual due date of the remittance, Ms. Penate successfully obtained an agreement from her employees to wait for a period of time before they would be paid so that monies could be available for remittances. Both witnesses testified that remittances were always a top priority and that they were in constant communication with CRA officials throughout the Period. They pursued loans to deal with remittances at two different lending institutions but were refused. They made advertising and marketing enquiries but the decision was made to pay remittances with available funds rather than funneling those amounts into the business.
+[20] The facts support that Ms. Penate’s first priority was directed at remittances. Choices that may have benefitted the business were not pursued so that funds could be directed toward remittances. Due to the exceptional facts involving both sexual harassment and discrimination, the Company could not collect on key contracts. There was no evidence that revenue had been collected and directed elsewhere to keep the Company financed and operational. Consequently, the defence of due diligence pursuant to subsection 323(3) of the Act is available to Ms. Penate in light of my findings of fact.
+[21] The appeal is allowed with costs to the Appellant.
+Signed at Summerside, Prince Edward Island, this 20th day of July 2020.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2020 TCC 63
+COURT FILE NO.:
+2017-612(GST)G
+STYLE OF CAUSE:
+KARLA PENATE and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+February 10, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+July 20, 2020
+APPEARANCES:
+Agent for the Appellant:
+Guadalupe Sibrian
+Counsel for the Respondent:
+Karen Truscott
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,171 @@
+Title: Lequin c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26066/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-817-26066-lequin-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2004-12-21
+
+# Lequin c. M.R.N.
+
+- Citation: 2004 TCC 817
+- Decision date: 2004-12-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4061, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lequin c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-21
+Neutral citation
+2004 TCC 817
+File numbers
+2004-1906(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-1906(EI)
+BETWEEN:
+BENOÎT LEQUIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ALUMINIUM KNOWLTON INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on November 25, 2004, at Montreal, Quebec
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Agathe Cavanagh
+Agent for the Intervener:
+Diane Racicot
+JUDGMENT
+The appeal is allowed and the Minister's decision is amended in accordance
+with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 21st day of December 2004.
+" S.J. Savoie "
+Savoie D.J.
+Translation certified true
+on this 9th day of March 2005.
+Colette Dupuis-Beaulne, Translator
+Citation: 2004TCC817
+Date: 20041221
+Docket: 2004-1906(EI)
+BETWEEN:
+BENOÎT LEQUIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent,
+and
+ALUMINIUM KNOWLTON INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] This appeal was heard at Montreal, Quebec on November 25, 2004.
+[2] The case involves an appeal regarding the insurability of the Appellant's employment while in the service of Aluminium Knowlton Inc., the Payer, for the period from October 1, 2001, to May 3, 2003 (the period at issue).
+[3] On January 28, 2004, the Minister of National Revenue (the "Minister") informed the Appellant of his decision to the effect that the Appellant had not held insurable employment during the period at issue.
+[4] However, in his Reply to the Notice of Appeal, the Minister acknowledged that the Appellant did hold insurable employment for the period from October 1, 2001, to March 8, 2003, but that his employment for the period from March 9 to May 3, 2003, was not insurable. Therefore the only period now at issue is that of March 9 to May 3, 2003.
+[5] For this reduced period at issue, the Minister contends that the Appellant's employment was not insurable under subsections 5(2)(i) and 5(3) of the Employment Insurance Act (the "Act"), because he was satisfied that it was not reasonable to conclude, given the circumstances, that the Appellant and the Payer would have entered into a substantially similar contract of
+employment if they had been dealing with each other at arm's length.
+[6] In rendering his decision, the Minister relied on the following
+assumptions of fact:
+a) The Payer is a general contractor; (admitted)
+b) He owns a business that sells and installs windows, doors, and aluminum siding; (admitted)
+c) The business operates year-round, but there is more business from spring to fall; (admitted)
+d) For the fiscal years ending May 31, 2002 and 2003, the Payer's sales were, respectively, approximately $1.4 million and $1.9 million; (admitted)
+e) The Payer had about thirty different employees each year; (denied)
+f) During the period at issue, the Appellant worked for the Payer as a salesperson; (denied)
+g) The Appellant met with clients, collected information about the work to be done, estimated costs, and prepared the bids; (denied)
+h) He worked on the road and at the Payer's office; (admitted)
+i) He worked from 48 to 50 hours per week; (admitted)
+j) The Appellant used his own automobile for travelling; (admitted)
+k) The Payer paid him a travel allowance of 41 ¢ per kilometre for the first 5,000 kilometres and 35 ¢ [sic] for any distance exceeding that; (denied)
+l) The Appellant received fixed remuneration per week; (denied)
+m) From October 1, 2001, to November 30, 2002, the Appellant received $465.00 per week; (admitted)
+n) From December 1, 2002, to March 8, 2003, the Appellant received $515.00 per week; (admitted)
+o) From March 9 to April 19, 2003, the Appellant received $900.00 per week; (admitted)
+p) From April 20 to 26, 2003, the Appellant received $950.00; (admitted)
+q) From April 27 to May 3, 2003, the Appellant received $900.00; (admitted)
+r) He was remunerated only for 44 hours of work per week; (admitted)
+s) Any hours worked during the week exceeding 44 hours were banked; (admitted)
+t) The Appellant used his banked hours to take paid vacations. (admitted)
+[7] In his testimony during the hearing, the Appellant stated that he was a representative of the Payer, rather than simply a salesperson, and that in addition to the duties acknowledged by the Minister, he also did work planning, placed orders for merchandise, prepared team plans, ensured that work was completed, and was in charge of invoicing and verifying the work. He stated that his travel allowance was 41 ¢ per kilometre for the first 3,500 kilometres and 35 ¢ for any distance exceeding that.
+[8] He also stated that the weekly payment that he received was only a small advance on his real income which would later be adjusted based on his initial agreement with the Payer, whereby he would receive a share of the profits as per the agreement. However, this agreement was not produced at the hearing, except through the testimonies of the Appellant and of Diane Racicot, vice-president of the Payer, and Exhibit A-1 titled "bonus calculation." Perhaps it should be concluded, then, that these additional payments made to the Appellant during the period at issue that immediately preceded his departure were not his salary, but rather his income based on his share of the profits according to the Payer's financial statements, which show the profit from the Payer's operations as at May 31, 2003.
+[9] The Payer's financial statements were not produced. They could have enlightened this Court on the basis for the agreement between the Appellant and the Payer, the period covered by the bonus calculation, the explanation for the percentage of profit calculation, the Appellant's role in the Payer's business, and several other unanswered questions.
+[10] The oral testimony suggested that the additional payments made to the Appellant were commission payments, but Exhibit A-1 shows a bonus or profit sharing. It becomes difficult to reconcile the Appellant's request with the facts presented with respect to the payments made to the Appellant. These facts sometimes show a salary, sometimes a commission, and sometimes a bonus or profit sharing.
+[11] In making his decision, the Minister relied on paragraphs 5(1)(a) and 5(2)(i) and subsections 5(3) and 93(3) of the Act.
+[12] Subsection 5(1) of the Act reads in part as follows:
+Subject to subsection (2), insurable employment is:
+a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[...]
+[13] Subsections 5(2) and (3) of the Act are worded in part as follows:
+(2) Insurable employment does not include:
+[...]
+i) employment if the employer and employee are not dealing with each other at arm's length.
+[...]
+(3) For the purposes of paragraph (2)(i),
+a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[14] The Federal Court of Appeal has set out the principles of application to resolve the issue submitted to this Court in Légaré v. Canada(Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878. The following is an excerpt:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+Remuneration
+[15] Beginning March 2003, a few months before his employment ended, the Appellant's salary almost doubled, rising from $550 per week to $900. The explanations provided by the Appellant, by Diane Racicot, and by Exhibit A-1 did not help explain exactly what happened between the Appellant and the Payer, for the reasons listed above. The Minister chose to ignore these ambiguous and contradictory explanations, and concluded that a stranger would never have received such treatment, namely, a doubled salary a few months before his employment ended.
+Terms and conditions of employment
+[16] The Appellant admitted that the hours that he worked in a week exceeding 44 hours were banked, and that he used his banked hours to take paid vacations. This is certainly another explanation for the Minister's decision.
+Duration of work
+[17] The Appellant admitted that the Payer's business operated year-round, but that there was more business from spring to fall. This does not explain why the Appellant was hired on October 1, 2001, just at the beginning of the business's slack period, and why his employment ended at the beginning of May, when, logically, the business's busy season was beginning.
+Nature and importance of the work
+[18] It must be admitted that the Appellant's job was necessary and important for the Payer's business and was fully integrated into its operations.
+[19] The onus was on the Appellant to prove that the Minister's presumptions were incorrect. His attempts to do so failed.
+[20] After analyzing the evidence submitted, in light of the case law, particularly in Légaré v. Canada, supra, this Court must conclude that the Minister's decision still seems reasonable, given that the facts he relied on are real and were correctly assessed having regard to the context in which they occurred.
+[21] Accordingly, I find that the Appellant's employment during the period of March 9 to May 3, 2003, is not insurable, because it is not reasonable to conclude, given all the circumstances, that the Appellant and the Payer would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[22] The appeal is allowed and the Minister's decision is amended, since he recognized in his Reply to the Notice of Appeal that the Appellant did hold insurable employment for the period from October 1, 2001 to March 8, 2003.
+Signed at Grand-Barachois, New Brunswick, this 21st day of December 2004.
+" S.J. Savoie "
+Savoie D.J.
+Translation certified true
+on this 9th day of March 2005.
+Colette Dupuis-Beaulne, Translator
+CITATION:
+2004TCC817
+COURT FILE NUMBER:
+2004-1906(EI)
+STYLE OF CAUSE:
+Benoît Lequin v. M.R.N. and Aluminium Knowlton Inc.
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+November 25, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable S.J. Savoie, Deputy Judge
+DATE OF JUDGMENT:
+December 21, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+For the Respondent:
+Agathe Cavanagh
+For the Intervener:
+Diane Racicot (agent)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervener:

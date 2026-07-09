@@ -1,0 +1,165 @@
+Title: Casolino c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/484810/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-99-484810-casolino-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-09-03
+
+# Casolino c. La Reine
+
+- Citation: 2020 CCI 99
+- Decision date: 2020-09-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4561, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Casolino c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-09-03
+Référence neutre
+2020 CCI 99
+Numéro de dossier
+2015-5214(GST)G
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2015-5214(GST)G
+ENTRE :
+JANICE CASOLINO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 24 août 2020, à Toronto (Ontario)
+Devant : L’honorable juge Ronald MacPhee
+Comparutions :
+Avocats de l’appelante :
+Me Charles Haworth
+Me Jeffrey Radnoff
+Avocat de l’intimée :
+Me Tony Cheung
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie le 13 octobre 2013, aux termes du paragraphe 325(1) de la Loi sur la taxe d’accise, est accueilli et l’affaire est renvoyée au ministre du Revenu national pour nouvelle cotisation; il sera tenu compte du fait que le manque à gagner en contrepartie du transfert du bien situé au 7850 Sixteenth Sideroad, canton de King, en Ontario (le bien), n’était que de 11 354 $, cette somme correspondant au solde entre, d’une part, la moitié (196 147 $) de la juste valeur marchande du bien appartenant à M. Edlpidio Casolino et, d’autre part, la créance hypothécaire (184 793 $) assumée par l’appelante pour le remboursement de la ligne de crédit de JEMM.
+L’intimée devra verser les dépens à l’appelante conformément au tarif établi.
+Signé à Ottawa, Canada, ce 3e jour de septembre 2020.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+ce 10e jour de février 2021.
+François Brunet, réviseur
+Référence : 2020 CCI 99
+Date : 20200903
+Dossier : 2015-5214(GST)G
+ENTRE :
+JANICE CASOLINO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge MacPhee
+[1] Le présent appel concerne une cotisation établie le 13 octobre 2013, aux termes du paragraphe 325(1) de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15, et ses versions subséquentes (la Loi).
+[2] La cotisation a été établie après que M. Edlpidio Casolino (M. Casolino) eut transféré à l’appelante la moitié de sa participation dans le foyer conjugal, alors que M. Casolino avait une dette fiscale de 69 174,90 $. L’appelante était la conjointe de M. Casolino au moment du transfert et elle l’est toujours.
+I. FAITS
+[3] Deux personnes ont témoigné lors du procès, l’appelante et son époux. La grande majorité des faits pertinents en l’espèce sont constants. Divers documents concernant l’hypothèque souscrite sur le foyer conjugal ont été acceptés par les parties et ont été déposés comme preuve de la véracité de leur contenu.
+[4] L’appelante et son époux sont mariés depuis 40 ans. Ils ont trois enfants. Durant les années en cause, les parties résidaient au 7850 Sixteenth Sideroad, canton de King, en Ontario (le bien). Jusqu’à la date du transfert, le 11 février 2003, le titre de propriété du bien était détenu conjointement par les parties. La valeur non controversée du bien en date du 11 février 2003 était de 630 000 $.
+A. Créance en cause :
+[5] M. Casolino était l’unique propriétaire de la société 706177 Ontario Inc. faisant affaire sous le nom de JEMM Painting (JEMM), une entreprise commerciale de peinture. Afin de pouvoir exploiter son entreprise, M. Casolino avait besoin d’une ligne de crédit, qu’il a obtenue de la Banque de Montréal (la BMO). Selon les éléments de preuve présentés au procès, la responsabilité du remboursement de la ligne de crédit incombait d’abord à JEMM et, en cas d’incapacité de paiement, la responsabilité de la dette incombait ensuite à M. Casolino. Comme M. Casolino était l’unique propriétaire de JEMM, et que cet élément de preuve n’a pas été contesté par l’intimée, je conclus qu’il en était ainsi.
+[6] Le 15 décembre 1999, une deuxième hypothèque (la deuxième hypothèque) d’une somme de 125 000 $ a été enregistrée sur le titre de propriété du bien. Cette hypothèque a été souscrite pour garantir le paiement de la ligne de crédit d’exploitation de JEMM. Le 25 août 2000, le montant de la deuxième hypothèque a été augmenté à 192 500 $. Là encore, cette hypothèque a été contractée uniquement au nom de l’entreprise commerciale de peinture JEMM. Les deux parties ont de nouveau confirmé que le remboursement de la ligne de crédit majorée était d’abord la responsabilité de JEMM, puis celle de M. Casolino. Cet emprunt a lui aussi été souscrit auprès de la BMO.
+[7] Malheureusement, JEMM, puis M. Casolino, ont été incapables de payer les sommes exigibles aux termes de la ligne de crédit. La BMO a insisté pour que la ligne de crédit soit remboursée avant février 2003. Les deux parties ont déclaré durant leur témoignage que cette demande de la BMO leur avait causé beaucoup de stress. À cette somme s’ajoutaient également les pénalités découlant du prêt, ce qui n’a fait qu’accroître leur stress.
+[8] Les parties ont donc fait appel à un courtier hypothécaire, dans l’espoir de souscrire une nouvelle hypothèque qui permettrait notamment de rembourser la ligne de crédit à BMO. Le 6 février 2003, le bien a été réhypothéqué pour la somme de 422 500 $.
+[9] Dans le cadre de ce nouvel accord de prêt, le foyer conjugal a été transféré au seul nom de l’appelante. Ce transfert s’est fait le 11 février 2003. Durant leur témoignage, les parties ont déclaré que ce transfert était une exigence de la banque. Le nouvel emprunt a été souscrit auprès de Firstline Mortgage. Je ferai référence à ces deux événements comme formant une série unique de transactions, plus précisément la transaction du 6 février 2003.
+[10] Le transfert du bien a mené à une cotisation à l’égard de l’appelante, précisément parce que M. Casolino avait transféré sa part du foyer conjugal à son épouse alors qu’il avait une dette envers l’Agence du revenu du Canada. La seule question soulevée par les parties durant l’instruction était de savoir si l’appelante a payé une contrepartie pour le transfert du bien et, le cas échéant, à combien s’élevait cette contrepartie.
+II. DISCUSSION
+[11] Ainsi qu’il a été signalé, la seule question que doit trancher notre Cour est de savoir si, au moment du transfert du bien à l’appelante, la juste valeur marchande (JVM) du bien transféré était supérieure à la juste valeur marchande de la contrepartie payée par l’appelante.
+[12] Le paragraphe 325(1) de la Loi se lit comme suit :
+Transfert entre personnes ayant un lien de dépendance 325 (1)
+La personne qui transfère un bien, directement ou indirectement, par le biais d’une fiducie ou par tout autre moyen,
+à son époux ou conjoint de fait ou à un particulier qui l’est devenu depuis,
+à un particulier de moins de 18 ans
+ou à une personne avec laquelle elle a un lien de dépendance,
+est solidairement tenue, avec le cessionnaire, de payer en application de la présente partie le moins élevé des montants suivants :
+a) le résultat du calcul suivant :
+A - B
+où
+A représente l’excédent éventuel de la juste valeur marchande du bien au moment du transfert sur la juste valeur marchande, à ce moment, de la contrepartie payée par le cessionnaire pour le transfert du bien,
+B l’excédent éventuel du montant de la cotisation établie à l’égard du cessionnaire en application du paragraphe 160(2) de la Loi de l’impôt sur le revenu relativement au bien sur la somme payée par le cédant relativement à ce montant;
+b) le total des montants représentant chacun :
+(i) le montant dont le cédant est redevable en vertu de la présente partie pour sa période de déclaration qui comprend le moment du transfert ou pour ses périodes de déclaration antérieures,
+(ii) les intérêts ou les pénalités dont le cédant est redevable à ce moment.
+Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédant découlant d’une autre disposition de la présente partie [1] .
+[13] Il s’agit donc premièrement de déterminer la juste valeur marchande de la contrepartie payée par l’appelante, le cas échéant, pour le transfert en son nom de la part que détenait son époux dans le domicile familial, qui était auparavant la propriété conjointe du couple.
+[14] Pour établir la cotisation à l’égard de l’appelante, le ministre a initialement estimé que l’appelante n’avait payé aucune contrepartie dans le cadre de cette transaction. Durant l’instruction, l’intimée a fait valoir que la juste valeur marchande du bénéfice réalisé par l’appelante dans le cadre de cette transaction pouvait être calculée comme suit :
+Juste valeur marchande du domicile 630 000 $
+Prêt hypothécaire conjoint 237 706 $
+Ligne de crédit d’entreprise 184 793 $
+Capitaux propres dans le domicile 196 147 $
+Par conséquent, la moitié des capitaux propres transférés par M. Casolino à l’appelante s’élevait à 98 073,50 $. Comme cette somme est supérieure à la dette fiscale de M. Casolino (69 174,90 $), l’appel devrait être rejeté.
+[15] Je ne suis pas de cet avis. Dans son calcul, l’intimée affecte la moitié de la dette de JEMM à l’appelante. Même s’il ne fait aucun doute que cette créance a été garantie par la souscription d’une hypothèque sur le bien, les faits ne corroborent pas cette affectation.
+[16] Pour examiner cette transaction, j’estime qu’il est très utile de comparer la situation financière de l’appelante, avant et après la transaction du 6 février 2003.
+[17] Telle était la situation de l’appelante au moment de la transaction :
+Juste valeur marchande du domicile 630 000 $
+Prêt hypothécaire conjoint 237 706 $
+Ligne de crédit d’entreprise 184 793 $
+Capitaux propres dans le domicile 207 501 $
+[18] Il convient de noter que la responsabilité de la créance de 184 793 $ incombait d’abord à JEMM, puis à M. Casolino. Eu égard aux éléments de preuve présentés durant l’instruction, il serait erroné de réduire la propriété de l’appelante dans le domicile familial en raison de la dette de JEMM, alors que BMO avait garanti cette créance en grevant le bien d’une hypothèque. Il ressort donc des éléments de preuve donc que la participation de l’appelante dans le domicile au début de la transaction se chiffrait à 196 147 $ [2] .
+[19] Deux événements clés se sont produits dans le cadre de la transaction du 6 février 2003. Premièrement, M. Casolino a transféré au nom de l’appelante le bien qui était auparavant la propriété conjointe du couple. Deuxièmement, l’appelante a assumé l’entière responsabilité du remboursement de la ligne de crédit de l’entreprise. Le transfert, à l’appelante, de la responsabilité du prêt consenti à JEMM n’a bénéficié qu’à M. Casolino. Je note par ailleurs que la part que M. Casolino possédait dans le domicile familial, avant que le bien soit réhypothéqué, lui aurait fourni des capitaux propres suffisants pour rembourser cette somme.
+[20] À la suite de cette transaction, la situation globale de l’appelante était comme suit :
+Juste valeur marchande du domicile 630 000 $
+Hypothèque, uniquement au nom de l’appelante 422 500 $
+Capitaux propres dans le domicile 207 500 $
+[21] Par conséquent, à la suite des transactions conclues avec son époux, aux termes desquelles l’appelante devenait responsable des dettes de JEMM et obtenait la part que son époux détenait dans le domicile familial, l’appelante a payé une contrepartie de 184 793 $, en assumant personnellement la responsabilité de l’emprunt souscrit par JEMM. L’appelante a obtenu en retour la part que détenait son époux dans le domicile familial.
+III. CONCLUSION
+[22] L’appel est accueilli et l’affaire est renvoyée au ministre du Revenu national pour nouvelle cotisation; il sera tenu compte du fait que le manque à gagner en contrepartie du transfert du bien n’était que de 11 353 $, cette somme correspondant au solde entre, d’une part, la moitié de la juste valeur marchande (196 147 $) de la participation de M. Casolino dans le domicile et, d’autre part, l’hypothèque (184 793 $) souscrite pour le remboursement de la ligne de crédit de JEMM. L’appelante a remboursé la ligne de crédit de JEMM dans le cadre du nouveau prêt hypothécaire (422 000 $), lequel est devenu sa responsabilité.
+[23] L’intimée devra verser des dépens à l’appelante conformément au tarif établi.
+Signé à Ottawa, Canada, ce 3e jour de septembre 2020.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+ce 10e jour de février 2021.
+François Brunet, réviseur
+RÉFÉRENCE :
+2020 CCI 99
+NO DU DOSSIER DE LA COUR :
+2015-5214(GST)G
+INTITULÉ :
+JANICE CASOLINO c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+TORONTO (ONTARIO)
+DATE DE L’AUDIENCE :
+Le 24 août 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge Ronald MacPhee
+DATE DU JUGEMENT :
+Le 3 septembre 2020
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Charles Haworth
+Me Jeffrey Radnoff
+Avocat de l’intimée :
+Me Tony Cheung
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Pour que le paragraphe 325(1) de la Loi joue, quatre critères doivent être respectés : (Canada c. Livingston, 2008 CAF 89 (CAF), au paragraphe 17, 2008 D.T.C. 6233 (angl.) (CAF) :
+i) L’auteur du transfert doit être tenu de faire des versements aux termes de la Loi pour la période de déclaration qui comprend le moment du transfert ou pour ses périodes de déclaration antérieures.
+ii) Il doit y avoir eu transfert direct ou indirect de biens au moyen d’une fiducie ou de toute autre façon, de l’auteur du transfert à son bénéficiaire.
+iii) Le bénéficiaire du transfert doit être : soit l’époux ou conjoint de fait de l’auteur du transfert au moment de celui-ci, ou une personne devenue depuis son époux ou conjoint de fait; soit une personne qui était âgée de moins de 18 ans au moment du transfert; soit une personne avec laquelle l’auteur du transfert avait un lien de dépendance.
+iv) La juste valeur marchande des biens transférés doit excéder la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert au moment du transfert.
+[2] 392 294 $ x 0,5 = 196 147 $

@@ -1,0 +1,143 @@
+---
+title: "Buhler v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25912/index.do"
+last_modified: "2003-04-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 234"
+citation2: ""
+neutral_citation: "2003 TCC 234"
+decision_date: "2003-04-10"
+language: "en"
+item_id: "25912"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3710
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:18:12.545000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bef051acdc9adf3ce0fa54e0978987e9a6bd9ee5ad18f5881ac6a1eaa09e56bd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Buhler v. The Queen
+
+- Citation: 2003 TCC 234
+- Decision date: 2003-04-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3710, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Buhler v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-10
+Neutral citation
+2003 TCC 234
+File numbers
+2002-4332(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4332(IT)I
+BETWEEN:
+RAPHAEL BUHLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 18, 2003 at London, Ontario.
+Before: The Honourable Judge Gerald J. Rip
+Appearances:
+Agent for the Appellant:
+Christina Buhler
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1998 and 1999 taxation years are allowed, with costs, if any, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to deduct an allowable business investment loss in computing her income for 1998 and to carry-forward any balance of the allowable business investment loss to 1999.
+Signed at Ottawa, Canada this 10th day of April 2003.
+"Gerald J. Rip"
+J.T.C.C.
+Citation: 2003TCC234
+Date: 20030410
+Docket: 2002-4332(IT)I
+BETWEEN:
+RAPHAEL BUHLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, J.
+[1] Mrs. Raphael Buhler has appealed her income tax assessments for the 1998 and 1999 taxation years in which the Minister of National Revenue ("Minister") disallowed her claim in 1998 for a business investment loss within the meaning of paragraph 39(1)(c) of the Income Tax Act ("Act").
+[2] For several years Mrs. Buhler was the main financial provider for her husband and two daughters.
+[3] Mr. Buhler is a chef and prior to 1996 had been unemployed for a number of years. In 1996 Mr. Buhler was approached by two other people, Hussein Zabian and Gabriele D'Annibale, to open a higher-end restaurant in a heritage building in Woodstock, Ontario. The building was to be leased from the City of Woodstock. A requirement of Mr. Buhler's participation was an investment of $105,000. Mr. and Mrs. Buhler owned a joint bank account; the source of funds in the account was Mrs. Buhler's employment income. Starting in 1996 Mrs. Buhler began to advance funds from the account to Old Market Restaurant Inc. ("Corporation"), the owner of the restaurant business. The registered shareholders of the Corporation appear to have been Mr. Buhler and Messrs. Zabian and D'Annibale, each as to a one-third interest. By April 18, 1997 Mrs. Buhler's advances to the Corporation also aggregated $105,000. The amount was secured by a non-interest bearing note by the Corporation in her favour payable on demand. The note is dated April 18, 1997. Each of Messrs. Zabian and D'Annibale also loaned $105,000 to the Corporation.
+[4] "Things went sour quickly", Mrs. Buhler recalled. In February 1998 the City of Woodstock locked the doors of the restaurant. "We lost everything." The Corporation was insolvent.
+[5] In addition to the Corporation borrowing $315,000 from Mrs. Buhler and Messrs. Zabian and D'Annibale, it also borrowed money from the Bank of Montreal; Mr. Buhler purported to guarantee 25 per cent of the loan. Mrs. Buhler honoured the guarantee and paid $10,416 to the bank. It is not clear whether Mrs. Buhler paid the bank directly or advanced the money for her husband to pay the bank. However, the money to pay the bank on the guarantee was Mrs. Buhler's money. She, in fact, paid the $10,416.
+[6] On July 12, 2001, Mr. and Mrs. Buhler executed a sworn declaration in the following terms:
+1. On or about July 30, 1996, 100 common shares of The Old Market Restaurant Inc. were issued from treasury to Walter Buhler for consideration in the amount of $100.00 per share or a total of $10,000.00.
+2. All of the funds for the purchase of the shares was provided by Raphael Buhler and none was provided by Walter Buhler.
+3. It was always understood between them that Walter Buhler was a bare trustee for Raphael Buhler who was at all times the beneficial owner of the shares.
+4. The reason for this trust arrangement was that the other partners in The Old Market Restaurant Inc., Hussein Zabian and Gabriele D'Annibale, preferred to deal with Walter Buhler, who is a professional chef and not with Raphael Buhler who has no background in the restaurant industry.
+[7] The declaration, produced by the respondent, was prepared by the Buhler's accountant after the tax authorities raised their concern whether Mrs. Buhler was entitled to a business investment loss.
+[8] I found Mrs. Buhler to be a credible witness. There is no reason for me not to accept her testimony and the facts deposed to in the joint declaration of her and Mr. Buhler. On that basis Mrs. Buhler was the beneficial owner of the shares of the Corporation registered in Mr. Buhler's name. If any dividends had been declared on those shares, these dividends would be included in her income. (I should also state that even if I had found her husband to be the beneficial owner of the shares, since he purchased the shares with funds provided by the appellant, the income on the shares would have been attributed to her by virtue of subsection 74.1(1) of the Act.) Thus, when she advanced to the Corporation amounts aggregating $105,000 she did so for the purposes of assisting the Corporation to be profitable and one day, to receive dividends from the shares. This was my view in Business Art Inc. v. M.N.R.,[1] which was subsequently followed in this Court and the Federal Court.[2] The $105,000 was loaned to the Corporation for the purpose of earning or producing income.
+[9] The Corporation was a small business corporation within the meaning of subsection 248(1) of the Act, at the times Mrs. Buhler advanced the funds to the Corporation. The debt was incurred on account of capital. At the end of February 1998, the Corporation was insolvent and the debt so incurred by the Corporation was a bad debt. Mrs. Buhler incurred a business investment loss of $105,000 in 1998.
+[10] The amount of $10,416 paid to the Bank of Montreal on account of Mr. Buhler's personal guarantee is also a business investment loss. On the facts, as I understand them, Mrs. Buhler was the investor in the Corporation. Mr. Buhler was her agent and when he guaranteed the bank loan, he did so as her agent. In fact, it was she who paid the bank, either directly or indirectly. The purpose in guaranteeing the bank loan was to earn or produce income from the shares, the same purpose as the loan. The amount of $10,416 was capital loss that was a business investment loss.
+[11] Mrs. Buhler is therefore entitled to deduct an allowable business investment loss in computing her income for 1998 and is entitled to carry-forward any balance of the allowable business investment loss to 1999.
+[12] I wish to comment on the conduct of Crown counsel, Mr. Nwachukwu, which was exemplary. He quite properly assisted and cooperated with the appellant and me in attempting to find some common ground between the parties to help resolve these appeals. He provided me with cases supporting the position of both parties. His conduct serves as a positive example to the appellant's agent, her daughter, who will be entering law school in September.
+[13] The appeals are allowed with costs, if any.
+Signed at Ottawa, Canada this 10th day of April 2003.
+"Gerald J. Rip"
+J.T.C.C.
+CITATION:
+2003TCC234
+COURT FILE NUMBER:
+2002-4332(IT)I
+STYLE OF CAUSE:
+Raphael Buhler and
+Her Majesty The Queen
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+March 18, 2003
+REASONS FOR JUDGMENT BY:
+the Honourable Gerald J. Rip
+DATE OF JUDGMENT:
+April 10, 2003
+APPEARANCES:
+Agent for the Appellant:
+Christina Buhler
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 86 DTC 1842.
+[2] See, for example, Brown v. The Queen, 96 DTC 6091 (F.C.T.D.), Byramv. The Queen, 95 DTC 5069 (F.C.T.D.) and National Developments Limited v. The Queen, 94 DTC 1061 (T.C.C.).

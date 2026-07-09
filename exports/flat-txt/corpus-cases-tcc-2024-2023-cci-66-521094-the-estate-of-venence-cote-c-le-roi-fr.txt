@@ -1,0 +1,135 @@
+Title: The Estate of Venence Cote c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521094/index.do
+Corpus path: corpus/cases/tcc/2024/2023-cci-66-521094-the-estate-of-venence-cote-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2024-07-08
+
+# The Estate of Venence Cote c. Le Roi
+
+- Citation: 2023 CCI 66
+- Decision date: 2024-07-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5881, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cote (Succession) c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-05-10
+Référence neutre
+2023 CCI 66
+Numéro de dossier
+2021-912(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2023 CCI 66
+Date : 20230510
+Dossier : 2021-912(IT)G
+ENTRE :
+LA SUCCESSION DE VENENCE COTE,
+requérante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Transcription des motifs du jugement rendu oralement à l’audience le 6 juillet 2022 à Toronto (Ontario); la présente version a été révisée pour en corriger la forme, soit la ponctuation, les majuscules, l’orthographe et les paragraphes, et vérifier l’exactitude; pour supprimer les répétitions; pour ajouter des titres, des références et des numéros de paragraphe et pour supprimer les observations des parties concernant le moment des modifications à la réponse et les dépens, étant donné que ces observations ne font pas partie des motifs du jugement)
+Le juge Graham
+[1] Lorsque M. Cote a produit ses déclarations de revenus pour les années d’imposition 2006, 2007 et 2008, il a demandé des crédits d’impôt pour des dons qu’il prétendait avoir effectués par l’intermédiaire d’un abri fiscal connu sous le nom de Global Learning Gifting Initiative (« GLGI »). Le ministre du Revenu national a établi de nouvelles cotisations à l’égard de M. Cote, dans lesquelles il a refusé ces crédits. M. Cote est décédé depuis. Sa succession, la requérante en l’espèce, a interjeté appel de ces nouvelles cotisations. Les parties ont déposé leurs actes de procédure et la requérante a déposé une requête en radiation visant plus de 200 paragraphes de la réponse pour divers motifs.
+A. Fondement de la radiation
+[2] La requérante invoque cinq fondements pour justifier la radiation des paragraphes visés. Elle soutient que de nombreux paragraphes doivent être radiés pour plusieurs de ces fondements.
+[3] Je donne un aperçu des cinq fondements avant de passer à l’analyse de paragraphes précis.
+Renseignements non pertinents
+[4] Le premier fondement invoqué par la requérante est que de nombreux paragraphes de la réponse contiennent des renseignements non pertinents sur le programme GLGI qui n’aideraient pas le juge du procès à comprendre les opérations en litige.
+[5] Il ne m’appartient pas, en tant que juge saisi de la requête, de me prononcer sur la pertinence des faits ou des hypothèses de fait. Comme il est indiqué dans les décisions Sentinel Hill Productions (1999) Corporation c. La Reine (2007 CCI 742) et Niagara Helicopters Limited c. La Reine (2003 CCI 4), il est préférable de laisser cette tâche au juge du procès, qui entendra l’ensemble de la preuve. En fait, comme l’indique la décision Jolly Farmer Products Inc. c. La Reine (2008 CCI 124), il serait inapproprié pour l’intimé d’analyser les hypothèses de fait du ministre et de ne pas communiquer celles qu’il considère comme non pertinentes. À moins qu’il soit évident et manifeste qu’un fait ne pourra jamais être pertinent, je ne le radie pas.
+[6] La requérante a affirmé que de nombreux paragraphes étaient dénués de pertinence. Sauf pour ce qui est expressément exposé ci-dessous, la requérante ne m’a pas convaincu qu’il est évident et manifeste que ces paragraphes ne pourront jamais être pertinents.
+Langage incendiaire et préjudiciable
+[7] Le deuxième fondement invoqué par la requérante est que certains paragraphes contiendraient des propos incendiaires, vexatoires, scandaleux ou préjudiciables. Je n’aborde pas toutes les occurrences mentionnées par la requérante.
+[8] La requérante se plaint que les mots [traduction] « abri fiscal » sont préjudiciables. Je ne comprends pas en quoi ce choix de mots est préjudiciable. L’intimé a expressément affirmé que le programme était enregistré comme abri fiscal.
+[9] La requérante s’oppose également à l’utilisation du mot [traduction] « prétendus » pour décrire les dons de M. Cote et d’autres contribuables, au motif qu’il est préjudiciable. Le point de vue de la requérante revient à dire que l’intimé devrait s’avouer vaincu et admettre que les dons effectués par M. Cote et les autres contribuables étaient valides. Cette thèse est dépourvue de fondement. La question dont la Cour est saisie est de déterminer si M. Cote a fait des dons. Bien entendu, l’intimé souhaite les qualifier de prétendus dons et la requérante, de dons. Il n’y a rien de préjudiciable à ce que l’un ou l’autre qualifie les dons de la sorte.
+[10] Beaucoup pourraient trouver immoral d’essayer de tirer profit d’un programme de dons de bienfaisance. Si le seul but des paragraphes traitant du trompe-l’œil allégué et de la prétendue absence d’intention libérale de la requérante était de présenter cette dernière sous un jour défavorable ou immoral, il serait alors tout à fait approprié de radier ces paragraphes. Toutefois, ce n’est pas le cas.
+[11] La situation se distingue entièrement de celle dans l’affaire Banque Canadienne Impériale de Commerce c. Canada (2013 CAF 122), dans lequel des actes de procédure portant sur la moralité de l’opération en cause avaient été radiés, car la moralité de l’opération n’avait rien à voir avec son imposition.
+[12] Je ne dis pas que la moralité est en litige dans le présent appel, mais le trompe-l’œil allégué et la prétendue absence d’intention libérale le sont.
+Questions mixtes de fait et de droit
+[13] Le troisième fondement invoqué par la requérante est que certains paragraphes contiennent des arguments ou des conclusions mixtes de fait et de droit. La requérante a soulevé ce point à propos de plusieurs paragraphes.
+[14] Dans certains cas traités plus en détail ci-dessous, la requérante a raison de soulever ce point, car l’intimé présente effectivement des conclusions mixtes de fait et de droit concernant des questions très importantes. Cependant, dans la plupart des cas, la requérante cherche des poux et tente de trouver des conclusions mixtes de fait et de droit là où, de toute évidence, l’intimé utilise simplement la langue juridique pour traiter de manière concise de points qui ne semblent pas être en litige. Sauf pour ce qui est énoncé ci-dessous, je ne trouve aucun fondement à cet argument.
+Portée trop large et répétition
+[15] Le quatrième fondement invoqué par la requérante est que certains paragraphes ont une portée trop large ou sont répétitifs. La requérante conteste la totalité ou la quasi-totalité des 201 hypothèses de fait avancées dans la réponse. La requérante se plaint, de manière générale, que la réponse a une portée trop large et qu’il est injuste qu’elle doive démolir tant d’hypothèses de fait. Elle fait valoir que cela coûtera cher, retardera l’instruction équitable de l’appel et mobilisera des ressources judiciaires importantes.
+[16] Je reconnais qu’à moins que les parties ne parviennent à s’entendre sur un nombre important de faits, le procès sera très long. Cependant, si les hypothèses sont nombreuses, c’est que M. Cote a participé à un programme très complexe.
+[17] Le programme GLGI de 2004 et 2005 a déjà été examiné en détail dans la décision Mariano c. La Reine (2015 CCI 244). La réponse donne à penser que le programme pendant années en cause n’était pas très différent. L’avis d’appel n’indique pas pourquoi la requérante estime que le programme était très différent au cours des années en cause et est muet sur le nouvel argument qu’elle entend soulever et qui n’a pas déjà été examiné dans la décision Mariano. En l’absence de telles indications, l’intimé n’a d’autre choix que d’invoquer tous les faits et toutes les hypothèses de fait dont il pourrait avoir besoin pour étayer les nouvelles cotisations.
+[18] Par conséquent, à l’exception des occurrences précises de répétition présentées ci-dessous, je conclus que l’argument n’est pas fondé.
+Renseignements se rapportant à des années ne faisant pas l’objet du litige
+[19] Enfin, la requérante fait valoir qu’un grand nombre des paragraphes en cause contiennent des renseignements relatifs au fonctionnement du programme GLGI au cours d’autres années que les trois pendant lesquelles la requérante a participé au programme.
+[20] Je suis d’accord avec la requérante en ce qui concerne les faits portant sur les années postérieures aux années en cause, car je ne vois pas en quoi ils pourraient être pertinents.
+[21] La requérante soutient également que, puisque M. Cote n’a participé au programme qu’en 2006, 2007 et 2008, les hypothèses sur le fonctionnement du programme en 2004 et 2005 sont à la fois non pertinentes et injustes. Je ne suis pas d’accord avec la requérante sur ce point.
+[22] Bien que je sois loin d’être convaincu que la requérante est tenue de démolir les hypothèses de fait relatives au fonctionnement du programme GLGI dans les années antérieures aux années en litige, je conviens avec l’intimé que la jurisprudence, à savoir les décisions de la Cour canadienne de l’impôt Teelucksingh c. La Reine (2010 CCI 94) et Mudge c. La Reine (2020 CCI 77), établit clairement que la question du fardeau et les questions de pertinence doivent être laissées au juge du procès.
+[23] Non seulement le juge du procès est le mieux placé pour déterminer ce qui est pertinent, mais il est également dans une bien meilleure position que le juge entendant une requête préliminaire pour déterminer le poids à accorder aux hypothèses dont la requérante n’a pas connaissance. Il appartient au juge du procès de décider que ces hypothèses ne sont pas pertinentes ou qu’il incombe à l’intimé de les prouver.
+[24] Pour ces motifs, je laisse en place les hypothèses de fait concernant le fonctionnement du programme GLGI en 2004 et 2005, celles concernant le traitement des initiés dans le cadre du programme de 2004 à 2008 et celles relatives au fonctionnement d’un programme similaire avant 2004. La requérante est libre de soulever auprès du juge du procès des questions relatives au fardeau de la preuve en ce qui concerne ces hypothèses.
+B. Paragraphes contestés
+[25] Dans ce contexte, j’analyse maintenant les paragraphes précis en litige, en commençant par les paragraphes 1 à 6.
+Paragraphes 1 à 6
+[26] Ces paragraphes font partie d’un aperçu de la position de l’intimée. Dans une réponse de 40 pages, un aperçu peut être utile. Il n’est ni inapproprié d’inclure un aperçu ni inapproprié que celui-ci contienne un résumé des faits et arguments pertinents. Sauf pour ce qui est indiqué ci-dessous, il n’y a pas lieu d’apporter des modifications à ces paragraphes.
+Paragraphe 1 [27] Le paragraphe 1 introduit le terme défini [traduction] « le programme ». Ce terme est ensuite utilisé tout au long de la réponse pour désigner le programme GLGI de 2004 à 2013, de 2004 à 2008 et de 2006 à 2008, ce qui rend la réponse confuse et imprécise. Je radie le mot [traduction] « programme » dans toute la réponse.
+[28] L’intimé est autorisé à modifier la réponse pour ajouter un ou plusieurs termes définis plus clairs et mieux adaptés aux contextes où ils sont utilisés.
+Paragraphes 2 et 18.4 [29] Le paragraphe 2 et le paragraphe 18.4 contiennent tous deux les mots [traduction] « 56 % à 112 % ». En raison du problème posé par le mot [traduction] « programme », la période couverte par ces pourcentages n’est pas claire. Je radie ces mots dans les deux paragraphes avec autorisation de modification pour ajouter les pourcentages appropriés pour le programme GLGI de 2004 à 2008.
+Paragraphes 3 et 20 [30] Passons ensuite au paragraphe 3 et, comme il y est lié, au paragraphe 20. La dernière phrase du paragraphe 3 et l’ensemble du paragraphe 20 concernent le fonctionnement du programme GLGI en 2014 et sa vérification en cours. Ce n’est visiblement pas pertinent. Je radie ces parties de la réponse, sans autorisation de modification.
+Paragraphe 18.5 [31] Le paragraphe 18.5 contient un tableau indiquant, entre autres, le nombre de participants, les prétendus dons en espèces et les prétendus dons en nature pour le programme GLGI pour chaque année de 2004 à 2008. La requérante n’a aucun moyen de savoir combien d’autres contribuables ont participé au programme, que ce soit au cours des années en cause ou en 2004 et 2005. Ces renseignements relèvent de la connaissance exclusive ou particulière du ministre. Toutefois, comme il est mentionné plus haut, la jurisprudence indique que cela relève de la question du fardeau, laquelle doit être laissée à l’appréciation du juge du procès. Par conséquent, je ne radie pas ce paragraphe.
+Paragraphes 18.12, 18.13, 18.28, 18.30 et 18.67 [32] Les paragraphes 18.12, 18.13, 18.28, 18.30 et 18.67 concernent des faits qui ont commencé avant les années en cause, se sont poursuivis durant ces années et se sont terminés quelque temps après. Je conclus qu’il n’est pas du tout pertinent de savoir à quel moment ces faits se sont terminés. Je radie les mots [traduction] « jusqu’en avril 2011 » au paragraphe 18.12; les mots [traduction] « jusqu’au 9 mai 2011 » au paragraphe 18.13; les mots [traduction] « jusqu’au 1er avril 2011 » au paragraphe 18.28; les mots [traduction] « début 2011 » au paragraphe 18.30 et les mots [traduction] « jusqu’en 2011 » au paragraphe 18.67.
+[33] L’intimé est autorisé à modifier ces paragraphes pour préciser que les faits en question se sont poursuivis durant les années en cause.
+Paragraphes 18.37 à 18.39 [34] Passons aux paragraphes 18.37 à 18.39. Dans leur formulation actuelle, ces paragraphes semblent, à première vue, exprimer soit l’avis du ministre, soit une conclusion. Ils ne semblent pas constituer des hypothèses de fait. Je les radie, mais j’autorise l’intimé à les modifier.
+Paragraphes 18.65, 18.160, 18.165, 18.170 et 18.172 [35] Dans leur formulation actuelle, les paragraphes 18.65, 18.160, 18.165, 18.170 et 189.172 semblent être des arguments, et non des hypothèses de fait. Je les radie, mais j’autorise l’intimé à les modifier.
+Paragraphes 18.73, 18.161, 18.162, 18.174 et 18.191 [36] Dans leur formulation actuelle, les paragraphes 18.73, 18.161, 18.162, 18.174 et 18.191 semblent être des conclusions mixtes de fait et de droit. Je le radie, mais j’autorise l’intimé à les modifier.
+Paragraphe 18.171 [37] L’intimé a admis que le paragraphe 18.171 devait être radié. L’intitulé qui le précède immédiatement est également radié, mais avec autorisation de modification.
+Paragraphes 18.175 à 18.190 [38] Les paragraphes 18.175 à 18.190 traitent tous du trompe-l’œil allégué. Je suis convaincu, sur la base de la décision Chad c. La reine (2021 CCI 45), que ces paragraphes sont appropriés.
+[39] Les mots [traduction] « dans le trompe-l’œil » figurent au paragraphe 18.191. Il s’agit d’une conclusion mixte de fait et de droit qui est inappropriée. Ces mots sont radiés avec autorisation de modification.
+Paragraphe 18.196 [40] Le paragraphe 18.196 est répétitif. Je le radie sans autorisation de modification.
+Paragraphe 19 [41] Le paragraphe 19 contient un tableau indiquant le nombre de participants, les dons en espèces qu’ils auraient faits, les dons en nature qu’ils auraient faits et le rapport moyen entre les dons en espèces et les dons en nature pour chaque année du programme GLGI de 2004 à 2013. Les renseignements du tableau pour les années 2004 à 2008 sont les mêmes que ceux qui figurent au paragraphe 18.5. Comme je ne radie pas le paragraphe 18.5, les renseignements sont répétitifs. Les renseignements pour les années 2009 à 2013 sont postérieurs à la période visée. Je conclus qu’ils ne sont manifestement pas pertinents. Compte tenu de ce qui précède, je radie le paragraphe 19 en entier sans autorisation de modification.
+[42] Voilà qui met fin à mes motifs.
+[43] La date limite pour les modifications est fixée au 9 septembre 2022.
+C. Dépens
+[44] Je suis partagé sur ce point. J’estime que les deux parties soulèvent de bons points. Plusieurs des points soulevés par la requérante sont manifestement fondés, mais, comme le dit l’intimé, la requérante semble lancer des idées au hasard dans l’espoir que certaines soient retenues, ce qui n’est pas la bonne façon de procéder. Comme les parties n’ont chacune eu que partiellement gain de cause, bien que je sois mécontent de la manière dont la requérante a procédé, j’adjuge des dépens suivant l’issue de la cause.
+Signé à Ottawa, Canada, ce 10e jour de mai 2023.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 4e jour de septembre 2024
+Sébastien D’Auteuil, jurilinguiste
+RÉFÉRENCE :
+2023 CCI 66
+NO DU DOSSIER DE LA COUR :
+2021-912(IT)G
+INTITULÉ :
+LA SUCCESSION DE VENENCE COTE c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 6 juillet 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Graham
+DATE DES MOTIFS RENDUS ORALEMENT :
+Le 6 juillet 2022
+DATE DES MOTIFS DU JUGEMENT :
+Le 10 mai 2023
+COMPARUTIONS :
+Avocats de la requérante :
+Me Duane R. Milot Me Kris Gurprasad Me Kateryna Kozachuk
+Avocats de l’intimé :
+Me Iris Kingston Me John Chapman
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+Duane Milot
+Cabinet :
+Milot Law Toronto (Ontario)
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

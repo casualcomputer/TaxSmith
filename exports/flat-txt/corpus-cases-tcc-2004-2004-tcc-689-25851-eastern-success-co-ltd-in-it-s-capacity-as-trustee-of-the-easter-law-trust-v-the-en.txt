@@ -1,0 +1,183 @@
+Title: Eastern Success Co Ltd In It's Capacity as Trustee Of The Easter Law Trust v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25851/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-689-25851-eastern-success-co-ltd-in-it-s-capacity-as-trustee-of-the-easter-law-trust-v-the-en.md
+Document type: case_law
+Last modified: 2004-10-15
+
+# Eastern Success Co Ltd In It's Capacity as Trustee Of The Easter Law Trust v. The Queen
+
+- Citation: 2004 TCC 689
+- Decision date: 2004-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3911, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Eastern Success Co Ltd In It's Capacity as Trustee Of The Easter Law Trust v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-15
+Neutral citation
+2004 TCC 689
+File numbers
+2002-467(IT)G
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-467(IT)G
+BETWEEN:
+EASTERN SUCCESS CO. LTD., IN ITS CAPACITY
+AS TRUSTEE OF THE EASTER LAW TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 12, 2004, at Vancouver, British Columbia,
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellant:
+Max J. Weder
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under Part XIII of the Income Tax Act, notice of which is dated August 15, 2000 and bears number NRH813756 is allowed, with costs, and the assessment is vacated.
+Signed at Ottawa, Canada, this 15th day of October, 2004.
+"M.A. Mogan"
+Mogan J.
+Citation: 2004TCC689
+Date: 20041015
+Docket: 2002-467(IT)G
+BETWEEN:
+EASTERN SUCCESS CO. LTD., IN ITS CAPACITY
+AS TRUSTEE OF THE EASTER LAW TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+MoganJ.
+[1] Part XIII of the Income Tax Act (the "Act") imposes a tax on non-resident persons with respect to certain kinds of income (e.g. interest, rent, royalty, management fee, etc.) which they receive from persons resident in Canada. The operative words of subsection 212(1) state:
+212(1) Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to the non-resident person as, on account or in lieu of payment of, or in satisfaction of,
+(a) ...
+There follows a list of about 20 different kinds of income which is subject to the Part XIII tax. The tax is collected by requiring the person resident in Canada who pays the income (to the non-resident) to withhold and remit:
+215(1) When a person pays, credits or provides, or is deemed to have paid, credited or provided, an amount on which an income tax is payable under this Part, ... the person shall, notwithstanding any agreement or law to the contrary, deduct or withhold from it the amount of the tax and forthwith remit that amount to the Receiver General on behalf of the non-resident person on account of the tax and shall submit with the remittance a statement in prescribed form.
+[2] On March 1, 1997, the Appellant paid an amount of interest totalling $3,430,899 to a corporation not resident in Canada. The Minister of National Revenue concluded that a portion ($2,421,059) of that amount of interest was subject to Part XIII tax, and assessed a 25% tax of $605,264.75 with respect to that portion. The assessment was issued to the Appellant because of its failure to withhold and remit the tax under subsection 215(1). The Appellant has appealed from that assessment. The only issue is whether the Appellant (in all the circumstances of this case) was required to withhold and remit the 25% tax of $605,264.75 assessed under Part XIII.
+[3] At the commencement of the hearing, counsel for both parties filed an Agreed Statement of Facts stating that they would not be calling any witnesses because all of the relevant facts were contained either in the agreement or in a Joint Book of Documents. Accordingly, the Joint Book of Documents (containing Tabs 1 to 11) was entered as Exhibit 1; and the Agreed Statement of Facts ("ASF") was entered as Exhibit 2. Because the ASF is brief, I will set it out in full.
+Agreed Statement of Facts
+For the purposes of this appeal, the parties agree to the facts in this Statement of Facts. The parties agree that other evidence may be introduced by either party, to the extent that such evidence is not inconsistent with the following facts:
+1. For the purposes of this Statement of Facts, Eastern Success Company Ltd. will be referred as the "Trustee", The Easter Law Trust will be referred to as the "Trust", and the Trustee and Trust will be collectively referred to as the Appellant.
+2. At all material times, the Trustee was trustee of the Trust and acted on behalf of the Trust.
+3. At all material times, the Trustee was a corporation resident in Hong Kong and was a non-resident of Canada.
+4. The Trust is a non-resident of Canada whose sole beneficiary is the Society for the Promotion of Hospice Limited.
+5. Since December 5, 1988, the Appellant has carried on the business of real estate development in Canada in a joint venture to develop and sell residential real estate in Vancouver, British Columbia (the "Real Estate Business"). The joint venture was a condominium project called "Yacht Harbour Pointe" (the "Joint Venture").
+6. Since at least June 30, 1993, the Appellant held a 63.25% interest in the Joint Venture with two other joint venturers, HCH Land Co. Ltd. and Edivin Limited.
+7. On January 30, 1992, and in the course of this Joint Venture, the Appellant entered into a written loan agreement with Sparkling Tiara Limited (the "Lender") to borrow money (the "Agreement").
+8. The Lender is a company incorporated in the British Virgin Islands and is a non-resident of Canada.
+9. The Agreement contained a maximum borrowing limit called a "loan facility". The loan facility under the Agreement was $6,000,000 Canadian.
+10. Under the Agreement, the Appellant was permitted to draw down the loan facility within one month from the date of the Agreement and interest would accrue on the amount drawn (the "Loan") at the rate of 12% "for the period from the Drawdown Date to the completion date of construction of the condominium project and 6% thereafter until the [L]oan is fully repaid".
+11. The Agreement was amended by letter dated February 15, 1992 (the "Amendment Letter"), to increase the amount of the loan facility to $7,000,000 Canadian and to change the due date for the Loan to two years from the completion date of construction.
+12. Construction was completed in March 1995.
+13. The interest which related to the period of construction of the real estate development and was part of the Appellant's costs of goods sold was $1,127,941 in the Appellant's 1995 taxation year, $937,508 in its 1996 taxation year and $355,610 in its 1997 taxation year.
+14. From 1988 to the completion of construction in March 1995, interest in the amount of $2,850,637 accrued on the Loan (the "Construction Interest").
+15. In filing its return of income for 1995, 1996, and 1997 under Part I of the Income Tax Act and in computing its taxable income earned in Canada in respect of the Real Estate Business, the Appellant computed its profit from the Real Estate Business on the basis that no amount was deductible in respect of the interest, as it related to the period of construction under subsection 18(3.1) of the Act.
+16. During the period of construction, the Construction Interest was included in its cost of inventory by the Appellant for the purpose of its balance sheet and computing its profit, as well as pursuant to subsection 18(3.1) of the Act.
+17. On March 1, 1997, the Appellant paid interest totalling $3,430,899 to the Lender. This amount was comprised of the Construction Interest as well as post-construction interest.
+18. Of the Construction Interest, $2,421,059 was ultimately included by the Appellant in 1995, 1996, and 1997 as part of the cost of goods sold in computing its profit when some of the condominium units were sold.
+19. This portion of the Construction Interest was paid or credited to the Lender on March 1, 1997.
+20. By Notice of Assessment dated August 15, 2000, the Minister of National Revenue assessed the Appellant $605,264.75 tax (being 25% of $2,421,059) and $204,533.42 interest under Part XIII of the Act in respect of interest paid or credited by the Appellant to the Lender and for the Appellant's failure to withhold tax under Part XIII in respect of these payments.
+21. The Minister proceeded on the assumption that the interest was deductible to the Appellant in computing its income and the amount was accordingly subject to tax under Part XIII by virtue of the provisions of subsection 212(13.2) of the Act.
+22. By Notice of Objection dated October 31, 2000, the Appellant objected to the Notice of Assessment.
+23. By Notice of Confirmation dated November 8, 2001, the Minister of National Revenue confirmed the Notice of Assessment.
+[4] The ASF refers to two provisions of the Act which are important in the determination of this appeal. Subsection 18(3.1) requires the capitalization of certain outlays or expenses which would otherwise be deductible in the year they are incurred.
+18(3.1) Notwithstanding any other provision of this Act, in computing a taxpayer's income for a taxation year,
+(a) no deduction shall be made in respect of any outlay or expense made or incurred by the taxpayer ... that can reasonably be regarded as a cost attributable to the period of the construction, renovation or alteration of a building by or on behalf of the taxpayer, ... and relating to the construction, renovation or alteration, or a cost attributable to that period and relating to the ownership during that period of land
+(i) that is subjacent to the building, or
+(ii) ...
+(b) the amount of such an outlay or expense shall, to the extent that it would otherwise be deductible in computing the taxpayer's income for the year, be included in computing the cost or capital cost, as the case may be, of the building to the taxpayer, ...
+Subsection 212(13.2) is unusual because, in certain circumstances, it deems a non-resident person to be a person resident in Canada for the purposes of Part XIII. The Minister relies on subsection 212(13.2) to make the Appellant liable under Part XIII.
+212(13.2) For the purposes of this Part, where in a taxation year
+(a) a non-resident person whose business was carried on principally in Canada, or
+(b) ...
+pays or credits an amount ... to another non-resident person, the first-mentioned non-resident person shall be deemed, in respect of the portion of that amount that was deductible in computing that person's taxable income earned in Canada for any taxation year, to be a person resident in Canada.
+[5] Having regard to the conditions which must be satisfied for the application of subsection 212(13.2), the parties agree that the Appellant was a non-resident person at all relevant times (ASF, paragraphs 1, 2, 3 and 4). Also, in argument, the Appellant's counsel conceded that the Appellant's business was carried on principally in Canada. And finally, both counsel agreed that the following words, taken from the latter part of subsection 212(13.2), are the important words to construe when deciding this appeal:
+... in respect of the portion of that amount that was deductible in computing that person's taxable income earned in Canada for any taxation year, ...
+Section 115 of the Act contains specific rules to determine the taxable income earned in Canada for a taxation year by a non-resident person.
+[6] The ASF speaks for itself but, at the risk of error, I find it helpful to restate certain facts in a different order and to link them more directly with the relevant provisions of the Act. References to particular paragraphs will refer to the ASF and not to these Reasons for Judgment:
+(i) The loan agreement with Sparkling Tiara is dated January 30, 1992, and construction of the Yacht Harbour Pointe condominium project was completed in March 1995. Paragraphs 5, 7 and 12.
+(ii) Under that loan agreement, interest in the amount of $2,850,637 was accrued to the completion of construction in March 1995. Paragraphs 10 and 14.
+(iii) The Appellant paid interest in the total amount of $3,430,899 on March 1, 1997 but, of that amount, only $2,850,637 had been capitalized as part of the cost of the condominium project under subsection 18(3.1) of the Act; and no part of the $2,850,637 was deducted as interest in computing the Appellant's taxable income earned in Canada during the period of construction. Paragraphs 14, 15, 16 and 17.
+(iv) The Appellant started selling units in the condominium project in 1995, and continued selling in 1996 and 1997. The parties agree that the amount $2,421,059 is the pro rata portion of the capitalized Construction Interest ($2,850,637) which related to the units actually sold in the years 1995, 1996 and 1997. Paragraphs 13, 14 and 18.
+(v) The basic question in this case is whether the amount $2,421,059 was "deductible in computing" the Appellant's "taxable income earned in Canada for any taxation year" within the meaning of subsection 212(13.2) of the Act. Paragraphs 18, 19, 20 and 21.
+Analysis
+[7] I refer to the Construction Interest ($2,850,637) as having been "capitalized" under paragraph 18(3.1)(b) because it was included in computing the cost of the building which, in the circumstances of this appeal, was a condominium project. When an amount of interest (otherwise deductible in computing income under paragraph 20(1)(c) of the Act) is so capitalized, it loses its character as "interest" and becomes merged in the overall cost of the building like the cost of the concrete foundation, brick siding, windows, roof and heating plant. Each of these component items loses its character as concrete, brick, windows, etc. and the aggregate cost of all such items becomes a cost of inventory when the building is a condominium project with units for sale.
+[8] Relating the agreed facts to the terms of subsection 212(13.2), the Appellant as a non-resident person paid an amount ($3,430,899) to another non-resident person in 1997. As between the Appellant (payor) and the other non-resident person (payee), the entire amount was interest. See paragraph 17. Was a portion ($2,421,059) of that entire amount deductible in computing the Appellant's taxable income earned in Canada for any taxation year? As a practical matter, and without regard to any decided cases, I would answer "no" for two reasons. First, the amount $2,421,059 may have had the character of interest as between the payor and the payee because it was part of a larger amount ($3,430,899) which they both regarded as interest. But for purposes of the Act, the smaller amount of $2,421,059 had lost its character as "interest" because it was part of a larger amount ($2,850,637) which was capitalized as part of the cost of the condominium units and, therefore, part of the cost of the Appellant's inventory.
+[9] And second, under Part I of the Act, there is a significant difference between computing income (Division B, sections 3 to 108) and computing taxable income (Division C, sections 109 to 114.2). There is a separate provision (Division D, sections 115 to 116) for determining the taxable income earned in Canada by non-resident persons. In my view, the following parts of subsection 115(1) are relevant:
+115(1) For the purposes of this Act, the taxable income earned in Canada for a taxation year of a person who at no time in the year is resident in Canada is the amount, if any, by which the amount that would be the non-resident person's income for the year under section 3 if
+(a) the non-resident person had no income other than
+(i) ...
+(ii) incomes from businesses carried on by the non-resident person in Canada ...
+(b) ...
+exceeds the total of
+(d) the deductions permitted by subsection 111(1) and, to the extent that they relate to amounts included in computing the amount determined under any of paragraphs (a) to (c), the deductions permitted by any of paragraphs 110(1)(d) to (d.2) and (f) and subsection 110.1(1),
+(e) ...
+I assume that the Appellant had only business income in Canada from the joint venture condominium project. The opening words of subsection 115(1) incorporate by reference "income for the year under section 3" which is the basic section of Part I. Section 3 is totally inclusive capturing income from all sources including business. The computation of income from business is determined primarily by subdivision b (sections 9 to 37.3) which would include, of course, sections 9, 12, 18 and 20. Because the amount ($2,421,059) which I refer to as "capitalized" is not deductible under paragraph 20(1)(c) (see paragraph 18(3.1)(a)), that amount cannot be regarded as "deductible in computing the Appellant's taxable income earned in Canada" for any year.
+[10] The case law supports the Appellant. In Oryx Realty Corp. v. M.N.R., 74 DTC 6352, the Federal Court of Appeal considered subsection 12(3) of the 1952 Act as it applied to the 1960 taxation year.
+12(3) In computing a taxpayer's income for a taxation year, no deduction shall be made in respect of an otherwise deductible outlay or expense payable by the taxpayer to a person with whom he was not dealing at arm's length if the amount thereof has not been paid before the day one year after the end of the taxation year; but, if an amount that was not deductible in computing the income of one taxation year by virtue of this subsection was subsequently paid, it may be deducted in computing the taxpayer's income for the taxation year in which it was paid.
+[11] In 1959, Oryx had purchased from a non-arm's length vendor a parcel of land for $174,000 paying only $1,000 in cash with the balance payable over 10 years. On July 21, 1960, after some shares of Oryx were sold, Oryx was at arm's length with the vendor. Later on July 21, Oryx sold the parcel of land for $373,000. Oryx claimed that the profit on the resale was $199,000 ($373,000 less $174,000). The Minister of National Revenue assessed tax against Oryx on the basis that the profit on the sale was $354,000 being the proceeds of sale ($373,000) less the amount ($18,500) which had been paid by Oryx toward the cost of the land as at the time of sale. The Minister of National Revenue was relying on subsection 12(3) as set out above.
+[12] Before the Federal Court of Appeal, Oryx argued that subsection 12(3) did not apply for two reasons: (i) the purchase price was not an "otherwise deductible outlay or expense"; and (ii) the purchase price was not payable to a non-arm's length vendor. The Federal Court of Appeal was unanimous in accepting the Oryx second argument that (a) the purchase price did not become deductible until the land was sold in July 1960; and (b) at that time, the purchase price was no longer payable to a non-arm's length vendor. Although it was not necessary to consider the Oryx first argument, a majority of the Court (Jackett C.J. and Thurlow J.A.) expressed an opinion. The following passage from Jackett C.J. is important.
+What we are concerned with here is "gross profit". "The law is clear ... that for income tax purposes gross profit, in the case of a business which consists of acquiring property and reselling it, is the excess of price over cost ..." (See MNR v. Irwin, [1964] S.C.R. 662, 64 DTC 5227) per Abbott J., delivering the judgment of the Court, at pages 664-65). Gross trading profit for a taxation year may be obtained by adding together the profits of the various transactions completed in the year or by adding together the prices at which sales were effected in the year and deducting the aggregate of the costs of the various things sold. Either of such methods would be suitable for a business consisting of relatively few transactions. In the ordinary trading business, however, the practice, which has hardened into a rule of law, is that profit for a year must be computed by deducting from the aggregate "proceeds" of all sales the "cost of sales" computed by adding a value placed on inventory at the beginning of the year to the cost of acquisitions in the year and deducting a value placed on inventory at the end of the year.
+In considering what application section 12(3) has, there can be no doubt that "gross profit" must be computed before income can be determined and that, at least in the second method of computing "gross profit" indicated above, the price for which the property was bought is "deductible" in its computation. "If, on the other hand, the computation of "income" for a taxation year is thought of as commencing with "gross profit" then the "cost" of the property bought is not an amount that is "deductible" in its computation. When, moreover, one thinks of applying section 12(3) to a trader whose transactions are so numerous or of such a character as to dictate the use of the proceeds of sales less cost of sales formula, then, in the "computation" of the "taxpayer's income for a taxation year" there is no deduction, at least as such, of the cost of the goods that were sold in the year. Presumably, however, section 12(3) is to have the same effect in relation to the computation of a taxpayer's income for a year regardless of the method that has to be used to compute "gross profit". With considerable hesitation, I have come to the conclusion that section 12(3) should be interpreted, in the case of business income, as referring to the computation of "income" or profit" for a year from the "gross profit" for the year; and was not, therefore. applicable in the circumstances of this case. In reaching that conclusion, I am conscious that, in other contexts, for more than a century the general statements in the leading cases concerning business profits have treated the computation of profit as including the computation of gross profit. What has brought me to the opposite conclusion in the interpretation of section 12(3) is the necessity of giving such meaning to that subsection as will operate with consistency in the different circumstances to be encountered in the normal course of events.
+[13] When an identical transaction was taken to the Supreme Court of Canada in M.N.R. v. Shofar Investments Corporation, 79 DTC 5347, Martland J. wrote the judgment for the Court in favour of the taxpayer and, after quoting the above passage from Jackett C.J. in the Federal Court of Appeal, stated his (Martland J.'s) agreement with Jackett C.J.'s conclusion.
+[14] In my opinion, the decisions of the Federal Court of Appeal in Oryx and the Supreme Court of Canada in Shofar, are conclusive in support of the Appellant's position. In particular, I rely on the following statements which are extracted from the Oryx passage quoted above:
+... If, on the other hand, the computation of "income" for a taxation year is thought of as commencing with "gross profit" then the "cost" of the property bought is not an amount that is "deductible" in its computation. When, moreover, one thinks of applying section 12(3) to a trader whose transactions are so numerous or of such a character as to dictate the use of the proceeds of sales less cost of sales formula, then, in the "computation" of the "taxpayer's income for a taxation year" there is no deduction, at least as such, of the cost of the goods that were sold in the year. ...
+[15] As I understand the principle established by Jackett C.J. in Oryx and confirmed by the Supreme Court of Canada in Shofar, when computing the income of a trader, any outlay or expense which becomes part of the cost of inventory is taken into account when computing "gross profit" but is not deductible in computing income. As described in Oryx, gross profit is determined by deducting from aggregate proceeds of sales for the year the "cost of sales" which is computed by adding the value of opening inventory to the cost of purchases in the year, and then subtracting the value of closing inventory at year end.
+[16] In this appeal, the parties have agreed that the amount $2,421,059 is the pro rata portion of the capitalized interest ($2,850,637) which is referable to the condominium units sold in 1995, 1996 and 1997. Therefore, the amount $2,421,059 was part of the cost of goods sold and was part of the cost subtracted in computing gross profit for 1995, 1996 and 1997. According to paragraph 13 of the ASF, the amounts subtracted each year as part of the Appellant's cost of goods sold were:
+1995
+$1,127,941
+1996
+937,508
+1997
+355,610
+$2,421,059
+[17] If the above amounts were part of the cost of goods sold (as stated in paragraph 13 of the ASF), then they were deducted in computing gross profit and, in accordance with Oryx and Shofar, they were not deducted or deductible in computing income or taxable income. Returning to the words in subsection 212(13.2), the amounts in question were not "deductible in computing" the Appellant's "taxable income earned in Canada for any taxation year". The appeal is allowed, with costs, and the assessment for the Part XIII tax is vacated.
+Signed at Ottawa, Canada, this 15th day of October, 2004.
+"M.A. Mogan"
+Mogan J.
+CITATION:
+2004TCC689
+COURT FILE NOS.:
+2002-467(IT)G
+STYLE OF CAUSE:
+Eastern Success Co. Ltd., in its capacity as Trustee of the Easter Law Trust
+and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+August 12, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT:
+October 15, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Max J. Weder
+Counsel for the Respondent:
+Susan Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Max J. Weder
+Firm:
+Borden Ladner Gervais
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,227 @@
+---
+title: "Fuhr v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521400/index.do"
+last_modified: "2025-02-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 27"
+citation2: ""
+neutral_citation: "2025 TCC 27"
+decision_date: "2025-02-25"
+language: "en"
+item_id: "521400"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6027
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:41:43.163000+00:00"
+cases_cited_count: 26
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cd4cee23e09fb5f46aba5fb0230f60eefab9f25df12aad24a40f4b9f60591788"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fuhr v. The King
+
+- Citation: 2025 TCC 27
+- Decision date: 2025-02-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6027, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fuhr v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-02-25
+Neutral citation
+2025 TCC 27
+File numbers
+2019-3215(IT)G, 2019-3217(IT)G
+Judges and Taxing Officers
+Gabrielle St-Hilaire
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-3217(IT)G
+BETWEEN:
+TIM FUHR,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Docket: 2019-3215(IT)G
+AND BETWEEN:
+1499546 ALBERTA LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+The Honourable Gabrielle St-Hilaire, Chief Justice
+ORDER ON COSTS
+In accordance with the attached Reasons for Order, the Appellants collectively are awarded costs of $36,518.31, plus disbursements of $1,725.20 for a total of $38,243.51.
+Signed this 25th day of February 2025.
+“Gabrielle St-Hilaire”
+St-Hilaire C.J.
+Citation: 2025 TCC 27
+Date: 20250225
+Docket: 2019-3217(IT)G
+BETWEEN:
+TIM FUHR,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2019-3215(IT)G
+AND BETWEEN:
+1499546 ALBERTA LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER ON COSTS
+St-Hilaire C.J.
+I. Introduction
+[1] The Appellants were successful in their appeals of the reassessments made under the Income Tax Act (ITA) for all taxation years before the Court (Fuhr v R, 2024 TCC 43). Tim Fuhr appealed from reassessments for his 2011, 2012 and 2013 taxation years. 1499546 Alberta Ltd. (1499) appealed from its reassessments for taxation years ending September 30, 2012 and 2013. The appeals were heard on common evidence.
+[2] Using net worth and bank deposit analyses, the Minister of National Revenue (Minister) reassessed Tim Fuhr to include unreported income and shareholder benefits and reassessed 1499 to include unreported income and disallow expenses. All reassessments were made beyond the normal reassessment period and the Minister assessed penalties under subsection 163(2) of the ITA.
+[3] At the time of my judgment, I gave the parties 30 days to reach an agreement on costs failing which they had a fixed period to serve and file submissions on costs. Having been unable to reach an agreement, the parties filed submissions in which the Appellants requested a costs award in the amount of $59,583.77 while the Respondent submitted the costs awarded should total $15,698.96.
+[4] The Appellants’ request for costs consists of the following components:
+·partial indemnity costs of $52,596.10 calculated as 60% of their solicitor‑client costs of $87,660.16;
+·100% of disbursements in the amount of $1,725.20; and
+· 75% of the costs incurred in attempting to reach an agreement and preparing their submissions on costs in the amount of $5,262.47 (75% of $7,016.63).
+[5] The Respondent submits that the costs awarded should be computed in accordance with 1.5 times the Tariff B amounts in Schedule II of the Tax Court of Canada Rules (General Procedure) (Rules) plus disbursements including HST which results in total costs of $15,698.96.
+II. Applicable Legal Principles [6] Pursuant to section 147 of the Rules (reproduced in Appendix “A” to these reasons), the Court has broad discretionary power to determine the costs of all parties involved in any proceeding before the Court (see for example CIT Group Securities (Canada) Inc. v R, 2017 TCC 86 at para 6 [CIT]; Univar Holdco Canada ULC v R, 2020 TCC 15 at para 48 [Univar]). The Court’s broad discretionary power must nonetheless be exercised on a principled basis (Guibord v R, 2011 FCA 346 at paras 9-10; Lau v R, 2004 FCA 10 at para 5; CIT, supra at para 8; Univar, supra at paras 47-48; MacDonald v R, 2018 TCC 55 at para 42).
+[7] Subsection 147(4) of the Rules specifically provides that the Court may fix costs “with or without reference to Schedule II, Tariff B.” As expressed by judges of this Court, the Tariff B amounts are but a default absent a determination made under section 147 of the Rules (see for example Univar, supra at para 49; Duffy v R, 2020 TCC 135 at para 20 [Duffy]).
+[8] I adopt the view expressed by Justice Owen, as he then was, in CIT, supra at para 9, that in exercising its discretion to determine the amount of costs, the allocation of those costs and the persons required to pay them as provided for in subsection 147(1) of the Rules, it is not mandatory that the Court consider the factors listed in subsection 147(3). I note that subsection 147(3) specifically provides that in exercising its discretionary power, the Court may consider the enumerated list of factors. Justice Owen acknowledged, as have other judges of this Court, that the listed factors provide a helpful framework for determining costs on a principled basis (CIT, supra at para 9; Grenon v R, 2021 TCC 89 at para 7). In Velcro Canada Inc. v R, 2012 TCC 273 at para 9, Associate Chief Justice Rossiter, as he then was, described the listed factors as “key considerations” in the determination of costs awards. I agree with them both and I will turn my mind to the factors listed in subsection 147(3), and in particular, to those on which the parties focussed their submissions.
+III. Analysis [9] The Appellants assert that they are not seeking solicitor and client costs. Nor are they seeking substantial indemnity costs, defined as 80% of solicitor and client costs in subsection 147(3.5) of the Rules, as they acknowledged that the parties did not make settlement offers that meet the requirements of subsections 147(3.1) to (3.8).
+[10] They are however seeking partial indemnity costs, sometimes referred to as party-and-party costs. These are intended to indemnify, to compensate the winning party for their costs of pursuing the appeal; they are not meant to be punitive and unlike solicitor and client costs, they are not meant to provide full indemnification of legal costs (see for example Grenon, supra at para 12; MacDonald, supra at para 44). I note that in Grenon, supra at paras 16-20, Justice Smith reviewed the relevant case law and concluded that “the range of indemnification for partial indemnity costs is actually somewhere between 30% and 75% of solicitor-client costs, the latter being the high end of the scale” and added that “this would not preclude an award at a lower percentage in appropriate circumstances.”
+[11] As indicated earlier, the Appellants are seeking costs in the amount of 60% of their solicitor and client costs incurred in the course of the appeals, 100% of their disbursements and 75% of the legal fees associated with attempting to settle the issue of costs and, having failed in that regard, the costs of preparing their submissions on costs.
+Pre-appeal and post-judgment costs
+[12] The Respondent disputes the inclusion of expenses incurred before the appeals were commenced with the drafting of the notices of appeal as well as expenses incurred in attempting to negotiate a settlement on costs and for the preparation of submissions on costs.
+[13] In calculating the costs incurred “in the course of these appeals”, the Appellants included two invoices (numbered 122486 and 123503) totalling $3,381.01 that relate to fees incurred for services provided before the appeals were commenced.
+[14] Subsection 147(1) speaks of costs of all parties involved in any proceeding, a term defined in section 2 of the Rules to mean “an appeal or reference”. In my view, the reference to a proceeding in subsection 147(1) together with the definition of that word in the Rules leads to an exclusion of costs incurred by a party prior to the commencement of an appeal (see for example R v Martin, 2015 FCA 95 at paras 18-22). In Duffy, supra at para 23, Justice Sommerfeldt, as he then was, stated: “it has been held that, unless there are exceptional circumstances, costs should not be awarded in respect of expenditures incurred prior to the drafting of the particular notice of appeal”. I agree. As there are no exceptional circumstances in these appeals, the amount of $3,381.01 for services rendered prior to drafting the notices of appeal will be excluded from the Appellants’ costs.
+[15] Neither party offered jurisprudence in support of their respective positions on whether costs incurred relative to the determination of costs should be included or excluded from any costs considerations.
+[16] Although the proceeding commenced with the notices of appeal and ended with the judgment rendered on April 11, 2024, costs considerations are part of that judgment. In fact, the judgment specifically addresses the costs issue and provides a timeline for the filing of submissions on costs if parties are unable to reach an agreement on that issue. Hence, in my view, costs incurred in attempting to come to an agreement on costs and then preparing written submissions in accordance with this Court’s judgment on the appeals can be included as part of the costs considerations. A review of some of the relevant case law reveals several decisions of our Court wherein costs related to the preparation of costs submissions were awarded (see for example Buday v R, 2019 TCC 164; Ike Enterprises Inc. v R, 2017 TCC 160; Damis Properties Inc. v R, 2021 TCC 44), albeit sometimes limiting such costs to an amount based on the Tariff (see for example Hutchison Whampoa Luxemburg Holdings SÀRL v R, 2024 TCC 74; Martin v R, 2014 TCC 50).
+Subsection 147(3) Factors A. Paragraph 147(3)(a) – result of the proceeding
+[17] In 2078970 Ontario Inc., in its capacity as designated partner of Lux Operating Limited Partnership v R, 2018 TCC 214 at para 10 [Lux], Justice Graham wrote as follows:
+[i]n my view, when determining the quantum of costs to be awarded, the result of the proceeding is only an appropriate factor to consider if it is possible for a party to have had mixed success in the proceeding. If a proceeding involves a number of different issues and a party has been completely successful on all of those issues, that will argue in favour of higher costs.
+[18] In these appeals, there were multiple issues, such as alleged unreported income, shareholder benefits and disallowed expenses, for which there were different potential outcomes, thus there was a possibility for mixed success. Parties agree that the Appellants were successful on all issues. The Respondent acknowledges that this factor weighs in favour of higher costs.
+B. Paragraph 147(3)(b) – amounts in issue [19] The parties disagree on the amounts in issue. The Appellants submit that the amounts in issue are inclusive of taxes, penalties and interest as well as provincial taxes and interest and total almost 2 million dollars.
+[20] The Respondent submits that the total amounts in issue are approximately $700,000 on the basis of the federal tax and penalties at issue, interest and provincial taxes excluded. The Respondent argues that the term “amounts in issue” should be interpreted by reference to the definition of “the aggregate of all amounts” found in section 2.1 of the Tax Court of Canada Act to mean the total of all amounts assessed under the ITA but does not include any amount of interest. I do not find the Respondent’s reliance on L & K Farms Ltd. v R, 2002 CanLII 63851 (TCC) of any assistance as it referred to the definition of “the aggregate of all amounts” in the context of determining the class of proceedings for the purposes of applying the Tariff, but not with a view to interpreting the phrase “amounts in issue” in section 147 of the Rules.
+[21] A perusal of the relevant jurisprudence leads to a conclusion that there are different views on what constitutes “amounts in issue”. Judges of this Court have characterized “amounts in issue” in various ways, some finding they included tax interest and penalties (see for example, Invesco Canada Ltd. v R, 2015 TCC 92; Guibord v R, 2011 TCC 53; Spruce Credit Union v R, 2014 TCC 42 [Spruce]), others describing them as including unreported income and disallowed expenses, sometimes with interest and penalties added (see for example, Duffy, supra; 9196‑7448 Québec inc. v R, 2017 TCC 50 [Québec inc.]). I note that if amounts at issue were calculated on the basis of unreported income and disallowed expenses, the total would be over 2 million.
+[22] I do not propose to delve into an in-depth analysis of whether amounts in issue should be inclusive of interest or whether one could turn its mind to the provincial amounts which could materially increase the total of federal tax at issue (see for example Spruce, supra at para 34).
+[23] Without any explanation, the Respondent submitted that this factor was neutral. It is unclear to me why this factor is neutral even if I were to accept that the amounts in issue totalled $700,000. In my view, in determining the significance of the amounts in issue, this Court ought to contextualize the amounts (see for example Daishowa-Marubeni International Ltd. v R, 2013 TCC 275 at para 8 [Daishowa]; Québec inc., supra at para 24).
+[24] Whether the amounts in issue for the two Appellants combined are 2 million as the Appellants submit or $700,000 as calculated by the Respondent, I find that the amounts in issue, taking into account the circumstances of these appeals, are significant (see for example Zeller Estate v R, 2009 TCC 135 at para 20; Scavuzzo v R, 2006 TCC 90 at para 9). This factor militates in favour of increased costs.
+C. Paragraphs 147(3)(c), (e) and (f) - importance of the issues, volume of work, complexity of the issues [25] The Appellants made no submissions on the factors listed in paragraphs 147(3)(c), (e) and (f), the importance of the issues, the volume of work and the complexity of the issues. The Respondent submitted there were no issues of broad significance in these appeals, nor were the issues complex. In addition, the Respondent explained that these appeals did not require a workload beyond what is normally associated with tax litigation, discovery having been completed in two partial days and the hearing conducted in less than 2 days, such that these factors were neutral. I agree. Although important to the Appellants, the resolution of the issues in these appeals is not of broader interest to the tax community or to taxpayers generally; and while net worth and bank deposit analyses are fact intensive and can require the examination of hundreds of transactions or entries, the issues in these appeals were not complex (see for example Duffy, supra at paras 38, 45 and 47). I conclude that these three factors have no impact on the quantum of costs in these appeals.
+D. Paragraph 147(3)(d) – any offer of settlement in writing [26] Paragraph 147(3)(d) of the Rules lists “any offer of settlement in writing” as a factor that may be considered in determining an award of costs. Subsections 147(3.1) to (3.8) apply to written offers of settlement that were made 90 days prior to the commencement of the hearing, were not withdrawn and did not expire earlier than 30 days before the hearing. When subsections 147(3.1) to (3.8) apply, a successful party who obtains a judgment as favourable or more favourable than the terms of the offer of settlement may be entitled to “substantial indemnity costs” as of a certain date, defined as 80% of solicitor and client costs in subsection 147(3.5) of the Rules.
+[27] The Respondent made a written offer of settlement on December 22, 2023. The Appellants responded with a written counteroffer on January 2, 2024. Neither offer was accepted.
+[28] The Appellants submit that they did significantly better at trial than what they were prepared to accept by way of their counteroffer which was principled and should have been accepted, thereby avoiding the trial. The Appellants argue that this factor supports a significant increase in the award of costs, particularly in light of the view expressed in Daishowa, supra at para 18, that “[i]t is clear from the recent rule changes that the Tax Court of Canada considers settlement offers a very significant factor, if not the most significant factor, in the determination of costs”.
+[29] Clearly, the offers of settlement made in the context of these appeals are not captured by subsections 147(3.1) and (3.2) of the Rules. However, the Respondent submits that the “Appellants’ characterization of their January 2, 2024 counter‑offer ignores paragraph 147(3)(d) and subsections 147(3.1) and (3.3) of the Rules, which give context to the type of offers that would attract enhanced costs”. I am not clear on exactly what the Respondent is suggesting. In my view, paragraph 147(3)(d) stands alone in providing that the Court may consider any offer of settlement in the exercise of its discretion to make a determination on quantum of costs. Of course, this does not detract from the condition that “only offers that, as a matter of law, could have been accepted can trigger cost consequences” as expressed by Justice Stratas in CIBC World Markets Inc. v R, 2012 FCA 3 at para 15.
+[30] The Respondent submitted that the Appellants made no substantial alteration to the Respondent’s offer, other than to request relief that was outside this Court’s jurisdiction. I understand that to be the Appellants’ request that changes be made to the shareholder loan account maintained for Tim Fuhr by a corporation that was not a party to these appeals. The Appellants acknowledged that their settlement proposal would require minutes of settlement. Although the Respondent submits that the Appellants could not have obtained a judgment matching their counteroffer and characterized this factor as neutral, they do not submit that it could not be accepted on the grounds that it was not principled. The Appellants’ reliance on Chaplin v R, 2017 TCC 194, in support of their counteroffer was not addressed in the decision of this Court on the merits such that it remains untested, but it does not at first glance appear to be unprincipled.
+[31] The results obtained by the Appellants at trial are significantly better than what they were prepared to settle for by way of their counteroffer. This factor favours the Appellants and argues for higher costs.
+E. Paragraphs 147(3)(g) and (h) – conduct affecting the length of the proceeding and failure to make admissions [32] Pursuant to paragraph 147(3)(g), the Court may consider the conduct of any party that tended to shorten or lengthen the duration of the proceeding. Paragraph 147(3)(h) refers to the denial or the neglect or refusal of any party to admit anything that should have been admitted. The Appellants submitted that these factors favoured an increased award of costs. The Respondent submitted they were neutral.
+[33] With respect to paragraph 147(3)(g), Counsel for the Appellants appears to submit that because the evidence with respect to 1499 was weak, this factor favours an increased award of costs.
+[34] At trial, the Respondent acknowledged the weak link in their position that 1499 had unreported income on the basis that the money that came into Tim Fuhr’s hands that could not be accounted for must have come from 1499. I found it to be a fatally weak link because the money could have come from Tim Fuhr’s involvement with several other corporations that were not before the Court. Counsel for the Appellants submitted that the entire case against 1499 was based on pure conjecture and bald assertions, terms I used in the reasons, while portions of the evidence with respect to Tim Fuhr were weak and accordingly supported his argument for increased costs.
+[35] In their submissions on paragraph 147(3)(g), the Respondent stated that both parties were facing incomplete and inconsistent evidence and submitted that neither party’s conduct shortened or lengthened the duration of the proceeding unnecessarily. The Respondent submitted that while this Court did not find that the evidence supported a finding of misrepresentation to justify reassessing beyond the normal reassessment period, it did find that Tim Fuhr’s testimony was inadequate and unreliable, and on one issue, defied common sense and credibility.
+[36] Both counsel referred to paragraph 147(3)(h) without raising any specific grounds to support their position, simply stating that the same considerations as those discussed in relation to paragraph 147(3)(g) applied.
+[37] The Appellants relied on Madison Pacific Properties v R, 2024 TCC 47 at para 22, wherein Justice Graham asserted that “where the weakness of the evidence in support of an argument are as apparent as they were in this case, it is appropriate to deal with the pursuit of that argument through costs.” The weakness of the evidence in support of the Respondent’s position that 1499 had unreported income favours slightly an increase in costs. I do not make the same finding with respect to Tim Fuhr’s appeal.
+[38] I do not find that either party’s conduct unduly lengthened the proceeding. Had the Respondent conceded their position with respect to 1499, it would not have shortened the hearing significantly. The net worth and bank deposit analyses introduced into evidence at trial were conducted on Tim Fuhr, not on 1499 and hence would have been part of the evidence at trial even if the Respondent had conceded the appeal of 1499. Similarly, Tim Fuhr’s testimony would not have been considerably shortened.
+IV. General Comments and Conclusion [39] Based on all of the above, and having carefully considered the factors listed in subsection 147(3) of the Rules, I find that the Appellants are entitled to costs beyond the Tariff. However, I am not willing to accept the Appellants’ suggestion of an award of costs in the amount of $59,583.77 calculated, in part, on the basis of 60% of solicitor-client costs. Nor am I willing to accept the Respondent’s suggestion of an award of costs of $15,698.96 calculated on the basis of 1.5 times the Tariff. Rather, I find that an award of costs based on 40% of solicitor-client costs plus disbursements is appropriate in the circumstances. I find that it appropriately contributes to the costs incurred by the Appellants in the conduct of these appeals.
+[40] I find that in considering the quantum of “higher costs” there are elements of the evidence introduced at trial from all parties that ought to be considered. The Respondent’s case with respect to 1499 was weak, the net worth analysis conducted on Tim Fuhr seriously flawed. The Respondent’s evidence could not support a finding of misrepresentation, an issue for which they bore the burden. Notwithstanding that, I hasten to add that some of Tim Fuhr’s evidence, both viva voce and documentary, was inadequate and unreliable and on a particular issue, his oral testimony defied common sense and credibility. In addition, the testimony of 1499’s external accountant was required to overcome the challenges posed by a lack of documentary support for its claimed expenses. The evidence at trial was messy, but perhaps not messier than usual for appeals of net worth assessments. As mentioned in my decision on the merits, and borrowing the words of Justice Bowman, as he then was, the net worth method is a blunt instrument providing an unsatisfactory and imprecise way of estimating income (see Ramey v R, 93 DTC 791 at para 6).
+[41] As indicated earlier, the Appellants have requested costs calculated as follows:
+partial indemnity costs of $52,596.10 calculated as 60% of their solicitor‑client costs of $87,660.16;
+100% of disbursements in the amount of $1,725.20; and
+· 75% of the costs incurred in attempting to reach an agreement and preparing their submissions on costs in the amount of $5,262.47 (75% of $7,016.63).
+[42] As explained above, I will remove the amount of $3,381.01 incurred for work done prior to the drafting of the notices of appeal thereby reducing the solicitor-client costs from $87,660.16 to $84,279.15 for services up to the judgment on appeal. The Appellants are entitled to costs plus disbursements totalling $38,243.51 calculated as follows:
+partial indemnity costs equal to 40% of their solicitor-client costs of $84,279.15 totalling $33,711.66;
+100% of disbursements in the amount of $1,725.20; and
+· 40% of the costs incurred in attempting to reach an agreement and preparing their submissions on costs being 40% of $7,016.63 totalling $2,806.65.
+[43] I conclude that in the circumstances, the Tariff is inadequate but not in the amount suggested by the Appellants. Having reviewed the factors listed in section 147 of the Rules and taking into consideration what transpired at the hearing, I find that an amount of $38,243.51 is an appropriate costs award.
+Signed this 25th day of February 2025.
+“Gabrielle St-Hilaire”
+St-Hilaire C.J.
+APPENDIX “A”
+Costs
+General Principles
+147 (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+(3.1) Unless otherwise ordered by the Court, if an appellant makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement, the appellant is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+(3.2) Unless otherwise ordered by the Court, if a respondent makes an offer of settlement and the appellant obtains a judgment as favourable as or less favourable than the terms of the offer of settlement or fails to obtain judgment, the respondent is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+(3.3) Subsections (3.1) and (3.2) do not apply unless the offer of settlement
+(a) is in writing;
+(b) is served no earlier than 30 days after the close of pleadings and at least 90 days before the commencement of the hearing;
+(c) is not withdrawn; and
+(d) does not expire earlier than 30 days before the commencement of the hearing.
+(3.4) A party who is relying on subsection (3.1) or (3.2) has the burden of proving that
+(a) there is a relationship between the terms of the offer of settlement and the judgment; and
+(b) the judgment is as favourable as or more favourable than the terms of the offer of settlement, or as favourable or less favourable, as the case may be.
+(3.5) For the purposes of this section, substantial indemnity costs means 80% of solicitor and client costs.
+(3.6) In ascertaining whether the judgment granted is as favourable as or more favourable than the offer of settlement for the purposes of applying subsection (3.1) or as favourable as or less favourable than the offer of settlement for the purposes of applying subsection (3.2), the Court shall not have regard to costs awarded in the judgment or that would otherwise be awarded, if an offer of settlement does not provide for the settlement of the issue of costs.
+(3.7) For greater certainty, if an offer of settlement that does not provide for the settlement of the issue of costs is accepted, a party to the offer may apply to the Court for an order determining the amount of costs.
+(3.8) No communication respecting an offer of settlement shall be made to the Court, other than to a judge in a litigation process conference who is not the judge at the hearing, until all of the issues, other than costs, have been determined.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+(6) The Court may give directions to the taxing officer and, without limiting the generality of the foregoing, the Court in any particular proceeding may give directions,
+(a) respecting increases over the amounts specified for the items in Schedule II, Tariff B,
+(b) respecting services rendered or disbursements incurred that are not included in Schedule II, Tariff B, and
+(c) to permit the taxing officer to consider factors other than those specified in section 154 when the costs are taxed.
+(7) Any party may,
+(a) within thirty days after the party has knowledge of the judgment, or
+(b) after the Court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any direction concerning costs, apply to the Court to request that directions be given to the taxing officer respecting any matter referred to in this section or in sections 148 to 152 or that the Court reconsider its award of costs.
+CITATION:
+2025 TCC 27
+COURT FILE NOs.:
+2019-3217(IT)G
+2019-3215(IT)G
+STYLE OF CAUSE:
+TIM FUHR AND HIS MAJESTY THE KING
+1499546 ALBERTA LTD. AND HIS MAJESTY THE KING
+REASONS FOR ORDER ON COSTS BY:
+The Honourable Gabrielle St-Hilaire, Chief Justice
+DATE OF ORDER:
+February 25, 2025
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert A. Neilson
+Firm:
+Felesky Flynn LLP 2610, 10111 – 104 Ave NW Edmonton, Alberta T5J 0J4
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

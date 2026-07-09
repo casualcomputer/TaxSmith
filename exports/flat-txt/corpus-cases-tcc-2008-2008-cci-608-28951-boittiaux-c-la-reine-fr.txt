@@ -1,0 +1,158 @@
+Title: Boittiaux c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28951/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-608-28951-boittiaux-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-11-07
+
+# Boittiaux c. La Reine
+
+- Citation: 2008 CCI 608
+- Decision date: 2008-11-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1391, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boittiaux c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-07
+Référence neutre
+2008 CCI 608
+Numéro de dossier
+2007-4754(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4754(IT)I
+ENTRE :
+RICHARD E. BOITTIAUX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Calgary (Alberta) le 16 mai 2008.
+Devant : L’honorable juge M.A. Mogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Lesley M. Akst
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2008.
+« M.A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 29e jour de décembre 2008.
+Sara Tasset
+Référence : 2008 CCI 608
+Date : 20081107
+Dossier : 2007-4754(IT)I
+ENTRE :
+RICHARD E. BOITTIAUX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Mogan
+[1] L’appelant et sa femme (Dianne) se sont séparés en septembre 2003. Après la séparation, Dianne a obtenu une ordonnance provisoire et, plus tard, une ordonnance définitive visant le paiement d’une pension alimentaire pour conjoint. Lorsque l’appelant a produit sa déclaration de revenus pour l’année 2005, il a demandé une déduction de 20 250 $ au titre de paiements de pension alimentaire pour conjoint Au moyen d’un avis de cotisation daté du 27 juin 2006, le ministre du Revenu national a permis à l’appelant de déduire seulement 9 250 $ au titre de paiements de pension alimentaire pour conjoint, et il a refusé la déduction du solde de 11 000 $. L’appelant a interjeté appel de cette cotisation sous le régime de la procédure informelle.
+[2] L’appelant et Dianne se sont mariés en 1995. Ils se sont séparés en septembre 2003. Dans les 12 documents qui sont devenus des pièces déposées aux fins du présent appel, rien n’indique que des enfants sont issus de ce mariage. L’histoire de la séparation est racontée dans ces documents, et étayée par le témoignage de l’appelant.
+[3] Après la séparation, Dianne a continué de vivre dans le foyer conjugal alors que l’appelant vivait avec sa mère. Dans les mois immédiatement après la séparation, l’appelant payait toutes les sommes relatives à l’hypothèque et aux services publics pour le foyer conjugal, mais il ne versait aucune pension alimentaire pour conjoint directement à Dianne. En juin 2004, Dianne a présenté une demande d’ordonnance provisoire de pension alimentaire pour conjoint devant la Cour du Banc de la Reine, Division de la famille, à Winnipeg. Sa demande a été entendue par la juge Allen le 21 juillet 2004.
+[4] La pièce R-1 est une copie de l’ordonnance provisoire prononcée par la juge Allen le 21 juillet 2004 à laquelle les motifs rendus oralement sont annexés. Le paragraphe 5.1 de l’ordonnance provisoire exigeait que l’appelant paie à Dianne une [TRADUCTION] « pension alimentaire pour conjoint de 1 750 $ par mois le premier jour de chaque mois, à compter du 1er août 2004 ». L’appelant a commencé à verser les 1 750 $ par mois à Dianne le 1er août 2004, alors que les négociations entre les parties se poursuivaient, par l’intermédiaire de leurs avocats respectifs, en vue de régler tous les litiges en suspens.
+[5] La pièce A-6 est une copie d’une lettre datée du 18 février 2005 que Me Zazelenchuk (l’avocat de l’appelant) avait adressée à Me Walder (l’avocate de Dianne) pour faire une offre de règlement. Il est pertinent d’exposer les conditions du règlement proposé par l’appelant :
+[TRADUCTION]
+1. Le produit net de la vente du foyer conjugal sera séparé en deux parts égales;
+2. De sa part du produit net de la vente, M. Boittiaux versera à Mme Boittiaux un paiement de compensation en vertu de la MPA de 4 940,82 $ (soit 8 820,82 $ moins 3 808,00 $);
+3. De sa part du produit net de la vente, M. Boittiaux paiera à Mme Boittiaux les dépens ordonnés par la juge Allen, à savoir la somme de 1 435 $;
+4. De sa part du produit net de la vente, M. Boittiaux paiera à Mme Boittiaux la somme de 11 000 $, ce qui représentera à la fois un paiement forfaitaire et un paiement remplaçant tout partage des prestations de pension. En décembre 2003, la différence entre la valeur des prestations de pension était d’environ 12 000 $ et celle-ci a, bien entendu, changé à mesure que les intérêts se sont accumulés, mais la différence entre les deux devrait continuer d’être à peu près la même, et il faut garder à l’esprit qu’il s’agit ici de la valeur actuelle, non imposable, par opposition à la valeur future, imposable;
+5. Mme Boittiaux recevra une pension alimentaire pour conjoint de 1 000 $ par mois pour les mois de mars 2005 à février 2007, ces deux mois étant inclus;
+6. M. Boittiaux entamera sans délai des procédures de divorce et paiera tous les coûts associés à l’obtention du divorce.
+[6] La pièce A-5 est une copie d’une lettre datée du 28 février 2005 que Me Walder a adressée à Me Zazelenchuk en réponse à la lettre qui constitue la pièce A-6 déposée aux fins du présent appel. Dans sa lettre, Me Walder répond à chacun des six points abordés dans l’offre de règlement de l’appelant. Je ne traiterai que des points 4 et 5 étant donné qu’ils sont les seuls points pertinents en l’espèce.
+[TRADUCTION]
+4. Mme Boittiaux acceptera la somme de 11 000 $ à titre de paiement forfaitaire de pension alimentaire pour conjoint et de paiement remplaçant tout partage des prestations de pension. Selon mes calculs, et après avoir déterminé la valeur après impôt de la différence entre les pensions de nos clients respectifs, le paiement forfaitaire n’a une valeur que d’environ 6 600 $. Plus loin dans votre proposition, vous dites que Mme Boittiaux devrait recevoir 750 $ de moins par mois à titre de pension alimentaire pour conjoint que ce qu’elle reçoit actuellement de votre client. Par conséquent, vous voyez que le paiement forfaitaire d’environ 6 600 $ n’est pas une somme très importante compte tenu de ce à quoi vous demandez à Mme Boittiaux de renoncer en ce qui concerne les paiements mensuels de pension alimentaire pour conjoint. Cela étant dit, si votre client est prêt à renoncer à toute réclamation à l’égard de la différence entre les REER des parties, Mme Boittiaux acceptera la somme de 11 000 $ à titre de paiement forfaitaire de pension alimentaire pour conjoint et de paiement remplaçant tout partage des prestations de pension.
+5. […] Nous sommes déjà au début du mois de mars et ne pouvons pas commencer la réduction au 1er mars 2005. Comme vous le savez, l’ordonnance provisoire rendue par la juge Allen devra être modifiée ou remplacée par une ordonnance définitive.
+[7] L’appelant et Dianne sont parvenus à régler leurs différends sans trop s’éloigner des conditions énoncées dans les lettres de leurs avocats (pièces A-5 et A-6). La pièce A-1 est une copie de l’ordonnance définitive rendue par la juge Rivoalen sur consentement et datée du 25 mars 2005. Je n’exposerai que les parties de l’ordonnance définitive (pièce A-1) qui sont pertinentes en l’espèce :
+[TRADUCTION]
+5.1 RICHARD EUGENE BOITTIAUX doit verser à DIANNE ELIZABETH BOITTIAUX un paiement forfaitaire de pension alimentaire pour conjoint de 11 000 $ tiré de la part de RICHARD EUGENE BOITTIAUX du produit net de la vente du foyer conjugal situé au 942, avenue Polson, à Winnipeg (Manitoba);
+5.2 RICHARD EUGENE BOITTIAUX doit payer à DIANNE ELIZABETH BOITTIAUX une pension alimentaire pour conjoint de 1 000 $ par mois le premier jour de chaque mois, à compter du 1er avril 2005 et jusqu’au 1er février 2007 inclusivement, après quoi les paiements de pension alimentaire pour conjoint prendront fin de façon définitive.
+6.1 Aucune partie du droit à pension ou des prestations de pension, selon le cas, auxquels DIANNE ELIZABETH BOITTIAUX peut avoir droit aux termes du régime de pension des employés municipaux de Winnipeg (Winnipeg Civic Employees’ Benefits Program pension plan) ne sera divisée entre DIANNE ELIZABETH BOITTIAUX et RICHARD BOITTIAUX;
+6.2.1 Aucune partie du droit à pension ou des prestations de pension, selon le cas, auxquels RICHARD EUGENE BOITTIAUX peut avoir droit aux termes du régime de pension auquel il participe dans le cadre de son emploi auprès de CP Rail ne sera divisée entre RICHARD EUGENE BOITTIAUX et DIANNE ELIZABETH BOITTIAUX.
+[8] Après que l’ordonnance définitive a été rendue, l’appelant et Dianne ont signé une [TRADUCTION] « ordonnance de paiement » (pièce A-2) qui a été envoyée au cabinet de l’avocate de Dianne (Me Walder) et qui enjoignait à ce cabinet de payer certaines sommes tirées du [TRADUCTION] « produit net de la vente » du foyer conjugal. De la moitié du produit net de la vente revenant à l’appelant, l’une des sommes que l’appelant a versées à Dianne était [TRADUCTION] « la somme de 11 000 $ à titre de paiement forfaitaire de pension alimentaire pour conjoint ». L’ordonnance de paiement était datée du 26 mars et du 1er avril 2005. Il ne fait aucun doute que le paiement forfaitaire a été versé à Dianne en 2005.
+[9] Le 1er août 2005, l’appelant a cessé de verser à Dianne les 1 000 $ par mois mentionnés dans la pièce A-1 au motif qu’il ne travaillait pas en raison d’une déficience quelconque. De nouvelles instances ont été engagées devant la Cour du Manitoba en octobre 2005 (voir les pièces A-3 et A-4) en ce qui concerne la requête déposée par l’appelant en vue de modifier ses paiements de pension alimentaire pour conjoint. Le résultat de ces instances n’est pas pertinent aux fins du présent appel parce qu’il n’a aucune incidence sur la question en litige.
+[10] Il n’y avait aucun désaccord entre l’appelant et Dianne en ce qui concerne les sommes en jeu dans le présent appel. Pour l’année 2005, l’appelant a déduit dans le calcul de son revenu la somme de 20 250 $ à titre de paiements de pension alimentaire pour conjoint. Pour l’année 2005, Dianne a déclaré un revenu de 9 250 $ à titre de pension alimentaire pour conjoint, mais n’a pas inclus dans ce revenu le paiement forfaitaire de 11 000 $. Voir les pièces R-2 et R-3. La seule question en litige dans le présent appel est de savoir si la somme de 11 000 $ peut être déduite par l’appelant à titre de pension alimentaire pour conjoint.
+[11] Le droit qu’a l’appelant de déduire dans le calcul de son revenu les sommes payées à titre de pension alimentaire pour conjoint est prévu à l’alinéa 60b) de la Loi de l’impôt sur le revenu (la « Loi »).
+60 Peuvent être déduites dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes suivantes qui sont appropriées :
+a) […]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l’année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d’imposition antérieure;
+[12] L’expression importante de la partie A de l’alinéa 60b) est « pension alimentaire ». Cette expression est définie de la façon suivante au paragraphe 56.1(4) de la Loi :
+56.1(4) Les définitions qui suivent s’appliquent au présent article et à l’article 56.
+[…]
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+En vertu du paragraphe 60.1(4) de la Loi, les définitions figurant au paragraphe 56.1(4) s’appliquent à l’article 60.
+[13] L’appelant réclame le droit de déduire la somme de 11 000 $ pour l’année 2005 parce que cette somme est appelée [TRADUCTION] « paiement forfaitaire de pension alimentaire pour conjoint » dans l’ordonnance définitive (pièce A-1) et parce qu’elle a été payée en vue de faire passer les paiements mensuels de 1 750 $ à 1 000 $ après le 1er mars 2005. Le ministre du Revenu national a refusé la déduction de la somme de 11 000 $ parce que celle-ci ne correspondait pas à une allocation périodique. Il s’agit là de la question essentielle en litige dans le présent appel.
+[14] Tout au long de l’année civile 2005, l’appelant était tenu de verser à Dianne des paiements mensuels de pension alimentaire pour conjoint aux termes de l’ordonnance provisoire (pièce R-1) ou de l’ordonnance définitive (pièce A-1). Les paiements mensuels de 1 750 $ prévus par l’ordonnance provisoire ont été versés jusqu’en mars 2005 inclusivement. Les paiements mensuels de 1 000 $ prévus par l’ordonnance définitive ont commencé en avril 2005 et ont pris fin en février 2007. En plus de ces paiements mensuels, l’appelant a versé à Dianne la somme forfaitaire de 11 000 $ qui fait l’objet du présent appel. Voir la pièce A-2 (ordonnance de paiement).
+[15] La question en litige dans le présent appel n’est pas nouvelle. Au fil des ans, la Cour s’est penchée à de nombreuses reprises sur la question de savoir si l’un des conjoints (habituellement le mari) pouvait déduire dans le calcul de son revenu une somme forfaitaire payée au conjoint dont il était séparé. Dans The Queen v. McKimmon, 90 DTC 6088, la Cour d’appel fédérale a établi des lignes directrices utiles pour trancher cette question. La ligne directrice la plus pertinente en l’espèce correspond au critère numéro 8 énoncé dans les motifs de l’arrêt McKimmon :
+8. Les paiements sont-ils censés libérer le débiteur de toute obligation future de verser une pension alimentaire? Dans l'affirmative, il est plus facile de considérer les paiements comme l'échange ou l'achat du coût en capital d'une allocation d'entretien.
+[16] Dans son argumentation, l’appelant s’est appuyé sur le bulletin d’interprétation IT-530R daté du 17 juillet 2003 et publié par l’Agence du revenu du Canada. Le bulletin est intitulé « Pensions alimentaires ». Plus particulièrement, l’appelant renvoie aux paragraphes 21 et 22 du bulletin, sous la rubrique « Paiements périodiques ». Le paragraphe 21 renvoie à l’arrêt McKimmon et énonce certains critères, dont le point d) :
+d) Si les paiements font en sorte de libérer le payeur de son obligation future de verser des allocations indemnitaires – Si une telle libération existe, les paiements ne sont habituellement pas considérés comme ayant été versés à titre d'allocations indemnitaires.
+L’appelant soutient qu’il est visé par le point 22b) du bulletin :
+22. Une somme versée qui tient lieu de paiement forfaitaire ne peut pas être considérée comme un montant payable de façon périodique. Toutefois, il peut y avoir des cas où un montant forfaitaire versé dans une année d'imposition serait admissible à titre de paiement périodique lorsque l'on peut identifier
+a) […]
+b) que le paiement forfaitaire est versé conformément à une ordonnance d'un tribunal et conjointement avec une obligation actuelle de verser des allocations indemnitaires périodiques, et représente un paiement anticipé ou une avance sur la pension future payable de façon périodique, pour la seule raison de garantir les fonds au bénéficiaire.
+Dans l'une ou l'autre des situations mentionnées ci-dessus, le paiement forfaitaire ne changera pas, en soi, la nature de l'obligation légale sous-jacente, soit celle d'effectuer des paiements d'allocations indemnitaires périodiques.
+[17] Après avoir examiné tous les documents déposés en preuve, je ne suis pas convaincu que le paiement de 11 000 $ représentait un « paiement anticipé ou une avance sur la pension future payable de façon périodique » versé pour garantir des fonds à Dianne. Premièrement, des paiements de pension alimentaire pour conjoint non garantis de 1 000 $ par mois ont continué d’être versés après le paiement des 11 000 $. Deuxièmement, aucun lien n’a été fait entre la somme forfaitaire de 11 000 $ et la réduction de 750 $ dans les paiements mensuels, faisant passer ceux-ci de 1 750 $ à 1 000 $. Troisièmement, les lettres échangées entre les deux avocats donnent une explication différente et plus raisonnable à l’égard du paiement de 11 000 $.
+[18] Dans la lettre de l’avocat de l’appelant (pièce A-6) citée au paragraphe 5 ci-dessus, Me Zazalenchuk dit que la somme de 11 000 $ [TRADUCTION] « représentera un paiement forfaitaire et un paiement remplaçant tout partage des prestations de pension ». Dans la lettre de l’avocate de Dianne (pièce A-5) citée au paragraphe 6 ci-dessus, Me Walder dit [TRADUCTION] « […] si votre client est prêt à renoncer à toute réclamation à l’égard de la différence entre les REER des parties, [Dianne] acceptera la somme de 11 000 $ à titre de paiement forfaitaire de pension alimentaire pour conjoint et de paiement remplaçant tout partage des prestations de pension. »
+[19] Bien que l’ordonnance définitive (pièce A-1) décrive la somme de 11 000 $ comme un « paiement forfaitaire de pension alimentaire pour conjoint », ces mots n’établissent pas de façon concluante qu’il s’agissait d’une somme déductible aux fins de l’impôt sur le revenu lorsqu’elle a été payée en plus des paiements de pension alimentaire mensuels périodiques. Au moment de la séparation (2003), le revenu annuel de l’appelant était d’environ 80 000 $ et celui de Dianne était d’environ 35 000 $. Par conséquent, je suppose que l’appelant aurait des prestations de retraite plus élevées que Dianne. Il serait donc dans l’intérêt de l’appelant de payer une somme (peut-être 11 000 $) pour faire en sorte que Dianne ne fasse aucune réclamation, à ce moment-là ou plus tard, à l’égard de ses prestations de pension. Il est important de signaler que l’ordonnance définitive (pièce A-1), rendue avec le consentement de l’appelant et de Dianne, comportait des dispositions particulières (citées au paragraphe 7 ci-dessus) qui empêchaient la division de toutes prestations de pension entre les parties.
+[20] L’appelant s’est aussi appuyé sur une récente décision de la Cour d’appel fédérale, à savoir l’arrêt Ostrowski v. The Queen, [2002] 4 C.T.C. 196. Dans cette affaire-là, le juge O’Connell (Ontario) avait ordonné à M. Ostrowski en novembre 1994 de payer une pension alimentaire provisoire selon les modalités suivantes :
+(i) 800 $ par mois par enfant pour chacun des quatre enfants, pour un total de 3 200 $ par mois à titre de pension alimentaire pour enfants;
+(ii) 500 $ par mois à titre de pension alimentaire pour conjoint.
+Un certain nombre d’ordonnances judiciaires ultérieures rendues en Ontario et en Colombie-Britannique ont fait continuer le paiement des pensions alimentaires établies par le juge O’Connell.
+[21] Après la vente de la maison familiale des Ostrowski, le juge Drake (Colombie-Britannique) a ordonné en septembre 1995 que, de la moitié du produit de la vente revenant à M. Ostrowski, la somme de 88 800 $ soit mise de côté et conservée par l’avocat de l’épouse pour garantir le paiement des pensions alimentaires pour la période de 24 mois commençant en octobre 1995 et se terminant en septembre 1997. M. Ostrowski a déduit dans le calcul de son revenu 44 400 $ à titre de pensions alimentaires pour chacune des années 1995 et 1996.
+[22] Le ministre a refusé les déductions demandées par M. Ostrowski, celui-ci a interjeté appel, et l’affaire s’est retrouvée devant la Cour d’appel fédérale. La Cour d’appel fédérale a rejeté l’appel de M. Ostrowski pour l’année 1996 parce qu’il n’avait payé aucune pension cette année-là, mais elle a accueilli l’appel pour l’année 1995 et a fait passer la somme déductible à 112 200 $ aux motifs que : (i) M. Ostrowski avait payé en septembre 1995 la somme de 88 000 $ à l’égard de la période de 24 mois commençant en octobre 1995; (ii) M. Ostrowski avait également payé en 1995 la somme 23 400 $ pour des mois antérieurs à octobre 1995; (iii) toutes les sommes pouvaient être considérées comme étant des versements périodiques correspondant à 3 700 $ par mois en ce sens qu’elles avaient soit été payées en avance ou en retard. Lorsqu’elle a prononcé le jugement pour la Cour d’appel fédérale, la juge Sharlow s’est exprimée ainsi au paragraphe 25 de ses motifs :
+Toutes les ordonnances rendues après l’ordonnance O'Connell avaient pour but de faire respecter l’obligation alimentaire imposée par cette ordonnance parce qu’il s’est avéré que M. Ostrowski ne s’en acquittait pas régulièrement.
+[23] À mon avis, la décision rendue dans l’affaire Ostrowski se distingue facilement du présent appel parce que, dans Ostrowski, il n’y avait aucune pension alimentaire périodique autre que les sommes forfaitaires payées en avance ou en retard. Dans le présent appel, il y avait des pensions alimentaires périodiques de 1 750 $ par mois, ou de 1 000 $ par mois après le paiement de la somme de 11 000 $. Rien n’indique que la somme de 11 000 $ a été versée pour garantir des paiements ultérieurs. La somme de 11 000 $ est plus facilement rattachée à la question de la séparation des prestations de pension. Enfin, même si la somme de 11 000 $ est appelée « paiement forfaitaire de pension alimentaire pour conjoint » dans l’ordonnance définitive (pièce A-1), il est clair qu’il ne s’agissait pas de paiements périodiques.
+[24] Il n’est pas nécessaire d’examiner la jurisprudence citée par l’avocate de l’intimée. L’appel pour l’année d’imposition 2005 est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2008.
+« M.A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 29e jour de décembre 2008.
+Sara Tasset
+RÉFÉRENCE : 2008 CCI 608
+NO DU DOSSIER DE LA COUR : 2007-4754(IT)I
+INTITULÉ : RICHARD E. BOITTIAUX et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 16 mai 2008
+MOTIFS DU JUGEMENT : L’honorable juge M.A. Mogan
+DATE DU JUGEMENT : Le 7 novembre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Lesley M. Akst
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet : s/o
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

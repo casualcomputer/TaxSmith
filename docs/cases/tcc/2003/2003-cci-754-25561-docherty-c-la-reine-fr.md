@@ -1,0 +1,507 @@
+---
+title: "Docherty c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25561/index.do"
+last_modified: "2003-12-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 754"
+citation2: ""
+neutral_citation: "2003 CCI 754"
+decision_date: "2003-12-18"
+language: "fr"
+item_id: "25561"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2460
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:23:43.463000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2213a48ada2f44720548d8bc2ecc8d6cc82e79e2802587cd5738fc84784edbc6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Docherty c. La Reine
+
+- Citation: 2003 CCI 754
+- Decision date: 2003-12-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2460, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Docherty c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-18
+Référence neutre
+2003 CCI 754
+Numéro de dossier
+1999-3141(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 1999-3141(IT)G
+ENTRE :
+WILLIAM DOCHERTY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu avec les appels de Ronald J. Hakem (1999-3168(IT)G),
+les 7, 8 et 9 octobre 2003, à Windsor (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocats de l’appelant :
+Me Arthur M. Barat, c.r.
+Me Avril Farlam
+Avocats de l’intimée :
+Me Richard Gobeil
+Me Ronald MacPhee
+____________________________________________________________________
+JUGEMENT
+Attendu qu’au début de l’audience, l’avocat de l’appelant a informé la Cour que l’appelant se désistait des appels qu’il avait interjetés pour les années d’imposition 1992, 1994 et 1995 parce que des cotisations portant qu’aucun impôt n’est payable avaient été établies.
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1992, 1993, 1994 et 1995 sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 18e jour de décembre 2003.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 31e jour de mars 2009.
+D. Laberge, LL.L.
+Dossier : 1999-3168(IT)G
+ENTRE :
+RONALD HAKEM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus avec l’appel de William Docherty (1999-3141(IT)G),
+les 7, 8 et 9 octobre 2003, à Windsor (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocats de l’appelant :
+Me Arthur M. Barat, c.r.
+Me Avril Farlam
+Avocats de l’intimée :
+Me Richard Gobeil
+Me Ronald MacPhee
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1990, 1991, 1992, 1993, 1994, 1995 et 1996 sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 18e jour de décembre 2003.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 31e jour de mars 2009.
+D. Laberge, LL.L.
+Référence : 2003CCI754
+Date : 20031218
+Dossier : 1999-3141(IT)G
+ENTRE :
+WILLIAM DOCHERTY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 1999-3168(IT)G
+ET ENTRE :
+RONALD J. HAKEM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] L’appelant, M. Docherty, s’occupe depuis 48 ans de promotion immobilière à Windsor, principalement sous les auspices de R.C. Pruefer Co. Limited (« Pruefer »), une société qu’il contrôle. Pruefer était chargé de la promotion du projet se rattachant au centre municipal de Windsor à la fin des années 1970 et au début des années 1980. En 1990, la soumission qu’elle avait présentée à l’égard de la promotion du projet concernant une installation polyvalente de la ville de Windsor a été retenue. Ce projet a été organisé par l’entremise d’une société de personnes. M. Docherty et M. Hakem, le second appelant, dont les appels ont été entendus sur preuve commune, étaient des associés de la société de personnes Windsor Multi‑Use Facility Project (la « société de personnes »). De 1990 à 1995, la société de personnes a engagé, dans le cadre du projet, des dépenses de plus de onze millions de dollars (les « dépenses ») pour des honoraires facturés par Pruefer. Il n’a pas encore été donné suite au projet. La présente affaire porte fondamentalement sur la capacité de l’associé de déduire pareilles dépenses, dans le cas de M. Hakem, de 1990 à 1996, et dans le cas de M. Docherty, pour l’année 1993 seulement, étant donné que ce dernier a reconnu qu’aucun appel ne pouvait être interjeté des cotisations portant qu’aucun impôt n’est payable établies pour les années 1992, 1994 et 1995.
+[2] Les questions en litige sont les suivantes :
+a) Au cours des années en question, M. Docherty et M. Hakem étaient‑ils des commanditaires de la société de personnes, de sorte qu’ils étaient régis par les dispositions concernant la fraction à risques énoncées à l’article 96 de la Loi de l’impôt sur le revenu (la « Loi »), lesquelles limitent la déductibilité des pertes?
+b) Les dépenses étaient-elles raisonnables?
+c) Les dépenses étaient-elles des dépenses éventuelles, de sorte qu’elles n’étaient pas déductibles conformément à l’alinéa 18(1)e) de la Loi?
+d) Les dépenses ont-elles été engagées en vue de tirer un revenu, de sorte qu’elles sont déductibles conformément à l’alinéa 18(1)a) de la Loi?
+[3] Je conclus que, au cours des années pertinentes, M. Docherty et M. Hakem étaient des commanditaires. Cette conclusion constitue une réponse complète aux fins du rejet des appels, mais au cas où elle serait erronée, je ferai certaines remarques au sujet du caractère raisonnable des dépenses. Il ne sera pas nécessaire d’aborder les autres questions.
+Les faits
+[4] J’examinerai d’abord les faits se rapportant aux dispositions prises à l’égard de la société de personnes et je me pencherai ensuite sur les circonstances du projet d’installation polyvalente de la ville de Windsor.
+Les dispositions concernant la société de personnes
+[5] Le 14 juin 1989, Pruefer a conclu un contrat de société de personnes[1] avec M. Docherty en vue d’exploiter une entreprise sous le nom de Windsor Multi‑Use Facility. Selon le contrat, la société de personnes devait à un moment donné être transformée en une société en commandite. Le même jour, la société de personnes a conclu avec Pruefer une entente selon laquelle Pruefer devait prendre les mesures, entamer les pourparlers et faire les représentations nécessaires en vue de permettre à la société de personnes d’aménager une installation polyvalente, à Windsor. Cette entente prévoyait que les frais de gestion seraient calculés comme suit :
+[traduction] À la fin de l’exercice de la société de personnes, les associés examineront le rendement de R.C. Pruefer Co. Limited et décideront des frais de gestion raisonnables à verser à l’égard des services susmentionnés compte tenu du rendement de R.C. Pruefer.
+[6] M. Docherty a publié un document intitulé : [traduction] « Société en commandite des fondateurs », daté du 4 décembre 1990, en vue d’attirer des personnes qui seraient prêtes à investir des capitaux dans l’entreprise relative à l’installation polyvalente. Les investisseurs se voyaient offrir la possibilité d’acheter une part au montant de 400 000 $, moyennant un versement initial de 100 000 $, le solde devant être versé par tranches de 15 000 $ pendant un certain nombre d’années, selon les conditions énoncées dans le contrat de société en commandite.
+[7] Le 3 décembre 1990, un contrat de société en commandite[2] a été conclu entre M. Docherty, en sa qualité de commanditaire initial, et Windsor Multi‑Use Facility General Partner Inc. (le « commandité »), toutes les parts y afférentes étant détenues par M. Docherty. Aux termes du contrat, la société de personnes était constituée en tant que société en commandite conformément à la Loi sur les sociétés en commandite (Ontario) en vue d’exploiter une entreprise sous le nom de Windsor Multi‑Use Facility. La société de personnes devait émettre des parts en faveur des investisseurs afin de réunir des capitaux et de les investir dans l’entreprise de Windsor Multi‑Use Facility. L’entreprise de la société de personnes était décrite comme consistant à aménager et à exploiter l’installation polyvalente. Une part initiale de la société en commandite a été émise en faveur de M. Docherty, laquelle était rachetable en tout temps pour la somme de un dollar.
+[8] Les parts de la société de personnes devaient être vendues au moyen d’une notice d’offre. Les fonds obtenus par suite de la vente des parts devaient être utilisés pour rembourser les frais engagés jusqu’à ce moment‑là, dans le cadre de la promotion de l’installation polyvalente, ainsi que pour faciliter la promotion de l’installation. Le contrat autorisait l’émission de 15 parts au plus. Pendant la période pertinente, M. Docherty était administrateur, président et secrétaire du commandité.
+[9] Le 4 décembre 1990, dans une notice d’offre confidentielle de placement privé[3], il était déclaré que la société en commandite avait été créée le 3 décembre 1990 afin d’obtenir la cession des droits que Pruefer possédait en vertu de l’offre que celle‑ci avait soumise à la ville de Windsor à l’égard d’une installation polyvalente, afin de tirer un revenu de l’exploitation de cette installation et afin d’assumer une responsabilité limitée. Au moins huit et au plus 15 parts de la société en commandite devaient être vendues, au prix de 400 000 $ chacune. Les parts de la société en commandite étaient payables comme suit : (i) un versement initial de 100 000 $ était effectué au moment de la souscription; (ii) le solde de 300 000 $ était payable en vertu d’un billet relatif au solde de la souscription, des versements de 15 000 $ devant être effectués le 31 décembre 1991 et, par la suite, le 31 décembre de chaque année jusqu’au 31 décembre 2000 inclusivement; le solde final de 150 000 $ était payable en tranches de 15 000 $ (plus les intérêts), et il était payé à l’aide de la part du revenu net revenant aux associés pour chaque exercice; si cette part du revenu net était inférieure à 15 000 $, le déficit s’accumulait et le paiement était reporté à l’exercice suivant.
+[10] La notice d’offre disait que le produit global de la souscription devait être utilisé pour payer un montant de 855 000 $ se rattachant au coût des études de terrain, des études de marché, des études de faisabilité et des représentations faites à la ville de Windsor, un montant de 312 000 $ se rattachant aux honoraires professionnels et un montant de 175 000 $ se rattachant aux frais de gestion versés à Pruefer, ce qui représentait un montant de 1 342 000 $ en tout. La notice d’offre mentionnait également que la société en commandite conclurait un contrat de gestion avec Pruefer aux fins de la gestion de l’installation, pendant toute la durée du sous‑bail. La société de personnes devait examiner les honoraires demandés par Pruefer et décider s’ils étaient acceptables. Le comptable de Pruefer, M. Menzies, a déclaré avoir inclus cette condition étant donné que, comme il l’a dit, la chose risquait d’aboutir à des poursuites et qu’il voulait faire en sorte que les associés puissent faire valoir leur point de vue.
+[11] Les 13 et 18 décembre 1990 respectivement, Michael Ziter et Ronald Hakem ont chacun acquis une part dans la société en commandite. Ils ont chacun effectué le versement initial de 100 000 $ comptant. M. Hakem a témoigné avoir engagé des capitaux par esprit de civisme et à cause de ce qui était selon lui un taux de rendement raisonnable et une possibilité de tirer parti d’un abri fiscal aux premiers stades de l’affaire. Il croyait que les projections étaient réalisables. Il a également signalé qu’aucun cadeau n’était offert aux investisseurs, qu’il n’y avait pas de billets gratuits et pas de garanties.
+[12] Le contrat de société en commandite du 3 décembre 1990 a été modifié le 28 décembre 1990. Le contrat prévoyait qu’il y aurait désormais des « commandités » de catégories A, B et C. M. Docherty a donné fort peu d’explications au sujet de la modification; il s’est contenté de dire que la modification avait été effectuée sur consultation de M. Menzies, qui avait rédigé le contrat modifié. M. Hakem a déclaré que la modification avait été effectuée sur les conseils de son avocat et de son comptable fiscaliste. Il reconnaissait qu’en devenant commandité, il risquait d’engager sa responsabilité, mais il croyait pourvoir compter sur l’expérience professionnelle de M. Docherty. Aux termes de ce contrat modificateur, l’apport initial de 100 000 $ comptant demeurait le même pour un détenteur de part de la catégorie B ou de la catégorie C. Toutefois, le solde du prix de souscription serait désormais payable, avec les intérêts, à l’aide de la part du revenu net de chaque exercice revenant aux détenteurs de parts, une fois que le revenu net aurait été déterminé par le commandité. M. Menzies a expliqué que les parts des commandités étaient identiques et qu’elles étaient uniquement distinguées au moyen d’une lettre indiquant l’exercice au cours duquel elles étaient acquises, c’est‑à‑dire qu’il y avait une catégorie différente pour chaque exercice différent. Une disposition identique était insérée dans le contrat pour chacun des commandités des catégories A, B et C[4] :
+[traduction]
+7.1 Droits et pouvoirs
+Les droits des commandités de la catégorie A ne seront que ceux qui sont expressément prévus dans le présent contrat en ce qui concerne la structure et les affaires internes de la société de personnes. Les commandités de la catégorie A n’auront ni le droit ni le pouvoir d’agir au nom ou pour le compte de la société de personnes ou de lier la société de personnes et, à l’exception de l’exercice des droits de vote et d’approbation qui leur sont expressément conférés aux termes du présent contrat, les commandités de la catégorie A n’interviendront pas dans la gestion ou dans le contrôle de l’entreprise de la société de personnes et n’y prendront pas part. Les commandités de la catégorie A seront tenus personnellement responsables de toute dette ou obligation de la société de personnes et seront liés par de telles dettes et obligations. Les commandités de la catégorie A pourront avancer ou prêter de l’argent à la société de personnes ou faire des affaires avec la société de personnes. Les droits et obligations des commandités de la catégorie A qui font des affaires avec la société de personnes seront ceux qui sont prévus par la Loi sur les sociétés en nom collectif (Ontario).
+[13] Le contrat modificateur du 28 décembre 1990 renfermait également une nouvelle disposition au sujet des fonds nécessaires pour financer les activités de Windsor Multi‑Use Facility. Plus précisément, dans la mesure où les fonds nécessaires n’étaient pas disponibles à l’aide des recettes, des apports au comptant devaient être faits par les commandités des catégories A, B et C, sauf pour les 15 premières années, au cours desquelles Pruefer avancerait, pour le compte des commandités des catégories B et C, les montants que ceux‑ci auraient autrement été obligés de verser. Pruefer aurait uniquement le droit de recouvrer, sans intérêt, les montants à l’aide des sommes provenant des activités de l’entreprise auxquelles les commandités des catégories A et B auraient autrement eu droit. Au bout de 15 ans, le droit de Pruefer de recouvrer tout montant avancé prendrait fin. Étant donné l’importance de cette disposition, il vaut la peine de la reproduire en entier[5] :
+[traduction]
+3.13 Fonds nécessaires
+Les fonds nécessaires pour financer les activités de Windsor Multi‑Use Facility, dans la mesure où ils ne sont pas disponibles à l’aide des recettes, proviendront d’apports au comptant des commandités des catégories A, B et C, au prorata de leurs parts respectives à titre de commandités des catégories A, B et C; toutefois, pendant la période qui prendra fin quinze (15) ans après la date de la conclusion du contrat, R.C. Pruefer Co. Limited avancera, pour le compte des commandités des catégories B et C, les sommes au comptant que les commandités des catégories B et C seraient autrement obligés de fournir et, par la suite, R.C. Pruefer Co. Limited aura le droit de recouvrer ces montants, sans intérêt, à l’aide des sommes provenant des activités de l’entreprise auxquelles les commandités des catégories B et C auraient autrement droit. Au bout de cette période de quinze (15) ans, le droit de R.C. Pruefer de recouvrer tout montant qu’elle aura avancé pour le compte des commandités des catégories B et C prendra fin et, par la suite, les commandités des catégories B et C seront tenus de combler leur part du déficit au comptant; R.C. Pruefer Co. Limited n’aura plus le droit de recouvrer des commandités des catégories B et C les montants antérieurement avancés. Sous réserve des dispositions qui précèdent, chaque part de tout déficit des commandités des catégories B et C sera due et payable trente (30) jours après que la demande en soit faite par le gérant, agissant à titre de mandataire de l’ensemble des associés.
+M. Menzies a expliqué que cette disposition avait été insérée dans le contrat, de façon que les associés puissent être tenus responsables des pertes d’exploitation.
+[14] Une autre disposition a été insérée dans le contrat : le commandité pouvait être renvoyé, en cas de défaut, au moyen d’une résolution spéciale de la société de personnes, mais uniquement si tous les montants que la société de personnes devait à l’ancien commandité avaient été payés au complet.
+[15] Par une entente datée du 28 décembre 1990, M. Hakem a disposé de la part de la société en commandite qu’il avait acquise le 18 décembre 1990 en contrepartie de l’émission en sa faveur d’une part de la catégorie B dont la valeur en capital était la même que celle de la part de la société en commandite. M. Ziter a fait la même chose. M. Docherty a conservé la part initiale qu’il détenait dans la société en commandite. Les documents de la société de personnes prêtaient quelque peu à confusion en ce qui concerne les parts détenues par M. Hakem; en effet, ils indiquaient à un moment donné que celui‑ci détenait trois parts. Toutefois, M. Hakem a affirmé avec insistance que, en fin de compte, il ne détenait qu’une part et demie : la part acquise au mois de décembre 1990 et un droit sur la moitié d’une part acquis l’année suivante.
+[16] Le contrat de société de personnes de la fin du mois de décembre 1990 a de nouveau été modifié le 28 novembre 1991; le contrat était encore une fois uniquement signé par M. Docherty, pour le compte de toutes les parties. M. Docherty ne se rappelait pas pourquoi cette modification avait été faite. Le paragraphe 3.13 a été modifié, la disposition relative à l’extinction de l’obligation des commandités des catégories B et C de combler les pertes d’exploitation au bout de 15 ans étant supprimée. La nouvelle disposition prévoyait que les commandités continueraient à être tenus responsables de pareilles pertes. Le passage modifié est rédigé comme suit :[6]
+[traduction]
+[...] Au bout de la période de quinze (15) ans, les commandités des catégories B et C seront tenus de payer la part de l’ensemble des pertes nettes accumulées qui leur est attribuée, et chaque part de toute perte nette subséquente attribuée aux commandités des catégories B et C sera due et payable cent vingt (120) jours après que le commandité, agissant à titre de mandataire de l’ensemble des associés, en aura fait la demande, et R.C. Pruefer Co. Limited aura le droit de recouvrer des commandités des catégories B et C tous les montants avancés avant et après cette période de quinze (15) ans conformément au paragraphe 3.7, les sommes à payer par ceux‑ci provenant des activités de l’entreprise et portant intérêt au taux préférentiel établi par la succursale principale de la Banque Canadienne Impériale de Commerce.
+[17] En 1991, 4,25 autres parts de la société de personnes ont été vendues. Le Ronald Hakem Trust, dans lequel M. Hakem était bénéficiaire à 50 pour cent, a acquis une part. Le Michael Ziter Trust, dans lequel Michael Ziter était bénéficiaire à 50 pour cent, a également acquis une part. Toutes les parts acquises en 1991 ont été enregistrées en tant que parts de la catégorie C. La valeur nominale des parts s’élevait en tout à 1,7 million de dollars. L’apport au comptant y afférent, en 1991, était de 170 000 $.
+[18] Le 1er octobre 1992, le contrat de société en commandite a encore une fois été modifié et reformulé, mais aucune copie signée n’a été produite à l’instruction. Ce contrat prévoyait ce qui suit :
+(i) Pruefer était désormais désignée à titre de partie au contrat, avec le commandité, M. Docherty, en sa qualité de commanditaire initial, ainsi qu’avec les commanditaires existants et les associés détenant des parts des catégories B et C. Pruefer devait recevoir une participation de catégorie A en contrepartie de certains apports de capitaux;
+(ii) les parties convenaient d’exploiter une société en commandite, dont l’entreprise consistait à aménager et à exploiter l’installation polyvalente;
+(iii) les fonds réalisés par suite de la vente des parts devaient être utilisés pour rembourser les frais engagés aux fins de la promotion de l’installation ainsi que pour faciliter la promotion de l’installation;
+(iv) les pertes nettes de la société de personnes devaient être déterminées par le commandité et attribuées à chaque associé en fonction de ses apports; toutefois, au cours du premier exercice où une part de la catégorie C était émise, aux fins de l’attribution de la perte, l’apport de capitaux de chaque associé devait être multiplié par un facteur de 2,7 – c’est‑à‑dire que la perte qui aurait autrement été attribuée était majorée d’un facteur de 2,7;
+(v) le contrat renfermait également, à l’égard des apports au comptant que les détenteurs de parts des catégories B et C devaient faire pour financer les activités de l’installation et l’obligation y afférente de Pruefer, la même disposition que celle qui figurait dans la version du contrat de société de personnes du 28 décembre 1990, c’est‑à‑dire que l’obligation des détenteurs de parts des catégories B et C à cet égard prenait fin au bout de 15 ans;
+(vi) les détenteurs de parts des catégories B et C ne devaient pas intervenir dans la gestion ou dans le contrôle de l’entreprise de la société de personnes et ne devaient pas y prendre part.
+[19] Une notice d’offre a également été publiée le 1er octobre 1992. La notice disait qu’il y aurait au plus cinq parts de la société en commandite et au plus 20 parts en tout des catégories A, B et C, le prix de souscription s’élevant à 400 000 $ pour chaque part de la société en commandite et pour chaque part de la catégorie C, les conditions de paiement étant presque identiques à celles qui sont énoncées au paragraphe 9 des présents motifs pour les parts de la société en commandite. Le prix unitaire de chaque part des catégories A et B de la société de personnes devait désormais être déterminé par le commandité et il était payable conformément aux conditions d’un billet relatif au solde de la souscription. Aux termes du billet, le montant déterminé par le commandité et mentionné dans le billet ainsi que les intérêts y afférents devaient être payés à l’aide de la part du revenu net revenant à l’associé. Si la part du revenu net revenant à l’associé était inférieure au montant déterminé par le commandité, plus les intérêts courus, le paiement était reporté à l’exercice suivant et ainsi de suite, pour chaque exercice.
+[20] La notice d’offre du mois d’octobre 1992 disait également que le produit global de la souscription devait être utilisé pour payer les frais d’administration et de développement engagés par la société de personnes pour les études de terrain, les études de marché, les études de faisabilité et les représentations qui étaient faites auprès de la ville de Windsor et de la province, et pour payer les honoraires et les frais de gestion engagés jusqu’alors ainsi que pour faciliter la réalisation de l’objectif de la société de personnes. La notice mentionnait également que la société en commandite conclurait un contrat de gestion avec Pruefer pour que celle‑ci gère l’installation pendant toute la durée du sous‑bail. La notice d’offre soulignait que, conformément à une convention de bail conclue avec la ville, Pruefer s’était vu accorder un délai, jusqu’au 31 janvier 1993, en vue de satisfaire la ville de Windsor au sujet de l’obtention du financement nécessaire pour le projet.
+[21] En 1992, les états financiers de la société de personnes révélaient que 13 autres parts de la catégorie C avaient été vendues, leur valeur nominale globale s’élevant à 5 200 000 $. L’apport au comptant, au cours de l’exercice, était d’environ 1 750 000 $.
+[22] En résumé, l’historique, en ce qui concerne les parts des catégories B et C qui ont été acquises dans la société de personnes, est le suivant :
+Année d’imposition
+1990
+1991
+1992
+1995
+Nombre de parts acquises
+2
+4,25
+13,25
+Total cumulatif
+2
+6,25
+19,5
+19,5
+Prix de souscription (total cumulatif)
+800 000
+2 500 000
+7 700 000
+7 700 000
+Montant versé au comptant
+(total cumulatif)
+200 000
+370 000
+2 329 000
+2 600 000 (approx.)
+Montant impayé
+600 000
+2 130 000
+5 371 000
+5 772 112
+(y compris les intérêts)
+[23] M. Hakem a versé les montants suivants à la société de personnes[7] :
+Année
+Montant versé au comptant
+Perte déduite
+1990
+100 000 $
+250 000 $
+1991
+65 000 $
+215 000 $
+1992
+22 500 $
+138 885 $
+1993
+22 500 $
+135 724 $
+1994
+22 500 $
+92 249 $
+1995
+5 625 $
+62 461 $
+238 125 $
+894 319 $
+[24] M. Docherty a versé les montants suivants à la société de personnes :
+Année
+Montant versé
+Perte déduite
+1992
+80 000 $
+203 513 $
+1993
+74 457 $
+1994
+49 200 $
+1995
+12 000 $
+33 313 $
+1996
+24 000 $
+116 000 $
+354 179 $
+[25] Le 6 février 1996, le contrat de la société en commandite a de nouveau été modifié et le paragraphe 3.13 a été remplacé par la disposition suivante[8] :
+[traduction]
+e) Le paragraphe 3.13 du contrat de la société en commandite est supprimé et remplacé par la disposition suivante :
+« Fonds nécessaires »
+Les fonds nécessaires pour financer les activités de la société de personnes, dans la mesure où ils ne sont pas disponibles à l’aide des recettes, proviendront d’apports au comptant des commandités des catégories A, B et C, au prorata de leurs parts respectives à titre de commandités des catégories A, B et C; toutefois, pendant la période qui prendra fin quinze (15) ans après la date de la conclusion du contrat, R.C. Pruefer Co. Limited avancera, pour le compte des commandités des catégories B et C, les sommes au comptant que les commandités des catégories B et C seraient autrement obligés de fournir et, par la suite, R.C. Pruefer Co. Limited aura le droit de recouvrer le montant de ces avances, sans intérêt, à l’aide des sommes provenant des activités de l’entreprise auxquelles les commandités des catégories B et C auraient autrement droit.
+[26] J’examinerai maintenant les activités auxquelles la société de personnes et, plus précisément, M. Docherty, sous les auspices de Pruefer, se livraient dans le cadre de la promotion du projet d’installation polyvalente.
+Promotion du projet d’installation polyvalente
+[27] M. Docherty contrôle Pruefer. En 1979, la soumission que Pruefer avait présentée à l’égard d’un projet, à Windsor, connu sous le nom de City Centre Project, a été retenue. Il s’agissait d’un projet de développement du secteur riverain, comprenant trois hôtels, un podium commercial et un garage de neuf étages. Le projet s’étendait sur trois pâtés de maisons à partir de la rivière. Des ponts reliaient les hôtels au stationnement. M. Docherty a réussi à intéresser la société Hilton à l’un des hôtels.
+[28] À la fin des années 1980, le directeur de la ville de Windsor a communiqué avec M. Docherty pour qu’il l’aide à acquérir des propriétés, au centre‑ville, à des fins de réaménagement et, plus précisément, l’aménagement d’une installation polyvalente. Pruefer a pu acquérir les bien‑fonds et les a transmis à la ville. La ville a acquis par expropriation, au prix d’environ 8 millions de dollars, l’ensemble des terrains en vue de les réaménager. À la fin de l’année 1989, la ville a lancé un appel d’offres pour le projet d’installation polyvalente. Pruefer a soumis une offre en espérant la rattacher au projet existant concernant le centre municipal.
+[29] La ville a finalement décidé de retenir l’offre de Pruefer. Au cours des années 1990, des négociations sérieuses étaient en cours entre Pruefer et la ville de Windsor en vue d’arriver à une offre mutuellement acceptable. Le 20 novembre 1990, le conseil municipal a adopté une résolution par laquelle l’offre de Pruefer était approuvée. À l’automne 1990, M. Docherty avait soumis à la ville un projet de protocole d’entente de principe, qui a été approuvé le 21 décembre 1990. L’entente prévoyait ce qui suit :
+i. Pruefer construirait l’installation polyvalente sans qu’il en coûte quoi que ce soit à la ville et obtiendrait un bail de 30 ans à l’égard du bâtiment, moyennant un loyer annuel de un dollar;
+ii. la ville serait obligée de s’adresser à la législature de l’Ontario pour qu’elle adopte une loi privée spéciale accordant une exemption à l’égard de l’impôt foncier afférent à la propriété et autorisant l’offre inférieure au loyer du marché;
+iii. au bout de 30 ans, la propriété du multiplex reviendrait à la ville, mais dans l’intervalle, un fonds de fiducie serait créé en vue d’assurer l’entretien de l’ensemble;
+iv. Pruefer pourrait grever son intérêt à bail jusqu’à concurrence d’un montant de 25 millions de dollars et elle aurait en outre le droit de grever des chatels et du matériel jusqu’à concurrence d’un montant de 2,5 millions de dollars;
+v. l’entretien continu de l’installation serait financé au moyen d’une majoration du prix des billets pour les événements tenus à cet endroit (le « fonds d’amélioration »);
+vi. des ententes avec la ville, et notamment un bail foncier commercial, devaient ensuite être conclues. La mise en œuvre du protocole et de ses principales composantes devait se faire en trois phases, à savoir a) la phase d’exécution des conditions; b) la phase de construction; c) la phase de location.
+[30] Au cours des deux années suivantes, Pruefer a cherché à obtenir la modification législative nécessaire du gouvernement de l’Ontario. Pruefer a également procédé à ses propres études de marché et à ses propres études de faisabilité en vue de déterminer si le projet était économiquement viable. Les projections de flux de trésorerie et les projections de résultats étaient fondées sur le fait que l’endroit serait utilisé pour des matchs de hockey et de boxe, des concerts, des bingos, des congrès et des salons commerciaux, les recettes annuelles étant estimées à environ 59,5 millions de dollars et le bénéfice net à 6,5 millions de dollars. La capacité de louer la propriété pour un montant symbolique, d’exempter la propriété de certains impôts fonciers et de maintenir un fonds d’amélioration à l’aide des recettes provenant du projet afin de conserver l’installation en bon état était essentielle au succès du projet. Les efforts déployés par M. Docherty, par l’entremise de Pruefer, permettaient d’accomplir tous ces objectifs.
+[31] En 1992, M. Docherty s’est rendu compte que le projet exigeait une plus grosse force économique, et il a songé à inclure un casino dans le projet. Le casino devait appartenir à la province et être exploité par celle‑ci. Le 24 mars 1992, le conseil municipal a adopté la résolution 282/92, approuvant l’idée d’un casino et appuyant la pétition que Pruefer avait présentée à la province en vue de faire approuver l’emplacement d’un casino sur le site polyvalent, à Windsor.
+[32] M. Docherty a parlé à Bitove, une organisation qui fournissait des services alimentaires au SkyDome, à Toronto, laquelle s’est engagée à fournir une aide financière. M. Hawkins, qui travaillait pour Bitove à ce moment‑là, a témoigné que le projet était intéressant, que les projections que M. Docherty lui avait soumises étaient prudentes et que le loyer symbolique et l’abattement d’impôt étaient essentiels à la viabilité du projet. Il a reconnu que le compromis consenti, pour l’impôt et le loyer, valait peut‑être environ 20 millions de dollars. Les discussions entre M. Docherty et Bitove ont abouti à un protocole d’entente en date du 16 décembre 1992, énonçant les dispositions applicables à la location et à l’exploitation des locaux par Bitove. Ce protocole d’entente constituait un genre d’entente de coopération. Étant donné qu’il n’a pas été donné suite au projet d’installation, Bitove a cessé de participer au projet.
+[33] M. Docherty a commandé une étude à des chercheurs, qui ont approuvé l’idée du casino, ce qui semble avoir satisfait la ville quant à la validité du projet. Un comité du casino a été formé, ses membres étant des personnalités bien connues de la collectivité provenant des milieux du travail et des affaires ainsi que des milieux universitaires et de la ville. Au mois d’octobre 1992, le gouvernement de l’Ontario a approuvé le centre-ville de Windsor comme site d’un projet‑pilote pour le casino, sans toutefois approuver expressément le site de l’installation polyvalente proposé par Pruefer. La ville a ensuite procédé à l’annulation de la résolution 282/92, au mois d’octobre 1992.
+[34] Le 21 septembre 1992, Pruefer et la ville de Windsor ont conclu un [traduction] « bail foncier »[9], selon lequel certaines conditions devaient être remplies avant le 31 janvier 1993, à défaut de quoi le bail serait nul ab initio. Les deux conditions suivantes devaient notamment être remplies[10] :
+[traduction]
+(i) Le propriétaire aura pris un règlement ou des règlements valides et définitifs, conformément à la City of Windsor Act, 1991, S.O. 1991, ch. Pr28 :
+a) autorisant la conclusion du bail à l’égard du site ici en cause pour un loyer inférieur au loyer du marché, comme le prévoit l’alinéa 1a) de la Loi;
+b) exemptant le site des impôts municipaux et scolaires, comme le prévoit l’alinéa 1b) de la Loi;
+c) autorisant la création du fonds d’amélioration, comme le prévoit l’article 2 de la Loi;
+(ii) le locataire divulguera complètement au propriétaire les engagements financiers fermes et les dispositions qu’il aura pris à l’égard de la construction de l’installation et de l’amélioration connexe du site, et ces engagements et dispositions auront été approuvés par le propriétaire, ce dernier pouvant à son entière discrétion refuser son approbation;
+[35] M. Docherty a aidé la ville à prendre les mesures nécessaires pour utiliser la galerie d’art existante comme site temporaire d’un casino, à compter du mois de juin 1994, pour une période de quatre ans. Au mois de juillet 1993, la ville de Windsor a accordé à Pruefer une prorogation de délai pour lui permettre de satisfaire aux conditions prévues dans le bail de 30 ans. Le délai de prorogation expirait 30 jours après que la galerie d’art cesserait d’être utilisée comme casino provisoire. La galerie a été utilisée comme casino pendant plus de quatre ans. La ville a par la suite annulé cette prorogation le 3 août 1993, peu de temps après que Pruefer et la société de personnes eurent intenté une action contre elle, en vue de l’exécution expresse du bail ou, subsidiairement, en vue de l’octroi de dommages‑intérêts de 100 millions de dollars. Pruefer et la société de personnes ont en fin de compte été déboutées, un jugement étant rendu au mois de janvier 1996.
+[36] En plus d’obtenir le loyer symbolique, l’exemption d’impôt et l’approbation relative à un casino, à Windsor, M. Docherty a également aidé activement la ville de Windsor à obtenir tous les immeubles nécessaires au projet. Il devait notamment agir pour la ville, en tant qu’intermédiaire, en acquérant la propriété McLean ainsi qu’une propriété du Holiday Inn. M. Docherty a également tenté d’obtenir certaines propriétés de Canadian Tire, mais ce dernier marché n’a jamais été conclu.
+[37] Sauf pour la procédure judiciaire, qui a continué de 1993 à 1996, il semble y avoir eu peu d’activités, jusqu’en 1997, à l’égard du projet d’installation polyvalente. Selon le procès‑verbal d’une réunion de la société de personnes en date du 7 avril 1994, on cherchait à se positionner dans d’autres projets adjacents au site polyvalent, mais aucune autre preuve donnant à entendre que l’on avait poursuivi l’affaire n’a été présentée.
+[38] À la fin de l’année 1996 ou au début de l’année 1997, M. Docherty a communiqué avec JEBB Corporation (« JEBB »), une organisation qui voulait être partie à l’offre relative au Western Super Anchor. Tel était le nom donné à ce qui avait remplacé l’offre relative à l’installation polyvalente. M. Docherty a grandement aidé JEBB à l’égard de l’offre antérieure que cette dernière avait soumise à l’égard de l’installation polyvalente, notamment en ce qui concerne les documents de base relatifs à l’offre, les projections, la préparation du bail et l’aménagement hôtelier. M. Docherty a également présenté JEBB aux anciens architectes de Pruefer, Rosetti Associates. Une comparaison de l’offre initiale relative à l’installation polyvalente, à Windsor, que le groupe de M. Docherty avait présentée et de l’offre que JEBB a finalement soumise, au mois de février 1998, révèle certaines ressemblances. Dans une lettre adressée à M. Docherty, le 6 octobre 1997, JEBB disait ce qui suit[11] :
+[traduction]
+[...] en échange de l’aide de votre groupe, JEBB mettra à la disposition de votre groupe une participation dans le projet. Les conditions exactes n’ont pas encore été établies. Nous nous attendons à ce que la participation de votre groupe soit de l’ordre de 5 %, [...]
+M. David Batten, de JEBB, a témoigné avoir compris que la société de personnes recevrait une participation de cinq pour cent si le projet allait de l’avant. M. Batten a également souligné l’importance accordée au faible loyer et à l’exemption d’impôt associés au projet. À ce jour, il n’a pas été donné suite à l’offre de JEBB.
+[39] Le 9 janvier 1997, une réunion de la société de personnes a eu lieu et il a été décidé que le site polyvalent serait rétrocédé à la ville de Windsor.
+[40] Les honoraires facturés à la société de personnes par Pruefer de 1990 à 1995 inclusivement sont résumés ci‑dessous[12] :
+DÉPENSES
+1990
+1991
+1992
+1993
+1994
+1995
+Installation polyvalente
+(frais initiaux)
+855 000
+1 500 000
+1 600 000
+1 053 713
+661 693
+785 120
+Honoraires
+312 000
+650 000
+270 000
+16 464
+Casino
+(frais initiaux)
+1 875 305
+810 000
+522 172
+Frais de gestion
+175 000
+________
+_________
+________
+________
+_______
+Total des frais
+1 342 000
+1 500 000
+4 125 312
+2 133 826
+1 183 865
+801 584
+Montant dû à Pruefer à la fin de l’exercice
+1 142 000
+2 472 000
+5 247 989
+7 365 958
+7 158 663
+8 239 633
+[41] M. Docherty a dit que les frais initiaux se rapportaient à des éléments essentiels comme ceux qui figuraient dans la facture de Pruefer de 1990 pour les études de terrain, les études de marché, les études de faisabilité, les réunions de la direction, les réunions tenues avec Windsor Utilities, les négociations relatives au bail et la préparation des états de résultats. Ces dépenses ont été engagées principalement en interne chez Pruefer; rien ne montrait qu’elles avaient été engagées par quelqu’un d’autre que Pruefer. Dans un sommaire interne des dépenses de l’année 1990, les frais initiaux de 855 000 $ pour l’année 1990 étaient simplement décrits comme des frais généraux. Dans une facture datée du 7 décembre 1990, les frais de 175 000 $, que M. Docherty a appelés des frais de gestion, étaient désignés comme étant des frais administratifs généraux et il était en outre question de demandes de renseignements au sujet du financement, de réunions avec des architectes, avec des employés, avec des arpenteurs et avec des agents de réservation, de la préparation d’une soumission, de visites d’autres stades et de négociations préliminaires avec la province. Dans le sommaire interne des dépenses des comptables, ce montant de 175 000 $ était appelé une [traduction] « majoration ».
+[42] Les frais s’élevant à 1,5 million de dollars pour l’année 1991 ont été facturés à la société de personnes par Pruefer à titre de frais de gestion, comme cela a été le cas pour la facture de 1992, mais les parties ont convenu que ce montant se répartissait entre les frais initiaux, les honoraires et les frais initiaux associés au casino, comme il en a ci‑dessus été fait mention.
+[43] Monsieur Docherty a expliqué que les honoraires appropriés étaient déterminés une fois l’an par lui‑même et par son comptable, M. Alexander Menzies, principalement en fonction du temps consacré à un projet. M. Menzies a dit que c’était plutôt M. Docherty qui fixait le montant des honoraires, et qu’il décidait ensuite, du point de vue d’un comptable, si ce montant était vraisemblable.
+[44] La chose exige des explications supplémentaires; j’utiliserai comme exemple les honoraires de 2 133 826 $ se rapportant à l’année 1993. En ce qui concerne l’année 1993, M. Menzies a passé en revue un document de travail interne, qui illustrait la méthode qu’il avait employée pour décider du caractère raisonnable. M. Docherty lui avait clairement dit qu’il voulait facturer 1,8 million de dollars. Pour que ce montant soit compatible avec les années antérieures, M. Menzies a simplement réparti les 1,8 million de dollars entre les frais initiaux associés à l’installation polyvalente (40 pour cent – 720 000 $), les frais initiaux associés au casino (45 pour cent – 810 000 $) et les frais de commercialisation professionnelle (15 pour cent – 270 000 $). Afin de justifier les 1,8 million de dollars, M. Menzies a tout d’abord établi le montant global des frais réels de Pruefer pour l’année civile. Étant donné que la fin de l’exercice de Pruefer tombait le 31 mars, il fallait les calculer au prorata pour chaque année. M. Menzies s’est fondé sur trois principales rubriques des livres de Pruefer : les frais des gérants d’immeubles à appartements, les frais généraux et administratifs, et les intérêts. En effet, en 1993, Pruefer exerçait d’autres activités continues et s’occupait notamment de gestion immobilière. M. Menzies est arrivé à un montant global de 1,277 million de dollars au titre des dépenses, pour Pruefer. Il a ensuite réparti ce montant entre les diverses activités de Pruefer, en attribuant 46 pour cent du montant au projet d’installation polyvalente. Il semble l’avoir fait compte tenu du temps consacré au projet. Les 46 pour cent du montant de 1,277 million de dollars associé aux frais de Pruefer qui étaient attribuables au projet d’installation polyvalente représentaient 581 000 $. L’étape finale consistait ensuite à majorer ce montant de 581 000 $ en vue de tenir compte de ce qui constituait, selon ce que croyait M. Menzies en se fondant sur un cours qu’il avait suivi quelques années auparavant, une marge de profit raisonnable de 50 à 60 pour cent. En somme, cela voulait dire que, pour obtenir une marge de profit de 50 pour cent, il fallait doubler les frais. En 1993, pour arriver aux honoraires de 1,8 million de dollars que M. Docherty souhaitait, les 581 000 $ étaient majorés d’un facteur de 3 sur un (c’est‑à‑dire que ce montant était triplé), ce qui donnait une marge de profit d’environ 68 pour cent. En examinant les états financiers non vérifiés de 1993 de la société de personnes, les frais initiaux de 810 000 $ associés au casino et les frais professionnels et de commercialisation de 270 000 $ figurent dans l’état, mais un montant de 1 053 713 $ est inscrit pour les frais initiaux de 720 000 $ associés à l’installation polyvalente. M. Menzies n’a pas pu expliquer les 333 713 $ additionnels. Il a confirmé qu’en établissant le montant approprié des honoraires, il aurait procédé de la même façon pour les autres années ici en cause. Quant aux honoraires de l’année 1994, M. Menzies a déclaré qu’ils se seraient principalement rapportés à la procédure judiciaire.
+[45] M. Docherty a témoigné qu’au cours des années en question, il consacrait tout son temps au projet d’installation polyvalente. Il a également déclaré qu’au cours des années ultérieures, un ou deux autres employés de Pruefer avaient exprimé leur avis lorsqu’il s’était agi de déterminer, avec M. Menzies, le montant approprié des honoraires. Les honoraires annuels devaient être approuvés par la société de personnes, mais l’approbation donnée le 31 décembre 1990 figurait dans le procès‑verbal d’une réunion à laquelle seul M. Docherty, agissant pour le compte du commandité, des commanditaires et des détenteurs de parts de commandités des catégories A et B, était présent. De fait, tous les procès‑verbaux soumis en preuve jusqu’au mois de septembre 1991 étaient uniquement signés par M. Docherty.
+[46] Il n’existait aucune preuve documentée montrant que la société de personnes avait expressément approuvé les dépenses pour les années 1992, 1993, 1994 et 1995. M. Hakem a témoigné que les associés examinaient et approuvaient les états financiers dans lesquels figuraient les honoraires de Pruefer puisqu’il s’agissait en fait de la seule dépense de la société de personnes. Le procès‑verbal de la réunion de la société de personnes du 7 avril 1994, signé par M. Docherty en sa qualité de président, montre que les états financiers des années 1992 et 1993 ont été approuvés. Le procès‑verbal non signé d’une réunion tenue par la société de personnes le 7 février 1996 révèle que les états financiers de 1995 ont été approuvés.
+[47] De son côté, Pruefer inscrivait les montants qu’elle facturait à la société de personnes dans ses propres états financiers pour la période pertinente, mais :
+- en sa qualité d’associé de la catégorie A de la société de personnes, des pertes lui étaient attribuées par la société de personnes (lesquelles résultaient de montants qu’elle avait elle‑même facturés à la société de personnes) en 1990 et en 1991 (soit environ 791 100 $ et 410 000 $ respectivement);
+– elle déduisait des créances douteuses ou de mauvaises créances (1 220 000 $ et 3 839 941 $ respectivement) à l’égard des montants qu’elle avait facturés à la société de personnes pour ses années d’imposition 1992 et 1993, mais elle a néanmoins continué à facturer des montants élevés au cours des années ultérieures;
+– dans ses documents relatifs à la TPS, il était fait mention de la radiation des montants qu’elle avait facturés à la société de personnes pour les années 1992 et 1993;
+– elle faisait des redressements négatifs dans ses comptes à l’égard des montants par la suite facturés à la société de personnes.
+[48] Dans un avis d’opposition daté du mois de juin 1996, que Pruefer a déposé au sujet d’une cotisation relative à la TPS se rapportant à l’installation polyvalente, à Windsor, Pruefer déclarait ce qui suit :
+[traduction]
+En ce qui concerne chacun des projets, le contribuable a effectué une fourniture taxable moyennant contrepartie à une personne avec qui il n’avait aucun lien de dépendance et, dans chaque cas, le contribuable a constaté que la dette de cette personne n’était pas recouvrable et qu’il s’agissait donc d’une mauvaise créance.
+[49] Pruefer n’a fait aucun effort pour recouvrer la dette impayée de la société de personnes ou des associés. M. Hakem a de fait confirmé qu’il estimait que la dette contractée envers Pruefer n’était pas encore payée. M. Docherty a donné à entendre qu’il en avait parlé aux associés, mais que ceux‑ci ne disposaient probablement pas des fonds nécessaires pour rembourser Pruefer.
+Analyse
+a) Monsieur Docherty et M. Hakem étaient‑ils des commanditaires de la société de personnes au cours des années ici en cause, de sorte qu’ils étaient régis par les dispositions concernant la fraction à risques énoncées à l’article 96 de la Loi, ce qui avait pour effet de limiter la déductibilité des pertes?
+[50] Les dispositions légales pertinentes sont les suivantes :
+96(2.1) Malgré le paragraphe (1), dans le cas où un contribuable est commanditaire d’une société de personnes au cours d’une année d’imposition, l’excédent éventuel :
+a) du total des montants dont chacun représente la part, dont il est tenu, d’une perte de la société de personnes résultant d’une entreprise - à l’exclusion d’une entreprise agricole - ou d’un bien, calculée conformément au paragraphe (1), pour un exercice de la société de personnes se terminant au cours de l’année,
+sur
+b) l’excédent éventuel :
+(i) de la fraction à risques de l’intérêt du contribuable dans la société de personnes à la fin de l’exercice,
+sur le total des montants suivants :
+[...]
+est à la fois :
+c) non déductible dans le calcul de son revenu pour l’année;
+d) exclu du calcul de sa perte autre qu’une perte en capital pour l’année;
+e) réputé être la perte comme commanditaire subie par le contribuable dans la société de personnes pour l’année.
+96(2.2) Pour l’application du présent article et des articles 111 et 127, la fraction à risques de l’intérêt d’un contribuable dans une société de personnes dont il est commanditaire à un moment donné correspond à l’excédent éventuel du total des montants suivants :
+a) le prix de base rajusté, pour le contribuable, de sa participation dans la société de personnes à ce moment donné, calculé conformément au paragraphe (2.3) s’il est applicable;
+b) si ce moment donné est le dernier de l’exercice de la société de personnes, la part qui revient au contribuable du revenu de la société de personnes provenant d’une source donnée pour l’exercice et calculé de la même façon qu’au sous‑alinéa 53(1)e)(i);
+b.1) si ce moment donné est le dernier de l’exercice de la société de personnes, le montant visé au sous‑alinéa 53(1)e)(viii) à l’égard du contribuable pour cet exercice,
+sur le total des montants suivants :
+c) le total des montants représentant chacun un montant dû, au moment donné, à la société de personnes, ou à une personne ou une société de personnes avec laquelle la société de personnes a un lien de dépendance, par le contribuable ou par une personne ou une société de personnes avec laquelle celui‑ci a un lien de dépendance, à l’exception d’un montant déduit en application du sous‑alinéa 53(2)c)(i.3) ou de l’article 143.2 dans le calcul du prix de base rajusté ou du coût, selon le cas, pour le contribuable, de sa participation dans la société de personnes à ce moment;
+d) le montant ou l’avantage que le contribuable ou une personne avec qui il a un lien de dépendance a le droit, immédiat ou futur et absolu ou conditionnel, de recevoir – sous forme de remboursement, de compensation, de garantie de recettes, de produit de disposition, de prêt ou autre forme de dette ou sous toute autre forme – et qui est accordé en vue de supprimer ou de réduire l’effet d’une perte que le contribuable peut subir en tant qu’associé de la société de personnes ou du fait qu’il a une participation dans la société de personnes ou qu’il en dispose, [...]
+96(2.4) Pour l’application du présent article et des articles 111 et 127, le contribuable qui est, à un moment donné, un associé d’une société de personnes est commanditaire de cette société de personnes si sa participation dans celle‑ci n’est pas, à ce moment, une participation exonérée au sens du paragraphe (2.5) et si, à ce moment ou dans les trois ans suivants :
+a) soit sa responsabilité comme associé est limitée par la loi qui régit le contrat de société (sauf s’il s’agit d’une disposition législative fédérale ou provinciale qui limite sa responsabilité en ce qui a trait aux dettes, obligations et engagements de la société de personnes, ou d’un de ses associés, découlant d’actes ou d’omissions négligents ou de fautes commis par un autre associé de la société de personnes, ou par un employé, mandataire ou représentant de celle‑ci, dans le cours des activités de l’entreprise de la société de personnes pendant qu’elle est une société de personnes à responsabilité limitée);
+b) soit l’associé ou une personne avec qui il a un lien de dépendance a le droit, immédiat ou futur et absolu ou conditionnel, de recevoir un montant ou un avantage qui serait visé à l’alinéa (2.2)d), compte non tenu des sous‑alinéas (2.2)d)(ii) et (vi);
+c) soit il est raisonnable de considérer que l’associé propriétaire de la participation en question existe, entre autres :
+(i) d’une part, pour limiter la responsabilité d’une personne, liée à cette participation,
+(ii) d’autre part, non pour permettre à une personne qui a une participation dans l’associé d’exploiter son entreprise – à l’exclusion d’une entreprise de placements – de la manière la plus efficace;
+d) soit il existe une convention ou un autre mécanisme prévoyant la disposition d’une participation dans la société de personnes et dont il est raisonnable de considérer qu’un des principaux objets consiste à tenter de soustraire l’associé à l’application du présent paragraphe.
+[51] En ce qui concerne M. Docherty, l’année 1993 est la seule année en litige. Cette année‑là, M. Docherty avait deux rôles : celui de commanditaire, étant donné qu’il conservait le statut de commanditaire initial, et celui de commandité de la catégorie C, puisqu’il avait acquis une participation à ce titre, en effectuant un versement de 80 000 $ en 1992. Les pertes qu’il avait déduites pour l’année 1993 peuvent uniquement résulter des parts de la catégorie C qu’il détenait, étant donné que la part qu’il détenait en tant que commanditaire ne valait qu’un dollar, de sorte que les dispositions concernant la fraction à risques précitées s’appliquaient clairement.
+[52] Monsieur Hakem a acquis une part à titre de commanditaire au début du mois de décembre 1990, mais à la fin du mois, le contrat de société a été modifié, de façon à établir trois catégories de parts pour les commandités, et M. Hakem a échangé la part qu’il détenait en tant que commanditaire contre une part de commandité.
+[53] Monsieur Gobeil, pour le compte de l’intimée, a soutenu que, conformément au paragraphe 96(2.1), les dispositions concernant la fraction à risques s’appliquent si un associé est un commanditaire au cours d’une année d’imposition. Je préfère aborder la question en me demandant d’abord si M. Hakem et M. Docherty sont tous deux réputés être des commanditaires, pendant toute l’année 1993 dans le cas de M. Docherty, et de 1990 à 1996 dans le cas de M. Hakem. Ce n’est que si je conclus qu’ils étaient commanditaires pendant une partie de l’année seulement qu’il faudra examiner l’effet des mots « au cours d’une année d’imposition » (« at any time in a taxation year »), figurant au paragraphe 96(2.1).
+[54] Comme l’alinéa 96(2.4)b) le prévoit, un associé est un commanditaire s’il a le droit, immédiat ou futur et absolu ou conditionnel, de recevoir un avantage. À cette fin, l’« avantage » peut prendre n’importe quelle forme s’il s’agit de réduire l’effet d’une perte quelconque que l’associé peut subir parce qu’il est membre de la société de personnes.
+[55] Monsieur Gobeil a signalé certains avantages possibles. Il suffit, selon moi, d’en examiner un, à savoir l’avantage possible découlant du paragraphe 3.13 (voir le paragraphe 12 des présents motifs). Le paragraphe 3.13 a fait l’objet de plusieurs transformations par suite des diverses modifications apportées au contrat de société. En ce qui concerne l’année d’imposition 1993 de M. Docherty, l’entente applicable était celle du 1er octobre 1992. Conformément au paragraphe 3.13 de cette entente, pendant une période de 15 ans, à compter de la date de clôture des offres de parts, Pruefer était tenue de couvrir l’obligation qui incombait aux commandités d’effectuer des apports au comptant pour financer l’exploitation de l’entreprise en cas de déficit. Pruefer pouvait recouvrer cet argent des commandités, mais uniquement à l’aide du montant des recettes revenant à ceux‑ci. Ce droit au recouvrement de Pruefer cessait d’exister à la fin de cette période de 15 ans.
+[56] Selon M. Barat, il n’existe aucun droit à un avantage puisque l’application de la disposition en question n’est jamais déclenchée, et ce, affirme‑t‑il, parce que l’installation n’a jamais été construite. Il n’a donc jamais été nécessaire de financer les activités de l’installation. Je ne souscris pas à la prémisse énoncée par M. Barat. Cette prémisse est fondée sur l’interprétation des mots [traduction] « pour financer les activités de Windsor Multi‑Use Facility ». Or, le premier préambule du contrat de société prévoit que les associés veulent conclure le contrat afin de constituer une société en commandite qui exploiterait une entreprise sous la raison sociale de « Windsor Multi‑Use Facility ». Cette déclaration est réitérée au paragraphe 2.2 – la société de personnes exploitera une entreprise sous le nom Windsor Multi‑Use Facility. Le paragraphe 3.13 n’est pas limité au financement des activités d’une installation qui est prête à fonctionner. J’interprète cela comme se rapportant à l’argent nécessaire pour financer l’entreprise. L’entreprise ne commence pas uniquement lorsque l’installation est prête à fonctionner. L’interprétation donnée par M. Barat laisse entendre que les mesures qui sont prises avant qu’une installation soit en plein fonctionnement ne font pas partie de l’exploitation de l’entreprise. Cette interprétation a une portée trop restreinte. L’exploitation de l’entreprise comprend toutes les activités, de développement ou autres.
+[57] Une telle interprétation de la disposition en question explique en partie le comportement de M. Docherty. Lorsqu’on lui a demandé pourquoi il n’avait pas cherché à recouvrer les honoraires de Pruefer des associés, M. Docherty a donné une réponse vague, et il a finalement donné à entendre que les associés n’avaient peut‑être pas l’argent nécessaire. Cette réponse n’était pas crédible. Selon moi, le contrat lui‑même renferme la réponse. Les associés n’étaient pas tenus d’acquitter les factures de Pruefer tant qu’il n’y avait pas de recettes. En outre, au bout de 15 ans, l’obligation des associés de rembourser Pruefer prenait fin.
+[58] Est-ce là un avantage pour les associés? Il s’agit certes d’un avantage. Selon cette interprétation du paragraphe 3.13, il y avait un avantage réel immédiat. Les associés n’avaient pas à subir les pertes attribuables aux frais de développement du projet.
+[59] Si mon interprétation du paragraphe 3.13 est erronée et si cette disposition doit uniquement s’appliquer une fois que le projet est en plein fonctionnement, c’est‑à‑dire une fois l’installation construite, existe‑t‑il encore un droit à un avantage, sous quelque forme que ce soit, immédiat ou futur et absolu ou conditionnel? Je crois qu’il en existe un. Même selon l’interprétation proposée par M. Barat, si les recettes provenant des activités de l’installation étaient inférieures aux dépenses, créant ainsi une perte, c’était Pruefer qui était tenue de couvrir les frais excédentaires et non les associés. En d’autres termes, cet accord contractuel n’atténue pas simplement l’effet de toute perte subie par les associés; il élimine complètement la perte, peut‑être bien pour toujours, si les pertes s’accumulent au cours de la période de 15 ans.
+[60] Monsieur Barat affirme que tel n’est pas le type d’avantage prévu à l’article 96, et il mentionne des avantages d’une nature différente dont il était question dans la décision McKeown v. The Queen[13], et dans l’arrêt Brown c. La Reine[14]. Or, ni l’une ni l’autre de ces décisions ne limite la nature d’un avantage, soit ce dont il est question au paragraphe 96(2.2). Cette disposition est libellée en termes généraux – le droit, immédiat ou futur et absolu ou conditionnel, sous toute forme. Je conclus que le fait de ne pas avoir à payer des dépenses d’exploitation qui sont supérieures aux recettes, et ce, pendant une période de 15 ans, sans aucune obligation, à l’égard des frais accumulés après cette période, constitue un avantage visé au paragraphe 96(2.2). Par conséquent, M. Docherty était un commanditaire en 1993, compte tenu du droit à un avantage prévu au paragraphe 3.13 de l’entente du mois d’octobre 1992.
+[61] Quant à M. Hakem, des ententes différentes s’appliquaient à des périodes différentes, pendant lesquelles il avait une participation dans la société de personnes. Le paragraphe 3.13, sous la forme que je viens d’examiner, figure dans les ententes du 28 décembre 1990 et du 1er octobre 1992, et il s’appliquait donc aux périodes allant du 28 décembre 1990 au 28 novembre 1991 et du 1er octobre 1992 au 6 février 1996. Je conclus donc, pour ces périodes, que M. Hakem était lui aussi réputé être un commanditaire, à cause de l’avantage résultant des dispositions du paragraphe 3.13.
+[62] Quant aux périodes visées par les ententes du 28 novembre 1991 et du 6 février 1996, il faut interpréter le paragraphe 3.13 de la façon mentionnée aux paragraphes 16 et 24 respectivement des présents motifs, c’est‑à‑dire que le droit de Pruefer de recouvrer le montant en cause des associés n’a pas pris fin au bout de 15 ans. Toutefois, selon ces ententes, une fois expirée la période de 15 ans, Pruefer pouvait uniquement récupérer les pertes qu’elle avait couvertes pour les associés à l’aide des bénéfices de la société de personnes. Pendant ces périodes, les associés avaient‑ils droit à l’avantage prévu au paragraphe 96(2.2)? Encore une fois, je crois qu’ils y avaient droit.
+[63] Premièrement, selon l’interprétation que je donne des termes [traduction] « les fonds nécessaires pour financer les activités », c’est‑à‑dire que les frais de développement de l’entreprise sont inclus, M. Hakem se serait clairement rendu compte, lorsque l’entente du mois de novembre 1991 a été conclue, et encore une fois lorsque l’entente du mois de février 1996 a été conclue, qu’étant donné qu’il n’y aurait probablement pas d’installation pendant bien longtemps, et qu’il n’y en aurait peut-être bien jamais, c’était Pruefer qui couvrait les dépenses. Sauf pour l’obligation de continuer à effectuer les versements annuels nécessaires sur le prix de souscription, le paragraphe 3.13 le libérait de toute autre obligation de couvrir les pertes attribuables au projet, en 1991 et 1992 ou après 1996. Il s’agissait d’un avantage immédiat et absolu, qui atténuait l’effet de la perte au cours de ces années‑là. Il était fort possible qu’il n’y ait jamais de recettes provenant de cette installation, obligeant M. Hakem à rembourser Pruefer. Il s’agissait d’un avantage conditionnel.
+[64] Même si je retiens l’interprétation de M. Barat, à savoir que l’application du paragraphe 3.13 n’a jamais été déclenchée puisqu’il n’y a jamais eu d’installation à exploiter, le paragraphe 3.13, sous sa seconde forme, prévoit‑il un droit conditionnel futur à un avantage? Encore une fois, il faut répondre par l’affirmative. La possibilité, pour Pruefer, de recouvrer des associés le montant des pertes accumulées n’a pas cessé d’exister selon la seconde forme du paragraphe 3.13, mais l’obligation des associés était limitée aux recettes. En fait, les associés n’avaient jamais à combler les pertes à l’aide de leurs propres ressources. Ils n’avaient qu’à payer les dépenses existantes ou passées à l’aide des bénéfices tirés du projet. Telle est la raison d’être du paragraphe 3.13, sous une forme ou l’autre.
+[65] Considéré sous cet angle, il s’agit du type même d’avantage qui doit, d’une manière logique et raisonnable, permettre de considérer les associés comme des commanditaires. En effet, leur responsabilité est limitée par contrat. Je conclus qu’au cours des périodes pertinentes, M. Hakem et M. Docherty étaient des commanditaires.
+[66] Si l’on applique d’abord les dispositions concernant la fraction à risques à M. Docherty pour l’année 1993, la perte dont il a demandé la déduction s’élevait à 71 666 $, le prix de base rajusté, pour lui, de la part qu’il détenait dans la société de personnes était de 240 000 $, et il devait 240 000 $. La fraction à risques était donc nulle, et M. Docherty n’a droit à aucune déduction à l’égard de pertes, en 1993.
+[67] Si l’on applique à M. Hakem les dispositions concernant la fraction à risques, les fractions étaient les suivantes :
+Année d’imposition
+1990
+1991
+1992
+1993
+1994
+1995
+Perte déduite
+250 000 $
+215 000 $
+138 085 $
+135 724 $
+92 248 $
+62 461 $
+Coût en capital de la part acquise
+400 000 $
+500 000 $
+435 000 $
+412 500 $
+390 000 $
+367 500 $
+Moins : montant dû à la société de personnes (al. 96(2.2)c))
+300 000 $
+435 000 $
+412 500 $
+390 000 $
+367 500 $
+361 875 $
+Fraction à risques
+100 000 $
+65 000 $
+22 500 $
+22 500 $
+22 500 $
+5 625 $
+Perte admise par le M.R.N.
+100 000 $
+65 000 $
+22 500 $
+22 500 $
+22 500 $
+5 625 $
+b) Les dépenses étaient-elles raisonnables?
+[68] Les motifs énoncés jusqu’ici suffisent pour qu’il soit possible de statuer sur les appels. Toutefois, au cas où je me tromperais en concluant que M. Hakem et M. Docherty étaient des commanditaires, j’examinerai maintenant la question du caractère raisonnable des dépenses de la société de personnes.
+[69] Pour la période allant de l’année 1990 à l’année 1996, les dépenses de la société de personnes s’élevaient à un peu plus de onze millions de dollars. Toutes ces dépenses découlaient des honoraires demandés par Pruefer. C’était M. Docherty qui déterminait les montants que Pruefer facturait à la société de personnes, et le comptable de M. Docherty, M. Menzies, les examinait ensuite. M. Menzies a passé en revue la méthode qu’il employait, laquelle est expliquée au paragraphe 44 des présents motifs.
+[70] En examinant la question du caractère raisonnable des honoraires de Pruefer, j’estime utile de citer le résumé que le juge en chef adjoint Bowman a fait à ce sujet dans la décision Safety Boss Ltd. c. Canada[15] :
+Le mot « raisonnable » figurant à l’article 67 véhicule un concept un peu vague faisant appel au jugement et au bon sens d’un observateur objectif et bien informé.
+Il est également utile de tenir compte de l’approche adoptée par le juge Robertson dans la décision Mohammad c. La Reine[16] :
+[...] Néanmoins, l’article 67 doit être appliqué d’une façon raisonnable, et aussi objectivement que possible. [...] Corrélativement, le fait qu’une dépense déductible par ailleurs soit raisonnable dans les circonstances n’a pas à être évaluée par rapport à la question de savoir si une dépense en particulier, ou les dépenses collectivement, sont considérées comme étant disproportionnées par rapport aux revenus.
+[71] Le premier point qui me préoccupe, pour ce qui est du caractère raisonnable des honoraires, est l’approche même que M. Docherty et M. Menzies ont décrite. C’était M. Docherty qui fixait le montant des honoraires que Pruefer facturait à la société de personnes. M. Docherty a sans aucun doute énormément d’expérience dans le domaine de la promotion immobilière, mais il s’occupait de fait aussi de ses propres affaires. Il était l’âme dirigeante de Pruefer, du commandité et de la société de personnes et il agissait en outre pour son propre compte étant donné qu’il était un associé qui allait tirer parti de la capacité de déduire des dépenses plus élevées, sans toutefois être tenu, en sa qualité d’associé, de payer ces dépenses au cours de l’année où elles étaient engagées. En outre, c’est Pruefer elle‑même qui a demandé la déduction, au titre de mauvaises créances, des montants facturés en 1992 et en 1993. Tout cela se touchait de près.
+[72] Il est certain qu’en 1991 et en 1992, Pruefer, grâce aux efforts de M. Docherty, a réussi à atteindre certains objectifs importants du projet : un bail à long terme à faible loyer, l’approbation d’un casino et une exemption d’impôt. Il ressort clairement du témoignage de M. Hawkins que les concessions qui ont été faites en faveur de M. Docherty étaient d’une grande valeur lorsqu’il s’agissait d’assurer la rentabilité future du projet. M. Hawkins a reconnu que l’économie d’impôt valait de onze millions à 14 millions de dollars et qu’avec le compromis consenti à l’égard du bail, cela voulait dire que le projet n’avait pas à assumer des frais additionnels de 20 millions de dollars. Cependant, il n’a jamais été donné suite au projet, et selon le marché conclu avec les associés, ceux‑ci n’avaient rien à payer à moins que le projet ne produise des bénéfices. Par conséquent, une fois que M. Docherty s’est rendu compte que le projet n’allait pas être mis en œuvre, il aurait pu majorer les frais de Pruefer autant qu’il le voulait, il aurait pu les radier dans les livres de Pruefer et il aurait pu fournir une perte déductible aux associés. Cet arrangement exige un examen minutieux quant à son caractère raisonnable.
+[73] M. Docherty affirme que les associés doivent néanmoins de l’argent à Pruefer, et ce, bien que Pruefer ait en partie radié ses honoraires et que Pruefer n’ait pris aucune mesure en vue du recouvrement. M. Hakem a déclaré croire qu’il devait encore de l’argent à Pruefer. Je n’ai pas interprété son témoignage comme voulant dire qu’il paierait Pruefer demain, si on le lui demandait; au mieux, j’interprèterais son témoignage comme voulant dire que, si les bénéfices de la société sont un jour suffisants, il serait en mesure de rembourser Pruefer. Selon moi, aucune autre explication n’est crédible.
+[74] M. Hakem a également témoigné qu’il approuvait chaque année les états financiers, même s’il n’existe absolument aucun procès‑verbal à ce sujet. Il n’est pas surprenant que M. Hakem souscrive aux états fournis par M. Docherty et par M. Menzies. C’était M. Docherty qui était l’âme dirigeante. M. Docherty avait déjà traité avec M. Hakem. M. Hakem avait confiance en M. Docherty, et ce, pour une bonne raison, compte tenu de son expérience professionnelle bien établie. Cependant, en toute logique, si le contrat de société n’exigeait pas qu’il paie tant qu’il n’y aurait pas de bénéfices, M. Hakem n’aurait eu aucune raison de refuser d’approuver les états, même si les dépenses étaient élevées, étant donné en particulier que la chose lui donnerait des pertes déductibles considérables.
+[75] Compte tenu de cette toile de fond, je reviens à la vérification de M. Menzies au sujet de ce qu’il a appelé le caractère vraisemblable des honoraires. En 1993, M. Menzies estimait que le temps que Pruefer avait réellement consacré au projet d’installation polyvalente, à Windsor, représentait, pour Pruefer, des frais réels de 581 000 $. En se reportant à un cours qu’il avait suivi quelques années auparavant, il a triplé ce montant, et il a ensuite ajouté un montant supplémentaire de 330 000 $ sans un mot d’explication. Que penserait l’observateur objectif bien informé qui se fonde sur le sens commun, au sujet d’une telle majoration, dans le cas où il y aurait absence de lien de dépendance, sans parler du cas où il y aurait un lien de dépendance? Malheureusement, aucune preuve comparative n’a été soumise au sujet de ce qui était acceptable dans le secteur de la promotion immobilière. Qu’est‑ce qui est sensé dans ces conditions? Il n’est pas raisonnable, sur le plan commercial, de majorer un montant de 581 000 $ et de le porter à plus de deux millions de dollars pour des efforts qui en fin de compte n’ont jamais permis d’atteindre le résultat final, compte tenu en particulier de l’accord conclu entre Pruefer et la société de personnes. Il ne s’agit pas ici pour la Cour de faire des conjectures au sujet du sens des affaires de M. Docherty et de son comptable. Il s’agit d’établir objectivement les honoraires eu égard aux circonstances particulières de l’affaire.
+[76] Qu’est-ce qui est donc raisonnable? L’intimée affirme que c’est ce que les associés ont réellement payé qui est raisonnable. Il s’agit de la seule preuve tangible de ce qu’une personne d’affaires raisonnable paierait – à savoir, ce qui a réellement été payé. Compte tenu de l’arrangement contractuel ici en cause, je suis d’accord. M. Barat affirme qu’il ne serait pas raisonnable de s’attendre à ce qu’un avocat facture une heure au taux horaire de 250 $ pour un appel téléphonique qui a duré une heure, si cet appel a permis au client d’épargner des millions de dollars. On ne saurait contester la chose, mais la facture de l’avocat est clairement fondée sur son succès. De même, dans ce cas‑ci, le paiement du compte de Pruefer était basé sur des bénéfices futurs, sur le succès futur – un succès qui ne s’est jamais matérialisé. Le paiement n’était pas basé sur le succès d’une démarche intermédiaire.
+[77] Le montant d’environ 2,6 millions de dollars que M. Hakem, M. Docherty et les autres associés ont réellement payé pour avoir leur participation dans la société de personnes allait dans les comptes de Pruefer. Bien qu’il soit légèrement inférieur à l’estimation approximative que M. Menzies aurait pu faire des frais essentiels de Pruefer au fil des ans, je suis convaincu que ce montant représente réellement ce que des personnes d’affaires raisonnables – les associés – étaient en fait prêtes à payer. On n’a pas réussi à me convaincre que la détermination des frais essentiels attribuables à la société de personnes est tout à fait sérieuse, compte tenu de la méthode que M. Menzies a employée. Le calcul du temps consacré à la société de personnes par M. Docherty que M. Menzies a effectué semble arbitraire, comme l’était sa répartition entre différents éléments de la société de personnes et sa majoration considérable.
+[78] En résumé, j’applique l’article 67 et je conclus que les dépenses de la société de personnes résultant d’honoraires supérieurs à ce que celle‑ci a réellement payé étaient déraisonnables eu égard aux circonstances, ces circonstances étant les suivantes :
+(i) l’existence d’un lien de dépendance entre l’entité qui établissait les factures, Pruefer, et le client, à savoir la société de personnes;
+(ii) le fait que M. Docherty, qui était l’âme dirigeante à l’origine des factures établies par Pruefer, pouvait déduire, en sa qualité d’associé, les pertes créées par les factures;
+(iii) la conclusion d’un contrat aux termes duquel Pruefer s’engageait à couvrir les frais tant qu’il n’y aurait pas de bénéfices;
+(iv) la radiation par Pruefer des factures soumises à la société de personnes au titre de mauvaises créances, sans qu’aucun effort de recouvrement soit fait;
+(v) le fait que le projet n’a pas abouti;
+(vi) le caractère arbitraire de la détermination des honoraires;
+(vii) le fait que la société de personnes n’a pas contribué au paiement des honoraires, sauf pour son obligation contractuelle de payer sa participation dans la société.
+[79] Cette conclusion mène au même résultat que la conclusion initiale, à savoir que les pertes subies par M. Docherty et par M. Hakem, qui étaient des commanditaires, sont limitées à leur fraction à risques.
+[80] Les appels sont rejetés, l’intimée ayant droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 18e jour de décembre 2003.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 31e jour de mars 2009.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2003CCI754
+Nos DES DOSSIERS DE LA COUR : 1999-3141(IT)G et 1999-3168(IT)G
+INTITULÉ : William Docherty et Ronald Hakem
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Windsor (Ontario)
+DATE DE L’AUDIENCE : Le 7, 8 et 9 octobre 2003
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 18 décembre 2003
+COMPARUTIONS :
+Avocats des appelants :
+Me Arthur M. Barat, c.r.
+Me Avril Farlam
+Avocats de l’intimée :
+Me Richard Gobeil
+Me Ronald MacPhee
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Me Arthur M. Barat, c.r.
+Cabinet : Barat Farlam Millson
+Pour l’intimée : Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Recueil conjoint de documents, vol. 4, onglet 44.
+[2] Recueil conjoint de documents, vol. 4, onglet 46.
+[3] Recueil conjoint de documents, vol. 4, onglet 53.
+[4] Recueil conjoint de documents, vol. 4, onglet 48, page 14.
+[5] Recueil conjoint de documents, vol. 4, onglet 48, page 10.
+[6] Recueil conjoint de documents, vol. 4, onglet 49, page 304.
+[7] Exposé conjoint des faits.
+[8] Recueil conjoint de documents, vol. 4, onglet 51, page 4.
+[9] Recueil conjoint de documents, onglet 80, page 8496.
+[10] Recueil conjoint de documents, onglet 80, page 8508.
+[11] Recueil supplémentaire conjoint de documents, onglet 149.
+[12] Exposé conjoint des faits, page 12.
+[13] [2001] 4 C.T.C. 2197.
+[14] 2003 CAF 192.
+[15] [2000] A.C.I. no 18.
+[16] [2002] A.C.I. no 201.

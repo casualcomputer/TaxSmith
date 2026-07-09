@@ -1,0 +1,213 @@
+Title: Tremblay v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29380/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-437-29380-tremblay-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-09-04
+
+# Tremblay v. The Queen
+
+- Citation: 2009 TCC 437
+- Decision date: 2009-09-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6871, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-04
+Neutral citation
+2009 TCC 437
+File numbers
+2004-122(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-122(IT)G
+BETWEEN:
+CLAUDETTE TREMBLAY, EXECUTRIX OF THE ESTATE
+OF MARCEL TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 30 and May 1, 2009 at
+Calgary, Alberta
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+James Shea and Adam Hoffman
+Counsel for the Respondent:
+Carla Lamash
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 4th day of September 2009.
+“L.M. Little”
+Little J.
+Citation: 2009 TCC 437
+Date: 20090904
+Docket: 2004-122(IT)G
+BETWEEN:
+CLAUDETTE TREMBLAY, EXECUTRIX OF THE ESTATE
+OF MARCEL TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant was an individual who resided in Cochrane, Alberta.
+[2] In 1986, the Appellant founded the Enerplus group of companies (“Enerplus”). The business model of Enerplus was to raise capital and attract investors in order to invest in oil and gas assets. Enerplus Global Energy Management Inc. (“EGEM”) and Enerplus Energy Services Ltd. (“EES”) were private management companies responsible for managing approximately six private and public income trust funds in the oil and gas industry.
+[3] According to the testimony of the Appellant’s son, Eric Tremblay, the Appellant was the “pioneer” in the development of the Royalty Trust concept. This concept involved establishing income trusts that invested in the oil and gas industry. Under the Appellant’s management, the assets managed by Enerplus grew to over $2.3 billion.
+[4] The Appellant had been employed by Enerplus continuously and without interruption from 1986 through July 31, 2000.
+[5] El Paso Energy Corporation (“El Paso”), a company incorporated in the United States, was interested in acquiring control of Enerplus and commenced negotiations with the Appellant in early 2000. On August 1, 2000, El Paso successfully acquired the business of Enerplus, through the acquisition of the management companies EES and EGEM.
+[6] Following the new corporate ownership, the Appellant entered into a new employment agreement with EES on July 31, 2000 (the “Employment Agreement”). Pursuant to the Employment Agreement, the Appellant was employed as President and Chief Executive Officer and a member of the board of Enerplus for a five-year term. According to the Employment Agreement, the Appellant’s base salary was $328,650.00 per year, to be reviewed annually. The Appellant was also eligible to participate in two bonus programs, the Enerplus Bonus Plan and the Encap Bonus Plan. The Encap Bonus Plan guaranteed a minimum payment of $380,000.00 per year.
+[7] The Employment Agreement also provided that “in the event of termination without cause, severance pay will be paid in accordance with statutory requirements in the Province of Alberta and the policy of El Paso for similarly situated employees in Canada”.
+[8] Soon after the change of ownership, conflicts arose between the Appellant and the new management from El Paso. The escalation of this conflict resulted in the Appellant’s employment being terminated in early 2001 by El Paso.
+[9] According to the testimony of Mrs. Tremblay (the Appellant’s widow) and Eric Tremblay, the Appellant suffered from chronic health conditions since the early 1990s. The Appellant was a type 2 diabetic, had a bleeding ulcer and chronic high blood pressure and had undergone several heart procedures during the 1990s. The evidence provided by Mrs. Tremblay and Eric Tremblay was to the effect that the Appellant’s health deteriorated following the conflicts arising with the El Paso management. During the conflicts and after the dismissal, the Appellant underwent several heart operations and procedures.
+[10] The evidence also indicated that the Appellant contemplated commencing litigation against Enerplus and El Paso as a result of the events that occurred following the purchase by El Paso and his termination, but decided against it. However, it was not clear on the evidence as to what the Appellant would base his lawsuit.
+[11] On May 9, 2001, a letter of intent from Enerplus to the Appellant confirmed that the terms of a settlement agreement (the “Settlement Agreement”) have been reached by the parties (“Enerplus Letter”; Exhibit A-2). The letter described a “Severance Payment … representing 2 years’ compensation, in consideration of the termination of his employment contract … and in consideration of his resignation from the public and private boards.” The letter also stated that the “Severance Payment will be characterized as a retiring allowance”.
+[12] In addition to the reference to the Settlement Agreement, the Enerplus Letter described a “Consulting Agreement” that would be entered into by EGEM and the Appellant, whereby the Appellant would provide consulting services to Enerplus for an annual fee until August 2005.
+[13] Pursuant to an agreement contained in the Enerplus Letter, the Appellant also agreed to send his employees and the board of directors certain letters, wherein he would state that his tenure at the Management Company has been terminated by the new owners due to irreconcilable differences and that in order to minimize any potentially negative implications for unitholders of the public funds or employees, he agreed to a settlement of the matter.
+[14] EGEM and the Appellant entered into the Settlement Agreement as of June 22, 2001 (Exhibit A-3).
+[15] Pursuant to section 6 of the Settlement Agreement, the Appellant provided a confidentiality covenant, whereby he agreed to not use for his own purpose, or for any purpose other than that of Enerplus, any information which he learned as a result of his employment and/or involvement with Enerplus.
+[16] Section 7 of the Settlement Agreement contains various restrictive covenants, including:
+(a) a non-competition clause, whereby the Appellant agreed not to “form, manage, actively participate, carry on or be engaged in or concerned with or interested in, own more than 5% … any Canadian oil and gas income fund or similar product or management company”;
+(b) a non-solicitation clause, whereby the Appellant also agreed to not contact any clients of the Enerplus fund;
+(c) a non-solicitation in respect of Enerplus employees, whereby the Appellant agreed not to request or influence any Enerplus employee to terminate their employment with Enerplus; and
+(d) a non-defamation clause, whereby the Appellant agreed not to make any “disparaging or critical remark” about Enerplus, its representatives or employees, business practices or operations.
+[17] Section 9 of the Settlement Agreement states that if the Appellant breaches any provision of the Agreement, including sections 6 and 7, the Agreement would be repudiated and any further payments under it owing to him by Enerplus would be cancelled.
+[18] Section 12 of the Settlement Agreement states that “the restrictions and covenants contained in paragraphs 6 and 7 constitute a material inducement to the Company to enter into this Agreement, and that the Company would not enter into this Agreement absent such inducement.”
+[19] Pursuant to section 17 of the Settlement Agreement, the Appellant released and discharged Enerplus, and its subsidiaries and affiliates, from any claims for damages, loss, or injury, suits, debts, sums of money, indemnity, expenses, interest, costs, and claims of any and every kind and nature whatsoever that the Appellant or his heirs or executors may have in relation to his employment with Enerplus, his termination with Enerplus, including claims for damages, salary, termination pay, and severance pay.
+[20] Pursuant to section 21 of the Settlement Agreement, the Appellant declared that he had sought and obtained independent legal advice on the matters addressed in the Settlement Agreement. In addition, the parties agreed that any verbal statements, representations, warranty or undertakings prior to the date of the Settlement Agreement did not constitute a part or modify or amend the Settlement Agreement.
+[21] Section 23 of the Settlement Agreement states the Agreement embodied the entire Settlement Agreement between the Appellant and Enerplus.
+[22] Pursuant to the Settlement Agreement, the Appellant received a severance payment in the amount of $2,488,064.00 (the “Severance Payment”), representing two years of compensation at $2,671,713.00, discounted by an annualized discount factor of 10%, less an outstanding expense balance owed by Tremblay in the amount of $27,323.45, for a net payment of $2,460,740.55 minus applicable statutory deductions.
+[23] The Settlement Agreement also stated that the Severance Payment “will be characterized as a Retiring Allowance.”
+[24] On June 22, 2001, a Consulting Agreement was entered into by EGEM and Ghost Lake Manor Corp. (“GLMC”), an Alberta corporation wholly owned by the Appellant. Pursuant to this agreement, GLMC agreed to provide various consulting services for a specified term, ending on August 1, 2005. As consideration, Enerplus was to pay GLMC $52,433.48 monthly until March 31, 2003 and then, $33,333.33 monthly thereafter until the end of the term. The Consulting Agreement also included similar restrictive covenants as those covered in sections 6 and 7 of the Settlement Agreement.
+[25] Mrs. Tremblay testified that the Appellant never went back to the offices of Enerplus after his dismissal (Transcript, at page 51).
+[26] The Appellant died on December 29, 2005.
+[27] Enerplus issued a T4A (“Statement of Pension, Retirement, Annuity and Other Income”) to the Appellant in the amounts of $22,000.00 for an eligible retiring allowance and $2,438,740.55 for a non-eligible retiring allowance. Enerplus withheld income tax on these amounts.
+[28] When the Appellant filed his income tax return for the 2001 taxation year he:
+(a) reported that he received the net amount of the payment in issue (being $2,460,750.55) as “other income”;
+(b) included an “other income summary” which indicated that he received an eligible retiring allowance of $22,000.00 and a non-eligible retiring allowance of $2,438,740.55; and
+(c) sought an “other deduction” (at line 232 of the tax return) from net income in the amount of $2,671,713.00 (which is the gross amount of the Severance Payment) on the basis that this amount was a non-taxable payment for personal damages.
+[29] The Minister of National Revenue (the “Minister”) reassessed the Appellant for his 2001 taxation year. The Minister disallowed the “other deduction” of $2,671,714.00 that had been claimed by the Appellant.
+[30] During the hearing, Counsel for the Appellant submitted a spreadsheet detailing how the amount of $2,671,714.00, representing two years’ salary was calculated (Exhibit A-6). This spreadsheet provided as follows:
+2000
+2001
+Average
+Salary
+328,650
+328,650
+328,650
+Bonus – Trust
+208,013
+806,400
+507,207
+Management Company Bonus
+-
+500,000
+500,000
+Average Salary for previous 2 years
+1,335,857
+x 2 years
+$2,671,714
+B. ISSUE
+[31] The issue is whether the Severance Payment of $2,488,064.00 should be included in calculating the Appellant’s income for his 2001 taxation year.
+C. ANALYSIS
+[32] The phrase “retiring allowance” is defined in subsection 248(1) of the Income Tax Act (the “Act”) as follows:
+“retiring allowance” means an amount (other than a superannuation or pension benefit, an amount received as a consequence of the death of an employee or a benefit described in subparagraph 6(1)(a)(iv)) received
+(a) on or after retirement of a taxpayer from an office or employment in recognition of the taxpayer’s long service, or
+(b) in respect of a loss of an office or employment of a taxpayer, whether or not received as, on account or in lieu of payment of, damages or pursuant to an order or judgment of a competent tribunal,
+by the taxpayer or, after the taxpayer’s death, by a dependant or a relation of the taxpayer or by the legal representative of the taxpayer;
+[Emphasis added]
+[33] The definition of “retiring allowance” under subsection 248(1) was specifically amended in 1981 to include any damages received in respect of a wrongful dismissal or the loss of an office or employment. The 1981 Budget Supplementary Information (BSI) said the following in respect of this amendment:
+Since 1978, all job-termination payments amounting to less than six months' salary have been taxable, regardless of their form, whereas the tax status of larger payments has depended on whether they could be considered to be damages. This has led higher-income individuals who receive large payments on termination of an employment to attempt to have them appear as damages for wrongful dismissal, and thus be tax-exempt. In fact, the full amount of all job termination payments represents remuneration or a substitute for remuneration and should thus be taxable. Effective for employees who terminate employment after November 12, 1981, the entire amount of all job termination payments will be required to be included in income
+[Emphasis added]
+[34] Similarly, the 1982 Technical Notes said the following:
+The amendment to the definition “retiring allowance” is consequential on the changes in the tax treatment of damages for wrongful dismissal and other similar amounts that were previously included in the definition of termination payments. The amendment treats as a retiring allowance the full amount of any payment to an employee received as damages or pursuant to a judicial determination.
+[Emphasis added]
+[35] The Court must determine whether the Severance Payment received by the Appellant was made in respect of the Appellant’s loss of employment.
+[36] Counsel for the Appellant argued that the evidence indicates that some portion of the Severance Payment was made for silence, some portion for non‑compete, and some portion for severance of employment (Transcript, page 176, lines 4-6).
+[37] Counsel for the Appellant also stated:
+… I stress that it is the character of the receipt in the recipient’s hands that is significant; …
+(Transcript, page 180, lines 15-17).
+[38] Counsel for the Appellant also sated:
+But what we do have is the testimony from Enerplus that the payment, no matter how it’s classified in the document, how it’s labelled in the document, how it might apply to the global concept of retiring allowance, is that it was there to ensure that he would not, to use his phrase, bad mouth El Paso and/or Enerplus in the marketplace and that further he would not go across the street and open another income trust. That’s what they needed.
+(Transcript, page 182, lines 23-25 and page 183, lines 1-7)
+[39] However, there was no evidence provided to indicate what portion of the Severance Payment should be applied to “silence”, what portion of the payment should be applied to “non-compete” or what portion of the payment should be applied to “severance”.
+[40] Counsel for the Respondent noted that the Appellant reported the Severance Payment as income and there is no provision in the Act for the Appellant to receive the deductions claimed by him. Counsel for the Respondent said:
+… the appeal must be dismissed on that basis alone.
+(Transcript, page 222, lines 1-5)
+[41] Counsel for the Respondent also said:
+… the settlement agreement entered into with the parties expressly stipulates that the payment of $2,460,740 is a severance payment and is to be characterized as a retiring allowance.
+(Transcript, page 229, lines 18-21)
+[42] Counsel for the Respondent also said:
+Going on, it [i.e. the Settlement Agreement] also states that if there’s any verbal statements, representations, warranties or undertakings prior to the agreement, don’t constitute in part or modify this agreement, and at that point -- I’m paraphrasing, he’s accepting, voluntarily accepting the terms and conditions of the agreement for the purpose of making a full and final compromise, adjustment and settlement of all claims.
+In paragraph 23 is an acknowledgment that this is the entire agreement. So this is the agreement that sets out the terms of the severance payment.
+It’s clear that in the Settlement Agreement the parties, and I say “the parties” because Mr. Tremblay signed it, went through great pains to make it clear that Enerplus’s payment to Tremblay was to be seen as a retiring allowance and not payment for anything else, and yes, there’s an acknowledgment that there’s other terms considered, but those terms relate to the termination of Mr. Tremblay. And as we’ll discuss later, that’s very important because it’s not just -- if you look at the whole reason for the settlement -- the whole package, and we’ll go into that in more detail.
+Now, it’s submitted that the appellant is asking the Court to entirely ignore the legal agreement and the substance of payment in issue. She, by that I mean the executrix, is asking the Court to look behind a legally binding contract and conclude that the payment in issue is something entirely different than what the parties expressly agreed.
+The nature of the payment is clear; it was negotiated by two sophisticated parties, and it clearly sets out what the parties meant, that this was supposed to compensate. It’s clearly and irrevocably identified. The appellant is attempting to recharacterize the agreement it entered into with Enerplus in order to escape tax consequences of the agreement, something which is not permitted in tax law.
+Again I’m going to rely on Shell Canada, and that is in my authorities, at Tab 2, or it’s Case Number 2. The reference is to paragraph 41, and I believe Mr. Shea did refer to that paragraph, but rather than stand here and read that paragraph, I’m going to submit that this stands for the proposition, as I’ve already indicated, that the Courts, the CRA and the parties have to abide by the legal consequences of a legally valid transaction. You can’t look to what it might have meant, what the parties may have, in the backdoor, had intended it to mean. It is what was actually meant by the legal transaction. You can’t restate is it for tax purposes.
+(Transcript page 233, lines 15-25; page 234, lines 1-25; page 235, lines 1‑20)
+[43] Counsel for the Respondent also referred to Overin v. The Queen, 98 D.T.C. 1299, a decision of Justice Rip (as he then was).
+[44] In Overin, a two-prong test was developed for the purpose of determining which damages fall within the definition of “retiring allowance” under subsection 248(1) of the Act. At page 1302, Rip J. reached the following conclusion regarding the use of the words “in respect of” in the definition:
+The use of the words "in respect of" in the definition of retiring allowance has been recognized as conveying a connection between a taxpayer's loss of employment and the subsequent receipt. [FOOTNOTE 4: Niles v. MNR, 91 DTC 806 (TCC) per Sobier, J.T.C.C., Merrins v. The Queen, 94 DTC 6669 (FCTD) per Pinard, J. on appeal from the Tax Court of Canada; both decisions considered the Supreme Court of Canada's interpretation of the words in Nowegijick v. The Queen, 83 DTC 5041 at 5045:
+The words "in respect of" are, in my opinion, words of the widest possible scope. They import such meanings as "in relation to", "with reference to" or "in connection with". The phrase "in respect of" is probably the widest of any expression intended to convey some connection between two related subject matters.]
+In order for the retiring allowance provision to have real meaning, however, some limit must be placed on the ambit or scope of the required connection between a receipt and a loss of employment. In this regard two decisions may be of some assistance. First, in Merrins, supra, Pinard, J. observed at 6670:
+There is no doubt that the amount was received by the plaintiff in respect of the loss of his employment with AECL. Had there been no loss of employment, there would have been no grievance, no settlement, no award and, therefore, no payment of the sum to the plaintiff.
+What is implied from Pinard, J.'s analysis is that in determining the limit to be placed on the connection between a payment and a loss of employment, the appropriate test is to ask "but for the loss of employment would the amount have been received?" If the answer to that question is in the negative, then a sufficient nexus exists between the receipt and the loss of employment for the payment to be considered a retiring allowance.
+[Emphasis added]
+[45] Rip J. continued at page 1302, to add a second question to the test:
+In Leest, supra, Dussault, J.T.C.C. observed:
+As there is no doubt in my mind that the appellant lost, for all practical purposes and effect his employment for a lengthy period, although not permanently as he was later reinstated by the Arbitration Board, I also conclude that the award of damages by the Arbitration Board was directly related to that loss and directed at compensating it.
+In that sense, the amount was "with respect of" the loss of employment. This being so, such damages can rightly be considered a "retiring allowance" as that term is now defined by subsection 248(1) of the Act. They are thus taxable by virtue of subparagraph 56(1)(a)(ii) of the Act.
+It is quite clear then that in addition to the "but/for" test, where the purpose of a payment is to compensate a loss of employment it may be considered as having been received "with respect to" that loss.
+[Emphasis added]
+[46] After considering the evidence in some detail, I have concluded that when the Appellant and El Paso signed the Settlement Agreement, the Appellant agreed to accept a Severance Payment in the amount of $2,488,064.00 in final settlement of all of his claims against El Paso. I agree with the position outlined by Counsel for the Respondent that the Court should not look behind the Settlement Agreement to find that a portion of the Severance Payment was to cover the Appellant’s silence or to relate to a non-competition agreement or for any other purpose. I also note that section 17 of the Settlement Agreement states that the Appellant released and discharged Enerplus and its subsidiaries and affiliates from any claims for damages, loss, or injury, suits, debts, sums of money, indemnity, expenses, interest, costs and claims of any and every kind whatsoever that the Appellant or his heirs or executors may have in relation to his employment with Enerplus, his termination with Enerplus, including claims for damages, salary, termination pay and severance pay.
+[47] I have concluded that the Severance Payment in the amount of $2,488,064.00 paid to the Appellant is a retiring allowance within the meaning of the definition contained in subsection 248(1) of the Act.
+[48] The appeal is dismissed with costs.
+Signed at Vancouver, British Columbia, this 4th day of September 2009.
+“L.M. Little”
+Little J.
+CITATION:
+2009 TCC 437
+COURT FILE NO.:
+2004-122(IT)G
+STYLE OF CAUSE:
+Claudette Tremblay, Executrix of the Estate of Marcel Tremblay and
+Her Majesty the Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATES OF HEARING:
+April 30 and May 1, 2009
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+September 4, 2009
+APPEARANCES:
+Counsel for the Appellant:
+James Shea and Adam Hoffman
+Counsel for the Respondent:
+Carla Lamash
+COUNSEL OF RECORD:
+Counsel for the Appellants:
+Name:
+James Shea and Adam Hoffman
+Firm:
+Shea Nerland Calnan LLP
+Calgary, Alberta
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

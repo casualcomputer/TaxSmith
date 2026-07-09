@@ -1,0 +1,252 @@
+---
+title: "Ouellet v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31011/index.do"
+last_modified: "2012-11-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 389"
+citation2: ""
+neutral_citation: "2012 TCC 389"
+decision_date: "2012-11-07"
+language: "en"
+item_id: "31011"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4893
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:03:03.293000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "de8269ecdd4d8cce9946a9375967a875101c879384e81be32ade0e4f4342912c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ouellet v. M.N.R.
+
+- Citation: 2012 TCC 389
+- Decision date: 2012-11-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4893, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ouellet v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-11-07
+Neutral citation
+2012 TCC 389
+File numbers
+2009-1213(EI), 2009-1222(EI), 2009-1223(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-1223(EI)
+BETWEEN:
+ALINE LÉVESQUE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Evelyne Ouellet (2009-1222(EI)) and Monique Thibault (2009‑1213(EI)),
+on October 1 and 2, 2012,
+at Edmundston, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the appellant:
+Denys Saindon
+Counsel for the respondent:
+Christina Ham
+__________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed, and the Minister's decision is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of November 2012.
+"François Angers"
+Angers J.
+Translation certified true
+on this 20th day of December 2012
+Michael Palles, Translator/Language Adviser
+Docket: 2009-1222(EI)
+BETWEEN:
+EVELYNE OUELLET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Aline Lévesque (2009-1223(EI)) and Monique Thibault (2009-1213(EI)),
+on October 1 and 2, 2012,
+at Edmundston, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the appellant:
+Denys Saindon
+Counsel for the respondent:
+Christina Ham
+__________________________________________________________________
+JUDGMENT
+The appeals under subsection 103(1) of the Employment Insurance Act are dismissed, and the Minister's decisions are confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of November 2012.
+"François Angers"
+Angers J.
+Translation certified true
+on this 20th day of December 2012
+Michael Palles, Translator/Language Adviser
+Docket: 2009-1213(EI)
+BETWEEN:
+MONIQUE THIBAULT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Aline Lévesque (2009-1223(EI)) and Evelyne Ouellet (2009-1222(EI)),
+on October 1 and 2, 2012,
+at Edmundston, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the appellant:
+Denys Saindon
+Counsel for the respondent:
+Christina Ham
+__________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed, and the Minister's decision is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7 th day of November 2012.
+"François Angers"
+Angers J.
+Translation certified true
+on this 20th day of December 2012
+Michael Palles, Translator/Language Adviser
+Citation: 2012 TCC 389
+Date: 20121107
+Dockets: 2009-1223(EI),
+2009-1222(EI), 2009-1213(EI)
+BETWEEN:
+ALINE LÉVESQUE,
+EVELYNE OUELLET,
+MONIQUE THIBAULT,
+Appellants
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The appellants are appealing a decision of the Minister of National Revenue (the Minister) concerning the insurability of their employment with the same employer, namely, the numbered company 6502695 Canada Inc. (the payer), during the following periods:
+Aline Lévesque: June 12 to October 27, 2006;
+Evelyne Ouellet: September 4 to December 9, 2006;
+Monique Thibault: May 15 to September 29, 2006.
+[2] These appeals were heard on common evidence, and according to the Minister's decision, none of the appellants held insurable employment with the payer during the periods in question because they were not employed under a contract of service, given that they did not work for the payer. In the alternative, the Minister concluded that their employment was not insurable because they had a non-arm's-length relationship with the payer under paragraph 5(2)(i) of the Employment Insurance Act (the Act), more specifically, a de facto non-arm's-length relationship under paragraph 251(1)(c) of the Income Tax Ac (ITA).
+[3] Counsel for appellant Aline Lévesque informed the Court at the beginning of the hearing that his client would not be attending and would not be testifying. He also informed the Court that appellant Monique Thibault would not be attending either, also owing to illness, but he said that he nevertheless intended to proceed. However, Robert Coulombe, Ms. Thibault's common-law spouse, did testify. Ms. Ouellet is the only appellant who testified.
+[4] In making his decision, the respondent relied on the following assumptions of fact, which may be found in paragraphs 6 and 8 of the Replies to the Notice of Appeal and which I have reproduced below:
+[translation]
+(a) the payer was incorporated on January 9, 2006, under the laws of New Brunswick;
+(b) the sole shareholder and director of the payer was Jean-Louis Martel (the shareholder);
+(c) the payer's declared activity was the operation of a forestry business (the business);
+(d) the payer was part of a group of corporations that was the subject of a major investigation by the Employment Insurance Commission;
+(e) the major investigation showed that these corporations, including the payer, were involved in schemes, with individuals such as the appellant, designed to provide the individuals with false Records of Employment so that they could qualify for Employment Insurance benefits to which they were not entitled;
+(f) the payer issued Records of Employment to 53 individuals for the period from April 3, 2006, to March 16, 2007, for a total of $642,685 in wages allegedly paid;
+(g) most of the Records of Employment issued show 14 weeks of work;
+(h) two of these individuals admitted that they had bought their Records of Employment from the payer and had never worked for it;
+(i) during the year 2006, the payer earned $316,177.07 from logging;
+(j) however, more than seventy percent (70%) of the sales of wood took place before even a single employee appeared on the payer's payroll, that is, before April 3, 2006;
+(k) indeed, of the 220 shipments of wood that the payer sold to the Syndicat des producteurs de bois de la Gaspésie, only 59 occurred during the period covered by the dates in the Records of Employment issued by the payer;
+(l) these 59 shipments represented a total volume of 1,180 cords of wood;
+(m) a logger with a chainsaw can cut 25 cords of wood a week, on average;
+(n) the 1,180 cords of wood cut during the period covered by the Records of Employment could not have been cut by more than three or four loggers with saws (1,180 cords of wood ÷ 25 cords of wood per week ÷ 14 weeks of work per logger = 3.37 loggers);
+(o) the payer did not keep a ledger of its income and expenses;
+(p) the payer had no licence to operate its business;
+(q) the payer signed no contracts for stumpage rights;
+(r) the payer never filed a tax return;
+(s) the payer never remitted source deductions to the Minister of National Revenue (the Minister);
+(t) on April 2 and 10, 2007, the payer's shareholder told officers of the Employment Insurance Commission during his interviews that
+(i) the payer did not have any machinery,
+(ii) there were no supervisors on the work sites,
+(iii) he did not know who measured the wood cut,
+(iv) the loggers marked their wood with paint,
+(v) he did not know who loaded the wood on the trucks because he was rarely in the forest, and
+(vi) he did not know the names of the owners of the woodlots where the wood had been cut;
+(u) during the period at issue, neither the payer nor the appellant carried out any reforestation;
+(v) during the period at issue, the appellant did not perform any services for the payer; and
+(w) the appellant received no earnings from the payer.
+8. Regarding the de facto non-arm's-length relationship, the respondent made the following assumptions of fact:
+(a) all of the facts set out at paragraph 6;
+(b) the appellant received a Record of Employment from the payer, bearing serial number A80845782, which stated that 700 hours had been worked and that $10,920 in earnings had been paid;
+(c) this Record of Employment dated December 11, 2006, is fake; and
+(d) the appellant and the shareholder, on behalf of the payer, agreed on a scheme to enable the appellant to qualify for Employment Insurance benefits to which she was not entitled.
+[5] However, it should be noted that the Records of Employment, the earnings and the hours worked, like the period of work, are different for each of the appellants. The assumptions of fact reproduced above are from the file of appellant Evelyne Ouellet. In the case of appellant Aline Lévesque, the Record of Employment bears the serial number A81054338, states that 1,000 hours had been worked and $11,440 in earnings had been paid, and is dated November 3, 2006. The Record of Employment of appellant Monique Thibault bears the serial number A81054337, states that 1,000 hours had been worked and $11,000 in earnings had been paid, and is dated October 6, 2006.
+[6] In light of the assumptions of fact set out above and of the evidence filed by the respondent at the hearing, the issue to be determined is whether the three appellants did in fact work for the payer during the periods in question and for the hours and earnings stated in their respective Records of Employment. As was mentioned above, the appellants had two witnesses testify at the hearing: appellant Evelyne Ouellet and the common-law spouse of appellant Monique Thibault.
+[7] Ms. Ouellet testified that it was through Mélissa Gallant that she learned that Jean‑Louis Martel, the payer's sole shareholder and director, was hiring. She said that she had met with Mr. Martel in person and that her work consisted of stacking firewood and separating the pine from the spruce by marking them with paint. She allegedly was paid $15 an hour and worked 10 hours a day from Monday to Friday, for a total of $750 a week. She said that she worked from September 4 to December 9, 2006, on three different lots in the Kedgwick and Saint‑Quentin areas of New Brunswick. She does not know who owns the lots in question.
+[8] She arranged her own transportation to the work sites and was accompanied by Mélissa Gallant, with whom she worked during the period at issue. Jean‑Louis Martel often stopped by to see them during the week, particularly on Friday afternoons, when he gave them their pay. She was paid in cash and had to sign a document; however, she did not file an example of this document. She tried to show that she deposited part of her money into an account at the Bank of Nova Scotia to cover her mortgage payments. However, no connection could be made between her pay and the deposits, particularly since the account statement she filed was from the Caisse populaire, not the Bank of Nova Scotia.
+[9] In her testimony, she said that the pine and the spruce were cut into eight-foot logs. Later in her testimony, she described the wood as [translation] "floating logs".
+[10] The firewood she was stacking was cut by other people into short lengths. She spent about a month or a month and a half on the same lot.
+[11] During the investigation, Ms. Ouellet was asked to fill out various questionnaires given to her by the respondents' investigators and to attend an interview. All the questionnaires and an interview report were filed in evidence. She testified that she had received her Record of Employment in the mail. The Record of Employment was dated December 11, 2006, and her Employment Insurance benefits claim was dated December 12, 2006.
+[12] In the questionnaire she filled out on March 14, 2007, Exhibit I‑3, Ms. Ouellet stated that she had worked from September 10 to December 9, 2006. She also stated that she had worked on privately owned lots in Saint‑Jean‑Baptiste. According to Exhibit A-1, a map of the area, Saint‑Jean‑Baptiste is far from the area where Ms. Ouellet marked a yellow "X" indicating where she had worked. She stated that she had also worked at places called Maltais and St-André, which are very far from the place indicated in Exhibit A-1. Regarding the frequency of Jean‑Louis Martel's visits, she answered that he came by on Fridays to pay them and to tell them where to go. Contrary to what she said in her testimony, namely, that Mélissa Gallant was the only other person with whom she had worked, she stated in this questionnaire that there were five women in all, including a woman named Monica, from Campbellton; a woman with the last name Thibault; and another whom she did not know. I find it odd that someone could work with another person and not know her name. She stated in the questionnaire that she earned $780 a week, that her shift was from 8:00 a.m. to 6:00 p.m. and that she was not given any time off for lunch. One has to wonder how it is that, according to this questionnaire, she was earning $30 more a week than she said in her testimony.
+[13] In the report of the interview held on December 12, 2007 (Exhibit I-1), she stated that she had worked alone, apart from the loggers and the machine operators, and that Mélissa had worked for the same 13 weeks as her on the same lots. Her shift was from 7:00 a.m. to 5:00 p.m., and she never missed a day. She said that the wood was simply delimbed, not cut, so we are no longer talking about eight- or four-foot logs. She did not know who collected the cut wood. She stated that she had earned $744.66 a week, gross. When asked how the payer came to hire her, she stated that [translation] "Jean‑Louis is a guy from Kedgwick. I know him well. I went to see him and talked to him. I asked him for a job".
+[14] In the questionnaire dated December 29, 2008, submitted to the appeals officer, Ms. Ouellet answered Question 8, which asked whether she had known Jean‑Louis Martel before she started working for the payer, by saying [translation] "not personally. I saw him briefly once or twice". She stated that he (Jean‑Louis) sometimes came round to see if the work was being done and came by Fridays to pay them. In response to the questions on how often Jean‑Louis Martel visited and what he did during his visits, she stated that on Fridays, Jean‑Louis told them what work would have to be done the next week (Questions 16 and 16(a)). In response to the question on where she had worked (Question 17(a)), she answered that she had worked [translation] "on the lots in range 9 and range 10, the lot next to it, and a lot in Maltais". However, she testified that she had worked on three different lots for about a month or a month and a half in each case and that she had always performed the same work. Her gross wages were $744.66, and her hourly rate was $14.75 an hour for 50 hours a week, she stated. Her gross wages should therefore be $737.50, not $744.66. Furthermore, in her answer to Question 28(a), she stated this time that she had been paid in cash, but only after having endorsed a cheque for the same amount, and that she had signed a paper each time.
+[15] The Record of Employment (Exhibit A-2) shows a total of 700 insurable hours and total insurable earnings of $10,920. This gives an hourly rate of $15.60. Given this contradiction and all the others, there is no way of knowing with certainty what the working conditions of appellant Evelyne Ouellet really were after all.
+[16] The spouse of appellant Monique Thibault was not sure how long she had worked for the payer. He stated that her work had consisted of planting saplings and that she had worked 50 hours a week, from 6:00 a.m. to 6:00 p.m., in the Saint‑Quentin area. She had been supervised by Jean‑Louis Martel and had worked with appellant Aline Lévesque and another person, named Brenda Lemaître. She had been paid in the same manner as the other appellants, that is, in cash on Friday afternoons, and she had had to sign a receipt. He filed as Exhibit A-5 the document she had signed, but it was later proved that this was a copy and not the document that appellant Monique Thibault had in fact signed every Friday.
+[17] The appeals officer, Manon McGraw, filed a table (Exhibit I-23) detailing the many contradictions in Monique Thibault’s answers in the various questionnaires she had been given at different stages of the investigations. As was the case with appellant Evelyne Ouellet, there is no way of knowing with certainty what the terms of the employment contract of appellant Monique Thibault were. The contradictions concern the duties performed, the areas where she worked, the persons she worked with, her work schedule, her equipment and the persons she travelled with to get to work, to give just a few examples.
+[18] The respondent, meanwhile, filed evidence showing that the payer had been the subject of a major investigation because the Records of Employment given to 53 of its workers in 2006 were not supported by documents establishing that the payer had in fact carried out logging operations. The payer allegedly did not sell any of the wood it claims to have paid its workers for, or sold only a minuscule amount, and the dates of sale did not match the dates of employment. Clearly, the payer's operations could not warrant the number of workers it hired, which suggests that the Records of Employment are fakes.
+[19] The onus is on the appellants to prove, on a balance of probabilities, that each of them did indeed work for the payer during the entire period in question for the number of hours stated in the Records of Employment and was paid earnings matching that number of hours.
+[20] In the case of appellant Evelyne Ouellet, I have already noted the contradictions in the answers to the various questionnaires and in her testimony. At this time, it is difficult to determine whether she was employed and, if so, what the conditions of that employment were. The payer's representative, Jean‑Louis Martel, was not called as a witness, nor was Mélissa Gallant, who worked with Ms. Ouellet. The other employees who cut wood near the place of work could easily have confirmed Ms. Ouellet's statements. I was told that Jean‑Louis Martel could not be located, which comes as no surprise to me. As for the others, I can only infer that their testimony would not have been favourable to the appellant.
+[21] I therefore give little weight to the testimony of Ms. Ouellet. I find it implausible that a person would work 14 weeks in a row for 10 hours a day in every kind of weather imaginable up to December 9, 2006, without missing a single hour of work. It would also appear that there were no lunch breaks, and the work was limited to separating the pine from the spruce and marking them with paint. Moreover, Ms. Ouellet was not sure how long the cut wood was and stacked firewood in the middle of the forest, 10 hours a day for 14 weeks in a row.
+[22] The documentary evidence also shows that the Records of Employment were sent to the appellants by mail. The claim for Employment Insurance benefits bears the same date as the Record of Employment in the case of appellant Aline Lévesque, the next day's date in the case of appellant Evelyne Ouellet, and the date of the day after that in the case of appellant Monique Thibault. How could someone have the Record of Employment in their possession the same day it was mailed?
+[23] Regarding appellant Monique Thibault, even if she had a valid reason not to attend the hearing, her absence suggests that her testimony would not have been any more plausible or consistent than the answers she gave during the investigations. No application for an adjournment was made, nor was any request to testify in an alternative manner made in her case. It was her counsel's choice to proceed this way. The payer's representative did not testify, for reasons already explained, and Ms. Thibault's co-workers did not testify either. I therefore conclude that their testimonies would not have been favourable to Ms. Thibault.
+[24] Regarding appellant Aline Lévesque, she did not appear at the hearing of her case, and I conclude from this that she had no evidence to present that could have supported her position.
+[25] Given the state of affairs described above, I conclude that none of the appellants worked for the payer during the periods stated in each of their Records of Employment and that, if they did in fact render services of some kind to the payer, they did not do so during the times and for the pay stated in their Records of Employment. In other words, their Records of Employment do not reflect reality and are the product of a made-up arrangement between the payer and the appellants.
+[26] The appeals are therefore dismissed.
+Signed at Ottawa, Canada, this 7th day of November 2012.
+"François Angers"
+Angers J.
+Translation certified true
+on this 20th day of December 2012
+Michael Palles, Translator/Language Adviser
+CITATION: 2012 TCC 389
+COURT FILE NOS.: 2009-1223(EI), 2009-1222(EI),
+2009-1213(EI)
+STYLES OF CAUSE: Aline Lévesque v. M.N.R.
+Evelyne Ouellet v. M.N.R.
+Monique Thibault v. M.N.R.
+PLACE OF HEARING: Edmundston, New Brunswick
+DATES OF HEARING: October 1 and 2, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: November 7, 2012
+APPEARANCES:
+Counsel for the appellant:
+Denys Saindon
+Counsel for the respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the appellant:
+Name: Denys Saindon, Advocate
+Firm: Québec, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

@@ -1,0 +1,195 @@
+Title: Ostroff v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30583/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-513-30583-ostroff-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-11-02
+
+# Ostroff v. The Queen
+
+- Citation: 2011 TCC 513
+- Decision date: 2011-11-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7141, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ostroff v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-11-02
+Neutral citation
+2011 TCC 513
+File numbers
+2011-860(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-860(IT)I
+2011-955(IT)I
+2011-1591(IT)I
+BETWEEN:
+MICHAEL OSTROFF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence on October 7, 2011,
+at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Bernard Yevzeroff
+Counsel for the Respondent:
+Sharon Lee
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments dated May 13, 2010 made under the Income Tax Act for the 2003, 2004, 2005, 2006, 2007 and 2008 taxation years are dismissed and the assessed late filing penalties for the 2003, 2004, 2005, 2006, 2007 and 2008 taxation years are confirmed.
+Signed at Ottawa, Canada, this 2nd day of November 2011.
+"Réal Favreau"
+Favreau J.
+Citation: 2011 TCC 513
+Date: 20111102
+Dockets: 2011-860(IT)I
+2011-955(IT)I
+2011-1591(IT)I
+BETWEEN:
+MICHAEL OSTROFF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant appeals by way of the informal procedure from the assessments made by the Minister of National Revenue (the “Minister”) under the Income Tax Act, R.S.C. 1985, C-1 (5th Supp.) as amended (the “Act”), dated May 13, 2010 concerning the appellant’s 2003, 2004, 2005, 2006, 2007 and 2008 taxation years.
+[2] The appeals were heard on common evidence and the issues are:
+(a) whether the Minister properly assessed the appellant for the 2003, 2004, 2005, 2006, 2007 and 2008 taxation years to include unreported income in the amounts of $56,599, $58,700, $58,000, $58,700, $60,300 and $60,300 respectively in accordance with subsection 152(7) of the Act ; and
+(b) whether the late filing penalties for each of the 2003, 2004, 2005, 2006, 2007 and 2008 taxation years were properly assessed in accordance with subsection 162(1) of the Act.
+[3] In determining the appellant’s tax liability for the 2003 and 2004 taxation years, the Minister made the following assumptions of fact:
+(a) the Appellant’s returns of income for the 2003 and 2004 taxation years, were not filed with the Minister as and when required by subsection 150(1) of the Act.
+(b) the Minister used information available to him to prepare the assessments of tax payable for the 2003 and 2004 taxation years, the Notices of which were dated May 13, 2010, in accordance with subsection 152(7) of the Act.
+(c) for the 2003 and 2004 taxation years, the Appellant’s total income which he failed to report, was not less than the following amounts:
+2003
+2004
+Business income
+$48,676
+$58,700
+Employment insurance
+7,847
+—
+Interest
+76
+—
+Total income
+$56,599
+$58,700
+(d) for the 2003 and 2004 taxation years, the Appellant was allowed the Basic Personal amounts, amounts for Canada Pension Plan contributions and amounts for Employment Insurance premiums, in the calculation of the non-refundable tax credits;
+(e) the Appellant did not have any other deductions in the calculation of his taxable income for the 2003 and 2004 taxation years beyond the amounts already allowed;
+(f) the Appellant did not incur any business related expenses in the 2003 and 2004 taxation years;
+(g) the Appellant’s returns of income for the 2003 and 2004 taxation years were required to be filed with the Minister on or before April 30, 2004 and April 30, 2005 respectively;
+(h) the Appellant’s returns of income for the 2003 and 2004 taxation years have not been filed with the Minister;
+(i) the amounts of tax for the 2003 and 2004 taxation years that were unpaid when the returns of income for the 2003 and 2004 taxation years were required to be filed were $10,545.67 and $9,531.91 respectively.
+[4] In determining the Appellant’s tax liability for the 2005 and 2006 taxation years, the Minister made the following assumptions of fact:
+(a) the Appellant’s returns of income for the 2005 and 2006 taxation years, were not filed with the Minister as and when required by subsection 150(1) of the Act.
+(b) the Minister used information available to him to prepare the assessments of tax payable for the 2005 and 2006 taxation years, the Notices of which were dated May 13, 2010, in accordance with subsection 152(7) of the Act.
+(c) for the 2005 and 2006 taxation years, the Appellant’s total income which he failed to report, was not less than the following amounts:
+2005
+2006
+Business income
+$58,000
+$58,700
+(d) for the 2005 and 2006 taxation years, the Appellant was allowed the Basic Personal amounts, amounts for Canada Pension Plan contributions and amounts for Employment Insurance premiums, in the calculation of the non-refundable tax credits;
+(e) the Appellant did not have any other deductions in the calculation of his taxable income for the 2005 and 2006 taxation years beyond the amounts already allowed;
+(f) the Appellant did not incur any business related expenses in the 2005 and 2006 taxation years;
+(g) the Appellant’s returns of income for the 2005 and 2006 taxation years were required to be filed with the Minister on or before April 30, 2006 and April 30, 2007 respectively;
+(h) the Appellant’s returns of income for the 2005 and 2006 taxation years have not been filed with the Minister;
+(i) the amounts of tax for the 2005 and 2006 taxation years that were unpaid when the returns of income for the 2005 and 2006 taxation years were required to be filed were $10,382.76 and $10,523.13 respectively.
+[5] In determining the Appellant’s tax liability for the 2007 and 2008 taxation years, the Minister made the following assumptions of fact:
+(a) the Appellant’s returns of income for the 2007 and 2008 taxation years, were not filed with the Minister as and when required by subsection 150(1) of the Act.
+(b) the Minister used information available to him to prepare the assessments of tax payable for the 2007 and 2008 taxation years, the Notices of which were dated May 13, 2010, in accordance with subsection 152(7) of the Act.
+(c) for the 2007 and 2008 taxation years, the Appellant’s total income which he failed to report, was not less than the following amounts:
+2007
+2008
+RRSP income
+$ 4,772
+$ —
+Business income
+55,528
+60,300
+Total unreported income
+$60,300
+$ 60,300
+(d) for the 2007 and 2008 taxation years, the Appellant was allowed the Basic Personal amounts and amounts for Canada Pension Plan contributions in the calculation of the non-refundable tax credits;
+(e) the Appellant did not have any other deductions in the calculation of his taxable income for the 2007 and 2008 taxation years beyond the amounts already allowed;
+(f) the Appellant did not incur any business related expenses in the 2007 and 2008 taxation years;
+(g) the Appellant’s returns of income for the 2007 and 2008 taxation years were required to be filed with the Minister on or before April 30, 2008 and April 30, 2009 respectively;
+(h) the Appellant’s returns of income for the 2007 and 2008 taxation years have not been filed with the Minister;
+(i) the amounts of tax for the 2007 and 2008 taxation years that were unpaid when the returns of income for the 2007 and 2008 taxation years were required to be filed were $8,487.08 and $8,415.99 respectively.
+Other Material Facts
+[6] Counsel for the respondent filed an affidavit signed by Shiraz Mukhida, a Non‑Filer/ on-Registrant Officer Revenue Collections in the Toronto North TSO of the Canada Revenue Agency (“CRA”), to which were attached the following documents (Exhibit R-1):
+(a) a printout from Option C (information pertaining to the income and deductions reported in the taxpayer’s T1 tax return) showing the appellant's reported net income of $46,486 for the 2002 taxation year;
+(b) a printout from Option I relating to the years under appeal showing that the appellant had not filed returns for any of the 2003, 2004, 2005, 2006, 2007 and 2008 taxation years and that the CRA has made assessments pursuant to subsection 152(7) of the Act; and
+(c) printouts of the CRA’s computerized data base system records showing the income slips issued to the appellant for the years under appeal as follows:
+(i) a T4E information slip was issued to the appellant in respect of employment insurance and other benefits in the amount of $7,847 for the 2003 taxation year;
+(ii) a T5 information slip was issued to the appellant in respect of investment income in the amount of $77 for the 2003 taxation year;
+(iii) a T4RSP information slip was issued to the appellant in respect of RRSP income in the amount of $4,772 for the 2007 taxation year.
+[7] In his Notices of Appeal for the 2003, 2004, 2005 and 2006 taxation years, the appellant did not raise the fact that the assessments for those years were made beyond the normal reassessment period but he did so with respect to the assessments made for the 2007 and 2008 taxation years. The appellant also alleged that he has realized non-capital losses in the 2002 and 2009 taxation years which eliminated all his tax payable for the years under appeal.
+[8] The appellant testified at the hearing. He explained that, up to 2002, he was a salesman and was making good revenues. He lost his employment when the company for which he worked closed its doors. He received employment insurance benefits in 2002 and 2003 and started a paralegal business in 2003. He said that he was aware of the requirement to file an income tax return in respect of each taxation year but he did not file any for the 2003, 2004, 2005, 2006, 2007 and 2008 taxation years because he thought that no tax was payable by him for each of those taxation years.
+[9] During his testimony, the appellant made the following estimates of his net income for each year under appeal:
+2003:
+$ 7,000
+2004:
+$12,000
+2005:
+2006:
+2007:
+2008:
+$14,000 to $15,000
+$18,000
+$18,000
+$20,000 to $21,000
+[10] The appellant’s estimates of his net income were determined after taking into account a deduction of 25% for business expenses incurred in the course of carrying his paralegal business. No invoices were filed to support the deduction of the business expenses and no documentary evidence was filed to corroborate the estimates of his net income.
+[11] Furthermore, the appellant did not file any documents showing that the assessments made by the Minister were wrong nor did he provide any information concerning the alleged non-capital losses realized in the 2002 and 2009 taxation years.
+Analysis
+[12] The appellant has been assessed for each taxation year under appeal pursuant to subsection 152(7) of the Act which reads as follows:
+(7) the Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable under this Part.
+[13] The assessments made for the taxation years under appeal were not beyond the normal reassessment period, as defined in subsection 152(3.1) of the Act:
+For the purposes of subsections (4), (4.01), (4.2), (4.3), (5) and (9), the normal reassessment period for a taxpayer in respect of a taxation year is
+(a) if at the end of the year the taxpayer is a mutual fund trust or a corporation other than a Canadian-controlled private corporation, the period that ends four years after the earlier of the day of sending of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of sending of an original notification that no tax is payable by the taxpayer for the year; and
+(b) in any other case, the period that ends three years after the earlier of the day of sending of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of sending of an original notification that no tax is payable by the taxpayer for the year.
+[14] All the assessments dated May 13, 2010 were original assessments made under Part I of the Act in respect of the appellant for each taxation year under appeal and were not statute-barred pursuant to subsection 152(4) of the Act as there is no deadline in the Act for issuing an initial assessment.
+[15] At the hearing, the respondent admitted that the information slips issued to the appellant for the 2003 and 2007 taxation years were the only evidence available showing that the appellant earned unreported income for the years under appeal but the respondent did not explain the manner in which the appellant’s income was computed for each taxation year under appeal.
+[16] Considering the fact that the appellant has not demolished the assumptions on which the Minister relied on to determine the appellant’s gross income for the years under appeal and has not produced any prima facie evidence that the assessments made by the Minister were not correct, the Minister was under no obligation to provide information concerning the manner in which the appellant’s income was computed.
+[17] Because of the lack of evidence from the appellant and the absence of records corroborating the claims for business expenses, the Minister’s unrebutted assumptions of the appellant's gross income have to be accepted. (See Hamilton v. The Queen, 2005 D.T.C. 1330).
+[18] The appellant’s own estimates of his net income in respect of each taxation year under appeal clearly established that tax was payable and that he was required to file an income tax return for each taxation year. In the circumstances, the late filing penalties pursuant to subsection 162(1) of the Act were properly assessed.
+[19] For these reasons, the appeals from the assessments dated May 13, 2010 are dismissed and the assessed late filing penalties are confirmed.
+Signed at Ottawa, Canada, this 2nd day of November 2011.
+"Réal Favreau"
+Favreau J.
+CITATION: 2011 TCC 513
+COURT FILE NOS.: 2011-860(IT)I
+2011-955(IT)I
+2011-1591(IT)I
+STYLE OF CAUSE: Michael Ostroff v. Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 7, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: November 2, 2011
+APPEARANCES:
+Agent for the Appellant:
+Bernard Yevzeroff
+Counsel for the Respondent:
+Sharon Lee
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

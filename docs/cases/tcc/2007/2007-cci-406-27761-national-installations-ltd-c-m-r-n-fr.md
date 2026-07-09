@@ -1,0 +1,195 @@
+---
+title: "National Installations Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27761/index.do"
+last_modified: "2007-07-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 406"
+citation2: ""
+neutral_citation: "2007 CCI 406"
+decision_date: "2007-07-17"
+language: "fr"
+item_id: "27761"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 314
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:28:22.065000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5ddda0e8225df968e67f837d9560702f80eb7322b28d46281ce47fa90ebc2f58"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# National Installations Ltd. c. M.R.N.
+
+- Citation: 2007 CCI 406
+- Decision date: 2007-07-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 314, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+National Installations Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-07-17
+Référence neutre
+2007 CCI 406
+Numéro de dossier
+2006-333(EI)
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-333(EI)
+ENTRE :
+NATIONAL INSTALLATIONS LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 5 octobre 2006, à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge A.A. Sarchuk
+Comparutions :
+Représentant de l’appelante :
+Chris Cass
+Avocat de l’intimé :
+Me John Gibb-Carsley
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») est rejeté, et la décision prise par le ministre du Revenu national à la suite d’une demande de révision présentée en vertu de l’article 92 de la Loi est confirmée.
+Signé à Ottawa , Canada, ce 11e jour de juillet 2007.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 21e jour d’août 2007.
+Hélène Tremblay, traductrice
+Référence : 2007CCI406
+Date : 20070711
+Dossier : 2006-333(EI)
+ENTRE :
+NATIONAL INSTALLATIONS LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Sarchuk
+[1] Dans un avis d’évaluation daté du 24 août 2004, le ministre du Revenu national (le « ministre ») a établi une évaluation à l’égard de l’appelante, la société National Installations Ltd., concernant ses cotisations d’assurance‑emploi s’élevant à 5 896,80 $, plus les pénalités et les intérêts applicables pour l’année d’imposition 2003. L’évaluation est fondée sur le fait que l’appelante devait payer les cotisations en application de la Loi sur l’assurance‑emploi[1] (la « Loi ») relativement à des services rendus par Michael Vesterback, Ronald A. Jassmann et Rick Musil (les « travailleurs »). L’appelante a omis de faire les versements exigés au receveur général du Canada se rapportant au salaire des travailleurs.
+Contexte
+[2] Helmut Musil était propriétaire de National Hydronics Ltd. (la société « Hydronics »), une société de portefeuille qui était propriétaire de l’appelante. En juin 2002, M. Musil envisageait de prendre sa retraite et cherchait quelqu’un pour prendre la barre de l’entreprise. Les travailleurs l’ont approché et ont négocié l’achat d’Hydronics. À cette fin, ils ont constitué la société 649902 BC Ltd. Chacun des travailleurs détenait un tiers de la participation dans la société, qui a acheté 100 % des actions d’Hydronics, qui, elle, détenait 100 % des actions de l’appelante.
+[3] La question en litige est de savoir si les contrats de travail existant entre l’appelante et M. Vesterback, M. Jassman et M. Musil font en sorte que les travailleurs occupaient un emploi assurable au sens de la Loi.
+Observations de l’appelante
+[4] L’appelante fait valoir que les trois employés de National Installations Ltd. n’étaient pas liés l’un à l’autre et ne constituaient pas un groupe lié au sens de la Loi de l’impôt sur le revenu. Plus précisément, le représentant de l’appelante souligne que les trois particuliers avaient un lien de dépendance quant à leur contrat de travail avec la société. Il a d’ailleurs fait un renvoi direct à l’alinéa 5(2)i) de la Loi qui est rédigé en ces termes :
+5(2) N’est pas un emploi assurable :
+a) […]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+Dans la Loi de l’impôt sur le revenu, l’alinéa 251(1)c) définit l’expression « lien de dépendance » en ces termes :
+251(1) Pour l’application de la présente loi :
+a) […]
+c) […] la question de savoir si des personnes non liées entre elles n'ont aucun lien de dépendance à un moment donné est une question de fait.
+[5] Dans le même ordre d’idées, le représentant de l’appelante soutient que les éléments clés permettant de trancher la question [traduction] « reviennent à établir s’il existe une même personne qui dirige la transaction des deux côtés – des deux côtés de la transaction ».
+[6] Le représentant de l’appelante soutient que, dans son témoignage, M. Jassman a étayé la distinction entre les travailleurs et les autres employés de l’appelante. Plus précisément, il a indiqué ce qui suit :
+a) À eux trois, lui-même et les deux autres travailleurs détiennent la totalité des actions de la société à dénomination numérique qui est propriétaire de la société de portefeuille, National Hydronics, et par conséquent, contrôlent l’appelante. Les trois travailleurs prennent toutes les décisions concernant les salaires, le choix des projets, l’embauche et le renvoi des autres employés, etc. Leur rendement ne fait pas l’objet d’un suivi et ils ne relèvent de personne d’autre que d’eux‑mêmes.
+b) Pendant toute la période, les travailleurs dictaient les conditions de leur contrat de travail.
+c) Aucun autre employé de l’appelante n’a de contrat comportant d’importantes similitudes avec les contrats qu’ont les travailleurs avec de l’appelante.
+d) Les travailleurs ont libre accès à tout l’équipement de l’appelante et ils peuvent tous utiliser le véhicule de la société à des fins personnelles s’ils en ont besoin.
+e) Leurs primes proviennent directement des revenus gagnés pour l’appelante et ils assument les risques associés à d’éventuelles difficultés financières. Ils doivent différer les salaires si la société a besoin de fonds de roulement supplémentaires. De plus, ils ont fourni des garanties personnelles et ont exposé leurs titres et leurs biens personnels au risque afin de prendre un engagement de cautionnement et d’obtenir tous les prêts bancaires nécessaires pour l’entreprise.
+[7] Le représentant de l’appelante fait valoir que les travailleurs et les administrateurs de l’appelante sont [traduction] « en fait, les mêmes personnes » et que, par conséquent :
+[TRADUCTION]
+« En tant qu’employés, ils ont un intérêt commun issu de la convention entre actionnaires. En tant qu’administrateurs, ils ont un intérêt commun. Il n’existe pas ici de convention contradictoire. Ils partagent tous le même intérêt […] »
+À titre d’exemple, le représentant de l’appelante a cité la méthode utilisée pour effectuer le calcul des primes. Il souligne que, pour ce faire :
+[TRADUCTION]
+« Ils ne tiennent pas compte du rendement. Ils ne regardent pas si quelqu’un a bâclé des travaux ou si un tel a pris deux semaines de congé en Italie. Ils tiennent compte du revenu imposable de la société mère et du plafond des affaires du groupe lié, puis, ils tiennent compte des revenus imposables individuels de la société – ou bien des revenus des particuliers et des taux d’imposition. Que ce soit ou non sous forme de dividende, s’ils devaient payer un dividende, combien d’argent auraient-ils dans leur portefeuille? S’ils versaient une prime, combien auraient-ils dans leur portefeuille? C’est le même portefeuille. »
+[8] En outre, la convention entre actionnaires prévoit que la plupart des décisions concernant l’entreprise doivent faire l’unanimité parmi les travailleurs. Le représentant de l’appelante a souligné que la convention lie les travailleurs, donne lieu à l’existence d’une même personne et établit le contrôle de facto dans les relations avec un lien de dépendance[2]. Par conséquent, les travailleurs et l’appelante sont, en effet, indifférenciables.
+[9] Le représentant de l’appelante souligne les commentaires du juge suppléant Porter dans la décision Crawford & Co. Ltd. v. M.N.R.[3] (lequel renvoie à l’arrêt Swiss Bank Corporation v. M.N.R.[4]) et fait observer que :
+[TRADUCTION]
+« Le paragraphe 29 de la décision Crawford indique que, dans la jurisprudence, on conclut que même si certaines personnes n’ont ordinairement pas de lien de dépendance, elles peuvent avoir un lien de dépendance de temps à autres. »
+Il fait aussi observer ce qui suit :
+[TRADUCTION]
+« Les faits en l’espèce nous permettent de conclure que les trois travailleurs, en raison de la convention entre actionnaires et du fait que leurs décisions doivent être unanimes quant à leurs relations avec la filiale – ou plutôt avec leur employeur, pardon – ont un objectif commun et représentent une même personne. Ils répondent donc à ce critère. Aucune négociation importante n’a lieu entre les travailleurs et l’employeur en ce qui a trait à l’emploi. »
+Observations de l’intimé
+[10] L’intimé soutient que selon les faits qui ont été présentés à la Cour, les travailleurs n’avaient pas de lien de dépendance avec l’appelante.
+[11] L’avocat de l’intimé soutient que l’élément le plus important en l’espèce est l’abondance de personnes morales et de rôles tenus par les travailleurs. M. Jassman a témoigné à titre d’actionnaire de 649902 BC Ltd., société qui détenait 100 % des participations à Hydronics, laquelle société, était propriétaire de l’appelante. M. Jassman était également administrateur et employé, ce qui signifie en fait qu’il tenait trois rôles différents au sein de la société appelante. En outre, l’appelante était une personne morale totalement distincte appartenant aux administrateurs, notamment M. Jassman, et contrôlée par eux. L’avocat de l’intimé souligne qu’il ne faut pas oublier les rôles tenus par les travailleurs ainsi que les divers droits et les diverses obligations y afférents.
+[12] L’avocat de l’intimé a fait état de la façon dont les travailleurs étaient payés par l’appelante et dont les primes leur étaient attribuées. Dans son témoignage, M. Jassman a affirmé que le salaire qu’il a gagné en 2003 était d’environ 74 000 $ et que celui-ci a été déclaré dans un feuillet T4 à la fin de l’année. Par ailleurs, les primes s’élevant à 100 000 $ qui ont été versées à chacun des travailleurs n’ont pas été traitées comme des dividendes ou un revenu d’emploi, mais ont plutôt été déclarées comme un revenu d’entreprise. De surcroît, il est ressorti de la preuve que le montant des primes provenait non seulement des profits réalisés par l’appelante, mais aussi des profits réalisés par National Hydronics et par 649902 BC Ltd.
+[13] Selon l’avocat, la méthode utilisée pour déterminer le salaire des travailleurs était considérablement différente de la méthode utilisée pour attribuer les primes de 100 000 $ à chacun des trois actionnaires en leur qualité d’administrateurs. À titre d’exemple, le témoignage offert indique que M. Musil n’appuyait pas l’idée des primes, mais qu’étant donné que les décisions devaient être unanimes, il a subordonné son intérêt à celui de la personne morale afin que MM. Vesterback et Jassman puissent, eux, recevoir des primes[5]. L’avocat a souligné que dans ce contexte, M. Musil [traduction] « ne pouvait pas exercer sa volonté » et que ceci établissait clairement la nature des trois rôles que tenaient les travailleurs, soit le rôle d’employé, d’actionnaire et d’administrateur.
+[14] En ce qui concerne le fait que l’appelante fonde sa position sur la décision du juge suppléant Porter dans l’affaire Crawford, l’avocat a souligné que, dans cette affaire, le juge de première instance a fait valoir que les trois propriétaires, administrateurs et employés avaient un accès sans restriction à tous les comptes de la société de manière individuelle, quand bon leur semblait. Il y a donc une importante distinction à faire entre la décision Crawford et la présente affaire. Précisément, dans l’affaire Crawford, il n’y avait pas de convention entre actionnaires pour protéger la société de n’importe lequel des trois employés. Par conséquent, ils avaient tous les trois accès aux comptes de l’employeur et au capital de la société, de manière individuelle, quand bon leur semblait, et ils n’avaient pas besoin d’obtenir le consentement des autres.
+[15] Les faits en l’espèce sont considérablement différents car la convention entre actionnaires conclue avec 649902 BC Ltd. comporte une liste des éléments au sujet desquels une décision des administrateurs devait être unanime. La convention comme telle porte le coup fatal aux arguments de l’appelante parce que, comme l’indique l’avocat, cette convention prévoit essentiellement qu’un travailleur ne peut pas exercer un contrôle individuel sur l’entreprise à titre d’employé.
+Conclusion
+[16] La position de l’appelante est fondée sur l’hypothèse selon laquelle, vu que les trois travailleurs étaient obligés d’agir comme une seule et même personne, qu’ils assumaient personnellement les risques financiers et que la convention entre actionnaires créait une relation d’interdépendance, il convenait de conclure que ce qui était fait dans le meilleur intérêt de chaque travailleur était, au même titre, fait dans le meilleur intérêt de l’entreprise et qu’il y avait tout lieu de croire que les parties avaient un lien de dépendance.
+[17] Les deux parties ont fait un renvoi à l’arrêt Peter Cundill and Associates et au critère à trois volets établi dans ce dernier, soit : l’existence d’une même personne qui dirige les négociations de deux parties à une transaction; le fait que les parties à une transaction agissent de concert et n’ont pas d’intérêts distincts; le contrôle de facto. Ce critère a été adopté et utilisé comme il se doit dans un grand nombre de causes. Il a d’ailleurs été confirmé par le juge Miller dans la décision Terra Remote Sensing Inc. c. La Reine[6] :
+« Il est important de souligner que ces critères doivent être appliqués aux transactions que les particuliers appelants ont conclues avec la société appelante en tant que ses employés, et non en tant que ses actionnaires. »
+[18] Le témoignage de M. Jassman a permis d’établir que l’appelante était une entrepreneure générale fournissant :
+[TRADUCTION]
+« […] toute la gamme de services. Comme dans le cas d’un gratte‑ciel, par exemple. Nous faisons la plomberie, le système mécanique, le système de CVCA, le système d’extincteurs automatiques à l’eau. Nous sommes, en fait, les entrepreneurs mécaniques du projet. »
+Selon ce même témoignage, les responsabilités de M. Jassman en tant qu’employé étaient :
+[TRADUCTION]
+« […] surveiller les activités quotidiennes et la main d’œuvre sur les chantiers. Je me promène souvent d’un chantier à l’autre pour vérifier que tout est en place, que les matériaux sont là, que les commandes sont respectées. Je m’occupe aussi de ce qui a trait aux services. Je vais voir différents entrepreneurs de services avec lesquels nous faisons affaire et je réponds à leurs besoins. »
+[19] Dans son témoignage, M. Jassman a également affirmé qu’avant que les travailleurs ne fassent l’acquisition de l’appelante, lui‑même et M. Musil étaient :
+[TRADUCTION]
+« […] membres du syndicat et payés selon un taux horaire particulier, selon les travaux effectués sur chaque chantier. C’était aussi le cas pour Mike Vesterback, un des estimateurs. Il était un employé horaire et travaillait dans un bureau à préparer des devis, à coordonner les projets et l’approvisionnement. Son salaire avait été établi par l’ancien propriétaire et était comparable à notre taux de salaire, étant donné qu’il n’avait pas un emploi ouvrant droit à pension auprès du syndicat. »
+[20] M. Jassman a expliqué qu’après avoir acheté l’appelante, les travailleurs auraient pu s’attribuer le salaire qu’ils jugeaient approprié à titre d’employés, mais qu’ils avaient à dessein conservé leurs salaires au taux prévu par le syndicat afin de rester dans l’organisation syndicale et ainsi conserver leur accès à son régime de pension qui, comme l’a souligné le représentant, était [traduction] « probablement assez bien ». M. Jassman a aussi indiqué que M. Vesterback n’était pas membre du syndicat. Les travailleurs avaient donc, à titre d’administrateurs de la société, décidé de payer ce dernier 4 $ de plus l’heure pour l’indemniser parce qu’il n’était pas admissible au régime de pension du syndicat.
+[21] M. Jassman a également fait observer qu’ils étaient tenus de verser le taux de salaire prévu par le syndicat parce que, tant avant qu’après l’acquisition de l’appelante, les travailleurs tenaient un registre de leurs heures normales et supplémentaires, comme le faisaient les autres employés de l’appelante qui étaient membres du syndicat. Ceci était nécessaire parce que les heures des travailleurs étaient imputées de façon précise à chaque contrat afin de produire une [traduction] « répartition des frais hebdomadaires de travaux » pour l’employeur.
+[22] Compte tenu de ce qui précède, il est nécessaire d’établir la distinction entre le rôle que jouaient les travailleurs à titre d’actionnaires et d’administrateurs de l’appelante et les tâches qu’ils effectuaient à titre d’employés auprès de celle‑ci. C’est une règle de droit bien connue : si un employé d’une société est également actionnaire de cette même société, il est tout de même possible de conclure que l’employé/actionnaire en question exerce un emploi assurable, étant donné que la société et ses actionnaires sont des personnes morales distinctes. Comme il a été souligné dans la décision Doyle c. Canada,[7] la question qui importe est de connaître la nature de la relation qui existait entre l’appelante et les travailleurs.
+[23] Dans ce contexte, il est important de tenir dûment compte du témoignage de M. Jassman. Surtout en ce qui a trait à la nature des deux rôles qu’il tenait auprès de la société. Il a affirmé qu’en sa qualité d’employé gestionnaire des activités quotidiennes, il était chargé de superviser la façon dont le projet était mené pour les entrepreneurs et le travail effectué par le contremaître et les autres employés. En outre, si, dans un des projets qu’il supervisait, des matériaux supplémentaires étaient nécessaires, à titre de gestionnaire des activités quotidiennes, il pouvait prendre les décisions concernant l’achat et la fourniture de ces matériaux. Toutefois, dans un cas semblable, il a affirmé avoir une limite d’achat de 1 000 $. Si un achat plus important devait être fait, il était tenu de respecter la convention entre actionnaires[8]. Bien que ce qui précède décrive ses tâches quotidiennes, il a souligné ce qui suit :
+[TRADUCTION]
+« Dans le cas de décisions d’importance majeure, comme la décision d’accepter la soumission de [la société] Centreville Projects ou bien celle de [la société] Concord Pacific, il s’agit‑là d’une décision de groupe. Nous nous assoyons et nous nous demandons si nous allons de l’avant, si nous faisons le grand saut. »
+Comme l’a souligné l’avocat de l’intimé, ceci établit une importante distinction entre M. Jassman, en sa qualité de « travailleur » superviseur de projet, et M. Jassman, en sa qualité d’administrateur et d’actionnaire parmi trois autres qui, dans le cas de décisions importantes, devaient s’entendre à l’unanimité.
+[24] L’appelante n’a pas reconnu que M. Jassman, en ses deux qualités, soit celle d’employé et celle d’employeur et âme dirigeante de la décision unanime prise par les trois travailleurs, n’était pas une même personne. De plus, l’argumentation de l’appelante est venue brouiller le deuxième volet du critère, soit celui voulant que « les parties à une transaction agissent de concert », avec l’exigence de la prise de décisions unanimes, et n’a pas réussi à établir correctement les limites entre les différents rôles des parties dans les transactions. Je tiens aussi à souligner que les tâches et les pouvoirs précis d’un travailleur particulier dans son rôle d’employé ne correspondent pas à un contrôle de facto. Ceci ressort particulièrement du témoignage de M. Jassman, qui a indiqué qu’aucune décision importante ne pouvait être prise par un seul employé. À mon avis, l’appelante n’a pas compris le concept de la personnalité juridique distincte d’une société par rapport à ses actionnaires. Elle n’a pas non plus reconnu que les travailleurs devaient faire l’objet d’évaluations individuelles et non de groupe lorsqu’on les examine pour leurs rôles juridiques séparés à titre d’employés.
+[25] Il ressort clairement de la preuve que la convention entre actionnaires a servi exactement son objectif premier, soit d’empêcher que l’appelante ait un lien de dépendance avec l’un ou l’autre des travailleurs, à titre individuel. En l’espèce, il est évident qu’un contrat de louage de service avait été conclu entre l’appelante et les trois travailleurs, rendant ces derniers assujettis au contrôle de la société, donc, des employés de l’appelante.
+[26] La formulation « [n’avoir] aucun lien de dépendance » demande une analyse de la façon dont les parties à une transaction se conduisent au moment d’effectuer la transaction. Il faut examiner si les parties se sont conduites comme on s’attendrait à ce que des parties n’ayant aucun lien de dépendance se conduisent lorsqu’elles gèrent leurs affaires. Je conclus que le ministre avait raison de considérer l’appelante comme étant le payeur et les particuliers comme étant des travailleurs, et de ne pas accepter d’établir une évaluation pour les trois collectivement à titre d’administrateurs et d’actionnaires, mais plutôt d’établir une évaluation individuelle pour chacun d’entre eux, à titre de travailleurs.
+[27] L’appel est rejeté et la décision du ministre est confirmée.
+Signé à Ottawa, Canada, ce 11e jour de juillet 2007.
+« A.A. Sarchuk »
+Juge suppléant Sarchuk
+Traduction certifiée conforme
+ce 21e jour d’août 2007.
+Hélène Tremblay, traductrice.
+RÉFÉRENCE : 2007CCI406
+N° DE DOSSIER : 2006-333(EI)
+INTITULÉ : NATIONAL INSTALLATIONS LTD. et MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 5 octobre 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge A.A. Sarchuk
+DATE DU JUGEMENT : Le 11 juillet 2007
+COMPARUTIONS :
+Représentant de l’appelante :
+Chris Cass
+Avocat de l’intimé :
+Me John Gibb-Carsley
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.C. (1996), ch. 23.
+[2] Pièce A-2.
+[3] 91 DTC 5543, paragraphes 29 et 30. Les renvois faits par le représentant de l’appelante : M.N.R. v. Sheldon’s Engineering Ltd., William J. McNichol et al v. The Queen, 97 DTC 111, et Peter Cundill & Associates v. The Queen, [1991] 1 C.T.C. 197.
+[4] 72 DTC 6470 (CSC).
+[5] Voir pièce A-2, section 2,6 et annexe B, paragraphes h), i) et j).
+[6] 2006 CCI 279.
+[7] [1990] A.C.F. n° 210.
+[8] Pièce A-2, section 2.6., annexe Bd)(ii) – [traduction] – consentement unanime des actionnaires.

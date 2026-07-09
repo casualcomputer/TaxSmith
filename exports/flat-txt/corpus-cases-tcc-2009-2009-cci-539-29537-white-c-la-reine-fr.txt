@@ -1,0 +1,160 @@
+Title: White c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29537/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-539-29537-white-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-11-09
+
+# White c. La Reine
+
+- Citation: 2009 CCI 539
+- Decision date: 2009-11-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6355, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+White c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-11-09
+Référence neutre
+2009 CCI 539
+Numéro de dossier
+2007-1561(IT)G, 2007-1665(GST)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2007-1561(IT)G
+2007-1665(GST)G
+ENTRE :
+DAVID WHITE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue le 11 septembre 2009, à Toronto (Ontario)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Shatru Ghan
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’appelant en vue d’obtenir une ordonnance en application de l’alinéa 91c) des Règles de la Cour canadienne de l’impôt (procédure générale) par laquelle la Cour accueillerait les appels et annulerait les cotisations.
+Vu les pièces déposées en preuve.
+Vu les observations présentées par l’appelant et l’avocat de l’intimée.
+La Cour ordonne que la requête de l’appelant soit rejetée, sans dépens.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2009.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 31e jour de mars 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 539
+Date : 20091109
+Dossiers : 2007-1561(IT)G
+2007-1665(GST)G
+ENTRE :
+DAVID WHITE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DE L’ORDONNANCE
+Le juge Paris
+[1] En l’espèce, l’appelant cherche à obtenir une ordonnance par laquelle la Cour accueillerait ses appels et annulerait les cotisations relatives à l’impôt sur le revenu et sur la taxe sur les produits et services (la « TPS ») qui sont en cause. L’appelant a fondé sa requête sur les arguments suivants : (1) l’intimée a omis ou refusé de lui communiquer tous les documents pertinents, contrevenant ainsi à l’ordonnance rendue par la Cour le 21 janvier 2009, (2) les agents de l’Agence du revenu du Canada (l’« ARC ») ont détruit des documents qui étaient pertinents aux appels de l’appelant.
+[2] Dans son avis de requête, l’appelant soutient que l’intimée lui a causé un grave préjudice en refusant systématiquement de lui communiquer les documents pertinents et en détruisant certains documents. L’appelant affirme que la conduite de l’intimée et de ses agents contrevient aux principes de la justice naturelle et viole son droit à l’équité procédurale.
+[3] En vertu de l’article 227.1 de la Loi de l’impôt sur le revenu et du paragraphe 323(1) de la Loi sur la taxe d’accise, des cotisations ont été établies à l’égard de l’appelant – en sa qualité d’administrateur de deux sociétés (Norcoat Powder Coating Ltd. et Norcoat Powder Barrie Ltd., les « sociétés ») – relativement à des retenues à la source faites au titre de l’impôt sur le revenu que les deux sociétés avaient omis de verser. Les dettes des sociétés relativement auxquelles les cotisations ont été établies à l’égard de l’appelant s’étaient accumulées entre 1992 et 2002. Les deux sociétés ont cessé leurs activités en 2002, et l’appelant a été incapable d’obtenir des renseignements au sujet de leurs dettes fiscales parce que leurs livres et registres ont été égarés, perdus ou détruits depuis la fin de leurs activités.
+[4] Par conséquent, l’appelant a sans cesse cherché à obtenir des copies de la correspondance entre l’intimée et les sociétés pendant la période où l’arriéré s’était accumulé. Avant que l’appelant ait présenté ses appels, l’ARC a rejeté ces demandes, puis l’avocat de l’intimée a dit à l’appelant de présenter une demande de renseignements en vertu de la Loi sur l’accès à l’information. Lors d’une audience sur le statut de l’instance, tenue le 20 février 2008, la Cour a ordonné à l’intimée de communiquer à l’appelant tous les documents qu’il demandait. Depuis, l’intimée a produit une liste de documents, une liste de documents supplémentaire, et une deuxième et une troisième listes de documents supplémentaires.
+[5] Selon la déclaration sous serment de l’appelant, l’interrogatoire de l’agente de l’intimée, Patricia Neville, mené le 14 décembre 2008 lui a permis de conclure que :
+[traduction]
+‑ La production de documents faite par l’intimée n’avait pas été complète et certains documents manquaient.
+‑ Les recueils de documents établis par l’intimée ne concordaient pas et n’étaient pas identiques.
+‑ Les recueils de documents établis par l’intimée n’étaient pas paginés et leurs pages n’avaient pas été mises en ordre, ce qui a rendu impossible l’interrogatoire efficace de Patricia Neville.
+[6] Il semble que lors d’une autre audience sur l’état de l’instance, tenue le 21 janvier 2009, l’appelant a avisé la Cour du fait que l’intimée n’avait toujours par communiqué intégralement les documents exigés. La Cour a alors ordonné à l’intimée de [traduction] « communiquer sous une forme organisée la totalité des notes de dossier, de la correspondance, des notes de service, des documents, des entrées d’agenda et des courriels relatifs à la présente affaire ». Même si les éléments de preuve présentés ne me permettent pas d’en être certain, il semble que l’intimée ait communiqué d’autres documents à l’appelant après que l’ordonnance en question a été rendue.
+[7] Toutefois, lorsqu’elle a de nouveau été interrogée en mai 2009, il semble que Mme Neville ait dit qu’aucune recherche de documents pertinents n’avait été faite dans trois bureaux de l’ARC où auraient pu être conservés des documents pertinents.
+[8] À la lumière des renseignements qu’il avait obtenus en interrogeant Mme Neville, l’appelant a déposé la présente requête. Deux jours avant l’audition de la requête, l’intimée a produit une déclaration sous serment faite par Mme Neville, dans laquelle cette dernière affirmait avoir examiné les dossiers physiques et informatiques de l’ARC et avoir posé des questions à tous les autres agents de l’ARC – du moins, ceux qui y travaillaient encore – qui auraient pu avoir connaissance de documents pertinents. Au paragraphe 3 de sa déclaration sous serment, Mme Neville a fait l’affirmation suivante :
+[traduction]
+Après avoir mené une enquête, je crois sincèrement avoir trouvé tous les documents pertinents dont l’ARC a possession.
+Cet élément de preuve semble venir corriger les réponses données par Mme Neville pendant son interrogatoire, à savoir qu’il n’était pas impossible que des documents manquants se trouvent dans d’autres bureaux de l’ARC que le sien.
+[9] L’appelant n’a pas cherché à contre-interroger Mme Neville au sujet de sa déclaration sous serment et il n’a pas remis en cause son témoignage voulant qu’elle eût fait des efforts pour trouver tous les documents pertinents. J’admets donc le témoignage de Mme Neville à cet égard. Par conséquent, je conclus que l’appelant n’a pas su démontrer que l’intimée ne s’était pas conformée à l’ordonnance de la Cour qui exigeait la communication de tous les documents pertinents. Cependant, je tiens à ajouter qu’il est fort regrettable que l’intimée ait tant tardé à communiquer les documents à l’appelant, et l’appelant a raison de dire qu’il s’agit d’un facteur dont la Cour devra tenir compte quand viendra le temps d’adjuger les dépens.
+[10] Le deuxième volet de la requête de l’appelant porte sur la destruction de documents qui, à un moment donné, avaient fait partie du dossier de recouvrement de l’ARC. Les documents en question étaient la correspondance envoyée à l’ARC par l’autre administrateur des sociétés au sujet des retenues à la source et de la TPS non versées. L’appelant affirme que Mme Neville a fourni les renseignements suivants lors de son interrogatoire du 18 décembre 2008 :
+[traduction]
+- L’ARC n’avait aucune politique officielle de conservation des documents.
+- Au hasard, des documents ont été retirés du dossier et détruits par des agents de l’ARC, lesquels agissaient selon leur discrétion et n’étaient liés par aucune politique, directive ou procédure officielles.
+- L’ARC n’a pas fourni d’instructions, de formation ou de manuel de procédures à ses employés et à ses agents relativement à l’utilisation de journaux électroniques et au retrait et à la destruction de documents.
+- Chaque agent de l’ARC pouvait retirer ou détruire des documents à sa guise.
+- Plusieurs documents avaient été retirés du dossier relatif aux sociétés, et il faut donc présumer que ces documents ont été retirés puis détruits.
+- Une grande partie de la correspondance entre l’ARC et les sociétés a été détruite.
+[11] L’appelant prétend qu’en détruisant ces documents, l’intimée a violé les principes de justice naturelle et a gravement nui à la capacité de l’appelant de répondre à la cotisation établie à son égard relativement à la responsabilité des administrateurs. L’appelant soutient que, compte tenu de la nature particulière des cotisations relatives à la responsabilité des administrateurs, l’intimée avait le devoir de [traduction] « protéger le dossier », et qu’en tant que tiers touché par les cotisations établies à l’égard des sociétés, il a besoin de la protection des principes de justice naturelle. Selon l’appelant, l’intimée fait preuve de négligence en ne se dotant pas d’une politique de conservation des documents qui garantirait la préservation intégrale des dossiers relatifs aux cotisations dérivées. L’appelant a dit que, comme l’intimée n’a pas adopté de politique satisfaisante en matière de conservation des documents, la destruction aléatoire et mal encadrée des documents en cause équivaut à une conduite intentionnelle, laquelle était tellement grave qu’il faut accueillir les appels.
+[12] L’appelant soutient que l’équité procédurale exige que l’intimée lui fournisse un dossier complet de la correspondance qui a eu cours entre l’ARC et l’autre administrateur des sociétés pendant la période où l’arriéré de retenues à la source et de TPS s’est accumulé. Comme l’intimée est incapable de le faire, l’appelant affirme qu’il subit un préjudice irréparable dans la présentation de ses appels, et que ceux‑ci doivent donc être accueillis.
+[13] L’appelant a invoqué la décision rendue par la Cour d’appel fédérale dans Alliance for Life c. Le ministre du Revenu national[1] à l’appui de sa position voulant qu’aux fins des présents appels, l’équité procédurale exige que l’intimée lui fournisse un dossier complet de la correspondance. La décision rendue dans Alliance for Life portait sur un appel de la décision du ministre du Revenu national (le « ministre ») de révoquer l’enregistrement de l’Alliance comme organisme de bienfaisance. Dans cette affaire‑là, pour contester la décision du ministre, l’appelante s’était notamment fondée sur l’argument selon lequel, dans la prise de décision, son droit à l’équité procédurale avait été violé parce que le ministre n’avait pas divulgué toute la preuve sur laquelle il s’était fondé et parce qu’il ne lui avait pas donné une possibilité équitable de répondre.
+[14] Bien que la Cour d’appel fédérale ait rejeté les arguments de l’appelante dans Alliance for life, elle a néanmoins observé, de façon incidente, que l’on ne pouvait pas remédier aux violations de l’équité procédurale commises par le ministre au moyen du processus d’appel existant. La Cour d’appel fédérale a cité sa décision antérieure dans Renaissance International c. Le ministre du Revenu national[2], où le juge Pratte s’était ainsi exprimé au paragraphe 9 :
+[9] […] Je conclus, par conséquent, que l’appel visé au paragraphe 172(3) constitue ce que j’appellerais un appel ordinaire, que le tribunal tranche habituellement à la lumière du dossier constitué par le tribunal de première instance. Il s’ensuit, à mon avis, que le processus préalable à la décision du ministre d’envoyer un avis d’annulation en vertu du paragraphe 168(1) doit lui permettre de constituer un dossier suffisamment complet pour que cette Cour puisse l’utiliser en statuant sur l’appel. Ceci présuppose, à mon avis, que le ministre doit suivre une procédure qui lui permet de constituer un dossier reflétant non seulement son point de vue, mais également celui de l’organisme concerné.
+[15] Cependant, je suis d’avis que cet arrêt n’est pas applicable à la présente affaire parce que les appels en cause seront tranchés après la tenue d’une audience en bon et due forme, pendant laquelle l’appelant pourra présenter des éléments de preuve et des arguments. L’exigence établie dans Alliance for Life et dans Renaissance International – à savoir que le ministre doit fournir un dossier suffisamment complet – a été créée parce que, dans ces affaires, le dossier était le seul élément sur lequel l’appel allait être tranché. Le juge Pratte avait souligné cette différence de la façon suivante, au paragraphe 9 de Renaissance International :
+[9] […] Dans le présent cas, cependant, le droit d’appel conféré par le paragraphe 172(3) permet d’interjeter appel devant un tribunal qui, on le sait, tranche ordinairement les appels à la lumière du dossier constitué devant la cour de première instance et n’accepte de compléter la preuve que pour des « raisons spéciales » (voir la Règle 1102(1) [des Règles de la Cour fédérale]). En outre, si on compare les dispositions de la Loi de l’impôt sur le revenu applicables à cet appel avec l’article 175 qui régit les appels formés devant la Division de première instance, il est manifeste que l’appel formé devant cette Cour n’était pas censé être un appel de novo comme l’appel interjeté devant la Division de première instance. […]
+[16] En l’espèce, je ne suis pas convaincu que l’intimée était tenue de fournir à l’appelant le dossier complet de la correspondance qu’il exigeait. À mon avis, le devoir d’équité de l’intimée exigeait seulement qu’elle communique à l’appelant les documents qu’elle avait encore en mains.
+[17] La destruction de documents par l’intimée soulève la question de savoir si elle a commis le délit de destruction d’éléments de preuve. Il y a destruction d’éléments de preuve lorsque :
+[traduction]
+[18] […] une partie détruit intentionnellement un élément de preuve pertinent à un litige, en cours ou envisagé, dans des circonstances où il est raisonnable de croire que cette destruction visait à avoir une incidence sur le litige en question. Une fois cela démontré, il naît une présomption selon laquelle l’élément de preuve détruit aurait nui à la cause de la partie qui l’a détruit. Toutefois, le prétendu destructeur peut réfuter cette présomption en présentant d’autres éléments de preuve pour démontrer que sa conduite, bien qu’intentionnelle, ne visait pas à avoir une incidence sur le litige, ou encore que sa cause est bien fondée ou que celle de son adversaire ne l’est pas[3].
+[18] En l’espèce, l’appelant n’a présenté aucun élément de preuve permettant de penser que l’intimée avait intentionnellement détruit les documents en cause. Il n’a pas non plus su démontrer que les documents détruits avaient trait à l’une des questions en litige dans ses appels. Dans sa déclaration sous serment, l’appelant a affirmé que les documents détruits auraient probablement permis d’expliquer comment les sociétés avaient réussi à convaincre l’intimée de les laisser accumuler des arriérés pendant une dizaine d’années, et que les documents lui auraient été utiles pour établir sa défense fondée sur la diligence raisonnable. L’appelant n’a pas expliqué le fondement de ces affirmations‑là. L’absence d’éléments de preuve portant sur la nature et la teneur des documents détruits me donne l’impression que l’appelant n’a fait qu’avancer des hypothèses quant à leur pertinence. De plus, si l’appelant a été trompé par les sociétés au sujet de l’existence des arriérés, c’est l’appelant lui‑même qui sera le mieux placé pour témoigner de ce que les sociétés lui avaient dit à cet égard.
+[19] Finalement, comme le moment où les documents ont été détruits n’a pas été mis en preuve, il est impossible de savoir si ces documents ont été détruits après que l’appelant a envisagé d’interjeter appel.
+[20] Par conséquent, compte tenu des pièces qui m’ont été présentées, je ne suis pas convaincu que l’intimée a commis le délit de destruction d’éléments de preuve.
+[21] À ce stade‑ci, il est peut-être utile de répéter la conclusion de la Cour d’appel de l’Alberta dans McDougall, à savoir que la question du délit de destruction d’éléments de preuve doit être considérée en même temps que le fond de l’affaire. Aux paragraphes 27 et 28 de McDougall, la Cour d’appel de l’Alberta s’est prononcée de la sorte :
+[traduction]
+[27] […] Cependant, les tribunaux canadiens s’entendent sur un point. Comme l’existence du délit de destruction d’éléments de preuve est principalement une question de fait, et comme les mesures de redressement visant à le réparer dépendent du préjudice subi – là encore une question de fait –, il est préférable de laisser le juge du procès trancher ces questions. Ainsi, il sera rare que la question soit tranchée avant le procès. Le raisonnement sous‑jacent a été expliqué par le juge Clarke dans North American Road Ltd. v. Hitachi Construction Machinery Co., 2005 ABQB 847. Dans cette affaire, le juge Clarke devait se prononcer sur une requête préalable au procès par laquelle une partie demandait à avoir accès à des documents confidentiels pour remédier à la destruction d’éléments de preuve. Le juge Clarke a rejeté cette requête en concluant de la sorte aux paragraphes 21 et 22 :
+[traduction]
+[21] Je suis convaincu que le moment n’est pas opportun pour trancher la question de la destruction d’éléments de preuve. […] Il est préférable de traiter cette question au procès, où le juge du procès peut soupeser l’ensemble des éléments de preuve. De plus, les documents confidentiels de l’intimée ne sont pas la seule source d’éléments de preuve dont la requérante dispose pour préparer sa défense. […] En outre, la requérante pourra profiter du processus d’interrogatoire préalable et de la production de rapports d’experts pour mieux comprendre ce sur quoi les experts ont fondé leurs avis.
+[22] À cette étape, la nature et les conséquences possibles de la preuve d’expert que présentera l’intimée sont inconnues. Au procès, le juge sera capable d’évaluer l’existence et l’étendue du préjudice causé à la requérante par la destruction des éléments de preuve par l’intimée. Par conséquent, le juge du procès sera le mieux placé pour décider s’il est opportun de remédier à la destruction d’éléments de preuve, et, le cas échéant, quelles mesures sont appropriées compte tenu des circonstances de l’affaire.
+[28] D’autres tribunaux sont arrivés à des conclusions similaires (voir Telenga v. Raymond European Car Services Ltd. (Div. gén. Ont.); Cheung (Litigation Guardian of) v. Toyota Canada Inc. (C.S. Ont.); et Douglas v. Inglis Ltd. (C.S. Ont.)), mais il est vrai que les deux dernières décisions, le tribunal a reconnu que, dans certaines circonstances particulièrement graves, il peut être opportun de remédier à la destruction d’éléments de preuve avant le procès avec des mesures pouvant aller jusqu’au rejet pur et simple de la demande. À ce sujet, je tiens à souligner l’importance de ne pas étendre les mesures de redressement possibles avant le procès au‑delà de ce qui est déjà prévu aux règles de procédure de la Cour. Tous les litiges ne sont pas égaux. Par exemple, il arrive souvent que les lieux d’un accident soient nettoyés avant l’arrivée des experts ou après qu’un seul expert ait pu étudier les lieux de l’accident. Les règles de pratique ont été conçues pour garantir que le processus préalable au procès soit équitable. En général, les règles permettent de régler les questions soulevées avant le procès. Il ne faut donc pas favoriser la tenue de requêtes complètes préalables au procès, qui comprendraient des témoignages de vive voix, visant à découvrir si des éléments de preuve ont intentionnellement été détruits. Il s’agit d’une question qu’il est préférable de trancher à l’audience.
+[22] Pour les motifs exposés ci‑dessus, la requête de l’appelant est rejetée. Néanmoins, l’intimée n’aura pas droit aux dépens relativement à cette requête. Compte tenu de la production tardive de la déclaration sous serment de Mme Neville et de la difficulté que l’appelant a eue à obtenir la communication complète des documents détenus par l’intimée, cette dernière n’aura pas droit aux dépens.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2009.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 31e jour de mars 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 539
+Nos DES DOSSIERS DE LA COUR :
+2007-1561(IT)G
+2007-1665(GST)G
+INTITULÉ :
+David White c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 11 septembre 2009
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Brent Paris
+DATE DE L’ORDONNANCE :
+Le 9 novembre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Shatru Ghan
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1993] 3 C.F. 504.
+[2] [1983] 1 C.F. 860.
+[3] McDougall v. Black and Decker Canada Inc., 2008 ABCA 353.

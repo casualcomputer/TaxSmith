@@ -1,0 +1,374 @@
+---
+title: "Immunovaccine Technologies Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31136/index.do"
+last_modified: "2013-04-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 103"
+citation2: ""
+neutral_citation: "2013 TCC 103"
+decision_date: "2013-04-10"
+language: "en"
+item_id: "31136"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4784
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:12:15.976000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "19e004245722abb435704a8fe1cc6cef3d0d88fadd51bb3ff044167f07448048"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Immunovaccine Technologies Inc. v. The Queen
+
+- Citation: 2013 TCC 103
+- Decision date: 2013-04-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4784, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Immunovaccine Technologies Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-04-10
+Neutral citation
+2013 TCC 103
+File numbers
+2011-245(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-245(IT)G
+BETWEEN:
+IMMUNOVACCINE TECHNOLOGIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 29 and 30, 2012, at Halifax, Nova Scotia.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Bruce S. Russell, Q.C.
+Counsel for the Respondent:
+Daniel Bourgeois
+Frédéric Morand
+____________________________________________________________________
+JUDGMENT
+The appeals from the determinations made by the Minister of National Revenue (Minister), pursuant to paragraph 152(1)(b) of the Income Tax Act (ITA), as to the appellant’s entitlement to refundable investment tax credits (RITCs) for each of the 2005, 2006, 2007 and 2008 taxation years, pursuant to subsection 127.1(1) of the ITA, are dismissed.
+The said determinations dated March 14, 2008 for the 2005 and 2006 taxation years and July 15, 2009 for the 2007 and 2008 taxation years, in which the Minister determined the appellant’s entitlement to RITCs on the basis that contributions received from the Atlantic Canada Opportunities Agency were “government assistance” within the meaning of subsection 127(9) of the ITA, are confirmed, with costs to the respondent.
+Signed at Ottawa, Canada, this 10th day of April 2013.
+“Lucie Lamarre”
+Lamarre J.
+Citation: 2013 TCC 103
+Date: 20130410
+Docket: 2011-245(IT)G
+BETWEEN:
+IMMUNOVACCINE TECHNOLOGIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] These are appeals from determinations made by the Minister of National Revenue (Minister) pursuant to paragraph 152(1)(b) of the Income Tax Act (ITA) as to the appellant’s entitlement to refundable investment tax credits (RITCs) for each of the taxation years ended March 31, 2005 through 2008. The Minister denied the scientific research and experimental development (SRED) claims and related RITCs for those taxation years pursuant to subsection 127.1(1) of the ITA on the basis that contributions made to the appellant by the Atlantic Canada Opportunities Agency (ACOA), an agency of the Government of Canada, under an agreement dated December 31, 2004 (Agreement) (see Exhibit R-1, Tab 2) constituted “government assistance” as defined in subsection 127(9) of the ITA. An amount received as government assistance reduces the amount of expenditure eligible for the RITCs (as per subsection 127(11.1) of the ITA).
+[2] “Government assistance” is defined as follows in subsection 127(9):
+127(9)
+“government assistance” — “government assistance” means assistance from a government, municipality or other public authority whether as a grant, subsidy, forgivable loan, deduction from tax, investment allowance or as any other form of assistance other than as a deduction under subsection 127(5) or 127(6).
+[3] The position of the appellant is that the contribution from ACOA does not constitute “government assistance” but rather was an ordinary loan advanced on reasonable terms and for the business purposes of ACOA. Thus the appellant should be entitled to claim its SRED expenses and to receive the related RITCs for the years at issue.
+Issue
+[4] The issue is whether the amounts of $917,731, $692,806, $1,504,137 and $724,931 received by the appellant from ACOA during the 2005, 2006, 2007 and 2008 taxation years were “government assistance” as defined in subsection 127(9) of the ITA.
+Admissions
+[5] The appellant was incorporated in March 2000 as a research and development company to develop projects for the creation of vaccine technology. ACOA provided a contribution to the appellant of $3,786,474, spread over four years (2005 through 2008), in respect of costs incurred to complete such projects.
+[6] The parties further admitted the facts referred to in the Appellant’s Response to Request to Admit and set out in the Respondent’s Request to Admit both of which were filed at the hearing. Those facts are as follows:
+1. As of the year 2004, the appellant had not begun to commercialize products.
+2. The appellant’s gross income and net losses for the years 2002 to 2004 were as follows:
+Year Gross Income Net Loss
+2002 $5,030 ($564,478)
+2003 $21,078 ($1,094,063)
+2004 $25,542 (1,016,327)
+3. As of March 31, 2004, the appellant had current assets of $240,150 and capital assets of $58,867.
+4. From the years 2000 to 2011, the sources of gross income of the appellant were as follows:
+Year Source of gross income
+2000 Nil
+2001 Unknown
+2002 Unknown
+2003 Cost recovery
+2004 Cost recovery
+2005 Nil
+2006 Nil
+2007 Nil
+2008 Pfizer license signing fee
+2009 Pfizer license signing fee
+2010 Pfizer license signing fee
+2011 Nil
+5. The appellant made repayments under the agreement with ACOA dated December 31, 2004, as follows:
+Year Amount of repayment
+2008 $4, 896.30
+2009 $2,116.60
+2010 $28,408.24
+2011 $1,552.10
+6. The Appellant made claims and received funding under the agreement with ACOA dated December 31, 2004, in accordance with the details set out in the chart found at tab 52, volume 3, of the appellant’s answers to undertakings.
+[The chart was filed as Exhibit R-1, Tab 1]
+Facts disclosed at the hearing
+[7] The agreement reached between ACOA and the appellant on December 31, 2004, was filed as Exhibit R-1, Tab 2, and is reproduced hereunder:
+Atlantic Innovation Fund
+Contract Number: 181989
+This Agreement made
+Between: Atlantic Canada Opportunities Agency
+(hereinafter referred to as “ACOA”)
+AND: IMMUNOVACCINE TECHNOLOGIES INC.,
+a corporation duly incorporated under the laws of Nova Scotia,
+having its head office located at 1819 Granville Street, Suite 303,
+Halifax, Nova Scotia B3J 3R1
+(hereinafter referred to as “the Proponent”)
+WHEREAS ACOA has established a program, the Atlantic Innovation Fund (AIF), to strengthen the economy of Atlantic Canada by supporting the development of knowledge-based industry. The AIF will help increase the region’s capacity to carry out leading-edge research and development that directly contributes to the development of new technology-based economic activity in Atlantic Canada; and
+WHEREAS the Proponent submitted a project proposal in response to ACOA’s Request for Project Proposals, dated August 23, 2002.
+IN CONSIDERATION of their respective obligations set out below, the parties hereto agree as follows.
+Article 1 – Deadline for Receipt of Signed Agreement
+1.1 This Agreement must be signed by the Proponent and received by ACOA on or before December 31, 2004, failing which it will be null and void.
+Article 2 – Documents Forming Part of this Agreement
+2.1 The following documents form an integral part of this Agreement:
+These Articles of Agreement
+Schedule 1 – General Conditions
+Schedule 2 – Statement of Work
+Schedule 3 – Claims and AIF Project Cost Principles
+Schedule 4 – Commercialization
+Schedule 5 – Reporting Requirements
+Schedule 6 – Project Fact Sheet for News Release
+Schedule 7 – Special Purpose Equipment
+Schedule 8 – Pre-Authorized Repayment/Direct Deposit Authorization
+2.2 In the event of conflict or inconsistency, the order of precedence amongst the documents forming part of this Agreement shall be:
+These Articles of Agreement
+Schedule 1 – General Conditions
+Schedule 2 – Statement of Work
+Other Schedules
+Article 3 – The Proponent’s Obligations
+3.1 The Proponent will carry out the New Peptide-based Vaccines Project (“the Project”) as described in Schedule 2, Statement of Work, will make claims in accordance with Schedule 3, will commercialize as mentioned in Schedule 4, will issue the reports required under Schedule 5 and will fulfill all of its other obligations hereunder, in a diligent and professional manner using qualified personnel.
+3.2 The Proponent shall ensure that the Project is completed on or before September 30, 2007 (“Project Completion Date”), unless otherwise agreed to in writing by ACOA.
+3.3 In the event the carrying out of the Project involves collaboration with other parties, the Proponent shall provide, prior to any disbursement of funds, satisfactory evidence to ACOA that appropriate agreements exist to ensure the roles and responsibilities of each party are defined.
+Article 4 – The Contribution
+4.1 Subject to all the other provisions of this Agreement, ACOA will make a Contribution to the Proponent in respect of the Project, of the lesser of:
+(a) 51.825% of all other Eligible Costs (estimated to be $7,306,297); or
+(b) $3,786,474.
+4.2 ACOA will not contribute to any Eligible Costs incurred by the Proponent prior to November 27, 2002 nor after the Project Completion Date, unless otherwise agreed to in writing by ACOA.
+4.3 ACOA will pay the Contribution to the Proponent in respect of Eligible Cost incurred on the basis of itemized claims submitted in accordance with the procedures set out in Schedule 3.
+4.4 ACOA may withhold up ten percent (10%) of the Contribution prior to the completion of the Project or until such audit as ACOA may require has been performed. In the event that no audit has been performed twelve (12) months after receipt of the final claim, any amount so withheld shall be released to the Proponent.
+4.5 At the discretion of ACOA or at the request of the Proponent, ACOA may make payment(s) jointly to the Proponent and a supplier for Eligible Costs which have been incurred.
+4.6 (a) At the discretion of ACOA, an advance payment may be made to the Proponent.
+(b) To request an advance payment, the Proponent must submit a completed copy of the Advance Payment Request form (provided by ACOA), including a monthly cash flow forecast of requirements for the Eligible Costs to be incurred during the advance period. Such documentation must demonstrate that an advance payment is essential to the successful completion of the project. Each advance payment must be accounted for, to the satisfaction of ACOA, within forty-five (45) days of the end of the advance period for which that advance payment was made.
+(c) Should ACOA determine that an advance payment will be made, such payment will be made in accordance with the Treasury Board Policy on Transfer Payments.
+Article 5 – Repayment
+5.1 The Proponent shall repay the Contribution to ACOA by annual instalments calculated as a percentage of the Gross Revenues. The amount due to ACOA at each repayment shall be calculated:
+(a) at 2% when the Gross Revenues for the Fiscal Year immediately preceding the due date of the respective payment are less than $5,000,000; and
+(b) at 10% when Gross Revenues for the Fiscal Year immediately preceding the due date of the respective payment is [sic] $5,000,000 or greater.
+5.2 The first repayment is due on December 1, 2008, and subsequent repayments are due annually until the Contribution has been repaid in full.
+5.3 The Proponent agrees that its Fiscal Year presently begins on April 1 and ends on March 31 and there shall be no change of that Fiscal Year except with the prior approval of ACOA.
+Article 6 – Other Government Assistance
+6.1 The Proponent hereby acknowledges that, no other federal, provincial or municipal government financial assistance other than that described in Section 7.1 of Schedule 2 has been, or will be, requested or received by the Proponent for the Eligible Costs of the Project.
+6.2 The Proponent will inform ACOA promptly in writing of any other federal, provincial or municipal government assistance (except for scientific research and experimental development tax credits, deductions or allowances) to be received for the Eligible Costs of the Project, and ACOA will have the right to reduce the Contribution under this Agreement to the extent of any such assistance.
+Article 7 – Project Financing
+7.1 Prior to first disbursement of funds the Proponent shall provide ACOA with a copy of its audited financial statements for the Fiscal Year ended March 31, 2004.
+7.2 Prior to April 1 of each year until Project completion, the Proponent shall provide ACOA with confirmation of adequate financing for the next fiscal year in the form of a 12-month fiscal year cash flow statement, such financial projections to demonstrate adequate funding to support the Project and ongoing company operations for that 12-month period. These financial statements must be satisfactory to ACOA.
+7.3 Prior to first disbursement of funds, the Proponent will confirm equity investment of $1,400,000 since January 1, 2004 with terms and conditions acceptable to ACOA.
+7.4 Prior to cumulative disbursement greater than $700,000 the Proponent will confirm additional equity investment of $700,000, for a total of $2,100,000 since January 1, 2004, with terms and conditions acceptable to ACOA.
+7.5 Prior to cumulative disbursement greater than $1,500,000 the Proponent will confirm additional equity investment of $2,000,000, for a total of $4,100,000 since January 1, 2004, with terms and conditions acceptable to ACOA.
+Article 8 – Research Involving Humans or Animals
+8.1 Prior to the first disbursement of funds, the Proponent shall provide evidence satisfactory to ACOA that the project has received approval from a Research Ethics Board which is constituted and working in accordance to the Tri-Council Policy Statement on Ethical Conduct for Research Involving Humans and, in the case of a clinical trial, with Health Canada’s Food and Drugs Act and Food and Drug Regulations. Research involving animals must be approved by an Animal Care Committee, which is constituted and working in accordance with the Canadian Council on Animal Care Guide to the Care and Use of Experimental Animals.
+8.2 The Proponent shall address any further ethical issues which may arise during the course of the Project in the same manner and shall provide ACOA with satisfactory evidence of same.
+Article 9 – Special Conditions
+9.1 (a) The Proponent shall attain Equity, satisfactory to ACOA, in the total amount of $(594,506) on or before the date of the first disbursement by ACOA to the Proponent.
+(b) Unless otherwise authorized by ACOA in writing, this level of Equity shall be maintained until all of the Proponent’s undertakings in regard to commercialization mentioned in Schedule 4 have been fulfilled.
+Article 10 – Notice
+10.1 Any notice to ACOA will be addressed to:
+Atlantic Canada Opportunities Agency
+1801 Hollis Street
+Suite 600
+Halifax, Nova Scotia
+B3J 3C8
+Attention: Ms. Mary-Ellen Valkenier
+Fax No: (902) 426-2054
+10.2 Any notice to the Proponent will be addressed to:
+ImmunoVaccine Technologies Inc.
+1819 Granville Street, Suite 303
+Halifax, Nova Scotia
+B3J 3R1
+Attention: Dr. Warwick Kimmons
+Fax No: (902) 492-0888
+Article 11-Entire Agreement
+11.1 This Agreement constitutes the entire agreement between the parties and supersedes all previous documents, negotiations, arrangements, undertakings and understandings related to its subject matter.
+[8] The general conditions applicable to the Agreement as well as the definitions of some of the terms used in the Agreement are found in “Schedule 1-General Conditions”. I reproduce hereunder the relevant portions thereof:
+schedule 1 – general conditions
+1. Definitions
+For the purposes of this Agreement,
+“Agreement” means the agreement to which these General conditions relate, consisting of Articles of Agreement and the Schedules referred to in these Articles.
+…
+“Contribution” means the funding, in Canadian dollars, payable by ACOA under the Agreement.
+…
+“Gross Revenues” means all revenues, receipts, monies and other considerations of whatever nature earned or received by the Proponent, whether in cash, or by way of benefit, advantage, or concession, and without deductions of any nature, net of any returns or discounts actually credited and any sales, excise, ad valorem or similar taxes paid but without deduction for bad debts or doubtful accounts, as determined in accordance with generally accepted accounting principles, applied on a consistent basis. Transactions with related persons (as that term is defined in the Income Tax Act) will be deemed made in an amount equal to the fair market value for a similar product at the time of the transaction.
+. . .
+4.1 Overpayment by Minister
+Where for any reason:
+(a) The Proponent is not entitled to the Contribution; or
+(b) ACOA determines that the amount of the Contribution disbursed exceeds the amount to which the Proponent is entitled,
+the Proponent will repay to ACOA, promptly and no later than thirty (30) days from notice from ACOA, the amount of the Contribution disbursed or the amount of the overpayment, as the case may be, together with interest at the Interest Rate from the date of the notice to the day of repayment to ACOA in full. Any such amount is a debt due to Her Majesty in Right of Canada and is recoverable as such.
+. . .
+6.10 Other Financing
+The Proponent remains solely responsible for providing or obtaining the funding, in addition to the Contribution, required for the carrying out of the Project and the fulfilment of the Proponent’s other obligations under the Agreement.
+. . .
+7.1 Commercialization
+(a) The Agreement will terminate when all amounts due by the Proponent to ACOA under this Agreement have been paid in full or until that obligation is otherwise discharged to the satisfaction of ACOA.
+(b) In the event all of the Proponent’s undertakings in regard to commercialization mentioned in Schedule 4 have been fulfilled and the Proponent has demonstrated to the satisfaction of the Agency that Gross Revenues have not been or will not continue to be generated, notwithstanding 7.1(a), the Agreement will terminate.
+. . .
+8. Default and Recovery
+8.1 Events of Default
+The following constitute Events of Default:
+. . .
+(e) the Proponent neglects or fails to pay to ACOA any amount due in accordance with this Agreement; or
+(f) in the opinion of ACOA the Proponent ceases to carry on business,
+provided that ACOA will not declare an event of default has occurred by reason of subsections 8.1 (c), (d) or (e) unless ACOA has given notice to the Proponent of the condition or event which in ACOA’s opinion constitutes an event of default and the Proponent has failed, within thirty (30) days of receipt of the notice, either to correct the condition or event complained of or to demonstrate, to the satisfaction of ACOA, that it has taken such steps as are necessary to correct the condition, and has notified ACOA of the rectification.
+8.2 Remedies on Default
+If an Event of Default has occurred, or in the opinion of ACOA is likely to occur, ACOA may exercise one or more of the following remedies:
+. . .
+(c) require the Proponent to repay to ACOA all or part of the Contribution paid by ACOA to the Proponent, and pay ACOA any amounts due under the Agreement, together with interest at the Interest Rate. The interest, calculated daily and compounded monthly, shall accrue commencing upon the date which, in the opinion of ACOA, the Event of Default occurred.
+. . .
+10.3 Overdue
+The Proponent shall pay, where the account is overdue, and in addition to any amount payable, interest on that amount at the Interest Rate. The interest, calculated daily and compounded monthly, shall accrue from the due date until payment is received.
+[9] Further, Schedule 4 of the Agreement stipulates that, unless otherwise agreed by ACOA, the appellant is to ensure that the resulting products will be exploited through their production in Atlantic Canada until September 30, 2017. Schedule 5 of the Agreement provides for quarterly and annual reporting by the appellant to ACOA on the progress made in the fulfillment of the statement of work and on any revised estimated costs. The description of the appellant’s particular project is provided in Schedule 6 of the Agreement, which specifies, among other things, the project’s long-term potential benefits in terms of building new capacity in the region and the creation of new jobs.
+[10] Mr. Brian Lowe, co-founder and chief operating officer and, as of 2008, vice-president of the appellant, testified that they not only sought support from ACOA but indeed raised about $30 million in private equity and obtained some $10 million in government support during his tenure on the vaccine project (see transcript, page 21). With a view to obtaining ACOA funding through the Atlantic Innovation Fund (AIF), the appellant submitted a letter of intent in August 2002, and a complete submission by the end of November 2002. The final agreement was signed on December 31, 2004 after a lengthy process of negotiating the terms of the agreement (see transcript, pages 21 and 22). Mr. Lowe pointed out that, as a result of those negotiations, the repayment terms under article 5 of the Agreement were that the contribution made by ACOA had to be fully repaid in payments calculated as a percentage of the appellant’s gross revenues generated by the whole of its operations, and repayment was not tied to the outcome of the specific project that was being funded; it was Mr. Lowe’s understanding that this sort of provision was not common with ACOA (see transcript, pages 25, 34 and 35). As a matter of fact, the appellant showed the contribution by ACOA in its financial statements for the years 2006, 2007 and 2008 as a repayable long-term debt (see, as an example, the financial statements for the period ending March 31, 2006, Exhibit A-2, Balance Sheet, page 41, and page 47, note 5 referring to an ACOA interest-free loan). Apparently the appellant, on advice from its auditors and accountants, requested from ACOA an amendment to the agreement such that the terms of repayment would be changed to provide for a fixed monthly repayment schedule instead of repayment based upon a percentage of gross revenues. Mr. Lowe explained that this amendment was sought to ensure that the scientific research and development tax credits would be granted to the appellant. ACOA apparently refused any such change (see transcript, pages 31 and 32).
+[11] In cross-examination, Mr. Lowe acknowledged that the financial statements for the year ended March 31, 2003 (see Exhibit R-1, Tab 7, note 1) indicated that the company had not yet commenced commercial operations and that its ability to continue as a going concern was dependent on, among other things, its ability to obtain additional financing. He also confirmed that the same statement appeared in note 1 to the financial statements for the year ended March 31, 2007 (see Exhibit A-3). For the year ended March 31, 2008, the company reported a net loss of approximately $2.7 million and an accumulated deficit of roughly $11 million. In the financial statements for that year, in note 1, it is stated: "In addition to its ongoing working capital requirements, the Company must secure sufficient funding for its research and development programs and to defend its patents. These circumstances lend substantial doubt as to the ability of the Company to meet its obligations as they come due and, accordingly, the appropriateness of the use of accounting principles applicable to a going concern" (see Exhibit A-4, page 7, note 1).
+[12] Mr. Lowe explained that the appellant was no different than any other biotech company in that it never stopped raising money (see transcript, page 55), but he admitted that there were no other sources of income from which ACOA could expect to be repaid as of the moment the Agreement was signed (see transcript, pages 57 and 58). He said that at that particular time, the project had not yet started and the understanding was that the ACOA contribution would be repaid “going forward out of all of our gross revenue after we had completed the project” (see transcript, page 58). In 2008, there was not yet a commercialized product, a fact which is reflected by the following statement in note 1 to the 2008 financial statements (see Exhibit A‑4): "These undertakings [issuance of shares and additional debt financing], while substantial, are not sufficient in and of themselves to enable the Company to fund all aspects of its operations and, accordingly, management is pursuing other financing alternatives to fund the Company's operations so it can continue as a going concern."
+[13] Ms. Kimberly Stephens, CA, chief financial officer of the appellant since January 2011, also testified. She said that the project they were working on comprised four components. It would seem that they are currently working on different ways to fund two of these research programs and, to that end, seeking to collaborate with other partnerships or other entities (see transcript, page 115). Apparently, they signed four agreements with Pfizer Animal Health from 2007 to 2010 with respect to one component of the project, namely, the preventive vaccines for animal bacterial and viral infectious diseases program, for which Pfizer paid in the years 2008, 2009 and 2010 up-front licence-signing fees for the right to use the appellant’s technology (for the year ended March 31, 2008, those signing fees appear to be $244,815, which is, the revenue amount indicated on page 5 of the financial statements filed as Exhibit A-4). Ms. Stephens said that she hoped they would start receiving milestone payments on that part of the project by 2014, that is, when Pfizer applied to market the product, then when the product was approved by the FDA (Food and Drug Administration), and finally when the product was marketed. After that, royalty payments would start (see transcript, pages 115, 116, 126 and 127). Ms. Stephens also mentioned that they were working on other research programs for which they had the patent rights and which had potential for commercialization, but which are not related at all to the part of the project for which ACOA is contributing. She confirmed that, to the extent that these other programs generated revenue, such revenue would be part of the pool of revenues that would be used to repay ACOA’s contribution (see transcript, pages 117 to 119).
+[14] Ms. Stephens explained that, originally, the appellant had worked on a research project related to an animal fertility-control vaccine (referred to as a “product candidate” as it was not actually a marketable product). One component of that project involved collaboration with the Hong Kong government. She said that the gross revenue declared by the appellant in 2003 and 2004 was not in fact revenue but cost recovery, that is, the reimbursement by the Hong Kong government of costs incurred by the appellant on that project, as the appellant did not have any product to sell (see transcript, pages 122 to 125).
+[15] The appellant also called as a witness, Mr. Nicholas John Franklin, sales manager at the Atlantic Acura car dealership, to establish that, in a commercial context, interest rates of zero percent are realistic on automobile purchases. In cross-examination, Mr. Franklin agreed that in that case the cars are used as security for the loans.
+[16] Counsel for the respondent called Ms. Janice Ann Nishikawa, a director at ACOA who has been responsible for the Atlantic Provinces since 2006, to testify. In 2004, she was the manager of the AIF for the New Brunswick region, and was responsible for coordinating and administering the day-to-day valuation of projects for the AIF’s clients in New Brunswick. She said that ACOA is a regional development agency created by the Government of Canada. Its statutory mandate is to promote economic development in the Atlantic Region with the objective of creating employment and increasing earned income for Atlantic Canadians (see transcript, pages 131 and 132). The AIF is a program offered by ACOA for investment in research and development that will eventually lead to “commercializable” products, technologies and processes in Atlantic Canada (see transcript, pages 134 and 135; see also the objectives for the AIF program, Exhibit R-3, page 22). The AIF is governed by the Treasury Board, which approves the terms and conditions of the AIF program, i.e., the terms and conditions for allocating grants and contributions (see transcript, page 136).
+[17] Clause 2.4, entitled “Repayability”, of ACOA’s online AIF document “Request for Project Proposals” (Exhibit R-3) states that “[t]he federal repayable contribution policy is based on the premise that when a business, as a result of a contribution from the Government of Canada, earns a profit or otherwise increases in value, the business should return the contribution to the government. Accordingly, contributions to the private sector that involve the commercialization of a technology, product, process or service will be conditionally repayable based on the commercial success of the project.”
+[18] Ms. Nishikawa testified that, when a project has been selected, a repayable contribution agreement is negotiated. Terms of repayment are reviewed to determine how ACOA will be repaid should the proponent have commercial success. Milestones would be agreed to in order to be able to better monitor the project, and the key expected results would be defined (see transcript, pages 144 and 145). She said, echoing what is stated in the document filed as Exhibit R-3, that AIF funding is conditionally repayable for commercial clients and not repayable for non-commercial organizations (see transcript, page 146). This is in conformity with the Policy on Transfer Payments taken from the Treasury Board’s website, which states that where a contribution is made to a business and is intended to allow the business to generate profits or to increase the value of the business, the business is required to repay the contribution or to share the resulting financial benefits with the government commensurate with its sharing of the risks (see Exhibit R-4, clause 7.8.1, and transcript, page 148).
+[19] Ms. Nishikawa also indicated that once a project has started and the contribution has been granted, the proponent has to submit quarterly progress reports in order to draw contribution funds (see transcript, page 149). An annual monitoring report on the results achieved was also required. Success is measured on the basis of identified success indicators over the lifetime of the project. However, when measuring the success of a project, the repayment of the contribution is not a criterion that is considered (see transcript, pages 150 to 152).
+[20] In cross-examination, Ms. Nishikawa acknowledged that the terms and conditions she referred to in her examination in chief (in particular, those regarding the objectives of the AIF program and those relating to application requirements, and the repayment of contributions) and that are dealt with in the Request for Project Proposals (see Exhibit R-3, clause 2.2 and Annex A) did not form “word for word” an integral part of the Agreement at issue in the present case. But she explained that, nevertheless, the Agreement was based on the Policy on Transfer Payments discussed earlier and respected the terms and conditions referred to above (see transcript, pages 165 to 169). In re-examination, she went through the requirements for contribution agreements in the Treasury Board Policy on Transfer Payments (see Exhibit R-4, clause 8.2.1 and Appendix C) and confirmed that all of them were included in the Agreement at issue here (see transcript, pages 186, 187 and 192).
+[21] She further confirmed that this was the first time, to the best of her recollection, that she had seen a repayment clause that applied to all gross revenues as opposed to just those gross revenues that are tied to the project that was funded (see transcript, pages 172 to 174).
+Appellant’s arguments
+[22] The appellant’s position is that the contribution from ACOA does not constitute government assistance within the meaning of subsection 127(9) of the ITA, but rather an ordinary loan advanced on reasonable terms for business purposes. The contribution was an advance of funds in consideration of a promise to repay.
+[23] When the monies advanced to a business are to be repaid and the terms of repayment are specified, the transaction is classified as a loan. In the appellant’s view, it had an obligation to repay and there were mandatory terms of repayment. There was a bona fide business loan even though it was not interest bearing, as interest is not an essential element of a loan (Canada Deposit Insurance Corp. v. Canadian Commercial Bank, [1990] 4 W.W.R. 445, at 459, 1990 CanLII 5504 (Alta. Q.B.) at paragraphs 38 and 39; Steckel v. M.N.R., 92 DTC 1904 (TCC) at page 1908). The appellant also refers to Interpretation Bulletin IT-151R5, Scientific Research and Experimental Development Expenditures, at paragraph 40, where it is stated that “[t]he fact that a full recourse loan is interest-free or is made at a lower than commercial rate of interest will generally not classify the loan as government or non-government assistance.”
+[24] Further, the appellant argued that the contribution from ACOA was not a forgivable loan. The appellant referred to the definition of forgivable loan found in Interpretation Bulletin IT-340R, Scholarships, Fellowships, Bursaries and Research Grants - Forgivable Loans, Repayable Awards and Repayable Employment Income, at paragraph 2: “a loan which is made to enable the borrower to pursue an education or to carry out a research project and which the lender is committed to forgive if certain conditions are met by the borrower”. In the appellant’s view, it was required to repay in full to ACOA the amount advanced, according to a mandatory repayment schedule. It submitted that there were no criteria or conditions that would commit ACOA, as the lender, to forgiving the loan. In its view, the provision in section 7.1(b) of Schedule 1 of the Agreement (which states that the Agreement will terminate in the event that the appellant fulfils its Schedule 4 undertakings and demonstrates that it will not continue to generate gross revenues) only reflects the de facto business reality, applicable to all investments in start-ups and business ventures, that, in the event that the company is not successful, a loan or investment will not be recoverable. In the appellant’s view, it is the lender’s choice to write off the debt without resorting in vain to extraordinary remedies to enforce repayment (see Appellant’s Submissions, paragraphs 39 to 42).
+[25] The appellant argued lastly that the contribution from ACOA was not another form of assistance within the meaning of subsection 127(9) of the ITA either. Referring to the decision of the Supreme Court of Canada in National Bank of Greece (Canada) v. Katsikonouris, [1990] 2 S.C.R. 1029 at 1040, (1990), 74 D.L.R. (4th) 197, the appellant stated at paragraph 47 of its submissions:
+47. In National Bank of Greece (Canada) v. Katsikonouris (1990), 74 D.L.R. (4th) 197 (S.C.C.) Justice La Forest described the rule as follows:
+[12] Whatever the particular document one is construing, when one finds a cause [clause] that sets out a list of specific words followed by a general term, it will normally be appropriate to limit the general term to the genus of the narrow enumeration that precedes it.
+National Bank of Greece (Canada) v. Katsikonouris
+(1990), 74 D.L.R. (4th) 197 (S.C.C.)
+[26] The appellant suggested that the phrase “or . . . any other form of assistance” in the definition of “government assistance” in subsection 127(9) must be confined to the “genus of the narrow enumeration that precedes it”.
+[27] The appellant submitted that the common factor linking the narrow enumeration of “grant, subsidy, forgivable loan, deduction from tax, investment allowance or . . . any other form of assistance” is that each represents a transfer of funds advanced with no expectation of repayment. In the appellant’s view, the class of items constituting government assistance is limited to non-repayable forms of assistance and closed to any transfer or advance of funds for which repayment is required (see Appellant’s Submissions, paragraph 49). In contrast, the contribution from ACOA was advanced with mandatory terms for its repayment. The Agreement obliged the appellant to make ACOA whole through a mandatory repayment schedule and, significantly, the repayment was not limited to being made just out of the proceeds from the funded project, but was to be made from gross revenues in their entirety (see Appellant’s Submissions, paragraph 50).
+[28] According to the appellant, this particularity distinguishes the present case from the situation that prevailed in CCLC Technologies Inc. v. Canada, [1996] F.C.J. No. 1226 (QL) (FCA), 1996 CarswellNat 1652. In that case, the Federal Court of appeal held that an advance of funds from the Alberta government to CCLC Technologies Inc. (CCLC) constituted “government assistance” and, specifically, that it fell within the general phrase “any other form of assistance”. The Government of Alberta provided technology and advanced funds to CCLC in exchange for an equity interest in CCLC. In the event that the venture was successful, the Government of Alberta was obliged to sell its equity interest back to CCLC in return for its monetary investment plus interest thereon. In the event that the venture was unsuccessful, the Government of Alberta was left with an arguably worthless equity interest. The Court said the following at paragraphs 2 and 5:
+2 With respect to the first question, we are of the view that the sums provided to the respondent amounted to government assistance. This Court in The Queen v. Consumers Gas Company Ltd. [(1986) 87 DTC 5008 at 5011], contrasted “government assistance” to payments made by public authorities
+in exactly the same way for exactly the same reasons as payments made by private business, that is, for the purpose of advancing the interests of the payor.
+In this context it is clear that the Court was speaking of payments made for advancing the business interests of the payor.
+. . .
+5 In the language of the Income Tax Act, subparagraph 12(1)(x)(iv), and the definition of “government assistance” in subsection 127(9), the government payments under the Coal Research Agreement became, in the circumstances of non-commercialization of the technology, a grant, subsidy, a forgivable loan, or similar form of assistance.
+[29] The appellant is of the view that its case is different as its obligation to repay remained, even in the event of failure of the project, because of the requirement that it pay out of its gross revenues the total amount contributed by ACOA (paragraphs 52 and 53 of Appellant’s Submissions). In fact, the appellant started to repay in 2008, as appears from the Appellant’s Response to Request to Admit and from paragraph 5 of the respondent’s Request to Admit (referred to in paragraph 6 of these reasons). Therefore, the contribution by ACOA was more akin to a bona fide loan with fixed terms of repayment than government assistance.
+Respondent’s argument
+[30] The respondent referred first to the Atlantic Canada Opportunities Agency Act, R.S.C. 1985, c. 41 (4th Supp.), Part I (ACOA Act), to establish that ACOA’s object was essentially to promote opportunities for the economic development of Atlantic Canada. Sections 4, 12 and 13 of the ACOA Act state:
+Purpose
+4. Purpose
+The purpose of this Part is to increase opportunity for economic development in Atlantic Canada and, more particularly, to enhance the growth of earned incomes and employment opportunities in that region.
+Object, Powers and Duties
+12. Object
+The object of the Agency is to support and promote opportunity for economic development of Atlantic Canada, with particular emphasis on small and medium-sized enterprises, through policy, program and project development and implementation and through advocacy of the interests of Atlantic Canada in national economic policy, program and project development and implementation.
+13. Powers
+In carrying out its object, the Agency may
+(a) in concert with other concerned departments and agencies of the Government of Canada, formulate plans and integrated federal approaches to support opportunity for economic development of Atlantic Canada;
+(b) plan, direct, manage and implement programs and projects intended to contribute directly or indirectly to
+(i) the establishment, development, support and promotion of enterprises, and more particularly small and medium-sized enterprises, in Atlantic Canada,
+(ii) the development of entrepreneurial talent in that region, and
+(iii) the economic prosperity of that region;
+(c) plan, direct, manage and implement programs and projects to improve the business environment in Atlantic Canada, including programs and projects
+(i) of support to business associations, conferences, studies, consultations, trade shows, demonstration projects and market research,
+(ii) related to the development of business opportunity data banks and networks,
+(iii) to improve business communication and cooperation, and
+(iv) to promote scholarship related to business and investment;
+(d) assist investors to locate enterprises, and more particularly small and medium-sized enterprises, in Atlantic Canada, consistent with Atlantic Canada and federal investment requirements;
+(e) make loans to any person with respect to the establishment and development of enterprises, and more particularly small and medium-sized enterprises, in Atlantic Canada;
+(f) guarantee the repayment of, or provide loan insurance or credit insurance in respect of, any financial obligation undertaken by any person in respect of the establishment and development of enterprises, and more particularly small and medium-sized enterprises, in Atlantic Canada;
+(g) in accordance with terms and conditions approved by Treasury Board, make grants and contributions in support of programs and projects undertaken by the Agency or the Minister;
+(h) enter into contracts, memoranda of understanding or other arrangements in the name of Her Majesty in right of Canada or in the name of the Agency;
+(h.1) enter into an agreement with the Enterprise Cape Breton Corporation that allows that corporation within the limits of its objects and powers as set out in sections 33 and 34 of the Enterprise Cape Breton Corporation Act, to exercise the powers or perform the duties or functions of the Agency under this section, including the power to enter into agreements that commit money appropriated by Parliament for the purposes of the Agency; and
+(i) do all such other things as are necessary or incidental to the attainment of the object of the Agency.
+[31] The respondent argued that in providing a contribution of $3,786,474 to the appellant, ACOA was carrying out its legislative mandate to encourage economic development in the Atlantic Region and implementing a specific program, the AIF, created to promote research and development activity in that region. For the purpose of achieving its object, ACOA is given a wide array of powers, including making loans, providing loan insurance and guarantees, and making “grants and contributions in support of programs and projects undertaken by the [ACOA]’ (section 13 of the ACOA Act).
+[32] The respondent submitted that the contributions under the AIF program are administered under the AIF’s own terms and conditions as evidenced by the Second Request for Project Proposals, Annex A (Exhibit R-3, page 18 et seq.), and that the payments of contributions are administered in accordance with the Treasury Board Policy on Transfer Payments, under which, among other things, contributions to the private sector are conditionally repayable on the basis of successful commercialization of the project (Exhibit R-3, Annex A, sections 13 and 14). In the present case, the Agreement was signed on December 31, 2004, and the obligation to repay only arose in December 2008. As a matter of fact, the appellant reimbursed less than one percent of the total contribution from 2008 through 2011. Indeed, as shown by the admission made in paragraph 1 of the Appellant’s Response to Request to Admit and from paragraph 5 of the Respondent’s Request to Admit, it reimbursed a total of $36,973.24 from 2008 to 2011 on a total contribution by ACOA of $3,786,474.
+[33] Counsel for the respondent stated that the only issue raised in this appeal is whether the contributions received by the appellant pursuant to the Agreement are “government assistance” within the meaning of subsection 127(9) of the ITA. He referred to the general principles of statutory interpretation in tax matters adopted by the Supreme Court of Canada in Canada Trustco Mortgage Co. v. Canada, [2005] 2 S.C.R. 601, 2005 SCC 54 at paragraphs 10 to 12, which he summarized as follows in paragraph 35 of his written submissions:
+A. Meaning of government assistance
+35. The terms “government assistance” are to be interpreted in accordance with the accepted rules of statutory interpretation. In Canada Trustco Mortgage Co., the Supreme Court of Canada summarized the general principles of statutory interpretation in tax matters as follows:
+a) The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole;
+b) When the words of a provision are precise and unequivocal, the ordinary meaning of the words play [sic] a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role;
+c) It would introduce intolerable uncertainty into the Income Tax Act if clear language in a detailed provision of the Act were to be qualified by unexpressed exceptions derived from a court’s view of the object and purpose of the provision; and
+d) The provisions of the Income Tax Act must be interpreted in order to achieve consistency, predictability and fairness so that taxpayers may manage their affairs intelligently.
+[34] Counsel for the respondent also referred to the Supreme Court of Canada decision in Will-Kare Paving & Contracting Ltd. v. Canada, [2000] 1 S.C.R. 915, at paragraph 31, in reiterating the principle that when the ITA uses a word that is referable to a concept of private law, the meaning of that word must be derived from private law. In counsel’s view, the term “government assistance” is not a technical term, nor does it have a well-defined meaning that can be derived from private law, and as a result it must be given its ordinary meaning. The word “assistance” is defined in the Concise Oxford Dictionary as “an act of helping”. The ITA’s definition of “government assistance” contains an enumeration of specific types of assistance followed by the phrase “any other form of assistance”. By contrast, in a previous version of the provision (former paragraph 20(6)(h) of the ITA), the expression used was “grant, subsidy or other assistance from a government”. In the modern version, the enumerated terms “grant, subsidy, forgivable loan, deduction from tax, investment allowance” appear to be an attempt to describe all possible forms of assistance, regardless of form, whether provided by contract or by statute. The inclusion of “forgivable loan” suggests that the definition of “government assistance” extends beyond acts of the government which are purely gratuitous and unilateral.
+[35] Counsel for the respondent went through the provisions of the ITA governing the deductibility of SRED expenses and the calculation of the investment tax credit and analyzed their application when government assistance is at issue (under paragraph 37(1(d), SRED expenses are reduced by the amount of any “government assistance” received, and under paragraph 37(1)(c) the repayment of government assistance qualifies as a deductible SR&ED expense, and the same applies to the investment tax credit, as can be seen from subsection 127(18) and paragraphs (e.1) and (e.2) of the definition of investment tax credit in subsection 127(9)). In the respondent’s view, the statutory context of the above-noted provisions makes it clear that contributions made by the government that are repayable may nevertheless constitute “government assistance”. Where such is the case, the benefit of claiming SRED expenses and associated investment tax credits is deferred until the assistance is actually repaid. In that context, counsel argued, if the assistance is not in fact repaid, the scheme of the ITA recognizes that the taxpayer should not receive tax benefits in respect of expenses which were essentially paid by the government. In the respondent’s view, the purpose behind these provisions is to prevent a taxpayer from receiving benefits twice, namely, those associated with the incentives represented by the research and development expenditures scheme and those represented by the government assistance, as long as the government assistance is not repaid (paragraphs 42 to 49 of the respondent’s submissions, and transcript, pages 71 to 73).
+[36] Counsel for the respondent relied on the cases of Canada v. Consumers’ Gas Co., [1987] 2 F.C. 60 (FCA) and CCLC Technologies Inc. v. Cananda., supra, to state that a payment will escape the definition of “government assistance” if it is made “in exactly the same way and for exactly the same reasons as payments made by private business; that is, for the purposes of . . . advancing the business interests of the payer”. On the other hand, if the public authority is carrying out some legislative scheme of distributing grants to encourage those engaged in business to embark on certain classes of enterprise, then those payments are government assistance (see Consumers’ Gas, supra, at 66-67). In CCLC Technologies, at paragraph 2, the Federal Court of Appeal clarified that “advancing the interests of the payor” meant “advancing the business interests of the payor”. It was thus made clear that payments made for public policy reasons would not fall within the category of payments intended to advance the payor’s business interests. The Court said at paragraph 4:
+4 The agreement does not in our opinion establish an ordinary business arrangement between the parties. For its part the Government of Alberta undertook to provide technology and to pay money to the respondent. While in the short term the government obtained an equity interest, if the project were to prove commercially successful the Government would be obliged to sell its interest to the respondent, the price being simply the return of its money contribution plus its interest costs in having made that contribution. If the project did not prove to have commercial value, as in fact it did not during the period in question, the Government was entitled to nothing except an equity interest in a technology demonstrated not to have present commercial value. We find it impossible to characterize this as an ordinary business arrangement. Whatever public policy merits the agreement may have had from the standpoint of Alberta, it does not amount to an arrangement that a business would enter into to advance its business interests. A business which invested money in ventures on the basis that it could not receive any net profit if the venture succeeded, and would gain an equity interest only if the venture proved uncommercial, would not long survive.
+[37] In that case, although the agreement provided that the Alberta government’s contribution could be returned to it with interest and although it took eleven months of protracted negotiations between the parties to reach that agreement and although the Alberta government obtained a joint ownership interest in the technology produced under the agreement, the Court was of the view that the contribution still constituted “government assistance”. Further, the Court found that the project surveillance and participation in the management of the project were consistent with the role of a prudent grant-giver assuring itself that its contribution was being spent as intended, and did not indicate any commercial role of the government (paragraph 6).
+[38] Counsel for the respondent suggested that, in the present case, ACOA was not carrying on a business but rather was executing a legislative scheme for the distributing of funds to promote economic development in Atlantic Canada. Indeed, under the ACOA Act, ACOA is given a broad array of powers to enable it to achieve its objectives but is not authorized to carry on business; rather, it is authorized to assist those who do (sections 4, 12 and 13 of the ACOA Act). As a matter of fact, the objectives of the AIF program are explicitly stated in the recitals of the Agreement signed by the appellant. The interest that the government was advancing in agreeing to provide a contribution to the appellant was that of “strengthen[ing] the economy of Atlantic Canada by supporting the development of knowledge-based industry” and “help[ing] increase the region’s capacity to carry out leading-edge research and development”. In the respondent’s view, those objectives illustrate a desire to help and support the Atlantic Region and are clearly not indicative of the type of “ordinary business arrangement” that the Federal Court of Appeal contemplated in the cases of CCLC Technologies, supra, and Consumers’ Gas, supra.
+[39] Further, the substantive provisions of the agreement impose conditions on the appellant which show that ACOA was making the contribution in the public interest and not for its own commercial gain. Indeed, the appellant was required to carry out a research and development project in Atlantic Canada and incur significant research and development expenses in Atlantic Canada, to exploit the resulting intellectual property through production in Atlantic Canada, to account for the use of the contributed funds, and to update ACOA regularly on the progress of the project, in particular with regard to the number of new jobs created in Atlantic Canada. The respondent argued that all this shows that ACOA places significant emphasis on the appellant’s incurring the expenses and performing the work in Atlantic Canada, which is what provides the public benefit. The evidence also revealed that ACOA assesses the progress and success of a project according to a variety of criteria, which do not, however, include the ability of the proponent to repay the contribution. The respondent argued that the number of jobs created by a borrower or the number of new alliances formed is not the concern of businesspeople looking after their own business interests, but rather that of the government promoting public policies.
+[40] The respondent also referred to the test suggested by the Federal Court of Appeal in CCLC Technologies, which consists in determining what the risks and rewards are to the government arising from the agreement. Looking at the best- and worst–case scenarios, the respondent is of the view that it is impossible to believe that ACOA would have entered into the Agreement absent public policy reasons and solely as an ordinary business transaction. If the project is unsuccessful, the appellant would only be required to repay the contribution to the extent that it earns gross income from unrelated sources of revenue. The evidence revealed that at the time the Agreement was entered into, the appellant had not commenced commercial operations, had little or no revenue and was dependent on further financing to carry on its operations. The total repayments made by the appellant in the years 2008 to 2011 amounted to less than one percent of the ACOA contribution. If, on the other hand, the appellant achieves overwhelming success in the project, the most that ACOA can hope to receive is repayment of its contribution, without interest. The best-case scenario can be compared to the situation in CCLC Technologies, where the most the Government of Alberta could hope to receive was the return of the money it contributed plus interest. In the CCLC Technologies case, the Court did not consider such an arrangement as a normal business arrangement but determined it to be “government assistance”.
+[41] Finally, the respondent is of the view that the classification of the Agreement as a loan arrangement, as argued by the appellant, is simplistic because it focuses chiefly on the repayment terms at the expense of the more important features of the Agreement. In the respondent’s view, the repayment of the contribution from gross revenues was not the primary goal of ACOA. The respondent referred to section 7.8.1 of the Treasury Board Policy on Transfer Payments (Exhibit R-4), which reads in part as follows:
+. . . Where a contribution is made to a business and is intended to allow the business to generate profits or to increase the value of the business, the business is required to repay the contribution or to share the resulting financial benefits with the government commensurate with its sharing of the risks.
+[42] The respondent states that this policy shows that repayment is required only to the extent that the government funding contributes to the profits of the recipient.
+Analysis
+[43] The sole issue before me is whether the contribution made by ACOA to the appellant during the years in question constituted “government assistance” within the meaning of subsection 127(9) of the ITA. The appellant does not dispute the fact that it received amounts from “a government, municipality or other public authority”. It argues however that the amounts received were not “assistance . . . whether as a grant, subsidy, forgivable loan, deduction from tax, investment allowance or as any other form of assistance . . .”
+[44] In summary, the appellant is of the view that the contribution was an ordinary loan advanced on reasonable terms for business purposes. In the appellant’s view, such a loan cannot constitute “government assistance”. The respondent submits that the question whether the Agreement can be characterized as a loan arrangement is irrelevant for the purpose of determining whether the contribution paid was “government assistance”. The respondent is not arguing that there was a forgivable loan (except should I decide to characterize the Agreement as a loan arrangement). In the respondent’s view, the contribution falls within the phrase “any other form of assistance” in the definition of “government assistance”.
+[45] I agree with the respondent that the enumerated terms in the definition of “government assistance” appear to be an attempt to describe all possible forms of assistance. I also agree that the inclusion of “forgivable loan” in the definition suggests that “government assistance” extends beyond acts of the government which are purely gratuitous. This can also be inferred from the statutory context of the provisions of the ITA dealing with the deductibility of SRED expenses and with the related investment tax credits. Under those provisions, the deductions and credits are deferred until the government assistance is actually repaid. This would reflect Parliament’s intention to restrict access to tax relief for SRED expenditures and to RITCs where relief was provided in some other form. In other words, if another party has borne the economic cost of a taxpayer’s participation in scientific research and experimental development, there is no need to allow deductions or credits as an incentive for that taxpayer to engage in SRED activities. At least, the appellant did not convince me that some other interpretation should be adopted. Under such circumstances, it is reasonable to conclude that a contribution that is made by the government and is repayable may constitute “government assistance”. I therefore disagree with the appellant that the common factor linking the terms enumerated in the definition of “government assistance” is that each represents a transfer of funds advanced with no expectation of repayment.
+[46] In fact, the real test, as suggested by the Federal Court of Appeal in CCLC Technologies, supra, referring to Consumers’ Gas, supra, is whether the contribution made by ACOA was made “in exactly the same way for exactly the same reasons as payments made by private business, that is, for the purpose of advancing the interests of the payor”.
+[47] In CCLC Technologies, if the project had proved commercially successful the Government of Alberta would have had its contribution paid back with interest, while if the project proved to have no commercial value, as in fact turned out to be the case during the period in question, the Government of Alberta kept an equity interest in a technology with no commercial value. The Federal Court of Appeal concluded that this was not an arrangement that a business would enter into to advance its business interests, and that the government payments became, under the circumstances of non-commercialization of the technology, government assistance under the ITA.
+[48] In Consumers’ Gas, the taxpayer was a public gas company that had to relocate its gas lines at the request of third parties from time to time. In the years at issue, Consumers’ Gas incurred the expense of moving its gas lines, but later collected the cost thereof from the public authorities, such as Ontario Hydro, which had requested the relocations. The Federal Court of Appeal concluded at page 66 of its decision, that the payments made to Consumers’ Gas by such public authorities were made in exactly the same way and for exactly the same reasons as payments made by private businesses, that is, for the purpose of advancing the interests of the payor, and therefore were not received as “any other form of assistance” from a government, municipality or other public authority within the meaning of former subsection 13(7.1) of the ITA. The Court quoted with approval the comment of Jackett P. of the Exchequer Court of Canada in Ottawa Valley Power Co. v. Minister of National Revenue, [1969] 2 Ex. C.R. 64 at 71, 1969 CarswellNat 283 at paragraph 11, that what were involved were ordinary business arrangements between a public authority and a taxpayer in a situation where the public authority carries on a business and has transactions with a member of the public of the same kind as the transactions that any other person engaged in such a business would have with such a member of the public. Jackett P. added that if Ontario Hydro were used by the legislature to carry out some legislative scheme of distributing grants to encourage those engaged in business to embark on certain classes of enterprise, then he would have no difficulty in treating the grants as assistance from a government, municipality or other public authority under former paragraph 20(6)(h) of the ITA (which used the same terminology as that found in present subsection 127(9)). In Ottawa Valley Power, expenses incurred by Ontario Hydro to make improvements to Ottawa Valley Power Co.’s power production plant were considered as having been so incurred as part of an ordinary business arrangement and as not constituting assistance. As a matter of fact, it was more economical for Ontario Hydro to enter into a new contract with Ottawa Valley Power Co. and to incur the costs related thereto than to continue buying electricity under the existing contract. Jackett P. considered that the legislature had merely authorized Ontario Hydro to do certain things deemed expedient to carry out successfully certain changes in its method of carrying on its business. He could not regard what was done in such circumstances as being “assistance” given by a public authority, and determined that former paragraph 20(6)(h) of the ITA had no application in that case.
+[49] In the present case, I agree with the respondent that in entering into the Agreement with the appellant, ACOA was carrying out its object and exercising its powers under the ACOA Act. Its object, as defined in section 12 of the ACOA Act, was to support and promote opportunity for economic development of Atlantic Canada, with particular emphasis on small and medium-sized enterprises, through policy, program and project development and implementation and through advocacy of the interests of Atlantic Canada in a national economic policy. The preamble of the Agreement states that the AIF is a program established by ACOA to strengthen the economy of Atlantic Canada by supporting the development of knowledge-based industry and by directly contributing to the development of new technology-based economic activity in that region. The Agreement is the result of a project proposal submitted by the appellant in response to ACOA’s request for project proposals.
+[50] In those circumstances, I find that, as argued by the respondent and paraphrasing Ottawa Valley Power, supra, at 71-72 Ex. C.R., paragraph 11 CarswellNat, ACOA was carrying out a legislative scheme of distributing funds to encourage those engaged in business to embark on certain classes of enterprise, and did not make the contribution at issue in order to advance its own business interests. This is all the more true in light of the evidence given by Ms. Nishikawa that ACOA assesses the progress and success of a project according to a variety of criteria, none of which is the ability of the appellant to repay the contribution. Payments pursuant to such legislative schemes are “government assistance” (Consumers’ Gas, supra, at 66, and CCLC Technologies, supra, at paragraph 2).
+[51] I find unconvincing the appellant’s argument that its case is different as its obligation to repay the contribution remained, even in the event of failure of the project, because of the requirement that it pay out of all its gross revenues. At the time of the signing of the Agreement on December 31, 2004, the appellant had not commenced commercial operations, had little or no revenue and was dependent on further financing in order to carry on its operations. The appellant was only required to repay the contribution - and then only starting in 2008, which is a four‑year respite - to the extent that it earned gross revenues from any source, and the repayment rate was a fairly moderate one (two percent of gross revenues if these were less than $5,000,000). As a matter of fact, the total repayments for the years 2008 to 2011 amounted to less than one percent of ACOA’s contribution. Furthermore, from ACOA’s perspective, it would not recover more than the amount of the contribution advanced however positive the appellant’s financial results might be. ACOA would collect interest on payments due by the appellant only in case of default (if the appellant neglected to pay any amount due under the agreement, for example) or in case of an over-contribution by ACOA (see sections 4.1 and 8 of Schedule 1, General Conditions, of the Agreement). As argued by the respondent, the best-case scenario under the Agreement can be compared to the situation described by the Federal Court of Appeal in CCLC Technologies, where the most the Government of Alberta could hope to receive was the return of the money it contributed plus interest. That Court did not consider such a scenario as being indicative of a viable commercial venture. The fact that ACOA could not receive any net profit on the money invested in the appellant’s ventures, combined with ACOA’s objectives under the ACOA Act, makes it clear that ACOA was not dealing with the appellant on basic commercial terms. To say the least, ACOA was not acting in its own business interests.
+[52] Moreover, the obligations imposed on the appellant under the Agreement are representative of what is required when money is disbursed in the public interest. The appellant had to ensure that the resulting products were exploited through their production in Atlantic Canada and was required to provide regular reports to ACOA on, among other things, the project’s potential benefits in terms of building new capacity in the region and the creation of jobs. I agree with the respondent that this shows that ACOA places significant emphasis on the appellant’s incurring the expenses and performing the work in Atlantic Canada, which is what provides the public benefit. To paraphrase the Federal Court of Appeal in CCLC Technologies, supra, at paragraph 6, the various forms of surveillance of the management of the project by ACOA are equally consistent with the role of a prudent grant-giver assuring itself that its contribution was being spent as intended.
+[53] Finally, I would add that a close reading of the Agreement tends to show that the intent of the parties was to consider the contribution as “government assistance”. In article 6 of the Agreement entitled “Other Government Assistance”, the proponent (the appellant) acknowledged that no federal, provincial or municipal government financial assistance other than that described in section 7.1 of Schedule 2 had been, or would be, requested or received by the proponent for the eligible costs of the project. Section 6 further stipulated that the proponent had to inform ACOA of any other government assistance and that ACOA had the right to reduce the contribution under the Agreement to the extent of any such assistance. Section 7.1 of Schedule 2 shows the AIF contribution of $3,786,474 as part of the total cash contributions (Exhibit R-1, Tab 2, page 38). Those two provisions read together show that the contribution at issue here was considered as government assistance by both parties to the Agreement.
+[54] In closing, I would point out that the fact that the appellant became a public company in 2009 and as a result will not be entitled to the full benefit of the RITCs if and when it repays ACOA, as briefly explained by Ms. Stephens in her testimony,[1] does not alter the interpretation to be given to the Agreement that was entered into in 2004. I have to determine whether the contribution made and agreed upon by ACOA in signing the Agreement constituted “government assistance” pursuant to subsection 127(9) of the ITA. For the reasons explained above, I am of the view that the contribution at issue does qualify as “government assistance”, with the result that the Minister was right in denying the SRED claims and the related RITCs for the taxation years ended March 31, 2005 through 2008, pursuant to subsections 127.1(1) and 127(9) of the ITA.
+[55] The appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 10th day of April 2013.
+“Lucie Lamarre”
+Lamarre J.
+CITATION: 2013 TCC 103
+COURT FILE NO.: 2011-245(IT)G
+STYLE OF CAUSE: IMMUNOVACCINE TECHNOLOGIES INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: November 29 and 30, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: April 10, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Bruce S. Russell, Q.C.
+Counsel for the Respondent:
+Daniel Bourgeois
+Frédéric Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Bruce S. Russell, Q.C.
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Ms. Stephens said in her testimony that the appellant became a public company in 2009, so that even if it reimbursed ACOA, the tax credit to which it would be entitled would be substantially less (transcript, pages 120 and 121).

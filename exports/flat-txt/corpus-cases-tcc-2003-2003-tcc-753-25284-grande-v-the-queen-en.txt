@@ -1,0 +1,140 @@
+Title: Grande v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25284/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-753-25284-grande-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-10-24
+
+# Grande v. The Queen
+
+- Citation: 2003 TCC 753
+- Decision date: 2003-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2397, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grande v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-24
+Neutral citation
+2003 TCC 753
+File numbers
+2003-337(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-337(IT)I
+BETWEEN:
+ENRICO GRANDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 26, 2003 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Giovanni (John) Grande
+Counsel for the Respondent:
+Bonnie Boucher
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 24th day of October 2003.
+"L.M. Little"
+Little, J.
+Citation: 2003TCC753
+Date: 20031024
+Docket: 2003-337(IT)I
+BETWEEN:
+ENRICO GRANDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little, J.
+A. FACTS:
+[1] In 1989 the Appellant was advised by his family physician that he had a serious kidney disease and that he would have to use a dialysis machine.
+[2] From 1989 to 1994 the Appellant attended a medical clinic and obtained regular treatment from a dialysis machine.
+[3] In June 1994 the Appellant received a renal transplant at St. Michael's Hospital in Toronto.
+[4] By letter dated August 14, 2003 (Exhibit R-3) Dr. Steven E. Rubenzahl advised as follows:
+I have been asked to submit a statement regarding Mr. Grande's medical state as it pertains to an application for disability tax credit. The specific issue seems to surround whether or not he receives life-sustaining therapy. I am a family practitioner licensed in the province of Ontario since 1990. I have been Mr. Grande's family doctor since July of 1994. He received a renal transplant at St. Michael's hospital in June of 1994. Since that time he has had numerous complicated health issues such as hyperparathyroidism requiring parathyroidectomy in 1994, atrial fibrillation which resolved, chronic liver condition requiring medication, peptic ulcers, skin cancers, elevated cholesterol and blood pressure, colon polyps requiring a colectomy in 1999. Mr. Grande requires ongoing medical surveillance for his renal graft. He is taking lifelong immunosuppressives which are prednisone, imuran and cyclophosphamide as well as blood pressure and liver medication.
+As I see it, these treatments and the ongoing supervision thereof by the transplant clinic and myself do constitute life saving interventions. Without it he would no doubt develop lethal complications. The specific question of frequency and duration which is asked in the act is difficult because these are considered ongoing interventions and thus I cannot quantify them in a simple fashion as one could for dialysis treatments, for example. Thus I must leave this detail of interpretation up to the court to clarify. I trust this clarifies the relevant issues.
+Yours Sincerely,
+Steven Rubenzahl
+[5] When the Appellant commenced to receive dialysis treatment in 1989 he applied for and received a disability tax credit in each taxation year from 1989 to 2000.
+[6] When the Appellant filed his income tax return for the 2001 taxation year he applied for a disability tax credit.
+[7] By Notice of Reassessment dated June 13, 2002 the Minister of National Revenue (the "Minister") disallowed the disability tax credit that was claimed by the Appellant in the 2001 taxation year.
+B. ISSUE:
+[8] The issue is whether the Appellant is entitled to claim a disability tax credit in the 2001 taxation year.
+C. ANALYSIS:
+[9] Counsel for the Respondent filed with the Court a copy of the Disability Tax Credit Certificate that was signed by the Appellant (Exhibit R-2). The Certificate was signed by Dr. Rubenzahl (the Appellant's family physician).
+[10] The questions in the Certificate were answered as follows:
+- Can your patient see?
+YES
+- Can your patient walk?
+YES
+- Can your patient speak?
+YES
+- Can your patient perceive, think and remember?
+YES
+- Can your patient hear?
+YES
+- Can your patient feed or dress himself?
+YES
+- Can your patient personally manage bowel and bladder functions?
+YES
+[11] The Certificate also contained the following question:
+- If your patient needs life-sustaining therapy to support a vital function, he or she may qualify for the disability amount, even if the therapy has alleviated the condition. Your patient must specifically dedicate the time needed for this therapy - at least three times per week, to an average of at least 14 hours per week.
+Does your patient meet these conditions for life-sustaining therapy?
+YES
+If YES, please specify the type of therapy.
+Dr. Rubenzahl then made the following statement in the Certificate: "Renal Transplant Recipient".
+(Note: There is no reference in the Certificate to the life-sustaining therapy that is referred to in the Act.)
+[12] Subparagraph 118.3(1)(a.1)(ii) was added to the Act in the Federal Budget dated February 28, 2000 effective for the 2000 and subsequent taxation years. The Explanatory Notes issued by the Federal Minister of Finance dated March 16, 2001 refer to this amendment extending eligibility for the credit to persons who must undergo therapy at least three times each week (for a total period averaging at least 14 hours per week). The Explanatory Notes state that examples of taxpayers who will benefit from this extension include individuals with severe kidney disease requiring dialysis.
+[13] As is noted from the above facts the Appellant required dialysis as a result of his kidney disease from 1989 to 1994 when he received a renal transplant. The Appellant did not receive dialysis treatment after he had received the renal transplant in 1994.
+[14] From the evidence that was presented to the Court and an analysis of the documents that were filed with the Court, I have concluded that in the 2001 taxation year the Appellant did not require therapy that was essential to sustain a vital function of the Appellant and which was required to be administered at least three times each week for a total duration averaging not less than 14 hours a week as required by subparagraph 118.3(1)(a.1)(ii) of the Act.
+[15] I have also concluded that in the 2001 taxation year, the Appellant was not suffering from a severe and prolonged mental or physical impairment, the effects of which were such that the ability of the Appellant to perform a basic activity of daily living, within the meaning provided by section 118.4 of the Act, was markedly restricted all or substantially all of the time. The comments made in the Certificate (Exhibit R-2) support this conclusion.
+[16] I have therefore determined that in computing tax payable in the 2001 taxation year the Appellant is not entitled to a tax credit in respect of a disability amount as provided by subsection 118.3(1) of the Act.
+[17] I regret that I cannot find in favour of the Appellant because it is apparent that the Appellant suffers from a number of medical problems. However, my responsibility is to interpret the words of the Act. The words of the Act are very specific in dealing with those who require kidney dialysis treatment and the Appellant does not fit within those words.
+[18] The appeal is dismissed without costs.
+Signed at Vancouver, British Columbia, this 24th day of October 2003.
+"L.M. Little"
+Little, J.
+CITATION:
+2003TCC753
+COURT FILE NO.:
+2003-337(IT)I
+STYLE OF CAUSE:
+Enrico Grande and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 26, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+October 24, 2003
+APPEARANCES:
+Agent for the Appellant:
+Giovanni (John) Grande
+Counsel for the Respondent:
+Bonnie Boucher
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

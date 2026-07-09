@@ -1,0 +1,170 @@
+---
+title: "Martorelli v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29761/index.do"
+last_modified: "2010-04-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 216"
+citation2: ""
+neutral_citation: "2010 TCC 216"
+decision_date: "2010-04-22"
+language: "en"
+item_id: "29761"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6507
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:25:49.150000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a9514b355c92efe4b1cfa1cd13d9dc004411a6210dc60bd801213f6ba871d9d1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Martorelli v. The Queen
+
+- Citation: 2010 TCC 216
+- Decision date: 2010-04-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6507, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martorelli v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-22
+Neutral citation
+2010 TCC 216
+File numbers
+2008-4049(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-4049(IT)I
+BETWEEN:
+ROSARIO MARTORELLI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 7, 2010 at Hamilton, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Erin Strashin
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2006 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to a deduction for motor vehicle expenses in the amount of $8,467.
+Each party shall bear their own costs.
+Signed at Toronto, Ontario this 22nd day of April 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 216
+Date: 20100422
+Docket: 2008-4049(IT)I
+BETWEEN:
+ROSARIO MARTORELLI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The issue in this appeal is the deductibility of motor vehicle expenses incurred by the appellant, Mr. Rosario Martorelli, in traveling to and from work at a construction site. The appeal relates to an assessment made under the Income Tax Act for the 2006 taxation year.
+Background facts
+[2] For about 10 years, the appellant has been employed as a construction worker by Aker Kvaerner Songer Canada Ltd. out of their Burlington, Ontario office.
+[3] Throughout the employment, the appellant has worked at various construction sites. Pursuant to the applicable collective agreement, each construction project to which the appellant is assigned is treated as a separate contract of employment.
+[4] In 2006, the appellant worked for the entire year at a construction site on premises formerly known as Lake Erie Works. The site is located at Nanticoke, Ontario, which is approximately 50 kilometers from Hamilton where the appellant resides.
+[5] In other years, the appellant was employed in the year at more than one construction site. Some of these were located outside the Hamilton area.
+[6] In the relevant year, the employer paid to the appellant: (1) an allowance for motor vehicle expenses in the amount of $8,467 for traveling between Hamilton and the construction site, and (2) an allowance for meals in the amount of $409.84.
+[7] According to the testimony of the appellant and the comptroller of the employer, Mr. Mario Ongaro, the governing collective agreement provides that the motor vehicle allowance is to be treated as non-taxable. I accept this testimony and note that it is contrary to an assumption made by the Minister in making the assessment.
+[8] In contravention of the collective agreement, the employer included the motor vehicle allowance in the appellant’s income for purposes of tax reporting and source deductions. This finding is based on the appellant’s testimony and is consistent with an assumption made by the Minister. Mr. Ongaro was not asked to testify regarding this.
+[9] The appellant, in frustration from this apparent breach of the collective agreement, claimed a deduction in the 2006 income tax return for his actual motor vehicle expenses incurred in traveling between his home and the construction site. The amount of the deduction claimed was $14,954.11.
+[10] By way of an assessment for the 2006 taxation year, the deduction was disallowed in its entirety.
+Analysis
+[11] In order for the appellant to be able to deduct motor vehicle expenses, the requirements of paragraph 8(1)(h.1)[1] and subsection 8(10) of the Act must be satisfied.
+[12] These provisions are reproduced below.
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+[…]
+(h.1) where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer's income for the year, or
+(iv) claims a deduction for the year under paragraph (f);
+(Emphasis added)
+8(10) An amount otherwise deductible for a taxation year under paragraph (1)(c), (f), (h) or (h.1) or subparagraph (1)(i)(ii) or (iii) by a taxpayer shall not be deducted unless a prescribed form, signed by the taxpayer's employer certifying that the conditions set out in the applicable provision were met in the year in respect of the taxpayer, is filed with the taxpayer's return of income for the year.
+[13] Counsel for the respondent submits that the requirements of s. 8(1)(h.1) have not been satisfied because the only place that the appellant worked in 2006 was at a construction site in Nanticoke.
+[14] Two parts of s. 8(1)(h.1) are relevant to this inquiry and these have been emphasized above. They will be considered separately.
+[15] First, clause 8(1)(h.1)(i) requires that the taxpayer ordinarily carry on duties in the year away from the employer’s place of business or in different places.
+[16] The appellant did not work in different places in 2006. The question, then, is whether the appellant worked away from his employer’s place of business in that year.
+[17] The question that this raises is whether the Nanticoke construction site was a place of business of Aker, the employer.
+[18] The applicable principle is that a construction site is a contractor’s place of business for purposes of s. 8(1)(h.1)(i) if the site is in the nature of a permanent establishment of the employer: Dionne v. The Queen, 2006 FCA 79, [2006] 2 CTC 292; Champaigne v. The Queen, [2006] TCC 74, [2006] 2 CTC 2403; Potter v. The Queen, 2008 TCC 228, [2008] 5 CTC 2303.
+[19] This issue was not clearly raised in the reply and it was not mentioned at the hearing.
+[20] Since no assumptions were made by the Minister in relation to this issue, the respondent has the onus of proof.
+[21] No evidence was led as to whether this test was satisfied, such as whether the employer had a field office at the construction site. I am not prepared in these circumstances to conclude that the Nanticoke site was a place of business of the employer. The onus has not been satisfied.
+[22] The requirement in s. 8(1)(h.1)(i) is accordingly satisfied for purposes of this appeal.
+[23] The second part of s. 8(1)(h.1) that must be satisfied is that the expenses are incurred in the course of employment.
+[24] The general principle to be applied was described by Bowman C.J. in Toutov v. The Queen, 2006 TCC 187, 2006 DTC 2928:
+[2] The general rule of course is that the cost of travelling from one’s home to one’s place of work is not a deductible expense. This has been settled law for many years. The leading authority in support of this proposition is the House of Lords decision in Ricketts v. Colquhoun, [1926] A.C. 1, which was followed by the Federal Court of Appeal in Hogg v. R., [2002] 3 C.T.C. 177.
+[3] The general rule is not inflexible and it admits of exceptions in some circumstances. […]
+[25] An exception from the general rule is appropriate in this case, in my view. The appellant worked at temporary construction sites, often away from the municipality in which he lived and that in which his employer was based. From a common sense point of view, and in the context of s. 8(1)(h.1), traveling to and from these construction sites is not a personal activity but is part of the duties of employment.
+[26] The circumstances are similar to those which I recently discussed in Veinot v. The Queen, 2010 TCC 112.
+[27] In reaching this conclusion, I have taken into account the very recent decision of Colavecchia v. The Queen, 2010 TCC 194. In that decision, Margeson J. comments that prior judicial decisions concerning travel expenses are not always easy to reconcile.
+[28] Neither party made detailed arguments before me on this issue, and I do not think that it would be desirable to attempt an in depth analysis of prior cases in this informal procedure case.
+[29] In light of these conclusions, the appellant is entitled to deduct actual motor vehicle expenses incurred. The requirements of s. 8(1)(h.1) are satisfied.
+[30] The next question is whether the amount claimed by the appellant is a reasonable estimate of expenses incurred.
+[31] According to the income tax return, the deduction was based on 37,300 kilometers traveled in the course of employment.
+[32] Very little evidence was provided to support this figure, which differs substantially from the kilometers that were recognized by the employer for purpose of calculating the motor vehicle allowance.
+[33] In 2006, the appellant was paid $8,467 as a motor vehicle allowance which was computed at the rate of 41 cents per kilometer. This represents approximately 21,000 kilometers.
+[34] There may be good reasons to support the kilometers claimed by the appellant (37,300) but the evidence presented by the appellant on this point was not sufficient to satisfy the burden of proof.
+[35] In the circumstances of this case, a reasonable approach is to conclude that the allowance paid by the employer is a reasonable estimate of expenses incurred. This amount is $8,467.
+[36] Finally, I would comment briefly about the requirement in s. 8(10). The reply does not clearly put this requirement in issue, and accordingly it is not necessary that I consider it.
+[37] In light of these conclusions, the appeal will be allowed and the assessment will be referred back to the Minister for reconsideration and reassessment on the basis that the appellant is entitled to a deduction for motor vehicle expenses in the amount of $8,467.
+[38] Each party shall bear their own costs.
+Signed at Toronto, Ontario this 22nd day of April 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 216
+COURT FILE NO.: 2008-4049(IT)I
+STYLE OF CAUSE: ROSARIO MARTORELLI and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: April 7, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: April 22, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Erin Strashin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In the reply, the respondent relied on paragraph 8(1)(h) and not (h.1). Although this reference is incorrect, no unfairness has resulted because the relevant parts of the two provisions are virtually identical.

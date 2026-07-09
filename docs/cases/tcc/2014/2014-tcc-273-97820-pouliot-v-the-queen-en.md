@@ -1,0 +1,343 @@
+---
+title: "Pouliot v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/97820/index.do"
+last_modified: "2014-09-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 273"
+citation2: ""
+neutral_citation: "2014 TCC 273"
+decision_date: "2014-09-30"
+language: "en"
+item_id: "97820"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5170
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:32:50.425000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f024cd8307fd93926bb1257c1f120e7bba27f281d240ee0a82653c5d62df70ad"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pouliot v. The Queen
+
+- Citation: 2014 TCC 273
+- Decision date: 2014-09-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5170, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pouliot v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-09-30
+Neutral citation
+2014 TCC 273
+File numbers
+2011-2481(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2481(IT)G
+BETWEEN:
+JEAN-CLAUDE POULIOT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on December 12, 2013, at Quebec City, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne-Marie Boutin
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2000, 2001, 2002 and 2003 taxation years are allowed and the matter is referred back to the Minister for reconsideration and reassessment on the basis that
+- the appellant’s income must be reduced by the following amounts:
+2000
+2001
+2002
+2003
+Not-sufficient-funds cheques (DT)
+-$13,538.21
+-$15,504.32
+-$27,277.00
+-$12,762.78
+ATM refunds
+-$213.60
+-$5,936.30
+-$1,679.00
+- the appellant received the following taxable benefits:
+Taxable benefit
+$21,471
+$23,026
+$19,689
+none
+Costs are awarded to the respondent.
+Signed at Ottawa, Canada, this 30th day of September 2014.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 28th day of January 2015.
+Erich Klein, Revisor
+Citation: 2014 TCC 273
+Date: 20140930
+Docket: 2011-2481(IT)G
+BETWEEN:
+JEAN-CLAUDE POULIOT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+D’Auray J.
+Background [1] The appellant’s files were audited by the Agence du revenu du Québec in respect of the 2000, 2001, 2002 and 2003 taxation years following two investigations launched by the Sûreté du Québec (SQ). The first investigation was related to keeping a bawdy house and the second followed a citizen’s complaint against the appellant regarding loan-sharking. With respect to the first investigation, a restraint order was issued, and with respect to the loan-sharking, no charges were laid against the appellant.
+[2] At the hearing, Mr. Gadreau, who was responsible for auditing the appellant’s tax files, explained why he used the alternative audit method based on deposits.
+[3] Mr. Gadreau indicated that he had used the bank deposit audit method because the appellant had kept no accounting records for his personal businesses. In addition, the amounts and the large number of the deposits in the appellant’s bank accounts did not match the income reported by the appellant. The milieu in which the appellant conducted his business activities also led Mr. Gadreau to use an alternative audit method.
+[4] During the years at issue, the appellant was the sole shareholder and director of 2320-7459 Québec inc. (2320). During the 2003 taxation year, he was also a shareholder and director of 3098-1211 Québec inc. (3098).
+[5] The corporation 2320 operated a transport business as well as a strip club in Saint‑Henri‑de‑Lévis and loaned money to individuals. The corporation 3098 operated a strip club in Shawinigan.
+[6] In his personal capacity, the appellant owned a rental property in Sainte‑Anne‑de‑Beaupré, loaned money and was an employee of 2320 and 3098.
+[7] Under subsection 490(15) of the Criminal Code, Mr. Gadreau obtained the documents seized by SQ officers during searches. The documents comprised invoices, cheque stubs, and contracts related to the transport business operated by 2320. Documents relating to loans made by 2320 were also obtained as well as documents relating to loans made by the appellant to individuals. These documents were monthly tables indicating the individual’s name, the loan date, the interest paid, the payments made and the balance remaining. However, only documents relating to the 2002 and 2003 taxation years were obtained with regard to the loans made by the appellant to individuals.
+[8] With regard to 2320, Mr. Gadreau indicated that, following a meeting with the appellant’s accountant, he gained access to that company’s complete accounting records for 2003. However, no documents were available for the other years. Mr. Gadreau also obtained the appellant’s bank statements.
+[9] Towards the end of the hearing, counsel for the respondent filed the following document as Exhibit I‑5:
+NAME:
+POULIOT JEAN CLAUDE
+SIN:
+XXX-XXX-XXX
+PERIOD:
+2000-01-01 TO 2003-12-31
+2000
+2001
+2002
+2003
+REPORTED INCOME
+Employment (gross)
+29,039.00
+31,168.00
+24,180.00
+16,989.00
+Minus: Source deductions
+-3,735.00
+-3,875.00
+-2,536.00
+-2,002.00
+Interest
+400.00
+3,870.00
+4,800.00
+Rental (gross)
+2,000.00
+Business (gross)
+7,610.00
+Other (RRSP)
+32,151.00
+3,120.00
+Dividends from 2320-7459 Qué. inc.
+12,500.00
+59,855.00
+31,163.00
+34,144.00
+30,517.00
+INCOME THROUGH AUDIT
+RECORD OF DEPOSITS
+275,545.58
+408,028.51
+341,976.11
+196,028.61
+DEDUCT:
+Transfers
+-50,310.73
+-79,127.66
+-30,326.98
+-32,283.14
+Line of credit deposits
+-4,858.89
+Loan
+-13,000.00
+Not-sufficient-funds cheques (DT)
+-13,538.21
+-15,504.32
+-27,277.00
+-12,762.78
+ATM refunds
+-213.60
+-5,936.30
+-1,679.00
+Repayment of loans by individuals
+(identified amounts)
+-167,633.50
+-61,900.74
+206,837.75
+313,182.93
+97,802.33
+87,402.95
+DISCREPANCIES:
+146,982.75
+282,019.93
+63,658.33
+56,885.95
+Unreported income
+118,011.75
+251,493.93
+36,469.33
+49,914.95
+Taxable benefit
+28,971.00
+30,526.00
+27,189.00
+6,971.00
+146,982.75
+282,019.93
+63,658.33
+56,885.95
+[10] Exhibit I-5 indicates the amounts reported by the appellant for the years at issue. The document also indicates the difference between what the appellant reported as income and the amount determined by the bank deposit audit method.
+[11] In a nutshell, the deposit method consists in adding up all of the deposits and subtracting therefrom all amounts that are not income, that is, in the appellant’s case, transfers, deposits made using the line of credit, as well as loans he took out during the years at issue. The result obtained is the income that the taxpayer should have reported according to this method.
+[12] Exhibit I-5 also shows the concessions made by counsel for the respondent following the appellant’s testimony. The first concession relates to the not-sufficient-funds cheques which had been included in the appellant’s deposits. The second concession relates to direct deposits by Loto-Québec into one of the appellant’s bank accounts.
+[13] One sees as well in Exhibit I-5 that a taxable benefit was conferred on the appellant during the taxation years at issue. According to Mr. Gadreau, the appellant received from 3098 amounts for personal use.
+[14] It can be seen from Exhibit I-5 that the appellant’s income is much higher for 2000 and 2001. The explanation for this is a lack of evidence: the appellant did not demonstrate during the audit that he had received payments in 2000 and 2001 with respect to loans that he had made to individuals. Consequently, for 2000 and 2001, unlike 2002 and 2003, Mr. Gadreau was not able to reduce the appellant’s income accordingly.
+[15] It was established in evidence that Ms. Boutin, counsel for the respondent, had repeatedly asked the appellant to provide her with documents establishing the loans he made in 2000 and 2001 and the payments relating thereto. No documents were provided to Ms. Boutin by the appellant. At the hearing, the appellant filed no documents showing the existence of loans in 2000 and 2001 and the amounts collected on the loans.
+[16] Indeed, the appellant submitted no documents at all at the hearing; he relied on the documents submitted by the respondent to argue that the assessment made by the Minister of National Revenue (Minister) was incorrect.
+[17] The Minister’s assessments of the appellant for the 2000 and 2001 taxation years were made after the normal reassessment period. Thus, the assessments in respect of those years will be confirmed by this Court only if the respondent proves that the appellant made a misrepresentation that was attributable to neglect, carelessness or wilful default or committed fraud in filing his tax returns for those years.
+[18] The Minister also imposed on the appellant penalties under subsection 163(2) of the Income Tax Act (ITA). The penalties will be upheld in these appeals if the respondent proves that the appellant knowingly or under circumstances amounting to gross negligence made a false statement or omission in his tax returns.
+Facts [19] During the years at issue, the appellant lived in Saint-Malachie, which is located about 20 minutes from Lévis. The appellant operated, personally or through corporations, a number of strip clubs, namely, Le Crystal in Saint‑Henri‑de-Lévis, Le Peter-Laine in Cap-de-la-Madeleine, Le Paradis in Mercier and La Halte in Shawinigan, and the disco Billy’s in Sainte‑Marie‑de‑Beauce.
+[20] Given his criminal record, the appellant could not obtain a liquor licence. The licence was obtained by a person he knew, to whom the appellant paid a consideration for obtaining and holding the liquor licence. The same was true for the Loto-Québec video poker machines: as the appellant could not obtain the licences, someone else obtained them and the appellant paid a consideration to that person.
+[21] In addition to operating a strip club, 2320 operated a transport business and loaned money. The appellant explained that 2320 made loans to people who did not have the funds needed to start a business. For example, 2320 loaned $20,000 to Fernand Lafond so that he could start his own transport business. The appellant had little involvement in that transport business; however, he was and remained Mr. Lafond’s partner until his loan, or a large part of it, was repaid. Thus, 2320 received $500 per week from Mr. Lafond, and that amount increased to $1,000 per week when the company bought a second truck.
+[22] During the years at issue, the appellant also loaned money to individuals in his personal capacity. In addition, the appellant also held a rental property in Ste‑Anne‑de‑Beaupré.
+[23] According to the appellant, the respondent did not take into account the fact that several of those loans were not repaid to him.
+[24] The appellant indicated that he also transported dancers from one club to another. He indicated that he was reimbursed by 3098 for these trips. Mr. Gadreau did not believe the appellant’s version and included in his income for the 2000, 2001, 2002 and 2003 taxation years, as a taxable employee benefit, the amounts received by the appellant from 3098.
+[25] During the years at issue, the appellant also invested in a Ponzi scheme. He explained that he had borrowed money from members of his family to invest in the scheme. He claims that his income should be reduced by the amounts of those loans.
+[26] With respect to the T4 slips that the appellant received from 2320 and 3098, he indicated that they were issued following the recommendation of his accountant, who determined whether it was advantageous, from a taxation standpoint, for the appellant to report employment income. This was done at the end of the fiscal year, when the appellant’s tax returns were being prepared.
+[27] Thus, according to the tax returns (Exhibit I-6), the appellant’s sources of income were as follows: employment (2000, 2001, 2002 and 2003), interest (2000, 2001 and 2003), dividends (2002), rental (2000) and business (2003).
+Analysis [28] The appellant put forward several arguments that have no bearing on the bank deposit audit method. For example, he argued that he suffered losses as a result of loans that he made to individuals. He indicated that he had not reported the losses in his tax returns and asserts that the Court must now take them into account. As I have already explained in these reasons, the bank deposit audit method consists simply in taking into account deposits as a source of income and deducting therefrom amounts that artificially inflate those deposits. Thus, the losses suffered are irrelevant for the purposes of computing income by that method.
+[29] I will therefore deal only with the arguments advanced by the appellant that can have an impact on the assessments.
+[30] The appellant argues as follows:
+(a) His income must be reduced by the amounts he borrowed from his family members to invest in a Ponzi scheme.
+(b) The large number of deposits in his personal bank accounts reflects cheque kiting transactions and his income should be reduced accordingly.
+(c) The “DIs”, that is, direct deposits from Loto-Québec, are not income.
+(d) His income must be reduced by the amounts of the cheques he cashed for his employees and some of his clients, which he deposited in his bank accounts.
+[31] The appellant’s testimony shows that he did not distinguish between his personal affairs and the operations of the corporations. Money circulated between the corporations’ bank accounts and his personal bank accounts, without accounting entries to reflect the transactions. For example, the appellant indicated that, to replenish the video poker machines, he took money from wherever there was any, that is, sometimes from the corporations’ bank accounts and sometimes from his personal accounts.
+[32] Another example of the blurring of the line between the corporations’ bank accounts and the appellant’s personal bank accounts is seen in the appellant’s borrowings from his family members to invest in a Ponzi scheme.
+Loans obtained by the appellant from his family members to invest in a Ponzi scheme [33] The appellant argued that his income should be reduced by the amount of these loans. The appellant allegedly borrowed from his family members $331,050 in 2002 and $63,306 in 2003.
+[34] The respondent led evidence establishing that the amounts relating to the loans had all been deposited in 2320’s bank account, except for an amount of $13,000 for the 2002 taxation year. The respondent established that the $13,000 was subtracted from the appellant’s income for the 2002 taxation year, as shown by Exhibit I-5.
+[35] Thus, the appellant’s argument does not stand up; the loans have no impact on the appellant’s income. The evidence showed that the amounts in question were not deposited in the appellant’s personal bank accounts, but in 2320’s bank account.
+Cheque kiting [36] The appellant explained that he had to have access to cash at all times. Thus, to replenish the video poker machines and private ATMs installed in the various clubs that he managed, the appellant practised cheque kiting.
+[37] The appellant deposited, at an ATM, a cheque from bank A in his bank account at bank B. Then, again at an ATM, he withdrew the amount of the cheque from account B even if he did not have the necessary funds in his bank account at bank A. Two or three days later, he deposited the amount in his bank account at bank A. This practice enabled the appellant to take advantage of the cheque-clearing time lag. Thus, the appellant gained two or three days during which he could have at his disposal money that he did not have. Using this method with several bank accounts, the appellant created a system, which, although illegal, enabled him to have access to cash at all times.
+[38] The appellant argues that those transactions were not true deposits; accordingly, they should not be included in his income.
+[39] Regarding that, Ms. Boutin indicated that before the hearing she had asked the appellant to perform a reconciliation in order to prove that, in the two- or three-day interval, deposits were made followed by a withdrawal and another deposit. If the appellant had proven the cheque kiting transactions, Ms. Boutin would have reduced his income by the amount of those transactions. However, the appellant provided nothing to Ms. Boutin before the hearing, and at the hearing he did not identify any kiting transactions in his bank accounts.
+[40] Assuming that the appellant would not carry out the exercise, Ms. Boutin did it for him: she analyzed the amounts deposited, withdrawn and redeposited. She could not identify any cheque kiting transactions. I also did the exercise with the documents filed and was unable to identify any kiting transactions. I am not questioning the appellant’s testimony with regard to the cheque-kiting transactions; it is possible that they were carried out through the bank accounts of the corporations. Thus, in light of the evidence, the appellant’s argument regarding cheque kiting is rejected.
+Paycheques cashed by the appellant
+[41] The appellant also argued that he frequently cashed employees’ paycheques and occasionally those of clients and that his income should therefore be reduced to reflect those deposits. However, the appellant indicated no amounts and submitted no documentary evidence regarding this. Accordingly, for lack of evidence, this argument of the appellant’s is rejected.
+Taxable benefits
+[42] The respondent maintains that the appellant received from 3098 the amounts indicated below as reimbursements of personal expenses. Accordingly, the Minister assessed him for those amounts, namely:
+$28,971 for the 2000 taxation year;
+$30,526 for the 2001 taxation year;
+$27,189 for the 2002 taxation year;
+$6,971 for the 2003 taxation year.
+[43] The appellant argues that those amounts were reimbursed to him by 3098 because he had transported dancers between the various clubs. He indicated that he occasionally paid someone to replace him for this.
+[44] Mr. Gadreau explained that, during the audit of 3098, he had found among 3098’s documents travel logs prepared by the appellant and provided by him to 3098. Those travel logs show the date the dancers were transported, the number of kilometres travelled and the amount paid to the appellant by 3098.
+[45] The travel logs indicate that the appellant travelled 374,638 kilometres transporting dancers over a period of four years. Assuming that the appellant was not just transporting dancers but also had to manage the clubs, Mr. Gadreau concluded that it was physically impossible for the appellant to have logged so many kilometres.
+[46] In light of the evidence, I am of the view that the appellant transported dancers between the various clubs. That said, the deductions claimed by the appellant for transporting the dancers are excessive. On average, a person drives 15,000 kilometres per year. If I double this number to 30,000, the transportation expenses will be $7,500[1] for each of the years at issue. The difference will remain a taxable benefit, that is, $21,471 for the 2000 taxation year, $23,026 for the 2001 taxation year and $19,689 for the 2002 taxation year.
+Assessment after the normal reassessment period under subsection 152(4) of the ITA
+[47] In light of the evidence, I am of the view that the Minister could assess the appellant after the normal reassessment period. The appellant misrepresented the facts. In not making sure that all of his income was reported, he was negligent.
+[48] For example, the appellant worked for all of the companies, but the appellant’s accountant chose, with the appellant’s implicit consent, the company or companies that would issue T4 slips; thus, the company or companies that would benefit more from the salary expenses were chosen to issue the T4s. I quote in this regard the following excerpt from the transcript at pages 127 to 129:
+[Translation]
+Ms. BOUTIN: Okay. All right.
+Now, why the T4s?
+Mr. POULIOT: Because, according to my accountant ... don’t ask me why I made T4s. As far as I know, the accountant manages this as best he can with what he knows. So he just told me, “Jean-Claude, we’re going to report an income for you”. He puts everything together, at the end of the year. Personally, I never know what I’ll earn. I know more or less.
+In fact, I do this to have capital one day. It’s not the right way to do it, but anyway. So I never know how much I’m going to earn beforehand. The accountant, at the end of the year, he looks at the tax returns. He does the companies, and then me, I’m always last.
+JUSTICE D’AURAY: But that’s employment income. It’s because he says that you work for Peter Laine.
+Mr. POULIOT: Definitely, yes, just like I work for all of them, except, how much he is going to put in Peter Laine, how much he is going to put in Bar la Halte, I have no idea. I don’t know. He does that at the end of the year. “Okay, we’re going to give you a T4 of so much. You earned so much this year.” All right. “Now we’re going to put some in the other company too because it’s ... I won’t tell you the reasons why because I don’t know them … so he balances with an income that makes sense, how much I earned from this or that company. How much you took out of this or that company. With what you took in mileage, what your mileage was. He said it like that.
+But it’s not me who does my tax returns. I have no idea … well, it’s not that I have no idea what you’re saying. That’s not true. But the accountant adjusts it according to a lifestyle, with ... He adjusts it ... not as he wishes, but in the way that makes sense.
+Ms. BOUTIN: It was the same accountant for all of your corporations, for your personal tax returns as well?
+Mr. POULIOT: Yes.
+Penalties under subsection 163(2) of the ITA
+[49] With respect to the penalty under subsection 163(2), I am of the view that the respondent has discharged her burden and proven that the appellant knowingly, or under circumstances amounting to gross negligence, made a false statement or omission in his tax returns.
+[50] The Federal Court of Appeal stated in Lacroix v. The Queen, 2008 FCA 241, that the Minister discharges her burden of proof under subsection 163(2) of the ITA if she shows that the taxpayer received income that he has not reported and that his explanations regarding the discrepancy between his reported income and the income assessed are not credible. In that regard, Justice Pelletier wrote the following in a unanimous judgment, at paragraph 32 of his reasons:
+[32] . . . There may be circumstances where the Minister would be able to show direct evidence of the taxpayer’s state of mind at the time the tax return was filed. However, in the vast majority of cases, the Minister will be limited to undermining the taxpayer’s credibility by either adducing evidence or cross-examining the taxpayer. Insofar as the Tax Court of Canada is satisfied that the taxpayer earned unreported income and did not provide a credible explanation for the discrepancy between his or her reported income and his or her net worth, the Minister has discharged the burden of proof on him within the meaning of subparagraph 152(4)(a)(i) and subsection 162(3).
+[51] The Federal Court, Trial Division, ruled as follows regarding gross negligence in Venne v. Canada (M.N.R.), [1984] F.C.J. No. 314 (QL), [1984] C.T.C. 223, 84 DTC 6247:
+(4) Imposition of penalties - As noted earlier, in order for the defendant to levy penalties under subsection 163(2) of the Income Tax Act it is necessary that the taxpayer have “knowingly, or under circumstances amounting to gross negligence . . . participated in, assented to or acquiesced in the making of” a false statement in a return, etc. . . .
+. . .
+. . . “Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. . . .
+[52] At the hearing, the appellant was unable to credibly explain the discrepancies between the income he reported and the income determined in the assessments. In addition, these discrepancies are significant even after the concessions made by the respondent.
+[53] In reporting his income, the appellant showed such a degree of negligence that it is tantamount to an indifference as to whether the law is complied with or not, as stated in Venne.
+Conclusion
+[54] Accordingly, the appeals are allowed on the basis that
+- the appellant’s income must be reduced by the following amounts:
+2000
+2001
+2002
+2003
+Not-sufficient-funds cheques (DT)
+-$13,538.21
+-$15,504.32
+-$27,277.00
+-$12,762.78
+ATM refunds
+-$213.60
+-$5,936.30
+-$1,679.00
+- the appellant received the following taxable benefits:
+Taxable benefit
+$21,471
+$23,026
+$19,689
+none
+[55] Costs are awarded to the respondent.
+Signed at Ottawa, Canada, this 30th day of September 2014.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 28th day of January 2015.
+Erich Klein, Revisor.
+CITATION:
+2014 TCC 273
+COURT FILE NO.:
+2011-2481(IT)G
+STYLE OF CAUSE:
+JEAN-CLAUDE POULIOT v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Quebec City, Quebec
+DATE OF HEARING:
+December 12, 2013
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+September 30, 2014
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Anne-Marie Boutin
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The appellant claimed $0.25 per kilometre.

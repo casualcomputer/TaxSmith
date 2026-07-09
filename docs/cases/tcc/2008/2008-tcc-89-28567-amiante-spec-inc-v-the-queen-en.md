@@ -1,0 +1,399 @@
+---
+title: "Amiante Spec Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28567/index.do"
+last_modified: "2008-04-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 89"
+citation2: ""
+neutral_citation: "2008 TCC 89"
+decision_date: "2008-04-29"
+language: "en"
+item_id: "28567"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1100
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:17:03.742000+00:00"
+cases_cited_count: 4
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a21e7a76f16b3619a95553e04b5338020bad073336e7e6e9010d016ade6a568e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Amiante Spec Inc. v. The Queen
+
+- Citation: 2008 TCC 89
+- Decision date: 2008-04-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1100, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Amiante Spec Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-29
+Neutral citation
+2008 TCC 89
+File numbers
+2004-1236(GST)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-1236(GST)G
+BETWEEN:
+AMIANTE SPEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 15, 16. 17 and 18, 2007,
+and June 11, 12 and 13, 2007, at Montréal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Jean Groleau
+Jacques Plante
+Counsel for the Respondent:
+Benoît Denis
+____________________________________________________________________
+JUDGMENT
+The appeal from the notice of assessment issued to the Appellant on June 27, 2003, and bearing the number 03409693, for the period from November 1, 1998, to February 28, 2002, is dismissed, with costs, for the attached reasons.
+Signed at Ottawa, Canada, this 27th day of March 2008.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 7th day of May 2008.
+Brian McCordick, Translator
+Citation: 2008TCC89
+Date: 20080327
+Docket: 2004-1236(GST)G
+BETWEEN:
+AMIANTE SPEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal against a notice of assessment issued to the Appellant on June 27, 2003, and bearing the number 03409693, for the period from November 1, 1998, to February 28, 2002 (hereinafter "the assessment").
+[2] By the assessment, the Minister of Revenue of Quebec, acting on behalf of the Minister of National Revenue (both shall be collectively referred to as "the Minister") added $139,791.69 in net tax and imposed a penalty of $56,059.69 under sections 280 and 285 of Part IX of the Excise Tax Act, R.S.C., c. E‑15, as amended ("the Act"). Lastly, the Minister demanded $14,012.61 in net interest under paragraph 280(1)(b) of the Act.
+[3] The net tax amount of $139,791.69 is attributable in part to $128,281.41 in input tax credits (ITCs) that the Appellant claimed in respect of supplies made by subcontractors for an amount equal to the Goods and Services Tax (GST) that the Appellant paid on those supplies.
+[4] The remaining $11,510.28 in net tax is attributable to disallowed ITCs, which the Appellant, following the production of admissions at the commencement of the hearing, is no longer contesting.
+[5] The Appellant is a corporation duly incorporated under Part 1A of the Companies Act, R.S.Q., c. C‑38. Its business consists in removing asbestos fibres and installing insulation in buildings.
+[6] The Appellant is duly registered under the Act. Its registration number is 140 392 515.
+[7] During the period covered by the assessment, the Appellant's shareholders were Giovanni Spiridigliozzi, Pietro Truschetta and Rocco Dimilo, each of whom owned one-third of the shares.
+[8] The Appellant regularly used the services of subcontractors as part of its operations.
+[9] The Appellant alleges that it was the recipient of the following supplies, among others, from certain subcontractors:
+(a) rental and setup of platforms that enabled the Appellant's employees to remove asbestos fibres from certain buildings and/or install insulation therein;
+(b) cleaning work at the sites; and
+(c) professional accounting services.
+[10] The Appellant alleges that, between November 1, 1998, and February 28, 2002 ("the period in issue"), the subcontractors made supplies received by the Appellant, and that the Appellant paid the following consideration therefor:
+(a) Construction Des Forges Inc. $150,859.75
+(b) 9085-6329 Québec Inc. (Systèmes intérieurs modernes) $99,500.00
+(c) Échafaudages Unic Inc. $20,737.50
+(d) 3587991 Canada Inc. (Gestion St-Martin - Concorde) $301,775.00
+(e) 9092-0638 Québec Inc. (Les Grands Travaux JJB) $97,570.00
+(f) 9088-5518 Québec Inc. (Chomedey Métal-IK) $165,715.00
+(g) 9104-0667 Québec Inc. (Construction Carnaval) $569,000.00
+(h) Poliquin et associés $361,435.00
+(i) Leonardo Canzeri $51,000.00
+(j) 9085-5925 Québec Inc. $15,000.00
+Total $1,832,592.25
+[11] During the period in issue, the GST that the Appellant paid to the various subcontractors in respect of this consideration totalled $128,281.41.
+[12] Upon filing its various returns contemplated in section 228 of the Act for the period in issue, the Appellant claimed ITCs under section 169 of the Act in respect of supplies made by the subcontractors listed in paragraph 10. The amount of those ITCs was equal to the GST paid.
+[13] Following a routine audit of the Appellant's taxes, the Ministère du Revenu du Québec auditor disallowed the ITCs claimed in respect of the period in issue because the subcontractors' invoices appeared to be invoices of convenience. In her determination, the subcontractors referred to above at paragraph 10 provided no services to the Appellant. In addition, she noticed that, in most cases, the subcontractors cashed the Appellant's GST cheques at currency exchange offices (where cheques are cashed at a discount).
+[14] According to the auditor, the audit began in December 2001, and a draft assessment was issued to the Appellant's representatives on May 28, 2002 at a meeting attended, inter alia, by Mr. Spiridigliozzi (the president and a shareholder of the Appellant) and by Mr. Bodnar of Samson Bélair.
+[15] Another meeting with the Appellant's representatives, including Mr. Bodnar, Mr. Spiridigliozzi, Mr. Truschetta (a director and shareholder of the Appellant) and Mr. Bodnar and Mr. Perreault of Samson Bélair, was held on July 3, 2002.
+[16] Since false documents purporting to be issued by the Commission de la construction du Québec (CCQ) and the Quebec workers' compensation board (CSST) were submitted by the Appellant's representatives at the meeting of July 3, 2002, the file was referred to the special investigations division on August 31, 2002.
+[17] The special investigations division returned the file to the audit unit on June 12, 2003 without any significant results, and the assessment was issued on June 27, 2003.
+Leonardo Canzeri
+[18] The disallowed ITCs total $3,570. They were disallowed because the invoices were invoices of convenience and because the tax registration numbers therein were invalid and belonged to other businesses. The GST number that had belonged to Mr. Canzeri since October 24, 1995 (140946039) was cancelled on November 30, 1996. Mr. Canzeri reported no tax amounts, and no income from the Appellant was reported in his income tax returns.
+[19] In his testimony, Mr. Spiridigliozzi explained that the Appellant used Mr. Canzeri's cleaning services at job sites for many years. The costs of his services were not governed by the construction decree at the time. Mr. Spiridigliozzi admitted that he prepared the invoice produced as Exhibit A‑1, tab 126 by hand, but said that the invoice was signed by Mr. Canzeri. In addition, the invoice does not contain the Appellant's name.
+[20] The Respondent claims that Mr. Canzeri's invoice is not an acceptable exhibit because it does not contain the name of the recipient of the services and because the GST number therein is invalid and not in force.
+Poliquin et associés
+[21] Poliquin et associés is a bookkeeping and accounting firm that began to provide accounting services to the Appellant in 1998.
+[22] The Appellant claims to have entered into subcontracts with Poliquin et associés for cleaning and maintenance work. This process supposedly enabled the Appellant to save labour costs. Instead of employing people who were paid construction industry wages, the subcontractor could hire people who were paid the minimum wage.
+[23] The contracts entered into with Poliquin et associés are as follows:
+Date
+Project
+Cost
+(before tax)
+(a)
+January 25, 1999
+Hôtel-Dieu de Saint‑Hyacinthe
+Phase II, A Wing
+$6,500
+(b)
+February 1, 1999
+Hôtel-Dieu de Saint-Hyacinthe
+$9,800
+Berri Metro
+$9,985
+Ministère des transports
+(Ormstown)
+$3,500
+(c)
+March 1, 1999
+Bell Canada
+200 Bouchard
+Dorval
+Phase 1
+Phase 2
+$14,500
+$6,000
+(d)
+April 5, 1999
+Lantic Sugar
+CLSC Hochelaga
+Labatt Phases I and II
+Hydro-Québec
+$6,000
+$16,500
+$11,500
+$2,500
+(e)
+no contract
+(invoice of
+April 19, 1999)
+Hôtel-Dieu de Saint-Hyacinthe
+$44,000
+(f)
+no contract
+(invoice of
+May 26, 1999)
+Radio‑Canada (CBC)
+$51,500
+(g)
+no contract
+(invoice of
+July 30, 1999)
+Collège de l'Assomption
+$53,500
+(h)
+no contract
+(invoice of
+Nov. 25, 1999)
+Radio-Canada (CBC)
+Studio 48
+Studio A48
+$32,000
+$31,000
+(i)
+no contract
+(invoice of
+Dec. 11, 1998)
+Accounting only
+$11,650
+(j)
+no contract
+(invoice of
+January 3, 2000)
+Hôtel-Dieu de Saint-Hyacinthe
+$51,000
+[24] All the work referred to above was paid for by cheques made out to René Poliquin. The cost of the work described in the preceding paragraph totals $361,435 and the amount of GST billed by Poliquin et associés to the Appellant totals $25,300.45.
+[25] René Poliquin testified, producing an affidavit dated July 3, 2002 (Exhibit A‑23, page 16) in which he confirmed that (a) he billed the Appellant for a total of $361,435, including $25,300.45 in GST, from December 11, 1998, to November 23, 1999; (b) he collected all the invoiced amounts from the Appellant; (c) he subcontracted all the work to Entretien et Réparation J.I.M.; (d) he was billed by Entretien et Réparation J.I.M. for amounts equal to the amounts collected from the Appellant and he paid the said amounts to Entretien et Réparation J.I.M.; and (e) he dealt with Janal (JIM) Belmadil.
+[26] The copies of the invoices issued by Entretien et Réparation J.I.M. to René Poliquin, and the invoices issued by René Poliquin to Entretien et Réparation J.I.M. for a 5% commission on the amount of each contract, were produced together as Exhibit A‑23.
+[27] There are no GST amounts on René Poliquin's invoices to the subcontractor because the total amount billed was less than $30,000.
+[28] The Respondent submits that René Poliquin's invoices to the Appellant are not acceptable exhibits because the GST number stated therein was invalid.
+[29] The Appellant submits that even though René Poliquin was not a GST registrant, he was still required to collect GST and remit it to the Minister.
+9085-5925 Québec Inc.
+[30] The relevant invoice is a $15,000 invoice dated April 20, 2000, for temporary protective materials at the Pav. J. Daoust, Lester B. Pearson and G. Vignal schools. The GST collected was $1,050. The subcontractor was a GST registrant with a valid registration number.
+[31] The Respondent submits that this was an invoice of convenience because the tax return for the period of February 11 to December 31, 2000, reports no tax collected or remitted. Moreover, the subcontractor produced a return showing no source deductions, but did not file a Quebec tax return and was not registered with the CCQ.
+Échafaudage Unic Inc.
+[32] This invoice for $20,737.50 (not including tax) dated August 15, 2000, is for scaffolding on a work platform in a stairwell at Hôpital Lindsay. The ITC claim amounts to $1,451.63.
+[33] The Appellant paid this invoice by cheque dated August 16, 2000, cashed at the Centre d'encaissement Champion Inc.
+[34] The subcontractor was a GST and QST registrant but its return for August refers solely to an invoice for $1,461.13 and a tax amount of $484. The subcontractor did not file any source deductions return, nor did it file any Quebec income tax return for the year 2000.
+[35] According to the records of the Société d'assurance automobile du Québec (SAAQ) the subcontractor owned two vehicles, including a heavy truck, while the CCQ's records state that there were no reported contracts between the Appellant and the subcontractor.
+9092-0638 Québec Inc. (Les Grands Travaux J.J.B.)
+[36] Two invoices involving the subcontractor are being challenged. The first invoice, dated October 31, 2000, in the amount of $3,070 (not including taxes) is for the rental of scaffolding materials and equipment, including the installation and disassembly of scaffolding for a Hydro-Québec project in Tracy. The ITCs claimed amount to $214.90.
+[37] The second invoice, dated October 23, 2000, is for $83,960 (not including taxes) for equipment rental and transportation costs for the I.O.C. project in Sept-Îles.
+[38] The ITCs claimed in respect of these two invoices total $6,829.90.
+[39] The Appellant paid the invoice for the Hydro-Québec work by means of a cheque dated December 11, 2000, in the amount of $7,062.54. The cheque, which was cashed at Centre d'encaissement Champion Inc., also covered an invoice that was accepted.
+[40] The Appellant paid the invoice for the work at I.O.C. by means of two cheques: the first one, in the amount of $76,089.04, is dated October 28, 2000; and the second, in the amount of $32,609.59, is dated December 19, 2000. Both cheques were cashed at Centre d'encaissement Champion Inc.
+[41] Based on the computer records of the Ministère du Revenu du Québec, this subcontractor filed no sales tax, source deduction or provincial income tax returns for the period from August 21, 2000 to February 28, 2002. Based on the SAAQ's records, no vehicles were registered under this subcontractor's name.
+9085-6329 Québec Inc. (Systèmes intérieurs modernes)
+[42] The invoice for this subcontractor is dated August 28, 2000, and is for $99,500 (not including taxes). It refers to temporary protection for five floors during Phase 4 of the Hôpital Hôtel-Dieu de Saint-Hyacinthe project. The ITCs claimed in respect of the invoice total $6,965.00.
+[43] The Appellant paid the aforementioned invoice by cheque dated August 31, 2000, which was cashed at a cheque-cashing centre.
+[44] According to the computer records of the Ministère du Revenu du Québec, the CCQ and the SAAQ,
+(a) this subcontractor filed a sales tax return late in April 2000;
+(b) this subcontractor filed source deduction returns reporting no deductions for February, March or April 2000, and minimal amounts for June ($397) and August ($628) but did not file any returns for May, July, September, October or November 2000;
+(c) this subcontractor did not file any Quebec income tax return;
+(d) this subcontractor has no vehicle registered under its name with the SAAQ; and
+(e) no contract between this subcontractor and the Appellant was reported to the CCQ.
+Construction Des Forges Inc.
+[45] A contract dated June 25, 2000, was entered into with this subcontractor for the supply of all the labour and materials for a variety of work at Hôpital Lindsay.
+[46] The invoice pertaining to this work was for $98,989.75 (not including taxes) and the ITCs claimed in respect of the invoice are $6,929.28.
+[47] The Appellant paid the invoice by cheque in the amount of $113,862.96 dated August 28, 2000, and the cheque was cashed at Centre d'encaissement Champion Inc.
+[48] A second invoice from this subcontractor, dated May 8, 2000, was tendered in connection with the installation of a temporary platform at Centre d'éducation des adultes Le Moyne at a cost of $20,370.00. The ITCs claimed in respect of this invoice are $1,425.90.
+[49] The Appellant paid the invoice concerning the work at Centre d'éducation des adultes Le Moyne by means of a cheque in the amount of $23,430.59 dated August 5, 2000, which was not cashed at a cheque-cashing business.
+[50] A third invoice from this subcontractor, dated May 18, 2000, was produced in relation to the installation of a temporary platform at École St‑Zotique at a cost of $31,500 (before taxes). The ITCs claimed in respect of this invoice total $2,205.00.
+[51] The invoice concerning the work at École St-Zotique was paid by means of a certified cheque in the amount of $36,232.88, dated May 24, 2000.
+[52] The ITCs disallowed in respect of this subcontractor's three invoices total $10,560.18.
+[53] According to the computer records of the Ministère du Revenu du Québec, the CCQ and the SAAQ, this subcontractor
+(a) was a GST registrant but did not file any sales tax return for the period from April 1, 2000, to October 1, 2000 (the date that its tax number was cancelled);
+(b) did not file any source deduction return for the year 2000;
+(c) did not file any Quebec income tax return for the years 2000 or 2001;
+(d) did not report any contracts with the Appellant to the CCQ; and
+(e) used to vehicles on long-term lease.
+9088-5518 Québec Inc. (Chomedey Métal – IK)
+[54] The invoice from this subcontractor, dated June 25, 2001, was for the supply of a platform and the assembly and disassembly of that platform at the facilities of the Armstrong company.
+[55] The invoice for the work done for Armstrong was for $165,715.00 (not including taxes) and the ITCs claimed in respect of this invoice total $11,600.00.
+[56] The Appellant paid this invoice by cheque in the amount of $190,613.67, dated July 30, 2001, cashed by Jean‑Jacques Blouin at a cheque-cashing centre.
+[57] According to the computer records of the Ministère du Revenu du Québec, the CCQ and the SAAQ,
+(a) this subcontractor was incorporated on March 8, 2000, and existed until May 10, 2001, at which time it merged with another company, which was struck off the record on May 16, 2001;
+(b) it was a GST registrant until May 10, 2001, at which time its GST number was cancelled, and it never filed any GST returns;
+(c) it filed no source deduction returns;
+(d) it never filed a Quebec income tax return;
+(e) the CCQ's reports dated April 29, 2001 and May 26, 2001 contain no reference to a contract between the Appellant and this subcontractor; and
+(f) it did not obtain a certificate of compliance from the CSST, and the letter of July 30, 2001 that was produced was a forgery.
+3587991 Canada Inc. (Gestion St-Martin – Concorde)
+[58] This subcontractor issued 11 invoices to the Appellant between June 6 and July 14, 2000, for the supply of labour, materials and transportation, and for the installation and dismantling of a temporary work platform:
+Date
+Project
+Cost
+(before taxes)
+(a) June 6, 2000
+(work order dated May 18, 2000)
+Riverdale School
+$39,900
+(b) June 15, 2000
+(work order dated June 15, 2000)
+Radio-Canada Studio 42
+$81,795
+(c) June 29, 2000
+(work order dated June 26, 2000)
+C.V.R. High School Ormstown
+$18,000
+(d) July 5, 2000
+(work order dated June 28, 2000)
+LaurinHill Academy
+St‑Laurent
+$20,475
+(e) July 11, 2000
+(work order dated July 3, 2000)
+École Hubert-
+Maisonneuve
+Rosemère
+$9,450
+(f) July 11, 2000
+(work order dated July 3, 2000)
+École le Rucher
+Bois-des-Filion
+$9,450
+(g) July 11, 2000
+(work order dated July 5, 2000)
+École des Moissons
+Ste-Anne-des-Plaines
+$20,475
+(h) July 11, 2000
+(work order dated July 5, 2000)
+Hôpital Lindsay
+$23,625
+(i) July 7, 2000
+(work order dated July 31, 2000)
+École l'Assomption
+Granby
+$32,000
+(j) July 14, 2000
+(work order dated July 31, 2000)
+École St-Luc
+Granby
+$16,400
+[59] The ITCs claimed in respect of these invoices total $21,124.25.
+[60] The Appellant paid these invoices by means of cheques payable to Gestion St‑Martin-Concorde, dated August 10, 2000 (cheque-cashing business), June 16, 2000, August 28, 2000 (cheque-cashing business), September 11, 2000 (cheque cashing business), September 12, 2000 (cheque-cashing business), July 5, 2000 (cheque-cashing business), July 12, 2000 (no endorsement), July 12, 2000 (no endorsement), July 12, 2000 (no endorsement), July 12, 2000 (no endorsement), August 2, 2000 (cheque-cashing business) and August 2, 2000 (no endorsement).
+[61] According to the computer records of the Ministère du Revenu du Québec, the CCQ and the SAAQ, this subcontractor
+(a) was a GST registrant, but filed no return from July 15, 1999, to April 2000;
+(b) was not registered for employee payroll source deductions;
+(c) filed no Quebec income tax returns;
+(d) owned a 1999 Ford Windstar 1999 and had a long-term lease on another vehicle; and
+(e) filed returns with the CCQ on October 31, 1999, and April 29, 2000, but no subsequent returns.
+[62] At the meeting of July 3, 2002, discussed above at paragraph 15, the Appellant submitted false letters to the tax authorities concerning this subcontractor, purporting to be from the CCQ and containing the subject line [TRANSLATION] "Current situation at a specific site". These forgeries are dated August 3, August 24, August 22, August 21, August 22, August 21, September 6, September 6 and August 18, 2000, respectively.
+9104-0667 Québec Inc. (Construction Carnaval)
+[63] There are four problematic invoices for this subcontractor, and the disallowed ITCs total $39,830.
+[64] The first invoice is dated November 2, 2001, and pertains to the erection of a protective wall for the snack bar at 1701 Parthenais Street. The cost of the work was $19,000 (before taxes). The Appellant paid this invoice by cheque dated December 21, 2001, and that cheque was cashed at Centre d'encaissement Champion Inc. A false letter about this subcontractor, purporting to be issued by the CCQ on November 13, 2001, and containing the subject line [TRANSLATION] "Current situation at a specific site", was tendered by the Appellant on July 3, 2002, in connection with its representations.
+[65] The three other invoices pertain to the Armstrong company site, which ended on December 21, 2001. The first invoice, dated December 6, 2001, concerned work done until late November 2001. The cost of this work was $183,600 (before taxes). The Appellant paid this interim invoice by means of a cheque dated December 14, 2001, which was cashed at a cheque-cashing business.
+[66] The second invoice related to the Armstrong company site is dated January 18, 2002 and contains the reference [TRANSLATION] "Work done to date (50%)." The cost of this work was $183,200 (before taxes). The Appellant paid this interim invoice by cheque dated January 16, 2002, and that cheque was cashed at a cheque-cashing business on January 17, 2002.
+[67] The third and last invoice concerning the Armstrong company site is dated February 15, 2002, and refers to work done to date (100%). The cost of this work is $183,200 (before taxes). The Appellant paid this last invoice by cheque dated February 18, 2002, and that cheque was cashed at a cheque-cashing business.
+[68] According to the computer records of the Ministère du Revenu du Québec, the CCQ and the SAAQ, this subcontractor
+(a) filed no GST returns;
+(b) was not registered with the MRQ for source deductions and remitted no source deductions from the wages paid to its employees;
+(c) filed no Quebec income tax return;
+(d) had no vehicles registered under its name; and
+(e) reported no contracts with the Appellant to the CCQ.
+[69] At the meeting of July 3, 2002, discussed above at paragraph 15, the Appellant gave the tax authorities false letters about this subcontractor, purporting to be issued by the CCQ and containing the subject line [TRANSLATION] "Current situation at a specific site". These forgeries are dated December 17, 2001, January 29, 2002, and November 13, 2001, respectively.
+[70] False certificates of compliance, purporting to be issued by the CSST in respect of this subcontractor, were also submitted to the tax authorities at the meeting of July 3, 2002, described above at paragraph 15. The false certificates are dated December 18, 2001, and February 7, 2002, respectively. They purport to certify that the subcontractor is in compliance and that the 10% holdback on the construction work can accordingly be released by the customer.
+Commission de la construction du Québec
+[71] As part of an investigation conducted by the CCQ in the fall of 2000, the Appellant had to provide the details of the costs of contracts commenced or completed between May 1 and October 31, 2000, and a list identifying the individuals and hours worked by each of the following subcontractors: Construction Des Forges Inc., Échafaudage Unic Inc., Gestion St‑Martin‑Concorde and Systèmes intérieurs modernes. Following this investigation, the Appellant settled the matter by paying the CCQ $90,000 for overtime performed by workers supplied by subcontractors and which had not been paid at the double time rate.
+Analysis
+[72] The invoices submitted by the Appellant with a view to claiming the ITCs were not accepted by the Minister because some of the invoices did not meet all the conditions required by the Input Tax Credit Information (GST/HST) Regulations ("the Regulations") and the Act in order to be entitled to the credit, and because the other invoices were false in that the Appellant did not truly acquire the supplies.
+[73] The audit disclosed that the cheques tendered in evidence to show payment of the invoices were negotiated at cheque-cashing businesses. This suggests that the invoices were prepared merely for the sake of convenience and were not true invoices. The audit also disclosed that the subcontractors in question did not carry on business at the places (residences or post office boxes) referred to, that certain subcontractors provided a GST registration number that did not belong to them or that was no longer in force, and that none of the subcontractors remitted source deductions or filed Quebec income tax returns. Some of the subcontractors are untraceable. Based on the foregoing, the Minister determined that these subcontractors were not capable of providing the services rendered to the Appellant because they were not engaged in any commercial activity. It was determined that, in view of the circumstances, the subcontractors could not have rendered the services for which the Appellant is claiming ITCs.
+[74] As part of its representations in response to the draft assessment, the Appellant gave the Minister false documents purporting to have been issued by the CSST and CCQ. The Appellant entered into a $90,000 settlement with the CCQ in respect of offences under applicable legislation concerning employee overtime. Lastly, certain sites where the subcontractors were to make supplies of goods or services to the Appellant were not reported to the CCQ.
+[75] The Appellant challenges the Minister's submissions, arguing that the Minister has not succeeded in showing any collusion or common intention between the Appellant and its subcontractors. The Appellant submits that there has been no proof of any fraudulent scheme to claim ITCs in respect of GST paid by the Appellant but returned to it in whatever manner.
+[76] The Appellant submits that the subcontractors provided it with services for which it was billed, because it did not have the personnel and equipment necessary to install the platforms at the sites. The Appellant refers to the testimony of Gilles Goupil and Serge Labbé, two employees of the Appellant, who confirmed that the Appellant had no platforms and that none of its employees set up platforms. The Appellant also refers to the testimony of Jocya Pellerin, an engineer with Le Groupe Solerka, who confirmed that she saw platforms at Radio-Canada's Studio 42 and at the Armstrong company site (Building 11, 2nd floor), and that of Raëd Kassawat, founding president of Le Groupe Solerka, who confirmed, in a letter, that he met with subcontractors Construction Carnaval Inc. and Chomedey Métal at the Armstrong company sites. Furthermore, the Appellant refers to the testimony of Maurice Duguay, a CSST inspector, who states, in an intervention report of October 23, 2001, that while he was at the Wilfrid-Delorme building site (a snack bar) on Parthenais Street, he met with Réal Pomerleau, who represented Échafaudage Unic, and with three of that subcontractor's workers. The Appellant refers to the testimony of Trullio Ricci of Ricci & Fils, and to a memorandum by Mr. Ricci to the Appellant, in which he states that he saw the name Gestion St-Martin on the platforms of the École Hubert‑Maisonneuve and École Le Rocher job sites and asks whether this was a subcontractor. Lastly, the Appellant refers to the testimony of Louis‑Pierre Lafortune, vice-president with Fortier Transfert Ltée, who prepared a work order for the hire of a crane and operator at the Hôpital Lindsay site in order to take down materials belonging to Construction Des Forges Inc.
+[77] The Appellant is also attacking the quality of the audit, and complains that the auditors did not verify the witnesses' accounts of the facts and did not contact the customers for more information about the subcontractors at the sites.
+[78] The burden to rebut the assumptions on which the Minister based his assessment is on the taxpayer, and the principle that the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted was clearly confirmed by the Federal Court of Appeal in Orly Automobiles Inc.v. The Queen, 2005 FCA 425.
+[79] Based on the testimonial and documentary evidence, the Appellant has not shown that the transactions referred to in the invoices were genuine services in view of the record as a whole. The shifting of the burden of proof is not justified in this case because the Appellant adduced no prima facie evidence that it was supplied with the services.
+[80] Serious allegations concerning the submission of false CCQ and CSST documents to the tax authorities taint the credibility of the Appellant and its representatives. The CCQ investigation revealed that the Appellant was not in compliance with respect to the overtime of its subcontractors' workers, for which the double time rate was not paid. The Appellant settled the matter by paying $90,000 to the CCQ.
+[81] The fact that the Appellant did not call any of the subcontractors' representatives other than Mr. Poliquin as witnesses is also very telling, and a negative inference must be drawn from this absence of important witnesses. Counsel for the Appellant explained that he could not call people who defrauded the tax authorities, and did not remit the tax amounts collected, as witnesses. Apparently, several files involving these subcontractors are under investigation.
+[82] The fact that no witnesses actually saw the installation and/or dismantling of the platforms at the sites concerned is also very troubling. The only exception is the testimony of Mr. Duguay of the CSST, who saw employees of Échafaudage Unic Inc. at the site of the snack bar at 1701 Parthenais Street setting up a platform. This information itself is problematic, because the Appellant's subcontractor for the work done at that site was Construction Carnaval, not Échafaudage Unic Inc. Was there perhaps a subcontract between those two businesses?
+[83] Certain witnesses asserted that they saw platforms at job sites. Raïd Kassawat is one such person. During his testimony, he acknowledged that the work orders that he referred to in his letter had been provided to him by the Appellant, with which he had been doing business for several years. On cross‑examination, he was unable to associate the work orders with the Armstrong building numbers on which the Appellant did work, or with the various phases of the work. Moreover, he was unable to specify exactly which representatives he met, or specify the dates or places where he met with the subcontractors. Trullio Ricci made the same assertion. An engineer whose business, Ricci & Fils, was a subcontractor of the Appellant for the removal of asbestos at École Hubert-Maisonneuve in Laval, he saw the name Gestion Saint‑Martin‑Concorde on platforms and asked, in a facsimile, whether that business was a subcontractor of the Appellant's.
+[84] The same assertion was made by Nicolaï Tchebotarev, an engineer who prepared the plans for the installation of a work platform at Radio-Canada's Studio 42. During his testimony, he confirmed (i) that he prepared the plans for Gestion Saint-Martin-Concorde Inc. at the request of Réal Pomerleau while he was a representative of Coffrage Universel; (ii) that he submitted the plans to Mr. Pomerleau and (iii) that he inspected the platform with Mr. Pomerleau. Mr. Tchebotarev said that he did not know who set up the platform.
+[85] The last person to make this assertion was Jocya Pellerin, an engineer who worked for Le Groupe Solerka, a firm whose services were retained in order to ensure that the subcontractors met the job requirements. She was the project manager at Radio-Canada's Studio 42 and at the Armstrong site. With respect to the Radio‑Canada site, she said that the Appellant's employees did not assemble the platform and that this was done by a subcontractor whose name she did not recall. She said that she was not present when the platform associated with the Armstrong sites was assembled for a project that encompassed five work zones at Building 7 and four phases at Building 11. She said that she saw only one platform in all, namely the platform on the second floor of Building 11, which was above an electrical room. In this regard, she specified that she did not see this platform being set up and that she did not know who set it up.
+[86] The fact that the vast majority of the invoices were paid with cheques that were cashed at a cheque-cashing business is another serious indication that there was a fraudulent scheme in which invoices of convenience were used in order to obtain ITCs. The Appellant's use of subcontractors with few or no commercial activities, very few assets such as vehicles, equipment or warehouses, and which had failed to file their income tax returns, sales tax returns and source deduction returns, is another important factor pointing to the existence of entities of convenience. In addition to these indicia, there is the fact that the invoices submitted to the Appellant lack details in view of the significant amounts claimed and have the same structure, and that the amounts claimed in these invoices are unreasonable in many cases having regard to the total value of the contracts between the Appellant and the customers. During his testimony, Mr. Spiridigliozzi explained that the cost of the platforms was normally 10 to15% of the total amount of the contracts. At the hearing, it was proven that the cost of the platforms was actually close to 35% of the total amount of certain contracts obtained by the Appellant.
+[87] Moreover, the ITCs claimed in respect of the invoices of Mr. Canzeri and Mr. Poliquin, and of Chomedey Métal IK, must be disallowed for technical reasons. The GST numbers on Mr. Canzeri's invoices are not valid, and the name of the recipient of the services is not provided on the invoices. The invoices of Poliquin et associés are not adequate supporting documents, because the GST number on those invoices was not valid. Lastly, the ITCs claimed in respect of the invoice of Chomedey Métal must be disallowed because that corporation ceased to exist on May 10, 2001, following an amalgamation with another corporation. The GST number of that corporation was cancelled in 2002, with effect from May 10, 2001, which is prior to the issuance of the invoice of June 25, 2001. With respect to these three subcontractors, the case law has clearly established that the requirements of section 169(4)(a) of the Act and section 3 of the Regulations are mandatory, not merely directory: Systematix Technology Consultants Inc. v. Canada, 2007 FCA 226. Where a tax number on a supplier's invoice is invalid, it cannot be considered to have been obtained for the purposes of paragraph 3(b)(ii) of the Regulations in accordance with subsection 241(1) of the Act: Alexander Nix Group Inc. v. The Queen, [2002] G.S.T.C. 100; Systematix Technology Consultants Inc. v. The Queen, 2006 TCC 277). The seven other subcontractors had valid GST registration numbers.
+[88] The facts of the instant case are very similar to those described in Les Constructions L.J.P. Inc. and Équipements S.P.M. Inc. v. The Queen, 2005 TCC 508. Even though the Minister did not show collusion, connivance or common intent between the Appellants and their subcontractors, the Court nonetheless disallowed the ITC claims because "the appellants did not show on a preponderance of the evidence that the Minister erred in determining that the suppliers in question did not genuinely render services to the appellants in exchange for payment by the appellants." (paragraph 18). Just as in the instant case, the invoices contained few details, the subcontractors were incapable of supplying the services requested because they were not engaged in any commercial activity, and the cheques adduced in evidence to show that the invoices were paid were negotiated at a cheque-cashing business, which suggests that the invoices were purely invoices of convenience.
+[89] Mr. Spiridigliozzi's testimony about the circumstances surrounding the granting of the contracts to the subcontractors was very vague. He said that he phoned one Réal Pomerleau, who represented platform assembly businesses. However, he did not specify the reasons that he did business with this representative or the manner in which this representative was paid. Mr. Pomerleau frequently changed businesses because, in the course of the period in issue, he apparently represented Construction Des Forges Inc., Gestion Saint‑Martin‑Concorde, Systèmes Intérieurs Moderne, Construction Carnaval, Échafaudages Unic Inc., Coffrage Universel, etc. This representative could, among other things, have confirmed that he saw the subcontractors' employees assemble and dismantle the platforms and transport the equipment to the sites. The fact that this important witness was absent leads me to draw the negative inference that his testimony would have been unfavourable to the Appellant's case.
+The penalties
+[90] The Minister assessed the Appellant for the penalty contemplated in section 280 of the Act, in the amount of $23,986.34, as well as the penalty contemplated in section 285 of the Act, in the amount of $32,070.35.
+[91] Since the Appellant was unable to demolish the Minister's assumptions, I have no choice but to confirm the Minister's assessment with respect to the imposition of the penalty under section 280 of the Act. The Appellant has not satisfied me that it exercised reasonable care or that it was not negligent under the circumstances.
+[92] In my opinion, the penalty under section 285 of the Act must also be confirmed. Since the subcontractors supplied no services to the Appellant and as the invoices were invoices of convenience, the Appellant must necessarily have known what was going on and have been involved in the scheme. It strikes me as absurd that the Appellant, who worked on large-scale institutional construction sites in Montréal and the surrounding areas, did not know the subcontractors with which it was doing business, except through a representative. It is also difficult for me to imagine that the Appellant placed orders with subcontractors without order forms, or with order forms that did not contain precise specifications even though the platforms had to be approved by engineers. It is also difficult for me to believe that, on sites where the safety of its employees and of the public is at stake, a contractor takes the risk of doing business with subcontractors that it does not know or that do not have the ability to carry out the work entrusted to them. It is also astonishing, considering the magnitude of the contracts, that the Appellant did not obtain bids from other companies in the field before granting the contracts to the subcontractors. For all these reasons, I am of the opinion that the Appellant, knowingly or under circumstances amounting to gross negligence in the performance of the duty contemplated in Part IX of the Act, made a false statement or omission in its net tax returns for the period in issue. Consequently, I have no choice but to confirm the Minister's assessment with respect to the imposition of the penalty under section 285 of the Act.
+[93] The appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 27th day of March 2008.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 7th day of May 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC89
+COURT FILE NO.: 2004-1236(GST)G
+STYLE OF CAUSE: Amiante Spec Inc. and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATES OF HEARING: May 15, 16, 17 and 18, 2007, and June 11, 12 and 13, 2007.
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: March 27, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Jean Groleau and Jacques Plante
+Counsel for the Respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Names: Jean Groleau and Jacques Plante
+Firm: Fraser Milner Casgrain LLP
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,159 @@
+---
+title: "Rocheleau v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29446/index.do"
+last_modified: "2008-10-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 484"
+citation2: ""
+neutral_citation: "2009 TCC 484"
+decision_date: "2008-10-02"
+language: "en"
+item_id: "29446"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6937
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:46:37.505000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8d1487401f9ca66db852e6cd87b627167ae150d8fda81f751438984afe9971be"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rocheleau v. The Queen
+
+- Citation: 2009 TCC 484
+- Decision date: 2008-10-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6937, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rocheleau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-02
+Neutral citation
+2009 TCC 484
+File numbers
+2007-516(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-516(IT)I
+BETWEEN:
+DANIEL ROCHELEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 6, 2008, at Shawinigan, Quebec
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment under the Income Tax Act for the 2002 taxation year is allowed, without costs, in accordance with the attached Reasons for Judgment, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount of the capital loss is $25,500, not $25,000.
+The Court orders the reimbursement of the $100 filing fee to the Appellant.
+Signed at Ottawa, Canada, this 2nd day of October 2009.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 17th day of November 2009.
+Brian McCordick, Translator
+Citation: 2009 TCC 484
+Date: 20091002
+Docket: 2007-516(IT)I
+BETWEEN:
+DANIEL ROCHELEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Jorré J.
+[1] In August 1999, the Appellant signed two contracts with Canada Russia Lottery Inc. (see Exhibits A-1 and A-2).
+[2] The first contract states that the Appellant [TRANSLATION] ". . . purchases from the Vendor a lottery operator's licence . . . " in St. Petersburg, Russian Federation, for $12,750 in cash. However, when the clauses of the contract are examined, it can be seen that, for a period of 10 years, the Appellant is to receive 5.5% of the gross revenues from a lottery terminal, to be installed in a place in St. Petersburg designated by the company. The company is to look after the complete installation, operation and financing. The Appellant pays only $12,750.
+[3] The second contract, attached to the first, states that the Appellant [TRANSLATION] ". . . purchases from the Vendor a guaranteed location for his terminal or licence inside a booth set up in a subway station ..." in St. Petersburg for the sum of $12,750.
+[4] The Appellant paid $25,500 in August 1999. This payment was his only contribution.
+[5] He received reports from time to time and four payments of $100 from the company. The entire project failed in 2002.
+[6] In his 2002 tax return, the Appellant claimed a $25,000 business loss on his contracts.
+[7] The Minister of National Revenue disagreed and disallowed the business loss, but did allow a $12,500 deductible capital loss.
+[8] The issue, then, is whether the loss was a business loss or a capital loss.
+[9] The Appellant claims that he acquired a licence that constitutes Class 14 depreciable property according to Schedule II of the Income Tax Regulations. Class 14 applies to "a patent, franchise, concession or licence for a limited period in respect of property, except ..." The Appellant also claims to be entitled, accordingly, to a terminal loss under subsection 20(16) of the Income Tax Act ("the ITA").
+[10] In the alternative, the Appellant claims that the loss was an eligible capital loss.
+[11] In French, Class 14 refers to "... un brevet, une concession ou un permis de durée limitée à l'égard des biens, sauf ..."
+[12] The parties cited Interpretation Bulletin IT-477 and, in particular, paragraph 11 thereof:
+11. The words "franchise, concession or licence", are not capable of easy definition. Generally, they must be given the meaning or sense in which they are normally employed by businessmen on his continent and they extend, not only to certain kinds of rights, privileges or monopolies conferred by or pursuant to legislation or by governmental authority, but also to analogous rights, privileges or authorities created by contract between private parties. Again, generally, these words are used to refer to some right, privilege or monopoly that enables the holder to carry on his business or earn income from property, or that facilitates the carrying on of his business or the earning of income from property. These words do not extend to a contract under which a person is entitled to remuneration for the performance of specified services, nor to a covenant not to compete for a limited period.
+[Emphasis added.]
+[13] What is involved here? The fact that the first contract describes the purchase transaction as a [TRANSLATION] "lottery operator's licence" does not determine the nature of the contract. We must look at the parties' obligations under the contract.
+[14] The second contract, concerning the guaranteed location, must be considered at the same time because the two contracts form a whole.
+[15] It is clear, on a comprehensive analysis, that the Appellant is not carrying on any business. Under these contracts, the Appellant makes a total contribution of $25,500, in consideration of which Canada Russia Lottery Inc. must pay the Appellant 5.5% of the gross revenue from the operation of a lottery terminal in St. Petersburg for 10 years. It is the company that must operate the terminal. This is not the acquisition of a concession or licence to carry on a business. The Appellant simply obtained the right to receive potential income.
+[16] Nor is this a right that enables the Appellant to earn income from property, though it would be such a right if, for example, he were the owner of the terminal and paid the City of St. Petersburg for the right to operate the terminal. In fact, these contracts simply provide for remuneration in exchange for financing.
+[17] This is neither a patent, a franchise, a concession[1], nor a licence.[2],[3]
+[18] As for the alternative argument, one of the conditions precedent to an eligible capital expense is that it be incurred to earn income from a business.[4]
+[19] Here, however, since the Appellant merely made a capital contribution, the income cannot be business income. It is income from property.
+[20] That cannot be an eligible capital expense.
+[21] I regret that the substance of the appeal cannot succeed.
+[22] However, the appeal is allowed to the extent of a minor correction. Although the Minister was correct in characterizing the loss in question as a capital loss, the amount must be changed from $25,000 to $25,500.
+Signed at Ottawa, Canada, this 2nd day of October 2009.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 17th day of November 2009.
+Brian McCordick, Translator
+CITATION: 2009 TCC 484
+COURT FILE NO.: 2007-516(IT)I
+STYLE OF CAUSE: DANIEL ROCHELEAU v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Shawinigan, Quebec
+DATE OF HEARING: February 6, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: October 2, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Dictionnaire de droit québécois et canadien (Reid, Hubert, 3d edition, Wilson & Lafleur, Montréal, 2004) defines the French word "concession" ["concession"] as follows:
+[TRANSLATION] n.f. 1. Contract whereby a merchant, called the licensee, obtains the exclusive right, for a specific territory and time period, to sell or distribute products that the licensee buys from a manufacturer, called the licensor. …
+2. Contract whereby the Administration, called the licensor, entrusts a person, called the licensee, with the operation of a public service for which the licensee assumes the costs in return for the right to collect a fee from users. …
+[2] The Dictionnaire de droit québécois et canadien (Reid, Hubert, 3d edition, Wilson & Lafleur, Montréal, 2004) defines the French word "permis" ["licence"] as follows:
+[TRANSLATION] n.m. 1. Authorization granted to a person by a competent authority to perform an act, conduct an activity. E.g., a driver's licence. …
+2. By extension, the document attesting to the authorization granted. E.g., a driver's licence. …
+[3] The Dictionary of Canadian Law (Dukelow, Daphne A., 3d edition, Thomson Carswell, Toronto, 2004) defines the English word "licence" as follows:
+n. 1. The permission given to do something which would otherwise be unlawful.
+2. A permit, certificate, approval, registration or similar form of permission required by law.
+3. An instrument issued conferring upon the holder the privilege of doing the things set forth in it, subject to the conditions, limitations and restrictions contained in it. …
+[4] See the beginning of the definition of "eligible capital expenditure" in subsection 14(5) of the ITA, before paragraph (a).

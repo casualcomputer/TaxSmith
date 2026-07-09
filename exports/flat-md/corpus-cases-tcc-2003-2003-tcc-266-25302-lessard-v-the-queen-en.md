@@ -1,0 +1,195 @@
+---
+title: "Lessard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25302/index.do"
+last_modified: "2003-04-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 266"
+citation2: ""
+neutral_citation: "2003 TCC 266"
+decision_date: "2003-04-14"
+language: "en"
+item_id: "25302"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2407
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:17:26.756000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "84075ef06a6412a76382df155c5b88be9fa416f3838d994fbd59f84cf3e0267f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lessard v. The Queen
+
+- Citation: 2003 TCC 266
+- Decision date: 2003-04-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2407, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lessard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-14
+Neutral citation
+2003 TCC 266
+File numbers
+2001-641(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+2001-641(IT)I
+BETWEEN:
+JOANE LESSARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on August 28, 2002, at Chicoutimi, Quebec, by
+the Honourable Judge Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Annick Provencher
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act (the Act) for the 1998 and 1999 taxation years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that, under section 63 of the Act, the appellant is entitled to deduct child care expenses for her daughter Josée for the taxation years at issue and to claim the education credit for her daughter Josée for the 1998 taxation year, the whole in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of April 2003.
+"Louise Lamarre Proulx"
+J.T.C.C.
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2003TCC266
+Date: 20030414
+Docket: 2001-641(IT)I
+BETWEEN:
+JOANE LESSARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre Proulx, J.T.C.C.
+[1] These are appeals under the informal procedure concerning the 1998 and 1999 taxation years.
+[2] There are two issues, as follows:
+(1) whether, under section 63 of the Income Tax Act ("the Act"), the appellant is entitled to deduct child care expenses for her daughter, who lives in residence at the Royal Winnipeg Ballet Professional School where she is studying ballet; and
+(2) whether, under subsection 118.6(2) of the Act, the appellant is entitled to claim the education credit.
+[3] In making the assessments, the Minister of National Revenue ("the Minister") relied in particular on the following assumptions of fact, set out in paragraph 9 of the Reply to the Notice of Appeal ("the Reply"):
+(a) the appellant has been employed for over 20 years by the corporation S.E.C.A.L., a factory in Jonquière;
+(b) the appellant has two children, a son Maxime Lessard Pelletier, born on October 21, 1991, and a daughter Josée Lessard Harvey, born on June 10, 1984;
+(c) the appellant deducted the following amounts as child care expenses for the 1998 taxation year:
+Maxime
+$1,876.25
+Garderie le Jardin Ensanté
+Josée
+735.25
+Prisme Culturel
+Josée
+2,000.00
+Royal Winnipeg Ballet
+Total
+$4,611.50
+(d) the appellant deducted $7,400 paid to the Royal Winnipeg Ballet as child care expenses for Josée for the 1999 taxation year;
+(e) the appellant claimed the following amounts as amounts transferred from a child: tuition fees of $1,818 and an education amount of $2,200 for the 1998 taxation year; and tuition fees of $1,908 and an education amount of $2,200 for the 1999 taxation year;
+(f) the appellant's daughter Josée is studying full-time in Winnipeg at the Royal Winnipeg Ballet School, Professional Division, in order to become a professional ballet dancer;
+(g) the Royal Winnipeg Ballet School is recognized as a post-secondary educational institution by the Minister of Employment and Immigration;
+(h) the appellant paid the following amounts as residence fees for her daughter at this school: $4,205 in 1998 and $7,400 in 1999;
+(i) these residence fees include accommodation, meals and continuous supervision;
+(j) Josée attends ballet classes at the school in the morning and secondary-level academic courses at the Boniface School Division in the afternoon;
+(k) a letter from the Royal Winnipeg Ballet states as follows: "Students who successfully complete levels four, five and six, earn three credits towards their high school diploma." (see Appendix A);
+(l) this ballet school's program has seven levels: Josée reached level five in 1998 and graduated to level six in June 1999;
+(m) the appellant was unable to provide to the Minister either form T2202A or form T2202.
+[4] The appellant admitted the truth of the assumptions of fact set out in subparagraphs 9(a), 9(c) to 9(i), and 9(k) to 9(m) of the Reply.
+[5] Concerning subparagraph 9(b) of the Reply, the appellant pointed out that she had three children: her first child was a daughter born in 1977, but the information concerning the two other children was correct. Concerning subparagraph 9(j) of the Reply, she pointed out that the school where her daughter attends courses in the afternoon is Collège Louis Riel. Concerning subparagraph 9(m) of the Reply, she wondered whether it was her responsibility to supply the forms.
+[6] The appellant adduced as Exhibit A-1 a letter from the Royal Winnipeg Ballet that reads in part as follows:
+...
+This letter is to confirm that Josee Lessard-Harvey is a full-time student with the Royal Winnipeg Ballet Professional School for the 1998-99 school year. She is enrolled in Level 5 of a seven level program. The 1998-99 school year begins on September 8, 1998 and ends on July 30, 1999. The Royal Winnipeg Ballet School's Professional Program is recognized by the Minister of Employment and Immigration as a post-secondary institution.
+...
+[7] Philippe Demeule, an auditor with the Canada Customs and Revenue Agency, testified for the respondent. In response to a question from the Court concerning child care services provided at boarding schools, he answered that, in his opinion, deduction of these expenses would not be allowed unless the children were placed in the boarding school in order to enable the parents to perform the duties of employment. He explained that the tuition credit claimed under subsection 118.5(1) of the Act was apparently allowed as the result of a generous interpretation of clause 118.5(1)(a)(ii.2)(B): the purpose of the individual's enrolment at the institution could reasonably be regarded as being to provide the individual with skills for, or to improve the individual's skills, in an occupation. The education credit claimed under subsection 118.6(2) of the Act was disallowed because the appellant's daughter had not attained the age of 16 years.
+Analysis and conclusion
+[8] In her February 27, 2003, written comments on the child care expenses, counsel for the respondent confirmed that these expenses were disallowed because the appellant did not incur them in order to enable her to perform the duties of an office or employment.
+[9] The definition of "child care expense" set out in subsection 63(3) of the Act reads as follows:
+"child care expense" means an expense incurred in a taxation year for the purpose of providing in Canada, for an eligible child of a taxpayer, child care services including baby sitting services, day nursery services or services provided at a boarding school or camp if the services were provided
+(a) to enable the taxpayer, or the supporting person of the child for the year, who resided with the child at the time the expense was incurred,
+(i) to perform the duties of an office or employment,
+(ii) to carry on a business either alone or as a partner actively engaged in the business,
+(iv) to carry on research or any similar work in respect of which the taxpayer or supporting person received a grant, or
+(v) to attend a designated educational institution or a secondary school, where the taxpayer is enrolled in a program of the institution or school of not less than three consecutive weeks duration that provides that each student in the program spend not less than
+(A) 10 hours per week on courses or work in the program, or
+(B) 12 hours per month on courses in the program, and
+(b) by a resident of Canada other than a person
+(i) who is the father or the mother of the child,
+(ii) who is a supporting person of the child or is under 18 years of age and related to the taxpayer, or
+(iii) in respect of whom an amount is deducted under section 118 in computing the tax payable under this Part for the year by the taxpayer or by a supporting person of the child,
+except that
+(c) any such expenses paid in the year for a child's attendance at a boarding school or camp to the extent that the total of those expenses exceeds the product obtained when the periodic child care expense amount in respect of the child for the year is multiplied by the number of weeks in the year during which the child attended the school or camp, and
+(d) for greater certainty, any expenses described in subsection 118.2(2) and any other expenses that are paid for medical or hospital care, clothing, transportation or education or for board and lodging, except as otherwise expressly provided in this definition, are not child care expenses;
+[10] Counsel for the respondent did not cite any case law that could guide the Court in reaching a decision in the present case. To the Court's knowledge, there is no case law specifically on the nature or the terms and conditions of the child care services chosen.
+[11] A parent may choose to place a child in a boarding school because the parent believes that the child will do better in an institution of that kind rather than in the neighbourhood school. This choice is based, not on the work needs of the parent, but on the improved performance or needs of the child. Would such a choice prevent a parent from deducting the child care expenses? Does the Act itself not provide that child care services may be provided at a boarding school?
+[12] The Court considers that, in applying the Act, it must determine whether the child is eligible, and whether the parent performed the duties of an office or employment or was in other circumstances set out in the definition of child care expenses. In the Court's opinion, the Act does not require that the parent's choice of child care services be justified by the parent's work needs. The taxpayer is responsible for choosing the boarding school at which he or she wishes the child to study, or the child care services he or she wishes to use; the taxpayer makes this choice on the basis of the child's needs, and this choice is an exercise of parental discretion. In the Court's opinion, the Act does not require that questions be asked about whether a particular form of child care is chosen on the basis of the parent's work needs or the child's needs.
+[13] Under section 118.9 of the Act, the appellant may transfer the tuition credit and the education credit. The tuition credit she claimed was allowed; she has asked that the education credit she claimed be allowed as well.
+[14] With respect to the education credit claimed under subsection 118.6(2) of the Act, counsel for the respondent explained in her written comments why the Minister disallowed this credit, as follows:
+[TRANSLATION]
+However, the Canada Customs and Revenue Agency was right in disallowing the education tax credit claimed under subsection 118.6(2) of the Income Tax Act. The ground for disallowing this credit is that the [child] had not attained the age of 16 years; this requirement is set out in subsection 118.6(1).
+Indeed, the first passage relevant to computing this credit reads as follows:
+(2) Education credit - There may be deducted in computing an individual's tax payable under this Part for a taxation year the amount determined by the formula
+A × B
+where
+A is the appropriate percentage for the year; and
+B is the total of the products obtained when
+(a) $400 is multiplied by the number of months in the year during which the individual is enrolled in a qualifying educational program as a full-time student at a designated educational institution, and
+(b) $120 is multiplied by the number of months in the year (other than months described in paragraph (a)), each of which is a month during which the individual is enrolled at a designated educational institution in a specified educational program that provides that each student in the program spend not less than 12 hours in the month on courses in the program,
+Thus the first requirement for entitlement to claim this credit is enrolment in a "qualifying educational program" or a "specified educational program". The definitions of these two expressions are set out in subsection 118.6(1) and require that the courses taken be at the post-secondary level. The courses taken at the Royal Winnipeg Ballet School by the appellant's daughter give her credits at the secondary level and therefore do not allow the appellant to claim the education credit.
+The last requirement set out in subsection 118.6(2), that of attaining the age of 16 years, applies where the institution attended qualifies as a "designated educational institution" as defined in subparagraph 118.6(1)(a)(ii) but not as defined in subparagraph 118.6(1)(a)(i). The relevant passage of the definition of "designated educational institution" set out in subsection 118.6(1) of the Act reads as follows:
+"designated educational institution" means
+(a) an educational institution in Canada that is
+(i) a university, college or other educational institution designated by the Lieutenant Governor in Council of a province as a specified educational institution under the Canada Student Loans Act, designated by an appropriate authority under the Canada Student Financial Assistance Act, or designated by the Minister of Higher Education and Science of the Province of Quebec for the purposes of An Act respecting financial assistance for students of the Province of Quebec, or
+(ii) certified by the Minister of Human Resources Development to be an educational institution providing courses, other than courses designed for university credit, that furnish a person with skills for, or improve a person's skills in, an occupation,
+...
+Under subparagraph 118.6(1)(a)(i)of the Income Tax Act, the institution attended by the appellant's daughter could qualify as a "specified educational institution" for the purposes of the Canada Student Loans Act. However, the Canada Student Loans Act also requires that the courses taken be at the post-secondary level and, since the courses taken by the appellant's daughter are secondary-level courses, they do not qualify.
+"specified educational institution" means an institution of learning, whether within or outside a province, that offers courses at a post-secondary school level and that is designated by the lieutenant governor in council of that province, either particularly or as a member of a class, as a specified educational institution within the meaning of this Act.
+"qualifying student" means a person
+(a) who is a Canadian citizen or a permanent resident within the meaning of the Immigration Act,
+(b) who is qualified for enrolment or is enrolled at a specified educational institution as a full-time or part-time student for a period of studies at a post-secondary school level, and
+(c) who intends to attend at a specified educational institution as a full-time or part-time student for a period of studies described in paragraph (b) if it is financially possible for that person to do so;
+Thus, although the courses taken by the appellant's daughter at the Royal Winnipeg Ballet School may qualify under the definition of "designated educational institution" set out in subparagraph 118.6(1)(a)(ii) of the Act, given the last requirement set out in subsection 118.6(2)¾that the individual have attained the age of 16 years before the end of the year¾the courses do not qualify.
+We respectfully submit that, on these two grounds, the appellant is not entitled to the education credit under section 118.6 of the Act.
+[15] The Court considers that all the points made by counsel for the respondent are valid except the penultimate paragraph with respect to the 1998 taxation year. The requirement that the individual have attained the age of 16 years before the end of the year applies to the 1999 taxation year. It did not form part of the Act as it applied to the 1998 taxation year. For the 1999 taxation year, the passage following variable B of the formula was amended to include the requirement that the individual have attained the age of 16 years.
+[16] Subsection 118.6(2) of the Act, as it applied to the 1998 taxation year, reads as follows:
+118.6(2) Education credit - There may be deducted in computing an individual's tax payable under this Part for a taxation year the amount determined by the formula
+A × B
+where
+A is the appropriate percentage for the year; and
+B is the total of the products obtained when
+(a) $400 is multiplied by the number of months in the year during which the individual is enrolled in a qualifying educational program as a full-time student at a designated educational institution, and
+(b) $120 is multiplied by the number of months in the year (other than months described in paragraph (a)), each of which is a month during which the individual is enrolled at a designated educational institution in a specified educational program that provides that each student in the program spend not less than 12 hours in the month on courses in the program,
+if the enrolment is proved by filing with the Minister a certificate in prescribed form issued by the designated educational institution and containing prescribed information and, in respect of a designated educational institution described in subparagraph (a)(ii) of the definition "designated educational institution" in subsection (1), the individual is enrolled in the program to obtain skills for, or improve the individual's skills in, an occupation.
+[17] For the 1999 taxation year, the passage following variable B of the formula was amended to read as follows:
+if the enrolment is proven by filing with the Minister a certificate in prescribed form issued by the designated educational institution and containing prescribed information and, in respect of a designated educational institution described in subparagraph (a)(ii) of the definition "designated educational institution" in subsection (1), the individual has attained the age of 16 years before the end of the year and is enrolled in the program to obtain skills for, or improve the individual's skills in, an occupation.
+[18] For the aforementioned reasons, the appeals by the appellant are allowed and the assessments are referred back to the Minister for reconsideration and reassessment on the basis that, under section 63 of the Act, the appellant is entitled to deduct child care expenses for her daughter Josée for the 1998 and 1999 taxation years and to claim the education credit for her daughter Josée for the 1998 taxation year.
+Signed at Ottawa, Canada, this 14th day of April 2003.
+"Louise Lamarre Proulx"
+J.T.C.C.

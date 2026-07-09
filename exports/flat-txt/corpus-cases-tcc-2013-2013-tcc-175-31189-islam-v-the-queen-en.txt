@@ -1,0 +1,162 @@
+Title: Islam v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31189/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-175-31189-islam-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-05-28
+
+# Islam v. The Queen
+
+- Citation: 2013 TCC 175
+- Decision date: 2013-05-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5086, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Islam v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-05-28
+Neutral citation
+2013 TCC 175
+File numbers
+2012-3486(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3486(IT)I
+BETWEEN:
+Mofizul Islam,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 30, 2013, at Toronto, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessment and reassessment made by the Minister of National Revenue pursuant to subsections 118.3 and 118.4 of the Income Tax Act for the 2010 and 2011 taxation years are dismissed.
+Signed at Ottawa, Canada, this 28th day of May 2013.
+“Lucie Lamarre”
+Lamarre J.
+Citation: 2013 TCC 175
+Date: 20130528
+Docket: 2012-3486(IT)I
+BETWEEN:
+Mofizul Islam,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The appellant is appealing an assessment made by the Minister of National Revenue (Minister) disallowing pursuant to sections 118.3 and 118.4 of the Income Tax Act (ITA) a non-refundable disability tax credit for the 2010 taxation year. Although the appellant did not claim that credit for the 2011 taxation year, his appeal also covers that year.
+[2] The relevant portions of sections 118.3 and 118.4 read as follows:
+118.3 (1) Credit for mental or physical impairment.
+Where
+(a) an individual has one or more severe and prolonged impairments in physical or mental functions,
+(a.1) the effects of the impairment or impairments are such that the individual’s ability to perform more than one basic activity of daily living is significantly restricted where the cumulative effect of those restrictions is equivalent to having a marked restriction in the ability to perform a basic activity of daily living or are such that the individual’s ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy that
+(i) is essential to sustain a vital function of the individual,
+(ii) is required to be administered at least three times each week for a total duration averaging not less than 14 hours a week, and
+(iii) cannot reasonably be expected to be of significant benefit to persons who are not so impaired,
+(a.2) in the case of an impairment in physical or mental functions the effects of which are such that the individual’s ability to perform a single basic activity of daily living is markedly restricted or would be so restricted but for therapy referred to in paragraph (a.1), a medical practitioner has certified in prescribed form that the impairment is a severe and prolonged impairment in physical or mental functions the effects of which are such that the individual’s ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted, but for therapy referred to in paragraph (a.1), where the medical practitioner is a medical doctor or, in the case of
+(i) a sight impairment, an optometrist,
+(ii) a speech impairment, a speech-language pathologist,
+(iii) a hearing impairment, an audiologist,
+(iv) an impairment with respect to an individual’s ability in feeding or dressing themself, an occupational therapist,
+(v) an impairment with respect to an individual’s ability in walking, an occupational therapist, or after February 22, 2005, a physiotherapist, and
+(vi) an impairment with respect to an individual’s ability in mental functions necessary for everyday life, a psychologist,
+(a.3) in the case of one or more impairments in physical or mental functions the effects of which are such that the individual’s ability to perform more than one basic activity of daily living is significantly restricted, a medical practitioner has certified in prescribed form that the impairment or impairments are severe and prolonged impairments in physical or mental functions the effects of which are such that the individual’s ability to perform more than one basic activity of daily living is significantly restricted and that the cumulative effect of those restrictions is equivalent to having a marked restriction in the ability to perform a single basic activity of daily living, where the medical practitioner is, in the case of
+(i) an impairment with respect to the individual’s ability in feeding or dressing themself, or in walking, a medical doctor or an occupational therapist, and
+(ii) in the case of any other impairment, a medical doctor,
+(b) the individual has filed for a taxation year with the Minister the certificate described in paragraph (a.2) or (a.3), and
+(c) no amount in respect of remuneration for an attendant or care in a nursing home, in respect of the individual, is included in calculating a deduction under section 118.2 (otherwise than because of paragraph 118.2(2)(b.1)) for the year by the individual or by any other person,
+there may be deducted in computing the individual’s tax payable under this Part for the year the amount determined by the formula
+A × (B + C)
+. . .
+118.4 (1) Nature of impairment. For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+(a) an impairment is prolonged where it has lasted, or can reasonably be expected to last, for a continuous period of at least 12 months;
+(b) an individual’s ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+(b.1) an individual is considered to have the equivalent of a marked restriction in a basic activity of daily living only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual’s ability to perform more than one basic activity of daily living (including for this purpose, the ability to see) is significantly restricted, and the cumulative effect of those restrictions is tantamount to the individual’s ability to perform a basic activity of daily living being markedly restricted;
+(c) a basic activity of daily living in relation to an individual means
+(i) mental functions necessary for everyday life,
+(ii) feeding oneself or dressing oneself,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) eliminating (bowel or bladder functions), or
+(vi) walking;
+(c.1) mental functions necessary for everyday life include
+(i) memory,
+(ii) problem solving, goal-setting and judgement (taken together), and
+(iii) adaptive functioning;
+(d) for greater certainty, no other activity, including working, housekeeping or a social or recreational activity, shall be considered as a basic activity of daily living;
+(e) feeding oneself does not include
+(i) any of the activities of identifying, finding, shopping for or otherwise procuring food, or
+(ii) the activity of preparing food to the extent that the time associated with the activity would not have been necessary in the absence of a dietary restriction or regime; and
+(f) dressing oneself does not include any of the activities of identifying, finding, shopping for or otherwise procuring clothing.
+. . .
+[3] The appellant has had permanent blindness in the right eye since the age of four.
+[4] According to his testimony and his notice of appeal, his vision in his good eye (the left one) has been deteriorating over the years, and he suffers, in that eye, from continuous high pressure, dryness and a “few black signs” in the back of the eye.
+[5] The appellant filed a copy of a report completed in August 2011 by Dr. Wai‑Ching Lam from Toronto Western Hospital after a visit by the appellant, which indicates that the appellant’s “OCT showed a round hyperfluorescence of a small pigment epithelial detachment located in the juxtafoveal location. There were no signs of any leakage seen. The OCT also confirmed a small juxtafoveal pigment epithelial detachment. In view of this, no treatment is required. This has been explained to Mr. Islam” (Exhibit A-1, last page).
+[6] The appellant also filed a document from the Canadian National Institute for the Blind (CNIB) dated June 21, 2007, confirming that the appellant is a client of the CNIB and has been registered with them since the receipt in 2003 of the medical information contained on a form, attached to that document, that was completed on August 12, 2003 by Dr. Salima Abdulla, an optometrist (Exhibit A-1, 4th and 5th pages). I note that in the optometrist’s reports it is indicated that the field of vision is normal.
+[7] As further evidence, the appellant filed a Notice of Assessment from the Ministry of Training, Colleges and Universities, Student Support Branch, dated June 9, 2006 (2006-2007 OSAP). The appellant was assessed as being eligible for a Canada Access Grant for Students with Permanent Disabilities of $2,000 to assist him in pursuing a program in real property administration at Seneca College ‑ North York for the period from September 2006 to April 2007 (Exhibit A-1, 3rd page).
+[8] The appellant testified, however, that he declined the grant as, for obvious financial reasons he did not want to leave the job he had at the time.
+[9] The appellant also filed a letter dated June 18, 2012 from the Seneca College Counselling and Disabilities Office. This “letter confirming disability for financial aid office” confirmed that the appellant had a temporary disability, and also that he met the Ministry definition of a student with a permanent disability, and therefore qualified for a reduced course load in his program of study (Exhibit A-1, 1st page).
+[10] The appellant’s main complaint is that although he has an education that is equivalent to a four-year bachelor’s degree from a Canadian university, has completed post-graduate training in Berlin, Germany and Melbourne, Australia, has completed two certificate programs, and has studied business at Seneca College, he is continuously facing difficulties in finding full-time work.
+[11] He believes that that is due to his handicap. He mentioned that although he has a driving licence which is renewed automatically without an annual exam, he avoids highway driving and drives very cautiously and only when really necessary. He therefore cannot accept any employment for which driving is necessary.
+[12] The appellant acknowledges that he did not file a disability tax credit form (T2201) with his 2010 tax return. He said that he did not claim that credit for 2011 because the system did not allow him to file his return electronically if that credit was claimed, and he did not want to send his 2011 tax return by mail.
+[13] The only T2201 form that was filed in evidence is one that was completed in March 2002 by Dr. Salima Abdulla (Exhibit R-1, Tab 2).
+[14] Dr. Abdulla indicated that the appellant’s vision in his left eye was 20/20 with corrective lenses, and answered yes to the questions asking whether the appellant was able to see, walk, speak, perceive, think and remember, whether he could hear, whether he could dress or feed himself, and whether he was able to manage bowel and bladder functions.
+[15] Dr. Abdulla completed the form by checking “no” for the question asking whether the appellant’s marked restriction in a basic activity of daily living or blindness had lasted or was expected to last for a continuous period of at least 12 months.
+[16] The question at issue is whether the appellant may claim the disability tax credit for the years 2010 and 2011.
+[17] As stated by Judge Campbell Miller in Wear v. R., 2002 CarswellNat 2676, at paragraph 8, referred to by the respondent, section 118.3 of the ITA lists three requirements that must be met in order for one to claim that credit: (a) the individual must have a severe and prolonged mental or physical impairment; (b) the effects of the impairment must be such that the individual’s ability to perform a basic activity of daily living is markedly restricted; and (c) the individual must provide a doctor’s certificate certifying that requirements (a) and (b) have been satisfied.
+[18] Here, there is no question that the appellant has a severe and prolonged physical impairment by virtue of being blind in one eye.
+[19] However, the effects of that impairment must be such that his ability to perform a basic activity of daily living is markedly restricted. Pursuant to paragraph 118.4(1)(b) of the ITA, an individual’s ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living.
+[20] Here, although the appellant suffers from blindness in the right eye, it cannot be said that he is blind. He is able to read; he has a driving licence. In Blondin v. R., 1994 CarswellNat 1570, cited by the respondent, this Court referred to dictionary definitions of “blind” as meaning “deprived of the use of sight”. In Dr. Abdulla’s report filed in Exhibit A-1, 5th page, it is indicated that the appellant’s field of vision is normal, even though he cannot see with his right eye. Similarly, in Form T2201 filed in 2002 (Exhibit R-1, Tab 2), Dr. Abdulla stated that the appellant’s visual acuity in the left eye after correction was 20/20, and she answered yes to the question inquiring whether the patient could see.
+[21] I conclude, therefore, that the appellant is not blind. Because the appellant is not blind, he has to demonstrate that he is unable (or requires an inordinate amount of time) to perform a basic activity of daily living. A basic activity of daily living in relation to an individual is defined in paragraph 118.4(1)(c) as meaning the following: (i) mental functions necessary for everyday life; (ii) feeding oneself or dressing oneself; (iii) speaking so as to be understood; (iv) hearing so as to understand; (v) eliminating (bowel or bladder functions); (vi) walking.
+[22] Paragraph 118.4(1)(d) adds that no other activity, including, among other things, working, shall be considered as a basic activity of daily living.
+[23] Here, the appellant did not establish that he was impaired or markedly restricted in any of the above-mentioned basic activities of daily living. The T2201 certificate filed in 2002 confirmed that he was not. The appellant feels that he is mostly restricted in finding employment. However, working is specifically excluded from basic activities of daily living for the purpose of establishing entitlement to the disability tax credit.
+[24] The fact that the appellant is registered with the CNIB is not helpful in the present case as long as the requirements under sections 118.3 and 118.4 of the ITA are not met.
+[25] Finally, it is mandatory that a taxpayer file a certificate from a doctor or competent professional stating that the taxpayer suffers from an impairment as described in the ITA, as such a certificate is a prerequisite to obtaining the disability tax credit (see MacIsaac v. R., 1999 CarswellNat 2561, [1999] F.C.J. No. 1898 (QL), 2000 DTC 6020 (FCA)).
+[26] As the Federal Court of Appeal said in Buchanan v. Canada, [2002] F.C.J. No. 838 (QL), 202 FCA 231, at paragraph 25:“The [ITA] requires the positive certificate of a physician. That means that the function of the Tax Court Judge is not to substitute his or her opinion for that of a physician, but to determine, based on medical evidence, whether a negative certificate should be treated as a positive certificate. . . . ”
+[27] The Federal Court of Appeal added at paragraph 26: “. . . a positive medical certificate is a requirement of subsection 118.3(1). The Court does not have a policy-making role. If the requirements of the Act are seen to be impracticable, it is Parliament that must address the necessary changes.”
+[28] In the present case, no such certificate was filed for either year at issue. The only certificate on file is the one that was filed for 2002, and it is not a positive certificate giving entitlement to the disability tax credit.
+[29] The appellant mentioned that it was too costly to ask for a certificate every year. He acknowledged, however, that he has to see an optometrist regularly to care for his good eye. If the situation deteriorates to the point that he is not able to see with that eye or to the point that he is markedly restricted in his basic activities of daily living, which is obviously not desirable, I doubt that the medical professional would object to signing a positive certificate for him.
+[30] For the time being, the appellant has not shown that he complied with all the conditions required by sections 118.3 and 118.4 of the ITA in order for him to claim the credit.
+[31] As for discrimination, which was alluded to by the appellant during the hearing, he did not raise that argument in his notice appeal, nor did he send any notice that he intended to challenge the constitutionality of the provisions at issue. I will therefore not address that question.
+[32] With respect to fairness, as stated by the Federal Court of Appeal in Chaya v. R., 2004 CarswellNat 3503, 2004 DTC 6676, 2004 FCA 327, paragraph 4, referred to by the respondent, it is not open to the Court to make exceptions to statutory provisions on the grounds of fairness or equity.
+[33] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 28th day of May 2013.
+“Lucie Lamarre”
+Lamarre J.
+CITATION: 2013 TCC 175
+COURT FILE NO.: 2012-3486(IT)I
+STYLE OF CAUSE: Mofizul Islam v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 30, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: May 28, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

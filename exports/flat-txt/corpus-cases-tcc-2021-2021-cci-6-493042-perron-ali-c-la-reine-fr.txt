@@ -1,0 +1,284 @@
+Title: Perron-Ali c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/493042/index.do
+Corpus path: corpus/cases/tcc/2021/2021-cci-6-493042-perron-ali-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2021-02-12
+
+# Perron-Ali c. La Reine
+
+- Citation: 2021 CCI 6
+- Decision date: 2021-02-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4636, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perron-Ali c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-02-12
+Référence neutre
+2021 CCI 6
+Numéro de dossier
+2016-1194(IT)I, 2016-1200(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-1194(IT)I
+ENTRE :
+DARLA PERRON-ALI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 11 décembre 2019, à Toronto (Ontario), et poursuivi par vidéoconférence le 8 octobre 2020.
+Devant : L’honorable juge suppléant Gaston Jorré
+Comparutions :
+Représentant de l’appelante :
+M. Marshall B. Sone
+Avocat de l’intimée :
+Me Colin McArthur
+JUGEMENT
+Conformément aux motifs du jugement ci-joints :
+L’appel concernant l’année d’imposition 2010 est rejeté.
+L’appel concernant l’année d’imposition 2011 est accueilli si James Ali et Darla Perron-Ali présentent tous deux une demande écrite, envoyée à l’avocat de l’intimée sous pli recommandé au plus tard le 16 avril 2021, pour qu’une dépense en capital admissible dont le montant ne dépasse pas 1 834,25 $ soit déduite dans le calcul du revenu de leur entreprise commune. Si une telle demande est faite :
+L’intimée doit examiner de nouveau l’année d’imposition 2011 de l’appelante et établir une nouvelle cotisation à l’égard de celle-ci pour permettre à l’entreprise commune de déduire la somme demandée ne dépassant pas 1 834,25 $; aucune autre modification ne sera apportée.
+Si aucune demande de la sorte n’est faite, l’appel concernant l’année d’imposition 2011 est rejeté et aucune nouvelle cotisation n’est établie pour l’année d’imposition 2011 de l’appelante.
+Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 12e jour de février 2021.
+« G. Jorré »
+Le juge suppléant Jorré
+Dossier : 2016-1200(IT)I
+ENTRE :
+JAMES T. ALI
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 11 décembre 2019, à Toronto (Ontario), et poursuivi par vidéoconférence le 8 octobre 2020.
+Devant : L’honorable juge suppléant Gaston Jorré
+Comparutions :
+Représentant de l’appelant :
+M. Marshall B. Sone
+Avocat de l’intimée :
+Me Colin McArthur
+JUGEMENT
+Conformément aux motifs du jugement ci-joints :
+L’appel concernant l’année d’imposition 2010 est rejeté.
+L’appel concernant 2011 est accueilli si James Ali et Darla Perron-Ali présentent tous deux une demande écrite, envoyée à l’avocat de l’intimée sous pli recommandé au plus tard le 16 avril 2021, pour qu’une dépense en capital admissible ne dépassant pas 1 834,25 $ soit déduite dans le calcul du revenu de leur entreprise commune. Si une telle demande est faite :
+L’intimée doit examiner de nouveau l’année d’imposition 2011 de l’appelante et établir une nouvelle cotisation à l’égard de celle-ci pour permettre à l’entreprise commune de déduire la somme demandée ne dépassant pas 1 834,25 $; aucune autre modification ne sera apportée.
+Si aucune demande de la sorte n’est faite, l’appel concernant l’année d’imposition 2011 est rejeté et aucune nouvelle cotisation n’est établie pour l’année d’imposition 2011 de l’appelante.
+L’appel pour l’année d’imposition 2012 est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que l’appelant a le droit de déduire la perte locative de 10 893 $ dans sa déclaration de revenus.
+Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 12e jour de février 2021.
+« G. Jorré »
+Le juge suppléant Jorré
+Référence : 2021 CCI 6
+Date : 20210212
+Dossier : 2016-1194(IT)I
+ENTRE :
+DARLA PERRON-ALI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016-1200(IT)I
+ET ENTRE :
+JAMES T. ALI
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Jorré
+Introduction
+[1] En établissant la nouvelle cotisation des appelants, le ministre a apporté les modifications suivantes.
+[2] À l’égard de Mme Perron-Ali :
+les dépenses d’emploi pour l’année d’imposition 2010 ont été refusées;
+les dépenses au titre d’une entreprise de consultation dont elle est l’unique propriétaire ont été refusées pour l’année d’imposition 2011;
+sa part (50 %) d’une perte au titre d’une entreprise qu’elle possédait conjointement avec M. Ali a été refusée pour l’année d’imposition 2011.
+[3] La grande majorité de la déduction à l’égard des dépenses d’emploi pour 2010, soit la partie concernant les frais de véhicule à moteur, a été retirée après la présentation de la preuve au début de l’argumentation [1] . Toutefois, une petite partie de ces dépenses demeure en litige.
+[4] À l’égard de M. Ali :
+les dépenses d’emploi pour l’année d’imposition 2010 ont été refusées;
+sa part (50 %) d’une perte au titre d’une entreprise qu’il possédait conjointement avec Mme Perron-Ali a été refusée pour l’année d’imposition 2011;
+des pertes locatives déduites ont été refusées pour l’année d’imposition 2012.
+[5] À l’ouverture de l’audience, l’intimée a concédé ces pertes locatives pour 2012 [2] .
+[6] Je traiterai des faits et de l’analyse de chacune des questions pertinentes pour un particulier à tour de rôle, puis de la perte d’entreprise déclarée en ce qui concerne l’entreprise commune des deux appelants.
+Dépenses d’emploi de Mme Perron-Ali pour 2010
+[7] Mme Perron-Ali occupait un emploi comme consultante dans le domaine de l’autisme en 2010 et en 2011 auprès de la Hamilton Health Sciences Corporation.
+[8] Dans le cadre de son travail, elle s’est déplacée à divers endroits. En 2010, elle a déduit 7 191 $ en dépenses d’emploi à la ligne 229 de sa déclaration de revenus.
+[9] La totalité du montant déduit, à l’exception de 780 $, concernait des frais de véhicule à moteur. D’après le formulaire T777 inclus dans la déclaration [3] , elle avait parcouru 41 050 kilomètres, dont 35 960 pour son emploi. En d’autres termes, elle indiquait dans sa déclaration que plus de 85 % des kilomètres qu’elle avait parcourus étaient liés à son emploi [4] .
+[10] La somme de 780 $ était présentée comme des frais de télécommunications.
+[11] Aucun registre ou autre relevé détaillé semblable des kilomètres parcourus pour le travail n’a été fourni et aucun document justificatif, comme des factures ou des reçus, n’a été fourni à l’égard des frais d’automobile ou des frais de télécommunications.
+[12] Les éléments de preuve ont également révélé que l’appelante avait effectivement reçu un remboursement de la part de son employeur au taux de 44 cents par kilomètre pour les kilomètres parcourus dans le cadre de son travail [5] . L’appelante n’a pas inclus ce remboursement dans sa déclaration de revenus pour 2010 [6] .
+[13] Dans sa déclaration de revenus pour 2011 [7] , Mme Perron-Ali n’a déduit aucun montant pour ses dépenses d’emploi alors qu’elle travaillait toujours pour Hamilton Health Services.
+[14] Un certain nombre d’exigences doit être rempli pour qu’un employé puisse déduire des dépenses d’emploi [8] .
+[15] L’une de ces exigences est un formulaire T2200 dûment rempli et signé par l’employeur. Il s’agit d’une condition obligatoire clairement énoncée au paragraphe 8(10) de la Loi de l’impôt sur le revenu [9] . Cette exigence existe depuis très longtemps.
+[16] Un tel formulaire n’a pas été produit en l’espèce.
+[17] L’omission du formulaire T2200 entraîne à lui seul le rejet de la déduction des dépenses d’emploi pour 2010.
+[18] Bien qu’il soit possible, dans des cas rares et exceptionnels, de déduire des dépenses d’emploi alors qu’il n’y a pas de formulaire T2200, ce n’est manifestement pas le cas en l’espèce [10] .
+Dépenses de l’entreprise de consultation de Mme Perron-Ali pour 2011
+[19] En 2011, Mme Perron-Ali a déduit des dépenses de 943,43 $ concernant une entreprise de consultation.
+[20] Bien que l’entreprise semble avoir démarré en 2000 [11] , aucun revenu ou dépense n’a été déclaré dans la déclaration d’impôt sur le revenu de 2010 en ce qui concerne l’entreprise.
+[21] Dans la déclaration de revenus de 2011, aucun revenu n’a été déclaré pour l’entreprise et 947,43 $ de frais de véhicule à moteur ont été déduits, ce qui a entraîné une perte de 947,43 $. Les dépenses concernaient 5 000 km sur un total de 35 000 km parcourus [12] .
+[22] Il y a très peu d’éléments de preuve à l’égard de cette entreprise de consultation et des dépenses qui s’y rapportent.
+[23] Un contribuable qui déduit des dépenses est le mieux placé pour établir pourquoi les dépenses ont été engagées, comment elles se rapportent à une entreprise et le montant des dépenses. Aux termes de l’article 230 de la Loi de l’impôt sur le revenu, un particulier est tenu de conserver les livres et registres pertinents pendant une période de six ans en général et plus longtemps en cas d’opposition ou d’appel.
+[24] Par conséquent, un particulier devrait être en mesure de fournir des détails sur les activités de l’entreprise et ses dépenses. Aucun registre ou relevé détaillé des kilomètres parcourus et aucun reçu n’a été présenté.
+[25] Selon le témoignage de l’appelante, des changements dans les programmes gouvernementaux qui fournissaient des services gratuits aux parents lui ont fait perdre des clients; l’activité de l’appelante en 2011 consistait à donner des présentations et des ateliers gratuits dans le but de se faire connaître afin de trouver de nouveaux clients [13] . Aucun renseignement n’a été fourni quant à la date et au lieu de ces séances, ni aux personnes à qui elles s’adressaient.
+[26] Aucun livre ou registre de l’entreprise n’a été présenté.
+[27] Peu d’éléments de preuve ont été apportés concernant le démarrage de l’entreprise, l’histoire de l’entreprise ou ce qui s’est passé les années suivantes.
+[28] Les déclarations très générales de l’appelante ne sont tout simplement pas suffisantes pour établir le montant global des frais d’automobile ou pour établir l’utilisation professionnelle de l’automobile.
+[29] En conséquence, l’appelante n’a pas démontré qu’elle avait le droit de déduire des dépenses de 947,43 $ [14] .
+Dépenses d’emploi de M. Ali pour 2010
+[30] En 2010 et en 2011, M. Ali était employé comme travailleur social par le District School Board of Niagara (la commission scolaire). Dans le cadre de son travail, il se rendait à différentes écoles de cette commission scolaire. En 2010, il a déduit des dépenses d’emploi de 14 720 $. En 2011, il n’a déduit aucune dépense d’emploi.
+[31] Sur le montant total, 780 $ étaient présentés comme des dépenses de télécommunications et le reste, comme des frais de véhicule à moteur. Les frais de véhicule à moteur représentaient 28 000 km sur 34 000 km parcourus.
+[32] Un formulaire T2200 a été produit. Chose remarquable, bien que le formulaire soit requis par la Loi de l’impôt sur le revenu et qu’il ait déjà été demandé à l’appelant par l’Agence du revenu du Canada au cours des étapes précédentes, il semble que les efforts pour l’obtenir aient été déployés au dernier moment étant donné que le formulaire a été signé le 10 décembre 2019, la veille du premier jour de l’audience, presque neuf ans après la fin de l’année d’imposition en question.
+[33] D’après le formulaire T2200, l’appelant devait se déplacer dans la région de Niagara entre les lieux de travail de la commission scolaire, a été payé 46 cents par kilomètre pour ses déplacements professionnels et a reçu un total de 1 736,64 $ pour payer les kilomètres parcourus et l’utilisation du téléphone cellulaire [15] .
+[34] Le formulaire T2200 indique également qu’il n’y avait pas d’autres dépenses incombant à l’employé pour lesquelles ce dernier ne recevrait pas d’allocation ou de remboursement. Il montre aussi que la somme de 1 736,64 $ est comprise dans le feuillet T-4 de l’appelant [16] .
+[35] Malgré ce relevé, il est clair que le montant de 1 736,64 $ n’a pas été inclus dans le revenu de l’appelant [17] .
+[36] Aucun reçu ni journal de bord ou autre registre contemporain détaillé des kilomètres parcourus n’a été produit.
+[37] L’appelant a toutefois présenté la pièce A-10, un document préparé par lui au moyen de Google Maps dans lequel figure la distance dans un sens en kilomètres de son domicile aux différentes écoles de la commission scolaire. Il n’est cependant pas allé dans toutes les écoles. Chaque année, il était affecté à une certaine zone géographique sur le territoire de la commission scolaire et il se rendait dans certaines de ces écoles.
+[38] Aucun contrat de travail ni aucun autre document définissant les conditions d’emploi n’a été produit, à l’exception du formulaire T2200 et d’une page de la politique de la commission scolaire concernant le taux de remboursement des kilomètres parcourus [18] . Étant donné que l’employeur était une commission scolaire et que l’appelant occupait un poste syndiqué [19] on pourrait s’attendre à ce que les conditions d’emploi soient clairement énoncées dans un document facilement accessible.
+[39] Avant de poursuivre, il est utile de rappeler deux principes fondamentaux bien connus :
+i) Si les déplacements entre différents lieux de travail peuvent être déductibles, le trajet aller-retour entre le domicile et le lieu de travail ne l’est normalement pas [20] .
+ii) Seule la partie des dépenses autorisées par la Loi de l’impôt sur le revenu « qui se rapportent entièrement » à l’emploi particulier « ou la partie [...] qu’il est raisonnable de considérer comme s’y rapportant » peut être déduite du revenu d’emploi [21] .
+[40] Étant donné que 46 cents par kilomètre est un taux raisonnable cette année-là, pour obtenir gain de cause, l’appelant devrait démontrer qu’on lui a refusé de manière déraisonnable le remboursement d’un nombre important de kilomètres liés au travail.
+[41] Il n’y a pas eu d’explication directe concernant le fondement de la déduction à l’égard de 28 000 kilomètres liés au travail. Toutefois, elle est peut-être implicite dans le témoignage suivant de l’appelant [22] :
+[traduction]
+Q. Il s’agit de frais de kilométrage.
+R. Alors, il existait à cette époque-là une politique au sein du District School Board of Niagara. Je suppose qu’elle est encore en vigueur. Selon la politique, nous devions déduire le kilométrage aller-retour entre notre domicile et le bureau où nous étions affectés.
+Donc, en gros, si je calcule mon kilométrage entre l’adresse de mon domicile et mon bureau à ce moment-là, aller-retour, je crois bien que cela représentait environ 140 kilomètres.
+Et ensuite, quel que soit l’endroit où nous nous rendions au sein du territoire de la commission, nous pouvions accumuler les kilomètres parcourus depuis ce bureau jusqu’à l’endroit où nous nous rendions ce jour-là, qu’il s’agisse d’écoles ou d’agences. Et s’il y avait un solde positif, alors nous pouvions percevoir une allocation. Mais le plus souvent, la politique en vigueur nous empêchait de percevoir une allocation kilométrique.
+[42] Nous ne savons pas combien de jours dans l’année l’appelant a travaillé pour la commission scolaire, mais 28 000 kilomètres divisés par 140 correspondraient à 200 allers-retours. Si l’appelant n’était pas tenu d’être présent dans l’un des bureaux de la commission scolaire ou l’une des écoles pendant les vacances scolaires, 200 allers-retours pour se rendre au travail pourraient constituer un bon ordre de grandeur.
+[43] En tout état de cause, bien que la preuve ne permette pas de tirer une conclusion quant à un chiffre précis, ce qui ressort clairement du passage cité est que la plus grande partie, voire la totalité, des 28 000 km déclarés consistait simplement en des allers-retours au travail, une dépense personnelle non déductible.
+[44] Le fait qu’il n’y ait pas d’éléments de preuve détaillés dans un registre ou un document semblable pose d’énormes difficultés, car il faudrait examiner le schéma des déplacements : 1) pour établir quels étaient le ou les trajets habituels pour se rendre au travail par opposition à un trajet sortant de l’ordinaire [23] et 2) pour établir ensuite ce qui était et n’était pas potentiellement déductible. Il faudrait alors comparer ces kilomètres potentiellement déductibles plus les kilomètres parcourus au cours de la journée de travail avec les kilomètres remboursés. En cas de différence marquée, les kilomètres excédentaires non remboursés liés au travail pourraient faire l’objet d’une déduction.
+[45] Puisqu’il n’y a pas d’éléments de preuve détaillés à l’égard des kilomètres parcourus liés au travail, il n’y a aucune raison de conclure que l’employeur a refusé de manière déraisonnable de payer un nombre important de kilomètres parcourus liés au travail. Il s’ensuit que la demande de remboursement des frais d’automobile doit être rejetée [24] .
+[46] En ce qui concerne les dépenses de télécommunications, il ressort clairement du formulaire T2200 que l’employeur a effectivement versé de l’argent à l’appelant concernant le téléphone cellulaire, bien que le montant de ce versement ne soit pas évident [25] .
+[47] La déduction des dépenses de téléphone cellulaire relève de l’alinéa 8(1)i) de la Loi de l’impôt sur le revenu.
+[48] Afin de déduire un montant pour le téléphone cellulaire, l’appelant devrait d’abord établir quelle est la partie de la dépense entièrement applicable à l’emploi particulier ou quelle partie peut raisonnablement être considérée comme applicable à l’emploi particulier [26] . Pour ce faire, il faut des éléments de preuve précis quant à ce qui est payé et quant à l’usage qui est fait du téléphone, par exemple, dans quelle mesure il est utilisé à des fins personnelles et dans quelle mesure il est utilisé à des fins professionnelles. Le simple fait qu’une personne possède un téléphone cellulaire et l’utilise à des fins professionnelles ne permet pas en soi de déduire la totalité du coût mensuel du téléphone.
+[49] Deuxièmement, après avoir établi le montant effectivement déductible, il faudrait le comparer au remboursement pour voir quel montant reste déductible des revenus de l’appelant [27] .
+[50] L’appelant n’a pas démontré qu’un montant des dépenses de téléphone cellulaire supérieur au montant qui a été remboursé est déductible.
+[51] Par conséquent, la déduction des dépenses de télécommunications doit être rejetée.
+Perte réclamée au titre de l’entreprise commune des appelants pour 2011
+[52] En 2011, les appelants ont déclaré une perte d’entreprise concernant une entreprise dans laquelle chacun détenait une participation de 50 %. Sur le formulaire T2125 joint à leur déclaration de revenus, l’entreprise était décrite comme exerçant ses activités dans le domaine de la [traduction] « gestion de biens immobiliers ». L’entreprise a déclaré une perte nette de 38 541 $, ce qui fait que chaque appelant a subi une perte de la moitié de ce montant. En outre, M. Ali a déduit, relativement à cette entreprise, un montant supplémentaire qui se rapportait aux frais d’automobile et a augmenté sa perte à l’égard de l’entreprise de 1 575,56 $.
+[53] Les éléments de preuve concernant les dépenses de cette entreprise étaient des plus insuffisants. Les dépenses en litige s’élèvent à environ 40 000 $ et pourtant, à l’exception de deux factures relatives au plus important élément déduit, il n’y avait pas de livres, de registres, de reçus ou d’autres documents pour étayer la déduction. La dépense la plus importante qui a été déduite s’élève à 34 938 $ et a été payée à Tigrent Canada Learning Inc.
+[54] Les témoignages sur la nature de l’entreprise et son évolution étaient très généraux dans des circonstances où l’on pouvait s’attendre à ce que les appelants soient en mesure de fournir plus de détails.
+[55] En ce qui concerne les autres dépenses que le montant payé à Tigrent, non seulement il y a des lacunes documentaires, mais aucun témoignage n’indique la façon dont ces dépenses sont liées à l’entreprise et ont été calculées. Les appelants n’ont pas démontré que ces sommes sont déductibles quant à leur nature et à leur valeur [28] .
+[56] Par conséquent, je mettrai l’accent sur la déductibilité des paiements versés à Tigrent.
+[57] Eu égard aux témoignages des appelants, je conclus qu’à un moment donné en 2011, ils ont décidé de créer une entreprise en plus de leur emploi actuel. Cependant, 2011 a été une phase de lancement.
+[58] Ils ont d’abord suivi, lors d’une fin de semaine, un cours gratuit donné par Tigrent [29] . Il est difficile de savoir si leur intérêt pour une certaine activité immobilière était antérieur au cours ou s’il découle de ce premier cours. En février de cette année-là, ils se sont inscrits et ont payé certains cours. Plus tard, en avril, ils se sont inscrits pour obtenir de l’encadrement et deux évaluations [30] .
+[59] Voici la façon dont sont présentés les achats sur la première facture s’élevant à 28 148,35 $ [31] :
+CN Rich Dad Cash Flow Certificate w/ Mentor – RU
+CN Rich Dad Cash Flow Certificate w/ Mentor – Advanced Training
+CN Rich Dad Cash Flow Certificate w/ Mentor – Advanced Training
+CN Rich Dad Cash Flow Certificate w/ Mentor – Advanced Training
+CN Rich Dad Cash Flow Certificate w/ Mentor – Mentor
+CN Rich Dad Cash Flow Certificate w/ Mentor – Software
+[60] Voici la façon dont sont présentés les achats sur la deuxième facture s’élevant à 5 789 $ :
+CN Rich Dad Real Estate Coaching 12 Sessions
+CN Windslow Assessment
+CN Windslow Assessment
+[61] Les appelants ont participé à des séances de formation intensives de trois jours données la fin de semaine, axées sur les différentes stratégies d’investissement et de transaction dans le domaine de l’immobilier. Les éléments de preuve n’indiquent pas clairement combien de ces cours ont été suivis, mais j’arrive à la conclusion qu’il y en a probablement eu quatre. On ne sait pas non plus comment s’est déroulée la partie mentorat, bien qu’il semble que les appelants se soient déplacés au moins une fois dans la région de Hamilton avec un mentor et aient discuté de ce qu’il fallait rechercher dans les biens immobiliers. Ils ont également reçu des logiciels. Les séances d’encadrement se sont déroulées au téléphone.
+[62] Étonnamment, les sommes versées à Tigrent ont été déduites dans la rubrique « Autres coûts » de la partie 4 intitulée « Coût des marchandises vendues et bénéfice brut » du formulaire T2125 intitulé « État des résultats des activités d’une entreprise ou d’une profession libérale ». Elles ne font pas partie du coût des biens vendus [32] .
+[63] La seule activité de cette entreprise en 2011 peut être présentée comme de l’enseignement. Ce n’est qu’en 2012 que les appelants ont commencé à envisager sérieusement l’acquisition de biens immobiliers [33] .
+[64] En quoi consistait exactement cette activité? Les appelants voulaient avoir des immeubles locatifs et des immeubles locatifs avec option d’achat. Ils ont finalement eu [traduction] « plus de quinze [biens immobiliers] à différents moments ». Il semble que certains de ces biens immobiliers aient été acquis avec d’autres personnes et que les biens immobiliers n’étaient pas toujours au nom des appelants [34] .
+[65] Bien que je reconnaisse que les appelants ont exercé une activité économique liée à l’immobilier, aucun élément de preuve particulier quant aux biens qui ont été achetés et à ceux qui ont été vendus par la suite n’a été présenté, même si le témoignage selon lequel ils ont eu [traduction] « plus de quinze [biens immobiliers] à différents moments » indique qu’il y a eu un certain nombre d’achats et de ventes. Aucun élément de preuve n’a été présenté quant aux ententes particulières dans les cas où les noms des appelants ne figuraient pas sur le titre. Dans leur témoignage, les appelants n’ont pas déclaré qu’ils géraient des biens immobiliers pour d’autres en fonction d’une rémunération à l’acte [35] .
+[66] Les paiements versés à Tigrent pour la formation, le mentorat et l’encadrement sont de la nature d’une dépense éducative. Ces dépenses en capital ne sont normalement pas déductibles. Elles sont aussi souvent de nature personnelle [36] .
+[67] Bien que la loi ait établi une distinction dans les cas où une personne en affaires maintient tout simplement ou étend quelque peu ses connaissances et compétences existantes, par exemple en suivant un cours de formation continue dans son domaine, cette distinction ne s’applique pas en l’espèce étant donné que les appelants n’exerçaient pas auparavant d’activités dans le domaine de l’immobilier; ils avaient respectivement des antécédents en matière de consultation dans le domaine de l’autisme et de travail social.
+[68] Même si la somme versée à Tigrent constitue une dépense en capital, une partie de celle-ci peut être progressivement déduite au fil du temps si la dépense entre dans la définition d’une dépense en capital admissible [37] . Dans ce cas, elle pourrait donner lieu à une déduction allant jusqu’à 1 834,25 $ pour l’année 2011 [38] .
+[69] En l’espèce, les paiements versés à Tigrent présentent les caractéristiques d’une dépense en capital admissible puisqu’ils concernent des immobilisations, ne sont pas autrement déductibles [39] et ne sont pas d’une nature exclue par la définition d’une dépense en capital admissible [40] .
+[70] En conséquence, les appelants peuvent, s’ils le souhaitent, demander une déduction ne dépassant pas 1 834,25 $ au titre de leur entreprise commune pour l’année d’imposition 2011 [41] . Les appels concernant l’année 2011 ne seront accueillis que dans cette mesure. En pratique, si les appelants le souhaitent, chacun d’eux aura une perte de la moitié de cette somme et pourra déduire cette perte de ses autres revenus.
+Conclusion
+[71] Pour les motifs exposés ci-dessus :
+Les appels de Darla Perron-Ali et de James Ali concernant l’année d’imposition 2010 sont rejetés.
+Aucune modification ne sera apportée à la cotisation de Darla Perron-Ali en ce qui concerne sa propre entreprise de consultation pour l’année d’imposition 2011.
+Les appels de Darla Perron-Ali et de James Ali au titre de l’entreprise commune en 2011 sont accueillis si les appelants présentent tous deux une demande écrite, envoyée à l’avocat de l’intimée sous pli recommandé au plus tard le 16 avril 2021, pour qu’une dépense en capital admissible ne dépassant pas 1 834,25 $ soit déduite dans le calcul du revenu de leur entreprise commune. Si une telle demande est faite :
+L’intimée doit examiner de nouveau l’année d’imposition 2011 des appelants et établir de nouvelles cotisations à l’égard de celle-ci pour permettre à l’entreprise commune de déduire le montant demandé ne dépassant pas 1 834,25 $; aucune autre modification ne sera apportée.
+Si aucune demande de la sorte n’est faite, les appels sont rejetés et aucune nouvelle cotisation n’est établie à l’égard des appelants pour l’année d’imposition 2011.
+L’appel de M. James Ali pour l’année d’imposition 2012 est accueilli, mais seulement pour permettre la déduction de la perte locative de 10 893 $ concédée par l’intimée.
+[72] Aucuns dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 12e jour de février 2021.
+« G. Jorré »
+Le juge suppléant Jorré
+RÉFÉRENCE :
+2021 CCI 6
+NO DU DOSSIER DE LA COUR :
+2016-1194(IT)I; 2016-1200(IT)I
+INTITULÉ :
+DARLA PERRON-ALI c. SA MAJESTÉ LA REINE; JAMES T. ALI c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 11 décembre 2019 et le 8 octobre 2020 [42]
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Gaston Jorré
+DATE DU JUGEMENT :
+DATE DE RÉCEPTION DE LA TRANSCRIPTION :
+Le 12 février 2021
+Le 6 janvier 2020
+COMPARUTIONS :
+Représentant des appelants :
+M. Marshall B. Sone
+Avocat de l’intimée :
+Me Colin McArthur
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+En blanc
+Cabinet :
+En blanc
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Transcription, pages 145 et 146.
+[2] Transcription, page 5.
+[3] Pièce A-2.
+[4] Bien que les frais de véhicule à moteur aient été reconnus après la présentation de la preuve, cet élément de preuve est pertinent à l’égard de l’appréciation globale de la preuve de Mme Perron-Ali et de la question de savoir s’il y avait un motif raisonnable pour que l’employeur ne délivre pas de formulaire T2200.
+[5] C’est ce qui ressort clairement du témoignage de l’appelante. En outre, Sinisa Medic, un témoin cité par l’appelante, a confirmé que la pratique de la Hamilton Health Sciences Corporation était de payer les kilomètres parcourus pour le travail; cela est également confirmé par la politique de l’entreprise figurant à la pièce A-1.
+[6] Si elle estimait que le montant payé par son employeur n’était pas raisonnable, il aurait dû être inclus à la ligne 11 du formulaire T777 déposé dans lequel elle a calculé ses dépenses. Bien entendu, en application de la Loi de l’impôt sur le revenu, lorsqu’un contribuable reçoit un montant raisonnable, ce montant reçu n’est pas imposable et aucun montant de dépenses ne peut être déduit.
+[7] Voir la pièce A-2.
+[8] Ces exigences sont résumées aux paragraphes 8 à 18 inclusivement des motifs de la décision Chao c. La Reine, 2018 CCI 72.
+[9] Ce paragraphe est libellé ainsi : [u]n contribuable ne peut déduire un montant pour une année d’imposition en application des alinéas (1)c), f), h) ou h .1) ou des sous-alinéas (1)i)(ii) ou (iii) que s’il joint à sa déclaration de revenus pour l’année un formulaire prescrit, signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies quant au contribuable au cours de l’année.
+[10] De telles cas exceptionnels obligeraient un appelant à démontrer qu’il lui était impossible d’obtenir un formulaire T2200. Par exemple, un appelant devrait démontrer qu’il a fait les efforts d’une personne prudente et diligente en temps opportun pour obtenir le formulaire et que, dans le cas où un employeur refuse de remplir un formulaire, ce dernier agit, ce faisant, de manière déraisonnable. Cette question est plus amplement traitée dans la décision Chao c. La Reine, 2018 CCI 72, aux paragraphes 83 à 102. Il semble qu’aucun effort diligent n’ait été fait en l’espèce. Les seuls efforts évidents pour obtenir le formulaire T2200 semblent avoir été déployés pendant les quelque 10 jours ayant précédé l’audience, voir la pièce R-2; en dehors de ceux-ci, l’appelante n’était pas certaine d’avoir fait des efforts préalables, voir les pages 52 et 53 de la transcription. On peut s’en étonner étant donné que le formulaire constitue une exigence à l’égard de la déduction, que l’appelante a fait préparer sa déclaration et qu’on aurait pu s’attendre à ce qu’elle soit informée à ce moment-là du fait qu’elle devait immédiatement obtenir le formulaire. Cela est d’autant plus surprenant que l’ARC a demandé le formulaire, entre autres choses, dans une lettre du 18 janvier 2016 adressée à l’appelante, voir la pièce R-3. De plus, il n’y a eu aucune tentative de démontrer que l’employeur a agi de manière déraisonnable en ne fournissant pas le formulaire parce qu’il remboursait une partie déraisonnablement faible des kilomètres réellement parcourus dans le cadre du travail. Aucun élément de preuve n’indique qu’une tentative en ce sens a eu lieu. Faute de détails particuliers sur les kilomètres parcourus pour montrer qu’ils étaient en fait liés au travail et faute de renseignements quant au nombre de kilomètres remboursés, rien ne permettait à l’appelante de démontrer que l’employeur agissait de manière déraisonnable. Au contraire, la preuve démontre que l’employeur a payé les dépenses d’emploi requises et, par conséquent, il n’était pas déraisonnable de sa part de ne pas fournir le formulaire. En ce qui concerne les dépenses de téléphone cellulaire, une telle déduction n’est autorisée que si l’employé est tenu de payer la dépense, voir l’alinéa 8(1)i) de la Loi de l’impôt sur le revenu à cet égard. Aucune obligation de ce type n’a été démontrée et, en dehors de toute question à l’égard du montant des dépenses, cette partie de la demande doit être rejetée pour cette seule raison. Bien entendu, si l’employeur n’exige pas le téléphone cellulaire, il n’est pas déraisonnable qu’il refuse de délivrer le formulaire à l’égard de ces dépenses. Enfin, j’observe que, dans le cas où des kilomètres déduits sont liés à un déplacement pour se rendre au travail et en revenir, il est bien établi que ce déplacement est personnel et non déductible.
+[11] Voir la première page de la pièce R-1.
+[12] Pièce A-4.
+[13] Transcription, page 67.
+[14] Après le dépôt par l’appelante d’un avis d’opposition, le 18 janvier 2016, l’ARC lui a écrit – et a envoyé une copie à son représentant – et lui a demandé de fournir un grand nombre de documents et d’autres renseignements, notamment en remplissant deux questionnaires. Cette lettre est la pièce R-3. Il est intéressant de constater qu’une grande partie de la documentation et des renseignements demandés auraient peut-être pu aider l’appelante au procès. Toutefois, il semble que l’appelante n’ait jamais répondu à la demande, voir la pièce R-4.
+[15] Voir la pièce A-8, pages 1 et 2, formulaire T2200. Il ressort clairement de la note ajoutée à la question 5 que l’employeur n’est pas en mesure de fournir une répartition entre le montant payé pour les kilomètres parcourus en véhicule à moteur et le montant payé pour l’utilisation d’un téléphone cellulaire faute de documents sources.
+[16] Voir la page 1 du formulaire T2200 aux questions 6 et 7, ainsi que la page 2 à la question 9, vers la fin de cette question.
+[17] C’est ce qui ressort de la première page jointe au formulaire T2200, soit la troisième page de la pièce A-8, qui semble être la copie d’un document concernant l’appelant pour l’année 2010, alors qu’il était employé par la commission scolaire, dans lequel figurent des renseignements comme le salaire brut, le salaire net et diverses retenues. Ce document fait état d’un salaire brut de 74 698,35 $. Toutefois, la quatrième page de la pièce A-8 contient une copie du feuillet T4 de l’appelant; la case des revenus d’emploi, la case 14, indique un montant de 72 961,71 $, soit exactement 1 736,64 $ de moins que 74 698,35 $. Pour une raison quelconque, le revenu d’emploi déclaré à la ligne 101 de la déclaration de revenus est inférieur de 2 475,73 $; on ne voit pas vraiment pourquoi il y a une différence avec le feuillet T-4.
+[18] Les deux se trouvent à la pièce A-8.
+[19] Voir la case 44 dans le feuillet T4 compris dans la pièce A-8.
+[20] Voir, par exemple, l’arrêt Barry c. Canada, 2014 CAF 280 (CanLII), dans laquelle la Cour d’appel fédérale énonce ce qui suit au paragraphe 15 : « Les frais de déplacement engagés par un contribuable pour se rendre de son domicile à son lieu de travail sont habituellement considérés comme des dépenses personnelles. De façon générale, ce ne sont pas des frais de déplacement engagés dans le cadre de l’accomplissement des fonctions d’emploi du contribuable. »
+[21] Ce texte se trouve dans les premiers mots du paragraphe 8(1) de la Loi de l’impôt sur le revenu qui est formulé ainsi : Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant[.]
+[22] À la page 91 de la transcription.
+[23] C’est ce qui a été fait dans l’appel Chrapko c. Canada, [1988] A.C.F. no 908 ( C.A.F.). Cet appel devant la Cour d’appel fédérale concernait un employé du Ontario Jockey Club qui vivait à Niagara Falls et qui travaillait 75 % du temps à Toronto, à l’hippodrome de Woodbine ou à l’hippodrome de Greenwood, et 25 % du temps à la piste de course de Fort Erie. La ville de Fort Erie est assez éloignée de Toronto, mais beaucoup plus près de Niagara Falls que Toronto. M. Chrapko réclamait des frais de déplacement pour se rendre à son travail aux trois endroits. La Cour d’appel n’a pas autorisé l’appelant à réclamer les frais de déplacement pour se rendre à l’une ou l’autre des pistes de course de Toronto, mais a accepté les frais de déplacement du domicile à la piste de course de Fort Erie. Même si les deux pistes se trouvaient à Toronto, une bonne distance séparait la piste de course de Woodbine de celle de Greenwood.
+[24] Il se peut également que si, au cours d’une année donnée, l’appelant allait d’une école à l’autre dans un secteur particulier de la commission scolaire, la situation ne soit pas différente de celle M. Chrapko dans l’arrêt Chrapko c. Canada, précité, dans la mesure où ce dernier se rendait aux champs de courses de Woodbine et de Greenwood. Voir la note précédente.
+[25] Voir les questions 5, 6 et 7 sur la première page du formulaire T2200 compris dans la pièce A-8.
+[26] Cette exigence découle des premiers mots du paragraphe 8(1) de la Loi de l’impôt sur le revenu.
+[27] Voir la dernière ligne de l’alinéa 8(1)i) de la Loi de l’impôt sur le revenu qui exige la déduction de tout remboursement.
+[28] Ces sommes sont déduites aux parties 5 et 6 du formulaire T2125. Par exemple, la somme la plus élevée de ces autres dépenses était une somme de 2 025 $ pour le téléphone et les services publics à la ligne 9220 du formulaire T2125. Compte tenu de ce qui a été dit lors de l’audience sur les activités de l’année (voir ci-dessous), il est difficile d’imaginer qu’il y aurait des frais de téléphone importants et il est difficile de concevoir qu’il y ait des frais de services publics autres que les services publics à domicile. Dans la mesure où une partie du domicile était utilisée en lien avec l’entreprise, étant donné que l’utilisation des dépenses liées au domicile ne peut pas augmenter une perte (voir l’alinéa 18(12)b) de la Loi de l’impôt sur le revenu), aucune déduction pour l’utilisation du domicile n’était possible et, par conséquent, aucuns frais de services publics ne seraient déductibles. Les frais d’automobile sont le deuxième poste le plus important, mais à part les témoignages selon lesquels l’une des séances de formation s’est tenue à Mississauga, rien ne permet de savoir combien de kilomètres ont été parcourus pour les besoins de cette entreprise.
+[29] Voir la page 75 de la transcription.
+[30] Eu égard à leur témoignage et aux factures figurant à la pièce A-5, je conclus qu’ils ont bien payé les cours.
+[31] Apparemment, CN est l’abréviation de « Canada » ou « Canadian »; à un certain moment, on a dit à M. Ali que Tigrent était la filiale d’une société américaine appelée Rich Dad Education.
+[32] La déduction devrait être inscrite ailleurs, vers la fin de la partie 5 du formulaire.
+[33] Voir la page 74 de la transcription.
+[34] Voir les pages 41, 44 et 79 de la transcription.
+[35] Je ne peux m’empêcher de constater que si, lors de la préparation du procès, les appelants avaient cherché à fournir au tribunal certains des renseignements demandés par l’ARC au stade de l’opposition, mais qui ne lui ont apparemment jamais été fournis, ces renseignements auraient pu leur être utiles dans le cadre du présent appel. Voir les pièces R-3, R-4, R-7 et R-8. Bien entendu, il se peut aussi que ces renseignements aient été inutiles.
+[36] Voir les alinéas 18(1)b) et h) de la Loi de l’impôt sur le revenu.
+[37] Conformément à l’alinéa 20(1)b) de la Loi de l’impôt sur le revenu comme il était alors libellé. Les dépenses en capital admissibles sont définies à l’article 14 de la Loi de l’impôt sur le revenu comme il était alors libellé.
+[38] C’est-à-dire, 34 938 $ x 75 % du coût x 7 % du solde des dépenses en capital admissibles dans le compte de capital admissible conformément à la Loi de l’impôt sur le revenu. Étant donné que les seules activités de l’entreprise en 2011 étaient de nature éducative, si j’avais été assuré de la nature et du montant des autres dépenses effectuées en dehors des paiements à Tigrent, elles auraient également été des dépenses en capital puisqu’elles ne pouvaient se rapporter qu’à l’activité de formation, de sorte qu’elles ne pouvaient pas être une dépense courante; toutefois, elles auraient pu être traitées comme une dépense en capital admissible dans la mesure où elles étaient toutes accessoires à la formation.
+[39] Sous réserve des exceptions décrites dans la définition d’une dépense en capital admissible, dont aucune ne s’applique en l’espèce.
+[40] Voir les alinéas a) à f) de la définition des dépenses en capital admissibles à l’article 14. Une autre exigence est que l’entreprise ait une activité continue. Je me suis demandé si une telle activité existait et si elle avait démarré en 2011. Quelle que soit la nature précise de l’activité économique, rien ne permettait de penser qu’il s’agissait d’un passe-temps ou d’une activité comportant un élément personnel plutôt qu’une entreprise. Quant à savoir si elle avait démarré, je conclus qu’en engageant 28 148 $ en février 2011 et 5 789 $ supplémentaires en avril 2011, ainsi que le temps et les efforts correspondants, les appelants ont fait preuve d’un engagement sérieux envers l’entreprise et celle-ci a démarré à ce moment-là.
+[41] La déduction prévue à l’alinéa 18(1)b), comme il était alors libellé, n’est pas automatique; les termes « la somme qu’un contribuable déduit » font en sorte que cette déduction est facultative.
+[42] La poursuite de la présente affaire a été retardée en raison de la pandémie de COVID-19.

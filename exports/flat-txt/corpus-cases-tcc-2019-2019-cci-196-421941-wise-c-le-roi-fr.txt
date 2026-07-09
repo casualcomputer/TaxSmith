@@ -1,0 +1,284 @@
+Title: Wise c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/421941/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-196-421941-wise-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2019-09-17
+
+# Wise c. Le Roi
+
+- Citation: 2019 CCI 196
+- Decision date: 2019-09-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4183, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wise c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-09-24
+Référence neutre
+2019 CCI 196
+Numéro de dossier
+2016-3191(IT)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-3191(IT)G
+ENTRE :
+VALERIE WISE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 3 septembre 2019, à Victoria
+(Colombie-Britannique).
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Avocat de l’appelante :
+J. Andre Rachert
+Avocat de l’intimée :
+Cédric Renaud-Lafrance
+JUGEMENT MODIFIÉ
+[Le présent jugement modifié remplace le
+jugement daté du 17 septembre 2019]
+Conformément aux motifs de jugement ci-joints, l’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu concernant les années d’imposition 2011 et 2012 de l’appelante est rejeté avec dépens adjugés à l’appelante conformément au tarif B.
+Signé à Ottawa, Canada, ce 24e jour de septembre 2019.
+« Guy R. Smith »
+Le juge Smith
+Traduction certifiée conforme
+ce 11e jour d’octobre 2023.
+François Brunet, réviseur
+Référence : 2019 CCI 196
+Date : Le 17 septembre 2019
+Dossier : 2016-3191(IT)G
+ENTRE :
+VALERIE WISE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS MODIFIÉS DU JUGEMENT
+[Les présents motifs modifiés du jugement remplacent les motifs du jugement datés du 17 septembre 2019]
+Le juge Smith
+I. – Introduction
+[1] Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation pour les avantages conférés à un actionnaire de 457 663 $ et de 164 006 $ pour les années d’imposition de 2011 et 2012, respectivement, et ce, en application du paragraphe 15(1) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch.1 (5e suppl.), en sa version modifiée (la « Loi »).
+[2] Comme il est mentionné dans la réponse à l’avis d’appel, le ministre a également soutenu à titre subsidiaire que les avantages devaient être inclus dans le revenu de l’appelante en application des articles 3 et 5 et de l’alinéa 6(1)a) de la Loi. Je note qu’aucun de ces motifs n’a été réellement soulevé ou examiné au cours de l’audience.
+II – Les questions en litige
+[3] La seule question en litige dans le présent appel consiste à savoir si le revenu de l’appelante doit être augmenté de la somme des avantages conférés à un actionnaire allégués.
+III – Le contexte
+[4] Les faits matériels ne sont pas controversés, et un exposé conjoint partiel des faits a été déposé avant l’audience. Il est joint aux présentes au titre de l’annexe A.
+[5] L’appelante et son fils, Nicholas Wise (« Nicholas ») ont témoigné à l’audience. Je conclus qu’ils étaient tous les deux des témoins crédibles.
+[6] En septembre 2008, l’appelante et son époux, Robert Wise, ont acheté un immeuble situé au 225, rue Dundas (l’« immeuble ») pour la somme de 950 000 $. Il n’était pas mis en vente à ce moment-là et il n’y a pas eu d’inspection de l’immeuble. Une clinique médicale exploitée par un certain Dr Murray, une connaissance de la famille, était propriétaire de l’immeuble et l’occupait.
+[7] À la suite à l’acquisition, le rez-de-chaussée et la mezzanine ainsi que le sous-sol ont été loués à la clinique médicale aux termes d’un bail de deux ans se terminant en septembre 2010. Le Dr Murray a accordé un prêt hypothécaire à l’appelante et à son époux, pour les aider à financer l’acquisition.
+[8] Entre-temps, l’appelante et son époux ont entrepris d’importants travaux de rénovation au deuxième étage, et en ont finalement fait leur résidence en octobre 2009. Le fait que ces frais de rénovation de 170 000 $ ont été payés par l’appelante et son époux à même leurs fonds personnels n’est pas controversé.
+[9] Robert Wise est décédé en octobre 2010 et l’appelante est devenue l’unique propriétaire de l’immeuble. Elle a continué d’occuper le deuxième étage.
+[10] L’appelante et Nicholas étaient les principaux actionnaires de Wise Victoria Mortgages Inc. (« WVM »), constituée en société en 2009. Ils étaient tous les deux employés de WVM à titre de courtiers en hypothèques et agents immobiliers. Ils souhaitaient changer l’emplacement de la société et occuper l’immeuble une fois que la clinique médicale aurait quitté les lieux.
+[11] Le 15 septembre 2010, l’appelante et WVM ont conclu un bail de cinq ans (le « bail ») qui comporte une option portant sur cinq années supplémentaires.
+[12] L’appelante a déclaré lors de son témoignage qu’elle s’est fiée à son conseiller juridique pour la préparation du bail, notamment sa durée. Entre elle et Nicholas, il était prévu que WVM occuperait les lieux indéfiniment.
+[13] Le bail comprenait [traduction] « le rez-de-chaussée et la mezzanine ainsi que le sous-sol » et l’usage exclusif d’une aire de stationnement du côté nord et de la terrasse du côté est.
+[14] Le bail prévoyait un loyer de base de 2 200 $ par mois, des coûts d’électricité qui devaient être calculés séparément ainsi que des « coûts d’exploitation supplémentaires » énoncés ainsi : [traduction] 1) 100 % de « l’entretien et l’aménagement paysager de l’aire de stationnement, du jardin et de la terrasse » 2) deux tiers (2/3) de [traduction] « la réparation ou de l’entretien courant des locaux », notamment, les frais municipaux, les assurances, [traduction] « la peinture extérieure […], l’entretien de l’extérieur de l’immeuble », mais [traduction] « à l’exclusion des réparations structurales et des réparations des murs, des planchers, des fondations, du toit ou de toute composante structurale de l’immeuble », telles qu’elles sont décrites dans la clause 4.3e)(i).
+[15] Malgré l’exclusion des « réparations structurales », mentionnées ci-dessus, WVM en qualité de locataire avait le droit, conformément à la clause 5.8, de [traduction] « faire des modifications, des rajouts ou des améliorations aux locaux » avec le consentement de la locatrice.
+[16] Il ressortait clairement de la preuve testimoniale que l’appelante avait autorisé les rénovations proposées, mais il était également entendu qu’elles seraient payées par WVM puisqu’il était prévu que l’immeuble deviendrait le fleuron de la société. Nicholas a témoigné, plus précisément, sur l’importance de la qualité des rénovations comme moyen d’attirer de nouveaux clients.
+[17] Selon les témoignages verbaux, il n’a pas été possible d’obtenir un contrat à prix fixe vu l’âge de l’immeuble et de l’incertitude entourant l’état réel des lieux. De plus, il était nécessaire de satisfaire aux exigences mises à jour du code du bâtiment municipal, ce qui a également été ajouté aux coûts.
+[18] En conséquence, l’estimation initiale de 150 000 $ est passée à 250 000 $, puis a grimpé pour atteindre la somme totale de 457 663 $ en 2011 et de 164 005 $ supplémentaires en 2012.
+[19] Le fait que les dépenses de rénovation (les « dépenses de rénovation ») étaient bien plus que mineures n’est pas controversé. En fait, elles étaient majeures et comprenaient de nombreuses modifications et améliorations structurales, notamment une nouvelle isolation, le remplacement des fenêtres, de nouvelles salles de bain, de nouveaux murs et du nouveau revêtement de sol et le remplacement des systèmes mécaniques et électriques.
+[20] Le fait que WVM a inclus les dépenses de rénovation dans la catégorie 13 « améliorations locatives » qu’elle a déclaré des déductions pour amortissement à l’égard de celles-ci pour les années d’imposition 2011 et 2012 n’est pas controversé.
+[21] En outre, le fait que WVM a payé les dépenses de rénovation, qu’elles n’ont pas été remboursées par l’appelante et qu’il n’y avait aucune entente prévoyant qu’elle le fasse n’est pas controversé. Le loyer n’a pas non plus été augmenté pour tenir compte des améliorations.
+[22] En mars 2012, l’appelante a obtenu une évaluation de l’immeuble dans le but de se voir consentir un nouveau prêt hypothécaire pour rembourser celui qui avait été accordé par le vendeur. Malgré le coût des rénovations, notamment celles à l’étage supérieur (environ 1 741 668 $), la juste valeur marchande a été établie à 1 250 000 $.
+[23] En mai 2013 ou vers cette date, WVM a conclu une convention de vente des améliorations locatives à Womble & Studebaker Holdings Ltd., une société que détient et contrôle entièrement l’appelante, pour la somme de 560 000 $.
+[24] À la même date ou vers cette date, l’appelante a conclu un accord visant le transfert d’une participation de 2/3 dans l’immeuble à Womble & Studebaker Holdings Ltd.
+[25] Ces documents ont été préparés sur la recommandation des comptables ou des conseillers juridiques de l’appelante et visaient à atténuer l’effet de la nouvelle cotisation du ministre qui fait l’objet du présent appel.
+IV – Le droit et la jurisprudence
+[26] Bien que l’intimée ait exposé une thèse subsidiaire, comme je l’ai mentionné précédemment, elle se fonde principalement sur le paragraphe 15(1) de la Loi, dont l’objet est d’imposer la valeur des avantages qui ne sont pas inclus de quelque manière que ce soit dans le revenu d’un actionnaire.
+[27] Comme l’a noté la juge V. Miller dans la décision Post c. La Reine, 2016 CCI 92 (par. 30), « [u]n des objectifs de l’article 15 de la LIR consiste à éviter que les sociétés utilisent des moyens détournés pour conférer un avantage économique non imposé à ses actionnaires ». En voici le texte :
+15(1) La valeur de l’avantage qu’une société confère, à un moment donné, à son actionnaire, à un associé d’une société de personnes qui compte parmi ses actionnaires ou à son actionnaire pressenti est incluse dans le calcul du revenu de l’actionnaire, de l’associé ou de l’actionnaire pressenti, selon le cas, pour son année d’imposition qui comprend ce moment, sauf dans la mesure où cette valeur est réputée en vertu de l’article 84 constituer un dividende ou dans la mesure où cet avantage est conféré à l’actionnaire [...]
+[Non souligné dans l’original.]
+[28] La plupart des affaires mettant en cause le paragraphe 15(1) concernent l’octroi par la société d’un avantage personnel ou d’un avantage sous la forme d’un logement ou d’un véhicule de luxe, par exemple, utilisé directement par un actionnaire ou un membre de la famille.
+[29] Dans ces affaires, la Cour doit examiner « la question fondamentale de savoir si un avantage a été conféré à un actionnaire et, dans l’affirmative, quelle en était la valeur » : Canada c. Fingold, [1997] 3 C.T.C. 441 (« Fingold »).
+[30] Dans l’arrêt Fingold, une société que contrôlait l’appelante, a fait l’acquisition d’un condominium de type « penthouse » au coût de 1,8 million de dollars et l’a rénové au coût de 2,2 millions de dollars. La Cour d’appel fédérale a conclu que l’actionnaire avait joui d’un avantage constitué « d’un appartement luxueux de son choix, dont l’utilisation était sous son contrôle exclusif » (par. 20) et la valeur de cet avantage pouvait être calculée selon la méthode du « rendement du capital investi » des coûts réels que la société a engagés au titre de l’avantage.
+[31] De même, dans l’arrêt Youngman c. La Reine, [1990] 2 C.T.C. 10 (« Youngman »), la société en cause a payé la résidence personnelle de l’actionnaire au coût de 395 549 $. L’actionnaire a ensuite payé un loyer mensuel de 1 100 $, mais le ministre a établi une cotisation au titre d’un avantage de 37 251 $ par année en fonction d’un taux de rendement du capital investi présumé sur les fonds dépensés par la société.
+[32] La Cour d’appel fédérale a indiqué qu’[traduction] « il est bien établi que l’alinéa 15(1)c) ne s’applique que lorsqu’un actionnaire a obtenu, en sa qualité d’actionnaire, un avantage d’une société » et que pour [traduction] « évaluer un avantage prétendument reçu [...] il est nécessaire de trouver le prix que l’actionnaire aurait dû payer pour le même avantage dans des circonstances semblables s’il n’avait pas été un actionnaire de la société » (par. 18).
+[33] Dans les arrêts Fingold et Youngman, il était évident que les actionnaires avaient obtenu un avantage personnel, mais la question en litige était principalement une question d’évaluation. Dans les deux cas, les actionnaires ont fait l’objet d’une cotisation établie selon la valeur de l’avantage dans l’année d’imposition au cours de laquelle il a été reçu.
+[34] L’arrêt antérieur Saint-Germain c. Minister of National Revenue, [1969] S.C.R. 471 (« Saint-Germain »), invoqué par l’intimée, portait sur une situation où l’appelant avait loué un terrain et un immeuble à une entreprise manufacturière qu’il contrôlait. Il a construit des « rajouts substantiels » sur une période de trois ans et le ministre a établi une cotisation au titre d’un avantage en application du paragraphe 8(1) de la Loi (la version antérieure du paragraphe 15(1). La Cour suprême du Canada a conclu ce qui suit :
+[traduction]
+4. Ces améliorations et ces rajouts étaient pour l’usage de la société dans l’exercice de ses activités. Ils ont été effectués et payés par la société et semblent avoir été inscrits dans les livres de la société comme actif.
+[...]
+9. Il me semble clair que, dès le début, on n’a jamais envisagé que ces améliorations et ces rajouts seraient enlevés à l’expiration du bail; à l’exception du hangar, ils étaient devenus parties intégrantes des immeubles existants et constituaient des améliorations et des rajouts permanents apportés aux immeubles.
+[...]
+13. Comme je l’ai mentionné, le bail, accordé par l’appelant à la société dont il avait le contrôle, était un bail verbal d’une location au mois. Les importants rajouts et améliorations apportés aux locaux loués avaient un caractère permanent, étaient intégrés aux bâtiments existants et ne pouvaient pas être enlevés avec avantage économique concevable pour le locataire. On n’a jamais envisagé qu’ils seraient enlevés [...].
+[Non souligné dans l’original.]
+[35] Comme l’a noté l’appelante dans ses observations finales, la conclusion tirée dans l’arrêt Saint-Germain semble reposer, en partie, sur la conclusion selon laquelle les améliorations avaient « un caractère permanent », mais aussi sur le fait qu’il s’agissait d’un « bail verbal d’une location au mois ». Par conséquent, la Cour a conclu que l’avantage était immédiat et devait être imposé dans l’année où il avait été reçu.
+[36] Dans l’arrêt R. c. Neudorf, [1975] C.T.C. 192 (FCA) (« Neudorf »), également invoqué par l’intimée, le contribuable détenait des locaux qu’il louait à une société qu’il contrôlait. Elle a payé un rajout au bâtiment existant qu’elle a réclamé comme une « amélioration locative » et s’est prévalue de la déduction pour amortissement.
+[37] Le ministre a établi une cotisation à l’égard de l’actionnaire en tenant pour acquis que le rajout [traduction] « est devenu, de plein droit, la propriété du défendeur au moment où il a été construit » et, par conséquent, il doit être considéré comme un avantage conféré à un actionnaire.
+[38] S’appuyant sur l’arrêt Saint-Germain, la Cour d’appel fédérale a abondé dans ce sens, notant qu’[traduction] « il n’y avait pas de bail écrit au moment de la construction du rajout » et qu’un bail signé par les parties après les cotisations était [traduction] « un arrangement pris ex post facto » et [traduction] « un document intéressé préparé dans le but d’échapper aux conséquences de l’imposition [...] ». Cela suppose que, s’il y avait eu un bail valide, il n’y aurait pas nécessaire eu avantage conféré à un actionnaire.
+[39] L’intimée a invoqué aussi la décision Soyko c. Minister of National Revenue, (1971) Tax A.B.C. 140 (la « Commission d’appel de l’impôt ») où une société contrôlée par l’actionnaire avait effectué des « modifications et améliorations importantes ». La Commission d’appel, renvoyant à l’arrêt Saint-Germain, a conclu que l’actionnaire avait reçu un avantage fondé sur le [traduction] « principe bien connu en droit selon lequel le propriétaire de l’immeuble devient propriétaire des améliorations » (par. 8). Dans cet arrêt, la Cour a fait remarquer que les terrains et le bâtiment étaient « loués selon une entente verbale ».
+[40] L’appelante invoque l’arrêt Kennedy c. M.R.N., [1973] C.T.C. 437 (Cour d’appel fédérale) (« Kennedy ») où un avantage conféré à un actionnaire, notamment, a fait l’objet d’une cotisation dans le cas où une société contrôlée par l’actionnaire avait agrandi le bâtiment sur un bien loué à l’actionnaire pour une durée de quatre ans et demi.
+[41] Le ministre a établi une cotisation à l’égard de l’actionnaire en tenant pour acquis que la dépense conférait un avantage égal au coût de l’amélioration. Toutefois, la Cour d’appel fédérale n’était pas d’accord et le juge en chef Jackett a indiqué ce qui suit :
+15. [...] Quand un locataire améliore les locaux loués, on détermine dans quelle mesure, le cas échéant, l’amélioration attribue un bénéfice au propriétaire, selon que cette amélioration augmente la valeur de ses droits de réversion, ce qui dépend des conditions du bail et de la nature. S’il s’agit d’un bail à long terme, il est possible que les améliorations n’attribuent aucun bénéfice. Comparer avec l’arrêt King c. Earl Cadogan, [1915] 3 K.B. 485 (CA). S’il s’agit d’une location au mois, il peut en résulter un bénéfice égal à l’augmentation de la valeur de la propriété. Comparer avec l’arrêt St-Germain c. M.R.N. [1969] R.C.S. 472, (1969) C.T.C. 194, 69 D.T.C. 5086 [...]
+[...]
+20. [...] compte tenu du fait qu’au moins trois ans et demi du bail de la propriété à loyer restaient à courir et qu’il ne s’agissait pas d’une simple location au mois comme dans l’affaire St-Germain, je suis d’avis que le montant du bénéfice n’était pas équivalent au montant dépensé pour l’amélioration ».
+[Non souligné dans l’original.]
+[42] De même, dans la décision Chandler c. The Queen, 2003 CCI 34 (procédure informelle) (« Chandler ») invoquée par l’appelante, le contribuable était propriétaire d’un bien immobilier et a acquis des participations importantes lui assurant le contrôle d’une société exploitante, qui y a érigé une structure en 1999. Trois ans plus tard, les parties ont conclu un bail de dix ans. Le ministre a établi une cotisation à l’égard d’un avantage conféré à un actionnaire correspondant aux coûts engagés.
+[43] La Cour a indiqué que le bail ne pouvait « rétroactivement, retirer un avantage qui aurait été conféré en 1999 », mais a estimé que les « documents [...] n’ont fait que rendre officielle une mesure du genre envisagée dès le début », et ce, en tenant compte du témoignage oral, elle était convaincue que l’amélioration avait été apportée pour répondre aux besoins précis du locataire et qu’il ne « s’agi[ssait] pas d’un moyen ou d’une mesure visant à conférer un avantage » (par 12).
+[44] Dans la décision Melançon c. La Reine, 2018 CCI 73, (« Melançon »), la société œuvrant dans le domaine de la construction de l’actionnaire a effectué des améliorations locatives au sous-sol de la résidence personnelle de l’actionnaire et l’occupait. La société a ensuite réclamé une déduction pour amortissement de la valeur des améliorations sur une période de trois ans avant de partir, laissant les améliorations intactes.
+[45] Bien qu’il n’y ait pas eu de bail, le ministre a établi une cotisation à l’égard d’un loyer fictif pour la durée de l’occupation et, plus précisément, a imposé à l’appelant la valeur résiduelle des améliorations locatives à ce moment-là – et non le coût initial des améliorations apportées trois ans plus tôt. La cotisation a été confirmée.
+[46] L’intimée invoque deux arrêts pour étayer la thèse selon laquelle même s’il existe un bail, vu les mots « à un moment donné » dans le paragraphe 15(1), un avantage conféré à l’actionnaire peut être calculé dans l’année d’imposition au cours de laquelle ces coûts sont engagés : Angle c. Minister of National Revenue, [1969] C.T.C. 624 (« Angle ») et Colubriale c. Canada, [2005] CAF 329 (« Colubriale »).
+[47] Dans l’arrêt Angle, une société contrôlée par l’actionnaire appelante a payé et installé une piscine à sa résidence. L’actionnaire a alors prétendu louer l’immeuble à la société. La Cour a examiné le caractère permanent de l’amélioration à la lumière du principe énoncé dans l’arrêt Saint-Germain et, en concluant que le bail était « inefficace », a jugé qu’un avantage avait été conféré à un actionnaire correspondant au coût de l’installation dans la même année d’imposition.
+[48] Dans l’arrêt Colubriale, le juge Noël (maintenant juge en chef) a indiqué que les améliorations apportées par un locataire pouvaient créer des avantages qui, s’ils en sont, « étaient imposables dans les années où ils furent conférés » (par. 36). Toutefois, cette affirmation semble être une observation incidente puisque la Cour a également conclu qu’il n’y avait aucun élément de preuve sur « l’étendu [sic] des coûts reliés à ces travaux ou le moment où ils furent effectués » (par. 4). Autrement dit, la Cour n’était pas réellement saisie de la question.
+[49] Comme l’a soutenu l’appelante, l’approche décrite dans les affaires Kennedy et Chandler semble rejoindre l’interprétation technique du Bulletin numéro IT-432R2 (1995) de l’ARC qui, bien qu’elle ne lie pas la Cour, est instructive :
+10. Une société qui loue un immeuble appartenant à un actionnaire peut faire un ajout ou apporter une amélioration à cet immeuble. Si un tel ajout ou une telle amélioration revient au propriétaire de l’immeuble, un avantage est considéré avoir été accordé à l’actionnaire par la société selon le paragraphe 15(1). La valeur de l’avantage est considérée correspondre à la valeur actuelle du montant, s’il en est, de l’augmentation qu’apporte l’ajout ou l’amélioration à la valeur de l’immeuble pour l’actionnaire au moment où l’immeuble lui revient. [...]
+[Non souligné dans l’original.]
+[50] Cela semble confirmer la restriction apportée par la Cour d’appel fédérale dans l’arrêt Kennedy au principe général énoncé dans l’arrêt Saint-Germain.
+[51] La question de savoir si une amélioration augmente la valeur des droits de réversion du propriétaire dépend des conditions du bail – « et s’il s’agit d’un bail à long terme, il est possible que les améliorations n’attribuent aucun bénéfice » (Kennedy, par. 15).
+[52] Le Black’s Law Dictionary (6e édition, West Publishing, St. Paul, 1990) définit l’« intérêt réversif » de la façon suivante :
+[traduction]
+Le droit d’une personne dans la réversion de terrains ou d’autres immeubles. Un droit à la jouissance future d’un immeuble, qu’une personne possède ou qu’elle occupe actuellement. L’immeuble qui revient au concédant lorsque l’intérêt intermédiaire du revenu est échu. Supposons, par exemple, que G place un bien immobilier dans une fiducie procurant un revenu à A pendant onze ans et, à l’expiration de ce délai, le bien revienne à G. Dans ces circonstances, G a conservé un droit de réversion sur le bien. Un intérêt réversif est identique à un intérêt résiduel, mais dans ce dernier cas, le bien est transmis à quelqu’un d’autre que le propriétaire initial (par exemple, le concédant d’une fiducie) lorsque l’intérêt intermédiaire est échu.
+[Non souligné dans l’original.]
+V – Analyse
+[53] Comme le note l’intimée, en matière de fiscalité, les questions de forme (Canada c. Friedberg, [1989] 1 C.T.C. 274, par. 5) sont telles que la Cour ne peut, en l’espèce, perdre de vue le fait que l’appelante et WVM avaient conclu un bail de cinq ans assorti d’une option de renouvellement de cinq ans.
+[54] Les témoignages verbaux ont confirmé que WVM était toujours en possession des locaux loués au moment de la présente audience et que l’intention des parties était qu’ils le demeurent pendant une période beaucoup plus longue.
+[55] L’intimée soutient que le bail ne prévoyait pas les importantes améliorations structurales qui ont été faites. S’il est vrai que le bail excluait les « réparations structurales », une autre disposition permettait à la locataire d’apporter des modifications structurales aux locaux loués avec le consentement préalable de la propriétaire.
+[56] Selon le témoignage verbal de l’appelante, elle avait consenti à ces changements structurels tant qu’ils étaient payés par WVM qui en bénéficierait directement pendant au moins la durée du bail.
+[57] L’intimée soutient que les paiements de loyer mensuels n’ont pas été augmentés pour tenir compte de la valeur des dépenses de rénovation. Je ne suis pas convaincu que cela soit déterminant pour la question étant donné que le témoignage verbal a établi que le loyer de base convenu au début de la période de location tenait compte des tarifs commerciaux pour l’immeuble pris « tel quel ». Le ministre semble avoir donné son accord à cet égard.
+[58] L’intimée fait valoir qu’un locataire commercial sans lien de dépendance n’aurait jamais accepté de payer un loyer de 26 400 $ par année (2 200 $ par mois) ainsi que l’équivalent de 62 166 $ par année, soit la valeur des dépenses de rénovation amorties sur la durée du bail.
+[59] Je conclus que la thèse du ministre est spéculative et que, de toute façon, cette hypothèse a été réfutée par le témoignage oral. Nicholas a souligné l’importance de la qualité des améliorations et la volonté de rénover un édifice patrimonial en tant que siège social emblématique ou phare de WVM.
+[60] Comme l’a soutenu l’appelante, les dépenses de rénovation ont grimpé rapidement vu l’âge de l’immeuble et la nécessité de respecter les règlements municipaux. Ils avaient peu de contrôle sur ces coûts, mais étaient déterminés à mener à bien le projet.
+[61] Il n’est ni inhabituel ni surprenant qu’un contribuable engage des coûts importants pour la rénovation d’un édifice patrimonial. Toutefois, il n’appartient pas à la Cour de remettre en question le sens des affaires ou le jugement du contribuable qui engage ces coûts. Comme l’a soutenu l’appelante, le ministre ne s’est pas expressément fondé sur l’article 67 de la Loi ni ne suppose que les coûts étaient « déraisonnables ».
+[62] Il est évident, comme l’a soutenu l’intimée, que certaines des dépenses de rénovation ont été engagées pour des améliorations structurales qui avaient « un caractère permanent », comme il est énoncé dans l’arrêt Saint-Germain, notamment les systèmes électriques et mécaniques. Cependant, à la lumière du droit de tenure à bail accordé à WVM (qui pourrait s’étendre au-delà de la durée de 10 ans), il n’est pas possible pour la Cour de quantifier la valeur de l’avantage conféré à un actionnaire allégué ou de spéculer sur l’espérance de vie ou la valeur résiduelle à l’appelante. Cette question reste à trancher.
+[63] Dans l’arrêt Angle, le juge Noël a expliqué que l’application du paragraphe 15(1) suppose l’imposition d’un avantage conféré à un actionnaire « correspondant à la valeur du bien approprié » (par. 33), mais que « l’avantage doit être réel » (par. 27) et « [e]n l’absence d’un avantage réel, aucune fiction légale ne vient réputer un avantage [...] ». C’est donc que la preuve devait démontrer que l’appelant « fut, de fait, avantagé » (par. 28). En l’espèce, je conclus qu’elle ne l’a pas reçu.
+[64] Autrement dit, malgré l’utilisation des termes « à un moment donné » dans le paragraphe 15(1), la Cour doit conclure que la valeur résiduelle des améliorations locatives ne peut être quantifiée tant qu’elles ne reviennent pas à l’appelante. Si le ministre estimait le contraire, il lui appartenait de produire la preuve contraire, peut-être sous la forme d’un rapport d’expertise.
+VI – Conclusion
+[65] Quant à savoir si l’appelante a reçu un avantage conféré à un actionnaire aux termes du paragraphe 15(1) relativement aux améliorations locatives apportées au cours des années d’imposition visées, la Cour conclut qu’elle ne l’a pas reçu.
+[66] Conformément à la jurisprudence mentionnée ci-dessus, notamment les arrêts Kennedy et Chandler, la valeur résiduelle de son droit de réversion devra être évaluée en temps voulu, en supposant que WVM décide finalement de quitter les lieux.
+[67] En ce qui concerne les accords (mentionnés ci-dessus) qui auraient été préparés et prévus pour atténuer l’effet des nouvelles cotisations qui font l’objet du présent appel, la Cour abonde dans le sens de l’intimée : ils sont mieux qualifiés d’« arrangement pris ex post facto » qui ne peut avoir un effet rétroactif. Quel que soit leur effet, ils ne sont pas pertinents pour les questions dont la Cour est saisie.
+[68] Je conclus que les motifs subsidiaires avancés par le ministre, tels qu’ils sont énoncés ci-dessus, ne s’appliquent pas en l’espèce.
+[69] En conséquence de ce qui précède, l’appel doit être accueilli.
+Signé à Ottawa, Canada, ce 24e jour de septembre 2019.
+« Guy R. Smith »
+Le juge Smith
+Traduction certifiée conforme
+ce 11e jour d’octobre 2023.
+François Brunet, réviseur
+Annexe A
+2016-3191(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+VALERIE WISE
+appelante,
+- et -
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+Pour les besoins du présent appel seulement, l’appelante et l’intimée (les « parties ») ont admis les faits suivants :
+L’appel concerne les années d’imposition 2011 et 2012 de l’appelante.
+L’appelante était mariée à Robert Wise (« Robert »).
+L’appelante et Robert ont un fils, Nicholas Wise (« Nick »), qui est marié à Adrianna Wise.
+Robert est décédé le 22 octobre 2010.
+Wise Victoria Mortgages Inc.
+Depuis 2009, Wise Victoria Mortgages Inc. (« WVM ») exerce des activités de courtage hypothécaire à Esquimalt, en Colombie-Britannique.
+WVM emploie l’appelante et Nick au titre de courtiers en hypothèques et d’agents immobiliers.
+Pendant toute la période pertinente, les actions de WVM étaient détenues comme suit :
+(a)l’appelante détient 50 actions ordinaires de catégorie A, soit 49,5 % des actions avec droit de vote de WVM;
+(b)Nick détient 51 actions ordinaires de catégorie A, soit 50,5 % des actions avec droit de vote de WVM;
+(c)Adrianna Wise détient 100 actions privilégiées de catégorie D sans droit de vote de WVM.
+L’année d’imposition de WVM se termine le 31 juillet.
+L’immeuble de l’appelante
+L’achat de l’immeuble
+En septembre 2008, l’appelante et Robert ont fait l’acquisition d’un immeuble situé au coin d’une rue comportant deux adresses civiques différentes (l’« immeuble ») :
+(a)225, rue Dundas, Victoria, Colombie-Britannique;
+(b)505, rue Catherine, Victoria, Colombie-Britannique.
+L’appelante et Robert ont payé 950 000 $ pour l’immeuble, à l’exclusion des droits de mutation immobilière.
+L’immeuble a été acheté à une connaissance de Robert.
+L’immeuble n’était pas mis en vente au moment où l’appelante et Robert l’ont acheté.
+L’appelante et Robert n’ont pas fait inspecter l’immeuble par un inspecteur en bâtiment avant d’en faire l’acquisition.
+Au décès de Robert, l’appelante est devenue l’unique propriétaire de l’immeuble.
+L’immeuble de deux étages, construit en 1920, comportait un rez-de-chaussée, un deuxième étage et un sous-sol.
+Le rez-de-chaussée et le sous-sol de l’immeuble étaient destinés à être utilisés à des fins commerciales (les « étages commerciaux »).
+L’étage supérieur de l’immeuble était destiné à être utilisé à des fins personnelles (la « résidence »).
+Les étages commerciaux occupaient environ 2/3 de la superficie en pieds carrés de l’immeuble et atteignaient environ 2 600 pieds carrés.
+La résidence occupait environ 1/3 de la superficie en pieds carrés de l’immeuble.
+Le premier bail commercial
+L’appelante et Robert ont loué les étages commerciaux à une clinique médicale (le « premier bail commercial »), exploitée par l’ancien propriétaire de l’immeuble, pour une période de 2 ans, de septembre 2008 à septembre 2010.
+Les rénovations de la résidence
+L’appelante et Robert ont entrepris les rénovations de la résidence dès l’achat de l’immeuble en 2008.
+Les travaux de rénovation de la résidence portaient sur l’intérieur de l’appartement résidentiel.
+L’appelante et Robert ont payé les rénovations de la résidence avec leurs propres fonds.
+Les rénovations de la résidence s’élevaient à environ 170 000 $.
+Les rénovations de la résidence ont été pratiquement achevées en octobre 2009.
+L’appelante et Robert ont emménagé dans la résidence au cours du mois d’octobre 2009.
+Le deuxième bail commercial
+Le 15 septembre 2010, l’appelante et Robert ont loué les étages commerciaux, l’aire de stationnement, le jardin et la terrasse de l’immeuble à WVM (le « deuxième bail commercial »).
+Les rénovations des étages commerciaux
+Les rénovations énumérées sous les sous-titres « Extérieur », « Cour », « Mécanique/systèmes » et « Intérieur de bureau », du document se trouvant à l’onglet 16 du livre de documents de l’intimée, ont été entamées après le 15 septembre 2010.
+WVM a engagé des dépenses s’élevant aux sommes suivantes (les « dépenses de rénovation ») :
+(a)457 663 $ en 2011;
+(b)164 006 $ en 2012.
+WVM a traité les dépenses de rénovation au titre de la catégorie 13 – Améliorations locatives – et a demandé une déduction pour amortissement à cet égard dans ses déclarations T2 pour l’impôt sur le revenu des sociétés pour les années d’imposition 2011 et 2012.
+L’appelante n’a pas payé ou remboursé directement à WVM les dépenses de rénovation.
+Le compte dû à l’actionnaire de la société pour l’appelante n’a pas été réduit en contrepartie du fait que WVM a engagé les dépenses de rénovation.
+WVM n’avait pas d’entente écrite avec l’appelante pour payer les dépenses de rénovation.
+Au 2 mars 2012, la juste valeur marchande de l’immeuble était d’environ 1 125 000 $.
+Le loyer facturé par l’appelante à WVM aux termes du deuxième bail commercial est demeuré le même pendant toute la période pertinente.
+Womble & Studebaker Inc.
+La société Womble & Studebaker Holdings Ltd.(« Womble ») est contrôlée par l’appelante.
+Pendant toute la période pertinente, l’appelante était l’unique propriétaire des actions de Womble.
+La vérification et la cotisation à l’égard de l’appelante
+CONSENTI le
+28 août 2019
+28 août 2019
+COOK ROBERTS LLP
+PROCUREUR GÉNÉRAL DU CANADA
+7 – 1175, rue Douglas
+Victoria (Colombie-Britannique)
+V8W 2E1
+Télécopieur : 250-413-3300
+Par : J. Andre Rachert
+Shelley J. Spring
+Téléphone : 250-385-1411
+Avocat de l’appelante
+Ministère de la Justice du Canada
+Services du droit fiscal
+99, rue Bank, bureau 1100
+Ottawa (Ontario) K1A 0H8
+Télécopieur : 613-941-2293
+Par : Cédric Renaud Lafrance
+Téléphone : 613-670-6541
+Avocat de l’intimée
+RÉFÉRENCE :
+2019 CCI 196
+NO DU DOSSIER DE LA COUR :
+2016-3191(IT)G
+INTITULÉ :
+VALERIE WISE ET LA REINE
+LIEU DE L’AUDIENCE :
+Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 3 septembre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+DATE DU JUGEMENT MODIFIÉ :
+Le 17 septembre 2019
+Le 24 septembre 2019
+COMPARUTIONS :
+Avocat de l’appelante :
+J. Andre Rachert
+Avocat de l’intimée :
+Cédric Renaud-Lafrance
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+J. Andre Rachert
+Cabinet :
+Cook Roberts LLP
+Pour l’intimée :
+Nathalie G. Drouin Sous-procureure générale du Canada Ottawa, Canada

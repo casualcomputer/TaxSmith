@@ -1,0 +1,174 @@
+Title: O'Hagan c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521083/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-52-521083-o-hagan-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-05-02
+
+# O'Hagan c. Le Roi
+
+- Citation: 2023 CCI 52
+- Decision date: 2023-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5870, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+O'Hagan c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-05-05
+Référence neutre
+2023 CCI 52
+Numéro de dossier
+2013-3259(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-3259(IT)I
+ENTRE :
+SEAN O’HAGAN,
+appelant
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 19 janvier 2023 à Windsor (Ontario)
+Devant : L’honorable juge Bruce Russell
+Comparutions :
+Avocat de l’appelant :
+Me Eric Floryancic
+Avocat de l’intimé :
+Me Alexander Nguyen
+JUGEMENT MODIFIÉ
+L’appel interjeté par l’appelant concernant la cotisation du 15 novembre 2011 établie pour l’année d’imposition 2009 à l’égard de l’appelant relativement à la pénalité imposée en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu fédérale est rejeté [supprimé].
+Le présent jugement modifié remplace le jugement daté du 2 mai 2023.
+Signé à Ottawa, Canada ce 5e jour de mai 2023.
+« B. Russell »
+Le juge Russell
+Référence : 2023 CCI 52
+Date : Le 2 mai 2023
+Dossier : 2013-3259(IT)I
+ENTRE :
+SEAN O’HAGAN,
+appelant
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+I. Introduction : [1] L’appelant, Sean O’Hagan, interjette appel d’une pénalité de 25 286 $[1] imposée le 15 novembre 2011 en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu fédérale (la Loi). La pénalité prévue au paragraphe 163(2) est souvent qualifiée de « pénalité pour faute lourde ».
+II. Dispositions législatives : [2] Le paragraphe 163(2) énonce ce qui suit dans un passage pertinent :
+163(2) Faux énoncés ou omissions.
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure [à la moitié du montant d’impôt en litige] [...] [Non souligné dans l’original.]
+III. Preuve : [3] Le ministre du Revenu national a imposé cette pénalité en raison d’un faux énoncé dans la déclaration de revenus 2009 de l’appelant, déposée en mai 2010. Le faux énoncé était qu’en 2009, l’appelant, c’est-à-dire M. O’Hagan, avait subi une perte commerciale de 214 176 $.
+[4] L’appelant reconnaît qu’il s’agit d’un faux énoncé. Mais il maintient qu’il n’a pas, comme le précise le paragraphe 163(2), « sciemment ou dans des circonstances équivalant à faute lourde », fait un faux énoncé », y a participé, y a consenti ou y a acquiescé. Il affirme donc que la pénalité prévue paragraphe 163(2), a été imposée à tort.
+[5] L’appelant a témoigné quant à son niveau d’études, déclarant qu’il avait terminé ses études secondaires. Par la suite, en 2009, il a exercé pendant une dizaine d’années des emplois manuels, notamment dans le secteur de la construction et dans une usine d’un constructeur automobile. Son père, avec son aide, avait préparé ses déclarations de revenus annuelles. Les tempêtes de grêle qui se sont abattues sur le sud de l’Ontario en 2008 ont incité l’appelant à se lancer dans le « débosselage sans peinture » de véhicules. À la mi-2009, il a fait appel à un cabinet comptable, G.L. Fraser and Associates, pour préparer sa déclaration de revenus de 2009.
+[6] L’appelant a également témoigné qu’en 2009, son ami Pierre lui avait recommandé de consulter un autre cabinet comptable, identifié comme étant DSC, qui pouvait « revérifier » sa déclaration. L’appelant a témoigné qu’il avait communiqué avec DSC et rencontré un représentant de ce cabinet. Il a déclaré avoir retenu les services de DSC pour « revérifier » sa déclaration de revenus de 2009 que le cabinet comptable Fraser devait préparer.
+[7] Cependant, il a fini par signer une déclaration de revenus de 2009 préparée par DSC et datée du 18 mai 2010.
+[8] Il a témoigné qu’il ne savait pas que ce qu’il signait était une déclaration de revenus.
+[9] Dans la déclaration de revenus reprise et préparée par DSC, qu’il a signée et qui a été déposée en conséquence, le terme [traduction] « par : » figure immédiatement avant sa signature (qu’il a reconnue comme étant la sienne) à la page 4 de la déclaration de revenus préparée par DSC. Mais il n’en connaissait pas la raison. Il n’a rien demandé à qui que ce soit. En outre, la case voisine de la déclaration de revenus, réservée à l’identification des [traduction] « spécialistes professionnels en déclaration de revenus », n’avait pas été remplie.
+[10] À la page 2 de la déclaration, le [traduction] « revenu brut d’entreprise » est indiqué comme étant de 42 074 $ et le [traduction] « revenu net d’entreprise » est indiqué de manière relativement visible comme étant un montant négatif à six chiffres, à savoir « -214 176 ».
+[11] À la page 3 de la déclaration, le [traduction] « revenu total » est indiqué comme étant un montant négatif de « -213 628 »; le [traduction] « revenu net » est indiqué comme [traduction] « NUL »; et le [traduction] « revenu imposable » est indiqué comme [traduction] « NUL ». À la page 4, au-dessus de la signature de l’appelant, les rubriques [traduction] « Total à payer » et [traduction] « Solde dû » sont toutes deux indiquées comme étant [traduction] « NULLES ».
+[12] On peut voir au-dessus de la signature de l’appelant l’énoncé en caractères d’imprimerie suivant : [traduction] « J’atteste que les renseignements donnés dans cette déclaration et dans tous les documents annexés sont exacts, complets et révèlent la totalité de mes revenus. » Immédiatement sous la signature de l’appelant se trouve la mention imprimée : [traduction] « Le fait de faire une fausse déclaration constitue une infraction grave ».
+[13] En outre, la déclaration de revenus contient un formulaire de l’ARC intitulé « État des résultats des activités d’une entreprise ou d’une profession libérale » , qui montre que les [traduction] « recettes de l’appelant en tant qu’agent » s’élèvent à 42 074 $, les dépenses à « 256 250,30 $ », ce qui donne une perte nette négative de -214 176,10 $.
+[14] En outre, le formulaire de l’ARC intitulé « Demande de report rétrospectif d’une perte » est joint à la dernière partie de la déclaration de revenus. L’appelant a également signé ce formulaire, qui indiquait une perte autre qu’en capital de 48 184 $ à appliquer à son année 2006, une perte autre qu’en capital de 80 647 $ à appliquer à son année 2007 et une perte autre qu’en capital de 88 297 $ à appliquer à son année 2008. L’appelant a signé ce document dans la case réservée à la signature sur la deuxième des deux pages, ainsi que la date du 18 mai 2010 inscrite à la main. Immédiatement au-dessus de la signature de l’appelant se trouve la mention en caractères d’imprimerie : [traduction] « Attestation. J’atteste que les renseignements fournis dans le présent formulaire sont exacts et complets ».
+[15] L’appelant a renvoyé cette déclaration signée, y compris la demande de report rétrospectif d’une perte signée, à DSC pour qu’il la remplisse. Il ne s’est pas renseigné auprès de DSC sur quoi que ce soit à ce sujet.
+[16] Comme indiqué, l’appelant affirme qu’il ne savait pas que ce qu’il avait signé de la part de DSC était une déclaration de revenus de 2009 et le formulaire de demande de report rétrospectif d’une perte qui l’accompagnait. Il a déclaré que DSC était uniquement censé vérifier la déclaration préparée par le cabinet comptable Fraser. Je ne reconnais la véracité d’aucune de ces affirmations, comme indiqué ci-dessous.
+[17] En outre, il a témoigné qu’il travaillait en Alberta pendant la majeure partie de l’année 2010 pour effectuer des travaux relatifs aux dommages causés par la grêle et qu’il n’était pas au courant du courrier envoyé par l’ARC à son adresse en Ontario (la seule adresse que l’ARC avait pour lui), y compris une lettre datée du 2 novembre 2010 de la vérificatrice de l’ARC, Mme Sawatsky (qui a également témoigné), qui comprenait un questionnaire à remplir, afin de fournir plus de renseignements sur la très importante perte d’entreprise déclarée dans sa déclaration produite en 2009.
+[18] Le questionnaire n’a jamais été rempli. La lettre est restée sans réponse. Les parents de l’appelant, avec lesquels il vivait en Ontario, lui ont fait suivre du courrier en Alberta en 2010, mais il affirme n’avoir jamais vu de courrier qui lui avait été adressé par l’ARC. Il a également témoigné qu’il était stressé et que sa vie était [traduction] « chaotique » en raison de tous les travaux liés aux dommages causés par la grêle qu’il effectuait en Alberta et de ses déplacements d’un hôtel à l’autre dans le cadre de ce travail.
+[19] Une deuxième déclaration pour l’année 2009 de l’appelant, préparée par le cabinet comptable Fraser, signée par l’appelant et datée du 11 avril 2011, soit deux ans plus tard, a été déposée à cette date ou peu après, révisant alors la perte d’entreprise précédemment déclarée, pour déclarer à la place un revenu net d’entreprise de 16 141 $.
+[20] Cela a donné lieu à une lettre de proposition de la vérificatrice de l’ARC, Mme Sawatsky, datée du 26 juillet 2011, proposant que l’année fasse l’objet d’une cotisation selon la deuxième déclaration, mais avec une pénalité imposée aux termes du paragraphe 163(2), compte tenu des faux énoncés dans la déclaration initiale.
+[21] L’appelant a fait l’objet d’une cotisation en conséquence le 15 novembre 2011, comme cela avait été proposé, et cette cotisation comprenait la pénalité faisant l’objet du présent appel.
+[22] Le 6 janvier 2012, l’ARC a reçu un avis d’opposition d’une page concernant cette cotisation, apparemment préparé par DSC et signé par l’appelant. Cet avis désigne l’appelant comme étant le « cestui que trust » et invoque la Loi de l’impôt de Guerre sur le Revenu, 1917, ainsi que d’autres références non pertinentes et non précisées. L’appelant a témoigné qu’il l’avait signé sans le lire ni demander à qui que ce soit ce qu’il signifiait. Il a convenu que cela était similaire à ce qu’il avait fait avec la déclaration de revenus de DSC.
+IV. Les thèses des parties : [23] Il incombe à la Couronne intimée d’établir que l’imposition de la pénalité faisant l’objet de l’appel est correcte. L’intimé souligne le fait que l’appelant a signé la déclaration de 2009 ainsi que le formulaire de demande de report rétrospectif d’une perte qui l’accompagnait, tous deux préparés par DSC, sans les avoir examinés.
+[24] L’intimé invoque également le montant substantiel de la perte réclamée au titre du report sur des années d’imposition antérieures, qui s’élève à plus de 200 000 $, et qui est basée sur des dépenses fictives de 2009 dépassant 250 000 $. L’intimé prétend que l’appelant a volontairement mis de côté les faux énoncés contenus dans la déclaration préparée par DSC. À cet égard, diverses circonstances indiquaient la nécessité de mener une enquête plus approfondie avant la production de la déclaration.
+[25] L’avocat de l’appelant fait valoir que son client ne savait pas qu’il signait une déclaration de revenus lorsqu’il a signé la déclaration préparée par DSC qui contenait le faux énoncé. En outre, il n’y a pas de preuve d’aveuglement volontaire puisqu’il ne savait pas qu’il signait une déclaration. Il s’attendait à ce que la déclaration préparée par Fraser soit produite. Il a déclaré que son client avait accordé une confiance aveugle aux conseillers fiscaux, en faisant référence à DSC. L’avocat a déclaré que c’était [traduction] « stupide » et [traduction] « négligent », mais que [traduction] « la foi aveugle n’est pas en soi une faute lourde ». Une conclusion de faute lourde nécessite qu’un degré élevé de négligence soit démontré.
+V. Les règles de droit :
+[26] Quelles sont les règles de droit qui guident l’application du paragraphe 163(2)? En 2017, la Cour d’appel fédérale (CAF) dans l’arrêt Wynter c. Canada[2] a déclaré que les termes « connaissance » et « faute lourde » du paragraphe 163(2) ne sont pas conjonctifs et que l’intimé n’a qu’à prouver l’un d’eux pour imposer des pénalités pour faute lourde.
+[27] Par ailleurs, dans l’arrêt Wynter, la CAF a déclaré, à propos de l’aveuglement volontaire[3], ce qui suit :
+Il ne fait pas de doute que la faute lourde et l’ignorance volontaire, malgré leur différence sur le plan conceptuel, peuvent se recouper dans une certaine mesure lorsqu’elles sont appliquées. Un contribuable qui ferme les yeux sur la véracité et l’exactitude des renseignements fournis dans sa déclaration de revenus est volontairement ignorant et commet également une faute lourde. [Non souligné dans l’original.]
+[28] La description classique de la faute lourde en vue d’imposer une pénalité fiscale se trouve dans la décision de la Section de première instance de la Cour fédérale de 1984 dans l’affaire Venne v. The Queen[4] sous la plume du juge Strayer (tel était alors son titre). Elle a été approuvée par la Cour suprême du Canada dans l’arrêt Guindon c. Canada[5] comme suit :
+[traduction]
+La faute lourde doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de faire preuve de diligence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence quant au respect de la loi ».
+[29] En outre, les facteurs qu’un tribunal peut prendre en considération pour déterminer si un contribuable a fait preuve d’une faute lourde comprennent, entre autres, l’ampleur de l’omission, la possibilité qu’avait le contribuable de détecter l’erreur, le niveau d’éducation et d’intelligence du contribuable et l’effort sincère qu’il a déployé pour se conformer à la loi[6].
+[30] En outre, les connaissances générales d’un contribuable en matière commerciale et fiscale sont pertinentes pour déterminer le degré de faute requis[7].
+[31] Dans l’affaire Torres c. La Reine[8], le juge C. Miller de la Cour a discuté de l’aveuglement volontaire en ce qui concerne les pénalités prévues au paragraphe 163(2). Il a admis que l’aveuglement volontaire peut impliquer la connaissance ainsi que constituer une faute lourde. Il a cerné plusieurs « signes avant-coureurs » qui indiquent qu’il devait y avoir nécessité de s’informer, ou soupçon d’une telle nécessité, notamment :
+a. « Importance de l’avantage ». En l’espèce, l’ampleur de l’avantage recherché est considérable, puisqu’il s’agit d’un remboursement intégral pour l’année d’imposition 2009 et de demandes de report rétrospectif d’une perte pour trois années antérieures, pour un total de 217 128 $;
+b. « Caractère flagrant du faux énoncé – facilement détectable ». En l’espèce, les faux énoncés facilement détectables dans la déclaration de revenus déposée étaient la déclaration de frais professionnels de 256 250 $ et la perte d’entreprise déclarée de 214 176 $, toutes deux facilement détectables;
+c. « L’absence, dans la déclaration elle-même, d’une attestation du spécialiste ayant préparé la déclaration ». En l’espèce, le spécialiste en déclarations de revenus de DSC ne s’est pas identifié dans l’espace prévu à cet effet dans la déclaration de revenus, qui était adjacent à l’espace réservé à la signature du contribuable;
+d. « Les demandes inusitées du spécialiste ». Le spécialiste en déclarations de revenus de DSC a demandé à l’appelant d’obtenir des copies des déclarations de plusieurs années antérieures, ce qu’il a fait, déclarant qu’il pensait que ces copies étaient destinées au spécialiste en déclarations de revenus pour qu’il puisse également les « revérifier ». Il ne s’agit pas d’une demande habituelle;
+e. « Le fait que le spécialiste était auparavant inconnu du contribuable ». Il est certain qu’en l’espèce, le spécialiste en déclarations de revenus de DSC n’était pas connu de l’appelant;
+f. « L’explication donnée par le spécialiste concernant les faux énoncés est inintelligible ». Cela est conforme à l’aveu de l’appelant dans son avis d’appel, à l’alinéa c), selon lequel il [traduction] « ne comprenait pas la position technique de déclaration adoptée par les spécialistes en déclarations de revenus ».
+[32] Dans l’affaire Bhatti c. La Reine[9], antérieure à la décision Torres, le juge Miller, se demandant si l’imposition d’une pénalité en vertu du paragraphe 163(2) était bien fondée, a écrit ce qui suit :
+Il est tout simplement insuffisant d’affirmer ne pas avoir vérifié ses déclarations. Confier aveuglément ses obligations à quelqu’un d’autre sans même une vérification minimale de l’exactitude de la déclaration va au-delà de l’imprudence. Donc, même si [la contribuable] n’a pas sciemment omis de déclarer le revenu, [la contribuable] a certainement adopté l’attitude cavalière du laisser-aller. [Non souligné dans l’original.]
+[33] Dans l’arrêt Paul Lauzon c. Canada, 2016 CAF 298, la CAF s’est penchée sur la question de savoir si une pénalité imposée au titre du paragraphe 163(2) était appropriée lorsque de fausses pertes commerciales avaient été déclarées. Dans cet arrêt, une déduction de 308 073 $ a été déclarée, assortie d’une demande de report rétrospectif d’une perte qui aurait permis d’obtenir le remboursement de la totalité de l’impôt du contribuable pour les années 2005 à 2008. Les pertes déclarées étaient entièrement fictives, ayant été créées par un spécialiste en déclarations de revenus du groupe Fiscal Arbitrators.
+[34] La CAF a rejeté l’appel, confirmant le rejet de l’appel par la Cour canadienne de l’impôt. Ce faisant, la CAF a renvoyé au paragraphe 4 de sa décision dans l’affaire Strachan c. Canada[10], en ce qui concerne le critère juridique pour déterminer la faute lourde en ce qui concerne les pénalités prévues au paragraphe 163(2) :
+La faute lourde peut être établie dans le cas où le contribuable fait preuve d’ignorance volontaire au sujet des faits pertinents lorsqu’il ressent le besoin de se renseigner, mais refuse de le faire parce qu’il ne veut pas connaître la vérité […]
+[35] Dans l’arrêt Nesbitt c. Canada[11], le juge Strayer de la Cour d’appel fédérale a fait observer que « [c]’est au moment où la déclaration est produite que l’on peut déterminer s’il y a eu ou non présentation erronée de faits par négligence ou inattention en remplissant la déclaration ».
+[36] À mon avis, cette logique s’applique également aux faux énoncés ou omissions au sens du paragraphe 163(2) de la Loi. En d’autres termes, la question de savoir si de tels faux énoncés ou omissions dans une déclaration justifient une pénalité imposée au titre du paragraphe 163(2) peut être déterminée au moment où la déclaration est produite.
+[37] Par conséquent, je ne considère pas que les éléments de preuve entendus qui sont postérieurs à la production de la déclaration de 2009 contenant le faux énoncé soient pertinents pour déterminer si la pénalité faisant l’objet du présent appel a été imposée à juste titre.
+VI. Discussion : [38] Après avoir examiné les éléments de preuve et la jurisprudence mentionnée ci-dessus, j’ai conclu que le présent appel devait être rejeté.
+[39] L’appelant admet avoir signé la déclaration préparée par DSC et le formulaire de demande de report rétrospectif d’une perte qui l’accompagnait sans les avoir examinés avant de les signer. Et ce, malgré l’avertissement imprimé dans l’espace réservé à la signature de ces formulaires, selon lequel la signature atteste la véracité des renseignements contenus dans le document.
+[40] En outre, aucune explication satisfaisante n’a été fournie quant à la raison pour laquelle la déclaration de l’année d’imposition 2009 préparée par le cabinet comptable Fraser n’a pas été signée et produite, contrairement à la déclaration de DSC. De plus, si DSC avait été engagé pour « revérifier » les déclarations préparées par le cabinet comptable Fraser, aucune explication n’a été donnée quant à la raison pour laquelle l’appelant a plutôt signé une déclaration préparée par DSC.
+[41] Je n’accepte pas non plus l’argument de l’avocat de l’appelant selon lequel l’appelant ne savait pas qu’il signait une déclaration de revenus, lorsqu’il a signé la déclaration préparée par DSC, ainsi que le formulaire de demande de report rétrospectif d’une perte qui l’accompagnait. L’appelant a fait des études secondaires complètes. En outre, au début de l’année 2010, alors qu’il s’apprêtait à remplir sa déclaration de revenus pour 2009, il travaillait activement depuis au moins une dizaine d’années.
+[42] En outre, je n’accepte pas le témoignage de l’appelant selon lequel DSC a déclaré qu’il se contenterait de « revérifier » la déclaration préparée par le cabinet Fraser pour l’appelant. Je pense que l’appelant a discuté avec DSC de la possibilité d’obtenir un remboursement d’impôt et que DSC préparerait la déclaration à produire, ce qui a effectivement été fait. Dans le cas contraire, DSC n’aurait pas préparé une déclaration de revenus que l’appelant a facilement signée.
+[43] En fait, dans l’avis d’appel de l’appelant, à l’alinéa c), il est plaidé (ce qui pourrait être considéré comme des aveux) que [traduction] « [l]es spécialistes en déclarations de revenus ont déclaré qu’ils avaient un plan fiscal qui résulterait en des remboursements [sic] pour l’année d’imposition 2009 ». De plus, comme cela a été invoqué, [traduction] « [l]es spécialistes en déclarations de revenus ont envoyé deux documents à l’appelant. L’appelant a signé et renvoyé les deux documents à ceux-ci. Les spécialistes en déclarations de revenus ont rempli la déclaration de revenus 2009 de l’appelant ».
+[44] À mon avis, c’est ce qui s’est produit en l’espèce.
+[45] Ces facteurs s’appliquent en l’espèce. L’un ou l’autre de ces facteurs, et a fortiori l’ensemble d’entre eux, aurait dû inciter l’appelant à se renseigner sur les documents fiscaux qu’on lui demandait de signer, ce qu’il aurait dû faire en tout état de cause. Cependant, de son propre aveu, l’appelant a simplement signé les documents sans les examiner ou sans se renseigner auprès des spécialistes en déclarations de revenus de DSC.
+[46] La présence des différents signaux d’alerte indiqués dans la décision Torres contribue substantiellement au degré de négligence inhérent au faux énoncé selon lequel, en 2009, l’appelant avait subi une perte d’entreprise de 214 176 $. L’appelant sait très bien que ce n’est pas le cas. Il avait en fait un revenu net d’entreprise de 16 141 $, comme cela a été déclaré deux ans plus tard lorsqu’il a produit la déclaration préparée par le cabinet Fraser pour 2009.
+[47] Les facteurs établis dans la décision Torres mentionnés ci-dessus indiquent tous la nécessité pour l’appelant d’examiner d’abord la déclaration de revenus préparée et la demande de report rétrospectif d’une perte qui l’accompagnait, afin de s’assurer de leur exactitude, plutôt que de signer les deux documents sans les avoir examinés. Néanmoins, l’appelant n’a fait aucun effort, même superficiel, pour vérifier l’exactitude et l’exhaustivité de sa déclaration avant de la signer.
+[48] L’absence totale d’examen ou d’enquête de la part de l’appelant, en présence de plusieurs facteurs établis dans la décision Torres signalant la nécessité de s’informer ou de mener une enquête, constitue à mon avis un aveuglement volontaire suffisant pour établir une faute lourde grave aux fins du paragraphe 163(2). Il convient de noter que notre système fiscal au Canada est fondé sur l’autodéclaration et l’autocotisation.
+VII. Conclusion : [49] Je conclus que la pénalité visée au paragraphe 163(2) a été imposée à juste titre. La faute lourde par aveuglement volontaire est en l’espèce établie lorsque le contribuable a signé la déclaration de revenus préparée sans avoir pris la peine de l’examiner au préalable.
+[50] Les facteurs qui aggravent cette situation sont que l’appelant est raisonnablement bien éduqué et qu’il a de l’expérience dans les affaires. En outre, c’était la première fois que l’appelant faisait appel aux services de DSC. En outre, DSC ne s’est pas identifié dans la déclaration comme le spécialiste en déclarations de revenus, malgré la case prévue à cet effet, adjacente à l’espace réservé à la signature du contribuable, où l’appelant a signé. Mais cela n’a donné lieu à aucune demande de renseignements de la part de l’appelant.
+[51] L’appelant a affirmé qu’il ne s’était pas rendu compte qu’il signait une déclaration de revenus. Comme indiqué plus haut, je n’y crois pas. L’appelant a, à plusieurs reprises au cours des années, en tant qu’adulte raisonnablement instruit et expérimenté en affaires, signé ses propres déclarations de revenus. Une personne ayant terminé ses études secondaires est certainement capable de désigner une déclaration de revenus. Et si vraiment il ne savait pas de quoi il s’agissait, cela n’aurait-il pas été une raison de plus pour examiner le document de plus près afin de déterminer ce à quoi il en retournait (ce qui en outre l’aurait probablement conduit à faire plusieurs faux énoncés)?
+[52] Je conclus que l’appelant, dans des circonstances d’aveuglement volontaire équivalant à une faute lourde, a fait un faux énoncé dans une déclaration, ou y a acquiescé. Par conséquent, le présent appel interjeté à l’encontre d’une pénalité imposée en vertu du paragraphe 163(2) sera rejeté.
+Signé à Ottawa, Canada, ce 2e jour de mai 2023.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2023 CCI 52
+NO DU DOSSIER DE LA COUR :
+2013-3259(IT)I
+INTITULÉ :
+SEAN O’HAGAN c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Windsor (Ontario)
+DATE DE L’AUDIENCE :
+Le 19 janvier 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge Bruce Russell
+DATE DU JUGEMENT MODIFIÉ :
+Le 5 mai 2023
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Eric Floryancic
+Avocat de l’intimé :
+Me Alexander Nguyen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Eric Floryancic
+Cabinet :
+Legal Focus LLP
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Toutes les sommes sont exprimées en dollars canadiens.
+[2] Wynter c. Canada, 2017 CAF 195, par. 11.
+[3] Wynter, par. 20.
+[4] Venne v. The Queen, 1984 CarswellNat 210 (C.F. 1re inst.).
+[5] Guindon c. Canada, 2015 CSC 41, par. 60.
+[6] Gray c. La Reine, 2016 CCI 54.
+[7] Venne, précité.
+Torres c. La Reine, 2013 CCI 380.
+[9] Bhatti c. La Reine, 2013 CCI 143, par. 30.
+[10] Strachan c. Canada, 2015 CAF 60.
+[11] Nesbitt c. Canada, 1996 CanLII 11569 (CAF), par. 8.

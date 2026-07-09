@@ -1,0 +1,68 @@
+Title: Janda v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27643/index.do
+Corpus path: corpus/cases/tcc/2006/2007-tcc-237-27643-janda-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-06-27
+
+# Janda v. The Queen
+
+- Citation: 2007 TCC 237
+- Decision date: 2006-06-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 399, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Janda v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-27
+Neutral citation
+2007 TCC 237
+File numbers
+2004-198(IT)G
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2007TCC237
+Date: 20070511
+Docket: 2004-198(IT)G
+BETWEEN:
+JASWINDER JANDA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDMENT TO REASONS FOR JUDGMENT
+Hershfield J.
+Reasons for Judgment signed on April 30, 2007 are amended by deleting the words “in 1991” from line 22, page 12.
+Signed at Ottawa, Canada, this 11th day of May 2007.
+“J.E. Hershfield”
+Hershfield J.
+CITATION: 2007TCC237
+COURT FILE NO.: 2004-198(IT)G
+STYLE OF CAUSE: JASWINDER JANDA AND THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 30, 2006
+REASONS FOR JUDGEMENT BY: The Honourable Justice J.E. Hershfield
+DATE OF ORAL JUDGMENT: June 30, 2006
+DATE OF AMENDMENT TO
+REASONS FOR JUDGMENT: May 11, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+For the Respondent:
+Lorraine Edinboro
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

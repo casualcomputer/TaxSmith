@@ -1,0 +1,140 @@
+---
+title: "Rioux c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27891/index.do"
+last_modified: "2005-04-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 217"
+citation2: ""
+neutral_citation: "2005 CCI 217"
+decision_date: "2005-04-21"
+language: "fr"
+item_id: "27891"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1739
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:59:36.987000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "586ea2fc5837b190e904d86daefed0cbfe76935bc79520e727576ea8032ae0c4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rioux c. La Reine
+
+- Citation: 2005 CCI 217
+- Decision date: 2005-04-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1739, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rioux c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-21
+Référence neutre
+2005 CCI 217
+Numéro de dossier
+2004-2569(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2569(IT)I ENTRE :
+GERMAIN RIOUX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appels entendus le 23 février 2005 à Montréal (Québec).
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Représentant de l’appelant :
+Jacques Dépatie, C.A.
+Avocate de l’intimée :
+Me Soleil Tremblay
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001 et 2002 sont rejetés.
+Signé à Ottawa, Canada, ce 21e jour de avril 2005.
+"Gerald J. Rip"
+Juge Rip
+Référence : 2005CCI217 Date : 20050421
+Dossier : 2004-2569(IT)I
+ENTRE :
+GERMAIN RIOUX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Germain Rioux a interjeté appel des cotisations d’impôt sur le revenu établies pour les années 2001 et 2002, dans lesquelles le ministre du Revenu national lui a refusé la déduction, prévue à l’alinéa 60b) de la Loi de l’impôt sur le revenu (la « Loi »), des montants qu’il a payés à son ex‑épouse à titre de pension alimentaire.
+[2] Le représentant de l’appelant a admis les faits suivants que le ministre a tenus pour acquis en établissant les cotisations :
+a) L’appelant et Madame Hélène Salvail (ex-conjointe) ont célébré leur mariage le 2 septembre 1983;
+b) Deux enfants sont nés de leur union; Guillaume le 15 décembre 1985 et Jasmin le 23 mars 1988;
+c) Les parties vivent séparées l’un de l’autre depuis le 1er juillet 1998;
+d) En date du 27 octobre 1999, un jugement sur mesures provisoires est rendu selon lequel il est ordonné à l’appelant de verser une pension alimentaire hebdomadaire pour enfants de 109 $ et une pension alimentaire hebdomadaire au profit du conjoint de 141 $;[1]
+e) En date du 25 avril 2000, un jugement en modification des mesures provisoires est rendu selon lequel il est convenu, qu’en attendant que l’ex‑conjointe se trouve un endroit où habiter, l’appelant aura la garde des enfants et paiera à son ex‑conjointe, pour son profit, une pension alimentaire hebdomadaire de 250 $;[2]
+f) En date du 28 avril 2000, un jugement est rendu entérinant la requête en modification des mesures provisoires du 25 avril 2000;
+g) Depuis le 1er juillet 2000, l’ex‑conjointe s’est trouvée [sic] un endroit où habiter et, a repris le régime de garde partagée des enfants;
+h) En date du 29 avril 2002, un jugement de divorce est rendu selon lequel l’appelant est tenu de payer, à partir du 1er mai 2002, une pension alimentaire mensuelles [sic] pour enfants de 547.84 $ et, une pension alimentaire mensuelle au profit du conjoint de 1 300 $ .
+[3] Dans sa réponse à l’avis d’appel, l’intimée se réfère aux paragraphes 56.1(4) et 60.1(4) et à l’alinéa 60b) de la Loi et soutient que le ministre a raison de refuser la déduction demandée par l’appelant. L’intimée ne donne cependant dans sa réponse aucune raison précise justifiant ce refus. Au procès, son avocate a dit que le ministre a refusé la déduction parce que, en 2001 et jusqu’au 29 avril 2002, aucun montant n’était payable par l’appelant à son ex‑épouse à titre de pension alimentaire en vertu d’une ordonnance rendue par un tribunal compétent ou d’un accord écrit.
+[4] L’avocate de l’intimée faisait valoir que le jugement du 28 avril 2000 avait annulé le jugement du 27 octobre 1999. Le jugement du 28 avril 2000 n’avait plus aucun effet à partir du moment où l’ex‑épouse s’est trouvé un endroit où habiter, le 1er juillet 2000; ce jugement est devenu caduc, et il n’y avait aucun accord ni jugement obligeant l’appelant à verser une pension alimentaire à son ex‑épouse. Le jugement initial du 27 octobre 1999 et le jugement du 28 avril 2000 avaient cessé d’avoir effet. Par conséquent, les sommes versées par M. Rioux à son ex‑épouse en 2001 et jusqu’au 29 avril 2002, la date du jugement de divorce, ne l’ont pas été en vertu d’une ordonnance rendue par un tribunal compétent ou d’un accord écrit et ne sont pas déductibles dans le calcul du revenu de M. Rioux.
+[5] Le représentant de M. Rioux prétendait que le consentement du 25 avril 2000 et le jugement du 28 avril 2000 constituaient une mesure temporaire tenant compte d'un changement temporaire dans la situation de l’ex‑épouse en ce qui concerne le logement et que le jugement du 27 octobre 1999 a repris effet lorsque celle‑ci s’est trouvé un endroit où habiter. Les sommes qui lui ont été versées par l’appelant après le 1er juillet 2000 l’ont été en vertu du jugement du 27 octobre 1999, comme le confirmait, selon le représentant, une lettre du 21 décembre 2000 envoyée à M. Rioux par la Direction générale de la capitale et des régions du ministère du Revenu du Québec. Cette lettre l’informait qu’il devait « verser directement au Ministère du Revenu, pour le bénéfice du créancier alimentaire, la somme de $256,25 par semaine qui représente le montant de votre pension alimentaire, endossée conformément à ce qui est prévu au jugement au Code Civil du Québec et que le paiement entre en vigueur le 16 janvier, 2001 ». Je crois que cette lettre ne prouve rien. En fait, dans une autre lettre du ministère du Revenu du Québec, M. Germain Rioux a été informé que le montant qu'il a versé au ministère de Revenu du Québec pour l’année 2001 n’était pas nécessairement le montant qu’il devait déduire dans le calcul de son revenu.
+[6] La question dont je suis saisi met en cause l’intention de l’appelant et de son ex‑épouse lorsqu’ils ont signé le consentement du 25 avril 2000. Dans Gagné c. La Reine[3], le juge Décary de la Cour d’appel fédérale a adopté l’opinion de Jean‑Louis Baudouin (maintenant juge à la Cour d'appel du Québec) :
+[10] Il est acquis, en droit civil québécois, que si la commune intention des parties dans un contrat est douteuse, le juge « doit essayer de rechercher ce que les parties ont réellement voulu par leur engagement » (Jean‑Louis Baudouin, Les Obligations, 4e éd., 1993, Les Éditions Yvon Blais [...]). Le juge doit « accorder plus d’importance à la véritable intention des contractants qu’à l’intention apparente, objectivement manifestée par l’expression formelle » [...], et il doit vérifier quel était l’effet que les parties voulaient donner au contrat [...]. Pour ce faire, le juge doit avoir une vue d’ensemble de l’intention des parties, ce qui suppose une analyse de toutes les clauses du contrat les unes par rapport aux autres [...]. S’il subsiste alors quelque doute quant à l’intention réelle des parties, le juge peut faire « l’examen de la façon dont les parties se sont conduites par rapport au contrat, dans leurs négociations, et surtout de leur attitude après sa conclusion, donc de l’interprétation qu’elles lui ont déjà donnée... » [...].
+[7] Malheureusement, l’ex‑épouse de M. Rioux n’a pas témoigné. Dans des appels comme celui‑ci, j’hésite à accepter un témoignage intéressé qui n’est pas corroboré par une preuve indépendante. Le présent appel a été interjeté selon la procédure informelle, et j’aurais été disposé à tenir compte de lettres échangées entre avocats, par exemple, qui auraient étayé la prétention de M. Rioux selon laquelle le consentement du 25 avril 2000 était un arrangement temporaire s’appliquant seulement jusqu’à ce que son ex‑épouse ait trouvé un endroit où habiter. Lorsqu’elle a ratifié cet accord le 28 avril 2000, la Cour supérieure n’a rien dit, dans son jugement, au sujet de l’effet de ce jugement sur celui rendu le 27 octobre 1999. Le jugement du 25 avril 2000 (ou le consentement en cause) n’indique pas que le jugement du 27 octobre 1999 devait reprendre pleinement effet lorsque l’ex‑épouse de l’appelant se serait trouvé un endroit où habiter.
+[8] La Cour d’appel du Québec a examiné l’effet d’une modification apportée à un accord relatif à une pension alimentaire dans M.N.K. c. N.N.[4], où le juge Vallerand a écrit :
+La méprise tient au fait qu’on qualifie de modification ce qui est à vrai dire une toute nouvelle détermination. On ne saurait il va de soi, modifier ce dont pour l’instant, on ignore tout; en l’espèce, ce que sera, après son passage à la Cour d’Appel, le jugement originel sur la pension. Or, notre Cour a déjà statué [...] et depuis rappelé que le juge saisi d’une requête en modification d’une pension alimentaire doit tout d’abord constater s’il y a eu changement substantiel dans les circonstances des parties et, si oui, reprendre la question de novo et non pas se contenter de faire un ajustement proportionnel, une modification. C’est que, dans la mesure où il a statué pour l’avenir indéterminé, le jugement qui a fixé la pension est, en quelque sorte, un jugement conditionnel – condition suspensive ou résolutoire peu importe - qui ne sera légal, conforme à la loi, qu’aussi longtemps que les circonstances des parties n’auront pas changé; lorsqu’elles auront changé l’application du jugement pour l’avenir ne sera plus conforme à la loi, ne sera plus légal sauf l’autorité du jugement toujours en vigueur. Saisi d’une nouvelle requête, une requête en « modification » la Cour sur la foi du changement des circonstances constatera la caducité légale du jugement antérieur lequel n’aura ainsi plus aucun effet. Et le pourvoi, par hypothèse toujours pendant, à l’encontre de ce premier jugement n’aura d’application que pour la période depuis son prononcé jusqu’au prononcé du jugement qui l’aura déclaré caduc. Ainsi donc le juge de la « modification », une fois l’avènement de la « condition » et donc de la caducité légale constaté, fera une nouvelle détermination et non pas une modification, à partir des circonstances des parties tel qu’on les établira devant lui. Bref, il y a ou pas modification substantielle des circonstances des parties et, si oui, lieu de fixer une nouvelle pension en regard des circonstances telles qu’on les établit devant le juge de la « modification » et cela sans égard au jugement précédent, fut‑il ou non porté en appel.
+Un exemple fera voir l’application pratique du principe : le débiteur d’une pension considérable perd toutes ses ressources. Devra‑t‑il attendre le sort du pourvoi à l’encontre du jugement qui a fixé la pension, attendre donc pour pouvoir demander l’extinction de son obligation quitte à être, entre temps, un débiteur alimentaire délinquant et à subir les tracasseries d’exécution interrogatoires, saisies, voire outrage alors que selon la loi il ne doit rien mais serait empêché de plaider son droit de ne rien devoir. Je ne le crois pas. Et ce que vaut pour rien vaut tout autant pour moins et, il va de soi, pour plus.
+[Non souligné dans l’original.]
+[9] La Cour d’appel fédérale a exprimé un avis similaire dans Gagné :
+[15] Il est évident, dans les circonstances, que tous les arrangements financiers stipulés dans l’entente l’étaient en fonction de la vente future et incertaine de la résidence familiale et non en fonction d’une date prédéterminée. L’entente liait les parties tant que la condition stipulée ne se réalisait pas. Et c’est ainsi que les parties elles‑mêmes l’ont comprise et exécutée.
+[16] [...] Rien de tel en l’espèce. Au contraire, la pension en litige a été payée en vertu d’un premier accord écrit, entériné de surcroît par une ordonnance judiciaire, et ce jusqu’à la conclusion d’un deuxième accord écrit remplaçant le premier et également entériné par ordonnance judiciaire.
+[10] Par conséquent, les appels doivent être rejetés.
+Signé à Ottawa, Canada, ce 21e jour de avril 2005.
+"Gerald J. Rip"
+Juge Rip
+RÉFÉRENCE : 2005CCI217
+NO DU DOSSIER
+DE LA COUR : 2004‑2569(IT)I
+INTITULÉ DE LA CAUSE : Germain Rioux c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 23 février 2005
+MOTIFS DU JUGEMENT PAR : L’honorable juge Gerald J. Rip
+DATE DU JUGEMENT : le 21 avril 2005
+COMPARUTIONS :
+Représentant de l’appelant :
+Jacques Dépatie, C.A.
+Avocate de l’intimée :
+Me Soleil Tremblay
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom : Jacques Dépatie, C.A.
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Ontario)
+[1] Je présume que les paiements étaient indexés.
+[2] Avant le 25 avril 2000, les deux parents ont participé à la garde des enfants. En fait, le 25 avril 2000, M. Rioux et Mme Salvail ont exécuté un consentement sur les requêtes pour modifications des mesures provisoires.
+[3] 2001 CAF 310, paragraphe 10.
+[4] Droit de la famille - 728 (SOQUIJ), [1989] A.Q. No 1878 (Q.L.).

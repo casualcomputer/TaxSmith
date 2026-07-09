@@ -1,0 +1,209 @@
+Title: Commission Scolaire des Découvreurs c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25059/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-295-25059-commission-scolaire-des-d-couvreurs-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-04-29
+
+# Commission Scolaire des Découvreurs c. La Reine
+
+- Citation: 2003 TCC 295
+- Decision date: 2003-04-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2534, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Commission Scolaire des Découvreurs c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-29
+Neutral citation
+2003 TCC 295
+File numbers
+2001-1139(GST)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2001-1139(GST)G
+BETWEEN:
+COMMISSION SCOLAIRE DES DÉCOUVREURS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeal heard on November 4, 2002 at Québec, Quebec
+Before: The Honourable Judge Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Daniel Bourgeois
+Counsel for the Respondent:
+Michel Morel
+_______________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeal from the Goods and Services Tax assessment made under the Excise Tax Act, notice of which is dated July 20, 1999 and which bears number 9213376, is dismissed, with costs in favour of the respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of April 2003.
+"Louise Lamarre Proulx"
+J.T.C.C.
+Citation: 2003TCC295
+Date: 20030429
+Docket: 2001-1139(GST)G
+BETWEEN:
+COMMISSION SCOLAIRE DES DÉCOUVREURS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx, J.T.C.C.
+[1] This appeal is from an assessment for the period from April 1, 1996 to February 28, 1997 made under the Excise Tax Act ("the Act").
+[2] At issue is whether an amount of $880,660, paid by the city of Québec as a grant for the work of renovating and expanding École Sainte-Monique, is consideration for a supply of real property made by way of lease within the meaning of paragraph 25(f) of Part VI of Schedule V to the Act.
+[3] Chantal Dolbec, the appellant's executive director, was the first witness.
+[4] From1992 to 1997, Ms Dolbec was executive director of the Commission scolaire des Belles-Rivières. In 1998, as part of a merger of school boards, most of the Commission scolaire des Belles-Rivières became part of the Commission scolaire des Découvreurs. As a result, Ms Dolbec became executive director of the appellant; also as a result, the appellant is now acting on behalf of the former Commission scolaire des Belles-Rivières.
+[5] Ms Dolbec explained that there had always been, and still were, partnership agreements between the city of Québec and the school boards so that the schools' and the city's buildings and sports facilities could be used for municipal and educational purposes, in consideration of payment of the extra costs.
+[6] At École Sainte-Monique, a school of the Commission scolaire des Belles-Rivières, there was a large room called the gymnasium. There was an agreement with the city for the use of the large room in consideration of payment of the extra costs. However, the large room was not equipped as a real gymnasium. The school board alone could not fund the construction of a gymnasium. The parties agreed on the construction of a gymnasium and a community centre.
+[7] This witness explained that excess costs mean the janitorial, heating, electricity and other costs that exceed the costs of use by the school board.
+[8] The expansion and the renovated section of École Sainte-Monique were referred to as the "Centre communautaire Les Saules". The drawing was adduced as Exhibit A-1.
+[9] The total costs of approximately $1,260,000 were shared, two-thirds being paid by the city and one-third by the school board. Payments, each in the amount of $440,330, were made on April 16, 1996 and February 11, 1997.
+[10] The agreement between the city of Québec and the Commission scolaire des Belles-Rivières ("the agreement") was adduced as Exhibit A-2. The agreement was signed on March 19, 1996. At counsel's request, this witness read out the preliminary clauses of the agreement:
+[TRANSLATION]
+WHEREAS the board is the owner of École Sainte-Monique, located at 4120, de Musset, Les Saules, Quebec;
+WHEREAS the city and the board acknowledge the advantages of close co-operation between them for better use of the available equipment and premises;
+WHEREAS the board wishes to expand École Sainte-Monique by a gymnasium facility with services, and to make certain improvements to the existing building;
+WHEREAS in the neighbourhood concerned the city needs specialized, multi-purpose rooms and a gymnasium;
+WHEREAS the board wishes to lease at no cost to the city the premises the city needs in the renovated and expanded École Sainte-Monique;
+WHEREAS the city is authorized under the powers conferred on it by sections 303 and 312(a) of its Charter and by section 72 of chapter 86 of the Statutes of Quebec 1969 to pay grants in order to establish playgrounds and recreation centres within the limits of its territory;
+WHEREAS, following the commitment by the board, the city is prepared to pay to it a grant in the amount of $880,660 in order to allow it to carry out the work of renovating and expanding École Sainte-Monique in accordance with the drawings and specifications prepared for the board, to be approved and accepted previously by the city;
+WHEREAS, in order to achieve these objectives, it is necessary to define the two parties' commitments concerning the use and arrangement of the premises as well as the priorities to be set concerning their use;
+[11] This witness then read out certain subclauses of clause 2 of the agreement, which describes the commitments made by the board; she read out subclauses 2(a) and 2(b):
+[TRANSLATION]
+2. The board agrees:
+(a) to renovate and to expand the school, all in accordance with the book of general instructions for educational institutions and the procedures and instructions of Quebec's Ministère de l'éducation, and in accordance with the drawings and specifications of Groupe-conseil Bisson et Poulin, architectes, copies of which are attached to this agreement and form an integral part thereof. If a budget revision is necessary after the bids are opened, the board shall begin the process of preparing drawings and specifications and calling for bids again, at its expense, all after consulting the city and so as to respect the previously established budgets;
+(b) to lease at no cost to the city, for a 30-year period, the premises of the renovated and expanded school, specifically the following spaces: one large room, number E-102; one room, number E-115; one multi-purpose room located on the first floor of the school, before expansion number E-206; one gymnasium, number 166 and its annexes; one group activity room, numbers 259 and 261; one specialized room, number 152; and two multi-purpose rooms, numbers 252 and 256, located in the expanded premises, all in order to allow the city to benefit from premises having a surface area of 1,250 square metres, more or less, with an option to renew for a further 30-year period on conditions to be determined between the parties, the premises to be leased being outlined in green on the drawing attached to this agreement and forming an integral part of it;
+The priority use of room number E-102, room number E-115 and the first-floor multi-purpose room, number E-206, located inside the school, and of the gymnasium, number 166, room number 259 and room number 261, located in the expanded premises, shall be given to the city from 6:00 p.m. to 11:00 p.m. on school days and from 7:00 a.m. to 11:00 p.m. on all other days;
+Concerning the group activity room, number 152, and the two multi-purpose rooms, numbers 252 and 256, located in the expanded premises, use is granted to the city from 7:00 p.m. to 23:00 p.m. at all times;
+[12] This witness explained that there were two types of rooms. Although some rooms were for the city's exclusive use, the city had the right to use most of the rooms only outside the students' regular hours. The city paid for the excess costs related to the use of these rooms.
+[13] Subclauses 2(d), 2(f), 2(g), 2(h), 2(j) and 2(k) of the agreement read as follows:
+[TRANSLATION]
+...
+(d) not to make or allow to be made any change to the premises referred to in subclause 2(b) without the prior written agreement of the city;
+...
+(f) to supervise the work of renovating and expanding of the school;
+(g) to invest an amount of $385,000 in the realization of the expansion project jointly with the city;
+(h) to use the entire grant paid by the city to cover a portion of the costs of renovating and expanding the school;
+...
+(j) throughout the duration of the work and subsequently for the period of the lease to be signed, to maintain fire insurance covering the school and the work, in which the city and the board are to be jointly designated as the beneficiaries of the indemnities;
+(k) to pay all the operating costs of the leased premises; only the excess costs to be defined in the lease to be signed shall be paid by the city;
+...
+[14] This witness also read out certain subclauses of clause 3 of the agreement, which describes the commitments made by the city; she read out subclauses 3(a), 3(b) and 3(c):
+[TRANSLATION]
+...
+(a) to pay to the board a grant of $880,660, of which 50 per cent shall be payable when this agreement is signed by all the parties, and the balance of which shall be payable when the work provided for in this agreement has been completed and the lease has been signed by all the parties;
+(b) to lease at no cost from the board the premises referred to in subclause 2(b) for a 30-year period, with an option to renew for a further 30-year period on conditions to be determined;
+...
+Clause 6:
+The financial participation by the city in the project carried out under the agreement shall be clearly identified. To this end, the board shall maintain on-site at all times while the work is being carried out a poster indicating that the work is being carried out in co-operation with the city.
+[15] Then, on February 7, 1997, a lease (Exhibit A-3) was signed between the city and the board. This witness read out the first three "whereas" clauses:
+[TRANSLATION]
+...
+WHEREAS the work of renovating and expanding the school referred to above has been completed;
+WHEREAS the city of Québec has occupied the leased premises since January 29, 1996;
+WHEREAS the lessee has paid to the lessor, in part this day and in part before this day, the amount of $880,660, which the lessor acknowledges having received from the lessee as full and final release;
+...
+[16] Ms Dolbec explained that, like the board's other agreements with the city, the premises concerned are leased at no cost to the city. The only amounts to be paid are the excess costs. Similarly, when the city owned premises that it allowed the school board to use, the school board paid only the excess costs.
+[17] This witness concluded by stating that this arrangement was a joint project from which everyone benefited.
+Cross-examination
+[18] Exhibit I-1 is a copy of a resolution passed by the school board on August 8, 1995. At the request of counsel for the respondent, Ms Dolbec read out the three "whereas" clauses:
+[TRANSLATION]
+...
+WHEREAS the budget allocated for the renovation and expansion of École Sainte-Monique and the Centre communautaire Les Saules is $1,265,000;
+WHEREAS the participation by the city of Québec in the project is in the amount of $880,660 and the participation by the Commission scolaire des Belles-Rivières is in the amount of $385,000, all being set out in a draft agreement and lease of which the terms and conditions have been completed between the parties;
+WHEREAS the lowest compliant bidder on the project is Construction Genfor ltée, in the amount of $1,178,000;
+...
+[19] This witness reiterated her explanation of the facts. The school board needed a gymnasium that met curriculum needs; thus its first approach was to call on the city in order to obtain a regulation gymnasium. The city indicated that it needed community infrastructure in that neighbourhood. All the needs were analysed, and the project was the result.
+[20] The second witness for the appellant was Alain Méthivier, director of financial resources and school transportation for the Commission scolaire des Découvreurs. During the period at issue, he was director of financial resources for the former Commission scolaire des Découvreurs. At that time, he did not know about the case. He received the assessment being appealed from and adduced as Exhibit A-4. The tax is in the amount of $61,646.20, the penalties in the amount of $11,585.94, and the interest in the amount of $7,983.08. The assessment is dated July 20, 1999 and covers the period from April 1, 1996 to February 28, 1997. the Notice of Objection is dated October 12, 1999 and was adduced as Exhibit A-5.
+[21] The decision concerning the objection was adduced as Exhibit A-6. The reason for the decision is that [translation] "the amount of $880,660 paid by the city of Québec to the school board constitutes the consideration for a taxable supply, on which the school board was required to collect and remit the tax in accordance with the provisions of sections 165, 221, 225 and 228 of the Excise Tax Act".
+[22] The third witness for the appellant was Réal Lévesque, a recreologist employed by the city of Québec. During the period at issue, he worked for the culture, recreation and community department of the city of Québec. He explained that when the city of Québec wishes to obtain recreational equipment or community centres it can build them itself, but that most of the time the idea is to develop a partnership with the community and to ensure that this equipment is available to all residents. The first choice is to seek a partnership for the development and construction, for example with school boards or with the private sector.
+[23] An invoice dated December 18, 2000 was adduced as Exhibit A-7. The subject of the invoice is [translation] "excess costs related to the lease of École Sainte-Monique, for the period from January 1 to June 30, 2000: $7,500; for the period from July 1 to December 31, 2000: $7,500". The Goods and Services Tax (GST) and the Quebec sales tax (QST) were applicable to these amounts.
+[24] Counsel for the respondent pointed out that the invoice was issued by the Commission scolaire de la Capitale, not by the appellant. Counsel for the appellant explained that the debts and obligations of the former Commission scolaire des Belles-Rivières were transferred to and taken over by the Commission scolaire des Découvreurs but that, from the point of view of territorial allocation, École Sainte-Monique was transferred to the Commission scolaire de la Capitale.
+[25] At the request of counsel for the respondent, this witness read out clause 4 of Exhibit A-3, which describes the excess costs to be paid by the city:
+[TRANSLATION]
+4. LEASE
+Given the payment in the amount of $880,660 by the lessee to the lessor, this lease is granted at no cost by the lessor to the lessee for the entire duration of the lease and its renewal, if any.
+Notwithstanding oral statements, the lessee agrees and covenants with the lessor:
+- to pay to it annually, on presentation of the appropriate vouchers, the operating costs, that is, the maintenance, electricity and heating costs, for the exclusive use of the group activity room, number 152 and the multi-purpose rooms, numbers 252 and 256. These three rooms have a total surface area of 316 square metres;
+- to pay to it annually, on presentation of the appropriate vouchers, 20 per cent of the total energy costs of the surface area used by the lessee, not including the rooms for its exclusive use;
+- to pay 100 per cent of the maintenance costs required outside the maintenance schedule agreed between the parties, and incurred by the lessor at the request of the lessee for the leased premises;
+- to pay, if required, 71.5 per cent of the premium paid by the lessor to maintain an all-risk insurance policy in accordance with clause 8.1 of this lease.
+[26] This witness explained that the lease payments to be paid to the school board are the amounts identified for maintenance, heating and electrical costs, summer use and maintenance costs, and additional maintenance costs requested from the city as required.
+[27] Counsel for the respondent asked this witness to explain the word "jointly" used in subclause 2(f) of Exhibit A-2 (reproduced in paragraph 13 of these Reasons).
+[28] According to this witness, the word "jointly" means that, in the case of partnership agreements with school boards for work, the city always has someone on-site to ensure that everything complies with the request, given its interest in the grant paid.
+[29] Jean Cloutier, an employee of the city of Québec, was the last witness. He is director of the equipment department for the Limoilou neighbourhood. He explained that, increasingly and where possible, when recreational equipment is called for, the city of Québec tries to develop partnerships with the school boards so as to optimize the use of the available equipment in the city's neighbourhoods.
+[30] This witness adduced as Exhibit A-8 a November 26, 1999 invoice sent to his attention for the lease of premises from September to December 1999. This invoice, which is from the Commission scolaire de la Capitale, covers various schools, including the Centre communautaire Les Saules, in the amount of $11,000.
+[31] This witness explained that, in general, when recreational equipment is invested in or set up in partnership with the school boards, there is a memorandum of agreement setting out first of all priority access to the premises, hours of access, and how compensation will be made for costs when the city uses the school boards' premises and vice versa. These costs are the excess costs, for example, heating, maintenance, janitorial, and building maintenance costs.
+Arguments
+[32] Counsel for the appellant relied first of all on the interpretation to be given to paragraph 25(f) of Part VI of Schedule V to the Act, which in his opinion should be given a strict interpretation.
+[33] Counsel for the appellant relied on the nature of the payment made by the city to the school board. That payment is a grant, not a lease payment, since essentially the lease payment was only the excess costs, and the tax was collected and remitted on those costs. The use of the building was related. It was a joint project. The city and the school board supplied themselves with a new building. The purpose of the grant was to serve the pubic interest: the new building benefited students as well as the city.
+[34] Counsel for the appellant referred to section 303 of the Charter of Ville de Québec, as follows:
+[TRANSLATION]
+303. The city is authorized to grant subsidies or assistance in the form of a loan or otherwise to any person or agency, including a foundation, the aims of which are national, patriotic, religious, philanthropic, charitable, scientific, artistic, cultural, literary, social, professional, athletic or sport, for the protection of the environment or the conservation of resources or other public interest goals not specifically provided for that are in the interests of the city or of its citizens, and to charge them with the organization and the management of activities for municipal purposes and concerning the goals they are pursuing.
+[35] Counsel for the appellant also referred to section 312(a) of the Charter of Ville de Québec, as follows:
+[TRANSLATION]
+312(a) The city is authorized to give out of its budget grants for the establishment and the maintenance of playgrounds and recreation centres within the limits of its territory.
+[36] According to counsel for the respondent, what is relevant is whether there is a direct relationship between the payment of the grant and the supply of real property made by way of lease where the period throughout which continuous possession or use of the property is provided under the lease is less than one month.
+[37] Concerning the interpretation to be given to paragraph 25(f) of the Act, counsel for the respondent pointed out that this paragraph was amended following a Federal Court of Appeal decision in Attorney General of Canada v. Metropolitan Toronto Hockey League, [1995] F.C.J. No. 944 (Q.L.). This amendment provides that the supply of real property made by way of lease by a public service body is taxable where the period throughout which continuous possession or use of the property is provided under the lease is less than one month.
+[38] Counsel for the respondent referred to clauses 2, 2.1 and 2.2 of the February 7, 1997 lease, Exhibit A-3, which clearly show continuous possession and use of the property for less than one month.
+[39] The supply of real property made by way of lease where the period throughout which continuous possession or use of the property is provided under the lease is less than one month is taxable because it is subject to the exception set out in paragraph 25(f). The amount of the grant is the consideration for that supply under the terms of the clauses of the above-mentioned contract.
+Conclusion
+[40] Subsection 165(1) of the Act provides that every recipient of a taxable supply made in Canada shall pay tax on the value of the consideration for the supply.
+[41] A taxable supply is defined in subsection 123(1) of the Act as a supply that is made in the course of a commercial activity. In the Act, commercial activity has a very broad meaning, particularly concerning a corporate body. In subsection 123(1) of the Act, commercial activity of a person means a business carried on by the person, except to the extent to which the business involves the making of exempt supplies by the person. No argument was made that the supply of real property was not a supply made in the course of a commercial activity. In fact, there is no doubt on that point. The decision to be made is whether the supply at issue is exempt and, if it is not, whether the amount of the grant was the consideration for it.
+[42] In subsection 123(1) of the Act, exempt supply is defined as a supply included in Schedule V. Part VI of Schedule V has to do with public service bodies. Section 25 of Part VI of Schedule V to the Act describes the supplies of real property that are exempt and those that are not. The situation that concerns us is the one provided for in paragraph 25(f), which reads as follows:
+25. A supply of real property made by a public service body (other than a financial institution or a government), but not including a supply of
+...
+(f) real property (other than short-term accommodation) made by way of
+(i) lease, where the period throughout which continuous possession or use of the property is provided under the lease is less than one month,
+(ii) a licence,
+where the supply is made in the course of a business carried on by the body;
+...
+[43] This subsection was amended by S.C. 1997, c. 10, subs. 116(1); that amendment applies to supplies made by way of agreement entered into after September 14, 1992. Previously, paragraph 25(f) read as follows:
+(f) real property (other than short-term accommodation) made by way of
+(i) lease, where the term of the lease is less than a month, or
+(ii) a licence,
+where the supply is made in the course of a business carried on by the body;
+[44] Concerning this wording, the Federal Court of Appeal expressed itself in Metropolitan Toronto Hockey League c. Canada (supra) as follows:
+... Accordingly, it is not unreasonable to view the supply under each agreement, although discontinuous in the sense already described, as one for the entire hockey season and as such not excluded by the phrase "for a period of less than one month" in paragraph 25(f). ...
+[45] The explanatory notes concerning the above-mentioned amendment read as follows:
+Paragraph 25(f) excludes supplies made under a lease with a term of less than one month from the exemption for supplies of real property by a public service body. The amendment clarifies that the test is based on a period of continuous possession or use.
+[46] The supply of the appellant's premises to the city of Québec is made by way of lease where the periods throughout which continuous possession or use of the property is provided under the lease are less than one month. The supply at issue is subject to the exception set out in paragraph 25(f) and is therefore a taxable supply. That is how the appellant itself understands that supply, since it collects the tax on the excess costs paid by the city of Québec to lease the premises.
+[47] In the leased premises there are rooms for the exclusive use of the city of Québec; however, use of these rooms is granted to the lessee from 7:00 a.m. to 11:00 p.m. at all times. No specific argument was made to me concerning these rooms. It appears to me that they, too, must be subject to the exception set out in the above-mentioned paragraph 25(f), since the period of use does not exceed one day.
+[48] I must now determine whether the amount of the grant is a consideration for the supply of the real property by way of lease. During the hearing, I considered the grant payment in the amount of $880,660 a capital payment for construction purposes that was not in the nature of a consideration for a lease. The evidence presented to me referred to partnership agreements to lease the premises at no cost, in consideration of payment of the excess costs.
+[49] If, in terms of agreements signed between the Commission scolaire des Belles-Rivières and the city of Québec, there had been only the one entitled "Agreement", I could have considered the above-mentioned payment as merely financial assistance for the construction of premises and not as a consideration for the supply of real property, and I could have considered that it was indeed one of the usual agreements.
+[50] However, in that agreement, in clause 4 entitled "Lease" the parties agreed to sign a lease contract. That lease contract, which is Exhibit A-3, specifies in clause 6 that, if the premises are destroyed, the leased premises shall be reconstructed, or reimbursement shall be made in the amount of $880,660 prorated according to the number of years remaining until January 28, 2026. Clause 7, which makes provision for disposal, and clause 9, which has to do with expropriation, provide for the same reimbursement in the amount of $880,660 prorated according to the number of years remaining.
+[51] Thus it is clear that the grant was not paid only for the construction of the premises, but for the supply of those premises by way of lease. What is involved is not financial assistance in the nature of a donation. The grant was made in exchange for the supply of real property by way of lease. It was the consideration for the supply by way of lease where the period throughout which continuous possession or use of the property was provided under the lease was less than one month.
+[52] Is the full amount of the grant the amount of the consideration?
+[53] In subsection 123(1) of the Act, the term "consideration" is defined as follows:
+123(1) In section 121, this Part and Schedules V to X,
+...
+"consideration" includes any amount that is payable for a supply by operation of law.
+...
+[54] In the explanatory notes, this provision is explained as follows:
+The definition "consideration" is being added so as to remove any doubt that such amounts that clearly would be consideration for a supply if there were a contract, are treated as consideration for purposes of Part IX and Schedules V, VI and VII to the Act. This would address, for example, situations where services are rendered to a person without having been contracted for and the person is required, by law, to pay fair value for the service received. The amount so required to be paid would be treated as consideration. In all cases, in order to be consideration, the amount must be payable "for a supply". Therefore, amounts that are paid, for example, as taxes, fines or gifts from governments or other persons, whether payable by operation of law or under an agreement, will continue not to be treated as consideration since these amounts are not payable for a supply.
+[55] Thus what is involved is not a definition of the term "consideration" but a clarification in the case of a non-contractual situation. In such a situation, this term must be given its normal legal meaning. In Vocabulaire Juridique, 2nd edition, Presses Universitaires de France (PUF), 1990, Gérard Cornu states that in a synallagmatic contract this term is synonymous with valuable consideration. If we refer to the definition of that term in this same reference work, we read:
+[TRANSLATION]
+Consideration provided by the person who receives a benefit in the synallagmatic contract; reciprocal benefit (perceived as equal) charged to a party to a contract, for example, wages in consideration for work, or the price in consideration for the article sold.
+[56] In the two agreements at issue, the benefit provided by the appellant was to construct and to provide the premises. What should the benefit provided by the city for the supply of the real estate have been? Article 1435 of the Civil code of Québec tells us that, in interpreting a contact, the common intention of the parties shall be sought. We see from reading the agreements (Exhibits A-2 and A-3) that the common intention of the parties is that, if the premises are destroyed, disposed of or expropriated, the full amount of the grant, that is, $880,660, shall be reimbursed, prorated according to the number of years remaining. I am therefore obliged to find that this amount is the consideration for the supply by way of lease, a supply that is not exempt, as has been stated above.
+[57] The appeal must therefore be dismissed. The costs are in favour of the respondent.
+Signed at Ottawa, Canada, this 29th day of April 2003.
+"Louise Lamarre Proulx"
+J.T.C.C.
+Translation certified true
+on this 13th day of March 2004.
+Carol Edgar, Translator

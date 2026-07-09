@@ -1,0 +1,210 @@
+Title: Laramee c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28849/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-635-28849-laramee-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-10-19
+
+# Laramee c. La Reine
+
+- Citation: 2007 CCI 635
+- Decision date: 2007-10-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1358, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laramee c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-19
+Référence neutre
+2007 CCI 635
+Numéro de dossier
+2006-921(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-921(IT)G
+ENTRE :
+LAWRENCE J. LARAMEE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Ronald Casey (2006-2705(IT)G)
+le 17 septembre 2007, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocats de l’appelant :
+Me Matthew G. Williams
+Me Robert F. Madden
+Avocate de l’intimée :
+Me Marie-Therese Boris
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté.
+Signé à Ottawa, Canada, ce 19e jour d’octobre 2007.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 5e jour de décembre 2007.
+Johanne Brassard, trad. a.
+Dossier : 2006-2705(IT)G
+ENTRE :
+RONALD CASEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Lawrence J. Laramee (2006-921(IT)G)
+le 17 septembre 2007, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocats de l’appelant :
+Me Matthew G. Williams
+Me Robert F. Madden
+Avocate de l’intimée :
+Me Marie-Therese Boris
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté.
+Signé à Ottawa, Canada, ce 19e jour d’octobre 2007.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 5e jour de décembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI635
+Date : 20071019
+Dossier : 2006-921(IT)G
+ENTRE :
+LAWRENCE J. LARAMEE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2006-2705(IT)G
+ET ENTRE :
+RONALD CASEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] MM. Laramee et Casey ont engagé un gros montant dans l’aménagement d’un terrain de golf, en espérant gagner la cagnotte. Cependant, ils n’ont pas réussi et ils ont perdu tout ce qu’ils avaient investi dans le projet. La question dont je suis ici saisi porte sur la nature de ces pertes, à savoir s’il s’agissait de pertes imputables au capital, lesquelles seraient des pertes déductibles au titre d’un placement d’entreprise, comme l’affirme l’intimée, ou s’il s’agissait plutôt de pertes imputables au revenu, compte tenu du fait que MM. Laramee et Casey étaient engagés dans un projet comportant un risque de caractère commercial, comme l’affirment les appelants. La réponse dépend de la qualification de l’arrangement par lequel MM. Casey et Laramee ont prêté de l’argent à une société de portefeuille, qui, de son côté, a prêté l’argent aux sociétés s’occupant du terrain de golf dont MM. Casey et Laramee étaient propriétaires.
+Les faits
+Historique
+[2] M. Laramee a exploité un certain nombre d’entreprises et il a exercé différents emplois au fil des ans. Il a passé neuf ans chez Chrysler, à titre de responsable de l’entretien. Il a quitté Chrysler afin de devenir distributeur privé pour un fabricant de verre, mais au bout d’un an, il s’est rendu compte qu’il pouvait lancer sa propre entreprise de distribution de verre. Il a exploité cette entreprise avec succès entre les années 70 et les années 1989‑1990; il a alors vendu l’entreprise et a pris sa retraite pour une brève période.
+[3] En 1991, M. Laramee a entendu dire que Michelin cherchait à vendre son installation, à Kitchener. Vers la même époque, M. Laramee a rencontré M. Casey et ils se sont associés dans ce projet, à Kitchener. M. Laramee a négocié avec Michelin et avec une délégation chinoise pendant un ou deux ans; un marché a finalement été conclu en 1993. MM. Casey et Laramee ont constitué une société qui a acquis les actifs de Michelin; ils ont vendu de l’équipement aux Chinois, ils ont conservé une partie des biens immobiliers, ils ont vendu d’autres parcelles, ils ont conservé une partie de l’équipement de mélangeage de caoutchouc et ils ont lancé une entreprise de mélangeage de caoutchouc exploitée sous une nouvelle entité. MM. Casey et Laramee ont finalement vendu l’entreprise de mélangeage de caoutchouc, ainsi que l’un des plus gros bâtiments appartenant autrefois à Michelin. J’ai l’impression que le marché Michelin a été fort avantageux pour MM. Casey et Laramee.
+[4] MM. Casey et Laramee partageaient leur temps, moitié‑moitié, entre le Canada et la Floride. Ils aimaient jouer au golf et ils étaient membres du club de golf Conestoga. À la fin des années 90, MM. Laramee et Casey ont placé de l’argent dans des hypothèques, principalement des hypothèques privées (une vingtaine) et dans une grosse hypothèque commerciale consentie au club de golf Conestoga, qui appartenait à un certain Bill Zaduk. Ils cherchaient des hypothèques à faible risque. Vers 1998‑1999, ils gagnaient tous deux un revenu annuel élevé.
+[5] En 1997, MM. Casey et Laramee ont constitué Caslar Capital Limited (« Caslar »), qui devait servir de société de portefeuille pour un investissement dans Dari‑Serve, une entreprise de fabrication de crème glacée molle exploitée par la femme de M. Laramee. Caslar a également investi, au moyen d’un prêt, dans une entreprise de développement de logiciels de divertissement appelée Mondo‑Live. Ces deux investissements figuraient en tant que tels dans les états financiers de Caslar. MM. Casey et Laramee détenaient chacun 50 actions de Caslar, et un tiers, M. Weber, en détenait quatre.
+[6] M. Casey a déclaré que M. Laramee était le cerveau de l’entreprise, alors que c’était lui qui mettait la main à la pâte. M. Casey a confirmé avoir d’abord rencontré M. Laramee en 1989‑1990, lorsqu’il exploitait une entreprise de déménagement de machinerie. Le rôle de M. Casey, en ce qui concerne le projet de Kitchener, était de [traduction] « s’occuper des gens, sur place ». M. Casey a confirmé les explications données par M. Laramee sur le fond du projet. M. Casey a indiqué qu’à la fin des années 90, il avait un portefeuille de valeurs mobilières bien nanti et bénéficiait d’une sécurité financière.
+Le projet du terrain de golf Crosswinds
+[7] En 1998, M. Zaduk, propriétaire du terrain de golf Conestoga, a eu la possibilité d’acquérir 150 acres faisant partie d’une propriété agricole, dont le zonage permettait l’aménagement d’un terrain de golf. Il a intéressé son jeune directeur, M. Stevens, au projet. M. Zaduk a conclu une entente à l’amiable avec le propriétaire, M. Ulrich, afin d’acheter la propriété au prix de 900 000 $. Selon le témoignage de M. Stevens, le prix était bien inférieur à la juste valeur d’autres propriétés se prêtant à l’aménagement de terrains de golf. MM. Zaduk et Stevens ont retenu les services d’une firme d’ingénierie, d’un expert‑conseil en environnement et d’un évaluateur agricole en vue de procéder à certains travaux préliminaires à l’égard de la propriété. Il était assez urgent d’obtenir l’approbation municipale avant que la possibilité d’un changement de zonage devienne une réalité, ce qui aurait empêché l’aménagement du terrain de golf.
+[8] MM. Stevens et Zaduk ont communiqué avec M. Laramee au printemps 1999 et l’ont mis au courant du projet d’aménagement du terrain de golf; ils lui ont demandé s’il était prêt à financer le projet. M. Laramee voulait obtenir un résultat positif rapide, en engageant les fonds et en vendant dans un délai de quatre ou cinq ans. L’exploitation même d’un terrain de golf ne l’intéressait pas. M. Casey a présenté un témoignage similaire; il croyait qu’il ne participerait au projet que pour trois ans. Il voulait vendre et faire de l’argent. Il ne voulait pas laisser son argent dans le projet à long terme parce qu’il faudrait, selon lui, trop de temps pour rentrer dans ses frais. Il voulait vendre le plus tôt possible.
+[9] Au mois de juin 1999, M. Laramee a rencontré son avocat, Me Moon, qui a témoigné avoir rédigé un protocole d’entente à la suite des discussions qu’il avait eues avec M. Laramee. Le protocole d’entente (le « protocole ») a été signé par MM. Laramee, Casey, Zaduk et Stevens, bien que M. Stevens eût témoigné que le [traduction] « Plan d’organisation du projet » accompagnant le protocole n’était pas le document qu’il se rappelait avoir vu lors de la signature du protocole. M. Stevens n’a pas produit de copie de ce qu’il croyait avoir vu. M. Stevens estimait que le plan d’organisation du projet ne correspondait pas réellement à ce qu’il croyait comprendre, à savoir que le terrain de golf devait appartenir, dans une proportion d’un quart chacun, à MM. Laramee, Casey, Zaduk et Stevens.
+[10] Le plan d’organisation du projet a été décrit comme étant une proposition en vue de l’acquisition et de l’aménagement d’un terrain de golf connu sous le nom de Crosswinds Golf & Country Club. Le terrain de golf devait être aménagé et exploité par une seule société, Crosswinds Golf Course & Country Club Ltd. (« Golfco »); les biens immobiliers devaient appartenir à une seconde société, Crosswinds Properties Ltd. (« Propertyco ») et être loués à Golfco. MM. Laramee et Casey devaient s’occuper du financement, tant personnellement que par l’entremise de la banque. Caslar devait être l’instrument permettant d’acheminer de l’argent dans le projet d’aménagement. Caslar devait consentir une hypothèque au moment de l’acquisition des biens immobiliers. Selon une condition du protocole, l’aménagement du terrain de golf devait être à tous les égards assujetti à l’approbation de MM. Laramee et Casey, tant qu’ils assuraient directement ou indirectement le financement. Me Moon a signalé qu’étant donné que MM. Laramee et Casey assuraient le financement au complet, il était normal qu’ils exercent un contrôle complet. M. Laramee a souligné que ce contrôle était important pour qu’il soit en mesure d’exiger une vente lorsqu’il conviendrait de le faire.
+[11] Le protocole traitait également des conditions de financement. L’hypothèque Caslar ne devait pas porter intérêt pendant les deux premières années ou tant que le terrain de golf ne générerait pas de recettes, après quoi des intérêts s’accumulaient au taux de 14 p. 100. M. Laramee a clairement dit qu’il ne s’était jamais attendu à obtenir les intérêts. Ces conditions avaient été fixées afin qu’une vente soit réalisée le plus tôt possible. M. Laramee a reconnu qu’au stade de l’aménagement, il n’était absolument pas possible d’obtenir des intérêts du terrain de golf. M. Laramee ne prévoyait obtenir les intérêts accumulés qu’au moment d’une vente.
+[12] Selon le protocole, MM. Laramee et Casey devaient également s’occuper du financement aux fins de l’aménagement. MM. Laramee et Casey engageraient des fonds à cette fin sur demande seulement, à un taux d’intérêt de 10 p. 100. Le protocole renfermait la disposition suivante :
+[traduction] Une fois que le terrain de golf sera mis en exploitation, on cherchera à obtenir un financement à terme aux conditions habituelles, et les fonds engagés aux fins de l’aménagement seront remboursés.
+M. Laramee a déclaré que les fonds servant à l’aménagement devaient être remboursés une fois le terrain de golf vendu. Le protocole décrivait également la garantie à fournir :
+[traduction] Contrat de garantie générale, cession du bail, contre‑garanties.
+M. Laramee savait que la garantie devrait être donnée en gage à la banque. Il a pris des dispositions pour que la Banque Toronto‑Dominion consente un prêt initial de six millions de dollars, avec un rajustement à la hausse de 1,2 million de dollars, comme il l’a appelé. MM. Laramee et Casey ont pris des dispositions pour que tout l’argent circule par l’entremise de Caslar, et ce, qu’il s’agisse de leur argent ou de celui de la banque. M. Laramee a dit que Caslar servait simplement de moyen d’acheminement des fonds. M. Casey et lui ont toujours affirmé avec insistance que Caslar n’avait aucun rôle dans le projet du terrain de golf, que ce soit à titre d’investisseur ou en quelque autre qualité. Caslar servait simplement à acheminer les fonds.
+[13] Le protocole désignait M. Stevens à titre de directeur général. On ne s’attendait pas à ce que lui ou M. Zaduk engage des fonds. La structure d’entreprise a été décrite comme étant composée de parts égales correspondant chacune à un quart dans les deux sociétés, détenues par MM. Laramee, Casey, Zaduk et Stevens, mais les participations de MM. Zaduk et Stevens étaient assujetties à des restrictions. Les actions de M. Zaduk devaient être détenues en fiducie tant que MM. Laramee et Casey n’auraient pas été remboursés au complet, et jusqu’à ce moment‑là, les actions de M. Zaduk ne comporteraient pas de droit de vote. Les actions de M. Stevens devaient également être détenues en fiducie aux mêmes conditions, une disposition additionnelle prévoyant que ces actions ne seraient libérées que six mois après que le terrain de golf eut commencé à générer des recettes, et à condition que M. Stevens continue à être employé au terrain de golf. Les actions ont été émises en fonction de la participation de chacun pour un quart.
+[14] Le protocole décrivait également les conditions du projet de convention d’actionnaire, y compris les dispositions suivantes :
+[traduction] Si un actionnaire vend des actions, les actions des deux sociétés doivent être vendues ensemble et ne peuvent pas être vendues séparément, sauf sur consentement des autres actionnaires.
+Aucune action ne peut être vendue ou mise en vente d’ici trois ans.
+[...]
+Si les actionnaires reçoivent d’un tiers une offre d’achat concernant toutes les actions de la société, et si au moins un actionnaire est prêt à accepter l’offre, les autres actionnaires peuvent faire une proposition équivalente à l’offre en vertu du droit de premier refus; à défaut de ce faire, ils seront obligés de vendre les actions au tiers.
+[15] Lorsque M. Laramee a en fait présenté à MM. Zaduk et Stevens un projet de convention d’actionnaire, dans le cabinet de Me Moon, ces derniers ont refusé de le signer parce qu’ils estimaient que ce projet ne correspondait pas au marché qu’ils avaient envisagé. On a effectivement laissé MM. Laramee et Casey se lancer seuls dans l’affaire. À ce moment‑là, ils détenaient chacun la moitié des actions de Golfco et de Propertyco.
+[16] L’aménagement du terrain a avancé à un rythme accéléré, étant donné que MM. Laramee et Casey voulaient que le terrain puisse être vendu aussitôt que possible. On a posé du gazon en plaques au lieu d’ensemencer le terrain, des arbres matures ont été plantés et les travaux de construction du chalet ont commencé immédiatement. MM. Laramee et Casey ont injecté 2 775 850 $ et 4 061 491 $ respectivement, par l’entremise de Caslar, dans l’aménagement du terrain de golf. La Banque Toronto‑Dominion a avancé les 6 millions de dollars initiaux ainsi que des fonds additionnels.
+[17] Les fonds ont été avancés à Caslar par MM. Laramee et Casey, et des contrats de prêt officiels ont été conclus, portant intérêt au taux de 6 p. 100 et prenant fin à la première des dates suivantes : le 30 juin 2005 ou la date de la vente du terrain de golf. De son côté, Caslar a conclu un contrat de prêt avec Golfco ainsi qu’avec Propertyco, en vue de fournir à Golfco des fonds aux fins de l’aménagement et de consentir une hypothèque à Propertyco. Les intérêts applicables aux fonds engagés aux fins de l’aménagement s’élevaient à 10 p. 100; ils étaient calculés et composés mensuellement, et devaient s’accumuler et être composés jusqu’au mois de juillet 2002, ou [traduction] « jusqu’à ce que l’exploitation du terrain de golf génère pour la première fois des recettes ». Le prêt consenti à Propertyco ne portait pas intérêt pendant les deux premières années, ou tant qu’un revenu de location n’était pas reçu pour la première fois; par la suite, le taux d’intérêt s’élevait à 14 p. 100. Le prêt devenait dû et payable en cas de transfert du titre.
+[18] Me Moon et M. Webb, le comptable de M. Laramee, ont confirmé qu’ils croyaient comprendre que MM. Laramee et Casey voulaient obtenir un rendement rapide sur leur argent.
+[19] Même si le terrain de golf n’était pas entièrement mis en exploitation, un tournoi a eu lieu à la fin de la saison 2001. Toutefois, des privilèges avaient été enregistrés contre la propriété. Au mois de septembre 2001, les fonds s’étaient épuisés. Au mois de décembre 2001, la Banque Toronto‑Dominion a pris des mesures en vue de recouvrer son prêt. Au début de l’année 2002, le terrain de golf a été vendu à un tiers, et la banque a été remboursée au complet. Toutefois, il n’y avait pas d’argent pour rembourser les sommes avancées par MM. Laramee et Casey par l’entremise de Caslar. Dans leurs déclarations de revenus de 2001, MM. Laramee et Casey ont demandé la déduction d’une perte d’entreprise, laquelle a été refusée par l’intimée, qui a plutôt admis une perte déductible au titre d’un placement d’entreprise.
+Le point litigieux
+[20] MM. Laramee et Casey ont‑ils le droit de déduire 2 755 850 $ et 4 061 491 $ respectivement, au titre de pertes d’entreprise, dans le calcul de leur revenu de 2001? Pour trancher ce point litigieux, il faut répondre aux questions suivantes :
+a) MM. Laramee et Casey ont‑ils acquis des actions de Golfco et de Propertyco dans le cadre d’un projet comportant un risque de caractère commercial?
+b) Dans l’affirmative, le financement, par l’entremise de Caslar, faisait‑il partie de ce projet à titre de dépense accessoire?
+Analyse
+[21] Selon la position prise par les appelants, il existait un projet, à savoir l’aménagement et la vente d’un terrain de golf. Les avances consenties par MM. Laramee et Casey constituaient une dépense accessoire et, par conséquent, elles étaient déductibles à titre de pertes d’entreprise. La position prise par l’intimée est, premièrement, qu’il n’y avait pas de projet comportant un risque de caractère commercial étant donné que les appelants n’avaient pas prouvé qu’ils avaient initialement l’intention de vendre en réalisant un profit. S’il y avait un projet, il s’agissait de l’acquisition des actions de Golfco et de Propertyco; les avances consenties à Caslar par MM. Laramee et Casey n’étaient pas accessoires, mais elles représentaient plutôt une injection normale de capitaux dans la société de portefeuille à des fins de placement.
+Le projet comportant un risque de caractère commercial
+[22] Un projet comportant un risque de caractère commercial doit comporter un plan visant la réalisation d’un bénéfice. Comme l’a dit la Cour suprême du Canada dans l’arrêt Friesen v. The Queen[1] :
+La première condition de l’existence d’un projet comportant un risque de caractère commercial est qu’il comporte un « plan visant la réalisation d’un bénéfice ». Le contribuable doit avoir l’intention légitime de tirer un bénéfice de l’opération.
+Je suis convaincu que, du point de vue de MM. Laramee et Casey, le bénéfice devait être tiré de la revente rapide du terrain de golf. Étant donné qu’ils possédaient le terrain de golf par l’intermédiaire de leurs actions de Golfco et de Propertyco, je conclus que ces actions étaient des actifs commerciaux.
+[23] L’intimée soutient qu’aucun des documents concernant le projet du terrain de golf n’indique que MM. Laramee et Casey avaient l’intention de revendre le terrain de golf à la première occasion. Le protocole parle de l’acquisition et de l’aménagement du terrain de golf; le projet de convention d’actionnaire ne fait pas mention de la vente. Je ne trouve pas cela convaincant, compte tenu du témoignage de M. Laramee et de M. Casey, qui étaient tous deux selon moi des témoins crédibles et sincères. Je conclus également que leur avocat, Me Moon, et leur comptable, M. Webb, appuient la version qu’ils ont donnée au sujet de leur intention. Je suis convaincu que ni M. Laramee ni M. Casey n’avaient l’intention d’exploiter un terrain de golf. Ils étaient tous deux bien nantis et disposaient d’un revenu de retraite stable. Ils cherchaient uniquement à réaliser un bénéfice en vendant le terrain de golf, et les mesures qu’ils ont prises pour accélérer l’aménagement du terrain en vue de le vendre rapidement allaient dans le même sens.
+[24] En outre, M. Laramee et M. Casey n’avaient aucune expérience de l’exploitation d’un terrain de golf. De fait, M. Casey a affirmé avec insistance qu’il voulait absolument éviter tous les problèmes liés à l’exploitation d’un terrain de golf, surtout parce qu’il ne croyait pas récupérer ce qu’il avait engagé dans le projet grâce à l’exploitation du terrain, mais seulement grâce à une vente rapide.
+[25] Le plan visant la réalisation d’un bénéfice, l’intention des appelants et leur manque d’expérience de l’exploitation d’un terrain de golf nous amènent à conclure que les actions de Golfco et de Propertyco ont été acquises à titre d’actifs commerciaux, plutôt qu’en tant que placement à long terme imputable au capital.
+Les modalités de financement
+[26] La question la plus difficile est de savoir si le fait de prêter de l’argent à Caslar pour que celle‑ci le prête à Golfco et à Propertyco faisait partie intégrante du projet comportant un risque de caractère commercial ou, comme l’a dit le juge Robertson dans l’arrêt Easton v. The Queen[2], s’il s’agissait d’une dépense accessoire. Il vaut la peine d’examiner l’arrêt Easton. Dans cette affaire, il s’agissait de savoir si un paiement fait par un actionnaire à titre de garant d’un emprunt contracté par sa société était imputable au capital ou s’il était plutôt imputable au revenu. La Cour d’appel fédérale a reconnu que le bien en question, un bien‑fonds, n’avait pas été acheté uniquement à des fins de placement. Toutefois, elle a ajouté ce qui suit :
+En guise d'énoncé général, il est raisonnable de conclure qu'une avance faite par un actionnaire à une société ou une dépense faite par un actionnaire au nom d'une société sera considérée comme un prêt consenti dans l'intention de fournir un fonds de roulement à cette société.
+[…]
+Comme la loi présume que l'acquisition a été faite dans le but de faire un placement, il ne semble que trop raisonnable de supposer que la perte découlant d'une avance ou d'une dépense faite par un actionnaire est également une perte en capital.
+[…]
+Il existe deux exceptions reconnues au principe général que des pertes semblables à celles dont il vient d'être question sont des pertes en capital.
+[…]
+La deuxième exception est exposée dans l'arrêt Freud. Lorsqu'un contribuable possède des actions dans une société non pas comme un placement mais comme un actif commercial, la perte résultant d'une dépense accessoire, y compris un paiement effectué à l'occasion d'une garantie, sera imputable au compte de revenu. Cette exception s'applique aux personnes qui sont considérées comme des négociants en actions. Les personnes qui n'appartiennent pas à cette catégorie devront prouver qu'elles ont acquis les actions dans le cadre d'un projet comportant un risque de caractère commercial. Selon moi, cette « circonstance exceptionnelle » ne constitue pas une solution pour les contribuables qui cherchent à déduire des pertes. Je dis cela parce qu'il existe une présomption réfutable voulant que les actions aient été acquises à titre d'immobilisations : voir l'arrêt Mandryk c. La Reine, 92 D.T.C. 6329 (C.A.F.), à la p. 6634.
+[27] L’affaire qui nous occupe porte sur la seconde exception. Dans l’affaire Easton, les appelants n’avaient pas réussi à convaincre la cour que les actions étaient détenues à titre d’actifs commerciaux.
+[28] Dans la décision Greenberg v. Canada[3], le juge McArthur a appliqué les principes énoncés dans l’arrêt Freud, mentionnés dans l’arrêt Easton; il a conclu que les prêts consentis par M. Greenberg à Zynex Systems Inc. étaient imputables au revenu. Le juge McArthur a conclu que M. Greenberg avait consenti les prêts dans le cours ordinaire de son entreprise, et il a également conclu que les actions de Zynex étaient détenues à titre d’actifs commerciaux. Voici les remarques qu’il a faites :
+Si Zynex avait racheté sa dette à l’appelant, et si l’appelant avait vendu ses actions de fondateur, l’intérêt et les bénéfices réalisés à la vente de ces actions auraient également été imposables au titre du revenu.
+[29] Les appelants se fondent également sur l’affaire Becker v. The Queen[4] entendue par la Cour d’appel fédérale, dans laquelle l’appelant avait acquis des actions d’une société et avait également prêté de l’argent à la même société. La cour a conclu que l’achat des actions et le financement ultérieur constituaient un projet comportant un risque de caractère commercial.
+[30] Il s’agit en fait de savoir ce qui constitue une dépense accessoire. Les prêts consentis à Caslar par MM. Laramee et Casey constituaient‑ils une dépense accessoire à l’acquisition des actifs commerciaux, à savoir les actions de Golfco et de Propertyco?
+[31] La distinction entre les décisions susmentionnées et les faits concernant le projet de MM. Laramee et Casey est la suivante : MM. Laramee et Casey n’ont pas prêté d’argent à la société dont ils détenaient les actions, ils ont prêté l’argent à Caslar, une société de portefeuille. Cela influe‑t‑il sur la nature des sommes engagées dans le projet du terrain de golf? Les appelants répondent par la négative, alors que l’intimée répond par l’affirmative.
+[32] Si les actions avaient été vendues, la vente d’actions aurait généré un revenu pour MM. Laramee et Casey. Mais que serait‑il arrivé aux prêts? Le nouveau propriétaire aurait probablement refinancé la dette qui existait envers Caslar. Caslar aurait donc obtenu le remboursement du principal, plus les intérêts accumulés, et aurait alors été en mesure de rembourser le prêt consenti par MM. Laramee et Casey. Mais les dispositions relatives aux intérêts figurant dans les contrats de prêt étaient telles qu’il y aurait eu une différence importante entre ce que Caslar aurait reçu de Golfco et de Propertyco et ce qu’elle aurait été tenue de rembourser à MM. Laramee et Casey. Cela remet en question l’assertion de M. Laramee selon laquelle Caslar était simplement un moyen d’acheminement et qu’en fait, on n’avait jamais voulu que Caslar réalise un bénéfice. Selon les documents de prêt, Caslar devait recevoir plus que ce qu’elle avait à payer. Il ne s’agit tout simplement pas d’une situation identique à celle qui existait dans les affaires Freud et Becker. Comme le juge Robertson l’a fait remarquer dans l’arrêt Easton :
+Il a eu gain de cause parce qu'il a été capable de convaincre la Cour suprême que la dépense (perte) devrait recevoir le même traitement fiscal qu'un bénéfice réalisé ou une perte subie à l'occasion de la vente de ses actions. En d'autres termes, si un actionnaire peut démontrer qu'il a acquis ses actions comme un actif commercial, et non dans l'intention de faire un placement, alors la perte découlant d'une avance faite par un actionnaire à la société ou d'une dépense faite par un actionnaire au nom de la société, y compris des paiements effectués à l'occasion d'une garantie, sera également imposée comme une perte imputable au compte de revenu. À mon avis, telle est la signification véritable de l'arrêt Freud.
+Les remarques du juge Robertson se rapportent clairement aux prêts consentis par l’actionnaire à la société et non à une société de portefeuille comme intermédiaire.
+[33] Si MM. Laramee et Casey avaient directement injecté des fonds dans Golfco et dans Propertyco, puisque j’ai conclu que l’acquisition d’actions de Golfco et de Propertyco était un projet comportant un risque de caractère commercial, il ne m’aurait pas été difficile d’appliquer les principes préconisés dans les arrêts Freud et Easton pour conclure que le prêt d’argent en pareil cas constituait une dépense accessoire au projet. Cependant, pour arriver à cette conclusion, lorsque des fonds sont acheminés par l’entremise d’une entité juridique distincte, qui n’agit pas à titre de mandataire, mais qui a clairement ses propres droits et ses propres responsabilités, en particulier une société ayant un autre actionnaire en plus de MM. Laramee et Casey, je me vois obligé de soulever le voile de la personnalité juridique et d’ignorer effectivement l’existence même de Caslar. Les appelants soutiennent qu’ils ne demandent pas que l’on soulève le voile de la personnalité juridique, mais qu’ils me demandent simplement de tenir compte de l’ensemble des circonstances entourant l’utilisation des sociétés; ils disent que Caslar est simplement un moyen de diversion. Je ne suis pas d’accord.
+[34] En demandant l’adoption d’une approche pratique fondée sur le bon sens, les appelants ont cité les remarques que le juge en chef Bowman avait faites dans la décision Truscan Realty Ltd. v. The Queen[5] :
+La conclusion doit être basée sur « une appréciation saine de toutes les caractéristiques directrices [...] » (M.N.R. v. Algoma Central Railway, 68 D.T.C. 5096) et sur « [la transaction] du point de vue pratique et commercial » (Her Majesty the Queen v. F.H. Jones Tobacco Sales Co. Ltd., 73 D.T.C. 5577), et elle « dépend de l'effet envisagé de la dépense d'un point de vue pratique et commercial plutôt que de la classification juridique des droits, s'il en est, garantis, employés ou épuisés en cours de route » (Hallstroms Pty Ltd. v. Federal Commissioner of Taxation (1946), 72 C.L.R. 634).
+Je suis tout à fait en faveur d’une approche fondée sur le bon sens (que je prône même ardemment) et, à vrai dire, j’estime qu’il s’agit du plus précieux outil du juge. L’idée que je dois me conformer à la classification juridique des droits, en ma qualité de juge, me remplit d’indignation. Pourtant, il ne s’agit sûrement pas de notions qui s’excluent mutuellement, mais de notions qui peuvent et qui doivent s’appliquer d’une façon équilibrée. Le défi que le juge doit relever consiste à établir cet équilibre.
+[35] Il est vrai qu’en réalité, MM. Laramee et Casey ont perdu leur argent. L’acquisition des actions de Golfco et de Propertyco était un projet comportant un risque de caractère commercial. Pourquoi des sommes indirectement engagées dans le « projet » ne devraient‑elles pas être considérées comme faisant partie de ce projet puisque, si elles y avaient été engagées directement, elles seraient considérées comme faisant partie du projet? Autrement dit, pourquoi l’introduction d’un intermédiaire devrait‑elle influer sur la nature des sommes, de sorte qu’elles ne sont plus imputables au revenu, mais qu’elles sont plutôt imputables au capital? C’est parce que le paiement n’est plus accessoire à l’achat d’actions : il s’agit d’un prêt distinct consenti à un tiers, Caslar, dont MM. Casey et Laramee ne sont pas les seuls actionnaires, et qui, de son côté, consent un prêt commercial aux promoteurs du projet, le seul bénéfice réalisé étant composé des intérêts gagnés aux termes du prêt. La dépense n’est tout simplement pas accessoire à l’achat des actions de la société étant donné qu’elle n’est pas engagée en faveur de la société. Le fait que MM. Laramee et Casey ne détenaient que 100 des 104 actions émises de Caslar influe sans aucun doute sur ma décision. Je ne puis ignorer M. Weber, ou supposer qu’il fait partie du projet de MM. Casey et Laramee.
+[36] Je conclus que le prêt que Caslar a consenti à Golfco et à Propertyco est simplement un investissement en capital qui n’est pas accessoire au projet comportant un risque de caractère commercial de MM. Laramee et Casey : il donnera lieu au remboursement du principal ainsi qu’au paiement d’intérêts, sans plus. Le revenu est simplement constitué de la différence déterminable, calculée, entre les conditions de l’emprunt et les conditions du prêt. Ce prêt n’a rien d’exceptionnel; si le prêt avait été remboursé, Caslar aurait reçu, au titre des intérêts, un montant beaucoup plus élevé que le montant qu’elle aurait été obligée de verser à MM. Laramee et Casey, et elle aurait payé de l’impôt sur cette différence. Le bénéfice après impôt en résultant aurait été disponible en vue de sa distribution à tous ceux qui détenaient des actions ordinaires, et non pas uniquement à MM. Casey et Laramee. Les modalités du prêt ne sont pas extraordinaires au point que le prêt imputable au capital devienne imputable au revenu. Comme la cour l’a dit dans l’arrêt Freud :
+Il est bien entendu qu'un prêt consenti par une personne qui n'exerce pas le métier de prêteur est habituellement considéré comme un placement. Ce n'est que lorsqu'il existe des circonstances exceptionnelles ou inhabituelles qu'une telle opération peut être assimilée à de la spéculation.
+[37] Les appelants ont décidé d’organiser leurs affaires comme ils l’ont fait sur les conseils de leurs conseillers professionnels. On n’a pas soutenu que qui que ce soit ait songé à une perte désastreuse en donnant pareil conseil. On a peut‑être eu recours à Caslar pour plus de commodité, mais cet arrangement a eu pour effet d’empêcher MM. Laramee et Casey de pouvoir déduire au complet leur perte économique. L’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 19e jour d’octobre 2007.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 5e jour de décembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI635
+Nos DES DOSSIERS DE LA COUR : 2006-921(IT)G et 2006‑2705(IT)G
+INTITULÉ : Lawrence J. Laramee et al.
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 17 septembre 2007
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 19 octobre 2007
+COMPARUTIONS :
+Avocats des appelants :
+Me Matthew G. Williams
+Me Robert F. Madden
+Avocate de l’intimée :
+Me Marie-Therese Boris
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Me Matthew G. Williams
+Me Robert F. Madden
+Cabinet : Thorsteinssons LLP.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 95 D.T.C. 5551 (C.S.C.).
+[2] 97 D.T.C. 5464 (C.A.F.).
+[3] 2007 D.T.C. 124.
+[4] 83 D.T.C. 5032 (C.A.F.).
+[5] 96 D.T.C. 1513 (C.C.I.).

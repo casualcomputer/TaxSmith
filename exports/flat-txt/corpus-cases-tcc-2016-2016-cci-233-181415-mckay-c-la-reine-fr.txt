@@ -1,0 +1,214 @@
+Title: McKay c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/181415/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-233-181415-mckay-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-10-17
+
+# McKay c. La Reine
+
+- Citation: 2016 CCI 233
+- Decision date: 2016-10-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2974, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKay c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-10-17
+Référence neutre
+2016 CCI 233
+Numéro de dossier
+2012-3636(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-3636(IT)G
+ENTRE :
+DAWN McKAY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 17 décembre 2015, à Thunder Bay (Ontario)
+Devant : L'honorable juge Steven K. D'Arcy
+Comparutions :
+Avocats de l'appelante :
+Me Brian R. MacIvor
+Me Amy Parker
+Avocat de l'intimée :
+Me George Boyd Aitken
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l'appel interjeté à l'encontre d'une cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2008 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 17e jour d'octobre 2016.
+« S. D'Arcy »
+Le juge D'Arcy
+Référence : 2016 CCI 233
+Date : 20161017
+Dossier : 2012-3636(IT)G
+ENTRE :
+DAWN McKAY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D'Arcy
+[1] La question en litige dans le présent appel concerne l'application du paragraphe 160(1) de la Loi de l'impôt sur le revenu au transfert d'une Cadillac Escalade de l'an 2008 par M. Henry Wetelainen à l'appelante. Comme je l'examinerai sous peu, il faut établir si, au moment du transfert, l'appelante et M. Wetelainen avaient un lien de dépendance au sens du paragraphe 160(1).
+[2] J'ai entendu trois témoins : l'appelante, M. Wetelainen et M. Ken Lieske, expert‑conseil en cas complexes de l'ARC. L'appelante était le témoin principal. J'ai conclu qu'elle n'était pas un témoin crédible. Son témoignage était intéressé et a été contredit à maintes reprises par les éléments de preuve objectifs dont je disposais et par le témoignage de M. Wetelainen. Mes motifs fournissent de nombreux exemples d'éléments de preuve contradictoires.
+I. Résumé des faits [3] L'appelante et M. Wetelainen se connaissent depuis fort longtemps. M. Wetelainen a témoigné avoir rencontré l'appelante en 1986, lorsqu'elle a été embauchée en tant que stagiaire par la « Ontario Métis Aboriginal Association » (l'association). M. Wetelainen était le président de l'association en 1986, un poste qu'il a occupé longtemps. L'appelante a travaillé pour l'association pendant de nombreuses années, gagnant un revenu approximatif de 60 000 $ à 100 000 $ par année.
+[4] J'ai entendu les témoignages de l'appelante et de M. Wetelainen selon lesquels, à la suite d'une vérification effectuée en 2005 par l'administration fédérale et d'une enquête ultérieure menée par la GRC, l'association a dû fermer ses bureaux partout en Ontario. Par conséquent, l'appelante a perdu son emploi auprès de l'association.
+[5] Quelque temps avant 2008, M. Wetelainen et l'appelante ont participé à la mise en valeur d'une mine de minerai de fer à Bending Lake, en Ontario (la « mine de Bending Lake »). Dans son témoignage, M. Wetelainen a déclaré que trois sociétés ont participé à la réalisation de la mise en valeur de la mine de Bending Lake.
+[6] Une société dénommée Turtle River Wilderness Lodge était propriétaire de la mine. Bending Lake Iron Ore Corporation (« Bending Lake Corp. ») a été constituée pour mettre en valeur et promouvoir la mine. Bending Lake Iron Group Limited a été constituée pour construire et exploiter la mine.
+[7] À un certain moment avant le 18 juillet 2008, Turtle River Wilderness Lodge et Bending Lake Iron Group Limited ont fusionné et ont poursuivi leurs activités sous la raison sociale Bending Lake Iron Group Limited (« Iron Group Ltd. »).
+[8] Bending Lake Corp. et Iron Group Ltd. ont utilisé deux adresses. L'une était l'adresse du domicile de l'appelante et l'autre était une adresse à Thunder Bay, où se trouvaient les bureaux et l'entrepôt des sociétés.
+[9] Dans son témoignage, M. Wetelainen a déclaré qu'il était le fondateur, l'actionnaire majoritaire et le président des quatre sociétés.
+[10] J'ai entendu des éléments de preuve contradictoires concernant la participation de l'appelante dans Bending Lake Corp. L'appelante a déclaré qu'elle était au service de Bending Lake Corp. en tant que chef d'équipe chargée de mettre en valeur la mine de Bending Lake. Elle relevait d'un certain Jay Mackie, qui était gestionnaire de projet et administrateur[1].
+[11] Elle a nié être administratrice ou actionnaire de Bending Lake Corp. À sa connaissance, aucun administrateur n'a jamais été nommé et aucune action de Bending Lake Corp. n'a jamais été émise[2].
+[12] Le témoignage de l'appelante a été contredit par les pièces R‑2 et R‑8, le témoignage de M. Wetelainen et la demande d'aveux de l'intimée.
+[13] La pièce R‑2, un profil de société pour Bending Lake Corp. préparé par le ministère des Services gouvernementaux de l'Ontario, indique que l'appelante était dirigeante de Bending Lake Corp., agissant à titre de directrice générale. Cela contredit son témoignage selon lequel elle était « chef d'équipe ».
+[14] Dans son témoignage, M. Wetelainen a déclaré que l'appelante était actionnaire de Bending Lake Corp. Selon la preuve dont je dispose, la déclaration de revenus de Bending Lake Corp. pour l'année d'imposition allant du 1er mai 2008 au 30 avril 2009 indique que l'appelante détenait 15 % des actions de la société[3]. Cela contredit le témoignage de l'appelante selon lequel elle n'était pas actionnaire de Bending Lake Corp.
+[15] L'intimée a signifié une demande d'aveux à l'appelante. On lui a demandé d'admettre 20 faits distincts. Elle n'a reconnu que la véracité des faits nos 1, 2, 3, 6 et 7. Le fait no 2 se lit comme suit [TRADUCTION] : « Tout au long de l'année d'imposition 2008, l'appelante était actionnaire, administratrice, dirigeante et employée de Bending Lake Iron Ore Corporation (la « société ») [Bending Lake Corp.]. » Cela contredit son témoignage et est conforme à la pièce R‑2, à la pièce R‑8 et au témoignage de M. Wetelainen.
+[16] En résumé, les éléments de preuve dont je suis saisi indiquent que durant la période visée, l'appelante était actionnaire, administratrice, dirigeante et employée de Bending Lake Corp.
+[17] L'appelante était l'une des trois personnes habilitées à signer les chèques émis par Bending Lake Corp. Les deux autres étaient M. Wetelainen et le comptable de Bending Lake Corp., un certain Chris Bailey. Chaque chèque émis par Bending Lake Corp. devait avoir deux signatures. L'appelante a déclaré qu'il était [TRADUCTION] « habituel que nous ne signions pas nos propres chèques »[4].
+[18] L'appelante a déclaré dans son avis d'appel que, pendant toute l'époque pertinente, elle était actionnaire, administratrice, dirigeante et employée d'Iron Group Ltd. L'intimée, dans sa réponse, a reconnu la véracité de ces faits. L'appelante a admis qu'elle était directrice générale d'Iron Group Ltd.
+[19] Tout comme pour Bending Lake Corp., l'appelante, M. Wetelainen et M. Bailey étaient les trois personnes autorisées à signer pour le compte bancaire d'Iron Group Ltd.; chaque chèque devait porter deux signatures.
+[20] Le 18 juillet 2008, Iron Group Ltd. a reçu 4 200 000 $ au moyen d'un placement privé de ses actions. M. Wetelainen a témoigné que, conformément au résumé des modalités qui faisait partie du placement privé, Iron Group Ltd. a versé 1 200 000 $ des 4 200 000 $ à Bending Lake Corp. Il semble que ces 1 200 000 $ ont été versés pour couvrir les frais engagés par Bending Lake Corp. pour mettre en valeur et promouvoir la mine de Bending Lake. M. Wetelainen a qualifié ces frais de « propriété intellectuelle »[5].
+[21] Monsieur Wetelainen a témoigné qu'au moment du placement privé, Bending Lake Corp. lui devait environ 500 000 $ à 1 000 000 $ pour des services qu'il avait précédemment rendus à la société.
+[22] Il semble que M. Wetelainen a utilisé une partie du montant que Bending Lake Corp. lui devait pour acheter la Cadillac Escalade en cause dans le présent appel.
+[23] L'appelante a déclaré qu'après que M. Wetelainen eut acheté la Cadillac Escalade, il la lui a offerte comme cadeau d'anniversaire (son anniversaire était le 11 août 2008). Selon son témoignage et la preuve documentaire dont je suis saisi, j'ai conclu que l'achat par M. Wetelainen et le transfert à l'appelante de la Cadillac Escalade se sont déroulés comme suit :
+- Le 13 août 2008, M. Wetelainen s'est présenté chez un concessionnaire d'automobiles de Toronto et a conclu un contrat d'achat de voiture pour une nouvelle Cadillac Escalade de l'an 2008 au prix de 68 543,72 $. Il a donné au concessionnaire un acompte de 2 000 $, ce qui laissait un solde de 66 543,72 $[6].
+- Le 13 août 2008, l'appelante, à la demande de M. Wetelainen[7], a chargé M. Bailey de préparer un chèque de 75 000 $ tiré sur le compte bancaire de Bending Lake Corp. payable à M. Wetelainen. La pièce R‑1, une note du 14 août 2008 de l'appelante à M. Bailey, atteste cette demande.
+- L'appelante et M. Bailey ont signé un chèque de 75 000 $ le 14 août 2008[8]. Le chèque était payable à M. Wetelainen et indiquait que son adresse était le 402, chemin Grand Point, à Thunder Bay, en Ontario. Il s'agit de l'adresse du domicile de l'appelante.
+- Le 15 août 2008, l'appelante a déposé le chèque de 75 000 $ dans le compte bancaire de M. Wetelainen dans une succursale de la TD Canada Trust à Thunder Bay (Ontario)[9].
+- Environ 30 minutes plus tard, à la demande de M. Wetelainen, une succursale de la TD Canada Trust à Toronto a fait une traite bancaire de 64 232,87 $ payable au concessionnaire d'automobiles de Toronto[10].
+- M. Wetelainen a payé le solde du prix d'achat pour compléter l'achat de la Cadillac Escalade. Il a ensuite transféré la propriété de la Cadillac Escalade à l'appelante.
+- L'appelante a obtenu une assurance‑automobile pour la Cadillac Escalade. Comme l'attestent les pièces R‑4 à R‑6, l'assurance couvre deux conducteurs : l'appelante et M. Wetelainen.
+[24] L'appelante a déclaré avoir personnellement payé 8 000 $ du prix d'achat de la voiture en fournissant un chèque pour ce montant au concessionnaire d'automobiles de Toronto[11]. Elle a dit avoir payé ce montant pour [TRADUCTION] « l'immatriculation et tous les autres frais de clôture »[12]. Elle n'a pas fourni de copie de ce chèque ni aucune autre preuve documentaire à l'appui de son témoignage.
+[25] La preuve documentaire dont je dispose contredit son témoignage sur ce point. Comme je l'ai mentionné précédemment, le contrat d'achat de voiture indique que M. Wetelainen a fourni un acompte de 2 000 $ le 13 août 2008, ce qui laissait un solde de 66 543,72 $. Il a ensuite fourni une traite bancaire de 64 232,87 $ le 15 août, ce qui laissait un solde de 2 310,85 $. Il ne m'est pas clair à quel moment ce montant a été payé, mais il est beaucoup moins élevé que les 8 000 $ que l'appelante prétend avoir payés à l'égard du prix d'achat de la Cadillac Escalade. En outre, le prix d'achat de 68 543,72 $ comprend des frais d'immatriculation, des frais d'administration, une garantie prolongée, du carburant et ce qu'on a appelé « Protector Plus ». À mon avis, 68 543,72 $ représente le montant total payé pour la voiture.
+[26] Je ne suis saisi d'aucun élément de preuve fiable qui étaye la conclusion de fait selon laquelle l'appelante a versé un montant quelconque au concessionnaire d'automobiles de Toronto.
+[27] Le témoignage de M. Wetelainen contredit celui de l'appelante sur un point important, soit celui de savoir si M. Wetelainen a donné ou non à l'appelante l'instruction de demander à M. Bailey de préparer le chèque de 75 000 $. Le témoignage de M. Wetelainen en contre‑interrogatoire était le suivant :
+[TRADUCTION]
+Q. D'accord. Et vous avez demandé à Dawn McKay de vous donner un chèque de 75 000 $?
+R. Non, j'ai demandé à Chris Bailey de le faire, et Dawn a signé le chèque. Et Chris était notre comptable, et il en avait le contrôle. Il aurait pu dire non, mais il ne l'a pas fait. Il l'a signé et il a gardé le chèque.
+Q. Vous n'avez pas eu de conversation avec Dawn McKay?
+R. Non, parce que je traite tout le temps avec Chris.
+Q. D'accord, et vous —
+R. Il était le contrôleur.
+Q. Vous avez donc demandé à Chris de vous donner un chèque de 75 000 $?
+R. De mon compte.
+[28] Cela contredit directement le témoignage de l'appelante selon lequel M. Wetelainen l'a appelée et lui a dit de demander à M. Bailey de préparer le chèque de 75 000 $. Dans ce cas, j'accepte le témoignage de l'appelante. La preuve documentaire dont je dispose, soit la pièce R‑1, appuie son témoignage. Le témoignage de M. Wetelainen sur ce point a nui considérablement à sa crédibilité. À mon avis, son témoignage était une tentative d'induire la Cour en erreur quant à la participation de l'appelante à l'obtention du chèque de 75 000 $ de Bending Lake Corp.
+[29] Monsieur Wetelainen a témoigné habiter une maison qu'il possédait à Wabigoon, en Ontario. Apparemment, Wabigoon est à deux heures et demie ou trois heures de route des bureaux de Bending Lake Corp. et d'Iron Group Ltd. à Thunder Bay. Le bureau de l'association se trouvait au même immeuble, à Thunder Bay.
+[30] Toujours selon M. Wetelainen, il ne possédait pas de voiture au moment d'acheter la Cadillac Escalade. Il utilisait le camion de son frère. En contre‑interrogatoire, il a admis avoir déjà possédé une Cadillac Escalade, mais elle avait été reprise par la banque en 2006 ou en 2007.
+[31] Monsieur Wetelainen a déclaré avoir offert à l'appelante la Cadillac Escalade en cadeau pour tout ce qu'elle avait traversé lors de la vérification de l'association et de l'enquête policière subséquente.
+[32] Les éléments de preuve dont je suis saisi indiquent qu'à l'époque où M. Wetelainen a acheté la Cadillac Escalade et en a transféré la propriété à l'appelante, il était tenu de payer plus de 900 000 $ en vertu de la Loi de l'impôt sur le revenu[13].
+II. La loi [33] Le paragraphe 160(1) est libellé comme suit :
+160(1) Transfert de biens entre personnes ayant un lien de dépendance — Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s'appliquent :
+d) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement d'une partie de l'impôt de l'auteur du transfert en vertu de la présente partie pour chaque année d'imposition égale à l'excédent de l'impôt pour l'année sur ce que cet impôt aurait été sans l'application des articles 74.1 à 75.1 de la présente loi et de l'article 74 de la Loi de l'impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, à l'égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l'égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants représentant chacun un montant que l'auteur du transfert doit payer en vertu de la présente loi (notamment un montant ayant ou non fait l'objet d'une cotisation en application du paragraphe (2) qu'il doit payer en vertu du présent article) au cours de l'année d'imposition où les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années.
+Toutefois, le présent paragraphe n'a pas pour effet de limiter la responsabilité de l'auteur du transfert en vertu de quelque autre disposition de la présente loi ni celle du bénéficiaire du transfert quant aux intérêts dont il est redevable en vertu de la présente loi sur une cotisation établie à l'égard du montant qu'il doit payer par l'effet du présent paragraphe.
+[34] Dans l'arrêt Livingston c. Canada[14], la Cour d'appel fédérale a déclaré que les critères suivants s'appliquent lors de l'examen de l'application du paragraphe 160(1) :
+1) L'auteur du transfert doit être tenu de payer des impôts en vertu de la Loi au moment de ce transfert.
+2) Il doit y avoir eu transfert direct ou indirect de biens au moyen d'une fiducie ou de toute autre façon.
+3) Le bénéficiaire du transfert doit être :
+i. soit l'époux ou conjoint de fait de l'auteur du transfert au moment de celui-ci, ou une personne devenue depuis son époux ou conjoint de fait;
+ii. soit une personne qui était âgée de moins de 18 ans au moment du transfert;
+iii. soit une personne avec laquelle l'auteur du transfert avait un lien de dépendance.
+4) La juste valeur marchande des biens transférés doit excéder la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert.
+[35] Si ces conditions sont remplies, le bénéficiaire du transfert (l'appelante) est tenu de payer une partie de l'obligation fiscale de l'auteur du transfert (M. Wetelainen) égale à l'excédent de la juste valeur marchande du bien transféré (la Cadillac Escalade) sur la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert.
+[36] L'appelante admet que M. Wetelainen lui a transféré la Cadillac Escalade en août 2008. D'après les éléments de preuve qui m'ont été présentés, au moment du transfert, M. Wetelainen devait des impôts excédant 900 000 $.
+[37] La pièce A‑4 atteste que la juste valeur marchande de la Cadillac Escalade était de 68 543,72 $ au moment du transfert.
+[38] Comme je l'ai mentionné précédemment, j'ai conclu, d'après les éléments de preuve dont je dispose, que l'appelante n'a payé aucune contrepartie pour la Cadillac Escalade.
+[39] Par conséquent, le paragraphe 160(1) s'applique au transfert si l'appelante et M. Wetelainen avaient un lien de dépendance au moment du transfert. Il s'applique également s'ils étaient conjoints de fait au moment du transfert ou après celui‑ci.
+[40] L'intimée soutient dans sa réponse qu'à l'époque pertinente, selon l'alinéa 251(1)a), l'appelante et M. Wetelainen avaient un lien de dépendance. L'intimée soutient que l'appelante et M. Wetelainen étaient conjoints de fait et étaient donc des personnes liées en vertu de l'alinéa 251(2)a) et, de ce fait, étaient réputés avoir un lien de dépendance en vertu de l'alinéa 251(1)a).
+[41] L'intimée fait également valoir que, conformément à l'alinéa 251(1)c), l'appelante et M. Wetelainen avaient un lien de dépendance. Ce paragraphe se lit comme suit :
+251(1) Pour l'application de la présente loi :
+[...]
+c) dans les autres cas, la question de savoir si des personnes non liées entre elles n'ont aucun lien de dépendance à un moment donné est une question de fait.
+Les savants auteurs Peter W. Hogg, Joanne E. Magee et Jinyan Li, dans leur livre intitulé Principles of Canadian Income Tax Law, fournissent le résumé exact suivant du droit en ce qui concerne la détermination de la question de savoir si deux personnes ont, en fait, un lien de dépendance :
+[TRADUCTION]
+[...] Les critères que les tribunaux utilisent généralement pour décider si les parties à une opération ont un lien de dépendance sont les suivants : a) une volonté commune dirigeait‑elle les négociations pour les deux parties à l'opération? b) les parties à l'opération agissaient‑elles de concert sans intérêts distincts? c) y avait‑il un contrôle de fait? En outre, les tribunaux peuvent examiner si les modalités des opérations entre les parties reflètent des « opérations commerciales ordinaires », mais seulement pour « vérifier le bien‑fondé » des conclusions après avoir appliqué les trois critères susmentionnés[15].
+Dans l'arrêt Remai c. Canada[16], la Cour d'appel fédérale a noté ce qui suit en ce qui concerne le critère :
+[...] Comme tout autre critère légal comportant plusieurs volets, il n'est pas nécessaire de satisfaire à chacun des volets dans tous les cas. Certains revêtent une importance particulière dans certains cas, alors que d'autres ont moins d'importance. De plus, les facteurs énumérés ne sont pas nécessairement exhaustifs.
+III. L'application du droit aux faits [42] Je vais d'abord discuter de la question de savoir si l'appelante et M. Wetelainen étaient conjoints de fait. Au moment d'établir la cotisation de l'appelante, le ministre n'a pas tenu pour acquis que l'appelante et M. Wetelainen étaient conjoints de fait. Par conséquent, l'appelante n'a pas à « démolir » d'hypothèse.
+[43] Je dois fonder ma décision sur les éléments de preuve dont je dispose. Tant l'appelante que M. Wetelainen ont témoigné qu'ils n'étaient pas conjoints de fait. M. Wetelainen a déclaré qu'il habitait sa maison à Wabigoon, en Ontario, à deux heures et demie ou trois heures de route.
+[44] Ni l'un ni l'autre des témoins n'était crédible. Par conséquent, je n'ai accordé aucun poids à leur témoignage à ce sujet.
+[45] Il m'apparaît clairement que l'appelante et M. Wetelainen avaient une relation très étroite. Ils se connaissent professionnellement et personnellement depuis longtemps. Les éléments de preuve suivants appuient la conclusion selon laquelle, à un certain moment, cette relation s'est transformée en union de fait :
+- Le chèque de 75 000 $ émis par Bending Lake Corp. à M. Wetelainen a indiqué que son adresse était celle de l'appelante.
+- L'appelante a assuré M. Wetelainen comme conducteur de la Cadillac Escalade.
+- L'appelante connaissait les renseignements bancaires de M. Wetelainen. Puisqu'elle a déposé 75 000 $ dans son compte bancaire, elle devait connaître l'emplacement de ce compte et le numéro de compte.
+[46] Ces éléments de preuve à eux seuls ne suffisent pas pour conclure que l'appelante et M. Wetelainen étaient conjoints de fait. Toutefois, lorsqu'ils sont conjugués à la pièce R‑6, les éléments de preuve dont je dispose étayent une telle conclusion.
+[47] La pièce R‑6 est le certificat d'assurance de la Cadillac Escalade pour la période du 15 août 2011 au 15 août 2012. La page 2 de la pièce R‑6 indique que l'appelante et M. Wetelainen sont conjoints de fait. Cela représente un changement par rapport aux certificats d'assurance pour les deux années précédentes (pièces R‑4 et R‑5), qui les désignent comme célibataires.
+[48] L'appelante a déclaré qu'elle ne savait pas pourquoi le changement a été apporté au certificat d'assurance délivré en 2011. Elle a affirmé qu'elle n'avait pas donné d'instructions à cet égard à la compagnie d'assurance. Je n'accepte pas le témoignage de l'appelante à ce sujet. Elle était l'assurée désignée sur le certificat d'assurance. Il aurait fallu que la compagnie d'assurance reçoive des instructions de l'appelante avant de modifier l'état civil sur le certificat d'assurance.
+[49] Sur la base des éléments de preuve susmentionnés, j'ai conclu qu'à un moment antérieur à août 2011, l'appelante et M. Wetelainen étaient conjoints de fait.
+[50] De plus, je suis d'avis que, indépendamment du fait que l'appelante et M. Wetelainen étaient conjoints de fait, ils avaient, dans les faits, un lien de dépendance au moment où M. Wetelainen a transféré la Cadillac Escalade à l'appelante.
+[51] Je n'accepte pas le témoignage de M. Wetelainen voulant qu'il ait offert à l'appelante la Cadillac Escalade en cadeau pour tout ce qu'elle avait traversé lors de la vérification de l'association. L'appelante a déclaré qu'elle était bien rémunérée pour son travail à l'association et qu'elle gagnait de 60 000 $ à 100 000 $ par année. À mon avis, selon la preuve dont je dispose, M. Wetelainen a transféré la propriété de la Cadillac Escalade afin d'éviter les tentatives de recouvrement de l'ARC.
+[52] Comme je viens de le dire, M. Wetelainen et l'appelante avaient des relations personnelles étroites. Quelque temps avant l'été 2008, M. Wetelainen avait perdu sa seule voiture, une Cadillac Escalade, à la suite de sa reprise par la banque. Il avait manifestement besoin d'une voiture pour remplir ses fonctions de président de Bending Lake Corp. et d'Iron Group Ltd. La mine était située à plus de deux heures et demie des bureaux des sociétés à Thunder Bay. Devant une dette fiscale de plus de 900 000 $, il devait trouver un moyen d'obtenir une voiture sans qu'elle soit assujettie aux mesures de recouvrement de l'ARC.
+[53] À mon avis, selon les éléments de preuve dont je suis saisi, M. Wetelainen et l'appelante ont accompli cet objectif en réalisant les opérations qui ont entraîné le mouvement de fonds de Bending Lake Corp. au concessionnaire d'automobiles et le transfert de la propriété de la nouvelle Cadillac Escalade à l'appelante. L'appelante a ensuite ajouté M. Wetelainen comme conducteur à sa police d'assurance, ce qui lui a permis d'utiliser la voiture de façon régulière.
+[54] À mon avis, M. Wetelainen était l'âme dirigeante derrière toutes ces opérations. M. Wetelainen et l'appelante, à sa demande, ont réalisé les opérations pour tenter de soustraire un actif que M. Wetelainen avait l'intention d'utiliser de façon régulière, la Cadillac Escalade, des tentatives de recouvrement de l'ARC. C'est le préjudice que le paragraphe 160(1) vise à empêcher.
+[55] Pour les motifs qui précèdent, l'appel est rejeté. Le paragraphe 160(1) s'appliquait au transfert de la Cadillac Escalade par M. Wetelainen à l'appelante. Les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 17e jour d'octobre 2016.
+« S. D'Arcy »
+Le juge D'Arcy
+RÉFÉRENCE :
+2016 CCI 233
+No DU DOSSIER DE LA COUR :
+2012-3636(IT)G
+INTITULÉ :
+DAWN McKAY c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Thunder Bay (Ontario)
+DATE DE L'AUDIENCE :
+Le 17 décembre 2015
+MOTIFS DU JUGEMENT :
+L'honorable juge Steven K. D'Arcy
+DATE DU JUGEMENT :
+Le 17 octobre 2016
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Brian R. MacIvor
+Me Amy Parker
+Avocat de l'intimée :
+Me George Boyd Aitken
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Brian R. MacIvor
+Cabinet :
+MacIvor Harris LLP
+Thunder Bay (Ontario)
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir la transcription, pages 28 et 41.
+[2] Voir la transcription, pages 41, 87, 88 et 125.
+[3] Pièce R‑8; voir la transcription, pages 183, 184, 171 et 172.
+[4] Voir la transcription, page 63.
+[5] Voir la transcription, pages 32 et 143 à 145.
+[6] Pièce A-4.
+[7] Transcription, à la page 61.
+[8] Pièce A-3.
+[9] Pièce A-5.
+[10] Voir les pièces A-6 et A-9.
+[11] Voir la transcription, page 45.
+[12] Voir la transcription, page 113.
+[13] Voir la transcription, page 182.
+[14] Livingston c. Canada, 2008 CAF 89, [2008] 3 R.C.F. F-3, au paragraphe 17.
+[15] 8e édition (Toronto, Carswell, 2013), sous‑alinéa 13.4a)(ii).
+[16] 2009 CAF 340, [2009] 4 R.C.F. F‑18, au paragraphe 32.

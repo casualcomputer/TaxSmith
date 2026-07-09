@@ -1,0 +1,127 @@
+Title: Pereira-Jennings v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29365/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-330-29365-pereira-jennings-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2009-06-18
+
+# Pereira-Jennings v. The Queen
+
+- Citation: 2009 CCI 330
+- Decision date: 2009-06-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6917, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pereira-Jennings v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-18
+Référence neutre
+2009 CCI 330
+Numéro de dossier
+2008-3314(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3314(IT)I
+ENTRE :
+VIRGINIA PEREIRA-JENNINGS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 8 juin 2009, à Toronto (Ontario).
+Devant : L’honorable juge E. A. Bowie
+Comparutions :
+Représentant de l’appelante :
+Syvon Jennings
+Avocate de l’intimée :
+Me Aleksandra Lipski
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies à l’égard de l’appelante en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005 sont rejetés.
+Signé à Ottawa, Canada, ce 18e jour de juin 2009.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 22e jour de juillet 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2009 CCI 330
+Date : 20090618
+Dossier : 2008-3314(IT)I
+ENTRE :
+VIRGINIA PEREIRA-JENNINGS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Le montant des cotisations qu’un contribuable peut verser à un régime enregistré d’épargne‑retraite (REER) en vertu de la Loi de l’impôt sur le revenu[1] (la « Loi ») dépend du revenu gagné pendant l’année, des déductions inutilisées des années précédentes, du facteur d’équivalence pour services passés ainsi que d’autres critères. En l’espèce, il suffit de savoir que pendant les années d’imposition 2003, 2004 et 2005, le montant des cotisations versées au REER de l’appelante dépassait les limites admissibles et qu’elle avait par conséquent, pour reprendre les termes de la Loi, un « excédent cumulatif au titre de [REER] ». Elle devait donc payer un impôt en vertu du paragraphe 204.1(2.1)[2] et se trouvait par conséquent visée par la partie X.1 de la Loi pour chacune des années en cause. Un contribuable faisant face à une telle situation peut demander au ministre du Revenu national (le « ministre ») de renoncer à l’impôt en question en vertu du paragraphe 204.1(4) de la Loi. Pour cela, l’appelante doit remplir le formulaire T3012A, demandant ainsi le consentement du ministre pour que l’institution financière concernée rembourse à l’appelante les versements excédentaires sans retenir d’impôt. Toutefois, en tant que personne visée par la partie X.1 de la Loi, elle doit produire une déclaration auprès du ministre en application du paragraphe 204.3(1), au moyen du formulaire T1‑OVP, et verser l’impôt dans les 90 jours suivant la fin de l’année, à moins que le ministre ne renonce à l’impôt avant la fin de cette période de 90 jours.
+[2] En l’espèce, les parties conviennent du fait que l’appelante avait un « excédent cumulatif au titre de REER » pendant les années d’imposition 2003, 2004 et 2005. L’appelante n’a pas produit la déclaration requise au moyen du formulaire T1‑OVP dans les 90 jours suivant la fin de chacune des années en cause, pas plus qu’elle n’a versé d’impôt ou obtenu que le ministre renonce à cet impôt pendant les périodes en cause. Le ministre a par conséquent imposé une pénalité, avec intérêts, pour chacune des trois années d’imposition concernées. Le paragraphe 162(1) de la Loi permet de calculer les pénalités et le paragraphe 161(11), les intérêts; ces dispositions sont rendues applicables par le paragraphe 204.3(2). En l’espèce, Mme Pereira‑Jennings interjette appel des pénalités avec intérêts que le ministre lui a imposées.
+[3] L’appelante n’a pas comparu à l’audition de ses appels. Elle était représentée par son mari, M. Syvon Jennings. Aucun témoin n’a été cité à comparaître et la seule preuve dont j’ai été saisi est un ensemble de 16 documents qui ont été produits sous la cote A-1, avec le consentement de l’avocate de l’intimée. Les parties conviennent du fait que le moyen de défense fondé sur la diligence raisonnable s’applique aux pénalités en cause. L’appelante est d’avis que les documents produits sous la cote A‑1 établissent qu’elle a bien fait preuve de diligence raisonnable relativement à l’exigence consistant à produire des déclarations au moyen de formulaires T1-OVR. L’intimée prétend le contraire. Afin de trancher le litige, il convient d’examiner les évènements qui ont eu suivi la fin de l’année d’imposition 2003, autant qu’il m’est permis de le faire à la lumière de la quantité très limitée d’éléments de preuve dont je suis saisi.
+[4] Les documents 12, 13 et 14 qui ont été produits sous la cote A-1 sont des copies de formulaires T3012A relatifs à des cotisations de 30 035 $ que l’appelante a versées à des REER dont elle était elle‑même rentière en 2003. Ces formulaires sont datés du 26 mars 2004 et il semble s’agir de trois copies du même formulaire. Aucune signature n’apparaît dans l’espace prévu pour la signature du cotisant, la case « Numéro du contrat ou du régime » est vide et on ignore quand l’Agence du revenu du Canada (l’« ARC ») a reçu ce formulaire. Le document 10 est uniquement constitué de la première page d’une lettre datée du 1er mai 2007 que l’ARC a envoyée à l’appelante. Elle est en partie rédigée ainsi :
+[traduction]
+Vous nous avez envoyé des formulaires T3012A en mars 2004, à la suite de quoi nous vous avons écrit, le 4 mai 2004, afin de vous demander des copies des reçus pertinents de cotisation au REER. Vous ne nous avez pas répondu avant décembre 2005. Il ne s’agit pas d’un délai raisonnable, et vous auriez également pu retirer les fonds immédiatement, sans remplir les formulaires T3012A,
+[5] M. Jennings a soutenu qu’en envoyant ces formulaires non signés à l’ARC en mars 2004, l’appelante a, selon les termes de M. Jennings, [traduction] « lancé le processus » de rectification de ses versements excédentaires, et qu’elle devrait par conséquent être traitée comme si elle avait effectivement remédié à l’excédent cumulatif avant la fin de la période de 90 jours suivant la fin de l’année d’imposition 2003. M. Jennings a fait valoir que si les formulaires envoyés par l’appelante en mars 2003 ne convenaient pas, il revenait aux fonctionnaires de l’ARC d’en aviser l’appelante, et que l’intimée est par conséquent responsable de tout retard accusé après cette date.
+[6] Les documents 4, 8 et 9 sont tous des formulaires T3012A signés par l’appelante qui concernent les versements excédentaires qu’elle a faits en 2003 à des REER dont son mari, Syvon Jennings, est rentier. Ces formulaires sont datés du 22 décembre 2005 et semblent avoir été reçus par l’ARC le 26 janvier 2006. Les trois formulaires font état d’un montant de 10 000 $. Les documents 5, 6 et 7 sont des formulaires similaires relatifs aux versements excédentaires que l’appelante a faits en 2004 au REER de son mari. Le 21 février 2007, R. Cormier a signé ces six formulaires, le ministre autorisant ainsi le remboursement des montants sans retenue d’impôt.
+[7] La déclaration prévue par la partie X.1 de la Loi ne figure pas au nombre des documents produits en preuve par l’appelante, qu’il s’agisse des documents visant l’année d’imposition 2003, 2004 ou 2005. Les hypothèses invoquées par le ministre au paragraphe 19 de la réponse à l’avis d’appel incluent l’hypothèse voulant que l’appelante ait d’abord produit la déclaration prévue par la partie X.1 de la Loi pour chacune de ces années le 5 mars 2007. Aucune preuve ne vient démontrer le contraire. La seule explication que le représentant de l’appelante a offerte pour le retard a consisté à affirmer que l’appelante, en remplissant des formulaires sans les signer et sans joindre les reçus requis, avait fait preuve de diligence raisonnable relativement aux exigences en matière de production, et que les fonctionnaires de l’ARC qui ne l’ont pas avisée que ces formulaires ne convenaient pas étaient, on ne sait pourquoi, devenus responsables des manquements de l’appelante. Pour se prévaloir avec succès du moyen de défense fondé sur la diligence raisonnable, il ne suffit pas de faire preuve de bonne foi passive et de bonnes intentions. Il faut que la contribuable présente des preuves convaincantes des gestes qu’elle a posés afin de satisfaire aux exigences de la loi : voir Pillar Oilfield Projects Ltd. v. Canada[3]. En l’espèce, l’appelante est loin de satisfaire aux exigences lui permettant de se prévaloir du moyen de défense fondé sur la diligence raisonnable.
+[8] Les appels sont par conséquent rejetés.
+Signé à Ottawa, Canada, ce 18e jour de juin 2009.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 22e jour de juillet 2009.
+Alya Kaddour‑Lord, traductrice
+ANNEXE A
+PARTIE I
+161(11) Tout contribuable tenu de payer une pénalité doit la verser au receveur général avec intérêts calculés au taux prescrit :
+a) s’il s’agit d’une pénalité visée aux articles 162, 163 ou 235, pour la période allant du jour ci-après jusqu’à la date du paiement :
+(i) le jour où la déclaration de revenu du contribuable pour l’année d’imposition à l’égard de laquelle la pénalité est payable doit au plus tard être produite ou le devrait si le contribuable devait payer un impôt en vertu de la présente partie pour l’année,
+(ii) le jour où tout autre document – déclaration de renseignements, déclaration, certificat de propriété ou autre – à l’égard duquel la pénalité est payable doit au plus tard être produit ou présenté, selon le cas;
+b) s’il s’agit d’une pénalité visée à l’article 163.1 relative à une année d’imposition, pour la période allant de la date d’exigibilité du solde qui est applicable au contribuable pour l’année jusqu’à la date du paiement de la pénalité;
+b.1) s’il s’agit d’une pénalité visée au paragraphe 237.1(7.4), pour la période allant du jour où le contribuable est devenu passible de la pénalité jusqu’à la date du paiement;
+c) s’il s’agit d’une pénalité visée à une autre disposition de la présente loi, pour la période allant du jour de mise à la poste de l’avis de cotisation initial concernant la pénalité jusqu’à la date du paiement.
+162(1) Toute personne qui ne produit pas de déclaration de revenu pour une année d’imposition selon les modalités et dans le délai prévus au paragraphe 150(1) est passible d’une pénalité égale au total des montants suivants :
+a) 5 % de l’impôt payable pour l’année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+b) le produit de 1 % de cet impôt impayé par le nombre de mois entiers, jusqu’à concurrence de 12, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+PARTIE X.1
+204.1(2.1) Le particulier qui, à la fin d’un mois donné postérieur au mois de décembre 1990, a un excédent cumulatif au titre de régimes enregistrés d’épargne-retraite doit, pour ce mois, payer un impôt selon la présente partie égal à 1 % de cet excédent.
+204.1(4) Le ministre peut renoncer à l’impôt dont un particulier serait, compte non tenu du présent paragraphe, redevable pour un mois selon le paragraphe (1) ou (2.1), si celui-ci établit à la satisfaction du ministre que l’excédent ou l’excédent cumulatif qui est frappé de l’impôt fait suite à une erreur acceptable et que les mesures indiquées pour éliminer l’excédent ont été prises
+204.3(1) Les contribuables visés par la présente partie doivent, dans les 90 jours qui suivent la fin de chaque année postérieure à 1975 :
+a) produire auprès du ministre, sans avis ni mise en demeure, une déclaration pour l’année en vertu de la présente partie, selon le formulaire prescrit et contenant les renseignements prescrits;
+b) estimer, dans cette déclaration, l’impôt dont ils sont redevables en vertu de la présente partie pour chaque mois de l’année;
+c) verser cet impôt au receveur général.
+204.3(2) Les paragraphes 150(2) et (3), les articles 152 et 158, les paragraphes 161(1) et (11), les articles 162 à 167 et la section J de la partie I s’appliquent à la présente partie, avec les adaptations nécessaires.
+RÉFÉRENCE : 2009 CCI 330
+NO DU DOSSIER DE LA COUR : 2008-3314(IT)I
+INTITULÉ : Virginia Pereira-Jennings et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 8 juin 2009
+MOTIFS DU JUGEMENT : L’honorable juge E. A. Bowie
+DATE DU JUGEMENT : Le 18 juin 2009
+COMPARUTIONS :
+Représentant de l’appelante :
+Syvon Jennings
+Avocate de l’intimée :
+Me Aleksandra Lipski
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch.1 (5e suppl.), dans sa version modifiée.
+[2] Ce paragraphe ainsi que les autres dispositions de la Loi auxquelles il est fait référence dans les présents motifs du jugement sont reproduits à l’annexe A.
+[3] [1993] G.S.T.C. 49.

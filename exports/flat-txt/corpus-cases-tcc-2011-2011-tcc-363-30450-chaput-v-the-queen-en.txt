@@ -1,0 +1,95 @@
+Title: Chaput v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30450/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-363-30450-chaput-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-07-15
+
+# Chaput v. The Queen
+
+- Citation: 2011 TCC 363
+- Decision date: 2011-07-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7922, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chaput v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-07-15
+Neutral citation
+2011 TCC 363
+File numbers
+2010-247(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-247(IT)I
+BETWEEN:
+RICHARD CHAPUT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 15, 2011, at Montréal, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the appellant:
+Serge Fréchette
+Counsel for the respondent:
+Simon Vincent
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made pursuant to the Income Tax Act for the 2007 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of July 2011.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 17th day of August 2011.
+Elizabeth Tan, Translator
+Citation: 2011 TCC 363
+Date: July 21, 2011
+Docket: 2010-247(IT)I
+BETWEEN:
+RICHARD CHAPUT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally at the hearing on July 15, 2011)
+Tardif J.
+[1] This is an appeal regarding the 2007 taxation year. After reading the Notice of Appeal and Reply to the Notice of Appeal, and after hearing the comments and arguments of the agent for the appellant, Serge Fréchette, I find that the appeal must be dismissed since its only basis and all the elements taken into consideration in its support are frivolous, trivial or even insignificant.
+[2] Moreover, in the circumstances, I confirm the validity of the penalty, since the appellant acknowledged and accepted the process and trivial arguments of his agent after being sworn in; the fact he consented and encouraged such an initiative constitutes gross negligence because it is essentially a crazy strategy implemented to avoid his tax liabilities.
+Signed at Ottawa, Canada, this 21st day of July 2011.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 17th day of August 2011.
+Elizabeth Tan, Translator
+CITATION: 2011 TCC 363
+COURT FILE NO.: 2010-247(IT)I
+STYLE OF CAUSE: RICHARD CHAPUT v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: July 15, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: July 21, 2011
+APPEARANCES:
+Agent for the appellant:
+Serge Fréchette
+Counsel for the respondent:
+Simon Vincent
+COUNSEL OF RECORD:
+For the appellant:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

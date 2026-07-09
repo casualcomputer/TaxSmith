@@ -1,0 +1,168 @@
+---
+title: "Camions DM Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29128/index.do"
+last_modified: "2009-03-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 63"
+citation2: ""
+neutral_citation: "2009 CCI 63"
+decision_date: "2009-03-06"
+language: "fr"
+item_id: "29128"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6628
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:05:44.735000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "564c1bc7534e7b1e7ba344426736e6cf17182ad13d3b607fbcc8ecb8781c8d35"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Camions DM Inc. c. La Reine
+
+- Citation: 2009 CCI 63
+- Decision date: 2009-03-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6628, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Camions DM Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-06
+Référence neutre
+2009 CCI 63
+Numéro de dossier
+2007-2679(GST)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-2679(GST)G
+ENTRE :
+CAMIONS DM INC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 7 et 8 octobre 2008, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Louis-Frédérick Côté
+Avocat de l'intimée :
+Me Gérald Danis
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L'appel de la cotisation établie en vertu de la Partie IX de la Loi sur la taxe d'accise pour la période du 1er octobre 2002 au 31 mars 2006 est rejeté avec dépens, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour de mars 2009.
+« François Angers »
+Juge Angers
+Référence : 2009 CCI 63
+Date : 20090306
+Dossier : 2007-2679(GST)G
+ENTRE :
+CAMIONS DM INC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L’appelante interjette appel d’une cotisation établie en vertu de la Partie IX de la Loi de la taxe d’accise (la « Loi ») pour la période du 1er octobre 2002 au 31 mars 2006. Après avoir effectué une vérification, l’intimée a refusé des crédits de taxe sur intrants (CTI) que l’appelante avait demandés durant la période en question dans le calcul de sa taxe nette, soit un montant de 237,12 $ pour des factures qui n’étaient pas en règle et un montant de 25 984 $ pour des factures dites de complaisance. Des pénalités de 2 755,46 $, des intérêts de 1 221 $ et des pénalités supplémentaires de 6 510 $ ont aussi été cotisées.
+[2] L’appelante ne conteste plus le refus de 237,12 $ en CTI pour les factures qui ne sont pas en règle. Quant aux CTI de 25 984 $, ils visent deux fournisseurs de l’appelante, soit monsieur Pascal Bouchard pour un montant de 1 876 $ et monsieur Mario Lussier pour un montant de 24 108 $.
+[3] L’appelante est inscrite aux fins de la Loi et son activité commerciale consiste à acheter et à revendre des camions et des pièces de camions d’occasion. Elle a fait l’objet d’une vérification en 2005 et 2006 et aucun écart n’a été révélé à la suite d’une conciliation des taxes perçues et des taxes versées. La vérificatrice a également reconstitué le chiffre d’affaires de l’appelante à partir des encaissements et aucun écart significatif n’a été trouvé. Aucun écart significatif n’a été décelé non plus entre les CTI demandés et ceux inscrits aux livres de l’appelante. L’analyse des factures a cependant révélé que certaines d’entre elles n’étaient pas conformes à la Loi et que d’autres factures auraient été établies par des fournisseurs de complaisance et ce sont ces factures qui font l’objet du présent litige.
+[4] Il y a quatre factures qui sont liées au fournisseur Pascal Bouchard. Elles remontent à l’automne de 2002 et au printemps 2003. Ce dernier a vendu à l’appelante des pièces de camion et des moteurs de camion. Trois des quatre factures d’achat par l’appelante ont été faites sur des factures portant l’entête de l’entreprise de l’appelante et il en fut de même pour les achats faits auprès du fournisseur Mario Lussier. Les factures portant l’entête de l’entreprise de l’appelante étaient donc utilisées autant pour faire les achats que les ventes. Il suffisait de cocher une case à la droite de la facture pour indiquer s’il s’agissait d’un achat ou d’une vente.
+[5] Monsieur Dany Williams est le propriétaire de Camions DM Inc. Les activités de l’appelante ont débuté en 2002 et il a acheté des pièces du fournisseur Bouchard. Il dit ne pas avoir revu Bouchard après 2003. L’achat le plus important s’éleva à 16 793,65 $, taxes comprises, et il fut effectué le 11 mars 2003. L’appelante aurait payé cet achat en trois paiements, soit trois chèques faits à l’ordre de « cash » et endossés par Dany Williams, et ce, selon monsieur Williams, pour payer le fournisseur Bouchard.
+[6] Les pièces achetées, tels que les moteurs, ne sont pas identifiées par des numéros de série. Les pièces ont été revendues par l’appelante comme l’indiquent certaines factures de vente. Dany Williams reconnaît que les numéros d’inscrit du fournisseur Bouchard ont été ajoutés sur les factures par sa mère après la conclusion des opérations.
+[7] Pascal Bouchard n’a pas été appelé à témoigner. Le rapport de la vérificatrice (pièce I‑1, onglet 1) nous révèle cependant que ce dernier n’a jamais eu de place d’affaires, qu’il n’a jamais déclaré de taxes ou demandé de remboursements et qu’il ne possède aucun document pour son entreprise et ni de comptabilité. Il s’est inscrit aux fins de la TPS le 11 septembre 2002. Dans son rapport, la vérificatrice relate les conversations qu’elle a eues avec le fournisseur Bouchard. Au début de la conversation, ce dernier a affirmé ne pas se rappeler des opérations effectuées avec l’appelante. Après avoir reçu par télécopieur deux des quatre factures, cela a eu pour effet de lui rafraîchir la mémoire, mais il a précisé qu’il n’y en avait pas eu d’autres après lui avoir dit qu’il avait retrouvé les documents dans sa filière et qu’il n’y avait que deux factures. Il a aussi dit à la vérificatrice qu’il n’avait pas reçu les montants indiqués sur les factures de vente, mais plutôt une fraction de ces montants. Une vérification de son compte n’a pas révélé de dépôt pouvant correspondre aux paiements faits par l’appelante. Pascal Bouchard ne se souvient pas qui sont ses propres fournisseurs
+[8] Messieurs Williams et Bouchard se sont connus en 2001 alors qu’ils travaillaient tous deux pour Les Camions Jean Guy Daviault. Jean Guy Daviault est l’oncle de Dany Williams, soit le frère de sa mère, Marie Paule Daviault, qui a agi comme conseillère pour le fournisseur Bouchard. Elle est la secrétaire de l’appelante et l’a aussi été pour Les Camions Jean Guy Daviault, et Les Camions Makina Inc, ce dernier étant un acheteur de pièces et de camions de l’appelante.
+[9] Dans le dossier du fournisseur Mario Lussier, les CTI refusés se trouvent dans deux catégories de factures, soit des factures d’achats de pièces faites par l’appelante et des factures d’honoraires payés par l’appelante au fournisseur Lussier. Les factures d’achat de pièces et les factures d’honoraires en question ont toutes été établies sur des factures portant l’entête de l’entreprise de l’appelante. Tel que mentionné, les factures indiquent s’il s’agit d’une vente ou d’un achat. Le fournisseur Lussier ne remplissait pas les factures de vente et d’honoraires parce qu’il ne peut ni lire et écrire. Il ne faisait qu’apposer sa signature.
+[10] L’appelante fait affaires avec le fournisseur Lussier depuis octobre 2002. Au début, il s’agissait d’achats de pièces de camion qui se sont échelonnés sur quelques années. En 2005 et 2006, l’appelante a commencé à verser des honoraires au fournisseur Lussier pour des raisons que je vais aborder plus tard.
+[11] Une des anomalies qu’a constatées la vérificatrice sur les factures d’achat de pièces et de camions d’occasion de l’appelante est que le numéro de série des pièces ou des camions achetés n’apparaît sur aucune des factures. Lors des conversations de la vérificatrice avec Mario Lussier, il a été incapable de la renseigner sur la provenance des pièces qu’il vendait à l’appelante. Quant aux numéros d’inscrit du fournisseur Lussier, ils ont été ajoutés sur les factures par la mère de Dany Williams lors de la vérification.
+[12] Le rapport de la vérificatrice nous apprend que le fournisseur Lussier a obtenu ses numéros d’inscrit en 2002 et qu’il a décrit ses activités commerciales comme étant le commerce de pièces de camions et de ferraille. Il n’a jamais produit de déclaration de taxe en utilisant ses numéros. Il a fait l’objet d’une vérification et fut cotisé. La vérification a permis au ministre de conclure que monsieur Lussier était un fournisseur de factures de complaisance puisqu’il n’existait aucune preuve d’activité commerciale. Monsieur Lussier a déclaré faillite le 23 juillet 2004. En septembre 2004, il s’est à nouveau inscrit et il a produit des déclarations de taxe. Une autre vérification a permis au ministre du Revenu du Québec de constater que monsieur Lussier ne possédait aucun document relatif à ses activités commerciales, pas de place d’affaires et aucun inventaire. Il encaissait des chèques un peu partout et, lorsqu’il déposait de l’argent, il le retirait immédiatement. La vérification a permis de constater qu’il ne possédait pas de véhicule immatriculé à son nom mais qu’il utilisait un camion dont les plaques d’immatriculation étaient au nom de sa conjointe. Pour la période du 29 septembre 2004 au 31 décembre 2005, le fournisseur Lussier a déclaré des revenus de 19 560 $ alors que la vérification a révélé des encaissements pour un montant de 674 236 $. En 2004 et 2005, il a déclaré des prestations d’aide sociale. En dernier lieu, monsieur Lussier présente des problèmes de santé depuis longtemps, ce qui rend ses déplacements difficiles.
+[13] Lors de son témoignage, on lui a présenté certaines factures. Il a reconnu que Dany Williams avait préparé la facture, mais il l’avait signée. Il aurait donné son numéro d’inscrit à Dany Williams par écrit. Pour ce qui est des articles vendus à l’appelante, il a dit les avoir achetés partout et les avoir vendus à l’appelante. L’appelante, à son tour, les avait revendus la même journée ou le lendemain à Camions Makina Inc., propriété de Mario Daviault, le fils de Jean Guy Daviault. Après sa faillite, le fournisseur Lussier aurait alors donné ses nouveaux numéros d’inscrit (taxe sur les produits et services (TPS) et taxe de vente du Québec (TVQ) à l’appelante par écrit ou au téléphone.
+[14] Il reconnaît que, durant les années de la période en question, il a éprouvé des problèmes de santé. Questionné sur les honoraires perçus de l’appelante, il témoigne avoir eu à deux ou trois reprises des relations d’affaires avec monsieur Marcel Desjeans mais que par la suite, l'appelante transigeait directement avec monsieur Desjeans et en retour, l'appelante lui versait des honoraires.
+[15] Monsieur Desjeans est contremaître pour une compagnie de transport et, durant la période en question, il était responsable de l’entretien de la flotte de camions de sept compagnies de transport, soit environ 700 camions. Parmi ses responsabilités, il faisait la vente de camions, considérés selon ses dires comme étant « non potables », c’est-à-dire que les camions avaient un kilométrage élevé ou qu’ils avaient besoin de nombreuses réparations. Ces camions étaient donc vendus comme de la ferraille. Il a utilisé le terme « scrap » car tout ce qui était utilisable était enlevé du camion. Ce sont des camions qui ont terminé leur vie utile.
+[16] Monsieur Desjeans a d’ailleurs confirmé avoir fait affaires avec le fournisseur Lussier dans le passé. Il le trouvait difficile, les négociations étaient compliquées et les transferts de titre de propriété étaient toujours compliqués. Il avait donc cessé de faire affaires avec lui. Il a qualifié le fournisseur Lussier de « branleux ». Il a déclaré que Lussier lui a présenté Dany Williams de Camions DM Inc. Avec lui, tout était facile et rapide. Le fournisseur Lussier ne l’a jamais appelé pour lui dire que Dany Williams allait le rencontrer ou qu’il agissait pour lui.
+[17] Lors du témoignage de monsieur Desjeans, quelques exemples de ventes lui ont été présentés. Ainsi, le 16 juin 2005, une des compagnies que représente monsieur Desjeans avait vendu à l’appelante un camion Volvo pour 2 000 $. Le camion avait été vendu pour les raisons citées précédemment. Or, le même camion avait été revendu par l’appelante quatre jours plus tard pour la somme de 12 000 $. Monsieur Desjeans s’est dit beaucoup surpris du prix de vente. Une seconde vente en date de février 2006 avait également suscité chez monsieur Desjeans un élément de surprise. Il avait vendu à l’appelante un camion Freightliner 1999 de dix roues pour 1 000 $ et une remorque de 45 pieds pour 50 $ le 21 février 2006 et l'appelante a revendu, le lendemain, le même camion à la société Les Camions Jean Guy Daviault Inc. pour 9 000 $ et, la même journée la même remorque de 45 pieds à Gamex Inc. pour 1 500 $.
+[18] Il y a eu en tout et partout 34 opérations semblables qui ont été répertoriées durant la vérification. Ce qui a retenu l’attention de la vérificatrice, c’est que pour chaque opération, l’appelante avait versé des honoraires à Mario Lussier. Le paiement des honoraires versés à Mario Lussier est étayé par une facture faite par l’appelante au moyen de sa propre papeterie et qui indique le montant versé à Mario Lussier à ce titre et auquel sont ajoutées les taxes qui sont effectivement les CTI refusés par la vérificatrice. Durant la période du 22 mai 2005 au 30 mars 2006, l’appelante a versé 204 000 $ à Mario Lussier à titre d’honoraires.
+[19] La version des faits qu’a donnée Mario Lussier au procès est qu’il aurait fait affaires deux à trois fois avec Marcel Desjeans, mais, parce qu’il n’avait pas assez d’argent pour effectuer des achats, il avait présenté Dany Williams à Marcel Desjeans. L’arrangement conclut avec Dany Williams était qu’il recevrait une « commission » semblable au prix qu’il aurait lui-même vendu les camions à un dénommé Régis Dubois qui exploitait un garage et qui achetait et vendait des camions. Cette « commission » se situait toujours autour de 7 000 $ à 8 000 $ et, selon Lussier, cet arrangement devait durer tant que l’appelante achetait des camions de Marcel Desjeans. Il a soutenu n’avoir jamais remis de l’argent à Dany Williams provenant de sa « commission ».
+[20] Dans une déclaration faite sous serment devant un notaire le 13 juillet 2006, Mario Lussier avait déclaré que la totalité des factures d’honoraires et d’achats avec l’appelante au montant de 353 200 $ avant taxes de vente étaient véritables, exactes et réelles et qu’aucun montant n’avait été versé à monsieur Dany Williams après qu’il avait encaissé les chèques. Plus tôt, soit le 25 janvier 2006, dans un autre document intitulé « affidavit », Mario Lussier avait déclaré que les factures d’achats de Camion DM Inc. qui portaient la mention « honoraires » étaient en fait des ventes de camion. Il a ajouté que, pour les factures d’honoraires soumises à Camion DM Inc., il recevait des chèques qu’il encaissait et il retenait en moyenne une commission de 500 $ et, avec le solde, il payait comptant le camion qu’il revendait à Camion DM Inc. Les factures d’« honoraires » faites à Camion DM Inc. concernaient l’achat et la revente de camions de transport provenant de différentes compagnies. Il a ajouté aussi dans l’affidavit qu’il réparait les camions alors qu’au procès, il a déclaré ne pas faire de réparations sur les camions. Il a expliqué que, lorsqu’il avait signé l’affidavit du 25 janvier 2006, il prenait des médicaments et que le tout était vague. Toutefois, selon la vérificatrice, il n’était pas différent à ce moment que lorsqu’il a témoigné à l’audience. Il dit ne pas se rappeler d’avoir donné de l’argent à quiconque.
+[21] Dans certaines opérations, Mario Lussier endossait ses chèques d’honoraires mais les chèques étaient encaissés par René Daviault, son beau‑père et l’oncle de Dany Williams. Mario Lussier agissait ainsi parce qu’il n’avait pas de compte de banque. Il a ajouté qu’il se gardait toujours deux à trois milles dollars en argent liquide, mais qu’il n’en avait pas assez pour acheter des camions lui‑même. Il préfère acheter des pièces de camions.
+[22] Pendant la période du 11 avril 2003 au 23 mars 2006, 25 factures établies relativement à achat de pièces de Mario Lussier par l’appelante ont été relevées. La valeur totale des opérations visées par ces factures était de 149 200 $. La plupart, sinon toutes les factures, portaient les numéros d’inscrit de Mario Lussier ajoutés par la mère de Dany Williams au moment de la vérification en 2006. Dany Williams a témoigné qu’il avait en sa possession les numéros d’inscrit de Mario Lussier au moment de la conclusion des opérations en question. Il lui aurait demandé ses numéros et il les aurait inscrits sur un paquet de cigarettes qu’il conservait dans sa serviette (pièce A‑2). Cependant, seul le numéro de la TVQ y est inscrit et il n’y a pas de date sur le paquet de cigarettes. Dany Williams a affirmé que sa mère aurait obtenu le numéro d’inscrit de Mario Lussier pour la TPS.
+[23] De son côté, Marie Paule Daviault, la mère de Dany Williams, a témoigné qu’elle aidait son fils à établir des factures et qu’elle avait en sa possession les numéros d’inscrit de Mario Lussier depuis 2003. Elle conservait les numéros en question sur des feuilles de papier et dans un agenda qui ont été produits en preuve. Elle avait également obtenu, en consultant un site internet à cet effet, la confirmation des numéros d’inscrit de Mario Lussier. Elle a reconnu cependant que, même si elle avait les numéros d’inscrit en question depuis 2003, elle ne les avait inscrits sur les factures que lors de la vérification en 2006. En contre-interrogatoire, madame Daviault a reconnu qu’au moment où elle avait inscrit cette information dans son agenda, elle était à l’emploi de Camion Makina Inc. et non de son fils. Elle a déclaré l’avoir quand même fait pour lui, même si elle n’était pas à son emploi. Elle le faisait aussi pour son employeur.
+[24] Quelques unes des 45 factures concernant l’achat à Mario Lussier de pièces par l’appelante qui ont été mises en preuve ne portaient pas le numéro de série du camion ou des pièces, la modalité de paiement ou la signature de Mario Lussier. Sur quelques unes de ces factures, les taxes n’avaient pas été facturées. Ce qui est à mon avis le plus important, c’est qu’une grande partie des biens achetés par l’appelante de Mario Lussier était vendue la même journée ou le lendemain. Il y a même deux situations où des biens ont été vendus par l’appelante un jour et trois jours avant même leur achat auprès de Mario Lussier (facture 1009 et facture 1024).
+[25] La vérificatrice, madame Sonia Brin, est venue témoigner sur le contenu de son rapport. J’ai déjà traité des observations qu’elle a écrites visant Mario Lussier. Il suffit de rappeler que Mario Lussier n’a jamais fait de versements de taxe, qu’il a été impossible de vérifier quoi que ce soit, et ce, même après avoir fait une demande péremptoire. L’historique des numéros d’inscrit, la faillite de Mario Lussier, le fait que les factures n’étaient pas en règle et qu’elles avaient toutes été préparées par l’appelante ont, parmi d’autres points, permis à la vérificatrice de conclure qu’il s’agissait de factures de complaisance. La vérificatrice a aussi conclu que les mêmes personnes ont participé à plusieurs opérations. Finalement, le fait que ni Mario Lussier ni l’appelante ne semblait avoir d’inventaire de pièces laissait planer un doute à savoir s’il s’agissait d’activités commerciales véritables. Lorsqu’elle a mentionné à Dany Williams le fait que les factures n’indiquaient pas le numéro d’inscrit de Mario Lussier, ce dernier et son comptable ne lui ont pas dit alors qu’ils avaient en leur possession le numéro d’inscrit de Mario Lussier. Quant à ce dernier, il n’avait aucun document en sa possession.
+[26] Selon la vérificatrice, les factures de pièces ne sont pas en règle étant donné qu’il est impossible d’identifier la marchandise par les numéros de série. Il en va de même pour les factures du fournisseur Pascal Bouchard.
+[27] Il s’agit donc de déterminer si l’intimée était justifiée de refuser les CTI demandés par l’appelante dans le calcul de sa taxe durant la période en question et de cotiser une pénalité en vertu de l’article 285 de la Loi. À l’appui de sa position, l’intimée invoque le fait que les factures faisant l’objet des CTI n’étaient pas en règle au motif qu’elles ne contenaient pas tous les renseignements exigés à l’alinéa 169(4) de la Loi et qui sont définis à l’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH). Les dispositions législatives en question se lisent comme suit :
+169(4) Documents — L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+L’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) se lit comme suit :
+3. Renseignements — Les renseignements visés à l’alinéa 169(4)a) de la Loi, sont les suivants :
+[. . . ]
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l’acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[28] Je n’ai reproduit que le texte du Règlement visant des fournitures de plus de 150 $, mais je dois signaler que le sous-alinéa i) de l’alinéa 3 b) exige le numéro d’inscrit du fournisseur.
+[29] L’intimée soutient également que, non seulement les demandes de CTI de l’appelante ne sont pas en règle, mais que, selon l’ensemble de la preuve, l’appelante n’a pas agi de bonne foi dans le cadre de ses opérations avec Mario Lussier et Pascal Bouchard, de sorte que l’appelante ne pouvait entretenir la croyance légitime que les renseignements contenus dans les pièces justificatives étaient exacts et représentaient de véritables opérations intervenues entre eux. En d’autres mots, il s’agit de factures de complaisance servant à réduire la taxe nette et les revenus de l’appelante.
+[30] L’appelante, de son côté, soutient que toutes les exigences de la Loi et des Règlements ont été respectées en l’espèce. L’appelante avait en sa possession en tout temps les numéros d’inscrit de Mario Lussier et les modalités de paiement étaient claires et bien établies. L’appelante soutient également que, même si certaines factures n’indiquent pas le prix pour chaque article, ou même si les articles ne sont pas identifiés par un numéro de série, cela n’est pas un motif pour refuser un CTI. Finalement, l’appelante soutient qu’il n’y a pas de preuve de collusion entre l’appelante et Mario Lussier, ni de preuve de ristourne de l’appelante au fournisseur Lussier, même s’il est arrivé à une occasion que l’appelante encaisse un chèque fait à Mario Lussier.
+[31] Pour demander un crédit de taxe sur intrants, un inscrit doit obtenir les renseignements visés par le Règlement avant de produire sa déclaration. L’inscrit devra produire les pièces justificatives contenant les renseignements en question. Ces dispositions sont claires et les tribunaux exigent leur production. Cela est d’autant plus vrai lorsque la valeur des fournitures dépasse 150 $. Ces exigences du législateur sont amplement justifiées lorsqu’on considère que les inscrits sont les fiduciaires du fisc à qui ils doivent rendre compte.
+[32] Je reconnais d’emblée que l’appelante, en l’espèce, maintenait une comptabilité en règle à l’aide du logiciel Simple Comptable. Le rapport de la vérificatrice indique que tous les exercices de vérification tels que la reconstitution du chiffre d’affaires à partir des encaissements ou les relevés de fournitures selon le journal des ventes par rapport aux fournitures inscrites ou encore le relevé des CTI inscrits aux livres par rapport aux CTI déclarés ne montrent aucun écart significatif. C’est donc l’analyse des factures en litige qui a révélé des irrégularités dont l’ensemble de la preuve a amené la vérificatrice à conclure qu’il s’agit de factures dites de complaisance.
+[33] J’accepte aussi d’emblée que l’appelante n’est pas responsable du fait que le fournisseur Mario Lussier n’a pas versé la taxe ou qu’il ne tenait pas de comptabilité adéquate pouvant permettre une vérification de ses activités commerciales. Cette situation ne peut cependant pas être totalement ignorée lorsqu’on prend en considération l’ensemble d’activités commerciales échelonnées sur plusieurs années entre l’appelante, ce fournisseur et aussi certains clients de l’appelante dont les propriétaires sont membres de la même famille. Mario Lussier est marié avec la fille de René Daviault qui est le frère de Marie Paule Daviault, la mère de Dany Williams, pour ne mentionner que ceux-là.
+[34] Mario Lussier et l’appelante exploitent des entreprises dont les activités commerciales sont identiques. Ni l’un ni l’autre n’a de place d’affaires leur permettant d’entreposer des stocks. Les pièces de Mario Lussier achetées par l’appelante sont presque toutes revendues la même journée (j’en ai compté à peu près 13 sur 45), ou le lendemain (9 sur 45), et les autres le surlendemain. Une seule pièce a été vendue 10 jours plus tard. Ce qui est étrange, par contre, c’est qu’il y a deux opérations où l’appelant a vendu des pièces avant même de les avoir achetées du fournisseur Mario Lussier. Il s’agit de la facture 1009 en date du 5 mai 2003 où l’appelante a acheté un camion à benne basculante de 14½ pieds avec cylindre pour 2 500 $, soit le même camion qu’il avait vendu trois jours plus tôt, soit le 2 mai 2003 pour 3 000 $ à Camions Thomas Lapointe Inc. L’autre opération semblable est celle portant le numéro 1024. Le 9 juillet 2003, l’appelante a acheté de Mario Lussier un différentiel 44 qu’il avait vendu à Camions A & R Dubois la journée précédente.
+[35] L’appelante utilisait ses propres factures pour faire ses achats de pièces du fournisseur Mario Lussier. En fait, l’appelante préparait elle-même les factures. Il me paraît assez inusité qu’un fournisseur tel que Mario Lussier, avec le chiffre d’affaires qu’on lui connaît, n’avait pas ses propres factures et ne s’occupait pas lui‑même de les préparer. Cette situation soulève un doute sur la bonne foi de Mario Lussier. Le fait que l’appelante ait choisi de continuer à fonctionner ainsi soulève également des doutes sur sa bonne foi.
+[36] Le témoignage de Mario Lussier était loin d’être impressionnant. Ses nombreuses contradictions et son manque total d’intégrité à l’égard des obligations que lui impose la Loi en tant qu’inscrit étaient évidents lors de la vérification et lors de son témoignage, et devaient l’être aussi aux yeux de l’appelante.
+[37] L’appelante doit, selon la prépondérance des probabilités, démontrer que toutes ses opérations d’achat de pièces pour lesquelles elle demande des CTI respectent les exigences du législateur et ne constituent pas des opérations de complaisance. Elle doit aussi démontrer que tous les honoraires versés à Mario Lussier à titre de commissions dans le cadre de la vente des camions ont réellement été versées et qu’elle n’était pas de connivence avec ce dernier dans le but de réduire sa taxe nette et ses revenus.
+[38] Il y a eu en tout 34 opérations sur une période de 13 mois. L’appelante a versé 204 000 $ en commissions ou honoraires à Mario Lussier. Les factures d’honoraires de Mario Lussier sont toutes faites sur de la papeterie de l’appelante. Les opérations d’achat et de vente des camions par l’appelante de même que le paiement des honoraires à Mario Lussier ont toutes été exécutées à quelques jours d’intervalle. La raison que les honoraires étaient versés par l’appelante à Mario Lussier était que ce dernier avait présenté Dany Williams à Marcel Desjeans. En retour, l’appelante versait cette commission dont le montant était déterminé en fonction de l’année du camion. C’est à se demander ce qui se serait produit si un des camions avait été revendu par l’appelante à un prix inférieur à celui de l’année. Il n’y avait aucune entente écrite entre eux et la version orale de Mario Lussier sur cette entente est pour le moins contradictoire. Il est assez invraisemblable, à mon avis, qu’une telle entente se soit prolongée sur une aussi longue période et pour des montants aussi importants.
+[39] Non seulement les honoraires qu'on prétend avoir été versés à Mario Lussier sont questionnables, mais les transactions avec Pascal Bouchard le sont aussi. Il s'agit à mon avis, d'opérations fictives. La Loi et les Règlements ont été conçus pour les opérations de bonne foi entre commerçants de bonne foi. Voir Voitures Orly Inc. c. Canada, 2005 CAF 425.
+[40] Dany Williams a beaucoup insisté sur le fait qu’il avait en sa possession le numéro d’inscrit du fournisseur Mario Lussier au moment où les opérations ont eu lieu. Il faut comprendre tout d’abord que le numéro d’inscrit a été apposé sur toutes les factures au moment de la vérification seulement. Selon Dany Williams, il avait copié ce numéro sur un paquet de cigarettes qu’il conservait dans sa serviette et sa mère l’avait transcrit dans un agenda des années 2003, 2004 et 2005. Je tiens à préciser que seul le numéro d’inscrit de la TVQ figurait sur le paquet de cigarettes en question. Quant à l’agenda, il s’agit de celui de la mère de Dany Williams qui, à cette époque, était à l’emploi des Camions Makina Inc. L’agenda n’indique pas l’année sur lequel il porte et il est difficile de croire que ce même agenda ait pu servir pour trois années consécutives. Devant l’ensemble de la preuve, il m’est impossible de conclure que l’appelante avait en sa possession des pièces justificatives contenant les renseignements qu’elle devait avoir avant de produire une déclaration conformément au paragraphe 169(4) de la Loi.
+[41] À mon avis et à la lumière de mes conclusions, l’appelante n’a pas démontré selon la prépondérance des probabilités qu’elle a droit aux CTI qui lui ont été refusés et il n’est pas nécessaire que j’aborde les modalités de paiement et la question de savoir si les pièces étaient suffisamment identifiées.
+[42] En raison de la conclusion à laquelle je suis arrivé, il est évident que l’appelante a fait sciemment un faux énoncé dans sa déclaration durant les périodes en question, de sorte que l’intimée était en droit d’appliquer la pénalité prévue à l’article 285 de la Loi. L’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 6e jour de mars 2009.
+"François Angers"
+Juge Angers
+RÉFÉRENCE : 2009 CCI 63
+Nº DU DOSSIER DE LA COUR : 2007-2679(GST)G
+INTITULÉ DE LA CAUSE : Camions DM Inc et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : les 7 et 8 octobre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT MODIFIÉ: le 16 mars 2009
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Louis-Frédérick Côté
+Avocat de l'intimée :
+Me Gérald Danis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Louis-Frédérick Côté
+Cabinet : Spiegel Sohmer Inc.
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

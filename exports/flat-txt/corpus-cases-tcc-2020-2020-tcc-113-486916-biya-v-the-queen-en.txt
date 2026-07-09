@@ -1,0 +1,259 @@
+Title: Biya v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/486916/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-113-486916-biya-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-10-13
+
+# Biya v. The Queen
+
+- Citation: 2020 TCC 113
+- Decision date: 2020-10-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4605, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Biya v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-10-13
+Neutral citation
+2020 TCC 113
+File numbers
+2017-1876(IT)G
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-1876(IT)G
+BETWEEN:
+NEJIB ABBA BIYA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 12 & 13, 2020, at Toronto, Ontario
+Before: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellant:
+Jeremie D. Beitel
+Counsel for the Respondent:
+Dominik Longchamp
+JUDGMENT
+The Appeal from the assessment made under the Income Tax Act for the Appellant’s 2013 taxation year is dismissed, with costs payable by the Appellant to the Respondent.
+The parties have until November 16, 2020, to determine the costs amount payable by the Appellant to the Respondent. If the parties are unable to come to an agreement, they may provide submissions to the undersigned of not more than five pages in support of their position on costs.
+Signed at Ottawa, Canada, this 13th day of October 2020.
+“R. MacPhee”
+MacPhee J.
+Citation: 2020 TCC 113
+Date: 20201013
+Docket: 2017-1876(IT)G
+BETWEEN:
+NEJIB ABBA BIYA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+[1] This is an Appeal of an assessment by the Minister of National Revenue (the “Minister”) for the 2013 taxation year to include total income of $230,828. The assessment is based on the conclusion by the Minister that Nejib Abba Biya (the “Appellant”) was a resident of Canada during the 2013 taxation year and therefore was taxable in Canada on the income amount of $230,828.
+I. BACKGROUND
+[2] The Appellant was born in Ethiopia in 1958. Due to the dangers presented by the political unrest in Ethiopia in 1979, the Appellant fled the country for a refugee camp in the neighbouring country of Djibouti. It was there that he met his future wife Nekiya Abba Biya. They were married in June 1981. She was also originally from Ethiopia.
+[3] The couple had three sons, all born in Canada. The year of their births were 1984 (Beka), 1989 (Moti) and 1993 (Aboma).
+[4] The Appellant immigrated to Canada as a permanent resident in December 1981. In 1985, he became a Canadian citizen. In the mid 1980’s the Appellant attended the University of Toronto, from which he obtained a Bachelor of Commerce degree in 1989.
+[5] The Appellant operated his own business in Canada from 1996 to 2004. He sold the business in 2004 but worked for the new owners of the business for two more years after the sale.
+[6] The Appellant testified that after a trip to Ethiopia in 2006 with his mother, at the encouragement of friends and family from Ethiopia, he decided to become involved in the Ethiopian economy, to at least in part, improve the lives of Ethiopians. He chose to focus on the mining industry, where he saw great potential.
+[7] The Appellant and his wife separated in 2006 and were divorced in 2016. After the separation the Appellant worked as a country manager for two companies, Aberdeen International and Avion Gold, in Ethiopia, from 2006 to 2008. Both companies had headquarters in Toronto and had operations in Ethiopia.
+[8] In 2008, the Appellant began working for Allana Potash (“Allana”) as the country’s manager for Ethiopia. He held this position until 2015. Allana Potash’s headquarters were in Toronto. Although the evidence was not clear on this point at trial, my understanding from the evidence is that the Appellant had an ownership stake in Allana and was part of senior management of the company.
+[9] The Appellant does not dispute that as of 2017 he was again a resident of Canada. He states that political instability in Ethiopia caused him to return to Canada.
+II. ISSUE
+[10] The question before the Court is whether the Appellant was an “ordinary resident” of Canada in the 2013 taxation year.
+[11] The Appellant also questions whether the Respondent is prevented from arguing whether the Appellant was an “ordinary resident” because of deficiencies in the Notice of Reply. Specifically the Respondent did not use the phrase “ordinary resident” in his pleading. Appellant’s counsel also argues that there were not sufficient assumptions or facts plead by the Respondent to support the Respondent’s position at trial.
+III. ANALYSIS
+[12] There were two witnesses at trial. They were the Appellant and his son Moti. Both provided credible evidence concerning the Appellant’s life in Ethiopia in the 2006 to 2017 time period, the break up of the Appellant’s marriage, and the Appellant’s living situation in Canada when he visited, which occurred often.
+[13] This is a difficult case. Numerous facts were entered into evidence by the parties. Almost all these facts were relevant in supporting the argument put forth by each side.
+[14] The facts, in most instances, were not in dispute and were mostly agreed to prior to trial. Neither witness who testified was seriously shaken in their evidence.
+[15] Several additional and relevant facts were adduced at trial, they are set out below, in the “Respondent’s Position” and the “Appellant’s Position”.
+[16] I have no concerns about the lack of assumptions made by the Minister in the Reply nor the lack of material facts plead in the Reply. The Partial Agreed Statement of facts and the documents entered into evidence in this matter provides what appears to be a very complete description of the facts and evidence in issue. Both parties ensured the necessary facts were properly entered into evidence and both very ably argued their position on behalf of their clients. [1]
+A. Respondent’s Position
+[17] The Respondent’s position is that the Appellant had sufficient ties to Canada in the 2013 taxation year to support the finding that he was factually a resident in Canada. In arguing this position Respondent’s counsel relied upon the following facts:
+a. The Appellant maintained his Ontario Health Insurance Plan card and an Ontario driver’s license while he was outside the country. The Appellant also owned a car he could use when he came to Toronto;
+b. The Appellant held a Canadian passport which he used for his travels. He held no other passports;
+c. The Appellant paid no income taxes in any other jurisdiction;
+d. In January and February 2013, the Appellant paid rent ($1815 a month) for an apartment on St Mary’s Street in Toronto [2] . His son Moti resided in the apartment. In February the Appellant gave up the St Mary’s Street apartment and helped Moti make a down payment on a condo on John Street in Toronto. This condo was held in Moti’s name. The Appellant often stayed with his son when he visited Canada. The Respondent argues that he had a residence he could use whenever he visited. He also on occasion stayed in a hotel when he visited [3] , and at times stayed with his mother;
+e. The Appellant owned a rental property on Dundas Street in Toronto which he mainly rented out to students. It also had a convenience store. He owed a mortgage of over $200,000 at the outset of 2013 on this investment property. The Appellant made payments on the mortgage throughout the 2013 year;
+f. In 2013 revenue of $63,000 was produced by the Dundas Street rental property;
+g. The Appellant received employment income of $202,500 from Allana Potash, a Canadian company. The salary was paid in Canadian dollars and deposited in his Canadian bank account;
+h. The Appellant owned a portion of the shares of Allana Potash and was part of the senior management of the company;
+i. The Appellant had numerous personal relationships in Canada. He son Beka, who studied medicine in Cuba would return to Canada on his break from studies;
+j. His son Moti was studying at the University of Toronto in the year in question;
+k. His son Aboma was studying at Miami University in Ohio. He would typically return to Canada during his summer breaks;
+l. His ex wife Nekiya has lived in Toronto continuously since she married the Appellant. The Appellant paid her support of $3,000 to $4000 a month in 2013. This was done based on need and without a written agreement;
+m. The Appellant maintained an RRSP account with ScotiaMcLeod, which had just under $222,000 at the end of the 2013 taxation year;
+n. The Appellant held a second RRSP account with Scotiabank with just over $18,000 in it in the 2013 taxation year;
+o. The Appellant made RRSP contributions of approximately $16,000 in 2013;
+p. The Appellant also had an active savings account at Scotiabank in Toronto;
+q. The Appellant had a Scotiabank business account which had $18,966 in January 2013. By year end the amount in this account was $196,958;
+r. The Appellant held a Guaranteed Investment Certificate with Scotiabank of just over $100,000 in the 2013 taxation year;
+s. The Appellant had a very active Bank of Montreal MasterCard. Total transactions of over $179,000 occurred on this account during the 2013 taxation year. Many of these transactions were incurred for the well being of the Appellant’s sons. He stated that he often left the card with his son Moti to use as he wished.
+t. With all his bank accounts and investment accounts, the Appellant used a Toronto address as part of his contact information;
+u. In 2013, the Appellant was physically in the following places:
+COUNTRY
+DAYS
+Quarter 1 (Jan-Mar)
+Quarter 2 (Apr-Jun)
+Quarter 3
+(Jul-Sept)
+Quarter 4
+(Oct-Dec)
+Total
+Days
+Ethiopia
+28
+44
+26
+24
+122
+Canada
+40
+19
+27
+24
+110
+United Arab Emirates
+9
+13
+14
+13
+49
+United States
+0
+0
+18
+6
+24
+Other countries, eg. Germany, Djibouti
+13
+0
+3
+0
+16
+Unkown
+0
+15
+4
+25
+44
+B. Appellant’s Position
+[18] The Appellant’s counsel asks the Court to take a more nuanced approach. Counsel for the Appellant acknowledges that the Appellant still has various connections to Canada [4] but stressed that these connections only exist because the Appellant has family in Canada. He submits that the Appellant provided credible explanations as to the use of his credit card, bank accounts, and the reason for owning property in Canada. These connections do not affect his ordinary intent to ordinarily reside outside of Canada. The Appellant argues when one looks at all the evidence, the fact is that his client resided only in Ethiopia.
+[19] His position is that despite the fact that the Appellant visited his family frequently in Canada, and helped them out financially, this does not mean he was a resident of Canada.
+[20] Concerning the use of a Canadian credit card, the Appellant argued that credit cards are not available in Ethiopia. Therefore, they were a necessary convenience in his travels [5] .
+[21] The Appellant also testified that he used the Canadian passport because it made his travels from Ethiopia and throughout the world much easier. The Appellant further noted that regardless of his argument that he is not a resident of Canada, this does not prevent him from maintaining his Canadian citizenship. In this regard, Appellant’s counsel asked that I not confuse the Appellant’s rights as a Canadian citizen with the analysis as to whether he was a resident in Canada in 2013.
+[22] The Appellant states that his ties to Canada that are being relied upon by the Respondent in this case are simply conveniences that the Appellant had in Canada, which he maintained to facilitate his residency in Ethiopia.
+[23] The Appellant also raised in argument what he says are deficiencies in the Notice of Reply. He argues there are no assumptions or facts plead that I can rely upon in my decision. While I agree that the Minister made almost no assumptions, there are numerous agreed facts that are in evidence in this matter that must be analyzed to determine the question before the Court.
+[24] The Appellant relies upon two key criteria that he says should guide my judgment. First, the passage of several years since the Appellant left Canada overwhelms any argument that he is still a Canadian resident.
+[25] Secondly, he relies on the fact that the Appellant has a home in Ethiopia, rented from 2006 to part way through 2013. The home was then purchased in 2013 by the Appellant. For 2013 and onward the Appellant denies that he had access to a home in Canada.
+[26] In addition, the Appellant argues that the Minister is confusing the Appellant’s visits to Canada in determining the issue of residence. The Appellant argues that in these visits he was merely sojourning, and that these visits did not have the quality of being a resident.
+[27] Other facts which the Appellant relied upon include:
+a. The Appellant was born in Ethiopia and has a deep emotional connection to the country;
+b. The Appellant has been out of Canada for several years;
+c. The Appellant’s marriage was over when he left for Ethiopia;
+d. The Appellant had sold his business in 2004;
+e. The Appellant moved to Ethiopia in 2006, and worked there from 2006 to 2017;
+f. The Appellant held a Foreign Nationals of Ethiopia Origin ID card which enabled him to enter, work and stay in Ethiopia;
+g. The Appellant also had residency status in the United Arab Emirates;
+h. The Appellant held a bank account with Oromia International Bank in Ethiopia with 812,127 Birr ($44,243 CAD) as of January 23, 2013. By year end the account had 1,042,790 Birr ($57,908 CAD);
+i. The Appellant rented a residential home at Addid Ababa, Bole Sub-City, Kebele 13. In 2013 the Appellant paid rent of $4300 a month. In November 2013 the Appellant purchased this home for $300,000 (CAD);
+j. The Appellant had both a house cleaner and a driver in Ethiopia;
+k. The Appellant also had a girlfriend and a dog residing with him in Ethiopia;
+(1) Analysis
+[28] In his argument on this matter, the Appellant’s counsel correctly asks that I consider the questions as to whether the Appellant’s visits to Canada in and around 2013 have the quality of a continuing residence. Or in the alternative, could these visits better be described as sojourning.
+[29] As part of this analysis I agree with the Appellant that to no longer be a resident in Canada does not mean you can no longer visit.
+[30] But I do not agree that is all that was occurring in this instance.
+[31] The often cited Supreme Court of Canada decision in Thompson v. Minister of National Revenue provides crucial guidance in my analysis. The decision found that residing
+“is not a term of invariable elements, all of which must be satisfied in each instance … residence in the course of the customary mode of life of the person concerned, and it can be contrasted with special or occasional or casual residence … It is important only to ascertain the spatial bounds within which he spends his life or to which his ordered or customary living is related. Ordinary residence can best be appreciated by considering its antithesis, occasional or casual or deviatory residence. The latter would seem clearly to be not only temporary in time and exceptional in circumstance, but also accompanied by a sense of transitoriness and of return [6] .
+[32] I also find the following similar analysis by Justice Rip (as he was then), very helpful:
+18 A person may be resident of more than one country for tax purposes. The nature of a person's life and the frequency he or she comes to Canada are important matters to consider in determining one's residence. The words “ordinarily resident” in s.s. 250(3) refer to the place where, in the person's settled routine of life, the person normally or customarily lives. The intention of a taxpayer, while obviously relevant in determining the “settled routine” of a taxpayer's life, is not determinative. A person's temporary absence from Canada does not necessarily lead to a loss of Canadian residence if a family household remains in Canada, or possibly even if close personal and business ties are maintained in Canada [7] .
+[33] The term “resident” is not defined in the Act other than to say that it includes a person who is “ordinarily resident in Canada”.
+[34] I note, in response to the Appellant’s argument that the Respondent should be limited in their argument, because of deficiencies in the Notice of Reply, the Reply does put in issue “whether the appellant was a resident of Canada during the 2013 taxation year”. As set out above, the legislation clearly sets out that “resident” includes a person who is “ordinarily resident in Canada”.
+[35] Therefore, in deciding this matter I am prepared to hear the Respondent’s argument as to whether the Appellant was an ordinary resident of Canada in 2013.
+[36] Individual residency cases fall into three broad categories:
+A. cases where a person who has theretofore been ordinarily resident in Canada leaves, takes up residence elsewhere and alleges that he or she has so severed the relationship with Canada that he or she is no longer resident here;
+B. cases where a person, ordinarily resident in another country, acquires a residence and other ties in Canada. There the question is whether that person has become “ordinarily resident” in Canada;
+C. cases where a Canadian resident leaves Canada and severs his or her connection with this country so that he or she is not a Canadian resident, and then reacquires ties here. The question there is whether that person has resumed residence here [8] .
+[37] This case is the most difficult of the subgroups listed above, in that it deals with someone who previously was an ordinary resident (and who in fact is again in 2017) and claims to have severed ties with Canada.
+[38] The case law on this issue has emphasized that ending one's residency in Canada is no simple thing [9] .
+[39] The question I must answer is, in large part, to what degree would the Appellant have had to sever ties with Canada. Unfortunately, no definitive objective test can be developed in response to this question. Such analysis must be fact specific.
+[40] I do find the factors set out in Reeder (provide to explain the factors the Court may consider when determining a person's residence) to be helpful in determining whether the Appellant has made a clean break from Canada in regards to his residence:
+[41] While the list does not purport to be exhaustive, material factors include:
+a) past and present habits of life;
+b) regularity and length of visits in the jurisdiction asserting residence;
+c) ties within that jurisdiction;
+d) ties elsewhere;
+e) permanence or otherwise of purposes of stay abroad [10] .
+[42] In applying this list I keep in mind the following:
+Some of the facts may be more relevant than others. In a case of this type no single fact predominates. Some may be neutral, others may point more strongly in one direction or another. It is the overall picture that emerges from the evidence as a whole that is ultimately determinative. A simple listing of points may be a useful exercise but it cannot be determinative [11] .
+(a) Past and present habits of life
+[43] In this case, I am under the impression that the Appellant’s way of life did change significantly when he sold his business in 2004. He then, by choice, began to direct his career so that his work would benefit Ethiopia, and he would spend time in Ethiopia. For 2013 the Appellant spent at least 122 days in Ethiopia. He was spending work days in that country for that time period, so there is no questions that his past ways of life had changed. In his prior work life (prior to 2006) the Appellant’s every day was focused in Canada.
+[44] I find that in considering this factor, it does not overwhelm the analysis. The Appellant worked for a Canadian company while in Ethiopia, of which he owned shares in, and directed that his pay be deposited in his bank account in Canada. Also, the amount of time spent in Ethiopia in 2013 was very similar to the amount of time spent in Canada (110 days). I find this factor slightly favors the Appellant’s argument.
+(b) Regularity and length of visits in the jurisdiction asserting residence
+[45] The evidence indicates that the Appellant continually spent a substantial amount of time in Canada. As previously noted, in 2013 he spent 110 days in Canada. Given the amount of world travel the Appellant undertook in 2013, including many days in Saudi Arabia, the amount of time in Canada is substantial. This component slightly favors the Respondent’s position.
+(c) Ties with the Canadian jurisdiction
+[46] It is this factor that dominates the analysis and most leads to the success of the Respondent in this matter. The Appellant had numerous ties he maintained in Canada. Most notably were his very active bank accounts, the fact that he was paid in Canada by his Canadian employer, his ownership of RRSP’s, which he contributed to in 2013, his property investment in Toronto, his continued membership in OHIP and his Canadian driver’s license. These factors overwhelmingly support the Respondent’s argument.
+[47] The Appellant also had a large family in Canada, in addition to his ex-wife and three sons. He stated that visiting these parties was why he spent so much time in Canada. This is also a factor which I take into consideration in finding that he was a resident in Canada.
+[48] Overall, it is this particular analysis that convinced me that the Appellant, in the 2013 taxation year, saw his stays in Canada as his settled routine pattern of life. Both financially and from a family perspective, the most important components of the Appellant’s life were in Canada in the 2013 taxation year.
+(d) Ties elsewhere and permanence or otherwise of purposes of stay abroad
+[49] I will combine these factors together in my analysis. The Appellant owned a home in Ethiopia for part of 2013 and for several years after. He also spent many of his work days there. He sons Moti testified that the Appellant was seen locally in Ethiopia as a man of esteem. He had a driver, gardener, companion and pet with him in Ethiopia. These factors do support the fact that he may have also been a resident in Ethiopia in 2013.
+[50] The fact that an individual is a resident of another country does not mean that he or she cannot also be considered a resident of Canada (a dual resident).The case law is clear that a party can be a resident in two places at the same time. That being said, I do not feel it is necessary for me to decide whether the Appellant was a resident in Ethiopia to come to a final decision on this matter.
+[51] The crucial factor in my decision is that I find, based on the analysis above, that the Appellant was a resident in Canada in 2013. If the test were to be mutually exclusive, and I was to be forced to decide whether the Appellant was a resident in Ethiopia or Canada, I would also find the evidence to be stronger in support of his residence being in Canada, as opposed to Ethiopia.
+[52] The evidence overall supports that the Appellant’s life in Canada remained deep rooted, and although less settled than it was in 2004, he had a settled existence in Canada in 2013. The evidence indicates more than simply a residual connection to Canada.
+[53] The Appeal is dismissed with costs payable by the Appellant to the Respondent.
+[54] The parties have until November 16, 2020, to determine the costs amount payable by the Appellant to the Respondent. If the parties are unable to come to an agreement on costs, they may provide submissions to the undersigned of not more than five pages in support of their position on costs.
+Signed at Ottawa, Canada, this 13th day of October 2020.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2020 TCC 113
+COURT FILE NO.:
+2017-1876(IT)G
+STYLE OF CAUSE:
+NEJIB ABBA BIYA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 12 & 13, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+October 13, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Jeremie D. Beitel
+Counsel for the Respondent:
+Dominik Longchamp
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jeremie D. Beitel
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Federal Court of Appeal in Trudel-Leblanc v The Queen (2004),[2005] 1 C.T.C. 154 found that a trial judge may uphold an assessment on the evidence adduced at trial, even if that evidence goes beyond the facts upon which the Minister relied to issue the assessment as long as the evidence relates to the same transaction. See paragraph 2 which states:
+Contrary to Pedwell v. R., [2000] 4 F.C. 616 (Fed. C.A.), the judge of the Tax Court of Canada did not refer to a transaction other than the one cited by the Minister in issuing his assessments. He stated, in the course of his decision, that the ground retained by the Minister was not conclusive, in itself, but that he found that it became conclusive when considered with the other evidence filed, in large part, by the appellant herself.
+[2] Paragraph 25 of the Notice of Appeal states that this apartment was rented so that the Appellant would have a place to stay when he visited Canada. Paragraph 29 states that after 2012 at no point did he have a permanent home available to him in Canada. The agreed facts indicate that the apartment lease only ended in February 2013.
+[3] Only one such instance was brought to my attention in evidence. A credit card notation for March 2013 indicated that the Appellant stayed at the Park Hyatt Hotel in Toronto.
+[4] In support of his position, in part, the Appellant cited Nicholson v. Her Majesty the Queen, 2003 TCC 862 at paragraph 22.
+[5] I presume he only left his credit card sporadically for his son Moti to use, as the Appellant was using it in his travels as well.
+[6] Thompson v. Minister of National Revenue [1946] S.C.R. 209 at pages 224-225.
+[7] Snow v. R., 2004 TCC 381 (T.C.C. [Informal Procedure]), at paragraph 18.
+[8] Malcolm Fisher v. Her Majesty the Queen 2011 D.T.C. 840 at paragraph 33.
+[9] Mullen v. R., 2008 D.T.C 3892 at paragraph 17.
+[10] R. v. Reeder, [1975] C.T.C. 256 (Fed. T.D.)
+[11] Fisher at paragraph 25.

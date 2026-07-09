@@ -1,0 +1,98 @@
+Title: Rysdyk c. Ressources Humaines
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27931/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-123-27931-rysdyk-c-ressources-humaines-fr.md
+Document type: case_law
+Last modified: 2003-03-11
+
+# Rysdyk c. Ressources Humaines
+
+- Citation: 2003 CCI 123
+- Decision date: 2003-03-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1714, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rysdyk c. Ressources Humaines
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-11
+Référence neutre
+2003 CCI 123
+Numéro de dossier
+2001-1205(OAS)
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2001‑1205(OAS)
+ENTRE :
+JOHN RYSDYK,
+appelant,
+et
+LE MINISTRE DE DÉVELOPPEMENT DES RESSOURCES HUMAINES CANADA,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 avril 2002 à Calgary (Alberta)
+Devant : L’honorable juge M. A. Mogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me David L. Besler
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des décisions qu’a rendues le ministre de Développement des ressources humaines Canada en vertu de la Loi sur la sécurité de la vieillesse, dont les avis sont datés du 2 décembre 1999 et du 28 février 2000, pour la période du mois d’avril 1996 au mois de février 2000 est rejeté.
+Signé à Ottawa, Canada, ce 11e jour de mars 2003.
+« M. A. Mogan »
+J.C.C.I.
+Traduction certifiée conforme
+ce 15e jour d’avril 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI123
+Date : 20030311
+Dossier : 2001‑1205(OAS)
+ENTRE :
+JOHN RYSDYK,
+appelant,
+et
+LE MINISTRE DE DÉVELOPPEMENT DES RESSOURCES HUMAINES CANADA,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Mogan
+[1] Le présent appel est interjeté sous le régime des dispositions de la Loi sur la sécurité de la vieillesse, L.R.C., chapitre 0‑9, telle qu’elle a été modifiée (la « LSV »). L’appelant a comparu en personne à l’audience tenue à Calgary et s’est représenté. L’appelant a témoigné brièvement et n’a pas nié un grand nombre des faits qu’a allégués l’intimé dans sa Réponse.
+[2] L’appelant a quitté les Pays‑Bas pour venir s’installer au Canada en 1986. Il y vit et réside depuis. Il est né le 9 août 1926 et a atteint ses 65 ans en août 1991. À l’âge de 65 ans, l’appelant a demandé et a obtenu une pension de la Sécurité de la vieillesse (« SV ») à compter de septembre 1991. Il a également demandé et obtenu un Supplément de revenu garanti (« SRG ») en vertu des articles 11 à 14 de la LSV. Il a conclu qu’il était admissible à une certaine forme de pension pour « personnes âgées » du gouvernement des Pays‑Bas. En 1994, il a présenté une demande, semble‑t‑il par l’entremise de Santé et Bien‑être social Canada, au gouvernement des Pays‑Bas en vue d’obtenir sa pension à titre de résident de longue date de ce pays. Vers 1994 ou 1995, l’appelant a commencé à recevoir une pension mensuelle du gouvernement des Pays‑Bas (ci‑après appelée « pension des Pays‑Bas »).
+[3] Au cours de 1999, Développement des ressources humaines Canada (« DRHC »), qui gère les programmes de la sécurité du revenu, a examiné le dossier de l’appelant parce qu’il percevait un SRG. DRHC a conclu que l’appelant n’avait pas inclus dans sa déclaration de revenus la pension des Pays‑Bas lorsqu’il avait demandé le SRG. Par voie d’une lettre datée du 2 décembre 1999, DRHC a informé l’appelant (i) que l’on avait réévalué son admissibilité au SRG, (ii) que l’on avait déterminé que le paiement mensuel du SRG qu’il recevait était plus élevé que le montant auquel il était admissible et (iii) qu’il avait perçu un « paiement en trop » de 2 925 $ pour la période du mois d’avril 1998 au mois de juin 1999.
+[4] Par voie d’une lettre datée du 28 février 2000, DRHC a informé l’appelant que l’on avait procédé à un autre examen plus approfondi de son compte. DRHC a déterminé que l’appelant avait reçu un « paiement en trop » d’un montant global de 9 641 $ pour la période du mois d’avril 1996 au mois de février 2000. Après lui avoir accordé la somme de 75 $ au titre d’un montant recouvré (c.‑à‑d. déduit) d’un paiement de pension de SV, DRHC a établi le 28 février 2000 le paiement en trop net à 9 566 $. Par voie d’une lettre datée du 22 mars 2000 adressée à DRHC, l’appelant s’est opposé à la réclamation du paiement en trop et a demandé que cette question soit réévaluée. Par voie d’une lettre datée du 22 septembre 2000, DRHC a confirmé sa décision rendue précédemment le 28 février 2000 et a indiqué à l’appelant qu’il pouvait interjeter appel à l’encontre de cette décision devant un tribunal de révision.
+[5] Le 24 octobre 2000, le Bureau du Commissaire des tribunaux de révision a reçu l’Avis d’appel de l’appelant. Après plusieurs autres lettres échangées en vue de préciser les motifs de l’appelant pour interjeter appel, le Commissaire des tribunaux de révision a écrit au greffe de cette Cour le 30 mars 2001 en vue de renvoyer l’appel devant la Cour en vertu du paragraphe 28(2) de la LSV parce que le motif de l’appel concernait la détermination du revenu en vertu de l’article 2 de la LSV. La Cour a fait parvenir à l’intimé une copie de l’Avis d’appel de l’appelant en avril 2001, et la Réponse de l’intimé a été déposée le 15 octobre 2001.
+[6] Le SRG est prévu à la partie II (articles 10 à 18) de la LSV. Le montant du SRG est établi en vertu de l’article 12, et le « revenu mensuel de base » du pensionné est un facteur important dont il faut tenir compte dans cette détermination. Au paragraphe 12(6), le « revenu mensuel de base » d’un particulier s’entend du douzième de son revenu pour l’année de référence. Le montant du SRG auquel tout particulier est admissible dépend, en partie, directement ou indirectement, du revenu de ce particulier pour « une année de référence ». Les dispositions énoncées ci‑dessous sont, à mon avis, celles les plus pertinentes de la LSV.
+2 Les définitions qui suivent s'appliquent à la présente loi.
+« revenu » Le revenu d'une personne pour une année civile, calculé en conformité avec la Loi de l'impôt sur le revenu, sous réserve de ce qui suit :
+a) […]
+13 Pour calculer le montant du supplément payable à un pensionné pour un mois antérieur à juillet 1999, le revenu d'une année civile est celui qui est déterminé aux termes de la Loi de l'impôt sur le revenu, sous réserve de ce qui suit :
+a) […]
+28(2) Lorsque l'appelant prétend que la décision du ministre touchant son revenu ou celui de son époux ou conjoint de fait, ou le revenu tiré d'une ou de plusieurs sources particulières, est mal fondée, l'appel est, conformément aux règlements, renvoyé pour décision devant la Cour canadienne de l'impôt. La décision de la Cour est, sous la seule réserve des modifications que celle-ci pourrait y apporter pour l'harmoniser avec une autre décision rendue aux termes de la Loi sur la Cour canadienne de l'impôt sur un appel pertinent à celui interjeté aux termes de la présente loi devant un tribunal de révision, définitive et obligatoire et ne peut faire l'objet que d'un recours prévu par la Loi sur les Cours fédérales.
+[7] L’appelant affirme que lorsqu’il a demandé la pension des Pays‑Bas en 1994 et qu’il a présenté sa demande par l’entremise de Santé et Bien‑être social Canada, personne ne lui a dit que sa pension des Pays‑Bas risquait de réduire ou réduirait le montant de tout SRG auquel il aurait pu par ailleurs être admissible. DRHC nie cette affirmation et déclare que l’appelant n’a pas déclaré sa pension des Pays‑Bas lorsqu’il a déposé une demande de SRG. À mon avis, il n’est pas pertinent de savoir ce qui a été dit ou non à l’appelant lorsqu’il a demandé sa pension des Pays‑Bas. De même, il se peut qu’il n’ait pas déjà demandé sa pension des Pays‑Bas lorsqu’il a présenté une demande de SRG. Selon ce que je comprends du présent appel, la seule question en litige à trancher consiste à savoir si la pension des Pays‑Bas doit être incluse dans le calcul du revenu de l’appelant (conformément à la Loi de l’impôt sur le revenu) en vue de déterminer le montant du SRG payable à l’appelant.
+[8] L’avocat de l’intimé a joint à sa Réponse deux annexes dont l’une, soit l’annexe B, montre les montants du SRG qui ont réellement été versés à l’appelant à compter d’avril 1996 jusqu’en février 2000 et l’autre, l’annexe A, qui montre les montants du SRG qui auraient été versés à l’appelant à compter d’avril 1996 jusqu’en février 2000 si l’on avait tenu compte de sa pension des Pays‑Bas. Selon ces deux annexes, les montants globaux réellement versés s’élevaient à 14 207,20 $ et ceux qui auraient été payables (si l’on avait tenu compte de la pension des Pays‑Bas) s’élèvent à 4 566,20 $. L’écart est de 9 641 $.
+[9] Selon certains faits qu’a présumés le ministre de Développement des ressources humaines Canada pour déterminer l’admissibilité de l’appelant au SRG et pour établir le montant auquel il avait droit pour la période du mois d’avril 1996 au mois de février 2000 (voir le paragraphe 12 de la Réponse), l’appelant a perçu, pendant toute la période pertinente après 1995, des paiements mensuels du Royaume des Pays‑Bas et ces paiements ont été versés en vertu des dispositions législatives régissant les [traduction] « pensions générales de sécurité de la vieillesse » en vigueur dans ce pays. Ces paiements renvoient dans la présente à la pension des Pays‑Bas. L’article 56 de la Loi de l’impôt sur le revenu contient la disposition suivante :
+56(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+a) toute somme reçue par le contribuable au cours de l'année au titre, ou en paiement intégral ou partiel :
+(i) d'une prestation de retraite ou de pension, y compris, sans préjudice de la portée générale de ce qui précède :
+(A) […]
+(C.1) tout paiement fait dans le cadre d'un mécanisme de retraite étranger prévu par la législation d'un pays, sauf dans la mesure où le paiement serait exclu du calcul du revenu du contribuable aux fins de l'impôt sur le revenu dans ce pays s'il y résidait,
+À mon avis, la pension des Pays‑Bas est visée par le sens large de la division 56(1)a)(i)(C.1) ou du sous‑alinéa 56(1)a)(i). Aucun élément de preuve n’indique que la pension des Pays‑Bas ne ferait pas l’objet d’un impôt sur le revenu aux Pays‑Bas si cette pension avait été versée à un résident de ce pays.
+[10] En vertu du paragraphe 2(1) et de l’article 3 de la Loi de l’impôt sur le revenu, l’appelant, en tant que résident du Canada après 1986, doit payer de l’impôt sur ses revenus de toute provenance, et il est entendu que son revenu aurait inclus une prestation de retraite ou de pension aux termes du sous‑alinéa 56(1)a)(i). Si la pension des Pays‑Bas n’est pas imposable au Canada en raison d’une disposition que prévoit une convention fiscale conclue entre le Canada et les Pays‑Bas, la pension de ce pays serait tout de même incluse dans le « revenu » de l’appelant en vertu de l’article 56 de la Loi de l’impôt sur le revenu, mais elle serait déductible dans le calcul du « revenu imposable » en vertu du sous‑alinéa 110(1)f)(i). L’inclusion de la pension des Pays‑Bas dans le « revenu » de l’appelant en vertu de la Loi de l’impôt sur le revenu peut très bien avoir une incidence sur le montant du SRG auquel l’appelant est admissible en vertu de la LSV, et ce, même si la pension des Pays-Bas a plus tard été déductible dans le calcul du « revenu imposable ». Cependant, selon l’article 18 de la partie 1 de la convention fiscale Canada–Pays‑Bas (1986) et des protocoles d’amendement, il semble que toute pension en provenance des Pays‑Bas et versée à un résident du Canada peut être imposée ici.
+[11] Je suis convaincu que la pension des Pays‑Bas versée à l’appelant doit être incluse dans le calcul de son revenu, conformément à la Loi de l’impôt sur le revenu. Par conséquent, la pension des Pays‑Bas fait partie du « revenu » de l’appelant « pour l’année de référence », aux termes de l’article 13 de la LSV. L’appel est donc rejeté.
+Signé à Ottawa, Canada, ce 11e jour de mars 2003.
+« M. A. Mogan »
+J.C.C.I.
+Traduction certifiée conforme
+ce 15e jour d’avril 2004.
+Nancy Bouchard, traductrice

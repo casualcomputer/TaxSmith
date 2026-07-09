@@ -1,0 +1,204 @@
+---
+title: "Rainforth v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26103/index.do"
+last_modified: "2007-03-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 132"
+citation2: ""
+neutral_citation: "2007 TCC 132"
+decision_date: "2007-03-02"
+language: "en"
+item_id: "26103"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4164
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:21:04.202000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9ceb78fcb9722812b49411c1bde4dd4197c25e328307b3fb7f72b33625605fac"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rainforth v. The Queen
+
+- Citation: 2007 TCC 132
+- Decision date: 2007-03-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4164, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rainforth v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-02
+Neutral citation
+2007 TCC 132
+File numbers
+2003-3553(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3553(IT)G
+BETWEEN:
+HAROLD RAINFORTH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 15, 16, 18 and 19, 2007 at Calgary, Alberta
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+John D'Arcy Boulton
+Counsel for the Respondent:
+Wendy Burnham
+Deborah Horowitz
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of assessments made under the Income Tax Act for the 1995, 1996, 1997 and 1998 taxation years is dismissed.
+The respondent is entitled to costs.
+Signed at Ottawa, Canada, this 2nd day of March, 2007.
+"J. Woods"
+Woods J.
+Citation: 2007TCC132
+Date: 20070302
+Docket: 2003-3553(IT)G
+BETWEEN:
+HAROLD RAINFORTH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal concerns seismic data transactions in which the appellant, Harold Rainforth, participated with a number of other investors. The transactions were undertaken by Mr. Rainforth on an annual basis from 1991 to 1998, but this appeal relates only to the last four of these years.
+[2] For each taxation year under appeal, Mr. Rainforth claimed a deduction in computing income in the amount of $50,000 as a Canadian exploration expense (CEE) pursuant to s. 66.1(3) of the Income Tax Act. By notices of reassessment dated September 14, 1999, the deductions were disallowed in their entirety.
+Issues
+[3] The essence of the appellant's position is stated in his notice of appeal. He submits that he participated in a series of joint ventures under each of which he acquired seismic data for an amount of $50,000, that the seismic data was acquired for exploration purposes, and that it was so used.
+[4] The Crown, on the other hand, submits that Mr. Rainforth did not acquire any interests in seismic data, or if he did that the expenses were not incurred for exploration purposes.
+[5] Alternatively, the Crown submits that the expenses are unreasonable, and therefore the deductions are precluded by section 67 of the Act.
+[6] In the further alternative, the Crown suggests that the deductions should be reduced, either because a portion of the expenses are contingent or because the appellant acquired the data in non-arm's length transactions at amounts exceeding their fair market value.
+Factual background
+[7] The driving force behind these transactions was a Calgary businessman by the name of Sig Gutsche.
+[8] In the late 1980s, Mr. Rainforth's tax accountant, Roger McLeod, became aware that Mr. Gutsche was offering seismic data transactions to investors. This led to a relationship that lasted approximately a decade, in which Mr. McLeod annually negotiated seismic deals with Mr. Gutsche on behalf of several investors, including Mr. Rainforth.
+[9] Mr. Rainforth and Mr. McLeod both testified at the hearing. Mr. Gutsche did not.
+[10] Since the investors for whom Mr. McLeod acted wished to contribute relatively small amounts, he arranged for the transactions to be undertaken by two corporations that acted as conduits. Mr. Rainforth's investments were made through one of these corporations, NR Management Ltd. ("NRM").
+[11] The legal relationship between NRM and the investors is not clear from the documentation. The Crown argued that NRM entered into the joint venture agreements as principal and then assigned its interests to the investors. It could also be argued that NRM acted in an agency capacity.
+[12] It is not necessary that I make a determination on this for purposes of my decision and I do not propose to do so because there was insufficient argument from counsel on the point.[1]
+[13] There is no significant difference between the transactions that were undertaken for each relevant taxation year, and I will accordingly describe the 1996 transactions as being representative.
+[14] In the fall of 1996, Mr. McLeod sought commitments from investors and for this purpose NRM sent out application letters to potential investors, including Mr. Rainforth.
+[15] The letter sent to Mr. Rainforth was written in layman's language and does not clearly set out the details of the transaction. In general, it provides for the purchase of CEE through a seismic joint venture. The potential investor's proportionate share of the joint venture is relative to the amount of CEE that is purchased. The letter does not specifically set out the purchase price of the "CEE," but it states that the investor will share a limited recourse promissory note and that a cheque must be issued to NRM, each in the same proportion as the amount of CEE purchased.
+[16] Mr. Rainforth agreed to an investment in the amount of $50,000, and provided a cheque payable to NRM in the amount of $8,355.
+[17] Mr. McLeod subsequently arranged with Mr. Gutsche for NRM to enter into the transactions, which took effect on December 23, 1996.
+[18] The primary transaction was a joint venture agreement (the "Agreement") made between NRM and 667523 Alberta Ltd. (the "Operator"). Mr. McLeod assumed that the Operator was part of the Gutsche organization.
+[19] The Agreement is lengthy and is somewhat difficult to interpret because not all of the terms appear to be relevant. As best as I can determine, the stated objectives of the venture are: (1) the acquisition of a 19.97 undivided interest in seismic data for an area known as Tedji Lake, N.W.T., and (2) the conduct of exploration activities in respect of oil and gas prospects generated from the interpretation of this data (Section 2 of the Agreement). This description also coincides with Mr. McLeod's explanation of the venture.
+[20] The Agreement contemplates that NRM will pay to the Operator a sum of money described as the "program amount," which is to be used by the Operator to carry out the objectives of the joint venture, including satisfying costs and expenses incurred on behalf of NRM (Section 4 of the Agreement).
+[21] The Agreement fixes the program amount at $962,000, which was paid by NRM to the Operator by way of cheque at the time of closing.
+[22] The investors contributed $129,870 of this amount, which was the total amount received by NRM from investors, less NRM's commission. Mr. Rainforth's share of the $129,870 was $6,750.
+[23] The balance of the program amount, $832,130, was borrowed by NRM on a limited recourse basis from a numbered company, 512668 Alberta Ltd. (the "Lender"). Mr. McLeod testified that he did not know who the principals of the Lender were. I would note, though, that the loan agreement appears to have been signed on the Lender's behalf by Mr. Gutsche.
+[24] The loan bore interest at eight percent, which was to be paid along with the principal at maturity in 15 years. The loan was to be secured by the Tedji Lake seismic data, and in the event that the loan was not repaid on maturity, the Lender could only look to the security for repayment. The Lender also received an assignment of 50 percent of the "net sale or licensing revenue" arising from the security.
+[25] According to Mr. McLeod's testimony, the entire program amount ($962,000) was intended to be used to acquire the Tedji Lake seismic data. There is no documentation to this effect but this may have been the intent because Mr. Gutsche had provided valuation reports to Mr. McLeod that suggested a value of $962,000 for a 19.97 interest in the Tedji Lake data. In light of my conclusion below, it is not necessary that I make a finding as to whether the data was actually acquired and I decline to do so.[2]
+[26] The foregoing is a brief summary of the 1996 transaction, and as mentioned earlier the documentation for the other relevant taxation years was virtually the same.
+[27] None of the investments were successful. No drilling rights were ever acquired and Mr. Rainforth's total income relating to his eight investments over the period from 1991 to 1998 was just $581.
+[28] Moreover, after the documentation was signed, neither Mr. McLeod nor Mr. Rainforth conducted any meaningful follow up with respect to joint venture activities. Mr. Gutsche did show technical reports to Mr. McLeod on his frequent informal visits to Mr. Gutsche's office, but Mr. McLeod admitted that he did not pay much attention to the reports.
+[29] The appellant did not lead any expert evidence as to the value of the data for any of the taxation years at issue. The Crown, however, did lead valuation evidence by providing details of an earlier arm's length sale of some of the data.
+[30] The Crown subpoenaed Ross Nelson, an accountant with Deloitte & Touche who had acted for a bankrupt company with respect to the sale of seismic data in June 1997. Mr. Nelson testified that the data, which was for an area called Horton River in the N.W.T., had been for sale for some time, and that until the sale in 1997 no one had indicated an interest in it. The bankrupt company sold a very large interest in the data for a purchase price of $20,000.
+[31] Later that year, the same data, or more particularly an 18.8 percent interest in it, was valued for purposes of the 1997 transaction undertaken by NRM at approximately $850,000. Further, in the following year a 20.2085 percent interest in the same data was valued for purposes of the 1998 transaction undertaken by NRM at approximately $823,000.
+[32] Accordingly, NRM purportedly acquired undivided interests in the same data in two separate transactions for amounts aggregating in excess of $1,673,000, shortly after a much larger interest in the data had been sold in an arm's length transaction for $20,000.
+[33] I may also mention here that, in cross-examination, Mr. McLeod admitted that he had not previously noticed that NRM had acquired interests in the same data in two consecutive years. He described this as a lack of due diligence.
+[34] The Crown also called Gary Wong, an auditor with the Canada Revenue Agency who testified on behalf of the Crown with respect to his audit of the Gutsche organization. Mr. Wong's audit had included the transactions with NRM for three of the four taxation years at issue.
+[35] In addition to his oral testimony, Mr. Wong introduced a number of documents relating to these transactions that were provided to him by the Gutsche organization, including accounting summaries and banking records.
+[36] Mr. Rainforth's counsel argued that these documents should be given little weight. I agree. Without someone from the Gutsche organization being available for cross-examination, the evidence of the CRA auditor is not very helpful. Accordingly, I have given no weight to Mr. Wong's evidence, except to the extent that it supports the appellant's position.
+[37] I would further note that it is not clear to me that the requirements of the Canada Evidence Act were complied with in relation to the documents introduced by Mr. Wong. For a discussion of these requirements, reference may be made to the comments of Rip A.C.J. in Les Gestions Rodney Cleary & Fils Ltee v. The Queen, 2005 D.T.C. 1280 (T.C.C.), at para. 22 to 35.
+The statutory purpose test
+[38] The appellant submits that he incurred an expense of $50,000 in each of the relevant taxation years for the purpose of oil and gas exploration.
+[39] The principal provision at issue is paragraph (a) of the definition of CEE in s. 66.1(6), which reads:
+"Canadian exploration expense" of a taxpayer means any expense incurred after May 6, 1974 that is
+(a) any expense including a geological, geophysical or geochemical expense incurred by the taxpayer (other than an expense incurred in drilling or completing an oil or gas well or in building a temporary access road to, or preparing a site in respect of, any such well) for the purpose of determining the existence, location, extent or quality of an accumulation of petroleum or natural gas (other than a mineral resource) in Canada,
+[...]
+(Emphasis added)
+[40] The purpose test in paragraph (a) requires that the expense be incurred for the purpose of determining the existence, location, extent or quality of an accumulation of petroleum or natural gas. In this appeal, Mr. Rainforth has not come close to establishing, even on a prima facie basis, that an expense was incurred for this purpose.
+[41] The purpose test can be satisfied either by establishing that the data was actually used for a qualifying purpose, or that there was a credible plan for such use: Petro-Canada v. The Queen, 2004 D.T.C. 6329 (F.C.A.), at para. 35.
+[42] The evidence of actual use in this case generally consists of statements by Mr. McLeod to the effect that he was told that the data was being reviewed by a geologist and that Mr. Gutsche had shown him some technical reports. However, Mr. McLeod had no direct knowledge of actual use and he admitted that he paid little attention to the technical reports.
+[43] As for a credible plan to use the data, the evidence consists largely of the terms of the joint venture agreements and testimony by Mr. Rainforth and Mr. McLeod as to their understanding of the objectives of the joint ventures. Again, neither Mr. Rainforth nor Mr. McLeod had any direct knowledge of explicit plans to use the data.
+[44] It is true that the agreements contemplate that exploration activities would be conducted by the operators. However, Mr. Rainforth has not established that these vague objectives ever resulted in a credible plan to use the data in such a fashion. In fact, I would question whether the agreements were anything more than just window dressing.
+[45] Further, in my view a negative inference should be drawn from the appellant's failure to lead evidence from a representative of the joint venture operators. They are the only persons who would have had first-hand knowledge of the actual use or planned use of the data.
+[46] Counsel for Mr. Rainforth suggested that it would not be appropriate to make such an inference because Mr. Gutsche was likely to be a hostile witness. I agree that Mr. Gutsche might be a hostile witness. He had been audited with respect to these transactions and his version of events given for purposes of the audit could be different from the appellant's version. However, this is not a sufficient answer for the appellant's failure to subpoena Mr. Gutsche or any other representative of the joint venture operators. Such testimony was critical in order for the appellant to have any chance of success in this appeal because neither Mr. Rainforth nor Mr. McLeod had any knowledge of what the operators did, or planned to do, with the data.
+[47] In fact, if one looks at the actions of Mr. Rainforth and McLeod, both men appear to have been indifferent as to whether any activities were actually conducted by the joint ventures.
+[48] Mr. Rainforth knew very little about these transactions, except for the favourable tax consequences that would be available. Although it would not be unusual for investors to rely extensively on advisers, it would be unusual for an investor to make the same type of investment for eight consecutive years without having any objective evidence of the investment's performance.
+[49] As for Mr. McLeod, he made no serious attempt to follow up and determine what use was being made of the data. If he was at all concerned about the activities conducted by the joint ventures, he did not show it in his actions.
+[50] Mr. McLeod submitted that this lack of diligence was no different from how investments are made through the stock market. What this fails to recognize is that the sale of shares to the public through stock exchanges is subject to government regulation. This was a private transaction, and the investors were looking to Mr. McLeod to represent their interests.
+[51] The evidence as a whole tends to suggest that both Mr. Rainforth and Mr. McLeod were indifferent as to whether the joint ventures actually conducted any exploration activities.
+[52] I conclude that Mr. Rainforth has not satisfied the statutory purpose test. Based on the evidence as a whole, and the lack thereof, the data was not used, or planned to be used, for the purpose of determining the existence, location, extent or quality of an accumulation of petroleum or natural gas.
+Other arguments
+[53] As a result of this conclusion, I will not discuss the alternative arguments that were raised by the Crown. Not only is it not necessary that I do so for purposes of my decision, but I do not believe that it would be helpful in light of appeals that have been filed in two judicial decisions relating to seismic transactions.
+[54] Many of the Crown's alternative arguments could be affected by a pending appeal of McLarty v. The Queen, 2006 D.T.C. 6340 (F.C.A.) to the Supreme Court of Canada.
+[55] The same arguments also could be affected by a pending appeal of Anchor Pointe Energy Ltd. v. The Queen, [2006] 4 C.T.C. 2353 (T.C.C.) to the Federal Court of Appeal. This decision concerns onus of proof and the Crown concedes that it results in it having the burden of proof regarding the alternative arguments if the decision is upheld on appeal.
+[56] My conclusion, which is based on the statutory purpose test, is not affected by either of these appeals.
+[57] Finally, I wish to comment that the onus issue in Anchor Pointe was not raised by either counsel, but was first mentioned by me after both counsel had delivered opening statements.
+[58] Mr. Rainforth's counsel, who is not a tax specialist, was not aware of the Anchor Pointe decision and he had assumed that Mr. Rainforth had the burden to establish all relevant facts. Counsel for the Crown were certainly aware of the decision, as they are co-counsel in that case.
+[59] I am quite troubled that the Crown did not bring this decision to my attention at the commencement of the hearing. Counsel is presumably aware of the ethical duty prescribed by provincial law societies to advise the Court of adverse judicial decisions. Counsel suggested that this is not applicable in this instance because the onus issue had not been raised by the appellant. I do not agree. This is not the type of issue that engages the Court only if raised by one of the parties.
+[60] For the Crown to sweep this issue under the rug and pretend that the onus was entirely on the appellant, contrary to Anchor Pointe, was an inappropriate position for the Crown to take, in my view.
+[61] I wish to refer to a recent Supreme Court of Canada decision which addressed the issue of standards of conduct by Crown prosecutors. In R. v. Trochym, [2007] S.C.C. 6, the Court cited the following statement by Rand J. in Boucher v. The Queen, [1955] S.C.R. 16, at pp. 23-24:
+It cannot be over-emphasized that the purpose of a criminal prosecution is not to obtain a conviction, it is to lay before a jury what the Crown considers to be credible evidence relevant to what is alleged to be a crime. Counsel have a duty to see that all available legal proof of the facts is presented: it should be done firmly and pressed to its legitimate strength but it must also be done fairly. The role of prosecutor excludes any notion of winning or losing; his function is a matter of public duty than which in civil life there can be none charged with greater personal responsibility. It is to be efficiently performed with an ingrained sense of the dignity, the seriousness and the justness of judicial proceedings.
+[62] Although the above comment was made in the context of criminal proceedings, in my view it should also apply to Crown counsel who appear in this Court.
+[63] I also wish to mention that co-counsel for the Crown otherwise conducted themselves in an exemplary manner throughout the hearing. This leads me to conclude that their failure to raise Anchor Pointe was a poor judgment call as opposed to an intentional breach of ethical standards.
+[64] The appeal is dismissed, with costs to the respondent.
+Signed at Ottawa, Canada, this 2nd day of March, 2007.
+"J. Woods"
+Woods J.
+CITATION:
+2007TCC132
+COURT FILE NO.:
+2003-3553(IT)G
+STYLE OF CAUSE:
+Harold Rainforth and Her Majesty the Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+January 15, 16, 18 and 19, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+March 2, 2007
+APPEARANCES:
+Counsel for the Appellant:
+John D'Arcy Boulton
+Counsel for the Respondent:
+Wendy Burnham
+Deborah Horowitz
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John D'Arcy Boulton
+Firm:
+Boulton's Law Office
+Sundre, Alberta
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] NRM's relationship with investors is relevant with respect to the contingent liability issue. If NRM acted as agent, it could be argued that none of the consideration was contingent because NRM paid for the entire investment by way of cheque. The appellant did not take this position, however, and acknowledged that the promissory notes were part of the consideration for the seismic data.
+[2] Based on the pleadings, it is arguable that the Crown should have the onus to establish that the appellant did not acquire the seismic data. Neither party raised this at the hearing.

@@ -1,0 +1,145 @@
+---
+title: "Alarakhia v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521589/index.do"
+last_modified: "2026-02-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 26"
+citation2: ""
+neutral_citation: "2026 TCC 26"
+decision_date: "2026-02-25"
+language: "en"
+item_id: "521589"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5640
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-03-04T09:00:28.207000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "207523067d9dccbdd516262d836634f09219f440331b09672d9abba63a04af44"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Alarakhia v. The King
+
+- Citation: 2026 TCC 26
+- Decision date: 2026-02-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5640, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alarakhia v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-02-25
+Neutral citation
+2026 TCC 26
+File numbers
+2024-1977(GST)APP
+Judges and Taxing Officers
+Gilles Renaud
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2024-1977(GST)APP
+BETWEEN:
+KARIMA ALARAKHIA,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Application heard on December 18, 2025 at Toronto, Ontario.
+Before: The Honourable Deputy Judge Gilles Renaud
+Appearances:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Redwan Majumder
+ORDER
+IN ACCORDANCE with the reasons for Order delivered herein, the Application for leave to appeal from the reassessment made under the Excise Tax Act for the 2020 taxation year, is dismissed, without costs.
+Signed this 25th day of February 2026.
+“Gilles Renaud”
+Renaud D.J.
+Citation: 2026 TCC 26
+Date: 20260225
+Docket: 2024-1977(GST)APP
+BETWEEN:
+KARIMA ALARAKHIA,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Renaud D.J.
+I. Introduction [1] The Applicant in File No. 2024-1977(GST)APP, Ms. Karima Alarakhia, is a self-represented party who sought an Order from the Court granting her an extension of time within which to file an Appeal in respect to a decision by the Canada Revenue Agency to disallow her entitlement to the GST/HST New Housing Rebate. The Notice of Re-Assessment is dated September 20, 2020, and resulted in a balance owing of $26, 632.42. As for her justification, the Applicant observed during the hearing, “… I never received the original letter … because it was sent to the address I no longer occupied after the sale of the property.” The Applicant devoted most of her energies during the brief hearing to demonstrating firstly her entitlement to the benefits in question and, secondly, that had she been in receipt of any request for information, she would have complied fully.
+[2] The Respondent’s position may also be stated in brief. The Application should be dismissed because the Applicant did not file their appeal nor their application of an extension of time within the mandatory prescribed time. The factual support is found in the two affidavits that were filed: one from a CRA litigation officer; and one from a CRA mailing manager, setting out that the letter in question was, as a matter of fact, posted to the only address known to the Agency. Thus, as a matter of law, the Respondent submitted, “… once mailing of the Notice of Assessment is put into question, and once it's validly done so, the burden is then on the Respondent to show that this has been mailed to the Applicant…”, and the Respondent discharged its burden by means of the two Affidavits.
+II. Discussion [3] Having set out briefly the competing positions, it will now be of assistance to review in greater detail the evidence put forward and the legal submissions of both parties, beginning with the Applicant. Ms. Alarakhia put together a thorough book of documents that she described fully and fairly in both her opening remarks and her subsequent testimony, which was not challenged, by and large.
+[4] As noted, her submissions and documentation did not address the issue of non-receipt but rather her entitlement to the rebate. In this vein, the Applicant first attempted to demonstrate that she had no reason to ignore any request for information from the Agency as she had complied fully with the spirit and letter of the legislation. Ms. Alarakhia remarked: “I was eligible for GST New Housing Rebate. I occupied the property as my primary residence from the time of interim occupancy until I sold and vacated the property unit….” The witness then outlined that during the year 2018, there was what she described as an “interim occupancy” and in September 2018, there was “full occupancy…” prior to the sale of the building in February 2020. All relevant documentation was advanced in support of this testimony, including a driver’s licence showing her address as being 10 Park Lawn Road, Unit 1910 and a contract of insurance. The Applicant then reiterated that “The CRA Notice of Re-assessment, dated September 30th, was issued after I'd already moved from the property.”
+[5] Of interest, Ms. Alarakhia added “I did not ignore CRA's request for documentation. I never received it because it was mailed to my former address after I'd sold the property. I only became aware of the issue on May 16th, when my bank accounts were frozen. At that time, I was travelling in Europe, on vacation, and was contacted -- or I contacted the bank -- and they told me to contact CRA officer …” It was by reason of this request that she came to learn of the decision concerning this rebate.
+[6] The Applicant’s subsequent efforts to obtain redress were unsuccessful as the Agency took the position that the relevant deadline was December 29th, 2021. But what is highly germane is the Applicant’s submission and later confirming testimony to the effect that her New Housing Rebate application for $25,963.80 was disallowed because she had not responded to the Agency’s repeated requests for more information. As will be discussed later, the two Affidavits shed no light on this question of “repeated requests” for information.
+[7] During his brief and focused cross-examination, Mr. Majumder asked the Applicant: “Prior to April 2024, you did not let the CRA know that you changed your address. A. I did not.” She agreed as well that she filed the Application for an Extension of Time to serve a Notice of Objection on May 27th, 2024.
+[8] Of interest, in re-examination, Ms. Alarakhia testified: “… I didn't know that I had to file like, for this GST, which I was not aware of it. And when I sold my property, we're all going through COVID and never struck my mind to change my address, or I would be reply for the rebate to change my address -- because I never received any other notifications prior to that.”
+[9] Having reviewed the testimony and documentation put forward by the Applicant, it is apposite to also review the documentation filed by Counsel for the Respondent. In that context, Mr. Majumder stated what follows as to the relevance of the affidavit material he filed:
+… Your Honour, I will start with the Affidavit of Benny Bui … an officer in the appeals branch of the Canada Revenue Agency. Benny Bui has been in contact with the Applicant as was heard today. And Benny examined records relating to this application and as such has knowledge of the matters of this file. … In Mr. Bui's review of the file, he clarified through this Affidavit some of the timelines and the dates that we've heard as well in testimony today. But the Affidavit essentially clarifies as per paragraph 5… that the new housing rebate application was on November 27th, 2018; the Minister -- CRA keeps a database in which correspondence between the taxpayer and Mr. Bui and the Minister is stored.
+And if we go down to … paragraph 10 … we can see that Mr. Bui outlines that the Notice of Re-assessment was released on September 26th, 2020. …
+And in the Affidavit it also outlines that it is the agency that -- being the CRA -- their practice to store identifying information for the Applicant such as their mailing address history. And this is where we can see that … Mr. Bui outlines in his Affidavit that the Applicant's address of record between December 3rd, 2018, to April 11th, 2024, was the Toronto Park Lawn -- the Toronto property.
+… If we make our way to paragraph 19, we can see how this Affidavit also outlines that the Applicant requested the extension of time to file a Notice of Objection with the Minister on May 27th, 2024. I understand that the Applicant has shown us this today, but also, for reference in the Affidavit, this can be located on page 25 [of Exhibit D] … And if we make our way to page 6 of the Affidavit, specifically, in paragraph 21, this was also once again told today, but to outline what's in the Affidavit, it outlines that by way of correspondence dated August 9th, 2024, the Minister notified the Applicant that the Applicant's request for an extension of time to file a Notice of Objection could not be granted as it was filed after the deadline as per the Minister. … Page 37, starting on page 39.
+… And then, we can make our way down to paragraph 23 on page 6 of the Affidavit, which essentially outlines that the Applicant's address of record, which we saw from the previous database, was also their mailing address until -- effective from April 11, 2024. And we can see this as exhibit F on the Affidavit … at page 43. And this -- similar to the previous exhibit, shows that as per the database, the address was -- the mailing address was 1910 Park Lawn Road from December 3rd, 2018, to April 11, 2024.
+And then, going back to page 6 of the Affidavit, Mr. Bui outlines that a search examination of the records of the agency show that an Application for Extension of Time was not filed prior to September 9th, 2024.
+… this Affidavit concludes with Mr. Bui outlining that the Minister has not further re-assessed the Applicant.
+[10] The Court then heard Mr. Majumder set out what the Respondent suggests is the relevance of the “mailing Affidavit of Mr. Johnson …” and there is no need to review his careful submission that the Agency has demonstrated the mailing of the relevant document to the only address the Agency had knowledge of. In addition, it is germane to highlight that paragraphs 7 to 10, link in the information from Mr. Bui. To be brief, what counsel described echoes fully what Justice MacPhee described in the case of Ng v. The King, 2025 TCC 172, starting at paragraph 13 with particular emphasis at paragraph 17 with respect to the “mailing” affidavit.
+[11] Turning now to the closing submissions, the Applicant stated: “From the presentation today, I did not receive a date when the original assessment was conducted. Was it prior to September 30th, because that was the re-assessment? But they've asked me for information which I never received on the original assessment.” [Emphasis added]
+[12] Ms. Alarakhia then stated:
+I acted in good faith at all times. I was eligible for the rebate and occupied the property as my primary residence. I did not receive the original documentation from CRA. Once I became of the assessment -- re-assessment, I promptly gathered the provided all the documentation reasonable available to me. The re-assessment was issued without giving me a reasonable opportunity to respond to CRA's documentation. I did not ignore CRA's request. I never received it because it was sent to my former address. I moved. I only became aware of it after re-assessment was told by the officer.
+[13] In response, Counsel for the Respondent submitted that the Applicant did not request an extension of time to object within the time required by the Excise Tax Act. As set out in section 335(10) of the Excise Tax Act, if the Minister can prove that the Notice of Re-assessment was sent, the sending is presumed to have occurred on the date set out in the Notice. Pursuant to section 335(11) of the Excise Tax Act, Counsel stated accurately, once the sending date is established, the Notice of Re-assessment is deemed to have been received on that date. Counsel for the Respondent then submitted, correctly in the Court’s view, that paragraph 8 of Carvalho v. The Minister of National Revenue, 2007 TCC 709, holds that it is the responsibility of the taxpayer to ensure that their correct address is known to the tax authorities at all times, failing which, they must accept responsibility for the consequences of non-communication or incorrect communication.
+[14] A further and equally sound submission by the Respondent is that the Respondent only needs to prove on a balance of probabilities that the Notice of Re-Assessment was sent. There is no duty to prove that the Notice was received by the taxpayer. Indeed, as recorded at paragraphs 22 to 23, of Ng v. The King, 2025 TCC 172, even if an Applicant is deemed to be a truthful witness and they testified that they did not receive a Notice of Re-assessment, a Notice of Re-assessment is deemed received by the Applicant on the date that it was mailed, if the evidence establishes on a balance of probabilities that it was posted by the Agency to the correct address listed in their Records.
+[15] The Court notes again that it is not controversial that the Applicant did not file the necessary Notice of Objection within the time limit specified by the legislation – indeed, as Ms. Alarakhia observed astutely, not having received actual notice until more than two years had passed, she could object within 15 months. Later, she testified: “… what I want to say that all the deadlines, dates that were provided by the counsel are all the dates that I had already moved out of there. So, as soon as I was aware of it, I started the motion, on May 27…”
+III. Conclusion [16] At the end of its analysis, the Court finds that it must dismiss the Application as the Applicant failed to inform the Agency of her new address upon moving and the Agency did post the required Notice of Re-Assessment to the correct address as set out in the Affidavit material. The Court finds as a fact that the Applicant was credible and reliable in testifying that the Agency’s letter was never received by her and no information was provided to alert her to the transmission of this document. Secondly, the Court finds, on a balance of probabilities, that the Agency did, in fact, mail the Notice to the only known and correct address as set out in the Affidavits and described by the Respondent’s counsel. Thus, the Court lacks any jurisdiction to make an Order that the Appeal be set down for hearing and must dismiss the Application as being without foundation, without costs.
+Signed at Canada, this 25th day of February 2026.
+“Gilles Renaud”
+Renaud D.J.
+CITATION:
+2026 TCC 26
+COURT FILE NO.:
+2024-1977(GST)APP
+STYLE OF CAUSE:
+KARIMA ALARAKHIA AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Canada
+DATE OF HEARING:
+December 18, 2025
+REASONS FOR ORDER BY:
+The Honourable Deputy Judge Gilles Renaud
+DATE OF ORDER:
+February 25, 2026
+APPEARANCES:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Redwan Majumder
+COUNSEL OF RECORD:
+For the Applicant: N/A
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Marie-Josée Hogue Deputy Attorney General of Canada Ottawa, Canada

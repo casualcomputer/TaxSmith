@@ -1,0 +1,1017 @@
+---
+title: "Prairielane Holdings Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/419326/index.do"
+last_modified: "2019-07-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 157"
+citation2: ""
+neutral_citation: "2019 CCI 157"
+decision_date: "2019-07-26"
+language: "fr"
+item_id: "419326"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4215
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:13:06.683000+00:00"
+cases_cited_count: 10
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ad81594008e81ad88ebe3fee59a174c0082e52a0902b45290d543db8d3d5b0be"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Prairielane Holdings Ltd. c. La Reine
+
+- Citation: 2019 CCI 157
+- Decision date: 2019-07-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4215, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prairielane Holdings Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-07-26
+Référence neutre
+2019 CCI 157
+Numéro de dossier
+2015-3513(IT)G
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-3513(IT)G
+ENTRE :
+PRAIRIELANE HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+ET :
+Dossier : 2015-3512(IT)G
+ENTRE :
+STREIFEL CONSULTING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune les 15, 16, 17 et 18 avril 2019, à Saskatoon (Saskatchewan)
+Devant : L'honorable juge Ronald MacPhee
+Comparutions :
+Avocats de l'appelante :
+Me Amanda S.A. Doucette
+Me Beaty F. Beaubier
+Avocat de l'intimée :
+Me John Krowina
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie aux termes de la Loi de l'impôt sur le revenu pour l'année d'imposition de l'appelante Prairielane Holdings Ltd. terminée le 30 novembre 2011 est accueilli avec dépens et la nouvelle cotisation est annulée.
+Les appels interjetés à l'encontre des nouvelles cotisations établies aux termes de la Loi de l'impôt sur le revenu pour les années d'imposition de l'appelante Streifel Consulting Ltd. terminées les 31 décembre 2011 et 31 décembre 2012 sont accueillis avec dépens et les nouvelles cotisations sont annulées.
+Signé à Ottawa, Canada, ce 26e jour de juillet 2019.
+« R. MacPhee »
+Le juge MacPhee
+Référence : 2019 CCI 157
+Date : 20190726
+Dossier : 2015-3513(IT)G
+ENTRE :
+PRAIRIELANE HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+ET :
+Dossier : 2015-3512(IT)G
+ENTRE :
+STREIFEL CONSULTING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge MacPhee
+I. INTRODUCTION
+[1] Les présents appels ont été entendus sur preuve commune. La Cour doit trancher la question de savoir si Prairielane Holdings Ltd. (PHL) et Streifel Consulting Ltd. (SCL) sont réputées être des sociétés associées au titre du paragraphe 256(2.1) de la Loi de l'impôt sur le revenu [1] (la Loi).
+[2] L'intimée soutient que les appelantes sont associées parce que l'un des principaux motifs de l'existence distincte des deux sociétés consiste à réduire les impôts, notamment grâce à la déduction accordée aux petites entreprises (DAPE). PHL interjette appel à l'égard de l'année d'imposition 2011. SCL interjette appel à l'égard des années d'imposition 2011 et 2012.
+II. LE CONTEXTE
+[3] John Mathison a toujours été le seul administrateur et dirigeant de PHL. Lloyd Streifel a toujours été le seul administrateur et dirigeant de SCL. Ils ont tous deux témoigné au procès.
+[4] Avant une réorganisation d'envergure en 2009, une société dénommée Moody's Equipment Ltd. (MEL) exploitait, depuis plusieurs années, une entreprise de vente de machinerie agricole pour Case New Holland. Elle vendait des pièces de matériel agricole, fournissait des services et fournissait du matériel de construction. PHL détenait 51 % des actions de MEL en décembre 2008. Quant à M. Streifel, il détenait 4,089 % des actions de MEL.
+[5] En 2009, MEL a fait l'objet d'une restructuration importante. Lors de cette restructuration, on a constitué une société de personnes le 30 avril 2009.
+[6] Conformément au contrat de société de personnes, le revenu provenant de la société de personnes est réparti tous les ans. La première répartition est fondée sur les apports en capital, la deuxième, sur le rendement de chaque associé, et le revenu restant est réparti selon la participation de chaque associé. Prairielane Enterprises (qui appartenait à PHL) détenait une participation de 61 % dans la société de personnes nouvellement constituée. Streifel Enterprises Ltd. (qui appartenait à SCL) détenait une participation de 5,5 %.
+[7] Il n'est pas contesté qu'avant la réorganisation, en 2007, MEL, et par extension les appelantes, avaient un certain nombre de questions à régler relativement aux sociétés. Ces questions ont été décrites de façon très détaillée au procès. Elles peuvent se résumer ainsi :
+1) MEL prenait de l'essor et était en voie d'acquérir trois autres concessionnaires. En raison de cette expansion, un nouvel associé, Belsher Equipment Ltd., faisait l'acquisition d'une participation de 5 % dans MEL, comme contrepartie partielle pour la vente de ses actifs à MEL.
+2) On s'attendait à ce que la société de personnes doive acquérir un montant en espèces important afin de pouvoir acheter ces entreprises.
+3) De nombreux associés allaient partir prochainement. En particulier, M. Mathison, l'actionnaire majoritaire de MEL, prévoyait prendre sa retraite en 2013.
+4) Darrel Moody, un actionnaire fondateur de MEL, ne participait plus activement à l'entreprise. Les autres actionnaires souhaitaient l'exclure de l'entreprise.
+5) Divers associés, y compris M. Streifel, cherchaient à accroître leur participation dans l'entreprise.
+[8] En 2007, la société de personnes a sollicité des conseils de spécialistes pour s'assurer qu'elle traitait adéquatement de ces questions. M. Mathison s'occupait de ces questions pour les associés. Il a d'abord sollicité les conseils du comptable de longue date de MEL, Doug Frondall, qui, à son tour, a demandé l'aide d'Alain Gaucher, un avocat fiscaliste chevronné. On a demandé à M. Gaucher de donner des conseils à cet égard. M. Gaucher a proposé une structure qui a été mise en place en avril 2009.
+[9] En raison de cette réorganisation, plusieurs sociétés ont été constituées en avril 2009. La structure sociale qui en a résulté apparaît dans l'exposé conjoint partiel des faits à l'annexe 1, pièce C de l'annexe A ci‑jointe. La structure choisie est souvent désignée sous le nom de « sociétés superposées ». Les fins d'exercice de chacune de ces sociétés superposées revêtent une importance particulière pour les appelantes.
+[10] Divers résultats ont été obtenus grâce à l'utilisation des sociétés superposées. Deux résultats immédiats et clairement identifiables sont les suivants. Les sociétés faisant partie de la nouvelle structure, y compris les appelantes, ont été en mesure de créer un report d'impôt d'au plus 25 mois.
+[11] Un autre résultat immédiat de la réorganisation, qui a mené à l'établissement des nouvelles cotisations dont la Cour est saisie, est que PHL a pu réclamer la DAPE au cours de l'année d'imposition 2011. SCL a été en mesure de réclamer la DAPE au cours des années d'imposition 2011 et 2012. Avant la restructuration, ni l'une ni l'autre de ces sociétés n'a pu réclamer la DAPE.
+[12] L'Agence du revenu du Canada a fait valoir que le principal motif (ou l'un des principaux motifs) pour lequel les appelantes ont créé les sociétés de personnes superposées était de leur permettre de réclamer la DAPE, ce qui n'était pas possible auparavant. Par conséquent, par suite de l'application du paragraphe 256(2.1) de la Loi, les deux appelantes étaient réputées être associées à sept autres sociétés. Les cotisations qui ont suivi ont eu l'effet d'éliminer la DAPE que les appelantes réclamaient. Si les sociétés en question sont associées, elles sont alors une « grande société ».
+III. ANALYSE
+[13] Comme je l'ai mentionné précédemment, la question soumise à la Cour consiste à savoir si les appelantes sont, à juste titre, réputées être des sociétés associées au titre du paragraphe 256(2.1) de la Loi.
+[14] Le paragraphe 256(2.1) de la Loi, une disposition anti‑évitement, est rédigé ainsi :
+256(2.1) Pour l'application de la présente loi, s'il est raisonnable de considérer qu'un des principaux motifs de l'existence distincte de plusieurs sociétés au cours d'une année d'imposition consiste à réduire les impôts qui seraient payables par ailleurs en vertu de la présente loi ou à augmenter le crédit d'impôt à l'investissement remboursable prévu à l'article 127.1, ces sociétés sont réputées être associées les unes aux autres au cours de l'année.
+[15] Il y a lieu de souligner que je dois déterminer les motifs de l'existence distincte des sociétés au cours de l'année d'imposition, et non les motifs pour lesquels elles ont été initialement constituées [2] .
+[16] Selon les éléments de preuve en l'espèce, les motifs pour lesquels les sociétés ont été initialement constituées ne diffèrent pas des motifs de l'existence distincte des sociétés au cours des années d'imposition en cause.
+[17] Dans mon analyse, je mettrai l'accent sur les expressions du paragraphe 256(2.1) de la Loi soulignées ci‑dessus, en appliquant cette analyse aux faits présentés au procès. Voici ces expressions :
+A. « S'il est raisonnable de considérer »
+[18] Bien qu'aucune décision portant sur le paragraphe 256(2.1) de la Loi n'ait défini l'expression « il est raisonnable de considérer », cette expression se retrouve dans d'autres articles et elle a été définie par la Cour d'appel fédérale dans l'arrêt R. c. Wu [3] :
+À notre avis, vu la présence au paragraphe 15(1.1) des termes additionnels qui en permettent l'application lorsqu'il « est raisonnable de considérer qu'un des motifs » du versement consiste à modifier la valeur de la participation d'un actionnaire, la charge est encore plus lourde qui incombe au contribuable de produire l'explication objectivement raisonnable que l'opération n'a nullement pour objet de modifier la valeur de la participation d'un actionnaire.
+[19] Il est particulièrement utile de se pencher sur l'arrêt OSFC Holdings Ltd. c. Canada [4] de la C.A.F., où il a été conclu que :
+46 Le membre de phrase « il est raisonnable de considérer que l'opération est principalement effectuée pour » au paragraphe 245(3) indique que le critère de l'objet principal est un critère objectif. Par conséquent, l'accent sera mis sur les faits et les circonstances pertinentes et non sur les déclarations d'intention. Il est également évident que l'objet principal doit être déterminé au moment où les opérations en question ont été effectuées. Il ne s'agit pas d'une évaluation rétrospective, qui tiendrait compte de faits et de circonstances survenus après que les opérations ont été effectuées.
+[20] J'appliquerai donc un critère objectif dans mon analyse. Comme la Cour l'a souvent affirmé, le fait d'appliquer un critère subjectif, en se fondant donc sur les intentions exprimées par chaque appelante, est peu utile lors d'une telle analyse.
+B. « Principal motif »
+[21] La juge en chef adjointe Lamarre, dans le jugement Gerbro [5] , a résumé le critère fondé sur le « motif principal », résumé qui a été repris dans la décision Jencal [6] :
+157 La jurisprudence appliquant le critère fondé sur « l'une des raisons principales » et celui fondé sur « l'un des objectifs principaux » est instructive quant aux règles de droit applicables permettant de tirer une conclusion factuelle appropriée. Ces règles de droit, adaptées aux besoins des règles sur les BFPNR, peuvent être résumées comme suit :
+(1) les raisons motivant un contribuable à investir peuvent être mentionnées ou non, et le fait qu'une raison liée à l'évitement fiscal ne soit pas mentionnée, comme c'est souvent le cas, n'empêche pas un tribunal de déduire qu'une telle raison existait : Symes c. Canada, [1993] 4 R.C.S. 695, à la page 736;
+(2) il peut y avoir plus d'un motif principal pour investir dans une entité non-résidente : Groupe Honco Inc. c. Canada, 2013 CAF 128, 2014 D.T.C. 5006, au paragraphe 24, confirmant 2012 CCI 305, 2013 D.T.C. 1032;
+(3) le critère fondé sur le motif n'est pas un critère sine qua non en vertu duquel la Cour est tenue de conclure que l'évitement fiscal n'était pas un motif principal pour investir, si elle est convaincue que le contribuable aurait investi malgré l'absence d'un avantage fiscal : Magasins Continental Ltée c. Canada, [1978] A.C.F. no 702 (QL), 79 D.T.C. 5213 (C.F. 1re inst.); Honeywood Ltd. c. Canada, [1981] A.C.F. no 103 (QL), C.T.C. 38 (C.F. 1re inst.); contra : Jordans Rugs Ltd. et al. v. M.N.R., [1969] C.T.C. 445 (C. de l'É.);
+(4) il est inapproprié de conclure que les économies d'impôt découlant des placements mènent automatiquement à l'inférence selon laquelle l'obtention de ces économies d'impôt doit avoir constitué un motif principal pour investir : Les Installations de l'Est Inc. c. Canada, [1990] A.C.F. no 72 (QL), 2 C.T.C. 503 (C.F. 1re inst.); Saratoga Building Corp. c. Canada, [1993] A.C.I. no 195 (QL), 2 C.T.C. 2074 (C.C.I.);
+(5) le choix d'investir dans une entité non‑résidente alors qu'il était possible d'investir dans un autre instrument de placement entraînant une obligation fiscale plus importante ne permet pas nécessairement de conclure à l'existence d'un motif principal lié à un avantage fiscal : Alpine Furniture Co. Ltd. et al. v. M.N.R., 68 D.T.C. 5338 (C. de l'É.), à la page 5345.
+[22] Bien qu'elle ne soit pas déterminante, il convient de se poser la question importante suivante pour décider si un motif est un motif principal : « À défaut de tout avantage sur le plan financier, aurait‑on quand même adopté le plan [7] ? »
+[23] En déterminant le degré d'importance requis pour constituer un « motif principal », le juge Décary, dans la décision Lenco Fibre Canada Corp. c. La Reine [8] , a déclaré ce qui suit :
+[4] [...] il faut donner au mot « principal » tout son sens. Tous les motifs ne sont pas forcément principaux. Ainsi, même lorsque la réduction de l'impôt payable constitue un motif, il faut quand même voir s'il s'agit d'un motif principal.
+C. « Réduire les impôts »
+[24] Dans l'arrêt Decker Contracting Ltd. c. La Reine [9] , la C.A.F. a interprété la version antérieure du paragraphe 256(2.1) de la Loi et a conclu que :
+15 Le membre de phrase « réduire le montant des impôts qui seraient autrement payables en vertu de la présente loi », se rapporte à l'impôt qui aurait été payable si lesdites compagnies n'avaient pas eu une existence distincte. [...]
+[25] Dans le jugement McAllister Drilling Ltd. c. Canada [10] , la Cour fédérale a conclu que :
+5 La directive en question [en application du prédécesseur du paragraphe 256(2.1)] est subordonnée à la réunion des deux conditions préalables prévues au paragraphe 247(2). Mais seule est en cause en l'espèce la condition préalable prévue à l'alinéa 247(2)b). Il est en effet prévu que le Ministre devra être convaincu qu'un des principaux motifs de l'existence distincte de Drilling, de Holdings et de Waterwells était, en 1981 et 1984, la réduction du montant de l'impôt qui aurait autrement été payable si les activités de ces diverses entreprises avaient été menées au sein d'une seule corporation.
+[26] Il ne fait aucun doute que les deux appelantes, par suite de la structure nouvellement créée, ont constaté une réduction d'impôt grâce au fait qu'elles pouvaient réclamer la DAPE. Il revient aux appelantes d'établir que l'un des principaux motifs de l'existence distincte des sociétés n'était pas de réduire les impôts. En l'espèce, l'intimée a déterminé que le droit des appelantes à la DAPE était la réduction d'impôt recherchée.
+[27] Bien que l'affaire ait été instruite sur preuve commune, les faits pertinents à l'égard de chacune des appelantes étaient légèrement différents. Par conséquent, mon analyse différera légèrement pour chaque appelante.
+1) PHL
+[28] Alain John Gaucher était le premier témoin de l'appelante, et était de loin celui qui était le plus au courant des questions dont la Cour était saisie. M. Gaucher est un avocat spécialisé en fiscalité, en planification successorale et en planification de sociétés et il sert des clients fortunés. Les appelantes ont renoncé au secret professionnel de l'avocat afin qu'il puisse témoigner.
+[29] Dans l'ensemble, M. Gaucher a été un témoin utile : il a présenté les éléments pertinents de l'historique de MEL, il a fourni une explication détaillée de la façon dont fonctionnait la structure de sociétés mise en place pour le compte des appelantes et il a énuméré les facteurs dont il s'était préoccupé pour préparer la structure. Le fait que M. Gaucher ait témoigné pour expliquer pourquoi PHL ne serait pas en mesure de se prévaloir de la DAPE en raison des sociétés superposées qu'il avait créées est d'une importance cruciale.
+[30] Dès le début de son mandat, l'une des questions dont M. Gaucher a pris connaissance, en septembre 2007, était le fait que les associés de MEL n'avaient pas droit à la DAPE. M. Gaucher a rendu un témoignage clair : bien que la réduction d'impôt ait été prise en compte, le droit des appelantes à la DAPE n'était pas l'un des principaux motifs de l'existence distincte des sociétés nouvellement créées.
+[31] Ce qui suit a été fatal à l'argument de l'intimée au sujet de PHL. Aux termes du paragraphe 125(5.1) de la Loi, lorsque le capital imposable d'un groupe de sociétés associées dépasse 15 millions de dollars, le droit à la DAPE disparaît. En outre, aux termes du paragraphe 181.2(3) de la Loi, le calcul servant à déterminer le capital imposable attribué à une société membre d'une société de personnes aurait fait en sorte qu'au moins 43 % de la société de personnes aurait été attribué aux appelantes et, par conséquent, le capital imposable de PHL aurait été d'au moins 15 millions de dollars, rendant encore une fois PHL inadmissible à recevoir la DAPE en raison de la structure nouvellement créée.
+[32] M. Gaucher a tenu compte de divers scénarios concernant le capital imposable éventuel de PHL, par exemple si PHL renonçait à une partie de sa participation dans la société de personnes. Ces calculs servaient à déterminer, au moins en partie, si PHL pouvait avoir droit à la DAPE en tenant compte de cette structure de sociétés superposées.
+[33] Dans chacune des analyses effectuées, PHL aurait toujours eu un capital imposable de plus de 15 millions de dollars dans la structure nouvellement créée. Elle n'aurait donc pas droit à la DAPE avec la nouvelle structure.
+[34] Pour compliquer les choses, mentionnons le fait que PHL a été en mesure de réclamer la DAPE en 2011, et ce, malgré le fait que M. Gaucher ait déterminé le contraire.
+[35] Au procès, M. Gaucher a expliqué que le droit de PHL à la DAPE découlait d'une anomalie dans la Loi, qui a été bien résumée dans les observations écrites des appelantes, au paragraphe 10(g) :
+[TRADUCTION]
+Le calcul du capital imposable se fait en tenant compte d'une année antérieure, et il n'y a de capital imposable que si la société de personnes attribue un revenu à une société en particulier. En raison du report d'impôt d'un an, au cours de la première année de la société de personnes dont les associés sont des personnes morales, aucune d'entre elles n'avait de revenu que la société de personnes lui aurait attribué. Par conséquent, pendant un an, le capital imposable de la société de personnes dont les associés sont des personnes morales n'a été attribué à aucune des personnes morales. [...]
+[36] M. Gaucher a déclaré qu'il ne connaissait pas cette règle technique au moment de la planification fiscale. Selon M. Gaucher, le fait que PHL ait pu réclamer la DAPE en 2011 tenait du pur hasard. Je retiens le témoignage de M. Gaucher selon lequel il n'était pas au courant de cette anomalie au moment de la préparation de la nouvelle structure d'entreprise. Sur ce point, son témoignage n'a pas été ébranlé en contre‑interrogatoire et a été corroboré par M. Mathison. Il est également vraisemblable. PHL n'aurait pas eu comme principal motif pour la création de la nouvelle structure de sociétés le fait d'avoir droit à la DAPE pendant un an, puisque les coûts liés à la création des nouvelles structures, de même que les coûts permanents, dépassent de loin la DAPE obtenue en 2011.
+[37] Je retiens donc la thèse adoptée par l'avocat des appelantes voulant que PHL croyait qu'elle n'aurait pas droit à la DAPE lors de la planification. M. Gaucher a communiqué ce renseignement à M. Mathison. Vu cette conclusion, il n'est pas nécessaire d'étudier les témoignages des autres témoins. Pour PHL, le droit à la DAPE n'était pas un motif principal justifiant la restructuration de la société de personnes dont les associés sont des personnes morales. Elle a poursuivi ce projet de toute façon.
+[38] Par souci de clarté, je souscris aux motifs fournis par PHL quant aux principaux motifs de l'existence distincte des autres sociétés. Le droit à la DAPE n'était pas l'un des principaux motifs.
+[39] Les appelantes ont présenté des éléments de preuve corroborés par les documents déposés au procès selon lesquels les principaux motifs justifiant le deuxième palier des sociétés créées lors de la restructuration étaient les suivants :
+· obtenir des reports d'impôt d'au plus 25 mois;
+· pouvoir ajouter ou retirer des associés plus facilement, notamment M. Belsher, et M. Mathison dont la retraite était imminente;
+· voir à leurs inquiétudes sur le fait que M. Moody continuait d'être un associé.
+SCL
+[40] Il est nécessaire d'effectuer une analyse quelque peu différente pour SCL, même si elle nous amène aux mêmes résultats. Dans mon analyse de l'appel interjeté par SCL, je conviens que les principaux motifs de la constitution des sociétés du deuxième palier lors de la restructuration sont les motifs énoncés au paragraphe précédent.
+[41] L'intimée a réussi à démontrer que M. Gaucher avait examiné le droit à la DAPE [11] . De plus, les conseillers fiscaux de SCL savaient que cette dernière aurait droit à la DAPE en raison de la structure nouvellement créée. Malgré cela, je ne conclus pas que le droit à la DAPE était pour SCL l'un des principaux motifs de la création de la structure.
+[42] Avant la mise en place de la nouvelle structure, il a été établi que PHL, l'associée qui occupait une position dominante en matière de participation, ne serait pas en mesure de réclamer la DAPE. Les parties sont tout de même allées de l'avant avec cette nouvelle structure.
+[43] MM. Gaucher et Frondall savaient que la majorité des autres associés auraient droit à la DAPE en raison de la nouvelle structure. Toutefois, le fait que cela ait été considéré comme un avantage éventuel de la planification n'est pas déterminant pour la question que doit trancher la Cour.
+[44] En outre, je dois cerner l'intention du contribuable et non celle des planificateurs fiscaux. J'ai conclu que les éléments de preuve présentés par les appelantes, y compris ceux de M. Streifel, avaient démoli les hypothèses du ministre du Revenu national (le ministre). Dans deux cas précis, l'intimée a présenté des éléments de preuve appuyant la thèse des appelantes.
+[45] Dans le premier cas, il s'agissait des éléments de preuve soumis par Dale Belsher. M. Belsher a déclaré qu'il était comptable agréé. Il est maintenant à la retraite, mais demeure propriétaire de Belsher Equipment Ltd. En 2009, M. Belsher est devenu associé de Moody's Equipment. Il s'agissait en fait de l'une des transactions qui ont mené à la réorganisation de MEL.
+[46] M. Belsher ne se souvenait pas du moment où il a pris connaissance des détails de la nouvelle structure à laquelle il se joignait. Cela aurait pu être au cours d'une réunion tenue en juillet 2009 à laquelle assistaient M. Frondall et M. Gaucher, ou possiblement pendant un appel téléphonique à peu près au même moment.
+[47] M. Belsher a déclaré que, selon ses connaissances de la structure et son expérience en comptabilité, il savait que [TRADUCTION] « je n'étais pas un associé de tous les autres associés pour les besoins de l'impôt sur le revenu, et j'ai pensé que je pourrais obtenir la déduction accordée aux petites entreprises » [12] .
+[48] M. Belsher ne se souvenait pas si on avait discuté avec lui du droit à la DAPE. Il n'a fourni aucun document et ne se souvenait d'aucune conversation tenue entre les planificateurs fiscaux et les associés au cours de laquelle le droit à la DAPE avait été mentionné en tant qu'objectif de la réorganisation.
+[49] Dans son témoignage, M. Belsher a également déclaré ce qui suit :
+[TRADUCTION]
+R. Pour moi — le plus important pour moi était — pouvoir ajouter ou retirer des associés, parce que lorsque John et moi préparions ce projet, puis nous faisions venir six bons employés pour qu'ils puissent devenir propriétaires et — j'ai constaté que cette structure est incroyable pour quand, pour le rachat — et amener des gens nouveaux, de nouvelles indemnités de départ, vous savez, amener des gens compétents, les faire entrer rapidement. Alors cela — ce qui était réellement intéressant était la structure [13] .
+[50] Le témoignage de M. Belsher n'appuie pas la thèse de l'intimée selon laquelle le droit à la DAPE était l'un des principaux motifs de l'existence des sociétés du deuxième palier.
+[51] M. Belsher ne pouvait pas se souvenir des renseignements que M. Streifel avait reçus de MM. Gaucher et Frondall, le cas échéant. En outre, il n'a pas confirmé que le droit à la DAPE était l'un des principaux motifs pour lequel lui ou les autres associés avaient conclu l'entente.
+[52] L'autre élément de preuve présenté par l'intimée qui n'étayait pas sa thèse était son utilisation d'extraits de l'interrogatoire préalable. L'intimée a présenté à la Cour un certain nombre d'extraits de l'interrogatoire préalable de M. Streifel, aux termes de l'article 100 des Règles de la Cour canadienne de l'impôt (procédure générale) [14] (les Règles). À l'interrogatoire préalable, M. Streifel a comparu pour le compte de SCL. Les extraits peuvent être ainsi résumés :
+· Selon ce que savait M. Streifel, la nouvelle structure n'avait aucun désavantage.
+· La fiducie familiale constituée lors de cette restructuration lui permettait d'effectuer une certaine planification fiscale en répartissant son revenu.
+· M. Streifel n'avait aucun souvenir d'autres choix offerts pour structurer la transaction.
+· Il a déclaré qu'il était important de se mettre à l'abri des créanciers, mais que les cas de poursuites étaient rares. Il a convenu que la mise à l'abri des créanciers n'était pas un objectif important. Il a reconnu qu'il ne pouvait pas expliquer la façon dont fonctionnait la mise à l'abri des créanciers.
+· Il n'a pas rencontré les planificateurs fiscaux.
+· Il n'a pas pris de mesures visant à s'assurer que la restructuration était une bonne décision pour lui.
+[53] De manière générale, lorsqu'une partie lit des extraits de l'interrogatoire préalable de l'autre partie, ces extraits deviennent des éléments de preuve adoptés par la partie qui en fait la lecture [15] . Le juge du procès n'est pas lié par ces extraits : il peut tenir compte de l'ensemble des éléments de preuve pour décider de la façon d'utiliser les extraits.
+[54] Le paragraphe 100(4) des Règles permet à la partie qui consigne comme élément de sa preuve un extrait d'une déposition recueillie à l'interrogatoire préalable d'une partie opposée de le réfuter en présentant une autre preuve admissible. Cela soulève la question de savoir pourquoi une partie présenterait des extraits à la Cour avec l'intention de réfuter ses propres éléments de preuve. On pourrait penser que les règles s'appliquant aux contre‑interrogatoires permettent de réfuter beaucoup plus efficacement la crédibilité d'une partie en utilisant des documents obtenus lors de l'interrogatoire préalable.
+[55] Les extraits ne favorisent pas la thèse de l'intimée. Ils appuient en fait celle de M. Streifel suivant laquelle en tant qu'âme dirigeante de l'appelante, il avait des connaissances limitées des avantages de la structure de planification et que selon lui, l'appelante n'a pas mis la structure en place dans le but d'avoir droit à la DAPE.
+D. Le témoignage de Lloyd Streifel
+[56] L'interrogatoire principal de Lloyd Streifel a été assez bref. Il a déclaré qu'il ne savait pas, au moment où il avait accepté de prendre part à la réorganisation, que l'un des résultats était que SCL aurait droit à la DAPE. M. Streifel a nié que l'un des principaux motifs de la création des nouvelles sociétés lors de la restructuration était le droit à la DAPE. Il a alors dressé une liste des motifs justifiant la réorganisation et, par conséquent, la création des sociétés du deuxième palier [16] .
+[57] Malgré le fait qu'elle ait contesté le témoignage de M. Streifel lors de ses observations finales, l'intimée a choisi de ne pas le contre‑interroger. Ce choix exige une certaine analyse pour pouvoir déterminer ses conséquences.
+[58] En règle générale, si un témoin n'est pas contre‑interrogé, sa crédibilité ne peut pas être mise en doute. Comme l'a énoncé la décision Browne v. Dunn dans un passage souvent cité :
+[TRADUCTION]
+[...] on ne peut mettre en doute la crédibilité d'un témoin à l'égard d'un point qu'il n'a pas eu la possibilité d'expliquer parce qu'à aucun moment de l'instance on n'a donné à penser qu'on n'acceptait pas sa version des faits [17] .
+[59] La règle n'est cependant pas absolue, comme l'a soutenu la Cour suprême du Canada :
+À mon avis l'effet à donner à l'absence de contre‑interrogatoire ou à sa brièveté dépend des circonstances de chaque affaire. Il ne peut y avoir de règle générale ou absolue. C'est une question de poids à être tranchée par le juge des faits [...] [18] .
+[60] En l'espèce, compte tenu de la cotisation en cause et des actes de procédure, je n'estime pas que cette omission porte un coup fatal à la cause de l'intimée.
+[61] Les hypothèses de fait du ministre quant à l'intention de M. Streifel sont les suivantes :
+[TRADUCTION]
+ss) un des principaux motifs de l'existence distincte des sociétés associées et des sociétés mères, y compris l'appelante, consistait à réduire les impôts qui seraient payables par ailleurs en vertu de la Loi en améliorant l'accès à la DAPE;
+[...]
+bbb) même s'il peut avoir existé un autre motif pour l'existence distincte des sociétés associées et des sociétés mères, un des principaux motifs était toujours la réduction de l'impôt en améliorant l'accès à la DAPE [19] .
+[62] Le fardeau de l'appelante, tel qu'il est énoncé dans les déclarations faites par le juge Marceau dans la décision R. c. Covertite Ltd. [20] , est le suivant :
+4 [...] On ne peut accorder aucun poids au seul démenti du contribuable, qu'il soit ou non accompagné par une simple indication des autres causes qui auraient pu prévaloir. N'étant que la simple affirmation d'un fait négatif et d'un fait qui concerne l'état d'esprit du témoin, il ne peut avoir aucune force probante convaincante; il ne peut pas constituer la preuve exigée pour réduire à néant la conclusion du Ministre. Pour avoir gain de cause, le contribuable doit : a) réfuter les faits présumés par le Ministre pour en arriver à sa conclusion; ou b) convaincre la Cour que les déductions tirées par le Ministre des faits présumés étaient déraisonnables ou injustifiées; ou c) ajouter d'autres faits susceptibles de modifier la perception de la situation et de conduire à des déductions différentes aboutissant à la conclusion que les autres motifs allégués ont effectivement été prédominants.
+[63] Comme je l'ai mentionné précédemment, pour accueillir l'appel, j'ai besoin de plus d'éléments de preuve que le témoignage de l'appelante.
+[64] Néanmoins, les éléments de preuve présentés par les témoins au procès ainsi que les documents déposés en preuve lors de leur témoignage m'amènent à conclure que M. Streifel, à titre d'âme dirigeante de l'appelante, n'était ni conscient du droit éventuel à la DAPE ni motivé par cette possibilité. Les deux appelantes ont informé la Cour de l'existence de faits précis, énoncés au paragraphe 7 des présents motifs, soit les événements ayant mené à la création d'une structure de sociétés superposées. Comme il a été mentionné précédemment, dans son témoignage, M. Gaucher a informé la Cour du rôle que jouaient ces structures de sociétés distinctes.
+[65] Les deux appelantes ont démoli les hypothèses du ministre, et je conclus que la réduction de l'impôt n'était pas l'un des principaux motifs de l'existence distincte des sociétés que le ministre a considérées comme étant associées. Les témoignages de MM. Mathison, Frondall et Streifel ont tous appuyé le fait que M. Streifel, et par conséquent SCL, n'avaient pas connaissance de la DAPE. Les témoignages de M. Belsher et de Mme Fox n'étayent pas la thèse de l'intimée.
+[66] Je conclus que M. Streifel, en tant qu'âme dirigeante de SCL, n'était ni informé ni au courant du droit éventuel à la DAPE. Je conclus également que les principaux motifs justifiant le deuxième palier des sociétés créées lors de la restructuration étaient les suivants :
+· obtenir des reports d'impôt d'au plus 25 mois;
+· pouvoir ajouter ou retirer des associés plus facilement, notamment M. Belsher, et M. Mathison dont la retraite était imminente;
+· voir à leurs inquiétudes sur le fait que M. Moody continuait d'être un associé.
+IV. CONCLUSION
+[67] Compte tenu de tout ce qui précède, les deux appels sont accueillis et les cotisations sont annulées.
+V. LES DÉPENS
+[68] Un seul mémoire de frais est adjugé aux appelantes. Les parties ont jusqu'au 30 septembre 2019 pour parvenir à un accord sur les dépens, faute de quoi les appelantes devront déposer des observations écrites sur les dépens au plus tard le 30 octobre 2019, après quoi l'intimée aura jusqu'au 29 novembre 2019 pour déposer sa réponse par écrit. Les observations ne peuvent dépasser dix pages. Si les parties n'informent pas la Cour qu'elles sont parvenues à un accord et qu'il n'y a pas de dépôt d'observations, les dépens seront adjugés à l'appelante selon ce que prévoit le tarif.
+Signé à Ottawa, Canada, ce 26e jour de juillet 2019.
+« R. MacPhee »
+Le juge MacPhee
+ANNEXE A
+[TRADUCTION]
+COUR CANADIENNE DE L'IMPÔT
+2015-3513(IT)G
+COUR CANADIENNE DE L'IMPÔT
+ENTRE :
+PRAIRIELANE HOLDINGS LTD.
+appelante
+et
+SA MAJESTÉ LA REINE
+intimée
+2015-3512(IT)G
+COUR CANADIENNE DE L'IMPÔT
+ENTRE :
+STREIFEL CONSULTING LTD.
+appelante
+et
+SA MAJESTÉ LA REINE
+intimée
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+Par les présentes, les appelantes et l'intimée s'entendent sur la véracité et l'exactitude des faits et énoncés suivants :
+PRAIRIELANE HOLDINGS LTD.
+1. Prairielane Holdings Ltd. (Prairielane) était, pendant toutes les périodes pertinentes, une société par actions constituée en personne morale en vertu de la loi de la Saskatchewan intitulée The Business Corporations Act (Loi sur les sociétés par actions).
+2. Pendant toutes les périodes pertinentes, John Mathison était le seul administrateur et dirigeant de Prairielane. Prairielane était également actionnaire de Prairielane Enterprises Ltd.; un organigramme de ces personnes morales (telles qu'elles existaient au cours des années d'imposition visées par les présents appels) indiquant la possession d'actions entre les sociétés est joint aux présentes à la pièce A.
+3. Aux alentours du 28 mars 2014, un « avis de nouvelle cotisation des sociétés » distinct a été établi par l'Agence du revenu du Canada (l'Agence) à l'encontre de Prairielane pour l'année d'imposition terminée le 30 novembre 2011.
+4. Selon l'avis de nouvelle cotisation pour l'année d'imposition terminée le 30 novembre 2011 établi à l'encontre de Prairielane, le ministre du Revenu national (le ministre) a notamment (i) augmenté de 12 000 $ le montant d'impôt fédéral de la partie I, le faisant passer de 393 758 $ à 405 758 $; (ii) augmenté de 18 227 $ le montant d'impôt provincial de la Saskatchewan net payable, le faisant passer de 261 393 $ à 279 620 $; (iii) établi des intérêts sur arriérés de 3 387,90 $; iv) augmenté de 33 614,90 $ le montant total de l'impôt et des intérêts payables (la nouvelle cotisation de Prairielane pour 2011).
+5. En réponse à la nouvelle cotisation de Prairielane pour 2011, un avis d'opposition a été signifié au ministre.
+6. Le ministre a ratifié la nouvelle cotisation de Prairielane pour 2011 par voie d'avis de ratification le 31 mars 2015.
+STREIFEL CONSULTING LTD.
+7. Streifel Consulting Ltd. (Streifel) était, pendant toutes les périodes pertinentes, une société par actions constituée en personne morale en vertu de la loi de la Saskatchewan intitulée The Business Corporations Act (Loi sur les sociétés par actions).
+8. Pendant toutes les périodes pertinentes, Lloyd Streifel était le seul administrateur et dirigeant de Streifel. Streifel était également actionnaire de Streifel Enterprises Ltd.; un organigramme de ces personnes morales (telles qu'elles existaient au cours des années d'imposition visées par les présents appels) est joint aux présentes à la pièce B.
+9. Aux alentours du 28 mars 2014, un « avis de nouvelle cotisation des sociétés » distinct a été établi par l'Agence à l'encontre de Streifel pour les années d'imposition terminées le 31 décembre 2011 et le 31 décembre 2012.
+10. Selon l'avis de nouvelle cotisation pour l'année d'imposition terminée le 31 décembre 2011 établi à l'encontre de Streifel, le ministre a notamment (i) augmenté de 10 410 $ le montant d'impôt fédéral de la partie I, le faisant passer de 19 299 $ à 29 709 $; (ii) augmenté de 15 222 $ le montant d'impôt provincial de la Saskatchewan net payable, le faisant passer de 5 684 $ à 20 906 $; (iii) établi des intérêts sur arriérés de 2 733,88 $ et des intérêts sur remboursement de 1,60 $; iv) augmenté de 28 367,48 $ le montant total de l'impôt et des intérêts payables (la nouvelle cotisation de Streifel pour 2011).
+11. Selon l'avis de nouvelle cotisation pour l'année d'imposition terminée le 31 décembre 2012 établi à l'encontre de Streifel, le ministre a notamment (i) augmenté de 18 355 $ le montant d'impôt fédéral de la partie I, le faisant passer de 54 999 $ à 73 354 $; (ii) augmenté de 45 887 $ le montant d'impôt provincial de la Saskatchewan net payable, le faisant passer de 10 000 $ à 55 887 $; (iii) établi des intérêts sur arriérés et sur acomptes provisionnels de 3 463,31 $ et 508,28 $, respectivement; iv) augmenté de 68 213,59 $ le montant total de l'impôt et des intérêts payables (la nouvelle cotisation de Streifel pour 2012).
+12. En réponse à la nouvelle cotisation de Streifel pour 2011 et à la nouvelle cotisation de Streifel pour 2012, un avis d'opposition a été signifié au ministre.
+13. Le ministre a ratifié la nouvelle cotisation de Streifel pour 2011 et la nouvelle cotisation de Streifel pour 2012 par voie d'avis de ratification le 31 mars 2015.
+GÉNÉRALITÉS
+Portée de l'appel
+14. Un organigramme de la société de personnes dénommée « Moody's Equipment » (la société de personnes) est reproduit à la pièce C.
+15. Outre Streifel et Prairielane, de nombreuses personnes morales faisant partie de la société de personnes ont déposé des avis d'appel auprès de la Cour. Un résumé des nouvelles cotisations établies par l'Agence (y compris l'impôt fédéral, l'impôt provincial et les intérêts sur arriérés contestés) à l'encontre de ces personnes morales est reproduit à la pièce D.
+16. Conformément à l'ordonnance du juge Guy Smith du 27 septembre 2018, les appels interjetés par les autres personnes morales indiquées à la pièce D ont fait l'objet d'une suspension d'instance temporaire jusqu'à ce qu'une décision définitive soit rendue dans le cas des appels de Streifel et de Prairielane.
+L'entreprise de Moody's Equipment
+17. La société de personnes exploitait une entreprise de vente de machinerie agricole de New Holland. Elle vendait des pièces de matériel agricole, fournissait des services et fournissait du matériel de construction (l'entreprise).
+18. L'entreprise était exploitée antérieurement par Moody's Equipment Ltd. (MEL). MEL a été constituée en société le 23 novembre 2000 en vertu des lois de la Saskatchewan.
+19. Les actionnaires de MEL du 1er janvier 2001 au 1er janvier 2008 inclusivement sont ceux indiqués à la pièce E des présentes.
+20. Le 31 décembre 2008, les actionnaires de MEL étaient les suivants : Prairielane (participation de 51 %), D.E.M. Holdings Inc. (participation de 28,5 %), Thomas Moody, Richard Shyluk, Wes Garner, Don Clark et Lloyd Streifel (participations respectives de 4,08 %).
+La restructuration
+21. En 2009, MEL a fait l'objet d'une restructuration importante.
+22. Lors de la restructuration :
+a. Thomas Moody, Richard Shyluk, Wes Garner, Don Clark et Lloyd Streifel ont constitué une société en vue d'effectuer un transfert libre d'impôt de leurs actions de MEL en application de l'article 85 de la Loi de l'impôt sur le revenu du Canada (la Loi);
+b. conformément aux conventions d'achat d'actions selon l'article 85 (toutes du 30 avril 2009), les transferts d'actions suivants ont été effectués :
+Actionnaire initial
+Actions de MEL transférées à
+Thomas Moody
+KLGM Consulting Ltd.
+Donald Clark
+DNA Ag Consulting Ltd.
+Richard Shyluk
+RSLA Consulting Ltd.
+Wesley Garner
+2R Consulting Ltd.
+Lloyd Streifel
+Streifel Consulting Ltd.
+c. Prairielane a vendu certaines de ses actions de MEL à BJM Consulting Ltd. suivant une convention d'achat d'actions en application de l'article 85 (également le 30 avril 2009);
+d. Belsher Equipment Ltd. a souscrit des actions de MEL le 30 avril 2009.
+23. Le 30 avril 2009, les actionnaires de MEL étaient les suivants : Prairielane, Belsher Equipment Ltd., KLGM Consulting Ltd., DNA Consulting Ltd., RSLA Consulting Ltd., 2R Consulting Ltd., Streifel, BJM Consulting Ltd. et D.E.M. Holdings Inc.
+24. Aux alentours du 30 avril 2009, les sociétés suivantes sont devenues actionnaires des filiales suivantes (dont la fin d'exercice était le 30 avril) :
+Dirigeant
+Société associée
+Société mère
+John Mathison
+Prairielane Enterprises Ltd.
+Prairielane Holdings Ltd.
+Richard Shyluk
+RSLA Enterprises Ltd.
+RSLA Consulting Ltd.
+Thomas Moody
+KLGM Enterprises Ltd.
+KLGM Consulting Ltd.
+Dale Belsher
+D.W. Belsher Enterprises Ltd.
+Belsher Equipment Ltd.
+Wesley Garner
+2R Enterprises Ltd.
+2R Consulting Ltd.
+Donald Clark
+DNA Ag Enterprises Ltd.
+DNA Ag Consulting Ltd.
+Lloyd Streifel
+Streifel Enterprises Ltd.
+Streifel Consulting Ltd.
+Brent Mathison
+BJM Enterprises Ltd.
+BJM Consulting Ltd.
+(ci‑après désignées les « sociétés associées »)
+(ci‑après désignées les « sociétés de conseils »)
+25. La société de personnes a été constituée le 30 avril 2009 conformément à un contrat de société de personnes du 30 avril 2009 (le contrat de société de personnes). Pendant toutes les périodes pertinentes aux présents appels, l'exercice de la société de personnes prenait fin le 1er mai.
+26. Conformément au contrat de société de personnes, le revenu provenant de la société de personnes est réparti tous les ans. La première répartition est fondée sur les apports en capital, la deuxième, sur le rendement de chaque associé, et le revenu restant est réparti selon la participation de chaque associé. La participation initiale de chaque société était la suivante :
+Société associée
+Participation
+Prairielane Enterprises Ltd.
+61,5 %
+RSLA Enterprises Ltd.
+5,5 %
+KLGM Enterprises Ltd.
+5,5 %
+D.W. Belsher Enterprises Ltd.
+5,5 %
+2R Enterprises Ltd.
+5,5 %
+DNA Ag Enterprises Ltd.
+5,5 %
+Streifel Enterprises Ltd.
+5,5 %
+BJM Enterprises Ltd.
+5,5 %
+27. Le 30 avril 2009, chaque société associée a conclu une entente de conseils avec sa société de conseils respective, selon laquelle la société de conseils convenait de fournir les services de ses employés à la société de personnes pour le compte de sa société associée.
+FAIT à Saskatoon (Saskatchewan), ce 8e jour d'avril 2019
+STEVENSON HOOD THORNTON BEAUBIER LLP
+Par : « Amanda S.A. Doucette »
+Beaty F. Beaubier et Amanda S.A. Doucette
+Avocats des appelantes
+PRAIRIELANE HOLDINGS LTD. et STREIFEL CONSULTING LTD.
+FAIT à Saskatoon (Saskatchewan), ce 8e jour d'avril 2019
+LE PROCUREUR GÉNÉRAL DU CANADA
+Par : « John Krowina »
+John Krowina
+Procureur de l'intimée, Sa Majesté la Reine
+Le présent document a été déposé par voie électronique par STEVENSON HOOD THORNTON BEAUBIER LLP, avocats, bureau 500, Tour Princeton, 123, 2e Avenue Sud, Saskatoon (Saskatchewan) S7K 7E6; adresse aux fins de signification : même que celle indiquée ci‑dessus; avocat chargé du dossier : Beaty F. Beaubier / Amanda S.A. Doucette (dossier no 355.347); téléphone : (306) 244‑0132; télécopieur : (306) 653‑1118.
+S:\&CORPORATE\Moody's Equipment\Tax Matters\Tax Court of Canada\Hearing\Partial Agreement as to Facts v2.doc
+PIÈCE A
+[TRADUCTION]
+Prairielane Holdings Ltd. c. Sa Majesté la Reine : 2015-3513(IT)G
+Streifel Consulting Ltd. c. Sa Majesté la Reine : 2015-3512(IT)G
+Organigramme des personnes morales de John Mathison
+(pour les exercices terminés le 30 novembre 2011 et le 30 novembre 2012)
+10 actions ordinaires de catégorie A avec droit de vote
+10 actions ordinaires de catégorie A avec droit de vote
+100 actions ordinaires de catégorie B sans droit de vote
+100 actions ordinaires de catégorie B sans droit de vote
+100 actions ordinaires de catégorie A avec droit de vote
+100 actions ordinaires de catégorie A avec droit de vote
+100 actions ordinaires de catégorie C sans droit de vote
+100 actions ordinaires de catégorie C sans droit de vote
+PRAIRIELANE ENTERPRISES LTD.
+PRAIRIELANE ENTERPRISES LTD.
+PRAIRIELANE HOLDINGS LTD.
+PRAIRIELANE HOLDINGS LTD.
+RITA MATHISON
+RITA MATHISON
+JOHN MATHISON
+JOHN MATHISON
+S:\&CORPORATE\Moody's Equipment\Tax Matters\Tax Court of Canada\Hearing\Diagrams\John Mathison Corporate Chart.pub
+PIÈCE B
+[TRADUCTION]
+Prairielane Holdings Ltd. c. Sa Majesté la Reine : 2015-3513(IT)G
+Streifel Consulting Ltd. c. Sa Majesté la Reine : 2015-3512(IT)G
+Organigramme des personnes morales de Lloyd Streifel
+(pour les exercices terminés le 31 décembre 2011 et le 31 décembre 2012)
+100 actions ordinaires de catégorie B sans droit de vote
+100 actions ordinaires de catégorie B sans droit de vote
+10 actions ordinaires de catégorie A avec droit de vote
+10 actions ordinaires de catégorie A avec droit de vote
+100 000 actions privilégiées de catégorie D sans droit de vote
+100 actions privilégiées de catégorie E avec droit de vote
+100 000 actions privilégiées de catégorie D sans droit de vote
+100 actions privilégiées de catégorie E avec droit de vote
+STREIFEL FAMILY TRUST
+STREIFEL FAMILY TRUST
+100 actions ordinaires de catégorie B sans droit de vote
+100 actions ordinaires de catégorie B sans droit de vote
+LLOYD STREIFEL
+LLOYD STREIFEL
+STREIFEL ENTREPRISES LTD.
+STREIFEL ENTREPRISES LTD.
+STREIFEL CONSULTING LTD.
+STREIFEL CONSULTING LTD.
+S:\&CORPORATE\Moody's Equipment\Tax Matters\Tax Court of Canada\Hearing\Diagrams\Llyod Streifel Corporate Chart.pub
+PIÈCE C
+[TRADUCTION]
+KLGM Enterprises Ltd.
+KLGM Enterprises Ltd.
+KLGM Consulting Ltd.
+KLGM Consulting Ltd.
+RSLA Enterprises Ltd.
+RSLA Enterprises Ltd.
+RSLA Consulting Ltd.
+RSLA Consulting Ltd.
+Prairielane Enterprises Ltd.1
+Prairielane Enterprises Ltd.1
+Prairielane Holdings Ltd.
+Prairielane Holdings Ltd.
+BJM Consulting Ltd.
+BJM Consulting Ltd.
+Streifel Enterprises Ltd.
+Streifel Enterprises Ltd.
+Streifel Consulting Ltd.
+Streifel Consulting Ltd.
+DNA AG Consulting Ltd.
+DNA AG Consulting Ltd.
+DNA AG Enterprises Ltd.
+DNA AG Enterprises Ltd.
+BJM Enterprises Ltd.
+BJM Enterprises Ltd.
+2R Consulting Ltd.
+2R Consulting Ltd.
+2R Enterprises Ltd.
+2R Enterprises Ltd.
+Moody’s Equipment
+(une société de personnes)
+Moody’s Equipment
+(une société de personnes)
+Moody’s Equipment Ltd.3
+Moody’s Equipment Ltd.3
+D.W. Belsher Enterprises Ltd.2
+D.W. Belsher Enterprises Ltd.2
+Belsher Equipment Ltd.
+Belsher Equipment Ltd.
+D.W. Belsher Holdings Ltd.
+D.W. Belsher Holdings Ltd.
+Thomas Moody
+Thomas Moody
+Wesley Garner
+Wesley Garner
+Donald Clark
+Donald Clark
+John Mathison
+John Mathison
+Richard Shyluk
+Richard Shyluk
+Lloyd Streifel
+Lloyd Streifel
+Brent Mathison
+Brent Mathison
+Dale Belsher
+Dale Belsher
+1. Au cours de l'exercice terminé le 30 novembre 2012, Prairielane Enterprises Ltd. s'est départie de sa participation dans la société de personnes Moody's Equipment. Prairielane Enterprises Ltd. n'a pas interjeté appel devant la Cour canadienne de l'impôt relativement à l'exercice terminé le 30 novembre 2012.
+2. Au cours de l'exercice terminé le 31 décembre 2012, certaines sociétés associées, à savoir KLGM Enterprises Ltd., RSLA Enterprises Ltd., 2R Enterprises Ltd., Streifel Enterprises Ltd., DNA Ag Enterprises Ltd. et BJM Enterprises Ltd., ont acquis les actions de D.W. Belsher Enterprises Ltd. D.W. Belsher Holdings Ltd., Belsher Equipment Ltd. et D.W. Belsher Enterprises Ltd. n'ont pas interjeté appel à la Cour canadienne de l'impôt.
+3. Au cours de l'exercice terminé le 31 décembre 2012, la société de personnes a racheté la participation de Moody's Equipment Ltd., qui a cessé d'être une associée de la société de personnes. Moody's Equipment Ltd. n'a pas interjeté appel à la Cour canadienne de l'impôt.
+PIÈCE D
+[TRADUCTION]
+Dénomination de la personne morale
+Années d'imposition visées
+Réduction de la déduction accordée aux petites entreprises
+Impôt initial de la partie I
+Impôt de la partie I selon la nouvelle cotisation
+Impôt fédéral en litige
+Impôt provincial en litige
+Intérêts en litige
+Pénalités en litige
+Montant total en litige
+KLGM Consulting Ltd.
+(Thomas Moody)
+31 déc. 2011
+31 déc. 2012
+5 141 $
+78 350 $
+5 107 $
+55 000 $
+6 770 $
+73 435 $
+1 663 $
+18 435 $
+2 649 $
+46 088 $
+400,78 $
+3 531,35 $
+-
+-
+4 712,78 $
+68 054,35 $
+Prairielane Holdings Ltd.
+(John Mathison)
+30 nov. 2011
+36 250 $
+393 758 $
+405 758 $
+12 000 $
+18 227 $
+3 387,90 $
+-
+33 614,90 $
+RSLA Consulting Ltd.
+(Richard Shyluk)
+31 déc. 2011
+31 déc. 2012
+4 852 $
+79 310 $
+4 788 $
+55 000 $
+6 358 $
+73 661 $
+1 570 $
+18 661 $
+2 500 $
+46 652 $
+404,53 $
+3 524,02 $
+-
+-
+4 474,53 $
+68 837,02 $
+2R Consulting Ltd.
+(Wesley Garner)
+31 déc. 2011
+31 déc. 2012
+8 954 $
+79 063 $
+7 500 $
+54 999 $
+11 408 $
+76 529 $
+3 908 $
+21 530 $
+5 349 $
+48 849 $
+994,05 $
+3 971,47 $
+-
+-
+10 251,05 $
+74 350,47 $
+BJM Consulting Ltd.
+(Brent Mathison)
+31 déc. 2011
+31 déc. 2012
+24 538 $
+80 509 $
+18 525 $
+55 000 $
+26 841 $
+73 942 $
+8 316 $
+18 942 $
+12 919 $
+47 358 $
+2 280,27 $
+4 115,20 $
+-
+72,34 $
+23 515,27 $
+70 487,54 $
+Streifel Consulting Ltd.
+(Lloyd Streifel)
+31 déc. 2011
+31 déc. 2012
+27 321 $
+78 009 $
+19 299 $
+54 999 $
+29 709 $
+73 354 $
+10 410 $
+18 355 $
+15 222 $
+45 887 $
+2 735,48 $
+3 971,59 $
+-
+-
+28 367,48 $
+68 213,59 $
+DNA AG Consulting Ltd.
+(Donald Clark)
+31 déc. 2011
+31 déc. 2012
+9 600 $
+77 847 $
+8 172 $
+55 000 $
+11 278 $
+73 317 $
+3 106 $
+18 317 $
+4 947 $
+45 792 $
+1 234,14 $
+3 153,45 $
+-
+-
+9 287,14 $
+67 262,45 $
+PIÈCE E
+[TRADUCTION]
+En début de journée le 1er janvier 2001, les actionnaires de Moody's Equipment Ltd. étaient les suivants :
+Actionnaire
+Catégorie
+Nombre
+Acquis de
+Date d'émission
+Valeur
+Unity Farm Power (1991)
+A
+200 000 A-1
+Capital-actions
+1er janvier 2001
+100 %
+Unity Farm Power (1991)
+B
+199 999 B-1
+Capital-actions
+1er janvier 2001
+Unity Farm Power (1991)
+E
+200 000 E-1
+Capital-actions
+1er janvier 2001
+Unity Farm Power (1991) était une société de personnes dont les associés étaient 552770 Saskatchewan Ltd., dont le dirigeant était T. Burke Moody, et DEM Holdings Inc., dont le dirigeant était Darrel Moody.
+En fin de journée le 1er janvier 2001, les actionnaires de Moody's Equipment Ltd. étaient les suivants :
+Actionnaire
+Catégorie
+Nombre
+Acquis de
+Date d'émission
+Valeur
+DEM Holdings Ltd.
+A
+100 000 A-2
+Unity Farm Power (1991)
+1er janvier 2001
+50 %
+552770
+Saskatchewan Ltd.
+A
+100 000 A-3
+Unity Farm Power (1991)
+1er janvier 2001
+50 %
+Saskatoon Farm Equipment
+B
+199 999 B-2
+Unity Farm Power (1991)
+1er janvier 2001
+Saskatoon Farm Equipment
+E
+200 000 E-2
+Unity Farm Power (1991)
+1er janvier 2001
+Saskatoon Farm Equipment était une société de personnes dont les associés étaient 552770 Saskatchewan Ltd. (T. Burke Moody), 552771 Saskatchewan Ltd. (Patrick Moody), et DEM Holdings Ltd. (Darrel Moody).
+L'appelante a demandé des renseignements à MLT LLP, et il semblerait que les actions de catégorie B et E aient été rachetées par Moody's Equipment Ltd. le 2 janvier 2001 et qu'elles aient été annulées par la suite.
+Le 2 janvier 2001, les actionnaires de Moody's Equipment Ltd. étaient les suivants :
+Actionnaire
+Catégorie
+Nombre
+Acquis de
+Date d'émission
+Valeur
+Saskatoon Farm Equipment
+A
+441 945 A-4
+Capital-actions
+2 janvier 2001
+26,70 %
+Moody's Implements
+A
+1 013 325 A-5
+Capital-actions
+2 janvier 2001
+61,22 %
+DEM Holdings Inc.
+A
+100 000 A-2
+Unity Farm Power (1991)
+1er janvier 2001
+6,04 %
+552770 Saskatchewan Ltd.
+A
+100 000 A-3
+Unity Farm Power (1991)
+1er janvier 2001
+Moody's Implements était une société de personnes dont les associés étaient 552770 Saskatchewan Ltd., DEM Holdings Ltd. et 552771 Saskatchewan Ltd.
+Le 2 mars 2001, les actionnaires de Moody's Equipment Ltd. étaient les suivants :
+Actionnaire
+Catégorie
+Nombre
+Acquis de
+Date d'émission
+Valeur
+DEM Holdings Inc.
+A
+100 000 A-2
+Unity Farm Power (1991)
+1er janvier 2001
+DEM Holdings Inc.
+A
+147 315 A-9
+Saskatoon Farm Equipment
+2 mars 2001
+DEM Holdings Inc.
+A
+337 775 A-12
+Moody's Implements
+2 mars 2001
+Total
+585 090
+35,35 %
+552770
+Saskatchewan Ltd.
+A
+100 000 A-3
+Unity Farm Power
+1er janvier 2001
+552770
+Saskatchewan Ltd.
+A
+147 315 A-7
+Saskatoon Farm Equipment
+2 mars 2001
+552770
+Saskatchewan Ltd.
+A
+337 775 A-10
+Moody's Implements
+2 mars 2001
+Total
+585 090
+35,35 %
+552771
+Saskatchewan Ltd.
+A
+147 315 A-8
+Saskatoon Farm Equipment
+2 mars 2001
+552771
+Saskatchewan Ltd.
+A
+337 775 A-11
+Moody's Implements
+2 mars 2001
+Total
+485 090
+29,30 %
+Nombre total d'actions
+1 655 270
+Le 4 mars 2001, les actionnaires de Moody's Equipment Ltd. étaient les suivants :
+Actionnaire
+Catégorie
+Nombre
+Acquis de
+Date d'émission
+Valeur
+Prairielane Holdings Ltd.
+A
+389 535 A-6
+Capital-actions
+4 mars 2001
+19,05 %
+DEM Holdings Inc.
+A
+100 000 A-2
+Unity Farm Power (1991)
+1er janvier 2001
+DEM Holdings Inc.
+A
+147 315 A-9
+Saskatoon Farm Equipment
+2 mars 2001
+DEM Holdings Inc.
+A
+337 775 A-12
+Moody's Implements
+2 mars 2001
+Total
+585 090
+28,61 %
+552770 Saskatchewan Ltd.
+A
+100 000 A-3
+Unity Farm Power
+1er janvier 2001
+552770 Saskatchewan Ltd.
+A
+147 315 A-7
+Saskatoon Farm Equipment
+2 mars 2001
+552770 Saskatchewan Ltd.
+A
+337 775 actions ordinaires de catégorie A
+Moody's Implements
+2 mars 2001
+Total
+585 090
+28,61 %
+552771 Saskatchewan Ltd.
+A
+147 315 A-8
+Saskatoon Farm Equipment
+2 mars 2001
+552771 Saskatchewan Ltd.
+A
+337 775 A-11
+Moody's Implements
+2 mars 2001
+Total
+485 090
+23,73 %
+Nombre total d'actions
+2 044 625
+Le 1er juin 2004, les actionnaires de Moody's Equipment Ltd. étaient les suivants :
+Actionnaire
+Catégorie
+Nombre
+Acquis de
+Date d'émission
+Valeur
+Prairielane Holdings Ltd.
+A
+389 535 A-6
+Capital-actions
+4 mars 2001
+Prairielane Holdings Ltd.
+A
+485 090 A-13
+552771 Saskatchewan Ltd.
+1er juin 2004
+Total
+874 625
+42,78 %
+DEM Holdings Inc.
+A
+100 000 A-2
+Unity Farm Power (1991)
+1er janvier 2001
+DEM Holdings Inc.
+A
+147 315 A-9
+Saskatoon Farm Equipment
+2 mars 2001
+DEM Holdings Inc.
+A
+337 775 A-12
+Moody's Implements
+2 mars 2001
+Total
+585 090
+28,61 %
+552770 Saskatchewan Ltd.
+A
+100 000 A-3
+Unity Farm Power
+1er janvier 2001
+552770 Saskatchewan Ltd.
+A
+147 315 A-7
+Saskatoon Farm Equipment
+2 mars 2001
+552770 Saskatchewan Ltd.
+A
+337 775 actions ordinaires de catégorie A
+Moody's Implements
+2 mars 2001
+Total
+585 090
+28,61 %
+Nombre total d'actions
+2 044 805
+Le 1er janvier 2008, les actionnaires de Moody's Equipment Ltd. étaient les suivants :
+Actionnaire
+Catégorie
+Nombre
+Acquis de
+Date d'émission
+Valeur
+Prairielane Holdings Ltd.
+A
+389 535 A-6
+Capital-actions
+4 mars 2001
+Prairielane Holdings Ltd.
+A
+485 090 A-13
+552771 Saskatchewan Ltd.
+1er juin 2004
+Prairielane Holdings Ltd.
+A
+168 225 actions ordinaires de catégorie A – A-14
+552770 Saskatchewan Ltd.
+1er janvier 2008
+Total
+1 042 850
+51 %
+DEM Holdings Inc.
+A
+100 000 A-2
+Unity Farm Power (1991)
+1er janvier 2001
+DEM Holdings Inc.
+A
+147 315 A-19
+Saskatoon Farm Equipment
+2 mars 2001
+DEM Holdings Inc.
+A
+337 775 A-12
+Moody's Implements
+2 mars 2001
+Total
+585 090
+28,61 %
+Wesley Garner
+A
+83 373 A-15
+552770 Saskatchewan Ltd.
+1er janvier 2008
+4,08 %
+Richard Shyluk
+A
+83 373 A-16
+552770 Saskatchewan Ltd.
+1er janvier 2008
+4,08 %
+Lloyd Streifel
+A
+83 373 A-17
+552770 Saskatchewan Ltd.
+1er janvier 2008
+4,08 %
+Donald Clark
+A
+83 373 A-18
+552770 Saskatchewan Ltd.
+1er janvier 2008
+4,08 %
+Thomas Moody
+A
+83 373 A-19
+552770 Saskatchewan Ltd.
+1er janvier 2008
+4,08 %
+Total
+2 044 805
+RÉFÉRENCE :
+2019 CCI 157
+Nos DES DOSSIERS DE LA COUR :
+2015-3513(IT)G, 2015-3512(IT)G
+INTITULÉS :
+PRAIRIELANE HOLDINGS LTD. c. SA MAJESTÉ LA REINE
+et
+STREIFEL CONSULTING LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Saskatoon (Saskatchewan)
+DATE DE L'AUDIENCE :
+Les 15, 16, 17 et 18 avril 2019
+MOTIFS DU JUGEMENT :
+L'honorable juge Ronald MacPhee
+DATE DU JUGEMENT :
+Le 26 juillet 2019
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Amanda S.A. Doucette
+Me Beaty F. Beaubier
+Avocat de l'intimée :
+Me John Krowina
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+[BLANK]
+Cabinet :
+[BLANK]
+Pour l'intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. 1 (5e supplément), en sa version modifiée.
+[2] Maintenance Euréka ltée c. La Reine, 2011 CCI 307, au paragraphe 24.
+[3] R. c. Wu, 1997 CanLII 5805 (C.A.F.), au paragraphe 6.
+[4] OSFC Holdings Ltd. c. Canada, 2001 CAF 260, [2002] 2 C.F. 288.
+[5] Gerbro Holdings Company c. La Reine, 2016 CCI 173, conf. par 2018 CAF 197.
+[6] Jencal Holdings Ltd. c. La Reine, 2019 CCI 16, aux paragraphes 26 et 27.
+[7] McAllister Drilling Ltd. c. La Reine, [1994] A.C.F. no 788 (QL) (C.F. 1re inst.), au paragraphe 9, Brownco Inc. c. La Reine, 2008 CCI 58, au paragraphe 84, et Taber Solids Control (1998) Ltd. c. La Reine, 2009 CCI 527, aux paragraphes 4 et 18.
+[8] 79 D.T.C. 5292, no T‑739‑74, 19 juillet 1979 (C.F. 1re inst.).
+[9] [1978] A.C.F. no 1020 (QL) (C.A.F.).
+[10] Précité.
+[11] Pour parvenir à cette conclusion, le témoignage de Janice Fox a été particulièrement utile.
+[12] Transcription, 17 avril 2019, volume 3, page 15, lignes 4 à 6.
+[13] Transcription, 17 avril 2019, volume 3, page 20, lignes 12 à 20.
+[14] DORS/90-688a.
+[15] Mackow v. Sood (1993), 18 C.P.C. (3d) 371 (C.A. Alb.), au paragraphe 17.
+[16] Je conviens que les motifs de l'existence des sociétés du deuxième palier sont ceux énoncés au paragraphe 39 des présents motifs.
+[17] (1893), 6 R. 67 (Ch. des lords), à la page 71, décision rendue par le lord chancelier Herschell.
+[18] Palmer c. La Reine, [1980] 1 R.C.S. 759, à la page 781, raisonnement suivi dans R. c. Lyttle, [2004] 1 R.C.S. 193, au paragraphe 65, et dans McKesson Canada Corporation c. La Reine, 2013 CCI 404, au paragraphe 135.
+[19] Réponse à l'avis d'appel, dossier no 2015‑3513(IT)G.
+[20] [1981] A.C.F. no 928 (QL) (C.F. 1re inst.).

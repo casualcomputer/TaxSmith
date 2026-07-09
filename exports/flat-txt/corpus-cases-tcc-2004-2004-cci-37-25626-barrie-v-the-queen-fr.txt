@@ -1,0 +1,176 @@
+Title: Barrie v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25626/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-37-25626-barrie-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-01-09
+
+# Barrie v. The Queen
+
+- Citation: 2004 CCI 37
+- Decision date: 2004-01-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2432, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barrie v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-09
+Référence neutre
+2004 CCI 37
+Numéro de dossier
+2001-3472(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-3472(IT)G
+ENTRE :
+KEVIN BARRIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 3 décembre 2003 à Toronto (Ontario)
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me James Rhodes
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997, 1998 et 1999 sont rejetés, avec dépens, s'ils sont demandés.
+Signé à Ottawa, Canada, ce 9e jour de janvier 2004.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 13e jour d'avril 2004.
+Liette Girard, traductrice
+Référence : 2004CCI37
+Date : 20040109
+Dossier : 2001-3472(IT)G
+ENTRE :
+KEVIN BARRIE,
+appelant,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Kevin Barrie a interjeté appel à l'encontre des cotisations fiscales établies pour les années 1997, 1998 et 1999 dans lesquelles on lui a refusé sa demande de déduction, pour chaque année, d'une perte déductible au titre d'un placement d'entreprise ( « PDTPE » ) au sens de l'alinéa 38c) de la Loi de l'impôt sur le revenu[1](la « Loi » ). M. Barrie n'a pas eu recours aux services d'un avocat.
+The Sound
+[2] M. Barrie a prêté des sommes s'élevant à 13 600 $ à 1171615 Ontario Inc. ( « 117 Inc. » ) durant les années 1996 et 1997. Au procès, il a soumis huit documents, chacun intitulé [traduction] « Entente d'investissement » , qui étaient censés attester de ces prêts. Dans chaque document, 117 Inc. accepte de payer un capital [traduction] « plus 10 p. 100 [...] » au plus tard à une certaine date. Les huit prêts présumés ont été effectués en argent, selon M. Barrie. Le tableau suivant décrit les dates auxquelles les documents ont été signés, les montants empruntés, les montants du remboursement et les dates où les montants globaux du prêt et des intérêts étaient payables :
+Date de l'entente
+Montant avancé
+Montant du remboursement
+Date d'exigibilité
+4 janvier 1996
+1 000 $
+1 100 $
+1er décembre 1996
+8 mars 1996
+1 900 $
+2 090 $
+1er décembre 1996
+28 mars 1996
+1 600 $
+1 760 $
+1er décembre 1996
+29 avril 1996
+3 000 $
+3 300 $
+1er décembre 1996
+7 juin 1996
+3 000 $
+3 300 $
+1er décembre 1996
+23 septembre 1996
+500 $
+550 $
+1er avril 1997
+26 octobre 1996
+1 000 $
+1 100 $
+1er avril 1997
+1er avril 1997
+1 600 $
+1 760 $
+1er avril 1997
+[3] Toutes les actions de 117 Inc. étaient la propriété de Paul Pauzé, qui était l'unique administrateur et dirigeant de la société. 117 Inc. a été constituée en personne morale le 1er avril 1996, selon un certificat de statut produit au procès.
+[4] M. Barrie a été présenté à M. Pauzé par le frère de ce dernier. À un moment, M. Pauzé exploitait un bar et, en 1996, il a amené 117 Inc. à demander un permis d'alcool en espérant exploiter un autre bar qui serait connu sous le nom de « The Sound » . 117 Inc. engageait des dépenses, pour rénover le bar, ainsi que des honoraires d'avocats. M. Barrie a accepté d'avancer des sommes à 117 Inc. à mesure que l'on rénovait le bar. L'audition de la demande de permis de M. Pauzé devant la Commission des permis d'alcool de l'Ontario s'est déroulée le 1er novembre 1996, ou vers cette date, et la demande a été rejetée. Même si le bar n'a jamais ouvert ses portes en tant que tel, il a été utilisé pour une occasion spéciale en vertu d'un permis d'alcool spécial.
+[5] Au moyen d'une lettre datée du 2 juin 1997, M. Barrie a écrit à 117 Inc., à l'attention de Paul Pauzé, pour se plaindre du fait que son prêt n'avait pas encore été remboursé tout en reconnaissant que 117 Inc. éprouvait des [traduction] « difficultés avec la CPAO » . Il a demandé à obtenir un paiement au plus tard le 1er juillet 1997. 117 Inc., au moyen d'une lettre datée du 22 juin 1997, signée par M. Pauzé, a informé M. Barrie de ce qui suit :
+[traduction]
+[...] À ce jour, je n'ai pas obtenu gain de cause et je n'ai plus de ressources pour continuer ma lutte avec la Commission des permis d'alcool de l'Ontario. La société connue comme la 1171615 Ontario Ltd. va donc cesser ses activités[2].
+Je suis réellement désolé pour les inconvénients que cela peut vous causer.
+[6] Le 10 octobre 2001, M. Pauzé, apparemment au nom de 117 Inc., a écrit à M. Barrie pour confirmer un appel téléphonique récent selon lequel la date de remboursement de l'entente d'investissement datée du 1er avril 1997 [traduction] « est le 1er avril 1998 et confirme en outre que le montant du remboursement sera de 1 760 $ » .
+[7] M. Barrie, dans sa déclaration de revenus de 1997, a déduit une perte au titre d'un placement d'entreprise pour l'argent qu'il a avancé à 117 Inc.
+[8] En contre-interrogatoire, M. Barrie a déclaré qu'il [traduction] « croyait » avoir signé chaque entente d'investissement conclue avec 117 Inc. à la date indiquée sur chacune d'elles. Par exemple, il devait [traduction] « dire "oui" » si on lui demandait s'il avait signé l'entente d'investissement du 4 janvier 1996 le 4 janvier.
+[9] Les prêts consentis à 117 Inc. n'étaient pas garantis par M. Pauzé. M. Barrie a indiqué qu'il prévoyait faire saisir les actifs de 117 Inc. pour se faire rembourser. Il a dit qu'il n'avait [traduction] « que faire des avocats » . Il n'a fait aucun effort pour percevoir l'argent avancé à 117 Inc.; il n'allait pas jeter plus d'argent par les fenêtres en allant consulter un avocat. (M. Barrie a eu la même réaction à l'égard des prêts consentis à d'autres sociétés.) Il a déclaré que M. Pauzé avait un autre associé dans 117 Inc. [traduction] « qui a continué à exploiter l'entreprise, alors je ne m'en suis pas occupé » .
+[10] M. Barrie ne savait pas du tout si M. Pauzé avait investi dans 117 Inc. En avançant des fonds à 117 Inc., M. Barrie s'est fié uniquement à la parole de M. Pauzé. Il [traduction] « a connu » M. Pauzé, plus tard en « 1998 peut-être » .
+[11] Pour ce qui est des intérêts sur les prêts, M. Barrie a indiqué qu'il devait recevoir [traduction] « 10 p. 100 par année » . Selon mon interprétation du témoignage de M. Barrie, soit la question de savoir si le prêt a été impayé pendant six ou douze mois, il croit qu'il avait droit à des intérêts équivalant à 10 p. 100 du capital pour chaque avance.
+[12] M. Pauzé a témoigné en tant que témoin pour l'appelant. Il a déclaré que 117 Inc. a utilisé l'argent emprunté auprès de M. Barrie pour faire des rénovations et des modifications au bar et acquérir l'édifice dans lequel le bar proposé devait être situé.
+[13] Selon M. Pauzé, il a abordé M. Barrie pour que ce dernier investisse dans 117 Inc. Il a déclaré que toutes les ententes d'investissement avaient été signées à des époques différentes, soit au moment où chaque avance a été fournie. Il a dit à M. Barrie que s'il obtenait un permis d'alcool, 117 Inc.rembourserait les prêts avant leurs dates d'échéance. M. Pauzé rencontrait M. Barrie à [traduction] « notre domicile ou à la banque » et les ententes « étaient déjà rédigées lorsque nous nous rencontrions » pour les signer. Il semble qu'à chaque occasion, l'épouse de M. Pauzé était présente puisqu'elle a contresigné à titre de témoin chacune des ententes d'investissement. M. Pauzé n'était pas certain de la façon dont l'argent était avancé, soit en liquide, soit par chèque ou traite bancaire.
+[14] M. Pauzé a répondu que M. Barrie n'était pas le seul investisseur malheureux dans 117 Inc. Un certain M. Frank Lee a perdu 200 000 $ dans la transaction, [traduction] « dont une partie » dans 117 Inc.
+[15] M. Pauzé se rappelle que le taux d'intérêt était [traduction] « ce que je pouvais me permettre. Je tentais de démarrer l'entreprise » . À son avis, l'intérêt était de 10 p. 100 par année, [traduction] « mais » il a déclaré qu'il « payait 10 p. 100 pour tout l'argent à la fin de l'année même si c'était moins qu'une année » .
+[16] M. Pauzé a déclaré qu'il ne pouvait expliquer le fait que certaines ententes d'investissement avaient été signées et datées avant la date de constitution en personne morale de 117 Inc. M. Barrie n'a pas tenté non plus de donner une explication.
+Ultimate Golf Accessories
+[17] En 1997, M. Pauzé a une fois encore demandé des fonds auprès de M. Barrie par l'entremise de 1282788 Ontario Ltd. ( « 128 Ltd. » ). 128 Ltd. a été constituée en personne morale le 23 février 1998. M. Pauzé, une fois encore, en était l'unique actionnaire, administrateur et dirigeant. 128 Ltd. concevait un accessoire de golf devant être commercialisé à la grandeur du Canada. La société s'est enregistrée elle-même en vue d'exploiter une entreprise sous le nom de « Ultimate Golf Accessories » . L'accessoire était un support à boisson qui restait toujours à la verticale, empêchant que la boisson se renverse. Selon M. Barrie, M. Pauzé a demandé à une société de Barrie, en Ontario, de concevoir le support, mais il y a eu un problème dans la conception, le moule était défectueux, et la société de Barrie a finalement cessé ses activités. Le support à boisson n'a jamais été commercialisé.
+[18] M. Barrie, un golfeur à l'époque, a aimé l'idée du support à boisson et, au moyen d'une entente d'investissement datée du 24 février 1998, a accepté d'avancer à 128 Ltd. un montant de 10 000 $ à un taux d'intérêt de 9 p. 100. Selon l'entente d'investissement, le [traduction] « rendement des investissements sera versé tous les trimestres à compter de septembre 1998 » . Selon M. Barrie, cela signifiait qu'il recevrait 9 p. 100 du montant de son prêt tous les trimestres, soit un intérêt de 36 p. 100 chaque année. M. Barrie a produit une copie d'une « Demande d'attestation » de la Banque de Nouvelle-Écosse indiquant qu'un montant de 10 000 $ a été payé à 128 Ltd. le 24 février 1998.
+[19] Au moyen d'une lettre datée du 27 décembre 1998, M. Pauzé a informé M. Barrie que 128 Ltd. [traduction] « a cessé ses activités [...] la société ne pourra s'acquitter de ses obligations financières [...]. Nous sommes réellement désolés pour les inconvénients que cela peut vous causer. » Selon cette lettre et les conversations intervenues avec M. Pauzé, M. Barrie a conclu qu'il ne serait pas remboursé. Il a déclaré que la société [traduction] « a fait faillite » . Cependant, 128 Ltd. existe toujours.
+[20] M. Barrie a reconnu qu'il n'a [traduction] « pas fait beaucoup de recherche » au sujet de 128 Ltd. Il a simplement aimé le produit et pensé qu'il aurait du succès.
+[21] M. Barrie a demandé la déduction de la PDTPE dans sa déclaration de revenus de 1998 en ce qui concerne son investissement dans 128 Ltd. Il a indiqué qu'il n'avait jamais reçu d'argent de 117 Inc. ni de M. Pauzé personnellement.
+[22] M. Pauzé n'est pas d'accord avec M. Barrie quant au montant d'intérêt; en ce qui le concerne, le taux était de 9 p. 100 par année ou de 2,25 p. 100 par trimestre, et non de 36 p. 100 par année.
+Georgian Bay Publishing
+[23] Selon M. Barrie, M. Pauzé avait rédigé un livre sur la [traduction] « correction du crédit » , soit la façon dont une personne peut corriger ou rétablir sa cote de crédit personnelle. Cependant, il n'avait pas de [traduction] « transaction de distribution » . M. Barrie a indiqué dans son témoignage que M. Pauzé lui a montré un exemplaire du livre avant 1999 pour l'amener à prêter de l'argent à 1348903 Ontario Inc. ( « 134 Inc. » ) qui serait utilisé pour augmenter le nombre de livres déjà imprimés et pour aider à faire un « suivi » du livre de M. Pauzé. M. Barrie a produit l'exemplaire présumé du livre au procès que lui avait donné M. Pauzé à l'époque, selon l'appelant[3]. Lorsqu'il a avancé les fonds, M. Barrie ne savait pas combien de livres avaient déjà été publiés ou s'ils avaient été envoyés dans les magasins. Il croyait qu'un franchisé Canadian Tire avait reçu des livres en vue de leur vente.
+[24] M. Pauzé a constitué 134 Inc. en personne morale le 7 avril 1999. M. Barrie soutient qu'il a avancé 77 000 $ à 134 Inc. Selon une entente d'investissement datée du 20 avril 1999, M. Barrie a avancé un montant de 40 000 $ à 134 Inc.; [traduction] « [l]e taux d'intérêt pour cet investissement est établi à 9,5 p. 100 » et le « rendement des investissements sera versé tous les trimestres à compter de septembre 1999 » . Le 19 juin 1999, ou vers cette date, selon une autre entente d'investissement portant cette date, il a avancé à 134 Inc. un autre montant de 37 000 $ et [traduction] « le taux d'intérêt pour cet investissement est établi à 10 p. 100 » . De plus, les [traduction] « rendements des investissements » étaient les mêmes que dans l'entente précédente. M. Barrie a indiqué dans son témoignage, qu'à son avis, il recevrait le taux de 10 p. 100 sur les montants de 40 000 $ et de 37 000 $, respectivement, chaque trimestre, ou des intérêts de 40 p. 100 pour chaque prêt par année. M. Pauzé ne souscrivait pas à cette interprétation.
+[25] Des copies d'un talon de reçu de La Banque de Nouvelle-Écosse indiquant qu'un montant de 40 000 $ a été retiré du compte de M. Barrie en faveur de 134 Inc. le 21 avril 1999 et de la traite bancaire correspondante ainsi que le livret du compte bancaire de M. Barrie auprès de La Banque de Nouvelle-Écosse reflétant l'achat de la traite pour un montant de 40 000 $ ont été produits au procès. Un chèque tiré du compte de M. Barrie à la Banque de Montréal, daté du 17 juin 1999, d'un montant de 37 000 $ et payable à « G.B.P. » a également été produit au procès.
+[26] Au moyen d'une lettre datée du 17 juillet 1999, M. Pauzé a informé M. Barrie de ce qui suit :
+[traduction]
+[...] en raison de l'absence de ventes, le premier versement de fonds n'aura pas lieu en septembre 1999 comme il avait été prévu.
+À ce moment-ci, il semble qu'une distribution ne soit possible qu'au début de 2000. Je m'excuse des inconvénients que cela peut vous causer.
+L'en-tête de lettre de M. Pauzé portait la description suivante : [traduction] « GBP, Georgian Bay Publishing, une division de 1348903 Ontario Inc. »
+[27] M. Barrie, lors de l'interrogatoire préalable, a déclaré qu'il n'avait [traduction] « aucune idée » si un produit peut avoir découlé de la vente du livre. Il [traduction] « ne savait pas où l'argent est allé » ni ne connaissait les actifs de 134 Inc. Il ne savait pas si 134 Inc. pouvait avoir investi dans GBP Inc.
+[28] M. Pauzé a expliqué qu'il a constitué deux sociétés en personne morale, soit Georgian Bay Publications Inc., pour s'occuper de la publicité et de la distribution du livre, et 134 Inc., pour écrire le livre, le faire publier et détenir les droits sur ce dernier. Il a déclaré qu'en fait 134 Inc. fabriquait le livre et entamait les négociations quant à la distribution de ce dernier. Il a indiqué dans son témoignage que M. Barrie n'avait pas investi dans GBP Inc. Peu de temps après l'investissement, 134 Inc. a cessé ses activités, a indiqué M. Pauzé dans son témoignage. En fait, 134 Inc. a été dissoute le 30 décembre 1999 parce que M. Pauzé n'avait pas payé les frais de constitution. Le livre est devenu un actif d'une [traduction] « nouvelle société » , GBP Inc., « qui était une coquille vide et qui ne faisait rien » , selon M. Pauzé.
+[29] À l'exception du témoignage de M. Pauzé selon lequel les droits liés au livre ont été transférés à GBP Inc., rien dans la preuve n'indique comment les actifs de 134 Inc., quels qu'ils soient, ont été distribués. Rien dans le témoignage de M. Barrie ne conteste le transfert des droits liés au livre. M. Barrie n'attendait aucun remboursement de ses prêts consentis à 134 Inc., et il a déduit une perte au titre d'un placement d'entreprise de 77 000 $ lors de la production de sa déclaration de revenus de 1999.
+[30] Selon M. Pauzé, le livre a été publié en 1999, à l'origine. Des exemplaires du livre ont été envoyés pour distribution, mais ils n'ont pas été vendus. M. Pauzé a insisté sur le fait que le livre n'était pas disponible au moment où M. Barrie a avancé l'argent à 134 Inc. Ce n'est que durant le processus d'édition qu'il a demandé à M. Barrie d'investir. Il a indiqué qu'il avait probablement fini de rédiger le livre à la fin de 1998 ou au début de 1999 et qu'il l'a ensuite envoyé pour édition. L'exemplaire du livre que M. Barrie a produit indiquait qu'il avait été protégé par le droit d'auteur en 1999. M. Pauzé a déclaré qu'aucun livre n'avait été imprimé au moment où M. Barrie avait consenti son premier ou deuxième prêt.
+Dispositions générales
+[31] M. Barrie a indiqué dans son témoignage qu'il a été partiellement influencé, lorsqu'il a consenti des prêts aux trois sociétés, par les déclarations de M. Pauzé selon lesquelles l'Agence des douanes et du revenu du Canada (l' « ADRC » ) l'avait informé qu'une société serait reconnue comme une société privée sous contrôle canadien et admissible à une perte au titre d'un placement d'entreprise si elle exploitait une entreprise. M. Pauzé a déclaré qu'il avait [traduction] « fait cette déclaration » à plusieurs investisseurs. La possibilité d'obtenir un avantage découlant d'une perte déductible au titre d'un placement d'entreprise a fortement influencé M. Barrie à décider de prêter de l'argent à la société de M. Pauzé.
+[32] Il n'existe aucun dossier financier portant sur les trois sociétés. Il semble qu'aucune déclaration de revenus n'a été produite par 117 Inc., 128 Ltd. ou 134 Inc. Cela, ajouté au témoignage que je peux décrire, de façon charitable, comme confus et incomplet, entraîne certaines difficultés à évaluer, par exemple, la question de savoir si l'une des sociétés était admissible à titre de société exploitant une petite entreprise ou qu'elle exploitait activement une entreprise au sens des paragraphes 248(1) et 125(7), respectivement, de la Loi.
+[33] Je doute de la question de savoir si 117 Inc. était la bénéficiaire des prêts qui lui auraient été consentis. Tout d'abord, les trois premiers prêts ont été consentis avant que 117 Inc. ne soit constituée en personne morale, et ni M. Barrie ni M. Pauzé ne pouvaient expliquer comment cela était possible. Cela donne un tout autre éclairage aux cinq autres prêts, en particulier le dernier, qui a été consenti et qui était dû le 1er avril 1997. La lettre du 10 octobre 2001 de M. Pauzé à M. Barrie corrigeant la date d'échéance au 1er avril 1998 ne m'impressionne pas. Elle a été rédigée longtemps après le fait et après l'émission des nouvelles cotisations pour 1997. Je ne suis pas impressionné par le témoignage de M. Barrie ou de M. Pauzé pour ce qui est de ces prêts. Je ne serais pas surpris de savoir que toutes les ententes d'investissement ont été préparées, signées et contresignées par un témoin en même temps. Mme Pauzé, qui a contresigné les ententes à titre de témoin, n'a pas témoigné.
+[34] Pour ce qui est du prêt accordé à 128 Ltd., la preuve indique que l'argent a été avancé par M. Barrie à cette société. Il semble que le 24 février 1998, M. Barrie a fait certifier par sa banque un chèque de 10 000 $ payable à 128 Ltd. Dans le cours habituel des événements, le montant de 10 000 $ deviendrait un actif de 128 Ltd. Cela se passait huit mois après qu'une autre société de M. Pauzé, 117 Inc., aurait fait défaut de rembourser les prêts de 13 600 $. La question de savoir pourquoi M. Barrie était d'accord pour avancer encore de l'argent à M. Pauzé sans garantie, après avoir été échaudé des mois plus tôt, demeure sans réponse, mais elle n'est pas particulièrement pertinente. Ce que je trouve étrange c'est que M. Barrie s'attendait à un rendement de 36 p. 100 de son investissement.
+[35] Pour ce qui est du prêt consenti à 134 Inc., je ne sais pas du tout si 134 Inc. a utilisé l'argent ou si l'argent a profité à GBP Inc. Selon la preuve, GBP Inc., et non 134 Inc., peut avoir exploité activement une entreprise et s'attendait à tirer un revenu d'une entreprise active. Rien dans la preuve n'indique que le montant de 77 000 $ prêté à 134 Inc. par M. Barrie constituait un actif de 134 Inc. ou a été utilisé dans son entreprise. Je doute du souvenir de M. Pauzé quant à la façon dont l'argent a été dépensé.
+[36] L'avocat de l'intimée a soutenu qu'aucun des prêts consentis, s'il y en a eu, à 117 Inc., à 128 Ltd. et à 134 Inc. n'a été déterminé par M. Barrie être devenu une créance irrécouvrable au cours de l'année où il a déduit la perte découlant d'un prêt particulier et que M. Barrie n'était pas réputé avoir disposé de l'une ou l'autre des dettes conformément au paragraphe 50(1) de la Loi. Il a fait référence à l'affaire Flexi-Coil Ltd. c. La Reine[4]. Dans cette affaire, la Cour d'appel fédérale a souscrit aux conclusions du juge de première instance selon lesquelles les montants que Flexi-Coil considérait comme des créances irrécouvrables étaient trop élevés puisque les montants qui étaient selon lui des créances irrécouvrables ne respectaient pas le critère relatif à ces créances dans tous les cas. Les créances irrécouvrables étaient celles déterminées par le ministre. Au procès, le ministre était d'avis que Flexi-Coil ne pouvait demander de déductions pour certaines parties des créances irrécouvrables parce qu'elle n'avait pas établi que les parties refusées étaient devenues irrécouvrables.
+[37] Dans les présents appels, il est très évident que M. Barrie s'en est totalement remis à M. Pauzé. Il semble s'être fondé sur la lettre de M. Pauzé du 1er juillet 1997 selon laquelle la société [traduction] « cessait ses activités » , même si l'associé de la société dans l'entreprise a continué à exploiter cette dernière. Il ne s'est pas renseigné sur les actifs que pouvait posséder la société ni sur la façon, le cas échéant, dont les actifs ont été distribués. Je reconnais que M. Barrie n'a pas déterminé de façon raisonnable, s'il l'a fait, que les dettes de 117 Inc. étaient devenues irrécouvrables en 1997. Aucun des facteurs résumés par le juge d'appel Rothstein dans l'affaire Rich c. Canada[5] n'a été sérieusement examiné par M. Barrie.
+[38] M. Barrie n'a rien fait de plus, pour déterminer si les dettes de 128 Ltd. et de 134 Inc. étaient devenues irrécouvrables en 1998 et en 1999, respectivement, que ce qu'il a fait pour déterminer si les dettes de 117 Inc. étaient irrécouvrables. Il s'est strictement fondé sur les lettres du 27 décembre 1998 et du 17 juillet 1999 de M. Pauzé et a conclu que les dettes de 128 Ltd. et de 134 Inc., respectivement, étaient devenues irrécouvrables en 1998 et en 1999, respectivement. La lettre du 27 décembre 1998 informait M. Barrie que 128 Ltd. [traduction] « ne pourra s'acquitter de ses obligations financières » , mais il ne s'est pas demandé quelles étaient ces obligations, en dehors de celles à son égard, et s'il y avait des actifs disponibles que les créanciers pouvaient se partager, entre autres enquêtes. La lettre du 17 juillet 1999 n'était pas sans espoir : M. Pauzé l'a informé qu'une [traduction] « distribution n'aura probablement lieu qu'en 2000 » . De toute évidence, cela ne constitue pas l'établissement d'une créance irrécouvrable en 1999 et rien dans la preuve n'indique que d'autres renseignements ont été reçus par M. Barrie plus tard en 1999 démontrant qu'une dette était devenue irrécouvrable cette année-là.
+[39] Il me semble que M. Barrie souhaitait fortement faire établir le plus tôt possible que les dettes étaient irrécouvrables de façon à demander la déduction de la PDTPE dès la première année d'imposition. Les pertes ont toutes été déduites dans l'année de leur création, et elles ont été faites sans égard à la condition financière des emprunteurs. Même après une perte présumée ou initiale pour 117 Inc., M. Barrie a consenti un prêt à une société puis, après une autre perte, à une autre société appartenant en propriété exclusive à M. Pauzé sans garantie ou enquête sur les moyens financiers des prêteurs. Il n'a pas déterminé que les dettes étaient irrécouvrables d'une façon raisonnable et pragmatique commerciale. En ce qui concerne les prêts consentis à 128 Ltd. et à 134 Inc., je doute qu'il ait envisagé les chances, d'un point de vue réaliste, de produire des intérêts sur les prêts. En effet, pour ce que cela vaut, tout l'épisode des prêts aux sociétés de M. Pauzé n'a pas été effectué d'une manière raisonnable et commerciale.
+[40] Même si tous les prêts que M. Barrie soutient avoir consentis aux trois sociétés étaient valides, je ne peux conclure que 117 Inc., 128 Ltd. et 134 Inc. étaient ou non admissibles à titre de société exploitant une petite entreprise; je ne sais pas si presque toute la juste valeur marchande des actifs d'une société a été utilisée dans une entreprise exploitée activement principalement au Canada par la société particulière ou par une société qui y est liée.
+[41] Les appels sont rejetés, avec dépens, s'ils sont demandés.
+Signé à Ottawa, Canada, ce 9e jour de janvier 2004.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 13e jour d'avril 2004.
+Liette Girard, traductrice
+[1] Au début du procès, l'avocat de l'intimée a demandé à modifier des parties de la Réponse à l'avis d'appel. J'ai autorisé les modifications proposées à l'exception de celles touchant les hypothèses de fait originalement invoquées dans la Réponse.
+[2] Le papier à en-tête des ententes d'investissement fait référence à 1171615 Ontario Ltd. Le corps des ententes d'investissement désigne la société comme la 1171516 Ontario Ltd. Cette erreur de chiffre est commune à toutes les ententes d'investissement. Le rapport sur le profil des sociétés préparé par le ministère de la Consommation et du Commerce, Direction des compagnies, province d'Ontario, indique que le nom de la société est 1171615 Ontario Ltd.
+[3] Dans l'exemplaire du livre produit au procès par M. Barrie, on fait référence à « GBP » , « une division de Georgian Bay Publications Inc. » et à GBP Inc. J'ai supposé au départ qu'elles représentaient une seule et même société que j'ai appelée « GBP Inc. » . Cependant, voir les paragraphes 26 et 30 des présents motifs.
+[4] [1995] A.C.I. no 1558 (96 DTC 6350) (C.A.F.).
+[5] [2003] 3 C.F. 493, au paragraphe 13. Le paragraphe 13 résume les facteurs énumérés par le juge d'appel Rothstein :
+1. l'historique et l'âge de la créance;
+2. la situation financière du débiteur, ses revenus et ses dépenses, gagne-t-il un revenu ou essuie-t-il des pertes?, sa trésorerie et son actif, son passif et les liquidités dont il dispose;
+3. l'évolution du chiffre d'affaires total par rapport aux années antérieures;
+4. l'encaisse, les comptes clients et autres disponibilités du débiteur à l'époque pertinente et par rapport aux années antérieures;
+5. les comptes fournisseurs et autres exigibilités du débiteur à l'époque pertinente et par rapport aux années antérieures;
+6. les conditions économiques générales ayant cours dans le pays, parmi l'ensemble des débiteurs et dans la branche d'activités du débiteur; et
+7. l'expérience antérieure du contribuable en matière de radiation de créances irrécouvrables.
+Cette liste n'est pas limitative et, selon les circonstances, un facteur ou un autre pourra prendre une importance accrue.

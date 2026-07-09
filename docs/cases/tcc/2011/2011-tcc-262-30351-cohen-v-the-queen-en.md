@@ -1,0 +1,213 @@
+---
+title: "Cohen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30351/index.do"
+last_modified: "2011-05-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 262"
+citation2: ""
+neutral_citation: "2011 TCC 262"
+decision_date: "2011-05-12"
+language: "en"
+item_id: "30351"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7872
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:35:35.815000+00:00"
+cases_cited_count: 3
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a3b528c559a7dae9281a630ca55c8db531f87f752d8ddcd56fec10130f32d656"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cohen v. The Queen
+
+- Citation: 2011 TCC 262
+- Decision date: 2011-05-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7872, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cohen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-05-12
+Neutral citation
+2011 TCC 262
+File numbers
+2010-1355(IT)G
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1355(IT)G
+BETWEEN:
+STEVEN A. COHEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 2, 2011, at Toronto, Ontario.
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+Counsel for the Appellant:
+Andrew Stein
+Counsel for the Respondent:
+Thang Trieu
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2006 taxation year is dismissed.
+Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 12th day of May 2011.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation: 2011 TCC 262
+Date: 20110512
+Docket: 2010-1355(IT)G
+BETWEEN:
+STEVEN A. COHEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Pizzitelli J.
+Issues
+[1] The issues to be decided in this matter is whether the Appellant had a source of income from business; namely whether he was in the business of Poker Playing in 2006 and if so, whether he is entitled to deduct business losses of $121,991.43 for such year.
+Background
+[2] The Appellant was an associate lawyer practicing in a large Toronto law firm. After learning that the decision as to whether to elevate him to a Partner was deferred for another year, for the second consecutive year, in December of 2005, he claims he made the decision to leave the practice of law and to take up poker playing on a full-time basis for the 2006 taxation year. He testified notwithstanding his decision to take up this new career, that he did not resign from his law firm employer but started to avoid taking on new work and pass on his files with the expectation his actions would eventually lead to his termination which occurred on March 24, 2006. Under the terms of his termination letter, agreed to by him when presented, he would be paid, as a severance, his full salary for seven months, until October of 2006. He testified he earned about $200,000 per year as an associate in 2005 which was not disputed by the Respondent although no evidence was submitted of same. He also admitted he did not notify his former employer of his new venture, as his letter of termination required him to do, in an arrangement where he would only be paid 50% of the remaining severance from the time of such new employment, which was defined as including starting a new business in the termination letter agreed to by the Appellant. The Appellant testified his former employer continued to make his monthly payments notwithstanding that he never submitted the monthly letter confirming whether he found new employment or not, which included starting a new business, and that his former employer knew of his activities. The parties disagree as to the interpretation of the requirement in the termination letter discussed above.
+[3] In his Statement of Business Activities filed with his 2006 tax return he reported income from “Gambling” activities of $81,283.30 representing his winnings or cash outs as he termed them as well as expenses totalling $203,274, consisting of purchases of $195,765 and business expenses of $7,509.73, which resulted in him claiming a loss of $121,991.43 from such activity for the year. The purchases, which the Respondent referred to as “inventory” in the Reply, were actually the total of cash in or cash spent on his gambling activities. The expenses include:
+1. interest charges of $4,038.93 which were explained as internet payment processing fees paid to Neteller, an organization that facilitates money transfers to the online card playing sites used by the Appellant from funds deposited to the credit of the Appellant to such account usually through credit card authorizations;
+2. office expenses of $456.38, which were explained as representing 18 items of books and other literature on poker purchased by the Appellant which were listed but for which no receipts were produced;
+3. office supplies of $2,086 which consisted of registration fees for a seminar he attended in Las Vegas for which he tendered a one-page invoice from a Canadian promoter showing the event and cost in U.S. funds only; and
+4. travel expenses of $928.42 representing two receipted flights to Las Vegas to attend two of the tournaments there, (the other flights the Appellant advised were taken using his credit card points).
+[4] The Appellant testified he has been playing poker since age 21 as a hobbyist, focusing on a poker game named seven-card stud poker and transitioned to a game known as Texas Hold’em poker or Hold’em poker in 2005 to which he claims he became successful in small stakes games. The transition in games was a result of the success of a relatively unknown champion, Chris Moneymaker, in the World Series of Poker tournament which inspired players like the Appellant and the success of the game from internet playing tournaments which made the game widely popular and the game of choice to the poker playing public.
+[5] Prior to 2006, the Appellant testified he travelled to Las Vegas or Atlantic City once a year to play in live tournaments and played with a group of friends monthly in cash games. During 2006, the Appellant testified he played 6 to 8 hours a day (5 to 7 hours per day from January to March of 2006 while winding down his law practice in anticipation of being terminated), 7 days a week, of internet poker using 4 playing sites and logging over 2,500 hours of playing time during the year. He testified he usually played a 3 to 4 hour game twice a day. None of the records evidencing such playing time were entered into evidence nor the number of times he won games, his winnings from any specific on-line play or the amount of funds spent on any specific game as he advised that once he ceased playing, he no longer had access to the on-line records . He did however submit into evidence a summary of cash in or cash spent on such on-line tournaments totalling $165,097.73 and a summary of cash out totalling $67,485.30 which he indicated he kept track of.
+[6] During 2006, he also entered into 7 live playing tournaments, 5 in Las Vegas, 1 at Fallsview Casino in Niagara Falls and one at Casino Rama in Orillia, only choosing sites where such tournaments were of course legal. He submitted evidence of his receipts for entering into the World Series of Poker tournament in Las Vegas in July of 2006 and at the Fallsview Casino and Casino Rama tournaments later that year, showing his registration and stakes purchases but not for any other game or tournament. He submitted a summary of cash in or funds gambled totalling $30,667.27 and winnings or cash out of $13,798 for such live play. The summary of games or tourneys played as submitted by the Appellant discloses he placed for winnings in 6 of the 45 games he entered into while on those trips and provided evidence by way of the United States (“U.S.”) 1042-S Forms for three of those tournaments in which he won funds, which showed U.S. withholding taxes which as a Canadian Resident he testified he was able to obtain a refund of. He did not file a U.S. tax return.
+Position of the Parties
+[7] The Appellant’s position is that he was engaged in the full-time business of poker playing as a professional poker player in 2006 and hence claimed his revenue and expenses above appropriately and was entitled to claim his losses.
+[8] The Respondent takes the position that the Appellant was a hobby gambler and was not in the business of gambling and hence is not entitled to the business losses claimed, or, in the alternative, if the Court finds he had a source of income from the business of gambling, then that such expenses claimed were personal expenses and not incurred for the purpose of gaining or producing income from business or in any event the amounts claimed were not reasonable.
+[9] Before analysing the parties’ positions above in the context of the evidence, it would be best to examine the law pertaining to the issue in question first.
+The Law
+[10] There is no disagreement between the parties that income from business is required to be included in income pursuant to section 3 of the Income Tax Act (the “Act”) and that section 9 of the Act provides that the taxpayer’s income for a taxation year from business is the taxpayer’s profit while his loss from business is such amount as computed in accordance with the Act; namely, income less permitted deductions. The only real issue between the parties is whether the Appellant had a source of income from business for the 2006 taxation year, or, to put it simply, whether the Appellant’s poker playing activities constituted a business being carried on by him.
+[11] Subsection 248(1) of the Act, broadly defines a “business” so as to include “a profession, calling, trade, manufacture or undertaking of any kind” and generally includes “an adventure or concern in the nature of trade.”
+[12] The test for determining whether a taxpayer’s activities constitute a source of business or property income was set out by the Supreme Court of Canada in Stewart v. Canada, 2002 SCC 46, [2002] 2. S.C.R. 645, where the Supreme Court adopted a two-stage approach described in paragraph 50 as follows:
+50. . . .
+The first stage of the test assesses the general question of whether or not a source of income exists; the second stage categorizes the source as either business or property.
+[13] There is no need to consider the second stage of the test in the matter at hand since the parties in effect agree that the only potential source of income would be from business and not from property.
+[14] In paragraphs 52 and 54 of Stewart, the Court went on to explain:
+52. . . . Thus, where the nature of a taxpayer’s venture contains elements which suggest that it could be considered a hobby or other personal pursuit, but the venture is undertaken in a sufficiently commercial manner, the venture will be considered a source of income for the purposes of the Act.
+. . .
+54. . . . in order for an activity to be classified commercial in nature, the taxpayer must have the subjective intention to profit, in addition, . . . this determination should be made by looking at a variety of objective factors. . . . This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+[Emphasis added.]
+[15] In paragraph 55, the Court went to on to adopt, the objective factors tested by Dickson J., in Moldowan v. Canada, [1978] 1 S.C.R. 480, at page 486 to determine the subjective intention to profit which were:
+(1) the profit and loss experience in past years;
+(2) the taxpayer’s training;
+(3) the taxpayer’s intended course of action; and
+(4) the capability of the venture to show a profit.
+but also reiterated Dickson J.’s caution that:
+. . . this list is not intended to be exhaustive, and that the factors will differ with the nature and extent of the undertaking.
+[16] The Court also cautioned in such paragraph that:
+55. . . . although the reasonable expectation of profit is a factor to be considered at this stage, it is not the only factor, nor is it conclusive. The overall assessment to be made is whether or not the taxpayer is carrying on the activity in a commercial manner. However, this assessment should not be used to second‑guess the business judgment of the taxpayer. It is the commercial nature of the taxpayer’s activity which must be evaluated, not his or her business acumen.
+[17] Before proceeding further, at this point I would like to address the argument of the Appellant’s counsel that it is not necessary to proceed to analyze the pursuit of profit intention in this case as he contends the activity is clearly commercial in accordance with the Stewart decision above. Counsel refers to paragraph 53 of the decision which stated:
+53. We emphasize that this “pursuit of profit” source test will only require analysis in situations where there is some personal or hobby element to the activity in question. . . . Where the nature of an activity is clearly commercial, there is no need to analyze the taxpayer’s business decisions. Such endeavours necessarily involve the pursuit of profit. As such, a source of income by definition exists, and there is no need to take the inquiry further.
+[18] With respect to counsel for the Appellant, the nature of the activity here, generally recognized as a gambling activity, is not an activity that I or many courts before me, could find has no personal element. The evidence in fact is that the Appellant was a hobby poker player since age 21 and then, at age 33 or so in 2006, takes the position he was a professional poker player engaged in the full‑time business of playing poker. The whole issue is whether he was still a hobbyist in 2006 notwithstanding his position. There is evidence he was also in the employ of a law firm for the first quarter of 2006, which at the very least suggests there may be some personal element for that period of time, notwithstanding the Appellant’s evidence that he was only winding down the practice in anticipation of being terminated. Moreover, the nature of the activity, whether it be called gambling or poker playing, is in my view generally considered a personal activity with the professional players in a minority. The Appellant himself testified the vast majority of the new players in tournaments were amateurs, suggesting it was advantageous to play them to relieve them of their money which was one of his strategies.
+[19] It should also be noted that counsel for the Appellant argued that the above analysis must be undertaken in the context of the type of activity involved. More specifically, he asks the Court to consider the analysis of former Chief Justice Bowman in Leblanc v. The Queen, 2006 TCC 680, 2007 DTC 307, found in paragraph 28:
+28. . . . Gambling -- even regular, frequent and systematic gambling -- is something that by its nature is not generally regarded as a commercial activity except under very exceptional circumstances.
+and in paragraph 29:
+29. Compulsive gamblers, whether they play lotteries or gaming tables may spend a lot of time and money gambling and they certainly do so with a view to winning. People who go every day to the racetrack devote time and money to this pastime and after a while may develop a degree of expertise, or at least persuade themselves that they do. Traditionally, however, their gains are not taxed and, more importantly, their losses are not deductible. . . .
+[20] While I acknowledge the Respondent’s argument and generally agree with former Chief Justice’s Bowman’s analyses above, the Supreme Court of Canada also made it clear in Stewart that each case must be decided on its own facts and one must look to the “commerciality of the activity in question”, meaning the taxpayer’s activity specifically. I, however, note that the Respondent’s arguments and the above cases further support my view that the activity in question is generally considered to have substantial personal element. Accordingly, the Appellant cannot escape an analysis of his pursuit of profit utilizing the objective factors above mentioned.
+[21] Finally, before proceeding to an analysis of the commerciality of the Appellant’s activities, it must be said that both parties, although mentioning the Stewart case above, heavily focused their arguments on a risk minimization factor determined to be a factor to consider by this Court in Balanko v. The Minister of National Revenue, 81 DTC 887, and adopted in Luprypa v. Her Majesty the Queen, 97 DTC 1416, and the Leblanc case above. In paragraph 10 of Balanko, Bonner J. stated:
+. . . While risk-taking is necessary in a business, it is management or minimization of risk which is the characteristic of business activity. . . .
+[22] I would agree that in a venture concerning gambling activities such a factor would play an important role, and indeed, in the Stewart case, decided after Balanko and Luprypa above, the Supreme Court of Canada also contemplated the consideration of any other relevant factors as mentioned. However, it is not the only factor to consider and the analyses must proceed with a view to analyzing all factors, including those discussed in the Moldowan case by Dickson J. above as adopted by the Supreme Court of Canada in Stewart.
+[23] Moreover, the focus of the parties on the risk factor appeared tied to their suggestion that the pursuit of profit or intention to profit is not an important factor in these type of cases in light of the premises that every gambler, whether as a hobbyist or in business gambles with the intention to win. While few, if anyone, would argue that winning is the overall goal of every gambler, this does not mean that the subjective intention to profit is a given in the context of the Supreme Court of Canada’s decision in Stewart. It is the subjective intention to profit in the context of an activity classified as commercial in nature that is the important element to find; otherwise, the Stewart decision would be meaningless in the context of ventures involving gambling elements ‑ as it would logically follow that if everyone plays to win then the subjective intent to profit must always exist. It may well be that a gambler participates in a game of chance with poor odds of winning and hence has an expectation of not winning but proceeds in the hope of winning a big return on a long-shot or on the basis it constitutes a form of entertainment, the cost of which is the funds wagered and lost. There must be more than the mere hope or desire of winning; in fact, a planned and reasonable expectation of winning more than losing so as to result in a profit at the end of the day. In Stewart, the Supreme Court of Canada in paragraph 54 re‑stated the test in this way:
+54. . . . “Does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?” This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with the objective standards of businesslike behavior.
+[24] Clearly, one can also have an intention to win, but not conduct his activities in a businesslike way. In that case, his winnings would not generally be taxable but nor would his losses be deductible, as former Chief Justice Bowman explained in Leblanc above.
+Analysis
+[25] I will now analyze the factors identified in the Stewart case as the Moldowan case objective factors as well as other relevant factors in the context of the evidence in this matter in determining whether the Appellant intended to profit from his poker playing activities and whether he conducted such activities in a businesslike manner.
+1. Profit and Loss Experience in Past Years
+[26] Clearly this is not a factor as the Appellant did not admittedly carry on any business in past years and was a hobbyist only and had no profit or loss.
+2. The Taxpayer’s Training
+[27] The Appellant testified that he had been playing poker since age 21, although focused on the card game of seven card stud for most of that time as opposed to Hold’em Poker, the game he played during the 2006 taxation year, which he transitioned to shortly before in 2005.
+[28] The only evidence of any formal training was a seminar attended by the Appellant in Las Vegas for three days from February 9 to 11, 2006, clearly after he started his new venture or professional career in January 2006, held at Caesars Palace and named Camp Hellmuth. The Appellant provided a copy of the invoice for such seminar but no details of the seminar topics or course. The Appellant claimed a deduction for such seminar in 2006 under the category of Supplies.
+[29] The only other evidence of training was that of a self-taught student. The Appellant provided a list of books and articles totaling 18 in number which he testified he purchased at a total cost of $456.38 and which he claimed in his tax return under the category of Office Expenses. He testified he read these as well as other on-line articles and answered some multiple choice questions from one of the books or articles as evidenced by a one-page handwritten sheet that contained letters apparently in answer to questions which were not disclosed.
+[30] Frankly, the Appellant has not submitted any reliable evidence of any meaningful formal or other training or how it improved his level of play to a level of a professional poker player as he called himself. No other witnesses testified as to his level of knowledge, skill or training. The Appellant did include in his evidence some excerpts or apparent chapters of some of these books or articles listed, but it is not clear that these would constitute anything more than general subject matter reading on the topic of hold’em poker or that their level of difficulty was high. I note that in one of the articles titled “Some Percentages and Math”, which the Appellant referred to as giving him the superior knowledge of understanding and calculating odds, the first paragraph reads:
+Yes, math does play a huge role in poker. But as far as math goes, what you need to know isn’t all that complicated ‑ it’s nothing a reasonably able fourth grader couldn’t handle with a little bit of practice.
+[31] While the articles demonstrate the Appellant had an interest in the game, they do not provide any assistance in proving they raised the Appellant’s ability to play poker beyond the new players and novices to the game from whom the Appellant sought to distinguish himself from. I take judicial notice of the fact many hobby chess players I know have a small library on the game, chess moves and famous players, but are not professionals merely by such ownership of material.
+3. The Taxpayer’s Intended Course of Action
+[32] The Appellant’s most forceful argument was that he had created a plan consisting of his detailed strategy to profit from his activities which was referred to as his business plan which he argued he followed. This alleged plan consisted of his overall strategy to play in small stakes games against new or weaker players which would grant him an advantage in winning and minimize his risk of loss. As part of this plan, the Appellant testified he created various strategy documents and other analyses which on the whole he testified gave him a 75% edge over his targeted inexperienced competitors. He testified that in the first year he expected to make about $150,000 profit from playing small stakes games adopting his strategies and eventually up to $500,000 per year, the same level of income he would have made had he made partner with his former law firm; although later admitted the higher amount could not be achieved by playing small stakes games.
+[33] The evidence of his business plan was the submission of a half-page listing titled “Approximate Head Up Showdown Odds,” showing the odds in a two player contest which he described as a Heads Up Showdown, that certain card hands would give him. He testified he calculated these by applying the mathematics he learned from various articles he read, including the article titled “Some Percentages and Math” above referred to, which, as I indicated earlier, describes the math as not being complicated and capable of being handled by a fourth grader.
+[34] The business plan also contained a list of 10 considerations to consider when contemplating a move, including the Pot and Implied Odds, Tells (described as information or hints an opponent can give you from his mannerisms, conduct or movements as listed in another 4-page list entitled “Caro’s Laws of Tells: A Summary”), Patterns and Cards to name a few, which he set out in greater detail in several pages of typewritten notes dealing with his game strategies on playing tightly or conservatively at the beginning, building your stack (of chips) and watching others’ stacks, General Play Considerations, Bluffing with 11 conditions to consider before making a tournament changing bluff, and so forth. The expanded points of considerations, totaling 20 initially, are found under the heading “WSOP Strategy,” which he testified referred to the World Series of Poker, a tournament he entered in July of 2006.
+[35] The Appellant testified he prepared the above material in December of 2005 but agreed he prepared the items described under the “Miscellaneous” heading in early 2006 and afterwards and that such list was a work-in-progress. The items under Miscellaneous make reference to some of the strategies he learned from reading his books, including Harrington on Hold’em. He even made hand notes at the end of such list adding new items during the year. In addition, he submitted a handwritten list of mistakes he noted after every live tournament, particularly the World Series of Poker including notes like “take time to think about what opponents may have.”
+[36] The Appellant also testified part of his plan was to keep detailed notes on other players. He indicated the software attached to on-line playing sites allowed him to keep such notes on-line and view them as he was playing and that he kept notes on players he encountered during live tournaments as well. There was, however, no evidence submitted as to any of these other player profiles or notes.
+[37] The Appellant argues that his plan, viewed as a whole, was his systematic way to profit from his activities and reduce the risk of loss.
+[38] With respect to the Appellant, I cannot possibly find that the above, even taken as a whole would constitute a reasonable business plan in the ordinary sense of the word or constitute any serious systematic method of winning.
+[39] The so-called plan makes no reference to tournaments he planned to attend or play on-line in the year nor the number thereof, nor to any budget including anticipated expenses and revenue, nor to any plans for continuing training or education ‑ in fact to nothing further. He indicated above that he expected to make $150,000 in the first year but did not explain how and his documents certainly give no indication as to how he even arrived at such sum. He opened no new bank account for his venture nor obtained a separate credit card for it, continuing to use his personal bank account and credit cards, sought no financing arrangements, and gave no testimony as to obtaining any accounting, tax or other advice. As mentioned above, he does not appear to have kept good business records of the number of on-line games he played or won or how much he won or lost from each such game let alone any player profiles which one would think someone in business would properly maintain in hard form instead of relying on a website program as he testified he did.
+[40] Moreover, if the documents constituted his strategies or system to minimize risk, as he argued, he admitted that in April of 2006, he switched from low stakes games to higher stakes games, where more experienced players participate, at which he was not very successful and led to credit and financial problems, ultimately leading him to abandon the venture at the end of 2006. While he indicates he made a mistake in business judgment, the fact that the so‑called plan was not even followed after the first three months in the year, during which time he was also in the employ of his law firm, hardly serves to lend credibility to it as being a well thought out and executed plan. In my view, the so-called plan documents are nothing more than a loose compilation of notes he compiled from his reading materials and experiences in playing, including during the 2006 year itself. It does not suggest a well thought out business plan created in advance of commencing commercial operations.
+4. Capability of Venture to Show a Profit
+[41] As mentioned above, the Appellant testified he planned to make $150,000 from his first year of operation and later up to $500,000 but no evidence was submitted to substantiate such plan as there was no budget prepared or other reliable evidence tendered to back such statement. There is likewise no evidence to support that this so-called venture had the capacity to show a profit other than general statements that it could. The reality is that he lost significant money during the year and had losses in each month, based on his cash out and cash in summary, losses during times he played small stakes games and bigger losses when he played larger state games. Although he testified he was more successful at small stakes games, he submitted no evidence as to how many games he played or how many of them he won or how much he won playing any specific game. The only evidence is that he lost money, consistently throughout the year, and he has not demonstrated the venture has a capacity to show a profit. I note as well that he abandoned the venture after only one year, after a very short start-up time relative to what as most businesses go through, which seems inconsistent with a venture that had capacity for profit.
+5. Other Factors
+[42] The Appellant suggested a number of other relevant factors are applicable here and argues and relies on the Luprypa case where McArthur J. found that a taxpayer who played pool had a system and had a reasonable expectation of profit, which was his principal source of income during the year in question and hence carried on the business of playing pool. At page 1419 of that decision, McArthur J. stated:
+. . . He approached his business in a professional manner:
+a) He carefully managed the risks.
+b) He was a skilled player.
+c) He played Monday through to Friday each week
+d) He spent his afternoons playing snooker to perfect his skills.
+e) He played inebriated opponents after 11:00 p. m to minimize his risk.
+f) He won most of the time earning, approximately $200 daily.
+g) He drank alcoholic beverages only on weekends when not playing pool to give him a sober advantage over his inebriated opponents.
+h) He was calculating and disciplined.
+i) It was his primary source of income and he relied on this steady income.
+[43] The Appellant argued that like the taxpayer in Luprypa, he carefully managed the risks through his strategy of playing low stakes games with inexperienced players calculated to give him, a more skillful player as a result of his experience, training and knowledge gained from reading material, a 75% edge over his opponents. He testified he played twice a day, 7 days a week, 6 to 8 hours a day generally and that his knowledge and strategy, demonstrated by his materials supporting his so-called business plan, made him calculating and disciplined ‑ in effect a man with a system to increase his chances of winning and minimize risk.
+[44] With all due respect to the Appellant, I cannot agree with his arguments based on the evidence before me. As mentioned, he abandoned his strategy to play small stakes games against new or inexperienced players just after 3 months in 2006 and lost significant money as a result. He totally failed to manage the risk by abandoning his strategy and continuing to increase his credit card limits when they were exceeded instead of re-evaluating the risks after significant losses in the spring and summer of 2006. The evidence demonstrates he did not win most of the time as he lost money every month culminating in the $121,991.43 loss he now seeks to claim. There is no evidence he won any significant number of games as he led no evidence as to how many on-line games he actually played let alone won and the only evidence is that he placed in the money on only 6 of 45 live action games. Clearly, unlike in Luprypa, the Appellant did not win most of the time. Moreover, the evidence is that the Appellant was employed until near the end of March 2006 and thereafter received 7 months’ salary as severance, totaling almost $200,000 for the year as the Appellant testified, which was clearly the Appellant’s main source of income for the year relative to the $81,283.30 he earned playing poker which translated into a $121,991.43 loss for the year. Losing money every month can hardly be considered a steady source of income. It is obvious his income from employment and severance above were the sources he relied upon to fund his poker-playing activities.
+[45] As for the Appellant’s suggestion he was a skilled player, there is little evidence, as I stated earlier, that he had much training nor was any reliable evidence given to suggest he contained a superior skill set in the game. He may well have knowledge of the game acquired from his readings and one seminar taken, but it is clear that he lost significant funds playing higher stakes games against older experienced players so clearly did not have their superior skill sets. The fact his initial strategy was to play inexperienced players suggests he himself did not have the superior skills necessary to compete at a higher level that would bring him the $500,000 paycheque he aspired to. The fact he lost money every month, including the first three months he played smaller stakes games, does not even suggest a superior skill set at that level.
+[46] The suggestion he was calculating and disciplined is also questionable. While he may have done the math, as his counsel argued, in knowing the odds of different card hands while playing, this was information available from his materials and capable of being determined by a fourth grader as his material suggests. Moreover, he demonstrated a total lack of discipline by both abandoning his strategy of playing low stakes games against inexperienced players after just three months and by simply increasing his credit card limit from $27,000 to $40,000 when needed. I cannot find his conduct minimized risk but rather that he willingly and quickly placed himself in a far riskier situation without regard to his alleged business plan ‑ the antithesis of minimizing risk.
+[47] As for the significant time the Appellant alleged he committed to the venture ‑ over 2,500 hours in 2006, there was no conclusive evidence to substantiate such large number of hours but it is clear that from the live 7 tournaments he attended and the size of his losses as well as the frequency of his cash contributions to on-line betting that he did gamble with some frequency. This fact alone, however, would not conclusively place him in the category of conducting his activities as a business in lieu of as an avid hobbyist anymore than the daily purchases of substantial sports lottery tickets led to the Leblanc brothers attaining the status of conducting a business in the Leblanc case.
+[48] I should also add that I have some serious concerns as to the Appellant’s credibility in this matter relevant to his position of having created a business plan and conducting himself commercially. The Appellant testified that in December of 2005 he made the decision to switch careers from law to professional poker player, yet, under cross-examination finally admitted, after first not recalling, that he went to Las Vegas on a gambling holiday. The fact that he failed to remember taking a holiday to Las Vegas immediately after an event which he testified caused him to make the life-changing important decision to switch careers cast doubts on his credibility as a whole. It also seems creating a comprehensive business plan and making arrangements to start up his new venture starting only a few weeks away did not take priority.
+[49] In addition, the website for his existing law practice brought to the Court’s attention by the Respondent’s counsel during the Appellant’s cross‑examination, shows his new firm was in existence from March, 2006, coinciding with his termination from his previous employer and that he already incorporated a real estate property venture company as well. I find his explanation for the March 2006 date, which is that he continued to be a member of the Bar during the period notwithstanding that he started a new venture, hence why he used that date on his marketing material, to be unsatisfactory. If that was the intention then why not just say he has been practicing law since the earlier date he was called to the Bar. The information is more likely intended to convey the date his new legal venture commenced or he contemplated would commence on. Furthermore, although he testified the real property venture never took off or was not even addressed until 2007, he provided no proof of same to rebut the evidence.
+[50] Finally, I might add that his failure to notify his former law firm of this new venture as required under the terms of his termination agreement which would have reduced his severance adds to my concerns regarding his credibility. I do not agree with his interpretation of the termination provision that he was only required to notify them if he received compensation from the venture and, although his employers may well have continued to make payments to him even though he did not file the monthly notices to them advising as to whether he found other employment, which included starting a new business, such oversight does not change the fact that he had a legal obligation to do so. I can only conclude he did not notify them because he did not consider himself to have started a new business. As for his assertion that his former employers knew what he was doing, he could easily have brought some documentary evidence or a partner from his former firm to confirm this and did not. The more likely explanation is that his former employer knew the Appellant was a gambler ‑ after all he took a holiday to Las Vegas while in their employ ‑ but not that he was in the business of doing so.
+[51] Having regard to all of the above, I cannot find that the Appellant demonstrated that he conducted his venture in such a manner as to constitute a profession, calling, trade, undertaking, or adventure or concern in the nature of trade so as to fall within the definition of a business. Accordingly, the Appellant’s appeal is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 12th day of May 2011.
+“F.J. Pizzitelli”
+Pizzitelli J.
+CITATION: 2011 TCC 262
+COURT FILE NO.: 2010-1355(IT)G
+STYLE OF CAUSE: STEVEN A. COHEN and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 2, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice F.J. Pizzitelli
+DATE OF JUDGMENT: May 12, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Andrew Stein
+Counsel for the Respondent:
+Thang Trieu
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Andrew Stein
+Firm: Stein Law Office
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

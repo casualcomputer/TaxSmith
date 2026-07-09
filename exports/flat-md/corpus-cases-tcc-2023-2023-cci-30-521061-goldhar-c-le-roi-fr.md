@@ -1,0 +1,441 @@
+---
+title: "Goldhar c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521061/index.do"
+last_modified: "2023-03-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 30"
+citation2: ""
+neutral_citation: "2023 CCI 30"
+decision_date: "2023-03-10"
+language: "fr"
+item_id: "521061"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5790
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:52:46.598000+00:00"
+cases_cited_count: 4
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b586eea7da3cdddf4ab5b6dab8af1ee42996f3abcfdb56f9eb602c7114598294"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Goldhar c. Le Roi
+
+- Citation: 2023 CCI 30
+- Decision date: 2023-03-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5790, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goldhar c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-03-10
+Référence neutre
+2023 CCI 30
+Numéro de dossier
+2018-12(IT)G, 2018-1687(IT)G
+Juges et Officiers taxateurs
+Henry A. Visser
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-12(IT)G
+2018-1687(IT)G
+ENTRE :
+DAVID GOLDHAR,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 24, 25 et 26 août, 25 septembre et 16 octobre 2020, à Toronto (Ontario).
+Devant : L’honorable juge Henry A. Visser
+Comparutions :
+Avocats de l’appelant :
+Me Jason C. Rosen
+Me Kendal Steele
+Avocat de l’intimé :
+Me Brent E. Cuddy
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies les 7 juillet 2017 et 20 novembre 2017, en application de la Loi de l’impôt sur le revenu (Canada) pour les années d’imposition 2008, 2009, 2010 et 2011 de l’appelant sont accueillis conformément aux motifs du jugement ci-joints, et les nouvelles cotisations sont annulées.
+Les dépens sont adjugés à l’appelant. Les parties disposent d’un délai de 30 jours suivant la date du présent jugement pour parvenir à un accord sur les dépens, faute de quoi l’appelant disposera alors d’un délai de 30 jours pour déposer ses observations écrites sur les dépens, après quoi l’intimé disposera d’un délai de 30 jours pour déposer sa réponse par écrit. Ces observations ne doivent pas dépasser dix pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord et qu’il n’y a pas de dépôt d’observations, les dépens seront adjugés à l’appelant selon ce que prévoit le tarif.
+Signé à Ottawa, Canada ce 10e jour de mars 2023.
+« Henry A. Visser »
+Le juge Visser.
+Traduction certifiée conforme
+Ce 22e jour de mars 2024.
+François Brunet, réviseur
+Référence : 2023 CCI 30
+Date : 20230310
+Dossier : 2018-12(IT)G
+2018-1687(IT)G
+ENTRE :
+DAVID GOLDHAR,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Visser
+[1] David Goldhar est un homme d’affaires et un vendeur qui a pratiqué avec succès le commerce international du jouet pendant de nombreuses années. M. Goldhar et ses collègues d’affaires ont utilisé des structures de sociétés complexes pour les sociétés de jouets qu’ils exploitaient, qui comprenaient des sociétés et des sociétés de personnes au Canada, aux îles Vierges britanniques (IVB) et à Hong Kong. À la suite de renseignements obtenus du Consortium international des journalistes d’investigation, l’Équipe spécialisée de l’observation à l’étranger de l’Agence du revenu du Canada a effectué une vérification des années d’imposition 2006 à 2013 de M. Goldhar, à la suite de laquelle le ministre du Revenu national (le « ministre ») a délivré les avis de nouvelle cotisation suivants en application de la Loi de l’impôt sur le revenu[1] (la « Loi ») à l’appelant à l’égard de ses années d’imposition 2008 à 2011 :
+a)Avis de nouvelle cotisation datés du 20 novembre 2017, aux termes desquels le ministre a établi une nouvelle cotisation à l’égard de l’appelant relativement à des avantages non déclarés de 5 555 021 $ de la façon suivante :
+pour l’année d’imposition 2008, le ministre a établi une nouvelle cotisation à l’égard de l’appelant afin d’inclure un revenu supplémentaire de 3 032 271 $ en se fondant sur les éléments suivants :
+des avantages tirés d’actions de 601 685 $;
+des avantages des bons de souscription de 93 774 $;
+des avances de fonds non déclarées totalisant 2 000 537 $;
+des sommes en espèces versées à autrui totalisant 336 275 $;
+pour les années d’imposition 2009, 2010 et 2011, le ministre a établi une nouvelle cotisation à l’égard de l’appelant afin d’inclure les sommes suivantes à titre de revenu non déclaré pour le motif que ces sommes constituaient des sommes d’argent versées à autrui : 1 316 399 $, 1 190 262 $ et 16 089 $, respectivement;
+b)Avis de nouvelle cotisation datés du 7 juillet 2017, aux termes desquels le ministre a imposé des pénalités conformément au paragraphe 163(2) et aux alinéas 162(7)a), 162(10)a), 162(10.1)f) et 163(2.4)d) de la Loi, s’élevant à environ 1 271 946,90 $.
+[2] M. Goldhar a interjeté appel de ces nouvelles cotisations pour le motif qu’elles sont, notamment, toutes prescrites. Il conteste également l’exactitude des nouvelles cotisations pour le motif que les sommes en litige ne constituent pas un revenu entre ses mains. Il conteste également l’application de l’ensemble des pénalités mentionnées précédemment pour le motif, notamment, qu’il a fait preuve de diligence raisonnable dans la production de toutes ses déclarations de revenus pour les années d’imposition en cause. Les présents appels ont été entendus ensemble sur preuve commune.
+[3] Pour les motifs qui suivent, je suis d’avis que les appels doivent être accueillis à l’égard des deux sommes incluses dans le revenu de M. Goldhar et des sanctions imposées.
+QUESTIONS EN LITIGE
+[4] Les questions soulevées dans les présents appels sont les suivantes :
+a)Le ministre a-t-il correctement établi les nouvelles cotisations pour les années d’imposition 2008, 2009, 2010 et 2011 de M. Goldhar afin d’inclure des avantages non déclarés conférés à un actionnaire de 3 032 271 $, 1 316 399 $, 1 190 262 $ et 16 089 $, respectivement?
+b)Le ministre a-t-il correctement établi les nouvelles cotisations pour les années d’imposition 2008, 2009, 2010 et 2011 de M. Goldhar au-delà de la période normale de nouvelle cotisation en application du sous-alinéa 152(4)a)(i) de la Loi?
+c)Le ministre a-t-il correctement imposé les pénalités à l’égard des années d’imposition 2008, 2009, 2010 et 2011 de M. Goldhar en application du paragraphe 163(2) de la Loi?
+d)Le ministre a-t-il correctement appliqué les pénalités à l’égard des années d’imposition 2008, 2009, 2010 et 2011 de M. Goldhar conformément aux alinéas 162(7)a), 162(10)a), 162(10.1)f) et 163( 2.4)d) de la Loi?
+LA PREUVE
+[5] Les parties ont convoqué collectivement les cinq témoins suivants lors de l’audition des présents appels :
+a)David Goldhar, l’appelant;
+b)Marilyn Goldhar, l’épouse de l’appelant;
+c)Richard Yanofsky, ancien collègue d’affaires de l’appelant;
+d)Mark Pelchovitz, l’un des comptables de l’appelant à l’époque des années d’imposition en litige;
+e)Scott Robinson, un vérificateur de l’ARC.
+[6] Les parties ont déposé un exposé conjoint partiel des faits (l’« ECPF »). Elles ont également produit un recueil conjoint de documents en 17 volumes[2] contenant 241 onglets et 5 172 pages de documents. L’appelant a également produit deux extraits de l’interrogatoire préalable de Scott Robinson[3].
+[7] Voici un résumé de la preuve présentée dans les présents appels.
+(i) Exposé conjoint partiel des faits
+[8] Dans l’ECPF, les parties ont admis les faits suivants à l’égard des présents appels[4] : [traduction]
+30. M. David Goldhar est un particulier résidant dans la province de l’Ontario avec son épouse, Mme Marilyn Goldhar (Mme Goldhar). Il a vécu en Ontario avec Mme Goldhar pendant toute la période pertinente au présent appel.
+11. L’appelant était un résident canadien pendant toute la période pertinente.
+31. WowWee Hong Kong (« WowWee ») faisait partie d’une société internationale de fabrication de jouets, principalement active en Chine.
+32. À l’époque, l’appelant faisait partie de l’équipe de la haute direction de WowWee, en qualité de directeur des ventes et de la commercialisation.
+33. Beanteek Enterprises Inc. a été constituée selon les lois des îles Vierges britanniques en mars 2006.
+13. À l’exception de l’administrateur initial de la société, l’appelant était l’un des quatre administrateurs de Beanteek, dont trois étaient, à tout moment pertinent, des non-résidents du Canada pour les besoins de l’impôt sur le revenu.
+34. Beanteek avait initialement un administrateur de la société, mais immédiatement après sa constitution, elle a nommé les quatre administrateurs particuliers suivants :
+a) David Goldhar;
+b) Tsee Yee Tang Kennedy;
+c) Eric Tung Ching Lau;
+d) Peter Yanofsky.
+35. L’unique actionnaire initiale de Beanteek était « 4307836 Canada Inc. », une société de portefeuille dont l’appelant détenait toutes les actions et était l’unique administrateur.
+15. Le 12 septembre 2006 ou vers cette date, les actions de Beanteek ont été transférées à l’appelant.
+36. Le 12 septembre 2006, David [Goldhar] a transféré ses actions de RPA [(Rich Point Asia)] à Beanteek conformément au paragraphe 85.1(3) de la Loi.
+37. En échange, l’appelant a reçu 7 999 900 actions de Beanteek, portant le nombre total d’actions en circulation de Beanteek à 8 000 000 dont l’appelant était l’unique détenteur.
+38. En décembre 2007, WowWee a cédé ses actifs dans le cadre d’une opération avec Optimal Group Inc. (ci-après nommée « Optimal ») en échange d’une combinaison d’espèces ainsi que d’actions et de bons de souscription d’Optimal.
+16. En décembre 2007, à la suite de la série d’opérations, un dividende a été déclaré pour Beanteek sous la forme de 2 964 000 $ US en espèces et de 606 110 $ US et 94 464 $ en actions et en bons de souscription, respectivement, du groupe Optimal (« Optimal ») découlant de la vente des actifs de WowWee Inc.
+18. Les certificats d’actions et les bons de souscription d’Optimal ont été délivrés au nom de l’appelant et non à celui de Beanteek.
+40. Le ministre a inclus ce qui suit dans l’avis de nouvelle cotisation de 2008 délivré à l’appelant :
+a) la somme de 601 685,40 $ représentant la valeur canadienne des actions d’Optimal;
+b) la somme de 93 774,41 $ représentant la valeur canadienne des bons de souscription d’Optimal.
+41. De plus, entre 2008 et 2013, Beanteek a transféré une somme d’argent de ses propres comptes à diverses personnes ou entités liées à cette entité.
+17. De 2008 à 2011, les sommes d’argent suivantes : 2 336 812 $ CA, 1 316 399 $, 1 190 262 $ et 16 089 $ ont été retirées des comptes enregistrés auprès de Beanteek.
+42. Le 9 janvier 2009, 2010 Ltd. a déposé 1 218 520 $ CA dans les comptes de Beanteek.
+43. Le 24 mars 2011, WowWee a déposé 536 084,04 $ dans le compte de Beanteek.
+44. Le ministre a pris en compte les deux dépôts mentionnés ci-dessus dans l’établissement de la cotisation des années d’imposition 2009 et 2010, ce qui a diminué la valeur des « sommes d’argent versées à autrui » au cours de l’année d’imposition respective.
+29. Au cours des années d’imposition précédentes, l’appelant a déclaré ce qui suit dans ses déclarations d’impôt sur le revenu :
+Année
+Revenu brut
+Revenu net
+2006
+1 299 000 $
+1 281 000 $
+2005
+287 000 $
+271 000 $
+2004
+256 000 $
+245 000 $
+2003
+289 000 $
+266 000 $
+2002
+439 000 $
+407 000 $
+2001
+234 000 $
+194 000 $
+2000
+123 000 $
+117 000 $
+19. L’appelant a acquis une action nominative de 2010 Limited, une société résidant aux IVB, le 15 janvier 2009.
+20. L’appelant était actionnaire de 2010 Limited après janvier 2009.
+21. L’appelant était également actionnaire de Goldmount Marketing Inc. (« Goldmount ») après le 20 octobre 2011.
+22. L’appelant était au courant de l’existence de 2010 Ltd., de Goldmount ou du groupe Goldy pendant les périodes pertinentes.
+23. Les formulaires T1134, Déclaration des biens étrangers préparés et déposés par le représentant de l’appelant de Schwartz Feldman LLP, à l’égard de son année d’imposition 2008, contenaient des renseignements incomplets concernant Beanteek.
+24. L’appelant a retenu les services d’un nouveau cabinet comptable, principalement Truster Zweig LLP, à un moment donné en 2009.
+25. Le comptable de l’appelant chez Truster Zweig LLP n’a pas produit les formulaires T1134, Déclaration des biens étrangers requis pour l’année d’imposition 2009 pour Beanteek ou 2010 Ltd.
+26. Le représentant de l’appelant à l’époque a préparé et produit un formulaire T1134, Déclaration des biens étrangers à l’égard de Beanteek, mais n’a pas inclus de renseignements concernant 2010 Ltd. dans les déclarations d’impôt sur le revenu de 2010 de l’appelant.
+27. Les formulaires T1134, Déclaration des biens étrangers préparés et déposés par le représentant de l’appelant à l’égard de son année d’imposition 2010 contenaient des renseignements inexacts à l’égard de Beanteek.
+28. L’appelant a satisfait à son obligation de déclaration à l’étranger pour l’année d’imposition 2011 pour les deux sociétés étrangères affiliées, soit Beanteek et 2010 Ltd.
+1. Le ministre du Revenu national (le « ministre ») a initialement établi une cotisation à l’égard de l’appelant pour les années d’imposition 2008, 2009, 2010 et 2011, les 7 mai 2009, 29 avril 2010, 6 juin 2011 et 30 avril 2012, respectivement, conformément à la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la Loi).
+2. Au cours des années en cause, les déclarations d’impôt sur le revenu de l’appelant ont été préparées et produites par un comptable professionnel agréé.
+3. L’appelant a retenu les services de plusieurs cabinets comptables au cours des années en cause, notamment : Dacks & Levine, Chartered Accountants, Schwartz Levitsky Feldman LLP et Truster Zweig LLP. Les membres de ces cabinets étaient des comptables professionnels agréés chargés de préparer et de produire les déclarations d’impôt sur le revenu de l’appelant, les formulaires de déclaration des biens étrangers et les déclarations de revenus des sociétés connexes.
+4. Le 1er août 2014 ou vers cette date, la Division de la vérification de l’Agence du revenu du Canada (l’ARC) (service de l’observation à l’étranger) a envoyé à l’appelant un questionnaire de vérification.
+5. Le 7 juillet 2017 ou vers cette date [en fait le 20 novembre 2017][5], le ministre a délivré des avis de nouvelle cotisation à l’appelant pour :
+a) l’année 2008, le ministre a établi une nouvelle cotisation pour l’appelante afin d’inclure un revenu supplémentaire de 3 032 271 $ en fonction des éléments suivants : « avantages tirés d’actions » de la somme de 601 685 $; « avantages des bons de souscription » de la somme de 93 774 $; « avances de fonds non déclarées » totalisant 2 000 537 $; et « sommes en espèces versées à autrui » de 336 275 $, totalisant un ajout dans le revenu de 3 032 271 $;
+b) pour les années d’imposition 2009, 2010 et 2011, afin d’inclure les sommes suivantes à titre de revenu non déclaré : […] 1 316 399 $, 1 190 262 $ et 16 089 $, respectivement, pour le motif que ces chiffres représentaient des sommes en espèces versées à d’autres.
+6. Le vérificateur n’a pas mené d’entrevue avec l’appelant ou des tiers dans le cadre de sa vérification, notamment son épouse, ses experts-comptables et les professionnels du droit concernés à l’époque.
+7. Les autorités fiscales non canadiennes autres que la Securities and Exchange Commission n’ont fourni aucun renseignement.
+8. Le 20 novembre 2017 ou vers cette date [en fait le 7 juillet 2017][6], le ministre a également imposé des pénalités en application du paragraphe 163(2) et des alinéas 162(7)a), 162(10)a), 162(10.1)f) et 163(2.4)d) de la Loi, s’élevant à environ 1 271 946,90 $.
+(ii) Témoignage de David Goldhar
+[9] M. Goldhar a témoigné lors de l’audience relative au présent appel. J’ai conclu que M. Goldhar était un témoin crédible.
+[10] M. Goldhar a déclaré lors de son témoignage qu’il a obtenu un diplôme d’études secondaires et qu’il a ensuite fréquenté le Collège Seneca peu de temps pour des études en administration des affaires. Il n’a pas obtenu de diplômes, de certificats ni aucune autre qualification. Il n’a pas suivi non plus de cours de fiscalité. Après avoir fréquenté le Seneca College, M. Goldhar s’est lancé dans l’industrie du tapis pendant sept ans, avant de devenir directeur de magasin. Il s’est ensuite lancé dans le domaine du cadeau pendant sept ans, devenant directeur des ventes, puis directeur régional.
+[11] M. Goldhar s’est ensuite lancé dans l’industrie du jouet, s’associant plusieurs personnes et formant des coentreprises avec celles-ci, dont Peter Yanofsky et Richard Yanofsky de Montréal. Après avoir développé plusieurs produits ayant connu du succès, ils ont formé WowWee, qui a finalement été vendue à Hasbro en 2000. M. Goldhar a été au service pour Hasbro pendant trois ans, au cours desquels les ventes de WowWee ont faibli. M. Goldhar et ses associés ont ensuite racheté WowWee à Hasbro et restructuré l’entreprise, après quoi ils ont vendu WowWee à une société appelée groupe Optimal. M. Goldhar a ensuite été au service de Optimal pendant un certain temps, après quoi il a formé une société de personnes nommée groupe Gillyboo avec un ami, Lenny Gelbard. Après avoir quitté Gillyboo, M. Goldhar a formé la société de personnes Goldy Toys avec Bobby Stewart.
+[12] M. Goldhar a déclaré lors de son témoignage que son épouse, Marilyn Goldhar, l’avait aidé en s’occupant de ses affaires comptables et fiscales pour les années d’imposition en cause dans les présents appels. Il a en outre déclaré qu’il avait retenu les services d’experts-comptables et d’avocats pour s’occuper de toutes ses affaires juridiques et fiscales, et que ses comptables avaient produit toutes ses déclarations de revenus. Marilyn Goldhar a fourni aux avocats et aux comptables tous les renseignements dont ils avaient besoin. M. Goldhar a déclaré lors de son témoignage qu’il examinait ses déclarations de revenus avec ses comptables avant qu’elles ne soient produites chaque année.
+[13] Voici un résumé d’autres renseignements contextuels tirés du témoignage de M. Goldhar :
+a)Kennedy Tang à Hong Kong s’est occupé de la comptabilité de WowWee Hong Kong et de Beanteek Enterprises Inc.
+b)Les comptables des Yanofsky s’occupaient de la comptabilité de WowWee Canada.
+c)Les comptables de M. Goldhar se sont occupés de produire toutes ses déclarations de revenus. Il a eu recours aux services de Jerry Pinkas chez Schwartz Levitsky Feldman LLP, Steven Levine de Dacks & Levine et Mark Pelchowitz chez Truster Zweig LLP.
+d)La structure de la société de M. Goldhar pour sa participation dans WowWee et sa vente définitive en 2007 a été mise sur pied selon les directives de Richard Yanofsky et avec l’aide des comptables des Yanofsky, de Schwartz Levitsky Feldman LLP, et de leurs avocats chez Yanofsky Mancuso Et Associés.
+e)M. Goldhar a réinvesti de l’argent dans chacune des sociétés de jouets auxquelles il participait. De plus, M. Goldhar a déclaré lors de son témoignage que les prêts intersociétés au sein de son groupe de sociétés servaient à financer ses activités commerciales.
+(iii) Témoignage de Marilyn Goldhar
+[14] Marilyn Goldhar a témoigné lors de l’audience relative au présent appel. J’ai conclu que Mme Goldhar était un témoin crédible.
+[15] Mme Goldhar a déclaré lors de son témoignage qu’elle est hygiéniste dentaire depuis plus de 40 ans. Elle n’a pas œuvré dans d’autres secteurs et n’a pas de formation en comptabilité. Elle a déclaré lors de son témoignage qu’à partir de 2006, lorsque M. Goldhar se rendait davantage à Hong Kong pour son travail avec WowWee, qui allait plutôt bien, il avait besoin de quelqu’un pour s’occuper de ses affaires courantes, notamment pour composer avec ses comptables et ses avocats. En conséquence, elle a accepté de diminuer ses heures de travail comme hygiéniste dentaire afin de pouvoir aider M. Goldhar dans ses affaires financières.
+[16] Mme Goldhar a déclaré lors de son témoignage qu’elle communiquait fréquemment avec les avocats et les comptables de M. Goldhar, et qu’elle avait obtenu tous les documents nécessaires qui étaient demandés.
+(iv) Témoignage de Richard Yanofsky
+[17] Richard Yanofsky a témoigné lors de l’audience relative au présent appel. Bien que M. Yanofsky m’ait semblé être un témoin crédible, certaines de ses réponses m’ont paru vagues, en raison du temps écoulé et de son manque de connaissance de toutes les affaires de M. Goldhar.
+[18] M. Yanofsky a déclaré lors de son témoignage être un homme d’affaires et diplômé de l’Université McGill, où il a étudié dans le domaine des relations avec les investisseurs et de l’économie. Il a également fait une année d’études supérieures en gestion. Il n’a aucune expérience ni formation officielle en fiscalité ou en comptabilité.
+[19] M. Yanofsky a déclaré lors de son témoignage qu’il a rencontré M. Goldhar pour la première fois au début des années 1990 lorsque M. Goldhar est entré au service de WowWee Canada et de WowWee Hong Kong. WowWee Canada assurait principalement la fonction de vente pour le groupe WowWee, qui était une société de Hong Kong. M. Goldhar a joué un rôle déterminant dans la sollicitation et la stimulation de ces ventes. Au fil du temps, M. Goldhar est passé d’employé à actionnaire minoritaire de WowWee.
+[20] M. Yanofsky a déclaré lors de son témoignage que WowWee a été vendue pour la première fois à Hasbro vers l’an 2000, après quoi M. Goldhar a conservé son emploi chez Hasbro, vendant les produits de WowWee. Vers 2003 ou 2004, le groupe de gestion WowWee a racheté WowWee (ou ses actifs) à Hasbro. M. Goldhar a continué à travailler dans sa fonction de vente chez WowWee après le rachat. La participation de M. Goldhar était d’environ 6 %. En raison du coût de financement du rachat, ils ont fait appel à Francis Choi comme partenaire à ce moment-là. Ils comptaient également sur l’autofinancement, notamment les prêts intersociétés.
+[21] M. Yanofsky a en outre déclaré lors de son témoignage qu’ils avaient vendu WowWee une deuxième fois au cours du second semestre de 2007 au groupe Optimal. Ils ont fait appel à des avocats et à des comptables au Canada et à Hong Kong pour obtenir des conseils et structurer la vente. Parmi les conseillers, il y avait Kennedy Tang à Hong Kong, PSB à Montréal et Charles Spector de Dentons. M. Yanofsky a participé activement à la rencontre de leurs divers conseillers juridiques et comptables dans le cadre de la structuration de la deuxième vente de WowWee.
+[22] Après la vente de WowWee au groupe Optimal, M. Goldhar est resté au service du groupe Optimal dans sa fonction de vente WowWee jusqu’en 2009 ou 2010 environ.
+(v) Témoignage de Mark Pelchovitz
+[23] Mark Pelchovitz a témoigné lors de l’audience relative au présent appel. J’ai conclu que M. Pelchovitz était un témoin crédible.
+[24] M. Pelchovitz a déclaré lors de son témoignage qu’il est un CA/CPA ayant obtenu son titre en 1983. Lenny Gelbard était l’un de ses clients, et lorsque M. Gelbard et M. Goldhar ont décidé de former la société de personnes du groupe Gillyboo avec leurs épouses respectives, il est également devenu le comptable de M. Goldhar. M. Pelchovitz exerce ses activités professionnelles pour Truster Zweig LLP.
+[25] M. Pelchovitz a déclaré lors de son témoignage qu’il avait rencontré M. Goldhar et M. Gelbard dans le but de concevoir une structure pour la société de personnes du groupe Gillyboo, qui a été inscrite en 2010. Cette structure a été conçue par Perry Truster de son cabinet et comprenait deux sociétés pour chacun des quatre associés, soit un total de huit sociétés. Ces sociétés ont été constituées par les avocats des parties. M. Pelchovitz a préparé et déposé les déclarations de revenus de 2009, 2010, 2011 et des années subséquentes pour les Goldhar ainsi que les déclarations de revenus des sociétés pour leurs sociétés. M. Pelchovitz a déclaré lors de son témoignage qu’il a cessé de travailler pour les Goldhar vers 2014 ou 2015.
+(vi) Témoignage de Scott Robinson
+[26] Scott Robinson a témoigné lors de l’audience relative au présent appel. J’ai conclu que M. Robinson était un témoin crédible.
+[27] M. Robinson a déclaré lors de son témoignage qu’il est titulaire d’un baccalauréat en administration des affaires de l’Université Wilfred Laurier, d’un baccalauréat en éducation de l’Université Western et d’un titre CMA/CPA. Il est actuellement employé comme vérificateur dans la Division de l’observation à l’étranger de l’ARC. Auparavant, il était vérificateur dans la Division des petites et moyennes entreprises, ce qui supposait de travailler avec de grandes déclarations d’impôt sur le revenu des particuliers et de petites déclarations d’impôt sur le revenu des sociétés. Auparavant, il était en poste à la direction des recouvrements de l’ARC. Dans l’ensemble, il est au service de l’ARC depuis 1993.
+[28] M. Robinson a déclaré lors de son témoignage que la vérification de M. Goldhar par l’ARC a été entreprise après qu’elle eut reçu des renseignements du Consortium international des journalistes d’investigation selon lesquels l’appelant était l’unique actionnaire d’une société des îles Vierges britanniques. Par conséquent, un questionnaire de vérification initial a été envoyé par l’ARC à M. Goldhar le 1er août 2014 ou vers cette date. La vérification de l’ARC portait sur les années d’imposition 2006 à 2013 de M. Goldhar et s’est poursuivie jusqu’en 2017, lorsque de nouvelles cotisations ont été établies les 7 juillet 2017 et 20 novembre 2017 à l’égard des années d’imposition 2008, 2009, 2010 et 2011 de M. Goldhar. Les autres années d’imposition n’ont pas fait l’objet d’une nouvelle cotisation et ne sont pas en cause devant notre Cour.
+DROIT ET DISCUSSION [29] Comme je l’ai mentionné ci-dessus, les présents appels soulèvent quatre questions. Les deux premières questions seront discutées ensemble, après quoi les deux autres questions seront discutées. Une question sous-jacente, qui est dans une certaine mesure commune à toutes les questions, consiste à savoir si M. Goldhar, avec l’aide de Mme Goldhar, a agi avec autant de soins pour s’acquitter de ses obligations en matière de déclaration de revenus au cours de ses années d’imposition 2008 à 2011.
+(i) Sous-alinéa 152(4)a)(i) – Années frappées de prescription et revenu non déclaré
+[30] Comme je l’ai mentionné ci-dessus, voici les deux premières questions soulevées dans les présents appels :
+a)Le ministre a-t-il correctement établi les nouvelles cotisations pour les années d’imposition 2008, 2009, 2010 et 2011 de M. Goldhar afin d’inclure des avantages non déclarés conférés à un actionnaire de 3 032 271 $, 1 316 399 $, 1 190 262 $ et 16 089 $, respectivement?;
+b)Le ministre a-t-il correctement établi les nouvelles cotisations pour les années d’imposition 2008, 2009, 2010 et 2011 de M. Goldhar au-delà de la période normale de nouvelle cotisation en application du sous-alinéa 152(4)a)(i) de la Loi?
+[31] Pour les motifs qui suivent, je suis d’avis que le ministre n’a pas correctement inclus les avantages non déclarés conférés à un actionnaire dans les années d’imposition 2008 à 2011 de M. Goldhar pour le motif qu’il ne pouvait pas établir de nouvelles cotisations pour ces années d’imposition au-delà de la période normale de nouvelle cotisation et, à titre subsidiaire, pour le motif que le ministre a mal calculé la somme de ces avantages.
+[32] En l’espèce, le ministre a établi une nouvelle cotisation pour les années d’imposition 2008 à 2011 de M. Goldhar au-delà de la période normale de nouvelle cotisation conformément au sous-alinéa 152(4)a)(i) de la Loi, qui est ainsi libellé :
+(4) Cotisation et nouvelle cotisation [délai de prescription] — Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenus pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi, […]
+[Non souligné dans l’original.]
+[33] En l’espèce, le ministre n’a pas allégué de fraude, mais a plutôt allégué que M. Goldhar a fait une présentation erronée des faits pour chacune de ses années d’imposition 2008 à 2011, par négligence, inattention ou omission volontaire. Comme l’enseigne une abondante jurisprudence, le ministre a le fardeau de prouver la présentation erronée des faits alléguée pour chacune de ces années d’imposition. Il doit également prouver que la présentation erronée des faits était imputable à la négligence, à l’inattention ou à l’omission volontaire[7].
+[34] J’examinerai d’abord la question de savoir si le ministre a établi s’il y a eu la présentation erronée des faits alléguée pour les quatre années d’imposition frappées d’appel. À cet égard, je fais remarquer que le ministre a établi une nouvelle cotisation à l’égard de M. Goldhar pour le motif qu’il a omis de déclarer les sommes indiquées à l’annexe A pour ses années d’imposition 2008 à 2011[8]. Pour les motifs qui suivent, je suis d’avis que le ministre n’a pas établi qu’il y a eu présentation erronée des faits alléguée pour les années d’imposition frappées d’appel en l’espèce.
+[35] Malgré l’ECPF, les cinq témoins et les 17 volumes de pièces présentés en preuve au procès, la Cour s’est trouvée devant des éléments de preuve contradictoires et un portrait peu clair des opérations entreprises par M. Goldhar et ses différentes sociétés au cours des années d’imposition frappées d’appel. Essentiellement, le ministre allègue que tous les fonds retirés de Beanteek au cours de la période 2008 à 2011 étaient des avantages conférés à un actionnaire. M. Goldhar prétend que lui et Mme Goldhar avaient avancé des fonds à Beanteek, et que les divers transferts étaient des transferts intersociétés au sein de leur groupe de sociétés ou des remboursements de prêts aux sociétés qu’ils avaient consentis. Je fais remarquer que les éléments de preuve appuient la thèse de M. Goldhar relativement à certains des transferts. Je fais également remarquer que les éléments de preuve indiquent que le ministre a établi une cotisation à l’égard des années d’imposition 2008 à 2011 de M. Goldhar pour des sommes qui ne constituaient pas des avantages au cours de ces années d’imposition.
+[36] À l’égard de l’année d’imposition 2008 de M. Goldhar, les trois premiers éléments énumérés par le ministre sont (i) l’avantage tiré d’actions, (ii) l’avantage des bons de souscription et (iii) les avances de fonds non déclarées. Ces trois prétendus avantages sont liés à la vente de WowWee en 2007. À cet égard, les paragraphes 16 à 18 de l’ECPF indiquent ce qui suit :
+[traduction]
+16. En décembre 2007, à la suite de la série d’opérations, un dividende a été déclaré pour Beanteek sous la forme de 2 964 000 $ US en espèces et de 606 110 $ US et 94 464 $ en actions et en bons de souscription, respectivement, du groupe Optimal (« Optimal ») découlant de la vente des actifs de WowWee Inc.
+17. De 2008 à 2011, les sommes d’argent suivantes : 2 336 812 $ CA, 1 316 399 $, 1 190 262 $ et 16 089 $ ont été retirées des comptes enregistrés auprès de Beanteek.
+18. Les certificats d’actions et les bons de souscription d’Optimal ont été délivrés au nom de l’appelant et non à celui de Beanteek.
+[37] Je note toutefois que les éléments de preuve supplémentaires suivants ont été présentés au procès relativement à ces trois éléments : [traduction]
+a)Formulaire 8-K de la Securities and Exchange Commission et convention d’achat d’actifs ci-jointe du 26 septembre 2007, relativement à la vente des actifs de WowWee[9]. La page 2 du formulaire 8-K présente le résumé suivant :
+« Le 26 septembre 2007, Optimal Group Inc. (la « société inscrite ») a conclu une convention d’achat d’actifs (la convention) avec WowWee Limited, WowWee Group Company, WowWee Marketing, Inc., Power Assets Pacific Ltd., Richard Yanofsky, David Goldhar et Eric Lau Tung Ching. Selon la convention, la société inscrite a accepté d’acquérir la quasi-totalité des actifs de WowWee Limited, une développeuse, distributrice et fournisseuse privée de produits robotiques, de jouets et de produits électroniques grand public, qui est située à Hong Kong, ainsi que la quasi-totalité des actifs de WowWee Marketing, ayant des bureaux à La Jolla, en Californie, et du groupe Wow Wee, ayant des bureaux à Montréal, au Québec (collectivement, « WowWee »). WowWee Marketing et le groupe WowWee fournissent des services à WowWee Limited dans le cadre de l’exploitation de son entreprise. L’achat des actifs et des activités de WowWee par la société inscrite est appelé ci-après l’« opération ».
+[...]
+« La convention stipule que WowWee est acquise par trois filiales en propriété exclusive de la société inscrite. Le prix d’achat total est de 65 millions de dollars américains, dont 55 millions de dollars américains sont payables en espèces et 10 millions de dollars américains sont payables à WowWee Limited en actions de catégorie « A » du groupe Optimal (actions d’Optimal évaluées le jour précédant la date de clôture de l’opération (la « clôture »). Optimal émet également des bons de souscription de WowWee Limited pour acheter jusqu’à 820 000 actions supplémentaires d’Optimal (les « bons de souscription ») à un prix d’exercice de 5,56 $ US par action d’Optimal. Certaines des échéances précises des bons de souscription restent à établir ».
+« La clôture devrait avoir lieu au quatrième trimestre de 2007. Les membres de la haute direction de WowWee, notamment les actionnaires majoritaires de WowWee Limited, conservent leur emploi dans la société après la clôture. »
+b)Selon un document intitulé « SEC-10K-FE 31 déc. 2007 », WowWee Limited a changé son nom pour celui de Sell Point Holdings Limited[10].
+c)Selon une convention de transfert de titres datée du 17 décembre 2007, entre David Goldhar (en tant qu’acheteur) et Sell Point Holdings Limited (en tant que vendeuse), Sell Point Holdings Limited a accepté de vendre 154 620 actions de catégorie « A » du capital de Groupe Optimal Inc. et 59 040 bons de souscription d’actions pour acquérir des actions supplémentaires d’Optimal. La convention stipule en outre que Sell Point Holdings Limited a acquis les titres d’Optimal aux termes de la convention d’achat d’actifs datée du 26 septembre 2007 mentionnée précédemment. Le paragraphe 2.1 de la convention de transfert de titres stipule que le prix d’achat des actions d’Optimal est de 606 110,40 $ et que le prix d’achat des bons de souscription d’Optimal est de 96 646 $. Il stipule en outre que le prix d’achat doit être intégralement acquitté par l’émission et la délivrance d’un billet à ordre portant intérêt sur la somme de 700 574,40 $. Une copie signée du billet à ordre, datée du 17 décembre 2007, fournie par M. Goldhar à Sell Point Holdings Limited est jointe à la convention de transfert de titres[11].
+d)Le certificat d’actions numéro 00002270 pour 154 620 actions de catégorie « A » du capital d’Optimal Group Inc. a été établi au nom de David Goldhar. Le certificat est daté du 26 mai 2008[12].
+e)Un bon de souscription d’achat de 59 040 actions de catégorie « A » de Groupe Optimal Inc. a été émis au nom de David Goldhar. Le bon de souscription est daté du 1er mai 2008[13].
+f)Le bilan de Beanteek Enterprises Inc. au 31 décembre 2008 montre un passif à court terme intitulé « Avances de l’administrateur » de 19 902 021,09 $ HK[14].
+g)Dans une lettre datée du 25 mai 2015, envoyée par l’avocat de l’appelant à Scott Robinson (le vérificateur de l’ARC), l’appelant a présenté les observations suivantes au ministre :
+[traduction]
+« Au cours de la période 2004 à 2006, WowWee Hong Kong a avancé des fonds à David Goldhar ou à ses sociétés de portefeuille (notamment Beanteek) ».
+[...]
+« En décembre 2007, RPA a également déclaré des dividendes sur ses actions ordinaires de catégorie A de 24 241 698 $ US (dont 5 679 822,62 $ US à Beanteek) ».
+« Au lieu du dividende, Beanteek a reçu la contrepartie suivante :
+Somme de 2 964 000 $ US en espèces
+Anciens prêts ou anciennes avances consentis par David ou ses sociétés de portefeuille de 2 015 248,22 $ US
+Actions d’Optimal de 606 110,40 $ US
+Bons de souscription d’Optimal de 94 464 $ US[15] ».
+[38] Il existe des incohérences entre l’ECPF et les éléments de preuve présentés au procès d’une part et les documents mentionnés précédemment. Après avoir examiné tous les éléments de preuve, selon la prépondérance des probabilités, voici mon point de vue :
+a)Les sommes de 606 110,40 $ US et de 94 464 $ US en actions et en bons de souscription d’Optimal émis en mai 2008 au nom de M. Goldhar ont été acquises par ce dernier le 17 décembre 2007 en échange d’un billet à ordre de 700 574,40 $ US. Étant donné que M. Goldhar a payé une contrepartie égale au prix d’achat des actions, qui équivaut à l’avantage qui lui a été conféré par Beanteek, selon l’allégation du ministre, je suis d’avis que Beanteek ne lui a conféré aucun avantage en 2008 concernant les actions d’Optimal ou les bons de souscription ayant fait l’objet des nouvelles cotisations du ministre en 2008.
+b)Il existe peu d’éléments de preuve des avances de fonds non déclarées de 2 015 248 US prétendument reçues par Beanteek, M. Goldhar ou ses sociétés de portefeuille de WowWee avant la vente à Optimal à la fin de 2007. Très peu d’éléments de preuve dont je dispose indiquent cependant que les avances en espèces ont été faites par WowWee au cours des années 2003 à 2006, et qu’elles ont été compensées par Rich Point Asia (RPA) avec le produit de la vente payable par ailleurs à Beanteek en décembre 2007. Par conséquent, je suis d’avis que Beanteek n’a conféré aucun avantage à M. Goldhar en 2008 (ou au cours des années d’imposition subséquentes) concernant des avances de fonds non déclarées de 2 015 248 $ US qui ont fait l’objet des nouvelles cotisations de 2008 du ministre.
+[39] Toutes les autres sommes versées à titre d’avantages conférés à un actionnaire alléguées énumérées à l’annexe A ci-jointe concernent des transferts en espèces effectués par Beanteek au cours des années 2008 à 2011 à des bénéficiaires inconnus, à 2010 Ltd., à WowWee (au nom de la société de personnes Gillyboo), à Marilyn Goldhar, à WowWee (au nom de la société de personnes Goldy Toys) et à Kenscott Ltd. Le ministre allègue que toutes ces sommes sont des avantages à un actionnaire conférés à autrui, M. Goldhar prétend qu’elles sont toutes soit des remboursements de sommes avancées à Beanteek par lui ou Mme Goldhar, soit des prêts intersociétés liés aux entreprises commerciales qu’il a continué d’exploiter après avoir quitté Optimal. D’après tous les éléments de preuve, selon la prépondérance des probabilités, je suis d’avis qu’ils appuient davantage la thèse de M. Goldhar que celle du ministre. À cet égard, je fais remarquer les faits suivants :
+a)Comme je l’ai mentionné précédemment, le bilan de Beanteek Enterprises Inc. au 31 décembre 2008 indiquait un passif à court terme intitulé « Avances de l’administrateur » de 19 902 021,09 $ HK[16].
+b)Le 9 janvier 2009, 2010 Ltd. a remboursé une somme égale à 1 218 520 $ CA à Beanteek. C’était le lendemain d’un transfert de 1 100 000 $ US de Beanteek à 2010 Ltd. Je fais remarquer que le ministre a inclus le transfert de Beanteek à 2010 Ltd. dans les avantages pour lesquels une cotisation a été établie à l’égard de M. Goldhar en 2009, mais n’a pas réduit les avantages imposés à M. Goldhar en 2009 de la somme du remboursement. Le ministre a plutôt réduit la somme des avantages imposés en 2011 et 2012[17].
+c)Le 24 mars 2011, WowWee a remboursé 536 084,04 $ à Beanteek. Cette somme n’a pas été prise en compte dans les sommes indiquées dans les cotisations établies à l’égard de M. Goldhar pour ses années d’imposition 2008 à 2011. Le ministre a plutôt réduit la somme des avantages imposés en 2012 et 2013.
+d)Miller Thompson LLP a enregistré un contrat de sûreté en Ontario à l’égard d’un prêt consenti par Beanteek Enterprises Limited à la société de personnes Gold Toys[18].
+[40] D’après tous les éléments de preuve, selon la prépondérance des probabilités, je suis d’avis que le ministre n’a pas prouvé que M. Goldhar a fait la présentation erronée des faits alléguée pour ses années d’imposition 2008 à 2011. Même si la Cour retenait l’idée que le ministre s’est acquitté du fardeau qui lui incombait à l’égard de certaines sommes versées à titre d’avantages conférés à un actionnaire alléguées, je suis d’avis que le ministre a établi une cotisation à l’égard d’une partie importante des sommes mentionnées précédemment pour les mauvaises années d’imposition. Par conséquent, même si la Cour retenait par ailleurs l’idée que le ministre s’est acquitté de son fardeau à l’égard de certaines des sommes, celles-ci doivent être réduites des sommes suivantes :
+a)En 2008, de 601 685,40 $ CA, 93 774,41 $ CA et 2 000 536,69 $ CA, soit un total de 2 695 996,50 $ CA (les sommes pour les actions et bons de souscription d’Optimal et les avances de fonds non déclarées de l’année précédente);
+b)En 2009, de 1 218 520 $ CA, soit le montant du prêt de 2010 Ltd. qui a été remboursé le 9 janvier 2009, soit le lendemain de son octroi;
+c)En 2010, de 536 084,04 $ CA, soit le montant du prêt de WowWee qui a été remboursé le 24 mars 2011. Ce prêt semble avoir été versé par Beanteek à WowWee le 5 août 2010[19].
+[41] Ces rajustements réduiraient la somme des avantages ayant fait l’objet d’une cotisation autrement pour les années d’imposition 2008 à 2011 de M. Goldhar de 5 555 022,39 $ CA à 1 104 421,85 $ CA, soit une réduction totale de 4 450 600,54 $ CA.
+[42] Comme je l’ai fait remarquer précédemment, le ministre a également le fardeau de prouver que la présentation erronée des faits était imputable à la négligence, à l’inattention ou à l’omission volontaire. Pour les motifs qui suivent, je suis d’avis que le ministre n’a pas établi que la présentation erronée des faits alléguée par M. Goldhar pour ses années d’imposition 2008 à 2011 était imputable à la négligence, à l’inattention ou à l’omission volontaire.
+[43] Dans la décision Venne c. R. [sic] [1984] C.T.C. 223, au paragraphe 16, le juge Strayer observe ce qui suit :
+[traduction]
+16 Je conclu qu’il suffit au ministre, pour invoquer son pouvoir en vertu de l’alinéa 152(4)a)(i) de la Loi, de démontrer la négligence du contribuable, à l’égard d’un ou plusieurs éléments de sa déclaration d’impôt sur le revenu au titre d’une année donnée. Cette négligence est établie s’il est démontré que le contribuable n’a pas fait preuve de diligence raisonnable. C’est sûrement là le sens des mots « présentation erronée des faits, par négligence », en particulier avec d’autres motifs comme l’inattention ou l’omission volontaire qui font référence à un degré de négligence plus élevé ou à une mauvaise conduite délibérée. Sauf si ces mots étaient superflus dans cet article, hypothèse que je ne puis retenir, le terme « négligence » impose un critère moins strict de faute, semblable à celui qui est utilisé dans les autres domaines du droit, comme la responsabilité délictuelle. [...]
+[Non souligné dans l’original.]
+[44] Dans l’arrêt Regina Shoppers Mall Ltd. c. R., [sic] [1991] C.T.C. 297 (CAF), au paragraphe 7, [traduction] « Il a également été établi que le soin nécessaire doit correspondre à celui d’une personne sage et prudente et que la déclaration doit être faite d’une façon que le contribuable croit véritablement appropriée ».
+[45] En l’espèce, M. Goldhar s’est fié à des experts-comptables pour produire ses déclarations de revenus des sociétés et des particuliers au cours des années d’imposition frappées d’appel. Il s’est également appuyé sur des avocats et ses experts-comptables pour structurer ses affaires juridiques. En raison de ses nombreux déplacements et de son horaire de travail, il comptait également sur son épouse, Marilyn Goldhar, pour l’aider dans ses affaires financières, notamment en fournissant des renseignements à ses comptables au besoin. Lorsqu’ils ont pris connaissance d’un problème avec la déclaration T1134 de M. Goldhar, ils ont communiqué avec le comptable pour le régler rapidement, et lorsqu’ils n’ont pas été convaincus que le problème a été traité de manière satisfaisante, ils ont changé de comptable. Au vu de tous les éléments de preuve, je suis d’avis que M. Goldhar, avec l’aide de son épouse et de ses experts-comptables, a agi de manière sage et prudente et a fait preuve d’une diligence raisonnable en ce qui concerne la production de sa déclaration de revenus pour chacune de ses années d’imposition 2008 à 2011. À cet égard, je fais remarquer les faits suivants :
+a)M. Goldhar n’avait aucune formation en fiscalité, en administration des affaires ou en comptabilité. Il était vendeur et voyageait beaucoup pour son travail.
+b)M. Goldhar n’a jamais produit ses propres déclarations de revenus. Les experts-comptables qu’il a embauchés ont toujours produit ses déclarations de revenus, notamment les années d’imposition frappées d’appel.
+c)M. Goldhar et Mme Goldhar communiquaient fréquemment avec ses comptables.
+d)Les affaires financières de M. Goldhar se sont compliquées immédiatement avant et pendant les années d’imposition frappées d’appel.
+e)Bien que l’intimé ait soutenu que les comptables de M. Goldhar n’étaient pas au courant de ses sociétés étrangères, ce fait n’est pas étayé par les éléments de preuve. Les comptables de M. Goldhar ont produit des formulaires T1134 pour Beanteek pour chacune des années 2008, 2010 et 2011. M. Pelchovitz n’a pu expliquer la raison pour laquelle son cabinet n’a pas produit le formulaire T1134 pour Beanteek en 2009. M. Goldhar a également obtenu des conseils fiscaux de ses comptables relativement à Beanteek[20]. Bien que M. Pelchovitz ait déclaré lors de son témoignage qu’il n’était pas au courant de 2010 Ltd, cela n’est pas non plus étayé par des éléments de preuve, car son cabinet a dûment produit un formulaire T1134 pour Beanteek et 2010 Ltd. pour l’année d’imposition 2011 de M. Goldhar.
+f)En ce qui concerne son processus de déclaration de revenus, Mme Goldhar a recueilli tous les renseignements requis par les comptables. M. Goldhar a déclaré lors de son témoignage qu’il avait discuté de ses déclarations de revenus avec ses comptables.
+g)M. Goldhar et Mme Goldhar n’étaient pas des associés directs dans la société de personnes groupe Gillyboo. Au contraire, chacun des dirigeants sous-jacents dans Gillyboo utilisait une structure de société comportant deux sociétés. M. Pelchovitz et son cabinet ont préparé les déclarations de revenus des sociétés canadiennes de Goldhar.
+h)M. Goldhar n’était pas un associé direct de la société de personnes Goldy Toys. Les associés étaient des sociétés.
+i)Beanteek a avancé des fonds à WowWee et à Kenscott Ltd. dans le but de financer les acquisitions des biens figurant à l’inventaire au nom des sociétés de personnes du groupe Gillyboo et de Goldy Toys. M. Goldhar a qualifié les fonds avancés de prêts intersociétés. Ces sociétés de personnes n’ont finalement pas connu de succès.
+j)La convention de retrait de la société de personnes datée du 31 décembre 2010 concernant le retrait des Goldhar de la société de personnes du groupe Gillyboo définit collectivement les « Goldhar » comme comprenant M. Goldhar, Mme Goldhar et leurs quatre sociétés ontariennes à numéro. Aux paragraphes 1.2 et 1.5 de cette convention, les parties reconnaissent que les « Goldhar » ont prêté 200 000 US $ et 1 000 000 US $ à la société de personnes du groupe Gillyboo[21]. Bien que l’intimé ait soutenu que les mentions de « Goldhar » dans la convention indiquaient des prêts personnels consentis par M. Goldhar à la société de personnes du groupe Gillyboo, je suis d’avis que cette convention étaye le témoignage de M. Goldhar selon lequel les prêts étaient des prêts intersociétés de Beanteek. À cet égard, je fais remarquer que les sociétés à numéro, et non M. Goldhar ou Mme Goldhar, étaient des partenaires du groupe Gillyboo.
+k)M. Goldhar a déclaré lors de son témoignage qu’il (avec l’aide de Mme Goldhar) avait donné à ses comptables, notamment M. Pelchovitz, tous les renseignements financiers et autres qu’ils avaient sur Beanteek.
+l)M. Goldhar a fait appel à Jerry Pinkas de Schwartz Levitsky Feldman LLP concernant le dépôt de sa déclaration de revenus de 2008. Ce cabinet était également le comptable de M. Yanofsky. Lorsque l’ARC a soulevé un problème en 2009 avec le dépôt du formulaire T1134 à l’égard de Beanteek, M. Goldhar s’est tourné vers Dacks et Levine, comptables agréés. Il s’est ensuite tourné vers M. Pelchovitz chez Truster Zweig LLP en 2009 parce que M. Pelchovitz était le comptable de M. Gelbard, avec qui M. Goldhar avait des relations d’affaires par l’intermédiaire de la société de personnes du groupe Gillyboo. M. Pelchovitz et son cabinet étaient chargés de produire toutes les déclarations de revenus des particuliers et des sociétés canadiennes de M. Goldhar en 2009, 2010 et 2011. Ils ont également fourni des conseils fiscaux et des directives concernant la structuration des affaires relatives à la société de M. Goldhar de 2009 à 2011 (et les années subséquentes).
+m)M. Goldhar a déclaré lors de son témoignage qu’il fournissait systématiquement les mêmes renseignements à ses comptables à l’égard de chacune de ses années d’imposition de 2008 à 2011, et qu’il ne savait pas pourquoi les comptables avaient commis des erreurs pour certaines de ces années.
+n)Au cours de son contre-interrogatoire, M. Goldhar a déclaré qu’il examinait ses déclarations avec ses comptables chaque année de la même manière pendant 30 ans. S’il ne comprenait pas tous les détails, il a déclaré lors de son témoignage qu’on lui expliquait ses déclarations, plus précisément ce qu’il devait chaque année au gouvernement. M. Goldhar a en outre déclaré qu’il n’était au courant des lacunes dans ses déclarations de revenus jusqu’à ce qu’il en soit informé par l’ARC.
+o)La facture de Jerry Pinkas de Schwartz Levitsky Feldman LLP (SLF) datée du 31 mars 2009[22], indique clairement que SLF a fourni à M. Goldhar des conseils fiscaux à l’égard de Beanteek et qu’elle a également demandé à M. Kennedy à Hong Kong de lui fournir les états financiers de Beanteek pour ses années d’imposition 2006 à 2008.
+p)Mme Goldhar a déclaré lors de son témoignage qu’elle a personnellement prêté de l’argent aux diverses sociétés qu’elle-même ou M. Goldhar ont exploitées par l’intermédiaire de leurs sociétés et sociétés de personnes respectives.
+q)M. Pelchovitz a déclaré lors de son témoignage que la structure de société que lui-même et son cabinet ont mise en place pour les Goldhar a été conçue par Perry Truster, ancien président de la Fondation canadienne de fiscalité. Il a en outre déclaré que pour la période de production des déclarations de revenus chaque année, il communiquait avec Mme Goldhar, qui était très organisée, et elle lui fournissait les renseignements dont il avait besoin. Il a de plus déclaré qu’elle répondait rapidement à ses demandes. Il l’a décrite comme étant la meilleure pour ce qui est de la promptitude à répondre. Il a également déclaré qu’il s’était fié à l’un des responsables de la fiscalité de son bureau pour s’occuper de la déclaration à l’étranger de M. Goldhar et de ses sociétés. Il a également déclaré qu’il n’était pas certain de la raison pour laquelle son cabinet avait commis des erreurs dans la déclaration concernant les formulaires T1134 pour Beanteek et 2010 Ltd. pour les années d’imposition 2009 et 2010 de M. Goldhar, mais qu’il avait pu les produire correctement pour l’année d’imposition 2011 de M. Goldhar.
+r)M. Pelchovitz a en outre déclaré qu’il n’était pas au courant de problèmes liés à l’observation des règles fiscales relativement aux déclarations de revenus des particuliers ou des sociétés de M. Goldhar.
+s)Les formulaires T1134 ont été déposés sans lacune par le comptable de M. Goldhar pour Beanteek et 2010 Ltd. À l’égard de l’année d’imposition 2011 de M. Goldhar, soit environ deux à trois ans avant que l’ARC n’entreprenne sa vérification[23].
+[46] Dans l’ensemble, selon la prépondérance des probabilités, je suis d’avis que M. Goldhar a fait preuve d’une diligence raisonnable dans sa déclaration de revenus pour ses années d’imposition 2008 à 2011. Je suis également d’avis qu’il a agi avec autant de soins qu’une personne sage et prudente. M. Goldhar a exploité une entreprise internationale et a retenu les services d’avocats et d’experts-comptables pour l’aider à organiser ses affaires financières et à produire ses déclarations de revenus des particuliers et des sociétés. Avec l’aide de son épouse, Mme Goldhar, il a cherché à fournir à ses experts-comptables tous les renseignements nécessaires en temps utile. M. Pelchovitz a déclaré que c’est ce qu’ils ont fait. Lorsque l’ARC a demandé plus de renseignements concernant le formulaire T1134 de 2008, ils ont répondu rapidement en demandant à leur comptable de s’en occuper, et lorsqu’il n’a pas agi de manière satisfaisante, ils ont rapidement changé de cabinet comptable. Compte tenu de la complexité des entreprises de M. Goldhar et de son manque d’expertise en matière fiscale, je suis d’avis qu’il a pris toutes les mesures raisonnables qu’une personne sage et prudente prendrait pour s’assurer que ses déclarations de revenus soient produites correctement pour les années d’imposition frappées d’appel. Bien que l’intimé soutienne que M. Goldhar aurait dû prendre des mesures supplémentaires, comme faire un examen plus approfondi des déclarations ou poser plus de questions à ses comptables, je suis d’avis que ces mesures supplémentaires n’étaient pas utiles dans les circonstances de l’espèce, parce que M. Goldhar n’avait pas l’expertise pour entreprendre un examen plus approfondi. Il aurait fallu qu’il soit fiscaliste pour le faire. Ce n’est pas la norme. C’est pour cette raison qu’il a retenu les services d’un cabinet d’experts-comptables, qui comptait dans ses rangs des experts en fiscalité, pour lui fournir des conseils fiscaux et produire ses déclarations de revenus.
+[47] Compte tenu de tout ce qui précède, je suis d’avis que le ministre ne s’est pas acquitté du fardeau qui lui incombait de prouver à la fois la présentation erronée de fait qu’il allègue pour les années d’imposition 2008 à 2011 de M. Goldhar et que la présentation erronée des faits alléguée était imputable à la négligence, à l’inattention ou à l’omission volontaire.
+(ii) Pénalités prévues au paragraphe 163(2)
+[48] La question suivante dans les présents appels consiste à savoir si le ministre a correctement imposé les pénalités à l’égard des années d’imposition 2008, 2009, 2010 et 2011 de M. Goldhar en application du paragraphe 163(2) de la Loi? Pour les motifs qui suivent, je suis d’avis que le paragraphe 163(2) ne devrait pas s’appliquer dans toutes les circonstances des présents appels.
+[49] Le paragraphe 163(2) de la Loi dispose :
+(2) Faux énoncés ou omissions — Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants […]
+[50] En outre, le paragraphe 163(3) de la Loi dispose :
+(3) Charge de la preuve relativement aux pénalités — Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[51] Par conséquent, l’intimé en l’espèce doit établir, selon la prépondérance des probabilités, que (i) chacune des déclarations de revenus de M. Goldhar de 2008 à 2011 contenait un faux énoncé ou une omission et que (ii) M. Goldhar a fait cet énoncé ou cette omission dans ces déclarations, y a participé, y a consenti ou y a acquiescé sciemment ou dans des circonstances équivalant à une faute lourde[24].
+[52] La décision de principe sur cette question est la décision Venne c. The Queen, [1984] C.T.C. 223, 84 D.T.C. 6247, par. 37 : la [traduction] « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence quant au respect de la loi ». La « conduite [reprochée] doit inclure un degré élevé de négligence correspondant à une action délibérée ou à une indifférence quant au respect de la loi » : Melman c. Canada, 2017 CAF 83, par. 4[25].
+[53] Dans l’arrêt Khanna c. R., la juge Monaghan a fait remarquer également ce qui suit au paragraphe 24 :
+[traduction]
+[...] Comme notre Cour l’a mentionné, « [l]e simple fait de constater qu’un montant non déclaré est imposable ne conduit pas inévitablement à la conclusion qu’une pénalité pour faute lourde est justifiée » : Deyab c. Canada 2020 CAF 222, [2021] 4 C.T.C 83, par. 65, autorisation d’interjeter appel à la CSC refusée, 39587 (10 juin 2021), [Deyab]. Lorsqu’un contribuable a touché des revenus non déclarés, « les circonstances liées à l’omission de déclarer les revenus doivent être examinées pour déterminer si cette omission était attribuable à [...] une faute lourde (pour justifier l’imposition d’une pénalité pour faute lourde) » : Deyab, par. 66[26].
+[54] En l’espèce, comme je l’ai déjà mentionné, je suis d’avis que l’intimé n’a pas établi que l’appelant a omis de déclarer une partie importante des revenus non déclarés allégués pour les années d’imposition frappées d’appel. Par conséquent, les pénalités prévues au paragraphe 163(2) de la Loi ne doivent pas s’appliquer à ces revenus, quelles que soient les conclusions de la Cour à l’égard du degré de négligence de l’appelant (s’il y a lieu) dans la production de ses déclarations de revenus de 2008 à 2011.
+[55] Je fais remarquer également que selon la thèse de l’appelant, la plupart, sinon la totalité, des autres montants de revenus non déclarés allégués étaient des prêts intersociétés de Beanteek consentis à d’autres entités au sein de la structure de société de M. Goldhar, ou des remboursements de sommes que lui-même ou Mme Goldhar avaient avancés à Beanteek. À cet égard, je fais remarquer que les états financiers de Beanteek au 31 décembre 2008 indiquaient un passif à court terme lié aux « Avances de l’administrateur » de 19 902 021,09 $ HK[27].
+[56] Compte tenu du témoignage crédible de l’appelant, du fait que bon nombre des transferts de Beanteek ont été effectués vers d’autres entités avec lesquelles M. Goldhar traitait, comme 2010 Ltd., WowWee et Kenscott Ltd., et du fait qu’il y a eu des remboursements importants de ces transferts au cours des années d’imposition portées en appel, je suis d’avis que l’appelant n’a pas produit ses déclarations de revenus de 2008 à 2011 en connaissant les erreurs ou les omissions alléguées ou en agissant selon un degré important de négligence qui correspond à une action délibérée, une indifférence quant au respect de la loi. Je suis plutôt d’avis que l’appelant, avec l’aide de son épouse, a fait tout son possible pour s’assurer que ses déclarations de revenus étaient dûment produites correctement et avec exactitude pour chacune des années d’imposition portée en appel. À cet égard, je fais remarquer qu’il a fait appel à des cabinets de CPA professionnels pour produire ses déclarations de revenus pour chacune de ces années et qu’il a, avec l’aide de son épouse, tenté de leur fournir tous les renseignements nécessaires pour produire correctement ces déclarations de revenus. Je fais remarquer également que le dépôt du formulaire T1134 pour Beanteek a été effectué en 2008, 2010 et 2011 et que le dépôt du formulaire T1134 pour 2010 Ltd. a été effectué en 2011. En conséquence, il existe des éléments de preuve clairs établissant que ses comptables étaient au courant de ses sociétés étrangères et de la nécessité de déclarer leurs activités. Compte tenu de la complexité de ses affaires et des efforts que lui-même et Mme Goldhar ont déployés pour fournir à ses comptables et à ses avocats tous les renseignements pertinents, il était raisonnable que M. Goldhar se fie sur ses cabinets d’experts-comptables pour s’assurer que ses déclarations de revenus de 2008 à 2011 ont été déposées correctement et avec exactitude. À mon avis, toute erreur ou omission contenue dans ces déclarations n’était pas attribuable à sa connaissance ou à un degré quelconque de négligence ni plus précisément à un degré important de négligence qui corresponde à une action délibérée.
+[57] Compte tenu de tout ce qui précède, je suis d’avis que les pénalités prévues par le paragraphe 163(2) ne devraient pas s’appliquer aux années d’imposition 2008 à 2011 de M. Goldhar dans toutes les circonstances des présents appels.
+(iii) Pénalités à l’égard du formulaire T1134 – Déclaration des biens étrangers
+[58] La dernière question dans les présents appels consiste à savoir si le ministre a appliqué les pénalités à l’égard des années d’imposition 2008, 2009, 2010 et 2011 de M. Goldhar conformément aux alinéas 162(7)a), 162(10)a), 162(10.1)f) et 163( 2.4)d) de la Loi. Pour le motif qui suit, je suis d’avis que l’appelant a établi qu’il a fait preuve de diligence en tentant de s’acquitter de ses obligations de déclaration d’impôt étranger en application de la Loi et qu’il ne doit donc pas être assujetti à ces pénalités. Je fais remarquer en outre que le ministre a admis des faits qui écartent l’application des pénalités à l’égard de l’année d’imposition 2011 de M. Goldhar.
+[59] Voici les articles pertinents de la Loi :
+162 (7) Inobservation d’un règlement —Toute personne (sauf un organisme de bienfaisance enregistré) ou société de personnes qui ne remplit pas une déclaration de renseignements selon les modalités et dans le délai prévus par la présente loi ou le Règlement de l’impôt sur le revenu ou qui ne se conforme pas à une obligation imposée par la présente loi ou ce règlement est passible, pour chaque défaut — sauf si une autre disposition de la présente loi (sauf les paragraphes (10) et (10.1) et 163(2.22)) prévoit une pénalité pour le défaut — d’une pénalité égale, sans être inférieure à 100 $, au produit de la multiplication de 25 $ par le nombre de jours, jusqu’à concurrence de 100, où le défaut persiste.
+[...]
+162(10) Renseignements omis sur des non-résidents — Est passible d’une pénalité égale au résultat du calcul ci-après toute personne ou société de personnes (appelée « personne » au présent paragraphe) qui, sciemment ou dans des circonstances équivalant à faute lourde :
+a) ne produit pas une déclaration de renseignements selon les modalités et dans le délai prévus par l’un des articles 233.1 à 233.4 et 233.8,
+b) en cas d’inapplication de l’alinéa a), ne se conforme pas à une mise en demeure de produire une déclaration en application de l’article 233, [...]
+162 (10.1) Pénalité supplémentaire
+La personne ou la société de personnes (appelée « personne » au présent paragraphe) qui est passible de la pénalité prévue au paragraphe (10) pour défaut de produire une déclaration (sauf une déclaration de renseignements à produire en application de l’article 233.1) est passible, en plus de cette pénalité, d’une pénalité égale au résultat du calcul ci-après si :
+a) en cas d’application de l’alinéa (10)a), le nombre de mois, même incomplets, à compter de celui au cours duquel la déclaration devait être produite, où la déclaration n’est pas produite dépasse 24,
+b) en cas d’application de l’alinéa (10)b), le nombre de mois, même incomplets, à compter de celui au cours duquel la mise en demeure visée à cet alinéa a été signifiée, où la déclaration n’est pas produite dépasse 24,
+A – B
+où :
+A représente :
+c) si la déclaration est à produire en application de l’article 233.2 à l’égard d’une fiducie, 5 % du total des montants représentant chacun la juste valeur marchande, au moment où il a été fait, d’un apport que la personne ou la société de personnes a fait à la fiducie avant la fin de la dernière année d’imposition de celle-ci pour laquelle la déclaration doit être produite,
+d) si la déclaration est à produire en application de l’article 233.3 pour une année d’imposition ou un exercice, 5 % du plus élevé des montants représentant chacun le total des coûts indiqués, pour la personne à un moment de l’année ou de l’exercice, d’un de ses biens étrangers déterminés au sens du paragraphe 233.3(1),
+e) si la déclaration est à produire en application de l’article 233.4 pour une année d’imposition ou un exercice relativement à une société étrangère affiliée de la personne, 5 % du plus élevé des montants représentant chacun le total des coûts indiqués, pour la personne à un moment de l’année ou de l’exercice, d’un bien de celle-ci qui constitue une action du capital-actions ou une dette de la société affiliée;
+B le total des pénalités dont la personne est passible selon les paragraphes (7) et (10) relativement à la déclaration.
+163 (2.4) Faux énoncés ou omissions [objet : déclaration des biens à l’étranger] — Toute personne ou société de personnes (appelée « personne » au présent paragraphe) qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, ou y participe, y consent ou y acquiesce, est passible de la pénalité suivante :
+a) si la déclaration est à présenter en application de l’article 233.1, 24 000 $;
+b) si la déclaration est à produire en application de l’article 233.2 à l’égard d’une fiducie, la plus élevée des sommes suivantes :
+(i) 24 000 $,
+(ii) 5 % du total des montants représentant chacun la juste valeur marchande, au moment où il a été fait, d’un apport que la personne ou la société de personnes a fait à la fiducie avant la fin de la dernière année d’imposition de celle-ci pour laquelle la déclaration doit être produite;
+c) si la déclaration est à présenter en application de l’article 233.3 pour une année d’imposition ou un exercice, le plus élevé des montants suivants :
+(i) 24 000 $,
+(ii) 5 % du plus élevé des montants représentant chacun le total des coûts indiqués, pour la personne à un moment de l’année ou de l’exercice, d’un de ses biens étrangers déterminés, au sens du paragraphe 233.3(1), relativement auquel le faux énoncé ou l’omission est fait;
+d) si la déclaration est à présenter en application de l’article 233.4 pour une année d’imposition ou un exercice, le plus élevé des montants suivants :
+(i) 24 000 $,
+(ii) 5 % du plus élevé des montants représentant chacun le total des coûts indiqués, pour la personne à un moment de l’année ou de l’exercice, d’un bien de celle-ci qui constitue une action du capital-actions ou une dette de la société étrangère affiliée relativement à laquelle la déclaration est produite;
+e) si la déclaration est à présenter en application de l’article 233.6 pour une année d’imposition ou un exercice, le plus élevé des montants suivants :
+(i) 2 500 $,
+(ii) 5 % du total des montants suivants :
+(A) les montants représentant chacun la juste valeur marchande d’un bien que la fiducie distribue à la personne au cours de l’année ou de l’exercice et relativement auquel le faux énoncé ou l’omission est fait,
+(B) les montants représentant chacun le montant le plus élevé qui représente le principal impayé d’une dette de la personne envers la fiducie pour l’année ou l’exercice et relativement à laquelle le faux énoncé ou l’omission est fait.
+[60] À l’égard des sanctions prévues aux alinéas 162(10a) et 163(2.4)d) de la Loi, je suis d’avis que l’appelant n’a pas agi sciemment ou dans des circonstances équivalant à faute lourde relativement au défaut de produire une déclaration de renseignements T1134 ni fait un faux énoncé ou une omission concernant la production d’une déclaration de renseignements T1134. À mon avis, les motifs énoncés ci-dessus à l’égard du paragraphe 163(2) et le sous-alinéa 152(4)a)(i) de la Loi valent tout autant quant à ces dispositions.
+[61] Comme il est indiqué au paragraphe 28 de l’ECPF, les formulaires T1134 à l’égard de l’année d’imposition 2011 de M. Goldhar ont été correctement produits pour Beanteek et 2010 Ltd. La nouvelle cotisation à l’égard du formulaire T1134 datée du 7 juillet 2017 pour 2011 indique que des pénalités ont été appliquées à l’égard de Beanteek et 2010 Ltd.[28]. Aucune autre société étrangère affiliée n’est mentionnée, bien que M. Robinson ait témoigné que les pénalités à l’égard du formulaire T1134 de 2011 étaient liées à Beanteek, 2010 Ltd. et possiblement une ou plusieurs autres sociétés. Après avoir été informé au cours de son contre-interrogatoire que le ministre avait reconnu que le formulaire T1134 de 2011 pour Beanteek et 2010 Ltd. avait été correctement rempli, M. Robinson s’est rétracté et a proposé que la pénalité soit appliquée à l’égard de certaines autres sociétés étrangères. Cependant, je fais remarquer que cela va à l’encontre de l’avis de nouvelle cotisation à l’égard du formulaire T1134 de 2011 en soi, qui ne mentionne que Beanteek et 2010 Ltd. concernant l’année d’imposition 2011 de M. Goldhar. Bien que j’aie conclu que M. Robinson était un témoin crédible en général, son témoignage sur cette question a mis en doute la véracité de son témoignage en général. Selon l’avis de nouvelle cotisation à l’égard du formulaire T1134 de 2011 et des aveux de l’intimé énoncés au paragraphe 28 de l’ECPF, je suis d’avis qu’il n’y a aucun fondement factuel pour aucune des pénalités à l’égard du formulaire T1134 imposées concernant l’année d’imposition 2011 de M. Goldhar.
+[62] Je fais remarquer qu’un formulaire T1134 a été produit pour Beanteek concernant les années d’imposition 2008, 2010 et 2011. De plus, un formulaire T1134 a été produit pour 2010 Ltd. concernant l’année d’imposition 2011. Je fais remarquer en outre que M. Goldhar a retenu les services d’un nouveau comptable dès qu’il s’est rendu compte qu’il y avait une lacune à l’égard de son formulaire T1134 de 2008. Il est aussi clair, qu’avec l’aide de Mme Goldhar, il a demandé à ses comptables de s’occuper de déposer correctement son formulaire T1134 à l’égard de Beanteek et 2010 Ltd. Il est également clair, qu’avec l’aide de Mme Goldhar, il s’est employé à fournir à ses comptables tous les renseignements nécessaires afin qu’ils puissent remplir correctement et avec exactitude ses déclarations de revenus de 2008 à 2011. D’après tous les éléments de preuve, je suis d’avis que cette inobservation n’était pas imputable à un manque d’effort ou de diligence raisonnable de la part de M. Goldhar ou de Mme Goldhar.
+[63] Les pénalités prévues par les alinéas 162(7)a) et 162(10.1)f) peuvent faire l’objet d’un moyen de défense tiré de la diligence raisonnable. Dans la décision Chiang c. La Reine, 2017 CCI 165, aux paragraphes 25 et 26, le juge Sommerfeldt de notre Cour a présenté le résumé suivant sur la défense de diligence raisonnable :
+25 J’ai examiné la question de savoir si M. Chiang pouvait invoquer la défense de diligence raisonnable, que la Cour suprême du Canada a expliquée de la manière suivante :
+La défense de diligence raisonnable est disponible si le défendeur croyait raisonnablement en un ensemble de faits erronés qui, s’ils étaient vrais, auraient rendu son acte ou son omission innocent. De plus, le défendeur qui démontre qu’il a pris toutes les précautions raisonnables pour éviter que l’événement en question ne se produise pourra échapper à la responsabilité [...] La défense de diligence raisonnable est assujettie à une norme objective et elle suppose l’examen de l’attitude d’une personne raisonnable placée en pareilles circonstances.
+26 Même si l’arrêt La Souveraine portait sur une infraction réglementaire, la Cour d’appel fédérale a confirmé que le recours à la défense de diligence raisonnable est également possible en ce qui concerne les pénalités administratives :
+Notre Cour a déjà statué que rien ne s’oppose à ce que le moyen de défense de la diligence raisonnable, dont une personne peut se prévaloir à l’encontre d’infractions de responsabilité stricte, puisse être invoqué à l’encontre de pénalités administratives [...] Il n’est peut‑être pas inapproprié de rappeler les principes qui gouvernent la défense de diligence raisonnable avant de les appliquer aux faits de l’espèce.
+La défense de diligence raisonnable permet à une personne d’éviter l’imposition d’une pénalité si elle fait la preuve qu’elle n’a pas été négligente. Elle consiste à se demander si cette personne a cru, pour des motifs raisonnables, à un état de fait inexistant qui, s’il eut existé, aurait rendu son acte ou son omission innocent ou si elle a pris toutes les précautions raisonnables pour éviter l’événement qui mène à l’imposition de la peine? [...] En d’autres termes, la diligence raisonnable excuse soit l’erreur de fait raisonnable, soit la prise de précautions raisonnables pour se conformer à la loi.
+[Non souligné dans l’original.]
+[64] En l’espèce, comme je l’ai déjà mentionné, je suis d’avis que M. Goldhar a établi qu’il a pris toutes les mesures raisonnables et n’a pas fait preuve de négligence dans la production de ses déclarations de revenus, notamment le formulaire T1134 pour chacune de ses années d’imposition 2008 à 2011. Avec l’aide de Mme Goldhar, il a fourni tous les renseignements demandés à ses comptables chaque année et a déployé des efforts raisonnables pour s’assurer que ses déclarations de revenus étaient produites avec exactitude. À mon avis, toute lacune dans ses déclarations T1134 n’était pas attribuable à un manque d’efforts raisonnables qu’il a déployés, avec l’aide de Mme Goldhar et de ses experts-comptables. Par exemple, il a bel et bien produit un formulaire T1134 en 2008 à l’égard de Beanteek, qui comportait toutefois une lacune dont il n’était pas au courant jusqu’à ce qu’il en soit informé par l’ARC le 8 juin 2009[29]. Avec l’aide de Mme Goldhar, il s’est engagé à pallier rapidement cette lacune à l’égard de 2008 et au-delà, allant jusqu’à changer de cabinets d’experts-comptables. Bien que M. Pelchovitz, dans son témoignage, ait déclaré ne pas savoir pourquoi les formulaires T1134 n’ont pas été produits pour Beanteek en 2009 et pour 2010 Ltd. en 2009 et 2010, je fais remarquer que son cabinet a correctement produit les formulaires T1134 pour les deux sociétés en 2011. De plus, il est clair que son cabinet était au courant de l’existence des deux sociétés et de la nécessité de produire les formulaires T1134. En raison de la complexité de ses affaires financières et de son manque d’expérience en matière fiscale, je suis d’avis que M. Goldhar s’est raisonnablement fié à ses comptables pour produire correctement ses déclarations de revenus pour chacune de ses années d’imposition 2008 à 2011.
+[65] Compte tenu de tout ce qui précède, je suis d’avis qu’aucune des pénalités mentionnées imposées à l’égard du formulaire T1134 par le ministre concernant les années d’imposition 2008 à 2011 de M. Goldhar n’a été imposée à juste titre et qu’elles devraient donc toutes être annulées.
+CONCLUSION
+[66] Compte tenu de tout ce qui précède, les appels interjetés par M. Goldhar à l’encontre des nouvelles cotisations datées du 7 juillet 2017 et du 20 novembre 2017 pour les années d’imposition 2008, 2009, 2010 et 2011 de l’appelant sont accueillis et les nouvelles cotisations sont annulées.
+DÉPENS
+[67] Les dépens sont adjugés à l’appelant. Les parties disposent d’un délai de 30 jours suivant la date du présent jugement pour parvenir à un accord sur les dépens, faute de quoi l’appelant disposera alors d’un délai de 30 jours pour déposer ses observations écrites sur les dépens, après quoi l’intimé disposera d’un délai de 30 jours pour déposer sa réponse par écrit. Ces observations ne doivent pas dépasser dix pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord et qu’il n’y a pas de dépôt d’observations, les dépens seront adjugés à l’appelant selon ce que prévoit le tarif.
+Signé à Ottawa, Canada, ce 10e jour de mars 2023.
+« Henry A. Visser »
+Le juge Visser
+Traduction certifiée conforme
+Ce 22e jour de mars 2024.
+François Brunet, réviseur
+ANNEXE A
+RÉFÉRENCE :
+2023 CCI 30
+NOS DES DOSSIERS DE LA COUR :
+2018-12(IT)G;
+2018-1687(IT)G
+INTITULÉ :
+DAVID GOLDHAR ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 24, 25 et 26 août, 25 septembre et 16 octobre 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge Henry A. Visser
+DATE DU JUGEMENT :
+Le 10 mars 2023
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Jason C. Rosen
+Me Kendal Steele
+Avocat de l’intimé :
+Me Brent E. Cuddy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Jason C. Rosen
+Cabinet :
+Rosen Kirshen Tax Law
+Pour l’intimé :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] L.R.C. (1985), ch. 1 (5e suppl.), dans sa forme modifiée. Sauf indication contraire, tous les renvois législatifs aux présentes sont des renvois aux dispositions de la Loi.
+[2] L’ensemble du recueil conjoint de documents en 17 volumes a été déposé en preuve aux fins d’identification en tant que pièce J-1. Les documents officiellement déposés en preuve tirés du recueil conjoint de documents ont été répertoriés dans une liste conjointe de pièces datée du 23 septembre 2020.
+[3] Les extraits des interrogatoires préalables ont été inclus dans les éléments de preuve en tant que pièces A-1 et A-2.
+[4] Les paragraphes pertinents de l’ECPF qui sont énumérés ici ont été réorganisés. Certains paragraphes non pertinents ou répétitifs ont été omis.
+[5] Les dates des nouvelles cotisations aux paragraphes 5 et 8 de l’ECPF semblent avoir été inversées. Voir la pièce J-1, volume 10, onglet 179, aux pages 1854 à 1872 et la pièce J-1, volume 9, onglet 176, aux pages 1825 à 1829.
+[6] Les dates des nouvelles cotisations aux paragraphes 5 et 8 de l’ECPF semblent avoir été inversées. Voir la pièce J-1, volume 10, onglet 179, aux pages 1854 à 1872 et la pièce J-1, volume 9, onglet 176, aux pages 1825 à 1829.
+[7] Voir Deyab c. Canada, 2020 CAF 222, au paragraphe 25, autorisation d’interjeter appel auprès de la CSC rejetée, 2021 CarswellNat 1815.
+[8] Voir le paragraphe 5 de l’ECPF. Voir aussi la pièce J-1, volume 14, onglet 237, aux pages 03468 à 03470.
+[9] Voir la pièce J-1, volume 13, onglet 228, aux pages 03131 à 03240.
+[10] Voir la pièce J-1, volume 13, onglet 230, aux pages 03244 à 03246, et plus précisément la note (2) à la page 03246.
+[11] Voir la pièce J-1, volume 2, onglet 22, aux pages 162 à 167.
+[12] Voir la pièce J-1, volume 2, onglet 29, aux pages 198 et 199.
+[13] Voir la pièce J-1, volume 2, onglet 29, aux pages 185 à190.
+[14] Voir la pièce J-1, volume 2, onglet 32, à la page 209.
+[15] Voir la pièce J-1, volume 9, onglet 163, aux pages 1667 et 1668.
+[16] Voir la pièce J-1, volume 2, onglet 32, à la page 209.
+[17] Voir la pièce J-1, volume 14, onglet 237, aux pages 03468 à 03470.
+[18] Voir la pièce J-1, volume 7, onglet 119, aux pages 1299 à 1302.
+[19] Voir la pièce J-1, volume 14, onglet 237, aux pages 03468 à 03470. Subsidiairement, il pourrait être avancé l’argument selon lequel le montant du remboursement du prêt doit être déduit en 2011 des avantages ayant fait l’objet d’une cotisation autrement.
+[20] Voir la pièce J-1, volume 3, onglet 43, aux pages 421 et 422.
+[21] Voir la pièce J-1, volume 4, onglet 66, aux pages 660 à 666.
+[22] Voir la pièce J-1, volume 3, onglet 43, aux pages 421 et 422.
+[23] Voir le paragraphe 28 de l’ECPF.
+[24] Khanna c. R., 2022 FCA 84, au paragraphe 6.
+[25] Ibid., au paragraphe 7.
+[26] Ibid.
+[27] Voir la pièce J-1, volume 2, onglet 32, à la page 209.
+[28] Voir la pièce J-1, volume 9, onglet 176, à la page 1828.
+[29] Voir la pièce J-1, volume 3, onglet 44, à la page 423.

@@ -1,0 +1,241 @@
+---
+title: "Corriveau c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26403/index.do"
+last_modified: "2004-08-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 550"
+citation2: ""
+neutral_citation: "2004 CCI 550"
+decision_date: "2004-08-16"
+language: "fr"
+item_id: "26403"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3350
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:08:58.480000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9a5a52d1a84a1e60aab908d4674783e4499faac43bf4c25e3f0d253f26a871c5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Corriveau c. La Reine
+
+- Citation: 2004 CCI 550
+- Decision date: 2004-08-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3350, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Corriveau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-08-16
+Référence neutre
+2004 CCI 550
+Numéro de dossier
+2002-3447(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-3447(IT)G
+ENTRE :
+DENIS CORRIVEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+___________________________________________________________________
+Appels entendus les 19, 20 et 21 mai 2004, à Rouyn-Noranda (Québec) par
+l'honorable juge C. H. McArthur
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995 et 1996 sont admis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte que l'intimée a concédé des dépenses réclamées par l'appelant au montant de 2 125$ pour l'année d'imposition 1995 ainsi qu'au montant de 310 $ pour l'année d'imposition 1996.
+L'appel de la cotisation établie en vertu de la Loi pour l'année d'imposition 1997 est rejeté, le tout avec dépens.
+Signé à Ottawa, Canada, ce 21e jour de décembre 2005.
+« C. H. McArthur »
+Juge McArthur
+Référence : 2004CCI550
+Date : 20041221
+Dossier : 2002-3447(IT)G
+ENTRE :
+DENIS CORRIVEAU,
+appelant,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉ
+Le juge McArthur, C.C.I.
+[1] Il s'agit d'appels interjetés par monsieur Denis Corriveau à l'encontre des avis de cotisation établis par le ministre du Revenu national (ci-après le « ministre » ) pour les années d'imposition 1995, 1996 et 1997. Ces avis de cotisation fixent le revenu imposable de l'appelant à 128 093 $ pour l'année d'imposition 1995, à 14 204 $ pour l'année 1996 et à 0 $ pour l'année 1997.
+[2] Les appels ont été entendus sous le régime de la procédure générale en raison de l'importance des montants en litige. Par ailleurs, l'appelant a choisi de ne pas faire appel aux services d'un avocat pour le représenter. L'appelant soutient que les avis de cotisation fixent incorrectement son revenu imposable pour les années en litige parce que le ministre a omis de considérer certaines dépenses relatives à ces années d'imposition et parce que le ministre a utilisé la méthode de la comptabilité d'exercice alors que l'appelant enregistre ses revenus et dépenses en utilisant la méthode de la comptabilité de caisse.
+[3] En établissant ces avis de cotisation, le ministre s'est fondé notamment sur les hypothèses de faits suivantes :
+a) avant le 5 mai 1995, l'appelant était propriétaire des 13 immeubles locatifs suivants :
+131, 5e Rue
+134, Carter
+15, Pinder Est
+169, Georges
+68-72, Montréal
+507-509, Cardinal Bégin Est
+22 Rang 5
+493-503, Cardinal Bégin Est
+Chalet Lac Vaudry
+151, 6e Rue
+348-350, Larivière
+38-40, rue Poirier, Lac Duffault
+53, rue Matapédia, Rouyn-Noranda
+b) l'appelant n'avait aucune tenue de livres concernant tous ces immeubles locatifs;
+c) l'appelant réclamait ses dépenses locatives sur une base de comptabilité de caisse;
+d) l'appelant réclamait des dépenses payées en 1995, mais relatives à des années antérieures;
+e) l'appelant encaissait dans un compte de banque personnel tous ses revenus locatifs;
+f) l'appelant utilisait un même compte de banque pour ses opérations personnelles et commerciales;
+g) l'appelant a déclaré les revenus locatifs bruts suivants:
+1995 : 26 569 $
+1996 : 8 277 $
+1997 : 0 $
+h) ces revenus locatifs bruts ont été acceptés par le ministre sans qu'ils soient vérifiés;
+i) le ministre a accordé à l'appelant les dépenses locatives appuyées de pièces justificatives sur une base de comptabilité d'exercice;
+j) le 5 mai 1995, l'appelant a transféré la propriété de tous ses immeubles locatifs, à l'exception de ceux situés au 38-40, rue Poirier, Lac Duffault et au 53, rue Matapédia, Rouyn-Noranda;
+k) le 5 mai 1995, ces 11 immeubles locatifs ont été transférés à la société 9019-4754 Québec Inc.;
+l) l'appelant était l'actionnaire unique de la société 9019-4754 Québec Inc.;
+m) l'appelant a réclamé des dépenses locatives pour la période du 5 mai au 31 décembre 1995 pour les 11 immeubles transférés le 5 mai 1995 à la société 9019-4754 Québec Inc.;
+n) les dépenses locatives admissibles en 1995 sont de 66 309 $;
+o) le 21 août 1996, l'appelant a vendu l'immeuble situé au 38-40, Poirier, Lac Duffault;
+p) l'appelant a subi une perte en capital déductible de 691 $ lors de cette vente;
+q) le 29 novembre 1996, l'appelant a vendu l'immeuble situé au 53, rue Matapédia, Rouyn-Noranda;
+r) l'appelant a fait un gain en capital imposable de 431 $ sur la vente du terrain lors de cette vente;
+s) la bâtisse elle-même était un bien amortissable;
+t) la perte de 6 055 $ sur la disposition de cette bâtisse n'est pas admissible;
+u) les dépenses locatives admissibles en 1996 sont de 12 823 $;
+v) le ministre a calculé le gain en capital imposable de l'appelant à 61 073 $ et 18 570 $ respectivement pour les années 1995 et 1996;
+w) le ministre a tenu compte d'une perte autre qu'une perte en capital de 50 915 $ pour l'année 1993;
+x) la perte mentionnée au paragraphe précédent a été prise en considération aux fins du calcul du revenu imposable de l'appelant pour l'année d'imposition 1995;
+y) l'appelant avait une perte en capital nette de 18 644 $ en 1988;
+z) l'appelant avait une perte en capital nette de 22 986 $ en 1990;
+aa) l'appelant avait une perte en capital nette de 13 813 $ en 1991;
+bb) les pertes en capital nettes mentionnées aux paragraphes y), z) et aa) ont été prises en considération aux fins du calcul du revenu imposable de l'appelant pour l'année d'imposition 1995.
+TÉMOIGNAGES
+[4] Monsieur Pierre Lavallée et l'appelant lui-même ont témoigné pour l'appelant. Monsieur Richard East a témoigné pour l'intimée.
+[5] Le rôle de M. Lavallée dans cette affaire demeure imprécis. Il a maintenu tout au long de son témoignage qu'il n'agissait pas à titre de représentant de l'appelant. Pourtant, M. Lavallée a soumis quelques arguments pour l'appelant et à la place de celui-ci.
+[6] M. Lavallée est avocat dans la région de Rouyn-Noranda. Il oeuvrait, lors des années en litige, au sein du cabinet d'avocats « Gagné Trudel » qui rendait des services juridiques à l'appelant, tels que la constitution en société d'entreprises et la vente d'immeubles. M. Lavallée a donc entretenu des relations professionnelles avec l'appelant. Dans son témoignage, M. Lavallée a affirmé que lors des années en litige, les frais juridiques pour la constitution en société d'une entreprise variaient entre 1 000 $ et 1 200 $. Tout au plus ces frais pouvaient s'élever à 1 500 $. Par ailleurs, M. Lavallée a admis que son expertise juridique était davantage en matière d'assurance et de fait, que ce n'est pas lui qui s'occupait des dossiers en droit des sociétés et en droit commercial. Néanmoins, M. Lavallée a dit avoir vu les dossiers de l'appelant à quelques reprises et maintient pouvoir affirmer que l'appelant a réellement engagé ces frais juridiques.
+[7] Quant à l'appelant, il a témoigné qu'il enregistre ses revenus et dépenses selon la méthode de la comptabilité de caisse depuis 1972. De surcroît, l'appelant a expliqué qu'il avait fait l'objet d'une vérification par l'Agence des revenus du Canada (ci-après l' « ARC » ) en 1985 et qu'alors, personne ne l'avait avisé qu'il devait utiliser la méthode de la comptabilité d'exercice plutôt que la méthode de la comptabilité de caisse. L'appelant a donc supposé que la méthode qu'il employait était adéquate. Pour le reste, l'appelant a donné des explications qui, selon lui, démontrent que les cotisations du ministre sont erronées. À titre d'exemple, l'appelant a expliqué que les dépenses attribuées par le vérificateur à l'immeuble situé au 38-40, rue Poirier sont en fait attribuables à l'immeuble au 151, 6e Rue et, ce faisant, l'appelant a soutenu qu'il s'agissait de dépenses d'entretien et non de dépenses en immobilisations.
+[8] Monsieur East a témoigné en dernier. M. East est vérificateur pour l'ARC depuis 1991. Il a expliqué que le dossier de l'appelant lui avait été confié en avril 1999, mais ce n'est qu'en août 2000 que la vérification du dossier a été close. D'après M. East, une vérification de ce genre nécessite normalement de deux à trois mois. M. East a expliqué que l'appelant utilisait la méthode de la comptabilité de caisse, ce qui avait compliqué le processus de la vérification. De plus, l'appelant n'utilisait aucun grand livre et il conservait ses factures dans des sacs de plastique ou dans des chemises désordonnées. M. East a donc dû démêler les factures de l'appelant à l'aide de chiffriers, ce qui explique que la vérification ait duré plus de 15 mois.
+[9] M. East a résumé comme suit les raisons pour lesquelles il a refusé la déduction de plusieurs dépenses réclamées par l'appelant. D'une part, l'appelant utilisait la méthode de la comptabilité d'exercice. De fait, il réclamait des dépenses payées durant l'année mais qui pouvaient, par ailleurs, avoir été engagées lors d'exercices antérieurs. D'autre part, l'appelant réclamait des dépenses qui avaient été engagées par l'une ou l'autre des sociétés dont il était actionnaire. Puisque ces dépenses étaient attribuables aux sociétés, l'appelant ne pouvait les déduire du calcul de ses revenus. À titre d'exemple, M. East a refusé la déduction des honoraires juridiques réclamés par l'appelant au motif que ces dépenses étaient attribuables à la société propriétaire des immeubles. Enfin, l'appelant n'a pas su justifier adéquatement certaines des dépenses qu'il réclamait. À défaut de pièces justificatives, la déduction de ces dépenses ne pouvait être accordée. Par exemple, l'appelant a réclamé la déduction de dépenses relatives à l'achat de matériaux de construction et ce, à titre de dépenses courantes. L'appelant soutient que ces achats ont servi à la réfection d'un immeuble situé au 151, 6e Rue qui avait fait l'objet de deux incendies au début des années 1990. Puisque l'appelant ne détenait aucune assurance pour cet immeuble, il est d'avis que les travaux de réfection constituaient des dépenses courantes, qui sont déductibles. M. East a expliqué que les factures fournies par l'appelant n'indiquaient pas l'immeuble auquel les matériaux étaient destinés. Puisque l'appelant avait effectué d'importantes rénovations à un autre immeuble lui appartenant, M. East a supposé que les dépenses étaient liées à cet autre immeuble. Conséquemment, M. East a qualifié les dépenses comme étant des dépenses en immobilisations et, de ce fait, il a refusé la déduction de ces dépenses.
+QUESTIONS EN LITIGE
+[10] Les conclusions recherchées par l'appelant ont été difficiles à cerner. Lors de sa plaidoirie, l'appelant a résumé sensiblement comme suit les conclusions qu'il requiert :
+1. L'appelant demande l'autorisation d'utiliser la méthode de la comptabilité de caisse, contrairement à la méthode de la comptabilité d'exercice employée par le ministre lors de l'établissement des avis de cotisation. À défaut, l'appelant demande la permission de modifier ses déclarations de revenus pour les années d'imposition 1991 à 1994 afin d'y inclure les dépenses engagées durant ces exercices, mais effectivement payées en 1995;
+2. L'appelant demande que soient traités les documents qui n'ont pas été considérés par M. East lors de l'établissement des avis de cotisation;
+3. L'appelant requiert que les dépenses engagées pour la réfection de l'immeuble situé au 151, 6e Rue soient effectivement attribuées à cet immeuble et qu'elles soient qualifiées de dépenses courantes et non de dépenses en immobilisations;
+4. L'appelant désire que la déduction des frais de courtage relatifs à la cession de ses actions lui soit accordée et, à défaut, que la cession soit réputée faite pour 0 $ par action plutôt que pour 4,50 $ par action afin d'éliminer le gain en capital découlant de cette cession.
+ANALYSE
+[11] D'abord, la crédibilité de l'appelant n'est pas mise en doute. Il importe également de rappeler qu'il m'est impossible de me prononcer à l'égard de l'avis de cotisation relatif à l'année d'imposition 1997 puisque l'impôt à payer y est nul. Dans l'affaire Okalta Oils Limited v. M.N.R., [1955] R.C.S. 824, la Cour suprême du Canada établissait qu'une cotisation portant qu'aucun impôt n'est payable ne donne aucun droit d'appel au contribuable[1]:
+Under these provisions, there was no assessment if there was no tax claimed. Any other objection but one ultimately related to an amount claimed was lacking the object giving rise to the right of appeal from the decision of the Minister to the Board.
+Ce principe était réaffirmé par la Cour d'appel fédérale dans l'affaire Canada c. Consumers' Gas Co., [1987] 2 C.F. 60, à la page 67, paragraphe 13 :
+C'est la cotisation du ministre qui fait l'objet d'un appel devant les tribunaux aux termes de la Loi de l'impôt sur le revenu. Bien que le terme « cotisation » puisse être interprété de deux manières différentes, soit comme la procédure au moyen de laquelle l'impôt est évalué, soit comme le produit de cette évaluation, il me semble évident, à la lecture des articles 152 à 177 de la Loi de l'impôt sur le revenu, que le terme y est employé seulement dans son second sens. Cette conclusion découle en particulier du paragraphe 165(1) et du principe bien établi selon lequel un contribuable ne peut ni s'opposer à une cotisation égale à zéro ni interjeter appel contre celle-ci.
+Il existe certaines exceptions où la Cour peut se prononcer sur une cotisation qui porte qu'aucun impôt n'est payable.[2] Toutefois, ces exceptions ne s'appliquent pas au présent appel.
+[12] L'appelant a affirmé qu'il utilisait la méthode de la comptabilité de caisse et, de fait, il a demandé l'autorisation de produire ses déclarations de revenus selon cette méthode. Au soutien de sa prétention, l'appelant a déposé, en liasse, la pièce cotée A-1 comprenant : une facture au montant de 455,82 $ de « Fiscalité Martial Lupien » , neuf télécopies comprenant des états de compte de la « Commission Scolaire Rouyn-Noranda » pour des arriérés de taxe, quatorze chèques signés par l'appelant et faits à l'ordre de la « Commission Scolaire Rouyn-Noranda » , et un relevé de compte de « location Rouanda 1991 Inc. » au montant de 1 222,33 $. Toutes ces dépenses ont été engagées par l'appelant lors d'exercices antérieurs à ceux pour lesquels il en réclame la déduction.
+[13] L'appelant a également soumis comme pièce A-9 : un chèque au montant de 2 307,30 $ fait à l'ordre de la « Ville de Rouyn-Noranda » ainsi que neuf feuilles faisant état d'arriérés de taxe d'eau dont le total est plus ou moins du même montant. Il s'agit de sommes qui étaient dues par l'appelant à titre d'arriérés de taxe d'eau et qui, de fait, avaient été engagées lors d'exercices précédents.
+[14] Il n'est pas loisible à l'appelant d'utiliser la méthode de la comptabilité de caisse. Dans l'affaire Banner Pharmacaps NRO Ltd. c. Canada, C.C.I., no 2001-199(IT)G, 26 février 2003, [2003] A.C.I. no 115, le juge Mogan affirmait ce qui suit aux paragraphes 37 à 39 :
+Dans une vieille décision, Ken Steeves Sales Ltd v. M.N.R., 55 DTC 1044, la Cour de l'Échiquier a dit que, dans la détermination du profit ou de la perte d'une entreprise, la Loi n'admet pas la comptabilité de caisse. Le juge Cameron a affirmé, à la page 1050 :
+[TRADUCTION]
+Pour ces motifs je dois conclure que la méthode « des encaissements et des dépenses » prétendument utilisée par l'appelante en l'espèce n'est pas permise par la Loi. Je dis cela à cause du fait que cette méthode exclut du revenu toutes les créances, alors que celles-ci, à mon avis, forment une partie essentielle de tout état des résultats d'un commerçant. Cette méthode est incomplète et propre à induire en erreur, et elle ne montre pas entièrement la véritable situation du contribuable ni ne révèle ses véritables résultats. [...]
+Je ne connais aucune décision subséquente qui soit venue atténuer l'effet de l'affaire Ken Steeves Sales.
+Dans la Loi de l'impôt sur le revenu, il existe une présomption sous-jacente selon laquelle le revenu tiré d'une entreprise ou d'un bien est à déterminer par la méthode de la comptabilité d'exercice. Bien des exemples viennent appuyer cette présomption. Dans le calcul du revenu :
+- l'alinéa 12(1)b) exige l'inclusion des sommes à recevoir;
+- l'alinéa 18(1)a) permet la déduction des dépenses engagées;
+- l'alinéa 20(1)l) permet la déduction d'une provision pour créances douteuses.
+L'article 28 autorise explicitement l'utilisation de la « méthode de comptabilité de caisse » pour calculer les revenus tirés de l'agriculture ou de la pêche. Sans cette autorisation explicite, il me semble, les agriculteurs et les pêcheurs seraient tenus d'utiliser la comptabilité d'exercice.
+À mon avis, l'appelante n'a pas le choix. Elle doit adopter la comptabilité d'exercice. Elle ne peut adopter la comptabilité de caisse. [...]
+[15] Cette décision a été confirmée par la Cour d'appel fédérale[3]. L'appel ne portait pas sur cette partie de la décision. Par ailleurs, les juges de la Cour d'appel fédérale n'ont pas cru opportun de modifier ce passage. Les propos du juge Mogan demeurent donc inchangés : l'appelant devait utiliser la méthode de la comptabilité d'exercice. Je ne peux donc substituer la méthode adoptée par l'appelant à celle utilisée à juste titre par le ministre lors de l'établissement des avis de cotisation.
+[16] L'appelant a soulevé un argument fondé sur la préclusion afin de justifier son emploi de la méthode de la comptabilité de caisse. Selon l'appelant, les autorités fiscales l'ont induit en erreur en omettant de lui mentionner, lorsqu'il a fait l'objet d'une vérification en 1985, qu'il ne devait pas employer la méthode de la comptabilité de caisse. Je ne peux souscrire à cette prétention. D'une part, l'appelant n'a pas soulevé cet argument dans son avis d'appel ni dans sa réplique. D'autre part, la preuve est insuffisante pour conclure en ce sens : l'appelant n'a présenté aucune preuve établissant qu'il avait effectivement fait l'objet d'une vérification en 1985. De plus, une fin de non-recevoir fondée sur la préclusion nécessite la démonstration de l'intention des autorités fiscales d'induire l'appelant en erreur afin qu'il continue d'utiliser la méthode de la comptabilité de caisse. Aucune preuve en ce sens n'a été soumise à la Cour.
+[17] En ce qui a trait à la demande de l'appelant qu'il soit autorisé à modifier ses déclarations de revenus pour les années d'imposition de 1991 à 1994, j'affirme que cela outrepasse mes compétences, qui se limitent à déterminer la justesse des cotisations émises et faisant l'objet du présent litige. Or, les cotisations faisant l'objet du présent litige portent sur les années d'imposition de 1995 à 1997. Il ne m'est donc pas loisible d'ordonner que l'appelant soit autorisé à modifier ses déclarations de revenus relatives aux années d'imposition 1991 à 1994. Toutefois, si l'appelant désire modifier ses déclarations pour les années d'imposition de 1991 à 1994, il est libre de le faire si cela lui est toujours permis selon les délais prescrits.
+[18] Quant à la requête de l'appelant voulant que soient traités les documents qui n'ont pas été considérés par M. East lors de la vérification, je ne peux acquiescer à cette demande. En vertu du paragraphe 171(1) de la Loi, il m'est effectivement permis d'ordonner que les cotisations de l'appelant soient déférées au ministre pour nouvel examen :
+La Cour canadienne de l'impôt peut statuer sur un appel :
+a) en le rejetant;
+b) en l'admettant et en :
+(i) annulant la cotisation,
+(ii) modifiant la cotisation,
+(iii) déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+[19] Avant de déférer la cotisation au ministre pour nouvel examen, je dois être convaincu, selon la balance des probabilités, que la cotisation est incorrecte. Afin de satisfaire au fardeau de la preuve qui repose sur lui, l'appelant peut soumettre des éléments de preuve qui n'ont pas été portés à la connaissance du vérificateur de l'ARC. C'est d'ailleurs ce qu'affirmait la Cour d'appel fédérale dans l'affaire Buchanan c. Canada, no A-416-01, 31 mai 2002, [2002] A.C.F. no 838, au paragraphe 18 :
+[...] Les procédures engagées devant la Cour de l'impôt ne sont pas des procédures de contrôle judiciaire visant à permettre de déterminer si la cotisation établie par le ministre est correcte ou raisonnable. La Cour de l'impôt a plutôt pour tâche d'arriver elle-même à une appréciation correcte (sauf si elle n'est pas en mesure de le faire et si elle juge nécessaire de déférer la cotisation au ministre pour nouvel examen en vertu du sous-alinéa 171(1)b)(iii) de la Loi). La Cour de l'impôt examinera l'affaire en se fondant sur la preuve qui lui est soumise, et ce, même si le ministre n'avait pas cette preuve à sa disposition lorsqu'il a établi la cotisation. Voir Johnston c. Ministre du Revenu national, [1948] 3 D.T.C. 1182, page 1183, juge Rand. [...]
+[20] En l'espèce, la preuve soumise par l'appelant ne permet pas de conclure que les cotisations émises méritent d'être révisées. Bien que l'appelant ait soumis de nombreux documents tels que des factures, des reçus, des états de compte, des lettres, etc., l'absence de lien entre ces éléments de preuve et l'argumentation de l'appelant rend toute conclusion favorable à ce dernier quasi impossible. À l'opposé, le vérificateur, M. East, a expliqué de façon claire et concise comment il avait établi les cotisations faisant l'objet du litige. Je ne vois aucune faille dans sa façon de procéder. J'ai avisé l'appelant à plusieurs reprises que le fardeau de la preuve lui incombait, et l'avocat de l'intimée et moi-même lui avons apporté toute l'aide qu'il nous était possible de lui offrir. Malgré cela, je conclus que l'appelant n'a pas satisfait au fardeau de la preuve. Voici un sommaire de la preuve présentée par l'appelant.
+[21] L'appelant a déposé comme pièce A-2 trois télécopies comprenant des lettres envoyées par Denis Pilon à l'appelant. Or, M. Pilon n'a pas témoigné à l'audience. Dans ces lettres, M. Pilon fait état des circonstances de la négociation des ventes des immeubles situés au 53, avenue Matapédia et au 38-40, rue Poirier. M. Pilon y indique également qu'il a reçu de l'appelant des actions à titre d'incitatif à l'achat de l'une ou l'autre de ces propriétés.
+[22] L'appelant a également déposé comme pièce A-3, en liasse, différents documents dont : les feuilles de travail du vérificateur relatives aux pertes en capital réclamées par l'appelant quant aux immeubles situés au 53, rue Matapédia et au 38-40, rue Poirier, un relevé pour le mois de septembre 1996 de « Midland Walwyn » faisant état de frais de livraison de 28,50 $ relatifs à 4 000 actions de Sundust Resources Inc., une reddition de compte de « Tascherau & Massicotte » relative à l'administration des sommes reçues de Denis Pilon lors de l'achat-vente de l'immeuble situé au 53, avenue Matapédia, une reddition de compte de « Taschereau & Massicotte » relative à l'administration des sommes reçues de Denis Pilon lors de l'achat-vente de l'immeuble situé au 38-40, rue Poirier, une photocopie de deux chèques émis par « Taschereau & Massicotte » et tirés sur un compte en fidéicommis, l'un pour la somme de 6 000 $ et fait à l'ordre de « Denis Pilon en fidéicommis et Denis Corriveau » et l'autre au montant de 10 000 $ à l'ordre de « Matériaux Hémulat Inc. et Denis Corriveau » , une télécopie comprenant une lettre de Me Bernard Barrette à Me Patrick Massicotte indiquant des sommes dues par l'appelant relativement à l'immeuble situé au 53, rue Matapédia, un mémoire des rajustements de « Taschereau & Massicotte » indiquant que M. Pilon devait la somme de 152,33 $ à l'appelant, et un état de compte de « Taschereau & Massicotte » indiquant des honoraires et déboursés au montant de 526,82 $.
+[23] Par ces pièces, l'appelant a tenté d'établir, entre autres choses, l'existence d'une contre-lettre entre M. Pilon et lui-même. Selon cette contre-lettre, les ventes d'immeubles se seraient faites à des prix inférieurs à ceux indiqués dans les contrats de vente notariés. Comme l'a indiqué l'avocat de l'intimée, l'appelant ne peut procéder de la sorte en vue de contredire un acte notarié qui fait preuve, à l'égard de tous, de l'acte juridique qu'il renferme.[4] Pour ce faire, l'appelant devait procéder en inscription de faux[5], ce qui ne fut pas le cas. De surcroît, en l'absence du consentement de l'intimée, l'appelant ne peut déposer en preuve des lettres rédigées par M. Pilon alors que celui-ci n'était pas présent à l'audience et ainsi espérer que ces lettres feront preuve de leur contenu[6]. Puisque l'avocat de l'intimée s'est effectivement opposé au dépôt en preuve de ces lettres, elles sont irrecevables. De fait, je ne retiens pas la prétention de l'appelant que les ventes de ces deux immeubles aient été faites à des prix autres que ceux indiqués dans les contrats de vente notariés.
+[24] À titre de pièce A-4, l'appelant a déposé en liasse les documents suivants : les feuilles de travail du vérificateur relatives aux frais comptables et juridiques, aux frais de bureau et aux frais de voyage réclamés par l'appelant, des factures de « Gagné Trudel, société d'avocats » , et deux sommaires d'acte de vente, l'un signé par le témoin Pierre Lavallée et l'autre signé par un dénommé Alain Turgeon, tous deux avocats. En se fondant sur ces feuilles de travail, l'ARC aurait refusé la déduction de ces dépenses au motif que l'appelant n'avait soumis aucune preuve de paiement à l'égard de ces frais. L'appelant n'a déposé aucune preuve de paiement réfutant la prétention de l'ARC.
+[25] L'appelant a également déposé (pièce A-6) un jugement de la Cour supérieure daté du 5 juin 1996. Ce jugement ordonne au défendeur Tony Fiset de rembourser à l'appelant la somme de 37 000 $, avec intérêt au taux légal depuis la date de l'assignation, plus l'indemnité additionnelle prévue par la loi et les dépens. Il s'agit d'une somme que l'appelant avait investie pour l'achat d'un bien immeuble en Haïti, le défendeur Fiset s'est volatilisé avec l'argent sans remettre le titre de propriété à l'appelant. Toutefois, comme l'a mentionné M. East dans son témoignage : « [...] avant que l'Agence du revenu du Canada accorde une perte au titre de placement d'une entreprise, monsieur Corriveau devra faire la preuve du déboursé initial de son placement et ensuite de ça faire état des démarches qu'il a effectuées afin de s'assurer du recouvrement du montant en question. Puis il va devoir prouver qu'il était propriétaire du placement en question, c'est à lui de prouver cet aspect-là. » [7] Or, cette preuve n'a pas été faite.
+[26] Les pièces A-10 et A-11 ont été déposées par l'appelant sans explications précises quant à leur pertinence. Il s'agit de certaines des feuilles de travail du vérificateur. Quant à la pièce A-12, l'appelant a soutenu qu'il s'agit d'une facture qui n'aurait pas été prise en considération par le vérificateur. Premièrement, cette facture n'est accompagnée d'aucune preuve de paiement. Deuxièmement, l'avocat de l'intimée s'est opposé au dépôt en preuve de cette pièce puisqu'il ne s'agit pas d'une pièce qui était mentionnée dans la liste de documents de l'appelant. L'appelant a également déposé une coupure de journal où l'on constate un avis public de vente aux enchères de l'un des immeubles de l'appelant. Cette pièce a reçu la cote A-13. Je suis d'avis que ces pièces ne prouvent rien.
+[27] L'appelant a mentionné qu'il détient chez lui plusieurs documents illustrant des dépenses qu'il a engagées. Or, ces documents n'ont pas été déposés en preuve. Je refuse d'ordonner que la vérification effectuée soit recommencée depuis le début sur la seule base d'une affirmation de la part de l'appelant qu'il détient d'autres factures chez lui.
+[28] L'appelant a également maintenu que M. East avait omis de considérer certains documents que l'appelant lui avait fournis. A l'appui de sa prétention, l'appelant a expliqué que M. East lui a remis des documents établissant de nombreuses dépenses et ce, plusieurs mois après la clôture de la vérification. L'appelant en a conclu que M. East n'avait pas traité ces documents. À cet égard, M. East a expliqué que lesdits documents ont été remis à l'appelant plusieurs mois après la fermeture de la vérification parce qu'ils avaient été égarés. Il n'a pas par ailleurs affirmé qu'il n'avait pas traité ces documents. Il revient à l'appelant de faire la preuve que certains documents n'ont pas été considérés lors de la vérification et que cette absence de considération a une incidence sur la justesse des cotisations émises. Cette preuve n'a pas été faite.
+[29] L'appelant a également demandé que les dépenses engagées pour la réfection de l'immeuble situé au 151, 6e Rue soient attribuées à cet immeuble plutôt qu'à l'immeuble au 38-40, rue Poirier et que ces dépenses soient qualifiées de dépenses courantes. Je ne peux accéder à cette demande puisque la preuve fournie par l'appelant est insuffisante.
+[30] M. East a expliqué qu'il a attribué ces dépenses à l'immeuble situé au 38-40, rue Poirier parce que les reçus fournis par l'appelant n'indiquaient pas l'immeuble auquel étaient destinés les matériaux acquis. Puisque l'appelant avait effectué des réparations majeures à l'immeuble situé au 38-40, rue Poirier, M. East a supposé que les dépenses étaient attribuables à la rénovation de cet immeuble. M. East a donc conclu qu'il s'agissait de dépenses en immobilisations et, de ce fait, qu'elles n'étaient pas déductibles. Le jour de l'audition, l'appelant n'a pas démontré que les dépenses avaient été engagées pour la réfection de l'immeuble situé au 151, 6e rue plutôt que pour la rénovation de l'immeuble situé au 38-40, rue Poirier. Tout au plus, la preuve de l'appelant permet de conclure que l'immeuble situé au 151, 6e rue a été incendié à deux reprises et que l'appelant avait obtenu un permis de rénovation à l'égard de cet immeuble[8]. Cela m'apparaît insuffisant pour conclure que le ministre a erré dans ses avis de cotisation, particulièrement si l'on considère que l'appelant a également obtenu un permis de rénovation pour l'immeuble au 38-40, rue Poirier. De surcroît, je ne suis pas convaincu de la justesse de la prétention de l'appelant que les dépenses de réfection de l'immeuble au 151, 6e rue constituent des dépenses courantes déductibles.
+[31] Enfin, l'appelant souhaite déduire les frais de courtage qu'il a engagés lors de la cession de certaines de ses actions à M. Pilon. L'appelant a souligné avoir été honnête en déclarant le gain en capital découlant de cette cession et, de ce fait, qu'il serait raisonnable de lui accorder une telle déduction.
+[32] Il est effectivement permis à l'appelant de soustraire du produit de disposition de ses actions le montant payé par lui afin de disposer de ces dites actions. Néanmoins, l'appelant n'a pas démontré qu'il a effectivement engagé des frais de courtage. Tout au plus, l'appelant a déposé un relevé pour le mois de septembre 1996 de « Midland Walwyn » faisant état de frais de livraison de 28,50 $ relatifs à ses 4 000 actions de « Sundust Resources Inc. » . En supposant qu'il s'agit des frais de courtage auxquels l'appelant fait référence, aucune preuve de paiement de ces frais n'a été soumise à la Cour. Je ne peux donc souscrire à la demande de l'appelant à défaut de preuve.
+[33] Subsidiairement,l'appelant demandait que la cession de ses actions soit considérée avoir été faite pour 0 $ par action afin d'éliminer le gain en capital. Je ne peux accéder à cette demande qui, admettons-le, équivaudrait à une représentation erronée de la réalité.
+CONCLUSION
+[34] Les appels pour les années d'imposition 1995 et 1996 sont admis en tenant compte que l'intimée a concédé des dépenses réclamées par l'appelant au montant de 2 125$ pour l'année d'imposition 1995 ainsi qu'au montant de 310 $ pour l'année d'imposition 1996.
+[35] L'appel pour l'année d'imposition 1997 est rejeté, le tout avec dépens.
+Signé à Ottawa, Canada, le 21e jour de décembre, 2004.
+« C.H. McArthur »
+Juge McArthur
+RÉFÉRENCE :
+2004CCI550
+No DU DOSSIER DE LA COUR :
+2002-3447(IT)G
+INTITULÉ DE LA CAUSE :
+Denis Corriveau et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Rouyn-Noranda (Québec)
+DATE DE L'AUDIENCE :
+les 19, 20 et 21 mai 2004
+MOTIFS DE JUGEMENT MODIFIÉ PAR :
+l'honorable juge C.H. McArthur
+DATE DU JUGEMENT MODIFIÉ:
+Le 21 décembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimée :
+Me Simon-Nicolas Crépin
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] À la page 1177.
+[2] Voir, à titre d'exemple, les affaires Martens v. M.N.R., 88 D.T.C. 1382, Aallcann Wood Suppliers Inc. c. Canada, C.C.I., no 92-2505(IT)G, 3 mai 1994, [1994] A.C.I. no 280, Joshiv. Canada, C.C.I., no 2003-1605(IT)I, 4 septembre 2003, [2003] T.C.J. No. 497.
+[3]
+Banner Pharmacaps NRO Ltd. c. Canada, C.A.F., no A-124-03, 2 octobre 2003, [2003] A.C.F. no 1440.
+[4] Article 2819 alinéa (1) du Code civil du Québec (ci-après « C.c.Q. » ).
+[5] Article 2821 C.c.Q.
+[6] Article 2843 C.c.Q.
+[7] Transcription des notes sténographiques, le 20 mai 2004, à la page 76.
+[8] Voir les pièces A-5 et A-7 déposées en preuve à l'audience.

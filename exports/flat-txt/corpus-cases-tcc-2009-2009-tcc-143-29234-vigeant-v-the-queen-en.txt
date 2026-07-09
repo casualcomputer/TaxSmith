@@ -1,0 +1,245 @@
+Title: Vigeant v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29234/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-143-29234-vigeant-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-05-21
+
+# Vigeant v. The Queen
+
+- Citation: 2009 TCC 143
+- Decision date: 2009-05-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7035, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vigeant v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-05-21
+Neutral citation
+2009 TCC 143
+File numbers
+2007-2286(IT)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2286(IT)G
+BETWEEN:
+BERNARD VIGEANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on January 19 and 20, 2009, at Quebec City, Quebec.
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nancy Dagenais
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act ("the Act") for the 1998 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the penalty must be cancelled.
+The appeals from the assessments made under the Act in respect of the 1999 and 2000 taxation years are dismissed. The Respondent is entitled to two-thirds of her costs.
+Signed at Ottawa, Canada, this 21st day of May 2009.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 29th day of October 2009.
+Erich Klein, Revisor
+Citation: 2009 TCC 143
+Date: 20090521
+Docket: 2007-2286(IT)G
+BETWEEN:
+BERNARD VIGEANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Archambault J.
+[1] Bernard Vigeant is appealing from assessments made by the Minister of National Revenue ("the Minister") in respect of the 1998, 1999 and 2000 taxation years. The Minister had added to Mr. Vigeant's income additional income amounts determined using the indirect income calculation method known as the "net worth method".
+[2] The additional income amounts determined using the net worth method were $29,381.63 for 1998, $96,955.83 for 1999, and $55,352.80 for 2000. From these amounts the Minister subtracted amounts representing specific adjustments with respect to certain income or disallowed expenses. What remained was unreported business income, to which a penalty under subsection 163(2) of the Income Tax Act ("the Act") was applied. The unreported income amounts total $6,512.99 for 1998, $74,548.53 for 1999, and $41,043.92 for 2000. In his Notice of Appeal, Mr. Vigeant challenges some of the Minister's net worth calculations. In particular, he complains that the Minister did not take account of certain personal property that he inherited and gifts received from his father before he died. He also challenges the business‑use and personal‑use percentages for certain property, as determined for the purpose of calculating certain expenses such as automobile, telephone, Internet service, postage, and travel expenses.
+Factual background
+[3] In making the reassessments, the Minister relied on certain assumptions of fact set out in paragraph 23 of the Reply to the Notice of Appeal. I shall reproduce those assumptions here:
+[TRANSLATION]
+(a) at all relevant times from 1997 to 2001, the appellant worked as a chiropractor; (denied[1])
+(b) from 1997 to 2001, the appellant personally operated the Clinique chiropratique de la Rive-Sud, in Saint-Nicolas; (admitted)
+(c) from 1997 to March 31, 2000, the appellant personally operated the Clinique chiropratique de Saint-Prosper, in Saint-Prosper; (admitted)
+(d) from February 8, 1998, to October 31, 1999, the appellant managed the Chiro‑Clinique Rive-Sud, a business located in Longueuil and owned by Les Entreprises Dumavi Inc; (admitted)
+(e) from February 8, 1998, to October 31, 1999, the appellant was the president and sole shareholder of Les Entreprises Dumavi Inc.; (admitted)
+(f) the clinics' revenues were from chiropractic treatments, chiropractic examinations, X-rays and the sale of orthopedic pillows; (admitted)
+(g) the appellant reported total income of $51,506 for 1998, $83,343 for 1999, and $71,995 for 2000; (no knowledge)
+(h) following his father's death on February 7, 1998, the appellant received, in the course of that year, an inheritance worth $421,836; (admitted)
+(i) in 1998, the appellant won $25,000 in a lottery; (admitted)
+(j) following the initial assessments and the reassessments that are not in issue, the appellant's total income was determined to be $56,740 for 1998 and $83,341 for 1999; (no knowledge)
+Net worth audit
+(k) from 1997 to 2001, there was no bank account specifically designated for the Clinique chiropratique de la Rive-sud in Saint-Nicolas; (admitted)
+(l) the Minister audited the appellant using the net worth method; (admitted)
+(m) the appellant's net worth was $239,454 as at December 31, 1997, $746,780 as at December 31, 1998, $779,417 as at December 31, 1999, and $811,407 as at December 31, 2000, as shown in the table entitled [TRANSLATION] "Personal Balance Sheet" and on the related explanatory sheets attached hereto as Appendix A and forming an integral part hereof; (denied)
+(n) the appellant incurred personal expenses in the amounts of $24,132 for the year 1998, $55,496 for the year 1999, and $65,245 for the year 2000, as shown by the personal expense sheets attached hereto as Appendix B and forming an integral part hereof; (denied)
+(o) the appellant's total income determined using the net worth method was $86,121 for 1998, $180,296 for 1999, and $127,347 for 2000, as shown by the table entitled [TRANSLATION] "Calculation of Net Worth Differential" attached hereto as Appendix C and forming an integral part hereof; (denied)
+(p) the appellant's net worth differential was $29,381 for 1998, $96,955 for 1999 and $55,352 for 2000; (denied)
+(q) these differentials are made up, in particular, of unreported business income in the amounts of $6,513 for 1998, $74,549 for 1999 and $41,044 for 2000; (denied)
+(r) the remaining portions of the net-worth differential amounts, that is to say, $22,868 for 1998, $22,407 for 1999 and $14,308 for 2000, can be explained by specific adjustments, as shown in the table entitled [TRANSLATION] "Analysis of Net Worth Differential" attached hereto as Appendix D and forming an integral part hereof; (denied)
+Specific adjustments
+(s) in 1999, the appellant received $4,997 in trust income that he did not include in computing his income; (no knowledge)
+(t) in 1999, the appellant incurred a $2,456 capital loss from the disposition of investments from his father's estate, which he did not report; (no knowledge)
+(u) in 2000, the appellant incurred a $7,987 capital loss from the disposition of investments from his father's estate, which he did not report; (no knowledge)
+Class 10 capital cost allowance (CCA)
+(v) in 1998, the appellant disposed of a 1994 BMW 318is automobile for $14,000, and did not take it into account in computing his 1998 capital cost allowance; (admitted)
+(w) the 1994 BMW 318is was the appellant's only Class 10 depreciable property;
+(x) the undepreciated Class 10 capital cost as at December 31, 1997, was $11,556; (admitted)
+(y) the appellant claimed CCA of $1,733 in 1998 with respect to Class 10; (admitted)
+(z) in 1998, the appellant was not entitled to any CCA in respect of the 1994 BMW 318is; (admitted)
+(aa) the disposition of the 1994 BMW 318is resulted in a $2,444 recapture of depreciation; (admitted)
+Class 10.1 capital cost allowance (CCA)
+(bb) in 1997, the appellant purchased a 1998 Mercedes ML320 for $55,000; (admitted)
+(cc) the 1998 Mercedes ML320 is a Class 10.1 depreciable asset; (admitted)
+(dd) the appellant's business-use percentage for the 1998 Mercedes ML320 in 1998, 1999 and 2000 never exceeded 50%; (denied)
+(ee) with respect to Class 10.1, the appellant claimed CCA of $4,037 for 1998, $6,864 for 1999 and $4,804 for 2000; (no knowledge)
+(ff) the appellant was not entitled to claim CCA exceeding $2,137 for 1998, $3,632 for 1999, and $2,314 for 2000 with respect to Class 10.1; (denied)
+Triax Resource Limited Partnership
+(gg) for 1999, the appellant received a T5013 slip from the Triax Resource Limited Partnership that he did not report; (no knowledge)
+(hh) in 1999, the appellant incurred a $509 business loss attributable to his interest in the Triax Resource Limited Partnership; (no knowledge)
+(ii) in 1999, the appellant realized a $2,456 capital gain attributable to his interest in the Triax Resource Limited Partnership; (no knowledge)
+Nesbitt Burns
+(jj) in 1998, the appellant did not report a $5,357 capital gain from his investments with Nesbitt Burns; (no knowledge)
+(kk) for the 1999, the appellant received a T5 slip from Nesbitt Burns which he did not report; (no knowledge)
+(ll) in 1999, the appellant did not report $1,674 in dividend income from his investments with Nesbitt Burns; (no knowledge)
+(mm) in 1999, the appellant did not report $440 in interest income from his investments with Nesbitt Burns; (no knowledge)
+Class 8 capital cost allowance (CCA)
+(nn) in 2000, the appellant disposed of Class 8 depreciable property, namely equipment from the Clinique chiropratique de Saint‑Prosper, for $20,000, and he did not take this disposition into account in computing his CCA for 2000; (admitted)
+(oo) the appellant claimed Class 8 CCA of $5,941 in 2000; this amount was less than 20% of the reported undepreciated capital cost of $30,073; (no knowledge)
+(pp) in 2000, the appellant was not entitled to claim more than a $2,015 as Class 8 CCA; (no knowledge)
+Disallowed business expenses
+(qq) in 1998, the appellant claimed $124,384 in business expenses;
+(rr) among these expenses for 1998 is an amount of $12,774 consisting of personal expenses such as meals, lodging, medication purchases, boat‑related expenses, residential telephone expenses, cellular phone expenses, postal expenses, automobile expenses and other expenses of a personal nature; (no knowledge)
+(ss) in 1999, the appellant claimed $145,054 in business expenses; (no knowledge)
+(tt) among these expenses for 1999 is an amount of $12,154 consisting of personal expenses such as meals, lodging, medication purchases, boat-related expenses, residential telephone expenses, cellular phone expenses, postal expenses, automobile expenses and other expenses of a personal nature; (no knowledge)
+(uu) in 2000, the appellant claimed business expenses in the amount of $84,192;
+(vv) among these expenses for 2000 is an amount of $13,218 consisting of personal expenses such as meals, lodging, medication purchases, boat‑related expenses, residential telephone expenses, cellular phone expenses, postal expenses, automobile expenses and other expenses of a personal nature;
+(ww) for each taxation year in issue, the appellant claimed 90% of his automobile expenses;
+(xx) for each of the taxation years in issue, the appellant's business use of his vehicles never exceeded 50%.
+[4] To justify the penalties, the Minister set out the following facts in paragraph 24 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) the facts set out above in paragraph 23;
+(b) the employees of the chiropractic clinics prepared, for the purpose of balancing the clinics' cash, a daily report containing the name of each patient and the amounts coming in; (admitted)
+(c) the cash receipts and daily reports were given to the appellant at the end of the day; (admitted, except for the period when he was on sick leave)
+(d) the appellant was the subject of search warrants, which were executed on June 15, 2004; (admitted)
+(e) the searches did not uncover any daily reports or any receipt books; (no knowledge)
+(f) the appellant did not send the Minister's agents any daily reports or any receipt books; (admitted)
+(g) the combined statement of revenues and expenses of the Saint-Prosper and Saint-Nicolas clinics was prepared from a handwritten summary sheet that the appellant gave his accountant; (admitted)
+(h) the only accounting record kept by the appellant was a book in column format in which the business purchases and expenses were entered manually; (admitted)
+(i) the appellant did not keep a record of the gross revenues of the Saint‑Nicolas and Saint-Prosper clinics; (no knowledge)
+(j) a search of the appellant's residence revealed that he kept tax information slips in a box marked [TRANSLATION] "1999 Tax" and did not report them; (no knowledge)
+(k) the appellant knew the contents of his income tax returns; (no knowledge)
+(l) the appellant signed his 1998 and 2000 income tax returns; (admitted)
+(m) the unreported income is significant in relation to the reported income; (denied)
+(n) during the 1998 to 2000 taxation years, the appellant's lifestyle was not consistent with his reported income; (denied)
+(o) the appellant was aware of income that he was not reporting. (denied)
+Analysis
+[5] It is important to note that the Minister's assessments were made beyond the normal reassessment period. Consequently, the burden was on the Minister to show that Mr. Vigeant made a misrepresentation that is attributable to neglect, carelessness or wilful default. Obviously, the Minister also bore the burden of establishing the facts justifying the imposition of the penalty under subsection 163(2) of the Act.[2] I had to address the applicable rules in this regard, and the rules applicable to net worth assessments, in Léger v. The Queen, 2001 DTC 471, [2003] 1 C.T.C. 2437, where I wrote as follows:
+Burden of proof
+[13] First of all, the burden of proof resting on Mr. Léger in his appeals must be dealt with. My colleague Judge Tardif had an opportunity to discuss the burden of proof in a case that, like this one, raised the issue of the use of the net worth method.
+[14] In Bastille v. R., [1999] 4 C.T.C. 2155 (99 DTC 431), he wrote the following at paragraphs 5 et seq.:
+[5] I think it is important to point out that the burden of proof rests on the appellants, except with respect to the question of the penalties, where the burden of proof is on the respondent.
+[6] A NET WORTH assessment can never reflect the kind of mathematical accuracy that is both desired and desirable in tax assessment matters. Generally, there is a certain degree of arbitrariness in the determination of the value of the various elements assessed. The Court must decide whether that arbitrariness is reasonable.
+[7] Moreover, use of this method of assessment is not the rule. It is, in a way, an exception for situations where the taxpayer is not in possession of all the information, documents and vouchers needed in order to carry out an audit that would be more in accordance with good auditing practice, and most importantly, that would produce a more accurate result.
+[8] The bases or foundations of the calculations done in a NET WORTH assessment depend largely on information provided by the taxpayer who is the subject of the audit.
+[9] The quality, plausibility and reasonableness of that information therefore take on absolutely fundamental importance.
+[15] Another of my colleagues, Judge Bowman, stated the following in Ramey v. Canada, [1993] T.C.J. No. 142 (QL) ([1993] 2 C.T.C. 2119, 93 DTC 791), at paragraph 6:
+I am not unappreciative of the enormous, indeed virtually insuperable, difficulties facing the appellant and his counsel in seeking to challenge net worth assessments of a deceased taxpayer. The net worth method of estimating income is an unsatisfactory and imprecise way of determining a taxpayer's income for the year. It is a blunt instrument of which the Minister must avail himself as a last resort. A net worth assessment involves a comparison of a taxpayer's net worth, i.e. the cost of his assets less his liabilities, at the beginning of a year, with his net worth at the end of the year. To the difference so determined there are added his expenditures in the year. The resulting figure is assumed to be his income unless the taxpayer establishes the contrary. Such assessments may be inaccurate within a range of indeterminate magnitude but unless they are shown to be wrong they stand. It is almost impossible to challenge such assessments piecemeal. The only truly effective way of disputing them is by means of a complete reconstruction of a taxpayer's income for a year. A taxpayer whose business records and method of reporting income are in such a state of disarray that a net worth assessment is required is frequently the author of his or her own misfortunes.
+[16] In the instant appeals, Mr. Léger was the only person who testified in support of his position. The auditor whose work led to the assessments testified for the respondent. In assessing the evidence provided by Mr. Léger, something must be said about the failure to call certain witnesses who could have confirmed what he said. In Huneault v. The Queen, 98 DTC 1488, my colleague Judge Lamarre referred to certain statements that were made by Sopinka and Lederman in The Law of Evidence in Civil Cases and cited by Judge Sarchuk of this Court in Enns v. M.N.R., 87 DTC 208, at page 210:
+In The Law of Evidence in Civil Cases, by Sopinka and Lederman, the authors comment on the effect of failure to call a witness and I quote:
+In Blatch v. Archer, (1774), 1 Cowp. 63, at p. 65, Lord Mansfield stated:
+It is certainly a maxim that all evidence is to be weighed according to the proof which it was in the power of one side to have produced, and in the power of the other to have contradicted.
+The application of this maxim has led to a well‑recognized rule that the failure of a party or a witness to give evidence, which it was in the power of the party or witness to give and by which the facts might have been elucidated, justifies the court in drawing the inference that the evidence of the party or witness would have been unfavourable to the party to whom the failure was attributed.
+In the case of a plaintiff who has the evidentiary burden of establishing an issue, the effect of such an inference may be that the evidence led will be insufficient to discharge the burden. (Levesque et al. v. Comeau et al. [1970] S.C.R. 1010, (1971), 16 D.L.R. (3d) 425.).
+[Emphasis added.]
+[6] Counsel for the respondent quoted paragraphs 29-33 of the decision of the Federal Court of Appeal, per Pelletier J.A., in Lacroix v. Canada, [2008] F.C.J. No. 1092 (QL), 2008 FCA 241:
+29 This last passage highlights the dialectic specific to certain reassessments made using the net worth method. In the case at bar, the Minister found undeclared income and asked the taxpayer to justify it. The taxpayer provided an explanation that neither the Minister nor the Tax Court of Canada found to be credible. Accordingly, there is no viable and reasonable hypothesis that could lead the decision-maker to give the taxpayer the benefit of the doubt. The only hypothesis offered was deemed not to be credible.
+30 The facts in evidence in this case are such that the taxpayer’s tax return made a misrepresentation of facts, and the only explanation offered by the taxpayer was found not to be credible. Clearly, there must be some other explanation for this income. It must therefore be concluded that the taxpayer had an unreported source of income, was aware of this source and refused to disclose it, since the explanations he gave were found not to be credible. In my view, given such circumstances, one must come to the inevitable conclusion that the false tax return was filed knowingly, or under circumstances amounting to gross negligence. This justifies not only a penalty, but also a reassessment beyond the statutory period.
+31 Paragraph 20 of Justice Bédard’s reasons for decision, cited above, sets out precisely this situation, which amply justifies his conclusions with regard to the penalties and the reassessment beyond the statutory period.
+32 What, then, of the burden of proof on the Minister? How does he discharge this burden? There may be circumstances where the Minister would be able to show direct evidence of the taxpayer’s state of mind at the time the tax return was filed. However, in the vast majority of cases, the Minister will be limited to undermining the taxpayer’s credibility by either adducing evidence or cross-examining the taxpayer. Insofar as the Tax Court of Canada is satisfied that the taxpayer earned unreported income and did not provide a credible explanation for the discrepancy between his or her reported income and his or her net worth, the Minister has discharged the burden of proof on him within the meaning of subparagraph 152(4)(a)(i) and subsection 162(3).
+33 As Justice Létourneau so aptly put it in Molenaar v. Canada, 2004 FCA 349, 2004 D.T.C. 6688, at paragraph 4:
+4. Once the Ministère establishes on the basis of reliable information that there is a discrepancy, and a substantial one in the case at bar, between a taxpayer’s assets and his expenses, and that discrepancy continues to be unexplained and inexplicable, the Ministère has discharged its burden of proof. It is then for the taxpayer to identify the source of his income and show that it is not taxable.
+[Emphasis added.]
+[7] I would also quote the remarks of Judge Tardif in Ruest v. Canada, [1999] T.C.J. No. 586 (QL):
+27 Since the assessments resulted from the observed discrepancy between income and expenses relative to capital or assets, the burden was solely on the appellant to explain that discrepancy. To convince the Court, he had to show on the balance of evidence that his claims were plausible, reasonable, correct and coherent. It was not enough to criticize and raise certain minor grievances in order to enable the Court to conclude that everything balanced as a result of the amount received at a particular moment.
+28 This, I agree, might have required a colossal amount of work, but it should nevertheless be pointed out that a taxpayer assessed by means of the net worth method is himself responsible for the manner in which he has been assessed in that he deliberately and knowingly chose not to have any accounting system and to keep no record of his income and expenses.
+[Emphasis added.]
+[8] Before we consider certain points in issue in these appeals in greater detail, certain general comments should be made about the probative value of the evidence adduced by Mr. Vigeant.
+[9] Mr. Vigeant was the only person who testified. He did not summon any other witnesses to corroborate his assertions. There are significant contradictions between the evidence that he presented to the Court and the evidence that he provided to the Minister. For example, in a letter faxed to the Minister's objections branch ("the fax") on December 15, 2006, Mr. Vigeant stated that he received two gifts of $40,000 each from his father, the first on October 20, 1997, and the second at Christmas 1997 (Exhibit I‑1, Tab 13). It is obvious that this document is in Mr. Vigeant's handwriting. He made the same assertion in paragraphs 6 and 7 of his Notice of Appeal. However, on February 16, 2005, during a meeting at the Department's offices with Ms. Nadeau, the investigator, and her team leader, he said that the gifts made in October and December 1997 were $10,000 each, which gives a total of $20,000. In his testimony before the Court, Mr. Vigeant gave a quite different version: he said that he received two gifts in the amount of $20,000 each.
+[10] With a view to showing that, in computing his net worth, the Minister failed to take into account certain property that he owned, notably property inherited from his sister or father, Mr. Vigeant submitted a summary ("the summary") of the property of which he claimed to have disposed in 1998, 1999 and 2000. This summary indicated the proceeds of disposition in each instance (Exhibits A-1 and P-3). It was prepared by Mr. Vigeant to be submitted to the Court. It does not constitute evidence of the disposition of the property, nor does it constitute evidence of the proceeds of disposition. One of the items in the summary is the sale for $4,500, on an unspecified date, of a piano received from his sister. However, the amount that he had indicated in the fax of December 15, 2006, was $4,000.
+[11] The summary shows a disposition of furniture for $5,000, but does not mention the date; the fax, however, gives a value of $8,000. On cross‑examination, Mr. Vigeant said that he had forgotten $3,000 received for bedroom furniture. He likewise explains as an oversight the $500 difference between the amount of $3,500 shown for power tools in the summary and the amount of $4,000 indicated in the fax. There is also a discrepancy with respect to the value of a dinghy (with motor) received from his father's estate, given as $6,000 in the summary and $5,500 on the fax, a $500 difference.
+[12] These contradictions in the testimony or documentary evidence of Mr. Vigeant illustrate well how memory can play cruel tricks on us when we are careless about keeping supporting documents or when we fail to produce them in court to corroborate our statements.
+[13] With respect to the items of property the total value of which, according to the summary, is $55,000, Mr. Vigeant has no documents corroborating their sale or the proceeds of disposition therefrom. They were allegedly cash sales. The situation is similar with regard to the gifts totalling $40,000 made to him by his father prior to his death in that the amounts were allegedly given to him in cash without any witnesses, and Mr. Vigeant said he did not deposit them in any bank account. Consequently, it is impossible to confirm Mr. Vigeant's version.
+[14] In addition, the inventory of Mr. Vigeant's father's estate shows $26,000 as the value of the particular legacy to Bernard Vigeant consisting of [TRANSLATION] "books, tools, computer and accessories, two paintings or watercolours of his choice, boats and motor and privileges at the Club nautique de Longueuil marina" (Exhibit I‑1, Tab 10.50, page 10). Yet the boat was sold on July 3, 1998, for $33,000 (see Exhibit I‑1, Tab 10.23). Again, according to the inventory of the estate, the value of the boat as at February 7, 1998, was $25,000 (see Exhibit I‑1, Tab 10.50, page 8). That leaves only $1,000 as the value of all the other property. This raises serious doubts as to whether there were $6,000 in proceeds from the disposition of the dinghy and $3,500 in proceeds from the disposition of the power tools.
+[15] There is another example of Mr. Vigeant's shaky memory. He testified that, during the relevant period, particularly in 2000, he did not incur any expenses associated with the use of his boat (which was purchased for $155,000) because it was in dry dock. When the investigator took the stand and was able to point out numerous fuel expenses, including a purchase of 442 litres of gasoline at Cap‑à‑l'Aigle for $389, Mr. Vigeant acknowledged that his boat might only have been dry‑docked in 2001, a year that is subsequent to the relevant period.
+[16] The fact that the Minister had to determine Mr. Vigeant's income using the net worth method is attributable to the lack of accounting records for Mr. Vigeant's professional business. Indeed, the only book of account that Mr. Vigeant kept was an eight‑column journal in which were entered the purchases and expenditures of his business. On the other hand, he kept no similar journal for the income from the business. According to the report prepared by the investigator, Mr. Vigeant said that he determined that income from the receipts that he issued to his clinic's patients. But Mr. Vigeant was unable to provide a single receipt during the audit or the investigation.
+[17] In addition, Mr. Vigeant disclosed only the total gross revenues to his accountant. Thus the accountant was unable to verify the accuracy and source of those revenues. During the Minister's investigation, former employees of Mr. Vigeant's clinic stated that they had prepared a daily report with the names of each patient and the amounts paid for their treatments. Mr. Vigeant's assistant balanced the report with the till. The daily report and the amounts received were given to Mr. Vigeant at the end of the day. There is no book of account in which those figures were entered.
+[18] To justify his failure to tender the daily reports, Mr. Vigeant said that he lost them as a result of sewer water backing up in December 1999, one month after he took possession of his new residence on Marie-Victorin Street in Saint-Nicolas. When I asked him if he had any evidence whatsoever of this incident and of the loss of these business documents, Mr. Vigeant said that he had no invoices and no insurance claim regarding the damage. The only thing that he had was a cheque in the amount of $115.02, dated December 23, 1999, and payable to Net Plus Inc. (Exhibit A‑1, P‑1). There is on the cheque no explanation other than the number 12269. He provided no invoice from Net Plus to show what goods or services would have been provided in consideration of the amount in question.
+[19] Furthermore, Mr. Vigeant said that he had had to replace part of the plasterboard installed in his basement. His reason for the lack of invoices was that he had done some of the work himself. In contrast, when he tried to establish that he had been on sick leave owing to a torn rotator cuff in December 1999, and that he had had to hire a chiropractor to replace him, he produced the employment contract. That contract is dated December 23, 1999, which is the same date as that on the cheque for the alleged cleaning services of Net Plus. It is hard to imagine how Mr. Vigeant, in his condition, could have taken an active part in cleaning up the mess caused by sewer water backing up.
+[20] When I asked him whether he had accounting records to support his computation of his professional income for the period subsequent to the damage that occurred in December 1999 — since the year 2000 is in issue — he told me that there was further damage in December 2000. He did not have any evidence of this second incident either, such as a claim filed with his insurance company. It is troubling that Mr. Vigeant was ostensibly the victim of a second incident that he says explains the absence of the daily revenue reports, and yet the purchases journal was available. Moreover, the search executed on June 15, 2004, turned up in the master bedroom a box that belonged to Bernard Vigeant and was marked [TRANSLATION] "1999 Tax" and contained slips prepared by Nesbitt Burns, including a T5 slip showing income that Mr. Vigeant did not report on his income tax return (see Exhibit I‑1, Tab 9, page 4).
+[21] One cannot but observe that Mr. Vigeant is, at least in part, the author of his own misfortune. Indeed, since he failed to keep accounting records concerning his gross revenues from the various clinics, it was almost impossible for him to attack the Minister's assessment. As Judge Bowman held in Ramey, at paragraph 15:
+. . . It is almost impossible to challenge such assessments piecemeal. The only truly effective way of disputing them is by means of a complete reconstruction of a taxpayer's income for a year. A taxpayer whose business records and method of reporting income are in such a state of disarray that a net worth assessment is required is frequently the author of his or her own misfortunes.
+[Emphasis added.]
+[22] Because of the numerous flaws in Mr. Vigeant's testimony, it is difficult to give it much weight and rely on it to justify making changes to the Minister's calculations. It should also be noted that the calculations by the investigator in determining Mr. Vigeant's income by the net worth method were not done in accordance with standard practice. Indeed, instead of obtaining information from Mr. Vigeant that would have enabled her to establish his cost of living and to compare it with government statistics, the investigator limited herself to including in his cost of living only expenses for which she had supporting documents, notably personal expenses deducted in computing Mr. Vigeant's professional income. She believed that this approach was warranted because the purpose of her work was to show criminal fraud and she wanted to limit herself to numbers supported by evidence. She therefore underestimated Mr. Vigeant's cost of living.
+[23] By way of illustration, it may be observed that, according to the investigator, the annual grocery and restaurant expenses totalled $1,264 for 1998, $761 for 1999, and $1,132 for 2000. The annual cost of housing (in particular rent, property maintenance and insurance) for 1998 as established by the investigator is $1,166, and this includes $705 in hotel expenses paid by Mr. Vigeant's professional business! For 1999, of the total amount of $18,779, $15,465 consists of either travel expenses or capital outlays associated with the purchase of his new residence. Thus, only $3,314 could be property expenses. The cost of housing determined for 2000 is more reasonable because the total is approximately $10,250. It should also be noted that the calculation of Mr. Vigeant's cost of living includes only very minimal amounts, and often nothing at all, for personal care, entertainment, newspapers, magazines and books, education, tobacco and alcohol, life insurance, and gifts and donations. Only $448 is shown for clothing for 1998, while the amount for 1999 is nil, and for 2000, $310.
+[24] Under these circumstances, I do not consider it justified to seek corrections only of certain errors that the Minister may have made in his calculations — notably with respect to the personal and business portions of automobile expenses — when Mr. Vigeant has provided no evidence to establish his true cost of living. A taxpayer cannot be content to ask only that the errors to his disadvantage be corrected. Furthermore, Mr. Vigeant did not even attempt to fully reconstruct his income for the years in issue. For these reasons, I am not satisfied that the amount of tax established in the assessments is erroneous.
+[25] We must now deal with the question of whether the Minister was justified in making assessments for the relevant period, considering that they were made outside the normal reassessment period. In order to succeed with respect to this question, the Minister had to show that Mr. Vigeant made a misrepresentation attributable to neglect, carelessness or wilful default. The evidence has amply demonstrated that, at the very least, Mr. Vigeant made a misrepresentation attributable to neglect or carelessness with regard to the relevant period. For the year 1998, he did not report a $5,357 capital gain and he claimed capital cost allowance for property that he no longer possessed at the end of the year, namely his BMW automobile. For 1999, $4,997 in income from the estate was not reported. The same is true of the income that Nesbitt Burns recorded on a T5 slip that was found by the investigators during the search. This income included $2,093 in taxable dividends and $439 in interest income. With respect to each of the three years in the relevant period, Mr. Vigeant, in computing his business income, claimed deductions for expenses that were clearly personal, such as the cost of medication. For 1998, there is an amount of $300 paid to St‑Antoine Parish for a mass in remembrance of his father, and an amount of $215 paid to the Côte-des-Neiges Cemetery. For 1999, there is also an amount of $2,220 representing insurance costs for his BMW motorcycle.
+[26] As for the penalties, I believe that they are justified for the 1999 and 2000 taxation years given the size of the amounts determined using the net worth method. The $6,512 discrepancy for the 1998 taxation year is much less clear-cut in my view. Indeed, I believe that Mr. Vigeant must be given the benefit of the doubt because the net worth method can be imprecise and there may have been almost no unreported business income for that year. However, another reason to confirm the penalties for 1999 and 2000 is the fact that Mr. Vigeant was grossly negligent in failing to adopt an adequate system to account for his professional business income during the relevant period. In addition, it is troubling to see that Mr. Vigeant did not have a separate bank account for his professional activities in Saint‑Nicolas. His bank account was used both for his professional activities and for personal transactions. Mr. Vigeant's conduct shows a complete lack of interest in taking the steps necessary to ensure the integrity of the financial information regarding his professional business. I have read the report recommending the imposition of penalties and the reopening of the statue-barred years. Except with respect to the penalty for 1998, it is my opinion that the report amply justifies the investigator's conclusions.
+[27] For all these reasons, Mr. Vigeant's appeal in respect of the year 1998 is allowed, and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the penalty must be cancelled. The appeals in respect of the years 1999 and 2000 are dismissed. The respondent is entitled to two-thirds of her costs.
+Signed at Ottawa, Canada, this 21st day of May 2009.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 29th day of October 2009.
+Erich Klein, Revisor
+CITATION: 2009 TCC 143
+COURT FILE NO.: 2007-2286(IT)G
+STYLE OF CAUSE: BERNARD VIGEANT v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Quebec City, Quebec
+DATE OF HEARING: January 19 and 20, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: May 21, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nancy Dagenais
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Mr.Vigeant acknowledges that he was a chiropractor, but asserts that, in December 1999, he suspended his practice for a few months owing to health problems.
+[2] 163(2) False statements or omissions — Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+(a) the amount, if any, by which
+(i) the amount, if any, by which
+(A) the tax for the year that would be payable by the person under this Act
+exceeds
+(B) the amounts that would be deemed by subsections 120(2) and (2.2) to have been paid on account of the person's tax for the year
+if the person's taxable income for the year were computed by adding to the taxable income reported by the person in the person's return for the year that portion of the person's understatement of income for the year that is reasonably attributable to the false statement or omission and if the person's tax payable for the year were computed by subtracting from the deductions from the tax otherwise payable by the person for the year such portion of any such deduction as may reasonably be attributable to the false statement or omission
+exceeds
+(ii) the amount, if any, by which
+(A) the tax for the year that would have been payable by the person under this Act
+exceeds
+(B) the amounts that would be deemed by subsections 120(2) and (2.2) to have been paid on account of the person's tax for the year
+had the person's tax payable for the year been assessed on the basis of the information provided in the person's return for the year,
+. . .
+163(3) Burden of proof in respect of penalties — Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[Emphasis added.]

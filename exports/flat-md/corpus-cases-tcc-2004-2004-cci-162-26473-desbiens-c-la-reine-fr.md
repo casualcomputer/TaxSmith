@@ -1,0 +1,211 @@
+---
+title: "Desbiens c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26473/index.do"
+last_modified: "2004-03-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 162"
+citation2: ""
+neutral_citation: "2004 CCI 162"
+decision_date: "2004-03-05"
+language: "fr"
+item_id: "26473"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3157
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:43:48.835000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dcee5f9b1c65bdca3ead8e996b555eac337b0f27df9abce2fc68edb92212d15b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Desbiens c. La Reine
+
+- Citation: 2004 CCI 162
+- Decision date: 2004-03-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3157, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desbiens c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-05
+Référence neutre
+2004 CCI 162
+Numéro de dossier
+2002-4788(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4788(IT)I
+ENTRE :
+LOUISE DESBIENS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 26 janvier 2004 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Carl Lavoie
+Avocate de l'intimée :
+Me Emmanuelle Faulkner
+____________________________________________________________________
+JUGEMENT
+L'appel de déterminations par lesquelles le ministre du Revenu national a refusé à l'appelante les prestations fiscales canadiennes pour enfants relativement à sa fille, Laurie, pour la période du 30 septembre 1999 à maintenant, pour les années de base 1998, 1999 et 2000 en vertu de la Loi de l'impôt sur le revenu, est admis et les cotisations sont annulées.
+Signé à Ottawa, Canada, ce 5e jour de mars 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI162
+Date : 20040305
+Dossier : 2002-4788(IT)I
+ENTRE :
+LOUISE DESBIENS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Alain Tardif
+[1] Il s'agit d'un appel de déterminations relatives aux années de base 1998, 1999 et 2000.
+[2] L'appel découle de nouvelles déterminations de prestation fiscale canadienne pour enfants dont les avis furent expédiés à l'appelante le 19 juillet 2002; le ministre du Revenu national (le « Ministre » ) a révisé à néant les prestations fiscales déjà reçues par l'appelante pour les années de base 1998, 1999 et 2000, à l'égard de sa fille Laurie pour la période s'échelonnant du mois d'octobre 1999 au mois de juin 2002 inclusivement.
+[3] Suite à l'émission des avis de nouvelle détermination de prestation fiscale canadienne pour enfants datés du 19 juillet 2002, à l'encontre de l'appelante et à l'égard des années de base 1998, 1999 et 2000, le Ministre a établi la somme suivante, à titre de paiement en trop :
+a) 1998 -
+1 203,75
+b) 1999 -
+1 872,53
+c) 2000 -
+2 172,00
+5 248,28
+[4] Tout en se gardant le droit de parfaire et nuancer certains faits pris pour acquis, l'appelante a fait les admissions suivantes :
+a) l'appelante et monsieur Steve Tremblay sont les parents, entre autres, d'une fille, prénommée Laurie, qui est née le 17 juin 1984;
+b) le père, monsieur Steve Tremblay, a déposé au mois de février 2002 une demande prestation fiscale pour enfants, réclamant un changement de bénéficiaire à l'égard de sa fille Laurie, pour une période rétroactive débutant le 30 septembre 1999, date de la séparation du couple;
+c) le 26 avril 2002, le ministre envoya à l'appelante et à monsieur Steve Tremblay un questionnaire afin de déterminer lequel est le parent admissible à recevoir les prestations fiscales à l'égard de l'enfant Laurie;
+d) l'appelante, dans sa réponse au questionnaire envoyé par le ministre le 26 avril 2002, déclara, entre autres, que sa fille Laurie ne demeurait plus avec elle, mais habite chez son père depuis leur séparation;
+e) Laurie Desbiens-Tremblay, la fille de l'appelante, a cessé d'être une personne à charge admissible au mois de juillet 2002;
+f) à l'égard de sa fille Laurie, monsieur Steve Tremblay fut présumé par le ministre être la personne qui a assumé principalement le soin et l'éducation de la jeune fille pour la période s'échelonnant du mois d'octobre 1999 au mois de juin 2002.
+[5] Elle a longuement expliqué qu'elle n'avait jamais cessé de s'occuper et de voir au bien-être de sa fille Laurie et ce, même après sa séparation avec le père Steve Tremblay.
+[6] Elle a indiqué avoir déboursé beaucoup plus que le montant de prestations reçues pour le bien-être de sa fille. Elle a produit une preuve documentaire déterminante établissant clairement qu'elle avait déboursé des montants importants dans le cadre de son vif intérêt et grande préoccupation que sa fille ne manque de rien.
+[7] Globalement, son témoignage a repris les informations et renseignements communiqués à l'Agence des douanes et du revenu du Canada à la suite d'une lettre en date du 26 avril 2002, dont le but était de déterminer son droit aux prestations. Je crois important de reproduire certains extraits alors formulés par l'appelante : (pièce I-1)
+[...]
+RÉSIDER
+1. Les enfants susmentionnés vivaient-ils avec vous pendant la période visée? (Non)
+2. Les enfants susmentionnés vivaient-ils aussi avec quelqu'un d'autre pendant cette période? (Oui)
+Si vous avez répondu oui, veuillez expliquer.
+Laurie demeure avec son père « Steve Tremblay » . C'est moi qui ai vu à son éducation, habillements, soins médicaux et dentaires. Cela était comme ça avant notre séparation et je l'avais spécifié sur l'entente écrite suite à notre séparation. Selon l'entente je devais voir en partie à ses besoins monétaires et autres de ma fille Laurie (médicaments scolaires, vêtements et autres). Depuis notre séparation je subviens totalement à ses besoins.
+[...]
+SOINS ET ÉDUCATION
+2. Comment vous êtes-vous assuré que vos enfants habitent dans un foyer sûr?
+Je lui rends visite au moins 2 fois par semaine pour m'assurer que tout va bien, qu'elle ne manque pas de nourriture et que les lieux sont propres et sécuritaires. Si j'avais dénoté un aspect négatif soyez assuré qu'à défaut de corriger la situation ...(voir annexe 1, Question 2)
+3. Qu'avez-vous fait pour obtenir des soins médicaux pour vos enfants de façon régulière et pour les transporter afin qu'ils reçoivent ces soins? Indiquez comment vous procédiez en cas de besoin d'autres soins médicaux?
+J'ai pris des rendez-vous régulièrement chez le dentiste parce que mes enfants souffrent de « dentino genèse imparfaite » ... Je me suis toujours occuper de voir le dentiste avec eux, pour le transport c'est toujours moi qui a vu à assumer les frais.
+[...]
+5. Lorsque vos enfants étaient malades, qu'avez-vous fait?
+Je consultais un médecin avec Laurie quand elle en avait besoin et si elle avait besoin de médicaments je lui procurais. Quand elle avait besoin de moi je l'amenais chez moi jusqu'à ce qu'elle aille mieux. « Quand elle était malade son père m'appelait pour que j'aille m'en occuper » .
+[...]
+Annexe I
+P. 3 Soins et éducation
+Q. 1 De chez moi, pendant la journée elle m'appelle régulièrement et le soir je lui téléphone pour m'informer de sa journée et de ses études « Cela est très important pour moi que ma fille réussisse » .
+Les journées qu'il n'y a pas de classe, je lui téléphone plus tard pour m'informer si tout va bien chez elle et si elle veut venir me trouver, je vais la chercher.
+Q. 2 J'aurais amené ma fille avec moi. J'aimerais vous mentionner que j'ai payé une partie du loyer du 355 Côte Ste-Anne en 2000. Je vous fais parvenir le reçu et les chèques que j'ai dû faire...
+Q. 4 J'ai procuré un emploi à ma fille au même endroit que moi. Comme ça, je peux m'informer et voir de son état psychologique plus souvent, car je crois que c'est une personne très vulnérable, et j'essaie de m'en occuper le plus possible. Je m'occupe de la transporter pour son travail et autres déplacements.
+Q. 7 Je crois être sa confidente et elle n'hésite pas à me demander conseil quand arrive des situations particulières. Je l'ai encouragé à suivre son cours de conduite et à obtenir son permis de conduire dont je lui ai payé.
+Je lui ai procuré un petit emploi avec moi et je suis très fière de travailler avec ma fille.
+Elle étudie présentement en soins infirmiers et je l'encourage quotidiennement dans ses études et sa vie.
+Elle sait qu'elle peut compter sur sa mère à n'importe quel moment.
+Annexe 2
+P. 4
+Q. 8 C'est toujours moi qui me suis occupée des rendez-vous chez le dentiste et chez le médecin. À l'école c'est moi qui allais aux rencontres de parents, et je me suis toujours occupée des devoirs et leçons...
+Quand j'ai quitté son père Steve Tremblay le 1er septembre 1999, il était sous forte médication pour une dépression, à ce moment j'ai donné à Laurie le choix de venir demeurer avec moi. À cette époque elle avait 15 ans, donc je crois qu'elle était capable de décider avec qui elle voulait demeurer.
+Mais par contre, je lui ai affirmé que je m'occuperai toujours de son bien-être physique et mental et c'est ce que j'ai fait depuis.
+Laurie n'a jamais manqué de quoi que ce soit, parce que j'allais moi-même vérifier si il lui manquait quelque chose et à plusieurs reprises j'ai dû aller faire de l'épicerie. (Malheureusement, je n'ai pas gardé ces factures.) et même au début de la séparation, j'allais aider à Laurie à entretenir la maison pour lui apprendre comment s'organiser, parce qu'à ce moment son père n'était pas apte à lui montrer vu son état psychologique.
+[...]
+En juin 2000 j'ai aidé Laurie à emballer et à déménager, j'ai trouvé des endroits dans ma famille pour entreposer leurs meubles parce qu'ils ont loué un appartement meublé.
+En avril 2002 c'est moi qui ai fait les démarches pour trouver un logement convenable à Laurie et son père, celui-ci ne c'est pas déplacé pour aller visiter les logements que je leur avais trouvé, c'est moi qui ai dû aller avec Laurie les visiter. Ensuite, j'ai été avec son père pour signer le bail. (Je leur ai trouvé un logement à deux rues de chez moi, comme ça je peux voir à ce que ma fille soit bien. Présentement, je fais des recherches pour leur trouver une cuisinière et un réfrigérateur, je n'ai pas encore trouvé mais je continue mes recherches.
+Soyez assuré que même si Laurie va avoir 18 ans en juin je vais continuer à voir à ce qu'elle ne manque de rien. Je l'ai toujours fait, et je vais continuer à être à son écoute.
+P.S. Je vous joins les factures de frais scolaires, habituellement et autres dans la preuve no. 5.
+[8] L'appelante n'a jamais caché que Laurie habitait en partie avec son père; elle n'a pas, pour autant, coupé les liens avec sa fille. Au contraire, elle a plutôt démontré une grande souplesse et maturité en respectant le choix de cette dernière de maintenir une présence auprès de son père, peu fiable et quelque peu irresponsable.
+[9] Le sous-paragraphe de l'article 122(6) de la Loi se lit comme suit :
+« particulier admissible » S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne - père ou mère de la personne à charge - qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+c) elle réside au Canada;
+d) elle n'est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien ...
+Pour l'application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+[10] L'article 6302 du Règlement de l'impôt sur le revenu, ( « Règlement » ) qui figure à la partie Part LXIII dudit Règlement, contient une liste de facteurs à considérer lorsqu'on détermine ce qui constitue le soin et l'éducation d'une personne à charge admissible. L'article 6302 se lit comme suit :
+6302. Facteurs - Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[11] La preuve a démontré que l'enfant mineure Laurie résidait autant avec l'appelante qu'avec son père. Il ne s'agit d'ailleurs pas d'une simple affirmation de l'appelante, ce fait est corroboré par différents documents sur lesquels il est clairement indiqué que Laurie avait la même adresse que sa mère, l'appelante.
+[12] L'appelante a témoigné d'une manière tout à fait impeccable. Elle a expliqué le contexte et les circonstances particulières qui avaient fait en sorte que Laurie demeurait à l'occasion chez son père. Bien qu'elle n'avait que 15 ans, plusieurs éléments de la preuve semblent faire état qu'elle agissait plutôt comme gardienne de son père plutôt que l'inverse.
+[13] Chose certaine, l'appelante, au cours de toute la période de référence, a manifesté une présence quasi quotidienne et un intérêt tout à fait incontestable pour le bien-être de sa fille.
+[14] Certes, l'appelante a expressément indiqué sur le questionnaire que sa fille résidait avec son père, cela est-il suffisant pour conclure au rejet de son appel ?
+[15] J'avoue avoir été profondément tiraillé avec la conséquence d'une telle réponse. N'eussent été des longues explications et nombreuses nuances exprimées sur le questionnaire et son annexe, j'aurais dû rejeter l'appel.
+[16] Par contre, à la lumière de ces explications, il appert que l'enfant mineure ne résidait pas exclusivement avec son père; elle résidait également de façon ponctuelle avec sa mère laquelle avait en outre un droit de regard quotidien sur le logement occupé par son ex-conjoint; elle a même fait diverses démarches pour s'assurer qu'ils puissent avoir un logement décent et qu'une ligne téléphonique y soit installée pour avoir un suivi constant et quotidien. Ma compréhension du critère relatif à la résidence n'exige pas l'exclusivité; d'autre part rien n'indique qu'une personne à charge ne puisse pas résider à deux endroits et ce, particulièrement lorsque les deux résidences concernées sont celles de son père et de sa mère.
+[17] Pour ces raisons, l'appel est accueilli et les cotisations sont annulées.
+Signé à Ottawa, Canada, ce 5e jour de mars 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI162
+No DU DOSSIER DE LA COUR :
+2002-4788(IT)I
+INTITULÉ DE LA CAUSE :
+Louise Desbiens et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 26 janvier 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 5 mars 2004
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Carl Lavoie
+Avocate de l'intimée :
+Me Emmanuelle Faulkner
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Carl Lavoie
+Ville :
+Québec (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

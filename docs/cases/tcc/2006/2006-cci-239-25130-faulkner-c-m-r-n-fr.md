@@ -1,0 +1,216 @@
+---
+title: "Faulkner c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25130/index.do"
+last_modified: "2006-04-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 239"
+citation2: ""
+neutral_citation: "2006 CCI 239"
+decision_date: "2006-04-18"
+language: "fr"
+item_id: "25130"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2586
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:41:13.096000+00:00"
+cases_cited_count: 2
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f40892c1c48f694795c6fff494ce986e62d43ca35477c67ec221746c519b66aa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Faulkner c. M.R.N.
+
+- Citation: 2006 CCI 239
+- Decision date: 2006-04-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2586, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Faulkner c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-18
+Référence neutre
+2006 CCI 239
+Numéro de dossier
+2005-4009(EI)
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-4009(EI)
+ENTRE :
+WILLIAM G. FAULKNER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+VICTOR TRAIN,
+S/N PORT CITY PAWN SHOP,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 avril 2006, à Saint John (Nouveau-Brunswick).
+Devant : L’honorable D.G.H. Bowman, juge en chef
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Claude Lamoureux
+Représentant de l’intervenant :
+Victor Train
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi relativement à la période allant du 15 novembre 2003 au 1er janvier 2004 est rejeté, et la décision du ministre est confirmée.
+Signé à Ottawa, Canada, ce 18e jour d’avril 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 28e jour de février 2007.
+Erich Klein, réviseur
+Dossier : 2005-4010(CPP)
+ENTRE :
+WILLIAM G. FAULKNER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+VICTOR TRAIN,
+S/N PORT CITY PAWN SHOP,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 avril 2006, à Saint John (Nouveau-Brunswick).
+Devant : L’honorable D.G.H. Bowman, juge en chef
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Claude Lamoureux
+Représentant de l’intervenant :
+Victor Train
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 28(1) du Régime de pensions du Canada relativement à la période allant du 15 novembre 2003 au 1er janvier 2004 est rejeté, et la décision du ministre est confirmée.
+Signé à Ottawa, Canada, ce 18e jour d’avril 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 28e jour de février 2007.
+Erich Klein, réviseur
+Référence : 2006CCI239
+Date : 20060418
+Dossiers : 2005-4009(EI)
+2005-4010(CPP)
+ENTRE :
+WILLIAM G. FAULKNER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+VICTOR TRAIN,
+S/N PORT CITY PAWN SHOP,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Il s’agit d’appels à l’encontre d’une décision du ministre du Revenu national (le « ministre ») voulant que l’appelant n’exerçait pas chez Port City Pawn Shop (« Port City ») un emploi assurable et ouvrant droit à pension au sens du Régime de pensions du Canada (le « Régime ») et de la Loi sur l’assurance-emploi (la « Loi ») du 15 novembre 2003 au 1er janvier 2004.
+[2] L’appelant, qui est charpentier, a subi une blessure au travail et recevait une prestation d’invalidité de la Commission de la santé, de la sécurité et de l’indemnisation des accidents au travail du Nouveau‑Brunswick (la « CSSIAT »).
+[3] Il s’est inscrit à un programme de formation auprès de la CSSIAT et a été placé chez Port City, où il travaillait au comptoir, s’occupant des clients, évaluant les articles que les clients voulaient mettre en gage et aidant de façon générale le propriétaire de l'entreprise, Stephen Train, à qui celle‑ci avait été donnée par son père, Victor Train.
+[4] L’appelant était payé par la CSSIAT. Après que le programme de formation s’est terminé le 21 novembre 2003, l’appelant a continué à travailler chez Port City, et ce, jusqu’au 22 décembre 2003, date à laquelle le commerce a fermé pour la période des fêtes.
+[5] L’appelant prétend qu’il exerçait un emploi assurable et ouvrant droit à pension du 15 novembre 2003 au 1er janvier 2004. L’intimé nie cette allégation et sa décision selon laquelle M. Faulkner n’exerçait pas un tel emploi est fondée sur les hypothèses de fait suivantes :
+[traduction]
+a) pendant la période visée par l’appel, Victor n’était pas le propriétaire de Port City et n’exploitait pas cette entreprise;
+b) pendant la période visée par l’appel, Port City était une entreprise individuelle dont le propriétaire exploitant était Stephen Train (« Stephen »), le fils de Victor;
+c) Port City était une maison de prêts sur gages et elle achetait et revendait des articles d’occasion;
+d) Port City était située au 237, rue Union, à Saint John (Nouveau‑Brunswick);
+e) pendant la période visée par l’appel, l’appelant « traînait » dans les locaux de Port City;
+f) pendant la période visée par l’appel, l’appelant ne fournissait de services ni à Port City, ni à Stephen, ni à Victor;
+g) pendant la période visée par l’appel, l’appelant n’était pas payé par Port City, par Stephen ou par Victor;
+h) avant la période visée par l’appel, l’appelant recevait une prestation d’invalidité de la Commission de la santé, de la sécurité et de l’indemnisation des accidents au travail du Nouveau‑Brunswick (la « CSSIAT »);
+i) toujours avant la période visée par l’appel, l’appelant avait conclu une entente de formation (l’« entente ») avec Stephen et la CSSIAT;
+j) selon l’entente, l’appelant devait travailler comme commis de magasin pour Port City du 20 mai 2003 au 21 novembre 2003 (la « période antérieure ») et ses fonctions consistaient, entre autres, à s’occuper des ventes et du service à la clientèle, à répondre au téléphone et à faire un peu de comptabilité;
+k) la CSSIAT a continué à verser à l’appelant sa prestation d’invalidité habituelle et lui a aussi fourni un ordinateur, un bureau et une chaise qu’il pouvait utiliser chez Port City;
+l) pendant la période antérieure, Port City avait le droit de superviser l'appelant et de le suivre de toute autre manière dans l’exécution de ses tâches;
+m) pendant la période antérieure, Port City ne consignait pas ni ne contrôlait les heures de travail de l’appelant et ne payait pas l’appelant pour ses services;
+n) pendant la période antérieure, Port City n’avait engagé aucune dépense relativement aux services fournis par l’appelant;
+o) Port City n’avait pas embauché l’appelant pour qu’il fournisse des services après l’expiration de l’entente dont il est question aux alinéas i) et j) ci‑dessus.
+[6] Je pense qu’il est juste de dire que M. Faulkner a fait plus que « traîner » dans les locaux de Port City. La preuve montre qu’après que sa période de formation s’est terminée le 21 novembre 2003, il a continué à se présenter chez Port City et à exécuter les tâches qu’il avait remplies avant, soit s’occuper des clients, recevoir et évaluer les articles que les clients voulaient mettre en gage et rendre à ceux-ci leurs articles quand ils venaient les dégager. Il semblerait qu’il jouissait d’une certaine confiance parce qu’on lui avait fait savoir la combinaison de l’alarme.
+[7] La maison de l’appelant a été détruite par le feu le 31 décembre 2003, et Victor Train lui a dit par la suite qu'il ne voulait plus le voir dans les locaux du commerce.
+[8] Pendant la période au cours de laquelle l’appelant prétend avoir exercé un emploi chez Port City (soit du 15 novembre 2003 au 1er janvier 2004), et plus précisément après le 22 novembre 2003, il n’était pas payé par la CSSIAT. La question qui se pose est de savoir s’il était employé par le propriétaire du commerce. (Il y a un doute pour ce qui est de savoir si le propriétaire était Stephen ou bien son père, Victor, mais cela n’est pas pertinent en l’espèce.) J’ai déjà dit que je conclus que l’appelant faisait plus que « traîner » dans les locaux de Port City (hypothèse fondée, sans aucun doute, sur quelque chose que Victor avait dit). L'appelant faisait bel et bien du travail. En fait, selon mon observation, Stephen, le fils, avait probablement besoin de l’aide de M. Faulkner pour exploiter le commerce.
+[9] Il n’est toutefois pas suffisant, pour qu’une personne occupe un emploi assurable ou ouvrant droit à pension, que cette personne accomplisse tout simplement des tâches à l'établissement du propriétaire d’un commerce. Il doit exister un contrat de travail, écrit ou oral, implicite ou explicite, et, en règle générale, la personne doit être payée par l’employeur. Il peut y avoir des situations inhabituelles où l'employé n’est pas payé, mais ce n’est pas le cas en l’espèce.
+[10] M. Faulkner allègue qu’il était payé par Victor Train. Plus précisément, il dit qu’il a reçu une rémunération de 8 000 $ en espèces en 2004. Il dit qu’il a reçu les 8 000 $ soit en un versement unique, soit en deux versements, le premier chez sa belle-mère et le deuxième à l'extérieur de Superior Muffler.
+[11] Dans sa déclaration de revenus pour 2003, il a indiqué un montant de 8 000 $. Cela aurait constitué un élément de preuve plus probant à l'appui de l'assertion qu’il avait bien reçu ce montant si celui-ci avait eu une incidence sur son impôt à payer. Ce n'était toutefois pas le cas parce que les prestations d’invalidité n’étaient pas comprises dans son revenu, et l’appelant n'a pas eu d’impôt à payer pour l’année en question.
+[12] M. Faulkner a avancé que le montant de 8 000 $ constituait le paiement de ses heures de travail du 15 novembre 2003 au 1er janvier 2004 au taux de 10 $ l’heure. Cela ne marche tout simplement pas sur le plan mathématique. Même s’il avait travaillé dix heures par jour du lundi au vendredi et cinq heures le samedi (ce qui est une hypothèse douteuse), soit six semaines de 55 heures, cela aurait donné 330 heures. Si on divise 8 000 $ par ce nombre, le résultat est un taux de 24 $ l’heure et non de 10 $. De plus, le commerce était fermé du 22 décembre 2003 jusqu’à la fin de l’année.
+[13] Je pense qu'il est important que les juges ne soient pas trop prompts à tirer des conclusions relatives à la crédibilité. J’ai dit ce qui suit dans la décision 1084767 Ontario Inc. (Celluland) c. Canada, [2002] A.C.I. no 227 (QL) :
+8 La preuve de chacun des deux témoins est radicalement opposée à celle de l’autre. J’ai pris le jugement en délibéré puisque je ne crois pas approprié de tirer à la légère des conclusions relatives à la crédibilité ou, de façon générale, de rendre ces conclusions oralement à l’audience. Le pouvoir et l’obligation d’établir des conclusions relatives à la crédibilité est l’une des plus lourdes responsabilités d’un juge de première instance. Le juge doit exercer cette responsabilité avec soin et après mûre réflexion puisqu’une conclusion défavorable de la crédibilité suppose que l’une des parties ment sous la foi du serment. Vouloir mettre un terme rapidement à une affaire ne peut être une excuse justifiant le mauvais usage de ce pouvoir. La responsabilité qui repose sur le juge d’un procès qui doit tirer des conclusions relatives à la crédibilité doit être particulièrement rigoureuse si l’on considère que l’on ne peut pratiquement pas en appeler de telles conclusions.
+[14] J’estime toujours qu’à titre de juges nous avons envers les personnes qui comparaissent devant nous le devoir de faire preuve de prudence et de prendre le temps nécessaire pour bien réfléchir lorsqu’il s’agit de tirer des conclusions au sujet de la crédibilité. Selon les études que j’ai consultées, les juges ne réussissent pas mieux que les autres à parvenir à une conclusion exacte sur la crédibilité. Nous n’avons pas le monopole de la perspicacité et de l’acuité et ne sommes pas supérieurs à d'autres personnes, comme les psychologues, les psychiatres ou les profanes, qui ont été testés. Étant donné que nous devons, dans le cadre de notre travail, arriver à des conclusions au sujet de la crédibilité, nous devons au moins nous acquitter de cette tâche avec une certaine humilité et en étant conscients de notre propre faillibilité. Je sais que les tribunaux d’appel disent qu’ils doivent faire preuve de retenue à l’égard des conclusions de fait des juges de première instance parce que ces derniers ont eu l’occasion d’observer le comportement des témoins au moment de leur témoignage. Eh bien, j’ai pour ma part vu des menteurs accomplis me regarder droit dans les yeux et me raconter les mensonges les plus flagrants de façon confiante, directe et franche; par contre, il y a des témoins honnêtes qui évitent de regarder le juge dans les yeux, qui bégayent, qui hésitent en parlant, qui se contredisent et qui finissent par présenter un témoignage qui est un fouillis total. Certains juges semblent quand même croire qu’ils peuvent instantanément faire la distinction entre ce qui est vrai et ce qui est faux et prononcer sur‑le‑champ un jugement fondé sur la crédibilité. La réalité est tout simplement que les juges, lorsqu’ils entendent des témoignages contradictoires, n’ont probablement, au mieux, qu’une chance sur deux de tirer la bonne conclusion quant à la crédibilité, et que leurs chances de le faire diminuent probablement s’ils fondent leur conclusion sur une simple réaction viscérale à un témoin. De plus, si une conclusion défavorable au sujet de la crédibilité est tirée, il faut absolument exposer les motifs à l’appui de la conclusion.
+[15] Je reviens donc au témoignage de M. Faulkner selon lequel il a reçu de Victor Train une somme de 8 000 $ comme rémunération pour le travail qu'il avait accompli chez Port City. Cette allégation a été catégoriquement niée par Victor Train. J’ai quelques doutes quant au témoignage de M. Train, compte tenu de l’antagonisme évident entre lui et M. Faulkner, mais, tout bien pesé, je privilégie le témoignage de M. Train sur ce point. Cette situation rappelle dans une certaine mesure celle dont il s'agissait dans l’affaire Voitures Orly Inc. c. Sa Majesté la Reine, 2004 CCI 86, [2004] G.S.T.C. 57 (conf. par la C.A.F., 2005 CAF 425, [2005] G.S.T.C. 200), où j’ai dit ce qui suit :
+[72] Cela soulève carrément une question de crédibilité. Ce n’est toutefois pas inhabituel dans la présente cause, où se posent de nombreuses questions de crédibilité. Ma tâche consiste à déterminer quelle preuve mérite le plus que l’on y ajoute foi et, en tenant compte des règles plutôt complexes relativement au fardeau de la preuve dans les affaires d’impôt sur le revenu, d’en tirer ce qui, selon la prépondérance des probabilités, constitue le plus vraisemblablement la vérité. Certains des témoins peuvent avoir dit la vérité tout le temps, d’autres en aucun temps et d’autres parfois. Le problème s’aggrave du fait que la participation d’un grand nombre des témoins consistait en des activités qui étaient plutôt louches, sinon franchement malhonnêtes.
+[16] Voici les raisons pour lesquelles je n’accepte pas le témoignage de M. Faulkner.
+a) Les incohérences entre ses différentes versions de la façon dont on lui a payé les 8 000 $. Il me semble que, si quelqu’un me donnait 8 000 $ en espèces, je pourrais dire avec certitude à quel endroit cet argent m’avait été donné et je saurais si je l’avais reçu en un, en deux ou en trois versements.
+b) Le calcul que j’ai fait ci-dessus est bien loin d'appuyer l'assertion qu'a été effectué un paiement calculé au taux de 10 $ l’heure.
+c) Il est tout simplement invraisemblable que Victor Train ait donné subrepticement à M. Faulkner 8 000 $ comme rémunération pour avoir travaillé chez Port City après le 15 novembre 2003.
+[17] J’ai donc conclu que l’appelant n’exerçait pas chez Port City un emploi assurable ou ouvrant droit à pension du 15 novembre 2003 au 1er janvier 2004.
+[18] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 18e jour d’avril 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 28e jour de février 2007.
+Erich Klein, réviseur
+RÉFÉRENCE :
+2006CCI239
+NOS DES DOSSIERS :
+2005-4009(EI) et 2005-4010(CPP)
+INTITULÉ DE LA CAUSE :
+William G. Faulkner c.
+le ministre du Revenu national et
+Victor Train, s/n Port City Pawn Shop
+LIEU DE L’AUDIENCE :
+Saint John (Nouveau-Brunswick)
+DATE DE L’AUDIENCE :
+Le 10 avril 2006
+MOTIFS DU JUGEMENT PAR :
+L’honorable D.G.H. Bowman, juge en chef
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 18 avril 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Claude Lamoureux
+Représentant de l’intervenant :
+Victor Train
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+John Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

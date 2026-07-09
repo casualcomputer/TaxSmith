@@ -1,0 +1,193 @@
+---
+title: "Larsen c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30738/index.do"
+last_modified: "2012-03-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 74"
+citation2: ""
+neutral_citation: "2012 CCI 74"
+decision_date: "2012-03-07"
+language: "fr"
+item_id: "30738"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7504
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:45:47.979000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "83cbff0d269a1fd219cfec192ad7610feb1a12ccaf4d17fb16898cfcea528649"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Larsen c. La Reine
+
+- Citation: 2012 CCI 74
+- Decision date: 2012-03-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7504, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larsen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-03-07
+Référence neutre
+2012 CCI 74
+Numéro de dossier
+2011-2906(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2906(IT)I
+ENTRE :
+RHETT LARSEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 2 mars 2012 à Calgary (Alberta).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Adam Gotfried
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté par l’appelant est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 7e jour de mars 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 10e jour de juillet 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2012 CCI 74
+Date : 20120307
+Dossier : 2011-2906(IT)I
+ENTRE :
+RHETT LARSEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] En l’espèce, la question en litige est de savoir si le montant excédant 500 $ que l’appelant a reçu à titre de bourse d’études pour l’aider à payer les coûts liés à un cours d’espagnol auquel il s’était inscrit à une université située en Espagne doivent être inclus dans le revenu de l’appelant. Il s’ensuit qu’il faut aussi se poser la question de savoir si l’appelant a le droit de demander un crédit d’impôt pour les frais de scolarité qu’il a payés pour le cours en question.
+[2] L’appelant enseigne l’espagnol à l’école secondaire. Pour améliorer ses compétences en tant qu’enseignant d’espagnol, l’appelant s’est inscrit, du 6 juillet 2009 au 14 août 2009, à un cours offert à l’Université de Salamanque, en Espagne. Le cours était initialement prévu pour quatre semaines, mais l’appelant avait choisi de continuer ses études pour deux semaines supplémentaires (six semaines au total). Il a supporté des frais de scolarité de 1 105 €. L’appelant avait demandé au programme de bourses d’études pour les professeurs de langues (Language Teacher Bursary Program) du gouvernement de l’Alberta, une bourse d’études de 5 000 $, qu’il a reçue, pour l’aider à payer les frais liés à ce cours auquel il s’était inscrit. Dans son revenu pour 2009, l’appelant n’a inclus aucune partie du montant reçu à titre de bourse d’études. Une nouvelle cotisation a été établie à son égard pour augmenter son revenu de 4 500 $ relativement à la bourse d’études. Le crédit d’impôt qu’il avait demandé pour des frais de scolarité de 2 575 $ lui a également été refusé.
+[3] L’alinéa 56(1)n) de la Loi de l’impôt sur le revenu (la « Loi ») prévoit, en partie, ce qui suit :
+56(1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[…]
+n) l’excédent éventuel :
+(i) du total des sommes […] reçues au cours de l’année par le contribuable à titre de bourse d’études, de bourse de perfectionnement (fellowship) ou de récompense […]
+sur :
+(ii) l’exemption pour bourses d’études du contribuable pour l’année, calculée selon le paragraphe (3);
+[4] L’appelant sera donc tenu d’inclure dans son revenu le montant qui représente l’excédent de la somme de 5 000 $ (le montant de la bourse) sur son exemption pour bourse d’études pour l’année. L’exemption pour bourse d’études est prévue au paragraphe 56(3) de la Loi de la manière suivante :
+56(3) Pour l’application du sous-alinéa (1)n)(ii), l’exemption pour bourses d’études d’un contribuable pour une année d’imposition correspond au total des sommes suivantes :
+a) le total des sommes représentant chacune la somme incluse en application du sous‑alinéa (1)n)(i) dans le calcul du revenu du contribuable pour l’année au titre d’une bourse d’études ou d’une bourse de perfectionnement (fellowship) reçue relativement à son inscription :
+(i) soit à un programme d’études pour lequel une somme est déductible en application du paragraphe 118.6(2) dans le calcul de l’impôt à payer par le contribuable en vertu de la présente partie pour l’année, pour l’année d’imposition précédente ou pour l’année d’imposition subséquente,
+(ii) soit à un programme d’études d’une école primaire ou secondaire;
+b) le total des sommes représentant chacune la moins élevée des sommes suivantes :
+(i) la somme incluse en application du sous-alinéa (1)n)(i) dans le calcul du revenu du contribuable pour l’année au titre d’une bourse d’études, d’une bourse de perfectionnement (fellowship) ou d’une récompense dont il doit se servir dans la production d’une oeuvre littéraire, dramatique, musicale ou artistique,
+(ii) le total des sommes représentant chacune une dépense engagée par le contribuable au cours de l’année en vue de remplir les conditions aux termes desquelles la somme visée au sous-alinéa (i) a été reçue, à l’exception des dépenses suivantes :
+(A) ses frais personnels ou de subsistance, sauf ses frais de déplacement, de repas et de logement engagés en vue de remplir ces conditions, pendant qu’il était absent de son lieu de résidence habituel pour la période visée par la bourse d’études, la bourse de perfectionnement (fellowship) ou la récompense,
+(B) les dépenses qu’il peut se faire rembourser,
+(C) les dépenses déductibles par ailleurs dans le calcul de son revenu;
+c) 500 $ ou, s’il est moins élevé, l’excédent du total visé au sous-alinéa (1)n)(i) pour l’année sur le total des sommes déterminées selon les alinéas a) et b).
+[5] Il découle de l’alinéa 56(3)c) de la Loi que le montant minimal de l’exemption pour bourse d’études en l’espèce serait de 500 $, soit le montant qui a été accepté à titre d’exemption pour bourse d’études. L’exemption pour bourse d’études de l’appelant ne sera supérieure au montant de 500 $ qui a été accordé que s’il est satisfait aux conditions énoncées aux alinéas 56(3)a) ou b) de la Loi susmentionnés.
+[6] Étant donné que l’appelant ne produisait aucune oeuvre littéraire, dramatique, musicale ou artistique, le montant qui serait calculé pour l’application du sous‑alinéa 56(3)b)(i) de la Loi sera de zéro. Par conséquent, aucun montant ne serait inclus en vertu de l’alinéa 56(3)b) de la Loi susmentionné.
+[7] Un montant ne sera inclus dans le calcul du revenu pour l’application de l’alinéa 56(3)a) de la Loi que si l’appelant était inscrit à un programme de formation qui lui permettrait de déduire un montant au titre du paragraphe 118.6(2) de la Loi dans le calcul de l’impôt à payer pour 2009. Il y a donc un lien direct entre l’exemption pour bourse d’études et le crédit d’impôt pour études.
+[8] Le paragraphe 118.6(2) de la Loi prévoit ce qui suit :
+118.6(2) Le montant obtenu par la formule suivante est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+A × B
+où :
+A représente le taux de base pour l’année;
+B la somme des produits suivants :
+a) 400 $ multipliés par le nombre de mois de l’année pendant lesquels le particulier est inscrit à un programme de formation admissible comme étudiant à temps plein d’un établissement d’enseignement agréé,
+b) 120 $ multipliés par le nombre de mois de l’année (sauf ceux visés à l’alinéa a)) dont chacun est un mois pendant lequel le particulier est inscrit à un programme de formation déterminé d’un établissement d’enseignement agréé, aux cours duquel l’étudiant doit consacrer au moins 12 heures par mois.
+Pour que le montant soit déductible, l’inscription du particulier doit être attestée par un certificat délivré par l’établissement — sur le formulaire prescrit contenant les renseignements prescrits — et présenté au ministre et, s’il s’agit d’un établissement d’enseignement agréé visé au sous-alinéa a)(ii) de la définition de cette expression au paragraphe (1), le particulier doit avoir atteint l’âge de 16 ans avant la fin de l’année et être inscrit au programme en vue d’acquérir ou d’améliorer sa compétence à exercer une activité professionnelle.
+[Non souligné dans l’original.]
+[9] La question de savoir si l’appelant était un étudiant à temps plein ou seulement à temps partiel n’est pas pertinente en l’espèce, étant donné qu’aussi bien pour les étudiants à temps plein que pour les étudiants à temps partiel, un crédit n’est accordé que si la personne est inscrite à un établissement d’enseignement agréé. La Loi de 2009 définissait en partie l’expression « établissement d’enseignement agréé » de la manière suivante :
+118.6(1) Les définitions qui suivent s’appliquent aux articles 63 et 64 et à la présente sous-section.
+« établissement d’enseignement agréé »
+a) Un des établissements d’enseignement suivants situés au Canada :
+(i) université, collège ou autre établissement d’enseignement agréé soit par le lieutenant-gouverneur en conseil d’une province au titre de la Loi fédérale sur les prêts aux étudiants, soit par une autorité compétente en application de la Loi fédérale sur l’aide financière aux étudiants, ou désigné par le ministre de l’Enseignement supérieur et de la Science de la province de Québec pour l’application de la Loi sur l’aide financière aux étudiants de cette province,
+(ii) établissement d’enseignement reconnu par le ministre des Ressources humaines et du Développement des compétences comme offrant des cours — sauf les cours permettant d’obtenir des crédits universitaires — qui visent à donner ou augmenter la compétence nécessaire à l’exercice d’une activité professionnelle;
+b) université située à l’étranger, où le particulier mentionné au paragraphe (2) est inscrit à des cours d’une durée minimale de trois semaines consécutives qui conduisent à un diplôme;
+c) établissement d’enseignement situé aux États‑Unis — université, collège ou autre — offrant des cours de niveau postsecondaire si, tout au long de l’année mentionnée au paragraphe (2), le particulier mentionné à ce paragraphe réside au Canada près de la frontière entre le Canada et les États‑Unis et qu’il fasse régulièrement la navette entre sa résidence et cet établissement.
+[10] Le paragraphe susmentionné envisage trois situations possibles :
+a) l’établissement d’enseignement est situé au Canada;
+b) l’université est située à l’étranger;
+c) le particulier résidait près de la frontière entre le Canada et les États‑Unis, l’établissement d’enseignement était situé aux États‑Unis et offrait des cours de niveau postsecondaire et le particulier faisait la navette entre sa résidence et cet établissement.
+[11] Si c’est la situation a) ou c) qui s’applique, aucune restriction n’est imposée à la durée des cours qui doivent être suivis. Si c’est la situation b) qui s’applique, alors, en 2009, le particulier devait être inscrit à un cours qui conduisait à un diplôme et qui était d’une durée minimale de 13 semaines consécutives pour que l’université soit considérée comme un établissement d’enseignement agréé.
+[12] Par conséquent, en 2009, une université située à l’étranger (à l’exception des universités situées aux États‑Unis où le particulier se rendait en faisant la navette entre sa résidence et l’établissement d’enseignement) ne pouvait être considérée comme un établissement d’enseignement agréé que si elle remplissait la condition suivante : le particulier devait être inscrit à un cours d’une durée minimale de 13 semaines consécutives. Étant donné que le cours auquel l’appelant était inscrit à l’Université de Salamanque, en Espagne, n’était que d’une durée de six semaines, l’Université de Salamanque n’était pas un établissement d’enseignement agréé en 2009. Bien que cette exigence relative à des cours suivis à une université située à l’étranger ait été modifiée pour réduire le nombre de semaines de cours de 13 semaines consécutives à trois semaines consécutives, cette modification ne s’applique qu’aux frais de scolarité payés pour 2011 ou pour une année ultérieure. La modification n’est d’aucun secours pour l’appelant.
+[13] Il existe une restriction similaire concernant une demande de crédit d’impôt fondée sur les frais de scolarité payés par l’appelant. Le paragraphe 118.5(1) de la Loi prévoit en partie ce qui suit :
+118.5(1) Les montants suivants sont déductibles dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+a) si le particulier est inscrit au cours de l’année à l’un des établissements d’enseignement suivants situés au Canada :
+(i) établissement d’enseignement — université, collège ou autre — offrant des cours de niveau postsecondaire,
+[…]
+le produit de la multiplication du taux de base pour l’année par les frais de scolarité payés à l’établissement pour l’année si le total de ces frais dépasse 100 $, à l’exception des frais :
+(ii.1) soit qui sont payés à un établissement visé au sous-alinéa (i) pour des cours qui ne sont pas de niveau postsecondaire,
+[…]
+b) si, au cours de l’année, le particulier fréquente comme étudiant à plein temps une université située à l’étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l’année par le total des frais de scolarité payés à l’université pour l’année, à l’exception des frais qui ont été :
+(i) soit payés pour des cours d’une durée inférieure à 13 semaines consécutives,
+[…]
+c) si, tout au long de l’année, le particulier réside au Canada près de la frontière entre le Canada et les États‑Unis et si :
+(i) d’une part, il est inscrit à un moment de l’année à un établissement d’enseignement situé aux États-Unis — université, collège ou autre — offrant des cours de niveau postsecondaire,
+(ii) d’autre part, il fait régulièrement la navette entre sa résidence et cet établissement,
+le produit de la multiplication du taux de base pour l’année par le total des frais de scolarité payés à l’établissement pour l’année si ces frais dépassent 100 $ et à l’exception des frais :
+(iii) soit qui ont été payés pour son compte par son employeur et ne sont pas inclus dans le calcul de son revenu,
+(iv) soit qui font partie d’une allocation que son père ou sa mère a reçue pour son compte d’un employeur et ne sont pas inclus dans le calcul du revenu de son père ou de sa mère par application du sous‑alinéa 6(1)b)(ix).
+[14] Si c’est l’alinéa 118.5(1)a) ou c) de la Loi susmentionné qui s’applique, aucune restriction n’est imposée à la durée des cours qui doivent être suivis. Étant donné que l’Université de Salamanque est située en Espagne, ni l’alinéa 118.5(1)a) ni l’alinéa c) ne sont pas applicables en l’espèce. Si c’est l’alinéa 118.5(1)b) de la Loi qui s’applique, alors le sous‑alinéa 118.5(1)b)(i) de la Loi prévoit que les frais de scolarité payés ne comprennent pas les frais « payés pour des cours d’une durée inférieure à treize semaines consécutives ». Étant donné que l’appelant avait suivi un cours d’une durée de six semaines seulement, même si l’appelant était un étudiant à temps plein à l’Université de Salamanque, il n’a pas le droit de demander un crédit d’impôt pour des frais de scolarité qu’il a payés pour le cours qu’il a suivi à cette université en 2009. La durée des cours suivis à une université située à l’étranger (pour des particuliers autres que ceux auxquels s’applique l’alinéa 118.5(1)c) de la Loi susmentionné) en ce qui concerne le crédit d’impôt pour frais de scolarité a été modifiée pour passer d’au moins 13 semaines à au moins trois semaines, mais, comme je l’ai mentionné plus tôt, cette modification ne s’applique qu’aux frais de scolarité payés pour les années 2011 et suivantes.
+[15] L’appelant a exprimé ses préoccupations quant au fait que personne au gouvernement de l’Alberta ne lui avait mentionné qu’il serait assujetti à l’impôt en raison de la bourse d’études qu’il avait reçue en 2009, et il avait compris, selon ce qu’on lui avait dit et selon ce qu’il avait lu, que la bourse ne serait pas imposable. Toutefois, je dois appliquer la Loi telle qu’elle est énoncée et, en 2009, la Loi prévoyait bel et bien que l’exemption pour bourse d’études ne couvrirait pas entièrement le montant d’une bourse d’études relative à un cours suivi à une université située en Espagne, si le cours était d’une durée inférieure à 13 semaines consécutives.
+[16] En conséquence, l’appel interjeté par l’appelant est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 7e jour de mars 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 10e jour de juillet 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2012 CCI 74
+NO DU DOSSIER DE LA COUR : 2011-2906(IT)I
+INTITULÉ : RHETT LARSEN
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 2 mars 2012
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 7 mars 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Adam Gotfried
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

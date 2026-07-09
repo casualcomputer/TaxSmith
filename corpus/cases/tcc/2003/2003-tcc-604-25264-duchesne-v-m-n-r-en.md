@@ -1,0 +1,144 @@
+---
+title: "Duchesne v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25264/index.do"
+last_modified: "2003-10-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 604"
+citation2: ""
+neutral_citation: "2003 TCC 604"
+decision_date: "2003-10-07"
+language: "en"
+item_id: "25264"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2393
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:39:09.327000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bed86e8364a9eb835e67244eef94178b70469dd094802c954d100409d881c282"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Duchesne v. M.N.R.
+
+- Citation: 2003 TCC 604
+- Decision date: 2003-10-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2393, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duchesne v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-07
+Neutral citation
+2003 TCC 604
+File numbers
+97-333(UI)
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 97-333(UI)
+BETWEEN:
+ÉRIC DUCHESNE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal set down for hearing on July 2, 2003, at Roberval, Quebec
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the Appellant:
+Éric Le Bel
+Counsel for the Respondent:
+Nancy Dagenais
+JUDGMENT
+Upon motion by counsel for the appellant to be removed as counsel of record in this case;
+The motion to be removed as counsel of record is granted.
+And whereas counsel for the respondent moved that the appeal be dismissed;
+The motion is granted and the appeal is dismissed and the decision rendered by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of October 2003.
+"Pierre Archambault"
+Archambault, J.
+Translation certified true
+on this 6th day of August 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC604
+Date: 20031007
+Docket: 97-333(UI)
+BETWEEN:
+ÉRIC DUCHESNE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Archambault, J.
+[1] The appeal of Éric Duchesne was to be heard on Wednesday, July 2, 2003, at Roberval, Quebec, at the same time as that of his father, Berthold Duchesne (97‑332(UI)). On Friday, June 27, upon returning from a week's vacation, Éric Le Bel, counsel for Éric Duchesne, applied to the Court for a postponement in both appeals, principally on the ground that Berthold Duchesne was unable to appear at the hearing because of his health. A doctor's note dated June 23, 2003, confirms that he was hospitalized for a depressive condition and that he would be unable to appear for an indeterminate period. As to the appeal of Éric Duchesne, that case was [TRANSLATION] "concomitant with [that] of Berthold Duchesne", and the two appeals were to be heard on common evidence. In his application dated June 27, 2003, Mr. Le Bel writes: [TRANSLATION] "The evidence is lengthy and complex and concerns the same witnesses. We believe that conducting two trials would mean doing the work twice, needlessly in our view." The Chief Justice of this Court granted Berthold Duchesne's request for a postponement and dismissed that of Éric Duchesne. That decision was communicated to Mr. Le Bel by facsimile on Monday, June 30, 2003.
+[2] At the hearing held on July 2, 2003, Mr. Le Bel appeared alone, unaccompanied by Éric Duchesne. Mr. Le Bel reiterated his request for a postponement, citing essentially the same grounds as those considered by the Chief Justice of this Court. For reasons I will outline below, I denied that request. Mr. Le Bel subsequently sought leave to be removed as counsel of record, which I granted. Lastly, counsel for the respondent moved to dismiss Mr. Duchesne's appeal, which motion I also granted. Since Éric Duchesne was not present when his appeal was dismissed, I thought it useful to write these reasons so that he would know why his appeal was dismissed.[1]
+Facts
+[3] On February 25, 1997, Jean‑François Bernier, of the law firm Mario Bouchard et Associés, filed a notice of appeal concerning a decision rendered by the Minister of National Revenue ("Minister") respecting the insurability of Éric Duchesne's employment for the purpose of the Unemployment Insurance Act (Act). The relevant periods are as follows: from March 7 to October 1, 1993, from May 22 to November 26, 1994, and from May 1 to November 17, 1995. In concluding that Éric Duchesne did not hold insurable employment during those periods, the Minister relied on paragraph 3(2)(c) of the Act, that is to say, on the fact that Éric Duchesne and the employer, his mother, Diane Gaudreau, were not dealing with each other at arm's length.
+[4] On August 29, 1997, Éric Duchesne replaced Mr. Bernier with Mr. Le Bel from the firm of Fradette, Gagnon, Têtu, Le Bel, Ste‑Marie.
+[5] On February 25, 1998, the Court gave Mr. Le Bel notice that the hearing of Éric Duchesne's appeal, like that of the appeal of Berthold Duchesne, would take place at Alma on April 14 of that year. Contrary to all expectations, the two appeals were not heard on common evidence. The hearing of Berthold's appeal began on April 14 at 10:05 a.m. Five witnesses of Berthold Duchesne were heard. At 4:50 p.m., the hearing of his appeal was adjourned to a later date. Given the overloaded roll, the hearing of Eric Duchesne's appeal was postponed to a later date.
+[6] On July 3, 1998, the hearings coordinator informed Mr. Le Bel that the hearing of Berthold Duchesne's appeal would continue on September 14. That same day, Mr. Le Bel informed the Court by letter of his intention to proceed in Berthold Duchesne's appeal but asked the Court to stay the hearing of Éric Duchesne's appeal. In that letter, he stated: [TRANSLATION] "We should await Judge Charron's decision in the case of Berthold Duchesne in view of the fact that a decision one way or the other could have an impact on the said case of Éric Duchesne." On July 9, the Court informed Mr. Le Bel that the request was granted.
+[7] When the hearing of Berthold Duchesne's appeal continued on September 14, 1998, five witnesses were heard. Although Mr. Le Bel presented eight witnesses (including Berthold Duchesne and Diane Gaudreau) at the hearings held in April and September of that year, Éric Duchesne was not among them. Following the decision rendered on October 30, 1998, by which Judge Charron dismissed Berthold Duchesne's appeal, an application for judicial review was filed at the Federal Court of Appeal on December 9. Since the parties agreed that the case would be referred to that Court for a new hearing, the Federal Court of Appeal made an order to that effect on November 26, 1999.
+[8] On May 18, 2001, the Court set down the appeal of Berthold Duchesne for hearing on October 24 of that year. One month before the hearing date, that is on September 26, 2001, Mr. Le Bel informed the Court that Berthold Duchesne was [TRANSLATION] "unable to undergo a trial". In his letter of September 24, enclosed with that of Mr. Le Bel, Berthold Duchesne's doctor concluded that his patient was in [TRANSLATION] "a major depressive state of severe intensity".[2] The request for a postponement was granted on October 2, 2001. The hearings coordinator contacted Mr. Le Bel in July 2002 to set a new hearing date in September of that year. Unable to reach either his client or his client's doctor, Mr. Le Bel asked that the hearing not be set down for September 2002. He was to inform the hearings coordinator of the state of his client's health before the end of July 2002. Despite a number of calls from the coordinator, Mr. Le Bel did not call back. Then, on May 13, 2003, the Chief Justice issued a final order that the appeals of Berthold Duchesne and Éric Duchesne be heard on July 2, 2003, at the Roberval Court House.
+[9] Mr. Le Bel stated that he had written to both his clients one month before July 2, 2003, asking them to communicate quickly with him in order to prepare for their hearings. He also said that he had transmitted the Chief Justice's order to them.[3] Only Berthold Duchesne purportedly communicated with Mr. Le Bel, informing him that he was still depressive and not [TRANSLATION] "able to function". Mr. Le Bel informed him that he could not seek another postponement unless he obtained a doctor's note. Mr. Le Bel also said he had called Éric Duchesne a number of times before and after his week's vacation but could not reach him. Mr. Le Bel also confirmed that he had never told Éric Duchesne not to appear at the Roberval Court House on July 2, 2003, following the Court's refusal to grant his request for a postponement of the hearing of his appeal.
+Analysis
+[10] At the hearing, Mr. Le Bel argued that there were two reasons favouring a postponement of the hearing of the appeal. First, Éric Duchesne's case was [TRANSLATION] "intimately connected to that of Berthold Duchesne". Second, he said he needed Berthold Duchesne's testimony in order to provide complete proof.
+[11] In my view, those two reasons are not sufficient in the circumstances for Éric Duchesne to be granted another postponement. With regard to the first reason, it is true that there was a certain relationship between Éric's appeal and that of his father, Berthold Duchesne. The point for determination in both cases was whether the employment held with the same employer, Diane Gaudreau, during appreciably the same periods was insurable. If the two appeals could have been heard at the same time, it seems to me that it would indeed have been more efficient to hear them on common evidence. However, it is utterly surprising that Mr. Le Bel should insist that Éric Duchesne's appeal should be heard at the same time as that of Berthold Duchesne since the two appeals were not heard on common evidence when they were initially heard on April 14, 1998. Furthermore, Mr. Le Bel expressly asked the Court to stay the hearing of Éric Duchesne's appeal pending the Court's decision in Berthold Duchesne's case. Need it be recalled that it was as a result of Mr. Le Bel's failure to inform the Court of the state of Berthold Duchesne's health and to return the telephone calls from the hearings coordinator that the Chief Justice set a final date for the hearing of Éric Duchesne's appeal on the same date as that set for Berthold's appeal?
+[12] I do not find the second reason more satisfying than the first. I asked Mr. Le Bel to explain to me in what way Berthold Duchesne's testimony was essential to the evidence that Éric Duchesne was to provide, and Mr. Le Bel answered: [TRANSLATION] "To . . . provide a complete picture of the situation." When I asked him: [TRANSLATION] "Tell me what he would come and say that is essential to your case?", he replied, [TRANSLATION] "Well, he's going to say that in '93, '94 and '95, he too worked on the farm during different periods than those Éric worked, and he's his father, they see each other every day, and they live in the same house." (Pages 27 and 28 of the transcript) A little further on, when pressed once again to explain in what way Berthold Duchesne's testimony was essential, Mr. Le Bel answered that he could testify:
+[TRANSLATION]
+That, during the periods in issue, he actually worked, that he really performed work; that this is what was commonly paid on the market and moreover he himself was paid quite similar wages; yes, it's true that he had needs during the period when he was there that were met by Éric. Anyone, even if he hadn't been Madam's son, should have been suitable in any case. That's the evidence he'll come and establish at the same time as Ms. Gaudreau and at the same time as Éric Duchesne as well. (Pages 33 and 34 of the transcript)
+[13] There can be no doubt that Berthold Duchesne's testimony might have been relevant if he had been able to come and testify. Unfortunately, Berthold Duchesne suffers from chronic depression. He was unable to appear at the hearing of his appeal in 2001. He had requested a one-month postponement before the date of his hearing. The same thing occurred before the hearing of July 2, 2003: he informed his counsel that he was not [TRANSLATION] "able to function". Moreover, in his letter of September 24, 2001, Berthold's doctor cites his appeal before this Court as one of the factors that might have caused the depression: [TRANSLATION] "These events have apparently disturbed the patient enormously, particularly since the case is currently resuming." His doctor confirmed in his note of June 23, 2003, that Berthold Duchesne was [TRANSLATION] "on sick leave for an indeterminate period". So after two attempts to hear Berthold Duchesne's appeal once again, we do not know when Mr. Duchesne will be able to proceed with his appeal.
+[14] I find it inappropriate to postpone Éric Duchesne's appeal indefinitely. His appeal was instituted more than six years ago, and the first relevant period covered by the said appeal goes back more than 10 years. Furthermore, I do not find that Berthold's testimony is essential to Éric Duchesne's appeal. Diane Gaudreau, the employer and mother of Éric Duchesne, can come and corroborate Éric Duchesne's testimony regarding the work he performed for her.
+[15] In other words, Diane Gaudreau is able to provide testimony similar to that which Berthold Duchesne might have given. That moreover is what Mr. Le Bel appears to have managed to have her do at Berthold Duchesne's trial since Mr. Le Bel did not think it essential to have Éric Duchesne testify to corroborate the testimony of Mr. Duchesne and Ms. Gaudreau regarding the nature of the services rendered by Berthold Duchesne. If there is one case in which there might be a significant need for corroboration, it is that of Berthold Duchesne. The Minister had doubts about the duration of the services provided by Berthold Duchesne because he had his own transportation business. However, in Éric Duchesne's appeal, the question of the duration of services is not in issue. Éric Duchesne did not operate a business, and he did not work for an employer other than his mother. He even appears to have worked for her during periods when he was collecting unemployment insurance benefits. Consequently, the very existence and duration of the contract of employment are not in issue in his case.
+[16] The only crucial question is whether the terms and conditions of Éric Duchesne's contract of employment would have been the same if he and his mother, the employer, had been dealing with each other at arm's length. In my view, the best evidence of the terms and conditions of a contract of employment in an agricultural setting between persons who are dealing with each other at arm's length would be that brought by witnesses outside the family because it would have greater probative value. In conclusion, I do not share the view of counsel for Éric Duchesne as to the essential nature of Berthold Duchesne's testimony.
+[17] In my opinion, the real reason for seeking a postponement was that Mr. Le Bel had not obtained his client's cooperation in order to prepare his appeal. At no time in the four weeks preceding the date of the hearing was Mr. Le Bel able to speak to his client in order to prepare his case.[4] Since the Chief Justice had dismissed his request for a postponement in Éric Duchesne's appeal, Mr. Le Bel had a duty to be ready to proceed on Wednesday, July 2, 2003. Since he was not ready, it is not surprising that he made a final attempt to obtain a postponement and, having failed to obtain it, asked to be removed as counsel of record in the case of Éric Duchesne.
+[18] Having regard to Berthold's chronic depressive condition and the fact that he was unavailable, why did he not adopt the strategy initially used by Mr. Le Bel in the appeal of Berthold Duchesne? First of all, it would have been possible to do without the corroboration of one of Éric Duchesne's co‑workers, as did Mr. Le Bel in Berthold's case, and to stick to the testimony of the employer and the worker himself. Furthermore, Mr. Le Bel would have been able to proceed with Éric Duchesne's appeal and to have the hearing of Berthold Duchesne's appeal stayed, as had been requested in Éric Duchesne's appeal in July 1998.[5] The decision rendered in Éric's case could [TRANSLATION] "have an impact" on Berthold's appeal in Mr. Lebel's own words used in his letter dated July 3, 1998, concerning the impact of Berthold Duchesne's appeal on Éric's appeal.
+[19] For all these reasons, I find that there were no reasonable grounds to grant Éric Duchesne a third postponement. As the Federal Court of Appeal recently recalled in Wagg v. The Queen, 2003 FCA 303, the decision to grant a postponement is within the discretion of the presiding judge. At paragraph 19, Pelletier J.A. said:[6]
+19 It is trite law that the decision as to whether to grant an adjournment is a discretionary decision, which must be made fairly (see Pierre v. Minister of Manpower and Immigration, [1978] 2 F.C. 849, at p. 851, cited with approval in Prassad v. Canada (MEI), [1989] 1 S.C.R. 560, at para. 17). There is no presumption that everyone is entitled to an adjournment. The Court will not interfere in the refusal to grant an adjournment unless there are exceptional circumstances (see Siloch v. Canada, [1993] F.C.J. No. 10 (F.C.A.)).
+[My emphasis.]
+[20] Upon being informed of my decision, Mr. Le Bel sought leave from the Court to be removed as counsel of record, and I granted his request. In view of Éric Duchesne's absence when his appeal was called when he knew that the hearing was to take place at the Roberval Court House on July 2, 2003,[7] counsel for the respondent moved that the Court dismiss his appeal. I granted that motion on the ground that Éric Duchesne's behaviour indicated a complete lack of interest in his appeal. I find it utterly unreasonable for an appellant instituting an appeal before a court not to contact his counsel when counsel sent him a letter one month before the date of the hearing of his appeal asking him to contact him as soon as possible to prepare for his trial and had left him numerous telephone messages during that one-month period.
+[21] Furthermore, it should be mentioned that I had suggested to Mr. Le Bel as a last resort that he contact his client to give him the opportunity to appear the next day, on July 3, 2003. Regrettably, Mr. Le Bel informed the Court that he had been unable to contact his client and that he had only been able to leave a message on his answering machine. In the circumstances, I thought it appropriate not to ask the respondent's two witnesses to travel from Québec,[8] a three- or four-hour drive, to be present the next day and to incur travelling expenses without any assurance that Éric Duchesne would be present or that he was interested in proceeding with his appeal that day.
+[22] For all these reasons, the request for a postponement is denied, that of Mr. Le Bel to be removed as counsel of record is granted and the appeal of Éric Duchesne is dismissed.
+Signed at Ottawa, Canada, this 7th day of October 2003.
+"Pierre Archambault"
+Archambault, J.
+Translation certified true
+on this 6th day of August 2004.
+Sophie Debbané, Revisor
+[1] After I decided to provide written reasons for my decision, the Court received a motion dated July 23, 2003, from Éric Duchesne for revocation of judgment. In my view, that motion is premature since I have not yet rendered my written decision in his appeal. After reading those reasons, Mr. Duchesne may make a fresh motion for revocation if he still sees fit to do so.
+[2] During the hearing, Mr. Le Bel wrongly argued that his client was not depressive in 2001 but rather was suffering from cancer (page 19 of the transcript).
+[3] See pp. 42 and 43 of the transcript.
+[4] Need it be recalled that Mr. Le Bel mentioned in his written application for a postponement dated June 27, 2003, that Éric Duchesne's appeal involved "lengthy and complex evidence"? It is interesting to note that, when I expressed my surprise at the fact that he had left on vacation one week before the trial without preparing him, Mr. Le Bel answered: "I had already prepared the case ... I had already argued it once." (Page 47 of the transcript)
+[5] The hearings coordinator had moreover made that suggestion to Mr. Le Bel.
+[6] In that judgment, the Federal Court of Appeal held that the Tax Court judge had not acted unreasonably in denying the taxpayer an adjournment to enable him to consult a lawyer.
+[7] At the hearing, I told Mr. Le Bel:
+The Court: But he [Éric Duchesne] knew that he was summoned here this morning.
+Éric Le Bel: Yes, yes, yes, absolutely.
+(Page 40 of the transcript)
+[8] Counsel for the respondent had clearly been informed beforehand by Mr. Le Bel that he was not going to proceed with the hearing of his appeal on July 2, 2003.

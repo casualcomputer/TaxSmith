@@ -1,0 +1,169 @@
+---
+title: "Kolakis v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25077/index.do"
+last_modified: "2003-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 355"
+citation2: ""
+neutral_citation: "2003 TCC 355"
+decision_date: "2003-05-20"
+language: "en"
+item_id: "25077"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2487
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:08:45.864000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7b59d97063297fc16deb377540bbcece4f3ef9aa1fd009b55f27e27763458fe8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kolakis v. The Queen
+
+- Citation: 2003 TCC 355
+- Decision date: 2003-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2487, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kolakis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-20
+Neutral citation
+2003 TCC 355
+File numbers
+2000-1426(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC355
+Date:20030520
+Docket: 2000-1426(IT)I
+BETWEEN:
+EVANGELOS KOLAKIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from transcript of Reasons delivered orally from the
+Bench at Edmonton, Alberta on September 22, 2000)
+Hershfield, J.T.C.C.
+[1] As I indicated at the outset of the trial, I have been somewhat frustrated by not having evidence attested to before me. The purpose of a trial court is to be a finder of fact and I think that the outcome of this case depends as much as in any other case on findings of fact. With hindsight, I might have insisted that the Appellant have at least obtained an agreed statement of facts to go with the document book that was submitted as an exhibit of the Appellant and accepted without protest or objection by the counsel for the Respondent. Since this is an Informal Proceeding, with both parties being represented by legal counsel who were prepared to put before me a document book as sufficient to determine the question of law which was put to me, I have proceeded on that basis; that is, on the basis that the parties are in agreement that any facts that I need to rely on to resolve the question of law put to me could be found within the document book. Factual inferences from the document book were there for me to draw. Counsel were in total agreement with this. Still, as I stated, where the outcome of a decision is dependent on facts, this is an unsatisfactory way to put in a case.
+[2] That being the case, notwithstanding that this appeal might otherwise warrant written Reasons so as to potentially contribute to the body of law on the question before me, I regard it as limited value in terms of contributing to the jurisprudence on the question it raises. It's not of precedential value because it's an Informal Proceeding and because it has not been put to me as generally required in an adversarial proceeding. It falls short of a stated case as I have had to draw my own inferences of fact from data without the testimony of witnesses or an agreed statement of fact. Nonetheless I will proceed as requested by counsel. As stated, I will give my Reasons orally.
+[3] This appeal concerns reassessments of the Appellant's 1995, 1996, 1997 and 1998 taxation years. Certain maintenance payments made by the Appellant to his former spouse in each of these years were disallowed as deductions. The issue, by agreement of legal counsel for the Appellant and the Respondent, has been narrowed to the deductibility of certain of these payments under paragraph 60(c) in respect of payments before 1997 and paragraph 60(b) for payments in the 1997 and 1998 years (both such provisions being referred to in these Reasons as the section 60 deduction provision) or subsection 60.1(2). The payments in question are third party maintenance payments made after an Order of the Court of Queen's Bench in November of 1996, which I will refer to as the "Subject Order".
+[4] In so narrowing the issue, the Respondent and Appellant, through their legal counsel, have agreed on the record that the Appellant will be allowed his appeal in 1995 so as to permit in that year maintenance deductions of $6,893.23. Further, the Appellant will similarly be allowed his appeal in 1996 so as to permit in that year a maintenance deduction of $6,323.25, plus the December 1996 third party payment of $545.00, the latter additional amount to be allowed only if it is found that the Subject Order does not alter the application of section 60 or subsection 60.1(2).
+[5] The reassessments of the 1997 and 1998 years will stand subject to the further allowance, by agreement of counsel on the record, of $614.00 in 1997 and, in both 1997 and 1998, the third party payment of $545.00 per month, the latter additional amount to be allowed only if it is found that the Subject Order does not alter the application of section 60 or subsection 60.1(2).
+[6] Lastly, since the Subject Order and any other relevant agreement or order were in place before 1997, it was acknowledged by counsel for the Appellant and Respondent that there was no commencement day regarding post April 1997 payments to the effect that such payments were treated the same under section 60 as payments prior to May 1997.
+[7] These various acknowledgements between counsel have narrowed the issue before me to the $545.00 monthly third party payments made after the November 1996 Subject Order. However, as I said at the outset, they have agreed also not to call any witnesses, but rather to present me with an agreed upon exhibit, namely a Book of Documents, and I was invited to consider each document in resolving the legal question put to me, namely whether the Subject Order adversely affected the deductibility of the third party payments in question. As I said, I think the parties failed to understand that the impact of the Subject Order depended on findings of fact better served by direct testimony. Nonetheless, as I stated, I will proceed. The choice of dismissing the appeal for failure to bring appropriate evidence seems harsh given the Respondent's position.
+[8] Respondent's counsel's position is that the Subject Order by its existence and wording alone dictate a finding that the third party payments were not deductible given the Federal Court Decision in Armstrong v. Canada, [1996] F.C.J. No. 599. Evidencing his resolve on this point was his agreement with counsel for the Appellant that the third party payments before December 1996, that is before the Subject Order, were deductible. That is, it was agreed that a prior agreement respecting these payments met the deduction criteria of the Act. It was the intervening Order that failed to meet that criteria and the payments in question made after November 1996 were made pursuant to that intervening Order.
+[9] Respondent's counsel emphasized that I was bound by the Federal Court of Appeal decision in Armstrong on this question respecting third party payments under the intervening Order. He put that proposition to me in spite of clear authority from this Court that on certain facts, the Armstrong decision would not apply. Counsel for the Respondent was aware of these cases, indeed he included a number of them in his Book of Authorities, but he suggested that since they were all Informal Proceedings they carried no precedential weight and I that I was bound by the Federal Court of Appeal decision in Armstrong.
+[10] I am of the view, however, that these cases subsequent to Armstrong do not offend that decision. They simply stand for the principle that in a factual situation different from that present in Armstrong, subsection 60.1(2) is not exhaustive of statutory authority permitting the deduction of third party maintenance payments.
+[11] Subsection 60.1(2) is, however, an absolute safe harbour if expressly referred to in an order or agreement. But absent that safe harbour, absent an express reference in an agreement or order to subsections 60.1(2) and 56.1(2), there should be no mandatory negative inference as to the possibility that section 60 could permit third party payment deductions in certain situations that are clearly outside of the factual scope of Armstrong.
+[12] I will refer to the documents in the document book that I think have been helpful to me in determining the limited question before me. Referring first to Tab 2 of the document book, we have Minutes of Settlement and Matrimonial Property Agreement tendered in proceedings in the Court of Queen's Bench of Alberta and signed by the Appellant and his former spouse on March the 7th, 1995. Paragraph 2.1 of the Settlement Agreement reads as follows:
+The husband covenants and agrees to pay to the wife for the better maintenance and support of the said infant children of the marriage the sum or two hundred and fifty dollars ($250.00) per month per child, for a total of seven hundred and fifty dollars ($750.00) per month commencing on ...
+Paragraph 2.2 goes on to say,
+The parties agree that the maintenance to be paid by the husband hereunder shall be deductible by the husband and taxable in the hands of the wife, and the parties agree that at the time of filing their respective income tax returns they shall make whatever elections are required to give effect to this clause.
+[13] I refer now to Tabs 10 and 11 which are affidavits of the Appellant and his former spouse respectively forming part of the proceedings that resulted in the Subject Order in November of 1996. These affidavits were executed in September of 1996 and in October of 1996 respectively.
+[14] Looking at the Appellant's affidavit, paragraph 3 in Tab 10, referring to the Minutes of Settlement and what happened, paragraph 3 reads as follows:
+That the Petitioner and I further agreed that until the Petitioner sold the property that was transferred to her pursuant to the Minutes of Settlement, I would pay the first mortgage on her property to the Alberta Treasury Branch in partial payment of child support. The mortgage payment was $545.00 [and some cents] per month and we agreed that I would pay her the difference of $205.00 per month ...
+[15] Paragraph 5 under Tab 11 of the affidavit of the Appellant's former spouse reads as follows:
+"Normally when Evangelos ...
+that's the Appellant,
+... makes a monthly mortgage payment for me, it is credited against his child support obligations. However, this has not been the case over the course of the summer of 1996, because of the rental agreement referred to above.
+[16] Let me make two points on these two excerpts by way of explanation. Firstly, it is clear that the property in respect of which the mortgage payments were made was the sole property of the Appellant's former spouse and that she had the sole obligation to meet the mortgage payments.
+[17] Secondly, it is clear that the Appellant's former spouse was normally treating the mortgage payments being made by the Appellant directly to the mortgagee, as payments that she was permitting, at her discretion, as crediting child support payment obligations. This seems to me to be clear enough by virtue of paragraph 5 of her affidavit at Tab 11. What then happened was that the Appellant's former wife, owning lands that the Appellant wanted to use, in a handwritten agreement also contained at Tab 5, agreed to rent these lands to the Appellant. But the rent was to be paid by the Appellant paying the mortgage on the spouse's lands. That's two payment requirements in respect of the same mortgage. One payment requirement is under their arrangement, where maintenance will be credited $545.00 per month by payment of that amount to the mortgagee, and now a second payment requirement under a rental agreement. What the wife asserted is that the rent, which totalled $3,000.00 paid to the mortgagee, could not be credited against maintenance because it was qua rent, not support. To sort out the difficulty, in terms of what were the credits and what were the arrears in support payments, the November '96 order was petitioned; petitioned and received by consent of the parties. The consent was not to alter the impact of any arrangement in my view, but was to clarify what credits ought to be given in respect of the mortgage payments against the maintenance obligations.
+[18] On this point I would refer also to Tab 8, at which is a record of the Office of the Director of Maintenance Enforcement, and this record demonstrates that in November of 1996, there were arrears shown in maintenance payments that exceeded the arrears asserted by the Appellant to be payable. The consent order clarified amounts in arrears and in doing so was not meant to alter the ongoing arrangement but confirm it.
+[19] I refer to Tab 15, at which are Revenue Canada statements of the Appellant's former spouse's income and deductions. They have been accepted by counsel for the Respondent as documents from which I can draw factual inferences. In those statements, statements are shown for the 1995, 1996 and 1997 years, there is no correlation between the amounts that Revenue Canada has permitted as maintenance deductions to the Appellant in the subject years and the amounts that his former spouse included. Indeed, the former spouse has included considerably more. For example, in 1997, $1,440.00 was the amount of the deduction allowed by the Respondent according to the reassessment for 1997, but the amount of income included by his spouse in respect of the maintenance was $6,100.00. There's no corresponding income and deduction amount. I have no way to reconcile the numbers. Again, I have no testimony. I have no idea as to the rationalization of the inclusions versus the deductions. But an anomaly is presented, from which I believe I, in the circumstances, again without the benefit of testimony, can draw an inference. The Appellant's former spouse has treated the subject third party payments as income.
+[20] Lastly, consider Tab 5, which is the Subject Order. As I stated, it is a consent order. It's an order that the parties, I believe, petitioned to straighten away the arrears situation and clarify which mortgage payments had been made on account of rent and which mortgage payments had been paid on account of maintenance. Paragraph 1 of that Subject Order reads:
+That the child support arrears owing by the Respondent are hereby confirmed in the total amount of $3,000.00.
+That underlines to me that there is consent in this order that the mortgage payments as to $3,000.00 were rent payments. The spouse of the Appellant was exercising her discretion, at least until that point in time, to say how she wanted to receive these amounts. Under paragraph 2 of the Subject Order she agreed to stay the execution of enforcement of arrears payments until certain lands were sold. Everything about the Subject Order underlines its focus: dealing with arrears.
+[21] Paragraph 3 of the Subject Order is the paragraph on which counsel for the Respondent relies. It reads:
+That commencing December, 1996, in lieu of child support, the Respondent shall pay directly to the Alberta Treasury Branches the monthly mortgage of the Petitioner for the lands legally described ... in addition the Respondent shall pay to the Petitioner $205.00 commencing January, 1997 and continuing ...
+[22] It's the Respondent's position that this paragraph no longer constitutes the mortgage payments as deductible maintenance and relies, as I said, on Armstrong to give effect to that position.
+[23] As I said, the purpose of the order is clear, in my view. It was only to sort out the question of arrears. It seems to me that it specifically addresses the Appellant's former spouse's concern at paragraph 5 of the affidavit at Tab 11, namely that the $3,000.00 paid against her mortgage was rent and could not be credited as child support. It also corrected the amount of arrears that had been recorded as arrears in the records of the Office of the Director of Maintenance Enforcement and allowed time for payment of arrears. It should, in my view, not be given a higher purpose by reason of being set out in a consent order. The importance of it as a consent order will be addressed momentarily.
+[24] That takes me to my analysis of the sections of the Act. I do not believe it is necessary to recite the sections of the Income Tax Act that pertain to this case. They are cumbersome, and their drafting style has drawn criticism on several occasions from this Court. To sort matters out, simply consider that the two deduction provisions in the context of this case are subsections 60.1(2) and section 60. I will deal with subsection 60.1(2) first. Under this provision if a maintenance order or agreement expressly refers to subsections 56.1(2) and 60.1(2), then on the deduction side, 60.1(2) says that such express reference will satisfy all deduction requirements in respect of third parties as to who the recipient is, as to whether it's periodic, as to whether it's an allowance, as to whether or not the recipient had discretion. All issues are resolved if you have express reference to subsections 60.1(2) and 56.1(2).
+[25] I agree, that reliance on that absolute safe harbour requires express reference in the agreement or order to 56.1(2) and 60.1(2). Further, I believe that that is what the Armstrong case in its ratio decides, and I take no issue with that ratio. Accordingly, I conclude that 60.1(2) does not help the Appellant in this case. The Subject Order does not make reference to those sections.
+[26] That takes us to section 60 and the issue as to whether or not it permits the deduction of third party maintenance payments. Under section 60 the Appellant's former spouse must be the recipient of the Appellant's maintenance payments. Further, section 60 requires that the payment be an allowance, which prior to the 1997 amendments was defined in subsection 56(12) to exclude an amount received by the former spouse unless such recipient has discretion as to the use of the amount. So there are two requirements in this situation. One is that the Appellant's former spouse be the recipient of the payment and the other is that she must have discretion over the use of the amounts.
+[27] In respect of third party payments, the problem is if such payments are made directly to a third party such as in this case to a mortgagee, how can it be said that the recipient was in this case the taxpayer's former spouse? Literally she was not the recipient, the mortgagee was. In this context subsection 60.1(1) provides the answer. It provides that regardless of who the actual recipient of the payment is, if it benefits the mother, or her children or both as the case may be, the payment is deemed to be the receipt of the mother. Such deeming constitutes the mother, in this case, a recipient for the purposes of section 60. The Respondent took no issue with this.
+[28] But as pointed out in Armstrong, that is not the end of the analysis, it must go further. In addition to establishing that in this case the spouse is the recipient of the third party payment, the requirement that it be an allowance with discretion as to use must still be met. Subsection 60.1(1) does not deem that. The Armstrong decision clearly states that subsection 60.1(2) cannot be of assistance in meeting this requirement. Since that subsection and subsection 56.1(2) are not expressly referred to in the Order. I am bound by that decision and incidentally I am in concurrence with it. But I don't think Armstrong goes further than to say that subsection 60.1(2) is of no assistance to the Appellant in this case.
+[29] That still leaves the remaining issue as to the application of section 60 to third party payments. That is, did the recipient of the payment, deemed to be the Appellant's former spouse in this case by subsection 60.1(1), have discretion as to the use of the amounts that were paid to the mortgagee?
+[30] The Respondent's position is that these payments were made because of paragraph 3 of the Subject Order and not because of the exercise of any discretion. That it's to the benefit of the Appellant's former spouse or the children of the marriage would not matter in the Respondent's view. But I don't agree that the analysis stops there if there is a benefit here to the Appellant's former spouse which there clearly seems to be from the documents submitted (mortgage payments on property she owns are paid by him to her benefit). In such case the analysis goes on. Indeed, as acknowledged at the outset, this Court has found that third party payments can be given deduction treatment under section 60 where the facts, distinguished from Armstrong, reflect that the parties intended a constructive recipient to be benefited by those payments. The Appellant's former spouse in this case, clearly agreed to exercise her discretion over the use of the payments by consenting to such payments being directly paid to the third party. Whether that consent is given one payment at a time or given in respect of a series of future payments does not matter in my view. That consent can be given in an agreement, inferred from circumstances or can be taken from consent to an order that directs that third party payment.
+[31] There should also, following post Armstrong decisions, be a clear intention that the consent or agreement be given with the full knowledge of the party benefiting from the payment as to the consequences of the application of that discretion in that way. That includes a clear understanding and intention as to the income tax consequences. These are evidentiary matters and there is no automatic safe harbour here in respect of third party deductions under section 60. The criteria for allowing third party payments under such provision has strong evidentiary requirements.
+[32] As I stated at the outset, I think it's regrettable in this case that I've been asked by the Appellant to apply these post Armstrong cases in a matter where I have virtually no first hand evidence. However the inferences that I can draw and have drawn from the documents are sufficiently strong to approach the question of intent and understanding. I will now consider then the ways in which the Tax Court of Canada has approached the application of 60 in these circumstances. I think they can be divided into two approaches. But the criteria I've mentioned are similar in both approaches.
+[33] In Moore v. Canada, [1998] T.C.J. No. 148, Judge Rip dealt with an order made pursuant to the consent of the parties, and he found the intent of the parties clear; that they were for the benefit of the intended recipient spouse; and further, as to the element of discretion, at paragraph 15 of that judgment, Judge Rip said as follows:
+In agreeing to the separation agreement Mrs. Moore exercised her discretion, ...
+... in how the payments to her may be paid by the payor. In this manner, she exercised her discretion as to the use of the amount. I do not believe it is necessary that she exercise her discretion at the time such payment is made. It is sufficient that her discretion was exercised in advance in an agreement entered into between her and the Appellant. Thus the Appellant may be said to have been paying Mrs. Moore alimony or an allowance within the meaning of subsections 60(b), (c) or (c.1) when he made the payments pursuant to paragraph 2(a) of the Separation Agreement.
+[34] I agree with the import of this finding. To find otherwise would mean that the discretion would have to apply to each payment separately. "I consent to your sending the January cheque directly to the mortgage company", should not produce a different result, in my view than "I consent to your paying the next six cheques directly to the mortgage company". Each is an exercise of discretion. Provided that there is evidence, as I have stated, that the beneficiary of the payment intended that by agreeing to that series that they were exercising their discretion in respect of all of the payments. And that includes an understanding of the tax consequences. These are difficult evidentiary matters, in my view.
+[35] Referring now to Chute v. Canada, [1999] T.C.J. No. 173. Judge Sarchuk, paragraph 7 of his judgment found:
+... I am also satisfied that the payments in issue in the present appeal are covered by paragraph 60(b) in that the Appellant's former spouse exercised her discretion as to how the money was to be paid by consenting to the 1994 Order. These payments to the daughter were made unquestionably with the wife's express consent and with the approval of the Court.
+[36] In Upshaw v. Canada, [2000] T.C.J. No. 468, Judge Hamlyn at paragraphs 19 and 21 found:
+As evidenced in the letter of September 7, 1993, the Appellant's former spouse consented to the Appellant making third party payments. Justice Bateman's judgment was made pursuant to this letter between the Appellant and his former spouse agreeing as to the method of third party payments, as well as the resulting tax consequences.
+He goes on in paragraph 21:
+And further I conclude the consent of the Appellant's spouse to the third party payment order, as well as the acknowledgement of the tax implications from the correspondence to the Justice of the Supreme Court of Nova Scotia indicates that the third party payments were within the discretionary use of the Appellant's spouse. The payments, therefore, are allowances under subsection 56(12) of the Act that are for the discretionary use of the Appellant's former spouse for the purpose of section 60.1
+While Judge Hamlyn refers to section 60.1, it seems it would have been sufficient to refer to section 60 since that's where the discretion requirement is unless deemed in subsection 60.1(2) to be satisfied.
+[37] As I stated the approach reflected in these post Armstrong decisions allowing third party payment deductions under section 60 raise strong evidentiary requirements as to intent and that applies not only to an intent to exercise discretion, as to one payment or a series of payments, but an intent as to the tax consequences that follow.
+[38] The next approach adopts an agency analysis. While the approach is different from a legal perspective it would apply the same criteria as stated above. The agency approach is set out by now Associate Chief Justice Bowman in the Hak v. Canada decision, [1998] T.C.J. No. 921. In that decision, at paragraph 17, Judge Bowman says,
+It appears quite obvious that Fazima Hak had a discretion with respect to the entire $1,000.00, and she exercised that discretion by constituting her husband her agent to pay on her behalf certain expenses such as utility bills and rent. What Fazima Hak is saying in effect is, "You are to pay me $1,000.00 per month. You can satisfy part of that obligation by paying some of the bills.
+[39] It's interesting to note that Judge Bowman felt he did not have to rely on section 60.1(1) in finding the spouse the recipient of a third party payment. He rather felt it was clear at law that in such cases the doctrine or law of constructive receipt would apply, and that even without 60.1(1) constructive receipt in cases like this would make the intended beneficiary the actual beneficiary for the purposes of section 60.
+[40] Accordingly, I do not find any of these cases, or for that matter either these approaches inconsistent with Armstrong. There were no consents in that case, no clear indication on the facts what the parties intended in agreeing to a series of third party payments. Nothing that would allude to the likelihood that there was an understanding of the tax consequences, and on that basis I don't believe that the Armstrong decision is at odds with the Tax Court cases that I have just referred to. While Armstrong suggests there may be a negative inference if the parties have not expressly referred to a 60.1(2), I wouldn't go so far as saying that that is a mandatory negative inference.
+[41] That concludes my analysis, and although, I repeat, I'm not comfortable that as a trier of fact that I have not heard the testimony of the parties, I am of the view that the tax clause contained in the settlement agreement in 1995 cannot be said, based on the documents I have reviewed, to have been intended to replace or overrule by the Subject Order.
+[42] I believe the Subject Order was intended primarily, if not exclusively, to deal with the situation of arrears and how to credit third party mortgage payments as between rents and maintenance. There's evidence that the former spouse has reported considerably more income than has been allowed as a deduction to the Appellant which, I take it reflects that she understood that her inclusion obligation, even after the Subject Order, was based on the agreement and commitment to include third party maintenance payments as per the original agreement entered into at her discretion. The Subject Order was a consent order. Like cases of this Court that I have cited, such orders can evidence an intention to use discretion in the direction of funds to third parties.
+[43] Accordingly I allow the appeals in part. I say "in part", because as I've already described, the appeals have largely been disposed of by consent. To summarize where we are I would state the outcome of the appeal as follows: the Appellant will be allowed his appeal in respect of 1995, so as to permit in that year a maintenance deduction of $6,893.23. Further, the Appellant will be similarly allowed his appeal in 1996, so as to permit in that year a maintenance deduction of $6,323.25, plus the December 1996 third party payment of $545.00. Further, for the 1997 and '98 years, the amount of the maintenance deduction is the amount allowed in the reassessment for those years, plus the third party payments of $545.00 per month until the mortgage was paid off in full. Lastly I reiterate that in respect of 1997, in accordance with the agreement of counsel, the Appellant be allowed an additional deduction of $614.00.
+[44] It appears then that the Appellant has been successful as to more than half of the amount of tax, and accordingly I give costs to the Appellant as per the tariff or schedule as provided in the Rules.
+Signed at Ottawa, Canada, this 20th day of May 2003.
+"J.E. Hershfield"
+J.T.C.C.
+CITATION:
+2003TCC355
+COURT FILE NO.:
+2000-1426(IT)I
+STYLE OF CAUSE:
+Evangelos Kolakis and
+Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+September 22, 2000
+REASONS FOR JUDGMENT BY:
+The Honourable Judge J.E. Hershfield
+DATE OF JUDGMENT:
+May 20, 2003
+APPEARANCES:
+Counsel for the Appellant:
+I. Thomas Colquhoun,
+Tracey Beaudoin
+Counsel for the Respondent:
+Michael Taylor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+I. Thomas Colquhoun
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

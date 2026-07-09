@@ -1,0 +1,151 @@
+Title: Moras v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/406155/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-111-406155-moras-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-05-09
+
+# Moras v. The Queen
+
+- Citation: 2019 TCC 111
+- Decision date: 2019-05-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4418, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moras v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-05-09
+Neutral citation
+2019 TCC 111
+File numbers
+2018-382(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-382(IT)I
+BETWEEN:
+FRANÇOIS MORAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on January 18, 2019, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Julien Dubé-Sénécal
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act and dated November 18, 2016, for the 2013 and 2014 taxation years is allowed, without costs. Accordingly, the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment to allow the deduction of interest expenses of $2,750 and $2,555 for the 2013 and 2014 taxation years, respectively, in accordance with the attached Reasons for Judgment.
+Signed at Québec, Canada, this 9th day of May 2019.
+“Réal Favreau”
+Favreau J.
+Citation: 2019 TCC 111
+Date: 20190509
+Docket: 2018-382(IT)I
+BETWEEN:
+FRANÇOIS MORAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant, François Moras, is appealing a reassessment made under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the “Act”), by the Minister of National Revenue (the “Minister”), dated November 18, 2016, for the 2013 and 2014 taxation years.
+[2] In filing his income tax returns for 2013 and 2014, the appellant claimed the deduction of interest expenses as business expenses amounting to $2,750 and $2,555 for 2013 and 2014, respectively.
+[3] Under the reassessment, the Minister disallowed the deduction of the interest claimed because it was not generated in respect of expenses related to the appellant’s commercial activities.
+[4] Mr. Moras testified at the hearing and explained that, in the 2002 to 2007 taxation years, he carried on a business that provided accounting services in the communities of Brossard and Trois‑Rivières. He would go to the Trois‑Rivières office at least once a week.
+[5] He ceased to carry on his business personally in 2007 when he formed a corporation to continue his commercial activities.
+[6] In the 2013 and 2014 taxation years, the appellant rendered services as an employee to the following universities:
+- Université du Québec à Trois-Rivières;
+- Université du Québec à Rimouski; and
+- Université du Québec à Montréal.
+[7] The appellant stated that the interest expenses came from the following expenses, incurred for his business in the 2002 to 2006 taxation years:
+Rent
+$36,207
+Interest
+$13,267
+Software subscriptions
+$11,589
+Telecommunications
+$4,180
+Professional dues
+$2,127
+Membership in a professional association
+$206
+GST QST remittance
+$1,256
+Insurance
+$2,653
+Supplies
+$1,080
+Travel expenses
+$20,980
+Total
+$93,545
+[8] The appellant explained that he was reimbursed for his office expenses by cheques drawn on a home equity line of credit used for this purpose only. He therefore used this home equity line of credit from March 26, 2002, to December 2, 2005, solely to pay for disbursements related to his chartered accounting firm operated as a sole proprietorship.
+[9] According to the appellant, the home equity line of credit was used from December 3, 2005, to December 31, 2014, solely to repay the interest charged by the bank. Monthly account statements for the line of credit were adduced in evidence.
+[10] The appellant explained that the line of credit was also in his spouse’s name for the simple reason that she was the co-owner of the family home.
+[11] In the reply to the notice of appeal, the respondent argues that the expenses totalling $93,545 were not incurred in relation to the appellant’s commercial activities. However, at the hearing, the respondent allowed expenses totalling $62,280, including the $36,207 for rent, the $11,589 for software subscriptions, and the $2,653 for insurance. The allowed expenses account for roughly 66.5% of the total expenses.
+[12] The disallowed expenses largely concern the travel expenses of $20,980, in respect of which the respondent cited a lack of supporting documentation.
+[13] The appellant submitted that, even though the business had ceased operating, the loan subsisted and interest continued to be paid. Documentation supporting the payment of interest were adduced in evidence.
+[14] The appellant also submitted that, under paragraph 20.1(2)(c) of the Act, the borrowed money is deemed to be used by the taxpayer for the purpose of earning income from the business, and that this paragraph therefore allows for the deduction of interest paid on borrowed money.
+[15] Subsection 20.1(2) of the Act reads as follows:
+Where at any particular time after 1993 a taxpayer ceases to carry on a business and, as a consequence, borrowed money ceases to be used by the taxpayer for the purpose of earning income from the business, the following rules apply:
+(a) where, at any time (in this paragraph referred to as the “time of disposition”) at or after the particular time, the taxpayer disposes of property that was last used by the taxpayer in the business, an amount of the borrowed money equal to the lesser of
+(i) the fair market value of the property at the time of disposition, and
+(ii) the amount of the borrowed money outstanding at the time of disposition that is not deemed by this paragraph to have been used before the time of disposition to acquire any other property
+shall be deemed to have been used by the taxpayer immediately before the time of disposition to acquire the property;
+(b) subject to paragraph 20.1(2)(a), the borrowed money shall, after the particular time, be deemed not to have been used to acquire property that was used by the taxpayer in the business;
+(c) the portion of the borrowed money outstanding at any time after the particular time that is not deemed by paragraph 20.1(2)(a) to have been used before that subsequent time to acquire property shall be deemed to be used by the taxpayer at that subsequent time for the purpose of earning income from the business; and
+(d) the business shall be deemed to have fiscal periods after the particular time that coincide with the taxation years of the taxpayer, except that the first such fiscal period shall be deemed to begin at the end of the business’s last fiscal period that began before the particular time.
+[16] Section 20.1 of the Act has been in force since January 1, 1994, and it applies when a borrower ceases to use the borrowed money for the purpose of earning income when the source of income disappears. Section 20.1 has the effect of allowing interest on borrowed money to continue being deductible in computing the taxpayer’s income. To that end, paragraph 20.1(2)(c) specifically provides that the portion of the borrowed money outstanding when the business ceases operating shall be deemed to be used by the taxpayer at any subsequent time for the purpose of earning income from the business.
+[17] By conceding that the interest expenses paid in respect of the loans taken out to finance expenses totalling $62,280 incurred in the 2002 to 2006 taxation years, the respondent recognized once again that the appellant carried on a business during that period and that the expenses totalling $62,280 had been incurred in relation to his commercial activities.
+[18] In my opinion, the appellant did not have to justify the deductibility of the expenses for tax purposes, because they were deducted in computing the appellant’s income for the 2002 to 2006 taxation years and were allowed by the Canada Revenue Agency.
+[19] The only issue was whether the appellant could deduct the interest expenses he incurred after he had ceased to carry on his business personally.
+[20] On December 2, 2005, the date of the last expense repayment, the amount borrowed on the line of credit totalled $91,614.93. Subsequently, from 2006 to 2014, only interest accrued on this line of credit.
+[21] Under the circumstances, it seems to me that the conditions for the application of subsection 20.1(2) of the Act are met; therefore, the borrowed money outstanding when the appellant’s business ceased operating shall be deemed to have been used by the appellant in the 2013 and 2014 taxation years for the purpose of earning income from the business.
+[22] For these reasons, the appeal is allowed, without costs. Accordingly, the reassessment is referred back to the Minister for reconsideration and reassessment to allow the deduction of interest expenses of $2,750 and $2,555 for the 2013 and 2014 taxation years, respectively.
+Signed at Québec, Canada, this 9th day of May 2019.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2019 TCC 111
+COURT FILE NO.:
+2018-382(IT)I
+STYLE OF CAUSE:
+FRANÇOIS MORAS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+January 18, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+May 9, 2019
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Julien Dubé-Sénécal
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

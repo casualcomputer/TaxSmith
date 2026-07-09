@@ -1,0 +1,181 @@
+---
+title: "Highway Customs Warehouse Ltd v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28884/index.do"
+last_modified: "2007-11-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 715"
+citation2: ""
+neutral_citation: "2007 TCC 715"
+decision_date: "2007-11-28"
+language: "en"
+item_id: "28884"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1327
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:30:55.928000+00:00"
+cases_cited_count: 4
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "67c1f21a342f345e494783bdd283b9921acad8a69aadf7c0fb50c5dc178070c0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Highway Customs Warehouse Ltd v. The Queen
+
+- Citation: 2007 TCC 715
+- Decision date: 2007-11-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1327, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Highway Customs Warehouse Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-28
+Neutral citation
+2007 TCC 715
+File numbers
+2004-691(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-691(IT)G
+BETWEEN:
+HIGHWAY CUSTOMS WAREHOUSE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard by teleconference,
+on September 24, 2007 at Ottawa, Ontario,
+Before: The Honourable Justice E.A. Bowie
+Participants:
+Counsel for the Appellant:
+Barbara Shields
+Counsel for the Respondent:
+Bonnie Moon
+____________________________________________________________________
+ORDER
+Upon motion by the Appellant for an Order amending the Judgment of the Court dated February 3, 2006;
+And upon hearing counsel for the parties, and reading the material filed;
+It is ordered that the motion is dismissed and each party shall bear their own costs.
+Signed at Ottawa, Canada, this 28th day of November, 2007.
+“E.A.Bowie”
+Bowie J.
+Citation: 2007TCC715
+Date: 20071128
+Docket: 2004-691(IT)G
+BETWEEN:
+HIGHWAY CUSTOMS WAREHOUSE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowie J.
+[1] The appellant brings this motion, relying on subsection 172(1) of the Tax Court of Canada Rules (General Procedure) (the “Rules”), asking that I amend the consent Judgment that I signed in this matter on February 3, 2006. The respondent consents to the motion being granted. The operative part of the judgment reads as follows:
+The appeals from the assessments made under the Income Tax Act for the 1995, 1996 and 1997 taxation years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the terms of the Consent to Judgment.
+The operative part of the consent referred to in the judgment reads:
+1. Payments to William A. Glendenning in the amount of $15,364.00 in 1995, $11,317.00 in 1996 and $15,538.00 in 1997 be substituted for the “Payments to William A. Glendenning in the amount of $11,100.00 in each of the 1995, 1996 and 1997 taxation years”; and
+2. Payments to William l. Alvey in the amounts of $13,627.00 in 1995, $14,808.00 in 1996 and $16,329.00 in 1997 be substituted for the “Payments to William L. Alvey in the amounts of $9,831.00 in 1995, $10,736.00 in 1996 and $11,550.00 in 1997 are deductible”.
+The consent was signed by counsel for each party, each of them being authorized to do so.
+[2] Almost a year later, in January 2007, this motion was brought, supported by an affidavit made by counsel for the appellant (not counsel on this motion). The grounds for the motion are expressed this way in the Notice of Motion:
+… the amounts set forth in the Consent to Judgment, January 19, 2006, were incorrectly expressed in Canadian funds rather than in American funds. Accordingly, this application is made pursuant to rule 172(1) of the Tax Court of Canada rules.
+The affidavit in support of the motion explains the reasons for it, and the basis of the computation of the amounts that the parties now say should be substituted for those in the original consent, in paragraphs 3 and 4:
+3. With respect to the pension payments paid to Andrew Haak and W. Gordon Glendenning, the Consent To Judgment expressed the amounts to be allowed in U.S. funds rather than Canadian funds with the result that the amounts to be allowed to the Appellant are understated due to the failure to convert the amounts from U.S. dollars to Canadian dollars. As a result of the error in the Consent To Judgment filed with the Court, the resulting Order and Judgment of the Court also understated the amounts of pension payments to be permitted as deductions to the Appellant. …
+4. Subsequent to the filing of the Consent To Judgment and the issuing of the Order, the parties became aware that the error in calculation had occurred. ...
+Attached to that affidavit is the consent of counsel for the respondent to the amendment. Both parties urged me to issue an amended judgment incorporating the revised amounts that they now say are the correct amounts that the appellant is entitled to deduct in computing its income for each of the three years in question. I expressed some doubt about my jurisdiction to do so, it seeming to me that the Court is now functus officio in respect of these three appeals. I requested that the parties file written submissions addressing the issue, and they have now done that.
+[3] Finality in litigation, and certainty as to the result, are not just desirable: they are essential to the integrity of and the public’s confidence in the judicial system. It is axiomatic that once a court has pronounced its formal judgment, the parties and the public must be assured that the court will not later substitute a different judgment for the one first pronounced. That said, it is equally obvious that certain limited exceptions to this important rule must be permitted. Judgments obtained by fraud are an obvious example. Within very closely defined limits, another exception is made where new and different evidence becomes available for the first time after the judgment has been entered. The exception with which I am concerned here is the slip rule. It is found in the Rules of this Court in two places – section 168 and section 172 – in somewhat different form.
+168 Where the Court has pronounced a judgment disposing of an appeal any party may within ten days after that party has knowledge of the judgment, move the Court to reconsider the terms of the judgment on the grounds only,
+(a) that the judgment does not accord with the reasons for judgment, if any, or
+(b) that some matter that should have been dealt with in the judgment has been overlooked or accidentally omitted.
+…
+172(1) A judgment that,
+(a) contains an error arising from an accidental slip or omission, or
+(b) requires amendment in any matter on which the Court did not adjudicate,
+may be amended by the Court on application or of its own motion.
+172(2) A party who seeks to,
+(a) have a judgment set aside or varied on the ground of fraud or of facts arising or discovered after it was made,
+(b) suspend the operation of a judgment, or
+(c) obtain other relief than that originally directed,
+may make a motion for the relief claimed.
+The appellant in the present case relies on paragraph 172(1)(a), and argues that the judgment signed in February 2006, adopting by reference as it did the consent signed by the parties, contained “… an error arising from an accidental slip…”. The position of both counsel, as I understand it from their written submissions, is that an error of counsel, when it is acted upon by the Court, becomes the error of the Court, and hence may be corrected by the Court under this rule.
+[4] Counsel for the Appellant also argues that Federal Courts Rule 397 is available to correct the Appellant’s mistake. It reads:
+397(1) Within 10 days after the making of an order, or within such other time as the Court may allow, a party may serve and file a notice of motion to request that the Court, as constituted at the time the order was made, reconsider its terms on the ground that
+(a) the order does not accord with any reasons given for it; or
+(b) a matter that should have been dealt with has been overlooked or accidentally omitted.
+397(2) Clerical mistakes, errors or omissions in an order may at any time be corrected by the Court.
+This Rule, by section 1, is made to apply to the Federal Court and the Federal Court of Appeal, and the word Court therein, by section 2, is defined to mean only those two Courts. In any event section 397, if it did somehow apply to this Court, would add nothing to what can be found in this Court’s own Rules.
+[5] Counsel have referred me to a number of authorities that are said to support this application, but I have found none among them that support the proposition that the slip rule may be invoked to correct a judgment that is said to be wrong as the result of an error of counsel, with the possible exception of Yost v. Administrator under Anti-Inflation Act.[1]
+[6] Bujnowski v. Canada[2] is cited by the Appellant to support the motion, on the basis that the trial Judge had amended his judgment to correct an error arising out of an incorrect concession regarding the amount of a refund that had been received by the appellant in that case. However, an examination of the reasons[3] of the trial judge makes it clear that the slip that was corrected in that case was not that of counsel, but of the judge alone. Counsel had made a concession at trial in respect of $12,426.79, the net amount of the appellant’s foreign tax paid, after taking a refund into account. The judge erroneously stated in his judgment that the appellant was entitled to a foreign tax credit of $14,787.28 which was the gross foreign tax before the refund was taken into account. The amending judgment was issued to take the refunded amount into account. It is precisely this type of error for which the slip rule was created.
+[7] In C.I.T. Financial Ltd. v. Canada,[4] Bowman A.C.J., as he then was, dismissed a motion brought under Rule 172 to reconsider his earlier judgment in the case. In doing so, he said at paragraph 4:
+I do not think that the correction that counsel for the appellant asks that I make to my reasons falls within either section 168 or subsection 172(1) of the Rules. The judgment accords with the reasons and I have not overlooked or accidentally omitted something that should have been dealt with. There is no error or accidental slip or omission within the meaning of section 171 of the Rules. I rendered the judgment that I intended to. I am, in my view, functus officio.
+[8] The same conclusion was reached by President Jackett of the Exchequer Court in an appeal from the Tax Appeal Board in M.N.R. v. Gunnar Mining Ltd.[5] In that case a member of the Board heard an appeal involving a claim that two separate amounts of income were exempt from tax. Counsel had previously agreed, and informed the Board member, that if the appeal failed on those grounds then it should nevertheless be allowed in order to permit the appellant greater deductions for capital cost allowance and deferred exploration expenses. The presiding member heard the appeal, dismissed it on the merits, and entered judgment to that effect, having overlooked the prior agreement of the parties. After an appeal from that judgment had failed, the taxpayer applied by motion to the member of the Board to amend his judgment to permit the additional CCA and deferred exploration expenses. That motion was allowed, and the judgment amended. The Minister’s appeal from the amended judgment was allowed by Jackett, P., who gave detailed reasons considering the origins and the permissible scope of the slip rule, and concluded that it did not permit a court to change its decision after it had been rendered, subject only to two exceptions: where there has been a slip in drawing up the judgment, and where the judgment does not properly express the manifest intention of the court.
+[9] Counsel for the respondent brought the Yost[6] case to my attention. In that case, the Federal Court of Appeal heard an application for judicial review of a decision made by the Administrator under the Anti-Inflation Act. In its original decision[7] the Court upheld the Administrator’s decision in part, but set aside the monetary part of his Order on the basis that he had no jurisdiction to make it. The Court reached that conclusion based upon a text of the Act furnished to it by counsel that pre-dated an amendment that gave the Administrator the jurisdiction to make the monetary part of his Order. Upon a motion brought under paragraph 337(5)(b) the Court was made aware of the revised text of the Act for the first time, and it issued amended reasons by which it ordered about half of its earlier reasons “stricken out”,[8] and a new version dismissing the judicial review application in its entirety substituted for that which had been struck out. This is precisely what Jackett, P., on the basis of the English common law authorities and the Paper Machinery [9] case, had held in Gunnar Mining that a court had no power to do. Considering that the Court in Yost offered no rationale for its decision to amend the earlier judgment, and made no mention of Gunnar Mining, Paper Machinery or any of the English authorities cited in those cases, and considering, too, that it is not referred to in the more recent decisions of the Federal Court of Appeal, I conclude that Yost should be considered to have been decided per incuriam.
+[10] The same issue came before the Federal Court of Appeal again in Boateng v. Minister of Employment and Immigration.[10] Boateng moved under subsection 337(5) of the Federal Court Rules[11] to have the Court reconsider its earlier judgment dismissing his judicial review application on the grounds that material had been omitted from his earlier application that should have been included in it. Mahoney, J., sitting alone, dismissed the application, saying:[12]
+In my opinion, the failure of a party to include available material does not give rise to jurisdiction to reconsider a decision finally disposing of a matter. That rule contemplates oversight on the part of the court, not a party …
+These rules have their origins in the Paper Machinery case and in the English jurisprudence, much of which was referred to by Jackett, P. in Gunnar Mining. In Dupont Canada Inc. v. Canada,[13] the Federal Court of Appeal said of subsection 397(1) that it
+… permits the correction of certain mistakes made by the Court but is not intended to relieve against a mistake by counsel in failing to bring a matter to the Court’s attention.[14]
+[11] Of the other cases referred to by the appellant in its memorandum, Tigney Technology Inc. v. Canada[15] is the only one in which this Court applied the slip rule to amend a judgment. While it is not entirely clear from the reasons, it appears that in that case the mistake corrected was that of the judge and not counsel. In Malowitz v. Canada, Brulé J. set aside a judgment that had been issued ex parte. Counsel for the appellant, due to an error that took place in his office, had failed to appear when the case was called. Brulé J. was careful to state, however, that he was not applying the slip rule as “[t]here was no slip in this case”.
+[12] In summary, then, the jurisprudence in this Court, in the Exchequer Court, in the Federal Court, and in the Federal Court of Appeal, as well as in England, establishes that the availability of the slip rule is limited to those cases in which the Court, not one or both of the parties, has made an accidental mistake or omission, or has given a judgment that manifestly does not accord with the reasons given. This is not such a case. The Court is functus officio in respect of these appeals. The respondent has consented to the amendment sought, and filed a brief in support of the motion. It is trite, however, that consent cannot confer jurisdiction: see Canadian Pacific Railway Company v. Fleming.[16]
+[13] While the result in this case does not depend on it, the affidavit in support of the motion before me is illustrative of why the Court ought not to amend its judgment in a case of this sort. The error giving rise to the motion was the failure of counsel to express the deductions from income, which were paid in U.S. currency, in Canadian currency in the consent to judgment. Exhibit “C” to the affidavit in support of this motion is a table showing the conversion of the amounts that counsel now wishes to substitute. It is obvious from a review of that table that two rates have been used to make the calculations for the two amounts paid in 1996. These are 1.00 USD = 1.37926 CAD and 1.00 USD = 1.01955 CAD. The second of these is obviously not correct. I can only assume that if I were to amend the judgment in the terms requested by this motion there would be yet another motion to amend when this error came to the attention of counsel.
+[14] For all the foregoing reasons, the motion is dismissed. The parties will each bear their own costs of the motion.
+Signed at Ottawa, Canada, this 28th day of November, 2007.
+“E.A.Bowie”
+Bowie J.
+CITATION: 2007TCC715
+COURT FILE NO.: 2004-691(IT)G
+STYLE OF CAUSE: HIGHWAY CUSTOMS WAREHOUSE LTD. and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: September 24, 2007
+REASONS FOR ORDER BY: The Honourable Justice E.A. Bowie
+DATE OF ORDER: November 28, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Barbara Shields
+Counsel for the Respondent:
+Bonnie Moon
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Barbara Shields
+Firm: Aikins, MacAulay & Thorvaldson LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1980] 2 F.C. 720.
+[2] [2006] 2 C.T.C. 237; 2006 FCA 32.
+[3] [2005] 1 C.T.C. 2831; 2005 TCC 90.
+[4] [2003] DTC 1545; 2003 TCC 544.
+[5] 70 DTC 6135.
+[6] Supra, note 1.
+[7] [1980] 1 F.C. 735.
+[8] Ibid @ page 739.
+[9] Paper Machinery Ltd. v. J.O. Ross Engineering Corporation, [1934] S.C.R. 186.
+[10] (1990) 112 N.R. 318.
+[11] Subsection 337(5) has since been reenacted as subsection 397(1) of the Federal Courts Rules and is identical in substance to section 168 of the Rules of this Court.
+[12] Ibid @ page 319.
+[13] [2002] 4 C.T.C. 59; 202 FCA 307.
+[14] Ibid @ para. 10.
+[15] 97 DTC 414; 1997 TCJ 1402.
+[16] (1893) 22 S.C.R. 33.

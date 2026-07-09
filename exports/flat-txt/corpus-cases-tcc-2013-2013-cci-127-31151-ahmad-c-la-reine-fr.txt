@@ -1,0 +1,148 @@
+Title: Ahmad c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31151/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-127-31151-ahmad-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-04-26
+
+# Ahmad c. La Reine
+
+- Citation: 2013 CCI 127
+- Decision date: 2013-04-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4740, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ahmad c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-26
+Référence neutre
+2013 CCI 127
+Numéro de dossier
+2012-1687(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1687(IT)I
+ENTRE :
+JUSTIN AHMAD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 22 janvier 2013, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Représentant de l’appelant :
+M. Ijaz Ahmad
+Avocate de l’intimée :
+Me Lindsay Beelen
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté.
+Signé à Ottawa, Canada, ce 26e jour d’avril 2013.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 6e jour de juin 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2013 CCI 127
+Date : 20130426
+Dossier : 2012-1687(IT)I
+ENTRE :
+JUSTIN AHMAD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] La question à trancher dans le présent appel (procédure informelle), soit le sixième appel découlant de la même opération[1], est de savoir si, par suite d’une réorganisation de Tyco International Ltd. (« Tyco »), une société résidente des Bermudes, Justin Ahmad, l’appelant, a reçu un dividende en 2007. M. Ahmad soutient qu’il n’en a pas reçu. Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation relativement à la déclaration de revenus de l’appelant pour 2007 en application du paragraphe 52(2) de la Loi de l’impôt sur le revenu (la « Loi »), compte tenu du fait que M. Ahmad avait reçu un dividende en nature, plus précisément, des actions de deux autres sociétés résidentes des Bermudes qui, immédiatement avant la réorganisation, étaient des filiales en propriété exclusive de Tyco.
+[2] En 2006, Tyco, une société faisant appel public à l’épargne, avait manifesté son intention de scinder son entreprise en trois sociétés ouvertes distinctes. Les activités de Tyco comprenaient ce qui suit :
+a) la fourniture de services et de produits concernant la sécurité électronique, la sécurité‑incendie et la sécurité en général et la fourniture de valves et de mécanismes de contrôle et d’autres produits industriels, sous le nom de Tyco International (« International »);
+b) la fourniture de composants électroniques, de solutions en matière de réseau et de systèmes sans fil, sous le nom de Tyco Electronics (« Electronics »);
+c) la conception, la fabrication et la distribution de dispositifs médicaux et de fournitures médicales, d’agents d’imagerie diagnostique et de produits pharmaceutiques, sous le nom de Tyco Healthcare (« Healthcare »).
+[3] Selon le formulaire 10-K de la Securities and Exchange Commission des É.‑U., produit par Covidien Ltd. (« Covidien ») le 13 décembre 2007 et par Tyco Electronics Ltd. (« Tycoelect ») le 18 décembre 2007, Tyco a transféré, le 29 juin 2007, Healthcare à Covidien et Electronics à Tycoelect, deux sociétés résidentes des Bermudes. Covidien et Tycolect avaient toutes les deux été des filiales en propriété exclusive de Tyco depuis l’exercice 2000 de Tyco jusqu’au 29 juin 2007. Au cours de cette période, ni la société Covidien ni la société Tycoelect n’avaient participé à quelque activité commerciale importante que ce soit, et les deux sociétés n’avaient détenu que des actifs minimes.
+[4] La société Tyco a transféré Healthcare et Electronics à Covidien et à Tycoelect, respectivement, le 29 juin 2007, au moyen d’une distribution d’actions de ces sociétés à ses actionnaires. Les actionnaires de Tyco ont reçu une action ordinaire de Covidien et une action ordinaire de Tycoelect pour chaque bloc de quatre actions ordinaires qu’ils détenaient dans Tyco à la fermeture des bureaux le 18 juin 2007. Après le transfert des actions de « distribution », chaque bloc de quatre actions ordinaires de Tyco a été converti en une action ordinaire au moyen d’un regroupement d’actions. Tyco a conservé le volet international de ses activités. Les actions des trois sociétés ont commencé à être négociées sur le marché le 29 juin 2007.
+[5] L’appelant a été touché par la réorganisation en ce sens qu’avant le 29 juin 2007, il possédait 1000 actions de Tyco. Par suite de la distribution d’actions, il a reçu 250 actions de Covidien et 250 actions de Tycoelect; les 1000 actions qu’il détenait dans Tyco ont été regroupées en 250 actions de Tyco.
+[6] M. Ahmad a fait l’objet d’une nouvelle cotisation compte tenu du fait que les actions de Covidien et de Tycoelect qu’il avait reçues relativement à la réorganisation avaient une valeur de 22 058 $CAN et que ces actions étaient des dividendes en nature.
+[7] L’appelant soutient qu’il n’a reçu aucun avantage économique au moyen de dividendes ou autrement par suite de la réorganisation de Tyco et de la réception d’actions de Covidien et de Tycoelect. En outre, c’est par erreur que la TD Waterhouse, son courtier en valeurs mobilières, lui a envoyé un feuillet T5 (État des revenus de placement) pour 2007 faisant état d’un dividende découlant de la réorganisation de Tyco. M. Ahmad soutient qu’il est imposé sur un montant qui ne constitue pas un revenu pour lui, [traduction] « mais simplement ce que je possédais déjà, sous une autre forme ». Les actions qu’il détenait dans chacune des trois sociétés en date du 29 juin [traduction] « représentaient exactement la même participation dans les mêmes entreprises que les 1000 actions que je détenais au départ dans Tyco le 28 juin 2007 ». Il a insisté pour dire qu’il n’a reçu aucun avantage économique et qu’il ne devrait pas être imposé. En fait, le cours de clôture des actions de Tyco le 29 juin 2007 était de 33,79 $US ou de 33 790 $US pour 1000 actions et le cours de clôture pour le premier jour de bourse pour Covidien, Tycoelect et Tyco, le 2 juillet 2007, totalisait 34 185 $US pour les actions de M. Ahmad[2].
+[8] En bref, M. Ahmad soutient qu’avant la réorganisation de Tyco, [traduction] « mes actifs de 20 538 $US (les anciennes actions de Tyco) liés Healthcare et à Electronics étaient détenus sous le nom de “Tyco” et, après la réorganisation, les mêmes actifs ont été transférés à Covidien et à Tycoelect. Il s’agit essentiellement de prendre mon actif, d’en changer le nom et de me le redonner à titre de dividende ».
+[9] L’appelant affirme que ce qu’il a reçu n’était pas un dividende. Il renvoie aux définitions du terme « dividende » que donnent les dictionnaires[3] ainsi que le bulletin d’interprétation IT‑ 67R3 de l’ARC, selon lesquels un dividende correspond à la part des bénéfices qui est distribuée aux actionnaires. Selon l’appelante, les actions de Covidien et de Tycoelect ne provenaient pas de bénéfices ou de gains en capital.
+[10] Dans la décision Special Risk Holdings Inc. v. R.[4], la Cour fédérale, division de première instance, a admis qu’un « dividende » était [traduction] « toute répartition que fait une corporation de son revenu ou de ses gains en capital, au pro rata, entre ses actionnaires » et que les dividendes en nature sont expressément prévus par le paragraphe 52(2) de la Loi. Je suis d’accord avec le juge Hershfield sur le fait que [traduction] « Lorsque l’origine de la chose reçue, c’est‑à‑dire de toute chose ayant une valeur, est une personne morale, et que le paiement concernant la chose reçue est effectué relativement à un droit de participation rattaché à des actions détenues auprès de cette personne morale par le bénéficiaire, la chose reçue est, par sa nature, un dividende[5] ».
+[11] L’appelante a également mentionné la demande présentée par Tyco à la Commission des valeurs mobilières de l’Ontario (« CVMO ») en vue d’obtenir une exonération fiscale conformément au Régime d’examen concerté (« REC »). Selon la décision rendue relativement au REC, les actionnaires canadiens de Tyco, qui recevaient des actions de Covidien et de Tycoelect à titre de dividende auraient les mêmes droits que les actionnaires de Tyco résidents des États-Unis qui recevaient ces actions, ce qui, selon M. Ahmad, signifiait que le dividende ne serait pas imposable.
+[12] L’exonération accordée par la CVMO ne consistait pas dans le fait que le transfert des actions de distribution serait exonéré. Comme l’a fait observer ma collègue la juge V. Miller dans la décision Marshall[6], la CVMO n’a pas compétence pour prendre une décision de cette nature. La décision du REC précisait plutôt que la CVMO et les autres organismes de réglementation provinciaux avaient accepté que Tyco fût dispensée des exigences d’établissement de prospectus et d’inscription prévues par leur législation relativement au transfert des actions de distribution proposé. Je tiens également à faire observer que, tout comme l’a fait la juge Miller, dans sa demande présentée aux organismes de réglementation provinciaux, Tyco a déclaré que le transfert des actions de distribution [traduction] « aux actionnaires de Tyco résidant au Canada » serait effectué [traduction] « au moyen d’un dividende en nature établi en proportion des actions détenues ».
+[13] Je suis d’accord avec M. Ahmad et son représentant sur le fait que M. Ahmad n’a reçu aucun avantage économique par suite de la réorganisation de Tyco. Toutefois, selon la Loi, il a reçu de Tyco des dividendes en nature, et ces dividendes avaient une valeur. Voici la teneur des observations du juge Hershfield dans la décision Hamley[7], aux paragraphes 8 et 16 :
+[traduction]
+8. L’appelante a soutenu qu’elle n’avait pas reçu de somme d’argent, en tant que telle, et que, par conséquent, elle n’avait pas reçu de revenu ni de dividende, à tout le moins selon ce qu’elle comprenait de la notion de revenu ou de dividende. Bien qu’elle ne soit pas une personne inexpérimentée, l’appelante s’est fondée sur une conception erronée de la définition du terme revenu que donne la Loi de l’impôt sur le revenu. Le revenu n’est pas nécessairement de l’argent; c’est la réception de toute chose qui provient de certaines sources et qui a de la valeur, et la somme correspondant à la chose reçue est la valeur de la chose reçue.
+[…]
+16. […] La Loi ne se fonde pas, au départ, sur le principe selon lequel un simple changement de forme d’une participation ne constitue pas une opération imposable. En réalité, elle se fonde sur le principe voulant que chaque changement apporté à une participation qui se traduit, pour le détenteur, en une chose différente de ce qu’il avait auparavant constitue une opération imposable, même si sa situation financière nette n’en est pas modifiée et si aucune somme qui aurait pu donner à penser que quelque chose de valeur a été reçu n’est réellement versée.
+[14] Le représentant de M. Ahmad s’est fondé sur les motifs du jugement rendus dans la décision Capancini c. La Reine[8], dans laquelle, à l’égard de faits semblables, le juge a accueilli l’appel. Dans la décision Capancini, le juge s’est fondé sur les motifs du jugement rendus dans la décision Morasse c. La Reine[9].
+[15] Dans l’affaire Morasse, le ministre avait établi une cotisation pour tenir compte d’un revenu de placement en fonction de la valeur d’une distribution d’actions. Mme Morasse possédait des actions de Telmex, qui étaient négociées à la bourse de New York (« NYSE »), et dont les actions sous‑jacentes étaient négociées à la bourse mexicaine. Lors de l’opération de réorganisation avec dérivation, chaque détenteur d’actions de Telmex a reçu un nombre égal d’actions de la catégorie correspondante de Movil. Le feuillet T5, État des revenus de placement, établi à l’égard de Morasse faisait état d’un revenu de placements étrangers reçu, qui représentait la valeur des actions de Movil. La contribuable a notamment soutenu que les actions de Movil reçues ne constituent pas un dividende en actions imputable au revenu accumulé, mais une somme reçue au titre d’un capital non imposable.
+[16] Le juge a souscrit au point de vue susmentionné, et a reconnu que les actions de Movil n’auraient pas été émises, n’eût été la décision de Telmex de procéder à la réorganisation avec dérivation. Le juge a conclu que les actions de Movil n’ont pas été reçues à titre de dividendes ni en paiement des dividendes afférents aux actions de Telmex. Les capitaux propres des deux sociétés sont demeurés les mêmes; il n’y a pas eu de distribution de bénéfices; on a reconnu qu’il y avait eu une transmission du capital de Telmex à Movil. Il y a eu une distribution du capital-actions, mais cette distribution résultait d’une restructuration générale de Telmex, restructuration dans laquelle les actions de Movil n’ont jamais appartenu à Telmex. On a fait passer la valeur des actions de Telmex aux actions de Movil; il n’y a pas eu de disposition susceptible de donner lieu à un gain en capital.
+[17] Les motifs du jugement rendus dans la décision Morasse, au paragraphe 3, comprennent une description de la « réorganisation par dérivation » de Telmex selon une procédure particulière du Mexique appelée « escisión » (scission), dont voici en partie la description :
+[...] une société existante est divisée, et l’on crée une nouvelle société à laquelle des actifs et passifs précis sont attribués. Cette procédure diffère de la procédure par laquelle une réorganisation avec dérivation est habituellement effectuée aux États‑Unis, où une société mère distribue à ses actionnaires les actions d’une filiale. […]
+La « réorganisation » des actions de Tyco est une « réorganisation par scission » du type que l’on effectue traditionnellement aux États-Unis.
+[18] En l’espèce, Tyco a distribué des actions de ses deux filiales à ses actionnaires. Malheureusement, dans la décision Capancini, il est possible qu’aucune preuve n’ait été présentée au juge quant au fait que Covidien et Tycoelect avaient été des filiales de Tyco. Le juge n’était probablement pas saisi des formulaires 10-K de la Securities and Exchange Commission concernant Covidien et Tycoelect. Comme je l’ai déjà mentionné, Tyco avait détenu les actions de Covidien et de Tycoelect à compter de son exercice 2000. Le fait que Covidien et Tycoelect soient devenues des sociétés ouvertes le 29 juin 2007 ne signifie pas qu’elles n’ont pas existé autrement que comme sociétés ouvertes avant ce moment‑là, ainsi que semble le soutenir avec insistance le représentant de M. Ahmad. Ces sociétés existaient bel et bien avant 2007.
+[19] La société Tyco possédait des biens, à savoir des actions dans Covidien et Tycoelect, et elle a distribué ces biens à titre de dividendes à ses actionnaires au pro rata de leurs intérêts, de la même manière que si elle avait distribué des gadgets à ses actionnaires. Dans les deux cas, Tyco, au lieu de distribuer un dividende en argent, a distribué un dividende en nature, c’est‑à‑dire un bien qu’elle avait acquis au moyen de bénéfices qu’elle avait réalisés, et la distribution des actions était une distribution provenant des bénéfices.
+[20] Il n’y a aucune preuve que la TD Waterhouse a mal calculé le montant des dividendes en nature reçus par M. Ahmad, comme celui‑ci le laisse entendre.
+[21] Malheureusement, Tyco ne s’est pas prévalue de l’article 86.1 de la Loi pour que la distribution des actions de Covidien et de Tycoelect soit qualifiée de « distribution admissible », ce qui aurait donné lieu à l’exclusion des montants des dividendes dans le calcul du revenu de l’appelant.
+[22] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 26e jour d’avril 2013.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 6e jour de juin 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2013 CCI 127
+No DU DOSSIER DE LA COUR : 2012-1687(IT)I
+INTITULÉ : JUSTIN AHMAD c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 22 janvier 2013
+MOTIFS DU JUGEMENT : L’honorable juge en chef Rip
+DATE DU JUGEMENT : Le 26 avril 2013
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Ijaz Ahmad
+Avocate de l’intimée :
+Me Lindsay Beelen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Marshall c. La Reine, 2011 CCI 497, 2011 D.T.C. 1353; Rezayat c. La Reine, 2011 CCI 286, 2011 D.T.C. 1211; Yang c. La Reine, 2011 CCI 187, 2011 D.T.C. 1156; Capancini c. La Reine, 2010 CCI 581, 2010 D.T.C. 1394; Hamley v. Canada, 2010 CCI 459, [2010] A.C.I. no 372 (QL).
+[2]
+250 actions de Covidien
+=
+10 352,50 $US
+(43,71 $ x 250)
+250 actions de Tycoelect
+=
+9 992,50 $US
+(39,77 $ x 250)
+250 actions de Tyco
+=
+13 340,00 $US
+(53,36 $ x 250)
+Les données ci‑dessus ont été présentées dans la preuve documentaire de M. Ahmad.
+[3] Black’s Law Dictionary, Oxford Dictionary of Law.
+[4] [1994] 1 C.T.C. 274 (C.F. 1re inst.), au paragraphe 10
+[5] Hamley, précitée, au paragraphe 9.
+[6] Précitée, au paragraphe 13.
+[7] Hamley, précitée.
+[8] 2010 CCI 581, [2010] A.C.I. no 581 (QL), 2010 D.T.C. 1394.
+[9] 2004 CCI 239, [2004] A.C.I. no 147 (QL), 2004 D.T.C. 2435.

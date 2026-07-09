@@ -1,0 +1,205 @@
+Title: Brouillette c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25205/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-203-25205-brouillette-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-03-23
+
+# Brouillette c. La Reine
+
+- Citation: 2005 CCI 203
+- Decision date: 2005-03-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2565, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brouillette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-23
+Référence neutre
+2005 CCI 203
+Numéro de dossier
+2002-1228(IT)G
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-1228(IT)G
+ENTRE :
+ALAIN BROUILLETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 16 et 17 novembre 2004 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelant :
+Me Jacques Matte
+Avocats de l'intimée :
+Me Pierre Cossette
+Me Anick Provencher
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1995 est admis, avec frais, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour de mars, 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2005CCI203
+Date : 20050323
+Dossier : 2002-1228(IT)G
+ENTRE :
+ALAIN BROUILLETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Cet appel concerne l'année d'imposition 1995.
+[2] Il s'agit de savoir si l'appelant avait un lien de dépendance avec la société qui a acquis les actions qu'il détenait dans une autre société. S'il y avait un tel lien de dépendance, il y aurait application de l'article 84.1 de la Loi de l'impôt sur le revenu (la « Loi » ) et le prix de disposition des actions serait un dividende présumé, reçu par l'appelant, plutôt qu'un paiement en capital.
+[3] Si je trouve qu'il n'y avait pas de lien de dépendance et par conséquent pas d'application de l'article 84.1 de la Loi, le ministre du Revenu national (le « Ministre » ) propose comme moyen alternatif que la disposition générale sur l'évitement, prévue à l'article 245 de la Loi, s'applique.
+[4] L'appelant a relaté que lui et monsieur Rolland Ferland étaient actionnaires chacun à 50 p. 100 de la société Brouillette Automobiles Inc. Vers la fin de l'année 1994, monsieur Ferland a souhaité se retirer de l'entreprise et se départir de ses actions au prix de 500 000 $. Monsieur Brouillette a tenté d'obtenir du financement pour faire l'acquisition de ces actions. La banque aurait refusé d'accorder un emprunt à Brouillette Automobiles Inc. Le comptable de l'appelant lui a alors conseillé de s'adjoindre un partenaire. Ce comptable lui présente un monsieur Richard Chagnon, qui est également un client de ce comptable.
+[5] Monsieur Chagnon et monsieur Pierre Brunet sont partenaires dans l'exploitation d'une concession Mazda à Drummondville. Ils utilisent les services de la même firme de comptables que celle de l'entreprise de l'appelant, soit Samson Bélair.
+[6] Lors de son témoignage, monsieur Chagnon a clairement indiqué que ce que lui et son associé désiraient était d'acquérir Brouillette Automobiles Inc. Ils savaient que monsieur Ferland désirait partir immédiatement et que possiblement, monsieur Brouillette voulait rester encore quelque peu. Toutefois son départ éventuel dans cinq ans et la possibilité de mettre fin à la relation avant terme avaient été prévus au moment de l'acquisition des actions.
+[7] Il a expliqué que le fait que monsieur Brouillette veuille rester encore quelque peu ne le dérangeait pas, car, comme il s'agissait d'une concession Chrysler et que la leur était une concession Mazda, les services de monsieur Brouillette étaient utiles pour la conservation de la concession Chrysler. Il a, par ailleurs, relaté que par la suite leur relation d'affaires a été en dents de scie. Ils ne partageaient pas la même culture de travail. Donc, messieurs Chagnon et Brunet ont utilisé la clause qui leur permettait de mettre un terme anticipé à la relation d'affaires entre eux et monsieur Brouillette.
+[8] L'appelant a relaté qu'aucun de ses enfants n'était intéressé à continuer l'entreprise familiale. Il a donc souhaité obtenir le plus pour ses actions tout en continuant à oeuvrer quelque temps dans l'entreprise.
+[9] C'est monsieur Jean Martineau, fiscaliste chez Samson Bélair, qui a préparé les différentes étapes de la vente en litige.
+[10] Le 21 février 1995, il y a la constitution de 9016-4476 Québec Inc. ( « 9016 » ). En date du 21 avril 1995, monsieur Brouillette est détenteur de 500 actions de catégorie « A » et de 20 actions de catégorie « C » de cette société. La société 9017-4481 Québec Inc. ( « 9017 » ), dont messieurs Chagnon et Brunet, sont les deux actionnaires, à part égale, est détentrice de 500 actions de catégorie « A » . Elle a également souscrit les 100 000 actions de catégorie « G » pour 100 000 $. Monsieur Brouillette est président et monsieur Richard Chagnon, secrétaire.
+[11] Il est admis par les parties que l'appelant contrôlait 51 p. 100 des actions de 9016 donnant droit de vote.
+[12] En date du 24 avril 1995, la Banque Nationale du Canada met à la disposition de Brouillette Automobiles Inc. un financement à terme au montant de 490 000 $ dont le déboursement complet doit être effectué avant le 30 juin 1995. Cette offre est adressée à l'appelant et à monsieur Richard Chagnon. La clause de garanties pour le crédit se lit ainsi :
+Garanties pour le crédit
+• Le cautionnement conjoint et solidaire de Monsieur Alain Brouillette, Monsieur Richard Chagnon et Monsieur Pierre Brunet pour un montant de 300 000 $.
+• Une garantie immobilière de 1er rang pour un montant de 490 000 $ et affectant les immeubles de l'Emprunteur situés à Saint-Hyacinthe au 2750 rue Lafontaine, selon les formules en usage à la Banque, comportant les clauses usuelles de protection en faveur du prêteur.
+[13] L'offre est acceptée. La somme empruntée sert à prêter 400 000 $ à 9016 et à verser une allocation de retraite à monsieur Rolland Ferland au montant de 75 000 $. La société 9016 a signé un billet en faveur de Brouillette Automobiles Inc.
+[14] Le 13 juin 1995, 9016 achète les actions détenues par monsieur Rolland Ferland au prix de 500 000 $ (onglet 20 de la pièce I-1).
+[15] À la même date, l'appelant convertit les actions qu'il détenait dans Brouillette Automobiles Inc., sous forme de roulement, en 500 000 actions de catégorie « E » de 9016, non participantes et non votantes et avec un capital versé de 7 500 $. Ce qui a comme résultat, que 9016 est devenue l'unique actionnaire de Brouillette Automobiles Inc.
+[16] Le 30 septembre 1995, Brouillette Automobiles Inc. déclare un dividende de 400 000 $ payable à 9016.
+[17] Le 6 octobre 1995, une nouvelle entente intervient entre les parties. Un document de deux pages que l'on trouve à l'onglet 18 de la pièce I-1 explique de façon succincte, les ententes subséquentes qui ont eu lieu. Je cite le paragraphe intitulé « Vente d'actions privilégiées » et la première partie de celui intitulée « Convention entre actionnaires » :
+Ventes d'actions privilégiées
+Vente en octobre 1995 par Alain Brouillette des 500 000 actions privilégiées catégorie E détenues dans la compagnie 9016-4476 Québec inc. à la compagnie 9017-0481 Québec inc. Le prix de vente est de 500 000 $ et est payable par l'émission d'un billet à demande sans intérêt. 9017-0481 Québec inc. s'engage à payer ce billet de la façon suivante : un minimum de 50 000 $ par an dans la mesure où le cash flow de Brouillette Automobile inc. le permet. Le solde sera payable entièrement le premier octobre 2000.
+[...]
+Convention entre actionnaires
+0 Les parties signeront une convention entre actionnaires qui, outre les clauses normales, contiendra les clauses suivantes :
+0 Restriction de pouvoirs pour l'actionnaire détenant 51% des votes.
+0 ...
+[18] Le 17 novembre 1995, il y a vente par l'appelant de 500 000 actions privilégiées, détenues dans 9016, à 9017 au prix de 500 000 $. Le prix de vente est à recevoir au moyen d'un billet payable à demande sans intérêt (onglet 24).
+[19] En date du 17 novembre 1995, il y a une entente entre l'appelant et la société 9017 qui prévoit que le débiteur reconnaît devoir au créancier la somme de 500 000 $ et s'oblige à la payer par des versements annuels d'au moins 50 000 $. Le solde du billet doit être payé entièrement le 1er octobre 2000 (onglet 27).
+[20] Le 17 novembre 1995, les actionnaires de 9016, soit l'appelant et 9017, ont signé une convention unanime d'actionnaires (onglet 25, pages 22 et 23) stipulant notamment que 9017 s'engage à ne recevoir aucun montant sous forme de dividende en provenance de 9016 en autant que le billet au montant de 500 000 $ n'aura pas été acquitté en totalité et tout montant reçu par 9017 et provenant de la corporation 9016 devra servir au paiement dudit billet.
+[21] Cette clause a été lue à la demande de l'avocat de l'intimée. Autrement, cette convention des actionnaires de la société 9016, société qui détient les actions de Brouillette Automobiles Inc., a vraiment pour but de restreindre les pouvoirs décisionnels de l'actionnaire détenant 51 p. 100 des votes, soit monsieur Brouillette.
+[22] Le 30 juin 1997, la société 9017 utilisant le pouvoir de mettre un terme anticipé à la relation d'actionnaires paie 300 000 $ à l'appelant en paiement final du billet de 500 000 $ (onglet 31).
+[23] Monsieur Jacques Jubainville, comptable agréé, un associé de la firme de comptables Samson Bélair de Ste-Hyacinthe, a témoigné. Il a expliqué que c'était leur firme qui faisait la vérification de la société Brouillette Automobiles Inc. C'est quand un de ses associés a quitté que lui a commencé à agir auprès de l'appelante. C'était à l'époque où monsieur Ferland avait commencé les négociations de vente de ses actions. Le montant de 500 000 $ a été déterminé en fonction de la valeur au livre.
+[24] Le témoin a relaté que monsieur Brouillette a d'abord tenté d'acheter lui-même les actions de monsieur Ferland. La valeur au livre de l'entreprise était environ de 900 000 $ à un million de dollars à l'époque, mais la rentabilité de l'entreprise n'était pas très forte. Les profits étaient d'environ 40 000 $ par année. La banque était hésitante. Elle aurait suggéré de trouver un partenaire qui investirait de l'argent dans l'entreprise. Comme monsieur Brouillette ne savait trop quoi faire, monsieur Jubainville lui a suggéré le nom de monsieur Richard Chagnon qui était aussi un de ses clients. Il fait état que messieurs Chagnon et Brunet avaient repris une entreprise de vente de voitures au bord de la faillite et l'avaient remonté en deux ans en faisant beaucoup de profit.
+[25] Le témoin relate qu'à partir de 1995, date de son implication dans Brouillette Automobiles Inc, monsieur Chagnon a fait une autre réussite de cette entreprise. En deux ans, il a doublé le chiffre d'affaires de 11 millions de dollars à 24 millions de dollars.
+[26] Monsieur Jean Martineau, fiscaliste pour la même firme de comptables, relate qu'il a suggéré à monsieur Brouillette d'acheter monsieur Ferland par l'intermédiaire d'une société et d'adopter une technique appelée en anglais « Leveraged Buyout » . C'est une technique qui, selon le témoin, ne désavantage pas le vendeur et est moins coûteuse pour l'acheteur. Pour payer le vendeur, on peut déclarer des dividendes intercorporatifs provenant de la compagnie opérante, parce que c'est souvent la compagnie opérante qui finance une partie de l'achat. Ces dividendes corporatifs permettent de payer le vendeur. Si monsieur Brouillette avait acheté les actions personnellement, il aurait fallu qu'il obtienne de sa corporation un dividende de 700 000 $, après que celle-ci eut fait son emprunt de 500 000 $, alors que si c'est une société, par le jeu de dividendes intercorporatifs où il n'y a pas d'impôt à payer, il n'a qu'à fournir à la société acheteuse un dividende de 500 000 $.
+[27] Il a expliqué que son plan tenait compte des intérêts distincts des parties qu'il devait protéger. Cela explique pourquoi monsieur Brouillette au départ avait 51 p. 100 des actions dans la société 9016 et pourquoi quand il y a eu vente de ses actions, la convention d'actionnaires a prévu une restriction à son pouvoir décisionnel en ce sens que toutes les décisions devaient se prendre à l'unanimité mais que par ailleurs la même convention prévoyait la priorité au paiement des actions de monsieur Brouillette.
+Plaidoiries
+[28] L'avocat de l'appelant se réfère à l'alinéa 251(1)c) de la Loi qui se lit comme suit :
+251(1) Lien de dépendance - Pour l'application de la présente loi :
+...
+c) en cas d'inapplication de l'alinéa b), la question de savoir si des personnes non liées entre elles n'ont aucun lien de dépendance à un moment donné est une question de fait.
+[29] Il fait valoir qu'il ressort de l'ensemble de la preuve, que l'appelant et messieurs Chagnon et Brunet avaient des intérêts économiques différents et ont agi pour en arriver à la conclusion de l'entente en cause selon ces intérêts économiques différents.
+[30] Selon l'avocat, il s'agit essentiellement d'une transaction de vente et d'achat d'actions entre des parties aux intérêts économiques distincts. Il est certain que les parties ont négocié puisqu'elles sont arrivées à un terrain d'entente. Chacune des parties n'avait pas une compréhension intime de la façon dont la transaction a été structurée. Toutefois, les parties comprenaient très bien la finalité ou le résultat souhaité : la vente des actions par une partie et l'achat de ces actions par une autre. Les parties se sont fiées à des professionnels pour que ces transactions se fassent dans la légalité tout en payant le moins d'impôt possible.
+[31] Monsieur Brouillette n'était pas actionnaire de la société qui a acquis ses actions et il ne la contrôlait ni en droit ni en fait. La convention d'actionnaires était dans le cadre de la société 9016 qui détenait 100 p. 100 des actions de Brouillette Automobiles Inc. Pour démontrer le lien de dépendance, il faudrait prétendre que monsieur Brouillette contrôlait 9017. En fait, c'était l'opposé. La société 9017 contrôlait plutôt 9016 par la possibilité d'exercer l'option.
+[32] Le fait que la transaction ait été négociée pour minimiser l'impact fiscal entre les parties ne peut pas signifier l'agir de concert.
+[33] En ce qui concerne l'application possible de l'article 245, il se réfère au paragraphe 245(3) de la Loi :
+245(3) Opération d'évitement - L'opération d'évitement s'entend :
+a) soit de l'opération dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s'il est raisonnable de considérer que l'opération est principalement effectuée pour des objets véritables - l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable;
+b) soit de l'opération qui fait partie d'une série d'opérations dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s'il est raisonnable de considérer que l'opération est principalement effectuée pour des objets véritables - l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable.
+[34] L'avocat soutient que l'opération commerciale a été faite principalement pour des objectifs véritables, c'est-à-dire la vente et l'acquisition d'une entreprise et l'aspect fiscal a été accessoire, même s'il a été partie intégrante de la transaction.
+[35] Selon le Ministre, l'appelant et 9017 agissaient de concert dans leur transaction pour les raisons décrites à la Réponse à l'avis d'appel :
+aa. en 1995, et également au cours de la période mentionnée à l'alinéa précédent, l'appelant et « 9017 » agissaient de concert dans leurs transactions compte tenu, entre autres, des éléments suivants :
+§ une seule et même entité était responsable de négocier les transactions impliquant l'appelant, Brouillette Automobile, « 9016 » , « 9017 » , Richard Chagnon et/ou Pierre Brunet,
+§ les parties étaient dépendantes économiquement l'une de l'autre et agissaient sans intérêt distinct,
+§ suite à la transaction du 17 novembre 1995, l'appelant avait le plein contrôle sur les revenus de « 9017 » en provenance de « 9016 » et indirectement sur l'utilisation des surplus d'opération générés par Brouillette Automobile,
+§ la transaction du 17 novembre 1995, soit la vente et l'acquisition de 500 000 actions sans droit de vote, n'avait aucune légitimité commerciale, autre que le transfert de 500 000 $ des surplus de Brouillette Automobile à l'appelant sans aucune conséquence fiscale,
+§ la présentation d'un billet comme ne portant pas intérêt avait pour objet de créer une situation d'artificialité,
+§ l'appelant a exercé un contrôle de fait sur l'ensemble des transactions.
+[36] L'avocat de l'intimée explique que le point important de cette affaire est de savoir si l'appelant et la société 9017 traitaient à distance.
+[37] L'avocat de l'intimée s'est référé à la décision de la Cour de l'Échiquier dans M.R.N. v. Estate of Thomas Rodman Merritt, 69 DTC 5159, et plus particulièrement au passage paraissant aux pages 5165 et 5166 :
+In my view, the basic Premise on which this analysis is based is that, where the "mind" by which the bargaining is directed on behalf of one party to a contract is the same 'mind' that directs the bargaining on behalf of the other party, it cannot be said that the parties are dealing at arm's length. In other words where the evidence reveals that the same person was "dictating" the "terms of the bargain" on behalf of both parties, it cannot be said that the parties were dealing at arm's length.
+[38] Il se réfère également à la décision de la Cour suprême du Canada dans Société de banque Suisse c. Canada (ministre du Revenu national - M.R.N.), [1974] S.C.R. 1144, et plus particulièrement aux propos du juge Laskin à la page 1152 :
+... Une bonne raison pour cela, suggérée par le texte législatif lui-même, c'est l'assurance que le taux d'intérêt sera le reflet d'opérations commerciales ordinaires entre des parties agissant dans le sens de leurs intérêts distincts. Il faut conclure que des rapports de prêteur à emprunteur qui n'offrent pas cette assurance parce que, effectivement, les intérêts ne sont pas distincts, ne s'insèrent pas dans l'exception qui exempte tout non-résident de l'impôt sur des paiements d'intérêt canadiens. ...
+[39] Selon l'avocat, l'appelant a dicté les termes de l'entente à l'autre partie ou encore les deux parties ont agi de concert en acceptant les termes proposés par des conseillers comptables agissant pour les deux parties, ou encore l'appelant contrôlait en fait la société 9017.
+[40] Il s'est aussi référé à la décision de la Cour d'appel fédérale dans Petro-Canada c. Canada, [2004] A.C.F. no. 734 (Q.L.), aux paragraphes 54, 55 et 56 :
+54 Une foule de précédents ont porté sur la question de savoir si une opération a lieu entre deux parties sans lien de dépendance. En règle générale, les tribunaux ont défini trois questions qui peuvent servir de cadre à l'analyse; voir par exemple l'arrêt Peter Cundill & Associates Ltd c. Ministre du Revenu national, [1991] 2 C.T.C. 221, 91 DTC 5543 (C.A.F.). D'abord, le même état d'esprit oriente-t-il la négociation pour les deux parties à l'opération? Deuxièmement, les parties à l'opération ont-elles agi de concert sans intérêts distincts? Troisièmement, l'une des parties à l'opération a-t-elle exercé un contrôle de fait sur l'autre?
+55 Le juge a examiné ces questions implicitement plutôt qu'expressément et il a conclu que les sociétés d'exploration en commun avaient un lien de dépendance lorsqu'elles avaient conclu l'accord visant l'achat et la vente de données sismiques. À mon avis, la preuve justifie cette conclusion. Les termes des opérations ne traduisaient pas des relations commerciales ordinaires entre fournisseurs et acheteurs agissant dans leurs propres intérêts. Les sociétés d'exploration en commun, par exemple, n'ont pas tenté de négocier une ristourne, comme cela eût été normal, selon la preuve, pour des acquisitions aussi volumineuses de données sismiques. Aucune des deux sociétés d'exploration en commun n'agissait indépendamment et dans son propre intérêt lorsqu'elle a conclu les opérations. Les modalités de l'opération étaient en fait dictées conjointement par Petro-Canada et par Phillips (dans le cas de la SEC Phillips) et conjointement par Petro-Canada et par CanEagle (dans le cas de la SEC CanEagle). Les sociétés d'exploration en commun, à toutes fins utiles, étaient indifférentes au prix d'achat des données sismiques parce que, quel qu'il fût, les actionnaires veilleraient à ce que ce prix d'achat soit financé. Tout allégement fiscal se rapportant au coût des données sismiques serait transféré à Petro-Canada au moyen d'une renonciation.
+56 À mon avis, la présente affaire ne peut être distinguée de l'arrêt Société de banque suisse c. Ministre du Revenu national, ([1974] R.C.S. 1144, [1972] C.T.C. 614, 72 D.T.C. 6470). Dans l'arrêt S.B.S., il s'agissait de savoir si les intérêts payés par une société canadienne sur des prêts consentis par des investisseurs en Suisse avaient ou non été payés sans lien de dépendance. Les investisseurs n'étaient pas liés les uns aux autres. Ils étaient intervenus dans l'opération en conséquence des activités promotionnelles de la Société de banque suisse et du Crédit suisse. Les deux banques suisses détenaient chacune 40 p. 100 des actions d'une autre société suisse, appelée S.I.P., qui agissait comme fiduciaire ou mandataire des investisseurs. S.I.P. était l'unique actionnaire de la société canadienne à laquelle étaient prêtés les fonds des investisseurs. L'emprunteur canadien était donc complètement prisonnier des intérêts communs des prêteurs, qui agissaient effectivement de concert (par l'entremise de la S.I.P) en dictant les conditions des prêts. De même, dans la présente affaire, les sociétés d'exploration en commun étaient prisonnières des intérêts communs de leurs actionnaires respectifs, qui agissaient ensemble pour dicter les conditions auxquelles les données sismiques seraient achetées. À mon avis, le juge a eu raison de conclure que les sociétés d'exploration en commun avaient un lien de dépendance avec les fournisseurs des données sismiques.
+[41] L'avocat de l'intimée soumet qu'il y a application de l'article 245 parce qu'il y a eu des opérations d'évitement qui n'avaient pas pour but un objet véritable d'affaires.
+Analyse et Conclusion
+[42] L'article 84.1 de la Loi s'applique dans le cas où il y a eu une disposition des actions d'une corporation à une autre corporation avec laquelle le vendeur a un lien de dépendance au sens de l'article 251 de la Loi, sens qui est étendu par les alinéas 84.1(2)b) et c). Ce sens étendu n'a pas été soulevé par l'intimée.
+[43] Il est intéressant de lire les articles des différents auteurs lors des Congrès 2000 et 2002 de l'Association de planification fiscale et financière sur l'article 84.1 de la Loi. Un passage qui me paraît intéressant, parce qu'à mon sens, il explique le but de l'article 84.1 de la Loi, est tiré de l'article de l'avocat Louis Tassé intitulé « L'article 84.1 et le lien de dépendance de fait » (Congrès 2000), à la page 38:36 :
+Historiquement, l'ADRC a considéré que l'article 84.1 L.I.R. n'était pas applicable lorsque le contribuable se départissait de l'ensemble de ses actions de la société visée. Cette prise de position remonte aux années 70 alors qu'un officier de l'ADRC avait affirmé dans le cadre d'un congrès :
+It was our view that the shareholder was entitled to realise his equity in the form of a tax-free gain if he parted with ownership, but that rearranging his affairs so that he did not really part with ownership but merely held indirectly what he formerly held directly resulted in an improper avoidance of tax on the distribution of retained earnings.
+[44] Je trouve également d'intérêt le passage suivant de l'article écrit par le notaire Denis Lacroix intitulé « Mise à jour sur l'article 84.1 » (Congrès 2002), commentant une décision de cette Cour dans Nadeau c. La Reine ([1999] 3 C.T.C. 2235), aux pages 31:15 et 31:16 :
+... Selon l'argument principal du fils, qui représentait sa mère devant le tribunal, la série d'opérations ne pouvait constituer un abus des dispositions de la Loi de l'impôt sur le revenu puisqu'une vente des actions à une société contrôlée par un tiers aurait été acceptable. Cet argument n'a pas été retenu par le juge. Aussi pathétique puisse-t-il paraître à certains, cet argument fait néanmoins bien ressortir le caractère tout à fait pervers de l'article 84.1 L.I.R. Dans un contexte où il a été démontré de façon incontestable que le passage des petites entreprises d'une génération à l'autre est extrêmement périlleux, il est dommage de constater que notre régime fiscal assujettit le transfert d'une entreprise à un membre de la famille à des conditions beaucoup plus onéreuses que le transfert à un étranger.
+[45] Les auteurs H. Heward Stikeman et Robert Couzin s'expriment ainsi dans l'article « Surplus Stripping » , Revue Fiscale Canadienne, (1995), Vol. 43, No 5, à la page 1853 :
+... By 1975, a continuum had been established. At one end was the "classic" strip, a sale of shares of an operating company to a new company controlled by the seller. At the other was the innocent arm's-length disposition. In between, the department turned thumbs down on cases where the economic interest in the purchasing corporation was held for the benefit of the seller or his or her family, but might accept situations where the purchasing company was owned by adult relatives who participated in the business. ...
+[46] Le législateur décrète la sanction du dividende présumé dans ce genre de transaction uniquement dans les cas de vente à une société acheteuse ayant un lien de dépendance avec le vendeur. Le législateur aurait pu prévoir que toute disposition d'actions à une société donnait lieu à un dividende présumé pour la valeur excédent le capital versé. Le législateur ne l'a pas fait. Il faut donc penser que le législateur avait en vue de sanctionner les transactions faites avec soi-même, c'est-à-dire, dans les cas où à la fin de transactions compliquées, l'actionnaire se retrouve actionnaire à l'égard substantiellement des mêmes biens. Quand la société acheteuse et le vendeur ont des intérêts économiques distincts et agissent à l'égard de la transaction en cause selon ces intérêts économiques distincts, il n'y a pas application de l'article 84.1 de la Loi.
+[47] Dans la décision McNichol c. Canada, [1997] A.C.I. no 5 (Q.L.), le juge Bonner de cette Cour fait une analyse exhaustive d'un lien de dépendance factuel dans une situation d'application du paragraphe 84(2) et de l'article 84.1 de la Loi :
+16 On utilise communément trois critères pour déterminer si les parties à une opération ont entre elles un lien de dépendance. Il s'agit des critères suivants :
+a) l'existence d'une même personne qui dirige les négociations de deux parties à une transaction
+b) les parties à une transaction agissent de concert et n'ont pas d'intérêts distincts, et
+c) le contrôle « de facto » (réel).
+Le critère relatif à l'existence d'une même personne résulte de deux jugements, notamment en premier lieu le jugement que la Cour suprême du Canada a rendu dans l'affaire M.N.R. v. Sheldon's Engineering Ltd. ([1955] C.T.C. 174, 55 DTC 1110) Aux pages 1113-1114, le juge Locke, qui parlait au nom de la Cour, a dit ceci :
+[TRADUCTION]
+Lorsqu'une même personne contrôle des compagnies directement ou indirectement, que cette personne soit un individu ou une compagnie, des compagnies contrôlées sont, aux termes de cet article, censées ne pas traiter entre elles à distance. Les dispositions de cet article mises à part, dans le cas d'une vente d'éléments d'actif dépréciables par un contribuable à une entité qu'il contrôle ou par une compagnie contrôlée par le contribuable à une autre compagnie également contrôlée par lui, le contribuable dictant à titre d'actionnaire majoritaire les conditions de la transaction, on ne peut à mon avis prétendre sérieusement que les parties traitaient entre elles à distance et que l'article 20(2) ne s'appliquait pas.
+En second lieu, la décision que le juge Cattanach a rendue dans l'affaire M.N.R. v. T R Merritt Estate ([1969] C.T.C. 207, 69 DTC 5159) est également utile. Aux pages 5165-5166, voici ce que le juge a dit :
+[TRADUCTION]
+Selon moi, le principe fondamental sur lequel se fonde la présente analyse est le suivant : lorsque les négociations menées au nom de chacune des deux parties au contrat sont en fait dirigées par le même « cerveau » , on ne peut dire que les parties traitent à distance. En d'autres termes, lorsque la preuve révèle que la même personne « dictait » les « conditions de la transaction » au nom de chacune des deux parties, on ne peut dire que les parties traitaient à distance.
+Le critère voulant que les parties agissent de concert montre jusqu'à quel point il est important que la négociation ait lieu entre des parties distinctes, qui cherchent chacune à protéger leurs propres intérêts. Ce critère est énoncé dans la décision que la Cour de l'Échiquier a rendue dans l'affaire Swiss Bank Corporation v. M.N.R. ([1971] C.T.C. 427, 71 DTC 5235; conf. [1972] C.T.C. 614, 72 DTC 6470).À la page 5241, le juge Thurlow (tel était alors son titre) a dit ceci :
+J'ajouterais que lorsque plusieurs parties, qu'elles soient des personnes physiques, des compagnies ou une combinaison des deux, agissent de concert et dans le même intérêt pour diriger ou dicter la conduite d'une autre, le « cerveau » directeur peut à mon avis être celui de l'ensemble des parties agissant de concert ou celui d'une seule d'entre elles qui remplit un rôle ou des fonctions particulières qu'il faut accomplir pour atteindre l'objectif commun. De plus, à mon sens, il n'y a lieu de faire aucune distinction à ce titre entre des personnes qui agissent à leur propre compte pour en contrôler d'autres et celles qui, quelque nombreuses qu'elles soient, se font représenter par une autre. D'autre part, si l'une des parties à une transaction agit dans un intérêt différent de celui des autres ou le représente, le fait que le but commun soit de diriger les actes d'une autre partie de façon à obtenir un résultat bien précis ne suffira pas en soi à enlever à la transaction son caractère de transaction entre personnes traitant à distance. Selon moi, l'affaire Sheldon's Engineering [précitée] en est un exemple.
+Enfin, il est à noter que l'existence d'une relation sans lien de dépendance est exclue si l'une des parties à l'opération en cause exerce un contrôle de fait sur l'autre. À cet égard, on peut mentionner la décision que la Cour d'appel fédérale a rendue dans l'affaire Robson Leather Company Ltd. v. M.N.R., 77 DTC 5106.
+[48] En ce qui concerne son analyse des intérêts distincts des vendeurs et ceux des acheteurs, il en est arrivé à la conclusion qu'un acheteur et un vendeur n'agissent pas de concert simplement parce qu'ils cherchent à conclure une entente avantageuse pour les deux parties. Je le cite :
+17 En l'espèce, la preuve montre que, lorsqu'il s'est agi de vendre les actions de Bec, la négociation a eu lieu entre des parties sans lien de dépendance. En ce qui concerne le prix d'achat, les intérêts des vendeurs et ceux de l'acheteur n'étaient pas les mêmes. Les appelants étaient clairement sensibles au prix puisqu'ils ont mis fin aux discussions qui avaient lieu au sujet de la vente des actions à un acheteur éventuel, Malcolm Dunfield, lorsqu'ils ont appris que M. Forestell paierait un prix plus élevé. Le fait que M. Forestell a consulté son propre conseiller comptable et fiscal, M. Haylock, avant de lier Beformac à l'égard de l'opération a une importance cruciale lorsqu'il s'agit d'établir que l'acheteur et les appelants n'avaient pas entre eux de lien de dépendance. À la demande de M. Forestell, M. Haylock a examiné la situation et a exprimé son opinion au sujet de l'opération du point de vue de M. Forestell. Les actions des appelants et de M. Forestell, lorsqu'ils ont négocié l'opération de vente des actions, étaient clairement régies par la façon dont chacun concevait ses propres intérêts personnels. Même si l'épargne fiscale que les appelants pouvaient réaliser par suite de la vente constituait non seulement le motif de la vente, mais aussi les limites dans lesquelles le prix de vente pouvait être négocié, cela ne veut pas pour autant dire que les appelants et M. Forestell ont agi de concert. L'acheteur et le vendeur n'agissent pas de concert simplement parce que l'entente qu'ils cherchent à conclure peut être avantageuse pour les deux parties. Par conséquent, l'article 84.1 ne s'applique pas.
+[49] Dans la présente affaire, il n'y a pas eu de preuve de bénéfices non répartis ou encore de liquidités importantes de la société. En ce qui concerne les liquidités, on peut douter de leur existence parce que quand Brouillette Automobiles Inc. a voulu emprunter, la Banque a suggéré de s'adjoindre un partenaire financier fort. Il n'y a pas eu non plus, comme dans l'affaire Petro-Canada (supra), la preuve de relations commerciales ordinaires ou normales entre vendeurs et acheteurs, différentes de celles qui ont eu lieu.
+[50] Je suis d'avis que la preuve a révélé sans aucun doute que les intérêts de messieurs Chagnon et Brunet étaient totalement distincts de ceux de monsieur Brouillette. Monsieur Brouillette a tenté de vendre au meilleur prix possible. Messieurs Chagnon et Brunet ont tenté d'acquérir au meilleur prix les actions d'une entreprise qu'ils souhaitaient acquérir et diriger.
+[51] Les conseillers financiers ne sont pas les âmes dirigeantes des sociétés qu'ils conseillent. Ils conseillent. Ils ne prennent pas les décisions. Ce n'est pas parce que des parties utilisent les mêmes conseillers financiers que l'on peut déterminer qu'ils agissent de concert. Il faut analyser les intérêts de chacune des parties à une entente pour déterminer si elles agissent de concert ou non.
+[52] Pour messieurs Chagnon et Brunet, il s'agissait de l'acquisition d'une nouvelle entreprise sans la présence des anciens actionnaires. Dès le début des négociations, c'est ce qui était entendu. Monsieur Ferland s'en allait immédiatement, l'appelant dans cinq ans. Finalement, ce fut dans deux ans.
+[53] L'appelant ne contrôlait nullement 9017 lors de la passation de l'entente et ne l'a jamais contrôlé. La société 9017 devait d'abord payer le prix de disposition des actions avant de s'avantager elle-même par dividendes sur les profits provenant de Brouillette Automobiles Inc. Il s'agit là d'une disposition visant à protéger le vendeur. Il ne s'agit pas là d'une disposition visant au contrôle de la société 9017. La société 9017 avait le droit d'exercer une option d'achat total en tout moment. En fait, elle a exercé cette option de manière anticipée en 1997. De plus, selon la convention des actionnaires de la société 9016, il ne contrôlait pas non plus cette société.
+[54] Puisque l'article 84.1 de la Loi ne s'applique que dans des situations de lien de dépendance, dans les circonstances de la présente affaire l'article 84.1 n'a pas d'application.
+[55] L'article 245 de la Loi peut-il trouver une application dans la présente affaire? La partie intimée n'a pas fait état d'assujettissement à l'impôt autre que l'article 84.1 de la Loi. À partir du moment où la preuve révèle que les parties traitaient à distance, à mon avis c'est la fin du débat judiciaire. Décider que l'article 245 de la Loi s'applique serait légiférer. La partie intimée m'a dit que la Loi voulait éviter le dépouillement des surplus corporatifs. Il aurait alors fallu m'indiquer quel article pouvait s'appliquer à part l'article 84.1 de la Loi.
+[56] Dans l'affaire McNichol (supra), il s'agissait d'une application possible du paragraphe 84(2) de la Loi et c'est à l'égard de l'application de cet article que le juge Bonner a appliqué l'article 245 de la Loi et non l'article 84.1 de la Loi qui était aussi invoqué comme motif de la cotisation.
+[57] Malgré tout, même s'il y avait application possible de l'article 245 de la Loi, je suis d'avis que le but des transactions était essentiellement d'affaires ou commercial. Ce fut le seul but véritable de cette affaire. Les conseillers financiers ont aidé les parties à faire ces transactions en attirant le moins d'impôt possible. Mais le but d'une des deux parties était d'acquérir une entreprise et de l'autre de se départir de ses actions au meilleur prix possible. Cette constatation quant au but, rend non applicable, en vertu du paragraphe 245(3) de la Loi, la disposition générale sur l'évitement.
+[58] L'appel est en conséquence accordé avec frais.
+Signé à Ottawa, Canada, ce 23e mars 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2005CCI203
+No DU DOSSIER DE LA COUR :
+2002-1228(IT)G
+INTITULÉ DE LA CAUSE :
+Alain Brouilette et La Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+les 16 et 17 novembre 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 23 mars 2005
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Jacques Matte
+Avocats de l'intimé :
+Me Pierre Cossette
+Me Anick Provencher
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Jacques Matte
+Étude :
+Matte Bouchard
+Westmount (Québec)
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

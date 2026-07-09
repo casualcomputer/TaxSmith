@@ -1,0 +1,166 @@
+Title: Papouchine c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521116/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-88-521116-papouchine-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-06-01
+
+# Papouchine c. Le Roi
+
+- Citation: 2023 CCI 88
+- Decision date: 2023-06-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5840, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Papouchine c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-06-20
+Référence neutre
+2023 CCI 88
+Numéro de dossier
+2017-3375(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3375(IT)I
+ENTRE :
+ALEXANDRE PAPOUCHINE
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 1er juin 2023, à Toronto (Ontario)
+Devant : l’honorable juge Randall S. Bocock.
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me George Lin
+JUGEMENT
+ATTENDU QUE la Cour a, en ce jour, rendu les motifs de son jugement dans le présent appel;
+PAR CONSÉQUENT, LA COUR ORDONNE le rejet, sans dépens, de l’appel visant la cotisation établie sous le régime de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009.
+Signé à Toronto (Ontario), ce 20e jour de juin 2023.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2023 CCI 88
+Date : 06202023
+Dossier : 2017-3375(IT)I
+ENTRE :
+ALEXANDRE PAPOUCHINE
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Introduction
+[1] Le 11 janvier 2016, le ministre a établi une cotisation à l’égard de l’appelant, Alexandre Papouchine (« M. Papouchine »), pour l’année d’imposition 2009 (la « cotisation »). M. Papouchine n’avait, avant cette date, pas produit sa déclaration. Conséquemment, le ministre a invoqué l’article 152(7) de la Loi de l’impôt sur le revenu (la « Loi »). Le 11 avril 2016, M. Papouchine a déposé un avis d’opposition. Le 24 mai 2017, le ministre a confirmé la cotisation.
+[2] Par la suite, le 25 avril 2017, M. Papouchine a déposé sa déclaration de revenus de 2009 (la « déclaration de revenus tardive »). L’écart entre la cotisation établie par le ministre au titre du paragraphe 152(7) et la version de la déclaration de M. Papouchine est illustré ci-dessous, à l’exception des pénalités précédemment imposées par le ministre pour production tardive :
+Année d’imposition 2009
+Élément de la déclaration
+Ministre
+(11 janv. 2016)
+M. Papouchine
+(24 avril 2017)
+Revenu
+69 600,00 $
+(Emploi)
+69 600,00 $
+(Entreprise)
+Dépenses d’entreprise
+0,00 $
+(63 803,00 $)
+Revenu : assurance-emploi
+805,00 $
+805,00 $
+Revenu d’intérêts
+436,00 $
+436,00 $
+Remboursement des prestations de programmes sociaux
+(241,00 $)
+0,00 $
+Revenu total
+70 600,00 $
+7 037,00 $
+II. Autres faits
+Questions préliminaires [3] À titre de question préliminaire, M. Papouchine a demandé un ajournement la semaine précédant l’audience et, de nouveau, au début de l’audience elle-même. Il a invoqué le fait qu’il souffrait d’un stress mental chronique.
+[4] Il a ensuite déclaré qu’aucun médecin de la Commission de la sécurité professionnelle et de l’assurance contre les accidents du travail (« CSPAAT ») ne s’occupait de lui en raison d’un retard démesuré. Son de stress chronique l’empêchait de se concentrer, de lire des documents complexes et de s’exprimer de manière organisée. Il n’a pu offrir aucun élément de preuve d’ordre médical émis par un tiers pour confirmer son état de santé. Comme lors de la semaine précédente, la Cour a rejeté la requête et a entendu l’appel. Tout au long de l’audience, quoi qu’il en ait dit, M. Papouchine a suivi les débats, témoigné avec franchise et formé sa plaidoirie finale, et ce, sans même accepter la pause proposée par la Cour. En outre, compte tenu de l’état de santé allégué de M. Papouchine et afin de s’assurer qu’il puisse examiner à son rythme les présents motifs, la Cour s’est écartée de sa coutume habituelle de prononcer ses motifs oralement lors de tels appels, et a rendu ses motifs du jugement par écrit.
+Le ministre et M. Papouchine ne s’entendent pas sur le montant des revenus et des dépenses [5] Lors du témoignage principal et du contre-interrogatoire, la cotisation et la déclaration de revenus tardive qui a suivi ont été examinées en détail.
+[6] Pour ce qui est de la cotisation établie par le ministre au titre du paragraphe 152(7), les deux feuillets T4 émis par Universal Support Systems Ltd. et Emex Systems Inc., respectivement, ont permis de déterminer la source de revenus de M. Papouchine pour 2009. Les deux feuillets T4 ont permis de calculer un revenu d’emploi final de 70 600,00 $. Comme il est indiqué, aucune déduction n’a été autorisée.
+[7] Par contre, la déclaration de revenus tardive (déposée en preuve par l’intimé au cours de son contre-interrogatoire) classait la source de revenus dans la catégorie des revenus d’entreprise et indiquait les sommes suivantes à titre de revenus et de dépenses d’entreprise :
+Revenu d’entreprise
+(AP Technologies)
+69 600,00 $
+Frais de véhicule à moteur
+(Taux d’utilisation à des fins professionnelle de 100 %)
+Carburant et huile 4 550,00 $
+Assurance 9 798,00 $
+Location 28 256,00 $
+Stationnement 2 300,00 $__
+Total : 44 904,00 $_
+(44 904,00 $)
+Sous-traitance
+(12 000,00 $)
+Intérêts
+(6 000,00 $)
+Revenu net
+5 796,00 $
+Description par M. Papouchine de son entreprise et de ses dépenses [8] M. Papouchine a affirmé que son entreprise à propriétaire unique, AP Technologies, agissait à titre d’entrepreneur indépendant fournissant des services à Universal et à Emex. Il a aussi affirmé que les placements professionnels auprès de ces deux entreprises s’étaient faits grâce à une [traduction] « agence d’emploi ».
+[9] En ce qui concerne les dépenses, M. Papouchine a admis que certaines des dépenses de véhicule à moteur, des dépenses d’assurance et des autres dépenses avaient été engagées durant des années antérieures. Il a simplement reporté ces dépenses sur une année où il avait un revenu duquel il pouvait les déduire. De plus, il a payé des sous-traitants pour lesquels il ne bénéficiait pas de déductions.
+L’absence de reçus, de registres et de documents ne constitue pas un empêchement [10] M. Papouchine n’a offert à la Cour aucun registre, dossier, reçu, accord ni autre élément de preuve documentaire. Il a fait valoir que cela ne devrait pas poser problème : les revenus d’entreprise et les déductions ont été déclarés de bonne foi, sont raisonnables et sont le reflet d’une relation d’affaires. En outre, M. Papouchine ne pouvait préparer les documents concernant sa déclaration de revenus de 2009 en raison de son problème de santé.
+[11] M. Papouchine a également affirmé que les agents du ministre à l’ARC avaient à tort rejeté sa déclaration de revenus tardive, en contravention de leur obligation légale de l’accepter comme étant exacte et fiable.
+III. Analyse et décision
+[12] D’après ces faits, la Cour tire les conclusions suivantes et rend la décision qui suit.
+[13] M. Papouchine a omis de produire sa déclaration de revenus de 2009 au moment où la loi l’y obligeait, soit à la fin d’avril 2010, conformément à l’alinéa 150(1)d) de la Loi.
+[14] Parce qu’il a omis de produire sa déclaration de revenus, le ministre était autorisé à lui imposer une pénalité pour ne pas avoir produit sa déclaration dans le délai prévu : toute personne qui ne produit pas sa déclaration de revenus « selon les modalités et dans le délai prévus » au paragraphe 150(1) est passible d’une pénalité au titre du paragraphe 162(1) de la Loi.
+[15] M. Papouchine n’ayant pas produit sa déclaration de 2009, le ministre a exercé le 11 janvier 2016 son droit d’établir une cotisation à son égard conformément au paragraphe 152(7) de la Loi. Au terme de la même disposition, le ministre n’était pas lié par la déclaration de revenus tardive qui a suivi, elle-même produite sept ans après le délai prévu dans la Loi. Même si la déclaration de revenus tardive avait été produite à temps, le ministre n’était pas lié par elle au terme de la même disposition.
+[16] M. Papouchine peut demander à notre Cour de déterminer si la cotisation d’impôt établie par le ministre au titre du paragraphe 152(7) est exacte. La conduite des agents du ministre, telle qu’elle est alléguée dans l’avis d’appel, n’a aucune incidence sur l’exactitude de la cotisation, à l’exception des erreurs incluses dans la cotisation comme telle.
+[17] La cotisation établie par le ministre reposait sur certaines présomptions contenues dans la réponse à l’avis d’appel. Deux présomptions étaient importantes pour la cotisation de 2009 : M. Papouchine était un employé d’Emex et d’Universal; il a gagné un revenu d’emploi de 169 900 $.
+[18] Ces présomptions, en droit, sont examinées par la Cour comme un fait, à moins que le contribuable présente une preuve prima facie prouvant le contraire, après quoi il incombe au ministre de présenter des faits et des éléments de preuve permettant de « réfuter » la preuve prima facie : Hickman Motors Ltd. c. Canada, [1997] 2 RCS 336. Contrairement à ce que pense M. Papouchine, il n’existe aucune présomption selon laquelle sa déclaration [traduction] « produite de bonne foi » devrait être acceptée incontestablement, sans égard à toute documentation à l’appui produite.
+[19] Les hypothèses du ministre ont été présentées à la Cour. M. Papouchine n’a présenté aucun élément de preuve à l’appui de ses déclarations en ce qui concerne sa source de revenus tirés d’une entreprise ou ses dépenses d’entreprise.
+[20] Il n’existe simplement aucun élément de preuve documentaire ou fiable permettant de contester ces hypothèses. À part le témoignage oral de M. Papouchine à propos de l’existence d’une entreprise, de sous-traitants et d’un agent intermédiaire, ainsi que de l’engagement de dépenses, il n’existe absolument aucun élément de preuve à l’appui. Il n’existe aucun contrat entre Universal ou Emex et l’agence de placement ou entre une telle agence et M. Papouchine ou AP Technologies. Faute de documents ou de témoignage de tiers, la Cour ne peut rejeter les présomptions pertinentes du ministre. De plus, les feuillets T4 sont émis directement au nom de M. Papouchine; il n’y a pas de facture à une agence ni de registre des paiements faits à M. Papouchine ou à son entreprise par quelque agence intermédiaire que ce soit.
+[21] Sur la question des dépenses, même s’il était prouvé qu’il existait une source de revenus tirés d’une entreprise, il n’y a pas de factures pour des dépenses de véhicule à moteur, des dépenses d’assurance ou du stationnement. De même, aucun élément de preuve n’a été produit concernant l’existence de sous-traitants, d’une facturation ou de paiements faits à des sous-traitants. Le paragraphe 230(1) de la Loi oblige toute personne exploitant une entreprise à conserver les registres d’entreprise pertinents. Il n’existe aucun registre de ce type.
+[22] L’absence de tels registres empêche la Cour d’envisager d’autoriser la déduction de dépenses d’emploi. En outre, M. Papouchine a explicitement résisté à la catégorisation de ses dépenses comme dépenses d’emploi. Mais une fois encore, cela importe peu puisqu’il n’existe aucun élément de preuve de telles dépenses d’emploi admissibles, qu’elles aient été raisonnables, engagées durant l’année, ou pour les besoins d’un emploi. La Cour ne dispose d’aucun de ces éléments crédibles mentionnés ci-dessus.
+[23] Pour tous ces motifs, rendus par écrit compte tenu des circonstances, l’appel est rejeté, sans dépens.
+Signé à Toronto (Ontario), ce 20e jour de juin 2023.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2023 CCI 88
+No DU DOSSIER DE LA COUR :
+2017-3375(IT)I
+INTITULÉ :
+ALEXANDRE PAPOUCHINE c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 1er juin 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 20 juin 2023
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me George Lin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

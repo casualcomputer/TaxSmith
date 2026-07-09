@@ -1,0 +1,160 @@
+---
+title: "Solanki c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29770/index.do"
+last_modified: "2010-04-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 221"
+citation2: ""
+neutral_citation: "2010 CCI 221"
+decision_date: "2010-04-23"
+language: "fr"
+item_id: "29770"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6516
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:03:36.952000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6a38fb548e6a56f825985f4f5a3f9c8fa399ccd406717e11621e14a7e3e123ea"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Solanki c. La Reine
+
+- Citation: 2010 CCI 221
+- Decision date: 2010-04-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6516, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Solanki c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-23
+Référence neutre
+2010 CCI 221
+Numéro de dossier
+2010-4(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-4(IT)I
+ENTRE :
+ATUL A. SOLANKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 21 avril 2010 à Toronto (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Khashayar Haghgouyan
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003, 2004 et 2005 sont annulés.
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006 et 2007 sont rejetés.
+Chaque partie assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 23e jour d’avril 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 16e jour de juin 2010.
+Mario Lagacé, jurilinguiste.
+Référence : 2010 CCI 221
+Date : 20100423
+Dossier : 2010-4(IT)I
+ENTRE :
+ATUL A. SOLANKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] La question en litige en l’espèce consiste à savoir si M. Atul Solanki, l’appelant, a droit à un crédit d’impôt personnel relativement aux soins fournis à ses parents âgés. Les appels portent sur les années d’imposition de 2002 à 2007 inclusivement.
+[2] L’alinéa 118(1)c.1) de la Loi de l’impôt sur le revenu (la « Loi ») est la disposition qui prévoit le crédit d’impôt personnel relatif aux soins fournis aux proches. De manière générale, un crédit d’impôt personnel est accordé en application du passage pertinent de cet alinéa relativement aux soins fournis aux parents âgés de plus de 65 ans, lorsqu’ils vivent avec le contribuable dans une résidence tenue par ce dernier.
+[3] L’alinéa 118(1)c.1) est reproduit ci‑dessous et les passages pertinents sont soulignés. Il est ainsi libellé :
+118(1) Le produit de la multiplication du total des montants visés aux alinéas a) à e) par le taux de base pour l’année est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition;
+[…]
+c.1) dans le cas où le particulier tient à un moment de l’année, seul ou avec une ou plusieurs autres personnes, un établissement domestique autonome qui est son lieu habituel de résidence et celui d’une personne qui remplit les conditions suivantes :
+(i) elle a atteint l’âge de 18 ans avant ce moment,
+(ii) elle est :
+(A) soit l’enfant ou le petit-enfant du particulier,
+(B) soit une personne résidant au Canada qui est le père, la mère, le grand‑père, la grand-mère, le frère, la sœur, l’oncle, la tante, le neveu ou la nièce du particulier ou de son époux ou conjoint de fait,
+(iii) elle est :
+(A) soit la mère, le père, la grand-mère ou le grand-père du particulier, ayant atteint l’âge de 65 ans avant ce moment,
+(B) soit à la charge du particulier en raison d’une déficience mentale ou physique,
+le montant obtenu par la formule suivante :
+15 453 $ - D.1
+où :
+D.1 représente 11 953 $ ou, s’il est plus élevé, le revenu de la personne pour
+l’année;
+[4] L’avocat de l’intimée reconnaît que les circonstances auxquelles fait face l’appelant suscitent de la compassion, mais soutient qu’il n’a pas droit au crédit parce qu’il ne résidait pas avec ses parents pendant les années en cause.
+[5] En outre, l’intimée soutient que les appels pour les années d’imposition 2002, 2003, 2004 et 2005 devraient être annulés compte tenu du fait que les avis d’opposition n’ont pas été signifiés dans les délais prévus par le paragraphe 169(1) de la Loi.
+[6] Les faits ne sont pas contestés.
+[7] Au sujet de la question de procédure, l’appelant a reconnu qu’il n’avait pas déposé dans les délais les avis d’opposition pour les années d’imposition 2002, 2003, 2004 et 2005. Selon son témoignage, il n’a appris l’existence du crédit d’impôt que récemment.
+[8] Quant aux faits relatifs au crédit même, l’appelant prend soin de ses parents âgés et infirmes dans une unité condominiale depuis 2002. Avant cette date, l’appelant vivait dans une unité condominiale et ses parents vivaient ailleurs. En 2002, l’appelant et sa famille ont emménagé dans une résidence proche et les parents de l’appelant ont commencé à habiter dans l’unité condominiale. L’appelant a toujours payé et continue de payer toutes les dépenses liées à la résidence.
+[9] La nouvelle maison de l’appelant, où il réside avec sa famille immédiate et ses parents par alliance, est une maison en rangée de deux étages et elle n’est pas appropriée pour ses parents qui ont une santé précaire.
+[10] L’appelant s’occupe de l’entretien de l’unité condominiale mais subvient aussi aux besoins quotidiens de ses parents, lesquels besoins sont très importants compte tenu de leur état de santé.
+[11] L’appelant rend aussi visite à ses parents chaque jour après le travail ou en soirée pour leur tenir compagnie et leur prodiguer des soins.
+[12] Il ressort clairement de la preuve que les parents de l’appelant ont un grand besoin d’assistance et que l’appelant a fait beaucoup de sacrifices pour leur venir en aide.
+[13] Malheureusement pour l’appelant, la loi exige que ses parents résident avec lui.
+[14] Compte tenu de l’objet de l’alinéa 118(1)c.1), il faudrait faire preuve de compassion dans l’interprétation du critère en matière de résidence. Toutefois, je ne peux pas donner une interprétation raisonnable de la disposition me permettant de conclure que l’exigence en matière de résidence a été remplie en l’espèce.
+[15] Il ressort clairement de la preuve que l’appelant et ses parents ont vécu dans des résidences distinctes même si l’appelant rendait visite quotidiennement à ses parents et passait occasionnellement la nuit chez eux lorsque cela était nécessaire.
+[16] Le législateur a prévu que le crédit soit accordé uniquement lorsque les parents résident effectivement avec le contribuable. Le principe qui sous-tend cette disposition n’est pas clair, même si le fait de simplifier la tâche de l’administration peut être un facteur.
+[17] Le fait de refuser le crédit en l’espèce entraîne un résultat fâcheux. Toutefois, le législateur a prévu une exigence en matière de résidence et cela relève incontestablement de sa prérogative.
+[18] Le rejet des appels repose sur ce fondement. Les appels pour les années d’imposition allant de 2002 à 2005 quant à eux sont annulés parce que les avis d’opposition n’ont pas été signifiés dans les délais.
+Signé à Toronto (Ontario), ce 23e jour d’avril 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 16e jour de juin 2010.
+Mario Lagacé, jurilinguiste.
+RÉFÉRENCE : 2010 CCI 221
+No DU DOSSIER DE LA COUR : 2010-4(IT)I
+INTITULÉ : ATUL A. SOLANKI
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 21 avril 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 23 avril 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Khashayar Haghgouyan
+AVOCAT INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,157 @@
+---
+title: "Alan W. Cockeram and E. Anne Cockeram Trustees of the Cockeram Family Trust v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26333/index.do"
+last_modified: "2004-05-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 307"
+citation2: ""
+neutral_citation: "2004 TCC 307"
+decision_date: "2004-05-06"
+language: "en"
+item_id: "26333"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3280
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:29:42.470000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8f3719516c785a144578a59cf4d5c0d25962bf94c5868e070fe7d154d85053fe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Alan W. Cockeram and E. Anne Cockeram Trustees of the Cockeram Family Trust v. The Queen
+
+- Citation: 2004 TCC 307
+- Decision date: 2004-05-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3280, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alan W. Cockeram and E. Anne Cockeram Trustees of the Cockeram Family Trust v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-06
+Neutral citation
+2004 TCC 307
+File numbers
+2001-3047(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-3047(IT)G
+BETWEEN:
+ALAN W. COCKERAM AND E. ANNE COCKERAM,
+TRUSTEES OF THE COCKERAM FAMILY TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 14, 2004 at Saint John, New Brunswick
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Nicole L. Gallant
+Counsel for the Respondent:
+Cecil Woon
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1996 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of May 2004.
+"Diane Campbell"
+Campbell J.
+Citation: 2004TCC307
+Date: 20040506
+Docket: 2001-3047(IT)G
+BETWEEN:
+ALAN W. COCKERAM AND E. ANNE COCKERAM,
+TRUSTEES OF THE COCKERAM FAMILY TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] The issue in this appeal is whether the Cockeram Family Trust ("the Trust") is entitled to deduct $49,200.00 in computing its income in the 1996 taxation year pursuant to subsection 104(6) of the Income Tax Act (the "Act"). Central to this issue is a determination of whether a cottage property purchased in 1995 is an asset of the Trust or a personal asset of Alan and Anne Cockeram.
+[2] Although the Notice of Appeal identified the Appellant as "Alan W. Cockeram and E. Anne Cockeram, Trustees of the Cockeram Family Trust", counsel for both the Appellant and Respondent agreed that the proper Appellant should be the Trust itself. The Notice of Appeal was amended prior to the hearing to delete the appeal in respect to the 1997 taxation year.
+The Facts:
+[3] The only witness was Dr. Alan Cockeram. He testified that the Trust was created in November 1994 with his two minor children designated as the beneficiaries of the Trust. Dr. Cockeram and his wife, Anne, were the designated trustees.
+[4] The Deed of Settlement which created the Trust in 1994 (Tab 2 of Exhibit R-1) contained a provision [paragraph 9(a)] which permitted the trustees to invest in real and personal property as an investment for the Trust. The trustees had unfettered discretion to exercise this power regardless of whether or not the property was non-income producing and whether or not the property was likely to appreciate. Dr. Cockeram stated that there was no specific intention for the Trust to own real estate when the Trust was initially created.
+[5] In the summer of 1995, Alan and Anne Cockeram purchased a cottage property located in Maine, U.S.A. Although there were funds in the Trust for this purchase, according to Dr. Cockeram, they decided it would be easier to use the U.S. funds which would be available from the sale of another property the Cockerams personally owned in Montana. When the Montana property sold the Cockerams received cash of $19,000.00 and held a mortgage for the balance. The purchase price of the Maine property was $75,000.00 U.S. payable by a deposit of $5,000.00 U.S., a closing balance of $12,367.00 U.S and a mortgage to the bank for the resulting difference. The Cockerams used the cash from the sale of the Montana property to pay the deposit and mortgaged the property for the balance of the purchase funds.
+[6] The Warranty Deed dated October 26, 1995 conveyed the Maine property to Alan and Anne Cockeram personally as joint tenants. Dr. Cockeram stated that this entire transaction was completed without involvement of legal counsel. When they decided to purchase the Maine property they spoke to the realtor and intended at that time to put the property in the name of the Trust. This U.S. realtor referred them to a mortgage broker who advised the Cockerams that in the State of Maine a trust could not legally hold a mortgage. Dr. Cockeram stated that they relied on this advice and although they had initially instructed the U.S. realtor to have the property registered in the name of the Trust, they now agreed that it would be put in their personal names and they would hold the mortgage in their own names. A mortgage in the amount of $60,000.00 U.S. was subsequently signed by Alan and Anne Cockeram. In addition the title insurance documents were taken out in the name of the Cockerams personally. All monthly mortgage payments were paid personally by the Cockerams, from their own account. When the mortgage which they held on the Montana property was paid, they used these funds to pay the bank and discharge the mortgage against the Maine property. Since the date of purchase, the Cockerams have continued to personally pay all of the expenses relating to this property including repairs, insurance, taxes and so forth. It was Dr. Cockeram's evidence that their intent when they purchased this property was that it would be an investment for the Trust but they felt it was fair and reasonable that they should pay some of the operating expenses associated with this property as they were using and enjoying the cottage along with the beneficiaries.
+[7] Dr. Cockeram's evidence was that the Trust repaid them the purchase price (i.e. $75,000.00 U.S.) but not the operating and upkeep costs or the interest they had paid on the mortgage. He testified that the purchase price at the time converted to roughly $100,000.00 Canadian and that the Trust reimbursed Anne Cockeram one-half of this amount when it issued a cheque to her on February 7, 1996 for $49,200.00. This same amount was deposited on February 2, 1996 to the Trust's account (Tab 1 of Exhibit R-1) from the Dr. Alan Cockeram Professional Corporation ("the Corporation").
+[8] At all relevant times, the Trust held common shares in this Corporation. The Corporation is the medical practice of Dr. Alan Cockeram. Dr. Cockeram explained that the Corporation, on the advice of accountants, paid dividends from time to time to the Trust. The Trust investments were held primarily for the education of the beneficiaries and Dr. Cockeram testified that very little of the investments was used, except for the purchase of the cottage and for a ski-box for the roof of their vehicle. On February 2, 1996 the Corporation paid dividends to the Trust in the amount of $49,200.00. This was the same amount that the Trust paid to Anne Cockeram a few days later on February 7, 1996. The Trust allocated this amount to the beneficiaries in its 1996 tax return and sought a deduction in the same amount. The Minister of the National Revenue (the "Minister") disallowed this deduction as there was no evidence that $49,200.00 was paid to the beneficiaries in 1996. Instead, the Respondent argued that the exact amount of the dividend was paid to one of the trustees to reimburse her for monies personally expended in respect to the Maine property.
+Position of the Appellant:
+[9] The Appellant argues that the cottage property is an asset of the Trust even though the Trust has never held legal title to it. The Cockerams hold title to the property personally but do so as trustees. Expenses such as repairs, insurance, mortgage payments and taxes were paid personally but the intent was always that this property was being purchased on behalf of the Trust. Because the Trust could not hold a mortgage, they held the property personally so they could provide a mortgage to their lending institution. They felt there was no alternative but to complete the purchase in this manner but did not appreciate the problems that it could create. Since they were also using the cottage in the summer, the Cockerams felt they were assisting the Trust when they did not request repayment of the interest they paid on the mortgage or reimbursement for the expenses they paid. The Cockerams believe their actions throughout have been fair and reasonable.
+Position of the Respondent:
+[10] The Trust is not entitled to deduct the $49,200.00 because the property was owned personally by the Cockerams. All documentation supports the Respondent's position. The oral testimony alone of Dr. Cockeram of intent is insufficient to alter the nature of this transaction for tax purposes. Since the $49,200.00 was paid in relation to an asset that was not owned by the Trust, the amount was therefore not paid to the beneficiaries of the Trust, either directly or indirectly. Respondent counsel also argued that this amount could not be deducted by the Trust because the Trust did not pay this amount to the beneficiaries in 1996 as required by subsections 104(6) and 104(24) of the Act. It was paid to Anne Cockeram to reimburse her for a portion of the purchase price which she paid for the property. Regardless of whether the Trust owned the property or whether the amount actually benefited the beneficiaries, the requirement of subsection 104(24) is not met because the $49,200.00 was not paid to the beneficiaries in 1996.
+Analysis:
+[11] The Appellant seeks to benefit from the deduction available to trusts pursuant to paragraph 104(6)(b) of the Act, which states that a trust may deduct in computing its income any amounts payable by it in the year to a beneficiary. To obtain the deduction, an amount must be payable to a beneficiary in the year or the beneficiary must be entitled to enforce payment of the amount pursuant to subsection 104(24). The beneficiaries here were clearly not legally entitled to enforce payment and therefore this is inapplicable.
+[12] The relevant portion of paragraph 104(6)(b) states:
+104(6) For the purposes of this Part, there may be deducted in computing the income of a trust for a taxation year ...
+(b) in any other case, such amount as the trust claims not exceeding the amount, if any, by which
+(i) such part of the amount that, but for ... would be its income for the year as became payable in the year to a beneficiary ...
+[13] Subsection 104(24) states:
+104. (24) For the purposes of ... subsections (6) ..., an amount shall be deemed not to have become payable to a beneficiary in a taxation year unless it was paid in the year to the beneficiary or the beneficiary was entitled in the year to enforce payment of the amount.
+[14] The Appellant has the burden of establishing that the property is an asset of the Trust and that the Trust is entitled to deduct the payment of $49,200.00 in 1996 from its income pursuant to the relevant sections. It is clear from the Deed of Settlement, establishing the Trust, that the trustees would have the power and the discretion to purchase this cottage property as an investment of the Trust. The evidence of Dr. Cockeram is that it was the intention of the trustees to purchase the property as an investment of the Trust but legal title to the property was taken in the personal names of the Cockerams because the Trust could not hold a mortgage in the State of Maine. Other than the oral testimony of Dr. Cockeram, there was no other evidence produced to support his statements of intent. Although the Agreement of Purchase and Sale was not produced, both parties agreed that it was executed by the trustees in their personal capacity with no reference to the Trust. None of the subsequent documentation, including the mortgage application forms, the Warranty Deed, the mortgage, the title insurance policy, the annual mortgage account statements or the discharge of mortgage form, made any reference to the Trust, the trustees or the beneficiaries. All of the documentary evidence is contradictory to Dr. Cockeram's claimed intention.
+[15] Respondent counsel referred me to statements contained in the case of Friedberg v. The Queen, 92 DTC 6031, where the Court held that mere subjective intention is not by itself sufficient to alter the characterization of a transaction for tax purposes. Where transactions have tax consequences, form does matter. Certainly evidence of intent may be considered to assist in determining the true nature of a transaction. However evidence of intent alone will rarely be determinative. I have no reason not to believe Dr. Cockeram's evidence concerning his intent but mere statements of intent alone will not be sufficient to correct the entire array of documents which clearly point to the cottage ownership, both legal and beneficial, residing personally with the Cockerams. If a taxpayer wishes to arrange his personal affairs to obtain certain tax advantages, then the transactions must be documented. If this were not the case, the courts would be left to second-guess the true intent and nature of a multitude of attempts at restructuring.
+[16] In addition to the documentation, the conduct of the Cockerams, both prior and subsequent to the purchase of this property, clearly points to the Cockerams treating it as if they owned it personally. They funded the purchase and pay out of the mortgage with monies from the sale of their Montana property, even though the Trust had funds in its account. They paid the mortgage payments until the proceeds from the mortgage they held on their Montana property was paid out and then those proceeds were used to discharge the cottage property mortgage. Since its purchase, they have continued to pay all expenses relating to the cottage, which remains in their name.
+[17] I simply cannot ignore the array of evidence which, except for the statements of Dr. Cockeram, point unequivocally to the cottage property being a personal asset of the Cockerams. While I do appreciate Dr. Cockeram's evidence that he had no legal expertise and did not understand the consequences of the various legal documents, taxpayers bear the responsibility of ensuring that their actions comply with the very provisions of the Act they wish to invoke. If the intent was for the property to be a Trust asset, the minimum the trustees should have done was to seek legal advice at some point in time. There are a number of methods that might have been employed to support their claimed intention, including a separate trust agreement, whereby the property would be transferred to the Trust upon discharge of the mortgage or a deed registered to the Trust immediately after the mortgage was discharged. Dr. Cockeram would like to retroactively shift this property to the Trust, although the treatment of the property in all of the intervening years since its purchase has pointed to personal ownership and possession. I do not doubt Dr. Cockeram's sincerity nor do I believe he intended anything untoward in his actions. However there are certain responsibilities that attach to the office of a trustee and this is particularly so where it is a family trust as it is here. Where pursuant to paragraph 251(1)(a) the beneficiaries and trustees are deemed not to deal with each other at arm's length, it is incumbent that a taxpayer support claimed intention with written documentation. Here there is not only a lack of supporting documentation but all of the documentation clearly points to the opposite conclusion.
+[18] Appellant counsel introduced an undated letter of Ann Ruel (Exhibit A-1), the U.S. realtor involved with the purchase of the property. This document, faxed from Ms. Ruel on December 22, 2001, stated that the intent of the Cockerams was to acquire this property in the name of the Trust. I am not inclined to attach much weight to this letter because it appears to be created after the fact, perhaps many years after, and because cross-examination was not possible given the absence of the party who provided the document. Even if I were able to give it more weight than I have, it simply would be insufficient to overcome the other evidence which supports the opposite conclusion.
+[19] If we return again to the provisions which govern the deductions available to a trust in computing its income, the evidence was that the amount of $49,200.00 was paid by the Corporation to the Trust, deposited to the Trust's account and then several days later the same amount was withdrawn by cheque payable to Anne Cockeram. Dr. Cockeram's evidence was that this amount was partial reimbursement of payments made by the Cockerams in respect to the purchase of the property. Although this amount may have been used to partially reimburse the Cockerams for their payments, I am unable to conclude that the beneficiaries benefited indirectly because the property is simply not an asset of the Trust. There is no evidence that $49,200.00 was paid to the beneficiaries in the year. The evidence, as supported in the banking records, is that Anne Cockeram received this amount from the Trust. Subsections 104(6) and 104(24) of the Act require that the amount to be deducted by the Trust be paid in the year to the beneficiary. The Respondent argued that even if the Trust had legal title to the property, the requirements contained in these provisions would not be met because it was not paid to the beneficiaries. Counsel referred to the case of Howard Langer Family Trust v. M.N.R., 92 DTC 1055 where it was held that if an amount is not paid directly to a beneficiary but benefits the beneficiary, it will not be sufficient to satisfy the requirements. Based on the facts of this case, there can be no benefit direct or indirect to the beneficiaries where the Trust had no entitlement, legal or otherwise, to the cottage property. Therefore the argument, that the payment to Anne Cockeram bestowed an indirect benefit on the beneficiaries, has no application here. If I had concluded that the property was or had become an asset of the Trust, which I have not, I see no reason however why payments to third parties which benefit beneficiaries by preserving an asset of the Trust, may not be deducted pursuant to these provisions, where properly documented.
+[20] The Appellant has not succeeded in overcoming the onus of demonstrating that the Minister's assumptions were wrong and consequently that the assessment is wrong. The Appellant took one path in dealing with this property which prevented the Trust from obtaining the deductions under subsection 104(6). The Appellant is simply too far down that path to retrace the steps taken in order to restructure the transaction in light of the legal documentation, records and conduct of the Cockerams, all of which point to the opposite conclusion of the Cockerams' claimed intention.
+[21] For these reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 6th day of May 2004.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2004TCC307
+COURT FILE NO.:
+2001-3047(IT)G
+STYLE OF CAUSE:
+Alan W. Cockeram and E. Anne Cockeram,
+Trustees of the Cockeram Family Trust and Her Majesty the Queen
+PLACE OF HEARING:
+Saint John, New Brunswick
+DATE OF HEARING:
+April 14, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+May 6, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Nicole L. Gallant
+Counsel for the Respondent:
+Cecil Woon
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Nicole L. Gallant
+Firm:
+Patterson Palmer
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

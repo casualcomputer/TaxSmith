@@ -1,0 +1,246 @@
+Title: 2227414 Ontario Inc. c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521018/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-133-521018-2227414-ontario-inc-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2022-11-04
+
+# 2227414 Ontario Inc. c. Le Roi
+
+- Citation: 2022 CCI 133
+- Decision date: 2022-11-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5813, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2227414 Ontario Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-11-04
+Référence neutre
+2022 CCI 133
+Numéro de dossier
+2018-3114(GST)I
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2018-3114(GST)I
+ENTRE :
+2227414 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 20 et 21 septembre 2022, à Toronto (Ontario)
+Devant : L’honorable juge David E. Spiro
+Comparutions :
+Représentante de l’appelante :
+Tania D’Souza
+Avocat de l’intimé :
+Me William Switzer
+JUGEMENT
+Les appels interjetés à l’égard des périodes de déclaration de l’appelante terminées le 31 mars 2012, le 30 juin 2012, le 30 septembre 2012 et le 31 décembre 2012 sont accueillis avec dépens et la cotisation établie aux termes de la partie IX de la Loi sur la taxe d’accise pour chaque période de déclaration est renvoyée au ministre du Revenu national pour réexamen et nouvelle cotisation au motif que la taxe nette doit être réduite de ce qui suit :
+a) 9 580,59 $ pour la période de déclaration terminée le 31 mars 2012;
+b) 10 531,07 $ pour la période de déclaration terminée le 30 juin 2012;
+c) 9 665,30 $ pour la période de déclaration terminée le 30 septembre 2012;
+d) 11 235,14 $ pour la période de déclaration terminée le 31 décembre 2012;
+et toutes les pénalités supprimées.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2022.
+« David E. Spiro »
+Le juge Spiro
+Référence : 2022 CCI 133
+Date : 20221104
+Dossier : 2018-3114(GST)I
+ENTRE :
+2227414 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Spiro
+[1] Le ministre a établi une cotisation pour l’appelante aux termes de la partie IX de la Loi sur la taxe d’accise (la « Loi sur la TPS ») afin d’augmenter sa taxe nette de sommes suivantes :
+a) 9 580,59 $ pour la période de déclaration terminée le 31 mars 2012;
+b) 10 531,07 $ pour la période de déclaration terminée le 30 juin 2012;
+c) 9 665,30 $ pour la période de déclaration terminée le 30 septembre 2012;
+d) 11 235,14 $ pour la période de déclaration terminée le 31 décembre 2012 [1] .
+Le ministre a également imposé des pénalités pour faute lourde en application de l’article 285 de la Loi sur la TPS.
+[2] J’ai accueilli l’appel pour chacune des quatre périodes de déclaration de l’appelante au motif que cette dernière a réussi, selon la prépondérance des probabilités, à détruire les hypothèses de fait formulées par le ministre lors de l’établissement de la cotisation. Il incombait alors à l’intimé de produire des éléments de preuve, selon la prépondérance des probabilités, pour étayer ces hypothèses. Or, l’intimé ne l’a pas fait. En outre, l’intimé n’a pas présenté d’éléments de preuve suffisants, selon la prépondérance des probabilités, pour étayer la cotisation établie par le ministre afin de déterminer les pénalités pour faute lourde imposées à l’appelante [2] .
+[3] Les actionnaires de l’appelante, M. Jason Delgado et M. Rick Carter, ont témoigné au procès. Je les ai trouvés crédibles. L’auditrice responsable de l’établissement de la cotisation à l’Agence du revenu du Canada (l’« ARC »), Mme Farnoosh Fardi, a été appelée à témoigner par l’appelante. L’intimé n’a cité aucun témoin à comparaître.
+[4] L’appelante a vendu, installé et entretenu des systèmes téléphoniques en réseau pour des entreprises, grandes et petites, partout au Canada. Elle a également vendu, installé et entretenu des systèmes de télévision en circuit fermé, des équipements audiovisuels et des systèmes de téléavertissement pour les usines et les entrepôts. En plus de travailler avec ses clients, l’appelante avait un large éventail de fournisseurs et de vendeurs avec lesquels elle passait des contrats pour obtenir et fournir des biens et des services pour divers projets.
+Les rajustements du ministre à la taxe nette
+[5] Le ministre a rajusté à la hausse la taxe nette de l’appelante pour chacune de ses quatre périodes de déclaration en 2012 en augmentant la TPS/TVH impayée et en diminuant les crédits de taxe sur les intrants.
+A. Augmentation de la TPS/TVH impayée
+[6] Le ministre a soupçonné l’appelante de ne pas avoir payé la totalité de la TPS/TVH à percevoir sur les fournitures taxables de produits et services qu’elle avait effectuées en 2012. Le ministre a supposé qu’il y avait des [traduction] « ventes non déclarées » cette année-là et a établi une cotisation sur cette base pour augmenter le montant de TPS/TVH que l’appelante devait verser pour chacune de ses quatre périodes de déclaration en 2012 [3] .
+[7] L’alinéa 6h) de la réponse modifiée est rédigée comme suit :
+[traduction]
+6. Lorsqu’il a établi la cotisation de la taxe nette de l’appelante pour les périodes, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+***
+h) l’appelante n’a pas tenu des livres et registres suffisants pour permettre de déterminer avec exactitude la TPS/TVH qu’elle devait percevoir pour cette période;
+[8] M. Delgado a témoigné que l’appelante avait un aide-comptable et un comptable externe pour préparer et tenir les livres et registres de l’appelante en 2012 et pour effectuer tous les dépôts et déclarations requis. L’auditrice n’a jamais expliqué à la Cour si elle a choisi d’utiliser une autre méthode d’établissement de cotisation et, dans l’affirmative, pour quel motif elle a jugé nécessaire d’utiliser cette autre méthode. Les autres méthodes d’établissement de la cotisation, telles que l’analyse des dépôts bancaires, ont tendance à être utilisées lorsque les livres et registres existants sont inadéquats pour permettre la détermination précise de l’impôt à payer.
+[9] L’alinéa 6i) de la réponse modifiée est rédigée ainsi :
+[traduction]
+6. Lorsqu’il a établi la cotisation de la taxe nette de l’appelante pour les périodes, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+***
+i) les registres bancaires de l’appelante et ceux de ses actionnaires indiquent des dépôts non déterminés au cours de la période;
+[10] Il s’agit de l’hypothèse de fait la plus importante que le ministre a formulée pour établir une taxe nette supplémentaire à l’égard de l’appelante. Le ministre a tiré la conclusion que les supposés [traduction] « dépôts non déterminés » sur a) le compte bancaire de l’appelante et b) les comptes bancaires des actionnaires en 2012 représentaient des [traduction] « ventes non déclarées » par l’appelante. La preuve de l’appelante a détruit cette hypothèse de fait.
+[11] La représentante de l’appelante a demandé à M. Delgado et M. Carter d’examiner plusieurs écritures bancaires que l’auditrice avait vraisemblablement signalées comme étant des [traduction] « dépôts non déterminés ». M. Delgado et M. Carter ont fourni des explications crédibles pour chacun de ces dépôts. Par exemple, la représentante de l’appelante a renvoyé M. Delgado à un historique de compte de 2012 pour le compte bancaire de M. Delgado. M. Delgado a désigné un dépôt de 28 817 $ comme étant sa paye brute [4] . Ce dossier ne fait pas état de ventes non déclarées par l’appelante.
+[12] La représentante de l’appelante a renvoyé M. Delgado à ses relevés bancaires de 2012 pour un transfert de fonds à partir d’une marge de crédit qu’il maintenait auprès d’une institution financière. M. Delgado a désigné la somme de 3 590 $ comme étant transférée de sa marge de crédit à son compte bancaire. Il s’agissait d’un emprunt personnel sur sa marge de crédit personnelle. Ce dossier ne fait pas état de ventes non déclarées par l’appelante.
+[13] La représentante de l’appelante a recommandé à M. Delgado d’effectuer des dépôts sur un compte conjoint avec son épouse de 100 $ par mois au cours de 2012. M. Delgado a désigné ces sommes comme étant des prestations fiscales universelles pour enfants. Cela représentait 1 200 $ pour l’année. Ce dossier ne fait pas état de ventes non déclarées par l’appelante.
+[14] La représentante de l’appelante a renvoyé M. Delgado à des dépôts de 335,94 $, 4 500,80 $ et 1 096,29 $ en 2012. M. Delgado a désigné ces dépôts comme des remboursements sur son compte bancaire pour l’argent qu’il a dépensé en tant qu’entraîneur adjoint et gérant d’une équipe de hockey de ligue mineure. À titre d’information, le fils de M. Delgado a joué pour les Ice Raiders de Scarborough en 2012. En tant que gérant de l’équipe, M. Delgado a engagé certaines dépenses. Par exemple, il a loué une patinoire pour que l’équipe puisse l’utiliser pendant l’été. M. Delgado a également renvoyé à un chèque de 1 578 $ déposé sur son compte bancaire en 2012. Il a expliqué qu’il avait reçu un chèque de cette somme, libellé à son nom personnel. Le chèque aurait dû être libellé à l’ordre des Ice Raiders de Scarborough. Il a déposé le chèque, car celui-ci était libellé à son nom personnel, mais il a ensuite fait un autre chèque de la même somme aux Ice Raiders de Scarborough. La somme de 1 578 $ a été versée sur son compte bancaire, puis elle en est sortie. Ces dossiers ne font pas état de ventes non déclarées par l’appelante.
+[15] Enfin, la représentante de l’appelante a porté à l’attention de M. Delgado la somme de 99 612,41 $ qui, selon le ministre, correspondait à des [traduction] « ventes non déclarées » de l’appelante. Selon M. Delgado, cette somme correspondait à une provision dans les états financiers pour des comptes établis comme douteux à la fin de l’année budgétaire 2012 de l’appelante. Ce dossier ne fait pas état de ventes non déclarées par l’appelante.
+[16] Dans l’ensemble, la preuve de l’appelante a détruit les hypothèses de fait du ministre aux alinéas 6m) et q) :
+[traduction]
+6. Lorsqu’il a établi la cotisation de la taxe nette de l’appelante pour les périodes, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+***
+m) pendant la période, les revenus des ventes de l’appelante ont été déposés sur les comptes d’entreprise de l’appelante ainsi que sur le compte no 4 (Carter) et le compte no 5 (Delgado);
+***
+q) l’appelante a omis de déclarer des ventes de 198 844,56 $ au total au cours de la période, calculé comme suit :
+Total des dépôts
+1 104 854,97 $
+Moins les :
+Frais et remboursements
+(3 644,82 $)
+Revenu T1 des actionnaires
+(59 380,00 $)
+Rajustement pour mauvaise créance
+99 613,41 $
+Comptes débiteurs :
+Moins à l’ouverture
+Plus à la fermeture
+(218 697,00 $)
+166 197,00 $
+Ventes et taxes déclarées
+890 099,00 $
+Ventes non déclarées
+198 844,56 $
+B. Réduction des crédits de taxe sur les intrants
+[17] Le ministre a également augmenté la taxe nette de l’appelante pour chacune de ses quatre périodes de déclaration en 2012 en réduisant les crédits de taxe sur les intrants. Le ministre a supposé que a) une autre société exploitante appelée « NorComm Cable Systems Inc. » était l’acquéreuse de fournitures de certains biens et services en 2012 plutôt que l’appelante et que b) les actionnaires de l’appelante ont structuré les affaires de l’entreprise de façon à ce que l’appelante demande des crédits de taxe sur les intrants à l’égard de ses dépenses personnelles pour cette année-là.
+[18] Pourquoi les payeurs désignaient-ils parfois l’appelante sur leurs documents de paiement comme « NorComm Cable Systems Inc. »? M. Carter a expliqué qu’il avait créé une entreprise individuelle en 1998 sous le nom de « NorComm Cable Systems » qu’il a constituée en société sous le nom de « NorComm Cable Systems Inc. » lorsque M. Delgado l’a rejoint dans l’entreprise en 2000. Bien que M. Carter continue d’être actionnaire de NorComm Cable Systems Inc. avec M. Delgado et une autre personne, NorComm Cable Systems Inc. a cessé ses activités en 2010. L’appelante a été constituée en société en 2010 et a utilisé « NorComm » comme nom commercial, car elle avait repris l’entreprise anciennement exploitée par NorComm Cable Systems Inc. En termes simples, les gens connaissaient l’entreprise de l’appelante sous le nom de « NorComm ».
+[19] M. Delgado a témoigné qu’en 2012, certains clients et fournisseurs de l’appelante faisaient référence à l’appelante sous le nom de « NorComm Cable Systems Inc. ». Lorsque l’appelante a repris l’entreprise de NorComm Cable Systems Inc., elle a envoyé des lettres aux clients et fournisseurs leur demandant d’utiliser le nom de l’appelante sur les documents de paiement. Malgré cette demande, certains documents de paiement reçus par l’appelante continuaient de porter le nom de « NorComm Cable Systems Inc. » ou simplement « NorComm », même après la transition. L’appelante a essayé d’enregistrer son nom commercial à plusieurs reprises. Elle a finalement réussi des années plus tard après avoir engagé un expert-conseil pour obtenir l’enregistrement.
+[20] En refusant les crédits de taxe sur les intrants (CTI) déclarés par l’appelante dans le calcul de la taxe nette pour chacune des quatre périodes de déclaration en 2012, le ministre a formulé les hypothèses de fait suivantes :
+[traduction]
+6. Lorsqu’il a établi la cotisation de la taxe nette de l’appelante pour les périodes, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+***
+s) l’appelante a déclaré des CTI dans ses déclarations de TPS/TVH pour la période à l’égard de fournitures effectuées à d’autres acquéreurs et non à l’appelante, de la manière indiquée à l’annexe « A », notamment Norcomm Cable Systems Inc, Buy Direct Telecom Inc. et les actionnaires;
+t) l’appelante a déclaré des CTI dans ses déclarations de TPS/TVH pour la période à l’égard des dépenses personnelles des actionnaires qui n’ont pas été utilisées dans le cadre des activités commerciales de l’appelante, comme l’indique l’annexe « B »;
+u) l’appelante a déclaré des CTI pour les cartes de crédit personnelles des actionnaires, qui ont été utilisées pour payer les dépenses personnelles des actionnaires;
+v) l’appelante a déclaré des CTI pour des factures de Car Quarters Inc. concernant l’entretien d’une Porsche;
+w) l’appelante n’a pas payé la taxe sur des factures d’Intact Assurance de 214,18 $;
+[21] Le témoignage de l’appelante a détruit l’hypothèse de fait plaidée à l’alinéa 6s) de la réponse modifiée. La Cour a entendu la preuve selon laquelle les crédits de taxe sur les intrants demandés par l’appelante pour ses quatre périodes de déclaration en 2012 concernaient des fournitures de biens ou de services effectuées à son intention, et non à celle de NorComm Cable Systems Inc. Rien ne laisse croire que l’appelante et NorComm Cable Systems Inc. ont conspiré pour frauder le gouvernement en réclamant deux fois les mêmes crédits de taxe sur les intrants.
+[22] Le témoignage de l’appelante a détruit les hypothèses de fait plaidées aux alinéas 6t) et 6u) de la réponse modifiée. Après avoir entendu les témoignages des actionnaires et de l’auditrice, rien ne permet de croire que l’appelante a déclaré des crédits de taxe sur les intrants à l’égard des dépenses personnelles des actionnaires. Au contraire, j’estime que la preuve de dépenses soumises à la Cour tient compte des dépenses qui ont été engagées par l’appelante dans le cadre de ses activités commerciales. Par exemple, M. Delgado a témoigné que l’appelante avait utilisé un VUS Porsche Cayenne 2006 d’occasion dans le cadre de ses activités en 2012. Le témoignage de l’appelante a par conséquent détruit l’hypothèse de fait plaidée à l’alinéa 6v) de la réponse modifiée.
+[23] Enfin, l’intimé n’a pas établi de lien entre les factures d’assurance mentionnées à l’alinéa 6w) de la réponse modifiée et les crédits de taxe sur les intrants déclarés par l’appelante et refusés par le ministre. La Cour ne sait pas si l’appelante a déclaré des crédits de taxe sur les intrants à l’égard de ces factures pour l’une ou l’autre des quatre périodes de déclaration en litige ou si le ministre a rejeté une telle demande dans le calcul des crédits de taxe sur les intrants pour l’une ou l’autre de ces quatre périodes de déclaration.
+Le témoignage de l’auditrice
+[24] C’est l’appelante, et non l’intimé, qui a cité l’auditrice de l’ARC à comparaître. Quelle que soit la partie qui a cité l’auditrice, elle n’a pas apporté de rapport d’audit. Elle n’a pas apporté de documents de travail. Elle n’a pas non plus apporté de feuilles de calcul. Elle n’a pas renvoyé à l’annexe « A » ou à l’annexe « B » jointe à la réponse modifiée [5] . Son témoignage a laissé la Cour dans l’ignorance :
+a) Quelles sommes particulières (plutôt que totales) a-t-elle incluses comme ventes non déclarées pour chaque période de déclaration et pour quel motif?
+b) Quelles sommes particulières (plutôt que totales) a-t-elle rejetées comme crédits de taxe sur les intrants pour chaque période de déclaration et pour quel motif?
+[25] La Cour dispose du tableau figurant au paragraphe 3 de la réponse modifiée, qui présente les [traduction] « Rajustements à la taxe nette » effectués par le ministre et qui, selon la Cour, représente les conclusions de l’auditrice :
+Période se terminant le
+Ventes non déclarées
+TPS/TVH non déclarées
+Rajustements aux CTI
+Rajustements à la taxe nette
+31 mars 2012
+49 711,14 $
+6 462,45 $
+(3 118,14 $)
+9 580,59 $
+30 juin 2012
+49 711,14 $
+6 462,45 $
+(4 068,62 $)
+10 531,07 $
+30 septembre 2012
+49 711,14 $
+6 462,45 $
+(3 202,85 $)
+9 665,30 $
+31 décembre 2012
+49 711,14 $
+6 462,45 $
+(4 772,69 $)
+11 235,14 $
+TOTAUX
+198 844,56 $
+25 849,80 $
+(15 162,30 $)
+41 012,10 $
+[26] Dans le même ordre d’idées, l’alinéa 6q) de la réponse modifiée représente simplement un calcul arithmétique de la façon dont l’auditrice est arrivée à un total de 198 844,56 $ de « ventes non déclarées » pour l’ensemble des quatre périodes de déclaration. Une fois que l’appelante a présenté des éléments de preuve suffisants pour détruire ces hypothèses de fait selon la prépondérance des probabilités, il incombait à l’intimé de présenter des éléments de preuve pour étayer les hypothèses de fait formulées par le ministre dans l’établissement de la cotisation. Or, l’intimé ne l’a pas fait.
+[27] Plusieurs questions fondamentales demeurent sans réponse en ce qui concerne les crédits de taxe sur les intrants refusés par le ministre. Pourquoi le ministre a-t-il refusé 3 118,14 $ dans le calcul des crédits de taxe sur les intrants pour la période de déclaration terminée le 31 mars 2012? Pourquoi le ministre a-t-il refusé 4 068,62 $ dans le calcul des crédits de taxe sur les intrants pour la période de déclaration terminée le 30 juin 2012? Pourquoi le ministre a-t-il refusé 3 202,85 $ dans le calcul des crédits de taxe sur les intrants pour la période de déclaration terminée le 30 septembre 2012? Pourquoi le ministre a-t-il refusé 4 772,69 $ dans le calcul des crédits de taxe sur les intrants pour la période de déclaration terminée le 31 décembre 2012? La Cour n’a aucune idée de la manière dont l’auditrice est parvenue à ces totaux et, plus précisément, quelles sommes elle a choisi d’inclure ou d’exclure dans l’établissement de la cotisation afin de déterminer les crédits de taxe sur les intrants de l’appelante et les motifs pour lesquels elle l’a fait.
+Pénalités
+[28] Le ministre a imposé à l’appelante des pénalités pour faute lourde en application de l’article 285 de la Loi sur la TPS. L’intimé n’a pas réussi à démontrer, selon la prépondérance des probabilités, que l’appelante a sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration établie pour l’une des quatre périodes de déclaration en litige, ou y a participé, consenti ou acquiescé.
+Postface
+[29] Bien que la représentante de l’appelante n’ait pas soulevé la question, la réponse modifiée indique que les quatre périodes de déclaration de l’appelante ont fait l’objet d’une cotisation comme une seule « période » définie comme « la période du 1er janvier 2012 au 31 décembre 2012 ». Par exemple, l’alinéa dans lequel l’intimé plaide chaque hypothèse de fait formulée par le ministre dans la cotisation est précédé de cette déclaration générale :
+Lorsqu’il a établi la cotisation de la taxe nette de l’appelante pour les périodes, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+[Non souligné dans l’original.]
+[30] L’appelante était une déclarante tenue de produire des déclarations de TPS/TVH de façon trimestrielle [6] . En vertu de l’alinéa 296(1)a) de la Loi sur la TPS, le ministre n’est autorisé à établir une cotisation pour déterminer la taxe nette d’une personne que « pour une période de déclaration ». Dans le cas d’un déclarant tenu de produire des déclarations de TPS/TVH de façon trimestrielle, le ministre peut-il établir une cotisation pour déterminer la taxe nette à payer pour une année civile entière? La réponse est non. Lorsqu’il établit la cotisation à l’égard d’une personne, le ministre doit attribuer la TPS à percevoir et les crédits de taxe sur les intrants aux bonnes périodes de déclaration. Dans la décision Club Intrawest c. La Reine, 2016 CCI 149, le juge D’Arcy nous rappelle le régime législatif pertinent :
+[326] La taxe nette d’une personne concernant une période de déclaration précise est déterminée en vertu du paragraphe 225(1). De façon générale, la détermination se fait comme suit :
+La TPS qui est devenue exigible au cours de la période de déclaration
++ la TPS qui est perçue durant la période de déclaration
+– les crédits de taxe sur les intrants réclamés dans la déclaration de TPS produite par la personne.
+[327] Il n’existe aucune disposition dans la Loi sur la TPS qui indique précisément à quel moment la taxe devient exigible. Cependant, le paragraphe 221(1) prévoit que la personne qui effectue une fourniture taxable doit percevoir la taxe payable par l’acquéreur à l’égard de la fourniture. Par conséquent, il semblerait que la TPS devienne exigible par un inscrit au moment où elle devient payable par l’acquéreur de la fourniture. [. . .]
+[328] Les paragraphes 168(1) et (2) de la Loi sur la TPS prévoient les règles générales permettant de déterminer à quel moment la TPS à l’égard d’une fourniture taxable devient payable. Le paragraphe 168(1) prévoit que la taxe devient payable au premier en date du jour où la contrepartie de la fourniture est payée et du jour où cette contrepartie devient due. Le paragraphe 168(2) prévoit que si la contrepartie est payée ou devient due plus d’une fois, elle est payable à chacun des jours qui est le premier en date du jour où une partie de la contrepartie est payée et du jour où cette partie devient due.
+[329] L’article 152 de la Loi sur la TPS prévoit que la contrepartie d’une fourniture taxable est réputée devenir due le premier en date des trois jours suivants :
+– le premier en date du jour où une facture pour tout ou partie de la contrepartie et du jour apparaissant sur la facture;
+– le jour où une facture pour tout ou partie de la contrepartie aurait été délivrée, n’eût été un retard injustifié;
+– le jour où l’acquéreur est tenu de payer tout ou partie de la contrepartie au fournisseur conformément à une convention écrite.
+***
+[336] [. . .] au lieu de suivre les dispositions des articles 168 et 152, l’Agence du revenu du Canada a utilisé sa propre méthode pour déterminer la taxe nette de l’appelant à l’égard de ses périodes de déclaration d’octobre, méthode qui n’est pas conforme à la définition de taxe nette au paragraphe 225(1) et qui ne respecte pas les dispositions des articles 168 et 152.
+***
+[340] L’Agence du revenu du Canada, au moment d’établir la cotisation d’un inscrit à la TPS, doit respecter les dispositions de la Loi sur la TPS. Elle ne peut pas utiliser ses propres méthodes administratives tout simplement parce qu’elles facilitent le processus d’établissement des cotisations.
+[Non souligné dans l’original.]
+[31] Comme le souligne le juge D’Arcy au paragraphe 339 de ses motifs, une cotisation établie pour déterminer la taxe nette sur une base annuelle pour un déclarant tel que l’appelante soulèverait également des questions relatives à d’autres dispositions. Par exemple, elle serait incompatible avec les règles du paragraphe 225(4) de la Loi sur la TPS qui prévoient un délai de prescription de deux ans ou de quatre ans pour la déclaration de crédits de taxe sur les intrants, les règles de l’article 298 qui prévoient un délai de cotisation de quatre ans et les dispositions qui prévoient le calcul des intérêts et des pénalités sur la taxe nette impayée.
+Disposition
+[32] Les appels pour les périodes de déclaration de l’appelante terminées le 31 mars 2012, le 30 juin 2012, le 30 septembre 2012 et le 31 décembre 2012 seront accueillis avec dépens et la cotisation établie aux termes de la partie IX de la Loi sur la taxe d’accise pour chaque période de déclaration sera renvoyée au ministre du Revenu national pour réexamen et nouvelle cotisation au motif que la taxe nette sera réduite de ce qui suit :
+a) 9 580,59 $ pour la période de déclaration terminée le 31 mars 2012;
+b) 10 531,07 $ pour la période de déclaration terminée le 30 juin 2012;
+c) 9 665,30 $ pour la période de déclaration terminée le 30 septembre 2012;
+d) 11 235,14 $ pour la période de déclaration terminée le 31 décembre 2012.
+Les pénalités imposées aux termes de l’article 285 de la Loi sur la TPS seront également supprimées.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2022.
+« David E. Spiro »
+Le juge Spiro
+RÉFÉRENCE :
+2022 CCI 133
+NO DU DOSSIER DE LA COUR :
+2018-3114(GST)I
+INTITULÉ :
+2227414 ONTARIO INC., c.
+SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 20 et 21 septembre 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 4 novembre 2022
+COMPARUTIONS :
+Représentante de l’appelante :
+Tania D’Souza
+Avocat de l’intimé :
+Me William Switzer
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Tania D’Souza
+Cabinet :
+[EN BLANC]
+Pour l’intimé :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Réponse modifiée, au par. 3. La somme indiquée par l’appelante comme taxe nette sur sa déclaration trimestrielle pour chacune de ces quatre périodes de déclaration figure au paragraphe 2 de la réponse modifiée. Ces sommes étaient respectivement de 6 593,31 $, 16 540,65 $, 9 131,62 $ et 6 471,06 $.
+[2] Au paragraphe 7 de la réplique modifiée, l’intimé a plaidé à tort que les allégations à l’appui de la cotisation établie par le ministre afin de déterminer les pénalités pour faute lourde étaient des hypothèses de fait, indiquant qu’il incombait à l’appelante de les détruire. Un tel acte de procédure est contraire au paragraphe 285(16) de la Loi sur la TPS qui prévoit que lorsqu’une pénalité imposée en application de l’article 285 est en litige, il incombe au ministre d’établir les faits justifiant l’imposition de la pénalité.
+[3] Le ministre a augmenté la TPS/TVH impayée d’une somme égale pour chaque période. Voir les deuxième et troisième colonnes du tableau figurant au paragraphe 25 des présents motifs.
+[4] C’est la même somme que le revenu total déclaré pour 2012 par M. Delgado. Voir l’alinéa 6o) de la réponse modifiée.
+[5] Au début de l’audience, j’ai autorisé l’intimé à déposer la réponse modifiée. La réponse modifiée a ajouté les annexes « A » et « B » qui n’avaient pas été incluses précédemment dans la réponse. L’annexe « A » fait partie de l’alinéa 6s) et l’annexe « B » fait partie de l’alinéa 6t) de la réponse modifiée dans laquelle l’intimé plaide les hypothèses de fait formulées par le ministre pour rejeter les crédits de taxe sur les intrants. Ce ne sont que des hypothèses, pas des éléments de preuve. Une fois que l’appelante a présenté des éléments de preuve suffisants pour détruire ces hypothèses selon la prépondérance des probabilités, il incombait à l’intimé de présenter des éléments de preuve pour les étayer. Or, l’intimé ne l’a pas fait.
+[6] Réponse modifiée, à l’al. 6b).

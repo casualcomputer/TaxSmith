@@ -1,0 +1,331 @@
+---
+title: "Davis v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28381/index.do"
+last_modified: "2008-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 31"
+citation2: ""
+neutral_citation: "2008 TCC 31"
+decision_date: "2008-01-16"
+language: "en"
+item_id: "28381"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1900
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:38:49.573000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aeb806d011b68b32f52d6256acc695f6ff1c9dda19d92ba6fb4b4823c7406e55"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Davis v. The Queen
+
+- Citation: 2008 TCC 31
+- Decision date: 2008-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1900, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-16
+Neutral citation
+2008 TCC 31
+File numbers
+2005-2287(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2005-2287(IT)G, 2005-2285(IT)G,
+2005-2286(IT)G, 2005-2288(IT)G,
+2005-2289(IT)G, 2005-2290(IT)G,
+2005-2291(IT)G, 2005-2292(IT)G,
+2005-2294(IT)I, 2005-2295(IT)I,
+2005-2296(IT)I, 2005-2297(IT)I,
+2005-2298(IT)I, 2005-2299(IT)I,
+2005-2305(IT)I, 2005-2306(IT)I,
+2005-2307(IT)I, 2005-2310(IT)I,
+2005-2311(IT)I, 2005-2312(IT)I,
+2005-2313(IT)I.
+BETWEEN:
+SCOTT DAVIS, KARL J. BEAGRIE,
+THOMAS A. CURTIS, RICHARD GRONVALL,
+AUSTIN L. HEARN, CLAUDE KENDALL,
+JOHN McELROY, DARCY S. RAMSAY,
+DARRELL WOLTER, GREGORY B. VENUS,
+DOUGLAS K. TOLCHARD, DAVE McCORMICK,
+BLAIN McCALLUM, COLIN MacPHERSON,
+DANIEL R. MacNEIL, KENNETH LESLIE,
+BILL G. JENKINS, DOUG HUNTER,
+ARTHUR L. HOLMWOOD, HAROLD FITZ,
+BRAD G. BOLES
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 20, 2007, at Edmonton, Alberta
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellants:
+Gordon D. Beck
+Counsel for the Respondent:
+Margaret A. Irving
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000 taxation year are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 16th day of January 2008.
+“L.M. Little”
+Little J.
+Citation: 2008TCC31
+Date: 20080116
+Dockets: 2005-2287(IT)G, 2005-2285(IT)G,
+2005-2286(IT)G, 2005-2288(IT)G,
+2005-2289(IT)G, 2005-2290(IT)G,
+2005-2291(IT)G, 2005-2292(IT)G,
+2005-2294(IT)I, 2005-2295(IT)I,
+2005-2296(IT)I, 2005-2297(IT)I,
+2005-2298(IT)I, 2005-2299(IT)I,
+2005-2305(IT)I, 2005-2306(IT)I,
+2005-2307(IT)I, 2005-2310(IT)I,
+2005-2311(IT)I, 2005-2312(IT)I,
+2005-2313(IT)I.
+BETWEEN:
+SCOTT DAVIS, KARL J. BEAGRIE,
+THOMAS A. CURTIS, RICHARD GRONVALL,
+AUSTIN L. HEARN, CLAUDE KENDALL,
+JOHN McELROY, DARCY S. RAMSAY,
+DARRELL WOLTER, GREGORY B. VENUS,
+DOUGLAS K. TOLCHARD, DAVE McCORMICK,
+BLAIN McCALLUM, COLIN MacPHERSON,
+DANIEL R. MacNEIL, KENNETH LESLIE,
+BILL G. JENKINS, DOUG HUNTER,
+ARTHUR L. HOLMWOOD, HAROLD FITZ,
+BRAD G. BOLES
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. Facts
+[1] The above appeals were heard on common evidence in the City of Edmonton.
+[2] Canfish Services Inc. (“Canfish”) was established in the spring of 1996 at the instigation of Scott Davis, Karl Beagrie and Darcy Ramsay.
+[3] Canfish was a company that was engaged in providing services to the oil and gas exploration industry in the Province of Alberta.
+[4] During the 2000 taxation year, the Appellants were employees of Canfish.
+[5] In March, 2000 the shareholders of Canfish sold their shares to an arm’s length purchaser – NQL Drilling Tools Inc. (“NQL”) for the sum of $16,500,000.
+[6] Canfish was a Canadian-Controlled Private Corporation immediately before the sale of its shares to NQL.
+[7] The parties agree that the shares of Canfish represented “qualified small business corporation” shares (hereinafter “QSBC”) as that term is defined in the Income Tax Act (the “Act”).
+[8] The Appellants maintain that they received shares of NQL as part of the proceeds from the sale of the Canfish shares.
+[9] By Notice of Assessment dated May 10, 2001, the Minister of National Revenue (the “Minister”) assessed the Appellant (Mr. Davis) to include a capital gain of $49,994 and allowed a capital gain deduction of $33,329.
+[10] On December 31, 2003 the Appellant, Mr. Davis, was reassessed by the Minister to include an employment benefit in the amount of $49,994 pursuant to paragraph 6(1)(a) of the Act deleting the capital gain and capital gain deduction originally assessed.
+[11] Each of the other Appellants were reassessed by the Minister to include an employment benefit pursuant to paragraph 6(1)(a) of the Act and the capital gains and the capital gains deduction previously claimed by them were deleted.
+B. Issue
+[12] The issue is whether each of the Appellants received a share of the 5% of the net proceeds derived from the sale of the Canfish shares as an employee benefit in the 2000 taxation year.
+C. Analysis and Decision
+[13] The Appellants’ position is that they had each realized a capital gain resulting from the sale of shares of a qualified small business corporation and that this capital gain could be offset by claiming a portion of the $500,000 lifetime capital gains exemption (if it was available to a particular Appellant) against the capital gain that they each had received. Since the capital gain occurred in the 2000 taxation year, the taxable capital gain percentage was two-thirds of the capital gain and the lifetime capital gains exemption on gains arising from the sale of QSBC shares was $500,000.
+[14] Counsel for the Appellants said that each of the Appellants was a beneficiary of a Trust established by the original principals of Canfish – i.e. Messrs. Davis, Beagrie, Ramsay, plus Mr. Kusumoto (a financier) and Mr. Mullen (a lawyer) – that set aside 5% of the issued and outstanding shares of Canfish for employee equity participation. Counsel for the Appellants maintained that when the shares of Canfish were sold to NQL, the proceeds that the Appellants ultimately received were distributions out of that Trust that retained their character as being capital gains resulting from the sale of QSBC shares.
+[15] The Respondent’s position is that no such Trust in favour of employees or future employees of Canfish ever came into existence, and accordingly, the amounts that the Appellants each received should be treated as additional employment remuneration that was fully taxable in their hands.
+[16] In the alternative, if the Court determines that a Trust did not exist, counsel for the Appellants argued that section 7 of the Act should apply in this appeal, in particular subsection 7(1.1) and paragraph 110(1)(d.1) rather than paragraph 6(1)(a) as purported by the Respondent.
+[17] Mr. Davis stated in evidence that he and his associates, Messrs. Beagrie and Ramsay, wanted to ensure that the employees of Canfish would benefit from the success of Canfish. Messrs Davis, Beagrie and Ramsay therefore set aside 5% of the shares of Canfish into a trust (hereinafter referred to as “Trust”).
+[18] When the sale of the Canfish shares to NQL was made, NQL paid the Trust the sum of $825,000 (5% of the sale price of $16,500,000).
+[19] The sum of $825,000 was distributed amongst the 21 Appellants.
+[20] Each of the Appellants treated their proceeds as capital gains that were eligible for the capital gains exemption.
+[21] In support of his argument that a Trust was established for the employees of Canfish, counsel for the Appellants referred to a letter dated March 15, 1996 that Mr. Davis wrote to Mr. Mullen (their lawyer) (Exhibit A-1). The letter indicates that 6% of the shares of Canfish should be held for “Key Personnel”. Counsel for the Appellants maintained that this statement by Mr. Davis is evidence of the intention to benefit employees of Canfish with equity in Canfish.
+[22] Counsel for the Appellants also referred to the Trust Declaration dated as of June 1, 1996 (Exhibit A-2).
+[23] Exhibit A-2 reads as follows:
+Trust Declaration
+1. The undersigned, representing all of the shareholders of Canfish Services Inc. (“Canfish”) hereby declare that we hold 5% of our shareholdings in Canfish for and on behalf of an employee pool for allocation on the sale, if any, of the shares of Canfish subject to such conditions of release as shall be determined in the sole discretion of the trustees thereof.
+2. The undersigned hereby appoints Darcy Ramsay, Karl Beagrie and Scott Davis trustees in respect of such shares with full right and authority to manage the allocation, distribution and terms of release and allocation of such shares among employees of Canfish in such manner as they in their absolute discretion consider appropriate.
+3. The above grant is irrevocable.
+4. This deed may be executed in counterparts.
+All as agreed to and witnessed as of the 1st day of June 1996.
+[24] It will be noted that this Trust Declaration states that Messrs. Davis, Beagrie and Ramsay are trustees of the Trust. Furthermore, the Trust Declaration states that the Trustees are empowered to, among other things, determine the allocation of the shares held in Trust amongst the employees of Canfish.
+[25] Mr. Davis testified that when the shares of Canfish were sold to NQL he met with Messrs. Beagrie and Ramsay and they determined how the 5% of the shares would be allocated to the Appellants.
+[26] Counsel for the Appellants filed Exhibit A-9 which is a summary of the allocation that was made by Messrs. Davis, Beagrie and Ramsay to the various employees of Canfish.
+[27] Exhibit A-9 reads as follows:
+Employee
+No. of Canfish Shares
+Greg Allen
+30.5
+Ross Avery
+242
+Brad Boles
+242
+Reid Conrad
+30.5
+Tom Curtis
+363.5
+Rob Doyle
+30.5
+Harold Fitz
+182
+Rick Gronvall
+515
+Lee Hearn
+303
+Layne Holmwood
+106
+Doug Hunter
+91
+Bill Jenkins
+30.5
+Claude Kendall
+606
+Matt Jordan
+15
+Chris LaFleur
+30.5
+Ken Leslie
+72.5
+Troy Leslie
+48
+Joe Marshall
+30.5
+Blain McCallum
+30.5
+Dave McCormick
+151.5
+John McElroy
+606
+Colin MacPherson
+15
+Dan MacNeil
+60.5
+Ed Malm
+30.5
+Glenn Schultz
+30.5
+Dave Shubert
+30.5
+Kim Tolchard
+30.5
+Greg Venus
+91
+Hazel Yates
+30.5
+Darrell Wolter
+15
+Karl Beagrie
+303
+Darcy Ramsay
+303
+Scott Davis
+303
+Total
+5000
+[28] Counsel for the Appellants stated that the proceeds from the sale of the 5% of the Canfish shares were paid to an entity called “SKD Holdings Inc.”. Cheques were then issued to the various shareholders per the allocation as shown in Exhibit A-9.
+[29] Mr. Ken Mullen testified as a witness and confirmed the testimony of Mr. Scott Davis.
+[30] I must now review the evidence and jurisprudence to determine whether a Trust existed in this situation.
+[31] Counsel for the Appellants referred to the text by Professor Donovan Waters – The Law of Trusts in Canada, Chapter 5. Counsel for the Appellants quoted from page 107:
+For a trust to come into existence, it must have three essential characteristics. As Lord Langdale M.R. remarked in Knight v. Knight, in words adopted by Barker J. in Renehan v. Malone and considered fundamental in common law Canada, first, the language of the alleged settlor must be imperative; second, the subject matter or trust property must be certain; third, the objects of the trust must be certain. This means that the alleged settlor, whether he is giving the property on the terms of a trust or is transferring property on trust in exchange for consideration, must employ language which clearly shows his intention that the recipient should hold on trust. No trust exists if the recipient is to take absolutely, but he is merely put under a moral obligation as to what is to be done with the property. If such imperative language exists, it must, secondly, be shown that the settlor has so clearly described the property which is to be subject to the trust that it can be definitively ascertained. Third, the objects of the trust must be equally clearly delineated. There must be no uncertainty as to whether a person is, in fact, a beneficiary. If any one of these three certainties does not exist, the trust fails to come into existence or, to put it differently, is void.
+I. Certainty of Intention to Create a Trust
+[32] Counsel for the Appellants referred to the characteristics specified to by Professor Waters and said:
+Dealing with the first certainty, certainty of intention, simply put, this means there has to be some evidence a settlor had in mind to give another person the benefit of some property that is owned by the settlor.
+[33] Counsel for the Appellants again quoted from the text by Professor Waters at page 108:
+There is no need for any technical words or expressions for the creation of a trust.
+[34] Counsel for the Appellants noted that the evidence indicates that there was an intention that a certain percentage of the shares of Canfish were to benefit Canfish employees. Counsel for the Appellants said that the intention to hold the shares for Canfish employees is satisfied by the evidence which established that each principal took the position that they were holding 5% of the shares in Trust for employees or future employees.
+[35] Counsel for the Appellants also noted that further evidence of the intention to create a trust is the Trust Declaration (Exhibit A-2).
+II. The Subject Matter of the Trust Property must be Certain
+[36] Counsel for the Appellants said that the subject matter of the Trust property was 5% of the issued and outstanding shares of Canfish.
+[37] Counsel for the Appellants also noted that the fact that the amount paid for the 5% of Canfish shares flowed through SKD Holdings is an indication that there was Certainty of Property concerning the Canfish employees.
+III. Certainty of Objects
+[38] Counsel for the Appellants said that the “Certainty of Objects” is to be regarded to mean certainty as to who is a beneficiary of the Trust.
+[39] Counsel for the Appellants said that the “objects” of the Trust have to be either existing employees of Canfish or may include former employees of Canfish.
+[40] Counsel for the Appellants said that “it is sufficient to name a class or category of persons as beneficiaries, as long as it is possible to ascertain that a particular person is a member of the class” (Transcript p. 49).
+[41] Counsel for the Appellants said that in this situation it is sufficient that the Trust was established for the benefit of employees of Canfish, i.e. an ascertainable class.
+[42] Counsel for the Appellants admitted that while Davis, Beagrie and Ramsay looked at all of the employees of Canfish (or former employees) and only selected some, this does not change the situation from the point of view of the trust law.
+[43] Counsel for the Respondent said that the Crown’s position is that there was not a valid Trust.
+[44] Counsel for the Respondent agreed with counsel for the Appellants on the three “Certainties”. However, counsel for the Respondent maintains that when we consider clause 1 of the Trust Declaration, the description of the beneficiaries of the Trust is too vague to meet the test of certainty.
+[45] Counsel for the Respondent maintains that the cash and the NQL shares were received by the Canfish employees because of their employment with Canfish. Counsel for the Respondent said that the cash and the value of the NQL shares are taxable as a benefit under paragraph 6(1)(a) of the Act.
+A. Creation of a Trust
+[46] Both parties agree that three certainties must exist for a trust to be established.
+[47] Counsel for the Respondent argued that there was an additional requirement for the effective creation of a trust that being the “constitution of the trust” which is the title transfer of property to the trustees. According to counsel for the Respondent, without this transfer of property a trust would simply be declared but not created.[1]
+[48] The certainty of intention to create a Trust was spelled out in Exhibit A-1 which established that from the onset of the creation of Canfish, shares were to be held in Trust for the employees of the company. This intention was further evidenced by the execution of a Trust Declaration in favour of the future Canfish employees (Exhibit A-2). Collectively, these documents and the testimony of Mr. Davis and Mr. Mullen support the certainty that the founders of Canfish intended to establish a Trust on behalf of the Canfish employees.
+[49] In the present appeal, the certainty of subject matter is achieved through a review of the Trust Declaration (Exhibit A-2), which states that 5% of the shareholdings of Canfish would be held in Trust. Although a specific number of shares were not provided in the Trust Declaration it is the discretionary power given to the trustees that prevents this certainty from failing.[2]
+[50] The certainty of objects requires that the beneficiaries of the trust are described in clear terms such that the trustees can perform their duties when distributing property of the trust.
+[51] In the context of a discretionary trust there is no need to individually identify all of the members of the group. However, this certainty will fail if “the definition of beneficiaries is so hopelessly wide as not to form ‘anything like a class’, so that the trust is administratively unworkable”.[3]
+[52] In the present appeal a discretionary Trust was established and the beneficiaries of the Trust were referred to as the employee pool of Canfish, i.e. an identifiable group easily ascertained.
+[53] As discussed above, constitution of a trust occurs when there is a transfer of property to the trustee after a declaration has been prepared. This particular requirement for the creation of trust is contained in section 1260 of the Civil Code of Québec[4] and as such would have no application in the present appeal.[5]
+[54] Since the three certainties have been established by the Appellants and the constitution of the Trust has application only in a civil law context, I have concluded that a Trust was legally established to hold a 5% share interest in Canfish, on behalf of Canfish employees.
+B. Taxation of Proceeds – Disposition of the Canfish Shares
+[55] Due to the establishment of the Trust, the Appellants would be regarded as shareholders of Canfish and as such would not be subject to the application of paragraph 6(1)(a) of the Act, which deals with the taxation of employment benefits.
+[56] Additionally, section 7 and consequently paragraph 110(1)(d.1) of the Act would have no application in the present appeal, as this was not a circumstance in which there was a stock option agreement in place for shares to be purchased by or issued to employees.
+[57] Although the Appellants could not avail themselves of section 7 or paragraph 110(1)(d.1) of the Act, they should be able to benefit from the application of section 110.6 of the Act, to the extent that their $500,000 deduction is still available.
+[58] Section 110.6 of the Act provides a lifetime $500,000 exemption for capital gains realized on the disposition of qualified small business corporation shares. Since both parties have agreed that the shares of Canfish were qualified small business corporation shares, the lifetime exemption should be applicable to the Appellants.
+C. Timing of Income Inclusion – NQL Shares
+[59] Counsel for the Appellants argued that the Minister erred in including the value of the NQL shares as partial consideration for the sale of his Canfish shares, when full title of the shares was not received until several years following the sale.
+[60] Neither party argued this issue before the Court. Furthermore there was no evidence or argument provided to the Court with respect to the value of the NQL shares.
+[61] In my opinion, the Minister correctly included the value of the NQL shares as partial consideration, since this amount was receivable by the Appellants.
+[62] The appeals are allowed, with costs, and the Appellants are considered to have realized a capital gain when they received net proceeds from the Trust due to the sale of the Canfish shares. As noted above, whether each of the Appellants may claim a lifetime capital gain exemption with respect to the shares will depend on whether the Appellant has already claimed his or her lifetime capital gain exemption.
+Signed at Vancouver, British Columbia, this 16th day of January 2008.
+“L.M. Little”
+Little J.
+CITATION: 2008TCC31
+COURT FILE NO’S.: 2005-2287(IT)G, 2005-2285(IT)G,
+2005-2286(IT)G, 2005-2288(IT)G,
+2005-2289(IT)G, 2005-2290(IT)G,
+2005-2291(IT)G, 2005-2292(IT)G,
+2005-2294(IT)I, 2005-2295(IT)I,
+2005-2296(IT)I, 2005-2297(IT)I,
+2005-2298(IT)I, 2005-2299(IT)I,
+2005-2305(IT)I, 2005-2306(IT)I,
+2005-2307(IT)I, 2005-2310(IT)I,
+2005-2311(IT)I, 2005-2312(IT)I,
+2005-2313(IT)I.
+STYLE OF CAUSE: Scott Davis, Karl J. Beagrie,
+Thomas A. Curtis, Richard Gronvall,
+Austin L. Hearn, Claude Kendall,
+John McElroy, Darcy S. Ramsay,
+Darrell Wolter, Gregory B. Venus,
+Douglas K. Tolchard, Dave McCormick,
+Blain McCallum, Colin MacPherson,
+Daniel R. MacNeil, Kenneth Leslie,
+Bill G. Jenkins, Doug Hunter,
+Arthur L. Holmwood, Harold Fitz,
+Brad G. Boles and Her Majesty the Queen
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: September 20, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: January 16, 2008
+APPEARANCES:
+Counsel for the Appellants:
+Gordon D. Beck
+Counsel for the Respondent:
+Margaret A. Irving
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Gordon D. Beck
+Firm: MacPherson Leslie & Tyerman LLP,
+Edmonton, Alberta
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Hon. Eileen E. Gillese & Martha Milczynski, Essential of Canadian Law: The Law of Trusts, 2nd ed. (Toronto: Irwin Law Inc., 2005) at 39.
+[2] Ibid at 41.
+[3] Supra note 2 at 43.
+[4] (L.Q., 1991, c. 64).
+[5] Michael N. Kandev & Fred Purkey, “Practical Application of Trusts,” Reports of Proceedings of Fifty-Sixth Tax Conference, 2004 Tax Conference (Toronto: Canadian Tax Foundation, 2005) at p. 5 and 6.

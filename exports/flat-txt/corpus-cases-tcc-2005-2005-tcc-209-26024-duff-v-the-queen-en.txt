@@ -1,0 +1,102 @@
+Title: Duff v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26024/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-209-26024-duff-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-03-29
+
+# Duff v. The Queen
+
+- Citation: 2005 TCC 209
+- Decision date: 2005-03-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4084, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duff v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-29
+Neutral citation
+2005 TCC 209
+File numbers
+2004-272(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC209
+Date: 20050329
+Docket: 2004-272(IT)I,
+BETWEEN:
+BARRY DUFF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+For the Appellant: The Appellant himself
+Counsel for the Respondent: John-Paul Hargrove
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Edmonton, Alberta, on June 7, 2004)
+Miller J.
+[1] This is an informal procedure appeal in which Mr. Barry Duff seeks to obtain an overseas employment tax credit (OETC), which was denied by Canada Revenue Agency (CRA), for the 2000 taxation year. This is an unfortunate situation where an individual performs support work for the federal government in Bosnia under representations from an employer that he would be entitled to a tax break, but does not as it turns out qualify for such a break.
+[2] Mr. Duff accepted a job opportunity with ATCO Frontec to provide logistical support to Canadian troops in Bosnia in 2000 and 2001. Mr. Duff had a military background and was consequently a very suitable candidate. The federal government, according to Mr. Duff, was supplying troops to Bosnia under its commitment to NATO. Mr. Duff's work included ensuring supplies got from the main Canadian camp to other Canadian camps throughout the country. He testified that his contract with ATCO Frontec stipulated his remuneration would be $50,000 a year, tax exempt. When he received his first pay, it was clear tax was deducted. This was confirmed when he filed his 2000 tax return. His wife contacted CRA and was advised that a T1 Adjustment Request could be made; the Duff's did this, and in September 2001 were granted the OETC by CRA for the 2000 taxation year.
+[3] In 2001, ATCO Frontec advised Mr. Duff they were working with CRA to obtain a blanket tax credit which they did not get, for two years later, in September 2003, Mr. Duff was reassessed denying the OETC for 2000 and charging almost two thousand dollars of interest. That is the assessment Mr. Duff is appealing from.
+[4] The OETC is found in subsection 122.3(1). I will not read all of it, but I will read parts of it.
+122.3(1) If an individual is resident in Canada in a taxation year and, throughout any period of more than six consecutive months ...
+(a) was employed by a person who was a specified employer, ... and
+(b) performed all or substantially all the duties of the individual's employment outside Canada:
+(i) in connection with a contract under which the specified employer carried on business outside Canada with respect to;
+(A) the exploration for ... petroleum, ...
+(B) any construction, installation, agricultural or engineering activity, or
+(C) any prescribed activity ...
+there may be deducted...
+And then it goes on to quantify how the credit works. Prescribed activity is found in Regulation 6000 which says simply, for the purpose of the clause I just read:
+... a prescribed activity is an activity performed under contract with the United Nations.
+[5] There was no evidence that this work was in connection with a contract with the United Nations. Also, there was no evidence this work involved construction, installation, agricultural or engineering activity. There was no argument as to what installation might entail, and it is not for me to guess whether any ATCO Frontec work might have fallen under the generic category of installation. From the description offered by Mr. Duff, I see no opening for a finding that the work could fall under the category of installation. I limit those comments to this particular case however.
+[6] Mr. Duff's circumstances simply do not qualify him for the OETC. One might imagine that work under the auspices of NATO could be considered similar to work under the auspices of the United Nations, yet it is not my role, to make a legislative change. I cannot read into a very clear regulation that refers only to the UN, some implication that that must also mean NATO. It does not and I cannot bend the law. I cannot write legislation. I simply have to do my best to interpret it. You just do not qualify for the credit under the current language of the Act.
+[7] There are two disturbing concerns in this matter: first, Mr. Duff appears to have been misled by his employer. He did not receive his $50,000 tax free, but that is not an issue for this Court and it is not an issue for CRA; it is an issue between Mr. Duff and ATCO Frontec. Mr. Duff, you will have to consider where you want to go with that.
+[8] The second concern is that CRA allowed this credit for two years, then reassessed and denied it, which, as I have found, I believe is a correct interpretation of the law based on the facts that I have heard. They then charge Mr. Duff interest on the denied credit. This Court deals with your tax liability; whether you do or you do not owe tax. Interest simply follows automatically and I do not have authority to change that. Mr. Hargrove has pointed out subsection 220(3.1), which is a provision that gives the Minister the discretion to waive interest. I cannot tell the Minister to do that. But nothing prevents me from expressing an opinion that I cannot imagine a more appropriate situation where waiving interest would be the right thing to do.
+[9] Canada is known for committing to assist countries such as Bosnia, ravaged by tragedy of war. Men such as Mr. Duff are essential to Canada being capable of fulfilling their obligations. To be treated both by an employer and then by the Government for whom he is providing this valuable service in such a fashion is to Mr. Duff, I am sure, an outrage. I can only begin to imagine how he must feel, having done absolutely nothing wrong in this situation.
+[10] Mr. Duff, I know you approach any more dealings with CRA with some apprehension, but I do encourage you to submit your request for the waiver of interest. ATCO Frontec made a commitment they presumably believed they could keep, but they could not. CRA allowed a credit but after two years, during which I can only presume that ATCO Frontec and CRA were trying to sort this out, CRA determined the credit was not available. Mr. Duff was the unfortunate pawn in this game.
+[11] I wish you well in obtaining the waiver, but with regret, I must dismiss your appeal.
+Signed at Ottawa, Canada, this 29th day of March, 2005.
+"CampbellJ. Miller"
+Miller J.
+CITATION:
+2005TCC209
+COURT FILE NO.:
+2004-272(IT)I
+STYLE OF CAUSE:
+Barry Duff and Her Majesty the Queen
+PLACE OF HEARING
+Edmonton, Alberta
+DATE OF HEARING
+June 7, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Campbell J. Miller
+DATE OF JUDGMENT:
+June 28, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John-Paul Haragrove
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

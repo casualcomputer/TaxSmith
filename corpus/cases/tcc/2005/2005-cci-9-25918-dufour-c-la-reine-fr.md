@@ -1,0 +1,154 @@
+---
+title: "Dufour c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25918/index.do"
+last_modified: "2005-01-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 9"
+citation2: ""
+neutral_citation: "2005 CCI 9"
+decision_date: "2005-01-11"
+language: "fr"
+item_id: "25918"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3716
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:23:18.727000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8186040ec9d38defd91af950b2c7bb4e7acd148e4c1aa4629914efff274ad971"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dufour c. La Reine
+
+- Citation: 2005 CCI 9
+- Decision date: 2005-01-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3716, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dufour c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-11
+Référence neutre
+2005 CCI 9
+Numéro de dossier
+2004-1201(GST)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-1201(GST)I
+ENTRE :
+JEAN-PIERRE DUFOUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 8 décembre 2004, à Québec (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocate de l'appelant :
+Me Stéphanie Morasse
+Avocat de l'intimée :
+Me Philippe Morin
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 5 février 2003, porte le numéro PQ-2003-6608 et couvre la période du 1er novembre 1999 au 31 janvier 2000, est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de janvier 2005.
+« Paul Bédard »
+Juge Bédard
+Référence : 2005CCI9
+Date : 20050111
+Dossier : 2004-1201(GST)I
+ENTRE :
+JEAN-PIERRE DUFOUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L'appelant était le seul administrateur de la compagnie 9070-2119 Québec Inc. (la « compagnie » ) lorsqu'elle a fait défaut de verser des montants de taxe sur les produits et services (T.P.S.) qu'elle avait perçus, contrevenant ainsi aux dispositions de la Loi sur la taxe d'accise (la « Loi » ). N'ayant pu récupérer ces montants de T.P.S. auprès de la compagnie, le ministre du Revenu national (le « ministre » ) a tenu solidairement responsable l'appelant en vertu du paragraphe 323(1) de la Loi pour ces montants de T.P.S. non versés par la compagnie et a ainsi établi à l'égard de l'appelant une cotisation en date du 5 février 2003 (la « cotisation » ). L'appelant interjette appel de la cotisation ainsi établie à son égard pour les motifs suivants :
+i) premièrement, il a soutenu que la cotisation avait été établie à son égard plus de deux ans après qu'il a cessé d'être administrateur et qu'ainsi le ministre n'était pas en droit, en vertu du paragraphe 323(5) de la Loi, d'établir la cotisation;
+ii) deuxièmement, il a prétendu qu'il avait obtenu le 12 septembre 2000 du sous-ministre du Revenu du Québec une quittance finale, notamment à l'égard de tout montant de T.P.S. perçu et non versé dans le cadre de l'exploitation du restaurant par la compagnie;
+iii) finalement, il a soumis qu'il avait agi en l'espèce avec diligence raisonnable et qu'ainsi il ne pouvait être tenu solidairement responsable de la dette fiscale de la compagnie.
+Analyse
+[2] La preuve a révélé :
+i) que la compagnie avait exploité un restaurant du 5 novembre 1998 jusqu'au 20 janvier 2000;
+ii) que la compagnie avait été constituée le 5 novembre 1998 en vertu de la Loi sur les compagnies (partie IA) et radiée le 4 mai 2001;
+iii) que l'appelant avait été le seul actionnaire de la compagnie pendant l'existence de cette dernière;
+iv) que l'appelant avait été le seul administrateur de la compagnie depuis sa constitution jusqu'à la date de sa démission, soit le 20 août 2001;
+v) pendant la période où la compagnie avait exploité le restaurant, l'appelant occupait un emploi à temps plein à titre de directeur des ventes pour la chaîne d'alimentation Métro. Toutefois, pendant cette période, l'appelant s'était présenté régulièrement au restaurant afin d'y effectuer une supervision générale. En effet, tous les jours de la semaine l'appelant était présent au restaurant, soit le matin, de 7 h à 8 h 30, et sur l'heure du midi. De plus, il travaillait au restaurant toutes les fins de semaine. Enfin, il s'informait quotidiennement de la situation financière de la compagnie;
+vi) que, pendant cette période, la compagnie employait douze personnes dont un gérant de service et le fils de l'appelant qui avait agi à titre de gérant de la cuisine. La conjointe de l'appelant faisait la tenue de livres pour la compagnie (fermeture de la caisse, écritures manuelles et rapports de taxe). Monsieur Serge Lavoie, CGA, préparait les états financiers et les états de résultats mensuels de la compagnie;
+vii) que, pour la période du 1er mai 1999 au 31 juillet 1999, et pour la période du 1er août 1999 au 31 octobre 1999, la compagnie avait produit à temps les déclarations requises par la Loi, mais n'avait pas versé tous les montants de T.P.S. perçus;
+viii) que le 3 avril 2000, un certificat (pièce I-2) (portant le numéro GST-1178-00) avait été enregistré à la Cour fédérale à l'égard de la compagnie pour un montant de 12 090,69 $ représentant les montants de T.P.S. (incluant les intérêts et pénalités) perçus et non versés par cette dernière pour ces deux périodes; à cette date, les dettes fiscales de la compagnie (incluant les sommes dues en vertu de la Loi et en vertu de la Loi sur la taxe de vente du Québec) représentaient une somme d'environ 28 000 $. Les autorités fiscales avaient donc saisi le compte de banque de la compagnie et ses équipements. La totalité de la dette fiscale de 28 000 $ (incluant le montant de 12 090,69 $) avait été acquittée par la compagnie le 12 septembre 2000 et cette dernière avait obtenu une quittance à cet égard. Il convient de souligner que l'appelant avait dû verser aux autorités fiscales une somme de 12 519,85 $ à même ses propres deniers pour que cette dette de 28 000 $ soit entièrement acquittée;
+ix) que, pour la période du 1er novembre 1999 au 31 janvier 2000, la compagnie n'avait produit la déclaration exigée par la Loi que le 10 novembre 2000, alors qu'elle aurait dû être produite au plus tard le 28 février 2000. Cette déclaration faisait état d'une somme de 3 315,52 $ de T.P.S. perçue et non versée. Le 30 mai 2001, un certificat portant le numéro GST-2508-01 avait été enregistré à la Cour fédérale à l'égard de la compagnie pour un montant de 3 815,70 $ et le 8 mars 2002 un bref de saisie avait été retourné portant la mention inexécuté. Le ministre a donc tenu l'appelant solidairement responsable des sommes dues par la compagnie en vertu de la Loi pour la période du 1er novembre 1999 au 31 janvier 2000 et a ainsi établi à l'égard de l'appelant la cotisation du 5 février 2003.
+Analyse et décision
+Prescription
+[3] Je rappelle que l'avocate de l'appelant a soutenu que la cotisation du 5 février 2003 avait été établie plus de deux ans après que l'appelant avait cessé d'être administrateur de la compagnie et qu'ainsi le ministre du Revenu national n'était pas en droit en vertu du paragraphe 323(5) de la Loi d'établir une telle cotisation. Elle a prétendu à cet égard que l'appelant n'avait plus agi dans les faits à titre d'administrateur de la compagnie à partir du moment où la compagnie avait cessé toute activité commerciale, soit le 20 janvier 2000, et qu'ainsi l'appelant ne pouvait plus être considéré comme administrateur à partir de cette date aux fins de la Loi.
+[4] À mon avis, on ne cesse pas d'être administrateur d'une compagnie à partir du moment où cette dernière cesse toute activité commerciale. Je suis d'avis qu'il faut se référer aux dispositions de la Loi sur les compagnies pour déterminer le moment où une personne cesse d'être administrateur. À cet égard, l'article 123.76 de cette loi prévoit que, malgré l'expiration de son mandat, un administrateur demeure en fonction jusqu'à ce qu'il soit réélu, remplacé ou destitué. Il faut résigner ses fonctions en donnant un avis à cet effet. En l'espèce, la preuve a établi clairement que l'appelant avait été tout au moins administrateur de la compagnie jusqu'à la date de sa démission, soit le 20 août 2001. D'ailleurs, l'appelant n'avait-il pas signé le 12 septembre 2000 à titre d'administrateur de la compagnie l'acte de vente par lequel cette dernière vendait ses équipements et, le 2 novembre 2000, l'acte de vente par lequel elle vendait son immeuble, soit après la date de cessation des activités commerciales de la compagnie?
+Quittance
+[5] Je rappelle que l'avocate de l'appelant a soutenu que la compagnie avait obtenu le 12 septembre 2000 une quittance finale du sous-ministre du Revenu du Québec à l'égard de tout montant de T.P.S. dû dans le cadre de l'exploitation du restaurant. La preuve de l'appelant, à cet égard, reposait uniquement sur son témoignage. Selon l'appelant, le 12 septembre 2000, il avait été convenu avec monsieur Michel Bédard, agent de recouvrement du ministre du Revenu du Québec, qu'en contrepartie du paiement par la compagnie de la somme de 28 000 $ (dont 12 519,85 $ provenaient des deniers de l'appelant), cette dernière avait obtenu une quittance finale à l'égard de toutes ses dettes fiscales liées à l'exploitation du restaurant.
+[6] Le témoignage de l'appelant à cet égard ne m'a tout simplement pas convaincu, et ce, pour les motifs suivants :
+i) monsieur Bédard a nié les assertions de l'appelant à cet égard;
+ii) la preuve documentaire semble plutôt appuyer le témoignage de monsieur Bédard. En effet, la quittance du 12 septembre 2000 (pièce A-2) ne visait que les montants de T.P.S., donc 12 090,69 $, aux termes du certificat (pièce I-2) enregistré au greffe de la Cour fédérale le 3 avril 2000 dans le dossier portant le numéro GST-1178-00. Le certificat ne visait que les montants de TPS dus par la compagnie pour la période du 1er mai au 31 juillet 1999 et pour la période du 1er août au 31 octobre 1999. De plus, il convient de souligner que, le 12 septembre 2000, les autorités fiscales ne connaissaient pas encore les montants de T.P.S. dus par la compagnie pour la période du 1er novembre 1999 au 20 janvier 2000 (date de cessation des activités du restaurant). En effet, la déclaration exigée par la Loi n'a été produite par la compagnie que le 10 novembre 2001. Il serait fort surprenant que les autorités fiscales aient donné une quittance finale sur des sommes qui leur étaient dues et dont elles ignoraient l'existence.
+Diligence raisonnable
+[7] Enfin, l'avocate de l'appelant a soutenu que l'appelant avait agi en l'espèce avec diligence raisonnable et qu'ainsi il ne pouvait être tenu responsable des dettes fiscales de la compagnie. À cet égard, elle a soutenu, en s'appuyant sur les conclusions de l'affaire Soper c. Canada, [1998] 1 C.F. 124 (C.A.F.), que pour satisfaire à l'exigence de diligence raisonnable un administrateur peut prendre des mesures en établissant des contrôles. En l'espèce, elle a souligné que l'appelant avait mis en place des contrôles : la conjointe de l'appelant s'occupait de produire les déclarations de T.P.S. exigées par la Loi, déclarations qui étaient vérifiées par monsieur Lavoie, le vérificateur externe. Elle a ajouté que ces déclarations avaient d'ailleurs été produites à temps. Il convient d'abord de rappeler que le juge Robertson a conclu dans l'affaire Soper que, pour satisfaire à l'exigence de diligence raisonnable, un administrateur ne doit pas seulement prendre des mesures en établissant des contrôles pour vérifier les versements mais demander aux agents financiers de la compagnie de présenter régulièrement des rapports sur la mise en oeuvre des contrôles et obtenir régulièrement la confirmation que les retenues et les versements ont été faits comme l'exige la Loi.
+[8] En l'espèce, l'appelant était le seul administrateur de la compagnie. La preuve a établi clairement qu'il connaissait parfaitement la situation financière de la compagnie et ce, à tout moment, qu'il savait donc que la compagnie avait produit à temps les déclarations exigées par la Loi pour la période du 1er mai au 31 juillet 1999 et pour la période du 1er août au 31 octobre 1999, mais qu'il savait aussi que la compagnie était en défaut de verser à temps les montants de T.P.S. perçus pour ces deux périodes. Que la compagnie ait finalement payé le 12 septembre 2000 les montants qu'elle devait n'est tout simplement pas pertinent en l'espèce. Je ne peux accepter que l'appelant qui, à mon avis, connaissait en tout temps la situation financière de la compagnie, ne savait pas que la déclaration exigée par la Loi pour la période du 1er novembre 1999 au 31 janvier 2000 n'avait pas été produite à temps et que la T.P.S. perçue pendant cette période n'avait pas été remise. Rien ne me permet de conclure que la conjointe de l'appelant et monsieur Lavoie avaient induit en erreur l'appelant sur l'état des versements pour cette période. L'appelant connaissait les difficultés financières de la compagnie et l'état des versements de T.P.S. Il avait en main à tous les mois un état des résultats de la compagnie. Il se devait donc de faire en sorte que la T.P.S. perçue soit versée, et ce, nonobstant les difficultés financières de la compagnie. Il avait en l'espèce une obligation de résultat. Je suis d'avis que, dans les circonstances, l'appelant ne pouvait à bon droit invoquer la défense de diligence raisonnable prévue au paragraphe 323(3) de la Loi.
+[9] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 11e jour de janvier 2005.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2005CCI9
+No DU DOSSIER DE LA COUR :
+2004-1201(GST)I
+INTITULÉ DE LA CAUSE :
+Jean-Pierre Dufour et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 8 décembre 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 11 janvier 2005
+COMPARUTIONS :
+Pour l'appelant :
+Me Stéphanie Morasse
+Pour l'intimée :
+Me Philippe Morin
+AVOCATE INSCRITE AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Louis Sirois
+Étude :
+Barbeau et Associés
+Québec (Québec)
+Pour l'intimée :
+John H. Sims
+Sous-procureur général du Canada
+Ottawa, Canada

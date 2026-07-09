@@ -1,0 +1,124 @@
+Title: Yakimishyn v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26887/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-255-26887-yakimishyn-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-04-14
+
+# Yakimishyn v. The Queen
+
+- Citation: 2003 TCC 255
+- Decision date: 2003-04-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 759, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yakimishyn v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-14
+Neutral citation
+2003 TCC 255
+File numbers
+2001-3459(GST)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2001-3459(GST)I
+BETWEEN:
+FRED YAKIMISHYN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 30, 2002, at Hamilton, Ontario, and
+on January 29 and 31, 2003, at Toronto, Ontario,
+Before: The Honourable Judge C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Catherine Letellier de St-Just
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of goods and services tax made under subsection 323(1) of the Excise Tax Act, notice of which is dated March 25, 1999 and bears number 56064 is dismissed.
+Signed at Ottawa, Canada, this 14th day of April, 2003.
+"C.H. McArthur"
+J.T.C.C.
+Citation: 2003TCC255
+Date: 20030414
+Docket: 2001-3459(GST)I
+BETWEEN:
+FRED YAKIMISHYN,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] The Minister of National Revenue assessed the Appellant pursuant to subsection 323(1) of the Excise Tax Act for the failure by Lualco Ltd. (the "Corporation") to remit goods and services tax of $69,533.67 together with penalties and interest of $3,375.53 and $3,592.53, respectively. The Appellant chose to proceed under the informal procedure of this Court clearly understanding the monetary limitation by doing so.
+[2] The hearing of this appeal commenced on May 30, 2002. Being concerned that the Appellant was misunderstanding the issue, I adjourned the hearing to permit him to obtain legal assistance and to have his appeal heard immediately after the appeal of Luigi Domenico Marzetti, court file no. 2001-3502(GST)G. Mr. Marzetti's appeal was under the general procedure, but Mr. Yakimishyn chose to proceed under the informal procedure. A Consent to Judgment was filed in the Marzetti appeal and on January 27, 2003.
+[3] The Appellant requested a further adjournment to obtain legal counsel. Because he had from June 2002 to do so, his adjournment request was denied. He was prepared to proceed on his own on January 29, 2003. He had explained earlier that he had bad experiences with lawyers in the past. The hearing proceeded.
+[4] The Appellant has a grade 11 education and worked as a foreman in the construction industry for many years prior to 1981. In 1981, he became a shareholder and director of the Corporation and by 1985, he owned 50% of the issued shares and Mr. Marzetti owned the remaining 50%. The Corporation was in the business of supplying steel and setting up or modifying equipment in plants. It commenced construction of its own plant in Brampton, Ontario in 1988 and suffered serious cost overruns.
+[5] In late 1989, the Corporation began to be late in remittances to Revenue Canada. The situation worsened with the economic slowdown in the early 1990s. It appears that the Corporation had GST remittance problems from the conception of the legislation in 1990. The Corporation's cash flow problems increased in 1991 and 1992. Mr. White, a chartered accountant, was retained by the Corporation on a fulltime basis as a comptroller.
+[6] Through 1992, GST collection officers pressed the Corporation to pay up outstanding arrears. The Appellant and Mr. Marzetti persevered with the Corporation with the conviction that it eventually would recover financially. In the meantime, it was using non-remitted GST funds to help support its operation. During the period in question (June 30, 1992 to June 30, 1993), the Appellant and Mr. Marzetti each continued to withdraw $1,600 weekly for their personal use.
+[7] Mr. White testified on behalf of the Respondent. As a result of the collection efforts by Revenue Canada representatives, he wrote a Corporation cheque to Revenue Canada in the amount of $60,000 in late December 1992 which he gave to the Appellant and Mr. Marzetti for their signatures. He stated the cheque was never returned to him by the Appellant. The Appellant could not recall the incident but indicated that such a cheque would have been returned "NSF". Mr. White indicated that he was monitoring the bank account daily and there was a time or there were times when the cheque could have been honoured. It was the Appellant's decision in late 1992 and early in 1993 to use available corporate funds for other purposes. Mr. Marzetti's responsibilities were outside the office. The Appellant was more responsible for administration and financial affairs of the Corporation.
+[8] In his evidence, the Appellant dwelt primarily on the efforts he took in 1993 after he lost control of the Corporation. It was this focus that concerned me during the May 30th commencement of the hearing of this appeal. The Appellant asked me to have Exhibit A-3 (a bundle of documents) filed in evidence in that it set out the relevant facts and his due diligence efforts. The events and facts set out therein took place in 1993 yet 90% of the amount claimed was for amounts not remitted in 1992.
+[9] I found the Appellant to be an honest witness. He admitted that he was aware of the non-remittance of GST. He stated that they were juggling payments, struggling to keep afloat. The employee payroll was their priority. In 1990, the bank stopped their line of credit. The Appellant obviously went through very difficult times in 1992 and 1993. Reference again is made to Exhibit A-3 where the Appellant describes in detail the business difficulties in 1993. He acknowledges that he did receive telephone calls and letters from the Revenue Canada collection office. In March or April 1993, he visited the GST office requesting time to pay. I believe the Appellant feels his strongest argument is that the GST could have been fully paid had the following people exercised care or had been more reasonable in 1993 and 1994: Mr. Marzetti, CIBC, the Corporation's bank, A. Farbert & Associates, Receiver, and the Corporation's solicitor.
+Analysis
+[10] The Corporation had an obligation to remit GST pursuant to subsection 228(2) of the Excise Tax Act and it failed to remit $69,533 during the period June 1992 to June 1993. The Minister assessed the Appellant pursuant to subsection 323(1). The Appellant was a director of the Corporation throughout the relevant period. The Appellant's defence is that he complied with the provisions of subsection 323(3) which reads:
+323(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[11] I agree with counsel for the Respondent that the key word in the subsection is "prevent". To succeed, the Appellant had to demonstrate that he in fact complied with the requirements of the subsection. While the Appellant did not recall the incident, I accept Mr. White's evidence that he did prepare a $60,000 corporate cheque to Revenue Canada for Mr. Marzetti's and the Appellants' signature about December 31, 1992. This would have cleared the bulk of the Minister's claim. The Appellant chose not to pay the GST favouring to use available funds to pay more threatening creditors. It appeared obvious that the Appellant and Mr. White held a mutual respect for each other. Memory is often selective. The remembered past may not always coincide with the historical past. I accept Mr. White's version of the incident over that of the Appellant.
+[12] The decision in this case is primarily based on the facts. There is no doubt that the Appellant was an inside director. In this regard, I refer to Soper v. The Queen, 97 DTC 5407, where Justice Robertson of the Federal Court of Appeal, stated:
+... The standard of care laid down in subsection 227.1(3) of the Act is inherently flexible. Rather than treating directors as a homogeneous group of professionals whose conduct is governed by a single, unchanging standard, that provision embraces a subjective element which takes into account the personal knowledge and background of the director, as well as his or her corporate circumstances in the form of, inter alia, the company's organization, resources, customs and conduct. Thus, for example, more is expected of individuals with superior qualifications (e.g. experienced business-persons).
+The standard of care set out in subsection 227.1(3) of the Act is, therefore, not purely objective. Nor is it purely subjective. It is not enough for a director to say he or she did his or her best, for that is an invocation of the purely subjective standard. Equally clear is that honesty is not enough. However, the standard is not a professional one. Nor is it the negligence law standard that governs these cases. Rather, the Act contains both objective elements - embodied in the reasonable person language - and subjective elements - inherent in individual considerations like "skill" and the idea of "comparable circumstances". Accordingly, the standard can be properly described as "objective subjective".
+...
+At the outset, I wish to emphasize that in adopting this analytical approach I am not suggesting that liability is dependent simply upon whether a person is classified as an inside as opposed to an outside director. Rather, that characterization is simply the starting point of my analysis. At the same time, however, it is difficult to deny that inside directors, meaning those involved in the day-to-day management of the company and who influence the conduct of its business affairs, will have the most difficulty in establishing the due diligence defence. For such individuals, it will be a challenge to argue convincingly that, despite their daily role in corporate management, they lacked business acumen to the extent that that factor should overtake the assumption that they did know, or ought to have known, of both remittance requirements and any problem in this regard. In short, inside directors will face a significant hurdle when arguing that the subjective element of the standard of care should predominate over its objective aspect.
+[13] In Ruffov. M.N.R., 2000 CarswellNat 1570 (F.C.A.), the taxpayer was president, director and administrator for the corporation. The taxpayer financed the corporation partially by using statutory deductions withheld from employee salaries and not remitted to Revenue Canada. Justice Letourneau of the Federal Court of Appeal stated:
+The Appellant's duty as a director was to anticipate and prevent the failure to pay the sums owing and not to commit such failure or perpetuate it as he did from March 1992 on in the hope that at the end of the day the firm would again become profitable or there would be enough money, even if it were wound up, to pay all the creditors.
+While a director may, under subsection 227.1(3) of the Income Tax Act, be relieved of personal liability for unpaid deductions by showing that he acted with diligence, the Appellant has not, in the circumstances, demonstrated the requisite diligence.
+Subsection 227.1(3) of the Income Tax Act is identical to subsection 323(3) of the Excise Tax Act.
+[14] Similarly, in the present case, the Appellant allowed the failure to remit to continue and the amount increase with the hope that the Corporation's finances would improve. This is not prevention as required in the legislation. The GST funds collected by the Corporation should not have been used as operating capital. The Appellant retained the fulltime services of a competent chartered accountant yet did not take his advice when asked to sign a $60,000 cheque to CCRA.
+[15] I had originally intended rendering this decision orally on January 31, 2003. Upon reflection, I requested counsel for the Respondent to make submissions with respect to subsection 323(5) of the Act. It reads as follows:
+323(5) An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+The question to the Respondent was, did the Appellant cease to be a director of the corporation when he lost control, after it filed an assignment in bankruptcy on September 7, 1993. The assessment was made long after two years from the assignment. I accept the position of the Respondent that merely losing control of the corporation due to its filing for bankruptcy is insufficient. (See The Queen v. Kalef, 96 DTC 6132 (F.C.A.) and Drover v. Canada, [1997] T.C.J. No. 263.
+[16] The appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of April, 2003.
+"C.H. McArthur"
+J.T.C.C.
+CITATION:
+2003TCC255
+COURT FILE NO.:
+2001-3459(GST)I
+STYLE OF CAUSE:
+Fred Yakimishyn and Her Majesty the Queen
+PLACE OF HEARING:
+Hamilton and Toronto, Ontario
+DATE OF HEARING:
+May 30, 2002 and January 29 and 31, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge C.H. McArthur
+DATE OF JUDGMENT:
+Arpil 14, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Catherine Letellier de St-Just
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,200 @@
+---
+title: "Strong c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28389/index.do"
+last_modified: "2004-06-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 297"
+citation2: ""
+neutral_citation: "2004 CCI 297"
+decision_date: "2004-06-01"
+language: "fr"
+item_id: "28389"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1908
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:23:40.814000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8f1b8eb9b374da1098d8744e7ce685fddf826ed1aedf445301339b715929094c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Strong c. La Reine
+
+- Citation: 2004 CCI 297
+- Decision date: 2004-06-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1908, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Strong c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-01
+Référence neutre
+2004 CCI 297
+Numéro de dossier
+2003-2843(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2003-2843(IT)I
+ENTRE :
+MELVIN BRYAN STRONG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 19 janvier 2004, à Edmonton (Alberta)
+Par le juge C.H. McArthur
+COMPARUTIONS
+Pour l’appelant :
+Cheryl A. Gibson
+Pour l’intimée :
+Dawn Taylor
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1999 est accueilli avec dépens, et la cotisation est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que, dans le calcul de son revenu, l’appelant peut déduire une somme de 20 000 $ au titre de ses frais de déplacement en application de l’alinéa 8(1)h).
+Signé à Ottawa, Canada, ce 1er jour de juin 2004.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL.L.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2004CCI297
+Date : 20040601
+Dossier : 2003-2843(IT)I
+ENTRE :
+MELVIN BRYAN STRONG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge McArthur, C.C.I.
+[1] Une fois certaines questions préliminaires réglées, il restait à déterminer si l’appelant pouvait déduire une somme de 20 000 $[1] au titre des frais accessoires qu’il a engagés pour payer les repas et les boissons de tierces parties ainsi qu’un montant de 3 000 $ en frais de taxi. M. Strong était représentant syndical et se déplaçait principalement en Amérique du Nord; ses déplacements se sont effectués sur plus de 200 jours durant l’année d’imposition 1999.
+[2] L’appelant a touché une rémunération annuelle de 217 798 $, y compris une allocation de dépenses de 58 000 $. Son comptable a ajouté cette allocation au revenu d’emploi de M. Strong puisque l’employeur avait émis un feuillet T4 pour ce montant. L’appelant fait valoir que cette allocation devrait être exclue de son revenu parce qu’elle constituait, au sens des sous‑alinéas 6(1)b)(v) ou (vii) de la Loi de l’impôt sur le revenu, une « allocation raisonnable pour frais de déplacement ». Il prétend que l’allocation de 58 000 $ était raisonnable parce que ces frais étaient engagés dans l’exercice de son emploi et qu’ils lui étaient uniquement remboursés au moyen de cette allocation, laquelle visait à couvrir les frais remboursables liés à son emploi. Subsidiairement, il fait valoir que les frais sont déductibles en vertu de l’alinéa 8(1)h) de la Loi.
+[3] Selon l’intimée, l’allocation reçue de l’employeur ne peut être exclue du revenu de l’appelant par le jeu des sous‑alinéas 6(1)b)(v) ou (vii) de la Loi et, par conséquent, devrait être incluse dans ce revenu. Elle ajoute que l’appelant ne peut déduire des frais de repas, des frais de logement, des taxes d’aéroport, des frais de taxi, des frais de divertissement, des frais liés à des congrès et des dépenses de bureau excédant les sommes permises aux alinéas 8(1)h), h.1), i) et j) ainsi qu’aux paragraphes 8(4) et 8(13) de la Loi.
+[4] Subsidiairement, l’intimée soutient que l’appelant, n’étant pas rémunéré en totalité ou en partie en commissions ou autres rétributions semblables fixées par rapport au volume des ventes effectuées ou aux contrats négociés, ne peut déduire de frais en vertu de l’alinéa 8(1)f).
+[5] Les hypothèses de fait suivantes sont exactes :
+[TRADUCTION]
+18. En établissant une nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 1999, le ministre a posé les hypothèses de fait suivantes :
+a) durant l’année d’imposition 1999, l’appelant travaillait pour la United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry USA and Canada (l’« employeur »);
+b) l’employeur a versé à l’appelant une allocation hebdomadaire de 750 $ (l’« allocation »), ce qui représente un total pour l’année de 39 000 $ en dollars américains (58 000 $CAN);
+c) l’allocation a été incluse dans le revenu d’emploi de l’appelant qui figurait sur son feuillet T4;
+d) l’allocation a été versée pour couvrir tous les frais d’hôtel, de repas, de transport de surface, de divertissement, d’usage d’une automobile et autres;
+e) pour l’année d’imposition 1999, le revenu d’emploi que l’employeur a versé à l’appelant a totalisé 217 798,83 $CAN (y compris l’allocation);
+f) le lieu d’affaires de l’employeur était l’Amérique du Nord;
+g) l’appelant a été habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de l’employeur ou à différents endroits;
+h) selon son contrat d’emploi, l’appelant était tenu de régler ses propres dépenses;
+i) […]
+j) l’appelant avait les obligations suivantes :
+(i) louer un bureau en dehors du lieu d’affaires de l’employeur ou utiliser une partie de sa maison;
+(ii) verser un salaire à un remplaçant ou à un adjoint;
+(iii) payer les fournitures dont il se servait directement dans son travail;
+L’appelant a admis les points qui touchaient ses automobiles.
+[6] Juste avant le procès, j’ai autorisé l’avocate de l’appelant à modifier l’avis d’appel. Il s’agissait essentiellement d’une modification visant à mentionner les sous‑alinéas 6(1)b)(v) et (vii) de la Loi de l’impôt sur le revenu afin que l’appelant puisse invoquer le caractère raisonnable de l’allocation et faire valoir que celle‑ci ne devait pas être ajoutée à son revenu. L’intimée a été informée de l’avis d’appel modifié le vendredi précédant l’audience du lundi.
+[7] Étant donné que le paragraphe 5(1) des Règles de la Cour canadienne de l’impôt (procédure informelle) ne traite pas expressément des réponses modifiées, je me reporterai aux articles 54 et 57 des Règles de la Cour canadienne de l’impôt (procédure générale). L’article 54 est rédigé comme suit :
+54 Une partie peut modifier son acte de procédure, en tout temps avant la clôture des actes de procédure, et subséquemment en déposant le consentement de toutes les autres parties, ou avec l’autorisation de la Cour, et la Cour en accordant l’autorisation peut imposer les conditions qui lui paraissent appropriées.
+L’arrêt déterminant en ce qui a trait à l’octroi de l’autorisation de déposer une réponse modifiée a été rendu dans l’affaire The Queen v. Canderel Limited [2], où le juge Décary s’exprime comme suit à la page 5360 :
+[…] la règle générale est qu’une modification devrait être autorisée à tout stade de l’action aux fins de déterminer les véritables questions litigieuses entre les parties, pourvu, notamment, que cette autorisation ne cause pas d’injustice à l’autre partie que des dépens ne pourraient réparer, et qu’elle serve les intérêts de la justice.
+[8] Il n’y a aucune injustice ni préjudice pour l’intimée, et il est dans l’intérêt de la justice de trancher les véritables questions litigieuses entre les parties. Selon l’argument principal de l’appelant, l’allocation devrait être exclue de son revenu en vertu d’un des deux sous‑alinéas 6(1)b)(v) ou (vii) de la Loi. M. Strong soutient subsidiairement que ses frais accessoires sont déductibles en vertu de l’alinéa 8(1)h) de la Loi.
+[9] La modification de l’avis d’appel a été autorisée.
+[10] Voici les dispositions législatives applicables :
+6(1) Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d'une charge ou d’un emploi, ceux des éléments suivants qui sont applicables :
+a) [...]
+b) les sommes qu’il a reçues au cours de l’année à titre d’allocations pour frais personnels ou de subsistance ou à titre d’allocations à toute autre fin, sauf :
+(v) les allocations raisonnables pour frais de déplacement reçues de son employeur par un employé et afférentes à une période pendant laquelle son emploi était lié à la vente de biens ou à la négociation de contrats pour son employeur,
+[...]
+(vii) les allocations raisonnables pour frais de déplacement, à l’exception des allocations pour l’usage d’un véhicule à moteur, qu’un employé -- dont l’emploi n’est pas lié à la vente de biens ou à la négociation de contrats pour son employeur -- a reçues de son employeur pour voyager, dans l’accomplissement des fonctions de sa charge ou de son emploi,
+[…]
+pour l’application des sous‑alinéas (v), (vi) et (vii.1), une allocation reçue au cours de l’année par le contribuable pour l’usage d’un véhicule à moteur dans l’accomplissement des fonctions de sa charge ou de son emploi est réputée ne pas être raisonnable dans les cas suivants :
+[…]
+(x) l’usage du véhicule n’est pas, pour la fixation de l’allocation, uniquement évalué en fonction du nombre de kilomètres parcourus par celui‑ci dans l’accomplissement des fonctions de la charge ou de l’emploi,
+[…]
+L’alinéa 8(1)h) dispose notamment ce qui suit :
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+h) lorsque le contribuable, au cours de l’année, à la fois :
+(i) a été habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits,
+les sommes qu’il a dépensées pendant l’année (sauf les frais afférents à un véhicule à moteur) pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(iii) reçu une allocation pour frais de déplacement qui, par l’effet des sous‑alinéas 6(1)b)(v), (vi) ou (vii), n’est pas incluse dans le calcul de son revenu pour l’année,
+[...]
+Une limite générale est énoncée au paragraphe 8(2) :
+8(2) Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi.
+[11] Si l’allocation de 58 000 $ constitue un montant « raisonnable » au sens de l’alinéa 6(1)b) qui pouvait être remboursé à l’appelant au titre de ses frais remboursables en 1999, elle ne doit pas être incluse dans le calcul de son revenu imposable pour cette année d’imposition. Voilà la conclusion que préconise l’appelant. Pour les raisons qui suivent, je conclus qu’il ne s’agit pas d’un montant « raisonnable » au sens de l’alinéa 6(1)b), et que le ministre a dûment inclus l’allocation dans le revenu imposable de l’appelant. L’avocate de l’appelant a invoqué ensuite son autre argument et demandé que l’appelant soit autorisé à déduire une partie de ses dépenses en vertu de l’alinéa 8(1)h); j’aborderai cet argument plus loin.
+[12] D’après les sous‑alinéas 6(1)b)(v) et (vii), les allocations doivent être incluses dans le revenu à moins qu’elles constituent des montants « raisonnables » reçus par l’employé au titre de ses frais de déplacement relatifs à la vente de biens ou à la négociation de contrats pour l’employeur. L’appelant a établi qu’il négociait des contrats pour son employeur, de sorte que ce critère est rempli.
+[13] Comme l’a souligné l’intimée, le sous‑alinéa 6(1)b)(x) porte qu’une allocation relative à un véhicule automobile n’est pas raisonnable si « l'usage du véhicule n'est pas […] uniquement évalué en fonction du nombre de kilomètres parcourus par celui‑ci ». Or l’allocation versée à l’appelant par l’employeur couvrait tous les frais d’hôtel, de repas, de transport de surface, de divertissement, d’automobile et autres. Elle n’était pas ventilée expressément en fonction des diverses dépenses. L’allocation pour usage d’une automobile versée à l’appelant n’était pas uniquement fonction du kilométrage, car les frais relatifs à l’automobile étaient regroupés avec les frais d’hôtel, de repas, de transport de surface, de divertissement et autres. Il est dommage que la portion des frais afférents à l’usage d’une automobile n’ait pas été évaluée uniquement en fonction du nombre de kilomètres parcourus par l’appelant pour son emploi. Le sous‑alinéa 6(1)b)(x) énonce ce qui suit :
+(x) l’usage du véhicule n’est pas, pour la fixation de l’allocation, uniquement évalué en fonction du nombre de kilomètres parcourus par celui‑ci dans l’accomplissement des fonctions de la charge ou de l’emploi,
+Il ressort donc du sous‑alinéa 6(1)b)(x) que l’allocation de l’appelant n’est pas raisonnable. Je ne crois pas que l’avocate de l’appelant ait sérieusement contesté cette conclusion, car elle n’a pas réfuté l’argument de l’avocat de l’intimée quant au caractère « déraisonnable » du montant. L’article 6 vise à empêcher le versement d’allocations excessives qui pourraient donner lieu à des versements francs d’impôt sans qu’il y ait de dépenses correspondantes.
+[14] Je me pencherai maintenant sur l’argument avancé par l’appelant selon lequel les dépenses peuvent être déduites en vertu de l’alinéa 8(1)h). Afin de se prévaloir des déductions mentionnées à cet alinéa, l’appelant doit respecter certains critères.
+[15] Je conclus que l’appelant satisfait à ces critères. Il était habituellement tenu d’exercer les fonctions de son emploi à différents endroits (sous‑alinéa 8(1)h)(i)) et il était aussi tenu d’acquitter les frais de déplacement qu’il engageait pour l’accomplissement de ses fonctions (sous‑alinéa 8(1)h)(ii)). Le sous‑alinéa 8(1)h)(iii) ne l’empêche pas de déduire ces frais parce qu’il a reçu une allocation pour frais de déplacement qui était incluse dans le calcul de son revenu. Je conclus que les « frais de déplacement » qui sont mentionnés à l’alinéa 8(1)h) ne comprennent pas les frais de divertissement qui sont évoqués à l’alinéa 8(1)f). L’alinéa 8(1)h) est différent de l’alinéa 8(1)f) et doit être appliqué indépendamment.
+[16] Il existe une certaine ambiguïté quant à savoir si l’alinéa 8(1)h) vise ou non les frais de déplacement accessoires. L’arrêt Johns‑Manville Canada Inc. v. The Queen[3], permet de résoudre cette ambiguïté en faveur de l’appelant. La conclusion suivante du juge Estey, qui se prononçait au nom de la majorité de la Cour suprême du Canada, s’applique également en l’espèce :
+[…] le traitement fiscal approprié consiste à imputer ces dépenses au compte de revenu et non au compte de capital. Une telle décision est de plus conforme à un autre concept fondamental de droit fiscal portant que, si la loi fiscale n’est pas explicite, l’incertitude raisonnable ou l’ambiguïté des faits découlant du manque de clarté de la loi doit jouer en faveur du contribuable. Ce principe résiduel doit d’autant s’appliquer au présent pourvoi qu’autrement une dépense annuelle entièrement liée à l’exploitation quotidienne de l’entreprise de la contribuable ne lui procurerait aucun dégrèvement d’impôt sous forme de déduction pour amortissement ou pour épuisement s’il s’agit d’une dépense de capital, ou de déduction applicable au revenu s’il s’agit d’une dépense d’exploitation.
+Rien dans l’alinéa 8(1)h) ne porte à croire que seules les dépenses liées personnellement au contribuable devraient être déductibles et que des frais accessoires ne devraient pas l’être. La dépense accessoire en cause ici correspond à la somme de 20 000 $ représentant les frais de repas et de boissons de tierces parties.
+[17] Il ne fait aucun doute que l’appelant s’est déplacé fréquemment dans toute l’Amérique du Nord et aux Bermudes en 1999. Il a été plus souvent à l’extérieur de chez lui qu’à la maison. Son travail consistait à négocier des conventions collectives et l’obligeait à payer des repas et des boissons à ses invités. Une fois que l’allocation a été jugée déraisonnable, seul l’alinéa 8(1)h) de la Loi peut permettre à l’appelant de déduire les frais qu’il a engagés.
+[18] Je suis d’accord avec l’avocate de l’appelant lorsqu’elle cite l’arrêt Johns‑Manville pour affirmer que toute ambiguïté relative à ce qui constitue des « frais de déplacement » devrait jouer en faveur du contribuable. L’alinéa 8(1)h) doit être interprété de façon autonome s’il n’est pas ambigu. Rien dans cet alinéa ne permet de conclure que les frais de déplacement engagés par une personne dans l’exercice des fonctions de son emploi ne peuvent comprendre les frais qu’elle a engagés pour payer des repas et des boissons à des partenaires d’affaires lorsqu’elle se trouvait à l’extérieur de chez elle. Il s’agit de dépenses d’affaires pour lesquelles l’employeur a versé une allocation à l’appelant, qui doit en retour l’inclure dans le calcul de son revenu; il est logique qu’il puisse bénéficier d’une déduction correspondante.
+[19] Le ministre a remis en question le montant de ces dépenses d’un point de vue général. L’appelant a fourni une liste de ses frais accessoires à la pièce A‑6. Le montant qui figure à la dernière colonne s’élève à environ 40 000 $, dont 20 000 $ ont été déduits par l’appelant conformément à l’article 67.1, en application duquel la moitié seulement des montants payés pour des aliments et des boissons peut être déduite. Bien qu’on puisse croire qu’il s’agit d’un montant élevé pour des aliments et des boissons, j’accepte le témoignage de l’appelant, qui a expliqué que c’était sa façon à lui de faire son travail. Autrement dit, il s’est déplacé pour affaires pendant plus de 200 jours durant l’année et un total de 20 000 $[4] représente environ 100 $ par jour. Il est certain que l’expression « frais de déplacement » à l’alinéa 8(1)h) est assez large pour englober les montants accessoires que souhaite déduire l’appelant. J’accepte aussi que les frais relatifs aux aliments et aux boissons de tierces personnes n’entrent pas dans les frais de « divertissement » qui sont définis en partie à l’alinéa 67.1(4)b) comme des dépenses engagées pour les loisirs et les amusements. La notion de divertissement désigne davantage l’achat de billets pour un événement sportif ou culturel, ou encore les excursions de pêche ou les croisières. Les frais accessoires aux déplacements que veut déduire l’appelant ont un lien plus direct avec sa charge ou son emploi. M. Strong tient une réunion d’affaires pendant un repas puis règle la facture comme il est censé le faire.
+[20] Le point qui reste à trancher concerne les frais de taxi d’environ 3 000 $ déduits par l’appelant et que celui‑ci a engagés pendant que son épouse et lui‑même assistaient à un congrès aux Bermudes, séjour qu’ils avaient prolongé d’une semaine pour des raisons personnelles. Les preuves ne sont pas claires. J’accepte l’argument de l’intimée suivant lequel la déduction de ces frais de taxi devrait être refusée parce qu’il n’y a aucun moyen de déterminer s’ils ont été engagés par l’appelant dans le cadre de son travail ou de ses vacances. Il a passé deux semaines avec son épouse aux Bermudes.
+[21] En conclusion, j’accueille l’appel, avec dépens, seulement pour permettre à l’appelant de déduire des frais de déplacement de 20 000 $ pour l’année d’imposition 1999, en application de l’alinéa 8(1)h) de la Loi.
+Signé à Ottawa, Canada, ce 1er jour de juin 2004.
+« C.H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL. L.
+RÉFÉRENCE :
+2004CCI297
+No DU DOSSIER DE LA COUR :
+2003-2843(IT)I
+INTITULÉ :
+Melvin Bryan Strong c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 19 janvier 2004
+MOTIFS DU JUGEMENT :
+Le juge C.H. McArthur
+DATE DU JUGEMENT :
+Le 1er juin 2004
+COMPARUTIONS :
+Pour l’appelant :
+Cheryl A. Gibson
+Pour l’intimée :
+Dawn Taylor
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cheryl A. Gibson
+Cabinet :
+Fraser Milner Casgrain
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Montant arrondi par l’appelant.
+[2] 93 DTC 5357.
+[3] 85 DTC 5373 (C.S.C.).
+[4] Après application de l’article 67.1.

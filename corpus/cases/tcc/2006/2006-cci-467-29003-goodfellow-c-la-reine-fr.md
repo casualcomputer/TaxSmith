@@ -1,0 +1,207 @@
+---
+title: "Goodfellow c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29003/index.do"
+last_modified: "2006-09-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 467"
+citation2: ""
+neutral_citation: "2006 CCI 467"
+decision_date: "2006-09-07"
+language: "fr"
+item_id: "29003"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6752
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:46:27.028000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "96260e8f45c02cfc16a07db1c3303f36bb28b395e829adf29b2a83f64f580246"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Goodfellow c. La Reine
+
+- Citation: 2006 CCI 467
+- Decision date: 2006-09-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6752, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goodfellow c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-07
+Référence neutre
+2006 CCI 467
+Numéro de dossier
+2006-890(IT)I
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-890(IT)I
+ENTRE :
+DAVID GOODFELLOW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 29 juin 2006, à Miramichi (Nouveau‑Brunswick)
+Devant : L’honorable juge suppléant S.J. Savoie
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jean Lavigne
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000, 2001 et 2002 sont rejetés, conformément aux motifs du jugement ci‑joints.
+Signé à Grand-Barachois (Nouveau‑Brunswick), ce 7e jour de septembre 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+Traduction certifiée conforme
+ce 16e jour d’octobre 2006.
+Marie-Christine Gervais, traductrice
+Référence : 2006CCI467
+Date : 20060907
+Dossier : 2006-890(IT)I
+ENTRE :
+DAVID GOODFELLOW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Le présent appel a été entendu à Miramichi (Nouveau‑Brunswick), le 29 juin 2006.
+[2] L’appel concerne les années d’imposition 2000, 2001 et 2002 de l’appelant. La question dont est saisie la Cour est de savoir si le ministre du Revenu national (le « ministre ») a correctement calculé les montants des avantages imposables supplémentaires de 5 424 $ pour 2000, de 5 544 $ pour 2001 et de 5 544 $ pour 2002 qu’il a ajoutés au revenu de l’appelant dans les nouvelles cotisations qu’il a établies à son égard.
+Faits
+[3] Pendant la période pertinente, l’appelant était un actionnaire et un employé de Goodfellow's Trucking Ltd., ci‑après appelée la « société ».
+[4] La société possédait une camionnette Sierra K 1500E à cabine allongée 1995 de GMC dont la plaque d’immatriculation portait les lettres GTL, ci‑après appelée le « véhicule », laquelle avait été achetée par la société en 1998 pour 15 100 $.
+[5] Tous les frais d’utilisation du véhicule étaient payés par la société. Le véhicule était à la disposition de l’appelant, et celui‑ci l’utilisait à des fins personnelles et à des fins professionnelles : il s’en servait pour aller et venir de sa résidence à divers chantiers. Il n’a pas tenu de registre présentant de façon détaillée le nombre de kilomètres parcourus à des fins personnelles et nombre de kilomètres parcourus à des fins professionnelles et il n’a pas comptabilisé le nombre total de kilomètres parcourus pendant les années en cause.
+[6] Au cours d’une vérification antérieure effectuée en 1995, l’Agence des douanes et du revenu du Canada (aujourd’hui appelée l’Agence du revenu du Canada) (l’« ARC ») avait enjoint à l’appelant de tenir un registre des kilomètres parcourus à des fins personnelles et à des fins professionnelles. L’appelant n’a déclaré aucune partie des avantages découlant de la mise à sa disposition du véhicule par la société dans ses déclarations de revenu pour les trois années d’imposition en cause. Pour ce motif, le ministre a conclu que, au cours de chacune des années d’imposition 2000, 2001 et 2002, l’appelant avait utilisé le véhicule à des fins personnelles en parcourant une distance totale d’au moins 1 000 kilomètres par mois ou de 12 000 kilomètres par année.
+[7] Dans son témoignage, l’appelant s’est décrit comme le propriétaire exploitant d’une société spécialisée en systèmes d’égouts et d’aqueducs qui exploite une entreprise de construction et d’entretien de routes. Pendant les mois d’hiver, la société fournit des services de déneigement. Avant 1998, la société était exploitée à partir de la résidence de l’appelant. Depuis cette année‑là, la société est exploitée à partir de locaux situés dans le parc industriel de Miramichi. La distance entre la résidence de l’appelant et le lieu d’affaires de la société est d’environ cinq kilomètres.
+[8] Le véhicule, qui appartient à la société, est mis à la disposition de l’appelant pendant toute l’année, c’est‑à‑dire 365 jours par année. L’appelant explique qu’il a besoin de pouvoir se déplacer en tout temps. Pendant l’été, il doit répondre aux urgences 24 heures sur 24 en cas de bris de conduites d’eau ou d’égout, ainsi qu’être présent sur les chantiers de construction situés dans les environs de Miramichi et, parfois, aussi loin que Fredericton. Pendant les mois d’hiver, selon l’appelant, il doit également être prêt à intervenir 24 heures sur 24 pour répondre aux appels de déneigement, comme il est précisé dans les divers contrats de déneigement.
+[9] Selon l’appelant [traduction] « ce n’est pas un véhicule de plaisance ». L’appelant a dit qu’il ne s’agissait pas d’un véhicule qu’on utilisait pour faire des promenades ni d’un véhicule récréatif. Il a décrit le véhicule comme étant un camion de travail. Le véhicule possède un baril de carburant à l’arrière pour les besoins des diverses machines utilisées par la société. L’attelage installé sur le véhicule est utilisé pour traîner un compresseur d’air sur les chantiers. Le chasse‑neige installé sur le véhicule est utilisé pour les petits travaux de déneigement. Le matériel utilisé pour les gros travaux de déneigement reste sur les divers terrains pour lesquels un contrat de déneigement a été conclu, comme ceux des hôpitaux.
+[10] L’appelant a un bureau à la maison. Toutefois, la déduction demandée pour les frais de bureau connexes a été refusée par l’ARC. L’appelant a expliqué dans son témoignage qu’il ne contestait pas la décision parce qu’il n’avait pas le temps de le faire. L’appelant était incapable d’évaluer le pourcentage de son utilisation du véhicule consacré à des fins personnelles. Il a déclaré dans son témoignage qu’il ne jugeait pas nécessaire de tenir un registre. Il a cependant admis qu’il utilisait le véhicule pour se déplacer entre le lieu d’affaires de la société situé dans le parc industriel et sa résidence, ce qui représente environ 10 kilomètres par jour. L’appelant affirme néanmoins que le pourcentage de l’utilisation du véhicule à des fins professionnelles était de 100 %.
+[11] La question dont la Cour a été saisie est de savoir si l’utilisation du véhicule pendant les années d’imposition en cause constitue un avantage imposable. Le ministre a affirmé que c’était le cas et a établi de nouvelles cotisations à l’égard de l’appelant en conséquence. L’appelant est d’avis que le véhicule est utilisé strictement à des fins professionnelles. Il admet qu’il utilise le véhicule pour se déplacer entre sa résidence et le lieu d’affaires de la société; toutefois, il allègue qu’il possède un bureau à la maison où il effectue certaines tâches et rencontre des clients.
+[12] La preuve a révélé que l’appelant avait régulièrement utilisé le véhicule pour se rendre sur des chantiers situés dans les environs de Miramichi et, parfois, aussi loin que Fredericton. La fréquence de ces déplacements et le nombre total de kilomètres parcourus n’ont pas été mentionnés, et aucun registre n’a été tenu à cet égard. Il a été établi que l’appelant n’avait pas déclaré d’avantages conférés à un actionnaire pour ce qui est de l’utilisation du véhicule à des fins personnelles.
+Analyse
+[13] La position adoptée par l’appelant est très simple. Il soutient qu’il n’a jamais utilisé à des fins personnelles le véhicule que la société mettait à sa disposition tous les jours de l’année tout au long de la période en cause, soit pendant les années d’imposition 2000, 2001 et 2002. Il reconnaît qu’il utilise le véhicule pour se déplacer entre le lieu d’affaires de l’entreprise et sa résidence ainsi que pour se rendre sur les divers chantiers de construction situés à Miramichi et dans les environs, et, parfois, aussi loin que Fredericton. Il allègue que même dans ces cas‑là le véhicule n’est pas utilisé à des fins personnelles, étant qu’il possède également un bureau dans sa résidence et que certains contrats conclus par la société exigent qu’il soit prêt à intervenir 24 heures sur 24, sept jours sur sept. Tout au long de la période pertinente, il n’a pas tenu de registre pour comptabiliser l’utilisation du véhicule à des fins personnelles et à des fins professionnelles, et il a soutenu qu’il n’était pas nécessaire qu’il le fasse étant donné qu’il n’utilisait pas du tout le véhicule à des fins personnelles.
+[14] Il faut toutefois noter qu’une telle interprétation de la Loi de l’impôt sur le revenu (la « Loi ») est trop simpliste.
+[15] Il faut tout d’abord se demander si l’appelant a reçu un avantage de la société. Cela a été établi par la preuve. Le véhicule était à la disposition de l’appelant 24 heures sur 24, sept jours sur sept, 12 mois par année.
+[16] L’alinéa 6(1)a) de la Loi est rédigé ainsi :
+6. Éléments à inclure à titre de revenu tiré d'une charge ou d'un emploi.
+(1) Sont à inclure dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi, ceux des éléments suivants qui sont applicables :
+a) la valeur de la pension, du logement et autres avantages quelconques qu'il a reçus ou dont il a joui au cours de l'année au titre, dans l'occupation ou en vertu d'une charge ou d'un emploi, à l'exception des avantages suivants :
+(i) ceux qui résultent des cotisations de son employeur à un régime de pension agréé, un régime d'assurance collective contre la maladie ou les accidents, un régime privé d'assurance-maladie, un régime de prestations supplémentaires de chômage, un régime de participation différée aux bénéfices ou une police collective d'assurance temporaire sur la vie,
+(ii) ceux qui découlent d'une convention de retraite, d'un régime de prestations aux employés ou d'une fiducie d'employés,
+(iii) ceux qui étaient des avantages relatifs à l'usage d'une automobile,
+(iv) ceux qui découlent de la prestation de services d'aide concernant :
+(A) soit la santé physique ou mentale du contribuable ou d'un particulier qui lui est lié, à l'exclusion d'un avantage imputable à une dépense à laquelle l'alinéa 18(1)l) s'applique,
+(B) soit le réemploi ou la retraite du contribuable;
+(v) ceux qui sont prévus par une entente d'échelonnement du traitement, sauf dans la mesure où l'avantage est visé au présent alinéa par l'effet du paragraphe (11);
+[17] Le sens et la portée du mot « avantage » dans cet alinéa sont importants. Il est utile de lire l’analyse effectuée par le juge Pierre Archambault de la Cour dans la décision Luc Dionne c. La Reine, [1996] A.C.I. no 1691, où il a fait les commentaires suivants :
+[12] Pour que le ministre puisse inclure l'indemnité de transport de 3 181,34 $ dans le revenu de M. Dionne en vertu de l'alinéa 6(1)a) de la Loi, elle doit représenter la « valeur » d'un « avantage » que M. Dionne « a reçu » ou « dont il a joui » au cours de l'année 1993 « en vertu d'un contrat de travail ». […]
+[…]
+[17] Analysons d'abord le sens usuel du mot « avantages ». Ce mot m'apparaît comme le plus important de cet alinéa. Le Nouveau Petit Robert le définit ainsi :
+II - 1 - (1196) Ce qui est utile, profitable (opposé à inconvénient). - 2. bien; bénéfice, intérêt, profit. Cette solution offre, présente de grands, de précieux avantages. Retirer un avantage appréciable de qqch. Ces projets sont également intéressants, chacun a ses avantages. Accorder, offrir, procurer, garantir de notables avantages à qqn. Avantage pécuniaire. - gain, rémunération, rétribution. Avantages en nature*. Abandonner un avantage réel pour un profit illusoire (cf. Lâcher la proie pour l'ombre*). - intérêt. Le nouveau « aurait demandé des avantages exorbitants, une participation aux bénéfices » (Duhamel). [...] CONTR. Désavantage, détriment, dommage, handicap, inconvénient, préjudice.
+Le mot « profitable » vient de « profit » qui signifie, selon le même dictionnaire, « [l'] augmentation des biens que l'on possède ou amélioration de situation qui résulte d'une activité. - avantage, bénéfice. Profit matériel; intellectuel, moral. – enrichissement ». Comme l'alinéa 6(1)a) vise à étendre la notion de revenu d'emploi que l'on retrouve au paragraphe 5(1) de la Loi, il est manifeste que l'alinéa 6(1)a) ne vise pas les avantages moraux ou intellectuels mais uniquement les avantages matériels, c'est-à-dire ceux « constitué[s] par des biens tangibles (spécialt. de l'argent), ou lié[s] à leur possession » (Nouveau Petit Robert). (Voir aussi les décisions Savage et Blanchard, précitées.) « Situation » signifie notamment « 2- (XVIIe) (Abstrait) Ensemble des circonstances dans lesquelles une personne se trouve - circonstance, condition, état; place, position ».
+[18] Le mot « avantages » est donc capable de deux sens : celui qui reconnaît un avantage lorsqu'il y a augmentation des biens (donc du patrimoine) et l'autre, lorsqu'il y a amélioration de la situation économique d'une personne sans qu'il n'y ait nécessairement augmentation de biens. Une telle « amélioration » peut se produire non seulement lorsque l'employeur ne fournit à l'employé que la jouissance d'un bien mais aussi lorsqu'il paie à un tiers une dépense engagée à l'égard d'un bien ou d'un service pour le bénéfice de l'employé.
+[19] Examinons si ces deux sens s'accordent bien avec le libellé de l'alinéa 6(1)a). À sa lecture, on constate qu'il existe plusieurs motifs pour conclure que ces deux sens y sont reconnus. D'abord, il y a l'utilisation de l'expression « quelconques » (« of any kind whatever » dans la version anglaise) accolée au mot « avantages » qui laisse clairement entendre que cet alinéa vise tous les avantages quelle que soit la forme qu'ils prennent, qu'ils augmentent ou pas le patrimoine de l'employé.
+[20] Même si le moindre doute pouvait subsister quant à cette étendue, il se dissipe lorsque l'on constate que l'alinéa vise explicitement, comme avantages, la pension et le logement fournis à l'employé. Ces deux avantages n'augmentent pas le patrimoine de l'employé. Ils ne font que lui sauver une dépense qui, si elle avait été engagée par l'employé, aurait diminué son patrimoine. Personne ne contestera qu'un employé tire nettement un avantage économique lorsqu'un employeur lui fournit un logement gratuit.
+[21] Il y a aussi l'utilisation des verbes « recevoir » et « jouir » qui distingue le cas de l'employé qui a « reçu » des avantages qui augmentent son patrimoine, par exemple la propriété d'une voiture pour son usage personnel, et celui de l'employé qui a simplement « joui » des avantages qui, sans augmenter son patrimoine, « améliorent sa situation », par exemple celui découlant de l'usage d'une voiture à des fins personnelles, dans la mesure où il se rapporte aux frais de fonctionnement. Ce dernier avantage est explicitement visé par le sous‑alinéa 6(1)a)(iii) de la Loi avant 1993.
+[18] Le contenu du passage précité révèle que la question n’est pas ne savoir si le bénéficiaire d’un avantage a vraiment profité de celui‑ci et dans quelle mesure il en a profité. Il suffit qu’il ait eu la possibilité de profiter de l’avantage ou le droit d’en profiter. Le simple fait que l’appelant avait la possibilité d’utiliser le véhicule de son employeur à ses propres fins constitue en soi un avantage. En l’espèce, rien dans la preuve n’indiquait qu’il y avait quelque restriction que ce soit en ce qui concerne l’utilisation du véhicule à des fins personnelles, que l’appelant se soit prévalu ou non d’une telle possibilité.
+[19] La valeur de l’avantage de l’appelant est établie en partie par la disposition sur les « frais pour droit d’usage » qui figure dans la Loi. L’alinéa 6(1)e) de la Loi prévoit ce qui suit :
+e) Frais pour droit d'usage d'une automobile – lorsque son employeur ou une personne liée à son employeur a mis au cours de l'année une automobile à sa disposition (ou à la disposition d'une personne qui lui est liée), l'excédent éventuel de la somme visée au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+(i) la somme qui représente les frais raisonnables pour droit d'usage de l'automobile pendant le nombre de jours de l'année où elle était ainsi à sa disposition,
+(ii) le total des sommes dont chacune représente une somme (autre qu'une dépense liée au fonctionnement de l'automobile) payée au cours de l'année à l'employeur ou à la personne liée à l'employeur par le contribuable ou par la personne qui lui est liée pour l'usage de l'automobile;
+[20] Le paragraphe 6(2) de la Loi explique clairement ce qui constitue des frais raisonnables pour droit d’usage d’une automobile et il est rédigé ainsi :
+(2) Frais raisonnables pour droit d'usage d'une automobile. Pour l'application de l'alinéa (1)e), la somme qui représente les frais raisonnables pour droit d'usage d'une automobile pendant le nombre total de jours d'une année d'imposition durant lesquels l'employeur d'un contribuable ou une personne liée à l'employeur a mis l'automobile à la disposition du contribuable ou d'une personne qui lui est liée est réputée égale au montant calculé selon la formule suivante :
+A/B × [2 % × (C × D) + ⅔ × (E – F)]
+où :
+A représente :
+a) le nombre de kilomètres parcourus par l'automobile, autrement que dans l'accomplissement des fonctions de la charge ou de l'emploi du contribuable, pendant le nombre de jours ci‑dessus ou, s'il est moins élevé, le montant représenté par l'élément B, si, à la fois :
+(i) l'employeur ou la personne liée à celui‑ci exige du contribuable qu'il utilise l'automobile dans l'accomplissement des fonctions de sa charge ou de son emploi,
+(ii) la distance parcourue par l'automobile pendant le nombre de jours ci‑dessus est parcourue principalement dans l'accomplissement de ces fonctions;
+b) le montant représenté par l'élément B, dans les autres cas;
+B le produit de 1 667 par le quotient de la division, par 30, du nombre de jours ci‑dessus, ce quotient étant, s'il est supérieur à un, arrondi, le cas échéant, au nombre entier le plus proche, les résultats ayant cinq au plus en première décimale l'étant à l'entier inférieur;
+C le coût de l'automobile pour l'employeur ou pour la personne qui lui est liée si l'un ou l'autre est propriétaire de l'automobile à un moment de l'année;
+D le quotient de la division, par 30, du nombre de jours où l'employeur ou la personne qui lui est liée est propriétaire de l'automobile, compris dans le nombre total de jours ci‑dessus, ce quotient étant, s'il est supérieur à un, arrondi, le cas échéant, au nombre entier le plus proche, les résultats ayant cinq au plus en première décimale l'étant à l'entier inférieur;
+E le total des montants qu'il est raisonnable de considérer comme payables à un bailleur par l'employeur ou par la personne qui lui est liée, pour la location de l'automobile, pendant le nombre de jours où l'automobile est louée à l'employeur ou à la personne qui lui est liée, compris dans le nombre total de jours ci-dessus;
+F la partie du total représenté par l'élément E qu'il est raisonnable de considérer comme payable au bailleur au titre de tout ou partie du coût, pour celui-ci, de l'assurance :
+a) contre la perte de l'automobile ou les dommages à celle‑ci;
+b) pour la responsabilité qui peut découler de son utilisation ou de son fonctionnement.
+[21] On se rend facilement compte que la formule fournie au paragraphe 6(2) de la Loi est très spécifique et précise. Elle indique les montants exacts qui doivent être inclus dans le revenu du bénéficiaire de l’avantage.
+[22] En l’espèce, il ne peut pas y avoir d’évaluation subjective ou discrétionnaire. Il s’agit d’une formule mathématique qui comporte deux hypothèses de base qui ne peuvent pas être ignorées.
+[23] L’alinéa 6(1)e) et le paragraphe 6(2) de la Loi rendent non pertinente la question de savoir si le bénéficiaire de l’avantage a utilisé le véhicule ou non.
+[24] Le juge Robertson de la Cour d’appel fédérale a très bien expliqué les paramètres de ces dispositions dans l’arrêt Adams v. R. (1998), 98 DTC 6266 (C.A.F.). Il convient de reprendre quelques passages de cet arrêt :
+[traduction]
+[6] Je conviens avec le ministre que l'expression « mis à la disposition » ne peut recevoir l'interprétation restreinte ou étroite adoptée par le juge de la Cour de l'impôt. Dans les motifs qui suivent, j'appuie cette conclusion sur quatre raisons. […]
+[8] […] Dans ce contexte, il m'apparaît clairement que la formulation large et sans réserve que l'on retrouve dans les deux versions de l'alinéa 6(1)e) renforce l'argument du ministre selon lequel l'usage non restreint d'une automobile n'est pas une condition préalable à l'application de cette disposition. L'historique législatif de cette disposition appuie également cette interprétation.
+[10] […] La modification supprimait toutes les références à une automobile mise à la disposition pour usage personnel. Je prends pour acquis que cette modification avait pour but de faire échec à l'interprétation établie dans la décision Harman selon laquelle l'usage personnel minimal d'une automobile était suffisant pour obvier à l'application de l'alinéa 6(1)e). […]
+[11] […] Dans le cadre de l'analyse contextuelle, j'aborde maintenant le paragraphe 6(2) qui énonce les éléments permettant de calculer les frais pour droit d'usage. À mon avis, cette disposition appuie également la position du ministre.
+[12] […] La première hypothèse est que l'employé a fait un usage personnel de l'automobile au cours de l'année. La deuxième est que cet usage personnel équivaut à 1 000 km pour chaque mois au cours duquel l'automobile était à sa disposition (12 000 km par an). […]
+[13] […] A/B x [1½ % x (C x D)]. […]
+[14] Dans ce contexte, il est manifeste que l'alinéa 6(1)e) comme le paragraphe 6(2) ne se préoccupe absolument pas du fait qu'un employé ait ou non utilisé la voiture de son employeur. L'alinéa 6(1)e) ne fait aucune référence aux fins pour lesquelles l'automobile a été mise à sa disposition et, en particulier, ne fait plus du tout référence à l'usage personnel qu'il en fait. [...]
+[15] […] C'est l'usage réel qui a de l'importance, et non pas la question de savoir si un employé peut utiliser sans restriction ou exclusivement l'automobile de son employeur. Il est également important de noter que l'usage réel ne devient pertinent que dans le contexte de l'exception pour usage personnel minimal formulée au paragraphe 6(2).
+[17] En résumé, la formulation large utilisée dans les deux versions de l'alinéa 6(1)e), jumelée à son historique législatif, appuie la position du ministre. En toute déférence, l'usage non restreint ou exclusif de l'automobile d'un employeur n'est pas une condition préalable à l'imposition des frais pour droit d'usage. L'usage réel n'est pas non plus requis, que ce soit à des fins personnelles ou à des fins commerciales. Ce qui est exigé, c'est qu'un employeur ait mis une automobile à la disposition d'un employé et, corrélativement, que cet employé ait eu le droit d'utiliser l'automobile. Cette conclusion n'est que logique puisque le paragraphe 6(2) suppose qu'un employé a fait un usage personnel de l'automobile de son employeur, sans chercher à savoir s'il en a réellement fait usage. À mon avis, les dispositions relatives aux frais pour droit d'usage ont été soigneusement rédigées afin d'en favoriser la certitude, au détriment de la souplesse. Cela dit, les conséquences rigoureuses qui découlent d'une disposition déterminative sont atténuées par l'exception « pour usage personnel minimal » qui a été greffée au paragraphe 6(2) par suite de la décision de la présente Cour dans Harman. C'est à ce moment que l'usage réel et les fins pour lesquelles l'automobile a été mise à la disposition de l'employé deviennent des facteurs pertinents.
+[25] En résumé, dès qu’une automobile est mise à la disposition d’un employé, il existe une présomption selon laquelle 12 000 kilomètres par année ou 1 000 kilomètres par mois sont parcourus à des fins personnelles. Cette présomption peut être réfutée au moyen d’éléments de preuve clairs et explicites concernant le nombre de kilomètres réellement parcourus. Cela explique pourquoi il est pratiquement essentiel de tenir un registre.
+[26] Le juge Dussault de la Cour a exprimé cette opinion dans la décision Lavigueur v. M.N.R., 91 DTC 448. Dans cette affaire, l’appelant était actionnaire d’une société qui mettait à sa disposition une automobile louée pour son travail. Dans le cadre de l’exercice de ses fonctions, l’appelant devait quotidiennement se rendre dans les bijouteries Lavigueur situées sur la rive Sud, à Montréal et sur la rive Nord, et aller chez divers fournisseurs. Comme il vivait à Ste‑Julie, il retournait à la maison avec le véhicule, étant donné qu’il aurait été imprudent et même dangereux de le laisser dans le stationnement près du bureau principal à Pointe‑aux‑Trembles. Pour ce qui est des kilomètres parcourus à des fins personnelles, l’appelant, qui ne tenait pas de registre, affirmait qu’il n’avait utilisé le véhicule à fins personnelles que de façon très minime, voire exceptionnellement, étant donné qu’il pouvait utiliser un autre véhicule pour ses besoins personnels. Voici l’analyse du juge Dussault :
+Ainsi, l’appelant admet avoir eu l’automobile à sa disposition le soir et les fins de semaine, mais affirme ne pas s’en être servi à des fins personnelles sinon exceptionnellement. Il affirme d’ailleurs qu’il possédait une autre automobile à cet effet, laquelle, bien que plus modeste et plus âgée, suffisait amplement aux besoins restreints de sortie le soir ou les fins de semaine, L’appelant est cependant peu précis quant au kilométrage total parcouru pour fins d’affaires; il dit qu’il peut s’agir de 40 000 à 60 000 kilomètres par année, mais qu’il n’a tenu aucun registre à cet égard.
+[...]
+De façon à contrôler l’avantage résultant de l’utilisation pour fins personnelles d’une automobile appartenant à un employeur ou que celui‑ci a louée, le législateur a donc cru opportun d’établir une présomption qu’il y a utilisation pour fins personnelles pour 1 000 kilomètres par mois ou 12 000 kilomètres par année aussitôt qu’un employeur met une automobile à la disposition d’un employé. Cette présomption peut être réfutée par l’employé et la Loi lui fait l’obligation de le faire de façon précise, « selon le formulaire prescrit » lorsque l’utilisation pour fins personnelles est moindre. Dans un tel cas, l’application de la formule arithmétique du paragraphe 6(2) a pour effet de réduire proportionnellement le montant à inclure dans le revenu de l’employé. Si un employé ne se conforme pas à cette obligation que lui impose la Loi, comment peut‑il prétendre par la suite que le ministère du Revenu national n’est pas fondé d’inclure dans son revenu la somme prévue au paragraphe 6(2) de la Loi et résultant de l’application de la présomption qui y est établie?
+[27] Dans la présente affaire, l’appelant semble ne pas vouloir démordre de sa position : il nie toute utilisation du véhicule à des fins personnelles. Toutefois, la preuve a montré que l’appelant avait utilisé le véhicule pour se déplacer entre sa résidence et le lieu d’affaires de la société, ainsi qu’entre sa résidence et les divers chantiers, dont certains étaient situés aussi loin que Fredericton. L’appelant n’a jamais essayé de comptabiliser approximativement le nombre total de kilomètres parcourus ainsi que le nombre total de kilomètres parcourus à des fins personnelles.
+[28] La charge de la preuve incombe à l’appelant. Son allégation selon laquelle il n’utilisait jamais le véhicule à des fins personnelles est insuffisante. Par conséquent, il ne s’est pas acquitté de la charge de la preuve qui lui incombait. Il n’a pas essayé d’établir que le nombre de kilomètres qu’il a parcourus à des fins personnelles représentait moins de 10 % du nombre total de kilomètres parcourus.
+[29] Autrement dit, le ministre, compte tenu des circonstances, n’avait d’autre choix que d’appliquer la formule fournie par la Loi pour calculer l’avantage de l’appelant.
+[30] Certes, le contribuable, c’est‑à‑dire l’appelant, n’était pas tenu de tenir un registre. Malheureusement, si une personne ne tient pas de registre, elle aura beaucoup de difficulté à prouver quel a été l’usage exact du véhicule. L’appelant ne peut se contenter de présenter une preuve circonstancielle et de simplement nier les faits établis pour réfuter la présomption relative au nombre de kilomètres parcourus dans le cas où il est prouvé, comme en l’espèce, qu’il a bénéficié d’un véhicule qui a été mis à sa disposition par la société dont il est un actionnaire et un employé.
+[31] L’omission de l’appelant de présenter des éléments de preuve étayant sa position constitue un manquement aux obligations que lui impose la Loi en ce qui concerne les années d’imposition 2000, 2001 et 2002, et fait en sorte qu’il ne peut se soustraire à la cotisation établie conformément à la formule prévue dans la Loi ni réduire le montant dont il doit être tenu compte dans l’établissement de la cotisation à son égard.
+[32] Pour tous les motifs ci‑dessus, l’appel est rejeté.
+Signé à Grand-Barachois (Nouveau‑Brunswick), ce 7e jour de septembre 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+Traduction certifiée conforme
+ce 16e jour d’octobre 2006.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2006CCI467
+NO DU DOSSIER DE LA COUR : 2006-890(IT)I
+INTITULÉ DE LA CAUSE : David Goodfellow c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Miramichi (Nouveau‑Brunswick)
+DATE DE L’AUDIENCE : Le 29 juin 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge suppléant S.J. Savoie
+DATE DU JUGEMENT : Le 7 septembre 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jean Lavigne
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

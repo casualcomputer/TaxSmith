@@ -1,0 +1,235 @@
+---
+title: "Moore v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27413/index.do"
+last_modified: "2006-12-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 587"
+citation2: ""
+neutral_citation: "2006 CCI 587"
+decision_date: "2006-12-18"
+language: "fr"
+item_id: "27413"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 235
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:27:10.555000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8800454dee5dd3e5bc68566240d9800c636166f3c3a165618ea65daf91686639"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Moore v. The Queen
+
+- Citation: 2006 CCI 587
+- Decision date: 2006-12-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 235, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moore v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-18
+Référence neutre
+2006 CCI 587
+Numéro de dossier
+2006-1154(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1154(IT)I
+ENTRE :
+MARGARET MOORE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 octobre 2006, à Winnipeg (Manitoba)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Adrianne Edmunds
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en application de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2004 est accueilli sans dépens, et la cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 18e jour de décembre 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 5e jour de juin 2007.
+Hélène Tremblay, traductrice
+Référence : 2006CCI587
+Date : 20061218
+Dossier : 2006-1154(IT)I
+ENTRE :
+MARGARET MOORE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L’appelante et Lance Tyler Moore (ci‑après « M. Moore ») sont parents de deux enfants :
+− un fils né le 27 août 1997;
+− un fille née le 4 mars 2001.
+[2] L’appelante et M. Moore se sont séparés le 4 juillet 2005.
+[3] Dans son témoignage, l’appelante a affirmé que depuis le 4 juillet 2005, son fils et sa fille n’habitent plus avec elle et elle n’est plus la principale responsable de leur soin.
+[4] La preuve révèle que M. Moore était le principal responsable du soin de son fils et de sa fille depuis le 4 juillet 2005, date à partir de laquelle ils ont commencé à habiter avec lui.
+[5] Pendant la période d’août à décembre 2005, le gouvernement fédéral déposait la Prestation fiscale canadienne pour enfants (la « PFCE ») dans un compte conjoint de l’appelante et de M. Moore à la Gimli Credit Union, à Gimli (Manitoba) (le « compte conjoint »). L’appelante et M. Moore détenaient tous deux un pouvoir de signature pour le compte conjoint.
+[6] Les éléments de preuve présentés indiquaient que les versements de PFCE suivants ont été déposés dans le compte conjoint par dépôt direct :
+Date de paiement
+Méthode de paiement
+Montant
+Le 19 août 2005
+Dépôt direct
+485,30 $
+Le 20 septembre 2005
+Dépôt direct
+485,20 $
+Le 20 octobre 2005
+Dépôt direct
+485,20 $
+Le 18 novembre 2005
+Dépôt direct
+485,20 $
+1 940,90 $
+[7] La PFCE versée par gouvernement fédéral le 13 décembre 2005 a été envoyée à l’appelante sous forme de chèque. (Remarque : dans l’avis d’appel, l’appelante a indiqué qu’elle avait reçu le chèque d’un montant de 485,20 $ daté du 13 décembre 2005, et elle s’est dite prête à rembourser ce montant au ministre du Revenu national (le « ministre »).)
+[8] Dans son témoignage, l’appelante a aussi affirmé avoir avisé les fonctionnaires de l’Agence du revenu du Canada (l’« ARC ») en juillet 2005 qu’elle n’était plus responsable du soin de son fils et de sa fille et que, par le fait même, elle n’était plus admissible à la PFCE. Aucun des éléments présentés en preuve n’est venu remettre en question l’exactitude de cette affirmation.
+[9] Pendant la période d’octobre 2005 à janvier 2006, un total de 347 $ a été déposé dans le compte conjoint par dépôt direct au titre de crédit pour taxe sur les produits et services (le « CTPS »).
+[10] Dans la réponse à l’avis d’appel, le ministre reconnaît que l’appelante avait droit à un CTPS de seulement 86,75 $ pour le mois d’octobre 2005 et de 86,79 $ pour le mois de janvier 2006, ce qui donne un total de 173,54 $.
+B. POINTS EN LITIGE
+[11] Les points en litige dans le présent appel sont les suivants :
+1. Il s’agit de savoir si le ministre a eu raison de fixer à 1 940,80 $ le montant de PFCE que l’appelante aurait reçu en trop pour les mois d’août, de septembre, d’octobre et de novembre 2005.
+2. Il s’agit de savoir si le ministre a eu raison de fixer à 173,50 $ le montant de CTPS que l’appelante aurait reçu en trop pour l’année d’imposition 2004.
+C. ANALYSE
+[12] À l’article 122.6 de la Loi de l’impôt sur le revenu (la « Loi »), le « particulier admissible » est défini en ces termes :
+« particulier admissible » S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne – père ou mère de la personne à charge – qui assume principalement la responsabilité pour le soin et l’éducation de cette dernière;
+[…]
+[13] En ce qui concerne le CTPS, l’article 122.5 de la Loi définit le « proche admissible » et la « personne à charge admissible » en ces termes :
+« proche admissible » Est un proche admissible d’un particulier par rapport à un mois déterminé d’une année d’imposition la personne qui, au début de ce mois, est l’époux ou le conjoint de fait visé du particulier.
+« personne à charge admissible » Est une personne à charge admissible d’un particulier par rapport à un mois déterminé d’une année d’imposition la personne qui, au début de ce mois, répond aux conditions suivantes :
+a) elle est l’enfant du particulier ou est à sa charge ou à la charge de l’époux ou du conjoint de fait visé du particulier;
+b) elle vit avec le particulier;
+c) elle est âgée de moins de 19 ans;
+d) elle n’est pas un particulier admissible par rapport au mois déterminé;
+e) elle n’est pas le proche admissible d’un particulier par rapport au mois déterminé.
+[14] L’avocate de l’intimée soutient que depuis août 2005, l’appelante n’est pas admissible à la PFCE ou au CTPS, étant donné que ni son conjoint, ni son fils et sa fille ne vivaient plus avec elle et qu’elle n’assumait plus la responsabilité pour le soin de ses enfants.
+[15] L’appelante a admis qu’elle n’assumait plus la responsabilité du soin de son fils et de sa fille depuis le 4 juillet 2005. Elle a également admis qu’elle ne vivait plus avec son conjoint de fait pendant la période où elle a reçu la Prestation fiscale canadienne pour enfants et le CTPS. Toutefois, l’appelante a affirmé que les versements de PFCE ont été déposés par dépôt direct dans le compte conjoint. Selon son témoignage, à l’exception de certains chèques particuliers, elle n’exerçait aucun contrôle sur ce compte.
+[16] Sous serment, l’appelante a affirmé qu’elle avait elle‑même retiré les montants ci‑dessous du compte conjoint (pièce A-1) :
+Le 5 juillet
+Avon – chèque n° 187
+12,12 $
+Le 6 juillet
+Yoga
+60,00 $
+Le 6 juillet
+Poste d’essence de Gimli
+18,00 $
+Le 9 juillet
+Zellers – chèque n° 185
+35,00 $
+(Le 9 juillet
+Téléphone cellulaire – ½ de 94,38 $)
+– chèque n° 186
+47,19 $
+Le 13 juillet
+Yoga – chèque n° 189
+60,00 $
+Le 15 juillet
+Lakeview Dental – chèque n° 181
+88,45 $
+Le 6 août
+Lakeview Dental – chèque n° 182
+88,45 $
+409,21 $
+(Voir la transcription aux pages 18 à 21.)
+(Remarque – Certains de ces retraits représentaient des chèques post-datés faits par l’appelante avant le 4 juillet 2005.)
+[17] Dans son témoignage, l’appelante a affirmé que tout l’argent du compte conjoint à l’exception des montants énoncés au paragraphe 16 ci‑dessus était utilisé par son ancien époux, M. Moore, pour payer les dépenses de leur fils et de leur fille ou ses propres dépenses. Rien dans la preuve qui a été déposée ne vient contredire ce témoignage.
+[18] Dans la réponse à l’avis d’appel, l’avocate du ministre indique ce qui suit à l’alinéa 10g) :
+[TRADUCTION]
+10. Pour établir les nouvelles déterminations concernant l’admissibilité de l’appelante à la PFCE et au CTPS pour l’année d’imposition 2004, et pour ratifier ces nouvelles déterminations, le ministre s’est fondé sur les faits suivants :
+[…]
+g) pendant la période d’août 2005 à décembre 2005, des montants s’élevant à un total de 2 426,10 $ pour la PFCE à l’égard de Liam et de Kyra ont été versés à l’appelante et reçus par elle de la façon suivante : [Je souligne]
+Date de paiement
+Montant du paiement
+Le 19 août 2005
+485,30 $
+Le 20 septembre 2005
+485,20 $
+Le 20 octobre 2005
+485,20 $
+Le 18 novembre 2005
+485,20 $
+Le 13 décembre 2005
+485,20 $
+Total
+2 426,10 $
+[19] Compte tenu du témoignage sous serment et non contredit que j’ai entendu, je ne suis pas convaincu que les montants de PFCE s’élevant à 1 940,80 $ ont été [traduction] « versés à l’appelante et reçus par elle ». (Remarque – Le montant de 1 940,80 $ ne comprend pas le chèque de 485,20 $ reçu par l’appelante en décembre 2005.) Toutefois, l’appelante a admis avoir reçu les montants suivants :
+1. Montants énoncés au paragraphe [16] ci‑dessus 409,21 $
+2. Chèque envoyé à l’appelante le
+13 décembre 2005 485,20 $
+894,41 $
+3. CTPS 173,50 $
+[20] Certes, l’appelante a conservé son pouvoir de signature pour le compte conjoint pendant un certain temps après le 4 juillet 2005, mais je ne suis pas convaincu qu’elle a [traduction] « reçu » les versements de Prestation fiscale canadienne pour enfants déposés directement par le gouvernement fédéral dans le compte conjoint. En fait, je crois qu’elle a renoncé à son droit légal de recevoir quelque somme que ce soit dans le compte conjoint après le 4 juillet 2005. À mon avis, après cette date, l’appelante avait établi une fiducie constructoire au profit de son fils et de sa fille relativement à l’argent qui se trouvait dans le compte conjoint.
+[21] Accepter l’argument de l’avocate de l’intimée concernant la PFCE serait, en fait, ordonner à l’appelante de rembourser des versements de Prestation fiscale canadienne pour enfants qu’elle n’a jamais reçus.
+[22] L’appel est accueilli sans dépens, et le ministre doit rajuster les montants de paiement en trop comme suit :
+1. Montant des paiements en trop reçus par l’appelante
+concernant la Prestation fiscale canadienne pour enfants
+(voir le paragraphe [19] ci‑dessus) 894,41 $
+2. CTPS dû par l’appelante 173,50 $
+Signé à Ottawa, Canada, ce 18e jour de décembre 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 5e jour de juin 2007.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2006CCI587
+N° DE DOSSIER : 2006-1154(IT)I
+INTITULÉ : Margaret Moore et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 19 octobre 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge L.M. Little
+DATE DU JUGEMENT : Le 18 décembre 2006
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Adrianne Edmunds
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

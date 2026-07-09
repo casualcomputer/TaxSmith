@@ -1,0 +1,187 @@
+---
+title: "Panache Fine Cabinetry c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28873/index.do"
+last_modified: "2008-09-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 513"
+citation2: ""
+neutral_citation: "2008 CCI 513"
+decision_date: "2008-09-11"
+language: "fr"
+item_id: "28873"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1316
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:24:53.763000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "14fffb6df4d7c00a14f1a7cd5b57e804099b64d3991f17bfef02b08c57dfa02a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Panache Fine Cabinetry c. M.R.N.
+
+- Citation: 2008 CCI 513
+- Decision date: 2008-09-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1316, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Panache Fine Cabinetry c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-11
+Référence neutre
+2008 CCI 513
+Numéro de dossier
+2006-2384(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-2384(EI)
+ENTRE :
+PANACHE FINE CABINETRY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Panache Fine Cabinetry Ltd. (2006-2386(CPP))
+le 25 juillet 2008, à Halifax (Nouvelle-Écosse)
+Devant : L'honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+M. Phillip Bourgeois
+Avocat de l’intimé :
+Me Kendrick Douglas
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la décision selon laquelle Carl Mancini exerçait pour l'appelante un emploi assurable au sens de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi est accueilli, sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour qu'il procède à un nouvel examen et établisse une nouvelle évaluation en tenant pour acquis que M. Mancini était un entrepreneur indépendant et qu'il n'exerçait pas pour l'appelante un emploi assurable au sens de l'alinéa 5(1)a) de la Loi sur l'assurance‑emploi pendant la période qui fait l'objet du présent appel, soit du 11 avril 2005 au 1er novembre 2005.
+Signé à Toronto (Ontario), ce 11e jour de septembre 2008.
+Wyman W. Webb
+Juge Webb
+Traduction certifiée conforme
+ce 26e jour de septembre 2008.
+Alya Kaddour-Lord, traductrice
+Dossier : 2006-2386(CPP)
+ENTRE :
+PANACHE FINE CABINETRY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Panache Fine Cabinetry Ltd. (2006-2384(EI))
+le 25 juillet 2008, à Halifax (Nouvelle-Écosse)
+Devant : L'honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+M. Phillip Bourgeois
+Avocat de l’intimé :
+Me Kendrick Douglas
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la décision selon laquelle Carl Mancini exerçait pour l’appelante un emploi ouvrant droit à pension au sens de l'alinéa 6(1)a) du Régime de pensions du Canada est accueilli, sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour qu'il procède à un nouvel examen et établisse une nouvelle évaluation en tenant pour acquis que M. Mancini était un entrepreneur indépendant et qu'il n'exerçait pas pour l’appelante un emploi ouvrant droit à pension au sens de l'alinéa 6(1)a) du Régime de pensions du Canada pendant la période qui fait l'objet du présent appel, soit du 11 avril 2005 au 1er novembre 2005.
+Signé à Toronto (Ontario), ce 11e jour de septembre 2008.
+Wyman W. Webb
+Juge Webb
+Traduction certifiée conforme
+ce 26e jour de septembre 2008.
+Alya Kaddour-Lord, traductrice
+Référence : 2008CCI513
+Date : 20080911
+Dossiers : 2006-2384(EI)
+2006-2386(CPP)
+ENTRE :
+PANACHE FINE CABINETRY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question en litige dans les présents appels consiste à savoir si Carl Mancini avait été engagé par l’appelante en vertu d’un contrat de louage de services ou d’un contrat d’entreprise pendant la période allant du 11 avril 2005 au 1er novembre 2005 pour l’application de la Loi sur l’assurance‑emploi (la « Loi ») et du Régime de pensions du Canada (le « Régime »). L’intimé avait conclu que M. Mancini était un employé de l’appelante, et par conséquent qu’il exerçait un emploi assurable pour l’application de la Loi et un emploi ouvrant droit à pension pour l’application du Régime pendant la période susmentionnée. M. Mancini avait interjeté appel devant la Cour relativement au montant de ses gains assurables et ouvrant droit à pension et au nombre d’heures de travail assurables, mais il a abandonné l’appel plusieurs mois avant l’audition des présents appels. Les appels interjetés par M. Mancini dans lesquels l’appelante est intervenue (2006‑1031(EI) et 2006‑1032(CPP)) seront jugés séparément.
+[2] L’appelante exploitait un commerce de fabrication d’armoires. En avril 2005, elle a retenu les services de M. Mancini en sa qualité d’ébéniste. M. Bourgeois, président de l’appelante, et M. Mancini ont tous deux témoigné pendant l’audience. Ils ont tous les deux clairement déclaré que c’est d’un commun accord que M. Mancini avait été engagé comme entrepreneur indépendant. De façon périodique, M. Mancini présentait à l’appelante des factures sur lesquelles figurait son propre nom commercial, CM Custom Woodworking. M. Mancini ajoutait la TVH aux montants facturés et l’appelante la payait.
+[3] La question de savoir si une personne est un employé ou un entrepreneur indépendant a été commentée plusieurs fois dans la jurisprudence. Dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] A.C.S. n° 61, 2001 C.S.C. 59 (Sagaz), le juge Major de la Cour suprême du Canada s’est exprimé en ces termes :
+[46] À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l’arrêt Stevenson Jordan, précité, qu’il peut être impossible d’établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [traduction] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d’apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l’opinion du juge MacGuigan lorsqu’il affirme – en citant Atiyah, op. cit., p. 38, dans l’arrêt Wiebe Door, p. 563 – qu’il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[traduction] [N]ous doutons fortement qu’il soit encore utile de chercher à établir un critère unique permettant d’identifier les contrats de louage de services […] La meilleure chose à faire est d’étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s’appliquent pas dans tous les cas et n’ont pas toujours la même importance. De la même façon, il n’est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+[47] Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui‑même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[48] Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[4] Dans l’arrêt Royal Winnipeg Ballet c. Le ministre du Revenu national, 2006 CAF 87, 2006 DTC 6323, les danseurs et la compagnie de ballet avaient tous deux voulu que les danseurs soient engagés à titre d’entrepreneurs indépendants. La Cour d’appel fédérale a examiné les faits pertinents de l’affaire à la lumière des facteurs énoncés dans l’arrêt Wiebe Door Services Ltd. v. M.N.R., [1986] 2 C.T.C. 200, 87 DTC 5025 (Wiebe Door). La Cour d’appel fédérale a conclu que les faits pertinents de l’affaire ne changeaient pas la nature de la relation que les danseurs et le Royal Winnipeg Ballet avaient souhaité établir, et que les danseurs étaient des entrepreneurs indépendants. Dans l’arrêt Royal Winnipeg Ballet, la juge Sharlow de cette cour a émis les commentaires suivants :
+[65] Le juge a retenu les facteurs énoncés ci-dessous pour effectuer l’analyse exposée dans l’arrêt Wiebe Door (il n’est pas suggéré qu’il a utilisé des facteurs non pertinents ou qu’il a omis de tenir compte de facteurs pertinents).
+· L’élément indispensable de l’expression artistique individuelle appartient nécessairement aux danseurs. Le RWB choisit les œuvres qui seront exécutées, décide de l’heure et du lieu des représentations et des répétitions, attribue les rôles, fournit la chorégraphie et dirige les représentations.
+· Les danseurs n’ont aucune responsabilité en matière de gestion ou d’investissement pour ce qui est du travail qu’ils effectuent pour le RWB.
+· Les danseurs n’assument pratiquement aucun risque financier pour le travail qu’ils effectuent pour le RWB pendant la saison pour laquelle ils ont été engagés. Cependant, le RWB ne les engage que pour une seule saison et ils n’ont aucune garantie d’être engagés à nouveau la saison suivante.
+· Les danseurs ont la possibilité de faire quelques bénéfices, même lorsqu’ils sont engagés par le RWB, dans la mesure où ils peuvent négocier une rémunération supplémentaire par rapport à celle que prévoit le Canadian Ballet Agreement. Cependant, l’essentiel de la rémunération versée par le RWB est basé sur l’ancienneté et il est rare qu’on s’écarte de ce barème.
+· La carrière d’un danseur est susceptible d’être gérée, en particulier à mesure que le danseur acquiert de l’expérience. Les danseurs engagés par le RWB ont une grande latitude lorsqu’il s’agit d’accepter des engagements avec d’autres compagnies de ballet, même s’ils doivent respecter des restrictions contractuelles importantes (la nécessité d’obtenir le consentement du RWB et l’obligation de se présenter comme étant engagé par le RWB).
+· Les danseurs payent de leur poche de nombreux frais liés à leur engagement par le RWB et leur carrière de danseur en général, mais le RWB est tenu de fournir les chaussons, les costumes, les collants, les perruques et certains autres articles nécessaires.
+· Il incombe aux danseurs de demeurer en bonne forme physique pour pouvoir exécuter les rôles qui leur sont attribués. Le RWB est toutefois tenu, en vertu du contrat, de fournir certains avantages liés à la santé et de prévoir des périodes de réchauffement.
+[66] Dans la présente affaire, comme dans la plupart des affaires d’ailleurs, le facteur du contrôle mérite une attention particulière. Il me semble que le RWB exerce un contrôle étroit sur le travail des danseurs, mais ce contrôle ne dépasse pas ce qu’exige la présentation d’une série de ballets pendant une saison de spectacles bien planifiée. Si le RWB devait présenter un ballet en ayant recours à des artistes invités pour tous les rôles principaux, le contrôle qu’exercerait le RWB sur les artistes invités serait le même que si tous ces rôles étaient exécutés par des danseurs engagés pour la saison. Si l’on accepte (comme on doit le faire) le fait qu’un artiste invité peut accepter un rôle au sein du RWB sans pour autant devenir son employé, il faut en déduire que le facteur du contrôle exercé doit être compatible avec le fait que l’artiste invité est un entrepreneur indépendant. Il s’ensuit donc qu’on ne peut raisonnablement considérer comme incompatible avec l’intention des parties d’attribuer aux danseurs le statut d’entrepreneur indépendant le contrôle exercé en l’espèce sur les danseurs.
+[67] Le même raisonnement s’applique à tous les facteurs, considérés dans leur ensemble, dans le contexte de la nature des activités qu’exerce le RWB et du travail qu’exécutent les danseurs engagés par le RWB. À mon avis, dans la présente affaire, la façon dont les parties interprétaient la nature de leur relation juridique est étayée par les clauses contractuelles et les autres faits pertinents.
+[5] Comme les faits de l’affaire Royal Winnipeg Ballet ne suffisaient pas à modifier la nature de la relation que les parties souhaitaient établir, à moins que les faits pertinents de la présente affaire, examinés à la lumière des facteurs énoncés dans Wiebe Door et Sagaz, n’indiquent plus fermement que les faits de l’affaire Royal Winnipeg Ballet qu’on se trouve en présence d’une relation employeur-employé, je me verrai obligé de conclure que M. Mancini est bien un entrepreneur indépendant étant donné que lui et l’appelante avaient l’intention commune de nouer une relation employeur-entrepreneur indépendant.
+[6] En ce qui concerne le facteur du contrôle, la preuve présentée en l’espèce tendait à montrer que le degré de contrôle exercé par l’appelante sur le travail de M. Mancini était moindre que le degré de contrôle que le Royal Winnipeg Ballet exerçait sur les danseurs de ballet. Dans l’arrêt Royal Winnipeg Ballet, la juge Sharlow a qualifié le degré de contrôle exercé par le Royal Winnipeg Ballet sur le travail des danseurs d’« étroit ». Les danseurs concernés ne pouvaient pas décider de leurs propres heures de travail et devaient obtenir le consentement du Royal Winnipeg Ballet avant d’accepter d’autres engagements. Selon un autre extrait de cet arrêt :
+Le RWB choisit les œuvres qui seront exécutées, décide de l’heure et du lieu des représentations et des répétitions, attribue les rôles, fournit la chorégraphie et dirige les représentations.
+[7] M. Mancini pouvait décider de ses propres heures de travail et accepter des engagements auprès d’autres clients, ce qu’il a d’ailleurs fait pendant la période en cause dans le présent appel. Même s’il a travaillé dans les locaux de l’appelante la plupart du temps, il avait le choix de travailler dans lesdits locaux ou dans son propre atelier. M. Mancini avait été engagé pour exécuter certaines tâches. On lui a demandé de fabriquer des armoires en se conformant aux instructions dictées par les besoins des clients de l’appelante.
+[8] Dans la décision Direct Care In-Home Health Services Inc. c. Le ministre du Revenu national, 2005 CCI 173, le juge Hershfield s’est exprimé en ces termes relativement au facteur du contrôle :
+[11] Dans le cadre de l’analyse de ce facteur, il faut déterminer qui contrôle le travail et comment, quand et où il doit être effectué. S’il est jugé que le travailleur a le contrôle du travail une fois qu’il lui est confié, cela semble davantage indiquer que le travailleur est un entrepreneur indépendant, et s’il est jugé que l’employeur exerce un contrôle sur l’exécution du travail par le travailleur, cela laisse entendre qu’il y a une relation employeur‑employé. Toutefois, lorsque les travailleurs ont une spécialisation accrue, il se peut que ce critère soit considéré comme moins fiable. On accorde donc plus d’importance à la question de savoir si le service que le travailleur doit fournir dans le cadre de ses fonctions est simplement axé sur les « résultats »; c.‑à‑d. « voici une tâche précise – vous avez été engagé pour l’exécuter ». Dans un tel cas, il n’y a pas de lien de subordination, ce qui est une exigence fondamentale pour qu’il y ait une relation employé-employeur. De plus, il ne faut pas confondre le contrôle des résultats, qui peut être exigé à chaque fois qu’un travailleur est engagé pour fournir des services, avec le contrôle ou la subordination d’un travailleur.
+[12] En l’espèce, la travailleuse pouvait refuser une affectation pour quelque raison que ce soit, ou même sans raison. […]
+[Non souligné dans l’original.]
+[9] L’entente conclue avec M. Mancini semble être très semblable à celle décrite par le juge Hershfield, en ce sens qu’on a confié à M. Mancini une tâche précise qu’il avait été engagé pour exécuter.
+[10] En ce qui a trait au facteur relatif à la propriété des instruments de travail, l’appelante a fourni certains des outils dont M. Mancini avait besoin, mais ce dernier a aussi fourni quelques outils. M. Bourgeois estime que la valeur des outils fournis par l’appelante était à peu près égale à celle des outils fournis par M. Mancini. Dans l’affaire Royal Winnipeg Ballet, les danseurs assumaient de nombreux coûts, mais le Royal Winnipeg Ballet était tenu de leur fournir les chaussons, les costumes, les collants, les perruques et certains autres articles nécessaires.
+[11] M. Bourgeois a affirmé que M. Mancini avait le droit d’embaucher d’autres ouvriers, mais M. Mancini a déclaré que d’après ce qu’il avait compris, il pensait ne pas pouvoir le faire. Dans l’arrêt Royal Winnipeg Ballet, la question de savoir si les danseurs pouvaient embaucher des aides n’a pas été abordée, mais il semblerait illogique de prétendre que les danseurs pouvaient embaucher n’importe qui pour les remplacer sur scène.
+[12] En ce qui concerne l’étendue des risques financiers et la possibilité de réaliser des bénéfices, M. Mancini ne courait que très peu de risques sur le plan financier. M. Bourgeois a témoigné que M. Mancini était un charpentier très compétent et habile et que, par conséquent, M. Mancini n’a jamais eu à recommencer le travail afin de réparer des erreurs, ce qui aurait probablement été le seul risque encouru d’un point de vue financier. Comme l’a reconnu la Cour d’appel fédérale dans l’arrêt Royal Winnipeg Ballet, les danseurs couraient peu de risques sur le plan financier.
+[13] Pour ce qui est de la possibilité de réaliser des bénéfices, les danseurs du Royal Winnipeg Ballet pouvaient négocier une rémunération plus élevée, et ce, même si la plupart d’entre eux étaient payés selon un barème préétabli. En l’espèce, M. Mancini touchait un montant horaire fixe, conformément à l’entente conclue entre lui et l’appelante. Dans l’affaire Royal Winnipeg Ballet, les danseurs pouvaient accepter des engagements auprès d’autres employeurs à condition d’obtenir le consentement du Royal Winnipeg Ballet et de se présenter comme des membres du Royal Winnipeg Ballet. En l’espèce, aucune restriction de cette nature ne pesait sur M. Mancini relativement à sa liberté d’accepter d’autres engagements, et d’ailleurs, M. Mancini a bien travaillé pour le compte d’autres clients pendant la période en cause dans le présent appel.
+[14] Dans l’affaire Royal Winnipeg Ballet, les danseurs n’avaient aucune responsabilité en matière de gestion ou d’investissement dans le cadre de leurs fonctions auprès du Royal Winnipeg Ballet. En l’espèce, M. Mancini n’a eu aucune responsabilité en matière de gestion ou d’investissement dans le cadre du travail qu’il effectuait pour l’appelante.
+[15] Par conséquent, je conclus que les faits relatifs à l’emploi exercé par M. Mancini auprès de l’appelante que l’on doit considérer comme pertinents à la lumière des facteurs définis dans les arrêts Wiebe Door et Sagaz ne laissent pas davantage entendre qu’il existait une relation employeur‑employé que les faits de l’affaire Royal Winnipeg Ballet. Ainsi, étant donné qu’il existait une intention commune d’instaurer une relation employeur‑entrepreneur indépendant, M. Mancini était bien un entrepreneur indépendant et non pas un employé de l’appelante pendant la période en cause dans le présent appel.
+[16] Par conséquent, les appels interjetés à l’encontre de la décision selon laquelle M. Mancini exerçait pour l’appelante un emploi assurable au sens de l'alinéa 5(1)a) de la Loi et un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime sont accueillis, sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour qu'il procède à un nouvel examen et établisse de nouvelles évaluations en tenant pour acquis que M. Mancini était un entrepreneur indépendant et qu'il n'exerçait pas pour l'appelante un emploi assurable au sens de l'alinéa 5(1)a) de la Loi et ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime pendant la période qui fait l'objet des présents appels.
+Signé à Toronto (Ontario), ce 11e jour de septembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 26e jour de septembre 2008.
+Alya Kaddour-Lord, traductrice
+RÉFÉRENCE : 2008CCI513
+Nos DES DOSSIERS DE LA COUR : 2006-2384(EI) et 2006-2386(CPP)
+INTITULÉ : Panache Fine Cabinetry et Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Le 25 juillet 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 11 septembre 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Phillip Bourgeois
+Avocat de l’intimé :
+Me Kendrick Douglas
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Toronto (Ontario)

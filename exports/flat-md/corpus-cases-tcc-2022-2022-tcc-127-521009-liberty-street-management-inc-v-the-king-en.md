@@ -1,0 +1,247 @@
+---
+title: "Liberty Street Management Inc. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521009/index.do"
+last_modified: "2022-11-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 127"
+citation2: ""
+neutral_citation: "2022 TCC 127"
+decision_date: "2022-11-01"
+language: "en"
+item_id: "521009"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5805
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:07:29.238000+00:00"
+cases_cited_count: 8
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5dbf094eeda2d588c3979c1144a9b4861fa2a019cd464537d843c31217a2fbbe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Liberty Street Management Inc. v. The King
+
+- Citation: 2022 TCC 127
+- Decision date: 2022-11-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5805, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Liberty Street Management Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-11-01
+Neutral citation
+2022 TCC 127
+File numbers
+2021-588(GST)G
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2021-588(GST)G
+BETWEEN:
+LIBERTY STREET MANAGEMENT INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard by videoconference on common evidence with the motions of Adboss, Ltd. (2021-586(GST)G) and Bluecove Management Ltd. (2021‑587(GST)G) on September 15, 2022, at Ottawa, Canada
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Counsel for the Appellant:
+Mark Tonkovich
+Alexe Corbeil-Courchesne
+Counsel for the Respondent:
+Tony C. Cheung
+ORDER
+UPON reading the Notice of Motion dated April 26, 2022 (the “Motion”), and other documentary material, including the affidavit of Andrea William, for an order:
+1- striking out subparagraphs 12.w) and x) of the Respondent’s Reply dated July 9, 2021, pursuant to paragraphs 53(1)(a) and (c) of the Tax Court of Canada Rules (General procedure), without leave to amend or, in the alternative, striking such subparagraphs with leave to amend pursuant to such directions as may be given by the Court;
+2- awarding costs of this Motion, payable forthwith and in any event of the cause; and
+3- for such further terms or directions as counsel may advise and as this Court deems just and appropriate;
+AND UPON reviewing the parties’ written representations and hearing the submissions of the parties;
+IN ACCORDANCE with the attached Reasons for Order, this Court orders as follows:
+1- the Motion is allowed and subparagraphs 12.w) and x) of the Respondent’s Reply dated July 9, 2021 are struck, without leave to amend; and
+2- costs in an aggregate lump sum amount of $6,000 are awarded to the Appellant for this Motion and the motions of Adboss, Ltd. (2021‑586(GST)G) and Bluecove Management Ltd. (2021‑587(GST)G), payable forthwith and in any event of the cause.
+Signed at Edmonton, Alberta, this 1st day of November 2022.
+“Dominique Lafleur”
+Lafleur J.
+Citation: 2022 TCC 127
+Date: 20221101
+Docket: 2021-588(GST)G
+BETWEEN:
+LIBERTY STREET MANAGEMENT INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Lafleur J.
+I. THE MOTION
+[1] The Appellant filed a Notice of Motion dated April 26, 2022 (the “Motion”) with this Court, and other documentary material, including the affidavit of Andrea William (the “Affidavit”), for an order:
+1- striking out subparagraphs 12.w) and x) of the Respondent’s Reply dated July 9, 2021 (the “Reply”) pursuant to paragraphs 53(1)(a) and (c) of the Tax Court of Canada Rules (General procedure) (the “Rules”), without leave to amend or, in the alternative, striking such subparagraphs with leave to amend pursuant to such directions as may be given by the Court;
+2- awarding costs of this Motion, payable forthwith and in any event of the cause; and
+3- for such further terms or directions as counsel may advise and as this Court deems just and appropriate.
+II. CONCLUSION
+[2] For the following reasons, the Motion is allowed, and subparagraphs 12. w) and x) of the Reply are struck, without leave to amend. Costs in an aggregate lump sum amount of $6,000 are awarded to the Appellant for this Motion, together with the motions of Adboss, Ltd. (2021-586(GST)G) and Bluecove Management Ltd. (2021-587(GST)G), payable forthwith and in any event of the cause.
+III. THE FACTS
+[3] The Minister of National Revenue (the “Minister”) reassessed the Appellant’s net tax under Part IX of the Excise Tax Act (RSC 1985, c. E-15) (the “ETA”) for the 18 quarterly reporting periods from February 12, 2013 to September 30, 2017 (the “Periods”), the notice thereof being dated December 14, 2020. According to the Minister, the Appellant should have collected GST/HST in respect of services that it provided to two of its customers, namely Lowfroc Investments Limited (“Lowfroc”) and WebOps S.A.R.L. (“WebOps”), as these services were taxable supplies made in Canada to residents of Canada under the ETA and were not zero-rated supplies of services to non‑residents of Canada. The Minister also assessed penalties under section 285 of the ETA.
+[4] Paragraph 12. of the Reply contains various assumptions made by the Minister in reassessing the Appellant’s net tax for the Periods.
+[5] More particularly, subparagraphs 12.j) to x) of the Reply read as follows:
+12. In reassessing the Appellant’s net tax for the Periods, the Minister made the following assumptions of fact:
+. . .
+Residency of Lowfroc and WebOps
+j) Lowfroc was incorporated in Cyprus;
+k) WebOps was incorporated in Luxembourg;
+l) Lowfroc was nominally owned and operated by various person(s) in Cyprus;
+m) WebOps was nominally owned and operated by various person(s) in Luxembourg;
+n) there was no business correspondence of any kind between the Appellant and any person(s) in Cyprus who nominally owned and operated Lowfroc;
+o) there was no business correspondence of any kind between the Appellant and any person(s) in Luxembourg who nominally owned and operated WebOps;
+p) Lowfroc did not have any phone numbers or websites, or any records in commercially available financial databases;
+q) WebOps did not have any phone numbers or websites, or any records in commercially available financial databases;
+r) person(s) in Cyprus did not exercise any control or management of Lowfroc;
+s) person(s) in Luxembourg did not exercise any control or management of WebOps;
+t) “Eliteadultwebmasters.com” was an affiliate of Lowfroc;
+u) “Eliteadultwebmasters.com” had servers in Toronto, Ontario;
+v) the servers of “Eliteadultwebmasters.com” were located in close proximity to John Rodriguez’s mailing address;
+w) at all material times, the controlling mind and management of Lowfroc was in Canada;
+x) at all material times, the controlling mind and management of WebOps was in Canada;
+[6] In August 2021, the Appellant made one demand for particulars to the Respondent concerning subparagraphs 12.w) and x) of the Reply, requesting what was meant by stating that “the controlling mind and management of Lowfroc/WebOps was in Canada” and whether any specific person exercised the “controlling mind and management” of these two corporations in Canada, and if so, how and in what manner such control was exercised (Exhibit A to the Affidavit). The Respondent was of the view that this was not a proper demand for particulars and that these questions can be pursued at discovery (Exhibit B to the Affidavit).
+[7] In November 2021, the Appellant made another demand for particulars with reference to paragraph 19. of the Reply (Exhibit C to the Affidavit). Paragraph 19. of the Reply is included within the section of the Reply that contains the grounds relied on by the Respondent, and it reads as follows:
+19. . . . At all material times, the controlling minds and management of Lowfroc and WebOps were in Canada and Lowfroc and WebOps were therefore residents of Canada. . . .
+[8] The Respondent was of the view that this was not a proper demand for particulars (Exhibit D to the Affidavit).
+IV. THE APPELLANT’S POSITION
+[9] Subparagraphs 12.w) and x) of the Reply should be struck because they are not conclusions of fact but are conclusions of mixed fact and law. These conclusions have no place in the pleading of the Minister’s assumptions of fact when making the assessment, and the Respondent should have extricated the factual assumptions which brought the Minister to conclude that the “controlling mind and management” of Lowfroc and WebOps was in Canada (Canada v. Anchor Pointe Energy Ltd., 2003 FCA 294 [Anchor Pointe], at paras 25 and 26).
+[10] Paragraphs 53(1)(a) and (c) of the Rules provide authority for the Court to strike out subparagraphs 12.w) and x) of the Reply.
+[11] Legal fees totalling $25,000 have been incurred by the Appellant in respect of the Motion, together with the motions of Adboss, Ltd (2021-586(GST)G) and Bluecove Management Ltd. (2021-587(GST)G). The Appellant seeks costs in an aggregate lump sum amount of $15,000 for this Motion, together with the motions of Adboss, Ltd. (2021-586(GST)G) and Bluecove Management Ltd. (2021‑587(GST)G), to be paid forthwith and in any event of the cause.
+V. THE RESPONDENT’S POSITION
+[12] The Respondent agrees that the Minister, in stating the findings or assumptions of fact made by the Minister when making the assessment, cannot simply assume that Lowfroc and WebOps were residents of Canada. However, the Minister can assume that “the controlling mind and management” of Lowfroc and WebOps was in Canada because that assumption is a finding or assumptions of fact, being only a component of the legal test for residency of a corporation. Therefore, subparagraphs 12.w) and x) of the Reply should not be struck.
+[13] Further, according to the Respondent, the Minister had extricated the factual components of the Minister’s conclusion that both Lowfroc and WebOps were residents of Canada and pleaded those findings or assumptions of fact in subparagraphs 12.j) to x) of the Reply.
+[14] At the hearing, the Respondent agreed that if the Court allows the Motion, there will be no need to grant the Respondent leave to amend the Reply since all the findings or assumptions of fact regarding the residency of Lowfroc and WebOps were properly listed in the Minister’s findings or assumptions of fact found in paragraph 12. of the Reply.
+[15] Finally, if costs are awarded to the Respondent for this Motion, costs according to the Tariff should be awarded. If costs are awarded to the Appellant, the Court should award only one set of costs totalling $3,000 for this Motion, together with the motions of Adboss, Ltd. (2021-586(GST)G) and Bluecove Management Ltd. (2021-587(GST)G).
+VI. ANALYSIS
+6.1 Common law test for determining the residency of a corporation/ conclusion of fact or conclusion of mixed fact and law
+[16] The parties argued that the expressions “controlling mind and management” and “central management and control” have the same meaning and are synonymous. It is not necessary for the purposes of this Motion to conclude as to whether both expressions are synonymous, but I will assume that that is the case. However, when the residency of a corporation is at issue, more modern case law has usually referred to the expression “central management and control” and not to “controlling mind and management”.
+[17] According to the Respondent, the current state of the law is that residency is a question of fact. As indicated above, the Respondent is of the view that the location of the “controlling mind and management” is a component of the common law test for determining where a corporation resides and therefore is a conclusion of fact and not a conclusion of mixed fact and law. Further, that conclusion of fact is used to support the mixed fact and law conclusion that both Lowfroc and WebOps were residents of Canada, which is set out only in the argument section of the Reply and not in the section detailing the assumptions of fact made by the Minister when making the assessment.
+[18] For the following reasons, I do not agree with the Respondent. Determining the residency of a corporation requires a court to consider relevant factors to determine where the “central management and control” of the corporation actually abides or is actually located. The location of the “central management and control” of a corporation is not only a component of the common law test for determining the residency of a corporation, it is actually the legal test that must be applied to determine the residency of a corporation. Therefore, for the following reasons, and in accordance with the Appellant’s position, because a question of mixed fact and law is answered by determining whether the proven facts meet the relevant legal test, I find that where the “controlling mind and management” of Lowfroc and WebOps actually abides is a conclusion of mixed fact and law, not a conclusion of fact.
+[19] To support his argument, the Respondent referred, inter alia, to the Supreme Court of Canada’s statement in Fundy Settlement v. Canada, 2012 SCC 14, [2012] 1 SCR 520 [Fundy] at para 7:
+“ . . . While the Income Tax Act . . . contains certain deeming rules with respect to residency, generally residence is a question of fact.”
+[20] In that sentence, the Supreme Court of Canada only stated that residence is generally determined by facts, while it is possible for a corporation’s residence to be determined under the deeming rules found in the Income Tax Act, RSC 1985, c. 1 (5th Supp).
+[21] The Supreme Court of Canada stated that the residency of a corporation “. . . has been determined to be where its central management and control actually abides” (Fundy at para 8). The Supreme Court of Canada had referred with approval to the well-known case of De Beers Consolidated Mines, Ltd. v. Howe, [1906] A.C. 455 (H.L.) (p. 458):
+In applying the conception of residence to a company, we ought, I think, to proceed as nearly as we can upon the analogy of an individual. A company cannot eat or sleep, but it can keep house and do business. We ought, therefore, to see where it really keeps house and does business. . . . [A] company resides for purposes of income tax where its real business is carried on. . . . I regard that as the true rule, and the real business is carried on where the central management and control actually abides.
+[Emphasis added.]
+[22] Further, the Supreme Court of Canada agreed with comments made by the Federal Court of Appeal in the same case to the effect that in general, the central management and control of a corporation will be exercised where its board of directors exercises its responsibilities, and added that “ . . . where the facts are that the central management and control is exercised by a shareholder who is resident and making decisions in another country, the corporation will be found to be resident where the shareholder resides” (Fundy at para 9, citing Unit Construction Co v. Bullock, [1960] AC 351 (HL), St. Michael Trust Corp. v. Canada, 2010 FCA 309 [Fundy FCA] at para 56).
+[23] The case law is therefore clear that the common law test for determining the residency of a corporation is where its “central management and control” actually abides and various factors need to be considered to make that determination, including, generally, where the directors exercise their management and control. The Federal Court of Appeal stated the following in Fundy FCA (at para 62) when discussing the appropriate test for determining the residency of a trust, which the court found was the same test as the test for determining the residency of a corporation, with such modifications as are necessary:
+. . . I conclude therefore that where a question arises as to the residence of a trust for tax purposes, it is appropriate to undertake a fact driven analysis with a view to determining the place where the central management and control of the trust is actually exercised.
+[Emphasis added.]
+[24] In Canada (Director of Investigation and Research) v. Southam Inc, [1997] 1 SCR 748 at para 35, the Supreme Court of Canada distinguished between a question of law, a question of fact, and a question of mixed fact and law as follows:
+. . . Briefly stated, questions of law are questions about what the correct legal test is; questions of fact are questions about what actually took place between the parties; and questions of mixed law and fact are questions about whether the facts satisfy the legal tests. A simple example will illustrate these concepts. In the law of tort, the question what “negligence” means is a question of law. The question whether the defendant did this or that is a question of fact. And, once it has been decided that the applicable standard is one of negligence, the question whether the defendant satisfied the appropriate standard of care is a question of mixed law and fact. . . .
+[Emphasis added.]
+[25] In other words, “[q]uestions of mixed fact and law involve applying a legal standard to a set of facts” (Housen v. Nikolaisen, 2002 SCC 33, [2002] 2 SCR 235 [Housen] at para 26).
+[26] Furthermore, in Housen, the Supreme Court of Canada indicated in obiter that the question of the identification of certain individuals within a corporate structure as directing minds is a mixed question of law and fact (para 34).
+6.2 The Rules
+(1) Subsection 49(1) of the Rules
+[27] For the following reasons, since I have concluded that where the “controlling mind and management” of Lowfroc and WebOps is located is a conclusion of mixed fact and law, subparagraphs 12.w) and x) as drafted cannot be included within the section of the Reply stating the “findings or assumptions of fact made by the Minister when making the assessment”. Pleading conclusions of law or pleading conclusions of mixed fact and law in the section of the reply stating the “findings or assumptions of fact made by the Minister when making the assessment” constitutes improper pleading (The Preston Family Trust II v. The Queen, 2021 TCC 79 at para 26).
+[28] Subsection 49(1) of the Rules provides that every reply shall state:
+(a) the facts that are admitted,
+(b) the facts that are denied,
+(c) the facts of which the respondent has no knowledge and puts in issue,
+(d) the findings or assumptions of fact made by the Minister when making the assessment,
+(e) any other material fact,
+(f) the issues to be decided,
+(g) the statutory provisions relied on,
+(h) the reasons the respondent intends to rely on, and
+(i) the relief sought.
+a) les faits admis;
+b) les faits niés;
+c) les faits que l’intimée ne connaît pas et qu’elle n’admet pas;
+d) les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation;
+e) tout autre fait pertinent;
+f) les points en litige;
+g) les dispositions législatives invoquées;
+h) les moyens sur lesquels l’intimée entend se fonder;
+i) les conclusions recherchées.
+[29] The findings or assumptions of fact made by the Minister when making the assessment are to be stated in every reply by virtue of paragraph 49(1)(d) of the Rules. In Anchor Pointe (at paras 25 and 26), the Federal Court of Appeal had concluded that in pleading findings or assumptions of fact, the Minister cannot plead conclusions of law and, further, the Minister should only assume the factual components of a conclusion of mixed fact and law:
+[25] I agree that legal statements or conclusions have no place in the recitation of the Minister’s factual assumptions. The implication is that the taxpayer has the onus of demolishing the legal statement or conclusion and, of course, that is not correct. The legal test to be applied is not subject to proof by the parties as if it was a fact. The parties are to make their arguments as to the legal test, but it is the Court that has the ultimate obligation of ruling on questions of law.
+[26] . . . The Minister may assume the factual components of a conclusion of mixed fact and law. However, if he wishes to do so, he should extricate the factual components that are being assumed so that the taxpayer is told exactly what factual assumptions it must demolish in order to succeed. It is unsatisfactory that the assumed facts be buried in the conclusion of mixed fact and law.
+[Emphasis added.]
+[30] More recently, the Federal Court of Appeal confirmed these principles in Canadian Imperial Bank of Commerce v. Canada, 2013 FCA 122 at para 92.
+[31] I note that paragraph 19. of the Reply, found within the section entitled “Statutory provisions, grounds relied on, and relief sought”, states the following “. . . At all material times, the controlling minds and management of Lowfroc and WebOps were in Canada and Lowfroc and WebOps were therefore residents of Canada . . .”. That conclusion of mixed fact and law is properly found within that section of the Reply.
+(2) Subsection 53(1) of the Rules
+[32] Subsection 53(1) of the Rules allows the Court to strike conclusions of mixed fact and law found in the “findings or assumptions of fact made by the Minister when making the assessment”.
+[33] Subsection 53(1) of the Rules reads as follows:
+Striking out a Pleading or other Document
+53(1) The Court may, on its own initiative or on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that the pleading or other document
+(a) may prejudice or delay the fair hearing of the appeal;
+(b) is scandalous, frivolous or vexatious;
+(c) is an abuse of the process of the Court; or
+(d) discloses no reasonable grounds for appeal or opposing the appeal.
+Radiation d’un acte de procédure ou d’un autre document
+53(1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+[34] The Respondent pleaded that the striking of portions of pleadings under section 53 of the Rules should be reserved for the most plain and obvious cases and that matters of weight and relevancy are better left to be determined by the trial judge (Sentinel Hill Productions (1999) Corp. v. The Queen, 2007 TCC 742 at para 4, and Gould v. The Queen, 2005 TCC 556 at para 23).
+[35] Furthermore, according to the Respondent, there is no prejudice to the Appellant in having subparagraphs 12.w) and x) in the Reply. The Appellant has not been left in the dark as to the factual underpinnings of the Minister’s claim regarding residency as the assumptions regarding “controlling mind and management”, including the particulars regarding those assumptions, are exhaustively detailed in the pleading of the assumptions of fact found in paragraph 12. of the Reply.
+[36] For the following reasons, I do not agree with the Respondent. As argued by the Appellant, the Appellant is left to speculate as to what factual assumptions it must demolish to succeed in its position that both Lowfroc and WebOps, which are third parties, are not residents of Canada. As indicated by the Federal Court of Appeal in Anchor Pointe (at para 26), the Minister must extricate the factual components of a conclusion of mixed fact and law, and here, the Minister must extricate the factual components of the conclusion of mixed fact and law that the “controlling minds and management” of Lowfroc and WebOps are in Canada.
+[37] Hence, because the Appellant will have to speculate as to the facts underlying the conclusion of mixed fact and law of the Minister that the “controlling mind and management” of Lowfroc and WebOps was in Canada, and because the Appellant therefore cannot be properly prepared for and proceed with discoveries, this will prejudice or delay the fair prosecution of the appeal and constitutes an abuse of the Court’s process.
+[38] For these reasons, in accordance with paragraphs 53(1)(a) and (c) of the Rules, subparagraphs 12.w) and x) of the Reply are struck. Since the Respondent specifically asked the Court not to allow leave to amend the Reply, the Court shall not grant leave to amend the Reply.
+6.3 Costs
+[39] As indicated above, the Appellant seeks costs in an aggregate lump sum amount of $15,000 for this Motion, together with the motions of Adboss, Ltd. (2021‑586(GST)G) and Bluecove Management Ltd. (2021‑587(GST)G), to be paid forthwith and in any event of the cause, on the basis that legal fees totalling $25,000 have been incurred by the Appellant for this Motion, as well as by Adboss, Ltd. (2021‑586(GST)G) and Bluecove Management Ltd. (2021‑587(GST)G) for their respective motions. However, according to the Respondent, costs should be limited to $3,000 for the three motions.
+[40] I find that costs in an aggregate lump sum amount of $6,000 shall be awarded to the Appellant for the Motion, and for the motions of Adboss, Ltd. (2021‑586(GST)G) and Bluecove Management Ltd. (2021‑587(GST)G), payable forthwith and in any event of the cause. In reaching that conclusion, I took into account the fact that the Appellant was wholly successful in its position and that the hearing lasted approximately half a day. I also find that the legal issues raised by the Motion were not complex or important and that the volume of work was not significant.
+Signed at Edmonton, Alberta, this 1st day of November 2022.
+“Dominique Lafleur”
+Lafleur J.
+CITATION:
+2022 TCC 127
+COURT FILE NO.:
+2021-588(GST)G
+STYLE OF CAUSE:
+LIBERTY STREET MANAGEMENT LTD. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+September 15, 2022
+REASONS FOR ORDER BY:
+The Honourable Justice Dominique Lafleur
+DATE OF ORDER:
+November 1, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Mark Tonkovich
+Alexe Corbeil-Courchesne
+Counsel for the Respondent:
+Tony C. Cheung
+COUNSEL OF RECORD:
+For the:
+Name:
+Mark Tonkovich
+Alexe Corbeil-Courchesne
+Firm:
+Blake, Cassels & Graydon LLP
+Toronto, Ontario
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

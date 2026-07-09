@@ -1,0 +1,174 @@
+---
+title: "Fundy Spray Motel Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/135304/index.do"
+last_modified: "2016-01-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 25"
+citation2: ""
+neutral_citation: "2016 TCC 25"
+decision_date: "2016-01-29"
+language: "en"
+item_id: "135304"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3033
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:00:24.526000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ca3ad1830dd7717838c5575c7326e07d995de87133409306f44517eb558d0874"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fundy Spray Motel Limited v. The Queen
+
+- Citation: 2016 TCC 25
+- Decision date: 2016-01-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3033, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fundy Spray Motel Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-01-29
+Neutral citation
+2016 TCC 25
+File numbers
+2015-882(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-882(GST)I
+BETWEEN:
+FUNDY SPRAY MOTEL LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 24, 2015, at Halifax, Nova Scotia
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Phillip Graves
+Counsel for the Respondent:
+Tokunbo Omisade
+JUDGMENT
+The appeal from the reassessment dated December 11, 2014 made under the Excise Tax Act for the quarterly periods from January 1, 2011 to December 31, 2012 is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment to exclude the GST/HST collectible in respect of the ATM business revenue earned in 2011 and 2012, in accordance with the attached reasons for judgment.
+Signed at Montreal, Quebec, this 29th day of January 2016.
+“Réal Favreau”
+Favreau J.
+Citation: 2016 TCC 25
+Date: 20160129
+Docket: 2015-882(GST)I
+BETWEEN:
+FUNDY SPRAY MOTEL LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a reassessment dated December 11, 2014 made by the Minister of National Revenue (the “Minister”) under Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the “ETA”), for the quarterly periods from January 1, 2011 to December 31, 2012 (the “periods in issue”). The details of the adjustments made by the Minister to the unreported net tax of the appellant for the periods in issue can be found in Schedule “A” attached to these reasons for judgment.
+[2] In determining the appellant’s net tax liability for the periods in issue, the Minister made the following assumptions of fact, as set out in paragraph 10 of the Reply to the Notice of Appeal:
+a) the Appellant was a registrant under the Act;
+b) the Appellant filed its returns on a quarterly basis;
+c) the Appellant was incorporated in the province of Nova Scotia in 1998;
+d) the Appellant’s shareholders were Phillip Graves, Gordon Avery and Randy Fitch;
+e) Phillip Graves (“Graves”) was the majority shareholder of the Appellant;
+f) the Appellant had various revenue streams including a motel, convenience store, and property management;
+g) the Appellant managed properties for a related company (Pine Glenn) for a commission fee;
+h) the convenience store included an ATM machine on site, video rentals and laundry services;
+i) the motel and convenience store were open year round from 7 a.m. to 11 p.m. with the high season in the summer and low season in the winter;
+j) the Appellant had 5 employees including a manager;
+k) Graves was the only shareholder with hands on involvement in the day to day operations of the Appellant;
+l) Graves was the Appellant’s bookkeeper and prepared its GST/HST returns;
+m) the Appellant’s books and records were incomplete;
+Motel Room and Revenue
+n) the Appellant participated in the Checks Ins Nova Scotia program;
+o) the Appellant obtained third party room bookings through the Checks Ins Nova Scotia program;
+p) the Appellant rented its motel rooms at an average rate of $68.20 per room;
+q) the Appellant received revenue totaling $143,970.20 from its motel service in 2011, as detailed in Schedule “B” to the Reply;
+r) the Appellant failed to report revenue of $8,851.59 from its motel service in 2011;
+s) the Appellant received revenue totaling $158,087.60 from its motel service in 2012, as detailed in Schedule “C” to the Reply;
+t) the Appellant failed to report revenue of $8,980.90 from its motel service in 2012;
+u) the Appellant failed to report GST/HST collectible of $1,327.74 and $1,347.14 in 2011 and 2012, respectively, as detailed in Schedules “B” and “C” to the Reply;
+ATM Fees
+v) the Appellant did not own the ATM machine at its convenience store;
+w) the Appellant rented out the space occupied by the ATM machine;
+x) the Appellant received revenue totaling $1,362.00 and $1,083.00 from renting space for the ATM in 2011 and 2012, respectively, as detailed in Schedules “D” and “E” to the Reply; and
+y) the Appellant failed to report GST/HST collectible of $177.66 and $141.26 in respect of the ATM business in 2011 and 2012, respectively, as detailed in Schedules “D” and “E” to the Reply.
+[3] In the course of the hearing, counsel for the respondent conceded that the ATM revenues were from a financial service that was exempt from any GST/HST. The appeal in respect of that part of the reassessment was conceded by the respondent.
+[4] The only issue left concerns the revenues derived from the renting of the motel rooms.
+Position of the Appellant [5] The appellant’s position is that the Canada Revenue Agency (“CRA”) had no authority to make a reassessment based on projections for the following reasons:
+− the projections made by the CRA had no statistical value;
+− the books and records of the appellant were accurate; and
+− all income from room rentals were reported by the appellant.
+Position of the Respondent [6] The respondent’s position is that the books and records of the appellant for the periods in issue were incomplete and were not remitted to the CRA. The reservation books of the appellant for the periods in issue were not available and were not filed in Court.
+[7] The CRA had to rely on the third party data, being Check Ins Nova Scotia, to determine the number of rooms that were rented by the appellant and at what price.
+[8] There was a discrepancy between Check Ins Nova Scotia data and the general ledger of the appellant. For this reason, the Minister was justified to use projections to determine the revenue from room rentals.
+[9] According to the respondent, the appellant failed to report revenue of $8,851.59 and $8,980.90 in 2011 and 2012, respectively from its motel business which represented $1,327.74 and $1,347.14 of unreported GST/HST for the quarterly periods in 2011 and 2012, respectively.
+Other Background Information [10] At the end of 2013, the CRA conducted an audit of the affairs of the appellant for the 2011 and 2012 taxation years. The revenue from the renting of motel rooms was one of the points covered by the audit. The purpose of the audit on this matter was to review the Check Ins Nova Scotia information provided by the appellant as a listing of rooms rented. The number of rooms were grossed-up by the average room price of $80.63 (before tax) to give a net revenue amount per day which has then been totaled per month for the purpose of comparing with the actual revenue reported in the appellant’s books and records. The auditor’s report dated January 27, 2014 indicated that the total projected room revenue for the audit period was $357,110.27.
+[11] As a result of the appellant’s representations, a revised audit was conducted by Mr. D. Benjamin Costello and by Mr. Brent Poole. The purpose of their audit was to determine a revised average rate per room rental and check if there was a variance between the average rate via the Z-tapes and the average rate used in the previous auditor’s projections. For this second audit, the auditors took all room sales from Z-Tapes for the months of September to December 2012 and determined the average room rate per month based on actual sales. The actual average rate was then weighted against the rate used in projections and the variances were analysed. In their report dated August 8, 2014, the auditors determined that, based on the Z-tapes and the general ledger, the average room rate was $68.20. The auditors also found that the revenues from the room rentals from two important clients of the appellant, Dexter Construction and Nova Scotia Transportation and Public Works which used to pay by cheques after receiving an invoice, were not on the Z-tapes. According to the auditors, there was a considerable variance in the number of rooms rented which explained the discrepancy between the general ledger and projections no 2. Using an average room rate of $68.20, the variance was $8,851.59 for 2011 and $8,980.90 for 2012.
+[12] Mr. Kenneth L. Bower, c.g.a., testified at the hearing and explained that the CRA had no reasons to make a reassessment based on projections since all income from room rentals were reported and since the records of the appellant were accurate.
+[13] Mr. Bower pointed out that during a seven month period included in the audit, there was no indication that the room rentals were not reported. The periods in question were from September and December 2012 and from January to March 2013. The period in 2013 was audited but was not assessed.
+[14] Finally, Mr. Bower explained that the billing after the stay was not reported on the Z-tapes because the list entries were not complete during the audit period.
+Analysis and Conclusion [15] Subsection 286(1) of the ETA sets out the obligation of every person who carries on a business to keep sufficient records to allow the Minister to determine the obligations, liabilities and rights of the person under Part IX.
+[16] Subsection 299(1) of the ETA reads as follows:
+The Minister is not bound by any return, application or information provided by or on behalf of any person and may make an assessment, notwithstanding any return, application or information so provided or that no return, application or information has been provided.
+[17] Since the information in the present case was not adequate or available, the auditor used the data from Check Ins Nova Scotia to establish the number of rooms rented by the appellant during the relevant period. No information was provided by the appellant that would have otherwise established the number of rooms rented. The reservation book would have shown the occupancy of the rooms. The fact that the occupancy report was given to Check Ins Nova Scotia by the appellant on a monthly basis and that a hard copy of the Check Ins Nova Scotia information was remitted by the appellant to the auditor does not change the situation that the information was obtained from a third party and not from a reliable source of the appellant. Under the circumstances, the use of projections by the CRA was acceptable and necessary.
+[18] To succeed in his appeal, the appellant had to demonstrate, on a balance of probabilities, that the Minister’s numbers were erroneous, doing so through the use of supporting documentation or through the testimony of independent and credible witnesses.
+[19] In Baker v. The Queen, 2007 TCC 106, Bédard J. wrote at paragraph 25:
+It is incumbent on the taxpayer to establish, on a balance of probabilities, that the assessment is too high in light of the applicable law and the pertinent facts. It is not enough for the taxpayer to demonstrate that it is conceivable that the assessment is too high. The taxpayer cannot use another, equally arbitrary method, to demonstrate that the amount of net tax assessed by the Minister was too high . . .
+[20] In this case, the appellant did not succeed in establishing, on a balance of probability, that the reassessment was too high. The average room rate per month was based on the actual sales for the months of September to December 2012, extracted from the Z-tapes and the general ledger of the appellant. The average room rate of $68.20 was based on the appellant’s own data. The information obtained from the Check Ins Nova Scotia regarding the listing of rooms rented was not contested by the appellant. Finally, the appellant did not provide any reasonable information as to why there was a discrepancy between the Check Ins Nova Scotia data and the Z-tapes and general ledger of the appellant and as to why the invoices to Dexter Construction and to the Nova Scotia Transportation and Public Works did not show up on the Z-tapes.
+[21] For these reasons the appeal is allowed only in respect of the concession made by the Minister and the matter is referred back to the Minister for reconsideration and reassessment to exclude the GST/HST collectible in respect of the AMT business revenue earned in 2011 and 2012.
+Signed at Montreal, Quebec, this 29th day of January 2016.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2016 TCC 25
+COURT FILE NO.:
+2015-882(GST)I
+STYLE OF CAUSE:
+FUNDY SPRAY MOTEL LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+September 24, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+January 29, 2016
+APPEARANCES:
+Agent for the Appellant:
+Phillip Graves
+Counsel for the Respondent:
+Tokunbo Omisade
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

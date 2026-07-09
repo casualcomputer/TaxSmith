@@ -1,0 +1,109 @@
+---
+title: "Commission Scolaire des Patriotes c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27122/index.do"
+last_modified: "2006-12-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 62"
+citation2: ""
+neutral_citation: "2007 CCI 62"
+decision_date: "2006-12-27"
+language: "fr"
+item_id: "27122"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 927
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:25:10.448000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "08bfcfdf8ca4820aa22e68a456e4f642f17cffc07a42f20541620f2f229dfbdc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Commission Scolaire des Patriotes c. La Reine
+
+- Citation: 2007 CCI 62
+- Decision date: 2006-12-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 927, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Commission Scolaire des Patriotes c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-27
+Référence neutre
+2007 CCI 62
+Numéro de dossier
+2005-1163(GST)G
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2007CCI62
+Date : 20070126
+Dossier : 2005-1163(GST)G
+ENTRE :
+COMMISSION SCOLAIRE DES PATRIOTES,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Archambault
+[1] La Commission scolaire des patriotes (Commission scolaire) a déposé le 2 octobre 2006 un avis de requête en autorisation de produire un avis d'appel modifié qu'elle a joint à sa requête[1]. Dans une lettre du 27 septembre 2006, l'intimée s'était opposée au dépôt de cet avis d'appel modifié. À l'audience, par contre, l'intimée a indiqué qu'elle ne s'opposait pas vraiment au dépôt d'un tel avis, mais contestait plutôt l'ajout des paragraphes 25, 26, 27 et 29 et l'inclusion de la proposition conditionnelle au paragraphe 28. Voici ce que disent ces paragraphes de l'avis d'appel modifié :
+25. Si cette Honorable Cour décide que le Ministre n'avait pas épuisé son pouvoir discrétionnaire en émettant la cotisation du 10 mai 2004, l'Appelante soumet respectueusement que l'exercice de sa discrétion le 11 mai 2004 était manifestement déraisonnable dans les circonstances.
+26. Puisque le paragraphe 3 de l'article 64 de la Loi d'exécution du budget de 2003 n'oblige pas le Ministre à cotiser l'Appelante selon les nouvelles règles rétroactives, mais confère au Ministre la discrétion de le faire, il était manifestement déraisonnable pour le Ministre d'ignorer son consentement à jugement, le jugement de cette Honorable Cour et la cotisation qu'il a émise le 10 mai 2004 pour y donner effet, en émettant une nouvelle cotisation le 11 mai 2004 dans le but d'annuler ce qu'il avait auparavant décidé d'accorder.
+27. De plus, si le Ministre n'a jamais eu l'intention de respecter son consentement à jugement et le jugement de cette Honorable Cour, alors le comportement du Ministre était manifestement déraisonnable.
+28. Si cette Honorable Cour décide que le paragraphe 3 de l'article 64 de la Loi d'exécution du budget de 2003 autorise clairement le Ministre à agir comme il l'a fait ou empêche une révision judiciaire de l'exercice de son pouvoir discrétionnaire dans le présent dossier, l'Appelante soumet respectueusement que le paragraphe 3 de l'article 64 de la Loi d'exécution du budget de 2003 est inconstitutionnelle.
+29. L'Appelante soumet que le paragraphe 3 de l'article 64 de la Loi d'exécution du budget de 2003 ne pouvait autoriser le Ministre à miner la crédibilité des tribunaux en leur demandant de rendre des jugements qu'il n'avait pas l'intention de respecter ou de mettre le Ministre à l'abri d'une révision judiciaire dans l'exercice de son pouvoir discrétionnaire.
+[2] En somme, la véritable question à résoudre est de savoir s'il est justifié de radier lesdits paragraphes. Le débat s'est déroulé comme s'il s'agissait d'une requête en radiation présentée par l'intimée.
+[3] Il est utile de situer le litige dans son contexte factuel. À l'égard de la période du 1er avril 1999 au 30 avril 1999, la Commission scolaire a réclamé, en vertu de la partie IX de la Loi sur la taxe d'accise (LTA), des crédits de taxe sur intrants (CTI) que le ministre ne lui a accordés qu'en partie. Elle a interjeté appel de la cotisation dont l'avis est daté du 2 septembre 1999. La Commission scolaire croit avoir droit au plein remboursement. La même question a été traitée dans plusieurs décisions judiciaires, dont celle rendue le 17 octobre 2001 par la Cour d'appel fédérale dans Des Chênes (Commission scolaire) c. R., 2001 CAF 264, [2001] G.S.T.C. 120; cette décision a reconnu aux commissions scolaires le droit au plein remboursement des CTI[2]. Le 18 février 2003, le ministre des Finances a déposé un budget dont une des mesures visait à modifier l'article 5 de la partie III de l'annexe V de la LTA de façon à justifier rétroactivement au 17 décembre 1990 l'interprétation de l'intimée que la Cour d'appel fédérale avait rejetée dans Des Chênes.
+[4] Le 7 mars 2003, le ministre et la Commission scolaire signaient un consentement à jugement donnant gain de cause à la Commission scolaire. Le 14 avril 2003, j'ai signé un jugement donnant effet à ce consentement à jugement. Le 10 mai 2004, le ministre du Revenu national a établi un avis de cotisation afin de donner effet à ce jugement. Se fondant sur le paragraphe 64(3) de la Loi d'exécution du budget de 2003 (édictant la mesure budgétaire du 18 février 2003 mentionnée ci-dessus), le ministre a établi le lendemain, soit le 11 mai 2004, un nouvel avis de cotisation par lequel il a éteint par compensation le droit de la Commission scolaire au remboursement consenti le 10 mai 2004. Selon la Commission scolaire, le ministre ne pouvait établir la cotisation du 11 mai 2004 puisqu'il avait épuisé son pouvoir discrétionnaire de le faire le 10 mai 2004 et, s'il ne l'avait pas épuisé, il s'agissait d'un exercice déraisonnable du pouvoir discrétionnaire.
+[5] Le 31 octobre 2006, après une audition de plus de quatre heures et demie, au cours de laquelle un dialogue s'est établi entre la Cour et chacun des procureurs, j'ai prononcé oralement la décision suivante sur les requêtes :
+Il ne s'agit pas ici de décider du bien-fondé de l'argument invoqué par le procureur de la Commission scolaire des patriotes dans son avis d'appel modifié aux paragraphes 25 à 29. Tout ce que la Cour a à décider c'est si cet argument est erroné de façon manifeste, hors de tout doute raisonnable. Même si je suis loin d'être certain que l'argument par la Commission scolaire soit bien fondé, je n'en suis pas convaincu hors de tout doute raisonnable. Il me semble en outre plus approprié et dans le meilleur intérêt de la justice que cette question soit tranchée par le juge qui va entendre l'appel au fond. Par conséquent, la Cour accueille la demande de la Commission scolaire pour modifier son avis d'appel et rejette la demande de l'intimée relative à la radiation des paragraphes 25 à 29 de cet avis d'appel modifié. À la demande de l'avocate de l'intimée, la Cour accorde un délai de 40 jours pour produire la réponse à l'avis d'appel modifié.[3]
+Signé à Ottawa, Canada, ce 26e jour de janvier 2007.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE : 2007CCI62
+N º DU DOSSIER DE LA COUR : 2005-1163(GST)G
+INTITULÉ DE LA CAUSE : Commission scolaire des patriotes c. La Reine
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 31 octobre 2006
+MOTIFS DE JUGEMENT PAR : L'honorable juge Pierre Archambault
+DATE DU JUGEMENT : le 26 janvier 2007
+COMPARUTIONS :
+Avocat du requérant:
+Me Claude Nadeau
+Avocate de l'intimée:
+Me Justine Malone
+AVOCAT INSCRIT AU DOSSIER :
+Pour le requérant:
+Nom : Me Claude Nadeau
+Cabinet : Laflamme Nadeau
+Avocats • Attorneys
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Cet avis d'appel modifie celui du 13 avril 2005.
+[2] Voir également la décision que j'ai prononcée le 30 avril 2002 dans Victoriaville (Commission scolaire) c. R., 2002 G.T.C. 196, [2002] G.S.T.C. 49, en particulier aux paragraphes 130 et suivants. La Commission scolaire était l'une des parties requérantes dans cette décision.
+[3] Le texte a été modifié pour plus de clarté et de précision.

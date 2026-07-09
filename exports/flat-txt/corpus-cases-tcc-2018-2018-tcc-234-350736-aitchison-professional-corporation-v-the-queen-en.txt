@@ -1,0 +1,128 @@
+Title: Aitchison Professional Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/350736/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-234-350736-aitchison-professional-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-11-20
+
+# Aitchison Professional Corporation v. The Queen
+
+- Citation: 2018 TCC 234
+- Decision date: 2018-11-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5001, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aitchison Professional Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-11-20
+Neutral citation
+2018 TCC 234
+File numbers
+2014-844(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-844(IT)G
+BETWEEN:
+AITCHISON PROFESSIONAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+ORDER AS TO COSTS
+Before: The Honourable Justice David E. Graham
+Participants:
+Counsel for the Appellant:
+Adrienne K. Woodyard
+Counsel for the Respondent:
+Samantha Hurst
+ORDER
+Costs of $19,400 plus disbursements are awarded to the Appellant.
+Signed at Ottawa, Canada, this 20th day of November 2018.
+“David E. Graham”
+Graham J.
+Citation: 2018 TCC 234
+Date: 20181120
+Docket: 2014-844(IT)G
+BETWEEN:
+AITCHISON PROFESSIONAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] In my Judgment dated July 6, 2018, I allowed the Appellant’s appeal with costs to the Appellant. I provided the parties with time to reach an agreement on costs, failing which the parties were to make written submissions regarding costs. The parties were unable to reach an agreement and have now made written submissions.
+[2] The Appellant’s actual costs in the appeal were $185,014.85. The Appellant is requesting lump sum costs of $134,321.42.
+[3] The Respondent is requesting costs in accordance with Schedule II, Tariff B of the Tax Court of Canada Rules (General Procedure) for a Class C proceeding (the “Tariff”) plus disbursements.
+[4] Subsection 147(3) of the Tax Court of Canada Rules (General Procedure) sets out the factors that the Court may consider in awarding costs. I will consider each of those factors in turn.
+Result of the Proceeding
+[5] The Appellant was entirely successful in the appeal. While the first issue in the appeal was a black-or-white issue, had the Appellant not been successful, the trial would have had to continue and, given the valuation issues that would have been involved in the second part of the trial, a range of outcomes would have been possible. As a result, the Appellant’s complete success in the appeal supports a higher award of costs.
+Amount in Issue
+[6] The amount in issue in the appeal was significant, totalling almost $2.1 million. This supports a higher award of costs.
+Importance of the Issues
+[7] The issue raised in the appeal was whether the “right to invoice for legal services” was property for the purposes of subsection 160(1) of the Income Tax Act. While this issue was clearly important to the parties, it was not important to the development of the tax law, to the public’s interest or to a broad number of people.
+[8] I acknowledge that, at the end of the Reasons for Judgment, I pointed out that the outcome of the appeal may cause Parliament to want to amend the Act. In my view, that does not mean that the issue was important. If Parliament choses to amend the Act, it will do so because it believes that there is a gap in the legislation that it wants to fill. It will not do so as a result of my decision on the very narrow issue before me.
+[9] Based on all of the foregoing, I give no weight to this factor.
+Settlement Offers
+[10] I am advised by the Appellant that it made an oral settlement offer during a settlement conference that was held and that the Respondent subsequently rejected that offer. Subsections 147(3.1) and (3.2) of the Tax Court of Canada Rules (General Procedure) provide for enhanced costs in circumstances where a party is more successful than they would have been under a settlement offer that they made. However, paragraph 147(3.3)(a) requires that such an offer be made in writing. The Appellant’s offer was not made in writing and thus does not qualify for enhanced costs. Based on the foregoing, I give no weight to this factor.
+Volume of Work
+[11] The amount of work involved in this appeal was not significant. This argues for lower costs.
+Complexity of the Issues
+[12] The issues in the appeal were not complex. This argues for lower costs.
+Conduct Affecting the Duration of the Proceeding
+[13] If a witness who is within the control of a party fails to testify in an honest and straight forward manner, the resulting delay in the proceedings is a factor that should be considered when awarding costs. James Aitchison provided testimony at trial on behalf of the Appellant. He was not only a shareholder and director of the Appellant, but also, in my view, its controlling mind. His testimony lacked and, at times, defied credibility. The trial would undoubtedly have been faster had James Aitchison provided honest, straight forward testimony. This argues for lower costs.
+Denial or Refusal to Admit
+[14] There was no evidence that would suggest that either party had denied or refused to admit anything that should have been admitted.
+Improper, Vexatious or Unnecessary Stages
+[15] There was no evidence that would suggest that any stage in the proceeding was improper, vexatious or unnecessary.
+Stages Taken Through Negligence, Mistake or Excessive Caution
+[16] There was no evidence that would suggest that any stage in the proceeding was taken through negligence, mistake or excessive caution.
+Expert Witnesses
+[17] No expert witnesses were called.
+Other Relevant Matters
+[18] With respect, given the language of subsection 160(1) and the Federal Court of Appeal decision in Manrell v. The Queen, [1] the position taken by the Minister in assessing the Appellant was simply not supportable. I understand that James Aitchison’s conduct cried out for a response, but that does not entitle the Minister to put the Appellant through an appeal to oppose an unsupportable position. The Minister’s conduct in doing so supports a higher award of costs.
+Irrelevant Factor
+[19] I think that it is important that I highlight a factor that is not relevant to my decision on costs. In the Reasons for Judgment, I described the outcome of the appeal as being “distasteful”. That comment was contained in a portion of the Reasons designed to highlight to Parliament a potential weakness in the Act and to caution Parliament against responding without first considering the potential consequences. While my view on that matter has not changed, that view plays no part in my consideration of costs.
+Summary
+[20] Considering all of the above factors, I am prepared to award costs equal to double the costs set out in the Tariff plus disbursements. In doing so I am particularly influenced by the fact that the Minister should not have brought this matter forward to trial and by the delay caused by James Aitchison’s testimony.
+[21] The parties agree that costs calculated pursuant to the Tariff would be $9,700. Accordingly, I award costs of $19,400 plus disbursements to the Appellant.
+Signed at Ottawa, Canada, this 20th day of November 2018.
+“David E. Graham”
+Graham J.
+CITATION:
+2018 TCC 234
+COURT FILE NO.:
+2014-844(IT)G
+STYLE OF CAUSE:
+AITCHISON PROFESSIONAL CORPORATION v. HER MAJESTY THE QUEEN
+DATE OF HEARING:
+Motion determined by Written Submissions
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+November 20, 2018
+PARTICIPANTS:
+Counsel for the Appellant:
+Adrienne K. Woodyard
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Adrienne K. Woodyard
+Firm:
+DLA Piper (Canada) LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2003 FCA 128.

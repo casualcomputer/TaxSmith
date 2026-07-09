@@ -1,0 +1,203 @@
+---
+title: "Perlman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30142/index.do"
+last_modified: "2010-12-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 658"
+citation2: ""
+neutral_citation: "2010 TCC 658"
+decision_date: "2010-12-23"
+language: "en"
+item_id: "30142"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7785
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:43:57.244000+00:00"
+cases_cited_count: 8
+cases_citing_count: 8
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bfab8ff8033bb3e3e6017c70d87a2f69cf68d1fcb4e503826af59d3abaece83d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Perlman v. The Queen
+
+- Citation: 2010 TCC 658
+- Decision date: 2010-12-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7785, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perlman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-12-23
+Neutral citation
+2010 TCC 658
+File numbers
+2009-1086(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1086(IT)G
+BETWEEN:
+YEHOSHUA PERLMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 5, 2010, at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Thang Trieu
+____________________________________________________________________
+JUDGMENT
+The appeal from the redeterminations made under the Income Tax Act for the 2005 and 2006 taxation years with respect to the Canada Child Tax Benefits is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and redetermination in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 23rd day of December 2010.
+"Patrick Boyle"
+Boyle J.
+Citation: 2010 TCC 658
+Date: 20101223
+Docket: 2009-1086(IT)G
+BETWEEN:
+YEHOSHUA PERLMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+I. Introduction
+[1] The issue in this case is whether the appellant was a resident of Canada for purposes of the Canada Child Tax Benefit (“CCTB”) provisions in the Income Tax Act (the “Act”) for the period in which he was out of the country pursuing his post‑secondary education on a continuing full‑time basis.
+[2] This issue was not raised when the appellant was redetermined by the Canada Revenue Agency (“CRA”) not to be entitled to the CCTB amounts he had received in 2005 and 2006. Hence, it was not considered at the objection and confirmation stage. It was raised for the first time in this proceeding. Reflecting this, the Minister’s reply includes an assumption of fact that Mr. Perlman was a resident of Canada throughout the relevant period. The onus is therefore on the Minister to establish to this Court that, on a balance of probabilities, Mr. Perlman was not a resident of Canada during the relevant period.
+[3] The CRA had initially redetermined that Mr. Perlman did not qualify for the CCTB as he was not his children’s primary caregiver because paragraph (f) of the definition of “eligible individual” in section 122.6 of the Act provided a presumption for the years in question that a child’s mother is his or her primary caregiver. Mr. Perlman’s position was that his wife had filed a written declaration in accordance with Regulation 6301 that she was not the children’s primary caregiver. There was evidence of a temporary health condition significantly affecting her ability to be the primary caregiver during the period.
+[4] The CRA’s response, carried through to the reply, was that since the mother was not a resident of Canada she could not file a valid and effective declaration under Regulation 6301. Mr. Perlman had married his wife, a US citizen and then a US resident, in New York immediately before embarking on his studies outside Canada. His wife had never resided in Canada. At the hearing, the respondent dropped this position and agreed, at least for purposes of the hearing, that section 122.6 and Regulation 6301 do not impose a residency requirement on the mother in order for the declaration to be effective. This appears to be clear from a plain reading of the section and the regulation. Although non‑residents cannot be eligible individuals, non‑resident spouses of eligible individuals are relevant in determining CCTB eligibility.
+[5] The CRA’s next position was that, even if the mother was not the primary caregiver by virtue of filing the declaration, this did not mean that her husband, the children’s father, was necessarily the primary caregiver and that remained to be proved by the appellant. This is technically correct given the wording governing the presumption even though, in order to negate the presumption, the mother must declare that the father is the primary caregiver. In this case it is sufficient to note that there is no evidence of a third person in this family relationship. The respondent wisely abandoned this position at the outset of the hearing.
+[6] The result is that the only issue to be determined is whether Mr. Perlman was resident in Canada as required by paragraph (c) of the definition of “eligible individual”. For purposes of his 2005 and 2006 CCTB entitlements this requires that he be resident for the “base taxation years” of 2003 and 2004. Further, it is the Crown who bears the burden of proof on this issue.
+II. Evidence
+[7] Mr. Perlman testified on his own behalf. He did not call any other witnesses. The Crown did not call any witnesses.
+[8] Mr. Perlman was born, raised and educated in Toronto. There is no doubt that he was resident in Canada and only in Canada until he was 22 years old at which time he left to get married and to pursue his further education.
+[9] His evidence is that he always intended to return to Canada once he had completed his education. His initial plan was to be pursuing his studies for at least two years. By the end of the first two years, given his interest, aptitude and success, he decided to pursue further related advanced studies outside Canada. While he was gone he received an offer of a faculty position at a Canadian school which he deferred until he completes his sought after designation. That will be completed in the upcoming months and it is his intention to then return to Canada and take up the offered faculty position or a similar one. There is no evidence that he ever had a different intention from the outset of leaving Canada but to return to Canada at the completion of his studies and training.
+[10] The educational institution Mr. Perlman attended in the years in question is in Jerusalem in the State of Israel. He has been pursuing Talmudic and Rabbinic studies as well as studies in Jewish Family Law. The evidence is that there is no comparable course of study and instruction available in Canada or outside Israel. He described himself and his family as “ultra‑orthodox”. He expects to receive his rabbinical ordination in the next five months. Mr. Perlman is fortunate that both his parents and his in‑laws support him in his studies.
+[11] Throughout the period in Israel, Mr. Perlman’s parents have maintained a large self‑contained and furnished basement apartment for the exclusive use of him and his wife and children at their large family home in Toronto. He and his family keep their things there and they stay there when they are in Toronto. Given his intensive studies, his wife’s recent health issue and a growing young family, they have not returned as a family more than once a year though he does return at times without his family.
+[12] In Israel, Mr. Perlman’s in‑laws have paid for the cost of an apartment for him and his wife and children. Initially this was a rented apartment but his in‑laws bought them an apartment when they felt that to be a more sound economic decision given the high rents charged relative to the cost of buying an apartment in Jerusalem. Mr. Perlman has never planned to live in that owned apartment or elsewhere in Israel once he has completed his studies. He lives there with his wife and children. The Israeli apartment is furnished and set up as a traditional or conventional ultra‑orthodox family home. The children go to school in Israel and the Perlmans have Israeli doctors and dentists and private Israeli health care insurance. Mr. Perlman worships at a synagogue in Jerusalem.
+[13] Mr. Perlman has Canadian bank accounts, a Canadian RESP for his children, and a significant investment account managed by a Canadian brokerage firm which earns interest and other investment income. He also has an Israeli bank account for day‑to‑day living purposes. He does not have a non‑Canadian credit card. He receives a modest student stipend from his educational institution and his wife has worked in Israel at times during his study period.
+[14] Mr. Perlman is a Canadian citizen and only a Canadian citizen. His only passport is a Canadian passport. His status in Israel is student. When he left Canada Mr. Perlman did not seem to take any steps which evidence any intention to sever his ties in Canada, nor did he let those ties drop while he was away. He maintained accounts, credit cards, a safety deposit box, relationships, provincial health insurance, etc. He left his accumulated worldly possessions, such as they are for a 22‑year old, but including his personal library of Talmudic, Biblical, Jewish Philosophy and Jewish Law texts, at his Toronto home. Mr. Perlman has maintained a strong spiritual and religious relationship with his Toronto synagogue. His rabbis and mentors who encouraged him to pursue his rabbinical studies are there.
+[15] Since leaving Canada he has continued to vote in Canadian elections, joined a Canadian political party and was appointed a Deputy Warden by the Canadian Embassy in Israel. He has maintained his Toronto religious relationships and has been offered a faculty position in Toronto. He has not voted in Israel and he understands he is not entitled to.
+[16] He has consistently filed his Canadian tax return as a resident reporting his worldwide income, including his Canadian investment income. The CRA has assessed him as a resident of Canada for purposes of Part I of the Act and has not assessed him Part XIII withholding tax on his Canadian investment income. The CRA has not reassessed the years in question or any other years to treat him as a non‑resident for income tax purposes. Mr. Perlman has never filed Israeli tax return and the Israeli tax authorities have confirmed that in writing to the CRA. Mr. Perlman has received and produced letters from the Ministry of the Interior of the State of Israel confirming that his children are not considered Israeli citizens even though they were born there. I was told that the reason for this is because Mr. Perlman and his wife are considered foreigners by Israel. His children have Canadian birth certificates and are both citizens of Canada and the US.
+III. Law
+[17] “The legal test of residence has a substantial factual component”: per Sharlow J.A. in The Queen v. Laurin, 2008 FCA 58, 2008 DTC 6175. “It has frequently been pointed out that the decision as to the place or places in which a person is resident must turn on the facts of the particular case”: per Cartwright J. in Beament v. Minister of National Revenue, [1952] 2 S.C.R. 486, 52 DTC 1183, and quoted by Bowman C.J. in Laurin v. The Queen, 2006 TCC 634, 2007 DTC 236.
+[18] The concept of residence is not defined in the Act. Subsection 250(3) provides that a reference in the Act to a person’s residence in Canada includes a person who was at the relevant time ordinarily resident in Canada. The concept of ordinarily residence is not defined in the Act.
+[19] There have been numerous court cases grappling with the meaning to be given to the terms “resident” and “ordinarily resident”, identifying relevant factual criteria to be considered and applying those legal considerations to the facts of particular taxpayers.
+[20] The oft‑referred to decisions of the Supreme Court of Canada are those of Thomson v. Minister of National Revenue, [1946] S.C.R. 209, and Beament. The concepts were discussed by the former Chief Justice of this Court in Laurin which was upheld by the Federal Court of Appeal. In Laurin, Bowman C.J. referred to the oft‑quoted passage of Mahoney J. of the Federal Court on residence in The Queen v. Reeder, 75 DTC 5160.
+[21] In the published Supreme Court Report version of the Thomson decision, there is, as was then the practice, a summary of the law on residence as argued by the successful respondent’s counsel. To my mind, it is for purposes of this case a good summary of the meaning of residence and ordinary residence that can be distilled from Thomson and it is consistent with the many cases since then. It reads:
+In accordance with the test in Thomson v. Minister of National Revenue, the question whether a person resides or ordinarily resides at a place is one of fact. Amongst the facts to be considered is the original and continuing status of the person and the general mode of his life. Continual and uninterrupted physical presence is clearly not necessary and absence for a large part of a particular tax period does not prevent a person being resident and much less ordinarily resident. Where a person is absent the question of whether his absence interrupts his ordinary residence depends on the nature and purpose of his absence—whether it is to abandon his residence or is extraordinary, exceptional, temporary or accompanied by a sense of transitoriness or of return. Storage of personal belongings, maintenance of banking arrangements, the presence of an abode to which the person is free to come even though he has no proprietary interest, and the existence of family ties are all significant as indicating a retention of residence. Finally, the whole of the person’s course of conduct with respect to his absence, including his conduct in returning, may be looked at to determine whether his absence resulted in his ceasing to be resident.
+[22] A summary of the significant factors to be considered and their relevance is set out in Reeder as follows:
+While the Defendant here is far removed from the jet set, including any possible imputation of a preconceived effort to avoid taxation, the factors which have been found in those cases to be material in determining the pure question of fact of fiscal residence are as valid in his case as in theirs. While the list does not purport to be exhaustive, material factors include:
+a. past and present habits of life;
+b. regularity and length of visits in the jurisdiction asserting residence;
+c. ties within that jurisdiction;
+d. ties elsewhere;
+e. permanence or otherwise of purposes of stay abroad.
+[23] Given that residency cases are very fact specific, it is seemingly almost always possible to distinguish the facts of one from a case at hand or to point to facts that seem important in one case and are notably less so in another or arguably should be in the case at hand.
+[24] It can be noted that the Income Tax Convention between Canada and Israel, based upon the OECD Model Income Tax Convention, includes residence tie‑breaker rules. The Israeli treaty would apply to Mr. Perlman because it applies to anyone who is a resident of either state and, clearly on the evidence, Mr. Perlman is a resident of one of Canada or Israel. The term resident as used in the treaty however is not the same as the residence determination this Court is required to make since for treaty purposes a resident is a person who is generally liable to tax on his or her worldwide income in a country by reason of his or her domicile, residence, citizenship, place of management, place of incorporation or any other criteria of a similar nature. Nonetheless, it is notable that under the tie‑breaker rules if a person has a permanent home available in both states and it is not possible factually to determine the country with which his or her personal and economic relations are closer, residence is based upon nationality.
+[25] The CRA has issued Interpretation Bulletin IT-221R3 Determination of an Individual’s Residence Status, which provides the CRA’s general interpretation of the law. It reads in part:
+Discussion and Interpretation
+General
+. . .
+¶ 2. The term "resident" is not defined in the Income Tax Act (the "Act"), however, the Courts have held "residence" to be "a matter of the degree to which a person in mind and fact settles into or maintains or centralizes his ordinary mode of living with its accessories in social relations, interests and conveniences at or in the place in question." In determining the residence status of an individual for purposes of the Act, it is also necessary to consider subsection 250(3) of the Act, which provides that, in the Act, a reference to a person "resident" in Canada includes a person who is "ordinarily resident" in Canada. The Courts have held that an individual is "ordinarily resident" in Canada for tax purposes if Canada is the place where the individual, in the settled routine of his or her life, regularly, normally or customarily lives. In making a determination of residence status, all of the relevant facts in each case must be considered, including residential ties with Canada and length of time, object, intention and continuity with respect to stays in Canada and abroad.
+. . .
+Factual Residence -- Leaving Canada
+Residential Ties In Canada
+¶ 4. The most important factor to be considered in determining whether or not an individual leaving Canada remains resident in Canada for tax purposes is whether or not the individual maintains residential ties with Canada while he or she is abroad. While the residence status of an individual can only be determined on a case by case basis after taking into consideration all of the relevant facts, generally, unless an individual severs all significant residential ties with Canada upon leaving Canada, the individual will continue to be a factual resident of Canada and subject to Canadian tax on his or her worldwide income.
+. . .
+¶ 6. Where an individual who leaves Canada keeps a dwelling place in Canada (whether owned or leased), available for his or her occupation, that dwelling place will be considered to be a significant residential tie with Canada during the individual's stay abroad. However, if an individual leases a dwelling place located in Canada to a third party on arm's length terms and conditions, the CCRA will take into account all of the circumstances of the situation (including the relationship between the individual and the third party, the real estate market at the time of the individual's departure from Canada, and the purpose of the stay abroad), and may not consider the dwelling place to be a significant residential tie with Canada except when taken together with other residential ties (see ¶ 17 for an example of this situation and see ¶ 9 for a discussion of the significance of secondary residential ties).
+. . .
+¶ 8. Generally, secondary residential ties must be looked at collectively in order to evaluate the significance of any one such tie, therefore, it would be unusual for a single secondary residential tie with Canada to be sufficient in and by itself to lead to a determination that an individual is factually resident in Canada while abroad. Secondary residential ties that will be taken into account in determining the residence status of an individual while outside Canada are
+(a) personal property in Canada (such as furniture, clothing, automobiles and recreational vehicles),
+(b) social ties with Canada (such as memberships in Canadian recreational and religious organizations),
+(c) economic ties with Canada (such as employment with a Canadian employer and active involvement in a Canadian business, and Canadian bank accounts, retirement savings plans, credit cards, and securities accounts),
+(d) landed immigrant status or appropriate work permits in Canada,
+(e) hospitalization and medical insurance coverage from a province or territory of Canada,
+(f) a driver's license from a province or territory of Canada,
+(g) a vehicle registered in a province or territory of Canada,
+(h) a seasonal dwelling place in Canada or a leased dwelling place referred to in ¶ 6,
+(i) a Canadian passport, and
+(j) memberships in Canadian unions or professional organizations.
+¶ 9. Other residential ties that the Courts have considered in determining the residence status of an individual while outside Canada, and which may be taken into account by the CCRA, include the retention of a Canadian mailing address, post office box, or safety deposit box, personal stationery (including business cards) showing a Canadian address, telephone listings in Canada, and local (Canadian) newspaper and magazine subscriptions. These residential ties are generally of limited importance except when taken together with other residential ties, or with other factors such as those described in ¶ 10.
+Application of Term "Ordinarily Resident"
+¶ 10. Where an individual has not severed all of his or her residential ties with Canada, but is physically absent from Canada for a considerable period of time (that is, for a period of time extending over several months or years), the Courts have generally focused on the term "ordinarily resident" in determining the individual's residence status while abroad. The strong trend in decisions of the Courts on this issue is to regard temporary absence from Canada, even on an extended basis, as insufficient to avoid Canadian residence for tax purposes. Accordingly, where an individual maintains residential ties with Canada while abroad, the following factors will be taken into account in evaluating the significance of those ties:
+(a) evidence of intention to permanently sever residential ties with Canada,
+(b) regularity and length of visits to Canada, and
+(c) residential ties outside Canada.
+For greater certainty, the CCRA does not consider that intention to return to Canada, in and of itself and in the absence of any residential ties, is a factor whose presence is sufficient to lead to a determination that an individual is resident in Canada while abroad.
+Evidence of Intention to Permanently Sever Residential Ties
+¶ 11. Whether an individual intended to permanently sever residential ties with Canada at the time of his or her departure from Canada is a question of fact to be determined with regard to all of the circumstances of each case. Although length of stay abroad is one factor to be considered in making this determination (that is, as evidence of the individual's intentions upon leaving Canada), the Courts have indicated that there is no particular length of stay abroad that necessarily results in an individual becoming a non-resident. Generally, if there is evidence that an individual's return to Canada was foreseen at the time of his or her departure, the CCRA will attach more significance to the individual's remaining residential ties with Canada (see ¶s 5-9), in determining whether the individual continued to be a factual resident of Canada subsequent to his or her departure. For example, where, at the time of an individual's departure from Canada, there exists a contract for employment in Canada if and when the individual returns to Canada, the CCRA will consider this to be evidence that the individual's return to Canada was foreseen at the time of departure. However, the CCRA would have to review each individual's situation on a case by case basis to determine whether the individual's remaining residential ties with Canada, including the contract of employment, are sufficient to conclude that the individual continues to be resident in Canada.
+. . .
+The "Tie-Breaker Rules" in Tax Treaties
+¶ 25. An individual who is a resident of Canada for purposes of the Act is a resident of Canada for purposes of paragraph 1 of the Residence Article of any modern tax treaty between Canada and another country; such an individual may also be a resident of the other country for purposes of the same paragraph in the same treaty. In this situation, the Residence Article in the tax treaty will provide "tie breaker rules" to determine in which country the individual will be resident for purposes of the other provisions of the treaty. If, at any time, such "tie breaker rules" apply and it is determined that an individual is a resident of another country for purposes of a tax treaty between Canada and that country, then subsection 250(5) of the Act will deem the individual to be a non-resident of Canada for purposes of the Act (see ¶ 24).
+"Permanent Home" and "Center of Vital Interests" Tests
+¶ 26. "Tie-breaker rules" are found in paragraph 2 of Article IV of most modern income tax treaties. Usually, these rules rely first on a "permanent home" test to resolve the residence issue. Generally, the "permanent home" test provides that an individual is resident for purposes of the treaty in the country in which the individual has a permanent home available to him or her. A "permanent home" (as that term is used in income tax treaties) may be any kind of dwelling place that the individual retains for his or her permanent (as opposed to occasional) use, whether that dwelling place is rented or purchased or otherwise occupied on a permanent basis. Therefore, an individual may have two permanent homes while living outside Canada (for example, a dwelling place rented by the individual abroad and a property owned by the individual in Canada that continues to be available for his or her use, such as a home that is not leased to a third party on arm's length terms and conditions as described in ¶ 6) and the "permanent home" test will not result in a residency determination. Where this is the case, the "tie-breaker rules" of most treaties then refer to the "center of vital interests" test.
+The "center of vital interests" test requires a close examination of the individual's personal and economic ties with each country in question, in order to determine with which country those ties are closer. The personal and economic ties to be examined are similar to those used in determining factual residence for purposes of Canadian income tax (see especially ¶s 4 to 9). There are other tests that will apply if the "center of vital interests" test is inconclusive.
+[Emphasis added.]
+IV. Analysis
+[26] At first blush this appears to be a relatively straightforward case. A Canadian resident temporarily leaves Canada to pursue full‑time educational studies and training, always planning to return to Canada. One might well expect that should constitute continued Canadian residence throughout unless there was evidence of steps taken to cause the loss or giving up of Canadian residence for the period outside Canada and the re‑establishment of Canadian residence thereafter.
+[27] The one difficulty in this case is that Mr. Perlman left Canada in 1994 to begin his studies. He has been consistently pursuing his studies full-time, in three different programs, ever since. He expects to receive his rabbinical ordination in early 2011 and then return to Canada to teach. That is, this is not a period of several years but a period of more than 16 years in total. The base taxation years in issue, 2003 and 2004, are a decade after Mr. Perlman left Canada to begin his studies. The study of things eternal and God’s revealed word is a lifetime pursuit for many Canadians. In this case, it is understood that formal rabbinical studies of this nature rightly take a lengthy period of time in the order or range of Mr. Perlman’s 16 years. What is the significance or effect, if any, that the period for which one is outside the country pursuing studies has on one’s continued Canadian residency status?
+[28] The Crown has not put forward, nor have I located, any precedent which turns, even in part, in a significant way on the period of time one is outside Canada if one is a Canadian resident at the outset and has a continued intention to return evidenced by a Canadian home available to come home to and the prospects of a job waiting in Canada.
+[29] It is likely that the CRA could, in administering the Act, adopt a presumptive rule about the length of temporary absences from Canada and their impact on Canadian residence status. Indeed, for years the CRA had such a position set out in IT‑221 though it was removed in its 2001 revision. Clearly Parliament has the power to enact either a presumptive or a bright line test based upon a resident’s period of absence. It has not done so. It could also be done by way of a bilateral tax treaty. The Court does not have the power to adopt either a presumptive or a bright line test based on one’s period of absence from Canada. The period of time a resident lives outside Canada remains only a fact which must be considered by the Court, along with all others, in determining the questions framed in the jurisprudence. No period long or small will, on its own, be determinative and the significance and weight of this time factor may also vary from case to case depending upon the overall circumstances.
+[30] In this case, the respondent’s counsel has referred to the decisions in Nedelcu v. The Queen, 2008 TCC 417, 2008 DTC 4521, affirmed: 2010 DTC 5102 (FCA), and Smith v. The Queen, [2000] T.C.J. No. 668 (QL), [2000] 4 C.T.C. 2631. In each of these CCTB cases, the taxpayers were found not to be resident. However, in each case, the taxpayer had immigrated to Canada, become Canadian resident and left Canada without having a demonstrated intention to return to Canada on a permanent basis. It appears Ms. Nedelcu never did return and that Mr. Smith returned more than four years later. In neither case was the Court satisfied the taxpayer had discharged his or her burden of proof and satisfactorily established continued Canadian resident status.
+[31] A somewhat more similar case to Mr. Pelrman’s might be this Court’s decision in Collins v. The Queen, 2004 TCC 166. In Collins, the married taxpayers were both Canadian university professors who appealed their GST credit under the Act. They had moved to take contract work in the United States. When they left they retained their home in Canada and rented it out, and they left other personal effects behind. When they left they did not intend to leave permanently and continued to look for work in Canada. The Court was satisfied that they continued to be resident in Canada for their first five years but ceased to be resident thereafter based upon their own position that after five years, they planned to sever their ties with Canada and sold their home in Canada.
+[32] The factual circumstances of this case are quite unique and challenging. I am satisfied that Mr. Perlman continued to be a Canadian resident when he left Canada in 1994 to temporarily pursue his studies abroad. I am troubled by the fact that if I decide Mr. Perlman had thereafter lost his residence in Canada by 2003, I would be implicitly finding that, at some particular point after leaving Canada, he lost his Canadian residence and presumably became an Israeli resident. The Crown is unable to point me to any particular point in time or year since 1994 in which Mr. Perlman’s circumstances changed materially enough to constitute a change in residence; nor can this Court identify any significant material factual change which occurred after he left Canada in 1994. The Crown’s position is that the Court simply does not have to decide in this case when Mr. Perlman ceased to be a Canadian resident; it is sufficient to decide that by 2003 he had ceased to be a Canadian resident. The concern I have with respect to such an approach is that it is clear from the Act that a change in residence occurs at an identifiable point in time in a particular year: see, for example, section 128.1. There are a myriad of detailed rules triggered upon becoming or ceasing to be a Canadian resident. These trigger filing obligations, deemed dispositions, the need for valuations of assets, departure tax, the beginning or end of the obligation to pay Part XIII non‑resident withholding tax on Canadian investment income, etc. It would be inappropriate for this Court to dismiss Mr. Perlman’s appeal on the basis he was no longer a Canadian citizen by 2003 without being able to state, if not explain, both why and when he ceased to be a resident.
+[33] On the other hand, I am equally troubled by the fact that a 9, 10 or 16‑year period is on the very long side for a temporary departure that does not interrupt or affect one’s continued residence. However, to have the Court set an outside number of years which, on its own, causes a Canadian resident outside Canada solely to complete his or her full-time studies to lose Canadian residence status would not be appropriate as either an interpretation of the term residence nor as an appropriate application of the concept of residence to any particular student’s facts and circumstances. It would lead to questionable application of the law to Canadian students if I were to decide essentially that one three‑ or four‑year degree is all right, a further master’s degree may be, but a further doctorate or two may well not be.
+[34] Mr. Perlman placed into evidence a 2007 determination by the International Tax Services Office of the CRA which confirms that he had been determined by the CRA, based upon the information he provided, to be a continued resident of Canada while studying in Israel. Mr. Perlman placed considerable reliance upon this CRA letter.
+[35] In its opening statement, the Crown sought to dismiss the CRA’s residence determination as “musings”. Written confirmation coming from the CRA group responsible for such determinations in the circumstances, upon application being made therefor by the taxpayer, and upon completion of a CRA form requesting information upon which to base the determination can hardly be described as mere musings. While they will not generally bind the Crown, nor can estoppel generally apply against the Crown as regard to positions of law, CRA determinations such as these certainly hold a certain persuasive value and, when the CRA chooses to resile from them, call for a sound explanation not a mere dismissal as musings. See, for example, former Chief Justice Bowman’s decision in Alemu et al. v. The Queen, 99 DTC 714, at paragraph 30 and the cases referred to therein.
+[36] In making his application for the residency determination from the CRA in February 2007, Mr. Perlman nowhere indicated that he had initially left Canada in 1994. Instead, I was disappointed to learn that Mr. Perlman in that application described his date of departure as April 2005. The Benefit Program Validation and Controls questionnaire completed by him and sent to the CRA in November 2006 similarly indicates his date of departure from Canada as April 1, 2005. The accompanying letter from Rabbi Schwartzman, Dean at his Israeli educational institution, said he had been registered in its post‑graduate study program “since April 2005”. It may well be possible that this was just one piece of correspondence among many that the rabbi had to sign at the time and he may not have noticed the phrasing or the date. However, Mr. Perlman must have known that this phrasing was not accurate. When asked in cross‑examination and by the Court while he was testifying under affirmation, Mr. Perlman could not adequately and reasonably explain the reasonableness of him having told the CRA he left Canada in 2005, nor could he do so in argument. Instead, he pointed out that it was only beginning in April 2005 that he would have qualified for the CCTB and that was the date under review and therefore the only relevant period. That may be fine but it does not explain why he twice said his date of departure was in April 2005. He also suggested it was perhaps because, though he could not recollect, when he was completing the form in 2007, he picked a date in 2005 when he was in Canada on one of his return trips and indicated his return trip as the date of departure. I do not find either of these explanations at all reasonable in the circumstances. I am distressed by the implications of the serious and significant differences between what Mr. Perlman told the CRA in his administrative application and questionnaire as compared with the actual facts in his testimony in court.
+[37] In his forms he also indicated he intended to return in 2007 and, based upon the evidence of the nature of his studies and his wife’s health issue, I accept that was a reasonable date to indicate for his intended return at that time.
+[38] I am not ascribing any relevance in my determination to the CRA’s 2005 factual residency letter to Mr. Perlman because his written materials were seriously misleading and deceptive causing the CRA to reasonably assume that it was reviewing a two‑year study period by a Canadian resident. However, I remain satisfied that Mr. Perlman’s credibility in his affirmed testimony in Court has not been brought into question by that or otherwise. This may have been an isolated instance but it was material and, having heard Mr. Perlman’s testimony and his explanations about his 2007 answers, I am regrettably led to the conclusion that Mr. Perlman might regard his word to be different depending upon whether or not he has affirmed to its truthfulness. This is, after all, the purpose of oaths and affirmations. For this reason, I do not place any emphasis upon the CRA’s 2007 residency determination letter but I do continue to regard Mr. Perlman’s courtroom testimony as credible.
+[39] While this is a difficult case, I am left in the position that on the evidence before the Court, all of which was put in by or through the appellant, the Crown has been unable to discharge the burden upon it to satisfy the Court on a balance of probabilities that Mr. Perlman was not a resident of Canada in the relevant period. For that reason, the appeal is allowed, with costs.
+Signed at Ottawa, Canada, this 23rd day of December 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 658
+COURT FILE NO.: 2009-1086(IT)G
+STYLE OF CAUSE: YEHOSHUA PERLMAN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 5, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: December 23, 2010
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Thang Trieu
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,170 @@
+Title: Zupet v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25015/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-89-25015-zupet-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-02-03
+
+# Zupet v. M.N.R.
+
+- Citation: 2005 TCC 89
+- Decision date: 2005-02-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2522, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zupet v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-03
+Neutral citation
+2005 TCC 89
+File numbers
+2004-2536(CPP)
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2004-2536(CPP)
+BETWEEN:
+MARGO ZUPET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 12, 2005 at Edmonton, Alberta.
+Before: The Honourable Associate Chief Justice D.G.H. Bowman
+Appearances:
+Counsel for the Appellant:
+Tim P. Kirby
+Richard W. Kirby
+Counsel for the Respondent:
+Lesley Akst
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeal from the decision of the Minister of National Revenue made under the Canada Pension Plan be allowed and the decision that the appellant was employed by Starcycle Management Inc. in pensionable employment be vacated.
+Signed at Ottawa, Canada this 3rd day of February 2005.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Citation: 2005TCC89
+Date: 20050203
+Dockets: 2004-2536(CPP)
+BETWEEN:
+MARGO ZUPET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] The sole issue in this appeal is whether the appellant, as a sole shareholder, director and officer of her company can be in a contract for services as opposed to a contract of service with her company.
+[2] The respondent ruled that the appellant was employed in pensionable employment pursuant to paragraph 6(1)(a) of the Canada Pension Plan ("CPP") for the period January 1, 2002 to May 29, 2003 in respect of amounts received by her from her company, Starcycle Management Inc. ("Starcycle"). "Employment" is defined in section 2 of the CPP as follows:
+"employment" means the performance of services under an express or implied contract of service or apprenticeship, and includes the tenure of an office;
+[3] The appellant holds a Bachelor of Commerce degree from the University of Alberta and also became a chartered accountant in 1983. The following statements in the notice of appeal are admitted:
+1. At all material times, Starcycle carried on various businesses including without limitation, installing computer information systems, operating several rental properties and holding land as a long-term investment.
+2. At all material times, the Appellant owned all of the issued and outstanding shares in the capital stock of Starcycle.
+3. At all material times, the Appellant was the sole director and the President of Starcycle.
+6. The appellant is a registrant for purposes of the goods and services tax ("GST").
+11. Starcycle did not provide any training to or for the benefit of the Appellant.
+13. The Appellant was able to come and go for personal errands as she chose during the workday.
+15. The Appellant owned the following equipment and used it when providing services to Starcycle:
+a. computer equipment (including monitor, keyboard, removable hard drive, printer) and software;
+18. On June 2, 2003, the Respondent issued the Ruling wherein it was determined that the Appellant was engaged in excluded and pensionable employment with Starcycle for the period from January 1, 2002 to May 29, 2003.
+19. The Appellant appealed the Ruling sometime between June 2, 2003 and June 25, 2003 and the Respondent confirmed the Ruling by its decision dated February 23, 2004.
+[4] The following statements in the notice of appeal are denied in the reply.
+4. At all material times, the Appellant carried on a business of operating and renting computer systems, separate and apart from any business carried on by Starcycle.
+12. The Appellant was not required to contact Starcycle if she was going to be unable to provide services to Starcycle and Starcycle did not, in any way, dictate the hours that the Appellant worked for Starcycle.
+14. The appellant was always at liberty to provide a replacement service provider to Starcycle if she was personally absent or could not provide services to Starcycle during the relevant period (however, this was never necessary).
+16. The Appellant was responsible for providing all computer equipment at her own cost without additional compensation by Starcycle.
+[5] The respondent states that he had no knowledge of and puts in issue the following statements in the notice of appeal:
+5. At all material times, the Appellant and Starcycle's intention and belief was that considered the Appellant was providing her services to Starcycle as an independent contractor and not as an employee.
+10. The Appellant was not required to attend meetings with Starcycle.
+15. The Appellant owned the following equipment and used it when providing services to Starcycle:
+. . .
+b. computer desk and chair, filing cabinet, fax machine, telephone, calculator, garbage cans, lamp, shelving; and
+c. computer storage discs, stationery, including pens, highlighters, file folders, hanging folders, paper, etc.
+17. The Appellant paid for all required repairs and maintenance to the computer equipment used in providing services to Starcycle. The Appellant was not reimbursed by Starcycle for any repairs or maintenance costs for the computer.
+Paragraph 7 of the notice of appeal reads as follows:
+7. At all material times, the Appellant personally rented certain computer equipment to Starcycle and also provided computer operating services to Starcycle.
+The respondent admits only that the appellant provided computer operating services to Starcycle but denies the rest of paragraph 7.
+Paragraph 8 of the notice of appeal is as follows:
+8. The Appellant invoiced Starcycle for the time she spent providing services to it at a rate of $40.00 per hour plus GST.
+[6] The respondent admits that, at times, the appellant invoiced Starcycle at a rate of $40 per hour plus GST, but otherwise denies paragraph 8.
+Paragraph 9 of the notice of appeal reads:
+9. The Appellant was, at all times, responsible for setting her own schedule and hours of work and was not required to work set hours during the relevant period.
+All that the respondent admits is that the appellant was responsible for setting her own schedule and hours of work. The rest of paragraph 9 is denied.
+[7] There was no written agreement between the appellant and Starcycle. The appellant carried on a business of providing various clients with information system solutions. The word "solutions" is a buzz word that seems to be currently in vogue in the field of technology. It presumably has something to do with consultation or advisory services.
+[8] In other words, the appellant carried on business as a technology consultant to various clients and also provided her expertise to Starcycle for use in its business. The services provided to Starcycle clients were provided personally to them by the appellant. One thing is clear, the appellant intended her relationship with Starcycle to be one of independent contractor. She is sufficiently sophisticated in these matters to be broadly familiar with the difference between being an employee and an independent contractor.
+[9] The case raises a conceptual issue that has not, to my knowledge, been decided before. It is well settled that one can be an employee of one's own company. Whether one is an employee of a company or an independent contractor, whether it be a one person company or a widely held public corporation, depends at least in part upon the nature of the contract between the individual and the company and a number of other factors which I shall discuss below.
+[10] It must be admitted that there is a certain air of unreality to saying that an individual can be an employee of a company which is wholly owned and controlled by that individual. For an employer-employee relationship (or if you prefer a term that is more consonant with 19th century thinking, master-servant) there has to be at least a certain element of control or subordination. Yet who controls whom? I have no particular problem saying that the sole shareholder and director of a corporation controls the corporation. This idea fits very easily into accepted legal concepts of corporate control. See Buckerfield's Ltd. et al. v. M.N.R., 64 DTC 5301 at 5303:
+. . . I am of the view, however, that in section 39 of the Income Tax Act, the word "controlled" contemplates the right of control that rests in ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the Board of Directors. See British American Tobacco Co. v. I.R.C. [1943] 1 A.E.R. 13, where Viscount Simon T., C., at page 15, says:
+The owners of the majority of the voting power in a company are the persons who are in effective control of its affairs and fortunes.
+See also Minister of National Revenue v. Wrights' Canadian Ropes Ltd., [1947] A.C. 109 [2 DTC 927], per Lord Greene M. R., at page 118, where it was held that the mere fact that one corporation had less than 50 per cent of the shares of another was "conclusive" that the one corporation was not "controlled" by the other within section 6 of the Income War Tax Act.
+[11] I should think that even lawyers who are accustomed to juggling in their heads a variety of inconsistent legal fictions that bear no resemblance to reality might have some philosophical difficulty with the idea that an artificial person of which the only mind is the mind of an individual that owns it exercises a degree of control over that individual sufficient to establish a master-servant relationship.
+[12] Yet that is exactly what the courts have done.
+[13] One starts with Salomon v. Salomon [1897] A.C. 22 which established the principle that the owner of all the shares of a corporation and the corporation are separate legal entities. The logical progression from this principle is that a sole shareholder can enter into contractual relations with his or her company. This is an accepted fact of commercial reality (or, if you will, commercial unreality). One can sell to one's company, buy from one's company, and lease to or from one's company. And one can be an employee of one's own company. I understand it to be generally accepted that a meeting of the minds is an essential ingredient in a contract. One might wonder how there can be a meeting of the minds when we have only one mind - in essence, an identity or fusion of minds. This seems, however, to bother no one.
+[14] A recent example is found in the decision of the Federal Court of Appeal in Meredith v. Canada, 2002 F.C.A. 258, 2002 DTC 7190, where Malone J.A. said at paragraphs 11-15.
+[11] In my analysis, the Judge committed several errors in the disposition of this case. First of all, the Judge "pierced the corporate veil" insofar as he looked beyond the corporate entity itself to assess the applicant's actions. Examples are sprinkled thought the reasons for judgment. For instance, he held that, notwithstanding the contractual relationship between the third parties and Stem, that it was "obvious that Roeslein and Ball were hiring [Meredith's] expertise and not retaining the Company as such in that it had no other workers." He also stated that "it is apparent that [Meredith] controls the Company and uses it for his own benefit from time to time when it is convenient. The Company does not use him." Further, he also made reference to the methods by which Meredith was paid by Stem, as well as arrangements Stem had with its bank, including personal guarantees provided by Meredith.
+[12] Lifting the corporate veil is contrary to long-established principles of corporate law. Absent an allegation that the corporation constitutes a "sham" or a vehicle for wrongdoing on the part of putative shareholders, or statutory authorisation to do so, a court must respect the legal relationships created by a taxpayer (see Salomon v. Salomon & Co., [1897] A.C. 22; Kosmopoulos v. Constitution Insurance Co. of Canada,[1987] 1 S.C.R. 2). A court cannot re-characterize the bona fide relationships on the basis of what it deems to be the economic realities underlying those relationships (see Continental Bank Leasing Corp. v. The Queen,[1998] 2 S.C.R. 298;Shell Canada Ltd. v. The Queen, [1999] 3 S.C.R. 622 ; Ludco Enterprises Limited v. the Queen, 2001 SCC 62 at para. 51). It follows, therefore, that the Judge erred in law by inquiring into the economic realities of the relationship as between Stem and Meredith, when he was not authorised by statute or common law to do so.
+[13] I am also satisfied that the Judge committed a further error in concluding that the applicant was not an employee of Stem. In applying the Wiebe Door Services Ltd. v. MNR, 87 DTC 5025 (FCA) analysis (which has been approved in 671122 Ontario Limited v. Sagaz Industries Canada Inc., 2001 SCC 59), the Judge did not take into account the well established principle that a corporation has its own juridical identity distinct from its shareholders (see Salomon, supra; Kosmopoulos, supra.). This principle applies equally to closely-held corporations such as Stem (Salomon, supra).
+[14] The Judge was correct to conclude that the tools and equipment were held by Stem, and that this indicated an employment relationship; however, with respect to his findings regarding control, chance of profit and risk of loss, he fell into error.
+[15] The recent decision of this Court in Groupe Desmarais Pinsonneault & Avard Inc. v. Canada (MNR), 2002 FCA 144 is instructive on the issue of control. There, Noël J.A. writing for the Court indicated that the question is not whether the corporation did or did not exercise control, but whether it was in a position to do so. The importance lies in the corporation's legal power to control the employees, not whether the employees feel subject to that control. That is the case here, where Stem has contracted with arms-length third parties. It is Stem, not the applicant, with whom the third parties contracted for Meredith's expertise, and it is within Stem's legal power, as a corporation, to control Meredith. Therefore, given the corporate structure in place, it is irrelevant that Meredith is the sole shareholder and director. Based on the above authority, the Judge erred in finding that control lay in the hands of the applicant in his personal capacity.
+[15] In Lee v. Lee's Air Farming Ltd., [1961] A.C. 12, the question was whether the deceased sole shareholder could be an employee of his company at the time of his death. Lord Borth-Y-Gest said at pages 24-27:
+The Court of Appeal recognised that a director of a company may properly enter into a service agreement with his company, but they considered that, in the present case, inasmuch as the deceased was the governing director in whom was vested the full government and control of the company he could not also be a servant of the company. After referring in his judgment to the delegation to the deceased of substantially all the powers of the company, North J. said: "These powers were moreover delegated to him for life and there remained with the "company no power of management whatsoever. One of his first acts was to appoint himself the only pilot of the company, for, although article 33 foreshadowed this appointment, yet a contract could only spring into existence after the company had been incorporated. Therefore, he became in effect both employer and worker. True, the contract of employment was between himself and the company: see Booth v. Helliwell, but on him lay the duty both of giving orders and obeying them. In our view, the two offices are clearly incompatible. There could exist no power of control and therefore the relationship of master-servant was not created."
+The substantial question which arises is, as their Lordships think, whether the deceased was a "worker" within the meaning of the Workers' Compensation Act, 1922, and its amendments. Was he a person who had entered into or worked under a contract of service with an employer? The Court of Appeal thought that his special position as governing director precluded him from being a servant of the company. On this view it is difficult to know what his status and position was when he was performing the arduous and skilful duties of piloting an aeroplane which belonged to the company and when he was carrying out the operation of top-dressing farm lands from the air. He was paid wages for so doing. The company kept a wages book in which these were recorded. The work that was being done was being done at the request of farmers whose contractual rights and obligations were with the company alone. It cannot be suggested that when engaged in the activities above referred to the deceased was discharging his duties as governing director. Their Lordships find it impossible to resist the conclusion that the active aerial operations were performed because the deceased was in some contractual relationship with the company. That relationship came about because the deceased as one legal person was willing to work for and to make a contract with the company which was another legal entity. A contractual relationship could only exist on the basis that there was consensus between two contracting parties. It was never suggested (nor in their Lordships' view could it reasonably have been suggested) that the company was a sham or a mere simulacrum. It is well established that the mere fact that someone is a director of a company is no impediment to his entering into a contract to serve the company. If, then, it be accepted that the respondent company was a legal entity their Lordships see no reason to challenge the validity of any contractual obligations which were created between the company and the deceased. In this connection reference may be made to a passage in the speech of Lord Halsbury L.C. in Salomon v. Salomon & Co.: "My Lords, the learned judges appear to me not to have been absolutely certain in their own minds whether to treat the company as a real thing or not. If it was a real thing; if it had a legal existence, and if consequently the law attributed to it certain rights and liabilities in its constitution as a company, it appears to me to follow as a consequence that it is impossible to deny the validity of the transactions into which it has entered." A similar approach was evidenced in the speech of Lord MacNaghten when he said: "It has become the fashion to call companies of this class 'one man companies.' That is a taking nickname, but it does not help one much in the way of argument. If it is intended to convey the meaning that a company which is under the absolute control of one person is not a company legally incorporated, although the requirements of the Act of 1862 may have been complied with, it is inaccurate and misleading: if it merely means that there is a predominant partner possessing an overwhelming influence and entitled practically to the whole of the profits, there is nothing in that that I can see contrary to the true intention of the Act of 1862, or against public policy, or detrimental to the interests of creditors."
+Nor in their Lordships' view were any contractual obligations invalidated by the circumstance that the deceased was sole governing director in whom was vested the full government and control of the company. Always assuming that the company was not a sham then the capacity of the company to make a contract with the deceased could not be impugned merely because the deceased was the agent of the company in its negotiation. The deceased might have made a firm contract to serve the company for a fixed period of years. If within such period he had retired from the office of governing director and other directors had been appointed his contract would not have been affected. The circumstance that in his capacity as a shareholder he could control the course of events would not in itself affect the validity of his contractual relationship with the company. When, therefore, it is said that "one of his first acts was to appoint himself the "only pilot of the company," it must be recognised that the appointment was made by the company, and that it was none the less a valid appointment because it was the deceased himself who acted as the agent of the company in arranging it. In their Lordships' view it is a logical consequence of the decision in Salomon's case that one person may function in dual capacities. There is no reason, therefore, to deny the possibility of a contractual relationship being created as between the deceased and the company. If this stage is reached then their lordships see no reason why the range of possible contractual relationships should not include a contract for services, and if the deceased as agent for the company could negotiate a contract for services as between the company and himself there is no reason why a contract of service could not also be negotiated. It is said that therein lies the difficulty, because it is said that the deceased could not both be under the duty of giving orders and also be under the duty of obeying them. But this approach does not give effect to the circumstance that it would be the company and not the deceased that would be giving the orders. Control would remain with the company whoever might be the agent of the company to exercise it. The fact that so long as the deceased continued to be governing director, with amplitude of powers, it would be for him to act as the agent of the company to give the orders does not alter the fact that the company and the deceased were two separate and distinct legal persons. If the deceased had a contract of service with the company then the company had a right of control. The manner of its exercise would not affect or diminish the right to its exercise. But the existence of a right to control cannot be denied if once the reality of the legal existence of the company is recognised. Just as the company and the deceased were separate legal entities so as to permit of contractual relations being established between them, so also were they separate legal entities so as to enable the company to give an order to the deceased.
+(Emphasis added)
+At pages 29-30 he said:
+In the present case their Lordships see no reason to doubt that a valid contractual relationship could be created between the respondent company and the deceased even though the deceased would act as the agent of the company in its creation. If such a relationship could be established their Lordships see no reason why it should not take the form of a master and servant relationship. The facts of the present case lend no support for the contention that if a contract existed it was a contract for services. Article 33, recited above, shows that what was designed and contemplated was that after its incorporation the respondent company would, as a master, employ the deceased, as a servant, in the capacity of chief pilot of the company. All the facts and all the evidence as to what was actually done point to the conclusion that what purported to be a contract of service was entered into and was operated. Unless this was an impossibility in law, then the deceased was a worker within the statutory definition as referred to above. It is said that the deceased could not both give orders and obey them and that no power of control over the deceased was in existence. It is true that an inquiry as to whether a person is or is not employed upon the terms that he will, within the scope of his employment, obey his master's orders may constitute an important inquiry if it is being tested in a particular case whether there is a contract of service as opposed to a contract for services: see Simmons v. Heath Laundry Co. and Short v. J. & W. Henderson Ltd. But in the present case their Lordships can find nothing to support the contention that there was or may have been a contract for services but not a contract of service.
+Ex facie there was a contract of service. Their Lordships conclude, therefore, that the real issue in the case is whether the position of the deceased as sole governing director made it impossible for him to be the servant of the company in the capacity of chief pilot of the company. In their Lordships' view, for the reasons which have been indicated, there was no such impossibility. There appears to be no greater difficulty in holding that a man acting in one capacity can give orders to himself in another capacity than there is in holding that a man acting in one capacity can make a contract with himself in another capacity. The company and the deceased were separate legal entities. The company had the right to decide what contracts for aerial top-dressing it would enter into. The deceased was the agent of the company in making the necessary decisions. Any profits earned would belong to the company and not to the deceased. If the company entered into a contract with a farmer, then it lay within its right and power to direct its chief pilot to perform certain operations. The right to control existed even though it would be for the deceased in his capacity as agent for the company to decide what orders to give. The right to control existed in the company, and an application of the principles of Salomon's case demonstrates that the company was distinct from the deceased. As pointed out above, there might have come a time when the deceased would remain bound contractually to serve the company as chief pilot though he had retired from the office of sole governing director. Their Lordships consider, therefore, that the deceased was a worker and that the question posed in the case stated should be answered in the affirmative.
+[16] If the courts are to use a willing suspension of disbelief to hold that an individual can enter into a contract of service with that individual's own company, there is no reason why the same willing suspension of disbelief cannot allow the court to find that the same individual can enter into a contract for services with his or her company. Indeed the portion of Lord Borth-Y-Gest's speech in Lee that I have italicized recognizes that very possibility.
+[17] Which do we have here? In determining whether a person is an independent contractor or an employee, the first question is "What is the contract between the parties?" Frequently there is no specific written contract but, if there is, it is of course relevant but not determinative if the conduct of the parties indicates that the real relationship is not that which is set out in the written agreement. The second question is whether the stated legal relations are genuine and binding or are mere window dressing or, in other words, a sham. The next important question is what in fact did the parties do? With what type of relationship is their behaviour more consistent? This is important whether or not there is a written agreement but it is of even greater significance where there is none because it is the best and possibly only evidence of the real relationship. Finally - and this is a criterion that appears in recent years to be assuming an increasingly greater significance - what type of relationship did the parties intend? These questions often cannot be answered separately. They overlap and the answer to one may be influenced by the answer to another. In the final analysis one must look at all of the facts and assign to each one the importance that is requisite in the context of the overall picture.
+[18] There is no suggestion that the company was a sham or that the legal relations between the appellant and her company were ineffectual just because there was no written contract. Indeed the Crown could hardly argue this given that the premise upon which the Minister's decision was made was that the appellant had a contract of service with her company. The question is the nature of the contract that the appellant had with her company.
+[19] Clearly, the contract is a contract for services. The appellant supplied her own tools (essentially computer equipment). I accept as having been established in evidence by the appellant the assertions in paragraphs 4, 5, 7, 10, 12, 15, 16 and 17. She carried on a consulting business in her own name and on her own behalf and one of the persons to whom she provided services was her company. She kept her own hours and set her own schedule. She rented computer equipment to Starcycle. She invoiced Starcycle for her services at the rate of $40 per hour. She could set the rates that were negotiated between herself and the company. She was free to have another person supply services to Starcycle if she was unavailable.
+[20] She was in business on her own and she had a chance of profit or risk of loss. If the company's business did not generate income this was directly reflected in the business she obtained from the company. Indeed, she could determine how much business the company gave her. If the company's business was good it generated more business for her.
+[21] The application of the tests in Wiebe Door Services Ltd. v. M.N.R. [1986] 2 C.T.C. 200, and in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc. [2001] 4 C.T.C. 139, all point to a contract for services. It is, as the Federal Court of Appeal and the Supreme Court of Canada in those cases observed, difficult to apply the integration test in these circumstances but certainly the other tests indicate that there was no employment contract.
+[22] To the extent that intent is a relevant consideration - and it appears to be in light of Poulin v. M.N.R., [2003] FCA 50 and Wolf v. Canada, 2002 DTC 6853, - clearly Ms. Zupet both in her personal capacity and in her capacity of the controlling mind of the company intended that she would be an independent contractor. One piece of evidence that supports this conclusion, in addition to her own testimony, is the fact she charged her company GST. I am aware that intent is a factor that has been emphasized in cases arising under the Civil Code of Quebec. Nonetheless, I believe that it is a consideration that cannot be ignored in cases arising in common law provinces. The intention of the parties can be determined from the contract itself, from the conduct of the parties and indeed from the parties' own testimony.
+[23] In the result the decision that the appellant was employed in pensionable employment is vacated.
+Signed at Ottawa, Canada this 3rd day of February 2005.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+CITATION:
+2005TCC89
+COURT FILE NO.:
+2004-2536(CPP)
+STYLE OF CAUSE:
+Margo Zupet and
+The Minister of National Revenue
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+January 12, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Associate Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+February 3, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Richard W. Kirby
+Timothy P. Kirby
+Counsel for the Respondent:
+Lesley Akst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Felesky Flynn LLP
+Firm:
+Barristers & Solicitors
+2250 Bell Tower
+10104 - 103 Avenue
+Edmonton AB T5J 0H8
+For the Respondent:
+John Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

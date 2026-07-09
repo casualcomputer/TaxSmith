@@ -1,0 +1,178 @@
+Title: Zielinski v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/65037/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-384-65037-zielinski-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-12-03
+
+# Zielinski v. The Queen
+
+- Citation: 2013 TCC 384
+- Decision date: 2013-12-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5904, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zielinski v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-12-03
+Neutral citation
+2013 TCC 384
+File numbers
+2011-3473(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3473(IT)I
+BETWEEN:
+ROD ZIELINSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Diana Zielinski 2011-3475(IT)I on October 11, 2013,
+at Lethbridge, Alberta
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Paige Atkinson
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2006 and 2007 taxation years is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that amount to be included in the Appellant’s income from the sale of lot 13 in 2006 is $30,284.97 and from the sale of lot 12 in 2007 is $30,992.73. The amount included in the Appellant’s income in 2006 from the sale of the duplex remains as assessed at $10,951.50.
+Signed at Ottawa, Canada, this 3rd day of December 2013.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2011-3475(IT)I
+BETWEEN:
+DIANA ZIELINSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Rod Zielinski 2011-3473(IT)I on October 11, 2013,
+at Lethbridge, Alberta
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Rod Zielinski
+Counsel for the Respondent:
+Paige Atkinson
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2006 and 2007 taxation years is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that amount to be included in the Appellant’s income from the sale of lot 13 in 2006 is $30,284.97 and from the sale of lot 12 in 2007 is $30,992.73. The amount included in the Appellant’s income in 2006 from the sale of the duplex remains as assessed at $10,951.50.
+Signed at Ottawa, Canada, this 3rd day of December 2013.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2013TCC384
+Date: 20131203
+Docket: 2011-3473(IT)I
+BETWEEN:
+ROD ZIELINSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-3475(IT)I
+AND BETWEEN:
+DIANA ZIELINSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The Appellants are spouses of each other and their appeals were heard on common evidence. The issues were (a) whether the gains realized by the Appellants from the sale of real property in 2006 and 2007 were capital or income receipts; and (b) whether, in selling the properties, the Appellants incurred expenses in excess of the amounts allowed by the Minister of National Revenue (the “Minister”).
+[2] Only Rod Zielinski testified at the hearing.
+[3] These appeals concern the sale of vacant land and a duplex in 2006 and the sale of vacant land in 2007.
+Purchase and Sale of the Vacant Land
+[4] On July 2, 1993, the Appellants purchased, as joint tenants, two adjacent parcels of land in Pincher Creek, Alberta for a total cost of $41,906. The total acreage purchased was 43. Although Mr. Zielinski stated that he and his spouse purchased the properties on July 15, 1992, the documentary evidence showed that they made an offer to purchase the properties on that date and they received title to the properties on July 2, 1993.
+[5] The Appellants built their principal residence on the vacant land in 1993. In December 1993, they made an application to the regional planning commission to subdivide the land to create a country residential parcel containing 10.97 acres from the 43 acres. Their application was contrary to the existing land use bylaws and it was refused.
+[6] The Appellants then actively campaigned with the residents in the area to change the land use bylaws. In 1997, Mr. Zielinski was elected to the municipal council for Pincher Creek and he sat on the subdivision committee. In October 1997, the Appellants were granted approval to subdivide the 43 acres into five lots. I will refer to these lots as lot 1, lot 2, lot 3, lot 4 and lot 5. Lot 5 was an access road and it measured approximately 3 acres.
+[7] Between 1997 and 2007 and excluding the access road, the Appellants sold all of the vacant land except approximately 3.7 acres. Their course of action was to sell lot 1 and then further subdivide the remaining three lots and offer them for sale. The sales were as follows:
+(a) On April 1, 1998, lot 1 was sold.
+(b) In June 2000, the Appellants were granted approval to further subdivide lot 3 into two lots (referred to as lots 6 and 7) and lot 4 into two lots (referred to as lots 8 and 9). Their principal residence was on lot 8 and it was sold on August 7, 2001. Lot 6 was sold on November 2, 2001.
+(c) In 2002, the Appellants started to build their second principal residence on lot 2 and they moved into this residence in July 2003.
+(d) On June 10, 2005, lot 9 was sold.
+(e) In April 2006, the Appellants were granted approval to subdivide lot 2 into two lots (referred to as lot 10 and lot 11) and lot 7 into two lots (referred to as lot 12 and lot 13). The second principal residence was located on what I now call lot 10.
+(f) On December 18, 2006, the Appellants sold lot 13 for $69,000.
+(g) On July 13, 2007, the second principal residence (lot 10) was sold.
+(h) In 2007, the Appellants built their third principal residence on lot 11.
+(i) On June 1, 2007, the Appellants sold lot 12 for $70,000.
+Purchase and Sale of Duplex
+[8] In July 2001, the Appellants purchased a duplex located at 1105 and 1111 John Avenue in Pincher Creek. They lived in the duplex while their second principal residence was being built on lot 10. When they moved out of the duplex in July 2003, Mrs. Zielinski’s mother and the Appellants’ son lived in the duplex until it was sold in July 2006. The proceeds of disposition for the duplex were $121,500.
+[9] The Minister has assumed that, in July 2003, when the duplex ceased to be the Appellants’ principal residence, its fair market value was $99,597. Mr. Zielinski disagreed with this assumption but he was unable to give another valuation for the property.
+[10] The properties which are at issue in this appeal are the sale of lot 13 and the duplex in 2006 and the sale of lot 12 in 2007. In 2006, the Appellants each reported taxable capital gains in the amount of $14,878 from the disposition of real property. They did not report any gains from the disposition of property in 2007.
+[11] In reassessing the Appellants, the Minister included the following amounts in income for each Appellant:
+2006
+Sale of lot 13 $30,776.58
+Sale of Duplex $10,952.00
+2007
+Sale of lot 12 $31,453.64
+Appellants’ Position
+[12] It was the Appellants’ position that they purchased the vacant land as a place to build their dream home and raise their three children. However, this was the largest piece of land they ever bought and, at the time of purchase, they did not understand the work involved in owning and caring for the acreage. Mr. Zielinski stated that he was employed as a power linesman. He worked 40 hours a week and numerous hours of overtime each year. His spouse was also employed full time and they were raising a family. They could not keep up with the work involved in caring for the 43 acres of land and they decided to sell the “excess land”. They only continued to subdivide the land because they found that the larger acreage did not sell.
+[13] The Appellants did not give a reason for selling the Duplex.
+Decision
+[14] Counsel for the Respondent relied on the decision in Happy Valley Farms Ltd v Minister of National Revenue, [1986] 2 CTC 259 (FCTD) where Rouleau J. discussed the tests used in determining whether a gain is an income or capital receipt. He stated:
+14 Several tests, many of them similar to those pronounced by the Court in the Taylor case, have been used by the courts in determining whether a gain is of an income or capital nature. These include:
+1. The nature of the property sold. Although virtually any form of property may be acquired to be dealt in, those forms of property, such as manufactured articles, which are generally the subject of trading only are rarely the subject of investment. Property which does not yield to its owner an income or personal enjoyment simply by virtue of its ownership is more likely to have been acquired for the purpose of sale than property that does.
+2. The length of period of ownership. Generally, property meant to be dealt in is realized within a short time after acquisition. Nevertheless, there are many exceptions to this general rule.
+3. The frequency or number of other similar transactions by the taxpayer. If the same sort of property has been sold in succession over a period of years or there are several sales at about the same date, a presumption arises that there has been dealing in respect of the property.
+4. Work expended on or in connection with the property realized. If effort is put into bringing the property into a more marketable condition during the ownership of the taxpayer or if special efforts are made to find or attract purchasers (such as the opening of an office or advertising) there is some evidence of dealing in the property.
+5. The circumstances that were responsible for the sale of the property. There may exist some explanation, such as a sudden emergency or an opportunity calling for ready money, that will preclude a finding that the plan of dealing in the property was what caused the original purchase.
+6. Motive. The motive of the taxpayer is never irrelevant in any of these cases. The intention at the time of acquiring an asset as inferred from surrounding circumstances and direct evidence is one of the most important elements in determining whether a gain is of a capital or income nature.
+15 While all of the above factors have been considered by the courts, it is the last one, the question of motive or intention which has been most developed. That, in addition to consideration of the taxpayer's whole course of conduct while in possession of the asset, is what in the end generally influences the finding of the court.
+16 This test has been carried one step further by Canadian courts into what has generally been referred to as the “secondary intention” test. This has meant, in some cases, that even where it could be established that a taxpayer's main intention was investment, a gain on the sale of the asset would be held taxable as income if the court believed that, at the time of acquisition, the taxpayer had in mind the possibility of selling the asset if his investment project did not, for whatever reason, materialize. In Racine, Demers and Nolan v. Minister of National Revenue, [1965] C.T.C. 150, 65 D.T.C. 5098 (Ex. Ct.) , Noel, J. provided the following summary of the secondary intention test at 159 (D.T.C. 5103):
+... the fact alone that a person buying a property with the aim of using it as capital could be induced to resell it if a sufficiently high price were offered to him, is not sufficient to change an acquisition of capital into an adventure in the nature of trade. In fact, this is not what must be understood by a “secondary intention” if one wants to utilize this term.
+To give to a transaction which involves the acquisition of capital the double character of also being at the same time an adventure in the nature of trade, the purchaser must have in his mind, at the moment of the purchase, the possibility of reselling as an operating motivation for the acquisition; that is to say that he must have had in mind that upon a certain type of circumstances arising he had hopes of being able to resell it at a profit instead of using the thing purchased for purposes of capital. Generally speaking, a decision that such a motivation exists will have to be based on inferences flowing from circumstances surrounding the transaction rather than on direct evidence of what the purchaser had in mind.
+Analysis
+[15] It is my view that the Appellants’ actions with respect to both the vacant land and the duplex were consistent with a business venture.
+Vacant Land
+[16] Although Mr. Zielinski stated that he and his spouse purchased the vacant land for the pleasure and enjoyment of their family, almost immediately after they received title to the land on July 2, 1993, they sought to have the property rezoned so that it could be subdivided. According to the documents filed by Mr. Zielinski, the first rezoning application was filed with the regional planning commission on December 13, 1993. (See page 10 of exhibit A-1 where the Appellant lists the cost of filing the application.) Between 1993 and 1997, they actively campaigned with the residents in the area to change the land use bylaws. Mr. Zielinski even ran for public office to, among other things, effect this goal. Shortly after Mr. Zielinski was elected to municipal council, the municipal by-laws were changed and the Appellants subdivided their land so they could sell portions of it. In both direct and cross examination, Mr. Zielinski stated that his intention was to sell the excess land. Although the vacant land was purchased in 1993 and the lots of land at issue were sold in 2006 and 2007, I do not find that the length of ownership of the land is a factor which favours the Appellants. They applied to subdivide the land the same year that they purchased it. From 1997 until 2006, they continued to subdivide the land to a level that made the acreage ready for sale. They worked to make the land more marketable and to attract purchasers. They improved the road into the property, put in culverts and fenced the individual lots. At all times, they actively sought to sell portions of the acreage.
+[17] Although the entire acreage was purchased in 1993, the lots at issue in this appeal, lots 12 and 13, were only created in April 2006. They were held for a short period of time as they were sold in 2006 and 2007.
+[18] I found the Appellants’ stated reason for selling the vacant land unconvincing. It is my view that the Appellants had the intention when they purchased the vacant land to subdivide it and sell the lots.
+Duplex
+[19] The Appellants purchased the duplex on John Street in 2001. It was their principal residence until 2003. However, I was not told whether they lived in the total duplex or just one half of the duplex. At some point in time, they renovated the duplex and sold it in 2006. Mr. Zielinski said he didn’t recall that the duplex was ever vacant but he did not receive any rental income for it. He did not give a reason for renovating the duplex or selling it.
+[20] There was evidence that the Appellants had purchased and sold property in the past. In 1996, they purchased a house located at 1126 John Avenue in Pincher Creek; they renovated the house and then sold it in 2000.
+[21] When I consider all of the evidence, I am satisfied that the Appellants purchased the duplex with the intention of selling it. When they bought the duplex, they were building their principal residence on lot 10 of the vacant land and they knew their stay in the duplex would not be permanent. I am not persuaded that they purchased the duplex to be a permanent residence for the members of their family. They renovated the duplex so that they could sell it for the maximum amount. The Appellants had lived in the Pincher Creek area since 1991 and they were well aware of the real estate market in the area.
+[22] In conclusion, I find that the sale of the vacant land and the duplex was a business venture or an adventure in the nature of trade and the gain was properly assessed as income.
+[23] The Appellants have also argued that they incurred additional costs for both the vacant land and the duplex which were not allowed by the Minister. The additional costs for the vacant land were the survey costs in the amount of $5,148.78 paid to Brown, Okamura and Associates. However, they were not able to quantify any additional costs incurred with respect to the duplex.
+[24] The appeals will be allowed on the basis that the Appellants incurred additional costs of $5,148.78 in preparing lots 12 and 13 for sale. As a result, using the Minister’s methodology, I have calculated that the cost of lot 13 was $8,011.35 and the cost of lot 12 was $7,511.05. The amount to be included in each Appellant’s income from the sale of lot 13 in 2006 is $30,284.97 and from the sale of lot 12 in 2007 is $30,992.73. The amount included in each Appellant’s income in 2006 from the sale of the duplex remains as assessed at $10,951.50.
+Signed at Ottawa, Canada, this 3rd day of December 2013.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2013TCC394
+COURT FILE NO.: 2011-3473(IT)I
+2011-3475(IT)I
+STYLE OF CAUSE: ROD ZIELINSKI AND
+HER MAJESTY THE QUEEN
+DIANA ZIELINSKI AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Lethbridge, Alberta
+DATE OF HEARING: October 11, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: December 3, 2013
+APPEARANCES:
+For the Appellants:
+Rod Zielinski
+Counsel for the Respondent:
+Paige Atkinson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

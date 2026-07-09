@@ -1,0 +1,177 @@
+---
+title: "Sévère v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29219/index.do"
+last_modified: "2009-05-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 209"
+citation2: ""
+neutral_citation: "2009 TCC 209"
+decision_date: "2009-05-07"
+language: "en"
+item_id: "29219"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7020
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:18:13.529000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e6ffd80e91185b3895285f3e533d9d65764be2140a4442e2145aec123dff08f7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sévère v. The Queen
+
+- Citation: 2009 TCC 209
+- Decision date: 2009-05-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7020, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sévère v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-05-07
+Neutral citation
+2009 TCC 209
+File numbers
+2008-2288(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2288(IT)I
+BETWEEN:
+CLARK D. SÉVÈRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard January 14, 2009 at Montréal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Illinca Ghibu
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made pursuant to the Income Tax Act (the Act), by the Minister of National Revenue (the Minister) for the 2006 taxation year is allowed, without costs; the file will be referred back to the Minister for reconsideration and reassessment on the basis that the amount of $14,431 is not a taxable benefit in accordance with the attached Reasons for Judgment.
+The $100 filing fee will be reimbursed to the Appellant.
+Signed at Ottawa, Canada, this 7th day of May 2009.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 25th day of June 2009.
+Bella Lewkowicz, Translator
+Citation: 2009 TCC 209
+Date: 20090507
+Docket: 2008-2288(IT)I
+BETWEEN:
+CLARK D. SÉVÈRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This appeal is for the 2006 taxation year. The issue is:
+[translation]
+7. The issue consists in determining if, for the 2006 taxation year, the Minister was justified in adding $14,431 to the Appellant’s income as employment income.
+[2] Only the Appellant testified and said he worked for a Canadian company that operated in the region of Montréal. This company was acquired by an American company.
+[3] Following the transaction, the buyer announced that the Montréal office may eventually close and that the company would invest in the Toronto region to establish a new place of business in Toronto; the Appellant was offered a position in Toronto, up to that day, he had worked in Montréal and lived in the suburb of St‑Hubert.
+[4] He accepted the job in Toronto; he had to deal with the logistics related to the transfer such as moving, the sale and purchase of property, etc.
+[5] The Appellant confirmed arriving in Toronto in February; after having purchased a new house in May, he was cavalierly dismissed in November of the same year, 2005.
+[6] Following his dismissal, he had to initiate legal proceedings for compensation regarding several issues, including mental distress, special damages, financial losses, reimbursement for unpaid expenses, etc.
+[7] Following these proceedings, a settlement was reached. The settlement covered several aspects including the former employer’s obligation to reimburse the Appellant’s employment insurance benefits and his legal fees; the settlement also covered the $5,923 received for the dismissal as notice for all dismissals.
+[8] The Appellant said he accepted the offer on the condition that the disputed amounts of the assessment, which is being appealed, were not taxable.
+[9] Following the settlement, the Appellant’s former employer, Cubic Field Service Canada Limited, issued an amended T4 indicating total earnings for the 2006 taxation year of $37,201, $14,431 more than the first T4.
+[10] Relying on sections 3, 4, 5, 6, 8 and subsection 248(1) and subparagraph 56(1)(a)(ii) of the Income Tax Act (the Act), the Minister of National Revenue (the Minister) found that the amounts were taxable.
+[11] The Appellant claims that the $14,431 is not taxable because it is basically a reimbursement for his expenses.
+[12] From the outset, I would like to express my disapproval for the Respondent’s way of doing things. During the hearing, the Minister said he had a new legal basis for the assessment. The Appellant, who was not informed of this radical change until two days before the hearing, therefore did not have much time to prepare his file for the hearing. After verification, it was clear the Appellant was not adversely affected, since his explanations remain the same regardless of the legal basis for the assessment at the root of the appeal.
+[13] There are grounds to dismiss the argument that the settlement was made and accepted on the condition that the amount determined not be taxable.
+[14] The taxation of an amount an individual receives is not subject to the will of the parties involved in the transaction; it is a question for which the answer is found within the provisions of the applicable law.
+[15] It is not simply because the parties want a benefit to be free of fiscal consequences that the said transaction should be treated as such. If, in such a situation, that were the primary concern for the settlement, that might be a reason to cancel the transaction, procedure or situation that has no effect on the Customs and Revenue Agency, which is responsible for collecting all the taxes payable pursuant to the Act, the will of the parties of a transaction not constituting a relevant element. The fiscal consequences of a transaction are essentially the outcome of the application of the Income Tax Act.
+[16] In other words, the Customs and Revenue Agency is not bound by an arrangement between the parties with respect to the fiscal consequences of a transaction.
+[17] The Appellant’s first argument that the amounts obtained are not taxable as a result of the terms of the settlement has no affect on the assessment he is challenging.
+[18] The Appellant also maintains that the amounts that were added to the amended T4 are not taxable, due to their nature and the reason the payment was made. Here he is making reference to the per diems that were not reimbursed when he was dismissed: the real estate agent’s commission, car rental fees, etc.
+[19] The explanation that make up the Appellant’s evidence is thoroughly described in the letter that was his Notice of Appeal. The contents of this letter read as follows:
+[translation]
+Dear Sir or Madam:
+I would like to reiterate my decision to exercise my right to challenge this Notice of Assessment.
+I find it aberrant that when I was dismissed in 2005 by this employer, I turned to the offices of Employment Standards and Human Resources Canada, both of which refused to take my case stating they did not have the authority to force or prosecute the company to reimburse my expenses or losses, as the situation has nothing to do with my income when I was an employee; all they could ask of the company was my 4%, which is what led me to hire counsel ($9,000), and now that there was an out-of-court settlement (2006), the government is reversing its position by taxing the reimbursements incurred, a loss of money as income or a benefit.
+The out-of-court settlement took place in three steps. The first step was reimbursing my employment insurance ($8,260) from the total amount received. The second step was with regard to the 4% ($5,384.61) and the lump sum for unlawful dismissal ($17,386.16). The third step was payment of my legal fees ($9,000) and for me to drop my action for damages covering my wife and four children, the company agreed to reimburse the expenses and losses incurred ($14,430.77) for which I submitted receipts.
+As the Labour Standards and Human Resources Canada offices outlined, I paid Revenue Canada for my income, including my employment insurance, my 4% and the lump sum for my unlawful dismissal. My action for damages, for which I alone covered the costs, is not income nor a benefit, as it did not bring me any benefits or supplementary income—they are costs I had to incur following damages caused by the said company (Cubic Field Services Canada Ltd.), so it is like taxing me twice on the same income.
+Note the amended T4s from Cubic Field Services Canada Ltd., which you refer to, were never sent to me by my employer as my employer knew I would challenge them and cancel the agreement due to a breach of terms.
+As previously mentioned, I am challenging this assessment under the Informal Procedure; however, I paid the amount requested until the end of the proceedings. You are claiming an amount of $2,797.52; considering my tax refund for this year of $1,105.48, I made out a cheque for $1,692.04 to the Canada Revenue Agency.
+Sincerely,
+[20] The circumstances and context, which are the opening of an office in Toronto and the planned closing down of the Montréal office, are very useful elements in concluding that the Appellant was actually a useful and appreciated employee of the employer, who, in this case, benefited from maintaining the employment relationship with the Appellant in terms of the company’s new direction.
+[21] Shortly after his arrival in Toronto, the Appellant was cavalierly dismissed. The evidence here is not explicit; however, the fact that legal proceedings were undertaken following the dismissal and a settlement was eventually made are sufficient for me to conclude that the employer-employee relationship was not at its best; it is therefore not surprising that the Appellant’s former employer submitted an amended T4 following the settlement that brought on the desired outcome: a reassessment forcing the Appellant to defend his rights, especially because it would seem he never received the amended T4.
+[22] It is likely this file would never have been at issue from a taxation perspective if the work relationship between the Appellant and his former employer had not deteriorated to the point of taking legal action.
+[23] This appeal has to do with the taxation imposed on the added amount of $14,431 that appeared on the amended T4.
+Analysis
+[24] To begin, it is not an exaggeration to say the legal basis of the assessment subject to this appeal is far from obvious; a few days before the hearing, the Respondent decided make adjustments and submit that the legal basis of the assessment would now be subparagraph 56(1)(a)(ii) meaning the amount at issue of $14,431 should be taxed as an out-of-court settlement, the principal amount of which represents a taxable benefit.
+[25] At the time of the reassessment, the Respondent had all the evidence and information leading to the reassessment being appealed. Why this important last minute amendment if not for the clear unease with the legal basis held at the beginning?
+[26] This change of course did not hurt the Appellant because his explanations in support of his appeal remain unchanged. Essentially, the Appellant submitted that his employer convinced him to come to Toronto under the pretence that the future of the Montréal office was uncertain.
+[27] The former employer therefore had a clear interest here and it is evident that it was getting an experienced employee, qualified to start and prepare the foundations of the new company in Toronto.
+[28] The Appellant explained he that he did not economically benefit from the reimbursement for the expenses he claimed from his employer that his employer had committed to repaying.
+[29] Not only did the Appellant not benefit, it is clear he would actually have suffered financially had he had to assume the reimbursement of these reasonable expenses resulting from his employment.
+[30] Even though there seems to be some incoherence with respect to the case law of this Court in the matter, it would seem the situation is clear in terms of the tax treatment in situations when the beneficiary benefits from a reimbursement constituting a benefit; that makes it a taxable benefit.
+[31] However, if the benefit obtained has a neutral effect on the beneficiary or, if the person concerned does incurs a loss, the reasonable amounts paid by the employer, or former employer in this case, the amounts at issue, are not taxable.
+[32] An amount paid to an employee is considered a taxable benefit if its value represents an economic benefit for the taxpayer; that is, if the value of the reimbursement of an expense is greater than the actual expense incurred by the individual. These were the comments of Chief Justice Bowman, as he was then known, in Rachfalowski:[1]
+17 Instead of trying to find a consistent common thread in these and in the myriad of other employee benefit cases one may as well accept that philosophical differences do exist among judges and that although the expression “material acquisition conferring an economic benefit” used in many of the cases has a fine and impressively judicial ring to it, its repetition is no substitute for asking “just what did the employee get out of the alleged benefit that ought to increase his or her income?”. This is a practical, common sense sort of question that calls for a practical common sense answer.
+…
+21 … I think the principle that can be extracted from these cases – Canada, United Kingdom and United States – is that a “benefit” is not included in an employee’s income if it is primarily for the need or convenience of the employer. From the passage from Lowe quoted in paragraph 15 above, this is so even where it represents a material acquisition or something of value.
+[33] In Pezzelato,[2] Justice Bowman, as he was then known, discusses the purpose of the inclusion described in section 6:
+12 … Section 6 casts a very wide net (The Queen v. Savage, 83 D.T.C. 5409; The Queen v. Blanchard, F.C.A. July 5, 1995, A-1532-92). The sole question is: was it a benefit? The word in the French version is "avantage".
+13 The matter has been much litigated in this court and in higher courts. Before I deal with the cases, I should like to approach the problem simply as a matter of principle and of common sense. Notwithstanding the breadth of its wording section 6 is not intended to create an artificial concept of income from employment. Rather, it is designed to recognize the numerous and varied ways in which an employee may be remunerated for his or her services and to bring them within the net of taxation. It is not intended to expand beyond the ordinary understanding of the word benefit (avantage) things that are not benefits at all. In other words, the wide net that section 6 casts relates to the manner in which the benefit is conferred, not to the definition of the benefit2. The point is easier to illustrate by examples than to articulate. If an employer, to induce an employee to move from a pleasant and low cost city in Southern Ontario (for example, Guelph) to an expensive and high pressure metropolis like Toronto, increases that employee's salary by 50% no one would doubt that the increased salary is income even though the increase is designed in part to compensate him or her for the increased cost of living and the diminution in the quality of life. If, on the other hand, the employer brings the employee to Toronto for a month, pays for a hotel room (or even a company owned apartment) and meals, no one would suggest that this is a taxable benefit. Similarly if an employer moves an employee from one city to another the reimbursement of the moving expenses is not taxable.
+[34] I find, on a balance of probabilities, with respect to the reimbursement of expenses of $14,431 in the amended T4, that they are legitimate and reasonable expenses and that the Appellant did not benefit economically. As a result, the appeal is allowed and the file will be referred back to the Minister for reconsideration and reassessment, on the basis that the amount of $14,431 is not a taxable benefit.
+Signed at Ottawa, Canada, this 7th day of May 2009.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 25th day of June 2009.
+Bella Lewkowicz, Translator
+CITATION: 2009 TCC 209
+COURT DOCKET NO.: 2008-2288(IT)I
+STYLE OF CAUSE: CLARK D. SÉVÈRE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: January 14, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: May 7, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Illinca Ghibu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Rachfalowski v. R., 2008 CarswellNat 2354, 2008 D.T.C. 3626 (Eng.), 2008 TCC 258, 70 C.C.P.B. 76, [2009] 1 C.T.C. 2073 (informal procedure).
+[2] Pezzelato (F.) v. Canada, 1995 CarswellNat 6069, [1995] 2 C.T.C. 2890, 9 C.C.P.B. 128, 96 D.T.C. 1285.

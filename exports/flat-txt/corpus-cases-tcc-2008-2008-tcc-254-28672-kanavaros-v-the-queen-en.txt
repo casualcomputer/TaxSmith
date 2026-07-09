@@ -1,0 +1,185 @@
+Title: Kanavaros v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28672/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-254-28672-kanavaros-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-05-22
+
+# Kanavaros v. The Queen
+
+- Citation: 2008 TCC 254
+- Decision date: 2008-05-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1135, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kanavaros v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-22
+Neutral citation
+2008 TCC 254
+File numbers
+2007-2305(GST)I
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-2305(GST)I
+BETWEEN:
+NICK KANAVAROS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of
+Nick Kanavaros (2007-2790(IT)I) on March 5, 2008,
+at Vancouver, British Columbia
+Before: The Honourable Justice T. E. Margeson
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrew Majawa
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment, notice of which was dated May 19, 2006 and numbered A101889, third party, is allowed and the matter is referred back to the Minister of National Revenue for reassessment and reconsideration on the basis that the Appellant is entitled to receive a further credit of $4,520.56 against the outstanding debt. In all other respects the appeal is dismissed.
+Signed at Ottawa, Ontario, this 22nd day of May 2008.
+“T. E. Margeson”
+Margeson J.
+Docket: 2007-2790(IT)I
+BETWEEN:
+NICK KANAVAROS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of
+Nick Kanavaros (2007-2305(GST)I) on March 5, 2008,
+at Vancouver, British Columbia
+Before: The Honourable Justice T. E. Margeson
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrew Majawa
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment number 37677 dated May 19, 2006 is dismissed.
+Signed at Ottawa, Ontario, this 22nd day of May 2008.
+“T. E. Margeson”
+Margeson J.
+Citation: 2008TCC254
+Date: 20080522
+Dockets: 2007-2790(IT)I, 2007-2305(GST)I
+BETWEEN:
+NICK KANAVAROS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Margeson J.
+[1] With reference to file number 2007-2305(GST)I, by Notice of Assessment – Third Party No. A101889, dated May 19, 2006, the Minister assessed the Appellant as Director of Autotek Collision Repairs (Downtown) Ltd. (“Autotek”) in the amount of $8,871.09 under section 323(1) of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the “Act”) for interest and penalties, in respect of Autotek’s failure to remit GST net tax by the statutory deadlines for the GST reporting periods ending October 31, 2000, January 31, 2001, April 30, 2001 July 31, 2001, October 31, 2001 and October 31, 2002 (the “Period”) under subsection 228(2) of the Act. The appeal is from that assessment.
+[2] In the matter of Nick Kanavaros v. The Queen, 2007-2790(IT)I, by Notice of Assessment, Number 37677, dated May 19, 2006 (the “assessment”) the Minister of National Revenue assessed the Appellant as director of Autotek in the amount of $10,280.94, for the failure by Autotek to remit source deductions to the Receiver General, together with interest and penalties as required by s. 153 of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended. The liability of the Appellant was under subsection 227.1(1) of the Income Tax Act. The appeal is from that assessment.
+Evidence
+[3] In his opening statement, Nick Kanavaros said that he was in the auto repair business with a number of outlets. Then he sold one and kept Vancouver and Cambie. ICBC had earlier directed business to him but he was unable to get on the “valet program”. Consequently his repeat business was dead. Ninety‑nine percent of his business was in insurance work and collision repairs.
+[4] It became necessary for him to expand his operation and he spent a lot of money to get into the valet program but then he could not afford to continue. He used his own funds to keep the business going. He fell behind on his payments to the Canada Revenue Agency (the “CRA”).
+[5] In his sworn testimony, he said that on the day that the business and equipment was sold he wanted to make sure that the taxes owed were paid. The majority of the money received from the sale went to taxes in the amount of $52,839.80. He referred to Exhibit A-1, Tab 3 which was a cheque from a law firm to Revenue Canada in this amount. It was dated December 23, 2003.
+[6] After the cheque was received, CRA demanded interest and penalties. He referred to Exhibit A-2, Tab 1 which was a letter to Touchtone Property Management, his landlord, requesting a receipt for the $67,451.23 payment made by Autotek on December 23, 2003. This letter was to enable the Appellant to obtain tax credits due to Autotek by CRA. He was informing them that CRA was attempting to disallow credits to Autotek based on not having the invoice from Touchstone Property Management that he required. The property management company was acting as property manager at the time.
+[7] He said that CRA had not credited him with $9,320.02.
+[8] He referred to Exhibit A-1, at Tab 8 which was a letter from Insurance Corporation of British Columbia (“ICBC”) directed to the law firm which indicated that Autotek failed to pay alternative transportation for customers whose vehicles were being repaired by Autotek. Consequently the ICBC set off $7,338.85 to settle those accounts. The balance owing to Autotek was $11,599.08. The letter indicated that a request was being made that the outstanding money to Autotek be made to Watson Goepel Maledy in Trust. It was dated November 5, 2004 and the funds were paid to CRA but yet they charged him two years’ interest.
+[9] A further $3,093.76 was paid to CRA but it did not change the balance because he was charged other interest and penalties.
+[10] Some monies were not paid to CRA even though there was money owing to Autotek. The amount of $7,300 was paid out to unsecured creditors even though the demand letters were still in effect and served. He referred to Exhibit A‑1, Tab 6, which was a letter from ICBC to Watson Goepel Maledy saying that the letters had been forwarded to the appropriate departments for their review. But nothing happened as a result of this letter. Those were still funds owing to Autotek.
+[11] Exhibit A-1, Tab 17 is a Notice of Claim. He indicated that he took Enterprise Rent-a-Car Canada Limited to Court and claimed $9,120.34 from them. He agreed that he was responsible for paying the taxes on time but he could not do anything because the funds were held by ICBC. The funds never went into the company. He had no power to control the money. None of these funds were ever received by Autotek. He referred to a letter in Exhibit A-2, Tab 7 addressed to the Ombudsman’s office which set out his position. He went to ICBC before he went to see the Ombudsman.
+[12] In cross-examination he said that he had been in the business of auto repairs for 22 years. The original business was downtown and the second place of business was in Cambie. The Cambie property was leased premises. He worked there daily. He hired and fired workers. His duties included setting up accounts, determining and paying wages, marketing, issuing pay cheques and hearing complaints. He hired a bookkeeper and supplied him with the accounts. He did the payroll and picked up the papers weekly. At the end of the day the customers were merely charged for the deductible if it was applicable. He then sent his claim to ICBC for payment. Rarely did he do a private claim. Ninety-nine percent of his work was from ICBC.
+[13] Through 2001 and 2002 there were remittance problems. He did not agree that there were remittance problems since 1995. However there were problems with ICBC since 1998.
+[14] From funds which he did receive he paid CRA first. He did not establish any special account for remittances. He denied that he transferred any house to his wife to “dodge” his responsibility.
+[15] He identified a letter dated February 23, 2006 from himself to ICBC in which he indicated the difficulties in determining what monies were still owing by ICBC to Autotek and indicated that he had taken it upon himself to deal with this particular issue.
+[16] He identified a letter from Poulsen & Company in Exhibit A-1, Tab 20 which enclosed a statement of GST paid by Autotek and this showed an amount of $1,683.42. This statement was dated October 13, 2006. On the bottom of this statement in writing is an amount of $3,808.95 as the total amount of GST paid.
+[17] He referred to a letter at Exhibit A-1, Tab 21 to the Bailiffs setting out the difficulty that he was having in maintaining his records of what amounts were received by the Bailiff and credited to Autotek’s account. He demanded documentation such as the accounting and proof of payment documents that he could use in a small claims action.
+[18] He identified a letter to the Appeals Division dated January 23, 2007 with respect to his due diligence defence and that he took positive steps to ensure that all of his remittances were paid. He indicated that he was providing documentation to prove that when fees are not paid in a timely fashion this was beyond his control. The documents showed that he was instrumental in recovering a total of $67,531.88 of the debt for CRA.
+[19] CRA allowed him only $2,968.89 in ITCs whereas he claimed $10,151.63.
+[20] He referred to Exhibit A-2, Tab 1 and indicated that the landlord had paid the sum of $9,320.62 to CRA on behalf of Autotek according to his calculations but they only allowed him the sum of $2,168.89.
+[21] Traci Lynn Johnson was a team leader at CRA for seven years in customs. She spent three years at the Royal Bank in collections. She was assigned to the Autotek file with respect to the outstanding balances on the income tax and GST accounts and outstanding returns.
+[22] She said that the Appellant’s business was being sold and they wanted to establish their priority. She reviewed the file and tried to establish debts what were owing. It was noted in the GST file that there were problems with respect to the GST remittance back to 1995. The Appellant was advised twice about his liability.
+[23] She reviewed the figures of the assessment for the Appellant as set out in Exhibit R-1, Tab 6 prepared for October 3, 2001 to May 15, 2006.
+[24] She also reviewed the Requirement to Pay found in Exhibit R-1, Tab 8, dated June 16, 2003. She said that they received no money as a result thereof. However in 2003 some funds were remitted as indicated by the letter found at Exhibit R-1, Tab 18 dated August 20, 2003. This was a payment in the amount of $3,093.76 as a result of a trust cheque from Taylor Veinotte Sullivan and was applied to Autotek’s GST accounts of September 18, 2003. Also received was a cheque for $52,839.80 to cover the GST and payroll accounts. This was a cheque from Watson Goepel Maledy dated December 23, 2003 to cover GST and payroll accounts. The deemed trust amounts were paid out. GST, interest and penalties remained and penalties amounts remained for the payroll account.
+[25] They received no other funds. In February 2004 they commenced Director’s Liability Proceedings. They received a due diligence defence from the Appellant as can be seen from the document in Exhibit R-1, Tab 3. They gave every opportunity to the Appellant to file a defence. They did not consider that his actions amounted to due diligence. They certified the debt in the Federal Court as per the document found in Exhibit R-1, Tab 11. Seizure and sale was issued but they were unable to locate any assets in 2004.
+[26] In 2004 and 2006 they still believed that there was a possibility that funds were still owed to Autotek by ICBC. They issued another Demand Notice to ICBC on August 31, 2004 for the payroll account. They also issued a GST Requirement to Pay on August 31, 2004. They received a response from ICBC on September 3, 2004 to the Demand Notices saying that the business was no longer in operation and that their supplier number with ICBC was suspended on June 19, 2003. On January 4, 2006 they received a cheque from Webster Hudson Akerly LLP in the amount of $11,599.08 pursuant to a Requirement to Pay that they had issued to the ICBC. On the document it said January 9, 2005 but this was an error and it should have been 2006. That was credited to Autotek’s account on January 9, 2006. Exhibit R-1, Tab 9 was a Statement of Account prepared by the Surrey department showing all payments credited to the account.
+[27] Exhibit R-1, Tab 6 shows the particulars of the Notices of Assessments from October 1, 2003 to May 15, 2006. The Department concluded that the shareholder was a director at the relevant times and that there was no resignation. In that regard she referred to Exhibit R-1, Tab 15 which was a BC Company Summary for Autotek. She said that the assessments were raised on May 19, 2006. In preparation for the hearing she did a search and found that all payments were properly recorded.
+[28] In cross-examination she referred to Exhibit R-1, Tab 6 showing that the balance in the payroll account was $10,280.94 and the balance in the GST account was $8,871.09 for a total of $19,152.03.
+[29] Vicki Wee testified that she has been an auditor with CRA for 6½ years. She has a CGA designation and is familiar with income tax and GST. She has always been an auditor. She was first involved with the case at bar on August 14, 2007. She contacted the accountant for Autotek on August 28, 2007 and said that she had received an amended return and wanted to review the company documents. She referred to Exhibit R-1, Tab 20 which was the Amended Goods and Services Tax/Harmonized Sales Tax (GST/HST) Return. The accountant told her that he had no documents but only one sheet of documents that the client had given to him. The accountant was referred to Exhibit R-1, Tab 21. She said that she had received this from the collection officer. This was prepared by Karim K. Vira, CRA, CGA, dated October 6, 2006. It purported to show additional GST ITCs paid subsequent to the assessment and final GST returns. This amounted to $10,151.63 for the total GST credit.
+[30] This witness said this was the only document provided relative to GST. There were no backup documents. She asked for them. The Appellant said that he did not wish to spend anymore time on it.
+[31] She referred to a letter in Exhibit R-1, Tab 19A, to Nick Kanavaros with respect to the amended 2003 GST return for Autotek which told him what was required in order for them to allow the additional ITCs claimed on the amended 2003 GST return. She needed to have the original invoices to verify that these expenses were incurred in the course of the business and that GST was actually paid for these expenses. They reminded him that he had already said that he no longer wished to spend anymore time or effort on the matters related to Autotek. Consequently the adjustments request was denied in full.
+[32] On October 18, she received a telephone call from the Appellant and he said that he did not want to talk to her except by letter. She sent a letter to him on October 22, 2007 which is found in Exhibit R-1, Tab 19B stating that they needed additional documents in order to allow additional ITCs. On November 2, 2007 she received some documents and on December 21 she received a binder of documents found in Exhibit A-1 where the Appellant was claiming $10,000 credit for ITCs. She reviewed, for this purpose, her working papers and the document located in Exhibit R-1, Tab 22 dated January 15, 2008. She only had the surrender of lease and disallowed the claim of $4,906.54. There were no supporting documents to support the claim. Where amounts were disallowed, there were no source documents.
+[33] The document located at Exhibit A-2, Tab 1, referred to as Tenant Ledger, was sent to her the day before the trial. She reviewed it and said that she determined that the Appellant is entitled to a credit of $4,520.56.
+Argument on Behalf of the Respondent
+[34] Counsel for the Respondent said that the real issue was whether or not the Appellant acted in such a manner as to prevent the failure to remit so that the due diligence defence was available to him. It was his position that the Appellant did not act in such a way and that the appeal should be dismissed.
+[35] He referred to a letter of September 21, 1995 directed to the Appellant advising him of his liability as Director. The amounts that were held by ICBC and remitted to CRA were credited to the account. He referred to Exhibit R-2, Tab 14 in that regard.
+[36] He opined that the Minister has no duty to collect from creditors. It is the Minister’s option to do so. It is not proper to argue that the Minister was negligent. He referred to Canales (c.o.b. AAY 147974) v. Canada, [1996] T.C.J. No. 845 for the proposition that even though Revenue Canada may make an effort to collect some accounts receivable it owes no duty to the Appellant to do so.
+[37] Likewise, in Qureshi v. M.N.R., 79 DTC 5161, this decision stands for the proposition that the Minister must decide what course of action would most likely reap the maximum results. That decision is not subject to review under section 18 of the Federal Court Act.
+[38] In Blanchard v. Canada, [2000] T.C.J. No. 342 (T.C.C.), at paragraph 110 it was held that, “It is of little consolation to the Appellants to argue that Revenue Canada did not take positive steps to collect the accounts by all means possible when indeed the duty to act positively is upon the company and both Appellants knew this from the beginning”.
+[39] Likewise as in Van Leenen v. Canada (M.N.R.), 91 DTC 1265, if the Appellant is seeking redress from the actions of the Minister he must do so in the Federal Court and not in the Tax Court.
+[40] On the matter of attacking the underlying assessment, counsel referred to Zaborniak v. Canada, [2004] T.C.J. No. 412 (T.C.C.). The Court held that the taxpayer had no right to dispute the quantum of the judgment debt as set out in the judgment where the execution had been returned unsatisfied.
+[41] In Scavuzzo v. Canada, [2005] T.C.J. No. 620 (T.C.C.), Justice Bowman determined that the taxpayer has a right to attack the underlying assessment. However, this was a different case because it was a section 160 assessment and the taxpayer did not have any opportunity to attack the original judgment. In the case at bar, the Appellant was well aware of his personal liability and he could have objected to the original assessment against Autotek. With respect to the Appellant’s claim for further ITC credits there were no supporting documents which complied with the requirements of the Act and the Regulations to support his claim.
+[42] The real issue is due diligence whether that requirement be “subjective” or “objective”. Where the Appellant is an inside director it does not matter whether the test is subjective or objective. The Appellant is required to take action to prevent the failure. It is not enough that he hoped to pay the unremitted amounts when certain recoveries were affected.
+[43] As in Soper v. Canada, [1997] F.C.J No. 881 (F.C.A.), the Appellant was required to take action to prevent the failure when he gained information or became aware of facts that indicated that there was a problem and that Autotek was experiencing financial difficulties. The problems with ICBC started around 1995 and continued into 1998. ICBC started withholding his money. Later he received an indication from Revenue Canada with respect to his problem. He did not keep any separate bank account to show that Autotek would be able to remit the amounts owing. The steps that the Appellant took were after the fact and they are not sufficient to establish a defence.
+[44] The appeal should be dismissed and the Minister’s assessment confirmed.
+[45] If the Court were to allow the appeal it should only be allowed in respect to the amount as set out in Exhibit R-1, Tab 22. It should not include the claim for ITCs based upon the rent as the Appellant stated in his evidence.
+Argument on Behalf of the Appellant
+[46] Funds were paid to the landlord and others as a result of his actions. ICBC was contacted by him and he tried to do something about the debt. He was squeezed out of the business and was unable to act in any way other than as he did. The amounts were paid to ICBC and not to him and so he lost control of the payments. He did what he could to pay the debt. He could do nothing further. If there was income it was from one source and when that source dried up and others took the payments or withheld them he could do nothing.
+[47] He tried his best and did everything he could to try to collect the debt. He sent letters out to creditors who owed money to Autotek and monies were paid as a result of his actions.
+[48] The cases referred to by counsel for the Respondent are not applicable to this case as they are not similar to this case. He tried to pay CRA first. It was an extremely tough period for him. The credit line was withdrawn.
+[49] As a result of some of his efforts the property was sold. If the credit had been given to him in 2003 instead of 2006 there would not be the interest and penalties owing. Once the funds were held back there was nothing further he could do.
+[50] The Court should do what is fair. He did everything that he could. The appeal should be allowed.
+Analysis and Decision
+[51] Two issues arise in this case. The first issue is whether or not the Appellant has established a defence of due diligence. The second issue is whether or not the Appellant is entitled to any reduction in the amount claimed. The Appellant has argued that some of the claim against him is incorrect.
+[52] Even though the Appellant argued that he did everything he could to collect monies that were owing to Autotek, he was ready to admit that these actions were basically taken after the fact.
+[53] There can be no doubt that the Appellant did his best to try to collect some of the monies that were outstanding from ICBC and other creditors after the debt arose. He even went to the extent of commencing legal action himself in order to gain funds to be remitted to CRA to reduce the debt.
+[54] His actions were certainly credible and indeed they did result in substantial amounts of money being remitted to CRA which may not otherwise have been recovered.
+[55] However, this is not the issue that is before the Court at the present time. In accordance with Soper v. Canada, supra and other cases, “the positive duty to act arises where a director obtains information, or becomes aware of facts, which might lead one to conclude that there is, or could reasonably be, a potential problem with remittances. Put differently, it is indeed incumbent upon an outside director to take positive steps if he or she knew, or ought to have known, that the corporation could be experiencing a remittance problem”.
+[56] There is no doubt in this case that the Appellant was an inside director. Whether or not the test is an objective one or a subjective one there is no doubt in the Court’s mind that the Appellant in this case has not met the burden of establishing that he acted in a manner that was reasonable and prudent under all the circumstances in attempting to prevent the failure of Autotek in making the necessary remittances.
+[57] It is clear from the evidence gleaned from the argument of the Appellant that he knew that the problem existed and that it existed for some time. In spite of the fact that there is no doubt that he made valiant efforts to try to collect monies owing to Autotek these actions were well after the fact and well after he had been made aware that Autotek had not made these remittances, that the money was being held back from the only source of income, from ICBC. He was well aware that these funds were not going to be paid to Autotek without a fight.
+[58] These are not the actions of a reasonable director as contemplated by Soper, supra, and the other cases. These are not actions contemplated to prevent the default.
+[59] The Court has great sympathy with the Appellant for the problems that he encountered when operating the business. Certainly there were intervening factors that magnified the difficult situation in which he found himself. The situation was regrettable but the Appellant was the sole shareholder and director of Autotek. He ought to have known what monies were coming in to Autotek, he was the one who controlled where the monies that were received by Autotek were to be paid.
+[60] The Appellant was aware of the difficulty that Autotek was having in collecting money. In spite of the fact that ICBC was holding back for a considerable period of time the monies that Autotek was owed, the Appellant was the one that directed which payments were to be made and when they were to be made. If some of these monies were not paid out to other creditors or employees, that money would have been available to reduce the balances owing to the Minister.
+[61] The Court is aware that Autotek was required to pay its employees and pay other expenses to keep the business running, but the long and short of it is that it was the conscious decision of the Appellant not to remit those monies to the Minister, to keep the business running in hopes that things would improve and that the amounts that he knew were outstanding to the Minister would somehow be paid in the future. This did not happen.
+[62] Such actions do not satisfy the duty imposed upon him by this section of the statute. These actions clearly do not meet the test in subsection 227.1(3). This duty is to prevent the failure to make remittances and not to cure the problem after the fact.
+[63] As indicated in Soper, supra, the Court is satisfied that “the due diligence requirement laid down in subsection 227.1(3) a director may, as the Department of National Revenue has noted, take “positive action” by setting up controls to account for remittances, by asking for regular reports from the company’s financial officers on the ongoing use of such controls and by obtaining confirmation at regular intervals that withholding and remittance has taken place as required by the Act:”
+[64] All of these actions would have been under the power of the Appellant here because he was the sole shareholder and director and had complete control over Autotek.
+[65] The Court is not satisfied that the Appellant has met the burden of establishing that he acted as a reasonable and prudent director would under the circumstances and his actions do not establish the defence of due diligence.
+[66] On the second issue of the accuracy of the amounts owing, the Court is satisfied on the basis of the evidence given by the accountant and more particularly by Vicki Wee that all credits have not been made to the account as set out in the assessment in question made against the Appellant. She said that the documents that she reviewed in coming to this conclusion were only faxed to her the day before the trial. She reviewed them and indicated that the Appellant was entitled to a credit of $4,520.56 with respect to ITCs not credited to the account after the assessment was made against the Appellant.
+[67] The Court is satisfied that it would be completely unjust for the Minister to receive such monies and that the Appellant cannot be given the benefit thereof even though the Minister did not become aware of the documents until the day before the trial.
+[68] In the end result the Court will allow the appeal under file No. 2007‑2305(GST)I and remit the matter to the Minister for reassessment and reconsideration upon this finding that the Appellant is entitled to a further credit of $4,520.56. In all other respects the appeal is dismissed.
+[69] With respect to the file No. 2007-2790(IT)I the appeal is dismissed.
+[70] The Court will hear the parties with respect to the matter of costs at Vancouver, British Columbia on Friday, June 20, 2008 at 9:30 a.m.
+Signed at Ottawa, Ontario, this 22nd day of May 2008.
+“T. E. Margeson”
+Margeson J.
+CITATION: 2008TCC254
+COURT FILE NOS.: 2007-2790(IT)I, 2007-2305(GST)I
+STYLE OF CAUSE: NICK KANAVAROS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: March 5, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice T. E. Margeson
+DATE OF JUDGMENT: May 22, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrew Majawa
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

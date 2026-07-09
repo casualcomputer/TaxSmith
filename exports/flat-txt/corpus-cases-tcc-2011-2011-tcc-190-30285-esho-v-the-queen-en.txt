@@ -1,0 +1,102 @@
+Title: Esho v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30285/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-190-30285-esho-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-03-28
+
+# Esho v. The Queen
+
+- Citation: 2011 TCC 190
+- Decision date: 2011-03-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8024, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Esho v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-28
+Neutral citation
+2011 TCC 190
+File numbers
+2010-3021(GST)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-3021(GST)I
+BETWEEN:
+DAVID A. ESHO and VICTORIA B. ESHO,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 17, 2011 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellants:
+David A. Esho
+Counsel for the Respondent:
+Roxanne Wong
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Excise Tax Act by notice dated December 15, 2009 is dismissed.
+The parties shall bear their own costs.
+Signed at Ottawa, Canada this 28th day of March 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 190
+Date: 20110328
+Docket: 2010-3021(GST)I
+BETWEEN:
+DAVID A. ESHO and VICTORIA B. ESHO,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellants, David and Victoria Esho, appeal with respect to the disallowance of a GST/HST rebate requested under subsection 256.3 of the Excise Tax Act. The rebate is a transitional measure that applies in respect of the purchase of a new home.
+[2] The rebate was disallowed on the basis that the application was not made within the two year deadline set out in subsection 256.3(7) of the Act. The provision is reproduced below.
+256.3(7) A rebate under this section in respect of a residential complex shall not be paid to a person, unless the person files an application for the rebate within two years after the day on which ownership of the complex is transferred to the person.
+[3] Mr. Esho acknowledges that the application was made subsequent to the two year anniversary of the purchase. Nevertheless, he raises several grounds for relief.
+[4] First, he submits that the Canada Revenue Agency (CRA) did not provide sufficient notice to the public in respect of the transitional provision.
+[5] This argument cannot assist the appellants. Relief cannot be given by this Court on account of poor communication of the law by the CRA. Even if relief could be granted, it would not be appropriate in this case because Mr. Esho was aware of the transitional legislation as he is a real estate agent. The deadline was missed for health-related reasons, and not poor communication by the CRA.
+[6] Second, Mr. Esho submits that the application was made within the two year deadline because it was made 2.4 years after ownership was transferred. It is submitted that 2.4 years is mathematically the same as two years.
+[7] Even if 2.4 is sometimes the same as 2, I cannot accept that it is always the case. It is a matter of context.
+[8] The issue that is raised is a matter of statutory interpretation. Did Parliament intend that 2.4 years is within the two year deadline? I do not think that this interpretation best reflects Parliament’s intent.
+[9] If Parliament had intended that an application could be made more than two years after ownership had transferred, the legislation would have clearly said so. For instance, the following phrase could have been used: “on or before three years.” In my view, the phrase that Parliament used, “within two years,” is intended to mean on or before the two year anniversary date.
+[10] Third, the appellants suggest that the limitation period should be suspended on compassionate grounds because Mr. Esho was unable to make the application on a timely basis for medical reasons.
+[11] It is not possible to provide relief on these grounds because the deadline in the legislation is strict. Parliament has the authority to provide a strict deadline and it has done so in clear terms in this case.
+[12] The appellants submit that the line of cases relied on by the respondent dealing with fairness and equity do not apply to compassionate circumstances.
+[13] I disagree. The point being made in the judicial authorities is that this Court has no ability to ignore clear legislative provisions. It is not the prerogative of the Court to provide relief where none has been provided by Parliament.
+[14] For these reasons, the appeal will be dismissed.
+Signed at Ottawa, Canada this 28th day of March 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 190
+COURT FILE NO.: 2010-3021(GST)I
+STYLE OF CAUSE: DAVID A. ESHO and VICTORIA B. ESHO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 17, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: March 28, 2011
+APPEARANCES:
+Agent for the Appellants:
+David A. Esho
+Counsel for the Respondent:
+Roxanne Wong
+COUNSEL OF RECORD:
+For the Appellants:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

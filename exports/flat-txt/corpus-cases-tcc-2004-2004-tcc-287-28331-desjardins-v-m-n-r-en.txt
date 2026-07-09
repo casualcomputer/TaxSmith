@@ -1,0 +1,107 @@
+Title: Desjardins v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28331/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-287-28331-desjardins-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-04-08
+
+# Desjardins v. M.N.R.
+
+- Citation: 2004 TCC 287
+- Decision date: 2004-04-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1850, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desjardins v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-08
+Neutral citation
+2004 TCC 287
+File numbers
+2002-2594(EI)
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-2594(EI)
+BETWEEN:
+RICK DESJARDINS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 10, 2004 at Hamilton, Ontario
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Agent for the Appellant:
+Penny Desjardins
+Counsel for the Respondent:
+Joel Oliphant
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of April 2004.
+"G. Sheridan"
+Sheridan, J.
+Citation: 204TCC287
+Date: 20040408
+Docket: 2002-2594(EI)
+BETWEEN:
+RICK DESJARDINS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] This is an appeal from the Minister’s decision that Mr. Rick Desjardins was not engaged in insurable employment as an employee of Tri R Trucking for the period May 20, 2001 to August 31, 2001. In making his determination, the Minister relied on the following assumptions of fact:
+a) The Payor operates a trucking business;
+b) The Appellant was hired by the Payor to operate a dump truck to do snow removal during the winter months;
+c) The Payor's records indicate the Appellant performed services for the Appellant prior to the period under review and the appellant was paid up to the pay week ending May 20, 2001;
+d) The Appellant alleges he performed other or additional services for the Payor during the period under review;
+e) There are no records or evidence to support the fact the Appellant performed services during the period under review;
+[2] The outcome of this appeal depends on whether, as a question of fact, Mr. Desjardins actually performed services for Tri R Trucking for which he was paid during the period in question. Mr. Desjardins has the onus of rebutting the Minister's assumptions if he is to succeed in his claim that he was engaged in insurable employment. The gist of his argument is that, regardless of the fact that Tri R Trucking’s payroll records show his last day of employment as May 20, 2001, he continued to work for the company after that date until August 31, 2001 and was paid for his services in cash.
+[3] Tri R Trucking is in the business of providing trucks and drivers to clients at their job sites throughout Ontario. Mr. Desjardins began working as a tandem truck driver for Tri R Trucking in 1989. In the winter months, he operated a dump truck used for snow removal; in the summer, he was primarily engaged in hauling asphalt. Until May 20, 2001, he was paid either weekly or monthly in cash or by cheque, depending on which method Mr. Bradt, the president of Tri R Trucking, chose to use from time to time.
+[4] During the period in question, Mr. Desjardins was hauling asphalt at various job sites including Port Darlington, Belleville and London. While working at a site away from home, he would be required to “room” with a fellow crew member at local motels. In support of his testimony, he produced copies of receipts and/or letters of confirmation from some of the motels where he had stayed from May to August, 2001. In these exhibits, reference is made in varying combinations to Mr. Desjardins, Tri R Trucking, the company’s business address, and/or the license number of the company truck. Mr. Desjardins testified that although he was paid a fixed amount each week, his hours varied depending on what work was available. He stated as well that it was Mr. Bradt’s practice to carry over any hours in excess of 40 per week to a week in which Mr. Desjardins had worked fewer than 40 hours. The Court is satisfied that, under the standards of the Informal Procedure which apply to Employment Insurance Act cases, Mr. Desjardins’ evidence leads to the conclusion that he was working for Tri R Trucking as part of the crew from May 20, 2001 to August 31, 2001.
+[5] The next step is to detemrine whether Mr. Desjardins was paid for this work. During this period, in addition to his trucking duties, Mr. Desjardins was responsible for collecting payments, in cash, at the end of each week from each of Tri R Trucking’s customers and delivering it to Mr. Bradt. From this cash, Mr. Bradt would then pay to Mr. Desjardins the amount of $575.00. Mr. Bradt did not provide Mr. Desjardins with a payroll stub for these amounts nor did he request a receipt from Mr. Desjardins. Mr. Desjardins explained that he was not worried about this practice at the time since, in his experience, cash payments are “typical” in construction.
+[6] The trouble with (or beauty of, depending on one’s objective) cash transactions is that they tend not to leave any evidence of their having occurred. Mr. Desjardins told his story in a credible fashion. To the extent that he could (given that his employer had possession of the truck logs and receipts for accommodation, vehicle rental and so on), he pieced together reasonably reliable documentation in support of his claim. It would have been helpful to the Court to have heard from Mr. Bradt. In spite of Crown counsel’s efforts, however, the only witness available from Tri R Trucking was Mr. Bradt’s administrative assistant, Ms. Cindy Campbell. While Ms. Campbell testified in a straightforward manner, the usefulness of her evidence was severely limited in that she did not begin working at Tri R Trucking until November, 2001, long after Mr. Desjardins’ departure. Accordingly, she had no personal knowledge of any of the dealings between Mr. Bradt and Mr. Desjardins during the relevant period. Ms. Campbell could do no more than recite at the hearing whatever information the absent Mr. Bradt had given her. Given the nature of the transactions between Mr. Desjardins and Mr. Bradt, such evidence was of little aid to the Court.
+[7] The Court is satisfied that Mr. Desjardins has successfully rebutted the assumptions upon which the Minister’s decision was based. The Court finds that he was working for Tri R Trucking from May 20, 2001 to August 31, 2001 and that he was paid in cash for his services at a rate of $575.00 per week. The appeal is allowed and the decision of the Minister is vacated.
+Signed at Ottawa, Canada, this 8th day of April 2004.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2004TCC287
+COURT FILE NO.:
+2002-2594(EI)
+STYLE OF CAUSE:
+Rick Desjardins and M.N.R.
+PLACE OF HEARING:
+Hamilton, Ontario
+0
+DATE OF HEARING:
+March 10, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+April 8, 2004
+APPEARANCES:
+Agent for the Appellant:
+Penny Desjardins
+Counsel for the Respondent:
+Joel Oliphant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

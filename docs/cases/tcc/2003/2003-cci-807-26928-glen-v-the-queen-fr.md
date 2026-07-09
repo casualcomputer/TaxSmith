@@ -1,0 +1,113 @@
+---
+title: "Glen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26928/index.do"
+last_modified: "2003-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 807"
+citation2: ""
+neutral_citation: "2003 CCI 807"
+decision_date: "2003-11-24"
+language: "fr"
+item_id: "26928"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 734
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:29:46.322000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "de4e11f3a8c4ae36c08713d7701527f839d1b06fa5106f952ed320c25c65d97d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Glen v. The Queen
+
+- Citation: 2003 CCI 807
+- Decision date: 2003-11-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 734, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glen v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-24
+Référence neutre
+2003 CCI 807
+Numéro de dossier
+2002-604(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI807
+Date : 20031124
+Dossier : 2002-604(IT)I
+ENTRE :
+JOHN T. GLEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Pour l'appelant : L'appelant lui-même
+Avocat de l'intimée : Me A'Amer Ather
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à
+Toronto (Ontario) le 31 janvier 2003.)
+Le juge McArthur
+[1] La question en litige, dans les présents appels, est celle de savoir si l'appelant a le droit de déduire des dépenses d'entreprise ou d'emploi supplémentaires respectives de 34 560 $ et de 10 730 $ pour les années d'imposition 1998 et 1999. Les détails concernant lesdites dépenses se trouvent aux annexes A et B de la Réponse à l'avis d'appel. Avant l'audience, l'appelant a demandé un ajournement pour que l'on tente d'arriver à un règlement. Ces pourparlers ont commencé deux jours avant l'audience et n'en étaient qu'à l'étape préliminaire, au mieux. Sur ma demande, les parties ont comparu au jour et à l'heure prévus pour l'audition des appels. La date avait été fixée quelques mois avant. Les parties étaient prêtes et l'audience s'est déroulée. Pour des motifs indiqués par le juge Bowie dans la décision Solomons c. La Reine, C.C.I., no 2000-3214(IT)G, 10 janvier 2003 (2003 DTC 505), je n'étais pas prêt à accorder un ajournement, à moins qu'un règlement ne soit imminent, ce qui n'était pas le cas.
+[2] L'appelant est un évaluateur immobilier et professeur d'université à temps partiel très averti. Il est titulaire d'un baccalauréat ès arts et d'une M.A. décernés par la University of Western Ontario, et il fait partie de plusieurs institutions d'évaluation. Son curriculum vitæ est impressionnant.
+[3] En 1998 et 1999, il a reçu des formulaires T-4 de Jones Lang Wootton Canada indiquant les sommes de 109 999,92 $ et de 82 499,94 $ et de l'Université York indiquant les sommes de 11 525,81 $ et de 12 822,62 $. En fait, il a gagné 140 000 $ auprès de Jones Lang en 1998 mais a soutenu une initiative de l'entreprise en renonçant à 30 000 $. Je mentionne ce fait pour qu'il soit pris en compte lors de la comparaison du revenu par rapport aux dépenses. En 1998, l'appelant a déduit 62 609,33 $ à titre de dépenses d'un revenu approximatif de 150 000 $. Au printemps 1999, il a quitté Jones Lang et a travaillé à son propre compte pendant le restant de l'année.
+[4] La question est celle de savoir si l'appelant peut déduire les dépenses demandées qui sont énumérées aux annexes A et B de la Réponse. Le vérificateur de l'Agence des douanes et du revenu du Canada n'a pas témoigné, mais sa position est énoncée dans la lettre datée du 12 mars 2001 et déposée à titre de preuve comme pièce A-2. Le ministre du Revenu national se fonde principalement sur l'article 8 de la Loi de l'impôt sur le revenu.
+[5] L'appelant était le seul témoin. Son témoignage était vaste mais manquait de détails concernant les montants dépensés. Pour le résumer brièvement, il a énuméré les raisons pour lesquelles il devait beaucoup voyager, qu'il avait besoin de matériel informatique de pointe équipé de logiciels onéreux ainsi que de matériel photographique, qu'il avait engagé des coûts d'imprimerie considérables dans le cadre de la préparation de cours et de documents de cours pour ses cours magistraux à l'Université York et pour lesquelles il utilisait son domicile de façon considérable pour préparer ses cours, rencontrer les étudiants et travailler à ses évaluations.
+[6] Selon la position de l'intimée, pour demander des dépenses d'emploi, l'appelant doit tomber sous le coup des dispositions législatives que représentent les sous-alinéas 8(1)i)(i), (ii) et (iii) ainsi que les paragraphes 8(2) et 8(13) dont les passages pertinents sont les suivants :
+8(1) Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+a) [...]
+i) dans la mesure où il n'a pas été remboursé et n'a pas le droit d'être remboursé à cet égard, les sommes payées par le contribuable au cours de l'année au titre :
+(i) des cotisations annuelles de membre d'association professionnelle dont le paiement était nécessaire pour la conservation d'un statut professionnel reconnu par la loi,
+(ii) du loyer de bureau ou du salaire d'un adjoint ou remplaçant que le contrat d'emploi du cadre ou de l'employé l'obligeait à payer,
+(iii) du coût des fournitures qui ont été consommées directement dans l'accomplissement des fonctions de la charge ou de l'emploi et que le contrat d'emploi du cadre ou de l'employé l'obligeait à fournir et à payer, [...]
+8(2) Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi.
+8(13) Malgré les alinéas (1)f) et i) :
+a) un montant n'est déductible dans le calcul du revenu d'un particulier pour une année d'imposition tiré d'une charge ou d'un emploi pour la partie d'un établissement domestique autonome où le particulier réside que si cette partie, selon le cas :
+(i) est le lieu où le particulier accomplit principalement les fonctions de la charge ou de l'emploi,
+(ii) est utilisée exclusivement, au cours de la période à laquelle le montant se rapporte, aux fins de tirer un revenu de la charge ou de l'emploi et est utilisée pour rencontrer des clients ou d'autres personnes de façon régulière et continue dans le cours normal de l'exécution des fonctions de la charge ou de l'emploi; [...]
+[7] Par l'entremise de son comptable, l'appelant a déposé ses déclarations de revenus pour 1998 et 1999 et a demandé des dépenses d'emploi. L'appelant n'a pas fait état du fait qu'il était un entrepreneur indépendant, bien qu'il semble que cela ait été le cas pendant sept ou huit mois en 1999 à l'égard de son entreprise d'évaluation. Aucune ventilation de son revenu n'a été fournie pour 1999 autre que le paragraphe 8a) de la Réponse qui indiquait que Jones Lang lui avait fourni un formulaire T-4 indiquant la somme de 82 499,94 $ en 1999. Aucun revenu d'entreprise indépendant n'a été indiqué. Je me fonde sur le fait que toutes les dépenses étaient des dépenses d'emploi qui sont limitées par l'article 8 qui s'applique.
+[8] Je me pencherai sur l'argument de l'avocat de l'intimée. Inspiré par le commentaire du juge Bowman dans la décision McCann v. The Queen, [2002] 3 C.T.C. 2422 au paragraphe 15, il a déclaré ceci à propos des observations de l'intimée :
+[traduction]
+C'est, à n'en pas douter, un extraordinaire éventail d'arguments. Le plus facile serait de les accepter, tous ou en partie, et de rejeter les appels. Pourtant, la demande est tout à fait digne d'intérêt, et je pense que la Cour se doit, pour l'appelant, d'examiner attentivement les arguments de la Couronne. Les appelants qui ne sont pas représentés constituent un groupe vaste et important devant la Cour, particulièrement dans le cadre de la procédure informelle. La voie qui présente le moins d'obstacles consiste à rejeter l'appel, car les arguments de la Couronne ont généralement un semblant de vraisemblance et, si le juge de première instance les accepte et rejette l'appel, il peut se rassurer en se disant qu'il est peu probable que le plaideur sans avocat interjette appel devant la Cour d'appel fédérale. Nos obligations, en tant que juridiction de première instance investie d'une compétence exclusive pour entendre les appels interjetés en vertu de la Loi de l'impôt sur le revenu et d'autres lois fédérales, excèdent considérablement la simple adoption d'arguments vraisemblables.
+[9] L'appelant était, à mon avis, un témoin impressionnant. Son immersion dans l'enseignement est manifeste, même si elle n'est qu'à temps partiel. C'est un évaluateur hautement qualifié dont les services ont été retenus par les géants de l'industrie comme Cadillac Fairview, Cambridge, Olympia & York ainsi que plusieurs banques. Il donne des cours du soir deux fois par semaine à environ 80 étudiants, partageant ainsi ses connaissances spécialisées en matière d'évaluation. La rémunération que lui offre l'Université est modeste, soit environ 12 000 $ par année. Il possède de considérables connaissances dans le domaine de l'informatique, et peut enseigner aux étudiants les techniques de pointe. Il utilise ou achète le matériel et les logiciels informatiques les plus récents. Les étudiants lui téléphonent souvent après les heures de travail, et, en disant « après les heures de travail » , je parle de son travail à temps plein auprès de Jones Lang. Sur une période de quatre mois, il a rencontré entre 30 et 40 étudiants dans son bureau à domicile situé dans son appartement de copropriété. L'Université ne mettait aucun espace de bureau à sa disposition.
+[10] Il a assisté à des conférences ou colloques internationaux à ses propres frais pour rester à jour et conserver sa reconnaissance professionnelle. L'une desdites conférences pendant la période en litige a eu lieu à Kuala Lumpur. Il est manifestement très minutieux et précis dans la préparation de ses évaluations. Il engage parfois les services d'examinateurs de titres. Dans le cadre de son emploi de professeur, il engage une personne qui note les examens pour l'aider.
+[11] En ce qui concerne les articles particuliers demandés par l'appelant, il est malencontreux que, pour la plupart d'eux, aucun montant n'ait été donné. Les parties n'ont pas pu chiffrer certains de ces articles inclus dans les dépenses, et j'ai tenté de les examiner de la même façon dont ils étaient présentés.
+(i) Je suis d'accord avec l'avocat de l'intimée sur le fait que les paiements faits par l'appelant au profit de son comptable en 1998 et 1999 ne sont pas déductibles. L'article 8 ne prévoit rien de la sorte, et je renvoie à la décision Blair-Lawton c. La Reine, [2001] A.C.I. no 335, dans laquelle le juge Sarchuk, de la Cour, s'est penché sur une situation similaire.
+(ii) Les paiements faits à la personne qui notait les examens à l'Université York ne sont pas déductibles en vertu des sous-alinéas 8(1)i)(i) et (ii). Aucune preuve du fait que le contrat d'emploi exigeait l'engagement d'une personne pour noter les examens n'a été déposée.
+(iii) Je conclus que le coût des logiciels informatiques demandé par l'appelant est inclus dans le coût des fournitures énumérées au sous-alinéa 8(1)i)(iii). Les logiciels ont été consommés directement dans l'accomplissement des fonctions d'enseignement de l'appelant, et son contrat signifie sans aucun doute que, pour s'acquitter de ses obligations, il devait se munir de logiciels à jour.
+(iv) En ce qui concerne les dépenses liées à son domicile, l'intimée soutient que les deux composantes sont réunies en raison des deux sources de revenus de M. Glen. Je conclus que l'appelant utilisait son bureau se trouvant dans son appartement de copropriété comme son principal lieu d'emploi pour son travail universitaire. Alors qu'il donnait des cours à l'université, je n'ai aucune difficulté à conclure que plus de la moitié de ses tâches étaient réalisées dans son bureau à domicile pour préparer ses cours et parler à ses étudiants, que cela soit en personne ou au téléphone. Je conclus qu'en fait, l'espace réservé à son bureau était utilisé exclusivement en vue de s'acquitter de ses obligations d'emploi de professeur et j'accepte le fait qu'il utilisait 20 p. 100 de son appartement de copropriété à cette fin et que les dépenses sont déductibles en 1998 et 1999.
+[12] Comme le reconnaît l'intimée, les cotisations liées aux évaluations sont déductibles. En outre, je suis prêt à accorder les frais de déplacement s'élevant à 9 936,08 $ demandés en 1998. Je conclus que l'appelant devait beaucoup se déplacer au Canada et à l'étranger à ses propres frais pour réaliser des évaluations, généralement pour de grands propriétaires commerciaux. J'accepte entièrement la preuve de l'appelant à cet égard. J'accepte la position de l'intimée en ce qui concerne toutes les autres dépenses, y compris les dépenses liées aux repas, aux boissons, aux fournitures, à l'hébergement, aux déplacements, aux voitures, aux taxis, aux billets de train, à la location de voitures et aux réunions, autres que les montants et articles spécifiquement accordés précédemment dans le présent jugement.
+[13] J'ai tenté de suivre l'ordre de présentation des observations de l'avocat de l'intimée. Si quelque question devait être clarifiée, j'invite les parties à arranger une conférence téléphonique bien que je sois certain qu'elles puissent suivre les directives contenues dans la présente décision. Les appels sont accueillis et déférés au ministre du Revenu national pour nouvel examen et nouvelles cotisations pour permettre les déductions en vertu du paragraphe 8(1) de la Loi, dans le cadre du calcul du revenu d'entreprise ou d'emploi de l'appelant pour 1998 et 1999 de la façon prévue par le présent jugement. Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2003.
+« C. H. McArthur »
+Traduction certifiée conforme
+ce 18e jour de mars 2004.
+Sylvie Sabourin, traductrice

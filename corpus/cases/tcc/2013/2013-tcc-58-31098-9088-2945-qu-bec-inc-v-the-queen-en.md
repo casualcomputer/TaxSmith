@@ -1,0 +1,150 @@
+---
+title: "9088-2945 Québec Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31098/index.do"
+last_modified: "2013-02-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 58"
+citation2: ""
+neutral_citation: "2013 TCC 58"
+decision_date: "2013-02-19"
+language: "en"
+item_id: "31098"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4684
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:16:59.737000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4c15b761f504e9fe668ec4ff30478da8718e581cefda920062a6cc13c54fb866"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9088-2945 Québec Inc. v. The Queen
+
+- Citation: 2013 TCC 58
+- Decision date: 2013-02-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4684, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9088-2945 Québec Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-02-19
+Neutral citation
+2013 TCC 58
+File numbers
+2011-1950(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+DOCKET: 2011-1950(GST)I
+BETWEEN:
+9088-2945 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 11, 2013, at Montréal, Quebec
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the appellant:
+Edouard Robert
+Counsel for the respondent:
+Pier-Olivier Julien
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments issued in relation to the goods and services tax under Part IX of the Excise Tax Act, for periods from March 1, 2005, to August 31, 2008, is allowed in part and the assessments in issue will be referred back to the Minister to delete the penalties, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 19th day of February 2013.
+"B.Paris"
+Paris J.
+Translation certified true
+On this 28th day of March 2013
+Catherine Jones, Translator
+Citation: 2013 TCC 58
+Date: 20130209
+Docket: 2011-1950(GST)I
+BETWEEN:
+9088-2945 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] This is an appeal under the informal procedure from a series of assessments made under the Excise Tax Act for periods from March 1, 2005, to August 31, 2008. The Minister of National Revenue (the Minister) disallowed the appellant input tax credits (ITC) of $7,790.21. The Minister also imposed gross negligence penalties under section 285 of the Act.
+[2] In making the assessments, the Minister assumed that certain services that the appellant had claimed ITC for were not actually provided to the appellant or, if they had been provided, that they were not provided by the companies appearing on the invoices given to the appellant. In short, the Minister assumed that the invoices were accommodation invoices that were part of a tax evasion scheme.
+[3] The appellant operates a residential construction business in Sorel, Quebec. According to Jean Cournoyer, director of the appellant, who testified at the hearing, its annual sales are between $10,000,000 and $15,000,000.
+[4] In 2005, the appellant was looking for a drywall installer to work on one of its projects. Mr. Cournoyer asked some acquaintances in the field if they could recommend someone. He was given the name of Yves Séguin, who apparently worked for at least two companies known by Mr. Cournoyer.
+[5] In March 2005, the appellant hired Mr. Séguin’s company, Gypses et Joints P.D.M. (9123‑1704 Québec Inc.). Mr. Cournoyer said that he was satisfied with the work of Mr. Séguin and his team and continued to hire this company for other projects during the following months. After a while, Mr. Séguin told Mr. Cournoyer that he would be using another company to invoice the work, under the pretext that he was about to get a divorce and that he wanted to change companies. Mr. Séguin stated that this new company, Systèmes intérieurs Rocky Inc., was also owned by him.
+[6] During approximately three and a half consecutive years, Mr. Séguin used five different company names to invoice his services. According to Mr. Cournoyer, Mr. Séguin seemed to have personal problems often, which led him to use these new companies and he always had plausible explanations for these changes. Mr. Cournoyer gave the example that Mr. Séguin had to start a new company with an associate because he did not have enough money to continue operating his own company.
+[7] Mr. Cournoyer pointed out that the appellant’s controller, Sonia Leroux, checked every time with the Minister of National Revenue and the Minister of Revenue Quebec (MRQ) that the registration numbers given by Mr. Séguin for his companies were valid.
+[8] However, it seems that the five companies that invoiced the appellant did not belong to Mr. Séguin and that he was not the director or shareholder of any of them. This fact was not disputed by the appellant and Mr. Séguin did not testify. The appellant did not submit any other evidence, neither to show that Mr. Séguin had some interest in the five companies in question nor to show that he was linked in any way whatsoever to these companies.
+[9] I find that Mr. Séguin’s statements to Mr. Cournoyer that he owned these companies were clearly false and that the companies whose names and registration numbers appeared on the invoices given to the appellant by Mr. Séguin provided no services to the appellant.
+[10] It is also clear from the testimony of MRQ auditor, Guy Leclerc, that the five companies in question never remitted to the taxation authorities any GST or QST or file income tax returns. Mr. Leclerc also noted that all the cheques issued by the appellant to these companies were cashed at cheque-cashing services.
+[11] The respondent’s counsel argued that the appellant failed to prove that Mr. Seguin himself provided services to the appellant and that all the invoices in question were accommodation invoices.
+[12] However, the testimony of Mr. Cournoyer persuades me that Mr. Séguin and his team performed all the work indicated in the invoices. Mr. Cournoyer seemed to me to be very credible and his credibility was not disputed by counsel for the respondent. Nothing suggested that the appellant or its shareholders had received part of the payments made to the five companies, or that they profited in any manner whatsoever from this scheme. I accept that the appellant was a victim and not a participant in this scheme. In my view, it is implausible that a company with annual sales between $10,000,000 and $15,000,000 and that never had any problems with the tax authorities voluntarily participated in a scam of $10,000 spread over a three-year period.
+[13] Counsel for the appellant claims that if I accept that the work was really done, the appellant should be eligible for the ITC in question.
+[14] Unfortunately, in light of the recent case law of this Court and the Federal Court of Appeal, I cannot accept this argument.
+[15] In the recent decision Comtronic Computer Inc.,[1] where the facts were very similar to those in this case, Justice Boyle of this Court decided that it was mandatory that the GST registration number that appears in the invoices be the one assigned to the supplier. At paragraphs 24 et seq., he stated:
+[24] Subsection 169(4) is clear that an ITC cannot be claimed unless the claimant has obtained prescribed information. Section 3 of the Regulations is clear that the prescribed information must include the name of the supplier or the name under which the supplier does business, and the registration number assigned to the supplier.
+[25] The Federal Court of Appeal in Systematix Technology Consultants Inc. v. Canada, 2007 FCA 226 (CanLII), 2007 FCA 226, [2007] G.S.T.C. 74, had occasion to consider this very issue in circumstances where an ITC claim had been made in similarly unfortunate circumstances where, for various reasons, the suppliers did not have valid GST registration numbers. The Court of Appeal wrote:
+4 We are of the view that the legislation is mandatory in that it requires persons who have paid GST to suppliers to have valid GST registration numbers from those suppliers when claiming input tax credits.
+[Emphasis added.]
+[26] Given the wording of paragraph 169(4)(a), as well as the Reasons for Judgment of Archambault J. in the Tax Court ( 2006 TCC 277 (CanLII), 2006 TCC 277, [2006] G.S.T.C. 120) with which the Federal Court of Appeal agreed, I take the court’s reference to "valid GST registration numbers from those suppliers" to mean GST registration numbers validly assigned to those suppliers.
+[16] I agree with Justice Boyle that the GST number that appears on an invoice must be validly assigned to this supplier for the appellant to be entitled to an ITC. Therefore, the appellant is not entitled to the requested ITC. Justice Boyle recognized that this requirement could lead to injustices, but that the issue of the injustice had to be examined by Parliament and not the Court.
+[29] … I should note, however, that (as noted by Archambault J. of this Court in deciding the Systematix case at first instance) this strict approach can result in unfairness to a purchaser who pays the GST in good faith. It leaves Canadian businesses bearing the risk of fraud, identity theft, and wrongdoing and effectively requires them to put into place risk management practices in dealing with new and continuing suppliers to identify supplier information that may require further investigation. A result such as this may prove harsh and unfair but it is open to Parliament to legislate such a regime and I am bound to apply that legislation as it has already been interpreted by the Federal Court of Appeal.
+[17] The second issue is whether the Minister was correct in imposing a penalty under section 285 of the Act. This article applies when a person "knowingly, or under circumstances amounting to gross negligence, makes or participates in, assents to or acquiesces in the making of a false statement or omission in a return, application, form, certificate, statement, invoice or answer".
+[18] The burden of proof with respect to the penalty is on the respondent. In my view, she did not discharge her burden. First, the evidence persuades me, as I have already stated, that the appellant was a victim of a scheme perpetrated by Mr. Séguin and other unknown individuals. The evidence also shows that the appellant’s controller verified all the registration numbers provided by Mr. Séguin, and made sure that they were all valid. In the circumstances, since the people who recommended Mr. Séguin were people that Mr. Cournoyer knew and who had hired Mr. Séguin themselves without a problem, I do not believe that the appellant had to do more to establish a link between Mr. Séguin and the companies he was using to invoice his services. In these circumstances, I cannot find that the appellant’s conduct shows indifference with respect of the Act that would result in gross negligence penalties (see Venne v The Queen[2]). It is true that the fact that Mr. Séguin used five companies in a row could have raised suspicions and Mr. Cournoyer admitted that he began to ask Mr. Séguin more questions about it. But he also said that the reasons given by Mr. Séguin were still plausible. This testimony was not contradicted.
+[19] For all these reasons, the appeal is allowed in part and the assessments in issue are referred back to the Minister to delete the penalties.
+Signed at Ottawa, Canada, this 19th day of February 2013.
+"B.Paris"
+Paris J.
+Translation certified true
+On this 28th day of March 2013
+Catherine Jones, Translator
+CITATION: 2013 TCC 58
+COURT FILE NO: 2011-1950(GST)I
+STYLE OF CAUSE: 9088-2945 QUÉBEC INC. AND HER MAJESTY THE QUEEN
+PLACE OF THE HEARING: Montréal, Quebec
+DATE OF THE HEARING: January 11, 2013
+REASONS OF JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: February 19, 2013
+APPEARANCES:
+Counsel for the appellant:
+Edouard Robert
+Counsel for the respondent:
+Pier-Olivier Julien
+COUNSEL OF RECORD:
+For the appellant:
+Name: Edouard Robert
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2010 TCC 55.
+[2] 84 D.T.C. 6247, para. 37.

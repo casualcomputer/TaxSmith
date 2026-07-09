@@ -1,0 +1,275 @@
+---
+title: "Bekhor v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27770/index.do"
+last_modified: "2005-07-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 443"
+citation2: ""
+neutral_citation: "2005 TCC 443"
+decision_date: "2005-07-15"
+language: "en"
+item_id: "27770"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 289
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:34:14.593000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "79c53c0ebc8c64aea261532857c83e3fe4b9ff15106537e230016e5d5c388cfe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bekhor v. M.N.R.
+
+- Citation: 2005 TCC 443
+- Decision date: 2005-07-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 289, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bekhor v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-07-15
+Neutral citation
+2005 TCC 443
+File numbers
+2004-3299(EI)
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-3299(EI)
+BETWEEN:
+STEVEN BEKHOR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+THE UNIVERSITY OF ALBERTA
+Intervener.
+____________________________________________________________________
+Appeal heard on common evidence with his appeal
+of (2004-3301(CPP)) on March 7, 2005, at Montreal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Aimée Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Respondent is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Ontario, this 15th day of July 2005.
+« Louise Lamarre Proulx »
+Lamarre Proulx, J.
+Dockets: 2004-3301(CPP)
+BETWEEN:
+STEVEN BEKHOR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+THE UNIVERSITY OF ALBERTA
+Intervener.
+____________________________________________________________________
+Appeal heard on common evidence with his appeal
+of 2004-3299(EI) on March 7, 2005, at Montreal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Aimée Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Respondent is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Ontario, this 15th day of July 2005.
+« Louise Lamarre Proulx »
+Lamarre Proulx, J.
+Citation: 2005TCC443
+Date: 20050715
+Dockets: 2004-3299(EI)
+2004-3301(CPP)
+BETWEEN:
+STEVEN BEKHOR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+THE UNIVERSITY OF ALBERTA
+Intervener.
+REASONS FOR JUDGMENT
+Lamarre Proulx, J.
+[1] This is an appeal from a decision of the Minister of National Revenue (the "Minister") that the Appellant did not hold pensionable or insurable employment for the period of October 22, 2002, to July 31, 2003. The decision dated July 28, 2004, was issued pursuant to paragraph 6(1)(a) of the Canadian Pension Plan (the "CPP") and paragraph 5(1)(a) of the Employment Insurance Act (the "Act"). The reason given to the Appellant was: "You were not engaged under a contract of service and therefore were not an employee of the University of Alberta."
+[2] A ruling was first issued by the Canada Customs and Revenue Agency ("CCRA") on January 20, 2004, stating that Steven Bekhor held insurable employment. On an appeal by the University of Alberta, the decision now under appeal was rendered.
+[3] Paragraph 5 of the Reply to the Notice of Appeal reads as follows:
+In reaching his determination, the Respondent, the Minister of National Revenue, relied on the following assumptions of fact:
+a) From October 22, 2002 to July 31, 2003, the Appellant was a post-doctoral fellow at the University of Alberta;
+b) He was the recipient of a fellowship which was paid through the Staff and Student Payments division of the University;
+c) There was no contract of service between the Appellant and the University.
+[4] The Notice of Intervention sets out the following:
+1. During the relevant period, the Appellant was a post-doctoral fellow at the University of Alberta (the "U of A").
+2. The Appellant was the recipient of a fellowship, which was administered by the Staff and Student Payments division of the U of A.
+3. Post-doctoral fellows (“PDFs") are individuals who have completed doctoral, MD, DDS or the equivalent degrees and who are seeking to enhance their research skills and strengthen their publication records.
+4. As between “students” and “employees”, the U of A, and other post-secondary educational institutions in Canada, regard PDFs to be more akin to students than to employees, as the primary objective of a post-doctoral fellowship program is to further train the PDF.
+5. Post-doctoral fellowship programs are for a limited period of time, from a minimum of three months to a maximum of five years.
+6. Although for reasons of efficiency the Staff and Student Payments division of the U of A assumes responsibility for the administration of PDF funding at the U of A, the funding of PDF programming derives from numerous sources, such as the Natural Sciences and Engineering Research Council of Canada, the Social Sciences and Humanities Research Council of Canada, the Alberta Heritage Foundation for Medical Research, the Canadian Institute of Health Research and Killam Post-Doctoral Fellowships Fund.
+7. The Respondent has ruled that the activities of the Appellant in completing his PDF programming did not constitute “employment” for purposes of the Employment Insurance Act and the Canada Pension Plan Act and, accordingly, the U of A was not required to withhold and remit amounts to the Respondent in accordance with those Acts.
+[5] The notice of appeal states that a contract of service existed between the employer, Robert Rankin, and the employee, Steven Bekhor, for the following reasons:
+1. as stated in the original ruling dated January 20, 2004 (CE 0335 6135 3184 and CE 0402 0144 0516) which defined me as an employee under contract of service:
+a) The employer exercised control over me, my work and my work hours.
+b) I was obliged to provide reports of my work to attend meetings.
+c) I had to take direction about my work from my employer regarding how to accomplish my work and which methods to use.
+d) My employer established my deadlines and priorities in connection with a contract awarded to him by the Canadian Space Agency.
+e) My employer provided me with equipment and materials necessary to complete my work.
+f) My employer provided me with worker’s compensation and health benefits.
+g) The terms of my employment did not allow me to profit or expose me to risk of loss.
+2. A signed agreement stating the terms and conditions of my employment, the duration of my employment and my salary and benefit entitlement was furnished by my employer on University Stationery by fax machine prior to the commencement of my employment at the University of Alberta. I was, in turn, required to provide a signed statement accepting these terms and indicating my intention to begin working at the University on a particular date. These two documents constitute a written and explicit contract of employment. By paragraph 6(1)(a) of the Canada Pension Plan and paragraph 5(1)(a) of the Employment Insurance Act, I am entitled to EI and CPP benefits.
+3. The announcement for the postdoctoral position in question clearly states that the employer, Robert Rankin, is hiring individuals for a term of employment. Those employed were expected to work for Robert Rankin in accordance with the specific tasks mentioned in a contract awarded to him by the Canadian Space Agency.
+4. Colleagues working in the same capacity, with the same job title and for the same salary at the University of Alberta for different employers, but under a similar type of contract from the Canadian Space Agency currently receive EI and CPP benefits and are, therefore, insurable. By paragraph 7(1)(c) of the Canada Pension Plan and paragraph 5(4)(c) of the Employment Insurance Act, employees of my employer are also entitled to the same benefits. Otherwise, the legislation cannot not [sic] administered in an equitable manner.
+5. Precedents for the administration of EI and CPP benefits already exist at Simon Fraser University, Queen’s University and at the University of Ottawa. The criteria for eligibility is expressed in their charters and delineates between postdoctoral fellows (PDFs) working in two capacities. Those (External PDFs) who receive stipends directly from an external agency (NSERC, for example) or from the university in the form of global block grants do not qualify for EI and CPP benefits. In this case, a postdoctoral fellow does not receive direction from an employer and is responsible for his own progress and schedule. Those (Grant PDFs) who receive their compensation from research grants or contracts awarded to university faculty members (Robert Rankin, in this case) are considered employees of the grant holder with funds administered by the university. In this case, the employee receives direct supervision and direction from the faculty member regarding the work done at the university. Postdoctoral fellows in this category are entitled to CPP and EI benefits, which should be administered in a manner that is congruent at all institutions of higher learning.
+[6] The Appellant testified on his own behalf. Mr. Jeffrey Goldberg and Mr. Robert Rankin testified for the intervening party.
+[7] The announcement of a “Postdoctoral/Visiting Scientist Position in Space Physics” was produced as Exhibit A-3. It stated that the Space Physics Group in the Department of Physics at the University of Alberta was inviting applications for postdoctoral and/or visiting scientist positions in magnetospheric physics.
+[8] The letter of offer dated September 13, 2002, was produced as Exhibit A‑2. The letter, signed by professors Rankin and Marchand, reads as follows:
+I am pleased to offer you a post-doctoral fellowship in our department for a minimum period of two years, subject to a satisfactory review after one year, and the availability of funds. You will work under the guidance of Dr. R. Rankin, and Dr. R. Marchand of the department of physics. With your background and interest in space plasmas, I believe you will find this opportunity for further training to be very beneficial. Your work will include the development of theories and models of magnetospheric processes, and the use of models in the interpretation of data collected under the Canadian Geospace Monitoring program. Please note that this position, should you accept it, involves team work, in which an open exchange with other members of the group will be required.
+You will receive a stipend of $42,000.00 (Can.) per annum plus applicable benefits normally given to postdoctoral fellows. If you plan to accept this offer please advise us in writing by September 23, 2002.
+It is my understanding that you are a Canadian Citizen, and therefore exempt from the conditions that relate to foreign nationals.
+[9] The contract between the Canadian Space Agency and the University of Alberta was produced as Exhibit A-4. This contract was signed on behalf of the University of Alberta by the principal investigator, Robert Rankin, by the department chairman and by the faculty dean. It is dated November 26, 2001.
+[10] The contract states, among other things, that the contractor shall prepare and submit, quarterly, a progress report. This report must contain a description of the progress accomplished on each task, with appropriate sketches, diagrams, photographs, etc. Attached to the contract, there is an annex describing the work to be done. That work was divided into 13 tasks. Another annex specifies the milestones and the delivery schedule from August 1, 2001 to July 31, 2003.
+[11] The appellant produced as Exhibit A-8 a document regarding postdoctoral fellows (PDFs) printed from the Queen’s University Website. This document states that PDFs are considered to be employees of Queen’s University unless they receive their funding from an external source. The policy document concerning postdoctoral fellows at Simon Fraser University was produced as Exhibit A-9. Regarding the employment status of PDFs, this university follows the same policy as Queen’s University. The same policy also appears to be followed at the University of Ottawa (Exhibit A-10).
+[12] The policy document governing postdoctoral fellows at the University of Alberta was produced as Exhibit I-1. The term “postdoctoral fellows” is defined therein as follows:
+"Postdoctoral Fellows" (PDFs) refers to those individuals who are in training normally within five years from the completion of a doctoral degree (including thesis defense) and 10 years from completion of a MD, DDS or equivalent. Since PDFs are in training, they are considered by the University to be trainees rather than employees.
+[13] "Funding Source" is defined as follows:
+"Funding Source" refers to the source of funds for the stipend and benefits of the PDF appointed under these Policies. The funds are held by a "Funding Agency" which is either the University or another institution or another agency (such as NSERC, SSHRC, AHFMR, CIHR or Killam Fellowships) and may be in the form of grants, fellowships, scholarships or contracts.
+[14] Under the heading “Introduction”, the document contains the following:
+For PDFs in the sciences, the customary pattern is to seek to broaden research expertise under the guidance of an established researcher. For those in the humanities, the customary pattern is to embark on a new research project with guidance from and in consultation with an experienced faculty member. In all disciplines, an important objective is to strengthen the publication record and cv, thereby building a reputation and enhancing the chances of securing a more permanent faculty or research position.
+All PDFs working at the University, both on campus and off campus, and regardless of the Funding Source, are registered and administered through the PDF Office.
+[15] Regarding termination, it is stated that a PDF appointment may be terminated at any time for just cause on the recommendation of the faculty member responsible for the PDF. The PDF would receive one month’s notice for each year of service.
+[16] The requisition form to the accounting division for payment of the Appellant’s stipend was produced as Exhibit I‑2. It is entitled Academic Appointment/Pay Action Form. Dated October 22, 2002, it indicates that this was a new appointment to a position as a postdoctoral fellow. The amount to be paid was of $42,000 per annum, the Trust Holder’s name being Dr. R. Rankin. The document was produced as Exhibit I‑2.
+[17] Dr. Jeffrey Goldberg is a professor in the Department of Biological Sciences at the University of Alberta. He has also been the associate dean of the Faculty of Graduate Studies and Research since July 1st, 2004.
+[18] I will quote from pages 5 and 6 of the transcript his understanding of a postdoctoral fellowship:
+Q. Could you explain to the Court what your concept of the postdoctoral fellowship is?
+A. A Postdoctoral Fellow is normally a person who has achieved their Ph.D. degree at any given university and they are continuing on with their research endeavour, this position normally takes place within five years of the completion of the Ph.D. and this research endeavour is intended to achieve more training in preparation for a future either more permanent position or more senior research position.
+Q. So, the primary objective of a typical postdoctoral fellowship would be what?
+A. To complete research as a Junior Colleague, of normally a professor who is supervising this Postdoc to complete research normally together with a supervisor to improve or broaden the Postdoc research portfolio meaning their publication record. And generally, to gain the training in and around the research area of the supervisor, to gain the expertise in that area.
+[19] He describes the various sources of funds for postdoctoral fellowships at pages 9 and 10:
+Q. So, would it be correct to say, Doctor Goldberg, that there are two general sources of funds for persons who are Postdoctoral Fellows. One would be funds that are, according to this definition, held by the University or at least flow through the University and then the second category would be funds that derive from another institution such as NSERC, SSHRC, or the others listed there. Would that be correct that there are two general funding sources for Postdoctoral Fellows?
+A. Yes, that’s correct but in both cases, I really should clarify, something like NSERC may be a source of funds for one of these two modes, as you say, in one case, the money would flow directly from an agency to the Postdoc. In the other case, it would normally flow through the University because the funds are initially awarded to a principal investigator, meaning a professor, and then those funds are being used to fund the Postdoc. So, the Agencies may be the same so that clarification, I think, is important, but the two, the two modes you referred to is how it works.
+Q. So, the funding, for example, might come from NSERC but in one instance, it may flow directly to the fellow and in another instance, it would be paid to, again, a professor who would in turn flow it through to the Postdoctoral Fellow, would that be a correct summary?
+A. That is correct.
+Q. Does the University distinguish as between Postdoctoral Fellows between those that get their funding directly and those that receive their funding indirectly through a grant that’s awarded to a University professor?
+A. The University of Alberta does not make that distinction.
+[20] Respecting the policy of some other universities as referred to in paragraph 5 of the notice of appeal, Mr. Goldberg stated that it was true that the treatment of postdoctoral fellows as either trainees or employees is not consistent across the country (pages 26 to 29 of the transcript):
+Q. Are the treatment of Postdoctoral Fellows as being either trainees or employees, is that treatment consistent across the country in your knowledge?
+A. It’s not consistent across the country. What’s consistent across the country is what a postdoc does in their position, in their responsibilities and in their endeavour. But how the universities choose to deal with this issue is inconsistent across the country.
+Q. So, by inconsistent, you presumably mean that some universities do treat Postdoctoral Fellows as employees and others do not?
+A. Some universities choose to treat Postdoctoral Fellows who are funded through their supervisor’s research grants as employees. No university treats postdocs who are funded directly by their own funding from a funding organization as employees because those Federal agencies don’t allow you to treat them as employees, they want them to be considered trainees. So, only further the category of stipend that come, that flows through the supervisor’s research grant. Some universities choose to call that an employee situation.
+Q. You know, can you advise the Court what certain of those universities that do treat indirectly funded PDFs as employees, can you advise who some those universities are?
+A. The examples that came to mind that are Simon-Fraser and Queen’s, I think that’s accurate because I’ve looked at some of their documentation earlier in the weekend.
+Q. Are there other universities that like the University of Alberta do not treat any PDFs as employees?
+A. Yes, it’s my understanding that there are several.
+Q. Do you know the names of any?
+A. As far as I know, I think Université de Montréal right now is one of them. I think the University of Calgary is one of them but I’m not sure that they’ve resolved the issue. In fact, I wish I had been advised because we hold in our postdoc Office a table which really distinguishes several that do this model and several that do the other model. So, I don’t want to be inaccurate so, I don’t want to put forward any names but, or more names, but there are more, there are several in those models.
+Q. Doctor Goldberg, to your knowledge, has any kind of Court or similar authority ordered the University of Alberta to treat PDFs as employees?
+A. Can you repeat the question, please?
+Q. To your knowledge, has any kind of Court or similar authority ordered the University of Alberta to treat PDFs, Postdoctoral Fellows, as employees?
+A. No, not to my knowledge.
+Q. Doctor Goldberg, which would be the more common type of PDF funding, funding directly to the PDF from the external agency or funding through a research grant that had been awarded to a University Professor?
+A. My educated guess would be, it would be a fifty-fifty (50-50) type split. I don’t know exactly the answer to that but of the greater than three hundred (300) and close to four hundred (400) postdocs on campus, I think there will be a large number in either those categories.
+[21] During the testimony of Dr. Goldberg, the Court asked him whether researchers working in the same capacity as the Appellant at the University of Alberta, but on other projects, were subject to the EI and CPP schemes, as asserted by the Appellant in paragraph 4 of his notice of appeal. The Appellant intervened on this point to state that he retracted the statement as the colleagues in question were at that time acting as professors. It should be noted that in an e-mail dated September 16, 2002, Dr. Rankin had mentioned to the Appellant that, in addition to receiving their salary, PDF’s could compete for course teaching, for which they would earn an additional stipend of around $5,500 per course.
+[22] Dr. Robert Rankin, a professor in the Department of Physics in the Faculty of Sciences at the University of Alberta testified as to the purpose for which the Appellant was recruited and the capacity in which he worked at pages 70, 71, 74-75, 76 and 111-112 of the transcript:
+Q. Does your position at the University of Alberta involve research?
+A. It does.
+Q. In what capacity did Doctor Bekhor worked [sic] with you at the University of Alberta?
+A. He was a Postdoctoral Fellow recruited by myself and Doctor Richard Marchand.
+. . .
+Q. What project did you intend Doctor Bekhor to work with you on during his postdoctoral fellowship?
+A. He would work on a scientific project under the general terms of a contract awarded to myself and Doctor Richard Marchand by the Canadian Space Agency.
+. . .
+A. Well, the objective was to provide a general description of progress against the overall objectives of the contract which were to investigate space weather processes affecting the near outer space environment surrounding the earth. The purpose would just be, I believe, to ensure that we were on track with meeting the overall objective of this contract.
+Q. Were you concerned that if these reports were not regarded by the funding agency as sufficient that future funding might be at risk?
+A. Well, there is always that concern. In this particular case, I felt it would be, I was worried that that would happen, so I was intent on keeping things progressing according to the contract and (inaudible).
+Q. Did you communicate with your colleagues on the research team the necessity of ensuring these reports were made appropriately in a timely basis?
+A. At times, yes, at times I reminded the scientific personnel that we had to always keep in mind that we were meeting the overall (inaudible) objectives of a contract through which funding was provided in payment of wages.
+Q. Do postdoctoral fellows like Doctor Bekhor have any input into the specific research that they will conduct when you’re the Supervisor of that research?
+A. Generally, in dealing with a Postdoctoral Fellow, there would be a discussion about various projects that the Postdoctoral Fellow would find interesting and through mutual agreement, the project would be chosen and generally it would be suggested by the Supervisor, myself, not in all cases but in the context of a large grant likely the project would be suggested.
+Q. But the Postdoctoral Fellow would still have some input?
+A. The Postdoctoral Fellow would be providing scientific input in trying to achieve the objectives of the project set. They would be participants in the research project, they would offer their intellectual input to the project, they would be integral to the project.
+. . .
+Q. . . .
+So, I’m going to suggest to you that certain of those of e-mails are from you and that they are e-mails addressed to the other members of your Canada Space Agency project research team and that in several of those e-mails, you refer to the members of the, the other members of the team as being your colleagues. Is that the way that you viewed the other members of your Canada Space Agency project research team as being your colleagues?
+A. Indeed, that was an essential aspect of our interaction. People are working with me, not for me and these are extremely important people in a scientific context.
+. . .
+Q. And just one other question, Doctor Rankin. Back in the summer or fall of 2002 when you were considering Doctor Bekhor for a position as a Postdoctoral Fellow, did you have for Doctor Bekhor a special task or special situation in mind that was substantially different than the other Postdoctoral Fellows that were pare of this Canada Space Agency research project?
+A. No, he was recruited as a Postdoctoral Fellow and he would be regarded as a colleague working with me and if benefiting from the expertise I have in pursuit of projects that he would (inaudible).
+Argument
+[23] The Appellant submitted that Drs. Rankin and Marchand exercised control over him during the period in question. The topic of research was determined by them as was the manner in which the tasks were to be completed. Reports had to be provided as required by them and meetings had to be attended. They established the deadlines and priorities. The Appellant’s progress was rigorously monitored and there was a right to terminate the Appellant’s employment for just cause. The University paid for the computer hardware and software. It provided him with benefits such as worker’s compensation and health benefits.
+[24] Counsel for the Respondent and counsel for the Intervenor submitted that the relationship between the Appellant and the University of Alberta was not one governed by a contract of service but was rather one characterized by continuing studies and training and financial assitance.
+[25] The position offered the Appellant was a postdoctoral fellowship as that term was understood by the University of Alberta. The source of funding was a grant from the Canadian Space Agency for a research project. The grant was subject to the research team’s reaching various milestones. The work provided was intended to assist recent Ph.D. graduates who wanted further training. It was not employment with the University of Alberta.
+Analysis and conclusion
+[26] The question at issue is not whether the agreement between the parties is a contract of employment or a contract for services (employee versus independent contractor status), but whether it is a contract of employment or an agreement of financial assistance regarding continuing studies (employee versus student or postgraduate student status).
+[27] I will deal first with the policy of other universities regarding postdoctoral fellowships. It would appear from certain exhibits produced by the Appellant - and this was confirmed by Dr. Goldberg in his testimony reproduced at paragraph 19 of these reasons - that some universities may consider a postgraduate trainee in a work situation similar to the Appellant’s as being in an employment situation. I do not want by my conclusion in the case at bar to imply that these universities are wrong in law. I consider it to be a legal situation in which the intent of the parties when entering the contract is determinative.
+[28] In this regard, I wish to refer to the decision of the Federal Court of Appeal in Ambulance St‑Jean v. Canada (M.N.R.), [2004] F.C.J. No. 1680 (Q.L.) at paragraph 3:
+3 Although the stated intent of the parties or their mutual understanding are not necessarily determinative of the nature of their relationship, they are, however, entitled to considerable weight in the absence of evidence to the contrary, such as a behaviour which betrays or contradicts the said intent or understanding. Where the parties "have freely elected to come together in separate business arrangements rather than one side arbitrarily and artificially imposing that upon the other, so that in fact it is a sham, parties should be left to their choice and that choice should be respected by the authorities". We agree with this statement of Porter D.T. C.J. in Krakiwsky v. Canada (Minister of National Revenue - M.N.R.), 2003 T.C.J. No. 364.
+[29] I must examine not only the terms and conditions of the work activity but also the stated intent of the parties as evidenced by their writings and their conduct.
+[30] Dr. Goldberg, the associate dean of graduate studies, testified that the University of Alberta does not consider the positions of postdoctoral fellows as being employment but rather sees them as training and consider the stipends as being not salaries but financial assistance to older students. This statement is corroborated by the announcement advertising the position, the policy document printed from the University’s Web site, the letter of offer and the exchange of correspondence between Dr. Rankin, the Appellant and the team members.
+[31] In this regard, I will cite an e-mail dated March 13, 2003, from Dr. Rankin to the team members. (This document is part of Exhibit I‑5). In my view, this e-mail describes well the context of a university research program kept alive by the determination and work of the professors for the benefit of young postdoctoral scientists. The document also shows the importance of keeping the trust of outside sources interested in promoting research in Canadian universities in their particular fields of endeavour.
+CSA [Canadian Space Agency] has just asked me to prepare a progress report on your activities for the period from January 1st, 2003 to March 31st, 2003. This must be submitted around April 1st, 2003. Please keep this date firmly in mind, as I will ask you to send me written material by no later than March 31st.
+It is worth summarizing the situation at present. The contract that pays you terminates on July 31st, 2003. At that time, I will have submitted a new proposal for continued funding. You may have heard that CSA did not receive from the federal budget any new (additional) funding beyond current levels. This means that we must fully justify any funding beyond July 31st, 2003. For me to do this, I should ideally have 2 to 3 papers to report from each of you by way of publications or articles submitted (Steven excepted, as he has only been here a few months). These must be in direct relation to the contract milestones, and not based on your prior existence at previous institutions. The reason this is so important, is that the loose milestones set in the contract can only be justified through evidence of publications. For comparison, the average faculty member, with a full teaching load (3 courses) and administration duties, is expected to publish 2-3 papers annually.
+There is some latitude here, as for most of you, you are working in a new area in which it takes time (of order 1 year) to gain full experience. I will make that point in the new proposal that I will prepare in the next 2 months or so. However, in the future, you should really aim for a publication rate at the level set for faculty members. This will be important for your future careers as well.
+In the new proposal, I will ask for increased salaries, but this is always contingent upon our success in delivering on broad contract milestones.
+[32] In this e-mail the term “salaries” is used. It may also have been used in a few other letters just as the term “employer” was used once or twice as well. This cannot, however, be determinative of the nature of the relationship between the researchers and their team leader. I find much more indicative the actual content of the e-mail. It talks about loose milestones or broad contract milestones in relation to which the research has to be conducted. The work involves tasks that are far from being specific and required to be done on a daily basis. A progress report is requested after three months of individual and team research. There is much latitude given the researchers. The e-mail adds that the papers to be submitted must show the results of research done in relation to the contract milestones and not of previous research. This shows that the intent of the University’s program is to stimulate research and develop the capabilities of the researchers, thereby fulfilling the University’s teaching and training mandate.
+[33] I find that the above-quoted e-mail supports the position of the Intervener that postdoctoral fellows at the University of Alberta have the status of trainees and not employees. I would draw the same conclusion from the whole of the evidence adduced, including the evidence given by the Appellant.
+[34] The Appellant stated that Dr. Marchand and Dr. Rankin exercised control over him as employers. Dr. Marchand did not testify nor did the Appellant’s former colleagues at the University. Dr. Rankin testified at the request of the Intervener. From my reading of the exchange of correspondence between the Appellant and Dr. Rankin and the other documents mentioned in these reasons, I find that their relationship was one not of an employer and employee but of director of a research program and researcher, that is, professor and student.
+[35] On a research team, the team leader is in charge. The trainees are subordinates of the team leader. They are subordinates because they need and want guidance. That is why the trainees in this particular instance had accepted their positions. It was stated in the letter of offer (Exhibit A-2) that "[y]ou will work under the guidance of Dr. R. Rankin and Dr. R. Marchand of the department of physics."
+[36] The postdoctoral fellows were expected to work on the research project. They received their stipends for that work. However by thus working and receiving guidance, they also learned. The Appellant testified that he saw Dr. Marchand on a regular basis, nearly daily, and that he received guidance from him.
+[37] The same letter (Exhibit A-2) stated: "You will receive a stipend of $42,000.00 (Can.) per annum plus applicable benefits normally given to postdoctoral fellows." The Appellant had inquired as to the nature of those benefits and was provided with the information requested. He did not at that time ask for the employment insurance benefit. He did not even inquire as to whether he would be covered by the employment insurance plan. The information given on the University’s Web site is clear. There is no evidence that the Appellant was looking for insurable employment or that he was misled as to the nature of the agreement.
+[38] The Appellant also raised the point of the termination clause mentioned in paragraph 15 of these reasons. It cannot but be found normal that in a matter of an agreement respecting financial assistance there be a possibility of ending the agreement for just cause.
+[39] For all these reasons, I conclude that the relationship of the Appellant with the University of Alberta was one of advanced student and professor, not one of employee and employer. The stipend received was in the nature of financial assistance provided to a learning postdoctoral fellow, not remuneration for services rendered by an employee to an employer.
+[40] The appeal must be dismissed.
+Signed at Ottawa, Ontario, this 15th day of July 2005.
+« Louise Lamarre Proulx »
+Lamarre Proulx, J.
+CITATION: 2005TCC443
+COURT FILE NO.: 2004-3299(EI)
+STYLE OF CAUSE: Steven Bekhor and the M.N.R. and the University of Alberta
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: March 7, 2005
+REASONS FOR JUDGEMENT BY: The Hon. Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: July 15, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Aimée Cantin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

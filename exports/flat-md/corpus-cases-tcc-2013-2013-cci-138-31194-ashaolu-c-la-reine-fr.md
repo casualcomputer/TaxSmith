@@ -1,0 +1,140 @@
+---
+title: "Ashaolu c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31194/index.do"
+last_modified: "2013-06-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 138"
+citation2: ""
+neutral_citation: "2013 CCI 138"
+decision_date: "2013-06-03"
+language: "fr"
+item_id: "31194"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5046
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:16:53.065000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b8d1ed16851e238c45eea0350aaec0f33b77bd91a3f80d2e414aa9c53a136783"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ashaolu c. La Reine
+
+- Citation: 2013 CCI 138
+- Decision date: 2013-06-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5046, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ashaolu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-06-03
+Référence neutre
+2013 CCI 138
+Numéro de dossier
+2012-2556(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2556(IT)I
+ENTRE :
+CHRISTIANAH ASHAOLU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 24 avril 2013, à Toronto (Ontario)
+Devant : L’honorable juge François Angers
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Jill Chisholm
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2006 est accueilli en partie, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour de juin 2013.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+Ce 10e jour de juillet 2013.
+C. Laroche, traducteur
+Référence : 2013 CCI 138
+Date : 20130603
+Dossier : 2012-2556(IT)I
+ENTRE :
+CHRISTIANAH ASHAOLU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Dans la nouvelle cotisation qu’il a établie à l’égard de l’année d’imposition 2006 de l’appelante, le ministre du Revenu national (le « ministre ») a refusé une demande de déduction au titre de dons de bienfaisance de 5 950 $. L’appelante s’y est dûment opposée et, dans son avis d’opposition, a fait référence à un organisme de bienfaisance appelé « Centre for Multicultural Training and Documentation » (le « Centre multiculturel ») mais sans indiquer le montant réel qui était en litige. Dans son avis d’appel, elle s’est fondée sur son avis d’opposition, qu’elle y a joint, en tant que motifs de l’appel.
+[2] Dans la réponse de l’intimée, l’hypothèse de fait sur laquelle se fonde le ministre ne fait état que du Centre multiculturel en tant qu’organisme de bienfaisance en cause. Le montant déduit est de 5 950 $, et l’appelante y a souscrit. Le ministre est d’avis que l’appelante n’a fait au Centre multiculturel aucun don en espèces ou en nature et, s’il y a eu don en nature, la juste valeur marchande des biens autres qu’en espèces était minime. L’hypothèse finale est que l’appelante n’a pas fourni au ministre, relativement au don de bienfaisance déduit pour l’année 2006, un reçu contenant les renseignements que prescrit l’article 3501 du Règlement de l’impôt sur le revenu.
+[3] Il est devenu évident lors de l’audition de l’appel que le don de 5 950 $ en faveur du Centre multiculturel était un montant de 3 450 $ pour l’année d’imposition 2006 de l’appelante et que la différence, soit 2 500 $, avait trait à un autre don fait en faveur d’un organisme de bienfaisance différent, appelé « Islington Evangel Centre ». Il y avait aussi deux autres petits dons de 50 $ et de 40 $, respectivement, soit un total de 6 040 $. Seuls les deux petits dons ont été acceptés.
+[4] Au vu des actes de procédure, de l’avis d’opposition, de l’avis de confirmation et de la lettre envoyée par l’Agence du revenu du Canada à l’appelante le 16 février 2012, il en ressort clairement qu’il est question d’un don de 5 950 $ au Centre multiculturel. Les deux parties avaient l’impression que le don fait au Centre multiculturel était de 5 950 $ et que l’appel concernait ce don-là en particulier. La vérificatrice a déclaré qu’elle avait vu les reçus pour la première fois le matin de l’instruction, mais qu’elle avait en main une copie du reçu que le Centre multiculturel avait délivré à l’appelante. Elle avait obtenu cette copie au moment de procéder à la vérification du Centre multiculturel en 2008. Les hypothèses sur lesquelles les parties se fondaient étaient inexactes, et il aurait fallu modifier les actes de procédure afin qu’ils indiquent le montant ou les dons exacts qui avaient été refusés.
+[5] À mon avis, la seule question dont la Cour est saisie est le don de bienfaisance fait au Centre multiculturel ainsi que le montant indiqué sur le reçu, soit 3 450 $. Les actes de procédure n’ont pas été modifiés, et, même si l’appelante aurait dû être plus au fait du montant en question, je ne suis pas d’avis que la validité du don de bienfaisance fait à l’Islington Evangel Centre soit une question plaidée à juste titre dans le cadre du présent appel.
+[6] En 2001, l’appelante a acheté divers meubles et accessoires pour la maison qu’elle avait à Brampton : des tables, des lits, des divans et des stores. En 2004, elle a décidé de vendre sa maison et a fait entreposer une partie de son mobilier. En janvier 2005, elle a emménagé dans sa nouvelle maison; certains éléments de son mobilier n’étaient pas assortis et ses fils ne voulaient pas ravoir leurs lits superposés. Le mobilier est resté entreposé.
+[7] Lors d’une visite au supermarché africain en 2004, elle avait vu une annonce du Centre multiculturel, qui souhaitait recevoir des dons. En 2006, elle était entrée en contact avec le Centre pour offrir de lui vendre son mobilier. Elle avait indiqué au représentant qu’elle avait payé entre 7 000 $ et 8 000 $ pour son mobilier. Le représentant avait vérifié la valeur de ses meubles sur eBay et avait informé l’appelante qu’ils valaient environ 5 900 $. Elle avait accepté ce montant, et, a‑t‑elle déclaré dans son témoignage, une moitié lui avait été payée en espèces et l’autre moitié par chèque. Elle a plus tard dit qu’au lieu d’un chèque, elle avait obtenu le reçu de 3 450 $.
+[8] L’appelante a fourni à la Cour le reçu original que le Centre multiculturel lui avait délivré, soit le même que la vérificatrice avait obtenu au moment de procéder à la vérification du Centre multiculturel en 2008. Il y est indiqué qu’il s’agit d’un reçu officiel aux fins d’impôt; il comporte le numéro d’enregistrement de l’organisme de bienfaisance, mais il contient une erreur. Les lettres sont RP, mais il devrait s’agir de RR. Le nom de l’appelante y est inscrit, mais sans son initiale. Le type de don indique qu’il s’agit de vêtements, de mobilier et de bureaux à tiroirs. La date du don qui y est indiquée est [traduction] « Janv Déc 2006 » et le montant est de 3 450 $. Le reçu porte la date du 23 décembre 2006. L’adresse du Centre multiculturel est différente de celle qui figure dans son enregistrement.
+[9] Le Centre multiculturel a été l’objet d’une vérification en 2008. Celle-ci a révélé que cet organisme n’exerçait aucune des activités pour lesquelles il avait obtenu un certificat d’enregistrement. En 2006, il avait délivré 71 reçus pour dons de bienfaisance, dont 68 pour des vêtements, du mobilier et des bureaux à tiroirs. Il ne tenait pas de livres ou de registres appropriés sur ses activités, et la plupart des marchandises en nature étaient expédiées au Cameroun. La vérificatrice a découvert que tous les reçus délivrés pour des dons en nature étaient lacunaires, en ce sens qu’ils ne contenaient pas les renseignements que prescrit le paragraphe 3501(1) du Règlement de l’impôt sur le revenu, et le reçu de l’appelante en faisait partie.
+[10] Les points en litige en l’espèce consistent à savoir si l’appelante a fait un don de biens en nature au Centre multiculturel en 2006 et, dans l’affirmative, quelle en est la valeur; de plus, si un don a bel et bien été fait, le reçu a-t-il été établi d’une manière conforme au Règlement de l’impôt sur le revenu?
+[11] La version des faits de l’appelante à propos de la vente de son mobilier au Centre multiculturel est difficile à concilier avec le montant indiqué sur le reçu qui lui a été délivré. Elle a déclaré avoir vendu ses meubles au Centre multiculturel pour la somme de 5 900 $, et la moitié de cette somme lui a été payée en espèces et l’autre moitié par chèque. Elle a plus tard dit que cette autre moitié s’est révélée être le reçu que lui avait délivré le Centre multiculturel, lequel représentait plus que la moitié du prix convenu de 5 900 $.
+[12] En plus de cette incohérence, l’appelante, pendant toute la durée de son témoignage, n’est pas parvenue à établir avec certitude le montant qu’elle avait effectivement payé pour le mobilier au moment de son achat. Elle a déclaré que le montant se situait entre 7 000 $ et 8 000 $, mais n’a fourni aucune preuve à l’appui. Il lui a aussi été impossible d’établir la juste valeur marchande de son mobilier au moment de sa vente au Centre multiculturel. La seule preuve à cet égard est ce que lui avait dit le représentant du Centre multiculturel, lequel n’a pas été appelé à témoigner. Il s’agit là d’une singulière coïncidence que la valeur de 5 900 $ que le représentant avait indiquée pour le mobilier soit identique au montant qui, pensait-on au départ, représentait la valeur du don. Quoi qu’il en soit, je conclus que la preuve concernant la valeur du mobilier est peu fiable pour ce qui est d’établir la juste valeur marchande du mobilier dont l’appelante a fait don. Aucune évaluation n’a été faite par une personne indépendante, quant à ce mobilier, en vue d’en déterminer la valeur. Je conviens donc avec l’intimée qu’il ne peut s’agir que d’une valeur minime.
+[13] Le crédit d’impôt qui s’applique au don que fait un contribuable à un organisme de bienfaisance est prévu au paragraphe 118.1(3) de la Loi de l’impôt sur le revenu. Il est fondé sur le « total des dons de bienfaisance » de ce contribuable, et cette expression est définie comme suit au paragraphe 118.1(1) :
+Définitions – Les définitions qui suivent s’appliquent au présent article :
+« total des dons de bienfaisance » En ce qui concerne un particulier pour une année d’imposition, le total des sommes représentant chacune la juste valeur marchande d’un don (sauf un don dont la juste valeur marchande est incluse dans le total des dons à l’État, le total des dons de biens culturels ou le total des dons de biens écosensibles du particulier pour l’année) qu’il a fait au cours de l’année ou d’une des cinq années d’imposition précédentes (mais non au cours d’une année pour laquelle il a demandé une déduction en application du paragraphe 110(2) dans le calcul de son revenu imposable) à un donataire reconnu, dans la mesure où la somme n’a pas été incluse dans le calcul d’une somme déduite en application du présent article dans le calcul de son impôt payable en vertu de la présente partie pour une année d’imposition antérieure.
+[14] Cette définition prévoit donc que le crédit est fondé sur la juste valeur marchande du don. L’absence de preuve, sous la forme d’un rapport d’évaluation, signifie que l’appelante ne peut pas avoir gain de cause. Je souscris à la décision qu’a rendue le juge Webb, qui, à l’époque, siégeait à la Cour, dans l’affaire Le c. Canada, [2011] A.C.I. no 233, où il a déclaré au paragraphe 15 :
+Quoi qu’il en soit, l’appel interjeté par l’appelant était fondé sur sa version des faits selon laquelle il avait fait un « don » de 46 500 $ (3 000 $ en espèces et 43 500 $ sous forme de biens) en 2005 à des étrangers qui s’étaient présentés à son domicile et qui représentaient des organismes de bienfaisance à propos desquels l’appelant ne savait que très peu de choses. Même si je devais retenir le fait que l’appelant avait fait ce don (ce que je n’admets pas), l’absence d’un rapport d’évaluation signifierait que l’appelant ne pourrait pas avoir gain de cause en ce qui concerne le montant demandé à l’égard des biens. Le crédit d’impôt pour un don fait par un particulier à un organisme de bienfaisance est prévu au paragraphe 118.1(3) de la Loi de l’impôt sur le revenu (la « Loi ») et est fonction du total des dons du particulier. Selon la définition de « total des dons » au paragraphe 118.1(1) de la Loi, un des montants limites est le total des dons de bienfaisance du particulier. Le « total des dons de bienfaisance », selon la définition de ce terme au paragraphe 118.1(1) de la Loi aussi, est fonction de la juste valeur marchande du don (ou des dons). En l’absence de tout élément de preuve concernant la juste valeur marchande des articles, l’appelant ne peut de toute façon obtenir gain de cause relativement au montant de 43 500 $ demandé à l’égard des biens.
+[15] La cotisation est renvoyée au ministre pour nouvelle cotisation, en ce sens que le montant refusé en tant que déduction au titre de dons de bienfaisance en rapport avec le Centre multiculturel devrait être de 3 450 $, et non de 5 950 $. L’appel est donc accueilli en partie.
+Signé à Ottawa, Canada, ce 3e jour de juin 2013.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+Ce 10e jour de juillet 2013.
+C. Laroche, traducteur
+RÉFÉRENCE : 2013 CCI 138
+No DE DOSSIER DE LA COUR : 2012-2556(IT)I
+INTITULÉ : Christianah Ashaolu c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 24 avril 2013
+MOTIFS DU JUGEMENT : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 3 juin 2013
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Jill Chisholm
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

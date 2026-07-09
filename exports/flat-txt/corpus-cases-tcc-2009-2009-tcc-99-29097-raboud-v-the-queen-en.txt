@@ -1,0 +1,156 @@
+Title: Raboud v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29097/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-99-29097-raboud-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-02-13
+
+# Raboud v. The Queen
+
+- Citation: 2009 TCC 99
+- Decision date: 2009-02-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6660, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Raboud v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-13
+Neutral citation
+2009 TCC 99
+File numbers
+2008-1814(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1814(IT)I
+BETWEEN:
+LEONARD LUCIEN RABOUD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 30, 2009 at Edmonton, Alberta
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Barbara Raboud
+Counsel for the Respondent:
+Valerie Meier
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment of a provincial penalty for the 2005 taxation year is dismissed.
+The appeal with respect to an assessment of a federal penalty made under the Income Tax Act for the 2005 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the penalty should be based on unreported income of $1,823.
+The parties shall bear their own costs.
+The Registry is directed to refund the Court’s filing fee to the appellant.
+Signed at Toronto, Ontario this 13th day of February 2009.
+“J. Woods”
+Woods J.
+Citation: 2009TCC99
+Date: 20090213
+Docket: 2008-1814(IT)I
+BETWEEN:
+LEONARD LUCIEN RABOUD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This is an appeal by Leonard Raboud in respect of federal and provincial penalties imposed for failure to report income.
+[2] The appellant was assessed federal and provincial penalties for the 2005 taxation year for failure to report income in that year and in the prior two taxation years. The penalty imposed for each jurisdiction was $2,400, which was ten percent of the alleged under-reporting of income for the 2005 taxation year.
+[3] The relevant statutory provision in the Income Tax Act is subsection 163(1), which provides:
+163. (1) Repeated failures [to report income] — Every person who
+(a) fails to report an amount required to be included in computing the person’s
+income in a return filed under section 150 for a taxation year, and
+(b) had failed to report an amount required to be so included in any return filed
+under section 150 for any of the three preceding taxation years
+is liable to a penalty equal to 10% of the amount described in paragraph (a), except where the person is liable to a penalty under subsection (2) in respect of that amount.
+[4] I would first comment that penalties under this provision can be harsh where source deductions have been made with respect to the unreported income. This seems to be the case here because the balance owing, before penalties and interest, is small in comparison to the penalties assessed. According to Ex. R-6, the balance owing was $883 and the total penalties were $4,800.
+[5] Nothing turns on this fact in this appeal, however. It is the prerogative of Parliament to enact such legislation as it sees fit. The penalty in s. 163(1) seems to highlight the importance that Parliament has put on the requirement for taxpayers to report all income.
+Appellant’s position
+[6] The appellant does not deny that he failed to include some employment income in the 2005 income tax return.
+[7] However, the appellant’s notice of appeal mentions that there was no intentional breach of the Act. The relevant T4 slips were received in late May 2006, it was stated, and the slips were forwarded to the CRA at that time. At no time was the appellant informed that this procedure was incorrect.
+Respondent’s position
+[8] In the reply, the respondent took no position on the provincial penalty. The only comment was an acknowledgement that a provincial penalty had been imposed.
+[9] As for the federal penalty, according to the reply the penalty was imposed because income was not reported in income tax returns for the 2003, 2004 and 2005 taxation years.
+[10] The factual assumptions made by the Minister are reproduced below.
+12. In determining the Appellant’s liability for the penalty pursuant to subsection 163(1) of the Act in the 2005 year, the Minister relied on the following facts:
+(a) on filing his income tax return for the 2003 year the Appellant failed to include:
+(i) employment income from TIC Canada ULC of $3,649.36;
+(ii) employment income from Jacobs Industrial Services Ltd. of $15,865.79; and
+(iii) employment income from Clearwater Welding & Fabricating Ltd. of $12,582.33;
+(b) on filing his income tax return for the 2004 year the Appellant failed to include:
+(i) employment income from the Ironworker’s Health and Welfare Trust Fund of $332.32 and
+(ii) income from a RRSP of $4,616.00;
+(c) on filing his income tax return for the 2005 year the Appellant failed to include:
+(i) employment income from the Ironworker’s Health and Welfare Trust fund of $382.00;
+(ii) employment income from Clearwater Welding and Fabricating Ltd. of $7,657.56;
+(iii) employment income from VSL Canada Ltd. of $1,823.17; and
+(iv) employment income from Lockerbie & Hole industrial Inc. of $14,139.92.
+[11] The Minister also took no position in the reply regarding the mailing of T4 slips separately from the income tax returns. It appears that the Minister did not take this into account in assessing the penalty. The only comment about the T4 slips in the reply is to the effect that the Minister had no knowledge of it.
+Analysis
+[12] In respect to the provincial penalty, it is not possible for this issue to be considered on the merits because the Tax Court of Canada has no jurisdiction over this subject matter. The appeal will be dismissed in respect to this issue.
+[13] It is unfortunate that the jurisdiction issue was not discussed in the reply or mentioned at the hearing. However, that deficiency cannot change the outcome where the Court lacks jurisdiction.
+[14] I turn now to the federal penalty.
+[15] The penalty is properly imposed if the appellant failed to report income that should have been reported in the income tax return for (1) the 2005 taxation year, and (2) either or both of the 2003 and 2004 taxation years.
+[16] The appellant was represented at the hearing by his wife, Barbara Raboud, and she was the only witness for the appellant. The appellant was present at the hearing but did not testify.
+[17] In respect of the alleged failure to report income for the 2005 taxation year, Mrs. Raboud testified that she made three separate filings in respect of T4 slips that were received after the tax return had been submitted.
+[18] The first was the forwarding of T4 slips to the CRA as mentioned in the notice of appeal. The second and third filings were not mentioned in the notice of appeal. Mrs. Raboud testified that, in addition to mailing the T4s, she also mailed two separate T1 adjustment forms.
+[19] During argument, counsel for the respondent did not dispute that the T4 slips had been mailed to the CRA but counsel did dispute Mrs. Raboud’s testimony that she had filed T1 adjustment forms.
+[20] In my view, the respondent was right to challenge the evidence with respect to the T1 adjustment forms. The evidence on this point, including Mrs. Raboud’s testimony and documents purporting to be working papers of the T1 adjustment forms, had several inconsistencies and the evidence was not cogent enough to be believable.
+[21] Nevertheless, I have concluded that most of the penalty should not have been imposed.
+[22] By virtue of s. 163(3) of the Act, the respondent has the burden to establish the facts that support the imposition of the penalty. I have concluded that this burden has not been satisfied with respect of most of the alleged unreported income because the income had been reported through the mailing of T4 slips.
+[23] This conclusion is unsettling because I have found that the testimony of the appellant’s only witness was not entirely truthful. However, the burden of proof is on the respondent, and it must be satisfied.
+[24] The appeals officer, Sandra Paul, provided evidence for the respondent.
+[25] About a week before the hearing, Ms. Paul sent an email to the records department of the CRA in Winnipeg asking whether they had a record of T1 adjustment forms being filed. Early the next morning the answer came back in the negative.
+[26] The search regarding the T1 adjustment forms appears to have been perfunctory but that is not the problem. The problem with the respondent’s position is that the evidence establishes that the income was reported by mailing the T4 slips.
+[27] The mailing of the T4s was mentioned in the notice of objection and the notice of appeal, and it was not discussed in the reply except to state that the Minister had no knowledge of it.
+[28] In argument, counsel for the respondent acknowledged that if income had been reported subsequent to the filing of the income tax return, this would be sufficient to negate the penalty. The respondent submits, though, that forwarding T4 slips to the CRA is not sufficient to report income.
+[29] Mrs. Raboud, who prepared the appellant’s income tax returns, testified that her practice was to include in the income tax returns only that employment income for which she had T4 slips. If T4 slips were received subsequent to the filing of the returns, they were then forwarded to the CRA.
+[30] Mrs. Raboud acknowledged, however, that she never did report income from VSL Canada Ltd. because no T4 slip had been received from that employer.
+[31] As mentioned earlier, the respondent did not dispute that the T4 slips were mailed. The position of the respondent is that mailing T4s does not constitute reporting of income.
+[32] I disagree with the respondent’s submission. It is not necessary to use any particular form in reporting income. It is no doubt easier for the CRA if reporting is made on a T1 adjustment form, but it is not required. I find that the mailing of a T4 slip is sufficient in this case.
+[33] It was suggested that the CRA would have a hard time keeping track of T4 slips that are mailed.
+[34] I fail to see why it would have been too onerous for the CRA to keep a record of correspondence received in circumstances where the correspondence clearly indicates the name of the taxpayer and the taxation year involved. I am not prepared to accept that it would be too onerous without having some evidence to support this.
+[35] I would also mention that the appellant was not aware of the respondent’s position on this point prior to the hearing because it was not mentioned in the reply. I do have some concern about procedural fairness in this case.
+[36] The bottom line is that the respondent has not made a prima facie case that the appellant failed to report income in the 2005 taxation year, with the exception of income from VSL Canada Ltd.
+[37] The penalty should be limited, therefore, to the one source of unreported income.
+[38] The question remains whether the appellant also failed to report income in either or both of the two prior taxation years. This is also a precondition of s. 163(1).
+[39] In this respect, I have concluded that there was a failure to report income for the 2004 taxation year, namely RRSP income in the amount of $4,616.
+[40] Mrs. Raboud testified that she had reported the RRSP income in the proper line on the 2004 income tax return but that through some sort of error the income was inadvertently not picked up in the computation of tax.
+[41] In support of this position, Mrs. Raboud introduced into evidence a part of an income tax return which she testified was a photocopy of her working paper.
+[42] I have carefully looked at the working paper and have great difficulty seeing how such an error could have been made as Mrs. Raboud suggests. I am also not convinced by Mrs. Raboud’s vague explanations.
+[43] In the result, the appeal with respect to the provincial penalty will be dismissed, and the appeal with respect to the federal penalty will be allowed. The federal assessment for the 2005 taxation year will be referred back to the Minister of National Revenue for reassessment on the basis that the penalty should be computed in respect to unreported income of only $1,823.
+[44] In light of my findings with respect to the appellant’s evidence, there will be no order as to costs.
+Signed at Toronto, Ontario this 13th day of February 2009.
+“J. Woods”
+Woods J.
+CITATION: 2009TCC99
+COURT FILE NO.: 2008-1814(IT)I
+STYLE OF CAUSE: LEONARD LUCIEN RABOUD AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: January 30, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice J. Woods
+DATE OF JUDGMENT: February 13, 2009
+APPEARANCES:
+Agent for the Appellant:
+Barbara Raboud
+Counsel for the Respondent:
+Valerie Meier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

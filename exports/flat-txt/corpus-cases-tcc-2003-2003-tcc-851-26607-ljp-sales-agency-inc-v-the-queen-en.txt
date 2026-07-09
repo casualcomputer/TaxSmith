@@ -1,0 +1,165 @@
+Title: LJP Sales Agency Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26607/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-851-26607-ljp-sales-agency-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-12-01
+
+# LJP Sales Agency Inc. v. The Queen
+
+- Citation: 2003 TCC 851
+- Decision date: 2003-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3549, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+LJP Sales Agency Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-01
+Neutral citation
+2003 TCC 851
+File numbers
+2001-3021(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-3021(IT)G
+BETWEEN:
+LJP SALES AGENCY INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 6 and 7, 2003, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Thomas McRae
+Counsel for the Respondent:
+Marie-Thérèse Boris
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act (the "Act") for the 1995, 1996 and 1997 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment only on the basis that the LJP Sales Agency Inc. and Jo-Van Distributors Inc. are not deemed to be associated corporations pursuant to subsection 256(2.1) of the Act.
+Signed at Ottawa, Canada, this 1st day of December, 2003.
+"Campbell J. Miller"
+Miller J.
+Citation: 2003TCC851
+Date: 20031201
+Docket: 2001-3021(IT)G
+BETWEEN:
+LJP SALES AGENCY INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] At first blush, this is a case about the application of the technical associated corporation rules. Upon hearing the witnesses and viewing firsthand the pain the Passarellos have been through, and are continuing to go through, it is clear this case is not just about a dispassionate interpretation of technical rules; it is about a couple torn apart, and how they have struggled to stay together. This conflict has led them to arrange their affairs with separate companies, not because, as the Respondent suggests, one of the main purposes was to save tax, but solely to save a family from self-destructing.
+[2] The issue is whether the Appellant, LJP Sales Agency Inc. ("LJP"), a company owned 100 per cent by Leonard Passarello, and Jo-Van Distributors Inc. ("Jo-Van"), a company owned 91 per cent by Mr. Passarello's wife, Wendy, and 9 per cent by Mr. Passarello are associated corporations. The Respondent contends that they are associated in accordance with subsection 256(2.1) of the Income Tax Act (the "Act"), because one of the main reasons for the separate existence of the two companies is to reduce the amount of tax that would otherwise be payable under the Act. I find that, although tax was a consideration of the Appellant's professional advisor, reduction of tax was not one of the main reasons for the separate existence of the corporations, and, therefore, the corporations are not associated in accordance with subsection 256(2.1).
+Facts
+[3] Mr. and Mrs. Passarello were married in the mid-1960s. Mr. Passarello worked in the locksmith business. He decided that he could fare better by going out on his own. He established his own locksmith business from his home, but soon moved into a store. Mrs. Passarello was very much involved in the business and indeed she ran the store while Mr. Passarello serviced the customers. The business was incorporated under the name Supreme Locksmiths Limited ("Supreme").
+[4] In the 1970s, Mrs. Passarello made a short-lived venture into the alarm system business under the auspices of the corporate entity, Academy Security Systems Ltd. ("Academy"). This proved unsuccessful and the company lay dormant for a period of time, although Mrs. Passarello bought out the other shareholders of Academy to the extent of eventually holding 91 per cent of Academy, while Mr. Passarello held the remaining 9 per cent. Throughout the 1970s both Mr. and Mrs. Passarello took steps to qualify as locksmiths. Mr. Passarello became very involved with the American Association of Locksmiths and eventually became the president of that association.
+[5] In 1980, the Passarellos decided to build a plaza and move Supreme's business into the plaza. The plaza was built and owned by Supreme. The Passarellos' next business step was to establish a wholesale division for locks and related inventory. In 1982, Academy was revived for this purpose and began operating under a new name - Jo-Van. Business grew steadily and Academy o/a Jo-Van moved into its own premises on Crockford Avenue, though only briefly before moving into larger premises on Warden Avenue in the late 1980s. The acquisition of the property on Warden Avenue was an expensive proposition for Academy o/a Jo-Van. It borrowed considerable funds both from Supreme and the bank. Mrs. Passarello ran Academy o/a Jo-Van.
+[6] In 1988, Supreme received an offer from Chubb Securities ("Chubb") that it could not refuse, and did not. It sold its business assets to Chubb though retained the real property, the plaza. Supreme had to change its name in accordance with the deal with Chubb. It became VMP Properties Inc. ("VMP"), a company whose only business at this point was the ownership of the plaza.
+[7] In the early 1990s Mr. Passarello helped Mrs. Passarello in the Academy o/a Jo-Van business to some extent, but I find it was Mrs. Passarello who really ran the business. During this time Mr. Passarello looked after the plaza and worked extensively with the American Association of Locksmiths. His contribution to Academy o/a Jo-Van was to assist with sales.
+[8] Academy o/a Jo-Van had a financial problem with the bank. The Warden Avenue property was heavily financed with a 12 per cent mortgage, and by the early 1990s, rates had dropped to 7 or 8 per cent. The property value had also dropped by half. The Passarellos tried to renegotiate with the bank. According to Mr. David Fine, their accountant, had the operating business been housed in a separate company from the property they would most likely have simply handed the property over to the bank. They were eventually able to find new financing and, on the advice of Mr. Fine, on November 1, 1994, Academy o/a Jo-Van rolled its business, other than the property, into a newly formed company, Jo-Van Distributors Inc. Jo-Van was owned on the identical basis as Academy, that is, 91 per cent by Mrs. Passarello and 9 per cent by Mr. Passarello. Jo-Van owed Academy $400,000 as a result of the transaction. Mr. Fine described this transaction as a creditor proofing arrangement, separating the business from the real property.
+[9] To recap, from a business perspective just before May 1994, Mr. Passarello held all of the shares of VMP, which owned the plaza. Its income before taxes in 1994 was $116,000, $68,000 of which was interest and the balance rent. Mrs. Passarello owned 91 per cent of Academy, carrying on as Jo-Van, which later in the year reorganized so that Jo-Van carried on the wholesale business, while Academy held the Warden Avenue property. Mr. Fine testified that he would advise the Passarellos on an annual basis to bonus down the corporate income to below the $200,000 small business limit. The signs in the mid-1990s were clearly that fortunes of Jo-Van were on the rise, especially as the financial concerns with the bank were coming under control. Mr. Passarello was out of the Supreme locksmith business, was winding down his extensive American Association of Locksmiths' involvement and was helping on the sale side of Academy o/a Jo-Van. It was evident to Mr. Passarello that Mrs. Passarello was in a favourable position to see her equity grow considerably more quickly than his. Why this is significant is clear when we review the sorry tale of the family dynamics.
+[10] In 1994, the Passarellos' son and daughter were 28 and 17 years old respectively. The problems the Passarellos had with their children went well beyond normal concerns of parents for their young adult children. It is unnecessary to go into detail other than to note Mr. Passarello was deeply affected by their behaviour. Mr. Passarello stated, in his emotional testimony, that his children embarrassed him. They had no respect for their parents or the family name. He felt they hoodwinked Mrs. Passarello into getting their way. He was humiliated and disappointed to the point that he wished to disinherit them. Mrs. Passarello acknowledged the problems with the children but claimed they were still her children and she simply could not abandon them. This drove a wedge between the Passarellos. They sought counselling. They went to psychologists and psychiatrists. They considered divorce. As Mr. Passarello put it, his world was collapsing.
+[11] Mr. Passarello approached Mr. Fine for help as to how he and Mrs. Passarello could each accomplish what they wanted vis-à-vis the children. Mr. Fine knew the family and could see the torment the Passarellos were going through. He also indicated that he believed Mrs. Passarello would not be prepared to give up any ownership of Academy o/a Jo-Van. He therefore made a recommendation to Mr. Passarello in a memo of May 5, 1994, which reads as follows:[1]
+To: Len Passarello
+From: David M. Fine
+Date: May 5, 1994
+I am sitting down and writing some of the points we discussed last month while you were signing your personal tax returns, your major concerns were as follows:
+1. Jo-van is becoming very profitable and profits will probably continue to increase in accordance with an anticipated increase in volume. You're concerned that Wendy is becoming far wealthier than you. Wendy owns 91% of Jo-Van, which is the largest producer of cash, and 91% of Academy which owns the building at 929 Warden. You own 9% of each and 100% of VMP which owns the plaza on Lawrence. You felt that this doesn't make any sense.
+2. You were also concerned because your children are alienated from you and you do not want them to inherit from your estate while Wendy is prepared to let them inherit from hers.
+You seemed to be very upset because you are certain that they will soon dissipate any wealth they inherit.
+3. Since she has substantial control of Jo-Van, if she wanted to she could sell the company to a third party and receive a substantial amount of cash.
+We discussed several options to attempt to solve this dilemma:
+1. Purchase shares from Wendy - she refused.
+This resulted in an argument with her - you did not wish to pursue this as you were afraid it would affect your marriage and besides this would not be a solution if you had to pay her FMV.
+2. Terminate your relationship with Jo-Van. Again you were concerned it may affect your marriage.
+3. Incorporate your own company to takeover the marketing and sales functions of Jo-Van for a fixed % of Jo-Van sales. This has the effect of syphoning off that % of profits from Jo-Van which will then accrue to your company. This, as the volume of sales in Jo-Van increases, your company will increase in profits and value as well. Also, if Wendy decides to sell her shares in Jo-Van, and if she agrees, you may participate in the increase in the value of the company, by having the sale of your shares in the new company included in the sale of the Jo-Van shares.
+For examples, since Jo-Van is projecting annual volumes in excess of 7 million dollars - the profits in your company assuming a rate of 5% of sales - would be $350,000 - which would be more equitable.
+You will, of course, make sure that your will is done in accordance with your wishes.
+I am available to discuss this memo at your convenience.
+[12] Mr. Passarello executed a will in April 1994 in which he left the remainder of his estate equally to his grandson and charity. It is interesting to note the proviso in the bequest to the grandson:[2]
+... If at that time, or if he shall be thirty five (35) years of age or older at the time of my death, he still has the legal name LEONARD MICHAEL JOHN PASSARELLO and is commonly known by that name and as well has not been convicted of any serious criminal offense, he will be entitled to receive for his own use absolutely the assets remaining in this trust at that time.
+It is clear how deeply Mr. Passarello had been traumatized by the deteriorating relationship with his son.
+[13] Mrs. Passarello's will dated June 1994 left her estate equally to her two children.
+[14] The Passarellos followed Mr. Fine's advice and Mr. Passarello incorporated LJP. On June 1, 1994, LJP entered a Sales Agency Agreement with Academy o/a Jo-Van, which on November 1, was assigned to Jo-Van as part of the reorganization of Academy o/a Jo-Van. The Sales Agency Agreement provided for a commission of 5 per cent of the net revenues received by Academy o/a Jo-Van in respect of orders solicited by LJP.
+[15] When each asked independently of the tax considerations in establishing the separate companies, Mr. Passarello answered that tax was the furthest thing on his mind, and Mrs. Passarello answered that she had no idea there was tax savings. The Passarellos clearly left the tax planning to their accountant.
+[16] The relationship between the Passarellos was strained, and remains so, though Mr. Passarello's initial reluctance to begrudgingly contribute to the sales effort has developed into a more cooperative contribution. He fulfills a role that Academy o/a Jo-Van had previously engaged a third party sales representative to handle. Mr. Passarello remains the figurehead of Jo-Van, for, as Mrs. Passarello stated, Mr. Passarello is the locksmith well known in the community. Also, regretfully, she acknowledged that the locksmith community appeared to prefer dealing with a man. She would seek Mr. Passarello's recommendations on inventory though made it abundantly clear that it was her call as to ultimately what quantity of what stock was bought. My impression of the way the business operated was that it was indeed Mrs. Passarello's business, with Mr. Passarello as the front man, the marketer.
+[17] LJP shared space with Jo-Van, though Mr. Passarello's sales agency was in a separate part of the building. Both LJP personnel and Jo-Van personnel manned the sales counter. There were two separate payrolls, bank accounts, and phones. LJP paid rent to Jo-Van. Most expenses were reimbursed to LJP, other than rent and Mr. Passarello's salary.
+[18] Mr. Fine corroborated the Passarellos' explanation of their troubles and their needs in 1994. He believed that by severing off the major marketing arm of the business, Mr. Passarello could share in the increased goodwill of the business should it be sold in the future. He suggested other options were limited as Mrs. Passarello was reluctant to divest herself of any percentage ownership interest in Jo-Van. Mr. Fine testified that he provided no further advice on the separate companies other than achieving the objective of equalizing future wealth accrual, so that in the future their wishes on distribution to the children could be met. He said that tax was not an issue, though acknowledged that he organized the Passarellos' business affairs generally in a tax effective way. He described this arrangement as the least tax damaging.
+Analysis
+[19] The sole issue in this case is whether subsection 256(2.1) of the Act applies to deem LJP and Jo-Van to be associated corporations. Subsection 256(2.1) reads as follows:
+256(1) For the purposes of this Act, one corporation is associated with another in a taxation year if, at any time in the year,
+...
+(2.1) For the purposes of this Act, where, in the case of two or more corporations, it may reasonably be considered that one of the main reasons for the separate existence of those corporations in a taxation year is to reduce the amount of taxes that would otherwise be payable under this Act or to increase the amount of refundable investment tax credit under section 127.1, the two or more corporations shall be deemed to be associated with each other in the year.
+[20] I find that the main reason for the separate existence of the companies was to accommodate the Passarellos' desire to equally split their future accrual of wealth, so they could leave their respective estates as they intended; that is, Mrs. Passarello's to the children and Mr. Passarello's to a grandchild and charity, in effect disinheriting his children. This is supported by the Passarellos' most credible testimony, the documents (wills, agency agreement, assignments) and Mr. Fine's corroborating evidence. As far as Mr. and Mrs. Passarello were concerned there was only one reason for the separate companies and that was to resolve a family issue that was tearing them apart. The separate companies allowed the Passarellos to reach a detente, albeit a somewhat uneasy one, and at least be able to get on with their lives.
+[21] Was there, however, a second main reason for the separate companies, the reason of reducing tax? Appellant's counsel, Mr. McRae, was adamant that there was only the one main reason, and the Passarellos compelling testimony was to be believed. I accept both counsel's assertions that credibility is critical. And I do believe the Passarellos testimony, but I also find it is necessary to look at the surrounding circumstances and to those who actually devised the arrangement, especially, as here, where the evidence is that the Passarellos relied entirely on their professional advisor for tax planning advice.
+[22] Respondent's counsel gleaned from the many cases dealing with this issue a number of circumstances that I should consider in ascertaining whether it "may reasonably be considered that one of the main reasons" is the reduction of tax. I review these factors in the context however of my finding that the Passarellos themselves only had one reason in mind for the separate existence of the companies. But as Ms. Boris for the Respondent pointed out, the reason may be an unconscious one. In support of this contention, she relies on the following passage from Justice Urie in Levitt-Safety (Eastern) Ltd. and Levitt-Safety Limited v. M.N.R.:[3]
+... In his narration of the problems he was, in my opinion, a credible witness and I believe, therefore, that the actions that he took were for valid business and personal reasons. However, I do not believe that these were the only reasons that changes were made in the corporate structure of his business since I believe that the evidence also indicates that it must have been in the minds of Mr. Levitt and his advisers that substantial tax savings were available in adopting the solutions to the problems which he did, namely in dividing Safety's business into three separate entities, none of which were associated within the meaning of Section 39 of the Income Tax Act as it then stood. As Jackett, P., as he then was, said in Holt Metal Sales of Manitoba Limited et at. v. The Minister of National Revenue [1970] Ex. CR 612 at page 622, 70 DTC 6108 at 6111-12:
+If the evidence were such as to convince me that some or all of these and other reasons that have been advanced were sufficiently compelling in the minds of William Holt and his advisers to constrain them to select the creation of the Appellants in preference to all other possible methods of achieving the same results, I should have thought that it might be open to me to conclude that the probable reduction in income taxes through having three companies instead of one to enjoy the 18% tax rate was not one of the main reasons for deciding to have three companies instead of one. An example of a case where the other considerations dictated the creation of several corporations and the income tax benefit arising therefrom was only an incidental benefit, is Jordans Rugs Limited et at. v. Minister of National Revenue [1969] CTC 445 [69 DTC 5290]. Here, however, no attempt was made to show that, in the minds of William Holt and his advisers, to achieve any one or more compelling objectives (such as conferring property benefits on members of the family) the only practicable method was the creation of multiple companies (and other methods of achieving such objectives certainly existed); one is left with the conclusion that the very substantial prospective annual reduction in income tax must have been, consciously or unconsciously, one of the main factors that operated on the thinking of William Holt and his advisers to bring them to elect for this particular method of reorganization and re-arrangement of William Holt's affairs in preference to all other alternatives.
+(emphasis mine)
+[23] It is unusual that a court might rely on an unconscious reason of an individual especially where an individual's testimony is so adamantly to the contrary. The inferences must be overwhelming to support such a case. The circumstances in Levitt, supra, were not those of a family in turmoil, but businessmen with some knowledge of tax advantages making calculated business decisions. The Court also simply did not accept Mr. Levitt's contentions and relied on surrounding circumstances to find that tax was a main reason. I am faced with a significantly different situation. I will address the several factors that Ms. Boris suggests are so persuasive as to draw an inference that can override Mr. Passarello's contention that tax was not a main reason.
+[24] (i) Did the business change? Ms. Boris refers to Debruth Investments Ltd. v. M.N.R.[4] where Justice Collier indicated that nothing had really changed in the operation of the business, and that such fact confirmed the view that tax reduction was the main purpose. However, in that case there was some testimony to the effect that tax had been expressly considered, giving rise to the possibility that tax reduction was a main purpose. Justice Collier was looking to the objective facts to confirm that purpose. In the situation of the Passarellos, there is no evidence of any express attention to tax. Given that, the fact that the business of Jo-Van carried on much the same way after LJP was incorporated as before incorporation, does not confirm any pre-existing tax motivation. I do note that the two entities did have separate accounts, bank accounts, payrolls and telephones although they certainly did work from the same premises. To the public they appeared as one business, the business of Jo-Van. Though Mr. Passarello's salary from LJP and the rent paid by LJP were not reimbursed by Jo-Van, most of the other expenses were. So, indeed, there were indications of the business not significantly changing, but I do not find this is a sufficient basis for a determination that a main reason was the reduction of tax.
+[25] (ii) Did Mr. and Mrs. Passarello's role change? Mr. Passarello's role changed only to the extent that, as he became less involved with the American Association of Locksmiths, and more comfortable with the new cease-fire arrangement, he devoted more time to the sales effort. He remained a figurehead for Jo-Van notwithstanding the separate corporate structure. Mrs. Passarello carried on much as before.
+[26] (iii) How close was Academy o/a Jo-Van to its maximum small business limit prior to the establishment of LJP? For the year end October 31, 1993, income before taxes in Academy o/a Jo-Van was $143,000 and for the following year was $185,000. The inference which Ms. Boris wishes me to draw from this is clear.
+[27] (iv) What other tax planning did LJP and Jo-Van engage in? The Passarellos acknowledged that their accountant would bonus down to the small business limit each year. Tax advice was sought in the creditor proof reorganization of Academy. Ms. Boris stressed that the tax tail so wagged the dog that in two years bonuses of $20,000 and $25,000 were paid to the disinherited daughter. Further, Mr. Fine understood tax implications and regularly provided tax advice. It is reasonable, Ms. Boris suggests, that he would continue to do so in the creation of LJP, and it would also be reasonable to think the Passarellos would expect him to do so. I am not swayed that such inferences, given the firsthand testimony from Mr. Fine and the Passarellos, lead to a finding that tax was a main reason. It does satisfy me that the Passarellos could and did expect their advisor to meet their main purpose in a tax effective manner. That is certainly not unreasonable in light of previous professional advice. Yet, there is a quantum leap required to take an expectation of tax effectiveness in a new structure where the main reason for such new structure is so clear, to a finding that tax reduction is one of the main reasons for that structure. Mr. Fine did not cite tax as a reason, let alone a main reason. His concern was for the family, and his objective was to accommodate their needs. I have been persuaded, however, that with his background and history with the Passarellos, tax was a consideration, a reason if you will for Mr. Fine to suggest the arrangement, but it was an incidental, not a main reason.
+[28] (v) Could the Passarellos objective had been achieved by other means? This is a factor referred to in other cases, for example, Baycast Products Ltd. and Bay Bronze (1962) Ltd. v. M.N.R.[5] Under less stressed circumstances, perhaps some other plan not involving a separate company may have worked. But the family was in crisis; they wanted a resolution. Ms. Boris explored the possibility of an internal corporate reorganization, a form of partial freeze with Mr. Fine. He was adamant that Mrs. Passarello would not see any change in her shareholdings in Jo-Van.
+[29] Ms. Boris questioned the effectiveness of the plan contending Mr. Passarello could have received the 5 per cent commission personally. She also maintained that there was no guarantee a purchaser would buy both Jo-Van and LJP, thus not meeting the Passarellos goal of both benefitting from the increase in the value of the goodwill. I disagree. The Passarellos had control over what they sold. Any sale of the business could be structured to require a purchase of the two companies, with the price appropriately allocated. Also, simply having Mr. Passarello accept the commission personally would not achieve the Passarellos' objective in this regard. The possibility of the sale of the built up goodwill was critical to the recommendation Mr. Fine made in his memo of May 1994.
+[30] Mr. Fine testified there may have been more tax effective strategies, though he did not identify any. Given the desperation of the Passarellos to resolve their family issues, I am not surprised that Mr. Fine did not undertake a lengthy review of every possible suitable arrangement. He came up with a plan that made sense to the Passarellos, retained Mrs. Passarello's same ownership interest in Jo-Van, allowed for a division of the growth in goodwill and took more drastic measures such as divorce off the table. I do not infer from these circumstances that tax must have been a main reason.
+[31] (vi) If there had been no tax advantages would the plan have been adopted in any event? This succinct test set forth in Jordans Rugs Ltd. et al. v. M.N.R.[6] was adopted by Justice Mogan in Rosner Management Inc. v. M.N.R.[7] It calls for some speculation, but I have no hesitation in concluding, based on the facts, that yes, absolutely, the Passarellos would have gone ahead with the separate companies had there been no tax advantage. Their main, and in their mind their only reason, would still have been met. There is no evidence to suggest the Passarellos would have insisted on an arrangement that had to produce a reduction in taxes. Simply because their business affairs were handled in a tax effective manner in the past is not sufficient reason to infer that tax, in this highly emotionally charged context, was critical to this arrangement. It was not, and it was not a main reason.
+Conclusion
+[32] This issue is a question of fact and of assessing credibility. I believe the Passarellos did not have the reduction of tax in mind in splitting the business between two companies. Tax was not a reason for them, let alone a main reason, though there was an expectation that Mr. Fine would, as he had in the past, arrange matters tax effectively. Mr. Fine would not have been doing his job for the Passarellos if he did not consider tax. But the consideration of tax was clearly incidental to his desire to help this family resolve a dilemma that was tearing them apart. I am satisfied tax reduction was not a main reason for Mr. Fine's recommendations. The Crown wants me to infer from the surrounding circumstances, which I have enumerated, that there was, in effect, an "unconscious" main reason to reduce tax. Inferences from the fact that the business was carried on similarly after the incorporation of LJP, with Mr. Passarello continuing to play a sales role, combined with a history of effective tax planning are not sufficient to overcome the reality that there was only one main reason for the separate existence of the companies.
+[33] The appeals are allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that LJP and Jo-Van are not associated corporations. Costs to the Appellant.
+Signed at Ottawa, Canada, this 1st day of December, 2003.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2003TCC851
+COURT FILE NO.:
+2001-3021(IT)G
+STYLE OF CAUSE:
+LJP Sales Agency Inc.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 6 and 7, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+December 1, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Thomas McRae
+Counsel for the Respondent:
+Marie-Thérèse Boris
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Martin L. O'Brien, Q.C.
+Firm:
+Shibley Righton L.L.P.
+.
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+-
+[1] Exhibit A-1, Tab 8.
+[2] Exhibit A-1, Tab 7, page 2.
+[3] 73 DTC 5374.
+[4] 73 DTC 5233 (F.C.T.D.)
+[5] 69 DTC 267 (T.A.B.).
+[6] [1969] C.T.C. 445.
+[7] 93 DTC 127.
